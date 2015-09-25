@@ -2,7 +2,7 @@
 
 | 1. | Pályázati azonosító | Pályázó neve | Összes elszámolható költség (Ft) |
 
-| 2. | KEOP-5.6.0/12-2013-0002 | Heim Pál Gyermekkórház | 842 489 460 |
+| 2. | KEOP-5.6.0/12-2013-0002 | Heim Pál Gyermekkórház | 1 192 489 460 |
 
 | 3. | KEOP-5.6.0/12-2013-0003 | Nemzeti Sportközpontok | 360 000 000 |
 
@@ -74,7 +74,7 @@
 
 | 37. | KEOP-5.6.0/12-2013-0027 | Bács-Kiskun Megyei Kormányhivatal | 1 035 221 604 |
 
-| 38. | KEOP-5.6.0/12-2013-0028 | Komárom-Esztergom Megyei Kormányhivatal | 177 800 000 |
+| 38. | KEOP-5.6.0/12-2013-0028 | Komárom-Esztergom Megyei Kormányhivatal | 188 617 211 |
 
 | 39. | KEOP-5.6.0/12-2013-0029 | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 629 390 000 |
 
@@ -130,7 +130,7 @@
 
 | 65. | KEOP-5.6.0/12-2014-0017 | Veszprém Megyei Rendőr-főkapitányság | 245 000 000 |
 
-| 66. | KEOP-5.6.0/12-2014-0018 | Országos Orvosi Rehabilitációs Intézet | 368 000 000 |
+| 66. | KEOP-5.6.0/12-2014-0018 | Országos Orvosi Rehabilitációs Intézet | 697 637 414 |
 
 | 67. | KEOP-5.6.0/12-2014-0019 | Országos Reumatológiai és Fizioterápiás Intézet | 933 500 000 |
 
