@@ -288,6 +288,6 @@
 
 | 5 | Z05 | Központi hitelinformációs rendszer anonimizált adatai | központi hitelinformációs rendszert működtető pénzügyi vállalkozás | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint | MNB Statisztikai igazgatóság |
 
-2. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^6]
+2. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^9]
 
-[^6]: A 2. melléklet a 4/2015. (III. 6.) MNB rendelet 5. §-a, a 21/2015. (VI. 29.) MNB rendelet 1. § (2) bekezdése, a 27/2015. (VIII. 6.) MNB rendelet 2. §-a szerint módosított szöveg.
+[^9]: A 2. melléklet a 4/2015. (III. 6.) MNB rendelet 5. §-a, a 21/2015. (VI. 29.) MNB rendelet 1. § (2) bekezdése, a 27/2015. (VIII. 6.) MNB rendelet 2. §-a, a 37/2015. (IX. 24.) MNB rendelet 2. §-a szerint módosított szöveg.

@@ -874,9 +874,9 @@
 
 ## II. A SZOLGÁLTATANDÓ INFORMÁCIÓKHOZ KAPCSOLÓDÓ TÁBLÁK ÉS AZ AZOK KITÖLTÉSÉRE VONATKOZÓ RENDELKEZÉSEK
 
-## 20142C20000048_4
+## 20142C20000048_5
 
-3. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^7]
+3. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^10]
 
 Az információk szolgáltatásához szükséges technikai segédletek
 
@@ -930,4 +930,4 @@ Az információk szolgáltatásához szükséges technikai segédletek
 
 13. Az egyes nemzetközi intézmények monetáris statisztikai adatszolgáltatásokban történő besorolását meghatározó lista (F01, F03, F08, F09, F14, F19, F33, F77-F87 adatszolgáltatások)
 
-[^7]: A 3. melléklet a 4/2015. (III. 6.) MNB rendelet 6. §-a szerint módosított szöveg.
+[^10]: A 3. melléklet a 4/2015. (III. 6.) MNB rendelet 6. §-a szerint módosított szöveg.
