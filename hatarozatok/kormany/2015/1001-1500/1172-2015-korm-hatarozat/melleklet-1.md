@@ -114,9 +114,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 2,20 | 133,81 | 32,55 | 6,12 | 0,00 | 174,68 |
+| 3. | 2,20 | 133,81 | 30,08 | 6,12 | 0,00 | 172,21 |
 
-| 4. | Többletkötelezettség-vállalás: 32,97 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 30,50 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85 % |
 
@@ -128,7 +128,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 193,05 | 41,10 | 3,41 | 237,56 |
+| 3. | 190,58 | 41,10 | 3,41 | 235,09 |
 
 2.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -162,7 +162,7 @@
 
 | 13. | 2.3.6 | Fiatalok vállalkozóvá válásának támogatása | 0,00 | 6,94 | 0,00 | 0,91 | 0,00 | A konstrukció célja a fiatalok vállalkozóvá válásának elősegítése a vállalkozói tudás, vállalkozói készségek megszerzésével, fejlesztésével, a vállalkozás elindításához szükséges tőkejuttatással, a vállalkozások elindítását követően tanácsadás és mentorálás biztosításával. | nemzetgazdasági miniszter |  |
 
-| 14. | 2.4.3.D | Szociális gazdaság fejlesztése | 0,00 | 15,00 | 0,00 | 1,01 | 0,00 | A konstrukció – többek között – a szociális gazdaság területén induló, működő vállalkozások, szociális szövetkezetek támogatását célozza. A szektor erősítése és növekedése hosszú távon a nyílt munkaerő-piaci foglalkoztatást, ezáltal a biztosabb megélhetést teremti meg a munkanélküliek számára. | nemzetgazdasági miniszter | belügyminiszter |
+| 14. | 2.4.3.D | Szociális gazdaság fejlesztése | 0,00 | 12,53 | 0,00 | 1,01 | 0,00 | A konstrukció – többek között – a szociális gazdaság területén induló, működő vállalkozások, szociális szövetkezetek támogatását célozza. A szektor erősítése és növekedése hosszú távon a nyílt munkaerő-piaci foglalkoztatást, ezáltal a biztosabb megélhetést teremti meg a munkanélküliek számára. | nemzetgazdasági miniszter | belügyminiszter |
 
 | 15. | 2.4.3.E | Szociális gazdaság és a munkaerő-piaci szolgáltatást nyújtó civil szervezetek kapacitásfejlesztését célzó programok megvalósításával összefüggő szakmai fejlesztések | 0,00 | 0,80 | 0,00 | 0,00 | 0,00 | A konstrukció célja a 2.4.3.D konstrukció keretei között pályázó szervezetek, továbbá a 2.6.2 konstrukció keretein belül kiválasztott pályázatok szakmai támogatása, továbbá az ehhez kapcsolódó innovációs tevékenységek támogatása. | nemzetgazdasági miniszter |  |
 
@@ -176,7 +176,7 @@
 
 | 20. | 2.6.2 | Munkaerő-piaci szolgáltatást nyújtó civil szervezetek kapacitásának megerősítése | 0,00 | 1,60 | 0,00 | 0,00 | 0,00 | A konstrukció célja a munkaerő-piaci szolgáltatásokat nyújtó civil szervezetek fejlesztése, a szolgáltatói kapacitások megerősítése különösen a hátrányos helyzetű térségekben. A konstrukció a szervezetek belső kapacitásainak erősítésével, a szervezeti kultúra fejlesztésével az érintett szervezetek által nyújtott szolgáltatások minőségének javítását, a változó társadalmi és gazdasági feltételekhez való igazodását, szakmai innovációs képességének megerősödését szolgálja. | nemzetgazdasági miniszter |  |
 
-| 21. | Összesen | 2,20 | 133,81 | 32,55 | 6,12 | 0,00 |  |  |  |
+| 21. | Összesen | 2,20 | 131,34 | 32,55 | 6,12 | 0,00 |  |  |  |
 
 3. A 3. prioritás: Minőségi oktatás és hozzáférés biztosítása mindenkinek
 
@@ -262,7 +262,7 @@
 
 | 20. | 3.1.15 | Köznevelési reformok operatív megvalósítása | 0,00 | 0,00 | 4,09 | 0,00 | 0,00 | A konstrukció célja a pedagógiai reformok eredményes gyakorlati bevezetésének elősegítése és a köznevelési informatikai rendszer fejlesztése. | emberi erőforrások minisztere |  |
 
-| 21. | 3.1.16 | IT szakemberképzés és az informatika, mint lehetőség a hátrányos helyzetű tanulók számára | 0,00 | 0,00 | 0,50 | 0,00 | 0,00 | A konstrukció célja az informatikai szakmák iránti érdeklődés felkeltése pályaorientáció tevékenység megvalósításával, és az informatikai pályában rejlő lehetőségek felhasználása a társadalmi integráció érdekében. | emberi erőforrások minisztere | nemzeti fejlesztési miniszter |
+| 21. | 3.1.16 | IT szakemberképzés és az informatika, mint lehetőség a hátrányos helyzetű tanulók számára | 0,00 | 0,00 | 0,50 | 0,00 | 1,00 | A konstrukció célja az informatikai szakmák iránti érdeklődés felkeltése pályaorientáció tevékenység megvalósításával, és az informatikai pályában rejlő lehetőségek felhasználása a társadalmi integráció érdekében. | emberi erőforrások minisztere | nemzeti fejlesztési miniszter |
 
 | 22. | 3.1.17 | Az egyházak köznevelési feladatainak támogatása | 0,00 | 0,00 | 0,00 | 2,00 | 0,00 | A konstrukció célja, hogy a bevett egyházak fenntartásában lévő köznevelési intézmények egyenlő esélyeket biztosító, hatékony és minőségi köznevelési szolgáltatásokat biztosítsanak. Ennek érdekében a konstrukció keretében a bevett egyházak – mint intézményfenntartók – hatékonyabb szervezetrendszerének kialakítására és irányítási, módszertani, minőségbiztosítási kompetenciáinak fejlesztésére kerül sor. | emberi erőforrások minisztere |  |
 
@@ -320,7 +320,7 @@
 
 | 47. | 3.3.16 | Szimfónia | 0,00 | 0,00 | 0,30 | 0,00 | 0,00 | A konstrukció célja a zenére, a hangszerek ismeretének elsajátítására, a muzikalitás javítására, az együtt zenélésre építve az általános iskolában tanuló, hátrányos helyzetű gyermekek és fiatalok társadalmi beilleszkedésének elősegítése, a társas kompetenciák és koncentrációs képességek fejlesztése. | emberi erőforrások minisztere |  |
 
-| 47a. | 3.3.16.B | Digitális Nemzeti Fejlesztési Program pilot jellegű megvalósítása | 0,00 | 0,00 | 0,00 | 0,00 | 1,00 | A konstrukció célja a hátrányos helyzetű tanulók oktatását és nevelését célzó programok pilot jellegű kipróbálása. | emberi erőforrások minisztere | – |
+| 47a. |  |  |  |  |  |  |  |  |  |  |
 
 | 48. | 3.3.17 | Iskola a természetben | 0,00 | 0,00 | 0,00 | 0,60 | 0,89 | A konstrukció célja a hátrányos helyzetű településeken a tanulók – iskolai keretek közti – megismertetése a helyi természeti adottságban rejlő lehetőségekkel, különös tekintettel a mezőgazdasági ismeretekre. A konstrukció keretében nemzetközi referenciával bíró program hazai adaptációjára és ahhoz kapcsolódó módszertani fejlesztésre kerül sor. | emberi erőforrások minisztere |  |
 
@@ -462,9 +462,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 37,44 | 43,28 | 5,39 | 3,73 | 1,96 | 91,80 |
+| 3. | 37,44 | 43,28 | 5,39 | 3,73 | 2,76 | 92,60 |
 
-| 4. | Többletkötelezettség-vállalás: 13,30 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 14,10 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85 % |
 
@@ -476,7 +476,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 127,63 | 8,70 | 9,56 | 145,89 |
+| 3. | 127,63 | 8,70 | 10,36 | 146,69 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -516,7 +516,7 @@
 
 | 15. | 5.3.6.B | Szakmai-módszertani támogatás a komplex telepprogram és az elnéptelenedő falvak társadalmi-gazdasági folyamatainak megfordítását célzó program megvalósítói számára | 0,00 | 0,00 | 0,82 | 0,00 | 0,00 | A konstrukció célja kettős: 1. komplex telepprogram megvalósításának szakmai-módszertani támogatása, nyomon követése, jó gyakorlatok beazonosítása és adaptációjának elősegítése, a mérések feldolgozása, összegzése, szakmai és tudományos publikációja nemzetközi színtéren (csak konvergencia), 2. az elnéptelenedő településeken komplex telepprogramot megvalósító kedvezményezettek szakmai-módszertani támogatása, a beavatkozás időközi és záró értékelése (arányosított). | emberi erőforrások minisztere |  |
 
-| 16. | 5.3.8.A | A leghátrányosabb helyzetű csoportok munkaerő-piaci esélyeinek növelése érdekében motiváló képzések és támogató szolgáltatások | 4,90 | 4,70 | 0,00 | 0,00 | 0,00 | A konstrukció célja a leghátrányosabb helyzetű csoportok tagjainak nyílt munkaerő-piaci elhelyezkedését támogató képzések, felmérések és fejlesztések kidolgozása és lebonyolítása, támogató szolgáltatások létrehozása. | emberi erőforrások minisztere |  |
+| 16. | 5.3.8.A | A leghátrányosabb helyzetű csoportok munkaerő-piaci esélyeinek növelése érdekében motiváló képzések és támogató szolgáltatások | 4,90 | 4,70 | 0,00 | 0,00 | 0,30 | A konstrukció célja a leghátrányosabb helyzetű csoportok tagjainak nyílt munkaerő-piaci elhelyezkedését támogató képzések, felmérések és fejlesztések kidolgozása és lebonyolítása, támogató szolgáltatások létrehozása. | emberi erőforrások minisztere |  |
 
 | 17. | 5.3.8.B | A leghátrányosabb helyzetű csoportok munkaerő-piaci esélyeinek növelése érdekében motiváló képzések és támogató szolgáltatások | 7,31 | 0,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja a leghátrányosabb helyzetű csoportok helyzetének javítása, az elszegényedés, a leszakadás mértékének és hatásainak csökkentése, az etnikai és szociális szegregáció fékezése, a szociális ellátórendszerhez és szolgáltatásokhoz való hozzáférésének javítása munkaerő-piaci integrációjuk előmozdítása, foglalkoztathatóságuk segítése érdekében. | emberi erőforrások minisztere |  |
 
@@ -554,13 +554,15 @@
 
 | 34. | 5.5.4 | Lakóközösségi programok, kezdeményezések támogatása | 0,00 | 1,50 | 0,00 | 0,00 | 0,00 | A konstrukció célja a lakossági közösségi kezdeményezések támogatása, a társadalmi integráció és kohézió elősegítése közösségi programokon keresztül. | emberi erőforrások minisztere |  |
 
+| 34a. | 5.5.8. | Modellprogram a szociális szövetkezetek hálózatosodása érdekében | 0,00 | 0,00 | 0,00 | 0,00 | 0,50 | A konstrukció célja a helyi keresletre reagáló, a helyi közösség hasznát szolgáló kezdeményezések támogatása. | emberi erőforrások minisztere | – |
+
 | 35. | 5.6.1.B | Bűnmegelőzés szempontjából kiemelten fontos, bűnelkövető, vagy bűnelkövetés szempontjából veszélyeztetett gyermek- és fiatalkorúak segítése | 0,00 | 1,97 | 0,00 | 0,18 | 0,00 | A konstrukció célja a bűnelkövetés szempontjából kiemelten veszélyeztetett gyermekek és fiatalkorúak segítése, a veszélyeztetett korosztály áldozattá és bűnelkövetővé válásának megelőzése, a normaszegéssel járó társadalmi hátrányok csökkentése, valamint integrációs esélyeik növelése, a gyermek- és fiatalkorúakkal foglalkozó szakemberek ismereteinek növelése, készségfejlesztése. | belügyminiszter |  |
 
 | 36. | 5.6.1.C | Az áldozattá válás megelőzése, áldozatsegítés | 2,76 | 0,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja a civil szervezetek, valamint az áldozatsegítésben közvetve érintett állami szervezetek, intézmények bekapcsolása az állami Áldozatsegítő Szolgálat munkájába, az állampolgárok önvédelmi képességének javítása, a felkészített állampolgárok számának növekedése, ezáltal a bűncselekmények számának csökkentése, az áldozattá vált személyeknek nyújtható szolgáltatások szélesítése, az áldozatokkal kapcsolatba kerülő intézmények, szakemberek érzékenységének, tudásának növelése, empatikusabb munkavégzésre ösztönzése. | belügyminiszter |  |
 
 | 37. | 5.6.3 | Az elítéltek többszakaszos, társadalmi és munkaerő-piaci reintegrációja és az intenzív utógondozás modellje | 0,00 | 2,69 | 0,00 | 0,00 | 0,30 | A konstrukció célja egy olyan országos hatókörű re-integrációs program kialakítása és megvalósítása, amely a fogvatartottak szükségleteire építve, differenciáltan kínál egyéni megoldásokat a társadalmi és munkaerő-piaci visszailleszkedésre. | belügyminiszter | nemzetgazdasági miniszter |
 
-| 38. | Összesen | 37,44 | 43,28 | 5,39 | 3,73 | 1,96 |  |  |  |
+| 38. | Összesen | 37,44 | 43,28 | 5,39 | 3,73 | 2,76 |  |  |  |
 
 6. A 6. prioritás: Egészségmegőrzés és egészségügyi humánerőforrás-fejlesztés
 
@@ -689,4 +691,4 @@
 | 3. | 7.2.1 | Az OP lebonyolításával kapcsolatos egyéb feladatok | 4,85 | 4,85 | 4,85 | 0,00 | 0,00 | A konstrukció célja, hogy biztosítsa a Társadalmi Megújulás Operatív Program lebonyolításával kapcsolatos specifikus feladatok költséghatékony és eredményes ellátását (pl. monitoring bizottság működtetése, beleértve annak titkársági feladatai ellátását is, az éves megvalósítási jelentések, a Társadalmi Megújulás Operatív Program végrehajtását érintő tanulmányok, elemzések, a Nemzeti Stratégiai Referencia Keret-szintű értékelési tervben nem szereplő, valamint a monitoring bizottság kezdeményezésére indított értékelések). | emberi erőforrások minisztere |  |
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja, az 1685/2015. (IX. 24.) Korm. határozat 3–4. pontja szerint módosított szöveg.
