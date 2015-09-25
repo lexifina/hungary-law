@@ -1,4 +1,4 @@
-111. §[^365] (1) A rendszerhasználó köteles a szállítási rendszerüzemeltető részére a napi szállítási feladatot a nominálás és az újranominálás során az ÜKSZ szerint megadni.
+111. §[^366] (1) A rendszerhasználó köteles a szállítási rendszerüzemeltető részére a napi szállítási feladatot a nominálás és az újranominálás során az ÜKSZ szerint megadni.
 
 (2) A rendszerhasználó jogosult a nominálásuktól elkülönített módon a szállítási rendszerüzemeltető számára az ÜKSZ-ben és a kereskedési platform szabályzatában meghatározott módon a hidraulikai egyensúlyozáshoz szükséges rugalmassági eszközöket felajánlani a kereskedési platformon.
 
@@ -8,4 +8,4 @@
 
 (5) Korlátozás esetében a rendszerhasználó azon szabad rendelkezésű forrásait, amelyeket nem korlátozott felhasználóik ellátására nem használtak fel, a GET 97/C. § (3) bekezdésével és a kereskedési platform szabályzatával összhangban köteles a kereskedési platformon felajánlani.
 
-[^365]: A Vhr. 111. §-át a 265/2009. (XII. 1.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan a 91/2015. (IV. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^366]: A Vhr. 111. §-át a 265/2009. (XII. 1.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan a 91/2015. (IV. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be.

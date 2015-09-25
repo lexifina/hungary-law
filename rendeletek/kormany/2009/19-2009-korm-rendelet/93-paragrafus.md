@@ -2,6 +2,6 @@
 
 ## Hozzáférés felfüggesztése
 
-93. §[^307]
+93. §[^308]
 
-[^307]: A Vhr. 93. §-át a 91/2015. (IV. 9.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^308]: A Vhr. 93. §-át a 91/2015. (IV. 9.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.

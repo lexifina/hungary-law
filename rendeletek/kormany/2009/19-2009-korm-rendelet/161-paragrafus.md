@@ -1,3 +1,3 @@
-161. §[^520]
+161. §[^521]
 
-[^520]: A Vhr. 161. §-át a 91/2015. (IV. 9.) Korm. rendelet 23. § g) pontja hatályon kívül helyezte.
+[^521]: A Vhr. 161. §-át a 91/2015. (IV. 9.) Korm. rendelet 23. § g) pontja hatályon kívül helyezte.

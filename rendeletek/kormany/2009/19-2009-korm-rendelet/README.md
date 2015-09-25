@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2015-06-07 | 2009-19-20-22.41 | 123/2015. (V. 26.) Korm. rendelet |
 | 2015-06-10 | 2009-19-20-22.42 | 137/2015. (VI. 2.) Korm. rendelet |
 | 2015-09-11 | 2009-19-20-22.43 | 254/2015. (IX. 10.) Korm. rendelet |
+| 2015-09-25 | 2009-19-20-22.44 | 254/2015. (IX. 10.) Korm. rendelet |
