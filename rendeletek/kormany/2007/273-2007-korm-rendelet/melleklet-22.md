@@ -1,3 +1,3 @@
-22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^456]
+22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^465]
 
-[^456]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
+[^465]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
