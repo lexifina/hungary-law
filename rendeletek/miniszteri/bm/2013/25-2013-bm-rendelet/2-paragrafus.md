@@ -2,7 +2,7 @@
 
 2. § (1) A rendőr-főkapitányság hatáskörébe az 1. mellékletben felsorolt bűncselekmények nyomozása tartozik.
 
-(2) A KR NNI hatáskörébe tartozik
+(2)[^2] A KR hatáskörébe tartozik
 
 a) a 2. mellékletben felsorolt bűncselekmények nyomozása,
 
@@ -12,8 +12,11 @@ b) a bűncselekmény bűnszervezetben történő elkövetésének gyanúja eset�
 
 a) a 3. mellékletben felsorolt bűncselekmények nyomozása, ha azokat az RRI – a Rendőrség szervei illetékességi területének megállapításáról szóló miniszteri rendeletben (a továbbiakban: miniszteri rendelet) meghatározott – illetékességi területén követték el, valamint
 
-b) az illetékességi területén elkövetett azon bűncselekmények nyomozása, amelyek nem a rendőr-főkapitányság vagy a KR NNI hatáskörébe tartoznak.
+b)[^3] az illetékességi területén elkövetett azon bűncselekmények nyomozása, amelyek nem a rendőr-főkapitányság vagy a KR hatáskörébe tartoznak.
 
 (4) A vízirendészeti rendőrkapitányság hatáskörébe tartozik a 4. mellékletben felsorolt bűncselekmények nyomozása, ha azokat a vízirendészeti rendőrkapitányság – miniszteri rendeletben meghatározott – illetékességi területén követték el.
 
 (5) A rendőrkapitányság hatáskörébe tartozik – a (3) bekezdés b) pontjában és a (4) bekezdés b) pontjában megjelölt bűncselekmények kivételével – a Rendőrség nyomozó hatóságainak hatáskörébe tartozó, az 1–4. mellékletben fel nem sorolt bűncselekmények nyomozása.
+
+[^2]: A 2. § (2) bekezdés nyitó szövegrésze az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdés b) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 2. pontja szerint módosított szöveg.

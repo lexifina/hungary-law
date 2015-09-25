@@ -158,9 +158,9 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 20.1. Btk. 389. § (2) bekezdés a) pont – Különösen nagy vagy azt meghaladó értékű pénzre elkövetett pénzhamisítás bűntette
 
-20.2. Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az a KR NNI kizárólagos hatáskörébe tartozó bűncselekmény elkövetésére irányul
+20.2.[^36] Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az a KR kizárólagos hatáskörébe tartozó bűncselekmény elkövetésére irányul
 
-20.3. Btk. 390. § (1) bekezdés – Pénzhamisítás elősegítésének vétsége, ha az a KR NNI kizárólagos hatáskörébe tartozó bűncselekménnyel összefüggésben valósul meg
+20.3.[^37] Btk. 390. § (1) bekezdés – Pénzhamisítás elősegítésének vétsége, ha az a KR kizárólagos hatáskörébe tartozó bűncselekménnyel összefüggésben valósul meg
 
 20.4. Btk. 391. § (3) bekezdés a) pont – Különösen nagy vagy azt meghaladó értékű bélyegre elkövetett bélyeghamisítás bűntette
 
@@ -177,3 +177,6 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 22.2. Btk. 423. § (3) bekezdés – Közérdekű üzem ellen elkövetett információs rendszer vagy adat megsértése bűntette
 
 22.3. Btk. 424. § – Közérdekű üzem ellen elkövetett információs rendszer védelmét biztosító technikai intézkedés kijátszásának vétsége, kivéve az RRI hatáskörébe tartozó eseteket
+
+[^36]: A 2. melléklet 20. pont 20.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
+[^37]: A 2. melléklet 20. pont 20.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
