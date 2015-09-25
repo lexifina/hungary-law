@@ -22,14 +22,17 @@ b) a felsőfokú büntetés-végrehajtási szakvizsga 1984. január 1-jétől t�
 
 a) az Országos Rendőr-főkapitányság Oktatási és Kiképzési Központja, BM Rendőr-zászlósképző Iskola és jogelőd intézményei szakképzési tagozatának elvégzését igazoló bizonyítványt, vagy
 
-b) a BVOK-ban a középfokú szaktanfolyam 1996. szeptember 1. utáni elvégzését igazoló bizonyítványt.
+b)[^11] a BVOTRK-ban a középfokú szaktanfolyam 1996. szeptember 1. utáni elvégzését igazoló bizonyítványt.
 
 (4) Alapfokú büntetés-végrehajtási képesítésnek kell elfogadni:
 
 a) a BM Rendőriskola, az őri tanfolyam, a Büntetés-végrehajtási Őri Iskola és jogutóda (a Büntetés-végrehajtási Alapfokú Iskola, a Büntetés-végrehajtási Tiszthelyettesképző Iskola) elvégzését igazoló bizonyítványt, vagy
 
-b) a BVOK-ban az alapfokú szaktanfolyam 1996. szeptember 1. utáni elvégzését igazoló bizonyítványt.
+b)[^12] a BVOTRK-ban az alapfokú szaktanfolyam 1996. szeptember 1. utáni elvégzését igazoló bizonyítványt.
 
 (5) Középfokú rendőri képesítésnek kell elfogadni az Országos Rendőr-főkapitányság Oktatási és Kiképzési Központja, a BM Rendőr-zászlósképző Iskola és jogelőd intézményei szakképzési tagozatának elvégzését igazoló bizonyítványt, a bűnügyi szaktanfolyamon és a rendőr szervező tanfolyamon korábban szerzett végzettségeket.
 
 (6) A kiegészítő képzés és a vizsga helyett az (1) bekezdésben meghatározottak mellett az 5. mellékletben meghatározott Országos Képzési Jegyzék szerinti szakképesítések fogadhatók el.
+
+[^11]: A 7. § (3) bekezdés b) pontja az 52/2015. (IX. 24.) BM rendelet 5. § e) pontja szerint módosított szöveg.
+[^12]: A 7. § (4) bekezdés b) pontja az 52/2015. (IX. 24.) BM rendelet 5. § e) pontja szerint módosított szöveg.

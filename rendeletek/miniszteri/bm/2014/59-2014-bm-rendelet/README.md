@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-59-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-01-01 | 2014-59-20-0A.1 | 59/2014. (XII. 8.) BM rendelet |
+| 2015-09-25 | 2014-59-20-0A.2 | 52/2015. (IX. 24.) BM rendelet |
