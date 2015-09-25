@@ -30,7 +30,7 @@ e) a pályázó által tett az egy és ugyanazon vállalkozás minősítésére 
 
 (6) A támogatásra vonatkozó döntést a Bíráló Bizottság javaslata alapján és bevonásával a miniszter hozza meg, és döntéséről értesíti a Herman Ottó Intézetet.
 
-(7) A pályázatokat, valamint az egyedi támogatási kérelmeket a benyújtási határidő utolsó napját követő hatvan naptári napon belül kell elbírálni. A támogatási döntés az igényeltnél alacsonyabb mértékű támogatás megítélésére is vonatkozhat. Az igényeltnél alacsonyabb mértékű támogatás megítélése esetén – pályázati céltól függően – a pályázónak, illetve az egyedi támogatási kérelmet benyújtó ügyfélnek lehetősége van a pályázati tartalmat, valamint az egyedi támogatási kérelemben foglalt szakmai tartalmat az igényelt és az odaítélt támogatás különbségének összegével csökkenteni.
+(7)[^2] A pályázatokat a benyújtási határidő utolsó napját követő százhúsz naptári napon beül, az egyedi támogatási kérelmeket a benyújtási határidő utolsó napját követő hatvan naptári napon belül kell elbírálni. A támogatási döntés az igényeltnél alacsonyabb mértékű támogatás megítélésére is vonatkozhat. Az igényeltnél alacsonyabb mértékű támogatás megítélése esetén – pályázati céltól függően – a pályázónak, illetve az egyedi támogatási kérelmet benyújtó ügyfélnek lehetősége van a pályázati tartalmat, valamint az egyedi támogatási kérelemben foglalt szakmai tartalmat az igényelt és az odaítélt támogatás különbségének összegével csökkenteni.
 
 (8) A támogatási döntésről – annak meghozatalát követő tíz naptári napon belül – pályázat esetében a Herman Ottó Intézet, egyedi támogatási kérelem esetében a miniszter írásban értesíti az érintett ügyfeleket.
 
@@ -51,3 +51,5 @@ f) a támogatásban részesülő ügyfél részére támogatási célonként meg
 g) a támogatási döntés meghozatalának időpontja,
 
 h) a támogatásban részesülő ügyfél nyilatkozata szerint kapott valamennyi, az általános csekély összegű rendelet hatálya alá tartozó csekély összegű támogatás euróban kifejezett összege.
+
+[^2]: A 8. § (7) bekezdése az 58/2015. (IX. 24.) FM rendelet 12. §-ával megállapított szöveg.

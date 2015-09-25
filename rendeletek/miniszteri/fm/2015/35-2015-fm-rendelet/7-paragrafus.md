@@ -8,6 +8,8 @@ b) a pályázatokat az elektronikus felületen kitöltött pályázati adatlapon
 
 c) a pályázó egy célterületen belül kizárólag egy pályázatot nyújthat be, valamint
 
-d) a Herman Ottó Intézet a formai vagy tartalmi szempontból hiányosan benyújtott pályázat esetén, a pályázat beérkezését követő tizenöt naptári napon belül, a hiányok megjelölésével, egy alkalommal, tíz naptári nap határidő kitűzésével hiánypótlásra szólítja fel a pályázót és egyben figyelmezteti, hogy ha a pályázatot a kitűzött határidőn belül nem vagy ismételten hiányosan nyújtja be, az elutasításra kerül.
+d)[^1] a Herman Ottó Intézet a formai vagy tartalmi szempontból hiányosan benyújtott pályázat esetén, a pályázat beérkezését követő negyvenöt naptári napon belül, a hiányok megjelölésével, egy alkalommal, tíz naptári nap határidő kitűzésével hiánypótlásra szólítja fel a pályázót és egyben figyelmezteti, hogy ha a pályázatot a kitűzött határidőn belül nem vagy ismételten hiányosan nyújtja be, az elutasításra kerül.
 
 (2) Az 5. célterület esetében az egyedi támogatási kérelmet papír alapon egy eredeti példányban, postai úton, 2015. augusztus 15-ig (postai bélyegző dátuma) kell benyújtani a minisztériumhoz.
+
+[^1]: A 7. § (1) bekezdés d) pontja az 58/2015. (IX. 24.) FM rendelet 14. §-a szerint módosított szöveg.
