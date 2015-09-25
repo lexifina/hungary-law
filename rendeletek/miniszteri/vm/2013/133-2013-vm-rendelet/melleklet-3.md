@@ -12,7 +12,7 @@
 
 ## 4. Kiállítás helye, időpontja
 
-## 5. Kiállító megyei kormányhivatal földművelésügyi igazgatóság aláírása, bélyegzője
+## 5.[^150] Kiállító halgazdálkodási hatóság aláírása, bélyegzője
 
 ## Fogási tanúsítvány belső lapjain
 
@@ -84,13 +84,13 @@
 
 Állami halászjegy adattartalma:
 
-1. Kiállító megyei kormányhivatal földművelésügyi igazgatóság megnevezése
+1.[^151] Kiállító halgazdálkodási hatóság megnevezése
 
-2. Állami halászjegy érvényességének éve
+2.[^152] Állami halászjegy kiállításának éve, az alábbi szöveg feltüntetésével: „Az érvényesítést követő év január 31-éig érvényes.”
 
 3. Állami halászjegy sorszáma
 
-4. Állami halászjegy díja
+4.[^153] Állami halászjegy díja; illetve a díjmentesség jelzése, a díjmentességet igazoló jogszabályi hely megjelölésével
 
 5. Engedélyes
 
@@ -100,11 +100,11 @@ b) születési hely, ideje
 
 c) lakóhelye
 
-6. Figyelemfelhívó szöveg az alábbiak szerint: „Csak személyi azonosító okmányokkal együtt érvényes! Az állami halászjegy a területi jegyen feltüntetett vízterületen, a területi jeggyel és a fogási naplóval együtt kizárólag rekreációs célú halászatra jogosít, másra átruházni tilos!”
+6.[^154] Figyelemfelhívó szöveg az alábbiak szerint: „Csak személyi azonosító okmánnyal együtt érvényes! Az állami halászjegy a területi jegyen feltüntetett vízterületen, a területi jeggyel és a fogási naplóval együtt kizárólag rekreációs célú halászatra jogosít, másra átruházni tilos!”
 
 7. Kiállítás helye, időpontja
 
-8. Kiállító megyei kormányhivatal földművelésügyi igazgatóság aláírása, bélyegzője
+8.[^155] Kiállító halgazdálkodási hatóság aláírása, bélyegzője
 
 9. Hatósági, illetve halászati őri megjegyzések rovat
 
@@ -114,7 +114,7 @@ II. rész
 
 1. „Állami halászvizsga bizonyítvány” felirat
 
-2. Kiállító megyei kormányhivatal földművelésügyi igazgatóság megnevezése
+2.[^156] Kiállító halgazdálkodási hatóság megnevezése
 
 3. Sorszám
 
@@ -132,4 +132,13 @@ d) lakóhelye
 
 6. Kiállítás helye, időpontja
 
-7. Kiállító megyei kormányhivatal földművelésügyi igazgatóság aláírása, bélyegzője
+7.[^157] Kiállító halgazdálkodási hatóság aláírása, bélyegzője
+
+[^150]: A 2. melléklet I. rész 5. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^151]: A 3. melléklet I. rész 1. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^152]: A 3. melléklet I. rész 2. pontja az 56/2015. (IX. 24.) FM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^153]: A 3. melléklet I. rész 4. pontja az 56/2015. (IX. 24.) FM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^154]: A 3. melléklet I. rész 6. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 42. pontja szerint módosított szöveg.
+[^155]: A 3. melléklet I. rész 8. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^156]: A 3. melléklet II. rész 2. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^157]: A 3. melléklet II. rész 7. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-37. § (1) A miniszter által kiadott kutatási célú halfogási engedély Magyarország valamennyi halgazdálkodási vízterületén feljogosít halak és más hasznos víziállatok tudományos kutatására, felmérésére és a vizsgálatokhoz szükséges gyűjtésére. Védett természeti területen végzett gyűjtés, illetve természetvédelmi oltalom alatt álló fajok begyűjtése ezen engedélyen túlmenően a természet védelméről szóló törvényben előírt egyéb engedélyek birtokában végezhető.
+37. § (1)[^117] A miniszter által kiadott kutatási célú halfogási engedély Magyarország valamennyi halgazdálkodási vízterületén feljogosít halak és más hasznos víziállatok tudományos kutatására, felmérésére és a vizsgálatokhoz szükséges minták gyűjtésére. Védett természeti területen végzett gyűjtés, illetve természetvédelmi oltalom alatt álló fajok begyűjtése ezen engedélyen túlmenően a természet védelméről szóló törvényben előírt egyéb engedélyek birtokában végezhető.
 
 (2) Az (1) bekezdés szerinti tevékenység végzése csak az engedélyben felsorolt eszközök alkalmazásával lehetséges.
 
-(3) Az (1) bekezdés szerinti kutatási célú halászati engedéllyel – a halgazdálkodásra jogosulttal egyeztetett mennyiségben – laboratóriumi vizsgálatokhoz minta gyűjthető.
+(3)[^118] Az (1) bekezdés szerinti kutatási célú halfogási engedéllyel – a halgazdálkodásra jogosulttal egyeztetett mennyiségben – laboratóriumi vizsgálatokhoz minta gyűjthető.
 
-(4) Az (1) bekezdés szerinti tevékenységet az engedélyes köteles a tevékenység megkezdése előtt legalább 24 órával egyidejűleg bejelenteni az érintett vízterületen halgazdálkodásra jogosultnak és a kormányhivatal földművelésügyi igazgatóságának faxon vagy e-mailen. A bejelentésnek tartalmaznia kell
+(4)[^119] Az (1) bekezdés szerinti tevékenységet az engedélyes köteles a tevékenység megkezdése előtt legalább 24 órával egyidejűleg bejelenteni az érintett vízterületen halgazdálkodásra jogosultnak és a halgazdálkodási hatóságnak faxon vagy e-mailen. A bejelentésnek tartalmaznia kell
 
 a) a halászat időpontjának és helyeinek megjelölését, több napos folyamatos halászat esetén a kezdő és a záró napot,
 
@@ -18,9 +18,9 @@ d) a kutatás célját.
 
 (6) A kutatási célú halfogási tevékenység teljes ideje alatt az abban résztvevők kötelesek jól látható megkülönböztető jelzést viselni, amelyen szerepel a „HALKUTATÁS” felirat.
 
-(7) Az (1) bekezdés szerinti engedélyesnek a kutatás ideje alatt a helyszínen kell tartózkodnia. A kutatási segédek az engedélyes irányítása alatt, bármely az engedélyben szereplő halászeszközt kizárólag az engedélyessel együtt használhatják.
+(7)[^120] Az (1) bekezdés szerinti engedélyesnek a kutatás ideje alatt a helyszínen kell tartózkodnia. A kutatási segédek az engedélyes irányítása alatt, bármely az engedélyben szereplő halászeszköz használatában segédkezhetnek, de azokat önállóan csak kutatási célú halfogási engedély birtokában használhatják.
 
-(8) A bejelentett utolsó kutatási nap után 30 napon belül a kutatónak egyszerűsített jelentést kell elektronikus formában küldenie a kormányhivatal földművelésügyi igazgatóságának, valamint a vizsgált nyilvántartott halgazdálkodási vízterület halgazdálkodási hasznosítójának, illetve a területileg illetékes nemzeti park igazgatóságnak. A jelentésnek tartalmaznia kell:
+(8)[^121] A bejelentett utolsó kutatási nap után 30 napon belül a kutatónak egyszerűsített jelentést kell elektronikus formában küldenie a halgazdálkodási hatóságnak, valamint a vizsgált nyilvántartott halgazdálkodási vízterület halgazdálkodási hasznosítójának, illetve a területileg illetékes nemzeti park igazgatóságnak. A jelentésnek tartalmaznia kell:
 
 a) a kutatást végző személy vagy személyek nevét;
 
@@ -36,4 +36,11 @@ f) a megfogott halak fajlistáját, valamint
 
 g) a mintaként begyűjtött és kifogott halak kutatási naplóban is rögzített faját, darabszámát és össztömegét.
 
-(9) Ha az engedélyes, a (2)–(8) bekezdésben foglalt kötelezettségeinek nem tesz eleget, a kormányhivatal földművelésügyi igazgatósága a cselekmény súlyára és ismétlődésére tekintettel kezdeményezheti a kutatási engedély visszavonását a miniszternél.
+(9)[^122] Ha az engedélyes, a (2)–(8) bekezdésben foglalt kötelezettségeinek nem tesz eleget, a halgazdálkodási hatóság a cselekmény súlyára és ismétlődésére tekintettel kezdeményezheti a kutatási engedély visszavonását a miniszternél.
+
+[^117]: A 37. § (1) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 34. pontja szerint módosított szöveg.
+[^118]: A 37. § (3) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 35. pontja szerint módosított szöveg.
+[^119]: A 37. § (4) bekezdés nyitó szövegrésze az 56/2015. (IX. 24.) FM rendelet 22. § 4. pontja szerint módosított szöveg.
+[^120]: A 37. § (7) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 36. pontja szerint módosított szöveg.
+[^121]: A 37. § (8) bekezdés nyitó szövegrésze az 56/2015. (IX. 24.) FM rendelet 22. § 4. pontja szerint módosított szöveg.
+[^122]: A 37. § (9) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.

@@ -62,6 +62,6 @@
 
 | fogassüllő | Sander lucioperca | 200 | 3000 |
 
-## * Megjegyzés: A felső méretkorlátozással védett halfajok felső méretet elérő vagy meghaladó egyede esetében a halgazdálkodási érték példányonként a táblázat szerint számított érték ötszöröse.
+## * Megjegyzés: A méret-, vagy darabszám-korlátozással, vagy fajlagos tilalmi időszakkal védett halfajok méreten aluli, vagy kifogható darabszámot meghaladó, vagy fajlagos tilalmi időben jogosulatlanul kifogott, illetve a helyi horgászrendben felső méretkorlátozással védett halfajok felső méretet elérő vagy meghaladó egyede esetében a halgazdálkodási érték példányonként a táblázat szerint számított érték ötszöröse.
 
 2. melléklet a 133/2013. (XII. 29.) VM rendelethez

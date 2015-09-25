@@ -1,8 +1,8 @@
-## I. rész
+## I. rész[^174]
 
 ## Halászati őr és társadalmi halőr esküjének letételéről szóló esküokmány adattartalmáról
 
-## Kiállító megyei kormányhivatal földművelésügyi igazgatóság megnevezése
+## Kiállító halgazdálkodási hatóság megnevezése
 
 ## Ügyiratszám
 
@@ -22,7 +22,7 @@
 
 ## Kiállítás helye, időpontja
 
-## Kiállító kormányhivatal földművelésügyi igazgatóság aláírása, bélyegzője
+## Kiállító halgazdálkodási hatóság aláírása, bélyegzője
 
 ## Szolgálati eskü szövege:
 
@@ -34,11 +34,11 @@
 
 ## Esküvevő aláírása
 
-## II. rész
+## II. rész[^175]
 
 ## Halászati őri vizsga és továbbképzési vizsga bizonyítványának adattartalma
 
-## Kiállító megyei kormányhivatal földművelésügyi igazgatóság megnevezése
+## Kiállító halgazdálkodási hatóság megnevezése
 
 ## Sorszám
 
@@ -54,7 +54,7 @@
 
 ## Kiállítás helye, ideje
 
-## Kiállító megyei kormányhivatal földművelésügyi igazgatóság aláírása, bélyegzője
+## Kiállító halgazdálkodási hatóság aláírása, bélyegzője
 
 ## III. rész
 
@@ -76,13 +76,23 @@
 
 ## 3. Egyedi logó: Sötétkék kör alakú mezőben a ponty faj (Cyprinus carpio) fehér színű, jobbra néző sematikus ábrázolása helyezkedik el, alatta fekete színű „HALÁSZATI ŐR” félkör felirat található.
 
+## IV/A. RÉSZ[^176]
+
+## AZ ÁLLAMI HALÁSZATI ŐR SZOLGÁLATI JELVÉNYE
+
+## 1. A szolgálati azonosító jelvény 80 mm magas, 60 mm széles ovális, felül „RENDÉSZETI FELADATELLÁTÁS” felirat, alul sorszám található. A középső síkban 45 mm átmérőjű egyedi logó kap helyet, melynek alsó széle az alapjelvény aljától 10 mm-re van. A jelvényen található sorszám 6 számjegyből áll.
+
+## 2. A szolgálati azonosító jelvény fekete bőralátéten rögzített, mely gombolásos kivitelű. A bőralátét 2 mm-rel szélesebb a fémjelvénynél, felül a gombolás céljára lyukasztott és hasított.
+
+## 3. Egyedi logó: Sötétkék kör alakú mező közepén 14 mm magasságú Magyarország-címer látható, a címer felett a harcsa faj (Silurus glanis) fehér színű, jobbra néző sematikus ábrázolása helyezkedik el, a címer alatt „ÁLLAMI HALÁSZATI ŐR” félkör felirat található.
+
 ## V. rész
 
 ## Halászati őr (társadalmi halőr) szolgálati napló adattartalma
 
 ## 1. „Halászati őr / Társadalmi halőr szolgálati naplója” felirat
 
-## 2. Kiállító megyei kormányhivatal földművelésügyi igazgatóság megnevezése
+## 2.[^177] Kiállító halgazdálkodási hatóság megnevezése
 
 ## 3. Sorszám
 
@@ -104,7 +114,7 @@
 
 ## 9. Kiállítás helye, időpontja
 
-## 10. Kiállító megyei kormányhivatal földművelésügyi igazgatóság aláírása, bélyegzője
+## 10.[^178] Kiállító halgazdálkodási hatóság aláírása, bélyegzője
 
 ## 11. A napló belső oldalainak tartalma:
 
@@ -118,11 +128,11 @@
 
 ## e) Megjegyzés (ellenőrzés vagy egyéb bejegyzés)
 
-## VI. rész
+## VI. rész[^179]
 
 ## Társadalmi halőr szolgálati igazolványának adattartalma
 
-## Kiállító megyei kormányhivatal földművelésügyi igazgatóság megnevezése
+## Kiállító halgazdálkodási hatóság megnevezése
 
 ## Sorszám
 
@@ -146,10 +156,16 @@
 
 ## Kiállítás helye, időpontja
 
-## Kiállító megyei kormányhivatal földművelésügyi igazgatóság aláírása, bélyegzője
+## Kiállító halgazdálkodási hatóság aláírása, bélyegzője
 
-12. melléklet a 133/2013. (XII. 29.) VM rendelethez[^30]
+12. melléklet a 133/2013. (XII. 29.) VM rendelethez[^180]
 
 Horgászati, halászati és halászati őrzési tevékenységekhez kapcsolódó díjak
 
-[^30]: A 12. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (1) bekezdése iktatta be.
+[^174]: A 11. melléklet I. része az 56/2015. (IX. 24) FM rendelet 22. § 19. és 41. pontja szerint módosított szöveg.
+[^175]: A 11. melléklet II. része az 56/2015. (IX. 24.) FM rendelet 22. § 45. pontja szerint módosított szöveg.
+[^176]: A 11. melléklet IV/A. részét az 56/2015. (IX. 24.) FM rendelet 21. § (4) bekezdése iktatta be.
+[^177]: A 11. melléklet V. rész 2. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^178]: A 11. melléklet V. rész 10. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^179]: A 11. melléklet VI. része az 56/2015. (IX. 24.) FM rendelet 22. § 45. pontja szerint módosított szöveg.
+[^180]: A 12. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (1) bekezdése iktatta be, szövege az 56/2015. (IX. 24.) FM rendelet 22. § 18. pontja szerint módosított szöveg.

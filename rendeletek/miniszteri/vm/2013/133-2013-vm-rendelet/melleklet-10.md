@@ -38,7 +38,7 @@
 
 A halász, illetve horgász fogási napló kötelező adattartalma:
 
-1. Kiállító megyei kormányhivatal földművelésügyi igazgatósága, illetve a megyei kormányhivatal földművelésügyi igazgatósága által megbízott
+1.[^167] Kiállító halgazdálkodási hatóság, illetve a halgazdálkodási hatóság által megbízott
 
 2. Forgalmazással megbízott neve, címe
 
@@ -52,19 +52,19 @@ A halász, illetve horgász fogási napló kötelező adattartalma:
 
 7. Kiállítás helye, ideje
 
-8. Kiállító megyei kormányhivatal földművelésügyi igazgatósága, vagy a megyei kormányhivatal földművelésügyi igazgatósága által megbízott aláírása, bélyegzője
+8.[^168] Kiállító halgazdálkodási hatóság, vagy a halgazdálkodási hatóság által megbízott aláírása, bélyegzője
 
 9. Tájékoztató a fogási napló vezetésének szabályairól
 
-10. Naptár a horgászat, illetve a halászat időpontjának megjelöléséhez
+10.[^169] Éves, illetve 13 hónapra kiterjedő, a tárgyév január 1-jétől a következő év január 31-ig terjedő naptár a horgászat, illetve a halászat időpontjának megjelöléséhez
 
 11. Horgászattal vagy halászattal eltöltött napok száma, melyet az engedélyes összesít a fogási napló leadása előtt
 
 12. Fogásösszesítő táblázat a fogási napló tárgyévére, mely tartalmazza
 
-a) nyilvántartott halgazdálkodási vízterület megnevezését, víztérkódját;
+a)[^170] A halgazdálkodási vízterület megnevezését, víztérkódját;
 
-b) fogás időpontját (hónap, nap feltüntetésével);
+b)[^171] A fogás időpontját (hónap, nap, emellett a napi darabszám-korlátozás alá eső halak rovatainál óra, perc feltüntetésével);
 
 c) Kifogott halak mennyiségi adatait
 
@@ -74,8 +74,24 @@ cb) Az alábbi halfajokat faj szerinti bontásban, kilogramm szerint kell megadn
 
 cc) ezenkívül az egyéb őshonos halfajokat együttesen kilogrammban, valamint az egyéb idegenhonos halfajokat együttesen szintén kilogrammban kell megadni;
 
-d) Az alábbi iránymutatásokat tartalmazó szöveget: „A fogási naplóba a hal becsült testtömegadatait 0,5 kg pontossággal kell beírni. A napi darabszám-korlátozás alá tartozó halfajok testtömegadatait egyedenként (darabonként) kell rögzíteni, melyhez vízterületenként, halfajonként és naponta 3 sor áll rendelkezésre a fogási naplóban.
+d)[^172] Az alábbi iránymutatásokat tartalmazó szöveget: „A fogási naplóba a hal becsült testtömegadatait 0,5 kg pontossággal kell beírni. A napi darabszám-korlátozás alá tartozó halfajok testtömegadatait egyedenként (darabonként) kell rögzíteni. A nem nyilvántartott halgazdálkodási vízterületeken kifogott (idegenhonos halfajok egyedeiből álló) zsákmányt is be kell írni dátummal és a nem nyilvántartott halgazdálkodási vízterület megnevezésével, a víztérkód rovat kihúzásával.”
 
 13. Tájékoztatás a védett és fokozottan védett fajokról, a fogható és a nem fogható őshonos halfajokról, valamint a vizeinkben rendszeresen előforduló idegenhonos halfajokról, továbbá ezen fajokra vonatkozó legfontosabb tudnivalókról
 
 14. Tájékoztatás az őshonos, fogható halfajok fajlagos tilalmi idejéről, kifogható mérettartományáról, valamint a horgászatra és a rekreációs célú halászatra vonatkozó napi kifogható darabszámokról
+
+15.[^173] Éves, illetve 13 hónapra kiterjedő fogásösszesítő táblázat, amely tartalmazza:
+
+a) a halgazdálkodási vízterület megnevezését, víztérkódját;
+
+b) az év, illetve a 13 hónap során kifogott halak mennyiségi adatait halgazdálkodási vízterületenként a 12. c) pontban szereplő bontásban;
+
+c) az év, illetve a 13 hónap során összesen kifogott halak mennyiségi adatait a 12. c) pontban szereplő bontásban.
+
+[^167]: A 10. melléklet 1. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 43. pontja szerint módosított szöveg.
+[^168]: A 10. melléklet 8. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 43. pontja szerint módosított szöveg.
+[^169]: A 10. melléklet 10. pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^170]: A 10. melléklet 12. a) pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^171]: A 10. melléklet 12. b) pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^172]: A 10. melléklet 12. d) pontja az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^173]: A 10. melléklet 15. pontját az 56/2015. (IX. 24.) FM rendelet 21. § (3) bekezdése iktatta be.

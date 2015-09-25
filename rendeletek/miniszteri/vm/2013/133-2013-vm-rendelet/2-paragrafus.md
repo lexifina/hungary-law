@@ -1,12 +1,14 @@
 ## 2. Az Alapvető rendelkezések alcímhez
 
-2. § (1) Más halgazdálkodási hasznosítási módnak minősül:
+2. § (1)[^4] Más halgazdálkodási hasznosítási módnak minősül:
 
 a) a rekreációs célú halászat,
 
-b) a kereskedelmi célú halászat, illetve
+b) a kereskedelmi célú halászat,
 
-c) a haltermelés,
+c) az ökológiai célú, szelektív halászat, illetve
+
+d) a haltermelés,
 
 amelyeket a halgazdálkodási tervben a horgászati hasznosítás kiegészítő tevékenységeként lehet tervezni.
 
@@ -14,4 +16,7 @@ amelyeket a halgazdálkodási tervben a horgászati hasznosítás kiegészítő 
 
 a) az adott vízterület vízjogi üzemeltetési engedélye szerint víztározó és a halgazdálkodásra jogosult azt a halgazdálkodási jog hasznosítására irányuló pályázatában vagy a halgazdálkodási terv módosítására irányuló kérelmében jelzi és részletesen indokolja, vagy
 
-b) a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény (a továbbiakban: Hhvtv.) vagy más jogszabály alapján az adott vízterületen a horgászat nem megengedett tevékenység.
+b)[^5] a Hhvtv. vagy más jogszabály alapján az adott vízterületen a horgászat nem megengedett tevékenység.
+
+[^4]: A 2. § (1) bekezése az 56/2015. (IX. 24.) FM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdés b) pontja az 56/2015. (IX. 24.) FM rendelet 22. § 1. pontja szerint módosított szöveg.
