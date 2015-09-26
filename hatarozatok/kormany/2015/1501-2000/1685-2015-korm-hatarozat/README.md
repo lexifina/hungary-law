@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1685-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-09-25 | 2015-1685-30-22.1 | 1685/2015. (IX. 24.) Korm. határozat |
+| 2015-09-26 | 2015-1685-30-22.2 | 2010: CXXX. törvény |
