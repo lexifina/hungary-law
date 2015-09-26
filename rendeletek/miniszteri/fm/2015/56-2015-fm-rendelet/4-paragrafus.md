@@ -1,13 +1,12 @@
-## 3. § A Vhr. 10. §-a a következő (7a) bekezdéssel egészül ki:
+## 1–3. §[^1]
 
-## „(7a) A halgazdálkodási hatóság kérelemre a természetvédelmi oltalom alatt nem álló, nem fogható halfajok fogási tilalma alól a visszatelepítéshez szükséges telepítő anyag előállítását célzó mesterséges szaporításhoz nélkülözhetetlen anyahalak begyűjtésére időszakos, az anyahalak begyűjtésének idejére vonatkozó felmentést adhat. A kérelem elbírálása során a (6) és (7) bekezdést nem kell alkalmazni. A felmentés megadásának feltétele, hogy a visszatelepítés a Hhvtv. 63. § (2) bekezdés b) vagy d) pontja szerinti támogatásban részesüljön.”
+4. § (1)[^2]
 
-4. § (1) A Vhr. 17. §-a a következő (11a) bekezdéssel egészül ki:
+(2)[^3]
 
-## „(11a) A halgazdálkodási hatóság a (11) bekezdés szerinti jelölésről bárki számára térítésmentesen felvilágosítást nyújt.”
+(3)[^4]
 
-(2)[^1]
-
-(3) A Vhr. 17. §-a a következő (20) és (21) bekezdéssel egészül ki:
-
-[^1]: A 4. § (2) bekezdése a 25. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § (2) bekezdése a 25. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^4]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

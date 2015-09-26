@@ -1,3 +1,0 @@
-## „(20) Ha adott halászati engedélyes az (1) bekezdés a) és b) pontjában foglalt halászati engedéllyel is rendelkezik, egyidejűleg csak az egyik halászati engedélye alapján végezhet halászati tevékenységet.
-
-## (21) Ha a nyilvántartott halgazdálkodási vízterület két vagy több halgazdálkodási hatóság illetékességi területén helyezkedik el, a halászati engedélyt kiadó halgazdálkodási hatóság a halászati engedélyt, valamint az annak visszavonásáról szóló határozatot, továbbá a kiadott fogási napló és fogási tanúsítvány egyedi azonosító adatait megküldi a nyilvántartott halgazdálkodási vízterülettel érintett többi halgazdálkodási hatóságnak.”

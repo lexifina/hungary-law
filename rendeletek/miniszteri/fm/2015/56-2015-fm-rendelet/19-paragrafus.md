@@ -1,3 +1,0 @@
-## „(10) A NÉBIH foglalkoztatásában, illetve megbízásában álló állami halászati őr és állami halászati őr jelölt tekintetében a 39. § (3)–(4) bekezdése szerinti halászati őri tanfolyam, vizsga, továbbképzés és továbbképzési vizsga szervezésével, a vizsgabizonyítvány kiállításával kapcsolatos, a 40. § (1)–(2) bekezdése szerinti eskütétellel, esküokmány kiadással, esküokmány őrzéssel kapcsolatos, valamint a 41. § (2)–(6), (8) és (9) bekezdése szerinti szolgálati naplóval, szolgálati igazolvánnyal, szolgálati jelvénnyel kapcsolatos feladatokat a NÉBIH látja el.
-
-## (11) A NÉBIH állományában álló ugyanazon személy egyidejűleg állami halászati őri és halgazdálkodási hatósági feladatokat is elláthat.”
