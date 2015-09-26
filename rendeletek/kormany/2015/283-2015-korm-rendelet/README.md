@@ -1,0 +1,9 @@
+# 283/2015. (IX. 25.) Korm. rendelet
+
+az OBO Bettermann Hungary Kft. és a Bettermann Ingatlankezelő Kft. Bugyi külterületén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-283-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-09-26 | 2015-283-20-22.1 | 283/2015. (IX. 25.) Korm. rendelet |
