@@ -1,9 +1,3 @@
-## 12. § A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: R3.) 26/A. § (6)–(8) bekezdése helyébe a következő rendelkezés lép és a § a következő (9) bekezdéssel egészül ki:
+## 12. §[^5]
 
-## „(6) Távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében a földgáz-kereskedelmi szerződés megszűnésének időpontjában a rendszerüzemeltető köteles gondoskodni a záró mérőállás távleolvasással történő meghatározásáról.
-
-## (7) Nem távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében a záró mérőállás meghatározására a felhasználó, a korábbi és az új földgázkereskedő megállapodása az irányadó. Ennek keretében a felek a felhasználó által közölt mérőállás vagy az ÜKSZ szerinti felhasználói profilbesorolás alapján történő becslés elfogadásáról is megállapodhatnak.
-
-## (8) Ha a felek a (7) bekezdés szerint nem állapodnak meg, akkor az új földgázkereskedő a földgáz-kereskedelmi szerződés megszűnését megelőzően legalább 5 munkanappal kezdeményezi a rendszerüzemeltetőnél a fogyasztásmérő berendezés leolvasását. Ebben az esetben a rendszerüzemeltető a földgáz-kereskedelmi szerződés megszűnésének napjáig gondoskodik a fogyasztásmérő berendezés leolvasásáról. A leolvasás költsége a korábbi és az új földgázkereskedőt egyenlő mértékben terheli. A rendszerüzemeltető a záró mérőállást a leolvasás alapján arányosítással határozza meg.
-
-## (9) A rendszerüzemeltető az elszámoláshoz szükséges adatokat a (8) bekezdés szerinti leolvasást vagy a (7) bekezdés szerinti becslést követő 3 napon belül közli a korábbi és az új földgázkereskedővel, amely alapján a korábbi földgázkereskedő köteles végszámlát kibocsátani a földgáz-kereskedelmi szerződés megszűnésétől számított 20 napon belül. Az új földgázkereskedő által kiállított első számla kezdő mérőállásának a korábbi földgázkereskedő által kiállított végszámlán szereplő záró mérőállással azonosnak kell lennie.”
+[^5]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

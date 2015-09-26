@@ -1,7 +1,3 @@
-## 15. § Az R3. 115. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^7]
 
-## „(6) A profil alapú felhasználó esetén a részszámla akkor alapulhat a földgázelosztó általi statisztikai elemzéssel (becsléssel) megállapított földgázmennyiségen, ha az adott időszakra vonatkozóan nem kerül sor
-
-## a) a fogyasztásmérő-berendezés földgázelosztó általi leolvasására, vagy
-
-## b) az a) pont szerinti leolvasás hiányában a felhasználó adatszolgáltatása keretében a fogyasztásmérő-berendezés mérőállásának bejelentésére a földgázelosztónál.”
+[^7]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
