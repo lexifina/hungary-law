@@ -12,18 +12,6 @@
 
 | 6. | KEOP-1.1.1/C/13-2013-0027 | A Cikói Hulladékgazdálkodási Rendszer fejlesztés eszközbeszerzésekkel | Önkormányzati Társulás a Sió- völgyi Nagytérség Települési Szilárdhulladékai Kezelésének Korszerű Megoldására | 1 237 035 964 | 280 160 528 | 1 517 196 492 | A hulladékgazdálkodási rendszer 100 településen 210 352 lakost lát el közszolgáltatással. A projekt keretében a meglévő hulladékgazdálkodási rendszer korszerű üzemeltetéséhez szükséges eszközök kerülnek beszerzésre és a begyűjtés hatékonyságát növelő informatikai rendszer kerül kiépítésre. | Kifizetési feltételek: 1. A támogatást igénylőnek a közbeszerzési eljárást eredményesen le kell zárnia. 2. A támogatást igénylőnek el kell fogadnia, hogy ha a közbeszerzési eljárás során alacsonyabb árajánlat kerül nyertesként kihirdetésre, akkor a támogató jogosult a támogatási szerződés módosítása során ezen alacsonyabb összegnek megfelelően csökkentett támogatás támogatási szerződésben történő rögzítésére. 3. Az eszközbeszerzés tárgyában kiírt közbeszerzési eljárás vonatkozásában rendelkezésre kell állnia a központi koordinációs szerv által kiállított szabályossági tanúsítványnak. 4. A többletforrással arányos önerő rendelkezésre állását igazolni kell. | 2015. október 31. |
 
-2. melléklet az 1698/2015. (IX. 25.) Korm. határozathoz
+2. melléklet az 1698/2015. (IX. 25.) Korm. határozathoz[^3]
 
-Az 1125/2015. (III. 6.) Korm. határozat 1. melléklet 1.2.2. pontja helyébe a következő rendelkezés lép:
-
-„1.2.2. A kötelezettségvállalás
-
-|  | A | B | C |
-
-| 1. | Indikatív forrásallokáció (Mrd Ft, folyó áron, 307,9 forint/euró árfolyamon) |
-
-| 2. | 2007–2015. | 2015. hátralevő | Összesen |
-
-| 3. | 784,59 | 18,48 | 803,07 |
-
-”
+[^3]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
