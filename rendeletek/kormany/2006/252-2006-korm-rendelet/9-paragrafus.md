@@ -26,10 +26,13 @@ szükséges építészeti-műszaki dokumentációt,
 
 b) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott esetekben a másodfokú építésügyi hatóság megkeresésére az első fokú eljárásban a döntés alapjául szolgáló, az önkormányzat polgármestere által – a helyi építészeti-műszaki tervtanács szakmai álláspontjára alapozott – véleményezett építészeti-műszaki dokumentációt, továbbá
 
-c)–f)[^29]
+c)[^29] a polgármester településképi véleményezési eljárása hiányában a világörökségi területen a több, egy tájegységet képező település közigazgatási területén új épület építéséhez, meglévő épület bővítéséhez, valamint a településképet érintő homlokzati felújításához vagy átalakításához szükséges építészeti-műszaki dokumentációt.
+
+d)–f)[^30]
 
 [^25]: A 9. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
 [^26]: A 9. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 12. § (5) bekezdése iktatta be, hatályon kívül helyezte a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés f) pontja.
 [^27]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 30. § d) pontja, a 70/2015. (III. 30.) Korm. rendelet 82. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^28]: A 9. § (4) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
-[^29]: A 9. § (4) bekezdés c)–f) pontját a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^29]: A 9. § (4) bekezdés c) pontját a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte, újonnan a 279/2015. (IX. 22.) Korm. rendelet 1. §-a iktatta be.
+[^30]: A 9. § (4) bekezdés d)–f) pontját a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte.
