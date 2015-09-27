@@ -1,8 +1,8 @@
-2. § (1)[^3] A miniszter a megalapozó dokumentáció és a kezelési terv elkészítésére jogi személlyel (a továbbiakban: a kezelési terv készítője) köthet vállalkozási szerződést.
+2. § (1)[^6] A Központ a megalapozó dokumentáció és a kezelési terv elkészítésére jogi személlyel (a továbbiakban együtt: a kezelési terv készítője) köthet vállalkozási szerződést.
 
-(1a)[^4] A miniszter és a kezelési terv készítője közötti kapcsolattartás a Központon keresztül történik.
+(1a)[^7]
 
-(2) A megalapozó dokumentáció és a kezelési terv elkészítésére a kezelési terv készítőjével akkor köthető vállalkozási szerződés, ha annak tagja vagy vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló más személy megfelel a (3) bekezdésben meghatározott feltételeknek, és ez a tag, személy részt vesz a megalapozó dokumentáció és a kezelési terv elkészítésében.
+(2)[^8] A kezelési terv készítőjével akkor köthető vállalkozási szerződés, ha annak a megalapozó dokumentáció és a kezelési terv elkészítésében részt vevő tagja vagy a vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló más személy megfelel a (3) bekezdésben meghatározott feltételeknek, és ez a tag (személy) részt vesz a megalapozó dokumentáció és a kezelési terv elkészítésében.
 
 (3) A (2) bekezdés szerinti tagnak vagy személynek rendelkeznie kell legalább 5 év szakmai gyakorlattal és az alábbiak közül az adott világörökségi helyszín kiemelkedő egyetemes értékének megőrzése szempontjából megfelelő szakképzettséggel:
 
@@ -36,13 +36,13 @@ n) az a)–m) pontokban meghatározott szakképzettséggel egyenértékű szakir
 
 (4) A kezelési terv készítője – a vállalkozási szerződésben foglaltaknak megfelelően – bevonja az adott világörökségi terület jellege és a kezelés egyes ágazatai szempontjából megfelelő felsőfokú szakképzettséggel rendelkező személyeket – így különösen a (3) bekezdés a), b), c), d), f) vagy g) pontjában meghatározott szakképzettséggel rendelkező személyeket, kulturális mediátort, művészettörténészt, restaurátorművészt, történészt, történelemtanárt, régészt, néprajz szakos bölcsészt, közgazdászt, idegenforgalmi üzemgazdászt, idegenforgalmi közgazdászt, idegenforgalmi szakközgazdászt –, kivéve ha tagja vagy vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló más személy rendelkezik az adott világörökségi terület jellege és a kezelés egyes ágazatai szempontjából megfelelő felsőfokú szakképzettséggel.
 
-(5) Amennyiben a világörökségi terület vagy a világörökségi várományos terület részben vagy teljes mértékben védett természeti területen vagy Natura 2000 területen van, a kezelési terv készítője – a vállalkozási szerződésben foglaltaknak megfelelően – bevonja a (3) bekezdés e), h), i), j), k), l) vagy m) pontjában meghatározott szakképzettséggel rendelkező személyeket, biológiatanárt, biológust, alkalmazott növénybiológust, alkalmazott zoológust, földrajztanárt, geológust, kivéve ha tagja vagy vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló más személy rendelkezik az adott világörökségi terület jellege és a kezelés egyes ágazatai szempontjából megfelelő felsőfokú szakképzettséggel.
+(5)[^9] Amennyiben a világörökségi terület vagy a Világörökség Jegyzékbe jelölendő várományos helyszín részben vagy teljes mértékben védett természeti területen vagy Natura 2000 területen van, a kezelési terv készítője – a vállalkozási szerződésben foglaltaknak megfelelően – bevonja a (3) bekezdés e), h), i), j), k), l) vagy m) pontjában meghatározott szakképzettséggel rendelkező személyeket, biológiatanárt, biológust, alkalmazott növénybiológust, alkalmazott zoológust, földrajztanárt, geológust, kivéve ha tagja vagy vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban álló más személy rendelkezik az adott világörökségi terület jellege és a kezelés egyes ágazatai szempontjából megfelelő felsőfokú szakképzettséggel.
 
 (6) A kezelési terv készítője a megalapozó dokumentáció és a kezelési terv elkészítésébe bevonja
 
-a)[^5] kulturális örökségvédelmi feladatkörében az illetékes járási (fővárosi kerületi) hivatalt,
+a)[^10] kulturális örökségvédelmi feladatkörében az illetékes járási (fővárosi kerületi) hivatalt,
 
-b) táj- és természetvédelmet, ökoturizmust és környezeti nevelést érintő kérdésekben a működési területével érintett nemzeti park igazgatóságot,
+b)[^11] táj- és természetvédelmet, ökoturizmust és környezeti nevelést érintő kérdésekben a működési területével érintett nemzeti park igazgatóságot; a 2. melléklet V. 1. b) pontja esetében a működési területével érintett nemzeti park igazgatóság által kidolgozott szöveget kell beépíteni a kezelési tervbe,
 
 c) a területileg érintett helyi önkormányzatot,
 
@@ -58,6 +58,15 @@ g) az illetékes önkormányzati és állami főépítészeket.
 
 (8) A megalapozó dokumentáció és a kezelési terv elkészítése során a kezelési terv készítője együttműködik a világörökségi területen működő, világörökségi gondnoksággal.
 
-[^3]: A 2. § (1) bekezdése a 73/2014. (III. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^4]: A 2. § (1a) bekezdését a 310/2012. (XI. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^5]: A 2. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 181. § (1) bekezdésével megállapított szöveg.
+(9)[^12] A kezelési terv készítője a megalapozó dokumentáció és a kezelési terv tervezetéről a világörökségi terület használatában és megőrzésében érintett szereplőkkel 20 napos egyeztetési határidővel helyi fórumok útján széleskörű társadalmi egyeztetést folytat.
+
+(10)[^13] A megalapozó dokumentáció és kezelési terv elbírálásában nem vehet részt olyan személy vagy szervezet, amely azok elkészítésében részt vett. Az összeférhetetlenség elbírálására a hatályos közbeszerzésekről szóló törvény rendelkezései irányadók.
+
+[^6]: A 2. § (1) bekezdése a 279/2015. (IX. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1a) bekezdését a 310/2012. (XI. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be, hatályon kívül helyezte a 279/2015. (IX. 22.) Korm. rendelet 17. § a) pontja.
+[^8]: A 2. § (2) bekezdése a 279/2015. (IX. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (5) bekezdése a 279/2015. (IX. 22.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^10]: A 2. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 181. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. § (6) bekezdés b) pontja a 279/2015. (IX. 22.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. § (9) bekezdését a 279/2015. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^13]: A 2. § (10) bekezdését a 279/2015. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.

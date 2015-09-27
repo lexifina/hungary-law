@@ -1,5 +1,8 @@
-6. § (1) A miniszter a kezelési terv tervezetét – a 4. § (6) bekezdésben és az 5. § (5) bekezdésben meghatározott jegyzőkönyvvel együtt – az egyeztetést követően haladéktalanul megküldi véleményezésre a világörökségi testületnek. A világörökségi testület a véleményét 15 napon belül alakítja ki.
+## 5. §[^16]
 
-(2) A miniszter – a világörökségi testület véleményének kikérését követően – a kezelési terv tervezetét – a (3) bekezdésben meghatározottak figyelembevételével – a Kormány elé terjeszti.
+6. §[^17] (1) A miniszter a kezelési terv tervezetének kézhezvételétől számított 30 napon belül kikéri a világörökségi testület véleményét, mely azt 15 napon belül megküldi a miniszternek. Amennyiben a miniszter a kezelési terv tervezetének módosításáról dönt, a kezelési terv készítője a döntés kézhezvételétől számított 30 napon belül megküldi a Központ és a miniszter részére a kezelési tervnek a módosítási javaslat figyelembevételével átdolgozott tervezetét.
 
-(3) A miniszter – a világörökségi testület véleményének kézhezvételétől számított 30 napon belül – szükség szerint módosítási javaslatot fogalmaz meg. A kezelési terv készítője a javaslat megérkezésétől számított 30 napon belül megküldi a miniszter részére a javaslat figyelembevételével módosított kezelési terv tervezetét, aki gondoskodik a kezelési terv Kormány elé terjesztéséről.
+(2) A miniszter a kezelési terv tervezetét a Kormány elé terjeszti.
+
+[^16]: Az 5. §-t a 279/2015. (IX. 22.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^17]: A 6. § a 279/2015. (IX. 22.) Korm. rendelet 8. §-ával megállapított szöveg.

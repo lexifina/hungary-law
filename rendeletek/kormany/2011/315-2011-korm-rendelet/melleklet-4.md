@@ -1,38 +1,26 @@
 ## A világörökségi kezelési kézikönyv tartalmi követelményei
 
-## I. A megalapozó dokumentáció, naprakészen frissítve
+## I. A kezelési tervben foglalt stratégiák megvalósítását és célok elérését szolgáló
 
-## II. A kezelési tervben foglalt stratégiák és célok elérését szolgáló cselekvési programok, rövid- és középtávú akciótervek, különösen az alábbi területeken:
+## 1. éves cselekvési program, továbbá a kezelési terv elfogadását követő évi kezelési kézikönyvben a 3 évre szóló középtávú és 7 évre szóló hosszú távú akciótervek,
 
-## 1. kutatás,
+## 2. tárgyévi programok és projektek a 2. melléklet III. pontja szerinti területeken (az áthúzódó programok jelzésével),
 
-## 2. megőrzési állapot javítása (helyreállítás, karbantartás, felújítás),
+## 3. szakmai program, összhangban a kezelési tervben meghatározott stratégiával,
 
-## 3. a fenntarthatóság növelése,
+## 4. a kapcsolódó erőforrás- és költségigény (az állami és egyéb támogatások, valamint saját erőforrások, bevételek elkülönített tervezésével),
 
-## 4. megközelítés, közlekedés
+## 5. ütemterv.
 
-## 5. bemutatás, látogatók fogadása, turizmus,
+## II. A kezelési terv szerinti folyamatos követő-figyelés (monitoring) eszközei
 
-## 6. szakmai képzés, továbbképzés,
+## 1. a kezelési terv elfogadásától számított 2. évtől kezdve a tárgyévet megelőző év kezelési kézikönyvében foglalt cselekvési program teljesülésének értékelése,
 
-## 7. oktatás, ismeretterjesztés, társadalmi tudatosság növelése,
+## 2. a tárgyévi célok teljesítésének ellenőrzését biztosító mérföldkövek meghatározása,
 
-## 8. környezeti tényezők, kapcsolatok, klímaváltozás,
+## 3. az adott helyszínre a kezelési tervben meghatározott tárgyévi indikátorok célszámai, továbbá a világörökségi helyszín látogatószáma, az ott töltött vendégéjszakák száma, védett ingatlanok állagvédelme, fejlesztése a világörökségi területen (db, m2) a ráfordítások kimutatásával, oktatási és képzési programok résztvevőinek száma, foglalkozások száma az adatforrás, valamint az adatgyűjtés és feldolgozás módszertanának közlésével.
 
-## 9. havária,
-
-## 10. kommunikáció.
-
-## III. A kezelési terv szerinti folyamatos követő-figyelés (monitoring) eszközei
-
-## 1. Ellenőrzési listák.
-
-## 2. A 2. melléklet VII. pontja szerinti indikátorok meghatározásával és értékelési szempontjaival kapcsolatos (tudományos) elemzés, dokumentáció.
-
-## 3. Egyéb segédletek.
-
-## IV. Operatív együttműködési címlista
+## III. Operatív együttműködési címlista
 
 ## Naprakészen vezetett adattár a világörökségi terület kezelésében az állami, az érintett helyi és országos nemzetiségi önkormányzati, társadalmi, illetve szakmai és tudományos partnerekről, beleértve a nemzetközi partnereket is.
 

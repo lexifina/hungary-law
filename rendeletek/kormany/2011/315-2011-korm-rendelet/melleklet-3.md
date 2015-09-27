@@ -1,101 +1,97 @@
-## A kezelési terv részletes tartalmi követelményei
+## A kezelési terv részletes tartalmi követelményei a világörökségi helyszínek sajátosságai szerint alkalmazva, szükséges térképekkel és fotókkal
 
-## I. Azonosító adatok
+## I. Vezetői összefoglaló (A kezelési terv javaslatainak összegzése – áttekintő térképi és táblázatos munkarésszel)
 
-## 1. A világörökségi helyszín megnevezése.
+## II. Alapadatok
 
-## 2. A világörökségi terület határai:
+## 1. A világörökségi helyszín kiemelkedő egyetemes értékének az UNESCO Világörökség Bizottsága által elfogadott meghatározása
 
-## a) a világörökségi helyszín helyrajzi számok szerinti kijelölése vagy határának EOV síkkoordináták és WGS 84 alapfelületre vonatkozó földrajzi koordináták szerinti megállapítása fok, perc, másodperc formában (DMS),
+## 2. A világörökségi területazonosító adatai:
 
-## b) a világörökségi helyszín kiterjedésének megfelelő méretarányú, ingatlan-nyilvántartási vagy topográfiai térképen történő lehatárolása,
+## a) a világörökségi helyszín megnevezése, a világörökségi helyszín és a védőövezet határainak leírása, a világörökségi helyszín és védőövezete kiterjedésének megfelelő méretarányú ingatlan-nyilvántartási vagy topográfiai térképen történő lehatárolása és ábrázolása,
 
-## c) a világörökségi helyszín védőövezete helyrajzi számok szerinti kijelölése vagy határának EOV síkkoordináták és WGS 84 alapfelületre vonatkozó földrajzi koordináták szerinti megállapítása fok, perc, másodperc formában (DMS),
+## b) területi jellemzők – területi kiterjedés, méret meghatározás helyszín és védőövezet bontásban (határon átnyúló helyszín esetén a magyar és a külföldi oldalt megkülönböztetve is),
 
-## d) a világörökségi helyszín védőövezete kiterjedésének megfelelő méretarányú, ingatlan-nyilvántartási vagy topográfiai térképen történő lehatárolása.
+## c) a világörökségi helyszín és védőövezete helyrajzi számok szerinti megadása és határának EOV síkkoordináták és WGS 84 alapfelületre vonatkozó földrajzi koordináták szerinti megállapítása fok, perc, másodperc formában (DMS)
 
-## II. A kiemelkedő egyetemes érték összegzése az UNESCO Világörökség Bizottsága által elfogadott és a Központ által nyilvántartott tartalommal:
+## III. A kezelés céljai
 
-## 1. rövid leírás,
+## 1. átfogó célok és jövőkép
 
-## 2. a felvétel során elfogadott kritériumok kifejtése,
+## 2. specifikus célok
 
-## 3. az integritás megállapítása,
+## IV. A kezelés stratégiái
 
-## 4. a kulturális örökségi védelmet élvező világörökségi helyszínek esetében a hitelesség megállapítása,
+## 1. Tematikus stratégiák
 
-## 5. védelmi és kezelési elvárások.
+## a) A kezelést megalapozó felmérés, kutatás, tervezés
 
-## III. A világörökségi helyszín kiemelkedő egyetemes értéke megőrzésének, fenntartásának és bemutatásának céljai és stratégiái
+## b) A tér- és tájszerkezeti, területhasználati, infrastrukturális kihívások kezelése
 
-## A prioritások rögzítése az alábbi területeken:
+## c) A táj- és településképi kihívások kezelése
 
-## 1. kutatás,
+## d) A környezeti kockázatok, havária, klímaváltozás kezelése
 
-## 2. megőrzési állapot javítása (helyreállítás, kezelés, gondozás, felújítás),
+## e) A helyszín bemutatásának fejlesztése és a turizmussal kapcsolatos kihívások (vonzerőnövelés, terhelhetőség,) kezelése
 
-## 3. a fenntarthatóság növelése,
+## 2. Általános, átfogó jellegű, komplex stratégiák
 
-## 4. megközelítés, közlekedés,
+## a) Szervezeti-intézményi, működtetési háttér és partnerségek kialakítása
 
-## 5. bemutatás, látogatók fogadása, turizmus,
+## b) Társadalmi beágyazottság, részvétel, kommunikáció fejlesztése
 
-## 6. szakmai képzés, továbbképzés,
+## c) A világörökségi előnyök megosztása
 
-## 7. oktatás, ismeretterjesztés, társadalmi tudatosság növelése,
+## 3. Attribútum-specifikus stratégiák
 
-## 8. környezeti tényezők, kapcsolatok, klímaváltozás,
+## V. Védelmi célú és kezelést támogató szabályozások
 
-## 9. a területrendezési eszközök összhangjának megteremtése,
+## 1. A világörökségi területen a kiemelkedő egyetemes érték és attribútumai megőrzését, fenntartását, világörökségi kezelését szolgáló beavatkozások, előírások, korlátozások és tilalmak meghatározása a következő ágazatok és tevékenységi körök vonatkozásában
 
-## 10. havária,
+## a) Kulturális örökségvédelem
 
-## 11. kommunikáció.
+## b) Természetvédelem (a világörökségi terület azon részeire dolgozandó ki, amelyek országos jelentőségű védett természeti területek. Amennyiben a világörökségi területen lévő védett természeti területen természetvédelmi kezelési terv van hatályban, az abban foglalt, a kiemelkedő egyetemes érték védelmét biztosító természetvédelmi kezelési előírásokra történő utalások és hivatkozások rögzítése)
 
-## IV. Kezelési módok, korlátozások, tilalmak részletes leírása
+## c) Tájvédelem
 
-## 1. A világörökségi területet érintő kezelési módok, különösen az alábbi területeken és esetekben:
+## d) Terület- és településrendezés
 
-## a) a megőrzés/védelem,
+## e) Katasztrófavédelem, havária
 
-## b) a fenntartható/fennmaradást elősegítő használat,
+## f) Egyéb védettségek, a területen releváns szabályozások (termőtalaj, bányászat, erdő, közművek stb.)
 
-## c) a rendkívüli helyzetek.
+## 2. Az érintettekre normatív rendelkezést megállapító szabályok önálló fejezetben történő összefoglalása
 
-## 2. A kulturális örökség védelméről rendelkező jogszabályok alapján fennálló védettségből eredő korlátozásoknak és tilalmaknak a világörökségi helyszín kiemelkedő egyetemes értéke szempontjaiból megadott, a világörökségi terület sajátosságaira figyelemmel megállapított részletes leírása.
+## 3. A kezelést szolgáló szabályozási eszközök javasolt módosításai, illetve szükség szerint új szabályozási eszközök
 
-## 3. Amennyiben a világörökségi területen lévő védett természeti területen természetvédelmi kezelési terv van hatályban, az abban foglalt, a kiemelkedő egyetemes érték védelmét biztosító természetvédelmi kezelési előírásokra történő utalások és hivatkozások rögzítése.
+## VI. Társadalmi-szakmai részvétel a kezelési terv alkalmazása során
 
-## V. Társadalmi-szakmai részvétel a kezeléssel kapcsolatos döntéshozatalban
+## 1. Kötelezően bevonandó érdekeltek és érintettek
 
-## 1. Az érdekeltek és érintettek bevonására szolgáló eszközök (fórumok, mechanizmusok, folyamatok) leírása.
+## 2. A társadalmi és szakmai részvételt szolgáló eszközök és mechanizmusok
 
-## 2. Eszközök, egyeztetési és kiigazító mechanizmusok:
+## 3. Konfliktusok, véleménykülönbségek kezelése, a részvétel eredményeinek döntésekbe történő beépülésének garanciái
 
-## a) mely esetekben, milyen körben kell az egyeztetést kötelezően lefolytatni (pl. hatóságok, a tulajdonosok, használók bevonása stb.),
+## VII. Finanszírozás
 
-## b) véleménykülönbség esetén milyen további intézkedéseket lehet és kell megtenni.
+## 1. A Világörökség egyezményből következő világörökségi területre vonatkozó kötelezettségek teljesítésének általános pénzügyi feltételrendszere
 
-## 3. Lehetséges konfliktusforrások, konfliktuskezelés.
+## 2. A világörökségi kezelési terv végrehajtásának finanszírozási igényei
 
-## VI. Finanszírozás
+## 3. A világörökségi terület finanszírozási igényét megalapozó
 
-## 1. A világörökségi terület finanszírozási igényét megalapozó
+## a) sajátos körülmények az V. pont szerint,
 
-## a) sajátos körülmények a IV. pont szerint,
+## b) a világörökségi helyszínhez kapcsolódóan támogatandó elemek, illetve tevékenységek
 
-## b) a világörökségi helyszínhez kapcsolódóan támogatandó elemek, illetve tevékenységek.
+## VIII. A monitoring rendszer (attribútumonkénti bontásban)
 
-## 2. Az alkalmazandó feltételrendszer definiálása.
+## IX. A világörökségi helyszín kiemelkedő egyetemes értékének az UNESCO Világörökség Bizottsága által elfogadott meghatározásával kapcsolatos – aktualizálást szolgáló – módosítási javaslatok
 
-## VII. Monitoring
+## 1. A lehatárolás helyzete (megfelelő, vagy esetleges problémák és módosítási javaslatok)
 
-## 1. Alapadatok.
+## 2. Egyéb szempontok
 
-## 2. Indikátorok.
+3. melléklet a 315/2011. (XII. 27.) Korm. rendelethez[^29]
 
-## 3. Mechanizmus és folyamatleírás.
-
-## 4. Visszacsatolás.
-
-3. melléklet a 315/2011. (XII. 27.) Korm. rendelethez
+[^29]: A 3. melléklet a 279/2015. (IX. 22.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.

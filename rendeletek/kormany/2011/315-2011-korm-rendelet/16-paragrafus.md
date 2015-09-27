@@ -1,5 +1,1 @@
 ## 15. § Ha a 14. § (1) bekezdés szerint megkeresettek a javaslatot támogatják, a miniszter azt az állásfoglalással együtt véleményezésre megküldi a világörökségi testületnek. A világörökségi testület a véleményét 30 napon belül alakítja ki.
-
-16. § (1) A miniszter az Egyezmény alapján – a világörökségi testület véleményének figyelembevételével és a javaslat 13. § (2) bekezdés c)–f) pontjának tartalma alapján meghatározott természetvédelmi érintettség esetében a természetvédelemért felelős miniszter egyetértésével – dönt a Világörökségi Várományos Helyszínek Jegyzékébe történő felvételről, és a felvétel jóváhagyása esetén gondoskodik a 4. mellékletben meghatározott tartalmú bejelentési dokumentáció elkészítéséről, továbbá annak az UNESCO Világörökség Központjához (a továbbiakban: Központ) történő megküldéséről, valamint a Vötv. 2. § 7. pontjában foglaltak alapján világörökségi várományos helyszín miniszteri rendeletben történő kihirdetéséről.
-
-(2) A miniszter az (1) bekezdésben meghatározott miniszteri rendelet hatálybalépését követően haladéktalanul intézkedik a bejelentési dokumentáción és megalapozó dokumentáción alapuló kezelési tervének elkészítése iránt.

@@ -1,81 +1,67 @@
-## A megalapozó dokumentáció tartalmi követelményei
+## A megalapozó dokumentáció tartalmi követelményei a világörökségi helyszínek sajátosságai szerint alkalmazva, szükséges térképekkel és fotókkal
 
-## I. Bevezető
+## I. Vezetői összegfoglaló
 
-## Alkalmazott fogalmak és módszertan bemutatása.
+## II. Bevezető
 
-## II. Azonosító adatok
+## III. A kezelési terv és a megalapozó dokumentáció készítésének módszertana
 
-## 1. A világörökségi terület azonosító adatai:
+## IV. Alapadatok
 
-## a) a világörökségi helyszín megnevezése, a világörökségi helyszín és a védőövezet határainak leírása és megfelelő méretarányú ingatlan-nyilvántartási vagy topográfiai térképen történő ábrázolása (analóg vagy digitális formában),
+## 1. A világörökségi helyszín kiemelkedő egyetemes értékének az UNESCO Világörökség Bizottsága által elfogadott meghatározása
 
-## b) területi jellemzők (kiterjedés, méret).
+## 2. A világörökségi terület lehatárolása és azonosítása
 
-## 2. A kiemelkedő egyetemes érték összegzése az UNESCO Világörökség Bizottsága által elfogadott, a Központ által nyilvántartott alábbi tartalommal:
+## V. A világörökségi terület és kezelése
 
-## a) rövid leírás,
+## 1. A világörökségi terület adottságai
 
-## b) a felvétel során elfogadott kritériumok kifejtése,
+## a) A világörökségi terület területi, természeti, környezeti, táj- és településszerkezeti adottságai, trendjei
 
-## c) az integritás megállapítása,
+## b) A világörökségi terület történeti leírása, a megőrzéssel összefüggő jelentős változások
 
-## d) a kulturális örökségi védelmet élvező világörökségi helyszínek esetében a hitelesség megállapítása,
+## c) A kezelést befolyásoló társadalmi adottságok elemzése (a világörökséghez való társadalmi viszonyulást is beleértve)
 
-## e) védelmi és kezelési elvárások.
+## d) A kezelést befolyásoló gazdasági összefüggések elemzése
 
-## III. Leíró rész
+## e) A világörökségi terület turisztikai szempontú elemzése
 
-## 1. A világörökségi terület leírása:
+## f) A világörökséghez való társadalmi viszonyulások
 
-## a) a terület történeti leírása, különös tekintettel a történetében bekövetkezett jelentős változásokra és a megőrzési célú beavatkozásokra,
+## g) Összegzés és fő kihívások
 
-## b) a terület védettségségének bemutatása.
+## 2. A világörökségi terület kezelési környezete
 
-## 2.[^13] A világörökségi terület használatában és megőrzésében érintett és érdekelt szereplők (így különösen a világörökségi gondnokság, a helyi és az országos nemzetiségi önkormányzatok, az illetékes önkormányzati és állami főépítészek, a tulajdonosok, a vagyonkezelők, a vallási közösségek, a civil szervezetek, az állami szervek, a kutatóintézetek és egyetemek) felsorolása és bemutatása.
+## a) A világörökségi terület és környezetének védettségei, a kezelést érintő jogszabályi környezet értékelése
 
-## 3. A világörökségi terület értékeit és annak kezelését érintő hatályos jogszabályok felsorolása.
+## b) A világörökségi területet érintő fejlesztési tervek, programok kezeléssel való összefüggései
 
-## IV. Elemző rész
+## c) Releváns átfogó, tematikus kutatási háttér elemzése
 
-## 1. Társadalmi-gazdasági elemzés (népességi, foglalkoztatottsági, egészségügyi, iskolázottsági, jövedelmi mutatók, kereslet-kínálat elemzés, az infrastruktúra helyzete, humán kapacitások és pénzügyi források),
+## d) A világörökségi terület használatában és megőrzésében érintett és érdekelt szereplők hálózata, a kezelés intézményrendszere
 
-## 2. a világörökségi terület ismertségének elemzése,
+## e) Összegzés és fő kihívások
 
-## 3. turisztikai kínálat és kapcsolatrendszer elemzése,
+## 3. A világörökség hozzájárulása a térség fenntartható fejlődéséhez
 
-## 4. a megőrzési állapot elemzése a beavatkozások szükségességének megjelölésével,
+## VI. A kiemelkedő egyetemes értéket hordozó attribútumok
 
-## 5. a világörökségi terület megőrzési állapotát fenyegető veszélyek és átfogó hatások elemzése (különösen természeti katasztrófák, klímaváltozás, emberi tevékenység),
+## 1. A kiemelkedő egyetemes értéket hordozó attribútumok meghatározása
 
-## 6. a világörökségi terület értékeivel összefüggő fejlesztési lehetőségek feltárása, a világörökségi területen hatályos területrendezési tervek és azok világörökségi kezelési tervvel való összefüggéseinek elemzése a terhelhetőség határainak rögzítésével, ideértve a szellemi kulturális örökséget, kulturális eseményeket, kulturális útvonalakat is,
+## 2. Az attribútumok megőrzési állapotának értékelése
 
-## 7. a világörökségi területet, illetve annak kezelését érintő korábbi és folyamatban lévő tervek, programok elemzése.
+## VII. Háttéranyagok és előzmények
 
-## V. Háttéranyagok és előzmények
+## 1. Alkalmazott fogalmak
 
-## 1. A világörökségi terület értékeivel kapcsolatos történeti és archív adatok, források (szöveges és vizuális), valamint kutatási eredmények és egyéb dokumentumok felsorolása és elérhetőségük megjelölése.
+## 2. A világörökségi terület használatában és megőrzésében érintett és érdekelt szereplők felsorolása és elérhetőségei
 
-## 2. Az Egyezmény végrehajtása során az adott helyszínnel kapcsolatban keletkezett hazai vagy nemzetközi dokumentum, így különösen:
+## 3. A világörökségi területtel, annak értékeivel kapcsolatos történeti és archív adatok, források (szöveges és vizuális), kutatási eredmények elérhetősége, releváns bibliográfia
 
-## a) a világörökségi helyszín felterjesztési dokumentációja,
+## 4. Az Egyezmény végrehajtása során az adott helyszínnel kapcsolatban keletkezett hazai és nemzetközi dokumentumok elérhetőségei
 
-## b) az UNESCO Világörökség Bizottsága döntései eredeti nyelven és magyar fordításban,
+## 5. Világörökségi szempontból lényeges tartalmú statisztikai adatok
 
-## c) a tanácsadói és a reaktív monitoring missziók állásfoglalásai,
+2. melléklet a 315/2011. (XII. 27.) Korm. rendelethez[^28]
 
-## d) az időszaki jelentéstételek, az állam által a Központnak tett bejelentések, megőrzési állapotjelentések,
-
-## e) a Világörökség Magyar Nemzeti Bizottsága és a világörökségi testület döntései,
-
-## f) a Kormány és az Országgyűlés részére készített jelentések és beszámolók.
-
-## 3. A helyi és az országos nemzetiségi önkormányzatok világörökségi területet érintő rendeletei és határozatai.
-
-## 4. Az építészeti-műszaki tervtanácsok világörökségi területet érintő jegyzőkönyvei.
-
-## 5. Statisztikai adatok és térképek, különösen a fennálló védettség ábrázolásával.
-
-2. melléklet a 315/2011. (XII. 27.) Korm. rendelethez
-
-[^13]: Az 1. melléklet III. rész 2. pontja a 297/2013. (VII. 29.) Korm. rendelet 71. § b) pontja szerint módosított szöveg.
+[^28]: A 2. melléklet a 279/2015. (IX. 22.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
