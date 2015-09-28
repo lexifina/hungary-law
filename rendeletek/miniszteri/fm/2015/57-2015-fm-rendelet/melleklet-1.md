@@ -1,3 +1,5 @@
-## 20. § Hatályát veszti a sertésfeldolgozást végző élelmiszer-feldolgozók részére nyújtott „de minimis” támogatásról szóló 67/2013. (VII. 29.) VM rendelet.
+## 20. §[^1]
 
 1. melléklet az 57/2015. (IX. 24.) FM rendelethez
+
+[^1]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
