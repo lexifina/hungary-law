@@ -1,4 +1,4 @@
-## 10–11. §[^4]
+## 10–11. §[^3]
 
 1. melléklet a 47/2012. (XII. 11.) EMMI rendelethez
 
@@ -78,4 +78,4 @@
 
 szakképesítés.
 
-[^4]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
