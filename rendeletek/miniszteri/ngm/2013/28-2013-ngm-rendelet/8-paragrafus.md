@@ -32,25 +32,16 @@ b) a nem közérdeklődésre számot tartó gazdálkodók egyedi megbízásai mi
 
 (9) A „megfelelt, megjegyzéssel” zárult minőségellenőrzés esetén a közfelügyeleti hatóság a következő intézkedéseket alkalmazhatja: kötelezés továbbképzésen való részvételre, figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére.
 
-(10)[^11] A „nem felelt meg” eredménnyel zárult minőségellenőrzés esetén a közfelügyeleti hatóság a következő intézkedéseket alkalmazhatja:
-
-1. kötelezés továbbképzésen való részvételre,
-
-2. figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére,
-
-3. fegyelmi eljárás kezdeményezése a Magyar Könyvvizsgálói Kamara illetékes testületénél,
-
-4. kötelezés könyvvizsgálat ismételt elvégzésére vagy
-
-5. a könyvvizsgálói jelentés visszavonására.
+(10)[^13] A „nem felelt meg” eredménnyel zárult minőségellenőrzés esetén a közfelügyeleti hatóság a Kkt. 173/C. § (7) bekezdése szerinti intézkedéseket alkalmazhatja.
 
 (11) A könyvvizsgáló cég belső minőségellenőrzési rendszerére vonatkozó minőségellenőrzés eredményének minősítésénél figyelembe kell venni a megelőző belső minőségellenőrzési rendszerre vonatkozó minőségellenőrzés óta lefolytatott, az ellenőrzött könyvvizsgáló cégnél alkalmazott, tag vagy vezető tisztségviselő kamarai tag könyvvizsgálók egyedi megbízásai minőségellenőrzésének eredményét.
 
 (12) A közérdeklődésre számot tartó gazdálkodók könyvvizsgálatát ellátó könyvvizsgáló cégek belső minőségellenőrzési rendszerének értékelésekor a közfelügyeleti hatóság jogosult bekérni a Magyar Könyvvizsgálói Kamarától a közérdeklődésre számot tartó gazdálkodók könyvvizsgálatát ellátó könyvvizsgálóval munkaviszonyban, munkaviszony jellegű jogviszonyban álló, nem közérdeklődésre számot tartó gazdálkodók könyvvizsgálatát ellátó kamarai tag könyvvizsgálók által végzett egyes egyedi megbízások minőségellenőrzésének dokumentumait, melyeket a belső minőségellenőrzési rendszer értékelésének véglegesítése során figyelembe vehet.
 
-(13) Amennyiben a belső minőségellenőrzési rendszer értékelése „nem felelt meg” eredménnyel zárult, a közfelügyeleti hatóság a 2. § szerint újabb minőségellenőrzési eljárást rendel el, vagy a minőségellenőrzés lezárását követő évben utóellenőrzést tart.
+(13)[^14] Amennyiben a belső minőségellenőrzési rendszer értékelése „nem felelt meg” eredménnyel zárult, a közfelügyeleti hatóság a minőségellenőrzés lezárását követő évben utóellenőrzést tarthat.
 
-(14)[^12]
+(14)[^15]
 
-[^11]: A 8. § (10) bekezdése a 46/2014. (XII. 30.) NGM rendelet 12. §-ával megállapított szöveg.
-[^12]: A 8. § (14) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § c) pontja hatályon kívül helyezte.
+[^13]: A 8. § (10) bekezdése a 25/2015. (IX. 28.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^14]: A 8. § (13) bekezdése a 25/2015. (IX. 28.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^15]: A 8. § (14) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § c) pontja hatályon kívül helyezte.

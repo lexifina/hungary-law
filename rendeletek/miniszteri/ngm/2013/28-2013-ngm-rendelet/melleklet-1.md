@@ -1,6 +1,6 @@
 ## 12. § Ez rendelet – a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálati tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvénnyel együtt – az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról, a 78/660/EGK és a 83/349/EGK tanácsi irányelv módosításáról, valamint a 84/253/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2006. május 17-i 2006/43/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet a 28/2013. (VI. 29.) NGM rendelethez[^14]
+1. melléklet a 28/2013. (VI. 29.) NGM rendelethez[^17]
 
 ## KÉRDŐÍV A KÖZÉRDEKLŐDÉSRE SZÁMOT TARTÓ GAZDÁLKODÓK KÖNYVVIZSGÁLATÁT ELLÁTÓ, ASSZISZTENS NÉLKÜL, ÖNÁLLÓAN DOLGOZÓ KÖNYVVIZSGÁLÓK BELSŐ MINŐSÉGELLENŐRZÉSI RENDSZERÉNEK ELLENŐRZÉSÉHEZ
 
@@ -158,4 +158,4 @@ FŐ SZABÁLYOK AZ ÉRTÉKELÉS VÉGLEGESÍTÉSE SORÁN
 
 (3) A fenti értékelési rendszer iránymutatás. A közfelügyeleti hatóságnak joga van a fenti értékelési rendszer alapján kapott értékelést fölfelé és lefelé módosítani.
 
-[^14]: Az 1. melléklet a 46/2014. (XII. 30.) NGM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 1. melléklet a 46/2014. (XII. 30.) NGM rendelet 14. § (1) bekezdésével megállapított szöveg.

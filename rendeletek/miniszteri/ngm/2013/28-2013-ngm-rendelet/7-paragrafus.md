@@ -6,16 +6,17 @@
 
 (3) Az ellenőr a minőségellenőrzést az 1–3. mellékletben szereplő kérdőívek alapján folytatja le.
 
-(4)[^8]
+(4)[^9]
 
 (5) Az ellenőr a helyszíni vizsgálat befejezésekor jegyzőkönyvet és az esetlegesen a könyvvizsgálati dokumentációból másolatban átvett anyagok felsorolását tartalmazó dokumentumjegyzéket készít, melyet mindkét fél aláír. A jegyzőkönyv és a dokumentumjegyzék egy-egy példányát az ellenőrzött is megkapja a helyszínen.
 
-(6)[^9] Az ellenőr által készített záró jelentés tartalmazza valamennyi vizsgált könyvvizsgálóra vonatkozóan az ellenőrzött egyedi megbízások értékelését, továbbá ha sor került a könyvvizsgáló cég belső minőségellenőrzési rendszerének ellenőrzésére, akkor a könyvvizsgáló cégre vonatkozóan a minőségellenőrzési rendszer értékelését. A záró jelentés mellékletét képezik a kérdőívek és a nyilatkozatok.
+(6)[^10] Az ellenőr által készített záró jelentés tartalmazza a vizsgált könyvvizsgálóra vonatkozóan az ellenőrzött egyedi megbízások értékelését. A könyvvizsgáló cég belső minőségellenőrzési rendszerének ellenőrzése esetén a záró jelentés tartalmazza a könyvvizsgáló cégre vonatkozóan a minőségellenőrzési rendszer értékelését. A záró jelentés mellékletét képezik a kérdőívek és a nyilatkozatok.
 
-(7) Az ellenőrnek a záró jelentésben az egyedi megbízások ellenőrzése során tapasztalt hiányosságok esetén azok kijavítására, valamint az ellenőrzött által működtetett belső minőségellenőrzési rendszer, illetve alkalmazott minőségellenőrzési eljárások fejlesztésére is javaslatot kell tennie.
+(7)[^11] Az ellenőr a záró jelentésben az egyedi megbízások ellenőrzése során tapasztalt hiányosságok esetén azok kijavítására, valamint az ellenőrzött által működtetett belső minőségellenőrzési rendszer, illetve alkalmazott minőségellenőrzési eljárások fejlesztésére is javaslatot tehet.
 
-(8)[^10]
+(8)[^12]
 
-[^8]: A 7. § (4) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § a) pontja hatályon kívül helyezte.
-[^9]: A 7. § (6) bekezdése a 46/2014. (XII. 30.) NGM rendelet 11. §-ával megállapított szöveg.
-[^10]: A 7. § (8) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § b) pontja hatályon kívül helyezte.
+[^9]: A 7. § (4) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § a) pontja hatályon kívül helyezte.
+[^10]: A 7. § (6) bekezdése a 25/2015. (IX. 28.) NGM rendelet 5. §-ával megállapított szöveg.
+[^11]: A 7. § (7) bekezdése a 25/2015. (IX. 28.) NGM rendelet 5. §-ával megállapított szöveg.
+[^12]: A 7. § (8) bekezdését a 46/2014. (XII. 30.) NGM rendelet 16. § b) pontja hatályon kívül helyezte.

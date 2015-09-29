@@ -1,4 +1,4 @@
-## 3. § A közfelügyeleti hatóság feladata, hogy kijelölje az egyes minőségellenőrzések időpontját és a minőségellenőrzést a közfelügyeleti hatóság nevében lefolytató ellenőrt.
+## 3. §[^2] A közfelügyeleti hatóság kijelöli az egyes minőségellenőrzések időpontját és a minőségellenőrzést a közfelügyeleti hatóság nevében lefolytató ellenőrt.
 
 4. § (1) A közfelügyeleti hatóság éves minőségellenőrzési terv alapján végzi az ellenőrzéseket.
 
@@ -10,7 +10,7 @@
 
 (3) bekezdés szerint rendkívüli minőségellenőrzésre kijelölt könyvvizsgálót, könyvvizsgáló céget tájékoztatja az ellenőrzésre történő kiválasztásról.
 
-(5)[^2] A közfelügyeleti hatóság az ellenőrzésre kiválasztott részére a helyszíni ellenőrzés előtt 10 nappal értesítést küld.
+(5)[^3] A közfelügyeleti hatóság az ellenőrzésre kiválasztott részére a helyszíni ellenőrzés előtt 10 nappal értesítést küld.
 
 (6) Az értesítő levél kiküldése előtt az ellenőr telefonon, elektronikus levélben vagy telefaxon előzetesen egyeztet az ellenőrzöttel az ellenőrzés helyszínéről és időpontjáról.
 
@@ -22,11 +22,12 @@ b) tájékoztatást az iratokba való betekintés és a nyilatkozattétel lehet�
 
 c) hivatalból indult eljárásban az erre történő utalást, kérelemre indult eljárásban a kérelmező nevét,
 
-d)[^3] a könyvvizsgáló, a könyvvizsgáló cég nevét, nyilvántartási számát, az eljárás lefolytatására kijelölt ellenőr és közreműködő azonosítási adatait,
+d)[^4] a könyvvizsgáló, a könyvvizsgáló cég nevét, nyilvántartási számát, az eljárás lefolytatására kijelölt ellenőr és közreműködő azonosítási adatait,
 
 e) a minőségellenőrzés alá vont megbízások megnevezését és a vizsgált időszakot, könyvvizsgáló cég esetén azt is, hogy a minőségellenőrzés a belső minőségellenőrzési rendszer értékelésére terjed ki, melynek során az egyes megbízások minőségellenőrzésének eredményét is figyelembe kell venni,
 
 f) az ellenőrzés dátumát, és helyszínét.
 
-[^2]: A 4. § (5) bekezdése a 46/2014. (XII. 30.) NGM rendelet 15. § 1. pontja szerint módosított szöveg.
-[^3]: A 4. § (7) bekezdés d) pontja a 46/2014. (XII. 30.) NGM rendelet 15. § 2. pontja szerint módosított szöveg.
+[^2]: A 3. § a 25/2015. (IX. 28.) NGM rendelet 7. §-a szerint módosított szöveg.
+[^3]: A 4. § (5) bekezdése a 46/2014. (XII. 30.) NGM rendelet 15. § 1. pontja szerint módosított szöveg.
+[^4]: A 4. § (7) bekezdés d) pontja a 46/2014. (XII. 30.) NGM rendelet 15. § 2. pontja szerint módosított szöveg.
