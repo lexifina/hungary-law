@@ -30,7 +30,7 @@ b) bárkódolvasó,
 
 c) biztonsági nyomtatók (biztonsági elemekkel ellátott tintasugaras és lézernyomtatók, biztonsági festékkel töltött tintapatronok és biztonsági adalékot tartalmazó nyomtatóegységek),
 
-d) 1 darab POS terminál + PIN pad,
+d)[^19]
 
 e) HW alapú autentikációhoz kártyaolvasó.
 
@@ -43,3 +43,5 @@ b) papírvágó (asztali).
 4. A kormányablak irodára:
 
 a) páncélszekrény (biankó okmányok, egyéb biztonságos tárolást igénylő tárgyak részére).
+
+[^19]: A 2. melléklet 2. pont d) alpontját a 11/2015. (II. 27.) MvM rendelet 3. § (2) bekezdése hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-4. melléklet a 39/2013. (XII. 30.) KIM rendelethez[^9]
+4. melléklet a 39/2013. (XII. 30.) KIM rendelethez[^20]
 
 ## A települési ügysegédek részére biztosított eszközök és szolgáltatások
 
@@ -44,4 +44,4 @@ i) elektronikus dokumentum ügyintéző általi hitelesítési lehetőség (azon
 
 j) ügyintéző saját járási hivatali elektronikus levelezésének elérése
 
-[^9]: A 4. mellékletet a 18/2015. (III. 31.) MvM rendelet 3. § (4) bekezdése iktatta be.
+[^20]: A 4. mellékletet a 18/2015. (III. 31.) MvM rendelet 3. § (4) bekezdése iktatta be.
