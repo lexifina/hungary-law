@@ -1,0 +1,1 @@
+## 4. § Hatályát veszti a GET Vhr.-nek a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet módosításáról szóló 137/2015. (VI. 2.) Korm. rendelettel (a továbbiakban: KR) megállapított 158. §-a.
