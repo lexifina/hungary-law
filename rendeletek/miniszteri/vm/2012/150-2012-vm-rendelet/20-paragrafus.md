@@ -10,7 +10,9 @@ bb) a nemzeti köznevelésről szóló törvény alapján nyilvántartásba vett
 
 bc) az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet alapján működési engedéllyel rendelkező egészségügyi intézmény.
 
-(2)[^31] A 19. § (1) bekezdésében – a bizottsági rendelet 80. cikk (2) bekezdésében szabályozottaknak megfelelően – ingyenes szétosztástól eltérő egyéb rendeltetésként meghatározott állatokkal történő feletetés esetén fogadó szervezet lehet
+bd)[^31] a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet szerint nyilvántartásba vett szolgáltató.
+
+(2)[^32] A 19. § (1) bekezdésében – a bizottsági rendelet 80. cikk (2) bekezdésében szabályozottaknak megfelelően – ingyenes szétosztástól eltérő egyéb rendeltetésként meghatározott állatokkal történő feletetés esetén fogadó szervezet lehet
 
 a) a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló miniszteri rendelet szerint az Országos Adatbázisban nyilvántartásba vett tartási hely,
 
@@ -18,8 +20,9 @@ b) az állatok védelméről és kíméletéről szóló törvény alapján nyil
 
 c) a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvény szerint nyilvántartásba vett vadászatra jogosult.
 
-(3)–(5)[^32]
+(3)–(5)[^33]
 
 [^30]: A 20. § (1) bekezdése a 7/2014. (IX. 5.) FM rendelet 3. §-ával megállapított szöveg.
-[^31]: A 20. § (2) bekezdése a 7/2014. (IX. 5.) FM rendelet 3. §-ával megállapított szöveg.
-[^32]: A 20. § (3)–(5) bekezdését a 7/2014. (IX. 5.) FM rendelet 8. §-a hatályon kívül helyezte.
+[^31]: A 20. § (1) bekezdés b) pont bd) alpontját az 59/2015. (IX. 29.) FM rendelet 1. §-a iktatta be.
+[^32]: A 20. § (2) bekezdése a 7/2014. (IX. 5.) FM rendelet 3. §-ával megállapított szöveg.
+[^33]: A 20. § (3)–(5) bekezdését a 7/2014. (IX. 5.) FM rendelet 8. §-a hatályon kívül helyezte.

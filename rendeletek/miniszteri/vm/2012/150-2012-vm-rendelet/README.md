@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-150-20-
 | 2014-09-06 | 2012-150-20-2Y.7 | 7/2014. (IX. 5.) FM rendelet |
 | 2014-10-30 | 2012-150-20-2Y.8 | 18/2014. (X. 29.) FM rendelet |
 | 2015-07-21 | 2012-150-20-2Y.9 | 41/2015. (VII. 20.) FM rendelet |
+| 2015-09-30 | 2012-150-20-2Y.10 | 59/2015. (IX. 29.) FM rendelet |
