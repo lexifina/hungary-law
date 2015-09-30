@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2014-07-01 | 2013. évi XV. törvény | 2007-2-00-00.33 |
 | 2015-01-01 | 2014. évi CVIII. törvény | 2007-2-00-00.34 |
 | 2015-08-01 | 2015. évi CXXVII. törvény | 2007-2-00-00.35 |
+| 2015-09-30 | 6/2015. (II. 25.) AB határozat | 2007-2-00-00.36 |
