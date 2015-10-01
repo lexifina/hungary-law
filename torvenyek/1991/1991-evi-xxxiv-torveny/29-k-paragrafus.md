@@ -3,3 +3,7 @@
 (2) Az adatszolgáltatásban a szervező a játékügyletek és a játékosi egyenlegen vezetett ügyletek alakulásával kapcsolatos, külön jogszabályban meghatározott adatokat tünteti fel.
 
 (3) A szervező a távszerencsejátékkal kapcsolatos adatokat az adat keletkezésétől számított 6 évig köteles megőrizni és kérésre az állami adóhatóság részére – papír alapon, elektronikusan vagy adathordozó eszközön – hozzáférhetővé tenni.
+
+6. CÍM
+
+Online kaszinójáték

@@ -1,6 +1,6 @@
 ## Játékkaszinó játékadója
 
-35. § (1) A játékkaszinó játékadója – ideértve a játékkaszinóban üzemeltetett pénznyerő automatát is – ha az adóévben elért tiszta játékbevétel összege:
+35. § (1) A játékkaszinó és online kaszinó játékadója – ideértve a játékkaszinóban üzemeltetett pénznyerő automatát is – ha az adóévben elért tiszta játékbevétel összege:
 
 |
 

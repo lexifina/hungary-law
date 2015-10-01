@@ -2,6 +2,24 @@
 
 38. § (1) E törvény kihirdetése napján lép hatályba.
 
+(1a) Felhatalmazást kap a Kormány, hogy a felelős játékszervezés elvének megfelelő szervezői tevékenységgel kapcsolatban
+
+a) a túlzásba vitt szerencsejáték ártalmairól és a szenvedélybetegség kialakulásának veszélyeiről szóló tájékoztatás,
+
+b) a sérülékeny személyek szerencsejátékhoz való hozzáférésének korlátozása,
+
+c) a kitiltás és a kitiltáshoz kapcsolódó panaszkezelési eljárás,
+
+d) a figyelmeztető és önkorlátozó játékfunkciók,
+
+e) a szerencsejáték káros mentális, pszichikai és szociális hatásainak megelőzésére és csökkentésére szolgáló intézkedések,
+
+f) a játékosvédelmi nyilvántartás, és
+
+g) további önkorlátozó intézkedések bevezetésének, valamint a 29/I. § (2) bekezdésében szabályozott önkorlátozó intézkedések igénybevételének
+
+részletes szabályait rendeletben állapítsa meg.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) a szerencsejátékok személyi, tárgyi és gazdasági feltételeivel,
@@ -20,7 +38,7 @@ g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért
 
 h)
 
-i) a távszerencsejáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, a távszerencsejátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
+i) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
 
 j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával
 

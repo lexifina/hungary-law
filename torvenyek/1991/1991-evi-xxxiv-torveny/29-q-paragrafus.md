@@ -1,0 +1,1 @@
+29/Q. § A külföldi jackpot rendszerbe történő befizetés nem növeli a bevételt, azonban a külföldi jackpot rendszerből származó nyeremény személyi jövedelemadó-fizetési kötelezettség alá esik. Az online kaszinó üzemeltetője köteles az adóelőleget levonni és az állami adóhatóság részére megfizetni.

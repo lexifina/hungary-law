@@ -16,6 +16,20 @@ g) Magyarországon szerencsejáték játékfüggőség kezelésével foglalkozó
 
 h) az állami adóhatóság mint engedélyező és felügyeleti hatóság megnevezése és elérhetősége játékosi bejelentésekkel, felügyeleti eljárással kapcsolatban,
 
-i) a távszerencsejáték engedély meglétére utalás, az engedélyezett játéktípus vagy játéktípusok megjelölése, az engedély felfüggesztése esetén ennek ténye és időtartama.
+i) a távszerencsejáték engedély meglétére utalás, az engedély felfüggesztése esetén ennek ténye és időtartama.
 
-(2) A szervezőnek biztosítania kell a játékos részére a külön jogszabályban meghatározott önkizárás és az önkorlátozás lehetőségét.
+(2) A szervező a játékos részére legalább az alábbi önkorlátozó intézkedések igénybevételét biztosítja:
+
+a) a játékos kérésére a játékos által meghatározott időszakra az önkizárás lehetőségét,
+
+b) a játékosi egyenlegre teljesített befizetés maximális összegének meghatározását,
+
+c) a tétként megtehető összeg maximumának meghatározását,
+
+d) a veszteség maximális összegének meghatározását,
+
+e) a játékban való részvétel figyelmeztetés nélküli maximális időtartamának meghatározását,
+
+f) a játékban töltött időről figyelmeztető jelzés ismétlődő vagy folyamatos megjelenítését.
+
+(2a) A szervező a játékos részére a játéktervben és a részvételi szabályzatban meghatározott további önkorlátozó intézkedéseket biztosíthat.

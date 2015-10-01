@@ -12,7 +12,7 @@ b) nem sorsolásos játék,
 
 c)
 
-d) kaszinójáték,
+d) kaszinójáték, online kaszinójáték,
 
 e) fogadás,
 

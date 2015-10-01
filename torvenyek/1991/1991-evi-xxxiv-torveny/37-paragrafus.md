@@ -46,7 +46,7 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 
 17. hírközlő eszköz és rendszer: bármely olyan eszköz és rendszer, amelynek alkalmazásával a játékos a törvény hatálya alá tartozó játékokban részvételi jogosultságot keletkeztető nyilatkozatot vagy cselekményt tehet. Ilyen különösen a címzett vagy címzés nélküli nyomtatvány, a szabványlevél, a sajtótermékben közzétett hirdetés megrendelőlapja, a katalógus, a telefon, az automata hívókészülék, a rádió, a videotelefon, a videotex (mikroszámítógép-képernyővel) billentyűzettel vagy érintőképernyővel, az Internet, az elektronikus levél (e-mail), a távmásoló (telefax) és televízió.
 
-18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek. Távszerencsejáték esetében kaszinójáték a sorsolásos játék kivételével a kaszinójáték játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet a nyilvántartásba vett játékosok részvételével szerveznek.
+18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek. Online kaszinó esetében a kaszinójáték a játéktervben jóváhagyott bármely olyan szerencsejáték – ideértve a távszerencsejátékot is – amelyet nyilvántartásba vett játékosok részvételével szerveznek.
 
 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
 
@@ -68,9 +68,9 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 
 28. Szerver: a távszerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 
-29. Játékosi egyenleg: távszerencsejáték esetén a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a távszerencsejáték-szervező által vezetett egyenleg.
+29. Játékosi egyenleg: távszerencsejáték és online kaszinó esetén a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a távszerencsejáték és online kaszinójáték szervező által vezetett egyenleg.
 
-30. Megbízható szerencsejáték-szervező a távszerencsejáték szervezés kivételével: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+30. Megbízható szerencsejáték-szervező: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
 
 a) valamennyi, az állami adóhatóság által nyilvántartott, 500 000 Ft-ot meghaladó közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
 
@@ -82,8 +82,6 @@ d) legalább 10 éven keresztül folytatott szerencsejáték szervezésére irá
 
 e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.
 
-31. Megbízható szerencsejáték-szervező távszerencsejáték-szervezés esetén: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+31.
 
-a) megfelel az e § 30. pont a)–e) alpontjainak és
-
-b) a 3. § (1a) bekezdés b) pontja esetén Magyarország területén található játékkaszinó üzemeltetésére szóló koncesszió jogosultja.
+32. sérülékeny személy: a 18 év alatti személy, az 1. § (6) bekezdés szerinti személy, valamint az egy vagy több szerencsejáték-játékfajtára, vagy több szervezőre kiterjedően önkorlátozó vagy önkizáró intézkedéssel érintett játékos.
