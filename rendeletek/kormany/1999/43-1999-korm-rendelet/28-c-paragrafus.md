@@ -1,4 +1,4 @@
-28/C. §[^317] (1) Az 5. számú mellékletben „várólista csökkentés és egyéb szakmapolitikai célok fedezete” soron szereplő előirányzat (e § alkalmazásában a továbbiakban: előirányzat) felhasználásánál a fekvőbeteg-szakellátásra vonatkozó adatszolgáltatási és elszámolási szabályokat a (2)–(8) bekezdésben foglaltak figyelembevételével kell alkalmazni.
+28/C. §[^319] (1) Az 5. számú mellékletben „várólista csökkentés és egyéb szakmapolitikai célok fedezete” soron szereplő előirányzat (e § alkalmazásában a továbbiakban: előirányzat) felhasználásánál a fekvőbeteg-szakellátásra vonatkozó adatszolgáltatási és elszámolási szabályokat a (2)–(8) bekezdésben foglaltak figyelembevételével kell alkalmazni.
 
 (2) A várólista csökkentési programba bevont szolgáltatók részére az előirányzat terhére az aktív fekvőbeteg-szakellátást végző szervezeti egységen végzett – a 14. számú mellékletben szereplő Térítési kategória mezőben megkülönböztető X térítési kategória jelzéssel jelentett – ellátásokra az alapdíj 110%-ának és az elszámolható súlyszám szorzatának megfelelő finanszírozási díj számolható el, és az ellátás teljesítményét nem kell figyelembe venni a 28. § (1) bekezdése szerinti tárgyhavi teljesítmény számításában.
 
@@ -14,4 +14,4 @@
 
 (8) Ha a (7) bekezdés szerinti feltétel nem teljesül, a (2) bekezdés szerinti finanszírozási kedvezmények összegét a finanszírozási év lezárását követően a következő finanszírozási évben elszámolható finanszírozási összegből az OEP utólagosan visszavonja.
 
-[^317]: A 28/C. §-t a 124/2015. (V. 26.) Korm. rendelet 3. §-a iktatta be.
+[^319]: A 28/C. §-t a 124/2015. (V. 26.) Korm. rendelet 3. §-a iktatta be.

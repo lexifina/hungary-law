@@ -1,4 +1,4 @@
-29/B. §[^329] (1) Az 5. számú mellékletben „várólista csökkentés és egyéb szakmapolitikai célok fedezete” soron szereplő előirányzat (e § alkalmazásában a továbbiakban: előirányzat) felhasználásánál a járóbeteg-szakellátásra vonatkozó adatszolgáltatási és elszámolási szabályokat a (2)–(8) bekezdésben foglaltak figyelembevételével kell alkalmazni.
+29/B. §[^331] (1) Az 5. számú mellékletben „várólista csökkentés és egyéb szakmapolitikai célok fedezete” soron szereplő előirányzat (e § alkalmazásában a továbbiakban: előirányzat) felhasználásánál a járóbeteg-szakellátásra vonatkozó adatszolgáltatási és elszámolási szabályokat a (2)–(8) bekezdésben foglaltak figyelembevételével kell alkalmazni.
 
 (2) A várólista csökkentési programba bevont szolgáltatók részére a 28/C. § (3) és (4) bekezdése szerinti esetekre, az előirányzat terhére, a kapcsolódó járóbeteg-szakellátásban a beavatkozást megelőzően kivizsgálási céllal végzett ellátásokra – ide nem értve az 5. számú mellékletben meghatározott „Laboratóriumi ellátás” előirányzat terhére elszámolható beavatkozásokat – elkülönített többletkeretet kell biztosítani, melyet a 6/A. és a 14. számú melléklet szerinti jelentésben a Térítési kategória mezőben megkülönböztető X térítési kategória jelzéssel kell jelenteni.
 
@@ -18,4 +18,4 @@ b) „006”, „020”, „021”, „022”, „023” és „025” azonosít
 
 (8) Az adott elszámolási hónapban a (3)–(7) bekezdés szerinti számítással rendelkezésre álló elkülönített többletkeretet meghaladó beavatkozások teljesítményét figyelembe kell venni a 27. § (2) bekezdése szerint meghatározott tárgyidőszaki TVK elszámolásában úgy, hogy a (7) bekezdés szerinti vizsgálat teljesítményét kell elsőként az elkülönített többletkeret terhére elszámolni.
 
-[^329]: A 29/B. §-t a 299/2004. (X. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 318/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdése, újonnan a 124/2015. (V. 26.) Korm. rendelet 4. §-a iktatta be.
+[^331]: A 29/B. §-t a 299/2004. (X. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 318/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdése, újonnan a 124/2015. (V. 26.) Korm. rendelet 4. §-a iktatta be.

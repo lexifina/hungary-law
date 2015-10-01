@@ -1,4 +1,4 @@
-32/A. §[^364] (1) A rosszindulatú daganatos kórkép klinikai gyanúja esetén a CT, MRI egészségügyi ellátást nyújtó szolgáltató a beutaló kiállításának napjától számított 14 napon belül a szükséges képalkotó diagnosztikai vizsgálatokat köteles elvégezni.
+32/A. §[^366] (1) A rosszindulatú daganatos kórkép klinikai gyanúja esetén a CT, MRI egészségügyi ellátást nyújtó szolgáltató a beutaló kiállításának napjától számított 14 napon belül a szükséges képalkotó diagnosztikai vizsgálatokat köteles elvégezni.
 
 (2) Az OEP folyamatosan ellenőrzi az (1) bekezdésben foglaltak teljesülését, melynek eredményéről és a szükséges intézkedésekről a beutaló kiállítóját tájékoztatja.
 
@@ -8,4 +8,4 @@
 
 (5) A (4) bekezdésben foglaltak akkor alkalmazhatóak, ha a biztosított vonatkozásában a területileg ellátásra kötelezett szolgáltató egyértelműen megállapítható.
 
-[^364]: A 32/A. §-t a 124/2015. (V. 26.) Korm. rendelet 5. §-a iktatta be.
+[^366]: A 32/A. §-t a 124/2015. (V. 26.) Korm. rendelet 5. §-a iktatta be.

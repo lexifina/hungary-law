@@ -1,4 +1,4 @@
-## A)[^555]
+## A)[^557]
 
 ## VÁLTOZÁSJELENTÉS A BEJELENTKEZETT BIZTOSÍTOTTAK NYILVÁNTARTÁSÁRÓL
 
@@ -48,13 +48,13 @@
 
 |  | szolgáltató (működtető) | háziorvos |
 
-## B)[^556]
+## B)[^558]
 
-3. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^557]
+3. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^559]
 
 ## Degresszió alkalmazása a teljesítménydíj-fizetés alapjául szolgáló pontszám megállapításánál
 
-A)[^558] Háziorvosi ellátás
+A)[^560] Háziorvosi ellátás
 
 Amennyiben a tárgyhónapban készített összesítő jelentés szerinti biztosítottak utáni korcsoportonkénti pontszám összege a 2400 (vegyes praxisnál a 2600) pontot meghaladja, a díjfizetés alapjául szolgáló pontszámot az alábbi képlet, illetve táblázat alapján kell meghatározni:
 
@@ -310,7 +310,7 @@ DEGRESSZIÓS TÁBLÁZAT
 
 | 5900 | 3916,6 | 3919,9 | 3923,3 | 3926,6 | 3929,9 | 3933,2 | 3936,5 | 3939,8 | 3943,1 | 3946,4 | 0,3 |
 
-[^555]: A 2. számú melléklet A) pontja a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének e) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.
-[^556]: A 2. számú melléklet B) pontját a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (4) bekezdése hatályon kívül helyezte.
-[^557]: A 3. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdése, illetve 1. számú melléklete szerint kiegészített szöveg.
-[^558]: A 3. számú melléklet A) részének felvezető mondata a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése és a 65/2008. (III. 29.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^557]: A 2. számú melléklet A) pontja a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének e) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.
+[^558]: A 2. számú melléklet B) pontját a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (4) bekezdése hatályon kívül helyezte.
+[^559]: A 3. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdése, illetve 1. számú melléklete szerint kiegészített szöveg.
+[^560]: A 3. számú melléklet A) részének felvezető mondata a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése és a 65/2008. (III. 29.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
