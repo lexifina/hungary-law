@@ -1,11 +1,11 @@
-## A volt közüzemi nagykereskedőre vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2015. harmadik negyedévre
+## A volt közüzemi nagykereskedőre vonatkozó, a 3. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2015. negyedik negyedévre
 
 |  | A | B | C |
 
-| 1. | A volt közüzemi nagykereskedő | Földgázforrás mennyisége (TJ) | Földgázforrás ára (forint/MJ) |
+| 1. | A volt közüzemi nagykereskedő | Földgázforrás mennyisége (kWh) | Földgázforrás ára (forint/kWh) |
 
-| 2. | Magyar Földgázkereskedő Zrt. | 7563 | 0,907 |
+| 2. | Magyar Földgázkereskedő Zrt. | 2 222 177 791 | 2,949 |
 
-4. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^48]
+4. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^50]
 
-[^48]: A 4. mellékletet a 37/2015. (VI. 30.) NFM rendelet 18. § h) pontja hatályon kívül helyezte.
+[^50]: A 4. mellékletet a 37/2015. (VI. 30.) NFM rendelet 18. § h) pontja hatályon kívül helyezte.

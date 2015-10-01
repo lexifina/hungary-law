@@ -2,7 +2,7 @@
 
 2/C. §[^5] (1) A GET 141/J. § (1) bekezdése alapján a volt közüzemi nagykereskedő által vételre felajánlott és a GET 141/J. § (3) bekezdése szerinti szerződés keretében az egyetemes szolgáltatók részére értékesítendő földgázforrás mennyiségét és árának mennyiségarányos díjelemét, továbbá a feleket a 11. melléklet tartalmazza. A 11. melléklet szerinti földgázforrás mennyiségarányos díjeleme tartalmazza a nagykereskedői árrés, a mobilgáz-finanszírozás és a szállítás és a tárolás mennyiségarányos költségeinek indokolt mértékét, valamint az árrendeletben szereplő, az egyetemes szolgáltatók által alkalmazandó díjak mértéke alapján meghatározott földgáz árát.
 
-(2) A 11. mellékletben szereplő földgázmennyiség átvételéhez kapcsolódóan felmerülő, nem mennyiségarányos díjelem mértékét a 12. melléklet tartalmazza. A nem mennyiségarányos díjelem tartalmazza az egyetemes szolgáltató által a volt közüzemi nagykereskedőnek megfizetendő szállítási és tárolási kapacitásdíjak – rendszerhasználati díjvisszatérítéssel csökkentett – mértékét. A nem mennyiségarányos díjelemet a GET 141/J. § alapján megkötött szerződésben szereplő, a szállítói exit pontokra szerződött órai csúcskapacitások összege után kell megfizetni, havi egyenlő részletekben.
+(2)[^6] A 11. mellékletben szereplő földgázmennyiség átvételéhez kapcsolódóan felmerülő, nem mennyiségarányos díjelem mértékét a 12. melléklet tartalmazza. A nem mennyiségarányos díjelem tartalmazza az egyetemes szolgáltató által a volt közüzemi nagykereskedőnek megfizetendő szállítási és tárolási kapacitásdíjak – rendszerhasználati díjvisszatérítéssel csökkentett – mértékét. A nem mennyiségarányos díjelemet a GET 141/J. § alapján megkötött szerződés szerinti kilépési ponti csúcskapacitások összege után kell megfizetni, a gázév, illetve a GET 134/B. § szerinti átmeneti időszak (a továbbiakban e rendelet alkalmazásában: gázév) hónapjaira vonatkozóan egyenlő részletekben.
 
 (3) Az (1) bekezdés szerint értékesített földgázra vonatkozóan a volt közüzemi nagykereskedő a 11. és 12. mellékletekben meghatározott földgázforrás árán felül csak a szagosítási díjat, a 4. § (6b)–(6c) bekezdések szerinti pótdíjat és díjat, valamint a vámokat, az adókat, az illetékeket, a szerződés szerinti pótdíjakat és szerződésszegési következményeket jogosult érvényesíteni.
 
@@ -10,3 +10,4 @@
 
 [^4]: A 2/B. §- t a 43/2014. (X. 18.) NFM rendelet 1. §-a iktatta be.
 [^5]: A 2/C. §-t a 37/2015. (VI. 30.) NFM rendelet 8. §-a iktatta be.
+[^6]: A 2/C. § (2) bekezdése az 54/2015. (IX. 30.) NFM rendelet 2. §-ával megállapított szöveg.
