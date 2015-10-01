@@ -1,21 +1,23 @@
-| BIZONYÍTVÁNY | Közigazgatási és Igazságügyi Miniszter |
+|  | Igazságügyi Miniszter |
 
-| Ügyszám: ………………… |
+|  | Ügyszám: .............................................. |
 
-| ………………………………………………… |
+|  | .................................................................................. |
 
-| aki …………................................, ............. év ........................................... hó ......... napján született, |
+|  | aki ............................................, ............. év ........................................... hó ......... napján született, |
 
-| a jogi szakvizsgát |
+| BIZONYÍTVÁNY | a jogi szakvizsgát |
 
-| …………….. eredménnyel letette. |
+|  | ................. eredménnyel letette. |
 
-| …………, ……… év ………………….. hó …… nap |
+|  | .............................., ......... év ....................... hó ...... nap |
 
-| ………………………………. |
+|  | ............................................................................. |
 
-| Közigazgatási és Igazságügyi Miniszter P. H. |
+|  | Igazságügyi Miniszter |
 
-3. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^66]
+|  | P. H. |
 
-[^66]: A 3. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés a) pontja iktatta be.
+3. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^77]
+
+[^77]: A 3. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés a) pontja iktatta be.

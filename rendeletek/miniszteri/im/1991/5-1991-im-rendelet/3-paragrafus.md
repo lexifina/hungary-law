@@ -24,6 +24,7 @@ f) az igazolás kiállítójának nevét, beosztását, aláírását.
 
 (3) A jogtanácsosi tevékenységről szóló 1983. évi 3. törvényerejű rendelet szerinti jogi előadók esetében az igazolásnak az összes olyan jogtanácsos nevét, igazolványa számát tartalmaznia kell, aki az adott joggyakorlati idő alatt a jelölt jogi előadói tevékenységét irányította, ellenőrizte.
 
-(4) Az igazoláshoz csatolni kell a (2) bekezdés c) pont szerinti közjogi szervezetszabályozó eszköz hiteles másolatát, ha annak közzététele nem kötelező. A 2. § (2) bekezdés a) pont ac) alpontja szerinti joggyakorlat igazolásához csatolni kell a jelölt munkájának jogi szakmai irányításáért, ellenőrzéséért felelős jogi vagy végrehajtói szakvizsgával bíró személy e rendelet 3. számú melléklete szerinti nyilatkozatát, a jelölt munkaköri leírását, valamint minden egyéb olyan iratot, amely a munkavégzés jogi jellegét alátámasztja.
+(4)[^13] Az igazoláshoz csatolni kell a (2) bekezdés c) pont szerinti közjogi szervezetszabályozó eszköz másolatát, ha annak közzététele nem kötelező. A 2. § (2) bekezdés a) pont ac) alpontja szerinti joggyakorlat igazolásához csatolni kell a jelölt munkájának jogi szakmai irányításáért, ellenőrzéséért felelős jogi vagy végrehajtói szakvizsgával bíró személy e rendelet 3. számú melléklete szerinti nyilatkozatát, a jelölt munkaköri leírását, valamint minden egyéb olyan iratot, amely a munkavégzés jogi jellegét alátámasztja.
 
 [^12]: A 3. § a 12/2014. (II. 28.) KIM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: A 3. § (4) bekezdése a 25/2015. (IX. 25.) IM rendelet 7. § a) pontja szerint módosított szöveg.

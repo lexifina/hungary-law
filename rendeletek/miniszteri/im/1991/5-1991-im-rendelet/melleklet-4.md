@@ -2,7 +2,7 @@
 
 | ………………………………. aláírás |
 
-4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^67]
+4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^78]
 
 ## A jogi szakvizsga vizsgaszabályzata
 
@@ -14,9 +14,9 @@ I. Általános rendelkezések
 
 2. A részvizsgák időpontjairól a jogi szakvizsga időszak kezdetét legalább négy héttel megelőzően a vizsgáztatók elektronikus úton kapnak értesítést. Az értesítést követő két héten belül a vizsgáztatók kötelesek megjelölni azokat a részvizsga időpontokat, amelyen részt tudnak venni. A vizsgáztatók az általuk megjelölt időpontok figyelembevételével kerülnek a vizsgabizottságokba beosztásra.
 
-3. A vizsgáztatók a 2. pont szerinti beosztásukról, a vizsga pontos időpontjának és helyszínének megadásával a vizsga időpontját legkésőbb egy héttel megelőzően elektronikus úton kapnak értesítést; a vizsgáztatónak az értesítés megküldésétől számított két munkanapon belül elektronikus úton jeleznie kell, hogy a vizsgán részt tud-e venni vagy a vizsgáztatást lemondja.
+3. A vizsgáztatók a 2. pont szerinti beosztásukról, a vizsga pontos időpontjának és helyszínének megadásával a vizsga időpontját legkésőbb egy héttel megelőzően elektronikus úton kapnak értesítést; a vizsgáztatónak az értesítés megküldésétől számított két napon belül elektronikus úton jeleznie kell, hogy a vizsgán részt tud-e venni vagy a vizsgáztatást lemondja.
 
-4. A vizsgáztatónak a vizsga napján jeleznie kell a minisztérium erre kijelölt munkatársának, ha a vizsgabizottsághoz, amelynek tagja olyan jelöltet is beosztottak, akinek hozzátartozója vagy akivel munkavégzésre irányuló vagy más olyan jogviszonyban áll, amelyre tekintettel elfogultsága nem zárható ki. Ilyen jelzés esetén a jelöltet lehetőség szerint ugyanazon vizsganapra egy másik vizsgabizottsághoz kell beosztani.
+4. A vizsgáztatónak a vizsga napján jeleznie kell a minisztérium erre kijelölt munkatársának, ha a vizsgabizottsághoz, amelynek tagja olyan jelöltet is beosztottak, akinek hozzátartozója vagy akivel munkavégzésre irányuló vagy más olyan jogviszonyban áll, amelyre tekintettel elfogultsága nem zárható ki. Ilyen jelzés esetén a jelöltet ugyanazon vizsganapra egy másik vizsgabizottsághoz kell beosztani.
 
 II. Az írásbeli vizsga menete
 
@@ -72,7 +72,7 @@ e) a sikeres részvizsgáról szóló tanúsítványt a jelölt részére átadn
 
 3. A vizsgabizottság tagjai a részvizsga napján a vizsga helyszínén kötelesek legkésőbb 12.30 óráig megjelenni. A vizsgabizottság tagjait a vizsgabizottság elnöke röviden tájékoztatja az irányadó szabályokról, a jelöltek személyéről. A jegyzőkönyvvezetést a minisztérium által felkért jegyzőkönyvvezető látja el.
 
-4. A részvizsgán a jelöltek a következő sorrend szerint vizsgáznak: pótvizsgát teljesítők, első részvizsgát teljesítők, egy vizsgatárgyból ismétlő vizsgát teljesítők, egyéb jelöltek családnevük kezdőbetűjének sorrendjében. A vizsgabizottság elnöke e sorrendtől indokolt esetben eltérhet. A sorrendtől való eltérést, illetve annak indokát a jegyzőkönyvben rögzíteni kell. Az így kialakult végleges sorrendről a részvizsga megkezdését megelőzően a jegyzőkönyvvezető tájékoztatja a jelölteket.
+4. A részvizsgán a jelöltek a következő sorrend szerint vizsgáznak: pótvizsgát teljesítők, első részvizsgát teljesítők,, egyéb jelöltek családnevük kezdőbetűjének sorrendjében. A vizsgabizottság elnöke e sorrendtől indokolt esetben eltérhet. A sorrendtől való eltérést, illetve annak indokát a jegyzőkönyvben rögzíteni kell. Az így kialakult végleges sorrendről a részvizsga megkezdését megelőzően a jegyzőkönyvvezető tájékoztatja a jelölteket.
 
 5. A vizsga megkezdését megelőzően a vizsgabizottság elnöke köteles meggyőződni a jelölt személyazonosságáról, majd ezt követően röviden ismertetni a részvizsga menetét, szabályait.
 
@@ -88,4 +88,4 @@ e) a sikeres részvizsgáról szóló tanúsítványt a jelölt részére átadn
 
 11. A pótvizsgára, valamint a vizsgatárgyból tett ismétlő vizsgára a részvizsga menetének szabályait kell megfelelően alkalmazni.
 
-[^67]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be.
+[^78]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be, szövege a 25/2015. (IX. 25.) IM rendelet 4. § d) pontja és 7. § c) pontja szerint módosított szöveg.

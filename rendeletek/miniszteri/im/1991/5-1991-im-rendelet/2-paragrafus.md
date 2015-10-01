@@ -26,10 +26,10 @@ b)[^10] külföldön folytatott joggyakorlat esetén az a jogi képesítéshez k
 
 (4) A joggyakorlat ideje alatt a jelölt a munkáltatója által szervezett vagy más jogi szakmai oktatásban vehet részt. A munkáltató, illetve a szakmai kamara a szakmai oktatásban való részvételt kötelezővé teheti.
 
-(5)[^11] A jogi végzettséget igazoló doktori oklevél megszerzését követően a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély, valamint a tanulmányi ösztöndíj – ide nem értve a (2) bekezdés b) és c) pontja szerinti ösztöndíjat – folyósításának idejét összesen legfeljebb 3 hónap, az állam és jogtudományi doktori (PhD) képzés idejét annak befejezését követően legfeljebb 12 hónap tartamáig lehet a joggyakorlat idejébe beszámítani.
+(5)[^11] A jogi végzettséget igazoló doktori oklevél megszerzését követően a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély, valamint a tanulmányi ösztöndíj – ide nem értve a (2) bekezdés b) pont ba) és bb) alpontja szerinti ösztöndíjat – folyósításának idejét összesen legfeljebb 3 hónap, az állam és jogtudományi doktori (PhD) képzés idejét annak befejezését követően legfeljebb 12 hónap tartamáig lehet a joggyakorlat idejébe beszámítani.
 
 [^7]: A 2. § a 31/2010. (XII. 31.) KIM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a 2011. január 1-je előtt benyújtott kérelmek alapján indult, részvizsgára bocsátás iránti eljárásokban is alkalmazni kell.
 [^8]: A 2. § (1) bekezdése a 12/2014. (II. 28.) KIM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (2) bekezdése a 12/2014. (II. 28.) KIM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § (3) bekezdés b) pontja a 22/2011. (VII. 20.) KIM rendelet 2. § (2) bekezdésével megállapított, a 42/2012. (IX. 14.) KIM rendelet 17. § a) pontja, a 12/2014. (II. 28.) KIM rendelet 2. § (11) bekezdése szerint módosított szöveg.
-[^11]: A 2. § (5) bekezdése a 42/2012. (IX. 14.) KIM rendelet 3. §-ával megállapított, a 12/2014. (II. 28.) KIM rendelet 2. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 2. § (5) bekezdése a 42/2012. (IX. 14.) KIM rendelet 3. §-ával megállapított, a 12/2014. (II. 28.) KIM rendelet 2. § (10) bekezdés b) pontja, a 25/2015. (IX. 25.) IM rendelet 4. § a) pontja szerint módosított szöveg.
