@@ -1,14 +1,20 @@
-## 1. Az elismert fajlagos földgázár meghatározása negyedévre (Ft/MJ):
+## 1. Az elismert fajlagos földgázár meghatározása negyedévre (Ft/kWh) (felső hőértéken):
 
-| fgFt = a x fgFtA + b x fgFtT | (Ft/MJ) | (1) |
+## fgFt = a x fgFtA + b x fgFtT (Ft/kWh)
 
-| ha fgFtS < fgFtH akkor fgFtA = 0,75 x fgFtS + 0,25 x fgFtH | (Ft/MJ) | (2) |
+## ha fgFtS < fgFtH akkor fgFtA = (0,75 x fgFtS + 0,25 x fgFtH) * Kimp (Ft/kWh)
 
-| ha fgFtS > fgFtH akkor fgFtA = fgFtH ahol fgFtH = erUSD x fgUSDA /1000 | (Ft/MJ) (Ft/MJ) | (2) (3) |
+## ha fgFtS > fgFtH akkor fgFtA = fgFtH * Kimp (Ft/kWh)
 
-| fgFtS = erEUR x fgEURA | (Ft/MJ) | (4) |
+## hol
 
-| fgUSDA = 12,983 x (0,5 x fo /520,928+0,5 x go / 935,741) fgEURA = (fgS + sp) | (USD/GJ) (EUR/MJ) | (5) (6) |
+## fgFtH = erUSD x fgUSDA / 1000 (Ft/MJ)
+
+## fgFtS = erEUR x fgEURA (Ft/MJ)
+
+## fgUSDA = 12,983 x (0,5 x fo / 520,928+0,5 x go / 935,741) (USD/GJ)
+
+## fgEURA = (fgS + sp) (EUR/MJ)
 
 ## 2. 2010. január 1-jétől az egyetemes szolgáltatás árában elismerésre kerülő nagykereskedői árrés („n”) gázévenként:
 
@@ -58,13 +64,13 @@
 
 ## b: együttható, a tárolóból felhasznált gáz árának figyelembevételére;
 
-## a naptári év első és negyedik negyedévében: a téli felkészülésnek megfelelő együttható
+## a naptári év első és negyedik negyedévében: a téli felkészülésnek megfelelő együttható,
 
-## együttható második és harmadik negyedévében: 0,00
+## a naptári év második és harmadik negyedévében: 0,00
 
-## e: az egyetemes szolgáltatás árában elismerendő egyetemes szolgáltatói árrés a gázévben, Ft/MJ
+## e: az egyetemes szolgáltatás árában elismerendő egyetemes szolgáltatói árrés a gázévben, Ft/MWh
 
-## ee: az egyetemes szolgáltatás árában elismert (figyelembe vett) egyetemes szolgáltatói árrés a megelőző gázévben, Ft/MJ
+## ee: az egyetemes szolgáltatás árában elismert (figyelembe vett) egyetemes szolgáltatói árrés a megelőző gázévben, Ft/MWh
 
 ## erEUR: Külön rendeletben meghatározott Ft/EUR árfolyam (előrejelzés). Amennyiben a közzétett árfolyam (előrejelzés) több mint 3%-kal magasabb az MNB aktuális, külön rendeletben meghatározott referencia időszakra vonatkozó hivatalos napi Ft/EUR (tény) árfolyamainak átlagánál, a Hivatal indokolt árfolyamként a korábban közzétett árfolyamnak a 3% feletti eltérés mértékének felével csökkentett értékét veszi figyelembe.
 
@@ -72,15 +78,15 @@
 
 ## fgS: Az aktuális negyedévet megelőző negyedév második hónapjának 1. napjától a 15. napjáig terjedő időszak napjain, a Hivatal honlapján megjelölt honlap szerint (égéshő figyelembevételével) EUR/MWh-ban közzétett napvégi, az aktuális negyedévre vonatkozó TTF Gas Base Load Futures adatok egyszerű számtani átlaga. Az égéshővel való korrekció 1,11-es értékkel történik.
 
-## fgFt: a negyedéves ármódosítás során a szolgáltató értékesítési átlagárában indokolt (figyelembe vett) fajlagos földgáz beszerzési költség, Ft/MJ
+## fgFt: a negyedéves ármódosítás során a szolgáltató értékesítési átlagárában indokolt (figyelembe vett) fajlagos földgáz beszerzési költség, Ft/kWh
 
-## fgFtA: a földgáz aktuális ára, Ft/MJ
+## fgFtA: a földgáz aktuális ára, Ft/kWh
 
 ## fgFtH: hosszú távú szerződések alapján beszerzett földgáz ára, Ft/MJ
 
 ## fgFtS: nem hosszú távú szerződések alapján lekötött, piaci földgázforrás ára, Ft/MJ
 
-## fgFtT: tárolói készletérték negyedik negyedévre a betároláskori fgFtH, valamint az fgFtH és az fgFtS 10%-90%-os arányú keverékének ára közül az alacsonyabb figyelembevételével a szeptember 30-ra becsült tárolói készletérték; az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték (Ft/MJ) a betároláskori fgFtH, valamint az fgFtH és az fgFtS 10%-90%-os arányú keverékének ára közül az alacsonyabb figyelembevételével; a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napjakor, az árszabályozás szerint érvényes erEUR és erUSD árfolyamokon történik.
+## fgFtT: tárolói készletérték negyedik negyedévre a betároláskori fgFtH, valamint az fgFtH és az fgFtS 10%–90%-os arányú keverékének ára közül az alacsonyabb figyelembevételével a szeptember 30-ra becsült tárolói készletérték; az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték Ktár értékkel átszámítva (Ft/kWh) a betároláskori fgFtH, valamint az fgFtH és az fgFtS 10%–90%-os arányú keverékének ára közül az alacsonyabb figyelembevételével; a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napjakor, az árszabályozás szerint érvényes erEUR és erUSD árfolyamokon történik.
 
 ## fo: az 1%-os kéntartalmú fűtőolaj havi átlagárainak egyszerű számtani középértéke az aktuális naptári negyedévet megelőző 9 naptári hónap során USD/t-ban (3 tizedes értékre kerekítve), USD/t
 
@@ -106,9 +112,13 @@
 
 ## h: a korábbi inflációs célkitűzés becslési hibáját korrigáló hibakorrekciós tényező
 
-## n: az egyetemes szolgáltatás árában elismerendő nagykereskedelmi árrés a gázévben, Ft/MJ
+## Kimp: A Hivatal elnökének rendeletében meghatározott KENERGIA átszámítási tényező értéke az import betáplálási ponton.
 
-## ne: az egyetemes szolgáltatás árában elismert (figyelembe vett) nagykereskedelmi árrés a megelőző gázévben, Ft/MJ
+## Ktár: A Hivatal elnökének rendeletében meghatározott KENERGIA átszámítási tényező értéke a tárolói betáplálási ponton.
+
+## n: az egyetemes szolgáltatás árában elismerendő nagykereskedelmi árrés a gázévben, Ft/MWh
+
+## ne: az egyetemes szolgáltatás árában elismert (figyelembe vett) nagykereskedelmi árrés a megelőző gázévben, Ft/MWh
 
 ## sp: eltérés (spread), értéke 2010. december 31-ig 3,461 EUR/MWh. A következő negyedévekre megállapított értékét a Hivatal a honlapján közzéteszi a TTF Gas Base Load Futures piaci árának a Central European Gas Hub árakhoz való közelítése érdekében. Az égéshővel való korrekció 1,11-es értékkel történik.
 
@@ -124,7 +134,7 @@
 
 ## zh: a következő gázévre érvényes árrés-megállapítási javaslatban számított, hibakorrekciós tényezővel korrigált inflációkövetési tényező
 
-## zhf: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező
+## zhf: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
 2. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^34]
 
