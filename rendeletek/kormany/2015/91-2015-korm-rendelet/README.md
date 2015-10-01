@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-91-20-2
 | --- | --- | --- |
 | 2015-04-16 | 2015-91-20-22.1 | 91/2015. (IV. 9.) Korm. rendelet |
 | 2015-04-17 | 2015-91-20-22.2 | 2010: CXXX. törvény |
+| 2015-10-01 | 2015-91-20-22.3 | 2010: CXXX. törvény |
