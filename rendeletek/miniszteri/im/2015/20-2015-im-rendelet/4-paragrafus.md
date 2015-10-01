@@ -1,0 +1,3 @@
+4. § (1) Ha a befizetést igazoló adatok és okiratok alapján megállapítható, hogy a kérelmező tévesen vagy az e rendeletben meghatározott mértéket meghaladóan fizetett díjat, a Hatóság a téves befizetés, illetve a díjtöbblet visszatérítéséről a kérelmező számlavezető pénzforgalmi szolgáltatójánál vezetett fizetési számlája javára, legkésőbb a visszatérítési kötelezettség megállapítását követő 8 napon belül, átutalási megbízás útján intézkedik.
+
+(2) Ha a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 33/A. §-a szerinti díjvisszafizetést köteles teljesíteni, a visszafizetésről a kérelmező számlavezető pénzforgalmi szolgáltatójánál vezetett fizetési számlája javára, átutalási megbízás útján intézkedik.
