@@ -1,0 +1,9 @@
+# 17/2015. (VIII. 28.) IM rendelet
+
+a közvetítői igazolványról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-17-20-06
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-10-01 | 2015-17-20-06.1 | 17/2015. (VIII. 28.) IM rendelet |
