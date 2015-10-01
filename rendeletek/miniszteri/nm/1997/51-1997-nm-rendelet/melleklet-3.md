@@ -62,11 +62,11 @@
 
 ## Népegészségügyi célú, célzott szűrővizsgálatok
 
-1. 25 és 65 év között népegészségügyi céllal egyszeri negatív eredményű szűrővizsgálatot követően háromévenként nőgyógyászati onkológiai méhnyakszűrés, különös figyelemmel a méhnyakelváltozások sejtvizsgálatára (citológia) és kolposzkópos vizsgálatára,
+1.[^44] 25 és 65 év között népegészségügyi céllal egyszeri negatív eredményű szűrővizsgálatot követően háromévenként méhnyakszűrés, különös figyelemmel a méhnyakelváltozások sejtvizsgálatára (citológia),
 
 2. 45 és 65 év között népegészségügyi céllal kétévenként az emlő lágyrész röntgenvizsgálatán alapuló emlőszűrés (mammográfia),
 
-3–4.[^44]
+3–4.[^45]
 
 _______
 
@@ -83,4 +83,5 @@ Nagy kockázat: a 10 éven belül vagy a 60 éves életkorra előrevetítve vár
 [^41]: A 2. számú melléklet – eredeti melléklet II. fejezet – 3. pont f) alpontját a 36/2008. (IX. 23.) EüM rendelet 4. §-a iktatta be.
 [^42]: A 2. számú melléklet – eredeti melléklet II. fejezet – 4. pont f) alpontját a 36/2008. (IX. 23.) EüM rendelet 4. §-a iktatta be.
 [^43]: A melléklet eredeti szövege III. fejezetének megjelölését 3. számú mellékletre változtatta a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének b) és d) pontja.
-[^44]: A 3. számú melléklet 3–4. pontját a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^44]: A 3. számú melléklet 1. pontja a 9/2015. (II. 10.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^45]: A 3. számú melléklet 3–4. pontját a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének a) pontja hatályon kívül helyezte.
