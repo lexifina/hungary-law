@@ -8,6 +8,6 @@
 
 (5) Ha kézjelzés helyett vagy azzal együtt szóbeli kommunikációt alkalmaznak, a használt szavak jelentését előre meg kell határozni a 4. számú mellékletben foglaltak figyelembevételével.
 
-(6)[^5] Szükség szerint kézjelzést vagy szóbeli kommunikációt, illetve ezeket együttesen kell használni veszélyes műveleteket végző személyek irányítására.
+(6)[^6] Szükség szerint kézjelzést vagy szóbeli kommunikációt, illetve ezeket együttesen kell használni veszélyes műveleteket végző személyek irányítására.
 
-[^5]: A 15. § (6) bekezdését a 15/2004. (IV. 19.) FMM rendelet 2. §-a iktatta a szövegbe.
+[^6]: A 15. § (6) bekezdését a 15/2004. (IV. 19.) FMM rendelet 2. §-a iktatta a szövegbe.

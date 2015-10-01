@@ -42,7 +42,7 @@
 
 1. Tiltójel
 
-2. Figyelmeztető jel[^7]
+2. Figyelmeztető jel[^10]
 
 3. Rendelkező jel
 
@@ -52,4 +52,4 @@
 
 6. Kiegészítő jel
 
-[^7]: A sárga alapon fekete színsávval ellátott háromszög alakú „Figyelmeztető jel”- a Magyar Közlöny 1998. évi 4. számában közzétett helyesbítésnek megfelelő ábra.
+[^10]: A sárga alapon fekete színsávval ellátott háromszög alakú „Figyelmeztető jel”- a Magyar Közlöny 1998. évi 4. számában közzétett helyesbítésnek megfelelő ábra.
