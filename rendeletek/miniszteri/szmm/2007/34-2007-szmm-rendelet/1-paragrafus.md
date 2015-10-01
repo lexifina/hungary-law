@@ -1,3 +1,0 @@
-1. § (1) A korkedvezmény-biztosítási járulék megfizetése alól történő mentesítésre irányuló kérelmet benyújtó foglalkoztató, egyéni vállalkozó a korkedvezmény-biztosítási járulék megfizetése alól történő mentesítés eljárási szabályairól szóló 342/2007. (XII. 19.) Korm. rendelet (a továbbiakban: R.) 2. §-ában foglalt, az állapotfelmérés elvégzésére vonatkozó kötelezettségét – munkahelyenként és munkakörönként – az e rendelet 1. számú mellékletében meghatározott adatlap kitöltésével teljesíti.
-
-(2) Az adott munkakörre jellemző munkaenergia-forgalom, klímaparaméterek, valamint zajexpozíció esetében az adatlapon egy évnél nem régebbi mérési adatok tüntethetők fel. A mérésekről készült jegyzőkönyvet az adatlaphoz csatolni kell.
