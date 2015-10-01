@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-31-20-2
 | --- | --- | --- |
 | 2012-10-31 | 2012-31-20-2X.1 | 31/2012. (X. 16.) NGM rendelet |
 | 2013-01-01 | 2012-31-20-2X.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-10-01 | 2012-31-20-2X.3 | 21/2015. (VIII. 28.) NGM rendelet |
