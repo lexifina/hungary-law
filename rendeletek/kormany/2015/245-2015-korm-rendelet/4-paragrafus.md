@@ -1,0 +1,3 @@
+## 3. § A Rendelet 10/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha a bérbeadó a határozatlan időre kötött bérleti szerződést a NET tv. 23. § i) pontja alapján felmondja, felajánlja a bérlőnek, hogy a bérleti szerződés megszűnését követően határozott idejű bérleti szerződést köt a bérlővel a bérlő által addig lakott ingatlanra. A bérlő a határozott idejű bérleti szerződés megkötésére vonatkozó nyilatkozatát a határozatlan időre kötött bérleti szerződés megszűnését követő 30 napon belül teheti meg. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a bérbeadó székhelyén átadta vagy postára adta.”

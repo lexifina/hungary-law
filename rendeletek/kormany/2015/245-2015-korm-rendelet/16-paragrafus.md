@@ -1,3 +1,3 @@
-## 3–15. §[^2]
+## 15. § A Rendelet 10/F. §-a a következő (7) bekezdéssel egészül ki:
 
-[^2]: A 3–15. § a 23. § (2) bekezdése alapján 2015. október 1-jén lép hatályba.
+## „(7) A bérbeadó a lakásbérleti szerződést felmondhatja, ha a bérlő a tartalék ingatlanra benyújtott igénybejelentés során, illetve a lakásbérleti szerződés megkötése érdekében hamis, hamisított vagy valótlan tartalmú iratokkal, nyilatkozatokkal a bérbeadót megtévesztette.”
