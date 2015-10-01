@@ -1,0 +1,1 @@
+## „(7) A kapacitás-túllépés miatti pótdíj és az utólagos kapacitásdíj kiszámításakor a kapacitás mértékének betáplálási illetve kiadási ponton kWh/h mértékegységben történő megállapításához az adott gáznapra vonatkozóan az adott hálózati ponthoz az ÜKSZ-ben foglaltak szerint meghatározott napi átlagos égéshőt kell figyelembe venni.”
