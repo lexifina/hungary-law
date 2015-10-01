@@ -4,7 +4,7 @@
 
 15. § (1) Ez a rendelet – a (3) bekezdésben foglalt kivétellel – 2001. január 1. napján lép hatályba.
 
-(2)[^24] A 7. § (8) bekezdése szerinti határérték ellenőrzésére (a munkateret szennyező anyagok mérésére) irányuló vizsgálatokat kizárólag
+(2)[^29] A 7. § (8) bekezdése szerinti határérték ellenőrzésére (a munkateret szennyező anyagok mérésére) irányuló vizsgálatokat kizárólag
 
 a) a Nemzeti Akkreditáló Testület által e területre és a mérendő vegyi anyagok meghatározására akkreditált, vagy
 
@@ -12,9 +12,9 @@ b) a nemzetközi jártassági vizsgálatban írásban igazolt módon eredményes
 
 végezhet.
 
-(3)[^25] Technológiához rendelt, a munkahelyi légtér szennyezőanyag-koncentrációját folyamatosan mérő, szelektív mérési elven alapuló, szelektív meghatározást biztosító, kalibrált, telepített műszerek (berendezések) vizsgálati eredményeit, mint kiegészítő mérési adatokat figyelembe lehet venni.
+(3)[^30] Technológiához rendelt, a munkahelyi légtér szennyezőanyag-koncentrációját folyamatosan mérő, szelektív mérési elven alapuló, szelektív meghatározást biztosító, kalibrált, telepített műszerek (berendezések) vizsgálati eredményeit, mint kiegészítő mérési adatokat figyelembe lehet venni.
 
-(4)[^26] Ez a rendelet szabályozási tárgykörében a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(4)[^31] Ez a rendelet szabályozási tárgykörében a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Bizottság 91/322/EGK irányelve (1991. május 29.) a munkájuk során vegyi, fizikai és biológiai anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 80/1107/EGK irányelv végrehajtása céljából javasolt határértékek megállapításáról;
 
@@ -24,9 +24,12 @@ c) a Bizottság 2000/39/EK irányelve (2000. június 8.) a munkájuk során vegy
 
 d) a Bizottság 2006/15/EK irányelve (2006. február 7.) a 98/24/EK tanácsi irányelv végrehajtásához a javasolt foglalkozási expozíciós határértékek második listájának létrehozásáról és a 91/322/EGK, valamint a 2000/39/EK irányelv módosításáról;
 
-e)[^27] a 98/24/EK tanácsi irányelv végrehajtásakor az indikatív foglalkozási expozíciós határértékek harmadik listájának létrehozásáról és a 2000/39/EK irányelv módosításáról szóló 2009. december 17-i 2009/161/EU bizottsági irányelv.
+e)[^32] a 98/24/EK tanácsi irányelv végrehajtásakor az indikatív foglalkozási expozíciós határértékek harmadik listájának létrehozásáról és a 2000/39/EK irányelv módosításáról szóló 2009. december 17-i 2009/161/EU bizottsági irányelv;
 
-[^24]: A 15. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 175. pontja hatályon kívül helyezte, újonnan az 50/2011. (XII. 22.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^25]: A 15. § (3) bekezdése az 50/2011. (XII. 22.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^26]: A 15. § (4) bekezdése az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 2. §-ával megállapított szöveg.
-[^27]: A 15. § (4) bekezdés e) pontját az 50/2011. (XII. 22.) NGM rendelet 3. § (2) bekezdése iktatta be.
+f)[^33] a 92/58/EGK, a 92/85/EGK, a 94/33/EK és a 98/24/EK tanácsi irányelvnek, valamint a 2004/37/EK európai parlamenti és tanácsi irányelvnek az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK rendelethez való hozzáigazítása céljából történő módosításáról szóló, 2014. február 26-i 2014/27/EU európai parlamenti és tanácsi irányelv.
+
+[^29]: A 15. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 175. pontja hatályon kívül helyezte, újonnan az 50/2011. (XII. 22.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^30]: A 15. § (3) bekezdése az 50/2011. (XII. 22.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^31]: A 15. § (4) bekezdése az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 2. §-ával megállapított szöveg.
+[^32]: A 15. § (4) bekezdés e) pontját az 50/2011. (XII. 22.) NGM rendelet 3. § (2) bekezdése iktatta be.
+[^33]: A 15. § (4) bekezdés f) pontját a 21/2015. (VIII. 28.) NGM rendelet 9. §-a iktatta be.

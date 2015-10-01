@@ -12,7 +12,7 @@ b) megfelelő munkaeszköz alkalmazása,
 
 c) kevésbé veszélyes anyagok alkalmazása,
 
-d)[^15] kollektív műszaki és egyéni védelem alkalmazása a kockázat keletkezési helyén,
+d)[^18] kollektív műszaki és egyéni védelem alkalmazása a kockázat keletkezési helyén,
 
 e) munkaszervezési intézkedések,
 
@@ -24,17 +24,17 @@ a) a munkavállalót olyan környezetben ne foglalkoztassa, ahol a munkahelyi le
 
 b) a munkavállalót munkavégzés közben hormon-, hormonhatású anyag, antibiotikum expozíciója ne érje, illetőleg aszfixiát okozó anyagnak az oxigén kiszorítását okozó koncentrációja ne alakulhasson ki,
 
-c) a külön jogszabály szerinti Biztonsági Adatlappal azonosítható anyagfajtákra vonatkozó nyilvántartást vezessenek a munkahelyeken alkalmazott veszélyes anyagokról. Ezt a nyilvántartást a munkavállaló és képviselői számára hozzáférhetővé kell tenni,
+c)[^19] a külön jogszabály szerinti biztonsági adatlappal azonosítható anyagfajtákra vonatkozó nyilvántartást vezessenek a munkahelyen alkalmazott veszélyes anyagokról és veszélyes keverékekről,
 
-d)[^16] a munkavállaló munkahelyi expozíciójára vonatkozó nyilvántartott adatokat a munkaviszony megszűnését követő 10 évig, rákkeltő hatású anyagok esetében 40 évig megőrizzék, valamint ezekhez a munkavállaló, valamint képviselőik hozzáférhessenek. A munkáltató megszűnése esetén a dokumentumokat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetének (a továbbiakban: járási népegészségügyi intézet) kell átadni.
+d)[^20] a munkavállaló munkahelyi expozíciójára vonatkozó nyilvántartott adatokat a munkaviszony megszűnését követő 10 évig, rákkeltő hatású anyagok esetében 40 évig megőrizzék, valamint ezekhez a munkavállaló, valamint képviselőik hozzáférhessenek. A munkáltató megszűnése esetén a dokumentumokat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetének (a továbbiakban: járási népegészségügyi intézet) kell átadni.
 
-(5)[^17] A veszélyes anyagokkal szennyezett munkatérben foglalkoztatott munkavállalókra az 1. számú mellékletben meghatározott határértékek 8 órás referenciaidőre vonatkoznak. Amennyiben az expozícióban töltött munkavégzés időtartama rövidebb, mint a referenciaidő, a légtérszennyezettség mértéke akkor sem haladhatja meg az ÁK értéket.
+(5)[^21] A veszélyes anyagokkal szennyezett munkatérben foglalkoztatott munkavállalókra az 1. számú mellékletben meghatározott határértékek 8 órás referenciaidőre vonatkoznak. Amennyiben az expozícióban töltött munkavégzés időtartama rövidebb, mint a referenciaidő, a légtérszennyezettség mértéke akkor sem haladhatja meg az ÁK értéket.
 
 (6) A munkáltató köteles a határértékkel nem szabályozott veszélyes anyag esetében a tudományos, technikai színvonal szerint elvárható legkisebb szintre csökkenteni az expozíció mértékét, amely szinten a tudomány mindenkori állása szerint a veszélyes anyagnak nincs egészségkárosító hatása.
 
-(7) A munkáltatónak az exponált munkavállalók expozíciójának tényét és mérés esetén[^18] a mérési adatokat, a mérés időpontját, illetőleg ezek mellékleteként a mérési jegyzőkönyveket, dokumentumokat rögzíteni, illetve dokumentálni kell.
+(7) A munkáltatónak az exponált munkavállalók expozíciójának tényét és mérés esetén[^22] a mérési adatokat, a mérés időpontját, illetőleg ezek mellékleteként a mérési jegyzőkönyveket, dokumentumokat rögzíteni, illetve dokumentálni kell.
 
-(8) Amennyiben a munkavállaló határértékkel szabályozott veszélyes anyag hatásának lehet kitéve, a munkáltató köteles – az expozíció mértékétől, az anyag(ok) veszélyességétől és a technológia stabilitásától függő gyakorisággal – a veszélyes anyagok koncentrációját meghatározni[^19] és azt folyamatosan ellenőrizni.
+(8) Amennyiben a munkavállaló határértékkel szabályozott veszélyes anyag hatásának lehet kitéve, a munkáltató köteles – az expozíció mértékétől, az anyag(ok) veszélyességétől és a technológia stabilitásától függő gyakorisággal – a veszélyes anyagok koncentrációját meghatározni[^23] és azt folyamatosan ellenőrizni.
 
 (9) Határérték-túllépés esetén a munkáltató megfelelő megelőző és védő intézkedéseket hoz a kialakult helyzet egészséget nem veszélyeztető és biztonságos megoldására, továbbá az eseményt írásban rögzíti és azt a (4) bekezdés d) pontja szerinti időtartamig megőrzi.
 
@@ -48,8 +48,9 @@ c) csökkenteni a tűz- és robbanásveszélyes anyagok égése során keletkez�
 
 d) gondoskodni a munkahely, a berendezések és a gépek kielégítő irányításáról, a robbanást elfojtó berendezésekről, illetve a robbanási nyomás csökkentéséről.
 
-[^15]: A 7. § (3) bekezdésének d) pontja a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 3. §-ával megállapított szöveg.
-[^16]: A 7. § (4) bekezdés d) pontja a 48/2012. (XII. 28.) NGM rendelet 7. § a) pontja szerint módosított szöveg.
-[^17]: A 7. § (5) bekezdése a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 4. §-ával megállapított szöveg.
-[^18]: A vizsgálati módszereknek meg kell felelnie az MSZ EN 482 követelményeinek.
-[^19]: MSZ EN 689:1999.
+[^18]: A 7. § (3) bekezdésének d) pontja a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 3. §-ával megállapított szöveg.
+[^19]: A 7. § (4) bekezdés c) pontja a 21/2015. (VIII. 28.) NGM rendelet 7. §-ával megállapított szöveg.
+[^20]: A 7. § (4) bekezdés d) pontja a 48/2012. (XII. 28.) NGM rendelet 7. § a) pontja szerint módosított szöveg.
+[^21]: A 7. § (5) bekezdése a 13/2002. (XI. 28.) ESZCSM–FMM együttes rendelet 4. §-ával megállapított szöveg.
+[^22]: A vizsgálati módszereknek meg kell felelnie az MSZ EN 482 követelményeinek.
+[^23]: MSZ EN 689:1999.

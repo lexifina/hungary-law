@@ -1082,6 +1082,6 @@
 
 2. számú melléklet a 25/2000. (IX. 30.) EüM–SZCSM
 
-együttes rendelethez[^29]
+együttes rendelethez[^35]
 
-[^29]: A 2. számú melléklet az 50/2011. (XII. 22.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^35]: A 2. számú melléklet az 50/2011. (XII. 22.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.

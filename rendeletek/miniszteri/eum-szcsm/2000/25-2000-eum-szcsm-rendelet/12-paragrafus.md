@@ -8,7 +8,7 @@ a) az 5. §-ban szereplő kockázatbecslést újra elvégezni,
 
 b) a 6–7. §-okban előírt, a kockázat megszüntetésére, illetve csökkentésére hozott intézkedéseket felülvizsgálni,
 
-c)[^21] figyelembe venni a foglalkozás-egészségügyi orvos, illetve az illetékes hatóság előírásait a kockázatok megszüntetésének vagy csökkentésének bevezetésére a 7. §-ban foglaltakkal összhangban,
+c)[^26] figyelembe venni a foglalkozás-egészségügyi orvos, illetve az illetékes hatóság előírásait a kockázatok megszüntetésének vagy csökkentésének bevezetésére a 7. §-ban foglaltakkal összhangban,
 
 d) figyelembe venni a foglalkozás-egészségügyi orvos véleményét a munkavállalók további foglalkoztathatóságát illetően,
 
@@ -24,4 +24,4 @@ c) felhívja a munkavállaló figyelmét a munkaköri alkalmassági vizsgálatok
 
 d) kiképzi a munkavállalókat a szaksegélyt megelőző elsősegély nyújtására. A képzésben való részvételt és az elsősegélynyújtás feltételeit a munkáltató biztosítja.
 
-[^21]: A 12. (2) bekezdésének c) pontja az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^26]: A 12. (2) bekezdésének c) pontja az 58/2007. (XII. 22.) EüM–SZMM együttes rendelet 4. § (1) bekezdése szerint módosított szöveg.
