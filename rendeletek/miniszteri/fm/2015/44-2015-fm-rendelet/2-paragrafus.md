@@ -1,0 +1,3 @@
+2. § (1) Nem nyilvántartott halgazdálkodási vízterület esetén a NÉBIH a különleges rendeltetésűvé nyilvánításra vonatkozó eljárás megindítását követően haladéktalanul megkeresi a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatóságot a nem nyilvántartott halgazdálkodási vízterület nyilvántartásba vétele érdekében.
+
+(2) Az (1) bekezdésben foglalt eljárás lefolytatását követően, amennyiben a különleges rendeltetésűvé nyilvánítás nem történik meg, a NÉBIH haladéktalanul megkeresi a halgazdálkodási vízterület fekvése szerint illetékes halgazdálkodási hatóságot a halgazdálkodási vízterület nyilvántartásból történő törlése érdekében.
