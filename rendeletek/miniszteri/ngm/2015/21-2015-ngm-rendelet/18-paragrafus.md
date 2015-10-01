@@ -1,0 +1,3 @@
+## 17. § Hatályát veszti a korkedvezmény-biztosítási járulék megfizetési kötelezettsége alól történő mentesítéshez szükséges állapotfelmérésről, valamint a mentesítési eljárás szakértői, illetve hatósági közvetítői díjairól szóló 34/2007. (XII. 21.) SZMM rendelet.
+
+## 7. Záró rendelkezések
