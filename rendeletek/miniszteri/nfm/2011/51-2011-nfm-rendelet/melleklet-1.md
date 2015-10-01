@@ -4,217 +4,219 @@
 
 ## A támogatás mértéke
 
-1. A távhőszolgáltatók esetében alkalmazandó fajlagos támogatási mértékek
+1. A távhőszolgáltatók esetében alkalmazandó támogatási mértékek
 
-|  | A | B | C |
+| A | B | C | D | E |
 
-| Sorszám | Település | Távhőszolgáltató | Lakosság értékesítés után kapott fajlagos támogatás (Ft/GJ) |
+| Sorszám | Település | Távhőszolgáltató | Fix összegű támogatás | Lakosságnak nyújtott távhő után kapott fajlagos támogatás |
 
-| 1. | Ajka | PRIMER Ajkai Távhőszolgáltatási Kft. | 1 640 |
+|  |  |  | Ft/hó | Ft/GJ |
 
-| 2. | Ajka | Bakonyi Erőmű Zrt. | 0 |
+| 1 | Ajka | PRIMER Ajkai Távhőszolgáltatási Kft. | 7 743 865 | 1 012 |
 
-| 3. | Algyő | Veolia Energia Magyarország Zrt.. | 1 706 |
+| 2 | Ajka | Bakonyi Erőmű Zrt. | 0 | 0 |
 
-| 4. | Almásfüzitő | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 5 067 |
+| 3 | Algyő | Veolia Energia Magyarország Zrt. | 393 391 | 0 |
 
-| 5. | Baj | T-Szol Tatabányai Szolgáltató Zrt. | 782 |
+| 4 | Almásfüzitő | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 7 595 774 | 461 |
 
-| 6. | Baja | Baja Energetika Kft. | 3 923 |
+| 5 | Baj | T-Szol Tatabányai Szolgáltató Zrt. | 0 | 0 |
 
-| 7. | Balatonfüred | Füredhő Távhőszolgáltatási Kft. | 2 867 |
+| 6 | Baja | Baja Energetika Kft. | 2 700 776 | 1 789 |
 
-| 8. | Berettyóújfalu | Herpály-Team Építőipari és Szolgáltató Kft. | 1 857 |
+| 7 | Balatonfüred | Füredhő Távhőszolgáltatási Kft. | 2 307 594 | 0 |
 
-| 9. | Bokod | Oroszlányi Szolgáltató Zrt. | 2 573 |
+| 8 | Berettyóújfalu | Herpály-Team Építőipari és Szolgáltató Kft. | 2 482 355 | 48 |
 
-| 10. | Bonyhád | „FŰTŐMŰ” Kft. | 1 699 |
+| 9 | Bokod | Oroszlányi Szolgáltató Zrt. | 1 185 982 | 1 269 |
 
-| 11. | Budaörs | BTG Településgazdálkodási Nonprofit Kft. | 2 134 |
+| 10 | Bonyhád | „FŰTŐMŰ” Kft. | 4 064 732 | 0 |
 
-| 12. | Budapest | Csepeli Erőmű Kft. | 0 |
+| 11 | Budaörs | BTG Nonprofit Kft. | 9 759 037 | 0 |
 
-| 13. | Budapest | Veolia Energia Magyarország Zrt.. | 2 599 |
+| 12 | Budapest | Csepeli Erőmű Kft. | 0 | 0 |
 
-| 14. | Budapest | Budapesti Távhőszolgáltató Zrt. | 2 211 |
+| 13 | Budapest | Veolia Energia Magyarország Zrt. | 2 109 647 | 1 039 |
 
-| 15. | Budapest | Csepeli Hőszolgáltató Kft. | 1 616 |
+| 14 | Budapest | Budapesti Távhőszolgáltató Zrt. | 514 418 794 | 635 |
 
-| 16. | Budapest | GM Kőérberek Kft. | 1 616 |
+| 15 | Budapest | Csepeli Hőszolgáltató Kft. | 251 582 | 0 |
 
-| 17. | Cegléd | Veolia Energia Magyarország Zrt.. | 4 304 |
+| 16 | Budapest | GM Kőérberek Kft. | 1 520 925 | 0 |
 
-| 18. | Celldömölk | Cellenergo Kft. | 4 018 |
+| 17 | Cegléd | Veolia Energia Magyarország Zrt. | 16 677 039 | 442 |
 
-| 19. | Cserkeszőlő | Cserkeszőlő Fürdő és Gyógyászati Központ | 0 |
+| 18 | Celldömölk | Cellenergo Kft. | 4 125 855 | 23 |
 
-| 20. | Csongrád | Csongrádi Közmű Szolgáltató Kft. | 2 279 |
+| 19 | Cserkeszőlő | Cserkeszőlő Fürdő és Gyógyászati Központ | 3 048 922 | 0 |
 
-| 21. | Csorna | Csornai Hőszolgáltató Kft. | 4 771 |
+| 20 | Csongrád | Csongrádi Közmű Szolgáltató Kft. | 2 124 297 | 1 553 |
 
-| 22. | Debrecen | Debreceni Hőszolgáltató Zrt. | 2 909 |
+| 21 | Csorna | Csornahő Kft. | 4 257 978 | 0 |
 
-| 23. | Debrecen | DotEnergo Energetikai és Épületgépészeti Zrt. | 0 |
+| 22 | Debrecen | Debreceni Hőszolgáltató Zrt. | 166 066 485 | 565 |
 
-| 24. | Dombóvár | Veolia Energia Magyarország Zrt.. | 2 128 |
+| 23 | Debrecen | Dotenergo Zrt. | 0 | 0 |
 
-| 25. | Dorog | PROMTÁVHŐ Szolgáltató Kft. | 3 320 |
+| 24 | Dombóvár | Veolia Energia Magyarország Zrt. | 10 339 946 | 0 |
 
-| 26. | Dunakeszi | Dunakeszi Közüzemi Nonprofit Kft. | 3 188 |
+| 25 | Dorog | PROMTÁVHŐ Kft. | 10 482 292 | 0 |
 
-| 27. | Dunaújváros | Dunaújvárosi Víz-, Csatorna-, Hőszolgáltató Kft. | 3 267 |
+| 26 | Dunakeszi | Dunakeszi Közüzemi Nonprofit Kft. | 8 959 576 | 578 |
 
-| 28. | Eger | EVAT Egri Vagyonkezelő és Távfűtő Zrt. | 2 146 |
+| 27 | Dunaújváros | Dunaújvárosi Víz-, Csatorna-Hőszolgáltató Kft. | 15 212 124 | 1 427 |
 
-| 29. | Érd | Érdhő Távhő Termelő és Szolgáltató Kft. | 2 112 |
+| 28 | Eger | EVAT Zrt. | 13 303 095 | 884 |
 
-| 30. | Esztergom | PROMTÁVHŐ Szolgáltató Kft. | 3 123 |
+| 29 | Érd | Érdhő Kft. | 5 033 049 | 487 |
 
-| 31. | Gödöllő | Gödöllői Távhőszolgáltató Kft. | 2 175 |
+| 30 | Esztergom | PROMTÁVHŐ Kft. | 17 886 063 | 654 |
 
-| 32. | Gyöngyös | Városgondozási Zrt. | 1 401 |
+| 31 | Gödöllő | Gödöllői Távhőszolgáltató Kft. | 8 400 002 | 34 |
 
-| 33. | Győr | Győri Közszolgáltató és Vagyongazdálkodó Zrt. | 2 061 |
+| 32 | Gyöngyös | Városgondozási Zrt. | 7 631 367 | 66 |
 
-| 34. | Hajdúböszörmény | Hajdúböszörményi Városgazdálkodási Nonprofit Kft. | 2 252 |
+| 33 | Győr | GYŐR-SZOL Zrt. | 76 585 189 | 0 |
 
-| 35. | Hajdúnánás | Hajdúnánási Építő és Szolgáltató Kft. | 2 562 |
+| 34 | Hajdúböszörmény | Hajdúböszörményi Városgazdálkodási Nonprofit Kft. | 1 116 610 | 0 |
 
-| 36. | Hajdúszoboszló | Hajdúszoboszlói Városgazdálkodási Nonprofit Zrt. | 3 684 |
+| 35 | Hajdúnánás | Hajdúnánási Építő és Szolgáltató Kft. | 308 805 | 0 |
 
-| 37. | Hódmezővásárhely | Hódmezővásárhelyi Vagyonkezelő Zrt. | 1 680 |
+| 36 | Hajdúszoboszló | Hajdúszoboszlói Nonprofit Zrt. | 5 928 207 | 1 266 |
 
-| 38. | Inota | Várpalotai Közüzemi Kft. | 5 693 |
+| 37 | Hódmezővásárhely | Hódmezővásárhelyi Vagyonkezelő Zrt. | 0 | 0 |
 
-| 39. | Kaposvár | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zrt. | 4 277 |
+| 38 | Inota | Várpalotai Közüzemi Kft. | 2 568 201 | 1 197 |
 
-| 40. | Kapuvár | Kapuvári Hőszolgáltató Kft. | 4 119 |
+| 39 | Kaposvár | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zrt. | 37 251 045 | 1 079 |
 
-| 41. | Kazincbarcika | Barcika Szolg Kft. | 4 067 |
+| 40 | Kapuvár | Kapuvári Hőszolgáltató Kft. | 1 192 825 | 2 029 |
 
-| 42. | Kecskemét | Kecskeméti Termostar Hőszolgáltató Kft. | 2 866 |
+| 41 | Kazincbarcika | Barcika Szolg Kft. | 67 713 383 | 400 |
 
-| 43. | Keszthely | VÜZ Keszthelyi Városüzemeltető Egyszemélyes Nonprofit Kft. | 3 860 |
+| 42 | Kecskemét | Kecskeméti Termostar Hőszolgáltató Kft. | 55 706 058 | 0 |
 
-| 44. | Kiskunfélegyháza | Perkons DHÖ Dunaújvárosi Hőszolgáltató Kft. | 2 943 |
+| 43 | Keszthely | VÜZ Nonprofit Kft. | 7 241 067 | 0 |
 
-| 45. | Kiskunhalas | Halasi Városgazda Zrt. | 3 941 |
+| 44 | Kiskunfélegyháza | Perkons DHŐ Kft. | 8 168 477 | 0 |
 
-| 46. | Kisvárda | KISVÁRDAI KÖZMŰ Szolgáltató Kft. | 3 060 |
+| 45 | Kiskunhalas | Halasi Városgazda Zrt. | 2 471 015 | 1 852 |
 
-| 47. | Komárom | Komáromi Távhő Kft. | 3 057 |
+| 46 | Kisvárda | KISVÁRDAI KÖZMŰ Szolgáltató Kft. | 6 401 595 | 0 |
 
-| 48. | Komló | Komlói Fűtőerőmű Zrt. | 3 927 |
+| 47 | Komárom | Komáromi Távhő Kft. | 8 036 987 | 327 |
 
-| 49. | Körmend | RÉGIÓHŐ Regionális Hőszolgáltató Kft. | 1 622 |
+| 48 | Komló | Komlói Fűtőerőmű Zrt. | 36 220 995 | 0 |
 
-| 50. | Kőszeg | Kőszegi Távhőszolgáltató Kft. | 1 801 |
+| 49 | Körmend | RÉGIÓHŐ Kft. | 3 931 413 | 0 |
 
-| 51. | Makó | Makói Kommunális Nonprofit Kft. | 2 820 |
+| 50 | Kőszeg | Kőszegi Távhőszolgáltató Kft. | 2 118 762 | 0 |
 
-| 52. | Mátészalka | Mátészalkai Távhőszolgáltató Kft. | 2 535 |
+| 51 | Makó | Makói Kommunális Nonprofit Kft. | 2 348 184 | 894 |
 
-| 53. | Miskolc | Miskolci Hőszolgáltató Kft. | 3 670 |
+| 52 | Mátészalka | Mátészalkai Távhőszolgáltató Kft. | 7 160 425 | 660 |
 
-| 54. | Mohács | MOHÁCS-HŐ Kft. | 3 622 |
+| 53 | Miskolc | MIHŐ Kft. | 333 115 937 | 340 |
 
-| 55. | Mór | MÓRHŐ Kft. | 2 332 |
+| 54 | Mohács | MOHÁCS-HŐ Kft. | 11 012 914 | 1 146 |
 
-| 56. | Mosonmagyaróvár | Városüzemeltető és Fenntartó Kft. | 3 713 |
+| 55 | Mór | MÓRHŐ Kft. | 6 165 292 | 371 |
 
-| 57. | Nagyatád | Cothec Energetikai Üzemeltető Kft. | 2 448 |
+| 56 | Mosonmagyaróvár | Városüzemeltető és Fenntartó Kft. | 29 609 913 | 246 |
 
-| 58. | Nagykőrös | KÖVA-KOM Nonprofit Zrt. | 5 714 |
+| 57 | Nagyatád | Cothec Kft. | 1 295 586 | 0 |
 
-| 59. | Nyergesújfalu | DISTHERM Kft. | 1 481 |
+| 58 | Nagykőrös | KÖVA-KOM Nonprofit Zrt. | 4 341 662 | 307 |
 
-| 60. | Nyírbátor | Nyírbátori Városüzemeltetési Kkh. Nonprofit Kft. | 276 |
+| 59 | Nyergesújfalu | DISTHERM Kft. | 2 511 971 | 0 |
 
-| 61. | Nyíregyháza | NYÍRTÁVHŐ Nyíregyházi Távhőszolgáltató Kft. | 4 185 |
+| 60 | Nyírbátor | Nyírbátori Városfejlesztő és Működtető Kft. | 63 871 | 0 |
 
-| 62. | Nyíregyháza | Energocoop Kft. | 2 898 |
+| 61 | Nyíregyháza | NYÍRTÁVHŐ Kft. | 122 699 522 | 212 |
 
-| 63. | Oroszlány | Oroszlányi Szolgáltató Zrt. | 1 793 |
+| 62 | Nyíregyháza | Energocoop Kft. | 3 430 926 | 359 |
 
-| 64. | Ózd | Ózdi Távhőtermelő és Szolgáltató Kft. | 3 183 |
+| 63 | Oroszlány | Oroszlányi Szolgáltató Zrt. | 23 830 312 | 0 |
 
-| 65. | Paks | Duna Center Therm Kft. | 1 381 |
+| 64 | Ózd | Ózdi Távhő Kft. | 32 333 236 | 777 |
 
-| 66. | Pécs | PÉTÁV Pécsi Távfűtő Kft. | 1 929 |
+| 65 | Paks | Duna Center Therm Kft. | 9 289 838 | 0 |
 
-| 67. | Pétfürdő | „PÉTKOMM” Kft. | 3 488 |
+| 66 | Pécs | PÉTÁV Kft. | 97 422 509 | 873 |
 
-| 68. | Pétfürdő | Nitrogénművek Zrt. | 0 |
+| 67 | Pétfürdő | „PÉTKOMM” Kft. | 1 661 827 | 2 395 |
 
-| 69. | Pornóapáti | Pornóapáti Vagyonhasznosító Kft. | 4 107 |
+| 68 | Pétfürdő | Nitrogénművek Zrt. | 0 | 0 |
 
-| 70. | Putnok | Putnoki Városgondnokság | 4 087 |
+| 69 | Pornóapáti | Pornóapáti Vagyonhasznosító Kft. | 406 963 | 1 812 |
 
-| 71. | Püspökladány | Püspökladányi Városüzemeltető és Gyógyfürdő Kft. | 4 647 |
+| 70 | Putnok | Putnoki Városgondnokság | 402 271 | 687 |
 
-| 72. | Salgótarján | Salgó Vagyon Kft. | 4 452 |
+| 71 | Püspökladány | Püspökladányi Városüzemeltető és Gyógyfürdő Kft. | 7 007 592 | 1 033 |
 
-| 73. | Sárbogárd | Cothec Energetikai Üzemeltető Kft. | 4 331 |
+| 72 | Salgótarján | Salgó Vagyon Kft. | 26 088 430 | 660 |
 
-| 74. | Sárospatak | Patakhő Energiaszolgáltató Nonprofit Kft. | 3 680 |
+| 73 | Sárbogárd | Cothec Kft. | 2 194 835 | 0 |
 
-| 75. | Sárvár | Sárvár Távhő Hőtermelő és Szolgáltató Kft. | 5 941 |
+| 74 | Sárospatak | Patakhő Energiaszolgáltató Nonprofit Kft. | 3 364 511 | 8 |
 
-| 76. | Sátoraljaújhely | Cothec Energetikai Üzemeltető Kft. | 2 079 |
+| 75 | Sárvár | SÁRVÁR TÁVHŐ Kft. | 4 102 298 | 371 |
 
-| 77. | Siklós | SIKLÓSI TÁVHŐ Nonprofit Kft. | 1 823 |
+| 76 | Sátoraljaújhely | Cothec Kft. | 7 093 265 | 0 |
 
-| 78. | Siófok | Balaton-parti Kft. | 5 187 |
+| 77 | Siklós | SIKLÓSI TÁVHŐ Nonprofit Kft. | 1 665 910 | 138 |
 
-| 79. | Sopron | SOPRON Holding Zrt. | 3 148 |
+| 78 | Siófok | Balaton-parti Kft. | 0 | 0 |
 
-| 80. | Sopron | Soproni Erőmű Kft. | 0 |
+| 79 | Sopron | SOPRON Holding Zrt. | 25 162 696 | 871 |
 
-| 81. | Szarvas | Szarvasi Gyógy-Termál Nonprofit Kft. | 423 |
+| 80 | Sopron | Soproni Erőmű Kft. | 0 | 942 |
 
-| 82. | Százhalombatta | „SZÁKOM” Kft. | 1 146 |
+| 81 | Szarvas | Szarvasi Gyógy-Termál Nonprofit Kft. | 0 | 0 |
 
-| 83. | Szeged | Szegedi Hőszolgáltató Kft. | 1 936 |
+| 82 | Százhalombatta | „SZÁKOM” Kft. | 23 100 153 | 0 |
 
-| 84. | Székesfehérvár | SZÉPHŐ Székesfehérvári Épületfenntartó és Hőszolgáltató Zrt. | 3 459 |
+| 83 | Szeged | IKV Zrt. | 85 494 229 | 74 |
 
-| 85. | Szekszárd | ALFA-NOVA Kft. | 2 083 |
+| 84 | Székesfehérvár | SZÉPHŐ Székesfehérvári Épületfenntartó és Hőszolgáltató Zrt. | 116 897 295 | 0 |
 
-| 86. | Szentendre | Városi Szolgáltató Zrt. | 2 256 |
+| 85 | Szekszárd | Szekszárdi Vagyonkezelő Kft. | 6 644 794 | 0 |
 
-| 87. | Szentes | Szentes Városi Szolgáltató Kft. | 1 518 |
+| 86 | Szentendre | Városi Szolgáltató Zrt. | 10 886 984 | 0 |
 
-| 88. | Szentgotthárd | RÉGIÓHŐ Regionális Hőszolgáltató Kft. | 2 258 |
+| 87 | Szentes | Szentes Városi Szolgáltató Kft. | 4 314 064 | 0 |
 
-| 89. | Szentlőrinc | Szentlőrinci Közüzemi Közhasznú Nonprofit Kft. | 2 417 |
+| 88 | Szentgotthárd | RÉGIÓHŐ Kft. | 204 034 | 0 |
 
-| 90. | Szigetszentmiklós | ARIES Ipari, Kereskedelmi és Szolgáltató Kft. | 3 062 |
+| 89 | Szentlőrinc | Szentlőrinci Közüzemi Nonprofit Kft. | 1 712 149 | 1 311 |
 
-| 91. | Szigetvár | Szigetvári Távhő Szolgáltató Kft. | 1 308 |
+| 90 | Szigetszentmiklós | „Aries” Nonprofit Kft. | 4 047 702 | 112 |
 
-| 92. | Szolnok | ALFA-NOVA Kft. | 3 893 |
+| 91 | Szigetvár | Szigetvári Távhő Szolgáltató Nonprofit Kft. | 2 931 078 | 105 |
 
-| 93. | Szombathely | Szombathelyi Távhőszolgáltató Kft. | 2 711 |
+| 92 | Szolnok | ALFA-NOVA Kft. | 34 364 576 | 119 |
 
-| 94. | Tapolca | Tapolcai Városgazdálkodási Kft. | 2 920 |
+| 93 | Szombathely | Szombathelyi Távhőszolgáltató Kft. | 54 809 308 | 493 |
 
-| 95. | Tata | Tata Energia Termelő és Távhőszolgáltató Kft. | 1 942 |
+| 94 | Tapolca | Városgazdálkodási Kft. | 7 370 937 | 170 |
 
-| 96. | Tatabánya | T-Szol Tatabányai Szolgáltató Zrt. | 3 412 |
+| 95 | Tata | TATA ENERGIA Kft. | 16 400 132 | 11 |
 
-| 97. | Tiszaújváros | TiszaSzolg 2004 Kft. | 4 156 |
+| 96 | Tatabánya | T-SZOL Zrt. | 84 349 883 | 1 768 |
 
-| 98. | Vác | Váci Távhő Kft. | 1 865 |
+| 97 | Tiszaújváros | TiszaSzolg 2004 Kft. | 41 517 935 | 0 |
 
-| 99. | Várpalota | Várpalotai Közüzemi Kft. | 1 827 |
+| 98 | Vác | Váci Távhő Kft. | 8 527 309 | 313 |
 
-| 100. | Vasvár | RÉGIÓHŐ Regionális Hőszolgáltató Kft. | 2 341 |
+| 99 | Várpalota | Várpalotai Közüzemi Kft. | 14 731 623 | 0 |
 
-| 101. | Veszprém | „VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 2 936 |
+| 100 | Vasvár | RÉGIÓHŐ Kft. | 1 025 465 | 0 |
 
-| 102. | Záhony | Hőtáv Kft. | 4 529 |
+| 101 | Veszprém | „VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 31 108 479 | 1 424 |
 
-| 103. | Zirc | Veolia Energia Magyarország Zrt.. | 191 |
+| 102 | Záhony | „Záhonyi HŐTÁV” Kft. | 2 445 129 | 233 |
+
+| 103 | Zirc | Veolia Energia Magyarország Zrt. | 0 | 0 |
 
 2. Az intézmények esetében alkalmazandó fajlagos támogatási mérték
 
@@ -255,4 +257,4 @@
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Megyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^17]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése szerint módosított szöveg.
