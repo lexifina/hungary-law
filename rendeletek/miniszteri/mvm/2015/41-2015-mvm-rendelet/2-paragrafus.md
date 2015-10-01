@@ -1,3 +1,0 @@
-## 1. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2015. évben igényelhető támogatások részletes feltételeiről szóló 24/2015. (IV. 28.) MvM rendelet (a továbbiakban: Rendelet) 9. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) Az intézkedésben való részvételhez szükséges feltétel mesterséges körülmények létrehozásával történt megteremtéseként kell értékelni, és a Tv. 55. § (10) bekezdése szerint kell eljárni, ha 3 vagy több, a Polgári Törvénykönyv szerinti közeli hozzátartozónak nem minősülő ügyfél jelölte meg életvitelszerű tartózkodási helyeként ugyanazt az ingatlant.”
