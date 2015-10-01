@@ -1,69 +1,3 @@
-## A tanácsadó alapfelszerelése
-
-## I.
-
-## – Személymérleg,
-
-## – magasságmérőállvány,
-
-## – csecsemőmérleg,
-
-## – mérőszalag,
-
-## – hosszúságmérő,
-
-## – audiométer,
-
-## – látásélesség vizsgáló tábla,
-
-## – színlátást vizsgáló könyv,
-
-## – vérnyomásmérő, különböző méretű mandzsetta,
-
-## – fonendoscop,
-
-## – magzati szívhangvizsgáló készülék,
-
-## – vizeletvizsgálathoz: (reagensek, tesztek, kémcsövek, kémcsőállvány, vizeletgyűjtő pohár),
-
-## – vércukor meghatározásához eszköz,
-
-## – egyszerhasználatos gumikesztyűk, gumiujjak,
-
-## – egyszerhasználatos fecskendők, injekciós tűk különböző méretben,
-
-## – leszorító gumi,
-
-## – csipesz (kullancs, szálka)
-
-## – olló (különböző),
-
-## – egyszer használatos nyelvlapoc,
-
-## – kötszerek (különböző méretű steril és nem steril),
-
-## – lázmérő,
-
-## – OPV adáshoz kanál,
-
-## – vizespohár,
-
-## – pedálos vödör,
-
-## – textíliák: (köpeny, törölköző, lepedő, műszertörlő),
-
-## – hűtőszekrény, hűtőtáska,
-
-## – veszélyes anyagok tárolására alkalmas hulladék gyűjtő,
-
-## – bútorzat: (műszer- és kötszerszekrény, vizsgálóasztal, műszerasztal, mérlegasztal, pakolóasztal, zárható íróasztal, irattartó szekrény, számítógép asztal, székek, fekvőhely).
-
-## II.
-
-## – Telefon,
-
-## – számítógép és nyomtató.
-
 6. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez
 
 ## A területi védőnő által ellátható gondozottak számának meghatározása
@@ -72,7 +6,7 @@
 
 1.1. várandós anya gondozása 3 pont/fő
 
-1.2.[^23] gyermek gondozása újszülött kortól a tanulói jogviszony megkezdéséig 3 pont/fő
+1.2.[^28] gyermek gondozása újszülött kortól a tanulói jogviszony megkezdéséig 3 pont/fő
 
 1.3. oktatási intézménybe nem járó otthon gondozott tanköteles korú gyermek gondozása 3 pont/fő
 
@@ -98,4 +32,4 @@ Y = az oktatási intézményben – a gyógypedagógiai oktatási intézmény ki
 
 X = az 1.1., 1.2. és 1.3. alpontok szerint a körzetben gondozottak száma összesen.
 
-[^23]: A 6. számú melléklet 1. pontjának 1.2. alpontja a 19/2009. (VI. 18.) EüM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^28]: A 6. számú melléklet 1. pontjának 1.2. alpontja a 19/2009. (VI. 18.) EüM rendelet 9. § (3) bekezdésével megállapított szöveg.

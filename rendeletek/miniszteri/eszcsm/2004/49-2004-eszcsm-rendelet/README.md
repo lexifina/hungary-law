@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-49-20-0
 | 2013-04-20 | 2004-49-20-0M.8 | 28/2013. (IV. 5.) EMMI rendelet |
 | 2014-02-25 | 2004-49-20-0M.9 | 11/2014. (II. 24.) EMMI rendelet |
 | 2015-03-13 | 2004-49-20-0M.10 | 9/2015. (II. 10.) EMMI rendelet |
+| 2015-10-01 | 2004-49-20-0M.11 | 28/2013. (IV. 5.) EMMI rendelet |
