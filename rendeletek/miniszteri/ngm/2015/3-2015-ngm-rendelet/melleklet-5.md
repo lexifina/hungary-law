@@ -110,4 +110,6 @@
 
 |  |  |  |  |  | (cégszerű aláírás) |  |
 
-5. melléklet a 3/2015. (II. 13.) NGM rendelethez
+5. melléklet a 3/2015. (II. 13.) NGM rendelethez[^2]
+
+[^2]: Az 5. melléklet a 21/2015 (VIII. 28.) NGM rendelet 16. § b) pontja szerint módosított szöveg.

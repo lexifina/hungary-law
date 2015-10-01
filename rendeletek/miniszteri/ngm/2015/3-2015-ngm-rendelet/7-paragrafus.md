@@ -4,9 +4,7 @@
 
 a) amely az Szht. 14. § a) pontjában, az államháztartásról szóló törvényben (a továbbiakban: Áht.), valamint az e rendeletben meghatározott feltételeknek megfelel,
 
-b) amely a támogatni kért képzés tekintetében rendelkezik a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) szerint kiadott engedéllyel,
-
-c) amely vállalja, hogy a képzések lebonyolítására az Fktv.-ben foglalt követelmények megtartásával kerül sor,
+b)–c)[^1]
 
 d) amelynél a támogatással érintett képzésben az Mt. szerint munkaviszonyban álló munkavállalók vesznek részt,
 
@@ -33,3 +31,5 @@ k) amely nem minősül az Atr. 6. §-a hatálya alá tartozó vállalkozásnak.
 (5) A 18 hónapos foglalkoztatási kötelezettség a képzésben részt vevő személy utolsó, támogatott képzésének befejezésétől kezdődik.
 
 (6) Amennyiben a képzési támogatást olyan projekthez nyújtják, amelynek céljai között szerepel egy regionális beruházási támogatásban részesülő beruházás munkavállalóinak képzése, olyan képzés nem támogatható, amely az új beruházás beindításához és működtetéséhez feltétlenül szükséges.
+
+[^1]: A 7. § (1) bekezdés b)–c) pontját a 21/2015 (VIII. 28.) NGM rendelet 16. § a) pontja hatályon kívül helyezte.

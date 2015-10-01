@@ -26,9 +26,9 @@
 
 ## a) a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény (a továbbiakban: Szht.) 14. § a) pontjában, az Áht.-ban, valamint az e rendeletben meghatározott feltételeknek megfelel,
 
-## b) a támogatni kért képzés tekintetében rendelkezik a felnőttképzésről szóló törvény (a továbbiakban: Fktv.) szerint kiadott engedéllyel,
+## b)
 
-## c) vállalja, hogy a képzések lebonyolítására az Fktv.-ben foglalt követelmények megtartásával kerül sor,
+## c)
 
 ## d) a támogatással érintett képzéseiben a munka törvénykönyvéről szóló 2012. évi I. törvény szerint munkaviszonyban álló munkavállalók vesznek részt,
 
