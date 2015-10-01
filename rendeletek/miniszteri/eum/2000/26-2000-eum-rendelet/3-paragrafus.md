@@ -8,6 +8,6 @@
 
 a) az atomenergiáról szóló 1996. évi CXVI. törvény hatálya alá tartozó tevékenységekre, illetve tevékenységet végző személyekre.
 
-b)[^8]
+b)[^13]
 
-[^8]: A 3. § (3) bekezdésének b) pontját a 12/2006. (III. 23.) EüM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^13]: A 3. § (3) bekezdésének b) pontját a 12/2006. (III. 23.) EüM rendelet 20. § (2) bekezdése hatályon kívül helyezte.

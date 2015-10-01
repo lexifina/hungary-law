@@ -1,6 +1,6 @@
 ## Előre nem látott veszélyhelyzet, illetve expozíció
 
-8. § (1)[^20] A munkáltató rendkívüli helyzetekre riasztási és intézkedési terveket (baleset-elhárítási, mentési, menekülési, dekontaminálási, helyreállítási) készít, azokat a munkavállalókkal megismerteti és végrehajtásukat rendszeresen – de évente legalább egyszer – gyakoroltatja, és ennek megtörténtét írásban dokumentálja.
+8. § (1)[^25] A munkáltató rendkívüli helyzetekre riasztási és intézkedési terveket (baleset-elhárítási, mentési, menekülési, dekontaminálási, helyreállítási) készít, azokat a munkavállalókkal megismerteti és végrehajtásukat rendszeresen – de évente legalább egyszer – gyakoroltatja, és ennek megtörténtét írásban dokumentálja.
 
 (2) A munkáltató írásban tájékoztatja a munkavállalót olyan előre nem látható esemény (üzemzavar) vagy vegyi baleset esetén, amelyek a munkavállaló többletterhelését, fokozott expozícióját idézték vagy idézhették elő.
 
@@ -18,4 +18,4 @@ d) az expozícióval érintett térségben csak a b) pont szerint védett munkav
 
 (5) A munkahely expozícióval érintett területeit a 7. § (4) bekezdés l) pontja szerint jól láthatóan, egyértelműen körül kell határolni, jelzésekkel kell ellátni, és biztosítani kell, hogy oda illetéktelen személy ne jusson be.
 
-[^20]: A 8. § (1) bekezdése a 18/2007. (V. 10.) SZMM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^25]: A 8. § (1) bekezdése a 18/2007. (V. 10.) SZMM rendelet 14. § (2) bekezdésével megállapított szöveg.

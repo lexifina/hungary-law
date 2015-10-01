@@ -6,11 +6,11 @@
 
 a)[^2] rákkeltő anyag:
 
-aa) a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: REACH rendelet) XVII. Melléklete 28. pontjában meghatározott és a XVII. Melléklete 1. és 2. függelékében felsorolt anyag,
+aa)[^3] az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: CLP rendelet) alapján az 1A. vagy 1B. kategóriájú rákkeltő anyagként való besorolás kritériumainak megfelelő anyag,
 
-ab) az a készítmény, amely egy vagy több – az aa) alpontban meghatározott – anyagot tartalmaz, és ezen összetevő (összetevők) koncentrációja alapján a készítmény az 1A., 1B. vagy 2. karcinogén kategóriába tartozik,
+ab)[^4] az a keverék, amely egy vagy több – az aa) alpontban meghatározott – anyagot tartalmaz, és ezen összetevő vagy összetevők koncentrációja alapján a keverék az 1A. vagy 1B. rákkeltő kategóriába tartozik,
 
-ac) a 2. számú mellékletben meghatározott eljárás során felszabaduló vagy alkalmazott, az aa) alpontban foglaltak szerinti anyag, vagy ilyen anyagot az ab) alpontban meghatározott koncentrációban tartalmazó készítmény,
+ac)[^5] a 2. számú mellékletben meghatározott eljárás során felszabaduló vagy alkalmazott, az aa) alpontban foglaltak szerinti anyag, vagy ilyen anyagot az ab) alpontban meghatározott koncentrációban tartalmazó keverék,
 
 ad) bükkfa-, tölgyfa-, egyéb keményfaporok, illetve keményfaporokat tartalmazó faporok
 
@@ -26,7 +26,7 @@ e) expozíciós út: az az út és/vagy mód, amelyen át, illetve ahogy a rákk
 
 f) terhelés: a munkavállaló szervezetébe jutó rákkeltő mennyisége, dózisa függetlenül attól, hogy milyen expozíciós úton jutott a szervezetbe;
 
-g)[^3] orvosi vizsgálat: a külön jogszabály szerint a foglalkozás-egészségügyi szolgálatok vagy szakellátó helyek, illetve a munkahigiénés és foglalkozás-egészségügyi szerv által, valamint ezek kérésére végzett orvosi, szakkonziliárusi, illetőleg diagnosztikai vizsgálat;
+g)[^6] orvosi vizsgálat: a külön jogszabály szerint a foglalkozás-egészségügyi szolgálatok vagy szakellátó helyek, illetve a munkahigiénés és foglalkozás-egészségügyi szerv által, valamint ezek kérésére végzett orvosi, szakkonziliárusi, illetőleg diagnosztikai vizsgálat;
 
 h) biológiai vizsgálatok: biológiai monitorozás, citogenetikai vizsgálat, tumor-marker meghatározás;
 
@@ -38,28 +38,33 @@ k) egyéni kockázati szint: foglalkozási eredetű daganatos megbetegedésnek e
 
 l) populációs szintű kockázat: foglalkozási eredetű daganatos megbetegedéseknek egy meghatározott népességcsoportban való előfordulásának valószínűsége;
 
-m)[^4] határérték: az az eltűrhető legmagasabb kockázati szint, amely a munkatér eltűrhető szennyezettségi szintjével fejezhető ki (jele: MK, mértéke: mg/m3) a külön jogszabályban meghatározottak szerint. A határérték 8 órás referencia időre vonatkozik;
+m)[^7] határérték: az az eltűrhető legmagasabb kockázati szint, amely a munkatér eltűrhető szennyezettségi szintjével fejezhető ki (jele: MK, mértéke: mg/m3) a külön jogszabályban meghatározottak szerint. A határérték 8 órás referencia időre vonatkozik;
 
 n) eltűrhető szennyezettség: az a koncentráció, amelyben a rákkeltő okozta daganatos megbetegedés kockázata valószínűleg nem nagyobb, mint 1:105 (10 mikrorizikó);
 
 o) dekontaminálás: a rákkeltő szennyeződés hatástalanítása vagy eltávolítása;
 
-p)[^5] EU-szám: az egészségügyi miniszternek az Európai Unióban osztályozott veszélyes anyagok jegyzékéről szóló rendeletében az EINECS vagy az ELINCS számmal megegyező szám;
+p)[^8]
 
-r)[^6] egészségkárosító kockázat: a munkahelyi légtérben lévő szennyező anyag koncentrációja meghaladja a határértéket, vagy határérték hiányában a munkáltató által végzett kockázatbecslés az eltűrhetőnél – 1:105 szintűnél – nagyobb kockázatot jelez;
+r)[^9] egészségkárosító kockázat: a munkahelyi légtérben lévő szennyező anyag koncentrációja meghaladja a határértéket, vagy határérték hiányában a munkáltató által végzett kockázatbecslés az eltűrhetőnél – 1:105 szintűnél – nagyobb kockázatot jelez;
 
-s)[^7] mutagén anyag:
+s)[^10] mutagén anyag:
 
 sa) amely belégzéssel, szájon át, a bőrön, a nyálkahártyán keresztül vagy egyéb úton a szervezetbe jutva genetikai károsodást okoz vagy megnöveli a genetikai károsodások gyakoriságát,
 
-sb) a REACH rendelet XVII. Melléklete 29. pontjában meghatározott és a XVII. Melléklete 3. és 4. függelékében felsorolt anyag,
+sb)[^11] a CLP rendelet alapján az 1A. vagy 1B. kategóriájú csírasejt-mutagén anyagként való besorolás kritériumainak megfelelő anyag,
 
-sc) a veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló 44/2000. (XII. 27.) EüM rendelet 2. számú melléklete „A” részének 8. pontjában felsorolt készítmény.
+sc)[^12] az a keverék, amely egy vagy több – az sb) alpontban meghatározott – anyagot tartalmaz, és ezen összetevő vagy összetevők koncentrációja alapján a keverék az 1A. vagy 1B. mutagén kategóriába tartozik.
 
 [^1]: Az 1. § a 75/2003. (XII. 23.) ESZCSM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § a) pontja a 30/2009. (XII. 22.) SZMM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § g) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének a) pontja, az 51/2011. (XII. 23.) NGM rendelet 5. §-a szerint módosított szöveg.
-[^4]: A 2. § m) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 1. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^5]: A 2. § p) pontja a 12/2006. (III. 23.) EüM rendelet 20. § (3) bekezdésének a) pontja szerint módosított szöveg.
-[^6]: A 2. § r) pontját a 12/2002. (XI. 16.) ESZCSM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
-[^7]: A 2. § s) pontját a 75/2003. (XII. 23.) ESZCSM rendelet 2. §-a iktatta be, szövege a 30/2009. (XII. 22.) SZMM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § a) pont aa) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § a) pont ab) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § a) pont ac) alpontja a 21/2015. (VIII. 28.) NGM rendelet 12. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § g) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének a) pontja, az 51/2011. (XII. 23.) NGM rendelet 5. §-a szerint módosított szöveg.
+[^7]: A 2. § m) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 1. §-ának (1) bekezdése szerint kiegészített szöveg.
+[^8]: A 2. § p) pontját a 21/2015. (VIII. 28.) NGM rendelet 13. §-a hatályon kívül helyezte.
+[^9]: A 2. § r) pontját a 12/2002. (XI. 16.) ESZCSM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
+[^10]: A 2. § s) pontját a 75/2003. (XII. 23.) ESZCSM rendelet 2. §-a iktatta be, szövege a 30/2009. (XII. 22.) SZMM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § s) pont sa) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. § s) pont sb) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.

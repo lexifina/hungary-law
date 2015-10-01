@@ -1,4 +1,4 @@
-3. számú melléklet a 26/2000. (IX. 30.) EüM rendelethez[^48]
+3. számú melléklet a 26/2000. (IX. 30.) EüM rendelethez[^54]
 
 ## A fővárosi és megyei kormányhivatal mint munkavédelmi hatóság részére nyújtott tájékoztatás a rákkeltő/mutagén anyagokkal tevékenységet végző munkáltatókról és munkavállalókról
 
@@ -52,9 +52,9 @@ Utolsó bejelentés időpontja: ........... év ................................
 
 | FEOR-kód: ⬜⬜⬜ | a munkakörben dolgozók száma: |  |  |  |  |  |
 
-2.3. A rákkeltővel/mutagénnel és rákkeltőt/mutagént tartalmazó készítményekkel kapcsolatos adatok:
+2.3. A rákkeltővel/mutagénnel és rákkeltőt/mutagént tartalmazó keverékekkel kapcsolatos adatok:
 
-| Rákkeltő/muta- gén anyag sorszáma a 2.1. pont szerint | Rákkeltő/mutagén anyag megnevezése a REACH rendelet XVII. Melléklete vonatkozó függelékei szerint | CAS-szám | Évenként felhasznált |
+| Rákkeltő/muta- gén anyag sorszáma a 2.1. pont szerint | Rákkeltő/mutagén anyag megnevezése a CLP rendelet 18. cikke vagy a biztonsági adatlap szerint | CAS-szám | Évenként felhasznált |
 
 | mennyiség | mértékegység |
 
@@ -66,7 +66,7 @@ Utolsó bejelentés időpontja: ........... év ................................
 
 2.4. A rákkeltő/mutagén használatának indoka:
 
-– van-e célazonos nem rákkeltő vagy kevésbé rákkeltő anyag, készítmény, eljárás:
+– van-e célazonos nem rákkeltő vagy kevésbé rákkeltő anyag, keverék, eljárás:
 
 igen (1), nem (2) ⬜
 
@@ -154,4 +154,4 @@ Dátum: ................................................................
 
 aláírás
 
-[^48]: A 3. számú melléklet a 30/2009. (XII. 22.) SZMM rendelet 3. § (2) bekezdés b) pontjával megállapított, a 27/2010. (XII. 31.) NGM rendelet 26. § (3) bekezdése, a 9/2015. (III. 31.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^54]: A 3. számú melléklet a 30/2009. (XII. 22.) SZMM rendelet 3. § (2) bekezdés b) pontjával megállapított, a 27/2010. (XII. 31.) NGM rendelet 26. § (3) bekezdése, a 9/2015. (III. 31.) Korm. rendelet 20. §-a, a 21/2015. (VIII. 28.) NGM rendelet 14. §-a szerint módosított szöveg.
