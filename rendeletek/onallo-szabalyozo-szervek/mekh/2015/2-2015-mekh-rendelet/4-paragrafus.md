@@ -1,3 +1,3 @@
-## 3. §[^4]
+## 3. §[^3]
 
-[^4]: A 3. § a 25. § (3) bekezdése alapján 2015. október 1-jén lép hatályba.
+[^3]: A 3. § a 6/2015. (IX. 14.) MEKH rendelet 23. § b) pontja alapján nem lép hatályba.

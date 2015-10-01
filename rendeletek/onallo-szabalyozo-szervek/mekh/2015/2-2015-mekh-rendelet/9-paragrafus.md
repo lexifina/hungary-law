@@ -1,9 +1,9 @@
-## 8. §[^8]
+## 8. §[^7]
 
-9. § (1)[^9]
+9. § (1)[^8]
 
-(2)[^10]
+(2)[^9]
 
-[^8]: A 8. § a 25. § (3) bekezdése alapján 2015. október 1-jén lép hatályba.
-[^9]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 9. § (2) bekezdése a 25. § (3) bekezdése alapján 2015. október 1-jén lép hatályba.
+[^7]: A 8. § a 6/2015. (IX. 14.) MEKH rendelet 23. § b) pontja alapján nem lép hatályba.
+[^8]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9. § (2) bekezdése a 6/2015. (IX. 14.) MEKH rendelet 23. § b) pontja alapján nem lép hatályba.
