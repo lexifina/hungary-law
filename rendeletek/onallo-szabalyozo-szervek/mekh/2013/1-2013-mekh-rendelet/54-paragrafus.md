@@ -1,5 +1,6 @@
-54. §[^177] (1) 2015. október 1-jétől kezdődően a szállítási rendszerüzemeltetési és a földgáztárolási díjakat Ft/kWh-ban, illetve Ft/kWh/h-ban kell megfizetni.
+54. §[^162] (1)[^163]
 
 (2) 2016. október 1-jétől az egyetemes szolgáltatásra nem jogosult felhasználók ellátása érdekében történő kapacitás-lekötés esetén alkalmazandó földgázelosztási díjakat Ft/kWh-ban, illetve Ft/kWh/h-ban kell megfizetni.
 
-[^177]: Az 54. § a 2/2015. (IV. 14.) MEKH rendelet 17. §-ával megállapított szöveg.
+[^162]: Az 54. § a 2/2015. (IV. 14.) MEKH rendelet 17. §-ával megállapított szöveg.
+[^163]: Az 54. § (1) bekezdését a 3/2015. (VI. 12.) MEKH rendelet 13. §-a hatályon kívül helyezte.

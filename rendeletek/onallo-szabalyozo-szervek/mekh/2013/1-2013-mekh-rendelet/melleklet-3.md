@@ -8,29 +8,29 @@
 
 ## Szállítási díjak
 
-| 2. § (1) bekezdés | Szállítási kapacitásdíj [Ft/(MJ/h)/év] | Szállítási kapacitásdíj [Ft/(MJ/nap)/év] | Szállítási forgalmi díj (Ft/GJ) |
+| 2. § (1) bekezdés | Szállítási kapacitásdíj [Ft/(kWh/h)/év] | Szállítási forgalmi díj (Ft/MWh) |
 
-| a) pont aa) alpont aaa), aaj), aal) és aam) alpontja (kiadási pontok) | 272,81 |  |  |
+| a) pont aa) alpont aaa), aaj), aal) és aam) alpontja (kiadási pontok) | 886,20 |  |
 
-| a) pont aa) alpont aao) alpontja (keverőköri kiadási pont) | 46,26 |  |  |
+| a) pont aa) alpont aao) alpontja (keverőköri kiadási pont) | 150,39 |  |
 
-| a) pont aa) alpont aaf) alpontja (Kiskundorozsma határkeresztező kiadási pont) | 516,33 |  |  |
+| a) pont aa) alpont aaf) alpontja (Kiskundorozsma határkeresztező kiadási pont) | 1677,25 |  |
 
-| a) pont aa) alpont aag) alpontja (Csanádpalota határkeresztező kiadási pont) | 229,68 |  |  |
+| a) pont aa) alpont aag) alpontja (Csanádpalota határkeresztező kiadási pont) | 746,09 |  |
 
-| a) pont aa) alpont aac) alpontja (osztrák/magyar határ Baumgarten felőli betáplálási pont) |  | 21,42 |  |
+| a) pont aa) alpont aac) alpontja (osztrák/magyar határ Baumgarten felőli betáplálási pont) | 1908,81 |  |
 
-| a) pont aa) alpont aai) alpontja (horvát/magyar határ Donji Miholjac felőli betáplálási pont) |  | 21,42 | 30,39 |
+| a) pont aa) alpont aai) alpontja (horvát/magyar határ Donji Miholjac felőli betáplálási pont) | 1908,81 | 98,72 |
 
-| a) pont aa) alpont aad) alpontja (ukrán/magyar határ Beregovo felőli betáplálási pont) |  | 21,42 |  |
+| a) pont aa) alpont aad) alpontja (ukrán/magyar határ Beregovo felőli betáplálási pont) | 1908,81 |  |
 
-| a) pont aa) alpont aak) alpontja (szlovák/magyar határ Vel’ké Zlievce felőli betáplálási pont) |  | 21,42 |  |
+| a) pont aa) alpont aak) alpontja (szlovák/magyar határ Vel’ké Zlievce felőli betáplálási pont) | 1908,81 |  |
 
-| a) pont aa) alpont aan) alpontja (román/magyar határ Horia felőli betáplálási pont) |  | 21,42 |  |
+| a) pont aa) alpont aan) alpontja (román/magyar határ Horia felőli betáplálási pont) | 1908,81 |  |
 
-| a) pont aa) alpont aae) alpontja (hazai termelés betáplálási pont) |  | 19,27 |  |
+| a) pont aa) alpont aae) alpontja (hazai termelés betáplálási pont) | 1719,65 |  |
 
-| a) pont ac) alpont acb) alpontja (tárolói betáplálási pont) |  | 7,93 |  |
+| a) pont ac) alpont acb) alpontja (tárolói betáplálási pont) | 156,75 |  |
 
 ## III.
 
@@ -76,11 +76,11 @@
 
 ## c.2) Elosztási átszállítási díj: 23,30 Ft/GJ
 
-## d) Elosztási díjak a Főgáz Földgázelosztási Kft., az Alpiq Csepeli Erőmű Kft., az ISD Power Energiatermelő és Szolgáltató Kft., az OERG Kft. elosztási területén
+## d) Elosztási díjak a Főgáz Földgázelosztási Kft., az ISD Power Energiatermelő és Szolgáltató Kft. elosztási területén
 
 | Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
 
-|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+| Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
 
 | Gázmérővel nem rendelkező felhasználó | 353,90 |  |  |  |
 
@@ -88,11 +88,11 @@
 
 | 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 11 325 | 20,36 |
 
-## e) Elosztási díjak a Tigáz-DSO Földgázelosztó Kft., Natural Gas Service Ipari és Szolgáltató Kft. elosztási területén
+## e) Elosztási díjak a Tigáz-DSO Földgázelosztó Kft., Natural Gas Service Ipari és Szolgáltató Kft., az OERG Kft., a Csepeli Erőmű Kft. elosztási területén
 
 | Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
 
-|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+| Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
 
 | Gázmérővel nem rendelkező felhasználó | 328,96 |  |  |  |
 
@@ -112,21 +112,21 @@
 
 ## 2. Tárolási díjak
 
-## Kitárolási díj: 5,74 Ft/GJ
+## Kitárolási díj: 18,65 Ft/MWh
 
-## Betárolási díj: 37,86 Ft/GJ
+## Betárolási díj: 123,02 Ft/MWh
 
 ## A tárolói kapacitásdíj kiszámítása a következő képlet alapján történik:
 
 ## ahol:
 
-## TM: tárolói kapacitásdíj (Ft/MJ/év)
+## TM: tárolói kapacitásdíj (Ft/kWh/év)
 
-## M: a rendszerhasználó tárolói mobil lekötése (MJ)
+## M: a rendszerhasználó tárolói mobil lekötése (kWh)
 
-## B: a rendszerhasználó betárolási kapacitás lekötése (MJ/nap)
+## B: a rendszerhasználó betárolási kapacitás lekötése (kWh/nap)
 
-## K: a rendszerhasználó kitárolási kapacitás lekötése (MJ/nap)
+## K: a rendszerhasználó kitárolási kapacitás lekötése (kWh/nap)
 
 ## IV.
 
@@ -172,11 +172,11 @@
 
 ## c2) Elosztási átszállítási díj: 23,30 Ft/GJ
 
-## d) Elosztási díjak a Főgáz Földgázelosztási Kft., az Alpiq Csepeli Erőmű Kft., az ISD Power Energiatermelő és Szolgáltató Kft., az OERG Kft. elosztási területén
+## d) Elosztási díjak a Főgáz Földgázelosztási Kft., az ISD Power Energiatermelő és Szolgáltató Kft. elosztási területén
 
 | Értékesítési kategóriák | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
 
-|  | Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
+| Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
 
 | 20-100 m3/h közötti névleges kapacitású gázmérővel rendelkező felhasználó | 14 479 |  | 58,17 |
 
@@ -184,11 +184,11 @@
 
 | 100 m3/h-nál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 17 100 MJ/h feletti kapacitás-lekötési igényű felhasználók |  | 333 | 37,49 |
 
-## e) Elosztási díjak a Tigáz-DSO Földgázelosztó Kft., Natural Gas Service Ipari és Szolgáltató Kft. elosztási területén
+## e) Elosztási díjak a Tigáz-DSO Földgázelosztó Kft., Natural Gas Service Ipari és Szolgáltató Kft., az OERG Kft., a Csepeli Erőmű Kft. elosztási területén
 
 | Értékesítési kategóriák | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
 
-|  | Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
+| Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
 
 | 20-100 m3/h közötti névleges kapacitású gázmérővel rendelkező felhasználó | 15 088 |  | 60,41 |
 
@@ -210,22 +210,22 @@
 
 ## 2. Tárolási díjak
 
-## Kitárolási díj: 5,74 Ft/GJ
+## Kitárolási díj: 18,65 Ft/MWh
 
-## Betárolási díj: 37,86 Ft/GJ
+## Betárolási díj: 123,02 Ft/MWh
 
 ## A tárolói kapacitásdíj kiszámítása a következő képlet alapján történik:
 
 ## ahol:
 
-## TM: tárolói kapacitásdíj (Ft/MJ/év)
+## TM: tárolói kapacitásdíj (Ft/kWh/év)
 
-## M: a rendszerhasználó tárolói mobil lekötése (MJ)
+## M: a rendszerhasználó tárolói mobil lekötése (kWh)
 
-## B: a rendszerhasználó betárolási kapacitás lekötése (MJ/nap)
+## B: a rendszerhasználó betárolási kapacitás lekötése (kWh/nap)
 
-## K: a rendszerhasználó kitárolási kapacitás lekötése (MJ/nap)
+## K: a rendszerhasználó kitárolási kapacitás lekötése (kWh/nap)
 
-3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^205]
+3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^177]
 
-[^205]: A 3. melléklet a 3/2015. (VI. 12.) MEKH rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^177]: A 3. melléklet a 6/2015. (IX. 14.) MEKH rendelet 22. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 5. [^81] A szállítási kapacitásdíj fizetésének szabályai átadási-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
+## 5. [^75] A szállítási kapacitásdíj fizetésének szabályai átadási-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
 
 17. § (1) Azokon a hálózati pontokon, amelyek vonatkozásában a szállítási rendszerüzemeltető – az ÜKSZ-ben meghatározott módon – megszakítható kapacitás-lekötést tesz lehetővé, a megszakítható kapacitás díja minden kapacitástermék (éves, negyedéves, havi és napi kapacitás) esetén megegyezik a 2. melléklet II. pontjában meghatározott szállítási kapacitásdíjjal.
 
@@ -16,4 +16,4 @@ d) napi kapacitás megszakítása esetén a megszakítással érintett órákra,
 
 (4) A szállítási rendszerüzemeltető az ÜKSZ-ben rögzített szabályok szerint, a 2. § (1) bekezdés v) pontjában rögzített szerződési időszakban, a szállítási rendszerüzemeltetési díj 100%-kal történő csökkentése esetén is köteles a 11. §-ban rögzítettek szerint megszakítható kapacitást biztosítani.
 
-[^81]: Az 5. alcím (17. §) a 2/2015. (IV. 14.) MEKH rendelet – 3/2015. (VI. 12.) MEKH rendelet 14. §-a szerint módosított – 4. §-ával megállapított szöveg.
+[^75]: Az 5. alcím (17. §) a 2/2015. (IV. 14.) MEKH rendelet – 3/2015. (VI. 12.) MEKH rendelet 14. §-a szerint módosított – 4. §-ával megállapított szöveg.

@@ -6,9 +6,9 @@
 
 (3) A földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő forrásaival rendelkező kereskedő és az egyetemes szolgáltatásra jogosult felhasználót ellátó földgázkereskedő köteles a földgáztárolói engedélyes részére történő napi nominálás megtételekor az egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges földgázmennyiséget külön feltüntetni.
 
-(4)[^137] Az egyetemes szolgáltató és az a földgázkereskedő, amely egyetemes szolgáltatásra jogosult felhasználót lát el, a kitárolási időszak egyes hónapjait követő hónap 25. napjáig tájékoztatja a Hivatalt az általa értékesített, valamint az általa a tárolóból vételezett földgáz mennyiségéről. A földgázkereskedő a tájékoztatást egyetemes szolgáltatásra jogosult és egyetemes szolgáltatásra nem jogosult felhasználók ellátása érdekében szükséges mennyiség szerinti bontásban adja meg.
+(4)[^121] Az egyetemes szolgáltató és az a földgázkereskedő, amely egyetemes szolgáltatásra jogosult felhasználót lát el, a kitárolási időszak egyes hónapjait követő hónap 25. napjáig tájékoztatja a Hivatalt az általa értékesített, valamint az általa a tárolóból vételezett földgáz mennyiségéről. A földgázkereskedő a tájékoztatást egyetemes szolgáltatásra jogosult és egyetemes szolgáltatásra nem jogosult felhasználók ellátása érdekében szükséges mennyiség szerinti bontásban adja meg.
 
-(5)[^138] Az a földgázkereskedő, amely
+(5)[^122] Az a földgázkereskedő, amely
 
 a) egyetemes szolgáltatót, illetve
 
@@ -16,11 +16,11 @@ b) egyetemes szolgáltatásra jogosult felhasználót is ellátó földgázkeres
 
 ## lát el és ennek érdekében tárolói kapacitást köt le, minden kitárolással érintett hónapot követő hónap 25. napjáig tájékoztatja a Hivatalt az általa az egyetemes szolgáltató vagy a földgázkereskedő részére kitárolt földgáz mennyiségéről.
 
-(6)[^139] Az (5) bekezdés szerinti tájékoztatási kötelezettség a földgáztárolói engedélyest is terheli, azzal, hogy a földgáztárolói engedélyes a Hivatalt az (5) bekezdés szerint tárolói kapacitást lekötő földgázkereskedő részére kitárolt földgáz mennyiségéről is tájékoztatni köteles.
+(6)[^123] Az (5) bekezdés szerinti tájékoztatási kötelezettség a földgáztárolói engedélyest is terheli, azzal, hogy a földgáztárolói engedélyes a Hivatalt az (5) bekezdés szerint tárolói kapacitást lekötő földgázkereskedő részére kitárolt földgáz mennyiségéről is tájékoztatni köteles.
 
-(7)[^140] A földgázkereskedő az (5) bekezdés szerinti kötelezettségét engedélyesenként, egyetemes szolgáltatónak és nem egyetemes szolgáltatónak kitárolt mennyiség szerinti bontásban teljesíti.
+(7)[^124] A földgázkereskedő az (5) bekezdés szerinti kötelezettségét engedélyesenként, egyetemes szolgáltatónak és nem egyetemes szolgáltatónak kitárolt mennyiség szerinti bontásban teljesíti.
 
-[^137]: A 41. § (4) bekezdését az 5/2013. (X. 16.) MEKH rendelet 1. §-a iktatta be, szövege a 2/2014. (III. 12.) MEKH rendelet 4.§ (1) bekezdésével megállapított szöveg.
-[^138]: A 41. § (5) bekezdését a 2/2014. (III. 12.) MEKH rendelet 4. § (2) bekezdése iktatta be.
-[^139]: A 41. § (6) bekezdését a 2/2014. (III. 12.) MEKH rendelet 4. § (2) bekezdése iktatta be.
-[^140]: A 41. § (7) bekezdését a 2/2014. (III. 12.) MEKH rendelet 4. § (2) bekezdése iktatta be.
+[^121]: A 41. § (4) bekezdését az 5/2013. (X. 16.) MEKH rendelet 1. §-a iktatta be, szövege a 2/2014. (III. 12.) MEKH rendelet 4.§ (1) bekezdésével megállapított szöveg.
+[^122]: A 41. § (5) bekezdését a 2/2014. (III. 12.) MEKH rendelet 4. § (2) bekezdése iktatta be.
+[^123]: A 41. § (6) bekezdését a 2/2014. (III. 12.) MEKH rendelet 4. § (2) bekezdése iktatta be.
+[^124]: A 41. § (7) bekezdését a 2/2014. (III. 12.) MEKH rendelet 4. § (2) bekezdése iktatta be.

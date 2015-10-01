@@ -16,6 +16,6 @@
 
 | G-160 | 160 |
 
-5. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^206]
+5. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^178]
 
-[^206]: Az 5. melléklet a 8/2014. (IX. 15.) MEKH rendelet 13. §-ával megállapított szöveg.
+[^178]: Az 5. melléklet a 6/2015. (IX. 14.) MEKH rendelet 22. § (3) bekezdésével megállapított szöveg.

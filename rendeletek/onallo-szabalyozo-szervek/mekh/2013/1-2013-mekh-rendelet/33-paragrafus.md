@@ -1,4 +1,4 @@
-## 16. [^129] Az elosztási kapacitásdíj fizetés szabályai átadás-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
+## 16. [^113] Az elosztási kapacitásdíj fizetésének szabályai az átadás-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
 
 33. § (1) Azokon a hálózati pontokon, amelyek vonatkozásában a földgázelosztó – az ÜKSZ-ben meghatározott módon – megszakítható kapacitás-lekötést tesz lehetővé, a megszakítható kapacitás díja minden kapacitástermék (éves, negyedéves, havi és napi kapacitás) esetén megegyezik a 2. melléklet IV.1. pontjában meghatározott elosztási kapacitásdíjjal.
 
@@ -16,4 +16,4 @@ d) napi kapacitás megszakítása esetén a megszakítással érintett órákra,
 
 (4) A földgázelosztó az ÜKSZ-ben rögzített szabályok szerint, a 2. § (1) bekezdés v) pontjában rögzített szerződési időszakban, az elosztási kapacitásdíj 100%-kal történő csökkentése esetén is köteles a 26. §-ban rögzítettek szerint megszakítható kapacitást biztosítani.
 
-[^129]: A 16. alcím (33. §) a 2/2015. (IV. 14.) MEKH rendelet – 3/2015. (VI. 12.) MEKH rendelet 14. §-a szerint módosított – 12. § (2) bekezdésével megállapított szöveg.
+[^113]: A 16. alcím (33. §) a 2/2015. (IV. 14.) MEKH rendelet – 3/2015. (VI. 12.) MEKH rendelet 14. §-a szerint módosított – 12. § (2) bekezdésével megállapított, a 6/2015. (IX. 14.) MEKH rendelet 21. § g) pontja szerint módosított szöveg.

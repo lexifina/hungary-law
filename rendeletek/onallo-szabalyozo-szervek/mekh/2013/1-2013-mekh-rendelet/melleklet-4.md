@@ -2,45 +2,45 @@
 
 ## A szállítás díja az R. 4. melléklet 1.1.4.1. pontja szerinti reál hozamtényezővel (8,78%) kiszámítva:
 
-| Elosztói terület | Ft/MJ |
+| Elosztói terület | Ft/kWh |
 
-| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,260 |
+| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,768 |
 
-| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,260 |
+| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,768 |
 
-| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,308 |
+| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,904 |
 
-| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,309 |
+| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,914 |
 
-| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,281 |
+| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,826 |
 
 ## A szállítás díja 0%-os reál hozamtényezővel kiszámítva:
 
-| Elosztói terület | Ft/MJ |
+| Elosztói terület | Ft/kWh |
 
-| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,119 |
+| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,386 |
 
-| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,119 |
+| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,386 |
 
-| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,140 |
+| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,456 |
 
-| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,141 |
+| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,458 |
 
-| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,128 |
+| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,416 |
 
 ## 2. Az R. 3/A. §-a szerinti visszatérítés mértéke
 
-| Elosztói terület | Ft/MJ |
+| Elosztói terület | Ft/kWh |
 
-| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,141 |
+| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,382 |
 
-| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,141 |
+| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,382 |
 
-| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,168 |
+| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,448 |
 
-| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,168 |
+| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,456 |
 
-| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,153 |
+| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,410 |
 
 ## 3. Az R. 3/A. §-a szerinti visszatérítéshez kapcsolódó adatszolgáltatás
 
@@ -54,7 +54,7 @@
 
 | Zárt számla sorszám intervallum | Számlák darabszáma | Kedvezmény |
 
-| nyitó számlaszám | záró számlaszám |  | Alapja (MJ) | Mértéke (Ft/MJ) | Értéke (Ft) |
+| nyitó számlaszám | záró számlaszám |  | Alapja (kWh) | Mértéke (Ft/kWh) | Értéke (Ft) |
 
 | Érvényesíthető kedvezmény alapja és értéke összesen: |  |  |  |
 
@@ -62,9 +62,9 @@
 
 ## A visszatérítés alapjául szolgáló számlák adatai:
 
-| Zárt számla sorszám intervallum | Számlák darabszáma | Partner engedélyes neve | Kedvezmény |
+| Zárt számla sorszám intervallum | Számlák darabszáma | Kedvezmény |
 
-| nyitó számlaszám | záró számlaszám |  |  | Alapja (MJ) | Mértéke (Ft/MJ) | Értéke (Ft) |
+| nyitó számlaszám | záró számlaszám |  | Alapja (kWh) | Mértéke (Ft/kWh) | Értéke (Ft) |
 
 | Érvényesíthető kedvezmény alapja és értéke összesen: |  |  |  |
 
