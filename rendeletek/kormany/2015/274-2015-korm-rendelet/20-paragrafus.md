@@ -1,0 +1,1 @@
+## 19. § A kormányhivatal és a kincstár e rendeletben szabályozott hatósági eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit kell alkalmazni.
