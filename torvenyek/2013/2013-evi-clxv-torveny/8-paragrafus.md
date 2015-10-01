@@ -1,6 +1,6 @@
 8. § Az eljárásra jogosult szerv az 1. alcímben meghatározottak szerint köteles a közérdekű bejelentést intézni azzal az eltéréssel, hogy
 
-a) az eljárásra jogosult szerv az intézkedéseiről szóló tájékoztatást – ennek keretében a közérdekű bejelentés vizsgálatának a 2. § (6) bekezdése alapján történő mellőzéséről szóló tájékoztatást is – az elektronikus rendszerben rögzíti,
+a) az eljárásra jogosult szerv az intézkedéseiről szóló tájékoztatást – ennek keretében a közérdekű bejelentés vizsgálatának a 2/A. § alapján történő mellőzéséről szóló tájékoztatást is – az elektronikus rendszerben rögzíti,
 
 b) a 6. § (1) bekezdése szerinti esetben
 
