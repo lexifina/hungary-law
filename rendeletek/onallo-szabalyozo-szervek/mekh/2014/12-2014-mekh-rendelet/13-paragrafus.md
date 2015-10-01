@@ -1,3 +1,3 @@
-## 12. §[^10]
+## 12. §[^8]
 
-[^10]: A 12. § a 2/2015. (IV. 14.) MEKH rendelet 24. §-a alapján nem lép hatályba.
+[^8]: A 12. § a 2/2015. (IV. 14.) MEKH rendelet 24. §-a alapján nem lép hatályba.

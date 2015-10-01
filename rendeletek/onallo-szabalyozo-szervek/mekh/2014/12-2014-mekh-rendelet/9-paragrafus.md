@@ -1,3 +1,3 @@
-## 7–8. §[^6]
+## 7–8. §[^4]
 
-[^6]: A 7–8. § a 2/2015. (IV. 14.) MEKH rendelet 25. § (6) bekezdése alapján 2015. október 1-jén lép hatályba.
+[^4]: A 7–8. § a 6/2015. (IX. 14.) MEKH rendelet 23. § a) pontja alapján nem lép hatályba.

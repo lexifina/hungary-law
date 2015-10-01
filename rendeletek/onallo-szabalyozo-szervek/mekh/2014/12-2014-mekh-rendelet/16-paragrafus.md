@@ -1,3 +1,1 @@
-## 15. §[^14]
-
-[^14]: A 15. § a 2/2015. (IV. 14.) MEKH rendelet 25. § (6) bekezdése alapján 2015. október 1-jén lép hatályba.
+## 15. § Az R. 2. § (1) bekezdés c), e), l), n), t) és x) pontjában a „MJ” szövegrész helyébe a „kWh” szöveg lép.

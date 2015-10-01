@@ -1,3 +1,3 @@
-## 5. §[^4]
+## 5. § Az R. 12. §-a a következő (9) bekezdéssel egészül ki:
 
-[^4]: Az 5. § a 2/2015. (IV. 14.) MEKH rendelet 25. § (6) bekezdése alapján 2015. október 1-jén lép hatályba.
+## „(9) Az (1) bekezdés szerinti díjakra vonatkozó számlát a szállítási rendszerüzemeltető a szállítási kapacitásdíj számlájával egyszerre jogosult kiállítani a rendszerhasználó számára, aki a külön kiállított, a pótdíjakra és utólagos kapacitásdíjra vonatkozó számlákat a szállítási kapacitásdíj számlájával együtt köteles kiegyenlíteni.”

@@ -1,11 +1,11 @@
-## 13. §[^11]
+## 13. §[^9]
 
-## 14. §
+## 14. § Az R.
 
-a)–b)[^12]
+a)–b)[^10]
 
-c)[^13]
+c)[^11]
 
-[^11]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 14. § a)–b) pontja a 2/2015. (IV. 14.) MEKH rendelet 25. § (6) bekezdése alapján 2015. október 1-jén lép hatályba.
-[^13]: A 14. § c) pontja a 2/2015. (IV. 14.) MEKH rendelet 24. §-a alapján nem lép hatályba.
+[^9]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 14. § a)–b) pontja a 6/2015. (IX. 14.) MEKH rendelet 23. § a) pontja alapján nem lép hatályba.
+[^11]: A 14. § c) pontja a 2/2015. (IV. 14.) MEKH rendelet 24. §-a alapján nem lép hatályba.
