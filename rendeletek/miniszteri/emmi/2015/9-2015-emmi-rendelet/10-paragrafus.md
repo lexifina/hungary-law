@@ -1,4 +1,4 @@
-## 9. §[^7]
+## 9. §[^6]
 
 ## 7. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § és a 4. §, valamint az 1. melléklet 2015. október 1-jén lép hatályba.
 
-[^7]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
