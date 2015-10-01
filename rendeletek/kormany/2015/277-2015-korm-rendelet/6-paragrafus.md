@@ -1,3 +1,3 @@
-## 5. § A KR 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 4–5. §[^3]
 
-## „(2) Az 1. § 2015. november 1-jén lép hatályba.”
+[^3]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
