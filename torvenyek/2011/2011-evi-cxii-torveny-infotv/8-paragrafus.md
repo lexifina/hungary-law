@@ -8,9 +8,11 @@ b) az adatkezelésnek az 5. §-ban, illetve a 6. §-ban előírt feltételei tel
 
 (2) A személyes adatok megfelelő szintű védelme akkor biztosított, ha
 
-a) az Európai Unió kötelező jogi aktusa azt megállapítja, vagy
+a) az Európai Unió kötelező jogi aktusa azt megállapítja,
 
-b) a harmadik ország és Magyarország között az érintetteknek a 14. §-ban foglalt jogai érvényesítésére, a jogorvoslati jog biztosítására, valamint az adatkezelés, illetve az adatfeldolgozás független ellenőrzésére vonatkozó garanciális szabályokat tartalmazó nemzetközi szerződés van hatályban.
+b) a harmadik ország és Magyarország között az érintetteknek a 14. §-ban foglalt jogai érvényesítésére, a jogorvoslati jog biztosítására, valamint az adatkezelés, illetve az adatfeldolgozás független ellenőrzésére vonatkozó garanciális szabályokat tartalmazó nemzetközi szerződés van hatályban, vagy
+
+c) az adatkezelés, illetve az adatfeldolgozás kötelező szervezeti szabályozásnak megfelelően történik.
 
 (3) Személyes adatok a nemzetközi jogsegélyről, az adóügyi információcseréről, valamint a kettős adóztatás elkerüléséről szóló nemzetközi szerződés végrehajtása érdekében, a nemzetközi szerződésben meghatározott célból, feltételekkel és adatkörben – a (2) bekezdésben meghatározott feltételek hiányában is – továbbíthatók harmadik országba.
 

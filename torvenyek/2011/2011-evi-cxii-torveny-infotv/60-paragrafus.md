@@ -8,10 +8,10 @@
 
 (4) A Hatóság adatvédelmi hatósági eljárást indít, ha a bejelentésen alapuló vizsgálat alapján vagy egyébként valószínűsíthető a személyes adatok jogellenes kezelése, és a jogellenes adatkezelés
 
-a) személyek széles körét érinti,
+a) személyek széles körét érinti, vagy
 
-b) különleges adatokat érint, vagy
+b)
 
 c) nagy érdeksérelmet vagy kárveszélyt idézhet elő.
 
-(5) Az adatvédelmi hatósági eljárásban az ügyintézési határidő két hónap.
+(5) Az adatvédelmi hatósági eljárásban az ügyintézési határidő két hónap, amely egy alkalommal, legfeljebb harminc nappal hosszabbítható meg.

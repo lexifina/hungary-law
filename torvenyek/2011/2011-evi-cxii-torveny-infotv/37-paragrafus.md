@@ -10,7 +10,7 @@
 
 (5) Testületi szervként működő közzétételre kötelezett szerv esetén az egyedi közzétételi lista megállapítása és módosítása – a Hatóság véleményének kikérésével – a testület hatáskörébe tartozik.
 
-(6) A közzétételre kötelezett szerv vezetője a közzétételi listában nem szereplő közérdekű adatokra vonatkozó adatigénylések adatai alapján évente felülvizsgálja az általa a (3) bekezdés szerint kiadott közzétételi listát, és a jelentős arányban vagy mennyiségben felmerült adatigénylések alapján azt kiegészíti.
+(6) A közzétételre kötelezett szerv vezetője a közzétételi listában nem szereplő közérdekű adatokra vonatkozó adatigénylések adatai alapján legalább évente felülvizsgálja az általa a (3) bekezdés szerint kiadott közzétételi listát, és a jelentős arányban vagy mennyiségben felmerült adatigénylések alapján azt kiegészíti.
 
 (7) A közzétételi listában – a közzéteendő adat jellegétől függően – a közzététel gyakorisága is megállapítható.
 

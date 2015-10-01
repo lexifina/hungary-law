@@ -6,7 +6,7 @@
 
 a) állapítsa meg a közérdekű adatok elektronikus közzétételének részletszabályait,
 
-b) állapítsa meg a közérdekű adat iránti igény teljesítése érdekében készített másolatért fizetendő költségtérítés mértékének megállapítása során figyelembe vehető költségelemeket és azok legmagasabb mértékét, valamint a másolatként igényelt dokumentum jelentős terjedelmének megállapítása során alkalmazandó szempontokat,
+b) állapítsa meg a közérdekű adat iránti igény teljesítéséért fizetendő költségtérítés megállapítható mértékét és a 29. § (4) bekezdése szerinti összeghatárt,
 
 c) különös közzétételi listát állapíthasson meg,
 
@@ -22,4 +22,4 @@ b) az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg 
 
 c)
 
-(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatvédelmi nyilvántartásba vételért és az adatvédelmi auditért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben a kötelező szervezeti szabályozás jóváhagyásáért, az adatvédelmi nyilvántartásba vételért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.

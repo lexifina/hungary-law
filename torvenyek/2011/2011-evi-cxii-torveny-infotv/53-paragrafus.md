@@ -14,7 +14,9 @@ b) az 52. § (3) bekezdése szerinti tájékoztatás ellenére a bejelentő tov�
 
 c) a bejelentés nyilvánvalóan alaptalan,
 
-d) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz.
+d) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz,
+
+e) a bejelentést az 52. § (1a) bekezdésében meghatározott határidőn túl nyújtották be.
 
 (4) Ha a bejelentést az alapvető jogok biztosa tette, a Hatóság a bejelentést érdemi vizsgálat nélkül csak abban az esetben utasíthatja el, ha az adott ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született.
 

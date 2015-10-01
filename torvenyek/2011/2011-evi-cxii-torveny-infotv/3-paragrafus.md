@@ -53,3 +53,7 @@ b) az egészségi állapotra, a kóros szenvedélyre vonatkozó személyes adat,
 23. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
 24. harmadik ország: minden olyan állam, amely nem EGT-állam.
+
+25. kötelező szervezeti szabályozás: több országban, de köztük legalább egy EGT-államban is tevékenységet folytató adatkezelő vagy adatkezelők csoportja által elfogadott és a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: Hatóság) által jóváhagyott, az adatkezelőre vagy adatkezelők csoportjára nézve kötelező belső adatvédelmi szabályzat, amely a harmadik országba történő adattovábbítás esetén a személyes adatok védelmét az adatkezelő vagy adatkezelők csoportjának egyoldalú kötelezettségvállalása útján biztosítja;
+
+26. adatvédelmi incidens: személyes adat jogellenes kezelése vagy feldolgozása, így különösen a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés vagy megsemmisítés, valamint a véletlen megsemmisülés és sérülés.
