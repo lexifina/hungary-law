@@ -16,6 +16,6 @@
 
 ## 7. A Nemzeti Eszközkezelő részére információ szolgáltatása a követelésekről, a Nemzeti Eszközkezelő által meghatározott paraméterek szerinti riportok, jelentések elkészítése.
 
-3. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^74]
+3. melléklet a 128/2012. (VI. 26.) Korm. rendelethez[^90]
 
-[^74]: A 3. mellékletet a 431/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 111/2013. (IV. 11.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^90]: A 3. mellékletet a 431/2012. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 111/2013. (IV. 11.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.

@@ -13,3 +13,7 @@ b) a visszavásárlási jog ingatlan-nyilvántartásból való törléséhez val
 (5) Bérlőtársi jogviszony a (3) bekezdésben meghatározott kivétellel csak házastársak és élettársak között jöhet létre. A házastársi jogviszony fennállását házassági anyakönyvi kivonattal kell igazolni. Az élettársi jogviszony fennállásáról az élettársaknak közösen írásbeli nyilatkozatot kell tenniük.
 
 (6) Bérleti szerződés csak olyan tartalék ingatlanra köthető, amelynek nagysága a bérlőnek – és a vele jogszerűen együtt költöző személyeknek – az egy lakásban lakó személyekre számítandó méltányolható lakásigényét nem haladja meg. A bérlővel jogszerűen együtt költöző személyek azok, akiket a bérlő a NET tv. 23. § a) pontja alapján jogszerűen befogadhat, akikkel jogszerűen együtt lakott a bérbeadóval korábban kötött bérleti szerződés alapján, valamint akikkel a bérlő az igénybejelentés benyújtásának időpontjában azonos bejelentett lakóhelyen vagy tartózkodási helyen együtt lakott.
+
+(7)[^63] A bérbeadó a lakásbérleti szerződést felmondhatja, ha a bérlő a tartalék ingatlanra benyújtott igénybejelentés során, illetve a lakásbérleti szerződés megkötése érdekében hamis, hamisított vagy valótlan tartalmú iratokkal, nyilatkozatokkal a bérbeadót megtévesztette.
+
+[^63]: A 10/F. § (7) bekezdését a 245/2015. (IX. 8.) Korm. rendelet 15. §-a iktatta be.
