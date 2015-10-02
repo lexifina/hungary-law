@@ -1,4 +1,4 @@
-4. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^72]
+4. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^73]
 
 ## A gyártó, az átvállaló, a közvetítő szervezet és az állami hulladékgazdálkodást közvetítő szervezet adatszolgáltatási kötelezettsége során közölt adatok
 
@@ -98,4 +98,4 @@ d) egyéb elemek és akkumulátorok;
 
 e) összesített mennyiség.
 
-[^72]: A 4. melléklet a 310/2014. (XII. 11.) Korm. rendelet – a 368/2014. (XII. 30.) Korm. rendelet 12. § (3) és (4) bekezdése szerint módosított – 15. § (6) bekezdésével megállapított szöveg.
+[^73]: A 4. melléklet a 310/2014. (XII. 11.) Korm. rendelet – a 368/2014. (XII. 30.) Korm. rendelet 12. § (3) és (4) bekezdése szerint módosított – 15. § (6) bekezdésével megállapított szöveg.

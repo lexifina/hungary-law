@@ -1,14 +1,14 @@
 ## 14. Jogkövetkezmények
 
-25. § (1)[^59] Ha a gyártó az átvételi, gyűjtési és kezelési kötelezettségét nem vagy nem jogszabályszerűen teljesíti, a kötelezettség ellátásáról az OKTF a gyártó vagyoni biztosítékának terhére vagy a közvetítő szervezet költségére, az arra feljogosított kezelő útján gondoskodik.
+25. § (1)[^60] Ha a gyártó az átvételi, gyűjtési és kezelési kötelezettségét nem vagy nem jogszabályszerűen teljesíti, a kötelezettség ellátásáról az OKTF a gyártó vagyoni biztosítékának terhére vagy a közvetítő szervezet költségére, az arra feljogosított kezelő útján gondoskodik.
 
-(2)[^60] Ha a gyártó és a közvetítő szervezet az e rendeletben meghatározott kötelezettségét nem teljesíti, az OKTF a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendeletben (a továbbiakban: Hbr.) meghatározott mértékű hulladékgazdálkodási bírságot szab ki.
+(2)[^61] Ha a gyártó és a közvetítő szervezet az e rendeletben meghatározott kötelezettségét nem teljesíti, az OKTF a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendeletben (a továbbiakban: Hbr.) meghatározott mértékű hulladékgazdálkodási bírságot szab ki.
 
-(3)[^61] Az OKTF a gyártót a nyilvántartásból törli, ha a gyártó az elem, az akkumulátor gyártását vagy forgalmazását megszünteti. Az OKTF a közvetítő szervezetet a nyilvántartásból törli, ha közvetítői tevékenységét megszünteti.
+(3)[^62] Az OKTF a gyártót a nyilvántartásból törli, ha a gyártó az elem, az akkumulátor gyártását vagy forgalmazását megszünteti. Az OKTF a közvetítő szervezetet a nyilvántartásból törli, ha közvetítői tevékenységét megszünteti.
 
-(4)[^62] Az OKTF a kötelezettet a Hbr.-ben megállapított hulladékgazdálkodási bírság megfizetésére
+(4)[^63] Az OKTF a kötelezettet a Hbr.-ben megállapított hulladékgazdálkodási bírság megfizetésére
 
-a)[^63] kötelezi, ha a nyilvántartásba vételi, valamint nyilvántartási és adatszolgáltatási kötelezettségét nem teljesíti,
+a)[^64] kötelezi, ha a nyilvántartásba vételi, valamint nyilvántartási és adatszolgáltatási kötelezettségét nem teljesíti,
 
 b) kötelezheti, ha a kötelezett nem az e rendeletben foglaltaknak megfelelő adatot szolgáltat.
 
@@ -18,8 +18,8 @@ b) kötelezheti, ha a kötelezett nem az e rendeletben foglaltaknak megfelelő a
 
 (7) Az (5) és (6) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-[^59]: A 25. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
-[^60]: A 25. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
-[^61]: A 25. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
-[^62]: A 25. § (4) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
-[^63]: A 25. § (4) bekezdés a) pontja a 310/2014. (XII. 11.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.
+[^60]: A 25. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
+[^61]: A 25. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
+[^62]: A 25. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
+[^63]: A 25. § (4) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 133. § c) pontja szerint módosított szöveg.
+[^64]: A 25. § (4) bekezdés a) pontja a 310/2014. (XII. 11.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.
