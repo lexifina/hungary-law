@@ -1,0 +1,3 @@
+## 6. § A Gyer. 105. §-a a következő (1b) bekezdéssel egészül ki:
+
+## „(1b) A kísérő nélküli kiskorú gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat az (1) bekezdés c) pontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.”
