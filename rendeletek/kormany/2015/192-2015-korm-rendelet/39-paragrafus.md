@@ -1,7 +1,7 @@
-## 36–38. §[^14]
+## 36–38. §[^16]
 
 ## 9. A kémiai terhelési bírság alkalmazásának részletes szabályairól szóló
 
 ## 224/2008. (IX. 9.) Korm. rendelet módosítása
 
-[^14]: A 36–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 36–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 21. §[^4]
+## 21. §[^5]
 
-[^4]: A 21. § a 60. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^5]: A 21. § a 60. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.

@@ -1,8 +1,9 @@
-## 22–24. §[^5]
+## 22–24. §[^6]
 
-25. § (1)–(3)[^6]
+25. § (1)–(3)[^7]
 
-(4) A Kr. a 4. melléklet szerinti 33. számú melléklettel egészül ki.
+(4)[^8]
 
-[^5]: A 22–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 25. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 22–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 25. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 25. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
