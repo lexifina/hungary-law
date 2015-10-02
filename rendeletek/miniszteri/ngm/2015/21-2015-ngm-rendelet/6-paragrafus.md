@@ -1,1 +1,0 @@
-## „w) vegyi anyag: a munkatevékenység során természetes állapotában vagy mesterséges úton fellépő, felhasznált vagy kibocsátott, illetve szennyeződés formájában kibocsátott, önállóan vagy keverékben fellelhető kémiai elem vagy vegyület, függetlenül attól, hogy előállítása szándékos-e, illetve hogy forgalomba hozták-e.”
