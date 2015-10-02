@@ -1,0 +1,1 @@
+## 61. § A Nektv. hatálybalépése előtt kiállított oktatási igazolványok tekintetében az adat elektronikus hordozására képes eszköz kezelésével és az azon történő adatrögzítéssel összefüggő feladatokat a működtető által meghatározott szervezet végzi a működési rendben foglaltak szerint.
