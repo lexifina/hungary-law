@@ -1,3 +1,3 @@
-## 3. §[^3]
+4. §[^6]
 
-[^3]: A 3. § a 6/2015. (IX. 14.) MEKH rendelet 23. § b) pontja alapján nem lép hatályba.
+[^6]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

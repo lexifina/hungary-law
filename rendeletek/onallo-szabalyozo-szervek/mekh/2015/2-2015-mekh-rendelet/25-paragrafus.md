@@ -6,7 +6,7 @@
 
 (2) A 4. §, a 12. § (2) bekezdése és a 21. § b) pontja 2015. július 1-jén lép hatályba.
 
-(3)[^24] Az 1. § (3) bekezdése, a 3. §, a 8. §, a 9. § (2) bekezdése, a 10. § (2) bekezdése és a 19. § a) pontja 2015. október 1-jén lép hatályba.
+(3)[^28] Az 1. § (3) bekezdése, a 3. §, a 8. §, a 9. § (2) bekezdése, a 10. § (2) bekezdése és a 19. § a) pontja 2015. október 1-jén lép hatályba.
 
 (4) A 11. § és a 21. § d) pontja 2016. október 1-jén lép hatályba.
 
@@ -14,4 +14,4 @@
 
 (6) Az R2. 1. § (2) és (3) bekezdése, 5. §-a, 7. §-a, 8. §-a, 14. § a)–b) pontja, 15. §-a, 18. §-a 2015. október 1-jén lép hatályba.
 
-[^24]: A 25. § (3) bekezdése a 3/2015. (VI. 12.) MEKH rendelet 15. §-ával megállapított szöveg.
+[^28]: A 25. § (3) bekezdése a 3/2015. (VI. 12.) MEKH rendelet 15. §-ával megállapított szöveg.

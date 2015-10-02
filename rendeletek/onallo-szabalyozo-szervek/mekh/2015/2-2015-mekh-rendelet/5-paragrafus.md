@@ -1,3 +1,3 @@
-## 4. §[^4]
+5. §[^7]
 
-[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. § a 3/2015. (VI. 12.) MEKH rendelet 16. §-a alapján nem lép hatályba.

@@ -1,3 +1,3 @@
-## 6–7. §[^6]
+8. §[^9]
 
-[^6]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § a 6/2015. (IX. 14.) MEKH rendelet 23. § b) pontja alapján nem lép hatályba.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2-20-5Z
 | 2015-07-01 | 2015-2-20-5Z.3 | 3/2015. (VI. 12.) MEKH rendelet |
 | 2015-07-02 | 2015-2-20-5Z.4 | 2010: CXXX. törvény |
 | 2015-10-01 | 2015-2-20-5Z.5 | 6/2015. (IX. 14.) MEKH rendelet |
+| 2015-10-02 | 2015-2-20-5Z.6 | 2010: CXXX. törvény |
