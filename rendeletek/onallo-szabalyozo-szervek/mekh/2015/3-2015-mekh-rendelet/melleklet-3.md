@@ -30,7 +30,7 @@ Szállítási díjak
 
 | a) pont ac) alpont acb) alpontja (tárolói betáplálási pont) | 618,41 |  |
 
-”
+## ”
 
 2. Az R1. 2. melléklet III. 2. pontja helyébe a következő rendelkezés lép:
 
