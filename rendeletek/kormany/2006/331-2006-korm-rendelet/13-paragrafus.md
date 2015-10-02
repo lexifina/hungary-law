@@ -1,4 +1,4 @@
-## 12. §[^61] Az ideiglenes hatállyal elhelyezett, nem magyar állampolgárságú (külföldi) gyermek érdekében való intézkedésre kijelölt gyámhivatal [Gyvt. 72–73. §] feladatait a Budapest Főváros Kormányhivatala gyermekvédelmi és gyámügyi feladatkörében eljáró V. Kerületi Hivatala látja el.
+## 12. §[^61] A nem magyar (külföldi) állampolgárságú gyermek – ide nem értve a Gyvt. 4. § (1) bekezdés b) pontja szerinti személyt – ideiglenes hatályú elhelyezése és nevelésbe vétele ügyében a Budapest Főváros Kormányhivatala gyermekvédelmi és gyámügyi feladatkörében eljáró V. Kerületi Hivatala jár el. Ezekben az esetekben a gyámhivatal illetékessége az ideiglenes hatályú elhelyezés és a nevelésbe vétel alatt nem változik.
 
 ## A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal hatásköre[^62]
 
@@ -12,7 +12,7 @@ c)[^66] másodfokú hatósági jogkört gyakorol a települési önkormányzat j
 
 d) ellátja a jogszabályokban hatáskörébe utalt egyéb feladatokat.
 
-[^61]: A 12. § a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés b) pontja, a 97/2013. (III. 29.) Korm. rendelet 75. § (1) bekezdése, a 353/2014. (XII. 29.) Korm. rendelet 53. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^61]: A 12. § a 284/2015. (IX. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^62]: A 13. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
 [^63]: A 13. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontjával megállapított szöveg.
 [^64]: A 13. § a) pontja a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
