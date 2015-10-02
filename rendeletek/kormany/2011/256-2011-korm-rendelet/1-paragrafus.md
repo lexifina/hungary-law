@@ -66,7 +66,31 @@ ba) amelyet első ízben természetes személy részére értékesítenek, vagy
 
 bb) amelyet másodízben értékesítenek természetes személy részére, feltéve, hogy a második eladó hitelintézet vagy ingatlan-forgalmazással üzletszerűen foglalkozó jogi személy, jogi személyiség nélküli társaság vagy egyéni vállalkozó;
 
-9.[^6] hasznos alapterület: az országos településrendezési és az építési követelményekről szóló kormányrendelet (a továbbiakban: OTÉK) fogalom-meghatározásának keretein belül a lakás fűthető helyiségei alapterületének összege, ide nem értve az erkély, a loggia, a terasz, a tornác, a tároló helyiség, a gépjárműtároló és a pinceszinti helyiség alapterületét;
+9.[^6] hasznos alapterület: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) fogalom-meghatározásának keretein belül a következő helyiségek alapterületének összege, amelyek a lakáson mint önálló rendeltetési egységen belül tálalhatók:
+
+a) előszoba, közlekedő,
+
+b) nappali,
+
+c) hálószoba,
+
+d) étkező,
+
+e) konyha, étkezőkonyha,
+
+f) fürdőszoba,
+
+g) WC,
+
+h) kamra, tároló,
+
+i) gardrób,
+
+j) mosókonyha,
+
+k) kazánhelyiség és
+
+l) egyéb fűthető helyiség, ide nem értve a gépjárműtárolót és a pinceszinti helyiséget;
 
 10.[^7] hitelígérvény: a kölcsönszerződés előre meghatározott jövőbeni időpontban vagy feltételek bekövetkezésekor történő megkötésére vonatkozó kötelezettségvállalás;
 
@@ -76,22 +100,49 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 13.[^10] lakás: az OTÉK rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
 
-14.[^11] komfortos lakás: a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. § 3. pontjában foglaltaknak megfelelő lakás;
+14.[^11] komfortos lakás: az a lakás, amely legalább
 
-15.[^12] összkomfortos lakás: a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. § 2. pontjában foglaltaknak megfelelő lakás.
+a) egy 12 négyzetmétert meghaladó alapterületű lakószobával,
+
+b) az OTÉK 8. § (2) bekezdése szerinti teljes vagy részleges közművesítettséggel,
+
+c) közüzemi vagy közcélú szolgáltatással igénybe vehető ivóvízellátással,
+
+d) melegvíz-ellátással, és
+
+e) egyedi fűtési móddal
+
+## rendelkezik;
+
+15.[^12] összkomfortos lakás: az a lakás, amely legalább
+
+a) egy 12 négyzetmétert meghaladó alapterületű lakószobával,
+
+b) az OTÉK 8. § (2) bekezdése szerinti teljes közművesítettséggel,
+
+c) közüzemi vagy közcélú szolgáltatással igénybe vehető ivóvízellátással,
+
+d) melegvíz-ellátással, és
+
+e) központi fűtési móddal
+
+## rendelkezik.
 
 (2)[^13] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, az OTÉK-ban, valamint az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+
+(3)[^14] Amennyiben a lakás elhelyezkedése szerinti településen vagy településrészen a szennyvízelvezetés közüzemi vagy közcélú szolgáltatással történik, a lakás e szolgáltatás igénybevétele esetén minősülhet legalább komfortosnak.
 
 [^1]: Az 1. § (1) bekezdés 3. pontja a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés 4. pontja a 331/2014. (XII. 18.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés 7. pontja a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés 8. pont nyitó szövegrésze az 537/2013. (XII. 30.) Korm. rendelet 66. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (1) bekezdés 8. pont a) alpontja a 128/2013. (IV. 30.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
-[^6]: Az 1. § (1) bekezdés 9. pontját a 379/2012. (XII. 19.) Korm. rendelet 18. §-a iktatta be, szövege az 537/2013. (XII. 30.) Korm. rendelet 58. §-ával megállapított szöveg.
+[^6]: Az 1. § (1) bekezdés 9. pontját a 379/2012. (XII. 19.) Korm. rendelet 18. §-a iktatta be, szövege a 278/2015. (IX. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (1) bekezdés 10. pontját a 379/2012. (XII. 19.) Korm. rendelet 18. §-a iktatta be.
 [^8]: Az 1. § (1) bekezdés 11. pontját a 70/2015. (III. 30.) Korm. rendelet 179. § (1) bekezdése iktatta be.
 [^9]: Az 1. § (1) bekezdés 12. pontját a 79/2015. (III. 31.) Korm. rendelet 1. §-a iktatta be.
 [^10]: Az 1. § (1) bekezdés 13. pontját a 79/2015. (III. 31.) Korm. rendelet 1. §-a iktatta be.
-[^11]: Az 1. § (1) bekezdés 14. pontját a 79/2015. (III. 31.) Korm. rendelet 1. §-a iktatta be.
-[^12]: Az 1. § (1) bekezdés 15. pontját a 79/2015. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^11]: Az 1. § (1) bekezdés 14. pontját a 79/2015. (III. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 278/2015. (IX. 22.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^12]: Az 1. § (1) bekezdés 15. pontját a 79/2015. (III. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 278/2015. (IX. 22.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^13]: Az 1. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 30. § a) pontja, a 80/2014. (III. 14.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^14]: Az 1. § (3) bekezdését a 278/2015. (IX. 22.) Korm. rendelet 2. § (3) bekezdése iktatta be.

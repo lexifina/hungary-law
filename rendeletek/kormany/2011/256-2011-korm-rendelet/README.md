@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-256-20-
 | 2014-09-05 | 2011-256-20-22.9 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 2011-256-20-22.10 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-07-01 | 2011-256-20-22.11 | 331/2014. (XII. 18.) Korm. rendelet |
+| 2015-10-02 | 2011-256-20-22.12 | 278/2015. (IX. 22.) Korm. rendelet |

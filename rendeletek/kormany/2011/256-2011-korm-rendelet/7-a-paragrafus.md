@@ -1,6 +1,6 @@
-7/A. §[^89] (1) Amennyiben a fiatal házaspár a 2. § (3) bekezdés b) pontja szerinti gyermekvállalását nem teljesíti, de az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló 30/1998. (VI. 24.) NM rendelet (a továbbiakban: NM rendelet) szerinti egészségügyi szolgáltató igazolja, hogy a fiatal házaspár
+7/A. §[^95] (1) Amennyiben a fiatal házaspár a 2. § (3) bekezdés b) pontja szerinti gyermekvállalását nem teljesíti, de az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló 30/1998. (VI. 24.) NM rendelet (a továbbiakban: NM rendelet) szerinti egészségügyi szolgáltató igazolja, hogy a fiatal házaspár
 
-a) a kötelező egészségbiztosítás keretében igénybe vehető meddőségkezelési eljárásokról szóló 49/1997. (XII. 17.) NM rendelet szerinti maximális alkalommal emberi reprodukcióra irányuló különleges eljárásban (a továbbiakban: reprodukciós eljárás) részt vett, vagy
+a)[^96] a kötelező egészségbiztosítás keretében igénybe vehető meddőségkezelési eljárásokról szóló 49/1997. (XII. 17.) NM rendelet 2. § (1) bekezdés c) pont ca)–cf) alpontja szerinti emberi reprodukcióra irányuló különleges eljárásban (a továbbiakban: reprodukciós eljárás) a kötelező egészségbiztosítás keretében vagy azon kívül összességében legalább öt alkalommal részt vett, vagy
 
 b) a gyermekvállalását azért nem tudta teljesíteni, mert vele szemben a reprodukciós eljárás megkezdése előtt, vagy a reprodukciós eljárás közben az NM rendelet 1. § (2) bekezdése szerinti kizáró egészségügyi ok merült fel,
 
@@ -12,4 +12,5 @@ b) a gyermekvállalását azért nem tudta teljesíteni, mert vele szemben a rep
 
 (4) A hitelintézet csak olyan igazolást fogadhat el, amely alapján megállapítható, hogy a megelőlegezett családok otthonteremtési kedvezménye igénybevételére irányuló szerződés megkötésének időpontja megelőzi a kizáró ok megállapításának első időpontját.
 
-[^89]: A 7/A. §-t a 79/2015. (III. 31.) Korm. rendelet 5. §-a iktatta be.
+[^95]: A 7/A. §-t a 79/2015. (III. 31.) Korm. rendelet 5. §-a iktatta be.
+[^96]: A 7/A. § (1) bekezdés a) pontja a 278/2015. (IX. 22.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
