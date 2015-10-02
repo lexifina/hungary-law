@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-6-20-5Z
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-10-01 | 2015-6-20-5Z.1 | 6/2015. (IX. 14.) MEKH rendelet |
+| 2015-10-02 | 2015-6-20-5Z.2 | 2010: CXXX. törvény |
