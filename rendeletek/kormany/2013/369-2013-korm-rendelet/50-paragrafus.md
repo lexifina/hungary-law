@@ -1,6 +1,6 @@
 ## 17. Átmeneti rendelkezések
 
-50. §[^99] (1) A működést engedélyező szerv a 2014. december 31-én vagy azt követően hatályukat veszítő ideiglenes hatályú bejegyzések hatályát hivatalból, kizárólag ellátási érdekből 2016. december 31-éig más jogszabályi felhatalmazás hiányában is meghosszabbíthatja, ha a fenntartó benyújtja a határozatlan idejű bejegyzéshez szükséges feltételek megteremtésére vonatkozó szakmai tervét, vagy az ennek érdekében igényelt európai uniós forrás felhasználására megkötött támogatási szerződés másolatát. A működést engedélyező szerv a meghosszabbítás kérdésében 2015. március 31-éig dönt. A döntés jogerőre emelkedéséig az ideiglenes hatályú bejegyzés hatálya meghosszabbodik.
+50. §[^110] (1) A működést engedélyező szerv a 2014. december 31-én vagy azt követően hatályukat veszítő ideiglenes hatályú bejegyzések hatályát hivatalból, kizárólag ellátási érdekből 2016. december 31-éig más jogszabályi felhatalmazás hiányában is meghosszabbíthatja, ha a fenntartó benyújtja a határozatlan idejű bejegyzéshez szükséges feltételek megteremtésére vonatkozó szakmai tervét, vagy az ennek érdekében igényelt európai uniós forrás felhasználására megkötött támogatási szerződés másolatát. A működést engedélyező szerv a meghosszabbítás kérdésében 2015. március 31-éig dönt. A döntés jogerőre emelkedéséig az ideiglenes hatályú bejegyzés hatálya meghosszabbodik.
 
 (2) A szolgáltatói nyilvántartásban az ellátási terület 2014. december 31-ét követően is szerepeltethető kistérségként, ha 2014. december 31-én már ekként van bejegyezve a szolgáltatói nyilvántartásba. Ha az ellátási terület módosítására 2014. december 31-ét követően sor kerül, az a továbbiakban nem jelölhető meg kistérségként.
 
@@ -12,4 +12,4 @@
 
 (6) A (4) és (5) bekezdés szerinti eljárásban szakértőt nem kell kirendelni.
 
-[^99]: Az 50. § a 353/2014. (XII. 29.) Korm. rendelet 74. §-ával megállapított szöveg.
+[^110]: Az 50. § a 353/2014. (XII. 29.) Korm. rendelet 74. §-ával megállapított szöveg.

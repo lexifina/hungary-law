@@ -1,4 +1,4 @@
-32. § (1)[^65] A megyei működést engedélyező szerv a szakmai program véleményezésére a 20. § (2) bekezdésében foglaltak szerint a Hivatal módszertani feladatokat ellátó szervezeti egységét, az Intézetet, illetve a kijelölt egyházi módszertani intézményt szakértőként rendeli ki
+32. § (1)[^75] A megyei működést engedélyező szerv a szakmai program véleményezésére a 20. § (2) bekezdésében foglaltak szerint a Hivatal módszertani feladatokat ellátó szervezeti egységét, az Intézetet, illetve a kijelölt egyházi módszertani intézményt szakértőként rendeli ki – a kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonnal és az ideiglenes befogadó férőhellyel kapcsolatos adatmódosítás kivételével –
 
 a) fenntartóváltozás esetén, az általános jogutódlással történő fenntartóváltozás kivételével,
 
@@ -16,15 +16,18 @@ b) nappali szociális ellátás, bentlakásos szociális intézményi ellátás,
 
 c) támogatott lakhatás esetén, ha a módosítás célja lakhatási szolgáltatást biztosító ingatlan bejegyzése,
 
-d)[^66] rehabilitációs szociális intézményi ellátás esetén, ha a módosítás célja külső férőhelyek bejegyzése,
+d)[^76] rehabilitációs szociális intézményi ellátás esetén, ha a módosítás célja külső férőhelyek bejegyzése,
 
-e)[^67] családok átmeneti otthona esetén, ha a módosítás célja félutas ház bejegyzése, valamint
+e)[^77] családok átmeneti otthona esetén, ha a módosítás célja félutas ház bejegyzése,
 
-f)[^68] az a)–e) pontban nem említett esetben, ha a helyszíni szemle tartása egyéb okból indokolt.
+f)[^78] gyermekotthon esetén, ha a módosítás célja ideiglenes befogadó férőhely új címen történő bejegyzése, valamint
+
+g)[^79] az a)–f) pontban nem említett esetben, ha a helyszíni szemle tartása egyéb okból indokolt.
 
 (4) A működést engedélyező szerv támogató szolgáltatás esetén szemlét tart, ha a szolgáltatáshoz másik gépjárművet kívánnak használni.
 
-[^65]: A 32. § (1) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^66]: A 32. § (3) bekezdés d) pontja a 221/2015. (VIII. 7.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^67]: A 32. § (3) bekezdés e) pontja a 221/2015. (VIII. 7.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^68]: A 32. § (3) bekezdés f) pontját a 221/2015. (VIII. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^75]: A 32. § (1) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 284/2015. (IX. 29.) Korm. rendelet 17. § l) pontja szerint módosított szöveg.
+[^76]: A 32. § (3) bekezdés d) pontja a 221/2015. (VIII. 7.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^77]: A 32. § (3) bekezdés e) pontja a 221/2015. (VIII. 7.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 284/2015. (IX. 29.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^78]: A 32. § (3) bekezdés f) pontját a 221/2015. (VIII. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 284/2015. (IX. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^79]: A 32. § (3) bekezdés g) pontját a 284/2015. (IX. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.

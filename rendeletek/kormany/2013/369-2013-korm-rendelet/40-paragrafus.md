@@ -4,7 +4,7 @@
 
 a) az engedélyest törli a szolgáltatói nyilvántartásból, ha az engedélyes megszűnt vagy szolgáltatást nem nyújt,
 
-b)[^85] az ellátottak számára nyitva álló egyéb helyiséget, a lakhatási szolgáltatást biztosító ingatlant, a külső férőhelyet, illetve a félutas házat törli a szolgáltatói nyilvántartásból, ha az elhelyezésére szolgáló épület (épületrész) állaga az ellátottak életét, testi épségét vagy egészségét súlyosan veszélyezteti,
+b)[^96] az ellátottak számára nyitva álló egyéb helyiséget, a lakhatási szolgáltatást biztosító ingatlant, a külső férőhelyet, a félutas házat, illetve az ideiglenes befogadó férőhelyet törli a szolgáltatói nyilvántartásból, ha az elhelyezésére szolgáló épület (épületrész) állaga az ellátottak életét, testi épségét vagy egészségét súlyosan veszélyezteti,
 
 c) a helyettes szülőt, nevelőszülőt – szükség szerint a férőhelyszám egyidejű csökkentésével – törli a szolgáltatói nyilvántartásból, ha az ellátottak életét, testi épségét, egészségét vagy az ellátott gyermekek fejlődését súlyosan veszélyezteti, illetve más alapvető jogát súlyosan sérti, vagy jogszabály kizárja, hogy helyettes szülőként, nevelőszülőként működjön,
 
@@ -44,4 +44,4 @@ bc) a Gyvt. 100/A. § (1) bekezdés a) és b) pontja szerinti esetben,
 
 bd) a 23. § (1) bekezdés a) pontja, a 24. § és a 25. § szerinti bejelentési kötelezettség elmulasztása miatt.
 
-[^85]: A 40. § (1) bekezdés b) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § l) pontja szerint módosított szöveg.
+[^96]: A 40. § (1) bekezdés b) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § l) pontja, a 284/2015. (IX. 29.) Korm. rendelet 17. § m) pontja szerint módosított szöveg.

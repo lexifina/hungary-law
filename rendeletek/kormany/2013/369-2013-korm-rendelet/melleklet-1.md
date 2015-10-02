@@ -1,4 +1,4 @@
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^104]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^116]
 
 A szolgáltatói nyilvántartás adatai
 
@@ -264,6 +264,10 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.29.2.8. kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthon,
 
+3.1.29.2.8.1. kizárólag menekültként elismert, kísérő nélküli kiskorúakat ellátó gyermekotthon,
+
+3.1.29.2.8.2. kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthon,
+
 3.1.29.3. férőhelyszám,
 
 3.1.29.4. ha a 3.1.29.2.1., a 3.1.29.2.5. vagy a 3.1.29.2.8. pont szerinti gyermekotthon ellát speciális vagy különleges szükségletű gyermekeket, ennek módja az alábbiak szerint:
@@ -279,6 +283,8 @@ A szolgáltatói nyilvántartás adatai
 3.1.29.5. az a férőhelyszám, amelynek erejéig a gyermekotthon elláthatja várandós anyák átmeneti gondozását,
 
 3.1.29.6. az a férőhelyszám, amelynek erejéig a gyermekotthon átmeneti gondozásra befogadhatja a gondozásában lévő kiskorú szülő, valamint utógondozói ellátásban részesülő fiatal felnőtt gyermekét,
+
+3.1.29.7. az ideiglenes befogadó férőhelyek címe és címenkénti száma,
 
 3.1.30. utógondozó otthon:
 
@@ -352,4 +358,4 @@ A szolgáltatói nyilvántartás adatai
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^104]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^116]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.

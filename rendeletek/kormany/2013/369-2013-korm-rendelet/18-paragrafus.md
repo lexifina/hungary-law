@@ -18,7 +18,7 @@ e) nem csatolta, illetve mutatta be az egyéni vállalkozónak az egyéni válla
 
 f) nem csatolta annak egy hónapnál nem régebbi közokirati igazolását, hogy köztartozásmentes adózónak minősül, a működést engedélyező szerv ellenőrzi, hogy az egyházi fenntartó, illetve a nem állami fenntartó szerepel-e a köztartozásmentes adózói adatbázisban,
 
-g)[^30] nem csatolta a tulajdoni lap másolatát, az engedélyes címe szerinti ingatlan, a lakhatási szolgáltatást biztosító ingatlan, a külső férőhelyek vagy a félutas ház elhelyezésére szolgáló ingatlan és – nem hálózat keretében nyújtott helyettes szülői ellátás esetén – az ellátás helye szerinti ingatlan tulajdoni lapján található adatokat a működést engedélyező szerv az ingatlan-nyilvántartásból szerzi be,
+g)[^32] nem csatolta a tulajdoni lap másolatát, az engedélyes címe szerinti ingatlan, a lakhatási szolgáltatást biztosító ingatlan, a külső férőhelyek, a félutas ház vagy az ideiglenes befogadó férőhely elhelyezésére szolgáló ingatlan és – nem hálózat keretében nyújtott helyettes szülői ellátás esetén – az ellátás helye szerinti ingatlan tulajdoni lapján található adatokat a működést engedélyező szerv az ingatlan-nyilvántartásból szerzi be,
 
 h) nem csatolta a használatbavételi engedélyt, illetve a fennmaradási engedélyt, megkeresi az építésügyi hatóságot, hogy a használatbavételi engedélyről, illetve a fennmaradási engedélyről szolgáltasson adatot, feltéve, hogy a kérelem szerinti ingatlanra vonatkozóan, azonos rendeltetésre használatbavételi engedélyt vagy fennmaradási engedélyt adtak ki,
 
@@ -30,4 +30,4 @@ k) nem mutatta be a forgalmi engedélyt, a bejegyzés iránti kérelemben a gép
 
 (4) Ha a fenntartó cégjegyzékben nyilvántartott cég, a működést engedélyező szerv a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
-[^30]: A 18. § (3) bekezdés g) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^32]: A 18. § (3) bekezdés g) pontja a 284/2015. (IX. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.

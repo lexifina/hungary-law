@@ -16,9 +16,9 @@ f) csökkentheti a férőhelyszámot, házi segítségnyújtás esetén az ellá
 
 g) a helyettes szülőt, nevelőszülőt – szükség szerint a férőhelyszám egyidejű csökkentésével – törölheti a szolgáltatói nyilvántartásból,
 
-h)[^86] az ellátottak számára nyitva álló egyéb helyiséget, a lakhatási szolgáltatást biztosító ingatlant, a külső férőhelyet, illetve a félutas házat törölheti a szolgáltatói nyilvántartásból,
+h)[^97] az ellátottak számára nyitva álló egyéb helyiséget, a lakhatási szolgáltatást biztosító ingatlant, a külső férőhelyet, a félutas házat, illetve az ideiglenes befogadó férőhelyet törölheti a szolgáltatói nyilvántartásból,
 
-i)[^87] az 1. melléklet 3.1.27.2. és 3.1.27.3. pont szerinti adatokat törölheti a szolgáltatói nyilvántartásból,
+i)[^98] az 1. melléklet 3.1.27.2. és 3.1.27.3. pont szerinti adatokat törölheti a szolgáltatói nyilvántartásból,
 
 j) egyházi fenntartású és nem állami fenntartású bentlakásos szociális intézményi ellátás és támogatott lakhatás esetén az Szt. szerint határozhat a költségvetési támogatás visszatartásáról,
 
@@ -30,8 +30,8 @@ m) az engedélyest törölheti a szolgáltatói nyilvántartásból, és kötele
 
 n) az Szt. 92/L. § (1) bekezdésében, illetve a Gyvt. 100/A. § (1) bekezdésében meghatározott esetben bírságot szabhat ki,
 
-o)[^88] a szolgáltatói nyilvántartás adatait az ellenőrzés során megállapított tényeknek és a jogszabályoknak megfelelően – az a) és e)–i) pontban foglaltakon túl – hivatalból módosíthatja, ha a fenntartó elmulasztott adatmódosítást kérni.
+o)[^99] a szolgáltatói nyilvántartás adatait az ellenőrzés során megállapított tényeknek és a jogszabályoknak megfelelően – az a) és e)–i) pontban foglaltakon túl – hivatalból módosíthatja, ha a fenntartó elmulasztott adatmódosítást kérni.
 
-[^86]: A 41. § (2) bekezdés h) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § l) pontja szerint módosított szöveg.
-[^87]: A 41. § (2) bekezdés i) pontja a 221/2015. (VIII. 7.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^88]: A 41. § (2) bekezdés o) pontját a 221/2015. (VIII. 7.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^97]: A 41. § (2) bekezdés h) pontja a 221/2015. (VIII. 7.) Korm. rendelet 21. § l) pontja, a 284/2015. (IX. 29.) Korm. rendelet 17. § m) pontja szerint módosított szöveg.
+[^98]: A 41. § (2) bekezdés i) pontja a 221/2015. (VIII. 7.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^99]: A 41. § (2) bekezdés o) pontját a 221/2015. (VIII. 7.) Korm. rendelet 16. § (2) bekezdése iktatta be.

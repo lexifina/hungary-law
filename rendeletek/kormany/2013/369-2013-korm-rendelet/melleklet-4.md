@@ -1,6 +1,6 @@
 4. melléklet a 369/2013. (X. 24.) Korm. rendelethez
 
-Az engedélyes bejegyzése, az adatmódosítás és az engedélyes törlése iránti kérelem benyújtására szolgáló elektronikus űrlap kötelező adattartalma[^105]
+Az engedélyes bejegyzése, az adatmódosítás és az engedélyes törlése iránti kérelem benyújtására szolgáló elektronikus űrlap kötelező adattartalma[^117]
 
 1. A fenntartó neve, székhelye, szervezeti formája, adószáma, telefonszáma, telefaxszáma, elektronikus levélcíme és honlapjának címe, továbbá – cégjegyzékben nyilvántartott cég esetén – cégjegyzékszáma.
 
@@ -16,9 +16,9 @@ Az engedélyes bejegyzése, az adatmódosítás és az engedélyes törlése ir�
 
 7. Az engedélyes törlése iránti kérelem esetén a törlés jogszabályban meghatározott feltételeinek teljesítésére vonatkozó adatok.
 
-8.[^106] Az engedélyes bejegyzése iránti kérelem és adatmódosítás iránti kérelem esetén a fenntartó nyilatkozata arról, hogy az engedélyest, illetve az ellátotti létszámot, férőhelyszámot költségvetési támogatással kívánja-e működtetni, továbbá arról, hogy részesül-e az Szt. 58/A. § (2c) bekezdés b) pontja, illetve a Gyvt. 145. § (2c) bekezdés b) pontja szerinti támogatásban.
+8.[^118] Az engedélyes bejegyzése iránti kérelem és adatmódosítás iránti kérelem esetén a fenntartó nyilatkozata arról, hogy az engedélyest, illetve az ellátotti létszámot, férőhelyszámot költségvetési támogatással kívánja-e működtetni, továbbá arról, hogy részesül-e az Szt. 58/A. § (2c) bekezdés b) pontja, illetve a Gyvt. 145. § (2c) bekezdés b) pontja szerinti támogatásban.
 
 9. A kérelem elbírálásához jogszabály alapján szükséges egyéb adatok.
 
-[^105]: A 4. melléklet címe a 353/2014. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
-[^106]: A 4. melléklet 8. pontja a 353/2014. (XII. 29.) Korm. rendelet 76. § h) pontja szerint módosított szöveg.
+[^117]: A 4. melléklet címe a 353/2014. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
+[^118]: A 4. melléklet 8. pontja a 353/2014. (XII. 29.) Korm. rendelet 76. § h) pontja szerint módosított szöveg.
