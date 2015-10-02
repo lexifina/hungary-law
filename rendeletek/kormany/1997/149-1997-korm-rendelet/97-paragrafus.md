@@ -28,9 +28,11 @@ vonatkozó döntést.
 
 (1a)[^635] A gyámhivatal által elrendelt ideiglenes hatályú elhelyezés esetén, ha a gyermek megelőző pártfogás alatt áll, a határozat tartalmazza a megelőző pártfogás fennállásának megállapítását is.
 
-(2)[^636] Az ideiglenes hatályú elhelyezést elrendelő határozatot közölni kell a gyermekétől külön élő szülővel és a gondozási helyen működő gyermekjogi képviselővel.
+(1b)[^636] Ha a gyámhivatal a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény vagy a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősülő gyermek (a továbbiakban: kísérő nélküli kiskorú) ideiglenes hatályú elhelyezését rendeli el, a határozat az (1) bekezdés i) pont ia) alpontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.
 
-(3)[^637] Ha a gyámhivatal a különélő másik szülőnél vagy harmadik személynél történő ideiglenes hatályú elhelyezésről dönt, és ezzel egyidejűleg a gyermek elhelyezése vagy elhelyezésének megváltoztatása iránt pert indít, a határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+(2)[^637] Az ideiglenes hatályú elhelyezést elrendelő határozatot közölni kell a gyermekétől külön élő szülővel és a gondozási helyen működő gyermekjogi képviselővel.
+
+(3)[^638] Ha a gyámhivatal a különélő másik szülőnél vagy harmadik személynél történő ideiglenes hatályú elhelyezésről dönt, és ezzel egyidejűleg a gyermek elhelyezése vagy elhelyezésének megváltoztatása iránt pert indít, a határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) a szülő szülői felügyeleti joga szünetelésének megállapítását,
 
@@ -42,7 +44,7 @@ d) a gyermeknek a különélő másik szülő vagy harmadik személy által tör
 
 e) a fellebbezésre tekintet nélküli végrehajthatóság kimondását.
 
-(4)[^638] Ha a szülő gyermekének ismeretlen személy általi örökbefogadásához járul hozzá, az ideiglenes hatályú elhelyezésről szóló határozat a 14. §-ban foglaltakon kívül tartalmazza
+(4)[^639] Ha a szülő gyermekének ismeretlen személy általi örökbefogadásához járul hozzá, az ideiglenes hatályú elhelyezésről szóló határozat a 14. §-ban foglaltakon kívül tartalmazza
 
 a) a szülői felügyeleti jog szünetelésének vagy megszűnésének megállapítását,
 
@@ -54,15 +56,16 @@ d) a gyermeknek a leendő örökbefogadó szülőnek történő kiadásáról, v
 
 e) a fellebbezésre tekintet nélküli végrehajthatóság kimondását.
 
-(5)[^639] Ha a szülő hozzájárul gyermeke ismeretlen személy általi örökbefogadásához, és a gyermek ideiglenes hatályú elhelyezésére a leendő örökbefogadó szülőnél kerül sor, a gyámhivatal a határozat meghozatalával egyidejűleg közli a szülővel a szülői felügyeleti joga szünetelésének vagy megszűnésének, valamint a gyermek kötelező gondozásba történő kihelyezésének tényét.
+(5)[^640] Ha a szülő hozzájárul gyermeke ismeretlen személy általi örökbefogadásához, és a gyermek ideiglenes hatályú elhelyezésére a leendő örökbefogadó szülőnél kerül sor, a gyámhivatal a határozat meghozatalával egyidejűleg közli a szülővel a szülői felügyeleti joga szünetelésének vagy megszűnésének, valamint a gyermek kötelező gondozásba történő kihelyezésének tényét.
 
-(6)[^640] Az ideiglenes hatályú elhelyezésről szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a családtámogatási ellátást folyósító szervvel és a gyermeket ellátó védőnővel a gyermek gondozási helye megváltoztatásának és az esetleges gyámrendelésnek a tényét.
+(6)[^641] Az ideiglenes hatályú elhelyezésről szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a családtámogatási ellátást folyósító szervvel és a gyermeket ellátó védőnővel a gyermek gondozási helye megváltoztatásának és az esetleges gyámrendelésnek a tényét.
 
 [^633]: A 97. §-t megelőző alcím a 275/2008. (XI. 21.) Korm. rendelet 23. § (6) bekezdés a) pont al) alpontja szerint módosított szöveg.
 [^634]: A 97. § (1) bekezdése a 97/2013. (III. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
 [^635]: A 97. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
-[^636]: A 97. § (2) bekezdése a 97/2013. (III. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^637]: A 97. § (3) bekezdése a 97/2013. (III. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^638]: A 97. § (4) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^639]: A 97. § (5) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 237/2010. (IX. 13.) Korm. rendelet 15. § i) pontja szerint módosított szöveg.
-[^640]: A 97. § (6) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 9. pontja szerint módosított szöveg.
+[^636]: A 97. § (1b) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
+[^637]: A 97. § (2) bekezdése a 97/2013. (III. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^638]: A 97. § (3) bekezdése a 97/2013. (III. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^639]: A 97. § (4) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^640]: A 97. § (5) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 237/2010. (IX. 13.) Korm. rendelet 15. § i) pontja szerint módosított szöveg.
+[^641]: A 97. § (6) bekezdését a 315/2005. (XII. 25.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 9. pontja szerint módosított szöveg.

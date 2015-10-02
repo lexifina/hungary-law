@@ -1,4 +1,4 @@
-## 126/C. §[^735] Ha a hivatásos támogatói feladatokat mentális zavarban szenvedő személyekkel foglalkozó jogi személy által kijelölt személy látja el, kérelmére a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal tételes költségelszámolásban vagy költségátalány fizetésében állapodhat meg vele a Tám. tv. 7. § (4) bekezdése szerinti költségtérítés biztosítása érdekében.
+## 126/C. §[^743] Ha a hivatásos támogatói feladatokat mentális zavarban szenvedő személyekkel foglalkozó jogi személy által kijelölt személy látja el, kérelmére a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal tételes költségelszámolásban vagy költségátalány fizetésében állapodhat meg vele a Tám. tv. 7. § (4) bekezdése szerinti költségtérítés biztosítása érdekében.
 
 126/D. § (1) A gyámhivatal megvizsgálja a Tám. tv. 10. § (2) bekezdése szerint előterjesztett éves hivatásos támogatói jelentést, és indokolt esetben nyilatkoztatja a támogatott személyt az abban foglaltakról.
 
@@ -14,4 +14,4 @@ b) indokolt esetben a hivatásos támogatót a jelentés elmaradásának, a jele
 
 (5) Ha a gyámhivatal eljárása során megállapítja, hogy a hivatásos támogató tevékenysége sérti a támogatott személy érdekeit, elmozdítja a hivatásos támogatót, és a támogatott személy egyetértésével egyidejűleg új támogatót rendel ki.
 
-[^735]: A 126/C. § a 70/2015. (III. 30.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^743]: A 126/C. § a 70/2015. (III. 30.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
