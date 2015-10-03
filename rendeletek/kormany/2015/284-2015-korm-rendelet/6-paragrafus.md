@@ -1,1 +1,0 @@
-## „c) a gyermek szülőjének vagy a gyermeket korábban gondozó más személynek a véleményét – ha a vélemény rendelkezésre áll és egyébként a meghallgatás Gyvt. 128. § (1) bekezdése szerinti mellőzésének nincs helye – a javasolt gondozási helyről, a kapcsolattartásról és az őt érintő egyéb kérdésekről,”

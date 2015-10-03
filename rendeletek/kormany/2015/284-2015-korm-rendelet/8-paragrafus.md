@@ -1,3 +1,0 @@
-## 7. § A Gyer. a következő 196. §-sal egészül ki:
-
-## „196. § Az egyes gyermekvédelmi tárgyú kormányrendeleteknek a kísérő nélküli kiskorúak ellátásának megoldása érdekében történő módosításáról szóló 284/2015. (IX. 29.) Korm. rendelettel megállapított 97. § (1b) bekezdését, 98. § (5) bekezdését, 100. § (2) és (3) bekezdését, 102. § (1b) bekezdését, 103. § (7a) bekezdését és (12) bekezdés c) pontját, valamint 105. § (1b) bekezdését az egyes gyermekvédelmi tárgyú kormányrendeleteknek a kísérő nélküli kiskorúak ellátásának megoldása érdekében történő módosításáról szóló 284/2015. (IX. 29.) Korm. rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
