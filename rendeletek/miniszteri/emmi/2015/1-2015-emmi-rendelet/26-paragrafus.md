@@ -18,6 +18,8 @@ f) a dohányzásról való leszokás támogatásával.
 
 (3) A javítóintézetben gondoskodni kell arról, hogy a fiatalkorú hozzájusson ahhoz a terápiához, amely személyiségfejlődésének korrekciójához, személyiségzavara, beilleszkedési zavara enyhítéséhez, szenvedélybetegsége gyógyításához szükséges, valamint arról, hogy a fogyatékossággal élő fiatalkorú megfelelő gyógypedagógiai ellátásban részesüljön.
 
-(4) A javítóintézet igazgatója által a Gyvt. 66/M. § (4) bekezdés szerint engedélyezett betegszabadság évente legfeljebb tíz nap időtartamú lehet. Ha a fiatalkorú egészségi állapota miatt indokolt a javítóintézeten kívüli, tíz napot meghaladó időtartamú kezelés biztosítása, a javítóintézet igazgatója dönthet a javítóintézeti nevelés félbeszakításáról.
+(4)[^7]
 
 (5) Ha a félbeszakítás meghosszabbítása szükséges, a javítóintézet igazgatója a félbeszakítás lejárta előtt előterjesztést készít a miniszternek.
+
+[^7]: A 26. § (4) bekezdését a 44/2015. (X. 2.) EMMI rendelet 2. §-a hatályon kívül helyezte.
