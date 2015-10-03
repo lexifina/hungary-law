@@ -1,1 +1,0 @@
-## „(3) Amennyiben a lakás elhelyezkedése szerinti településen vagy településrészen a szennyvízelvezetés közüzemi vagy közcélú szolgáltatással történik, a lakás e szolgáltatás igénybevétele esetén minősülhet legalább komfortosnak.”
