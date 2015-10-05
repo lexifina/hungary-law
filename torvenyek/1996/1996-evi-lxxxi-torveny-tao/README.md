@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2015-06-25 | 2015. évi LXXXI. törvény | 1996-81-00-00.92 |
 | 2015-07-07 | 2015. évi LXXXV. törvény | 1996-81-00-00.93 |
 | 2015-07-25 | 2015. évi LXXXI. törvény | 1996-81-00-00.94 |
+| 2015-10-05 | 2015. évi CXLV. törvény | 1996-81-00-00.95 |
