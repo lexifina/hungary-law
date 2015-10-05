@@ -1,0 +1,3 @@
+24. § (1) A pénzügyi intézmény az e törvény hatálya alá tartozó devizaalapú kölcsönszerződés alapján nyilvántartott követelés forintra átváltását az érintett fogyasztóval szemben a 7. § (3) bekezdése szerint teljesíti azzal, hogy annak hatásait a fogyasztóra vonatkozó belső nyilvántartásaiban, valamint a számviteli nyilvántartásaiban 2016. február 15-ig vezeti át, illetve rögzíti.
+
+(2) A pénzügyi intézmény az e törvény hatálya alá tartozó már felmondott devizaalapú kölcsönszerződésből eredő követelés forintra átváltását az érintett fogyasztóval szemben 2016. január 1. napjával teljesíti azzal, hogy annak hatásait a fogyasztóra vonatkozó belső nyilvántartásaiban, valamint a számviteli nyilvántartásaiban 2016. március 15-ig vezeti át, illetve rögzíti.

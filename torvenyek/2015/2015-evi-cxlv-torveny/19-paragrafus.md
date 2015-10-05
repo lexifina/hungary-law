@@ -1,0 +1,1 @@
+19. § A pénzügyi intézmény a már felmondott, fogyasztóval kötött devizaalapú kölcsönszerződésből eredő követeléseire saját döntése alapján adandó részletfizetésre vagy egyéb kedvezmény nyújtására vonatkozó ajánlat részletszabályait 2016. január 1-ig belső szabályzatban rögzíti.

@@ -1,0 +1,1 @@
+14. § Az ezen alcím szerinti szerződésmódosítással – ideértve a fogyasztó 9. § (3) bekezdése szerinti kezdeményezését is, ha arra a kölcsönszerződése módosított szövegének kézbesítését követő 60 napon belül kerül sor – összefüggésben a pénzügyi intézmény a fogyasztóval szemben díjat, költséget, jutalékot vagy más fizetési kötelezettséget nem számíthat fel.

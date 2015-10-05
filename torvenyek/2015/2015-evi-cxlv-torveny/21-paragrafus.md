@@ -1,0 +1,1 @@
+21. § A Felügyelet az MNB törvény 29. alcíme szerinti – hivatalból megindítható – fogyasztóvédelmi ellenőrzési eljárás keretében vizsgálja, hogy a pénzügyi intézmények az e törvényben foglaltaknak megfelelően jártak-e el.
