@@ -7,11 +7,3 @@
 ## (3) A fogyasztói kölcsönszerződés érvényessé nyilvánítása esetén a feleknek az elszámolási törvény alapján teljesített elszámolás eredményeként meghatározott szerződéses jogait és kötelezettségeit e törvény szabályai alapján kell megállapítani.”
 
 30. § E törvény tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdése szerinti előzetes bejelentése megtörtént.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
