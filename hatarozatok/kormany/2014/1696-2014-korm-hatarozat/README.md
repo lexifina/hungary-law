@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1696-30
 | 2014-11-26 | 2014-1696-30-22.1 | 1696/2014. (XI. 26.) Korm. határozat |
 | 2014-11-27 | 2014-1696-30-22.2 | 2010: CXXX. törvény |
 | 2015-03-31 | 2014-1696-30-22.3 | 1199/2015. (III. 31.) Korm. határozat |
+| 2015-10-06 | 2014-1696-30-22.4 | 1199/2015. (III. 31.) Korm. határozat |

@@ -10,8 +10,6 @@
 
 | Gyoma – Békéscsaba biztosítóberendezés korszerűsítés és Békéscsaba állomás, Ferencváros – Lökösháza ETCS2 vonatbefolyásoló rendszer kiépítése (III/I.b. ütem) |
 
-| Szolnok – Szajol korszerűsítés |
-
 | GSM-R távközlési hálózat kiépítése I. ütem |
 
 | Ferencváros – Székesfehérvár ETCS2 vonatbefolyásoló rendszer kiépítése |
