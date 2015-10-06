@@ -1,5 +1,3 @@
-## 2. §[^8]
-
 3. § (1)[^9] A természetvédelemért felelős miniszter egyetértése szükséges védett természeti területnek és Natura 2000 területnek minősülő földrészlet (a továbbiakban együtt: védett terület) bármely jogcímen történő átruházásához vagy vagyonkezelésbe adásához.
 
 (2)[^10] A vízügyi igazgatási szervek irányításáért felelős miniszter egyetértése szükséges a vízvédelmi terület cseréjéhez, valamint eladásához, vagy vagyonkezelésbe adásához.
@@ -8,7 +6,6 @@
 
 (4)[^12] A kulturális örökség védelméért felelős miniszter egyetértése szükséges a védetté nyilvánított régészeti lelőhelyre és a régészeti védőövezetre kiterjedő földrészlet cseréjéhez, valamint az eladásához, vagy vagyonkezelésbe adásához.
 
-[^8]: A 2. §-t a 220/2011. (X. 20.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 13. § (2) bekezdése alapján az ingatlanokat érintő, folyamatban lévő vagy megismételt közigazgatási, bírósági ügyekben is alkalmazni kell.
 [^9]: A 3. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 7. §-ával megállapított, a 153/2013. (V. 24.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^10]: A 3. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 7. §-a, a 153/2013. (V. 24.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^11]: A 3. § (3) bekezdése a 153/2013. (V. 24.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.

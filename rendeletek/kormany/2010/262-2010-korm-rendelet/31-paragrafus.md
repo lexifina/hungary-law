@@ -1,8 +1,8 @@
-31. § (1)[^69] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon kell közzétenni, és az árverés helyszínén is ki kell függeszteni. A közös önkormányzati hivatal esetében az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében meghatározottak alapján a közös önkormányzati hivatalnál is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek a földrészlet fekvése szerinti önkormányzat polgármesteri hivatala, illetve a közös önkormányzati hivatal esetében a közös önkormányzati hivatal hirdetőtáblájára és a közös önkormányzati hivatalhoz tartozó önkormányzat hirdetőtáblájára való kifüggesztést követő nap.
+31. § (1)[^72] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon, a kormányhivatalnak az árverezés helye szerinti megyei jogú városban található hivatali helyiségében, az árveréssel érintett földrészlet fekvése szerinti településen a helyben szokásos módon, valamint az árverés helyszínén is ki kell függeszteni, továbbá megyei, illetve helyi sajtótermékekben is közzé kell tenni. A közös önkormányzati hivatal esetében az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében meghatározottak alapján a közös önkormányzati hivatalnál is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek az NFA internetes honlapján történő közzétételének napja.
 
-(2) Az árverési hirdetmény közzétételének időpontja legalább harminc nappal meg kell előzze a hirdetményben megjelölt árverési időpontot.
+(2)[^73] Az árverési hirdetmény közzétételének időpontja legalább harminc nappal meg kell, hogy előzze a hirdetményben megjelölt árverési időpontot.
 
-(3) A hirdetményben fel kell tüntetni
+(3)[^74] A hirdetményben fel kell tüntetni
 
 1. az árverést kiíró megnevezését és székhelyét;
 
@@ -12,68 +12,57 @@
 
 4. a földrészlet adatait (település, helyrajzi szám, alrészlet szintű bontásban: művelési ág, területnagyság, aranykorona érték);
 
-5. a hatályos ingatlan-nyilvántartási térképi adatbázisból kinyomtatott, megfelelő áttekintést biztosító térképmásolatot;
+5. ha a földrészleten erdő vagy fásított terület található, a földrészlet megosztására, valamint az ezzel kapcsolatos költségek viselésére vonatkozó tájékoztatást;
 
 6. az árverés tárgyát képező tulajdoni illetőséget;
 
-7.[^70] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket, továbbá az ingatlan-nyilvántartásba fel nem jegyzett, az NFA által ismert terheket;
+7. az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket, továbbá az ingatlan-nyilvántartásba fel nem jegyzett, az NFA által ismert terheket;
 
 8. az ingatlan-nyilvántartásba jogi jellegként feljegyzett tényeket;
 
-9. a Natura 2000 területnek minősülő földrészlet esetén a Natura 2000 területre vonatkozó jogszabályi előírásokat;
+9. a Natura 2000 területnek minősülő földrészlet esetén a Natura 2000 területekre vonatkozó főbb jogszabályokra való utalást;
 
 10. a földrészletet terhelő szolgalmi jogot;
 
-11. a földrészletet érintően a földhasználó javára megítélt, egy éven túli kötelezettségvállaláson alapuló, európai uniós vagy nemzeti terület alapú támogatás jogcímét és a kötelezettségvállalás időtartamát;
+11. a földrészletet érintően a földhasználó javára megítélt, egy éven túli kötelezettségvállaláson alapuló, európai uniós vagy nemzeti, terület alapú támogatás jogcímét és a kötelezettségvállalás időtartamát;
 
-12. az árverési biztosíték mértékét, megfizetésének módját, határidejét;
+12. az árverési biztosíték megfizetésének módját;
 
 13. az árverésre jelentkezés helyét, módját és idejét;
 
-14. az NFA által meghatározott kikiáltási árat;
+14. annak rögzítését, hogy az árverésen történő részvétel feltétele, hogy az árverezők írásban hozzájáruljanak személyes adataik kezeléséhez és az árverési jegyzőkönyvhöz mellékletében történő csatolásához;
 
-15. a vételár megfizetésének határidejét és módját;
+15. az NFA által meghatározott kikiáltási árat;
 
-16. az árverésen történő részvétel feltételeit,
+16. a vételár megfizetésének határidejét és módját;
 
-17. az elővásárlási jog gyakorlásának módját;
+17. az árverésen történő licitálás feltételeit;
 
-18. az NFA azon joga fenntartásának rögzítését, hogy
+18. az elővásárlási jog gyakorlásának módját;
 
-18.1. az árverési hirdetményt az árverés időpontját megelőzően visszavonhatja,
+19. az NFA azon joga fenntartásának rögzítését, hogy
 
-18.2. az árverést e rendeletben meghatározott esetekben eredménytelennek nyilvánítsa,
+19.1. az árverési hirdetményt az árverés időpontját megelőzően visszavonhatja,
 
-18.3. a nyertes árverező visszalépése esetén vagy a 23. § (2) bekezdés a)–b) pontjában meghatározott feltételek bekövetkezése esetén a következő legmagasabb vételárat ajánló árverezővel szerződést kössön;
+19.2. az árverést e rendeletben meghatározott esetekben eredménytelennek nyilvánítsa,
 
-19. annak rögzítését, hogy a nyertes árverezővel kötött szerződés tartalmából közérdekből nyilvános adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok, valamint az Nfatv. 30. § (2) bekezdésében meghatározott ellenszolgáltatást tartalmazó szerződés esetén a szerződést közzé kell tenni;
+19.3. a nyertes árverező visszalépése esetén, a 23. § (2) bekezdés a) és b) pontjában vagy a 32/A. § (1) bekezdésében meghatározott feltételek bekövetkezése esetén a következő legmagasabb vételárat ajánló árverezővel vagy elővásárlási jogosulttal szerződést kössön;
 
-20. mindazon további információt, amit az NFA szükségesnek tart.
+20. annak rögzítését, hogy a nyertes árverezővel kötött szerződés tartalmából közérdekből nyilvános adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok, valamint az Nfatv. 30. § (2) bekezdésében meghatározott ellenszolgáltatást tartalmazó szerződés esetén a szerződést közzé kell tenni;
 
-(4) Az NFA az árverés időpontjáról és a kikiáltási árról az árverési hirdetmény közzétételével egyidejűleg köteles értesíteni:
+21. a pénzügyi intézmény által nyújtott kölcsön igénybevételével történő vásárlás speciális feltételeit és az ilyen esetekben kötendő adásvételi szerződés speciális tartalmi elemeit;
 
-a) közös tulajdonban álló földrészlet esetén a tulajdonostársakat;
+22. az értékesítésre kerülő földrészletre – az e rendeletben meghatározott esetekben – vonatkozó 20 éves visszavásárlási jogra és elidegenítési és terhelési tilalomra vonatkozó utalást;
 
-b) az ingatlan-nyilvántartásba bejegyzett jog jogosultjai közül:
+23. a haszonbérleti szerződéssel terhelt földrészlet értékesítése esetén a haszonbérleti szerződés módosításával kapcsolatos, az adásvételi szerződésben rögzítendő kötelezettségeket;
 
-ba) a vagyonkezelői jog,
+24. mindazon további információt, amit az NFA szükségesnek tart.
 
-bb) a földhasználati jog, a haszonélvezeti jog és a használat jogának,
-
-bc) a telki szolgalmi jog,
-
-bd) az elővásárlási jog,
-
-be) a tartási és életjáradéki jog,
-
-bf) a jelzálogjog és végrehajtási jog
-
-jogosultját;
-
-c)[^71] a földhasználati nyilvántartásba bejegyzett földhasználót, valamint az NFA-val szerződéses jogviszonyban álló olyan földhasználót is, akinek a használata a földhasználati nyilvántartásba nem került bejegyzésre.
+(4)[^75]
 
 (5) A (3) bekezdés 11. pontjában foglalt adatokat az NFA a Mezőgazdasági és Vidékfejlesztési Hivatal adatszolgáltatása alapján állapítja meg.
 
-[^69]: A 31. § (1) bekezdése a 91/2014. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^70]: A 31. § (3) bekezdés 7. pontja a 91/2014. (III. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^71]: A 31. § (4) bekezdés c) pontja a 91/2014. (III. 20.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^72]: A 31. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^73]: A 31. § (2) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^74]: A 31. § (3) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^75]: A 31. § (4) bekezdését a 285/2015. (X. 5.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.

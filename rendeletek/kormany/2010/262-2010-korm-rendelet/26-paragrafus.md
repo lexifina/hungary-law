@@ -1,4 +1,4 @@
-## 25. §[^56]
+## 25. §[^56] Az Nfatv. 21. § (3a) bekezdés b) pontjában foglalt területnagyságot el nem érő földrészletek eladása során az NFA a földrészletek és az elvárt minimális vételárak nyilvános közzétételével, legalább 45 napos ajánlattételi határidő biztosításával jár el.
 
 ## A haszonbérbe adásra vonatkozó pályázati eljárás
 
@@ -10,7 +10,7 @@
 
 (3)[^60] Ha a pályázati felhívás tartalmazza az (1a) bekezdésben meghatározott figyelemfelhívást, a pályázó köteles nyilatkozni arról, hogy tudomásul veszi és elfogadja azt, hogy amennyiben a pályázatát NFA nyertessé nyilvánítja, a haszonbérleti jogot a pályázati felhívásban közzétett birtoktestnek csak egy részére is elnyerheti.
 
-[^56]: A 25. §-t a 91/2014. (III. 20.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^56]: A 25. §-t a 91/2014. (III. 20.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte, újonnan a 285/2015. (X. 5.) Korm. rendelet 4. §-a iktatta be.
 [^57]: A 26. § (1) bekezdése a 91/2014. (III. 20.) Korm. rendelet 12. § i) pontja szerint módosított szöveg.
 [^58]: A 26. § (1a) bekezdését a 306/2013. (VIII. 1.) Korm. rendelet 2. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2)–(4) bekezdését. A 26. § (1a) bekezdése a 320/2013. (VIII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^59]: A 26. § (2) bekezdése a 91/2014. (III. 20.) Korm. rendelet 5. §-ával megállapított szöveg.

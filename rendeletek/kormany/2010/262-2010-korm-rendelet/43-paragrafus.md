@@ -30,7 +30,7 @@ g) a felek valamelyike jogszabályból vagy a szerződésből eredő lényeges k
 
 (3) Ha az azonnali hatályú felmondást a másik fél 15 napon belül nem veszi tudomásul, a felmondási jogot gyakorló fél további 15 napon belül a bírósághoz fordulhat. Ha nem így jár el, a felmondás hatályát veszti.
 
-(4)[^87] A rendes felmondási időt a felek a szerződésben határozzák meg, oly módon, hogy az NFA a Tfvt.-ben előírtak szerint, az ott meghatározott termőföld és a mező-, erdőgazdasági művelés alatt álló belterületi föld hasznosítási kötelezettségének teljesítéséről, illetve a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni tudjon.
+(4)[^95] A rendes felmondási időt a felek a szerződésben határozzák meg, oly módon, hogy az NFA a Tfvt.-ben előírtak szerint, az ott meghatározott föld hasznosítási kötelezettségének teljesítéséről, illetve a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni tudjon.
 
 (5) A szerződés közös megegyezéssel a gazdasági év végével szüntethető meg.
 
@@ -38,4 +38,4 @@ g) a felek valamelyike jogszabályból vagy a szerződésből eredő lényeges k
 
 (7) A szerződés megszűnése esetén a vagyonkezelői jog az ingatlan-nyilvántartásból való törléssel szűnik meg. Ettől az időponttól kezdődően a vagyonkezelő által a földrészlet használatára harmadik személlyel kötött szerződésben a vagyonkezelő helyébe az NFA lép.
 
-[^87]: A 43. § (4) bekezdése a 91/2014. (III. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^95]: A 43. § (4) bekezdése a 91/2014. (III. 20.) Korm. rendelet 10. §-ával megállapított, a 285/2015. (X. 5.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.

@@ -1,0 +1,9 @@
+33/A. §[^82] (1) Ha a visszavásárlási joggal terhelt földrészletek vételárának kiegyenlítése pénzügyi intézmény által nyújtott kölcsön felhasználásával történik, az NFA a (2) bekezdésben foglaltak szerint jár el, ha a pénzügyi intézmény teljes bizonyító erejű magánokiratban foglalt nyilatkozatával értesíti az NFA-t a kölcsönszerződés felmondásáról, és az értesítésben – adatváltozás esetén újabb értesítésben –
+
+a) megjelöli az értesítés keltének napján fennálló teljes követelését, valamint azt, hogy a követelés naponta milyen összeggel (napi kamat) emelkedik, továbbá azt a bankszámlaszámot, ahova a követelés összegét utalni kéri, és
+
+b) vállalja, hogy ha a követelése összegét a (2) bekezdés alapján a bankszámláján maradéktalanul jóváírják, nyolc napon belül kiadja a jelzálogjog törlésére vonatkozó engedélyt.
+
+(2) Az (1) bekezdésben foglaltaknak megfelelő értesítés esetén az NFA él az államot megillető visszavásárlási joggal, és a visszavásárlási ár összegéből a pénzügyi intézmény (1) bekezdés szerinti értesítésében megjelölt teljes követelést az értesítésben, több értesítés esetén a legutolsó értesítésben meghatározott, a fizetés napjára számolt napi kamatokkal növelten a pénzügyi intézmény részére legkésőbb az értesítés, több értesítés esetén az első értesítés kézhezvételétől számított 60 napon belül megfizeti a pénzügyi intézmény által az értesítésben megadott bankszámlára történő átutalás útján.
+
+[^82]: A 33/A. §-t a 285/2015. (X. 5.) Korm. rendelet 12. §-a iktatta be.

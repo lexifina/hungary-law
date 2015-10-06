@@ -1,4 +1,4 @@
-## 48/A. §[^103] Az Nfatv. 19/A. § (2) bekezdésében meghatározott módon, törvényben történő kijelöléssel létrejött vagyonkezelői jog jogosultja köteles 30 napon belül írásban jelezni az NFA felé, ha a vagyonkezelésében lévő földrészlet 90 napot meghaladó időtartamban a jogszabályban meghatározott, általa ellátandó állami feladathoz, vagy alapfeladathoz szükségtelenné vált. E bekezdésben foglaltakat nem kell alkalmazni, ha a vagyonkezelői jog gyakorlásának ideiglenes szünetelése a földrészlet értékesítésének előkészítése miatt következett be.
+## 48/A. §[^113] Az Nfatv. 19/A. § (2) bekezdésében meghatározott módon, törvényben történő kijelöléssel létrejött vagyonkezelői jog jogosultja köteles 30 napon belül írásban jelezni az NFA felé, ha a vagyonkezelésében lévő földrészlet 90 napot meghaladó időtartamban a jogszabályban meghatározott, általa ellátandó állami feladathoz, vagy alapfeladathoz szükségtelenné vált. E bekezdésben foglaltakat nem kell alkalmazni, ha a vagyonkezelői jog gyakorlásának ideiglenes szünetelése a földrészlet értékesítésének előkészítése miatt következett be.
 
 49. § (1) A használó jogosult:
 
@@ -6,7 +6,7 @@ a) az ellenőrzést végző személytől személyazonosságának bizonyításár
 
 b) a helyszíni ellenőrzésnél jelen lenni,
 
-c) az ellenőrzés megállapításait megismerni, a jelentéstervezetre – a megküldéstől számított tizenöt napon belül – észrevételt tenni.
+c)[^114] az ellenőrzés megállapításait megismerni, a jelentés kapcsán – a megküldéstől számított tizenöt napon belül – észrevételt tenni.
 
 (2) A használó köteles:
 
@@ -22,4 +22,5 @@ e) az ellenőrzés megállapításai, javaslatai alapján tett intézkedéseirő
 
 (3) A (2) bekezdés e) pontjában említett intézkedések végrehajtását, az ellenőrzés során tett megállapítások, javaslatok hasznosulását az NFA szükség esetén utóellenőrzés keretében megvizsgálja.
 
-[^103]: A 48/A. §-t a 153/2013. (V. 24.) Korm. rendelet 14. §-a iktatta be.
+[^113]: A 48/A. §-t a 153/2013. (V. 24.) Korm. rendelet 14. §-a iktatta be.
+[^114]: A 49. § (1) bekezdés c) pontja a 285/2015. (X. 5.) Korm. rendelet 14. §-ával megállapított szöveg.

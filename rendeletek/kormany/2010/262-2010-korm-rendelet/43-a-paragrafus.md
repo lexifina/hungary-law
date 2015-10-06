@@ -1,6 +1,6 @@
-## Természetvédelmi célú vagyonkezelés[^88]
+## Természetvédelmi célú vagyonkezelés[^96]
 
-43/A. §[^89] (1) A természetvédelmi célú vagyonkezelés elsődleges célja állami tulajdonban álló földrészleteken természetvédelmi közcélok megvalósítása, az élő és élettelen természeti értékek megóvása, a tájképi, kultúrtörténeti értékek megőrzése, a természeti vagyon állagának és értékének megőrzése, védelme, továbbá értékének fenntartható módon való növelése.
+43/A. §[^97] (1) A természetvédelmi célú vagyonkezelés elsődleges célja állami tulajdonban álló földrészleteken természetvédelmi közcélok megvalósítása, az élő és élettelen természeti értékek megóvása, a tájképi, kultúrtörténeti értékek megőrzése, a természeti vagyon állagának és értékének megőrzése, védelme, továbbá értékének fenntartható módon való növelése.
 
 (2) A természetvédelmi célú vagyonkezelés során a védett területen történő mező-, erdőgazdálkodási tevékenység (a továbbiakban: gazdálkodás) a természetvédelmi célokra tekintettel folytatható, előnyben kell részesíteni a hagyományos (tájjellegű), természetkímélő, természetközeli gazdálkodási módok alkalmazását, biztosítani kell az őshonos és régen honosult háziállatok állományának génrezervátumként való fenntartását, valamint az állatállományok (megfelelő létszám, faj- és fajtaösszetétel esetén) útján a védett terület természetvédelmi érdekeknek megfelelő területfenntartását, gondozását.
 
@@ -8,5 +8,5 @@
 
 (4) Az igazgatóság a vagyonkezelési tevékenységét a természetvédelemért felelős miniszter által jóváhagyott hosszútávú (10 éves) természetvédelmi célú vagyonkezelési terv, valamint az annak alapján elkészített éves természetvédelmi célú vagyonkezelési terv figyelembevételével végzi.
 
-[^88]: A 43/A. §-t megelőző alcímet a 161/2011. (VIII. 18.) Korm. rendelet 15. §-a iktatta be.
-[^89]: A 43/A. §-t a 161/2011. (VIII. 18.) Korm. rendelet 15. §-a iktatta be.
+[^96]: A 43/A. §-t megelőző alcímet a 161/2011. (VIII. 18.) Korm. rendelet 15. §-a iktatta be.
+[^97]: A 43/A. §-t a 161/2011. (VIII. 18.) Korm. rendelet 15. §-a iktatta be.
