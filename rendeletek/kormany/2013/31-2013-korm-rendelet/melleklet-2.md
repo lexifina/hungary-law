@@ -38,7 +38,9 @@
 
 | 18. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 31/2013. (II. 13.) Korm. rendelethez[^6]
+| 19. | Erdő igénybevételi eljárások | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+
+2. melléklet a 31/2013. (II. 13.) Korm. rendelethez[^8]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -84,4 +86,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | területrendezési előírásokkal való összhang | Pest Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 42. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^8]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 42. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
