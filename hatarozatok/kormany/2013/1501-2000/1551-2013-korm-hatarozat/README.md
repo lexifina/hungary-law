@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1551-30
 | --- | --- | --- |
 | 2013-08-15 | 2013-1551-30-22.1 | 1551/2013. (VIII. 15.) Korm. határozat |
 | 2013-10-02 | 2013-1551-30-22.2 | 1694/2013. (X. 2.) Korm. határozat |
+| 2015-10-06 | 2013-1551-30-22.3 | 1718/2015. (X. 6.) Korm. határozat |

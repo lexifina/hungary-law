@@ -10,31 +10,11 @@
 
 ## Határidő: a nyertes ajánlattevővel történő szerződés megkötését követően azonnal
 
-## 3.[^1] egyetért a KÖZOP-2.5.0-09-11-2012-0019 azonosító számú [„Szolnok (kiz.)–Szajol (kiz.) vasútvonal rekonstrukciójának kivitelezése” című] projekt kettő szakaszra bontásával,
+## 3.[^2]
 
-## 3/A.[^2] elrendeli a 3. pont szerinti szakaszok kivitelezéséhez szükséges vállalkozási szerződések megkötését,
+## 3/A–3/C.[^3]
 
-## 3/B.[^3] egyetért azzal, hogy a 3. pont szerinti szakaszok tekintetében a vállalkozási szerződések megkötése során a projekt kedvezményezettje jár el,
-
-## 3/C.[^4] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–2020 közötti programozási időszak azonos célt szolgáló operatív programjának Európai Bizottság által történő elfogadása esetén a KÖZOP-2.5.0-09-11 2012-0019 azonosító számú [„Szolnok (kiz.)–Szajol (kiz.) vasútvonal rekonstrukciójának kivitelezése” című] projekt 3. pont szerinti második szakaszára vonatkozó támogatási szerződés megkötéséről,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
-
-## 4. felhívja
-
-## a) a nemzetgazdasági minisztert hogy a 2014–2020 közötti időszakban Magyarország számára elérhető uniós források felhasználása keretrendszerének tervezése és kialakítása, valamint
-
-## b) a nemzeti fejlesztési minisztert, hogy a 2014–2020 közötti időszakban a közlekedés fejlesztését célzó operatív program előkészítése
-
-## során vegyék figyelembe az 1. melléklet szerinti projekt megvalósításához szükséges költségigényt.
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: folyamatos
+## 4.[^4]
 
 1. melléklet az 1551/2013. (VIII. 15.) Korm. határozathoz
 
@@ -44,7 +24,6 @@
 
 | KÖZOP–2.5.0-09- 11-2012-0019 | Szolnok (kiz.)-Szajol (kiz.) vasútvonal rekonstrukciójának kivitelezése | Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvény- társaság | 100 | Szolnok (kiz.)– Szajol (kiz.) vasúti vonalszakasz teljes körű rekonstrukciója új vasúti műtárgyak építésével. | 32 622 855 609 | 22 767 749 775 | 6 147 292 439 | 2 919 538 106 | 788 275 289 |
 
-[^1]: A 3. pont az 1694/2013. (X. 2.) Korm. határozat 2. pontjával megállapított szöveg.
-[^2]: A 3/A. pontot az 1694/2013. (X. 2.) Korm. határozat 2. pontja iktatta be.
-[^3]: A 3/B. pontot az 1694/2013. (X. 2.) Korm. határozat 2. pontja iktatta be.
-[^4]: A 3/C. pontot az 1694/2013. (X. 2.) Korm. határozat 2. pontja iktatta be.
+[^2]: A 3. pontot az 1718/2015. (X. 6.) Korm. határozat 4. pont a) alpontja visszavonta.
+[^3]: A 3/A–3/C. pontot az 1694/2013. (X. 2.) Korm. határozat 2. pontja iktatta be, visszavonta az 1718/2015. (X. 6.) Korm. határozat 4. pont a) alpontja.
+[^4]: A 4. pontot az 1718/2015. (X. 6.) Korm. határozat 4. pont a) alpontja visszavonta.
