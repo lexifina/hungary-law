@@ -10,7 +10,7 @@ b) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. 
 
 (3)[^16] A Kormány a föld fekvése szerint illetékes kormányhivatalt jelöli ki mezőgazdasági igazgatási szervként a föld tulajdonjogának hatósági jóváhagyáshoz kötött megszerzésének jóváhagyására irányuló eljárásra, továbbá a szerzési feltételek igazolására szolgáló hatósági bizonyítványok kiadására.
 
-(4)[^17] Ha több kormányhivatal illetékességi területén fekvő földre vagy csereszerződés alapján kérik a tulajdonjog megszerzésének hatósági jóváhagyását, az eljárás lefolytatására az a kormányhivatal jogosult, amelyikhez az eredeti okiratokat benyújtották. Amennyiben az eredeti okiratokat több kormányhivatalhoz is benyújtották, az a kormányhivatal jár el, amelyhez először benyújtották azokat. Egyidejű benyújtás esetén az a kormányhivatal jár el, amelynek illetékességi területéhez nagyobb számú érintett föld tartozik, azonos számú föld esetén pedig az a kormányhivatal jár el, amelynek illetékességi területéhez tartozó érintett földek összterülete nagyobb.
+(4)[^17] Ha több kormányhivatal illetékességi területén fekvő földre vagy csereszerződés alapján kérik a tulajdonjog megszerzésének hatósági jóváhagyását, továbbá a szerzési képesség igazolására hatósági bizonyítvány kiállítását az eljárás lefolytatására az a kormányhivatal jogosult, amelyikhez az eredeti okiratokat benyújtották. Amennyiben az eredeti okiratokat több kormányhivatalhoz is benyújtották, az a kormányhivatal jár el, amelyhez először benyújtották azokat. Egyidejű benyújtás esetén az a kormányhivatal jár el, amelynek illetékességi területéhez nagyobb számú érintett föld tartozik, azonos számú föld esetén pedig az a kormányhivatal jár el, amelynek illetékességi területéhez tartozó érintett földek összterülete nagyobb.
 
 (5)[^18] A Kormány a föld fekvése szerint illetékes járási hivatalt jelöli ki mezőgazdasági igazgatási szervként a hatósági jóváhagyáshoz kötött földhasználati szerződések hatósági jóváhagyására irányuló eljárások lefolytatására.
 
@@ -19,6 +19,6 @@ b) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. 
 [^14]: A 7. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 2. és 3. pontja szerint módosított szöveg.
 [^15]: A 7. § (2) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 2. és 3. pontja szerint módosított szöveg.
 [^16]: A 7. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 3. pontja szerint módosított szöveg.
-[^17]: A 7. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 6–7. pontja szerint módosított szöveg.
+[^17]: A 7. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 6–7. pontja, a 285/2015. (X. 5.) Korm. rendelet 21. §-a szerint módosított szöveg.
 [^18]: A 7. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 2. pontja szerint módosított szöveg.
 [^19]: A 7. § (6) bekezdése a 70/2015. (III. 30.) 260. § (17) bekezdés 8–9. pontja szerint módosított szöveg.

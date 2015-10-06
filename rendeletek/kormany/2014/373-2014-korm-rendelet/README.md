@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-373-20-
 | 2015-05-01 | 2014-373-20-22.7 | 113/2015. (IV. 30.) Korm. rendelet |
 | 2015-06-01 | 2014-373-20-22.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-07-03 | 2014-373-20-22.9 | 171/2015. (VI. 30.) Korm. rendelet |
+| 2015-10-06 | 2014-373-20-22.10 | 285/2015. (X. 5.) Korm. rendelet |
