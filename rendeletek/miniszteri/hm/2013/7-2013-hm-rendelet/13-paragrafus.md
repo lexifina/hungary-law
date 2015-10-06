@@ -8,6 +8,15 @@
 
 (4) A (2) és (3) bekezdéstől a miniszter kérelem alapján eltérhet, ha az elhunyt a honvédelem érdekében kifejtett tevékenységével kiemelkedően szolgálta a honvédelem ügyét, valamint a honvédelmi hagyományok ápolása területén kiemelkedő tevékenységet végzett.
 
-(5) A „Közszolgálat halottjává” illetve a „Honvédelmi szervezet saját halottjává” történő nyilvánítás esetén a 8. § (2) bekezdés a)–e) és j) pontjaiban meghatározott kegyeleti költségek és a 9. § (1) bekezdés e) pontja szerinti költségek vállalhatók át. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezések az irányadóak.
+(5)[^6] A „Közszolgálat halottjává”, illetve a „Honvédelmi szervezet saját halottjává” történő nyilvánítás esetén a 8. § (2) bekezdés a)–e) és j) pontjában meghatározott kegyeleti költségek és a 9. § (1) bekezdés f) pontja szerinti költségek vállalhatók át. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezések az irányadóak, a (7) és (8) bekezdés szerinti eltérésekkel.
 
-(6) A kormánytisztviselőkre és közalkalmazottakra a 4. § (3) bekezdést, és a 10–12. § -t is alkalmazni kell.
+(6)[^7] A kormánytisztviselőkre és közalkalmazottakra a 4. § (3) bekezdését és a 10–12. §-t, a nyugdíjas közalkalmazottakra és nyugdíjas kormánytisztviselőkre a 4. § (3) bekezdését alkalmazni kell.
+
+(7)[^8] Az a közalkalmazott vagy kormánytisztviselő, aki a halálát szándékosan maga okozta, vagy a halála önhibájából eredő ittas vagy bódult állapota következménye, csak különös méltánylást érdemlő esetben – figyelemmel az elhunyt pályafutása során kifejtett érdemeire, valamint a haláleset körülményeire – nyilvánítható a „Honvédelmi szervezet saját halottjává”, illetve a „Közszolgálat halottjává”.
+
+(8)[^9] A (7) bekezdés alapján minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a munkáltatói jogkört gyakorló munkáltatói döntésben engedélyezheti. A hozzájárulás mértéke ez esetben nem haladhatja meg a 9. § (1) bekezdés c) és e) pontja szerinti összeghatárok 50%-át.
+
+[^6]: A 13. § (5) bekezdése a 11/2015. (IX. 28.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^7]: A 13. § (6) bekezdése a 11/2015. (IX. 28.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^8]: A 13. § (7) bekezdését a 11/2015. (IX. 28.) HM rendelet 5. § (2) bekezdése iktatta be.
+[^9]: A 13. § (8) bekezdését a 11/2015. (IX. 28.) HM rendelet 5. § (2) bekezdése iktatta be.

@@ -33,3 +33,7 @@ b) a Honvédséget a sírhely karbantartásával, gondozásával kapcsolatos kö
 (7) A Hjt. 139. §-a alapján nem minősített elhunyt temetési helyének gondozási költségeihez történő hozzájárulásról, vagy a költségek teljes átvállalásáról a honvédelemért felelős miniszter (a továbbiakban: miniszter) egyedileg dönt.
 
 (8) A „Katonai szolgálat halottjává” nyilvánított elhunyt esetén a temetési hely feletti rendelkezési jog a temetést követően átszáll az intézkedésre jogosult közeli hozzátartozóra.
+
+(9)[^1] A minősítésre jogosult parancsnok és a honvédelmi szervezetek vezetője honvéd, közalkalmazott és kormánytisztviselő elhalálozása esetén temetéskor és évfordulós koszorúzások alkalmával koszorút és sírcsokrot vásárolhat, illetve az intézkedésre jogosult közeli hozzátartozó részére gyásztáviratot küldhet.
+
+[^1]: A 4. § (9) bekezdését a 11/2015. (IX. 28.) HM rendelet 1. §-a iktatta be.

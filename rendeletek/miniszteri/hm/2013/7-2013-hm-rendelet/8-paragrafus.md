@@ -6,9 +6,9 @@
 
 a) a temetési hely feletti rendelkezési jog megváltásának, illetve meghosszabbításának költségei,
 
-b) a szolgáltatási költségek, így különösen a holttest tárolása, az elhunyt temetésre történt előkészítése, a ravatalozás, a búcsúztatás, a sírásás, a behantolás, az urnaelhelyezés, a hamvak temetőben történő szétszórása,
+b)[^3] a temetőn belüli szolgáltatások, így különösen az elhunyt hűtésének, ravatalozásának, a temetőben erre a célra rendszeresített szállító járművön történő szállításának, továbbá a hamvaknak az erre szolgáló berendezéssel történő szórásának, az urnaelhelyezésnek, a sírásásnak, a sírhelynyitásnak, a sírba helyezésnek, a visszahantolásnak és – a „Hősi halottá” nyilvánított elhunytak esetén – a temető felszámolása vagy a környezet a minősített elhunythoz méltatlanná válása miatti exhumálásnak és újratemetésnek költsége,
 
-c) a temetési kellékek, így különösen a koporsó, a szemfedél, a fejfa költsége,
+c)[^4] a temetési kellékek, így különösen a koporsó, a szemfedél, a fejfa, valamint az elhunyt temetésre történő előkészítésének, búcsúztatásnak költsége,
 
 d) a helyi és a helyközi halott-szállítás költségei,
 
@@ -25,3 +25,6 @@ i) az exhumálás költségei, továbbá a hamvak, a sírjel, síremlék esetleg
 j) a temetéskor és a koszorúzáskor elhelyezett koszorúk költsége.
 
 (3) A kegyeleti költségek az elhunyt minősítéséről szóló döntés, a halotti anyakönyvi kivonat másolata és a költségekről szóló, a honvédelmi szervezet nevére kiállított számlák alapján számolhatók el.
+
+[^3]: A 8. § (2) bekezdés b) pontja a 11/2015. (IX. 28.) HM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 8. § (2) bekezdés c) pontja a 11/2015. (IX. 28.) HM rendelet 3. §-ával megállapított szöveg.

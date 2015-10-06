@@ -1,47 +1,35 @@
-9. § (1) A Honvédség viseli
+9. §[^5] (1) A Honvédség viseli
 
-a) a 8. § (2) bekezdés b), c) és e) pont szerinti költségeket, valamint a temetőn belüli halott-szállítás kiadásait,
+a) a „Hősi halottá” nyilvánított elhunytak esetén a 8. § (2) bekezdés c) és e) pontja szerinti költségeket legfeljebb a központi költségvetésről szóló törvényben a közszolgálati tisztviselőkre meghatározott illetményalap (a továbbiakban: illetményalap) tizenötszöröséig, valamint a 8. § (2) bekezdés a) és b) pontja szerinti költségnek a ténylegesen felmerült és a honvédelmi szervezet részére kiállított, számlával igazolt összegét,
 
-aa) a „Hősi halottá” nyilvánított elhunytak esetén legfeljebb a költségvetési törvényben a közszolgálati tisztviselőkre meghatározott illetményalap (a továbbiakban: illetményalap) tizenötszöröséig,
+b) a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén a 8. § (2) bekezdés a)–c) és e) pontja szerinti költségeket legfeljebb az illetményalap húszszorosáig,
 
-ab) a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén legfeljebb az illetményalap tízszereséig, vagy
+c) a „Katonai szolgálat halottjává” nyilvánított elhunytak esetén a 8. § (2) bekezdés a)–c) és e) pontja szerinti költségeket legfeljebb az illetményalap hétszereséig, azzal, hogy a budapesti temetőkben történő temetésnél ezt az összeget 25%-kal növelni kell,
 
-ac) a „Katonai szolgálat halottjává” nyilvánított elhunytak esetén legfeljebb az illetményalap négyszereséig azzal, hogy a budapesti temetőkben történő temetésnél ezt az összeget 25%-kal növelni kell,
+d) a „Hősi halottá” és a „Magyar Honvédség halottjává” nyilvánított elhunytak emlékművének, emléktáblájának és sírjelének vagy síremlékének költségeit
 
-b) a temetési hely feletti rendelkezési jog megváltásának költségeit,
+da) a „Hősi halottá” nyilvánított elhunytak esetén legfeljebb az illetményalap tizennyolcszorosáig, valamint ha a 4. § (5) bekezdése szerint emléktábla, kopjafa állítására kerül sor, annak további költségeit legfeljebb az illetményalap háromszorosáig,
 
-ba) a „Hősi halottá” nyilvánított elhunytak esetén a ténylegesen felmerült és a honvédelmi szervezet részére kiállított, számlával igazolt összeget,
+db) a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén legfeljebb az illetményalap tízszereséig, valamint ha a 4. § (5) bekezdése szerint emléktábla, kopjafa állítására kerül sor, annak további költségeit legfeljebb az illetményalap háromszorosáig,
 
-bb) a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén a honvédelmi szervezet részére kiállított, számlával igazolt összeget, mely nem haladhatja meg az illetményalap tízszeresét, vagy
+e) az elhunyt holttestének vagy hamvainak belföldön, a temetőn kívüli helyi és helyközi szállítása miatt indokoltan felmerülő, a honvédelmi szervezet nevére kiállított – szállítási viszonylatot tartalmazó – számlával igazolt költségeit,
 
-bc) a „Katonai szolgálat halottjává” nyilvánított elhunytak esetén a honvédelmi szervezet részére kiállított, számlával igazolt összeget, mely nem haladhatja meg az illetményalap háromszorosát,
+f) a külföldön szolgálatot teljesítő honvéd külföldön történő elhalálozása esetén a hazaszállítás honvédelmi szervezet nevére kiállított számlával igazolt költségeit és
 
-c) a „Hősi halottá” és a „Magyar Honvédség halottjává” nyilvánított elhunytak emlékmű, emléktábla, vagy sírjel, síremlék költségeit,
+g) az elhunytak temetési helyének gondozása, sírjele, síremléke karbantartásának éves költségeként
 
-ca) a „Hősi halottá” nyilvánított elhunytak esetén legfeljebb az illetményalap tizennyolcszorosáig,
+ga) a „Hősi halottá” nyilvánított elhunytak esetében az illetményalap 25%-át, amely összeg év végi maradványa a következő évre átvihető,
 
-cb) a „Magyar Honvédség halottjává” nyilvánított elhunyt esetén legfeljebb az illetményalap tízszereséig,
+gb) a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén az illetményalap 15%-át, amely összeg év végi maradványa a következő évre átvihető.
 
-cc) a 4. § (5) bekezdése szerint állítandó emléktábla, kopjafa állításának költségeit legfeljebb az illetményalap háromszorosáig,
+(2) A 4. § (3) és (4) bekezdése szerinti temetéskor vagy egyéb megemlékezéskor a koszorú költsége a honvédelmi szervezet költségvetése terhére a honvédelmi szervezet nevére kiállított számla alapján számolható el.
 
-d) az elhunyt holttestének vagy hamvainak belföldön, a temetőn kívüli helyi és helyközi szállítás miatt felmerülő, a honvédelmi szervezet nevére kiállított számlával igazolt költségeit,
+(3) Az állományilletékes parancsnok a hivatásos és szerződéses katona (a továbbiakban együtt: az állomány tagja), a honvéd tisztjelölt, a honvéd altiszt-jelölt, a kormánytisztviselő, illetve a közalkalmazott házastársa, élettársa, szülője vagy gyermeke halála esetén egy koszorú költségének elszámolását engedélyezheti.
 
-e) külföldön szolgálatot teljesítő honvéd külföldön történő elhalálozása esetén a hazaszállítás honvédelmi szervezet nevére kiállított számlával igazolt költségeit,
+(4) A (2) és (3) bekezdés szerinti koszorú költségeként az illetményalap 0,2-szerese, sírcsokorra az illetményalap 0,1-szerese számolható el. A koszorú és sírcsokor költségeként elszámolható összeget október 15. és március 15. között 25%-kal kell növelni. A miniszter, a Honvédelmi Minisztérium (a továbbiakban: HM) parlamenti államtitkára, a HM közigazgatási államtitkára, valamint a Honvéd Vezérkar főnöke nevében elhelyezett koszorú költségeként az illetményalap 0,4-szerese számolható el.
 
-f) az elhunyt temetési helyének gondozása, sírjele, síremléke karbantartásának éves költségeként,
+(5) A „Hősi halottá” nyilvánított elhunytak sírhelyét, urnafülkéjét és a temetési helye feletti rendelkezési jogot határozatlan időre kell megváltani vagy meghosszabbítani. A „Magyar Honvédség halottjává” vagy a „Katonai szolgálat halottjává” nyilvánított elhunyt temetési helye feletti rendelkezési jog egy alkalommal, legfeljebb 25 évre váltható meg, amelytől eltérni csak akkor lehet, ha a temetőt üzemeltető önkormányzat rendeletében a 25 éves időtartamnál hosszabb egyszeri megváltási időt határoz meg.
 
-fa) a „Hősi halottá” nyilvánított elhunyt esetében az illetményalap 25%-át,
+(6) A 3. § (2) bekezdése szerint minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a minősítésre jogosult parancsnok munkáltatói döntésben engedélyezheti. A hozzájárulás mértéke nem haladhatja meg az (1) bekezdés c) és e) pontja szerinti összeghatárok 50%-át.
 
-fb) a „Magyar Honvédség halottjává” nyilvánított elhunyt esetén az illetményalap 15%-át,
-
-g) a „Hősi halottá” nyilvánított elhunyt exhumálásának és sírhelye áthelyezésének számlával igazolt összegét, ha a temetőt felszámolják, vagy a környezet a minősített elhunythoz méltatlanná válik.
-
-(2) A 4. § (3) és (4) bekezdése szerinti temetéskor, vagy egyéb megemlékezéskor a koszorú a honvédelmi szervezet költségvetése terhére a honvédelmi szervezet nevére kiállított számla alapján számolható el.
-
-(3) Az állományilletékes parancsnok a hivatásos és szerződéses katonák (a továbbiakban együtt: az állomány tagja), és a honvéd tisztjelölt, honvéd altiszt-jelölt, kormánytisztviselők, közalkalmazottak házastársa, élettársa, szülője vagy gyermeke halála esetén egy darab koszorú költségének elszámolását engedélyezheti.
-
-(4) A (2) bekezdés szerinti koszorúra az illetményalap 0,2-szerese, sírcsokorra az illetményalap 0,1-szerese számolható el. Október 15. és március 15. között ezeket az összegeket 25%-kal kell növelni. A miniszter, a HM parlamenti államtitkár, a HM közigazgatási államtitkár, valamint a Honvéd Vezérkar főnök nevében elhelyezett koszorúra az illetményalap 0,4-szerese számolható fel.
-
-(5) A „Hősi halottá” nyilvánítottak sírhelyét, urnafülkéjét és a temetési helye feletti rendelkezési jogot határozatlan időre kell megváltani, illetve meghosszabbítani. A „Magyar Honvédség halottjává” és a „Katonai szolgálat halottjává” nyilvánított elhunyt temetési helye feletti rendelkezési jog egy alkalommal legfeljebb 25 évre váltható meg. Ettől eltérni csak akkor lehet, ha a temetőt üzemeltető illetékes önkormányzat rendeletében a 25 éves időtartamnál hosszabb egyszeri megváltási időt határoz meg.
-
-(6) A 3. § (2) bekezdése szerint minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a minősítésre jogosult parancsnok munkáltatói döntésben engedélyezheti. A hozzájárulás mértéke nem haladhatja meg az (1) bekezdés a) pont ac) alpontja, b) pont bc) alpontja, és d) pontja szerinti összeghatárok 50%-át.
+[^5]: A 9. § a 11/2015. (IX. 28.) HM rendelet 4. §-ával megállapított szöveg.
