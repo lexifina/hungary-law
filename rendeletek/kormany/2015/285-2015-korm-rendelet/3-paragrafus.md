@@ -1,3 +1,0 @@
-## 2. § Az R1. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A földrészletnek eladás vagy csere útján történő hasznosítására vonatkozó döntés megalapozásához – a 4/B. §-ban foglaltak kivételével – el kell végeztetni az érintett földrészlet forgalmi értékbecslését (a továbbiakban: értékbecslés). Az eladásra vagy cserére vonatkozó döntés értékbecslési kötelezettség esetén az értékbecslésben rögzített érvényességi időn belül hozható meg. Értékbecslési kötelezettség esetén az értékbecslésben megállapított forgalmi értéknél alacsonyabb ellenértéket az adásvételi és a csereszerződésben megállapítani nem lehet.”

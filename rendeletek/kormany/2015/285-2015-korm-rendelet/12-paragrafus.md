@@ -1,3 +1,0 @@
-## 11. § Az R1. 33. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Amennyiben a nyertes árverező vagy a sorrend szerinti elsőhelyi elővásárlásra jogosult az NFA értesítésétől számított 8 munkanapon belül a szerződéskötés érdekében az NFA-nak a föld fekvése szerint illetékes területi szervénél neki felróható okból nem jelentkezik, vagy a hirdetményben előírt határidő alatt a szerződést neki felróható okból nem köti meg, vagy a teljes vételárat nem fizeti meg, úgy kell tekinteni, hogy a jogügylettől visszalépett. Ilyen esetben a befizetett árverési biztosítékot elveszti és felelős a szerződéskötés meghiúsulásából az NFA-t ért károkért, továbbá viselni köteles az NFA ebből fakadó költségeit. Az árverési jegyzőkönyv átvétele értesítésnek minősül.”
