@@ -6,4 +6,6 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1173/2015. (III. 24.) Korm. határozathoz
+1. melléklet az 1173/2015. (III. 24.) Korm. határozathoz[^2]
+
+[^2]: Az 1. melléklet az 1716/2015. (X. 6.) Korm. határozat 1. pontjával megállapított szöveg.
