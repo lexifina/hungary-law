@@ -66,6 +66,6 @@
 
 | 10. | Tankönyvjegyzékre történő felvételi kérelem benyújtása címenként | 5 500 Ft |
 
-3. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^22]
+3. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^23]
 
-[^22]: A 3. melléklet a 21/2015. (IV. 17.) EMMI rendelet 12. § i) pontja szerint módosított szöveg.
+[^23]: A 3. melléklet a 21/2015. (IV. 17.) EMMI rendelet 12. § i) pontja szerint módosított szöveg.
