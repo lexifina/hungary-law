@@ -1,8 +1,8 @@
-## 31. § A fejezetet irányító szerv a támogatás szabályszerű felhasználását a támogatás biztosításáról szóló megállapodásban meghatározott gyakorisággal, de legalább a projektmegvalósítás végén ellenőrzi. A fejezetet irányító szerv az ellenőrzési feladatát a közreműködő szervezet bevonásával is elláthatja.
+## 31. §[^84] A fejezetet irányító szerv a támogatás szabályszerű felhasználását a 30. § (2) bekezdése szerinti szerződésben meghatározott gyakorisággal, de legalább a projekt pénzügyi befejezésekor ellenőrzi. A fejezetet irányító szerv az ellenőrzési feladatát az irányító hatóság, illetve a közreműködő szervezet bevonásával is elláthatja.
 
-## V. Fejezet
+## V. Fejezet[^85]
 
-## ELŐIRÁNYZATONKÉNTI ELJÁRÁSI ÉS HATÁSKÖRI SZABÁLYOK
+## ELŐIRÁNYZATONKÉNTI HATÁSKÖRI SZABÁLYOK
 
 32. § (1) Az I. Nemzeti Fejlesztési Terv előirányzat-maradványai (XIX. fejezet 2. cím 1. alcím), a Nemzeti Stratégiai Referenciakeret előirányzatai (XIX. fejezet 2. cím 4. alcím), valamint a 2014–2020 közötti kohéziós politikai operatív programok előirányzatai (XIX. fejezet 2. cím 9. alcím) vonatkozásában – a (2)–(4) bekezdésben meghatározott kivétellel –
 
@@ -12,7 +12,7 @@ b) pénzügyi ellenjegyző: az OP IH gazdasági vezetője vagy az általa írás
 
 c) teljesítés igazoló: az OP IH vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetében a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^6] érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetében a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^86] érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetében a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetében a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
@@ -24,11 +24,11 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^7] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^87] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-(3) A Végrehajtás Operatív Program előirányzat (XIX. fejezet 2. cím 4. alcím 22. jogcímcsoport), valamint a Koordinációs OP (XIX. fejezet 2. cím 9. alcím 7. jogcímcsoport) vonatkozásában
+(3)[^88] A Végrehajtás Operatív Program előirányzat (XIX. fejezet 2. cím 4. alcím 22. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
@@ -36,7 +36,7 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^8] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^89] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
@@ -52,6 +52,9 @@ d) érvényesítő: az OP IH vezetője vagy az általa írásban kijelölt szem�
 
 e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy.
 
-[^6]: A 32. § (1) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^7]: A 32. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^8]: A 32. § (3) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^84]: A 31. § a 287/2015. (X. 6.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^85]: Az V. fejezet címe a 287/2015. (X. 6.) Korm. rendelet 31. § 13. pontja szerint módosított szöveg.
+[^86]: A 32. § (1) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^87]: A 32. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^88]: A 32. § (3) bekezdés nyitó szövegrésze a 287/2015. (X. 6.) Korm. rendelet 31. § 14. pontja szerint módosított szöveg.
+[^89]: A 32. § (3) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.

@@ -1,17 +1,27 @@
-23. § (1) Önerő-támogatásban a közszférához tartozó szervezetek közül
+23. §[^67] (1) Önerő-támogatásban a közszféra szervezetek közül
 
-a) a központi költségvetési szerv és a nem költségvetési szervként működő közszférához tartozó szervezet kedvezményezett,
+a) a központi költségvetési szerv,
 
-b) a megyei önkormányzat és a regionális fejlesztési ügynökség, és
+b) a nem költségvetési szervként működő közszféra szervezet kedvezményezett,
 
-c) a helyi önkormányzat és az önkormányzati társulás
+c) a megyei önkormányzat,
 
-részesülhet az európai uniós forrásra vonatkozó támogatói döntéssel rendelkező projektje megvalósításához.
+d) a regionális fejlesztési ügynökség,
 
-(2) Központi költségvetési szerv részére a 22. § b) és c) pontja, valamint a 2009. január 1-je után benyújtott pályázatok esetében a 22. § a) pontja szerinti önerő téríthető meg.
+e) a helyi önkormányzat és
 
-(3) Önkormányzat, önkormányzati társulás vagy nem költségvetési szervként működő közszférához tartozó szervezet kedvezményezett részére a 4/2011. (I. 28.) Korm. rendelet 4. § d) és e) pontja szerinti döntés erre vonatkozó rendelkezése alapján téríthető meg a 22. § szerinti önerő.
+f) az önkormányzati társulás
 
-(4) A nem költségvetési szervként működő közszférához tartozó szervezet kedvezményezett részére a 22. § c) pontja szerinti önerő akkor téríthető meg, ha a megtérülő projektköltségre eső bevétel nem a közszférához tartozó szervezet kedvezményezettnél, hanem a központi költségvetés bevételeként jelenik meg.
+## részesülhet az európai uniós forrásra vonatkozó támogatási döntéssel rendelkező projektje megvalósításához.
 
-(5) Ha az (1) bekezdés szerinti szervezet a pályázat során az önerő rendelkezésére állásáról nyilatkozott, az önerő e rendelet szerinti megtérítésének előfeltétele annak igazolása, hogy a korábban igazolt önerő a közszférához tartozó szervezet kedvezményezettnek fel nem róható okból nem, vagy csak részlegesen áll rendelkezésre.
+(2) Központi költségvetési szerv részére a 22. § (1) bekezdés b) és c) pontja, továbbá a 2009. január 1. után benyújtott pályázat esetén a 22. § (1) bekezdés a) pontja szerinti önerő téríthető meg.
+
+(3) Helyi önkormányzat, megyei önkormányzat, önkormányzati társulás vagy nem költségvetési szervként működő közszféra szervezet kedvezményezett részére a 4/2011. (I. 28.) Korm. rendelet 4. § d) és e) pontja szerinti döntés erre vonatkozó rendelkezése alapján téríthető meg a 22. § (1) bekezdése szerinti önerő.
+
+(4) A nem költségvetési szervként működő közszféra szervezet kedvezményezett részére a 22. § (1) bekezdés c) pontja és a 22. § (2) bekezdése szerinti önerő akkor téríthető meg, ha a megtérülő projektköltségre eső bevétel nem a közszféra szervezet kedvezményezettnél, hanem a központi költségvetés bevételeként jelenik meg.
+
+(5) Az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerinti, derogációs kötelezettséggel érintett projektek végrehajtásához kapcsolódóan a 22. § (2) bekezdése szerinti önerő a közszféra szervezet kedvezményezett részére a 272/2014. (XI. 5.) Korm. rendelet 5. § (2) bekezdés a) pontja szerinti döntés erre vonatkozó rendelkezése alapján megtéríthető.
+
+(6) Ha az (1) bekezdés szerinti közszféra szervezet a pályázat során az önerő rendelkezésre állásáról nyilatkozott, az önerő e rendelet szerinti megtérítésének előfeltétele annak igazolása, hogy a korábban igazolt önerő a közszféra szervezet kedvezményezettnek fel nem róható okból nem, vagy csak részlegesen áll rendelkezésre.
+
+[^67]: A 23. § a 287/2015. (X. 6.) Korm. rendelet 16. §-ával megállapított szöveg.

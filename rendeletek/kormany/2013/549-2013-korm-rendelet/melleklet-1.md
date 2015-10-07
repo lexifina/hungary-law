@@ -1,76 +1,101 @@
-## 55. §[^40]
+## 55. §[^148] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 287/2015. (X. 6.) Korm. rendelettel [a továbbiakban: 287/2015. (X. 6.) Korm. rendelet] megállapított rendelkezéseit a 287/2015. (X. 6.) Korm. rendelet hatálybalépésekor[^149] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^41]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^150]
 
 Kezelő szervi kijelölés
 
 |  | A | B |
 
-| 1 | Operatív program | Kezelő szerv |
+| 1. | Előirányzat | Kezelő szerv |
 
-| 2 | Gazdaságfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 2. | Gazdaságfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 3 | Környezet és Energia Operatív Program | energiapolitikáért felelős miniszter |
+| 3. | Környezet és Energia Operatív Program | energiapolitikáért felelős miniszter |
 
-| 4 | Közlekedés Operatív Program | közlekedésért felelős miniszter |
+| 4. | Közlekedés Operatív Program | közlekedésért felelős miniszter |
 
-| 5 | Dél-alföldi Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 5. | Dél-Alföldi Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 6 | Dél-dunántúli Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 6. | Dél-Dunántúli Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 7 | Észak-alföldi Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 7. | Észak-Alföldi Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 8 | Észak-magyarországi Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 8. | Észak-Magyarországi Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 9 | Közép-dunántúli Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 9. | Közép-Dunántúli Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 10 | Nyugat-dunántúli Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 10. | Nyugat-Dunántúli Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 11 | Közép-magyarországi Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 11. | Közép-Magyarországi Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 12 | Társadalmi Megújulás Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 12. | Társadalmi Megújulás Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 13 | Társadalmi Infrastruktúra Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 13. | Társadalmi Infrastruktúra Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 14 | EGT Finanszírozási Mechanizmus és Norvég Finanszírozási Mechanizmus | európai uniós források felhasználásáért felelős miniszter |
+| 14. | Végrehajtás Operatív Program | európai uniós források felhasználásáért felelős miniszter |
 
-| 15 | Svájci–Magyar Együttműködési Program | európai uniós források felhasználásáért felelős miniszter |
+| 15. | Államreform Operatív Program | európai uniós források felhasználásáért felelős miniszter |
 
-| 16 | Regionális Fejlesztés Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 16. | Elektronikus Közigazgatás Operatív Program | európai uniós források felhasználásáért felelős miniszter |
 
-| 17 | Gazdasági és Vállalkozásfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 17. | EGT Finanszírozási Mechanizmus és Norvég Finanszírozási Mechanizmus | európai uniós források felhasználásáért felelős miniszter |
 
-| 18 | Környezetvédelem és Infrastruktúra Operatív Program | fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért felelős miniszter |
+| 18. | Svájci-Magyar Együttműködési Program | európai uniós források felhasználásáért felelős miniszter |
 
-| 19 | Humánerőforrás-fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 19. | ETE határmenti programok 2014–2020 | európai uniós források felhasználásáért felelős miniszter |
 
-| 20 | Agrár- és Vidékfejlesztési Operatív Program | agrár-vidékfejlesztésért |
+| 20. | Területi Együttműködés | európai uniós források felhasználásáért felelős miniszter |
 
-| 21 | Gazdaságfejlesztési és Innovációs Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 21. | Regionális Fejlesztés Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 22 | Versenyképes Közép-Magyarország Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 22. | Gazdasági Versenyképesség Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 23 | Terület- és Településfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter |
+| 23. | Környezetvédelem és Infrastruktúra Operatív Program | fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért felelős miniszter |
 
-| 24 | Integrált Közlekedésfejlesztési Operatív Program | közlekedésért felelős miniszter |
+| 24. | Humánerőforrás-fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 25 | Környezet és Energetikai Hatékonysági Operatív Program | energiapolitikáért felelős miniszter |
+| 25. | Agrár- és Vidékfejlesztési Operatív Program | agrár-vidékfejlesztésért felelős miniszter |
 
-| 26 | Emberi Erőforrás Fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 26. | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | európai uniós források felhasználásáért felelős miniszter |
 
-| 27 | Uniós Programok ÁFA fedezete előirányzat | agrár-vidékfejlesztésért felelős miniszter |
+| 27. | Gazdaságfejlesztési és Innovációs Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 28 | Uniós programok árfolyam-különbözete előirányzat | agrár-vidékfejlesztésért felelős miniszter |
+| 28. | Versenyképes Közép-Magyarország Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 29 | Egyéb EU által nem térített kiadások előirányzat | agrár-vidékfejlesztésért felelős miniszter |
+| 29. | Terület- és Településfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 30 | Új Magyarország Vidékfejlesztési Program (II. NVT) előirányzat | Mezőgazdasági és Vidékfejlesztési Hivatal |
+| 30. | Integrált Közlekedésfejlesztési Operatív Program | közlekedésért felelős miniszter |
 
-| 31 | Halászati Operatív Program előirányzat | Mezőgazdasági és Vidékfejlesztési Hivatal |
+| 31. | Környezeti és Energiahatékonysági Operatív Program | energiapolitikáért felelős miniszter |
 
-| 32 | 2014–2020 Új Vidékfejlesztési Program előirányzat | Mezőgazdasági és Vidékfejlesztési Hivatal |
+| 32. | Rászoruló Személyeket Támogató Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 33 | SAPARD-támogatásból megvalósuló programok előirányzat | agrár-vidékfejlesztésért felelős miniszter |
+| 33. | Emberi Erőforrás Fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-[^40]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: Az 1. melléklet a 194/2014. (VII. 31.) Korm. rendelet 5. §-ával megállapított, a 204/2014. (VIII. 14.) Korm. rendelet 2. §-a, a 215/2014. (VIII. 27.) Korm. rendelet 5. §-a, a 221/2014. (IX. 4.) Korm. rendelet 795. §-a szerint módosított szöveg.
+| 34. | Uniós Programok ÁFA fedezete | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+
+| 35. | Uniós programok árfolyam-különbözete | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+
+| 36. | Egyéb EU által nem térített kiadások | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+
+| 37. | Új Magyarország Vidékfejlesztési Program (II. NVT) | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+
+| 38. | Halászati Operatív Program | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+
+| 39. | Vidékfejlesztési Program | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+
+| 40. | Magyar Halgazdálkodási Operatív Program | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+
+| 41. | SAPARD-támogatásból megvalósuló programok | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+
+| 42. | EQUAL Közösségi kezdeményezés | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+
+| 43. | INTERREG Közösségi kezdeményezés programjai | európai uniós források felhasználásáért felelős miniszter |
+
+| 44. | ISPA/KA Kohéziós Alap támogatásból megvalósuló közlekedési projektek | közlekedésért felelős miniszter |
+
+| 45. | ISPA/KA Kohéziós Alap támogatásból megvalósuló környezetvédelmi projektek | energiapolitikáért felelős miniszter |
+
+[^148]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 287/2015. (X. 6.) Korm. rendelet 28. §-a iktatta be.
+[^149]: A hatálybalépés napja 2015. október 7.
+[^150]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított szöveg.

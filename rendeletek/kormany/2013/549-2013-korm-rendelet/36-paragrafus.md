@@ -1,4 +1,4 @@
-## 10. A 2004–2006. programozási időszakban a Kohéziós Alapból származó támogatásokhoz kapcsolódó költségvetési előirányzatok eljárási és hatásköri szabályai
+## 10. [^95] A 2004–2006. programozási időszakban a Kohéziós Alapból származó támogatásokhoz kapcsolódó költségvetési előirányzatok hatásköri szabályai
 
 ## 36. § A Kohéziós Alap támogatásból megvalósuló projektek előirányzatai (XIX. fejezet 2. cím 3. alcím) vonatkozásában
 
@@ -11,3 +11,5 @@ c) teljesítés igazoló: a közreműködő szervezet vezetője vagy az általa 
 d) érvényesítő: a közreműködő szervezet vezetője által írásban kijelölt személy,
 
 e) utalványozó: a KEOP IH vezetője vagy az általa írásban kijelölt személy.
+
+[^95]: A 10. alcím címe a 287/2015. (X. 6.) Korm. rendelet 31. § 15. pontja szerint módosított szöveg.

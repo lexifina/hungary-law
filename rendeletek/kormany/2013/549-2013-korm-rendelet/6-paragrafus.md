@@ -1,6 +1,6 @@
 6. § (1) Az európai uniós forrást tartalmazó előirányzatok társfinanszírozáson felüli felhasználása a következő esetekben lehetséges:
 
-a) a 22. § a) és b) pontja szerinti önerő biztosítása,
+a)[^22] a 22. § (1) bekezdés a) és b) pontja szerinti önerő biztosítása,
 
 b) a részben európai uniós forrás terhére jóváhagyott programok, projektek Európai Bizottság felé el nem számolható kiadásainak finanszírozása,
 
@@ -10,10 +10,15 @@ d) a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési 
 
 e) európai uniós forrás terhére jóváhagyott programok, projektek szabálytalansági esetekből adódó, Magyarországot terhelő európai bizottsági követelések kiegyenlítése abban az esetben, ha az összeg nem terhelhető át a kedvezményezettekre és átalányon alapuló korrekcióval került megállapításra,
 
-f) részben vagy egészben európai uniós forrás terhére jóváhagyott programok, projektek Európai Bizottság felé el nem számolható, le nem vonható általános forgalmi adó összegének kiegyenlítése,
+f)[^23] részben vagy egészben európai uniós forrás terhére jóváhagyott programok, projektek – ide nem értve az agrár-vidékfejlesztési célú előirányzatok programjait – Európai Bizottság felé el nem számolható, le nem vonható általános forgalmi adó összegének kiegyenlítése,
 
-g) a 4/2011. (I. 28.) Korm. rendelet 4. § d) és e) pontja szerinti döntés erre vonatkozó rendelkezése alapján a közszférához tartozó szervezet kedvezményezett részére megtérítendő – a külföldi devizában megkötött vállalkozási szerződés keretében végrehajtott pénzügyi, finanszírozási tranzakciók lebonyolítása során a szállítónál realizált – árfolyamveszteség finanszírozása.
+g)[^24] a 4/2011. (I. 28.) Korm. rendelet 4. § d) és e) pontja szerinti döntés erre vonatkozó rendelkezése alapján a közszféra szervezet kedvezményezett részére megtérítendő – a külföldi devizában megkötött vállalkozási szerződés keretében végrehajtott pénzügyi, finanszírozási tranzakciók lebonyolítása során a szállítónál realizált – árfolyamveszteség finanszírozása.
 
-(2) Az előirányzatoknak az (1) bekezdés b)–e) pontja szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés b) és c) pontja szerinti esetekben projektenként vagy összesen eléri a 300 millió forintot, azok felhasználásához az államháztartásért felelős miniszter jóváhagyása szükséges.
+(2)[^25] Az előirányzatoknak az (1) bekezdés b)–e) pontja szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés b) és c) pontja szerinti esetekben projektenként eléri a 300 millió forintot, azok felhasználásához az államháztartásért felelős miniszter jóváhagyása szükséges.
 
 (3) Ha az (1) bekezdés szerinti kifizetések az európai uniós támogatás terhére elszámolhatóvá válnak, a teljesített kifizetésekre jutó bevételeket azokra a költségvetési előirányzatokra kell teljesíteni, amelyekről a kifizetések teljesültek.
+
+[^22]: A 6. § (1) bekezdés a) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 3. pontja szerint módosított szöveg.
+[^23]: A 6. § (1) bekezdés (f) pontja a 287/2015. (X. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^24]: A 6. § (1) bekezdés g) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 4. pontja szerint módosított szöveg.
+[^25]: A 6. § (2) bekezdése a 287/2015. (X. 6.) Korm. rendelet 31. § 2. pontja szerint módosított szöveg.

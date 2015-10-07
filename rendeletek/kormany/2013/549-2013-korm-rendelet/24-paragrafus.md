@@ -1,10 +1,10 @@
-24. § (1) A közszférához tartozó szervezet kedvezményezett önerő-támogatást a pályázati kiírásban meghatározott módon kérhet.
+24. § (1)[^68] A közszféra szervezet kedvezményezett önerő-támogatást a felhívásban meghatározott módon kérhet.
 
-(2) Ha a pályázati kiírás az önerő-támogatás vonatkozásában nem tartalmaz rendelkezést, az önerő-támogatást a közszférához tartozó szervezet kedvezményezett – a költségvetési támogatás indokait részletesen bemutató és számszerűsített, legkésőbb az európai uniós támogatási döntésről szóló értesítés kézhezvételét követő tíz napon belül benyújtott – kérelemmel kezdeményezheti.
+(2)[^69] Ha a felhívás az önerő-támogatás vonatkozásában nem tartalmaz rendelkezést, az önerő-támogatást a közszféra szervezet kedvezményezett – az önerő-támogatás indokait részletesen bemutató és számszerűsített, legkésőbb az európai uniós támogatási döntésről szóló értesítés kézhezvételét követő tíz napon belül benyújtott – kérelemmel kezdeményezheti.
 
 (3) A (2) bekezdés szerinti kérelem tartalmazza
 
-a) a közszférához tartozó szervezet kedvezményezett nevét,
+a)[^70] a közszféra szervezet kedvezményezett nevét,
 
 b) központi költségvetési szerv esetén az alapító okirat másolatát,
 
@@ -17,3 +17,7 @@ e) a projekt elszámolható összköltségét,
 f) a projekt pénzügyi tervét, és
 
 g) a kért önerő-támogatás összegét és évenkénti ütemezését.
+
+[^68]: A 24. § (1) bekezdése a 287/2015. (X. 6.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^69]: A 24. § (2) bekezdése a 287/2015. (X. 6.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^70]: A 24. § (3) bekezdés a) pontja a 287/2015. (X. 6.) Korm. rendelet 30. § 17. pontja szerint módosított szöveg.

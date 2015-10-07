@@ -8,8 +8,11 @@ b) Közös érdekeket célzó intézkedések (III. tengely);
 
 c) Technikai segítségnyújtás (V. tengely).
 
-(3) A támogatás a kedvezményezettek felé történő kifizetése a végső kifizetést teljesítő lebonyolító szerven keresztül valósul meg.
+(3)[^57] A támogatás kedvezményezettek részére történő kifizetése a végső kifizetést teljesítő mezőgazdasági és vidékfejlesztési támogatási szerven keresztül valósul meg.
 
 (4) Az előirányzat kedvezményezettjei költségvetési szervek, kutatóintézetek, gazdasági társaságok, szövetkezetek, egyéni vállalkozók, érdekvédelmi szervezetek, egyesületek, illetve természetes személyek, aki az egyes támogatási célok megvalósításának részletes szabályairól szóló jogszabályoknak megfelel és a támogatásra való jogosultságát a mezőgazdasági és vidékfejlesztési támogatási szerv határozatban állapította meg.
 
-(5) Az előirányzatból költségvetési támogatás pályázati úton, illetve egyedi döntéssel nyújtható.
+(5)[^58]
+
+[^57]: A 21/E. § (3) bekezdése a 287/2015. (X. 6.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^58]: A 21/E. § (5) bekezdését a 287/2015. (X. 6.) Korm. rendelet 31. § 9. pontja hatályon kívül helyezte.

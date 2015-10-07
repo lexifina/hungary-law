@@ -1,0 +1,13 @@
+## 40/A. §[^110] A Rászoruló Személyeket Támogató OP (RSZTOP) előirányzata (XIX. fejezet 2. cím 6. alcím 7. jogcímcsoport) vonatkozásában
+
+a) kötelezettségvállaló: az OP IH vezetője vagy az általa írásban kijelölt személy,
+
+b) pénzügyi ellenjegyző: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy,
+
+c) teljesítés igazoló: az OP IH vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet vezetője vagy az általa írásban kijelölt személy,
+
+d) érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy,
+
+e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy.
+
+[^110]: A 40/A. §-t a 287/2015. (X. 6.) Korm. rendelet 23. §-a iktatta be.
