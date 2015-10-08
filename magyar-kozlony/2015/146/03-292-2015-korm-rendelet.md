@@ -1,0 +1,381 @@
+# A Kormány 292/2015. (X. 8.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 146. szám, 2015. október 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/77cf86d6245f51be814258740d42b1cbee87d066/dokumentumok/0cb9c72564ebd8aaa06cf87bfda2451ca3b283fa/letoltes)
+
+---
+
+A Kormány 292/2015. (X. 8.) Korm. rendelete
+a levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet módosításáról
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 24. pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A levegő védelméről szóló 306/2010. (XII. 23.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § 3. pontja helyébe
+a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„3. anyag: bármely kémiai elem és annak vegyületei, a radioaktív anyagok és a genetikailag módosított
+mikroorganizmusok és szervezetek kivételével;”
+2. §
+A Korm. rendelet 2. § 8. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„8. diffúz forrás: olyan levegőterhelést okozó tevékenység, kibocsátó felület vagy berendezés, amely nem minősül
+légszennyező pontforrásnak, továbbá a szabadban végzett tevékenység, amely légszennyezőanyag kibocsátással
+jár;”
+3. §
+A Korm. rendelet 2. §-a a következő 12a. ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„12a. helyhez kötött diffúz forrás hatásterülete: a vizsgált diffúz forrás körül lehatárolható azon legnagyobb terület,
+ahol a diffúz forrás által maximális kapacitáskihasználás, ennek hiányában jellemző üzemállapot mellett kibocsátott
+– műszaki becsléssel meghatározható – légszennyező anyag terjedése következtében a légszennyező diffúz
+forrás környezetében a talajközeli és magaslégköri meteorológiai jellemzők mellett, a füstfáklya tengelye alatt
+a vonatkoztatási időtartamra számított várható talajközeli levegőterheltség-változás
+
+a) az egyórás (PM
+
+esetében 24 órás) légszennyezettségi határérték 10%-ánál nagyobb,
+b) a terhelhetőség 20%-ánál nagyobb, vagy
+c) az egyórás (PM
+
+esetében 24 órás) maximális érték 80%-ánál nagyobb;”
+4. §
+A Korm. rendelet 2. § 13. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„13. helyhez kötött légszennyező forrás: levegőterhelést okozó vonalforrás, valamint az a levegőterhelést okozó
+pont-, vagy diffúz forrás, amely működése közben helyét nem változtatja meg;”
+5. §
+A Korm. rendelet 2. § 14. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„14. helyhez kötött pontforrás hatásterülete: a vizsgált pontforrás körül lehatárolható azon legnagyobb terület, ahol
+a pontforrás által maximális kapacitáskihasználás mellett kibocsátott légszennyező anyag terjedése következtében
+a légszennyező pontforrás környezetében a talajközeli és magaslégköri meteorológiai jellemzők mellett, a füstfáklya
+tengelye alatt a vonatkoztatási időtartamra számított várható talajközeli levegőterheltség-változás
+a) az egyórás (PM
+
+esetében 24 órás) légszennyezettségi határérték 10%-ánál nagyobb,
+b) a terhelhetőség 20%-ánál nagyobb, vagy
+c) az egyórás (PM
+
+esetében 24 órás) maximális érték 80%-ánál nagyobb;”
+6. §
+A Korm. rendelet 2. § 24. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„24. légszennyező pontforrás: az a levegőterhelést okozó forrás, amelynél a légszennyező anyag kibocsátási jellemzői
+(térfogatáram, kibocsátási koncentráció, hőmérséklet, nyomás) méréssel vagy a mérés megvalósításának gyakorlati
+akadályai miatt műszaki számítással egyértelműen meghatározhatók;”
+7. §
+A Korm. rendelet 2. §-a a következő 46. és 47. ponttal egészül ki:
+(E rendelet alkalmazásában:)
+„46. közintézmény: az állami vagy önkormányzati fenntartású, vagy a közszolgáltatás ellátására vonatkozó hatályos
+szerződéssel rendelkező intézmény;
+47. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet és a személyi
+jövedelemadóról szóló törvényben meghatározott mezőgazdasági őstermelő.”
+8. §
+A Korm. rendelet 4. §-a helyébe a következő rendelkezés lép:
+„4. § Tilos a légszennyezés, a diffúz forrás környezetvédelmi követelményeknek nem megfelelő működtetése miatt
+fellépő levegőterhelés, valamint a levegő lakosságot zavaró bűzzel való terhelése, továbbá a levegő olyan mértékű
+terhelése, amely légszennyezettséget okoz.”
+9. §
+A Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A levegővédelmi követelmények teljesülését a légszennyező forrás üzemelése során a hatásterületen biztosítani kell.”
+10. §
+A Korm. rendelet 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A bűz kibocsátással járó környezeti hatásvizsgálat köteles vagy egységes környezethasználati engedély köteles
+tevékenységek, illetve létesítmények esetében a bűzterhelőnek védelmi övezetet kell kialakítania.”
+11. §
+A Korm. rendelet 5. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A környezetvédelmi hatáskörében eljáró megyei kormányhivatal a védelmi övezet kijelölése során
+a (4) bekezdésben előírt 300 méternél kisebb távolságot is meghatározhat, amennyiben 300 méternél kisebb
+a hatásterület és valamennyi levegővédelmi követelmény teljesül.”
+12. §
+A Korm. rendelet 7. § (1) bekezdése helyébe a következő rendelkezés lép, és a 7. § a következő (1a) bekezdéssel
+egészül ki:
+„(1) Amennyiben a levegőterheltség a tervezett helyhez kötött légszennyező forrás hatásterületén az Országos
+Légszennyezettségi Mérőhálózat (a továbbiakban: OLM) regionális adatai alapján nem haladja meg az egészségügyi
+határértéket, a helyhez kötött légszennyező forrás létesítésére irányuló engedélyezési eljárásban a levegővédelmi
+
+követelményeket úgy szükséges meghatározni, hogy annak várható levegőterhelése ne eredményezze
+az egészségügyi határértékek túllépését.
+(1a) Amennyiben a levegőterheltség a tervezett helyhez kötött légszennyező forrás hatásterületén az OLM
+regionális adatai alapján meghaladja az egészségügyi határértéket, helyhez kötött légszennyező forrás akkor
+engedélyezhető, ha
+a) az engedélyes a légszennyező forrás hatásterületén az egészségügyi határértéket várhatóan meghaladó
+légszennyező anyag tekintetében, a levegőterheltségi szint szempontjából egyenértékű kibocsátás csökkentést
+biztosít,
+b) a légszennyező forrás létesítése következtében a levegőterhelés és a levegőterheltség szintje kisebb lesz, mint
+a légszennyező forrás létesítése előtti állapotban volt, vagy
+c) az engedélyes bizonyítja, hogy a légszennyező forrás hatásterületén a helyi mérésekkel megállapított alap
+levegőterheltség a légszennyező pontforrás kibocsátásával együtt sem haladja meg az éves légszennyezettségi
+határértéket.”
+13. §
+A Korm. rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Magyarország területén az országos légszennyezettség értékelése érdekében a levegőterheltségi szintet és
+a légszennyezettségi határértékek betartását az OLM vizsgálja.”
+14. §
+A Korm. rendelet 9. §-a a következő (1a) és (1b) bekezdésekkel egészül ki:
+„(1a) A Levegőtisztaság-védelmi Referenciaközpont (a továbbiakban: LRK) javaslatot tesz az OLM automata
+mérőállomásainak, a manuális mérési pontoknak és az éves mintavételi program mintavételi pontjainak a helyére,
+amelyet a környezetvédelemért felelős miniszter jóváhagy.
+(1b) A környezetvédelemért felelős miniszter az (1a) bekezdés szerinti helyek listáját közleményben teszi közzé.”
+15. §
+A Korm. rendelet 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Magyarország területén
+a) az OLM mérési rendszereinek (módszerek, berendezések) jóváhagyását,
+b) a mérések pontosságának biztosításához szükséges feladatokat,
+c) a vizsgálati módszerek elemzését,
+d) az adatok alapján a levegő minőségének rendszeres értékelését,
+e) a minőségbiztosítási programok koordinálását, és
+f) az információs önrendelkezési jogról és az információszabadságról szóló törvényben az adatkezelő, valamint
+a közadatok újrahasznosításáról szóló törvényben a közadatot kezelő közfeladatot ellátó szerv számára
+meghatározott feladatokat
+az LRK látja el.”
+16. §
+A Korm. rendelet 9. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Magyarország területén
+a) az OLM miniszter által kijelölt automata mérőállomásainak, mobil mérőegységeinek és manuális mintavételi
+pontjainak a levegő terheltségi szint és a helyhez kötött légszennyező források kibocsátásainak vizsgálatával,
+ellenőrzésével, értékelésével kapcsolatos szabályokról szóló miniszteri rendelet előírásainak megfelelő
+üzemeltetését,
+b) az OLM által vett minták laboratóriumi elemzését,
+c) az OLM éves mintavételi programjának végrehajtását,
+d) az OLM területi adatainak gyűjtését, elsődleges értékelését, az adatok LRK-nak történő továbbítását,
+e) az a)–d) pontok ellátásához szükséges informatikai és telekommunikációs rendszer folyamatos üzemeltetését, és
+f) a szmogriadóval kapcsolatos ügyeleti rendszer működtetését
+a környezetvédelmi hatáskörében eljáró megyei kormányhivatal látja el.”
+17. §
+A Korm. rendelet 9. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A levegőterheltségi szint adatai
+a) a folyamatosan mért kén-dioxid, nitrogén-dioxid, PM
+
+, PM
+2,5
+, ózon és szén-monoxid esetén legalább napi,
+a benzol által okozott levegőterheltségi szint – 12 hónap átlagértékeinek formájában megadott – adatai legalább
+háromhavi,
+
+b) az időszakosan mért ólom esetén – 12 hónap átlagértékeinek formájában megadva – legalább háromhavi, és
+c) az egyéb időszakos mérés esetén az értékelések éves
+frissítéssel kerülnek közzétételre.”
+18. §
+A Korm. rendelet 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A környezetvédelmi hatáskörében eljáró megyei kormányhivatal a hatáskörébe tartozó légszennyező forrás
+létesítése, teljesítménybővítése, élettartamát meghosszabbító felújítása, alkalmazott technológiájának váltása és
+működésének megkezdése esetén a levegővédelmi követelményeket – ha e rendelet másként nem rendelkezik –
+levegőtisztaság-védelmi engedélyben írja elő.”
+19. §
+A Korm. rendelet 22. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A környezetvédelmi hatáskörében eljáró megyei kormányhivatal a levegőtisztaság-védelmi előírásokat)
+„b) az a) pont alá nem tartozó esetekben létesítésre irányuló más hatósági engedélyezési eljárásban történő
+szakhatósági hozzájárulás kiadása vagy a levegőtisztaság-védelmi szakkérdés vizsgálata során, vagy”
+(a levegőminőségi tervben és az ózoncsökkentési programban foglaltakra való tekintettel, a környezeti hatásvizsgálati
+és az egységes környezethasználati engedélyezési eljárásról szóló jogszabály szerint meghatározott elérhető legjobb
+technika alapján állapítja meg.)
+20. §
+A Korm. rendelet 22. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A környezetvédelmi hatáskörében eljáró megyei kormányhivatal jogszabályban előírt határértéknél szigorúbb
+határértéket állapít meg, amennyiben a jogszabályban meghatározott határérték kevésbé szigorú, mint a hatályos
+elérhető legjobbtechnika-következtetésekben előírt kibocsátási szint.”
+21. §
+A Korm. rendelet 22. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A környezetvédelmi hatáskörében eljáró megyei kormányhivatal a 31. § (1) bekezdése szerinti levegőtisztaság-
+védelmi alapbejelentés 4. melléklet szerinti adattartalmához képest bekövetkezett változás miatt a működési
+engedélyt jogszabályváltozás esetén hivatalból, egyéb esetben kérelemre módosítja.”
+22. §
+A Korm. rendelet 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha a környezeti hatásvizsgálat köteles vagy egységes környezethasználati engedély köteles tevékenységhez
+kapcsolódó helyhez kötött légszennyező forrás létesítése esetén az OLM keretében nem áll rendelkezésre
+adat, a környezetvédelmi hatáskörében eljáró megyei kormányhivatal az engedélyezéshez szükséges alap
+levegőterheltség megállapítása vagy a légszennyezettségi határértékek betarthatóságának ellenőrzése érdekében
+a légszennyező forrás létesítésének kérelmezőjét a helyhez kötött légszennyező forrás hatásterületére vonatkozó
+levegőterheltségi és levegőterhelési mérési terv elkészítésére kötelezheti.”
+23. §
+A Korm. rendelet 25. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Helyhez kötött légszennyező pontforrás csak engedély birtokában létesíthető és üzemeltethető,
+az engedély iránti kérelmek tartalmi követelményeit az 5. melléklet tartalmazza. A létesítési engedélykérelem
+dokumentációját a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről
+szóló kormányrendelet alapján környezetvédelmi szakterület levegőtisztaság-védelmi részterületen szakértői
+jogosultsággal rendelkező szakértő készíti el.”
+24. §
+A Korm. rendelet 25. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az engedélyes a kérelemhez csatolt műszaki dokumentációval igazolja, hogy a műszaki megoldás megfelel
+az elérhető legjobb technika alapján meghatározott levegővédelmi követelményeknek. A környezeti hatásvizsgálat
+köteles vagy egységes környezethasználati engedély köteles tevékenységek esetén az engedély kiadásának
+feltételéül a 23. § szerint mérések elrendelhetők.”
+25. §
+A Korm. rendelet 26. § (4)–(7) bekezdése helyébe a következő rendelkezések lépnek:
+„(4) A (3) bekezdés hatálya alá nem tartozó, a 166/2006/EK európai parlamenti és tanácsi rendelet (E-PRTR)
+I. melléklete szerinti tevékenységek keretében működtetett diffúz légszennyező források működtetéséhez
+levegőtisztaság-védelmi engedély szükséges.
+
+(5) Az engedély iránti kérelem tartalmi követelményeit az 5. melléklet tartalmazza. Az engedélykérelem
+dokumentációját a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről
+szóló kormányrendelet alapján környezetvédelmi szakterület levegőtisztaság-védelmi részterületen szakértői
+jogosultsággal rendelkező szakértő készíti el.
+(6) Az engedély legalább a 6. mellékletben felsorolt levegővédelmi követelményeket tartalmazza.
+(7) A környezetvédelmi hatáskörében eljáró megyei kormányhivatal az egyes tevékenységek illékony szerves
+vegyület kibocsátásának korlátozásáról szóló jogszabály szerint az egyes diffúz forrásokra kibocsátási határértéket
+és levegővédelmi követelményeket állapít meg.”
+26. §
+A Korm. rendelet 36. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség jár el első fokon az átmeneti nemzeti
+tervben foglalt, a tüzelőberendezés legnagyobb megengedett kibocsátási mennyiségének meghatározásával
+kapcsolatos levegőtisztaság-védelmi hatósági ügyben.”
+27. §
+A Korm. rendelet a következő 38/A. §-sal egészül ki:
+„38/A. § (1) A rendelet hatálybalépését megelőzően engedélyezett, a bűz kibocsátással járó környezeti
+hatásvizsgálat köteles vagy egységes környezethasználati engedély köteles tevékenységek, illetve létesítmények
+esetében a bűzterhelőnek védelmi övezetet nem kell kialakítania.
+(2) Az (1) bekezdésben foglaltakat kell alkalmazni, ha a bűzterhelő az (1) bekezdés szerinti tevékenységek, illetve
+létesítmények esetében az engedély időbeli hatályának lejártakor a tevékenységet továbbra is folytatni kívánja,
+és a bűzkibocsátással járó engedélyezett tevékenység tekintetében a bűzkibocsátás növekedését eredményező
+változás nem következik be.”
+28. §
+A Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+29. §
+A Korm. rendelet 5. melléklete a 2. melléklet szerint módosul.
+30. §
+A Korm. rendelet 24. § (1) bekezdésében a„használatba vételéhez nem kell”szövegrész helyébe az„üzemeltetéséhez
+nem kell”szöveg lép.
+31. §
+A Korm. rendelet 33. § (2) bekezdésében az„éves jelentést” szövegrész helyébe az„éves levegőminőségi értékelést”
+szöveg lép.
+32. §
+A Korm. rendelet 33. § (3) bekezdésében az „éves jelentés” szövegrész helyébe az „éves levegőminőségi értékelés”
+szöveg lép.
+33. §
+A Korm. rendelet 35. § (1) bekezdés c) pontjában a„levegővédelmi terv”szövegrész helyébe a„levegőminőségi terv”
+szöveg lép.
+34. §
+A Korm. rendelet 36. § (1) bekezdésében az „– a (2)–(4) bekezdésben foglalt kivétellel –” szövegrész helyébe
+az„– a (2)–(5) bekezdésben foglalt kivétellel –”szöveg lép.
+35. §
+A Korm. rendelet 36. § (2) bekezdésében a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala”
+szövegrész helyébe a„megyei kormányhivatal környezetvédelmi hatáskörben eljáró járási hivatala”szöveg lép.
+36. §
+A Korm. rendelet 36. § (2) bekezdés b) pontjában az „a legfeljebb 140 kW
+th
+” szövegrész helyébe az „az összesen
+140 kW
+th
+-nál kisebb”szöveg lép.
+37. §
+A Korm. rendelet 36. § (2) bekezdés d) pontjában a „nem gazdasági tevékenység keretében végzett tevékenység”
+szövegrész helyébe a„nem gazdálkodó szervezet által végzett tevékenység”szöveg lép.
+38. §
+A Korm. rendelet 36. § (2) bekezdés e) pontjában a „nem gazdasági tevékenység keretében működő” szövegrész
+helyébe a„nem gazdálkodó szervezet által működtetett”szöveg lép.
+
+39. §
+Hatályát veszti a Korm. rendelet 34. § (5) bekezdése.
+40. §
+E rendelet
+a) 8. §-a, 13. és 14. §-a, 17. §-a, 31–33. §-a és 1. melléklete a környezeti levegő minőségéről és a Tisztább
+levegőt Európának elnevezésű programról szóló, 2008. május 21-i 2008/50/EK európai parlamenti és tanácsi
+irányelvnek,
+b) 1. §-a, 18. §-a és 34–38. §-a az ipari kibocsátásokról szóló, 2010. november 24-i 2010/75/EU európai
+parlamenti és tanácsi irányelvnek
+való megfelelést szolgálja.
+41. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 292/2015. (X. 8.) Korm. rendelethez
+„1. melléklet a 306/2010. (XII. 23.) Korm. rendelethez
+A levegőminőségi terv tartalmi követelményei
+1. A határértéket meghaladó légszennyezettség helyének meghatározása:
+1.1. zóna,
+1.2. város (térkép),
+1.3. a szennyezettséget megállapító mérőállomás vagy az időszakos mérések helye (térkép, földrajzi koordináták).
+2. Általános jellemzők:
+2.1. a zóna típusa,
+2.2. a terhelt terület nagysága (km2) és a szennyezésnek kitett lakosság becsült száma,
+2.3. meteorológiai jellemzők,
+2.4. a topográfiára vonatkozó adatok, a földfelszín jellemzői,
+2.5. a zónában lévő védendő objektumok típusa, egyéb jellemzői.
+3. Az intézkedések végrehajtásáért felelős állami szervezet neve és címe, illetve az intézkedés végrehajtását önként
+vállaló helyi önkormányzat neve és címe.
+4. A szennyezettség jellemzői és értékelése:
+4.1. az előző évek levegőminőségi jellemzői (a beavatkozásokat megelőzően),
+4.2. a program során mért levegőminőségi jellemzők,
+4.3. a levegőminőség értékelésének módszerei.
+5. A légszennyezettség oka:
+5.1. a szennyezést okozó fő kibocsátó források, tevékenységek jegyzéke (térkép),
+5.2. a kibocsátások összes mennyisége (tonna/év),
+5.3. a más zónákból származó, a légszennyezettségi állapotot befolyásoló kibocsátások jellemzői.
+6. A helyzet elemzése:
+6.1. a túllépésért felelős tényezők (pl. közlekedés, beleértve a határokon átnyúló közlekedést is; másodlagos
+szennyezőanyagok keletkezése a légkörben; transzmisszió, beleértve az országhatáron átterjedő
+légszennyezést, képződés) jellemzői,
+6.2. a levegőminőség javítására irányuló lehetséges intézkedések felsorolása.
+7. A javításra irányuló azon intézkedések és programok bemutatása, amelyeket a levegőminőségi terv készítése előtt
+végrehajtottak:
+7.1. helyi, regionális, országos, nemzetközi intézkedések,
+7.2. ezen intézkedések megfigyelt hatásai.
+8. A légszennyezettség csökkentése érdekében szükséges azon intézkedések és programok részletei, amelyeket
+e rendelet hatálybalépését követően fogadtak el:
+
+8.1. a programban lefektetett összes intézkedés felsorolása és leírása,
+8.2. a végrehajtás ütemterve,
+8.3. a légszennyezettség tervezett javulása eléréséhez várhatóan szükséges idő becslése.
+9. A javításra irányuló, tervezett intézkedések és programok valószínűsíthető költségei és forrásai.
+10. A hosszú távon tervezett intézkedések és programok részletei.
+11. Az ezen mellékletben kért információk kiegészítéséhez felhasznált publikációk, dokumentumok, munkák jegyzéke.
+12. A következő jogszabályok végrehajtására vonatkozó kiegészítő információ:
+12.1. A közúti járművek műszaki megvizsgálásáról szóló, és a közúti járművek forgalomba helyezésének és
+forgalomban tartásának műszaki feltételeiről szóló miniszteri rendelet,
+12.2. a benzin tárolásából, elosztásából és töltőállomáson a gépjármű feltöltéséből származó illékony szerves
+vegyület (VOC) csökkentéséről szóló miniszteri rendelet,
+12.3. a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló
+kormányrendelet,
+12.4. a nem közúti mozgó gépekbe építendő belső égésű motorok gáznemű és részecskékből álló
+szennyezőanyag-kibocsátásának korlátozásáról szóló miniszteri rendelet,
+12.5. a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendelet,
+12.6. az egyes tevékenységek illékony szerves vegyület kibocsátásának korlátozásáról szóló miniszteri rendelet,
+12.7. az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendelet,
+12.8. a hulladékégetés műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai
+kibocsátási határértékeiről szóló miniszteri rendelet,
+12.9. az 50 MW
+th
+és annál nagyobb teljes névleges bemenő hőteljesítményű tüzelőberendezések működési
+feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló miniszteri rendelet,
+12.10. az egyes légszennyező anyagok összkibocsátási határértékeiről szóló miniszteri rendelet,
+12.11. az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának
+szabályozásáról szóló kormányrendelet,
+12.12. a villamos energiáról szóló törvény egyes rendelkezéseinek végrehajtásáról, a földgázellátásról szóló törvény
+rendelkezéseinek végrehajtásáról, a távhőszolgáltatásról szóló törvény végrehajtásáról és az épületek
+energetikai jellemzőinek tanúsításáról szóló kormányrendeletek.
+13. A levegőszennyezés csökkentését célzó alábbi intézkedések megnevezése:
+13.1. a helyhez kötött forrásokból származó kibocsátás csökkentése azáltal, hogy a szennyező anyagot kibocsátó,
+kis és közepes méretű helyhez kötött tüzelőberendezéseket (ideértve a biomassza eltüzelésére szolgálókat is)
+kibocsátáscsökkentő berendezéssel látják el, vagy pedig kicserélik azokat;
+13.2. a környezetbarát közbeszerzésről szóló kézikönyvvel összhangban a tüzelőanyagoknak, valamint égető
+berendezéseknek a hatóságok által történő, a kibocsátás csökkentését célzó közbeszerzése, ideértve
+az alábbiak beszerzését:
+13.2.1. alacsony kibocsátású helyhez kötött tüzelőberendezések,
+13.2.2. alacsony kibocsátást eredményező tüzelőanyagok helyhez kötött források számára;
+13.3. alacsony kibocsátású tüzelőanyagok használatának biztosítása a kis-, közepes- és nagyléptékű helyhez kötött
+forrásoknál, valamint a mozgó forrásoknál;
+13.4. a levegőszennyezésnek a 2008/1/EK irányelvben meghatározott engedélyezési rendszeren, a 2001/80/EK
+irányelvben meghatározott nemzeti terveken, valamint gazdasági eszközök – például adók, díjak vagy
+kibocsátáskereskedelem – alkalmazásán keresztül történő csökkentésére irányuló intézkedések;
+13.5. adott esetben a gyermekek és más érzékeny népességcsoportok egészségének védelmére irányuló
+intézkedések.
+14. A közlekedési eredetű levegőszennyezés csökkentését célzó alábbi intézkedések megnevezése:
+14.1. a járművekből származó kibocsátások csökkentése érdekében települési szintű fenntartható mobilitási tervek
+(SUMP) készítése, amely többek között az alábbi intézkedéseket foglalhatja magába:
+14.1.1. a járművek kibocsátáscsökkentő berendezéssel való felszerelése,
+14.1.2. a közlekedésből eredő kibocsátásoknak a forgalom megtervezésén és irányításán keresztül történő
+korlátozására irányuló intézkedések (többek között közlekedési dugódíj, differenciált parkolási díj
+vagy egyéb gazdasági ösztönzők,„alacsony kibocsátási zóna”létrehozása),
+14.1.3. kevésbé szennyező közlekedési módok felé történő elmozdulásra ösztönző intézkedések;
+14.2. a környezetbarát közbeszerzésről szóló kézikönyvvel összhangban a közúti járműveknek és üzemanyagoknak
+a hatóságok által történő, a kibocsátás csökkentését célzó közbeszerzése, ideértve az alábbiak beszerzését:
+
+14.2.1. új járművek, ideértve az alacsony károsanyag-kibocsátású járműveket,
+14.2.2. tisztább járművek a közlekedési szolgáltatásokban,
+14.2.3. alacsony kibocsátású tüzelőanyagok mozgó források számára.”
+2. melléklet a 292/2015. (X. 8.) Korm. rendelethez
+1. A Korm. rendelet 5. melléklet 13. pontja helyébe a következő rendelkezés lép:
+„13. a hatásterület lehatárolása, előzetes vizsgálati eljárás, környezeti hatásvizsgálati eljárás, EKHE-eljárás,
+környezetvédelmi felülvizsgálati eljárás, hulladékégetés esetén az érvényes szabvány szerinti vagy azzal
+egyenértékű számítással, egyéb esetben egyszerűsített számítással,”
+2. A Korm. rendelet 5. melléklete a következő 15. ponttal egészül ki:
+„15. a dokumentációt elkészítő szakértő engedélyének a száma.”
