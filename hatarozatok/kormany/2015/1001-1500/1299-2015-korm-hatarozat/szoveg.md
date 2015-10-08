@@ -10,11 +10,11 @@ c) megtörténik az MTK Városmajori Sporttelepének fejlesztése, a jelenlegi c
 
 2. felhívja a nemzetgazdasági minisztert és az emberi erőforrások miniszterét, hogy gondoskodjanak
 
-a) az 1. pont a) alpontja szerinti beruházás megvalósításához 2015. évben szükséges 960,0 millió forint,
+a)[^1] az 1. pont a) alpontja szerinti beruházás megvalósításához 2015. és 2016. évben szükséges 960,0 millió forint,
 
-b) az 1. pont b) alpontja szerinti beruházás megvalósításához 2015-ben szükséges 880,0 millió forint,
+b)[^2] az 1. pont b) alpontja szerinti beruházás megvalósításához 2015. évben szükséges 24,0 millió forint és 2016. évben szükséges 856,0 millió forint szükséges 880,0 millió forint,
 
-c) az 1. pont c) alpontja szerinti beruházás megvalósításához 2015-ben szükséges 400,0 millió forint, valamint 2016-ban szükséges 800,0 millió forint
+c)[^3] az 1. pont c) alpontja szerinti beruházás megvalósításához 2015. évben szükséges 22,0 millió forint és 2016. évben szükséges 1178,0 millió forint
 
 forrás rendelkezésre állásáról az egyes költségvetési években;
 
@@ -30,10 +30,14 @@ emberi erőforrások minisztere
 
 nemzetgazdasági miniszter
 
-Határidő: a 2015. évi források tekintetében: 2015. július 31.
+Határidő: a 2015. évi források tekintetében: a felmerülés ütemében,
 
-a 2016. évi források tekintetében: a 2016. évi központi költségvetés tervezése keretében
+a 2016. évi források tekintetében: a felmerülés ütemében[^4]
 
-3.[^1]
+3.[^5]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a) alpontja az 1734/2015. (X. 8.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont b) alpontja az 1734/2015. (X. 8.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
+[^3]: A 2. pont c) alpontja az 1734/2015. (X. 8.) Korm. határozat 10. pont c) alpontja szerint módosított szöveg.
+[^4]: Az 1734/2015. (X. 8.) Korm. határozat 10. pont d) alpontjával megállapított szöveg.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
