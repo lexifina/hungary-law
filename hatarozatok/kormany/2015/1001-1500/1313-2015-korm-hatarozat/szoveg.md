@@ -6,14 +6,16 @@ Felelős: belügyminiszter
 
 Határidő: folyamatos
 
-2. a nemzetgazdasági minisztert, hogy az 1. pont szerinti feladat teljesítése érdekében
+2.[^1] a nemzetgazdasági minisztert, hogy az 1. pont szerinti feladat teljesítése érdekében
 
 a) 292,2 millió forint egyszeri jelleggel, és
 
-b) 3271,9 millió forint tartós jelleggel
+b) 2707,8 millió forint tartós jelleggel
 
 történő biztosításáról a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára gondoskodjon.
 
 Felelős: nemzetgazdasági miniszter
 
-Határidő: 2015. július 31.
+Határidő: a felmerülés ütemében
+
+[^1]: A 2. pont az 1734/2015. (X. 8.) Korm. határozat 11. pontjával megállapított szöveg.
