@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1060-30
 | 2015-02-18 | 2015-1060-30-22.1 | 1060/2015. (II. 18.) Korm. határozat |
 | 2015-05-13 | 2015-1060-30-22.2 | 1298/2015. (V. 13.) Korm. határozat |
 | 2015-09-04 | 2015-1060-30-22.3 | 1579/2015. (IX. 4.) Korm. határozat |
+| 2015-10-08 | 2015-1060-30-22.4 | 1733/2015. (X. 8.) Korm. határozat |

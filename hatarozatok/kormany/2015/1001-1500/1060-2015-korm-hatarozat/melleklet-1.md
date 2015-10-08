@@ -8,11 +8,15 @@
 
 ## ac) a Miniszterelnökség koordinációs feladatot ellátó szervezeti egységei;
 
-## b) az ösztönző rendszer egységes elvárási és értékelési elveken nyugszik és célfeladat (a továbbiakban: célfeladat) formájában kerül meghatározásra az 1. mellékletnek megfelelően, azaz minden operatív program esetében a tervezett vállalt kifizetés és a tényleges kifizetés arányához (a továbbiakban: terv–tény arány) kötődik azzal, hogy 90%-os terv–tény arány teljesítése alatt nem történhet kifizetés az ösztönző rendszeren keresztül;
+## b)[^2] az ösztönző rendszer egységes elvárási és értékelési elveken nyugszik és célfeladat (a továbbiakban: célfeladat) formájában kerül meghatározásra az 1. mellékletnek megfelelően, azaz
 
-## c) a célfeladat eredményes teljesítéséhez kapcsolódó céljuttatás (a továbbiakban: céljuttatás) mértéke legfeljebb 8 hónapi, e Korm. határozat közzétételekor a célfeladatot teljesítő számára megállapított illetménynek megfelelő összeg;
+## ba) minden operatív program esetében a tervezett vállalt kifizetés és a tényleges kifizetés arányához (a továbbiakban: terv-tény arány) kötődik azzal, hogy 90%-os terv-tény arány teljesítése alatt nem történhet kifizetés az ösztönző rendszeren keresztül, vagy
 
-## d)[^1] a célfeladat teljesítésének mérése 2015-ben két vagy az érintett miniszter döntése alapján három alkalommal – május 31-én és december 15-én, illetve az érintett miniszter döntése alapján szeptember 30-án is – történik a terv-tény arány teljesítése alapján;
+## bb) december 15-ig történő teljesítés mérése esetén 100%-os uniós forrásfelhasználás megvalósulásával;
+
+## c)[^3] a célfeladat eredményes teljesítéséhez kapcsolódó céljuttatás (a továbbiakban: céljuttatás) mértéke legfeljebb 8 hónapi, a célfeladatot teljesítő számára megállapított, a d) pontban meghatározott mérés időpontok szerinti illetménynek megfelelő összeg;
+
+## d)[^4] a célfeladat teljesítésének mérése 2015-ben két, vagy az érintett miniszter döntése alapján három alkalommal – május 31-én, az érintett miniszter döntése alapján szeptember 30-án is, ezt követően december 15-ig – történik a terv-tény arány teljesítése alapján;
 
 ## e) a célfeladat értékelését a d) pont szerinti mérést követően az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszterek – az ab) alpont esetében a belügyminiszter – végzik el;
 
@@ -40,22 +44,29 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1060/2015. (II. 18.) Korm. határozathoz
+1. melléklet az 1060/2015. (II. 18.) Korm. határozathoz[^5]
 
 Ösztönző rendszer
 
 |  | Minisztériumok és háttérszervezetek, amelyek irányító hatósági, közreműködő szervezeti és projekt-végrehajtási feladatokat látnak el | Belügyminisztérium és a belügyminiszter irányítása, felügyelete alatti háttérintézmények | Miniszterelnökség uniós forrásfelhasználás területén koordinációs feladatot ellátó szervezeti egységei* |
 
-| Célfeladat | az éves kifizetési cél mérési időszakához igazodó kifizetési célok szerinti 100%-os teljesítése | a projekt támogatási szerződésében rögzített ütemezés szerinti kifizetés, projektzárás | NSRK kifizetési cél elérése |
+| Célfeladat | az éves kifizetési cél mérési időszakához igazodó kifizetési célok 100%-os teljesítése vagy 100%-os forrásfelhasználás | a projekt támogatási szerződésében rögzített ütemezés szerinti kifizetés, projektzárás | NSRK kifizetési cél elérése vagy 100%-os forrásfelhasználás |
 
-|  | célfeladat teljesítése (%) | adható összes évi céljuttatás mértékének meghatározásához figyelembe vett megállapított illetmény (hónap) | célfeladat teljesítése (%) | adható összes évi céljuttatás mértékének meghatározásához figyelembe vett megállapított illetmény (hónap) | célfeladat teljesítése (%) | adható összes évi céljuttatás mértékének meghatározásához figyelembe vett megállapított illetmény (hónap) |
+|  | 1. b) pont ba) alpontja szerinti célfeladat teljesítése (%) | adható összes évi céljuttatás mértékének meghatározásához figyelembe vett megállapított illetmény (hónap) | célfeladat teljesítése (%) | adható összes évi céljuttatás mértékének meghatározásához figyelembe vett megállapított illetmény (hónap) | 1. b) pont ba) alpontja szerinti célfeladat teljesítése (%) | adható összes évi céljuttatás mértékének meghatározásához figyelembe vett megállapított illetmény (hónap) |
 
-| 99–100 | 8 | 99–100 | 6 | 99–100 | 8 |
+|  | 99–100 | 8 | 99–100 | 6 | 99–100 | 8 |
 
-| 90–98 | 4 | 95–98 | 3 | 90–98 | 4 |
+|  | 90–98 | 4 | 95–98 | 3 | 90–98 | 4 |
 
-| 90 alatt | 0 | 95 alatt | 0 | 90 alatt | 0 |
+|  | 90 alatt | 0 | 95 alatt | 0 | 90 alatt | 0 |
 
-*A célfeladatot teljesítő számára megállapított illetmény alapján számított céljuttatás 30%-ához kapcsolódóan egyéni célkitűzést kell megállapítani.
+|  | 1. b) pont bb) alpontja szerinti célfeladat teljesítése | adható összes évi céljuttatás mértékének meghatározásához figyelembe vett megállapított illetmény (hónap) |  |  | 1. b) pont bb) alpontja szerinti célfeladat teljesítése | adható összes évi céljuttatás mértékének meghatározásához figyelembe vett megállapított illetmény (hónap) |
 
-[^1]: Az 1. pont d) alpontja az 1579/2015. (IX. 4.) Korm. határozat II. pontjával megállapított szöveg.
+|  | 100% | 8 |  |  | 100% | 8 |
+
+* A célfeladatot teljesítő számára megállapított illetmény alapján számított céljuttatás 30%-ához kapcsolódóan egyéni célkitűzést kell megállapítani.
+
+[^2]: Az 1. pont b) alpontja az 1733/2015. (X. 8.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1. pont c) alpontja az 1733/2015. (X. 8.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 1. pont d) alpontja az 1733/2015. (X. 8.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet az 1733/2015. (X. 8.) Korm. határozat 2. pontjával megállapított szöveg.
