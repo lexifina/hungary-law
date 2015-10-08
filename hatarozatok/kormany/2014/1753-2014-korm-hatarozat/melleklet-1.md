@@ -2,17 +2,17 @@
 
 ## a) Budapest Bozsik Stadion labdarúgó sportlétesítmény-fejlesztésre 5500,0 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. évben 2100,0 millió forint, a 2016. évben 3000,0 millió forint biztosítása szükséges;
 
-## b) zalaegerszegi labdarúgó sportlétesítmény-fejlesztésre 1250,0 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. évben összesen 750,0 millió forint biztosítása szükséges;
+## b)[^2] zalaegerszegi labdarúgó sportlétesítmény-fejlesztésre 1250,0 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. és 2016. évben összesen 750,0 millió forint biztosítása szükséges;
 
-## c) kaposvári labdarúgó sportlétesítmény-fejlesztésre 1061,0 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. évben összesen 501,0 millió forint biztosítása szükséges;
+## c)[^3] kaposvári labdarúgó sportlétesítmény-fejlesztésre 1061,0 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. és 2016. évben összesen 501,0 millió forint biztosítása szükséges;
 
-## d) békéscsabai labdarúgó sportlétesítmény-fejlesztésre 1125,0 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. évben összesen 565,0 millió forint biztosítása szükséges;
+## d)[^4] békéscsabai labdarúgó sportlétesítmény-fejlesztésre 1125,0 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. és 2016. évben összesen 565,0 millió forint biztosítása szükséges;
 
-## e) dunaújvárosi labdarúgó sportlétesítmény-fejlesztésre 3200,0 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. évben 2600,0 millió forint biztosítása szükséges;
+## e)[^5] dunaújvárosi labdarúgó sportlétesítmény-fejlesztésre 3200,0 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. és 2016. évben 2600,0 millió forint biztosítása szükséges;
 
 ## f) soproni labdarúgó sportlétesítmény-fejlesztésre 552 millió forint keretösszegben kerüljön sor, azzal, hogy a 2015. évben 152,0 millió forint biztosítása szükséges.
 
-## 2. A Kormány felhívja a nemzeti fejlesztési minisztert, az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy az 1. pont szerint a labdarúgó sportlétesítmény-fejlesztések megvalósításához a 2015. és 2016. évben szükséges 4088,0 millió forint forrás biztosítása érdekében tegye meg a szükséges intézkedéseket.
+## 2.[^6] A Kormány felhívja a nemzeti fejlesztési minisztert, az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy az 1. pont szerint a labdarúgó sportlétesítmény-fejlesztések megvalósításához a 2015. és 2016. évben szükséges 4088,0 millió forint forrás biztosítása érdekében tegye meg a szükséges intézkedéseket.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -20,11 +20,11 @@
 
 ## nemzetgazdasági miniszter
 
-## Határidő: a 2015. év folyamán, illetve a 2016. év tekintetében a 2016. évi központi költségvetés tervezésével összhangban
+## Határidő: a felmerülés ütemében
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4.[^1]
+## 4.[^7]
 
 1. melléklet az 1753/2014. (XII. 15.) Korm. határozathoz
 
@@ -102,4 +102,9 @@
 
 ”
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont b) alpontja az 1734/2015. (X. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. pont c) alpontja az 1734/2015. (X. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^4]: Az 1. pont d) alpontja az 1734/2015. (X. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^5]: Az 1. pont e) alpontja az 1734/2015. (X. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^6]: A 2. pont az 1734/2015. (X. 8.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^7]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
