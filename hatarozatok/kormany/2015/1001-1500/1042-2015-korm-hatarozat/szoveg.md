@@ -12,10 +12,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: folyamatos
 
-3. felhívja a külgazdasági és külügyminisztert, valamint a nemzetgazdasági minisztert, hogy gondoskodjon az önkéntesek kiutazásához, kint tartózkodásához és esetleges rotációjához szükséges források biztosításáról.
+3.[^1]
 
-Felelős: külgazdasági és külügyminiszter
-
-nemzetgazdasági miniszter
-
-Határidő: a költségek felmerülésének ütemében
+[^1]: A 3. pontot az 1734/2015. (X. 8.) Korm. határozat 4. pontja hatályon kívül helyezte.
