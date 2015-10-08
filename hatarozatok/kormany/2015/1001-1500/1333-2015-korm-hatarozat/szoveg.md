@@ -20,11 +20,11 @@ Felelős: belügyminiszter
 
 Határidő: 2015. június 15.
 
-1.4. a nemzetgazdasági minisztert, hogy az 1–3. pontban foglaltak megvalósítása céljából a 2015. évi költségvetés terhére, költségvetési forrásból gondoskodjon 3400 millió forint biztosításához szükséges intézkedések megtételéről;
+1.4.[^1] a nemzetgazdasági minisztert, hogy az 1–3. pontban foglaltak megvalósítása céljából a 2015. évi költségvetés terhére, költségvetési forrásból gondoskodjon 3400 millió forint biztosításához szükséges intézkedések megtételéről;
 
 Felelős: nemzetgazdasági miniszter
 
-Határidő: 2015. július 1.
+Határidő: a felmerülés ütemében
 
 1.5. a nemzetgazdasági minisztert, hogy az eSZIG folyamatos kiadása érdekében gondoskodjon arról, hogy a 2016-tól a Belügyminisztérium fejezet támogatási előirányzata tartós jelleggel 2132,5 millió forinttal, a Miniszterelnökség fejezet támogatási előirányzata tartós jelleggel 310,0 millió forinttal növekedjen;
 
@@ -49,3 +49,5 @@ Határidő: 2015. október 15.
 Felelős: belügyminiszter
 
 Határidő: 2015. szeptember 15.
+
+[^1]: Az 1. pont 1.4. alpontja az 1734/2015. (X. 8.) Korm. határozat 12. pontja szerint módosított szöveg.
