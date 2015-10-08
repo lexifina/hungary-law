@@ -66,7 +66,7 @@
 
 | Szombathely – Kőszeg korszerűsítés |
 
-4. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^4]
+4. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^5]
 
 ## Nagyprojekt-lista
 
@@ -204,4 +204,4 @@
 
 | 67 | Kaposvár és az M7 közötti szakasz (érintett települések elkerülését is megvalósító) rekonstrukciója |
 
-[^4]: A 4. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
+[^5]: A 4. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.

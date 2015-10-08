@@ -116,6 +116,6 @@
 
 | Dunai hajóút kitűzési rendszerének fejlesztése |
 
-3. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^3]
+3. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^4]
 
-[^3]: A 3. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont b) alpontjával megállapított szöveg.
+[^4]: A 3. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont b) alpontjával megállapított szöveg.

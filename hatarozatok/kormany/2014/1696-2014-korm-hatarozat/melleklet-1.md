@@ -20,14 +20,15 @@
 
 ## Határidő: azonnal
 
-## 7. felhívja a nemzetgazdasági minisztert, hogy a 2014–2020-as IKOP programidőszakra nézve az uniós előkészítési forrással nem rendelkező, azaz a Közúti projektlistában nem szereplő, a Közlekedési Operatív Program forrásaiból előkészített, az IKOP feltételrendszerének megfelelő fejlesztések – mint IKOP tartalék-projektek – építési engedélyig történő előkészítését a központi költségvetésből a 2015., a 2016., a 2017. és 2018. évben 15-15 milliárd forint forrással biztosítsa;
+## 7.[^1] felhívja a nemzetgazdasági minisztert, hogy a 2014–2020-as IKOP programidőszakra nézve az uniós előkészítési forrással nem rendelkező, azaz a Közúti projektlistában nem szereplő, a Közlekedési Operatív Program forrásaiból előkészített, az IKOP feltételrendszerének megfelelő fejlesztések – mint IKOP tartalék-projektek – építési engedélyig történő előkészítését a központi költségvetésből a 2016., a 2017. és 2018. évben 15-15 milliárd forint forrással biztosítsa;
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: a 2015., 2016., 2017. és 2018. évi költségvetés tervezési időszaka
+## Határidő: 2016., 2017. és 2018. évi költségvetés tervezési időszaka
 
-## 8.[^1]
+## 8.[^2]
 
 1. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 7. pont az 1734/2015. (X. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
