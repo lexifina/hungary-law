@@ -4,9 +4,9 @@
 
 (2) A nyugállományba helyezettek szociális gondozásba vétele annak a központi vagy területi jogállású szervnek a feladata, ahonnan az érintettet nyugállományba helyezték.
 
-(3)[^16] A rendvédelmi feladatokat ellátó szervektől az elmúlt rendszerben politikai okból elbocsátott és rehabilitált személyek szociális gondozásáról a volt szolgálati terület lakóhely szerint illetékes szerve gondoskodik.
+(3)[^19] A rendvédelmi feladatokat ellátó szervektől az elmúlt rendszerben politikai okból elbocsátott és rehabilitált személyek szociális gondozásáról a volt szolgálati terület lakóhely szerint illetékes szerve gondoskodik.
 
-(4)[^17] A központi szerv, illetve a területi jogállású szerv megszűnése esetén a nyugállományba helyezettek szociális gondozási feladatait a jogutód szerv, ennek hiányában az érintett állományviszonya szerinti rendvédelmi feladatokat ellátó szerv lakóhely szerinti szervezeti egysége látja el. A Belügyminisztériumtól és a jogutód nélkül megszűnt szerveitől nyugállományba helyezettek gondozásáról a Belügyminisztérium humánigazgatási feladatok ellátására kijelölt szervezeti egysége gondoskodik.
+(4)[^20] A központi szerv, illetve a területi jogállású szerv megszűnése esetén a nyugállományba helyezettek szociális gondozási feladatait a jogutód szerv, ennek hiányában az érintett állományviszonya szerinti rendvédelmi feladatokat ellátó szerv lakóhely szerinti szervezeti egysége látja el. A Belügyminisztériumtól és a jogutód nélkül megszűnt szerveitől nyugállományba helyezettek gondozásáról a Belügyminisztérium humánigazgatási feladatok ellátására kijelölt szervezeti egysége gondoskodik.
 
-[^16]: A 12. § (3) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^17]: A 12. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^19]: A 12. § (3) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^20]: A 12. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.

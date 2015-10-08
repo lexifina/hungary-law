@@ -1,8 +1,8 @@
 ## 10. A kegyeleti gondoskodás
 
-14. § (1)[^18] Hősi halottá kell nyilvánítani a rendvédelmi feladatokat ellátó szerv hivatásos állományából elhunytat halálának körülményei, életútja és érdemei figyelembevételével, ha a szolgálat teljesítése során Magyarország alkotmányos rendjének védelme, a közbiztonság és a közrend fenntartása, az államhatár védelme, tűz, elemi csapás vagy katasztrófa következményeinek elhárítása közben kimagasló bátorságot, kiemelkedő személyes helytállást tanúsított és eközben, vagy így elszenvedett sérülése következtében életét vesztette.
+14. § (1)[^21] Hősi halottá kell nyilvánítani a rendvédelmi feladatokat ellátó szerv hivatásos állományából elhunytat halálának körülményei, életútja és érdemei figyelembevételével, ha a szolgálat teljesítése során Magyarország alkotmányos rendjének védelme, a közbiztonság és a közrend fenntartása, az államhatár védelme, tűz, elemi csapás vagy katasztrófa következményeinek elhárítása közben kimagasló bátorságot, kiemelkedő személyes helytállást tanúsított és eközben, vagy így elszenvedett sérülése következtében életét vesztette.
 
-(2)[^19] A szolgálat halottjává kell nyilvánítani a rendvédelmi feladatokat ellátó szerv hivatásos állományából elhunytat halálának körülményei, életútja és érdemei figyelembevételével, ha a szolgálat teljesítése közben, vagy azzal összefüggésben életét vesztette, de a hősi halottá nyilvánítás feltételei nem, vagy csak részben állnak fenn.
+(2)[^22] A szolgálat halottjává kell nyilvánítani a rendvédelmi feladatokat ellátó szerv hivatásos állományából elhunytat halálának körülményei, életútja és érdemei figyelembevételével, ha a szolgálat teljesítése közben, vagy azzal összefüggésben életét vesztette, de a hősi halottá nyilvánítás feltételei nem, vagy csak részben állnak fenn.
 
 (3) Szolgálattal összefüggőnek kell tekinteni azt a halálesetet, amely a hivatásos állomány tagját
 
@@ -16,9 +16,9 @@ d) szolgálati utazás közben, továbbá a szolgálati helyre vagy onnan menet
 
 ## érte, kivéve, ha a bekövetkezett haláleset nincs összefüggésben a szolgálat ellátásával.
 
-(4)[^20] A rendvédelmi feladatokat ellátó szerv hivatásos állományából elhunyt személy, továbbá a hivatásos állományból nyugállományba helyezett – ideértve a szolgálati járandóságban részesülőket is – elhunyt személy a rendvédelmi feladatokat ellátó szerv halottjává minősíthető, ha legalább 15 év tényleges szolgálati viszonya alatt feladatait átlag feletti eredményességgel látta el, magatartása példamutató volt, és jelentősen hozzájárult a rendvédelmi feladatokat ellátó szerv eredményes működéséhez.
+(4)[^23] A rendvédelmi feladatokat ellátó szerv hivatásos állományából elhunyt személy, továbbá a hivatásos állományból nyugállományba helyezett – ideértve a szolgálati járandóságban részesülőket is – elhunyt személy a rendvédelmi feladatokat ellátó szerv halottjává minősíthető, ha legalább 15 év tényleges szolgálati viszonya alatt feladatait átlag feletti eredményességgel látta el, magatartása példamutató volt, és jelentősen hozzájárult a rendvédelmi feladatokat ellátó szerv eredményes működéséhez.
 
-(5)[^21] A rendvédelmi feladatokat ellátó szerv hivatásos állományából elhunyt személy, továbbá a hivatásos állományból nyugállományba helyezett – ideértve a szolgálati járandóságban részesülőket is – elhunyt személy a központi szerv, illetve a területi jogállású szerv halottjává minősíthető, ha szolgálati feladatait eredményesen hajtotta végre, de a rendvédelmi feladatokat ellátó szerv halottjává minősítésének a (4) bekezdésben meghatározott valamely feltétel hiánya miatt nincs helye.
+(5)[^24] A rendvédelmi feladatokat ellátó szerv hivatásos állományából elhunyt személy, továbbá a hivatásos állományból nyugállományba helyezett – ideértve a szolgálati járandóságban részesülőket is – elhunyt személy a központi szerv, illetve a területi jogállású szerv halottjává minősíthető, ha szolgálati feladatait eredményesen hajtotta végre, de a rendvédelmi feladatokat ellátó szerv halottjává minősítésének a (4) bekezdésben meghatározott valamely feltétel hiánya miatt nincs helye.
 
 (6) Nem nyilvánítható az (1), (2), (4) és (5) bekezdésben meghatározott halottá (a továbbiakban együtt: minősített halott) az,
 
@@ -28,7 +28,7 @@ b) akit szolgálati viszonya megszüntetésekor vagy nyugállományba helyezés�
 
 c) aki önkezével vetett véget életének.
 
-[^18]: A 14. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^19]: A 14. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^20]: A 14. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § c) pontja szerint módosított szöveg.
-[^21]: A 14. § (5) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § c) pontja szerint módosított szöveg.
+[^21]: A 14. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^22]: A 14. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^23]: A 14. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § c) pontja szerint módosított szöveg.
+[^24]: A 14. § (5) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § c) pontja szerint módosított szöveg.

@@ -18,6 +18,6 @@ c) gyermeket egyedül nevel.
 
 (3) A szociális támogatásokat terhelő közterheket a szociális és kegyeleti keretből kell fedezni.
 
-(4)[^15] Szociális támogatásban csak az részesíthető, aki a szociális helyzete megítéléséhez és a rendvédelmi feladatokat ellátó szervet terhelő befizetések elszámolásához szükséges adatokat a valóságnak megfelelően rendelkezésre bocsátja és igazolja.
+(4)[^18] Szociális támogatásban csak az részesíthető, aki a szociális helyzete megítéléséhez és a rendvédelmi feladatokat ellátó szervet terhelő befizetések elszámolásához szükséges adatokat a valóságnak megfelelően rendelkezésre bocsátja és igazolja.
 
-[^15]: A 11. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^18]: A 11. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
