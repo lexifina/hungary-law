@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-375-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-12-31 | 2014-375-20-22.1 | 375/2014. (XII. 31.) Korm. rendelet |
+| 2015-10-08 | 2014-375-20-22.2 | 290/2015. (X. 7.) Korm. rendelet |
