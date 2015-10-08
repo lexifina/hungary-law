@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## b) a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 29. Lakástámogatások cím, 1. Egyéb lakástámogatások alcím terhére – figyelemmel az előirányzaton várható megtakarításra – 50,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását, 2015. szeptember 30-áig történő visszatérítési kötelezettség mellett, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 40. Vál Község Önkormányzata feladatainak támogatása cím javára,
+## b)[^1] a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 29. Lakástámogatások cím, 1. Egyéb lakástámogatások alcím terhére – figyelemmel az előirányzaton várható megtakarításra – 50,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 40. Vál Község Önkormányzata feladatainak támogatása cím javára,
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -36,9 +36,9 @@
 
 ## Határidő: azonnal
 
-## 2. egyetért azzal, hogy a belügyminiszter a támogatás felhasználásának és utólagos elszámolásának feltételeiről Vál Község Önkormányzatával támogatási megállapodást kössön,
+## 2.[^2] egyetért azzal, hogy a belügyminiszter a vissza nem térítendő támogatás felhasználásának és utólagos elszámolásának feltételeiről Vál Község Önkormányzatával támogatási megállapodást kössön,
 
-## 3. egyetért azzal, hogy a belügyminiszter a támogatást utólagos, legkésőbb 2015. szeptember 30-áig történő visszafizetési kötelezettséggel folyósítsa Vál Község Önkormányzata számára.
+## 3.[^3] egyetért azzal, hogy a belügyminiszter a vissza nem térítendő támogatást, legkésőbb 2015. december 31-éig történő elszámolási kötelezettséggel folyósítsa Vál Község Önkormányzata számára.
 
 1. melléklet az 1871/2014. (XII. 31.) Korm. határozathoz
 
@@ -121,3 +121,7 @@ Költségvetési év: 2014.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. pont b) alpontja az 1736/2015. (X. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1736/2015. (X. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: A 3. pont az 1736/2015. (X. 8.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
