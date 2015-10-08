@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-60-00-00
 | 2015-04-01 | 2014. évi LXXXVIII. törvény | 2003-60-00-00.51 |
 | 2015-07-07 | 2015. évi LXXXV. törvény | 2003-60-00-00.52 |
 | 2015-09-01 | 2015. évi CV. törvény | 2003-60-00-00.53 |
+| 2015-10-08 | 2015. évi CXLVII. törvény | 2003-60-00-00.54 |
