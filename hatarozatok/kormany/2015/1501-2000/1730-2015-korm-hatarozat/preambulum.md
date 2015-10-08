@@ -1,0 +1,1 @@
+A Kormány, figyelemmel a Magyar Köztársaság Kormánya és a Multinacionális Erők és Megfigyelők (MFO) között az Egyiptomi Arab Köztársaság és Izrael állam közötti békeszerződés jegyzőkönyve alapján békefenntartói feladatokat ellátó MFO kötelékében történő magyar részvételről szóló megállapodás megszüntetéséről szóló 52/2015. (III. 17.) Korm. rendeletre

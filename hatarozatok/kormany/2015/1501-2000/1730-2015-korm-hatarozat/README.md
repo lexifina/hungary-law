@@ -1,0 +1,9 @@
+# 1730/2015. (X. 8.) Korm. határozat
+
+egyes állami tulajdonú ingóságok Multinacionális Erők és Megfigyelők részére történő ingyenes tulajdonba adásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1730-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-10-08 | 2015-1730-30-22.1 | 1730/2015. (X. 8.) Korm. határozat |
