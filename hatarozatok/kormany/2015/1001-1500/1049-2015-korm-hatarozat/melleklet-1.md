@@ -26,11 +26,11 @@
 
 ## Határidő: 2016. június 30.
 
-## 4. felhívja a nemzetgazdasági minisztert, hogy a Beruházás megvalósításához szükséges 4000,0 millió forint költségvetési forrás biztosításáról gondoskodjon.
+## 4.[^2] felhívja a nemzetgazdasági minisztert, hogy a Beruházás megvalósításához szükséges 4000,0 millió forint költségvetési forrás biztosításáról gondoskodjon.
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: azonnal
+## Határidő: felmerülés ütemében
 
 1. melléklet az 1049/2015. (II. 11.) Korm. határozathoz
 
@@ -93,3 +93,5 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: A 4. pont az 1734/2015. (X. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
