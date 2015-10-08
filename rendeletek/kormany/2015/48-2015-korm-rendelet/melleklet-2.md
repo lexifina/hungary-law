@@ -28,7 +28,7 @@
 
 | 13. | azok a 2-12. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
 
-2. melléklet a 48/2015. (III. 12.) Korm. rendelethez[^4]
+2. melléklet a 48/2015. (III. 12.) Korm. rendelethez[^10]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -70,4 +70,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^4]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 110. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 110. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
