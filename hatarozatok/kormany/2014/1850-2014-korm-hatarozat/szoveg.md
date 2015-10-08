@@ -14,13 +14,13 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2015. január 1.
 
-3. felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy gondoskodjon az Országos Atomenergia Hivatal hatósági feladatellátásához 2015-től szükséges többletforrás biztosításáról;
+3.[^1] felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy gondoskodjon az Országos Atomenergia Hivatal hatósági feladatellátásához 2015-től szükséges többletforrás biztosításáról;
 
 Felelős: nemzeti fejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: az 1. a) pont tekintetében 2015. január 1., a 1. b) pont tekintetében 2015. július 1.
+Határidő: az 1. a) pont tekintetében 2015. január 1.
 
 4. felhívja az emberi erőforrások miniszterét, a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy az Országos Atomenergia Hivatal bevonásával vizsgálják meg az Országos Atomenergia Hivatal szakember utánpótlását és megtartását elősegítő felsőoktatási ösztöndíj bevezetésének lehetőségét és a vizsgálat eredménye alapján tegyenek javaslatot a megfelelő jogi szabályozásra;
 
@@ -39,3 +39,5 @@ Felelős: emberi erőforrások minisztere
 nemzeti fejlesztési miniszter
 
 Határidő: 2015. február 15.
+
+[^1]: A 3. pont az 1734/2015. (X. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
