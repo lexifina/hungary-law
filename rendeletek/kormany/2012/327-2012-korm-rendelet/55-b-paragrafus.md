@@ -6,7 +6,7 @@
 
 (3) Az egyszeri támogatás a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (a továbbiakban: 800/2008/EK bizottsági rendelet) I. fejezetében és 42. cikkében meghatározott feltételekkel, a 800/2008/EK bizottsági rendelet 42. cikk (3) bekezdés a), c) és d) pontja szerinti, bérköltségektől eltérő, a (4)–(5) bekezdésben meghatározott időszakban a rehabilitációs foglalkoztatás során felmerült költségekre számolható el.
 
-(4) Az akkreditált munkáltató az egyszeri támogatást – az (5) bekezdésben foglalt eltéréssel – 2015. szeptember 30-ig felmerült költségekre használhatja fel.
+(4)[^124] Az akkreditált munkáltató az egyszeri támogatást – az (5) bekezdésben foglalt eltéréssel – 2015. szeptember 30-ig felmerült költségekre használhatja fel.
 
 (5) Az a munkáltató, amely a 2015. évre érvényes és hatályos keretszerződéssel nem rendelkezik, az egyszeri támogatást csak a 2014. január 1-jétől 2014. december 31-ig felmerült költségekre számolhatja el.
 
@@ -22,7 +22,7 @@ b) az egyszeri támogatás folyósításának időpontjában az egyéni támogat
 
 (9) Az egyszeri támogatás elfogadásával a munkáltató az egyszeri támogatás tekintetében is vállalja a 2014. évre kötött keretszerződésben és éves támogatási szerződésben meghatározott, munkáltatót terhelő kötelezettségeket.
 
-(10) Az akkreditált munkáltató a támogatással 2015. október 30-ig – a Hivatal által meghatározott módon – köteles elszámolni.
+(10)[^125] Az akkreditált munkáltató a támogatással 2015. december 31-ig – a Hivatal által meghatározott módon – köteles elszámolni.
 
 (11) Az egyszeri támogatás pénzügyi ellenőrzése a 40. § szerint történik.
 
@@ -30,4 +30,10 @@ b) az egyszeri támogatás folyósításának időpontjában az egyéni támogat
 
 (13) Az egyszeri támogatásra e rendeletnek a 285/2014. (XI. 20.) Korm. rendelet hatálybalépését megelőző napon hatályos 1. § 12. pontját, 17. § (4) bekezdését, 19. § (1) és (2) bekezdését, 19. § (4) bekezdés b) pontját, 22. § (1) és (4) bekezdését és 45. §-át kell alkalmazni.
 
+(14)[^126] A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosításáról szóló 288/2015. (X. 7.) Korm. rendelettel (a továbbiakban: Módr.) megállapított (4) és (10) bekezdést a Módr. hatálybalépésekor[^127] folyamatban lévő ügyekben is alkalmazni kell.
+
 [^123]: Az 55/B. §-t a 340/2014. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
+[^124]: Az 55/B. § (4) bekezdése a 288/2015. (X. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^125]: Az 55/B. § (10) bekezdése a 288/2015. (X. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^126]: Az 55/B. § (14) bekezdését a 288/2015. (X. 7.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^127]: A hatálybalépés időpontja 2015. október 8.
