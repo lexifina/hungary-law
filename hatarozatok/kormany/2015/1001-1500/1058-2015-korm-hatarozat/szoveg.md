@@ -2,4 +2,6 @@ A Kormány felhívja a nemzetgazdasági minisztert, hogy gondoskodjon 1300,0 mil
 
 Felelős: nemzetgazdasági miniszter
 
-Határidő: 2015. május 31.
+Határidő: felmerülés ütemében[^1]
+
+[^1]: Az 1734/2015. (X. 8.) Korm. határozat 6. pontja szerint módosított szöveg.
