@@ -40,7 +40,7 @@ emberi erőforrások minisztere
 
 Határidő: azonnal
 
-4. továbbra is támogatja a verseny- és szabadidősport feltételeit javító, a rekreációs lehetőségek bővítését és az érintett városrész környezetének rehabilitációját szolgáló sport- és rekreációs célú városi fejlesztések megvalósítását, ennek keretében
+4.[^1] továbbra is támogatja a verseny- és szabadidősport feltételeit javító, a rekreációs lehetőségek bővítését és az érintett városrész környezetének rehabilitációját szolgáló sport- és rekreációs célú városi fejlesztések megvalósítását, ennek keretében
 
 a) egyetért – a Szolnoki Atlétikai Centrum megvalósítását szolgáló támogatás mellett – további 1 milliárd forint támogatás biztosításával a Véső úti strand- és sporttelep fejlesztésére,
 
@@ -50,7 +50,7 @@ Felelős: nemzetgazdasági miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2015. július 31.
+Határidő: a kifizetések üteméhez igazodóan
 
 5. felhívja a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert és a külgazdasági és külügyminisztert, hogy dolgozzanak ki koncepciót a szolnoki vasúti járműipar fenntartására és fejlesztésére;
 
@@ -73,3 +73,5 @@ emberi erőforrások minisztere
 Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
+
+[^1]: A 4. pont az 1734/2015. (X. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
