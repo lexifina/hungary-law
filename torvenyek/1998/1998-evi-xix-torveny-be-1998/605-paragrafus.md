@@ -11,11 +11,3 @@
 (5) Az e törvény hatálybalépése előtt történt hatályon kívül helyezés esetén a megismételt eljárást a korábbi jogszabály szerint hatáskörrel rendelkező és illetékes bíróság folytatja le, ha az ügy iratai a megismételt eljárás lefolytatására e törvény hatálybalépése előtt érkeztek a bírósághoz.
 
 (6) A perújítási indítványt a korábbi jogszabály szerint hatáskörrel rendelkező és illetékes bíróság bírálja el, ha az indítvány e törvény hatálybalépése előtt érkezett a bírósághoz.
-
-(7)
-
-(8)
-
-(9)–(10)
-
-(11)
