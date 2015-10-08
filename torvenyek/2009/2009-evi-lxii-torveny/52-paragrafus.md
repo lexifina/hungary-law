@@ -1,5 +1,7 @@
 52. § (1) A biztosító a szerződés megkötését és megszűnését, a határozatlan tartamú szerződés megújítását (biztosítási időszakok kezdő napját), továbbá a szüneteléssel, illetve a káreseménnyel kapcsolatos adatok keletkezését követő 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) bekezdésében megjelölt adatokról.
 
+(1a) A tevékenységi engedély visszavonásával érintett szerződés 10. § (2) bekezdésében meghatározott megszűnése esetén az új szerződés létrejöttéről szóló – (1) bekezdésben meghatározott – értesítés a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítést pótolja, amennyiben az érintett szerződés megszűnésére vonatkozó értesítés a kárnyilvántartó szervhez még nem érkezett meg.
+
 (2) A biztosító köteles a hozott kárelőzményi igazolásban szereplő – az 51. § (3)–(4) bekezdéseiben foglaltakkal összemérhető – adatokat az (1) bekezdésnek megfelelő módon a kárnyilvántartó szerv részére továbbítani.
 
 (3) A Kártalanítási Számla kezelője az adatok keletkezését követően 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (5) bekezdésében meghatározott adatokról.

@@ -13,3 +13,7 @@
 (6) A biztosító kockázatviselése a szerződés közös megegyezéssel történő megszüntetése esetén a szerződés megszűnésének időpontjában, a szerződés biztosítási időszak végére történő felmondása esetén a biztosítási időszak zárónapján szűnik meg.
 
 (7) A szerződés a 21. § (4) bekezdésében meghatározott megszűnése esetén a biztosító kockázatviselése a türelmi idő zárónapján szűnik meg.
+
+(8) A tevékenységi engedély visszavonásával érintett szerződés 10. § (2) bekezdésében meghatározott megszűnése esetén a biztosító kockázatviselése az új szerződés kockázatviselési kezdetének napját megelőző napon megszűnik.
+
+(9) A (8) bekezdés szerinti új szerződés kockázatviselésének kezdete nem lehet korábbi, mint a tevékenységi engedély visszavonásáról szóló felügyeleti tájékoztató közzétételének napja.
