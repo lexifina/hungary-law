@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2015-04-02 | 2015. évi XI. törvény | 1952-3-00-00.116 |
 | 2015-07-01 | 2015. évi LXXI. törvény | 1952-3-00-00.117 |
 | 2015-09-15 | 2015. évi CXL. törvény | 1952-3-00-00.118 |
+| 2015-10-08 | 2015. évi CXLVI. törvény | 1952-3-00-00.119 |
