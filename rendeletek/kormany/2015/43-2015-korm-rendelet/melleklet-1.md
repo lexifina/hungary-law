@@ -1,6 +1,6 @@
-## 94. §[^22]
+## 94. §[^23]
 
-1. melléklet a 43/2015. (III. 12.) Korm. rendelethez
+1. melléklet a 43/2015. (III. 12.) Korm. rendelethez[^24]
 
 ## Szavatolótőke-szükséglet standard formula
 
@@ -36,6 +36,8 @@ A 30. § (1) bekezdésében meghatározott nem-életbiztosítástechnikai kocká
 
 ahol:
 
+– Corri,j – jelöli a nem-életbiztosítási kockázat korrelációs paraméterét az i és j részmodulok esetében
+
 – SCRi – jelöli az „i” részmodult
 
 – SCRj – jelöli a „j” részmodult
@@ -46,13 +48,15 @@ A számításban az SCRi és az SCRj a következőkkel helyettesítendő:
 
 – SCR né díjazás és tartalék – jelöli a nem-életbiztosítási díjazási és tartalék kockázati részmodult
 
-SCR né katasztrófa – jelöli a nem-életbiztosítási katasztrófakockázati részmodult.
+– SCR né katasztrófa – jelöli a nem-életbiztosítási katasztrófakockázati részmodult.
 
 3. Az életbiztosítás-technikai kockázati modul számítása
 
 A 31. § (1) bekezdésében meghatározott életbiztosítás-technikai kockázati modul számítási módja a következő:
 
 ahol:
+
+– Corri,j – jelöli az életbiztosítási kockázat korrelációs paraméterét az i és j részmodulok esetében
 
 – SCRi – jelöli az „i” részmodult
 
@@ -82,6 +86,8 @@ A 33. § (1) bekezdésében meghatározott piaci kockázati modul számítási m
 
 ahol:
 
+– Corri,j – jelöli a piaci kockázat korrelációs paraméterét az i és j részmodulok esetében
+
 – SCRi – jelöli az „i” részmodult
 
 – SCRj – jelöli a „j” részmodult
@@ -102,4 +108,5 @@ A számításban az SCRi és az SCRj a következőkkel helyettesítendő:
 
 – SCR deviza – jelöli a devizaárfolyam-kockázati részmodult
 
-[^22]: A 94. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^23]: A 94. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^24]: Az 1. melléklet a 295/2015. (X. 8.) Korm. rendelet 12. §-a szerint módosított szöveg.

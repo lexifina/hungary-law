@@ -1,4 +1,4 @@
-## 54. §[^9]
+## 54. §[^10]
 
 ## IV. Fejezet
 
@@ -14,4 +14,4 @@
 
 (4) Ha a belső modell alkalmazását a Felügyelet már engedélyezte, az nem zárja ki annak a lehetőségét, hogy a Felügyelet kötelezze a biztosítót vagy viszontbiztosítót, hogy a szavatolótőke-szükségletének standard formulával számított becslését is bocsássa rendelkezésére.
 
-[^9]: Az 54. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^10]: Az 54. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

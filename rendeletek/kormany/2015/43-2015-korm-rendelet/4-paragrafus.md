@@ -1,4 +1,4 @@
-## 3. §[^2]
+## 3. §[^3]
 
 ## I. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## 4. A biztosítástechnikai tartalékok számítása
 
-[^2]: A 3. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^3]: A 3. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

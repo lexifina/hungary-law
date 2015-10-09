@@ -1,4 +1,4 @@
-## 16. §[^7]
+## 16. §[^8]
 
 ## II. Fejezet
 
@@ -28,4 +28,4 @@ c) az a) és b) pontba nem tartozó kötelezettségvállaláson alapuló, a bizt
 
 (6) Amennyiben a kiegészítő szavatolótőke valamely eleme befizetésre vagy érvényesítésre kerül, azt a továbbiakban eszközként kell kezelni és ki kell vezetni a kiegészítő szavatolótőke elemei közül.
 
-[^7]: A 16. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^8]: A 16. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-## 27. §[^8]
+## 27. §[^9]
 
 ## 13. Standard formula
 
@@ -10,4 +10,4 @@ b) a működési kockázatra vonatkozóan a 37. § szerint meghatározott tőkek
 
 c) a biztosítástechnikai tartalékok és a halasztott adók 38. § szerint meghatározott veszteségelnyelő képessége miatti kiigazítás.
 
-[^8]: A 27. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^9]: A 27. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

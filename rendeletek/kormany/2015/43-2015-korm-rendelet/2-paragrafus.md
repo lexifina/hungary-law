@@ -8,7 +8,7 @@
 
 2. diverzifikációs hatás: a biztosító vagy viszontbiztosító, valamint csoportjaik kockázati kitettségének csökkenése az üzleti tevékenység diverzifikációja révén, abból eredően, hogy egy kockázati tényező kedvezőtlen alakulását ellensúlyozhatja egy másik kockázati tényező kedvezőbb alakulása, amennyiben az adott kockázatok között nincs teljes korreláció;
 
-3. fundamentális kamatfelár: az eszközök nemteljesítési valószínűségének megfelelő hitelkockázati felár és az eszközök leminősítéséből eredő várható veszteségeknek megfelelő hitelkockázati felár összege;
+3.[^2]
 
 4. hitelkockázat: a veszteség vagy a pénzügyi helyzetben bekövetkező kedvezőtlen változásnak a kockázata, amely olyan értékpapír-kibocsátók, partnerek és más adósok hitelképességének ingadozásából ered, amelyekkel szemben a biztosító vagy viszontbiztosító a partner nemteljesítési kockázatnak, kamatrés-kockázatnak vagy piaci kockázatkoncentrációnak van kitéve;
 
@@ -43,3 +43,4 @@
 19. vonatkozó kockázatmentes hozamgörbe: az EBFH által meghatározott és közzétett, a legjobb becslés számításához illeszkedési vagy volatilitási korrekciók nélkül használt hozamgörbe.
 
 [^1]: Az 1. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^2]: A 2. § 3. pontját a 295/2015. (X. 8.) Korm. rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.

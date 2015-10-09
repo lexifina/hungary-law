@@ -1,4 +1,4 @@
-## 91. §[^21]
+## 91. §[^22]
 
 ## 35. A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 231/H. § (1) bekezdés a)–d) pontja szerinti engedélyezési eljárásokkal kapcsolatos átmeneti rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az e rendelet (1) bekezdésben meghatározott időszakban hatályos rendelkezéseit az (1) bekezdésben meghatározott engedélyezési eljárások lefolytatásával összefüggésben kell alkalmazni, a biztosító és viszontbiztosító e szabályoknak ezen időszakot követően köteles megfelelni.
 
-[^21]: A 91. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^22]: A 91. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
