@@ -90,7 +90,7 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 36. | B302/15 | JFO felkészítés | MH ÖHP | Németország/NATO/EU tagállamok | I–IV. n. é. | 25 |
 
-| 37. | B258/15 | USAREUR 2015 kiképzési rendezvények | MH ÖHP | Németország | I–IV. n. é. | 700 |
+| 37. | B258/15 | amerikai–magyar kiképzési rendezvények | MH ÖHP | Németország/Magyarország | I–IV. n. é. | 700 |
 
 | 38. | B303/15 | NATO SOCC FRAMEWORK MINUS felkészítési rendezvények | MH ÖHP | NATO/EU tagállamok | I–IV. n. é. | 20 |
 
@@ -268,6 +268,10 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 49. | Z101/15 | ROT 1505 GEO MRE | MH LZ | Németország | II–III. n. é. | 200 |
 
+| 50. |  | BALATON 2015 | MH ÖHP | Magyarország | IV. n. é. | 1000 |
+
+| 51. |  | amerikai OAR gyakorlat | MH ÖHP | Magyarország | IV. n. é. | 1000 |
+
 3. A Magyar Honvédség részvétele nélkül tervezett, külföldi fegyveres erők esetleges átvonulásával járó NATO gyakorlatok és kiképzések
 
 | Fsz. | A gyakorlat megnevezése | A gyakorlat tervezett helye | A gyakorlat tervezett időpontja |
@@ -313,4 +317,4 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 16. | Szövetséges felderítő légijárművek áthaladása a magyar légtérben | 2015. I–IV. n. é. | – |
 
 [^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1053/2015. (II. 16.) Korm. határozat 1. pontja, az 1451/2015. (VII. 7.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1053/2015. (II. 16.) Korm. határozat 1. pontja, az 1451/2015. (VII. 7.) Korm. határozat 1. pontja, az 1731/2015. (X. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
