@@ -1,3 +1,0 @@
-## „(4) Az 1. § (1) bekezdése szerinti építésügyi hatósági eljárásokban – az (5) bekezdésben foglaltak figyelembevételével – a Budapest XIV. kerület 29732/5, 29742 és 29743 helyrajzi számú ingatlanokat rendezettnek kell tekintetni abban az esetben is, ha a telek Városligeti Építési Szabályzat szerint kialakítása (telekhatár-rendezés) még nem történt meg.
-
-## (5) A használatbavételi engedély kiadásának feltétele a (4) bekezdésben megjelölt ingatlan tekintetében a Városligeti Építési Szabályzatban előírt telekhatár-rendezés végrehajtása, valamint annak az ingatlan-nyilvántartásba történő bejegyzése.”
