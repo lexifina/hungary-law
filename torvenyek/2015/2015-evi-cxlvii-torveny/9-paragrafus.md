@@ -1,3 +1,0 @@
-9. § A Gfbt. Záró rendelkezések rész Átmeneti rendelkezések alcíme a következő 62/D. §-sal egészül ki:
-
-„62/D. § E törvénynek a kötelező gépjármű-felelősségbiztosítással összefüggésben egyes biztosítási tárgyú törvények módosításáról szóló 2015. évi CXLVII. törvénnyel megállapított rendelkezéseit a hatálybalépéskor már folyamatban lévő ügyekre is alkalmazni kell, azzal, hogy folyamatban lévő ügy esetében a 36. § (6c) bekezdésében meghatározott átadási kötelezettséget a 36. § (6a) bekezdés a) pontjában meghatározott biztosító legkésőbb e törvény hatálybalépését követő három munkanapon belül köteles teljesíteni.”
