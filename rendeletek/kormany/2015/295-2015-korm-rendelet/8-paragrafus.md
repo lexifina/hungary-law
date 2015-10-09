@@ -1,0 +1,1 @@
+## „(2) A biztosítónak és a viszontbiztosítónak – ide nem értve a kisbiztosítót – a számviteli biztosítástechnikai tartalékok képzésére vonatkozó, e részben meghatározott szabályokat az éves beszámoló elkészítéséhez kapcsolódóan alkalmazni kell.”
