@@ -1,4 +1,4 @@
-1. § (1)[^1] E rendelet alkalmazásában csapatmozgás a Magyar Honvédségnek és a külföldi fegyveres erőknek az államhatár átlépésével járó olyan tevékenysége, amely
+1. § (1)[^2] E rendelet alkalmazásában csapatmozgás a Magyar Honvédségnek és a külföldi fegyveres erőknek az államhatár átlépésével járó olyan tevékenysége, amely
 
 a) alaprendeltetésből fakadó feladatok (be)gyakorlására vagy végrehajtására irányul,
 
@@ -6,7 +6,7 @@ b) a fenti feladatokra vonatkozó katonai szabályzatok előírásai alapján t�
 
 c) szervezett formában, katonai vezetés vagy egyes külföldi fegyveres erőkre érvényesülő más felelős vezetés alatt valósul meg.
 
-(2)[^2] E rendelet alkalmazásában nem minősül csapatmozgásnak
+(2)[^3] E rendelet alkalmazásában nem minősül csapatmozgásnak
 
 a) a katonai szakmai, partneri látogatásokon és azok előkészítésében történő részvétel,
 
@@ -30,8 +30,8 @@ j) a NATO-tagállamok állami légijárműveinek – esetenként legfeljebb nég
 
 k) más, az előzőekhez hasonló céllal történő katonai mozgás.
 
-(3)[^3] Ha nemzetközi szerződés kifejezetten tartalmazza az előzetes határátlépési engedélyezés mellőzhetőségét, akkor e rendeletnek az engedélyezésre vonatkozó rendelkezéseit nem kell alkalmazni.
+(3)[^4] Ha nemzetközi szerződés kifejezetten tartalmazza az előzetes határátlépési engedélyezés mellőzhetőségét, akkor e rendeletnek az engedélyezésre vonatkozó rendelkezéseit nem kell alkalmazni.
 
-[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 64/2011. (IV. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 290/2011. (XII. 22.) Korm. rendelet 86. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdése a 64/2011. (IV. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdését a 64/2011. (IV. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 64/2011. (IV. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 290/2011. (XII. 22.) Korm. rendelet 86. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 64/2011. (IV. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdését a 64/2011. (IV. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.

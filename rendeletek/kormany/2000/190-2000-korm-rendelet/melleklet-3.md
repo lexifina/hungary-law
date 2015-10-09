@@ -1,5 +1,3 @@
-## Csapatmozgások technikai engedélyezéséhez szükséges adatok
-
 ## A rendelet 3. §-ának (1) bekezdése szerinti adatközlés esedékességekor az alábbi adatokat kell a HM tárcaszintű vám- és határforgalomért felelős szervének megküldeni:
 
 ## – a csapatmozgással érintett katonai szervezet, és ha külföldi, országának megnevezése;
@@ -30,7 +28,7 @@
 
 ## – az útvonalengedély kiadásához szükséges egyéb adatok.
 
-3. számú melléklet a 190/2000. (XI. 14.) Korm. rendelethez[^23]
+3. számú melléklet a 190/2000. (XI. 14.) Korm. rendelethez[^24]
 
 Magyarország
 
@@ -46,7 +44,7 @@ CÍMZETT megnevezése
 
 Állomáshely megnevezése
 
-Tárgy: Értesítés, engedély[^24]
+Tárgy: Értesítés, engedély[^25]
 
 A határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló 190/2000. (XI. 14.) Korm. rendelet 6. §-ában kapott felhatalmazás alapján értesítem és hivatalosan igazolom, hogy a ……… számú csapatmozgásra vonatkozó diplomáciai engedélykérelem alapján Magyarország Kormánya a ………… számú határozatában a ……… (kérelmező állam megnevezése) Fegyveres Erői Kötelékébe tartozó egység mozgását Magyarország területén(re, keresztül) engedélyezte.
 
@@ -82,5 +80,5 @@ helye
 
 Záradék
 
-[^23]: A 3. számú melléklet a 331/2007. (XII. 13.) Korm. rendelet 1. § 31. pontja, a 290/2011. (XII. 22.) Korm. rendelet 94. § (2) bekezdése szerint módosított szöveg.
-[^24]: Megjegyzés: ezt az okmányt angol nyelven is el kell készíteni.
+[^24]: A 3. számú melléklet a 331/2007. (XII. 13.) Korm. rendelet 1. § 31. pontja, a 290/2011. (XII. 22.) Korm. rendelet 94. § (2) bekezdése szerint módosított szöveg.
+[^25]: Megjegyzés: ezt az okmányt angol nyelven is el kell készíteni.
