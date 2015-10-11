@@ -1,14 +1,14 @@
 ## A helyi borbíráló bizottságok létrehozásának és működtetésének személyi és tárgyi feltételei
 
-33. § (1)[^81] A HBB-k tagjainak létszámát és összetételét annak létrehozója határozza meg. A HBB titkársági feladatait létrehozója látja el. A HBB titkára gondoskodik a HBB működésének megszervezéséről, valamint a (6) bekezdésben foglalt tárgyi feltételek biztosításáról.
+33. § (1)[^98] A HBB-k tagjainak létszámát és összetételét annak létrehozója határozza meg. A HBB titkársági feladatait létrehozója látja el. A HBB titkára gondoskodik a HBB működésének megszervezéséről, valamint a (6) bekezdésben foglalt tárgyi feltételek biztosításáról.
 
-(2)[^82] A HBB ülése legalább 5 tag jelenléte esetén határozatképes.
+(2)[^99] A HBB ülése legalább 5 tag jelenléte esetén határozatképes.
 
-(3)[^83] A HBB pozitív döntéséhez a jelenlévő tagok 50%-ot meghaladó arányának pozitív döntése szükséges. A HBB titkosan dönt.
+(3)[^100] A HBB pozitív döntéséhez a jelenlévő tagok 50%-ot meghaladó arányának pozitív döntése szükséges. A HBB titkosan dönt.
 
-(4)[^84] HBB tagja csak olyan személy lehet, aki igazolja, hogy a 12. számú mellékletben felsorolt végzettségek valamelyikével rendelkezik.
+(4)[^101] HBB tagja csak olyan személy lehet, aki igazolja, hogy a 12. számú mellékletben felsorolt végzettségek valamelyikével rendelkezik.
 
-(5)[^85] A HBB ülésére a HBB titkára meghívja a borászati hatóság képviselőjét, és az Országos Borszakértő Bizottság (a továbbiakban: OBB) egy tagját.
+(5)[^102] A HBB ülésére a HBB titkára meghívja a borászati hatóság képviselőjét, és az Országos Borszakértő Bizottság (a továbbiakban: OBB) egy tagját.
 
 (6) A HBB ülésének tárgyi feltételei:
 
@@ -32,11 +32,11 @@ ed) fejenként legalább egy kiöntőedény,
 
 f) a jegyzőkönyv szabályos elkészítése.
 
-(7)[^86] Az (1)–(6) bekezdésben foglaltak teljesülését a borászati hatóság a HBB nyilvántartásba vétele előtt szemlén vizsgálja, a nyilvántartásba vételt követően pedig ellenőrzi.
+(7)[^103] Az (1)–(6) bekezdésben foglaltak teljesülését a borászati hatóság a HBB nyilvántartásba vétele előtt szemlén vizsgálja, a nyilvántartásba vételt követően pedig ellenőrzi.
 
-[^81]: A 33. § (1) bekezdése a 128/2012. (XII. 14.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^82]: A 33. § (2) bekezdése a 128/2012. (XII. 14.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^83]: A 33. § (3) bekezdése a 64/2010. (V. 12.) FVM rendelet 27. § (4) bekezdése szerint módosított szöveg.
-[^84]: A 33. § (4) bekezdése a 128/2012. (XII. 14.) VM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^85]: A 33. § (5) bekezdése a 20/2014. (X. 31.) FM rendelet 21. §-ával megállapított szöveg.
-[^86]: A 33. § (7) bekezdése a 20/2014. (X. 31.) FM rendelet 32. § h) pontja szerint módosított szöveg.
+[^98]: A 33. § (1) bekezdése a 128/2012. (XII. 14.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^99]: A 33. § (2) bekezdése a 128/2012. (XII. 14.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^100]: A 33. § (3) bekezdése a 64/2010. (V. 12.) FVM rendelet 27. § (4) bekezdése szerint módosított szöveg.
+[^101]: A 33. § (4) bekezdése a 128/2012. (XII. 14.) VM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^102]: A 33. § (5) bekezdése a 20/2014. (X. 31.) FM rendelet 21. §-ával megállapított szöveg.
+[^103]: A 33. § (7) bekezdése a 20/2014. (X. 31.) FM rendelet 32. § h) pontja szerint módosított szöveg.

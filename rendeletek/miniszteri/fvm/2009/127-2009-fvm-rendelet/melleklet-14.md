@@ -8,13 +8,13 @@
 
 | Kérelmező címe: |  |
 
-| Kérelmezett bortétel megnevezése: |  |
+| Kérelmezett borászati termék tétel megnevezése: |  |
 
-| Kérelmezett bortétel évjárata: |  |
+| Kérelmezett borászati termék tétel évjárata: |  |
 
-| A bortétel származási bizonyítványának száma: |  |
+| A borászati termék tétel származási bizonyítványának száma: |  |
 
-| A kérelmezett bortétel mennyisége (hl): |  |
+| A kérelmezett borászati termék tétel mennyisége (hl): |  |
 
 | A 31. § (4) bekezdésében meghatározott azonosító szám: |  |
 
@@ -34,6 +34,6 @@
 
 ## (HBB titkárának aláírása)
 
-14. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^176]
+14. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^226]
 
-[^176]: A 14. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése, a 128/2012. (XII. 14.) VM rendelet 30. § (8) és (11) bekezdése szerint módosított szöveg.
+[^226]: A 14. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése, a 128/2012. (XII. 14.) VM rendelet 30. § (8) és (11) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg.

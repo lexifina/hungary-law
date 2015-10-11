@@ -8,13 +8,13 @@
 
 | 2. Kérelmező címe: |  |
 
-| 3. Kérelmezett bortétel megnevezése: |  |
+| 3. Kérelmezett borászati termék tétel megnevezése: |  |
 
-| 4. Kérelmezett bortétel évjárata: |  |
+| 4. Kérelmezett borászati termék tétel évjárata: |  |
 
-| 5. A bortétel származási bizonyítványának száma: |  |
+| 5. A borászati termék tétel származási bizonyítványának száma: |  |
 
-| 6. A kérelmezett bortétel mennyisége (hl): |  |
+| 6. A kérelmezett borászati termék tétel mennyisége (hl): |  |
 
 | 7. A 31. § (4) bekezdésében meghatározott azonosító szám: |  |
 
@@ -40,6 +40,6 @@
 
 ## (az OBB elnökének aláírása)
 
-15. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^177]
+15. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^227]
 
-[^177]: A 15. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § f) pontjával megállapított szöveg.
+[^227]: A 15. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § f) pontjával megállapított, a 60/2015. (X. 8.) FM rendelet 9. § (2) bekezdése szerint módosított szöveg.

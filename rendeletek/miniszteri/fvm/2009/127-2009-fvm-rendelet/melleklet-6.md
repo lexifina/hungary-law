@@ -10,9 +10,9 @@
 
 | 1. | Termékkategória | Értékesítés |
 
-| 2. | Folyóbor (>60 liter) | 60 liter alatti tárolóedényben kiszerelt értékesítés | Mind- összesen (liter) |
+| 2. | Folyóbor (>60 liter) | 60 liter alatti tárolóedényben kiszerelt értékesítés | Mind- összesen (hl) |
 
-| 3. | fehér | vörös/rozé | fehér | vörös/rozé |  |
+| 3. | fehér (hl) | vörös/rozé (hl) | fehér (hl) | vörös/rozé (hl) |  |
 
 | 4. | 1. Belföldi értékesítés |  |  |  |  |  |
 
@@ -64,6 +64,6 @@
 
 ## adatszolgáltató aláírása
 
-6. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^168]
+6. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^218]
 
-[^168]: A 6. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (5) bekezdésével megállapított szöveg.
+[^218]: A 6. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (5) bekezdésével megállapított szöveg.

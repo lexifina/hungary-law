@@ -6,7 +6,7 @@
 
 | 1. | Évjárat: | Termőterület | Szüretelt szőlő | Szőlő felhasználása |
 
-| 2. | Termékkategória, (termékkategória csoport) | Ha | Település (hrsz., dűlő) | fajta | Poten- ciális alko- hol %vol | Mennyiség (q/hl) | Nyilatkozattevő általi borrá történő feldolgozás (a pincekönyv alapján) | ..................... szövetkezetnek szállítva | ......................... Borkészítő felvásárlónak | Egyéb rendeltetés |
+| 2. | Termékkategória, (termékkategória csoport) | Ha | Település (hrsz., dűlő) | fajta | Poten- ciális alko- hol %vol | Mennyiség (q/hl) | Nyilatkozattevő általi borrá történő feldolgozás (a borászati termék nyilvántartás alapján) | ..................... szövetkezetnek szállítva | ......................... Borkészítő felvásárlónak | Egyéb rendeltetés |
 
 | 3. | fehér | kék | fehér | vörös | Szőlő | Must | Szőlő | Must |  |  |
 
@@ -22,7 +22,7 @@
 
 | 9. | Más borászati termékek előállítására szánt ültetvény |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## (a településre, dűlőre és helyrajzi számra vonatkozó mezők kitöltése csak abban az esetben kötelező, amennyiben az adott bortétel címkéjén fel kívánja tüntetni ezeket az adatokat!)
+## (a településre, dűlőre és helyrajzi számra vonatkozó mezők kitöltése csak abban az esetben kötelező, amennyiben az adott borászati termék tétel címkéjén fel kívánja tüntetni ezeket az adatokat!)
 
 ## Kelt: ...................................................................................
 
@@ -56,12 +56,12 @@
 
 | 8. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## (a településre, dűlőre és helyrajzi számra vonatkozó mezők kitöltése csak abban az esetben kötelező, amennyiben az adott bortétel címkéjén fel kívánja tüntetni ezeket az adatokat!)
+## (a településre, dűlőre és helyrajzi számra vonatkozó mezők kitöltése csak abban az esetben kötelező, amennyiben az adott borászati termék tétel címkéjén fel kívánja tüntetni ezeket az adatokat!)
 
 ## Kelt: .....................................................................................
 
 ## Hegyközségi tag/Adatszolgáltató aláírása
 
-5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^167]
+5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^217]
 
-[^167]: Az 5. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^217]: Az 5. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (4) bekezdésével megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (6) bekezdés b) pontja szerint módosított szöveg.

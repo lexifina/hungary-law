@@ -1,6 +1,6 @@
-## „A” rész: első bor származási bizonyítvány kérelem
+## „A” rész: első borászati termék származási bizonyítvány kérelem
 
-## Első bor származási bizonyítvány kérelem
+## Első borászati termék származási bizonyítvány kérelem
 
 | Hegyközségi Tanács: |  |  | Hegyközség: |  |
 
@@ -48,13 +48,13 @@
 
 | 17. | □ nem |
 
-| 18. | mennyisége (hl – a pincekönyv szerint) |  |
+| 18. | mennyisége (hl – a borászati termék nyilvántartás szerint) |  |
 
 ## 2. A borászati termék eredete
 
 |  | A | B | C | D | E |
 
-| 1. | Tétel- szám | A bevonandó szőlő származási bizonyítvány száma | Legmagasabb eredetvédelmi kategória2 | Potenciális alkoholtartalom (%vol) | Mennyiség (q – pincekönyv alapján) |
+| 1. | Tétel- szám | A bevonandó szőlő származási bizonyítvány száma | Legmagasabb eredetvédelmi kategória2 | Potenciális alkoholtartalom (%vol) | Mennyiség (q – borászati termék nyilvántartás alapján) |
 
 | 2. |  |  |  |  |  |
 
@@ -104,11 +104,11 @@
 
 ## Bizonyítványt kérelmező aláírása
 
-## „B” rész: egyéb bor származási bizonyítvány kérelem
+## „B” rész: egyéb borászati termék származási bizonyítvány kérelem
 
-## Bor származási bizonyítvány kérelem
+## Borászati termék származási bizonyítvány kérelem
 
-| A bor származási bizonyítvány kérelmezésének célja (a megfelelő bekarikázandó) | A | készletigazolás |
+| A borászati termék származási bizonyítvány kérelmezésének célja (a megfelelő bekarikázandó) | A | készletigazolás |
 
 | B | másik adóraktárba történő átszállítás |
 
@@ -172,7 +172,7 @@
 
 |  | A | B | C | D | E |
 
-| 1. | Tétel- szám | A bevonandó szőlő vagy bor származási bizonyítvány vagy forgalomba hozatali engedély száma | Termékkategória kódja1 | Alkoholtartalom2(%vol) | Mennyiség3(hl) |
+| 1. | Tétel- szám | A bevonandó szőlő vagy borászati termék származási bizonyítvány vagy forgalomba hozatali engedély száma | Termékkategória kódja1 | Alkoholtartalom2(%vol) | Mennyiség3(hl) |
 
 | 2. |  |  |  |  |  |
 
@@ -220,11 +220,11 @@
 
 ## __________________________________________________________________________________________
 
-## 2: Szőlő származási bizonyítvány esetén potenciális alkoholtartalom, bor származási bizonyítvány vagy forgalomba hozatali engedély esetén összes alkoholtartalom
+## 2: Szőlő származási bizonyítvány esetén potenciális alkoholtartalom, borászati termék származási bizonyítvány vagy forgalomba hozatali engedély esetén összes alkoholtartalom
 
 ## __________________________________________________________________________________________
 
-## 3: Pincekönyv alapján
+## 3: Borászati termék nyilvántartás alapján
 
 ## __________________________________________________________________________________________
 
@@ -244,6 +244,6 @@
 
 ## Bizonyítványt kérelmező aláírása
 
-11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^173]
+11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^223]
 
-[^173]: A 11. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § d) pontjával megállapított, a 34/2015. (VI. 25.) FM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^223]: A 11. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § d) pontjával megállapított, a 34/2015. (VI. 25.) FM rendelet 6. § (2) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) pontja, és (5) bekezdés a) és b) pontja szerint módosított szöveg.

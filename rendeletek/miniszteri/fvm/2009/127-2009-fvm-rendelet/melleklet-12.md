@@ -1,6 +1,6 @@
-## A. Készletigazolás céljából kiadott bor származási bizonyítvány
+## A. Készletigazolás céljából kiadott borászati termék származási bizonyítvány
 
-## Bor származási bizonyítvány
+## Borászati termék származási bizonyítvány
 
 ## „A” típus – készletigazolás céljából kiadva
 
@@ -50,7 +50,7 @@
 
 | 17. | borszőlőfajta(ák) neve(i) |  |
 
-| 18. | Tör- ténet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – pincekönyv alapján) |
+| 18. | Tör- ténet | a bevont szőlő vagy borászati termék származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – borászati termék nyilvántartás alapján) |
 
 | 19. |  |  |  |
 
@@ -62,7 +62,7 @@
 
 ## Megjegyzés:
 
-## A fenti tételre a ........................................ sorszámú bor származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
+## A fenti tételre a ........................................ sorszámú borászati termék származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
 
 ## P. H.
 
@@ -70,9 +70,9 @@
 
 ## Hegybíró aláírása
 
-## B. Másik GA számmal rendelkező hegyközségi tag borászati üzemébe történő átszállítás céljából kiadott bor származási bizonyítvány
+## B. Másik GA számmal rendelkező hegyközségi tag borászati üzemébe történő átszállítás céljából kiadott borászati termék származási bizonyítvány
 
-## Bor származási bizonyítvány
+## Borászati termék származási bizonyítvány
 
 ## „B” típus – másik hegyközség területén található adóraktárba történő átszállítás céljából kiadva
 
@@ -144,7 +144,7 @@
 
 | 17. | borszőlőfajta(ák) neve(i) |  |
 
-| 18. | Tör- ténet | a bevont szőlő vagy bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – pincekönyv alapján) |
+| 18. | Tör- ténet | a bevont szőlő vagy borászati termék származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | összes alkoholtartalom (%vol) | mennyiség (hl – borászati termék nyilvántartás alapján) |
 
 | 19. |  |  |  |
 
@@ -156,7 +156,7 @@
 
 ## Megjegyzés:
 
-## A fenti tételre a ........................................ sorszámú bor származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
+## A fenti tételre a ........................................ sorszámú borászati termék származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
 
 ## P. H.
 
@@ -164,9 +164,9 @@
 
 ## Hegybíró aláírása
 
-## C. Forgalomba hozatali engedély igénylése céljából kiadott bor származási bizonyítvány
+## C. Forgalomba hozatali engedély igénylése céljából kiadott borászati termék származási bizonyítvány
 
-## Bor származási bizonyítvány
+## Borászati termék származási bizonyítvány
 
 ## „C” típus – forgalomba hozatali engedély igénylése céljából kiadva
 
@@ -228,7 +228,7 @@
 
 | 23. |  | az édességi kategória megnevezése |  |
 
-| 24. | Törté- net | a bevont bor származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | a borászati termék megnevezésre | mennyiség (hl – pincekönyv alapján) |
+| 24. | Törté- net | a bevont borászati termék származási bizonyítvány(ok) vagy forgalomba hozatali engedély(ek) száma | a borászati termék megnevezésre | mennyiség (hl – borászati termék nyilvántartás alapján) |
 
 | 25. |  |  |  |
 
@@ -242,7 +242,7 @@
 
 ## Megjegyzés:
 
-## A fenti tételekre a ...................................................... sorszámú bor származási bizonyítványt a forgalomba hozatali engedély igénylésének céljából kiadtam és nyilvántartásba vettem.
+## A fenti tételekre a ...................................................... sorszámú borászati termék származási bizonyítványt a forgalomba hozatali engedély igénylésének céljából kiadtam és nyilvántartásba vettem.
 
 ## A HBB döntésére vonatkozó záradék:
 
@@ -254,6 +254,6 @@
 
 ## Hegybíró aláírása
 
-12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^174]
+12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^224]
 
-[^174]: A 12. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § e) pontjával megállapított szöveg.
+[^224]: A 12. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § e) pontjával megállapított szöveg.

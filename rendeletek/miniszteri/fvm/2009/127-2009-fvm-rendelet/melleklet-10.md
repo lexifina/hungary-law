@@ -56,7 +56,7 @@
 
 | * Amennyiben a szüretelt szőlő: - szüreti időpontja, - származási helye (országa, település, dűlő) - fajtája - potenciális alkoholtartalma - felhasználása, valamint az a jelölni kívánt kifejezések megegyeznek, abban az esetben több helyrajzi szám is feltüntethető egy sorban |
 
-| ** Pincekönyv/felvásárlási jegy/szállítólevél/átvételi elismervény alapján. |
+| ** Borászati termék nyilvántartás/felvásárlási jegy/szállítólevél/átvételi elismervény alapján. |
 
 ## A fenti tételekre a kérelem alapján a szőlő származási bizonyítványt kiadtam és nyilvántartásba vettem.
 
@@ -70,6 +70,6 @@
 
 ## A hegybíró aláírása
 
-10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^172]
+10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^222]
 
-[^172]: A 10. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § c) pontjával megállapított szöveg.
+[^222]: A 10. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § c) pontjával megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) és g) pontja, és (5) bekezdés a) és b) pontja szerint módosított szöveg.

@@ -40,7 +40,7 @@
 
 | 3: kódok: 1. Feldolgozás adóköteles borrá a nyilatkozattevő által; 2. Feldolgozás adómentes borrá a nyilatkozattevő által; 3. Nem feldolgozó felvásárlónak értékesítve; 4. Feldolgozó szövetkezetnek szállítva; 5. Feldolgozó borkészítőnek szállítva; 6. Egyéb rendeltetés, éspedig: ………………………… |
 
-| 4: Pincekönyv/felvásárlási jegy/szállítólevél/átvételi elismervény alapján. |
+| 4: Borászati termék nyilvántartás/felvásárlási jegy/szállítólevél/átvételi elismervény alapján. |
 
 | A kérelem aláírásával a termelő igazolja, hogy a saját feldolgozású/nem feldolgozó felvásárlónak értékesített/feldolgozó szövetkezetbe szállított/feldolgozó borkészítőnek felkínált termés (a megfelelő rész aláhúzandó) a kérelemben feltüntetett ültetvény(ek)ről származik és a feltüntetett eredetvédelmi kategóriának megfelel. |
 
@@ -54,6 +54,6 @@
 
 |  |  |  |  |  | Bizonyítványt kérelmező aláírása |
 
-9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^171]
+9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^221]
 
-[^171]: A 9. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (5) bekezdésével megállapított, a 20/2014. (X. 31.) FM rendelet 32. § n) pontja szerint módosított szöveg.
+[^221]: A 9. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (5) bekezdésével megállapított, a 20/2014. (X. 31.) FM rendelet 32. § n) pontja, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés g) pontja szerint módosított szöveg.

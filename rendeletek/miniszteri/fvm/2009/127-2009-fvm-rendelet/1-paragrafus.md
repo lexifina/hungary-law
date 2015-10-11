@@ -72,13 +72,15 @@ c)[^4] ellenőrzéssel, laboratóriumi vizsgálatokkal és a forgalomba hozatali
 
 10. vizsgálat: a megmintázott termékhalmaz az Európai Unió által elfogadott módszerrel történő – érzékszervi, fizikai, kémiai, kiszerelési, jelölési, mikrobiológiai, toxikológiai, radiológiai – vizsgálata a fogyaszthatóság, forgalmazhatóság engedélyezésének érdekében.
 
-11.[^9] termékhalmaz: termékhalmaz az azonos tételszámmal ellátott termék; tételszám hiányában a pincekönyvben egy termékként nyilvántartott, ennek hiányában a származást igazoló dokumentumokban megjelölt mennyiség tekintendő egy termékhalmaznak;
+11.[^9] termékhalmaz: termékhalmaz az azonos tételszámmal ellátott termék; tételszám hiányában a borászati termék nyilvántartásában egy termékként nyilvántartott, ennek hiányában a származást igazoló dokumentumokban megjelölt mennyiség tekintendő egy termékhalmaznak;
 
 d)[^10] egyéb fogalmak:
 
 1. borászati termék: az 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet 2. részében meghatározott termék;
 
-2. bor: az 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet 2. rész 1. pontjában meghatározott termék.
+2. bor: az 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet 2. rész 1. pontjában meghatározott termék;
+
+3.[^11] borászati termék nyilvántartása: a Btv. 19. § (1) bekezdése szerint vezetett nyilvántartás.
 
 [^1]: Az 1. § a) pont 1. alpontját a 128/2012. (XII. 14.) VM rendelet 32. § a) pontja hatályon kívül helyezte, újonnan a 20/2014. (X. 31.) FM rendelet 1. § (1) bekezdése iktatta be.
 [^2]: Az 1. § a) pont 3. alpontját a 20/2014. (X. 31.) FM rendelet 33. § a) pontja hatályon kívül helyezte.
@@ -88,5 +90,6 @@ d)[^10] egyéb fogalmak:
 [^6]: Az 1. § c) pont 5. pontja a 128/2012. (XII. 14.) VM rendelet 30. § (1) bekezdése szerint módosított szöveg.
 [^7]: Az 1. § c) pont 7. pontja a 128/2012. (XII. 14.) VM rendelet 30. § (2) bekezdése szerint módosított szöveg.
 [^8]: Az 1. § c) pont 9. pontja a 128/2012. (XII. 14.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 1. § c) pont 11. pontját a 128/2012. (XII. 14.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^9]: Az 1. § c) pont 11. pontját a 128/2012. (XII. 14.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^10]: Az 1. § d) pontját a 128/2012. (XII. 14.) VM rendelet 1. § (4) bekezdése iktatta be, szövege a 20/2014. (X. 31.) FM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^11]: Az 1. § d) pont 3. pontját a 60/2015. (X. 8.) FM rendelet 1. §-a iktatta be.

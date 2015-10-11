@@ -54,7 +54,13 @@
 
 | 26. | siller | bor (OEM és OFJ) | igen | A rövid héjon erjesztés következtében élénk, halvány színű vörösbor. |
 
-16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^178]
+| 27. | védett eredetű | bor, pezsgő, minőségi pezsgő, illatos minőségi pezsgő, gyöngyözőbor, szén-dioxid hozzáadásával készült gyöngyözőbor (OEM) | igen | Az oltalom alatt álló eredetmegjelölés kifejezés helyett használható a vonatkozó termékleírás szerint, kiegészítve a borászati termék kategóriájának nevével. |
+
+| 28. | minőségi bor | bor (OEM) | igen | Az oltalom alatt álló eredetmegjelölés kifejezés helyett használható a 2012. augusztus 1-jét megelőző szüretből származó borokon. |
+
+| 29. | tájbor | bor (OFJ) | igen | Az oltalom alatt álló földrajzi jelzés kifejezés helyett használható a vonatkozó termékleírás szerint. |
+
+16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^228]
 
 „A” rész
 
@@ -422,4 +428,4 @@ Magyar mustfok átszámítása alkoholtartalomra
 
 A tömegszázalékban mért cukortartalom átszámítása alkoholfokra
 
-[^178]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^228]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.

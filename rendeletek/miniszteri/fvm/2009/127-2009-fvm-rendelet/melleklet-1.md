@@ -1,3 +1,3 @@
-1. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^163]
+1. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^191]
 
-[^163]: Az 1. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § a) pontjával megállapított szöveg.
+[^191]: Az 1. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § a) pontjával megállapított szöveg.
