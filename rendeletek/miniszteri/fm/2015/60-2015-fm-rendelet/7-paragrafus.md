@@ -1,3 +1,3 @@
-## 2–6. §[^1]
+## 2–6. §[^2]
 
-[^1]: A 2–6. § a 11. § (2) bekezdése alapján 2016. április 1-jén lép hatályba.
+[^2]: A 2–6. § a 11. § (2) bekezdése alapján 2016. április 1-jén lép hatályba.
