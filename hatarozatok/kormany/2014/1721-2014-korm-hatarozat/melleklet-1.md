@@ -18,7 +18,7 @@
 
 ## Felelős: igazságügyi miniszter, Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. június 30., a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok címet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcímet és a 22. Nemzeti Kommunikációs Hivatal címet érintő átcsoportosítások tekintetében 2015. december 31.
+## Határidő: 2015. június 30., a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok címet és a 22. Nemzeti Kommunikációs Hivatal címet érintő átcsoportosítások tekintetében 2015. december 31., a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára átcsoportosított 515,0 millió forint tekintetében 2015. november 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 7. Liget Budapest projekt előkészítése és megvalósítása jogcímcsoport javára átcsoportosított 2641,5 millió forint és a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcím javára átcsoportosított 140,4 millió forint tekintetében 2016. június 30.
 
 ## 3. A Kormány az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a kormányzati infokommunikációs szolgáltatások finanszírozásához és az ebr42 önkormányzati információs rendszer működtetéséhez
 
@@ -56,6 +56,6 @@
 
 1. melléklet az 1721/2014. (XII. 5.) Korm. határozathoz
 
-[^1]: A 2. pont az 1520/2015. (VII. 27.) Korm. határozat 25. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1520/2015. (VII. 27.) Korm. határozat 25. pontja, az 1741/2015. (X. 13.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^2]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
