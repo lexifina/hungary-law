@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1968-30
 | 2014-10-02 | 2013-1968-30-22.3 | 1567/2014. (X. 2.) Korm. határozat |
 | 2014-12-18 | 2013-1968-30-22.4 | 1567/2014. (X. 2.) Korm. határozat |
 | 2015-07-27 | 2013-1968-30-22.5 | 1567/2014. (X. 2.) Korm. határozat |
+| 2015-10-13 | 2013-1968-30-22.6 | 1567/2014. (X. 2.) Korm. határozat |

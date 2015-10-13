@@ -16,7 +16,7 @@
 
 ## a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. június 30., a XI. Miniszterelnökség fejezet, 9. Eszterháza Kulturális, Kutató- és Fesztiválközpont cím javára a nagycenki Széchenyi István Emlékmúzeum rekonstrukciójára, illetve a műemlék együttes átfogó felújítására és parkjának rehabilitációjára átcsoportosított összegből 99 330 ezer forint tekintetében 2015. augusztus 31.
+## Határidő: 2014. június 30., a XI. Miniszterelnökség fejezet, 9. Eszterháza Kulturális, Kutató- és Fesztiválközpont cím javára a nagycenki Széchenyi István Emlékmúzeum rekonstrukciójára, illetve a műemlék együttes átfogó felújítására és parkjának rehabilitációjára átcsoportosított összegből 99 330 ezer forint tekintetében 2015. augusztus 31., a XX. Emberi Erőforrások Minisztériuma fejezet, 18. Köznevelési feladatellátás és irányítás intézményei címre átcsoportosított 516,0 millió forint tekintetében 2015. december 31.
 
 ## 2. A Kormány az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a 2012. évi kötelezettségvállalással nem terhelt előirányzat-maradványok egy részének felhasználásáról szóló 1562/2013. (VIII. 16.) Korm. határozattal átcsoportosított összegből 406,0 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 2. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 25. Felújítások központi támogatása, egyéb fejlesztési támogatások alcím, 1. Nem állami intézmények felújítása, beruházása jogcímcsoport javára a 2. melléklet szerint.
 
@@ -94,7 +94,7 @@
 
 1. melléklet az 1968/2013. (XII. 17.) Korm. határozathoz
 
-[^1]: Az 1. pont az 1567/2014. (X. 2.) Korm. határozat 3. pontja, az 1779/2014. (XII. 18.) Korm. rendelet 2. pontja, az 1520/2015. (VII. 27.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1567/2014. (X. 2.) Korm. határozat 3. pontja, az 1779/2014. (XII. 18.) Korm. rendelet 2. pontja, az 1520/2015. (VII. 27.) Korm. határozat 9. pontja, az 1741/2015. (X. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: Lásd a 2047/2013. (XII. 30.) Korm. határozatot.
 [^3]: A 8–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 12–14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
