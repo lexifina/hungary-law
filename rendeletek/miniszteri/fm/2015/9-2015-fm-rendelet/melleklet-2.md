@@ -1,29 +1,29 @@
-## Az egyes termeléshez kötött közvetlen támogatási jogcímekre vonatkozó 2015-2020. évi támogatási keretösszegek, millió euró
+## Az egyes termeléshez kötött közvetlen támogatási jogcímekre vonatkozó 2015–2020. évi támogatási keretösszegek, millió euró
 
 |  | A | B | C | D | E | F | G |
 
 | 1 | Támogatási jogcím megnevezése | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
 
-| 2 | Anyatehéntartás | 35,00 | 34,97 | 34,93 | 34,93 | 34,93 | 33,01 |
+| 2 | Anyatehéntartás | 35,000 | 34,967 | 34,932 | 34,929 | 34,926 | 34,923 |
 
-| 3 | Hízottbika-tartás | 4,50 | 4,50 | 4,49 | 4,49 | 4,49 | 4,24 |
+| 3 | Hízottbika-tartás | 4,500 | 4,496 | 4,491 | 4,491 | 4,490 | 4,490 |
 
-| 4 | Tejhasznú tehéntartás | 69,00 | 68,93 | 68,87 | 68,86 | 68,85 | 65,07 |
+| 4 | Tejhasznú tehéntartás | 69,000 | 68,934 | 68,866 | 68,860 | 68,854 | 68,847 |
 
-| 5 | Anyajuhtartás | 22,00 | 21,98 | 21,96 | 21,96 | 21,95 | 20,75 |
+| 5 | Anyajuhtartás | 22,000 | 21,979 | 21,957 | 21,955 | 21,953 | 21,951 |
 
-| 6 | Cukorrépa termesztés | 8,00 | 7,99 | 7,98 | 7,98 | 7,98 | 7,54 |
+| 6 | Cukorrépa termesztés | 8,000 | 7,992 | 7,984 | 7,984 | 7,983 | 7,982 |
 
-| 7 | Rizstermesztés | 2,00 | 2,00 | 2,00 | 2,00 | 2,00 | 1,89 |
+| 7 | Rizstermesztés | 2,000 | 1,998 | 1,996 | 1,996 | 1,996 | 1,996 |
 
-| 8 | Gyümölcstermesztés | 16,50 | 16,48 | 16,47 | 16,47 | 16,46 | 15,56 |
+| 8 | Gyümölcstermesztés | 16,500 | 16,484 | 16,468 | 16,467 | 16,465 | 16,463 |
 
-| 9 | Zöldségnövény termesztés | 8,00 | 7,99 | 7,98 | 7,98 | 7,98 | 7,54 |
+| 9 | Zöldségnövény termesztés | 8,000 | 7,992 | 7,984 | 7,984 | 7,983 | 7,982 |
 
-| 10 | Ipari zöldségnövény termesztés | 9,95 | 9,94 | 9,93 | 9,93 | 9,93 | 9,38 |
+| 10 | Ipari zöldségnövény termesztés | 9,945 | 9,936 | 9,926 | 9,925 | 9,924 | 9,923 |
 
-| 11 | Szemes fehérjetakarmány-növény termesztés | 13,46 | 13,44 | 13,43 | 13,43 | 13,43 | 12,69 |
+| 11 | Szemes fehérjetakarmány- növény termesztés | 13,458 | 13,446 | 13,432 | 13,431 | 13,430 | 13,429 |
 
-| 12 | Szálas fehérjetakarmány-növény termesztés | 13,46 | 13,44 | 13,43 | 13,43 | 13,43 | 12,69 |
+| 12 | Szálas fehérjetakarmány- növény termesztés | 13,458 | 13,446 | 13,432 | 13,431 | 13,430 | 13,429 |
 
 2. melléklet a 9/2015. (III. 13.) FM rendelethez
