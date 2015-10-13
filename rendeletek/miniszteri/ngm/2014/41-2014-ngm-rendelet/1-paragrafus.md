@@ -10,7 +10,7 @@ c) üzemeltetési hely rendelkezésre bocsátójának nevét,
 
 d) üzemeltetési helyét,
 
-e) gyártási számát,
+e)[^1] gyártási számát, vagy ha az nem áll rendelkezésre, az üzemeltető saját nyilvántartásában szereplő egyedileg meghatározott azonosító számát,
 
 f) típusát,
 
@@ -21,3 +21,5 @@ h) állapotát,
 i) kategóriáját, és
 
 j) működési formáját.
+
+[^1]: Az 1. § e) pontja a 26/2015. (IX. 28.) NGM rendelet 1. §-ával megállapított szöveg.
