@@ -14,7 +14,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2015. június 30., a Festetics-mauzóleum felújítása érdekében biztosított 175,0 millió forint összeg tekintetében 2015. szeptember 30.[^1]
+## Határidő: 2015. június 30., a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcím javára átcsoportosított 475,0 millió forint tekintetében 2015. december 31.[^1]
 
 1. melléklet az 1405/2014. (VII. 18.) Korm. határozathoz
 
@@ -84,4 +84,4 @@
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1520/2015. (VII. 27.) Korm. határozat 15. pontja szerint módosított szöveg.
+[^1]: Az 1520/2015. (VII. 27.) Korm. határozat 15. pontja, az 1741/2015. (X. 13.) Korm. határozat 8. pontja szerint módosított szöveg.
