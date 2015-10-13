@@ -1,6 +1,6 @@
 A Kormány
 
-1. felhívja a nemzetgazdasági minisztert, hogy a kísérő nélküli kiskorúak ellátása érdekében biztosítson 368,8 millió forint összegű forrást a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény XX. Emberi Erőforrások Minisztériuma fejezet 2. cím 3. alcím „Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei” előirányzat javára;
+1.[^1] felhívja a nemzetgazdasági minisztert, hogy a kísérő nélküli kiskorúak ellátása érdekében biztosítson 368,8 millió forint összegű forrást a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény XX. Emberi Erőforrások Minisztériuma fejezetében;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -25,3 +25,5 @@ Határidő: első tájékoztatásra: 2016. március 15.
 Felelős: emberi erőforrások minisztere
 
 Határidő: első alkalommal 2016. március 15., ezt követően szükség szerint
+
+[^1]: Az 1. pont az 1741/2015. (X. 13.) Korm. határozat 10. pontja szerint módosított szöveg.
