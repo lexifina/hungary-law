@@ -8,9 +8,9 @@ b) konzultáció az éves költségvetés önkormányzatokat érintő kérdései
 
 c) javaslattétel a kormány számára, különös tekintettel a jogalkotási feladatokra.
 
-1.2. A Tanács tagjai a belügyminiszter, a Belügyminisztérium önkormányzatokért felelős államtitkára, a Közigazgatási és Igazságügyi Minisztérium területi közigazgatásért és választásokért felelős államtitkára, az országos önkormányzati érdekszövetségek elnökei, továbbá – a megyei intézmény fenntartó központok által jelenleg ellátott intézményfenntartói feladatok átadás-átvételével kapcsolatos eljárásainak végleges lezárásáig tagként, ezt követően pedig tanácskozási joggal – a nemzeti erőforrás miniszter. A Tanács tagjai helyettesítésükre eseti megbízást adhatnak. A Tanács elnöke a Tanács ülésének egyes napirendi pontjaihoz tanácskozási joggal hívja meg a napirendi ponttal érintett szakterületért felelős állami vezetőt. A Tanács bármely tagja kezdeményezheti eseti meghívott részvételét. A tagok díjazásban nem részesülnek.
+1.2.[^1] A Tanács tagjai a belügyminiszter, a nemzetgazdasági miniszter, a Belügyminisztérium önkormányzatokért felelős államtitkára, a Miniszterelnökség területi közigazgatásért felelős államtitkára, az országos önkormányzati érdekszövetségek elnökei, továbbá – tanácskozási joggal – az emberi erőforrások minisztere. A Tanács tagjai helyettesítésükre eseti megbízást adhatnak. A Tanács elnöke a Tanács ülésének egyes napirendi pontjaihoz tanácskozási joggal hívja meg a napirendi ponttal érintett szakterületért felelős állami vezetőt. A Tanács bármely tagja kezdeményezheti eseti meghívott részvételét. A tagok díjazásban nem részesülnek.
 
-1.3. A Tanács elnöke a belügyminiszter, alelnöke a Belügyminisztérium önkormányzatokért felelős államtitkára. A Tanács évente legalább két alkalommal ülésezik, üléseit az elnök hívja össze és vezeti. A Tanács bármely tagja kezdeményezheti rendkívüli ülés összehívását, a kezdeményezésről az elnök dönt.
+1.3.[^2] A Tanács elnöke a belügyminiszter, alelnöke a Belügyminisztérium önkormányzatokért felelős államtitkára. A Tanács társelnökét rotációs elv alapján az országos önkormányzati szövetségek – konszenzusos döntésük alapján – biztosítják. A Tanács évente legalább két alkalommal ülésezik, üléseit az elnök hívja össze és vezeti. A Tanács bármely tagja kezdeményezheti rendkívüli ülés összehívását, a kezdeményezésről az elnök dönt.
 
 1.4. A Tanács működésének rendjét maga határozza meg.
 
@@ -20,6 +20,8 @@ c) javaslattétel a kormány számára, különös tekintettel a jogalkotási fe
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3.[^1]
+3.[^3]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.2. alpontja az 1742/2015. (X. 13.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 1. pont 1.3. alpontja az 1742/2015. (X. 13.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

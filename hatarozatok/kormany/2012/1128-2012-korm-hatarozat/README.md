@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1128-30
 | --- | --- | --- |
 | 2012-04-27 | 2012-1128-30-22.1 | 1128/2012. (IV. 26.) Korm. határozat |
 | 2012-04-28 | 2012-1128-30-22.2 | 2010: CXXX. törvény |
+| 2015-10-13 | 2012-1128-30-22.3 | 1742/2015. (X. 13.) Korm. határozat |
