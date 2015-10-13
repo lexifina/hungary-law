@@ -1,0 +1,178 @@
+# A Kormány 1742/2015. (X. 13.) Korm. határozata
+
+Magyar Közlöny 2015. évi 148. szám, 2015. október 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/aba41f6930defbd218d62a8ef7051aeeb3816d93/dokumentumok/277e8e5b177c828a50f458e8909d39d1268cc867/letoltes)
+
+---
+
+A Kormány 1742/2015. (X. 13.) Korm. határozata
+a Kormány és az országos önkormányzati érdekszövetségek közötti stratégiai együttműködésről szóló
+megállapodás aláírásáról, valamint az Önkormányzatok Nemzeti Együttműködési Tanácsáról szóló
+1128/2012. (IV. 26.) Korm. határozat módosításáról
+1. A Kormány egyetért az országos önkormányzati érdekszövetségekkel történő stratégiai együttműködésről szóló, az
+1. mellékletben foglalt Megállapodással (a továbbiakban: Megállapodás).
+2. Ez a határozat a közzététele napján 13 órakor lép hatályba.
+3. Az Önkormányzatok Nemzeti Együttműködési Tanácsáról szóló 1128/2012. (IV. 26.) Korm. határozat 1. pont 1.2. és
+1.3. alpontja helyébe a következő rendelkezések lépnek:
+„1.2. A Tanács tagjai a belügyminiszter, a nemzetgazdasági miniszter, a Belügyminisztérium önkormányzatokért
+felelős államtitkára, a Miniszterelnökség területi közigazgatásért felelős államtitkára, az országos önkormányzati
+érdekszövetségek elnökei, továbbá – tanácskozási joggal – az emberi erőforrások minisztere. A Tanács tagjai
+helyettesítésükre eseti megbízást adhatnak. A Tanács elnöke a Tanács ülésének egyes napirendi pontjaihoz
+tanácskozási joggal hívja meg a napirendi ponttal érintett szakterületért felelős állami vezetőt. A Tanács bármely
+tagja kezdeményezheti eseti meghívott részvételét. A tagok díjazásban nem részesülnek.
+1.3. A Tanács elnöke a belügyminiszter, alelnöke a Belügyminisztérium önkormányzatokért felelős államtitkára.
+A Tanács társelnökét rotációs elv alapján az országos önkormányzati szövetségek – konszenzusos döntésük
+alapján – biztosítják. A Tanács évente legalább két alkalommal ülésezik, üléseit az elnök hívja össze és vezeti.
+A Tanács bármely tagja kezdeményezheti rendkívüli ülés összehívását, a kezdeményezésről az elnök dönt.”
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1742/2015. (X. 13.) Korm. határozathoz
+Megállapodás a Kormány és az országos önkormányzati érdekszövetségek közötti
+stratégiai együttműködésről
+Bevezető
+A negyedszázados magyar önkormányzati rendszer létrehozása alkalmából a Kormány és a jelen Megállapodást
+aláíró országos önkormányzati érdekszövetségek egyenrangú partnerként elhatározták, hogy az elmúlt évtizedek
+tapasztalatai alapján erősítik az egymás közötti együttműködést az Alaptörvény 34. cikk (1) bekezdése alapján
+a közösségi célok elérése érdekében.
+A Megállapodást aláírók figyelemmel voltak a Helyi Önkormányzatok Európai Chartájáról szóló, 1985. október 15-én,
+Strasbourgban kelt egyezmény 4. cikk 6. pontja szerint arra, hogy lehetőség szerint a tervezési és döntéshozatali
+eljárás során, megfelelő időben és formában, ki kell kérni minden olyan ügyben a helyi önkormányzatok
+véleményét, amely őket közvetlenül érinti.
+A Megállapodást aláírók tekintettel voltak a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
+131. § (1) bekezdésében meghatározott rendelkezések szerint arra, hogy az országos önkormányzati
+érdekszövetségek jogalkotási feladatokra, intézkedések megtételére vonatkozó javaslatot tehetnek, konzultációt
+folytathatnak a Kormánnyal a helyi önkormányzati rendszert, valamint a helyi önkormányzatok által ellátott
+közszolgáltatásokat érintő stratégiai kérdésekről és a központi költségvetés önkormányzatokat érintő kérdéseiről.
+Mindezek alapján a Megállapodást aláírók a Kormány és az országos önkormányzati szövetségek közötti stratégiai
+együttműködés céljáról és alapelveiről, valamint az együttműködés tartalmi és formai kérdéseiről az alábbi
+Megállapodást fogadták el a Helyi Önkormányzatok Napja alkalmából:
+
+I.
+A stratégiai együttműködés célja és alapelvei
+1. A Kormány és az országos önkormányzati szövetségek közötti együttműködés alapvető célja a folyamatos
+kapcsolattartás és rendszeres érdemi párbeszéd lehetővé tétele a Kormány önkormányzatokat érintő
+elképzeléseiről, az önkormányzati szektor javaslatairól és észrevételeiről a közösségi célok együttes elérése
+érdekében.
+2. Az együttműködési rendszer célkitűzései a következők:
+a) A kormányzati és az önkormányzati szint közötti folyamatos egyeztetés biztosítása a feladatokról és
+a hozzájuk kapcsolódó finanszírozási forrásokról;
+b) A források felhasználási feltételeinek meghatározása a két oldal által egyeztetett prioritások mentén;
+c) Minden település számára biztosítani az önkormányzáshoz való jogot, ennek jegyében lehetőséget teremteni
+valamennyi települési közösség számára a helyi szabadság kiteljesítésére közös megoldásokon keresztül,
+az erőforrások hatékony felhasználása, a helyi demokrácia megerősödése érdekében;
+d) Az önkormányzati szektor számára kiszámítható, biztos jogi és gazdasági keretek kialakítása;
+e) A Kormány és az Országgyűlés számára megbízható információs bázis szolgáltatásának létrehozása és
+elérhetővé tétele az állami és önkormányzati menedzsment hatékony tervezésének biztosításához;
+f) Az állam és az önkormányzatok együttműködése a közfeladatok ellátásának átláthatósága érdekében;
+g) A társadalmi közérzet javítása, a konstruktív, együttműködő közhangulat megteremtése;
+h) A közösségi célok elérése érdekében hasznosítható vélemények, javaslatok felszínre hozatala, amelynek
+értelmében az önkormányzati szövetségek felterjesztési joggal rendelkeznek;
+i) A közösségi döntések nehézségeivel, felelősségével való társadalmi azonosulás elérése;
+j) Az esetleges konfliktusok minimalizálása, a kormányzati és önkormányzati hatáskörök és korlátok jobb
+megértésének elősegítése;
+k) Az európai uniós döntéshozatali eljárásban az önkormányzatokat érintő döntések esetében a helyi
+önkormányzatok véleményének megismerése és a döntések társadalmi hatásának egyeztetése, így
+különösen az Európai Unió Régiók Bizottságában a magyar delegáció teljes jogú tagjai által a magyar
+önkormányzati érdekek képviseletének és érdekérvényesítésének az elősegítése, valamint a magyar tagok
+bizottsági munkájának megismerhetővé tétele.
+3. Az együttműködés alapelvei a következők:
+a) Az együttműködés azon a közös elvi alapon nyugszik, hogy az Országgyűlés és a Kormány felelőssége
+az országos gazdasági és politikai célok meghatározása az önkormányzati szektorban.
+b) A Kormány célja az erős és hatékony önkormányzati szektor, amely alkalmas arra, hogy kulcsszereplő legyen
+a helyi közfeladatok ellátásában, és amely a jó szolgáltatásokat, a választás szabadságát és az állampolgárok
+bevonását képes biztosítani a helyi demokrácia jegyében, mindezt az egyéni jogok védelme mellett.
+c) Az önkormányzati szektor számára ezért olyan keretfeltételeket kell biztosítani, amelyek megengedik, hogy
+a települési és területi önkormányzatok elláthassák a feladataikat, mint közszolgáltatók.
+d) Fontos, hogy az együttműködés során láthatóvá váljon a felek közötti valamennyi vitás kérdés, és világosan
+meghatározható legyen a döntéshozók számára az együttműködő felek közös vagy eltérő álláspontja.
+e) Az együttműködés keretében lefolytatott egyeztetés a sikeres közszolgálat egyik alapfeltétele. A siker záloga
+a nyíltság, a becsületesség és a partner tisztelete.
+f) A felek közötti egyeztetés lényege, hogy a célokat, a korlátokat közösen kell meghatározni, egyértelművé
+tenni.
+g) A feleknek egyértelmű mandátummal kell rendelkezniük, az összes résztvevő álláspontját, elvárásait
+világossá kell tenni.
+h) Az együttműködő partnereknek az önkormányzati vélemények kialakításához egymás rendelkezésre kell
+bocsátani az összes fontos információt.
+i) Az együttműködési folyamat minden elemében meg kell nyilvánulnia az egyenrangú partneri viszonynak,
+a folyamatért és az eredményért közös a felelősség.
+j) Megegyezés esetén tisztázni kell, hogy kinek mi a feladata, felelőssége a Megállapodás végrehajtásában,
+rögzíteni kell a visszacsatolás módját.
+
+II.
+A stratégiai együttműködés területei és tárgykörei
+1. Érdemi egyeztetés megfelelő időben a helyi önkormányzati rendszert, valamint a helyi önkormányzatok által ellátott
+feladatokat, közszolgáltatásokat érintő stratégiai kérdésekről, kormányzati programokról és javaslatokról, valamint
+a központi költségvetés és a zárszámadás önkormányzatokat érintő kérdéseiről.
+2. Előzetes egyeztetés az önkormányzati álláspontok kialakításához az önkormányzatokat érintő jogszabály-
+tervezetekről és kormányzati döntésekről.
+3. Előzetes egyeztetés az európai uniós döntéshozatali eljárásban az önkormányzatokat érintő döntésekről, és érdemi
+egyeztetés a helyi szabályozást érintő kérdésekről.
+III.
+A kapcsolattartás módja és feltételei
+1. Az együttműködési és egyeztetési rendszer politikai és adminisztratív kapcsolatból áll.
+2. Az együttműködés politikai kapcsolata elsősorban az Önkormányzatok Nemzeti Együttműködési Tanácsa
+(a továbbiakban: ÖNET) legalább évente két alkalommal megtartott érdemi egyeztetéséből áll. Az ügyrendet
+a partnerek konszenzussal fogadják el. Valamennyi megbeszélésnek – a II. fejezetben meghatározott tárgykörökhöz
+igazodó – speciális témája van. Az egyeztetéseken az ÖNET-re vonatkozó kormányhatározatnak megfelelően a helyi
+önkormányzatokért felelős miniszter elnököl, az állam részéről továbbá azoknak a minisztériumoknak a vezetői
+vesznek részt, akiket érint az adott téma. Az ÖNET ülésén valamennyi országos önkormányzati szövetség vezetője,
+vagy annak megbízottja teljes jogú tagként vesz részt. Az ÖNET társelnökét rotációs elv alapján az országos
+önkormányzati szövetségek konszenzusos döntése alapján biztosítják. Az ÖNET munkatervét, az ülések napirendjét
+és forgatókönyvét az elnök határozza meg a társelnök véleményének kikérését követően. Az ülésekről hangfelvétel
+és emlékeztető készül. Az emlékeztetőt az elnök és a társelnök látja el kézjegyével.
+3. Az együttműködés adminisztratív kapcsolata keretében a helyi önkormányzatokért felelős miniszter által kijelölt
+titkárság készíti elő az ÖNET ülésére a dokumentumokat, amelyeket az ülés kitűzött időpontja előtt 15 nappal
+eljuttat a tagoknak. A helyi önkormányzatokért felelős miniszter titkársága koordinálja az ÖNET ülésén résztvevő
+minisztériumok részvételével és állásfoglalásával kapcsolatos kérdéseket. Az önkormányzati szövetségek szakmai
+képviseletének ellátását az országos önkormányzati szövetségek egymás közötti megállapodása rögzíti.
+4. A Megállapodás II/1. pontja szerinti témakörben az ÖNET egyeztetésére kerül sor azoknak a programoknak
+a megtervezésében, amelyek jelentős változásokat eredményeznek az önkormányzati feladatellátásban és
+szabályozásban. Az egyeztetési rendszer elsősorban olyan egyeztetési és együttműködési fórum, amely az állami
+költségvetés önkormányzati szektorra vonatkozó gazdasági programjára, finanszírozási elképzeléseire vonatkozik.
+Az ÖNET egyeztetési találkozói a mindenkori éves költségvetés kormányzati előkészítési munkafolyamatához is
+igazodnak.
+5. A Megállapodás II/2. pontja tekintetében az egyeztetés a jogalkotásról szóló 2010. évi CXXX. törvény 19. §
+(1) bekezdésében foglaltak szerint történik az országos önkormányzati szövetségek közvetlen megkeresésével, de
+igény esetén az ÖNET napirendjére kell tűzni.
+6. A Megállapodás II/3. pontjában meghatározott tárgykörökben az Országgyűlésről szóló 2012. évi XXXVI. törvény
+VI. Fejezet 26. és 27. alcímében meghatározott eljárási rendbe illeszkedve valósul meg az egyeztetési eljárás
+a Kormány és az országos önkormányzati szövetségek együttműködése keretében.
+7. A Megállapodás II/1–3. pontjaiban meghatározott témakörökben az országos önkormányzati szövetségek részéről
+megfogalmazott javaslat tartalma határozza meg – a III/3. pontban rögzített adminisztratív eljárás keretében –
+az egyeztetés megvalósításának formáját és szintjét. Amennyiben az előkészítés során az országos önkormányzati
+szövetségek képviselői a javaslatnak az ÖNET előtti tárgyalását tartják szükségesnek, akkor az országos
+önkormányzati szövetségek javaslatát – a kormányzati észrevételekkel együtt – az ÖNET napirendjére kell tűzni.
+8. E Megállapodás nem terjed ki a közszolgálati munkavállalói és munkáltatói érdekegyeztetés kérdéseire, így
+különösen az Országos Közszolgálati Érdekegyeztető Tanács fóruma keretében megvalósuló együttműködésre és
+konzultációra.
+9. Az együttműködés és a konzultáció dokumentumainak hozzáférhetőnek kell lenniük a felek honlapján.
+
+IV.
+A megállapodás időtartama
+1. A felek e Megállapodást határozatlan időtartamra kötik.
+2. E Megállapodás érvényesülését a felek évente egyszer az ÖNET fórum keretében értékelik, és a felülvizsgálatát
+szükség szerint elvégzik.
+Tarlós István s. k., Kovács Péter s. k., Dr. Pintér Sándor s. k.,
+elnök társelnök belügyminiszter
+a Kormány részéről
+Budapesti Önkormányzatok Szövetsége
+Szita Károly s. k.,
+elnök
+Megyei Jogú Városok Szövetsége
+Fehérvári Tamás s. k.,
+elnök
+Megyei Önkormányzatok Országos Szövetsége
+Dr. Gémesi György s. k.,
+elnök
+Magyar Önkormányzatok Szövetsége
+Schmidt Jenő s. k.,
+elnök
+Települési Önkormányzatok Országos Szövetsége
+Lipők Sándor s. k.,
+elnök
+Kisvárosi Önkormányzatok Országos Érdekszövetsége
+Dr. Wekler Ferenc s. k.,
+elnök
+Községek, Kistelepülések és Kistérségek Országos Önkormányzati Szövetsége
+Szabó Gellért s. k.,
+elnök
+Magyar Faluszövetség
