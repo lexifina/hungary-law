@@ -1113,7 +1113,3 @@ Kiegészítő rendelkezések:
 6. Támogatási kérelem a tárgyév végéig az igénylési határidő elmulasztása esetén is benyújtható.
 
 7. A kincstár azon nem állami fenntartóknak, melyek részére a szociális, gyermekjóléti és gyermekvédelmi ágazati pótlék kifizetéséhez kapcsolódó támogatásról szóló 34/2014. (II. 18.) Korm. rendelet alapján 2014. december hónapban támogatást folyósít - külön igénylés nélkül -, azzal azonos összegű támogatási előleget biztosít havonta 2015. január és február hónapban. A folyósított előleg és a fenntartót ténylegesen megillető támogatás különbözetének rendezésére a március hónapban folyósítandó támogatás utalásával egyidejűleg kerül sor. A különbözet után kamat nem számítható fel.
-
-8. A kincstár a támogatási kérelemről
-
-a) a 7. pont szerint előlegre jogosult fenntartók esetében, ha kérelmüket határidőben benyújtották 2015. február 28-áig,
