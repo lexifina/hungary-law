@@ -26,15 +26,15 @@
 
 ## Határidő: 2015. június 30., a Földművelésügyi Minisztérium részére átcsoportosított összeg tekintetében 2016. január 31., a Külgazdasági és Külügyminisztérium részére átcsoportosított összeg tekintetében 2016. június 30.
 
-## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1968/2013. (XII. 17.) Korm. határozatban (a továbbiakban: Határozat1.) foglaltaktól eltérően a geszti Arany János Általános Iskola elhelyezését biztosító új iskolaépület építése céljából átcsoportosított 516,0 millió forint elszámolási és visszatérítési határideje a Határozat1.-ben foglaltaktól eltérően 2015. június 30.
+## 2.[^2]
 
 ## 3. A Kormány egyetért azzal, hogy „A székesfehérvári királyi bazilika embertani leleteinek genetikai azonosítása” című projekt 1. ütemének megvalósítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1180/2014. (III. 27.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 21,1 millió forint a XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím, K3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 4–6.[^2]
+## 4–6.[^3]
 
 ## 7. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, egyes kormányhatározatok módosításáról, a pártalapítványok tartalékának átcsoportosításáról, valamint a 2013. évi költségvetési maradványok egy részének felhasználásáról szóló 1457/2014. (VIII. 14.) Korm. határozatban (a továbbiakban: Határozat2.) foglaltaktól eltérően a Határozat2. 5. pontja szerinti 240,0 millió forint a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím általános működésével kapcsolatos kiadások finanszírozására kerüljön felhasználásra és elszámolásra.
 
-## 8.[^3]
+## 8.[^4]
 
 ## 9. A Kormány egyetért azzal, hogy a nemzetpolitikai tevékenység támogatásának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1542/2014. (IX. 24.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport K7. Felújítások kiemelt előirányzat javára átcsoportosított 65,2 millió forintból 63,6 millió forint a XI. Miniszterelnökség fejezet 15. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére, 1,6 millió forint a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -181,5 +181,6 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 [^1]: Az 1. pont záró szövegrésze az 1520/2015. (VII. 27.) Korm. határozat 24. pontja szerint módosított szöveg.
-[^2]: A 4–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pontot az 1741/2015. (X. 13.) Korm. határozat 4. pontja visszavonta.
+[^3]: A 4–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
