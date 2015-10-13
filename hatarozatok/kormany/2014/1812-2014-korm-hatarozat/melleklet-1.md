@@ -52,7 +52,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, belügyminiszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere
 
-## Határidő: 2015. június 30., a XV. Nemzetgazdasági Minisztérium fejezet, 8. Magyar Államkincstár cím részére átcsoportosított 700,0 millió forint tekintetében 2015. szeptember 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport részére átcsoportosított 2500,0 millió forint tekintetében és a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím részére átcsoportosított 284,8 millió forint tekintetében 2016. június 30., a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 6. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások jogcímcsoport részére átcsoportosított 263,1 millió forint tekintetében 2016. június 30.
+## Határidő: 2015. június 30., a XV. Nemzetgazdasági Minisztérium fejezet, 8. Magyar Államkincstár cím részére átcsoportosított 700,0 millió forint tekintetében 2015. szeptember 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport részére átcsoportosított 2500,0 millió forint tekintetében, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 47. Megváltozott munkaképességű munkavállalók foglalkoztatásának támogatása alcímre átcsoportosított 2669,8 millió forint tekintetében és a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím részére átcsoportosított 284,8 millió forint tekintetében 2016. június 30., a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 6. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások jogcímcsoport részére átcsoportosított 263,1 millió forint tekintetében 2016. június 30.
 
 ## 6.[^5] A Kormány egyetért azzal, hogy a belügyminiszter a Kvtv. helyi önkormányzatok támogatásait tartalmazó költségvetési fejezetéből a 2. és 3. pont szerinti támogatások felhasználásának és elszámolásának feltételeiről támogatási megállapodást köt Kenderes Város Önkormányzatával, valamint Hejőkürt Község Önkormányzatával és Jászfényszaru Város Önkormányzatával.
 
@@ -109,7 +109,7 @@
 [^1]: Az 1. pont az 1870/2014. (XII. 31.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^2]: A 3. pont a) alpontját az 1870/2014. (XII. 31.) Korm. határozat 2. pontja visszavonta.
 [^3]: A 4. pont az 1681/2015. (IX. 24.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^4]: Az 5. pont az 1520/2015. (VII. 27.) Korm. határozat 28. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 5. pont az 1520/2015. (VII. 27.) Korm. határozat 28. pont b) alpontja, az 1741/2015. (X. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^5]: A 6. pont az 1870/2014. (XII. 31.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
 [^6]: A 7. pont az 1870/2014. (XII. 31.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
 [^7]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
