@@ -1,4 +1,10 @@
-1. § (1) Magyarország minisztériumai a Miniszterelnökség mint elsősorban a kormányzati koordinációt ellátó minisztérium és a szakpolitikai feladatokat ellátó minisztériumok.
+1. § (1) Magyarország minisztériumai
+
+a) a Miniszterelnökség, mint elsősorban az állam tevékenységének kormányzati, valamint a Kormány társadalompolitikai tevékenységének összehangolását ellátó minisztérium,
+
+b) a Miniszterelnöki Kabinetiroda, mint elsősorban általános politikai koordinációt ellátó minisztérium,
+
+c) a szakpolitikai feladatokat ellátó minisztériumok.
 
 (2) Magyarország szakpolitikai feladatokat ellátó minisztériumai a következők:
 
