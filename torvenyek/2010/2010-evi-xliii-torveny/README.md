@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2015-04-08 | 2015. évi XXXIII. törvény | 2010-43-00-00.27 |
 | 2015-06-19 | 2015. évi LXXII. törvény | 2010-43-00-00.28 |
 | 2015-07-28 | 2015. évi CXXVI. törvény | 2010-43-00-00.29 |
+| 2015-10-13 | 2015. évi CXLVIII. törvény | 2010-43-00-00.30 |

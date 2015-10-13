@@ -6,6 +6,8 @@
 
 34. § (1) A minisztérium a miniszter munkaszerveként a Kormány irányítása alatt álló különös hatáskörű államigazgatási szerv.
 
+(1a) Az általános politikai koordinációt ellátó Miniszterelnöki Kabinetirodát a miniszterelnök kabinetfőnöke mint miniszter vezeti.
+
 (2) A miniszter vezeti a minisztériumot, e feladatkörében irányítja az államtitkár és a közigazgatási államtitkár tevékenységét.
 
 (3) A miniszter részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg.
