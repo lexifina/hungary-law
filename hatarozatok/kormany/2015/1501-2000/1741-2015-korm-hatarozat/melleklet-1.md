@@ -12,23 +12,15 @@
 
 ## Határidő: 2016. június 30.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozat 5. pontjában a „2500,0 millió forint tekintetében” szövegrész helyébe a „2500,0 millió forint tekintetében, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 47. Megváltozott munkaképességű munkavállalók foglalkoztatásának támogatása alcímre átcsoportosított 2669,8 millió forint tekintetében” szöveg lép.
-
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1968/2013. (XII. 17.) Korm. határozat 1. pontjában a „2015. augusztus 31.” szövegrész helyébe a „2015. augusztus 31., a XX. Emberi Erőforrások Minisztériuma fejezet, 18. Köznevelési feladatellátás és irányítás intézményei címre átcsoportosított 516,0 millió forint tekintetében 2015. december 31.” szöveg lép.
-
-## 4. A Kormány visszavonja a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról, továbbá egyes kormányhatározatok végrehajtása során alkalmazandó eltérő intézkedésekről szóló 1676/2014. (XI. 20.) Korm. határozat 2. pontját.
+## 2–4.[^1]
 
 ## 5. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a kormányzati infokommunikációs szolgáltatások finanszírozásához a Belügyminisztérium és a Helyi önkormányzatok támogatásai fejezetek közötti előirányzat-átcsoportosításról, továbbá egyes kormányhatározatok módosításáról és egyes kormányhatározatok végrehajtása során alkalmazandó eltérő intézkedésekről szóló 1721/2014. (XII. 5.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára a K7. Felújítások kiemelt előirányzaton biztosított 58,0 millió forintból 8,0 millió forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 6. A Határozat 2. pontjában a „XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok címet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcímet és a 22. Nemzeti Kommunikációs Hivatal címet érintő átcsoportosítások tekintetében 2015. december 31.” szövegrész helyébe a „XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok címet és a 22. Nemzeti Kommunikációs Hivatal címet érintő átcsoportosítások tekintetében 2015. december 31., a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára átcsoportosított 515,0 millió forint tekintetében 2015. november 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 7. Liget Budapest projekt előkészítése és megvalósítása jogcímcsoport javára átcsoportosított 2641,5 millió forint és a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcím javára átcsoportosított 140,4 millió forint tekintetében 2016. június 30.” szöveg lép.
-
-## 7. A Kormány visszavonja rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló egyes kormányhatározatok végrehajtása során alkalmazandó eltérő intézkedésekről, valamint a Liget Budapest projekt kapcsolódó beruházásainak megvalósításához szükséges intézkedésekről szóló 1145/2015. (III. 12.) Korm. határozat 2. pontját.
-
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1405/2014. (VII. 18.) Korm. határozatban a „Festetics-mauzóleum felújítása érdekében biztosított 175,0 millió forint összeg tekintetében 2015. szeptember 30.” szövegrész helyébe a „XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcím javára átcsoportosított 475,0 millió forint tekintetében 2015. december 31.” szöveg lép.
+## 6–8.[^2]
 
 ## 9. A Kormány egyetért azzal, hogy a természetes személyek adósságrendezésével kapcsolatos feladatok végrehajtásához szükséges feltételek biztosításáról szóló 1450/2015. (VII. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a X. Igazságügyi Minisztérium fejezet, 3. Igazságügyi Hivatal cím javára a K6. Beruházások kiemelt előirányzaton biztosított 190 000 ezer forintból 140 000 ezer forint a K5. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 10. A nemzetközi védelemben részesülő gyermekek gyermekvédelmi szakellátásban történő elhelyezéséhez szükséges férőhelyszám bővítéséhez és működtetéséhez szükséges többletforrás biztosításáról szóló 1706/2015. (IX. 29.) Korm. határozat 1. pontjában a „fejezet 2. cím 3. alcím „Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei” előirányzat javára” szövegrész helyébe a „fejezetében” szöveg lép.
+## 10.[^3]
 
 1. melléklet az 1741/2015. (X. 13.) Korm. határozathoz
 
@@ -387,3 +379,7 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6–8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
