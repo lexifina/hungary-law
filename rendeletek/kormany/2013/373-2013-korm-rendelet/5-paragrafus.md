@@ -18,9 +18,13 @@
 
 ## j) a Kormány által normatív határozatban meghatározott egyéb, a tevékenységi körébe tartozó feladatot végez.
 
-## (2) Az Intézet tevékenységét nemzeti működési körben látja el.
+## (2) Az Intézet az igazságügyért felelős miniszter és az Igazságügyi Hivatal kárpótlási hatósági feladatköréhez kapcsolódó ügyekben keletkezett iratanyag irattárazási feladatait látja el.
 
-## (3) Az Intézet főigazgatója meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
+## (3) Az Intézet a (2) bekezdés szerinti iratanyag maradandó értékű iratainak kezelésére a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvényben meghatározott állami szaklevéltárat működtet.
+
+## (4) Az Intézet tevékenységét nemzeti működési körben látja el.
+
+## (5) Az Intézet főigazgatója meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
 
 ## 3. Záró rendelkezések
 
