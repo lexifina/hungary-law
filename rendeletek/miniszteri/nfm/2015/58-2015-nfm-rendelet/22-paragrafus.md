@@ -1,0 +1,1 @@
+## 21. § Ha az állam az országos vagy az állami tulajdonban lévő vasúti pályát tartalmazó térségi, elővárosi vasúti pályahálózat működtetőjével nem kötött a vasúti pályahálózat működtetésére szerződést, akkor a díjképzési rendszer elemeinek kialakításakor a díjmegállapító szervezet a miniszter által meghatározott várható központi költségvetési támogatás mértékét veszi figyelembe.
