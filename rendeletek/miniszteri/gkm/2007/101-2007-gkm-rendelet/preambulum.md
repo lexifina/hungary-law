@@ -1,1 +1,0 @@
-A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 88. § (2) bekezdés 3., 5. és 6. pontjában kapott felhatalmazás alapján, a gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 163/2006. (VII. 28.) Korm. rendelet 1. § e) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
