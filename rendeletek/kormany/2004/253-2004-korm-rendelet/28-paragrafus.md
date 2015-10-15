@@ -18,7 +18,7 @@ f) lőszerpróbára az a szervezet, amely lőszer gyártására jogosító enged
 
 g) rövid lőfegyverre az a szervezet, amely a saját vagy mások vagyonát hivatásszerűen őrzi, mások életét, testi épségét hivatásszerűen védi, ha bizonyítja, hogy feladatainak ellátásához szükséges a lőfegyver,
 
-h)[^75] filmgyártási célra az a gazdálkodó szervezet, amelynek – illetve közvetlen jogelődjének – tevékenységi köre legalább tíz éve kiterjed a filmes fegyvertechnikai és pirotechnikai szolgáltatás nyújtására és a lőfegyver, illetve színházi fegyver gyártására vagy javítására jogosító engedéllyel rendelkezik, feltéve, hogy a gyártásra, javításra feljogosított tagja a színházi fegyverekkel kapcsolatos gyártói (színházi fegyver hatástalanítói) tevékenységben, valamint színházi fegyver kifejezetten filmgyártási célú üzemeltetésében legalább öt éves igazolt gyakorlattal rendelkezik.
+h)[^75] filmgyártási célra az a gazdálkodó szervezet, amelynek – illetve közvetlen jogelődjének – tevékenységi köre legalább tíz éve kiterjed a filmes fegyvertechnikai és pirotechnikai szolgáltatás nyújtására, feltéve, hogy rendelkezik a lőfegyver gyártására feljogosított taggal, illetve alkalmazottal.
 
 (3)[^76] Igazságügyi fegyverszakértői vizsgálati tevékenységet folytató és lőszergyártási engedéllyel rendelkező szervezetnek, valamint muzeális intézménynek – feladatkörére tekintettel – „A” kategóriába tartozó lőszer és automata lőfegyver, valamint hangtompító tartása is engedélyezhető.
 
@@ -29,6 +29,6 @@ h)[^75] filmgyártási célra az a gazdálkodó szervezet, amelynek – illetve 
 [^72]: A 28. § (1) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 4. pontja szerint módosított szöveg.
 [^73]: A 28. § (2) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 4. pontja szerint módosított szöveg.
 [^74]: A 28. § (2) bekezdés b) pontja a 67/2010. (III. 18.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^75]: A 28. § (2) bekezdés h) pontját a 39/2012. (III. 12.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^75]: A 28. § (2) bekezdés h) pontját a 39/2012. (III. 12.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 281/2015. (IX. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^76]: A 28. § (3) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 4. pontja szerint módosított szöveg.
 [^77]: A 28. § (4) bekezdését a 39/2012. (III. 12.) Korm. rendelet 12. § (2) bekezdése iktatta be.
