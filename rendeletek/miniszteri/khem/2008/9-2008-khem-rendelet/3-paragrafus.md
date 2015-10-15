@@ -12,41 +12,41 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | a) működési engedély kiadása |  |
 
-| 1. a) országos, pályahálózat működtető | 2 271 000 |
+| 1. a) |  |
 
 | 1. b) országos, vállalkozó vasúti | 2 271 000 |
 
-| 2. a) elővárosi, pályahálózat működtető | 454 000 |
+| 2. a) |  |
 
-| 2. b) elővárosi, pályahálózat működtető, nyílt hozzáférés alóli mentesítéssel | 681 000 |
+| 2. b) |  |
 
 | 2. c) elővárosi, vállalkozó vasúti | 227 000 |
 
-| 3. a) térségi, pályahálózat működtető | 454 000 |
+| 3. a) |  |
 
-| 3. b) térségi, pályahálózat működtető, nyílt hozzáférés alóli mentesítéssel | 681 000 |
+| 3. b) |  |
 
 | 3. c) térségi, vállalkozó vasúti | 23 000 |
 
-| 3. d) térségi, ha az országos vasúti pályahálózatokhoz képest keskenyebb nyomtávú, pályahálózat működtető | 23 000 |
+| 3. d) |  |
 
 | 3. e) térségi, ha az országos vasúti pályahálózatokhoz képest keskenyebb nyomtávú, vállalkozóvasúti | 23 000 |
 
-| 4. a) helyi, pályahálózat működtető | 454 000 |
+| 4. a) |  |
 
-| 4. b) helyi, pályahálózat működtető, nyílt hozzáférés alóli mentesítéssel | 681 000 |
+| 4. b) |  |
 
 | 4. c) helyi, vállalkozó vasúti | 23 000 |
 
-| 4. d) helyi sífelvonó, pályahálózat működtető | 23 000 |
+| 4. d) |  |
 
-| 4. e) helyi sífelvonó, személyszállítási | 15 000 |
+| 4. e) |  |
 
-| 5. a) saját célú, pályahálózat működtető | 38 000 |
+| 5. a) |  |
 
 | 5. b) saját célú, pályahálózat működtető, nyílt hozzáférés alóli mentesítéssel | 265 000 |
 
-| 5. c) saját célú, árutovábbítási | 38 000 |
+| 5. c) |  |
 
 | b) működési engedély módosítási díja az engedély kiadásának 50%-a, melyen felül ide kell érteni az ideiglenes működési engedély átminősítése működési engedéllyé, felfüggesztett működési engedély visszaminősítése, egyesülés esetén elrendelt felülvizsgálat miatt szükséges módosítás |  |
 
@@ -91,4 +91,4 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 | 7. Gazdasági egyensúly veszélyeztetettségének vizsgálata | 358 000 |
 
 [^3]: A 3. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^4]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a, a 23/2013. (V. 22.) NFM rendelet 11–12. §-a szerint módosított szöveg.
+[^4]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a, a 23/2013. (V. 22.) NFM rendelet 11–12. §-a, az 59/2015. (IX. 30.) NFM rendelet 15. §-a szerint módosított szöveg.
