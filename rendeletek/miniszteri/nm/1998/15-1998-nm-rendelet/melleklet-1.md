@@ -1,10 +1,12 @@
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^587]
+## 174. §[^600] A Módr. hatálybalépését[^601] megelőző napon hatályos rendelkezések szerint illetékes szakszolgálat és a fővárosi területi gyermekvédelmi szakszolgálat együttesen, legkésőbb a Módr. hatálybalépését követő harmincadik napon kezdeményezik a menekült státuszt kérelmező, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúak, valamint a menekültként elismert, nevelésbe vett gyermekek gyermekvédelmi gyámjának felmentését és a fővárosi területi gyermekvédelmi szakszolgálat által foglalkoztatott gyermekvédelmi gyám kirendelését.
+
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^602]
 
 A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
 I. Alapellátások
 
-## 5K00246M_0
+## 5K20316M_0
 
 | Ellátás | Munkakör/fő |
 
@@ -72,4 +74,6 @@ I. Alapellátások
 
 II. Szakellátások
 
-[^587]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^600]: A 174. §-t a 46/2015. (X. 12.) EMMI rendelet 5. §-a iktatta be.
+[^601]: A hatálybalépés időpontja 2015. október 15.
+[^602]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.

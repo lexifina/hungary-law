@@ -12,7 +12,7 @@ ad) a szabadban való tartózkodás feltételeit,
 
 ae)[^182]
 
-b)[^183] az egészséges táplálkozás követelményének megfelelő étkeztetést az energia- és tápanyagbeviteli, illetve élelmiszer-felhasználási ajánlásokat tartalmazó jogszabályban meghatározottak szerint.
+b)[^183] az egészséges táplálkozás követelményének megfelelő étkeztetést a közétkeztetésre vonatkozó táplálkozás-egészségügyi előírásokról szóló miniszteri rendeletben meghatározottak szerint.
 
 (2)[^184] Egy bölcsődei csoportban – a (3)–(4) bekezdésben meghatározott kivétellel – legfeljebb 12 gyermek nevelhető, gondozható.
 
@@ -29,7 +29,7 @@ b)[^183] az egészséges táplálkozás követelményének megfelelő étkeztet�
 (8)[^190] A bölcsődei csoportszoba hasznos alapterülete gyermekenként legalább 3 négyzetméter.
 
 [^182]: A 40. § (1) bekezdés a) pont ae) alpontját a 49/2013. (VII. 10.) EMMI rendelet 24. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^183]: A 40. § (1) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 30. §-ával megállapított, a 28/2010. (XII. 30.) NEFMI rendelet 25. § h) pontja szerint módosított szöveg.
+[^183]: A 40. § (1) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 30. §-ával megállapított, a 46/2015. (X. 12.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
 [^184]: A 40. § (2) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^185]: A 40. § új (3) bekezdését a 31/2009. (XII. 22.) SZMM rendelet 6. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
 [^186]: A 40. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 31/2009. (XII. 22.) SZMM rendelet 6. § (2)–(3) bekezdése. A 40. § (4) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.

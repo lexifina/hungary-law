@@ -1,21 +1,37 @@
 ## Zsebpénz-nyilvántartás
 
-## A gyermek tartózkodási helye:
+## 1. A gyermek tartózkodási helye:
 
-## Csoportvezető nevelő/Nevelőszülő:
+## 2. Csoportvezető nevelő/Nevelőszülő:
 
-## Gyermek neve:
+## 3. Gyermek neve:
 
-## Születési helye, ideje:
+## 4. Születési helye, ideje:
 
-## Zsebpénz havi összege: Ft (200..... év ........ hó 1-jétől)
+## 5. Zsebpénz havi összege: .................................. Ft (.......... év .......................... hó .......... napjától .......... év ....................... hó
 
-## Ft (200..... év ........ hó 1-jétől)
+## .......... napjáig
 
-## Felhasználás
+## 6. Kísérő nélküli kiskorú esetén a zsebpénz heti összege: ............................. Ft (.......... év ............................ hó .......... napjától
 
-| Dátum | Bevétel (Ft) | Kiadás (Ft) | Egyenleg (Ft) | Gyermek aláírása |
+## .......... év .............................. hó .......... napjáig)
 
-4. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^590]
+## 7. Felhasználás:
 
-[^590]: A 4. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a, a 26/2013. (III. 29.) EMMI rendelet 37. § 34. pontja szerint módosított szöveg.
+|  | A | B | C | D | E |
+
+| 1. | Dátum | Bevétel (Ft) | Kiadás (Ft) | Egyenleg (Ft) | Gyermek aláírása |
+
+| 2. |  |  |  |  |  |
+
+| 3. |  |  |  |  |  |
+
+| 4. |  |  |  |  |  |
+
+| 5. |  |  |  |  |  |
+
+| 6. |  |  |  |  |  |
+
+4. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^605]
+
+[^605]: A 4. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a, a 26/2013. (III. 29.) EMMI rendelet 37. § 34. pontja szerint módosított szöveg.

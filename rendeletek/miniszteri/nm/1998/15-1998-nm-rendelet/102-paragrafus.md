@@ -1,6 +1,6 @@
 102. § (1) A nevelőszülő a nála elhelyezett gondozott gyermek kérelmére befogadhatja annak saját gyermekét (a továbbiakban: saját gyermek), feltéve, hogy ehhez a saját gyermek törvényes képviselője hozzájárult. Az ellátás megkezdésének időpontjáról a nevelőszülő haladéktalanul értesíti a működtetőt.
 
-(2)[^347] Ha a nevelőszülő nem tudja biztosítani a gondozott gyermek saját gyermekével történő együttes elhelyezését, a működtető, a gyermekvédelmi gyám vagy a gyermekjogi képviselő haladéktalanul kezdeményezi a gyámhivatalnál a gondozási hely megváltoztatását olyan gondozási hely kijelölése érdekében, ahol az együttes elhelyezésük biztosítható.
+(2)[^348] Ha a nevelőszülő nem tudja biztosítani a gondozott gyermek saját gyermekével történő együttes elhelyezését, a működtető, a gyermekvédelmi gyám vagy a gyermekjogi képviselő haladéktalanul kezdeményezi a gyámhivatalnál a gondozási hely megváltoztatását olyan gondozási hely kijelölése érdekében, ahol az együttes elhelyezésük biztosítható.
 
 (3) Ha a saját gyermek számára gyám kirendelése vagy más hatósági intézkedés kezdeményezése szükséges, a nevelőszülő megkeresi az illetékes szervet, ezzel egyidejűleg a megkeresésről tájékoztatja a törvényes képviselőt.
 
@@ -12,10 +12,10 @@ a) a szakszolgálatot,
 
 b) a saját gyermek törvényes képviselőjét,
 
-c)[^348] a nevelésbe vett, illetve ideiglenes hatállyal elhelyezett gyermek törvényes képviselőjét és szülőjét, feltéve, hogy a szülő szülői felügyeleti jogát nem szüntették meg vagy az nem szűnt meg,
+c)[^349] a nevelésbe vett, illetve ideiglenes hatállyal elhelyezett gyermek törvényes képviselőjét és szülőjét, feltéve, hogy a szülő szülői felügyeleti jogát nem szüntették meg vagy az nem szűnt meg,
 
-d)[^349] a nevelésbe vett, illetve ideiglenes hatállyal elhelyezett gyermek szülőjének lakóhelye szerinti gyermekjóléti szolgálatot.
+d)[^350] a nevelésbe vett, illetve ideiglenes hatállyal elhelyezett gyermek szülőjének lakóhelye szerinti gyermekjóléti szolgálatot.
 
-[^347]: A 102. § (2) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^348]: A 102. § (5) bekezdés c) pontja a 26/2013. (III. 29.) EMMI rendelet 12. §-ával megállapított szöveg.
-[^349]: Az 102. § (5) bekezdés d) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 6. pontja szerint módosított szöveg.
+[^348]: A 102. § (2) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^349]: A 102. § (5) bekezdés c) pontja a 26/2013. (III. 29.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^350]: Az 102. § (5) bekezdés d) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 6. pontja szerint módosított szöveg.
