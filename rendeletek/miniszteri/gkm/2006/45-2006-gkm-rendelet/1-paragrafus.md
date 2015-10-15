@@ -1,6 +1,16 @@
 ## Működési engedély
 
-1. § (1)[^1]
+1. § (1)[^1] E rendelet vonatkozásában működési engedélyhez kötött vasúti tevékenység:
+
+a) az országos vállalkozó vasúti tevékenység,
+
+b) a térségi vállalkozó vasúti tevékenység,
+
+c) az elővárosi vállalkozó vasúti tevékenység,
+
+d) a városi vállalkozó vasúti tevékenység,
+
+e) a helyi vállalkozó vasúti tevékenység.
 
 (2) A vasúti pályahálózat működtetésére vonatkozó működési engedély tartalmazza az érintett pályaszakaszok tételes felsorolását.
 
@@ -18,5 +28,5 @@ c) a Vtv. 3. melléklete III. részének b) pontjában megjelölt tevékenység 
 
 (6)[^2]
 
-[^1]: Az 1. § (1) bekezdését a 23/2013. (V. 22.) NFM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^1]: Az 1. § (1) bekezdését a 23/2013. (V. 22.) NFM rendelet 8. § a) pontja hatályon kívül helyezte, újonnan az 59/2015. (IX. 30.) NFM rendelet 1. § (1) bekezdése iktatta be.
 [^2]: Az 1. § (6) bekezdését az 5/2012. (II. 15.) NFM rendelet 9. § (2) bgekezdése hatályon kívül helyezte.

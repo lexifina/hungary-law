@@ -1,6 +1,6 @@
 ## Szakmai alkalmasság
 
-4. § (1)[^9] A szakmai alkalmassággal kapcsolatos követelménynek a vasúti társaság akkor felel meg, ha – több vasúti tevékenységet végző vasúti társaság esetén az egyes vasútszakmai tevékenységeket elkülönülten végző szervezeti egysége külön-külön – rendelkezik olyan, a vasúti társaság által megnevezett szakmai vezetővel, amely alkalmas a vasúti tevékenység feletti biztonságos és megbízható ellenőrzés és felügyelet gyakorlására.
+4. § (1)[^14] A szakmai alkalmassággal kapcsolatos követelménynek a vasúti társaság akkor felel meg, ha – több vasúti tevékenységet végző vasúti társaság esetén az egyes vasútszakmai tevékenységeket elkülönülten végző szervezeti egysége külön-külön – rendelkezik olyan, a vasúti társaság által megnevezett szakmai vezetővel, amely alkalmas a vasúti tevékenység feletti biztonságos és megbízható ellenőrzés és felügyelet gyakorlására.
 
 (2) A vasúti társaság az (1) bekezdés szerinti alkalmasság követelményének eleget tesz, ha
 
@@ -12,9 +12,9 @@ c) a b) pontban meghatározott eszközök, szervezetek, illetve személyek igén
 
 d) az engedélyköteles tevékenység ellátására igénybe vett szervezetek, személyek eljárásáért úgy felel, mintha az adott tevékenységet a saját szervezetén belül látná el,
 
-e)[^10]
+e)[^15]
 
 (3) A kérelmező a (2) bekezdésben meghatározott követelményeket a 3. mellékletben felsorolt okiratokkal köteles igazolni az egyes engedélyek esetében az igazolásokra előírt különös feltételek figyelembevételével.
 
-[^9]: A 4. § (1) bekezdése a 23/2013. (V. 22.) NFM rendelet 7. § c) pontja szerint módosított szöveg.
-[^10]: A 4. § (2) bekezdés e) pontját a 23/2013. (V. 22.) NFM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^14]: A 4. § (1) bekezdése a 23/2013. (V. 22.) NFM rendelet 7. § c) pontja szerint módosított szöveg.
+[^15]: A 4. § (2) bekezdés e) pontját a 23/2013. (V. 22.) NFM rendelet 8. § b) pontja hatályon kívül helyezte.

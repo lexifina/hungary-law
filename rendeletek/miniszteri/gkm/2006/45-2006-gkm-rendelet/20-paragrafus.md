@@ -1,11 +1,14 @@
-## 19. §[^61] Azok a Vtv. 6. § (8) bekezdése szerinti vasúti társaságok, amelyek a tevékenységük megkezdését a Vtv. 6. § (9) bekezdése alapján a vasúti igazgatási szerv részére 2011. december 31-ig bejelentették, kötelesek az 5/A. § (1) bekezdése szerinti adatokat 2012. április 30-ig a vasúti igazgatási szerv részére megadni, valamint az 5/A. § (2) bekezdésében meghatározott okiratokat a vasúti igazgatási szerv részére átadni. A vasúti igazgatási szerv ezeket a vasúti társaságokat e kötelezettségükről 2012. március 15-ig tájékoztatja.
+## 19/A. §[^68] E rendeletnek az egyes vasúti közlekedési miniszteri rendeletek módosításáról szóló 59/2015. (IX. 30.) NFM rendelet (a továbbiakban: Módr.) 1–8. és 10–13. §-val megállapított 1. § (1) bekezdésének, 2. § (2) bekezdés a) és f) pontjának, 2. § (5) bekezdésének, 3. § (1) bekezdés a) és d) pontjának, 3. § (2) bekezdésének, 4/A. §-ának, 5/A–5/D. §-ának, 6. §-ának, 9. § (1) és (4) bekezdésének, 13. § (1) bekezdés a) és c) pontjának, 17. § (4) bekezdésének, 17. § (5) bekezdés g) pontjának, 17. § (7) bekezdésének, 20. § (1) bekezdés a) pontjának, 1. melléklet a) pontjának, 2. melléklet b), d), f), g) és h) pontjának rendelkezéseit kizárólag a Módr. hatálybalépését[^69] követően indult vagy megismételt eljárásokban kell alkalmazni.
 
-## 20. § Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+20. §[^70] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács 95/18/EK irányelve (1995. június 19.) a vasúttársaságok engedélyezéséről,
+a) az egységes európai vasúti térség létrehozásáról szóló 2012. november 21-i 2012/34/EU európai parlament és tanácsi irányelv,
 
-b) az Európai Parlament és a Tanács 2001/13/EK irányelve (2001. február 26.) a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv módosításáról,
+b)–c)[^71]
 
-c) az Európai Parlament és a Tanács 2004/49/EK irányelve (2004. április 29.) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúra-kapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról, 29. cikk.
+(2) Ez a rendelet a vasútiinfrastruktúra-kapacitás kérelmezőire vonatkozó kritériumokról és a 870/2014/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2015. január 6-i 2015/10/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^61]: A 19. §-t a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 55. pontja hatályon kívül helyezte, újonnan az 5/2012. (II. 15.) NFM rendelet 6. §-a iktatta be.
+[^68]: A 19/A. §-t az 59/2015. (IX. 30.) NFM rendelet 9. §-a iktatta be.
+[^69]: A hatálybalépés időpontja 2015. október 15.
+[^70]: A 20. § az 59/2015. (IX. 30.) NFM rendelet 10. §-ával megállapított szöveg.
+[^71]: A 20. § b)–c) pontját az 59/2015. (IX. 30.) NFM rendelet 13. § g) pontja hatályon kívül helyezte.
