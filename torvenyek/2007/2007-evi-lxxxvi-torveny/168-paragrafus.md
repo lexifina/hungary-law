@@ -34,7 +34,9 @@ g) a XIII/A. Fejezetben szabályozott eljárások esetében tizenkét hónap, am
 
 h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2009/72/EK rendelet 11. cikk (6) bekezdése szerinti eljárási határidejének lejártát követő 2 hónap,
 
-i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 45 nap.
+i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 45 nap,
+
+j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az átvevőt kijelölő határozat meghozatalához szükséges eljárás során 20 nap.
 
 (4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a Ket. általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
 

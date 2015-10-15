@@ -1,3 +1,1 @@
 178/N. § (1) E törvénynek a Mód. 2. törvénnyel megállapított 50/A. § (2) bekezdésében foglaltaknak az engedélyeseknek a Mód. 2. törvény hatálybalépését követő 6 hónapon belül eleget kell tenniük. Az engedélyeseknek a Mód. 2. törvény hatálybelépésekor működtetett azon ügyfélszolgálataikat, amelyeket a Mód. 2. törvény 50/A. § (2) bekezdése alapján más ügyfélszolgálattal kell felváltaniuk, az e törvénynek a Mód. 2. törvénnyel megállapított 50/A. § (2) bekezdése szerinti ügyfélszolgálataik megnyitásáig fenn kell tartaniuk.
-
-(2) E törvénynek a Mód. 2. törvénnyel megállapított 50/B. §-ában foglaltaknak az engedélyeseknek a Mód. 2. törvény hatálybalépését követő 6 hónapon belül eleget kell tenniük.
