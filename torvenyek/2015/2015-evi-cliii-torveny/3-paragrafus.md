@@ -1,0 +1,9 @@
+3. § A VET. XI. Fejezete a következő alcímmel egészül ki:
+
+„Egyetemes szolgáltatás folyamatosságának biztosítása az engedély időbeli hatályának megszűnésével kapcsolatosan
+
+99/F. § (1) Ha az egyetemes szolgáltatásra jogosult felhasználók egyetemes szolgáltatás keretében történő ellátása az egyetemes szolgáltatásra vonatkozó engedély időbeli hatályának megszűnése miatt kerül veszélybe, a 99/B–99/E. § rendelkezései megfelelően alkalmazandók, azzal hogy ez esetben a Hivatal az egyetemes szolgáltatásra vonatkozó engedély időbeli hatályának megszűnését 18 hónappal megelőzőn intézi az egyetemes szolgáltatókhoz a 99/B. § (1) bekezdése szerinti nyilvános felhívást. Az átvétel időpontja az egyetemes szolgáltatásra vonatkozó engedély időbeli hatályának megszűnését követő nap és az nem módosítható.
+
+(2) Ha az egyetemes szolgáltató az (1) bekezdés szerinti eljárás megindítását követően a Hivatalhoz az eljárással érintett egyetemes szolgáltatásra vonatkozó engedély visszavonására irányuló kérelmet nyújt be, a visszavonásra az (1) bekezdés szerint megindított eljárás alapján történő átvétellel egyidejűleg kerülhet sor. Ez esetben – figyelemmel a 99/C. § (2) bekezdésében foglaltakra – az átvétel időpontja az (1) bekezdésben meghatározott időpontnál korábbi időpontban is meghatározható és legfeljebb az (1) bekezdésben meghatározott időpontra módosítható.
+
+(3) Ha az egyetemes szolgáltató az (1) bekezdés szerinti eljárás megindítását követően a Hivatalhoz az eljárással érintett egyetemes szolgáltatásra vonatkozó engedély tekintetében az engedély időbeli hatályának meghosszabbítására irányuló kérelmet nyújt be, a Hivatal – a jogszabályi feltételek fennállása esetén – az egyetemes szolgáltatásra vonatkozó engedély időbeli hatályát a kérelemben foglaltaknak megfelelően meghosszabbítja és az (1) bekezdés szerinti eljárást megszünteti.”
