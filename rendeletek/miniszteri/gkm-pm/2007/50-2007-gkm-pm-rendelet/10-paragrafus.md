@@ -6,6 +6,6 @@
 
 a) a vasúti tevékenységek vasúti társaságon belüli számviteli elkülönítéséről szóló 34/2003. (V. 28.) GKM–PM együttes rendelet, és
 
-b)[^3]
+b)[^6]
 
-[^3]: A 10. § b) pontját a 101/2007. (XII. 22.) GKM rendelet 35. § (2) bekezdésének c) pontja hatályon kívül helyezte.
+[^6]: A 10. § b) pontját a 101/2007. (XII. 22.) GKM rendelet 35. § (2) bekezdésének c) pontja hatályon kívül helyezte.

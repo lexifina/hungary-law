@@ -16,8 +16,15 @@ cc) az immateriális javak,
 
 cd) a tárgyi eszközök,
 
-ce) a hosszú lejáratú kötelezettségek, és az azokhoz kapcsolódó finanszírozási költségek;
+ce) a hosszú lejáratú kötelezettségek, és az azokhoz kapcsolódó finanszírozási költségek,
 
-d) a több tevékenység által közösen igénybevett külső és belső szolgáltatások költségei megosztásának elsődlegesen az adott szolgáltatás az érintett tevékenységek általi igénybevételének arányát kell tükröznie.
+cf)[^4] az egyéb kereskedelmi tevékenységekből származó többletek.
+
+d) a több tevékenység által közösen igénybevett külső és belső szolgáltatások költségei megosztásának elsődlegesen az adott szolgáltatás az érintett tevékenységek általi igénybevételének arányát kell tükröznie;
+
+e)[^5] minden egyes, a 2. § (1)–(2) bekezdésében meghatározott tevékenység esetében külön-külön meghatározható legyen minden egyes más, a 2. § (1)–(2) bekezdése szerinti tevékenység, továbbá a kapcsolt vállalkozások, valamint a nem kapcsolt egyéb vállalkozások számára nyújtott, és az azoktól igénybe vett szolgáltatások esetében a 1. mellékletben szereplő tevékenységi kimutatás egyes sorainak értékei.
 
 (2) A több tevékenység végzéséhez is igénybe vett eszközök tevékenységek közötti megosztására, illetve az egyes tevékenységhez történő hozzárendelésére vonatkozó szabályokat a számviteli elkülönítésre kötelezett vasúti társaság a 7. § szerinti számviteli elkülönítési szabályzatában határozza meg.
+
+[^4]: Az 5. § (1) bekezdés c) pont cf) alpontját az 59/2015. (IX. 30.) NFM rendelet 14. § (1) bekezdése iktatta be.
+[^5]: Az 5. § (1) bekezdés e) pontját az 59/2015. (IX. 30.) NFM rendelet 14. § (2) bekezdése iktatta be.

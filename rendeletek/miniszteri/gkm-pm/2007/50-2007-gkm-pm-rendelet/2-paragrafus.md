@@ -10,7 +10,7 @@ c) vasúti árufuvarozás,
 
 d) vontatás.
 
-(2) A teljeskörűség elvének megvalósulása érdekében mérleget, eredménykimutatást, cash-flow kimutatást, valamint az ezeket magyarázó szöveges értékelést szükséges a társaság egyéb tevékenységeiről is – összesítve – elkészíteni.
+(2)[^3] A teljeskörűség elvének megvalósulása érdekében mérleget, eredménykimutatást, valamint az ezeket magyarázó szöveges értékelést szükséges a társaság egyéb tevékenységeiről is – összesítve – elkészíteni.
 
 (3) A vasúti pályahálózat működtetésére vonatkozóan a pályahálózat-működtető vasúti társaság, valamint az országos integrált vasúti társaság végez számviteli elkülönítést.
 
@@ -23,3 +23,4 @@ d) vontatás.
 (7) A számviteli elkülönítésre kötelezett vasúti társaság a központi irányítás költségeit az egyes tevékenységek között a 7. §-ban meghatározott számviteli elkülönítési szabályzatában előírt módszer szerint osztja fel.
 
 [^2]: A 2. § (1) bekezdés b) pontja a 16/2009. (IV. 8.) KHEM–PM együttes rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezés 2009. december 31-én lépett hatályba azzal, hogy a rendelkezést először a 2010. évre vonatkozó éves beszámoló készítésére kell alkalmazni.
+[^3]: A 2. § (2) bekezdése az 59/2015. (IX. 30.) NFM rendelet 14. § (4) bekezdése szerint módosított szöveg.
