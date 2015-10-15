@@ -1,0 +1,1 @@
+## 29. § A kiszolgáló létesítményekre vonatkozóan a Hálózati Üzletszabályzatban a 28. § (1)–(2) bekezdésében meghatározott adatszolgáltatás alapján közétett adatok tartalmáért a kiszolgáló létesítmények üzemeltetője tartozik teljes körű felelősséggel.

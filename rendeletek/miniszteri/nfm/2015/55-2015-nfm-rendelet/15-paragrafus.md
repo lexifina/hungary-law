@@ -1,0 +1,41 @@
+## 14. § A kapacitás-elosztó szervezet hozzáférést biztosít a vasúti igazgatási szerv részére a vasúti pályahálózathoz való nyílt hozzáférés, a pályakapacitások kihasználásának, valamint az évközi, egyedi, azonnali és üzemi célú menetvonal-igénylés és -elosztás gyakorlatának figyelemmel kísérésére alkalmas informatikai rendszeréhez.
+
+## 9. Az összehangolási eljárás
+
+15. § (1) Ha az ütköző igények előnyben részesítési sorrendje a 18. § (3) bekezdés alapján nem állapítható meg, a kapacitás-elosztó szervezet az összehangolási eljárást írásban vagy elektronikus úton kezdeményezi – valamennyi érintett igénylő és a vasúti igazgatási szerv egyidejű értesítése mellett – a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközéséről szerzett tudomást követő két munkanapon belül.
+
+(2) Az összehangolási eljárásról szóló értesítésben meg kell jelölni a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközésével érintett kapacitást, az igénytől eltérően – figyelemmel a 10. § (2) bekezdésében foglaltakra – felajánlott kapacitást, az összehangolási eljárás helyét, idejét, valamint az összehangolási eljáráson való részvétel elmulasztásának következményeit.
+
+(3) Az összehangolási eljárást a kapacitás-elosztó szervezet vezeti le. Az eljárásról jegyzőkönyvet kell felvenni, amelyet valamennyi, az összehangolási eljáráson részt vevő félnek alá kell írnia.
+
+(4) Ha az összehangolási eljárás tíz munkanapon belül nem vezet eredményre, a kapacitás-elosztó szervezet dönt az összehangolási eljárással érintett igényekről. Az egymással ütköző igények esetén – a szakosított infrastruktúraként kijelölt vasúti pályaszakaszok kivételével – a kapacitás-elosztó szervezet az alábbi sorrend figyelembevételével elsőbbséget biztosít
+
+a) a nemzetközi vasúti árufuvarozási folyosón végzett felújítási, fejlesztési célú kapacitásigénynek,
+
+b) a vasúti közszolgáltatásnak,
+
+c) a nemzetközi személyszállításnak,
+
+d) a nemzetközi árutovábbításnak,
+
+e) az egyéb vasúti pályákon végzett felújítási, fejlesztési célú kapacitás-igénynek, valamint a nemzetközi vasúti árufuvarozási folyosókon végzett karbantartási célú kapacitás-igénynek,
+
+f) a belföldi vasúti árutovábbításnak,
+
+g) az előző pontokba nem tartozó személyszállításnak,
+
+h) a vasúti pályán végzett, az e) pontba nem tartozó karbantartási célú kapacitás-igénynek,
+
+i) az előző pontokba nem tartozó egyéb menetvonal-igénynek.
+
+(5) Ha a (4) bekezdésben foglaltak alapján az elsőbbséget élvező igény nem határozható meg, a kapacitás-elosztó szervezet – az alábbi sorrend szerint –
+
+a) a keretmegállapodás alapján igényelt menetvonalaknak,
+
+b) a több közlekedési napra vonatkozó igényeknek,
+
+c) a hosszabb viszonylatra vonatkozó menetvonal-igényeknek,
+
+d) a rendszeresen közlekedő vonatok menetvonal-igényeinek,
+
+e) a korábban benyújtott igényeknek
