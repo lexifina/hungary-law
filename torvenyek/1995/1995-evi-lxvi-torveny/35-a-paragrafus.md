@@ -6,4 +6,4 @@
 
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a levéltári szakfelügyelet és a levéltári szakmai testületek működését.
 
-(5) Felhatalmazást kap a kultúráért felelős miniszter, hogy az elektronikus formában tárolt iratok levéltári átvételének eljárásrendjét és műszaki követelményeit az e-közigazgatásért felelős miniszterrel és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(5) Felhatalmazást kap a kultúráért felelős miniszter, hogy az elektronikus formában tárolt iratok közlevéltári átvételének eljárásrendjét és műszaki követelményeit az e-közigazgatásért felelős miniszterrel és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
