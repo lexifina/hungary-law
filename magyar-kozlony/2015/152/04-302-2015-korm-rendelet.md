@@ -1,0 +1,40 @@
+# A Kormány 302/2015. (X. 15.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 152. szám, 2015. október 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8f30b7b5614fb77dde5550f3a9920e493b3ea544/dokumentumok/c5c97de027ea55aef7e36c4092b1a749ac73974e/letoltes)
+
+---
+
+A Kormány 302/2015. (X. 15.) Korm. rendelete
+a Jászfényszarun megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági
+ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 252/2015. (IX. 8.)
+Korm. rendelet módosításáról
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és
+egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és e) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Jászfényszarun megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek
+nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 252/2015. (IX. 8.) Korm. rendelet
+(a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben
+felsorolt közigazgatási hatósági ügyeket, amelyek a Jászfényszaru város közigazgatási területén elhelyezkedő,
+az ingatlan-nyilvántartás szerinti 05/144, 05/65, 05/66, 05/92, 05/96, 05/95, 05/94, 05/71, 05/105, 05/106, 05/73,
+05/74, 05/6, 05/19, 05/168, 05/24, 05/42, 05/43, 05/44, 05/45, 05/46, 05/47, 05/48, 05/50, 05/51, 05/52, 05/53, 05/54,
+05/55, 05/56, 05/57, 05/58, 05/88, 05/87, 05/86, 05/85, 05/84, 05/83, 05/82, 05/81, 05/80, 05/79, 05/78, 05/77, 05/76,
+05/75, 08, 05/22, 05/20, 04/20, 04/54, 04/52, 04/53 helyrajzi számok alatt nyilvántartott földrészleteken, illetve
+az ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészleteken
+megvalósításra kerülő ipari telephely, infrastrukturális fejlesztések megvalósítására irányuló beruházással függenek
+össze.”
+2. §
+Az R. a következő 7. §-sal egészül ki:
+„7. § E rendeletnek a Jászfényszarun megvalósuló ipari telephely kialakításával összefüggő közigazgatási
+hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 252/2015. (IX. 8.)
+Korm. rendelet módosításáról szóló 302/2015. (X. 15.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. §
+(1) bekezdését a Módr. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IV. A Magyar Nemzeti Bank elnökének rendeletei,
+valamint az önálló szabályozó szerv vezetőjének
+rendeletei
