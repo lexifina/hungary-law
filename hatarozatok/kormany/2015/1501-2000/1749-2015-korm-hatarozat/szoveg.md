@@ -1,0 +1,21 @@
+A Kormány
+
+1. felhívja a nemzetgazdasági minisztert, hogy a Budai Várban található Karmelita kolostor átépítéséhez
+
+a) 2016. évben szükséges 8219,0 millió forint,
+
+b) 2017. évben szükséges 5749,0 millió forint
+
+forrásnak a XI. Miniszterelnökség fejezetben történő biztosításáról gondoskodjon;
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: az a) alpont tekintetében a felmerülés ütemében
+
+a b) alpont tekintetében a 2017. évi központi költségvetés tervezésével egyidejűleg
+
+2. az államháztartásról szóló 2011. évi CXCV. törvény 111/E. § (3) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a Miniszterelnökség az 1. pontban meghatározott feladatokhoz kapcsolódó beszerzési eljárást megkezdje és annak eredményeképpen a vállalkozási szerződést – a központi költségvetés XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím kiadási előirányzatai terhére – megkösse, azzal, hogy a kötelezettségvállalás összege a 2016. és 2017. években nem haladhatja meg az 1. pontban meghatározott összeget.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: azonnal
