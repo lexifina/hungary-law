@@ -1,0 +1,1 @@
+## „(5) Az edzők és a sportszakemberek részére világbajnokság, Európa-bajnokság esetén megállapítható eredményességi támogatások összege a sportágban a versenyzőknek a 2. melléklet szerint világbajnokság, Európa-bajnokság esetén nyújtható eredményességi támogatások összegének ötven százaléka, triatlon és öttusa sportágban hetven százaléka lehet.”
