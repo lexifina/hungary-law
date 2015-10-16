@@ -1,14 +1,14 @@
-## 4. § Tilos a légszennyezés, valamint a levegő lakosságot zavaró bűzzel való terhelése, továbbá a levegő olyan mértékű terhelése, amely légszennyezettséget okoz.
+## 4. §[^11] Tilos a légszennyezés, a diffúz forrás környezetvédelmi követelményeknek nem megfelelő működtetése miatt fellépő levegőterhelés, valamint a levegő lakosságot zavaró bűzzel való terhelése, továbbá a levegő olyan mértékű terhelése, amely légszennyezettséget okoz.
 
 5. § (1) A légszennyező forrás létesítésekor és működése során levegővédelmi követelmények megállapítása és alkalmazása szükséges.
 
-(2) A levegővédelmi követelmények teljesülését a légszennyező forrás hatásterületén biztosítani kell.
+(2)[^12] A levegővédelmi követelmények teljesülését a légszennyező forrás üzemelése során a hatásterületen biztosítani kell.
 
-(3) E jogszabály hatálybalépését követően engedélyezett, bűz kibocsátással járó környezeti hatásvizsgálat köteles vagy egységes környezethasználati engedély köteles tevékenységek, illetve létesítmények esetében a bűzterhelőnek védelmi övezetet kell kialakítania.
+(3)[^13] A bűz kibocsátással járó környezeti hatásvizsgálat köteles vagy egységes környezethasználati engedély köteles tevékenységek, illetve létesítmények esetében a bűzterhelőnek védelmi övezetet kell kialakítania.
 
-(4)[^3] A környezetvédelmi hatáskörében eljáró megyei kormányhivatal a (3) bekezdés szerinti védelmi övezet nagyságát – a környezetvédelmi engedélyben, egységes környezethasználati engedélyben a legnagyobb teljesítmény-kihasználás és kedvezőtlen terjedési viszonyok (különösen az uralkodó szélirány, időjárási viszonyok) mellett, a domborzat, a védőelemek és a védendő területek, építmények figyelembevételével – a légszennyező forrás határától számított, legalább 300, legfeljebb 1000 méter távolságban lehatárolt területben határozza meg.
+(4)[^14] A környezetvédelmi hatáskörében eljáró megyei kormányhivatal a (3) bekezdés szerinti védelmi övezet nagyságát – a környezetvédelmi engedélyben, egységes környezethasználati engedélyben a legnagyobb teljesítmény-kihasználás és kedvezőtlen terjedési viszonyok (különösen az uralkodó szélirány, időjárási viszonyok) mellett, a domborzat, a védőelemek és a védendő területek, építmények figyelembevételével – a légszennyező forrás határától számított, legalább 300, legfeljebb 1000 méter távolságban lehatárolt területben határozza meg.
 
-(5)[^4] Meglévő telephelyen tervezett új légszennyező forrás esetében a környezetvédelmi hatáskörében eljáró megyei kormányhivatal a védelmi övezet kijelölése során a (4) bekezdésben előírt 300 méternél kisebb távolságot is meghatározhat, amennyiben valamennyi levegővédelmi követelmény teljesül.
+(5)[^15] A környezetvédelmi hatáskörében eljáró megyei kormányhivatal a védelmi övezet kijelölése során a (4) bekezdésben előírt 300 méternél kisebb távolságot is meghatározhat, amennyiben 300 méternél kisebb a hatásterület és valamennyi levegővédelmi követelmény teljesül.
 
 (6) A (3)–(5) bekezdés szerinti védelmi övezetet úgy kell kijelölni, hogy abban nem lehet lakóépület, üdülőépület, oktatási, nevelési, egészségügyi, szociális és igazgatási épület, kivéve a telepítésre kerülő, illetve a más működő légszennyező források működésével összefüggő építményt.
 
@@ -16,5 +16,8 @@
 
 (8) A védelmi övezet fenntartásával kapcsolatos költségek a bűzterhelőt terhelik. Ha a védelmi övezetet más hasznosítja, akkor a hasznosított terület tekintetében a fenntartási költségek a hasznosítót terhelik.
 
-[^3]: Az 5. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 159. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^4]: Az 5. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 159. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 4. § a 292/2015. (X. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^12]: Az 5. § (2) bekezdése a 292/2015. (X. 8.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^13]: Az 5. § (3) bekezdése a 292/2015. (X. 8.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^14]: Az 5. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 159. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^15]: Az 5. § (5) bekezdése a 292/2015. (X. 8.) Korm. rendelet 11. §-ával megállapított szöveg.

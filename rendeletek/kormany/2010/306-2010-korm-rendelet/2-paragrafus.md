@@ -6,7 +6,7 @@
 
 2. alsó vizsgálati küszöbérték: az a levegőterheltségi szint, amely alatt a levegő minőségének vizsgálata céljából lehetőség van kizárólag modellezési vagy objektív becslési technikák alkalmazására;
 
-3. anyag: a kémiai elem és annak vegyületei, a radioaktív anyagok és a genetikailag módosított szervezetek kivételével;
+3.[^1] anyag: bármely kémiai elem és annak vegyületei, a radioaktív anyagok és a genetikailag módosított mikroorganizmusok és szervezetek kivételével;
 
 4. arzén, kadmium, nikkel és benz(a)pirén: ezen elemek és vegyületeik teljes mennyisége a PM10 frakcióban;
 
@@ -16,7 +16,7 @@
 
 7. célérték: az emberi egészség és a környezet egészére gyakorolt káros hatások elkerülése, megelőzése vagy csökkentése céljából meghatározott levegőterheltségi szint, amelyet – ahol lehetséges – adott időtartam alatt kell elérni;
 
-8. diffúz forrás: olyan levegőterhelést okozó tevékenység vagy kibocsátó felület, amelynél a légszennyező anyag kibocsátási jellemzői méréssel vagy műszaki számítással egyértelműen nem határozhatók meg;
+8.[^2] diffúz forrás: olyan levegőterhelést okozó tevékenység, kibocsátó felület vagy berendezés, amely nem minősül légszennyező pontforrásnak, továbbá a szabadban végzett tevékenység, amely légszennyezőanyag kibocsátással jár;
 
 9. egészségügyi határérték: az emberi egészségre gyakorolt káros hatások elkerülése, megelőzése vagy csökkentése céljából, a tudományos ismeretek alapján meghatározott, tartós egészségkárosodást nem okozó levegőterheltség szintje;
 
@@ -30,13 +30,23 @@ b) amely a döntésben érdekelt, különösen olyan környezetvédelmi vagy má
 
 12. felső vizsgálati küszöbérték: az a levegőterheltségi szint, amely alatt a levegő minőségének vizsgálata céljából lehetőség van a helyhez kötött mérési és modellezési technikák, illetve indikatív mérések kombinációjának alkalmazására;
 
-13. helyhez kötött légszennyező forrás: levegőterhelést okozó pont-, vonal- vagy diffúz forrás;
+12a.[^3] helyhez kötött diffúz forrás hatásterülete: a vizsgált diffúz forrás körül lehatárolható azon legnagyobb terület, ahol a diffúz forrás által maximális kapacitáskihasználás, ennek hiányában jellemző üzemállapot mellett kibocsátott – műszaki becsléssel meghatározható – légszennyező anyag terjedése következtében a légszennyező diffúz forrás környezetében a talajközeli és magaslégköri meteorológiai jellemzők mellett, a füstfáklya tengelye alatt a vonatkoztatási időtartamra számított várható talajközeli levegőterheltség-változás
 
-14. helyhez kötött pontforrás hatásterülete: a vizsgált pontforrás körül lehatárolható azon legnagyobb terület, ahol a pontforrás által maximális kapacitáskihasználás mellett kibocsátott légszennyező anyag terjedése következtében a vonatkoztatási időtartamra számított, a légszennyező pontforrás környezetében fellépő leggyakoribb meteorológiai viszonyok mellett, a füstfáklya tengelye alatt várható talajközeli levegőterheltség-változás
+a) az egyórás (PM10 esetében 24 órás) légszennyezettségi határérték 10%-ánál nagyobb,
 
-a) az egyórás (PM10 esetében 24 órás) légszennyezettségi határérték 10%-ánál nagyobb, vagy
+b) a terhelhetőség 20%-ánál nagyobb, vagy
 
-b) a terhelhetőség 20%-ánál nagyobb;
+c) az egyórás (PM10 esetében 24 órás) maximális érték 80%-ánál nagyobb;
+
+13.[^4] helyhez kötött légszennyező forrás: levegőterhelést okozó vonalforrás, valamint az a levegőterhelést okozó pont-, vagy diffúz forrás, amely működése közben helyét nem változtatja meg;
+
+14.[^5] helyhez kötött pontforrás hatásterülete: a vizsgált pontforrás körül lehatárolható azon legnagyobb terület, ahol a pontforrás által maximális kapacitáskihasználás mellett kibocsátott légszennyező anyag terjedése következtében a légszennyező pontforrás környezetében a talajközeli és magaslégköri meteorológiai jellemzők mellett, a füstfáklya tengelye alatt a vonatkoztatási időtartamra számított várható talajközeli levegőterheltség-változás
+
+a) az egyórás (PM10 esetében 24 órás) légszennyezettségi határérték 10%-ánál nagyobb,
+
+b) a terhelhetőség 20%-ánál nagyobb, vagy
+
+c) az egyórás (PM10 esetében 24 órás) maximális érték 80%-ánál nagyobb;
 
 15. hosszú távú célkitűzés: az a levegőterheltségi szint, amelyet az emberi egészség és a környezet hatékony védelme érdekében hosszú távon el kell érni, kivéve, ha az arányos intézkedésekkel nem teljesíthető;
 
@@ -50,13 +60,13 @@ b) a terhelhetőség 20%-ánál nagyobb;
 
 20. légszennyezettségi határérték: az emberi egészségre, illetve az ökológiai rendszerre gyakorolt káros hatások elkerülése, megelőzése vagy csökkentése céljából, a tudományos ismeretek alapján meghatározott levegőterheltségi szint, amelyet jogszabályban vagy hatósági határozatban előírt időtartamon belül el kell érni, és elérése után nem szabad túllépni;
 
-21.[^1] légszennyezettségi zóna: a levegőminőség vizsgálatának és kezelésének céljából Magyarország területének jogszabály által lehatárolt része;
+21.[^6] légszennyezettségi zóna: a levegőminőség vizsgálatának és kezelésének céljából Magyarország területének jogszabály által lehatárolt része;
 
 22. légszennyező anyag: a levegőben lévő és az emberi egészségre vagy a környezet egészére valószínűsíthetően káros hatást gyakorló anyag;
 
 23. légszennyező forrás: levegőterhelést okozó helyhez kötött vagy mozgó forrás;
 
-24. légszennyező pontforrás: az a levegőterhelést okozó forrás, amelynél a légszennyező anyag kibocsátási jellemzői méréssel vagy műszaki számítással egyértelműen meghatározhatók;
+24.[^7] légszennyező pontforrás: az a levegőterhelést okozó forrás, amelynél a légszennyező anyag kibocsátási jellemzői (térfogatáram, kibocsátási koncentráció, hőmérséklet, nyomás) méréssel vagy a mérés megvalósításának gyakorlati akadályai miatt műszaki számítással egyértelműen meghatározhatók;
 
 25. levegő: a troposzférán belüli szabadtéri levegő, kivéve a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 5. pontjában meghatározott olyan munkahely levegője, amelyhez a lakosság rendszeresen nem fér hozzá;
 
@@ -70,7 +80,7 @@ b) a terhelhetőség 20%-ánál nagyobb;
 
 30. mozgó légszennyező forrás: a levegőterhelést okozó közúti, vasúti, vízi és légi jármű, továbbá a nem közúti mozgó gép;
 
-31.[^2] nemzeti expozíciócsökkentési cél: Magyarország lakossága átlagos expozíciócsökkentésének százalékos értéke, amelyet a referenciaévre vonatkoztatva az emberi egészségre gyakorolt káros hatások csökkentésének céljából kerül meghatározásra, és amelyet – amennyiben lehetséges – adott időtartamon belül kell teljesíteni;
+31.[^8] nemzeti expozíciócsökkentési cél: Magyarország lakossága átlagos expozíciócsökkentésének százalékos értéke, amelyet a referenciaévre vonatkoztatva az emberi egészségre gyakorolt káros hatások csökkentésének céljából kerül meghatározásra, és amelyet – amennyiben lehetséges – adott időtartamon belül kell teljesíteni;
 
 32. nitrogén-oxidok: a nitrogén-monoxid és nitrogén-dioxid térfogati keverési arányának (ppbv) a nitrogén-dioxid tömegkoncentrációjának egységeiben kifejezett (μg/m3) összege;
 
@@ -98,7 +108,19 @@ b) a terhelhetőség 20%-ánál nagyobb;
 
 44. vizsgálat: a levegőterheltségi szint mérésére, számítására, modellezésére, előrejelzésére vagy becslésére használt módszerek alkalmazása;
 
-45. vonalforrás: a nyomvonalas közlekedési létesítmény (közút, vasút) vagy annak vizsgált szakasza, amelynél az elhaladó járművek jellemzői határozzák meg az egységnyi szakaszból származó légszennyező anyag kibocsátott mennyiségét.
+45. vonalforrás: a nyomvonalas közlekedési létesítmény (közút, vasút) vagy annak vizsgált szakasza, amelynél az elhaladó járművek jellemzői határozzák meg az egységnyi szakaszból származó légszennyező anyag kibocsátott mennyiségét;
 
-[^1]: A 2. § 21. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § 31. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+46.[^9] közintézmény: az állami vagy önkormányzati fenntartású, vagy a közszolgáltatás ellátására vonatkozó hatályos szerződéssel rendelkező intézmény;
+
+47.[^10] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet és a személyi jövedelemadóról szóló törvényben meghatározott mezőgazdasági őstermelő.
+
+[^1]: A 2. § 3. pontja a 292/2015. (X. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 8. pontja a 292/2015. (X. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § 12a. pontját a 292/2015. (X. 8.) Korm. rendelet 3. §-a iktatta be.
+[^4]: A 2. § 13. pontja a 292/2015. (X. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^5]: A 2. § 14. pontja a 292/2015. (X. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^6]: A 2. § 21. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § 24. pontja a 292/2015. (X. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^8]: A 2. § 31. pontja a 322/2011. (XII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § 46. pontját a 292/2015. (X. 8.) Korm. rendelet 7. §-a iktatta be.
+[^10]: A 2. § 47. pontját a 292/2015. (X. 8.) Korm. rendelet 7. §-a iktatta be.

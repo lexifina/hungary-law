@@ -1,4 +1,4 @@
-1. melléklet a 306/2010. (XII. 23.) Korm. rendelethez
+1. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^81]
 
 ## A levegőminőségi terv tartalmi követelményei
 
@@ -68,54 +68,62 @@
 
 12. A következő jogszabályok végrehajtására vonatkozó kiegészítő információ:
 
-12.1. A közúti járművek műszaki megvizsgálásáról szóló, és a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló jogszabály;
+12.1. A közúti járművek műszaki megvizsgálásáról szóló, és a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendelet,
 
-12.2. A motorbenzinek tárolásakor, töltésekor, szállításakor és áttöltésekor keletkező szénhidrogén-emisszió korlátozásáról szóló jogszabály;
+12.2. a benzin tárolásából, elosztásából és töltőállomáson a gépjármű feltöltéséből származó illékony szerves vegyület (VOC) csökkentéséről szóló miniszteri rendelet,
 
-12.3. a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló jogszabály;
+12.3. a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet,
 
-12.4. a nem közúti mozgó gépekbe építendő belső égésű motorok gáznemű és részecskékből álló szennyezőanyag-kibocsátásának korlátozásáról szóló jogszabály;
+12.4. a nem közúti mozgó gépekbe építendő belső égésű motorok gáznemű és részecskékből álló szennyezőanyag-kibocsátásának korlátozásáról szóló miniszteri rendelet,
 
-12.5. a gépjármű hajtóanyagok minőségi követelményeiről szóló jogszabály;
+12.5. a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendelet,
 
-12.6. az egyes tevékenységek és berendezések illékony szerves vegyület kibocsátásának korlátozásáról szóló jogszabály;
+12.6. az egyes tevékenységek illékony szerves vegyület kibocsátásának korlátozásáról szóló miniszteri rendelet,
 
-12.7. az egyes folyékony tüzelő- és fűtőanyagok kéntartalmának csökkentéséről szóló jogszabály;
+12.7. az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló miniszteri rendelet,
 
-12.8. a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló jogszabály;
+12.8. a hulladékégetés műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendelet,
 
-12.9. az 50 MWth és annál nagyobb névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló jogszabály;
+12.9. az 50 MWth és annál nagyobb teljes névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló miniszteri rendelet,
 
-12.10. az egyes légszennyezőanyagok összkibocsátási határértékeiről szóló jogszabály;
+12.10. az egyes légszennyező anyagok összkibocsátási határértékeiről szóló miniszteri rendelet,
 
-12.11. az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló jogszabály;
+12.11. az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló kormányrendelet,
 
-12.12. az egyes folyékony tüzelő- és fűtőanyagok kéntartalmának csökkentéséről szóló jogszabály;
+12.12. a villamos energiáról szóló törvény egyes rendelkezéseinek végrehajtásáról, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról, a távhőszolgáltatásról szóló törvény végrehajtásáról és az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletek.
 
-12.13. a villamos energiáról szóló törvény egyes rendelkezéseinek végrehajtásáról szóló, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló, a távhőszolgáltatásról szóló törvény végrehajtásáról szóló, az épületek energetikai jellemzőinek tanúsításáról szóló jogszabály.
-
-13. A levegőszennyezés csökkentését célzó alábbi intézkedések megnevezés:
+13. A levegőszennyezés csökkentését célzó alábbi intézkedések megnevezése:
 
 13.1. a helyhez kötött forrásokból származó kibocsátás csökkentése azáltal, hogy a szennyező anyagot kibocsátó, kis és közepes méretű helyhez kötött tüzelőberendezéseket (ideértve a biomassza eltüzelésére szolgálókat is) kibocsátáscsökkentő berendezéssel látják el, vagy pedig kicserélik azokat;
 
-13.2. a járművekből származó kibocsátások csökkentése a járművek kibocsátáscsökkentő berendezéssel való felszerelése révén. Az átvétel felgyorsítása érdekében meg kell vizsgálni gazdasági ösztönzők alkalmazását;
+13.2. a környezetbarát közbeszerzésről szóló kézikönyvvel összhangban a tüzelőanyagoknak, valamint égető berendezéseknek a hatóságok által történő, a kibocsátás csökkentését célzó közbeszerzése, ideértve az alábbiak beszerzését:
 
-13.3. a környezetbarát közbeszerzésről szóló kézikönyvvel összhangban a közúti járműveknek, tüzelő- és üzemanyagoknak, valamint égető berendezéseknek a hatóságok által történő, a kibocsátás csökkentését célzó közbeszerzése, ideértve az alábbiak beszerzését:
+13.2.1. alacsony kibocsátású helyhez kötött tüzelőberendezések,
 
-13.3.1. új járművek, ideértve az alacsony károsanyag-kibocsátású járműveket,
+13.2.2. alacsony kibocsátást eredményező tüzelőanyagok helyhez kötött források számára;
 
-13.3.2. tisztább járművek a közlekedési szolgáltatásokban,
+13.3. alacsony kibocsátású tüzelőanyagok használatának biztosítása a kis-, közepes- és nagyléptékű helyhez kötött forrásoknál, valamint a mozgó forrásoknál;
 
-13.3.3. alacsony kibocsátású helyhez kötött tüzelőberendezések,
+13.4. a levegőszennyezésnek a 2008/1/EK irányelvben meghatározott engedélyezési rendszeren, a 2001/80/EK irányelvben meghatározott nemzeti terveken, valamint gazdasági eszközök – például adók, díjak vagy kibocsátáskereskedelem – alkalmazásán keresztül történő csökkentésére irányuló intézkedések;
 
-13.3.4. alacsony kibocsátású tüzelőanyagok a helyhez kötött és a mozgó források számára;
+13.5. adott esetben a gyermekek és más érzékeny népességcsoportok egészségének védelmére irányuló intézkedések.
 
-13.4. a közlekedésből eredő kibocsátásoknak a forgalom megtervezésén és irányításán keresztül történő korlátozására irányuló intézkedések (többek között közlekedési dugódíj, differenciált parkolási díj vagy egyéb gazdasági ösztönzők; „alacsony kibocsátási zóna” létrehozása);
+14. A közlekedési eredetű levegőszennyezés csökkentését célzó alábbi intézkedések megnevezése:
 
-13.5. kevésbé szennyező közlekedési módok felé történő elmozdulásra ösztönző intézkedések;
+14.1. a járművekből származó kibocsátások csökkentése érdekében települési szintű fenntartható mobilitási tervek (SUMP) készítése, amely többek között az alábbi intézkedéseket foglalhatja magába:
 
-13.6. alacsony kibocsátású tüzelőanyagok használatának biztosítása a kis-, közepes- és nagyléptékű helyhez kötött forrásoknál, valamint a mozgó forrásoknál;
+14.1.1. a járművek kibocsátáscsökkentő berendezéssel való felszerelése,
 
-13.7. a levegőszennyezésnek a 2008/1/EK irányelvben meghatározott engedélyezési rendszeren, a 2001/80/EK irányelvben meghatározott nemzeti terveken, valamint gazdasági eszközök – például adók, díjak vagy kibocsátás-kereskedelem – alkalmazásán keresztül történő csökkentésére irányuló intézkedések;
+14.1.2. a közlekedésből eredő kibocsátásoknak a forgalom megtervezésén és irányításán keresztül történő korlátozására irányuló intézkedések (többek között közlekedési dugódíj, differenciált parkolási díj vagy egyéb gazdasági ösztönzők, „alacsony kibocsátási zóna” létrehozása),
 
-13.8. adott esetben a gyermekek és más érzékeny népességcsoportok egészségének védelmére irányuló intézkedések.
+14.1.3. kevésbé szennyező közlekedési módok felé történő elmozdulásra ösztönző intézkedések;
+
+14.2. a környezetbarát közbeszerzésről szóló kézikönyvvel összhangban a közúti járműveknek és üzemanyagoknak a hatóságok által történő, a kibocsátás csökkentését célzó közbeszerzése, ideértve az alábbiak beszerzését:
+
+14.2.1. új járművek, ideértve az alacsony károsanyag-kibocsátású járműveket,
+
+14.2.2. tisztább járművek a közlekedési szolgáltatásokban,
+
+14.2.3. alacsony kibocsátású tüzelőanyagok mozgó források számára.
+
+[^81]: Az 1. melléklet a 292/2015. (X. 8.) Korm. rendelet 28. §-ával megállapított szöveg.

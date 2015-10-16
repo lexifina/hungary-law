@@ -2,9 +2,9 @@
 
 ## 25. Jogharmonizációs záradék
 
-43. §[^45] (1) Ez a rendelet
+43. §[^76] (1) Ez a rendelet
 
-a)–b)[^46]
+a)–b)[^77]
 
 c) a nagy tüzelőberendezésekből származó egyes szennyező anyagok levegőbe történő kibocsátásának korlátozásáról szóló, 2001. október 23-i 2001/80/EK európai parlamenti és tanácsi irányelv 4. cikk (1)–(3) és (6) bekezdésének, valamint 15. és 16. cikkének,
 
@@ -24,12 +24,12 @@ h) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése 
 
 a) a veszélyes hulladékégetésről szóló 94/67/EK tanácsi irányelv végrehajtásáról szóló tagállami jelentések alapjául szolgáló kérdőívről szóló, 1998. február 25-i 98/184/EK bizottsági határozatnak,
 
-b)–c)[^47]
+b)–c)[^78]
 
 d) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2006. január 18-i 166/2006/EK európai parlamenti és tanácsi rendelet 7. cikkének, továbbá
 
 e) az ózonréteget lebontó anyagokról szóló, 2009. szeptember 16-i 1005/2009/EK európai parlamenti és tanácsi rendelet 26. cikkének
 
-[^45]: A 43. § a 378/2013. (X. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^46]: A 43. § (1) bekezdés a)–b) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
-[^47]: A 43. § (2) bekezdés b)–c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^76]: A 43. § a 378/2013. (X. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^77]: A 43. § (1) bekezdés a)–b) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^78]: A 43. § (2) bekezdés b)–c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.

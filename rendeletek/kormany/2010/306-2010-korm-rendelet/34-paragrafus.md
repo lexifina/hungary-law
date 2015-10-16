@@ -16,4 +16,6 @@ c) a kötelezettségszegés időtartamát és ismétlődését
 
 (4) A környezetvédelmi hatóság a (3) bekezdés szerinti körülmények mérlegelésével a bírság összegét kötelezettségszegésenként legfeljebb 75%-kal csökkentett összegben állapíthatja meg.
 
-(5) A levegőtisztaság-védelmi bírság az eljáró környezetvédelmi hatóság bevétele.
+(5)[^62]
+
+[^62]: A 34. § (5) bekezdését a 292/2015. (X. 8.) Korm. rendelet 39. §-a hatályon kívül helyezte.
