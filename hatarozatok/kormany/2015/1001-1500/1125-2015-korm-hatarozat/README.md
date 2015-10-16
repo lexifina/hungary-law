@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1125-30
 | 2015-09-09 | 2015-1125-30-22.15 | 1180/2015. (III. 25.) Korm. határozat |
 | 2015-09-26 | 2015-1125-30-22.16 | 1180/2015. (III. 25.) Korm. határozat |
 | 2015-09-27 | 2015-1125-30-22.17 | 1180/2015. (III. 25.) Korm. határozat |
+| 2015-10-16 | 2015-1125-30-22.18 | 1180/2015. (III. 25.) Korm. határozat |

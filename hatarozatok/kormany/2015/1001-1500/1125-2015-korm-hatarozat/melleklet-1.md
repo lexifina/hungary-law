@@ -310,9 +310,9 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 28,26 | 64,75 | 102,73 | 195,74 |
+| 3. | 28,05 | 64,45 | 117,67 | 210,17 |
 
-| 4. | Többletkötelezettség-vállalás: 102,01 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 116,33 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 0% |
 
@@ -324,7 +324,7 @@
 
 | 2. | 2007–2015. | 2015. hátralevő | Összesen |
 
-| 3. | 176,70 | 80,67 | 257,37 |
+| 3. | 212,72 | 58,97 | 271,69 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -336,17 +336,17 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 5.4.0 | Távhő-szektor energetikai fejlesztése | 28,26 | 0,00 | 0,00 | Távhőellátás energiahatékonysági korszerűsítése. | nemzeti fejlesztési miniszter | – |
+| 3. | 5.4.0 | Távhő-szektor energetikai fejlesztése | 28,05 | 0,00 | 0,00 | Távhőellátás energiahatékonysági korszerűsítése. | nemzeti fejlesztési miniszter | – |
 
-| 4. | 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 64,75 | 0,50 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
+| 4. | 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 64,45 | 0,50 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
 
-| 5. | 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 46,00 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
+| 5. | 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 77,67 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
 
-| 6. | 5.7.0 | Középületek kiemelt jelentőségű épületenergetikai fejlesztése | 0,00 | 0,00 | 56,21 | Középületek hőtechnikai adottságainak javítása. | nemzeti fejlesztési miniszter | – |
+| 6. | 5.7.0 | Középületek kiemelt jelentőségű épületenergetikai fejlesztése | 0,00 | 0,00 | 39,50 | Középületek hőtechnikai adottságainak javítása. | nemzeti fejlesztési miniszter | – |
 
 5.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében az 5.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
-5.3.3. Az 5.3.1. pontban foglalt táblázat 3–6. sora szerinti 5.4.0, 5.5.0, 5.6.0 és 5.7.0 konstrukció 102,01 Mrd Ft többletkötelezettség-vállalást tartalmaz.
+5.3.3. Az 5.3.1. pontban foglalt táblázat 3–6. sora szerinti 5.4.0, 5.5.0, 5.6.0 és 5.7.0 konstrukció 116,33 Mrd Ft többletkötelezettség-vállalást tartalmaz.
 
 6. A 6. prioritás: Fenntartható életmód és fogyasztás
 
@@ -521,4 +521,4 @@
 [^3]: Az 1. pont f) alpontját az 1367/2015. (VI. 3.) Korm. határozat 3. pontja iktatta be.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1371/2015. (VI. 4.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
 [^5]: A 4. pontot az 1464/2015. (VII. 15.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
-[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja, az 1558/2015. (VIII. 7.) Korm. határozat 3. pontja, az 1583/2015. (IX. 4.) Korm. határozat 4. pontja, az 1627/2015. (IX. 8.) Korm. határozat 3. pontja, az 1691/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1697/2015. (IX. 25.) Korm. határozat 3. pontja, az 1698/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1692/2015. (IX. 25.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1371/2015. (VI. 4.) Korm. határozat 2. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „46,81” szövegrész helyébe a „61,79” szöveg lép, nem vezethető át. Az 1464/2015. (VII. 15.) Korm. határozat 2. pont c) pont cb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „61,79” szövegrész helyébe a „71,61” szöveg lép, nem vezethető át. Az 1507/2015. (VII. 15.) Korm. határozat 1. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „71,61” szövegrész helyébe a „81,42” szöveg, nem vezethető át. ]
+[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja, az 1558/2015. (VIII. 7.) Korm. határozat 3. pontja, az 1583/2015. (IX. 4.) Korm. határozat 4. pontja, az 1627/2015. (IX. 8.) Korm. határozat 3. pontja, az 1691/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1697/2015. (IX. 25.) Korm. határozat 3. pontja, az 1698/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1692/2015. (IX. 25.) Korm. határozat 3. pontja, az 1758/2015. (X. 15.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1371/2015. (VI. 4.) Korm. határozat 2. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „46,81” szövegrész helyébe a „61,79” szöveg lép, nem vezethető át. Az 1464/2015. (VII. 15.) Korm. határozat 2. pont c) pont cb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „61,79” szövegrész helyébe a „71,61” szöveg lép, nem vezethető át. Az 1507/2015. (VII. 15.) Korm. határozat 1. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „71,61” szövegrész helyébe a „81,42” szöveg, nem vezethető át. ]
