@@ -10,7 +10,7 @@
 
 (2) A támogatási kérelmet a felhívásban meghatározott elektronikus alkalmazással kell elkészíteni és benyújtani. A támogatási kérelem akkor minősül benyújtottnak, ha a támogatást igénylő a felhívás részeként közzétett nyomtatványon a támogatási kérelem elektronikus benyújtásáról nyilatkozott és a nyilatkozatot az egységes működési kézikönyvben és a felhívásban meghatározott módon az irányító hatósághoz benyújtotta.
 
-(3)[^159] A támogatást igénylő a támogatás igénylésével egyidejűleg hozzájárulását adja ahhoz, hogy a támogató
+(3)[^161] A támogatást igénylő a támogatás igénylésével egyidejűleg hozzájárulását adja ahhoz, hogy a támogató
 
 a) EMVA forrás esetén a 908/2014/EU bizottsági rendelet 57. cikk szerinti adatokat,
 
@@ -28,10 +28,10 @@ bd) a döntés évét és a hónapját
 
 (4) A támogatási kérelem monitoring és információs rendszerbe történő beérkezéséről a támogatást igénylő értesítést kap.
 
-(5)[^160] A támogatási kérelem benyújtása, valamint a felhívásban meghatározott jogosultsági feltételek teljesítése nem jelent alanyi jogosultságot a támogatásra, arról csak a kiválasztási szempontokra és forrásra tekintettel hozható döntés.
+(5)[^162] A támogatási kérelem benyújtása, valamint a felhívásban meghatározott jogosultsági feltételek teljesítése nem jelent alanyi jogosultságot a támogatásra, arról csak a kiválasztási szempontokra és forrásra tekintettel hozható döntés.
 
-(6)[^161] Ha a felhívás úgy rendelkezik, idegen nyelven kiállított dokumentum benyújtása esetében a támogatást igénylőnek csatolnia kell a dokumentum szakfordító vagy szakfordító-lektor által készített magyar nyelvű fordítását is.
+(6)[^163] Ha a felhívás úgy rendelkezik, idegen nyelven kiállított dokumentum benyújtása esetében a támogatást igénylőnek csatolnia kell a dokumentum szakfordító vagy szakfordító-lektor által készített magyar nyelvű fordítását is.
 
-[^159]: Az 58. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^160]: Az 58. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
-[^161]: Az 58. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^161]: Az 58. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^162]: Az 58. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^163]: Az 58. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.

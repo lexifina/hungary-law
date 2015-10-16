@@ -26,7 +26,7 @@ h) a lehívási értesítés keltezését és
 
 i) az alapok alapját végrehajtó szervezet cégszerű aláírását.
 
-(5)[^403] Az irányító hatóság a szabályszerű lehívási értesítésben megjelölt összeget az előirányzat-felhasználási keretszámláról a megfelelő programszámlára fizeti ki. Az irányító hatóság a forrást a szabályszerű lehívási értesítés beérkezésétől számított hét napon belül utalja át a programszámlára, ha
+(5)[^402] Az irányító hatóság a szabályszerű lehívási értesítésben megjelölt összeget az előirányzat-felhasználási keretszámláról a megfelelő programszámlára fizeti ki. Az irányító hatóság a forrást a szabályszerű lehívási értesítés beérkezésétől számított hét napon belül utalja át a programszámlára, ha
 
 a) az adott hónapban lehívott összeg összesen nem haladja meg a havi kifizetési előrejelzésben jelzett összeget
 
@@ -34,4 +34,4 @@ b) megelőző eljárási cselekmények megtörténtek, továbbá
 
 c) a lehívási értesítésben kapott adatokat az irányító hatóság rögzítette a monitoring és információs rendszerben.
 
-[^403]: A 149. § (5) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 174. pontja szerint módosított szöveg.
+[^402]: A 149. § (5) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 174. pontja szerint módosított szöveg.

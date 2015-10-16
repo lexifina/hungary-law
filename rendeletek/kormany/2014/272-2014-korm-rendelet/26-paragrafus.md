@@ -12,7 +12,7 @@ d) törvényben, illetve kormányrendeletben meghatározott egyéb feladatok ell
 
 (2) A kifizető ügynökség a feladatkörébe tartozó intézkedésekkel kapcsolatos jogok és kötelezettségek teljesítésének módjára vonatkozóan tájékoztatókat, közleményeket ad ki, illetve nyomtatványokat rendszeresít.
 
-(3)[^93] A kifizető ügynökség különösen
+(3)[^95] A kifizető ügynökség különösen
 
 a) a kifizetés engedélyezése előtt ellenőrzi a kérelmek elfogadhatóságának és a támogatások odaítélésére irányuló eljárásnak, valamint a kérelmek uniós szabályoknak való megfelelését,
 
@@ -30,10 +30,10 @@ g) ellátja a 908/2014/EU bizottsági rendelet 29. cikke szerinti éves számla-
 
 h) visszatartás útján levonja a kedvezményezett tartozását a kedvezményezett javára végrehajtandó jövőbeli kifizetés összegéből.
 
-(4)[^94] A 20. § 9. és 22. pontjában foglalt feladatot az EMVA irányító hatóságával együttműködve látja el.
+(4)[^96] A 20. § 9. és 22. pontjában foglalt feladatot az EMVA irányító hatóságával együttműködve látja el.
 
-(5)[^95] A 20. § 16. pontjában meghatározott feladatokat EMVA esetében a kifizető ügynökség látja el.
+(5)[^97] A 20. § 16. pontjában meghatározott feladatokat EMVA esetében a kifizető ügynökség látja el.
 
-[^93]: A 26. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^94]: A 26. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 39. pontja szerint módosított szöveg.
-[^95]: A 26. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 40. pontja szerint módosított szöveg.
+[^95]: A 26. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^96]: A 26. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 39. pontja szerint módosított szöveg.
+[^97]: A 26. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 40. pontja szerint módosított szöveg.

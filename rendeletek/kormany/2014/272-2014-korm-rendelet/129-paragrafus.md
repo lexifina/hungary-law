@@ -1,6 +1,6 @@
-129. § (1)[^377] A támogatás folyósítására – a kedvezményezett által benyújtott kifizetési igénylés alapján – utófinanszírozással a kedvezményezett pénzforgalmi számlájára közvetlenül a szállító vagy az engedményes pénzforgalmi számlájára történő utalással (a továbbiakban: szállítói finanszírozás) kerül sor.
+129. § (1)[^376] A támogatás folyósítására – a kedvezményezett által benyújtott kifizetési igénylés alapján – utófinanszírozással a kedvezményezett pénzforgalmi számlájára közvetlenül a szállító vagy az engedményes pénzforgalmi számlájára történő utalással (a továbbiakban: szállítói finanszírozás) kerül sor.
 
-(2)[^378] A támogatás folyósításának feltétele utófinanszírozás és szállítói finanszírozás esetén – az átalány alapú elszámolás, a mezőgazdasági kockázatkezelési támogatás, valamint a jövedelem-kompenzációs támogatások kivételével – a fizikai és pénzügyi teljesítés igazolása a kedvezményezett által benyújtott kifizetési igénylésben. Szállítói finanszírozás esetén, ha a 128. § (3) bekezdés alkalmazására kerül sor, a pénzügyi teljesítést a támogatás 90%-ának kifizetéséig nem kell igazolni.
+(2)[^377] A támogatás folyósításának feltétele utófinanszírozás és szállítói finanszírozás esetén – az átalány alapú elszámolás, a mezőgazdasági kockázatkezelési támogatás, valamint a jövedelem-kompenzációs támogatások kivételével – a fizikai és pénzügyi teljesítés igazolása a kedvezményezett által benyújtott kifizetési igénylésben. Szállítói finanszírozás esetén, ha a 128. § (3) bekezdés alkalmazására kerül sor, a pénzügyi teljesítést a támogatás 90%-ának kifizetéséig nem kell igazolni.
 
 (3) A pénzügyi teljesítés igazolását a kedvezményezett
 
@@ -12,5 +12,5 @@ b) nettó tervezés esetén – az ÁFA-törvény 142. §-a szerinti fordított 
 
 (4) A kifizetési igénylés szállítói és utófinanszírozást vegyesen is tartalmazhat.
 
-[^377]: A 129. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 161. pontja szerint módosított szöveg.
-[^378]: A 129. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 76. § (1) bekezdésével megállapított szöveg.
+[^376]: A 129. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 161. pontja szerint módosított szöveg.
+[^377]: A 129. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 76. § (1) bekezdésével megállapított szöveg.

@@ -1,8 +1,8 @@
-72. § (1)[^198] A helyi fejlesztési stratégia keretében meghirdetett felhívásokat a helyi akciócsoport a 71. § (7) bekezdésben meghatározott szerződés feltételei szerint készíti el.
+72. § (1)[^200] A helyi fejlesztési stratégia keretében meghirdetett felhívásokat a helyi akciócsoport a 71. § (7) bekezdésben meghatározott szerződés feltételei szerint készíti el.
 
-(2)[^199]
+(2)[^201]
 
 (3) A helyi akciócsoportok a támogatási kérelmekről hozott döntés megalapozása érdekében helyi bíráló bizottságot állítanak fel. A helyi bíráló bizottság összehívását, működését, tagjait a helyi akciócsoport által kiadott ügyrendben kell meghatározni az irányító hatóság útmutatása alapján. Az ügyrendet az irányító hatóság hagyja jóvá.
 
-[^198]: A 72. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^199]: A 72. § (2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 17. pontja hatályon kívül helyezte.
+[^200]: A 72. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^201]: A 72. § (2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 17. pontja hatályon kívül helyezte.

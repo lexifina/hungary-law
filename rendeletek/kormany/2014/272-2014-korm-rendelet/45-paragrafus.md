@@ -6,7 +6,7 @@
 
 45. § (1) Az éves fejlesztési keret NFK általi jóváhagyását követően az irányító hatóság a felhívásokat kiegészíti a megjelentetéshez szükséges részletes információkkal.
 
-(2)[^134] Az irányító hatóság a felhívásokat az európai uniós források felhasználásáért felelős miniszter által rendelkezésre bocsátott sablondokumentumok alapján,
+(2)[^136] Az irányító hatóság a felhívásokat az európai uniós források felhasználásáért felelős miniszter által rendelkezésre bocsátott sablondokumentumok alapján,
 
 a) a szakpolitikai felelős,
 
@@ -16,9 +16,9 @@ c) területi program esetén a területi szereplő
 
 ## bevonásával készíti el.
 
-(2a)[^135] A felhívás az irányító hatóság vezetője által jóváhagyott tartalommal hirdethető meg.
+(2a)[^137] A felhívás az irányító hatóság vezetője által jóváhagyott tartalommal hirdethető meg.
 
 (3) A felhívás nem minősül az Ávr. 45. § (1) bekezdése szerinti kötelezettségvállalásnak.
 
-[^134]: A 45. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^135]: A 45. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 24. §-a iktatta be.
+[^136]: A 45. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^137]: A 45. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 24. §-a iktatta be.

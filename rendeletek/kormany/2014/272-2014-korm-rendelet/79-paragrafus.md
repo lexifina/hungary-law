@@ -1,10 +1,10 @@
 79. § (1) A támogatási szerződésnek tartalmaznia kell legalább
 
-a)[^219] a támogatott tevékenység meghatározását, pénzügyi eszköz kivételével a projektszintű mérföldköveket, a műszaki-szakmai tartalom leírását, a teljesítendő indikátorokat és azok célértékeit, teljesítésük határidejét, valamint a projektre vonatkozó horizontális követelmények egyértelmű, nyomon követhető meghatározását,
+a)[^218] a támogatott tevékenység meghatározását, pénzügyi eszköz kivételével a projektszintű mérföldköveket, a műszaki-szakmai tartalom leírását, a teljesítendő indikátorokat és azok célértékeit, teljesítésük határidejét, valamint a projektre vonatkozó horizontális követelmények egyértelmű, nyomon követhető meghatározását,
 
-b)[^220] a támogatás összegét, a támogatási intenzitást, a támogatási kategóriát és az elszámolható költségeket, pénzügyi eszköz esetében a nyújtott forrás, vállalt kezesség összegét,
+b)[^219] a támogatás összegét, a támogatási intenzitást, a támogatási kategóriát és az elszámolható költségeket, pénzügyi eszköz esetében a nyújtott forrás, vállalt kezesség összegét,
 
-c)[^221] a projekt fizikai befejezésének, megvalósításának határidejét,
+c)[^220] a projekt fizikai befejezésének, megvalósításának határidejét,
 
 d) a támogatás rendelkezésre bocsátásának módját, feltételeit, ütemezését a kedvezményezett által benyújtott, az irányító hatóság által elfogadott költségterv alapján,
 
@@ -18,11 +18,11 @@ h) a támogatással kapcsolatos iratok, valamint a támogatás felhasználását
 
 i) az e rendelet szerinti adatszolgáltatásokhoz szükséges adatok és az azokban bekövetkező változások irányító hatóság felé történő bejelentésének kötelezettségét, a bejelentési kötelezettség elmulasztásának következményeit,
 
-j)[^222] a jogviszony megszüntetésének egyes eseteit,
+j)[^221] a jogviszony megszüntetésének egyes eseteit,
 
 k) az „A kedvezményezett nem követhet el, nem engedélyezhet, illetve harmadik személyt nem jogosíthat fel olyan cselekményekre, amely a közélet tisztaságára vonatkozó, valamint a korrupció-ellenes jogszabályok megsértését eredményezi. A kedvezményezett nem fogadhat el, nem ajánlhat fel és nem adhat az eljáró harmadik személynek ajándékot, illetve pénzbeli vagy nem pénzbeli juttatást” szövegű korrupció-ellenes záradékot.
 
-(1a)[^223] A szakpolitikai mutató nem teljesítéséért a kedvezményezett nem szankcionálható.
+(1a)[^222] A szakpolitikai mutató nem teljesítéséért a kedvezményezett nem szankcionálható.
 
 (2) A kedvezményezett a támogatási szerződésbe foglalva köteles nyilatkozni arról, hogy
 
@@ -46,11 +46,11 @@ db) – ha a da) pont szerinti beszámítás nem lehetséges – a központi kö
 
 e) ha ellene jogerős végzéssel végelszámolási, felszámolási-, csőd- vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárást rendelnek el, azt az irányító hatóságnak bejelenti,
 
-f)[^224] az elmúlt három pénzügyi évben számára mekkora összegű, az Atr. 2. § 1. pont a)–d) alpontja szerinti csekély összegű (de minimis) támogatást ítéltek meg.
+f)[^223] az elmúlt három pénzügyi évben számára mekkora összegű, az Atr. 2. § 1. pont a)–d) alpontja szerinti csekély összegű (de minimis) támogatást ítéltek meg.
 
-(2a)[^225] Pénzügyi eszközök esetén a (2) bekezdés d) pontját nem kell alkalmazni.
+(2a)[^224] Pénzügyi eszközök esetén a (2) bekezdés d) pontját nem kell alkalmazni.
 
-(2b)[^226] EMVA forrásból származó támogatás kedvezményezettje a támogatási szerződében nyilatkozik annak tudomásulvételéről, hogy
+(2b)[^225] EMVA forrásból származó támogatás kedvezményezettje a támogatási szerződében nyilatkozik annak tudomásulvételéről, hogy
 
 a) a megítélt támogatást a kifizető ügynökség a 908/2014/EU európai bizottsági rendelet 28. cikke alapján a kedvezményezettet terhelő, az intézkedésekkel összefüggő tartozás összegéig visszatarthatja, és ezzel a tartozás megfizetettnek minősül,
 
@@ -60,11 +60,11 @@ c) ha köztartozása a megítélt támogatás 5%-át, de legalább az egymillió
 
 (3) A támogatási szerződés jogszabály által nem rendezett kérdéseket is szabályozhat. A támogatói okirat kizárólag jogszabályi rendelkezésen, a felhíváson vagy a kedvezményezett korábbi előzetes nyilatkozatán alapuló kérdésekről rendelkezhet. Támogatói okirat alkalmazása esetén a kedvezményezett a (2) bekezdésben foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik.
 
-[^219]: A 79. § a) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^220]: A 79. § b) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^221]: A 79. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 18. pontja szerint módosított szöveg.
-[^222]: A 79. § (1) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 19. pontja szerint módosított szöveg.
-[^223]: A 79. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (2) bekezdése iktatta be.
-[^224]: A 79. § (2) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (3) bekezdésével megállapított szöveg.
-[^225]: A 79. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (4) bekezdése iktatta be.
-[^226]: A 79. § (2b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (4) bekezdése iktatta be.
+[^218]: A 79. § a) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^219]: A 79. § b) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^220]: A 79. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 18. pontja szerint módosított szöveg.
+[^221]: A 79. § (1) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 19. pontja szerint módosított szöveg.
+[^222]: A 79. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^223]: A 79. § (2) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (3) bekezdésével megállapított szöveg.
+[^224]: A 79. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (4) bekezdése iktatta be.
+[^225]: A 79. § (2b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (4) bekezdése iktatta be.

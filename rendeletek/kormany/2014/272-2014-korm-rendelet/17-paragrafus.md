@@ -1,6 +1,6 @@
 ## 9. Az igazoló hatóság feladatai
 
-17. § (1)[^57] Az Alapok igazoló hatósága
+17. § (1)[^59] Az Alapok igazoló hatósága
 
 a) az Alapokból származó támogatások folyósítása érdekében összeállítja az operatív programokra vonatkozó átutalás igénylési dokumentációt, igazolja a költségnyilatkozatok számszaki pontosságának és megbízhatóságának, valamint a költségek alátámasztottságának ellenőrzésére irányuló eljárások európai uniós és nemzeti jogszabályoknak való megfelelőségét, és benyújtja az igazolt átutalás igénylési dokumentációt az Európai Bizottság részére,
 
@@ -14,9 +14,9 @@ e) a monitoring és információs rendszerben vezeti az igazoló hatóság pénz
 
 f) végrehajtja az adminisztratív hibák, valamint az operatív program megvalósítása során bekövetkezett szabálytalanságok következtében szükségessé váló pénzügyi korrekciókat, és elszámol az alapokból származó visszafizetett támogatásokról az Európai Bizottsággal,
 
-g)[^58] elkészíti a 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 59. cikke (5) bekezdés a) pontjában említett beszámolókat és igazolja e beszámolók teljességét, pontosságát, hitelességét és megfelelőségét,
+g)[^60] elkészíti a 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 59. cikke (5) bekezdés a) pontjában említett beszámolókat és igazolja e beszámolók teljességét, pontosságát, hitelességét és megfelelőségét,
 
-h)[^59] biztosítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 126. cikk g) pontjában meghatározott számviteli nyilvántartási feladatok ellátását, amelynek keretében a támogatásokról a monitoring és információs rendszer alkalmazásával – központosított, valamennyi operatív programra teljes körűen kiterjedő, az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet előírásai alapján, a kettős könyvvitel módszerével vezetett, a pénzügyi könyvvezetés során a könyvviteli számlákhoz kapcsolódó részletező nyilvántartásokat vezet, és összeállítja az éves beszámolót.
+h)[^61] biztosítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 126. cikk g) pontjában meghatározott számviteli nyilvántartási feladatok ellátását, amelynek keretében a támogatásokról a monitoring és információs rendszer alkalmazásával – központosított, valamennyi operatív programra teljes körűen kiterjedő, az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet előírásai alapján, a kettős könyvvitel módszerével vezetett, a pénzügyi könyvvezetés során a könyvviteli számlákhoz kapcsolódó részletező nyilvántartásokat vezet, és összeállítja az éves beszámolót.
 
 (2) A kincstár köteles a támogatások számviteli elszámolását szabályozó számviteli kézikönyvet a hozzá kapcsolódó ellenőrzési nyomvonalakkal elkészíteni, amelynek részei
 
@@ -26,6 +26,6 @@ h)[^59] biztosítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 12
 
 3. bizonylati album.
 
-[^57]: A 17. § (1) bekezdés nyitó bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 28. pontjával megállapított szöveg.
-[^58]: A 17. § (1) bekezdés g) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 29. pontja szerint módosított szöveg.
-[^59]: A 17. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 30. pontja szerint módosított szöveg.
+[^59]: A 17. § (1) bekezdés nyitó bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 28. pontjával megállapított szöveg.
+[^60]: A 17. § (1) bekezdés g) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 29. pontja szerint módosított szöveg.
+[^61]: A 17. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 30. pontja szerint módosított szöveg.
