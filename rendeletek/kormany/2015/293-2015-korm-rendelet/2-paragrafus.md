@@ -1,0 +1,5 @@
+## 1. § Az egyes közlekedési szabálysértések miatt alkalmazandó szabálysértési pénzbírság, illetve helyszíni bírság kötelező mértékéről, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvénnyel összefüggő egyes kormányrendeletek módosításáról szóló 63/2012. (IV. 2.) Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § Ha a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) XXVII. Fejezetében meghatározott szabálysértések közül az 1–5. mellékletben felsorolt szabálysértéseket az abban hivatkozott rendelkezések megszegésével követik el – amennyiben a hatóság megítélése alapján a Szabs. tv. szerinti pénzbírság vagy helyszíni bírság kiszabása indokolt –, az ott meghatározott szabálysértéshez rendelt összegű pénzbírságot, illetve helyszíni bírságot kell kiszabni.”
+
+2. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
