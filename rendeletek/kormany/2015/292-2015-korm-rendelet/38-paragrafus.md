@@ -1,0 +1,1 @@
+## 37. § A Korm. rendelet 36. § (2) bekezdés d) pontjában a „nem gazdasági tevékenység keretében végzett tevékenység” szövegrész helyébe a „nem gazdálkodó szervezet által végzett tevékenység” szöveg lép.
