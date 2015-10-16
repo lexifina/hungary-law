@@ -1,0 +1,19 @@
+## 5. § A földgázkereskedő a 4. § szerinti bejelentésében foglaltakat annak megtételétől számított 24 órán belül közléssel megerősíti a Hivatal felé. A Hivatal az eljárást a megerősítés kézhezvételét követően indítja meg.
+
+6. § (1) A szállítási rendszerüzemeltető vagy a földgázelosztó haladéktalanul, de legkésőbb a rendszerhasználati vagy kiegyensúlyozást biztosító szerződés megszüntetésére vonatkozó nyilatkozat kiadását 72 órával megelőzően közli a Hivatallal, ha a földgázkereskedő a szállítási rendszerüzemeltetővel, illetve a földgázelosztóval megkötött hatályos rendszerhasználati vagy kiegyensúlyozást biztosító szerződése vonatkozásában – a GET 77. § (2) bekezdés d) pontjára figyelemmel – súlyos szerződésszegést követett el, és emiatt a szállítási rendszerüzemeltető vagy a földgázelosztó üzletszabályzatában meghatározott módon, a rendszerhasználati vagy kiegyensúlyozást biztosító szerződés megszüntetését helyezte kilátásba. A bejelentéshez mellékelni kell a megszüntetés indokolását és az azt igazoló dokumentumokat.
+
+(2) A szállítási rendszerüzemeltető vagy a földgázelosztó a rendszerhasználati vagy kiegyensúlyozást biztosító szerződést megszüntető nyilatkozatát a földgázkereskedőnek küldött erről szóló értesítéssel egyidejűleg a Hivatallal és a kapcsolódó rendszerüzemeltetővel is köteles közölni.
+
+(3) A szervezett földgázpiac engedélyes bejelenti az (1) bekezdésben részletezett szabályok figyelembevételével a szállítási rendszerüzemeltetőnek, ha az általa üzemeltetett kereskedési platformon a földgázkereskedő tagsága megszűnik.
+
+(4) A kiegyensúlyozási szolgáltatást nyújtó szállítási rendszerüzemeltető a gáznapi allokálást követően haladéktalanul, de legkésőbb 24 órán belül közli a Hivatallal, ha a földgázkereskedő által a földgázszállítási rendszerből vételezett földgáz mennyisége az adott gáznapon több mint
+
+a) 20%-kal,
+
+b) 75%-kal, vagy
+
+c) 10,8 millió kWh-val
+
+## meghaladta a földgázkereskedő által a gáznapon a földgázszállítási rendszerbe betáplált földgáz mennyiségét, amelybe beleértendő a földgázkereskedő által az adott gáznapra felajánlott és a szállítási rendszerüzemeltető által az allokáció során igénybe vett pozitív hidraulikai kiegyensúlyozó földgáz mennyisége is.
+
+(5) A szállítási rendszerüzemeltető az adott gázhónapra vonatkozó végleges allokációt a gázhónapot követően, annak rendelkezésre állásakor haladéktalanul, de legkésőbb 24 órán belül megküldi a Hivatal részére.

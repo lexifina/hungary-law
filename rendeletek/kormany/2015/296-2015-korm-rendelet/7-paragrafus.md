@@ -1,0 +1,3 @@
+7. § (1) A Hivatal az 5. § vagy 6. § szerinti közlést követően felhívja a szállítási rendszerüzemeltetőt vagy a földgázelosztót, hogy a felhívás közlését követő 24 órán belül – a felhíváshoz mellékelt formában – köteles a Hivatal által előírt adatokat a Hivatal rendelkezésére bocsátani a rendszerén vételező felhasználók tekintetében.
+
+(2) A földgáztárolási engedélyes a Hivatal felhívására, a felhívást követő 24 órán belül köteles a Hivatal rendelkezésére bocsátani az adatszolgáltatás időpontjában a felhívásban megjelölt földgázkereskedő hazai földgáztárolóban elhelyezett mobil földgázkészletére, valamint lekötött tárolói kapacitására vonatkozó adatokat.

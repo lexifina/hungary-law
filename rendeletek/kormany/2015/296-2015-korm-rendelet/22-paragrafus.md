@@ -1,0 +1,1 @@
+## 21. § A felhasználó a kijelölés időtartama alatt a szolgáltatási jogviszonyt – a 25. § (1) bekezdése szerinti eltéréssel – a GET, valamint a Vhr. figyelembevételével, a kijelölt földgázkereskedő üzletszabályzatában meghatározott általános felmondási feltételeknek megfelelően mondhatja fel.

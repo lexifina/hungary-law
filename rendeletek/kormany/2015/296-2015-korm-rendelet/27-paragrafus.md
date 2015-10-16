@@ -1,0 +1,3 @@
+27. § (1) Az egyetemes szolgáltatásra nem jogosult felhasználó ellátására kijelölt földgázkereskedő a felhasználótól a kijelölés időtartama alatt legfeljebb a 12. § (1) bekezdés szerint benyújtott ajánlatában megjelölt földgázárat és a mindenkor hatályos rendszerhasználati díjak alkalmazásának feltételeiről szóló rendelet szerinti rendszerhasználati díjakat igényelheti azzal, hogy a földgáz ára a kijelölés időtartama alatt nem változtatható.
+
+(2) Az (1) bekezdésben foglalt rendelkezések nem érintik a földgáz kereskedelmi ügylethez kapcsolódó egyéb jogszabályokban meghatározott fizetési kötelezettségeket.
