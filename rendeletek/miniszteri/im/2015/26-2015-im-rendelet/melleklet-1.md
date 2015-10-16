@@ -1,4 +1,4 @@
-## 14. § Hatályát veszti a bíróságokon és az Országos Igazságszolgáltatási Tanács Hivatalában foglalkoztatott egyes igazságügyi alkalmazottak munkakörének és képesítési feltételének meghatározásáról, ügyviteli vizsgájáról szóló 5/2001. (III. 13.) IM rendelet.
+## 14. §[^1]
 
 1. melléklet a 26/2015. (IX. 30.) IM rendelethez
 
@@ -371,3 +371,5 @@
 | 25 | 7.P.1. | betanított munkás (fizikai dolgozó) | – | általános iskolai végzettség |
 
 | 26 | 7.P.2. | segédmunkás (fizikai dolgozó) | – | általános iskolai végzettség |
+
+[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
