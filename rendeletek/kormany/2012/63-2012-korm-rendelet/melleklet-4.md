@@ -12,6 +12,6 @@
 
 | 5. | a járművezető utánképzésen történő részvételének hiánya miatt szünetel a vezetési jogosultság | KRESZ 4. § (1) bekezdés a) pont | 45 000 | 90 000 |
 
-4. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^4]
+4. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^5]
 
-[^4]: A 4. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^5]: A 4. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.

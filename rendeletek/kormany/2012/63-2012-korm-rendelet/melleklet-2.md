@@ -10,6 +10,6 @@
 
 | 4. | vasúti vagy légi jármű, gépi meghajtású vízi jármű, úszó munkagép, illetve közúton vagy a közforgalom elől el nem zárt magánúton gépi meghajtású jármű vezetésének olyan személynek történő átengedése, akinek a szervezetében szeszes ital fogyasztásából származó alkohol van | Szabs. tv. 217. § b) pont | 25 000 | 50 000 |
 
-2. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^2]
+2. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^3]
 
-[^2]: A 2. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^3]: A 2. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
