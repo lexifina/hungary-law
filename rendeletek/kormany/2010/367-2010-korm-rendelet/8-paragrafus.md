@@ -32,11 +32,14 @@ k) az Alap honlapjának működtetése, továbbá
 
 l) a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok összehangolása,
 
-m) mindazoknak a kötelezettségeknek az ellátása, amelyeket jogszabály az Alapkezelő számára előír.
+m) mindazoknak a kötelezettségeknek az ellátása, amelyeket jogszabály az Alapkezelő számára előír,
 
-(5)[^12] Az Alap működtetési kiadásainak forrását – az Alapnál jelentkező közvetlen bankköltség és árfolyamveszteségből származó kiadások forrásai kivételével – az Alapkezelő részére finanszírozási terv alapján át kell utalni.
+n)[^12] a Magyar Diaszpóra Tanács, a MÁÉRT és szakbizottságai üléseinek megszervezése és lebonyolítása kizárólagos joggal.
+
+(5)[^13] Az Alap működtetési kiadásainak forrását – az Alapnál jelentkező közvetlen bankköltség és árfolyamveszteségből származó kiadások forrásai kivételével – az Alapkezelő részére finanszírozási terv alapján át kell utalni.
 
 [^9]: A 8. § (1) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 3. §-ával megállapított, a 359/2014. (XII. 29.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^10]: A 8. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 1. §-ával megállapított és a 201/2011. (X. 7.) Korm. rendelet 6. § (5) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 532. §-a szerint módosított szöveg.
 [^11]: A 8. § (4) bekezdése 365/2011. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^12]: A 8. § (5) bekezdése a 20/2015. (II. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 8. § (4) bekezdés n) pontját a 301/2015. (X. 15.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 8. § (5) bekezdése a 20/2015. (II. 17.) Korm. rendelet 1. §-ával megállapított szöveg.

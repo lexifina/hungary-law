@@ -1,3 +1,3 @@
-## 37. §[^48]
+## 37. §[^49]
 
-[^48]: A 37. §-t a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^49]: A 37. §-t a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
