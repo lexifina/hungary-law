@@ -1,1 +1,3 @@
-35. § Hatályát veszti a vasúti pályahálózathoz történő nyílt hozzáférés részletes szabályairól szóló 101/2007. (XII. 22.) GKM rendelet.
+35. §[^1]
+
+[^1]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
