@@ -2,4 +2,6 @@
 
 28. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2) Hatályát veszti a földgázkereskedő működésének lehetetlenülése esetén, a felhasználók földgázellátását veszélyeztető helyzet fennállása következtében alkalmazandó eljárásról szóló 48/2010. (II. 26.) Korm. rendelet.
+(2)[^1]
+
+[^1]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
