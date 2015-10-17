@@ -14,7 +14,7 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja a Környezet és Energia Operatív Program módosításáról szóló 1411/2015. (VI. 23.) Korm. határozatot.
+## 4.[^2]
 
 1. melléklet az 1762/2015. (X. 16.) Korm. határozathoz
 
@@ -31,3 +31,5 @@ A KEOP 1., 2., 7., 8. és 5. prioritása közötti forrásátcsoportosítás:
 | 4. | KEOP | 7. prioritás: Projekt előkészítés (KA) | környezet/ Nemzeti Fejlesztési Minisztérium | 20,00 | Nemzeti Fejlesztési Minisztérium | KEOP | 5. prioritás: Hatékony energia- felhasználás |
 
 | 5. | KEOP | 8. prioritás: Az operatív program lebonyolításának finanszírozása (technikai segítségnyújtás) (KA) | környezet/ Nemzeti Fejlesztési Minisztérium | 5,00 | Nemzeti Fejlesztési Minisztérium | KEOP | 5. prioritás: Hatékony energia- felhasználás |
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
