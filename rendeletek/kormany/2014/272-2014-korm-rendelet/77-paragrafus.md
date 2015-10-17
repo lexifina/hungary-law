@@ -6,11 +6,11 @@ b) a kedvezményezett – a költségvetési szerv, a helyi önkormányzat, a ne
 
 c) az egyszeri elszámolók kivételével az önerő rendelkezésre állását igazoló dokumentumokat és nyilatkozatokat, és
 
-d)[^209] kiemelt és az 57/A. § (1) bekezdése szerinti projektek kivételével a projekt megvalósításának elindításához szükséges jogerős hatósági engedélyező határozatot, vagy az annak megadására vonatkozó kérelem benyújtását igazoló dokumentumokat, és
+d)[^213] kiemelt és az 57/A. § (1) bekezdése szerinti projektek kivételével a projekt megvalósításának elindításához szükséges jogerős hatósági engedélyező határozatot, vagy az annak megadására vonatkozó kérelem benyújtását igazoló dokumentumokat, és
 
-e)[^210] az olyan projektek esetén, amely keretében a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdése szerinti tevékenységet terveznek végezni, a környezeti hatástanulmányt, vagy annak hiányában előzetes vizsgálati dokumentációt, ha az készült.
+e)[^214] az olyan projektek esetén, amely keretében a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdése szerinti tevékenységet terveznek végezni, a környezeti hatástanulmányt, vagy annak hiányában előzetes vizsgálati dokumentációt, ha az készült.
 
-(2)[^211] A támogatói okirat kiadásához vagy a támogatási szerződés megkötéséhez az (1) bekezdés szerinti dokumentumok ismételt benyújtása nem szükséges, ha azok korábban már benyújtásra kerültek, és azok tartalma a benyújtást követően nem módosult.
+(2)[^215] A támogatói okirat kiadásához vagy a támogatási szerződés megkötéséhez az (1) bekezdés szerinti dokumentumok ismételt benyújtása nem szükséges, ha azok korábban már benyújtásra kerültek, és azok tartalma a benyújtást követően nem módosult.
 
 (3) Az (1) bekezdés c) pontja szerinti nyilatkozaton
 
@@ -22,8 +22,11 @@ c) az a) és b) pont alá nem tartozó esetben a kedvezményezett nyilatkozatát
 
 ## kell érteni.
 
+(3a)[^216] A derogációs projektek esetében az (1) bekezdés c) pontja szerinti dokumentumokat és nyilatkozatokat nem kell benyújtani abban az esetben, ha a projekt önereje a 41. § (2a) bekezdése alapján biztosított.
+
 (4) Az (1) bekezdés c) pontja szerinti igazoló dokumentum lehet a számlavezető igazolása, hitelszerződés, tagi kölcsönszerződés, magánkölcsönre vonatkozó szerződés, pénztári kiadási bizonylat, engedményezési okirat, tőkeemelésre vonatkozó igazolás, zárt végű pénzügyi lízingre vonatkozó szerződés, értékpapír banki igazolás másolata, illetve a felhívás által előírt egyéb okirat.
 
-[^209]: A 77. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 45. §-ával megállapított szöveg.
-[^210]: A 77. § (1) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 45. §-a iktatta be.
-[^211]: A 77. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 80. pontja szerint módosított szöveg.
+[^213]: A 77. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^214]: A 77. § (1) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 45. §-a iktatta be.
+[^215]: A 77. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 80. pontja szerint módosított szöveg.
+[^216]: A 77. § (3a) bekezdését a 303/2015. (X. 16.) Korm. rendelet 4. §-a iktatta be.

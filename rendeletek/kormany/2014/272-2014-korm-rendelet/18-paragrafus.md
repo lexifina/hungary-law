@@ -2,35 +2,35 @@
 
 18. § (1) A szakpolitikai felelős a programok tervezése és végrehajtása során a szakpolitikai szempontok érvényesítése érdekében ellátja a következő feladatokat:
 
-a)[^62] az éves fejlesztési keret készítése során a 41. § (2) bekezdésben szereplő információk megadásával elkészíti a felhívások szakmai koncepcióját az érintett irányító hatósággal és – szükség esetén – más szakpolitikai felelőssel egyeztetve, figyelembe véve az összefüggő fejlesztéseket,
+a)[^63] az éves fejlesztési keret készítése során a 41. § (2) bekezdésben szereplő információk megadásával elkészíti a felhívások szakmai koncepcióját az érintett irányító hatósággal és – szükség esetén – más szakpolitikai felelőssel egyeztetve, figyelembe véve az összefüggő fejlesztéseket,
 
-b)[^63] a kiemelt projektek tekintetében nyomon követi a projekt szinten rögzített szakmai elvárások teljesülését,
+b)[^64] a kiemelt projektek tekintetében nyomon követi a projekt szinten rögzített szakmai elvárások teljesülését,
 
-c)[^64]
+c)[^65]
 
-d)[^65] együttműködik a programok megvalósításában érintett minisztériumi felelősökkel a forráselosztási elvek, a szakpolitikai elvárások és horizontális követelmények meghatározása során,
+d)[^66] együttműködik a programok megvalósításában érintett minisztériumi felelősökkel a forráselosztási elvek, a szakpolitikai elvárások és horizontális követelmények meghatározása során,
 
-e)[^66]
+e)[^67]
 
-f)[^67] az irányító hatósággal és az európai uniós források felhasználásáért felelős miniszterrel és a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) alapján érintettekkel együttműködve részt vesz a többéves nemzeti keret előkészítésében, amelynek keretében szakmai információt nyújt a 40. §-ban foglaltak elkészítéséhez az irányító hatóság részére,
+f)[^68] az irányító hatósággal és az európai uniós források felhasználásáért felelős miniszterrel és a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) alapján érintettekkel együttműködve részt vesz a többéves nemzeti keret előkészítésében, amelynek keretében szakmai információt nyújt a 40. §-ban foglaltak elkészítéséhez az irányító hatóság részére,
 
-g)[^68]
+g)[^69]
 
-h)[^69] elkészíti az irányító hatóságnak megküldendő, felelősségi körébe tartozó éves fejlesztési keret alapját jelentő szakmai koncepciót, és a meghirdetendő felhívások szakmai tartalmának meghatározása során biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégiai céljaihoz,
+h)[^70] elkészíti az irányító hatóságnak megküldendő, felelősségi körébe tartozó éves fejlesztési keret alapját jelentő szakmai koncepciót, és a meghirdetendő felhívások szakmai tartalmának meghatározása során biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégiai céljaihoz,
 
 i) a szakpolitikai elvárások és szakmai tartalmak kialakítása során a területfejlesztés stratégiai tervezéséért felelős miniszterrel együttműködve biztosítja a területi kohézió horizontális szempontjainak érvényesítését.
 
-(2)[^70] Ahol e rendelet bármely dokumentum, javaslat, előterjesztés tervezet tekintetében benyújtási kötelezettséget ír elő az irányító hatóságnak az e rendeletben meghatározott más szerv részére, az abban foglalt javaslat a szakpolitikai felelőssel közös álláspontnak tekintendő, ha a szakpolitikai felelőst a 2. melléklet a Ktfr. szerint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban jelölte ki.
+(2)[^71] Ahol e rendelet bármely dokumentum, javaslat, előterjesztés tervezet tekintetében benyújtási kötelezettséget ír elő az irányító hatóságnak az e rendeletben meghatározott más szerv részére, az abban foglalt javaslat a szakpolitikai felelőssel közös álláspontnak tekintendő, ha a szakpolitikai felelőst a 2. melléklet a Ktfr. szerint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban jelölte ki.
 
-(3)[^71]
+(3)[^72]
 
-[^62]: A 18. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^63]: A 18. § (1) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 31. pontja szerint módosított szöveg.
-[^64]: A 18. § (1) bekezdés c) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
-[^65]: A 18. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 32. pontja szerint módosított szöveg.
-[^66]: A 18. § (1) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
-[^67]: A 18. § (1) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^68]: A 18. § (1) bekezdés g) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
-[^69]: A 18. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^70]: A 18. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 33. pontja szerint módosított szöveg.
-[^71]: A 18. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 4. pontja hatályon kívül helyezte.
+[^63]: A 18. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^64]: A 18. § (1) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 31. pontja szerint módosított szöveg.
+[^65]: A 18. § (1) bekezdés c) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
+[^66]: A 18. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 32. pontja szerint módosított szöveg.
+[^67]: A 18. § (1) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
+[^68]: A 18. § (1) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^69]: A 18. § (1) bekezdés g) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
+[^70]: A 18. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^71]: A 18. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 33. pontja szerint módosított szöveg.
+[^72]: A 18. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 4. pontja hatályon kívül helyezte.

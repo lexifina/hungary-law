@@ -1,6 +1,6 @@
-## 48. §[^143] Az irányító hatóság köteles a felhívást legalább harminc nappal az éves fejlesztési keretben meghatározott meghirdetési időpont előtt elektronikus formában megküldeni véleményezés céljából az európai uniós források felhasználásáért felelős miniszternek.
+## 48. §[^147] Az irányító hatóság köteles a felhívást legalább harminc nappal az éves fejlesztési keretben meghatározott meghirdetési időpont előtt elektronikus formában megküldeni véleményezés céljából az európai uniós források felhasználásáért felelős miniszternek.
 
-49. § (1)[^144] Az európai uniós források felhasználásáért felelős miniszter az egységes formai és tartalmi követelmények – ennek részeként horizontális követelmények –, a felhívások közötti összhang biztosítása, valamint az állami támogatási szabályoknak való megfelelés céljából minőségbiztosítás keretében megvizsgálja a felhívást. Ha az irányító hatóság a felhívást és az ahhoz tartozó mellékleteket nem
+49. § (1)[^148] Az európai uniós források felhasználásáért felelős miniszter az egységes formai és tartalmi követelmények – ennek részeként horizontális követelmények –, a felhívások közötti összhang biztosítása, valamint az állami támogatási szabályoknak való megfelelés céljából minőségbiztosítás keretében megvizsgálja a felhívást. Ha az irányító hatóság a felhívást és az ahhoz tartozó mellékleteket nem
 
 a) e rendelettel,
 
@@ -12,7 +12,7 @@ d) az európai uniós források felhasználásáért felelős miniszter által k
 
 e) az adott program, illetve más program valamely felhívásával,
 
-f)[^145] vonatkozó egyéb jogszabályokkal, valamint kötelezően alkalmazandó európai uniós jogi aktussal
+f)[^149] vonatkozó egyéb jogszabályokkal, valamint kötelezően alkalmazandó európai uniós jogi aktussal
 
 összhangban készíti el, az európai uniós források felhasználásáért felelős miniszter a felhívást tíz napon belül visszaküldi átdolgozás céljából az irányító hatóság részére.
 
@@ -20,6 +20,6 @@ f)[^145] vonatkozó egyéb jogszabályokkal, valamint kötelezően alkalmazandó
 
 (3) A végleges dokumentáció megjelentetése előtt az irányító hatóság köteles az európai uniós források felhasználásáért felelős miniszter ügyfélszolgálati feladatait ellátó szervezeti egységét a megjelenő felhívással kapcsolatban felmerülő lehetséges kérdések megválaszolására felkészíteni.
 
-[^143]: A 48. § a 397/2014. (XII. 31.) Korm. rendelet 95. § 2. pontja, a 144/2015. (VI. 12.) Korm. rendelet 100. § 58. pontja szerint módosított szöveg.
-[^144]: A 49. § (1) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 59. pontja szerint módosított szöveg.
-[^145]: A 49. § (1) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 60. pontja szerint módosított szöveg.
+[^147]: A 48. § a 397/2014. (XII. 31.) Korm. rendelet 95. § 2. pontja, a 144/2015. (VI. 12.) Korm. rendelet 100. § 58. pontja szerint módosított szöveg.
+[^148]: A 49. § (1) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 59. pontja szerint módosított szöveg.
+[^149]: A 49. § (1) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 60. pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@ b) a támogatás folyósítását a kedvezményezett vagy szállító milyen pé
 
 (3) Az MNB által nem jegyzett pénznemben kiállított elszámoló bizonylat esetén a kapcsolódó támogatási összeget a számlán megjelölt fizikai teljesítés időpontjában érvényes, az Európai Központi Bank által közzétett középárfolyamon kell euróra átváltani. A monitoring és információs rendszer biztosítja ezen összegek forintra történő átszámítását a fizikai teljesítés időpontjában érvényes hivatalos MNB középárfolyamon.
 
-(4)[^380] Ha az elszámoló bizonylat nem tartalmazza a fizikai teljesítés dátumát, vagy folyamatos teljesítésű tevékenységről szól, úgy a számlán szereplő összeget az elszámoló bizonylat keltezésének napján érvényes, az MNB által közzétett, hivatalos devizaárfolyamon kell átszámítani forintra. Ha utófinanszírozási módban a kedvezményezett előleget fizetett, az előleg támogatástartalma a rész- vagy végszámlán szereplő fizikai teljesítés napján érvényes, a MNB által közzétett, hivatalos devizaárfolyamon kerül forintra átszámításra.
+(4)[^385] Ha az elszámoló bizonylat nem tartalmazza a fizikai teljesítés dátumát, vagy folyamatos teljesítésű tevékenységről szól, úgy a számlán szereplő összeget az elszámoló bizonylat keltezésének napján érvényes, az MNB által közzétett, hivatalos devizaárfolyamon kell átszámítani forintra. Ha utófinanszírozási módban a kedvezményezett előleget fizetett, az előleg támogatástartalma a rész- vagy végszámlán szereplő fizikai teljesítés napján érvényes, a MNB által közzétett, hivatalos devizaárfolyamon kerül forintra átszámításra.
 
 (5) Szállítói finanszírozás esetén a szállító és a kedvezményezett forinttól eltérő devizában kötött szerződésének támogatási összegét a szerződésben megnevezett devizában fizeti ki a támogató. A támogatási összeget – a támogatás nyilvántartása céljából – az EFK-n forintban terhelt összeget kell tekinteni.
 
@@ -16,4 +16,4 @@ b) a támogatás folyósítását a kedvezményezett vagy szállító milyen pé
 
 (7) Devizában kiállított elszámoló bizonylatokat összesítőn nem lehet elszámolni.
 
-[^380]: A 131. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 78. §-ával megállapított szöveg.
+[^385]: A 131. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 78. §-ával megállapított szöveg.

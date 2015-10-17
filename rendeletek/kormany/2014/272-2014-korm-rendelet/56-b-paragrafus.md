@@ -1,4 +1,4 @@
-56/B. §[^152] (1) A konzultáció során az irányító hatóság feladatai:
+56/B. §[^156] (1) A konzultáció során az irányító hatóság feladatai:
 
 a) a fejlesztés elindításához szükséges engedélyezési, közbeszerzési, kiviteli tervezési eljárások figyelemmel kísérése és elősegítése,
 
@@ -28,4 +28,4 @@ f) a támogatási szerződésben meghatározott időpontban a projektdokumentác
 
 (3) A konzultáció folyamatát – ideértve az elektronikus úton történt egyeztetéseket is – dokumentálni kell. A konzultáció során történt személyes egyeztetésekről az irányító hatóság és a kedvezményezett aláírásával ellátott emlékeztetőt kell készíteni.
 
-[^152]: Az 56/B. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be.
+[^156]: Az 56/B. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be.

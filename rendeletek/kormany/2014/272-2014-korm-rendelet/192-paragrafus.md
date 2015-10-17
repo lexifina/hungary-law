@@ -1,3 +1,0 @@
-## XXVII. Fejezet
-
-## A KÖZMŰBERUHÁZÁSOKRA VONATKOZÓ SZABÁLYOK

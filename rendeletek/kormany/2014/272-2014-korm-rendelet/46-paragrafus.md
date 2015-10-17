@@ -1,4 +1,4 @@
-46. § (1)[^138] A felhívás tartalmazza legalább
+46. § (1)[^142] A felhívás tartalmazza legalább
 
 a) a felhívás nevét, keretösszegét,
 
@@ -30,7 +30,7 @@ n) a támogatási intézkedésre vonatkozó támogatási kategóriát és az arr
 
 o) a projektkiválasztásra vonatkozó eljárásrendet és további részletes információkat tartalmazó dokumentumok elérhetőségét.
 
-(1a)[^139] A terület-, illetve állatlétszám alapú támogatásokra vonatkozó felhívásokban nem kell szerepeltetni az (1) bekezdés h) és n) pontjában meghatározott tartalmi elemeket, az (1) bekezdés d) és i) pontjában meghatározottakat a terület-, illetve állatlétszám alapú intézkedés céljától függően kell alkalmazni.
+(1a)[^143] A terület-, illetve állatlétszám alapú támogatásokra vonatkozó felhívásokban nem kell szerepeltetni az (1) bekezdés h) és n) pontjában meghatározott tartalmi elemeket, az (1) bekezdés d) és i) pontjában meghatározottakat a terület-, illetve állatlétszám alapú intézkedés céljától függően kell alkalmazni.
 
 (2) Kiemelt projekt megvalósítására irányuló felhívásnak az (1) bekezdésben foglaltakon túl – a technikai segítségnyújtás kivételével – tartalmaznia kell
 
@@ -38,10 +38,10 @@ a) a fejlesztések felsorolását,
 
 b) a fejlesztésekhez rendelt indikatív kereteket,
 
-c)–e)[^140]
+c)–e)[^144]
 
 (3) Az irányító hatóságnak a felhívást a program céljai alapján, az egységes dokumentum-sablonok, elszámolhatósági szabályok, eljárásrendi megoldások alkalmazásával, az adminisztratív terhek, szabályozási kötöttségek minimalizálásával, a támogatási konstrukciók közötti szinergia és az elhatárolás biztosításával, az abszorpciós célokra, az eredményességi, teljesítmény-kerettel összefüggő szempontokra tekintettel kell kidolgoznia.
 
-[^138]: A 46. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^139]: A 46. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 25. §-a iktatta be.
-[^140]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.
+[^142]: A 46. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^143]: A 46. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 25. §-a iktatta be.
+[^144]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.

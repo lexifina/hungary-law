@@ -2,14 +2,14 @@
 
 68. § (1) A támogatási kérelemről az irányító hatóság folyamatos elbírálás esetén a támogatási kérelem beérkezésétől, szakaszos elbírálás esetén a felhívásban rögzített szakasz zárásától vagy a benyújtási határidőtől számított harmincadik napig, nagyprojekt és az Európai Hálózatfinanszírozási Eszközből támogatandó projekt esetén a támogatási kérelem beérkezésétől számított kilencvenedik napig dönt.
 
-(2)[^183] Döntés-előkészítő bizottság összehívása esetén az irányító hatóság támogatási kérelemről hozott döntési határideje tíz nappal meghosszabbodik.
+(2)[^187] Döntés-előkészítő bizottság összehívása esetén az irányító hatóság támogatási kérelemről hozott döntési határideje tíz nappal meghosszabbodik.
 
 (3) Nagyprojekt és az Európai Hálózatfinanszírozási Eszközből támogatandó projekt esetén az (1) bekezdésben meghatározott határidő a támogatásról vagy az elutasításról hozott döntési javaslatról történő értesítés határidejét jelentik.
 
-(4)[^184] Standard és egyszerűsített kiválasztási eljárásrend esetén, ha a beérkező támogatási kérelmek száma meghaladja a tervezettet, a határidőt az irányító hatóság egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
+(4)[^188] Standard és egyszerűsített kiválasztási eljárásrend esetén, ha a beérkező támogatási kérelmek száma meghaladja a tervezettet, a határidőt az irányító hatóság egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
 
-(5)[^185] Az (1), (2) és (4) bekezdés szerinti határidőbe nem számít bele a hiánypótlás, a felhívás módosítása következtében szükségessé vált korrekció, a tisztázó kérdés megválaszolásának vagy a kifogás elbírálására irányuló eljárás időtartama.
+(5)[^189] Az (1), (2) és (4) bekezdés szerinti határidőbe nem számít bele a hiánypótlás, a felhívás módosítása következtében szükségessé vált korrekció, a tisztázó kérdés megválaszolásának vagy a kifogás elbírálására irányuló eljárás időtartama.
 
-[^183]: A 68. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 73. pontja szerint módosított szöveg.
-[^184]: A 68. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 74. pontja szerint módosított szöveg.
-[^185]: A 68. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 75. pontja szerint módosított szöveg.
+[^187]: A 68. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 73. pontja szerint módosított szöveg.
+[^188]: A 68. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 74. pontja szerint módosított szöveg.
+[^189]: A 68. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 75. pontja szerint módosított szöveg.
