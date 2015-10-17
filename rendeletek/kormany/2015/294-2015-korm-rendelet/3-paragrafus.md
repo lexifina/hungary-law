@@ -1,1 +1,0 @@
-## „(7) A Speciális Olimpia esetében az edzők, nevelőedzők és sportszakemberek részére kifizethető jutalom keretösszege megegyezik a versenyzők részére az elért eredményeik alapján nyújtható állami jutalom összegével, azzal, hogy esetükben a 3. § (1)–(2) bekezdése nem alkalmazható.”
