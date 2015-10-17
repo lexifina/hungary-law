@@ -18,4 +18,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
-4. visszavonja a TIOP-3.3.1/A-12/2 kódszámú („A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés” című) konstrukcióval összefüggő egyes intézkedésekről szóló 1706/2014. (XII. 3.) Korm. határozatot.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
