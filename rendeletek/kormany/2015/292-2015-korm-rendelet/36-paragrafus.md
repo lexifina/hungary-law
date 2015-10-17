@@ -1,1 +1,0 @@
-## 35. § A Korm. rendelet 36. § (2) bekezdésében a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala” szövegrész helyébe a „megyei kormányhivatal környezetvédelmi hatáskörben eljáró járási hivatala” szöveg lép.

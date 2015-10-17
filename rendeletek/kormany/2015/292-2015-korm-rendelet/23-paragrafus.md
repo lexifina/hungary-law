@@ -1,3 +1,0 @@
-## 22. § A Korm. rendelet 23. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a környezeti hatásvizsgálat köteles vagy egységes környezethasználati engedély köteles tevékenységhez kapcsolódó helyhez kötött légszennyező forrás létesítése esetén az OLM keretében nem áll rendelkezésre adat, a környezetvédelmi hatáskörében eljáró megyei kormányhivatal az engedélyezéshez szükséges alap levegőterheltség megállapítása vagy a légszennyezettségi határértékek betarthatóságának ellenőrzése érdekében a légszennyező forrás létesítésének kérelmezőjét a helyhez kötött légszennyező forrás hatásterületére vonatkozó levegőterheltségi és levegőterhelési mérési terv elkészítésére kötelezheti.”
