@@ -1,10 +1,10 @@
-## beruházások megvalósítását szolgáló projektekre terjed ki.
+## 1/A. §[^3] E rendelet hatálya nem terjed ki a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 3. § (1) bekezdés 49. pontjában meghatározott azon szakaszolt projektekre, amelyek megvalósítása nem a miniszter felelősségi körébe tartozik és nem a Kormány saját hatáskörében történik.
 
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában
 
-1. előkészítés: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 5. melléklet 2. pont 2.1. alpontja szerinti költség alapját képező tevékenység vagy dokumentum,
+1.[^4] előkészítés: a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3. pont 3.2. alpontja szerinti költség alapját képező tevékenység vagy dokumentum,
 
 2. hulladékgazdálkodás: a hulladékról szóló 2012. évi CLXXXV. törvény 2. § (1) bekezdés 26. pontja szerinti tevékenység,
 
@@ -18,4 +18,8 @@
 
 7. támogatási szerződés: a 4/2011. (I. 28.) Korm. rendelet 2. § (1) bekezdés 27. pontja vagy a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 54. pontja szerinti szerződés,
 
-8. végső kedvezményezett: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 66. pontja szerinti kedvezményezett.
+8.[^5] végső kedvezményezett: az a kedvezményezett, amely vagy aki az e rendelet hatálya alá tartozó fejlesztéseket a számvitelről szóló törvény szerinti könyvviteli nyilvántartásába és rendeltetésszerűen használatba vette.
+
+[^3]: Az 1/A. §-t a 303/2015. (X. 16.) Korm. rendelet 9. §-a iktatta be.
+[^4]: A 2. § 1. pontja a 303/2015. (X. 16.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 8. pontja a 303/2015. (X. 16.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

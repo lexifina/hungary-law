@@ -1,3 +1,3 @@
-## alakul át 2015. január 1-jén.
+## 17. § Az ivóvízminőség-javító projektek megvalósításával összefüggő feladatok ellátása érdekében az Országos Vízügyi Főigazgatóság – az állami szervek közti átadás-átvételi eljárásra vonatkozó szabályoknak megfelelően – a Társaság részére 2015. október 31-ig elektronikus formában teljes körűen átadja a KEHOP keretében megvalósuló ivóvízminőség-javító projektek 2007–2013 programozási időszakban elérhető uniós források felhasználásával elkészített valamennyi dokumentumát.
 
 ## 11. Módosító rendelkezések

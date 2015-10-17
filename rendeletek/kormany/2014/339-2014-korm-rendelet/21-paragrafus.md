@@ -1,3 +1,3 @@
-## 18–20. §[^2]
+## 18–20. §[^14]
 
-[^2]: A 18–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 18–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

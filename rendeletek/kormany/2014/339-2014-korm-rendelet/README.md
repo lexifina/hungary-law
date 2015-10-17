@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-339-20-
 | 2014-12-21 | 2014-339-20-22.2 | 2010: CXXX. törvény |
 | 2015-01-01 | 2014-339-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-01-02 | 2014-339-20-22.4 | 2010: CXXX. törvény |
+| 2015-10-17 | 2014-339-20-22.5 | 303/2015. (X. 16.) Korm. rendelet |
