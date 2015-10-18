@@ -1,5 +1,5 @@
-## terheli.
-
-4. § (1) A gyártó a termék jelöléséről a termék gyártási dokumentációjában (például: gyártási előírás, technológia, tervrajz), vagy a hatáskörrel rendelkező által jóváhagyott utasításban (például: technológiai utasítás) foglaltak szerint gondoskodik. A gyártási dokumentáció, vagy az utasítás tartalmazza az adott termék azonosításának részletes leírását és az azonosító jeleket, valamint rendelkezik a jelölés elhelyezéséről és a kivitelezés módjáról.
+4. § (1)[^14] A gyártó a termék jelöléséről a termék gyártási dokumentációjában, vagy a gyártó szervezetében erre hatáskörrel felruházott személy által jóváhagyott utasításban foglaltak szerint gondoskodik. A gyártási dokumentációnak vagy az utasításnak tartalmaznia kell az adott termék azonosításának részletes leírását és az azonosító jeleket, valamint a jelölés elhelyezési helyéről és annak kivitelezési módjáról való rendelkezést.
 
 (2) Az egyedileg tervezett és legyártott termék esetén a gyártót az (1) bekezdés szerinti, a termék jelölésére utaló dokumentálási kötelezettség nem terheli.
+
+[^14]: A 4. § (1) bekezdése a 27/2015. (X. 15.) NGM rendelet 4. §-ával megállapított szöveg.

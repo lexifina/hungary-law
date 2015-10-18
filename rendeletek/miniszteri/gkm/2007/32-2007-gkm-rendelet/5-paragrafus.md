@@ -1,11 +1,17 @@
-5. § (1) Az azonosító jel megjelenhet
+5. §[^15] (1) Az azonosító jel elhelyezhető
 
-a) közvetlenül a terméken (például: beütés, festés, gravírozás, rásütés, sajtolás);
+a) a terméken közvetlenül,
 
-b) a termékre szerelt adathordozón (például: címke, tábla);
+b) a termékre szerelt adathordozón vagy
 
-c) készletezés esetén a termék csomagolásán (például: festés, rásütés).
+c) a termék csomagolásán.
 
-(2) Az azonosító jelet tartós kivitelben, úgy kell elhelyezni, hogy az technikai segédeszköz nélkül észlelhető, könnyen felismerhető, olvasható legyen, és azt csak roncsolásos eljárással lehessen eltávolítani.
+(2) Az azonosító jelet oly módon kell elhelyezni, hogy
 
-(3) Jelöléskor csak olyan módszer alkalmazható, amely a termék rendeltetésszerű használata során biztosítja az azonosító jel épségét, egyedi azonosításra alkalmasságát.
+a) csak a termék roncsolásával legyen eltávolítható, és
+
+b) technikai segédeszköz nélkül észlelhető, könnyen felismerhető és olvasható legyen.
+
+(3) Jelölésre csak olyan módszer alkalmazható, amely a termék rendeltetésszerű használata során is biztosítja az azonosító jel épségét, az egyedi azonosítás lehetőségét.
+
+[^15]: Az 5. § a 27/2015. (X. 15.) NGM rendelet 5. §-ával megállapított szöveg.

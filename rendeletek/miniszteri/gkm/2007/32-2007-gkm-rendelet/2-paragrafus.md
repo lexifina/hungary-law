@@ -1,16 +1,14 @@
-## 1. § E rendelet alkalmazási köre kiterjed a Httv. mellékletének I–XXIII. és XXV–XXVI. fejezeteibe tartozó haditechnikai termékekre (a továbbiakban: termék), kivéve – a készletből, tárolásból, raktározásból történő kivonásig – a Magyar Honvédség, a nemzetbiztonsági szolgálatok, valamint a rendvédelmi és rendészeti szervek készletében, tárolásában, raktározásában a rendelet hatálybalépésekor már meglévő termékeket.
-
 ## 2. § E rendelet alkalmazásában:
 
 a) azonosító jel: a termék egyértelmű azonosítására alkalmas alfanumerikus adat, amely latin betűk és arab számok (karakterek) vagy karakterek és szimbólumok kombinációját tartalmazza;
 
-b) beérkezés: a haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának engedélyezéséről szóló 16/2004. (II. 6.) Korm. rendelet (a továbbiakban: Htkr.) 1. §-a 11. pontjának b) alpontjában foglalt kereskedelmi ügylet;
+b)[^2] beérkezés: a Htkr. 1. § 17. pont b) alpontjában meghatározott fogalom;
 
-c) behozatal: a Htkr. 1. §-a 1. pontjának a)–b) alpontjában foglalt kereskedelmi ügylet;
+c)[^3] behozatal: a Htkr. 1. § 1. pontjában meghatározott fogalom;
 
 d) exportáló ország: a beérkezett vagy behozott termék származási helye;
 
-e) exportőr: a termék beérkeztetésével vagy behozatalával foglalkozó cég;
+e)[^4] exportőr: a Htkr. 1. § 7. pontjában meghatározott fogalom;
 
 f) gyártási szám: egyedi azonosító jel, amelynek képzésére betű- és számjeleket lehet felhasználni;
 
@@ -18,14 +16,25 @@ g) jelölés: a termék azonosító jellel (jelekkel) történő ellátása, ame
 
 h) importáló ország: a kiszállított vagy kivitt terméket fogadó ország;
 
-i) importőr: a termék kiszállításával vagy kivitelével foglalkozó cég;
+i)[^5] importőr: a Htkr. 1. § 10. pontjában meghatározott fogalom;
 
-j) kiszállítás: a Htkr. 1. §-a 11. pontjának a) alpontjában foglalt kereskedelmi ügylet;
+j)[^6] kiszállítás: a Htkr. 1. § 17. pont a) alpontjában meghatározott fogalom;
 
-k) kivitel: a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-i 2913/92/EGK tanácsi rendelet 161. cikke szerinti ügylet;
+k)[^7] kivitel: a Htkr. 1. § 11. pontjában meghatározott fogalom;
 
 l) külkereskedő: a haditechnikai termék exportőre és importőre;
 
 m) sorozatszám: azonos sorozatú alkotóelemekből, egy technológiai folyamatban gyártott termék azonosítója;
 
-n) tranzitország: a termék szállítása során a Htkr. 1. §-ának 13. pontja szerinti tranzitban érintett ország.
+n)[^8] tranzitország: a termék szállítása során a Htkr. 1. § 19. pontja szerinti tranzitban érintett ország;
+
+o)[^9] a termék gyártási dokumentációja: gyártási előírás, technológia, tervrajz.
+
+[^2]: A 2. § b) pontja a 27/2015. (X. 15.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § c) pontja a 27/2015. (X. 15.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § e) pontja a 27/2015. (X. 15.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § i) pontja a 27/2015. (X. 15.) NGM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^6]: A 2. § j) pontja a 27/2015. (X. 15.) NGM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § k) pontja a 27/2015. (X. 15.) NGM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^8]: A 2. § n) pontja a 27/2015. (X. 15.) NGM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^9]: A 2. § o) pontját a 27/2015. (X. 15.) NGM rendelet 2. § (5) bekezdése iktatta be.
