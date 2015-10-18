@@ -1,1 +1,0 @@
-## „8. végső kedvezményezett: az a kedvezményezett, amely vagy aki az e rendelet hatálya alá tartozó fejlesztéseket a számvitelről szóló törvény szerinti könyvviteli nyilvántartásába és rendeltetésszerűen használatba vette.”
