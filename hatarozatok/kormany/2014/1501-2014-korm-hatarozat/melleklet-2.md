@@ -10,7 +10,7 @@
 
 | 5. | KEOP-5.6.0/12-2013-0017 | Szépművészeti Múzeum | 223 600 000 |
 
-| 6. | KEOP-5.6.0/12-2013-0030 | Semmelweis Egyetem | 1 753 311 465 |
+| 6. | KEOP-5.6.0/12-2013-0030 | Semmelweis Egyetem | 4 712 327 465 |
 
 | 7. | KEOP-5.6.0/12-2013-0033 | Klebelsberg Intézményfenntartó Központ | 988 460 468 |
 
@@ -92,11 +92,11 @@
 
 | 46. | KEOP-5.6.0/12-2013-0047 | Hajdú-Bihar Megyei Kormányhivatal | 208 886 174 |
 
-| 47. | KEOP-5.6.0/12-2013-0048 | Hajdú-Bihar Megyei Kormányhivatal | 171 885 083 |
+| 47. | KEOP-5.6.0/12-2013-0048 | Hajdú-Bihar Megyei Kormányhivatal | 190 606 152 |
 
 | 48. | KEOP-5.6.0/12-2013-0049 | Békés Megyei Kormányhivatal | 611 258 862 |
 
-| 49. | KEOP-5.6.0/12-2014-0001 | Országos Onkológiai Intézet | 535 832 128 |
+| 49. | KEOP-5.6.0/12-2014-0001 | Országos Onkológiai Intézet | 5 011 077 628 |
 
 | 50. | KEOP-5.6.0/12-2014-0002 | Győr-Moson-Sopron Megyei Rendőr-főkapitányság | 338 000 000 |
 

@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1501-30
 | 2015-07-16 | 2014-1501-30-22.7 | 1537/2014. (IX. 23.) Korm. határozat |
 | 2015-09-05 | 2014-1501-30-22.8 | 1537/2014. (IX. 23.) Korm. határozat |
 | 2015-09-25 | 2014-1501-30-22.9 | 1537/2014. (IX. 23.) Korm. határozat |
+| 2015-10-19 | 2014-1501-30-22.10 | 1537/2014. (IX. 23.) Korm. határozat |
