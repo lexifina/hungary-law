@@ -16,7 +16,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1637/2015. (IX. 8.) Korm. határozathoz
+1. melléklet az 1637/2015. (IX. 8.) Korm. határozathoz[^2]
 
 1. Az operatív programok tartalmát érintő módosítások:
 
@@ -58,9 +58,9 @@ d) A 3.5.3 A halmozottan hátrányos helyzetű csoportok szociális ellátórend
 
 |  | 1. | Kód | Euró |
 
-|  | 2. | 01 | 3 445 878 050 |
+|  | 2. | 01 | 3 338 110 193 |
 
-|  | 3. | 02 | 19 017 857 |
+|  | 3. | 02 | 126 785 714 |
 
 |  | 4. | Összesen: | 3 464 895 907 |
 
@@ -99,3 +99,5 @@ Az operatív program TIOP 2. prioritási tengelye keretében az Európai Region�
 |  | Jósa András Tömbkórház Projekt | Nyíregyháza | 56 250 028 |
 
 | ” |
+
+[^2]: Az 1. melléklet az 1774/2015. (X. 19.) Korm. határozat szerint módosított szöveg.
