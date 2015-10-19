@@ -1,0 +1,9 @@
+# 42/2015. (IX. 18.) EMMI rendelet
+
+a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végezhető egészségügyi tevékenység engedélyezésére vonatkozó szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-42-20-5H
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-10-19 | 2015-42-20-5H.1 | 42/2015. (IX. 18.) EMMI rendelet |
