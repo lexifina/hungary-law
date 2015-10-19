@@ -20,6 +20,8 @@
 
 (10)[^10] Mentesül az 1. számú melléklet I. pont I.6. és I.7. alpontjában meghatározott díjfizetési kötelezettség alól az illetékekről szóló törvény alapján személyes illetékmentességre jogosult kérelmező, valamint a személyes illetékmentességre jogosult végfelhasználó részére történő beszerzést végző.
 
+(11)[^11] Az intézmény az 1. számú melléklet VI. pontja szerinti, hozzá befizetett díjból a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezése iránti eljárásban – a szakhatósági állásfoglalásért – a díjtételnek az 1. számú melléklet VI. pontjában meghatározott részét az Egészségügyi Tudományos Tanács részére átutalja az ÁEEK 10032000-01490576-00000000 számú számlájára.
+
 [^1]: Az 1. § a 23/2015. (IV. 28.) EMMI rendelet 8. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése az 5/2001. (II. 22.) EüM rendelet 2. §-ával megállapított és a 71/2004. (VIII. 11.) ESZCSM rendelet 4. § a) pontja, a 2/2009. (I. 30.) EüM rendelet 5. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 2/2009. (I. 30.) EüM rendelet 2. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
@@ -30,3 +32,4 @@
 [^8]: A 2. § (8) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 10. § b) pontja szerint módosított szöveg.
 [^9]: A 2. § (9) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 10. § c) pontja szerint módosított szöveg.
 [^10]: A 2. § (10) bekezdését a 29/2012. (IX. 25.) EMMI rendelet 1. §-a iktatta be.
+[^11]: A 2. § (11) bekezdését a 42/2015. (IX. 18.) EMMI rendelet 7. §-a iktatta be.

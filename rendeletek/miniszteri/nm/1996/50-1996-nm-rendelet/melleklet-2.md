@@ -56,6 +56,10 @@
 
 | V. | Gyógyszerrendeléshez szükséges számítógépes program minősítése | 252 100 Ft |
 
-2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^23]
+| VI. | A hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésével kapcsolatos igazgatási szolgáltatás |  |
 
-[^23]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
+| VI. 1. | A tevékenységi engedély kiadás | 168 000 Ft (ebből a szakhatósági eljárás díja: 84 000 Ft) |
+
+2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^24]
+
+[^24]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
