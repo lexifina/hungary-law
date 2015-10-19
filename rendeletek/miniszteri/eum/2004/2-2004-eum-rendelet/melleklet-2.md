@@ -528,6 +528,8 @@ b) szakképesítéssel végezhető tevékenységek:
 
 | 8046 | reflexzóna terápia |
 
+| 8056 | akupunktúra (hagyományos kínai gyógyászat területén legalább 5 éves képzést követően oklevéllel végezhető) |
+
 c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevékenységek:
 
 | 8017 | kiegészítő fizioterápiás módszerek |
@@ -610,4 +612,4 @@ h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egé
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^21]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^21]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a szerint módosított szöveg.
