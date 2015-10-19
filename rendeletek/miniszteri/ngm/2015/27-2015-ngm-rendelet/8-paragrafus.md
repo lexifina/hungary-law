@@ -1,1 +1,0 @@
-## „(4) A nyilvántartásra kötelezett gondoskodik a nyilvántartó lap évenkénti nyitásáról-zárásáról. A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) a nyilvántartásnak az általa hitelesített nyilvántartó lapokon történő vezetésére kötelezheti a vállalkozást, ha az a nyilvántartási kötelezettségét megszegi.”
