@@ -12,7 +12,7 @@
 
 ## A várószobának közforgalmú helyről megközelíthetőnek kell lennie. A rendelőhelyiségben biztosítani kell a megfelelő fűtést, világítást, valamint a hideg-meleg folyóvizes kézmosási lehetőséget.
 
-4. számú melléklet a 11/1997. (V. 28.) NM rendelethez[^24]
+4. számú melléklet a 11/1997. (V. 28.) NM rendelethez[^27]
 
 Természetgyógyászati tevékenységek szakmai
 
@@ -2058,7 +2058,7 @@ IV. A szakképesítés vizsgáztatási követelményei
 
 1. A szakmai vizsgára jelentkezés feltételei
 
-1.1.[^25] Iskolai végzettség:
+1.1.[^28] Iskolai végzettség:
 
 – felsőoktatási intézményben megszerzett oklevél az alábbi szakterületen: egészségügyi, pedagógiai, pszichológiai, szociális, népművelői, teológiai, agrártudományi.
 
@@ -3358,5 +3358,5 @@ A vizsgázók teljesítményének értékelése
 
 A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
-[^24]: A 4. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.
-[^25]: A 24/1998. (VI. 17.) NM rendelet 4. §-a kiegészítette.
+[^27]: A 4. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.
+[^28]: A 24/1998. (VI. 17.) NM rendelet 4. §-a kiegészítette.
