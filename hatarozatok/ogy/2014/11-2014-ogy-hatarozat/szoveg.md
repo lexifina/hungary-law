@@ -38,12 +38,13 @@ Hegedűs Lorántné (Jobbik)
 
 Mirkóczki Ádám (Jobbik)
 
-Schmuck Erzsébet (LMP)
+Ikotity István (LMP)[^4]
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^4]
+3.[^5]
 
 [^2]: A 22/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 28/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 42/2015. (X. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

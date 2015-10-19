@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-11-30-4
 | 2014-05-07 | 2014-11-30-41.2 | 2010: CXXX. törvény |
 | 2014-06-02 | 2014-11-30-41.3 | 22/2014. (VI. 3.) OGY határozat |
 | 2014-06-23 | 2014-11-30-41.4 | 28/2014. (VI. 26.) OGY határozat |
+| 2015-10-19 | 2014-11-30-41.5 | 42/2015. (X. 21.) OGY határozat |
