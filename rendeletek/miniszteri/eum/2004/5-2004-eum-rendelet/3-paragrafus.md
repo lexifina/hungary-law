@@ -10,9 +10,9 @@ c)[^9] az egészségügyi szolgáltató – a szolgáltató működési engedél
 
 d)[^10] a gyógyászati ellátást nyújtó szolgáltató megnevezését, és
 
-e)[^11] az 1. § (2) bekezdés b) pontja szerinti ellátás esetében azt az időpontot, amikortól a vényen rendelt gyógyászati ellátás igénybe vehető, ha az orvos a (6) bekezdés alapján egyszerre két kúrát rendel.
+e)[^11] az 1. § (2) bekezdés b) pontja szerinti ellátás esetében azt az időpontot, amikortól a vényen rendelt gyógyászati ellátás igénybe vehető, ha az orvos a (6) bekezdés alapján egyszerre két kúrát rendel,
 
-f)[^12]
+f)[^12] az 1. § (2) bekezdés b) pontja szerinti ellátás esetén a szakorvosi javaslatot adó orvos azonosítóját, a szakorvosi javaslat kiállításának dátumát, továbbá a szakorvosi javaslatot adó orvos által végzett ellátást azonosító naplósorszámot.
 
 (3) A kötelezően alkalmazandó közösségi szabály és a nemzetközi egyezmény hatálya alá tartozó betegek esetében a vényen az ország kódját, az ellátás alapjául szolgáló formanyomtatvány betű- és számjelét, a beteg külföldi biztosítási/azonosító számát is fel kell tüntetni.
 
@@ -30,6 +30,6 @@ f)[^12]
 [^9]: A 3. § (2) bekezdés c) pontja a 10/2011. (III. 30.) NEFMI rendelet 48. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 3. § (2) bekezdés d) pontját a 38/2009. (XI. 6.) EüM rendelet 1. § (2) bekezdése hatályon kívül helyezte, újonnan a 41/2014. (VI. 30.) EMMI rendelet 2. § (1) bekezdése iktatta be.
 [^11]: A 3. § (2) bekezdés e) pontját a 38/2009. (XI. 6.) EüM rendelet 1. § (2) bekezdése hatályon kívül helyezte, újonnan a 41/2014. (VI. 30.) EMMI rendelet 2. § (1) bekezdése iktatta be.
-[^12]: A 3. § (2) bekezdés f) pontját a 41/2014. (VI. 30.) EMMI rendelet 5. §-a hatályon kívül helyezte.
+[^12]: A 3. § (2) bekezdés f) pontját a 41/2014. (VI. 30.) EMMI rendelet 5. §-a hatályon kívül helyezte, újonnan a 47/2015. (X. 19.) EMMI rendelet 3. §-a iktatta be.
 [^13]: A 3. § (3a) bekezdését a 41/2014. (VI. 30.) EMMI rendelet 2. § (2) bekezdése iktatta be.
 [^14]: A 3. § (6) bekezdését a 41/2014. (VI. 30.) EMMI rendelet 2. § (3) bekezdése iktatta be.

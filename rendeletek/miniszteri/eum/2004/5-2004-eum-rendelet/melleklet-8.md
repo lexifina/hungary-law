@@ -104,7 +104,7 @@
 
 ## 9. angiológiai vagy diabetológiai szakellátóhely belgyógyászat szakképesítéssel rendelkező szakorvosa.
 
-8. melléklet a 5/2004. (XI. 19.) EüM rendelethez[^58]
+8. melléklet a 5/2004. (XI. 19.) EüM rendelethez[^59]
 
 ## A) Fürdőgyógyászati ellátások
 
@@ -186,4 +186,4 @@ C) Egyéb természetes gyógytényezőn alapuló gyógyászati ellátás
 
 |  | Szén-dioxid gyógygázfürdő | 1200 | 85 | 1020 |
 
-[^58]: A 8. mellékletet a 7/2012. (VI. 29.) EMMI rendelet 5. § (2) bekezdése iktatta be.
+[^59]: A 8. mellékletet a 7/2012. (VI. 29.) EMMI rendelet 5. § (2) bekezdése iktatta be.

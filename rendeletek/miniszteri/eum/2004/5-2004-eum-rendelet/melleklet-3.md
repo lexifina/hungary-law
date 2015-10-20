@@ -1,3 +1,3 @@
-3. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^47]
+3. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^48]
 
-[^47]: A 3. számú melléklet a 27/2011. (V. 31.) NEFMI rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^48]: A 3. számú melléklet a 27/2011. (V. 31.) NEFMI rendelet 10. § (3) bekezdésével megállapított szöveg.

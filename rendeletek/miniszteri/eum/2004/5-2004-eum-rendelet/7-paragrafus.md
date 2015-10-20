@@ -2,9 +2,9 @@
 
 7. § (1) A betegség jellegétől függetlenül naptári évenként összesen két kúra vehető igénybe.
 
-(2)[^19] Az egyik naptári évről a következő naptári évre áthúzódó kúrát az (1) bekezdés alkalmazásában abba a naptári évbe tartozó kúrának kell tekinteni, amelyik évben a kúra igénybevétele megkezdődött.
+(2)[^21] Az egyik naptári évről a következő naptári évre áthúzódó kúrát az (1) bekezdés alkalmazásában abba a naptári évbe tartozó kúrának kell tekinteni, amelyik évben a kúra igénybevétele megkezdődött.
 
-(3)[^20] A kúra keretén belül az 1. § (2) bekezdés a) pont aa)–ah) alpontja szerinti gyógyászati ellátások kombináltan is, míg az 1. § (2) bekezdés a) pont ai) alpontja és b)–c) pontja szerinti ellátások kizárólag önállóan rendelhetők.
+(3)[^22] A kúra keretén belül az 1. § (2) bekezdés a) pont aa)–ah) alpontja szerinti gyógyászati ellátások kombináltan is, míg az 1. § (2) bekezdés a) pont ai) alpontja és b)–c) pontja szerinti ellátások kizárólag önállóan rendelhetők.
 
-[^19]: A 7. § új (2) bekezdését a 27/2005. (VII. 18.) EüM rendelet 3. §-a iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatta.
-[^20]: A 7. § eredeti (2) bekezdésének számozását a 27/2005. (VII. 18.) EüM rendelet 3. §-a (3) bekezdésre változtatta, szövege a 27/2011. (V. 31.) NEFMI rendelet 4. §-ával megállapított szöveg.
+[^21]: A 7. § új (2) bekezdését a 27/2005. (VII. 18.) EüM rendelet 3. §-a iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatta.
+[^22]: A 7. § eredeti (2) bekezdésének számozását a 27/2005. (VII. 18.) EüM rendelet 3. §-a (3) bekezdésre változtatta, szövege a 27/2011. (V. 31.) NEFMI rendelet 4. §-ával megállapított szöveg.

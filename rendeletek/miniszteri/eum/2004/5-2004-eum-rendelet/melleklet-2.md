@@ -28,7 +28,7 @@
 
 ## A társadalombiztosítás által támogatott gyógyászati ellátások nyújtásának szakmai követelményei
 
-01.[^40] Gyógyvizes gyógymedence
+01.[^41] Gyógyvizes gyógymedence
 
 A gyógyvizes gyógymedence igénybevétele csak azon szolgáltatóknál lehetséges, ahol több különböző hőfokú medence áll rendelkezésre, és amelyek közül legalább egy indifferens hőmérsékletű (35 Celsius-fok) gyógyvizes kell hogy legyen.
 
@@ -42,7 +42,7 @@ Kádfürdőkezelést csak fürdősmasszőr, gyógymasszőr vagy fizioterápiás 
 
 A kezelési idő pontos betartása érdekében – jól látható helyen – órát kell felszerelni.
 
-03.[^41] Iszappakolás
+03.[^42] Iszappakolás
 
 Iszappakolást csak fürdősmasszőr, gyógymasszőr vagy fizioterápiás asszisztensi képesítéssel rendelkező végezhet. Nőbeteget csak nő, férfi beteget csak férfi kezelhet.
 
@@ -74,7 +74,7 @@ Ha a felíró orvos a teljes testfelület iszappakolását rendeli el, úgy ezt 
 
 Orvosi előírás esetén a szív és a fej hűtésének a lehetőségét biztosítani kell.
 
-04.[^42] Súlyfürdő
+04.[^43] Súlyfürdő
 
 Súlyfürdőkezelést csak fürdősmasszőr, gyógymasszőr vagy fizioterápiás asszisztensi képesítéssel rendelkező végezhet.
 
@@ -128,7 +128,7 @@ Ellenjavallatok:
 
 Ha a fentiek közül bármelyiket is tapasztalja az orvosi gyógymasszőr, úgy erről a fürdő szakorvosát tájékoztatnia kell, akinek az állásfoglalása a mérvadó a kezelés elvégzéséhez.
 
-07.[^43] Víz alatti vízsugármasszázs
+07.[^44] Víz alatti vízsugármasszázs
 
 A víz alatti vízsugármasszázst fürdősmasszőr, gyógymasszőr vagy fizioterápiás asszisztensi képesítéssel rendelkező végezheti.
 
@@ -148,7 +148,7 @@ A medence vízmélysége minimálisan 120 cm kell hogy legyen.
 
 A medence belső oldalán a vízszint felett kapaszkodó korlátokat kell felszerelni.
 
-09.[^44] Komplex fürdőgyógyászati ellátás
+09.[^45] Komplex fürdőgyógyászati ellátás
 
 Komplex fürdőgyógyászati ellátást társadalombiztosítási támogatással csak olyan gyógyfürdő szolgálhat ki, amely rendelkezik gyógyvizes gyógymedencével, valamint a reumatológus, fizioterápiás, rehabilitációs vagy fizikális medicina és rehabilitációs orvoslás szakvizsgával rendelkező szakorvos által végzett ellátást folyamatosan, de legalább napi hat órában biztosítja.
 
@@ -164,7 +164,7 @@ Amennyiben a napi kezelési ciklus alatt olyan heveny megbetegedés lép fel, am
 
 A beteg keresőképtelen állományba vétele – a kúra időtartamára – az erre vonatkozó hatályos jogszabályok alapján történik.
 
-10.[^45] 18 éves kor alatti csoportos gyógyúszás
+10.[^46] 18 éves kor alatti csoportos gyógyúszás
 
 A csoportos gyógyúszás foglalkozást vezető szakember:
 
@@ -208,7 +208,7 @@ Középhaladó és haladó gyógyúszó gyermekek oktatásához és gyakorlásá
 
 A gyógyúszás foglalkozás teljes ideje alatt a foglalkozást vezető szakembernek a medencetérben kell tartózkodnia.
 
-11.[^46] Szén-dioxid gyógygázfürdő
+11.[^47] Szén-dioxid gyógygázfürdő
 
 A kezelés teljes időtartama alatt a természetes szárazfürdő helyiségeiben a szén-dioxid koncentrációt folyamatosan mérni és az eredményeket rögzíteni kell.
 
@@ -240,10 +240,10 @@ A kezelés a természetes szárazfürdő kezelőhelyiségében felöltözve, ül
 
 Az első kezelés időtartama 15 perc, a további kezelések időtartamát a 3. számú melléklet határozza meg.
 
-[^40]: A 2. számú melléklet 01. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
-[^41]: A 2. számú melléklet 03. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
-[^42]: A 2. számú melléklet 04. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
-[^43]: A 2. számú melléklet 07. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
-[^44]: A 2. számú melléklet 09. pontja a 27/2005. (VII. 18.) EüM rendelet 5. §-ának (1) bekezdése, a 3/2015. (I. 14.) EMMI rendelet 1. §-a szerint módosított szöveg.
-[^45]: A 2. számú melléklet 10. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-ának (2) bekezdése, valamint (3) bekezdésének b) pontja szerint módosított szöveg.
-[^46]: A 2. számú melléklet 11. pontját a 27/2011. (V. 31.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
+[^41]: A 2. számú melléklet 01. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
+[^42]: A 2. számú melléklet 03. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
+[^43]: A 2. számú melléklet 04. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
+[^44]: A 2. számú melléklet 07. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
+[^45]: A 2. számú melléklet 09. pontja a 27/2005. (VII. 18.) EüM rendelet 5. §-ának (1) bekezdése, a 3/2015. (I. 14.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^46]: A 2. számú melléklet 10. pontja a 27/2005. (VII. 18.) EüM rendelet 6. §-ának (2) bekezdése, valamint (3) bekezdésének b) pontja szerint módosított szöveg.
+[^47]: A 2. számú melléklet 11. pontját a 27/2011. (V. 31.) NEFMI rendelet 10. § (2) bekezdése iktatta be.
