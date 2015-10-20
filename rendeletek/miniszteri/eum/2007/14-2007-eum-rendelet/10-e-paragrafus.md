@@ -1,6 +1,4 @@
-## 10/D. §[^99] A 10/A. § (2)–(3) bekezdésében, a 10/B. §-ban, valamint a 10/C. §-ban foglaltaktól eltérően az OEP „Minősített egyedi gyártó” értékeléssel látja el és a szállítójegyzékébe felveszi a rendelésre készített eszköz gyártóját, ha az R. szerinti rendelésre készült eszközökre vonatkozó nyilatkozatában foglaltakat, valamint a 16. számú mellékletben meghatározott követelmények teljesítését az ENKK megvizsgálja, és a megfelelőségről határozott időre – legfeljebb 5 évre – szóló határozatban dönt. A határozat kiállítása során az ENKK figyelembe veszi a rendelésre készült eszköz gyártására vonatkozó akkreditált minőségtanúsítás dokumentumait.
-
-10/E. §[^100] (1) A szállítójegyzék minden minősített forgalomba hozóra vonatkozóan tartalmazza a forgalomba hozó
+10/E. §[^103] (1) A szállítójegyzék minden minősített forgalomba hozóra vonatkozóan tartalmazza a forgalomba hozó
 
 a) nevét, székhelyének címét, telefonos és elektronikus elérhetőségét,
 
@@ -42,5 +40,4 @@ d) a minősített forgalomba hozó tulajdonosát vagy vezető tisztségviselőj�
 
 (6) A szállítójegyzékből való törlés napja a határozathozatalt követő 30. nap. A szállítójegyzéket az OEP elektronikus formában vezeti és honlapján folyamatosan hozzáférhetővé teszi.
 
-[^99]: A 10/D. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja szerint módosított szöveg.
-[^100]: A 10/E. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^103]: A 10/E. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.

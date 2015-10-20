@@ -82,37 +82,43 @@ z)[^28] ha rendelkezésre áll, az 1–4. számú melléklet esetén az 1–4. s
 
 zs)[^29] az eszközre vonatkozó publikációk jegyzékét, és az eszközre vonatkozó egyéb hazai vagy külföldi referenciákat.
 
-(5)[^30] A kérelmező a nem kizárólag elektronikus kapcsolattartás útján benyújtott kérelmében nyilatkozik a kérelemben foglaltak és a CD-n becsatolt adatok azonosságáról és hitelességéről.
+(4a)[^30] Az (1) bekezdés e) pontja szerinti kérelemhez – a (4) bekezdésben foglaltakon túl – csatolni kell:
 
-(6)[^31] A kérelemhez csatolni kell az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) vagy a külön jogszabály szerint kijelölt szerv
+a) a képviselt gyártók gyógyászati segédeszköz gyártására való alkalmasságát igazoló, az ENKK által kiállított – a 10/D. § (2) bekezdése szerinti – határozatot, vagy
 
-a)[^32] igazolását a Gtv. 32. § (2) bekezdés a) pont aa)–ab) alpontja és – az egyedi méretvétel alapján készült gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére irányuló kérelem kivételével – b) pont bf) alpontja szerinti kérelem esetén,
+b) a képviselt gyártók tekintetében a gyártói minőségirányítási rendszer tanúsítását igazoló – a 10/D. § (3) bekezdése szerinti – dokumentumot.
+
+(5)[^31] A kérelmező a nem kizárólag elektronikus kapcsolattartás útján benyújtott kérelmében nyilatkozik a kérelemben foglaltak és a CD-n becsatolt adatok azonosságáról és hitelességéről.
+
+(6)[^32] A kérelemhez csatolni kell az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) vagy a külön jogszabály szerint kijelölt szerv
+
+a)[^33] igazolását a Gtv. 32. § (2) bekezdés a) pont aa)–ab) alpontja és – az egyedi méretvétel alapján készült gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére irányuló kérelem kivételével – b) pont bf) alpontja szerinti kérelem esetén,
 
 aa) a minőségtanúsítás hitelességéről, az eszköz használati útmutatójában megadott célra való alkalmasságról, valamint az ISO kód meghatározásáról 6 ISO karakterig,
 
 ab) javaslatot a funkcionális csoportba sorolásról; továbbá
 
-b)[^33] igazolását a Gtv. 32. § (2) bekezdés b) pont bd) alpontja szerinti kérelem esetén az eszköz eredetivel való azonosságáról;
+b)[^34] igazolását a Gtv. 32. § (2) bekezdés b) pont bd) alpontja szerinti kérelem esetén az eszköz eredetivel való azonosságáról;
 
-c)[^34] igazolását a Gtv. 32. § (2) bekezdés b) pont bh) alpontja szerinti kérelem esetén a méretre vonatkozó adatokon kívüli paraméterekben való azonosságról.
+c)[^35] igazolását a Gtv. 32. § (2) bekezdés b) pont bh) alpontja szerinti kérelem esetén a méretre vonatkozó adatokon kívüli paraméterekben való azonosságról.
 
-(7)[^35] A (4) bekezdés kc) alpontja szerinti esetben a támogatási kérelem benyújtásakor meg kell nevezni az adott szakszervizt.
+(7)[^36] A (4) bekezdés kc) alpontja szerinti esetben a támogatási kérelem benyújtásakor meg kell nevezni az adott szakszervizt.
 
 (8) A funkcionális csoportokat a kérelemben az MSZ EN ISO 9999–2003. figyelembevételével kell meghatározni.
 
-(9)[^36] E § szerinti kérelem egy gyógyászati segédeszközre vonatkozik, kivéve a méretváltoztatásra vagy új méretváltozatra irányuló kérelmet, valamint a 7. számú mellékletben foglalt eszközöket. A 7. számú mellékletben foglalt 2., 7., 8., 9. és 10. sorszámú csoportba sorolt gyógyászati segédeszközök esetén a kérelem az adott sorszámú csoportba tartozó valamennyi gyógyászati segédeszközre és azok tartozékaira vonatkozik. A 7. számú mellékletben foglalt 1., 3., 4., 5., 6. és 11–20. sorszámú csoportba sorolt gyógyászati segédeszközök esetén egy kérelem egy gyógyászati segédeszközre és annak tartozékára vonatkozik.
+(9)[^37] E § szerinti kérelem egy gyógyászati segédeszközre vonatkozik, kivéve a méretváltoztatásra vagy új méretváltozatra irányuló kérelmet, valamint a 7. számú mellékletben foglalt eszközöket. A 7. számú mellékletben foglalt 2., 7., 8., 9. és 10. sorszámú csoportba sorolt gyógyászati segédeszközök esetén a kérelem az adott sorszámú csoportba tartozó valamennyi gyógyászati segédeszközre és azok tartozékaira vonatkozik. A 7. számú mellékletben foglalt 1., 3., 4., 5., 6. és 11–20. sorszámú csoportba sorolt gyógyászati segédeszközök esetén egy kérelem egy gyógyászati segédeszközre és annak tartozékára vonatkozik.
 
-(10)[^37]
+(10)[^38]
 
-(11)[^38] A Gtv. 32. § (2) bekezdés b) pont
+(11)[^39] A Gtv. 32. § (2) bekezdés b) pont
 
 a) be) alpontja szerinti kérelem esetén a kérelemhez csatolni kell a (4) bekezdés l)–o) pont alatti dokumentumokat, az árcsökkentésre kérelmezett eszköz nevét és 13–15 jegyű ISO kódját, a kérelmezés idején érvényes és a kérelem szerinti termelői, importbeszerzési árát,
 
 b) bg) alpontja szerinti kérelem esetén a kérelemhez csatolni kell a (4) bekezdés l)–o) pont alatti dokumentumokat, a törlésre kérelmezett eszköz nevét és 13–15 jegyű ISO kódját és a törlés rövid indoklását.
 
-(12)[^39] Amennyiben a használati útmutatóban a befogadást követően változás következik be, a módosított útmutatót a módosítás pontos megjelölésével az érintett gyógyászati segédeszköz gyártója vagy annak meghatalmazott képviselője az OEP-nek benyújtja.
+(12)[^40] Amennyiben a használati útmutatóban a befogadást követően változás következik be, a módosított útmutatót a módosítás pontos megjelölésével az érintett gyógyászati segédeszköz gyártója vagy annak meghatalmazott képviselője az OEP-nek benyújtja.
 
-(13)[^40] Ha az ügyfél nem csatolja a (4) bekezdés i), illetve m) pontja szerinti dokumentumokat, az OEP a kérelem elbírálása érdekében adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz. Ha az ügyfél cégjegyzékben nyilvántartott cég, az OEP a cégkivonatot, valamint – ha az ügyfél a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza – az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(13)[^41] Ha az ügyfél nem csatolja a (4) bekezdés i), illetve m) pontja szerinti dokumentumokat, az OEP a kérelem elbírálása érdekében adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz. Ha az ügyfél cégjegyzékben nyilvántartott cég, az OEP a cégkivonatot, valamint – ha az ügyfél a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza – az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 [^8]: A 2. § (1) bekezdése a 38/2009. (XI. 6.) EüM rendelet 4. § (1) bekezdésével megállapított, a 34/2010. (V. 14.) EüM rendelet 13. § 1. pontja szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdését a 38/2009. (XI. 6.) EüM rendelet 4. § (6) bekezdése hatályon kívül helyezte.
@@ -136,14 +142,15 @@ b) bg) alpontja szerinti kérelem esetén a kérelemhez csatolni kell a (4) beke
 [^27]: A 2. § (4) bekezdés y) pontját a 34/2010. (V. 14.) EüM rendelet 2. § (4) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 84. § b) pontja szerint módosított szöveg.
 [^28]: A 2. § (4) bekezdés z) pontját a 34/2010. (V. 14.) EüM rendelet 2. § (4) bekezdése iktatta be.
 [^29]: A 2. § (4) bekezdés zs) pontját a 34/2010. (V. 14.) EüM rendelet 2. § (4) bekezdése iktatta be.
-[^30]: A 2. § (5) bekezdése a 38/2009. (XI. 6.) EüM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^31]: A 2. § (6) bekezdés nyitó az 56/2008. (XII. 31.) EüM rendelet 2. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § c) pontja szerint módosított szöveg.
-[^32]: A 2. § (6) bekezdésének a) pontja az 50/2007. (XI. 29.) EüM rendelet 1. § (1) bekezdésével megállapított, a 34/2010. (V. 14.) EüM rendelet 13. § 5. pontja szerint módosított szöveg.
-[^33]: A 2. § (6) bekezdés b) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 6. pontja szerint módosított szöveg.
-[^34]: A 2. § (6) bekezdés c) pontja a 34/2010. (V. 14.) EüM rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^35]: A 2. § (7) bekezdése a 38/2009. (XI. 6.) EüM rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^36]: A 2. § (9) bekezdése az 53/2013. (VII. 19.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^37]: A 2. § új (10) bekezdését az 50/2007. (XI. 29.) EüM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10)–(11) bekezdés számozását (11)–(12) bekezdésre változtatva. A 2. § (10) bekezdését az 56/2008. (XII. 31.) EüM rendelet 23. § (12) bekezdése hatályon kívül helyezte.
-[^38]: A 2. § eredeti (10) bekezdésének számozását az 50/2007. (XI. 29.) EüM rendelet 1. § (2) bekezdése (11) bekezdésre változtatta, szövege a 34/2010. (V. 14.) EüM rendelet 13. § 7. pontja szerint módosított szöveg.
-[^39]: A 2. § eredeti (11) bekezdésének számozását az 50/2007. (XI. 29.) EüM rendelet 1. § (2) bekezdése (12) bekezdésre változtatta.
-[^40]: A 2. § (13) bekezdését a 38/2009. (XI. 6.) EüM rendelet 4. § (3) bekezdése iktatta be, szövege az 53/2013. (VII. 19.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^30]: A 2. § (4a) bekezdését a 47/2015. (X. 19.) EMMI rendelet 23. §-a iktatta be.
+[^31]: A 2. § (5) bekezdése a 38/2009. (XI. 6.) EüM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^32]: A 2. § (6) bekezdés nyitó az 56/2008. (XII. 31.) EüM rendelet 2. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § c) pontja szerint módosított szöveg.
+[^33]: A 2. § (6) bekezdésének a) pontja az 50/2007. (XI. 29.) EüM rendelet 1. § (1) bekezdésével megállapított, a 34/2010. (V. 14.) EüM rendelet 13. § 5. pontja szerint módosított szöveg.
+[^34]: A 2. § (6) bekezdés b) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 6. pontja szerint módosított szöveg.
+[^35]: A 2. § (6) bekezdés c) pontja a 34/2010. (V. 14.) EüM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^36]: A 2. § (7) bekezdése a 38/2009. (XI. 6.) EüM rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^37]: A 2. § (9) bekezdése az 53/2013. (VII. 19.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^38]: A 2. § új (10) bekezdését az 50/2007. (XI. 29.) EüM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10)–(11) bekezdés számozását (11)–(12) bekezdésre változtatva. A 2. § (10) bekezdését az 56/2008. (XII. 31.) EüM rendelet 23. § (12) bekezdése hatályon kívül helyezte.
+[^39]: A 2. § eredeti (10) bekezdésének számozását az 50/2007. (XI. 29.) EüM rendelet 1. § (2) bekezdése (11) bekezdésre változtatta, szövege a 34/2010. (V. 14.) EüM rendelet 13. § 7. pontja szerint módosított szöveg.
+[^40]: A 2. § eredeti (11) bekezdésének számozását az 50/2007. (XI. 29.) EüM rendelet 1. § (2) bekezdése (12) bekezdésre változtatta.
+[^41]: A 2. § (13) bekezdését a 38/2009. (XI. 6.) EüM rendelet 4. § (3) bekezdése iktatta be, szövege az 53/2013. (VII. 19.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.

@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-14-20-0
 | 2014-01-26 | 2007-14-20-0B.37 | 3/2014. (I. 16.) EMMI rendelet |
 | 2015-02-01 | 2007-14-20-0B.38 | 34/2010. (V. 14.) EüM rendelet |
 | 2015-04-29 | 2007-14-20-0B.39 | 34/2010. (V. 14.) EüM rendelet |
+| 2015-10-20 | 2007-14-20-0B.40 | 47/2015. (X. 19.) EMMI rendelet |

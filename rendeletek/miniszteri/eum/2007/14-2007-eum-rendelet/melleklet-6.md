@@ -1,4 +1,4 @@
-## Az orvostechnikai eszközökről szóló miniszteri rendelet (R.) 4. § (1) bekezdés 2. pontjában meghatározott, 13. § (8) bekezdése és 8. melléklete szerint az ENKK erre vonatkozó hatósági bizonyítványával rendelkező gyártó által készített eszközök (rendelésre készült orvostechnikai eszköz) státusú gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásához szükséges kérelem adattartalma
+## Az orvostechnikai eszközökről szóló miniszteri rendelet (R.) 4. § (1) bekezdés 2. pontjában meghatározott, 13. § (8) bekezdése és 8. melléklete szerint egyedi méretvétel alapján készített gyógyászati segédeszközök (rendelésre készült orvostechnikai eszköz) társadalombiztosítási támogatásba történő befogadásához szükséges kérelem adattartalma
 
 ## 1. A Gtv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának csökkentésére (ez esetben a kérelem 5-9. pontját nem kell kitölteni)]
 
@@ -32,15 +32,9 @@
 
 ## 3.3. A képviselt gyártók mely szakmai/érdekvédelmi szervezetnek, ipartestületnek tagjai, azonosító száma
 
-## 3.4. A képviselt gyártók gyógyászati segédeszköz gyártására való alkalmasságát igazoló, ENKK által kiállított hatósági bizonyítvány száma, kiadásának dátuma, érvényességi ideje
+## 3.4.
 
-## 3.5. Nyilatkozat arra vonatkozóan, hogy rendelkeznek-e a képviselt gyártók kijelölt vagy akkreditált tanúsító szervezet által tanúsított minőségirányítási rendszerrel. Ha igen:
-
-## 3.5.1. A tanúsítvány száma, érvényessége
-
-## 3.5.2. A tanúsított tevékenység
-
-## 3.5.3. Milyen szabvány/előírás alapján van tanúsítva
+## 3.5.
 
 ## 4. Az eszköz azonosító adatai
 
