@@ -1,3 +1,0 @@
-## 7. § A népjóléti ágazatba tartozó egyes államigazgatási eljárásokért és igazgatási jellegű szolgáltatásokért fizetendő díjakról szóló 50/1996. (XII. 27.) NM rendelet (a továbbiakban: R1.) 2. §-a a következő (11) bekezdéssel egészül ki:
-
-## „(11) Az intézmény az 1. számú melléklet VI. pontja szerinti, hozzá befizetett díjból a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezése iránti eljárásban – a szakhatósági állásfoglalásért – a díjtételnek az 1. számú melléklet VI. pontjában meghatározott részét az Egészségügyi Tudományos Tanács részére átutalja az ÁEEK 10032000-01490576-00000000 számú számlájára.”
