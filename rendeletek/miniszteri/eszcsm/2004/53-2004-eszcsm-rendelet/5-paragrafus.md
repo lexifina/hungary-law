@@ -6,9 +6,9 @@ a) a forgalmazni kívánt gyógyszercsoport vagy gyógyszercsoportok 1. számú 
 
 b)[^31] a székhely, a telephely vagy telephelyek címét, pontosan megnevezve a létesítményeket, ahol a kérelmező a nagykereskedelmi tevékenységet folytatni kívánja;
 
-c)[^32] a beérkezett gyógyszerek minőségértékelését és felszabadítását végző felelős személy – több telephely esetén személyek – nevét;
+c)[^32] a beérkezett gyógyszerek minőségértékelését és eladható készletbe helyezését végző felelős személy – több telephely esetén személyek – nevét;
 
-d)[^33] a beérkezett gyógyszerek minőségértékelését és felszabadítását végző felelős személy szakképesítését igazoló oklevél másolatát, munkaköri leírását, szakmai gyakorlatának igazolását;
+d)[^33] a beérkezett gyógyszerek minőségértékelését és eladható készletbe helyezését végző felelős személy szakképesítését igazoló oklevél másolatát, munkaköri leírását, szakmai gyakorlatának igazolását;
 
 e) a kapcsolattartó személy nevét és elérhetőségét;
 
@@ -43,8 +43,8 @@ j) a nagykereskedelmi tevékenységre vonatkozó felelősségbiztosítási szerz
 [^29]: A 4. § a 41/2011. (VII. 5.) NEFMI rendelet 6. §-ával megállapított szöveg.
 [^30]: Az 5. § (1) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 7. §-ával megállapított, nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 64. § c) pontja szerint módosított szöveg.
 [^31]: Az 5. § (1) bekezdés b) pontja az 52/2012. (XII. 27.) EMMI rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^32]: Az 5. § (1) bekezdés c) pontja a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
-[^33]: Az 5. § (1) bekezdés d) pontja a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^32]: Az 5. § (1) bekezdés c) pontja a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja, a 47/2015. (X. 19.) EMMI rendelet 15. § b) pontja szerint módosított szöveg.
+[^33]: Az 5. § (1) bekezdés d) pontja a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja, a 47/2015. (X. 19.) EMMI rendelet 15. § b) pontja szerint módosított szöveg.
 [^34]: Az 5. § (2) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan az 53/2012. (XII. 28.) EMMI rendelet 2. § (1) bekezdése iktatta be.
 [^35]: Az 5. § (3) bekezdését a 10/2009. (IV. 10.) EüM rendelet 11. § (7) bekezdése hatályon kívül helyezte, újonnan a 38/2009. (XI. 6.) EüM rendelet 5. § (1) bekezdése iktatta be, szövege az 52/2012. (XII. 27.) EMMI rendelet 15. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § d) pontja szerint módosított szöveg.
 [^36]: Az 5. § (4) bekezdését a 10/2009. (IV. 10.) EüM rendelet 11. § (7) bekezdése hatályon kívül helyezte, újonnan az 53/2012. (XII. 28.) EMMI rendelet 2. § (2) bekezdése iktatta be.

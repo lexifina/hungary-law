@@ -2,15 +2,15 @@
 
 (2) E rendelet alkalmazásában
 
-a)[^4] felszabadítás: a beérkezett gyógyszer nagykereskedelmi felszabadítása, azaz az a tevékenység, amely során a raktárba beérkezett gyógyszer minőségét gyógyszer gyártási engedéllyel rendelkező szervezet minőségbiztosítás érdekében meghatalmazott személye által kibocsátott felszabadítási – gyógyszeranyag esetén minőségi – bizonylat és a szállítási lánc megfelelőségét igazoló dokumentumok alapján az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által kiadott gyógyszer-nagykereskedelmi tevékenység folytatására jogosító engedély jogosultjának (a továbbiakban: nagykereskedő) minőségbiztosításért felelős személye (a továbbiakban: felelős személy) értékelte és megállapította, hogy a termék
+a)[^4] eladható készletbe helyezés: a beérkezett gyógyszer nagykereskedelmi eladható készletbe helyezése, azaz az a tevékenység, amely során a raktárba beérkezett gyógyszer minőségét gyógyszer gyártási engedéllyel rendelkező szervezet minőségbiztosítás érdekében meghatalmazott személye által kibocsátott eladható készletbe helyezési – gyógyszeranyag esetén minőségi – bizonylat és a szállítási lánc megfelelőségét igazoló dokumentumok alapján az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által kiadott gyógyszer-nagykereskedelmi tevékenység folytatására jogosító engedély jogosultjának (a továbbiakban: nagykereskedő) minőségbiztosításért felelős személye (a továbbiakban: felelős személy) értékelte és megállapította, hogy a termék
 
-aa) az előírt minőségnek és az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet értelmében vagy
+aa) az előírt minőségnek és az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló, 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet értelmében vagy
 
-ab)[^5] valamely tagállam hatáskörrel és illetékességgel rendelkező hatósága által kiadott forgalomba hozatali engedélynek, a nem EGT tagállamból történő behozatal esetén a származási ország jogszabályainak
+ab) valamely tagállam hatáskörrel és illetékességgel rendelkező hatósága által kiadott forgalomba hozatali engedélynek, a nem EGT tagállamból történő behozatal esetén a származási ország jogszabályainak
 
 megfelel;
 
-b) karantén: a beérkezett, felszabadításra még nem került gyógyszernek a többitől elkülönített tárolása, amely fizikai elválasztást, megkülönböztető jelzéssel, dokumentációval vagy más – megkülönböztetésre alkalmas – módon elkülönítetten végzett tárolást jelent;
+b)[^5] karantén: a beérkezett, eladható készletbe helyezésre még nem került gyógyszernek a többitől elkülönített tárolása, amely fizikai elválasztást, megkülönböztető jelzéssel, dokumentációval vagy más – megkülönböztetésre alkalmas – módon elkülönítetten végzett tárolást jelent;
 
 c) raktározás: a gyógyszerek szakmai előírásoknak megfelelő eltartása és kezelése azok beérkezésétől a kiadásig;
 
@@ -30,7 +30,7 @@ j)[^12] párhuzamos import engedély: az OGYÉI által a párhuzamos importtal b
 
 k)[^13] átcsomagolás: minden olyan művelet, amely a gyógyszer elsődleges csomagolását megtartva az eredeti kiszerelés, címkeszöveg, illetve betegtájékoztató megváltoztatását eredményezi abból a célból, hogy azok megfeleljenek a Magyarországon hatályos forgalomba hozatali engedélynek;
 
-l)[^14] felszabadítási bizonylat: a felelős személy aláírásával, bélyegzőjének lenyomatával és keltezéssel ellátott igazolása arról, hogy a gyógyszer a forgalomba hozatali engedélyben előírt gyógyszerminőségnek megfelel;
+l)[^14] eladható készletbe helyezési bizonylat: a felelős személy aláírásával, bélyegzőjének lenyomatával és keltezéssel ellátott igazolása arról, hogy a gyógyszer a forgalomba hozatali engedélyben előírt gyógyszerminőségnek megfelel;
 
 m)[^15] helyes forgalmazási gyakorlat (GDP): a nagykereskedelmi tevékenység folytatása során irányadó nemzetközi szabályrendszer;
 
@@ -41,8 +41,8 @@ o)[^17] meghatalmazott személy: a gyógyszerek minőségbiztosítása érdekéb
 p)[^18] felelős személy: a gyógyszerek minőségbiztosítása érdekében meghatalmazott személy képesítési feltételeiről szóló rendeletben meghatározott személy.
 
 [^3]: A 2. § (1) bekezdése a 10/2009. (IV. 10.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (2) bekezdés a) pontja az 52/2012. (XII. 27.) EMMI rendelet 13. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdés a) pont ab) alpontja a 3/2014. (I. 16.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdés a) pontja a 47/2015. (X. 19.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdés b) pontja a 47/2015. (X. 19.) EMMI rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (2) bekezdés d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított, a 10/2012. (VII. 19.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés e) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § (2) bekezdés f) pontját az 53/2012. (XII. 28.) EMMI rendelet 10. § a) pontja hatályon kívül helyezte.
@@ -51,7 +51,7 @@ p)[^18] felelős személy: a gyógyszerek minőségbiztosítása érdekében meg
 [^11]: A 2. § (2) bekezdés i) pontját a 41/2011. (VII. 5.) NEFMI rendelet 17. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^12]: A 2. § (2) bekezdés j) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (4) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
 [^13]: A 2. § (2) bekezdés k) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (4) bekezdésével megállapított, a 3/2014. (I. 16.) EMMI rendelet 15. § a) pontja szerint módosított szöveg.
-[^14]: A 2. § (2) bekezdés l) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (4) bekezdésével megállapított, a 10/2012. (VII. 19.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
+[^14]: A 2. § (2) bekezdés l) pontja a 47/2015. (X. 19.) EMMI rendelet 11. § (3) bekezdésével megállapított szöveg.
 [^15]: A 2. § (2) bekezdés m) pontját a 41/2011. (VII. 5.) NEFMI rendelet 4. § (5) bekezdése iktatta be, szövege a 3/2014. (I. 16.) EMMI rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^16]: A 2. § (2) bekezdés n) pontját a 41/2011. (VII. 5.) NEFMI rendelet 4. § (5) bekezdése iktatta be.
 [^17]: A 2. § (2) bekezdés o) pontját a 3/2014. (I. 16.) EMMI rendelet 11. § (3) bekezdése iktatta be.
