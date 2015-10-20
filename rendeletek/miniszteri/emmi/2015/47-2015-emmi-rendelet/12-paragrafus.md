@@ -1,0 +1,1 @@
+## „l) eladható készletbe helyezési bizonylat: a felelős személy aláírásával, bélyegzőjének lenyomatával és keltezéssel ellátott igazolása arról, hogy a gyógyszer a forgalomba hozatali engedélyben előírt gyógyszerminőségnek megfelel;”

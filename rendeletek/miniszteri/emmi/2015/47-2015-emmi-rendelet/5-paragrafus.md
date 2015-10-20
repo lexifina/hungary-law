@@ -1,0 +1,1 @@
+## „(3b) A (3) bekezdés szerinti, a beteg egészségi állapotában bekövetkezett változást a háziorvos, illetve a szakmailag illetékes szakorvos igazolja. Az igazolást a beteg a lezárt kezelőlappal egyidejűleg átadja az igénybe nem vett kezeléseket ismételten elrendelő orvosnak.”
