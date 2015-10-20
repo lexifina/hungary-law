@@ -28,6 +28,10 @@
 
 | 10 | MD 0109 | In vitro megtermékenyítés (IVF) és mesterséges megtermékenyítés (ART) nem aktív eszközei |
 
+| 10/a | MD 0110 | Nem aktív szájon át bevehető orvostechnikai eszközök |
+
+| 10/b | MD 1112 | Orvosi gázellátó rendszerek és részei |
+
 | 11 | MD 0200 | Nem aktív beültethető eszközök |
 
 | 12 | MD 0201 | Nem aktív szív-érrendszeri implantátumok |
@@ -142,6 +146,8 @@
 
 | 8 | IVD 0203 | Hepatitis B, C és D |
 
+| 8/a | IVD 0204 | Variáns Creutzfeldt-Jakob-betegség (vCJD) |
+
 | 9 | IVD 0300 | B lista Reagensek, reagens származékok, és önellenőrzésre szolgáló eszközök, beleértve a megfelelő kalibráló és kontrollanyagokat a következők meghatározására, kimutatására, mennyiségi meghatározására, diagnosztizálására, értékelésére |
 
 | 10 | IVD 0301 | Anti-Duffy és anti-Kidd |
@@ -202,6 +208,8 @@
 
 | 10 | MDS 7009 | Biológiailag aktív bevonatú, illetve anyagú, továbbá részben vagy teljesen felszívódó orvostechnikai eszközök |
 
+| 11. | MDS 7010 | Szoftvert tartalmazó, szoftvert alkalmazó, illetve szoftver által kontrollált orvostechnikai eszközök |
+
 6. Speciális in vitro diagnosztikai orvostechnikai eszközök, 98/79/EK európai parlamenti és tanácsi irányelv
 
 |  | A | B |
@@ -209,6 +217,8 @@
 |  | Kijelölési szakterület kódszáma | Speciális IVD orvostechnikai eszköz kijelölési szakterületek |
 
 | 1 | MDS 7200 | IVD eszközök speciális kijelölési területei |
+
+| 1/a | MDS 7205 | Szoftvert tartalmazó, szoftvert alkalmazó, illetve szoftver által kontrollált IVD eszközök |
 
 | 2 | MDS 7206 | Steril állapotban forgalomba hozott IVD eszközök |
 
@@ -220,4 +230,4 @@
 
 | 6 | MDS 7210 | Emberi eredetű anyagot alkalmazó IVD eszközök |
 
-[^19]: A 3. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 3. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (2) bekezdése, a 47/2015. (X. 19.) EMMI rendelet 36. §-a szerint módosított szöveg.
