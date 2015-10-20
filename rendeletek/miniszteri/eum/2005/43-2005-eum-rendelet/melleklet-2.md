@@ -12,7 +12,7 @@
 
 ## 5. Ezen Értesítő szerinti első vény háziorvos általi kiállításának dátuma:
 
-## 6. Rendelt fokozottan ellenőrzött szer neve, hatáserőssége (gyógyszerazonosító betűjel A–Z-ig):
+## 6. Rendelt fokozottan ellenőrzött szer neve, hatáserőssége:
 
 ## 7. Adagolása:
 

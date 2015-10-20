@@ -10,9 +10,9 @@ ab)[^55] a b) pont szerinti, a beteg általi gyógyszertár választás hiányá
 
 b) értesíti a beteg választása szerinti, ennek hiányában pedig a legközelebbi közforgalmú gyógyszertárat és ezzel egyidejűleg lebélyegezve és aláírva átküldi a háziorvos által kiállított értesítő másolati példányát;
 
-c)[^56] a zárvatartás várható időtartamáról és a fokozottan ellenőrzött szer kiadási helyének átmeneti változásáról értesíti a fővárosi, megyei tisztifőgyógyszerészt (a továbbiakban: megyei tisztifőgyógyszerész).
+c)[^56] a zárvatartás várható időtartamáról és a fokozottan ellenőrzött szer kiadási helyének átmeneti változásáról értesíti az OGYÉI-t.
 
 [^53]: A 8. § (1) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
 [^54]: A 8. § (2) bekezdés a) pont nyitó szövegrésze az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
 [^55]: A 8. § (2) bekezdés a) pont ab) alpontja az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
-[^56]: A 8. § (2) bekezdésének c) pontja a 44/2008. (XI. 28.) EüM rendelet 8. § (3) bekezdése, a 10/2011. (III. 30.) NEFMI rendelet 54. § (2) bekezdés a) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
+[^56]: A 8. § (2) bekezdésének c) pontja az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja, a 47/2015. (X. 19.) EMMI rendelet 19. § b) pontja szerint módosított szöveg.
