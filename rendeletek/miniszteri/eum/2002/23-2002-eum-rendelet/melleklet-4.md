@@ -28,7 +28,7 @@
 
 | 13. Orvostechnikai eszközzel végzett klinikai vizsgálatok és beavatkozással nem járó vizsgálatok | Egészségügyi Nyilvántartási és Képzési Központ | 10032000-00285788- 00000000 |
 
-4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^110]
+4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^115]
 
 ## Az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat kérelméhez csatolandó dokumentumok
 
@@ -98,4 +98,4 @@ bo) a vizsgálatot befogadó egészségügyi szolgáltató nyilatkozata a vizsg�
 
 bp) igazgatási szolgáltatási díj befizetését igazoló dokumentum.
 
-[^110]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2014. (I. 16.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^115]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2014. (I. 16.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
