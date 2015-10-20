@@ -38,7 +38,9 @@ e)[^89] a házhoz szállított, illetve csomagban küldött gyógyszer átadás�
 
 a)[^93] az OGYÉI megnevezése,
 
-b) hiperhivatkozás a 17. § (6) bekezdés b) pontja szerinti jegyzékre.
+b)[^94] a gyógyszereket lakossági távértékesítésre kínáló személyek azonosítására szolgáló közös logó mintájáról, valamint a közös logó hitelességének értékelését lehetővé tevő műszaki, elektronikai és kriptográfiai követelményekről szóló, 2014. június 24-i 699/2014/EU bizottsági végrehajtási rendeletben (a továbbiakban: 699/2014/EU végrehajtási rendelet) foglaltaknak megfelelő logó, ami hiperhivatkozást tartalmaz a 17. § (6) bekezdés b) pontja szerinti jegyzékre.
+
+(6)[^95] Az internetes gyógyszerkereskedelmet is végző gyógyszertár ezirányú tevékenységét abban az esetben kezdheti meg, ha a 699/2014/EU végrehajtási rendelet szerinti logó használatára jogosító, az OGYÉI honlapjáról letölthető szerződést az OGYÉI-vel megkötötte.
 
 [^86]: A 19. § (2) bekezdés nyitó szövegrésze az 56/2013. (VII. 31.) EMMI rendelet 35. § g) pontja szerint módosított szöveg.
 [^87]: A 19. § (2) bekezdés c) pontja az 56/2013. (VII. 31.) EMMI rendelet 33. §-ával megállapított szöveg.
@@ -48,3 +50,5 @@ b) hiperhivatkozás a 17. § (6) bekezdés b) pontja szerinti jegyzékre.
 [^91]: A 19. § (4) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 35. § k) pontja szerint módosított szöveg.
 [^92]: A 19. § (5) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 26. §-a iktatta be.
 [^93]: A 19. § (5) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 92. § i) pontjával megállapított szöveg.
+[^94]: A 19. § (5) bekezdés b) pontja a 47/2015. (X. 19.) EMMI rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^95]: A 19. § (6) bekezdését a 47/2015. (X. 19.) EMMI rendelet 33. § (2) bekezdése iktatta be.

@@ -84,6 +84,6 @@
 
 | Gyógyszerész (100 ágyanként) | 1 |
 
-4. számú melléklet a 41/2007. (IX. 19.) EüM rendelethez[^148]
+4. számú melléklet a 41/2007. (IX. 19.) EüM rendelethez[^151]
 
-[^148]: A 4. számú melléklet e rendelet 37. § (6) bekezdése alapján hatályát vesztette.
+[^151]: A 4. számú melléklet e rendelet 37. § (6) bekezdése alapján hatályát vesztette.
