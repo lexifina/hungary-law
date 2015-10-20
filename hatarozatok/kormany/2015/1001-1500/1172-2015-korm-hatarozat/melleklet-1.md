@@ -200,9 +200,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 11,53 | 119,72 | 26,76 | 23,83 | 5,06 | 186,90 |
+| 3. | 11,53 | 119,72 | 26,76 | 23,83 | 4,46 | 186,30 |
 
-| 4. | Többletkötelezettség-vállalás: 22,36 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 21,76 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85 % |
 
@@ -214,7 +214,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 222,79 | 14,88 | 24,12 | 261,79 |
+| 3. | 222,79 | 14,88 | 23,52 | 261,19 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -268,7 +268,7 @@
 
 | 23. | 3.1.19 | Tartalmi- módszertani fejlesztés, valamint pedagógus- továbbképzés a mindennapos testnevelés terén | 0,00 | 0,00 | 0,00 | 1,40 | 0,00 | A konstrukció célja a mindennapos testneveléshez kapcsolódóan az egészséges életmódra nevelés elősegítése az erőnléti és állóképesség-javító programok fejlesztésével. A konstrukció keretében kerülnek kialakításra és kipróbálásra az on-line szakmódszertani segítségnyújtás és mentorálás rendszerei és kísérleti jelleggel a csapatsport utánpótlás-neveléshez kapcsolódó pedagógus-továbbképzési tananyagok és képzések a mindennapos testnevelést végző szaktanárok részére, különösen a kiemelt csapatsportágak tekintetében (pl. kézilabda, vízilabda, kosárlabda). A konstrukció kiemelt figyelmet fordít a többségében roma fiatalok számára sportolási lehetőséget, programokat szervező intézményekre, szaktanárokra. | emberi erőforrások minisztere |  |
 
-| 23a. | 3.1.20 | Iosephinum köznevelési szolgáltatásainak fejlesztése | 0,00 | 0,00 | 0,00 | 0,00 | 0,60 | A konstrukció célja a rekreációhoz kapcsolódó tudományos kutatások, képzések, továbbképzések szervezése, lebonyolítása. | emberi erőforrások minisztere | – |
+| 23a. |  |  |  |  |  |  |  |  |  |  |
 
 | 24. | 3.2.1.A | Közoktatási intézmények szerepbővítése, újszerű intézményi együttműködések kialakítása (tanulást segítő támogató formák bevezetése) | 0,00 | 1,30 | 0,00 | 0,00 | 0,00 | A konstrukció célja a közoktatási intézmények támogatása új tanulási formák adaptálására, informális, non-formális tanulási lehetőségek kialakítására, új típusú intézményi együttműködések támogatása. További cél a hagyományos, formális intézményi keretek között nem, illetve nem könnyen oktatható tanulók számára olyan – az egyéni igényekre, szükségletekre szabott – tanulási formák kialakítása, amely elvezeti a tanulót a sikeres iskolai végzettség, szakmai tudás megszerzéséhez. | emberi erőforrások minisztere |  |
 
@@ -338,7 +338,7 @@
 
 | 55. | 3.4.5-12 | Tehetséghidak Program | 0,00 | 1,98 | 0,00 | 1,20 | 0,00 | A konstrukció célja az iskolai és iskolán kívüli tehetségsegítés és tehetséggondozás feltételrendszerének javítása révén a tehetséges gyerekekkel, fiatalokkal való kiemelt foglalkozás, továbbá az esélynövelést szolgáló tehetséggondozás hosszú távú, ágazatközi együttműködésen alapuló feltételeinek megteremtése. | emberi erőforrások minisztere |  |
 
-| 56. | Összesen | 11,53 | 119,72 | 26,76 | 23,83 | 5,06 |  |  |  |
+| 56. | Összesen | 11,53 | 119,72 | 26,76 | 23,83 | 4,46 |  |  |  |
 
 4. A 4. prioritás: A felsőoktatás tartalmi és szervezeti fejlesztése, a tudásalapú gazdaság kiépítése érdekében
 
@@ -462,9 +462,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 37,44 | 43,28 | 5,39 | 3,73 | 2,76 | 92,60 |
+| 3. | 37,38 | 43,28 | 5,39 | 3,73 | 3,76 | 93,54 |
 
-| 4. | Többletkötelezettség-vállalás: 14,10 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 15,10 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85 % |
 
@@ -476,7 +476,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 127,63 | 8,70 | 10,36 | 146,69 |
+| 3. | 127,63 | 8,70 | 11,36 | 147,69 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -518,7 +518,7 @@
 
 | 16. | 5.3.8.A | A leghátrányosabb helyzetű csoportok munkaerő-piaci esélyeinek növelése érdekében motiváló képzések és támogató szolgáltatások | 4,90 | 4,70 | 0,00 | 0,00 | 0,30 | A konstrukció célja a leghátrányosabb helyzetű csoportok tagjainak nyílt munkaerő-piaci elhelyezkedését támogató képzések, felmérések és fejlesztések kidolgozása és lebonyolítása, támogató szolgáltatások létrehozása. | emberi erőforrások minisztere |  |
 
-| 17. | 5.3.8.B | A leghátrányosabb helyzetű csoportok munkaerő-piaci esélyeinek növelése érdekében motiváló képzések és támogató szolgáltatások | 7,31 | 0,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja a leghátrányosabb helyzetű csoportok helyzetének javítása, az elszegényedés, a leszakadás mértékének és hatásainak csökkentése, az etnikai és szociális szegregáció fékezése, a szociális ellátórendszerhez és szolgáltatásokhoz való hozzáférésének javítása munkaerő-piaci integrációjuk előmozdítása, foglalkoztathatóságuk segítése érdekében. | emberi erőforrások minisztere |  |
+| 17. | 5.3.8.B | A leghátrányosabb helyzetű csoportok munkaerő-piaci esélyeinek növelése érdekében motiváló képzések és támogató szolgáltatások | 7,25 | 0,00 | 0,00 | 0,00 | 1,00 | A konstrukció célja a leghátrányosabb helyzetű csoportok helyzetének javítása, az elszegényedés, a leszakadás mértékének és hatásainak csökkentése, az etnikai és szociális szegregáció fékezése, a szociális ellátórendszerhez és szolgáltatásokhoz való hozzáférésének javítása munkaerő-piaci integrációjuk előmozdítása, foglalkoztathatóságuk segítése érdekében. | emberi erőforrások minisztere |  |
 
 | 18. | 5.3.9 | Tanulási partnerségek a foglalkoztathatóság javításáért | 2,00 | 0,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja az aktív korú inaktív, munkanélküli, társadalmi kirekesztődés által sújtott személyek kulcskompetenciáinak fejlesztése, társadalmi és munkaerő-piaci integrációjuk elősegítése, valamint országos nyitott tanulási központ hálózatának létrehozása és működtetése. | emberi erőforrások minisztere |  |
 
@@ -562,7 +562,7 @@
 
 | 37. | 5.6.3 | Az elítéltek többszakaszos, társadalmi és munkaerő-piaci reintegrációja és az intenzív utógondozás modellje | 0,00 | 2,69 | 0,00 | 0,00 | 0,30 | A konstrukció célja egy olyan országos hatókörű re-integrációs program kialakítása és megvalósítása, amely a fogvatartottak szükségleteire építve, differenciáltan kínál egyéni megoldásokat a társadalmi és munkaerő-piaci visszailleszkedésre. | belügyminiszter | nemzetgazdasági miniszter |
 
-| 38. | Összesen | 37,44 | 43,28 | 5,39 | 3,73 | 2,76 |  |  |  |
+| 38. | Összesen | 37,38 | 43,28 | 5,39 | 3,73 | 3,76 |  |  |  |
 
 6. A 6. prioritás: Egészségmegőrzés és egészségügyi humánerőforrás-fejlesztés
 
@@ -691,4 +691,4 @@
 | 3. | 7.2.1 | Az OP lebonyolításával kapcsolatos egyéb feladatok | 4,85 | 4,85 | 4,85 | 0,00 | 0,00 | A konstrukció célja, hogy biztosítsa a Társadalmi Megújulás Operatív Program lebonyolításával kapcsolatos specifikus feladatok költséghatékony és eredményes ellátását (pl. monitoring bizottság működtetése, beleértve annak titkársági feladatai ellátását is, az éves megvalósítási jelentések, a Társadalmi Megújulás Operatív Program végrehajtását érintő tanulmányok, elemzések, a Nemzeti Stratégiai Referencia Keret-szintű értékelési tervben nem szereplő, valamint a monitoring bizottság kezdeményezésére indított értékelések). | emberi erőforrások minisztere |  |
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja, az 1685/2015. (IX. 24.) Korm. határozat 3–4. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja, az 1685/2015. (IX. 24.) Korm. határozat 3–4. pontja, az 1775/2015. (X. 19.) Korm. határozat 3–4. pontja szerint módosított szöveg.
