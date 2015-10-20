@@ -18,7 +18,7 @@
 
 ## A kérelmező orvos adatai
 
-## A kérelmet előterjesztő kezelőorvos neve:
+## A kérelmet előterjesztő kezelőorvos neve, elérhetősége:
 
 ## Munkahelye:
 
