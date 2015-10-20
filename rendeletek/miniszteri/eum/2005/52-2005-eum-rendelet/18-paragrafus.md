@@ -60,6 +60,8 @@ c) azt – gyógyszerészeti tulajdonságai vagy újszerűsége, illetve közeg�
 
 (9)[^73] Az OGYÉI a gyógyszerek osztályozás szerinti listáját évente frissíti, figyelemmel a 33. § (1) bekezdésének a) pontjában meghatározott közzétételi kötelezettségére.
 
+(10)[^74] A sürgősségi betegellátásban az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet 2. melléklete által a sürgősségi táska tartalmaként meghatározott gyógyszerek a 18. § (2) bekezdése szerinti alcsoportba sorolástól függetlenül alkalmazhatók.
+
 [^65]: A 18. § (1) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 3. § e) pontja, a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja szerint módosított szöveg.
 [^66]: A 18. § (2) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 4. § e) pontja, a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
 [^67]: A 18. § (2) bekezdés b) pont nyitó szövegrésze az 56/2013. (VII. 31.) EMMI rendelet 29. § a) pontja szerint módosított szöveg.
@@ -69,3 +71,4 @@ c) azt – gyógyszerészeti tulajdonságai vagy újszerűsége, illetve közeg�
 [^71]: A 18. § (7) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § f) pontja, a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja szerint módosított szöveg.
 [^72]: A 18. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja szerint módosított szöveg.
 [^73]: A 18. § (9) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja szerint módosított szöveg.
+[^74]: A 18. § (10) bekezdését a 47/2015. (X. 19.) EMMI rendelet 22. §-a iktatta be.

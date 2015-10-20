@@ -1,9 +1,9 @@
-23. § (1)[^82] Az OGYÉI kölcsönös elismerési, illetve a decentralizált eljárás esetében, ha nem referencia hatóság, a referencia tagállam által elkészített értékelő jelentés vagy az értékelő jelentés tervezetének kézhezvételét követő 90 napon belül jóváhagyja az értékelő jelentést, az alkalmazási előírást, valamint a címkét és betegtájékoztatót vagy azok tervezetét, és erről tájékoztatja a referencia-tagállamot.
+23. § (1)[^83] Az OGYÉI kölcsönös elismerési, illetve a decentralizált eljárás esetében, ha nem referencia hatóság, a referencia tagállam által elkészített értékelő jelentés vagy az értékelő jelentés tervezetének kézhezvételét követő 90 napon belül jóváhagyja az értékelő jelentést, az alkalmazási előírást, valamint a címkét és betegtájékoztatót vagy azok tervezetét, és erről tájékoztatja a referencia-tagállamot.
 
-(2)[^83] Kölcsönös elismerési, illetve a decentralizált eljárás esetében, ha az OGYÉI a referencia hatóság, lezárja az engedélyezési folyamatot, írásban összesíti valamennyi tagország jóváhagyását a forgalomba hozatali engedély kiadására, és értesíti a kérelmezőt és az érintett tagállamokat.
+(2)[^84] Kölcsönös elismerési, illetve a decentralizált eljárás esetében, ha az OGYÉI a referencia hatóság, lezárja az engedélyezési folyamatot, írásban összesíti valamennyi tagország jóváhagyását a forgalomba hozatali engedély kiadására, és értesíti a kérelmezőt és az érintett tagállamokat.
 
-(3)[^84] Az (1) bekezdés szerinti eljárásban az OGYÉI megkeresése esetén az OEK szakértőként jár el.
+(3)[^85] Az (1) bekezdés szerinti eljárásban az OGYÉI megkeresése esetén az OEK szakértőként jár el.
 
-[^82]: A 23. § (1) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (12) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja szerint módosított szöveg.
-[^83]: A 23. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
-[^84]: A 23. § (3) bekezdését a 20/2010. (IV. 29.) EüM rendelet 1. § (13) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
+[^83]: A 23. § (1) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (12) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja szerint módosított szöveg.
+[^84]: A 23. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
+[^85]: A 23. § (3) bekezdését a 20/2010. (IV. 29.) EüM rendelet 1. § (13) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
