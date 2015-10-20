@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2015-04-01 | 2011-4-20-22.28 | 25/2012. (II. 29.) Korm. rendelet |
 | 2015-06-13 | 2011-4-20-22.29 | 144/2015. (VI. 12.) Korm. rendelet |
 | 2015-07-08 | 2011-4-20-22.30 | 175/2015. (VII. 7.) Korm. rendelet |
+| 2015-10-20 | 2011-4-20-22.31 | 25/2012. (II. 29.) Korm. rendelet |
