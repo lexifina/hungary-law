@@ -1,1 +1,0 @@
-## „(4) Társadalombiztosítási támogatás csak olyan kezelőlap alapján számolható el, amely megfelel a (3) bekezdés szerinti tartalmi követelményeknek, és a beteg (cselekvőképtelen beteg esetén a törvényes képviselője vagy kísérője) az 1. § (2) bekezdés a) és c) pontja szerinti ellátások esetében az igénybevételt alkalmanként aláírásával igazolta.”

@@ -1,1 +1,0 @@
-## „(6) Az internetes gyógyszerkereskedelmet is végző gyógyszertár ezirányú tevékenységét abban az esetben kezdheti meg, ha a 699/2014/EU végrehajtási rendelet szerinti logó használatára jogosító, az OGYÉI honlapjáról letölthető szerződést az OGYÉI-vel megkötötte.”
