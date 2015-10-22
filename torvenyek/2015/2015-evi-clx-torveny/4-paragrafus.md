@@ -5,11 +5,3 @@
 (3) A Hordozórakéta Nyilatkozat, valamint a 2. § és 3. § hatálybalépésének naptári napját – annak ismertté válását követően – a külpolitikáért felelős miniszter a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
 (4) Az e törvény végrehajtásához szükséges intézkedésekről, az űrkutatásért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
