@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-269-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-09-15 | 2015-269-20-22.1 | 269/2015. (IX. 15.) Korm. rendelet |
+| 2015-10-22 | 2015-269-20-22.2 | 41/2016. (III. 9.) Korm. rendelet |
