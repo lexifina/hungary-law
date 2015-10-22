@@ -18,4 +18,4 @@ h) hulladéktárolót
 
 a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
-(2) Lezárt temetőben az (1) bekezdés e), f) és h) pontjában meghatározott temetői létesítményeket kell biztosítani.
+(2) Amennyiben e törvény eltérően nem rendelkezik, lezárt temetőben az (1) bekezdés e), f) és h) pontjában meghatározott temetői létesítményeket kell biztosítani.
