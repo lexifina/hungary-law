@@ -5,11 +5,3 @@
 (3) Az Alapokmány, valamint a 2. § és a 3. § hatálybalépésének naptári napját – annak ismertté válását követően – a külpolitikáért felelős miniszter a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
 (4) Az e törvény végrehajtásához szükséges intézkedésekről, valamint az Európai Űrügynökség Tanácsában és egyéb szervezeteiben Magyarország képviseletéről az űrkutatásért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
