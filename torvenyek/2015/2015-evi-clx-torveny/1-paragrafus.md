@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyes európai kormányok az Ariane, a Vega és a Szojuz hordozórakétáknak a Guyana Űrközpontból történő hasznosításáról szóló nyilatkozata (a továbbiakban: Hordozórakéta Nyilatkozat) kötelező hatályának elismerésére.
