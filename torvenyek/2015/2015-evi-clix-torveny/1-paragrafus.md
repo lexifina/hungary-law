@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Űrügynökséget létrehozó Alapokmány részes államai és az Európai Űrügynökség között a minősített információk védelméről és cseréjéről szóló megállapodás (a továbbiakban: Biztonsági Megállapodás) kötelező hatályának elismerésére.
