@@ -1,0 +1,1 @@
+## „(11) A műszaki felülvizsgálatok elvégzésének kötelezettsége nem áll fenn a veszélytelenített berendezések, valamint a nyilvántartott szervezet, az ellenőr, a karbantartó vagy a Hatóság dokumentált intézkedésének hatására balesetveszély esetén leállított berendezések tekintetében.”
