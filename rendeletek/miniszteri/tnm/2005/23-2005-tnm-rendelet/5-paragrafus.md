@@ -4,13 +4,15 @@
 
 (2) A rendelet előírásait a rendelet hatálybalépését követően indult államigazgatási ügyekben kell alkalmazni.
 
-Melléklet a 23/2005. (VI. 25.) TNM rendelethez
+Melléklet a 23/2005. (VI. 25.) TNM rendelethez[^2]
 
 Balatonfűzfő vízpart-rehabilitációs tanulmánytervének M=1:2000 méretarányú tervlapja
 
 BALATONFŰZFŐ VÍZPART-REHABILITÁCIÓS TANULMÁNYTERVE JELMAGYARÁZATA
 
 A TELEPÜLÉSRENDEZÉSI TERVEKBEN ÉRVÉNYESÍTENDŐ, JÓVÁHAGYANDÓ SZABÁLYOZÁSI ELEMEK:
+
+4M12768_0
 
 | Építési hatósági intézkedést igénylő, engedély nélkül, ill. joghatályos településrendezési tervvel ellentétesen beépített terület |  |
 
@@ -65,6 +67,8 @@ A TELEPÜLÉSRENDEZÉSI TERVEKBEN ÉRVÉNYESÍTENDŐ, JÓVÁHAGYANDÓ SZABÁLYOZ
 | - védelmi, valamint egészségügyi, szociális és turisztikai rendeltetésű erdőterület |  |
 
 | * A különleges területek betűjelei a 283/2002. Korm. rend. alapján: Okt = oktatási központ területe K = kemping területe Eü = egészségügyi terület Szk = szabadidőközpont Sp = nagykiterjedésű sportolási célú terület Ki = kikötő területe St = strandterület |  |
+
+4M12768_1
 
 | - vízgazdálkodási terület tómedren kívül |  |
 
@@ -148,8 +152,6 @@ A TELEPÜLÉSRENDEZÉSI TERVEKBEN ÉRVÉNYESÍTENDŐ, JÓVÁHAGYANDÓ SZABÁLYOZ
 
 | Zöldterület kialakítására alkalmas terület |  |
 
-BALATONFŰZFŐ VÍZPART-REHABILITÁCIÓS TANULMÁNYTERVÉNEK M=1:2000 MÉRETARÁNYÚ TERVLAPJA
+20056F20000023_1
 
-2/1
-
-2/2
+[^2]: A Melléklet a 43/2015. (X. 15.) MvM rendelet 1. §-a szerint módosított szöveg.

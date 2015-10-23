@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-23-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-07-10 | 2005-23-20-6F.1 | 23/2005. (VI. 25.) TNM rendelet |
+| 2015-10-23 | 2005-23-20-6F.2 | 287/2025. (VIII. 27.) Korm. rendelet |
