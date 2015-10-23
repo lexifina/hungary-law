@@ -1,7 +1,5 @@
-18. § (1) A berendezés üzemeltetése során
+18. §[^28] (1) A berendezés üzemeltetése során felvonóvezető olyan személy lehet, akit az ellenőr az adott felvonó vezetésére képzett vagy betanított, továbbá a 19. §-ban előírt kötelezettségek teljesítésére alkalmas.
 
-a) az üzemügyeletesi feladatokat – az üzemeltető írásbeli megbízása alapján – olyan nagykorú személy láthatja el, aki a felügyeletére bízott berendezés működése során keletkező hiba esetén a használók szakszerű kiszabadítására, továbbá a 19. § (1) bekezdésében előírt kötelezettségek teljesítésére alkalmas és a berendezés beépítésének helyszínén jártasságát az ellenőr előtt igazolta;
+(2) Az ellenőr az (1) bekezdésben meghatározott személy vagy személyek nevét a felvonó- vagy mozgólépcső gépkönyvbe bejegyzi.
 
-b) felvonóvezető olyan személy lehet, akit az ellenőr az adott felvonó vezetésére kioktatott, továbbá a 19. § (2) bekezdésében előírt kötelezettségek teljesítésére alkalmas.
-
-(2) Az ellenőr az (1) bekezdésben meghatározott személyek nevét a felvonó-, vagy mozgólépcső gépkönyvbe bejegyzi.
+[^28]: A 18. § a 280/2015. (IX. 22.) Korm. rendelet 9. §-ával megállapított szöveg.

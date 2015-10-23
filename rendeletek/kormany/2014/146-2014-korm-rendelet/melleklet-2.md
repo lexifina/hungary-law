@@ -1,4 +1,4 @@
-2. melléklet a 146/2014. (V. 5.) Korm. rendelethez
+2. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^43]
 
 I. A berendezések létesítésének műszaki-biztonsági engedélyezési dokumentációja
 
@@ -32,19 +32,19 @@ I. A berendezések létesítésének műszaki-biztonsági engedélyezési dokume
 
 2.4. a forgalomszámítást (valamennyi személyszállító berendezés figyelembevételével).
 
-II. A berendezések műszaki-biztonsági használatbavételi engedélyezési dokumentációja
+II. A berendezések műszaki-biztonsági használatbavételi dokumentációja
 
-## A berendezések használatbavételi engedélye iránti kérelemhez a következő mellékleteket kell csatolni:
+## A berendezések műszaki-biztonsági használatbavételi dokumentációja a következőket tartalmazza:
 
 1. felvonó esetében a biztonsági berendezést gyártó és a felvonószerelő-vállalkozás nevét és címét, mozgólépcső, mozgójárda esetében a gyártó vagy a felelős forgalmazó nevét és címét;
 
 2. a gyártó vagy a felelős forgalmazó nyilatkozatát arról, hogy az általa szállított és felszerelt (felszereltetett) berendezés megfelel az engedélyezett terveknek, továbbá a szükséges beállításokat és a legalább 24 órás próbaüzemeltetést elvégezte, és a berendezés a rendeltetésszerű és biztonságos használatra alkalmas;
 
-3. az üzemeltető (tulajdonos) nyilatkozatát arról, hogy a berendezés karbantartását, üzemügyeletét és ‒ ha szükséges ‒ vezetését hogyan oldja meg;
+3. az üzemeltető (tulajdonos) nyilatkozatát arról, hogy a berendezés karbantartását, és – ha szükséges – vezetését hogyan oldja meg;
 
 4. a berendezés kivitelezési dokumentációját.
 
-III. A berendezések megszüntetésének műszaki-biztonsági engedélyezési dokumentációja
+III. A berendezések megszüntetésének műszaki-biztonsági dokumentációja
 
 1. Amennyiben a felvonó bontásánál épület-statikai, állékonysági hatást is kell vizsgálni (például felvonótorony bontása), akkor a berendezés megszüntetésének dokumentációját az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az adott építményfajtára vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendeletben meghatározottak szerinti tartalommal kell összeállítani.
 
@@ -55,3 +55,5 @@ III. A berendezések megszüntetésének műszaki-biztonsági engedélyezési do
 2.2. Forgalomelemzési számítás abban az esetben, ha az építmény továbbra is fennmarad, és rendelkezik további működő felvonóval, mozgólépcsővel, mozgójárdával.
 
 2.3. A bontáshoz tervezett technológiai leírást, amely tartalmazza a bontáshoz felhasználandó eszközöket, segédszerkezeteket, a műveletek sorrendjét, a közművezetékek leválasztási módját, a munkavédelmi és környezetvédelmi előírásokat, valamint az elbontásra kerülő szerkezetek, anyagok további sorsának meghatározását.
+
+[^43]: A 2. melléklet a 280/2015. (IX. 22.) Korm. rendelet 13. §-a szerint módosított szöveg.

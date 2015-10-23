@@ -1,3 +1,3 @@
-26. § (1) Minden, e rendelet hatálya alá tartozó berendezést a létesítésétől, illetve teljes felújításától számított 20 naptári év elteltével, és ezt követően 20 évente az éves fővizsgálat helyett szabványossági felülvizsgálatnak kell alávetni. Ezt megelőzően a berendezést – szükség esetén – olyan módon kell teljes felújításnak alávetni, átalakítani vagy kicserélni, hogy az a felülvizsgálat időpontjában érvényes létesítési biztonságtechnikai előírásoknak megfeleljen. Ez az építési vonatkozású előírásokra nem vonatkozik. A megfelelő átalakítás vagy csere elmulasztása esetén a berendezést le kell állítani. A műemlék épületek berendezéseinek esetében a korlátozott lehetőségekre tekintettel az átalakítás mértékét egyedileg kell meghatározni.
+26. §[^36]
 
-(2) Az (1) bekezdésben foglalt rendelkezést először 2020. január 1-jét követően kell alkalmazni.
+[^36]: A 26. §-t a 280/2015. (IX. 22.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.

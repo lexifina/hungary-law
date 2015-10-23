@@ -1,6 +1,6 @@
 ## 5. A berendezések nyilvántartása
 
-8. § (1) Az MKEH az engedélyezett berendezésről országos nyilvántartást vezet.
+8. § (1)[^14] Az MKEH a jogszerűen létesített és bejelentett berendezésekről országos nyilvántartást vezet.
 
 (2) A nyilvántartásnak tartalmaznia kell
 
@@ -25,3 +25,5 @@ h) a berendezés üzemeltető általi leállítását.
 (4) A megszüntetett berendezésre vonatkozó adatokat az MKEH a berendezés megszüntetését követő egy év leteltével – a berendezés nyilvántartási száma kivételével – törli az (1) bekezdésben említett nyilvántartásból.
 
 (5) A bejelentett tanúsító szervezet, továbbá a tanúsított minőségügyi rendszert („H” vagy „E” modult) alkalmazó szerelő- és forgalmazó vállalkozás a központi nyilvántartást vezető szervezet részére megküldi az üzembe helyezés előtti vizsgálat jegyzőkönyvét, a berendezés tanúsítványának másolatát, valamint a 3. melléklet szerinti műszaki adatlapot.
+
+[^14]: A 8. § (1) bekezdése a 280/2015. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
