@@ -1,1 +1,0 @@
-## 1. § A tömeges bevándorlás okozta válsághelyzet kihirdetéséről, valamint a válsághelyzet elrendelésével, fennállásával és megszüntetésével összefüggő szabályokról szóló 269/2015. (IX. 15.) Korm. rendelet 1. §-ában a „80/A. § (1) bekezdés a) pont aa) alpontja” szövegrész helyébe a „80/A. § (1) bekezdés c) pontja” szöveg lép.
