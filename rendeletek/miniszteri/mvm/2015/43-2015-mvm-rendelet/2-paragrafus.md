@@ -1,1 +1,0 @@
-## 1. § A Balatonfűzfő vízpart-rehabilitációs szabályozási követelményekkel érintett területének lehatárolásáról és vízpart-rehabilitációs tanulmánytervének elfogadásáról szóló 23/2005. (VI. 25.) TNM rendelet (a továbbiakban: R.) Melléklete az 1. melléklet szerint módosul.
