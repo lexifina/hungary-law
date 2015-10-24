@@ -1,0 +1,1 @@
+## 23. § A Ve. alapján létrehozandó NESZA nyilvántartást a választási eljárásról szóló 1997. évi C. törvény alapján működő, választójoggal nem rendelkező nagykorú polgárok nyilvántartásában szereplő adatokkal 2013. november 1-jéig kell feltölteni.
