@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-83-20-8
 | 2008-05-16 | 2003-83-20-82.4 | 83/2003. (VII. 16.) FVM rendelet |
 | 2015-06-28 | 2003-83-20-82.5 | 36/2004. (IV. 1.) FVM rendelet |
 | 2015-07-01 | 2003-83-20-82.6 | 36/2015. (VI. 30.) FM rendelet |
+| 2015-10-24 | 2003-83-20-82.7 | 36/2004. (IV. 1.) FVM rendelet |

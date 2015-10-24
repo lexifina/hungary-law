@@ -46,7 +46,7 @@
 
 | 5. | Erdészeti rakodógép |  | Mezőgazdasági gépkezelő (Mező- és erdőgazdasági rakodógép) 31 6280 10 |  | Okleveles erdőmérnök, Erdőmérnök, Erdésztechnikus, Erdészeti gépésztechnikus, Erdészeti szakmunkás, Erdészeti gépész, Közelítőgép-kezelő |
 
-| 6. | Aprítógépek |  | Fakitermelési gépkezelő 31 6280 02 |  | Erdészeti gépésztechnikus, Erdészeti szakmunkás, Erdészeti gépész. |
+| 6. | Aprítógépek, a behordó asztal nélküli, kézi adagolású aprítógépek kivételével |  | Fakitermelési gépkezelő 31 6280 02 |  | Erdészeti gépésztechnikus, Erdészeti szakmunkás, Erdészeti gépész. |
 
 | 7. | Döntő-rakásoló gép |  | Közelítőgép-kezelő 31 6280 03 |  | Erdészeti gépésztechnikus. |
 
