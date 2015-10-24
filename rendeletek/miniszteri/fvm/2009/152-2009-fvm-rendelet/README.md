@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | 2014-12-20 | 2009-152-20-82.24 | 36/2014. (XII. 17.) FM rendelet |
 | 2015-05-29 | 2009-152-20-82.25 | 28/2015. (V. 28.) FM rendelet |
 | 2015-06-24 | 2009-152-20-82.26 | 28/2015. (V. 28.) FM rendelet |
+| 2015-10-24 | 2009-152-20-82.27 | 26/2011. (IV. 7.) VM rendelet |

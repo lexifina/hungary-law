@@ -46,7 +46,7 @@
 
 30.[^8] a sűrített tej és tejporfélék vizsgálatáról szóló 32. melléklet,
 
-31.[^9] az étolaj, az étkezési zsír, valamint ezek hozzáadásával készült élelmiszerek erukasav-tartalmának meghatározási módszeréről szóló 33. melléklet,
+31.[^9]
 
 32.[^10] az étkezési kazeinek és kazeinátok vizsgálati módszereiről szóló 34. melléklet,
 
@@ -72,7 +72,7 @@ b) a tejtermékekről szóló 13. melléklet.
 [^6]: Az 1. § (2) bekezdés 28. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
 [^7]: Az 1. § (2) bekezdés 29. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
 [^8]: Az 1. § (2) bekezdés 30. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
-[^9]: Az 1. § (2) bekezdés 31. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^9]: Az 1. § (2) bekezdés 31. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 64/2015. (X. 16.) FM rendelet 3. § a) pontja.
 [^10]: Az 1. § (2) bekezdés 32. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
 [^11]: Az 1. § (2) bekezdés 33. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
 [^12]: Az 1. § (2) bekezdés 34. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
