@@ -1,10 +1,10 @@
-13. §[^35] (1) A 12. § (1) bekezdése alá tartozó barlangban (barlangszakaszban) történő látogatáshoz az kaphat vagyonkezelői hozzájárulást, aki vagy akinek a túravezetésért felelős személye rendelkezik barlangi túravezető vagy barlangi kutatásvezető képzettséggel, és a tervezett túrát is ő vezeti (a továbbiakban: barlangi túravezető).
+13. §[^38] (1) A 12. § (1) bekezdése alá tartozó barlangban (barlangszakaszban) történő látogatáshoz az kaphat vagyonkezelői hozzájárulást, aki vagy akinek a túravezetésért felelős személye rendelkezik barlangi túravezető vagy barlangi kutatásvezető képzettséggel, és a tervezett túrát is ő vezeti (a továbbiakban: barlangi túravezető).
 
 (2) Az igazgatóság a barlang jellegére, a barlangtúra várható nehézségére és veszélyességére, továbbá a kérelmező túravezető egyéni felkészültségére és tapasztalatára tekintettel az (1) bekezdésben meghatározott képzettségi feltétel alól eseti felmentést adhat, ha ez élet- és balesetvédelmi, valamint természetvédelmi szempontból kedvezőtlen következménnyel előreláthatóan nem jár.
 
 (3) Fokozottan védett területen nyíló barlang esetén a vagyonkezelői hozzájárulásban rögzíteni kell a barlang megközelítéséhez használható útvonalat is.
 
-(4)[^36] Hasznosítási vagy kutatási engedély [Tvt. 51. § (1) bekezdés a) pont illetve (3) bekezdés a) pont] hatálya alá tartozó barlang (barlangszakasz) látogatásához történő vagyonkezelői hozzájárulásról az igazgatóság tájékoztatja az engedélyest.
+(4)[^39] Hasznosítási vagy kutatási engedély [Tvt. 51. § (1) bekezdés a) pont illetve (3) bekezdés a) pont] hatálya alá tartozó barlang (barlangszakasz) látogatásához történő vagyonkezelői hozzájárulásról az igazgatóság tájékoztatja az engedélyest.
 
 (5) A látogatás kizárólag a hozzájárulásban rögzített útvonalon és létszámmal, az abban foglalt természetvédelmi feltételek és korlátozások betartásával történhet.
 
@@ -26,10 +26,10 @@ g) lezárt barlang esetében gondoskodni a barlang kulcsának felelős, annak m�
 
 h) a barlang és műszaki berendezéseinek állapotában észlelt változásokat, valamint a barlangtúra során bekövetkezett rendkívüli eseményeket az igazgatóságnak haladéktalanul bejelenteni.
 
-(7)[^37] A barlangi túravezető a barlangba történő leszállás előtt jogosult a barlangi túrán részt venni kívánó személyt – ha a (6) bekezdés a) pontjában meghatározott feltételeknek nem felel meg – a barlangtúrán való részvételből kizárni, a barlangtúra során pedig a (6) bekezdés b) pontjában meghatározott előírások megsértése miatt a barlangtúrát a legrövidebben befejezni.
+(7)[^40] A barlangi túravezető a barlangba történő leszállás előtt jogosult a barlangi túrán részt venni kívánó személyt – ha a (6) bekezdés a) pontjában meghatározott feltételeknek nem felel meg – a barlangtúrán való részvételből kizárni, a barlangtúra során pedig a (6) bekezdés b) pontjában meghatározott előírások megsértése miatt a barlangtúrát a legrövidebben befejezni.
 
 (8) A barlangtúrán mindenki saját felelősségére vesz részt, de a túravezető felelős a jogszabályokban, a vagyonkezelői hozzájárulásban foglaltak, valamint az élet- és balesetvédelmi, biztonságtechnikai szabályok betartásáért. Kiskorú személy barlangtúrán szülőjével (törvényes képviselőjével) együtt vagy annak írásos engedélyével vehet részt.
 
-[^35]: A 13. § a 3/2007. (I. 22.) KvVM rendelet 6. §-ával megállapított szöveg.
-[^36]: A 13. § (4) bekezdése az 58/2013. (VII. 11.) VM rendelet 24. §-a szerint módosított szöveg.
-[^37]: A 13. § (7) bekezdése az 58/2013. (VII. 11.) VM rendelet 11. §-ával megállapított szöveg.
+[^38]: A 13. § a 3/2007. (I. 22.) KvVM rendelet 6. §-ával megállapított szöveg.
+[^39]: A 13. § (4) bekezdése az 58/2013. (VII. 11.) VM rendelet 24. §-a szerint módosított szöveg.
+[^40]: A 13. § (7) bekezdése az 58/2013. (VII. 11.) VM rendelet 11. §-ával megállapított szöveg.

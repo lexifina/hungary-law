@@ -1,10 +1,12 @@
 ## Eljárási rendelkezések
 
-18/B. §[^86] (1) Valamennyi barlangra vonatkozó természetvédelmi hatósági engedély iránti kérelemnek tartalmaznia kell:
+18/B. §[^90] (1) Valamennyi barlangra vonatkozó természetvédelmi hatósági engedély iránti kérelemnek tartalmaznia kell:
 
 a) a kérelmező nevét, lakcímét (székhelyét); valamint
 
 b) az igazgatási szolgáltatási díj befizetéséről szóló igazolást.
+
+(1a)[^91] Védett mesterséges üregre vonatkozó természetvédelmi hatósági engedély iránti kérelemnek tartalmaznia kell az (1) bekezdésben foglaltakon túlmenően a mesterséges üreg tulajdonosának (vagyonkezelőjének) hozzájárulását a Tvt. 51. § (1) és (3) bekezdésében meghatározott tevékenységhez.
 
 (2) A Tvt. 51. § (1) bekezdés a) pontja szerinti kérelemhez mellékelni kell:
 
@@ -26,7 +28,7 @@ c) ha a tervezett kiépítés közműveket érint, a közmű kezelőjének (üze
 
 (4) A Tvt. 51. § (3) bekezdés a) pontja szerinti kérelemhez mellékelni kell:
 
-a) a kutatásvezető nevét, címét, kutatásvezetői igazolványának számát, továbbá ha kutatásvezető-helyettes kerül megjelölésre, a kutatásvezető helyettesének nevét, címét, kutatásvezetői igazolványának számát és nyilatkozatát a megbízatás elfogadásáról; valamint
+a)[^92] a kutatásvezető nevét, címét, barlangi kutatásvezetői igazolványának számát, továbbá ha kutatásvezető-helyettes kerül megjelölésre, a kutatásvezető helyettesének nevét, címét, barlangi kutatásvezetői igazolványának számát és nyilatkozatát a megbízatás elfogadásáról; valamint
 
 b) a kutatási munka részletes leírását tartalmazó kutatási tervet, a kísérlet, gyűjtés részletes leírását 2 példányban.
 
@@ -52,4 +54,6 @@ a) a barlangban tervezett tevékenységek pontos leírását; valamint
 
 b) a filmforgatásért felelős vezető nevét és címét.
 
-[^86]: A 18/B. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
+[^90]: A 18/B. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
+[^91]: A 18/B. § (1a) bekezdését a 63/2015. (X. 16.) FM rendelet 3. § (3) bekezdése iktatta be.
+[^92]: A 18/B. § (4) bekezdés a) pontja a 63/2015. (X. 16.) FM rendelet 4. § (5) bekezdése szerint módosított szöveg.

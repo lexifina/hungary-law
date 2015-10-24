@@ -22,9 +22,9 @@
 
 ## A barlanggal kapcsolatos hatósági ügyekben illetékes természetvédelmi hatóság neve, címe.
 
-## III. Védelmi helyzet:
+## III.[^101] Védelmi helyzet:
 
-## Védetté nyilvánítás ténye és indoka [kizárólag a Tvt. 48. § (2) bekezdés szerinti mesterséges üreg esetén].
+## Védetté nyilvánítás ténye és indoka [kizárólag a Tvt. 48. § (2) bekezdés szerinti védett mesterséges üreg esetén].
 
 ## A barlang fokozottan védetté nyilvánításának ténye, az erről szóló jogszabály címe és száma, továbbá a fokozottan védetté nyilvánítás indoka.
 
@@ -44,9 +44,9 @@
 
 ## A barlang természetvédelmi oltalom alatt nem álló felszíni területére vonatkozó korlátozások, az erről szóló jogszabály vagy határozat száma, tartalma.
 
-## V. Kezelési adatok:
+## V.[^102] Kezelési adatok:
 
-## A barlang vagyonkezelőjének neve, címe.
+## A barlang vagyonkezelőjének neve, címe [kivéve a Tvt. 48. § (2) bekezdés szerinti védett mesterséges üreg esetén].
 
 ## A barlang természetvédelmi kezelését ellátó szerv neve, címe.
 
@@ -68,6 +68,8 @@
 
 ## 3. A barlangok felszín alatti kiterjedését ábrázoló 1:1000–4000 méretarányú térképek.
 
-2. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^94]
+2. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^103]
 
-[^94]: A 2. számú melléklet az 58/2013. (VII. 11.) VM rendelet 22. §-ával megállapított szöveg.
+[^101]: Az 1. számú melléklet 1. pont III. alpontja a 63/2015. (X. 16.) FM rendelet 4. § (6) bekezdése szerint módosított szöveg.
+[^102]: Az 1. számú melléklet 1. pont V. alpontja a 63/2015. (X. 16.) FM rendelet 4. § (6) bekezdése szerint módosított szöveg.
+[^103]: A 2. számú melléklet az 58/2013. (VII. 11.) VM rendelet 22. §-ával megállapított szöveg.

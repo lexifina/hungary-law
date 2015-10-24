@@ -1,4 +1,4 @@
-10. § (1)[^22] Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.)
+10. § (1)[^23] Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.)
 
 a) 3. § (4) bekezdésében foglaltakat a díjfizetési kötelezettség tekintetében,
 
@@ -20,9 +20,9 @@ h) 86. §-ában foglaltakat az elévülés tekintetében
 
 (2) A díj fizetése tekintetében az Itv. 34. §-ának (2)–(4) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a válaszlevelezőlap helyett készpénzátutalási csekket vagy a felhívás alapján történő banki átutalást kell érteni.
 
-(3)[^23]
+(3)[^24]
 
 (4) A díjakból befolyt bevételeket a Nyilvántartás működtetésének, fenntartásának céljaira kell felhasználni.
 
-[^22]: A 10. § (1) bekezdése az 58/2013. (VII. 11.) VM rendelet 6. §-ával megállapított szöveg.
-[^23]: A 10. § (3) bekezdését az 58/2013. (VII. 11.) VM rendelet 24. §-a hatályon kívül helyezte.
+[^23]: A 10. § (1) bekezdése az 58/2013. (VII. 11.) VM rendelet 6. §-ával megállapított szöveg.
+[^24]: A 10. § (3) bekezdését az 58/2013. (VII. 11.) VM rendelet 24. §-a hatályon kívül helyezte.
