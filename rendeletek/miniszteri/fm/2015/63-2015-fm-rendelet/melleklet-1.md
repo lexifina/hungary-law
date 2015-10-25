@@ -1,3 +1,5 @@
+## 3–4. §[^1]
+
 1. melléklet a 63/2015. (X. 16.) FM rendelethez
 
 ## Természetvédelmi (földtudományi, élővilágvédelmi) jelentőségük alapján védett mesterséges üregek
@@ -81,3 +83,5 @@
 | 7. | Lukácsszállási bánya | Szokolya | 0449/11 | 283543 | 644192 |
 
 | 8. | Nógrádi-úti hevérlyuk | Szokolya | 0427/4 | 284015 | 645232 |
+
+[^1]: A 3–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
