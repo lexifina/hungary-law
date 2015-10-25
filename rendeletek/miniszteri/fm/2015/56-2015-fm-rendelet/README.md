@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-56-20-1
 | --- | --- | --- |
 | 2015-09-25 | 2015-56-20-11.1 | 56/2015. (IX. 24.) FM rendelet |
 | 2015-09-26 | 2015-56-20-11.2 | 2010: CXXX. törvény |
+| 2015-10-25 | 2015-56-20-11.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
