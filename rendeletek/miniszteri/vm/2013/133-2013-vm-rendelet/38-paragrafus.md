@@ -12,6 +12,6 @@ c) az alkalmazni kívánt eszközök típusát, méretét, mennyiségét, és
 
 d) egyenáramú elektromos eszköz alkalmazása esetén a Hhvtv. 46. § (6) és (7) bekezdésében foglaltakat igazoló dokumentumok másolatát.
 
-(4)[^123] Az elektromos eszköz érintésvédelmi felülvizsgálaton való megfelelését a (2) bekezdés időtartama alatt kétévente igazolni kell.
+(4)[^125] Az elektromos eszköz érintésvédelmi felülvizsgálaton való megfelelését a (2) bekezdés időtartama alatt kétévente igazolni kell.
 
-[^123]: A 38. § (4) bekezdését az 56/2015. (IX. 24.) FM rendelet 17. §-a iktatta be.
+[^125]: A 38. § (4) bekezdését az 56/2015. (IX. 24.) FM rendelet 17. §-a iktatta be.
