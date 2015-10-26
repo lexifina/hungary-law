@@ -1,0 +1,253 @@
+# A Kormány 306/2015. (X. 26.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 158. szám, 2015. október 26. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a058d6bf3328603cfcfd6a906d700e4b1c03ef66/dokumentumok/38dfbfbadaeef62f3a67ab5443bac25c1645933e/letoltes)
+
+---
+
+A Kormány 306/2015. (X. 26.) Korm. rendelete
+egyes kormányrendeleteknek a Miniszterelnöki Kabinetiroda létrehozásával összefüggő módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,
+a 2. alcím és a 2. melléklet tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdésében kapott
+felhatalmazás alapján,
+a 16. § tekintetében a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi
+CCII. törvény 24. § (2) bekezdés e) pontjában kapott felhatalmazás alapján,
+a 17. § tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló
+2010. évi XLIII. törvény 75. § (1) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló
+309/2011. (XII. 23.) Korm. rendelet módosítása
+1. §
+A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet
+2. melléklete helyébe az 1. melléklet lép.
+2. §
+A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet
+4. §-ában a„2. melléklet 1., valamint 2.1. pontjában”szövegrész helyébe a„2. mellékletben”szöveg lép.
+2. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+módosítása
+3. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklete
+a 2. melléklet szerint módosul.
+3. A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet módosítása
+4. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 1. pontja helyébe
+a következő rendelkezés lép:
+[A Miniszterelnökséget vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+„1. – a 19/B. § (2) bekezdés a)–e) pontjában foglalt kivétellel – kormányzati tevékenység összehangolásáért,”
+(felelős tagja.)
+5. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 2. alcíme a következő 4/A. §-sal
+egészül ki:
+„4/A. § A miniszter kormányzati tevékenység összehangolásáért való feladat- és hatásköre e rendeletben
+meghatározottak szerint az állam tevékenységének kormányzati, valamint a Kormány társadalompolitikai
+tevékenységének összehangolására terjed ki.”
+6. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 5. §-a helyébe a következő
+rendelkezés lép:
+„5. § A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében
+a) felel a Kormány általános politikája megvalósításának – az állam tevékenységének kormányzati, valamint
+a Kormány társadalompolitikai tevékenységének összehangolásával összefüggő – stratégiai irányításáért,
+b) felel a kormányzati munka tervezéséért,
+
+c) felel a Kormány Országgyűléssel való kapcsolattartásáért,
+d) felel a miniszterelnöki döntésekkel kapcsolatos igazgatási feladatok ellátásáért,
+e) koordinálja az alkotmányos szervek, az önálló szabályozó szervek és az autonóm államigazgatási szervek
+vezetőivel való kapcsolattartást.”
+7. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 6. § (2) bekezdés c) pontja
+helyébe a következő rendelkezés lép:
+(A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a kormányzati munka tervezése
+tekintetében)
+„c) az állam kormányzati, illetve társadalompolitikai tevékenysége szempontjából átfogó megközelítést
+igénylő ügyekben javaslatot, illetve előterjesztést tesz a Kormány részére, kezdeményezi és szervezi a Kormány
+feladatkörében érintett tagjai összehangolt tevékenységét, szakpolitikai előterjesztések és jelentések elkészítését,
+illetve összkormányzati projekt indítását,”
+8. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet a következő II/A. Fejezettel
+egészül ki:
+„II/A. FEJEZET
+ÁLTALÁNOS POLITIKAI KOORDINÁCIÓ
+3/A. A miniszterelnök kabinetfőnökének feladat- és hatásköre
+19/B. § (1) A miniszterelnök kabinetfőnöke a Kormány általános politikai koordinációért felelős tagja.
+(2) A miniszterelnök kabinetfőnöke
+a) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi
+CCII. törvény 15. § (3) bekezdése, 19. § (4) bekezdése és 1. melléklet 12. pontja,
+b) a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény 7/A. § (1) bekezdése,
+c) a Magyar Szent István Rend, a Magyar Becsület Rend, a Magyar Érdemrend és a Magyar Érdemkereszt kitüntetés
+adományozásának rendjéről szóló 224/2014. (IX. 4.) Korm. rendelet,
+d) a Magyar Corvin-láncról és a Magyar Corvin-lánc Testületről szóló 86/2012. (IV. 26.) Korm. rendelet és
+e) a Kossuth-díj, a Széchenyi-díj adományozásának rendjéről, valamint a Magyar Köztársaság Kiváló Művésze,
+a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díj alapításáról és adományozásáról
+szóló 271/2008. (XI. 18.) Korm. rendelet
+tekintetében a Kormány kormányzati tevékenység összehangolásáért felelős tagja.
+19/C. § A miniszterelnök kabinetfőnöke az általános politikai koordinációért való felelőssége keretében
+a) biztosítja és megszervezi a miniszterelnöknek az Alaptörvény 18. cikk (1) bekezdésében meghatározott feladat-
+és hatásköre gyakorlását, e feladat- és hatáskörében felel a Kormány általános politikája kialakításának stratégiai
+irányításáért,
+b) biztosítja és megszervezi a miniszterelnöknek a központi államigazgatási szervekről, valamint a Kormány tagjai és
+az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 18. §-ában meghatározott feladat-
+és hatásköre gyakorlását, e feladat- és hatáskörében részt vesz a Kormány általános politikája végrehajtásának
+ellenőrzésében,
+c) felel az egységes kormányzati kommunikáció megvalósításáért,
+d) felel a miniszterelnök személye körüli feladatok ellátásáért.
+19/D. § (1) A miniszterelnök kabinetfőnöke az általános politikai koordinációért való felelőssége keretében a 19/C. §
+a) és b) pontja tekintetében
+a) szervezi, összehangolja és ellenőrzi a Kormány általános politikája kialakításának a folyamatát, ennek keretében
+a 20. § (1) bekezdése szerinti javaslatokat összegzi, értékeli és javaslatot tesz a miniszterelnök részére,
+b) az átfogó megközelítést igénylő ügyekben javaslatot, illetve előterjesztést tesz a Kormány részére, kezdeményezi
+és szervezi a Kormány feladatkörében érintett tagjai összehangolt tevékenységét, előterjesztés benyújtását kérheti
+a Kormány feladatkörében érintett tagjától,
+c) közreműködik a Kormány általános politikája és a Kormány döntései megvalósulásának értékelésében és
+erről a miniszterelnök részére történő tájékoztatásban, ennek keretében a végrehajtás alakulásáról a Kormány
+feladatkörében érintett tagjától információt kérhet, illetve az érintett szervektől közvetlenül is tájékoztatást kérhet,
+d) a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá
+kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői
+közreműködést kér, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek felé,
+
+e) érvényesíti a kormányzati döntés-előkészítés és a Kormány döntéseinek végrehajtása során a miniszterelnök
+döntéseiből és a Kormány általános politikájából következő politikai szempontokat,
+f) kapcsolatot tart az Országgyűléssel és az országgyűlési képviselőcsoportokkal.
+(2) A miniszterelnök kabinetfőnöke az általános politikai koordinációért való felelőssége keretében az egységes
+kormányzati kommunikáció megvalósítása tekintetében felel
+a) a kormányzati kommunikáció kialakításáért,
+b) a kormányzati honlapok egységes szerkezetének és arculatának kialakításáért, fejlesztéséért, a tartalom
+kialakításáért.
+(3) A miniszterelnök kabinetfőnöke az általános politikai koordinációért való felelőssége keretében ellátja
+a miniszterelnök személye körüli feladatokat, e tekintetben
+a) ellátja a miniszterelnök és a Kormány körüli állami protokoll teendőket, felel a miniszterelnök külföldre történő
+kiutazásaival kapcsolatos feladatok ellátásáért, a nemzetközi állami rendezvények szervezéséért és lebonyolításáért,
+valamint az általa vezetett minisztérium protokoll tevékenységéért,
+b) gondoskodik a köztársasági elnök, a Kormány és a miniszterelnök által adományozható kitüntetésekkel és egyéb
+elismerésekkel kapcsolatos feladatok ellátásáról,
+c) gondoskodik a miniszterelnök kommunikációs felkészítésével kapcsolatos feladatok ellátásáról.”
+9. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 20. § (3) bekezdése helyébe
+a következő rendelkezés lép:
+„(3) A szakpolitikai feladatot ellátó miniszter a feladat- és hatásköre gyakorlása során együttműködik
+a Miniszterelnökséget vezető miniszterrel és a miniszterelnök kabinetfőnökével.”
+10. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 125. és 126. §-a helyébe
+a következő rendelkezések lépnek:
+„125. § Jogszabály megjelölésében
+a) a miniszterelnök általános helyettese esetében a TNM,
+b) a Miniszterelnökséget vezető miniszter esetében az MvM,
+c) a miniszterelnök kabinetfőnöke esetében az MK,
+d) a belügyminiszter esetében a BM,
+e) az emberi erőforrások minisztere esetében az EMMI,
+f) a földművelésügyi miniszter esetében az FM,
+g) a honvédelmi miniszter esetében a HM,
+h) az igazságügyi miniszter esetében az IM,
+i) a külgazdasági és külügyminiszter esetében a KKM,
+j) a nemzetgazdasági miniszter esetében az NGM,
+k) a nemzeti fejlesztési miniszter esetében az NFM
+rövid megjelölést kell alkalmazni.
+126. § A miniszterek helyettesítése a Ksztv. 37. § (2) bekezdésében meghatározott esetekben a következő rend
+szerint történik:
+a) a miniszterelnök általános helyettesét a Miniszterelnökséget vezető miniszter,
+b) a Miniszterelnökséget vezető minisztert az igazságügyi miniszter,
+c) a miniszterelnök kabinetfőnökét a Miniszterelnökséget vezető miniszter,
+d) a belügyminisztert az igazságügyi miniszter,
+e) az emberi erőforrások miniszterét a Miniszterelnökséget vezető miniszter,
+f) a földművelésügyi minisztert a nemzetgazdasági miniszter,
+g) a honvédelmi minisztert a külgazdasági és külügyminiszter,
+h) az igazságügyi minisztert a Miniszterelnökséget vezető miniszter,
+i) a külgazdasági és külügyminisztert a honvédelmi miniszter,
+j) a nemzetgazdasági minisztert a nemzeti fejlesztési miniszter,
+k) a nemzeti fejlesztési minisztert a nemzetgazdasági miniszter
+helyettesíti.”
+
+11. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet a következő 136/B. §-sal
+egészül ki:
+„136/B. § (1) Az egyes kormányrendeleteknek a Miniszterelnöki Kabinetiroda létrehozásával összefüggő
+módosításáról szóló 306/2015. (X. 26.) Korm. rendelet (a továbbiakban: Mód.r.2.) alapján a miniszterelnök
+kabinetfőnökéhez kerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra,
+jogosultságokra és kötelezettségekre kiterjedően – a Miniszterelnöki Kabinetiroda a Miniszterelnökség jogutódja.
+(2) Az (1) bekezdés szerinti jogutódlás kiterjed különösen a miniszterelnök kabinetfőnökéhez kerülő feladat- és
+hatáskörök tekintetében a következő jogviszonyokra:
+a) a vagyoni jogok és kötelezettségek,
+b) a feladatokhoz tartozó ingó és ingatlan eszköz- és infrastruktúra-állomány,
+c) az (1) bekezdésben meghatározott feladatokat ellátó kormánytisztviselők, illetve munkavállalók feletti
+munkáltatói jogok gyakorlása és kötelezettségek teljesítése, valamint kormányzati szolgálati és munkaviszonyuk,
+d) a c) pontban megjelölt kormánytisztviselőkkel és munkavállalókkal összefüggő funkcionális feladatokat ellátó
+kormánytisztviselők, illetve munkavállalók feletti munkáltatói jogok gyakorlása és kötelezettségek teljesítése,
+valamint kormányzati szolgálati és munkaviszonyuk.
+(3) A (1) bekezdésben foglaltak vonatkozásában a Ksztv. 34. § (4) bekezdésétől eltérően a Mód.r.2. alapján
+a miniszterelnök kabinetfőnökéhez kerülő feladat- és hatáskör tekintetében a Ksztv. 34. § (4) bekezdése szerinti
+jogutódlás időpontjának 2015. november 1-jét kell tekinteni azzal, hogy a Mód.r.2. hatálybalépése és 2015.
+november 1-je közötti időben a feladatellátásra és a hatáskör gyakorlására a miniszterelnök kabinetfőnöke jogosult.”
+12. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 1. melléklete a 3. melléklet
+szerint módosul.
+13. §
+A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+a) 6. § (1) bekezdés nyitó szövegrészében a „megvalósításának stratégiai” szövegrész helyébe
+a „megvalósításának – az állam tevékenységének kormányzati, valamint a Kormány társadalompolitikai
+tevékenységének összehangolásával összefüggő – stratégiai”szöveg,
+b) 6. § (5) bekezdés b) pontjában a„részére soron kívül”szövegrész helyébe a„részére – feladat- és hatáskörében –
+soron kívül”szöveg
+lép.
+14. §
+Hatályát veszti a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 6. §
+(4) bekezdése, valamint (5) bekezdés a) és c) pontja.
+4. A Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított
+közbeszerzési rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet módosítása
+15. §
+A Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított közbeszerzési
+rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet 2. §-ában az „a kormányzati tevékenység összehangolásáért
+felelős miniszter”szövegrész helyébe az„az általános politikai koordinációért felelős miniszter”szöveg lép.
+5. Egyes kapcsolódó kormányrendeletek módosítása, illetve hatályon kívül helyezése
+16. §
+A Magyar Corvin-láncról és a Magyar Corvin-lánc Testületről szóló 86/2012. (IV. 26.) Korm. rendelet
+a) 8. § (1) és (2) bekezdésében az „A tudománypolitika koordinációjáért” szövegrész helyébe az „A kormányzati
+tevékenység összehangolásáért”szöveg,
+b) 13. § (1) bekezdésében az „a tudománypolitika koordinációjáért” szövegrész helyébe az „a kormányzati
+tevékenység összehangolásáért”szöveg
+lép.
+17. §
+Az állami vezetői juttatásokról szóló 275/2015. (IX. 21.) Korm. rendelet 4. § (4) bekezdésében az „a közigazgatási
+minőségpolitikáért és személyzetpolitikáért felelős miniszter” szövegrész helyébe az „az általános politikai
+koordinációért felelős miniszter”szöveg lép.
+
+18. §
+Hatályát veszti a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet, valamint egyes
+kapcsolódó kormányrendeletek módosításáról szóló 303/2014. (XII. 5.) Korm. rendelet.
+6. Záró rendelkezések
+19. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
+1. melléklet a 306/2015. (X. 26.) Korm. rendelethez
+„2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez
+A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat
+kötelezően igénybe vevő központi költségvetési szervek
+1. Miniszterelnökség
+2. Miniszterelnöki Kabinetiroda
+3. Belügyminisztérium
+4. Emberi Erőforrások Minisztériuma
+5. Földművelésügyi Minisztérium
+6. Igazságügyi Minisztérium
+7. Közbeszerzési és Ellátási Főigazgatóság
+8. Nemzetgazdasági Minisztérium
+9. Nemzeti Fejlesztési Minisztérium”
+2. melléklet a 306/2015. (X. 26.) Korm. rendelethez
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet. 1. melléklet I. alcíme
+a következő 19a. ponttal egészül ki:
+(Az irányító szerv, a fejezetet irányító szerv, valamint annak vezetője
+Az államháztartás központi alrendszerében)
+„19a. a központi költségvetés XXI. fejezeténél a Miniszterelnöki Kabinetiroda és a Kormánynak a Ktfr. 19/B. §-a
+szerinti tagja,”
+
+3. melléklet a 306/2015. (X. 26.) Korm. rendelethez
+1. A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 1. melléklete az A) részt
+követően a következő AA) résszel egészül ki:
+„AA) Miniszterelnök kabinetfőnöke
+A B
+1 A központi államigazgatási szerv neve A miniszter hatásköre
+2 Nemzeti Kommunikációs Hivatal irányítás
+”
+2. Hatályát veszti a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 1. melléklet
+A) részében foglalt táblázat 8a. sora.
+
+IV. A Magyar Nemzeti Bank elnökének rendeletei,
+valamint az önálló szabályozó szerv vezetőjének
+rendeletei
