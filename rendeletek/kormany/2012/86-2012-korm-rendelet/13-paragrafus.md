@@ -1,6 +1,6 @@
 ## 7. A Magyar Corvin-lánc Iroda
 
-13. § (1)[^4] Az Iroda feladatait a tudománypolitika koordinációjáért felelős miniszter által vezetett minisztérium szervezetén belül látja el.
+13. § (1)[^4] Az Iroda feladatait a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium szervezetén belül látja el.
 
 (2) Az Iroda vezetője a miniszterelnök normatív utasításában kerül kinevezésre, számára díjazás állapítható meg. A díjazás összege legfeljebb az államtitkári illetménynek megfelelő lehet.
 
@@ -20,5 +20,5 @@ f) a kitüntetés eltűnése esetén szükséges, valamint a kitüntetés előá
 
 (4)[^5]
 
-[^4]: A 13. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 667. § c) pontja szerint módosított szöveg.
+[^4]: A 13. § (1) bekezdése a 306/2015. (X. 26.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^5]: A 13. § (4) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 668. §-a hatályon kívül helyezte.
