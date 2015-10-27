@@ -18,9 +18,9 @@
 
 ## 6–8.[^2]
 
-## 9. A Kormány egyetért azzal, hogy a természetes személyek adósságrendezésével kapcsolatos feladatok végrehajtásához szükséges feltételek biztosításáról szóló 1450/2015. (VII. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a X. Igazságügyi Minisztérium fejezet, 3. Igazságügyi Hivatal cím javára a K6. Beruházások kiemelt előirányzaton biztosított 190 000 ezer forintból 140 000 ezer forint a K5. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
+## 9.[^3] A Kormány egyetért azzal, hogy a természetes személyek adósságrendezésével kapcsolatos feladatok végrehajtásához szükséges feltételek biztosításáról szóló 1450/2015. (VII. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a X. Igazságügyi Minisztérium fejezet, 3. Igazságügyi Hivatal cím javára a K6. Beruházások kiemelt előirányzaton biztosított 190 000 ezer forintból 140 000 ezer forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 10.[^3]
+## 10.[^4]
 
 1. melléklet az 1741/2015. (X. 13.) Korm. határozathoz
 
@@ -382,4 +382,5 @@
 
 [^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 6–8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 9. pont az 1779/2015. (X. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
