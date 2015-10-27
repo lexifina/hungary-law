@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2015-06-13 | 2011-368-20-22.36 | 145/2015. (VI. 12.) Korm. rendelet |
 | 2015-07-08 | 2011-368-20-22.37 | 175/2015. (VII. 7.) Korm. rendelet |
 | 2015-09-09 | 2011-368-20-22.38 | 243/2015. (IX. 8.) Korm. rendelet |
+| 2015-10-27 | 2011-368-20-22.39 | 306/2015. (X. 26.) Korm. rendelet |
