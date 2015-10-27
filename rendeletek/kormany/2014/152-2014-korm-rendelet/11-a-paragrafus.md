@@ -1,4 +1,4 @@
-11/A. §[^11] (1) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat.
+11/A. §[^19] (1) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat.
 
 (2) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében felel az Európai Unió politikáiból eredő és az európai uniós tagsághoz kapcsolódó kormányzati feladatok tárcaközi összehangolásáért, ennek keretében
 
@@ -24,10 +24,10 @@ g) összehangolja a Kormány és az Országgyűlés európai uniós ügyekkel ka
 
 h) egyetértési jogkört gyakorol a Magyarország Európai Unió melletti Állandó Képviselete (a továbbiakban: Állandó Képviselet) működésére vonatkozó szabályok meghatározása tekintetében, és ellátja az Állandó Képviselet szakmai irányítását,
 
-i)[^12] javaslatot tesz az Állandó Képviselet vezetőjének és az Állandó Képviseleten működő nagykövetek kinevezésére és felmentésére,
+i)[^20] javaslatot tesz az Állandó Képviselet vezetőjének és az Állandó Képviseleten működő nagykövetek kinevezésére és felmentésére,
 
-j)[^13] kifogással élhet az Állandó Képviseletre nem diplomataként, szakdiplomataként tartós külszolgálatra kihelyezni tervezett személy kihelyezése tekintetében.
+j)[^21] kifogással élhet az Állandó Képviseletre nem diplomataként, szakdiplomataként tartós külszolgálatra kihelyezni tervezett személy kihelyezése tekintetében.
 
-[^11]: A 11/A. §-t a 303/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^12]: A 11/A. § (2) bekezdés i) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^13]: A 11/A. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^19]: A 11/A. §-t a 303/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^20]: A 11/A. § (2) bekezdés i) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^21]: A 11/A. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.

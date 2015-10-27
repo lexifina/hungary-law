@@ -8,7 +8,7 @@ c) a környezet védelmét szolgáló gazdasági szabályozó eszközökre,
 
 d) az integrált szennyezés-megelőzés és az országhatárokon átterjedő káros környezeti hatások megelőzésére,
 
-e)[^45] a környezeti kármentesítésre,
+e)[^55] a környezeti kármentesítésre,
 
 f) a levegő védelmére,
 
@@ -28,4 +28,4 @@ c) segíti a környezeti tudatosság fejlesztését szolgáló programokat és a
 
 d) összehangolja a környezet állapotának felmérését és értékelését szolgáló mérő-, megfigyelő-, ellenőrző-, értékelő- és információs rendszert.
 
-[^45]: A 73. § (1) bekezdés e) pontja a 167/2014. (VII. 17.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^55]: A 73. § (1) bekezdés e) pontja a 167/2014. (VII. 17.) Korm. rendelet 15. §-ával megállapított szöveg.

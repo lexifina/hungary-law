@@ -16,11 +16,11 @@ f) – az informatikáért felelős miniszterrel együttműködve – gondoskodi
 
 g) ellátja az összkormányzati szintű közigazgatási informatikai alkalmazásokkal és nyilvántartások összehangolásával összefüggő igazgatásszervezési feladatokat,
 
-h)[^22] az elektronikus kormányzati stratégiai célokhoz és az infokommunikációs infrastruktúrához történő illeszkedés szempontjának vizsgálatával jóváhagyja az egyes kormányzati informatikai beszerzések és beruházások megvalósításához szükséges közbeszerzésekre irányuló előterjesztéseket, valamint ellenőrizheti a beruházás végrehajtását,
+h)[^32] az elektronikus kormányzati stratégiai célokhoz és az infokommunikációs infrastruktúrához történő illeszkedés szempontjának vizsgálatával jóváhagyja az egyes kormányzati informatikai beszerzések és beruházások megvalósításához szükséges közbeszerzésekre irányuló előterjesztéseket, valamint ellenőrizheti a beruházás végrehajtását,
 
-i)[^23] ellátja az Európai Unió tagállamainak az elektronikus azonosítás területén történő együttműködésével kapcsolatos rendelkezésekről szóló kormányrendelet szerinti tagállami kapcsolattartási pont feladatait.
+i)[^33] ellátja az Európai Unió tagállamainak az elektronikus azonosítás területén történő együttműködésével kapcsolatos rendelkezésekről szóló kormányrendelet szerinti tagállami kapcsolattartási pont feladatait.
 
 (3) A miniszter – jogszabályban meghatározott kivétellel – a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. útján központosított informatikai és telekommunikációs szolgáltatásokat nyújt, gondoskodik az igénybevevők informatikai és telekommunikációs eszközökkel történő ellátásáról és az ilyen eszközök működtetéséről.
 
-[^22]: A 26. § (2) bekezdés h) pontját a 391/2014. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
-[^23]: A 26. § (2) bekezdés i) pontját a 152/2015. (VI. 19.) Korm. rendelet 7. §-a iktatta be.
+[^32]: A 26. § (2) bekezdés h) pontját a 391/2014. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^33]: A 26. § (2) bekezdés i) pontját a 152/2015. (VI. 19.) Korm. rendelet 7. §-a iktatta be.

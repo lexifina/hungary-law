@@ -6,12 +6,12 @@
 
 a) alakítja és végrehajtja a Kormány vagyongazdálkodási politikáját, valamint vizsgálja és ellenőrzi az állami vagyont érintő szerződéseket, a privatizációs, koncessziós, PPP és egyéb, az állami vagyont közvetlenül vagy közvetetten érintő, gazdálkodó szervezetekkel kötött szerződéseket,
 
-b)[^70] gondoskodik a PPP beruházás keretében megvalósult és folyamatban lévő kulturális, infrastrukturális és sportlétesítményekkel összefüggő fejlesztési feladatokról, továbbá e PPP szerződésekben meghatározott, az államot érintő jogokból és kötelezettségekből fakadó feladatokról, valamint e PPP projektek és szerződések kezeléséről,
+b)[^80] gondoskodik a PPP beruházás keretében megvalósult és folyamatban lévő kulturális, infrastrukturális és sportlétesítményekkel összefüggő fejlesztési feladatokról, továbbá e PPP szerződésekben meghatározott, az államot érintő jogokból és kötelezettségekből fakadó feladatokról, valamint e PPP projektek és szerződések kezeléséről,
 
-c)[^71] ellátja a felszámolási eljárásban az adós szervezetek vagyontárgyai elektronikus értékesítési rendszerének létrehozásával, működtetésével és üzemeltetésével kapcsolatos feladatokat,
+c)[^81] ellátja a felszámolási eljárásban az adós szervezetek vagyontárgyai elektronikus értékesítési rendszerének létrehozásával, működtetésével és üzemeltetésével kapcsolatos feladatokat,
 
-d)[^72] gondoskodik – a 61. § (2) bekezdés d) pontjában meghatározott feladatok kivételével – az állami sportlétesítményekkel (sportingatlanokkal) kapcsolatos fejlesztési, rekonstrukciós programokról, valamint az üzemeltetési, működtetési feladatokról. A 61. § (2) bekezdésben nevesített, a nemzeti köznevelési infrastruktúra fejlesztési programokhoz kapcsolódó tanterem, tornaterem, tanuszoda és iskola fejlesztési kérdések vonatkozásában a miniszter előzetesen megkéri a sportpolitikáért felelős miniszter egyetértését. Az olimpiai sportközpontok sportjellegű használata vonatkozásában egyeztet a sportpolitikáért felelős miniszterrel.
+d)[^82] gondoskodik – a 61. § (2) bekezdés d) pontjában meghatározott feladatok kivételével – az állami sportlétesítményekkel (sportingatlanokkal) kapcsolatos fejlesztési, rekonstrukciós programokról, valamint az üzemeltetési, működtetési feladatokról. A 61. § (2) bekezdésben nevesített, a nemzeti köznevelési infrastruktúra fejlesztési programokhoz kapcsolódó tanterem, tornaterem, tanuszoda és iskola fejlesztési kérdések vonatkozásában a miniszter előzetesen megkéri a sportpolitikáért felelős miniszter egyetértését. Az olimpiai sportközpontok sportjellegű használata vonatkozásában egyeztet a sportpolitikáért felelős miniszterrel.
 
-[^70]: A 112. § (2) bekezdés b) pontja a 6/2015. (I. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^71]: A 112. § (2) bekezdés c) pontját a 221/2014. (IX. 4.) Korm. rendelet 833. §-a iktatta be.
-[^72]: A 112. § (2) bekezdés d) pontját a 6/2015. (I. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^80]: A 112. § (2) bekezdés b) pontja a 6/2015. (I. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^81]: A 112. § (2) bekezdés c) pontját a 221/2014. (IX. 4.) Korm. rendelet 833. §-a iktatta be.
+[^82]: A 112. § (2) bekezdés d) pontját a 6/2015. (I. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

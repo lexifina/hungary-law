@@ -1,4 +1,4 @@
-6. § (1) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a Kormány általános politikája megvalósításának stratégiai irányítása tekintetében
+6. § (1)[^8] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a Kormány általános politikája megvalósításának – az állam tevékenységének kormányzati, valamint a Kormány társadalompolitikai tevékenységének összehangolásával összefüggő – stratégiai irányítása tekintetében
 
 a) érvényesíti a kormányzati döntés-előkészítés, az Európai Unió döntéshozatali tevékenysége és a Kormány döntéseinek végrehajtása során az összkormányzati szempontokat, ennek érdekében szervezi és működteti a döntés-előkészítés és a végrehajtás egységes folyamatát, szükség esetén kezdeményezi a Kormány feladatkörében érintett tagjának vagy a Kormánynak az intézkedését,
 
@@ -8,9 +8,9 @@ c) közreműködik a döntések megvalósulásának értékelésében, a végreh
 
 d) összehangolja és biztosítja a Kormány informatikával és e-közigazgatással kapcsolatos politikájának egységes megvalósítását,
 
-e)[^5] felel a fejlesztési banki eszközökkel megvalósuló fejlesztéspolitikáért és előkészíti a Magyar Fejlesztési Bankra vonatkozó jogszabályokat,
+e)[^9] felel a fejlesztési banki eszközökkel megvalósuló fejlesztéspolitikáért és előkészíti a Magyar Fejlesztési Bankra vonatkozó jogszabályokat,
 
-f)[^6] koordinálja az agrár- és zöldbank koncepció kialakítását és működtetését, a takarékszövetkezeti integráció továbbfejlesztésével kapcsolatos kérdéseket.
+f)[^10] koordinálja az agrár- és zöldbank koncepció kialakítását és működtetését, a takarékszövetkezeti integráció továbbfejlesztésével kapcsolatos kérdéseket.
 
 (2) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a kormányzati munka tervezése tekintetében
 
@@ -18,7 +18,7 @@ a) kijelöli a Kormány képviseletéért felelős minisztert az Európai Unió 
 
 b) javaslatot tesz a Kormány munkatervére és törvényalkotási programjára, gondoskodik azok végrehajtásáról,
 
-c) az átfogó megközelítést igénylő ügyekben javaslatot, illetve előterjesztést tesz a Kormány részére, kezdeményezi és szervezi a Kormány feladatkörében érintett tagjai összehangolt tevékenységét, szakpolitikai előterjesztések és jelentések elkészítését, illetve összkormányzati projekt indítását,
+c)[^11] az állam kormányzati, illetve társadalompolitikai tevékenysége szempontjából átfogó megközelítést igénylő ügyekben javaslatot, illetve előterjesztést tesz a Kormány részére, kezdeményezi és szervezi a Kormány feladatkörében érintett tagjai összehangolt tevékenységét, szakpolitikai előterjesztések és jelentések elkészítését, illetve összkormányzati projekt indítását,
 
 d) koordinálja a közigazgatási egyeztetéseket, ennek során gondoskodik a Kormány döntéseiben meghatározott követelmények érvényesítéséről, valamint ellenőrzi, hogy a javasolt döntés végrehajtásának feltételei teljes körűen biztosíthatóak-e,
 
@@ -50,20 +50,21 @@ d) gondoskodik a Kormány által elfogadott törvényalkotási program, törvén
 
 e) ellátja a napirenden kívüli felszólalások, valamint az országgyűlési képviselői interpellációk, kérdések és azonnali kérdések megválaszolásával kapcsolatos szervezési feladatokat, ennek keretében javaslatot tesz a válaszadó személyére, illetve a miniszterelnök megbízása alapján kijelöli a válaszadót.
 
-(4) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében az egységes kormányzati kommunikáció megvalósítása tekintetében felel
-
-a) a kormányzati kommunikáció kialakításáért,
-
-b) a kormányzati honlapok egységes szerkezetének és arculatának kialakításáért, fejlesztéséért, a tartalom kialakításáért.
+(4)[^12]
 
 (5) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében segíti a miniszterelnök tevékenységét, e tekintetben
 
-a)[^7] ellátja a miniszterelnök és a Kormány körüli állami protokoll teendőket, felel a miniszterelnök külföldre történő kiutazásaival kapcsolatos feladatok ellátásáért, a nemzetközi állami rendezvények szervezéséért és lebonyolításáért, valamint az általa vezetett minisztérium protokoll tevékenységéért,
+a)[^13]
 
-b) a miniszterelnök részére soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kér, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek felé,
+b)[^14] a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kér, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek felé,
 
-c) gondoskodik a köztársasági elnök, a Kormány és a miniszterelnök által adományozható kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáról.
+c)[^15]
 
-[^5]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be.
-[^6]: A 6. § (1) bekezdés f) pontját a 122/2015. (V. 26.) Korm. rendelet 44. § (1) bekezdése iktatta be.
-[^7]: A 5. § (5) bekezdés a) pontja a 303/2014. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 6. § (1) bekezdés nyitó szövegrésze a 306/2015. (X. 26.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^9]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be.
+[^10]: A 6. § (1) bekezdés f) pontját a 122/2015. (V. 26.) Korm. rendelet 44. § (1) bekezdése iktatta be.
+[^11]: A 6. § (2) bekezdés c) pontja a 306/2015. (X. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^12]: A 6. § (4) bekezdését a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^13]: A 6. § (5) bekezdés a) pontját a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^14]: A 6. § (5) bekezdés b) pontja a 306/2015. (X. 26.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^15]: A 6. § (5) bekezdés c) pontját a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.

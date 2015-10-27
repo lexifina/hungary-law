@@ -1,4 +1,4 @@
-10. §[^9] (1) A miniszter a közigazgatás-szervezésért való felelőssége keretében előkészíti
+10. §[^17] (1) A miniszter a közigazgatás-szervezésért való felelőssége keretében előkészíti
 
 a) a fővárosi és megyei kormányhivatalok jogállására és működésére,
 
@@ -16,4 +16,4 @@ c) a Kormány feladatkörében érintett tagjával együttműködve kialakítja 
 
 d) gondoskodik a kormányablakok működtetéséhez szükséges feltételrendszer megteremtéséről és a kormányablak-tudástár tartalmának kialakításáról.
 
-[^9]: A 10. § a 221/2014. (IX. 4.) Korm. rendelet 818. §-ával megállapított szöveg.
+[^17]: A 10. § a 221/2014. (IX. 4.) Korm. rendelet 818. §-ával megállapított szöveg.

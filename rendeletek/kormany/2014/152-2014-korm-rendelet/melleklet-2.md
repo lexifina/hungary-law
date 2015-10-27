@@ -22,13 +22,21 @@
 
 |  | 8 | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal | felügyelet |
 
-|  | 8a. | Nemzeti Kommunikációs Hivatal | irányítás |
+|  | 8a. |  |  |
 
 |  | 9 | Nemzetstratégiai Kutatóintézet | irányítás |
 
 |  | 10 | Nemzeti Örökség Intézete | irányítás |
 
 |  | 11 | Magyar Nyelvstratégiai Intézet | irányítás |
+
+## AA) Miniszterelnök kabinetfőnöke
+
+|  |  | A | B |
+
+|  | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
+
+|  | 2 | Nemzeti Kommunikációs Hivatal | irányítás |
 
 ## B) Belügyminiszter
 

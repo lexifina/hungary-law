@@ -1,23 +1,27 @@
-## 126. § A miniszterek helyettesítése a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 37. § (2) bekezdésében meghatározott esetekben az alábbi rend szerint történik:
+## 126. §[^86] A miniszterek helyettesítése a Ksztv. 37. § (2) bekezdésében meghatározott esetekben a következő rend szerint történik:
 
 a) a miniszterelnök általános helyettesét a Miniszterelnökséget vezető miniszter,
 
 b) a Miniszterelnökséget vezető minisztert az igazságügyi miniszter,
 
-c) a belügyminisztert az igazságügyi miniszter,
+c) a miniszterelnök kabinetfőnökét a Miniszterelnökséget vezető miniszter,
 
-d) az emberi erőforrások miniszterét a Miniszterelnökséget vezető miniszter,
+d) a belügyminisztert az igazságügyi miniszter,
 
-e) a földművelésügyi minisztert a nemzetgazdasági miniszter,
+e) az emberi erőforrások miniszterét a Miniszterelnökséget vezető miniszter,
 
-f) a honvédelmi minisztert a külgazdasági és külügyminiszter,
+f) a földművelésügyi minisztert a nemzetgazdasági miniszter,
 
-g) az igazságügyi minisztert a Miniszterelnökséget vezető miniszter,
+g) a honvédelmi minisztert a külgazdasági és külügyminiszter,
 
-h) a külgazdasági és külügyminisztert a honvédelmi miniszter,
+h) az igazságügyi minisztert a Miniszterelnökséget vezető miniszter,
 
-i) a nemzetgazdasági minisztert a nemzeti fejlesztési miniszter,
+i) a külgazdasági és külügyminisztert a honvédelmi miniszter,
 
-j) a nemzeti fejlesztési minisztert a nemzetgazdasági miniszter
+j) a nemzetgazdasági minisztert a nemzeti fejlesztési miniszter,
+
+k) a nemzeti fejlesztési minisztert a nemzetgazdasági miniszter
 
 helyettesíti.
+
+[^86]: A 126. § a 306/2015. (X. 26.) Korm. rendelet 10. §-ával megállapított szöveg.

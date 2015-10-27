@@ -1,5 +1,3 @@
-## 19/A. §[^19] A miniszter a postaügyért való felelőssége keretében előkészíti a postai tevékenységre és a postai szolgáltatások ellátására vonatkozó jogszabályokat.
-
 ## III. Fejezet
 
 ## SZAKPOLITIKAI FELADATOT ELLÁTÓ MINISZTEREK FELADAT- ÉS HATÁSKÖRE
@@ -30,6 +28,6 @@ j) gondoskodik – a statisztikáról szóló törvényben meghatározottak szer
 
 (2) A szakpolitikai feladatot ellátó miniszter – ha jogszabály eltérően nem rendelkezik – irányítja, illetve felügyeli az 1. mellékletben meghatározott központi államigazgatási szerveket.
 
-(3) A szakpolitikai feladatot ellátó miniszter a feladat- és hatásköre gyakorlása során együttműködik a kormányzati tevékenység összehangolásáért felelős miniszterrel.
+(3)[^29] A szakpolitikai feladatot ellátó miniszter a feladat- és hatásköre gyakorlása során együttműködik a Miniszterelnökséget vezető miniszterrel és a miniszterelnök kabinetfőnökével.
 
-[^19]: A 19/A. §-t a 167/2014. (VII. 17.) Korm. rendelet 12. §-a iktatta be.
+[^29]: A 20. § (3) bekezdése a 306/2015. (X. 26.) Korm. rendelet 9. §-ával megállapított szöveg.

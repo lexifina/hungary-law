@@ -1,4 +1,4 @@
-## III/A. Fejezet[^75]
+## III/A. Fejezet[^87]
 
 ## A KORMÁNY KÉPVISELETE
 
@@ -12,4 +12,4 @@ b) a sztrájkkövetelés alapvető tartalma a feladat- és hatáskörét érinti
 
 (3) Ha az (1) bekezdés alapján a Kormány képviseletre jogosult tagja nem állapítható meg, a Kormányt a sztrájkkal kapcsolatos egyeztető eljárásban a társadalmi párbeszédért felelős miniszter képviseli.
 
-[^75]: A III/A. Fejezetet (126/A. §) a 6/2015. (I. 29.) Korm. rendelet 3. §-a iktatta be.
+[^87]: A III/A. Fejezetet (126/A. §) a 6/2015. (I. 29.) Korm. rendelet 3. §-a iktatta be.
