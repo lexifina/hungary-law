@@ -6,7 +6,7 @@
 
 (3) A juttatások költségvetési fedezetét – ha törvény, kormányrendelet vagy e rendelet eltérően nem rendelkezik – annak a szervnek a költségvetési fejezetében kell tervezni, amelyben a jogosult a tisztségéből, megbízatásából adódó feladatait teljesíti (a továbbiakban: munkáltató).
 
-(4) A miniszterelnök külföldi kiküldetésével kapcsolatos kiadások költségvetési fedezetét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell tervezni.
+(4)[^1] A miniszterelnök külföldi kiküldetésével kapcsolatos kiadások költségvetési fedezetét az általános politikai koordinációért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell tervezni.
 
 (5) Az állami vezető a juttatásokat a Ksztv. 7/A. §-a szerint kiállított igazolvánnyal veheti igénybe.
 
@@ -15,3 +15,5 @@
 (7) A miniszterelnök egyéni elbírálás alapján, egyedileg is engedélyezheti az e rendelet szerinti juttatásokat a 2. és 3. §-ban meghatározott személyeknek, valamint a Kormány által felügyelt, a Kormány vagy a Kormány tagja irányítása alá tartozó államigazgatási szervnél foglalkoztatott vezetői munkakört betöltő kormánytisztviselő, politikai főtanácsadó és politikai tanácsadó részére. Ebben az esetben nem kell az 5. § szerinti engedélyt beszerezni.
 
 (8) Ha a 2. §-ban, a 3. §-ban vagy a (7) bekezdésben meghatározott jogosult személy az e rendelet szerinti juttatást jogalap nélkül vette fel, gondoskodni kell a jogalap nélkül felvett juttatás törvény szerinti visszatérítésének a kezdeményezéséről.
+
+[^1]: A 4. § (4) bekezdése a 306/2015. (X. 26.) Korm. rendelet 17. §-a szerint módosított szöveg.

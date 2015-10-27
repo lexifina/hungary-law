@@ -4,6 +4,6 @@
 
 (2) A Rendelet 9. § (2) bekezdése, valamint 10. § (3) bekezdése alapján az e rendelet hatálybalépése előtt kiadott személyes és további (szervezeti egységhez kirendelt) gépkocsihasználatra vonatkozó engedélyeket a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter e rendelet hatálybalépését követő 45 napon belül felülvizsgálja, és a további gépkocsihasználat indokoltsága esetén új engedélyt ad ki, ellenkező esetben a korábbi engedély a fenti határnapot követő 30. napon érvényét veszíti.
 
-(3)[^1] A (2) bekezdés alapján kiadott új engedéllyel a Rendelet 9. § (2) bekezdése szerint jogosult használhatja az e rendelet hatálybalépését megelőzően számára személyes gépkocsihasználatra kiadott kategóriájú személygépkocsit.
+(3)[^2] A (2) bekezdés alapján kiadott új engedéllyel a Rendelet 9. § (2) bekezdése szerint jogosult használhatja az e rendelet hatálybalépését megelőzően számára személyes gépkocsihasználatra kiadott kategóriájú személygépkocsit.
 
-[^1]: A 14. § (3) bekezdése a 295/2015. (X. 8.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^2]: A 14. § (3) bekezdése a 295/2015. (X. 8.) Korm. rendelet 13. §-a szerint módosított szöveg.
