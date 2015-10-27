@@ -140,19 +140,21 @@
 
 1. Miniszterelnökség
 
-2. Belügyminisztérium
+2. Miniszterelnöki Kabinetiroda
 
-3. Emberi Erőforrások Minisztériuma
+3. Belügyminisztérium
 
-4. Földművelésügyi Minisztérium
+4. Emberi Erőforrások Minisztériuma
 
-5. Igazságügyi Minisztérium
+5. Földművelésügyi Minisztérium
 
-6. Közbeszerzési és Ellátási Főigazgatóság
+6. Igazságügyi Minisztérium
 
-7. Nemzetgazdasági Minisztérium
+7. Közbeszerzési és Ellátási Főigazgatóság
 
-8. Nemzeti Fejlesztési Minisztérium
+8. Nemzetgazdasági Minisztérium
+
+9. Nemzeti Fejlesztési Minisztérium
 
 [^17]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^18]: A 2. melléklet a 221/2014. (IX. 4.) Korm. rendelet 601. §-ával megállapított szöveg.
+[^18]: A 2. melléklet a 306/2015. (X. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
