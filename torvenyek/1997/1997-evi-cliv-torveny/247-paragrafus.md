@@ -213,3 +213,95 @@ rendeletben állapítsa meg.
 a) az egészségügyi válsághelyzeti terv
 
 aa) elkészítésének, egyeztetésének, elfogadásának, módosításának eljárási szabályait,
+
+ab) tartalmi követelményeire vonatkozó részletes szabályokat,
+
+b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
+
+c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat, továbbá az üzemeltetéshez szükséges képesítési előírásokat,
+
+d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,
+
+e) a gyermekágyas és az újszülöttellátás szabályait
+
+f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is ellátható tevékenységek felelősségi, szakmai, szakképesítési és szakképzettségi feltételeit,
+
+g) az egészségügyi tevékenységet e törvény alapján felügyelet mellett végzők felügyeletének módjával, illetve a felügyelet szintjével kapcsolatos szabályokat,
+
+h) a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
+
+ha) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
+
+hb) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
+
+hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
+
+hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
+
+i) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
+
+j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv jóváhagyását is – fizetendő térítési díj mértékét, valamint a mentési terv elkészítéséért fizetendő térítési díjnál figyelembe veendő körülményeket, szempontokat és a megfizetésre vonatkozó rendelkezéseket,
+
+k) a Központi Implantátumregiszter működésére vonatkozó részletes szabályokat és a 101/C. § (1) bekezdése szerinti nyilvántartási kötelezettség alól – a 101/C. § (1) bekezdésében meghatározott egyes adatok vagy valamennyi adat tekintetében – mentesülő implantátumok körét,
+
+l)
+
+m) a sugárszennyezett vagy arra gyanús személy egészségügyi ellátásának, valamint a sugárszennyezett személy elkülönítésének részletes szabályait,
+
+n) egyes, környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegek és létesítmények vonatkozásában
+
+na) a fertőzés kockázatának csökkentésére és megelőzésére irányuló közegészségügyi előírásokat,
+
+nb) a kockázatbecslés, kockázatelemzés szabályait
+
+rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
+
+(4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a 2013. május 1-jén átvételre kerülő egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
+
+(5) Felhatalmazást kap
+
+a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
+
+b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
+
+c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
+
+ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
+
+cb) az egészségügyi szolgáltatók működési engedélyezésével és hatósági nyilvántartásba vételével kapcsolatosan,
+
+cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
+
+cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
+
+ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
+
+cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
+
+cg) az egészségfejlesztési programok akkreditációjáért,
+
+ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
+
+ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
+
+cj)
+
+ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
+
+fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
+
+d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a közoktatási intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat
+
+rendeletben állapítsa meg.
+
+(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
+
+b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
+
+c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
+
+d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;

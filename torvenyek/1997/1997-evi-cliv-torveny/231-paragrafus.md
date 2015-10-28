@@ -2,4 +2,4 @@
 
 (2) Egészségügyi válsághelyzet idején a Kormány gondoskodik az Állami Egészségügyi Tartalék folyamatos pótlásának költségvetési fedezetéről, amelyhez szükséges forrásokról utólag el kell számolni. Ez esetben az eszközök és anyagok beszerzése nem tartozik a közbeszerzésekre vonatkozó rendelkezések hatálya alá.
 
-(3) Egészségügyi válsághelyzet esetén a szükségessé váló készletek beszerzéséről az Állami Egészségügyi Tartalék kezelője gondoskodik.
+(3) Egészségügyi válsághelyzet esetén a szükségessé váló készletek soron kívüli beszerzéséről az Állami Egészségügyi Tartalék kezelője gondoskodik.

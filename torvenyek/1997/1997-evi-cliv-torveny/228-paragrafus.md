@@ -12,7 +12,9 @@ b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kia
 
 (3) Különleges jogrend bevezetésekor az egészségügyi válsághelyzeti ellátásra vonatkozó rendelkezéseket kell alkalmazni az egész országra kiterjedően, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
 
-(4) Különleges jogrenden kívüli eseményt
+(3a) Ha a tömeges bevándorlás okozta válsághelyzet elrendelésére a menedékjogról szóló 2007. évi LXXX. törvény 80/A. § (1) bekezdés a) vagy b) pontja alapján, illetve c) pontjában meghatározott közegészségügyi okból kerül sor, az egészségügyi válsághelyzeti ellátásra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy ilyenkor nem szükséges az egészségügyi válsághelyzet kihirdetése.
+
+(4) A (3) és (3a) bekezdésen kívüli eseményt
 
 a) ha a (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet
 

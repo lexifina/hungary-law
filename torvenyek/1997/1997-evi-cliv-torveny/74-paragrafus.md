@@ -23,11 +23,3 @@ h) meghatározott állatok tartása.
 (3) Az egészségügyi államigazgatási szervnek a (2) bekezdés alapján hozott határozata – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 
 (4) A (2) bekezdés b) és f)–h) pontjai alapján hozott határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell.
-
-## IV. Fejezet
-
-## AZ EGÉSZSÉGÜGYI ELLÁTÁSOK RENDSZERE
-
-1. CÍM
-
-Működési elvek
