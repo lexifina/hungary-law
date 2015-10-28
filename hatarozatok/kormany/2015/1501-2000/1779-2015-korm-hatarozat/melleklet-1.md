@@ -32,9 +32,7 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozat 4. pontjában a „Bethlen Gábor Alapba átcsoportosított 1828,2 millió forint és a Magyar Nemzeti Múzeum részére átcsoportosított 434,3 millió forint tekintetében 2016. június 30.” szövegrész helyébe a „Magyar Nemzeti Múzeum részére átcsoportosított 434,3 millió forint tekintetében 2016. június 30., a Bethlen Gábor Alapba átcsoportosított 1828,2 millió forint tekintetében 2017. március 31.” szöveg lép.
-
-## 3. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1741/2015. (X. 13.) Korm. határozat 9. pontjában a „K5. Dologi kiadások” szövegrész helyébe a „K3. Dologi kiadások” szöveg lép.
+## 2–3.[^1]
 
 ## 4. A Kormány a 2014. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 1681/2015. (IX. 24.) Korm. határozatban (a továbbiakban: Korm. határozat) meghatározottaktól eltérően engedélyezi, hogy a Korm. határozat 1. pont c) alpontjában elrendelt, a Korm. határozat 2. melléklete szerinti átcsoportosításból a XXXIV. Magyar Művészeti Akadémia (a továbbiakban: MMA) fejezettől elvont 344 829 ezer forint összegű kötelezettségvállalással nem terhelt költségvetési maradvány a Hild villa rekonstrukciója érdekében az MMA-nál kerüljön felhasználásra.
 
@@ -43,3 +41,5 @@
 XI. Miniszterelnökség
 
 XLII. A költségvetés közvetlen bevételei és kiadása LXV. Bethlen Gábor Alap
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
