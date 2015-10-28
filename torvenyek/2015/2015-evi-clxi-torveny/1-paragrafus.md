@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és az Egyesült Nemzetek Menekültügyi Főbiztosának Hivatala közötti Megállapodás módosításáról szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
