@@ -7,11 +7,3 @@
 (4) A Megállapodás a Jegyzőkönyvben foglalt módosításokkal egységes szerkezetbe foglalt hiteles angol és magyar nyelvű szövegének közzétételéről a külpolitikáért felelős miniszter az igazságügyért felelős miniszter egyetértésével gondoskodik.
 
 (5) E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
