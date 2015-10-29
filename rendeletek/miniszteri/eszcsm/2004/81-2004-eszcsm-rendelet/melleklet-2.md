@@ -48,6 +48,6 @@
 
 |  | jelentkező aláírása |
 
-2. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^21]
+2. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^23]
 
-[^21]: A 2. számú melléklete a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 39/2015. (VIII. 28.) EMMI rendelet 10. § f) pontja szerint módosított szöveg.
+[^23]: A 2. számú melléklete a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 39/2015. (VIII. 28.) EMMI rendelet 10. § f) pontja szerint módosított szöveg.
