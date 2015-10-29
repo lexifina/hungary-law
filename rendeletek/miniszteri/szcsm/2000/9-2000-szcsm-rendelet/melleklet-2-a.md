@@ -24,6 +24,6 @@
 
 | 12. A továbbképzést szervező személy neve, telefonszáma: |  |
 
-2/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^112]
+2/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^113]
 
-[^112]: A 2/A. számú mellékletet a 41/2012. (XI. 28.) EMMI rendelet 11. § (2) bekezdése iktatta be.
+[^113]: A 2/A. számú mellékletet a 41/2012. (XI. 28.) EMMI rendelet 11. § (2) bekezdése iktatta be.

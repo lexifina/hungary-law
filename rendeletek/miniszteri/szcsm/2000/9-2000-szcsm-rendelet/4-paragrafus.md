@@ -1,10 +1,10 @@
-4. § (1)[^20] Minősített továbbképzési programot – a továbbképzés céljából szervezett szakmai tanfolyam kivételével – bármely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet szervezhet. Szakmai tanfolyam szervezésére csak az a szervezet jogosult, amelyik a felnőttképzésről szóló 2001. évi CI. törvény (a továbbiakban: Fktv.) 8. §-ában szabályozott felnőttképzést folytató intézmények nyilvántartásában szerepel.
+4. § (1)[^20] Minősített továbbképzési programot bármely természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet szervezhet.
 
 (1a)[^21] Ha a szervezet továbbképzés-szervezési jogát a 11/A. § alapján felfüggesztik, az (1) bekezdéstől eltérően a felfüggesztés időtartama alatt nem jogosult továbbképzés szervezésére.
 
 (2)[^22] A továbbképzési programok minősítését, a továbbképzési pontértékek meghatározását a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: Hivatal) végzi. A minősítés a 3. § (5) bekezdésének a)–b) pontja szerinti program esetén három évre, c)–e) pontja szerinti program esetében egyszeri alkalomra érvényes.
 
-(3)[^23] Az Intézet a 3. § (5) bekezdés a)–b) pontjában meghatározott és minősített továbbképzések jegyzékét megküldi az állami szakképzési és felnőttképzési szervnek, amely – a jegyzékben megjelölt továbbképzés szervezőjének kérésére – kiadja a programakkreditációt igazoló tanúsítványt.
+(3)[^23]
 
 (4)[^24] A továbbképzési program minősítése a program benyújtásával egyidejűleg kérhető. A minősítési kérelmet három példányban, a Hivatal honlapján közzétett adatlapon kell a Hivatal részére benyújtani. A minősítési kérelemhez csatolni kell a minősítési díj befizetését igazoló dokumentum másolatát.
 
@@ -32,10 +32,10 @@ beszámol, illetve bejelentést tesz az Intézet részére.
 
 (10)[^32] Az a továbbképző szervezet, amelynek továbbképzési jogát a 11/A. § alapján felfüggesztették, továbbképzési programot a felfüggesztés időtartama alatt nem indíthat.
 
-[^20]: A 4. § (1) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4. § (1) bekezdése a 48/2015. (X. 28.) EMMI rendelet 2. §-ával megállapított szöveg.
 [^21]: A 4. § (1a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (2) bekezdése iktatta be.
 [^22]: A 4. § (2) bekezdésének utolsó mondatát a 8/2001. (XII. 20.) SZCSM rendelet 3. §-ának (1) bekezdése iktatta be. A 4. § (2) bekezdése a 16/2003. (IV. 9.) ESZCSM rendelet 20. § (4) bekezdés a) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
-[^23]: A 4. § új (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti (3)–(8) bekezdés számozását (4)–(9) bekezdésre változtatva. A 4. § (3) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^23]: A 4. § új (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti (3)–(8) bekezdés számozását (4)–(9) bekezdésre változtatva. A 4. § (3) bekezdését a 48/2015. (X. 28.) EMMI rendelet 5. §-a hatályon kívül helyezte.
 [^24]: A 4. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított, a 39/2015. (VIII. 28.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.
 [^25]: A 4. § (5) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^26]: A 4. § (6) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított, a 19/2014. (III. 13.) EMMI rendelet 45. § (2) bekezdés a) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 5. § c) pontja szerint módosított szöveg.

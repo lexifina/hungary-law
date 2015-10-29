@@ -26,6 +26,6 @@
 
 ## a továbbképzés szervezőjének cégszerű aláírása
 
-3. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^113]
+3. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^114]
 
-[^113]: A 3. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 41/2012. (XI. 28.) EMMI rendelet 12. § (1) bekezdés c) pontja és 13. § p) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 5. § l) pontja szerint módosított szöveg.
+[^114]: A 3. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 41/2012. (XI. 28.) EMMI rendelet 12. § (1) bekezdés c) pontja és 13. § p) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 5. § l) pontja szerint módosított szöveg.
