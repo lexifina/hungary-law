@@ -10,7 +10,7 @@ Melléklet a 25/2003. (V. 13.) ESZCSM rendelethez
 
 A hivatásos gondnoki képzés, továbbképzés tematikája
 
-1. A képzés főbb témakörei
+1.[^6] A képzés főbb témakörei
 
 – az Európai Szociális Karta, valamint az ENSZ Gazdasági, Szociális és Kulturális Jogok Nemzetközi Egyezségokmánya előírásai,
 
@@ -20,7 +20,7 @@ A hivatásos gondnoki képzés, továbbképzés tematikája
 
 – az egészségügyi törvényben a pszichiátriai betegekre vonatkozó előírások,
 
-– a szellemi fogyatékosokra, illetve a halmozottan fogyatékosokra vonatkozó előírások,
+– az értelmi fogyatékosokra, illetve a halmozottan fogyatékosokra vonatkozó előírások,
 
 – a szociális törvénynek, valamint végrehajtási rendeleteinek a gondnokoltak jogaira és kötelezettségeire vonatkozó előírásai,
 
@@ -54,7 +54,7 @@ A képzésben részt vevőket fel kell készíteni:
 
 – a szociális gondoskodás rendszere 1 óra (ea.)
 
-3.2. A gondnok feladata és felelőssége:
+3.2.[^7] A gondnok feladata és felelőssége:
 
 – a gondnok feladatai és felelőssége 1 óra (ea.)
 
@@ -62,9 +62,9 @@ A képzésben részt vevőket fel kell készíteni:
 
 – a hivatásos gondnok gyakorlati teendői 6 óra (gyakorlat)
 
-– a Ptk. (1959. évi IV. tv.) személyi és vagyoni ügyekre vonatkozó alapvető szabályai
+– a Polgári Törvénykönyv személyi és vagyoni ügyekre vonatkozó alapvető szabályai
 
-= a személyek joga (jogképesség, cselekvőképesség) 1 óra (ea.)
+= a személyek joga (jogképesség, cselekvőképesség, támogatott döntéshozatal) 1 óra (ea.)
 
 = a személyhez és szellemi alkotáshoz fűződő jogok, az önrendelkezési jog az egészségügyi ellátásban 1 óra (ea.)
 
@@ -76,7 +76,7 @@ A képzésben részt vevőket fel kell készíteni:
 
 = bank- és hitelviszonyok 1 óra (ea.)
 
-– a gazdasági társaságokról szóló 1997. évi CXLIV. törvény gondnokoltakat érintő szabályai 2 óra (ea.)
+– a gazdasági társaságokról szóló szabályozás gondnokoltakat érintő rendelkezései 2 óra (ea.)
 
 – nyilvántartások, iratkezelés, adatvédelem 1 óra (gyak. + ea.)
 
@@ -85,3 +85,5 @@ A képzésben részt vevőket fel kell készíteni:
 – számonkérés írásbeli teszt formájában 1 óra
 
 [^5]: A 8. §-t a 19/2014. (III. 13.) EMMI rendelet 46. §-a iktatta be.
+[^6]: A melléklet 1. pontja a 48/2015. (X. 28.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
+[^7]: A melléklet 3. pont 3.2. alpontja a 48/2015. (X. 28.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
