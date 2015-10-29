@@ -4,9 +4,9 @@ a) segítséget nyújt a gyermeknek, illetve a szülőnek ügyeik hatékony int�
 
 b) tájékoztatja a gyermeket, illetve a szülőt az igénybe vehető jogi képviselet lehetőségéről,
 
-c)[^73] a gyámhivatal felkérésére a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve környezettanulmányt készít,
+c)[^74] a gyámhivatal felkérésére a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve környezettanulmányt készít,
 
-d)[^74] a gyámhivatal felkérésére a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 47/A. § (6) bekezdése alapján tájékoztatást nyújt az örökbefogadott gyermek fejlődéséről, körülményeiről és a családba való beilleszkedéséről.
+d)[^75] a gyámhivatal felkérésére a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 47/A. § (6) bekezdése alapján tájékoztatást nyújt az örökbefogadott gyermek fejlődéséről, körülményeiről és a családba való beilleszkedéséről.
 
-[^73]: A 13. § c) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 11. §-a iktatta be, szövege a 11/2013. (II. 7.) EMMI rendelet 44. § c) pontja szerint módosított szöveg.
-[^74]: A 13. § d) pontját a 19/2014. (III. 13.) EMMI rendelet 6. §-a iktatta be.
+[^74]: A 13. § c) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 11. §-a iktatta be, szövege a 11/2013. (II. 7.) EMMI rendelet 44. § c) pontja szerint módosított szöveg.
+[^75]: A 13. § d) pontját a 19/2014. (III. 13.) EMMI rendelet 6. §-a iktatta be.

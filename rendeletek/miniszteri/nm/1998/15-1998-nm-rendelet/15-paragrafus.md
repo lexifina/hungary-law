@@ -1,8 +1,8 @@
 15. § (1) A gyermekjóléti szolgálat működésének megkezdéséről, tevékenységének céljáról és tartalmáról, továbbá elérhetőségéről, valamint szolgáltatásai igénybevételének módjáról tájékoztatja a települési, településrész lakosságát, továbbá a 14. § (3) bekezdésének a) pontjában meghatározott személyeket és intézményeket.
 
-(2)[^80] A 14. § (3) bekezdésének a) pontjában meghatározott személyekkel és intézményekkel való együttműködés, valamint tevékenységük összehangolása érdekében, továbbá a Gyvt. 17. §-ának (5) bekezdése alapján a gyámhivatal kezdeményezésére a gyermekjóléti szolgálat esetmegbeszélést tart. Az esetmegbeszélésen elhangzottakról feljegyzést kell készíteni.
+(2)[^81] A 14. § (3) bekezdésének a) pontjában meghatározott személyekkel és intézményekkel való együttműködés, valamint tevékenységük összehangolása érdekében, továbbá a Gyvt. 17. §-ának (5) bekezdése alapján a gyámhivatal kezdeményezésére a gyermekjóléti szolgálat esetmegbeszélést tart. Az esetmegbeszélésen elhangzottakról feljegyzést kell készíteni.
 
-(3)[^81] Az esetmegbeszélés történhet
+(3)[^82] Az esetmegbeszélés történhet
 
 a) lehetőség szerint a családot és a családdal foglalkozó szakembereket is bevonva, esetkonferencia, egy adott család ügyében tartott megbeszélés,
 
@@ -10,25 +10,25 @@ b) a gyermekjóléti szolgálat és a jelzőrendszer tagjainak képviselői köz
 
 keretében.
 
-(4)[^82] Az esetmegbeszélés állandó meghívottja az illetékes védőnő, bölcsőde, óvoda munkatársa, iskolai gyermek- és ifjúságvédelmi felelős, a családsegítő szolgálat, illetve a nevelési tanácsadó munkatársa.
+(4)[^83] Az esetmegbeszélés állandó meghívottja az illetékes védőnő, bölcsőde, óvoda munkatársa, iskolai gyermek- és ifjúságvédelmi felelős, a családsegítő szolgálat, illetve a nevelési tanácsadó munkatársa.
 
-(5)[^83] Az esetmegbeszélésre a fiatalkorúak pártfogó felügyelőjét meg kell hívni, ha olyan család ügyét tárgyalják, melynek bármely tagja fiatalkorúak pártfogó felügyelete alatt áll.
+(5)[^84] Az esetmegbeszélésre a fiatalkorúak pártfogó felügyelőjét meg kell hívni, ha olyan család ügyét tárgyalják, melynek bármely tagja fiatalkorúak pártfogó felügyelete alatt áll.
 
-(5a)[^84] Az esetmegbeszélésre meg kell hívni
+(5a)[^85] Az esetmegbeszélésre meg kell hívni
 
 a) a megelőző pártfogó felügyelőt, ha olyan család ügyét tárgyalják, amelynek bármelyik tagja megelőző pártfogó felügyelet alatt áll,
 
 b) a pártfogó felügyelői szolgálatot, ha a gyermek kockázatértékelése alapján a gyermek bűnmegelőzési szempontú veszélyeztetettsége legalább közepes fokú.
 
-(6)[^85] A gyermekvédelmi rendszerhez kapcsolódó más személyeket, illetve intézmények képviselőit szükség szerint kell meghívni, így különösen akkor, ha részvételük az egyes gyermekkel kapcsolatos probléma megoldásához, illetve a gyermekek nagyobb csoportját érintő veszélyeztető tényezők megszüntetését célzó cselekvési terv kidolgozásához szükséges.
+(6)[^86] A gyermekvédelmi rendszerhez kapcsolódó más személyeket, illetve intézmények képviselőit szükség szerint kell meghívni, így különösen akkor, ha részvételük az egyes gyermekkel kapcsolatos probléma megoldásához, illetve a gyermekek nagyobb csoportját érintő veszélyeztető tényezők megszüntetését célzó cselekvési terv kidolgozásához szükséges.
 
-(7)[^86] A gyermekjóléti szolgálat minden év március 31-ig tanácskozást szervez, amelyen
+(7)[^87] A gyermekjóléti szolgálat minden év március 31-ig tanácskozást szervez, amelyen
 
 a) a jelzőrendszer tagjainak írásos tájékoztatóit figyelembe véve átfogóan értékelik a jelzőrendszer éves működését,
 
 b) áttekintik a település gyermekjóléti alapellátásának valamennyi formáját, és szükség szerint javaslatot tesznek működésük javítására.
 
-(8)[^87] A (7) bekezdés szerinti tanácskozásra meg kell hívni
+(8)[^88] A (7) bekezdés szerinti tanácskozásra meg kell hívni
 
 a) a települési önkormányzat polgármesterét, illetve a képviselő-testület tagját (tagjait), vagy a jegyzőt,
 
@@ -38,22 +38,22 @@ c) a településen gyermekjóléti, gyermekvédelmi ellátást biztosító inté
 
 d) a jelzőrendszer tagjainak képviselőit,
 
-e)[^88] a gyámhivatal munkatársait,
+e)[^89] a gyámhivatal munkatársait,
 
 f) a településen működő gyermekvédelmi szakellátást nyújtó szolgáltató képviselőjét,
 
-g)[^89] a fiatalkorúak pártfogó felügyelőjét, megelőző pártfogó felügyelőjét,
+g)[^90] a fiatalkorúak pártfogó felügyelőjét, megelőző pártfogó felügyelőjét,
 
-h)[^90] a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatalban működő gyermek- és ifjúságvédelmi koordinátort.
+h)[^91] a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatalban működő gyermek- és ifjúságvédelmi koordinátort.
 
-[^80]: A 15. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (1) bekezdésével megállapított, a 31/2009. (XII. 22.) SZMM rendelet 3. §-a szerint módosított szöveg.
-[^81]: A 15. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3)–(6) bekezdés jelölését (4)–(7) bekezdésre változtatva.
-[^82]: A 15. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése.
-[^83]: A 15. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése, szövege a 99. § (2) bekezdésének 1. pontja szerint módosított szöveg.
-[^84]: A 15. § (5a) bekezdését a 6/2015. (I. 28.) EMMI rendelet 2. § (1) bekezdése iktatta be.
-[^85]: A 15. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése.
-[^86]: A 15. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése, szövege a 13. § (3) bekezdésével megállapított szöveg.
-[^87]: A 15. § (8) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (4) bekezdése iktatta be.
-[^88]: A 15. § (8) bekezdés e) pontja a 11/2013. (II. 7.) EMMI rendelet 44. § c) pontja szerint módosított szöveg.
-[^89]: A 15. § (8) bekezdés g) pontja a 6/2015. (I. 28.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^90]: A 15. § (8) bekezdés h) pontja a 24/2015. (IV. 30.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
+[^81]: A 15. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (1) bekezdésével megállapított, a 31/2009. (XII. 22.) SZMM rendelet 3. §-a szerint módosított szöveg.
+[^82]: A 15. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3)–(6) bekezdés jelölését (4)–(7) bekezdésre változtatva.
+[^83]: A 15. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése.
+[^84]: A 15. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése, szövege a 99. § (2) bekezdésének 1. pontja szerint módosított szöveg.
+[^85]: A 15. § (5a) bekezdését a 6/2015. (I. 28.) EMMI rendelet 2. § (1) bekezdése iktatta be.
+[^86]: A 15. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése.
+[^87]: A 15. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése, szövege a 13. § (3) bekezdésével megállapított szöveg.
+[^88]: A 15. § (8) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (4) bekezdése iktatta be.
+[^89]: A 15. § (8) bekezdés e) pontja a 11/2013. (II. 7.) EMMI rendelet 44. § c) pontja szerint módosított szöveg.
+[^90]: A 15. § (8) bekezdés g) pontja a 6/2015. (I. 28.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^91]: A 15. § (8) bekezdés h) pontja a 24/2015. (IV. 30.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.

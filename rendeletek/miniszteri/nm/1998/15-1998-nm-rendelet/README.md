@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2015-07-01 | 1998-15-20-3D.30 | 46/2003. (VIII. 8.) ESZCSM rendelet |
 | 2015-09-01 | 1998-15-20-3D.31 | 49/2013. (VII. 10.) EMMI rendelet |
 | 2015-10-15 | 1998-15-20-3D.32 | 46/2015. (X. 12.) EMMI rendelet |
+| 2015-10-29 | 1998-15-20-3D.33 | 48/2015. (X. 28.) EMMI rendelet |

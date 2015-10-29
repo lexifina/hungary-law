@@ -1,4 +1,4 @@
-22/C. §[^140] (1) Ha a Gyvt. 68/D. § (1) bekezdése szerinti eljárás a gyermekjóléti szolgálat által védelembe vétel keretében gondozott gyermek tekintetében indul meg, a gyermekjóléti szolgálat a gyámhivatal megkeresésére, a megkeresés kézhezvételétől számított nyolc munkanapon belül megküldi a gyámhivatalnak a megelőző pártfogás elrendelése tárgyában a javaslatát, valamint a gyermek tekintetében kitöltött, az Ar. 2. számú melléklet IV. számú adatlapja szerinti környezettanulmányt és a rendelkezésére álló pedagógiai véleményt.
+22/C. §[^141] (1) Ha a Gyvt. 68/D. § (1) bekezdése szerinti eljárás a gyermekjóléti szolgálat által védelembe vétel keretében gondozott gyermek tekintetében indul meg, a gyermekjóléti szolgálat a gyámhivatal megkeresésére, a megkeresés kézhezvételétől számított nyolc munkanapon belül megküldi a gyámhivatalnak a megelőző pártfogás elrendelése tárgyában a javaslatát, valamint a gyermek tekintetében kitöltött, az Ar. 2. számú melléklet IV. számú adatlapja szerinti környezettanulmányt és a rendelkezésére álló pedagógiai véleményt.
 
 (2) Ha a gyermekjóléti szolgálat által korábban nem gondozott, vagy a gyermekjóléti alapellátás keretében gondozott gyermek tekintetében indul meg a Gyvt. 68/D. § (1) bekezdése szerinti eljárás, a gyermekjóléti szolgálat a gyámhivatal megkeresésére,
 
@@ -18,4 +18,4 @@ a) a megelőző pártfogás iránti eljárás megszüntetésére, vagy
 
 b) a megelőző pártfogás elrendelésére a már fennálló védelembe vétel mellett vagy a védelembe vétel egyidejű elrendelésével.
 
-[^140]: A 22/C. §-t a 6/2015. (I. 28.) EMMI rendelet 9. §-a iktatta be.
+[^141]: A 22/C. §-t a 6/2015. (I. 28.) EMMI rendelet 9. §-a iktatta be.

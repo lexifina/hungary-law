@@ -1,4 +1,4 @@
-## 1/A.[^46] Cím
+## 1/A.[^47] Cím
 
 ## BIZTOS KEZDET GYEREKHÁZ
 
@@ -36,4 +36,4 @@ b) az a 2–5 éves, nem óvodás gyermek, aki legalább heti három alkalommal
 
 látogatja szülőjével a Gyerekházat.
 
-[^46]: A II. Fejezet 1/A. Címét (5/A–5/C. §) a 20/2013. (III. 5.) EMMI rendelet 1. §-a iktatta be.
+[^47]: A II. Fejezet 1/A. Címét (5/A–5/C. §) a 20/2013. (III. 5.) EMMI rendelet 1. §-a iktatta be.

@@ -10,4 +10,7 @@ b) a szolgáltatói nyilvántartásban történő, fenntartóváltozásra irány
 
 (4) A helyettes szülő, valamint a nevelőszülő körülményeinek alkalmasnak kell lennie a gyermek ellátására. A külső férőhelynek megfelelő lakhatást kell biztosítania.
 
+(5)[^23] Nevelőszülői hálózat legalább tíz nevelőszülővel vehető szolgáltatói nyilvántartásba.
+
 [^22]: A 3/B. §-t a 83/2013. (XII. 29.) EMMI rendelet 1. §-a iktatta be.
+[^23]: A 3/B. § (5) bekezdését a 48/2015. (X. 28.) EMMI rendelet 1. §-a iktatta be.

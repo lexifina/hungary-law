@@ -1,4 +1,4 @@
-## 108/A. §[^366] A nevelésbe vett gyermek gondozási helyének gyámhivatal általi megváltoztatása esetén a 106. §-ban foglaltak szerint, valamint, ha a fiatal felnőtt utógondozói ellátását a gyámhivatal határozata alapján a továbbiakban más ellátást nyújtó biztosítja, a 108. §-ban foglaltak szerint kell eljárni.
+## 108/A. §[^367] A nevelésbe vett gyermek gondozási helyének gyámhivatal általi megváltoztatása esetén a 106. §-ban foglaltak szerint, valamint, ha a fiatal felnőtt utógondozói ellátását a gyámhivatal határozata alapján a továbbiakban más ellátást nyújtó biztosítja, a 108. §-ban foglaltak szerint kell eljárni.
 
 ## 5. CÍM
 
@@ -6,22 +6,22 @@
 
 ## Feladatai
 
-109. § (1)[^367] A gyermekotthon megszakítás nélküli munkarend szerint működő, bentlakásos gyermekintézmény, amely
+109. § (1)[^368] A gyermekotthon megszakítás nélküli munkarend szerint működő, bentlakásos gyermekintézmény, amely
 
-a)[^368] a gondozott gyermek számára alaptevékenységként biztosítja – kivéve a kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban és az ideiglenes befogadó férőhelyen történő elhelyezés esetében – az otthont nyújtó ellátást a gyámhivatal által jóváhagyott egyéni elhelyezési terv és az általa készített egyéni gondozási-nevelési terv szerint,
+a)[^369] a gondozott gyermek számára alaptevékenységként biztosítja – kivéve a kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban és az ideiglenes befogadó férőhelyen történő elhelyezés esetében – az otthont nyújtó ellátást a gyámhivatal által jóváhagyott egyéni elhelyezési terv és az általa készített egyéni gondozási-nevelési terv szerint,
 
-b)[^369] a fiatal felnőtt számára utógondozást, utógondozói ellátást biztosít, szükség esetén külső férőhelyeket működtet.
+b)[^370] a fiatal felnőtt számára utógondozást, utógondozói ellátást biztosít, szükség esetén külső férőhelyeket működtet.
 
-(2)[^370] Külső férőhelyen csak utógondozói ellátásban részesülő fiatal felnőtt számára biztosítható lakhatás.
+(2)[^371] Külső férőhelyen csak utógondozói ellátásban részesülő fiatal felnőtt számára biztosítható lakhatás.
 
-(3)[^371] A gyermekotthon az alapító okiratában rögzítettek szerint, és az adott szolgáltatás végzésére feljogosító működési engedély alapján alapfeladatként biztosíthat egyéb személyes gondoskodást nyújtó szolgáltatást is, így különösen gyermekek és várandós anyák átmeneti gondozását. Az ellátás jellegének megfelelő személyi és tárgyi feltételeket ellátási formánként külön-külön biztosítani kell.
+(3)[^372] A gyermekotthon az alapító okiratában rögzítettek szerint, és az adott szolgáltatás végzésére feljogosító működési engedély alapján alapfeladatként biztosíthat egyéb személyes gondoskodást nyújtó szolgáltatást is, így különösen gyermekek és várandós anyák átmeneti gondozását. Az ellátás jellegének megfelelő személyi és tárgyi feltételeket ellátási formánként külön-külön biztosítani kell.
 
-(4)[^372] A gyermekotthon alaptevékenységével összhangban végzett vállalkozási tevékenysége nem veszélyeztetheti alapfeladatainak ellátását, illetve a gyermekotthonban elhelyezett gyermekek testi, értelmi, érzelmi, erkölcsi fejlődését.
+(4)[^373] A gyermekotthon alaptevékenységével összhangban végzett vállalkozási tevékenysége nem veszélyeztetheti alapfeladatainak ellátását, illetve a gyermekotthonban elhelyezett gyermekek testi, értelmi, érzelmi, erkölcsi fejlődését.
 
-[^366]: A 108/A. §-t a 26/2013. (III. 29.) EMMI rendelet 14. §-a iktatta be.
-[^367]: A 109. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 64. § (1) bekezdésével megállapított szöveg.
-[^368]: A 109. § (1) bekezdés a) pontja a 46/2015. (X. 12.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
-[^369]: Az 109. § (1) bekezdés b) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 7. pontja szerint módosított szöveg.
-[^370]: A 109. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 64. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
-[^371]: A 109. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 64. § (2) bekezdése, első mondata a 64. § (3) bekezdésével megállapított szöveg.
-[^372]: A 109. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 64. § (2) bekezdése.
+[^367]: A 108/A. §-t a 26/2013. (III. 29.) EMMI rendelet 14. §-a iktatta be.
+[^368]: A 109. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^369]: A 109. § (1) bekezdés a) pontja a 46/2015. (X. 12.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^370]: Az 109. § (1) bekezdés b) pontja a 26/2013. (III. 29.) EMMI rendelet 37. § 7. pontja szerint módosított szöveg.
+[^371]: A 109. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 64. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
+[^372]: A 109. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 64. § (2) bekezdése, első mondata a 64. § (3) bekezdésével megállapított szöveg.
+[^373]: A 109. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 64. § (2) bekezdése.

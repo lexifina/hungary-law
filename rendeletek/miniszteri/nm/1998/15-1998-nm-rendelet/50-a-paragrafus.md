@@ -1,6 +1,6 @@
-## Családi gyermekfelügyelet[^219]
+## Családi gyermekfelügyelet[^220]
 
-50/A. §[^220] (1) A Gyvt. 43/A. §-a (1) bekezdésének alkalmazásában saját otthon alatt a szolgáltatást nyújtó személy életvitelszerű tartózkodására szolgáló lakást kell érteni.
+50/A. §[^221] (1) A Gyvt. 43/A. §-a (1) bekezdésének alkalmazásában saját otthon alatt a szolgáltatást nyújtó személy életvitelszerű tartózkodására szolgáló lakást kell érteni.
 
 (2) Családi gyermekfelügyelet szolgáltatást az biztosíthat, aki – a Gyvt. 43/A. §-ában meghatározott feltételeknek való megfelelésen túl – érvényes Egészségügyi Nyilatkozattal rendelkezik.
 
@@ -8,8 +8,8 @@
 
 (4) Családi gyermekfelügyeletet elsősorban olyan gyermek számára kell biztosítani, akinek a szülője vagy más törvényes képviselője igazolja, hogy munkaviszonya, munkavégzésre irányuló egyéb jogviszonya, munkaerő-piaci részvételt elősegítő programban, képzésben való részvétele vagy betegsége miatt nem tud gyermeke napközbeni ellátásáról gondoskodni.
 
-(5)[^221] A Gyvt. 43/A. § (5) bekezdésének alkalmazásában saját gyermek alatt annak a szolgáltatást közvetlenül nyújtó személynek a gyermekét kell érteni, aki a Gyvt. 5. § s) pont sc) alpontjában foglaltak alapján egyben a szolgáltatás fenntartója is.
+(5)[^222] A Gyvt. 43/A. § (5) bekezdésének alkalmazásában saját gyermek alatt annak a szolgáltatást közvetlenül nyújtó személynek a gyermekét kell érteni, aki a Gyvt. 5. § s) pont sc) alpontjában foglaltak alapján egyben a szolgáltatás fenntartója is.
 
-[^219]: Az 50/A. §-t megelőző alcímet a 31/2009. (XII. 22.) SZMM rendelet 11. §-a iktatta be.
-[^220]: Az 50/A. §-t a 31/2009. (XII. 22.) SZMM rendelet 11. §-a iktatta be.
-[^221]: Az 50/A. § (5) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 7. §-a iktatta be.
+[^220]: Az 50/A. §-t megelőző alcímet a 31/2009. (XII. 22.) SZMM rendelet 11. §-a iktatta be.
+[^221]: Az 50/A. §-t a 31/2009. (XII. 22.) SZMM rendelet 11. §-a iktatta be.
+[^222]: Az 50/A. § (5) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 7. §-a iktatta be.

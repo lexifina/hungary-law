@@ -1,6 +1,6 @@
-47. §[^208] (1) Családi napköziben szolgáltatást az biztosíthat, aki – a Gyvt. 43. §-ában meghatározott feltételeknek való megfelelésen túl – a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 2. számú melléklete szerinti érvényes Egészségügyi Nyilatkozattal (a továbbiakban: Egészségügyi Nyilatkozat) rendelkezik.
+47. §[^209] (1) Családi napköziben szolgáltatást az biztosíthat, aki – a Gyvt. 43. §-ában meghatározott feltételeknek való megfelelésen túl – a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 2. számú melléklete szerinti érvényes Egészségügyi Nyilatkozattal (a továbbiakban: Egészségügyi Nyilatkozat) rendelkezik.
 
-(1a)[^209] Családi napköziben szolgáltatást azoknak a gyermekeknek, akik az óvodába járási kötelezettségüket családi napköziben teljesítik, csak olyan személy biztosíthat, aki megfelel a nemzeti köznevelésről szóló 2011. évi CXC. törvény 8. § (5) bekezdésében meghatározott követelményeknek.
+(1a)[^210] Családi napköziben szolgáltatást azoknak a gyermekeknek, akik az óvodába járási kötelezettségüket családi napköziben teljesítik, csak olyan személy biztosíthat, aki megfelel a nemzeti köznevelésről szóló 2011. évi CXC. törvény 8. § (5) bekezdésében meghatározott követelményeknek.
 
 (2) A fenntartó döntése alapján a családi napköziben a családi napközi szolgáltatást nyújtó személy foglalkoztatására a 2. számú melléklet II. Része I. Alapellátások 3. Családi napközi pontja alatt meghatározott munkakörök létesíthetők. A munkakört betöltő személynek
 
@@ -14,5 +14,5 @@ b) rendelkeznie kell a 2. számú melléklet II. Része I. Alapellátások 3. Cs
 
 (5) Ha a családi napközi szolgáltatást nyújtó személy az életvitelszerű tartózkodására szolgáló lakásban nyújtja az ellátást, az ellátás megkezdésekor, azt követően pedig évente háziorvosi igazolással tanúsítja, hogy a vele közös háztartásban élő személy egészségi állapota nem veszélyezteti az ellátandó gyermeket.
 
-[^208]: A 47. § a 31/2009. (XII. 22.) SZMM rendelet 8. §-ával megállapított szöveg.
-[^209]: A 47. § (1a) bekezdését a 6/2015. (I. 28.) EMMI rendelet 12. §-a iktatta be.
+[^209]: A 47. § a 31/2009. (XII. 22.) SZMM rendelet 8. §-ával megállapított szöveg.
+[^210]: A 47. § (1a) bekezdését a 6/2015. (I. 28.) EMMI rendelet 12. §-a iktatta be.

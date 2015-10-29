@@ -1,6 +1,6 @@
-## A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthon és az ideiglenes befogadó férőhely[^470]
+## A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthon és az ideiglenes befogadó férőhely[^471]
 
-135/A. §[^471] (1) A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban és az ideiglenes befogadó férőhelyen elhelyezett kísérő nélküli kiskorú számára biztosítani kell
+135/A. §[^472] (1) A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban és az ideiglenes befogadó férőhelyen elhelyezett kísérő nélküli kiskorú számára biztosítani kell
 
 a) a lakhatási lehetőséget;
 
@@ -36,5 +36,5 @@ l) az ellátásához, valamint az ellátásához kapcsolódóan az ügyei intéz
 
 (4) A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban és az ideiglenes befogadó férőhelyen folyó gondozás és nevelés során a kísérő nélküli kiskorú véleményét életkorának és személyiségállapotának megfelelően figyelembe kell venni.
 
-[^470]: A 135/A. §-t megelőző alcímet a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
-[^471]: A 135/A. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
+[^471]: A 135/A. §-t megelőző alcímet a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
+[^472]: A 135/A. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.

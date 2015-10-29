@@ -2,7 +2,7 @@
 
 ## A TERÜLETI GYERMEKVÉDELMI SZAKSZOLGÁLTATÁS ÉS A SZAKSZOLGÁLAT
 
-## 136. §[^476] A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
+## 136. §[^477] A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
 
 a) a gondozási hely meghatározásával,
 
@@ -18,9 +18,9 @@ f) a Gyvt.-ben előírt nyilvántartások vezetésével,
 
 g) a megyei bizottság működtetésével,
 
-h)[^477] a támogatott közvetítői eljárással
+h)[^478] a támogatott közvetítői eljárással
 
 kapcsolatos feladatok ellátását.
 
-[^476]: A 136. § a 26/2013. (III. 29.) EMMI rendelet 18. §-ával megállapított szöveg.
-[^477]: A 136. § h) pontját a 19/2014. (III. 13.) EMMI rendelet 21. §-a iktatta be.
+[^477]: A 136. § a 26/2013. (III. 29.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^478]: A 136. § h) pontját a 19/2014. (III. 13.) EMMI rendelet 21. §-a iktatta be.
