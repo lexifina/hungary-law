@@ -165,5 +165,3 @@ II. A tanfolyam tematikája
 – Az örökbefogadó szülő saját veszteségélménye és annak feldolgozása a gyermek szempontjából.
 
 III. Az ismeretek ellenőrzési rendszere
-
-– Ismereteket összegző beszélgetés 1 óra

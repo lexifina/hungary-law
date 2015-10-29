@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-29-20-0
 | 2014-03-15 | 2003-29-20-0M.6 | 19/2014. (III. 13.) EMMI rendelet |
 | 2015-01-31 | 2003-29-20-0M.7 | 83/2013. (XII. 29.) EMMI rendelet |
 | 2015-09-01 | 2003-29-20-0M.8 | 39/2015. (VIII. 28.) EMMI rendelet |
+| 2015-10-29 | 2003-29-20-0M.9 | 48/2015. (X. 28.) EMMI rendelet |

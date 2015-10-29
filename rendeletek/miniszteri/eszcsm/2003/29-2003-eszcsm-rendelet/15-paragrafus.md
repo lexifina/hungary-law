@@ -8,6 +8,6 @@
 
 (4) A (3) bekezdésben meghatározott személyekkel esnek egy tekintet alá azok az örökbe fogadni szándékozó személyek, akik az alkalmasságukat megállapító jogerős határozat érvényességi idejének meghosszabbítása iránt nyújtanak be kérelmet.
 
-(5)[^17]
+(5)[^24]
 
-[^17]: A 15. § (5) bekezdését a 83/2013. (XII. 29.) EMMI rendelet 30. §-a iktatta be, hatályon kívül helyezte a 6/2015. (I. 28.) EMMI rendelet 26. §-a.
+[^24]: A 15. § (5) bekezdését a 83/2013. (XII. 29.) EMMI rendelet 30. §-a iktatta be, hatályon kívül helyezte a 6/2015. (I. 28.) EMMI rendelet 26. §-a.
