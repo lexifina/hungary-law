@@ -1,4 +1,4 @@
-44. §[^100] (1) Ha az ajánlat a becsült értékhez képest kirívóan alacsony ellenszolgáltatást tartalmaz, az ajánlatkérő írásban az értékelés szempontjából az ajánlat lényeges elemeire vonatkozóan indokolást kérhet a többi ajánlattevő egyidejű, írásban történő értesítése mellett. Az ajánlatkérő köteles indokolást kérni, ha az ellenszolgáltatás több mint húsz százalékkal eltér a becsült értékhez képest.
+44. §[^101] (1) Ha az ajánlat a becsült értékhez képest kirívóan alacsony ellenszolgáltatást tartalmaz, az ajánlatkérő írásban az értékelés szempontjából az ajánlat lényeges elemeire vonatkozóan indokolást kérhet a többi ajánlattevő egyidejű, írásban történő értesítése mellett. Az ajánlatkérő köteles indokolást kérni, ha az ellenszolgáltatás több mint húsz százalékkal eltér a becsült értékhez képest.
 
 (2) Az ellenszolgáltatás kirívóan alacsony voltának megítélésekor az ajánlatkérő különösen a korábbi tapasztalataira, a beszerzést megelőző piacfelmérés eredményére vagy a becsült érték meghatározásához felhasznált egyéb adatokra támaszkodik.
 
@@ -22,4 +22,4 @@ e) az ajánlattevő állami támogatások megszerzésére vonatkozó lehetőség
 
 (7) Ha az ajánlatnak a bírálati részszempontok szerinti valamelyik tartalmi eleme lehetetlennek vagy túlzottan magas vagy alacsony mértékűnek, illetőleg kirívóan aránytalannak értékelt kötelezettségvállalást tartalmaz, az ajánlatkérő az érintett ajánlati elemekre vonatkozó adatokat, valamint indokolást köteles írásban kérni a többi ajánlattevő egyidejű, írásban történő értesítése mellett, és a (4)–(5) bekezdésben foglaltak szerint jár el.
 
-[^100]: A 44. § a 191/2011. (IX. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^101]: A 44. § a 191/2011. (IX. 20.) Korm. rendelet 17. §-ával megállapított szöveg.

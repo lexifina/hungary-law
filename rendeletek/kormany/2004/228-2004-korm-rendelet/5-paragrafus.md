@@ -6,14 +6,14 @@
 
 (3) Az Európai Unióban letelepedett ajánlattevők és a közösségi áruk számára nemzeti elbánást kell nyújtani a beszerzési eljárásban.
 
-(4)[^15] A beszerzés során a gazdaságosság, a honvédelem és a nemzetbiztonság, továbbá a minősített adat védelmének szempontjait egyaránt figyelembe kell venni. A beszerzés során fokozottan figyelembe kell venni a mindenkori munka-, tűz- és környezetvédelmi előírásokat.
+(4)[^16] A beszerzés során a gazdaságosság, a honvédelem és a nemzetbiztonság, továbbá a minősített adat védelmének szempontjait egyaránt figyelembe kell venni. A beszerzés során fokozottan figyelembe kell venni a mindenkori munka-, tűz- és környezetvédelmi előírásokat.
 
 (5) E rendelet szabályaitól csak annyiban lehet eltérni, amennyiben e rendelet az eltérést kifejezetten megengedi.
 
-(6)[^16] Az eljárási cselekmények az e rendeletben meghatározott feltételek mellett elektronikusan is gyakorolhatók.
+(6)[^17] Az eljárási cselekmények az e rendeletben meghatározott feltételek mellett elektronikusan is gyakorolhatók.
 
-(7)[^17] Az ajánlatkérő a beszerzési eljárásban való részvétel jogát fenntarthatja olyan védett foglalkoztatók számára, amelyek ötven százalékot meghaladó mértékben megváltozott munkaképességű munkavállalókat foglalkoztatnak. Erre a tényre az eljárást megindító felhívásban az ajánlatkérőnek hivatkoznia kell.
+(7)[^18] Az ajánlatkérő a beszerzési eljárásban való részvétel jogát fenntarthatja olyan védett foglalkoztatók számára, amelyek ötven százalékot meghaladó mértékben megváltozott munkaképességű munkavállalókat foglalkoztatnak. Erre a tényre az eljárást megindító felhívásban az ajánlatkérőnek hivatkoznia kell.
 
-[^15]: Az 5. § (4) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (13) bekezdése szerint módosított szöveg.
-[^16]: Az 5. § (6) bekezdését a 191/2011. (IX. 20.) Korm. rendelet 3. §-a iktatta be.
-[^17]: Az 5. § (7) bekezdését a 191/2011. (IX. 20.) Korm. rendelet 3. §-a iktatta be.
+[^16]: Az 5. § (4) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (13) bekezdése szerint módosított szöveg.
+[^17]: Az 5. § (6) bekezdését a 191/2011. (IX. 20.) Korm. rendelet 3. §-a iktatta be.
+[^18]: Az 5. § (7) bekezdését a 191/2011. (IX. 20.) Korm. rendelet 3. §-a iktatta be.

@@ -1,12 +1,12 @@
-## Alvállalkozásra vonatkozó szabályok[^152]
+## Alvállalkozásra vonatkozó szabályok[^153]
 
-74/G. §[^153] (1) Az ajánlatkérő az eljárást megindító felhívásban előírhatja az ajánlatkérőnek nem minősülő nyertes ajánlattevő számára, hogy az alvállalkozók részére kiszervezendő rész odaítélésekor a (2)–(9) bekezdések szerint járjon el.
+74/G. §[^154] (1) Az ajánlatkérő az eljárást megindító felhívásban előírhatja az ajánlatkérőnek nem minősülő nyertes ajánlattevő számára, hogy az alvállalkozók részére kiszervezendő rész odaítélésekor a (2)–(9) bekezdések szerint járjon el.
 
 (2) Az (1) bekezdés alkalmazásában nem minősülnek alvállalkozónak azok a gazdasági szereplők, akik közös ajánlattevőként jelennek meg.
 
 (3) Az ajánlattevőnek az 5. §-ban megfogalmazott alapelvek szerint kell eljárnia.
 
-(4)[^154] Amennyiben a kiszervezni kívánt rész értéke a 10. § (1) bekezdésben meghatározott értékhatárt meghaladja, az ajánlatkérőnek hirdetményt kell közzétennie. A hirdetmény közzétételére a 10–10/A. § rendelkezéseit kell megfelelően alkalmazni.
+(4)[^155] Amennyiben a kiszervezni kívánt rész értéke a 10. § (1) bekezdésben meghatározott értékhatárt meghaladja, az ajánlatkérőnek hirdetményt kell közzétennie. A hirdetmény közzétételére a 10–10/A. § rendelkezéseit kell megfelelően alkalmazni.
 
 (5) A nyertes ajánlattevő abban az esetben is tehet közzé hirdetményt, ha erre egyébként nem köteles.
 
@@ -20,6 +20,6 @@
 
 (10) Az ajánlatkérőnek minősülő nyertes ajánlattevőnek az ajánlatkérőre irányadó szabályok szerint kell eljárnia.
 
-[^152]: A 74/G. §-t megelőző alcímet a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
-[^153]: A 74/G. §-t a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
-[^154]: A 74/G. § (4) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (8) bekezdése szerint módosított szöveg.
+[^153]: A 74/G. §-t megelőző alcímet a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
+[^154]: A 74/G. §-t a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
+[^155]: A 74/G. § (4) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (8) bekezdése szerint módosított szöveg.

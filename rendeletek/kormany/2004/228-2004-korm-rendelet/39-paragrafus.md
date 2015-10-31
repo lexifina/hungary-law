@@ -2,8 +2,8 @@
 
 (2) Az ajánlatok felbontásánál az ajánlatkérő, az ajánlattevők, valamint az általuk meghívott személyek lehetnek jelen.
 
-(3)[^96] Az ajánlatok felbontásakor ismertetni kell az ajánlattevők nevét, címét (székhelyét, lakóhelyét), az ajánlattevő által vállalt teljesítési határidőt, az ajánlattételi felhívásban előírtak szerint a kért ellenszolgáltatás mértékét.
+(3)[^97] Az ajánlatok felbontásakor ismertetni kell az ajánlattevők nevét, címét (székhelyét, lakóhelyét), az ajánlattevő által vállalt teljesítési határidőt, az ajánlattételi felhívásban előírtak szerint a kért ellenszolgáltatás mértékét.
 
 (4) Az ajánlatok felbontásáról és ismertetéséről az ajánlatkérőnek jegyzőkönyvet kell készítenie, amelyet a bontástól számított öt munkanapon belül meg kell küldeni az összes ajánlattevőnek.
 
-[^96]: A 39. § (3) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.
+[^97]: A 39. § (3) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.

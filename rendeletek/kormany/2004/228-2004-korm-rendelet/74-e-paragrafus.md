@@ -1,6 +1,6 @@
-## Meghívásos eljárás[^148]
+## Meghívásos eljárás[^149]
 
-74/E. §[^149] (1) A meghívásos eljárás olyan, két szakaszból álló beszerzési eljárás, amelynek első, részvételi szakaszában az ajánlatkérő a részvételre jelentkezőnek a szerződés teljesítésére való alkalmasságáról, vagy alkalmatlanságáról dönt. Az eljárás második, ajánlattételi szakaszában csak az ajánlatkérő által alkalmasnak minősített és ajánlattételre felhívott részvételre jelentkezők tehetnek ajánlatot. A meghívásos eljárásban nem lehet tárgyalni.
+74/E. §[^150] (1) A meghívásos eljárás olyan, két szakaszból álló beszerzési eljárás, amelynek első, részvételi szakaszában az ajánlatkérő a részvételre jelentkezőnek a szerződés teljesítésére való alkalmasságáról, vagy alkalmatlanságáról dönt. Az eljárás második, ajánlattételi szakaszában csak az ajánlatkérő által alkalmasnak minősített és ajánlattételre felhívott részvételre jelentkezők tehetnek ajánlatot. A meghívásos eljárásban nem lehet tárgyalni.
 
 (2) A meghívásos eljárás részvételi felhívással indul.
 
@@ -18,5 +18,5 @@
 
 (9) A meghívásos eljárás ajánlattételi szakaszában nem módosítható az ajánlattételi felhívás vagy a dokumentáció olyan eleme, amely már a részvételi felhívásban is szerepelt.
 
-[^148]: A 74/E. §-t megelőző alcímet a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
-[^149]: A 74/E. §-t a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
+[^149]: A 74/E. §-t megelőző alcímet a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
+[^150]: A 74/E. §-t a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.

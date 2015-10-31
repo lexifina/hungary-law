@@ -1,5 +1,5 @@
-36. §[^92] (1) Az ajánlattevő az ajánlattételi határidő lejártáig módosíthatja ajánlatát.
+36. §[^93] (1) Az ajánlattevő az ajánlattételi határidő lejártáig módosíthatja ajánlatát.
 
 (2) Az ajánlattételi határidő lejártát követően a benyújtott ajánlatok az ajánlatkérő hozzájárulásával sem módosíthatók.
 
-[^92]: A 36. § a 191/2011. (IX. 20.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^93]: A 36. § a 191/2011. (IX. 20.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
