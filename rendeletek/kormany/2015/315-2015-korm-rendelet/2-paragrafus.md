@@ -1,0 +1,1 @@
+## 1. § A Kormány Magyarország közrendjét és belső biztonságát fenyegető komoly veszély fennállása miatt az államhatárról szóló 2007. évi LXXXIX. törvény 13. §-a alapján kihirdeti, hogy 2015. október 17. napján Magyarország és a Szlovén Köztársaság közötti belső határon a határellenőrzést ideiglenesen visszaállította.
