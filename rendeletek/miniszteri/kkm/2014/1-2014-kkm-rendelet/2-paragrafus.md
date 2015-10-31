@@ -6,6 +6,12 @@
 
 a) id. Gróf Andrássy Gyula-díj,
 
-b) Bakócz Tamás-díj, valamint
+b)[^1] Bakócz Tamás-díj,
 
-c) Miniszteri Elismerő Oklevél
+c)[^2] Miniszteri Elismerő Oklevél, valamint
+
+d)[^3] Károly Róbert Elismerő Oklevél
+
+[^1]: A 2. § (2) bekezdés b) pontja a 4/2015. (X. 30.) KKM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdés c) pontja a 4/2015. (X. 30.) KKM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdés d) pontját a 4/2015. (X. 30.) KKM rendelet 1. §-a iktatta be.
