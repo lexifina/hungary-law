@@ -168,6 +168,32 @@ Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budap
 
 |
 
+Budapest, 29834/12
+
+|
+
+Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.)
+
+|
+
+13
+
+|
+
+Budapest, 29834/15
+
+(81751/83751 tulajdoni hányad arányában)
+
+|
+
+Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.)
+
+|
+
+14
+
+|
+
 Budapest, 27913/1
 
 |
@@ -178,7 +204,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-13
+15
 
 |
 
@@ -194,7 +220,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-14
+16
 
 |
 
@@ -210,7 +236,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-15
+17
 
 |
 
