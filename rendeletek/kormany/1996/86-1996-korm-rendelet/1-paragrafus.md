@@ -1,39 +1,49 @@
-## 1. § E rendelet alkalmazásában
+## 1. §[^1] E rendelet alkalmazásában
 
-a) adminisztratív védelem: a biztonsági okmányokkal kapcsolatos eljárásban az igazgatási folyamatba épített, az ügyintézés és ügykezelés során alkalmazandó előírások, intézkedések, továbbá az eljárást támogató informatikai rendszerben az adatkezelésre vonatkozó adatvédelmi és adatbiztonsági követelmények meghatározása, és az ezeket tartalmazó dokumentációk összessége.
+1. adminisztratív védelem: a biztonsági okmányokkal kapcsolatos eljárásban az igazgatási folyamatba épített, az ügyintézés és ügykezelés során alkalmazandó előírások, intézkedések, továbbá az eljárást támogató informatikai rendszerben az adatkezelésre vonatkozó adatvédelmi és adatbiztonsági követelmények összessége. Elektronikus biztonsági okmány esetében az adminisztratív védelem körébe tartozik az informatikai rendszer védelmének az a része is, amelyben az elektronikus biztonsági okmány elektronikus funkciói működnek;
 
-b) biztonsági okmány: a természetes és jogi személyekkel, tárgyakkal, objektumokkal közvetlen vagy közvetett kapcsolatban lévő olyan irat, amely tulajdonosának (birtokosának) személyét hitelesen igazolja, vagy jogosultságok gyakorlását, illetve kötelezettségek teljesítését teszi lehetővé, amennyiben az irat jogszerűtlen, illetve rendeltetésellenes használata nemzetbiztonsági, közbiztonsági-bűnügyi, igazgatási vagy egyéb nemzetgazdasági érdekeket súlyosan sérthet. A biztonsági okmányok körét a rendelet 1. számú melléklete tartalmazza.
+2. adminisztratív védelmi terv: az adminisztratív védelem elemeinek és rendszerének leírását tartalmazó dokumentáció. Elektronikus biztonsági okmány esetében tartalmaznia kell a hitelesítésvédelem, a kibocsátói tanúsítás és – ha van titkosítás – a titkosítás leírását. Nyilvános kulcsú infrastruktúrán alapuló informatikai rendszerben működő elektronikus biztonsági okmány esetében az adminisztratív védelmi terv része a hitelesítési rend bemutatása is;
 
-c) kibocsátó: a biztonsági okmány rendszerbe állítására felhatalmazott szervezet.
+3. biztonsági okmány: a természetes és jogi személyekkel, tárgyakkal, objektumokkal közvetlen vagy közvetett kapcsolatban lévő olyan irat, amely tulajdonosának (birtokosának) személyét hitelesen igazolja, vagy jogosultságok gyakorlását, illetve kötelezettségek teljesítését teszi lehetővé, valamint az irat jogszerűtlen, illetve rendeltetésellenes használata nemzetbiztonsági, közbiztonsági, bűnügyi, igazgatási vagy egyéb nemzetgazdasági érdekeket súlyosan sérthet. A biztonsági okmányok körét az 1. számú melléklet tartalmazza;
 
-d)[^1] okmányvédelmi rendszerterv: a biztonsági okmány okmányvédelmi kategóriájához igazodó általános követelményrendszert leíró dokumentum.
+4. biztonsági okmány fajtái:
 
-e) okmányvédelmi terv: az adott biztonsági okmányban alkalmazásra kerülő okmányvédelmi elemek összessége, azok részletező leírása.
+4.1.1. új biztonsági okmány: újfajta okmány, amely már szerepel a biztonsági okmányok körét meghatározó 1. számú mellékletben, és első alkalommal kerül kibocsátásra,
 
-f)[^2] új biztonsági okmány; biztonsági okmányként rendszeresített új okmány, illetve megújuló biztonsági okmány:
+4.1.2. biztonsági okmányként rendszeresített új okmány: újfajta okmány, amely még nem szerepel a biztonsági okmányok körét meghatározó 1. számú mellékletben és kibocsátására a 6/A. § alapján kerül sor,
 
-fa) új biztonsági okmány: újfajta okmány, amely már szerepel a biztonsági okmányok körét meghatározó 1. számú mellékletben, és első alkalommal kerül kibocsátásra,
+4.1.3. megújuló biztonsági okmány: a már rendszeresített, de formailag új, vagy új biztonsági elemeket tartalmazó okmány;
 
-fb) biztonsági okmányként rendszeresített új okmány: újfajta okmány, amely még nem szerepel a biztonsági okmányok körét meghatározó 1. számú mellékletben és kibocsátására a 6/A. § alapján kerül sor,
+4.2.1. az 1. számú melléklet I. részében felsorolt biztonsági okmányok: az Európai Unió által a tagállamok részére egységesen, kötelezően és részleteiben meghatározott formai és biztonsági jellemzőkkel bíró okmányok;
 
-fc) megújuló biztonsági okmány: a már korábban rendszeresített, de formailag új, vagy új biztonsági elemeket tartalmazó okmány (a kizárólag szövegtartalomban történő és okmányvédelmi szempontokat nem érintő változás e rendelet alkalmazásában nem eredményezi a biztonsági okmány megújulását).
+4.2.2. az 1. számú melléklet II. részében felsorolt biztonsági okmányok: azon – nemzeti fejlesztési hatáskörbe tartozó – biztonsági okmányok, amelyekre vonatkozóan:
 
-g)[^3] az 1. számú melléklet I. részében felsorolt biztonsági okmányok az Európai Unió által a tagállamok részére egységesen, kötelezően és részleteiben meghatározott formai és biztonsági jellemzőkkel bíró okmányok.
+4.2.2.1. az Európai Unió minimum okmánybiztonsági követelményeket fogalmaz meg, vagy
 
-h)[^4] az 1. számú melléklet II. részében felsorolt biztonsági okmányok azon – nemzeti fejlesztési hatáskörbe tartozó – biztonsági okmányok, amelyekre vonatkozóan:
+4.2.2.2. a közösségi vívmányok formai, tartalmi követelményeket, vagy
 
-ha) az Európai Unió minimum okmánybiztonsági követelményeket fogalmaz meg, vagy
+4.2.2.3. alapvető biztonsági elvárásokat
 
-hb) a közösségi vívmányok formai, tartalmi követelményeket, vagy
+határoznak meg;
 
-hc) alapvető biztonsági elvárásokat
+4.2.3. az 1. számú melléklet III. részében felsorolt biztonsági okmányok: azon – teljes mértékben nemzeti hatáskörbe tartozó – biztonsági okmányok, amelyek nem sorolhatók a 4.2.1–4.2.2. pontban megjelölt biztonsági okmányok körébe;
 
-## határoznak meg.
+5. elektronikus biztonsági okmány: informatikai adathordozót tartalmazó biztonsági okmány;
 
-i)[^5] az 1. számú melléklet III. részében felsorolt biztonsági okmányok azon – teljes mértékben nemzeti hatáskörbe tartozó – biztonsági okmányok, amelyek nem sorolhatók a g)–h) pontban megjelölt biztonsági okmányok körébe.
+6. informatikai adathordozó: az okmányba integrált vagy az okmányon megjelenő adat tárolására alkalmas elem, amely e rendelet alkalmazásában a következő lehet: chip, vonalkód, optikai adattároló elem, mágneses adattároló elem;
 
-[^1]: Az 1. § d) pontja a 182/2003. (XI. 5.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § f) pontja a 299/2006. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § g) pontját a 182/2003. (XI. 5.) Korm. rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
-[^4]: Az 1. § h) pontját a 182/2003. (XI. 5.) Korm. rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
-[^5]: Az 1. § i) pontját a 182/2003. (XI. 5.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 299/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+7. kibocsátó: a biztonsági okmány rendszerbe állítására felhatalmazott szervezet;
+
+8. látványterv: az okmányvédelmi terv kötelező melléklete, amelynek adattartalmát a 3. számú melléklet 11. pontja határozza meg;
+
+9. megszemélyesítés: az adatokkal nem rendelkező (bianco) biztonsági okmány vizuális és személyes adatokkal történő kitöltése, amelybe elektronikus biztonsági okmány esetén az informatikai adathordozóba felvitt adatok is beletartoznak;
+
+10. megszemélyesítést végző szervezet: a biztonsági okmány megszemélyesítését végző szervezet, amely lehet a kibocsátó, az előállító, a kibocsátó által megbízott vagy jogszabály által meghatározott más szervezet;
+
+11. okmányinformatikai védelem: az informatikai adathordozón tárolt, illetve beállított adatok informatikai védelme;
+
+12. okmányvédelmi rendszerterv: a biztonsági okmány okmányvédelmi kategóriájához igazodó általános követelményrendszert leíró dokumentum;
+
+13. okmányvédelmi terv: az okmányvédelmi rendszerterv követelményei alapján az adott biztonsági okmányban alkalmazásra kerülő okmányvédelmi elemek, alapanyagok, nyomda- és okmánytechnológiai módszerek összessége, azok részletező leírása és elektronikus biztonsági okmány esetén az alkalmazott okmányinformatikai védelmi megoldások bemutatása. Az okmányvédelmi terv kötelező tartalmi minimumkövetelményeit a 3. számú melléklet tartalmazza.
+
+[^1]: Az 1. § a 312/2015. (X. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
