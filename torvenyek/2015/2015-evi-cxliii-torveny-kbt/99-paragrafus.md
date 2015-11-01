@@ -1,0 +1,5 @@
+99. § (1) A hirdetmény nélküli tárgyalásos eljárás – a 98. § (4) bekezdés c)–d) pontja szerinti eljárás kivételével – ajánlattételi felhívás megküldésével, a 102. § (2) bekezdése szerinti esetben tárgyalási meghívó megküldésével kezdődik. Ha több ajánlattevő nyújthat be ajánlatot, az ajánlattételi felhívást vagy tárgyalási meghívót egyidejűleg kell megküldeni az ajánlattevőknek.
+
+(2) A hirdetmény nélküli tárgyalásos eljárásban kizárólag az ajánlattételre felhívott gazdasági szereplő tehet ajánlatot. Az ajánlattételre felhívott gazdasági szereplők közösen nem tehetnek ajánlatot, nincs azonban akadálya annak, hogy valamely ajánlattételre felhívott gazdasági szereplő olyan gazdasági szereplővel tegyen közös ajánlatot, amelynek ajánlatkérő nem küldött ajánlattételi felhívást.
+
+(3) A tárgyalásos eljárás a 98. § (2) bekezdés b) pontja és (4) bekezdés a) pontja szerinti esetében, valamint ha a rendkívüli sürgősséget előidéző helyzetben az ésszerűen lehetséges, a 98. § (2) bekezdés e) pontja szerinti esetben az ajánlatkérőnek lehetőség szerint legalább három ajánlattevőt kell ajánlattételre felhívnia.

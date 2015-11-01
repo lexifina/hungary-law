@@ -1,0 +1,27 @@
+## Hiánypótlás, felvilágosításkérés és a számítási hiba javítása
+
+71. § (1) Az ajánlatkérő köteles az összes ajánlattevő és részvételre jelentkező számára azonos feltételekkel biztosítani a hiánypótlás lehetőségét, valamint az ajánlatban vagy részvételi jelentkezésben található, nem egyértelmű kijelentés, nyilatkozat, igazolás tartalmának tisztázása érdekében az ajánlattevőtől vagy részvételre jelentkezőtől felvilágosítást kérni.
+
+(2) A hiánypótlásra vagy a felvilágosítás nyújtására vonatkozó felszólítást az ajánlatkérő a többi ajánlattevő vagy részvételre jelentkező egyidejű értesítése mellett közvetlenül köteles az ajánlattevő, illetve részvételre jelentkező részére megküldeni, megjelölve a határidőt, továbbá a hiánypótlási felhívásban a pótlandó hiányokat.
+
+(3) A hiányok pótlása csak arra irányulhat, hogy az ajánlat vagy részvételi jelentkezés megfeleljen a közbeszerzési dokumentumok vagy a jogszabályok előírásainak. A hiánypótlás során az ajánlatban vagy részvételi jelentkezésben szereplő iratokat – ideértve a 69. § (4)–(5) bekezdése szerint benyújtandó dokumentumokat is – módosítani és kiegészíteni is lehet.
+
+(4) Ha az ajánlatkérő megállapítja, hogy az ajánlattevő vagy részvételre jelentkező az alkalmasság igazolásához olyan gazdasági szereplő kapacitásaira támaszkodik, vagy olyan alvállalkozót nevezett meg, amely a 62. § (1) bekezdés a)–h), k)–n) és p) pontja szerinti, korábbi eljárásban tanúsított magatartás alapján a j) pontja szerinti vagy – ha az ajánlatkérő előírta – a 63. § szerinti kizáró ok hatálya alatt áll, a kizáró okkal érintett gazdasági szereplő kizárása mellett hiánypótlás keretében felhívja az ajánlattevőt vagy részvételre jelentkezőt a kizárt helyett szükség esetén más gazdasági szereplő megnevezésére.
+
+(5) Amíg bármely ajánlattevő vagy részvételre jelentkező számára hiánypótlásra vagy felvilágosítás nyújtására – a (2) bekezdés szerinti felszólításban, illetve értesítésben megjelölt – határidő van folyamatban, az ajánlattevő vagy részvételre jelentkező pótolhat olyan hiányokat, amelyekre nézve az ajánlatkérő nem hívta fel hiánypótlásra.
+
+(6) Az ajánlatkérő köteles újabb hiánypótlást elrendelni, ha a korábbi hiánypótlási felhívás(ok)ban nem szereplő hiányt észlelt. Nem köteles az ajánlatkérő újabb hiánypótlást elrendelni, ha a hiánypótlással az ajánlattevő vagy részvételre jelentkező az ajánlatban vagy a részvételi jelentkezésben korábban nem szereplő gazdasági szereplőt von be az eljárásba, és e gazdasági szereplőre tekintettel lenne szükséges az újabb hiánypótlás, feltéve, hogy az eljárást megindító felhívásban feltüntette, hogy ilyen esetben nem – vagy csak az általa meghatározott korlátozással – rendel el újabb hiánypótlást. A korábban megjelölt hiány a későbbi hiánypótlás során már nem pótolható.
+
+(7) Az ajánlatkérő kizárólag az (1)–(2) bekezdésben foglaltak szerint és csak olyan felvilágosítást kérhet, amely az ajánlatok vagy részvételi jelentkezések elbírálása érdekében szükséges.
+
+(8) A hiánypótlás vagy a felvilágosítás megadása:
+
+a) nem járhat a 2. § (1)–(3) és (5) bekezdésében foglalt alapelvek sérelmével és
+
+b) az ajánlatban a beszerzés tárgyának jellemzőire, az ajánlattevő szerződéses kötelezettsége végrehajtásának módjára vagy a szerződés más feltételeire vonatkozó dokumentum tekintetében csak olyan nem jelentős, egyedi részletkérdésre vonatkozó hiba javítható vagy hiány pótolható, továbbá átalánydíjas szerződés esetén az árazott költségvetés (részletes árajánlat) valamely tétele és egységára pótolható, módosítható, kiegészíthető vagy törölhető, amelynek változása a teljes ajánlati árat vagy annak értékelés alá eső részösszegét és az ajánlattevők között az értékeléskor kialakuló sorrendet nem befolyásolja.
+
+(9) A 76. § (3) bekezdés b) pontja szerinti értékeléshez az ajánlatkérő által bemutatni kért szakemberek személye hiánypótlás keretében csak úgy változhat, hogy a hiánypótlásban az értékeléskor figyelembe veendő minden releváns körülmény tekintetében a korábbival legalább egyenértékű szakember kerül bemutatásra. Ha a hiánypótlás során a korábbinál nagyobb tapasztalattal, magasabb képzettséggel rendelkező személy kerül bemutatásra, az ajánlatkérő az értékeléshez akkor is csak az általa pótoltatott szakember adatait veheti figyelembe, a hiánypótlás ilyenkor is csak az érvényessé tételt szolgálja, és nem eredményezi az értékeléskor figyelembe veendő tényezők változását.
+
+(10) Az ajánlatkérő köteles meggyőződni arról, hogy a hiánypótlás vagy a felvilágosítás megadása az e §-ban foglaltaknak megfelel. A (3) vagy (8)–(9) bekezdés rendelkezéseinek megsértése esetén, vagy ha a hiánypótlást, felvilágosítás megadását nem, vagy nem az előírt határidőben teljesítették, kizárólag az eredeti ajánlati vagy részvételi jelentkezési példányt (példányokat) lehet figyelembe venni az elbírálás során.
+
+(11) Ha az ajánlatkérő az ajánlatban az értékelésre kiható számítási hibát észlel, annak javítását az ajánlatkérő végzi el úgy, hogy a közbeszerzés tárgya elemeinek tételesen meghatározott értékeit (az alapadatokat) alapul véve számítja ki az összesített ellenértéket vagy más – az ajánlatban megtalálható számításon alapuló – adatot. A számítási hiba javításáról az összes ajánlattevőt egyidejűleg, közvetlenül, írásban, haladéktalanul tájékoztatni kell.

@@ -1,0 +1,5 @@
+## Átmeneti rendelkezések
+
+197. § (1) E törvény rendelkezéseit a hatálybalépése után megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és az azokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra és előzetes vitarendezési eljárásokra kell alkalmazni. A 139. §, a 142. § (1)–(2) és (4)–(5) bekezdése, a 153. § (1) bekezdés c) pontja és a 175. § rendelkezéseit alkalmazni kell e törvény hatálybalépését megelőzően megkezdett beszerzések vagy közbeszerzési eljárások eredményeként kötött szerződések új közbeszerzési eljárás lefolytatása nélkül történő módosításának lehetőségére, valamint a módosítás és teljesítés ellenőrzésére.
+
+(2) A közbeszerzésekről szóló 2011. évi CVIII. törvény rendelkezéseit a 2015. november 1. napját megelőzően megkezdett beszerzésekre, – az (1) bekezdés második mondatában foglalt kivétellel – közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és az azokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra és előzetes vitarendezési eljárásokra alkalmazni kell.

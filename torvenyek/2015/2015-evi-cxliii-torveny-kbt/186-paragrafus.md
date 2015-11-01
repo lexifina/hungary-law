@@ -1,0 +1,1 @@
+186. § A Hatóság elnöke, alelnöke és a Tanács tagjai, a főtitkár, a Titkárság alkalmazottai és a közbeszerzési biztosok vagy azon személyek, akik ilyen tisztséget viseltek, tevékenységet végeztek, a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.

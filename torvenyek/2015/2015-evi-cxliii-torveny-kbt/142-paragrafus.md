@@ -1,0 +1,17 @@
+## A közpénzekkel való felelős gazdálkodás elvének érvényesítése a szerződés teljesítése során
+
+142. § (1) Az ajánlatkérő köteles dokumentálni a szerződés teljesítésére vonatkozó adatokat, ennek keretében köteles ellenőrizni és dokumentálni azon szerződéses kötelezettségek teljesítését, amelyeket a közbeszerzési eljárásban az értékelés során figyelembe vett, valamint minden, a szerződésben foglaltaktól eltérő teljesítést, annak okait és – adott esetben – a szerződésszegéssel kapcsolatos igények érvényesítését.
+
+(2) A 2. § (1)–(4) bekezdésében foglalt alapelvek megsértését valósítja meg az ajánlatkérőként szerződő fél részéről a szerződésszegésből eredő igények érvényesítésének elmaradása (ide nem értve a felmondás vagy elállás jogának gyakorlását), ha
+
+a) a szerződésszegés olyan kötelezettség szerződésszerű teljesítésének elmaradásával valósul meg, amelyet az ajánlatkérő a közbeszerzési eljárásban az ajánlatok értékelése során figyelembe vett; vagy
+
+b) a szerződésszegés eredményeként a teljesítés a szerződés tartalmától olyan mértékben tér el, amely – ha a felek szerződésüket így módosították volna – szerződésmódosításként a 141. § (6) bekezdése szerint lényeges módosításnak minősülne.
+
+(3) Semmis a szerződés módosítása, ha az arra irányul, hogy a nyertes ajánlattevőként szerződő felet mentesítsék az olyan szerződésszegés (illetve szerződésszegésbe esés) és annak jogkövetkezményei – ide nem értve a felmondás vagy elállás jogának gyakorlását – alkalmazása alól, amelyért felelős (illetve felelős lenne), vagy amely arra irányul, hogy az ajánlatkérő átvállaljon a nyertes ajánlattevőt terhelő többletmunkaköltségeket vagy indokolatlanul egyéb, a szerződés alapján a nyertes ajánlattevőt terhelő kockázatokat.
+
+(4) A Közbeszerzési Hatóság a szerződés módosítására és teljesítésére vonatkozó, e törvényben meghatározott követelmények teljesülését a 187. § (2) bekezdés j) pontjában meghatározottak szerint jogosult ellenőrizni és azok megsértése esetén a Közbeszerzési Döntőbizottság, illetve a bíróság eljárását kezdeményezni [153. § (1) bekezdés c) pont, 175. §].
+
+(5) Az ajánlatkérő köteles a Közbeszerzési Hatóságnak bejelenteni, ha a nyertes ajánlattevőként szerződő fél szerződéses kötelezettségét súlyosan megszegte és ez a szerződés felmondásához vagy elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb jogkövetkezmény érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta. A bejelentésnek tartalmaznia kell a szerződésszegés leírását, az annak alapján alkalmazott jogkövetkezményt, valamint hogy a szerződő fél a szerződésszegést elismerte-e, vagy sor került-e arra vonatkozóan perindításra.
+
+(6) Az ajánlatkérő köteles a Közbeszerzési Hatóságnak bejelenteni a nyertes ajánlattevőként szerződő fél szerződéses kötelezettségének jogerős bírósági határozatban megállapított megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit, beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, (részben vagy egészben) a szerződés lehetetlenülését okozta.

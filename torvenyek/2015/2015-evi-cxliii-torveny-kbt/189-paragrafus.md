@@ -1,0 +1,5 @@
+189. § (1) Ha a Hatóság elnöke a hirdetmény nélküli tárgyalásos eljárás megkezdéséről a Hatóság részére megküldött iratok vizsgálata során megállapítja, hogy megalapozottan feltételezhető a közbeszerzésre, valamint a közbeszerzési eljárásra vonatkozó jogszabályok rendelkezéseinek, illetve alapelveinek megsértése, az iratok beérkezésétől számított tíz napon belül kezdeményezi a Közbeszerzési Döntőbizottság hivatalból indított eljárását. A kezdeményezés benyújtásával egyidejűleg a Hatóság elnöke erről – az általa feltételezett jogsértés megjelölésével – az ajánlatkérőt értesíti.
+
+(2) Ha az ajánlatkérő által megküldött iratokból nem állapítható meg egyértelműen a hirdetmény nélküli tárgyalásos eljárás alkalmazhatóságát megalapozó feltételek fennállása vagy az ajánlattételi felhívás jogszerűsége, a Hatóság elnöke telefaxon vagy elektronikus úton felhívja az ajánlatkérőt a szükséges adatok három napon belüli pótlására.
+
+(3) Ha az ajánlatkérő a hiányokat nem pótolja, a Hatóság elnöke a rendelkezésre álló adatok alapján dönt az eljárás kezdeményezéséről.

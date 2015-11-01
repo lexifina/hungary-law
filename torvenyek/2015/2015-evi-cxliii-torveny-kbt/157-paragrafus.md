@@ -1,0 +1,3 @@
+## Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezése
+
+157. § Ha a Közbeszerzési Döntőbizottság az Európai Bíróság előzetes döntéshozatali eljárását kezdeményezi az EUMSZ-ben foglalt szabályok szerint, erről külön végzéssel dönt és egyidejűleg az eljárást felfüggeszti. A Közbeszerzési Döntőbizottság végzésében meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és a magyar jog érintett szabályait. A Közbeszerzési Döntőbizottság a végzést az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter és a közbeszerzésekért felelős miniszter részére is.

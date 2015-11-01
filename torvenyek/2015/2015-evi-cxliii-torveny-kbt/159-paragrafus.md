@@ -1,0 +1,3 @@
+159. § (1) Ha a 142. § (2) bekezdésében foglalt jogsértés tárgyában a közbeszerzési ügy érdemi eldöntése a szerződésszegés megtörténtének előzetes elbírálásától függ, a Közbeszerzési Döntőbizottság a szerződésszegés tényének megállapítása iránt pert indít, és egyidejűleg az eljárást felfüggeszti. A Közbeszerzési Döntőbizottságot a perben teljes költségmentesség illeti meg.
+
+(2) Az (1) bekezdés szerinti perindításról a Közbeszerzési Döntőbizottság a Közbeszerzési Hatóság honlapján tájékoztatást tesz közzé. A tájékoztatás tartalmazza az adott ügy megnevezését (adott esetben a kapcsolódó közbeszerzési eljárás megjelölését), a keresetlevél benyújtásának időpontját, valamint a peres felek megnevezését.

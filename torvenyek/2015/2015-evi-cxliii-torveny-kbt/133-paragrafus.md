@@ -1,0 +1,5 @@
+## A szerződés időtartama
+
+133. § (1) Az ajánlatkérőnek az eljárást megindító felhívásban a szerződés időtartamát úgy kell meghatároznia, hogy ha a szerződés tárgya, a választott szerződéses konstrukció, a hozzá kapcsolódó fizetési feltételek vagy a nyertes ajánlattevő által eszközölt befektetés nem indokolja, a szerződést ne kösse határozatlan vagy olyan aránytalanul hosszú határozott időtartamra, amely a verseny fenntartása és a közpénzek hatékony elköltésének céljával ellenkezik.
+
+(2) Építési vagy szolgáltatási koncesszió csak határozott időtartamra köthető. Ha az építési vagy szolgáltatási koncesszió időtartama az öt évet meghaladja, az ajánlatkérőnek számításokkal kell alátámasztania, hogy a szerződés időtartama nem haladja meg azt az időtartamot, amely alatt – ésszerű feltételezések alapján – a koncessziós jogosult számára megtérülnek az építési beruházás vagy a szolgáltatás megvalósítása érdekében, illetve a szerződés teljesítéséhez kapcsolódóan annak időtartama során eszközölt befektetései és a befektetett tőke ésszerű hozamot tud termelni.

@@ -1,0 +1,5 @@
+## Az öntisztázás
+
+64. § (1) A 62. § (1) bekezdés b) és f) pontjában említett kizáró okok kivételével bármely egyéb kizáró ok fennállása ellenére az ajánlattevő, részvételre jelentkező, alvállalkozó vagy alkalmasság igazolásában részt vevő gazdasági szereplő nem zárható ki a közbeszerzési eljárásból, amennyiben a Közbeszerzési Hatóság a 188. § (4) bekezdése szerinti – vagy bírósági felülvizsgálata esetén a bíróság a 188. § (5) bekezdése szerinti – jogerős határozata kimondta, hogy az érintett gazdasági szereplő az ajánlat vagy részvételi jelentkezés benyújtását megelőzően olyan intézkedéseket hozott, amelyek a kizáró ok fennállásának ellenére kellőképpen igazolják a megbízhatóságát.
+
+(2) Ha a Közbeszerzési Hatóság a 188. § (4) bekezdése szerinti – vagy bírósági felülvizsgálata esetén a bíróság a 188. § (5) bekezdése szerinti – jogerős határozata kimondja az adott kizáró ok hatálya alatt álló gazdasági szereplő megbízhatóságát, az ajánlatkérő mérlegelés nélkül köteles azt elfogadni. A jogerős határozatot a gazdasági szereplő az egységes európai közbeszerzési dokumentummal egyidejűleg köteles benyújtani.

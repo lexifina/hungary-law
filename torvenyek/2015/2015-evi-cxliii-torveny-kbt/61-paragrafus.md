@@ -1,0 +1,13 @@
+## Többváltozatú és részekre történő ajánlattétel
+
+61. § (1) Az ajánlatkérőnek az eljárást megindító felhívásban fel kell tüntetnie, hogy engedélyezi-e vagy előírja-e változatok benyújtását. Változat benyújtásának megkövetelése vagy lehetővé tétele esetén a felhívásban fel kell tüntetni, hogy változatot csak – nem változatot képező – ajánlat benyújtása esetén lehet-e benyújtani.
+
+(2) A közbeszerzési dokumentumokban fel kell tüntetni azokat a minimumkövetelményeket, amelyeknek a változatoknak meg kell felelniük, valamint a változatokra vonatkozó egyéb követelményeket. Nem írható elő a változatokra vonatkozóan olyan követelmény, amely nem kapcsolódik a szerződés tárgyához [76. § (7) bekezdés]. Az ajánlatkérő az értékelési szempontokat úgy köteles meghatározni, hogy azok a változatokra, valamint a nem változatot képező ajánlatokra is alkalmazhatók legyenek.
+
+(3) Nem érinti valamely változat megfelelőségét az a tény, hogy elfogadása esetén a közbeszerzés tárgya árubeszerzés helyett szolgáltatás megrendelésének vagy szolgáltatás megrendelése helyett árubeszerzésnek minősülne.
+
+(4) Az ajánlatkérő köteles megvizsgálni, hogy a beszerzés tárgyának jellege és a szerződéshez kapcsolódó további körülmények lehetővé teszik-e a közbeszerzés egy részére történő ajánlattételt. Ha az ajánlatkérő nem biztosítja a részekre történő ajánlattételt, az eljárást megindító felhívásban köteles megadni ennek indokát.
+
+(5) A részekre történő ajánlattétel esetén az eljárást megindító felhívásban elő kell írni, hogy a közbeszerzés tárgyának mely elemeire lehet részajánlatot tenni, illetve részvételre jelentkezni.
+
+(6) Az ajánlatkérő az eljárást megindító felhívásban meghatározza, hogy ajánlat (részvételi jelentkezés) egy, több vagy minden rész tekintetében benyújtható-e. Az ajánlatkérő korlátozhatja, hogy ugyanazon ajánlattevő legfeljebb meghatározott számú részben lehet az eljárás nyertese – akkor is, ha ajánlatot több vagy minden rész tekintetében is be lehet nyújtani –, ha az egy ajánlattevő által elnyerhető részek maximális számát az eljárást megindító felhívásban megjelölte. Ebben az esetben a közbeszerzési dokumentumokban fel kell tüntetni azokat az objektív és megkülönböztetéstől mentes szempontokat, amelyek alapján az ajánlatkérő eldönti, hogy mely részek tekintetében nyilvánítható nyertesnek az az ajánlattevő, aki az értékelési szempontok alapján a maximális számnál több részben tette az ajánlatkérő számára a legkedvezőbb ajánlatot. Ha valamely ajánlattevő nem nyilvánítható egy adott rész tekintetében nyertesnek, az értékelési szempontok alapján soron következő ajánlattevő lesz a nyertes ajánlattevő.
