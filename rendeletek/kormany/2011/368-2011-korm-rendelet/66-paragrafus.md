@@ -36,7 +36,7 @@
 
 17. arra történő utalást, hogy a költségvetési támogatás visszatérítendő vagy nem visszatérítendő,
 
-17a.[^214] a támogatás felhasználásával kapcsolatos ellenőrzés-tűrési és adatszolgáltatási kötelezettségre, valamint nyilvánossági követelményekre vonatkozó tájékoztatást,
+17a.[^223] a támogatás felhasználásával kapcsolatos ellenőrzés-tűrési és adatszolgáltatási kötelezettségre, valamint nyilvánossági követelményekre vonatkozó tájékoztatást,
 
 18. a támogató által indokoltnak tartott egyéb információkat.
 
@@ -46,4 +46,4 @@
 
 (5) A támogató a pályázati kiírás közzététele és a pályázat benyújtásának határideje között köteles biztosítani a pályázók ésszerű időn belüli tájékoztatását.
 
-[^214]: Az Ávr. 66. § (2) bekezdés 17a. pontját a 175/2015. (VII. 7.) Korm. rendelet 7. §-a iktatta be.
+[^223]: Az Ávr. 66. § (2) bekezdés 17a. pontját a 175/2015. (VII. 7.) Korm. rendelet 7. §-a iktatta be.

@@ -1,4 +1,4 @@
-74. § (1)[^217] A támogató a pályázati kiírásban meghatározott határidőn belül írásban tájékoztatja a pályázat benyújtóját a támogatási döntésről. A tájékoztatás tartalmazza a támogatási döntést, a pályázatban megjelöltnél alacsonyabb költségvetési támogatás biztosítása, a költségvetési támogatás feltételekhez kötése vagy elutasítása esetén ennek indokait, a kedvezményezett által teljesítendő feltételeket és annak határidejét, a támogatási szerződés megkötésére a támogató által megállapított ésszerű határidőre utalást és a kifogás benyújtásának lehetőségét és módját. Támogatói okirattal biztosított költségvetési támogatás esetén a tájékoztatás a támogatói okirat kiadásával valósul meg.
+74. § (1)[^226] A támogató a pályázati kiírásban meghatározott határidőn belül írásban tájékoztatja a pályázat benyújtóját a támogatási döntésről. A tájékoztatás tartalmazza a támogatási döntést, a pályázatban megjelöltnél alacsonyabb költségvetési támogatás biztosítása, a költségvetési támogatás feltételekhez kötése vagy elutasítása esetén ennek indokait, a kedvezményezett által teljesítendő feltételeket és annak határidejét, a támogatási szerződés megkötésére a támogató által megállapított ésszerű határidőre utalást és a kifogás benyújtásának lehetőségét és módját. Támogatói okirattal biztosított költségvetési támogatás esetén a tájékoztatás a támogatói okirat kiadásával valósul meg.
 
 (2) Támogatási szerződés alkalmazása esetén, ha a kedvezményezett mulasztásából a támogató által meghatározott határidőtől számított további harminc napon belül nem kerül sor a szerződéskötésre, a támogatási döntés hatályát veszti. Ha a kedvezményezett mulasztása a támogató megítélése szerint méltányolható okból származik, a szerződéskötésre az általa megállapított határidőt követő harminc napon belül az eredeti határidőnél nem hosszabb időtartamú új határidőt állapíthat meg.
 
@@ -12,4 +12,4 @@ b) a támogatási döntés hatályát veszti, vagy
 
 c) a támogató a támogatói okirat kiadásáról, módosításáról, visszavonásáról, vagy a támogatási szerződés megkötéséről, módosításáról, felbontásáról, megszüntetéséről dönt.
 
-[^217]: Az Ávr. 74. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 9. pontja szerint módosított szöveg.
+[^226]: Az Ávr. 74. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 9. pontja szerint módosított szöveg.
