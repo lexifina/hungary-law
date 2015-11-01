@@ -1,9 +1,0 @@
-43. § (1) A meghívásos és hirdetmény közzétételével induló tárgyalásos eljárás első szakaszában a részvételi felhívást és – amennyiben ajánlatkérő a dokumentációt már a részvételi szakaszban rendelkezésre bocsátotta – a dokumentációt, valamint a versenypárbeszédben a részvételi felhívást és az ismertetőt az ajánlatkérő a részvételi határidő lejártáig az 42. § (1)–(4) bekezdésében foglaltak megfelelő alkalmazásával módosíthatja azzal, hogy ajánlattételi határidő helyett részvételi határidőt, dokumentáció alatt pedig ismertetőt is érteni kell.
-
-(2) A meghívásos és a hirdetmény közzétételével induló tárgyalásos eljárás, valamint a versenypárbeszéd ajánlattételi szakaszában az ajánlatkérő az ajánlattételi határidő lejártáig az ajánlattételre felhívott gazdasági szereplők közvetlen és egyidejű tájékoztatásával módosíthatja az ajánlattételi felhívást és a dokumentációt (ismertetőt).
-
-(3) A meghívásos eljárás ajánlattételi szakaszában nem módosítható az ajánlattételi felhívás vagy a dokumentáció olyan eleme, amely már a részvételi felhívásban is szerepelt.
-
-(4) A hirdetmény közzétételével induló tárgyalásos eljárásban és a versenypárbeszédben nem módosítható úgy az ajánlattételi felhívás vagy a dokumentáció (ismertető), hogy az eljárás korábbi szakaszában (szakaszaiban) közölt feltételek olyan jelentős mértékben változzanak, amely torzítaná a versenyt vagy sértené a gazdasági szereplők esélyegyenlőségét, különösen ha az új feltételek ismerete alapvetően befolyásolhatta volna az érdekelt gazdasági szereplők arra vonatkozó döntését, hogy a közbeszerzési eljárásban tudnak-e részvételre jelentkezni, vagy a változás következtében valamelyik ajánlattevő nem lenne képes ajánlatot tenni.
-
-(5) Nagyobb terjedelmű módosítás esetén az egységes szerkezetbe foglalt dokumentáció rendelkezésre bocsátására az 50–51. § megfelelően alkalmazandó.

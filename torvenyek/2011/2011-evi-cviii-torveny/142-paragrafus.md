@@ -1,5 +1,0 @@
-142. § (1) A Közbeszerzési Döntőbizottság az eljárás megindításáról az ügyfeleket és a közbeszerzési ügyben érdekelteket értesíti és felhívja, hogy öt napon belül küldjék meg észrevételeiket. A Közbeszerzési Döntőbizottság az értesítéshez csatolja a kérelmet, illetve a hivatalból indított eljárás esetén az annak alapjául szolgáló kezdeményező iratot.
-
-(2) Az értesítéssel egyidejűleg a Közbeszerzési Döntőbizottság felhívja a közbeszerzési eljárás ajánlatkérőjét vagy a közbeszerzési eljárást mellőzve beszerzőt a közbeszerzéssel vagy a beszerzéssel kapcsolatban rendelkezésre álló összes irat vagy amennyiben ez nem szükséges, az általa meghatározott iratok 5 napon belüli megküldésére. Ha a kérelmet az ajánlatkérő nyújtja be, a rendelkezésére álló iratokat a kérelemmel együtt köteles megküldeni.
-
-(3) A Közbeszerzési Döntőbizottság eljárásának megindítása esetén az ajánlatkérő a folyamatban levő közbeszerzési eljárását felfüggesztheti, melyről köteles a Közbeszerzési Döntőbizottságot értesíteni. A felfüggesztés a folyamatban lévő eljárási határidőket a felfüggesztés időtartamával meghosszabbítja.

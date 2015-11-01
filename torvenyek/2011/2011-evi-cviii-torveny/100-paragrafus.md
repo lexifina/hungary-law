@@ -1,5 +1,0 @@
-100. § (1) A hirdetmény nélküli tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles benyújtani a Közbeszerzési Döntőbizottsághoz az ajánlattételi felhívást, továbbá az ajánlattételre felhívni kívánt gazdasági szereplők nevéről, címéről (székhelyéről, lakóhelyéről), a beszerzés becsült értékéről, valamint a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást.
-
-(2) A 94. § (2) bekezdés d) pontja esetében az ajánlattételi felhívásnak vagy adott esetben a tárgyalási meghívónak a gazdasági szereplők részére történő megküldésével egyidejűleg az ajánlatkérőnek haladéktalanul tájékoztatnia kell a Közbeszerzési Döntőbizottságot az (1) bekezdésben foglaltak szerint. Ajánlattételi felhívás helyett adott esetben a tárgyalási meghívót kell megküldeni.
-
-(3) A 94. § (4) bekezdés c) és d) pontja szerinti tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles a Közbeszerzési Döntőbizottsághoz – telefaxon vagy elektronikus úton – benyújtani a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást, a d) pont szerinti esetben továbbá az érintett szervezet nevét és címét.

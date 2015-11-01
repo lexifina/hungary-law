@@ -1,3 +1,0 @@
-86. § (1) Ha a részvételi szakasz eredményes, az eredménynek a részvételre jelentkezőkkel történt közlésétől számított öt munkanapon belül az ajánlatkérő köteles az alkalmasnak minősített jelentkezőknek – amennyiben ajánlatkérő meghatározta az ajánlattevők keretszámát, a műszaki vagy szakmai alkalmasság alapján kiválasztott jelentkezőknek – az írásbeli ajánlattételi felhívást egyidejűleg megküldeni.
-
-(2) Amennyiben az alkalmasnak minősített jelentkezők száma nem éri el a keretszám alsó határát, az ajánlatkérő az alkalmasnak minősített jelentkezők ajánlattételre felhívásával folytatja az eljárást. Az ajánlattételre felhívott jelentkezők közösen nem tehetnek ajánlatot.
