@@ -1,0 +1,13 @@
+13. § (1) Az előminősítési szempontokat és azok igazolási módjait az ajánlatkérő a Kbt. XI. Fejezetében foglaltakkal összhangban – a közbeszerzési eljárásban az alkalmasság és a kizáró okok igazolásának módjáról szóló külön jogszabályban meghatározottak szerint – köteles meghatározni, azzal, hogy az alkalmasság vizsgálata körében egyéb objektív alapú előminősítési szempontot és igazolási módot is előírhat, de ennek során is megfelelően alkalmaznia kell a Kbt. 65. § (3) és (5) bekezdésében foglaltakat.
+
+(2) Az előminősítési szempontok meghatározása során nem lehet különbséget tenni a gazdasági szereplők között székhelyük vagy letelepedési helyük szerint, sem olyan adminisztratív, pénzügyi vagy műszaki feltételek előírása révén, amelyek csak egyes gazdasági szereplőkre érvényesek. Az ajánlatkérő nem követelheti meg olyan igazolások benyújtását a gazdasági szereplőktől, amelyek már rendelkezésére állnak.
+
+(3) Az ajánlatkérő köteles az előminősítési rendszer működésének részleteit és az előminősítési szempontokat, valamint azok igazolási módját is tartalmazó közbeszerzési dokumentumokat előkészíteni és rendelkezésre bocsátani, amelyekben meg kell adnia a 12. § (4) bekezdésében foglaltak mellett az előminősítési kérelem elbírálási határidejét is. Az elbírálási határidő hat hónapnál hosszabb nem lehet. Ha az elbírálás előreláthatólag négy hónapnál hosszabb időt vesz igénybe, az ajánlatkérő az előminősítési kérelem benyújtásától számított két hónapon belül köteles tájékoztatni a gazdasági szereplőt az elbírálás hosszabb időtartamát indokoló körülményekről, valamint kérelme elbírálásának várható időpontjáról.
+
+(4) Ha az ajánlatkérő egy másik ajánlatkérő előminősítési rendszerét – figyelemmel az előminősítési szempontokra – egyenértékűnek tartja, erről és e másik ajánlatkérő nevéről, címéről, illetve a hivatkozott előminősítés elfogadásáról tájékoztatást ad az előminősítési dokumentációban.
+
+(5) Az ajánlatkérő köteles a (3) bekezdés szerinti közbeszerzési dokumentumokat az előminősítési hirdetmény közzétételének napjától kezdve rendelkezésre bocsátani a Kbt. 39. §-ában foglalt módon.
+
+(6) Ha az ajánlatkérő módosítja az előminősítési rendszer működtetésére vonatkozó szabályokat, vagy az előminősítési szempontokat és azok igazolási módjait, köteles új előminősítési hirdetményt közzétenni, valamint a már listára vett előminősített gazdasági szereplőket és az előminősítési kérelmet benyújtókat egyidejűleg, közvetlenül, írásban tájékoztatni.
+
+(7) Az előminősítési rendszer megszűnéséről vagy megszüntetéséről az ajánlatkérő az eljárás eredményéről szóló tájékoztatóban ad tájékoztatást.
