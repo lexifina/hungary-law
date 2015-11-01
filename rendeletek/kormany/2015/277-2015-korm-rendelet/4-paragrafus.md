@@ -1,3 +1,1 @@
-## 3. §[^2]
-
-[^2]: A 3. § a 7. § (2) bekezdése alapján 2015. november 1-jén lép hatályba.
+## 3. § A GET Vhr. 1. számú melléklete a 2. melléklet szerint módosul.
