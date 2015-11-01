@@ -1,4 +1,4 @@
-## 79/A. [^8] A reintegrációs őrizet
+## 79/A. [^10] A reintegrációs őrizet
 
 136/A. § (1) A bv. intézet a reintegrációs őrizet esedékessége előtt három hónappal megvizsgálja, hogy a Bv. tv. 187/A. § (1) bekezdésében meghatározott feltételek teljesülnek-e, és hogy az elítélt esetében nem állnak-e fenn a Bv. tv. 187/C. §-ában megjelölt kizáró okok.
 
@@ -18,4 +18,4 @@
 
 (9) A bv. intézet a reintegrációs őrizet elrendelésére az előterjesztést a büntetés-végrehajtási bírónak a Bv. tv. 187/A. § (1) bekezdésében meghatározott határnapot legalább harminc nappal megelőzően teszi meg. Az előterjesztéshez a lakás alkalmasságának felméréséről készült jegyzőkönyvet és a büntetés-végrehajtási párfogó felügyelői környezettanulmányt mellékelni kell.
 
-[^8]: A 79/A. alcímet (136/A–136/F. §) a 6/2015. (III. 30.) IM rendelet 11. §-a iktatta be.
+[^10]: A 79/A. alcímet (136/A–136/F. §) a 6/2015. (III. 30.) IM rendelet 11. §-a iktatta be.

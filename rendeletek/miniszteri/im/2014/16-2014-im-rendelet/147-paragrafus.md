@@ -1,5 +1,3 @@
-## 146. § Ha az elítélt a rendszeres pénzellátásainak a bv. intézetbe történő folyósítását kérte és erről a szabadulásakor nem rendelkezett, akkor azt a szabadulását követően az általa megadott szabadulási címre kell továbbítani.
-
 ## 86. Eljárás az elítélt halála esetén
 
 147. § (1) A bv. intézetben elhunyt elítélt haláláról a bv. intézet haladéktalanul értesíti
