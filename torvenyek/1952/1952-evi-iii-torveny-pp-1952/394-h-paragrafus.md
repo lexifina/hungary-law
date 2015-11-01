@@ -39,9 +39,3 @@ g) – ha a beadványnak másik bíróságon előzménye van és a beadvány ada
 (9) Ha az iratot azért nem lehetett kézbesíteni, mert a fél vagy képviselője a kézbesítési rendszer azon szolgáltatását megszüntette, melyen keresztül a részére a bírósági iratok kézbesítésre kerülhetnek, a felet vagy képviselőjét a bíróság pénzbírsággal (120. §) sújtja és a bírósági iratot papír alapon kézbesíti.
 
 (10) A kézbesítésre a 99. § (5) bekezdését nem lehet alkalmazni.
-
-## NYOLCADIK RÉSZ
-
-## VEGYES RENDELKEZÉSEK
-
-## XXIX. Fejezet

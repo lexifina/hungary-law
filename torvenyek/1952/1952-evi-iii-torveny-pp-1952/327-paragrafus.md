@@ -6,7 +6,7 @@ a) az ügyfél,
 
 b) a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője.
 
-(2) A keresetet az ellen a közigazgatási szerv ellen kell indítani, amelyik a felülvizsgálni kért határozatot hozta. Ha a közigazgatási szerv által hozott határozattal elbírált ügyben a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt vizsgálati eljárást indított, a perben beavatkozóként részt vehet.
+(2) A keresetet az ellen a közigazgatási szerv ellen kell indítani, amelyik a felülvizsgálni kért határozatot hozta.
 
 (3) Ha a fél a pert nem a felülvizsgálni kért határozatot hozó másodfokú, hanem az első fokú közigazgatási szerv ellen indította, a per során a másodfokú közigazgatási szervet perbe vonhatja.
 

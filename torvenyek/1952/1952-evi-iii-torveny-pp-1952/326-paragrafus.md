@@ -12,7 +12,7 @@
 
 (6) A Magyarország területére történő beutazásra és az ott való tartózkodásra vonatkozó ügyekben hozott közigazgatási határozatok felülvizsgálata iránti perekben az illetékességet az első fokon eljárt közigazgatási szerv székhelye alapozza meg. Ha az eljárt hatóság székhelye alapján az illetékesség nem állapítható meg, a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
-(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(13) bekezdésben foglalt kivétellel – a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(14) bekezdésben foglalt kivétellel – a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 (8) Ha ugyanazon közigazgatási határozat felülvizsgálata iránt több bíróság előtt indítanak pert, az az illetékes bíróság jár el, amelyhez a keresetlevelet elsőként továbbították. A közigazgatási szerv az utóbb továbbított keresetlevélre a 330. § (2) bekezdése szerint megtett nyilatkozatában felhívja a bíróság figyelmét arra, hogy korábban az adott határozat ellen másik keresetlevelet nyújtottak be, és azt az abban megjelölt másik illetékes bírósághoz továbbították. Az a bíróság, amelynek a közigazgatási szerv utóbb továbbított keresetlevelet, a 129. § szerint jár el.
 
@@ -64,7 +64,7 @@ p) a bírósági végrehajtásról szóló törvény,
 
 q) a közúti közlekedésről szóló törvény,
 
-r) a közbeszerzésekről szóló törvény, ha a közbeszerzési eljárásban az ajánlatkérő nem a törvényben meghatározott központi költségvetési szerv,
+r)
 
 s) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény.
 
@@ -79,3 +79,11 @@ b) a Barcsi Járásbíróság illetékességi területéhez tartozó település
 c) a Zala megye és Somogy megye – a Barcsi Járásbíróság illetékességi területéhez tartozó települések területének kivételével – területén benyújtott kérelmek tekintetében a Zalaegerszegi Közigazgatási és Munkaügyi Bíróság
 
 illetékes.
+
+(14) A közbeszerzésekről szóló törvény alapján indult közigazgatási perekben kizárólagosan illetékes
+
+a) a Kecskeméti Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Bács-Kiskun megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád megye, Hajdú-Bihar megye, Heves megye, Jász-Nagykun-Szolnok megye, Nógrád megye vagy Szabolcs-Szatmár-Bereg megye területén; illetve
+
+b) a Székesfehérvári Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Budapesten, valamint Baranya megye, Fejér megye, Győr-Moson-Sopron megye, Komárom-Esztergom megye, Pest megye, Somogy megye, Tolna megye, Vas megye, Veszprém megye vagy Zala megye területén
+
+található.

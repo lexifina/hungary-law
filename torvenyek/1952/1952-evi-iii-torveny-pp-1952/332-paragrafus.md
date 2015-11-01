@@ -30,6 +30,6 @@ e) végrehajtása felfüggesztésének törvényben meghatározott feltételei n
 
 (4) A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. Ha a fél a végrehajtás felfüggesztése iránti kérelme elutasítását követően ismételten – azonos ténybeli és jogi alapon – nyújt be végrehajtás felfüggesztése iránti kérelmet, a végrehajtás felfüggesztését megtagadó végzés ellen külön fellebbezésnek nincs helye. A bíróságnak a végrehajtás felfüggesztését elrendelő végzése fellebbezésre tekintet nélkül végrehajtható.
 
-(5) Ha a közigazgatási eljárásban ellenérdekű ügyfél vagy a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt szerv ügyfélként szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
+(5) Ha a közigazgatási eljárásban ellenérdekű ügyfél szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
 
 (6) Ha a közigazgatási határozat meghozatalára szakhatósági állásfoglalás alapulvételével került sor, az alperes a szakhatóságot perbe hívhatja, amely a perbehívást nem utasíthatja vissza.
