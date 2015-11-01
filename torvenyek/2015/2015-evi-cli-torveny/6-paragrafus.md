@@ -1,0 +1,3 @@
+6. § A Be. 57. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A sértett, a magánvádló, a magánfél vagy az egyéb érdekelt kérelmére – ha annak a jogi segítségnyújtásról szóló törvényben foglalt feltételei fennállnak – a törvényben meghatározott szervezet engedélyezi a pártfogó ügyvédi képviseletet. Ha a nyomozó hatóság, az ügyész vagy a bíróság észleli, hogy a pártfogó ügyvédi képviselet engedélyezésének feltételei a felsoroltak valamelyikénél fennállnak, e személyt tájékoztatja arról, hogy pártfogó ügyvédi képviselet engedélyezését kérheti. Ha az ügyész a Polgári perrendtartásban meghatározottak szerint perindításra jogosult, erre a bíróság az ügyész figyelmét felhívhatja.”
