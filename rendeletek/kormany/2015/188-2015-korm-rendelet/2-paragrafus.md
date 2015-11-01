@@ -8,7 +8,7 @@
 
 4. beszerzési eljárás: az e rendeletben szabályozott eljárás;
 
-5. gazdasági szereplő: a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 4. § 9. pontja szerinti személy vagy szervezet;
+5.[^2] gazdasági szereplő: a közbeszerzésekről szóló törvényben (a továbbiakban: Kbt.) így meghatározott személy vagy szervezet;
 
 6. hírszerző és elhárítási tevékenység: a nemzetbiztonsági szolgálatoknak a nemzetbiztonsági érdek érvényesítése céljából az Nbtv.-ben meghatározott feladataik teljesítése során, a nyílt és titkos információgyűjtés eszközeivel folytatott tevékenysége, ideértve a kémelhárítási tevékenységet is, továbbá az 1. pontban meghatározott szervek határvédelemmel, a terrorizmus és a szervezett bűnözés elleni küzdelemmel összefüggő, a rejtjeltevékenységre vonatkozó tevékenysége, az 1. pontban meghatározott szervek által végrehajtott leplezett tevékenység;
 
@@ -17,3 +17,5 @@
 8. minősített adat: a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § (1) bekezdés 1. pontjában meghatározott adat;
 
 9. nemzetbiztonsági érdek: az Nbtv. 74. § a) pontjában meghatározott közérdek.
+
+[^2]: A 2. § 5. pontja a 323/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 17. §-a alapján a 2015. november 1-je után megkezdett közbeszerzési eljárásokra kell alkalmazni.
