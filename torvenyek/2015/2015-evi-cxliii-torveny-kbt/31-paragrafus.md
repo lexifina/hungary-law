@@ -8,4 +8,4 @@
 
 (4) Az e § szerinti központosított közbeszerzési eljárások részletes – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – szabályait külön jogszabály határozza meg.
 
-(5) A központosított közbeszerzési eljárásokat elektronikus úton kell megvalósítani.
+(5)
