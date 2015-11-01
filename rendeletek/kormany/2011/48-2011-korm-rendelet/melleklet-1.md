@@ -2,7 +2,7 @@
 
 1. melléklet a 48/2011. (III. 30.) Korm. rendelethez
 
-## A közúti járművek teljes élettartamára vonatkozó üzemeltetési költségek kiszámításához alkalmazandó adatok
+A közúti járművek teljes élettartamára vonatkozó üzemeltetési költségek kiszámításához alkalmazandó adatok
 
 1. táblázat: Az üzemanyagok energiatartalma
 
