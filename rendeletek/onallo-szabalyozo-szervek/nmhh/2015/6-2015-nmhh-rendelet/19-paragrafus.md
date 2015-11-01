@@ -1,0 +1,7 @@
+19. § (1) Az Eht. 117. § b) pontja szerinti szolgáltatáselem nyújtására kijelölt egyetemes szolgáltató egy településen minden megkezdett háromezer lakosonként legalább egy darab, háromezer főnél kisebb lélekszámú település esetében településenként legalább egy darab nyilvános telefonállomást köteles működtetni, továbbá ezen nyilvános telefonállomások legalább 3%-át hallás-, vagy mozgáskorlátozottak által is használható módon köteles kialakítani.
+
+(2) Ha egy településen egy nyilvános telefonállomás található, az egyetemes szolgáltató a nyilvános telefonállomást olyan helyen vagy olyan védő, burkoló műtárgyban köteles elhelyezni, amely lehetővé teszi, hogy a nyilvános telefonállomás a nap bármelyik szakában használható legyen, és a környezeti hatások ne tegyék lehetetlenné a szolgáltatás igénybevételét (a továbbiakban: telefonfülke).
+
+(3) Ha egy településen kettő nyilvános telefonállomás található, legalább az egyiket, kettőnél több esetén legalább a nyilvános telefonállomások 60%-át telefonfülkében köteles elhelyezni az egyetemes szolgáltató, a többi nyilvános telefonállomás legalább munkanapokon 8–16 óráig nyitva tartó középületben, épületben vagy más védett helyen is elhelyezhető.
+
+(4) A hallás-, vagy mozgáskorlátozottak számára nyilvános telefonállomásokat úgy köteles kialakítani az egyetemes szolgáltató, hogy az megkönnyítse a telefonkészülék használatát, és a szolgáltatás igénybevételét.

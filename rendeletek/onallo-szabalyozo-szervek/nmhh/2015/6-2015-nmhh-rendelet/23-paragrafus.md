@@ -1,0 +1,11 @@
+23. § (1) Az előfizetőkhöz telefonszámokat rendelő szolgáltató – beleértve a helyhez kötött telefonszolgáltatást, a mobil rádiótelefon szolgáltatást és a nomadikus szolgáltatást nyújtó szolgáltatókat – a felek eltérő megállapodásának hiányában első alkalommal a tudakozó szolgáltatás nyújtására kijelölt egyetemes szolgáltató erre irányuló írásbeli igénye alapján az igény kézhezvételét követő 60 napon belül, azt követően heti rendszerességgel köteles díjmentesen átadni az előfizetői adatokat.
+
+(2) Az előfizetőkhöz telefonszámokat rendelő szolgáltató – beleértve a helyhez kötött telefonszolgáltatást, a mobil rádiótelefon szolgáltatást és a nomadikus szolgáltatást nyújtó szolgáltatókat – az (1) bekezdés szerinti heti rendszerességű adatátadás keretében köteles jelezni az előfizetői tudakozói névjegyzék készítésére kijelölt egyetemes szolgáltatónak, ha az előfizető bejelenti, hogy az adatai megváltoztak, vagy azt, hogy az adatai a hozzájárulásától eltérően szerepelnek az előfizetői tudakozói névjegyzékben. Ezen esetekben az előfizetői tudakozói névjegyzék adatainak módosítása díjmentes.
+
+(3) Új egyetemes tudakozó szolgáltató kijelölése esetén az adott földrajzi terület ellátására korábban kijelölt egyetemes tudakozó szolgáltató az új egyetemes tudakozó szolgáltató erre irányuló írásbeli igénye kézhezvételét követő 30 napon belül köteles az általa készített előfizetői tudakozói névjegyzéket díjmentesen rendelkezésére bocsátani.
+
+(4) Az egyetemes tudakozó szolgáltató köteles a rendelkezésére bocsátott adatokból hetente előfizetői tudakozói névjegyzéket készíteni és azt a felhasználók számára interneten és telefonos kezelői szolgáltatás útján elérhetővé tenni.
+
+(5) Az előfizetőkhöz telefonszámokat rendelő szolgáltató – beleértve a helyhez kötött telefonszolgáltatást, a mobil rádiótelefon szolgáltatást és a nomadikus telefonszolgáltatást nyújtó szolgáltatókat – köteles biztosítani, hogy a hálózatából az előfizetői hozzáférés helye szerint kijelölt egyetemes tudakozó szolgáltató tudakozó szolgáltatása az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről szóló NMHH rendelet szerinti rövidített hívószámmal elérhető legyen.
+
+(6) Ha országos tudakozó szolgáltatás nyújtására az Elnök több egyetemes szolgáltatót jelöl ki, az egyetemes szolgáltatók az (1) és (4) bekezdés alkalmazása során kötelesek együttműködni.
