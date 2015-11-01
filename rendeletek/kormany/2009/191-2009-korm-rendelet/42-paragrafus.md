@@ -34,6 +34,8 @@ e)[^302] a közlekedési sajátos építményfajták vonatkozásában 2015. janu
 
 követően megkezdett kivitelezések esetén kell alkalmazni.
 
+(8)[^303] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezését a módosító rendelet hatálybalépését[^304] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+
 [^292]: A 42. §-t a 182/2010. (V. 14.) Korm. rendelet 5. § (36) bekezdése iktatta be.
 [^293]: A hatálybalépés időpontja: 2010. május 15.
 [^294]: A 42. § (1) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 13. § n) pontja szerint módosított szöveg.
@@ -45,3 +47,5 @@ követően megkezdett kivitelezések esetén kell alkalmazni.
 [^300]: A 42. § (7) bekezdés b) pontja a 160/2014. (VI. 30.) Korm. rendelet 2. §-a szerint módosított szöveg. [A 42. § (7) bekezdés b) pontjában a 62/2014. (III. 6.) Korm. rendelet 12. § 26. pontjával elrendelt módosítás, amely szerint a „célú építmények” szövegrész helyébe a „célú, valamint az elektronikus hírközlési építmények” szöveg lép, nem vezethető át.]
 [^301]: A 42. § (7) bekezdés c) pontja a 100/2014. (III. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^302]: A 42. § (7) bekezdés e) pontját a 160/2014. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^303]: A 42. § (8) bekezdését a 323/2015. (X. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^304]: A hatálybalépés időpontja 2015. november 1.
