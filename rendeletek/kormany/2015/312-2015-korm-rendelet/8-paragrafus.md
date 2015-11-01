@@ -1,0 +1,3 @@
+## 7. § Az R. 6/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha a kibocsátó az új biztonsági okmányt már az előtt kívánja kibocsátani, hogy az bekerült volna az 1. számú mellékletbe, sürgős esetben a miniszterhez címzett nyilatkozatot terjeszthet elő a Szakszolgálatnál arra vonatkozóan, hogy – önkéntes vállalása alapján – az új okmányra nézve is alkalmazza e rendelet előírásait. A nyilatkozatnak tartalmaznia kell az okmány okmányvédelmi – és elektronikus biztonsági okmány esetén az okmányinformatikai védelmi – kategóriába történő besorolására vonatkozó kibocsátói javaslatot is.”
