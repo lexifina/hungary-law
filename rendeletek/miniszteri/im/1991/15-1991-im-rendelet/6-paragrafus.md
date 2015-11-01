@@ -272,15 +272,13 @@ egy körzet --- egész év
 
 Pest megye
 
-1.[^34] Budakeszi és Budajenő, Nagykovácsi, Páty, Perbál, Solymár, Telki, Tinnye, Tök, Zsámbék (a Budakörnyéki Járásbíróság illetékességi területéből)
+1.[^34] Budakeszi és Budajenő, Nagykovácsi, Páty, Perbál, Remeteszőlős, Solymár, Telki, Tinnye, Tök, Zsámbék (a Budakörnyéki Járásbíróság illetékességi területéből)
 
 1. sz. közjegyző január, március, május, július, szeptember, november
 
 2. sz. közjegyző február, április, június, augusztus, október, december
 
-2.[^35] Pilisvörösvár, Pilisborosjenő, Piliscsaba, Pilisszentiván, Üröm
-
-(a Budakörnyéki Járásbíróság illetékességi területéből)
+2.[^35] Pilisvörösvár, Pilisborosjenő, Piliscsaba, Pilisjászfalu, Pilisszentiván, Üröm (a Budakörnyéki Járásbíróság illetékességi területéből)
 
 egy körzet --- egész év
 
@@ -370,7 +368,7 @@ egy körzet egész év
 
 egy körzet egész év
 
-18.[^51] Aszód és Bag, Domony, Galgamácsa, Iklad, Kartal, Vácegres, Váckisújfalu, Verseg (a Gödöllői Járásbíróság illetékességi területéről)
+18.[^51] Aszód és Bag, Domony, Galgamácsa, Iklad, Kartal, Vácegres, Verseg (a Gödöllői Járásbíróság illetékességi területéből) és Váckisújfalu (a Váci Járásbíróság illetékességi területéből)
 
 egy körzet egész év
 
@@ -386,7 +384,7 @@ Körzet --- A hagyatéki eljárásban irányadó havi beosztás
 
 Győr-Moson-Sopron megye
 
-1.[^52] Csorna és Acsalag, Barbacs, Bágyogszovát, Bezi, Bodonhely, Bogyoszló, Bősárkány, Cakóháza, Dör, Egyed, Fehértó, Győrsövényház, Jobaháza, Kisbabod, Kóny, Maglóca, Magyarkeresztúr, Markotabödöge, Mérges, Páli, Pásztori, Potyond, Rábacsanak, Rábacsécsény, Rábapordány, Rábasebes, Rábaszentandrás, Rábaszentmihály, Rábatamási Rábcakapi, Sobor, Sopronnémeti, Szany, Szil, Szilsárkány, Tárnokréti, Vág, Zsebeháza (a Győri Járásbíróság illetékességi területéből)
+1.[^52] Csorna és Acsalag, Barbacs, Bágyogszovát, Bezi, Bodonhely, Bogyoszló, Bősárkány, Cakóháza, Dör, Egyed, Fehértó, Győrsövényház, Jobaháza, Kisbabot, Kóny, Maglóca, Magyarkeresztúr, Markotabödöge, Mérges, Páli, Pásztori, Potyond, Rábacsanak, Rábacsécsény, Rábapordány, Rábasebes, Rábaszentandrás, Rábaszentmihály, Rábatamási Rábcakapi, Sobor, Sopronnémeti, Szany, Szil, Szilsárkány, Tárnokréti, Vág, Zsebeháza (a Győri Járásbíróság illetékességi területéből)
 
 egy körzet --- egész év
 
@@ -424,15 +422,13 @@ egy körzet --- egész év
 
 Vas megye
 
-1.[^57] Celldömölk és Boba, Borgáta, Csönge, Duka, Egyházashetye, Jánosháza, Karakó, Keléd, Kemeneskápolna, Kemenesmagasi, Kemenespálfa, Kemenesszentmárton, Kenyeri, Kissomlyó, Köcsk, Mersevát, Mesteri, Nagysimonyi, Nemeskeresztúr, Nemeskocs, Ostffyasszonyfa, Pápóc, Sömjénmihályfa, Sergény, Tokorcs, Vönöck
-
-(a Sárvári Járásbíróság illetékességi területéből)
+1.[^57] Celldömölk és Boba, Borgáta, Csönge, Duka, Egyházashetye, Jánosháza, Karakó, Keléd, Kemeneskápolna, Kemenesmagasi, Kemenesmihályfa, Kemenespálfa, Kemenessömjén, Kemenesszentmárton, Kenyeri, Kissomlyó, Köcsk, Mersevát, Mesteri, Nagysimonyi, Nemeskeresztúr, Nemeskocs, Ostffyasszonyfa, Pápoc, Szergény, Tokorcs, Vönöck (a Sárvári Járásbíróság illetékességi területéből)
 
 egy körzet --- egész év
 
 2.[^58]
 
-|  | Körmendi Járásbíróság és Viszák (a Sárvári Járásbíróság illetékességi területéből) | egy körzet | egész év |
+|  | Körmendi Járásbíróság | egy körzet | egész év |
 
 3.[^59] Kőszegi Járásbíróság
 
@@ -440,7 +436,7 @@ egy körzet --- egész év
 
 4.[^60]
 
-|  | Sárvári Járásbíróság (kivéve az 1. és a 2. alattit) | egy körzet | egész év |
+|  | Sárvári Járásbíróság (kivéve az 1. pont alattit) | egy körzet | egész év |
 
 5.[^61]
 
@@ -484,11 +480,7 @@ Veszprém megye
 
 4. sz. közjegyző április, augusztus, december
 
-5.[^66] Balatonfüred
-
-Alsóörs, Aszófő, Bala-tonakali, Balatonalmádi, Balatoncsicsó, Balatonfüred, Balatonszepezd, Balaton-szőlős, Balatonudvari, Csopak, Dörgicse, Felsőőrs, Lovas, Monoszló, Óbudavár, Örvényes, Paloznak, Pécsely, Szentantalfa, Szentjakabfa, Tagyon, Tihany, Vászoly, Zánka
-
-(a Veszprémi Járásbíróság illetékességi területéből)
+5.[^66] Balatonfüred, Alsóörs, Aszófő, Balatonakali, Balatonalmádi, Balatoncsicsó, Balatonszepezd, Balatonszőlős, Balatonudvari, Csopak, Dörgicse, Felsőörs, Lovas, Monoszló, Óbudavár, Örvényes, Paloznak, Pécsely, Szentantalfa, Szentjakabfa, Tagyon, Tihany, Vászoly, Zánka (a Veszprémi Járásbíróság illetékességi területéből)
 
 egy körzet egész év
 
@@ -516,7 +508,7 @@ egy körzet --- egész év
 
 3. sz. közjegyző március, június, szeptember, december
 
-4.[^71] Zalaegerszegi Járásbíróság
+4.[^71] Zalaegerszegi Járásbíróság (kivéve Almásháza és Tilaj)
 
 1. sz. közjegyző --- január, április, július, október
 
@@ -524,7 +516,7 @@ egy körzet --- egész év
 
 3. sz. közjegyző --- március, június, szeptember, december
 
-5.[^72] Zalaszentgrót és Almásháza, Batyk, Döbröce, Dötk, Kallósd, Kehidakustány, Kisgörbő, Kisvásárhely, Mihályfa, Nagygörbő, Óhid, Pakod, Sénye, Sümegcsehi, Szalapa, Tekenye, Türje, Tilaj, Vindornyaszőlős, Zalabér, Zalaszántó, Zalaszentlászló, Zalavég, Zalacsány (a Keszthelyi Járásbíróság illetékességi területéről)
+5.[^72] Zalaszentgrót, Batyk, Döbröce, Dötk, Kallósd, Kehidakustány, Kisgörbő, Kisvásárhely, Mihályfa, Nagygörbő, Óhid, Pakod, Sénye, Sümegcsehi, Szalapa, Tekenye, Türje, Vindornyaszőlős, Zalabér, Zalaszántó, Zalaszentlászló, Zalavég, Zalacsány (a Keszthelyi Járásbíróság illetékességi területéből) és Almásháza, Tilaj (a Zalaegerszegi Járásbíróság illetékességi területéből)
 
 egy körzet egész év
 
@@ -768,11 +760,11 @@ egy körzet --- egész év
 
 3. sz. közjegyző --- március, június, szeptember, december
 
-3.[^107] Sárbogárdi Járásbíróság
+3.[^107] Sárbogárdi Járásbíróság, valamint Mezőszilas és Sárosd (a Székesfehérvári Járásbíróság illetékességi területéből)
 
 egy körzet --- egész év
 
-4.[^108] Székesfehérvári Járásbíróság (kivéve az 5. pont alatti)
+4.[^108] Székesfehérvári Járásbíróság (kivéve az 5. pont alatti, valamint Mezőszilas és Sárosd)
 
 1. sz. közjegyző január, július
 
@@ -870,11 +862,11 @@ Bács-Kiskun megye
 
 2. sz. közjegyző --- február, április, június, augusztus, október, december
 
-2.[^122] Kalocsai Járásbíróság (kivéve a 7. pont alatti)
+2.[^122] Kalocsai Járásbíróság (kivéve Solt és Újsolt)
 
 egy körzet egész év
 
-3.[^123] Kecskeméti Járásbíróság
+3.[^123] Kecskeméti Járásbíróság és Izsák (a Kiskőrösi Járásbíróság illetékességi területéből)
 
 1. sz. közjegyző --- január, május, szeptember
 
@@ -884,7 +876,7 @@ egy körzet egész év
 
 4. sz. közjegyző --- április, augusztus, december
 
-4.[^124] Kiskőrösi Járásbíróság
+4.[^124] Kiskőrösi Járásbíróság (kivéve Izsák)
 
 1. sz. közjegyző január, március, május, július, szeptember, november
 
@@ -902,7 +894,7 @@ egy körzet egész év
 
 2. sz. közjegyző --- február, április, június, augusztus, október, december
 
-7.[^127] Kunszentmiklósi Járásbíróság és Solt, Újsolt
+7.[^127] Kunszentmiklósi Járásbíróság, valamint Solt és Újsolt (a Kalocsai Járásbíróság illetékességi területéből)
 
 egy körzet egész év
 
@@ -926,7 +918,7 @@ egy körzet --- egész év
 
 4. sz. közjegyző április, augusztus, december
 
-4.[^131] Gyulai Járásbíróság és Doboz, Újkígyós, Szabadkígyós
+4.[^131] Gyulai Járásbíróság (kivéve Biharugra, Körösnagyharsány, Okány, Zsadány) és Doboz, Szabadkígyós, Újkígyós (a Békéscsabai Járásbíróság illetékességi területéből)
 
 1. sz. közjegyző január, március, május, július, szeptember, november
 
@@ -938,11 +930,11 @@ egy körzet --- egész év
 
 2. sz. közjegyző február, április, június, augusztus, október, december
 
-6.[^133] Szarvasi Járásbíróság (kivéve Dévaványa és Ecsegfalva)
+6.[^133] Szarvasi Járásbíróság (kivéve Dévaványa)
 
 egy körzet --- egész év
 
-7.[^134] Szeghalmi Járásbíróság és Dévaványa, Ecsegfalva (a Szarvasi Járásbíróság illetékességi területéből)
+7.[^134] Szeghalmi Járásbíróság és Biharugra, Körösnagyharsány, Okány, Zsadány (a Gyulai Járásbíróság illetékességi területéből), valamint Dévaványa (a Szarvasi Járásbíróság illetékességi területéből)
 
 egy körzet --- egész év
 
@@ -1051,8 +1043,8 @@ egy körzet --- egész év
 [^31]: A melléklet I. Rész Nógrád megye címének 1. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 5. pontja szerint módosított szöveg.
 [^32]: A melléklet I. Rész Nógrád megye címének 2. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 6. pontja szerint módosított szöveg.
 [^33]: A melléklet I. Része Nógrád megye címének 3. pontja a 29/2003. (VII. 16.) IM rendelet 2. §-ának (3) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 7. pontja szerint módosított szöveg.
-[^34]: A melléklet I. Része Pest megye címének 1. pontját a 4/1994. (II. 27.) IM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti 1–12. pont számozását 2–13. pontra változtatta. Az 1. pont a 11/2006. (III. 7.) IM rendelet 2. § (2) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 8. pontja szerint módosított szöveg.
-[^35]: A melléklet I. Része Pest megye címének új 2. pontját a 8/1994. (VI. 30.) IM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2–13. pont számozását 3–14. pontra változtatva. A 2. pont az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 8. pontja szerint módosított szöveg.
+[^34]: A melléklet I. Része Pest megye címének 1. pontját a 4/1994. (II. 27.) IM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti 1–12. pont számozását 2–13. pontra változtatta. Az 1. pont a 11/2006. (III. 7.) IM rendelet 2. § (2) bekezdésével megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 8. pontja, a 28/2015. (X. 15.) IM rendelet 1. § 1. pontja szerint módosított szöveg.
+[^35]: A melléklet I. Része Pest megye címének új 2. pontját a 8/1994. (VI. 30.) IM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti 2–13. pont számozását 3–14. pontra változtatva. A 2. pont az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 8. pontja, a 28/2015. (X. 15.) IM rendelet 1. § 2. pontja szerint módosított szöveg.
 [^36]: A melléklet I. Része Pest megye címe 2. – eredeti 1. – pontjának számozását 3. pontra változtatta a 8/1994. (VI. 30.) IM rendelet 2. § (2) bekezdése, szövege a 21/2014. (III. 13.) KIM rendelet 9. § (5) bekezdésével megállapított szöveg.
 [^37]: A melléklet I. Része Pest megye címe 3. – eredeti 2. – pontjának számozását 4. pontra változtatta a 8/1994. (VI. 30.) IM rendelet 2. § (2) bekezdése. A 4. pont a 23/2004. (VI. 19.) IM rendelet 2. §-ának (2) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 10. pontja szerint módosított szöveg.
 [^38]: A melléklet I. Része Pest megye címe 4. – eredeti 3. – pontjának számozását 5. pontra változtatta a 8/1994. (VI. 30.) IM rendelet 2. § (2) bekezdése. Az 5. pont az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 11. pontja szerint módosított szöveg.
@@ -1068,28 +1060,28 @@ egy körzet --- egész év
 [^48]: A melléklet I. Része Pest megye címe 14. – eredeti 12. – pontjának számozását 15. pontra változtatta a 11/2002. (VI. 8.) IM rendelet 2. § (3) bekezdése, szövege a 23/2004. (VI. 19.) IM rendelet 2. §-ának (2) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 21. pontja szerint módosított szöveg.
 [^49]: A melléklet I. Rész Pest megye címének 16. pontját a 23/2004. (VI. 19.) IM rendelet 2. §-ának (2) bekezdése iktatta be, szövege az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 22. pontja szerint módosított szöveg.
 [^50]: A melléklet I. Rész Pest megye címének 17. pontját a 23/2004. (VI. 19.) IM rendelet 2. §-ának (2) bekezdése iktatta be, szövege az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 23. pontja szerint módosított szöveg.
-[^51]: A melléklet I. Részének Pest megye címének 18. pontját a 11/2006. (III. 7.) IM rendelet 2. § (2) bekezdése iktatta be, szövege az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 24. pontja szerint módosított szöveg.
-[^52]: A melléklet II. Rész Győr-Moson-Sopron megye címének 1. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 25. pontja szerint módosított szöveg.
+[^51]: A melléklet I. Részének Pest megye címének 18. pontját a 11/2006. (III. 7.) IM rendelet 2. § (2) bekezdése iktatta be, szövege az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 24. pontja, a 28/2015. (X. 15.) IM rendelet 1. § 3. pontja szerint módosított szöveg.
+[^52]: A melléklet II. Rész Győr-Moson-Sopron megye címének 1. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 25. pontja, a 28/2015. (X. 15.) IM rendelet 1. § 4. pontja szerint módosított szöveg.
 [^53]: A melléklet II. Rész Győr-Moson-Sopron megye címének 2. pontja a 23/2004. (VI. 19.) IM rendelet 3. §-ával megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 26. pontja szerint módosított szöveg.
 [^54]: A melléklet II. Része Győr-Moson-Sopron megye címének új 3. pontját a 18/1998. (XI. 6.) IM rendelet 3. §-a iktatta be, egyidejűleg az eredeti 3–4. pont számozását 4–5. pontra változtatva. A 3. pontot a 23/2004. (VI. 19.) IM rendelet 7. § (2) bekezdésének a) pontja hatályon kívül helyezte.
 [^55]: A melléklet II. Része Győr-Moson-Sopron megye címe eredeti 3. pontjának számozását 4. pontra változtatta a 18/1998. (XI. 6.) IM rendelet 3. §-a, szövege az 1/2001. (II. 9.) IM rendelet 3. §-ának (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 27. pontja szerint módosított szöveg.
 [^56]: A melléklet II. Része Győr-Moson-Sopron megye címe eredeti 4. pontjának számozását 5. pontra változtatta a 18/1998. (XI. 6.) IM rendelet 3. §-a, szövege a 11/2002. (VI. 8.) IM rendelet 3. § (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 28. pontja szerint módosított szöveg.
-[^57]: A melléklet II. Rész Vas megye címének 1. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 29. pontja szerint módosított szöveg.
-[^58]: A melléklet II. Rész Vas megye címének 2. pontja a 21/2014. (III. 13.) KIM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^57]: A melléklet II. Rész Vas megye címének 1. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 29. pontja, a 28/2015. (X. 15.) IM rendelet 1. § 5. pontja szerint módosított szöveg.
+[^58]: A melléklet II. Rész Vas megye címének 2. pontja a 21/2014. (III. 13.) KIM rendelet 9. § (4) bekezdésével megállapított, a 28/2015. (X. 15.) IM rendelet 1. § 6. pontja szerint módosított szöveg.
 [^59]: A melléklet II. Része Vas megye címének 3. pontja a 4/1994. (II. 27.) IM rendelet 2. § (3) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 31. pontja szerint módosított szöveg.
-[^60]: A melléklet II. Rész Vas megye címének 4. pontja a 21/2014. (III. 13.) KIM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^60]: A melléklet II. Rész Vas megye címének 4. pontja a 21/2014. (III. 13.) KIM rendelet 9. § (4) bekezdésével megállapított, a 28/2015. (X. 15.) IM rendelet 1. § 7. pontja szerint módosított szöveg.
 [^61]: A melléklet II. rész Vas megye cím 5. pontja az 54/2009. (X. 6.) IRM rendelet 2. §-ával megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 33. pontja szerint módosított szöveg.
 [^62]: A melléklet II. Része Veszprém megye címének 1. pontja a 29/2003. (VII. 16.) IM rendelet 3. §-ának (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 34. pontja szerint módosított szöveg.
 [^63]: A melléklet II. Része Veszprém megye címének 2. pontja a 10/1999. (VIII. 4.) IM rendelet 3. §-ával megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 35. pontja szerint módosított szöveg.
 [^64]: A melléklet II. Rész Veszprém megye címének 3. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 36. pontja szerint módosított szöveg.
 [^65]: A melléklet II. Része Veszprém megye címének 4. pontja a 11/2006. (III. 7.) IM rendelet 3. § (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 37–38. pontja szerint módosított szöveg.
-[^66]: A melléklet II. Része Veszprém megye címének 5. pontját a 29/2003. (VII. 16.) IM rendelet 3. §-ának (1) bekezdése iktatta be, szövege az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 39. pontja szerint módosított szöveg.
+[^66]: A melléklet II. Része Veszprém megye címének 5. pontját a 29/2003. (VII. 16.) IM rendelet 3. § (1) bekezdése iktatta be, szövege az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 39. pontja, a 28/2015. (X. 15.) IM rendelet 1. § 8. pontja szerint módosított szöveg.
 [^67]: A melléklet II. Része Veszprém megye címének 6. pontját a 11/2006. (III. 7.) IM rendelet 3. § (1) bekezdése iktatta be, szövege az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 39. pontja szerint módosított szöveg.
 [^68]: A melléklet II. Része Zala megye címének 1. pontja a 11/2006. (III. 7.) IM rendelet 3. § (2) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 40. pontja szerint módosított szöveg.
 [^69]: A melléklet II. Rész Zala megye címének 2. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 41. pontja szerint módosított szöveg.
 [^70]: A melléklet II. Része Zala megye címének 3. pontja a 29/2003. (VII. 16.) IM rendelet 3. §-ának (2) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 42. pontja szerint módosított szöveg.
-[^71]: A melléklet II. Része Zala megye címének 4. pontja a 4/1994. (II. 27.) IM rendelet 2. § (3) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 43. pontja szerint módosított szöveg.
-[^72]: A melléklet II. Része Zala megye címének 5. pontját a 11/2006. (III. 7.) IM rendelet 3. § (2) bekezdése iktatta be, szövege a 8/2011. (III. 4.) KIM rendelet 12. §-a, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 44. pontja szerint módosított szöveg.
+[^71]: A melléklet II. Része Zala megye címének 4. pontja a 4/1994. (II. 27.) IM rendelet 2. § (3) bekezdésével megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 43. pontja, a 28/2015. (X. 15.) IM rendelet 1. § 9. pontja szerint módosított szöveg.
+[^72]: A melléklet II. Része Zala megye címének 5. pontját a 11/2006. (III. 7.) IM rendelet 3. § (2) bekezdése iktatta be, szövege a 8/2011. (III. 4.) KIM rendelet 12. §-a, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 44. pontja, a 28/2015. (X. 15.) IM rendelet 1. § 10. pontja szerint módosított szöveg.
 [^73]: A melléklet III. Része Borsod-Abaúj-Zemplén megye címe 1. pontja a 23/1997. (VIII. 1.) IM rendelet 3. §-ával megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 45–46. pontja szerint módosított szöveg.
 [^74]: A melléklet III. Rész Borsod-Abaúj-Zemplén megye címének 2. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 47. pontja szerint módosított szöveg.
 [^75]: A melléklet III. Rész Borsod-Abaúj-Zemplén megye címének 3. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 48. pontja szerint módosított szöveg.
@@ -1124,8 +1116,8 @@ egy körzet --- egész év
 [^104]: A melléklet IV. Része Baranya megye címének 5. pontja a 29/2003. (VII. 16.) IM rendelet 5. §-ával megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 76. pontja szerint módosított szöveg.
 [^105]: A melléklet IV. Rész Fejér megye címének 1. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 77. pontja szerint módosított szöveg.
 [^106]: A melléklet IV. Része Fejér megye címének 2. pontja a 17/2000. (XI. 8.) IM rendelet 4. §-ával megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 78. pontja szerint módosított szöveg.
-[^107]: A melléklet IV. Rész Fejér megye címének 3. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 79. pontja szerint módosított szöveg.
-[^108]: A melléklet IV. része Fejér megye címének 4. pontja a 22/2008. (X. 14.) IRM rendelet 3. §-ával megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 80. pontja szerint módosított szöveg.
+[^107]: A melléklet IV. Rész Fejér megye címének 3. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 79. pontja, a 28/2015. (X. 15.) IM rendelet 1. § 11. pontja szerint módosított szöveg.
+[^108]: A melléklet IV. része Fejér megye címének 4. pontja a 22/2008. (X. 14.) IRM rendelet 3. §-ával megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 80. pontja, a 28/2015. (X. 21.) IM rendelet 1. § 12. pontja szerint módosított szöveg.
 [^109]: A melléklet IV. Része Fejér megye címének 5. pontját a 23/2004. (VI. 19.) IM rendelet 7. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 22/2008. (X. 14.) IRM rendelet 3. §-a iktatta be, szövege az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 80. pontja szerint módosított szöveg.
 [^110]: A melléklet IV. Része Somogy megye címének új 1. pontját a 4/1994. (II. 27.) IM rendelet 2. § (5) bekezdése iktatta be, egyidejűleg az eredeti 1–5. pont számozását 2–6. pontra változtatva. Az 1. pont az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 81. pontja szerint módosított szöveg.
 [^111]: A melléklet IV. Része Somogy megye címe eredeti 1. pontjának számozását 2. pontra változtatta a 4/1994. (II. 27.) IM rendelet 2. § (5) bekezdése, szövege az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 82. pontja szerint módosított szöveg.
@@ -1139,19 +1131,19 @@ egy körzet --- egész év
 [^119]: A melléklet IV. Része Tolna megye címének 4. pontja a 11/2002. (VI. 8.) IM rendelet 5. § (3) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 90. pontja szerint módosított szöveg.
 [^120]: A melléklet IV. Rész Tolna megye címének 5. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 91. pontja szerint módosított szöveg.
 [^121]: A melléklet V. Rész Bács-Kiskun megye címének 1. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 92. pontja szerint módosított szöveg.
-[^122]: A melléklet V. Része Bács-Kiskun megye címének 2. pontja a 11/2002. (VI. 8.) IM rendelet 6. § (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 93. pontja szerint módosított szöveg.
-[^123]: A melléklet V. Része Bács-Kiskun megye címének 3. pontja a 10/1999. (VIII. 4.) IM rendelet 5. §-ának (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 94. pontja szerint módosított szöveg.
-[^124]: A melléklet V. Rész Bács-Kiskun megye címének 4. pontja a 23/2004. (VI. 19.) IM rendelet 6. §-ának (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 95. pontja szerint módosított szöveg.
+[^122]: A melléklet V. Része Bács-Kiskun megye címének 2. pontja a 11/2002. (VI. 8.) IM rendelet 6. § (1) bekezdésével megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 93. pontja, a 28/2015. (X. 21.) IM rendelet 1. § 13. pontja szerint módosított szöveg.
+[^123]: A melléklet V. Része Bács-Kiskun megye címének 3. pontja a 10/1999. (VIII. 4.) IM rendelet 5. § (1) bekezdésével megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 94. pontja, a 28/2015. (X. 21.) IM rendelet 1. § 14. pontja szerint módosított szöveg.
+[^124]: A melléklet V. Rész Bács-Kiskun megye címének 4. pontja a 23/2004. (VI. 19.) IM rendelet 6. § (1) bekezdésével megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 95. pontja, a 28/2015. (X. 21.) IM rendelet 1. § 15. pontja szerint módosított szöveg.
 [^125]: A melléklet V. Része Bács-Kiskun megye címének 5. pontja a 29/2003. (VII. 16.) IM rendelet 6. §-ának (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 96. pontja szerint módosított szöveg.
 [^126]: A melléklet V. Rész Bács-Kiskun megye címének 6. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 97. pontja szerint módosított szöveg.
-[^127]: A melléklet V. Része Bács-Kiskun megye címének 7. pontja a 11/2002. (VI. 8.) IM rendelet 6. § (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 98. pontja szerint módosított szöveg.
+[^127]: A melléklet V. Része Bács-Kiskun megye címének 7. pontja a 11/2002. (VI. 8.) IM rendelet 6. § (1) bekezdésével megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 98. pontja, a 28/2015. (X. 21.) IM rendelet 1. § 16. pontja szerint módosított szöveg.
 [^128]: A melléklet V. Rész Békés megye címének 1. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 99. pontja szerint módosított szöveg.
 [^129]: A melléklet V. Rész Békés megye címének 2. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 100. pontja szerint módosított szöveg.
 [^130]: A melléklet V. része Békés megye címének 3. pontja a 11/2006. (III. 7.) IM rendelet 6. §-ával megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 101. pontja szerint módosított szöveg.
-[^131]: A melléklet V. Része Békés megye címének 4. pontja a 11/2002. (VI. 8.) IM rendelet 6. § (2) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 102. pontja szerint módosított szöveg.
+[^131]: A melléklet V. Része Békés megye címének 4. pontja a 11/2002. (VI. 8.) IM rendelet 6. § (2) bekezdésével megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 102. pontja, a 28/2015. (X. 21.) IM rendelet 1. § 17. pontja szerint módosított szöveg.
 [^132]: A melléklet V. Rész Békés megye címének 5. pontja a 23/2004. (VI. 19.) IM rendelet 6. §-ának (2) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 103. pontja szerint módosított szöveg.
-[^133]: A melléklet V. Része Békés megye címének 6. pontja a 17/2000. (XI. 8.) IM rendelet 5. § (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 104. pontja szerint módosított szöveg.
-[^134]: A melléklet V. Része Békés megye címének 7. pontja a 17/2000. (XI. 8.) IM rendelet 5. § (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 105–106. pontja szerint módosított szöveg.
+[^133]: A melléklet V. Része Békés megye címének 6. pontja a 17/2000. (XI. 8.) IM rendelet 5. § (1) bekezdésével megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 104. pontja, a 28/2015. (X. 21.) IM rendelet 1. § 18. pontja szerint módosított szöveg.
+[^134]: A melléklet V. Része Békés megye címének 7. pontja a 17/2000. (XI. 8.) IM rendelet 5. § (1) bekezdésével megállapított, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 105–106. pontja, a 28/2015. (X. 21.) IM rendelet 1. § 19. pontja szerint módosított szöveg.
 [^135]: A melléklet V. Rész Csongrád megye címének 1. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 107. pontja szerint módosított szöveg.
 [^136]: A melléklet V. Része Csongrád megye címének 2. pontja a 8/1994. (VI. 30.) IM rendelet 3. § (1) bekezdésével megállapított és az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 108. pontja szerint módosított szöveg.
 [^137]: A melléklet V. Rész Csongrád megye címének 3. pontja az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdés 109. pontja szerint módosított szöveg.
