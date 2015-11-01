@@ -46,7 +46,7 @@
 
 16. konzorcium: több kedvezményezett támogatásával megvalósuló projektek esetében a részes felek (tagok) polgári jogi szerződésben szabályozott munkamegosztásán alapuló együttműködése a projekt közös megvalósítása, valamint ennek érdekében közös gazdasági érdekeik előmozdítása és erre irányuló tevékenységük összehangolása céljából,
 
-16a.[^17] közkiadás: az 1083/2006/EK tanácsi rendelet 2. cikk 5. pontja szerinti kiadás, amelynek részét képezi az uniós és a központi költségvetési támogatáson kívül a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 6. § (1) bekezdés a)–f) pontja alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosított elismerhető saját forrás is,
+16a.[^17] közkiadás: az 1083/2006/EK tanácsi rendelet 2. cikk 5. pontja szerinti kiadás, amelynek részét képezi az uniós és a központi költségvetési támogatáson kívül a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (1) bekezdése, valamint 7. § (1)–(2) bekezdése alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosított elismerhető saját forrás is,
 
 16b.[^18] központi koordinációs szerv: az operatív programok egységes eljárásrendek mentén történő, koordinált végrehajtását biztosító szervezeti egység,
 
@@ -128,7 +128,7 @@ rendelkezései szerint kell értelmezni.
 [^14]: A 2. § (1) bekezdés 11a. pontját a 356/2013. (X. 8.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^15]: A 2. § (1) bekezdés 12. pontja a 141/2012. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^16]: A 2. § (1) bekezdés 14. pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
-[^17]: A 2. § 16a. pontját a 153/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított, a 176/2012. (VII. 26.) Korm. rendelet 29. § 1. pontja szerint módosított szöveg.
+[^17]: A 2. § 16a. pontját a 153/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 323/2015. (X. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^18]: A 2. § (1) bekezdés 16b. pontját az 548/2013. (XII. 30.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^19]: A 2. § (1) bekezdés 17. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^20]: A 2. § (1) bekezdés 18. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
