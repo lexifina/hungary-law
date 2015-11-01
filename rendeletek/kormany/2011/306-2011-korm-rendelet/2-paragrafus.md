@@ -1,5 +1,0 @@
-## 2. Az építési beruházás becsült értéke
-
-2. § (1) Az építési beruházás becsült értékének meghatározásakor az ajánlatkérőnek az engedélyhez vagy bejelentéshez kötött építési tevékenység esetén az építési engedélyben foglaltak érvényesítésével elkészített engedélyezési terv, vagy kiviteli terv vagy egyesített engedélyezési és kiviteli terv alapján, a közbeszerzés megkezdését megelőző 12 hónapnál nem régebben készült költségvetést kell irányadónak tekinteni, amely tartalmaz az építési beruházással kapcsolatban felmerülő valamennyi szükséges munkatételt. Az 5. § (1) bekezdés a)–e) pontja esetében az építési beruházás becsült értékének meghatározásakor az építési beruházással kapcsolatban felmerülő valamennyi szükséges munkatételt tartalmazó, a közbeszerzés megkezdését megelőző 12 hónapnál nem régebben készült költségbecslést kell irányadónak tekinteni.
-
-(2) A Kbt. 18. § (2) bekezdése alkalmazásában ugyanazon építési beruházásnak tekintendő az építési engedélyben több megvalósulási szakaszra bontott építési beruházás is (az egyes megvalósulási szakaszokban megépített építmények, építményrészek együttesen).

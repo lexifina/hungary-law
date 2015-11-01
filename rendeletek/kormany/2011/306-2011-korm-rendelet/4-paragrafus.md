@@ -1,5 +1,0 @@
-## 3. § Építési beruházás esetén a Kbt. VIII. Fejezetében és 122. § (2) bekezdésében meghatározott dokumentációt, illetve versenypárbeszéd esetén az ismertetőt az e rendeletnek megfelelő tartalommal kell elkészíteni.
-
-4. § (1) Az építmény kivitelezésére vagy a Kbt. 1. mellékletében foglalt tevékenységek egyikéhez kapcsolódó munka kivitelezésére irányuló, az építésügyi jogszabályok szerint engedély vagy bejelentés köteles építési beruházás dokumentációja tartalmazza az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendeletben (a továbbiakban: Épkiv.) meghatározott – egyúttal e rendelet és mellékletei előírásainak is megfelelő – kivitelezési dokumentációt.
-
-(2) Ha a kivitelezésre irányuló építési beruházás az építésügyi jogszabályok szerint engedély és bejelentés nélkül végezhető építési tevékenységnek minősül, a dokumentációt az 1. melléklet – műemlékkel kapcsolatos építési beruházás esetében az 1. és a 2. melléklet – szerinti tartalommal kell elkészíteni, amennyiben az adott építési beruházásra a mellékletekben foglalt követelmények értelmezhetőek.

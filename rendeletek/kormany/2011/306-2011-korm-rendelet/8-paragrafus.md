@@ -1,5 +1,0 @@
-## 5. Kamarai nyilvántartás
-
-8. § (1) Az ajánlatkérő a Kbt. Második Része szerinti eljárásban az eljárást megindító felhívásban köteles az építőipari kivitelezési tevékenységet végző gazdasági szereplők vonatkozásában a Kbt. 57. § (1) bekezdésének d) pontja alapján előírni az Étv. szerinti, építőipari kivitelezési tevékenységet végzők névjegyzékében szereplés követelményét, illetve nem Magyarországon letelepedett gazdasági szereplők esetén a letelepedés szerinti ország nyilvántartásában szereplés követelményét (feltéve, hogy a letelepedés szerinti ország joga azt előírja).
-
-(2) Kétség esetén az ajánlatkérő a Kbt. 67. §-a szerint felvilágosítást kérhet az ajánlattevőtől vagy részvételre jelentkezőtől arra vonatkozóan, hogy melyik, az ajánlatban vagy részvételi jelentkezésben megjelölt gazdasági szereplő nem végez vagy melyik gazdasági szereplő végez építőipari kivitelezési tevékenységet, amelynek alapján az Étv. szerinti építőipari kivitelezési tevékenységet végzők névjegyzékében szerepelnie kell.
