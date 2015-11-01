@@ -1,0 +1,9 @@
+# 5/2015. (VII. 21.) NMHH rendelet
+
+az elektronikus hírközlési szolgáltatás igénybevétele során alkalmazható közvetítőválasztásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-5-20-3H
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-11-01 | 2015-5-20-3H.1 | 5/2015. (VII. 21.) NMHH rendelet |
