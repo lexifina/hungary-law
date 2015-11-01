@@ -1,3 +1,5 @@
-## 27. § Az ajánlatkérő beszerzését keretmegállapodás útján is megvalósíthatja. A keretmegállapodásos eljárásra a Kbt. 108. §-át, a 109. § (1)–(4), (6) és (8) bekezdéseit, valamint a 110. §-át megfelelően kell alkalmazni.
+## 27. §[^33] Az ajánlatkérő beszerzését keretmegállapodás útján is megvalósíthatja. A keretmegállapodásos eljárásra a Kbt. 104. § (1)–(5) és a (7)–(9) bekezdéseit, valamint a 105. §-át megfelelően kell alkalmazni.
 
 ## 4. A beszerzési szerződés
+
+[^33]: A 27. § a 323/2015. (X. 30.) Korm. rendelet 10. § (15) bekezdésével megállapított szöveg.

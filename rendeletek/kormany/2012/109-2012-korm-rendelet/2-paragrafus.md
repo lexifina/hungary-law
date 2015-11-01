@@ -4,4 +4,6 @@
 
 (2) Amennyiben az NSIP beszerzés egyidejűleg e rendelet és más jogszabály hatálya alá is tartozik, akkor e rendelet szabályai szerint kell eljárni.
 
-(3) Ahol e rendelet a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) rendelkezéseit rendeli alkalmazni, ott közbeszerzésen az e rendelet által szabályozott NSIP beszerzést kell érteni.
+(3)[^1] Ahol e rendelet a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) rendelkezéseit rendeli alkalmazni, ott közbeszerzésen az e rendelet által szabályozott NSIP beszerzést kell érteni.
+
+[^1]: A 2. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.

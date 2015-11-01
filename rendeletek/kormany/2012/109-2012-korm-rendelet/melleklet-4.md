@@ -1,32 +1,30 @@
-## Hirdetmény módosítása, visszavonása, a dokumentáció vagy a határidő módosítása minta
+## Hirdetmény módosítása, visszavonása, a beszerzési eljárás dokumentumai vagy a határidő módosítása minta
 
-## a. ) Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszáma:
+## a) Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszáma:
 
-## b. ) A beszerzés tárgya:
+## b) A beszerzés tárgya:
 
-## c. ) A választott eljárás:
+## c) A választott eljárás:
 
-## d. ) E hirdetmény célja:
+## d) E hirdetmény célja:
 
-## e. ) A módosítással vagy visszavonással érintett hirdetmény vagy dokumentáció típusa:
+## e) A módosítással vagy visszavonással érintett hirdetmény vagy dokumentum típusa:
 
-## f. ) Az eredeti ajánlattételi vagy részvételi jelentkezési határidő lejártának napja:
+## f) Az eredeti ajánlattételi vagy részvételi jelentkezési határidő lejártának napja:
 
-## g. ) Módosítás:
+## g) Módosítás:
 
-## ga) A módosítással érintett hirdetmény vagy dokumentáció módosított pontjai és a módosítás szövege*:
+## ga) A módosítással érintett hirdetmény vagy dokumentum módosított pontjai és a módosítás szövege*:
 
-## gb) Az új ajánlattételi vagy részvételi jelentkezési határidő: *
+## gb) Az új ajánlattételi vagy részvételi jelentkezési határidő:*
 
-## h. ) A visszavonás ténye*:
+## h) A visszavonás ténye*:
 
-## i. ) A határidő-hosszabbítás:
+## i) A határidő-hosszabbítás:
 
-## ia) a határidő-hosszabbítás indoka*:
+## ia) A határidő-hosszabbítás indoka*:
 
-## ib) Az új ajánlattételi vagy részvételi jelentkezési határidő: *
-
-## _______
+## ib) Az új ajánlattételi vagy részvételi jelentkezési határidő:*
 
 ## A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.
 

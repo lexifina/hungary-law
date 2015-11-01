@@ -1,3 +1,6 @@
-13. § (1) Az ajánlatok és a részvételi jelentkezések elbírálására a Kbt. 63. §-át, a 65. § (1) és (2) bekezdését, 66–68. §-ait, 69. § (1)–(7) bekezdését, 70–75. §-ait, 76. § (1) bekezdés a), b) és d)–f) pontjait, 76. § (2) bekezdését, 77. § (1), (3) és (4) bekezdését, 78. §-át, 80. §-át és 81.§-át kell megfelelően alkalmazni az e §–ban és a 14–18. §-ban foglalt eltérésekkel.
+13. § (1)[^19] Az ajánlatok és a részvételi jelentkezések elbírálására a Kbt. 53. § (4) bekezdését, a 69–74. §-ait, a 75. § (1) bekezdés a)–c) pontjait, a 75. § (2) bekezdés a)–c) pontjait, a 75. § (3) és (5) bekezdését, a 76–78. §-ait és a 79. § (1), (4) és (5) bekezdését kell megfelelően alkalmazni az e §-ban és a 14–18. §-ban foglalt eltérésekkel.
 
-(2) A Kbt. 76. § (1) bekezdés c) pontja alkalmazható azzal, hogy attól a 17. § (2) bekezdésében meghatározott esetben el lehet térni.
+(2)[^20] A Kbt. 75. § (2) bekezdés b) pontja alkalmazható azzal, hogy attól a 17. § (2) bekezdésében meghatározott esetben el lehet térni.
+
+[^19]: A 13. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (10) bekezdésével megállapított szöveg.
+[^20]: A 13. § (2) bekezdése a 323/2015. (X. 30.) Korm. rendelet 10. § (10) bekezdésével megállapított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-109-20-
 | --- | --- | --- |
 | 2012-06-04 | 2012-109-20-22.1 | 109/2012. (VI. 1.) Korm. rendelet |
 | 2012-06-05 | 2012-109-20-22.2 | 2010: CXXX. törvény |
+| 2015-11-01 | 2012-109-20-22.3 | 323/2015. (X. 30.) Korm. rendelet |
