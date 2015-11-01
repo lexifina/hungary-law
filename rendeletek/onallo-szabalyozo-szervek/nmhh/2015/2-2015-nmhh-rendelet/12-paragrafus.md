@@ -1,5 +1,3 @@
-## 11. §[^4]
-
 ## 8. Az előfizetői szerződés módosítása
 
 12. § (1) Az általános szerződési feltételek módosítása esetén, a módosítás Hatósághoz történő bejelentésekor a bejelentéshez csatolni kell elektronikus dokumentumban a változásokat kivonatolt formában, valamint az általános szerződési feltételek változásokkal egységes szerkezetbe foglalt szövegét is.
@@ -39,5 +37,3 @@ d) az előfizetőt az általános szerződési feltételek egyoldalú módosít�
 (6) Az egyedi előfizetői szerződés időtartamát érintő módosítást megelőzően a szolgáltató köteles igazolható módon tájékoztatást adni a határozatlan és a határozott idejű előfizetői szerződés részletes feltételeiről. A tájékoztatás elmaradása esetén az előfizetői szerződésben az előfizetőt érintő, a határozott idejű előfizetői szerződésből eredő bármilyen hátrányos jogkövetkezményt megállapító szerződéses rendelkezés semmis.
 
 (7) Ráutaló magatartással határozatlan időre kötött egyedi előfizetői szerződés ráutaló magatartással akkor módosítható, ha az előfizető az előfizetői szerződés ideje alatt igazolható módon szóban vagy írásban nyilatkozik arról, hogy amennyiben a szolgáltató az előfizetői szerződés módosítását kezdeményezi, az előfizető nyilatkozattételének elmulasztása, vagy tevőleges magatartásának tanúsítása elfogadásnak minősül.
-
-[^4]: A 11. § a 33. § (2) bekezdése alapján 2015. november 1-jén lép hatályba.

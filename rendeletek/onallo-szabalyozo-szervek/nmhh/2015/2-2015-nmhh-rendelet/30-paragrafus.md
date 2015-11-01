@@ -1,5 +1,3 @@
-## 27–29. §[^5]
-
 ## 16. A hálózatsemlegességgel kapcsolatos átláthatóság biztosítása és a kiskorúakra káros tartalmak elérhetőségének korlátozása érdekében előírt kötelezettségek
 
 30. § (1) Az internet-hozzáférés szolgáltatást nyújtó szolgáltatók – a hálózatsemlegességgel kapcsolatos átláthatóság biztosítása érdekében – az előfizetők, felhasználók számára az általános szerződési feltételekben és az egyedi előfizetői szerződésben rögzített minőségben, átlátható módon kötelesek biztosítani az internet szolgáltatáshoz való hozzáférést.
@@ -11,5 +9,3 @@
 (4) Amennyiben az internet-hozzáférés szolgáltatást nyújtó szolgáltató az általa nyújtott internet-hozzáférés szolgáltatási csomagokat összefoglaló táblázatban jeleníti meg, az egységes szolgáltatás-leíró táblázatra mutató linket közvetlenül az összefoglaló táblázat mellett köteles elhelyezni. Az egységes szolgáltatás-leíró táblázatra mutató link betűmérete nem lehet kisebb, mint a szolgáltató által közzétett kereskedelmi kommunikációban használt közlés betűmérete.
 
 (5) Az internet-hozzáférés szolgáltatást nyújtó szolgáltató – a kiskorúakra káros tartalmak elérhetőségének korlátozása érdekében – internetes honlapján könnyen megtalálható helyen (a honlap főoldalán, az egyes internet-hozzáférés szolgáltatás csomagokat bemutató aloldalakon, vagy a gyermekvédelemmel foglalkozó aloldalon) köteles közzétenni az Eht. 149/A. § (1) bekezdése szerinti, a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható szoftverek és azokkal egyező célt szolgáló más szolgáltatások elérhetőségére és használatára vonatkozó tájékoztatást.
-
-[^5]: A 27–29. § a 33. § (2) bekezdése alapján 2015. november 1-jén lép hatályba.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2-20-3H
 | --- | --- | --- |
 | 2015-08-01 | 2015-2-20-3H.1 | 2/2015. (III. 30.) NMHH rendelet |
 | 2015-08-02 | 2015-2-20-3H.2 | 2010: CXXX. törvény |
+| 2015-11-01 | 2015-2-20-3H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

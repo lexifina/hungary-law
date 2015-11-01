@@ -1,1 +1,11 @@
 ## 15. A határozott idejű előfizetői szerződésekre vonatkozó különös szabályok
+
+27. § (1) A határozott idejű előfizetői szerződés megkötését megelőzően a szolgáltató igazolható módon köteles tájékoztatni az előfizetőt a határozott idejű előfizetői szerződés teljes időtartama alatt minimálisan terhelő valamennyi költség összegéről szolgáltatásonként, vagy szolgáltatáselemenként külön-külön, valamint összesítve. Költség különösen az előfizetői szerződés keretében a belépési díj, a díjcsomag havi vagy időszaki díja, valamint az előfizetői szerződéssel összefüggő elektronikus hírközlő eszközre vonatkozó polgári jogi jogviszony keretében végberendezés vagy egyéb eszköz értékesítése esetén a végberendezés vagy egyéb eszköz ára, részletvétel esetén a kezdőrészlet, a további részletek, a kamatok és egyéb díjak megjelölésével, bérbeadása esetén a bérleti díj, használatának más módon történő átengedése esetén a használati díj. A tájékoztatás elmaradása esetén az előfizetői szerződésben az előfizetőt érintő, a határozott idejű előfizetői szerződésből eredő bármilyen hátrányos jogkövetkezményt megállapító szerződéses rendelkezés semmis.
+
+(2) Távollévők között írásban megkötött határozott idejű előfizetői szerződés esetén a 6. § (3) bekezdésében foglalt értesítésben a szolgáltató a határozott időtartam lejáratának napjáról is értesíti az előfizetőt.
+
+(3) A szolgáltatás előfizető kérésére legfeljebb 6 hónapig tartó szüneteltetését a szolgáltató határozott idejű előfizetői szerződéseknél sem zárhatja ki, ebben az esetben azonban az előfizetői szerződés időtartama a szüneteltetés időtartamával meghosszabbodik.
+
+(4) A szolgáltató a határozott időre kötött előfizetői szerződést nem jogosult egyoldalúan az alapvető díjszabás (rendszeres díjak, különösen előfizetési díj, forgalmi díj), az előfizetői szerződés időtartama, megszüntetésének jogkövetkezményei, vagy a szolgáltatásminőségi követelmények célértéke tekintetében módosítani, kivéve, ha azt az Eht. 132. § (2) bekezdésének b), illetve e) pontjában foglaltak indokolják. A határozott időre kötött előfizetői szerződés egyebekben az Eht. 132. §-ában foglalt rendelkezések, feltételek szerint módosítható egyoldalúan.
+
+(5) A határozott idejű előfizetői szerződés ráutaló magatartással nem módosítható.
