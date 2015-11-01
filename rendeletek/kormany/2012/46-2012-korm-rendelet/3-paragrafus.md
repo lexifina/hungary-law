@@ -10,6 +10,8 @@
 
 (5) A központi beszerző szervezet a közbeszerzés tárgyának meghatározása során figyelembe veszi, hogy az országos kórházi gyógyszeralaplistán szereplő mely hatóanyagok és az orvostechnikai eszközök országos alaplistáján szereplő mely generikus eszközcsoportok esetében valósítható meg az országos központi közbeszerzés az ellátásbiztonság garantálása mellett.
 
-(6) A központosított közbeszerzési eljárások eredményeként létrejött szerződések és keretmegállapodások hatályos szövegét a közbeszerzésekről szóló 2011. évi CVIII. törvényben (a továbbiakban: Kbt.) foglaltaknak megfelelően a központi beszerző szervezet honlapján kell közzétenni.
+(6)[^3] A központosított közbeszerzési eljárások eredményeként létrejött szerződések és keretmegállapodások hatályos szövegét a közbeszerzésekről szóló 2015. évi CXLIII. törvényben (a továbbiakban: Kbt.) foglaltaknak megfelelően a központi beszerző szervezet honlapján kell közzétenni.
 
 (7) A központi beszerző szervezet jogosult ellenőrizni az e rendeletben foglaltak betartását.
+
+[^3]: A 3. § (6) bekezdése a 323/2015. (X. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

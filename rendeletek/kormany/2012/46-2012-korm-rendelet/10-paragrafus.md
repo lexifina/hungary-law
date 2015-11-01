@@ -11,3 +11,8 @@
 (5) Az e rendelet és a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet (a továbbiakban: R.) alapján központi beszerző szervezetnek minősülő szervezetek megállapodásban rendelkeznek a központosított közbeszerzési feladat átvételének módjáról és ütemezéséről. Az e rendelet szerinti központi beszerző szervezet a közbeszerzési feladat átvételének ütemezéséről és állásáról folyamatosan tájékoztatást ad a honlapján.
 
 (6) Az e rendelet hatálybalépése előtt az R. alapján indult közbeszerzési eljárásokból eredő, jogszabályban meghatározott feladatokat a Központi Ellátási Főigazgatóság látja el a központosított közbeszerzési feladat e rendelet szerinti központi beszerző szervezet részére történő átadásáig.
+
+(7)[^12] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a rendelet hatálybalépését[^13] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+
+[^12]: A 10. § (7) bekezdését a 323/2015. (X. 30.) Korm. rendelet 9. § (7) bekezdése iktatta be.
+[^13]: A hatálybalépés időpontja 2015. november 1.

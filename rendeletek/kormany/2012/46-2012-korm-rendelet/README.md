@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-46-20-2
 | 2014-09-05 | 2012-46-20-22.5 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2012-46-20-22.6 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-03-01 | 2012-46-20-22.7 | 30/2015. (II. 25.) Korm. rendelet |
+| 2015-11-01 | 2012-46-20-22.8 | 323/2015. (X. 30.) Korm. rendelet |
