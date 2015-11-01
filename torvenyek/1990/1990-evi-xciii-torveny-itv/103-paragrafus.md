@@ -26,6 +26,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4) Az 57. § (1) bekezdés z) pontja a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(5) Az 57. § (2) bekezdés f) pontja a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.
+
 ## Melléklet
 
 I. A szabálysértési eljárás illetéke

@@ -56,4 +56,4 @@ d) a személyes költségmentesség engedélyezése iránti eljárás;
 
 e) a terhelt, a védő és a fiatalkorú terhelt törvényes képviselője részére a büntetőeljárásról szóló 1998. évi XIX. törvény 70/B. §-a (2) bekezdésében, (5) bekezdésének a) pontjában, (6) bekezdésében, valamint (10) bekezdésében meghatározott iratokból a másolat egyszeri kiadása;
 
-f) a feljelentő részére a feljelentésről készített jegyzőkönyv másolata.
+f) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolata, illetve az írásban tett feljelentés megtételét igazoló irat másolata.
