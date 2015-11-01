@@ -6,6 +6,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Versenyképes Közép-Magyarország Operatív Program 2015. évre szóló éves fejlesztési kerete 7. és 8. prioritásának, valamint a 2014–2020 programozási időszak egyes országos kihatású projektjeinek részben a Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozásának megállapításáról szóló 1089/2015. (III. 3.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1786/2015. (X. 30.) Korm. határozathoz
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
