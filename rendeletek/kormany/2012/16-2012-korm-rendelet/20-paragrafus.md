@@ -1,3 +1,5 @@
-## 19. § Ez a rendelet az építési beruházásra, az árubeszerzésre és a szolgáltatásnyújtásra irányuló közbeszerzési szerződések odaítélési eljárásainak összehangolásáról szóló 2004. március 31-i 2004/18/EK európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 30. cikk (1) bekezdés b) pontjának, 31. cikk (1) bekezdés b) pontjának, 31. cikk (2) bekezdés b) pontjának, valamint a Kbt. 108–110. §-ával együtt az irányelv 32. cikkének való megfelelést szolgálja.
+## 19. §[^16] Ez a rendelet a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló európai parlamenti és a tanácsi 2014/24/EU irányelv (2014. február 26.) (a továbbiakban: irányelv) 26. cikk (4) bekezdés a) pont iii. alpontjának, 32. cikk (2) bekezdés b) pontjának, valamint a Kbt. 104–105. §-ával együtt az irányelv 33. cikkének való megfelelést szolgálja.
 
 20. §
+
+[^16]: A 19. § a 323/2015. (X. 30.) Korm. rendelet 8. § (10) bekezdésével megállapított szöveg.
