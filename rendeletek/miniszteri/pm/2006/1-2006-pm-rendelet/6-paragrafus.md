@@ -1,1 +1,0 @@
-## 5. § Az adóhatóság, az adóhatóság tájékoztatás kiadásában közreműködő alkalmazottja, illetve bármely személy, akinek (amelynek) a tájékoztatás kiadása iránti eljárásban vagy azzal összefüggésben a tájékoztatással érintett kérelemre és mellékleteire vonatkozó tény, adat, körülmény, törvény által védett titok jutott tudomására, köteles azt megőrizni.
