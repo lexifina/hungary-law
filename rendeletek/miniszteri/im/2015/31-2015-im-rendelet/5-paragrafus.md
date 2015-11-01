@@ -1,0 +1,11 @@
+## 4. § A 16/2014. (XII. 19.) IM rendelet 85. alcíme a következő 146/A. §-sal egészül ki:
+
+## „146/A. § (1) A bv. intézet a Bv. tv. 13. § (3) bekezdése szerinti tájékoztatásában közli a BVOP-val a sértett, illetve a Be. 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személy (a továbbiakban: értesítendő személy) nevét, az általa megadott lakcímet, a kérelem azonosítására szolgáló egyéb adatokat, továbbá az értesítés alapjául szolgáló ügyben érintett elítélt nevét, az értesítést megalapozó tény vagy körülmény megjelölését és bekövetkezésének időpontját.
+
+## (2) Az értesítendő személynek szóló, a Bv. tv. 13. § (3) bekezdése szerinti értesítésben csak az értesítés alapjául szolgáló ügyben érintett elítélt nevét, az értesítést megalapozó tény vagy körülmény megjelölését és bekövetkezésének időpontját lehet közölni. Az értesítés semmilyen módon nem utalhat a fogvatartás helye szerinti bv. intézetre.
+
+## (3) Ha a bv. intézet vagy a BVOP olyan információval rendelkezik, amelynek alapján alappal feltételezhető, hogy a szabaduló vagy a bv. intézetet engedéllyel elhagyó elítélt az értesítendő személy vagy őrá tekintettel más részéről támadásnak vagy fenyegetésnek lenne kitéve, akkor a tájékoztatással vagy értesítéssel egyidejűleg az elítélt megfelelő védelme érdekében
+
+## a) erről értesíti az elítélt által megjelölt, a szabadulását követő tartózkodási hely szerint illetékes rendőri szervet, vagy
+
+## b) – ha ennek feltételei fennállnak – az elítélt személyi védelme elrendelését kezdeményezi.”
