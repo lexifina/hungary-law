@@ -1,0 +1,11 @@
+## 4. A tervpályázati eljárás fajtái
+
+9. § (1) A tervpályázati eljárás irányulhat arra, hogy a tervpályázati eljárást követően a szolgáltatás (tervszolgáltatás, továbbtervezés) megrendelésére irányuló szerződést a nyertessel vagy az első díjazottal, vagy a bírálóbizottság által ajánlattételre felhívni javasolt több nyertes vagy díjazott valamelyikével kösse meg az ajánlatkérő.
+
+(2) Ha a tervpályázati eljárást megindító felhívásban az ajánlatkérő megjelölte, hogy a tervpályázati eljárást követően a szolgáltatás (tervszolgáltatás, továbbtervezés) megrendelésére irányuló szerződést a nyertessel (díjazottal) vagy a nyertesek (díjazottak) valamelyikével köti meg, a szolgáltatás (tervszolgáltatás, továbbtervezés) megrendelésére a Kbt. 98. § (5) bekezdése, vagy – ha a tervpályázati eljárás az ajánlatkérő Kbt. 6. § (1)–(2) bekezdése szerinti közszolgáló tevékenységének biztosítását szolgálja – a közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról szóló kormányrendelet 15. § (4) bekezdése szerinti hirdetmény nélküli tárgyalásos eljárást kell alkalmazni.
+
+(3) Tervpályázati eljárás lefolytatható abban az esetben is, ha az a tervezési feladatok koncepciójának szakmai megalapozására, az igények előzetes tisztázására, a tervezési program vagy a tervkoncepció előkészítésére szolgál, és a tervpályázati eljárásnak nem célja tervezési szolgáltatás megrendelése (a továbbiakban: ötletpályázat).
+
+(4) Ötletpályázat esetén az ajánlatkérő az eljárást megindító felhívásban előírja, hogy az ötletpályázatot követően a nyertessel szolgáltatás megrendelésére irányuló szerződés megkötésére nem kerül sor.
+
+(5) Ötletpályázatot követően az ajánlatkérő nem folytathat le hirdetmény nélküli tárgyalásos eljárást.

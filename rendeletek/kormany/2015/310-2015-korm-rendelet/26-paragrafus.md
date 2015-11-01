@@ -1,0 +1,5 @@
+26. § (1) Az ajánlatkérő – a szolgáltatás megrendelésére szolgáló, a tervpályázatot követő hirdetmény nélküli tárgyalásos közbeszerzési eljárásban az árverseny biztosítása érdekében – a bírálóbizottság részére előírhatja, hogy több pályamű részesüljön díjazásban és a bírálóbizottság köteles legalább az első és a második helyen rangsorolt, díjazásban részesült pályázót a 25. § (3) bekezdés k) pontja szerint ajánlani ajánlattételre felhívni.
+
+(2) A bírálóbizottság az ajánlatkérő (1) bekezdés szerinti előírása ellenére is jogosult kizárólag az első díjas pályázót ajánlani a tervpályázatot követő közbeszerzési eljárásban való részvételre, amennyiben a második díjas pályamű szakmai színvonalában az első díjazotthoz képest jelentősen alacsonyabb értéket képvisel, valamint ilyen esetben is jogosult olyan ajánlást tenni, hogy ne kerüljön sor hirdetmény nélküli tárgyalásos eljárás lefolytatására.
+
+(3) Ha a bírálóbizottság több díjazásban részesült pályázót ajánl a tervpályázatot követő közbeszerzési eljárásban való részvételre, a bírálóbizottság által ajánlott összes pályázónak ajánlattételi felhívást kell küldeni.

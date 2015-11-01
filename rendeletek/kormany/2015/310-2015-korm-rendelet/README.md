@@ -1,0 +1,9 @@
+# 310/2015. (X. 28.) Korm. rendelet
+
+a tervpályázati eljárásokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-310-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-11-01 | 2015-310-20-22.1 | 310/2015. (X. 28.) Korm. rendelet |
