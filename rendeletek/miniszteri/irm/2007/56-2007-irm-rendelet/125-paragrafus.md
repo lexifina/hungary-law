@@ -6,13 +6,13 @@
 
 (3) A költségmentesség alkalmazásáról a bírósági eljárásban című 6/1986. (VI. 26.) IM rendelet (a továbbiakban: Kmr.) e rendelet hatálybalépésével egyidejűleg hatályba lépő 2. §-át, 3. §-át, 5. §-ának (2) bekezdését, 9. §-át, 11. §-ának (2) bekezdését, 13. §-ának (1), (2) és (7) bekezdését, 15. §-ának (6) bekezdését, 15/E. §-a (1) bekezdésének első mondatát, valamint 15/E. §-ának (11) bekezdését személyes költségmentesség engedélyezése esetén a rendelet hatálybalépését követően előterjesztett kérelmek elbírálása során, míg a tárgyi költségmentesség és tárgyi költségfeljegyzési jog esetén a rendelet hatálybalépését követően indult ügyekben kell alkalmazni.
 
-(4) A jogi segítői névjegyzék vezetésének részletes szabályairól szóló 42/2003. (XII. 12.) IM rendelet[^117] (a továbbiakban: Nr.) e rendelet hatálybalépésével egyidejűleg hatályba lépő 2. §-a (1) bekezdésének a) pontját és 7. §-ának (2) bekezdését e rendelet hatálybalépését követően indult ügyekben kell alkalmazni.
+(4) A jogi segítői névjegyzék vezetésének részletes szabályairól szóló 42/2003. (XII. 12.) IM rendelet[^131] (a továbbiakban: Nr.) e rendelet hatálybalépésével egyidejűleg hatályba lépő 2. §-a (1) bekezdésének a) pontját és 7. §-ának (2) bekezdését e rendelet hatálybalépését követően indult ügyekben kell alkalmazni.
 
-(5)[^118] E rendeletnek a bírósági ügyvitel szabályairól szóló 14/2002. (VIII. 1.) IM rendelet, az áldozatsegítő támogatások igénybevételének részletes szabályairól szóló 1/2006. (I. 6.) IM rendelet, valamint a jogi segítségnyújtás igénybevételének részletes szabályairól szóló 56/2007. (XII. 22.) IRM rendelet módosításáról szóló 18/2010. (IV. 30.) IRM rendelet (a továbbiakban: R.) 3. § (1) és (2) bekezdéseivel megállapított 41. § (4) és (5) bekezdését a 2010. június 2. napját megelőzően jogerősen megállapított, de még meg nem fizetett tartozások esetében is alkalmazni kell.
+(5)[^132] E rendeletnek a bírósági ügyvitel szabályairól szóló 14/2002. (VIII. 1.) IM rendelet, az áldozatsegítő támogatások igénybevételének részletes szabályairól szóló 1/2006. (I. 6.) IM rendelet, valamint a jogi segítségnyújtás igénybevételének részletes szabályairól szóló 56/2007. (XII. 22.) IRM rendelet módosításáról szóló 18/2010. (IV. 30.) IRM rendelet (a továbbiakban: R.) 3. § (1) és (2) bekezdéseivel megállapított 41. § (4) és (5) bekezdését a 2010. június 2. napját megelőzően jogerősen megállapított, de még meg nem fizetett tartozások esetében is alkalmazni kell.
 
-(6)[^119] E rendeletnek az R. 3. § (3) bekezdésével megállapított 46. §-ában foglalt rendelkezéseit az R. hatálybalépését[^120] megelőzően jogerősen megállapított, de még meg nem fizetett tartozások érvényesítésére is alkalmazni kell.
+(6)[^133] E rendeletnek az R. 3. § (3) bekezdésével megállapított 46. §-ában foglalt rendelkezéseit az R. hatálybalépését[^134] megelőzően jogerősen megállapított, de még meg nem fizetett tartozások érvényesítésére is alkalmazni kell.
 
-[^117]: A rendelet számozása helyesen 42/2003. (XII. 19.) IM rendelet.
-[^118]: A 125. § (5) bekezdését a 18/2010. (IV. 30.) IRM rendelet 3. § (4) bekezdése iktatta be.
-[^119]: A 125. § (6) bekezdését a 18/2010. (IV. 30.) IRM rendelet 3. § (4) bekezdése iktatta be.
-[^120]: A hatálybalépés időpontja: 2010. május 1.
+[^131]: A rendelet számozása helyesen 42/2003. (XII. 19.) IM rendelet.
+[^132]: A 125. § (5) bekezdését a 18/2010. (IV. 30.) IRM rendelet 3. § (4) bekezdése iktatta be.
+[^133]: A 125. § (6) bekezdését a 18/2010. (IV. 30.) IRM rendelet 3. § (4) bekezdése iktatta be.
+[^134]: A hatálybalépés időpontja: 2010. május 1.

@@ -202,7 +202,7 @@
 
 | D) JOGI SEGÍTSÉGNYÚJTÁS IGÉNYLÉSE BÜNTETŐELJÁRÁSBAN |
 
-| 1. A büntetőügyben eljáró (eljárásra illetékes) bíróság: |
+| 1. A nyomozó hatóság, az ügyész, vagy a büntetőügyben eljáró (eljárásra illetékes) bíróság: |
 
 | 2. A büntetőügy száma: |
 
@@ -246,6 +246,6 @@
 
 | .......................................................................... kérelmező aláírása |
 
-2. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^125]
+2. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^139]
 
-[^125]: A 2. melléklet a 8/2015. (IV. 14.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^139]: A 2. melléklet a 8/2015. (IV. 14.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.
