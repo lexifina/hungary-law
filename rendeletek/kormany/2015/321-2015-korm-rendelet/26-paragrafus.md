@@ -1,0 +1,11 @@
+## 6. A szakmai tevékenység végzésére való alkalmasság igazolása
+
+26. § (1) A Kbt. 65. § (1) bekezdés c) pontjára vonatkozóan az ajánlatkérő előírhatja, hogy
+
+a) a gazdasági szereplő legyen bejegyezve a cégnyilvántartásba vagy az egyéni vállalkozók nyilvántartásába; nem Magyarországon letelepedett gazdasági szereplő esetén legyen bejegyezve a 2014/24/EU irányelv XI. melléklete szerinti hasonló nyilvántartásba, valamint teljesítse az említett mellékletben foglalt bármely egyéb követelményt, vagy
+
+b) szolgáltatás megrendelésre irányuló közbeszerzési eljárás esetén rendelkezzen a szolgáltatás nyújtásához a letelepedése szerinti országban előírt engedéllyel, jogosítvánnyal vagy előírt szervezeti, kamarai tagsággal.
+
+(2) Az (1) bekezdés a) pontja alapján előírt követelmény tekintetében Magyarországon letelepedett gazdasági szereplő esetén a nyilvántartásban szereplés tényét az ajánlatkérő ellenőrzi a céginformációs szolgálattól ingyenesen, elektronikusan kérhető cégjegyzék-adatok, illetve az egyéni vállalkozók nyilvántartásának adatai alapján; nem Magyarországon letelepedett gazdasági szereplő esetén a 2014/24/EU irányelv XI. mellékletében felsorolt nyilvántartások szerinti igazolást (kivonatot) vagy egyéb igazolást, vagy nyilatkozatot kell igazolásként benyújtani.
+
+(3) Az (1) bekezdés b) pontja alapján előírt követelmény tekintetében az engedély vagy jogosítvány másolatát, illetve a szervezeti, kamarai tagságról szóló igazolást kell benyújtani.

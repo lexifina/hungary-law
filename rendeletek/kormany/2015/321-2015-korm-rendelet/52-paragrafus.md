@@ -1,0 +1,3 @@
+## való megfelelést szolgálja.
+
+52. § Hatályát veszti a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 310/2011. (XII. 23.) Korm. rendelet.

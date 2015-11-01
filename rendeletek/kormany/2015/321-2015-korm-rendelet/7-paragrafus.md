@@ -1,0 +1,3 @@
+7. § (1) A gazdasági szereplők az adott eljárás során benyújtott formanyomtatványban található információkat másik közbeszerzési eljárásban is felhasználhatják, ha az abban foglalt információk továbbra is megfelelnek a valóságnak, és tartalmazzák az ajánlatkérő által a másik eljárásban megkövetelt információkat.
+
+(2) A formanyomtatvány újbóli felhasználása esetén a gazdasági szereplő köteles a formanyomtatvány I. részében található adatokat az új eljárásnak megfelelően frissíteni és nyilatkozni arról, hogy az abban található adatok továbbra is megfelelnek a valóságnak. Ebben az esetben a gazdasági szereplő köteles a VI. részben található nyilatkozatokat is újból megtenni.

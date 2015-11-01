@@ -1,0 +1,5 @@
+## 43. § A minősített ajánlattevő köteles a kamarának bejelenteni, ha a minősítési szempontok szerinti adataiban, körülményeiben változás állt be a változást követően haladéktalanul, de legkésőbb a változástól számított öt munkanapon belül. Ha a változás következtében a minősített ajánlattevő nem felel meg a minősítési szempontoknak, a kamara törli a kamarai jegyzékből.
+
+44. § (1) Ha a kamara módosítja a minősítési szempontokat és igazolási módjait, köteles a minősítési szempontokat újra meghirdetni, valamint a kamarai jegyzékbe vett minősített ajánlattevőket és a kérelmet benyújtókat egyidejűleg, közvetlenül, írásban tájékoztatni.
+
+(2) A minősítési szempontok módosítása esetén a kamarai jegyzékbe vett minősített ajánlattevőknek is az előírt módon igazolniuk kell megfelelőségüket az új vagy a módosult minősítési szempont tekintetében. Az (1) bekezdés szerinti tájékoztatás során erre fel kell hívni a minősített ajánlattevőket. Benyújtott kérelem folyamatban levő elbírálása esetén a kamara a kérelem módosítás miatt szükséges kiegészítésére hívja fel a kérelmezőt.

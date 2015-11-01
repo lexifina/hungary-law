@@ -1,0 +1,3 @@
+5. § (1) A Kbt. 65. § (1) bekezdésében említett alkalmassági követelmények előzetes igazolása érdekében az ajánlattevő, részvételre jelentkező vagy az alkalmasság igazolásában részt vevő gazdasági szereplő a formanyomtatvány IV. részét az ajánlatkérő által a 2. § (5) bekezdése szerint előírt módon köteles kitölteni.
+
+(2) Ha az ajánlatkérő a több szakaszból álló eljárás részvételi szakaszában meghatározta az ajánlattételre felhívandó gazdasági szereplők keretszámát, és meghatározta az alkalmas jelentkezők közötti rangsorolás módját, az érintett gazdasági szereplő a formanyomtatvány V. szakaszát is kitölti.

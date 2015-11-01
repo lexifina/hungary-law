@@ -1,0 +1,5 @@
+39. § (1) A kamara igazolást állít ki a kamarai jegyzékben való szereplésről. Az igazolásnak tartalmaznia kell a minősítési szempontok szerinti megfelelésre történő hivatkozást és a kamarai jegyzék szerinti besorolást.
+
+(2) A közbeszerzési eljárásban az ajánlatkérő – a (3) bekezdés figyelembevételével – az alkalmassági követelménynek (követelményeknek) való megfelelés igazolására köteles elfogadni a kamarai jegyzékben szereplés tényét.
+
+(3) A minősített ajánlattevőnek külön kell igazolnia a szerződés teljesítésére való alkalmasságát azon alkalmassági követelmények tekintetében, amelyeknél az ajánlatkérő a közbeszerzési eljárásban vagy az előminősítési rendszerében – a 37. § (3) bekezdése alapján meghatározott minősítési szempontokhoz képest – szigorúbban állapítja meg az ajánlattevő pénzügyi és gazdasági, valamint műszaki, illetve szakmai alkalmasságának feltételeit és igazolását. Az ajánlatkérőnek a szigorúbban meghatározott alkalmassági követelményekre kifejezetten utalnia kell az eljárást megindító felhívásban.

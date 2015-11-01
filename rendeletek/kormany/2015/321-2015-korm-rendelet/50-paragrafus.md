@@ -1,0 +1,5 @@
+## 49. § Ez a rendelet 2015. november 1-jén lép hatályba.
+
+50. § (1) E rendeletet rendelkezéseit a hatálybalépése után megkezdett közbeszerzésekre kell alkalmazni.
+
+(2) A minősített ajánlattevők Hatóság által vezetett hivatalos jegyzékében e rendelet hatálybalépésekor bejegyzett gazdasági szereplők jegyzékbe vételének érvényességét e rendelet hatálybalépése nem érinti, a jegyzékbe vétel érvényességi ideje a bejegyzéskor meghatározott érvényességi idő elteltével jár le. A hatósági hivatalos jegyzékbe vétel érvényességi ideje e rendelet hatálybalépését követően e rendelet szabályai szerint újítható meg. A hatósági hivatalos jegyzékben szereplő gazdasági szereplő számára a Hatóság kérelemre a Kbt. és e rendelet szabályainak megfelelő megújított igazolást ad ki. A 2015. november 1-je után indult közbeszerzési eljárásokban csak a Kbt. és e rendelet szabályinak megfelelő igazolás használható fel. Az e rendelet hatályba lépésekor folyamatban lévő bejegyzési, illetve megújítási kérelmek esetében a Hatóság új, a Kbt. és e rendelet előírásainak megfelelő kérelem benyújtására hívja fel az érintett gazdasági szereplőt.

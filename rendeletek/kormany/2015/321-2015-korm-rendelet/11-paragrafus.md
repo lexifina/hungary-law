@@ -1,0 +1,5 @@
+## 11. § Nem Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében az ajánlatkérő a Kbt. Második Része szerint lefolytatott közbeszerzési eljárásban a Kbt. 63. §-a tekintetében a következő írásbeli nyilatkozatokat köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:
+
+a) a Kbt. 63. § (1) bekezdés a), b) és d) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a kizáró ok hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
+
+b) a Kbt. 63. § (1) bekezdés c) pontja tekintetében az ajánlatkérő nem kérhet külön igazolást, a kizáró ok hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot, azzal, hogy magyarországi ajánlatkérővel kötött szerződés teljesítésére vonatkozóan a kizáró ok hiányát az ajánlatkérő köteles a Hatóság honlapján elérhető nyilvántartásból ellenőrizni.
