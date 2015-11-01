@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2015-04-01 | 1997-217-20-22.116 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-07-01 | 1997-217-20-22.117 | 157/2015. (VI. 25.) Korm. rendelet |
 | 2015-07-22 | 1997-217-20-22.118 | 192/2015. (VII. 21.) Korm. rendelet |
+| 2015-11-01 | 1997-217-20-22.119 | 281/2004. (X. 20.) Korm. rendelet |
