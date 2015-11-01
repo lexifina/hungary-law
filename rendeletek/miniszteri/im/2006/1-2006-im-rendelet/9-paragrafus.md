@@ -1,3 +1,3 @@
-## 8. § Ha a nyomtatványban nincs elegendő hely a nyilatkozatok megtételéhez, vagy a nyomtatvány rovatainak száma nem elegendő, az ügyfél pótlapon folytatja a kérelmét a nyomtatvány szerinti tartalommal. Erre a tényre a nyomtatvány Közlemények rovatában utalni kell.
+## A nyomtatványok kitöltésének részletes szabályai[^13]
 
-## A nyomtatvány kitöltésének részletes szabályai
+[^13]: A 9. §-t megelőző alcím a 30/2015. (X. 30.) IM rendelet 13. § c) pontja szerint módosított szöveg.

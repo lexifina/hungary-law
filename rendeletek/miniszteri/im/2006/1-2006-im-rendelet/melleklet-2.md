@@ -2,7 +2,9 @@
 
 ## A) RÉSZ
 
-## SZEMÉLYI ADATOK ÉS A BŰNCSELEKMÉNYRE, VALAMINT TULAJDON ELLENI SZABÁLYSÉRTÉSRE VONATKOZÓ ADATOK
+## SZEMÉLYI ADATOK ÉS A BŰNCSELEKMÉNYRE, VALAMINT TULAJDON ELLENI
+
+## SZABÁLYSÉRTÉSRE VONATKOZÓ ADATOK
 
 ## (A nyomtatvány „A” részét azonnali pénzügyi segély és állami kárenyhítés igénylése
 
@@ -20,9 +22,9 @@
 
 | Lakcíme: |
 
-| Értesítési címe*: Lakástelefon*: Mobiltelefon*: |
+| Értesítési címe*: Lakástelefon*: Mobiltelefon**: |
 
-| E-mail cím*: |
+| E-mail cím**: |
 
 | Állampolgársága: |
 
@@ -38,35 +40,33 @@
 
 | A bűncselekmény/tulajdon elleni szabálysértés elkövetésének rövid leírása: |
 
-| A kérelmezőt ért sérelmek: □ testi sérülés: □ lelki sérülés, érzelmi megrázkódtatás: □ vagyoni kár: □ egyéb: |
+| A kérelmezőt ért sérelmek: ◻ testi sérülés: ◻ lelki sérülés, érzelmi megrázkódtatás: ◻ vagyoni kár: ◻ egyéb: |
 
 | III. Az igényelt támogatás(ok) megjelölése |
 
-| Minden áldozat jogosult arra, hogy az áldozatsegítő szolgálat segítséget nyújtson számára a bűncselekmény/ tulajdon elleni szabálysértés okozta jogi, szociális, gyermekvédelmi, egészségügyi, társadalombiztosítási, munkaügyi vagy bármely egyéb probléma megoldásához (érdekérvényesítés elősegítése). Jogosult továbbá arra, hogy az áldozatsegítő szolgálat a bűncselekménnyel/ tulajdon elleni szabálysértéssel összefüggő jogi kérdések rendezése érdekében, rászorultság esetén az áldozati státusz igazolásával ügyvédi támogatáshoz segítse hozzá (jogi segítségnyújtás). Ezen túlmenően az azonnali pénzügyi segélyt és az állami kárenyhítést ezen a nyomtatványon kell kérni. |
+| Minden áldozat jogosult arra, hogy az áldozatsegítő szolgálat segítséget nyújtson számára a bűncselekmény/tulajdon elleni szabálysértés okozta jogi, érzelmi, szociális, gyermekvédelmi, egészségügyi, társadalombiztosítási, munkaügyi vagy bármely egyéb probléma megoldásához (érdekérvényesítés elősegítése). Jogosult továbbá arra, hogy az áldozatsegítő szolgálat az áldozati státusz igazolásával valamely más szervezet, hatóság szolgáltatásához, ellátásához, illetve egyéb feltételek teljesülése esetén ügyvédi támogatáshoz segítse hozzá. Ezen túlmenően az azonnali pénzügyi segélyt és az állami kárenyhítést ezen a nyomtatványon kell kérni. |
 
 | A következő támogatásokat igényelem: |  |
 
-| □ azonnali pénzügyi segély célja: |  |
+| ◻ azonnali pénzügyi segély célja: |  |
 
-| □ lakhatással kapcsolatos kiadás □ élelmezéssel kapcsolatos kiadás □ gyógyászati jellegű kiadás | □ ruházkodással kapcsolatos kiadás □ utazással kapcsolatos kiadás □ kegyeleti jellegű kiadás |
+| ◻ lakhatással kapcsolatos kiadás ◻ élelmezéssel kapcsolatos kiadás ◻ gyógyászati jellegű kiadás | ◻ ruházkodással kapcsolatos kiadás ◻ utazással kapcsolatos kiadás ◻ kegyeleti jellegű kiadás |
 
 | indoka, krízishelyzet leírása: |
 
-| □ kárenyhítés [Igénylése esetén a nyomtatvány B) részét is ki kell tölteni!] |
+| ◻ kárenyhítés [Igénylése esetén a nyomtatvány B) részét is ki kell tölteni!] |
 
-| Az azonnali pénzügyi segély kizárólag olyan rendkívüli kiadásokra tekintettel kérhető, amelyek megfizetésére az áldozat a bűncselekmény/tulajdon elleni szabálysértés következtében nem képes. |
+| Azonnali pénzügyi segély kizárólag olyan rendkívüli kiadásokra tekintettel kérhető, amelyek megfizetésére az áldozat a bűncselekmény/tulajdon elleni szabálysértés következtében nem képes. |
 
 | A pénzben nyújtott támogatás kifizetésének módja: |
 
-| □ pénztári kifizetés (Kizárólag azonnali pénzügyi segély esetén kérhető!) |
+| ◻ pénztári kifizetés (Állami kárenyhítés esetén nem választható!) |
 
-| Állami kárenyhítés esetén csak az alábbiak választhatóak: |
+| ◻ postai utalvány (cím: ...........................................................................................................) |
 
-| □ postai utalvány (cím: ..........................................................) |
+| ◻ saját névre szóló fizetési számlára utalás: |
 
-| □ saját névre szóló fizetési számlára utalás: |
-
-| (Pénzforgalmi szolgáltató megnevezése ......................................................................................., számlaszám: □□□□□□□□-□□□□□□□□-□□□□□□□□ |
+| (Pénzforgalmi szolgáltató megnevezése .................................................................................., számlaszám: ◻◻◻◻◻◻◻◻-◻◻◻◻◻◻◻◻-◻◻◻◻◻◻◻◻) |
 
 | IV. Mellékletek (megnevezése, darabszáma) |
 
@@ -84,11 +84,11 @@
 
 | 3. Kijelentem, hogy valótlan adatszolgáltatás vagy az ellenőrzésre irányuló vizsgálat akadályoztatása miatt velem szemben a támogatást kizáró ok áll fenn / nem áll fenn. |
 
-| 4. A nyomtatványt kérésemre – jelenlétemben – az áldozatsegítő szolgálat munkatársa töltötte ki. Igen / Nem |
+| 4. A nyomtatványt kérésemre – jelenlétemben – az áldozatsegítő szolgálat munkatársa töltötte ki: Igen / Nem 5. Az azonnali pénzügyi segély iránti ügyben hozott döntések telefonon és/vagy e-mailben történő közléséhez hozzájárulok / nem járulok hozzá. |
 
-| 5. Egyéb közlendők: |
+| 6. Egyéb közlendők (kérjük, hogy itt tüntesse fel a kérelem elkésettségének okát, azt, ha önkéntes segített Önnek a kérelem benyújtásában, továbbá minden olyan információt, amiről úgy gondolja, hogy fontos lehet a kérelem elbírálása során): |
 
-| A *-gal jelölt adatok megadása nem kötelező. |
+| A *-gal jelölt adatok megadása nem kötelező. A **-gal jelölt adatok közül egy megadása kötelező, ha a kérelmező a nyomtatvány V.5. pontjában szereplő hozzájárulást megadta. |
 
 | Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a valóságnak. |
 
@@ -96,7 +96,7 @@
 
 | Kelt: ...................................., ......... év ............................. hó ............... nap. |
 
-|  | ................................................... kérelmező aláírása |
+| ................................................... kérelmező aláírása |
 
 ## B) RÉSZ
 
@@ -242,6 +242,6 @@
 
 ## kérelmező aláírása
 
-2. melléklet az 1/2006. (I. 6.) IM rendelethez[^43]
+2. melléklet az 1/2006. (I. 6.) IM rendelethez[^47]
 
-[^43]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^47]: A 2. mellékletet a 48/2009. (IX. 28.) IRM rendelet 34. § (4) bekezdés j) pontja hatályon kívül helyezte, újonnan a 30/2015. (X. 30.) IM rendelet 15. §-a iktatta be.
