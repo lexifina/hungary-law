@@ -1,10 +1,12 @@
-72. § (1) A 71. §-tól eltérően a Kbt. XIV. Fejezete alkalmazásakor a közszolgáltatói szerződések esetén irányadó, a Kbt. 10. § (1) bekezdés a) pontjában meghatározott uniós közbeszerzési értékhatár 2015. január 1-jétől 2015. december 31-éig
+72. § (1) A 71. § (1)–(2) és (4) bekezdésétől eltérően a közszolgáltatói szerződések esetén irányadó, a Kbt. 15. § (1) bekezdés a) pontjában meghatározott uniós közbeszerzési értékhatár 2015. november 1-jétől 2015. december 31-éig
 
 a) árubeszerzésre, valamint a szolgáltatás megrendelésére 414 000 euró,
 
-b) építési beruházásra 5 186 000 euró.
+b) építési beruházásra 5 186 000 euró,
 
-(2) A Kbt. XIV. Fejezete alkalmazásakor a közszolgáltatói szerződések esetén irányadó, a Kbt. 10. § (1) bekezdés a) pontja szerinti, a tervpályázati eljárás lefolytatására vonatkozó uniós közbeszerzési értékhatár 2015. január 1-jétől 2015. december 31-éig
+c) a Kbt. 3. mellékletében szereplő szociális és egyéb szolgáltatásra 1 000 000 euró.
+
+(2) A közszolgáltatói szerződések esetén irányadó, a Kbt. 15. § (1) bekezdés a) pontja szerinti, a tervpályázati eljárás lefolytatására vonatkozó uniós közbeszerzési értékhatár 2015. november 1-jétől 2015. december 31-éig
 
 a) 414 000 euró, ha a tervpályázati eljárás eredményeként szolgáltatás megrendelésére kerül sor,
 
