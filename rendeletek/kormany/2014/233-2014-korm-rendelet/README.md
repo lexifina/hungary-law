@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-233-20-
 | 2015-04-01 | 2014-233-20-22.5 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-07-01 | 2014-233-20-22.6 | 167/2015. (VI. 30.) Korm. rendelet |
 | 2015-09-01 | 2014-233-20-22.7 | 218/2015. (VIII. 6.) Korm. rendelet |
+| 2015-11-01 | 2014-233-20-22.8 | 317/2015. (X. 30.) Korm. rendelet |
