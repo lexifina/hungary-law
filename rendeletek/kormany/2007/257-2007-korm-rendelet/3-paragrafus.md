@@ -20,9 +20,9 @@ h) a beérkezett és megnyitott adatok csak a jogosultak számára maradnak hozz
 
 (2) Az elektronikus dokumentumok benyújtásához szükséges feltételekre vonatkozó információnak a benyújtást megelőzően, megfelelő időben az érdekelt felek rendelkezésére kell állnia;
 
-(3)[^5] Ha az adott közbeszerzési eljárásban benyújtandó ajánlatok, igazolások, tanúsítványok és nyilatkozatok elektronikus formában nem állnak rendelkezésre, és egyéb sajátosságaik miatt a 6. § (1) bekezdésében meghatározott módon, elektronikus formában nem nyújthatók be, az ajánlattevőknek azokat a határidő lejártáig papíralapú dokumentum formájában a közbeszerzési törvény, valamint az ajánlati felhívás és a dokumentáció által előírt követelményeknek megfelelően kell benyújtaniuk.
+(3)[^5] Ha az adott közbeszerzési eljárásban benyújtandó ajánlatok, igazolások, tanúsítványok és nyilatkozatok elektronikus formában nem állnak rendelkezésre, és egyéb sajátosságaik miatt a 6. § (1) bekezdésében meghatározott módon, elektronikus formában nem nyújthatók be, az ajánlattevőknek azokat a határidő lejártáig papíralapú dokumentum formájában a közbeszerzési törvény, valamint az ajánlati felhívás és a közbeszerzési dokumentumok által előírt követelményeknek megfelelően kell benyújtaniuk.
 
-(4)[^6] Az ajánlatkérőnek gondoskodnia kell valamennyi, a közbeszerzési eljárásokban elektronikusan lefolytatott eljárási cselekmény valamennyi eseménye naplózásáról. A naplózott adatállomány bejegyzéseit védeni kell az arra jogosulatlan személy általi hozzáféréstől, törléstől, illetve biztosítani kell, hogy a napló tartalma a közbeszerzési törvény 34. § (2) bekezdése szerinti időtartam alatt a jogosult számára megismerhető és értelmezhető maradjon.
+(4)[^6] Az ajánlatkérőnek gondoskodnia kell valamennyi, a közbeszerzési eljárásokban elektronikusan lefolytatott eljárási cselekmény valamennyi eseménye naplózásáról. A naplózott adatállomány bejegyzéseit védeni kell az arra jogosulatlan személy általi hozzáféréstől, törléstől, illetve biztosítani kell, hogy a napló tartalma a közbeszerzési törvény 46. § (2) bekezdése szerinti időtartam alatt a jogosult számára megismerhető és értelmezhető maradjon.
 
 (5) Amennyiben a közbeszerzési eljárás vonatkozásában az ajánlatkérő az elektronikus út igénybevételét lehetővé teszi, vagy azt jogszabály alkalmazni rendeli, a közbeszerzési eljárást megindító hirdetményben e tényt, és az adott közbeszerzési eljárásra vonatkozó nyilvános információk elérhetőségét az ajánlatkérőnek fel kell tüntetnie.
 
@@ -31,6 +31,6 @@ h) a beérkezett és megnyitott adatok csak a jogosultak számára maradnak hozz
 [^2]: A 2. § a 36/2014. (II. 19.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^3]: A 3. § (1) bekezdés e) pontja a 36/2014. (II. 19.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^4]: A 3. § (1) bekezdés f) pontja a 36/2014. (II. 19.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (3) bekezdése a 287/2011. (XII. 22.) Korm. rendelet 16. § a) pontja szerint módosított szöveg. E módosító rendelet 30. §-a alapján a 2012. január 1-je után megkezdett közbeszerzésekre kell alkalmazni.
-[^6]: A 3. § (4) bekezdése a 287/2011. (XII. 22.) Korm. rendelet 16. § b) pontja szerint módosított szöveg. E módosító rendelet 30. §-a alapján a 2012. január 1-je után megkezdett közbeszerzésekre kell alkalmazni.
+[^5]: A 3. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^7]: A 3. § (6) bekezdését a 36/2014. (II. 19.) Korm. rendelet 12. § (3) bekezdése iktatta be.

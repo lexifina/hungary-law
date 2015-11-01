@@ -6,13 +6,14 @@ a) eleget tesz a felhívásban az ajánlatkérő által előre meghatározott, a
 
 b) a felhívásban meghatározott informatikai eszközökkel a bontás időpontjában az ajánlatkérő számára olvasható és megjeleníthető.
 
-(2) Amennyiben az elektronikus úton benyújtott ajánlat eleget tesz a felhívásban vagy a dokumentációban meghatározott, az ajánlat részét képező elektronikus dokumentumok informatikai jellemzőire vonatkozó követelményeknek, de az ajánlat egyéb okból nem olvasható, illetve nem jeleníthető meg, az ajánlattevőt – megfelelő határidő tűzésével – fel kell hívni az ajánlat olvashatóságához és megjeleníthetőségéhez szükséges szoftver megnevezésére. Az ajánlat újraküldése nem megengedett.
+(2)[^30] Amennyiben az elektronikus úton benyújtott ajánlat eleget tesz a felhívásban vagy a közbeszerzési dokumentumokban meghatározott, az ajánlat részét képező elektronikus dokumentumok informatikai jellemzőire vonatkozó követelményeknek, de az ajánlat egyéb okból nem olvasható, illetve nem jeleníthető meg, az ajánlattevőt – megfelelő határidő tűzésével – fel kell hívni az ajánlat olvashatóságához és megjeleníthetőségéhez szükséges szoftver megnevezésére. Az ajánlat újraküldése nem megengedett.
 
 (3) Az ajánlatkérő – amennyiben a közbeszerzési eljárást megindító hirdetmény eltérően nem rendelkezik – csupán általánosan hozzáférhető, ingyenes vagy szabad szoftvert köteles igénybe venni az ajánlatok olvasásához és megjeleníthetőségéhez az ajánlattevő (2) bekezdés szerinti nyilatkozata alapján.
 
-(4)[^29] Amennyiben a szoftver azonosítását követően sem határozható meg egyértelműen az ajánlatnak a felbontás időpontjában létező tartalma, vagy az ajánlattevő olyan, az olvashatósághoz és megjeleníthetőséghez szükséges szoftvert nevez meg, amely eltér az ajánlati felhívásban, illetve a (3) bekezdésben foglaltaktól, az ajánlat a közbeszerzési törvény 74. § (1) bekezdés e) pontja alapján érvénytelen.
+(4)[^31] Amennyiben a szoftver azonosítását követően sem határozható meg egyértelműen az ajánlatnak a felbontás időpontjában létező tartalma, vagy az ajánlattevő olyan, az olvashatósághoz és megjeleníthetőséghez szükséges szoftvert nevez meg, amely eltér a felhívásban, illetve a (3) bekezdésben foglaltaktól, az ajánlat a közbeszerzési törvény 73. § (1) bekezdés e) pontja alapján érvénytelen.
 
-(5)[^30] A közbeszerzési törvény 67. §-a szerinti hiánypótlási eljárás lebonyolításának, valamint az ajánlat értékelésének csak abban az esetben van helye, ha az ajánlat – a bontást vagy a (2) és (3) bekezdés szerinti intézkedéseket követően – olvasható és megjeleníthető.
+(5)[^32] A közbeszerzési törvény 71. § szerinti hiánypótlási eljárásnak, felvilágosítás kérésnek, számítási hiba javításának, valamint az ajánlat értékelésének csak abban az esetben van helye, ha az ajánlat – a bontást vagy a (2) és (3) bekezdés szerinti intézkedéseket követően – olvasható és megjeleníthető.
 
-[^29]: A 15. § (4) bekezdése a 287/2011. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 30. §-a alapján a 2012. január 1-je után megkezdett közbeszerzésekre kell alkalmazni.
-[^30]: A 15. § (5) bekezdése a 287/2011. (XII. 22.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 30. §-a alapján a 2012. január 1-je után megkezdett közbeszerzésekre kell alkalmazni.
+[^30]: A 15. § (2) bekezdése a 323/2015. (X. 30.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^31]: A 15. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
+[^32]: A 15. § (5) bekezdése a 323/2015. (X. 30.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.

@@ -1,9 +1,11 @@
-## A beérkezett ajánlatokkal összefüggő cselekmények
+## Az ajánlatok megtétele, az ajánlati kötöttségre vonatkozó különös szabályok
 
-23. § (1) A beérkező ajánlatokat az elektronikus árlejtést támogató rendszer automatikusan, a 19. § (3) bekezdésének e) pontja szerinti képlet alkalmazásával értékeli, és az ajánlattevőkkel egyidejűleg, elektronikus úton közli a (2) bekezdésben meghatározott információkat.
+23. § (1) Amennyiben az ajánlattevő az elektronikus árlejtés során nem tesz ajánlatot, ajánlati kötöttsége az elektronikus árlejtést megelőzően papír alapon vagy a 12. § szerint elektronikus úton benyújtott ajánlata vonatkozásában áll fenn.
 
-(2)[^48] Az ajánlatkérő az elektronikus árlejtést támogató informatikai rendszer útján folyamatosan köteles közölni az ajánlattevőnek az ajánlattevők rangsorában elfoglalt helyzetét, valamint – a (3) bekezdésben foglaltak betartásával – információval látja el az ajánlattevőket más ajánlattevők által tett ajánlatokban foglalt értékekkel, továbbá – amennyiben azt a dokumentációban előzetesen jelezte – az ajánlattevők számával kapcsolatban.
+(2) Az ajánlattevőnek az elektronikus árlejtés során első ajánlatának megtételétől az elektronikus árlejtés lezárásáig nem áll fenn a közbeszerzési törvény szerinti ajánlati kötöttsége. A szerződést az ajánlatnak az elektronikus árlejtés lezárásakor meglévő tartalma szerint az első helyen rangsorolt ajánlattevővel kell megkötni.
 
-(3) Az ajánlatkérő az elektronikus árlejtés lefolytatása során az egyes ajánlattevőket véletlenszerűen választott azonosítóval jelöli, és gondoskodik arról, hogy az ajánlattevőknek – saját azonosítójukon túl – ne legyen tudomásuk arról, hogy melyik azonosító melyik ajánlattevőt jelöli.
+(3) Az elektronikus árlejtés lebonyolítása során az ajánlattevők az ellenszolgáltatás mértéke vagy az értékelési részszempontok tekintetében módosíthatják ajánlatukat.
 
-[^48]: A 23. § (2) bekezdése a 287/2011. (XII. 22.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 30. §-a alapján a 2012. január 1-je után megkezdett közbeszerzésekre kell alkalmazni.
+(4) Az ajánlattevő az elektronikus árlejtés során az ellenszolgáltatás mértéke vonatkozásában kizárólag kedvezőbb, a közbeszerzési törvény 108. § (5) bekezdés b) pontja szerinti esetben pedig az egyes – ellenszolgáltatáson kívüli – részszempontok vonatkozásában kedvezőbb és kedvezőtlenebb ajánlatot is tehet.
+
+(5) Az ajánlattevőnek az elektronikus árlejtés során tett azon ajánlata nem vehető figyelembe, amely a 19. § (3) bekezdés e) pontjában meghatározott képlet alapján történő, más ajánlattevők ajánlatait figyelmen kívül hagyó automatikus kiértékelés szerint kedvezőtlenebb az ajánlattevő korábban tett ajánlatánál.
