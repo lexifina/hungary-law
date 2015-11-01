@@ -1,0 +1,1 @@
+## 24. § Az e rendeletben meghatározott adatszolgáltatási kötelezettség(ek) elmulasztása esetén a miniszter kezdeményezheti az adatszolgáltatásért felelős személy fegyelmi és kártérítési felelősségre vonását a fegyelmi jogkör gyakorlójánál.
