@@ -1,6 +1,6 @@
 ## 13. § Az egész napos étkeztetés, a bölcsődei étkeztetés, a napi háromszori és a napi egyszeri étkezés szolgáltatása esetén a felhasznált élelmiszerek, élelmiszercsoportok a 6. mellékletben foglalt táblázat szerinti gyakorisággal, tíz élelmezési napra számítva alkalmazandóak.
 
-14. § (1)[^14] Közétkeztetésben a következő élelmiszereket nem lehet felhasználni:
+14. § (1)[^13] Közétkeztetésben a következő élelmiszereket nem lehet felhasználni:
 
 a) sótartalmú ételport, sótartalmú leveskockát, sótartalmú ételízesítő krémeket, pasztákat állományjavításon vagy ételízesítésen kívüli célra,
 
@@ -30,4 +30,4 @@ k) kókusz- és pálmazsírt sütéshez, főzéshez.
 
 (4) Édesítőszer a három év alatti korcsoportnak – a diétás étkezést igénylő szénhidrátanyagcsere-zavarban szenvedők kivételével – nem adható.
 
-[^14]: A 14. § (1) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^13]: A 14. § (1) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.

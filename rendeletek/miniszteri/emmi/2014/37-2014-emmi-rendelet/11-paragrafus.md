@@ -1,4 +1,4 @@
-11. §[^12] (1) Tíz élelmezési nap átlagában a napi összes energiamennyiség legfeljebb 30%-a, bölcsődei étkeztetés esetén 35%-a származhat zsiradékból.
+11. §[^11] (1) Tíz élelmezési nap átlagában a napi összes energiamennyiség legfeljebb 30%-a, bölcsődei étkeztetés esetén 35%-a származhat zsiradékból.
 
 (2) Tíz élelmezési nap átlagában a hozzáadott cukortartalom a napi összes energiamennyiség legfeljebb 8%-át teheti ki.
 
@@ -10,4 +10,4 @@ b) bölcsődei étkeztetés esetén egy főre 4 liter tej vagy ennek megfelelő 
 
 c) napi háromszori étkezés szolgáltatása esetén egy főre 3 liter tej vagy ennek megfelelő mennyiségű kalciumtartalmú tejtermék
 
-[^12]: A 11. § az 54/2014. (XII. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^11]: A 11. § az 54/2014. (XII. 29.) EMMI rendelet 5. §-ával megállapított szöveg.

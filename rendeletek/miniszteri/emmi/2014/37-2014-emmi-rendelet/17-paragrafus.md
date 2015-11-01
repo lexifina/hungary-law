@@ -1,6 +1,6 @@
 ## 11. Hatósági ellenőrzés
 
-17. § (1)[^18] Az e rendelet előírásainak való megfelelést a közétkeztetési szolgáltatás nyújtásának helye szerint illetékes népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: ellenőrző hatóság) ellenőrzi.
+17. § (1)[^17] Az e rendelet előírásainak való megfelelést a közétkeztetési szolgáltatás nyújtásának helye szerint illetékes népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: ellenőrző hatóság) ellenőrzi.
 
 (2) A Közétkeztető és az Intézmény köteles
 
@@ -12,4 +12,4 @@ b) az a) pontban felsorolt dokumentumokat 90 napig megőrizni.
 
 (4) A laboratóriumban mért és a számított tápanyagértékek között 20%-os eltérés megengedett.
 
-[^18]: A 17. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 163. § b) pontja szerint módosított szöveg.
+[^17]: A 17. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 163. § b) pontja szerint módosított szöveg.
