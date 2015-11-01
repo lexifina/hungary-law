@@ -1,0 +1,5 @@
+## 7. § Az 1/2006. (I. 6.) IM rendelet 4. §-a helyébe a következő rendelkezés lép:
+
+## „4. § (1) A területi áldozatsegítő szolgálat alkalmazottja az ügyfélfogadáson személyesen megjelent ügyfélnek – kérelmére – a nyomtatványok kitöltésében segítséget nyújt, őt a kitöltéshez szükséges információkkal ellátja. Az ügyfél kérésére a területi áldozatsegítő szolgálat alkalmazottja az 1. melléklet szerinti nyomtatványt – az ügyfél jelenlétében – helyette kitöltheti; ennek tényére a nyomtatvány Közlemények rovatában utalni kell. Az ügyfél a nyomtatványt ebben az esetben is aláírja.
+
+## (2) A hiánypótlási felhívásban a területi áldozatsegítő szolgálat az (1) bekezdés szerinti segítségnyújtás lehetőségéről az ügyfélfogadás helyének és időpontjának megjelölésével tájékoztatja az ügyfelet. Ha az ügyfél az áldozati státusz igazolása iránti kérelmet nem a 2. melléklet szerinti nyomtatványon terjesztette elő, de a hatósági bizonyítvány kiállításának feltételei megállapíthatóak, a területi áldozatsegítő szolgálat hivatalból kiállítja azt.”
