@@ -10,7 +10,7 @@ b) az eljárás alapjául szolgáló bűncselekmény megnevezését és a gyanú
 
 c) a nyomozási cselekmény helyét és idejét,
 
-d) a jelen lévő ügyész, nyomozó hatóság tagja, eljárásban részt vevő személy és képviselője, védő, tanú, tanú érdekében eljáró ügyvéd, hatósági tanú és jegyzőkönyvvezető nevét,
+d) az eljárási cselekményen jelen lévő személyek nevét és azt, hogy az eljárási cselekményen milyen minőségben vettek részt,
 
 e) a kihallgatott terhelt és tanú, a meghallgatott szakértő nevét, valamint az e törvényben meghatározott más személyi adatokat.
 

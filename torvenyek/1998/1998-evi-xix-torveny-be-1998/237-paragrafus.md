@@ -10,7 +10,7 @@ a) erkölcsi okból,
 
 b) az eljárásban részt vevő kiskorú védelme érdekében,
 
-c) az eljárásban részt vevő személyek (V. Fejezet) vagy a tanú védelme érdekében,
+c) az eljárásban részt vevő személyek (V. Fejezet), így különösen a különleges bánásmódot igénylő sértett, továbbá a tanú védelme érdekében,
 
 d) a minősített adat védelme végett.
 

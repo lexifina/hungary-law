@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2015-07-01 | 2015. évi LXXVI. törvény | 1998-19-00-00.77 |
 | 2015-09-15 | 2015. évi CXL. törvény | 1998-19-00-00.78 |
 | 2015-10-08 | 2015. évi CXLVI. törvény | 1998-19-00-00.79 |
+| 2015-11-01 | 2015. évi CLI. törvény | 1998-19-00-00.80 |

@@ -22,4 +22,4 @@ e) a vádirat benyújtása után a vádlott nevét és az eljárás alapjául sz
 
 (6) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni. Sajtóhirdetményben az értesítettek neve nem közölhető.
 
-(7) A kiskorú idézésében, illetve értesítésében egyidejűleg a kiskorú korára, érettségére figyelemmel, számára érthető módon tájékoztatást kell adni az idézés, illetve értesítés tartalmáról.
+(7) A kiskorú idézésében, illetve értesítésében – figyelemmel a 62/A. §-ban foglaltakra – a kiskorú korára, érettségére figyelemmel, számára érthető módon tájékoztatást kell adni az idézés, illetve értesítés tartalmáról.

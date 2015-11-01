@@ -12,6 +12,6 @@ d) az ügyész a nyomozás eredményeként közvádra üldözendő bűncselekmé
 
 e) az ügyész a tárgyaláson a vádat azért ejtette el, mert megítélése szerint a bűncselekmény nem közvádra üldözendő.
 
-(2) A pótmagánvádló halála esetén helyébe – harminc napon belül – egyenesági rokona, házastársa, élettársa vagy törvényes képviselője léphet.
+(2) A pótmagánvádló halála esetén helyébe – harminc napon belül – egyenesági rokona, házastársa, élettársa, testvére, törvényes képviselője vagy jogszabály, illetve szerződés alapján a pótmagánvádló által eltartott személy léphet.
 
 (3) Nem természetes személy pótmagánvádló megszűnése esetén helyébe – a jogutódlás bekövetkeztétől számított harminc napon belül – a jogutódja léphet.

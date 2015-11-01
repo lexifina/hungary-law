@@ -4,7 +4,7 @@
 
 (2) A nyomozás befejezéséig a gyanúsított, a védő, a fiatalkorú törvényes képviselője, a sértett és képviselője másolatot kaphat a szakvéleményről, valamint az olyan nyomozási cselekményről készült iratról, amelyeknél jelenlétüket e törvény lehetővé teszi; az egyéb iratról pedig akkor, ha ez a nyomozás érdekeit nem sérti. A sértett a nyomozás során keletkezett más iratokról a tanúkénti kihallgatását követően kaphat másolatot.
 
-(3) A feljelentő részére – ha nem a (2) bekezdésben felsoroltak valamelyike – csak a feljelentésről adható másolat.
+(3) A feljelentő részére – ha nem a (2) bekezdésben felsoroltak valamelyike – csak a szóban tett feljelentésről készített jegyzőkönyvről, illetve az írásban tett feljelentés megtételét igazoló iratról adható másolat. Ha a feljelentő a magyar nyelvet nem ismeri, kérelmére a nyomozó hatóság vagy az ügyész a feljelentés megtételéről igazolást állít ki. Az igazolást a feljelentő részére kézbesíteni kell.
 
 (4) Ha a terheltnek a 179. § (1) bekezdése szerinti kihallgatására, a védő kirendelésére, illetőleg meghatalmazására az irat keletkezését követően került sor, a (2) bekezdés szerinti iratról másolat kiadására a terhelt az első kihallgatására történő idézés kézbesítésétől, a védő a kirendelésről szóló határozat kézbesítésétől, illetőleg a meghatalmazás benyújtásától fogva jogosult.
 

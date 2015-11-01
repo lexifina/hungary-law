@@ -6,4 +6,6 @@
 
 (3) A feljelentő tanúként kihallgatható. Ha a feljelentés tartalmazza a feljelentő előadását, a tanúkénti kihallgatása mellőzhető.
 
+(3a) Ha a sértett tanúkénti kihallgatása szükséges, akkor a sértettet lehetőség szerint soron kívül kell kihallgatni.
+
 (4) A tanú vallomása – a tizennyolcadik életévét meg nem haladott tanú kivételével – beleegyezése esetén poligráf alkalmazásával vizsgálható.
