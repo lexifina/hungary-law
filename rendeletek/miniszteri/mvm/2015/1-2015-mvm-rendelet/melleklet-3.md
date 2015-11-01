@@ -30,7 +30,7 @@
 
 ## AZ ALAPKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
-## I. KÖZIGAZGATÁSI KÉPZÉSI ÁG
+## I. KÖZIGAZGATÁSI KÉPZÉSI ÁG[^4]
 
 ## 1. KÖZIGAZGATÁS-SZERVEZŐ ALAPKÉPZÉSI SZAK
 
@@ -266,7 +266,7 @@
 
 ## 10. Idegennyelvi követelmények:
 
-## Az alapfokozat megszerzéséhez az EU valamely hivatalos idegen nyelvén egy államilag elismert, középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy azzal egyenértékű érettségi bizonyítvány vagy okirat megszerzése szükséges.
+## Az általános igazgatási szakirányon az alapfokozat megszerzéséhez az EU valamely hivatalos idegen nyelvén egy államilag elismert, középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy azzal egyenértékű érettségi bizonyítvány vagy okirat megszerzése szükséges. A nemzetközi közigazgatási szakirányon az alapfokozat megszerzéséhez az EU valamely hivatalos idegen nyelvén egy államilag elismert, középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy azzal egyenértékű érettségi bizonyítvány, okirat, vagy középfokú (B2) komplex típusú közigazgatási szaknyelvi nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat szükséges.
 
 ## II. RENDÉSZETI KÉPZÉSI ÁG
 
@@ -2094,7 +2094,7 @@
 
 ## Az alapfokozat megszerzéséhez két idegen nyelvből - melyből legalább az egyik a NATO hivatalos nyelve - államilag elismert középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy egy államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány egy olyan nyelvből, melyen a szakmának tudományos szakirodalma van, vagy ezekkel egyenértékű érettségi bizonyítvány vagy okirat szükséges.
 
-3. melléklet az 1/2015. (I. 14.) MvM rendelethez[^6]
+3. melléklet az 1/2015. (I. 14.) MvM rendelethez[^5]
 
 A MESTERKÉPZÉSI SZAKOK JEGYZÉKE
 
@@ -2129,6 +2129,8 @@ A MESTERKÉPZÉSI SZAKOK JEGYZÉKE
 | 14 |  | international public service relations |  | 90 |
 
 A MESTERKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
+
+[^6]
 
 1. KÖZIGAZGATÁSI MESTERKÉPZÉSI SZAK
 
@@ -2394,7 +2396,7 @@ c) európai és nemzetközi közigazgatási szakirány
 
 10. Idegennyelvi követelmények:
 
-A mesterfokozat megszerzéséhez az EU valamely hivatalos idegen nyelvéből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy ezzel egyenértékű érettségi bizonyítvány vagy okirat szükséges.
+A mesterfokozat megszerzéséhez az EU valamely hivatalos idegen nyelvéből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy azzal egyenértékű érettségi bizonyítvány, okirat, vagy középfokú (B2) komplex típusú közigazgatási szaknyelvi nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat szükséges.
 
 11. A mesterképzésbe való felvétel feltételei:
 
@@ -4742,4 +4744,6 @@ A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek - felső
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 24 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított egy féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
-[^6]: A 3. melléklet „A MESTERKÉPZÉSI SZAKOK JEGYZÉKE” alcímet követő táblázat a 22/2015. (IV. 21.) MvM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. melléklet I. 1.„Közigazgatási–szervező alapképzési szak” alcím 10. pontja a 6. §-ával megállapított szöveg.
+[^5]: A 3. melléklet „A MESTERKÉPZÉSI SZAKOK JEGYZÉKE” alcímet követő táblázat a 22/2015. (IV. 21.) MvM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 3. melléklet 1.„Közigazgatási mesterképzési szak” alcím 10. pontja a 8. §-ával megállapított szöveg.

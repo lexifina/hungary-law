@@ -1,4 +1,4 @@
-## 9. §[^4]
+## 9. §[^2]
 
 10. § (1) Ez a rendelet – a (2)–(3) bekezdésben foglalt kivétellel – a kihirdetését követő tizenötödik napon lép hatályba.
 
@@ -16,4 +16,4 @@
 
 (8) A rendelet 3. mellékletében meghatározott kriminalisztika mesterképzési szak képzési és kimeneti követelményeit először a 2016/2017. tanévre felvételt nyert és beiratkozott hallgatókra kell alkalmazni.
 
-[^4]: A 9. § a 10. § (3) bekezdése alapján 2017. november 1-jén lép hatályba.
+[^2]: A 9. § a 10. § (3) bekezdése alapján 2017. november 1-jén lép hatályba.
