@@ -42,6 +42,6 @@
 
 | 20. | Védelmi és biztonsági képzési és szimulációs szolgáltatások | 80330000–6, 80600000–0, 80610000–3, 80620000–6, 80630000–9, 80640000–2, 80650000–5, 80660000–8 |
 
-9. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^179]
+9. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^181]
 
-[^179]: A 9. számú mellékletet a 191/2011. (IX. 20.) Korm. rendelet 29. § (3) bekezdése iktatta be.
+[^181]: A 9. számú mellékletet a 191/2011. (IX. 20.) Korm. rendelet 29. § (3) bekezdése iktatta be.

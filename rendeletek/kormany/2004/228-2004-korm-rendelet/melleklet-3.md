@@ -36,7 +36,7 @@
 
 ## d) A részvételi jelentkezések felbontásának helye:
 
-## e)[^169]
+## e)[^171]
 
 ## 8. * Az (első) tárgyalás időpontja, lefolytatásának menete, az ajánlatkérő által előírt alapvető szabályok:
 
@@ -66,7 +66,7 @@
 
 ## A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.
 
-3. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^170]
+3. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^172]
 
-[^169]: A 2. számú melléklet 7. e) pontját a 295/2011. (XII. 22.) Korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
-[^170]: A 3. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^171]: A 2. számú melléklet 7. e) pontját a 295/2011. (XII. 22.) Korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
+[^172]: A 3. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
