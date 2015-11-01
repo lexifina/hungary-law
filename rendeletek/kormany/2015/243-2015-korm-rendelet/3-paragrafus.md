@@ -1,0 +1,27 @@
+## 2. § Az Ávr. 62/B. §-a helyébe a következő rendelkezés lép:
+
+## „62/B. § (1) Az illetményszámfejtő programban a foglalkoztató egyedi adatrögzítés vagy a Kincstár által meghatározott tartalom és struktúra szerinti csoportos adatátadás útján rögzíti
+
+## a) a biztosítotti bejelentéshez és az egyszerűsített foglalkoztatás bejelentéséhez szükséges adatokat,
+
+## b) a foglalkoztatott alkalmazási okiratainak adatait, azok adatváltozásait és ehhez kapcsolódóan a személyi jövedelemadó és a járulékfizetési kötelezettség megállapítására, valamint foglalkoztatási jogviszony esetén a korábbi jogviszonyra vonatkozó adatokat,
+
+## c) a számfejtéshez szükséges, alakilag, tartalmilag jogszabálynak megfelelően kitöltött okmányok, bizonylatok adatait és mindezek adatváltozásait,
+
+## d) a jogviszony megszűnése esetén a jogviszony megszűnéséhez vagy megszüntetéséhez, az okirat előállításához és a kapcsolódó elszámoláshoz szükséges adatokat, valamint
+
+## e) az olyan levonásokat, amelyek jogosultja a foglalkoztató.
+
+## (2) A foglalkoztató
+
+## a) a foglalkoztatott munkából való távolmaradását a számfejtést befolyásoló munkaidő nyilvántartás vezetéséhez kötődően,
+
+## b) a mozgóbért annak felmerülésekor
+
+## az illetményszámfejtő programban rögzíti úgy, hogy az annak a hónapnak a számfejtése keretében figyelembe vehető legyen, amely hónapra tekintettel a személyi juttatás kifizetésre kerül (a továbbiakban: tárgyhavi számfejtés.)
+
+## (3) Ha a tárgyhavi számfejtést követően bekövetkező ok miatt a korábbi számfejtés módosítása szükséges, ennek tényéről a következő havi számfejtés időpontjáig a foglalkoztató tájékoztatja a foglalkoztatottat. A különbözetet legkésőbb a tárgyhót követő hónap személyi juttatásaival egyidejűleg kell számfejteni.
+
+## (4) Jogalap nélküli kifizetés esetén a jogszabály, a végrehajtható okirat vagy a foglalkoztatott hozzájárulása alapján történő levonásról – ha az más módon nem térült meg és személyi juttatás számfejtésére még sor kerül – a foglalkoztató írásban tájékoztatja a Kincstárt. A levonást a Kincstár érvényesíti.
+
+## (5) A foglalkoztató az Art. 16. § (4) bekezdése szerinti, a foglalkoztatottak bejelentésével kapcsolatos kötelezettségét és az Art. 31. § (2) bekezdése szerinti, a személyi juttatásokat terhelő, továbbá azokkal összefüggésben felmerülő, az állami adóhatóság felé teljesítendő bevallási kötelezettségét és azok önellenőrzését a Kincstár útján teljesíti.”

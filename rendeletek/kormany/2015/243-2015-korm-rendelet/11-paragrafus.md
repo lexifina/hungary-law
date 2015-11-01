@@ -1,14 +1,13 @@
-## 10. §[^7]
+## 10. §[^4]
 
 ## 11. § Az Ávr.
 
-1–9.[^8]
+1–9.[^5]
 
-10.[^9]
+10. 62/D. § (2) bekezdésében a „foglalkoztató” szövegrész helyébe a „kifizető” szöveg,
 
-11–21.[^10]
+11–21.[^6]
 
-[^7]: A 10. § a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
-[^8]: A 11. § 1–9. pontja a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
-[^9]: A 11. § 10. pontja a 13. § (2) bekezdése alapján 2015. november 1-jén lép hatályba.
-[^10]: A 11. § 11–21. pontja a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
+[^4]: A 10. § a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
+[^5]: A 11. § 1–9. pontja a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
+[^6]: A 11. § 11–21. pontja a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
