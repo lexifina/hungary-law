@@ -18,8 +18,10 @@ c) az ajánlatok részszempontok szerinti tartalmi elemeinek értékelése sorá
 
 d) azt a módszert (módszereket), amellyel megadja a ponthatárok közötti pontszámot.
 
-(5) Az ajánlatok elbírálásáról hozott döntésről írásbeli összegezést kell készíteni, a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 92/2011. (XII. 30.) NFM rendelet 9. mellékletében található adattartalommal.
+(5)[^1] Az ajánlatok elbírálásáról hozott döntésről írásbeli összegezést kell készíteni.
 
 (6) Az ajánlatok elbírálásáról hozott döntés nyilvánosan nem hirdethető ki. A döntésről az ajánlattevőket 5 munkanapon belül egyidejűleg, külön-külön, írásban kell értesíteni.
 
 (7) Az ajánlat érvénytelenségére, az eljárás eredménytelenségére vonatkozóan a Kbt. szabályait kell alkalmazni.
+
+[^1]: A 13. § (5) bekezdése a 323/2015. (X. 30.) Korm. rendelet 15. §-ával megállapított szöveg. E módosító rendelet 17. §-a alapján a 2015. november 1-je után megkezdett közbeszerzési eljárásokra kell alkalmazni.
