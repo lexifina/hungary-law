@@ -1898,7 +1898,7 @@ d) a szállítói előleg maximális összege.
 
 187.1. A szállítói előlegre eső támogatás – 100%-os támogatási intenzitás alkalmazása esetén a szállítói előleg – folyósítása minden esetben a fővállalkozó részére történik.
 
-187.2. Az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet [a továbbiakban: 306/2011. (XII. 23.) Korm. rendelet] 14. §-a, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 39/A. § (6) bekezdése szerinti kifizetések esetében a szállítói előleg-elszámolást az alvállalkozóknak járó ellenszolgáltatással és a fővállalkozónak járó ellenszolgáltatással szemben arányosan kell elszámolni.
+187.2. Az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet [a továbbiakban: 306/2011. (XII. 23.) Korm. rendelet] 14. §-a szerinti, 2015. november 1-jét megelőzően megindított építési beruházás, illetve építési koncesszió tekintetében felmerülő, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 39/A. § (6) bekezdése szerinti, valamint a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 135. § (3)–(4) bekezdése szerinti kifizetések esetében a szállítói előleg-elszámolást az alvállalkozóknak járó ellenszolgáltatással és a fővállalkozónak járó ellenszolgáltatással szemben arányosan kell elszámolni.
 
 188.1. A szállítói előleggel való elszámolás rész-, illetve végszámlával történik.
 
@@ -1912,7 +1912,7 @@ d) a szállítói előleg maximális összege.
 
 92. A szállítói finanszírozásban nyújtott szállítói előleg különös szabályai közszféra szervezet kedvezményezettek esetében
 
-190.1. A Rendelet 57/A. § (1) bekezdése szerint, ha a projekt vagy projektelem vonatkozásában szállítói finanszírozási mód kerül alkalmazásra, a Rendelet 2. § (1) bekezdés 16a. pontja szerinti közszféra szervezet kedvezményezett (ezen alcím vonatkozásában a továbbiakban: kedvezményezett) a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) hatálya alá tartozó közbeszerzési eljárás eredményeként, valamint a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet szerinti beszerzési eljárás eredményeként kötött szerződésben köteles biztosítani a szállító részére a szerződés elszámolható összege 30%-ának megfelelő mértékű szállítói előleg igénylésének lehetőségét.
+190.1. A Rendelet 57/A. § (1) bekezdése szerint, ha a projekt vagy projektelem vonatkozásában szállítói finanszírozási mód kerül alkalmazásra, a Rendelet 2. § (1) bekezdés 16a. pontja szerinti közszféra szervezet kedvezményezett (ezen alcím vonatkozásában a továbbiakban: kedvezményezett) a Kbt. hatálya alá tartozó közbeszerzési eljárás eredményeként, valamint a Kbt. 9. § (1) bekezdés a) és b) pontja szerinti beszerzés eredményeként kötött szerződésben köteles biztosítani a szállító részére a szerződés elszámolható összege 30%-ának megfelelő mértékű szállítói előleg igénylésének lehetőségét.
 
 190.2. Ha a kedvezményezett és a szállító a 190.1. pont szerintinél magasabb mértékű szállítói előlegről állapodik meg, annak 30%-on felüli része a 189.2. pont szerint számolható el.
 
@@ -1930,7 +1930,7 @@ c) a közbeszerzési eljárás eredményeként kötött, aláírt szállítói s
 
 193.1. A közvetlen szállítói előleget a szállító az előlegbekérő benyújtásával igényelheti elektronikusan, a Pályázati e-ügyintézés felületen keresztül. A szállítói előlegigénylést a monitoring és információs rendszerben előlegigénylésként kell rögzíteni. Ha a közvetlen szállítói előlegigényléssel egyidejűleg kiállításra kerül az előlegszámla, azt a Rendelet 59. § (1) bekezdése szerinti kedvezményezett általi záradékkal ellátva kell benyújtani.
 
-193.2. A szállító köteles a 190.1. pont szerinti eljárás eredményeként kötött szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő értékű, a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium javára szóló, a Kbt. 126. § (6) bekezdése szerinti biztosítékot nyújtani. A gazdasági társaság vagy nonprofit szervezet szállító cégjegyzésre jogosult vezető tisztségviselőjének vagy legalább 50%-os közvetlen tulajdonrésszel rendelkező tulajdonosának, vagy együttesen legalább 50%-os közvetlen tulajdonrésszel rendelkező természetes személy tulajdonosainak kezességvállalása, vagy garanciaszervezet által vállalt kezesség, valamint az Áht. 92. § (1) bekezdése szerinti állami kezesség is elfogadható a szállítói előleg biztosítékaként.
+193.2. A szállító köteles a 190.1. pont szerinti eljárás eredményeként kötött szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő értékű, a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium javára szóló, a Kbt. 134. § (6) bekezdése szerinti biztosítékot nyújtani. A gazdasági társaság vagy nonprofit szervezet szállító cégjegyzésre jogosult vezető tisztségviselőjének vagy legalább 50%-os közvetlen tulajdonrésszel rendelkező tulajdonosának, vagy együttesen legalább 50%-os közvetlen tulajdonrésszel rendelkező természetes személy tulajdonosainak kezességvállalása, vagy garanciaszervezet által vállalt kezesség, valamint az Áht. 92. § (1) bekezdése szerinti állami kezesség is elfogadható a szállítói előleg biztosítékaként.
 
 193.3. A 193.2. pont szerinti kezességvállalásra a VI. Fejezet kezességvállalásra vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
@@ -2292,9 +2292,9 @@ b) az időszakos beszámoló időközi kifizetési igénylés nélkül kerül be
 
 222.2. A szállítói finanszírozású projektelemeket a támogatási szerződésben meg kell határozni. A szállítói finanszírozási mód keretében elszámolható költségek típusát és összegét a támogatási szerződés tartalmazza.
 
-106. A közbeszerzési eljárások eredményeként megkötött szerződésekre alkalmazandó különös finanszírozási szabályok szállítói finanszírozás esetén
+106. Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét megelőzően megindított közbeszerzési eljárások, illetve azok alapján megkötött szerződésekre, valamint az Étv. hatálya alá tartozó építési beruházások esetén alkalmazandó különös finanszírozási szabályok szállítói finanszírozás esetén
 
-223.1. Építési beruházás, illetve építési koncesszió vonatkozásában elindított közbeszerzési eljárások, illetve azok alapján megkötött szerződések esetén a 306/2011. (XII. 23.) Korm. rendelet 14. §-át, az Étv. hatálya alá tartozó építési beruházások esetén az Étv. 39/A. § (6) bekezdését megfelelően alkalmazni kell.
+223.1. Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét megelőzően megindított közbeszerzési eljárások, illetve azok alapján megkötött szerződések esetén a 306/2011. (XII. 23.) Korm. rendelet 14. §-át, az Étv. hatálya alá tartozó építési beruházások esetén az Étv. 39/A. § (6) bekezdését megfelelően alkalmazni kell.
 
 223.2. A 306/2011. (XII. 23.) Korm. rendelet 14. §-a, valamint az Étv. 39/A. § (6) bekezdése értelmében a fővállalkozó mindaddig nem jogosult saját teljesítésének ellenértékére, amíg a teljesítésben részt vevő alvállalkozókat, illetve a velük munkaviszonyban vagy egyéb foglalkoztatási jogviszonyban álló szakembereket (a továbbiakban: alvállalkozók) az ellenszolgáltatásból megillető rész tekintetében (a kedvezményezett vagy a KSZ általi utalást követően) ki nem egyenlítette.
 
@@ -2390,7 +2390,7 @@ teljesítése.
 
 230.4. A 223.1.-229.3. pont szerinti kifizetések esetében a fordított áfa-előleg igénylése számlához kötötten történik. Egy számla kiállítása esetén a számla teljes áfa-tartalmának támogatási intenzitással arányos része igényelhető fordított áfa-előlegként, két részletben történő számlázás esetén két részletben igényelhető a fordított áfa-előleg is.
 
-107. A közbeszerzési eljárások eredményeként megkötött szerződésekre alkalmazandó különös finanszírozási szabályok utófinanszírozás esetén
+107. Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét megelőzően megindított közbeszerzési eljárások, illetve azok alapján megkötött szerződésekre, valamint az Étv. hatálya alá tartozó építési beruházások esetén alkalmazandó különös finanszírozási szabályok utófinanszírozás esetén
 
 231.1. Utófinanszírozás esetében az alvállalkozókat, a szakembereket és a fővállalkozót megillető összegről szóló számlákat együtt, egy elszámolás keretében lehet benyújtani a KSZ felé.
 
@@ -2406,7 +2406,35 @@ b) az Art. 36/A. §-a szerinti szállítói köztartozás-ellenőrzési és eset
 
 232.2. Az alvállalkozó által vállalt jó teljesítési garancia egyik finanszírozási mód esetén sem érinti a támogatási szerződés alapján kifizethető támogatás összegét.
 
-232.3. Utófinanszírozás esetén a 231.1. és 231.2. pont, a 306/2011. (XII. 23.) Korm. rendelet 14. § (1) bekezdés h) pontja és az Étv. 39/A. § (6) bekezdése alapján, ha az alvállalkozó és a fővállalkozó által elismert összeg között eltérés van, a kedvezményezett őrzi az ellenszolgáltatás fennmaradó részét, amíg a fővállalkozó hitelt érdemlően tudja bizonyítani, hogy az alvállalkozó nem jogosult a ki nem fizetett összegre.
+232.3. Utófinanszírozás esetén a 231.1. és 231.2. pont, 2015. november 1-jét megelőzően megindított közbeszerzési eljárásoknál a 306/2011. (XII. 23.) Korm. rendelet 14. § (1) bekezdés h) pontja és az Étv. 39/A. § (6) bekezdése alapján, ha az alvállalkozó és a fővállalkozó által elismert összeg között eltérés van, a kedvezményezett őrzi az ellenszolgáltatás fennmaradó részét, amíg a fővállalkozó hitelt érdemlően tudja bizonyítani, hogy az alvállalkozó nem jogosult a ki nem fizetett összegre.
+
+108/A. A 2015. november 1-jét követően megindított, építési beruházás és szolgáltatás megrendelés tárgyú közbeszerzési eljárások eredményeként megkötött szerződésekre alkalmazandó különös finanszírozási szabályok utó- és szállítói finanszírozás esetén
+
+232/A.1. Az alvállalkozókat és a fővállalkozót megillető összegről szóló számlákat együtt, egy elszámolás keretében lehet benyújtani a KSZ felé.
+
+232/A.2. A kifizetési kérelemben a kedvezményezettet nyilatkoztatni kell arról, hogy a Kbt. 135. § (3) bekezdés e) pontja szerinti visszatartási kötelezettség teljesítésre került-e. A visszatartási kötelezettség elmulasztása esetén kifizetésekre nem kerülhet sor.
+
+108/B. A 2015. november 1-jét követően megindított, építési beruházás és szolgáltatás megrendelés tárgyú közbeszerzési eljárások eredményeként megkötött szerződésekre alkalmazandó különös finanszírozási szabályok
+
+232/B.1. Építési beruházás, valamint szolgáltatás megrendelés vonatkozásában elindított közbeszerzési eljárások, illetve azok alapján megkötött szerződések esetén a Kbt. 135. § (3)–(4) bekezdését megfelelően alkalmazni kell.
+
+232/B.2. Ajánlattevői konzorcium esetén minden egyes konzorciumi tagnak külön kell kezelnie az alvállalkozóját.
+
+232/B.3. A Rendelet 60. §-a szerinti késedelmi kamat a Rendeletben előírt fizetési határidők nem teljesítése esetén jelentkezik.
+
+232/C.1. A fővállalkozónak legkésőbb a teljesítés elismerésének időpontjáig nyilatkozni kell arról, hogy az általa a teljesítésbe bevont alvállalkozó(k) az ellenszolgáltatásból mekkora összegre jogosultak, egyidejűleg fel kell őket szólítani a számláik kiállítására.
+
+232/C.2. A 232/C.1. pont szerinti nyilatkozatot követően a teljes teljesítésről az ÁFA törvénynek megfelelő fővállalkozói számlát kell kiállítani, részletezve abban az alvállalkozói teljesítés, valamint a fővállalkozói teljesítés mértékét.
+
+232/C.3. A fővállalkozó és alvállalkozók – amennyiben nem szerepelnek a köztartozásmentes adózói adatbázisban – benyújtják a kedvezményezett részére a Kbt. 135. § (3) bekezdés c) pontja szerinti igazolást. Az igazolást a kedvezményezett köteles a fővállalkozót és alvállalkozókat megillető ellenszolgáltatásból a támogatáson felüli összeg megfizetését követően haladéktalanul, de legkésőbb a pénzügyi rendezést (a kedvezményezett pénzforgalmi számlájának megterhelését) követő munkanapon a kifizetési kérelem részeként a KSZ felé benyújtani. 100%-os támogatási intenzitás esetén a kedvezményezett az igazolás beérkezését követően haladéktalanul köteles azt benyújtani a KSZ-hez a kifizetési kérelem részeként.
+
+232/C.4. Szállítói kifizetésre a 232/C.1. és 232/C.2. pont szerinti dokumentumokat, valamint a teljes teljesítésre vonatkozó teljesítésigazolási dokumentációt (beleértve az alvállalkozóknak és a fővállalkozónak járó ellenszolgáltatásból a támogatáson felüli rész kifizetéséről szóló alátámasztó dokumentumot és szükség szerint a 232/C.3. pont szerinti igazolást) kell a KSZ-hez benyújtani.
+
+232/C.5. A KSZ a dokumentumalapú ellenőrzést az alvállalkozói és fővállalkozói teljesítésre egyaránt lefolytatja.
+
+232/C.6. Az ellenőrzés lefolytatását követően a KSZ köteles az alvállalkozókat és a fővállalkozót megillető ellenszolgáltatás támogatástartalmát szállítói kifizetésben az alvállalkozók és a fővállalkozó felé teljesíteni.
+
+232/D. Az alvállalkozói és fővállalkozói teljesítés összege a monitoring és információs rendszerben egy számla két tételeként kerül rögzítésre.
 
 109. A jó tételek továbbengedésének szabálya
 
@@ -3440,7 +3468,7 @@ VIII. Fejezet
 
 A közbeszerzés
 
-156. Az európai uniós értékhatárokat el nem érő értékű, valamint az építési beruházás, építési koncesszió esetén a 300 millió forintot el nem érő értékű közbeszerzési eljárások
+156. Az uniós értékhatárokat el nem érő értékű, valamint az építési beruházás, építési koncesszió esetén a 300 millió forintot el nem érő értékű közbeszerzési eljárások
 
 329.1. A támogatást igénylő, illetve a kedvezményezett (e fejezet alkalmazásában a továbbiakban együtt: kedvezményezett) a közbeszerzési eljárás eredményéről, eredménytelenségéről, az ajánlattevő kizárásáról, a szerződés teljesítésére való alkalmatlanságának megállapításáról, ajánlatának egyéb okból történt érvénytelenné nyilvánításáról, valamint ezek részletes indokáról hozott döntéséről a döntés meghozatalát követő napon, de legkésőbb az ajánlatok elbírálásáról szóló írásbeli összegezés megküldésével egyidejűleg elektronikus úton értesíti a KSZ-t.
 
@@ -3470,7 +3498,7 @@ b) a dokumentumok megküldésének – legfeljebb 7 napos – határidejét.
 
 333.3. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor.
 
-157. Az európai uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárás, valamint az építési beruházás, építési koncesszió esetén a 300 millió forintot elérő vagy meghaladó értékű közbeszerzési eljárások, egyeztetés a KSZ-szel
+157. Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárás, valamint az építési beruházás, építési koncesszió esetén a 300 millió forintot elérő vagy meghaladó értékű közbeszerzési eljárások, egyeztetés a KSZ-szel
 
 334.1. A kedvezményezett a közbeszerzési eljárás megindítását megelőzően legalább 40 nappal a közbeszerzési dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontú minőségellenőrzés céljából a KSZ-nél nyújtja be a monitoring és információs rendszeren keresztül.
 
@@ -3558,7 +3586,7 @@ c) azt, hogy a tanúsítvány a közbeszerzési és tervpályázati hirdetménye
 
 d) a központi koordinációs szerv nyilatkozatát arról, hogy a minőségellenőrzési tanúsítvány kiállítása az ajánlatkérő Kbt.-ben meghatározott felelősségét az eljárás szabályosságáért nem érinti.
 
-342.1. A kedvezményezett a központi koordinációs szerv minőségellenőrzési tanúsítványának és a KSZ támogathatósági nyilatkozatának megfelelően véglegesíti a közbeszerzési dokumentumokat. A kedvezményezett a közbeszerzési eljárását akkor indíthatja meg, ha a központi koordinációs szerv a közbeszerzési dokumentációt ellenőrizte és erről támogató tartalmú minőségellenőrzési tanúsítványt állított ki figyelembe véve a Rendelet 37. § (3) bekezdése, valamint a támogatási szerződés rendelkezéseit.
+342.1. A kedvezményezett a központi koordinációs szerv minőségellenőrzési tanúsítványának és a KSZ támogathatósági nyilatkozatának megfelelően véglegesíti a közbeszerzési dokumentumokat. A kedvezményezett a közbeszerzési eljárását akkor indíthatja meg, ha a központi koordinációs szerv a közbeszerzési dokumentumokat ellenőrizte és erről támogató tartalmú minőségellenőrzési tanúsítványt állított ki figyelembe véve a Rendelet 37. § (3) bekezdése, valamint a támogatási szerződés rendelkezéseit.
 
 342.2. A kedvezményezett a közbeszerzési eljárás megindításával egyidejűleg köteles a monitoring és információs rendszerben rögzíteni, illetve a KSZ-nek és a központi koordinációs szervnek elektronikusan megküldeni az eljárást megindító végleges közbeszerzési dokumentumokat.
 
@@ -3582,7 +3610,7 @@ b) a delegált megfigyelő az ellenőrzést személyesen vagy dokumentum alapon 
 
 346.2. A kedvezményezett az eljárás során keletkezett iratokat folyamatosan küldi a monitoring és információs rendszeren keresztül, szükség esetén elektronikus úton a delegált megfigyelőnek, különös tekintettel a részvételi/ajánlati/ajánlattételi felhívás módosítását tartalmazó hirdetményekre. A kedvezményezett a megfigyelőt a közbeszerzési eljárás lefolytatása során valamennyi eljárási cselekményről megfelelő időben, folyamatosan, elektronikus úton tájékoztatja, illetve az eljárás során keletkezett dokumentumokat (különösen a felvett jegyzőkönyveket, az egyes eljárási cselekményekhez kapcsolódó dokumentumokat, jogorvoslat esetén az azzal összefüggésben keletkezett dokumentumokat, valamint az ajánlatkérői döntéseket, döntési javaslatokat tartalmazó dokumentumokat) a megfigyelő részére megfelelő időben megküldi.
 
-347.1. A központi koordinációs szerv a folyamatba épített ellenőrzés lezárásaként valamennyi, az ellenőrzés elvégzéséhez szükséges közbeszerzési dokumentum kézhezvételét követő 15 napon belül – több szakaszból álló eljárás esetén valamennyi eljárási szakasz vonatkozásban – közbeszerzési szabályossági tanúsítványt állít ki, melyet az eljárást lezáró döntést, illetve az összegezés megküldését megelőzően megküld a kedvezményezett, illetve a KSZ részére.
+347.1. A központi koordinációs szerv a folyamatba épített ellenőrzés lezárásaként valamennyi, az ellenőrzés elvégzéséhez szükséges dokumentum kézhezvételét követő 15 napon belül – több szakaszból álló eljárás esetén valamennyi eljárási szakasz vonatkozásban – közbeszerzési szabályossági tanúsítványt állít ki, melyet az eljárást lezáró döntést, illetve az összegezés megküldését megelőzően megküld a kedvezményezett, illetve a KSZ részére.
 
 347.2. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzés lefolytatásához szükséges dokumentumok monitoring és információs rendszerbe történő feltöltésétől számított 5 napon belül kerül sor azzal, hogy a központi koordinációs szerv az ellenőrzés lefolytatása során – szükség esetén – további dokumentumok bekérését is kezdeményezheti. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a központi koordinációs szerv a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket.
 
@@ -3596,7 +3624,7 @@ b) a delegált megfigyelő az ellenőrzést személyesen vagy dokumentum alapon 
 
 349. A támogatást igénylő, illetve a kedvezményezett részére támogatás csak a központi koordinációs szerv támogató tartalmú minőségellenőrzési tanúsítványának, támogató tartalmú szabályossági tanúsítványának, valamint a KSZ 337.1.-337.4. pont szerinti támogató nyilatkozatának a megléte esetén folyósítható.
 
-161. Az európai uniós értékhatárokat el nem érő értékű, valamint az építési beruházás, építési koncesszió esetén a 300 millió forintot el nem érő értékű közbeszerzési eljárás alapján megkötött szerződések módosítására vonatkozó szabályok
+161. Az uniós értékhatárokat el nem érő értékű, valamint az építési beruházás, építési koncesszió esetén a 300 millió forintot el nem érő értékű közbeszerzési eljárás alapján megkötött szerződések módosítására vonatkozó szabályok
 
 350.1. A kedvezményezett a Kbt. alapján módosított szerződést a módosítást követő 3 napon belül utóellenőrzés céljából megküldi a KSZ részére.
 
@@ -3624,11 +3652,11 @@ d) az indokolást alátámasztó valamennyi dokumentum.
 
 351.6. A kedvezményezett részére a szerződés-módosítással érintett támogatási összeg csak a szerződés-módosításra vonatkozó támogató tartalmú utóellenőrzési vagy utólagos ellenőrzésről készült jelentés megléte esetén folyósítható.
 
-162. Az európai uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárás, továbbá építési beruházás, építési koncesszió esetén a 300 millió forintot elérő vagy meghaladó értékű közbeszerzési eljárás alapján megkötött szerződések módosítására vonatkozó szabályok
+162. Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárás, továbbá építési beruházás, építési koncesszió esetén a 300 millió forintot elérő vagy meghaladó értékű közbeszerzési eljárás alapján megkötött szerződések módosítására vonatkozó szabályok
 
 352.1. A támogatást igénylő, illetve a kedvezményezett a megkötött szerződés módosításával kapcsolatban – a módosítást 45 nappal megelőzően – a KSZ és azt követően a központi koordinációs szerv írásbeli véleményét kéri a monitoring és információs rendszeren keresztül. A támogatást igénylő, illetve a kedvezményezett a szerződést, a módosítás tervezetét, a módosítás indokolását, az indokolást alátámasztó valamennyi dokumentumot megküldi a KSZ részére a monitoring és információs rendszeren keresztül. A dokumentumok kézhezvételét követő 10 napon belül a KSZ megküldi a módosítás-tervezet támogathatósági, elszámolhatósági, valamint műszaki szempontú indokoltságára vonatkozó nyilatkozatát a támogatást igénylő, illetve a kedvezményezett, valamint a központi koordinációs szerv részére.
 
-352.2. A támogatást igénylő, illetve a kedvezményezett a 352.1. pont szerinti nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a monitoring és információs rendszeren keresztül a közbeszerzési dokumentumok központi koordinációs szerv általi, közbeszerzési-jogi szempontú véleményezését. A központi koordinációs szerv a szerződés módosításával összefüggésben további dokumentumok benyújtását is kérheti.
+352.2. A támogatást igénylő, illetve a kedvezményezett a 352.1. pont szerinti nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a monitoring és információs rendszeren keresztül a szerződésmódosítással összefüggő dokumentumok központi koordinációs szerv általi, közbeszerzési-jogi szempontú véleményezését. A központi koordinációs szerv a szerződés módosításával összefüggésben további dokumentumok benyújtását is kérheti.
 
 352.3. Ha a központi koordinációs szervnek további dokumentumokra is szüksége van, azt a kedvezményezettől hiánypótlás keretében kéri be. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a központi koordinációs szerv a rendelkezésre álló dokumentumok alapján bírálja el a szerződésmódosítást.
 
@@ -3650,7 +3678,7 @@ d) az indokolást alátámasztó valamennyi dokumentum.
 
 163. A központosított közbeszerzés
 
-358. A központosított közbeszerzési eljárások ellenőrzése tekintetében keretmegállapodásos eljárás esetében az eljárás második részének értéke az irányadó. Ha ezen rész értéke az európai uniós értékhatárokat – építési beruházás, építési koncesszió esetén a 300 millió forintot – eléri vagy meghaladja és a központi beszerző szervezet által lefolytatott keretmegállapodásos eljárás ezt lehetővé teszi, a verseny újranyitása kötelező a kedvezményezettek számára.
+358. A központosított közbeszerzési eljárások ellenőrzése tekintetében keretmegállapodásos eljárás esetében az eljárás második részének értéke az irányadó. Ha ezen rész értéke az uniós értékhatárokat – építési beruházás, építési koncesszió esetén a 300 millió forintot – eléri vagy meghaladja és a központi beszerző szerv által lefolytatott keretmegállapodásos eljárás ezt lehetővé teszi, a verseny újranyitása kötelező a kedvezményezettek számára.
 
 359. A központosított közbeszerzés keretében lefolytatott keretmegállapodásos eljárások ellenőrzésére e fejezet szabályait kell alkalmazni a 358. pontban meghatározott értékre figyelemmel.
 
@@ -4848,45 +4876,5 @@ Szabálytalanságkezelés
 
 209. Értelmező rendelkezések
 
-470. E fejezet alkalmazásában szabálytalansági gyanú: szabálytalanság elkövetésére megalapozottan utaló tények, körülmények, vagy dokumentumok, amelyből alappal lehet következtetni a szabálytalanság tényállási elemeinek fennállására.
-
-210. A szabálytalansági gyanú észlelése
-
-471.1. Aki szabálytalansági gyanút észlel, vagy szabálytalansági gyanú jut a tudomásra (így különösen munkafolyamatba épített ellenőrzés keretében, helyszíni ellenőrzés lefolytatása során, a belső ellenőrzés munkája során, az ellenőrzésre jogosult egyéb szervek megállapításai, jelentései alapján, közbeszerzési döntőbizottsági, közigazgatási, bírósági eljárás alapján, bejelentések, illetve feljelentések alapján, sajtóhírekből, korábbi szabálytalansági eljárás jogorvoslata során), a tudomásra jutástól számított 3 napon belül a szabálytalansági gyanú bejelentő adatlapon rögzíti a szabálytalanság gyanúját és azt haladéktalanul megküldi az illetékes szervezet (IH vagy KSZ) szabálytalanságfelelősének.
-
-471.2. A szabálytalansági gyanú észlelője a Rendelet 39. § (3) bekezdésére, 40/A. §-ára, valamint 62. §-ára tekintettel a gyanúbejelentéssel kapcsolatos halaszthatatlan eljárási cselekmények elvégzéséről gondoskodik.
-
-211. A szabálytalanságfelelős előzetes eljárása
-
-472. A szabálytalanságfelelős a gyanúbejelentés kézhezvételétől számított 3 napon belül
-
-a) megvizsgálja, hogy jogosult-e a szervezete a szabálytalansági gyanú ügyében eljárni,
-
-b) megvizsgálja, hogy ugyanaz a szabálytalansági gyanú korábban volt-e már szabálytalansági eljárás tárgya,
-
-c) tájékozódik a gyanúra utaló tényről, körülményről vagy dokumentumokról, melynek során helyszíni ellenőrzést tarthat, iratokba betekinthet, személyeket hallgathat meg, (külső) szakértő véleményét kérheti ki,
-
-d) megvizsgálja, hogy a Rendelet 84. § (5) bekezdésében foglaltak valamelyike fennáll-e,
-
-e) megteszi a haladéktalanul szükséges intézkedéseket,
-
-f) megküldi a szabálytalansági gyanú bejelentés kezelésével kapcsolatos döntési javaslatát a KSZ/IH vezetőjének, mellékelve a kapcsolódó dokumentumokat,
-
-g) rögzíti a szabálytalansági gyanút a monitoring és információs rendszerben.
-
-473. Ha a gyanúbejelentő adatlap hiányos, hibás, a szabálytalansági gyanút nem az arra használatos formanyomtatványon rögzítették, a szabálytalanságfelelős a hiányok megjelölésével felhívja a gyanúbejelentőt a hiányok pótlására. A szabálytalanságfelelős az előzetes vizsgálata során tett megállapítások nyomán jogosult a szabálytalansági gyanúbejelentő adatlap kiegészítésére, javítására.
-
-474.1. A szabálytalanságfelelős a szabálytalansági gyanú előzetes vizsgálata alapján annak kézhezvételétől számított 3 napon belül a következő döntési javaslatokat terjesztheti a döntéshozó elé:
-
-a) javaslat az eljárás megindítására,
-
-aa) ha az ismert tényekből és körülményekből, valamint a rendelkezésre álló dokumentumokból valószínűsíthető, hogy a szabálytalansági gyanú fennáll,
-
-ab) ha a Rendelet 94. § (2) bekezdése szerint benyújtott jogorvoslati kérelem KSZ/IH általi önrevíziója során a szabálytalansági döntés visszavonásra került, de a szabálytalansági gyanú továbbra is fennáll,
-
-ac) ha a Rendelet 99. § (2) bekezdése szerint a központi koordinációs szerv a szabálytalansági döntésben foglaltakhoz képest új szabálytalansági gyanút állapít meg, és ennek kivizsgálása érdekében új szabálytalansági eljárás lefolytatására utasítja a szabálytalansági eljárás során eljáró szervezetet,
-
-ad) a Rendelet 99. § (1) bekezdés c) pontja szerinti esetben,
-
 [^5]: A 6. §-t a 69/2015. (III. 30.) Korm. rendelet 12. §-a iktatta be.
-[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 17. §-a alapján a 2015. november 1-től megkezdett közbeszerzési eljárásokra kell alkalmazni.
