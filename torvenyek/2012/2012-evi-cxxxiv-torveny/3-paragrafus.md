@@ -6,7 +6,7 @@
 
 3. dohánytermékek kiskereskedelme (a továbbiakban: dohánytermék-kiskereskedelem): üzletszerű gazdasági tevékenység keretében dohánytermék forgalmazása, értékesítése és az ezzel közvetlenül összefüggő szolgáltatások nyújtása a fogyasztók részére az e törvényben meghatározott feltételek szerint;
 
-4. dohánytermék-kiskereskedő: az a jogosult, aki koncessziós szerződés alapján a dohánytermékek kiskereskedelmét e törvény rendelkezéseinek megfelelően végezheti;
+4. dohánytermék-kiskereskedő: az a jogosult, aki koncessziós szerződés alapján a dohánytermékek kiskereskedelmét – ide nem értve a dohánykiskereskedelem-ellátást – e törvény rendelkezéseinek megfelelően végezheti;
 
 5. elkülönített hely: az üzletben fenntartott olyan, térben leválasztott helyiségrész, amely a dohányterméknek az üzletben kötött egyéb jogügyletektől elkülönített módon történő értékesítését teszi lehetővé úgy, hogy a dohánytermék az üzletben megforduló fiatalkorú számára sem a dohánytermék fogyasztó számára történő értékesítésekor, sem azt megelőzően, illetve azt követően ne legyen látható;
 
@@ -48,7 +48,7 @@ n) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások 
 
 9. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 
-10. dohánytermék-nagykereskedő(k): a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározott dohánytermék adóraktár engedélyese (gyártója), a dohánytermék importálója, a bejegyzett kereskedő és a dohánytermék jövedéki engedélyes kereskedője;
+10. dohánytermék-nagykereskedő(k): a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározott dohánytermék adóraktár engedélyese (gyártója), a dohánytermék importálója, a bejegyzett kereskedő és a dohánytermék jövedéki engedélyes kereskedője azzal, hogy a dohány-kiskereskedelmi ellátó e törvény alkalmazásában a dohánykiskereskedelem-ellátási feladatainak ellátása során akkor sem minősül dohánytermék-nagykereskedőnek, ha egyébként azok bármelyikének tevékenységéhez szükséges vámhatósági engedéllyel is rendelkezik;
 
 11. dohány-kiskereskedelmi ellátó: az a személy, amelyet az állam – ha a dohánykiskereskedelem-ellátási tevékenységet maga látja el – a dohánykiskereskedelem-ellátási feladatok elvégzésének céljára gazdasági társaság formájában létrehozott, vagy amellyel – ha e tevékenységet nem maga látja el – e feladatok elvégzésére koncessziós szerződést kötött;
 

@@ -1,0 +1,13 @@
+15/E. § (1) A dohánytermék-nagykereskedő a dohánytermék értékesítéséhez kapcsolódóan e törvényben meghatározott mértékű kiskereskedelmi árrést köteles biztosítani.
+
+(2) A dohánytermék-nagykereskedő köteles – a cigaretta kivételével – minden olyan dohánytermékre, amelyet a dohány-kiskereskedelmi ellátó a dohánytermék-nagykereskedőtől szerez be a dohánytermék szabadforgalomba bocsátása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának tizenöt százalékát elérő kiskereskedelmi árrést biztosítani. Ennek megfelelően a dohánytermék-nagykereskedő a dohány-kiskereskedelmi ellátótól a – cigaretta kivételével – a dohánytermék után legfeljebb olyan árat követelhet, amely nem nagyobb a dohánytermék szabadforgalomba bocsátása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának 0,85-szörös szorzatával kiszámolt összegnél.
+
+(3) A (2) bekezdés rendelkezéseit cigaretta esetében is megfelelően alkalmazni kell azzal, hogy a dohány-kiskereskedelmi ellátó részére biztosítandó kiskereskedelmi árrés mértéke a cigaretta szabadforgalomba bocsátása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának tizenhárom százaléka.
+
+(4) A dohány-kiskereskedelmi ellátó köteles – a cigaretta kivételével – minden olyan dohánytermékre, amelyet a dohánytermék-kiskereskedő a dohány-kiskereskedelmi ellátótól szerez be a dohánytermék szabadforgalomba bocsátása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának legalább tíz, legfeljebb tizenhárom százalékát elérő kiskereskedelmi árrést biztosítani. A kiskereskedelmi árrés mértékét a dohánytermék-ellátó az általános szerződési feltételeiben sávosan határozza meg; a sávok alapján nyújtott kereskedelmi árrés kizárólag a dohánytermék-kiskereskedő által az adott időszakban a dohány-kiskereskedelmi ellátótól vásárolt dohánytermékek összértékétől tehető – fordítottan arányosan – függővé.
+
+(5) A (4) bekezdés rendelkezéseit cigaretta esetében is megfelelően alkalmazni kell azzal, hogy a dohánytermék-kiskereskedő részére biztosítandó kiskereskedelmi árrés mértéke a cigaretta szabadforgalomba bocsátása napján érvényes – adókkal nem csökkentett – kiskereskedelmi eladási árának legalább tíz, legfeljebb tizenegy és fél százaléka.
+
+(6) Semmis az a megállapodás, amely arra irányul, vagy azt eredményezi, hogy az e törvény alapján biztosítandó kiskereskedelmi árrés mértéke ne érje el a (2)–(5) bekezdésben írt mértéket, vagy azt ne pénzben, hanem egyéb közvetlen vagy közvetett juttatásban, kedvezményben biztosítsák.
+
+(7) A legkisebb kiskereskedelmi árrésre vonatkozó rendelkezéseket akkor is megfelelően alkalmazni kell, ha a dohánytermék értékesítésére a 11. §-ban meghatározottak szerint kerül sor.

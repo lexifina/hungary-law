@@ -1,5 +1,15 @@
-15/B. § A dohánytermék-kiskereskedő köteles a készletéről, illetve annak forgalmáról külön jogszabály szerint nyilvántartást vezetni, illetve elektronikus úton adatot szolgáltatni.
+15/B. § (1) A dohány-kiskereskedelmi ellátó köteles olyan informatikai rendszert, vagy ügyfélszolgálatot működtetni, melynek útján a dohánytermék-kiskereskedők az általuk megvásárolni kívánt dohánytermékekre vonatkozó megrendeléseiket bármikor eljuttathatják. A dohány-kiskereskedelmi ellátó köteles a megrendeléseket azok beérkezésétől legkésőbb három napon belül visszaigazolni, a szállítási időpont megjelölésével. A visszaigazolással az adásvételi szerződés létrejön azzal, hogy amennyiben a visszaigazolás a megrendelt mennyiségnél kisebb mennyiségről szól, úgy a szerződés e mennyiségre jön létre. A felek eltérő megállapodásának hiányában a dohánytermék-kiskereskedő és a dohány-kiskereskedelmi ellátó közötti szerződéses feltételekre a dohány-kiskereskedelmi ellátó által közzétett általános szerződési feltételek az irányadók azzal, hogy az ettől eltérő megállapodás – kivéve, ha azt e törvény kifejezetten lehetővé teszi – nem tartalmazhat hátrányos megkülönböztetést a dohánytermék-kiskereskedőre nézve.
 
-4. CÍM
+(2) A dohány-kiskereskedelmi ellátó a visszaigazolt dohánytermékeket összekészíti, és legkésőbb a visszaigazolásban megjelölt időpontig a dohányboltokba kiszállítja. A dohánytermék-kiskereskedő a dohánytermékek átvételét követő legkésőbb 15 napon belül köteles a leszállított dohánytermékek ellenértékét megfizetni. A dohány-kiskereskedelmi ellátó jogosult arra, hogy azon dohánytermék-kiskereskedőt, akivel szemben legalább két már kiállított számla alapján még ki nem fizetett követelése áll fenn, dohánytermékkel ne szolgálja ki.
 
-A fiatalkorúak különös védelme
+(3) A dohány-kiskereskedelmi ellátó jogosult a raktárain belül, illetve ahhoz kapcsolódóan olyan elkülönített helyiséget kijelölni, ahol a dohánytermék-kiskereskedő azonnal vásárolhat dohányterméket az ellenérték azonnali kiegyenlítése mellett, és a dohányterméket saját költségén elszállíthatja (a továbbiakban: C+C raktár).
+
+(4) A (3) bekezdésben foglalt esetben a 15/A. § (4) bekezdése rendelkezéseit megfelelően alkalmazni kell azzal, hogy – erre vonatkozó elektronikus nyilatkozat hiányában – az adásvételi szerződés a dohánytermék-nagykereskedő és a dohány-kiskereskedelmi ellátó között akkor jön létre, amikor a dohány-kiskereskedelmi ellátó a dohányterméket a C+C raktárba betárolja. Arról a tényről, hogy az adásvételi szerződés a dohányterméknek a C+C raktárba történt betárolásával jött létre a dohány-kiskereskedelmi ellátó a dohánytermék-nagykereskedőt haladéktalanul értesíteni köteles.
+
+(5) A dohány-kiskereskedelmi ellátó a tevékenysége során egyetlen dohányterméket sem részesíthet semmilyen megkülönböztetésben; a dohánytermék-kiskereskedő megrendelését nem bírálhatja felül, vagy helyettesítheti más dohánytermékkel. Ha készlethiány miatt a dohányterméket nem lehet az e törvény által előírt határidőn belül kiszállítani, úgy a dohány-kiskereskedelmi ellátó köteles a dohánytermék beszerzése céljából a dohánytermék-nagykereskedőt megkeresni, egyúttal a készlethiányról a dohánytermék-kiskereskedőt értesíteni. Ebben az esetben a készlethiánnyal érintett dohánytermék beérkezését követően a dohánytermék-ellátó ésszerű időn belül gondoskodik a dohánytermék kiszállításáról.
+
+(6) A dohány-kiskereskedelmi ellátó a tevékenységét – a jogszabályok és a koncessziós szerződés keretei között – maga látja el, melyhez közreműködőt csak akkor vehet igénybe, ha ezt jogszabály, vagy a koncessziós szerződés lehetővé teszi.
+
+5. CÍM
+
+A dohánytermékek értékesítésével összefüggő különös szabályok

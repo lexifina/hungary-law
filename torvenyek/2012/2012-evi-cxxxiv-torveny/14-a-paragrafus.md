@@ -6,4 +6,4 @@
 
 3. CÍM
 
-A dohánytermékek értékesítési módja
+A dohánytermékek beszerzése
