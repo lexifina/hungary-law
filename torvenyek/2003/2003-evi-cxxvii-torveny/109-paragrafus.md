@@ -14,6 +14,6 @@ a) a tüzelőolaj és a propán vagy az 52. § (1) bekezdés f) pontja szerinti 
 
 b) az alkoholtermék, a bor, a sör, a pezsgő és a köztes alkoholtermék kizárólag kiszerelve, olyan forgalmi rendszámmal ellátott tehergépjárműből (autóbusz) értékesíthető, amely szilárd alapanyagú térelemekkel körülhatárolt, zárt légtérrel rendelkezik,
 
-c) dohányterméket csak a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (a továbbiakban: Dohánytörvény) 11. § (3) bekezdése alapján, és csak a Dohánytörvény 4. § (2) bekezdésében meghatározott részvénytársaság, vagy e részvénytársaság által külön feljogosított nem jövedéki engedélyes kereskedő útján lehet értékesíteni.
+c) dohányterméket csak a Dohánytörvény 11. § (3) bekezdése alapján, és csak a Dohánytörvény 4. § (2) bekezdésében meghatározott részvénytársaság, vagy e részvénytársaság által külön feljogosított nem jövedéki engedélyes kereskedő útján lehet értékesíteni.
 
 (7) Az (5) bekezdés szerinti bejelentésben meg kell adni a mozgóboltként üzemelő közúti gépjármű típusát, forgalmi rendszámát, az ellátott települések, értékesítési megállóhelyek megnevezését és helyét, azok megközelítésének útvonalát, a településenként, megállóhelyenként előre meghatározott nyitvatartási időt, valamint a jövedéki termék raktározására használt épület, épületrész címét (helyrajzi számát).
