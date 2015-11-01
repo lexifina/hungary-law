@@ -1,1 +1,0 @@
-A Kormány a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 4. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
