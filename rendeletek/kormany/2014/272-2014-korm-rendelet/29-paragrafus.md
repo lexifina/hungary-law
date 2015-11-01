@@ -4,7 +4,7 @@
 
 29. § (1) A program végrehajtását operatív program monitoring bizottság, Vidékfejlesztési Program esetén Vidékfejlesztési Program monitoring bizottság (a továbbiakban együtt: monitoring bizottság) követi nyomon.
 
-(2)[^109] A monitoring bizottság az e rendeletben és az ügyrendjében meghatározott feladatokon kívül ellátja
+(2)[^110] A monitoring bizottság az e rendeletben és az ügyrendjében meghatározott feladatokon kívül ellátja
 
 a) az 1303/2013/EU európai parlamenti és tanácsi rendelet 49. cikkében és 110. cikkében,
 
@@ -36,7 +36,7 @@ h) a gazdasági és a releváns szakmai érdekképviseletek,
 
 i) a szociális partnerek,
 
-j)[^110] a civil és nem-kormányzati szervezetek (különösen a környezetvédelem, klíma, energia, fenntartható fejlődés, a nemek közti egyenlőség, az esélyegyenlőség, az egyenlő bánásmód, valamint a diszkrimináció-mentesség területéről).
+j)[^111] a civil és nem-kormányzati szervezetek (különösen a környezetvédelem, klíma, energia, fenntartható fejlődés, a nemek közti egyenlőség, az esélyegyenlőség, az egyenlő bánásmód, valamint a diszkrimináció-mentesség területéről).
 
 (5) Az operatív program monitoring bizottságba tanácskozási joggal rendelkező tagot delegálhat:
 
@@ -60,5 +60,5 @@ e) a nem az európai uniós fejlesztési források felhasználásához kapcsoló
 
 (10) A monitoring bizottság működésének részletes szabályait az európai uniós források felhasználásáért felelős miniszter által az uniós és a hazai intézményi, jogi és pénzügyi keretekkel összhangban meghatározott elvek alapján megalkotott és saját maga által elfogadott ügyrendjében állapítja meg.
 
-[^109]: A 29. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^110]: A 29. § (4) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 48. pontja szerint módosított szöveg.
+[^110]: A 29. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^111]: A 29. § (4) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 48. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-87. § (1)[^250] A 86. § (1) bekezdés szerinti bejelentéseket – a kedvezményezett korábbi bejelentéseire is tekintettel – a következő alapelvek figyelembevételével kell elbírálni:
+87. § (1)[^252] A 86. § (1) bekezdés szerinti bejelentéseket – a kedvezményezett korábbi bejelentéseire is tekintettel – a következő alapelvek figyelembevételével kell elbírálni:
 
 a) a módosítás nem változtathatja meg a projekt alapvető célját,
 
@@ -14,7 +14,7 @@ f) a módosítási igény nem kerülhet jóváhagyásra, ha az a projekt előké
 
 g) vis maior esetek bekövetkezésekor az irányító hatóság egyedileg mérlegeli a negatív irányú változások hatását a projektre és dönt a módosítási igény jóváhagyásáról,
 
-h)[^251] a kedvezményezettnek felróható okból felmerülő, a szerződésben foglalt követelményeket kedvezőtlenül érintő módosítási igény nem hagyható jóvá a megítélt támogatás arányos csökkentése nélkül,
+h)[^253] a kedvezményezettnek felróható okból felmerülő, a szerződésben foglalt követelményeket kedvezőtlenül érintő módosítási igény nem hagyható jóvá a megítélt támogatás arányos csökkentése nélkül,
 
 i) a kedvezményezett által biztosított önerő aránya a projekt támogatásának növelése esetén sem csökkenhet azzal, hogy az eltérő támogatási intenzitású tevékenységeket tartalmazó projekt esetén az önerő aránya tevékenységenként vizsgálandó,
 
@@ -22,9 +22,9 @@ j) ha a projekt egy vagy több, a felhívásban meghatározott, önállóan tám
 
 k) ha a támogatott tevékenység összköltsége csökken a tervezetthez képest, a támogatás összegét az összköltség csökkenésének arányában csökkenteni kell, több forrás esetén az eredeti arányoknak megfelelően,
 
-l)[^252] nem módosítható a projekt fizikai befejezésének határideje a felhívásban, pénzügyi eszközök esetében a pénzügyi közvetítővel megkötött finanszírozási megállapodásban rögzített végső határidőn túl.
+l)[^254] nem módosítható a projekt fizikai befejezésének határideje a felhívásban, pénzügyi eszközök esetében a pénzügyi közvetítővel megkötött finanszírozási megállapodásban rögzített végső határidőn túl.
 
-(1a)[^253] Az (1) bekezdés c), e), j) és k) pontját a pénzügyi eszközökre nem kell alkalmazni.
+(1a)[^255] Az (1) bekezdés c), e), j) és k) pontját a pénzügyi eszközökre nem kell alkalmazni.
 
 (2) Az 1303/2013/EU európai parlamenti és tanácsi rendelet 61. cikke szerinti, a befejezést követően nettó bevételt termelő projektek esetén az (1) bekezdésben foglaltakon túlmenően a módosításnak meg kell felelni a következő feltételeknek is:
 
@@ -36,7 +36,7 @@ b) ha a megvalósíthatósági tanulmányban kiválasztott változattól eltér�
 
 (4) Ha a projekt elfogadott műszaki, szakmai tartalmának változása jogerős hatósági engedélyben foglaltakból fakad, annak megfelelőségét az irányító hatóság nem vizsgálhatja. A módosítás elbírálásánál ebben az esetben is figyelembe kell venni az (1) bekezdésben foglalt alapelveket.
 
-[^250]: A 87. § (1) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 99. pontja szerint módosított szöveg.
-[^251]: A 87. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 100. pontja szerint módosított szöveg.
-[^252]: A 87. § (1) bekezdés l) pontja a 144/2015. (VI. 12.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
-[^253]: A 87. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 52. § (2) bekezdése iktatta be.
+[^252]: A 87. § (1) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 99. pontja szerint módosított szöveg.
+[^253]: A 87. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 100. pontja szerint módosított szöveg.
+[^254]: A 87. § (1) bekezdés l) pontja a 144/2015. (VI. 12.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^255]: A 87. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 52. § (2) bekezdése iktatta be.

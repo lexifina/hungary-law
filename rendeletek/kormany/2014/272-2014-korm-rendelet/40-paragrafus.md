@@ -1,4 +1,4 @@
-## VII. Fejezet[^136]
+## VII. Fejezet[^137]
 
 ## VÉGREHAJTÁS-TERVEZÉS
 
@@ -22,4 +22,4 @@ b) a második többéves nemzeti keretet 2020. január 1-jétől 2023. december 
 
 vonatkozóan kell megalkotni.
 
-[^136]: A VII. Fejezet (40–44/B. §) a 144/2015. (VI. 12.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^137]: A VII. Fejezet (40–44/B. §) a 144/2015. (VI. 12.) Korm. rendelet 23. §-ával megállapított szöveg.

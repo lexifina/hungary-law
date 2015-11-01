@@ -8,39 +8,39 @@
 
 (2) A kedvezményezett – szállítói előleg esetén a felhívásban, illetve támogatási szerződésben meghatározott feltételek fennállása esetén a szállító vagy a kedvezményezett – az előleg folyósítását elektronikusan, az elektronikus alkalmazások használatának szabályai szerint igényli. Előleg kifizetése kérelemre történik.
 
-(3)[^321] A biztosítékok iratanyagát az elektronikus benyújtással egyidejűleg papíron is be kell nyújtani a 123. § (4) bekezdésben foglaltak szerint.
+(3)[^331] A biztosítékok iratanyagát az elektronikus benyújtással egyidejűleg papíron is be kell nyújtani a 123. § (4) bekezdésben foglaltak szerint.
 
-(4)[^322] Előleget folyósítani akkor lehet, ha
+(4)[^332] Előleget folyósítani akkor lehet, ha
 
 a) a felhívás, illetve a támogatási szerződés lehetőséget biztosít a kedvezményezettnek az előleg igénybevételére,
 
 b) a kedvezményezett rendelkezik hatályos támogatási szerződéssel,
 
-c)[^323] a biztosítékadásra kötelezett legkésőbb az előlegigénylési kérelem benyújtásáig igazolja a XV. Fejezetben meghatározott összegű biztosíték rendelkezésre állását,
+c)[^333] a biztosítékadásra kötelezett legkésőbb az előlegigénylési kérelem benyújtásáig igazolja a XV. Fejezetben meghatározott összegű biztosíték rendelkezésre állását,
 
 d) az előlegigénylési dokumentáció tartalmi és formai szempontból megfelelő,
 
-e)[^324] első kifizetési igénylés esetén, ha a felhívás lehetővé tette, a kedvezményezett benyújtja a 77. § (1) bekezdésében előírt dokumentumokat,
+e)[^334] első kifizetési igénylés esetén, ha a felhívás lehetővé tette, a kedvezményezett benyújtja a 77. § (1) bekezdésében előírt dokumentumokat,
 
-f)[^325] a kedvezményezett még nem nyújtott be záró kifizetési igénylést.
+f)[^335] a kedvezményezett még nem nyújtott be záró kifizetési igénylést.
 
-(5)[^326] Az előleget igényelni a záró kifizetési igénylés benyújtásáig bármikor lehet.
+(5)[^336] Az előleget igényelni a záró kifizetési igénylés benyújtásáig bármikor lehet.
 
-(6)[^327] Tartalék terhére előleg a tartalékátcsoportosítást követően igényelhető.
+(6)[^337] Tartalék terhére előleg a tartalékátcsoportosítást követően igényelhető.
 
-(7)[^328] Az előleg felhasználására és az előleggel való elszámolásra vonatkozó összegszerű és időbeli ütemezést a felhívásban és a támogatási szerződésben rögzíteni kell.
+(7)[^338] Az előleg felhasználására és az előleggel való elszámolásra vonatkozó összegszerű és időbeli ütemezést a felhívásban és a támogatási szerződésben rögzíteni kell.
 
-(8)[^329] Ha a kifizetett előleg visszafizetését rendelték el, a XXIII. fejezet szabályait kell megfelelően alkalmazni.
+(8)[^339] Ha a kifizetett előleg visszafizetését rendelték el, a XXIII. fejezet szabályait kell megfelelően alkalmazni.
 
-(9)[^330] Ha a kedvezményezett az előleggel nem vagy csak részben számol el, úgy a kifizetett, de el nem számolt támogatási előleget a XXIII. Fejezet szabályai szerint köteles visszafizetni.
+(9)[^340] Ha a kedvezményezett az előleggel nem vagy csak részben számol el, úgy a kifizetett, de el nem számolt támogatási előleget a XXIII. Fejezet szabályai szerint köteles visszafizetni.
 
-[^321]: A 115. § (3) bekezdését a 366/2014. (XII. 30.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte, újonnan a 144/2015. (VI. 12.) Korm. rendelet 65. § (1) bekezdése iktatta be.
-[^322]: A 115. § (4) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 141. pontja szerint módosított szöveg.
-[^323]: A 115. § (4) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 65. § (2) bekezdésével megállapított szöveg.
-[^324]: A 115. § (4) bekezdés e) pontja a 144/2015. (VI. 12.) Korm. rendelet 65. § (3) bekezdésével megállapított szöveg.
-[^325]: A 115. § (4) bekezdés f) pontját a 144/2015. (VI. 12.) Korm. rendelet 65. § (3) bekezdése iktatta be.
-[^326]: A 115. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 142. pontja szerint módosított szöveg.
-[^327]: A 115. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 143. pontja szerint módosított szöveg.
-[^328]: A 115. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 101. § 22. pontja szerint módosított szöveg.
-[^329]: A 115. § (8) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 101. § 23. pontja szerint módosított szöveg.
-[^330]: A 115. § (9) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 65. § (4) bekezdése iktatta be.
+[^331]: A 115. § (3) bekezdését a 366/2014. (XII. 30.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte, újonnan a 144/2015. (VI. 12.) Korm. rendelet 65. § (1) bekezdése iktatta be.
+[^332]: A 115. § (4) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 141. pontja szerint módosított szöveg.
+[^333]: A 115. § (4) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 65. § (2) bekezdésével megállapított szöveg.
+[^334]: A 115. § (4) bekezdés e) pontja a 144/2015. (VI. 12.) Korm. rendelet 65. § (3) bekezdésével megállapított szöveg.
+[^335]: A 115. § (4) bekezdés f) pontját a 144/2015. (VI. 12.) Korm. rendelet 65. § (3) bekezdése iktatta be.
+[^336]: A 115. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 142. pontja szerint módosított szöveg.
+[^337]: A 115. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 143. pontja szerint módosított szöveg.
+[^338]: A 115. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 101. § 22. pontja szerint módosított szöveg.
+[^339]: A 115. § (8) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 101. § 23. pontja szerint módosított szöveg.
+[^340]: A 115. § (9) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 65. § (4) bekezdése iktatta be.

@@ -2,9 +2,9 @@
 
 90. § (1) Az irányító hatóság jogosult – a Ptk.-ban és a támogatási szerződésben meghatározott egyéb esetek mellett – a támogatási szerződéstől elállni, vagy a szerződés felbontását kezdeményezni, ha a következő feltételek közül legalább egy bekövetkezik:
 
-a)[^258] a támogatási szerződés megkötésétől – területi kiválasztási eljárásrendben támogatott projekt, illetve olyan kiemelt projekt esetén, amelyre az 56. § (5) bekezdése szerint kötöttek szerződést, a szerződésben meghatározott határidőtől – számított tizenkét hónapon belül a támogatott tevékenység nem kezdődik meg és a megvalósítás érdekében harmadik féltől megvásárolandó szolgáltatásokat, árukat, építési munkákat legalább azok tervezett összértékének 50%-át elérő mértékben – esetleges közbeszerzési kötelezettségének teljesítése mellett – nem rendeli meg, vagy az erre irányuló szerződést harmadik féllel nem köti meg,
+a)[^260] a támogatási szerződés megkötésétől – területi kiválasztási eljárásrendben támogatott projekt, illetve olyan kiemelt projekt esetén, amelyre az 56. § (5) bekezdése szerint kötöttek szerződést, a szerződésben meghatározott határidőtől – számított tizenkét hónapon belül a támogatott tevékenység nem kezdődik meg és a megvalósítás érdekében harmadik féltől megvásárolandó szolgáltatásokat, árukat, építési munkákat legalább azok tervezett összértékének 50%-át elérő mértékben – esetleges közbeszerzési kötelezettségének teljesítése mellett – nem rendeli meg, vagy az erre irányuló szerződést harmadik féllel nem köti meg,
 
-b)[^259] a támogatási szerződés megkötésétől – területi kiválasztási eljárásrendben támogatott projekt, illetve olyan kiemelt projekt esetén, amelyre az 56. § (5) bekezdése szerint kötöttek szerződést, a szerződésben meghatározott határidőtől – számított tizenkét hónapon belül a támogatás igénybevételét a kedvezményezett érdekkörében felmerült okból nem kezdeményezi, kifizetési igénylés benyújtásával a megítélt támogatás legalább 10%-ának felhasználását nem igazolja és késedelmét ezen idő alatt írásban sem menti ki,
+b)[^261] a támogatási szerződés megkötésétől – területi kiválasztási eljárásrendben támogatott projekt, illetve olyan kiemelt projekt esetén, amelyre az 56. § (5) bekezdése szerint kötöttek szerződést, a szerződésben meghatározott határidőtől – számított tizenkét hónapon belül a támogatás igénybevételét a kedvezményezett érdekkörében felmerült okból nem kezdeményezi, kifizetési igénylés benyújtásával a megítélt támogatás legalább 10%-ának felhasználását nem igazolja és késedelmét ezen idő alatt írásban sem menti ki,
 
 c) bebizonyosodik, hogy a kedvezményezett a támogatási döntést érdemben befolyásoló valótlan adatot szolgáltatott a támogatási kérelem benyújtásakor, a támogatási szerződés megkötésekor vagy a támogatási jogviszony fennállása alatt,
 
@@ -16,13 +16,13 @@ f) a kedvezményezett a támogatási kérelemben vagy a támogatási szerződés
 
 g) a nyújtott biztosíték megszűnik, megsemmisül vagy értéke számottevően csökken, és a kedvezményezett megfelelő új biztosíték, vagy az értékcsökkenésnek megfelelő további biztosíték nyújtásáról az irányító hatóság által megszabott határidőn belül nem intézkedik,
 
-h)[^260] a 78. § b), c), e) vagy g) pontjában foglalt körülmény a támogatási szerződés megkötését követően jut az irányító hatóság tudomására.
+h)[^262] a 78. § b), c), e) vagy g) pontjában foglalt körülmény a támogatási szerződés megkötését követően jut az irányító hatóság tudomására.
 
 (2) Területi kiválasztási eljárásrendben kiválasztott projekt esetén, ha a projekt támogatási szerződésétől történő elállás más projekt célját és indikátorvállalásait is veszélyezteti, a veszélyeztetett projekt támogatási szerződésétől is elállhat az irányító hatóság.
 
-(3)[^261] Ha az (1) bekezdésben meghatározott bármely feltétel bekövetkezik, az irányító hatóság jogosult az (1) bekezdés szerinti döntés meghozataláig a kedvezményezett további támogatási igényére vonatkozóan a támogatási döntés meghozatalát, a támogatási szerződés megkötését, illetve a kifizetést felfüggeszteni.
+(3)[^263] Ha az (1) bekezdésben meghatározott bármely feltétel bekövetkezik, az irányító hatóság jogosult az (1) bekezdés szerinti döntés meghozataláig a kedvezményezett további támogatási igényére vonatkozóan a támogatási döntés meghozatalát, a támogatási szerződés megkötését, illetve a kifizetést felfüggeszteni.
 
-[^258]: A 90. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 102. pontja szerint módosított szöveg.
-[^259]: A 90. § (1) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 102. pontja szerint módosított szöveg.
-[^260]: A 90. § (1) bekezdés h) pontját a 144/2015. (VI. 12.) Korm. rendelet 55. §-a iktatta be.
-[^261]: A 90. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 103. pontja szerint módosított szöveg.
+[^260]: A 90. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 102. pontja szerint módosított szöveg.
+[^261]: A 90. § (1) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 102. pontja szerint módosított szöveg.
+[^262]: A 90. § (1) bekezdés h) pontját a 144/2015. (VI. 12.) Korm. rendelet 55. §-a iktatta be.
+[^263]: A 90. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 103. pontja szerint módosított szöveg.

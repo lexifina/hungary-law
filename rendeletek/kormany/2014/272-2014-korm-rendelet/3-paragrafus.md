@@ -56,7 +56,7 @@
 
 22.[^18] közbenső szervezet: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU európai parlamenti és tanácsi rendelet) 66. cikk (2) bekezdésével összhangban kijelölt szervezet,
 
-23. közszféra szervezet: a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 6. § (1) bekezdés a)–f) pontja alapján ajánlatkérőnek minősülő szervezet, valamint a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyházi jogi személy,
+23.[^19] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet, valamint a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyházi jogi személy,
 
 24. közösségvezérelt helyi fejlesztés: az 1303/2013/EU európai parlamenti és tanácsi rendelet 32. cikk (2) bekezdése szerinti fejlesztés,
 
@@ -64,7 +64,7 @@
 
 26. közreműködő szervezet: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 18. pontja szerinti szervezet,
 
-27.[^19] műszaki/szakmai tartalom: a projekt keretében megvalósított fejlesztések valamely, a projekt eredményessége szempontjából meghatározó tulajdonsága, amelynek megvalósítását a kedvezményezett az irányító hatóság felé a támogatási kérelem benyújtásával vállalta, vagy amelyet a a felhívás, vagy a támogatási szerződés ekként határoz meg,
+27.[^20] műszaki/szakmai tartalom: a projekt keretében megvalósított fejlesztések valamely, a projekt eredményessége szempontjából meghatározó tulajdonsága, amelynek megvalósítását a kedvezményezett az irányító hatóság felé a támogatási kérelem benyújtásával vállalta, vagy amelyet a a felhívás, vagy a támogatási szerződés ekként határoz meg,
 
 28. nagyprojekt: az 1303/2013/EU európai parlamenti és tanácsi rendelet 100. cikke szerinti projekt,
 
@@ -72,11 +72,11 @@
 
 30. nyilvánvaló hiba: támogatási kérelemben vagy kifizetési igénylésben a támogatást igénylő vagy a kedvezményezett által szolgáltatott adat olyan egyértelmű hiánya, vagy hibája, amely a támogatási kérelem vagy kifizetési igénylés más adataiból vagy más, a benyújtott dokumentum elbírálásában részt vevő szervezet által közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra való felszólítás nélkül, saját hatáskörben pótolható vagy javítható, kivéve a kérelem hitelességét befolyásoló hiányosság (így különösen aláírás, bélyegző lenyomat, személyt, szervezetet hitelesítő dokumentum, nyilatkozat, aláírási címpéldány),
 
-31.[^20] országos kihatású projekt: olyan fejlesztés, amelynek a közvetlen hatásai a kevésbé fejlett régiókban és a Közép-magyarországi régióban egyaránt kimutathatók, valamint amelyet az éves fejlesztési keret országos hatású projektként határoz meg,
+31.[^21] országos kihatású projekt: olyan fejlesztés, amelynek a közvetlen hatásai a kevésbé fejlett régiókban és a Közép-magyarországi régióban egyaránt kimutathatók, valamint amelyet az éves fejlesztési keret országos hatású projektként határoz meg,
 
-32.[^21] pénzügyi eszköz: az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról és az 1605/2002/EK, Euratom tanácsi rendelet hatályon kívül helyezéséről szóló, 2012. október 25-i 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet (a továbbiakban: 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet) 2. cikk p) bekezdés szerinti fogalom,
+32.[^22] pénzügyi eszköz: az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról és az 1605/2002/EK, Euratom tanácsi rendelet hatályon kívül helyezéséről szóló, 2012. október 25-i 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet (a továbbiakban: 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet) 2. cikk p) bekezdés szerinti fogalom,
 
-33.[^22] pénzügyi termék: a végső kedvezményezettnek kínált pénzügyi eszköz,
+33.[^23] pénzügyi termék: a végső kedvezményezettnek kínált pénzügyi eszköz,
 
 34. pénzügyi közvetítő: az 1303/2013/EU európai parlamenti és tanácsi rendelet 38. cikk (5) bekezdésében meghatározott szervezet,
 
@@ -90,9 +90,9 @@
 
 39. projekt lezárása: egy projekt akkor tekinthető lezártnak, ha a kedvezményezett a támogatási szerződésben a pénzügyi befejezést követő időszakra nézve további kötelezettséget nem vállalt, és a felhívásban meghatározott feltételek teljesültek. Ha a támogatási szerződés a támogatott tevékenység befejezését követő időszakra nézve további kötelezettséget előírt, a projekt akkor tekinthető lezártnak, ha valamennyi vállalt kötelezettség teljesült és a kedvezményezett a kötelezettségek megvalósulásának eredményeiről szóló záró projekt fenntartási jelentést benyújtotta, és azt az irányító hatóság, Vidékfejlesztési Program esetén a kifizető ügynökség jóváhagyta, valamint a záró jegyzőkönyv elkészült,
 
-40.[^23] projekt fizikai befejezése: az az állapot, amikor a projekt keretében támogatott tevékenységeket a felhívásban és a támogatási szerződésben meghatározottak szerint elvégezték,
+40.[^24] projekt fizikai befejezése: az az állapot, amikor a projekt keretében támogatott tevékenységeket a felhívásban és a támogatási szerződésben meghatározottak szerint elvégezték,
 
-41.[^24] projektmegvalósítás befejezése: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 14. pontjára tekintettel egy projekt megvalósítása akkor tekinthető befejezettnek, ha a projekt fizikailag és pénzügyileg is befejezett, valamint a kedvezményezettnek valamennyi támogatott tevékenysége befejezését igazoló és alátámasztó kifizetési igénylését az irányító hatóság – EMVA forrás esetén a kifizető ügynökség – jóváhagyta és a támogatás folyósítása megtörtént,
+41.[^25] projektmegvalósítás befejezése: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 14. pontjára tekintettel egy projekt megvalósítása akkor tekinthető befejezettnek, ha a projekt fizikailag és pénzügyileg is befejezett, valamint a kedvezményezettnek valamennyi támogatott tevékenysége befejezését igazoló és alátámasztó kifizetési igénylését az irányító hatóság – EMVA forrás esetén a kifizető ügynökség – jóváhagyta és a támogatás folyósítása megtörtént,
 
 42. projekt pénzügyi befejezése: ha a projekt fizikai befejezése megtörtént, valamint a projektmegvalósítás során keletkezett elszámoló bizonylatok – szállítói kifizetés esetén az előírt önrész szállítók részére történő – kiegyenlítése megtörtént. A 100%-os támogatás intenzitású, kizárólag szállítói finanszírozású projektek esetében a projekt pénzügyi befejezésének napja az elszámoló bizonylatok irányító hatóság, EMVA-ból történő finanszírozás esetén a kifizető ügynökség által történő kiegyenlítésének napja. A projekt pénzügyi befejezésének dátuma a projekt megvalósítási ideje alatt felmerült, a kedvezményezett által megfelelően elszámolt költségek közül a legkésőbbi kiegyenlítés dátuma,
 
@@ -100,17 +100,17 @@
 
 44. projekttartalom: a támogatási szerződésben rögzített, vagy bármely, e rendelet alapján a támogatási kérelemben, illetve a kifizetési igénylésekben, továbbá bejelentésekben, kérelmekben a projekttel kapcsolatban szolgáltatott adat,
 
-45.[^25] próbaidő: az 1303/2013/EU európai parlamenti és tanácsi rendelet 124. cikk (5) bekezdésében, illetve a leginkább rászoruló személyeket támogató európai segítségnyújtási alapról szóló, 2014. március 11-i 223/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 223/2014/EU európai parlamenti és tanácsi rendelet) 35. cikk (5) bekezdésében meghatározott fogalom,
+45.[^26] próbaidő: az 1303/2013/EU európai parlamenti és tanácsi rendelet 124. cikk (5) bekezdésében, illetve a leginkább rászoruló személyeket támogató európai segítségnyújtási alapról szóló, 2014. március 11-i 223/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 223/2014/EU európai parlamenti és tanácsi rendelet) 35. cikk (5) bekezdésében meghatározott fogalom,
 
 46. rendszerszintű szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 38. pontjában meghatározott fogalom,
 
-47.[^26] szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 36. pontjában foglaltak, az EMVA forrás esetén a KAP rendelet 2. cikk (1) bekezdés g) pontjában foglaltak, továbbá nemzeti jogszabály, a támogatási szerződés, az 1303/2013/EU európai parlamenti és tanácsi rendelet 38. cikk (7) bekezdésében meghatározott finanszírozási megállapodás vagy a végső kedvezményezett és a pénzügyi közvetítő között kötött szerződés, illetve a végső kedvezményezett javára kiadott kezességvállalási nyilatkozat alapján a végső kedvezményezettet terhelő kötelezettségek megsértése, amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek,
+47.[^27] szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 36. pontjában foglaltak, az EMVA forrás esetén a KAP rendelet 2. cikk (1) bekezdés g) pontjában foglaltak, továbbá nemzeti jogszabály, a támogatási szerződés, az 1303/2013/EU európai parlamenti és tanácsi rendelet 38. cikk (7) bekezdésében meghatározott finanszírozási megállapodás vagy a végső kedvezményezett és a pénzügyi közvetítő között kötött szerződés, illetve a végső kedvezményezett javára kiadott kezességvállalási nyilatkozat alapján a végső kedvezményezettet terhelő kötelezettségek megsértése, amelyek eredményeképpen Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek,
 
-48.[^27] szabálytalanságfelelős: az irányító hatóság, a kifizető ügynökség vagy az alapok alapját végrehajtó szervezet alkalmazásában álló, a szabálytalansági eljárással kapcsolatos feladatok ellátására kijelölt személy,
+48.[^28] szabálytalanságfelelős: az irányító hatóság, a kifizető ügynökség vagy az alapok alapját végrehajtó szervezet alkalmazásában álló, a szabálytalansági eljárással kapcsolatos feladatok ellátására kijelölt személy,
 
 49. szakaszolt projekt: fizikai és pénzügyi szempontból két egyértelműen elhatárolható szakaszból álló projekt, amelynek első szakasza a 2007–2013 programozási időszakban, második szakasza a 2014–2020 programozási időszakban valósul meg,
 
-50.[^28] szakpolitikai mutató: uniós jogszabályban nem nevesített, a szakpolitikai felelős vagy irányító hatóság által a felhívásban, adatforrással együtt meghatározott mutató, amelynek forrása nem a kedvezményezett,
+50.[^29] szakpolitikai mutató: uniós jogszabályban nem nevesített, a szakpolitikai felelős vagy irányító hatóság által a felhívásban, adatforrással együtt meghatározott mutató, amelynek forrása nem a kedvezményezett,
 
 51. szállítói finanszírozás: a kedvezményezettet vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában résztvevőt megillető támogatás összegének kifizetése közvetlenül a szállító vagy engedményes pénzforgalmi számlájára történő utalással,
 
@@ -136,15 +136,15 @@
 
 62. területi program: a Terület- és Településfejlesztési Operatív Program (a továbbiakban: TOP) és a Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP),
 
-63.[^29] területi szereplő: megye, megyei jogú város és a főváros, amely az integrált területi program (a továbbiakban: ITP) összeállításáért felelős,
+63.[^30] területi szereplő: megye, megyei jogú város és a főváros, amely az integrált területi program (a továbbiakban: ITP) összeállításáért felelős,
 
-64.[^30] transznacionális együttműködés: az Európai Szociális Alapról és az 1081/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1304/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1304/2013/EU európai parlamenti és tanácsi rendelet) 10. cikkében meghatározott együttműködési forma,
+64.[^31] transznacionális együttműködés: az Európai Szociális Alapról és az 1081/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1304/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1304/2013/EU európai parlamenti és tanácsi rendelet) 10. cikkében meghatározott együttműködési forma,
 
 65. utófinanszírozás: a kedvezményezett vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevő által kifizetett számlák vagy egyéb, az 1. mellékletben meghatározott, az elszámolást alátámasztó dokumentumok támogatási összegének utólagos megtérítése közvetlenül a kedvezményezett, vagy az engedményes pénzforgalmi számlájára,
 
 66. végső kedvezményezett: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 12. pont szerinti fogalom.
 
-(1a)[^31] Az EMVA és ETHA végrehajtása során e rendelet alkalmazásában
+(1a)[^32] Az EMVA és ETHA végrehajtása során e rendelet alkalmazásában
 
 1. egységes kérelem: a KAP rendelet 67. cikk (2) bekezdésében és 72. cikk (1) bekezdésében meghatározott területalapú, illetve állatlétszámra vonatkozó támogatások (a továbbiakban: terület-, illetve állatlétszám alapú támogatások) igénybevételére benyújtott közvetlen kifizetésre irányuló támogatási kérelem vagy kifizetési igénylés, ideértve a mezőgazdasági kockázatkezelési támogatások igénybevételére benyújtott támogatási kérelmet vagy kifizetési igénylést is,
 
@@ -164,9 +164,9 @@ b) az 1303/2013/EU európai parlamenti és tanácsi rendelet,
 
 c) az 1303/2013/EU európai parlamenti és tanácsi rendelet 1. cikkében meghatározott közösségi jogszabályok,
 
-d)[^32] a KAP rendelet, valamint
+d)[^33] a KAP rendelet, valamint
 
-e)[^33] az Európai Bizottság b)–d) pont szerinti rendeletek felhatalmazása alapján kiadott végrehajtási jogi aktusai
+e)[^34] az Európai Bizottság b)–d) pont szerinti rendeletek felhatalmazása alapján kiadott végrehajtási jogi aktusai
 
 ## szerint kell értelmezni.
 
@@ -187,18 +187,19 @@ e)[^33] az Európai Bizottság b)–d) pont szerinti rendeletek felhatalmazása 
 [^16]: A 3. § (1) bekezdés 18. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 6. pontja szerint módosított szöveg.
 [^17]: A 3. § (1) bekezdés 21. pontját a 175/2015. (VII. 7.) Korm. rendelet 86. § (2) bekezdése hatályon kívül helyezte.
 [^18]: A 3. § (1) bekezdés 22. pontját a 397/2014. (XII. 31.) Korm. rendelet 96. §-a hatályon kívül helyezte, újonnan a 144/2015. (VI. 12.) Korm. rendelet 5. § (5) bekezdése iktatta be.
-[^19]: A 3. § (1) bekezdés 27. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^20]: A 3. § (1) bekezdés 31. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
-[^21]: A 3. § (1) bekezdés 32. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg. [Ugyanezen módosító rendelet 100. § 8. pontjával elrendelt módosítás, amely szerint a „rendelet 2. cikk” szövegrész helyébe a „rendelet (a továbbiakban: 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet) 2. cikk” szöveg lép, nem vezethető át.
-[^22]: A 3. § (1) bekezdés 33. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
-[^23]: A 3. § (1) bekezdés 40. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
-[^24]: A 3. § (1) bekezdés 41. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 9. pontja szerint módosított szöveg.
-[^25]: A 3. § (1) bekezdés 45. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 10. pontja szerint módosított szöveg.
-[^26]: A 3. § (1) bekezdés 47. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^27]: A 3. § (1) bekezdés 48. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^28]: A 3. § (1) bekezdés 50. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (10) bekezdésével megállapított szöveg.
-[^29]: A 3. § (1) bekezdés 63. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 11. pontja szerint módosított szöveg.
-[^30]: A 3. § (1) bekezdés 64. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 12. pontja szerint módosított szöveg.
-[^31]: A 3. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 5. § (11) bekezdése iktatta be.
-[^32]: A 3. § (2) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdésével megállapított szöveg.
-[^33]: A 3. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdése iktatta be.
+[^19]: A 3. § (1) bekezdés 23. pontja a 323/2015. (X. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^20]: A 3. § (1) bekezdés 27. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^21]: A 3. § (1) bekezdés 31. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^22]: A 3. § (1) bekezdés 32. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg. [Ugyanezen módosító rendelet 100. § 8. pontjával elrendelt módosítás, amely szerint a „rendelet 2. cikk” szövegrész helyébe a „rendelet (a továbbiakban: 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet) 2. cikk” szöveg lép, nem vezethető át.
+[^23]: A 3. § (1) bekezdés 33. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^24]: A 3. § (1) bekezdés 40. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^25]: A 3. § (1) bekezdés 41. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 9. pontja szerint módosított szöveg.
+[^26]: A 3. § (1) bekezdés 45. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 10. pontja szerint módosított szöveg.
+[^27]: A 3. § (1) bekezdés 47. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^28]: A 3. § (1) bekezdés 48. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^29]: A 3. § (1) bekezdés 50. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (10) bekezdésével megállapított szöveg.
+[^30]: A 3. § (1) bekezdés 63. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 11. pontja szerint módosított szöveg.
+[^31]: A 3. § (1) bekezdés 64. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 12. pontja szerint módosított szöveg.
+[^32]: A 3. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 5. § (11) bekezdése iktatta be.
+[^33]: A 3. § (2) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdésével megállapított szöveg.
+[^34]: A 3. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdése iktatta be.

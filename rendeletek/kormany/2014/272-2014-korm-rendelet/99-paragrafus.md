@@ -1,4 +1,4 @@
-99. § (1)[^278] Ha a közbeszerzési eljárásban utólagos ellenőrzés szükséges, azt az irányító hatóság folytatja le az utólagos ellenőrzés lefolytatásához szükséges valamennyi dokumentum kézhezvételét követő tizenöt munkanapon belül. Utólagos ellenőrzésre akkor kerül sor, ha a támogatást igénylő, illetve a kedvezményezett megszegte a 98. § (1)–(2) bekezdésében foglalt kötelezettségét és a közbeszerzési eljárás utóellenőrzését nem határidőben kezdeményezte. Az irányító hatóság ilyen esetben kezdeményezi a támogatást igénylő, illetve a kedvezményezett ellen szabálytalansági eljárás lefolytatását azzal, hogy az esetleges korrekcióra elsődlegesen a projektmenedzsment, illetve a közbeszerzés sorok terhére kerül sor.
+99. § (1)[^286] Ha a közbeszerzési eljárásban utólagos ellenőrzés szükséges, azt az irányító hatóság folytatja le az utólagos ellenőrzés lefolytatásához szükséges valamennyi dokumentum kézhezvételét követő tizenöt munkanapon belül. Utólagos ellenőrzésre akkor kerül sor, ha a támogatást igénylő, illetve a kedvezményezett megszegte a 98. § (1)–(2) bekezdésében foglalt kötelezettségét és a közbeszerzési eljárás utóellenőrzését nem határidőben kezdeményezte. Az irányító hatóság ilyen esetben kezdeményezi a támogatást igénylő, illetve a kedvezményezett ellen szabálytalansági eljárás lefolytatását azzal, hogy az esetleges korrekcióra elsődlegesen a projektmenedzsment, illetve a közbeszerzés sorok terhére kerül sor.
 
 (2) Az utólagos ellenőrzésről készült jelentés tartalmában egyenértékű az utóellenőrzési jelentéssel.
 
@@ -6,4 +6,4 @@
 
 (4) Szabálytalansági eljárás lefolytatása esetén a szabálytalanságról e rendelet szerint hozott döntés tartalma az irányadó a támogatás folyósítása tekintetében.
 
-[^278]: A 99. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 114. pontja szerint módosított szöveg.
+[^286]: A 99. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 114. pontja szerint módosított szöveg.

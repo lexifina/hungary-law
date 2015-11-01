@@ -1,6 +1,6 @@
 ## 22. § Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter az általa vezetett minisztérium szervezeti és működési szabályzatában meghatározza annak rendjét, hogy az ágazati feladatok ellátása tekintetében a 20. § szerinti feladatkörrel rendelkező szervezeti egységek miként tartanak kapcsolatot az irányító hatósággal.
 
-23. §[^86] (1) A közreműködő szervezet és az alapok alapját végrehajtó szervezet közreműködik
+23. §[^87] (1) A közreműködő szervezet és az alapok alapját végrehajtó szervezet közreműködik
 
 a) az ellenőrzési nyomvonal elkészítésében és folyamatos aktualizálásában,
 
@@ -14,4 +14,4 @@ c) beszámolót készít az irányító hatóság részére a többéves nemzeti
 
 (4) A közreműködő szervezet, valamint az alapok alapját végrehajtó szervezet feladatainak ellátásához alvállalkozót kizárólag átmeneti jelleggel vagy speciális szakterületen és az irányító hatóság által meghatározott érték felett, az irányító hatóság előzetes egyetértésével vonhat be. Az alvállalkozók teljesítéséért a közreműködő szervezet, illetve az alapok alapját végrehajtó szervezet felelős.
 
-[^86]: A 23. § a 144/2015. (VI. 12.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^87]: A 23. § a 144/2015. (VI. 12.) Korm. rendelet 12. §-ával megállapított szöveg.

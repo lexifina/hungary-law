@@ -1,7 +1,7 @@
-## 103/A. §[^290] Az európai uniós források felhasználásáért felelős miniszter nem támogató tartalmú tanúsítványt állít ki akkor, ha a közbeszerzési dokumentumokat a 101/A. § (1) bekezdés megszegésével nyújtották be.
+## 103/A. §[^300] Az európai uniós források felhasználásáért felelős miniszter nem támogató tartalmú tanúsítványt állít ki akkor, ha a közbeszerzési dokumentumokat a 101/A. § (1) bekezdés megszegésével nyújtották be.
 
 104. § (1) A támogatást igénylő, illetve a kedvezményezett – figyelemmel a 95. § (4) bekezdésében foglaltakra is – a közbeszerzési eljárást abban az esetben indíthatja meg, ha az európai uniós források felhasználásáért felelős miniszter a közbeszerzési dokumentumokat ellenőrizte, és erről a 103. § (1) vagy (3) bekezdése szerint támogató tartalmú, vagy feltétellel támogató tartalmú minőségellenőrzési tanúsítványt állított ki. A támogatást igénylő, illetve a kedvezményezett az eljárás megindításával egyidejűleg az eljárást megindító végleges dokumentumot az irányító hatóság, valamint az európai uniós források felhasználásáért felelős miniszter részére megküldi. Az irányító hatóság, illetve az európai uniós források felhasználásáért felelős miniszter egyet nem értése esetén dönt a szabálytalansági eljárás kezdeményezéséről, továbbá önállóan dönt a megítélése szerint szabálytalanság megállapítására okot adó, nem reparálható közbeszerzési jogsértés esetén a Kbt. szerinti jogorvoslati eljárás kezdeményezéséről a Közbeszerzési Döntőbizottság előtt.
 
 (2) A támogatást igénylő, illetve a kedvezményezett elektronikus úton haladéktalanul tájékoztatja az európai uniós források felhasználásáért felelős minisztert, valamint az irányító hatóságot az (1) bekezdés szerinti végleges dokumentumokban történt esetleges változásokról.
 
-[^290]: A 103/A. §-t a 391/2014. (XII. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^300]: A 103/A. §-t a 391/2014. (XII. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.

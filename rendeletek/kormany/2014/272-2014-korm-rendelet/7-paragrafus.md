@@ -1,8 +1,8 @@
 ## 5. Fejlesztéspolitikai Koordinációs Bizottság feladatai
 
-7. § (1)[^41] A Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) az NFK döntés-előkészítő szerve.
+7. § (1)[^42] A Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) az NFK döntés-előkészítő szerve.
 
-(2)[^42] Az FKB
+(2)[^43] Az FKB
 
 a) az NFK ülését megelőzően megtárgyalja és véleményezi az 5. § (2) bekezdésben meghatározott tárgykörökben benyújtani tervezett döntési javaslatokat és jelentéseket,
 
@@ -14,8 +14,8 @@ d) véleményezi a fejlesztéspolitikai célok teljesülését érintő jogszab�
 
 e) a fejlesztések végrehajtásáért felelős szervezetektől tájékoztatást, beszámolót kérhet, intézkedési javaslatot tehet.
 
-(3)[^43] Az 5. § (2) bekezdésében meghatározott kérdésekben az NFK elé benyújtott javaslathoz, jelentéshez vagy más ülésanyaghoz mellékelni kell az FKB állásfoglalását. Ennek az állásfoglalásnak a hiányában a javaslatot, a jelentést vagy a más ülésanyagot csak akkor lehet az NFK elé terjeszteni, ha ahhoz a miniszterelnök, az európai uniós források felhasználásáért felelős miniszter vagy az FKB elnöke hozzájárul.
+(3)[^44] Az 5. § (2) bekezdésében meghatározott kérdésekben az NFK elé benyújtott javaslathoz, jelentéshez vagy más ülésanyaghoz mellékelni kell az FKB állásfoglalását. Ennek az állásfoglalásnak a hiányában a javaslatot, a jelentést vagy a más ülésanyagot csak akkor lehet az NFK elé terjeszteni, ha ahhoz a miniszterelnök, az európai uniós források felhasználásáért felelős miniszter vagy az FKB elnöke hozzájárul.
 
-[^41]: A 7. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 15. pontja szerint módosított szöveg.
-[^42]: A 7. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 16. pontjával megállapított szöveg.
-[^43]: A 7. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 17. pontja szerint módosított szöveg.
+[^42]: A 7. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 15. pontja szerint módosított szöveg.
+[^43]: A 7. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 16. pontjával megállapított szöveg.
+[^44]: A 7. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 17. pontja szerint módosított szöveg.

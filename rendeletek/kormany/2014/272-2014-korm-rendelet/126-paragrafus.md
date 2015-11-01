@@ -1,4 +1,4 @@
-126. § (1)–(2)[^371]
+126. § (1)–(2)[^381]
 
 (3) Ha a projekt keretében elszámolható költségről szóló bizonylat eredeti példánya elveszett vagy megsemmisült, és a bizonylat kibocsátója az általa kiállított vagy őrzött bizonylatról másolatként új bizonylatot állít ki, akkor az abban az esetben fogadható el, ha a bizonylat kibocsátója a bizonylat azonosságát szabályszerűen igazolta.
 
@@ -8,7 +8,7 @@
 
 (6) Az új bizonylat eredeti példányát záradékolni kell és elkülönítetten kell nyilvántartani, illetve megőrizni.
 
-(7)[^372] Kifizetési igénylés benyújtása esetén a záradékolt új bizonylatot kell a kifizetési igényléshez mellékelni.
+(7)[^382] Kifizetési igénylés benyújtása esetén a záradékolt új bizonylatot kell a kifizetési igényléshez mellékelni.
 
-[^371]: A 126. § (1)–(2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 30. pontja hatályon kívül helyezte.
-[^372]: A 126. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 154. pontja szerint módosított szöveg.
+[^381]: A 126. § (1)–(2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 30. pontja hatályon kívül helyezte.
+[^382]: A 126. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 154. pontja szerint módosított szöveg.

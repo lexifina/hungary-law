@@ -1,6 +1,6 @@
-## 61/A. §[^174] A közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet (a továbbiakban: Közbesz. R.) 2. § (3) bekezdése szerinti informatikai eszközök és szolgáltatások fejlesztésére, valamint üzemeltetésére vonatkozó támogatási kérelem esetén, ha a támogatást igénylő, illetve kedvezményezett a Közbesz. R. 7. mellékletében szerepel, az irányító hatóság a támogatási kérelem elbírálása során az e-közigazgatásért felelős miniszternek véleményezési jogot biztosít.
+## 61/A. §[^176] A közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet (a továbbiakban: Közbesz. R.) 4. § (2) bekezdése szerinti informatikai eszközök és szolgáltatások fejlesztésére, valamint üzemeltetésére vonatkozó támogatási kérelem esetén, ha a támogatást igénylő, illetve kedvezményezett a Közbesz. R. 1. mellékletében szerepel, az irányító hatóság a támogatási kérelem elbírálása során az e-közigazgatásért felelős miniszternek véleményezési jogot biztosít.
 
-62. §[^175] (1) Az értékelésben és a támogatási döntés előkészítésében részt vevőket a támogatást igénylő támogatási döntésről történő tájékoztatása időpontjáig titoktartási kötelezettség terheli. A titoktartási kötelezettség nem terjed ki a benyújtott támogatási kérelemnek a projekt-kiválasztási eljárásban történő előrehaladásáról történő tájékoztatásra.
+62. §[^177] (1) Az értékelésben és a támogatási döntés előkészítésében részt vevőket a támogatást igénylő támogatási döntésről történő tájékoztatása időpontjáig titoktartási kötelezettség terheli. A titoktartási kötelezettség nem terjed ki a benyújtott támogatási kérelemnek a projekt-kiválasztási eljárásban történő előrehaladásáról történő tájékoztatásra.
 
 (2) Az irányító hatóságnak biztosítania kell, hogy a támogatási kérelmek tartalmi értékelése során alkalmazott mérlegelést igénylő és mérlegelést nem igénylő értékelési szempontok
 
@@ -14,5 +14,5 @@ d) olyan projektek kiválasztását teszik lehetővé, amelyek közvetlenül hoz
 
 e) biztosítják az állami támogatási szabályoknak való megfelelést.
 
-[^174]: A 61/A. §-t a 391/2014. (XII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^175]: A 62. § a 144/2015. (VI. 12.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^176]: A 61/A. §-t a 391/2014. (XII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 323/2015. (X. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 17. §-a alapján a 2015. november 1. után megkezdett közbeszerzési eljárásokra kell alkalmazni.
+[^177]: A 62. § a 144/2015. (VI. 12.) Korm. rendelet 33. §-ával megállapított szöveg.

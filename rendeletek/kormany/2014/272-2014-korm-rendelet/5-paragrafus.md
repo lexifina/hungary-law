@@ -10,11 +10,11 @@ b) jóváhagyja azoknak a programoknak a tartalmát és azok elfogadására irá
 
 c) jóváhagyja az Európai Bizottság számára benyújtandó, az Európai Hálózatfinanszírozási Eszközből finanszírozandó projektjavaslatokat és a nagyprojekt-javaslatokat,
 
-d)[^37] a 65. § (2a) bekezdésében meghatározott kivétellel előzetesen jóváhagyja azt a projektjavaslatot, amely támogatását az irányító hatóság egymilliárd forintot meghaladó összegben javasolja megállapítani,
+d)[^38] a 65. § (2a) bekezdésében meghatározott kivétellel előzetesen jóváhagyja azt a projektjavaslatot, amely támogatását az irányító hatóság egymilliárd forintot meghaladó összegben javasolja megállapítani,
 
-e)[^38] elfogadja az ITP-ket,
+e)[^39] elfogadja az ITP-ket,
 
-f)[^39] előzetesen jóváhagyja a projektek többlettámogatását a 87. § (1) bekezdés c) pontja szerint,
+f)[^40] előzetesen jóváhagyja a projektek többlettámogatását a 87. § (1) bekezdés c) pontja szerint,
 
 g) kijelöli a közreműködő szervezetet és próbaidőt írhat elő a 35. § szerint,
 
@@ -28,11 +28,11 @@ k) dönt az irányító hatóság, a szakpolitikai felelős, a szakmai támogat�
 
 l) a feladatai ellátásához szükséges mértékben tájékoztatást, felvilágosítást, adatszolgáltatást kérhet e rendelet hatálya alá tartozó szervezetektől,
 
-m)[^40] előzetesen jóváhagyja a pénzügyi közvetítői felhívás tervezetét, továbbá amennyiben a pénzügyi közvetítő kiválasztására közbeszerzési eljárásban kerül sor, az alapok alapját végrehajtó szervezet javaslata alapján – a XVI. Fejezetben foglalt ellenőrzést követően – jóváhagyja az ajánlati, ajánlattételi, illetve a részvételi felhívást, valamint az ezekhez kapcsolódó dokumentációt.
+m)[^41] előzetesen jóváhagyja a pénzügyi közvetítői felhívás tervezetét, továbbá amennyiben a pénzügyi közvetítő kiválasztására közbeszerzési eljárásban kerül sor, az alapok alapját végrehajtó szervezet javaslata alapján – a XVI. Fejezetben foglalt ellenőrzést követően – jóváhagyja az ajánlati, ajánlattételi, illetve a részvételi felhívást, valamint az ezekhez kapcsolódó dokumentációt.
 
 (3) A 4. §-ban meghatározott döntések meghozatalára irányuló javaslathoz és a Kormány részére benyújtott fejlesztéspolitikai tárgyú jelentéshez mellékelni kell az NFK állásfoglalását. Ennek az állásfoglalásnak a hiányában a javaslatot vagy a jelentést csak akkor lehet a Kormány elé terjeszteni, ha ahhoz a miniszterelnök vagy az európai uniós források felhasználásáért felelős miniszter hozzájárul.
 
-[^37]: Az 5. § (2) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^38]: Az 5. § (2) bekezdés e) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 13. pontja szerint módosított szöveg.
-[^39]: Az 5. § (2) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 14. pontja szerint módosított szöveg.
-[^40]: Az 5. § (2) bekezdés m) pontját a 300/2015. (X. 15.) Korm. rendelet 2. §-a iktatta be.
+[^38]: Az 5. § (2) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^39]: Az 5. § (2) bekezdés e) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 13. pontja szerint módosított szöveg.
+[^40]: Az 5. § (2) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 14. pontja szerint módosított szöveg.
+[^41]: Az 5. § (2) bekezdés m) pontját a 300/2015. (X. 15.) Korm. rendelet 2. §-a iktatta be.
