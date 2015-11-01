@@ -1,0 +1,5 @@
+## 15. § Építési beruházás esetén az ajánlatkérő a Kbt. IX. Fejezetében és – amennyiben az ajánlatkérő köteles a Kbt. 57. § (1) bekezdése szerinti közbeszerzési dokumentumokat rendelkezésre bocsátani – a Kbt. 114. § (3) bekezdésében meghatározott közbeszerzési dokumentumokat e rendelet előírásainak megfelelő tartalommal készíti el.
+
+16. § (1) Az építmény kivitelezésére vagy a Kbt. 1. mellékletében foglalt tevékenységek egyikéhez kapcsolódó munka kivitelezésére irányuló, az építésügyi jogszabályok szerint engedélyköteles építési beruházás közbeszerzési dokumentumai tartalmazzák az Épkiv.-ben meghatározott – egyúttal e rendelet és mellékletei előírásainak is megfelelő – kivitelezési dokumentációt.
+
+(2) Ha a kivitelezésre irányuló építési beruházás az építésügyi jogszabályok szerint engedély nélkül végezhető építési tevékenységnek minősül, a közbeszerzési dokumentumokat az 1. melléklet – műemlékkel kapcsolatos építési beruházás esetében az 1. és a 2. melléklet – szerinti tartalommal kell elkészíteni, amennyiben az adott építési beruházásra a mellékletekben foglalt követelmények értelmezhetők.
