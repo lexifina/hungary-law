@@ -1,5 +1,3 @@
-## 5. §[^4]
+## 5. § Hatályát veszti az R1. 2. számú melléklet Eü100 8/h. pontja.
 
 ## 2. A finanszírozási eljárásrendekről szóló 31/2010. (V. 13.) EüM rendelet módosítása
-
-[^4]: Az 5. § a 7. § (3) bekezdése alapján 2015. november 1-jén lép hatályba.
