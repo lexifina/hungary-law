@@ -42,6 +42,8 @@
 
 20. a joghatóság gyakorlásával kapcsolatos, büntetőeljárások során felmerülő összeütközések megelőzéséről és rendezéséről szóló, 2009. november 30-i 2009/948/IB tanácsi kerethatározatnak,
 
-21. az európai védelmi határozatról szóló, 2011. december 13-i 2011/99/EU európai parlamenti és tanácsi irányelvnek
+21. az európai védelmi határozatról szóló, 2011. december 13-i 2011/99/EU európai parlamenti és tanácsi irányelvnek,
+
+22. a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
