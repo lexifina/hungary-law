@@ -1,4 +1,4 @@
-144/A. §[^473] (1) A földgázelosztó a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával szervezheti ki az elosztóvezeték építését, valamint az ügyfélszolgálati tevékenységet, ideértve a felhasználóval való kapcsolattartással, számlakibocsátással és ellenérték-beszedéssel kapcsolatos tevékenységeket.
+144/A. §[^474] (1) A földgázelosztó a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával szervezheti ki az elosztóvezeték építését, valamint az ügyfélszolgálati tevékenységet, ideértve a felhasználóval való kapcsolattartással, számlakibocsátással és ellenérték-beszedéssel kapcsolatos tevékenységeket.
 
 (2) A földgázelosztó nem kapcsolt vállalkozásához történő kiszervezés esetében – az (1) bekezdésben foglaltakon felül – a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával az alábbi tevékenységeket szervezheti ki:
 
@@ -18,7 +18,7 @@ g) elosztóvezeték biztonsági övezetében karbantartási tevékenység,
 
 h) korrózióvédelemmel összefüggő karbantartási feladatok végrehajtása.
 
-(3)[^474] A földgázelosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett
+(3)[^475] A földgázelosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett
 
 a) más földgázelosztótól vagy a villamos energiáról szóló törvény szerinti elosztótól, a Hivatal által előzetesen jóváhagyott szerződés alapján az engedélyköteles tevékenysége körébe tartozó szolgáltatásokat, valamint
 
@@ -26,5 +26,5 @@ b) az (1) bekezdés szerinti, elosztóvezeték építését végző kapcsolt vá
 
 igénybe vehet.
 
-[^473]: A Vhr. 144/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
-[^474]: A Vhr. 144/A. § (3) bekezdése a 110/2014. (IV. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^474]: A Vhr. 144/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^475]: A Vhr. 144/A. § (3) bekezdése a 110/2014. (IV. 1.) Korm. rendelet 8. §-ával megállapított szöveg.

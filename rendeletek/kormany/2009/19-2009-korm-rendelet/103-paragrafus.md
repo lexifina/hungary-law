@@ -1,17 +1,17 @@
 ## A földgáz szagosítása
 
-103. §[^346] (1)[^347] Az elosztóvezetékbe – beleértve a szállítóvezetékről közvetlenül ellátott felhasználó esetében a felhasználót ellátó vezetéket is – kizárólag szagosított földgáz táplálható be.
+103. §[^347] (1)[^348] Az elosztóvezetékbe – beleértve a szállítóvezetékről közvetlenül ellátott felhasználó esetében a felhasználót ellátó vezetéket is – kizárólag szagosított földgáz táplálható be.
 
-(2)[^348] A földgáz szagosításáról – a (3) bekezdésben foglalt eset kivételével – a szállítási rendszerüzemeltető gondoskodik.
+(2)[^349] A földgáz szagosításáról – a (3) bekezdésben foglalt eset kivételével – a szállítási rendszerüzemeltető gondoskodik.
 
-(3)[^349] Ha az elosztóvezetékre csatlakozó földgáztermelő az elosztóvezetékbe földgázt táplál be, a betáplált földgáz szagosításáról a szállítási rendszerüzemeltetővel megállapodást köt, vagy a szagosításról maga köteles gondoskodni.
+(3)[^350] Ha az elosztóvezetékre csatlakozó földgáztermelő az elosztóvezetékbe földgázt táplál be, a betáplált földgáz szagosításáról a szállítási rendszerüzemeltetővel megállapodást köt, vagy a szagosításról maga köteles gondoskodni.
 
 (4) Ha a földgáztermelő szagosított földgázt táplál be a rendszerbe, az általa végzett szagosításért jogosult érvényesíteni a külön rendeletben meghatározott díjtételeket.
 
-(5)[^350] Az összekapcsolási ponton a földgáz – a szállítási rendszerüzemeltetők eltérő megállapodása hiányában – szagosítás nélkül kerül átadásra.
+(5)[^351] Az összekapcsolási ponton a földgáz – a szállítási rendszerüzemeltetők eltérő megállapodása hiányában – szagosítás nélkül kerül átadásra.
 
-[^346]: A Vhr. 103. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^347]: A Vhr. 103. § (1) bekezdése a 212/2014. (VIII. 27.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^348]: A Vhr. 103. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
-[^349]: A Vhr. 103. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
-[^350]: A Vhr. 103. § (5) bekezdését a 212/2014. (VIII. 27.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^347]: A Vhr. 103. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^348]: A Vhr. 103. § (1) bekezdése a 212/2014. (VIII. 27.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^349]: A Vhr. 103. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
+[^350]: A Vhr. 103. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
+[^351]: A Vhr. 103. § (5) bekezdését a 212/2014. (VIII. 27.) Korm. rendelet 6. § (2) bekezdése iktatta be.

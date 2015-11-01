@@ -1,4 +1,4 @@
-19. §[^90] (1) A biztonsági földgáztárolást végző engedélyes köteles:
+19. §[^91] (1) A biztonsági földgáztárolást végző engedélyes köteles:
 
 a) a biztonsági földgázkészletet az egyéb készleteitől nyilvántartásaiban és számviteli rendszerében elkülönítetten kezelni,
 
@@ -8,10 +8,10 @@ c) az üzletszabályzata részeként a biztonsági földgázkészlet tárolásá
 
 (2) A biztonsági földgázkészlet tárolókapacitásához – az erre vonatkozó szerződés időbeli hatálya alatt nem megszakítható módon – kizárólag a Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: MSZKSZ) jogosult hozzáférni.
 
-(3)[^91] A biztonsági földgázkészlet kitárolásához a földgáztárolói engedélyes köteles olyan elszámolási rendet kialakítani, amely biztosítja, hogy a kitárolt készletből csak a külön jogszabály alapján igénybevételre jogosultak, az ott meghatározott mértékben jussanak a földgázhoz.
+(3)[^92] A biztonsági földgázkészlet kitárolásához a földgáztárolói engedélyes köteles olyan elszámolási rendet kialakítani, amely biztosítja, hogy a kitárolt készletből csak a külön jogszabály alapján igénybevételre jogosultak, az ott meghatározott mértékben jussanak a földgázhoz.
 
-(4)[^92] A biztonsági földgázkészletre a hozzáférés általános szabályai nem alkalmazhatók, nem esik az árszabályozás alá.
+(4)[^93] A biztonsági földgázkészletre a hozzáférés általános szabályai nem alkalmazhatók, nem esik az árszabályozás alá.
 
-[^90]: A Vhr. 19. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^91]: A Vhr. 19. § (3) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
-[^92]: A Vhr. 19. § (4) bekezdése az 53/2012. (III. 28.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
+[^91]: A Vhr. 19. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^92]: A Vhr. 19. § (3) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^93]: A Vhr. 19. § (4) bekezdése az 53/2012. (III. 28.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.

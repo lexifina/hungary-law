@@ -82,7 +82,7 @@
 
 ## 6.5. Az elszámolási időszak időtartamában a felek az egyetemes szolgáltatási szerződésben állapodnak meg. Erre vonatkozó eltérő megállapodás hiányában az elszámolási időszak megegyezik a leolvasási időszakkal.
 
-## 6.6.[^558] Ha az elszámolási időszak egy hónapnál hosszabb, az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámla kibocsátására jogosult azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók. A részszámla a felhasználási helyre az elosztó általi leolvasás hiányában a felhasználó havonként történő közlése, ennek elmaradása vagy a felek megállapodása esetén becsléssel megállapított mennyiség alapján kerül kiállításra.
+## 6.6.[^565] Ha az elszámolási időszak egy hónapnál hosszabb, az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámla kibocsátására jogosult azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók. A részszámla a felhasználási helyre az elosztó általi leolvasás hiányában a felhasználó havonként történő közlése, ennek elmaradása vagy a felek megállapodása esetén becsléssel megállapított mennyiség alapján kerül kiállításra.
 
 ## 6.7. Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát kibocsátani és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, mely magában foglalja a tételes pénzügyi elszámolást is.
 
@@ -102,7 +102,7 @@
 
 ## 6.13. Az egyetemes szolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak a kézhezvételtől számított legalább 8 nap rendelkezésére álljon.
 
-## 6.14.[^559]
+## 6.14.[^566]
 
 ## 6.15. A végszámlát – ha a szerződés ettől eltérően nem rendelkezik – nyomtatott formában kell a felhasználó rendelkezésére bocsátani.
 
@@ -150,9 +150,9 @@
 
 ## b) 100%-a, ha az egyetemes szolgáltató érdekkörében felmerült okból a visszakapcsolásra a felhasználó tartozásának rendezését követő 72 óránál később kerül sor.
 
-## 8.6.[^560] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
+## 8.6.[^567] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
 
-3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^561]
+3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^568]
 
 Üzemi és Kereskedelmi Szabályzat
 
@@ -234,7 +234,7 @@ f) Másodlagos kapacitáskereskedelem
 
 15. A szervezett földgázpiac működésének főbb szabályai
 
-[^558]: A Vhr. 2. számú melléklet 6.6. pontja a 123/2015. (V. 26.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^559]: A Vhr. 2. számú melléklet 6.14. pontját a 123/2015. (V. 26.) Korm. rendelet 35. §-a hatályon kívül helyezte.
-[^560]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^561]: A Vhr. 3. számú melléklete a 91/2015. (IV. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^565]: A Vhr. 2. számú melléklet 6.6. pontja a 123/2015. (V. 26.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^566]: A Vhr. 2. számú melléklet 6.14. pontját a 123/2015. (V. 26.) Korm. rendelet 35. §-a hatályon kívül helyezte.
+[^567]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^568]: A Vhr. 3. számú melléklete a 91/2015. (IV. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-86. §[^291] (1) A rendszerüzemeltetői szolgáltatás nyújtása szerződéses biztosítékkal összefüggő okból akkor tagadható meg vagy akkor függeszthető fel, ha
+86. §[^292] (1) A rendszerüzemeltetői szolgáltatás nyújtása szerződéses biztosítékkal összefüggő okból akkor tagadható meg vagy akkor függeszthető fel, ha
 
 a) a szerződéses biztosíték a szerződéses szolgáltatás megkezdését 15 munkanappal megelőzően nem áll rendelkezésre,
 
@@ -22,7 +22,7 @@ részére, valamint a lekötés alapján számított forgalmi díj összegére a
 
 (4) Havi, napi, napon belüli kapacitás-lekötés esetében a szerződéses biztosíték összegének fedezetet kell nyújtania legalább a rendszerhasználó által lekötött havi vagy napi kapacitások kapacitásdíjának teljes összegére, valamint a lekötés alapján számított forgalmi díj összegére a rendszerüzemeltető üzletszabályzatában meghatározott feltételek szerint.
 
-(5)[^292] A földgáztárolói engedélyes köteles a tárolt készlet letéti elszámolásához árképletet kialakítani az üzletszabályzatában, vagy az elégtelen készlet esetén igénybe veendő szerződéses biztosíték meghatározását rögzíteni.
+(5)[^293] A földgáztárolói engedélyes köteles a tárolt készlet letéti elszámolásához árképletet kialakítani az üzletszabályzatában, vagy az elégtelen készlet esetén igénybe veendő szerződéses biztosíték meghatározását rögzíteni.
 
 (6) A szerződéses biztosíték időtartamának meghatározására és a biztosíték feltöltésére vonatkozó előírásokat a rendszerüzemeltető üzletszabályzata tartalmazza.
 
@@ -32,5 +32,5 @@ részére, valamint a lekötés alapján számított forgalmi díj összegére a
 
 (9) A földgázkereskedő a földgáz-kereskedelmi szerződésbe foglalt ügyleteinek biztosítása érdekében jogosult a földgáz-kereskedelmi szerződéses partnereitől pénzügyi biztosítékot kérni. Egyetemes szolgáltatásra jogosult felhasználótól pénzügyi biztosíték nem kérhető, kivéve a GET 31/C. § (4)–(5) bekezdésében meghatározott esetet. A pénzügyi biztosítékra vonatkozó részletes rendelkezéseket, ha azokat a földgázkereskedő alkalmazni kívánja, az üzletszabályzatában előre közzéteszi.
 
-[^291]: A Vhr. 86. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^292]: A Vhr. 86. § (5) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^292]: A Vhr. 86. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^293]: A Vhr. 86. § (5) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.

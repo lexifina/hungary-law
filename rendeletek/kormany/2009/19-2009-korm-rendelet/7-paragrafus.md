@@ -1,4 +1,4 @@
-7. §[^49] (1) A kérelmezőnek rendelkeznie kell:
+7. §[^50] (1) A kérelmezőnek rendelkeznie kell:
 
 a) 3 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza a földgázelosztási tevékenységet a hozzá kapcsolódó költségeket, pénzforgalmat,
 
@@ -18,9 +18,9 @@ h) olyan szervezeti egységgel és ahhoz tartozó szakszemélyzettel, amely kép
 
 i) az engedélyköteles tevékenység üzletszabályzatban meghatározott normál üzemmenetétől eltérő körülmények közötti folytatásához szükséges szervezeti, szabályzati, tárgyi és személyi feltételekkel,
 
-j)[^50] a működési területén lévő felhasználókat ellátó földgázkereskedőkkel megkötött megállapodásokkal,
+j)[^51] a működési területén lévő felhasználókat ellátó földgázkereskedőkkel megkötött megállapodásokkal,
 
-k)[^51] a 312/2014/EU bizottsági rendeletben meghatározott kötelezettségek teljesítéséhez szükséges és az Üzemi és Kereskedelmi Szabályzat (a továbbiakban: ÜKSZ) vonatkozó rendelkezéseit kielégítő adatforgalmi és informatikai rendszerrel, mérő és adatátviteli eszközökkel,
+k)[^52] a 312/2014/EU bizottsági rendeletben meghatározott kötelezettségek teljesítéséhez szükséges és az Üzemi és Kereskedelmi Szabályzat (a továbbiakban: ÜKSZ) vonatkozó rendelkezéseit kielégítő adatforgalmi és informatikai rendszerrel, mérő és adatátviteli eszközökkel,
 
 l) a működési terület leírásával, azon belül a települések, településrészek, területek megjelölésével, ahol az elosztóvezetékről vételező felhasználási hely található,
 
@@ -40,6 +40,6 @@ d) a földgázipari vállalkozások és a felhasználók egyenlő bánásmódban
 
 (4) A földgázelosztó a (3) bekezdés szerinti megkülönböztetés-mentes bánásmód keretében köteles biztosítani különösen az információhoz egyenlő feltételekkel történő hozzáférést, tekintet nélkül arra, hogy a felhasználók és vállalkozások az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, földgáz kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók, vagy más, önálló vállalkozások, illetve felhasználók.
 
-[^49]: A Vhr. 7. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^50]: A Vhr. 7. § (1) bekezdés j) pontja a 91/2015. (IV. 9.) Korm. rendelet 21. § 2. pontja szerint módosított szöveg.
-[^51]: A Vhr. 7. § (1) bekezdés k) pontja a 91/2015. (IV. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^50]: A Vhr. 7. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^51]: A Vhr. 7. § (1) bekezdés j) pontja a 91/2015. (IV. 9.) Korm. rendelet 21. § 2. pontja szerint módosított szöveg.
+[^52]: A Vhr. 7. § (1) bekezdés k) pontja a 91/2015. (IV. 9.) Korm. rendelet 3. §-ával megállapított szöveg.

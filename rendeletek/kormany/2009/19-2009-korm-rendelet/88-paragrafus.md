@@ -1,4 +1,4 @@
-88. §[^294] (1) Hosszú távú kapacitáslekötés esetén a határkeresztező gázvezetéken földgázt betápláló rendszerhasználó, továbbá a termelő kötelesek minden év december 31-ig az ÜKSZ-ben meghatározott módon megadni a szállítási rendszerüzemeltetőnek a következő gázévben a határkeresztező gázvezeték, a földgáztárolói és a termelői betáplálási pontokon a földgáz betáplálás során általuk garantált földgáz minőségi jellemzőket.
+88. §[^295] (1) Hosszú távú kapacitáslekötés esetén a határkeresztező gázvezetéken földgázt betápláló rendszerhasználó, továbbá a termelő kötelesek minden év december 31-ig az ÜKSZ-ben meghatározott módon megadni a szállítási rendszerüzemeltetőnek a következő gázévben a határkeresztező gázvezeték, a földgáztárolói és a termelői betáplálási pontokon a földgáz betáplálás során általuk garantált földgáz minőségi jellemzőket.
 
 (2) Ha az (1) bekezdés szerinti minőségi jellemzők nem felelnek meg a 11. számú mellékletben foglalt gázminőségi paramétereknek, akkor a szállítási rendszerüzemeltető a szállítást megtagadhatja.
 
@@ -6,4 +6,4 @@
 
 (4) A minőségi eltérések kezelésének részletes szabályait az ÜKSZ tartalmazza.
 
-[^294]: A Vhr. 88. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^295]: A Vhr. 88. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
