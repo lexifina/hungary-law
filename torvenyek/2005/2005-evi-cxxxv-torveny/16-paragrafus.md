@@ -1,6 +1,6 @@
 ## Nyilvántartás
 
-16. § (1) Az áldozatsegítő szolgálat a tájékoztatásokról és a támogatásokról – a kérelmek elbírálása, a visszatérítési kötelezettség teljesítésének ellenőrzése, valamint megyei és országos statisztikai adatgyűjtés érdekében – nyilvántartást vezet.
+16. § (1) Az áldozatsegítő szolgálat a támogatásokról – a kérelmek elbírálása, a visszatérítési kötelezettség teljesítésének ellenőrzése, valamint megyei és országos statisztikai adatgyűjtés érdekében – nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
 
@@ -28,7 +28,7 @@ d) a támogatásra vonatkozó adatokat:
 
 8. a közreműködő szervezetek nevei.
 
-(3) Az áldozatsegítő szolgálat a nyilvántartásban rögzített adatokat a tájékoztatás napjától vagy a kérelem előterjesztésétől számított 10 évig tartja nyilván és kezeli.
+(3) Az áldozatsegítő szolgálat a nyilvántartásban rögzített adatokat az áldozatsegítő szolgálathoz fordulás napjától vagy a kérelem előterjesztésétől számított 10 évig tartja nyilván és kezeli.
 
 (4) Az áldozatsegítő szolgálat a nyilvántartás adatairól megkeresésre tájékoztatást ad a büntető-, szabálysértési vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, a szabálysértési ügyben eljáró szabálysértési hatóság, valamint a jogi segítő számára.
 

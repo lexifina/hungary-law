@@ -4,4 +4,4 @@
 
 (2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. Ha a feltárt körülmény a kiskorú életét, testi épségét súlyosan veszélyezteti, a jelzéssel egyidejűleg gyámhatósági eljárást kezdeményez.
 
-(3) Az áldozatsegítő hatóság a 9/A. § szerinti tájékoztatás megtörténtét követően – a büntetőeljárás adott szakaszában eljáró nyomozó hatóság, ügyész vagy bíróság egyidejű értesítése mellett – haladéktalanul kezdeményezi az idegenrendészeti hatóságnál a harmadik országbeli állampolgár ideiglenes tartózkodásra jogosító igazolással történő ellátását.
+(3) Az áldozatsegítő szolgálat a 24. § (3) bekezdése szerinti tájékoztatás megtörténtét követően – a büntetőeljárás adott szakaszában eljáró nyomozó hatóság, ügyész vagy bíróság egyidejű értesítése mellett – haladéktalanul kezdeményezi az idegenrendészeti hatóságnál a harmadik országbeli állampolgár ideiglenes tartózkodásra jogosító igazolással történő ellátását.

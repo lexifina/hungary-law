@@ -1,0 +1,1 @@
+26/A. § Az áldozatsegítő szolgálat az eset összes körülményének mérlegelése után az azt igénylő áldozatnak – a 28. § (2) bekezdésében meghatározott kivétellel – jogi tanácsot és segítséget ad a sérelem rendezéséhez.

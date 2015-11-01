@@ -2,7 +2,7 @@
 
 5. § Nem kaphat szolgáltatást az az áldozat, aki
 
-a) a kért támogatást az ügyben korábban már megkapta, kivéve a védett szálláshelyet,
+a) a kért támogatást az ügyben korábban már megkapta, kivéve a tanúgondozást és a védett szálláshelyet,
 
 b) korábbi támogatás iránti ügyében valótlan adatot szolgáltatott, az ezt megállapító határozat jogerőre emelkedésétől számított 2 évig,
 

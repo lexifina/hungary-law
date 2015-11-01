@@ -4,7 +4,7 @@
 
 ## A törvény hatálya
 
-1. § (1) E törvény alkalmazásában áldozat a Magyarország területén elkövetett bűncselekmény és a Magyarország területén elkövetett tulajdon elleni szabálysértés természetes személy sértettje, valamint az a természetes személy, aki a Magyarország területén elkövetett bűncselekmény vagy a Magyarország területén elkövetett tulajdon elleni szabálysértés közvetlen következményeként sérelmet, így különösen testi vagy lelki sérülést, érzelmi megrázkódtatást, illetve vagyoni kárt szenvedett el, ha
+1. § (1) E törvény alkalmazásában áldozat a Magyarország területén elkövetett bűncselekmény és a Magyarország területén elkövetett tulajdon elleni szabálysértés természetes személy sértettje, valamint az a természetes személy, aki a Magyarország területén elkövetett bűncselekmény vagy a Magyarország területén elkövetett tulajdon elleni szabálysértés közvetlen következményeként hátrányt, így különösen testi vagy lelki sérülést, érzelmi megrázkódtatást, illetve vagyoni kárt szenvedett el, ha
 
 a) magyar állampolgár,
 

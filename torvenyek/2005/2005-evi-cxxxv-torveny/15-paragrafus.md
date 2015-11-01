@@ -20,7 +20,7 @@ b) ha a cselekmény tulajdon elleni szabálysértés és ezt az erre hatáskörr
 
 (2a) A biztosító a támogatás iránti kérelmet érdemben elbíráló határozat jogerőre emelkedését követő 3 éven belül, az (1) bekezdés c) pontjában meghatározott feltétel meglétének vizsgálata érdekében megküldött megkeresésre tájékoztatja az áldozatsegítő szolgálatot a biztosítási titokról.
 
-(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező jogerős határozat kézhezvételétől számított 30 napon belül az „áldozatsegítés” elnevezésű célelőirányzat javára megfizetni.
+(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott „bűncselekmények áldozatainak kárenyhítése” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
 
 (4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb hat hónap halasztást vagy részletfizetést engedélyezhet.
 

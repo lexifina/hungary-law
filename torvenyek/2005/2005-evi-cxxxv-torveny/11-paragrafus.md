@@ -34,7 +34,7 @@ c) a büntetőeljárásra vonatkozó adatok közül
 
 ca) a büntetőeljárás befejezésének az eredményét (büntetőeljárás megszüntetése, felmentés vagy büntetőjogi felelősség megállapítása),
 
-cb) a büntetőeljárás megszüntetése esetén a megszüntetés a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 190. § (1) bekezdésében, 192. § (1)–(2) bekezdésében, 192/A. § (1) bekezdésében vagy 267. § (1) bekezdésében meghatározott indokát a törvényhely pontos megjelölésével,
+cb) a büntetőeljárás megszüntetése esetén a megszüntetés a Be. 190. § (1) bekezdésében, 192. § (1)–(2) bekezdésében, 192/A. § (1) bekezdésében vagy 267. § (1) bekezdésében meghatározott indokát a törvényhely pontos megjelölésével,
 
 cc) ítélet és tárgyalás mellőzésével hozott végzés esetén a bűncselekménynek a Be. 258. § (2) bekezdés d) pontja szerinti megjelölését, felmentő ítélet esetén továbbá azt, ha a vádlott kényszergyógykezelését a bíróság elrendelte,
 

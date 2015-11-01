@@ -1,21 +1,29 @@
 ## Az engedélyezés iránti kérelem
 
-10. § (1) Az ügyfél tájékoztatásért, az áldozat tájékoztatásért és érdekérvényesítése elősegítéséért bármely áldozatsegítő szolgálathoz fordulhat. Az áldozat azonnali pénzügyi segély, jogi segítségnyújtás és kárenyhítés iránti kérelmét bármely áldozatsegítő szolgálatnál előterjesztheti.
+10. § (1) Az áldozat érdekérvényesítése elősegítéséért bármely áldozatsegítő szolgálathoz fordulhat.
 
-(2) Az azonnali pénzügyi segély, a jogi segítségnyújtás és a kárenyhítés iránti kérelmet egy példányban, az erre a célra rendszeresített nyomtatvány (a továbbiakban: nyomtatvány) kitöltésével kell benyújtani. A nyomtatvány kitöltéséhez az áldozatsegítő szolgálat segítséget nyújt.
+(1a) Az áldozat azonnali pénzügyi segély, áldozati státusz igazolása és kárenyhítés iránti kérelmét bármely áldozatsegítő szolgálatnál előterjesztheti.
+
+(2) Az azonnali pénzügyi segély, az áldozati státusz igazolása és a kárenyhítés iránti kérelmet egy példányban, az erre a célra rendszeresített nyomtatvány (a továbbiakban: nyomtatvány) kitöltésével kell benyújtani. A nyomtatvány kitöltéséhez az áldozatsegítő szolgálat segítséget nyújt.
 
 (3) A kérelemben meg kell jelölni
 
 a) az áldozat természetes személyazonosító adatait, lakcímét és állampolgárságát,
 
-b) a kérelem benyújtásának alapjául szolgáló bűncselekményre, illetve szabálysértésre vonatkozó adatokat (a bűncselekmény, illetve a szabálysértés megnevezése, a bűncselekmény, illetve a szabálysértés elkövetésének helye, időpontja és lényeges körülményei),
+b) a kérelem benyújtásának alapjául szolgáló bűncselekményre, illetve szabálysértésre vonatkozó adatokat (a bűncselekmény, illetve a szabálysértés megnevezése, elkövetésének helye, időpontja és lényeges körülményei),
 
-c) azt, hogy a b) pontban megjelölt bűncselekmény, illetve szabálysértés az áldozat számára milyen sérelemmel, így különösen testi vagy lelki sérüléssel, érzelmi megrázkódtatással, illetve vagyoni kárral járt,
+c) azt, hogy a b) pontban megjelölt bűncselekmény, illetve szabálysértés az áldozat számára milyen hátránnyal, így különösen testi vagy lelki sérüléssel, érzelmi megrázkódtatással, illetve vagyoni kárral járt,
 
 d) az igényelt támogatás fajtáját,
 
 e) azt, hogy a korábban igénybe vett támogatásokkal kapcsolatban terheli-e az áldozatot az állammal szemben visszafizetési kötelezettség,
 
-f) azt, hogy az áldozattal szemben az igényelt támogatás nyújtását kizáró ok fennáll-e.
+f) azt, hogy az áldozattal szemben az igényelt támogatás nyújtását kizáró ok fennáll-e, és
 
-(4) A 11. § szerinti igazolást az áldozat a kérelemhez csatolhatja, ha azzal rendelkezik. Ha az áldozat a kérelméhez nem csatolja a 11. § szerinti igazolást, azt az áldozatsegítő szolgálat a kérelem benyújtását követően haladéktalanul beszerzi. A 2. § (1) bekezdése esetén az áldozatnak kérelméhez a megfelelő dokumentumokat csatolnia kell.
+g) az áldozat szükségleteihez igazodó támogatás nyújtásához szükséges személyes adatot.
+
+(4) A kárenyhítés iránti kérelemben a (3) bekezdés g) pontja, az áldozati státusz igazolása iránti kérelemben a (3) bekezdés c) és g) pontja szerinti adatot nem kell megjelölni.
+
+(5) A feljelentés, illetve a feljelentés megtételét igazoló irat másolatát, a 11. § szerinti igazolást, az 1. § (3) bekezdésében meghatározott okból a feljelentést elutasító, a nyomozást megszüntető vagy az eljárást megszüntető döntés másolatát, továbbá az ítéletet az áldozat a kérelemhez csatolhatja, ha azzal rendelkezik.
+
+(6) Kárenyhítés iránti kérelem esetén a 11. § szerinti igazolás hiányában minden esetben, az azonnali pénzügyi segély vagy az áldozati státusz igazolása iránti kérelem esetén pedig akkor, ha az áldozat a kérelméhez nem csatolja az (5) bekezdésben felsorolt iratok valamelyikét, illetve ha azokból nem állapítható meg, hogy a kérelmező az 1. § szerint áldozatnak minősül-e, az áldozatsegítő szolgálat a kérelem benyújtását követően haladéktalanul beszerzi a 11. § szerinti igazolást. A 2. § (1) és (1a) bekezdése esetén az azonnali pénzügyi segély vagy az áldozati státusz igazolása iránt benyújtott kérelemben az áldozatnak – a megfelelő dokumentumokat csatolva – igazolnia kell azt, hogy bűncselekmény áldozatává vált.

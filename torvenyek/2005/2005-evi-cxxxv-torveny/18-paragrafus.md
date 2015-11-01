@@ -1,1 +1,1 @@
-18. §
+18. § Az áldozatsegítő szolgálat 40. § szerinti eljárása során, a nyomtatvány kitöltésével kapcsolatban felmerülő fordítás költségét az adott tagállam döntő hatósága előtti eljárásban használható nyelvet nem ismerő ügyfél helyett a célelőirányzat terhére az áldozatsegítő szolgálat viseli.
