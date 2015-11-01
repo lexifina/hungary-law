@@ -1,6 +1,5 @@
-28. § (1)[^6]
+28. § (1)[^7]
 
-(2)[^7]
+(2) Hatályát veszti az R. 3/A. § (1) bekezdése.
 
-[^6]: A 28. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 28. § (2) bekezdése a 27. § (3) bekezdése alapján 2015. november 1-jén lép hatályba.
+[^7]: A 28. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
