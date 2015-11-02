@@ -1,5 +1,3 @@
-## Hozzájáruló nyilatkozat
-
 | Alulírott .................................................................................................................................................(név) |
 
 | (születési hely, idő: ..............................................., anyja születési neve: ...................................................), |
@@ -34,6 +32,8 @@
 
 | (sz. ig. sz.) | (sz. ig. sz.) |
 
-5. melléklet a 142/2012. (XII. 27.) VM rendelethez[^18]
+5. melléklet a 142/2012. (XII. 27.) VM rendelethez[^19]
 
-[^18]: Az 5. melléklet a 12/2014. (II. 21.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+Ültetvényleltár
+
+[^19]: Az 5. melléklet a 12/2014. (II. 21.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.

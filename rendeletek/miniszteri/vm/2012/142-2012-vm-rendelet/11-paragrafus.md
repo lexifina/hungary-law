@@ -4,7 +4,7 @@
 
 (2) Az MVH a 2013/2014 borpiaci évtől kezdődően benyújtott egyéni terveket a beérkezés sorrendjében az adott borpiaci év február 28-ig bírálja el.
 
-(3)[^5] Az MVH az egyéni terveket 100 000 000 euró összeg erejéig hagyja jóvá.
+(3)[^6] Az MVH az egyéni terveket 100 000 000 euró összeg erejéig hagyja jóvá.
 
 (4) Az MVH a (3) bekezdése szerinti keretösszegen felül benyújtott egyéni tervet elutasítja.
 
@@ -26,4 +26,4 @@ a) azon egyéni tervek tekintetében, amelyek hiánytalanul érkeztek be, az egy
 
 b) azon egyéni tervek tekintetében, amelyek hiányosan érkeztek be, az utolsó hiánypótlás beérkezésének időpontja.
 
-[^5]: A 11. § (3) bekezdése a 12/2014. (II. 21.) VM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 11. § (3) bekezdése a 12/2014. (II. 21.) VM rendelet 3. §-ával megállapított szöveg.

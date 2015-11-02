@@ -1,3 +1,5 @@
+## 2K37044_0
+
 |  | A | B | C | D | E | F | G | H |
 
 | 1 | Hektáronkénti támogatási összegek |
@@ -92,7 +94,7 @@
 
 2. melléklet a 142/2012. (XII. 27.) VM rendelethez
 
-## Az 1083/2006/EK tanácsi rendelet értelmében konvergenciarégióba nem tartozó települések
+Az 1083/2006/EK tanácsi rendelet értelmében konvergenciarégióba nem tartozó települések
 
 1. Albertirsa
 

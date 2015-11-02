@@ -12,7 +12,7 @@ d) az egyéni tervben megjelölt terület termőhelyi kataszterbe nem sorolt ter
 
 e) az egyéni tervben megjelölt terület nem borvidéki településen fekszik;
 
-f)[^6] megállapítást nyer, hogy a kérelmezett területre, területekre vonatkozóan az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt illetve;
+f)[^7] megállapítást nyer, hogy a kérelmezett területre, területekre vonatkozóan az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt illetve;
 
 g) az ültetvény telepítése az egyéni terv benyújtását megelőző borpiaci év előtt történt.
 
@@ -28,9 +28,9 @@ d) az egyéni tervben megjelölt valamely terület termőhelyi kataszterbe nem s
 
 e) az egyéni tervben megjelölt valamely terület nem borvidéki településen fekszik;
 
-f)[^7] megállapítást nyer, hogy valamely kérelmezett területre, területekre vonatkozóan az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt illetve;
+f)[^8] megállapítást nyer, hogy valamely kérelmezett területre, területekre vonatkozóan az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt illetve;
 
 g) valamely kérelmezett területre, területekre vonatkozóan ültetvény telepítése az egyéni terv benyújtását megelőző borpiaci év előtt történt.
 
-[^6]: A 13. § (1) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 6. § b) pontja szerint módosított szöveg.
-[^7]: A 13. § (2) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 6. § c) pontja szerint módosított szöveg.
+[^7]: A 13. § (1) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 6. § b) pontja szerint módosított szöveg.
+[^8]: A 13. § (2) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 6. § c) pontja szerint módosított szöveg.

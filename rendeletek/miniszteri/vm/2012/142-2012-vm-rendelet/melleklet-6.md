@@ -1,5 +1,3 @@
-## Ültetvényleltár
-
 | Ültetvény helye (helység, helyrajzi szám): |
 
 | Sortávolság: | méter |
@@ -7,6 +5,8 @@
 | Tőtávolság: | méter |
 
 | Művelésmód: |
+
+## 4K02497_1
 
 | Sorok száma | Tőállomány | A felhasznált fajta neve*** |
 
