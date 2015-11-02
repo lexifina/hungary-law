@@ -1,4 +1,4 @@
-## 11. §[^69] A 4. számú mellékletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 13.) FM rendelettel [a továbbiakban: 23/2015. (V. 13.) FM rendelet] megállapított rendelkezéseit a 23/2015. (V. 13.) FM rendelet hatálybalépésekor[^70] folyamatban lévő ügyekben is alkalmazni kell.
+## 11. §[^71] A 4. számú mellékletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 13.) FM rendelettel [a továbbiakban: 23/2015. (V. 13.) FM rendelet] megállapított rendelkezéseit a 23/2015. (V. 13.) FM rendelet hatálybalépésekor[^72] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^69]: A 11. §-t újonnan a 23/2015. (V. 13.) FM rendelet 4. § (2) bekezdése iktatta be.
-[^70]: A hatálybalépés időpontja 2015. május 14.
+[^71]: A 11. §-t újonnan a 23/2015. (V. 13.) FM rendelet 4. § (2) bekezdése iktatta be.
+[^72]: A hatálybalépés időpontja 2015. május 14.
