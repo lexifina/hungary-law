@@ -1,3 +1,3 @@
-7. melléklet a 323/2015. (X. 30.) Korm. rendelethez
+7. melléklet a 323/2015. (X. 30.) Korm. rendelethez[^24]
 
-Az R13. 6. melléklet III. fejezet 1.2.2. pontjában az „a közbeszerzésekről szóló törvény” szöveg helyébe az „a Kbt.” szöveg lép.
+[^24]: Az 1–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
