@@ -1,3 +1,0 @@
-## 11. § Az 1/2006. (I. 6.) IM rendelet 20. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a területi áldozatsegítő szolgálat visszatérítésre okot adó tényről, körülményről szerez tudomást, akkor tizenöt napon belül döntést hoz arról, hogy az áldozatnak a pénzben nyújtott támogatást vissza kell-e térítenie. A visszatérítési kötelezettséget készpénz-átutalási megbízással vagy banki átutalással kell teljesíteni. A visszatérítésre kötelező döntésben meg kell jelölni a kötelezettség banki átutalással való teljesítéséhez szükséges adatokat. Banki átutalással történő teljesítés esetén az átutalás banki költségei a visszatérítésre kötelezettet terhelik, amire őt figyelmeztetni kell.”

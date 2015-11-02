@@ -1,3 +1,0 @@
-## 9. § Az 1/2006. (I. 6.) IM rendelet 15. §-a helyébe a következő rendelkezés lép:
-
-## „15. § Ha a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben meghatározott jogi segítségnyújtásra van szükség, és a kérelmező az Ást. hatálya alá tartozó és áldozatsegítési támogatásban részesíthető áldozatnak minősül, az áldozati státusz igazolását, továbbá az annak kiadásának alapjául szolgáló bizonyíték másolatát, és – ha rendelkezésre áll – a jogi segítségnyújtási nyomtatványt az ügyfél által csatolt mellékletekkel a területi áldozatsegítő szolgálat haladéktalanul továbbítja az ügyfél választása szerinti illetékes jogi segítségnyújtó szolgálatnak.”
