@@ -1,0 +1,5 @@
+32. § (1) A Kbt. Negyedik Része alkalmazásában a Kbt. 5. §-a, illetve 6–7. §-a szerinti ajánlatkérők esetében, a Kbt. 3. melléklete szerinti szociális és egyéb szolgáltatások esetében a koncessziós beszerzési eljárás hirdetmény mintáját az uniós hirdetményminta rendelet XX. melléklete tartalmazza.
+
+(2) A Kbt. Negyedik Része alkalmazásában a Kbt. 5. §-a, illetve 6–7. §-a szerinti ajánlatkérők esetében, ha a koncessziós beszerzési eljárás becsült értéke eléri az uniós értékhatárt, a koncessziós beszerzési eljárást megindító felhívás mintáját az uniós hirdetményminta rendelet XXI. melléklete tartalmazza.
+
+(3) A Kbt. Negyedik Része alkalmazásában a Kbt. 5. §-a, illetve 6–7. §-a szerinti ajánlatkérők esetében, ha a koncessziós beszerzési eljárás becsült értéke eléri az uniós értékhatárt, a hirdetmény visszavonásáról, a koncessziós beszerzési eljárás eredménytelenségéről, a szerződés megkötésének megtagadásáról, illetve a koncessziós beszerzési eljárás eredményéről szóló tájékoztatót tartalmazó hirdetmény mintáját az uniós hirdetményminta rendelet XXII. melléklete tartalmazza.

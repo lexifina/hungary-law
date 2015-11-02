@@ -1,0 +1,1 @@
+## 3. § Az Értesítő a Hatóság által meghatározott rendszerességgel jelenik meg. Az Értesítő szerkesztése és kiadása során biztosítani kell a hirdetményeknek a közbeszerzésekről szóló 2015. évi CXLIII. törvényben (a továbbiakban: Kbt.) és e rendeletben meghatározott határidőknek megfelelő közzétételét.

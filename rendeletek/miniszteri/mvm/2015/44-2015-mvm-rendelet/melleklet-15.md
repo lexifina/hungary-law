@@ -1,0 +1,95 @@
+## VI.1) További információk: 2
+
+| VI.1.1) A szerződéskötési moratórium időtartama Kezdete: (éééé/hh/nn) / Lejárata: (éééé/hh/nn) |
+
+| VI.1.2) Az összegezés elkészítésének időpontja: (éééé/hh/nn) |
+
+| VI.1.3) Az összegezés megküldésének időpontja: (éééé/hh/nn) |
+
+| VI.1.4) Az összegezés módosításának indoka: 2 |
+
+| VI.1.5) Az összegezés módosításának időpontja: 2 (éééé/hh/nn) |
+
+| VI.1.6) A módosított összegezés megküldésének időpontja: 2 (éééé/hh/nn) |
+
+| VI.1.7) Az összegezés javításának indoka: 2 |
+
+| VI.1.8) Az összegezés javításának időpontja: 2 (éééé/hh/nn) |
+
+| VI.1.9) A javított összegezés megküldésének időpontja: 2 (éééé/hh/nn) |
+
+| VI.1.10) További információk: 2 |
+
+## _________________________________________________________________________________________________________
+
+## 1 szükség szerinti számban ismételje meg
+
+## 2 adott esetben
+
+15. melléklet a 44/2015. (XI. 2.) MvM rendelethez
+
+KÖZBESZERZÉSI ADATBÁZIS
+
+## Összegezés a részvételi jelentkezések elbírálásáról
+
+I. szakasz: Ajánlatkérő
+
+## I.1) Név és címek 1 (jelölje meg az eljárásért felelős összes ajánlatkérőt)
+
+| Hivatalos név: |
+
+| Postai cím: |
+
+| Város: | Postai irányítószám: |
+
+II. szakasz: Tárgy
+
+## II.1) Meghatározás
+
+| II.1.1) A közbeszerzés tárgya: |
+
+## II.2) A közbeszerzés mennyisége
+
+| II.2.1) A közbeszerzés mennyisége: |
+
+IV. szakasz: Eljárás
+
+## IV.1) Meghatározás
+
+| IV.1.1) A Kbt. mely része, illetve fejezete szerinti eljárás került alkalmazásra: |
+
+| IV.1.2) Az eljárás fajtája: |
+
+## IV.2) Adminisztratív információk
+
+| IV.2.1) Az adott eljárásra vonatkozó korábbi közzététel 2 A hirdetmény száma a Hivatalos Lapban: 1 [ ][ ][ ][ ]/S [ ][ ][ ]–[ ][ ][ ][ ][ ][ ][ ] A hirdetmény száma a Közbeszerzési Értesítőben: 1 [ ][ ][ ][ ][ ]/[ ][ ][ ][ ] (KÉ-szám/évszám) |
+
+| IV.2.2) A közvetlen részvételi felhívás megküldésének napja: 2 (éééé/hh/nn) |
+
+V. szakasz: Az eljárás, illetve részvételi szakasz eredménye 1
+
+## Rész száma: 2 [ ] Elnevezés:
+
+## A részvételi szakasz eredményes volt ○ igen ○ nem
+
+## V.1 Eredménytelen eljárással kapcsolatos információ 2
+
+| V.1.1) A befejezetlen eljárás oka ⬜A közbeszerzési eljárást eredménytelennek minősítették. Az eredménytelenség indoka: |
+
+| V.1.2) A befejezetlen eljárást követően indul-e új eljárás ○igen ○nem |
+
+| V.1.3) Az érvényes részvételi jelentkezést benyújtók 2 Részvételre jelentkezők neve és címe alkalmasságuk indokolása és ajánlatuknak az értékelési szempont szerinti tartalmi eleme(i): |
+
+| V.1.4) Az érvénytelen részvételi jelentkezést benyújtók 2 Az érvénytelen részvételre jelentkezők neve, címe és az érvénytelenség indoka: |
+
+## V.2 A részvételi szakasz eredménye 2
+
+| V.2.1) Részvételi jelentkezésekre vonatkozó információk A beérkezett jelentkezések száma: [ ] |
+
+| V.2.2) Az alkalmas és érvényes részvételi jelentkezést benyújtók Részvételre jelentkezők neve és címe alkalmasságuk és minősítésük indoka: |
+
+| V.2.3) Az alkalmatlan és érvénytelen részvételi jelentkezést benyújtók Alkalmatlan és egyéb okból érvénytelen részvételre jelentkezők neve és címe és minősítésük indoka: |
+
+| V.2.4) Ajánlattételre felhívni kívánt jelentkezők neve és címe: |
+
+VI. szakasz: Kiegészítő információk
