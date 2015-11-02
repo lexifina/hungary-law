@@ -8,9 +8,9 @@ c) termelői csoport: a termelői csoportokról szóló 81/2004. (V. 4.) FVM ren
 
 d)[^1] negyedév: a vágósertéseknek, illetve a tenyészkoca süldőknek a számlán, felvásárlási jegyen vagy belső bizonylaton feltüntetett értékesítési időpontja, amennyiben ez nem szerepel, úgy a számla, felvásárlási jegy vagy belső bizonylat teljesítésének időpontja szerinti naptári negyedév.
 
-(2)[^2] Sertéstenyésztés során az előírásokon túlmutató kötelezettségvállalás ellentételezésére a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) támogatást hirdet.
+(2)[^2]
 
-(3)[^3] E rendelet alapján, amennyiben e rendelet hatálybalépését követően a vágósertés tartása során
+(3)[^3] E rendelet alapján – ha az e rendeletben meghatározott egyéb feltételek teljesülnek – a vágósertés és tenyészkoca süldő (a továbbiakban együttesen: vágósertés) tartása során az előírásokon túlmutató állatjóléti kötelezettségvállalás ellentételezésére vissza nem térítendő támogatás vehető igénybe
 
 a) az előírtnál legalább 10%-kal nagyobb férőhely,
 
@@ -18,7 +18,7 @@ b) a tartási rendszerben természetes feltétel,
 
 c) legalább 9 órán át természetes vagy legalább 11 órán át mesterséges fény,
 
-d) a verekedések, kimarások megelőzéséhez szükséges feltételek,
+d) a verekedés, kimarás megelőzéséhez szükséges feltételek,
 
 e) a takarmányozáshoz ivóvíz minőségű víz,
 
@@ -26,7 +26,7 @@ f) az almozás, vagy
 
 g) a megfelelő mikroklíma
 
-## biztosítása történik, e rendeletben meghatározott egyéb feltételek teljesítése esetén, támogatás vehető igénybe.
+## biztosítására.
 
 (4) A vágósertés, a tenyészkoca süldő egyedenként 0,3 állategységnek felel meg.
 
@@ -38,13 +38,13 @@ g) a megfelelő mikroklíma
 
 (7)[^7] Amennyiben az adott támogatási évre vonatkozóan a jogos igény a (6) bekezdés szerinti összeget meghaladja, úgy a támogatás összege a túligénylés által érintett negyedévre vonatkozóan benyújtott kérelmek között a túllépés mértékével arányosan csökken.
 
-(8)[^8] A támogatás folyósítását a Vidékfejlesztési Minisztérium fejezeti kezelésű, 10032000-01220191-51200002 számú Folyó kiadások és jövedelemtámogatások előirányzat-felhasználási keretszámláról kell teljesíteni.
+(8)[^8] A támogatás folyósítását a Földművelésügyi Minisztérium fejezeti kezelésű, 10032000-01220191-51200002 számú Folyó kiadások és jövedelemtámogatások előirányzat-felhasználási keretszámláról kell teljesíteni.
 
 [^1]: Az 1. § (1) bekezdés d) pontját a 33/2014. (IV. 4.) VM rendelet 11. § (1) bekezdése iktatta be.
-[^2]: Az 1. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 82. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (3) bekezdésének záró szövegrésze a 80/2008. (VI. 24.) FVM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
+[^2]: Az 1. § (2) bekezdését az 58/2015. (IX. 24.) FM rendelet 11. §-a hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdése az 58/2015. (IX. 24.) FM rendelet 6. §-ával megállapított szöveg.
 [^4]: Az 1. § (5) bekezdésében az „a 2007-es támogatási évben e rendelet hatálybalépése és 2007. december 31. között, az ezt követő támogatási években” szövegrész e rendelet 10. § (2) bekezdése alapján hatályát vesztette 2008. január 1. napján.
 [^5]: Az 1. § (6) bekezdése a 33/2014. (IV. 4.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (6a) bekezdését a 111/2012. (X. 29.) VM rendelet 5. § (1) bekezdése iktatta be, hatályon kívül helyezte a 33/2014. (IV. 4.) VM rendelet 23. §-a.
 [^7]: Az 1. § (7) bekezdése a 33/2014. (IV. 4.) VM rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 82. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (8) bekezdése az 58/2015. (IX. 24.) FM rendelet 10. § b) pontja szerint módosított szöveg.

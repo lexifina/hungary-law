@@ -1,66 +1,64 @@
-## A támogatási kérelem adattartalma és a csatolandó mellékletek a 140/2007. (XI. 28.) FVM rendelet alapján
+## A támogatási kérelem adattartalma és a csatolandó mellékletek
 
-## 1. Az igénylő azonosító-adatai.
+## 1. Az ügyfél azonosító adatai.
 
-## 1.1.[^45] Ügyfél-azonosító.
+## 1.1. Ügyfél-azonosító.
 
-## 2. Támogatás jogcímének meghatározás.
+## 1.2. A mezőgazdasági termelő vállalkozás 702/2014/EU bizottsági rendelet I. melléklete szerinti üzemmérete
 
-## 2.1. a vágósertés/tenyészkoca süldő darabszáma.
+## (KKV besorolása) vagy nyilatkozat a nagyvállalkozói minőségről.
 
-## 2.2. igénylő meghatározása (alapanyag-termelő, bérhízlaló/bérnevelő, bérhízlaltató/bérneveltető).
+## 2. Támogatás jogcímének meghatározása.
 
-## 3. Az igényelt támogatás összesen (Ft).
+## 2.1. Tartási hely azonosító vagy azonosítók.
 
-## 4. Az igénylő nyilatkozata arról, hogy
+## 2.2. Az igényelt támogatás adatai: a támogatás jogcíme, a baromfi megnevezése, a támogatás alapja (db), az igényelt mennyiség (ÁE), az igényelt támogatás összege (Ft) támogatási igény összesen (Ft).
 
-## 4.1.[^46] csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiséggel nem rendelkező szervezet vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó;
+## 2.3. A tevékenységekre vonatkozó kötelezettségvállalás és a hozzá kapcsolódó baromfi darabszám, valamint állategység – egy tizedes jegy pontossággal – megjelölése tartási helyenként.
 
-## 4.2. nincs adó-, vám-, egészség-, nyugdíj-, társadalombiztosítási járuléktartozása;
+## 3. Nyilatkozatok.
 
-## 4.3. az érintett termékpályán működő, olyan államilag elismert termelői csoport, BÉSZ, tenyésztő szervezet, terméktanács vagy szakmai szervezet tagja, amely nyitott tagsággal működik;
+## 4. Keltezés, igénylő (cégszerű) aláírása.
 
-## 4.4. eleget tett a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 116/2003. (XI. 18.) FVM rendelet előírásainak;
+## 5. Az állatállományt felügyelő vagy kezelő állatorvos igazolása arról, hogy a kérelemben megjelölt támogatási igény megalapozott.
 
-## 4.5. megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok feltételeinek;
+## 6. Keltezés, állatállományt felügyelő/kezelő állatorvos aláírása.
 
-## 4.6.[^47] hozzájárul ahhoz, hogy a támogatásra való jogosultság ellenőrzése és a támogatás folyósítása érdekében a szükséges mértékig és időtartamban a Nemzeti Adó- és Vámhivatal, az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár az általa közölt adatokat felhasználja;
+## 7. Mellékletek:
 
-## 4.7. a kérelem benyújtásakor agrár- vagy agrár-vidékfejlesztési támogatás jogosulatlan igénybevétele miatt jogerős határozattal megállapított köztartozással nem rendelkezik;
+## 7.1. A megyei kormányhivatal igazolása – bűnügyi személyes adat közlésének kivételével – a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről.
 
-## 4.8. a támogatási kérelmében megjelölt állatjóléti tevékenységeket a támogatási kérelem benyújtásától számított legalább öt éven át folytatja;
+## 7.2. A termelői csoport, beszerzési és értékesítő szövetkezet, tenyésztő szervezet, az adott termékpályán működő terméktanács vagy szakmai szervezet tárgyévre vonatkozó tagsági igazolása.
 
-## 4.9. a támogatási kérelmen és a mellékleteken feltüntetett adatok a valóságnak megfelelnek.
+## 7.3. Takarmány nem kívánatos anyagtartalmának ellenőrzése esetén a 3. § (4) bekezdésében előírt dokumentumok.
 
-## 5. Keltezés, igénylő (cégszerű) aláírása.
+## 7.4. Mechanikai sérülés megelőzése esetén a 4. § (4) és (5) bekezdésében előírt dokumentumok.
 
-## 6. Az állatállományt felügyelő/kezelő állatorvos igazolása arról, hogy a kérelemben megjelölt támogatási igény megalapozott.
+## 7.5. Kíméletes állatmozgatás és szállítás biztosítása esetén az 5. § (4) és (5) bekezdésében előírt dokumentumok.
 
-## 7. Keltezés, állatállományt felügyelő/kezelő állatorvos aláírása.
+## 7.6. Állati fehérje-mentes takarmány használata esetén a 6. § (4) bekezdésében előírt dokumentumok.
 
-## 8. Mellékletek:
+## 7.7. Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok.
 
-## 8.1.[^48] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak igazolása – bűnügyi személyes adat közlésének kivételével – a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről;
+## 7.8. A naposkori letelepítés darabszámát, az átminősítéskori állatlétszámot és annak időpontját tartalmazó kezelő állatorvosi igazolás az 1. § (5) bekezdése szerint.
 
-## 8.2. Bérhízlaló/bérnevelő esetén a 2. § (6) bekezdésében előírt dokumentumok;
+## 7.9. Szakmai ellenőrzési lap a 2. § (5) bekezdés f) pontja szerint.
 
-## 8.3. Bérhízlaltató/bérneveltető esetén a 2. § (7) bekezdésében előírt dokumentumok;
+## 7.10. A 2. § (5) bekezdés g) pontja szerinti esetben az ugyanezen pontban meghatározott igazolás, amelynek az alapját jelentő elemzés adattartalma a következő:
 
-## 8.4. Nagyobb férőhely biztosítása esetén a 3. § (4) bekezdésében előírt dokumentumok;
+|  |  | A | B | C | D |
 
-## 8.5. Természetes feltétel biztosítása esetén a 4. § (4) bekezdésében előírt dokumentumok;
+|  | 1 |  | 1. § (2) bekezdés a)–e) pontja szerinti tevékenységek megvalósítása nélkül | 1. § (2) bekezdés a)–e) pontja szerinti tevékenységek megvalósításával támogatás nélkül | 1. § (2) bekezdés a)–e) pontja szerinti tevékenységek megvalósításával támogatással |
 
-## 8.6. Fény biztosítása esetén az 5. § (3) bekezdésében előírt dokumentumok;
+|  | 2 | Foglalkoztatottak létszáma fő |  |  |  |
 
-## 8.7.[^49] Verekedések, kimarások megelőzése esetén a 6. § (6) bekezdésében előírt dokumentumok.
+|  | 3 | Támogatásban érintett állatlétszám ÁE |  |  |  |
 
-## 8.8. Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok;
+|  | 4 | Üzemi tevékenység eredménye ezer Ft |  |  |  |
 
-## 8.9. Alom biztosítása esetén a 8. § (4) bekezdésében előírt dokumentumok;
+|  | 5 | a) minőségi adatok aa) takarmány nem kívánatos anyagtartalma mentességének mértéke; ab) takarmányozáshoz ivóvíz minősége; ac) hallisztmentes takarmány felhasználásának gyakorisága b) kíméletes állatmozgatás és szállítás c) mechanikai sérülések gyakorisága d) elhullások száma (ÁE) e) csökkent értékű értékesítés száma (ÁE) |  |  |  |
 
-## 8.10. Mikroklíma biztosítása esetén a 9. § (3) bekezdésében előírt dokumentumok.
-
-2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^50]
+2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^47]
 
 A takarmányozáshoz használt itatóvizet ivóvíz minőségűnek kell tekinteni, ha az igénylő a támogatási kérelemhez csatolja:
 
@@ -74,9 +72,4 @@ valamint az igénylő nyilatkozatát arról, hogy a víznyerőhely megfelelően 
 
 b) a vízszolgáltató írásos nyilatkozatát arról, hogy az általa szolgáltatott víz ivóvíz minőségű, ha a telepen az állatok vízellátása vezetékes vízhálózatról történik.
 
-[^45]: Az 1. számú melléklet 1. pont 1.1. alpontja a 33/2014. (IV. 4.) VM rendelet 22. §-ával megállapított szöveg.
-[^46]: Az 1. számú melléklet 4.1. pontja a 22/2014. (III. 14.) VM rendelet 51. §-a szerint módosított szöveg.
-[^47]: Az 1. számú melléklet 4.6. pontja a 70/2013. (VII. 31.) VM rendelet 82. § d)–e) pontja szerint módosított szöveg.
-[^48]: Az 1. számú melléklet 8.1. pontja a 70/2013. (VII. 31.) VM rendelet 82. § f) pontja szerint módosított szöveg.
-[^49]: Az 1. számú melléklet 8. pont 8.7. alpontja a 33/2014. (IV. 4.) VM rendelet 22. §-ával megállapított szöveg.
-[^50]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított szöveg.
+[^47]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított szöveg.
