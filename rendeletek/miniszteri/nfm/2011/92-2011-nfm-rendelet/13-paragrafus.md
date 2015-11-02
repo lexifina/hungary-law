@@ -1,3 +1,0 @@
-13. § (1) Amennyiben a hirdetmény ellenőrzésért felelős szervezeti egység a 10. § (6) bekezdés d) pontja szerinti ellenőrzés alapján a Kbt.-ben meghatározott határidők betartásával kapcsolatban mulasztást észlel, erről a tényről a Hatóság elnökét haladéktalanul írásban tájékoztatja.
-
-(2) Ha a hirdetmény ellenőrzésért felelős szervezeti egység a nyilvántartása alapján észleli, hogy a Kbt.-ben meghatározott határidőn belül az ajánlatkérő nem tett eleget a hirdetmény megküldésére vonatkozó kötelezettségének, írásban felhívja az ajánlatkérőt a hirdetmény megküldésére. Az ajánlatkérő felhívása nem érinti a jogorvoslat indítására a Kbt.-ben megállapított határidőket.
