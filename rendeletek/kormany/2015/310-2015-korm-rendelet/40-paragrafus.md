@@ -1,3 +1,5 @@
 ## való megfelelést szolgálja.
 
-40. § Hatályát veszti a tervpályázati eljárások szabályairól szóló 305/2011. (XII. 23.) Korm. rendelet.
+40. §[^1]
+
+[^1]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
