@@ -1,3 +1,0 @@
-## „e) az áldozatsegítési eljárásban érdekérvényesítés elősegítése szolgáltatás keretében személyre szabott tájékoztatást nyújt, és ennek érdekében megszakítás nélkül, folyamatosan működteti az erre a célra fenntartott, díjmentesen hívható Áldozatsegítő Vonalat,
-
-## f) háromévente adatot szolgáltat a miniszternek a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 28. cikke szerinti beszámoló elkészítéséhez.”
