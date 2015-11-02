@@ -14,8 +14,10 @@ dr. Mátrai Márta (Fidesz)
 
 Nyitrai Zsolt (Fidesz)
 
-Tuzson Bence (Fidesz)
+dr. Vitányi István (Fidesz)[^2]
 
 dr. Schiffer András (LMP)
 
 2. Ez a határozat az Abth. hatálybalépésének napján lép hatályba.
+
+[^2]: Az 51/2015. (XI. 6.) OGY határozat 1. pontjával megállapított szöveg.
