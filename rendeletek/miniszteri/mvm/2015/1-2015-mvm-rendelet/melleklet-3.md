@@ -30,7 +30,7 @@
 
 ## AZ ALAPKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
-## I. KÖZIGAZGATÁSI KÉPZÉSI ÁG[^4]
+## I. KÖZIGAZGATÁSI KÉPZÉSI ÁG[^7]
 
 ## 1. KÖZIGAZGATÁS-SZERVEZŐ ALAPKÉPZÉSI SZAK
 
@@ -2094,7 +2094,7 @@
 
 ## Az alapfokozat megszerzéséhez két idegen nyelvből - melyből legalább az egyik a NATO hivatalos nyelve - államilag elismert középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy egy államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány egy olyan nyelvből, melyen a szakmának tudományos szakirodalma van, vagy ezekkel egyenértékű érettségi bizonyítvány vagy okirat szükséges.
 
-3. melléklet az 1/2015. (I. 14.) MvM rendelethez[^5]
+3. melléklet az 1/2015. (I. 14.) MvM rendelethez[^8]
 
 A MESTERKÉPZÉSI SZAKOK JEGYZÉKE
 
@@ -2130,7 +2130,7 @@ A MESTERKÉPZÉSI SZAKOK JEGYZÉKE
 
 A MESTERKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
-[^6]
+[^9]
 
 1. KÖZIGAZGATÁSI MESTERKÉPZÉSI SZAK
 
@@ -4744,6 +4744,6 @@ A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek - felső
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 24 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított egy féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
-[^4]: A 2. melléklet I. 1.„Közigazgatási–szervező alapképzési szak” alcím 10. pontja a 6. §-ával megállapított szöveg.
-[^5]: A 3. melléklet „A MESTERKÉPZÉSI SZAKOK JEGYZÉKE” alcímet követő táblázat a 22/2015. (IV. 21.) MvM rendelet 1. §-ával megállapított szöveg.
-[^6]: A 3. melléklet 1.„Közigazgatási mesterképzési szak” alcím 10. pontja a 8. §-ával megállapított szöveg.
+[^7]: A 2. melléklet I. 1.„Közigazgatási–szervező alapképzési szak” alcím 10. pontja a 6. §-ával megállapított szöveg.
+[^8]: A 3. melléklet „A MESTERKÉPZÉSI SZAKOK JEGYZÉKE” alcímet követő táblázat a 22/2015. (IV. 21.) MvM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 3. melléklet 1.„Közigazgatási mesterképzési szak” alcím 10. pontja a 8. §-ával megállapított szöveg.
