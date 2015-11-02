@@ -1,4 +1,4 @@
-## 38. § Hatályát veszti az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet.
+## 38. §[^1]
 
 1. melléklet a 322/2015. (X. 30.) Korm. rendelethez
 
@@ -91,3 +91,5 @@
 2.3.3. részlettervek, az építmény olyan részeinek, szerkezeteinek és azok összeépítésének rajzai, amelyek az általános terveken kellően nem ábrázolhatók.
 
 2.4. A 10. § (1) bekezdése szerinti árazott költségvetés alapján készített árazatlan költségvetési kiírás.
+
+[^1]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
