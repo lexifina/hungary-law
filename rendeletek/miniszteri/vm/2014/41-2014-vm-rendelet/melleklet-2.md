@@ -1,7 +1,5 @@
 ## Erdőtűzvédelmi térképen alkalmazandó jelölések:
 
-## 4K13466M_0
-
 |  | A | B | C | D | E |
 
 | 1. | Támogatott tevékenység | Térképi jelölés | Felirat | Szimbólum | Szín |

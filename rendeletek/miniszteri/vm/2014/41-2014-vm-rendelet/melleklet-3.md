@@ -30,7 +30,7 @@
 
 | 7. | egyéb szigeteléssel | 61 009 |
 
-3. melléklet a 41/2014. (IV. 8.) VM rendelethez[^16]
+3. melléklet a 41/2014. (IV. 8.) VM rendelethez[^23]
 
 TÁMOGATÁSI KÉRELMEK RÉSZLETES PONTOZÁSI RENDSZERE
 
@@ -92,4 +92,4 @@ TÁMOGATÁSI KÉRELMEK RÉSZLETES PONTOZÁSI RENDSZERE
 
 | 25. | Összesen: | 100 |
 
-[^16]: A 3. melléklet az 1/2014. (IX. 15.) MvM rendelet 41. § (5) bekezdése szerint módosított szöveg.
+[^23]: A 3. melléklet az 1/2014. (IX. 15.) MvM rendelet 41. § (5) bekezdése szerint módosított szöveg.

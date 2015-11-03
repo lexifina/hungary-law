@@ -1,3 +1,5 @@
+## foglal magában.
+
 ## 10. Kötelezettségátadásra vonatkozó szabályok
 
 17. § (1) A kifizetési kérelem benyújtásáig az ügyfél az erre rendszeresített és az MVH honlapján közzétett nyomtatványon kérelmezheti az MVH-nál a vállalt kötelezettségeinek átadását.

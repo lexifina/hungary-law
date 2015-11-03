@@ -2,7 +2,7 @@
 
 (2) Víznyerőhely kialakítása akkor támogatható, ha a súlypontjától legfeljebb 2 kilométerre fekvő, nagymértékben vagy közepesen veszélyeztetett kategóriába tartozó erdőrészletek együttes területe eléri
 
-a)[^5] az „A” típusú víznyerőhely létesítése esetén legalább a 100 hektár-t,
+a)[^6] az „A” típusú víznyerőhely létesítése esetén legalább a 100 hektár-t,
 
 b) a „B” típusú víznyerőhely létesítése esetén legalább a 200 hektár-t,
 
@@ -16,4 +16,4 @@ b) amelyekre vonatkozólag a nyilvántartásba vett erdőgazdálkodó és a kér
 
 (4) Ha ugyanazon erdőrészletre több, kérelmet benyújtó erdőgazdálkodó is csatolja a (3) bekezdés b) pontja szerinti megállapodást, az erdőrészlet területe egyik kérelemnél sem vehető figyelembe a (2) bekezdés szerinti területként.
 
-[^5]: A 9. § (2) bekezdés a) pontja a 8/2014. (XI. 19.) MvM rendelet 26. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 9. § (2) bekezdés a) pontja a 8/2014. (XI. 19.) MvM rendelet 26. § (2) bekezdése szerint módosított szöveg.
