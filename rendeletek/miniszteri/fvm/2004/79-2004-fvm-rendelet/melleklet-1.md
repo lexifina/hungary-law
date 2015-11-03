@@ -1,4 +1,4 @@
-1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^154]
+1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^156]
 
 NYILVÁNTARTÁSI LAP
 
@@ -8,7 +8,7 @@ NYILVÁNTARTÁSI LAP
 
 ## melyből 2 példány a hatóságot illeti.)
 
-## ................................................................... Megyei Kormányhivatal Földművelésügyi Igazgatóság
+## ................................................................... Megyei Kormányhivatal
 
 ## NYILVÁNTARTÁSI LAP
 
@@ -48,4 +48,4 @@ Csatolt dokumentumok: száma ............ db
 
 felsorolása:
 
-[^154]: A Vhr. 1. számú melléklete a 70/2013. (VII. 31.) VM rendelet 40. § d) pontja szerint módosított szöveg.
+[^156]: A Vhr. 1. számú melléklete a 70/2013. (VII. 31.) VM rendelet 40. § d) pontja, a 65/2015. (X. 26.) FM rendelet 3. § a) pontja szerint módosított szöveg.

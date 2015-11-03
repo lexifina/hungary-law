@@ -6,8 +6,8 @@ a) amely önálló vadászterületként történő kialakítása esetén – a k
 
 b) amelyet egy tulajdonosi közösség sem kíván vadászterületének részévé tenni,
 
-c)[^27] amelyre vonatkozóan a vadászterület határának megállapítására irányuló érvényes földtulajdonosi gyűlést nem tartottak, önállóan vadászterületként nem jelölhető ki.
+c)[^28] amelyre vonatkozóan a vadászterület határának megállapítására irányuló érvényes földtulajdonosi gyűlést nem tartottak, önállóan vadászterületként nem jelölhető ki.
 
 (2) Nem tekinthető zárványterületnek az a földterület, amely egy vadászterülettel és az államhatárral vagy annak védőzónájával határos.
 
-[^27]: A Vhr. 16. § (1) bekezdés c) pontját a 7/2010. (II. 2.) FVM rendelet 12. §-a iktatta be.
+[^28]: A Vhr. 16. § (1) bekezdés c) pontját a 7/2010. (II. 2.) FVM rendelet 12. §-a iktatta be.

@@ -18,9 +18,9 @@ a) nagyvadfajok:
 
 7. Dybowski szika (Cervus nippon hortulorum),
 
-8. Zerge (Rupicapra rupicapra), kivéve a R. r. tatrica és balcanica alfajok.
+8.[^2]
 
-b)[^2] apróvadfajok:
+b)[^3] apróvadfajok:
 
 ba) hasznos apróvadfajok
 
@@ -76,7 +76,7 @@ bb) egyéb apróvadfajok:
 
 11. Szajkó (Garrulus glandarius).
 
-(2)[^3] Közösségi jelentőségű vadászható állatfajok a következők:
+(2)[^4] Közösségi jelentőségű vadászható állatfajok a következők:
 
 1. Fácán (Phasianus colchicus),
 
@@ -111,5 +111,6 @@ bb) egyéb apróvadfajok:
 16. Szajkó (Garrulus glandarius).
 
 [^1]: A Vhr. 1. §-a a 7/2010. (II. 2.) FVM rendelet 1. §-ával megállapított szöveg.
-[^2]: A Vhr. 1. § (1) bekezdés b) pontja a 72/2012. (VII. 24.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^3]: A Vhr. 1. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^2]: A Vhr. 1. § (1) bekezdés a) pont 8. alpontját a 65/2015. (X. 26.) FM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^3]: A Vhr. 1. § (1) bekezdés b) pontja a 72/2012. (VII. 24.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^4]: A Vhr. 1. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.

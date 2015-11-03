@@ -14,8 +14,6 @@
 
 | szikaszarvasbika, tehén, -ünő, -borjú | szeptember 1–december 31. |
 
-| zerge | vadászati idény nélkül |
-
 | b) Apróvadfajok |  |
 
 | mezei nyúl | október 1–december 31. |

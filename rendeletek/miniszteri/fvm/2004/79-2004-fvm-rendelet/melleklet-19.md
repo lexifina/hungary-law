@@ -1,10 +1,10 @@
-## I.[^173]
+## I.[^175]
 
-## II.[^174]
+## II.[^176]
 
 ## TRÓFEA KIVITELI ENGEDÉLY
 
-## ....................................................................................... Megyei Kormányhivatal Földművelésügyi Igazgatóság
+## ....................................................................................... Megyei Kormányhivatal
 
 ## Sorszám: ..... /év)/ .....
 
@@ -20,8 +20,8 @@
 
 | vadászati hatóság |
 
-19. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^175]
+19. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^177]
 
-[^173]: A Vhr. 18. számú melléklet I. részét a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.
-[^174]: A Vhr. 18. számú melléklet II. része a 70/2013. (VII. 31.) VM rendelet 40. § j) pontja szerint módosított szöveg.
-[^175]: A Vhr. 19. számú melléklete az 56/2005. (VI. 25.) FVM rendelet 29. § (1) bekezdése, a 7/2010. (II. 2.) FVM rendelet 46. § (7) bekezdése szerint módosított szöveg.
+[^175]: A Vhr. 18. számú melléklet I. részét a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^176]: A Vhr. 18. számú melléklet II. része a 70/2013. (VII. 31.) VM rendelet 40. § j) pontja, a 65/2015. (X. 26.) FM rendelet 3. § a) pontja szerint módosított szöveg.
+[^177]: A Vhr. 19. számú melléklete az 56/2005. (VI. 25.) FVM rendelet 29. § (1) bekezdése, a 7/2010. (II. 2.) FVM rendelet 46. § (7) bekezdése szerint módosított szöveg.

@@ -2,9 +2,9 @@
 
 (2) A megválasztott képviselő a földtulajdonosok vadászati közösségével való elszámolási kötelezettségét – eltérő megállapodás hiányában – évente a földtulajdonosi gyűlés elé terjesztett pénzügyi beszámolójával teljesíti. A beszámolót a közösség határozattal fogadja el.
 
-(3)[^22] Vadászterület megszűnése esetén, illetve ha a földtulajdonosi képviselő megbízatása visszahívásával, vagy lemondásával megszűnik, a képviselő, illetve a megszűnt vadászterület földtulajdonosi közösségének képviselője köteles a birtokában lévő okiratok és egyéb javak, dolgok megőrzéséről gondoskodni mindaddig, amíg az új képviselő, vagy az új földtulajdonosi közösség képviselője azokat át nem veszi. A felelős őrző a dolgot költségei megtérítéséig visszatarthatja.
+(3)[^23] Vadászterület megszűnése esetén, illetve ha a földtulajdonosi képviselő megbízatása visszahívásával, vagy lemondásával megszűnik, a képviselő, illetve a megszűnt vadászterület földtulajdonosi közösségének képviselője köteles a birtokában lévő okiratok és egyéb javak, dolgok megőrzéséről gondoskodni mindaddig, amíg az új képviselő, vagy az új földtulajdonosi közösség képviselője azokat át nem veszi. A felelős őrző a dolgot költségei megtérítéséig visszatarthatja.
 
-(4)[^23] Az új földtulajdonosi közösség képviselője birtokba kerülése esetén – a felelős őrző jogszerűen követelt költségeinek megfizetését követően – köteles haladéktalanul átvenni a vadászterület fekvése szerint érintett földterületekre vonatkozó okiratokat, javakat, dolgokat.
+(4)[^24] Az új földtulajdonosi közösség képviselője birtokba kerülése esetén – a felelős őrző jogszerűen követelt költségeinek megfizetését követően – köteles haladéktalanul átvenni a vadászterület fekvése szerint érintett földterületekre vonatkozó okiratokat, javakat, dolgokat.
 
-[^22]: A Vhr. 13. §-ának (3) bekezdését a 42/2006. (V. 31.) FVM rendelet 8. §-a iktatta be, szövege a 7/2010. (II. 2.) FVM rendelet 9. §-ával megállapított szöveg.
-[^23]: A Vhr. 13. §-ának (4) bekezdését a 42/2006. (V. 31.) FVM rendelet 8. §-a iktatta be.
+[^23]: A Vhr. 13. §-ának (3) bekezdését a 42/2006. (V. 31.) FVM rendelet 8. §-a iktatta be, szövege a 7/2010. (II. 2.) FVM rendelet 9. §-ával megállapított szöveg.
+[^24]: A Vhr. 13. §-ának (4) bekezdését a 42/2006. (V. 31.) FVM rendelet 8. §-a iktatta be.

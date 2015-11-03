@@ -1,4 +1,4 @@
-## 3. I. számú melléklet a 79 /2004. (V. 4.) FVM rendelethez[^156]
+## 3. I. számú melléklet a 79 /2004. (V. 4.) FVM rendelethez[^158]
 
 ## A VADASKERT LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -34,11 +34,11 @@
 
 ## i) ábrák, táblázatok;
 
-## 3.[^157] Az állategészségügyért felelős hatóság véleményét.
+## 3.[^159] Az állategészségügyért felelős hatóság véleményét.
 
 ## 4. A védett természeti terület esetében a területileg illetékes környezetvédelmi hatóságnál külön jogszabály szerint kezdeményezett környezeti hatásvizsgálat eredményeként kiadott környezetvédelmi engedélyt.
 
-## 3. II. számú melléklet a 79/2004. (V. 4) FVM rendelethez[^158]
+## 3. II. számú melléklet a 79/2004. (V. 4) FVM rendelethez[^160]
 
 ## A VADFARM LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -70,9 +70,9 @@
 
 ## l) belterület esetén az illetékes jegyző nyilatkozata, hogy a helyi állattartási rendeletben foglaltakkal nem ütközik.
 
-4. számú melléklet a 79/2004. (V. 4.) FVM rendelet[^159]
+4. számú melléklet a 79/2004. (V. 4.) FVM rendelet[^161]
 
-[^156]: A Vhr. eredeti 3. számú mellékletének számozását 3. I. számú mellékletre változtatta és bevezető szövegrészét módosította a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés a)–b) pontja.
-[^157]: A Vhr. 3.I. számú mellékletének 3. pontja a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés c) pontjával megállapított szöveg.
-[^158]: A Vhr. 3. II. számú mellékletét a 7/2010. (II. 2.) FVM rendelet 46. § (3) bekezdése iktatta be.
-[^159]: A Vhr. 4. számú melléklete a 70/2013. (VII. 31.) VM rendelet 40. § e) pontja szerint módosított szöveg.
+[^158]: A Vhr. eredeti 3. számú mellékletének számozását 3. I. számú mellékletre változtatta és bevezető szövegrészét módosította a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés a)–b) pontja.
+[^159]: A Vhr. 3.I. számú mellékletének 3. pontja a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés c) pontjával megállapított szöveg.
+[^160]: A Vhr. 3. II. számú mellékletét a 7/2010. (II. 2.) FVM rendelet 46. § (3) bekezdése iktatta be.
+[^161]: A Vhr. 4. számú melléklete a 70/2013. (VII. 31.) VM rendelet 40. § e) pontja, a 65/2015. (X. 26.) FM rendelet 3. § a) pontja szerint módosított szöveg.

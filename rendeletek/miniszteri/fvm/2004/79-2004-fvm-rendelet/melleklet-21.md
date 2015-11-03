@@ -74,8 +74,6 @@
 
 | (zsigerelt testtömeg szerint) |  |
 
-| zerge | 50 |
-
 | mezei nyúl | 20 |
 
 | üregi nyúl | 10 |

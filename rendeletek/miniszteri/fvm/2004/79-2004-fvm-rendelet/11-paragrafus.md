@@ -1,4 +1,4 @@
-11. §[^16] (1) A vadászterület határának megállapítására irányuló kérelem esetében a vadászati hatóság vizsgálja, hogy
+11. §[^17] (1) A vadászterület határának megállapítására irányuló kérelem esetében a vadászati hatóság vizsgálja, hogy
 
 a) a kialakításra tervezett vadászterület határa megfelel-e a Vtv. 8. §-ában meghatározott feltételeknek,
 
@@ -26,4 +26,4 @@ d) a kialakításra kérelmezett vadászterület átfedésben van a jogerős hat
 
 (6) A földtulajdonosok vadászati közösségének képviselője köteles a földtulajdonosok gyűlésének iratait legalább öt évig megőrizni.
 
-[^16]: A Vhr. 11. §-a a 7/2010. (II. 2.) FVM rendelet 7. §-ával megállapított szöveg.
+[^17]: A Vhr. 11. §-a a 7/2010. (II. 2.) FVM rendelet 7. §-ával megállapított szöveg.
