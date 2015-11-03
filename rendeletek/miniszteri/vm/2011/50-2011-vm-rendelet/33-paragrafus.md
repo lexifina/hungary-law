@@ -4,7 +4,7 @@
 
 ## 24. A támogatás célja
 
-33. §[^102] (1) A támogatás célja
+33. §[^104] (1) A támogatás célja
 
 a) a munkafeltételek javítása;
 
@@ -30,4 +30,4 @@ b) 2. alintézkedés: halfeldolgozó egységek fejlesztése, korszerűsítése;
 
 c) 3. alintézkedés: a munkafeltételek, a higiéniai, és a közegészségügyi körülmények javítására irányuló beruházások létesítése.
 
-[^102]: A 33. § a 86/2011. (IX. 1.) VM rendelet 5. §-ával megállapított szöveg.
+[^104]: A 33. § a 86/2011. (IX. 1.) VM rendelet 5. §-ával megállapított szöveg.

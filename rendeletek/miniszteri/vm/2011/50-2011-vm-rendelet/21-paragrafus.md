@@ -1,4 +1,4 @@
-## 20/A. §[^66] Amennyiben az ügyfél a 20. §-ban meghatározott valamely okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást ennek benyújtásáig, de legkésőbb 2015. október 31-ig felfüggeszti. 2015. október 31. napját követően a 20. §-ban meghatározott bármely okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
+## 20/A. §[^67] Amennyiben az ügyfél a 20. §-ban meghatározott valamely okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást ennek benyújtásáig, de legkésőbb 2016. január 31-ig felfüggeszti. 2016. január 31. napját követően a 20. §-ban meghatározott bármely okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
 
 ## 13. Gépberuházásokra vonatkozó külön rendelkezések
 
@@ -14,4 +14,4 @@ c) amelyeknek gyártásától a támogatási kérelem benyújtásáig 2 évnél 
 
 (3) A támogatási kérelem módosítása esetén a 13. § (3) bekezdésében foglalt feltételt a támogatási döntéssel jóváhagyott elszámolható kiadások összegére vonatkozóan kell teljesíteni.
 
-[^66]: A 20/A. §-t a 28/2015. (VI. 9.) MvM rendelet 37. § (2) bekezdése iktatta be.
+[^67]: A 20/A. §-t a 28/2015. (VI. 9.) MvM rendelet 37. § (2) bekezdése iktatta be, szövege a 48/2015. (XI. 2.) MvM rendelet 10. § a)–b) pontja szerint módosított szöveg.

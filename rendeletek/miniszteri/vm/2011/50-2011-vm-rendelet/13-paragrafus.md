@@ -4,13 +4,13 @@
 
 (3) Az utolsó kifizetési kérelem benyújtása előtt nem fizethető ki a támogatási döntéssel jóváhagyott támogatás összegének 80%-át meghaladó összeg.
 
-(3a)[^39]
+(3a)[^40]
 
-(3b)[^40] 2015. december 31-ét követően nem teljesíthető kifizetés.
+(3b)[^41]
 
 (4) A forinttól eltérő pénznemben kiállított számla vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylat esetén, azt a bizonylaton szereplő (gazdasági) a teljesítés időpontját megelőző hónap utolsó napján érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos középárfolyamon kell átszámítani forintra. Az MNB által nem jegyzett pénznemben kifejezett összegeket a (gazdasági) teljesítés időpontját megelőző hónap utolsó – az Európai Központi Bank által közzétett – hivatalos középárfolyamán kell euróra, majd az MNB hivatalos árfolyamán kell forintra átszámítani.
 
 (5) Idegen nyelven kiállított bizonylat, vagy dokumentum benyújtása esetében az ügyfélnek csatolnia kell magyar nyelvű fordítást is. Amennyiben a tényállás tisztázása szükségessé teszi, az MVH az ügyfelet a dokumentum hiteles magyar fordításának benyújtására hívhatja fel.
 
-[^39]: A 13. § (3a) bekezdését a 20/2012. (III. 7.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 28/2015. (VI. 9.) MvM rendelet 39. §-a.
-[^40]: A 13. § (3b) bekezdését a 2/2014. (IX. 15.) MvM rendelet 9. §-a iktatta be.
+[^40]: A 13. § (3a) bekezdését a 20/2012. (III. 7.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 28/2015. (VI. 9.) MvM rendelet 39. §-a.
+[^41]: A 13. § (3b) bekezdését a 2/2014. (IX. 15.) MvM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 48/2015. (XI. 2.) MvM rendelet 11. §-a.

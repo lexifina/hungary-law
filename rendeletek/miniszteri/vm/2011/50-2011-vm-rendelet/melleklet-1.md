@@ -1,3 +1,3 @@
-1. melléklet az 50/2011. (VI. 6.) VM rendelethez[^130]
+1. melléklet az 50/2011. (VI. 6.) VM rendelethez[^136]
 
-[^130]: Az 1. melléklet a 2/2014. (IX. 15.) MvM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^136]: Az 1. melléklet a 2/2014. (IX. 15.) MvM rendelet 17. § (1) bekezdésével megállapított szöveg.
