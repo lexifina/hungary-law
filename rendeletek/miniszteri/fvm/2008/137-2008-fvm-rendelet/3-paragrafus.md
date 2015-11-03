@@ -2,7 +2,7 @@
 
 3. § (1) E rendelet alapján támogatás vehető igénybe az alábbi célterületeken:
 
-a)[^6] a falusi turizmushoz kapcsolódó minőségi magánszálláshelyek és kapcsolódó szolgáltatások kialakítása, már működő szálláshelyek bővítése, korszerűsítése, akadálymentesítése, szolgáltatásainak fejlesztése, kivéve a kereskedelmi és a fizetővendéglátó szálláshelyek osztályba sorolásáról, valamint a falusi szálláshelyek minősítéséről szóló 45/1998 (VI. 24.) IKIM rendelet 1. számú melléklete alapján működő kereskedelmi szálláshelyeket, valamint a 3. számú mellékletének I. pontja szerinti fizetővendéglátó szálláshelyeket (a továbbiakban: 1. célterület);
+a)[^7] a falusi turizmushoz kapcsolódó minőségi magánszálláshelyek és kapcsolódó szolgáltatások kialakítása, már működő szálláshelyek bővítése, korszerűsítése, akadálymentesítése, szolgáltatásainak fejlesztése, kivéve a kereskedelmi és a fizetővendéglátó szálláshelyek osztályba sorolásáról, valamint a falusi szálláshelyek minősítéséről szóló 45/1998 (VI. 24.) IKIM rendelet 1. számú melléklete alapján működő kereskedelmi szálláshelyeket, valamint a 3. számú mellékletének I. pontja szerinti fizetővendéglátó szálláshelyeket (a továbbiakban: 1. célterület);
 
 b) a vidéki térségekben az ifjúsági turizmushoz kapcsolódó minőségi szálláshelyek és kapcsolódó szolgáltatások kialakítása, már működő egységek bővítése, korszerűsítése, akadálymentesítése és szolgáltatásainak fejlesztése (a továbbiakban: 2. célterület);
 
@@ -44,10 +44,10 @@ e) a szolgáltatás működtetéséhez szükséges minősítési eljárás díja
 
 f) a Vhr. 31. §-ában meghatározott egyéb elszámolható kiadások.
 
-(4)[^7] A (3) bekezdés b)–f) pontjában szereplő támogatható tevékenységek önállóan nem szerepelhetnek egy támogatási kérelemben, kizárólag az a) pontban meghatározott tevékenységgel együtt.
+(4)[^8] A (3) bekezdés b)–f) pontjában szereplő támogatható tevékenységek önállóan nem szerepelhetnek egy támogatási kérelemben, kizárólag az a) pontban meghatározott tevékenységgel együtt.
 
-(5)[^8] E rendelet alapján nem igényelhető támogatás élő állat vásárlására.
+(5)[^9] E rendelet alapján nem igényelhető támogatás élő állat vásárlására.
 
-[^6]: A 3. § (1) bekezdés a) pontja a 170/2008. (XII. 31.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^7]: A 3. § (4) bekezdése a 170/2008. (XII. 31.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^8]: A 3. § (5) bekezdését a 170/2008. (XII. 31.) FVM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^7]: A 3. § (1) bekezdés a) pontja a 170/2008. (XII. 31.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^8]: A 3. § (4) bekezdése a 170/2008. (XII. 31.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^9]: A 3. § (5) bekezdését a 170/2008. (XII. 31.) FVM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

@@ -8,23 +8,23 @@ a) alkalmi falusi és agroturisztikai szolgáltató tevékenység: a falusi és 
 
 b) ökoturizmus: a természeti értékek, természeti területek megismerésére irányuló olyan turizmus, amely természetkímélő módon, a természetvédelmi prioritások biztosításával valósul meg az arra alkalmas területen, mellette szolgálja a helyi népesség társadalmi, gazdasági előnyökhöz jutását;
 
-c)[^1] magánszálláshely: a magánszálláshelyek idegenforgalmi célú hasznosításáról szóló 110/1997. (VI. 25.) Korm. rendelet szerint hatósági nyilvántartásba vett falusi szálláshely;
+c)[^2] magánszálláshely: a magánszálláshelyek idegenforgalmi célú hasznosításáról szóló 110/1997. (VI. 25.) Korm. rendelet szerint hatósági nyilvántartásba vett falusi szálláshely;
 
-d)[^2] ifjúsági turizmushoz kapcsolódó minőségi szálláshely, turistaház: a nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásról szóló 173/2003. (X. 28.) Korm. rendelet 3. § (2) bekezdése c) pontjának 2. és 3. alpontja szerinti szálláshely;
+d)[^3] ifjúsági turizmushoz kapcsolódó minőségi szálláshely, turistaház: a nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásról szóló 173/2003. (X. 28.) Korm. rendelet 3. § (2) bekezdése c) pontjának 2. és 3. alpontja szerinti szálláshely;
 
 e) falusi turizmus: a községben vagy más településeken falusias térségben történő vendégfogadás, jellemzően szállás-, étkezés- és programszolgáltatás, amely keretében a látogató megismerkedik a falu jellegzetes életformájával, hagyományaival, és aktívan részt vehet annak életében;
 
 f) agroturizmus: a mezőgazdaság területéhez kapcsolódó falusi turizmus;
 
-g)[^3] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
+g)[^4] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
-h)[^4]
+h)[^5]
 
 i) hátrányos helyzetű terület: a kedvezményezett térségek besorolásáról szóló 311/2007. (XI. 17.) Korm. rendelet 2. számú mellékletében foglalt leghátrányosabb helyzetű kistérségek, valamint az ezekkel azonos elbánásban részesülő, a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 240/2006. (XI. 30.) Korm. rendeletben meghatározott, társadalmi-gazdasági és infrastrukturális szempontból elmaradott, vagy az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések;
 
 j) vadászatra jogosult: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 6. §-a szerinti jogosult;
 
-k)[^5] gazdaságon kívül végzett tevékenység: olyan tevékenység, amely független az ügyfél mezőgazdasági tevékenységétől, a mezőgazdasági tevékenységéhez kapcsolódó földterülettől és mezőgazdasági hasznosítású épületeitől;
+k)[^6] gazdaságon kívül végzett tevékenység: olyan tevékenység, amely független az ügyfél mezőgazdasági tevékenységétől, a mezőgazdasági tevékenységéhez kapcsolódó földterülettől és mezőgazdasági hasznosítású épületeitől;
 
 l) célterület: az intézkedésen, alintézkedésen belül jogszabályban meghatározott cél, amelyre a támogatott művelet irányul;
 
@@ -42,8 +42,8 @@ r) rekreációs szolgáltatások: az aktív, szabadidős tevékenységekhez kapc
 
 (2) E rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltakat kell megfelelően alkalmazni.
 
-[^1]: A 2. § (1) bekezdés c) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^2]: A 2. § (1) bekezdés d) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^3]: A 2. § (1) bekezdés g) pontja a 126/2012. (XII. 12.) VM rendelet 2. §-ával megállapított szöveg.
-[^4]: A 2. § (1) bekezdés h) pontját a 121/2013. (XII. 16.) VM rendelet 7. § (4) bekezdése hatályon kívül helyezte.
-[^5]: A 2. § (1) bekezdés k) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^2]: A 2. § (1) bekezdés c) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 2. § (1) bekezdés d) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 2. § (1) bekezdés g) pontja a 126/2012. (XII. 12.) VM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdés h) pontját a 121/2013. (XII. 16.) VM rendelet 7. § (4) bekezdése hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés k) pontja a 170/2008. (XII. 31.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

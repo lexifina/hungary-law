@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 55. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. számú melléklet a 137/2008. (X. 18.) FVM rendelethez[^38]
+1. számú melléklet a 137/2008. (X. 18.) FVM rendelethez[^42]
 
 Értékelési szempontok
 
@@ -2600,4 +2600,4 @@ Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy 
 
 1.10. Dunamellék LEADER Egyesület területén alkalmazandó pontozás
 
-[^38]: A 1. számú melléklet a 92/2009. (VII. 28.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 4. §-a alapján rendelkezéseit a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.
+[^42]: A 1. számú melléklet a 92/2009. (VII. 28.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 4. §-a alapján rendelkezéseit a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.

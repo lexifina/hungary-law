@@ -1,6 +1,6 @@
 ## A támogatás mértéke, elszámolható kiadások
 
-4. § (1)[^9] Jelen támogatás alapján megítélhető összeg alapját az Európai Közösséget létrehozó Szerződés (a továbbiakban: EK Szerződés) 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendeletben foglaltaknak megfelelően:
+4. § (1)[^10] Jelen támogatás alapján megítélhető összeg alapját az Európai Közösséget létrehozó Szerződés (a továbbiakban: EK Szerződés) 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendeletben foglaltaknak megfelelően:
 
 a) a támogatás összege a 1998/2006/EK bizottsági rendelet hatálya alá tartozó ügyfelek esetén ügyfelenként egymást követő három pénzügyi évben nem haladhatja meg a 200 000 euronak megfelelő forintösszeget;
 
@@ -24,7 +24,7 @@ ba) amennyiben a beruházás az ügyfél közhasznú tevékenységének ellátá
 
 bb) amennyiben a beruházás az ügyfél nem közhasznú tevékenységének ellátásához köthető és hátrányos helyzetű területen valósul meg, az összes elszámolható kiadás 65%-a,
 
-bc)[^10] amennyiben a beruházás az ügyfél nem közhasznú tevékenységének ellátásához köthető és nem hátrányos helyzetű területen valósul meg az összes elszámolható kiadás 60%-a.
+bc)[^11] amennyiben a beruházás az ügyfél nem közhasznú tevékenységének ellátásához köthető és nem hátrányos helyzetű területen valósul meg az összes elszámolható kiadás 60%-a.
 
 (4) Költségvetési szervek esetében az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 71. cikk (3) bekezdés a) pontja alapján a támogatás számításának alapja az összes nettó elszámolható kiadás.
 
@@ -38,5 +38,5 @@ bc)[^10] amennyiben a beruházás az ügyfél nem közhasznú tevékenységének
 
 (9) A jóváhagyott elszámolható kiadások mértéke és aránya nem haladhatja meg az építési normagyűjteményben (a továbbiakban: ÉNGY) beazonosítható tételek vonatkozásában az elszámolható kiadás, ÉNGY szerinti referenciaárát.
 
-[^9]: A 4. § (1) bekezdése a 170/2008. (XII. 31.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^10]: A 4. § (3) bekezdés b) pont bc) alpontja a 170/2008. (XII. 31.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^10]: A 4. § (1) bekezdése a 170/2008. (XII. 31.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^11]: A 4. § (3) bekezdés b) pont bc) alpontja a 170/2008. (XII. 31.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
