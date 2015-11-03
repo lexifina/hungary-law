@@ -1,6 +1,6 @@
 ## 9. A kifizetési kérelem benyújtása
 
-15. § (1)[^7] Kifizetési kérelmet a helyt adó vagy részben helyt adó, jogerős támogatási határozat alapján legkésőbb 2015. október 30-ig lehet benyújtani az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül. A kérelemhez benyújtandó dokumentumokat szkennelt formában kell csatolni a kérelemhez.
+15. § (1)[^8] Kifizetési kérelmet a helyt adó vagy részben helyt adó, jogerős támogatási határozat alapján legkésőbb 2015. november 6. napjáig lehet benyújtani az elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül. A kérelemhez benyújtandó dokumentumokat szkennelt formában kell csatolni a kérelemhez.
 
 (2) Az ügyfél a jóváhagyó támogatási határozat alapján egy kifizetési kérelmet nyújthat be a kifizetési kérelem benyújtására nyitva álló időszakon belül.
 
@@ -16,4 +16,4 @@ d) a gépjármű forgalmi engedélyének másolatát;
 
 e) jóváhagyott kiadási tétel módosulása esetén a 9. § (5) bekezdés szerinti két darab árajánlatot.
 
-[^7]: A 15. § (1) bekezdése a 26/2015. (V. 6.) MvM rendelet 14. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^8]: A 15. § (1) bekezdése a 48/2015. (XI. 2.) MvM rendelet 30. §-a szerint módosított szöveg.

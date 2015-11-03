@@ -26,6 +26,6 @@ g) az árajánlat kiállításának dátumát.
 
 (6) A gépjárműtípus módosítására az ügyfélnek a kifizetési kérelem benyújtásakor van lehetősége. Kizárólag a támogatási határozatban szereplő gépjármű-kategória szerinti paraméterekkel azonos vagy magasabb műszaki paraméterekkel rendelkező gépjárműtípus beszerzése támogatható a kifizetési kérelem elbírálása során.
 
-(7)[^4] Amennyiben a közbeszerzési eljárás eredményeként nyertes ajánlat eltér a támogatási határozattal jóváhagyott árajánlattól, úgy az abban foglaltakat kell irányadónak tekinteni, azzal, hogy a támogatási határozatban megállapított támogatás összege nem emelhető.
+(7)[^5] Amennyiben a közbeszerzési eljárás eredményeként nyertes ajánlat eltér a támogatási határozattal jóváhagyott árajánlattól, úgy az abban foglaltakat kell irányadónak tekinteni, azzal, hogy a támogatási határozatban megállapított támogatás összege nem emelhető.
 
-[^4]: A 9. § (7) bekezdését a 26/2015. (V. 6.) MvM rendelet 14. § (3) bekezdése iktatta be.
+[^5]: A 9. § (7) bekezdését a 26/2015. (V. 6.) MvM rendelet 14. § (3) bekezdése iktatta be.

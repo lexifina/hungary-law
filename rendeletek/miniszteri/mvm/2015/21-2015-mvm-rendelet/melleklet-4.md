@@ -390,7 +390,7 @@
 
 ## Jótállás: minimálisan 4 évre, vagy 200 ezer km-re (amelyik előbb teljesül) érvényes teljes körű, a hajtáslánc elemeire is vonatkozó jótállás.
 
-4. melléklet a 21/2015. (IV. 17.) MvM rendelethez[^10]
+4. melléklet a 21/2015. (IV. 17.) MvM rendelethez[^13]
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető maximális pontszám |
 
@@ -498,4 +498,4 @@
 
 |  |  | Összesen: 50 pont |
 
-[^10]: A 4. melléklet a 26/2015. (V. 6.) MvM rendelet 14. § (4) bekezdése szerint módosított szöveg.
+[^13]: A 4. melléklet a 26/2015. (V. 6.) MvM rendelet 14. § (4) bekezdése szerint módosított szöveg.
