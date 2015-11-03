@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-46-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-11-02 | 2015-46-20-6N.1 | 46/2015. (XI. 2.) MvM rendelet |
+| 2015-11-03 | 2015-46-20-6N.2 | 14/2016. (V. 25.) MvM rendelet |
