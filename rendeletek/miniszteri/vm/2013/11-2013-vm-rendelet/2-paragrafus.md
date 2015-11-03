@@ -36,7 +36,7 @@ g) a projekt együttműködésben való megvalósulását bemutató szakmai besz
 
 (6a)[^5] Amennyiben a támogatási kérelem részkérelméből olyan adatok hiányoznak, amelyek a pályázathoz kapcsolódó más dokumentumok valamelyikében megtalálhatóak, akkor ezen részkérelmet, és ezzel együtt a támogatási kérelmet elutasítani nem lehet.
 
-(6b)[^6] A támogatási határozat jogerőre emelkedését követően a jóváhagyott tevékenységekben vagy az ügyfelek személyében bekövetkező változás – kivéve a kötelezettségátadást és a jogutódlást – esetében a koordináló szervezetnek a kifizetési kérelem benyújtását megelőzően meg kell küldenie a módosítás elfogadhatóságára vonatkozó javaslatát az IH részére. Az IH dönt a módosítás elfogadhatóságáról.
+(6b)[^6] A támogatási határozat jogerőre emelkedését követően a jóváhagyott tevékenységekben – ide nem értve valamely tevékenység elmaradását – vagy az ügyfelek személyében bekövetkező változás – kivéve a kötelezettségátadást és a jogutódlást – esetében a koordináló szervezetnek meg kell küldenie a módosítás elfogadhatóságára vonatkozó javaslatát az IH részére. Az IH dönt a módosítás elfogadhatóságáról.
 
 (7) Valamennyi ügyfél az MVH azon kirendeltségéhez nyújthat be kifizetési kérelmet, amely a támogató határozatot hozta, és megküldte.
 
@@ -57,5 +57,5 @@ g) a projekt együttműködésben való megvalósulását bemutató szakmai besz
 [^3]: A 2. § (3) bekezdés d) alpontja a 93/2013. (X. 10.) VM rendelet 13. §-a szerint módosított szöveg.
 [^4]: A 2. § (6) bekezdése a 8/2014. (XI. 19.) MvM rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (6a) bekezdését a 8/2014. (XI. 19.) MvM rendelet 15. § (1) bekezdése iktatta be.
-[^6]: A 2. § (6b) bekezdését a 8/2014. (XI. 19.) MvM rendelet 15. § (1) bekezdése iktatta be.
+[^6]: A 2. § (6b) bekezdését a 8/2014. (XI. 19.) MvM rendelet 15. § (1) bekezdése iktatta be, szövege a 48/2015. (XI. 2.) MvM rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (14) bekezdése a 8/2014. (XI. 19.) MvM rendelet 15. § (2) bekezdésével megállapított szöveg.
