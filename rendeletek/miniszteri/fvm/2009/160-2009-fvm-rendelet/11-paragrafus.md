@@ -1,6 +1,6 @@
-## 10/F. §[^25] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 8. § (5) és 8/A. § (4) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor[^26] folyamatban lévő ügyekben is alkalmazni kell.
+## 10/G. §[^29] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] megállapított 8. § (5) bekezdést és 9. § (7) bekezdést a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor[^30] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^25]: A 10/F. §-t a 28/2015. (VI. 9.) MvM rendelet 33. § (2) bekezdése iktatta be.
-[^26]: A hatálybalépés időpontja 2015. június 10.
+[^29]: A 10/G. §-t a 48/2015. (XI. 2.) MvM rendelet 7. § (3) bekezdése iktatta be.
+[^30]: A hatálybalépés időpontja 2015. november 3.

@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^6]
+6. § (1)[^7]
 
 (2) A támogatási kérelemnek a következőket kell tartalmaznia:
 
@@ -26,13 +26,13 @@ a) települési önkormányzat, kisebbségi önkormányzat, illetve önkormányz
 
 b) nonprofit szervezet ügyfél esetén a nyilvántartásba vételét igazoló okirat hiteles másolatát,
 
-c)[^7] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
+c)[^8] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
 
 d) a Vhr. 27. § (1) bekezdés h) pontjában foglaltaknak megfelelő pénzügyi tervet, ha a kérelmezett támogatás összege az 5 000 000 forintot nem haladja meg,
 
 e) a Vhr. 27. § (1) bekezdés i) pontjában foglaltaknak megfelelően, ha a kérelmezett támogatás összege az 5 000 000 forintot meghaladja, a természetes személy, mikro-, kis- és középvállalkozás ügyfélnek pénzügyi és üzleti tervet, a települési önkormányzat, települési kisebbségi önkormányzat, önkormányzati társulás, egyházi jogi személy vagy nonprofit szervezet ügyfélnek pénzügyi és működtetési és fenntarthatósági tervet,
 
-f)[^8] vadászatra jogosult ügyfél esetén az MgSzH által kiadott, az ügyfélnek az üzemeltetési kötelezettség időtartama alatt fennálló jogosultságáról szóló határozat hiteles másolatát, ha az ügyfél természetes személy, a vadásztársaság nyilatkozatát az ügyfél vadászati tagságáról;
+f)[^9] vadászatra jogosult ügyfél esetén az MgSzH által kiadott, az ügyfélnek az üzemeltetési kötelezettség időtartama alatt fennálló jogosultságáról szóló határozat hiteles másolatát, ha az ügyfél természetes személy, a vadásztársaság nyilatkozatát az ügyfél vadászati tagságáról;
 
 g) az értékeléshez az 1. mellékletben meghatározott pontozási szempontokat alátámasztó igazolásokat, nyilatkozatokat, dokumentumokat,
 
@@ -44,6 +44,6 @@ i) ha az ügyfél természetes személy, annak a hatósági igazolványnak a má
 
 (5) A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségtől. Benyújtásuk esetén a fejezeteket a (4) bekezdésben meghatározott arányosítást követően, a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
 
-[^6]: A 6. § (1) bekezdését a 35/2011. (IV. 29.) VM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^7]: A 6. § (3) bekezdés c) pontja a 121/2013. (XII. 16.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^8]: A 6. § (3) bekezdés f) pontja a 13/2010. (VIII. 30.) VM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^7]: A 6. § (1) bekezdését a 35/2011. (IV. 29.) VM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 6. § (3) bekezdés c) pontja a 121/2013. (XII. 16.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^9]: A 6. § (3) bekezdés f) pontja a 13/2010. (VIII. 30.) VM rendelet 6. § (4) bekezdésével megállapított szöveg.

@@ -26,9 +26,9 @@ f) falusi turizmus: a községben vagy más településeken falusias térségben
 
 g) agroturizmus: a mezőgazdaság területéhez kapcsolódó falusi turizmus,
 
-h)[^1] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
+h)[^2] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
-i)[^2]
+i)[^3]
 
 j) hátrányos helyzetű terület: a kedvezményezett térségek besorolásáról szóló 311/2007. (XI. 17.) Korm. rendelet 2. mellékletében meghatározott kistérség, valamint a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 240/2006. (XI. 30.) Korm. rendelet mellékletében meghatározott település,
 
@@ -46,19 +46,19 @@ p) lovas turisztikai szolgáltatás: a lovas szolgáltató tevékenységről sz�
 
 q) vadász turizmus: a turizmus azon formája, amelynek elsődleges célja a vad elejtése által a résztvevő számára történő élményszerzés, valamint az ahhoz kapcsolódó helyben nyújtott kiegészítő szolgáltatások igénybevétele,
 
-r)[^3] illetékes LEADER HACS: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 3. és 4. tengelyének keretében megalakuló helyi akciócsoportok elismerési rendjével kapcsolatos egyes kérdésekről szóló 93/2007. (VIII. 29.) FVM rendelet alapján előzetesen elismert helyi közösségek tervezési folyamatával, és a LEADER csoportok kiválasztásával kapcsolatos egyes kérdésekről szóló 147/2007. (XII. 4.) FVM rendeletben elismert olyan LEADER helyi akciócsoport, amely a Helyi Vidékfejlesztési Közösségek és a LEADER helyi akciócsoportok részére az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet keretében nyújtott támogatás részletes feltételeiről szóló 141/2008. (X. 30.) FVM rendelet 9. számú melléklete szerinti tervezési területen látja el a munkaszervezetén keresztül az Új Magyarország Vidékfejlesztési Program III. és IV. tengely intézkedéseinek delegálási szerződés keretein belüli végrehajtását;
+r)[^4] illetékes LEADER HACS: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 3. és 4. tengelyének keretében megalakuló helyi akciócsoportok elismerési rendjével kapcsolatos egyes kérdésekről szóló 93/2007. (VIII. 29.) FVM rendelet alapján előzetesen elismert helyi közösségek tervezési folyamatával, és a LEADER csoportok kiválasztásával kapcsolatos egyes kérdésekről szóló 147/2007. (XII. 4.) FVM rendeletben elismert olyan LEADER helyi akciócsoport, amely a Helyi Vidékfejlesztési Közösségek és a LEADER helyi akciócsoportok részére az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet keretében nyújtott támogatás részletes feltételeiről szóló 141/2008. (X. 30.) FVM rendelet 9. számú melléklete szerinti tervezési területen látja el a munkaszervezetén keresztül az Új Magyarország Vidékfejlesztési Program III. és IV. tengely intézkedéseinek delegálási szerződés keretein belüli végrehajtását;
 
 s) teljes akadálymentesítés: az építménynek az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 1. számú melléklet 1. pontjában meghatározottak szerinti akadálymentessé tétele,
 
 t) részleges akadálymentesítés: az OTÉK 1. számú melléklet 82. pontjában ekként meghatározott fogalom,
 
-u)[^4] ügyfél: természetes személy, mikro-, kis- és középvállalkozás, települési önkormányzat, kisebbségi önkormányzat, illetve a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 16. §-ában meghatározott önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet és egyházi jogi személy;
+u)[^5] ügyfél: természetes személy, mikro-, kis- és középvállalkozás, települési önkormányzat, kisebbségi önkormányzat, illetve a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 16. §-ában meghatározott önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet és egyházi jogi személy;
 
 v) konferencia turizmus: a hivatásturizmus egy fajtája, amely során valamely szervezet által, egy adott témakör vonatkozásában szerveznek olyan rendezvényt, amelyen legalább 50 fő vesz részt.
 
 (2) Az e rendeletben nem szabályozott fogalmakat a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltaknak megfelelően kell értelmezni.
 
-[^1]: A 2. § (1) bekezdés h) pontja a 126/2012. (XII. 12.) VM rendelet 5. §-ával megállapított szöveg.
-[^2]: A 2. § (1) bekezdés i) pontját a 121/2013. (XII. 16.) VM rendelet 14. § (4) bekezdése hatályon kívül helyezte.
-[^3]: A 2. § (1) bekezdés r) pontja a 13/2010. (VIII. 30.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés u) pontja a 13/2010. (VIII. 30.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés h) pontja a 126/2012. (XII. 12.) VM rendelet 5. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés i) pontját a 121/2013. (XII. 16.) VM rendelet 14. § (4) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdés r) pontja a 13/2010. (VIII. 30.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés u) pontja a 13/2010. (VIII. 30.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
