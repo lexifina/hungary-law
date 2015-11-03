@@ -1,4 +1,4 @@
-## 15/F. §[^48] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeleteknek a Herman Ottó Intézet megalapításával összefüggő módosításáról szóló 33/2015. (VII. 13.) MvM rendelettel [a továbbiakban: 33/2015. (VII. 13.) MvM rendelet] megállapított 11. § (12)–(14) bekezdést és a 9. mellékletet a 33/2015. (VII. 13.) MvM rendelet hatálybalépésekor[^49] folyamatban lévő eljárásokban is alkalmazni kell.
+## 15/G. §[^51] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] megállapított 11. § (6b) és 13. § (4) bekezdést a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor[^52] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^48]: A 15/F. §-t (14) bekezdését a 33/2015. (VII. 13.) MvM rendelet 15. § (2) bekezdése iktatta be.
-[^49]: A hatálybalépés időpontja 2015. július 14.
+[^51]: A 15/G. §-t a 48/2015. (XI. 2.) MvM rendelet 22. § (3) bekezdése iktatta be.
+[^52]: A hatálybalépés időpontja 2015. november 3.
