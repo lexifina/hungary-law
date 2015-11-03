@@ -1,4 +1,4 @@
-## 22. §[^7] Az egyes halászati tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (IV. 14.) VM rendelettel [a továbbiakban: 44/2014. (IV. 14.) VM rendelet] megállapított 14/A. §-t a 44/2014. (IV. 14.) VM rendelet hatálybalépésekor[^8] folyamatban lévő ügyekben is alkalmazni kell.
+## 23. §[^11] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] megállapított 8. § (10) és (11) bekezdést a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor[^12] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 17/2014. (III. 7.) VM rendelethez
 
@@ -26,5 +26,5 @@ HOP 3. TENGELY INTÉZKEDÉSEINEK KIVÁLASZTÁSI KRITÉRIUMAI
 
 | II. | Összesen | 100 |
 
-[^7]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 44/2014. (IV. 14.) VM rendelet 30. §-a iktatta be.
-[^8]: A hatálybalépés időpontja 2014. április 17.
+[^11]: A 23. §-t a 48/2015. (XI. 2.) MvM rendelet 23. § (2) bekezdése iktatta be.
+[^12]: A hatálybalépés időpontja 2015. november 3.
