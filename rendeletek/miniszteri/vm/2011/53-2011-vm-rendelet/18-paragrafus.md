@@ -2,7 +2,7 @@
 
 ## 14. Vis maiorra vonatkozó szabályok
 
-18. §[^17] (1) Az MVH mentesíti a támogatásra jogosultat a vis maior rendelet szerint bejelentett, és a bejelentés alapján az MVH által elismert vis maior esemény következtében kipusztult tételeknek
+18. §[^18] (1) Az MVH mentesíti a támogatásra jogosultat a vis maior rendelet szerint bejelentett, és a bejelentés alapján az MVH által elismert vis maior esemény következtében kipusztult tételeknek
 
 a) az adott gazdálkodási évre, vagy
 
@@ -22,4 +22,4 @@ b) a kipusztulás évében, vagy a kipusztulást követő évben eleget tesz, de
 
 (5) Az (1) bekezdés b) pontja szerinti esetben az MVH a kipusztult tételeket a vis maior esemény bekövetkeztének naptári évétől kizárja a támogatott tételek közül, továbbá az ügyfél nem jogosult az adott évi támogatásra, ugyanakkor az érintett tételek szankció alapját nem képezhetik.
 
-[^17]: A 18. § a 130/2013. (XII. 21.) VM rendelet 23. §-ával megállapított szöveg.
+[^18]: A 18. § a 130/2013. (XII. 21.) VM rendelet 23. §-ával megállapított szöveg.

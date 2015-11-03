@@ -24,7 +24,7 @@ b) a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásá
 
 (5a)[^5] Az (5) bekezdésben foglaltaktól eltérően az 5. melléklet szerinti tételek esetében a kérelmező az 500 db/tétel mintanagyságot köteles elérni.
 
-(6)[^6] A tételek (5) bekezdésben meghatározott felszaporításáról a támogatásra jogosultnak igazolást kell beszereznie a NÉBIH-től, amelyet 2015. október 31-ig postai úton be kell nyújtania a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) Közvetlen Támogatások Igazgatóságához.
+(6)[^6] A tételek (5) bekezdésben meghatározott felszaporítását a NÉBIH 2015. november 15-ig igazolja a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) Közvetlen Támogatások Igazgatósága felé.
 
 (7) A felszaporított tételek után nem jár támogatási összeg.
 
@@ -32,4 +32,4 @@ b) a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásá
 [^3]: A 6. § (3) bekezdés b) pontja a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 132. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH)” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
 [^4]: A 6. § (5) bekezdése a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A 6. § (5a) bekezdését a 30/2013. (IV. 30.) VM rendelet 10. § (1) bekezdése iktatta be.
-[^6]: A 6. § (6) bekezdése a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés c) és d) pontja, a 130/2013. (XII. 21.) VM rendelet 25. § a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 132. § b) pontjával elrendelt módosítás amely szerint „az MgSzH-tól” szövegrész helyébe „ a NÉBIH-től” szöveg lép, nem vezethető át.]
+[^6]: A 6. § (6) bekezdése a 48/2015. (XI. 2.) MvM rendelet 12. § (1) bekezdésével megállapított szöveg.
