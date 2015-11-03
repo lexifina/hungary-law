@@ -1,6 +1,6 @@
-## 10. §[^18] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet és az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet hatálya alá tartozó támogatásokat tartalmaz.
+## 11. §[^19] E rendeletnek az agrárágazati szabályozás körébe tartozó egyes rendeletek módosításáról szóló 69/2015. (XI. 2.) FM rendelettel [a továbbiakban: 69/2015. (XI. 2.) FM rendelet] megállapított 3. § (1) bekezdés b) pontját a 69/2015. (XI. 2.) FM rendelet hatálybalépésekor[^20] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 108/2013. (XI. 28.) VM rendelethez[^19]
+1. melléklet a 108/2013. (XI. 28.) VM rendelethez[^21]
 
 A hitelhez kapcsolódó kamattámogatásból származó támogatástartalom képlete
 
@@ -36,5 +36,6 @@ n – évek száma, a támogatástartalom a kamattámogatási kérelem beérkez�
 
 r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-[^18]: A 10. § a 18/2014. (X. 29.) FM rendelet 50. §-ával megállapított szöveg.
-[^19]: Az 1. melléklet a 48/2015. (VIII. 12.) FM rendelet 14. § (10) bekezdése szerint módosított szöveg.
+[^19]: A 11. §-t a 69/2015. (XI. 2.) FM rendelet 5. §-a iktatta be.
+[^20]: A hatálybalépés időpontja 2015. november 3.
+[^21]: Az 1. melléklet a 48/2015. (VIII. 12.) FM rendelet 14. § (10) bekezdése szerint módosított szöveg.
