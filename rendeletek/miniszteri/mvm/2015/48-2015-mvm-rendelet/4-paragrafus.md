@@ -1,0 +1,3 @@
+## 3. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet [a továbbiakban: 88/2007. (VIII. 17.) FVM rendelet] „Záró rendelkezés” alcíme a következő 16/F. §-sal egészül ki:
+
+## „16/F. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] hatályon kívül helyezett 3. § (3) bekezdést a 2015. évi kifizetési kérelem alapján indult eljárásokban sem kell alkalmazni.”

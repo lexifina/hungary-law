@@ -1,0 +1,3 @@
+## 14. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2011-től nyújtandó támogatások részletes feltételeiről szóló 76/2011. (VII. 29.) VM rendelet [a továbbiakban: 76/2011. (VII. 29.) VM rendelet] a következő 25/G. §-sal egészül ki:
+
+## „25/G. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] hatályon kívül helyezett 3. § (8) bekezdést a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor folyamatban lévő ügyekben sem kell alkalmazni.”
