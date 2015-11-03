@@ -42,7 +42,7 @@ e) az okszerű vadgazdálkodás akadályozása nélkül
 
 (10)[^13] A siketfajd (Tetrao urogallus), a nyírfajd (Tetrao tetrix), a császármadár (Tetrastes bonasia), a havasi hófajd (Lagopus muta), a csukár (Alectoris chukar), a szirti fogoly (Alectoris graeca), az örvös frankolin (Francolinus francolinus), a bezoárkecske (Capra aegargus) és az európai bölény (Bison bonasus) külföldről megszerzett trófeájának tartása, bemutatása, országba történő behozatala, országból való kivitele, országon történő átszállítása természetvédelmi hatósági engedély nélkül végezhető, ha a tulajdonos a trófea jogszerű megszerzését igazolni tudja.
 
-(11)[^14] A sarki hófajd (Lagopus lagopus), barnanyakú szirtifogoly (Alectoris barbara), vörös fogoly (Alectoris rufa), a havasi nyúl (Lepus timidus), a kőszáli kecske (Capra ibex) és a spanyol kecske (Capra pyrenaica) külföldről megszerzett trófeájának és egyéb származékának tartása, eladása, eladásra történő felkínálása, országba történő behozatala, országból való kivitele, országon történő átszállítása természetvédelmi hatósági engedély nélkül végezhető, ha a tulajdonos a trófea vagy egyéb származék jogszerű megszerzését igazolni tudja.
+(11)[^14] A sarki hófajd (Lagopus lagopus), barnanyakú szirtifogoly (Alectoris barbara), vörös fogoly (Alectoris rufa), a havasi nyúl (Lepus timidus), a zerge (Rupicapra rupicapra), a kőszáli kecske (Capra ibex) és a spanyol kecske (Capra pyrenaica) külföldről megszerzett trófeájának és egyéb származékának tartása, eladása, eladásra történő felkínálása, országba történő behozatala, országból való kivitele, országon történő átszállítása természetvédelmi hatósági engedély nélkül végezhető, ha a tulajdonos a trófea vagy egyéb származék jogszerű megszerzését igazolni tudja.
 
 (12)[^15] A barna medve (Ursus arctos), a farkas (Canis lupus), a hiúz (Lynx lynx) és a vadmacska (Felis silvestris) külföldről megszerzett trófeájának tartása, bemutatása, országba történő behozatala, országból való kivitele, országon történő átszállítása természetvédelmi hatósági engedély nélkül végezhető, ha a tulajdonos a trófea jogszerű megszerzését a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendeletben meghatározott EU-bizonylattal, vagy export- és importengedéllyel igazolni tudja.
 
@@ -55,6 +55,6 @@ e) az okszerű vadgazdálkodás akadályozása nélkül
 [^11]: A 4/A. § (7) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^12]: A 4/A. § (9) bekezdése a 106/2011. (XI. 10.) VM rendelet 1. §-ával megállapított szöveg.
 [^13]: A 4/A. § (10) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^14]: A 4/A. § (11) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^14]: A 4/A. § (11) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (2) bekezdésével megállapított, a 66/2015. (X. 26.) FM rendelet 2. § b) pontja szerint módosított szöveg.
 [^15]: A 4/A. § (12) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^16]: A 4/A. § (13) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.

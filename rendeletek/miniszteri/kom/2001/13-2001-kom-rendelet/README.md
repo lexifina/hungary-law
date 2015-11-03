@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-13-20-6
 | 2011-11-18 | 2001-13-20-66.9 | 106/2011. (XI. 10.) VM rendelet |
 | 2012-10-01 | 2001-13-20-66.10 | 100/2012. (IX. 28.) VM rendelet |
 | 2013-10-10 | 2001-13-20-66.11 | 100/2012. (IX. 28.) VM rendelet |
+| 2015-11-03 | 2001-13-20-66.12 | 66/2015. (X. 26.) FM rendelet |
