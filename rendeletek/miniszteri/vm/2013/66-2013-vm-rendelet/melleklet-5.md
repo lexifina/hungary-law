@@ -22,6 +22,6 @@
 
 | 10. | Tűzrakóhely | 596 euró/db |
 
-5. melléklet a 66/2013. (VII. 29.) VM rendelethez[^17]
+5. melléklet a 66/2013. (VII. 29.) VM rendelethez[^20]
 
-[^17]: Az 5. melléklet a 99/2013. (X. 28.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^20]: Az 5. melléklet a 99/2013. (X. 28.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.

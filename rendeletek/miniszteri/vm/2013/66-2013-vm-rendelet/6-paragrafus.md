@@ -1,6 +1,6 @@
 ## 6. A támogatási kérelem benyújtása
 
-6. § (1)[^3] A támogatási kérelmet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) honlapján közzétett és az MVH központi szerve által rendszeresített nyomtatványon, az erdészeti hatósághoz a 2013. évben október 1. és december 30. között lehet benyújtani.
+6. § (1)[^4] A támogatási kérelmet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) honlapján közzétett és az MVH központi szerve által rendszeresített nyomtatványon, az erdészeti hatósághoz a 2013. évben október 1. és december 30. között lehet benyújtani.
 
 (2) Az ügyfél a támogatási kérelem benyújtására nyitva álló időszakban egy támogatási kérelemben a 2. § a)–f) pontjaiban szereplő közjóléti létesítmények közül több létesítményre is igényelhet támogatást.
 
@@ -14,4 +14,4 @@
 
 (7) A támogatási kérelem tekintetében – a (4) és (5) bekezdésben meghatározott dokumentumok kivételével – hiánypótlásnak nincs helye.
 
-[^3]: A 6. § (1) bekezdése a 107/2013. (XI. 27.) VM rendelet 4. § a) pontja szerint módosított szöveg.
+[^4]: A 6. § (1) bekezdése a 107/2013. (XI. 27.) VM rendelet 4. § a) pontja szerint módosított szöveg.
