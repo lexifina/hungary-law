@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-11. § (1)[^10] A támogatási kérelmet az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén postai úton 2013. november 25. és 2014. január 15. között lehet benyújtani az MVH által rendszeresített és az MVH honlapján közzétett, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerinti illetékes LEADER HACS munkaszervezeti irodájához.
+11. § (1)[^11] A támogatási kérelmet az egyes mezőgazdasági és agrár-vidékfejlesztési támogatások igénybevétele esetén postai úton 2013. november 25. és 2014. január 15. között lehet benyújtani az MVH által rendszeresített és az MVH honlapján közzétett, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerinti illetékes LEADER HACS munkaszervezeti irodájához.
 
 (2) Egy ügyfél a támogatási kérelem benyújtási időszakban kizárólag egy támogatási kérelmet nyújthat be, kivéve, ha a korábban benyújtott támogatási kérelmét legkésőbb az újabb támogatási kérelem benyújtásával egyidejűleg visszavonja. Egy támogatási kérelem több támogatási célterületre is irányulhat.
 
@@ -30,4 +30,4 @@ h) az ügyfél (cégszerű) aláírását.
 
 (7) A 7. mellékletben a LEADER HACS-ok illetékességi területére vonatkozó igényelhető legmagasabb támogatási keretösszeget kell figyelembe venni abban az esetben is, ha a LEADER HACS cím birtokosa változik.
 
-[^10]: A 11. § (1) bekezdése a 130/2013. (XII. 21.) VM rendelet 50. §-a szerint módosított szöveg.
+[^11]: A 11. § (1) bekezdése a 130/2013. (XII. 21.) VM rendelet 50. §-a szerint módosított szöveg.

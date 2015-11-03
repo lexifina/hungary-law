@@ -1,3 +1,5 @@
+## 24. §[^35] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] megállapított 15. § (5a) bekezdést és 16. § (3) bekezdést a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor[^36] folyamatban lévő ügyekben is alkalmazni kell.
+
 1. melléklet a 104/2013. (XI. 14.) VM rendelethez
 
 1. Abaúj Leader Egyesület
@@ -3417,3 +3419,6 @@ B) Természetes személy esetében
 | 20 | Összesen legfeljebb: |  | 20 pont |
 
 C) Egyéni vállalkozó, mikro-, kis- vagy középvállalkozás esetében
+
+[^35]: A 24. §-t a 48/2015. (XI. 2.) MvM rendelet 21. § (3) bekezdése iktatta be.
+[^36]: A hatálybalépés időpontja 2015. november 3.
