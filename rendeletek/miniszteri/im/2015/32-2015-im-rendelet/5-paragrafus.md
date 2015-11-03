@@ -1,0 +1,1 @@
+## 4. § Az áldozatok számára a szükségleteiknek megfelelő, személyre szabott tájékoztatás a részükre átadott tájékoztató anyagon található elérhetőségeken keresztül, az áldozatsegítő szolgálatokkal való személyes kapcsolatfelvételt követően érhető el.
