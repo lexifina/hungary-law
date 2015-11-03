@@ -12,8 +12,8 @@ c) a többéves művelésre alkalmas kultúra a támogatási kérelemében bejel
 
 a) a fehérjetakarmány-növény állományban a 7. mellékletben önállóan – nem keverék formájában – nevesített fajok keveréken belüli vetőmag aránya meghaladja az 50%-ot, és
 
-b)[^34] a mezőgazdasági termelő az őszi telepítésű kultúrák kivételével a két- vagy többéves művelésre alkalmas kultúrák esetében a szálas fehérjetakarmány-növény termesztés támogatása igénylés első évében augusztus 1-jéig egyszeri, ha az állomány már többévesnek minősül, illetve a szálas fehérjetakarmány-növény termesztés támogatás igénylésének a további éveiben tárgyév július 1-ig legalább kétszeri kaszálást végezzen.
+b)[^35] a mezőgazdasági termelő az őszi telepítésű kultúrák kivételével a két- vagy többéves művelésre alkalmas kultúrák esetében a szálas fehérjetakarmány-növény termesztés támogatása igénylés első évében augusztus 1-jéig egyszeri, ha az állomány már többévesnek minősül, illetve a szálas fehérjetakarmány-növény termesztés támogatás igénylésének a további éveiben tárgyév július 1-ig legalább kétszeri kaszálást végezzen.
 
 (3) Ha a mezőgazdasági termelő olyan tábla után nyújt be szálas fehérjetakarmány-növény termesztésre vonatkozó támogatási kérelmet, amelyen azonos kultúrához tartozó növény szaporítóanyagával tárgyévben felülvetés valósul meg, akkor a támogatási kérelemben a felülvetéssel érintett teljes terület tényleges vagy várható nagyságát numerikusan jelölnie kell.
 
-[^34]: A 21. § (2) bekezdés b) pontja a 40/2015. (VII. 13.) FM rendelet 10. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^35]: A 21. § (2) bekezdés b) pontja a 40/2015. (VII. 13.) FM rendelet 10. § (6) bekezdés c) pontja szerint módosított szöveg.

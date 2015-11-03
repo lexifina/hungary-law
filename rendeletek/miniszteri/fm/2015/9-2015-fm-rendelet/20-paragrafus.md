@@ -18,4 +18,6 @@ b) a betakarítást követő két héten belüli értékesítés esetén a szám
 
 igazolja.
 
-(3) A (2) bekezdés szerinti dokumentumok másolatát a mezőgazdasági termelő köteles a betakarítást követő két héten belül, de legkésőbb tárgyév november 1-jéig az MVH részére megküldeni.
+(3)[^34] A (2) bekezdés szerinti dokumentumok másolatát a mezőgazdasági termelő köteles a betakarítást követő két héten belül, de legkésőbb tárgyév november 15-éig az MVH részére megküldeni.
+
+[^34]: A 20. § (3) bekezdése a 68/2015. (XI. 2.) FM rendelet 11. §-a szerint módosított szöveg.
