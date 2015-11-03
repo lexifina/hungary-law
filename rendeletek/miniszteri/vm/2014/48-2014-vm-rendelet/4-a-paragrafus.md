@@ -1,4 +1,4 @@
-## 4/A. §[^8] A 4. §-ban foglaltakat a 2015. évi támogatási időszakra vonatkozóan a következő eltérésekkel kell alkalmazni:
+## 4/A. §[^9] A 4. §-ban foglaltakat a 2015. évi támogatási időszakra vonatkozóan a következő eltérésekkel kell alkalmazni:
 
 a) a 4. § (1) bekezdés c) pontjától eltérően a GISZ tanácsadók összesen legalább 260 000 óra munkavégzést teljesítenek a GISZ keretében a támogatási időszak végéig;
 
@@ -12,4 +12,4 @@ e) a 4. § (1) bekezdés l) pontjától eltérően a tájékoztatási tervet 201
 
 f) az ügyfél a széleskörű tájékoztatási tevékenység keretében megvalósult rendezvényen a résztvevők által aláírt jelenléti ívet készít a résztvevők ügyfélazonosító-számának feltüntetésével.
 
-[^8]: A 4/A. §-t a 12/2014. (XII. 30.) MvM rendelet 20. § (3) bekezdése iktatta be.
+[^9]: A 4/A. §-t a 12/2014. (XII. 30.) MvM rendelet 20. § (3) bekezdése iktatta be.

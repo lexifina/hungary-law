@@ -1,6 +1,6 @@
-## 13. §[^36] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 5. § (3a) bekezdést és 5. § (7) bekezdés c) pont cb) alpontot a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^37] folyamatban levő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 14. §[^40] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] megállapított 9. § (5) bekezdést a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor[^41] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 48/2014. (IV. 25.) VM rendelethez
 
-[^36]: A 13. §-t a 8/2014. (XI. 19.) MvM rendelet 27. § (4) bekezdése iktatta be.
-[^37]: A hatálybalépés időpontja 2014. november 20.
+[^40]: A 14. §-t a 48/2015. (XI. 2.) MvM rendelet 27. §-a iktatta be.
+[^41]: A hatálybalépés időpontja 2015. november 3.

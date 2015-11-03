@@ -1,8 +1,8 @@
 ## 5. A támogatási kérelem benyújtása
 
-6. § (1)[^22] A támogatási kérelmet az MVH által rendszeresített, és az MVH honlapján közzétett formanyomtatványon, postai úton a 2014. évi támogatási időszakra vonatkozóan 2014. április 28. és május 9. között lehet benyújtani az MVH központi szervéhez.
+6. § (1)[^23] A támogatási kérelmet az MVH által rendszeresített, és az MVH honlapján közzétett formanyomtatványon, postai úton a 2014. évi támogatási időszakra vonatkozóan 2014. április 28. és május 9. között lehet benyújtani az MVH központi szervéhez.
 
-(1a)[^23] A támogatási kérelmet az MVH által rendszeresített, és az MVH honlapján közzétett formanyomtatványon, postai úton a 2015. évi támogatási időszakra vonatkozóan 2015. január 20. és február 2. között lehet benyújtani az MVH központi szervéhez.
+(1a)[^24] A támogatási kérelmet az MVH által rendszeresített, és az MVH honlapján közzétett formanyomtatványon, postai úton a 2015. évi támogatási időszakra vonatkozóan 2015. január 20. és február 2. között lehet benyújtani az MVH központi szervéhez.
 
 (2) A formanyomtatványt legalább a következő adattartalommal kell az MVH-nak rendszeresítenie:
 
@@ -32,5 +32,5 @@ c) az ügyfél által 2014. évet megelőzően folytatott agrártájékoztatási
 
 d) az ügyfél jelenlegi tájékoztatási tevékenységéhez kapcsolódó minőségbiztosítási rendszer tanúsítványát.
 
-[^22]: A 6. § (1) bekezdése a 12/2014. (XII. 30.) MvM rendelet 20. § (6) bekezdésével megállapított szöveg.
-[^23]: A 6. § (1a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 20. § (6) bekezdése iktatta be.
+[^23]: A 6. § (1) bekezdése a 12/2014. (XII. 30.) MvM rendelet 20. § (6) bekezdésével megállapított szöveg.
+[^24]: A 6. § (1a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 20. § (6) bekezdése iktatta be.
