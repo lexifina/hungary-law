@@ -40,8 +40,8 @@
 
 (4) A Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó kifizetési határozat jogerőre emelkedésétől számított öt évig áll fenn.
 
-(5)[^1]
+(5)[^2]
 
 (6) A 2. § (4) bekezdésben foglaltak vonatkozásában nem alkalmazandó a Vhr. 29. § (3) és (4) bekezdése, a 29. § (8) és (9) bekezdése, valamint a 29. § (11) bekezdése.
 
-[^1]: Az 1. § (5) bekezdését a 28/2015. (VI. 9.) MvM rendelet 87. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (5) bekezdését a 28/2015. (VI. 9.) MvM rendelet 87. § a) pontja hatályon kívül helyezte.

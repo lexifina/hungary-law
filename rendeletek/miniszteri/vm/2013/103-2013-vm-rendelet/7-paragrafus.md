@@ -16,7 +16,7 @@ c) közművelődési programok szervezése, lebonyolítása és a folyamatok nyo
 
 (3) Amennyiben a (2) bekezdés b) és c) pontjában szereplő szolgáltatáshoz kapcsolódó programok a program jellegéből adódóan e rendelet alapján támogatással érintett ingatlanon nem valósíthatók meg, akkor eltérő helyszínen, de kizárólag az ügyfél által történő szervezésben megvalósíthatók.
 
-(4)[^3] A 3. célterület vonatkozásában az ügyfél vagy az ügyfél által megbízott személy köteles egy alkalommal részt venni a Herman Ottó Intézet által, az ügyfelek számára szervezett közösségi animátor képzésen, és az azt igazoló tanúsítványt az utolsó kifizetési kérelemhez benyújtani.
+(4)[^4] A 3. célterület vonatkozásában az ügyfél vagy az ügyfél által megbízott személy köteles egy alkalommal részt venni a Herman Ottó Intézet által, az ügyfelek számára szervezett közösségi animátor képzésen, és az azt igazoló tanúsítványt az utolsó kifizetési kérelemhez benyújtani.
 
 (5) Az ügyfél köteles dokumentálni a (2) bekezdésben meghatározott szolgáltatások megvalósulását a (10) és (11) bekezdésben előírtak szerint.
 
@@ -46,4 +46,4 @@ c) fiókkönyvtár esetén a városi könyvtár SZMSZ-ében
 
 (12) Az ügyfél köteles a 3. célterület esetében az üzemeltetési időszak alatt ingyenesen szélessávú internet hozzáférést biztosítani.
 
-[^3]: A 7. § (4) bekezdése a 33/2015. (VII. 13.) MvM rendelet 14. §-a szerint módosított szöveg.
+[^4]: A 7. § (4) bekezdése a 33/2015. (VII. 13.) MvM rendelet 14. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
 3. § (1) Támogatás kizárólag az 1. mellékletben szereplő településen vagy a 2. mellékletben szereplő település külterületén megvalósuló fejlesztéshez vehető igénybe.
 
-(2)[^2] A támogatási határozattal jóváhagyott műveletet 2015. augusztus 31. napjáig kell megvalósítani, és kifizetési kérelem is e határidőig nyújtható be.
+(2)[^3] A támogatási határozattal jóváhagyott műveletet 2015. augusztus 31. napjáig kell megvalósítani, és kifizetési kérelem is e határidőig nyújtható be.
 
 (3) Költségvetési szervek esetében az EK tanácsi rendelet 71. cikk (3) bekezdés a) pontja alapján a támogatás számításának alapja az összes nettó elszámolható kiadás.
 
@@ -44,4 +44,4 @@ keretében benyújtott támogatási határozatához kapcsolt utolsó kifizetési
 
 (14) Amennyiben az 1. mellékletben szereplő település a támogatási kérelem benyújtásának időpontjában városi ranggal rendelkezik, a megvalósítandó fejlesztés nem támogatható.
 
-[^2]: A 3. § (2) bekezdése a 28/2015. (VI. 9.) MvM rendelet 85. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 28/2015. (VI. 9.) MvM rendelet 85. § (1) bekezdésével megállapított szöveg.
