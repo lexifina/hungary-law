@@ -195,9 +195,3 @@
 | Vámospércs | 426 |
 
 | Zalaegerszeg | 2336 |
-
-14. melléklet a 76/2011. (VII. 29.) VM rendelethez
-
-„1. melléklet a 44/2011. (V. 26.) VM rendelethez
-
-Értékelési szempontok
