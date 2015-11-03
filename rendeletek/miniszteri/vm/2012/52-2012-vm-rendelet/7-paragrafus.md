@@ -16,7 +16,7 @@ ad) összkomfortos legyen,
 
 ae) területén ne működjön más típusú szálláshely kivéve a sátorozóhelyet, és
 
-b) az ügyfél az a) pont szerinti szálláshelyre vonatkozóan – új szálláshely létesítése esetén legkésőbb az utolsó kifizetési kérelem benyújtásáig – a 239/2009. (X. 20.) Korm. rendelet alapján jogerős üzemeltetési engedéllyel rendelkezzen.
+b)[^6]
 
 (4) Több különböző ügyfél nem hozhat létre egy ingatlanon azonos típusú szálláshelyet.
 
@@ -30,4 +30,7 @@ c) „A” kategóriájú turistaház
 
 fejlesztése, kialakítása támogatható.
 
-(6) Ha a 2. § (1) bekezdés c) pontjában meghatározott célterületre irányuló fejlesztés új szálláshely létesítésére irányul, a 173/2003. (X. 28.) Korm. rendelet 14/C. § alapján kiállított hatósági igazolvány beszerzése szükséges az utolsó kifizetési kérelem benyújtásáig.
+(6)[^7]
+
+[^6]: A 7. § (3) bekezdés b) pontját a 48/2015. (XI. 2.) MvM rendelet 17. § a) pontja hatályon kívül helyezte.
+[^7]: A 7. § (6) bekezdését a 48/2015. (XI. 2.) MvM rendelet 17. § b) pontja hatályon kívül helyezte.

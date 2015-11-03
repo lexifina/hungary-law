@@ -1,6 +1,6 @@
 ## 8. A támogatás nem jogszerű felhasználása esetén alkalmazandó jogkövetkezmények
 
-15. §[^21] (1) Ha az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor köteles – hiányzó foglalkoztatottanként egyszer – a támogatási összegből valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot visszafizetni intézkedésben való jogosulatlan részvétel jogcímén.
+15. §[^24] (1) Ha az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor köteles – hiányzó foglalkoztatottanként egyszer – a támogatási összegből valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot visszafizetni intézkedésben való jogosulatlan részvétel jogcímén.
 
 (2) Az (1) bekezdésben nem szabályozott pontozási szempontok tekintetében vállalt kötelezettség nem teljesítése esetén, amennyiben a nem teljesítés pontszámvesztést eredményezne, az ügyfél szempontonként a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot köteles intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
 
@@ -10,4 +10,7 @@
 
 (5) Amennyiben az ügyfélnek a 2. § (1) bekezdés d) pont dc) alpontjára irányuló fejlesztéshez kapcsolódó vadászati jogosultsága az üzemeltetési kötelezettség alatt megszűnik, akkor az ügyfél köteles az új vadászati jogosultság igényléséről nyilatkozni az MVH részére, valamint a megszerzett új vadászati jogosultságról szóló határozat hiteles másolatát benyújtani az MVH részére 2017. december 31-ig. Amennyiben az ügyfél nem szerzi meg az új vadászati jogosultságot 2017. december 31-ig, akkor a támogatási összegből valamennyi kifizetési kérelem alapján jóváhagyott összeg 5%-ának megfelelő összeg, de legfeljebb 500 000 forint visszafizetésére köteles intézkedésben való jogosulatlan részvétel jogcímén.
 
-[^21]: A 15. § a 7/2015. (II. 17.) MvM rendelet 57. § (2) bekezdésével megállapított szöveg.
+(6)[^25] Amennyiben az ügyfél a 14. § (7) bekezdésében írt kötelezettségének határidőben nem tesz eleget, a kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+
+[^24]: A 15. § a 7/2015. (II. 17.) MvM rendelet 57. § (2) bekezdésével megállapított szöveg.
+[^25]: A 15. § (6) bekezdését a 48/2015. (XI. 2.) MvM rendelet 16. § (2) bekezdése iktatta be.

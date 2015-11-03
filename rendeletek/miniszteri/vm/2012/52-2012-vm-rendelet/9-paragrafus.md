@@ -30,7 +30,7 @@ g) az árajánlat kiállításának dátumát.
 
 (9) Az ajánlattevőnek csak az adóhatósághoz bejelentett tevékenysége tekintetében adott árajánlata fogadható el.
 
-(10)[^5] Amennyiben az árajánlat a (4)–(9) bekezdésben meghatározott formai és tartalmi követelményeknek nem felel meg, az elszámolni kívánt árajánlatos tételek vonatkozásában az ügyfél támogatásra nem jogosult.
+(10)[^8] Amennyiben az árajánlat a (4)–(9) bekezdésben meghatározott formai és tartalmi követelményeknek nem felel meg, az elszámolni kívánt árajánlatos tételek vonatkozásában az ügyfél támogatásra nem jogosult.
 
 (11) Ha az ügyfél a 8. § (2) bekezdés a) pontjában meghatározott szolgáltatások közül valamelyiket együttműködés keretében kívánja nyújtani, vagy az 1. melléklet 2. szakmai szempontjában meghatározott együttműködési megállapodást kíván benyújtani, abban az esetben támogatásra csak olyan együttműködési megállapodás támogatási kérelemhez történő, eredeti példányban való benyújtása esetén jogosult pontszámra, amely tartalmazza
 
@@ -48,17 +48,17 @@ f) az együttműködő partnerek cégszerű aláírását.
 
 (12) Amennyiben az ügyfél az 1. melléklet 2. szakmai szempontjához az együttműködési megállapodásokat nem nyújtja be vagy nem a (11) bekezdésében meghatározott formai és tartalmi követelményeknek megfelelően nyújtja be, a fenti értékelési szempont nem vehető figyelembe.
 
-(13)[^6] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfélnek a műveletet 2015. augusztus 31-ig kell megvalósítania.
+(13)[^9] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfélnek a műveletet 2015. augusztus 31-ig kell megvalósítania.
 
-(14)[^7]
+(14)[^10]
 
-(15)[^8]
+(15)[^11]
 
 (16) Jelen rendelet alkalmazása során nem kell vizsgálni a Vhr. 7. § (2) bekezdésében meghatározottak szerinti rendezett munkaügyi kapcsolatok feltételeinek fennállását.
 
 (17) Induló vállalkozás, egyéni vállalkozóként kérelmező és természetes személy ügyfél vonatkozásban a Vhr. 7. § (1) bekezdés c) pontja szerinti nehéz helyzetben lévőségre vonatkozó szabályokat nem kell alkalmazni.
 
-[^5]: A 9. § (10) bekezdése a 126/2012. (XII. 12.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^6]: A 9. § (13) bekezdése a 34/2015. (VII. 22.) MvM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: A 9. § (14) bekezdését a 28/2015. (VI. 9.) MvM rendelet 56. § a) pontja hatályon kívül helyezte.
-[^8]: A 9. § (15) bekezdését az 1/2014. (IX. 15.) MvM rendelet 18. §-a hatályon kívül helyezte.
+[^8]: A 9. § (10) bekezdése a 126/2012. (XII. 12.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^9]: A 9. § (13) bekezdése a 34/2015. (VII. 22.) MvM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^10]: A 9. § (14) bekezdését a 28/2015. (VI. 9.) MvM rendelet 56. § a) pontja hatályon kívül helyezte.
+[^11]: A 9. § (15) bekezdését az 1/2014. (IX. 15.) MvM rendelet 18. §-a hatályon kívül helyezte.
