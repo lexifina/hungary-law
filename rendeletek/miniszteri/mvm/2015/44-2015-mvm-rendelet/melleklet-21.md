@@ -222,7 +222,7 @@ B: ADÓFIZETÉSI VAGY A TÁRSADALOMBIZTOSÍTÁSI JÁRULÉK FIZETÉSÉRE VONATKOZ
 
 24 Kérjük, szükség szerint ismételje.
 
-C: FIZETÉSKÉPTELENSÉGGEL, ÖSSZEFÉRHETETLENSÉGGEL VAGY SZAKMAI KÖTELESSÉGSZEGÉSSEL KAPCSOLATOS OKOK[^3]
+C: FIZETÉSKÉPTELENSÉGGEL, ÖSSZEFÉRHETETLENSÉGGEL VAGY SZAKMAI KÖTELESSÉGSZEGÉSSEL KAPCSOLATOS OKOK[^4]
 
 5K21345_15
 
@@ -426,14 +426,14 @@ Alulírott(ak) a hamis nyilatkozat következményeinek teljes tudatában kijelen
 
 Alulírott(ak) kijelenti(k), hogy a hivatkozott tanúsítványokat és egyéb igazolásokat kérésre képes(ek) lesz(nek) késedelem nélkül rendelkezésre bocsátani, kivéve amennyiben:
 
-a) Az ajánlatkérő szervnek vagy a közszolgáltató ajánlatkérőnek lehetősége van arra, hogy egy bármely tagállamban lévő, ingyenesen hozzáférhető nemzeti adatbázisba belépve közvetlenül hozzájusson a kiegészítő iratokhoz[^4], vagy
+a) Az ajánlatkérő szervnek vagy a közszolgáltató ajánlatkérőnek lehetősége van arra, hogy egy bármely tagállamban lévő, ingyenesen hozzáférhető nemzeti adatbázisba belépve közvetlenül hozzájusson a kiegészítő iratokhoz[^5], vagy
 
-b) Legkésőbb 2018. október 18-án[^5] az ajánlatkérő szervezetnek vagy a közszolgáltató ajánlatkérőnek már birtokában van az érintett dokumentáció.
+b) Legkésőbb 2018. október 18-án[^6] az ajánlatkérő szervezetnek vagy a közszolgáltató ajánlatkérőnek már birtokában van az érintett dokumentáció.
 
 Alulírott(ak) hozzájárul(nak) ahhoz, hogy [az I. rész A. szakaszában megadott ajánlatkérő szerv vagy közszolgáltató ajánlatkérő] hozzáférjen a jelen egységes európai közbeszerzési dokumentum [a megfelelő rész/szakasz/pont azonosítása] alatt a [a közbeszerzési eljárás azonosítása: (rövid ismertetés, hivatkozás az Európai Unió Hivatalos Lapjában közzétett hirdetményre, hivatkozási szám)] céljára megadott információkat igazoló dokumentumokhoz.
 
 Keltezés, hely, és – ahol megkívánt vagy szükséges – aláírás(ok): [……]
 
-[^3]: Lásd a 2014/24/EU irányelv 57. cikkének (4) bekezdését.
-[^4]: Feltéve, hogy a gazdasági szereplő megadta a szükséges információt (internetcím, a kibocsátó hatóság vagy testület, a dokumentáció pontos hivatkozási adatai), amely ezt lehetővé teszi az ajánlatkérő szerv vagy a közszolgáltató ajánlatkérő számára. Amennyiben szükséges, ehhez csatolni kell a hozzáférésre vonatkozó jóváhagyást.
-[^5]: A 2014/24/EU irányelv 59. cikke (5) bekezdése második albekezdésének nemzeti végrehajtásától függően.
+[^4]: Lásd a 2014/24/EU irányelv 57. cikkének (4) bekezdését.
+[^5]: Feltéve, hogy a gazdasági szereplő megadta a szükséges információt (internetcím, a kibocsátó hatóság vagy testület, a dokumentáció pontos hivatkozási adatai), amely ezt lehetővé teszi az ajánlatkérő szerv vagy a közszolgáltató ajánlatkérő számára. Amennyiben szükséges, ehhez csatolni kell a hozzáférésre vonatkozó jóváhagyást.
+[^6]: A 2014/24/EU irányelv 59. cikke (5) bekezdése második albekezdésének nemzeti végrehajtásától függően.

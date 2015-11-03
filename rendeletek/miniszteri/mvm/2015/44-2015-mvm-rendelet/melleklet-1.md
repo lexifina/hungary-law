@@ -1,5 +1,3 @@
-## 45. § Hatályát veszti a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 92/2011. (XII. 30.) NFM rendelet.
-
 1. melléklet a 44/2015. (XI. 2.) MvM rendelethez
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
