@@ -42,7 +42,7 @@
 
 ## 9. Keltezés, a kedvezményezett telephelye szerint illetékes megyei kormányhivatal főállatorvosának (cégszerű) aláírása.
 
-4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^75]
+4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^77]
 
 ## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján tenyészsertés állományokban lévő tenyészállatok számára vonatkozó igazolás adattartalma
 
@@ -68,4 +68,4 @@
 
 6. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-[^75]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.
+[^77]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.
