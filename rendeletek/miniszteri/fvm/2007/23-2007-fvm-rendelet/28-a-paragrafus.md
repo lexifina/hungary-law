@@ -1,4 +1,4 @@
-28/A. §[^180] (1)[^181] A 2. § (1) bekezdés e) és h) pontjaiban felsorolt célok esetén, amennyiben a támogatás részletes feltételeit megállapító jogszabály erre lehetőséget ad, az a fiatal mezőgazdasági termelő, akinek ezt a minőségét az IH határozatban megállapítja, vagy e rendelet 3. § 30. pont b) alpontja értelmében fiatal mezőgazdasági termelőnek minősül, többlettámogatás igénybevételére jogosult. A 2. § (2) bekezdésében felsorolt célok esetén, amennyiben a támogatás részletes feltételeit megállapító jogszabály erre lehetőséget ad, a fiatal mezőgazdasági termelő az értékelés során többletpontokra jogosult.
+28/A. §[^182] (1)[^183] A 2. § (1) bekezdés e) és h) pontjaiban felsorolt célok esetén, amennyiben a támogatás részletes feltételeit megállapító jogszabály erre lehetőséget ad, az a fiatal mezőgazdasági termelő, akinek ezt a minőségét az IH határozatban megállapítja, vagy e rendelet 3. § 30. pont b) alpontja értelmében fiatal mezőgazdasági termelőnek minősül, többlettámogatás igénybevételére jogosult. A 2. § (2) bekezdésében felsorolt célok esetén, amennyiben a támogatás részletes feltételeit megállapító jogszabály erre lehetőséget ad, a fiatal mezőgazdasági termelő az értékelés során többletpontokra jogosult.
 
 (2) A 3. § 30. pont a) alpontja szerint fiatal mezőgazdasági termelő lehet az a természetes személy, aki
 
@@ -8,9 +8,9 @@ b) mezőgazdasági termelő tevékenységet végző őstermelő vagy egyéni vá
 
 c) az 5/a. számú mellékletben felsorolt szakképesítések, illetve az 5/b. számú mellékletben felsorolt felsőfokú végzettségek legalább egyikével rendelkezik, ideértve a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény szerint elismert, illetve honosított, külföldön szerzett bizonyítványt és oklevelet is. Az 5/a. számú vagy 5/b. számú mellékletekben nem szereplő végzettség elfogadásáról az IH a fiatal mezőgazdasági termelői minőség megállapításáról szóló határozatában dönt, amelynek során a vonatkozó szakmai követelményrendszer vizsgálata alapján a mezőgazdasági termeléshez kötődő végzettségek kerülnek elfogadásra,
 
-d)[^182] a 6. számú melléklet szerinti üzleti terv értékelése során legalább 35 pontot elér.
+d)[^184] a 6. számú melléklet szerinti üzleti terv értékelése során legalább 35 pontot elér.
 
-(3)[^183] A kérelmet az IH által rendszeresített, az ME honlapján közzétett formanyomtatványon az IH-hoz kell benyújtani 2014. december 31-ig. A formanyomtatványt a következő adattartalommal kell az IH-nak rendszeresíteni:
+(3)[^185] A kérelmet az IH által rendszeresített, az ME honlapján közzétett formanyomtatványon az IH-hoz kell benyújtani 2014. december 31-ig. A formanyomtatványt a következő adattartalommal kell az IH-nak rendszeresíteni:
 
 a) az ügyfél adóazonosító jele vagy adószáma,
 
@@ -22,13 +22,13 @@ d) az ügyfél aláírása.
 
 (4) A kérelemhez mellékelni kell:
 
-a)[^184] az érvényes őstermelői igazolvány másolatát, vagy az érvényes egyéni vállalkozásról szóló hatósági bizonyítványt, jegyzői igazolást, vagy az érvényes egyéni vállalkozói igazolvány másolatát,
+a)[^186] az érvényes őstermelői igazolvány másolatát, vagy az érvényes egyéni vállalkozásról szóló hatósági bizonyítványt, jegyzői igazolást, vagy az érvényes egyéni vállalkozói igazolvány másolatát,
 
 b) a végzettséget igazoló okirat másolatát,
 
-c)[^185] az üzleti tervet papír alapon és elektronikus adathordozón, amelynek mintája az ME honlapjáról letölthető.
+c)[^187] az üzleti tervet papír alapon és elektronikus adathordozón, amelynek mintája az ME honlapjáról letölthető.
 
-(5)[^186] A feltételeket teljesítő ügyfél esetében az IH határozatot hoz arról, hogy az ügyfél fiatal mezőgazdasági termelőnek minősül. Az IH köteles tájékoztatni az MVH-t a kérelem elbírálásának eredményéről.
+(5)[^188] A feltételeket teljesítő ügyfél esetében az IH határozatot hoz arról, hogy az ügyfél fiatal mezőgazdasági termelőnek minősül. Az IH köteles tájékoztatni az MVH-t a kérelem elbírálásának eredményéről.
 
 (6) A fiatal mezőgazdasági termelői jogosultság
 
@@ -38,13 +38,13 @@ b) a 3. § 30. pont b) alpontja szerinti esetben a határozat kiállításától
 
 ## érvényes.
 
-(7)[^187] A 3. § 30. pont a) vagy b) alpontjában meghatározott dokumentumnak legkésőbb azon – a támogatás részletes feltételeit megállapító – jogszabályban meghatározott, a támogatási kérelem benyújtására nyitva álló időszak utolsó napjától kell a (6) bekezdésnek megfelelően – érvényesnek lennie, amely időszakban az ügyfél fiatal mezőgazdasági termelői minőségét érvényesíteni kívánja.
+(7)[^189] A 3. § 30. pont a) vagy b) alpontjában meghatározott dokumentumnak legkésőbb azon – a támogatás részletes feltételeit megállapító – jogszabályban meghatározott, a támogatási kérelem benyújtására nyitva álló időszak utolsó napjától kell a (6) bekezdésnek megfelelően – érvényesnek lennie, amely időszakban az ügyfél fiatal mezőgazdasági termelői minőségét érvényesíteni kívánja.
 
-[^180]: A 28/A. §-t a 63/2007. (VII. 13.) FVM rendelet 4. §-a iktatta be, szövege az 51/2009. (IV. 16.) FVM rendelet 16. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^181]: A 28/A. § (1) bekezdése a 124/2011. (XII. 21.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^182]: A 28/A. § (2) bekezdés d) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^183]: A 28/A. § (3) bekezdése a 12/2014. (XII. 30.) MvM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^184]: A 28/A. § (4) bekezdés a) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.
-[^185]: A 28/A. § (4) bekezdés c) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (5) bekezdésével megállapított, a 12/2014. (XII. 30.) MvM rendelet 2. § f) pontja szerint módosított szöveg.
-[^186]: A 28/A. § (5) bekezdése a 23/2010. (III. 16.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^187]: A 28/A. § (7) bekezdését a 17/2011. (III. 4.) VM rendelet 5. §-a iktatta be.
+[^182]: A 28/A. §-t a 63/2007. (VII. 13.) FVM rendelet 4. §-a iktatta be, szövege az 51/2009. (IV. 16.) FVM rendelet 16. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^183]: A 28/A. § (1) bekezdése a 124/2011. (XII. 21.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^184]: A 28/A. § (2) bekezdés d) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^185]: A 28/A. § (3) bekezdése a 12/2014. (XII. 30.) MvM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^186]: A 28/A. § (4) bekezdés a) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.
+[^187]: A 28/A. § (4) bekezdés c) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (5) bekezdésével megállapított, a 12/2014. (XII. 30.) MvM rendelet 2. § f) pontja szerint módosított szöveg.
+[^188]: A 28/A. § (5) bekezdése a 23/2010. (III. 16.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^189]: A 28/A. § (7) bekezdését a 17/2011. (III. 4.) VM rendelet 5. §-a iktatta be.
