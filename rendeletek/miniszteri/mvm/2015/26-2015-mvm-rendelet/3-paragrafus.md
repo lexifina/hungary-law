@@ -10,7 +10,7 @@ b) akinek a 2. mellékletben feltüntetett kertészeti tevékenységet meghatár
 
 a) akinek a nyilatkozata alapján az 1. mellékletben szereplő SFH kódok alapján számított 2014. évi 4 EUME kertészeti üzemméretét a 2014. évben benyújtott egységes területalapú támogatási kérelmében (a továbbiakban: TERA kérelem) megjelölt hasznosítási kódok (a továbbiakban: TERA kód) és területnagyság alátámasztják,
 
-b)[^3] aki a 2014. évben benyújtott TERA kérelemmel rendelkezik, de kizárólag a 2014. évben benyújtott TERA kérelem alapján nem tudja a nyilatkozata szerinti 2014. évi 4 EUME kertészeti üzemméretét alátámasztani, az a 2014. évben benyújtott TERA kérelmében kötelezően fel nem tüntethető kertészeti tevékenységek vonatkozásában a 2014. évi 4 EUME kertészeti üzemméretét a támogatási kérelemhez elektronikusan, szkennelt formában, a gép tárolási helye szerint illetékes megyei kormányhivatal által földművelésügyi igazgatási jogkörében kiállított, a MVH által rendszeresített formanyomtatványon (a továbbiakban: kormányhivatali igazolás) hitelt érdemlően igazolja,
+b)[^4] aki a 2014. évben benyújtott TERA kérelemmel rendelkezik, de kizárólag a 2014. évben benyújtott TERA kérelem alapján nem tudja a nyilatkozata szerinti 2014. évi 4 EUME kertészeti üzemméretét alátámasztani, az a 2014. évben benyújtott TERA kérelmében kötelezően fel nem tüntethető kertészeti tevékenységek vonatkozásában a 2014. évi 4 EUME kertészeti üzemméretét a támogatási kérelemhez elektronikusan, szkennelt formában, a gép tárolási helye szerint illetékes megyei kormányhivatal által földművelésügyi igazgatási jogkörében kiállított, a MVH által rendszeresített formanyomtatványon (a továbbiakban: kormányhivatali igazolás) hitelt érdemlően igazolja,
 
 c) akinek a nyilatkozatát a 2014. évi 4 EUME kertészeti üzemméretről a 2014. évben benyújtott TERA kérelem hiányában a kormányhivatali igazolás alátámasztja,
 
@@ -24,7 +24,7 @@ e) akinek a nyilatkozatát a 2015. évi 4 EUME kertészeti üzemméretről a 201
 
 (5) Induló vállalkozás támogatás igénybevételére csak akkor jogosult, ha a támogatási kérelem benyújtásával egyidejűleg tett nyilatkozatban vállalja, hogy a 2. mellékletben szereplő kertészeti tevékenységhez kapcsolódó SFH kódok alapján számított kertészeti üzemmérete legkésőbb a 4. § (1) bekezdésben meghatározott időpontig eléri a 4 EUME üzemméretet, amelyet köteles a 4. § (3) bekezdésben meghatározott ideig fenntartani. A kertészeti üzemméret a 2015. évi TERA adatok, illetve a kormányhivatali igazolás alapján kerül megállapításra.
 
-(6)[^4] A műveletet 2015. október 15-ig kell megvalósítani.
+(6)[^5] A műveletet 2015. november 6-ig kell megvalósítani.
 
 (7) Amennyiben a támogatási kérelem alapját képező gép azonosítható a 7. mellékletben szereplő kódokkal ellátott gépcsoportokhoz tartozó gépek valamelyike szerint, de nem szerepel a gépkatalógusban, úgy az ügyfél a támogatási kérelem mellékleteként köteles benyújtani kettő, e rendelet hatálybalépését követően kiállított, 6. melléklet szerinti tartalmi elemekkel rendelkező, egymástól független forgalmazótól származó, azonos típusú, azonos műszaki paraméterekkel rendelkező gépre vonatkozó árajánlatot. Az árajánlatok közül az alacsonyabb árajánlattal rendelkező gépet kell a támogatási kérelemben feltüntetni.
 
@@ -36,5 +36,5 @@ b) kertészeti tevékenység végzésére alkalmas és e célból került érté
 
 (9) Amennyiben a kötelezően benyújtandó kettő árajánlat nem szerezhető be, úgy a forgalmazó nyilatkozatának ki kell terjedni arra, hogy az igényelt gép egyedi gyártású, az más forgalmazótól nem szerezhető be.
 
-[^3]: A 3. § (2) bekezdés b) pontja a 28/2015. (VI. 9.) MvM rendelet 100. § (1) bekezdése szerint módosított szöveg.
-[^4]: A 3. § (6) bekezdése a 35/2015. (VII. 22.) MvM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (2) bekezdés b) pontja a 28/2015. (VI. 9.) MvM rendelet 100. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (6) bekezdése a 35/2015. (VII. 22.) MvM rendelet 2. § (1) bekezdésével megállapított, a 48/2015. (XI. 2.) MvM rendelet 33. § a) pontja szerint módosított szöveg.

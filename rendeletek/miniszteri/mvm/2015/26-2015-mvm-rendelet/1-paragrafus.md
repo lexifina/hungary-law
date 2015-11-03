@@ -2,7 +2,7 @@
 
 1. § (1) E rendelet alkalmazásában
 
-1.[^1] fiatal mezőgazdasági termelő:
+1.[^2] fiatal mezőgazdasági termelő:
 
 a) az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 3. § 30. pontjától eltérően az a természetes személy, aki az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelet, vagy az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2012. évben igényelhető támogatások részletes feltételeiről szóló 57/2012. (VI. 21.) VM rendelet, vagy az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2014. évben igényelhető támogatások részletes feltételeiről szóló 34/2014. (IV. 4.) VM rendelet alapján támogatási határozattal rendelkezik és a kötelezően vállalt működtetési időszak a támogatási kérelem beadásakor még fennáll, vagy kizárólag forráshiányon alapuló elutasító határozattal rendelkezik,
 
@@ -36,7 +36,7 @@ cd) vállalja, hogy a működtetési időszaktól függetlenül, első alkalomma
 
 (4) E rendelet vonatkozásában nem alkalmazandóak a Vhr. 3. § 30. pontjában, 7. § (1) bekezdés b) pontjában, 7. § (2) bekezdésében, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 16/B. § (2) bekezdésében, 17. § (2)–(4) bekezdésében, 24. §-ában, 25. § (2) bekezdésében, 27. § (1) bekezdés e)–f) pontjában, 28/C. §-ában, 29. § (3)–(4) bekezdésében, 31. §-ában, 33. § (4) bekezdésében, valamint 35. § (5) bekezdésében foglalt rendelkezések.
 
-(5)[^2] A Vhr. 15. § (1) bekezdés b) pontjától eltérően támogatásra jogosult az az ügyfél is, aki az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészeti gépek, technológiai berendezések beszerzéséhez a 2013. évben nyújtandó támogatások részletes feltételeiről szóló 62/2013. (VII. 24.) VM rendelet szerint nyújtott támogatás kapcsán áll kizárás hatálya alatt.
+(5)[^3] A Vhr. 15. § (1) bekezdés b) pontjától eltérően támogatásra jogosult az az ügyfél is, aki az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészeti gépek, technológiai berendezések beszerzéséhez a 2013. évben nyújtandó támogatások részletes feltételeiről szóló 62/2013. (VII. 24.) VM rendelet szerint nyújtott támogatás kapcsán áll kizárás hatálya alatt.
 
-[^1]: Az 1. § (1) bekezdés 1. pontja a 28/2015. (VI. 9.) MvM rendelet 99. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (5) bekezdését a 33/2015. (VII. 13.) MvM rendelet 17. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés 1. pontja a 28/2015. (VI. 9.) MvM rendelet 99. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (5) bekezdését a 33/2015. (VII. 13.) MvM rendelet 17. § (1) bekezdése iktatta be.

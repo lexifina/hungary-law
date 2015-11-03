@@ -1,4 +1,4 @@
-4. § (1)[^5] Az ügyfél legkésőbb 2015. október 15-ig köteles a kifizetési kérelmet benyújtani.
+4. § (1)[^6] Az ügyfél legkésőbb 2015. november 6-ig köteles a kifizetési kérelmet benyújtani.
 
 (2) Az ügyfél köteles:
 
@@ -14,7 +14,7 @@ c) az üzemeltetési kötelezettség időtartamának egésze alatt a legalább 4
 
 (5) A művelet e rendelet hatálybalépésének időpontjától az ügyfél saját felelősségére megkezdhető.
 
-(6)[^6] Amennyiben a támogatást igénylő olyan szakképesítéssel rendelkezik, amely a 4. vagy 5. mellékletben nem szerepel, úgy köteles a Herman Ottó Intézet, mint az Új Magyarország Vidékfejlesztési Program megvalósulását segítő szakképzés felügyeletét ellátó szervezet állásfoglalását beszerezni arra vonatkozóan, hogy szakképesítése a 4. vagy 5. mellékletben felsorolt szakképesítések közül melyiknek felel meg.
+(6)[^7] Amennyiben a támogatást igénylő olyan szakképesítéssel rendelkezik, amely a 4. vagy 5. mellékletben nem szerepel, úgy köteles a Herman Ottó Intézet, mint az Új Magyarország Vidékfejlesztési Program megvalósulását segítő szakképzés felügyeletét ellátó szervezet állásfoglalását beszerezni arra vonatkozóan, hogy szakképesítése a 4. vagy 5. mellékletben felsorolt szakképesítések közül melyiknek felel meg.
 
-[^5]: A 4. § (1) bekezdése a 35/2015. (VII. 22.) MvM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^6]: A 4. § (6) bekezdése a 33/2015. (VII. 13.) MvM rendelet 18. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdése a 35/2015. (VII. 22.) MvM rendelet 2. § (2) bekezdésével megállapított, a 48/2015. (XI. 2.) MvM rendelet 33. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (6) bekezdése a 33/2015. (VII. 13.) MvM rendelet 18. § a) pontja szerint módosított szöveg.

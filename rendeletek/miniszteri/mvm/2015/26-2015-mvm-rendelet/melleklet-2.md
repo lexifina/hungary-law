@@ -38,6 +38,6 @@
 
 | 16. | D23 | Dohány | DV102; DBU01 |
 
-2. melléklet a 26/2015. (V. 6.) MvM rendelethez[^14]
+2. melléklet a 26/2015. (V. 6.) MvM rendelethez[^17]
 
-[^14]: A 2. melléklet a 28/2015. (VI. 9.) MvM rendelet 100. § (2) bekezdése, a 33/2015. (VII. 13.) MvM rendelet 18. § b) pontja szerint módosított szöveg.
+[^17]: A 2. melléklet a 28/2015. (VI. 9.) MvM rendelet 100. § (2) bekezdése, a 33/2015. (VII. 13.) MvM rendelet 18. § b) pontja szerint módosított szöveg.
