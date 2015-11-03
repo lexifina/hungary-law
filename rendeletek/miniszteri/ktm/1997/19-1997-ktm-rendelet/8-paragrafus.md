@@ -20,8 +20,8 @@ c) a fogság következtében az egyed nem hordozza más, rokon faj olyan magatar
 
 (3) Amennyiben az (1)–(2) bekezdésben foglalt feltételek hiánya miatt az egyed élőhelyére való visszajuttatására nincs mód – a természet- és állatvédelmi szempontoknak megfelelő – hasznosítása mentőközpontban való elhelyezés lehet.
 
-(4)[^5] Mentőközpont vadaspark, állatkert vagy a természetvédelemért felelős miniszter által nyilvántartott védett állatfaj tartására szolgáló hely lehet.
+(4)[^6] Mentőközpont vadaspark, állatkert vagy a természetvédelemért felelős miniszter által nyilvántartott védett állatfaj tartására szolgáló hely lehet.
 
 (5) Ha a védett állatfaj mentőközpontban történő elhelyezésére nincsen lehetőség, – az állam tulajdonjogának fenntartásával – magángyűjteményben történő elhelyezésére is sor kerülhet, ha ott a tartás feltételei biztosítottak.
 
-[^5]: A 8. § (4) bekezdése a 132/2013. (XII. 23.) VM rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 8. § (4) bekezdése a 132/2013. (XII. 23.) VM rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.

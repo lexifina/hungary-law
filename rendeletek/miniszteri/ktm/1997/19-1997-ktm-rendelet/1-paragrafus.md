@@ -8,7 +8,7 @@ b) külön jogszabályban meghatározott eljárás keretében más hatóság ál
 
 elkobzott védett és fokozottan védett (a továbbiakban együtt: védett) természeti értékek elhelyezésére, hasznosítására, megsemmisítésére, valamint az ehhez kapcsolódó hatósági feladatokra.
 
-(2) E rendelet hatálya kiterjed a nemzetközi természetvédelmi egyezmény hatálya alá tartozó védett természeti értékekre is, ha a nemzetközi természetvédelmi egyezmény vagy végrehajtására kiadott jogszabály másként nem rendelkezik.
+(2)[^3] E rendelet hatálya kiterjed a nemzetközi természetvédelmi egyezmény hatálya alá tartozó, vagy az Európai Unióban természetvédelmi szempontból jelentős védett természeti értékekre is, ha a nemzetközi természetvédelmi egyezmény vagy végrehajtására kiadott jogszabály másként nem rendelkezik.
 
 (3) Az (1)–(2) bekezdések szempontjából védett természeti értéknek tekintendő:
 
@@ -20,3 +20,4 @@ c) a barlangi képződmény.
 
 [^1]: Az 1. § (1) bekezdése a 3/2005. (II. 22.) KvVM rendelet 1. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^2]: Az 1. § (1) bekezdés a) pontja a 15/2015. (III. 31.) FM rendelet 3. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 66/2015. (X. 26.) FM rendelet 1. § (2) bekezdése szerint módosított szöveg.
