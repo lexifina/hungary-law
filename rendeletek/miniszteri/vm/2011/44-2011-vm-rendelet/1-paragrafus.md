@@ -18,7 +18,7 @@ d) a helyi gazdálkodási módok, termelési szokások bemutatása,
 
 4. egyéb szálláshely: szálláshely-szolgáltatás céljára hasznosított, a szálláshely, a szálláshely szolgáltatás, a szálloda, a panzió, a kemping, az üdülőház és a közösségi szálláshely fogalma alá nem tartozó, nem kizárólag szálláshely-szolgáltatás rendeltetéssel létesített önálló épület vagy annak lehatárolt része, ahol az e célra hasznosított szobák száma legfeljebb nyolc, az ágyak száma legfeljebb tizenhat,
 
-5.[^1]
+5.[^2]
 
 6. erdei turizmus: a természetjáró turizmusnak az a válfaja, amely erdei területeken a természeti javak ingyenes igénybe vételére, illetve ellenértékes hasznosítására épül, turistautak, tanösvények és a természet megfigyelésére alkalmas létesítmények kialakításával, karbantartásával fejlesztésével,
 
@@ -36,7 +36,7 @@ d) a helyi gazdálkodási módok, termelési szokások bemutatása,
 
 13. lovas turisztikai szolgáltatás: a lovas szolgáltató tevékenységről szóló 14/2008. (XII. 20.) ÖM rendeletben, valamint az e rendeletben meghatározott követelményeknek megfelelően a lovaglás és a hajtás közül a lovagoltatáshoz, lovas oktatáshoz, lovas terápiához, terep- vagy túralovagláshoz, fogatoztatáshoz kapcsolódó turisztikai szolgáltatás,
 
-14.[^2] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
+14.[^3] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
 15. rekreációs szolgáltatás: az aktív szabadidős tevékenységekhez kapcsolódó, az egészségmegőrzést célul kitűző szolgáltatás,
 
@@ -48,5 +48,5 @@ d) a helyi gazdálkodási módok, termelési szokások bemutatása,
 
 (2) Az e rendeletben nem szabályozott fogalmakat a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltaknak megfelelően kell értelmezni.
 
-[^1]: Az 1. § (1) bekezdés 5. pontját a 121/2013. (XII. 16.) VM rendelet 18. § (4) bekezdése hatályon kívül helyezte.
-[^2]: Az 1. § (1) bekezdés 14. pontja a 126/2012. (XII. 12.) VM rendelet 6. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés 5. pontját a 121/2013. (XII. 16.) VM rendelet 18. § (4) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (1) bekezdés 14. pontja a 126/2012. (XII. 12.) VM rendelet 6. §-ával megállapított szöveg.

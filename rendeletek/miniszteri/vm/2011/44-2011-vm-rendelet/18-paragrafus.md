@@ -1,4 +1,4 @@
-## 17/D. §[^15] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 15. § (4) és (5) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor[^16] folyamatban lévő eljárásokban valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 17/E. §[^19] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] megállapított 15. § (5) bekezdést és 16. § (6) bekezdést a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor[^20] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^15]: A 17/D. §-t a 28/2015. (VI. 9.) MvM rendelet 35. § (2) bekezdése iktatta be.
-[^16]: A hatálybalépés időpontja 2015. június 10.
+[^19]: A 17/E. §-t a 48/2015. (XI. 2.) MvM rendelet 8. § (3) bekezdése iktatta be.
+[^20]: A hatálybalépés időpontja 2015. november 3.

@@ -6,7 +6,7 @@ b) – ha a települési önkormányzat képviseletében a képviselőtestület 
 
 c) nonprofit szervezet ügyfél esetén a nyilvántartásba vételét igazoló 30 napnál nem régebbi bírósági kivonatot,
 
-d)[^4] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
+d)[^5] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
 
 e) a Vhr. 27. § (1) bekezdés h) pontjában foglaltaknak megfelelő pénzügyi tervet, ha a kérelmezett támogatás összege az 5 000 000 forintot nem haladja meg,
 
@@ -40,4 +40,4 @@ bb) az ügyfél nevére szóló építési tervdokumentációt, ami a tervezett 
 
 (3) Az (1) és (2) bekezdésben meghatározott dokumentumok esetében hiánypótlásnak helye nincs.
 
-[^4]: A 12. § (1) bekezdés d) pontja a 121/2013. (XII. 16.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^5]: A 12. § (1) bekezdés d) pontja a 121/2013. (XII. 16.) VM rendelet 18. § (1) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 8. A kifizetési kérelem benyújtása
 
-15. § (1)[^5]
+15. § (1)[^6]
 
 (2) A kifizetési kérelem
 
@@ -32,10 +32,10 @@ c) a 2. § (1) bekezdés d) pont db) alpontjában meghatározott fejlesztések e
 
 d) a turisztikai szakmai szervezeti tagság igazolását.
 
-(4)[^6] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően – az utolsó kifizetési kérelmet kivéve – háromhavonta nyújthat be kifizetési kérelmet.
+(4)[^7] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően – az utolsó kifizetési kérelmet kivéve – háromhavonta nyújthat be kifizetési kérelmet.
 
-(5)[^7] Amennyiben az ügyfél a (3) bekezdésben meghatározott valamely okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást ennek benyújtásáig, de legkésőbb 2015. szeptember 30-ig felfüggeszti. 2015. szeptember 30. napját követően a (3) bekezdésben meghatározott bármely okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
+(5)[^8] Amennyiben az ügyfél a (3) bekezdésben meghatározott valamely okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, az egyéb feltételek fennállása esetén kifizetési kérelmének helyt kell adni, ezen okiratot pedig a kifizetési határozat közlésétől számított 6 hónapon belül kell benyújtania.
 
-[^5]: A 15. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte.
-[^6]: A 15. § (4) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 18. § (2) bekezdése iktatta be, szövege a 28/2015. (VI. 9.) MvM rendelet 36. §-a szerint módosított szöveg.
-[^7]: A 15. § (5) bekezdését a 28/2015. (VI. 9.) MvM rendelet 35. § (1) bekezdése iktatta be.
+[^6]: A 15. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte.
+[^7]: A 15. § (4) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 18. § (2) bekezdése iktatta be, szövege a 28/2015. (VI. 9.) MvM rendelet 36. §-a szerint módosított szöveg.
+[^8]: A 15. § (5) bekezdését a 28/2015. (VI. 9.) MvM rendelet 35. § (1) bekezdése iktatta be, szövege a 48/2015. (XI. 2.) MvM rendelet 8. § (1) bekezdésével megállapított szöveg.

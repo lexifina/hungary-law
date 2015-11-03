@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-44-20-2
 | 2013-12-17 | 2011-44-20-2Y.7 | 121/2013. (XII. 16.) VM rendelet |
 | 2015-02-17 | 2011-44-20-2Y.8 | 7/2015. (II. 17.) MvM rendelet |
 | 2015-06-10 | 2011-44-20-2Y.9 | 28/2015. (VI. 9.) MvM rendelet |
+| 2015-11-03 | 2011-44-20-2Y.10 | 48/2015. (XI. 2.) MvM rendelet |
