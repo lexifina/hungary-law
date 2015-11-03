@@ -1,60 +1,45 @@
 ## A díjtámogatás jogosultsági feltételei
 
-4. § (1)[^6] Díjtámogatásra jogosult az a természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: kedvezményezett), aki vagy amely:
+4. §[^10] (1) Díjtámogatásra jogosult az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: kedvezményezett), aki vagy amely
 
-a)[^7] megfelel az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (a továbbiakban: 702/2014/EU bizottsági rendelet) I. számú mellékletében megfogalmazott mikro-, kis- és középvállalkozás meghatározásának;
+a) megfelel az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (a továbbiakban: 702/2014/EU bizottsági rendelet) I. számú mellékletében megfogalmazott mikro-, kis- és középvállalkozás meghatározásának;
 
-b) jégeső-elhárító rendszer működésének területén termőföldet használ;
+b) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: eljárási törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a díjtámogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét az eljárási törvény alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe;
 
-c) a tárgyévi jégeső-elhárítási díjfizetési kötelezettségének a szervezet által meghatározott határidőig eleget tesz;
+c) a díjtámogatási kérelem benyújtásának időpontjában
 
-d)[^8]
+ca) nem áll felszámolási, végelszámolási eljárás alatt,
 
-e)[^9] nyilatkozik, hogy az e rendeletben szabályozott díjtámogatás igénylésével kapcsolatban a jégeső-elhárító szervezet részére – a szervezet székhelye szerint illetékes megyei kormányhivatal Földművelésügyi Igazgatósága (a továbbiakban: földművelésügyi hatóság), valamint a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) előtti eljárásra – adott meghatalmazás és nyilatkozat aláírása időpontjában:
+cb) megfelel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. § (1) bekezdés a) és c) pontjában meghatározott követelményeknek;
 
-ea) nem áll csőd-, felszámolási, végelszámolási eljárás alatt, vagy vele szemben gazdasági tevékenységből eredő tartozás megfizetése vagy gazdasági tevékenységével összefüggő kötelezettség kikényszerítése miatt végrehajtási eljárás nincs folyamatban, vagy a korábban ellene vezetett végrehajtás eredményes volt,
+d) nem címzettje érvényben lévő támogatás visszafizetésére kötelező olyan európai bizottsági határozatnak, amely a támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
 
-eb) nincs lejárt köztartozása,
+e) nem minősül a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerint nehéz helyzetben lévő vállalkozásnak;
 
-ec) lejárt köztartozása van, de annak megfizetésére halasztást, vagy részletfizetési lehetőséget kapott,
+f) a jégeső-elhárító rendszer működésének területén termőföldet használ;
 
-ed)[^10] a vállalkozás megfelel a rendezett munkaügyi kapcsolatoknak az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. § (1) bekezdésében meghatározott feltételeinek;
+g) a tárgyévi jégeső-elhárítási díjfizetési kötelezettségének a jégeső-elhárító szervezet által meghatározott határidőig eleget tesz;
 
-f)[^11] hozzájárul ahhoz, hogy a támogatás folyósítója az e) pont szerinti nyilatkozat valóságtartalmának igazolását kérje az Áht. 52. §-ában meghatározott eljárásban vagy közvetlenül az állami, önkormányzati adóhatóságtól és a vámhatóságtól;
+h) kötelezettséget vállal arra, hogy amennyiben megállapítást nyer a díjtámogatásra való jogosulatlansága, úgy a jégeső-elhárító szervezet részére a számla szerinti jégeső-elhárítási díj teljes összegét megfizeti;
 
-g)[^12] kötelezettséget vállal arra, hogy amennyiben megállapítást nyer a díjtámogatásra való jogosulatlansága, a jégeső-elhárító szervezet részére a számla szerinti jégeső-elhárítási díj teljes összegét megfizeti;
+i) a c)–e) pontban foglaltakról a j) pont szerinti meghatalmazásban nyilatkozik és
 
-h)[^13] nyilatkozik, hogy vállalkozása megfelel a 702/2014/EU bizottsági rendelet I. számú mellékletében meghatározott mikro-, kis- és középvállalkozás fogalmának.
+j) meghatalmazást ad a jégeső-elhárító szervezetnek arra vonatkozóan, hogy a jégeső-elhárító szervezet helyette és nevében az e rendelet szerinti
 
-(2)[^14] A díjtámogatás igénylésére – a 4. § (1) bekezdése szerinti kedvezményezett meghatalmazása alapján – az a szervezet jogosult, amely
+ja) díjtámogatás igénybevételére vonatkozó kérelmet (a továbbiakban: díjtámogatási kérelem) benyújtsa a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH), valamint
 
-a)[^15]
+jb) díjtámogatás kifizetésére irányuló kérelmet (a továbbiakban: kifizetési kérelem) nyújtson be a jégeső-elhárító szervezet székhelye szerint illetékes földművelésügyi igazgatási hatáskörében eljáró megyei kormányhivatal (a továbbiakban: földművelésügyi hatóság)
 
-b) legalább tízezer négyzetkilométer kiterjedésű területen jégeső-elhárító rendszert működtet;
+## előtti eljárásra.
 
-c)[^16] az adott támogatási évre a földművelésügyi hatósághoz benyújtott jégeső-elhárítási tervvel rendelkezik;
+(2) A kedvezményezett az (1) bekezdés j) pontja szerinti meghatalmazásban nyilatkozik arról, hogy
 
-d)[^17] a tárgyévet megelőző évben végzett jégkár-elhárítási tevékenységéről készített beszámolóját a földművelésügyi hatósághoz és az agrárpolitikáért felelős miniszterhez benyújtotta (kivéve a tevékenységét a tárgyévben megkezdő szervezetet);
+a) a jégeső-elhárító szervezet által nyújtott jégeső-elhárítási szolgáltatást kíván igénybe venni, és
 
-e) a szervezet szolgáltatásait igénybe vevő mezőgazdasági termelők tárgyévre megállapított jégeső-elhárítási díjfizetési kötelezettségét és annak teljesítését dokumentálja;
+b) megismerte a díjtámogatás igénybevételére vonatkozó feltételeket.
 
-f) nyilatkozik, hogy a díjtámogatási kérelem benyújtásakor:
+(3) A díjtámogatási kérelmet a jégeső-elhárító szervezetnek a kedvezményezett (1) bekezdés j) pont ja) alpontja szerinti meghatalmazása alapján tárgyév április 30-ig – az 1. számú melléklet szerinti adattartalommal – az MVH által rendszeresített és a honlapján közzétett nyomtatványon, kedvezményezettenkénti bontásban kell benyújtania az MVH-hoz.
 
-fa) nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, és
+(4) A hiányosan vagy nem megfelelően kitöltött díjtámogatási kérelem vonatkozásában az MVH egy alkalommal, nyolc napos határidő tűzésével hiánypótlásra hívja fel a jégeső-elhárító szervezetet.
 
-fb) nincs lejárt köztartozása, vagy
-
-fc) lejárt köztartozása van, de annak megfizetésére halasztást vagy részletfizetési lehetőséget kapott.
-
-[^6]: A 4. § (1) bekezdés nyitó szövegrésze a 22/2014. (III. 14.) VM rendelet 69. § (2) bekezdése szerint módosított szöveg.
-[^7]: A 4. § (1) bekezdés a) pontja a 31/2014. (XII. 9.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: A 4. § (1) bekezdés d) pontját a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés e) pontja hatályon kívül helyezte.
-[^9]: A 4. § (1) bekezdés e) pontja a 93/2012. (VIII. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^10]: A 4. § (1) bekezdés ed) pontja a 93/2012. (VIII. 30.) VM rendelet 5. § a) pontja szerint módosított szöveg.
-[^11]: A 4. § (1) bekezdés f) pontját a 171/2009. (XII. 22.) FVM rendelet 7. § (1) bekezdése iktatta be, szövege a 93/2012. (VIII. 30.) VM rendelet 5. § b) pontja szerint módosított szöveg.
-[^12]: A 4. § (1) bekezdés g) pontját a 171/2009. (XII. 22.) FVM rendelet 7. § (1) bekezdése iktatta be.
-[^13]: A 4. § (1) bekezdés h) pontját a 171/2009. (XII. 22.) FVM rendelet 7. § (1) bekezdése iktatta be, szövege a 31/2014. (XII. 9.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^14]: A 4. § (2) bekezdés bevezető szövegrésze a 171/2009. (XII. 22.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^15]: A 4. § (2) bekezdés a) pontját a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés e) pontja hatályon kívül helyezte.
-[^16]: A 4. § (2) bekezdés c) pontja a 93/2012. (VIII. 30.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^17]: A 4. § (2) bekezdés d) pontja a 31/2014. (XII. 9.) FM rendelet 4. §-ával megállapított szöveg.
+[^10]: A 4. § a 68/2015. (XI. 2.) FM rendelet 4. §-ával megállapított szöveg.
