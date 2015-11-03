@@ -38,15 +38,10 @@ ge) gyalogakác (Amorpha fruticosa),
 
 h)[^7] az erdő igénybevételének ellentételezéseként, az Evt. 78. § (3) bekezdése alapján előírt csereerdősítésre.
 
-(3) Az e rendelet alapján igénybe vett támogatás alapjául szolgáló területre a támogatási időszak alatt:
-
-a) egységes területalapú támogatást, vagy
-
-b) az egységes területalapú támogatásokhoz kapcsolódó kiegészítő nemzeti támogatást
-
-## nem lehet igénybe venni.
+(3)[^8]
 
 (4) E rendelet alapján nem vehet igénybe támogatást az, aki a tanácsi rendelet 23. cikke szerinti, gazdaságátadási támogatások részletes feltételeiről szóló külön jogszabály előírásai szerinti támogatásban részesül.
 
 [^6]: A 3. § (2) bekezdés f) pontját a 46/2010. (XII. 31.) VM rendelet 10. §-a hatályon kívül helyezte.
 [^7]: A 3. § (2) bekezdés h) pontját a 37/2012. (IV. 16.) VM rendelet 6. §-a iktatta be.
+[^8]: A 3. § (3) bekezdését a 48/2015. (XI. 2.) MvM rendelet 4. §-a hatályon kívül helyezte.
