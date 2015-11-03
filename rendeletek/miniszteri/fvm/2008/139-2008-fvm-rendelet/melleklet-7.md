@@ -524,6 +524,6 @@
 
 |  |  | – felhasznált vízmennyiség. |  |  |
 
-7. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^98]
+7. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^100]
 
-[^98]: A 7. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (5) bekezdése iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés g) pontja.
+[^100]: A 7. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (5) bekezdése iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés g) pontja.

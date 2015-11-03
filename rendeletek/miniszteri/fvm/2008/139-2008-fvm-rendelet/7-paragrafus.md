@@ -22,7 +22,7 @@ a)[^55] fel kell tüntetni az igénybe vett képzésnek az 1. és 6. számú mel
 
 b)[^56] nem kell feltüntetni a Vhr. 19. § (6) bekezdésében szereplő támogatási határozat azonosító számot, és a 19. § (8) bekezdés f)–g) pontjaiban foglaltakat.
 
-(4)[^57] Az ügyfél képzésenként egy egyesített támogatási és kifizetési kérelmet nyújthat be. A támogatási és kifizetési kérelem csak a benyújtási időszakot megelőző nyolcadik munkanapon lezárult, és a benyújtást megelőzően pénzügyileg rendezett képzésekre vonatkozóan nyújtható be.
+(4)[^57] A támogatási és kifizetési kérelem csak a benyújtási időszakot megelőző nyolcadik munkanapon lezárult, és a benyújtást megelőzően pénzügyileg rendezett képzésekre vonatkozóan nyújtható be.
 
 (5)[^58] A szerződés hatálybalépésének napja nem lehet korábbi a szerződés megkötésének napjánál.
 
@@ -66,7 +66,7 @@ cb) június 1-jétől június 30-ig.
 [^54]: A 7. § (3) bekezdése az 50/2009. (IV. 16.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^55]: A 7. § (3) bekezdés a) pontja a 6/2010. (II. 2.) FVM rendelet 8. §-a, a 4/2013. (II. 4.) VM rendelet 14. §-a szerint módosított szöveg.
 [^56]: A 7. § (3) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^57]: A 7. § (4) bekezdése az 50/2009. (IV. 16.) FVM rendelet 4. § (1) bekezdésével megállapított, a 90/2011. (X. 3.) VM rendelet második (3) bekezdése szerint módosított szöveg.
+[^57]: A 7. § (4) bekezdése a 48/2015. (XI. 2.) MvM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^58]: A 7. § (5) bekezdése a 18/2010. (IX. 30.) VM rendelet 9. §-a szerint módosított szöveg.
 [^59]: A 7. § (6) bekezdése a 12/2014. (XII. 30.) MvM rendelet 8. § (4) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 17. §-a szerint módosított szöveg.
 [^60]: A 7. § (7) bekezdése a 6/2010. (II. 2.) FVM rendelet 5. § (3) bekezdésével megállapított, a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése, a 33/2015. (VII. 13.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
