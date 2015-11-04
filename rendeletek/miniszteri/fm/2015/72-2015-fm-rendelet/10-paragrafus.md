@@ -1,0 +1,1 @@
+## „c) szaporítóanyag-felhasználás esetén a felhasznált szaporítóanyagra vonatkozó származási igazolás másolatát, nem Magyarországról származó szaporítóanyag esetén a kérelmező nevére kiállított, a felhasznált szaporítóanyag származását igazoló dokumentum (adás-vételét igazoló számla, szállítólevél, származási igazolás) és a certifikációs címke másolatát;”
