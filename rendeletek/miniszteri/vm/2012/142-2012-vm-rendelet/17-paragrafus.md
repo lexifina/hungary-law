@@ -20,4 +20,8 @@ h) az ültetvény nem minősül az 1. § g) pontja szerinti ültetvénynek;
 
 i) a helyszíni ellenőrzés során megállapítást nyer, hogy a kérelmező használatában álló ültetvény nem a kérelemben megjelölt helyrajzi számú területen található;
 
-j) az ültetvényt nem érvényes vagy hatályos engedély alapján telepítették.
+j) az ültetvényt nem érvényes vagy hatályos engedély alapján telepítették;
+
+k)[^25] a tevékenységet a 7. § (9) bekezdésében jelölt időszakon túl valósították meg.
+
+[^25]: A 17. § k) pontját a 72/2015. (XI. 3.) FM rendelet 10. §-a iktatta be.

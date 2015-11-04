@@ -2,13 +2,13 @@
 
 16. § (1) Az egyéni terven szereplő tevékenység végrehajtását követően a támogatási kérelmet egy eredeti példányban postai úton az MVH részére kell benyújtani.
 
-(2) A támogatási kérelmeket az adott borpiaci évben az egyéni terv szerint befejezett tevékenységre vonatkozóan 2014-től április 1. és július 15. közötti időszakban lehet benyújtani, a benyújtás időpontjának a támogatási kérelem postára adásának napja minősül.
+(2)[^22] A támogatási kérelmeket az egyéni terv szerint befejezett tevékenységre vonatkozóan a borpiaci év április 1. és július 15. közötti időszakában lehet benyújtani. A benyújtás időpontjának a támogatási kérelem postára adásának napja minősül.
 
 (3) Támogatási kérelmet kizárólag az nyújthat be, aki (amely) az MVH által jóváhagyott egyéni tervvel rendelkezik.
 
 (4) A támogatási kérelem az alábbi adatokat tartalmazza
 
-a)[^9] a kérelmező azonosításához szükséges adatok (ügyfél-azonosító, név, kapcsolattartási információk);
+a)[^23] a kérelmező azonosításához szükséges adatok (ügyfél-azonosító, név, kapcsolattartási információk);
 
 b) az egyéni tervnek helyt adó vagy részben helyt adó határozat iktatószáma;
 
@@ -20,7 +20,7 @@ a) az ültetvény támrendszeréről készített vázrajzot;
 
 b) az ültetvényleltárt az 5. melléklet szerint;
 
-c) szaporítóanyag-felhasználás esetén a felhasznált szaporítóanyagra vonatkozó származási igazolás másolatát, nem Magyarországról származó szaporítóanyag esetén a certifikációs címke, vagy származási igazolás másolatát;
+c)[^24] szaporítóanyag-felhasználás esetén a felhasznált szaporítóanyagra vonatkozó származási igazolás másolatát, nem Magyarországról származó szaporítóanyag esetén a kérelmező nevére kiállított, a felhasznált szaporítóanyag származását igazoló dokumentum (adás-vételét igazoló számla, szállítólevél, származási igazolás) és a certifikációs címke másolatát;
 
 d) amennyiben az egyéni tervhez mellékelt a tevékenység végrehajtására vonatkozó engedély módosult, úgy annak másolatát.
 
@@ -34,4 +34,6 @@ d) amennyiben az egyéni tervhez mellékelt a tevékenység végrehajtására vo
 
 (10) Adott borpiaci évben egy kérelmező több támogatási kérelmet is benyújthat.
 
-[^9]: A 16. § (4) bekezdés a) pontja a 12/2014. (II. 21.) VM rendelet 6. § d) pontja szerint módosított szöveg.
+[^22]: A 16. § (2) bekezdése a 72/2015. (XI. 3.) FM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^23]: A 16. § (4) bekezdés a) pontja a 12/2014. (II. 21.) VM rendelet 6. § d) pontja szerint módosított szöveg.
+[^24]: A 16. § (5) bekezdés c) pontja a 72/2015. (XI. 3.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.

@@ -4,7 +4,7 @@
 
 a) amelynek telepítését az egyéni terv benyújtását megelőző borpiaci év előtt kezdték meg;
 
-b) amelyre vonatkozóan az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt;
+b)[^11] amelyre vonatkozóan az egyéni tervben megjelölt művelet végrehajtásának borpiaci évét megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt;
 
 c) amely olyan területen van, amelynek termőhelyi kataszteri pontértéke a 195 pontértéket nem haladja meg és az egyéni terv a 2012/2013 borpiaci évben kerül benyújtásra;
 
@@ -23,3 +23,5 @@ i) amely nem felel meg a borvidéki tervnek;
 j) amely kapcsán a 2012/2013 borpiaci évben benyújtott egyéni tervben megjelölt telepítendő tőszám 3400 tő/ha alatti;
 
 k) amely kapcsán a 2013/2014 borpiaci évben vagy azt követően benyújtott egyéni tervben megjelölt telepítendő tőszám 3500 tő/ha alatti.
+
+[^11]: A 10. § b) pontja a 72/2015. (XI. 3.) FM rendelet 5. §-ával megállapított szöveg.

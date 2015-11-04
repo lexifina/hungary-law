@@ -2,7 +2,7 @@
 
 9. § (1) Az egyéni tervet az MVH által rendszeresített és honlapján közzétett, az adott borpiaci évre vonatkozó közlemény szerinti nyomtatványon kell benyújtani. Az egyéni terv az alábbi adatokat tartalmazza
 
-a)[^4] a kérelmező azonosításához szükséges adatok (ügyfél-azonosító, név, kapcsolattartási információk);
+a)[^8] a kérelmező azonosításához szükséges adatok (ügyfél-azonosító, név, kapcsolattartási információk);
 
 b) a tevékenység megjelölése;
 
@@ -24,11 +24,12 @@ i) a felhasználandó szaporítóanyag tekintetében a szőlőiskola típusa.
 
 a) ha a tevékenység nem saját tulajdonú ingatlanon valósul vagy valósult meg, az azt igazoló teljes bizonyító erejű, eredeti magánokiratot a 4. melléklet szerint, amely alapján a kérelmező jogosult a tevékenységet megvalósítani, és az ingatlant a művelésben tartási kötelezettsége lejártáig használni;
 
-b)[^5] ha a tevékenység más személy rendelkezési jogával terhelt ingatlanon valósul vagy valósult meg, az azt igazoló teljes bizonyító erejű, eredeti magánokiratot a 4. melléklet szerint, amely alapján a kérelmező jogosult a tevékenységet megvalósítani, és az ingatlant a művelésben tartási kötelezettsége lejártáig használni;
+b)[^9] ha a tevékenység más személy rendelkezési jogával terhelt ingatlanon valósul vagy valósult meg, az azt igazoló teljes bizonyító erejű, eredeti magánokiratot a 4. melléklet szerint, amely alapján a kérelmező jogosult a tevékenységet megvalósítani, és az ingatlant a művelésben tartási kötelezettsége lejártáig használni;
 
 c) a tevékenység végrehajtására vonatkozó engedély másolatát;
 
-d) a hegybíró igazolását a tevékenységgel érintett terület termőhelyi kataszteri osztályáról és pontszámáról.
+d)[^10] a hegybíró igazolását a tevékenységgel érintett terület termőhelyi kataszteri osztályáról és pontértékéről, amennyiben a tevékenység végrehajtására vonatkozó engedély nem tartalmazza a tevékenységgel érintett terület termőhelyi kataszteri osztályát és pontértékét.
 
-[^4]: A 9. § (1) bekezdés a) pontja a 12/2014. (II. 21.) VM rendelet 6. § a) pontja szerint módosított szöveg.
-[^5]: A 9. § (2) bekezdés b) pontja a 12/2014. (II. 21.) VM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 9. § (1) bekezdés a) pontja a 12/2014. (II. 21.) VM rendelet 6. § a) pontja szerint módosított szöveg.
+[^9]: A 9. § (2) bekezdés b) pontja a 12/2014. (II. 21.) VM rendelet 2. §-ával megállapított szöveg.
+[^10]: A 9. § (2) bekezdés d) pontja a 72/2015. (XI. 3.) FM rendelet 4. §-ával megállapított szöveg.

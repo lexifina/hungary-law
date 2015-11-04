@@ -1,11 +1,9 @@
-## 24. §[^12] A szőlőültetvények szerkezetátalakításához és -átállításához a 2012/2013 borpiaci évtől igényelhető támogatás feltételeiről szóló 142/2012. (XII. 27.) VM rendelet és a szőlőtermelési potenciálról szóló 38/2013. (V. 24.) VM rendelet módosításáról szóló 12/2014. (II. 21.) VM rendelet (a továbbiakban: módosító rendelet) által módosított 3. melléklet 2.2. pontját
+## 24. §[^29] A szőlőültetvények szerkezetátalakításához és -átállításához a 2012/2013 borpiaci évtől igényelhető támogatás feltételeiről szóló 142/2012. (XII. 27.) VM rendelet és a szőlőtermelési potenciálról szóló 38/2013. (V. 24.) VM rendelet módosításáról szóló 12/2014. (II. 21.) VM rendelet (a továbbiakban: módosító rendelet) által módosított 3. melléklet 2.2. pontját
 
-a) a módosító rendelet hatálybalépését[^13] megelőzően már jóváhagyott borvidéki tervek alapján induló eljárásokban, valamint
+a) a módosító rendelet hatálybalépését[^30] megelőzően már jóváhagyott borvidéki tervek alapján induló eljárásokban, valamint
 
-b) a módosító rendelet hatálybalépést[^14] követően jóváhagyandó borvidéki tervek vonatkozásában
+b) a módosító rendelet hatálybalépést[^31] követően jóváhagyandó borvidéki tervek vonatkozásában
 
-kell alkalmazni.
-
-[^12]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 12/2014. (II. 21.) VM rendelet 5. §-a iktatta be.
-[^13]: A hatálybalépés időpontja 2014. február 22.
-[^14]: A hatálybalépés időpontja 2014. február 22.
+[^29]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 12/2014. (II. 21.) VM rendelet 5. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2014. február 22.
+[^31]: A hatálybalépés időpontja 2014. február 22.

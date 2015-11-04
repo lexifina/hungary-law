@@ -1,90 +1,42 @@
-## 2K37044_0
-
 |  | A | B | C | D | E | F | G | H |
 
-| 1 | Hektáronkénti támogatási összegek |
+| 1. | Hektáronkénti támogatási összegek |
 
-| 2 |  |  |  |  | FAJTAVÁLTÁS | ÁTTELEPÍTÉS | FAJTAVÁLTÁS | ÁTTELEPÍTÉS |
+| 2. |  |  |  | Borvidéki tervben szereplő egyéb támogatható fajták esetén | Borvidéki tervben szereplő egyéb támogatható fajták esetén |
 
-| 3 |  |  |  |  | borvidéki tervben szereplő kiemelt fajták esetén | borvidéki tervben szereplő kiemelt fajták esetén |
+| 3. |  |  |  |  | FAJTAVÁLTÁS | ÁTTELEPÍTÉS | FAJTAVÁLTÁS | ÁTTELEPÍTÉS |
 
-| 4 |  | A szaporítóanyag típusa | A szaporítóanyag mennyisége | A szaporítóanyag kategóriája | Igénybe vehető maximális támogatási összegek konvergencia régió esetében (EUR/ha) | Igénybe vehető maximális támogatási összegek konvergencia régió esetében (EUR/ha) | Igénybe vehető maximális támogatási összegek nem konvergencia régió esetében (EUR/ha) | Igénybe vehető maximális támogatási összegek nem konvergencia régió esetében (EUR/ha) |
+| 4. |  | A szaporító-anyag típusa | A szaporítóanyag mennyisége | A szaporító-anyag kategóriája | Igénybe vehető maximális támogatási összegek konvergencia régió esetében (EUR/ha) | Igénybe vehető maximális támogatási összegek konvergencia régió esetében (EUR/ha) | Igénybe vehető maximális támogatási összegek nem konvergencia régió esetében (EUR/ha) | Igénybe vehető maximális támogatási összegek nem konvergencia régió esetében (EUR/ha) |
 
-| 5 | ültetési munka | oltvány | 5000 tő/ha és a felett | Bázis, certifikált | 6780 | 6420 | 4520 | 4160 |
+| 5. | ültetési munka | oltvány | 5000 tő/ha és a felett | bázis, certifikált | 5 420 | 5 060 | 3 610 | 3 250 |
 
-| 6 | standard | 5930 | 5570 | 3950 | 3590 |
+| 6. | standard | 4 740 | 4 380 | 3 950 | 3 590 |
 
-| 7 | 5000 tő/ha alatt | bázis, certifikált | 5530 | 5170 | 3680 | 3320 |
+| 7. | 5000 tő/ha alatt | bázis, certifikált | 4 420 | 4 060 | 3 680 | 3 320 |
 
-| 8 | standard | 4940 | 4580 | 3290 | 2930 |
+| 8. | standard | 3 950 | 3 590 | 3 290 | 2 930 |
 
-| 9 |  | dugvány | 5000 tő/ha és a felett | bázis, certifikált | 5760 | 5400 | 3840 | 3480 |
+| 9. | dugvány | 5000 tő/ha és a felett | bázis, certifikált | 4 600 | 4 240 | 3 060 | 2 700 |
 
-| 10 |  | standard | 5300 | 4940 | 3530 | 3170 |
+| 10. | standard | 4 240 | 3 880 | 3 530 | 3 170 |
 
-| 11 | 5000 tő/ha alatt | bázis, certifikált | 4820 | 4460 | 3210 | 2850 |
+| 11. | 5000 tő/ha alatt | bázis, certifikált | 3 850 | 3 490 | 3 210 | 2 850 |
 
-| 12 |  | standard | 4590 | 4230 | 3060 | 2700 |
+| 12. | standard | 3 670 | 3 310 | 2 440 | 2 080 |
 
-| 13 | támrend- szer létesítés 5 huzal és annál több kialakítá- sával (2,5 m átlagos sortávol- ság felett) |  |  |  | 4940 | 4580 | 3290 | 2930 |
+| 13. | támrendszer létesítés 5 huzal és annál több kialakításával (2,5 m átlagos sortávolság felett) |  |  |  | 3 950 | 3 590 | 2 630 | 2 270 |
 
-| 14 | támrend- szer létesítés 5 huzal és annál több kialakítá- sával (2,5 m átlagos sortávol- ság és az alatt) |  |  |  | 5880 | 5520 | 3920 | 3560 |
+| 14. | támrendszer létesítés 5 huzal és annál több kialakításával (2,5 m átlagos sortávolság és az alatt) |  |  |  | 4 700 | 4 340 | 3 130 | 2 770 |
 
-| 15 | támrend- szer létesítés 5 huzalnál kevesebb kialakítá- sával |  |  |  | 3500 | 3140 | 2330 | 1970 |
+| 15. | támrendszer létesítés 5 huzalnál kevesebb kialakításával |  |  |  | 2 800 | 2 440 | 1 860 | 1 500 |
 
-| 16 | kiegészítő támogatás, ha a támogatás- sal érintett terület átlagos lejtése 5% feletti és 10% vagy az alatti |  |  |  | 300 | 300 | 300 | 300 |
+| 16. | kiegészítő támogatás, ha a támogatással érintett terület átlagos lejtése 5% feletti és 10% vagy az alatti |  |  |  | 300 | 300 | 300 | 300 |
 
-| 17 | kiegészítő támogatás, ha a támogatás- sal érintett terület átlagos lejtése 10% feletti |  |  |  | 600 | 600 | 600 | 600 |
+| 17. | a támogatási összeg növelésének mértéke tevékeny-ségenként, ha a támogatással érintett terület átlagos lejtése 10% feletti |  |  |  | 600 | 600 | 600 | 600 |
 
-| 18 | támogatás csökken- tés, ha a telepítendő szaporító- anyag házi szőlőisko- lából származik |  |  |  | 550 | 550 | 550 | 550 |
+| 18. | támogatás csökkentés, ha a telepítendő szaporítóanyag házi szőlőisko- lából származik |  |  |  | 550 | 550 | 550 | 550 |
 
-| 19 | kompenzá- ció kieső termelés miatt |  |  |  | 1800 | 1800 | 1800 | 1800 |
-
-## A terület nagyfokú lejtéséért járó kiegészítő támogatás kifizetése az ültetési munka művelet kifizetésével együtt történik.
-
-## A pénzbeli kompenzáció kifizetése az ültetési munka művelet kifizetésével együtt történik.
-
-## A házi szőlőiskolából származó szaporítóanyag telepítése esetén a táblázatban megjelölt összeg az ültetési munka műveletből kerül levonásra.
-
-|  | A | B | C | D | E | F | G | H |
-
-| 1 | Hektáronkénti támogatási összegek |
-
-| 2 |  |  |  | borvidéki tervben szereplő egyéb támogatható fajták esetén | borvidéki tervben szereplő egyéb támogatható fajták esetén |
-
-| 3 |  |  |  |  | FAJTAVÁLTÁS | ÁTTELEPÍTÉS | FAJTAVÁLTÁS | ÁTTELEPÍTÉS |
-
-| 4 |  | A szaporítóanyag típusa | A szaporítóanyag mennyisége | A szaporítóanyag kategóriája | Igénybe vehető maximális támogatási összegek konvergencia régió esetében (EUR/ha) | Igénybe vehető maximális támogatási összegek konvergencia régió esetében (EUR/ha) | Igénybe vehető maximális támogatási összegek nem konvergencia régió esetében (EUR/ha) | Igénybe vehető maximális támogatási összegek nem konvergencia régió esetében (EUR/ha) |
-
-| 5 | ültetési munka | oltvány | 5000 tő/ha és a felett | Bázis, certifikált | 5420 | 5060 | 3610 | 3250 |
-
-| 6 | standard | 4740 | 4380 | 3950 | 3590 |
-
-| 7 | 5000 tő/ha alatt | bázis, certifikált | 4420 | 4060 | 3680 | 3320 |
-
-| 8 | standard | 3950 | 3590 | 3290 | 2930 |
-
-| 9 | dugvány | 5000 tő/ha és a felett | bázis, certifikált | 4600 | 4240 | 3060 | 2700 |
-
-| 10 |  | standard | 4240 | 3880 | 3530 | 3170 |
-
-| 11 | 5000 tő/ha alatt | bázis, certifikált | 3850 | 3490 | 3210 | 2850 |
-
-| 12 |  | standard | 3670 | 3310 | 2440 | 2080 |
-
-| 13 | támrend- szer létesítés 5 huzal és annál több kialakítá- sával (2,5 m átlagos sortávol- ság felett) |  |  |  | 3950 | 3590 | 2630 | 2270 |
-
-| 14 | támrend- szer létesítés 5 huzal és annál több kialakítá- sával (2,5 m átlagos sortávol- ság és az alatt) |  |  |  | 4700 | 4340 | 3130 | 2770 |
-
-| 15 | támrend- szer létesítés 5 huzalnál kevesebb kialakítá- sával |  |  |  | 2800 | 2440 | 1860 | 1500 |
-
-| 16 | kiegészítő támogatás, ha a támogatás- sal érintett terület átlagos lejtése 5% feletti és 10% vagy az alatti |  |  |  | 300 | 300 | 300 | 300 |
-
-| 17 | A támogatási összeg növelésé- nek mértéke tevékeny-ségenként, ha a támogatás- sal érintett terület átlagos lejtése 10% feletti |  |  |  | 600 | 600 | 600 | 600 |
-
-| 18 | támogatás csökken- tés, ha a telepítendő szaporító-anyag házi szőlőisko- lából származik |  |  |  | 550 | 550 | 550 | 550 |
-
-| 19 | kompenzá- ció kieső termelés miatt |  |  |  | 1800 | 1800 | 1800 | 1800 |
+| 19. | kompenzáció kieső termelés miatt |  |  |  | 1 800 | 1 800 | 1 800 | 1 800 |
 
 ## A terület nagyfokú lejtéséért járó kiegészítő támogatás kifizetése az ültetési munka művelet kifizetésével együtt történik.
 
@@ -94,7 +46,7 @@
 
 2. melléklet a 142/2012. (XII. 27.) VM rendelethez
 
-Az 1083/2006/EK tanácsi rendelet értelmében konvergenciarégióba nem tartozó települések
+## Az 1083/2006/EK tanácsi rendelet értelmében konvergenciarégióba nem tartozó települések
 
 1. Albertirsa
 

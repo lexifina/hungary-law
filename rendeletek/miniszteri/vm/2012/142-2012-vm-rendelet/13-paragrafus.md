@@ -12,9 +12,11 @@ d) az egyéni tervben megjelölt terület termőhelyi kataszterbe nem sorolt ter
 
 e) az egyéni tervben megjelölt terület nem borvidéki településen fekszik;
 
-f)[^7] megállapítást nyer, hogy a kérelmezett területre, területekre vonatkozóan az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt illetve;
+f)[^18] megállapítást nyer, hogy a kérelmezett területre, területekre vonatkozóan az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt illetve;
 
-g) az ültetvény telepítése az egyéni terv benyújtását megelőző borpiaci év előtt történt.
+g) az ültetvény telepítése az egyéni terv benyújtását megelőző borpiaci év előtt történt;
+
+h)[^19] az egyéni tervben szereplő tevékenység befejezésére a 7. § (9) bekezdése szerinti időszakon túli időpontot jelöltek meg.
 
 (2) Az MVH az egyéni tervet részben elutasítja ha
 
@@ -28,9 +30,13 @@ d) az egyéni tervben megjelölt valamely terület termőhelyi kataszterbe nem s
 
 e) az egyéni tervben megjelölt valamely terület nem borvidéki településen fekszik;
 
-f)[^8] megállapítást nyer, hogy valamely kérelmezett területre, területekre vonatkozóan az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt illetve;
+f)[^20] megállapítást nyer, hogy valamely kérelmezett területre, területekre vonatkozóan az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatás kifizetése történt illetve;
 
-g) valamely kérelmezett területre, területekre vonatkozóan ültetvény telepítése az egyéni terv benyújtását megelőző borpiaci év előtt történt.
+g) valamely kérelmezett területre, területekre vonatkozóan ültetvény telepítése az egyéni terv benyújtását megelőző borpiaci év előtt történt;
 
-[^7]: A 13. § (1) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 6. § b) pontja szerint módosított szöveg.
-[^8]: A 13. § (2) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 6. § c) pontja szerint módosított szöveg.
+h)[^21] valamely kérelmezett területre, területekre vonatkozóan az egyéni tervben szereplő tevékenység befejezésére a 7. § (9) bekezdése szerinti időszakon túli időpontot jelöltek meg.
+
+[^18]: A 13. § (1) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 6. § b) pontja szerint módosított szöveg.
+[^19]: A 13. § (1) bekezdés h) pontját a 72/2015. (XI. 3.) FM rendelet 8. § (1) bekezdése iktatta be.
+[^20]: A 13. § (2) bekezdés f) pontja a 12/2014. (II. 21.) VM rendelet 6. § c) pontja szerint módosított szöveg.
+[^21]: A 13. § (2) bekezdés h) pontját a 72/2015. (XI. 3.) FM rendelet 8. § (2) bekezdése iktatta be.
