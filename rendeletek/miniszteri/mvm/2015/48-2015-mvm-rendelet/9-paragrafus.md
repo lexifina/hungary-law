@@ -1,3 +1,0 @@
-## „17/E. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] megállapított 15. § (5) bekezdést és 16. § (6) bekezdést a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
-
-## 7. Az Európai Halászati Alap társfinanszírozásában megvalósuló Halászati Operatív Program 2. prioritási tengelye szerinti beruházási támogatások feltételeiről szóló 50/2011. (VI. 6.) VM rendelet módosítása
