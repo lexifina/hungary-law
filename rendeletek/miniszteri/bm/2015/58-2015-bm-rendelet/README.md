@@ -1,0 +1,9 @@
+# 58/2015. (X. 27.) BM rendelet
+
+a belügyminiszter irányítása alá tartozó rendvédelmi szervek által üzemben tartott szolgálati járművekre, azok forgalomba helyezésére, időszakos vizsgálatára vonatkozó különös szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-58-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-11-04 | 2015-58-20-0A.1 | 58/2015. (X. 27.) BM rendelet |
