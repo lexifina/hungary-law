@@ -15,3 +15,7 @@ a) a gyártó által kibocsátott, javítási technológiai leírással;
 b) a felülvizsgálati, ellenőrzési, javítási technológiában előírt eszközökkel, felszerelésekkel, berendezésekkel.
 
 (4) A felülvizsgálatra, javításra irányuló szolgáltatási tevékenység megkezdése és folytatása során a felülvizsgálónak, javítónak az (1)–(3) bekezdésben foglalt együttes feltételnek igazoltan, mindvégig meg kell felelnie.
+
+(5)[^7] A tűzoltás és műszaki mentés során használt járművek járóképes alvázrészét érintő felülvizsgálatot és javítást a közúti közlekedésről szóló törvény, és a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló jogszabály előírásainak megfelelően kell elvégezni.
+
+[^7]: A 10. § (5) bekezdését az 58/2015. (X. 27.) BM rendelet 12. §-a iktatta be.
