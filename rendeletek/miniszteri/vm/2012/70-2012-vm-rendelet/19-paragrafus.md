@@ -1,6 +1,6 @@
 19. § (1) A támogatott ipari célú nyers alkohol hasznosításra történő átadásáról a támogatás kérelmezőjének értesítenie kell az MVH-t a közleményben közétett módon az átadás időpontját legalább 48 órával megelőzően. Az értesítésnek tartalmaznia kell:
 
-a)[^15] a kérelmező azonosításához szükséges adatokat (ügyfél ügyfél-azonosító, cégnév, cím, telephely, kapcsolattartási információk),
+a)[^16] a kérelmező azonosításához szükséges adatokat (ügyfél ügyfél-azonosító, cégnév, cím, telephely, kapcsolattartási információk),
 
 b) a hasznosító azonosításához szükséges adatokat (cégnév, cím, telephely – szállítási cím, adóraktár vagy keretengedély száma),
 
@@ -26,4 +26,4 @@ e) az arra vonatkozó nyilatkozatot, miszerint az ipari célú nyers alkoholt ki
 
 f) a nyilatkozat kiállítójának cégszerű aláírását.
 
-[^15]: A 19. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 6. § g) pontja szerint módosított szöveg.
+[^16]: A 19. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 6. § g) pontja szerint módosított szöveg.
