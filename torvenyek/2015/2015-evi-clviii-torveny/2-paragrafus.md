@@ -1,1 +1,1 @@
-2–3. §
+2. § Az Országgyűlés az Alapokmányt e törvénnyel kihirdeti.
