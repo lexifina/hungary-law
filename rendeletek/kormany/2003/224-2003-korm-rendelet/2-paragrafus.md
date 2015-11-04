@@ -1,1 +1,0 @@
-## 1. § A Kormány a Magyar Köztársaság Kormánya és az Európai Űrügynökség közötti, az Európai Együttműködő Államok Terve (PECS) programban való részvételről szóló, Budapesten, 2003. április 7. napján aláírt Megállapodást e rendelettel kihirdeti.
