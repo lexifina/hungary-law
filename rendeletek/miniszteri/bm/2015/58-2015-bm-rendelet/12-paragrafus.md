@@ -1,3 +1,0 @@
-## 11. § A tűzoltási, műszaki mentési tevékenységhez kapcsolódó tűzvédelmi technika alkalmazhatóságáról szóló 15/2010. (V. 12.) ÖM rendelet (a továbbiakban: R.) 9. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) A habképző anyagok felülvizsgálata során a megfelelő minőség igazolása történhet szállítmányonkénti mintavétellel, amennyiben egy szállítmány egységei azonos gyártási eljárásból származnak, azonos körülmények között tárolták, tartották készenlétben, azokat azonos hatások érték. Az időszakos felülvizsgálatok során a mintát mindig más, a legrégebben felülvizsgált egységből kell venni, a felülvizsgálatot végző dönthet további mintavételről.”
