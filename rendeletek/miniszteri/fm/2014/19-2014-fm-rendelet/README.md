@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-19-20-1
 | 2014-12-01 | 2014-19-20-11.3 | 27/2014. (XI. 25.) FM rendelet |
 | 2015-04-30 | 2014-19-20-11.4 | 20/2015. (IV. 27.) FM rendelet |
 | 2015-05-29 | 2014-19-20-11.5 | 20/2015. (IV. 27.) FM rendelet |
+| 2015-11-06 | 2014-19-20-11.6 | 27/2014. (XI. 25.) FM rendelet |

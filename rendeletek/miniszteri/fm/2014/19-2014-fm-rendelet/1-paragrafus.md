@@ -6,7 +6,7 @@
 
 2.[^2] kárakta: a biztosító belső szabályzatában előírt, a szolgáltatás összegének megállapításához szükséges iratokat tartalmazó nyilvántartás;
 
-3.[^3] MEPAR szerinti blokkazonosító: a Mezőgazdasági Parcella Azonosító Rendszerről szóló 115/2003. (XI. 13.) FVM rendelet 1. § b) pontja szerinti blokkazonosító;
+3.[^3] MEPAR szerinti blokkazonosító: a Mezőgazdasági Parcella Azonosító Rendszerről szóló 71/2015. (XI. 3.) FM rendelet 1. § 2. pontja szerinti blokkazonosító;
 
 4.[^4] mezőgazdasági csoportmentességi rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet;
 
@@ -18,7 +18,7 @@
 
 [^1]: Az 1. § 1. pontja a 27/2014. (XI. 25.) FM rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 2. pontja a 27/2014. (XI. 25.) FM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § 3. pontja a 27/2014. (XI. 25.) FM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 3. pontja a 27/2014. (XI. 25.) FM rendelet 20. § (1) bekezdésével megállapított, a 71/2015. (XI. 3.) FM rendelet 14. §-a szerint módosított szöveg.
 [^4]: Az 1. § 4. pontja a 27/2014. (XI. 25.) FM rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § 5. pontja a 27/2014. (XI. 25.) FM rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § 6. pontja a 27/2014. (XI. 25.) FM rendelet 20. § (1) bekezdésével megállapított szöveg.
