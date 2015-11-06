@@ -1,0 +1,1 @@
+## 13. § E rendelet rendelkezéseit a 2015. január 1-jét követően benyújtott, és e rendelet hatálybalépéséig el nem bírált változásvezetési kérelmekre vonatkozó, valamint a 7. § (3) bekezdése és a 9. § szerinti, 2015. január 1-jét követően indított és e rendelet hatálybalépéséig le nem zárt eljárásokban is alkalmazni kell.

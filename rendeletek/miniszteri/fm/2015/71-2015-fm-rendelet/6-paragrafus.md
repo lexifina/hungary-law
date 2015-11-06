@@ -1,0 +1,3 @@
+6. § (1) A földterülethez kapcsolódó támogatási, valamint kifizetési kérelmek vektoros térképi alapját az adott évben a 4. § (1) bekezdés a)–e) és g)–j) pontjában foglalt adatoknak, valamint a tematikus rétegeknek a Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI) által az MVH részére adott év január 31-éig megküldött – és ugyanezen év február 28-áig pontosított – adatoknak megfelelő állapotban lezárt törzsállománya képezi.
+
+(2) A kataszteri fedvényekre vonatkozó, valamint a 4. § (1) bekezdés f) pontja szerinti adatokat a FÖMI az MVH ezen adatok átadására vonatkozó megkeresésében meghatározott időpontig köteles megküldeni az MVH részére.
