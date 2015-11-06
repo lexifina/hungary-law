@@ -1,4 +1,4 @@
-## 28/B. §[^17] E rendeletnek az egyes közvetlen támogatásokkal kapcsolatos, valamint egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 52/2015. (IX. 7.) FM rendelettel [a továbbiakban: 52/2015. (IX. 7.) FM rendelet] megállapított 1. § 19. pont f) alpontját, 13. § (1) bekezdését, és 22. § (3) bekezdés b) pontját az 52/2015. (IX. 7.) FM rendelet hatálybalépésekor[^18] folyamatban lévő ügyekben is alkalmazni kell.
+## 28/B. §[^19] E rendeletnek az egyes közvetlen támogatásokkal kapcsolatos, valamint egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 52/2015. (IX. 7.) FM rendelettel [a továbbiakban: 52/2015. (IX. 7.) FM rendelet] megállapított 1. § 19. pont f) alpontját, 13. § (1) bekezdését, és 22. § (3) bekezdés b) pontját az 52/2015. (IX. 7.) FM rendelet hatálybalépésekor[^20] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 15. Az Európai Unió jogának való megfelelés
 
@@ -14,5 +14,5 @@ d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált ig
 
 e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU felhatalmazáson alapuló bizottsági rendeletnek
 
-[^17]: A 28/B. §-t az 52/2015. (IX. 7.) FM rendelet 36. §-a iktatta be.
-[^18]: A hatálybalépés időpontja 2015. szeptember 8.
+[^19]: A 28/B. §-t az 52/2015. (IX. 7.) FM rendelet 36. §-a iktatta be.
+[^20]: A hatálybalépés időpontja 2015. szeptember 8.

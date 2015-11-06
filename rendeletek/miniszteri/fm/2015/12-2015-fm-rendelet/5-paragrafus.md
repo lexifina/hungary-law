@@ -2,7 +2,7 @@
 
 (2) A 9/2015. (III. 13.) FM rendelet 16. §-a szerinti cukorrépa termesztés támogatását igénylő,
 
-a)[^3] azon cukorrépa-termelőnek, aki közvetlenül termel cukorrépát,
+a)[^5] azon cukorrépa-termelőnek, aki közvetlenül termel cukorrépát,
 
 aa) a 9/2015. (III. 13.) FM rendelet 16. § (1) bekezdés a) pontja szerinti szállítási szerződés másolatát és
 
@@ -22,4 +22,4 @@ bb) amennyiben az igénylő nem rendelkezik önálló szállítási joggal, a cu
 
 (5) Az ügyfél az egységes kérelemben köteles megjelölni, hogy az adott táblán termesztett növénykultúra – vagy az egymás után termesztett növénykultúrák esetében mely növénykultúra – vonatkozásában igényli a 9/2015. (III. 13.) FM rendelet szerinti támogatást.
 
-[^3]: Az 5. § (2) bekezdés a) pontja a 23/2015. (V. 13.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (2) bekezdés a) pontja a 23/2015. (V. 13.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.

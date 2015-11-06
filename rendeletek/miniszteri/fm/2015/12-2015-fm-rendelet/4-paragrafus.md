@@ -6,9 +6,7 @@ a) az ne metssze a fizikai blokk és a támogatható terület határát, kivéve
 
 b) az a valósághű elhelyezkedést kövesse.
 
-(3) A MePAR rendelet 7. § (4) bekezdésében foglaltakon túl az ügyfél MePAR változásvezetési eljárást kezdeményezhet az egységes kérelemben az általa ökológiai jelentőségű területként bejelentett, a HMKÁ rendelet szerinti kis kiterjedésű tavak, fa- és bokorcsoportok, illetve magányosan álló fák vonatkozásában, amennyiben a MePAR adatai a tényleges helyszíni állapottal nem egyeznek meg.
-
-(4) Nem indítható MePAR változásvezetési eljárás abban az esetben, ha a felülvizsgálni kért bejelentett táblára vagy védett tájképi elemre az ügyfél a tárgyévben nem igényelt kifizetéssel járó, területalapú közvetlen támogatást. Ha az adott fizikai blokkban bejelentett táblák összterülete meghaladja az adott fizikai blokk támogatható területét, akkor az MVH a MePAR rendelet szerinti, hivatalból indított felülvizsgálatot kezdeményezhet azon táblák vonatkozásában, amelyre az ügyfél nem igényelt kifizetéssel járó, közvetlen területalapú támogatást.
+(3)–(4)[^4]
 
 (5) Ha a 2. § (1) bekezdésben meghatározott, az egyes támogatásokra vonatkozó jogszabályok másként nem rendelkeznek, az igénybe vehető támogatások alapjául szolgáló terület megállapításánál nem vehetők figyelembe az alábbi területek:
 
@@ -19,3 +17,5 @@ b) az épített környezet alakításáról és védelméről szóló 1997. évi
 c) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet (a továbbiakban: Inyvhr.) 50. § (7) bekezdés a) pontja szerinti, a honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) vagyonkezelésében lévő „Állami terület 1.” megnevezésű művelés alól kivett terület, vagy az Inyvhr. 50. § (8) bekezdés szerinti, a „honvédelmi célra feleslegessé nyilvánított terület” megnevezésű művelés alól kivett terület, kivéve a földhasználati szerződés alapján hasznosított területek, amelyeknek mezőgazdasági hasznosítása fizikailag is – a HM nyilvántartása szerint – biztosított.
 
 (6) Az ügyfélnek az egységes kérelemben meg kell jelölnie azokat a bejelentett táblákat, amelyeken öntözési tevékenységet kíván végezni, továbbá azokat, amelyeken termesztő berendezés alatt kíván termeszteni.
+
+[^4]: A 4. § (3)–(4) bekezdését a 71/2015. (XI. 3.) FM rendelet 15. § a) pontja hatályon kívül helyezte.
