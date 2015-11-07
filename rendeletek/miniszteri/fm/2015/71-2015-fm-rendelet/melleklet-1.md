@@ -1,3 +1,5 @@
+## 14–15. §[^1]
+
 1. melléklet a 71/2015. (XI. 3.) FM rendelethez
 
 ## A változásvezetési eljárás megindítására irányuló kérelem adattartalma
@@ -21,3 +23,5 @@
 9. Csatolandó melléklet:
 
 9.1. Az MVH által biztosított aktuális blokktérkép, amelyen egyértelműen be kell rajzolni a kérelem szerinti változást, és a rajzra a változásvezetési kérelemben sorszámmal kell hivatkozni.
+
+[^1]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
