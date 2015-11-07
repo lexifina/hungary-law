@@ -62,6 +62,8 @@ h) a rejtjelző eszközök biztonságával összefüggő egyéb dokumentumok,
 
 20. rendszeresítési engedély: az NBF által lefolytatott engedélyezési eljárást követően kiadott határozat, amely rögzíti a kérelemben azonosított típusú és verziójú rejtjelző eszköz rendeltetését és meghatározza az azon rejtjelezhető minősített adat legmagasabb minősítési szintjét,
 
-21. TEMPEST követelmények: a „Bizalmas!” vagy magasabb minősítési szintű adat bizalmasságának védelme érdekében kialakított biztonsági intézkedések – amelyek kiterjednek az elektromos és adatkábelek vonalvezetésére, a rendszer környezetében alkalmazható berendezésekre, árnyékolástechnikai megoldásokra, valamint csökkentett kisugárzású eszközökre – együttese, amelyet a rendszer valamennyi eleme vezetett és elektromágneses kompromittáló kisugárzásának csökkentése érdekében alakítottak ki,
+21.[^1] TEMPEST követelmények: a „Titkos!” és „Szigorúan titkos!” minősítési szintű nemzeti minősített adat, valamint a „Bizalmas!” vagy magasabb minősítési szintű külföldi minősített adat bizalmasságának védelme érdekében kialakított biztonsági intézkedések – amelyek kiterjednek az elektromos és adatkábelek vonalvezetésére, a rendszer környezetében alkalmazható berendezésekre, árnyékolástechnikai megoldásokra, valamint csökkentett kisugárzású eszközökre – együttese, amelyet a rendszer valamennyi eleme vezetett és elektromágneses kompromittáló kisugárzásának csökkentése érdekében alakítottak ki,
 
 22. üzemeltetés-biztonsági szabályzat: a rendszer egy meghatározott üzemeltetési helyén a biztonsági követelmények teljesítése érdekében követendő feladatok, eljárások, valamint az üzemeltetéshez szükséges munkakörök teljes körű leírása.
+
+[^1]: Az 1. § 21. pontja a 318/2015. (X. 30.) Korm. rendelet 1. §-ával megállapított szöveg.

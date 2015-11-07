@@ -1,4 +1,4 @@
-5. § (1)[^2] Magyarország nemzetközi kötelezettségvállalásainak teljesítése érdekében
+5. § (1)[^3] Magyarország nemzetközi kötelezettségvállalásainak teljesítése érdekében
 
 a) a honvédelemért felelős miniszter látja el a NATO, valamint NYEU Központi Rejtjel Elosztó Hatóság feladatait,
 
@@ -20,4 +20,4 @@ f) a NATO, EU külföldi elosztó és felügyeleti szervekkel való kapcsolattar
 
 g) az igény elbírálása után a rejtjelanyagok biztosításáért.
 
-[^2]: Az 5. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 471. § b) pontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 471. § b) pontja szerint módosított szöveg.
