@@ -1,0 +1,98 @@
+# A Kormány 333/2015. (XI. 10.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 169. szám, 2015. november 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4f861ffac760dfc23f45a1040c3549b85d47ef7f/dokumentumok/ccc730c61ba54cf9a4b5b3d46f253c073f7f3459/letoltes)
+
+---
+
+A Kormány 333/2015. (XI. 10.) Korm. rendelete
+az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program
+ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet
+módosításáról
+A Kormány az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés m) pont ma) alpontjában,
+a 3. § (2) bekezdése tekintetében az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény
+28. § (3) bekezdés e) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól,
+valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet (a továbbiakban: Kr.) 2. §
+2. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„2. elsődleges képzőhely: a támogatott szakképzésben az ENKK által a szakképzés lefolytatására munkavégzési
+helyként elsődlegesen kijelölt, az adott szakképzés vonatkozásában akkreditációval rendelkező egészségügyi
+szolgáltató, ideértve az egyetemeket is,”
+2. § (1) A Kr. 3. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A képzési keretszámok tervezhetősége érdekében a tárgyévben általános orvos képzésben oklevelet szerző
+személy – a képző intézménye útján – elektronikus úton, az oklevél kézhezvételétől számított legkésőbb harminc
+napon belül tájékoztatja az ENKK-t, hogy szakorvosi szakképzését Magyarországon, támogatott képzésben kívánja-e
+megszerezni és ha igen, mely évben tervezi a támogatott szakképzésbe történő bekapcsolódást.”
+(2) A Kr. 3. §-a a következő (5a) bekezdéssel egészül ki:
+„(5a) A támogatott szakképzés nyelve a magyar.”
+(3) A Kr. 3. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Tutor a jelölt szakképzése alatt teljesítendő egyes képzési elemeknek megfelelő szakvizsgával vagy felsőfokú
+végzettséggel, továbbá – minden esetben – legalább ötéves szakmai gyakorlattal rendelkező,
+a) támogatott képzés esetén az elsődleges vagy a külső képzőhely (a továbbiakban együtt: képzőhely) által
+foglalkoztatott, az ENKK által vezetett tutori névjegyzékben szereplő vagy
+b) költségtérítéses képzés esetén a munkáltató vagy külső képzőhely által foglalkoztatott és a képzőhely vezetője
+által kijelölt
+személy lehet.”
+3. § (1) A Kr. 5. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A támogatott szakképzésben a rezidens az (1) bekezdés a) pontja szerinti közalkalmazotti jogviszony létrejöttét
+követő 10 napon belül kezdeményezi az általa választott egyetemnél a 4. § (1) bekezdése szerinti szakképzési
+megállapodás megkötését. A szakképzési megállapodás megkötése kezdeményezésének hiányában az (1) bekezdés
+a) pontja szerinti közalkalmazotti jogviszony próbaidő alatti megszüntetésére kerül sor.”
+(2) A Kr. 5. § (9) bekezdése helyébe a következő rendelkezés lép:
+„(9) Az egészségügyi szolgáltató által kollektív szerződésben meghatározott kedvezményeket, jogosultságokat
+az ott meghatározott feltételekkel azon rezidensek részére is biztosítani kell, akiknek elsődleges képzőhelyeként
+az adott egészségügyi szolgáltató kijelölésére került sor.”
+
+4. §
+A Kr. 6. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az 1 hónapnál rövidebb időtartamú képzési elem csak akkor fogadható el, ha a jelölt azt teljes időtartamában
+teljesítette.”
+5. §
+A Kr. 8. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+„(2) A szakképzés ideje az (1) bekezdésben foglaltakon túl csak méltányolható, a jelölt egészségi állapotában
+vagy családi körülményeiben bekövetkező okból, előzetesen meghatározott időtartamra szakítható meg, ha
+valószínűsíthető, hogy az ok megszűnése esetén a jelölt a szakképzését teljesíti. A méltányolható ok elfogadásáról
+támogatott szakképzés esetén az ENKK elnöke, költségtérítéses szakképzés esetén az egyetem dönt. Az ENKK elnöke
+a döntéséről az egyetemet 5 napon belül tájékoztatja.
+(3) Az (1) bekezdés a) pontja szerinti esetben – a tudományos munka előre látható időtartamát is figyelembe véve –
+az ENKK a közalkalmazotti jogviszonyt megszüntetheti.”
+6. § (1) A Kr. 18. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A pályázat benyújtására kizárólag az egészségügyi szolgáltatás nyújtására érvényes finanszírozási szerződéssel
+rendelkező egészségügyi szolgáltató – ideértve a Honvédelmi Minisztérium fejezet költségvetéséből finanszírozott
+egészségügyi ellátást nyújtó munkáltatót is – jogosult.”
+(2) A Kr. 18. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+„(5) A pályázat elbírálása során az ENKK elnöke meghatározza az egyes pályázó egészségügyi szolgáltatók által
+betölthető keretszámokat.
+(6) A 17. § (2) bekezdés b), c), e) és f) pontja szerint meghirdetett vagy odaítélt keretszámok terhére az egészségügyi
+szolgáltató a Kjt.-ben meghatározott rendelkezések alapján meghirdetett pályázat útján választja ki a rezidenst.”
+7. §
+A Kr. 19. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Ha a szakképzést megkezdett jelölt a szakképzését még abban az évben megszünteti, amely évnek
+a keretszáma terhére a szakképzését megkezdte, az elsődleges képzőhelyként kijelölt egészségügyi szolgáltató
+esetében a keretszám az adott évben ismételten betölthetővé válik.”
+8. §
+A Kr. 33. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A szakorvos képzést
+a) az egészségügyi felsőfokú szakirányú szakképzésben részt vevők számára szervezett központi gyakornoki
+rendszerről szóló 125/1999. (VIII. 6.) Korm. rendelet (a továbbiakban: Kr.2.) alapján megkezdő és a szakképzést
+2015. július 1-jét követő időpontig szüneteltető személyek, valamint
+b) a Kr.1. alapján megkezdő és háziorvostan képzésre szakot váltó személyek
+a szakképzésüket e rendelet szabályai szerint fejezhetik be. A szakképzésbe történő visszakapcsolódásra
+a szakképzésbe történő belépés e rendelet szerinti szabályai szerint kerülhet sor.”
+9. §
+A Kr.
+a) 33. § (1) bekezdésében az „a 30. és 31. § kivételével” szövegrész helyébe az „az (1a) és a (7) bekezdésben,
+valamint a 30. és 31. §-ban fogalt kivétellel”,
+b) 33. § (2) bekezdésében az „az egészségügyi felsőfokú szakirányú szakképzésben részt vevők számára
+szervezett központi gyakornoki rendszerről szóló 125/1999. (VIII. 6.) Korm. rendelet” szövegrész helyébe
+az„a Kr.2.”,
+c) 33. § (7) bekezdésében az„a Kr.1. rendelkezéseit”szövegrész helyébe az„az (1a) bekezdés b) pontjában foglalt
+kivétellel a Kr.1. rendelkezéseit”
+szöveg lép.
+10. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

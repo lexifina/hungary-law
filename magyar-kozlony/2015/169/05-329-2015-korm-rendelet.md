@@ -1,0 +1,386 @@
+# A Kormány 329/2015. (XI. 10.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 169. szám, 2015. november 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4f861ffac760dfc23f45a1040c3549b85d47ef7f/dokumentumok/ccc730c61ba54cf9a4b5b3d46f253c073f7f3459/letoltes)
+
+---
+
+A Kormány 329/2015. (XI. 10.) Korm. rendelete
+a felelős játékszervezés részletes szabályairól
+A Kormány
+a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (1a) bekezdés a), b), d), e) és g) pontjában,
+az 5–10. § és 19–21. § tekintetében a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (1a) bekezdés b), e) és
+f) pontjában,
+a 11–18. § tekintetében a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (1a) bekezdés d), e) és g) pontjában,
+a 25–26. § tekintetében a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (1a) bekezdés c) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+I. FEJEZET
+A TÚLZÁSBA VITT SZERENCSEJÁTÉK ÁRTALMAIRÓL ÉS A SZENVEDÉLYBETEGSÉG KIALAKULÁSÁNAK
+VESZÉLYEIRŐL SZÓLÓ TÁJÉKOZTATÁSI KÖTELEZETTSÉG
+1. § (1) A szerencsejáték-szervező (a továbbiakban: szervező) a szerencsejáték szervezéséről szóló 1991. évi
+XXXIV. törvény (a továbbiakban: Szjtv.) hatálya alá tartozó tevékenysége és annak kereskedelmi kommunikációja
+során köteles a túlzásba vitt szerencsejáték ártalmaira, a szenvedélybetegség kialakulásának veszélyeire vonatkozó
+figyelmeztetést alkalmazni.
+(2) A szervező az Szjtv. hatálya alá tartozó tevékenysége során köteles a sérülékeny személyek szerencsejátékhoz
+való hozzáférésének korlátozására vonatkozó figyelmeztetést alkalmazni, valamint felhívni a játékos figyelmét
+a sérülékeny személynek nem minősülő személyek részére biztosított önkorlátozó és önkizáró intézkedések
+igénybevételének lehetőségére.
+(3) A szervező a játéktervben és a részvételi szabályzatban meghatározza a sérülékeny személyek fokozott védelmének,
+valamint a sérülékeny személynek nem minősülő játékosok részére biztosított önkorlátozó, önkizáró intézkedések
+igénybevételének rendjét, továbbá a szervező által alkalmazott egyéb játékosvédelmi intézkedéseket.
+2. § (1) Az állami adóhatóság a felelős játékszervezés elvének megfelelő szervezői eljárás és a játékosok védelme érdekében
+honlapján közzéteszi és ügyfélszolgálatain a játékosok részére nyomtatott formában folyamatosan elérhetővé teszi:
+a) a kóros játékszenvedéllyel élő személyek pszichiátriai ellátását biztosító szolgáltatók elnevezését és
+elérhetőségi adatait megyénként és településenként,
+b) a problémás játékkal és kóros játékszenvedéllyel élő személyek részére a szociális igazgatásról és a szociális
+ellátásokról szóló törvény alapján közösségi ellátásokat nyújtó szolgáltatók elnevezését és elérhetőségi
+adatait megyénként és településenként,
+c) legalább három, a játékosok védelmével vagy a szerencsejáték káros hatásainak megelőzésével,
+csökkentésével foglalkozó civil szervezet elnevezését és elérhetőségi adatait,
+d) a gondnokság alá helyezés iránti eljárásról szóló gyakorlati tájékoztatót,
+e) a jelentős önkorlátozó nyilatkozatról szóló gyakorlati tájékoztatót és e nyilatkozat ajánlott mintáját,
+f) a 18 év alatti személyek fokozott védelméről és játéktilalmáról szóló tájékoztatót,
+
+g) a 18 év alattiak kivételével a sérülékeny személyek (a továbbiakban: egyéb sérülékeny személy) fokozott
+védelméről és szervezői ellenőrzéséről, valamint a játékosvédelmi nyilvántartás működéséről szóló gyakorlati
+tájékoztatót,
+h) a sérülékeny személynek nem minősülő játékosok részére a jogszabály szerint kötelezően biztosított
+önkorlátozó, önkizáró intézkedések használatáról gyakorlati tájékoztatót szerencsejáték-fajtánként,
+i) a játékosvédelmi nyilvántartással kapcsolatos adatvédelmi tájékoztatót, és
+j) az ajánlott felelős játékszervezői minősítéssel rendelkező szervezők 22. § (3) bekezdése szerinti adatait.
+(2) Az államháztartásért felelős miniszter az (1) bekezdés a) és b) pontja szerinti tájékoztatást az egészségügyért,
+valamint szociál- és nyugdíjpolitikáért felelős miniszterrel egyetértésben és adatszolgáltatása alapján,
+az (1) bekezdés c) pontja szerinti tájékoztatást az egészségügyért felelős miniszterrel egyetértésben és
+adatszolgáltatása alapján, az (1) bekezdés d) pontja szerinti tájékoztatást az igazságügyért felelős miniszterrel
+egyetértésben és adatszolgáltatása alapján, az (1) bekezdés i) pontja szerinti tájékoztatót a Nemzeti Adatvédelmi
+és Információszabadság Hatósággal egyetértésben, az (1) bekezdés e)–h) pontja szerinti tájékoztatást saját
+hatáskörben készíti el és bocsátja az állami adóhatóság rendelkezésére.
+(3) Az (1) bekezdés a)–i) pontja szerinti tájékoztatók tartalmát a közzétételt követően félévente felül kell vizsgálni.
+3. § (1) A szervező a 2. § (1) bekezdés a)–i) pontjai szerinti tájékoztatást, valamint a 2. § (1) bekezdés j) pontja esetén
+a szervező tevékenységi engedélye szerinti szerencsejáték-fajtára vonatkozó tájékoztatást a szervező által
+alkalmazott esetleges további önkorlátozó, önkizáró intézkedésekkel kiegészítve a honlapjáról elérhetővé teszi.
+(2) A távszerencsejáték és online kaszinójáték szervezője kivételével a szervező a játéktérben vagy az értékesítés során
+az (1) bekezdés szerinti tájékoztatást nyomtatott formában a játékosok részére ingyenesen hozzáférhetővé teszi.
+(3) A tájékoztatás (1) és (2) bekezdés szerinti szervezői változatán a szervező a cégnevét, a kereskedelmi kommunikáció
+során használt egyéb elnevezését, logóját feltüntetheti és az önkéntesen vállalt játékosvédelmi intézkedéseit,
+játékosvédelmi programját is bemutathatja.
+4. § (1) Az állami adóhatóság az Szjtv. 1. § (5a)–(6d) bekezdésében és az e rendeletben foglaltakkal kapcsolatos
+bejelentések, panaszok, javaslatok szóbeli előterjesztésére a hét minden napján 0–24 óra között működő,
+ingyenesen hívható telefonvonalat tart fenn (a továbbiakban: játékosvédelmi zöld szám).
+(2) A játékosvédelmi zöld számot valamennyi szervező a honlapján feltünteti.
+(3) A távszerencsejáték és online kaszinójáték szervező kivételével a szervező a játékosvédelmi zöld számot
+a belépésnél és az értékesítési helyen, pénztárnál figyelemfelhívó módon közzéteszi.
+II. FEJEZET
+A SÉRÜLÉKENY SZEMÉLYEK SZERENCSEJÁTÉKHOZ VALÓ HOZZÁFÉRÉSÉNEK KORLÁTOZÁSA
+1. A jelentős önkorlátozó nyilatkozat
+5. § (1) A játékos egy vagy több szerencsejáték fajtára vagy több szervezőre kiterjedő önkorlátozó nyilatkozatot tehet
+(a továbbiakban: jelentős önkorlátozó nyilatkozat).
+(2) A jelentős önkorlátozó nyilatkozatot írásba kell foglalni és azt a személyazonosság igazolása mellett személyesen,
+az állami adóhatóság kijelölt ügyfélszolgálatán, vagy postai úton teljes bizonyító erejű magánokiratban az állami
+adóhatósághoz kell előterjeszteni.
+(3) A jelentős önkorlátozó nyilatkozatban a szerencsejáték fajták a következő felosztás szerint jelölhetők meg:
+a) kártyateremben szervezett kártyajáték,
+b) játékkaszinó,
+c) online kaszinó,
+d) távszerencsejáték,
+e) Szjtv. 20. §-a szerinti sorsolásos játék,
+f) távszerencsejátéknak nem minősülő fogadás.
+(4) A jelentős önkorlátozó nyilatkozatban az állami adóhatóság tevékenységi engedélyével rendelkező szervező
+jelölhető meg.
+(5) A jelentős önkorlátozó nyilatkozat érvényességi ideje 1 év, 3 év vagy 5 év. Az 1 évet meg nem haladó érvényességű
+nyilatkozat visszavonásának nincs helye. Az 1 évet meghaladó érvényességű nyilatkozat legalább 2 év leteltét
+
+követően a személyazonosság igazolása mellett az állami adóhatóság kijelölt ügyfélszolgálatán, személyesen tett
+írásbeli nyilatkozatban vonható vissza.
+(6) A 2. § (1) bekezdés a)–c) pontja szerinti tájékoztatót a jelentős önkorlátozó nyilatkozat átvételével egyidejűleg
+nyomtatott formában a játékos rendelkezésére kell bocsátani.
+2. A személyazonosításhoz kötött szerencsejáték szervezőjének kötelezettségei
+6. § (1) A játékkaszinó üzemeltető, a kártyaterem üzemeltető, a távszerencsejáték és online kaszinójáték szervező
+[a továbbiakban együtt a 6–9. § alkalmazásában: 6. § (1) bekezdése szerinti szervező] a játékos azonosítását nem
+folytatja és a nyilvántartásba vételt megtagadja, ha a játékos 18 év alatti személy vagy életkora az azonosítás során
+kétséget kizáróan nem állapítható meg.
+(2) A 6. § (1) bekezdése szerinti szervező a játékost a szerencsejátékból haladéktalanul kizárja és a nyilvántartásból
+a szerencsejáték fajtára irányadó elszámolást követően törli, ha a játékos nyilvántartásba vételét követően jut
+tudomására, hogy a játékos 18 év alatti vagy életkora kétséget kizáróan nem állapítható meg.
+7. § (1) A 6. § (1) bekezdése szerinti szervező a pénzmosás és a terrorizmus finanszírozása megelőzéséről és
+megakadályozásáról szóló törvényben meghatározott ügyfél-azonosítással egyidejűleg, a játékos nyilvántartásba
+vétele előtt a 20. § szerint ellenőrzi, hogy a játékos a játékosvédelmi nyilvántartás adatai alapján – a szervező és
+a szerencsejáték fajta figyelembevételével – korlátozás alatt áll-e.
+(2) A 6. § (1) bekezdése szerinti szervező a játékos azonosítását nem folytatja és a nyilvántartásba vételt megtagadja, ha
+a játékos – a szervező és a szerencsejáték fajta figyelembevételével – a játékosvédelmi nyilvántartás adatai szerint
+korlátozás alatt áll.
+(3) A 6. § (1) bekezdése szerinti szervező a nyilvántartásba vétel játékosvédelmi nyilvántartásra alapozott
+megtagadásáról a játékost a 20. § (4) bekezdése szerinti elektronikus igazolás egyszerű másolatával írásban
+tájékoztatja.
+8. § (1) A játékos nyilvántartásba vételét követően a 6. § (1) bekezdése szerinti szervező a játékos személyes belépésekor
+vagy online bejelentkezésekor folytatja le a 7. § (1) bekezdése szerinti ellenőrzést.
+(2) A 6. § (1) bekezdése szerinti szervező a játékos kérelmére az (1) bekezdéstől eltérő esetben is elvégezheti a 7. §
+(1) bekezdése szerinti ellenőrzést.
+(3) Ha az elektronikus adatszolgáltatás alapján a játékos korlátozás alatt áll, a 6. § (1) bekezdése szerinti szervező
+a játékos részére játéklehetőséget nem biztosít és a szerencsejáték fajtára irányadó módon a játékossal elszámol.
+9. § (1) Ha a 6. § (1) bekezdése szerinti szervező a 6–8. § szerinti ellenőrzés alapján a játékos nyilvántartásba vételét
+megtagadja vagy a játékos részére játéklehetőséget nem biztosít, ennek közlésével egyidejűleg a 18 év alatti játékos
+esetén a 2. § (1) bekezdés f) pontja, egyéb esetben a 3. § szerinti tájékoztatót a játékos rendelkezésére bocsátja.
+(2) A 6. § (1) bekezdése szerinti szervező a 6–8. § szerinti ellenőrzések számáról, valamint az ellenőrzés alapján
+a nyilvántartásba vétel megtagadása, a játéklehetőség biztosításának mellőzése és a nyilvántartásból való törlés
+számáról nyilvántartást vezet.
+(3) A kártyaterem és a játékkaszinó üzemeltető a (2) bekezdés szerinti adatokról a szervező választása szerint
+a tárgyhónapot követő hónap 20. napjáig vagy a havinál gyakoribb egyéb adatszolgáltatási kötelezettségével
+egyidejűleg az állami adóhatóság részére elektronikus úton adatszolgáltatást teljesít.
+(4) A távszerencsejáték és online kaszinójáték szervező a (2) bekezdés szerinti adatokhoz az állami adóhatóság részére
+távoli hozzáférést biztosít.
+3. A személyazonosításhoz nem kötött szerencsejáték szervezőjének kötelezettségei
+10. § (1) Az Szjtv. 20. §-a szerinti sorsolásos játék szervezője, a távszerencsejátéknak nem minősülő fogadást szervező
+és az értékesítés során a szervező nevében eljáró személy kétség esetén a játékos személyazonosságának
+ellenőrzésével is biztosíthatja a 18 év alattiak kizárását a szerencsejátékból.
+(2) Az (1) bekezdés szerinti szervező a játékos részére játéklehetőséget nem biztosít, ha a játékos 18 év alatti személy
+vagy életkora kétséget kizáróan nem állapítható meg.
+
+(3) Az (1) bekezdés szerinti szervező a személyazonosításhoz nem kötött játékfajtára az egyéb sérülékeny személynek
+minősülő személyek részére biztosított játékosvédelmi intézkedést a játéktervben és a részvételi szabályzatban
+meghatározza.
+(4) Az Szjtv. 40. § (2) bekezdése szerinti esetben a szervező a személyazonosításhoz nem kötött játékfajtára az egyéb
+sérülékeny személyek részére biztosított játékosvédelmi intézkedést a részvételi szabályzatban meghatározhatja.
+III. FEJEZET
+A SÉRÜLÉKENY SZEMÉLYNEK NEM MINŐSÜLŐ JÁTÉKOSOK RÉSZÉRE ÖNKORLÁTOZÓ, ÖNKIZÁRÓ
+INTÉZKEDÉSEK BIZTOSÍTÁSA
+4. A távszerencsejáték és az online kaszinójáték szervezőjének kötelezettségei
+11. § (1) Az Szjtv. 29/I. § (2) és (2a) bekezdése szerinti önkorlátozó intézkedést a szervező a játékos választása szerinti
+– legalább napi, heti vagy havi – bontásban biztosítja. Az önkorlátozó intézkedés alkalmazását a szervező a játékos
+részére a játékos választásának közlését követően haladéktalanul, de legfeljebb 1 órán belül biztosítja.
+(2) Az Szjtv. 29/I. § (2) bekezdés b)–f) pontja szerinti önkorlátozó intézkedés enyhítésének vagy feloldásának nincs
+helye. Amennyiben a játékos a választott, érvényben lévő önkorlátozó intézkedést szigorítani kívánja, a módosítás
+lehetőségét a szervezőnek azonnal biztosítania kell.
+12. § (1) A játékos kérésére a játékos által meghatározott időszakra a szervező biztosítja az önkizárás lehetőségét.
+(2) Az önkizárás időtartama alatt a játékosi egyenlegen befizetés nem írható jóvá, a játékos a távszerencsejátékban és
+az online kaszinójátékban nem vehet részt, és a játékos részére – az általa a szervező részére a regisztráció során
+kötelezően rendelkezésre bocsátott kommunikációs csatornákon – a szervező szerencsejátékot népszerűsítő
+reklám- és marketingüzeneteket a távszerencsejátékra és az online kaszinójátékra használt honlap felületén kívül
+sem juttathat el.
+(3) A szervező az önkizárást a játékos részére haladéktalanul, de legfeljebb 1 órán belül biztosítja.
+(4) A 180 napot el nem érő időtartamú önkizárás feloldásának nincs helye. A 180 napos vagy azt meghaladó időtartamú
+önkizárás feloldására a játékos kérelmére legkorábban 180 nap leteltét követően kerülhet sor.
+(5) Az önkizárás (4) bekezdés szerinti feloldását a szervező a felelős játékszervezés elvének figyelembevételével
+megtagadhatja, ha ennek részletes feltételeit a játéktervben és a részvételi szabályzatban meghatározza.
+13. § (1) A szervező a játékos részére az önkorlátozó intézkedés, illetve az önkizárás kezdőnapján elektronikus levélben
+a 3. §-nak megfelelő tájékoztatást küld.
+(2) A szervező a 11. és 12. § szerint alkalmazott önkorlátozó intézkedésekről és önkizárásokról, azok számáról,
+időtartamáról, az önkizáró intézkedések feloldásáról nyilvántartást vezet, melyhez az állami adóhatóság részére
+távoli hozzáférést biztosít.
+5. A játékkaszinó és a kártyaterem üzemeltető kötelezettségei
+14. §
+A játékkaszinó üzemeltető legalább a következő intézkedések egyikének igénybevételét biztosítja a játékos részére
+3 hónap, 6 hónap, 1 év vagy 2 év időtartamra:
+a) a belépés megtagadása, vagy
+b) a pénztárban vásárolt zseton napi vagy havi összegének korlátozása.
+15. §
+A kártyaterem üzemeltető legalább a következő önkorlátozó intézkedések egyikének igénybevételét biztosítja
+a játékosok részére 3 hónap, 6 hónap, 1 év vagy 2 év időtartamra:
+a) a belépés megtagadása,
+b) az Szjtv. 29/B. § (2) bekezdésben foglaltaknál alacsonyabb küszöbértékek alkalmazása, vagy
+c) a pénztárban vásárolt zseton napi vagy havi összegének korlátozása.
+16. § (1) A szervező a játéktervben és a részvételi szabályzatban meghatározott további önkorlátozó intézkedéseket
+biztosíthat a játékos részére.
+(2) A játékos a 14. §, 15. § vagy az (1) bekezdés szerinti önkorlátozó nyilatkozatot írásban, a személyazonossága
+igazolása mellett bocsátja a szervező rendelkezésére.
+
+(3) A szervező az önkorlátozó nyilatkozatot annak átvétele napján nyilvántartásba veszi. Az önkorlátozó nyilatkozat
+átvételével egyidejűleg a szervező a játékos részére a 3. § szerinti tájékoztatót átadja.
+(4) A játékkaszinó és a kártyaterem üzemeltető az önkorlátozó nyilatkozat adatait az egyes szerencsejátékok
+engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet szerinti
+belépőkártya adatai között feltüntetheti.
+17. § (1) Az önkorlátozó nyilatkozat szerinti intézkedést a szervező a nyilatkozat nyilvántartásba vételét követő 24 órán belül
+alkalmazza.
+(2) Az 1 évnél rövidebb érvényességű önkorlátozás feloldásának nincs helye. A legalább 1 éves érvényességű
+nyilatkozatot a játékos 7 hónap elteltével személyazonossága igazolása mellett írásbeli nyilatkozatban vonhatja
+vissza. A szervező a visszavonó nyilatkozatot annak átvétele napján nyilvántartásba veszi és az önkorlátozás
+feloldását a nyilvántartásba vétel napjától alkalmazza. Az önkorlátozás feloldását a szervező a felelős játékszervezés
+elvének figyelembevételével megtagadhatja, ha ennek részletes feltételeit a játéktervben és a részvételi
+szabályzatban meghatározta.
+(3) A szervező az önkorlátozó, önkizáró nyilatkozat átvételével egyidejűleg a 3. § szerinti tájékoztató nyomtatott
+változatát átadja.
+(4) A szervező a 14–16. § szerinti önkorlátozó intézkedésekről, azok számáról, időtartamáról, az intézkedések
+feloldásáról nyilvántartást vezet, melyről az állami adóhatóság részére havi gyakorisággal, a tárgyhónapot követő
+hónap 20. napjáig elektronikus úton adatszolgáltatást teljesít.
+6. A személyazonosításhoz nem kötött szerencsejáték szervezőjének kötelezettségei
+18. § (1) A 10. § (1) bekezdése szerinti szervező a személyazonosításhoz nem kötött játékfajtára sérülékeny személynek
+nem minősülő személyek részére biztosított önkorlátozó, önkizáró intézkedést a játéktervben és a részvételi
+szabályzatban meghatározza.
+(2) Az Szjtv. 40. § (2) bekezdése szerinti esetben a szervező a személyazonosításhoz nem kötött játékfajtára az egyéb
+sérülékeny személyek részére biztosított játékosvédelmi intézkedést a részvételi szabályzatban meghatározhatja.
+(3) Az e § szerinti önkorlátozó, önkizáró intézkedésekkel kapcsolatban a 17. § rendelkezéseit kell alkalmazni.
+IV. FEJEZET
+A JÁTÉKOSVÉDELMI NYILVÁNTARTÁS
+19. § (1) A játékosvédelmi nyilvántartás bírósági határozaton alapuló korlátozás esetén tartalmazza
+a) a bírósági korlátozás alatt álló személy Szjtv. 1. § (6d) bekezdés a) pontja szerinti személyes azonosító adatait,
+b) a bírósági határozaton alapuló korlátozás tényét, és
+c) a korlátozás határozatlan időtartamát vagy a határozott időtartam kezdő és záró időpontját.
+(2) A játékosvédelmi nyilvántartás önkéntes elhatározáson alapuló korlátozás esetén tartalmazza
+a) a jelentős önkorlátozás alatt álló személy Szjtv. 1. § (6d) bekezdés a) pontja szerinti személyes azonosító
+adatait,
+b) az önkéntes elhatározáson alapuló korlátozás tényét,
+c) a játékos által a jelentős önkorlátozó nyilatkozatban megjelölt egy vagy több szerencsejáték fajtát vagy
+a szervezőket, és
+d) a korlátozás kezdő és záró időpontját.
+(3) Az állami adóhatóság a jelentős önkorlátozó nyilatkozatot, illetve a nyilatkozat visszavonását, valamint a bírósági
+korlátozásról szóló határozatot legkésőbb annak beérkezése napját követő munkanapon jegyzi be a játékosvédelmi
+nyilvántartásba.
+20. § (1) A szervező a játékosvédelmi nyilvántartásba kizárólag a 7. § (1) bekezdése és a 8. § (1) bekezdése szerinti
+ellenőrzési kötelezettség teljesítése céljából a szervező elnevezése, tevékenységi engedély száma, a játékos Szjtv.
+1. § (6d) bekezdés a) pontja szerinti személyes azonosító adatai, valamint a szervező tevékenységi engedélyében
+szereplő szerencsejáték fajta közlése esetén tekinthet be. A szervező a betekintést elektronikus úton a (2) és
+(3) bekezdés szerinti elektronikus kivonat letöltésével és felhasználásával végzi el.
+(2) Az állami adóhatóság a szervező részére a játékosvédelmi nyilvántartás (1) bekezdésnek megfelelő, a szervező
+elnevezése és a szervező tevékenységi engedélyében szereplő szerencsejáték fajta figyelembevételével kizárólag
+
+a személyes adatokból generált, vissza nem fejthető alfanumerikus kódot tartalmazó elektronikus kivonatot készít.
+Az állami adóhatóság elektronikus úton a szervező rendelkezésére bocsátja az alfanumerikus kód képzésére
+alkalmas eljárást. A szervező az alfanumerikus kód képzésére alkalmas eljárást kizárólag a 7. § (1) bekezdése és a 8. §
+(1) bekezdése szerinti ellenőrzéshez használhatja fel.
+(3) A szervező a lekérdezéssel összehasonlítja a játékos személyes adataiból képzett alfanumerikus kódot a kivonatban
+szereplő alfanumerikus kóddal. Amennyiben a két kód egyezik, a szervező a játékos nyilvántartásba vételét
+megtagadja, illetve a nyilvántartásba vett játékos részére nem biztosít játéklehetőséget.
+(4) Az elektronikus kivonat adattartalmának változása esetén a változásokat tartalmazó elektronikus kivonatot az állami
+adóhatóság a változás átvezetését követő munkanapon elektronikus úton bocsátja a szervező rendelkezésére.
+Az elektronikus kivonatból az eseti keresés eredményét tartalmazó nyomtatható elektronikus igazolást a szervező
+biztosítja.
+(5) Az elektronikus kivonat felhasználása üzemzavarának minősül, ha a (3) bekezdés szerinti lekérdezés megkezdését
+követő 30 másodpercen belül a lekérdezés eredménye nem állapítható meg. A szervező az üzemzavarral érintett
+nyilvántartásba vétel vagy belépés, online bejelentkezés vonatkozásában mentesül a 7. § (1) bekezdése és
+a 8. § (1) bekezdése szerinti ellenőrzési kötelezettség alól. A szervező a tárgyhónapot követő hónap 20. napjáig
+elektronikus úton adatot szolgáltat az állami adóhatóság részére az üzemzavarral érintett lekérdezések 7. §
+(1) bekezdése és 8. § (1) bekezdése szerinti számáról.
+(6) A korlátozás, illetve annak visszavonása alkalmazásának megkezdését az elektronikus kivonat szervező részére
+hozzáférhetővé és letölthetővé válását követő 24 órán belül kell biztosítani.
+(7) A szervező a játékosvédelmi nyilvántartásba az állami adóhatóság kijelölt ügyfélszolgálatán is betekinthet és
+az (1) bekezdés szerinti célból a játékosvédelmi nyilvántartás adatairól papír alapú másolatot kérhet.
+21. § (1) Az állami adóhatóság a játékosvédelmi nyilvántartás adatait az engedéllyel rendelkező szervezők Szjtv. szerinti
+ellenőrzéséhez felhasználhatja.
+(2) Az állami adóhatóság a 19. § szerinti adatokat és az azt alátámasztó okirati bizonyítékokat az Szjtv. 1. §
+(6b) bekezdése szerinti célból a korlátozás megszűnését, megszüntetését követő 6 évig kezelheti.
+(3) A szervező a játékosvédelmi nyilvántartásból a III. fejezet alapján, illetve a 20. § (1) bekezdésének megfelelően
+rendelkezésére álló adatokat, okiratokat az adat, okirat rendelkezésre állásától számított 6 évig köteles megőrizni.
+V. FEJEZET
+AZ AJÁNLOTT FELELŐS JÁTÉKSZERVEZŐI MINŐSÍTÉS
+22. § (1) A szervező kérelmére az állami adóhatóság a szervező ajánlott felelős játékszervezői minősítését határozatban
+megállapítja, ha a kérelem előterjesztését megelőző 1 évben
+a) a szervezővel szemben az Szjtv. 1. § (5a)–(6d) bekezdésében és a rendeletben foglaltak megsértése miatt
+– engedélyenként és ha a szervező értékesítő hálózattal rendelkezik, az értékesítőhelyek 10%-át meghaladó
+értékesítőhelyek tekintetében értékesítőhelyenként – 300 000 forintot meghaladó bírságot az állami
+adóhatóság jogerős határozatában nem állapított meg, és
+b) a szervező
+ba) az e rendeletben kötelezően előírt intézkedések mellett a játéktervben és a részvételi szabályzatban
+foglaltak szerint a 24. § a)–d) pontjában felsorolt játékosvédelmi intézkedések közül legalább egyet
+folyamatosan biztosított, vagy
+bb) koncessziós társaságonként, ennek hiányában szervezőnként legalább 5 000 000 forintot a 2. §
+(1) bekezdés a)–c) pontja szerinti szervezet tevékenységének támogatására fordította.
+(2) Az ajánlott felelős játékszervezői minősítést az állami adóhatóság 1 éves időtartamra állapítja meg.
+(3) A szervező ajánlott felelős játékszervezői minősítését – annak érvényességi időtartama alatt – az állami adóhatóság
+a szervező tevékenységi engedélyének adatai mellett honlapján feltünteti. Az állami adóhatóság a szervező
+kérelmére az ajánlott felelős játékszervezői minősítést megállapító határozatot érvényességi időtartama alatt
+honlapján közzéteszi.
+(4) Az ajánlott felelős játékszervezői minősítést érvényességi időtartama alatt a szervező honlapján, a játéktérben,
+reklámjaiban és kereskedelmi kommunikációjában cégnevével vagy szervezői tevékenysége során alkalmazott
+elnevezésével, logójával összefüggésben feltüntetheti.
+
+23. §
+Az állami adóhatóság az ajánlott felelős játékszervezői minősítés érvényességét határozatban megszünteti,
+ha a minősítés érvényességi ideje alatt az állami adóhatóság a szervezővel szemben az Szjtv. 1. §
+(5a)–(6d) bekezdésében és az e rendeletben foglaltak megsértése miatt – működési engedélyenként, és ha
+a szervező értékesítő hálózattal rendelkezik az értékesítőhelyek 10%-át meghaladó értékesítőhelyek tekintetében
+értékesítőhelyenként – jogerős határozatban 300 000 forintot meghaladó bírságot szabott ki.
+24. §
+A szervező az alábbi játékosvédelmi intézkedéseket alkalmazhatja a 22. § (1) bekezdés b) pont ba) alpontjában
+foglaltak választása esetén:
+a) pénznyerő automata üzemeltetése esetén legalább két eszköz alkalmazását:
+aa) játékkaszinó egységenként legalább 10 pénznyerő automatán legfeljebb 3000 forint tétmaximum
+biztosítása,
+ab) a játékban eltöltött időre legalább 30 percenként figyelmeztető funkció biztosítása,
+ac) a játékos részére havi tétmaximum biztosítása, vagy
+ad) a pénznyerő automatán jól látható módon a játékosvédelmi zöld szám és legalább egy, a 2. §
+(1) bekezdés c) pontja szerinti civil szervezet elnevezésének és telefonszámának feltüntetése;
+b) játékkaszinó és kártyaterem esetén belépéskor, a pénztárnál és a játéktérben jól látható helyen, távolról
+is olvasható és a valós időt mutató időmérő szerkezetek állandó elhelyezését és a c) pont vagy d) pont
+da) alpontja szerinti szolgáltatás hetente legalább 1 órában történő biztosítását;
+c) távszerencsejáték és online kaszinójáték kivételével a szerencsejáték szervezésére használt ingatlanban,
+értékesítőhelyen a játékosok részére hozzáférhető helyen családvédelemmel, családsegítéssel foglalkozó
+szervezet vagy a 2. § (1) bekezdés a)–c) pontja szerinti szervezet részére hetente legalább 5 óra
+időtartamban a túlzásba vitt szerencsejátéknak a játékosra és családjára gyakorolt káros hatásaival és
+kezelési lehetőségeivel kapcsolatos tájékoztató tevékenység ingyenes vagy a szervező által finanszírozott
+folyatatásának biztosítása (információs pult, tábla); vagy
+d) valamennyi szerencsejáték esetén
+da) a nyitvatartási idő legalább 15%-ában a kóros játékszenvedély kezelésére, megelőzésére
+szakképzettséggel rendelkező személy közvetlen és ingyenes elérésének biztosítását a játékosok
+részére,
+db) az 1. § (3) bekezdése szerinti játékosvédelmi szabályok kidolgozását a 2. § (1) bekezdés a)–c) pontja
+szerinti szervezet közreműködésével, vagy
+dc) a játékosok részére elektronikusan vagy papír alapon a játékfüggőség mértékének mérésére
+alkalmas teszt kitöltésének és értékelésének állandó elérhetővé tételét és a da) alpont szerinti
+szolgáltatás biztosítását hetente legalább 1 órában.
+VI. FEJEZET
+A KITILTÁS ÉS PANASZKEZELÉSI ELJÁRÁS
+25. § (1) Ha a játékos a szervező és a játékos között a szerencsejátékban való részvételre létrejött szerződést súlyosan
+megszegi, a szervező a játékos részére eseti jelleggel vagy határozott, de legfeljebb 5 éves időtartamra
+megtagadhatja a szerencsejáték szervezésére szolgáló ingatlanba, értékesítő helyre a belépést vagy
+távszerencsejáték, online kaszinójáték esetén az online bejelentkezést és a szerencsejátékban való részvételt
+(a továbbiakban: kitiltás).
+(2) Ha a szervező, illetve a társasági adóról és az osztalékadóról szóló törvény szerint kapcsolt vállalkozásának minősülő
+társaság az 5. § (3) bekezdése szerinti valamely szerencsejáték fajtára több engedéllyel rendelkezik vagy az adott
+szerencsejáték fajtára a szervezői tevékenységet több egységben, ingatlanban, értékesítési helyen vagy honlapon
+egyetlen engedély keretében végzi, a játékossal szemben a kitiltást valamennyi engedélyére, illetve az egyetlen
+engedély keretében valamennyi egységre, ingatlanra, értékesítési helyre, honlapra kiterjedően is alkalmazhatja.
+(3) A kitiltásról – a távszerencsejáték és az online kaszinójáték szervező kivételével – a szervező a személyesen jelen
+levő játékost a kitiltással egyidejűleg, írásbeli nyilatkozat átadásával értesíti. Ha a játékos a nyilatkozat átvételét
+megtagadja, a nyilatkozat elkészítését megelőzően távozik vagy a kitiltás során személyesen nincs jelen, a szervező
+a játékost – erre vonatkozó írásbeli kérelmére – a kitiltásról a játékos kérelméről való tudomásszerzést követő
+8 munkanapon belül írásbeli nyilatkozat postai úton való megküldésével vagy személyes átadásával értesíti.
+(4) A távszerencsejáték és az online kaszinójáték szervező a kitiltásról a játékost a kitiltással egyidejűleg, de legfeljebb
+a kitiltástól számított 8 munkanapon belül elektronikus levélben értesíti.
+
+(5) A (3) bekezdés szerinti írásbeli nyilatkozatban és a (4) bekezdés szerinti elektronikus levélben a szervező a kitiltás
+tényét, időpontját, (2) bekezdés szerinti alkalmazási körét és indokát feltünteti.
+(6) A kitiltást a szervező az érintett játékos személyiségi jogainak tiszteletben tartásával, a nyilvánosság kizárása mellett
+és más játékosok zavarása nélkül hajtja végre.
+(7) A szervező a kitiltott játékossal a szerencsejáték fajtára irányadó szabályok szerint elszámol.
+(8) A szervező a kitiltásra okot adó súlyos szerződésszegés esetköreit és a kitiltás részletes eljárásrendjét a játéktervben
+és a részvételi szabályzatban határozza meg. A 10. § (1) bekezdése szerinti szervező a személyazonosítással nem járó
+szerencsejátékok esetén a játéktervben és a részvételi szabályzatban a nem eseti kitiltás lehetőségét kizárhatja.
+(9) A szervező a kitiltásokról nyilvántartást vezet és a kitiltással kapcsolatban keletkezett adatokat a kitiltásról szóló
+írásbeli nyilatkozat kiállítása napjától számított 6 évig köteles megőrizni.
+26. § (1) A szervező a kitiltott játékos írásbeli panaszára, egyéb kérelmére vagy panasz, kérelem hiányában saját
+kezdeményezésére a kitiltást annak időtartama alatt indokolás nélkül visszavonhatja. A kitiltás visszavonásáról és
+a visszavonás kezdő időpontjáról a szervező a játékost írásban – távszerencsejáték és online kaszinójáték esetén
+elektronikus levélben – értesíti.
+(2) A játékos a kitiltással és a kitiltás visszavonásával kapcsolatos igényeit egyebekben bíróság előtt érvényesítheti.
+VII. FEJEZET
+JELENTÉSTÉTEL
+27. §
+Az államháztartásért felelős miniszter az egészségügyért, valamint a szociál- és nyugdíjpolitikáért felelős miniszter
+és az igazságügyért felelős miniszter egyetértésével és adatszolgáltatásának felhasználásával a tárgyévet követő
+február 20-ig jelentést készít a Kormány részére a felelős játékszervezés elvének érvényesüléséről, a játékosvédelmi
+intézkedések gyakorlati alkalmazásáról és továbbfejlesztési lehetőségeiről.
+VIII. FEJEZET
+ZÁRÓ RENDELKEZÉSEK
+7. Hatályba léptető és átmeneti rendelkezések
+28. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+29. § (1) A 2. § rendelkezéseit a kihirdetést követő 3. munkanaptól kell alkalmazni.
+(2) Az 1. §, a 3. §, a (3) bekezdésben meghatározott rendelkezések kivételével a II. fejezet, valamint a III–VI. fejezet
+rendelkezéseit 2016. január 1-jétől kell alkalmazni.
+(3) Az 5. § (3) bekezdés e) és f) pontját 2016. szeptember 1. napjától kell alkalmazni.
+30. § (1) A játékterv, részvételi szabályzat Szjtv. 1. § (5a)–(6d) bekezdésében és a 29/I. § (2) és (2a) bekezdésében foglaltaknak
+és – a 29. § (3) bekezdésében foglaltak kivételével – az e rendeletben foglaltaknak való megfelelés érdekében
+a játékterv, részvételi szabályzat módosításával összefüggő kérelmet a szervező legkésőbb 2015. december 15.
+napjáig terjeszti elő az állami adóhatósághoz.
+(2) A játékosok előzetes tájékoztatása és a játékosvédelmi intézkedések 2016. január 1-jétől kezdődő hatékony
+bevezetése érdekében a 2015. december 1. és 2015. december 31. közötti időszakban a szervező a honlapján,
+valamint a játéktérben, értékesítő hálózat esetén az értékesítőhelyek legalább 60%-ában a 2. § (1) bekezdés
+a)–h) pontja szerinti tájékoztatást a játékosok részére hozzáférhetővé teszi.
+8. Jogszabály tervezetének egyeztetése
+31. §
+E rendelet 11. és 12. §-a, valamint 13. § (2) bekezdése tervezetének a műszaki szabványok és szabályok terén történő
+információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról
+szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése
+a 2014/353/HU sz. alatti műszaki notifikációs eljárásban megtörtént.
+ Orbán Viktor s. k.,
+ miniszterelnök
