@@ -1,0 +1,1 @@
+A Kormány jóváhagyja az „MFB pontok kialakítása és pénzügyi közvetítői szolgáltatások nyújtása” tárgyú közbeszerzési eljárás részvételi felhívását és az ahhoz kapcsolódó kiegészítő iratot a részére bemutatott tervezet szerint.
