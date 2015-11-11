@@ -1,4 +1,4 @@
-7. § (1)[^24] A földrészlet nyilvános pályázat útján történő eladására, haszonbérbe adására irányuló pályázati felhívásnak tartalmaznia kell:
+7. § (1)[^25] A földrészlet nyilvános pályázat útján történő eladására, haszonbérbe adására irányuló pályázati felhívásnak tartalmaznia kell:
 
 1. a pályázati felhívást kiíró megnevezését és székhelyét;
 
@@ -24,7 +24,7 @@
 
 12. a pályázat érvényességének feltételeit;
 
-13.[^25] az elővásárlási jog gyakorlásának módját;
+13.[^26] az elővásárlási jog gyakorlásának módját;
 
 14. a minimális ellenszolgáltatást, amelynél kedvezőtlenebb ajánlat nem tehető;
 
@@ -42,21 +42,21 @@
 
 18. annak rögzítését, hogy a pályázaton való részvétellel kapcsolatos költségek a pályázat eredményességétől függetlenül a pályázót terhelik.
 
-19.[^26] az Nfatv. 19. § (4) bekezdésében meghatározottakról való figyelemfelhívást.
+19.[^27] az Nfatv. 19. § (4) bekezdésében meghatározottakról való figyelemfelhívást.
 
 (2) A pályázati kiírás a pályázati felhívásban foglalt adatokon túl tartalmazza:
 
 1. a pályázat hivatalos nyelvének megjelölését;
 
-2.[^27] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket;
+2.[^28] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket;
 
 3. az ingatlan-nyilvántartásba jogi jellegként feljegyzett tényeket;
 
-4.[^28] a földrészletet terhelő szolgalmi jogot és vezetékjogot;
+4.[^29] a földrészletet terhelő szolgalmi jogot és vezetékjogot;
 
-5.[^29] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére feljegyzett elidegenítési tilalmat;
+5.[^30] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére feljegyzett elidegenítési tilalmat;
 
-6.[^30] a földhasználati nyilvántartásba az állam tulajdoni illetőségét érintően bejegyzett földhasználat jogcímét és a földhasználat időtartamát, vagy bejegyzés hiányában, az NFA által ismert fennálló földhasználat jogcímét és a földhasználat időtartamát;
+6.[^31] a földhasználati nyilvántartásba az állam tulajdoni illetőségét érintően bejegyzett földhasználat jogcímét és a földhasználat időtartamát, vagy bejegyzés hiányában, az NFA által ismert fennálló földhasználat jogcímét és a földhasználat időtartamát;
 
 7. a földrészletet érintően a földhasználó javára megítélt, egy éven túli kötelezettségvállaláson alapuló, európai uniós vagy nemzeti terület alapú támogatás jogcímét és a kötelezettségvállalás időtartamát;
 
@@ -80,11 +80,11 @@
 
 17. az eredményről a pályázók értesítésének módját és határidejét;
 
-18.[^31] annak rögzítését, hogy a nyertes pályázó által benyújtott pályázatot a 22. § (3) bekezdésben meghatározottak szerint nyilvánosságra kell hozni, továbbá a nyertes pályázóval kötött szerződés tartalmából közérdekből nyilvános adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok, valamint, hogy az Nfatv. 30. § (2) bekezdésében meghatározott ellenszolgáltatást tartalmazó szerződés esetén a szerződést közzé kell tenni.
+18.[^32] annak rögzítését, hogy a nyertes pályázó által benyújtott pályázatot a 22. § (3) bekezdésben meghatározottak szerint nyilvánosságra kell hozni, továbbá a nyertes pályázóval kötött szerződés tartalmából közérdekből nyilvános adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok, valamint, hogy az Nfatv. 30. § (2) bekezdésében meghatározott ellenszolgáltatást tartalmazó szerződés esetén a szerződést közzé kell tenni.
 
 (3) A (2) bekezdés 7. pontjában foglalt adatokat az NFA a Mezőgazdasági és Vidékfejlesztési Hivatal adatszolgáltatása alapján állapítja meg.
 
-(4)[^32] Ha a pályázati felhívás tárgyát jogszabállyal vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem, illetve védett terület képezi, a (2) bekezdés 11. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó jogszabályi előírásokat.
+(4)[^33] Ha a pályázati felhívás tárgyát jogszabállyal vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem, illetve védett terület képezi, a (2) bekezdés 11. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó jogszabályi előírásokat.
 
 (5) Az NFA oly módon köteles a pályázati felhívást közzétenni, és a pályázati kiírást elkészíteni, hogy az abban foglalt jogok, tények, adatok megegyezzenek a pályázati felhívás közzétételének időpontjában az ingatlan-nyilvántartásba bejegyzett jogokkal, tényekkel és adatokkal, valamint a földhasználati nyilvántartásba bejegyzett adatokkal.
 
@@ -96,12 +96,12 @@
 
 (9) Az NFA a pályázók bármelyikének biztosított információt, adatot és egyéb szolgáltatást köteles a többi pályázó számára is ugyanolyan módon biztosítani.
 
-[^24]: A 7. § (1) bekezdés nyitó szövegrésze a 153/2013. (V. 24.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
-[^25]: A 7. § (1) bekezdés 13. pontja a 161/2011. (VIII. 18.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^26]: A 7. § (1) bekezdés 19. pontját a 91/2014. (III. 20.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^27]: A 7. § (2) bekezdés 2. pontja a 223/2013. (VI. 24.) Korm. rendelet 1. §-ával megállapított, a 91/2014. (III. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^28]: A 7. § (2) bekezdés 4. pontja a 91/2014. (III. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^29]: A 7. § (2) bekezdés 5. pontja a 91/2014. (III. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^30]: A 7. § (2) bekezdés 6. pontja a 91/2014. (III. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^31]: A 7. § (2) bekezdés 18. pontja a 153/2013. (V. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^32]: A 7. § (4) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^25]: A 7. § (1) bekezdés nyitó szövegrésze a 153/2013. (V. 24.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^26]: A 7. § (1) bekezdés 13. pontja a 161/2011. (VIII. 18.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^27]: A 7. § (1) bekezdés 19. pontját a 91/2014. (III. 20.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^28]: A 7. § (2) bekezdés 2. pontja a 223/2013. (VI. 24.) Korm. rendelet 1. §-ával megállapított, a 91/2014. (III. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^29]: A 7. § (2) bekezdés 4. pontja a 91/2014. (III. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^30]: A 7. § (2) bekezdés 5. pontja a 91/2014. (III. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^31]: A 7. § (2) bekezdés 6. pontja a 91/2014. (III. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^32]: A 7. § (2) bekezdés 18. pontja a 153/2013. (V. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^33]: A 7. § (4) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.

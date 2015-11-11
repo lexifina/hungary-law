@@ -1,0 +1,4 @@
+58. §[^142] E rendeletnek a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet és a földhivatalok, valamint a Földmérési és Távérzékelési Intézet feladatairól, illetékességi területéről, továbbá egyes földhivatali eljárások részletes szabályairól szóló 373/2014. (XII. 31.) Korm. rendelet módosításáról szóló 325/2015. (XI. 10.) Korm. rendelettel (a továbbiakban: Mr4.) megállapított rendelkezéseit az Mr4. hatálybalépését[^143] követően megtartott árverésekre alkalmazni kell, függetlenül az árverésre vonatkozó hirdetmény tartalmától, azzal, hogy ha az Mr4. hatálybalépését megelőzően közzétett hirdetmény e rendelet Mr4.-gyel megállapított rendelkezéseinek nem felel meg, új hirdetményt közzétenni nem szükséges.
+
+[^142]: Az 58. §-t a 325/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.
+[^143]: A hatálybalépés napja 2015. november 11.

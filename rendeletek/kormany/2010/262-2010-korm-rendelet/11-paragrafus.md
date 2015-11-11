@@ -1,6 +1,6 @@
 ## A pályázat és az ajánlati kötöttség
 
-11. § (1)[^37] A pályázó a pályázatát zárt borítékban, egy példányban – minden oldalon eredetiben cégszerű aláírással, természetes személyeknél eredeti aláírással, illetve a meghatalmazott aláírásával ellátva – köteles a pályázat benyújtására nyitva álló határidőben, a megadott helyen, az adott pályázati azonosítószám feltüntetésével, személyesen vagy meghatalmazott útján benyújtani.
+11. § (1)[^38] A pályázó a pályázatát zárt borítékban, egy példányban – minden oldalon eredetiben cégszerű aláírással, természetes személyeknél eredeti aláírással, illetve a meghatalmazott aláírásával ellátva – köteles a pályázat benyújtására nyitva álló határidőben, a megadott helyen, az adott pályázati azonosítószám feltüntetésével, személyesen vagy meghatalmazott útján benyújtani.
 
 (2) A pályázó meghatalmazottja köteles közokirattal vagy ügyvéd által ellenjegyzett magánokirattal igazolni képviseleti jogosultságát, illetve annak terjedelmét.
 
@@ -24,7 +24,7 @@ d) nincs az adózás rendjéről szóló 2003. évi XCII. törvény 178. §-ána
 
 e) hamis adat szolgáltatása miatt nem zárták ki állami vagyon hasznosítására irányuló korábbi – három évnél nem régebben lezárult – eljárásból.
 
-(6)[^38] Ha a pályázati felhívás a földrészlet eladására irányul, a pályázónak nyilatkoznia kell arról, hogy elővásárlásra jogosult-e, és ha igen, az szerződésen vagy jogszabályon alapul. Ha az elővásárlási jog jogszabályon alapul, nyilatkozni kell arról is, a jogosultság mely jogszabály alapján és mely jogcímen illeti meg.
+(6)[^39] Ha a pályázati felhívás a földrészlet eladására irányul, a pályázónak nyilatkoznia kell arról, hogy elővásárlásra jogosult-e, és ha igen, az szerződésen vagy jogszabályon alapul. Ha az elővásárlási jog jogszabályon alapul, nyilatkozni kell arról is, a jogosultság mely jogszabály alapján és mely jogcímen illeti meg.
 
 (7) A pályázathoz mellékelni kell az arra vonatkozó igazolást, hogy a pályázó a biztosíték összegét a pályázati kiírásban előírt módon az NFA rendelkezésére bocsátotta.
 
@@ -36,5 +36,5 @@ e) hamis adat szolgáltatása miatt nem zárták ki állami vagyon hasznosítás
 
 (11) A pályázó az NFA felhívására, a megjelölt határidőig köteles a pályázatában foglaltakat igazolni.
 
-[^37]: A 11. § (1) bekezdése a 153/2013. (V. 24.) Korm. rendelet 5. §-ával megállapított, a 91/2014. (III. 20.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
-[^38]: A 11. § (6) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^38]: A 11. § (1) bekezdése a 153/2013. (V. 24.) Korm. rendelet 5. §-ával megállapított, a 91/2014. (III. 20.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^39]: A 11. § (6) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 11. §-ával megállapított szöveg.

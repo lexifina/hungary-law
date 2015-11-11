@@ -4,6 +4,7 @@
 
 (3) A (2) bekezdésben meghatározott földrészletekkel szomszédos, vagy azok alrészletét képező művelés alól kivett területek eladására a kivett terület fekvése szerinti településen fekvő, szántó művelési ágú földek átlag aranykorona (AK) értékét fajlagosan (területarányosan) figyelembe véve, a 4. § (2) bekezdésében előírt értékbecslés elvégzése nélkül, legalább a (2) bekezdésben megállapított értéken kerülhet sor.
 
-(4) Nem alkalmazható a (2) és (3) bekezdésben rögzített árképzés olyan földrészlet eladása esetén, melyen állandó jellegű épület vagy más, a földrészlettől az állag sérelme nélkül el nem választható értéknövelő beruházás található. A beruházás tényleges természetbeni állapotáról a hasznosításra irányuló döntés megalapozása előtt az NFA köteles meggyőződni.
+(4)[^17]
 
 [^16]: A 4/B. §-t újonnan a 285/2015. (X. 5.) Korm. rendelet 3. §-a iktatta be.
+[^17]: A 4/B. § (4) bekezdését a 325/2015. (XI. 10.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
