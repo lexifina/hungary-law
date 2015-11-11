@@ -54,11 +54,11 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. |
 
-| 3. | 1.1.1. | Intézményi informatikai infrastruktúra fejlesztése a közoktatásban | 0,00 | 9,40 | 3,30 | 0,00 | 1,80 | A konstrukció célja a közoktatási intézményekben az információs és kommunikációs technológiai (a továbbiakban: IKT) kompetenciák, készségek és képességek fejlesztését, továbbá az ezen intézmények kommunikációját, adminisztrációját segítő eszközök beszerzése. | emberi erőforrások minisztere | – |
+| 3. | 1.1.1. | Intézményi informatikai infrastruktúra fejlesztése a közoktatásban | 0,00 | 9,40 | 3,30 | 0,00 | 0,00 | A konstrukció célja a közoktatási intézményekben az információs és kommunikációs technológiai (a továbbiakban: IKT) kompetenciák, készségek és képességek fejlesztését, továbbá az ezen intézmények kommunikációját, adminisztrációját segítő eszközök beszerzése. | emberi erőforrások minisztere | – |
 
 | 4. | 1.1.2. | Hatékony informatikai infrastruktúra a közoktatásban II. szakasz | 0,00 | 1,20 | 0,00 | 0,00 | 0,00 | A konstrukció célja a TIOP-1.1.2. számú konstrukció első szakaszában kialakított informatikai infrastruktúra bővítése, fejlesztése annak érdekében, hogy a már meglévő, és a majd kialakítandó különböző oktatási rendszerek, valamint az oktatás ágazati szintű tervezéséhez és irányításához szükséges rendszerek működtetése az alapinfrastruktúra oldaláról az elkövetkező évekre is biztosított legyen. | emberi erőforrások minisztere | – |
 
-| 5. | 1.1.3. | Végponti kapcsolatok fejlesztése a közoktatásban | 0,00 | 1,10 | 0,00 | 3,10 | 0,00 | A konstrukció célja az intézményi informatikai és adathálózati infrastruktúra fejlesztése a közoktatásban. | emberi erőforrások minisztere | – |
+| 5. | 1.1.3. | Végponti kapcsolatok fejlesztése a közoktatásban | 0,00 | 1,10 | 0,00 | 3,10 | 1,80 | A konstrukció célja az intézményi informatikai és adathálózati infrastruktúra fejlesztése a közoktatásban. | emberi erőforrások minisztere | – |
 
 | 6. | 1.1.4. | Dankó Pista Program: IKT és taneszköz fejlesztés | 0,00 | 0,00 | 0,00 | 0,21 | 0,00 | A konstrukció célja az Országos Roma Önkormányzat fenntartásában álló köznevelési intézmények informatikai fejlesztése, és korszerű taneszközök beszerzése. | emberi erőforrások minisztere | – |
 
@@ -269,4 +269,4 @@ A prioritás célja a TIOP eredményes és hatékony megvalósítása. A technik
 | 4. | 4.1.2. | Vásárolt kommunikációs szolgáltatások | 0,00 | 0,00 | 0,00 | 0,00 | 1,20 | A Társadalmi Infrastruktúra Operatív Program intézkedéseivel kapcsolatos kommunikációs célú feladatok ellátása. | emberi erőforrások minisztere | – |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1652/2015. (IX. 10.) Korm. határozat 3–4. pontja, az 1662/2015. (IX. 16.) Korm. határozat 3–4. pontja, az 1664/2015. (IX. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1652/2015. (IX. 10.) Korm. határozat 3–4. pontja, az 1662/2015. (IX. 16.) Korm. határozat 3–4. pontja, az 1664/2015. (IX. 16.) Korm. határozat 3. pontja, az 1818/2015. (XI. 10.) Korm. határozat 4. pontja szerint módosított szöveg.

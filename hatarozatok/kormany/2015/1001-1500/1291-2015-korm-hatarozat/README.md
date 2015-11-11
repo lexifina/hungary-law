@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1291-30
 | 2015-05-07 | 2015-1291-30-22.2 | 2010: CXXX. törvény |
 | 2015-09-11 | 2015-1291-30-22.3 | 1652/2015. (IX. 10.) Korm. határozat |
 | 2015-09-17 | 2015-1291-30-22.4 | 1652/2015. (IX. 10.) Korm. határozat |
+| 2015-11-11 | 2015-1291-30-22.5 | 1652/2015. (IX. 10.) Korm. határozat |
