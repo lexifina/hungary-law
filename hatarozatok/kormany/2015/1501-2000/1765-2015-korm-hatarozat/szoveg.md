@@ -1,4 +1,4 @@
-A „Földet a gazdáknak!” Program keretében és az egyes állami földterületek értékesítésével kapcsolatos szabályozásnak megfelelően az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) kedvezményesen elérhető földvásárlási hitelterméket dolgozott ki a helyben lakó, magyar állampolgárságú, élethivatásszerűen a földműveléssel foglalkozó gazdák számára. Általános érvényű vállalkozás- és gazdaságfejlesztési kötelezettségei és törekvései alapján az MFB Zrt. megbízható, hosszú távra tervezhető, a gazdák számára előnyös pénzügyi finanszírozási lehetőséget nyújt az érintett állami földek megvásárlásához. Az MFB Zrt. által nyújtott hitel célja, hogy minden arra jogosult gazda megkülönböztetésmentes módon, egyenlő eséllyel indulhasson a vidék megerősítése, a magyar agrárium stratégiai szerepének és versenyképességének növelése, a hazai családi gazdaságokra építő birtokrendszer helyzetének javítása érdekében életre hívott állami földvásárlási programban.
+A „Földet a gazdáknak!” Program keretében és az egyes állami földterületek értékesítésével kapcsolatos szabályozásnak megfelelően az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) kedvezményesen elérhető földvásárlási hitelterméket dolgozott ki a helyben lakó,, élethivatásszerűen a földműveléssel foglalkozó gazdák számára. Általános érvényű vállalkozás- és gazdaságfejlesztési kötelezettségei és törekvései alapján az MFB Zrt. megbízható, hosszú távra tervezhető, a gazdák számára előnyös pénzügyi finanszírozási lehetőséget nyújt az érintett állami földek megvásárlásához. Az MFB Zrt. által nyújtott hitel célja, hogy minden arra jogosult gazda megkülönböztetésmentes módon, egyenlő eséllyel indulhasson a vidék megerősítése, a magyar agrárium stratégiai szerepének és versenyképességének növelése, a hazai családi gazdaságokra építő birtokrendszer helyzetének javítása érdekében életre hívott állami földvásárlási programban.[^1]
 
 1. A fentiek érdekében a Kormány
 
@@ -23,3 +23,5 @@ Felelős: Miniszterelnökséget vezető miniszter
 Határidő: azonnal
 
 2. Ez a határozat a közzététele napján 15 órakor lép hatályba.
+
+[^1]: A bevezető rész az 1792/2015. (XI. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
