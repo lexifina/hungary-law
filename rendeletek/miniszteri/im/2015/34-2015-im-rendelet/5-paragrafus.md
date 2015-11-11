@@ -1,0 +1,3 @@
+5. § (1) Az alkalmasságot megállapító tanúsítvány kiadását követően az Igazságügyi Hivatal évente egyszer felülvizsgálja, hogy a különleges meghallgató szoba megfelel-e az 1. § (2)–(5) bekezdésében meghatározott követelményeknek és azt rendeltetésszerűen használják-e.
+
+(2) Ha az Igazságügyi Hivatal a különleges meghallgató szoba alkalmasságával kapcsolatban hiányosságot vagy rendeltetésellenes használatot észlel, – az országos rendőrfőkapitány, valamint az igazságügyért és a rendészetért felelős miniszterek egyidejű értesítése mellett – nyolcnapos határidő kitűzésével felhívja az érintett nyomozó hatóságot hiánypótlásra vagy a rendeltetésszerű használat helyreállítására.
