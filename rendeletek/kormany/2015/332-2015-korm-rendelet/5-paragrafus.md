@@ -1,0 +1,3 @@
+## 4. § A Korm. rendelet 11/A. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) A KEKKH az (1) és (2) bekezdésben foglalt feladatai ellátásán túl közreműködik a miniszter szakmai irányítói feladataiban a kitöltetlen és megszemélyesített okmányok, kellékek, tartozékok és rendszámtáblák kezelésével összefüggő, valamint az okmányirodák logisztikai és nyilvántartási tevékenysége tekintetében, ennek keretében ellátja az okmányirodák részére biztosított biankó és megszemélyesített okmányok, kellékek, tartozékok és rendszámtáblák kezelésének és nyilvántartásának fejlesztésére, a feladat végrehajtás elemzésére és monitoringjára vonatkozó feladatokat.”
