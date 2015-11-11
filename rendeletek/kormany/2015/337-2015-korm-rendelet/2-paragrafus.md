@@ -1,0 +1,1 @@
+## 1. § A Bábolna Nemzeti Ménesbirtok Korlátolt Felelősségű Társaság (székhelye: 2943 Bábolna, Mészáros utca 1., cégjegyzékszáma: 11-09-008173, főtevékenysége: TEÁOR'08 0143 Ló, lóféle tenyésztése, adószáma: 12647064-2-11) által ellátott állami feladatot 2016. január 1-jétől a Bábolna Nemzeti Ménesbirtok mint átvevő központi költségvetési szerv látja el.
