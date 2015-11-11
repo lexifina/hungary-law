@@ -62,6 +62,6 @@
 
 | 11. | Ha a termőföld az ingatlan-nyilvántartás szerint helyi jelentőségű védett természeti területen található. | Annak elbírálása, hogy a más célú hasznosítás vagy az eredeti állapot helyreállítása a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek megfelel-e. | települési önkormányzat jegyzője, fővárosban a főjegyző | – |
 
-3. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^243]
+3. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^244]
 
-[^243]: A 3. melléklet a 70/2015. (III. 30.) Korm. rendelet 260. § (21) bekezdésével megállapított szöveg.
+[^244]: A 3. melléklet a 70/2015. (III. 30.) Korm. rendelet 260. § (21) bekezdésével megállapított szöveg.

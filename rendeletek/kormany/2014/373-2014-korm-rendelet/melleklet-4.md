@@ -32,6 +32,6 @@
 
 ## A járási hivatal a telekalakítás engedélyezése esetén a változási vázrajzot az »A telekalakítást a .../..../20... számú határozatomban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat jogerőre emelkedésétől számított egy évig hatályos.« záradékszöveggel látja el.
 
-4. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^244]
+4. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^245]
 
-[^244]: A 4. melléklet a 70/2015. (III. 30.) Korm. rendelet 260. § (22) bekezdésével megállapított szöveg.
+[^245]: A 4. melléklet a 70/2015. (III. 30.) Korm. rendelet 260. § (22) bekezdésével megállapított szöveg.

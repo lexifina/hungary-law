@@ -16,10 +16,13 @@ b) a 9. § (7) bekezdésében meghatározott bírósági döntésben szereplő f
 
 ## igazolja.
 
+(1a)[^88] Az (1) bekezdés a) pont ab) alpontja alapján az árverésen történő részvételhez kiállított hatósági bizonyítvány tartalmazza a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti legfeljebb 20 km-es távolságra vonatkozó feltétel fennállását.
+
 (2) A hatósági bizonyítvány kiadására irányuló kérelemben meg kell jelölni a Fétv. 13. § (1) bekezdés a) pontja szerinti adatokat, valamint az árverezésre kerülő vagy a bírósági döntés alapján történő tulajdonjog bejegyzéssel érintett föld fekvésének települését és helyrajzi számát.
 
-(3)[^88] A hatósági bizonyítványt a kormányhivatal 15 napon belül állítja ki.
+(3)[^89] A hatósági bizonyítványt a kormányhivatal 15 napon belül állítja ki.
 
 [^86]: A 40. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
 [^87]: A 40. § (1) bekezdés a) pontja a 285/2015. (X. 5.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^88]: A 40. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
+[^88]: A 40. § (1a) bekezdését a 325/2015. (XI. 10.) Korm. rendelet 7. §-a iktatta be.
+[^89]: A 40. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
