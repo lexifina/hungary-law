@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-160-20-
 | 2014-02-10 | 2009-160-20-22.14 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2014-09-05 | 2009-160-20-22.15 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2015-07-08 | 2009-160-20-22.16 | 137/2010. (IV. 28.) Korm. rendelet |
+| 2015-11-11 | 2009-160-20-22.17 | 341/2015. (XI. 10.) Korm. rendelet |

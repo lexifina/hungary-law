@@ -14,6 +14,6 @@ f) az Európai Szomszédsági és Partnerségi Támogatási Eszköz létrehozás
 
 g) az európai szomszédsági és partnerségi támogatási eszköz létrehozására vonatkozó általános rendelkezések meghatározásáról szóló 1638/2006/EK európai parlamenti és tanácsi rendelet keretében finanszírozott, határokon átnyúló együttműködési programok végrehajtási szabályainak megállapításáról szóló 951/2007/EK bizottsági rendelet;
 
-h)[^137] az előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló 1085/2006/EK tanácsi rendelet végrehajtásáról szóló 718/2007/EK bizottsági rendelet módosításáról szóló 2010. január 28-i 80/2010/EU bizottsági rendelet.
+h)[^145] az előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló 1085/2006/EK tanácsi rendelet végrehajtásáról szóló 718/2007/EK bizottsági rendelet módosításáról szóló 2010. január 28-i 80/2010/EU bizottsági rendelet.
 
-[^137]: A 62. § h) pontját a 370/2010. (XII. 31.) Korm. rendelet 20. §-a iktatta be.
+[^145]: A 62. § h) pontját a 370/2010. (XII. 31.) Korm. rendelet 20. §-a iktatta be.
