@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-276-20-
 | 2015-04-01 | 2006-276-20-22.40 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-04-10 | 2006-276-20-22.41 | 90/2015. (IV. 9.) Korm. rendelet |
 | 2015-08-01 | 2006-276-20-22.42 | 194/2015. (VII. 21.) Korm. rendelet |
+| 2015-11-11 | 2006-276-20-22.43 | 332/2015. (XI. 10.) Korm. rendelet |
