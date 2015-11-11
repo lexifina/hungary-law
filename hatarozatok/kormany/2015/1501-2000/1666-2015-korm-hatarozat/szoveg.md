@@ -20,7 +20,7 @@ h) a kikiáltási ár alatti értékesítés lehetőségének kizárásával,
 
 i) 20 éves elidegenítési és terhelési tilalom, valamint a Magyar Állam visszavásárlási jogának kikötésével, az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság által a vásárlásokhoz igénybe vehető földvásárlási hitelprogram meghirdetésével,
 
-j) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 18. § (1) bekezdésének e) pontja szerinti helyben lakó magyar földművesek a Nemzeti Földalapba tartozó földterületek értékesítése során földtulajdont vásárolhassanak.
+j)[^1] a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 18. § (1) bekezdés e) pontja szerinti helyben lakó földművesek a Nemzeti Földalapba tartozó földterületek értékesítése során földtulajdont vásárolhassanak.
 
 2. Az állami tulajdonú földterületek értékesítéséből származó bevétel kizárólag Magyarország fejlesztésére és az állami vagyon gyarapítására használható fel.
 
@@ -57,3 +57,5 @@ e) felhívja a földművelésügyi minisztert, hogy készítse elő a mintagazda
 Felelős: földművelésügyi miniszter
 
 Határidő: 2015. október 31.
+
+[^1]: Az 1. pont j) alpontja az 1792/2015. (XI. 10.) Korm. határozat 1. pontjával megállapított szöveg.
