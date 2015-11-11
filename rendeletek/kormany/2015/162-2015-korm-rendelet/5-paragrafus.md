@@ -6,6 +6,8 @@ b) a költségtérítéses szakképzés keretében a jelölt a munkáltatóval �
 
 létesít.
 
+(1a)[^5] A támogatott szakképzésben a rezidens az (1) bekezdés a) pontja szerinti közalkalmazotti jogviszony létrejöttét követő 10 napon belül kezdeményezi az általa választott egyetemnél a 4. § (1) bekezdése szerinti szakképzési megállapodás megkötését. A szakképzési megállapodás megkötése kezdeményezésének hiányában az (1) bekezdés a) pontja szerinti közalkalmazotti jogviszony próbaidő alatti megszüntetésére kerül sor.
+
 (2) A 4. § (1) bekezdése szerinti szakképzési megállapodás nem feltétele az (1) bekezdés a) pontja szerinti közalkalmazotti jogviszony létesítésének. A közalkalmazotti jogviszony létesítésétől a szakképzési megállapodás megkötéséig eltelt idő a rezidens képzésébe beszámít.
 
 (3) Az (1) bekezdés b) pontja szerinti jogviszony keretében a munkáltató vállalja
@@ -38,6 +40,9 @@ b) a rezidens olyan magatartást tanúsít, amely alapján a közalkalmazottak j
 
 (8) A (4) bekezdés szerinti megállapodás – az Eütev. 11/B. § (2) bekezdésében foglaltakra figyelemmel – tartalmazza a rezidens feletti munkáltatói jogoknak az ENKK és az elsődleges képzőhely közötti megosztását.
 
-(9) Az egészségügyi szolgáltatónál fennálló kollektív szerződés hatálya azon rezidensekre is kiterjed, akiknek elsődleges képzőhelyeként az adott egészségügyi szolgáltató kijelölésére került sor.
+(9)[^6] Az egészségügyi szolgáltató által kollektív szerződésben meghatározott kedvezményeket, jogosultságokat az ott meghatározott feltételekkel azon rezidensek részére is biztosítani kell, akiknek elsődleges képzőhelyeként az adott egészségügyi szolgáltató kijelölésére került sor.
 
 (10) Az egészségügyi szolgáltató által a fennálló kollektív szerződésből fakadóan vagy a rezidenssel történő egyéb megállapodás alapján meghatározott juttatásokat az egészségügyi szolgáltató a rezidens részére saját költségvetéséből biztosítja.
+
+[^5]: Az 5. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^6]: Az 5. § (9) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

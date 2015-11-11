@@ -1,5 +1,3 @@
-## rezidenssel, azzal, hogy elsődleges képzőhelyként az a) és b) pont szerinti esetben a pályázó egészségügyi szolgáltatót, a c) és d) pont szerinti esetben az egyetemet jelöli ki.
-
 ## 12. Elsődleges képzőhely megváltoztatása és szakváltás a képzés ideje alatt
 
 20. § (1) A támogatott képzés keretében oly módon van lehetőség az elsődleges képzőhely megváltoztatására, hogy az elsődleges képzőhelyként kijelölt egészségügyi szolgáltató részére a 18. § (1) bekezdése vagy a 19. § (1) bekezdése szerinti pályázatokon odaítélt keretszámokon felül további egy, a 17. § (2) bekezdés b) pontja szerinti keretszám jóváírására kerül sor, amelynek betöltésére e rendelet szerint kerülhet sor. Az az egészségügyi szolgáltató, amely a rezidens elsődleges képzőhelyeként a váltás következtében kijelölésre kerül, a 18. § (1) bekezdése vagy a 19. § (1) bekezdése alapján odaítélt keretszáma terhére kezdeményezheti az ENKK-nál a rezidens tekintetében elsődleges képzőhelyként történő kijelölését.

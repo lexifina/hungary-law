@@ -1,5 +1,3 @@
-## személy lehet.
-
 4. § (1) A szakképzés megkezdésekor a jelölt a szakképzés idejére az általa választott egy egyetemmel szakképzési megállapodást létesít. A szakképzés kezdő időpontja a szakképzési jogviszony létrejöttének napja. A szakképzési megállapodás melléklete a jelölt képzési terve.
 
 (2) Az egyetem a szakképzési jogviszony létesítésének a jelölt által történő kezdeményezésétől számított 30 napon belül meghatározza a jelölt képzési tervét. A rezidens képzési terve képzési elemenként tartalmazza a képzés során elsajátítandó szakmai ismeretekhez szükséges ügyeleti tevékenység mértékének meghatározását.

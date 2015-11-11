@@ -11,3 +11,9 @@ b) a 17. § (2) bekezdés a) pontja szerinti keretszám esetén a rendszerbevét
 c) a 17. § (2) bekezdés d) pontja szerinti keretszám esetén a rendszerbevételi eljáráson felvételt nyert és
 
 d) a 18. § (9) bekezdése szerinti esetben az egyetem által megjelölt
+
+## rezidenssel, azzal, hogy elsődleges képzőhelyként az a) és b) pont szerinti esetben a pályázó egészségügyi szolgáltatót, a c) és d) pont szerinti esetben az egyetemet jelöli ki.
+
+(4)[^13] Ha a szakképzést megkezdett jelölt a szakképzését még abban az évben megszünteti, amely évnek a keretszáma terhére a szakképzését megkezdte, az elsődleges képzőhelyként kijelölt egészségügyi szolgáltató esetében a keretszám az adott évben ismételten betölthetővé válik.
+
+[^13]: A 19. § (4) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 7. §-a iktatta be.

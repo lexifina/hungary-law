@@ -1,4 +1,4 @@
-## 29. §[^4]
+## 29. §[^17]
 
 ## V. Fejezet
 
@@ -28,4 +28,4 @@ b) az RTP ösztöndíjaiban részesülő és 2015. augusztus 31-éig első szako
 
 (8) Az (1) bekezdés szerinti támogatást a támogatásban részesülőt foglalkoztató egészségügyi szolgáltató részére folyósítja az OEP, a szolgáltatónak az OEP-pel fennálló finanszírozási szerződése alapján.
 
-[^4]: A 29. § a 32. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^17]: A 29. § a 32. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.

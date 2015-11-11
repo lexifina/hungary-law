@@ -14,11 +14,13 @@ c) az értékelési szempontokat és
 
 d) pályázatonként azon szakmai szervezeteket, amelyek delegáltjai az értékelést végzik.
 
+(3a)[^10] A pályázat benyújtására kizárólag az egészségügyi szolgáltatás nyújtására érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató – ideértve a Honvédelmi Minisztérium fejezet költségvetéséből finanszírozott egészségügyi ellátást nyújtó munkáltatót is – jogosult.
+
 (4) A pályázó egészségügyi szolgáltató a pályázati felhívásban meghatározott módon megjelöli, hogy hány rezidens tekintetében vállalja elsődleges képzőhelyként a képzés lebonyolítását, valamint a képzést követő továbbfoglalkoztatást.
 
-(5) A pályázat elbírálása során az ENKK elnöke meghatározza az egyes pályázó egészségügyi szolgáltatók által betölthető keretszámokat, valamint ezen belül a 17. § (3) bekezdése szerinti adatok figyelembevételével a hiányszakmában betölthető keretszámokat.
+(5)[^11] A pályázat elbírálása során az ENKK elnöke meghatározza az egyes pályázó egészségügyi szolgáltatók által betölthető keretszámokat.
 
-(6) A 17. § (2) bekezdés b), c), e) és f) pontja szerint meghirdetett vagy odaítélt keretszámok terhére az egészségügyi szolgáltató a Kjt. 20/A. § (1) bekezdése alapján meghirdetett pályázat útján választja ki a rezidenst.
+(6)[^12] A 17. § (2) bekezdés b), c), e) és f) pontja szerint meghirdetett vagy odaítélt keretszámok terhére az egészségügyi szolgáltató a Kjt.-ben meghatározott rendelkezések alapján meghirdetett pályázat útján választja ki a rezidenst.
 
 (7) A 17. § (2) bekezdés b), c) és e) pontja szerinti keretszámok terhére az egészségügyi szolgáltató minden év szeptember 30-áig jelentheti be az ENKK részére, hogy azt mely rezidenssel kívánja betölteni, egyidejűleg elektronikus úton megküldi az ENKK részére
 
@@ -29,3 +31,7 @@ b) a rezidens szakképzésével összefüggésben az általa foglalkoztatott tut
 (8) A 17. § (2) bekezdés a) és d) pontja szerinti keretszámok betöltése a szakorvos képzésbe történő belépés szabályait meghatározó miniszteri rendelet szerinti rendszerbevételi eljárás keretében történik.
 
 (9) A 17. § (2) bekezdés f) pontja szerinti keretszámok betöltése minden év december 31-éig folyamatos, a keretszámok betöltésének szándékáról az egyetem a (7) bekezdés a) és b) pontja szerinti adatok megküldésével egyidejűleg tájékoztatja az ENKK-t.
+
+[^10]: A 18. § (3a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^11]: A 18. § (5) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^12]: A 18. § (6) bekezdése a 333/2015. (XI. 10.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
