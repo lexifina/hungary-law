@@ -198,9 +198,9 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 28,09 | 0,00 | 1,62 | 29,71 |
+| 3. | 28,04 | 0,00 | 1,72 | 29,76 |
 
-| 4. | Többletkötelezettség-vállalás: 1,56 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 1,59 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: max. 10% |
 
@@ -212,7 +212,7 @@
 
 | 2. | 2007–2014. | 2014. | 2015. | Összesen |
 
-| 3. | 39,94 | 1,32 | 0,00 | 41,26 |
+| 3. | 40,91 | 0,39 | 0,00 | 41,30 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -224,11 +224,11 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 3.1.2 | Élőhelyvédelem- és helyreállítás, élettelen természeti értékek védelme, vonalas létesítmények természetkárosító hatásának mérséklése | 17,58 | 0,00 | 0,00 | – élőhelyvédelem, -helyreállítás, – élettelen természeti értékek megőrzése, – barlangbejáratok biztosítása, barlangok műszaki létesítményeinek korszerűsítése (csak nemzeti park), – mesterséges üregek műszaki biztosítása, rekonstrukciója, – földtani alapszelvények rekonstrukciója, – földtani természetvédelmi értéket képviselő bányák rehabilitációja, – ex lege védett források helyreállítása, – felszínalaktani értékek megőrzése, rehabilitációja, – kunhalmok, földvárak természetközeli állapotba való visszaállítása, – vonalas létesítmények természetkárosító hatásának mérséklése, – elektromos szabadvezetékek kiváltása (kizárólag nemzeti park igazgatóságok részére engedélyezett tevékenységek), – elektromos szabadvezetékek természetbarát átalakítása, – út-vasút természetbarát átalakítása | földművelésügyi miniszter | – |
+| 3. | 3.1.2 | Élőhelyvédelem- és helyreállítás, élettelen természeti értékek védelme, vonalas létesítmények természetkárosító hatásának mérséklése | 17,53 | 0,00 | 0,00 | – élőhelyvédelem, -helyreállítás, – élettelen természeti értékek megőrzése, – barlangbejáratok biztosítása, barlangok műszaki létesítményeinek korszerűsítése (csak nemzeti park), – mesterséges üregek műszaki biztosítása, rekonstrukciója, – földtani alapszelvények rekonstrukciója, – földtani természetvédelmi értéket képviselő bányák rehabilitációja, – ex lege védett források helyreállítása, – felszínalaktani értékek megőrzése, rehabilitációja, – kunhalmok, földvárak természetközeli állapotba való visszaállítása, – vonalas létesítmények természetkárosító hatásának mérséklése, – elektromos szabadvezetékek kiváltása (kizárólag nemzeti park igazgatóságok részére engedélyezett tevékenységek), – elektromos szabadvezetékek természetbarát átalakítása, – út-vasút természetbarát átalakítása | földművelésügyi miniszter | – |
 
 | 4. | 3.1.3 | Gyűjteményes növénykertek és védett történeti kertek megőrzése és helyreállítása | 3,32 | 0,00 | 0,00 | – vizes élőhelyek rekonstrukciója, kialakítása, – nem vizes élőhelyek, természetközeli társulások rekonstrukciója, – speciális élőhelyekhez, gyűjteményekhez kapcsolódó beruházások, – védett növényfajok ex situ megőrzéséi programjához kapcsolódó tevékenységek, – kertek, parkok állapotának javításához kapcsolódóan, megalapozott kerttörténeti kutatás, értékelés és javaslatok alapján meghatározott tevékenységek | földművelésügyi miniszter | – |
 
-| 5. | 3.1.4 | Kiemelt természetvédelmi fejlesztések | 0,00 | 0,00 | 1,62 | – élőhelyvédelem, -helyreállítás, – vizes élőhelyek rekonstrukciója, kialakítása, – kertek, parkok állapotának javításához kapcsolódóan, megalapozott kerttörténeti kutatás, értékelés és javaslatok alapján meghatározott tevékenységek | földművelésügyi miniszter | – |
+| 5. | 3.1.4 | Kiemelt természetvédelmi fejlesztések | 0,00 | 0,00 | 1,72 | – élőhelyvédelem, -helyreállítás, – vizes élőhelyek rekonstrukciója, kialakítása, – kertek, parkok állapotának javításához kapcsolódóan, megalapozott kerttörténeti kutatás, értékelés és javaslatok alapján meghatározott tevékenységek | földművelésügyi miniszter | – |
 
 | 6. | 3.2.0 | Élőhelykezeléshez kapcsolódó infrastruktúra fejlesztés | 6,55 | 0,00 | 0,00 | – stabil vagy mobil karámok létesítése, villanypásztor, kerítés kialakítása, – területkezelési céllal tartott állatok tartására szolgáló épületek és ezek kiegészítő létesítményeinek felújítása, – a területkezelési céllal tartott állatok számára kutak, itatóhelyek létesítése, felújítása, – az élőhely-kezeléshez szükséges eszközök, erő- és munkagépek beszerzése, – a területek elérhetőségét szolgáló utak természet-közeli módon történő kiépítése, felújítása, – a projekt célterületén/hatásterületén a fejlesztés által támogatott élőhely-kezelés eredményességének méréséhez közvetlenül kapcsolódó természetvédelmi célú monitoring eszközök beszerzése (maximálisan a projekt teljes költségvetésének 5%-os mértékéig, önállóan nem támogatható) | földművelésügyi miniszter | – |
 
@@ -236,7 +236,7 @@
 
 3.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 3.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
-3.3.3. A 3.3.1. pontban foglalt táblázat 3. és 5. sora szerinti 3.1.2 és 3.1.4 konstrukció 1,56 Mrd Ft többletkötelezettség-vállalást tartalmaz.
+3.3.3. A 3.3.1. pontban foglalt táblázat 3. és 5. sora szerinti 3.1.2 és 3.1.4 konstrukció 1,59 Mrd Ft többletkötelezettség-vállalást tartalmaz.
 
 4. A 4. prioritás: A megújuló energiaforrás-felhasználás növelése
 
@@ -310,7 +310,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 28,05 | 64,45 | 117,67 | 210,17 |
+| 3. | 28,05 | 64,09 | 118,03 | 210,17 |
 
 | 4. | Többletkötelezettség-vállalás: 116,33 Mrd Ft |
 
@@ -324,7 +324,7 @@
 
 | 2. | 2007–2015. | 2015. hátralevő | Összesen |
 
-| 3. | 212,72 | 58,97 | 271,69 |
+| 3. | 212,80 | 58,88 | 271,68 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -338,9 +338,9 @@
 
 | 3. | 5.4.0 | Távhő-szektor energetikai fejlesztése | 28,05 | 0,00 | 0,00 | Távhőellátás energiahatékonysági korszerűsítése. | nemzeti fejlesztési miniszter | – |
 
-| 4. | 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 64,45 | 0,50 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
+| 4. | 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 64,09 | 0,50 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
 
-| 5. | 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 77,67 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
+| 5. | 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 78,03 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
 
 | 6. | 5.7.0 | Középületek kiemelt jelentőségű épületenergetikai fejlesztése | 0,00 | 0,00 | 39,50 | Középületek hőtechnikai adottságainak javítása. | nemzeti fejlesztési miniszter | – |
 
@@ -521,4 +521,4 @@
 [^3]: Az 1. pont f) alpontját az 1367/2015. (VI. 3.) Korm. határozat 3. pontja iktatta be.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1371/2015. (VI. 4.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
 [^5]: A 4. pontot az 1464/2015. (VII. 15.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
-[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja, az 1558/2015. (VIII. 7.) Korm. határozat 3. pontja, az 1583/2015. (IX. 4.) Korm. határozat 4. pontja, az 1627/2015. (IX. 8.) Korm. határozat 3. pontja, az 1691/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1697/2015. (IX. 25.) Korm. határozat 3. pontja, az 1698/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1692/2015. (IX. 25.) Korm. határozat 3. pontja, az 1758/2015. (X. 15.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1371/2015. (VI. 4.) Korm. határozat 2. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „46,81” szövegrész helyébe a „61,79” szöveg lép, nem vezethető át. Az 1464/2015. (VII. 15.) Korm. határozat 2. pont c) pont cb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „61,79” szövegrész helyébe a „71,61” szöveg lép, nem vezethető át. Az 1507/2015. (VII. 15.) Korm. határozat 1. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „71,61” szövegrész helyébe a „81,42” szöveg, nem vezethető át. ]
+[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja, az 1558/2015. (VIII. 7.) Korm. határozat 3. pontja, az 1583/2015. (IX. 4.) Korm. határozat 4. pontja, az 1627/2015. (IX. 8.) Korm. határozat 3. pontja, az 1691/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1697/2015. (IX. 25.) Korm. határozat 3. pontja, az 1698/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1692/2015. (IX. 25.) Korm. határozat 3. pontja, az 1758/2015. (X. 15.) Korm. határozat 3. pontja, az 1812/2015. (XI. 10.) Korm. határozat 4. pontja, az 1813/2015. (XI. 10.) Korm. határozat 3. pontja szerint módosított szöveg.
