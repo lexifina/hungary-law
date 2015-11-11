@@ -12,7 +12,7 @@
 
 | 6. | KEOP-5.6.0/12-2013-0030 | Semmelweis Egyetem | 4 712 327 465 |
 
-| 7. | KEOP-5.6.0/12-2013-0033 | Klebelsberg Intézményfenntartó Központ | 988 460 468 |
+| 7. | KEOP-5.6.0/12-2013-0033 | Klebelsberg Intézményfenntartó Központ | 1 233 637 994 |
 
 | 8. | KEOP-5.6.0/12-2013-0034 | Klebelsberg Intézményfenntartó Központ | 949 354 494 |
 
