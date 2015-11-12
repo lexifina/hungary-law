@@ -4,8 +4,11 @@ a) a Nemzetközi Újjáépítési és Fejlesztési Bank Kormányzótanácsában 
 
 b) felhívja a külgazdasági és külügyminisztert, hogy az a) pontban foglaltakról a Nemzetközi Újjáépítési és Fejlesztési Bankot tájékoztassa;
 
-c) visszavonja az egyes nemzetközi pénzügyi intézményeknél a Magyarországot képviselő kormányzótanácsi tagok felmentéséről, valamint új kormányzótanácsi tagok kinevezéséről szóló 1210/2013. (IV. 15.) Korm. határozatot.
+c)[^2]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti az egyes nemzetközi pénzügyi intézményeknél a Magyar Köztársaságot képviselő kormányzótanácsi tagok felmentéséről, valamint új kormányzótanácsi tagok kinevezéséről szóló 1205/2010. (X. 5.) Korm. határozat 1. pont a)–d) és f) alpontja.
+3.[^3]
+
+[^2]: Az 1. pont c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
