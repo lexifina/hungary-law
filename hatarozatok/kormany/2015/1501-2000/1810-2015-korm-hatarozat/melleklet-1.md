@@ -2,15 +2,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Kormány visszavonja
-
-## a) a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1647/2012. (XII. 19.) Korm. határozatot,
-
-## b) a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akcióterve 1–3. prioritásának módosításáról szóló 2027/2013. (XII. 29.) Korm. határozatot,
-
-## c) a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akcióterve 4. prioritásának módosításáról szóló 1301/2014. (V. 5.) Korm. határozatot és
-
-## d) a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akcióterve 3. prioritásának módosításáról szóló 1632/2014. (XI. 7.) Korm. határozatot.
+## 3.[^1]
 
 1. melléklet az 1810/2015. (XI. 10.) Korm. határozathoz
 
@@ -173,3 +165,5 @@
 | 2. | 5.1.1. | Az operatív program technikai-adminisztratív lebonyolítása (közreműködő szervezeti feladatok finanszírozása) | 2,80 | A konstrukció célja a közreműködő szervezeti feladatok finanszírozása. | nemzetgazdasági miniszter | – |
 
 | 3. | 5.1.2. | A GOP lebonyolításával kapcsolatos specifikus feladatok ellátása (a monitoring bizottság működtetése, végrehajtást érintő tanulmányok, elemzések elkészítése) | 0,40 | A konstrukció célja a monitoring bizottság üléseinek teljes körű lebonyolítása, működtetése, továbbá a Gazdaságfejlesztési Operatív Program végrehajtását érintő tanulmányok, elemzések elkészítése. | nemzetgazdasági miniszter | – |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
