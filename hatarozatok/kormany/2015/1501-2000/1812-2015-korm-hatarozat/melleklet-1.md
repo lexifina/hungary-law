@@ -16,31 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A KEOP-2012-5.6.0 jelű („Központi költségvetési szervek energiahatékonysági beruházásai” című) támogatási konstrukcióban benyújtott projektek megvalósításának jóváhagyásáról és egyes projektek támogatásának visszavonásáról szóló 1501/2014. (IX. 5.) Korm. határozat 1. mellékletében foglalt táblázat C:7 mezőjében a „988 460 468” szövegrész helyébe az „1 233 637 994” szöveg lép.
-
-## 4. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat 1. melléklet
-
-## a) 5.2.1. pontjában foglalt táblázat
-
-## aa) B:3 mezőjében a „64,45” szövegrész helyébe a „64,09” szöveg,
-
-## ab) C:3 mezőjében a „117,67” szövegrész helyébe a „118,03” szöveg,
-
-## b) 5.2.2. pontjában foglalt táblázat
-
-## ba) A:3 mezőjében a „212,72” szövegrész helyébe a „212,80” szöveg,
-
-## bb) B:3 mezőjében az „58,97” szövegrész helyébe az „58,88” szöveg,
-
-## bc) C:3 mezőjében a „271,69” szövegrész helyébe a „271,68” szöveg,
-
-## c) 5.3.1. pontjában foglalt táblázat
-
-## ca) D:4 mezőjében a „64,45” szövegrész helyébe a „64,09” szöveg,
-
-## cb) E:5 mezőjében a „77,67” szövegrész helyébe a „78,03” szöveg
-
-## lép.
+## 3–4.[^2]
 
 1. melléklet az 1812/2015. (XI. 10.) Korm. határozathoz
 
@@ -49,3 +25,5 @@
 | 1. | Projekt azonosító-száma | Projekt megnevezése | Kedvezményezett neve | Projekt támogatása (Ft) | Többlettámogatás (Ft) | Projekt megnövelt támogatása (Ft) | Projekt rövid bemutatása | Támogathatóság feltételei |
 
 | 2. | KEOP-5.6.0/12- 2013-0033 | Energiahatékonysági fejlesztés az állami fenntartású képző intézményekben a leghátrányosabb helyzetű térségekben | Klebelsberg Intézményfenntartó Központ | 791 130 768 | 442 507 226 | 1 233 637 994 | A projekt célja a Klebelsberg Intézményfenntartó Központ irányítása alá tartozó képző intézmények közül a leghátrányosabb helyzetű térségekben lévő intézmények energiahatékonysági szempontú fejlesztése. A beruházás folyamán az iskolák és tornatermek épületének energetikai korszerűsítése valósul meg, és ezáltal egy gazdaságosabb, energiahatékonyabb és alacsonyabb környezeti terhelést eredményező rendszer alakul ki. A beruházást négy részre lehet osztani: 1. épületszerkezet módosítása (nyílászáró csere, hőszigetelés), 2. az épületek fűtésrendszer-rekonstrukciója, 3. napelemes és napkollektoros rendszer telepítése, 4. a világítás korszerűsítése. A projekt műszaki tartalmának növelése keretében két új épület kerül bevonásra a projektbe. Az új helyszíneken tervezett beruházás a határoló szerkezetek hőszigetelésére irányul. | Kedvezményezett tudomásul veszi, hogy a KEOP forrásából a 2015. december 31-ig kifizetett költségek számolhatók el, az ezt követően felmerülő – beleértve a működőképesség biztosításához szükséges – költségek a támogatás terhére nem számolhatóak el, és azokat a kedvezményezettnek saját forrásból szükséges finanszírozni. |
+
+[^2]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
