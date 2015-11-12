@@ -1,1 +1,0 @@
-## „(9) Az egészségügyi szolgáltató által kollektív szerződésben meghatározott kedvezményeket, jogosultságokat az ott meghatározott feltételekkel azon rezidensek részére is biztosítani kell, akiknek elsődleges képzőhelyeként az adott egészségügyi szolgáltató kijelölésére került sor.”
