@@ -1,0 +1,9 @@
+# 49/2015. (XI. 10.) MvM rendelet
+
+egyes régészeti lelőhelyek védetté nyilvánításáról, valamint régészeti védettség megszüntetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-49-20-6N
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-11-13 | 2015-49-20-6N.1 | 49/2015. (XI. 10.) MvM rendelet |
