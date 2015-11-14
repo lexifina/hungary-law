@@ -6,9 +6,9 @@
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2015. évi
 
-a) bevételi főösszegét 16 359 724,5 millió forintban,
+a) bevételi főösszegét 16 445 724,5 millió forintban,
 
-b) kiadási főösszegét 17 252 128,6 millió forintban,
+b) kiadási főösszegét 17 338 128,6 millió forintban,
 
 c) hiányát 892 404,1 millió forintban
 

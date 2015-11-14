@@ -1107,11 +1107,3 @@ Kiegészítő rendelkezések:
 3. A támogatás kizárólag a 2015. évben ágazati pótlékra kifizetett, továbbá annak ténylegesen megfizetett közterheire használható fel. A támogatás terhére más jogcímen kifizetés nem teljesíthető.
 
 4. A tárgyévet megelőző évben támogatásban részesült nem állami szociális fenntartó a szociális ágazati pótlék iránti igényét 2015. január 6-ig nyújthatja be a kincstárnak.
-
-5. Ha a fenntartó 2015-ben válik jogosulttá a támogatásra, a támogatás iránti kérelmét az azt követő harminc napon belül nyújthatja be, hogy a támogatásra jogosulttá vált.
-
-6. Támogatási kérelem a tárgyév végéig az igénylési határidő elmulasztása esetén is benyújtható.
-
-7. A kincstár azon nem állami fenntartóknak, melyek részére a szociális, gyermekjóléti és gyermekvédelmi ágazati pótlék kifizetéséhez kapcsolódó támogatásról szóló 34/2014. (II. 18.) Korm. rendelet alapján 2014. december hónapban támogatást folyósít - külön igénylés nélkül -, azzal azonos összegű támogatási előleget biztosít havonta 2015. január és február hónapban. A folyósított előleg és a fenntartót ténylegesen megillető támogatás különbözetének rendezésére a március hónapban folyósítandó támogatás utalásával egyidejűleg kerül sor. A különbözet után kamat nem számítható fel.
-
-8. A kincstár a támogatási kérelemről
