@@ -14,7 +14,9 @@ d) a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendele
 
 a) a felszámolót a zálogtárgy értékesítésekor és a követelésen alapuló zálogjog esetén a követelés behajtásából származó bevételből megillető díj elszámolásának szabályait,
 
-b) a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, valamint az elektronikus rendszer működésének, üzemeltetésének és ellenőrzésének szabályait.
+b) a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, valamint az elektronikus rendszer működésének, üzemeltetésének és ellenőrzésének szabályait,
+
+c) a felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek kötelező szakmai továbbképzésének megszervezésére és teljesítésére vonatkozó részletes szabályokat.
 
 (7)
 

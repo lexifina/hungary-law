@@ -14,7 +14,7 @@ c) a felszámolást elrendelő első fokú végzés még nem emelkedett jogerőr
 
 (5) A 2014. évi XV. törvénnyel módosított 27/C. § (1) bekezdés szerinti követelménynek 2015. október 1-jéig kell eleget tenni, és a 27/C. § (1) bekezdése, továbbá a 83/B. § (3) bekezdése szerinti követelmény teljesüléséről szóló nyilatkozatot és dokumentumokat 2015. november 1-jéig kell a névjegyzéket vezető szervnek megküldeni.
 
-(6) A 2014. évi XV. törvénnyel módosított 27/C. § (1a) bekezdés szerinti szakmai továbbképzési kötelezettségnek először 2015. december 31-éig kell eleget tenni, és a továbbképzésen való részvételről kiállított dokumentumot 2016. január 31-éig kell a névjegyzéket vezető szervnek megküldeni.
+(6) A 2014. évi XV. törvénnyel módosított 27/C. § (1a) bekezdés szerinti szakmai továbbképzési kötelezettségnek először 2016. június 30-ig kell eleget tenni, és a továbbképzésen való részvételről kiállított dokumentumot 2016. július 31-ig kell a felszámolók névjegyzékét vezető hatóságnak megküldeni.
 
 (7) A 2014. évi XV. törvénnyel módosított 27/C. § (2) bekezdés f) pontjában a vagyonfelügyelői tevékenységért felelős személy kinevezésére vonatkozó szabályt a 2014. április 1-jét követően elrendelt csődeljárásokra kell alkalmazni.
 

@@ -7,3 +7,5 @@
 (4) Az elővásárlási joggal rendelkezőknek nem kell részt venniük az elektronikus értékesítésben. A felszámoló az elektronikus értékesítés érvényességének és eredményességének megállapítását követően a nyertes ajánlatot bemutatja az elővásárlási joggal rendelkezőknek, az őket megillető sorrendben, annak érdekében, hogy nyilatkozzanak: kívánnak-e élni elővásárlási jogukkal.
 
 (5) Az informatikai rendszernek 5 évig meg kell őriznie az értékesítésekre vonatkozó adatokat.
+
+(6) Az elektronikus árverés eredményének megállapításáról, valamint az elektronikus pályázat értékeléséről készült jegyzőkönyv másolatát – kérelemre – a licitáló és az elővásárlásra jogosult részére is meg kell küldeni. A licitálók és az elővásárlásra jogosultak részére megküldött jegyzőkönyvben a licitálók személyes adatait megismerhetetlenné kell tenni, és a licitálókat egyedi azonosító számukkal kell szerepeltetni.
