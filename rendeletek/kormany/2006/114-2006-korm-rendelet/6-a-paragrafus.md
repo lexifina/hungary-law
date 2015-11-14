@@ -1,13 +1,15 @@
-## 6/A. §[^56] Az állami vagyon felügyeletéért felelős miniszter hatósági ellenőrzés keretében – helyszíni ellenőrzéssel is – vizsgálja, hogy
+## 6/A. §[^59] A felszámolók névjegyzékét vezető hatóság hatósági ellenőrzés keretében – helyszíni ellenőrzéssel is – vizsgálja, hogy
 
 a) a felszámoló szervezet eleget tett-e a pályázatban vállalt kötelezettségeinek,
 
-b) a felszámoló szervezet eleget tett-e az adatszolgáltatási vagy adatváltoztatási kötelezettségének,
+b) a felszámoló szervezet eleget tett-e az adatszolgáltatási, adatváltoztatási vagy bejelentési kötelezettségének,
 
 c) a felszámoló szervezet adatszolgáltatásában, szakmai beszámolójában szereplő adatok, információk megfeleltek-e a valóságnak, teljeskörűek voltak-e,
 
 d) a felszámoló szervezet honlapja és annak tartalma megfelel-e a jogszabályi követelményeknek, a jogszabályban előírt adatokat, információkat közzétette-e, honlapja naprakész-e,
 
-e) a felszámoló szervezet belső szabályzatai, nyilvántartásai megfelelnek-e a jogszabályi követelményeknek.
+e) a felszámoló szervezet belső szabályzatai, nyilvántartásai megfelelnek-e a jogszabályi követelményeknek,
 
-[^56]: A 6/A. §-t a 68/2014. (III. 13.) Korm. rendelet 4. § (4) bekezdése iktatta be, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 325. § g) pontja szerint módosított szöveg.
+f) a felszámoló szervezet eleget tett-e a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló 17/2014. (II. 3.) Korm. rendelet által meghatározott díjfizetési kötelezettségének.
+
+[^59]: A 6/A. §-t a 68/2014. (III. 13.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 343/2015. (XI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 1. §[^2] Felszámoló az a 2. § (1) bekezdés szerinti szervezeti formában működő felszámoló szervezet lehet,
+1. §[^2] (1) Felszámoló az a 2. § (1) bekezdés szerinti szervezeti formában működő felszámoló szervezet lehet,
 
 a) amely a felszámolók névjegyzékében szerepel,
 
@@ -6,4 +6,6 @@ b) amelyet a Kormány a Cstv. 66. § (2) bekezdésében és 84/A. § (2) bekezd�
 
 c) amelyet törvény pénzügyi szervezet felszámolására vagy végelszámolására kijelöl.
 
-[^2]: Az 1. § a 169/2012. (VII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+(2) Az új felszámolói névjegyzékben kizárólag olyan, a 2. § (1) bekezdés szerinti szervezeti formában működő szervezet szerepelhet, melynek az új felszámolói névjegyzékbe történő felvételéről a felszámolók névjegyzékét vezető szerv jogerős határozatában döntött.
+
+[^2]: Az 1. § a 343/2015. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.

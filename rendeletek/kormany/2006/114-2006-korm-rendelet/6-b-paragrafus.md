@@ -1,0 +1,5 @@
+6/B. §[^60] (1) A Cstv. 27/A. § (6a) bekezdése alapján a felszámolók névjegyzékébe nem került, de a folyamatban lévő ügyekben eljáró felszámoló szervezetekről vezetett hatósági nyilvántartásra e rendeletnek a névjegyzék vezetésére, az azzal összefüggő adatszolgáltatás teljesítésére, a szakmai beszámoló készítésére és benyújtására, a hatósági ellenőrzésre, továbbá a nyilvántartásból való törlésre, és a törlésről a bíróságok értesítésére vonatkozó szabályait megfelelően alkalmazni kell.
+
+(2) A felszámolók névjegyzékét vezető hatóság az 5. § (1) bekezdésében meghatározott törlési ok fennállása esetén – ide nem értve az 5. § (1) bekezdés e) és h) pontjában meghatározott törlési okokat – a felszámoló szervezetet törli az (1) bekezdés szerinti hatósági nyilvántartásból. Ezekben az esetekben a felszámoló szervezetet a nyilvántartást vezető hatóság értesítése alapján a még folyamatban lévő eljárásokban az eljáró bíróság felmenti.
+
+[^60]: A 6/B. §-t a 68/2014. (III. 13.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 343/2015. (XI. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
