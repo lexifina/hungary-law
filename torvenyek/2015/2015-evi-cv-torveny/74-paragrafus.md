@@ -18,15 +18,19 @@ c) az egyéb hitelezői igények esetén legalább a 38%-os mértéket elérje,
 
 d) a hátrasorolt hitelezői igények esetén legalább az 5%-os mértéket elérje.
 
-(4) Amennyiben az 5 éves adósságtörlesztési időszak alatt a (3) bekezdés szerinti minimális megtérülési mérték nem biztosítható, a bíróság felhívja a főhitelezőt, hogy nyilatkozzon arról, hogy
+(3a) Ha a jelzálogjoggal biztosított ingatlan értékesítésére az adósságrendezési eljárás alatt nem kerül sor, a (3) bekezdés a) pontja szerinti kiemelt hitelezői követelések esetén, ha a jelzáloggal biztosított hitelszerződés, pénzügyi lízingszerződés – ide értve a 19. § (2) bekezdés d) pontja alapján kötött hitel- és pénzügyi lízingszerződést is – futamideje az öt éves adósságtörlesztési szakasz alatt még nem járna le, az adósságtörlesztési tervet úgy kell elkészíteni, hogy a hitelezői követelések megtérülése ezen futamidő végéig érje el a forgalmi érték mértékét. Ha az említett szerződéseket a pénzügyi intézmény az adósságrendezési eljárás kezdeményezését megelőzően felmondta, akkor a felmondást megelőzően érvényes futamidőt – vagy ha a pénzügyi intézmény a felmondást követően a részletfizetési megállapodásban hosszabb fizetési határidőt engedélyezett, akkor ezt az időtartamot – kell e § tekintetében futamidőként figyelembe venni.
+
+(3b) A (3a) bekezdés szerinti esetekben a törlesztési tervben az adósságtörlesztési szakasz lejártát követő, a futamidő lejártáig terjedő időszakra vonatkozó törlesztő részleteket az adósságrendezési eljárás kezdeményezésekor érvényes szerződésben – már felmondott szerződés esetén a pénzügyi intézménnyel kötött részletfizetési megállapodásban – meghatározott feltételekkel kell figyelembe venni.
+
+(4) Amennyiben az 5 éves adósságtörlesztési időszak alatt a (3) bekezdés, illetve a (3a) bekezdés szerinti minimális megtérülési mérték nem biztosítható, a bíróság felhívja a főhitelezőt, hogy nyilatkozzon arról, hogy
 
 a) hozzájárul az adósságtörlesztési időszak legfeljebb 2 évvel történő meghosszabbításához, vagy
 
 b) az adós részére részletfizetési lehetőséget biztosít, azzal, hogy az adós, adóstárs csak a szükséges mértékig mentesül a kölcsöntartozás tőkerészének megfizetése alól.
 
-(5) A hitelezői csoportok között a befolyó pénzösszegeket követelésarányosan, a (3) bekezdés szerinti arányok szerint kell szétosztani. A szétosztott összeget a hitelezői csoportokon belül az egyes hitelezői követelések között követelésarányosan kell megosztani. Az adósságtörlesztés időszaka alatt valamennyi megtérülést a (3) bekezdés szerinti minimális megtérülési arányok és az e bekezdésben foglaltak szerint kell felosztani a hitelezők között. Amennyiben az adósságtörlesztés időszaka alatt valamely hitelező (6) és (7) bekezdés alapján számított követelésének 100%-a megtérül, úgy ezt a hitelezőt a megtérülés felosztásakor a továbbiakban figyelmen kívül kell hagyni. Ha az adós követeléseinek behajtására vagy értékesítésére nem került sor, de azok esedékessége már lejárt vagy az adósságrendezési eljárás alatt nyílik meg, a követeléseket – forgalmi értéken számítva – a hitelezők között követelésarányosan kell szétosztani.
+(5) A hitelezői csoportok között a befolyó pénzösszegeket követelésarányosan, a (3) bekezdés, illetve a (3a) bekezdés szerinti arányok szerint kell szétosztani. A szétosztott összeget a hitelezői csoportokon belül az egyes hitelezői követelések között követelésarányosan kell megosztani. Az adósságtörlesztés időszaka alatt valamennyi megtérülést a (3) bekezdés, illetve a (3a) bekezdés szerinti minimális megtérülési arányok és az e bekezdésben foglaltak szerint kell felosztani a hitelezők között. Amennyiben az adósságtörlesztés időszaka alatt valamely hitelező (6) és (7) bekezdés alapján számított követelésének 100%-a megtérül, úgy ezt a hitelezőt a megtérülés felosztásakor a továbbiakban figyelmen kívül kell hagyni. Ha az adós követeléseinek behajtására vagy értékesítésére nem került sor, de azok esedékessége már lejárt vagy az adósságrendezési eljárás alatt nyílik meg, a követeléseket – forgalmi értéken számítva – a hitelezők között követelésarányosan kell szétosztani.
 
-(6) A (3) bekezdés a) pontja szerinti megtérülési mérték számításánál figyelmen kívül kell hagyni a késedelmi kamatokat, pótlékokat.
+(6) A (3) bekezdés a) pontja, illetve a (3a) bekezdés szerinti megtérülési mérték számításánál figyelmen kívül kell hagyni a késedelmi kamatokat, pótlékokat.
 
 (7) A (3) bekezdés b)–c) pontja szerinti megtérülési mérték számításánál figyelmen kívül kell hagyni
 

@@ -4,7 +4,7 @@
 
 ## 8. A bíróságon kívüli adósságrendezés kezdeményezése
 
-17. § (1) Az adósnak a bírósági adósságrendezési eljárás kezdeményezését megelőzően a főhitelezőnél írásban, bíróságon kívüli adósságrendezést kell kezdeményeznie.
+17. § (1) Az adósnak a bírósági adósságrendezési eljárás kezdeményezését megelőzően bíróságon kívüli adósságrendezést kell kezdeményeznie, ezt a kezdeményezését benyújthatja írásban a főhitelezőnél is.
 
 (2) Az adóstársak csak közösen kezdeményezhetnek adósságrendezést, és együttesen tehetnek az eljárás során jognyilatkozatokat, ide nem értve azon hitelezői követelésekkel összefüggő jognyilatkozatokat, amelyek kötelezettje csak az egyik adóstárs. Az adóstársak egymásnak ezekben az esetekben is meghatalmazást adhatnak az eljárási cselekmények és jognyilatkozatok megtételére. A meghatalmazást írásban kell megtenni és azt az adott eljárási cselekmény vagy jognyilatkozat megtételekor a családi vagyonfelügyelőnek, illetve a bíróságnak be kell mutatni.
 

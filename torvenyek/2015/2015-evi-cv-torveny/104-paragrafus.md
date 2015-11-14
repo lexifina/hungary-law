@@ -14,9 +14,9 @@ da) tulajdonában álló lakóingatlant kölcsönszerződés biztosítékául p�
 
 db) pénzügyi intézménnyel kötött lízingszerződést olyan lakóingatlanra, amely az adós az adóstárs vagy az említettek közeli hozzátartozójának bejelentett és tényleges lakóhelye 2015. május 15-én.
 
-(2) 2016. szeptember 30-áig az (1) bekezdésben említett adós tartozásáért helytállni köteles adóstárs, dologi kötelezett, kezes is kezdeményezhet adósságrendezési eljárást, ha megfelel az e törvény szerinti feltételeknek és az adós kötelezettségei megfizetésére vonatkozóan a jogosult a teljesítésre felszólította vagy felszólítja.
+(2) 2016. szeptember 30-áig az (1) bekezdésben említett adós tartozásáért helytállni köteles, az 5. § 5. pont rendelkezései szerint adóstársnak nem minősülő természetes személy, a dologi kötelezett és a kezes is kezdeményezhet adósságrendezési eljárást, ha megfelel az e törvény szerinti feltételeknek és az adós kötelezettségei megfizetésére vonatkozóan a jogosult a teljesítésre felszólította vagy felszólítja.
 
-(3) Az (1) bekezdés szerinti adósságrendezési eljárás kezdeményezésére vonatkozó határidő
+(3) Az (1) és (2) bekezdés szerinti adósságrendezési eljárás kezdeményezésére vonatkozó határidő
 
 a) az Elszámolási tv. 13. § (1) bekezdése alapján a 2015. április 30-ai elszámolási határidővel érintett fogyasztók esetében 2015. október 31-e – ha pedig a hitelszerződés, pénzügyi lízingszerződés később kerül felmondásra, akkor az erről szóló értesítés kézhezvételétől számított 60 nap, –
 

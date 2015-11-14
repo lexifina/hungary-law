@@ -22,7 +22,7 @@ b) előzetesen hozzájárul ahhoz, hogy az adósságrendezés érdekében a jelz
 
 c) előzetesen hozzájárul ahhoz, hogy az adósságrendezés érdekében a jelzáloggal terhelt lakóingatlana elidegenítésre kerüljön, de helyette az adósságrendezési időtartama alatt nem kíván másik lakóingatlant vásárolni vagy lízingbe venni, vagy
 
-d) előzetesen hozzájárul ahhoz, hogy az adósságrendezés érdekében a jelzáloggal terhelt lakóingatlana elidegenítésre kerüljön, de helyette másik, kisebb értékű, a méltányolható lakásigényt meg nem haladó jellemzőkkel bíró lakóingatlanra vonatkozóan pénzügyi lízingszerződést kíván kötni azzal, hogy a módosított lízingdíj megfizetésére vonatkozóan a törlesztési képességét megvizsgálják.
+d) előzetesen hozzájárul ahhoz, hogy az adósságrendezés érdekében a jelzáloggal terhelt lakóingatlana elidegenítésre kerüljön, de helyette másik, kisebb értékű, a méltányolható lakásigényt meg nem haladó jellemzőkkel bíró lakóingatlanra vonatkozóan pénzügyi lízingszerződést vagy hitelszerződést kíván kötni azzal, hogy a lízingdíj, illetve a törlesztő részletek megfizetésére vonatkozóan a törlesztési képességét megvizsgálják.
 
 (3) A (2) bekezdés szerinti nyilatkozattétel során az adós és az adóstárs által tett közös nyilatkozattal egyetlen jelzáloggal terhelt lakóingatlan tulajdona megtartására vonatkozóan, illetve egyetlen pénzügyi lízingszerződéssel érintett ingatlanra vonatkozóan lehet szándéknyilatkozatot tenni.
 

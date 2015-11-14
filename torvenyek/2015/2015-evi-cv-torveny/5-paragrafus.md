@@ -66,19 +66,19 @@ c) az adós mint kötelezett vagyontárgyán vagy vagyoni értékű jogán bizto
 
 17. egyéb hitelező: aki
 
-a) üzletszerű gazdasági tevékenységével összefüggésben, végrehajtható okirattal vagy számlával igazolt, pénzfizetésre vonatkozó követeléssel rendelkezik az adóssal szemben,
+a) üzletszerű gazdasági tevékenységével összefüggésben, végrehajtható okirattal, számlával vagy más számviteli bizonylattal igazolt, pénzfizetésre vonatkozó követeléssel rendelkezik az adóssal szemben,
 
 b) az adós vagy adóstárs egyéni vállalkozó munkavállalója, az e jogviszonyából eredő, jogerős bírósági határozattal megállapított követelése tekintetében,
 
 c) az adóssal, adóstárssal az adósságrendezés kezdeményezését követően bérbeadóként bérleti jogviszonyt létesít, az ebből származó követelése tekintetében,
 
-18. egyéb kötelezett:
+18. egyéb kötelezett: az a természetes személy, aki
 
-a) aki e törvény hatálya alá tartozó fizetési kötelezettség tekintetében az adóssal vagy adóstárssal egyetemlegesen felelős, de az 5. pont értelmében nem minősül adóstársnak,
+a) e törvény hatálya alá tartozó fizetési kötelezettség tekintetében az adóssal vagy adóstárssal egyetemlegesen felelős, de az 5. pont értelmében nem minősül adóstársnak,
 
-b) a kezes abban az esetben, ha az 5. pont értelmében nem minősül adóstársnak,
+b) kezes, abban az esetben, ha az 5. pont értelmében nem minősül adóstársnak,
 
-c) a zálogkötelezett (az adós tartozását biztosító zálogszerződés zálogkötelezettje),
+c) zálogkötelezett (az adós tartozását biztosító zálogszerződés zálogkötelezettje),
 
 19. egyéni vállalkozó: az Szja. tv. 3. § 17. pontja szerinti egyéni vállalkozó, az egyéni cég tagja és az Szja tv. 3. § 18. pontja szerinti mezőgazdasági őstermelő,
 
@@ -92,7 +92,7 @@ c) a zálogkötelezett (az adós tartozását biztosító zálogszerződés zál
 
 24. főhitelező:
 
-a) a Magyarországon székhellyel vagy fiókteleppel bejegyzett, a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU rendelet hatálya alá tartozó mindazon hitelintézet vagy pénzügyi vállalkozás hitelező, akinek zálogjoga az adós (adóstárs), az adós vagy adóstárs közeli hozzátartozója lakhatását biztosító ingatlanon vagy a zálogkötelezett ingatlanán az említett pénzügyi intézmények közül az első helyen – több ingatlan, azaz több elsőhelyi zálogjogosult esetén az, akinek zálogjoga korábbi időpontban került bejegyzésre – áll fenn, vagy
+a) a Magyarországon székhellyel vagy fiókteleppel bejegyzett, a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU rendelet hatálya alá tartozó mindazon hitelintézet vagy az olyan pénzügyi vállalkozás hitelező, akinek zálogjoga az adós (adóstárs), az adós vagy adóstárs közeli hozzátartozója lakhatását biztosító ingatlanon vagy a zálogkötelezett ingatlanán az említett pénzügyi intézmények közül az első helyen – több ingatlan, azaz több elsőhelyi zálogjogosult esetén az, akinek zálogjoga korábbi időpontban került bejegyzésre – áll fenn, vagy
 
 b) az adós (adóstárs) vagy közeli hozzátartozói lakhatását biztosító ingatlanra kötött pénzügyi lízingszerződés jogosultja,
 
