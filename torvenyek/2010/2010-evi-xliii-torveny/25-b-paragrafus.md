@@ -20,6 +20,6 @@ jogosult.
 
 (2) A miniszterelnök az (1) bekezdés b) pontja szerinti rezidenciát köteles igénybe venni.
 
-(3) Ha az (1) bekezdés e) pontja szerinti külföldre utazás menetrendszerű repülőgéppel vagy vonattal történik, a miniszterelnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe. Az ezen juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a kormányzati tevékenység összehangolásáért felelős miniszter látja el.
+(3) Ha az (1) bekezdés e) pontja szerinti külföldre utazás menetrendszerű repülőgéppel vagy vonattal történik, a miniszterelnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe. Az ezen juttatások és szolgáltatások biztosításával kapcsolatos feladatokat az általános politikai koordinációért felelős miniszter látja el.
 
 (4)
