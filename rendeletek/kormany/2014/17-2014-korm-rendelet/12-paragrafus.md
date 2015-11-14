@@ -13,3 +13,7 @@ a) hogy a licitálónak a vételárfizetésen kívül milyen kötelezettségek �
 b) annak meghatározását, hogy a vételár összegét, megfizetésének ütemezését és az egyéb részszempontokat az értékesítő milyen súlyozással értékeli,
 
 c) annak meghatározását, hogy az értékesítő az érvényes pályázatok közül milyen módszerrel választja ki az összességében legkedvezőbb ajánlatot tartalmazó nyertes pályázatot.
+
+(6)[^14] A licitálók a részletes tenderfüzet megtekintéséért és letöltéséért az értékesítő által meghatározott összegű költségtérítést a működtető részére fizetik meg. A működtető a megfizetett költségtérítésről a saját nevében állítja ki a számlát. Az általános forgalmi adó tekintetében az állami adóhatósághoz a bevallást és a befizetést a működtető teszi meg, illetve teljesíti. A működtető az értékesítési eljárás lezárultát követően a megfizetett költségtérítések nettó összegét az értékesítő részére átutalja, illetve a költségtérítések megfizetésével kapcsolatos adatokat az értékesítőnek megküldi.
+
+[^14]: A 12. § (6) bekezdését a 343/2015. (XI. 13.) Korm. rendelet 17. §-a iktatta be.

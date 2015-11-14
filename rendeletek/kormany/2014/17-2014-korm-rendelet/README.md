@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-17-20-2
 | 2014-02-12 | 2014-17-20-22.2 | 2010: CXXX. törvény |
 | 2014-09-05 | 2014-17-20-22.3 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2014-12-06 | 2014-17-20-22.4 | 299/2014. (XII. 5.) Korm. rendelet |
+| 2015-11-14 | 2014-17-20-22.5 | 343/2015. (XI. 13.) Korm. rendelet |

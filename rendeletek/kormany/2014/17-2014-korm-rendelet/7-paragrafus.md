@@ -1,4 +1,4 @@
-7. § (1)[^7] Az EÉR működtetője Felhasználói Szabályzatot alkot, amelyet az EÉR honlapján közzé kell tenni, legalább 15 nappal az EÉR működésének megkezdését megelőzően. A Felhasználói Szabályzat elkészítésekor és módosításakor – kivéve, ha a módosítás a megváltozott jogszabályi rendelkezéseknek való megfelelést szolgálja – ki kell kérni az Országos Bírósági Hivatal, az igazságügyért felelős miniszter, az államháztartásért felelős miniszter, továbbá a felszámolók és vagyonfelügyelők országos érdekképviseletének véleményét. A Felhasználói Szabályzat módosítását legalább 15 nappal az alkalmazása előtt kell közzétenni.
+7. § (1)[^8] Az EÉR működtetője Felhasználói Szabályzatot alkot, amelyet az EÉR honlapján közzé kell tenni, legalább 15 nappal az EÉR működésének megkezdését megelőzően. A Felhasználói Szabályzat elkészítésekor és módosításakor – kivéve, ha a módosítás a megváltozott jogszabályi rendelkezéseknek való megfelelést szolgálja – ki kell kérni az Országos Bírósági Hivatal, az igazságügyért felelős miniszter, az államháztartásért felelős miniszter, továbbá a felszámolók és vagyonfelügyelők országos érdekképviseletének véleményét. A Felhasználói Szabályzat módosítását legalább 15 nappal az alkalmazása előtt kell közzétenni.
 
 (2) A Felhasználói Szabályzat kötelező tartalmi elemei:
 
@@ -32,7 +32,7 @@ h) az értékesítők jegyzékébe történő felvételi eljárása tekintetébe
 
 ha) a bejegyzéshez szükséges adatok igazolása,
 
-hb)[^8] az értékesítők részéről belépni jogosult személyek körének meghatározása, belépésük módja,
+hb)[^9] az értékesítők részéről belépni jogosult személyek körének meghatározása, belépésük módja,
 
 hc) nyilatkozat az adatok kezeléséhez való hozzájárulásról,
 
@@ -62,5 +62,5 @@ p) az EÉR üzemszerű karbantartási idejéről és az erről szóló tájékoz
 
 q) az EÉR esetleges üzemzavaráról szóló tájékoztatás formája, amely tájékoztatást haladéktalanul közzé kell tenni a működtető honlapján is.
 
-[^7]: A 7. § (1) bekezdése a 299/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: A 7. § (2) bekezdés h) pont hb) alpontja a 299/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 7. § (1) bekezdése a 299/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 7. § (2) bekezdés h) pont hb) alpontja a 299/2014. (XII. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
