@@ -1,0 +1,3 @@
+## 6. § Az Fnj. Korm. r. 4/B. §-a helyébe a következő rendelkezés lép:
+
+## „4/B. § Az a felszámoló szervezet, amely felett a hatósági ellenőrzést a felszámolók névjegyzékét vezető hatóság a Cstv. 27/A. § (6a) bekezdése alapján – mint a pályázati keretszám miatt a névjegyzékbe vételre nem kerülő szervezet felett hatósági ellenőrzést végző szerv – végzi, minden év január 31-éig köteles a felszámolók névjegyzékét vezető hatóságnak adatot szolgáltatni azon folyamatban lévő bírósági eljárások számáról, amelyben eljár. Az adatszolgáltatást utoljára a legutolsó bírósági eljárás jogerős befejezéséről kell teljesíteni.”

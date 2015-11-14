@@ -1,0 +1,1 @@
+## „(4) A felszámoló szervezet minden év január 31-éig köteles a felszámolók névjegyzékét vezető hatóságnak beszámolni a szakmai és gazdasági tevékenységéről, a 2. melléklet szerinti szempontrendszer figyelembevételével. A 2. § (3) bekezdése szerinti vagyoni biztosíték meglétét a beszámoló benyújtásával egyidejűleg, továbbá a hatósági ellenőrzéskor is igazolni kell.”
