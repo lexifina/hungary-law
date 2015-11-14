@@ -2,13 +2,17 @@
 
 203. § (1) A kormányzati tevékenység összehangolásáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
 
+(1a) Az általános politikai koordinációért felelős miniszter miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
+
 (2) A kormányzati tevékenység összehangolásáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
+
+(2a) Az általános politikai koordinációért felelős miniszter miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
 
 (3) A miniszter miniszteri főtanácsadói, miniszteri tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszteri kabinetben a miniszter tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
 
 (4) Az államtitkár politikai főtanácsadói, politikai tanácsadói munkakört létesíthet az államtitkári kabinetben, illetve – ennek hiányában – az államtitkári titkárságon az államtitkár tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
 
-(5) A (2)–(4) bekezdésekben meghatározott munkakörök száma nem haladhatja meg az államigazgatási szervnél foglalkoztatott kormánytisztviselők létszámának 8%-át. Az (1)–(3) bekezdésekben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében kell feltüntetni.
+(5) A (2), a (3) és a (4) bekezdésben meghatározott munkakörök száma nem haladhatja meg az államigazgatási szervnél foglalkoztatott kormánytisztviselők létszámának 8%-át. Az (1)–(3) bekezdésben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében kell feltüntetni.
 
 (6) A kinevezés a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére, vagy a megbízatás megszűnése esetén a miniszterelnök, a miniszter vagy az államtitkár hatáskörgyakorlása idejére szól.
 
@@ -20,10 +24,14 @@
 
 a) az (1) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
 
-b) a (2) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
+b) az (1a) bekezdés esetében az általános politikai koordinációért felelős miniszter,
 
-c) a (3) bekezdés esetében a miniszter,
+c) a (2) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
 
-d) a (4) bekezdés esetében az államtitkár
+d) a (2a) bekezdés esetében az általános politikai koordinációért felelős miniszter,
+
+e) a (3) bekezdés esetében a miniszter,
+
+f) a (4) bekezdés esetében az államtitkár
 
 gyakorolja.

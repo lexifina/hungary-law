@@ -1,6 +1,6 @@
 ## A címek
 
-125. § (1) A kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban a miniszter kormány-főtanácsadói és kormánytanácsadói, a miniszteri kabinetben a miniszter miniszteri főtanácsadói, miniszteri tanácsadói (a továbbiakban együtt: főtanácsadó, tanácsadó) munkaköröket létesíthet.
+125. § (1) A kormányzati tevékenység összehangolásáért felelős miniszter az általa vezetett minisztériumban kormány-főtanácsadói, kormánytanácsadói, az általános politikai koordinációért felelős miniszter az általa vezetett minisztériumban miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, a miniszter a miniszteri kabinetben miniszteri főtanácsadói, miniszteri tanácsadói (a továbbiakban együtt: főtanácsadó, tanácsadó) munkaköröket létesíthet.
 
 (2) A főtanácsadói, tanácsadói munkakör betöltésére szóló kinevezés határozatlan időre szól. A főtanácsadói vagy tanácsadói munkakörben foglalkoztatott kormánytisztviselő – tekintet nélkül a kormányzati szolgálati jogviszonyban eltöltött idejére – vezető-főtanácsosi vagy főtanácsosi besorolást kap. A vezető-főtanácsosi besorolású kormánytisztviselő főosztályvezetői, a főtanácsosi besorolású kormánytisztviselő főosztályvezető-helyettesi illetményre jogosult.
 
