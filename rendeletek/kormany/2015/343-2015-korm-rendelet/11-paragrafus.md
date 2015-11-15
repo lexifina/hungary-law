@@ -1,5 +1,0 @@
-## 10. § Az Fnj. Korm. r. 6/B. §-a helyébe a következő rendelkezés lép:
-
-## „6/B. § (1) A Cstv. 27/A. § (6a) bekezdése alapján a felszámolók névjegyzékébe nem került, de a folyamatban lévő ügyekben eljáró felszámoló szervezetekről vezetett hatósági nyilvántartásra e rendeletnek a névjegyzék vezetésére, az azzal összefüggő adatszolgáltatás teljesítésére, a szakmai beszámoló készítésére és benyújtására, a hatósági ellenőrzésre, továbbá a nyilvántartásból való törlésre, és a törlésről a bíróságok értesítésére vonatkozó szabályait megfelelően alkalmazni kell.
-
-## (2) A felszámolók névjegyzékét vezető hatóság az 5. § (1) bekezdésében meghatározott törlési ok fennállása esetén – ide nem értve az 5. § (1) bekezdés e) és h) pontjában meghatározott törlési okokat – a felszámoló szervezetet törli az (1) bekezdés szerinti hatósági nyilvántartásból. Ezekben az esetekben a felszámoló szervezetet a nyilvántartást vezető hatóság értesítése alapján a még folyamatban lévő eljárásokban az eljáró bíróság felmenti.”

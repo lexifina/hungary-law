@@ -1,3 +1,0 @@
-## 17. § Az Eér. Korm. r. 12. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) A licitálók a részletes tenderfüzet megtekintéséért és letöltéséért az értékesítő által meghatározott összegű költségtérítést a működtető részére fizetik meg. A működtető a megfizetett költségtérítésről a saját nevében állítja ki a számlát. Az általános forgalmi adó tekintetében az állami adóhatósághoz a bevallást és a befizetést a működtető teszi meg, illetve teljesíti. A működtető az értékesítési eljárás lezárultát követően a megfizetett költségtérítések nettó összegét az értékesítő részére átutalja, illetve a költségtérítések megfizetésével kapcsolatos adatokat az értékesítőnek megküldi.”
