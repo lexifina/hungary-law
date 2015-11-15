@@ -1,5 +1,3 @@
-## 25. § A dohányzó, illetve a dohányfüstmentes zárkában vagy lakóhelyiségben való elhelyezés érdekében az elítéltnek befogadáskor írásban nyilatkoznia kell dohányzási szokásairól.
-
 ## 16. Az elítélt birtokában tartható tárgyak
 
 26. § (1) Az elítélt a bv. intézetben az 1. mellékletben felsorolt tárgyakat tarthatja magánál.

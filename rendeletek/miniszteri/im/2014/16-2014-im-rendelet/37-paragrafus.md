@@ -16,8 +16,8 @@ b) olyan szabadságvesztés végrehajtásra érkezik értesítés, amely a szaba
 
 c) a folyamatosan töltött szabadságvesztések esetén a soron következő szabadságvesztés végrehajtási fokozata eltér az előzőtől.
 
-(4)[^6]
+(4)[^7]
 
 (5) A rezsimbe sorolás felülvizsgálata során annak súlyosbítása korlátlanul, enyhítése csak a fokozatosság elvének figyelembevételével rendelhető el.
 
-[^6]: A 37. § (4) bekezdése a 206. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^7]: A 37. § (4) bekezdése a 206. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
