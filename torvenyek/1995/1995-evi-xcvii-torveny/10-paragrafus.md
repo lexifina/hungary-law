@@ -5,3 +5,5 @@
 (2) A feltartóztatott légijárműnek a leszállásra való felszólítást, illetőleg jelzést haladéktalanul követnie kell. A felszólításnak nem engedelmeskedő légijárművet a nemzetközi jogban elfogadott eszközökkel (pl. állami légijármű által) kényszeríteni lehet, azonban a légijármű ellen – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 62. § (3) bekezdésében meghatározott esetek kivételével – nem alkalmazható fegyver, és a légijármű fedélzetén lévő személyek és a légijármű biztonsága más módon sem veszélyeztethető.
 
 (3) Ha külföldi állami légijármű engedély nélkül repül be a magyar légtérbe, illetve a magyar légteret jogosulatlanul használja és a leszállásra utasító felszólításnak, jelzésnek nem tesz eleget, akkor a nemzetközi jogban elfogadott eszközök (pl. állami légijármű által leszállásra kényszerítés) alkalmazhatók.
+
+(4) A légiközlekedési hatóság döntése alapján köteles a légvédelmi készenléti szolgálat riasztásával kapcsolatosan keletkezett költségeknek a Magyar Honvédség részére történő megtérítésére az, aki felróható magatartásával a riasztást eredményező eseményt okozta.

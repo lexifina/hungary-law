@@ -4,11 +4,11 @@
 
 71. § A törvény alkalmazásában
 
-1. állami célú légiközlekedés: a honvédelmi, vámhatósági, rendőrségi és határőrizeti célú légiközlekedés;
+1. állami célú légiközlekedés: a honvédelmi, a vámhatósági, a rendőrségi és határőrizeti célú légiközlekedés, mely végezhető állami légijárművel, valamint lajstromba, vagy lajstromozásra nem kötelezett légijármű esetében a légiközlekedési hatóság nyilvántartásába felvett polgári légijárművel abban az esetben, ha a repülés honvédelmi, vámhatósági, rendőrségi vagy határőrizeti célt szolgál;
 
 2. állami légijármű: a honvédelmi, vámhatósági, rendőrségi és határőrizeti szervek céljára szolgáló légijármű;
 
-3. ellenőrzött repülőtér: olyan repülőtér, ahol a repülőtéri forgalom részére légiforgalmi irányító szolgálatot nyújtanak;
+3. ellenőrzött repülőtér: olyan repülőtér, ahol a repülőtéri forgalom részére légiforgalmi irányító szolgálatot, állami repülések céljára szolgáló repülőtér esetében katonai légiforgalmi irányító szolgálatot biztosítanak;
 
 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
@@ -72,7 +72,7 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 18. repülés tartama: az az időtartam, amely akkor kezdődik, amikor az első személy a repülés megkezdésének szándékával a légijármű fedélzetére lép és akkor végződik, amikor a légijármű fedélzetét az utolsó ilyen személy elhagyta;
 
-19. repülőtér: szárazföldön vagy vízen kijelölt terület (ideértve valamennyi, a területhez tartozó épületet, felszerelést és berendezést), amely egészében vagy részben a légijárművek indulására és érkezésére, valamint felszíni mozgására szolgál.
+19. repülőtér: bármely olyan kijelölt terület – beleértve mindenfajta a területhez tartozó épületet, berendezést és felszerelést – a földön, vagy a vízen, illetve rögzített, parthoz rögzített vagy úszó építmény felületén, amelyet részben vagy teljes egészében légijárművek leszállásához, felszállásához és földi mozgásához használnak;
 
 20. üzemben tartó: légijármű, illetőleg légiközlekedéssel kapcsolatos eszköz vagy repülőtér működését szervező, fenntartó felelős természetes vagy jogi személy;
 
@@ -103,3 +103,15 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 33. veszélyes áru feladása légi úton történő továbbításra: veszélyes áru légi úton történő továbbításával összefüggően a feladó felelősségi körébe tartozó, a veszélyes áruk légi úton történő továbbításáról szóló kormányrendeletben meghatározott feladatok ellátása;
 
 34. komplex motoros meghajtású légijármű: a 216/2008/EK európai parlamenti és tanácsi rendelet 3. cikk j) pontjában meghatározott légijármű.
+
+35. pilóta nélküli légijármű: olyan – a pilóta nélküli légijármű rendszer elemét képző – távvezérelt légijármű, amelynek vezetését nem a fedélzeten tartózkodó személy végzi. Pilóta nélküli légijárműnek minősül az előző feltételeknek megfelelő önálló repülésre – részben, vagy teljesen – alkalmas és az önálló repülésre nem alkalmas távvezérelt légijármű is;
+
+36. pilóta nélküli légijármű rendszer: a légijárművet, a légijármű vezetéséhez szükséges távvezérlő munkaállomást és az ezek közötti folyamatos adatkapcsolatot nyújtó berendezést, valamint a légijárművel végrehajtott repüléshez szükséges egyéb berendezéseket magában foglaló rendszer;
+
+37. repülőmodell: olyan önálló repülésre nem képes, távvezérelt merev- vagy forgószárnyú légijármű, valamint ballon, amelynek vezetését nem a fedélzeten tartózkodó személy végzi, felhasználása kizárólag hobbi vagy szabadidő eltöltése céljából történik, továbbá a fedélzetén nincs adatrögzítésre, adatátvitelre, valamint helymeghatározásra alkalmas eszköz;
+
+38. katonai körzet: az a légtér, ahol a katonai repülésirányító szolgálatok nyújtanak szolgáltatást;
+
+39. repülőeszköz: a siklórepülő eszköz, a polgári ejtőernyő és a 216/2008/EK európai parlamenti és tanácsi rendelet II. Melléklet e) pontjában meghatározott egyszemélyes vagy 300 kg legnagyobb felszálló tömeget el nem érő repülőgép együttes megnevezése;
+
+40. siklórepülő eszköz: a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott sárkányrepülő eszköz vagy siklóernyő.

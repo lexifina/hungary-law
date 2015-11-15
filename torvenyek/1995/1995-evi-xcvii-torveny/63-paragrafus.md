@@ -1,1 +1,1 @@
-63. § Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalom irányításának szabályait a miniszter a honvédelemért felelős miniszterrel egyetértésben rendeletben határozza meg.
+63. § A légiforgalmi szolgálatok ellátásának és eljárásainak részletes szabályait a miniszter a honvédelemért felelős miniszterrel egyetértésben rendeletben határozza meg.

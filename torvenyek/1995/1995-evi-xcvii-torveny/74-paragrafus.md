@@ -10,7 +10,7 @@ d) az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben
 
 e)
 
-f) a miniszter, hogy a 6. § (5) bekezdésében említett repülőmodellek és repülőeszközök körét és engedélyezésük részletes szabályait,
+f) a miniszter, hogy a repülőmodellek és repülőeszközök körét és engedélyezésük részletes szabályait,
 
 g) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel és a miniszterrel egyetértésben a közegészségügyi légi beavatkozás szabályait,
 
@@ -44,7 +44,7 @@ u) a rendészetért felelős miniszter, hogy a miniszterrel egyetértésben a v�
 
 v) a miniszter, hogy a légiforgalmi tájékoztatás rendjét és a légiforgalmi tájékoztató szolgálat ellátásának a szabályait,
 
-w) a miniszter, hogy a lajstromozásra nem kötelezett légijárművel folytatott repülések és az azokkal összefüggő tevékenységek végrehajtásának a szabályait,
+w) a miniszter, hogy a repülőeszközzel végzett és a repülőeszközökkel kapcsolatos tevékenységek végrehajtására, a tevékenységet végzők képzésére és engedélyeire vonatkozó részletes szabályokat,
 
 x) a miniszter, hogy – a rendészetért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben – Magyarország Nemzeti Polgári Légiközlekedés Védelmi Képzési Programját és Magyarország Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programját.
 
@@ -96,7 +96,7 @@ s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértés
 
 t) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a zajvédelmi díj megállapításának a részletes szabályait és a beszedett díj összegének felhasználási rendjét, valamint
 
-u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalom irányításának a részletes szabályait
+u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalmi szolgálatok ellátásának és eljárásainak a részletes szabályait
 
 v) a miniszter, hogy a repülésbiztonság összehangolt irányítása érdekében szükséges Nemzeti Repülésbiztonsági Programra és a Repülésbiztonság-irányítási Rendszer működtetésére vonatkozó részletes szabályokat
 
@@ -114,6 +114,18 @@ rendeletben állapítsa meg,
 
 a) a miniszter, hogy a veszélyes áruk biztonságos légiszállításáról szóló műszaki utasításokat,
 
-b) a honvédelemért felelős miniszter, hogy a miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben Magyarország Légiközlekedési Terep és Akadály Adatbázisából történő adatszolgáltatással kapcsolatos igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat
+b) a honvédelemért felelős miniszter, hogy a miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben Magyarország Légiközlekedési Terep és Akadály Adatbázisából történő adatszolgáltatással kapcsolatos igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával, felhasználásával és visszatérítésével kapcsolatos részletes szabályokat,
+
+c) a miniszter, hogy a lajstromba vétel feltételeit, a bejegyzés tartalmának, módosításának és törlésének a szabályait,
+
+d) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légiközlekedési terep és akadály adatbázisa adattartalmára vonatkozó szabályokat,
+
+e) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben a pilóta nélküli légijárművek és a pilóta nélküli légijármű rendszerek gyártásának, engedélyezésének, üzemben tartásának, az azokkal végrehajtott repülések, a vezetőik képesítésének és az egészségügyért felelős miniszterrel egyetértésben a vezetőik egészségügyi alkalmasságának szabályait,
+
+f) a honvédelemért felelős miniszter, hogy a miniszterrel, az adópolitikáért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli állami légijárművek repülésének, illetve légijármű rendszerek üzemeltetésének, a vezetőik képesítésének és az egészségügyért felelős miniszterrel egyetértésben a vezetőik egészségügyi alkalmasságának szabályait, valamint az azokkal kapcsolatos hatósági eljárás részletes szabályait,
+
+g) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az egyes védett személyek állami légijárművel történő szállításának részletes szabályait,
+
+h) a honvédelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állami célú légiközlekedésben a földi kiszolgálás feltételeit és engedélyezésének rendjét
 
 rendeletben állapítsa meg.

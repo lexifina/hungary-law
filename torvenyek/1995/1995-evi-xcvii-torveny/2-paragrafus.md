@@ -16,7 +16,7 @@ f) a légiközlekedés rendészeti feladatainak ellátása;
 
 g) a légiközlekedés védelmével összefüggő biztonsági feladatok meghatározása és a feladatok ellátásának koordinálása;
 
-h) a honvédelemmel összefüggő légiközlekedési feladatok ellátása;
+h) az állami célú légiközlekedéssel összefüggő légiközlekedési feladatok ellátása;
 
 i) országos légiforgalmi irányító, repülőtéri koordinációs, repüléstájékoztató, riasztó, légiforgalmi tájékoztató, léginavigációs és távközlési szolgálat fenntartása;
 
@@ -42,7 +42,7 @@ c)
 
 d) az f) pontjában említett feladatot – a honvédelemért felelős miniszter által ellátott katonai légtérrendészeti feladat kivételével – a rendészetért felelős miniszter és a közlekedésrendészetért felelős miniszter;
 
-e) a h) pontjában említett feladatot a honvédelemért felelős miniszter a miniszterrel együttesen;
+e) a h) pontjában említett feladatot a honvédelemért felelős miniszter a miniszterrel, a rendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel együttesen;
 
 f) az i) és az m) pontjában említett feladatot a miniszter a honvédelemért felelős miniszterrel együttesen;
 

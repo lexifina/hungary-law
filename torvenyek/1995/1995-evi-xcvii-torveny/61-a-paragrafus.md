@@ -36,12 +36,16 @@ k) műszaki dokumentációs és ahhoz kapcsolódó tájékoztató tevékenység 
 
 l) a koordinált és menetrend-egyeztetett repülőtereken a résidőkiosztás és menetrend-egyeztetés;
 
-m) a magyar légtér igénybevételéért fizetendő díjjal összefüggő – nemzetközi szerződésben meghatározott – költségalap kezelése.
+m) a magyar légtér igénybevételéért fizetendő díjjal összefüggő – nemzetközi szerződésben meghatározott – költségalap kezelése;
+
+n) Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében repülésmeteorológiai feladatok ellátása;
+
+o) Budapest Liszt Ferenc Nemzetközi Repülőtér légterében, valamint a külön jogszabályban meghatározott Budapest közelkörzet légtereiben alkalmazott műszer szerinti repülési eljárások tervezése.
 
 (4) A Társaság főtevékenysége: egyéb légi szállítást segítő tevékenység.
 
 (5) A Társaság a főtevékenysége ellátását elősegítő szolgáltató tevékenységeket is elláthat.
 
-(6) A (2) bekezdésben megjelölt társaság európai léginavigációs szolgáltatással összefüggő együttműködés keretében létrejövő gazdasági társaságban kisebbségi vagy többségi tulajdonrészt szerezhet, valamint gazdasági társaságot alapíthat.
+(6) A (2) bekezdésben megjelölt társaság a (3) bekezdésben meghatározott tevékenységével összefüggésben, hosszú távú üzleti érdekeinek elérése céljából gazdasági társaságban kisebbségi vagy többségi tulajdonrészt szerezhet, valamint gazdasági társaságot alapíthat.
 
 (7) A Társaság társadalmi közszükségletet kielégítő, rendeltetése folytán vasárnap és munkaszüneti napon is működő munkáltató.

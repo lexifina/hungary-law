@@ -4,7 +4,7 @@
 
 ## A szakszolgálati engedély
 
-53. § (1) A szakszolgálati engedély azt igazolja, hogy a légijármű vezetője, illetve a szakszemélyzet tagja az adott tevékenység ellátására szakmailag, továbbá egészségügyi és közbiztonsági szempontból alkalmas.
+53. § (1) A szakszolgálati engedély azt igazolja, hogy a légijármű vezetője, továbbá a szakszemélyzet tagja az adott tevékenység ellátására szakmailag alkalmas.
 
 (2) A szakszolgálati engedélyt a légiközlekedési hatóság, illetve a katonai légügyi hatóság adja ki. A légiközlekedési hatóság, illetve a katonai légügyi hatóság a kiadott szakszolgálati engedélyekről nyilvántartást vezet, amely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
@@ -12,7 +12,7 @@
 
 (4) Az engedélyt véglegesen vissza kell vonni, ha
 
-a) az engedélyest közbiztonsági szempontból szakszolgálatra alkalmatlannak kell tekinteni vagy
+a)
 
 b) külön jogszabály az engedély visszavonását írja elő.
 
@@ -24,14 +24,4 @@ b) külön jogszabály az engedély visszavonását írja elő.
 
 (8) A szakszolgálati engedélyek kiadásának egészségügyi feltételeit a miniszter az egészségügyért felelős miniszterrel, illetve a honvédelemért felelős miniszter az egészségügyért felelős miniszterrel egyetértésben rendeletben határozza meg.
 
-(9) Az engedélyest közbiztonsági szempontból szakszolgálatra alkalmatlannak kell tekinteni, ha
-
-a) a szakszolgálati tevékenységével összefüggésben a bíróság bűncselekmény elkövetése miatt jogerősen elítélte, amíg a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesült,
-
-b) kényszergyógykezelését a bíróság jogerősen elrendelte, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított egy évig,
-
-c) bíróság, szabálysértési hatóság a szakszolgálati tevékenység gyakorlásától jogerősen eltiltotta, az eltiltás hatályának időtartama alatt,
-
-d) a bíróság cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezett, a gondnokság időtartama alatt,
-
-e) szakszolgálati engedélyét vagy jogosítását a légiközlekedési hatóság jogerős határozatával visszavonta vagy felfüggesztette, a felfüggesztés időtartama alatt.
+(9)

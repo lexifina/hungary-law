@@ -1,6 +1,6 @@
 62. § (1) A nem ellenőrzött repülőterek üzemben tartói a miniszter által a repülőtér rendeltetésének figyelembevételével meghatározott légiforgalmi szolgálat fenntartására, valamint léginavigációs berendezések létesítésére és üzemeltetésére kötelezhetők.
 
-(2) A katonai ellenőrzött légtérben és repülőtereken a katonai légiforgalmi szolgálatokat a honvédelemért felelős miniszter hozza létre és tartja fenn.
+(2) A katonai repülésirányító szolgálat részeként működő katonai légiforgalmi szolgálatokat a honvédelemért felelős miniszter hozza létre és tartja fenn.
 
 (3) A katonai légiforgalmi szolgálatok feladata különösen:
 

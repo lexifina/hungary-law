@@ -6,7 +6,7 @@
 
 19. § (1) Üzemben tartási engedély szükséges
 
-a) a (2) bekezdésben említett kivétellel a polgári légijármű,
+a) a gazdasági célú légiközlekedési tevékenységet végző lajstromozásra kötelezett légijármű,
 
 b) a repülőtér,
 
@@ -14,7 +14,7 @@ c) a légiközlekedést szolgáló légiforgalmi földi berendezés
 
 üzemben tartásához.
 
-(2) Nem kell üzemben tartási engedély a természetes személy tulajdonát képező, kizárólag magáncélra használt polgári légijármű üzemben tartásához.
+(2) Nem kell üzemben tartási engedély az állami légijármű és a pilóta nélküli állami légijármű üzemben tartásához.
 
 (3) Az üzemben tartási engedélyt a légiközlekedési hatóság adja ki. Ha az üzemben tartási engedély tárgya rádióberendezés vagy rádióberendezést foglal magában, abban az esetben a légiközlekedési hatóság az engedélyt a Nemzeti Média- és Hírközlési Hatóság által külön jogszabály alapján kiadott rádióengedély megléte esetén adja ki.
 

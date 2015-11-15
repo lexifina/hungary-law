@@ -1,10 +1,12 @@
-7. § (1) Külföldi állami légi járműnek a magyar légtérbe való berepülése iránti kérelmet – a (3) és (4) bekezdésben foglalt kivétellel – a külpolitikáért felelős miniszternek kell benyújtani. A külpolitikáért felelős miniszter egyetértése esetén a kérelmet továbbítja a légiközlekedési hatóságnak.
+7. § (1) Külföldi állami légi járműnek a magyar légtérbe való berepülése iránti kérelmet – a (3) és (4) bekezdésben foglalt kivétellel – a külpolitikáért felelős miniszternek kell benyújtani. A külpolitikáért felelős miniszter a kérelmet a magyar légtér igénybevételéről szóló kormányrendeletben meghatározott módon továbbítja a légiközlekedési hatóságnak.
 
 (1a) A légiközlekedési hatóság a külpolitikáért felelős miniszter, a katonai légügyi hatóság, továbbá a magyar légtér igénybevételéről szóló kormányrendeletben megjelölt polgári és Katonai Nemzetbiztonsági Szolgálat hozzájárulásával engedélyezi a külföldi állami légi járműnek a magyar légtérbe való berepülését.
 
 (1b) A légiközlekedési hatóság döntése ellen jogorvoslatnak nincs helye.
 
 (2) A külföldi állami légijármű számára kibocsátott egyszeri vagy többszöri be-, illetve átrepülési engedély nem mentesíti a kérelmezőt a jogszabályban előírt más engedélyek beszerzésének kötelezettsége alól.
+
+(2a) Az Alaptörvény 47. cikke szerinti csapatmozgások esetén a diplomáciai kérelem alóli mentesség nem mentesít a csapatmozgásra vonatkozó közjogi engedély alól. A diplomáciai kérelem alóli mentességgel rendelkező államok ilyen esetben megfelelő időben kötelesek engedélyt kérni.
 
 (3) NATO tagország, valamint az Európai Unió tagállama állami légijárművének a magyar légtérbe való belépéséhez nem szükséges az (1) bekezdésben meghatározott engedély kérése. A NATO tagállam, valamint az Európai Unió tagállama állami légijárművének a magyar légtérbe való belépése a nemzetközi előírásoknak megfelelő repülési terv benyújtásával történik.
 

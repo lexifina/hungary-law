@@ -7,3 +7,5 @@ b) ha a repülőteret újonnan létesítik, akkor a repülőtér létesítője, 
 köteles elhelyezni és karbantartani.
 
 (2) Az akadályjelzés eltávolításához vagy működésének megváltoztatásához a légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság engedélye szükséges.
+
+(3) A repülésbiztonság fenntartása és növelése érdekében állami téradatbázisként létre kell hozni és adattartalmának rendszeres aktualizálásával fenn kell tartani Magyarország légiközlekedési terep és akadály adatbázisát.

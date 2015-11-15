@@ -12,4 +12,4 @@ b) amelynek vezetője a légiközlekedési hatóság, illetve a katonai légügy
 
 (4) Az ellenőrzött légtérben történő repülésekhez – ideértve az olyan külföldi légijárműnek a magyar légtérbe való berepülését is, amely számára a magyar légtér használatát nemzetközi szerződés, illetőleg a (3) bekezdésben meghatározott engedély lehetővé teszi – légiforgalmi irányítói engedély szükséges. Nincs szükség légiforgalmi irányítói engedélyre a légvédelmi készenléti repüléshez.
 
-(5) A légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság engedélyével repülhet a magyar légtérben az a légi jármű, amely vezető nélküli repülésre alkalmas, továbbá a jogszabályban meghatározott repülőmodell, illetve repülőeszköz. Lakott terület felett a modellrepültetés a légiközlekedési hatóság engedélyén túlmenően csak a helyi önkormányzat által feladatkörében kiadott rendeletben kijelölt területen és feltételek mellett hajtható végre.
+(5)
