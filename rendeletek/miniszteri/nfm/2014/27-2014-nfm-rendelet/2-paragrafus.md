@@ -24,8 +24,12 @@
 
 9. repülőorvosi vizsgálat: a repülő-egészségügyi alkalmasság megállapításához előírt, AME által végzett vizsgálat;
 
-10. sárkányrepülő eszköz: olyan, személyzet által vezetett egyéb repülőeszköz, amelynek kormányzása súlypontáthelyezéssel vagy súlypontáthelyezéssel és aerodinamikai kormányzással együttesen történik, a szárny alakjának megtartására belső merevítő vázszerkezet szolgál, vezetője a szárnyon egyetlen felfüggesztési ponthoz csatlakozik;
+10.[^1] sárkányrepülő eszköz: olyan repülőeszköz, amelynek kormányzása súlypontáthelyezéssel vagy súlypontáthelyezéssel és aerodinamikai kormányzással együttesen történik, a szárny alakjának megtartására belső merevítő vázszerkezet szolgál, vezetője a szárnyon egyetlen felfüggesztési ponthoz csatlakozik;
 
-11. siklóernyő: olyan, személyzet által vezetett egyéb repülőeszköz, amelynek kormányzása aerodinamikai vagy súlypont áthelyezéses módon külön és együttesen is lehetséges, a szárny alakját az áramlás biztosítja, szabadesésben történő nyitásra nem alkalmas, vezetője a szárnyon több felfüggesztési ponthoz csatlakozik;
+11.[^2] siklóernyő: olyan repülőeszköz, amelynek kormányzása aerodinamikai vagy súlypont áthelyezéses módon külön és együttesen is lehetséges, a szárny alakját az áramlás biztosítja, szabadesésben történő nyitásra nem alkalmas, vezetője a szárnyon több felfüggesztési ponthoz csatlakozik;
 
-12. siklórepülő eszköz: a légiközlekedésről szóló 1995. évi XCVII. törvény 12. § (1) bekezdése szerinti személyzet által vezetett egyéb repülőeszköz, amely lehet sárkányrepülő eszköz vagy siklóernyő.
+12.[^3] siklórepülő eszköz: repülőeszköz, amely lehet sárkányrepülő eszköz vagy siklóernyő.
+
+[^1]: A 2. § 10. pontja a 65/2015. (XI. 13.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 11. pontja a 65/2015. (XI. 13.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 12. pontja a 65/2015. (XI. 13.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
