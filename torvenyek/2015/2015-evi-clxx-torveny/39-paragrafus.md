@@ -1,0 +1,9 @@
+39. § A Kbvt. „A szakmai vizsgálat megindítása” alcíme a következő 10/C. §-sal egészül ki:
+
+„10/C. § (1) Súlyos vasúti baleset esetén – illetve, amennyiben a közlekedésbiztonsági szerv úgy dönt, hogy vasúti balesettel vagy váratlan vasúti eseménnyel kapcsolatban szakmai vizsgálatot indít – a közlekedésbiztonsági szerv vezetője a szakmai vizsgálat megindításáról egy héten belül tájékoztatja az Európai Vasúti Ügynökséget. A tájékoztatás tartalmazza a baleset dátumát, idejét és helyét, valamint annak jellegét és következményeit a halálos áldozatok, személyi sérülések és anyagi károk tekintetében.
+
+(2) Ha a közlekedési baleset, illetve az egyéb közlekedési esemény katonai szállítmányt érint, a közlekedésbiztonsági szerv vezetője a Magyar Honvédséget értesíti.
+
+(3) A közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési balesetről a lehető legrövidebb időn belül tájékoztatást ad a honvédelemért felelős miniszter és a Magyar Honvédség vezérkari főnöke, illetve a rendvédelmi szervek, valamint a vámhatóság érintettsége esetén az illetékes miniszter részére.
+
+(4) A belföldön külföldi járművel bekövetkezett közlekedési baleset és egyéb közlekedési esemény bekövetkezésekor a közlekedésbiztonsági szerv a lehető legkisebb késedelemmel értesíti a járművet lajstromozó (nyilvántartó), üzemben tartó (üzemeltető), tervező, gyártó, valamint nemzetközi szerződésben meghatározott érintettségű állam eseményvizsgáló szervét. Az értesítést a nemzetközi szerződésekben meghatározott hivatalos munkanyelven kell megküldeni. Az értesítés az adott időpontban rendelkezésre álló információkat tartalmazza, az egyes információk hiánya miatt az értesítés nem szenvedhet késedelmet. A hiányzó adatokat és az egyéb kapcsolódó információkat azok beszerzését követően haladéktalanul pótolni kell.”

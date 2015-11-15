@@ -1,0 +1,3 @@
+40. § A Kbvt. 11. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+„(11) A közlekedési baleset és egyéb közlekedési esemény esetén a személyzet és az utasok tulajdonának, továbbá a speciális eszközöknek és tartozékoknak, valamint a rakománynak a begyűjtése, nyilvántartásba vétele az üzemben tartó vagy az üzemeltető feladata, azok helyszínről történő elszállítására – az érintett hatóságokkal történt egyeztetést követően – a vizsgálóbizottság vezetője ad engedélyt. A jármű vagy tartozékai elszállításakor és megőrzésekor, az esetleges későbbi vizsgálatok lefolytatása érdekében úgy kell eljárni, hogy azok további sérülést vagy elváltozást a lehető legkisebb mértékben szenvedjenek.”

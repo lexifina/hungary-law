@@ -1,0 +1,3 @@
+43. § A Kbvt. 15. §-a a következő (10) bekezdéssel egészül ki:
+
+„(10) A szakmai vizsgálat során, a közlekedésbiztonsági szerv megkeresése alapján az érintettek kötelesek a vizsgálóbizottsággal együttműködni. Az együttműködésre különösen a közlekedési és más hatóság, a jármű, az infrastruktúra, üzemben tartója, üzemeltetője, a járművet, annak tartozékait, vagy az infrastruktúrát gyártó, karbantartó, javító szervezet, továbbá a forgalom irányítását, tájékoztatását végző szervezet köteles. Az együttműködés keretében a szervezetek az esemény okainak felderítése érdekében szükséges adatokkal, vizsgálati eredményekkel, szakmai állásfoglalásokkal kötelesek segíteni a vizsgálóbizottság munkáját.”

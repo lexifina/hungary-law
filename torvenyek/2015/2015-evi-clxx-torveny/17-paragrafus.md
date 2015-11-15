@@ -1,0 +1,3 @@
+17. § Az Lt. a következő 63/D. §-sal egészül ki:
+
+„63/D. § A munkáltató a légiforgalmi irányítói szakszolgálati engedélyekre és egyes tanúsításokra vonatkozó részletes szabályoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló, 2011. augusztus 10-i 805/2011/EU bizottsági rendelet 17. cikke, továbbá a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról, valamint a 482/2008/EK és a 691/2010/EU rendelet módosításáról szóló, 2011. október 17-i 1035/2011/EU bizottsági végrehajtási rendelet II. Melléklet 3.3. pontja végrehajtása érdekében ellenőrzési rendszert alakít ki.”
