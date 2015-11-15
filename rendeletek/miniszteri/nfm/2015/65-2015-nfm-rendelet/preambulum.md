@@ -1,0 +1,13 @@
+Az 1–2. alcím tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (2) bekezdés u) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 77. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben,
+
+a 3. alcím tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva,
+
+a 4. alcím tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (1) bekezdés n) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 77. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben,
+
+az 5. alcím tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (1) bekezdés l) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 77. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben,
+
+a 6. alcím tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (2) bekezdés k) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 3. pontjában meghatározott feladatkörében eljáró emberi erőforrások miniszterével egyetértésben,
+
+a 7. alcím tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (2) bekezdés d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 77. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel egyetértésben,
+
+a következőket rendelem el:
