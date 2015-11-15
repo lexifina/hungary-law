@@ -17,11 +17,3 @@ f) a polgári légi közlekedési események jelentéséről, elemzéséről és
 a) a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével,
 
 b) a veszélyes áruk szárazföldi szállításáról szóló 2008. szeptember 24-i 2008/68/EK európai parlamenti és tanácsi irányelv.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
