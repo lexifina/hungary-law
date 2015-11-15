@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-11-20-0
 | 2013-07-01 | 2003-11-20-06.10 | 9/2013. (VI. 29.) KIM rendelet |
 | 2014-01-01 | 2003-11-20-06.11 | 35/2013. (XII. 23.) KIM rendelet |
 | 2015-01-01 | 2003-11-20-06.12 | 17/2014. (XII. 19.) IM rendelet |
+| 2015-11-15 | 2003-11-20-06.13 | 33/2015. (XI. 6.) IM rendelet |

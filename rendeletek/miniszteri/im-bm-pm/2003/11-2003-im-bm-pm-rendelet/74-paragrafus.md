@@ -1,15 +1,25 @@
-74. §[^96] (1) A lefoglalt és előzetesen értékesíthetővé vált, vagy elkobzott jövedéki termékek és nem közösségi áruk értékesítését a jövedéki, illetve vámjogszabályok rendelkezései szerint a NAV végzi.
+74. §[^96] (1) A NAV hatáskörébe tartozó bűncselekmény miatt folyó büntetőeljárásban
 
-(2) A lefoglalt és előzetesen értékesíthetővé vált vagy elkobzott bűnjel értékesítése
+a) lefoglalt és előzetesen értékesíthetővé vált,
 
-a) kereskedelmi tevékenység folytatására jogosult gazdálkodó szervezet (kereskedő) közreműködésével történő eladás,
+b) elkobzott,
 
-b) árverés vagy elektronikus árverés
+c) visszaadni rendelt, de a jogosult által át nem vett, továbbá
 
-útján történhet.
+d) a Be. 155. § (6) bekezdése alapján az állam tulajdonába került
 
-(3) A NAV nyomozóhatósági jogkörben lefoglalt és előzetesen értékesíthetővé vált vagy elkobzott jövedéki termékek és nem közösségi áruk értékesítéséből befolyt ellenértéket a NAV által kezelt államháztartási számlára kell befizetni és a jövedéki, illetve vámjogszabályok szerint kell elszámolni.
+## bűnjel értékesítését a NAV végzi.
 
-(4) A lefoglalt és előzetesen értékesíthetővé vált vagy elkobzott – jövedéki terméknek nem minősülő – nem közösségi áruk elektronikus árverés útján történő értékesítését a NAV az adózás rendjéről szóló törvény vonatkozó rendelkezésének értelemszerű alkalmazásával végzi.
+(2) Az (1) bekezdésben meghatározott bűnjel értékesítése
 
-[^96]: A 74. § a 18/2011. (VI. 24.) KIM rendelet 7. §-ával megállapított szöveg.
+a) kereskedelmi tevékenység folytatására jogosult gazdálkodó szervezet (kereskedő) közreműködésével történő eladás vagy
+
+b) árverés vagy elektronikus árverés útján
+
+## történik azzal, hogy a jövedéki termékek és a nem közösségi áruk értékesítésére a jövedéki, illetve a vámjogszabályok rendelkezései szerint kerülhet sor.
+
+(3) Az (1) bekezdésben meghatározott bűnjel értékesítéséből befolyt ellenértéket a NAV által kezelt államháztartási számlára kell befizetni. A jövedéki termékek és a nem közösségi áruk tekintetében befolyt összeget a jövedéki, illetve a vámjogszabályok szerint kell elszámolni.
+
+(4) Az (1) bekezdésben meghatározott – jövedéki terméknek nem minősülő – bűnjel elektronikus árverés útján történő értékesítését a NAV az adózás rendjéről szóló törvény vonatkozó rendelkezésének értelemszerű alkalmazásával végzi.
+
+[^96]: A 74. § a 33/2015. (XI. 6.) IM rendelet 4. §-ával megállapított szöveg.
