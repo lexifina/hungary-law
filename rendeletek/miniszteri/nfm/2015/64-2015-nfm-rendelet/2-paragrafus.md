@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 4. § (2) bekezdése alapján 2015. november 15-én lép hatályba.
+## „(5c) A számítógépes program bírósági felhasználóinak jogosultságait az üzemeltető állítja be a felhasználót foglalkoztató törvényszék elnöke által elektronikus úton megküldött megkeresés alapján.”
