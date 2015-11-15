@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-26-20-0
 | 2015-06-20 | 2007-26-20-0L.16 | 37/2010. (V. 4.) KHEM rendelet |
 | 2015-06-30 | 2007-26-20-0L.17 | 37/2010. (V. 4.) KHEM rendelet |
 | 2015-07-01 | 2007-26-20-0L.18 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-11-15 | 2007-26-20-0L.19 | 65/2015. (XI. 13.) NFM rendelet |

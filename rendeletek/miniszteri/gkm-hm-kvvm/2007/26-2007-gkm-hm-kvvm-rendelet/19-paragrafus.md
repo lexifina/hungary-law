@@ -12,5 +12,8 @@
 
 (3) Az (1) bekezdésben meghatározott szabad útvonalú légtéren kívül a légiforgalmi szolgálat illetékességi légterében ATS útvonalakat határozhat meg. Az ATS útvonalakat az AIP-ben közzé kell tenni.
 
+(4)[^41] Ha az IFR szerint üzemelő légijármű olyan légtérből repül be Budapest CTA légterébe vagy olyan légtérbe távozik Budapest CTA légteréből, amely szintén szabad útvonalú légtér, az (1) bekezdésben meghatározott, a kijelölt belépő és kilépő pontra vonatkozó előírásokat nem kell alkalmazni.
+
 [^39]: A 18/H. §-t a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
 [^40]: A 19. § a 4/2015. (II. 3.) NFM rendelet 3. §-ával megállapított szöveg.
+[^41]: A 19. § (4) bekezdését a 65/2015. (XI. 13.) NFM rendelet 7. §-a iktatta be.

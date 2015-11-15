@@ -22,7 +22,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^52]
+együttes rendelethez[^53]
 
 ## ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS AZ IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -1018,8 +1018,30 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 470840N | 0183425E |
 
+| 471037N | 0182857E |
+
 | LHB24 Velencei tó, Dinnyés környezetvédelmi szempontból korlátozott légtér átfedő részének kizárásával |
+
+|  | A | B | C |
+
+| 40 | LHGD Drop Zone | FL145 (4400 m STD) / GND | (ICAO „G”) Közzétett üzemidő szerint |
+
+| 1,852 km (1 NM) sugarú kör a 473425N 0191957E középpont körül |
+
+| 41 | LHKA Drop Zone | FL135 (4100 m STD) / GND | (ICAO „G”) Közzétett üzemidő szerint |
+
+| 463356N | 0185419E |
+
+| 463435N | 0185817E |
+
+| 463118N | 0190123E |
+
+| 463000N | 0185519E |
+
+| 463356N | 0185419E |
+
+| 42 | LHBC Drop Zone 7 km sugarú kör a 464036N 0210938E középpont körül | FL155 (4750 m STD) / 4000’ (1200 m) | (ICAO „G”) Közzétett üzemidő szerint |
 
 III. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
-[^52]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(3) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § a) pontja, a 31/2015. (VI. 19.) NFM rendelet 1. § (1) bekezdése, a 35/2015. (VI. 29.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^53]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(3) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § a) pontja, a 31/2015. (VI. 19.) NFM rendelet 1. § (1) bekezdése, a 35/2015. (VI. 29.) NFM rendelet 1. §-a, a 65/2015. (XI. 13.) NFM rendelet 8. §-a szerint módosított szöveg.
