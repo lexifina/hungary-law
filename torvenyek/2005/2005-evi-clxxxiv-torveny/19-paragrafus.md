@@ -18,7 +18,7 @@ b) a közlekedési balesetet követő vizsgálathoz a vizsgálatokra szakosodott
 
 (3) Amennyiben a közlekedési balesetben vagy az egyéb közlekedési eseményben külföldi úszólétesítmény, vagy vasúti jármű érintett, a közlekedésbiztonsági szerv az érintett állam közlekedési baleseteket vizsgáló szervezetét a vizsgálatba a 15. § rendelkezései szerint bevonja, kivéve, ha a szervezet a vizsgálatban nem kíván részt venni. Ez utóbbi esetben a közlekedésbiztonsági szerv a vizsgálat eredményéről az érintett állam baleseteket vizsgáló szervezetét a zárójelentés megküldésével tájékoztatja.
 
-(4) Nemzetközi szerződésben foglaltak alapján a közlekedésbiztonsági szerv a külföldön történt légiközlekedési balesetek kivizsgálásával megbízhatja egy másik állam balesetkivizsgáló szervét is.
+(4) Nemzetközi szerződésben foglaltak alapján a közlekedésbiztonsági szerv a külföldön történt légiközlekedési balesetek kivizsgálásával megbízhatja egy másik állam eseményvizsgáló szervét is.
 
 (5) Az 1. § (2) bekezdésében meghatározott esetben a légiközlekedési baleset és a súlyos repülőesemény szakmai vizsgálatát, a szakmai vizsgálat valamely részét a közlekedésbiztonsági szerv vezetője indokolt esetben a Nemzetközi Polgári Repülési Szervezetnek (ICAO) átadhatja.
 

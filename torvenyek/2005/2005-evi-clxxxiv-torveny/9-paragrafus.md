@@ -1,8 +1,8 @@
 ## A szakmai vizsgálatra vonatkozó általános szabályok
 
-9. § (1) A közlekedésbiztonsági szerv a vasúti és víziközlekedési balesetek és események tényállásának megállapítása keretében – szükség esetén a többi közigazgatási hatósággal egyeztetett módon, a büntetőeljárást nem akadályozva – jogosult különösen arra, hogy
+9. § (1) A közlekedésbiztonsági szerv a vasúti és víziközlekedési balesetek és események tényállásának megállapítása keretében – szükség esetén a közigazgatási hatósággal egyeztetett módon, a büntetőeljárást nem akadályozva – jogosult különösen arra, hogy
 
-a) a közigazgatási hatósági eljárás általános szabályairól szóló törvény szemlére vonatkozó szabályai szerint haladéktalanul és akadálytalanul – az esemény vizsgálatára külön jogszabály alapján jogosult más hatóságokkal egyidejűleg is – hozzáférhessen a közlekedési baleset és az egyéb közlekedési esemény, a repülőesemény, a légiközlekedési rendellenesség és a váratlan vasúti esemény helyszínéhez, a járműhöz, annak rakományához vagy roncsához, a közlekedési járműhöz kapcsolódó infrastruktúrához, a forgalomirányító és jelzőberendezésekhez;
+a) a közigazgatási hatósági eljárás általános szabályairól szóló törvény szemlére vonatkozó szabályai szerint haladéktalanul és akadálytalanul, előzetes értesítés nélkül – az esemény vizsgálatára külön jogszabály alapján jogosult más hatóságokkal egyidejűleg is – hozzáférhessen a közlekedési baleset és az egyéb közlekedési esemény helyszínéhez, az eseménnyel érintett járműhöz, az eseménnyel érintett jármű rakományához vagy roncsához, az eseménnyel érintett infrastruktúrához, a forgalomirányító és jelzőberendezésekhez;
 
 b) azonnal megkezdhesse a helyszínen található bizonyítékok rögzítése mellett a maradványok és a roncsdarabok vagy alkatrészek, infrastruktúra elemek ellenőrzött eltávolítását vizsgálati vagy elemzési célokra;
 
@@ -10,7 +10,7 @@ c) azonnal hozzáférhessen a fedélzeti és egyéb adatrögzítők, valamint m�
 
 d) hozzáférhessen az áldozatok testének vizsgálatából származó eredményekhez, illetve az azokból vett mintákhoz;
 
-e) azonnal hozzáférhessen a jármű üzemeltetésében részt vevő személyek egészségügyi vizsgálati eredményeihez, illetve a tőlük vett mintákhoz;
+e) haladéktalanul megismerje a jármű üzemeltetésében, karbantartásában, közlekedésének előkészítésében, továbbá a forgalom lebonyolításában, tájékoztatásában, illetve irányításában részt vevő személyek egészségügyi vizsgálati eredményeit, illetve a tőlük vett mintákat;
 
 f) akadálytalanul hozzájusson az ügyre vonatkozó minden olyan információhoz vagy rögzített adathoz, amely a jármű tulajdonosának, üzemeltetőjének vagy gyártójának, valamint a közlekedést vagy az infrastruktúra üzemeltetését felügyelő hatóságok rendelkezésére áll;
 
@@ -25,3 +25,5 @@ i) betekintsen valamennyi iratba – amely a közlekedési balesetben és az egy
 (3) A szakmai vizsgálattal okozott kárért kártalanításnak van helye.
 
 (4) A vizsgálóbizottság javaslatára a közlekedésbiztonsági szerv vezetője a szakmai vizsgálat bármely szakaszában jogosult biztonsági ajánlás kiadására.
+
+(5) A vasúti baleset és súlyos vasúti baleset, a váratlan vasúti esemény, valamint a nagyon súlyos víziközlekedési baleset és víziközlekedési baleset, valamint a víziközlekedési esemény vizsgálata során a közlekedésbiztonsági szerv – a büntetőeljárást lefolytató hatóságtól szerzett információk kivételével – jogosult információkat közölni az áldozatokkal és azok hozzátartozóival vagy azok képviselőivel, továbbá nyilvánosságra hozni az eseményvizsgálat során feltárt tényekkel és az eseményvizsgálat során követett eljárással kapcsolatos információkat, jogosult továbbá előzetes jelentések kiadására, feltéve, hogy az nem veszélyezteti a szakmai vizsgálat követelményeit, alapvető honvédelmi érdeket és megfelel a személyes adatok kezelésére vonatkozó szabályoknak.

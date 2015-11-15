@@ -4,7 +4,7 @@
 
 ## A törvény hatálya
 
-1. § (1) A törvény hatálya a Magyarország területén, illetőleg légterében (belföldön) bekövetkezett közlekedési baleset és egyéb közlekedési esemény szakmai vizsgálatára terjed ki.
+1. § (1) A törvény hatálya a Magyarország területén, illetve légterében bekövetkezett közlekedési baleset és egyéb közlekedési esemény bejelentésére és vizsgálatára terjed ki.
 
 (2) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, e törvény rendelkezéseit kell alkalmazni a Magyarország területén, légterén kívül (külföldön) magyar lajstromba vett légijárművel és úszólétesítménnyel, valamint magyar nyilvántartásba vett légijárművel és vasúti járművel bekövetkezett közlekedési baleset és egyéb közlekedési esemény vizsgálatára is.
 

@@ -12,7 +12,7 @@
 
 (6) A vasúti és víziközlekedési balesetek és események, valamint a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, súlyos repülőesemények vagy repülőesemények kapcsán készült zárójelentést a közlekedésbiztonsági szerv köteles megküldeni a közlekedési balesetben vagy egyéb közlekedési eseményben érintetteknek, a biztonsági ajánlás címzettjeinek, valamint minden olyan szervezetnek, amely abból biztonsági szempontból hasznos következtetéseket vonhat le. A zárójelentést meg kell küldeni az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott nemzetközi szervezeteknek, az Európai Bizottságnak és az Európai Vasúti Ügynökségnek.
 
-(7) A közlekedésbiztonsági szerv a zárójelentést – a légiközlekedési rendellenesség vizsgálatával kapcsolatban készített zárójelentés kivételével – honlapján közzéteszi.
+(7) A közlekedésbiztonsági szerv a zárójelentést a honlapján közzéteszi.
 
 (8) A vasúti vagy víziközlekedési balesetek és események kapcsán kibocsátott biztonsági ajánlások címzettjei a biztonsági ajánlás kézhezvételétől számított 90 napon belül írásban tájékoztatást adnak a közlekedésbiztonsági szervnek az ajánlások elfogadásáról, az ajánlás alapján tervezett, vagy megtett intézkedésükről bevezetésük határidejének megjelölésével, vagy egyet nem értésük esetén indoklással ellátva.
 

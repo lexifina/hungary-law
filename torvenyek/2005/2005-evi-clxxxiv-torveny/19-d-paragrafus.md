@@ -8,7 +8,7 @@ b) 15 méternél rövidebb halászhajó;
 
 c) rögzített nyílt tengeri fúróberendezés.
 
-(3) Ha a közlekedésbiztonsági szerv a 7. § (1) bekezdés d) pontja alapján a tengeri súlyos víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokairól az EMCIP adatbázison keresztül értesíti az Európai Bizottságot.
+(3) Ha a közlekedésbiztonsági szerv a 7. § (1) bekezdés d) pontja alapján a tengeri víziközlekedési baleset kapcsán nem indít vizsgálatot, ennek indokairól az EMCIP adatbázison keresztül értesíti az Európai Bizottságot.
 
 (4) A szakmai vizsgálatot a tengeri víziközlekedési baleset vagy tengeri víziközlekedési esemény bekövetkezése után a kivitelezhetőség függvényében haladéktalanul – de legkésőbb a bekövetkezését követő két hónapon belül – meg kell kezdeni.
 

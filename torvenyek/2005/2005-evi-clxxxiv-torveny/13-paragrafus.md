@@ -14,6 +14,6 @@ e) a vizsgálat által érintett szerv (gazdálkodó szervezet) vezető tisztsé
 
 (2) A vizsgálóbizottság vezetőjének és kormánytisztviselő tagjainak a következő végzettséggel és képesítéssel kell rendelkezniük:
 
-a) szakirányú felsőfokú iskolai végzettség és az érintett jármű szerinti szakterületen legalább öt év szakmai gyakorlat, valamint
+a) szakirányú felsőfokú iskolai végzettség és az érintett szakterületen legalább öt év szakmai gyakorlat, valamint
 
 b) a közlekedésbiztonsági szervnél elvégzett, vagy más közlekedésbiztonsági szervnél, képző szervnél, illetve nemzetközi szervezetnél elvégzett és a közlekedésbiztonsági szerv által elfogadott közlekedési balesetvizsgáló tanfolyam elvégzését igazoló irat.

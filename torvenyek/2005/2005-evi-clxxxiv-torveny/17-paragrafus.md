@@ -10,7 +10,7 @@ aa) családi és utóneve, születési családi és utóneve, állampolgársága
 
 ab) képzettsége, szakmai gyakorlata, szakmai jogosultsága, az esemény idején betöltött szolgálati beosztása,
 
-ac) egészségi állapotára vonatkozó különleges adat,
+ac) egészségi állapotára vonatkozó, valamint feladatainak ellátásával összefüggő egészségügyi vizsgálatával kapcsolatos különleges adat,
 
 ad) az eseménnyel összefüggésbe hozható, kóros szenvedélyére vonatkozó adatok,
 

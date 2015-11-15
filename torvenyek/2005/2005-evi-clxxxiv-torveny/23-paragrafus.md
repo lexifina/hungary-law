@@ -2,7 +2,7 @@
 
 a)
 
-b) az Európai Parlament és a Tanács 2003/42/EK irányelve (2003. június 13.) a polgári repülésben előforduló események jelentéséről, az I. és II. melléklet kivételével;
+b)
 
 c) az Európai Parlament és a Tanács 2004/49/EK irányelve (2004. április 29.) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúra-kapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról, 3. cikk j)–o) pont, 19–25. cikk;
 
@@ -10,9 +10,9 @@ d) a víziközlekedésről szóló 2000. évi XLII. törvénnyel együtt, a teng
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-a) a Bizottság 1321/2007/EK rendelete (2007. november 12.) a polgári légiközlekedési eseményekre vonatkozó, a 2003/42/EK európai parlamenti és tanácsi irányelv szerint cserélt információk központi adattárba történő rendezésével kapcsolatos végrehajtási szabályok meghatározásáról;
+a) Az Európai Parlament és a Tanács 376/2014/EU rendelete (2014. április 3.) a polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről;
 
-b) a Bizottság 1330/2007/EK rendelete (2007. szeptember 24.) a polgári légiközlekedési eseményekre vonatkozó információnak az érdekelt felekkel történő, a 2003/42/EK irányelv 7. cikkének (2) bekezdése szerinti terjesztésére vonatkozó végrehajtási szabályok meghatározásáról.
+b)
 
 c) a légiközlekedésről szóló 1995. évi XCVII. törvénnyel együtt, a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet;
 

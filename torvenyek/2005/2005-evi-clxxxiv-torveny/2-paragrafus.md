@@ -4,7 +4,7 @@
 
 a) közlekedési baleset: a légiközlekedési baleset, a súlyos vasúti baleset és a nagyon súlyos víziközlekedési baleset;
 
-b) egyéb közlekedési esemény: a súlyos repülőesemény, a repülőesemény, a légiközlekedési rendellenesség, a vasúti baleset, a váratlan vasúti esemény, a súlyos víziközlekedési baleset és a víziközlekedési esemény;
+b) egyéb közlekedési esemény: a súlyos repülőesemény, a repülőesemény, a vasúti baleset, a váratlan vasúti esemény, a víziközlekedési baleset és a víziközlekedési esemény;
 
 c) halálos baleset: olyan baleset, amelynek következtében a balesetet szenvedő személy halálos sérülést szenved;
 
@@ -32,7 +32,7 @@ g) súlyos repülőesemény: az EU-rendelet 2. cikkének 16. pontjában megfogal
 
 h) repülőesemény: az EU-rendelet 2. cikkének 7. pontjában megfogalmazott repülőesemény;
 
-i) légiközlekedési rendellenesség: olyan – nem a repülés tartama alatt bekövetkezett – működési zavar, hiba, hiányosság vagy más szabálytalan körülmény, amely a repülésbiztonságot befolyásolhatja vagy befolyásolhatta, de amely nem okozott balesetet vagy súlyos repülőeseményt;
+i)
 
 j) súlyos vasúti baleset: vonatok összeütközése vagy kisiklása, amely legalább egy halálos áldozattal, öt vagy több személy súlyos sérülésével, illetve a járművek, az infrastruktúra vagy a környezet jelentős (a helyszínen megállapíthatóan legalább 500 millió forintos) károsodásával jár, valamint más vasúti baleset, amelynek nyilvánvaló hatása van a vasútbiztonsági szabályozásra vagy a biztonság irányítására;
 
@@ -52,23 +52,23 @@ kf) egyéb vasúti baleset;
 
 l) váratlan vasúti esemény: a súlyos vasúti baleseten és a vasúti baleseten kívül minden olyan esemény, amely a vonatok üzemeltetését és az üzemeltetés biztonságát károsan érinti;
 
-m) víziközlekedési baleset: a víziközlekedési tevékenység folytatása során bekövetkezett olyan esemény, amely során
+m) víziközlekedési baleset: nagyon súlyos víziközlekedési balesetnek nem minősülő, az úszólétesítmény működésével kapcsolatban lévő, olyan bekövetkezett – nem szándékos emberi magatartásra visszavezethető – esemény vagy eseménysorozat, amely során
 
-ma) halál vagy súlyos személyi sérülés történik, és ez kapcsolatban vagy okozati összefüggésben áll az úszólétesítmény működésével,
+ma) halál vagy súlyos személyi sérülés történik,
 
-mb) személy úszólétesítményről eltűnik, és ez kapcsolatban vagy okozati összefüggésben áll az úszólétesítmény működésével,
+mb) személy úszólétesítményről eltűnik,
 
-mc) az úszólétesítmény ténylegesen vagy feltételezhetően eltűnik, vagy az úszólétesítményen tartózkodók az úszólétesítmény elhagyására kényszerülnek,
+mc) az úszólétesítmény ténylegesen vagy feltételezhetően eltűnik, az úszólétesítmény elsüllyed vagy az úszólétesítményen tartózkodó személyek az életük megóvása érdekében az úszólétesítmény elhagyására kényszerülnek,
 
-md) az úszólétesítményben anyagi kár keletkezik,
+md) az úszólétesítményben olyan kár keletkezik, amely jelentős hatással van az úszólétesítmény fő szerkezeti elemeire, teljesítményére vagy működési jellemzőire, és a kár fő komponens vagy komponensek nagyjavítását vagy cseréjét teszi szükségessé vagy az úszólétesítmény megsemmisülésével jár,
 
-me) az úszólétesítmény megfeneklik, üzemképtelenné vagy ütközés részesévé válik,
+me) az úszólétesítmény hajóútban megfeneklik, üzemképtelenné vagy ütközés részesévé válik,
 
-mf) olyan anyagi kár keletkezik, amely az úszólétesítmény működésével kapcsolatba vagy okozati összefüggésbe hozható, vagy
+mf) olyan kár keletkezik az úszólétesítményen kívüli víziközlekedési infrastruktúrában, amely súlyosan veszélyeztetheti a balesetben érintett úszólétesítmény vagy más úszólétesítmény biztonságát, vagy bármely személy életét, és amely a víziközlekedési infrastruktúra megsemmisülésével jár, vagy jelentős hatással van a víziközlekedési infrastruktúra fő szerkezeti elemeire, teljesítményére vagy működési jellemzőire, és a kár fő komponens vagy komponensek nagyjavítását vagy cseréjét teszi szükségessé, vagy
 
-mg) olyan környezetszennyezés keletkezik, amely az úszólétesítmény működésével kapcsolatba vagy okozati összefüggésbe hozható;
+mg) az úszólétesítményt vagy úszólétesítményeket ért kár következtében az érintett állam vagy államok, illetve a lajstromozó állam megítélése szerint jelentős környezeti kár, valamint Magyarország területén a természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló kormányrendelet szerinti természetben okozott károsodás keletkezik,
 
-n) víziközlekedési esemény: víziközlekedési balesetnek nem minősülő, az úszólétesítmény működésével kapcsolatba vagy okozati összefüggésbe hozható, az úszólétesítményt vagy bármely személy életét veszélyeztető, továbbá az úszólétesítményt, a víziút műtárgyát, vagy a környezetet súlyos kár bekövetkezésével fenyegető esemény;
+n) víziközlekedési esemény: víziközlekedési balesetnek nem minősülő, az úszólétesítmény működésével kapcsolatban lévő, olyan – nem szándékos emberi magatartásra visszavezethető – esemény vagy eseménysorozat, amely veszélyezteti vagy veszélyeztetheti az úszólétesítmény biztonságát vagy bármely személy életét, illetve a környezetet;
 
 o) vizsgálóbizottság: a közlekedési baleset vagy egyéb közlekedési esemény vizsgálatára kijelölt bizottság vagy szakmai kivizsgáló;
 
@@ -84,30 +84,22 @@ pd) lábról induló repülés esetén akkor kezdődik, amikor a légijármű ve
 
 pe) vezető nélküli repülésre alkalmas légijármű esetén az irányítórendszer repültetés szándékával történő üzembe helyezésétől annak a tervezett feladat teljesítését követő szándékos üzemen kívül helyezéséig;
 
-q) biztonsági ajánlás: a közlekedésbiztonsági szerv által a szakmai vizsgálat során szerzett adatok alapján, a súlyos vasúti baleset, a vasúti baleset, a váratlan vasúti esemény, a nagyon súlyos víziközlekedési baleset, a súlyos víziközlekedési baleset, a víziközlekedési esemény (a továbbiakban együtt: vasúti és víziközlekedési balesetek és események) megelőzése céljából tett javaslat, biztonsági ajánlás, továbbá az Európai Bizottság által kiadott biztonsági ajánlás és az EU-rendelet szerinti biztonsági ajánlás is;
+q) biztonsági ajánlás: a közlekedésbiztonsági szerv által a szakmai vizsgálat során szerzett adatok alapján, a súlyos vasúti baleset, a vasúti baleset, a váratlan vasúti esemény, a nagyon súlyos víziközlekedési baleset, a víziközlekedési baleset, a víziközlekedési esemény (a továbbiakban együtt: vasúti és víziközlekedési balesetek és események) megelőzése céljából tett javaslat, biztonsági ajánlás, továbbá az Európai Bizottság által kiadott biztonsági ajánlás és az EU-rendelet szerinti biztonsági ajánlás is;
 
 r) üzemben tartó: a jármű, illetve az infrastruktúra működését szervező, fenntartó természetes vagy jogi személy, honvédelmi légijármű esetében a légijármű üzemeltetéséért felelős szervezet közvetlen szolgálati elöljárója. E törvény alkalmazásában az üzemben tartóra vonatkozó rendelkezéseket kell alkalmazni azon személy tekintetében is, akinek tevékenysége üzemben tartói engedélyhez nem kötött, illetve üzemben tartói engedélyének érvényessége lejárt, jogsértő módon vagy engedély nélkül folytatta tevékenységét.
 
 s) adatrögzítő: az úszólétesítményeken vagy vasúti járműveken lévő vagy az infrastruktúrához kapcsolódó minden olyan berendezés, amely kiolvasás után információt szolgáltathat a bekövetkezett közlekedési balesetről vagy egyéb közlekedési eseményről;
 
-t) súlyos víziközlekedési baleset: nagyon súlyos víziközlekedési balesetnek nem minősülő víziközlekedési baleset, így különösen a tűz, robbanás, ütközés, zátonyra futás, műtárggyal ütközés, időjárás okozta súlyos károsodás, jég okozta kár, az úszólétesítmény testének repedése, az úszólétesítmény testének feltételezett károsodása, amelynek eredményeként
+t)
 
-ta) főgép működésképtelenné válik, a lakótér jelentősen megrongálódik, vagy az úszólétesítmény szerkezete súlyosan károsodik (különösen az úszólétesítmény testének víz alatti része beszakad), és ez az úszólétesítményt üzemképtelenné teszi,
-
-tb) környezetszennyezés történik,
-
-tc) olyan meghibásodás keletkezik, amely parti segítséget vagy vontatást tesz szükségessé;
-
-u) nagyon súlyos víziközlekedési baleset: olyan víziközlekedési baleset, amelynek során
+u) nagyon súlyos víziközlekedési baleset: olyan víziközlekedési baleset, amely során
 
 ua) legalább egy személy életét veszti,
 
-ub) az úszólétesítmény eltűnik vagy megsemmisül,
+ub) az úszólétesítmény eltűnik vagy megsemmisül, vagy hajóútban elsüllyed,
 
-uc) jelentős környezetszennyezés következik be,
+uc) az érintett állam vagy államok, illetve a lajstromozó állam megítélése szerint jelentős környezeti kár keletkezik, valamint Magyarország területén a természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló kormányrendelet szerinti természetben okozott károsodás következik be, vagy
 
-ud) a hajóút teljesen vagy a víziközlekedést akadályozó módon részlegesen elzáródik,
-
-ue) az úszólétesítmény a víziút műtárgyait vagy a víziutat keresztező műtárgyakat megrongálja, vagy azok üzemképességüket részlegesen vagy teljesen elvesztik;
+ud) a víziút műtárgyainak megrongálódásával kapcsolatban részleges vagy teljes hajózási zárlatot rendeltek el;
 
 v) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.

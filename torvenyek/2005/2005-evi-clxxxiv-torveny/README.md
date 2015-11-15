@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-184-00-00
 | 2013-04-01 | 2013. évi XXIII. törvény | 2005-184-00-00.14 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2005-184-00-00.15 |
 | 2014-11-21 | 2014. évi LX. törvény | 2005-184-00-00.16 |
+| 2015-11-15 | 2015. évi CLXX. törvény | 2005-184-00-00.17 |
