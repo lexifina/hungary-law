@@ -1116,7 +1116,7 @@ b) ha a földi látástávolság kevesebb, mint 5 km.
 
 3.2. Éjszakai VFR repülések
 
-3.2.1. Napnyugta és napkelte között végrehajtott VFR repülésekhez a légijárműnek rendelkeznie kell az egyéb jogszabályban meghatározott felszerelésekkel és műszerekkel.
+3.2.1. Éjszakai VFR repülésekhez a légijárműnek rendelkeznie kell a külön jogszabályban meghatározott felszerelésekkel és műszerekkel. Éjszakai VFR repülésnek minősül a légiforgalmi irányítás ellátására kijelölt szerv által az AIP-ben közzétett napnyugta és napkelte táblázat alapján az esti szürkület vége és reggeli pirkadat kezdete között végrehajtott VFR repülés.
 
 3.2.2. Ellenőrzött légtérben, az éjszakai VFR repülésekhez a 3.1.1. pontban szereplő táblázatban megadott minimális körülmények szükségesek.
 
@@ -2472,13 +2472,11 @@ Megjegyzés: A Budapest FIR-ben történő FPL benyújtási szabályokat a 3.3.2
 
 – személyesen, FPL űrlap kitöltésével,
 
-– telefonon keresztül,
+– telefonon,
 
-– AFTN-en,
+– AFTN-en, SITA-n vagy
 
-– egyéb távközlési csatornán (pl. SITA) keresztül, vagy
-
-– faxon.
+– egyéb távközlési csatornán (pl. fax, elektronikus alkalmazás)
 
 3.3.1.4. A repülési terveket az átvevő egység FPL közlemény formájában továbbítja az érintettek számára. Az ATS egységeknél a kapott FPL közlemények feldolgozása javarészt automatikusan, számítógépes eszközökkel történik. Rendkívül fontos, hogy az FPL a szabályoknak megfelelően, szintaktikailag és logikailag helyesen, az előírt módon és formában legyen benyújtva.
 
@@ -2498,9 +2496,9 @@ A magyar üzemben tartók erről írásban kötelesek tájékoztatni a légiköz
 
 VFR vagy OAT repülések esetén ezen üzemben tartóknak is az alábbi (ii), (iii) vagy (iv) pontban leírt eljárásokat kell követniük:
 
-(ii) a Budapest Liszt Ferenc Nemzetközi Repülőtérről induló légijárműveknek lehetőségük van FPL-jeik benyújtására a Légiforgalmi szolgálatok bejelentő irodáján keresztül. Ezt személyesen, az FPL űrlap kitöltésével tehetik meg;
+(ii) a Budapest Liszt Ferenc Nemzetközi Repülőtérről induló légijárműveknek lehetőségük van FPL-jeik benyújtására a Légiforgalmi szolgálatok bejelentő irodáján keresztül;
 
-(iii) az AFIS egységgel rendelkező repülőterekről induló légijárművek vezetői FPL-t a repülőtéri repüléstájékoztató egységnél nyújthatnak be személyesen az FPL űrlap kitöltésével vagy telefonon;
+(iii) az AFIS egységgel rendelkező repülőterekről induló légijárművek vezetői FPL-t a repülőtéri repüléstájékoztató egységnél nyújthatnak be személyesen az FPL űrlap kitöltésével, vagy telefonon;
 
 (iv) az AFIS egységgel nem rendelkező repülőtérről tervezett indulás esetén a légijármű vezetőjének a repülési tervet telefonon vagy telefaxon kell továbbítania:
 
@@ -2510,7 +2508,9 @@ VFR vagy OAT repülések esetén ezen üzemben tartóknak is az alábbi (ii), (i
 
 számára.
 
-Amennyiben a repülési tervet telefaxon nyújtották be, a „benyújtotta” rovatban fel kell tüntetni a feladó elérhetőségi telefonszámát arra az esetre, ha például a benyújtott repülési terv nem dolgozható fel.
+Az (ii)–(iv) pontban meghatározott esetekben a repülési terveket az erre a célra kialakított elektronikus alkalmazással is be lehet nyújtani.
+
+Amennyiben a repülési tervet telefaxon vagy az erre a célra kialakított elektronikus alkalmazással nyújtották be, a „benyújtotta” rovatban fel kell tüntetni a feladó elérhetőségi telefonszámát arra az esetre, ha a benyújtott repülési terv nem dolgozható fel.
 
 3.3.2.2. Írásban történő benyújtás esetén külön erre a célra szolgáló formanyomtatványt (FPL űrlap) kell használni és ezt – a telefaxon történő benyújtás esetét kivéve – két példányban kell kitölteni.
 
@@ -2518,7 +2518,7 @@ Megjegyzés: Az FPL űrlap kitöltésére vonatkozó előírásokat jelen függe
 
 3.3.2.3. Kiegészítő tájékoztatások (19. rovat megadása)
 
-Írásban vagy telefonon benyújtott FPL-ek esetén a kiegészítő tájékoztatásokat is meg kell adni.
+Írásban, telefonon vagy az erre a célra kialakított elektronikus alkalmazással benyújtott FPL-ek esetén a kiegészítő tájékoztatásokat is meg kell adni.
 
 AFIL benyújtása esetén az ATS egységek nem minden esetben kérik a kiegészítő repülési tervadatokat, a légijármű vezetője azonban bármikor közölheti ezeket.
 
@@ -3948,46 +3948,6 @@ REPETITIVE FLIGHT PLAN LISTING
 
 „F” Függelék
 
-NAPKELTE-NAPNYUGTA TÁBLÁZAT
-
-|  | JANUÁR | FEBRUÁR | MÁRCIUS | ÁPRILIS | MÁJUS | JÚNIUS |
-
-|  | NK | NNY | NK | NNY | NK | NNY | NK | NNY | NK | NNY | NK | NNY |
-
-| 01 | 06:32 | 15:03 | 06.12 | 15.43 | 05.25 | 16.28 | 04.23 | 17.13 | 03.28 | 17.55 | 02.51 | 18.33 |
-
-| 05 | 06.32 | 15.07 | 06.07 | 15.50 | 05.17 | 16.34 | 04.15 | 17.19 | 03.21 | 18.01 | 02.49 | 18.37 |
-
-| 10 | 06.31 | 15.12 | 06.00 | 15.58 | 05.08 | 16.42 | 04.05 | 17.26 | 03.14 | 18.08 | 02.47 | 18.40 |
-
-| 15 | 06.28 | 15.19 | 05.52 | 16.05 | 04.58 | 16.49 | 03.56 | 17.33 | 03.07 | 18.14 | 02.46 | 18.43 |
-
-| 20 | 06.25 | 15.25 | 05.43 | 16.13 | 04.48 | 16.56 | 03.47 | 17.40 | 03.01 | 18.20 | 02.47 | 18.45 |
-
-| 25 | 06.20 | 15.33 | 05.34 | 16.21 | 04.37 | 17.03 | 03.38 | 17.47 | 02.56 | 18.26 | 02.48 | 18.46 |
-
-|  | JÚLIUS | AUGUSZTUS | SZEPTEMBER | OKTÓBER | NOVEMBER | DECEMBER |
-
-|  | NK | NNY | NK | NNY | NK | NNY | NK | NNY | NK | NNY | NK | NNY |
-
-| 01 | 02.51 | 18.45 | 03.22 | 18.19 | 04.03 | 17.26 | 04.43 | 16.25 | 05.28 | 15.28 | 06.11 | 14.56 |
-
-| 05 | 02.53 | 18.44 | 03.27 | 18.14 | 04.08 | 17.18 | 04.48 | 16.17 | 05.34 | 15.22 | 06.16 | 14.54 |
-
-| 10 | 02.57 | 18.42 | 03.33 | 18.06 | 04.15 | 17.08 | 04.55 | 16.07 | 05.41 | 15.15 | 06.21 | 14.53 |
-
-| 15 | 03.02 | 18.38 | 03.40 | 17.58 | 04.21 | 16.58 | 05.03 | 15.58 | 05.09 | 15.09 | 06.25 | 14.54 |
-
-| 20 | 03.07 | 18.34 | 03.47 | 17.49 | 04.28 | 16.48 | 05.10 | 15.48 | 05.56 | 15.04 | 06.29 | 14.55 |
-
-| 25 | 03.13 | 18.28 | 03.53 | 17.40 | 04.35 | 16.37 | 05.17 | 15.40 | 06.03 | 14.59 | 06.31 | 14.58 |
-
-A fenti időértékek Budapestre (472600 É 0191400 K) vonatkoznak.
-
-Az ország északi és déli területei közötti különbséget nem kell figyelembe venni.
-
-A keleti és nyugati területek között az időkülönbségek az alábbi ábra alapján határozhatók meg:
-
 „G” Függelék
 
 MÉRTÉKEGYSÉGEK
@@ -5114,5 +5074,145 @@ Azon repülések, amelyek GAT szabályoktól eltérő – a katonai légügyi ha
 
 141. Nem ellenőrzött légtér – Uncontrolled airspace
 
+Mindazon légtér, amelyben légiforgalmi irányító szolgálatot nem nyújtanak.
+
+142. Nem ellenőrzött repülőtér – Uncontrolled aerodrome
+
+Olyan repülőtér, ahol légiforgalmi irányító szolgálatot nem nyújtanak.
+
+143. Nemzetközi NOTAM iroda – International NOTAM office
+
+NOTAM-ok nemzetközi cseréjére az állam által kijelölt iroda.
+
+Megjegyzés: Budapest FIR-ben a nemzetközi NOTAM iroda a HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság Légitájékoztató Osztályának szervezetébe tartozik.
+
+144. Nemzetközi repülés – International flight
+
+Államhatárt keresztező repülés.
+
+145. Nemzetközi Repülési Távközlési Társaság (SITA) – Societe Internationale de Telecommunications Aeronautiques (SITA)
+
+A légitársaságok által használt világméretű távközlési és adatátviteli rendszer, amelyet többek között a repülőtéri kiszolgálás, helyfoglalás, jegykiállítás és teljes repülőtéri utas felvétel adatcseréjére használnak.
+
+146. NOTAM
+
+Bármely légiforgalmi berendezés, szolgálat, eljárás létesítéséről, állapotáról, változásáról vagy veszély fennállásáról szóló értesítés, amelynek idejében való ismerete elengedhetetlenül szükséges a repülésben érdekelt személyzet részére. Az értesítés szétosztása távközlési eszközökkel történik.
+
+147. Nyomás-magasság – Pressure altitude
+
+Tengerszint feletti magasságértékben kifejezett légnyomás érték, amely megfelel az Egyezményes Légkörben ugyanilyen nyomás értéknek.
+
+148. Nyomtatott formájú közleményváltás – Printed communication
+
+Közleményváltás, amelynél az áramkör mindkét végén automatikusan maradandó, nyomtatott feljegyzés készül az áramkörön áthaladó összes közleményről.
+
+149. Oldalirányú elkülönítés – Lateral separation
+
+Légijárművek közötti elkülönítés repülési útirányuk/útvonaluk távolságában, vagy útirányuk/útvonaluk közötti szög-eltérésben kifejezve.
+
+150. Összeütközési veszélyt jelző fedélzeti rendszer – Airborne collision avoidance system (ACAS)
+
+Másodlagos légtér ellenőrző radar (SSR) transzponder jelein alapuló, a földi berendezésektől függetlenül működő légijármű fedélzeti rendszer, mely a lehetséges összeütközési veszélyt jelentő, SSR transzponderrel felszerelt légijárművek közelségére hívja fel a légijárművezető figyelmét, és tanáccsal szolgál a veszély elkerülésére vonatkozóan.
+
+151. Pszihoaktív anyagok – Psychoactive substances
+
+Alkohol, ópium, kannabisz származékok, nyugtatók és altató szerek, kokain és egyéb más élénkítők – a kávé és a dohány kivételével – hallucinogén és illékony oldó anyagok.
+
+152. QFE
+
+A repülőtér meghatározott helyén észlelt légnyomás jelzésére használatos kódszó.
+
+153. QNH
+
+A tengerszintre átszámított légnyomás jelzésére használatos kódszó.
+
+154. Radar
+
+Az a rádiófelderítő eszköz, amely a tárgyak távolságára, irányára és/vagy magasságára vonatkozó információt ad.
+
+155. Radarelkülönítés – Radar separation
+
+Elkülönítés, amelyet abban az esetben alkalmaznak, amikor a légijárművek helyzetét radar segítségével határozzák meg.
+
+156. Radarellenőrzés – Radar monitoring
+
+A radar felhasználása arra a célra, hogy a légijárműveknek az előírt repülési útvonaltól történt jelentős eltérések esetén tájékoztatást és tanácsot adjanak.
+
+157. Radarirányítás – Radar control
+
+Annak jelzésére használatos kifejezés, hogy a radartól származó információt a légiforgalmi irányító szolgálat ellátására közvetlenül használják fel.
+
+158. Radarirányító – Radar controller
+
+Olyan szakképzett légiforgalmi irányító, aki rendelkezik azon feladatoknak megfelelő radarjogosítással, amelyekre őt kijelölték.
+
+159. Radar nélküli elkülönítés (eljárás elkülönítés) – Non-radar separation (procedure separation)
+
+Elkülönítés, amelyet abban az esetben alkalmaznak, ha a légijármű helyzetére vonatkozó tájékoztatás nem radartól származik.
+
+160. Rádió-távbeszélés – Radiotelephony
+
+Olyan rádió-távközlési módszer, amelynek során a tájékoztatás csere elsősorban szóbeli közleményváltással történik.
+
+161. REJ közlemény – REJ message
+
+Közlemény sikertelen feldolgozását és ezért annak visszautasítását jelző válaszközlemény, amelyet az EUROCONTROL IFPS egysége továbbít a számára eljuttatott közlemény feladójának.
+
+162. Rendeltetési repülőtér – Destination aerodrome
+
+Az a repülőtér, ahova a légijármű vezetője a repülés végrehajtása során első leszállását tervezi.
+
+163. Repülésbiztonságát közvetlenül befolyásoló személyzet – Safety-sensitive personnel
+
+A hajózó személyzet tagjain, a légijárművet karbantartó személyzeten, valamint a légiforgalmi irányítókon túlmenően, olyan személyek, akik veszélyeztethetik a légiközlekedés biztonságát, amennyiben szolgálatukat és feladataikat nem szabályszerűen látják el.
+
+164. Repülési adatok – Flight data
+
+A légijármű tényleges, vagy tervezett mozgására vonatkozó adatok, amelyeket rendszerint kódolt, vagy rövidített formában tüntetnek fel.
+
+165. Repülési látástávolság – Flight visibility
+
+Levegőben lévő légijármű pilótakabinjából előre mért látástávolság.
+
+166. Repülési szabályok – Flight rules
+
+Látvarepüléssel, vagy műszer szerinti repüléssel végrehajtott repülésekre vonatkozó előírások összessége.
+
+167. Repülési szint (FL) – Flight level (FL)
+
+Meghatározott nyomásalaphoz, az 1013,2 hPa légnyomáshoz viszonyított állandó légnyomású felület, amelyet a más, ugyanilyen felületektől meghatározott légnyomás különbségek választanak el.
+
+1. Megjegyzés: Az Egyezményes Légkörnek megfelelően kalibrált barometrikus magasságmérő:
+
+a) QNH magasságmérő beállítási értékre állítva tengerszint feletti magasságot mutat;
+
+b) QFE magasságmérő beállítási értékre állítva a QFE vonatkozási alap feletti magasságot mutatja;
+
+c) 1013,2 hPa nyomásértékre beállítva a repülési szintek jelzésére használható.
+
+2. Megjegyzés: Az 1. Megjegyzésben használt magasság és tengerszint feletti magasság kifejezések barometrikus, nem pedig geometrikus magasságot jelentenek.
+
+168. Repülési terv (FPL; RPL; AFIL) – Flight plan (FPL, RPL, AFIL)
+
+A légiforgalmi szolgálati egységek rendelkezésére bocsátott, a légijármű tervezett repülésére, vagy repülésének egy szakaszára vonatkozó meghatározott tájékoztatás.
+
+169. Repülési tervadatok – Flight plan data
+
+A repülési tervből feldolgozás, megjelenítés, vagy továbbítás céljából kiválasztott adatok.
+
+170. Repüléstájékoztatás – Flight information
+
+A repülés biztonságos és hatékony vezetéséhez hasznos tájékoztatások adása, beleértve a légiforgalomra, a meteorológiai körülményekre, a repülőtéri állapotokra, vagy a légiútvonali létesítményekre vonatkozó tájékoztatásokat.
+
+171. Repüléstájékoztató körzet (FIR) – Flight information region (FIR)
+
+Meghatározott kiterjedésű légtér, amelyben repüléstájékoztató és riasztószolgálatot nyújtanak.
+
+172. Repüléstájékoztató központ (FIC) – Flight information centre (FIC)
+
+Repüléstájékoztató, légiforgalmi tanácsadó és riasztószolgálat ellátására létesített egység.
+
+173. Repüléstájékoztató szolgálat (FIS) – Flight information service (FIS)
+
 [^3]: A 3. §-t a 29/2008. (X. 30.) KHEM rendelet 1. §-a iktatta be.
-[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja, a 6/2013. (II. 22.) NFM rendelet 1. §-a, a 15/2014. (IV. 3.) NFM rendelet 1. §-a, a 4/2015. (II. 3.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja, a 6/2013. (II. 22.) NFM rendelet 1. §-a, a 15/2014. (IV. 3.) NFM rendelet 1. §-a, a 4/2015. (II. 3.) NFM rendelet 1. §-a, a 65/2015. (XI. 13.) NFM rendelet 1. §-a szerint módosított szöveg.
