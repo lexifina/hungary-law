@@ -1792,7 +1792,7 @@
 
 | Közelkörzeti és műszeres megközelítési eljárások töréspontjainak távolsága | 1/100 km számított | fontos 1 x 10-5 |
 
-2. számú melléklet a 16/2000. (XI. 22.) KöViM rendelethez[^6]
+2. számú melléklet a 16/2000. (XI. 22.) KöViM rendelethez[^7]
 
 A LÉGIFORGALMI SZOLGÁLATOK ELJÁRÁSAI
 
@@ -2926,25 +2926,7 @@ A 6. Fejezet 6.3.2 és 6.5.1.5 pontjában a szabvány indulási és érkezési e
 
 4.5.7.4.3 Amikor a 4.5.7.4.2 pontban leírtaknak megfelelően alternatív útvonalat ajánlanak fel és azt a hajózó személyzet elfogadja, a kiadott, módosított engedélyben az új útvonalat úgy kell megadni, hogy abba belefoglalják azt a pontot, ahol a légijármű visszatér a korábban engedélyezett útvonalára. Amennyiben a légijármű a továbbiakban nem csatlakozik a korábbi útvonalára, akkor a módosított engedélyt a rendeltetési repülőtérig kell kiadni.
 
-4.5.7.5 Engedélyek visszaismétlése
-
-4.5.7.5.1 A hajózó személyzetnek vissza kell ismételnie a légiforgalmi irányító számára az ATC engedélyek és utasítások beszédüzemű összeköttetések során továbbított, a biztonsággal összefüggő részeit. Mindig vissza kell ismételni az alábbi elemeket:
-
-a) ATC útvonal engedélyeket;
-
-b) bármely futópályára történő rágurulásra, leszállásra, felszállásra, futópálya előtti várakozásra, futópálya keresztezésre és a futópályán történő visszafordulásra vonatkozó engedélyeket és utasításokat; és
-
-c) a használatos futópályát, a magasságmérő beállításokat, SSR kódokat, magassági utasításokat, géptengely irány – és sebességi utasításokat, és az irányító által továbbított, vagy az ATIS adásba foglalt átváltási szinteket.
-
-Megjegyzés: Amikor egy légijármű magasságát 1013,2 hPa szabvány légnyomás értékhez képest fejezik ki, akkor a magasságot jelző számjegyeket a „REPÜLÉSI SZINT” szavaknak kell követnie. Amikor egy légijármű magasságát a QNH vagy QFE magasságmérő beállítás szerint fejezik ki, akkor a magasságot jelző adatok után a LÁB vagy MÉTER – amelyik a megfelelő – szót kell alkalmazni.
-
-4.5.7.5.1.1 A többi engedélyt vagy utasítást – beleértve a feltételes engedélyeket is – vissza kell ismételni, vagy olyan módon kell nyugtázni, hogy az egyértelműen mutassa, hogy az engedélyt vagy utasítást vették és aszerint fognak eljárni.
-
-4.5.7.5.2 Az irányítónak figyelnie kell a visszaismétlésre, meggyőződve, hogy a hajózó személyzet helyesen nyugtázta-e az engedélyt, vagy utasítást és azonnal helyesbítenie kell a visszaismétlésben lévő bármely pontatlanságot.
-
-4.5.7.5.2.1 A CPDLC közleményeket beszéd üzemű összeköttetésekben nem kell visszaismételni.
-
-Megjegyzés: A CPDLC közlemények cseréjére és nyugtázására vonatkozó eljárásokat és előírásokat a 10. Annex II. Kötete és jelen előírás 14. Fejezete tartalmazza.
+4.5.7.5
 
 4.6 VÍZSZINTES SEBESSÉGSZABÁLYOZÁSRA VONATKOZÓ UTASÍTÁSOK
 
@@ -4932,4 +4914,10 @@ c) értesítenie kell az „S” módot azonosítási célra felhasználó köve
 
 Ezen értékek elérésekor, vagy ezeket meghaladó eltérés esetén az irányítók kérhetik a „C” módú információ adásának megszüntetését.
 
-[^6]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a, a 15/2014. (IV. 3.) NFM rendelet 2. §-a, a 4/2015. (II. 3.) NFM rendelet 2. § b) pontja szerint módosított szöveg.
+Megjegyzés: Amennyiben a transzponder műszaki sajátosságai következtében a „C” mód kikapcsolása az „A” módú üzemet is megszakítja, erre a légijármű vezetőjének figyelmeztetnie kell az irányítót.
+
+8.5.4.1.2 Az irányító számára megjelenített „C” módtól származó magasság tájékoztatás pontosságát minden megfelelően felszerelt ATC egység, legalább egyszer ellenőrizze az érintett légijárművel való első összeköttetés felvételekor, vagy ha ez nem megvalósítható, utána amilyen hamar csak lehetséges. Az ellenőrzés ugyanezen légijárműtől rádiótávbeszélőn kapott, magasságmérőtől származó magasság tájékoztatással való egyidejű összehasonlítás útján történjen. Azon légijármű vezetőjét, akinek „C” módtól származó magasság tájékoztatása a jóváhagyott tűrésértéken belül van, az ilyen ellenőrzés eredményéről nem kell tájékoztatni.
+
+8.5.4.1.3 Ha a megjelenített magasság tájékoztatás nincs a jóváhagyott tűrésértéken belül, vagy ha az ellenőrzés végrehajtása után a későbbiek során bármikor a jóváhagyott tűrésértéket meghaladó eltérést észlelnek, a légijárművezetőt erről értesíteni kell, és fel kell kérni, hogy ellenőrizze a nyomás beállítását és erősítse meg magasságát.
+
+[^7]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a, a 15/2014. (IV. 3.) NFM rendelet 2. §-a, a 4/2015. (II. 3.) NFM rendelet 2. § b) pontja, a 65/2015. (XI. 13.) NFM rendelet 4. § a) pontja szerint módosított szöveg.
