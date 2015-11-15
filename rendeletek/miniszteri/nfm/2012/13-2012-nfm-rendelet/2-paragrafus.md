@@ -8,7 +8,7 @@
 
 2. egyszerű alkatrész: szerkezetileg egyszerűen kialakított, mozgó elemet nem tartalmazó, önmagában nem működtethető szerkezeti elem vagy szerelt egység,
 
-3.[^2] egyszerű könnyű légijármű: vitorlázó repülőgép, motoros vitorlázó repülőgép vagy 2000 kg-ot nem meghaladó maximális felszálló tömegű, nem hermetizált, dugattyús motorral felszerelt repülőgép,
+3.[^4] egyszerű könnyű légijármű: vitorlázó repülőgép, motoros vitorlázó repülőgép vagy 2000 kg-ot nem meghaladó maximális felszálló tömegű, nem hermetizált, dugattyús motorral felszerelt repülőgép,
 
 4. felelős vezető: olyan személy, aki a szervezet felhatalmazása alapján felel azért, hogy minden képzési kötelezettséget finanszírozzanak, és e rendelet előírásainak megfelelően valósítsanak meg,
 
@@ -22,4 +22,4 @@
 
 9. szakszolgálati engedély felfüggesztése: a szakszolgálati engedéllyel rendelkező a szakszolgálati engedélyéhez kapcsolódó jogosultságokat a légiközlekedési hatóság által meghatározott feltételek teljesüléséig nem gyakorolhatja.
 
-[^2]: A 2. § 3. pontja a 41/2012. (VII. 13.) NFM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § 3. pontja a 41/2012. (VII. 13.) NFM rendelet 2. §-ával megállapított szöveg.

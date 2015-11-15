@@ -6,7 +6,7 @@ a) rendelkezik a tanfolyam vagy a vizsga lebonyolításához szükséges, a 2042
 
 b) rendelkezik a légiközlekedési hatóság által jóváhagyott eljárásokkal a
 
-ba)[^7] a tanfolyam vagy a vizsga szervezésére és lebonyolítására,
+ba)[^9] a tanfolyam vagy a vizsga szervezésére és lebonyolítására,
 
 bb) oktatási vagy vizsga helyiség, oktatási eszközök és szemléltető eszközök biztosítására, és
 
@@ -28,4 +28,4 @@ b) felelős vezető személy nevét.
 
 (4) A légiközlekedési hatóság a kiadott engedélyekről nyilvántartást vezet.
 
-[^7]: A 26. § (1) bekezdés b) pont ba) alpontja a 41/2012. (VII. 13.) NFM rendelet 5. §-a szerint módosított szöveg.
+[^9]: A 26. § (1) bekezdés b) pont ba) alpontja a 41/2012. (VII. 13.) NFM rendelet 5. §-a szerint módosított szöveg.

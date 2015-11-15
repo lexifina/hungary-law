@@ -2,7 +2,7 @@
 
 ## 28. Az Európai Unió jogának való megfelelés
 
-38. § (1)[^14] A 33. § (2) bekezdés
+38. § (1)[^16] A 33. § (2) bekezdés
 
 a) a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet,
 
@@ -14,4 +14,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) A II–IV. Fejezet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^14]: A 38. § (1) bekezdés záró szövegrésze a 41/2012. (VII. 13.) NFM rendelet 5. §-a szerint módosított szöveg.
+[^16]: A 38. § (1) bekezdés záró szövegrésze a 41/2012. (VII. 13.) NFM rendelet 5. §-a szerint módosított szöveg.
