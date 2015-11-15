@@ -16,7 +16,9 @@ f) az egészségügyi dolgozóval szemben folyamatban lévő etikai eljárás so
 
 g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervek a törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
 
-h) halottvizsgálat során a halottvizsgálatot végző orvos.
+h) halottvizsgálat során a halottvizsgálatot végző orvos,
+
+i) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben, valamint a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendeletben meghatározott szakmai vizsgálat során a közlekedésbiztonsági szerv.
 
 (2) A megkeresésben az adatkezelés pontos célját és a kért adatok körét meg kell jelölni.
 
