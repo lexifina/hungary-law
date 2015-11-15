@@ -6,7 +6,7 @@
 
 2. ballon: olyan, a levegőnél könnyebb, erőgép meghajtással nem rendelkező légijármű, amely meleg levegővel vagy gázzal töltött (ún. free balloon);
 
-3. ejtőernyő: olyan, a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 12. § (1) bekezdése szerinti személyzet által vezetett egyéb repülőeszköz, amelynek kormányzása aerodinamikai módon történik, a szárny alakját az áramlás biztosítja, alkalmas szabadesésben történő nyitásra, vezetője a szárnyon több felfüggesztési ponthoz csatlakozik (ún. parachute);
+3.[^1] ejtőernyő: olyan repülőeszköz, amelynek kormányzása aerodinamikai módon történik, a szárny alakját az áramlás biztosítja, alkalmas szabadesésben történő nyitásra, vezetője a szárnyon több felfüggesztési ponthoz csatlakozik (ún. parachute);
 
 4. folyamatos légialkalmasság: mindazon folyamatok összessége, amelyek biztosítják, hogy a légijármű a teljes élettartama alatt megfeleljen a légialkalmassági követelményeknek és azt, hogy a légijármű biztonságosan üzemeltethető legyen;
 
@@ -52,15 +52,15 @@ e) a személyzetek továbbképzése olyan speciális jellemzőjű, kialakítás�
 
 20. repülőgép: hajtóművel felszerelt, levegőnél nehezebb légijármű, amely a repüléshez szükséges felhajtóerőt főleg aerodinamikai erőkből nyeri, amely erők olyan felületeken keletkeznek, melyek adott repülési körülmények között rögzítettek;
 
-21. sárkányrepülő eszköz: olyan, személyzet által vezetett egyéb repülőeszköz, amelynek kormányzása súlypontáthelyezéssel vagy súlypontáthelyezéssel és aerodinamikai kormányzással együttesen történik, a szárny alakjának megtartására belső merevítő vázszerkezet szolgál, vezetője a szárnyon egyetlen felfüggesztési ponthoz csatlakozik (ún. hangglider);
+21.[^2] sárkányrepülő eszköz: olyan repülőeszköz, amelynek kormányzása súlypontáthelyezéssel vagy súlypontáthelyezéssel és aerodinamikai kormányzással együttesen történik, a szárny alakjának megtartására belső merevítő vázszerkezet szolgál, vezetője a szárnyon egyetlen felfüggesztési ponthoz csatlakozik (ún. hangglider);
 
 22. segédmotoros siklóernyő: segédmotorral felszerelt, lábról vagy kocsiszerkezetről (ún. trike) indítható siklóernyő (ún. powered parachutes/powered paraglider);
 
 23. segédmotoros sárkányrepülő eszköz: segédmotorral felszerelt, lábról vagy kocsiszerkezetről (ún. trike) indítható sárkányrepülő (ún. powered hangglider);
 
-24. siklóernyő: olyan, személyzet által vezetett egyéb repülőeszköz, amelynek kormányzása aerodinamikai vagy súlypont áthelyezéses módon külön és együttesen is lehetséges, a szárny alakját az áramlás biztosítja, szabadesésben történő nyitásra nem alkalmas, vezetője a szárnyon több felfüggesztési ponthoz csatlakozik (ún. paraglider);
+24.[^3] siklóernyő: olyan repülőeszköz, amelynek kormányzása aerodinamikai vagy súlypont áthelyezéses módon külön és együttesen is lehetséges, a szárny alakját az áramlás biztosítja, szabadesésben történő nyitásra nem alkalmas, vezetője a szárnyon több felfüggesztési ponthoz csatlakozik (ún. paraglider);
 
-25. siklórepülő eszköz: az Lt. 12. § (1) bekezdése szerinti személyzet által vezetett egyéb repülőeszköz, amely lehet sárkányrepülő eszköz vagy siklóernyő;
+25.[^4] siklórepülő eszköz: repülőeszköz, amely lehet sárkányrepülő eszköz vagy siklóernyő;
 
 26. súlyos veszélyes helyzet: a légijármű olyan meghibásodása, zavara, hibája, vagy a légijárművel kapcsolatban bekövetkező olyan esemény, amely a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendeletben meghatározott súlyos repülőesemény bekövetkezéséhez vezethet;
 
@@ -73,3 +73,8 @@ e) a személyzetek továbbképzése olyan speciális jellemzőjű, kialakítás�
 30. ultrakönnyű légijármű: a 216/2008/EK rendelet II. Melléklet e) pontjában meghatározott légijármű, kivéve a sárkányrepülő eszköz és az egyszemélyes, vagy 300 kg legnagyobb felszálló tömeget el nem érő légijárművet;
 
 31. vitorlázó-repülőgép: erőgép meghajtással nem, vagy kiegészítő motorral és légcsavarral rendelkező, levegőnél nehezebb légijármű, amely repülés közben a felhajtóerőt elsősorban a repülés adott szakaszaiban rögzített helyzetben maradó felületeire ható aerodinamikai reakciók révén nyeri (ún. glider).
+
+[^1]: A 2. § 3. pontja a 65/2015. (XI. 13.) NFM rendelet 11. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 21. pontja a 65/2015. (XI. 13.) NFM rendelet 11. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § 24. pontja a 65/2015. (XI. 13.) NFM rendelet 11. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 25. pontja a 65/2015. (XI. 13.) NFM rendelet 11. § c) pontja szerint módosított szöveg.

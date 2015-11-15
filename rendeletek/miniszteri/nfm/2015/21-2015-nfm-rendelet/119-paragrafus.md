@@ -8,7 +8,7 @@
 
 119. § (1) A repülőeszköz karbantartását – a 114. § (2) bekezdésre tekintettel, és a (2) bekezdésben meghatározott eltéréssel – a repülőeszköz tulajdonosa, a repülőeszköz gyártó- vagy karbantartó szervezet jogosult elvégezni.
 
-(2)[^6]
+(2)[^10]
 
 (3) A repülőeszköz tulajdonosának felelőssége, hogy megismerje a repülőeszközre vonatkozó karbantartási gyakorlatot és előírásokat.
 
@@ -26,4 +26,4 @@ c) az alkalmasság fenntartására alkalmazandó, a gyártó által megadott kez
 
 (7) Az elvégzett karbantartást a repülőeszköz törzskönyvébe be kell jegyezni.
 
-[^6]: A 119. § (2) bekezdése a 138. § (2) bekezdés e) pontja alapján 2017. január 1-jén lép hatályba.
+[^10]: A 119. § (2) bekezdése a 138. § (2) bekezdés e) pontja alapján 2017. január 1-jén lép hatályba.

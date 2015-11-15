@@ -1,4 +1,4 @@
-## 140. §[^7]
+## 140. §[^11]
 
 1. melléklet a 21/2015. (V. 4.) NFM rendelethez
 
@@ -296,4 +296,4 @@
 
 | 77. |  |  | A motor- és a hajtóműolaj cseréje, utántöltése. | Nem | Igen | Igen |
 
-[^7]: A 140. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 140. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
