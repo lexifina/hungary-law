@@ -2,6 +2,6 @@
 
 139. § (1) A bv. bíró az illetékes ügyész indítványára soron kívül dönt a Btk. 69. § (1) bekezdése alapján pártfogó felügyelet alá helyezett pártfogó felügyeletének a megszüntetéséről, vagy az indítvány elutasításáról, ha a pártfogó felügyelet fele része, de legalább egy év eltelt és annak szükségessége már nem áll fenn [Btk. 70. § (3) bekezdés].
 
-(2)[^40] A bv. bíró a határozatát megküldi az elítéltnek, az ügyésznek és a végrehajtásra illetékes kormányhivatalnak vagy a büntetés-végrehajtási pártfogó felügyelőnek.
+(2)[^58] A bv. bíró a határozatát megküldi az elítéltnek, az ügyésznek és a végrehajtásra illetékes kormányhivatalnak vagy a büntetés-végrehajtási pártfogó felügyelőnek.
 
-[^40]: A 139. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § c) pontja szerint módosított szöveg.
+[^58]: A 139. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § c) pontja szerint módosított szöveg.

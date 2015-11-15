@@ -30,6 +30,6 @@
 
 ## A büntetés-végrehajtási intézet megkeresése előállítás végett.
 
-37. melléklet a 11/2014. (XII. 13.) IM rendelethez[^53]
+37. melléklet a 11/2014. (XII. 13.) IM rendelethez[^77]
 
-[^53]: A 37. melléklet a 6/2015. (III. 30.) IM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^77]: A 37. melléklet a 6/2015. (III. 30.) IM rendelet 9. § (3) bekezdésével megállapított szöveg.

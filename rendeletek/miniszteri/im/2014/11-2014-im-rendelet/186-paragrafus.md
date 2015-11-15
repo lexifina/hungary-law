@@ -1,4 +1,4 @@
-## 185. §[^50]
+## 185. §[^73]
 
 ## 90. Átmeneti rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Akit a Büntető Törvénykönyvről szóló 1978. évi IV. törvény alapján részben felfüggesztett szabadságvesztésre ítéltek, arra a 9/2002. (IV. 9.) IM rendelet 2013. június 30-án hatályban volt, a részben felfüggesztett szabadságvesztésre vonatkozó rendelkezéseit és mellékleteit továbbra is alkalmazni kell.
 
-[^50]: A 185. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 185. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

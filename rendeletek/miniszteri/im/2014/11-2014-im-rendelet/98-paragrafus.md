@@ -10,4 +10,6 @@ b) amelyet az előzetes fogvatartással, vagy házi őrizettel kitöltöttnek ve
 
 (3) A bíróság az I. és a II. jelzésű értesítőlapot az illetékes bv. csoportnak küldi meg.
 
-(4) Ha a bíróság az elítéltet a foglalkozás gyakorlásától, a járművezetéstől végleges hatállyal eltiltotta, a I. jelzésű foglalkozástól eltiltásról vagy járművezetéstől eltiltásról kiállított értesítőlapot a 97. § (2) vagy (3) bekezdése szerinti hatóságnak küldi meg, és a bv. csoportnak csak II. jelzésű foglalkozástól eltiltásról vagy járművezetéstől eltiltásról kiállított értesítőlapot küld.
+(4)[^44] Ha a bíróság az elítéltet a járművezetéstől végleges hatállyal tiltotta el, az I. jelzésű értesítőlapot a 97. § (4) bekezdése szerinti hatóságnak küldi meg, és a bv. csoportnak csak II. jelzésű értesítőlapot küld.
+
+[^44]: A 98. § (4) bekezdése a 33/2015. (XI. 6.) IM rendelet 11. §-ával megállapított szöveg.

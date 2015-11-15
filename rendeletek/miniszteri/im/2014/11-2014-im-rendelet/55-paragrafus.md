@@ -10,7 +10,7 @@ b) az elítélt az előzetes fogvatartásban, illetve házi őrizetben töltött
 
 c) a fiatalkorú elítélt betöltötte-e a huszonegyedik életévét.
 
-(3) Ha a bv. bíró megállapítja, hogy az elzárás végrehajtásának nincs akadálya, az elítéltet felhívja az elzárás végrehajtásának megkezdésére. A felhívás tartalmazza azt, hogy az elítélt az elzárás végrehajtásának megkezdésére melyik bv. intézetben, milyen időpontban jelenjen meg. Ha az elítélt más törvényszék területén, vagy olyan helyen lakik vagy tartózkodik, ahonnan a távolság miatt megjelenése, illetőleg az elővezetése jelentős költséggel járna, a bv. csoport az elzárást előírja, de a jelentkezésre felhívást mellőzi. Ebben az esetben az értesítőlapot, a rendelkezésére álló határozatkiadmányokat és az egyéb iratokat az elítélt elzárásának megkezdésére való felhívása végett megküldi az elítélt lakóhelye, illetve tartózkodási helye szerint illetékes bv. csoportnak.
+(3)[^14] Ha a bv. bíró megállapítja, hogy az elzárás végrehajtásának nincs akadálya, az elítéltet felhívja az elzárás végrehajtásának megkezdésére. A felhívás tartalmazza azt, hogy az elítélt az elzárás végrehajtásának megkezdésére melyik bv. intézetben, milyen időpontban jelenjen meg. Ha az elítélt más törvényszék területén, olyan távoli helyen lakik vagy tartózkodik, ahonnan a távolság miatt megjelenése, illetve az elővezetése jelentős költséggel járna, a bv. csoport az elzárást előírja, de a jelentkezésre felhívást mellőzi. Ebben az esetben az értesítőlapot, a rendelkezésére álló határozatkiadmányokat és az egyéb iratokat az elítélt elzárásának megkezdésére való felhívása végett megküldi az elítélt lakóhelye, illetve tartózkodási helye szerint illetékes bv. csoportnak.
 
 (4) A (3) bekezdés szerinti felhívásban a bv. intézeten elsősorban a bv. csoport működési területén lévő megyei (megyei jellegű feladatot is ellátó) bv. intézetet kell érteni.
 
@@ -37,3 +37,5 @@ a) az elzárás foganatba vétele esetén, az elzárást foganatosító bv. int�
 b) az első fokon eljárt bíróságnak.
 
 (14) Ha a fiatalkorú elítélt az elzárást kiszabó ítélet jogerőre emelkedése után, de az elzárás megkezdése előtt betölti a huszonegyedik életévet, a bv. bíró a felnőttkorú elítéltek elzárásának végrehajtására kijelölt bv. intézetben való megjelenésre hívja fel az elítéltet.
+
+[^14]: Az 55. § (3) bekezdése a 33/2015. (XI. 6.) IM rendelet 9. §-ával megállapított szöveg.

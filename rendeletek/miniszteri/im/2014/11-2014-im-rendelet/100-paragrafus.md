@@ -8,4 +8,6 @@
 
 (4) A bv. előadó a végrehajtásra nem kerülő foglalkozástól eltiltásra vagy járművezetéstől eltiltásra vonatkozó II. jelzésű értesítőlapra feljegyzi, hogy a foglalkozástól eltiltást vagy járművezetéstől eltiltást milyen összbüntetési ítélet alapján nem kell végrehajtani.
 
-(5) A bv. előadó az összbüntetésről kiállított értesítőlappal együtt a végrehajtásra kerülő foglalkozástól eltiltásra vagy járművezetéstől eltiltásra vonatkozó II. jelzésű értesítőlapot a bv. intézetnek, a végre nem hajtandó foglalkozástól eltiltásra vagy járművezetéstől eltiltásra vonatkozó II. jelzésű értesítőlapot a 97. § (2) vagy (3) bekezdésében megjelölt hatóságnak küldi meg.
+(5)[^47] A bv. előadó az összbüntetésről kiállított értesítőlappal együtt a végrehajtásra kerülő foglalkozástól eltiltásra vagy járművezetéstől eltiltásra vonatkozó II. jelzésű értesítőlapot a bv. intézetnek, a végre nem hajtandó foglalkozástól eltiltásra vagy járművezetéstől eltiltásra vonatkozó II. jelzésű értesítőlapot a 97. § (2)–(4) bekezdésében megjelölt hatóságnak küldi meg.
+
+[^47]: A 100. § (5) bekezdése a 33/2015. (XI. 6.) IM rendelet 17. § e) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 103. § Ha a bíróság a foglalkozástól, a járművezetéstől véglegesen eltiltott elítéltet a Be. 565. §-a szerinti eljárásban mentesíti, erről a 97. § (2) vagy (3) bekezdése szerinti illetékes hatóságokat határozatának jogerős kiadmányával értesíti.
+## 103. §[^50] Ha a bíróság a foglalkozástól, a járművezetéstől véglegesen eltiltott elítéltet a Be. 565. §-a szerinti eljárásban mentesíti, erről a 97. § (2)–(4) bekezdése szerinti illetékes hatóságokat határozatának jogerős kiadmányával értesíti.
 
 ## VII. Fejezet
 
@@ -15,3 +15,5 @@ a) olyan szabadságvesztés mellett alkalmazta, amelyet az előzetes fogvatartá
 b) felfüggesztett szabadságvesztés, vagy más büntetés mellett alkalmazta,
 
 c) önálló büntetésként alkalmazta.
+
+[^50]: A 103. § a 33/2015. (XI. 6.) IM rendelet 17. § h) pontja szerint módosított szöveg.

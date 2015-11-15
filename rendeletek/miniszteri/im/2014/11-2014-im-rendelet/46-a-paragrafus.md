@@ -1,6 +1,6 @@
 ## 46. § Ha a bv. bíró, vagy a másodfokú bíróság az elítélt feltételes szabadságát megszünteti, vagy a szabadságvesztés ideiglenes foganatba vételét rendeli el, a végzését megküldi a büntetés-végrehajtási pártfogó felügyelőnek, ha az elítélt pártfogó felügyelet alatt áll.
 
-## 15/A. [^8] A reintegrációs őrizet elrendelése, megváltoztatása és megszüntetése
+## 15/A. [^11] A reintegrációs őrizet elrendelése, megváltoztatása és megszüntetése
 
 46/A. § (1) A reintegrációs őrizet elrendeléséről szóló határozatban a bv. bíró megjelöli a reintegrációs őrizet lejártának napját is.
 
@@ -14,4 +14,4 @@
 
 (6) Ha a bv. csoport arról értesül, hogy a reintegrációs őrizetben lévő elítélt kegyelemben részesült, vagy egyéb végrehajtást kizáró ok merült fel, erről – a határozat telefaxon történő megküldésével és rövid úton történő megerősítésével – azonnal értesíti a szabadító bv. intézetet a szükséges intézkedések megtétele érdekében.
 
-[^8]: A 15/A. alcímet (46/A. §) a 6/2015. (III. 30.) IM rendelet 5. §-a iktatta be.
+[^11]: A 15/A. alcímet (46/A. §) a 6/2015. (III. 30.) IM rendelet 5. §-a iktatta be.
