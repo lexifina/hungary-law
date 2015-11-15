@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-36-20-1
 | 2012-07-01 | 2010-36-20-1U.6 | 28/2012. (V. 18.) KIM rendelet |
 | 2014-03-15 | 2010-36-20-1U.7 | 21/2014. (III. 13.) KIM rendelet |
 | 2015-11-14 | 2010-36-20-1U.8 | 64/2015. (XI. 13.) NFM rendelet |
+| 2015-11-15 | 2010-36-20-1U.9 | 64/2015. (XI. 13.) NFM rendelet |

@@ -1,6 +1,6 @@
-## 9. §[^20]
+## 9. §[^21]
 
-1. melléklet a 36/2010. (V. 13.) IRM rendelethez[^21]
+1. melléklet a 36/2010. (V. 13.) IRM rendelethez[^22]
 
 ## A felszámoló kijelölő program Felhasználói Szabályzata
 
@@ -142,5 +142,5 @@ Az „Adatváltoztatás kérésének indokolása” rovat kitöltése minden ese
 
 bíró/titkár aláírása
 
-[^20]: A 9. § a (2) bekezdés alapján hatályát vesztette.
-[^21]: Az 1. mellékletet a 64/2015. (XI. 13.) NFM rendelet 3. §-a iktatta be.
+[^21]: A 9. § a (2) bekezdés alapján hatályát vesztette.
+[^22]: Az 1. mellékletet a 64/2015. (XI. 13.) NFM rendelet 3. §-a iktatta be.
