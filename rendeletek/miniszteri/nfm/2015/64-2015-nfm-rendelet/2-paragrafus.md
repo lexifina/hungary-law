@@ -1,1 +1,0 @@
-## „(5c) A számítógépes program bírósági felhasználóinak jogosultságait az üzemeltető állítja be a felhasználót foglalkoztató törvényszék elnöke által elektronikus úton megküldött megkeresés alapján.”
