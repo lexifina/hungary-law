@@ -1,3 +1,0 @@
-## 6. § A fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló 11/2014. (XII. 13.) IM rendelet [a továbbiakban: 11/2014. (XII. 13.) IM rendelet] 9. alcím címe helyébe a következő cím lép:
-
-## „9. A feltételes szabadságra vonatkozó rendelkezés utólagos módosítása, a feltételes szabadság utólagos megszüntetése, a próbaidőre felfüggesztett büntetés végrehajtásának utólagos elrendelése, az előzetes fogvatartás utólagos beszámítása, a szabadságvesztés végrehajtási fokozatának utólagos megállapítása és az utólagos összbüntetésbe foglalás”

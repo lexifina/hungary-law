@@ -1,3 +1,0 @@
-## 1. § A lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályairól, valamint az elkobzás végrehajtásáról szóló 11/2003. (V. 8.) IM–BM–PM együttes rendelet [a továbbiakban: 11/2003. (V. 8.) IM–BM–PM együttes rendelet] 45. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a bűnjel átvételére jogosult személy ismert, de ismeretlen helyen tartózkodik – ide nem értve a 43. §-ban szabályozott esetet –, és emiatt a bűnjel visszaadását (kiadását) elrendelő határozatot nem lehet vele közölni, akkor a bűnjelkezelő hirdetményi úton [Be. 70. § (5)–(6) bekezdés] intézkedik a bűnjel átvétele érdekében.”
