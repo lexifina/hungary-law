@@ -1,0 +1,1 @@
+## 5. § A nyilvántartási díjat – a 6. §-ban foglalt eltéréssel – az energiahatékonyságról szóló törvény 34. § (1) bekezdése szerint nyilvántartási díjfizetésre kötelezett (a továbbiakban: kötelezett) tárgyév január 31-éig fizeti meg a regisztráló szervezet által a honlapján közzétett fizetési számlára történő készpénzbefizetéssel vagy az arra történő átutalással.
