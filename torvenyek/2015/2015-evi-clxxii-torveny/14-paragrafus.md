@@ -1,0 +1,3 @@
+14. § (1) Az Országgyűlés elrendeli, hogy a Nemzeti Foglalkoztatási Alap a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. § (2) bekezdés f) pontja alapján 309,0 millió forintot a Nyugdíjfolyósító Igazgatóság „Munkáltatói befizetésekből finanszírozott korengedményes nyugdíj” 10032000-00284770-00000000 számú (technikai) számla javára 2015. december 31-éig térítsen meg.
+
+(2) Az Országgyűlés elrendeli, hogy az Ny. Alap a „Munkáltatói befizetésekből finanszírozott korengedményes nyugdíj” elszámolásához kapcsolódóan, az előző évek jogalap nélküli követeléseire megtérült 2,2 millió forintot utalja át a Nemzeti Foglalkoztatási Alap 10032000-01857025-00000000 számlája javára 2015. december 31-éig.

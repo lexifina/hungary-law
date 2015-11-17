@@ -1,0 +1,1 @@
+12. § Az Országgyűlés megállapítja, hogy a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény végrehajtásáról szóló 2014. évi LXII. törvény 16–18. §-ában előírt megtérítési és visszautalási kötelezettségek teljesítése megtörtént.

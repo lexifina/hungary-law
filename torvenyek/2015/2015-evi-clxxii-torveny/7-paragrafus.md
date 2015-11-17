@@ -1,0 +1,1 @@
+7. § Az Országgyűlés jóváhagyja, hogy az államháztartásért felelős miniszter – a Gst. 11. § (1) bekezdésében foglalt felhatalmazás alapján – a Kincstári Egységes Számla folyamatos likviditása érdekében 132 337,4 millió forint összegben államkötvényeket értékesített és 189 169,6 millió forinttal csökkentette a kincstárjegyek állományát.
