@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-7-20-2W
 | 2015-02-16 | 2013-7-20-2W.12 | 3/2015. (II. 11.) BM rendelet |
 | 2015-07-31 | 2013-7-20-2W.13 | 46/2015. (VII. 28.) BM rendelet |
 | 2015-08-01 | 2013-7-20-2W.14 | 46/2015. (VII. 28.) BM rendelet |
+| 2015-11-18 | 2013-7-20-2W.15 | 59/2015. (XI. 10.) BM rendelet |
