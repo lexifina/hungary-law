@@ -1,4 +1,4 @@
-## 10. § Amennyiben a doppingellenes tevékenységben részt vevő szervezetek a sportbeli dopping elleni nemzetközi egyezmény kihirdetéséről szóló kormányrendeletben kihirdetett, az UNESCO keretében Párizsban, 2005. október 19-én elfogadott nemzetközi doppingellenes Egyezmény részét képező Nemzetközi Doppingellenes Szabályzat aláírói, úgy a Nemzetközi Doppingellenes Szabályzatot a benne foglaltaknak megfelelően doppingellenes szabályzatban alkalmazzák, különös figyelemmel a 23. Cikk 2.2 pontjában és a nemzetközi követelményekben foglaltakra.
+## 10. § A doppingellenőrzés és a doppingellenes tevékenység során a rendelet, az 5. § (2) bekezdésének i) pontja alapján megalkotott HUNADO Szabályzat (a továbbiakban: HUNADO Szabályzat) és a nemzetközi követelmények alapján kell eljárni. A rendeletben nem szabályozott kérdésekben és értelmezésbeli különbség esetén a HUNADO Szabályzat az irányadó.
 
 ## 9. A versenyző és a sportszakember feladatai
 
@@ -12,8 +12,8 @@ b) ő maga, vagy vele összefüggésben más személy tiltott módszert alkalmaz
 
 (3) A versenyző felelős a szervezetéből származó mintából e rendelet és a vonatkozó nemzetközi követelmény alapján kimutatott bármilyen tiltott szer, származék vagy marker jelenlétéért, tiltott szer használatáért, valamint megkísérelt használatáért, vagy tiltott módszer alkalmazásáért, vagy megkísérelt alkalmazásáért, függetlenül attól, hogy a jelenlét, használat, alkalmazás tekintetében legalább gondatlanság, vagy a megkísérelt használat, alkalmazás tekintetében szándékosság terheli-e.
 
-(4)[^21] A sportszakember a tisztességes játék elve alapján, a doppingmentes felkészítés és versenyeztetés e rendeletben, valamint a nemzetközi doppingellenes szervezetek doppingellenes szabályzataiban és a nemzetközi követelményekben meghatározott előírásokat köteles betartani, e körben köteles a doppingellenes tevékenységben részt vevő szervezetek és nemzetközi doppingellenes szervezetek képviselőivel együttműködni.
+(4)[^22] A sportszakember a tisztességes játék elve alapján, a doppingmentes felkészítés és versenyeztetés e rendeletben, valamint a nemzetközi doppingellenes szervezetek doppingellenes szabályzataiban és a nemzetközi követelményekben meghatározott előírásokat köteles betartani, e körben köteles a doppingellenes tevékenységben részt vevő szervezetek és nemzetközi doppingellenes szervezetek képviselőivel együttműködni.
 
 (5) A versenyző és a sportszakember jogosult arra, hogy attól a sportszervezettől, amelyben a sporttevékenységet vagy a sportszakmai tevékenységet folytatja és attól a sportszövetségtől, amelynek a sportszervezet tagja, valamint más, a nemzeti doppingellenes tevékenységben részt vevő szervezetektől naprakész felvilágosítást kapjon, továbbá információ álljon rendelkezésére a doppingellenes tevékenységet meghatározó jogszabályokról, nemzetközi követelményekről.
 
-[^21]: A 11. § (4) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^22]: A 11. § (4) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 8. §-ával megállapított szöveg.

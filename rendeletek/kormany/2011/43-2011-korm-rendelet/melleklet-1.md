@@ -1,3 +1,3 @@
-1. melléklet a 43/2011. (III. 23.) Korm. rendelethez[^54]
+1. melléklet a 43/2011. (III. 23.) Korm. rendelethez[^55]
 
-[^54]: Az 1. mellékletet a 324/2014. (XII. 15.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+[^55]: Az 1. mellékletet a 324/2014. (XII. 15.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.

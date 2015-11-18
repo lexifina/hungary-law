@@ -1,4 +1,4 @@
-## 32. §[^48]
+## 32. §[^49]
 
 ## 18. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 35. § 2012. január 1-jén lép hatályba.
 
-[^48]: A 32. § a 324/2014. (XII. 15.) Korm. rendelet 17. §-a alapján hatályát vesztette.
+[^49]: A 32. § a 324/2014. (XII. 15.) Korm. rendelet 17. §-a alapján hatályát vesztette.

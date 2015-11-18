@@ -1,6 +1,6 @@
 ## 14. Az előzetes felülvizsgálati eljárás
 
-18. § (1)[^36] Az „A” jelű minta pozitív vizsgálati eredményéről, továbbá a mintavétel és -kezelés során tudomására jutott doppingvétséget megalapozó egyéb magatartásról a HUNADO haladéktalanul értesíti a versenyzőt, a szövetséget, a minisztert és a MOB-ot a laboratóriumi jelentés, valamint a mintavétel és -kezelés e rendeletben és a vonatkozó nemzetközi követelményekben meghatározottak szerinti lefolytatását igazoló, kitöltött ellenőrző nyomtatvány megküldésével.
+18. § (1)[^37] Az „A” jelű minta pozitív vizsgálati eredményéről, továbbá a mintavétel és -kezelés során tudomására jutott doppingvétséget megalapozó egyéb magatartásról a HUNADO haladéktalanul értesíti a versenyzőt, a szövetséget, a minisztert és a MOB-ot a laboratóriumi jelentés, valamint a mintavétel és -kezelés e rendeletben és a vonatkozó nemzetközi követelményekben meghatározottak szerinti lefolytatását igazoló, kitöltött ellenőrző nyomtatvány megküldésével.
 
 (2) A HUNADO az (1) bekezdés szerinti értesítését követő 8 napon belül lefolytatja az előzetes felülvizsgálati eljárást, amit jegyzőkönyvez. Az előzetes felülvizsgálati eljárásra vonatkozó eljárási rendet a HUNADO – e rendelettel és a doppingellenőrzésre vonatkozó nemzetközi követelményekkel összhangban – doppingellenes szabályzatában határozza meg.
 
@@ -10,9 +10,9 @@
 
 (5) Az előzetes felülvizsgálati eljárásban a szövetség képviselője tanácskozási joggal részt vesz.
 
-(6)[^37] Ha az előzetes felülvizsgálati eljárás eredményeként megállapításra kerül, hogy a versenyző gyógyászati célú mentességgel rendelkezik, vagy nyilvánvalóan eltértek a doppingellenőrzésre vonatkozó nemzetközi követelményektől, a pozitív vizsgálati eredménnyel, valamint a doppingvétséget megalapozó egyéb magatartással járó hátrányos következmények nem alkalmazhatók. Az előzetes felülvizsgálati eljárás eredményéről a jegyzőkönyv megküldésével a HUNADO haladéktalanul tájékoztatja a versenyzőt, a szövetséget, a minisztert és a MOB-ot.
+(6)[^38] Ha az előzetes felülvizsgálati eljárás eredményeként megállapításra kerül, hogy a versenyző gyógyászati célú mentességgel rendelkezik, vagy nyilvánvalóan eltértek a doppingellenőrzésre vonatkozó nemzetközi követelményektől, a pozitív vizsgálati eredménnyel, valamint a doppingvétséget megalapozó egyéb magatartással járó hátrányos következmények nem alkalmazhatók. Az előzetes felülvizsgálati eljárás eredményéről a jegyzőkönyv megküldésével a HUNADO haladéktalanul tájékoztatja a versenyzőt, a szövetséget, a minisztert és a MOB-ot.
 
 (7) A szövetség a sportág nemzetközi szövetsége vonatkozó szabályzatának és a nemzetközi követelményeknek megfelelően gondoskodik a versenyző versenyengedélyének felfüggesztéséről.
 
-[^36]: A 18. § (1) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^37]: A 18. § (6) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^37]: A 18. § (1) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^38]: A 18. § (6) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.

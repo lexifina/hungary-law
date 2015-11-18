@@ -1,4 +1,4 @@
-2. melléklet a 43/2011. (III. 23.) Korm. rendelethez[^55]
+2. melléklet a 43/2011. (III. 23.) Korm. rendelethez[^56]
 
 A dopping-mintavétel és -kezelés, a doppingellenes felvilágosítás, valamint a doppingvétségek felderítésének részletes szabályai
 
@@ -292,4 +292,4 @@ d) lehetőséget biztosít elektronikus levél útján történő felvilágosít
 
 e) gondoskodik a doppingellenőrök képzéséről, továbbképzéséről, valamint – a doppingellenes tevékenység népszerűsítése érdekében – társadalmi eseményeken történő megjelenésükről.
 
-[^55]: A 2. melléklet a 324/2014. (XII. 15.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^56]: A 2. melléklet a 324/2014. (XII. 15.) Korm. rendelet 19. §-ával megállapított szöveg.
