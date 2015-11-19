@@ -1,0 +1,9 @@
+# 52/2015. (XI. 18.) EMMI rendelet
+
+a Nemzeti Együttműködési Alappal kapcsolatos egyes kérdésekről szóló 5/2012. (II. 16.) KIM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-52-20-5H
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-11-19 | 2015-52-20-5H.1 | 52/2015. (XI. 18.) EMMI rendelet |
