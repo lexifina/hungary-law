@@ -1,12 +1,12 @@
 ## 6. Az elszámolás rendje
 
-6. § (1) A támogatott civil szervezet a támogatás, valamint az önrész felhasználásáról, illetve a támogatási szerződésben, támogatói okiratban foglaltak teljesítéséről szakmai beszámolót és pénzügyi elszámolást (a továbbiakban együtt: elszámolás) köteles a pályázati kiírásban megjelölt határidőben és módon benyújtani. Az elszámolási határidőt úgy kell megállapítani, hogy az elszámolásra a támogatási időszak lezárását követő harminc napon belül, de legkésőbb az 1. melléklet szerinti napot követő harmincadik napig sor kerüljön.
+6. § (1)[^27] A támogatott civil szervezet a támogatás, valamint a saját forrás felhasználásáról, illetve a támogatási szerződésben, támogatói okiratban foglaltak teljesítéséről szakmai beszámolót és pénzügyi elszámolást (a továbbiakban együtt: elszámolás) köteles a pályázati kiírásban megjelölt határidőben és módon benyújtani. Az elszámolási határidőt úgy kell megállapítani, hogy az elszámolásra a támogatási időszak lezárását követő harminc napon belül, de legkésőbb az 1. melléklet szerinti napot követő harmincadik napig sor kerüljön.
 
-(2)[^13] A pénzügyi elszámoláshoz a támogatás felhasználását igazoló számviteli bizonylatok, kifizetést igazoló bizonylatok, valamint a költségvetési támogatás jogszerű és a céljának megfelelő felhasználását igazoló egyéb dokumentumok másolatát nem kell mellékelni, ha az azon feltüntetett bruttó érték nem haladja meg az Ávr. 80. § (4) bekezdésében meghatározott értékhatárt. A költségek felmerülését igazoló, eredeti számviteli bizonylatokat – abban az esetben is, ha az elszámoláshoz nem kell mellékelni – a kedvezményezett köteles záradékkal ellátni, amelyben jeleznie kell, hogy a számviteli bizonylaton szereplő összegből mekkora összeget számolt el a szerződésszámmal hivatkozott támogatási szerződés vagy támogatói okirat alapján. A számlaösszesítőn feltüntetett adatok valódiságát, az eredeti bizonylatokkal való egyezőségét és az eredeti bizonylatok előírt záradékolásának megtörténtét könyvvizsgálónak nem kell igazolnia.
+(2)[^28] A pénzügyi elszámolás – a támogatás és a saját forrás – felhasználását igazoló számviteli bizonylatok, kifizetést igazoló bizonylatok, valamint a költségvetési támogatás jogszerű és a céljának megfelelő felhasználását igazoló egyéb dokumentumok másolatát nem kell mellékelni, ha az azon feltüntetett bruttó érték nem haladja meg az Ávr. 93 § (3) bekezdésében meghatározott értékhatárt. A költségek felmerülését igazoló, eredeti számviteli bizonylatokat – abban az esetben is, ha az elszámoláshoz nem kell mellékelni – a kedvezményezett köteles záradékkal ellátni, amelyben jeleznie kell, hogy a számviteli bizonylaton szereplő összegből mekkora összeget számolt el a szerződésszámmal hivatkozott támogatási szerződés vagy támogatói okirat alapján. A számlaösszesítőn feltüntetett adatok valódiságát, az eredeti bizonylatokkal való egyezőségét és az eredeti bizonylatok előírt záradékolásának megtörténtét könyvvizsgálónak nem kell igazolnia.
 
 (3) Támogatói okirat alkalmazása esetén a kedvezményezettnek a postai úton megküldött dokumentumokkal meg kell küldenie a civil szervezet képviselőjének közjegyző által hitelesített aláírási címpéldányát vagy ügyvéd által ellenjegyzett aláírási mintáját vagy a számlavezető pénzintézet által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát, amennyiben megfelelő formában korábban nem került benyújtásra az Alapkezelőhöz.
 
-(4)[^14]
+(4)[^29]
 
 (5) Ha az elszámoláshoz kapcsolódóan a magyartól eltérő nyelvű dokumentumot csatoltak, annak magyar nyelvre fordított változatát is csatolni kell. A fordítás hitelességéről a kedvezményezettnek kell nyilatkoznia.
 
@@ -32,5 +32,6 @@ c) részletes indokolással ellátott, egészben vagy részben történő elutas
 
 (10) Az Alapkezelő által egészben vagy részben el nem fogadott pénzügyi elszámolást a szakmai beszámolóról szóló (8) bekezdés szerinti döntéshozatal során figyelembe kell venni.
 
-[^13]: A 6. § (2) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 5. § e) pontja szerint módosított szöveg.
-[^14]: A 6. § (4) bekezdését a 31/2014. (IV. 14.) EMMI rendelet 6. § b) pontja hatályon kívül helyezte.
+[^27]: A 6. § (1) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 10. § 11. pontja szerint módosított szöveg.
+[^28]: A 6. § (2) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^29]: A 6. § (4) bekezdését a 31/2014. (IV. 14.) EMMI rendelet 6. § b) pontja hatályon kívül helyezte.

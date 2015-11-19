@@ -1,4 +1,4 @@
-7. melléklet az 5/2012. (II. 16.) KIM rendelethez[^52]
+7. melléklet az 5/2012. (II. 16.) KIM rendelethez[^78]
 
 Költségvetési terv
 
@@ -20,4 +20,4 @@ I. Bevételek
 
 II. Kiadások
 
-[^52]: A 7. melléklet a 74/2013. (XII. 2.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^78]: A 7. melléklet a 74/2013. (XII. 2.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.

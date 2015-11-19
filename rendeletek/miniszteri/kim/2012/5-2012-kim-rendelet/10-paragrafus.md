@@ -1,3 +1,5 @@
-10. § (1) Az Ávr. 90. § alapján – az informatikai rendszeren keresztül az e célra rendszeresített formában – benyújtott kifogást a miniszter tíz napon belül megvizsgálja és érdemben elbírálja, amely döntésről értesítést kap a kifogást benyújtó civil szervezet.
+10. § (1)[^32] Az Ávr. 102/D. §-a alapján – az informatikai rendszeren keresztül az e célra rendszeresített formában – benyújtott kifogást a miniszter tíz napon belül megvizsgálja és érdemben elbírálja, amely döntésről értesítést kap a kifogást benyújtó civil szervezet.
 
 (2) Ha az Alapkezelő hivatalosan (panasz, közérdekű bejelentés útján) tudomást szerez olyan tényről, amely a döntéshozó döntését érdemben befolyásolhatja és az a támogatást igénylő szervezet érdekeit kétséget kizáróan sérti, az Alapkezelő gondoskodik e ténynek megfelelő adat rögzítéséről, amennyiben az nem ütközik jogszabályba és nem teszi szükségessé a döntéshozó korábbi döntésének módosítását. Az adat rögzítéséről a támogatást igénylő szervezetet haladéktalanul értesíteni kell.
+
+[^32]: A 10. § (1) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 10. § 13. pontja szerint módosított szöveg.

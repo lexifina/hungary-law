@@ -36,6 +36,8 @@
 
 17. Nemzeti Együttműködési Alap felhasználásáról szóló beszámoló: a Civil tv. 70. § (1) bekezdése (a továbbiakban: a Tanácsnak szólóbeszámoló) és (2) bekezdése (a továbbiakban: az Országgyűlés bizottságának szóló beszámoló) szerinti, e rendelet szempontjai alapján elkészített és a testület döntésével megerősített éves tevékenységről, tapasztalatokról szóló beszámoló;
 
+17a.[^2] önrész: minden, az Alapból folyósított támogatáson kívüli forrás, ideértve az egyéb forrás mellett az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 83. §-ában foglalt korlátozás figyelembe vételével megállapított saját forrást is;
+
 18. pályázat elbírálása: a kollégium azon eljárása, melynek során a pályázati felhívásra benyújtott támogatási igényhez annak szakmai tartalma alapján a kollégium pontszámot és javasolt támogatási összeget rendel, korlátozza az egyes költségvetési sorokon történő felhasználást vagy elutasítja a támogatási igényt;
 
 19. pályázat végleges elbírálása: a Tanács azon eljárása, melynek során a Tanács elnöke által a Civil tv. 61. § (7) bekezdés alapján a Tanács elé terjesztett pályázatok vonatkozásában a kollégium által a pályázat elbírálása során hozott döntést részben vagy egészben módosítja vagy helybenhagyja;
@@ -48,12 +50,15 @@
 
 23. támogatási eljárás: a támogatási igény benyújtásától a támogatási igény benyújtása következményeként végrehajtott cselekmények összessége;
 
-24. támogatási igény: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), továbbá az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) szerinti támogatási kérelem, valamint pályázat, amely a Civil tv. 56. § (2) bekezdése szerinti kötelezettségvállalásra irányul;
+24.[^3] támogatási igény: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), továbbá az Ávr. szerinti támogatási kérelem, valamint pályázat, amely a Civil tv. 56. § (2) bekezdése szerinti kötelezettségvállalásra irányul;
 
 25. támogatási kérelem befogadása: a Civil tv. 56. § (2) bekezdés c) pontja szerinti jóváhagyás, melynek keretében a miniszter meghatározza, hogy az egyedi kérelmet benyújtó szervezetnek mekkora összegben, mely célra és milyen finanszírozási móddal részesülhet támogatásban a jogszabályi feltételek teljesítése esetén;
 
 26. tanács: a Civil tv. 60. § (1) bekezdése szerinti testület;
 
-27. várólista: pályázati felhívásra benyújtott pályázatok esetén a támogatási döntés meghozatala után – a források korlátossága miatt – költségvetési támogatásban nem részesülő, szakmailag megfelelő pályázatokat tartalmazó, pontszám, illetve egyező pontszám esetén beérkezési sorrend alapú rangsor, amely alapján – az Ávr. 74. § (1) szerint – a támogató lehetővé teszi a támogatás igénybevételét.
+27.[^4] várólista: pályázati felhívásra benyújtott pályázatok esetén a támogatási döntés meghozatala után – a források korlátossága miatt – költségvetési támogatásban nem részesülő, szakmailag megfelelő pályázatokat tartalmazó, pontszám, illetve egyező pontszám esetén beérkezési sorrend alapú rangsor, amely alapján – az Ávr. 77. § (1) bekezdése szerint – a támogató lehetővé teszi a támogatás igénybevételét.
 
 [^1]: A 2. § a 74/2013. (XII. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 17a. pontját az 52/2015. (XI. 18.) EMMI rendelet 1. §-a iktatta be.
+[^3]: A 2. § 24. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 1. pontja szerint módosított szöveg.
+[^4]: A 2. § 27. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 2. pontja szerint módosított szöveg.
