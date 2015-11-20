@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 2. Értelmező rendelkezések
 
 4. § (1) E rendelet alkalmazásában szakmai kezelő a miniszter által vezetett minisztérium Ávr. 13. § (3) bekezdése szerinti szabályzatban meghatározott szervezeti egységének vezetője.
@@ -43,6 +41,8 @@
 18. ésszerű nyereség: az ágazatban jellemzően elérhető nyereség vagy olyan mértékű nyereség, amely esetében a tőkemegtérülési ráta nem haladja meg a releváns swapkamatláb 100 bázisponttal növelt összegét;
 
 19. fenntartható bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 112. pontja szerinti üzemanyag;
+
+19a.[^22] fiatal mezőgazdasági termelő: a 702/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti termelő;
 
 20. foglalkoztatottak számának nettó növekedése: a 651/2014/EU bizottsági rendelet 2. cikk 32. pontja szerinti növekedés;
 
@@ -138,6 +138,8 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 64. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom;
 
+64a.[^23] tanácsadás: a 702/2014/EU bizottsági rendelet 2. cikk 45. pontja szerinti tanácsadás;
+
 65. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz;
 
 66. termelői csoport: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet szerint működő, elismert szövetkezet vagy korlátolt felelősségű társaság;
@@ -148,7 +150,7 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 69. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
 
-(3) Az 1. melléklet 15. sorában szabályozott előirányzat végrehajtása során
+(3)[^24] Az 1. mellékletben foglalt táblázat 15. sorában szabályozott előirányzat végrehajtása során
 
 a) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendeletben,
 
@@ -159,3 +161,7 @@ c) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, �
 d) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendeletben,
 
 e) az 1408/2013/EU bizottsági rendeletben
+
+[^22]: A 4. § (2) bekezdés 19a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (1) bekezdése iktatta be.
+[^23]: A 4. § (2) bekezdés 64a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (2) bekezdése iktatta be.
+[^24]: A 4. § (3) bekezdés nyitó szövegrésze a 30/2015. (XI. 19.) NGM rendelet 10. § 1. pontja szerint módosított szöveg.
