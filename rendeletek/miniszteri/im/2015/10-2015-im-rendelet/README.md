@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-10-20-0
 | --- | --- | --- |
 | 2015-05-30 | 2015-10-20-06.1 | 10/2015. (V. 29.) IM rendelet |
 | 2015-05-31 | 2015-10-20-06.2 | 2010: CXXX. törvény |
+| 2015-11-20 | 2015-10-20-06.3 | 36/2015. (XI. 19.) IM rendelet |
