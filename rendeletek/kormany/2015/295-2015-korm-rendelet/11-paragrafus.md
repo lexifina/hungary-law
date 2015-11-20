@@ -1,7 +1,3 @@
-## 10. § A 43/2015. Korm. rendelet 94. § (2) bekezdése a következő szöveggel lép hatályba:
+## 10. §[^1]
 
-## „(2) Hatályát veszti a
-
-## a) 2. § 14. pontja,
-
-## b) 92. §.”
+[^1]: A 10. §-t a 346/2015. (XI. 19.) Korm. rendelet 5. §-a hatályon kívül helyezte.
