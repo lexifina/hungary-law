@@ -1,0 +1,3 @@
+## 23. § A 272/2014. (XI. 5.) Korm. rendelet 64. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A döntés-előkészítő bizottság tagjainak száma legfeljebb öt fő. A döntés-előkészítő bizottság összehívását, működését, tagjait az irányító hatóság által kiadott ügyrendben kell meghatározni. Ha a szakpolitikai felelős nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban került kijelölésre, a döntés-előkészítő bizottságot úgy kell összehívni, hogy a döntés-előkészítő bizottságban többségben legyenek a szakpolitikai felelős által delegált, szavazati joggal rendelkező személyek.”

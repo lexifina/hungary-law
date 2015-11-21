@@ -1,0 +1,1 @@
+## „(8) Ha az adott költség a felhívás, illetve a támogatási szerződés alapján elszámolható költségnek minősül, és a felhívás nem írja elő a költségek összesítőn történő elszámolását, a vonatkozó kifizetési igénylésben be kell nyújtani a 4. mellékletben meghatározott alátámasztó dokumentumokat.”
