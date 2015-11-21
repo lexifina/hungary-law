@@ -1,4 +1,4 @@
-## 49/F. §[^142] A Vidékfejlesztési és halászati programok 2014–2020 (XIX. fejezet 2. cím 12. alcím) vonatkozásában
+## 49/F. §[^143] A Vidékfejlesztési és halászati programok 2014–2020 (XIX. fejezet 2. cím 12. alcím) vonatkozásában
 
 a) kötelezettségvállaló: a Program IH vezetője vagy az általa írásban kijelölt személy,
 
@@ -10,4 +10,4 @@ d) érvényesítő: a mezőgazdasági és vidékfejlesztési támogatási szerv 
 
 e) utalványozó: a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^142]: A 49/F. § a 287/2015. (X. 6.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^143]: A 49/F. § a 287/2015. (X. 6.) Korm. rendelet 26. §-ával megállapított szöveg.

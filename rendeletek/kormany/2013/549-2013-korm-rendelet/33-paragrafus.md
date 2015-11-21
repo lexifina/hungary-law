@@ -1,4 +1,4 @@
-## 33. §[^90] Az INTERREG Közösségi Kezdeményezés program előirányzat-maradványai (XIX. fejezet 2. cím 2. alcím 1. jogcímcsoport) vonatkozásában
+## 33. §[^91] Az INTERREG Közösségi Kezdeményezés program előirányzat-maradványai (XIX. fejezet 2. cím 2. alcím 1. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
@@ -10,4 +10,4 @@ d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az �
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^90]: A 33. § a 27/2014. (II. 7.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^91]: A 33. § a 27/2014. (II. 7.) Korm. rendelet 15. §-ával megállapított szöveg.

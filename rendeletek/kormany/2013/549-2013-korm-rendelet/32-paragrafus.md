@@ -16,6 +16,8 @@ d)[^86] érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban
 
 e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetében a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
+(1a)[^87] Ahol az (1) bekezdés OP IH-t említ, azon a Versenyképes Közép-Magyarország OP (VEKOP) előirányzat (XIX. fejezet 2. cím 9. alcím 2. jogcímcsoport) esetén az országos kihatású projektek vonatkozásában a projekt szakmai tartalmáért felelős irányító hatóságot kell érteni.
+
 (2) A Közösségi Támogatási Keret technikai segítségnyújtás előirányzat-maradványa (XIX. fejezet 2. cím 1. alcím 6. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
@@ -24,11 +26,11 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^87] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^88] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-(3)[^88] A Végrehajtás Operatív Program előirányzat (XIX. fejezet 2. cím 4. alcím 22. jogcímcsoport) vonatkozásában
+(3)[^89] A Végrehajtás Operatív Program előirányzat (XIX. fejezet 2. cím 4. alcím 22. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
@@ -36,7 +38,7 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^89] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^90] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
@@ -55,6 +57,7 @@ e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személ
 [^84]: A 31. § a 287/2015. (X. 6.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^85]: Az V. fejezet címe a 287/2015. (X. 6.) Korm. rendelet 31. § 13. pontja szerint módosított szöveg.
 [^86]: A 32. § (1) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^87]: A 32. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^88]: A 32. § (3) bekezdés nyitó szövegrésze a 287/2015. (X. 6.) Korm. rendelet 31. § 14. pontja szerint módosított szöveg.
-[^89]: A 32. § (3) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^87]: A 32. § (1a) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 1. §-a iktatta be.
+[^88]: A 32. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^89]: A 32. § (3) bekezdés nyitó szövegrésze a 287/2015. (X. 6.) Korm. rendelet 31. § 14. pontja szerint módosított szöveg.
+[^90]: A 32. § (3) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
