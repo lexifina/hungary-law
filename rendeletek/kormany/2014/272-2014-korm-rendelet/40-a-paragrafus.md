@@ -1,5 +1,5 @@
-## 18. A többéves nemzeti keret előkészítése, elfogadása, módosítása
+## 40. §
 
-40/A. § (1) A többéves nemzeti keret tervezetét az európai uniós források felhasználásáért felelős miniszter az irányító hatóságok, a szakpolitikai felelősök és a Kormány feladatkörükben érintett más tagjainak bevonásával készíti el.
+## 18.[^168]
 
-(2) Az (1) bekezdés szerinti eljárás során az ott felsorolt szervek feladatkörük keretei között együttműködnek. Az európai uniós források felhasználásáért felelős miniszter az (1) bekezdésben felsorolt más szervek tevékenységét koordinálja.
+[^168]: A 18. alcímet (40/A–40/C. §) a 347/2015. (XI. 20.) Korm. rendelet 50. § 11. pontja hatályon kívül helyezte.

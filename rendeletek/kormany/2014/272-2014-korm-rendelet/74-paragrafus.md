@@ -1,6 +1,6 @@
 ## 28. Pénzügyi közvetítők kiválasztása
 
-74. §[^209] (1) Ha a pénzügyi eszközök végrehajtására alapok alapján keresztül kerül sor, az alapok alapját végrehajtó szervezetnek biztosítania kell, hogy az 1303/2013/EU európai parlamenti és tanácsi rendelet és a 480/2014/EU bizottsági rendelet vonatkozó kritériumai teljesüljenek.
+74. §[^255] (1) Ha a pénzügyi eszközök végrehajtására alapok alapján keresztül kerül sor, az alapok alapját végrehajtó szervezetnek biztosítania kell, hogy az 1303/2013/EU európai parlamenti és tanácsi rendelet és a 480/2014/EU bizottsági rendelet vonatkozó kritériumai teljesüljenek.
 
 (2) A pénzügyi közvetítők kiválasztását az alapok alapját végrehajtó szervezet készíti elő az irányító hatósággal együttműködve. Az alapok alapját végrehajtó szervezet a pénzügyi közvetítői felhívás tervezetét elektronikus formában az irányító hatóság útján megküldi jóváhagyásra az NFK-nak. Az irányító hatóság az NFK jóváhagyása alapján a pénzügyi közvetítői felhívást közzéteszi a www.szechenyi2020.hu honlapon. Az alapok alapját végrehajtó szervezet a kiválasztási eljárás eredménye alapján dönt a pénzügyi közvetítő kiválasztásáról és az irányító hatóság útján tájékoztatja az NFK-t az eljárás eredményéről.
 
@@ -8,4 +8,4 @@
 
 (4) A (3) bekezdésben meghatározott esetben az eljárás eredményéről, illetve az ajánlatok elbírálásáról készített írásbeli összegezést az alapok alapját végrehajtó szervezet az irányító hatóság útján tájékoztatásul megküldi az NFK számára.
 
-[^209]: A 74. § a 300/2015. (X. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^255]: A 74. § a 300/2015. (X. 15.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -8,6 +8,6 @@
 
 (3) Az éves elszámolások benyújtásának határideje a számviteli évet követő év február 15.
 
-(4)[^502] Az éves elszámolás időszaka EMVA esetén a mezőgazdasági pénzügyi év, amely október 16-tól a következő év október 15-ig tart.
+(4)[^573] Az éves elszámolás időszaka EMVA esetén a mezőgazdasági pénzügyi év, amely október 16-tól a következő év október 15-ig tart.
 
-[^502]: A 181. § (4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 94. §-a iktatta be.
+[^573]: A 181. § (4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 94. §-a iktatta be.

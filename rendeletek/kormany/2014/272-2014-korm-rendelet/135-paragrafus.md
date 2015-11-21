@@ -10,14 +10,14 @@ c) az adatok a monitoring és információs rendszerben rögzítésre és jóvá
 
 d) az utalványozás megtörtént.
 
-(3)[^405] A kedvezményezett a köztartozás rendezésére történő irányító hatósági felszólítást követő kilencven napon belül köteles köztartozását megszüntetni, ellenkező esetben az irányító hatóság köteles az adott kifizetési igénylés alapján jóváhagyott támogatási összeget visszavonni vagy a támogatási szerződéstől elállni. Az előírt határidő nem hosszabbítható meg.
+(3)[^467] A kedvezményezett a köztartozás rendezésére történő irányító hatósági felszólítást követő kilencven napon belül köteles köztartozását megszüntetni, ellenkező esetben az irányító hatóság köteles az adott kifizetési igénylés alapján jóváhagyott támogatási összeget visszavonni vagy a támogatási szerződéstől elállni. Az előírt határidő nem hosszabbítható meg.
 
-(3a)[^406] EMVA forrásból megvalósuló projekt esetén a (2) bekezdés b) pontját és a (3) bekezdést a 79. § (2b) bekezdés b) pontjára figyelemmel kell alkalmazni.
+(3a)[^468] EMVA forrásból megvalósuló projekt esetén a (2) bekezdés b) pontját és a (3) bekezdést a 79. § (2b) bekezdés b) pontjára figyelemmel kell alkalmazni.
 
 (4) Csak olyan átutalás kezdeményezhető, amelyhez kapcsolódó közösségi hozzájárulás rendezését az igazoló hatóság – EMVA esetén a kifizető ügynökség – az európai uniós források rendelkezésre állása esetén még a folyósítás évében az e rendeletben meghatározott határidők figyelembevételével teljesíteni tud.
 
-(5)[^407]
+(5)[^469]
 
-[^405]: A 135. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 169. pontja szerint módosított szöveg.
-[^406]: A 135. § (3a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 80. § (1) bekezdése iktatta be.
-[^407]: A 135. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 86. § (2) bekezdése hatályon kívül helyezte.
+[^467]: A 135. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 169. pontja szerint módosított szöveg.
+[^468]: A 135. § (3a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 80. § (1) bekezdése iktatta be.
+[^469]: A 135. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 86. § (2) bekezdése hatályon kívül helyezte.

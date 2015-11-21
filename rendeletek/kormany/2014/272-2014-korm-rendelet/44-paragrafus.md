@@ -4,16 +4,13 @@
 
 (2) A folyó évre szóló éves fejlesztési keret módosítását az irányító hatóság az európai uniós források felhasználásáért felelős miniszternél kezdeményezi, annak indokoltsága bemutatásával.
 
-(3) Az adott évre szóló éves fejlesztési keretet évente egy alkalommal – a tárgyév június 30-ig – lehet módosítani.
+(3)[^171] Az adott évre szóló éves fejlesztési keretet negyedévente egy alkalommal lehet módosítani.
 
-(4) Az irányító hatóság minden évben
-
-a) az előreláthatóan szükséges és általa érvényesíteni kívánt – 43/A. § (2) bekezdése szerinti – eltérés jóváhagyása, valamint
-
-b) a 43/A. § (2) bekezdés által meg nem engedett eltérés engedélyezése
-
-## céljából az éves fejlesztési keret módosítását kezdeményezi olyan időben, hogy az a (3) bekezdésben meghatározott határidőben elfogadható legyen.
+(4)[^172] Az irányító hatóság minden negyedévben a 43/A. § (2) bekezdésben foglaltak által meg nem engedett eltérés engedélyezése céljából az éves fejlesztési keret módosítását kezdeményezi.
 
 (5) Ha az irányító hatóság által érvényesített eltérés előreláthatóan nem haladja meg a 43/A. § (2) bekezdésében meghatározott kereteket, az éves fejlesztési keretet nem szükséges módosítani.
 
 (6) Ha az NFK az éves fejlesztési keretet az erre irányuló szabályszerű javaslat nyomán módosítja, akkor a felhívás módosított meghirdetési időpontjára és módosított keretére kell alkalmazni a 43/A. § rendelkezéseit.
+
+[^171]: A 44. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^172]: A 44. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.

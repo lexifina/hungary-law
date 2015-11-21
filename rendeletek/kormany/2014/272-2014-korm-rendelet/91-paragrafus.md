@@ -1,9 +1,25 @@
-91. § (1) Azon projektek esetén, amelyeknél a megvalósítás elmaradásának veszélye fennáll, az irányító hatóság jogosult a támogatási szerződéstől való elállást megelőzően kockázatelemzés alapján egyedi cselekvési terv kidolgozását kérni és nyomon követni, az irányító hatóság által jogszabály, felhívás és támogatási szerződés alapján alkalmazható intézkedéseket – a támogatási szerződés módosításának kezdeményezésével egyidejűleg – alkalmazni, így különösen a projektmenedzsment költséget csökkenteni vagy annak kifizetését feltételekhez kötni, projektfelügyelőt kirendelni, az európai uniós forrásokhoz való hozzáférését ideiglenesen korlátozni.
+91. §[^311] (1) Azon adminisztrációs vagy menedzsment problémákkal küzdő – különösen nemzetgazdasági, illetve abszorpciós szempontból kiemelt jelentőségű – projektek esetén, amelyeknél a megvalósítás jelentős késedelmének, tartós akadályba üközésének vagy meghiúsulásának veszélye felmerül, az irányító hatóság jogosult
 
-(2)[^264] Az irányító hatóság az (1) bekezdés szerinti intézkedéseket a projekt támogatási szerződésben vállalt ütemezéséhez való visszaállásig alkalmazhatja.
+a) a támogatási szerződéstől való elállás megelőzése érdekében – a támogatási szerződés módosítása kezdeményezésével egyidejűleg – projektfelügyelőt kijelölni a következő feladatok ellátására:
 
-(3) A projektfelügyelő a projektek megvalósulásának támogatása és végrehajtásának ellenőrzése érdekében biztosítja a sikeres projektmegvalósítás feltételeit azon adminisztratív, illetve menedzsment problémákkal küzdő, nemzetgazdasági, illetve abszorpciós szempontból kiemelt jelentőségű projektek esetén, amelyeknél fennáll a megvalósítás elmaradásának veszélye.
+aa) a projekt aktuális helyzetének áttekintése, problémák azonosítása és kockázatelemzés alapján egyedi cselekvési terv kidolgozása a kedvezményezettel együttműködve,
 
-(4) Az irányító hatóság a projektek eredményes megvalósítása érdekében az (1) bekezdés szerinti projekt befejezéséig a 90. § (3) bekezdésében meghatározott módon korlátozhatja az érintett kedvezményezett további, az irányító hatóság által kezelt támogatási forrásokhoz való hozzáférését.
+ab) jogszabály, felhívás és a támogatási szerződés, vagy támogatói okirat alapján alkalmazható intézkedések felelősének és határidejének meghatározása,
 
-[^264]: A 91. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 104. pontja szerint módosított szöveg.
+ac) az egyedi cselekvési tervben foglaltak megvalósulásnak nyomon követése,
+
+ad) az egyedi cselekvési tervben foglaltak végrehajtása során kapcsolattartás és koordináció a projekt megvalósításában és nyomon követésében érintett szereplőkkel a különböző szabályozó eszközökbe foglalt felelősségi és utasítási rend, valamint szolgálati út figyelembevételével,
+
+ae) az adott projektre vonatkozóan döntési jogkörrel rendelkező szereplő tájékoztatása a projekt előrehaladásával, a felmerült problémák jellegével és a kezelésükre javasolt intézkedésekkel kapcsolatban,
+
+af) a projekt megvalósításának támogatása egyéb eszközökkel,
+
+ag) szerződésmódosítás kezdeményezése,
+
+b) szankciót alkalmazni, így különösen a projektmenedzsment költséget csökkenteni vagy annak kifizetését feltételhez kötni, az európai uniós forrásokhoz való hozzáférést ideiglenesen korlátozni.
+
+(2) Az irányító hatóság az (1) bekezdés a) pontja szerinti intézkedést a projekt támogatási szerződésben vállalt ütemezéséhez való visszaállásáig alkalmazhatja.
+
+(3) Az irányító hatóság a projekt eredményes megvalósítása érdekében az (1) bekezdés szerinti probléma elhárításáig – a benyújtott támogatási kérelemmel összefüggő döntéshozatal vagy új támogatási szerződés, támogatói okirat hatálybalépése felfüggesztésével – korlátozhatja az érintett kedvezményezett további, az irányító hatóság által kezelt támogatási forrásokhoz való hozzáférését.
+
+[^311]: A 91. § a 347/2015. (XI. 20.) Korm. rendelet 27. §-ával megállapított szöveg.

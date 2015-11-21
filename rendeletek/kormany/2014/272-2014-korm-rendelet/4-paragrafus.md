@@ -8,18 +8,18 @@
 
 a) kialakítja a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerét,
 
-b) kijelöli az audit hatóságot és a tanúsító szervet,
+b)[^37]
 
-c) az audit hatóság által készített jelentés és vélemény alapján kijelöli az operatív program irányító hatóságot és az igazoló hatóságot, nyomon követi a kijelölt szervek tevékenységét, dönt a 34. § szerinti próbaidőről,
+c)[^38] nyomon követi a kijelölt szervek tevékenységét, dönt a 34. § szerinti próbaidőről,
 
-d)[^35] az irányító hatóság javaslata és a Nemzeti Fejlesztési Kormánybizottság állásfoglalása alapján kijelöli az alapok alapját végrehajtó szervezetet,
+d)–e)[^39]
 
-e) elfogadja a többéves nemzeti keretet,
+f)[^40]
 
-f)[^36]
+g)[^41] külön jogszabályban kijelöli a Környezeti és Energiahatékonysági Operatív Program terhére finanszírozott, szennyvízelvezetési és -tisztítási, hulladékgazdálkodási és az ivóvízminőség-javító projektek határidőben történő megvalósításáért felelős minisztert, valamint ezen projektek menedzsment feladatait ellátó, továbbá a projektek keretében megvalósuló közbeszerzési eljárásokat lebonyolító – a miniszter irányítása alá tartozó – szervezetet, meghatározza annak feladat- és hatáskörét.
 
-g)[^37] külön jogszabályban kijelöli a Környezeti és Energiahatékonysági Operatív Program terhére finanszírozott, szennyvízelvezetési és -tisztítási, hulladékgazdálkodási és az ivóvízminőség-javító projektek határidőben történő megvalósításáért felelős minisztert, valamint ezen projektek menedzsment feladatait ellátó, továbbá a projektek keretében megvalósuló közbeszerzési eljárásokat lebonyolító – a miniszter irányítása alá tartozó – szervezetet, meghatározza annak feladat- és hatáskörét.
-
-[^35]: A 4. § d) pontja a 300/2015. (X. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^36]: A 4. § f) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 1. pontja hatályon kívül helyezte.
-[^37]: A 4. § g) pontját a 339/2014. (XII. 19.) Korm. rendelet 18. §-a iktatta be.
+[^37]: A 4. § b) pontját a 347/2015. (XI. 20.) Korm. rendelet 50. § 1. pontja hatályon kívül helyezte.
+[^38]: A 4. § c) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 2. pontja szerint módosított szöveg.
+[^39]: A 4. § d)–e) pontját a 347/2015. (XI. 20.) Korm. rendelet 50. § 3. pontja hatályon kívül helyezte.
+[^40]: A 4. § f) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 1. pontja hatályon kívül helyezte.
+[^41]: A 4. § g) pontját a 339/2014. (XII. 19.) Korm. rendelet 18. §-a iktatta be.

@@ -7,3 +7,7 @@
 (4) A felhívás eltérő rendelkezése hiányában a támogatási kérelem benyújtására nyitva álló határidő utolsó napját követően a támogatási kérelemben szereplő támogatási alapra, illetve összegre nézve módosítási kérelem nem nyújtható be. A támogatás alapját adott intézkedésre vonatkozóan a felhívás határozza meg.
 
 (5) Ha terület-, illetve állatlétszám alapú támogatási kérelem kiválasztása során tisztázó kérdés alkalmazására kerül sor, annak eredménye nem vezethet a támogatási összeg növelésére. Terület-, illetve állatlétszám alapú támogatások kiválasztási eljárása során szóbeli egyeztetésre nem kerülhet sor.
+
+(6)[^210] EMVA forrásból nyújtott támogatás esetén a támogatási, illetve kifizetési kérelemmel érintett terület, illetve állatlétszám megállapítása és a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges adategyeztetés nem minősül hiánypótlásnak, tisztázó kérdésnek azzal, hogy az adategyeztetés időtartama nem számít bele az eljárás időtartamába.
+
+[^210]: Az 57/C. § (6) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 21. §-a iktatta be.

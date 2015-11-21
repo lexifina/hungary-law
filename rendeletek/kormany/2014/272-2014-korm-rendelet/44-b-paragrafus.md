@@ -1,10 +1,12 @@
-## 44/B. § A 44. § (3)–(5) bekezdése és a 44/A. § nem alkalmazható akkor, ha
+## 44/A. §[^173]
 
-a)[^139] jogszabály, a program vagy a többéves nemzeti keret módosítása miatt szükséges az éves fejlesztési keret módosítása, és az éves fejlesztési keret módosításának tárgya, mértéke, illetve módja a jogszabály, a program vagy a többéves nemzeti keret módosulásának átvezetéséhez szükséges kereteket nem lépi túl,
+## 44/B. §[^174] A 44. § (3)–(5) bekezdése nem alkalmazható akkor, ha
+
+a) jogszabály vagy a program módosítása miatt szükséges az éves fejlesztési keret módosítása, és az éves fejlesztési keret módosításának tárgya, mértéke, illetve módja a jogszabály vagy a program módosulásának átvezetéséhez szükséges kereteket nem lépi túl,
 
 b) az éves fejlesztési keretben kiemelt projekt támogatást igénylőjeként (kedvezményezettjeként) meghatározott személy megváltozik, és az éves fejlesztési keret módosítása ennek átvezetésére irányul,
 
-c)[^140] a 42. § (5) bekezdés f) pont miatt szükséges az éves fejlesztési keret módosítása.
+c) a 42. § (5) bekezdés f) pontja miatt szükséges az éves fejlesztési keret módosítása.
 
-[^139]: A 44/B. § a) pontja a 303/2015. (X. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^140]: A 44/B. § c) pontja a 303/2015. (X. 16.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^173]: A 44/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 50. § 14. pontja hatályon kívül helyezte.
+[^174]: A 44/B. § a 347/2015. (XI. 20.) Korm. rendelet 18. §-ával megállapított szöveg.

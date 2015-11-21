@@ -154,7 +154,9 @@
 
 4. szándékosság: a 2007. évi XVII. törvény 9. § s) pontjában meghatározott fogalom,
 
-5. terület-, illetve állatlétszám alapú támogatások: a KAP rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló 2014. március 11-i 640/2014/EU bizottsági felhatalmazáson alapuló rendelet 2. cikk (1) bekezdés 14., illetve 21. pontjában meghatározott intézkedések.
+5. terület-, illetve állatlétszám alapú támogatások: a KAP rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló 2014. március 11-i 640/2014/EU bizottsági felhatalmazáson alapuló rendelet 2. cikk (1) bekezdés 14., illetve 21. pontjában meghatározott intézkedések,
+
+6.[^33] adategyeztetés: az EMVA forrásból nyújtott támogatások esetén a támogatási kérelem tárgyában történő döntéshozatalt megelőzően az adatoknak a támogatási, illetve kifizetési kérelemmel érintett terület-, illetve állatlétszám megállapítása, valamint a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges írásbeli egyeztetés.
 
 (2) Az (1) bekezdésben nem értelmezett fogalmakat
 
@@ -164,9 +166,11 @@ b) az 1303/2013/EU európai parlamenti és tanácsi rendelet,
 
 c) az 1303/2013/EU európai parlamenti és tanácsi rendelet 1. cikkében meghatározott közösségi jogszabályok,
 
-d)[^33] a KAP rendelet, valamint
+d)[^34] a KAP rendelet,
 
-e)[^34] az Európai Bizottság b)–d) pont szerinti rendeletek felhatalmazása alapján kiadott végrehajtási jogi aktusai
+e)[^35] a leginkább rászoruló személyeket támogató európai segítségnyújtási alapról szóló, 2014. március 11-i 223/2014/EU európai parlamenti és tanácsi rendelet,
+
+f)[^36] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása alapján kiadott végrehajtási jogi aktusai
 
 ## szerint kell értelmezni.
 
@@ -201,5 +205,7 @@ e)[^34] az Európai Bizottság b)–d) pont szerinti rendeletek felhatalmazása 
 [^30]: A 3. § (1) bekezdés 63. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 11. pontja szerint módosított szöveg.
 [^31]: A 3. § (1) bekezdés 64. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 12. pontja szerint módosított szöveg.
 [^32]: A 3. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 5. § (11) bekezdése iktatta be.
-[^33]: A 3. § (2) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdésével megállapított szöveg.
-[^34]: A 3. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdése iktatta be.
+[^33]: A 3. § (1a) bekezdés 6. pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^34]: A 3. § (2) bekezdés d) pontja a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^35]: A 3. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdése iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^36]: A 3. § (2) bekezdés f) pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.

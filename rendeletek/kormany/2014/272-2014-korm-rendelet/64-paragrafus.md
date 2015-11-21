@@ -1,10 +1,11 @@
-64. § (1)[^181] Kiemelt és egyszerűsített kiválasztási eljárásrend kivételével, ha a felhívás úgy rendelkezik, az irányító hatóság döntés-előkészítő bizottságot hívhat össze a támogatási kérelmekről hozott döntés megalapozására. Döntés-előkészítő bizottságot kell összehívni – kiemelt és egyszerűsített kiválasztási eljárás kivételével – ha a szakpolitikai felelős nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban került kijelölésre.
+64. § (1)[^225] Kiemelt és egyszerűsített kiválasztási eljárásrend kivételével, ha a felhívás úgy rendelkezik, az irányító hatóság döntés-előkészítő bizottságot hívhat össze a támogatási kérelmekről hozott döntés megalapozására. Döntés-előkészítő bizottságot kell összehívni – kiemelt és egyszerűsített kiválasztási eljárás kivételével – ha a szakpolitikai felelős nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban került kijelölésre.
 
 (2) A döntés-előkészítő bizottság döntési javaslatot készít.
 
-(3) A döntés-előkészítő bizottság tagjainak száma legfeljebb 5 fő. A döntés-előkészítő bizottság összehívását, működését, tagjait az irányító hatóság által kiadott ügyrendben kell meghatározni. Ha a döntés-előkészítő bizottságot össze kell hívni, a döntés-előkészítő bizottságban többségi szavazati joggal vesznek részt a szakpolitikai felelős által delegált személyek.
+(3)[^226] A döntés-előkészítő bizottság tagjainak száma legfeljebb öt fő. A döntés-előkészítő bizottság összehívását, működését, tagjait az irányító hatóság által kiadott ügyrendben kell meghatározni. Ha a szakpolitikai felelős nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban került kijelölésre, a döntés-előkészítő bizottságot úgy kell összehívni, hogy a döntés-előkészítő bizottságban többségben legyenek a szakpolitikai felelős által delegált, szavazati joggal rendelkező személyek.
 
-(4)[^182]
+(4)[^227]
 
-[^181]: A 64. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 101. § 13. pontja szerint módosított szöveg.
-[^182]: A 64. § (4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 14. pontja hatályon kívül helyezte.
+[^225]: A 64. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 101. § 13. pontja szerint módosított szöveg.
+[^226]: A 64. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^227]: A 64. § (4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 14. pontja hatályon kívül helyezte.

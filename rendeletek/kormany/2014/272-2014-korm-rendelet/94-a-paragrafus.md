@@ -1,4 +1,4 @@
-## 33/A. [^275] Pénzügyi közvetítővel kötött finanszírozási megállapodás
+## 33/A. [^323] Pénzügyi közvetítővel kötött finanszírozási megállapodás
 
 94/A. § (1) Az 1303/2013/EU európai parlamenti és tanácsi rendelet 38. cikk (5) bekezdése szerint az alapok alapját végrehajtó szervezet a végrehajtás egy részének lebonyolításával pénzügyi közvetítőt bízhat meg.
 
@@ -14,4 +14,4 @@ d) a pénzügyi eszközökből származó kamat és más nyereség felhasználá
 
 e) a pénzügyi közvetítő adatszolgáltatásra és ellenőrzési tevékenységre vonatkozó kötelezettségeit.
 
-[^275]: A 33/A. alcímet (94/A–94/B. §) a 144/2015. (VI. 12.) Korm. rendelet 58. §-a iktatta be.
+[^323]: A 33/A. alcímet (94/A–94/B. §) a 144/2015. (VI. 12.) Korm. rendelet 58. §-a iktatta be.

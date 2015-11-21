@@ -1,4 +1,4 @@
-115/A. §[^341] (1) Ha az előlegigénylés hiányos vagy hibás, a beérkezéstől számított hét napon belül legfeljebb tizenöt napos határidő kitűzésével, az adott igénylésben szereplő valamennyi hiány, illetve hiba megjelölésével, hiánypótlásra kell felhívni a kedvezményezettet, a 37. §-ban foglaltak figyelembevételével.
+115/A. §[^390] (1) Ha az előlegigénylés hiányos vagy hibás, a beérkezéstől számított hét napon belül legfeljebb tizenöt napos határidő kitűzésével, az adott igénylésben szereplő valamennyi hiány, illetve hiba megjelölésével, hiánypótlásra kell felhívni a kedvezményezettet, a 37. §-ban foglaltak figyelembevételével.
 
 (2) Hiánypótlásra legfeljebb egy alkalommal kerülhet sor.
 
@@ -10,4 +10,4 @@
 
 (6) Ha az előlegigénylési kérelem ellenőrzése során nem merült fel olyan ok, amely miatt a támogatás kifizetését fel kellene függeszteni, az irányító hatóság a támogatást az előlegigénylés beérkezésétől számított tizenöt napon belül kifizeti. A kifizetésre rendelkezésre álló határidő felfüggesztésére a 133. § (2) bekezdését, és a 134. §-t kell alkalmazni.
 
-[^341]: A 115/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 66. §-a iktatta be.
+[^390]: A 115/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 66. §-a iktatta be.
