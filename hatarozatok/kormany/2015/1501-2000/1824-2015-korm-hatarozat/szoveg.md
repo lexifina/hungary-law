@@ -196,8 +196,6 @@ Határidő: a határozat hatálybalépését követő 120 napon belül
 
 49. Ez a határozat a közzétételét követő napon lép hatályba.
 
-50. Hatályát veszti
+50.[^1]
 
-a) a Terrorizmus Elleni Nemzeti Akcióterv felülvizsgálatáról szóló 2151/2005. (VII. 27.) Korm. határozat,
-
-b) a terrorfelderítés műveleti koordinációjáról és a Terrorellenes Koordinációs Bizottság létrehozásáról szóló 2239/2005. (X. 28.) Korm. határozat.
+[^1]: Az 50. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
