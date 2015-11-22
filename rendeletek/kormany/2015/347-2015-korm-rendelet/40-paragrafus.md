@@ -1,3 +1,0 @@
-## 39. § A 272/2014. (XI. 5.) Korm. rendelet 135/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) EMVA forrásból nyújtott támogatások esetén, ha az ugyanazon kifizetési igénylés keretében igényelt támogatás több mint 10%-kal meghaladja a jóváhagyott elszámoló bizonylatok alapján folyósítható támogatás összegét, a kifizető ügynökség alkalmazni köteles a 809/2014/EU rendelet 63. cikk (1) bekezdésében előírt igazgatási szankciót és a különbözetnek megfelelő összeggel csökkenti a folyósítható támogatás összegét. A csökkentés nem haladhatja meg a folyósítható támogatás teljes összegét.”
