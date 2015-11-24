@@ -32,7 +32,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-b) a Károlyi-Csekonics Palotaegyüttes átfogó, állagmegóvó felújításával kapcsolatos tervezési feladatok elvégzése érdekében 2016. évben szükséges 385 millió forint forrás biztosításáról a központi költségvetés Miniszterelnökség fejezetében;
+b)[^1] a Károlyi-Csekonics Palotaegyüttes átfogó, állagmegóvó felújításával kapcsolatos tervezési feladatok elvégzése érdekében 2016. évben szükséges 385 millió forint forrás biztosításáról a központi költségvetés XI. Miniszterelnökség fejezet, 1. Miniszterelnökség címen;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -51,3 +51,5 @@ Határidő: 2016. február 29.
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2015. december 31.
+
+[^1]: Az 5. pont b) alpontja az 1855/2015. (XI. 24.) Korm. határozat 11. pontja szerint módosított szöveg.
