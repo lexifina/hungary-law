@@ -1,0 +1,88 @@
+# A Kormány 349/2015. (XI. 24.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 181. szám, 2015. november 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8b42ec2614b6f3c0b07e8874eb4920a0a7f36c5e/dokumentumok/f9574131371677945ac770561c09ffdd9785c89c/letoltes)
+
+---
+
+A Kormány 349/2015. (XI. 24.) Korm. rendelete
+a Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet módosításáról
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (1) bekezdés a) pontjában,
+a 3. § tekintetében a víziközlekedésről szóló 2000. évi XLII. törvény 88. § (1) bekezdés a) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § (1) A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet (a továbbiakban: Korm. rendelet) 5. §
+(5) bekezdés 1. pontja helyébe a következő rendelkezés lép:
+(A légiközlekedési hatóság hatósági feladatai a következők:)
+„1. a lajstromozásra kötelezett légijárművek állami lajstromozása, Magyarország Légijármű Lajstromának
+(a továbbiakban: lajstrom) vezetése,”
+(2) A Korm. rendelet 5. § (5) bekezdés 6. pontja helyébe a következő rendelkezés lép:
+(A légiközlekedési hatóság hatósági feladatai a következők:)
+„6. a 139/2014/EU bizottsági rendelet hatálya alá nem tartozó repülőterek állapotának és üzemben tartásának
+vizsgálata és ellenőrzése, valamint a repülőtér üzemben tartási engedélyének kiadása és időbeli hatályának
+meghosszabbítása, a repülőtérrendek jóváhagyása,”
+
+(3) A Korm. rendelet 5. § (5) bekezdés 9. és 10. pontja helyébe a következő rendelkezés lép:
+(A légiközlekedési hatóság hatósági feladatai a következők:)
+„9. kiadja a légiközlekedési szakszemélyzet, a légiutas-kísérő, valamint a szakszolgálati engedélyhez nem kötött
+légiközlekedési vagy légiközlekedéssel összefüggő tevékenységet végzők szakirányú képzéséhez szükséges
+engedélyeket, a légiközlekedési szakszemélyzet szakszolgálati engedélyeit, a légiutas-kísérők tanúsítványát,
+valamint a szakszolgálati engedélyhez nem kötött légiközlekedési vagy légiközlekedéssel összefüggő
+tevékenységet végzők engedélyeit,
+10. a légiközlekedési szakszemélyzet szakszolgálati engedélyének és a légiutas-kísérők tanúsítványának kiadásához
+és meghosszabbításához szükséges, valamint a szakszolgálati engedélyhez nem kötött légiközlekedési vagy
+légiközlekedéssel összefüggő tevékenységet végzők repülő-egészségügyi alkalmasságának hatósági minősítése,”
+(4) A Korm. rendelet 5. § (5) bekezdés 54. pontja helyébe a következő rendelkezés lép:
+(A légiközlekedési hatóság hatósági feladatai a következők:)
+„54. a légiközlekedési szakszemélyzet, a légiutas-kísérők, valamint a szakszolgálati engedélyhez nem kötött
+légiközlekedési vagy légiközlekedéssel összefüggő tevékenységet végző személyek jogaira és kötelezettségeire
+vonatkozó rendelkezések betartásának ellenőrzése,”
+(5) A Korm. rendelet 5. § (5) bekezdése a következő 58. ponttal egészül ki:
+(A légiközlekedési hatóság hatósági feladatai a következők:)
+„58. a 139/2014/EU bizottsági rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként
+gondoskodik a 139/2014/EU bizottsági rendelet 3. cikk (6) bekezdésében, 6. cikk (2)–(4) bekezdésében, 7. cikk
+(2) és (3) bekezdésében, valamint II. mellékletében meghatározott feladatok végrehajtása és a hatálya alá tartozó
+repülőterek repülőtérrendjeinek jóváhagyása.”
+2. § (1) A Korm. rendelet 10. § (2a) bekezdése helyébe a következő rendelkezés lép:
+„(2a) Ez a rendelet a következő közösségi és uniós rendeletek végrehajtásához szükséges rendelkezéseket állapítja
+meg:
+a) a polgári légi közlekedéshez kapcsolódó műszaki követelmények és igazgatási eljárások rögzítéséről szóló 2011.
+november 3-i 1178/2011/EU bizottsági rendelet módosításáról szóló, 2014. március 13-i 245/2014/EU bizottsági
+rendelet,
+b) a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és
+tanácsi rendelet értelmében történő meghatározásáról szóló, 2014. február 12-i 139/2014/EU bizottsági rendelet.”
+(2) A Korm. rendelet 10. § (3) bekezdése a következő h) és i) ponttal egészül ki:
+(Ez a rendelet)
+„h) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók
+Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött megállapodás
+végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló 2009. február 16-i 2009/13/EK tanácsi
+irányelvnek, és
+i) a 2006. évi tengerészeti munkaügyi egyezménynek való megfelelés és annak végrehajtása vonatkozásában
+a lobogó szerinti államokra háruló egyes kötelezettségekről szóló, 2013. november 20-i 2013/54/EU európai
+parlamenti és tanácsi irányelvnek”
+(való megfelelést szolgálja.)
+3. §
+A Korm. rendelet
+a) 7. § (2) bekezdés 5. pontjában az „élet- és munkakörülményeinek ellenőrzésével” szövegrész helyébe
+az „élet- és munkakörülményeinek ellenőrzésével, a hajózási tevékenységet, valamint az úszólétesítmények
+élet- és munkakörülményeit érintő panaszok kivizsgálásával, a tengeri hajók munkavédelmi követelményeit
+tartalmazó szabályzat jóváhagyásával és a tengerészeti munkaügyi bizonyítvány kiállításával,”
+b) 7. § (2a) bekezdésében az „összefüggésben nyilvántartást vezet” szövegrész helyébe az „összefüggésben,
+valamint az általa kiadott tengerészeti munkaügyi bizonyítványokról nyilvántartást vezet”
+szöveg lép.
+4. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+5. § (1) Ez a rendelet a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai
+parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló, 2014. február 12-i 139/2014/EU
+bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(2) Ez a rendelet
+a) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási
+Dolgozók Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött
+megállapodás végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló 2009. február 16-i
+2009/13/EK tanácsi irányelvnek, és
+b) a 2006. évi tengerészeti munkaügyi egyezménynek való megfelelés és annak végrehajtása vonatkozásában
+a lobogó szerinti államokra háruló egyes kötelezettségekről szóló, 2013. november 20-i 2013/54/EU európai
+parlamenti és tanácsi irányelvnek
+való megfelelést szolgálja.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
