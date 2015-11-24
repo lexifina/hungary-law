@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva az Óbudai Egyetem megkezdett kollégiumi beruházásának megvalósításához 600,3 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva az Óbudai Egyetem megkezdett kollégiumi beruházásának megvalósításához 600,3 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. február 28.
+## Határidő: 2016. június 30.
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy az 1. pont szerinti beruházás befejezése érdekében a 2016. évben 1042,6 millió forint egyszeri jelleggel történő biztosításáról gondoskodjon.
 
@@ -69,3 +69,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1855/2015. (XI. 24.) Korm. határozat 8. pontja szerint módosított szöveg.
