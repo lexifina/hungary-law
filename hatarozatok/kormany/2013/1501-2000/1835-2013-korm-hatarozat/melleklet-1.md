@@ -18,7 +18,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2014. október 31.
+## Határidő: 2015. december 31.[^2]
 
 ## 3. felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy az éves központi költségvetések tervezése során gondoskodjon a Magyar Testgyakorlók Köre 2014–2020. közötti sportszakmai többletfeladatai ellátásához szükséges forrásigények biztosításáról;
 
@@ -28,7 +28,7 @@
 
 ## Határidő: folyamatos, az éves központi költségvetési tervezés időszakában
 
-## 4.[^2]
+## 4.[^3]
 
 ## 5. felhívja az emberi erőforrások miniszterét, hogy tegye meg a szükséges intézkedéseket – a Magyar Testgyakorlók Köre kivételével – a kiemelt sportegyesületek 2013–2020. közötti sportszakmai többletfeladatai támogatási igényeinek felmérése, továbbá az általuk felhalmozott tartozásállomány elemzése érdekében, és készítsen előterjesztést az adósságkonszolidációról, valamint a támogatási igényekről;
 
@@ -149,4 +149,5 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 [^1]: A 2. pont az 1547/2014. (IX. 29.) Korm. határozat 9. pontja szerint módosított szöveg.
-[^2]: A 4. pontot az 1299/2015. (V. 13.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^2]: Az 1855/2015. (XI. 24.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 4. pontot az 1299/2015. (V. 13.) Korm. határozat 3. pontja hatályon kívül helyezte.
