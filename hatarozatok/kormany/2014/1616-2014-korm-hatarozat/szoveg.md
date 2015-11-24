@@ -8,7 +8,7 @@ b) a Fertőd közigazgatási területén fekvő, 323/1 helyrajzi számú ingatla
 
 c) keretében fejlesztésre kerülő b) pont szerinti ingatlan vagyonkezelője az NSK legyen,
 
-d)[^1] a 2015. és 2016. években 968,4 millió forint keretösszegű forrásból valósul meg,
+d)[^1] a 2015. és 2016. években összesen 1028,4 millió forint keretösszegű költségvetési forrásból valósul meg,
 
 e) beruházáslebonyolítója, hivatalos közbeszerzési tanácsadója és építési műszaki ellenőre a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt;
 
@@ -32,4 +32,4 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: a Beruházás megvalósításáig folyamatos
 
-[^1]: Az 1. pont d) alpontja az 1253/2015. (IV. 23.) Korm. határozat 5. pontjával megállapított szöveg.
+[^1]: Az 1. pont d) alpontja az 1841/2015. (XI. 24.) Korm. határozat 1. pontjával megállapított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1616-30
 | --- | --- | --- |
 | 2014-11-04 | 2014-1616-30-22.1 | 1616/2014. (XI. 4.) Korm. határozat |
 | 2015-04-23 | 2014-1616-30-22.2 | 1253/2015. (IV. 23.) Korm. határozat |
+| 2015-11-24 | 2014-1616-30-22.3 | 1841/2015. (XI. 24.) Korm. határozat |
