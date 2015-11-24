@@ -8,8 +8,12 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: 2014. december 31.
 
+2a.[^1] egyetért azzal, hogy az 1. pontban meghatározott programok megvalósításához a 2. pont szerint biztosított forrás fel nem használt része egyéb nemzetpolitikai célok, programok, támogatások finanszírozására kerüljön felhasználásra.
+
 3. felhívja a nemzetpolitikáért felelős miniszterelnök-helyettest, hogy a Kőrösi Csoma Sándor Program és a Mikes Kelemen Program 2015. évi megvalósításáról gondoskodjon.
 
 Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
 Határidő: a 2015. évben folyamatos
+
+[^1]: A 2a. pontot az 1842/2015. (XI. 24.) Korm. határozat iktatta be.
