@@ -1,0 +1,1 @@
+A Kormány jóváhagyja a „Budapesti 4. sz. metróvonal I. szakasz: Co-7 sz. szerződés Állomások belső beépítése” tárgyában a Budapesti Közlekedési Zártkörűen Működő Részvénytársaság és a SWIETELSKY Magyarország Korlátolt Felelősségű Társaság között megkötött vállalkozási szerződés 3. számú szerződésmódosítása szövegét.
