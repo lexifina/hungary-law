@@ -34,8 +34,18 @@ Határidő: az a) alpont tekintetében 2015. május 31.
 
 a b) és c) alpont tekintetében a 2016. évi központi költségvetés tervezése keretében
 
-4. A Kormány jóváhagyja, hogy az NSK által a 3. pont szerint biztosított előirányzatok terhére lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
+3a.[^1] A Kormány felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy tegyék meg a szükséges intézkedéseket a fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem beruházási program megvalósításáról és a szükséges pénzügyi fedezet biztosításáról szóló 1616/2014. (XI. 4.) Korm. határozat 1. pontjában meghatározott beruházás megvalósításához – a 3. pont c) alpontja szerinti forráson felül – 2016. évben szükséges további 60,0 millió forint biztosítása érdekében.
 
-5.[^1]
+Felelős: nemzetgazdasági miniszter
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+nemzeti fejlesztési miniszter
+
+Határidő: 2016. január 31.
+
+4.[^2] A Kormány jóváhagyja, hogy az NSK által a 3. és a 3a. pont szerint biztosított előirányzatok terhére lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
+
+5.[^3]
+
+[^1]: A 3a. pontot az 1841/2015. (XI. 24.) Korm. határozat 2. pontja iktatta be.
+[^2]: A 4. pont az 1841/2015. (XI. 24.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
