@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1259-30
 | --- | --- | --- |
 | 2015-04-24 | 2015-1259-30-22.1 | 1259/2015. (IV. 24.) Korm. határozat |
 | 2015-10-08 | 2015-1259-30-22.2 | 1734/2015. (X. 8.) Korm. határozat |
+| 2015-11-24 | 2015-1259-30-22.3 | 1855/2015. (XI. 24.) Korm. határozat |

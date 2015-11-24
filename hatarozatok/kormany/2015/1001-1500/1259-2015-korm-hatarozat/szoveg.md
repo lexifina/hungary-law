@@ -8,6 +8,6 @@ Felelős: nemzetgazdasági miniszter
 
 emberi erőforrások minisztere
 
-Határidő: felmerülés ütemében.
+Határidő: a felmerülés ütemében
 
-[^1]: A 2. pont az 1734/2015. (X. 8.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1855/2015. (XI. 24.) Korm. határozat 5. pontjával megállapított szöveg.
