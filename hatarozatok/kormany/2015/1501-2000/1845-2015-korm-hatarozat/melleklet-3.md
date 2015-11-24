@@ -1,0 +1,9 @@
+|  | A | B | C | D | E | F | G | H | I | J | K |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Módosítás előtti forrásszerkezet | Módosított forrásszerkezet | Projekt rövid bemutatása | Támogatási szerződésbe foglalandó feltétel | Kötelezettségvállalás határideje | Támogatási szerződés módosításának határideje |
+
+| 2. | Környezet és Energia Operatív Program (Ft) | Környezet és Energiahatékonysági Operatív Program (Ft) | Környezet és Energia Operatív Program (Ft) | Környezet és Energiahatékonysági Operatív Program (Ft) |
+
+| 3. | KEOP- 1.2.0/09- 11-2012- 0014 | A siófoki szennyvízelvezetési agglomeráció szennyvízgyűjtése és szennyvíztisztítása | NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság és Dél-Balatoni Szennyvízelvezetés és Tisztítás Megvalósítását Célzó Önkormányzati Társulás konzorcium | 3 505 236 730 | 3 068 767 975 | 3 846 415 607 | 3 367 463 581 | A projekt keretében a siófoki agglomeráció csatornahálózatának bővítésére, és az új siófoki szennyvíztisztító telep megépítésére kerül sor. A meglévő, felhagyásra kerülő siófoki szennyvíztisztító telep helyett egy új, 20 000 m3/nap, 146 000 lakosegyenérték kapacitású tisztító épül, valamint Siófok belváros, Töreki városrész, Balatonendréd, Balatonföldvár és Zamárdi gyűjtőhálózatának bővítése történik meg. 970 db új bekötés, 15,8 km gravitációs és 12,4 km nyomott rendszerű szennyvízvezeték épül. | A támogatási szerződésben rendelkezni szükséges arról, hogy a kedvezményezett fogadja el, hogy a Környezet és Energia Operatív Program forrásából a 2015. december 31-ig teljesített tevékenységekhez kapcsolódóan felmerült és kifizetett költségek számolhatók el, az ezt követően felmerülő – beleértve a működőképesség biztosításához szükséges – költségeket a támogatást igénylőnek saját forrásból szükséges finanszíroznia. | 2015. december 10. | 2015. december 15. |
+
+3. melléklet az 1845/2015. (XI. 24.) Korm. határozathoz
