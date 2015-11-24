@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1003-30
 | 2015-01-30 | 2014-1003-30-22.4 | 1812/2014. (XII. 19.) Korm. rendelet |
 | 2015-07-27 | 2014-1003-30-22.5 | 1812/2014. (XII. 19.) Korm. határozat |
 | 2015-09-24 | 2014-1003-30-22.6 | 1812/2014. (XII. 19.) Korm. határozat |
+| 2015-11-24 | 2014-1003-30-22.7 | 1812/2014. (XII. 19.) Korm. határozat |
