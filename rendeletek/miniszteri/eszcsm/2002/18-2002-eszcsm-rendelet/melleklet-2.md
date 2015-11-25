@@ -70,7 +70,9 @@ c)[^23] a népegészségügyi feladatkörében eljáró fővárosi és megyei ko
 
 d) a HM Állami Egészségügyi Központ Transzfuziológiai Diagnosztikai Osztálya,
 
-e) a Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház-Rendelőintézet Víruslaboratóriuma.
+e) a Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház-Rendelőintézet Víruslaboratóriuma,
+
+f)[^24] a Pécsi Tudományegyetem Klinikai Központ Orvosi Mikrobiológiai és Immunitástani Intézete.
 
 III.
 
@@ -84,7 +86,9 @@ IV.
 
 Acornea donor vírusvizsgálatára, az intézetben ellátott betegek, illetve a levett vérek szűrővizsgálata tekintetében, a III. és VI. pontban meghatározott szűrővizsgálat kivételével:
 
-a) a HM Állami Egészségügyi Központ Vérellátó Osztálya.
+a) a HM Állami Egészségügyi Központ Vérellátó Osztálya,
+
+b)[^25] a Pécsi Tudományegyetem Klinikai Központ Orvosi Mikrobiológiai és Immunitástani Intézete.
 
 V.
 
@@ -110,3 +114,5 @@ b) az Országos Vérellátó Szolgálat Központi Laboratóriuma kizárólag a I
 
 [^22]: Az eredeti melléklet számozását 2. mellékletre változtatta és szövegét megállapította a 46/2009. (XII. 22.) EüM rendelet 6. §-a.
 [^23]: A 2. melléklet II. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 38. §-a szerint módosított szöveg.
+[^24]: A 2. melléklet II. pont f) alpontját az 54/2015. (XI. 24.) EMMI rendelet 19. §-a iktatta be.
+[^25]: A 2. melléklet IV. pont b) alpontját az 54/2015. (XI. 24.) EMMI rendelet 19. §-a iktatta be.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-18-20-0
 | 2013-11-16 | 2002-18-20-0M.6 | 68/2013. (XI. 15.) EMMI rendelet |
 | 2014-07-01 | 2002-18-20-0M.7 | 11/2014. (II. 24.) EMMI rendelet |
 | 2015-04-29 | 2002-18-20-0M.8 | 46/2009. (XII. 22.) EüM rendelet |
+| 2015-11-25 | 2002-18-20-0M.9 | 54/2015. (XI. 24.) EMMI rendelet |
