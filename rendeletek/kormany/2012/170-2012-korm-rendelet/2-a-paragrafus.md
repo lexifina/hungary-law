@@ -8,11 +8,11 @@ c) a beruházás megvalósítása a műszaki tartalom időközben bekövetkezett
 
 (2) Ha az érintett helyi önkormányzat nem tesz eleget az (1) bekezdésben megjelölt kötelezettségének, a miniszter erről haladéktalanul tájékoztatja a helyi önkormányzatok törvényességi felügyeletéért felelős minisztert.
 
-(3) A 4. §-ban meghatározott szervezet a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 79. §-ában foglaltak alapján általa nyilvántartott – az 1. §-ban meghatározott beruházásokkal kapcsolatos – adatok teljes köréről folyamatosan köteles adatot szolgáltatni a miniszter számára.
+(3)[^4] A támogató képviseletében eljáró szervezet a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 79. §-a, valamint a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 193. §-a alapján köteles az általa nyilvántartott – a beruházásokkal kapcsolatos, személyes adatnak nem minősülő – adatok teljes köréről folyamatosan adatot szolgáltatni a miniszter részére.
 
-(4) Ha a beruházás megvalósítása érinti a vidékfejlesztésért felelős miniszter feladatköréhez kapcsolódó, az Európai Unió vagy más nemzetközi szervezet által nyújtott támogatás felhasználását, akkor az ehhez kapcsolódó adatokról a miniszter kérésére a vidékfejlesztésért felelős miniszter a kért adatokat haladéktalanul köteles a miniszternek megküldeni.
+(4)[^5]
 
-(5) A beruházás megvalósítása érdekében a támogatási konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező miniszter (a továbbiakban: érintett miniszter) a miniszter egyedi kérésére köteles a rendelkezésére álló adatokat a miniszternek megküldeni.
+(5)[^6] Az érintett miniszter köteles a miniszter kérésére az Európai Unió, más nemzetközi szervezet vagy a hazai költségvetés által nyújtott támogatással vagy a beruházás megvalósításával összefüggő egyéb, a rendelkezésére álló – személyes adatnak nem minősülő – adatot a miniszter részére megküldeni.
 
 (6) Az (1)–(5) bekezdésben meghatározott adatok személyes adatot nem tartalmazhatnak.
 
@@ -21,3 +21,6 @@ c) a beruházás megvalósítása a műszaki tartalom időközben bekövetkezett
 (8) A miniszter az (1)–(5) bekezdésben meghatározott adatokat az eredeti formában, elektronikus módon vagy papír alapon tartja nyilván. A beruházással kapcsolatos adatokat a beruházás befejezését követő 1 éven belül köteles a nyilvántartásból törölni.
 
 [^3]: A 2/A. §-t a 362/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2/A. § (3) bekezdése a 350/2015. (XI. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2/A. § (4) bekezdését a 350/2015. (XI. 24.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^6]: A 2/A. § (5) bekezdése a 350/2015. (XI. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
