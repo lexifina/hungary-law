@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-285-20-
 | 2014-09-05 | 2012-285-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-07-08 | 2012-285-20-22.8 | 374/2013. (X. 25.) Korm. rendelet |
 | 2015-07-11 | 2012-285-20-22.9 | 374/2013. (X. 25.) Korm. rendelet |
+| 2015-11-25 | 2012-285-20-22.10 | 374/2013. (X. 25.) Korm. rendelet |
