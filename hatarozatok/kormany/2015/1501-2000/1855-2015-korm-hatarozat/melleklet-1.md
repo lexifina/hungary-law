@@ -14,21 +14,7 @@
 
 ## Határidő: 2016. június 30.
 
-## 3. Az egyes kiemelt sportegyesületek 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportfejlesztési feladataikkal összefüggő kormányzati intézkedésekről szóló 1835/2013. (XI. 15.) Korm. határozat 2. pontjában a „2014. október 31.” szövegrész helyébe a „2015. december 31.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1864/2013. (XI. 19.) Korm. határozat módosításáról szóló 1003/2014. (I. 17.) Korm. határozat 1. pontjában a „Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím részére biztosított összeg, a Balassi Intézet cím részére biztosított összeg, a Miniszterelnökség fejezet Fejezeti általános tartaléka alcímre biztosított összeg, a KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport javára biztosított összeg és az Országos Atomenergia Hivatal cím részére biztosított összeg tekintetében 2015. június 30., a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcím részére biztosított összeg tekintetében 2015. december 31.” szövegrész helyébe a „Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím részére biztosított összeg, a Miniszterelnökség fejezet Fejezeti általános tartaléka alcímre biztosított összeg, a KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport javára biztosított összeg és az Országos Atomenergia Hivatal cím részére biztosított összeg tekintetében 2015. június 30., a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcím részére biztosított összeg és a Balassi Intézet cím részére biztosított összeg tekintetében 2015. december 31.” szöveg lép.
-
-## 5. A Bogányi-zongorák magyar és külföldi közintézményekben történő elhelyezéséről és megvásárlásáról szóló 1259/2015. (IV. 24.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
-
-## „2. felhívja a nemzetgazdasági minisztert és az emberi erőforrások miniszterét, hogy az 1. pontban foglalt cél megvalósítása érdekében gondoskodjanak 764,54 millió forint rendelkezésre állásáról az Emberi Erőforrások Minisztériuma fejezetében.
-
-## Felelős: nemzetgazdasági miniszter
-
-## emberi erőforrások minisztere
-
-## Határidő: a felmerülés ütemében”
-
-## 6. Az Iszlám Állam elnevezésű terrorszervezet elleni nemzetközi fellépésben való magyar részvételhez szükséges 2015. évi források biztosításáról szóló 1339/2015. (V. 27.) Korm. határozat 1. pontjában a „2015. október 1.” szövegrész helyébe a „2016. január 31.” szöveg lép.
+## 3–6.[^1]
 
 ## 7. A Kormány a nemzeti ünnepek, valamint a kiemelt fontosságú rendezvények lebonyolításához szükséges források biztosításáról szóló 1343/2015. (V. 27.) Korm. határozatban meghatározottaktól eltérően úgy dönt, hogy az egyszeri jelleggel biztosítandó, legfeljebb 1159,1 millió forint költségvetési forrást 2016-ban kell biztosítani.
 
@@ -38,13 +24,13 @@
 
 ## Határidő: 2016. évben a felmerülés ütemében
 
-## 8. Az Óbudai Egyetem már megkezdett kollégiumi beruházásának megvalósításához szükséges – részben a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosítással történő – forrás biztosításáról szóló 1457/2015. (VII. 7.) Korm. határozat 1. pontjában a „2016. február 28.” szövegrész helyébe a „2016. június 30.” szöveg lép.
+## 8.[^2]
 
 ## 9. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1520/2015. (VII. 27.) Korm. határozat (a továbbiakban: Határozat) 2. pontja szerint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 8. Szociális humánszolgáltatók részére biztosított szociális- és gyermekvédelmi ágazati pótlék jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat terhére a szociális kiegészítő pótlékon kívül a szociális ágazati pótlék jogcímen is felhasználható.
 
 ## 10. A Kormány egyetért azzal, hogy a Határozat alapján a IX. Helyi önkormányzatok támogatásai fejezet részére biztosított támogatás (a továbbiakban: Támogatás) az önkormányzati feladatok ellátásához is felhasználható, valamint a Támogatásra nem vonatkozik visszatérítési kötelezettség.
 
-## 11. A Károlyi-Csekonics Palotaegyüttes átfogó, állagmegóvó felújítási feladatainak kijelöléséről és az előkészítéshez szükséges forrás biztosításáról szóló 1615/2015. (IX. 8.) Korm. határozat 5. pont b) alpontjában a „Miniszterelnökség fejezetében” szövegrész helyébe a „XI. Miniszterelnökség fejezet, 1. Miniszterelnökség címen” szöveg lép.
+## 11.[^3]
 
 1. melléklet az 1855/2015. (XI. 24.) Korm. határozathoz
 
@@ -221,3 +207,7 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
