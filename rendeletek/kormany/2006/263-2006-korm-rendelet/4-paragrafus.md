@@ -1,11 +1,3 @@
-## A fővárosi és megyei kormányhivatal közlekedési hatósági feladatainak ellátása[^8]
-
-## 3/A.[^9] § (1) A fővárosi és megyei kormányhivatal közlekedési hatósági feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
-
-## (2) A fővárosi és megyei kormányhivatal közlekedési hatósági hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § f) pontjában meghatározott hatásköröket a Nemzeti Közlekedési Hatóság Központ (a továbbiakban: Központ) gyakorolja.
-
-## (3) A közlekedésért felelős miniszter az (1) bekezdésben meghatározott irányítási és ellenőrzési feladatainak ellátásában a Központ közreműködik.
-
 ## A közlekedési hatóságok kijelölése[^10]
 
 4. §[^11] (1) A Kormány közlekedési hatóságként
@@ -336,8 +328,6 @@ a) a díjköteles országos közutak díjfizetés ellenében történő használ
 
 b) a közúti járműre előírt tömeg- és mérethatárok betartásának ellenőrzésére a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaságot
 
-[^8]: A 3/A. §-t megelőző alcímet a 326/2010. (XII. 27.) Korm. rendelet 3. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3/A. §-t a 326/2010. (XII. 27.) Korm. rendelet 3. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
 [^10]: A 4. §-t megelőző alcím a 326/2010. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^11]: A 4. § a 326/2010. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^12]: A 4. § (1) bekezdés b) pontja a 296/2012. (X. 17.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
