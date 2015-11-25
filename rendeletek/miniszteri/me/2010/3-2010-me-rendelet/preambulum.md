@@ -1,1 +1,0 @@
-A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 75. § (4) bekezdésében kapott felhatalmazás alapján, a Ksztv. 32. § (3) bekezdésére tekintettel a következőket rendelem el:
