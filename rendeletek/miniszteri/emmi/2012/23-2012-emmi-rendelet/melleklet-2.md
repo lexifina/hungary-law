@@ -36,7 +36,7 @@
 
 | 17. | Gyermekszemészet | specializációs | 24 hónap |
 
-2. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^37]
+2. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^41]
 
 A szakorvosok által megszerezhető licencek képzési követelményei
 
@@ -928,11 +928,11 @@ h) 24 órás vérnyomás monitor
 
 1.1. belgyógyászati szakképesítés,
 
-1.2. onkológiai szakképesítés,
+1.2. klinikai onkológia szakképesítés,
 
 1.3. neurológia szakképesítés,
 
-1.4. aneszteziológia szakképesítés,
+1.4. aneszteziológia és intenzív terápia szakképesítés,
 
 1.5. tüdőgyógyászat szakképesítés,
 
@@ -946,9 +946,23 @@ h) 24 órás vérnyomás monitor
 
 1.10. urológia szakképesítés,
 
-1.11. csecsemő- és gyermekgyógyászati szakképesítés vagy
+1.11. csecsemő- és gyermekgyógyászati szakképesítés,
 
-1.12. pszichiátria szakképesítés
+1.12. pszichiátria szakképesítés,
+
+1.13. arc-, állcsont- és szájsebészet szakképesítés,
+
+1.14. bőrgyógyászat szakképesítés,
+
+1.15. gasztroenterológia szakképesítés,
+
+1.16. hematológia szakképesítés,
+
+1.17. sugárterápia szakképesítés,
+
+1.18. szemészet szakképesítés vagy
+
+1.19. szülészet-nőgyógyászat szakképesítés.
 
 2. Licenc típusa: interdiszciplináris
 
@@ -1125,6 +1139,12 @@ f) 2 hét gyakorlat diabeteses nefrológiai ellátást folytató osztályon
 g) 2 hét diabeteses terhes-gondozást végző osztályon
 
 h) 1 hét gyakorlat diabeteses szemészeti gondozást végző részlegen
+
+4.4. Szülészet-nőgyógyászat alap-szakképesítés esetén:
+
+a) 1 hónap diabetológiai profilú, szakambulanciát is működtető belgyógyászati fekvőbeteg-osztály,
+
+b) 1 hónap diabetológiai profilú, szakambulanciát is működtető gyermekgyógyászati fekvőbeteg-osztály.
 
 5. Vizsgára bocsátás további feltételei
 
@@ -1662,4 +1682,4 @@ A képzésben részt vevő oktató minimum 5 év folyamatos munkaviszonyban dolg
 
 Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló jogszabályban foglaltaknak megfelelően.
 
-[^37]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^41]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja, az 54/2015. (XI. 24.) EMMI rendelet 52. §-a szerint módosított szöveg.
