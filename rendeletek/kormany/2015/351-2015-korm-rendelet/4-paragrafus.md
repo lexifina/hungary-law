@@ -1,0 +1,5 @@
+## 3. § A 60/2014. (III. 6.) Korm. rendelet 25/A. §-a a következő (1a) bekezdéssel egészül ki és a § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1a) A 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Előcsatlakozási Támogatási Eszközből, valamint az Európai Szomszédsági Támogatási Eszközből támogatott határokon átnyúló programokból finanszírozott források kezeléséhez szükséges informatikai rendszerek szoftverfejlesztésével és alkalmazásüzemeltetésével kapcsolatos feladatokat az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság látja el, az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozattal összhangban.
+
+## (2) A FAIR-ral, az EMIR-rel és az IMIR 2014–2020-szal kapcsolatos informatikai biztonsági feladatokat a Nemzetbiztonsági Szakszolgálat kizárólagosan látja el.”
