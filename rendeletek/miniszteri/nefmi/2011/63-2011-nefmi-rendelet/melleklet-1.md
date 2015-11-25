@@ -430,6 +430,10 @@
 
 5.26.[^89] Képi diagnosztikai, nukleáris medicina és sugárterápiás asszisztens (55)
 
+5.27.[^90] Orvosi laboratóriumi és képalkotó diagnosztikai analitikus
+
+5.28.[^91] Orvosi laboratóriumi és képalkotó diagnosztikai analitikus (BSc)
+
 6. ÁLTALÁNOS ÉS ELEKTROFIZIOLÓGIAI ASSZISZTENCIA SZAKMACSOPORT
 
 6.1. Audiológiai asszisztens
@@ -460,17 +464,21 @@
 
 6.14. Szemészeti szakasszisztens (54)
 
-6.15.[^90] Klinikai neurofiziológiai szakasszisztens (54)
+6.15.[^92] Klinikai neurofiziológiai szakasszisztens (54)
 
-6.16.[^91] Klinikai neurofiziológiai szakasszisztens (55)
+6.16.[^93] Klinikai neurofiziológiai szakasszisztens (55)
 
-6.17.[^92] Audiológiai szakasszisztens és hallásakusztikus (54)
+6.17.[^94] Audiológiai szakasszisztens és hallásakusztikus (54)
 
-6.18.[^93] Audiológiai szakasszisztens és hallásakusztikus (55)
+6.18.[^95] Audiológiai szakasszisztens és hallásakusztikus (55)
+
+6.19.[^96] Orvosi laboratóriumi és képalkotó diagnosztikai analitikus
+
+6.20.[^97] Orvosi laboratóriumi és képalkotó diagnosztikai analitikos (BSc)
 
 7. FOGÁSZATI ELLÁTÁS SZAKMACSOPORT
 
-7.1.[^94]
+7.1.[^98]
 
 7.2. Fogászati asszisztens
 
@@ -490,15 +498,15 @@
 
 7.10. Klinikai fogászati higiénikus (54)
 
-7.11.[^95] Klinikai fogászati higiénikus (52)
+7.11.[^99] Klinikai fogászati higiénikus (52)
 
-7.12.[^96] Fogászati asszisztens (54)
+7.12.[^100] Fogászati asszisztens (54)
 
-7.13.[^97] Fogtechnikus (55)
+7.13.[^101] Fogtechnikus (55)
 
-7.14.[^98] Fogtechnikus gyakornok (54)
+7.14.[^102] Fogtechnikus gyakornok (54)
 
-7.15.[^99] Klinikai fogászati higiénikus (55)
+7.15.[^103] Klinikai fogászati higiénikus (55)
 
 8. GYÓGYSZERTÁRI ELLÁTÁS SZAKMACSOPORT
 
@@ -516,13 +524,13 @@
 
 8.7. Gyógyszertári asszisztens (52)
 
-8.8.[^100] Gyakorló gyógyszertári asszisztens (52)
+8.8.[^104] Gyakorló gyógyszertári asszisztens (52)
 
-8.9.[^101] Gyógyszerkiadó szakasszisztens (55)
+8.9.[^105] Gyógyszerkiadó szakasszisztens (55)
 
-8.10.[^102] Gyógyszertári asszisztens (55)
+8.10.[^106] Gyógyszertári asszisztens (55)
 
-8.11.[^103] Analitikus szakasszisztens
+8.11.[^107] Analitikus szakasszisztens
 
 9. MOZGÁSTERÁPIA ÉS FIZIOTERÁPIA SZAKMACSOPORT
 
@@ -566,13 +574,13 @@
 
 9.20. Sportmasszőr (52)
 
-9.21.[^104] Fiziotherápiás szakasszisztens
+9.21.[^108] Fiziotherápiás szakasszisztens
 
-9.22.[^105] Gyógytornász (BSc)
+9.22.[^109] Gyógytornász (BSc)
 
-9.23.[^106] Fizioterápiás szakasszisztens (55)
+9.23.[^110] Fizioterápiás szakasszisztens (55)
 
-9.24.[^107] Gyógy- és sportmasszőr (54)
+9.24.[^111] Gyógy- és sportmasszőr (54)
 
 10. MŰTÉTI ELLÁTÁS SZAKMACSOPORT
 
@@ -602,13 +610,25 @@
 
 10.13. Műtőtechnikus (52)
 
-10.14.[^108] Műtéti szakasszisztens (52)
+10.14.[^112] Műtéti szakasszisztens (52)
 
-10.15.[^109] Endoszkópos szakasszisztens (55)
+10.15.[^113] Endoszkópos szakasszisztens (55)
 
-10.16.[^110] Műtéti szakasszisztens (55)
+10.16.[^114] Műtéti szakasszisztens (55)
 
-10.17.[^111] Műtőssegéd-gipszmester (32)
+10.17.[^115] Műtőssegéd-gipszmester (32)
+
+10.18.[^116] Intervenciós szakasszisztens (54)
+
+10.19.[^117] Orvosi laboratóriumi és képalkotó diagnosztikai analitikus
+
+10.20.[^118] Orvosi laboratóriumi és képalkotó diagnosztikai analitikos (BSc)
+
+10.21.[^119] Képi diagnosztikai és intervenciós asszisztens (55)
+
+10.22.[^120] Röntgen-műtős szakasszisztens
+
+10.23.[^121] Röntgen-műtős szakasszisztens (egészségügyi szakasszisztens) (54)
 
 11. SZÜLÉSZETI ELLÁTÁS SZAKMACSOPORT
 
@@ -620,7 +640,7 @@
 
 11.4. Szülésznő (BSc)
 
-11.5.[^112] Szülésznő (főiskolai végzettség)
+11.5.[^122] Szülésznő (főiskolai végzettség)
 
 12. VÉDŐNŐI ELLÁTÁS SZAKMACSOPORT
 
@@ -680,17 +700,17 @@
 
 13.23. Népegészségügyi felügyelő MSc
 
-13.24.[^113] Egészségügyi gázmester (kártevőirtó) (51)
+13.24.[^123] Egészségügyi gázmester (kártevőirtó) (51)
 
-13.25.[^114] Okleveles népegészségügyi szakember (MSc)
+13.25.[^124] Okleveles népegészségügyi szakember (MSc)
 
-13.26.[^115] Egészségügyi gázmester (53)
+13.26.[^125] Egészségügyi gázmester (53)
 
-13.27.[^116] Egészségügyi kártevőirtó és fertőtlenítő (32)
+13.27.[^126] Egészségügyi kártevőirtó és fertőtlenítő (32)
 
-13.28.[^117] Epidemiológiai szakápoló (55)
+13.28.[^127] Epidemiológiai szakápoló (55)
 
-13.29.[^118] Fertőtlenítő-sterilező (31)
+13.29.[^128] Fertőtlenítő-sterilező (31)
 
 14. EGÉSZSÉGÜGYI MENEDZSMENT SZAKMACSOPORT
 
@@ -718,13 +738,13 @@
 
 14.12. Okleveles egészségügyi menedzser (MSc)
 
-14.13.[^119] Egészségbiztosítási szakember
+14.13.[^129] Egészségbiztosítási szakember
 
-14.14.[^120] Egészségügyi szervező (egészségbiztosítás) (BSc)
+14.14.[^130] Egészségügyi szervező (egészségbiztosítás) (BSc)
 
-14.15.[^121] Egészségügyi szervező (egészségügyi ügyvitelszervező) (BSc)
+14.15.[^131] Egészségügyi szervező (egészségügyi ügyvitelszervező) (BSc)
 
-14.16.[^122] Egészségügyi szervező (egészségturizmus szervező) (BSc)
+14.16.[^132] Egészségügyi szervező (egészségturizmus szervező) (BSc)
 
 15. REHABILITÁCIÓS ÉS ÉLETVEZETÉST TÁMOGATÓ SZAKMACSOPORT
 
@@ -786,29 +806,29 @@
 
 15.29. Rehabilitációs tevékenység terapeuta (54)
 
-15.30.[^123] Cipőkészítő (ortopédiai cipész)
+15.30.[^133] Cipőkészítő (ortopédiai cipész)
 
-15.31.[^124] Cipőkészítő és javító (ortopédiai cipész)
+15.31.[^134] Cipőkészítő és javító (ortopédiai cipész)
 
-15.32.[^125] Ortopédiai kötszerész (51)
+15.32.[^135] Ortopédiai kötszerész (51)
 
-15.33.[^126] Ortopédiai kötszerész (fűzőkészítő)
+15.33.[^136] Ortopédiai kötszerész (fűzőkészítő)
 
-15.34.[^127] Orvosi műszerész (ortopéd)
+15.34.[^137] Orvosi műszerész (ortopéd)
 
-15.35.[^128] Okleveles egészségpszichológus
+15.35.[^138] Okleveles egészségpszichológus
 
-15.36.[^129] Gyógyászati segédeszköz-forgalmazó (54)
+15.36.[^139] Gyógyászati segédeszköz-forgalmazó (54)
 
-15.37.[^130] Fülilleszték készítő (55)
+15.37.[^140] Fülilleszték készítő (55)
 
-15.38.[^131] Gyógyászati segédeszköz-forgalmazó (52)
+15.38.[^141] Gyógyászati segédeszköz-forgalmazó (52)
 
-15.39.[^132] Ortopédiai kötszerész és fűzőkészítő (32)
+15.39.[^142] Ortopédiai kötszerész és fűzőkészítő (32)
 
-15.40.[^133] Ortopédiai műszerész (54)
+15.40.[^143] Ortopédiai műszerész (54)
 
-15.41.[^134] Ergoterapeuta (55)
+15.41.[^144] Ergoterapeuta (55)
 
 16. DIETETIKAI SZAKMACSOPORT
 
@@ -828,7 +848,7 @@
 
 16.8. Okleveles táplálkozástudományi szakember (MSc)
 
-17.[^135] TERMÉSZETGYÓGYÁSZAT SZAKMACSOPORT
+17.[^145] TERMÉSZETGYÓGYÁSZAT SZAKMACSOPORT
 
 17.1. Akupresszőr
 
@@ -892,49 +912,59 @@
 [^87]: Az 1. melléklet 5. pont 5.24. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
 [^88]: Az 1. melléklet 5. pont 5.25. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
 [^89]: Az 1. melléklet 5. pont 5.26. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^90]: Az 1. melléklet 6. pont 6.15. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^91]: Az 1. melléklet 6. pont 6.16. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^92]: Az 1. melléklet 6. pont 6.17. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^93]: Az 1. melléklet 6. pont 6.18. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^94]: Az 1. melléklet 7.1. pontját a 69/2013. (XI. 19.) EMMI rendelet 5. §-a hatályon kívül helyezte.
-[^95]: Az 1. melléklet 7.11. pontját a 69/2013. (XI. 19.) EMMI rendelet 5. §-a hatályon kívül helyezte, újonnan a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^96]: Az 1. melléklet 7. pont 7.12. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^97]: Az 1. melléklet 7. pont 7.13. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^98]: Az 1. melléklet 7. pont 7.14. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^99]: Az 1. melléklet 7. pont 7.15. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^100]: Az 1. melléklet 8. pont 8.8. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^101]: Az 1. melléklet 8. pont 8.9. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^102]: Az 1. melléklet 8. pont 8.10. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^103]: Az 1. melléklet 8. pont 8.11. alpontját a 4/2015. (I. 20.) EMMI rendelet 11. § a) pontja iktatta be.
-[^104]: Az 1. melléklet 9. pont 9.21. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^105]: Az 1. melléklet 9. pont 9.22. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^106]: Az 1. melléklet 9. pont 9.23. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^107]: Az 1. melléklet 9. pont 9.24. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^108]: Az 1. melléklet 10. pont 10.14. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^109]: Az 1. melléklet 10. pont 10.15. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^110]: Az 1. melléklet 10. pont 10.16. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^111]: Az 1. melléklet 10. pont 10.17. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^112]: Az 1. melléklet 11. pont 11.5. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^113]: Az 1. melléklet 13. pont 13.24. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^114]: Az 1. melléklet 13. pont 13.25. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^115]: Az 1. melléklet 13. pont 13.26. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^116]: Az 1. melléklet 13. pont 13.27. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^117]: Az 1. melléklet 13. pont 13.28. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^118]: Az 1. melléklet 13. pont 13.29. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^119]: Az 1. melléklet 14. pont 14.13. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^120]: Az 1. melléklet 14. pont 14.14. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^121]: Az 1. melléklet 14. pont 14.15. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^122]: Az 1. melléklet 14. pont 14.16. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^123]: Az 1. melléklet 15. pont 15.30. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^124]: Az 1. melléklet 15. pont 15.31. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^125]: Az 1. melléklet 15. pont 15.32. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^126]: Az 1. melléklet 15. pont 15.33. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^127]: Az 1. melléklet 15. pont 15.34. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^128]: Az 1. melléklet 15. pont 15.35. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^129]: Az 1. melléklet 15. pont 15.36. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^130]: Az 1. melléklet 15. pont 15.37. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^131]: Az 1. melléklet 15. pont 15.38. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^132]: Az 1. melléklet 15. pont 15.39. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^133]: Az 1. melléklet 15. pont 15.40. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^134]: Az 1. melléklet 15. pont 15.41. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
-[^135]: Az 1. melléklet 17. pontja a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontjával megállapított szöveg.
+[^90]: Az 1. melléklet 5. pont 5.27. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^91]: Az 1. melléklet 5. pont 5.28. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^92]: Az 1. melléklet 6. pont 6.15. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^93]: Az 1. melléklet 6. pont 6.16. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^94]: Az 1. melléklet 6. pont 6.17. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^95]: Az 1. melléklet 6. pont 6.18. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^96]: Az 1. melléklet 6. pont 6.19. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^97]: Az 1. melléklet 6. pont 6.20. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^98]: Az 1. melléklet 7.1. pontját a 69/2013. (XI. 19.) EMMI rendelet 5. §-a hatályon kívül helyezte.
+[^99]: Az 1. melléklet 7.11. pontját a 69/2013. (XI. 19.) EMMI rendelet 5. §-a hatályon kívül helyezte, újonnan a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^100]: Az 1. melléklet 7. pont 7.12. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^101]: Az 1. melléklet 7. pont 7.13. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^102]: Az 1. melléklet 7. pont 7.14. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^103]: Az 1. melléklet 7. pont 7.15. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^104]: Az 1. melléklet 8. pont 8.8. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^105]: Az 1. melléklet 8. pont 8.9. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^106]: Az 1. melléklet 8. pont 8.10. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^107]: Az 1. melléklet 8. pont 8.11. alpontját a 4/2015. (I. 20.) EMMI rendelet 11. § a) pontja iktatta be.
+[^108]: Az 1. melléklet 9. pont 9.21. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^109]: Az 1. melléklet 9. pont 9.22. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^110]: Az 1. melléklet 9. pont 9.23. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^111]: Az 1. melléklet 9. pont 9.24. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^112]: Az 1. melléklet 10. pont 10.14. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^113]: Az 1. melléklet 10. pont 10.15. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^114]: Az 1. melléklet 10. pont 10.16. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^115]: Az 1. melléklet 10. pont 10.17. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^116]: Az 1. melléklet 10. pont 10.18. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^117]: Az 1. melléklet 10. pont 10.19. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^118]: Az 1. melléklet 10. pont 10.20. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^119]: Az 1. melléklet 10. pont 10.21. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^120]: Az 1. melléklet 10. pont 10.22. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^121]: Az 1. melléklet 10. pont 10.23. alpontját az 54/2015. (XI. 24.) EMMI rendelet 47. §-a iktatta be.
+[^122]: Az 1. melléklet 11. pont 11.5. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^123]: Az 1. melléklet 13. pont 13.24. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^124]: Az 1. melléklet 13. pont 13.25. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^125]: Az 1. melléklet 13. pont 13.26. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^126]: Az 1. melléklet 13. pont 13.27. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^127]: Az 1. melléklet 13. pont 13.28. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^128]: Az 1. melléklet 13. pont 13.29. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^129]: Az 1. melléklet 14. pont 14.13. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^130]: Az 1. melléklet 14. pont 14.14. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^131]: Az 1. melléklet 14. pont 14.15. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^132]: Az 1. melléklet 14. pont 14.16. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^133]: Az 1. melléklet 15. pont 15.30. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^134]: Az 1. melléklet 15. pont 15.31. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^135]: Az 1. melléklet 15. pont 15.32. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^136]: Az 1. melléklet 15. pont 15.33. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^137]: Az 1. melléklet 15. pont 15.34. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^138]: Az 1. melléklet 15. pont 15.35. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^139]: Az 1. melléklet 15. pont 15.36. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^140]: Az 1. melléklet 15. pont 15.37. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^141]: Az 1. melléklet 15. pont 15.38. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^142]: Az 1. melléklet 15. pont 15.39. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^143]: Az 1. melléklet 15. pont 15.40. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^144]: Az 1. melléklet 15. pont 15.41. alpontját a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontja iktatta be.
+[^145]: Az 1. melléklet 17. pontja a 14/2014. (III. 10.) EMMI rendelet 18. § a) pontjával megállapított szöveg.
