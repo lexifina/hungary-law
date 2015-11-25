@@ -12,7 +12,7 @@ e) kidolgozza az infekciókontrollal kapcsolatos standardokra és indikátorokra
 
 f) az egészségügyi ellátással összefüggő fertőzések megelőzéséről módszertani leveleket dolgoz ki, amelyeket az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában közzétesz.
 
-(2)[^23] Az (1) bekezdés a)–c) pontja szerinti adatbázisok eredményeit az OEK éves rendszerességgel a tárgyévet követő június 1-jéig hivatalos kiadványában és honlapján közzéteszi.
+(2)[^23] Az (1) bekezdés a)–c) pontja szerinti adatbázisok eredményeit az OEK éves rendszerességgel a tárgyévet követő szeptember 1-jéig hivatalos kiadványában és honlapján közzéteszi.
 
 [^22]: A 14. § (1) bekezdése a 12/2012. (III. 6.) NEFMI rendelet 7. §-ával megállapított szöveg.
-[^23]: A 14. § (2) bekezdése a 12/2012. (III. 6.) NEFMI rendelet 11. § g) pontja szerint módosított szöveg.
+[^23]: A 14. § (2) bekezdése a 12/2012. (III. 6.) NEFMI rendelet 11. § g) pontja, az 54/2015. (XI. 24.) EMMI rendelet 36. § b) pontja szerint módosított szöveg.

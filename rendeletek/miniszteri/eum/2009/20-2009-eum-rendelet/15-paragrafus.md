@@ -16,10 +16,11 @@
 
 (8) Ez a rendelet szabályozási tárgykörében a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) az Európai Parlament és a Tanács 2119/98/EK határozata (1998. szeptember 24.) a Közösségben a fertőző betegségek járványügyi felügyeleti és ellenőrzési hálózatának létrehozásáról;
+a)[^25] a határokon átterjedő súlyos egészségügyi veszélyekről és a 2119/98/EK határozat hatályon kívül helyezéséről szóló, 2013. október 22-i 1082/2013/EU európai parlamenti és tanácsi határozat;
 
 b) a Tanács 2002/77/EC ajánlása (2001. november 15.) az antimikrobiális szerek körültekintő használatáról az embergyógyászatban;
 
-c)[^25] az egészségügyi ellátással összefüggő fertőzések megelőzését és leküzdését is magában foglaló betegbiztonságról szóló 2009. június 9-i 2009/C 151/01 tanácsi ajánlás.
+c)[^26] az egészségügyi ellátással összefüggő fertőzések megelőzését és leküzdését is magában foglaló betegbiztonságról szóló 2009. június 9-i 2009/C 151/01 tanácsi ajánlás.
 
-[^25]: A 15. § (8) bekezdés c) pontját a 12/2012. (III. 6.) NEFMI rendelet 9. §-a iktatta be.
+[^25]: A 15. § (8) bekezdés a) pontja az 54/2015. (XI. 24.) EMMI rendelet 35. §-ával megállapított szöveg.
+[^26]: A 15. § (8) bekezdés c) pontját a 12/2012. (III. 6.) NEFMI rendelet 9. §-a iktatta be.
