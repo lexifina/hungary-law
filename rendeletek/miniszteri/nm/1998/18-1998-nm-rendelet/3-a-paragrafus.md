@@ -1,6 +1,6 @@
 ## 3/A. §[^5] E rendelet alkalmazásában
 
-1. egészségügyi ellátással összefüggő fertőzés: az egészségügyi ellátás során kialakult fertőzés, amely nem volt jelen még lappangási formában sem a beteg felvételekor, illetve ellátásakor, továbbá magába foglalja azokat az egészségügyi ellátás során szerzett fertőzéseket is, amelyek az elbocsátást követően alakulnak ki, valamint a foglalkozással összefüggő fertőzéseket az egészségügyi dolgozók körében;
+1.[^6] egészségügyi ellátással összefüggő fertőzés: a betegnél, az egészségügyi dolgozónál, valamint az egészségügyi ellátással kapcsolatba kerülő más személynél az egészségügyi ellátás során kialakult fertőzés;
 
 2. esetdefinició: surveillance céljából jelentendő megbetegedéseket, eseteket meghatározó klinikai, laboratóriumi és epidemiológiai feltételek összessége, amelynek
 
@@ -69,3 +69,4 @@
 19. védőoltás: olyan egészségügyi tevékenység, amelynek során oltóanyagot juttatnak a szervezetbe aktív vagy passzív immunizálás céljából, melynek segítségével az adott betegség elleni specifikus védettség kialakítható és fokozható.
 
 [^5]: A 3/A. §-t a 21/2012. (IV. 4.) NEFMI rendelet 1. §-a iktatta be.
+[^6]: A 3/A. § 1. pontja az 54/2015. (XI. 24.) EMMI rendelet 2. §-ával megállapított szöveg.

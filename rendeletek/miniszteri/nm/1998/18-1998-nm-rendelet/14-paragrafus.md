@@ -1,4 +1,4 @@
-## Magyarországon életvitelszerűen tartózkodó személyek kötelezettségei[^59]
+## Magyarországon életvitelszerűen tartózkodó személyek kötelezettségei[^60]
 
 14. § (1) A védőoltásra kötelezett személy köteles védőoltás, továbbá – ha a védőoltást megelőzően szűrővizsgálat, vagy azt követően a védőoltás eredményének ellenőrzése szükséges – szűrő-, illetőleg ellenőrző vizsgálat céljából a megjelölt helyen és időben megjelenni, és magát az oltásnak, illetőleg vizsgálatnak alávetni. A védőoltásra kötelezett kiskorú megjelenéséről törvényes képviselője gondoskodik.
 
@@ -6,7 +6,7 @@
 
 (3) Az oltási dokumentációt minden személy, kiskorú esetén törvényes képviselője köteles megőrizni, és azt újbóli védőoltás, illetőleg szűrő- vagy ellenőrző vizsgálat alkalmával az orvosnak átadni.
 
-(4)[^60] Az elveszett, megrongálódott Egészségügyi Könyv Védőoltási adatlapjának adatait az oltási nyilvántartás alapján az oltóorvos pótolja. A más oltóhelyen elvégzett oltásokra vonatkozó igazolásokat az érdekelt személy (törvényes képviselője) köteles beszerezni.
+(4)[^61] Az elveszett, megrongálódott Egészségügyi Könyv Védőoltási adatlapjának adatait az oltási nyilvántartás alapján az oltóorvos pótolja. A más oltóhelyen elvégzett oltásokra vonatkozó igazolásokat az érdekelt személy (törvényes képviselője) köteles beszerezni.
 
-[^59]: A 14. §-t meglőző alcím a 21/2012. (IV. 4.) NEFMI rendelet 9. §-ával megállapított szöveg.
-[^60]: A 14. § (4) bekezdése a 19/2009. (VI. 18.) EüM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^60]: A 14. §-t meglőző alcím a 21/2012. (IV. 4.) NEFMI rendelet 9. §-ával megállapított szöveg.
+[^61]: A 14. § (4) bekezdése a 19/2009. (VI. 18.) EüM rendelet 10. § (2) bekezdésével megállapított szöveg.

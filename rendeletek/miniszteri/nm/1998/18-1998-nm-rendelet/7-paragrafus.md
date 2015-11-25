@@ -4,11 +4,22 @@
 
 (2) Diftéria megbetegedés ellen oltásban részesíthetők a 10 évnél régebben oltott, az országos tisztifőorvos által meghatározott területen élő, az egészségügy, közlekedés, kereskedelem területén dolgozó személyek.
 
-(3) Hepatitis B fertőzés megelőzése érdekében a dializált betegek és az akut vagy krónikus hepatitis B megbetegedésben szenvedő beteg környezetéhez tartozó személyek részesíthetők védőoltásban.
+(3)[^34] Hepatitis B fertőzés megelőzése érdekében
 
-(4)[^33] Influenza megbetegedés ellen az OEK VML szerint az adott évben veszélyeztetettnek minősülő személyek részesíthetők védőoltásban.
+a) a dializált betegek,
 
-(5)[^34] A Human papilloma vírus ellen a 12. életévüket betöltött és az általános iskola 7. évfolyamát végző lánygyermekek iskolai kampányoltás keretében az OEK VML-ben foglalt oltási rend és az orvosszakmai szempontok figyelembevételével térítésmentes védőoltásban részesíthetők.
+b) a hepatitis B vírus okozta heveny májgyulladásban szenvedő betegek és a krónikus hepatitis B vírus fertőzöttek közvetlen környezetében a járványügyi vizsgálat alapján meghatározott személyek,
 
-[^33]: A 7. § (4) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § c) pontja szerint módosított szöveg.
-[^34]: A 7. § (5) bekezdését újonnan a 43/2014. (VIII. 19.) EMMI rendelet 6. §-a iktatta be.
+c) az onkológiai és hematológiai betegek, valamint
+
+d) az intravénás kábítószer-használók
+
+## részesíthetők védőoltásban.
+
+(4)[^35] Influenza megbetegedés ellen az OEK VML szerint az adott évben veszélyeztetettnek minősülő személyek részesíthetők védőoltásban.
+
+(5)[^36] A Human papilloma vírus ellen a 12. életévüket betöltött és az általános iskola 7. évfolyamát végző lánygyermekek iskolai kampányoltás keretében az OEK VML-ben foglalt oltási rend és az orvosszakmai szempontok figyelembevételével térítésmentes védőoltásban részesíthetők.
+
+[^34]: A 7. § (3) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^35]: A 7. § (4) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § c) pontja szerint módosított szöveg.
+[^36]: A 7. § (5) bekezdését újonnan a 43/2014. (VIII. 19.) EMMI rendelet 6. §-a iktatta be.

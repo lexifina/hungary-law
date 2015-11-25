@@ -1,2387 +1,6685 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^184]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^187]
 
-| Acut flaccid paralysis |
+A) Személyazonosító adatokkal együtt jelentendő
 
-| BNO-, AFP, nem fertőző betegség (poliomyelitis-mentesség bizonyítására működtetett surveillance). |
+Acut flaccid paralysis
 
-| 1. Kórokozó: | --- |
+BNO-, AFP, nem fertőző betegség (poliomyelitis-mentesség bizonyítására működtetett surveillance).
 
-| 2. Teendők a beteggel |
+1. Kórokozó:
 
-|  | 2.1. Jelentés: | Bejelentésre kötelezett a gyanús eset, amely sürgősséggel jelentendő. Az értesülést követően azonnal meg kell kezdeni a járványügyi vizsgálatot, és annak eredményéről 24 órán belül faxon vagy e-mailben tájékoztatni kell az ÁNTSZ-OEK-et. A betegség 60. napján végzett nyomon követéses vizsgálat kötelező. |
+-
 
-|  |  | 2.1.1. Esetek osztályozása |
+2. Teendők a beteggel
 
-|  |  | Gyanús eset |  | Teljesülnek a klinikai feltételek. |
+2.1. Jelentés:
 
-|  |  | Valószínűsíthető eset | --- |
+Bejelentésre kötelezett a gyanús eset. Az értesülést követően azonnal meg kell kezdeni a járványügyi vizsgálatot, és annak eredményéről 24 órán belül faxon vagy e-mailben tájékoztatni kell az OEK-et. A betegség 60. napján végzett nyomon követéses vizsgálat kötelező.
 
-|  |  | Megerősített eset | --- |
+2.1.1. Esetek osztályozása
 
-|  |  |  | 2.1.2. Feltételek |
+Gyanús eset
 
-|  |  | Klinikai kritérium |  | 15 éven aluli gyermekek petyhüdt izombénulással járó, nem traumás eredetű megbetegedése, beleértve a Guillain-Barré szindrómát (BNO10: G61.0), egyéb gyulladásos polyneuoropathiákat (BNO10: G61.8), féloldali petyhüdt bénulást (BNO10: G81.0), petyhüdt paraplegiát (BNO10: G82.0), petyhüdt tetraplegiát (BNO10: G82.3), heveny haránt gerincvelő-gyulladást (BNO10: G37.3), neuritist (BNO10: M79.2), és a periodikus paralysist. |
+Teljesülnek a klinikai feltételek.
 
-|  |  | Epidemiológiai kritérium | --- |
+Valószínűsíthető eset
 
-|  |  | Laboratóriumi kritérium |  | --- |
+-
 
-| 2.2. Elkülönítés: | Nem szükséges. Fontos azonban ezeknek az eseteknek az egységes klinikai és epidemiológiai megítélése megfelelő vizsgálati anyagok biztosításával és a 60. napon elvégzett utóvizsgálattal. Ezért a felsorolt megbetegedésben szenvedőket az észleléstől számított 48 órán belül olyan fekvőbeteg-ellátó osztályra kell beutalni, ahol a gyermek-neurológiai szakellátás és intenzív ellátás is biztosított. |
+Megerősített eset
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: |  | Kötelező. |
+-
 
-|  |  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: |  | Kötelező. A betegtől mielőbb, de feltétlenül a bénulás kezdetétől számított 14 napon belül 1 napos időközzel levett 2 székletmintát, továbbá 14 napos időközzel alvadásgátló nélkül, sterilen vett 2 vérmintát kell küldeni a WHO által évente akkreditált kijelölt laboratóriumba (ÁNTSZ-OEK Virológiai főosztálya). A vizsgálatkérő lapon a feltételezett diagnózisként AFP gyanúját, vagy a fent megnevezett kórképek valamelyikét kell megjelölni. |
+2.1.2. Feltételek
 
-|  |  | 2.3.3.Felszabadító vizsgálat: |  | Nem szükséges. |
+Klinikai kritérium:
 
-| 2.4. Fertőtlenítés: | Folyamatos fertőtlenítés szükséges. |
+15 éven aluli gyermekek petyhüdt izombénulással járó, nem traumás eredetű megbetegedése, beleértve a Guillain-Barré szindrómát (BNO10: G61.0), egyéb gyulladásos polyneuoropathiákat (BNO10: G61.8), féloldali petyhüdt bénulást (BNO10: G81.0), petyhüdt paraplegiát (BNO10: G82.0), petyhüdt tetraplegiát (BNO10: G82.3), heveny haránt gerincvelő-gyulladást (BNO10: G37.3), neuritist (BNO10: M79.2) és a periodikus paralysist.
 
-| 3. Teendők a beteg környezetében |
+Epidemiológiai kritérium
 
-|  | 3.1. A beteggel kontaktusba kerültek felkutatása: |  | Nem szükséges. |
+-
 
-|  | 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: |  | Nem szükséges. |
+Laboratóriumi kritérium
 
-|  | 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+-
 
-|  | 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+2.2. Elkülönítés:
 
-|  | 3.5. Fertőzőforrás-kutatás: | Nem szükséges. |
+Nem szükséges. Fontos azonban az esetek egységes klinikai és epidemiológiai megítélése megfelelő vizsgálati anyagok biztosításával és a 60. napon elvégzett utóvizsgálattal. Ezért a felsorolt megbetegedésben szenvedőket az észleléstől számított 48 órán belül olyan fekvőbeteg-ellátó osztályra kell beutalni, ahol a gyermek-neurológiai szakellátás és intenzív ellátás is biztosított.
 
-|  | 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
+2.3. Mikrobiológiai vizsgálat:
 
-| Acut urogenitalis chlamydiasis |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| BNO10: A56.0 |
+Kötelező.
 
-| 1. Kórokozó: | Chlamydia trachomatis D-K szerotípusa |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 2.Teendők a beteggel |
+Kötelező. A betegtől mielőbb, de feltétlenül a bénulás kezdetétől számított 14 napon belül 1 napos időközzel levett 2 székletmintát, továbbá 14 napos időközzel alvadásgátló nélkül, sterilen vett 2 vérmintát kell küldeni az Egészségügyi Világszervezet által évente akkreditált kijelölt laboratóriumba. A vizsgálatkérő lapon a feltételezett diagnózisként AFP gyanúját, vagy a fent megnevezett kórképek valamelyikét kell megjelölni.
 
-| 2.1.Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+2.3.3. Felszabadító vizsgálat:
 
-|  | 2.1.1. Esetek osztályozása |
+Nem szükséges.
 
-|  | Gyanús eset | --- |
+2.4. Fertőtlenítés:
 
-|  | Valószínűsíthető eset | Minden olyan személy, akinél teljesülnek a klinikai feltételek és fennáll az epidemiológiai kapcsolat. |
+Folyamatos fertőtlenítés szükséges.
 
-|  | Megerősített eset | Minden olyan személy, akinél teljesülnek a laboratóriumi feltételek is. |
+3. Teendők a beteg környezetében
 
-|  | 2.1.2. Feltételek |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | Klinikai kritérium | Minden olyan személy, akinél jelentkezik az alábbi öt tünet legalább egyike: - húgycsőgyulladás, - mellékhere-gyulladás, - akut méhbelhártya-gyulladás, - méhnyakgyulladás, - végbélgyulladás. Újszülötteknél az alábbi két tünet legalább egyike: - kötőhártya-gyulladás [járulékosan a beteg (fertőzött) és/vagy szexuális partnere urogenitális infekciója mellett], - tüdőgyulladás. |
+Nem szükséges.
 
-|  | Epidemiológiai kritérium | Laboratóriumi vizsgálattal igazoltan acut urogenitalis chlamydiasisban szenvedő beteggel (fertőzöttel) történt szexuális kapcsolat inkubációs időn belül vagy a beteg laboratóriumi vizsgálattal igazoltan acut urogenitalis chlamydiasisban szenvedő anya újszülöttje. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-|  | Laboratóriumi kritérium | Az alábbi három feltétel legalább egyike: - Chlamydia trachomatis izolálása uro-anogenitális területről vagy kötőhártyából vett mintából, - Chlamydia trachomatis antigén-kimutatása direkt fluoreszcens ellenanyag vizsgálattal klinikai mintában, - Chlamydia trachomatis nukleinsav kimutatása klinikai mintában. |
+Nem szükséges.
 
-| 2.2.Elkülönítés: | Nem szükséges. |
+3.3. Járványügyi megfigyelés:
 
-| 2.3.Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Nem szükséges.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A vizsgálat céljából hámsejtdús urogenitális, conjunctivális vagy – neonatalis pneumonia esetén – pharyngealis váladék Chlamydia trachomatis kimutatását (DIF, enzimimmunoassay, PCR) végző mikrobiológiai laboratóriumba küldendő. Neonatalis infekció gyanúja esetén alvadásgátló nélkül, sterilen vett vérminta is beküldendő az ÁNTSZ-OEK-be specifikus IgM MIF-vizsgálat céljából. Kontroll vizsgálat végzése a kezelést követő 3-4 héttől javasolt. |
+3.4. Postexpozíciós profilaxis:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Nem szükséges.
 
-| 2.4.Fertőtlenítés: | Nem szükséges. |
+3.5. Fertőzőforrás-kutatás:
 
-| 3. Teendők a beteg környezetében |
+Nem szükséges.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező, és a szexuális partnernek fel kell ajánlani a szűrővizsgálat és a kezelés lehetőségét. Igazoltan Chlamydia trachomatis fertőzésben szenvedő beteg szexuális partnerének a kezelése még tünetmentesség esetén is indokolt. Neonatalis conjunctivitis, illetve pneumonia etiológiájában igazolható Chlamydia trachomatis fertőzés az anya és szexuális partnereinek célzott szűrővizsgálatát teszi szükségessé. |
+3.6. A terjesztő közeg felderítése:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Kötelező, az acut urogenitalis chlamydiasisban szenvedő beteg tünetmentes kontaktjainak vizsgálati anyagát járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba kell küldeni. A betegeknél a HIV és a syphilis szűrővizsgálatok elvégzése előzetes tanácsadás és a beteg beleegyezése után ajánlott. |
+Nem szükséges.
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+Amoebiasis
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+BNO10: A06
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+1. Kórokozó:
 
-| 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
+Entamoeba histolytica
 
-| AIDS (acquired immunodeficiency syndrome) |
+2. Teendők a beteggel
 
-| HIV (humán immundeficiencia vírus) fertőzés, szerzett immunhiányos tünetcsoport BNO10: B20-B24 |
+2.1. Jelentés:
 
-| 1. Kórokozó: | HIV-1, HIV-2 |
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset. Ha a beteg trópusi országból érkezett, ezt a bejelentésben közölni kell.
 
-| 2. Teendők a beteggel |
+2.1.1. Esetek osztályozása
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+Gyanús eset
 
-|  | 2.1.1. Esetek osztályozása |
+Klinikai kritériumok megléte.
 
-|  | Gyanús eset | --- |
+Valószínűsíthető eset
 
-|  | Valószínűsíthető eset | --- |
+Klinikai és epidemiológiai kritériumok megléte.
 
-|  | Megerősített eset | - HIV-fertőzés Minden olyan személy, akinél teljesülnek a HIV-fertőzés laboratóriumi feltételei. - AIDS Minden olyan személy, akinél teljesülnek az AIDS klinikai feltételei és a HIV-fertőzés laboratóriumi feltételei. |
+Megerősített eset
 
-|  | 2.1.2. Feltételek |
+Klinikai és laboratóriumi kritériumok megléte.
 
-|  | Klinikai kritérium (AIDS) | Az alábbi huszonkilenc indikátor betegség legalább egyike: - AIDS dementia complex, - Bakteriális fertőzés (visszatérő vagy többszörös, 15 évesnél fiatalabb gyermekeknél), - Candidiasis (bronchusok, trachea, a tüdő candidiasis) - Candidiasis (oesophagus candidiasis), - Coccidioidomycosis (disszeminált vagy extrapulmonális), - Cryptococcosis (extrapulmonális), - Cryptosporidiosis (több mint egy hónapig tartó hasmenéssel járó), - Cytomegalovírus okozta megbetegedések (a máj, a lép, és a nyirokcsomók érintettségén kívül, egy hónaposnál idősebb betegeknél), - Cytomegalovírus okozta retinitis (a látás elvesztésével járó), - Encephalopathia (HIV-fertőzéssel összefüggő), - Fogyás (HIV-fertőzéssel összefüggő), - Herpes simplex okozta megbetegedések (1 hónapnál tovább tartó krónikus ulceráció, vagy bronchitis, pneumonitis, oesophagitis egy hónaposnál idősebb betegeknél), - Histoplasmosis (disszeminált vagy extrapulmonális), - Isosporiasis (több mint egy hónapig tartó hasmenéssel járó), - Kaposi sarcoma, - Leukoenchephalopathia (progresszív multifokális), - Lymphoma (agyi érintettséggel), - Lymphoma (Burkitt), - Lymphoma (immunoblastos), - Lymphoma (külön megnevezés nélkül), - Méhnyakrák (invazív, 15 évesnél idősebb betegeknél), - Mycobacterium avium, Mycobacterium kansasii okozta megbetegedések (disszeminált vagy extrapulmonális), - Mycobacterium tuberculosis okozta megbetegedések (pulmonális, 15 évesnél idősebb betegeknél), - Mycobacterium okozta megbetegedések (a fent említett törzsektől eltérő, vagy ismeretlen törzsek okozta megbetegedések, disszeminált, vagy extrapulmonális formában), - Pneumonia (Pneumocystis carinii okozta), - Pneumonia (interstitialis lymphoid, 15 évesnél fiatalabb gyermekeknél), - Pneumonia (visszatérő jelleggel, 15 évesnél idősebb betegeknél), - Salmonella törzs okozta septicaemia (nem typhoid, visszatérő), - Toxoplasmosis (az agy érintettsége, egy hónaposnál idősebb betegeknél). |
+2.1.2. Feltételek
 
-|  | Epidemiológiai kritérium | --- |
+Klinikai kritérium
 
-|  | Laboratóriumi kritérium | (HIV-fertőzés) felnőttek, serdülőkorúak és 18 hónapos vagy annál idősebb gyermekek esetén: Az alábbi két feltétel közül legalább az egyik: - A HIV-ellenanyag kimutatására irányuló szűrővizsgálat vagy kombinált szűrővizsgálat (HIV- ellenanyag és HIV p24 antigén) pozitív eredménye egy specifikusabb ellenanyag vizsgálattal (pl. Western blot, LIA) megerősítve. - A minta pozitív vizsgálati eredménye az alábbi három módszer egyikével: – A HIV-nukleinsav (HIV-RNS vagy HIV-DNS) kimutatása, – A HIV kimutatása HIV p24 antigén vizsgálattal, beleértve a neutralizációs vizsgálatot is, – A HIV izolálása. (HIV-fertőzés) 18 hónaposnál fiatalabb gyermekek esetén: A minta (a köldökzsinórvér kivételével) pozitív vizsgálati eredménye az alábbi három módszer egyikével: - A HIV izolálása, - A HIV-nukleinsav (HIV-RNS vagy HIV-DNS) kimutatása, - A HIV kimutatása HIV p24 antigén vizsgálattal, az egy hónapos vagy annál idősebb gyermekek esetében beleértve a neutralizációs vizsgálatot is. |
+Az alábbi tünetek legalább egyike:
 
-| 2.2. Elkülönítés: | Nem szükséges |
+- hasmenés (enyhe krónikus formától a súlyos vérhas jellegűig),
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+- bizonytalan hasi fájdalom,
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A HIV-fertőzöttség megállapítása, illetve az AIDS diagnózisának felállítása csak verifikált HIV-pozitív eredmény alapján lehetséges. A HIV-ellenanyag, illetve HIV antigén vizsgálat elvégzése céljából alvadásgátló nélkül, sterilen vett vérminta küldendő a szerzett immunhiányos tünetcsoport terjedésének meggátolása érdekében szükséges intézkedésekről és a szűrővizsgálat elrendeléséről szóló rendeletben kijelölt laboratóriumokba. (A hazai HIV klinikai mikrobiológiai diagnosztikai és járványügyi érdekből végzett mikrobiológiai szűrővizsgálati lehetőségeket és szabályokat a fenti jogszabály tartalmazza.) |
+- tenesmus.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Epidemiológiai kritérium
 
-| 2.4. Fertőtlenítés: | Folyamatos fertőtlenítés szükséges. |
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-| 3. Teendők a beteg környezetében |
+- trópusi területen történt tartózkodás,
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező, a HIV-pozitív személy szexuális partnereinél, illetve a környezetében élő, a tőle feltehetően fertőződött személyeknél vírusszerológiai (HIV antigén/ellenanyag) vizsgálatot kell végeztetni a fertőzöttség megállapítása céljából. |
+- szennyezett élelmiszer/ivóvíz fogyasztása,
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Egyéb jogszabály alapján. |
+- emberről emberre való terjedés,
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+- közös forrással való érintkezés,
 
-| 3.4. Postexpozíciós profilaxis: | Az egészségügyi dolgozók alábbiakban felsorolt expozíciója esetén minél hamarabb, lehetőleg 2 órán belül a Szent István és Szent László Kórház-Rendelőintézet Immunológia osztályával, illetve a kormányhivatallal folytatott konzultáció alapján antiretrovirális kezelést kell kezdeni. A HIV-fertőzés kockázatával járó kiemelt expozíciók: fertőző anyag véletlen befecskendezése, HIV-kontaminált eszközzel szúrt seb vagy vágott sérülés, HIV-pozitív beteg artériájába vagy vénájába bekötött tűvel vagy kanüllel történt sérülés, nyálkahártya vagy nagyobb bőrterület tartós kontaminációja HIV-pozitív személy vérével, véres váladékával, liquorával, ondójával vagy hüvelyváladékával. |
+- környezeti expozíció.
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+Laboratóriumi kritérium
 
-| 3.6. A terjesztő közeg felderítése: | Vérrel történő terjedés gyanúja vagy halmozott előfordulás esetén a terjesztő közeg felderítése kötelező. |
+Intestinalis amoebiasis
 
-| Ancylostomiasis |
+- Az E. histolytica ciszták vagy trofozoiták izolálása székletből,
 
-| Ancylostomatosis, horogféreg-betegség, BNO10: B76.0 |
+- az E. histolytica trofozoiták izolálása biopsziás, vagy fekélyből vett szövetmintából vagy
 
-| 1. Kórokozó: | Ancylostoma duodenale, Necator americanus |
+- az E. histolytica trofozoiták izolálása a fogyasztott élelmiszerből.
 
-| 2. Teendők a beteggel |
+Extraintestinalis amoebiasis
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell jelenteni. |
+- Az E. histolytica ciszták izolálása extraintestinalis szövetmintából.
 
-|  | 2.1.1. Esetek osztályozása |
+(Szeropozitivitás csak hosszú ideje fennálló extraintestinális fertőzésre jellemző.)
 
-|  | Gyanús eset | --- |
+2.2. Elkülönítés:
 
-|  | Valószínűsíthető eset | Teljesülnek a klinikai és az epidemiológiai feltételek. |
+Csak a heveny bél-amoebiasisban szenvedő beteget kell a klinikai gyógyulásig elkülöníteni kórházban vagy otthon. Az elkülönítés addig tart, amíg a felszabadító székletvizsgálat 2 egymást követő napon negatív eredményt nem ad. Ha a széklet vizsgálata a gyógyulás utáni 8. napon még mindig pozitív, az elkülönítés feloldható, de a gyógyultat járványügyi ellenőrzés alá kell helyezni, míg székletének ismételt vizsgálata nem ad egymás után következő napokon kétszer negatív eredményt. A járványügyi ellenőrzés alá vont személyt el kell tiltani 0-6 éves gyermekközösségek látogatásától, ilyen közösségekben, intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkaköröktől, közfogyasztásra kerülő élelmiszerek és italok kezelésétől, a közétkeztetésben, vízművekben való tevékenységtől, anyatej adásától, anyatejgyűjtő állomásokon való foglalkozástól, a közvetlen betegellátás során beteg-élelmezésben való részvételtől és a szájon át adott gyógyszeres kezelés végzésétől.
 
-|  | Megerősített eset | Teljesülnek a klinikai és a laboratóriumi feltételek. |
+2.3. Mikrobiológiai vizsgálat:
 
-|  | 2.1.2. Feltételek |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Klinikai kritérium | Legalább kettő a következők közül: viszkető bőrjelenségek, gyomor- és bélpanaszok, anémia. |
+Kötelező.
 
-|  | Epidemiológiai kritérium | Endémiás területen történt tartózkodás a lappangási időben. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Laboratóriumi kritérium | Peték vagy lárvák a vizsgálati mintában. |
+Kötelező. A székletet a járványügyi feladatok ellátására kijelölt parazitológiai laboratóriumba kell beküldeni. Szöveti amoebiasis gyanúja esetén szerológiai vizsgálatra alvadásgátló nélkül, sterilen vett vérmintát lehet az OEK részére megküldeni.
 
-| 2.2. Elkülönítés: | Nem szükséges |
+2.3.3. Felszabadító vizsgálat:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+A klinikai gyógyulás és az antibiotikus kezelés befejezése után 48 óra múlva elkezdett, 2 egymást követő napon vett székletmintát kell a járványügyi feladat végzésére kijelölt, területileg illetékes parazitológiai laboratóriumba beküldeni.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A kórokozó kimutatása esetén a mintát megerősítő vizsgálatra járványügyi feladatok ellátására kijelölt laboratóriumba kell küldeni. A kísérő iraton meg kell jelölni a fertőződés feltételezett helyét (ország). |
+2.4. Járványügyi ellenőrzés:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Ha a széklet vizsgálata a gyógyulás utáni 8. napon még mindig pozitív, az elkülönítés feloldható, de a gyógyultat járványügyi ellenőrzés alá kell helyezni, míg székletének ismételt vizsgálata nem ad egymás után következő napokon kétszer negatív eredményt. A járványügyi ellenőrzés alá vont személyt el kell tiltani 0-6 éves gyermekközösségek látogatásától, ilyen közösségekben, intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkaköröktől, közfogyasztásra kerülő élelmiszerek és italok kezelésétől, a közétkeztetésben, vízművekben való tevékenységtől, anyatej adásától, anyatejgyűjtő állomásokon való foglalkozástól, a közvetlen betegellátás során betegélelmezésben való részvételtől és a szájon át adott gyógyszeres kezelés végzésétől.
 
-| 2.4. Fertőtlenítés: | Nem szükséges. |
+2.5. Fertőtlenítés:
 
-| 3. Teendők a beteg környezetében |
+Folyamatos és zárófertőtlenítés szükséges.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A beteggel közös külföldi utazáson részt vettek felkutatása. |
+3. Teendők a beteg környezetében
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A külföldi utazáson részt vettek szűrővizsgálatára minta küldendő a járványügyi feladatok ellátására kijelölt laboratóriumba. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+Kötelező.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+A beteggel szoros környezetben élők székletének laboratóriumi vizsgálatát el kell végezni a cystaürítés felderítése érdekében.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+3.3. Járványügyi megfigyelés:
 
-| Anthrax |
+A beteggel epidemiológiai kapcsolatban lévő személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett azon személyeket, akik a 2.4. pontban megjelölt közösségekbe, intézménybe járnak, illetve munkakört, tevékenységet folytatnak, a közösség, intézmény látogatásától, illetve munkakörüktől, tevékenységüktől el kell tiltani. A közösség, intézmény látogatását, illetve munkakörüket, tevékenységüket abban az esetben folytathatják, ha a megfigyelési idő 4. napja után egy alkalommal vett székletminta vizsgálata negatív eredményt adott. A szűrővizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni. A fenti közösségek/intézmények látogatását, illetve munkakörüket, tevékenységüket csak akkor folytathatják, ha a székletvizsgálat eredménye negatívvá válik.
 
-| Lépfene, BNO10: A22 |
+3.4. Postexpozíciós profilaxis:
 
-| 1. Kórokozó: | Bacillus anthracis |
+Nem szükséges.
 
-| 2. Teendők a beteggel |
+3.5. Fertőzőforrás-kutatás:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Az értesülést követően sürgősséggel is jelentendő a megbetegedés helye szerint illetékes járási hivatalnak és az ÁNTSZ-OEK-nek, ügyeleti időben a kormányhivatal ügyeletének és az ÁNTSZ-OEK ügyeletének. Járványügyi értesítést kell küldeni a területileg illetékes hatósági állatorvosnak is. |
+Kötelező. A beteggel epidemiológiai kapcsolatban lévő személyeket (pl. azonos háztartásban élők, szexuális partner stb.) ki kell kérdezni.
 
-|  | 2.1.1. Esetek osztályozása |
+3.6. A terjesztő közeg felderítése:
 
-|  | Gyanús eset | A bőr-, illetve a tüdőanthrax klinikai feltételeinek megfelelő megbetegedés. |
+Kötelező. Ha a terjesztő közeg közfogyasztásra szánt élelmiszer, az illetékes élelmiszerlánc-felügyeleti szervet értesíteni kell a szükséges intézkedések megtétele érdekében.
 
-|  | Valószínűsíthető eset | - teljesül a klinikai feltételek legalább egyike és kapcsolat anthraxban megbetegedett állattal, vagy abból származó anyaggal (élelmiszer, irha, stb.), - teljesül a klinikai feltételek legalább egyike és a beteg környezetében élő, a betegségre fogékony állatok körében váratlan elhullás következik be a lappangási időben, - teljesül a klinikai feltételek legalább egyike és kapcsolat bizonyítottan anthrax okozta bioterror-eseménnyel, - azonos helyen és időben legalább kettő, a bőr-, illetve a tüdőanthrax klinikai feltételeinek megfelelő megbetegedés előfordulása (közös forrással vagy terjesztő közeggel való érintkezés). |
+Anthrax
 
-|  | Megerősített eset | Teljesül a klinikai feltételek és laboratóriumi feltételek legalább egyike. Ha a megerősített eset a lappangási időben nem volt kapcsolatban anthraxra fogékony állattal, vagy azokból származó termékekkel (bőr, stb.), akkor fel kell vetni a bioterror-cselekménnyel kapcsolatos expozíció gyanúját. |
+Lépfene, BNO10: A22
 
-|  | 2.1.2. Feltételek |
+1. Kórokozó:
 
-|  | Klinikai kritérium | Jelentkezik az alábbi klinikai formák legalább egyike: Bőranthrax Az alábbi két tünet legalább egyike: - fájdalmatlan papula vagy vesicula, - ödémával övezett, fájdalmatlan bemélyedő pokolvar (eschar). Bélanthrax - Láz vagy lázas állapot, és az alábbi két tünet legalább egyike: - heves hasi fájdalom, - hasmenés. Tüdőanthrax - Láz vagy lázas állapot, és az alábbi két tünet legalább egyike: - akut légzési nehézség (ARDS), - a mediastinum kiszélesedésének radiológiai bizonyítéka. Agyhártya/agyvelőanthrax (meningeális/meningoecephalitis-anthrax) - láz, és az alábbi három tünet legalább egyike: - görcsroham, - eszméletvesztés, - meningeális tünetek. Anthrax septicaemia (vérmérgezés). |
+Bacillus anthracis
 
-|  | Epidemiológiai kritérium | Az alábbi négy epidemiológiai kapcsolat legalább egyike: - állatról emberre való terjedés, - a betegségre fogékony állatok körében váratlan elhullás, - közös forrással, terjesztő közeggel való érintkezés, - fertőzött élelmiszerrel, ivóvízzel való érintkezés. |
+2. Teendők a beteggel
 
-|  | Laboratóriumi kritérium | A Bacillus anthracis izolálása klinikai mintából. A Bacillus anthracis nukleinsav kimutatása klinikai mintában. (Klinikai tünetek hiányában az orrból tamponnal vett minta pozitív eredménye nem alkalmas az eset diagnózisának felállítására.) |
+2.1. Jelentés:
 
-| 2.2. Elkülönítés: | Nem szükséges. A beteget az esetlegesen gyorsan romló klinikai állapotára tekintettel kórházban kell kezelni gyógyulásáig. |
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et. Járványügyi értesítést kell küldeni a területileg illetékes élelmiszerlánc-felügyeleti szervnek is.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+2.1.1. Esetek osztályozása
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Bőranthrax esetében a pustula, carbunculus vagy más elváltozás sterilen vett váladékát futárral kell beküldeni az ÁNTSZ-OEK Veszélyes Kórokozók Nemzeti Referencia-laboratóriumába. Tüdőanthrax esetében köpetet, vért, biopsziával vett szövetmintát, bélanthrax esetében székletet, meningitis/meningoencephalitis esetén liquort és vért kell beküldeni. Septicaemiás szövődmény esetében vért kell haemocultura palackban megfelelően csomagolva a laboratóriumba küldeni diagnosztikus vizsgálatra. Ha valamilyen ok miatt a beteg életében a laboratóriumi vizsgálat nem történhetett meg, boncolási anyag (lép, esetleg egyéb szervek) küldendő be laboratóriumi vizsgálatra csiszolt üvegdugós porüvegben. A mintavételkor viselt egyszer használatos gumikesztyűt, és egyéb mintavételi, illetve védelmi eszközöket el kell égetni. Bioterror-esemény gyanúja esetén az azzal epidemiológiai kapcsolatban lévő betegtől származó klinikai mintákat és az eseményhez kapcsolódó környezeti mintákat haladéktalanul, futárral kell küldeni az ÁNTSZ-OEK Veszélyes Kórokozók Nemzeti Referencia-laboratóriumába. |
+Gyanús eset
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+A bőr-, illetve a tüdőanthrax klinikai feltételeinek megfelelő megbetegedés.
 
-| 2.4. Fertőtlenítés: | Bőr- és bélanthrax esetében folyamatos és zárófertőtlenítés, tüdőanthrax esetében szigorított folyamatos és zárófertőtlenítés végzendő. |
+Valószínűsíthető eset
 
-| 3. Teendők a beteg környezetében |
+- teljesül a klinikai feltételek legalább egyike és kapcsolat anthraxban megbetegedett állattal vagy abból származó anyaggal (élelmiszer, irha stb.),
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+- teljesül a klinikai feltételek legalább egyike és a beteg környezetében élő, a betegségre fogékony állatok körében váratlan elhullás következik be a lappangási időben,
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. (Bioterror-cselekmény során feltehetően exponálódott személyek orrtampon vizsgálata nem szükséges.) |
+- teljesül a klinikai feltételek legalább egyike és kapcsolat bizonyítottan anthrax okozta bioterror-eseménnyel,
 
-| 3.3. Járványügyi megfigyelés: | Munkahelyi fertőzés esetén a dolgozókat egy hétig meg kell figyelni. Anthraxban elpusztult állat húsának feldolgozása vagy elfogyasztása esetén a fogyasztók 7 napos járványügyi megfigyelése szükséges. Igazolt vagy valószínű bioterror cselekmény során exponálódott személyeket az expozíció jellegének megfelelő időtartamra kell járványügyi megfigyelés alá helyezni (orális, vagy kontakt expozíció: 7 nap, légúti 60 nap). |
+- azonos helyen és időben legalább kettő, a bőr-, illetve a tüdőanthrax klinikai feltételeinek megfelelő megbetegedés előfordulása (közös forrással vagy terjesztő közeggel való érintkezés).
 
-| 3.4. Postexpozíciós profilaxis: | A járványügyi megfigyelés alá vont személyek közül a gyanús bőrfertőzésben szenvedőknél azonnal antibiotikum terápiát kell kezdeni. Az anthraxban elpusztult állat húsát fogyasztókat, és az igazolt vagy valószínű bioterror cselekmény során exponálódott személyeket postexpozíciós profilaxisban kell részesíteni. |
+Megerősített eset
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+Teljesül a klinikai feltételek és laboratóriumi feltételek legalább egyike.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+Ha a megerősített eset a lappangási időben nem volt kapcsolatban anthraxra fogékony állattal vagy azokból származó termékekkel (bőr stb.), akkor fel kell vetni a bioterror-cselekménnyel kapcsolatos expozíció gyanúját.
 
-| 3.7. Egyéb intézkedések: | A fertőzőforrás-kutatás és a terjesztő közeg felderítésének során az illetékes állatorvossal kell együttműködni. |
+2.1.2. Feltételek
 
-| Botulizmus |
+Klinikai kritérium
 
-| BNO10: A5.10 |
+Jelentkezik az alábbi klinikai formák legalább egyike:
 
-| 1. Kórokozó: | A Clostridium botulinum A, B, E és F típusú neurotoxint (botulotoxin) termelő biovariánsai okoznak emberi megbetegedést. Európában, és így hazánkban is a B toxint termelő típus a leggyakoribb. |
+Bőranthrax
 
-| 2. Teendők a beteggel |
+Az alábbi két tünet legalább egyike:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Az értesülést követően sürgőséggel is jelentendő telefonon a kormányhivatalnak és az ÁNTSZ-OEK részére. |
+- fájdalmatlan papula vagy vesicula,
 
-|  | 2.1.1. Esetek osztályozása |
+- ödémával övezett, fájdalmatlan bemélyedő pokolvar (eschar).
 
-|  | Gyanús eset | Klinikai kritériumok megléte. |
+Bélanthrax
 
-|  | Valószínűsíthető eset | Akinél teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat. |
+- Láz vagy hőemelkedés,
 
-|  | Megerősített eset | Akinél teljesülnek a klinikai és laboratóriumi feltételek. |
+és az alábbi két tünet legalább egyike:
 
-|  | 2.1.2. Feltételek |
+- heves hasi fájdalom,
 
-|  | Klinikai kritérium | Legalább egy az alábbi klinikai tünetegyüttesek közül: Élelmiszer eredetű és seb okozta botulizmus az alábbi két tünet legalább egyike: 3._. Bilaterális agyideg érintettség (pl. kettős látás, homályos látás, nyelési zavar, bulbáris gyengeség) 3._. Perifériás szimmetrikus paralízis. Jellemző lehet a bénulásos tünetek gyors progrediálása. Csecsemőkori botulizmus Legalább egy az alábbi hat tünet közül: 3._. székrekedés, 3._. lehangoltság, 3._. étvágytalanság, 3._. szemhéjcsüngés, 3._. nyelési zavar, 3._. általános izomgyengeség. Ez a forma 12 hónaposnál idősebb gyermekek és ritkán felnőttek esetében is kialakulhat, a normál gyomor- bélflóra megváltozása vagy hiánya során. |
+- hasmenés.
 
-|  | Epidemiológiai kritérium | Az alábbi epidemiológiai kapcsolatok legalább egyike: 3._. azonos élelmiszer fogyasztása laboratóriumi vizsgálattal igazolt, botulizmusban szenvedő beteggel, 3._. szennyezett eszköz (pl.: tű) közös használata, 3._. szennyezett élelmiszer/ivóvíz fogyasztása, 3._. két héten belül friss fertőzött sebe volt, - két héten belül invazív eszközös beavatkozás történt szennyezett eszközzel (pl. injekciós droghasználat). |
+Tüdőanthrax
 
-|  | Laboratóriumi kritérium | Az alábbi három feltétel legalább egyike: 3._. Botulotoxin kimutatása vérsavóból, székletből vagy a beteg által fogyasztott ételből, 3._. a C. botulinum izolálása székletből (csecsemőkori botulizmus esetén), - b C. botulinum izolálása a sebből vett mintából (seb okozta botulizmus esetén). |
+- Láz vagy hőemelkedés,
 
-| 2.2. Elkülönítés: | Elkülöníteni nem szükséges, de a szakszerű gyógykezelés biztosítása céljából intenzív osztállyal (lélegeztető készülék) rendelkező kórházba kell a beteget utalni. |
+és az alábbi két tünet legalább egyike:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+- akut légzési nehézség/distress (ARDS),
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegtől haladéktalanul, lehetőleg az antitoxikus terápia megkezdése előtt 20 ml alvadásgátló nélküli vért kell venni, és – előzetes telefonos értesítéssel egy időben – haladéktalanul az ÁNTSZ-OEK Bakteriológiai osztályára kell küldeni. Csecsemő-botulizmus gyanúja esetén székletmintát kell beküldeni. A házilag készített gyanús élelmiszerből a járási hivatal munkatársa vesz mintát, és azt a területileg illetékes megyei élelmiszer-mikrobiológiai laboratóriumba küldi. |
+- a mediastinum kiszélesedésének radiológiai bizonyítéka.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Agyhártya/agyvelőanthrax (meningeális/meningoecephalitis-anthrax)
 
-| 2.4. Fertőtlenítés: | Nem szükséges. |
+- láz,
 
-| 3. Teendők a beteg környezetében |
+és az alábbi három tünet legalább egyike:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A beteg által evett gyanúsított élelmiszert fogyasztók felkutatása kötelező. A beteggel azonos, vélhetően a kórokozót közvetítő élelmiszert fogyasztókat kórházi megfigyelés alá kell helyezni. |
+- görcsroham,
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Az azonos ételt fogyasztók esetében a mikrobiológiai laboratóriumi vizsgálatokat el kell végezni tünetmentesség esetén is, pozitív eredmény esetén az antitoxikus terápiát azonnal meg kell kezdeni. |
+- eszméletvesztés,
 
-| 3.3. Járványügyi megfigyelés: | A laboratóriumi vizsgálat negatív eredményéig azon személyek járványügyi megfigyelése szükséges, akik azonos, a megbetegedést (vélhetően) közvetítő élelmiszert fogyasztottak a beteggel. |
+- meningeális tünetek.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Anthrax septicaemia (vérmérgezés).
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező, és a gyanúsított élelmiszer mikrobiológiai vizsgálatát is el kell végezni. |
+Epidemiológiai kritérium
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. Ha a terjesztő közfogyasztásra szánt élelmiszer, akkor az illetékes hatóságot értesíteni kell a szükséges intézkedések megtétele érdekében. |
+Az alábbi négy epidemiológiai kapcsolat legalább egyike:
 
-| Brucellosis |
+- állatról emberre való terjedés,
 
-| Bang-kór, máltai láz, unduláló láz, BNO10: A23 |
+- a betegségre fogékony állatok körében váratlan elhullás,
 
-| 1. Kórokozó: | Brucella melitensis (hazánkban nem fordul elő), B. abortus, B. suis, B. canis. |
+- közös forrással, terjesztő közeggel való érintkezés,
 
-| 2. Teendők a beteggel |
+- szennyezett élelmiszerrel, ivóvízzel való érintkezés.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Értesíteni kell a fertőzés helye szerint illetékes hatósági állatorvost is. |
+Laboratóriumi kritérium
 
-|  | 2.1.1. Esetek osztályozása |
+- A Bacillus anthracis izolálása klinikai mintából.
 
-|  | Gyanús eset | --- |
+- A Bacillus anthracis nukleinsav kimutatása klinikai mintában.
 
-|  | Valószínűsíthető eset | Teljesülnek a klinikai feltételek és fennáll az epidemiológiai kapcsolat. |
+(Klinikai tünetek hiányában az orrból tamponnal vett minta pozitív eredménye nem alkalmas az eset diagnózisának felállítására.)
 
-|  | Megerősített eset | Teljesülnek a klinikai és laboratóriumi feltételek. |
+2.2. Elkülönítés:
 
-|  | 2.1.2. Feltételek |
+Nem szükséges. A beteget az esetlegesen gyorsan romló klinikai állapotára tekintettel kórházban kell kezelni gyógyulásáig.
 
-|  | Klinikai kritérium | Akinél láz jelentkezik és az alábbi hét tünet közül legalább egy: - izzadás (heves, kellemetlen szagú, különösen éjszaka jelentkező), - hidegrázás, - izületi fájdalom, - gyengeség, - depresszió, - fejfájás, - anorexia. |
+2.3. Mikrobiológiai vizsgálat:
 
-|  | Epidemiológiai kritérium | Az alábbi három epidemiológiai kapcsolat legalább egyike: - szennyezett élelmiszerrel/ivóvízzel való érintkezés, - fertőzött állat tejének vagy tejtermékeinek fogyasztása, - állatról emberre terjedő fertőzés, közvetlen érintkezés fertőzött állatokkal, váladékaikkal, pl. ellésnél, vágóhídon. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Laboratóriumi kritérium | Az alábbi három feltétel legalább egyike: - Brucella spp. izolálása klinikai mintából (gyanú esetén is BSL-3 szintű laboratóriumban), - Brucella spp. nukleinsav kimutatása, - Brucella spp-vel szembeni specifikus ellenanyagok kimutatása. |
+Kötelező.
 
-| 2.2. Elkülönítés: | Nem szükséges. A szakszerű antibiotikus gyógykezelés érdekében a beteget az akut szakban kórházba kell utalni. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Kötelező. Bőranthrax esetében a pustula, carbunculus vagy más elváltozás sterilen vett váladékát, szövetmintát futárral kell beküldeni az OEK referencia laboratóriumába. Tüdőanthrax esetében köpetet, vért, biopsziával vett szövetmintát, bélanthrax esetében székletet, meningitis/meningoencephalitis esetén liquort és vért kell beküldeni. Septicaemiás szövődmény esetében vért kell haemocultura palackban megfelelően csomagolva a laboratóriumba küldeni diagnosztikus vizsgálatra. Ha valamilyen ok miatt a beteg életében a laboratóriumi vizsgálat nem történhetett meg, boncolási anyag (lép, esetleg egyéb szervek) küldendő be laboratóriumi vizsgálatra csiszolt üvegdugós porüvegben. A mintavételkor viselt egyszer használatos gumikesztyűt és egyéb mintavételi, illetve védelmi eszközöket el kell égetni. Bioterror-esemény vagy közös terjesztő közeg (pl. intravénásan beadható drog) gyanúja esetén az azzal epidemiológiai kapcsolatban lévő betegtől származó klinikai mintákat és az eseményhez kapcsolódó környezeti mintákat haladéktalanul, futárral kell küldeni az OEK referencia laboratóriumába.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Beküldendő alvadásgátló nélkül vett vérminta a járványügyi feladatok ellátására kijelölt mikrobológiai laboratóriumba immunszerológiai vizsgálatra. Akut szakban ajánlott nyirokcsomó, csontvelőminta beküldése tenyésztés és PCR-vizsgálat céljából az ÁNTSZ-OEK Veszélyes Kórokozók Nemzeti Referencia-laboratóriumába. |
+2.3.3. Felszabadító vizsgálat:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Nem szükséges.
 
-| 2.4. Fertőtlenítés: | Nem szükséges. |
+2.4. Fertőtlenítés:
 
-| 3. Teendők a beteg környezetében |
+Bőr- és bélanthrax esetében folyamatos és zárófertőtlenítés, tüdőanthrax esetében szigorított folyamatos és zárófertőtlenítés végzendő.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+3. Teendők a beteg környezetében
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A fertőzésnek kitett dolgozóktól megbetegedésük esetén akkor is vért kell küldeni agglutinációs vizsgálatra a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba, ha a típusos tüneteik miatt a brucellosis gyanúja egyébként nem merülne fel. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| 3.3. Járványügyi megfigyelés: | Azon személyek járványügyi megfigyelése szükséges, akik a beteggel közös forrásból exponálódtak, és a tünetek jelentkezése esetén el kell kezdeni célzott terápiájukat. |
+Nem szükséges.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. Az eredményről a területileg illetékes hatósági állatorvost értesíteni kell. |
+Nem szükséges. (Bioterror-cselekmény során feltehetően exponálódott személyek orrtampon vizsgálata csak az expozíció kiterjedésének meghatározása érdekében szükséges.)
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+3.3. Járványügyi megfigyelés:
 
-| 3.7. Egyéb intézkedések: | A fertőzőforrás-kutatásnak és a terjesztő közeg felderítésének eredményéről az élelmiszerlánc-biztonsági hatóságot (élelmiszer), vagy az egészségügyi szolgáltatót (vér, anyatej, transzplantátum) haladéktalanul értesíteni kell. |
+Munkahelyi expozíció esetén a dolgozókat egy hétig meg kell figyelni. Anthraxban elpusztult állat húsának feldolgozása vagy elfogyasztása, szennyezett drog parenterális használata esetén az exponáltak 7 napos járványügyi megfigyelése szükséges. Igazolt vagy valószínűsíthető bioterror cselekmény során exponálódott személyeket az expozíció jellegének megfelelő időtartamra kell járványügyi megfigyelés alá helyezni (orális vagy kontakt expozíció: 7 nap, légúti expozíció: 60 nap).
 
-| Campylobacteriosis |
+3.4. Postexpozíciós profilaxis:
 
-| Campylobacter fertőzés, campylobacter enteritis, BNO10: A04.5 |
+A járványügyi megfigyelés alá vont személyek közül a gyanús bőrfertőzésben szenvedőknél azonnal antibiotikum-terápiát kell kezdeni. Az anthraxban elpusztult állattal kapcsolatba kerülteket, az állat húsát fogyasztókat, és az igazolt vagy valószínű bioterror cselekmény során exponálódott személyeket postexpozíciós profilaxisban kell részesíteni.
 
-| 1. Kórokozó: | A Campylobacter genusba 19 species, illetve subspecies tartozik. Humán klinikai jelentősége főként a C. jejuni és a C. coli törzseknek van. |
+3.5. Fertőzőforrás-kutatás:
 
-| 2. Teendők a beteggel |
+Kötelező.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+3.6. A terjesztő közeg felderítése:
 
-|  | 2.1.1. Esetek osztályozása |
+Kötelező.
 
-|  | Gyanús eset | Teljesülnek a klinikai kritériumok. |
+3.7. Egyéb intézkedések:
 
-|  | Valószínűsíthető eset | Teljesülnek a klinikai és epidemiológiai kritériumok. |
+A fertőzőforrás-kutatás és a terjesztő közeg felderítése során az érintett hatóságokkal (pl. rendőrség) együtt kell működni. Emellett ha a járványügyi vizsgálat során felmerül, hogy a beteg fertőződése házi- vagy haszonállattal, illetve vadon élő állattal történt kontaktus révén jöhetett létre, haladéktalanul értesíteni kell – az érintett személyazonosító és egészségügyi adatainak megküldésével – az érintett lakóhelye (tartózkodási helye) szerint illetékes élelmiszerlánc-felügyeleti szervet.
 
-|  | Megerősített eset | Teljesülnek a klinikai és laboratóriumi kritériumok. |
+Botulizmus
 
-|  | 2.1.2. Feltételek |
+BNO10: A5.10
 
-|  | Klinikai kritérium | Az alábbi három tünet legalább egyike: - hasmenés (többnyire vizes, néha véres), - hasi fájdalom (gyakran köldöktáji), - láz. |
+1. Kórokozó:
 
-|  | Epidemiológiai kritérium | Az alábbi epidemiológiai kapcsolatok legalább egyike: - szennyezet élelmiszer/víz fogyasztása, - szennyezett élelmiszer kezelése (ételkészítés), - állatról emberre való terjedés (pl. kontaktus házi kedvencekkel), - emberről emberre való terjedés. |
+A Clostridium botulinum A, B, E és F típusú neurotoxint (botulotoxin) termelő biovariánsai okoznak emberi megbetegedést. Európában, és így hazánkban is a B toxint termelő típus a leggyakoribb.
 
-|  | Laboratóriumi kritérium | Campylobacter spp. izolálása és azonosítása székletből vagy vérből. |
+2. Teendők a beteggel
 
-| 2.2. Elkülönítés: | Kötelező, a beteg otthonában, tartózkodási helyén elkülönítendő. |
+2.1. Jelentés:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Sporadikus esetben bármely klinikai mikrobiológiai laboratóriumban elvégezhető a Campylobacter spp. izolálása székletből vagy vérből. |
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et. Járványügyi értesítést kell küldeni a területileg illetékes élelmiszerlánc-felügyeleti szervnek is.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Járvány gyanúja esetén az első diagnosztikus vizsgálatot a járványügyi feladatok ellátására kijelölt laboratóriumban kell végezni, ugyanitt történik a Campylobacter spp. azonosítása. |
+2.1.1. Esetek osztályozása
 
-|  | 2.3.3.Felszabadító vizsgálat: | A klinikai gyógyulást követően székletbakteriológiai felszabadító vizsgálatot kizárólag azon személyeknél kell elvégezni, akik 0–3 éves gyermekek közösségébe járnak, és akik anyatejet adnak. Az ilyen személyek a közösség/intézmény látogatását, illetve tevékenységüket csak akkor folytathatják, ha a gyógyulás (antibiotikus kezelés) után két nap múlva elkezdett, két egymást követő napon levett egy-egy székletminta bakteriológiai vizsgálata negatív eredménnyel jár. |
+Gyanús eset
 
-| 2.4. Fertőtlenítés: | A beteg, illetve a betegségre gyanús személy környezetében folyamatos fertőtlenítést kell végezni. |
+Klinikai kritériumok megléte.
 
-| 3. Teendők a beteg környezetében |
+Valószínűsíthető eset
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező. |
+Akinél teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Kötelező, az azonos, feltételezhetően a fertőzést terjesztő ételt fogyasztók szűrővizsgálatát el kell végezni. |
+Megerősített eset
 
-| 3.3. Járványügyi megfigyelés: | A beteg családi vagy intézeti környezetében élő személyeket az utolsó érintkezéstől számított 5 napi időtartamra járványügyi megfigyelés alá kell helyezni. |
+Akinél teljesülnek a klinikai és laboratóriumi feltételek.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+2.1.2. Feltételek
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+Klinikai kritérium
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+Legalább egy az alábbi klinikai tünetegyüttesek közül:
 
-| Chikungunya-láz |
+Élelmiszer eredetű és seb-botulizmus
 
-| BNO10: A9200, A9210 |
+Az alábbi két feltétel legalább egyike:
 
-| 1. Kórokozó: | A Togaviridae család Alphavírus nemzetségéhez tartozó, arbovírusok közé sorolt Chikungunya-vírus. |
+- Bilaterális agyideg érintettség (pl. kettős látás, homályos látás, nyelési zavar, bulbáris gyengeség),
 
-| 2. Teendők a beteggel |
+- perifériás szimmetrikus paralízis.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell jelenteni. |
+Jellemző lehet a bénulásos tünetek gyors progrediálása.
 
-|  | 2.1.1. Esetek osztályozása |
+Csecsemőkori botulizmus
 
-|  | Gyanús eset | --- |
+Minden olyan csecsemő, akire teljesül legalább egy az alábbi hat tünet közül:
 
-|  | Valószínűsíthető eset | Teljesül a klinikai és az epidemiológiai feltétel. |
+- székrekedés,
 
-|  | Megerősített eset | Teljesül a laboratóriumi feltételek egyike, függetlenül a klinikai feltételtől. |
+- lehangoltság,
 
-|  | 2.1.2. Feltételek |
+- étvágytalanság,
 
-|  | Klinikai kritérium | Hirtelen fellépő, 38,5oC-nál magasabb láz, és más oknak nem tulajdonítható, súlyos arthralgia/arthritis. |
+- szemhéjcsüngés,
 
-|  | Epidemiológiai kritérium | Endémiás területen történt tartózkodás, ahol a tünetek kezdetét megelőző 15 napban a vírus terjedését észlelték. |
+- nyelési zavar,
 
-|  | Laboratóriumi kritérium | Az akut szakaszban az alábbiak közül legalább egy: - vírusizolálás, - a vírusnukleinsav kimutatása PCR-vizsgálattal, - IgM osztályba tartozó specifikus ellenanyagok kimutatása az akut vagy a convalescens szakból származó egyetlen vérmintából, - a vírus-specifikus ellenanyagok szerokonverziója három hét eltéréssel vett vérmintákban. |
+- általános izomgyengeség.
 
-| 2.2. Elkülönítés: | Nem szükséges |
+Ez a forma 12 hónaposnál idősebb gyermekek és ritkán felnőttek esetében is kialakulhat a gyomor-bélcsatorna anatómiai rendellenessége vagy a mikroflóra megváltozása következtében.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Epidemiológiai kritérium
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegség gyanúja esetén beküldendő három hét különbséggel vett savópár az ÁNTSZ-OEK Virális Zoonózisok Nemzeti Referencia-laboratóriumába. |
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+- Közös expozíció (pl. élelmiszer, tű vagy más eszköz megosztása),
 
-| 2.4. Fertőtlenítés: | Nem szükséges. |
+- szennyezett élelmiszer/ivóvíz fogyasztása.
 
-| 3. Teendők a beteg környezetében |
+Laboratóriumi kritérium
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+Az alábbi négy feltétel legalább egyike:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+- Botulotoxin kimutatása klinikai mintából,
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+- a C. botulinum izolálása székletből (csecsemőkori botulizmus esetén), (a C. botulinum izolálása felnőtt székletéből nem releváns az élelmiszer eredetű botulizmus diagnózisához),
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+- C. botulinum izolálása a sebből vett mintából (seb-botulizmus esetén),
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező, ha a beteg a lappangási időben nem járt endémiás területen, vagy vér-, szövet-, illetve szervdonáció révén történő fertőződésének lehetősége merült fel. |
+- botulotoxin kimutatása a beteg által fogyasztott élelmiszerből/vízből.
 
-| 3.6. A terjesztő közeg felderítése: | Vér-, szövet- vagy szervdonáció révén történt fertőződés gyanúja esetén a donáció azonosítása kötelező. |
+2.2. Elkülönítés:
 
-| 3.7. Egyéb intézkedések: | Vér-, szövet- vagy szervdonáció révén történt fertőződés gyanúja esetén értesítendő az érintett egészségügyi intézmény. |
+Elkülöníteni nem szükséges, de a szakszerű gyógykezelés biztosítása céljából intenzív osztállyal (lélegeztető készülék) rendelkező kórházba kell a beteget utalni.
 
-| Cholera |
+2.3. Mikrobiológiai vizsgálat:
 
-| BNO10: A00 |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 1. Kórokozó: | Vibrio cholerae O1, valamint a Vibrio cholerae O139. |
+Kötelező.
 
-| 2. Teendők a beteggel |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Az értesülést követően az eset sürgőséggel is jelentendő. Egy megbetegedést csak egyszer kell bejelenteni. |
+Kötelező. A betegtől haladéktalanul, lehetőleg az antitoxikus terápia megkezdése előtt 20 ml alvadásgátló nélküli vért, csecsemő-botulizmus gyanúja esetén székletmintát kell venni, és – előzetes telefonos értesítéssel egy időben – haladéktalanul az OEK-nek meg kell küldeni. A házilag készített gyanús élelmiszerből a járási hivatal, a közfogyasztásra szánt élelmiszerből a területileg illetékes élelmiszerlánc-felügyeleti szerv munkatársa vesz mintát. Az élelmiszerminta vizsgálatát az élelmiszerlánc-felügyeleti szerv végzi.
 
-|  | 2.1.1. Esetek osztályozása |
+2.3.3. Felszabadító vizsgálat:
 
-|  | Gyanús eset | --- |
+Nem szükséges.
 
-|  | Valószínűsíthető eset | Minden olyan eset, akinél teljesülnek a klinikai feltételek és fennáll az epidemiológiai kapcsolat. |
+2.4. Fertőtlenítés:
 
-|  | Megerősített eset | Minden olyan eset, akinél teljesülnek a klinikai és laboratóriumi feltételek. |
+Nem szükséges.
 
-|  | 2.1.2. Feltételek |
+3. Teendők a beteg környezetében
 
-|  | Klinikai kritérium | Minden olyan személy, akinél jelentkezik az alábbi két tünet legalább egyike: - hasmenés, - hányás. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | Epidemiológiai kritérium | Az alábbi négy epidemiológiai kapcsolat legalább egyike: - közös forrással való érintkezés, - emberről emberre való terjedés, - szennyezett élelmiszerrel, illetve ivóvízzel való érintkezés, - környezeti expozíció. |
+Nem szükséges. A beteg által evett gyanúsított élelmiszert fogyasztók felkutatása kötelező.
 
-|  | Laboratóriumi kritérium | A Vibrio cholerae izolálása klinikai mintából és - az O1 vagy O139 antigén kimutatása az izolátumban, vagy - a cholera-enterotoxin vagy a cholera-enterotoxin gén kimutatása az izolátumban. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 2.2. Elkülönítés: | A beteget kórházi fertőző osztályon kell elkülöníteni. |
+A beteggel azonos élelmiszert fogyasztó, panaszokkal, klinikai tünetekkel rendelkező személyek mikrobiológiai laboratóriumi vizsgálatát el kell végezni, pozitív eredmény esetén az antitoxikus terápiát azonnal meg kell kezdeni.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+3.3. Járványügyi megfigyelés:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A valószínűsített betegtől származó székletmintát az ÁNTSZ-OEK laboratóriumába kell küldeni. Amennyiben V. cholerae gyanús baktériumtörzs kerül izolálásra a klinikai mikrobiológiai laboratóriumban vagy járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumban, a törzset járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat céljából megerősítő vizsgálatra – telefonon történő bejelentést követően – haladéktalanul az ÁNTSZ-OEK laboratóriumába kell beküldeni. |
+A beteggel azonos, vélhetően a kórokozót közvetítő élelmiszert fogyasztókat panaszok, klinikai tünetek esetén kórházi klinikai megfigyelés alá kell helyezni.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Kötelező, a felszabadító vizsgálatot a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumban kell elvégezni. A cholerából gyógyult személyt addig kell elkülöníteni, amíg a klinikai gyógyulás és az antibiotikum-kezelés befejezése után 48 óra múlva elkezdett bakteriológiai székletvizsgálat két egymást követő napon negatív eredményt ad. |
+3.4. Postexpozíciós profilaxis:
 
-| 2.4. Fertőtlenítés: | Szigorított folyamatos és szigorított zárófertőtlenítés szükséges. |
+Nem szükséges.
 
-| 3. Teendők a beteg környezetében |
+3.5. Fertőzőforrás-kutatás:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: |  | Kötelező. Azokat, akik a beteggel, illetve a betegségre valószínűsített személyekkel közvetlenül érintkeztek, fel kell kutatni, és 5 napra járványügyi megfigyelés alá kell helyezni. A kontakt személyeket el kell tiltani 0–6 éves gyermekközösségek látogatásától, ilyen közösségekben/ intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkaköröktől, közfogyasztásra kerülő élelmiszerek és italok kezelésétől, a közétkeztetésben, vízművekben történő munkától, anyatej adásától, anyatejgyűjtő állomásokon való foglalkozástól, a közvetlen betegellátás során betegélelmezésben való részvételtől, és a szájon át adott gyógyszerek kezelésétől. |
+Nem szükséges.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A járványügyi megfigyelés alá helyezett személyektől székletmintát kell venni, és járványügyi érdekből végzett mikrobiológiai szűrővizsgálat céljából bakteriológiai vizsgálatra kell küldeni. |
+3.6. A terjesztő közeg felderítése:
 
-| 3.3. Járványügyi megfigyelés: | Azokat, akik a beteggel, illetve a betegségre valószínűsített személyekkel közvetlenül érintkeztek, 5 napra járványügyi megfigyelés alá kell helyezni. A bakteriológiai szűrővizsgálat során pozitívnak talált személyeket, mint vibrió hordozókat járványügyi ellenőrzés alá kell helyezni, és a vibrió hordozás időtartamára a fent említett munkaköröktől/tevékenységtől továbbra is el kell tiltani. A vibrió hordozó személy járványügyi ellenőrzésének megszüntetésére vonatkozó eljárás azonos a betegekre vonatkozó felszabadító vizsgálattal. |
+Kötelező. Ha a terjesztő közfogyasztásra szánt élelmiszer, akkor az illetékes élelmiszerlánc-felügyeleti szervet értesíteni kell a szükséges intézkedések megtétele érdekében. A gyanúsított élelmiszer mikrobiológiai vizsgálatát is el kell végeztetni az élelmiszerlánc-felügyeleti szervvel együttműködve.
 
-| 3.4. Postexpozíciós profilaxis: | Kötelező. |
+Brucellosis
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+Bang-kór, máltai láz, unduláló láz, BNO10: A23
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+1. Kórokozó:
 
-| Congenitalis Rubeola Syndroma |
+Brucella melitensis (hazánkban nem fordul elő), B. abortus, B. suis, B. canis.
 
-| CRS, BNO10: P35.0 |
+2. Teendők a beteggel
 
-| 1. Kórokozó: | A Togaviridae család, Rubivírus genusát alkotó Rubeola vírus. |
+2.1. Jelentés:
 
-| 2. Teendők a beteggel |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Értesíteni kell a megbetegedés helye szerint illetékes élelmiszerlánc-felügyeleti szervet is.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. A CRS 2 éves korig bejelentendő. |
+2.1.1. Esetek osztályozása
 
-|  | 2.1.1. Esetek osztályozása |
+Gyanús eset
 
-|  | Gyanús eset | Teljesülnek a klinikai feltételek. |
+-
 
-|  | Valószínűsíthető eset | Minden olyan halvaszületett vagy újszülött csecsemő, akit nem vizsgáltak, vagy akinél a vizsgálat negatív eredménnyel zárult és az alábbi két feltétel legalább egyike teljesül: – a congenitalis rubeolával kapcsolatos klinikai feltételek közül legalább egy az (A) kategóriából, – a congenitalis rubeola feltételei teljesülnek. |
+Valószínűsíthető eset
 
-|  | Megerősített eset | Minden olyan halvaszületett csecsemő, akire teljesülnek a laboratóriumi feltételek vagy minden olyan csecsemő, akinél teljesülnek a laboratóriumi feltételek és teljesül az alábbi két feltétel legalább egyike: – epidemiológiai kapcsolat, – a congenitalis rubeola klinikai feltételei közül legalább egy az (A) kategóriából. Azt az újszülöttet, akinél pozitív laboratóriumi eredményt állapítanak meg, de az anya terhesség alatti kórtörténetében nem szerepel rubeola és nem teljesülnek az (A) kategória klinikai feltételei, rubeola megbetegedésként kell bejelenteni. |
+Teljesülnek a klinikai feltételek és fennáll az epidemiológiai kapcsolat.
 
-|  | 2.1.2. Feltételek |
+Megerősített eset
 
-|  | Klinikai kritérium | Minden egy évnél fiatalabb csecsemő vagy minden halvaszületett csecsemő, akire teljesülnek az alábbiak: – az (A) kategória feltételei közül legalább kettő vagy – egy feltétel az (A) és egy a (B) kategóriában: (A) kategória – szürkehályog, – kongenitális zöldhályog, – kongenitális szívbetegség, – halláskárosodás, – pigmentretinopátia, (B) kategória – purpura, – lépmegnagyobbodás, – kisfejűség (mikrokefália), – fejlődési visszamaradottság, – Meningo-encephalitis, – a csont radiolucens elváltozása. Sárgaság, amely a születést követő 24 órán belül jelentkezik. |
+Teljesülnek a klinikai és laboratóriumi feltételek.
 
-|  | Epidemiológiai kritérium | Minden olyan újszülött vagy halvaszületett csecsemő, akinek az anyjánál laboratóriumilag megerősítetten a vertikális fertőzéssel átadott rubeolafertőzést diagnosztizálták. |
+2.1.2. Feltételek
 
-|  | Laboratóriumi kritérium | Az alábbi négy feltétel legalább egyike: – rubeolavírus izolálása klinikai mintából, – rubeolavírus nukleinsav kimutatása, – rubeolavírussal szembeni specifikus ellenanyagok (IgM) kimutatása, – rubeola IgG antitest perzisztálása 6-12 hónapos kor között (legalább két minta, hasonló rubeola-specifikus IgG titerrel). A laboratóriumi eredményeket az oltottsági státus szerint kell értelmezni. |
+Klinikai kritérium
 
-| 2.2. Elkülönítés: | Kötelező. |
+Akinél láz jelentkezik
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+és az alábbi hét tünet közül legalább egy:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegség gyanúja esetén a diagnózis tisztázása céljából alvadásgátló nélkül, sterilen vett két vérmintát kell küldeni az ÁNTSZ-OEK Vírusdiagnosztikai osztályára. |
+- izzadás (heves, kellemetlen szagú, különösen éjszaka jelentkező),
 
-|  | 2.3.3.Felszabadító vizsgálat: | 12 hónaposnál fiatalabb, CRS-ben szenvedő csecsemők elkülönítése akkor szüntethető meg, ha a vizelet és a torokváladék már nem tartalmaz rubeolavírust. |
+- hidegrázás,
 
-| 2.4. Fertőtlenítés: | Folyamatos fertőtlenítés szükséges. |
+- ízületi fájdalom,
 
-| 3. Teendők a beteg környezetében |
+- gyengeség,
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező. |
+- depresszió,
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+- fejfájás,
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+- anorexia.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Epidemiológiai kritérium
 
-| 3.5. Fertőzőforrás-kutatás: | Nem szükséges. |
+Az alábbi négy epidemiológiai kapcsolat legalább egyike:
 
-| 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
+- szennyezett élelmiszerrel, ivóvízzel való érintkezés,
 
-| Cryptosporidiosis |
+- fertőzött állat tejének vagy tejtermékeinek fogyasztása,
 
-| BNO10: A 04.2 |
+- állatról emberre terjedő fertőzés, közvetlen érintkezés fertőzött állatokkal (pl. ellésnél, vágóhídon), illetve váladékaikkal (pl. hüvelyváladék, placenta),
 
-| 1. Kórokozó: | Cryptosporidium parvum |
+- közös expozíció.
 
-| 2. Teendők a beteggel |
+Laboratóriumi kritérium
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+Az alábbi három feltétel legalább egyike:
 
-|  | 2.1.1. Esetek osztályozása |
+- Brucella spp. izolálása klinikai mintából (gyanú esetén is BSL-3 szintű laboratóriumban),
 
-|  | Gyanús eset | --- |
+- Brucella spp. nukleinsav kimutatása,
 
-|  | Valószínűsíthető eset | Teljesül a klinikai és epidemiológiai feltétel. |
+- Brucella spp.-vel szemben specifikus ellenanyagok kimutatása.
 
-|  | Megerősített eset | Teljesül a klinikai és laboratóriumi feltétel. |
+2.2. Elkülönítés:
 
-|  | 2.1.2. Feltételek |
+Nem szükséges. A szakszerű antibiotikus gyógykezelés érdekében a beteget az akut szakban kórházba kell utalni.
 
-|  | Klinikai kritérium | Az alábbi négy tünet legalább egyike: - híg, vizes hasmenés, - görcsös hasi fájdalom, - rossz közérzet, étvágytalanság, - hányinger, hányás. |
+2.3. Mikrobiológiai vizsgálat:
 
-|  | Epidemiológiai kritérium | Az alábbi epidemiológiai kapcsolatok legalább egyike: - emberről emberre való terjedés, - közös forrással való érintkezés, - állatról emberre való terjedés, - szennyezett élelmiszerrel, illetve ivóvízzel való érintkezés, - környezeti expozíció. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Laboratóriumi kritérium | Az alábbi négy feltétel legalább egyike: - Cryptosporidium peték kimutatása a székletben, - Cryptosporidium kimutatása a bélnedvben vagy a vékonybélből vett szövettani mintában, - Cryptosporidium nukleinsav kimutatása a székletben, - Cryptosporidium antigén kimutatása a székletben. |
+Kötelező.
 
-| 2.2. Elkülönítés: | A beteg otthonában, tartózkodási helyén a hasmenés fennállásáig elkülönítendő. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Székletminta küldendő vizsgálatra parazitológiai laboratóriumba. |
+Kötelező. Beküldendő alvadásgátló nélkül vett vérminta a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba immunszerológiai vizsgálatra. Akut szakban ajánlott nyirokcsomó, csontvelőminta beküldése tenyésztés és PCR-vizsgálat céljából az OEK referencia laboratóriumába.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Járvány gyanúja esetén az első diagnosztikus vizsgálatot is a járványügyi feladat elvégzésére kijelölt laboratóriumban kell elvégezni. |
+2.3.3. Felszabadító vizsgálat:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Nem szükséges.
 
-| 2.4. Fertőtlenítés: | Folyamatos fertőtlenítés. |
+2.4. Fertőtlenítés:
 
-| 3. Teendők a beteg környezetében |
+Nem szükséges.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező. |
+3. Teendők a beteg környezetében
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Kötelező. A kontakt személyek szűrővizsgálatát el kell végezni. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| 3.3. Járványügyi megfigyelés: | A beteg környezetében élő azon személyeket, akik 0–3 éves gyermekek közösségébe járnak, akik egészségügyi intézmények ápoltjai, akik a betegellátás során étel- és gyógyszerosztást végeznek, anyatejet adnak/kezelnek, 7 napra járványügyi megfigyelés alá kell helyezni. Ezen személyeket a járványügyi megfigyelés időtartamára munkakörüktől, tevékenységüktől el kell tiltani. Közösség, intézmény látogatását, foglalkozásukat, tevékenységüket csak akkor folytathatják, ha a járványügyi megfigyelés alatt enterális tünetek nem jelentkeznek, és egy alkalommal vett székletmintájukból a kórokozó nem mutatható ki. |
+Nem szükséges.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+A fertőzésnek kitett dolgozóktól megbetegedésük esetén akkor is vért kell küldeni agglutinációs vizsgálatra a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba, ha atípusos tüneteik miatt a brucellosis gyanúja egyébként nem merülne fel.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+3.3. Járványügyi megfigyelés:
 
-| Diphtheria |
+Azon személyek klinikai megfigyelése szükséges, akik a beteggel közös forrásból exponálódtak, és a tünetek jelentkezése esetén el kell kezdeni célzott terápiájukat.
 
-| Torokgyík, BNO10: A36 |
+3.4. Postexpozíciós profilaxis:
 
-| 1. Kórokozó: | Corynebacterium diphtheriae |
+Nem szükséges.
 
-| 2. Teendők a beteggel |
+3.5. Fertőzőforrás-kutatás:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset/megbetegedés. Egy megbetegedést csak egyszer kell bejelenteni. A megbetegedés az értesülést követően sürgőséggel is jelentendő. |
+Kötelező.
 
-|  | 2.1.1. Esetek osztályozása |
+3.6. A terjesztő közeg felderítése:
 
-|  | Gyanús eset | Teljesülnek a klinikai feltételek. |
+Kötelező.
 
-|  | Valószínűsíthető eset | Teljesülnek a diftéria klinikai feltételei és az epidemiológiai feltétel. |
+3.7. Egyéb intézkedések:
 
-|  | Megerősített eset | Teljesülnek a klinikai és a laboratóriumi feltételek. |
+A fertőzőforrás-kutatás és a terjesztő közeg felderítésének eredményéről – az érintett személyazonosító és egészségügyi adatainak megküldésével – haladéktalanul értesíteni kell az érintett lakóhelye (tartózkodási helye) szerint illetékes élelmiszerlánc-felügyeleti szervet, továbbá az érintett egészségügyi szolgáltatót (vér, anyatej, transzplantátum).
 
-|  | 2.1.2. Feltételek |
+Campylobacteriosis
 
-|  | Klinikai kritérium | Légzőszervi diftéria: Lázzal járó felső légúti megbetegedés és az alábbi két tünet legalább egyike: - álhártyás torokgyulladás (krupp), vagy - álhártyásodás az alábbi három terület legalább egyikén: - mandula, - garat, - orr. Nazális diftéria: Egyik vagy mindkét orrnyílásból származó orrváladék kezdetben tiszta, majd véres. Bőrdiftéria: Bőrelváltozások. Diftéria más területeken: Kötőhártya vagy nyálkahártya elváltozása. |
+Campylobacter fertőzés, campylobacter enteritis, BNO10: A04.5
 
-|  | Epidemiológiai kritérium | Közvetlen érintkezés beteggel vagy tünetmentes kórokozó hordozó emberrel. |
+1. Kórokozó:
 
-|  | Laboratóriumi kritérium | Toxintermelő C. diphtheriae vagy C. ulcerans izolálása a beteg vizsgálati anyagából. |
+A Campylobacter genusba 19 species, illetve subspecies tartozik. Humán klinikai jelentősége főként a C. jejuni és a C. coli törzseknek van.
 
-| 2.2. Elkülönítés: | A beteget infektológiai osztályon kell elkülöníteni. |
+2. Teendők a beteggel
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+2.1. Jelentés:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Diagnosztikus, illetve felszabadító vizsgálat céljára a beteg torkából és orrából, egyéb lokalizáció esetén (vulva, sebdiphtheria) pedig ezekről a helyekről vett váladékot kell küldeni az ÁNTSZ-OEK-ba bakteriológiai és toxinkimutatási vizsgálatra. A vizsgálati anyag vétele előtt nem szabad helyi kezelést (torokecsetelést, öblítést stb.) végezni. |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Kötelező a beteg antibiotikus kezelésének befejezése után 48 óra múlva a 2 napos időközzel, 2 alkalommal végzett bakteriológiai vizsgálat. |
+2.1.1. Esetek osztályozása
 
-| 2.4. Járványügyi ellenőrzés: | Ha a felszabadító vizsgálat eredménye pozitív, de a beteg klinikai állapota nem indokolja a kórházi elkülönítést, azt meg lehet szüntetni, azonban a gyógyult beteget a kórokozó-hordozás tartamára járványügyi ellenőrzés alá kell helyezni, és el kell tiltani a 0–6 éves gyermekközösségek látogatásától, kórházi sebészeti, szülészeti, egyéb műtéti és gyermekosztályon végzendő munkájától, valamint tejkezeléstől. |
+Gyanús eset
 
-| 2.5. Fertőtlenítés: | Folyamatos és zárófertőtlenítés szükséges. |
+-
 
-| 3. Teendők a beteg környezetében |
+Valószínűsíthető eset
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A beteggel a megbetegedés kezdete előtti hét napban érintkezett, szoros kontaktusba került személyeket fel kell kutatni. |
+Teljesülnek a klinikai és epidemiológiai kritériumok.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Az antibiotikum prevenció megkezdése előtt fertőzőforrás kutatás céljából orr-, torokváladékot kell venni és a járványügyi feladatok elvégzésére kijelölt laboratóriumba kell küldeni. |
+Megerősített eset
 
-| 3.3. Járványügyi megfigyelés: | A beteggel érintkezett személyeket az utolsó érintkezéstől számított 7 napra járványügyi megfigyelés alá kell helyezni. |
+Teljesülnek a klinikai és laboratóriumi kritériumok.
 
-| 3.4. Postexpozíciós profilaxis: | A járványügyi megfigyelés alá vett személyeket 7 napos antibiotikum-prevencióban kell részesíteni. |
+2.1.2. Feltételek
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. A tünetmentes ürítőket járványügyi ellenőrzés alá kell helyezni, és antibiotikus kezelésben kell részesíteni. |
+Klinikai kritérium
 
-| 3.6. Védőoltás: | Kötelező. A beteg környezetében élőket a legrövidebb időn belül aktív immunizálásban kell részesíteni, a 6 éven aluli gyermekek szükséges oltását az ÁNTSZ-OEK Járványügyi osztályával történt megbeszélés alapján egyedileg kell mérlegelni. |
+Az alábbi három tünet legalább egyike:
 
-| Dysenteria - amoebiasis |
+- hasmenés (többnyire vizes, néha véres),
 
-| BNO10: A06 |
+- hasi fájdalom (gyakran köldöktáji),
 
-| 1. Kórokozó: | Entamoeba histolytica |
+- láz.
 
-| 2. Teendők a beteggel |
+Epidemiológiai kritérium
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Ha a beteg trópusi országból érkezett, ezt a bejelentésben közölni kell. |
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-|  | 2.1.1. Esetek osztályozása |
+- szennyezett élelmiszer, víz fogyasztása,
 
-|  | Gyanús eset | Klinikai kritériumok megléte. |
+- szennyezett élelmiszer kezelése (ételkészítés),
 
-|  | Valószínűsíthető eset | Klinikai és epidemiológiai kritériumok megléte. |
+- állatról emberre való terjedés (pl. kontaktus házi kedvencekkel),
 
-|  | Megerősített eset | Klinikai és laboratóriumi kritériumok megléte. |
+- emberről emberre való terjedés,
 
-|  | 2.1.2. Feltételek |
+- környezeti expozíció,
 
-|  | Klinikai kritérium | Az alábbi tünetek legalább egyike: - hasmenés (enyhe krónikus formától a súlyos vérhas jellegűig), - bizonytalan hasi fájdalom, - tenesmus. |
+- közös expozíció.
 
-|  | Epidemiológiai kritérium | Az alábbi epidemiológiai kapcsolatok legalább egyike: - trópusi területen történt tartózkodás, - szennyezet (fekáliával szennyezett) élelmiszer/ivóvíz fogyasztása, - szennyezett, zsúfolt környezet, az alapvető higiénés feltételek hiánya, - a beteg/kórokozó-hordozó személlyel történt kapcsolat. |
+Laboratóriumi kritérium
 
-|  | Laboratóriumi kritérium | Intestinalis amoebiasis - Az E. histolytica ciszták vagy trofozoiták izolálása székletből vagy - az E. histolytica trofozoiták izolálása biopsziás, vagy fekélyből vett szövetmintából, - az E. histolytica trofozoiták izolálása a fogyasztott élelmiszerből. Extraintestinalis amoebiasis - Az E. histolytica ciszták izolálása extraintestinalis szövetmintából. (Szeropozitivitás csak hosszú ideje fennálló, extraintestinális fertőzésre jellemző.) |
+Campylobacter spp. izolálása és azonosítása székletből vagy vérből.
 
-| 2.2. Elkülönítés: | Csak a heveny bél-amoebiasisban szenvedő beteget kell a klinikai gyógyulásig elkülöníteni kórházban, vagy otthon. Az elkülönítés addig tart, amíg a felszabadító székletvizsgálat 2 egymást követő napon negatív eredményeket nem ad. Ha a széklet vizsgálata a gyógyulás utáni 8. napon még mindig pozitív, az elkülönítés feloldható, de a gyógyultat járványügyi ellenőrzés alá kell helyezni, míg székletének ismételt vizsgálata nem ad egymás után következő napokon kétszer negatív eredményt. A járványügyi ellenőrzés alá vont személyt el kell tiltani 0–6 éves gyermekközösségek látogatásától, ilyen közösségekben/intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkaköröktől, közfogyasztásra kerülő élelmiszerek és italok kezelésétől, a közétkeztetésben, vízművekben való tevékenységtől, anyatej adásától, anyatejgyűjtő állomásokon való foglalkozástól, a közvetlen betegellátás során betegélelmezésben való részvételtől és a szájon át adott gyógyszerek kezelésétől. |
+Lehetőség szerint el kell végezni a Campylobacter spp. tipizálását.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+2.2. Elkülönítés:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A székletet a járványügyi feladatok ellátására kijelölt parazitológiai laboratóriumba kell beküldeni. Szöveti amoebiasis gyanúja esetén szerológiai vizsgálatra alvadásgátló nélkül, sterilen vett vérmintát lehet az ÁNTSZ-OEK Parazitológiai osztályára küldeni. |
+Kötelező, a beteg otthonában, tartózkodási helyén elkülönítendő.
 
-|  | 2.3.3.Felszabadító vizsgálat: | A klinikai gyógyulás és az antibiotikus kezelés befejezése után 48 óra múlva elkezdett, 2 egymást követő napon vett székletmintát kell a járványügyi feladat végzésére kijelölt, területileg illetékes parazitológiai laboratóriumba beküldeni. |
+2.3. Mikrobiológiai vizsgálat:
 
-| 2.4. Járványügyi ellenőrzés: | Ha a széklet vizsgálata a gyógyulás utáni 8. napon még mindig pozitív, az elkülönítés feloldható, de a gyógyultat járványügyi ellenőrzés alá kell helyezni, míg székletének ismételt vizsgálata nem ad egymás után következő napokon kétszer negatív eredményt. A járványügyi ellenőrzés alá vont személyt el kell tiltani 0–6 éves gyermekközösségek látogatásától, ilyen közösségekben/intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkaköröktől, közfogyasztásra kerülő élelmiszerek és italok kezelésétől, a közétkeztetésben, vízművekben való tevékenységtől, anyatej adásától, anyatejgyűjtő állomásokon való foglalkozástól, a közvetlen betegellátás során betegélelmezésben való részvételtől és a szájon át adott gyógyszerek kezelésétől. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 2.5. Fertőtlenítés: | Folyamatos és zárófertőtlenítés szükséges. |
+Kötelező. Sporadikus esetben bármely klinikai mikrobiológiai laboratóriumban elvégezhető a Campylobacter spp. izolálása székletből vagy vérből.
 
-| 3. Teendők a beteg környezetében |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező. |
+Kötelező. Járvány gyanúja esetén az addig nem vizsgált betegeknek már az első diagnosztikus vizsgálatát is a járványügyi feladatok ellátására kijelölt laboratóriumban kell végezni, ugyanitt történik a Campylobacter spp. azonosítása.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A beteggel szoros otthoni környezetben élők székletének laboratóriumi vizsgálatát el kell végezni a cystaürítés felderítése érdekében. |
+2.3.3. Felszabadító vizsgálat:
 
-| 3.3. Járványügyi megfigyelés: | A beteggel epidemiológiai kapcsolatban lévő személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett azon személyeket, akik a 2.4. pontban megjelölt közösségekbe, intézménybe járnak, illetve munkakört, tevékenységet folytatnak, a közösség, intézmény látogatásától, illetve munkakörüktől, tevékenységüktől el kell tiltani. A közösség, intézmény látogatását, illetve munkakörüket, tevékenységüket abban az esetben folytathatják, ha a megfigyelési idő 4. napja után egy alkalommal vett székletminta vizsgálata negatív eredményt adott. A szűrővizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni. A fenti közösségek/intézmények látogatását, illetve munkakörüket/tevékenységüket csak akkor folytathatják, ha székletvizsgálat eredménye negatívvá válik. |
+A klinikai gyógyulást követően székletbakteriológiai felszabadító vizsgálatot kizárólag azon személyeknél kell elvégezni, akik 0-3 éves gyermekek közösségébe járnak, vagy akik anyatejet adnak. Az ilyen személyek a közösség, intézmény látogatását, illetve tevékenységüket csak akkor folytathatják, ha a gyógyulás (szükség esetén az antibiotikus kezelés) után két nap múlva elkezdett, két egymást követő napon levett egy-egy székletminta bakteriológiai vizsgálata negatív eredménnyel jár. Ha ezen vizsgálatok során bármelyik (vagy mindkét) minta pozitív eredményt ad, a közösség, intézmény látogatását, illetve tevékenységüket akkor folytathatják, ha székletbakteriológiai vizsgálatuk egy alkalommal negatív eredményt ad.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+2.4. Fertőtlenítés:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. A beteggel epidemiológiai kapcsolatban lévő személyeket (pl. azonos háztartásban élők, szexuális partner, stb.) ki kell kérdezni. |
+A beteg, illetve a betegségre gyanús személy környezetében folyamatos fertőtlenítést kell végezni.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. Ha a terjesztő közeg közfogyasztásra szánt élelmiszer vagy víz, az illetékes hatóságot értesíteni kell a szükséges intézkedések megtétele érdekében. |
+3. Teendők a beteg környezetében
 
-| Dysenteria - Shigellosis |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| Vérhas, bakteriális dysenteria, BNO10: A03 |
+Kötelező.
 
-| 1. Kórokozó: | A Shigella genus A-D alcsoportokba sorolt tagjai. Leggyakrabban a Shigella sonnei (D alcsoport) és a Shigella flexneri (B alcsoport), ritkán a Shigella dysenteriae és a Shigella boydii. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 2. Teendők a beteggel |
+Szennyezett élelmiszer vagy víz által történő terjedés gyanúja esetén kötelező, az azonos, feltételezhetően a kórokozót terjesztő ételt fogyasztók (10-nél több személy esetén 20%-uk, de legalább 10 fő) szűrővizsgálatát el kell végezni.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+3.3. Járványügyi megfigyelés:
 
-|  | 2.1.1. Esetek osztályozása |
+A beteg családi vagy intézeti környezetében élő személyeket az utolsó érintkezéstől számított 5 napi időtartamra járványügyi megfigyelés alá kell helyezni. A beteg családi környezetében élő 0-3 éves gyermekeket, illetve az anyatejet adókat megfigyelésük időtartamára el kell tiltani a közösség látogatásától, illetve anyatejet adó tevékenységüktől, amíg egy székletmintájuk bakteriológiai vizsgálata negatív eredménnyel jár.
 
-|  | Gyanús eset | Teljesül a klinikai feltétel. |
+3.4. Postexpozíciós profilaxis:
 
-|  | Valószínűsíthető eset | Teljesül a klinikai és epidemiológiai feltétel. |
+Nem szükséges.
 
-|  | Megerősített eset | Teljesül a klinikai és laboratóriumi feltétel. |
+3.5. Fertőzőforrás-kutatás:
 
-|  | 2.1.2. Feltételek |
+Kötelező.
 
-|  | Klinikai kritérium | Az alábbi tünetek legalább egyike: - hasmenés (gyakori híg, nyákos, esetleg gennyes, véres széklet), - láz, - hányás, - hasi fájdalom, - görcsös székelési inger (tenezmus). |
+3.6. A terjesztő közeg felderítése:
 
-|  | Epidemiológiai kritérium | Az alábbi epidemiológiai kapcsolatok legalább egyike: - érintkezés fertőzött emberrel, - kontaminált élelmiszer, illetve ivóvíz fogyasztása, - fürdés szennyezett vízben. |
+Kötelező.
 
-|  | Laboratóriumi kritérium | A Shigella faj izolálása székletből. (El kell végezni a Shigella alcsoport-meghatározást.) |
+Creutzfeldt-Jakob betegség (CJB)
 
-| 2.2. Elkülönítés: | Otthonában, tartózkodási helyén, de ha a lefolyás súlyos, szövődményes, akkor kórházi fertőző osztályra kell szállítani. Az elkülönítés addig tart, amíg a klinikai gyógyulás és az antibiotikus kezelés befejezése után 48 óra múlva elkezdett bakteriológiai székletvizsgálat 2 egymást követő napon negatív eredményt nem ad. Ha a széklet vizsgálata a gyógyulás utáni 8. napon még mindig pozitív, az elkülönítés feloldható, de a gyógyultat járványügyi ellenőrzés alá kell helyezni, míg székletének ismételt bakteriológiai vizsgálata nem ad egymás után következő napokon kétszer negatív eredményt. A járványügyi ellenőrzés alá vont személyt el kell tiltani 0–6 éves gyermekközösségek látogatásától, ilyen közösségekben/intézményekben a gyermekek ellátásával kapcsolatos veszélyeztető munkaköröktől, közfogyasztásra kerülő élelmiszerek és italok kezelésétől; a közétkeztetésben, vízművekben való munkától, anyatej adásától, anyatejgyűjtő állomásokon való foglalkozástól; a közvetlen betegellátás során betegélelmezésben való részvételtől és a szájon át adott gyógyszerek kezelésétől. |
+Subacut spongiform agyvelőbántalom, BNO10: A81.0
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+1. Kórokozó:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A székletmintákat a betegség kezdetén az antibiotikus kezelés előtt kell venni, és a megbetegedés helye szerint illetékes járványügyi feladat ellátására kijelölt bakteriológiai laboratóriumba kell küldeni. |
+Egy kóros fehérje (prion), mely egy, az egészséges szervezetben főként az idegrendszerben megtalálható celluláris fehérje (ún. prion protein - PrP) kóros, izoform változata. Az ágens saját nukleinsavat nem tartalmaz.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Kötelező, a klinikai gyógyulás után, vagy az antibiotikus kezelés befejezését követő 48 óra múlva kell megkezdeni. |
+2. Teendők a beteggel
 
-| 2.4.Fertőtlenítés: | Folyamatos és zárófertőtlenítés szükséges. |
+2.1. Jelentés:
 
-| 3. Teendők a beteg környezetében |
+Bejelentésre kötelezett a halálos kimenetelű gyanús vagy a valószínűsíthető vagy a megerősített eset.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A beteggel kapcsolatban lévőket ki kell kérdezni, járványügyi vizsgálatot kell végezni. |
+2.1.1. Esetek osztályozása
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A kontakt személyek és az azonos ételt fogyasztók szűrővizsgálatát el kell végezni. |
+Gyanús eset
 
-| 3.3. Járványügyi megfigyelés: | A beteggel közvetlenül érintkezett személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett azon személyeket, akik a 2.2. pontban megjelölt közösségekbe/intézménybe járnak, illetve munkakört/tevékenységet folytatnak, a közösség/intézmény látogatásától, illetve munkakörüktől/tevékenységüktől el kell tiltani. A közösség/intézmény látogatását, illetve munkakörüket/tevékenységüket abban az esetben folytathatják, ha a megfigyelési idő 4. napja után egy alkalommal vett székletminta bakteriológiai vizsgálata negatív eredményt adott. A szűrővizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni. A fenti közösségek/intézmények látogatását, illetve munkakörüket/tevékenységüket csak akkor folytathatják, ha a székletbakteriológiai vizsgálat eredménye negatívvá válik. Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0–6 éves korig) 7 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek és dolgozó székletvizsgálatát. A baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad. Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát, a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, a dolgozókat ki kell tiltani, amíg a székletvizsgálatok negatív eredményt nem adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell és a beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor a shigellosisban szenvedő beteggel utoljára érintkezett. Erről a járási hivatalt is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni. |
+Két évnél rövidebb ideje fennálló, gyorsan progrediáló demencia, és emellett a II. csoportba tartozó klinikai tünetek közül legalább kettő megfigyelhető.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Valószínűsíthető eset
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+- Két évnél rövidebb ideje fennálló, gyorsan progrediáló demencia, és emellett a II. csoportba tartozó klinikai tünetek közül legalább kettő megfigyelhető és tipikus EEG,
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+- két évnél rövidebb ideje fennálló, gyorsan progrediáló demencia, és emellett a II. csoportba tartozó klinikai tünetek közül legalább kettő megfigyelhető és mágneses rezonancia vizsgálattal magas jelintenzitás észlelhető a caudatusban/putamenben, vagy
 
-| Echinococcosis |
+- két évnél rövidebb ideje fennálló, gyorsan progrediáló demencia, és emellett a II. csoportba tartozó klinikai tünetek közül legalább kettő megfigyelhető és pozitív a 14-3-3 fehérje vizsgálat.
 
-| BNO10: B67 |
+Megerősített eset
 
-| 1. Kórokozó: | Echinococcus granulosus (lárvája az Echinococcus hydatidosus); Echinococcus multilocularis (lárvája az Echinococcus alveolaris). |
+Teljesülnek a megerősített eset diagnosztikai feltételei, beleértve a laboratóriumi kritériumokat.
 
-| 2. Teendők a beteggel |
+2.1.2. Feltételek
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. Értesítendő a fertőzés helye szerint illetékes hatósági állatorvos. |
+Klinikai kritérium
 
-|  | 2.1.1. Esetek osztályozása |
+I. Gyorsan progrediáló demencia.
 
-|  | Gyanús eset | --- |
+II. - Myoclonus
 
-|  | Valószínűsíthető eset | --- |
+- kisagyi tünetek/látászavar,
 
-|  | Megerősített eset | Teljesülnek a laboratóriumi feltételek. |
+- piramidális/extrapiramidális tünetek,
 
-|  | 2.1.2. Feltételek |
+- akinetikus mutismus.
 
-|  | Klinikai kritérium | --- |
+III. Típusos EEG.
 
-|  | Epidemiológiai kritérium | --- |
+IV. Mágneses rezonancia vizsgálattal magas jelintenzitás észlelhető a caudatusban/putamenben.
 
-|  | Laboratóriumi kritérium | Az alábbi öt feltétel legalább egyike: - az Echinococcus multilocularisnak vagy E. granulosusnak megfelelő hisztopatológiai kép vagy a parazitára specifikus képlet jelenlétének kimutatása (pl. a protoscolex közvetlen képi megjelenítése cisztafolyadékban), - Echinoccocus granulosus ciszták patognomikus makroszkópos morfológiájának kimutatása sebészeti mintákban, - képalkotó eljárásokkal (pl. CT, ultrahang, MRI) kimutatott és szerológiai vizsgálattal igazolt tipikus szervi elváltozások, - Echinococcus spp.-val szembeni specifikus szérum antitestek nagy szenzitivitású szerológiai vizsgálattal kimutatva, és nagy specificitású szerológiai vizsgálattal megerősítve, - az Echinococcus spp. nukleinsav kimutatása klinikai mintában. |
+Epidemiológiai kritérium
 
-| 2.2. Elkülönítés: | Nem szükséges. |
+-
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Laboratóriumi kritérium
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Beküldendő alvadásgátló nélkül, sterilen vett vérminta, illetve az echinococcosis közvetlen kimutatására a műtétileg eltávolított tömlő vagy annak bennéke a járványügyi feladat ellátására kijelölt mikrobiológiai laboratóriumba. Pozitív eredmény esetén a minta megerősítő vizsgálatra az ÁNTSZ-OEK Parazitológiai osztályára küldendő. |
+Pozitív eredményű neuropatológiai vagy immunhisztokémiai vizsgálat.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+2.2. Elkülönítés:
 
-| 2.4. Fertőtlenítés: | Nem szükséges. |
+Nem szükséges.
 
-| 3. Teendők a beteg környezetében |
+2.3. Mikrobiológiai vizsgálat:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+Kötelező, a referencia laboratóriumokban történik.
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Kötelező. A biztos diagnózist csak post mortem, az agyszövet vizsgálata alapján lehet megállapítani. A kórbonctani és kórszövettani vizsgálat kötelező. A boncolás során eltávolított agyat a Semmelweis Egyetem Neuropathológiai és Prionbetegség Referencia Központjába kell küldeni. A mintákból a kóros prion protein immunhisztokémiai vagy Western blot technikával mutatható ki.
 
-| 3.5. Fertőzőforrás-kutatás: | Nem szükséges. |
+Egyéb vizsgálatok: A liquor 14-3-3 fehérje vizsgálata, amely valószínűsítheti az élő, feltételezett beteg személynél a CJB diagnózisát, továbbá a prion protein gén vizsgálata a Semmelweis Egyetem Neuropathológiai és Prionbetegség Referencia Központjával történt egyeztetést követően elvégezhető. Prion protein genetikai vizsgálatok végzésére vonatkozóan a szakmai kollégium ajánlása szerint kell eljárni.
 
-| 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
+2.3.3. Felszabadító vizsgálat:
 
-| Clostridium difficile által okozott, egészségügyi ellátással összefüggő fertőzés |
+Nem szükséges.
 
-| 1. Kórokozó: | Clostridium difficile toxintermelő törzsei. |
+3. Teendők a beteg környezetében
 
-| 2. Teendők a beteggel |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+Nem szükséges.
 
-|  | 2.1.1. Esetek osztályozása |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-|  | Gyanús eset | --- |
+A rendelkezésre álló adatok a megbetegedés familiáris, örökletes jellegét támasztják alá, a genetikai vizsgálatok végzésére vonatkozóan a szakmai kollégium ajánlása szerint kell eljárni. Ha megerősített CJB esetben patogén mutációt igazolnak, vagy a családban több esetben fordult elő megerősített CJB eset, akkor genetikai CJB esete áll fenn.
 
-|  | Valószínűsíthető eset | --- |
+3.3. Járványügyi megfigyelés:
 
-|  | Megerősített eset | Clostridium difficile által okozott, egészségügyi ellátással összefüggő fertőzés az ÁNTSZ-OEK, valamint a szakmai kollégium Infektológia tagozata és Orvosi laboratórium tagozata által a clostridium difficile fetőzések diagnosztikájáról, terápiájáról és megelőzéséről szóló módszertani levélben megadott esetdefiníció alapján jelentendő. |
+Nem szükséges.
 
-|  | 2.1.2. Feltételek |
+3.4. Postexpozíciós profilaxis:
 
-|  | Klinikai kritérium |  |
+-
 
-|  | Epidemiológiai kritérium |  |
+3.5. Fertőzőforrás-kutatás:
 
-|  | Laboratóriumi kritérium |  |
+Iatrogén expozíció gyanúja esetén a forrás felkutatása szükséges.
 
-| 2.2. Elkülönítés: | A tünetes ápoltak elkülönítése. Az elkülönítés során a standard és kontakt izoláció szabályai követendők. |
+3.6. A terjesztő közeg felderítése:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Kötelező, az expozíciótól függően.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A hasmenéses beteg székletmintájából a direkt toxinkimutatást és C. difficile irányában történő tenyésztést lehetőség szerint egyidejűleg kell elvégezni. Az antibiotikum-érzékenység meghatározása szükséges lehet. Halmozott előfordulás esetén a törzseket a referencia-laboratóriumba kell beküldeni. |
+Variáns Creutzfeldt-Jakob betegség (vCJB)
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+1. Kórokozó:
 
-| 2.4. Fertőtlenítés: | A fertőzött beteg környezetében folyamatos és zárófertőtlenítést kell végezni sporocid hatásspekrumú fertőtlenítőszerrel. |
+BSE (bovine spongiform encephalopathy: szarvasmarhák prionbetegsége) prion.
 
-| 3. Teendők a beteg környezetében |
+2. Teendők a beteggel
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező. |
+2.1. Jelentés:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
 
-| 3.3. Járványügyi megfigyelés: | Azon személyek járványügyi megfigyelése szükséges, akik kontaktusba kerültek a beteggel. |
+2.1.1. Esetek osztályozása
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Gyanús eset
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+Teljesülnek az előfeltételek és a klinikai feltételek, és a sporadikus CJB-re jellemző EEG negatív. (A Creutzfeldt-Jakob betegség sporadikus változatának típusos megjelenése az EEG-n generalizált, periodikusan megjelenő komplexeket mutat, másodpercenként körülbelül egyet. Ezek a Creutzfeldt-Jakob betegség variánsának későbbi stádiumaiban időnként láthatók.)
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+Valószínűsíthető eset
 
-| Multirezisztens kórokozók által okozott, egészségügyi ellátással összefüggő fertőzések |
+Minden olyan személy, akire teljesülnek a gyanús eset feltételei és pozitív eredményű az agy MRI vizsgálata
 
-| 1. Kórokozó: | Az ÁNTSZ-OEK által kiadott vonatkozó módszertani levélben megadottak szerint. |
+vagy
 
-| 2. Teendők a beteggel |
+teljesülnek az előfeltételek és pozitív eredményű a tonsilla-biopszia.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+Megerősített eset
 
-|  | 2.1.1. Esetek osztályozása |
+Teljesülnek az előfeltételek és a megerősített esethez szükséges diagnosztikai kritériumok.
 
-|  | Gyanús eset | --- |
+2.1.2. Feltételek
 
-|  | Valószínűsíthető eset | --- |
+Előfeltételek:
 
-|  | Megerősített eset | Multirezisztens kórokozó által okozott, egészségügyi ellátással összefüggő fertőzés az ÁNTSZ-OEK által kiadott módszertani levélben megadott esetdefiníció alapján jelentendő. |
+- Minden olyan személy, aki legalább hat hónapja progresszív neuropszichiátriai rendellenességben szenved.
 
-|  | 2.1.2.Feltételek |
+- A rutin vizsgálatok nem utalnak más diagnózisra.
 
-|  | Klinikai kritérium |  |
+- Nincs kórtörténeti előzmény hipofízishormonokkal vagy emberi agyvelővel/agyszövettel való érintkezésre. (Iatrogén expozíció: lásd CJB 2.1. pont.)
 
-|  | Epidemiológiai kritérium |  |
+- Nincs bizonyíték a fertőző szivacsos agyvelőbántalom genetikai formájára.
 
-|  | Laboratóriumi kritérium |  |
+Klinikai kritérium
 
-| 2.2. Elkülönítés: | A kórokozónak, illetve kórformának megfelelően szükséges a fertőzött és kolonizált ápoltak elkülönítése. Az elkülönítés során a standard és kontakt izoláció szabályai követendők. |
+Minden olyan személy, akinél jelentkezik az alábbi öt tünet közül legalább négy:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Sporadikus esetben bármely klinikai mikrobiológiai laboratóriumban elvégezhető. |
+- korai pszichiátriai tünetek (depresszió, szorongás, apátia, visszahúzódás, téveszmék),
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Diagnosztikus vizsgálat során kötelező a kórokozó kitenyésztése, antibiotikum érzékenység és species szintű biokémiai tulajdonságok meghatározása. Halmozott előfordulás esetén a törzseket referencia-laboratóriumba kell küldeni. |
+- tartós fájdalmas szenzoros tünetek (beletartozik a valódi fájdalom, illetve érzészavar),
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+- a végtagok mozgási zavara (ataxia),
 
-| 2.4.Fertőtlenítés: | A fertőzött/kolonizált beteg környezetében megelőző (folyamatos) és zárófertőtlenítést kell végezni. |
+- Myoclonus (chorea) vagy az izomtónus rendellenessége,
 
-| 3. Teendők a beteg környezetében |
+- elbutulás (demencia).
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Az ÁNTSZ-OEK módszertani levélben meghatározottak szerint a kórokozónak megfelelően. |
+Epidemiológiai kritérium
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A fertőzöttek és kolonizáltak szűrését az ÁNTSZ-OEK módszertani levélben meghatározottak szerint a kórokozónak, illetve kórformának megfelelően kell végezni. |
+BSE prionnal fertőzött szarvasmarhával való kapcsolat, vagy BSE prionnal fertőzött emberről emberre való terjedés (pl. vérátömlesztés).
 
-| 3.3. Járványügyi megfigyelés: | Azon személyek járványügyi megfigyelése szükséges, akik a beteggel kontaktusba kerültek ÁNTSZ-OEK módszertani levélben meghatározottak szerint, a kórokozónak és kórformáknak megfelelően. |
+Laboratóriumi kritérium
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+A megerősített eset diagnosztikus kritériumai:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+Neuropatológiai megerősítés: szivacsszerű elváltozás és extenzív prionfehérje felhalmozódás feltűnő lerakódásokkal a cerebrumban és a cerebellumban.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+A valószínűsíthető vagy a gyanús eset diagnosztikai kritériumai:
 
-| Egészségügyi ellátással összefüggő véráramfertőzés |
+- Az EEG a betegség korai stádiumában nem mutatja ki a sporadikus CJB tipikus megjelenését (a Creutzfeldt-Jakob betegség sporadikus változatának tipikus megjelenése az EEG-n generalizált, periodikusan megjelenő komplexeket mutat, másodpercenként körülbelül egyet; ezek a Creutzfeldt-Jakob betegség variánsának későbbi stádiumaiban időnként láthatók),
 
-| 1. Kórokozó: | A véráramfertőzések során a leggyakrabban izolált kórokozók: koaguláz-negatív staphylococcusok, Staphylococcus aureus, Enterococcus spp., Escherichia coli, Pseudomonas aeruginosa, Enterobacter spp, Klebsiella pneumoniae, Candida spp stb. |
+- az agy MRI vizsgálata a köztiagy/thalamus magjában (pulvinar) mindkét oldalon erős jelet mutat,
 
-| 2. Teendők a beteggel |
+- pozitív eredményű tonsilla-biopszia (a tonsilla-biopszia nem javasolt rutineljárásként az olyan esetben, amikor az EEG-n a sporadikus Creutzfeldt-Jakob betegségre típusos jelet mutat, ugyanakkor hasznos lehet olyan gyanús esetekben, amikor a klinikai jellemzők a Creutzfeldt-Jakob betegség variánsára utalnak, és az MRI nem mutat pulvináris jelet).
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+2.2. Elkülönítés:
 
-|  | 2.1.1. Esetek osztályozása |
+Nem szükséges.
 
-|  | Gyanús eset | --- |
+2.3. Mikrobiológiai vizsgálat:
 
-|  | Valószínűsíthető eset | --- |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Megerősített eset | Egészségügyi ellátással összefüggő véráramfertőzés az ÁNTSZ-OEK által kiadott vonatkozó Módszertani levélben megadott esetdefiníció alapján jelentendő. |
+Kötelező, a referencia laboratóriumokban történik.
 
-|  | 2.1.2. Feltételek |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Klinikai kritérium | Véráramfertőzés (szepszis) a szervezetben infekció hatására kialakuló szisztémás válaszreakció, megjelenési formájában megfelel a „szisztémás gyulladásos válasz szindrómának” (Systemic Inflammatory Response Syndrome, SIRS), amelynek fő tünetei a 38 °C fok feletti vagy 36 °C fok alatti testhőmérséklet, 80/perc vagy a feletti pulzusszám, 20/perc vagy a feletti légzésszám, 12000/mm3 feletti vagy 4000/mm3 alatti fehérvérsejt-szám. |
+Kötelező. A biztos diagnózist csak post mortem, az agyszövet vizsgálata alapján lehet megállapítani. A kórbonctani és kórszövettani vizsgálat kötelező. A boncolás során eltávolított agyat a Semmelweis Egyetem Neuropathológiai és Prionbetegség Referencia Központjába kell küldeni. A mintákból a kóros prion protein immunhisztokémiai vagy Western blot technikával mutatható ki. Élő szervezetben a prion jelenléte nem igazolható, kivéve a vCJB eseteket, ahol a tonsillákból meg lehet kísérelni a kórokozó kimutatását.
 
-|  | Epidemiológiai kritérium |  |
+Egyéb vizsgálatok: A liquor 14-3-3 fehérje vizsgálata, amely valószínűsítheti az élő, feltételezett beteg személynél a CJB diagnózisát.
 
-|  | Laboratóriumi kritérium |  |
+2.3.3. Felszabadító vizsgálat:
 
-| 2.2. Elkülönítés: | A beteget általában nem szükséges elkülöníteni, a standard izoláció szabályait kell betartani. Multirezisztens kórokozók (pl. MRSA, VRE, ESBL-termelő Gram-negatív baktériumok) esetén indokolt/szükséges a beteg elkülönítése a kontakt izoláció szabályai szerint. |
+Nem szükséges.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Sporadikus esetben bármely klinikai mikrobiológiai laboratóriumban elvégezhető. |
+3. Teendők a beteg környezetében
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Diagnosztikus vizsgálatra a haemokultúrát egy lázas periódusban, három alkalommal különböző testtájról kell venni. A centrális vénás katéterrel összefüggő véráramfertőzés esetén két helyről: a katéteren keresztül a centrális vénából, és ezzel egy időben valamelyik perifériás vénából kell a vért levenni. Halmozott előfordulás esetén a törzseket a kórokozónak megfelelő referencia laboratóriumba kell küldeni. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Nem szükséges.
 
-| 2.4. Fertőtlenítés: | A beteg vérével, testváladékaival szennyezett eszközöket, tárgyakat fertőtleníteni/sterilizálni kell. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 3. Teendők a beteg környezetében |
+Genetikai vizsgálatot lehet elvégezni az örökletes forma kizárása végett. Ennek elvégzésére vonatkozóan a szakmai kollégium ajánlása szerint kell eljárni.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+3.3. Járványügyi megfigyelés:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Nem szükséges.
 
-| 3.3. Járványügyi megfigyelés: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+3.4. Postexpozíciós profilaxis:
 
-| 3.4. Postexpozíciós profilaxis: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+-
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező halmozott /járványos előfordulás vagy annak gyanúja esetén. |
+3.5. Fertőzőforrás-kutatás:
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező, halmozott /járványos előfordulás vagy annak gyanúja esetén. |
+-
 
-| Intenzív terápiás ellátással összefüggő fertőzések |
+3.6. A terjesztő közeg felderítése:
 
-| 1. Kórokozó: | Leggyakrabban izolált kórokozók véráramfertőzésben: koaguláz-negatív Staphylococcusok, Staphylococcus aureus, Enterococcus spp., Escherichia coli, Pseudomonas aeruginosa, Enterobacter spp, Klebsiella pneumoniae, Candida spp stb.; pneumóniában Streptococcus pneumoniae, Haemophylus influenzae, K. pnmeumoniae, Serratia marcescens, P. aeruginosa, Acinetobacter spp. stb., húgyúti fertőzésben E.coli, Proteus spp, Enterobacter spp., P. aeruginosa, Klebsiella spp, S.aureus. |
+Kötelező, az expozíciótól függően.
 
-| 2. Teendők a beteggel |
+Chikungunya-láz
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+BNO10: A9200, A9210
 
-|  | 2.1.1. Esetek osztályozása |
+1. Kórokozó:
 
-|  | Gyanús eset | --- |
+A Togaviridae család Alphavírus nemzetségéhez tartozó, arbovírusok közé sorolt Chikungunya-vírus.
 
-|  | Valószínűsíthető eset | --- |
+2. Teendők a beteggel
 
-|  | Megerősített eset | Az ÁNTSZ-OEK által kiadott vonatkozó módszertani levélben megadott esetdefiníció alapján jelentendő. |
+2.1. Jelentés:
 
-|  | 2.1.2. Feltételek |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
 
-|  | Klinikai kritérium | Az adott kórokozóra és infekcióra jellemző tünetek. Az infekciók leggyakrabban az egészségügyi ellátással összefüggő véráramfertőzések, pneumóniák és húgyúti fertőzések. |
+2.1.1. Esetek osztályozása
 
-|  | Epidemiológiai kritérium |  |
+Gyanús eset
 
-|  | Laboratóriumi kritérium |  |
+-
 
-| 2.2. Elkülönítés: | A beteget általában nem szükséges elkülöníteni, a standard izoláció szabályait kell betartani. Multirezisztens kórokozók (pl. MRSA, VRE, ESBL-termelő Gram-negatív baktériumok) esetén indokolt/szükséges a beteg elkülönítése a kontakt izoláció szabályai szerint. |
+Valószínűsíthető eset
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Sporadikus esetben bármely klinikai mikrobiológiai laboratóriumban elvégezhető. |
+Teljesül a klinikai és az epidemiológiai feltétel.
 
-|  | 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Az adott fertőzés típusának megfelelő diagnosztikus vizsgálat szükséges. Halmozott előfordulás esetén a törzseket a kórokozónak megfelelő referencia laboratóriumba kell küldeni. |
+Megerősített eset
 
-|  | 2.3.3. Felszabadító vizsgálat: | Nem szükséges. |
+Teljesül a laboratóriumi feltételek egyike, függetlenül a klinikai feltételtől.
 
-| 2.4. Fertőtlenítés: | A beteg vérével, testváladékaival szennyezett eszközöket, tárgyakat fertőtleníteni/sterilizálni kell. |
+2.1.2. Feltételek
 
-| 3. Teendők a beteg környezetében |
+Klinikai kritérium
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Hirtelen fellépő, 38,5°C-nál magasabb láz, és más oknak nem tulajdonítható, súlyos arthralgia/arthritis.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Epidemiológiai kritérium
 
-| 3.3. Járványügyi megfigyelés: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Vektor által történő terjedés – Endémiás területen történt tartózkodás, ahol a tünetek kezdetét megelőző 15 napban a vírus terjedését észlelték.
 
-| 3.4. Postexpozíciós profilaxis: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Emberről emberre történő terjedés fertőzött vér, szövet, szerv adományozása révén.
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+Laboratóriumi kritérium
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+Az akut szakaszban az alábbiak közül legalább egy:
 
-| Műtéti sebfertőzés |
+- vírusizolálás,
 
-| 1. Kórokozó: | A műtéti sebből izolált kórokozók. Leggyakrabban Staphylococcus aureus, egyéb Staphylococcusok, Streptococcus pyogenes, stb. |
+- a vírusnukleinsav kimutatása PCR-vizsgálattal,
 
-| 2. Teendők a beteggel |
+- IgM osztályba tartozó specifikus ellenanyagok kimutatása az akut vagy a convalescens szakból származó egyetlen vérmintából,
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+- a vírus-specifikus ellenanyagok szerokonverziója három hét eltéréssel vett vérmintákban.
 
-|  | 2.1.1. Esetek osztályozása |
+2.2. Elkülönítés:
 
-|  | Gyanús eset | --- |
+Nem szükséges.
 
-|  | Valószínűsíthető eset | --- |
+2.3. Mikrobiológiai vizsgálat:
 
-|  | Megerősített eset | A bejelentés az ÁNTSZ-OEK által kiadott vonatkozó módszertani levélben megadott esetdefiníció alapján jelentendő. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-|  | 2.1.2. Feltételek |
+Kötelező.
 
-|  | Klinikai kritérium | Az adott kórokozóra és infekcióra jellemző tünetek. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Epidemiológiai kritérium |  |
+Kötelező. A betegség gyanúja esetén beküldendő három hét különbséggel vett savópár az OEK referencia laboratóriumába.
 
-|  | Laboratóriumi kritérium |  |
+2.3.3. Felszabadító vizsgálat:
 
-| 2.2. Elkülönítés: | A beteget általában nem szükséges elkülöníteni, a standard izoláció szabályait kell betartani. Multirezisztens kórokozók (pl. MRSA, VRE, ESBL-termelő Gram-negatív baktériumok) esetén indokolt/szükséges a beteg elkülönítése a kontakt izoláció szabályai szerint. |
+Nem szükséges.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Sporadikus esetben bármely klinikai mikrobiológiai laboratóriumban elvégezhető. |
+2.4. Fertőtlenítés:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Az adott fertőzés típusának megfelelő diagnosztikus vizsgálat szükséges. Halmozott előfordulás esetén a törzseket a kórokozónak megfelelő referencia laboratóriumba kell küldeni. |
+Nem szükséges.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+3. Teendők a beteg környezetében
 
-| 2.4. Fertőtlenítés: | A beteg testváladékaival szennyezett eszközöket, tárgyakat fertőtleníteni/sterilizálni kell. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| 3. Teendők a beteg környezetében |
+Nem szükséges.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Nem szükséges.
 
-| 3.3. Járványügyi megfigyelés: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+3.3. Járványügyi megfigyelés:
 
-| 3.4. Postexpozíciós profilaxis: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Nem szükséges.
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+3.4. Postexpozíciós profilaxis:
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+Nem szükséges.
 
-| Művesekezeléssel összefüggő fertőzések |
+3.5. Fertőzőforrás-kutatás:
 
-| 1. Kórokozó: | Leggyakrabban izolált kórokozók: koaguláz-negatív staphylococcusok, Staphylococcus aureus, Enterococcus spp., Escherichia coli, Pseudomonas aeruginosa, Enterobacter spp, Klebsiella pneumoniae, Candida spp stb. Műveseállomásokon fennáll a Hepatitis B és C vírus, Humán immundeficiencia virus (HIV) terjedésének kockázata is. |
+Kötelező, ha a beteg a lappangási időben nem járt endémiás területen (a vírus természetes módon történő hazai terjedésének gyanúja esetén), vagy vér-, szövet-, illetve szervdonáció révén történő fertőződésének lehetősége merült fel.
 
-| 2. Teendők a beteggel |
+3.6. A terjesztő közeg felderítése:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+Vér-, szövet- vagy szervdonáció révén történt fertőződés gyanúja esetén a donáció azonosítása kötelező.
 
-|  | 2.1.1. Esetek osztályozása |
+3.7. Egyéb intézkedések:
 
-|  | Gyanús eset | --- |
+Vér-, szövet- vagy szervdonáció révén történt fertőződés gyanúja esetén értesítendő az érintett egészségügyi intézmény.
 
-|  | Valószínűsíthető eset | --- |
+Cholera
 
-|  | Megerősített eset | A művesekezeléssel összefüggő fertőzések az ÁNTSZ-OEK által kiadott vonatkozó módszertani levélben megadott esetdefiníció alapján. Lásd még egészségügyi ellátással összefüggő véráramfertőzés. |
+BNO10: A00
 
-|  | 2.1.2. Feltételek |
+1. Kórokozó:
 
-|  | Klinikai kritérium | Az adott kórokozóra és infekcióra jellemző tünetek. |
+Vibrio cholerae O1, valamint a Vibrio cholerae O139.
 
-|  | Epidemiológiai kritérium |  |
+2. Teendők a beteggel
 
-|  | Laboratóriumi kritérium |  |
+2.1. Jelentés:
 
-| 2.2. Elkülönítés: | A beteget általában nem szükséges elkülöníteni, a standard izoláció szabályait kell betartani. Multirezisztens kórokozók (pl. MRSA, VRE, ESBL-termelő Gram-negatív baktériumok) esetén indokolt/szükséges a beteg elkülönítése a kontakt izoláció szabályai szerint. |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+2.1.1. Esetek osztályozása
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Az adott fertőzés típusának megfelelő diagnosztikus vizsgálat szükséges. Halmozott előfordulás esetén a törzseket a kórokozónak megfelelő referencia laboratóriumba kell küldeni. |
+Gyanús eset
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+-
 
-| 2.4. Fertőtlenítés: | A szennyeződött, illetve lehetségesen szennyeződött művese készülékeket, eszközöket, tárgyakat fertőtleníteni/sterilizálni kell. |
+Valószínűsíthető eset
 
-| 3. Teendők a beteg környezetében |
+Minden olyan eset, akinél teljesülnek a klinikai feltételek és fennáll az epidemiológiai kapcsolat.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Megerősített eset
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Minden olyan eset, akinél teljesülnek a klinikai és laboratóriumi feltételek.
 
-| 3.3. Járványügyi megfigyelés: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+2.1.2. Feltételek
 
-| 3.4. Postexpozíciós profilaxis: | Általában nem szükséges. Az izolált kórokozó függvényében szükséges lehet. |
+Klinikai kritérium
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+Minden olyan személy, akinél jelentkezik az alábbi két tünet legalább egyike:
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező, halmozott, illetve járványos előfordulás vagy annak gyanúja esetén. |
+- hasmenés,
 
-| Encephalitis infectiosa |
+- hányás.
 
-| Encephalitisek, BNO10: G05.1 |
+Epidemiológiai kritérium
 
-| 1. Kórokozó: | Különféle enterovírusok [Coxsackie A és B vírus egyes szerotípusai, echovírus (A87.0), Enterovírus 71 (A85.0), a herpes vírus (B00.3), adenovírusok (A85.1), LCM vírus (A87.2), CMV (B25.8), kullancsencephalitis vírusa (A84.1) stb.] Az aetiológia sokszor ismeretlen marad. Az encephalitis előfordulhat más vírusok okozta fertőző betegség szövődményeként is, mint pl. az influenza, morbilli, varicella, rubeola, mumpsz, lyssa, poliomyelitis, az Epstein-Barr vírus okozta megbetegedések, a sárgaláz, dengue-láz és más (Orbi-, Toga-, Flavi-) vírus okozta fertőzések stb. Bakteriális és protozoon fertőzések is járhatnak szövődményként encephalitis-szel: Mycoplasma pneumoniae, Toxoplasma gondii, Naegleria, trypanosomák stb. Ezeket a szövődményes eseteket a megfelelő betegségre vonatkozó fejezetek ismertetik. |
+Az alábbi négy epidemiológiai kapcsolat legalább egyike:
 
-| 2. Teendők a beteggel |
+- közös forrással való érintkezés,
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+- emberről emberre való terjedés,
 
-|  | 2.1.1. Esetek osztályozása |
+- szennyezett élelmiszerrel, illetve ivóvízzel való érintkezés,
 
-|  | Gyanús eset | Minden olyan személy, akire teljesülnek a klinikai kritériumok. |
+- környezeti expozíció.
 
-|  | Valószínűsíthető eset | --- |
+Laboratóriumi kritérium
 
-|  | Megerősített eset | Minden olyan személy, akinél teljesülnek a klinikai kritériumok és a laboratóriumi kritériumok közül legalább az egyik fennáll. |
+A Vibrio cholerae izolálása klinikai mintából
 
-|  | 2.1.2. Feltételek |
+és
 
-|  | Klinikai kritérium | Kóros reflexek, paraesthesiák, ataxia, csuklás, alvászavarok, reszketés, öntudatlanságig fokozódó tudatzavarok, faciális bénulás, súlyos esetekben légzésbénulás, coma. Az encephalitis tünetei a kórokozótól, az agyvelő károsodásának helyétől és mértékétől függően igen változatosak lehetnek. A gyulladás átterjedhet a lágy agyburokra és a gerincvelőre (meningeoencephalitis, encephalomyelitis), ami a tüneteket tovább módosíthatja. |
+- az O1 vagy O139 antigén kimutatása az izolátumban,
 
-|  | Epidemiológiai kritérium | --- |
+vagy
 
-|  | Laboratóriumi kritérium | - Liquorból a vírus nukleinsav kimutatása PCR-rel. - Kórokozó vírus izolálása. - Specifikus ellenanyagválasz. |
+- a cholera-enterotoxin vagy a cholera-enterotoxin gén kimutatása az izolátumban.
 
-| 2.2. Elkülönítés: | Kórházban, a heveny tünetek lezajlásáig. |
+2.2. Elkülönítés:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | A szerológiai vizsgálat kötelező. Alvadásgátló nélkül, sterilen vett vérmintát, majd 3–4 hét múlva ismételt vérmintát kell küldeni mikrobiológiai laboratóriumba, vagy – csak az ÁNTSZ-OEK-ben végzett vizsgálatok (kötelező védőoltással megelőzhető betegségek, vérzéses lázak, kullancsencephalitis, stb) esetén – az ÁNTSZ-OEK Vírusdiagnosztikai osztályára. A szerológiai vizsgálatoknak csak a savópárban észlelt titeremelkedés esetén vagy IgM osztályú ellenanyag kimutatása esetén van diagnosztikus értéke. Vírusizolálás céljára (az első napokban) a lehető legkorábbi időpontban legalább 2 egymást követő napon székletet, torokmosó folyadékot, liquort kell küldeni laboratóriumi vizsgálatra. Igen fontos a kísérőiraton a kórokozóra utaló gyanú megjelölése. |
+A beteget kórházi fertőző osztályon kell elkülöníteni.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Nem szükséges. |
+2.3. Mikrobiológiai vizsgálat:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 2.4. Fertőtlenítés: | A beteg váladékait és a velük szennyezett tárgyakat folyamatosan fertőtleníteni kell. |
+Kötelező.
 
-| 3. Teendők a beteg környezetében |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+Kötelező. A valószínűsített betegtől származó székletmintát az OEK laboratóriumába kell küldeni. Ha V. cholerae gyanús baktériumtörzs kerül izolálásra a klinikai mikrobiológiai laboratóriumban vagy járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumban, a törzset járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat céljából megerősítő vizsgálatra – telefonon történő bejelentést követően – haladéktalanul az OEK referencia laboratóriumába kell beküldeni.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+2.3.3. Felszabadító vizsgálat:
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+Kötelező, a felszabadító vizsgálatot a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumban kell elvégezni. A cholerából gyógyult személyt addig kell elkülöníteni, amíg a klinikai gyógyulás és az antibiotikum-kezelés befejezése után 48 óra múlva elkezdett bakteriológiai székletvizsgálat két egymást követő napon negatív eredményt ad.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+2.4. Fertőtlenítés:
 
-| 3.5. Fertőzőforrás-kutatás: | Nem szükséges. |
+Szigorított folyamatos és szigorított zárófertőtlenítés szükséges.
 
-| 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
+3. Teendők a beteg környezetében
 
-| Febris flava |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| BNO10: A95 |
+Kötelező. Azokat, akik a beteggel, illetve a betegségre valószínűsített személyekkel közvetlenül érintkeztek, fel kell kutatni és 5 napra járványügyi megfigyelés alá kell helyezni
 
-| 1. Kórokozó: | Sárgaláz vírusa, mely a Flaviviridae családba tartozik. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 2. Teendők a beteggel |
+A járványügyi megfigyelés alá helyezett személyektől székletmintát kell venni, és járványügyi érdekből végzett mikrobiológiai szűrővizsgálat céljából bakteriológiai vizsgálatra kell küldeni.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. A megbetegedés sürgőséggel is jelentendő. |
+3.3. Járványügyi megfigyelés:
 
-|  | 2.1.1. Esetek osztályozása |
+Azokat, akik a beteggel, illetve a betegségre valószínűsített személyekkel közvetlenül érintkeztek, a beteggel közösen szennyezett élelmiszert, vizet fogyasztottak, 5 napra járványügyi megfigyelés alá kell helyezni. Ezeket a személyeket el kell tiltani 0-6 éves gyermekközösségek látogatásától, ilyen közösségekben, intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkaköröktől, közfogyasztásra kerülő élelmiszerek és italok kezelésétől, a közétkeztetésben, vízművekben történő munkától, anyatej adásától, anyatejgyűjtő állomásokon való foglalkozástól, a közvetlen betegellátás során betegélelmezésben való részvételtől, és a szájon át adott gyógyszeres kezelés végzésétől. A bakteriológiai szűrővizsgálat során pozitívnak talált személyeket, mint vibrió-hordozókat járványügyi ellenőrzés alá kell helyezni, és a vibrió-hordozás időtartamára a fent említett munkaköröktől/tevékenységtől továbbra is el kell tiltani. A vibrió-hordozó személy járványügyi ellenőrzésének megszüntetésére vonatkozó eljárás azonos a betegekre vonatkozó felszabadító vizsgálattal.
 
-|  | Gyanús eset | --- |
+3.4. Postexpozíciós profilaxis:
 
-|  | Valószínűsíthető eset | Teljesülnek a klinikai és az epidemiológiai feltételek. |
+Kötelező. A székletminta levétele után azonnal el kell kezdeni a megfigyeltek ellenőrzött antibiotikus kezelését (tetracyclin).
 
-|  | Megerősített eset | Teljesülnek a klinikai és a laboratóriumi feltételek (ha a beteg a közelmúltban sárgaláz elleni oltást kapott, akkor a vad vírus izolálásának van diagnosztikus értéke). |
+3.5. Fertőzőforrás-kutatás:
 
-|  | 2.1.2. Feltételek |
+Kötelező.
 
-|  | Klinikai kritérium | Láz, és az alábbi két feltétel legalább egyike: − sárgaság, − generalizált vérzés. |
+3.6. A terjesztő közeg felderítése:
 
-|  | Epidemiológiai kritérium | Utazás a megbetegedés kezdetét megelőző 1 hét folyamán olyan területre, ahol sárgaláz fordult vagy fordulhatott elő. |
+Kötelező.
 
-|  | Laboratóriumi kritérium | Az alábbi öt feltétel legalább egyike: – a sárgalázvírus izolálása klinikai mintából, – a sárgalázvírus nukleinsavának kimutatása, – sárgaláz vírus antigénjének kimutatása, – sárgalázzal szembeni specifikus IgM osztályú ellenanyagok kimutatása, – a máj post mortem kórszövettani vizsgálata során tipikus elváltozások kimutatása. A laboratóriumi eredményeket a beteg védőoltási státuszának figyelembe vételével kell értelmezni. |
+Cryptosporidiosis
 
-| 2.2.Elkülönítés: | A beteget szúnyogmentes körülmények között kijelölt kórházban kell elkülöníteni. |
+BNO10: A 04.2
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | --- |
+1. Kórokozó:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező, az ÁNTSZ-OEK Virológiai főosztályával történt előzetes megbeszélés alapján. |
+Cryptosporidium parvum
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+2. Teendők a beteggel
 
-| 2.4. Fertőtlenítés: | Nem szükséges, de a szúnyogmentesség biztosítandó. |
+2.1. Jelentés:
 
-| 3. Teendők a beteg környezetében |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A járványügyi vizsgálat során azonosítani kell valamennyi személyt, aki a megbetegedés kezdete előtti 3-6. napon a beteggel együtt feltehetően fertőzött területen járt. |
+2.1.1. Esetek osztályozása
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+Gyanús eset
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. A beteggel azonos expozíciónak kitett személyeket 6 napra klinikai megfigyelés alá kell helyezni, hogy esetleges megbetegedés esetén ellátásban részesüljenek. |
+-
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Valószínűsíthető eset
 
-| 3.5. Fertőzőforrás-kutatás: | Csak abban az esetben szükséges, ha felmerül a gyanúja a betegség hazai terjedésének. |
+Teljesül a klinikai és epidemiológiai feltétel.
 
-| Febris recurrens |
+Megerősített eset
 
-| Visszatérő láz, BNO 10:A68.0 |
+Teljesül a klinikai és laboratóriumi feltétel.
 
-| 1. Kórokozó: | Borrelia recurrentis |
+2.1.2. Feltételek
 
-| 2. Teendők a beteggel |
+Klinikai kritérium
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Az értesülést követően sürgőséggel is jelentendő. |
+Az alábbi két tünet legalább egyike:
 
-|  | 2.1.1. Esetek osztályozása |
+- hasmenés,
 
-|  | Gyanús eset | --- |
+- hasi fájdalom.
 
-|  | Valószínűsíthető eset | Teljesülnek a klinikai és az epidemiológiai feltételek. |
+Epidemiológiai kritérium
 
-|  | Megerősített eset | Teljesülnek a klinikai és a laboratóriumi feltételek. |
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-|  | 2.1.2. Feltételek |
+- emberről emberre való terjedés,
 
-|  | Klinikai kritérium | 2-9 napig tartó láz, majd 2-4 napos láztalan szakot követő többször visszatérő láz és – sárgaság – a lép megnagyobbodása. |
+- közös expozíció,
 
-|  | Epidemiológiai kritérium | Ruhatetvesség. |
+- állatról emberre való terjedés,
 
-|  | Laboratóriumi kritérium | A Borrelia recurrentis kimutatása vérkenetből. |
+- szennyezett élelmiszerrel, illetve ivóvízzel való érintkezés,
 
-| 2.2. Elkülönítés: | A beteget azonnal ható eljárással történt tetvetlenítés után infektológiai osztályon kell elkülöníteni. |
+- környezeti expozíció.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Laboratóriumi kritérium
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegség gyanúja esetén – előzetes megbeszélés alapján – tárgylemezen kihúzott vérkenet és vastag csepp küldendő az ÁNTSZ-OEK-be. |
+Az alábbi négy feltétel legalább egyike:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+- Cryptosporidium peték kimutatása a székletben,
 
-| 2.4. Fertőtlenítés: | A beteget azonnal ható eljárással tetvetleníteni szükséges és gondoskodni kell a tetűmentes állapot fenntartásáról. |
+- Cryptosporidium kimutatása a bélnedvben vagy a vékonybélből vett szövettani mintában,
 
-| 3. Teendők a beteg környezetében |
+- Cryptosporidium nukleinsav kimutatása a székletben,
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező. |
+- Cryptosporidium antigén kimutatása a székletben.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+2.2. Elkülönítés:
 
-| 3.3. Járványügyi megfigyelés: | A beteggel közös háztartásban élő személyeket 14 napra járványügyi megfigyelés alá kell helyezni. A megfigyelést rendszeres tetvességi vizsgálatokkal kell kiegészíteni. Ha a tetűmentes állapot fenntartása nem biztosítható, 14 napra járványügyi zárlatot kell elrendelni. |
+A beteg otthonában, tartózkodási helyén a hasmenés fennállásáig elkülönítendő.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+2.3. Mikrobiológiai vizsgálat:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| Fertőző spongiform encephalopathiák |
+Kötelező. Székletminta küldendő vizsgálatra parazitológiai laboratóriumba.
 
-| Fertőző szivacsos agyvelőbántalmak, BNO10: A81 |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 1. Kórokozó: | Egy kóros fehérje (prion), mely egy, az egészséges szervezetben főként az idegrendszerben megtalálható celluláris fehérje (ún. prion protein – PrP) kóros, izoform változata. Az ágens saját nukleinsavat nem tartalmaz. |
+Kötelező. Járvány gyanúja esetén az addig nem vizsgált betegeknek már az első diagnosztikus vizsgálatát is a járványügyi feladat elvégzésére kijelölt laboratóriumban kell elvégezni.
 
-| 2. Teendők a beteggel |
+2.3.3. Felszabadító vizsgálat:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a halálos kimenetelű gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+Nem szükséges.
 
-| Creutzfeldt-Jacob-betegség (CJB) |
+2.4. Fertőtlenítés:
 
-| Subacut spongiform agyvelőbántalom, BNO10: A81.0 |
+Folyamatos fertőtlenítés.
 
-|  | 2.1.1. Esetek osztályozása |
+3. Teendők a beteg környezetében
 
-|  | Gyanús eset | Két évnél rövidebb ideje fennálló, gyorsan progrediáló demencia, és emellett a II. csoportba tartozó klinikai tünetek közül legalább kettő megfigyelhető. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | Valószínűsíthető eset | − Két évnél rövidebb ideje fennálló, gyorsan progrediáló demencia, és emellett a II. csoportba tartozó klinikai tünetek közül legalább kettő megfigyelhető és tipikus EEG, vagy − két évnél rövidebb ideje fennálló, gyorsan progrediáló demencia, és emellett a II. csoportba tartozó klinikai tünetek közül legalább kettő megfigyelhető és mágneses rezonancia vizsgálattal magas jelintenzitás észlelhető a caudatusban/putamenben, vagy – két évnél rövidebb ideje fennálló, gyorsan progrediáló demencia, és emellett a II. csoportba tartozó klinikai tünetek közül legalább kettő megfigyelhető és pozitív a 14-3-3 fehérje vizsgálat. |
+Kötelező.
 
-|  | Megerősített eset | Teljesülnek a megerősített eset diagnosztikai feltételei. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-|  | 2.1.2. Feltételek |
+Kötelező. A kontakt személyek szűrővizsgálatát el kell végezni.
 
-|  | Klinikai kritérium | I. Gyorsan progrediáló demencia, II. – Myoclonus – kisagyi tünetek/látászavar, – piramidális/extrapiramidális tünetek, – akinetikus mutismus, III. Típusos EEG, IV. Mágneses rezonancia vizsgálattal magas jelintenzitás észlelhető a caudatusban/putamenben. |
+3.3. Járványügyi megfigyelés:
 
-|  | Epidemiológiai kritérium | --- |
+A beteg környezetében élő azon személyeket, akik 0-3 éves gyermekek közösségébe járnak, akik egészségügyi intézmények ápoltjai, akik a betegellátás során étel- és gyógyszerosztást végeznek, illetve anyatejet adnak, kezelnek, 7 napra járványügyi megfigyelés alá kell helyezni. Ezen személyeket a járványügyi megfigyelés időtartamára közösségüktől, munkakörüktől, tevékenységüktől el kell tiltani. Közösség, intézmény látogatását, foglalkozásukat, tevékenységüket csak akkor folytathatják, ha a járványügyi megfigyelés alatt enterális tünetek nem jelentkeznek, és egy alkalommal vett székletmintájukból a kórokozó nem mutatható ki.
 
-|  | Laboratóriumi kritérium | Pozitív eredményű neuropatológiai vagy immunhisztokémiai vizsgálat. |
+3.4. Postexpozíciós profilaxis:
 
-| Variáns Creutzfeldt-Jakob-betegség (vCJB) |
+Nem szükséges.
 
-|  | 2.1.3. Esetek osztályozása |
+3.5. Fertőzőforrás-kutatás:
 
-|  | Gyanús eset | Teljesülnek a klinikai feltételek és az előfeltételek és negatív EEG sporadikus CJB-re. (A Creutzfeldt-Jakob betegség sporadikus változatának tipikus megjelenése az EEG-n generalizált, periodikusan megjelenő komplexeket mutat, másodpercenként körülbelül egyet. Ezek a Creutzfeldt-Jakob betegség variánsának későbbi stádiumaiban időnként láthatók.) |
+Kötelező.
 
-|  | Valószínűsíthető eset | Minden olyan személy, akire teljesülnek a gyanús eset feltételei és az agy MRI vizsgálata pozitív eredményű vagy teljesülnek az előfeltételek és pozitív eredményű a tonsilla biopszia. |
+3.6. A terjesztő közeg felderítése:
 
-|  | Megerősített eset | Teljesülnek az előfeltételek és a megerősített esethez szükséges diagnosztikai kritériumok. |
+Kötelező.
 
-|  | 2.1.4. Feltételek |
+Diphtheria
 
-|  | Klinikai kritérium | Minden olyan személy, akinél jelentkezik az alábbi öt tünet közül legalább négy: – korai pszichiátriai tünetek (depresszió, szorongás, apátia, visszahúzódás, téveszmék), – tartós fájdalmas szenzoros tünetek (beletartozik a valódi fájdalom és/vagy érzészavar), – a végtagok mozgási zavara (ataxia), – Myoclonus, vitustánc (chorea) vagy az izomtónus rendellenessége, – elbutulás (demencia). Előfeltételek – minden olyan személy, aki legalább hat hónapja progresszív neurophszichiátriai rendellenességben szenved, – a rutinvizsgálatok nem utalnak más diagnózisra, – nincs kórtörténeti előzmény hipofízishormonokkal vagy emberi agyvelőszövettel való érintkezésről, – nincs bizonyíték a fertőző szivacsos agyvelőbántalom genetikai formájára. |
+Torokgyík, BNO10: A36
 
-|  | Epidemiológiai kritérium | BSE prionnal fertőzött szarvasmarhával való kapcsolat, vagy BSE prionnal fertőzött emberről emberre való terjedés (pl. vérátömlesztés). |
+1. Kórokozó:
 
-|  | Laboratóriumi kritérium | – Az EEG a betegség korai stádiumában nem mutatja ki a sporadikus CJD 11 tipikus megjelenését (A Creutzfeldt-Jakob betegség sporadikus változatának tipikus megjelenése az EEG-n generalizált, periodikusan megjelenő komplexeket mutat, másodpercenként körülbelül egyet. Ezek a Creutzfeldt-Jakob betegség variánsának későbbi stádiumaiban időnként láthatók.), – az agy MRI vizsgálata a köztiagy/thalamus magjában (pulvinar) mindkét oldalon erős jelet mutat, – pozitív eredményű tonsilla biopszia (A Creutzfeldt-Jakob betegség sporadikus változatának tipikus megjelenése az EEG-n generalizált, periodikusan megjelenő komplexeket mutat, másodpercenként körülbelül egyet. Ezek a Creutzfeldt-Jakob betegség variánsának későbbi stádiumaiban időnként láthatók.). Neuropatológiai megerősítés: szivacsszerű elváltozás és extenzív prionfehérje felhalmozódás feltűnő lerakódásokkal a cerebrumban és a cerebellumban. |
+Corynebacterium diphtheriae
 
-| 2.2. Elkülönítés: | Nem szükséges. |
+2. Teendők a beteggel
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+2.1. Jelentés:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A biztos diagnózist csak post mortem, az agyszövet vizsgálata alapján lehet megállapítani. A kórbonctani és kórszövettani vizsgálat kötelező. A boncolás során eltávolított agyat a Semmelweis Egyetem Általános Orvosi Karának Neuropatológiai és Prionbetegség Referencia Központjába kell küldeni. A mintákból a kóros prion protein immunhisztokémiai vagy Western blot technikával mutatható ki. Élő szervezetben a prion jelenléte nem igazolható, kivéve a vCJB eseteket, ahol a tonsillákból meg lehet kísérelni a kórokozó kimutatását. Egyéb vizsgálatok: A liquort az ÁNTSZ-OEK-ba kell küldeni a 14–3–3 fehérje vizsgálatára, mely valószínűsítheti az élő, feltételezett beteg személynél a CJB diagnózisát. A prion protein gén vizsgálata a Semmelweis Egyetem Általános Orvosi Karának Neuropatológiai és Prionbetegség Referencia Központjával történt egyeztetést követően elvégezhető. |
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset/megbetegedés. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+2.1.1. Esetek osztályozása
 
-| 3. Teendők a beteg környezetében |
+Gyanús eset
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+Teljesülnek a klasszikus légzőszervi diftéria klinikai feltételei.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A rendelkezésre álló adatok a megbetegedés familiáris, örökletes jellegét támasztják alá, a genetikai vizsgálatok végzésére vonatkozóan a szakmai kollégium ajánlása szerint kell eljárni. |
+Valószínűsíthető eset
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+Teljesülnek a diftéria (klasszikus légzőszervi diftéria, enyhe légzőszervi diftéria, bőrdiftéria, egyéb lokalizációjú diftéria) klinikai feltételei és epidemiológiai kapcsolat mutatható ki egy megerősített emberi esettel vagy állatról emberre történő terjedés igazolható.
 
-| 3.4. Postexpozíciós profilaxis: | --- |
+Megerősített eset
 
-| 3.5. Fertőzőforrás-kutatás: | --- |
+Teljesül a klinikai formák legalább egyike és a laboratóriumi feltételek.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező, az expozíciótól függően. |
+2.1.2. Feltételek
 
-| Giardiasis |
+Klinikai kritérium
 
-| BNO10: A07.1 |
+Minden olyan személy, akinél jelentkezik az alábbi klinikai formák legalább egyike:
 
-| 1. Kórokozó: | Giardia lamblia (ritkán G. intestinalis, G. duodenalis). |
+Klasszikus légzőszervi diftéria:
 
-| 2. Teendők a beteggel |
+Laryngitis-szel, nasopharyngitis-szel vagy tonsillitis-szel járó felső légúti megbetegedés álhártyával.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+Enyhe légzőszervi diftéria:
 
-|  | 2.1.1. Esetek osztályozása |
+Laryngitis-szel, nasopharyngitis-szel vagy tonsillitis-szel járó felső légúti megbetegedés álhártya nélkül.
 
-|  | Gyanús eset | Teljesül legalább egy klinikai feltétel. |
+vagy
 
-|  | Valószínűsíthető eset | Teljesül a klinikai és epidemiológiai feltétel. |
+Bőrdiftéria:
 
-|  | Megerősített eset | Teljesül a klinikai és laboratóriumi feltétel. |
+Bőrelváltozások.
 
-|  | 2.1.2. Feltételek |
+Egyéb lokalizációjú diftéria:
 
-|  | Klinikai kritérium | Az alábbi tünetek legalább egyike: - hasmenés, - görcsös hasi fájdalom, - felfúvódás, - felszívódási zavar jelei (pl. zsírszéklet, súlyvesztés), - étvágytalanság, - rendetlen székürítés, - fejfájás, szédülés, - gyermekek esetén anaemia. |
+Kötőhártya vagy nyálkahártya elváltozása.
 
-|  | Epidemiológiai kritérium | Az alábbi négy epidemiológiai kapcsolat legalább egyike: - fertőzött élelmiszerrel/ivóvízzel való érintkezés, - emberről emberre való terjedés, - közös forrással való érintkezés, - környezeti expozíció. |
+Epidemiológiai kritérium
 
-|  | Laboratóriumi kritérium | Az alábbi feltételek legalább egyike: - Giardia lamblia ciszták vagy trophozoiták kimutatása a székletben, a nyombélnedvben vagy a vékonybélből vett biopszia szövetmintájában, - Giardia lamblia antigén kimutatása a székletben, bélnedvben, biopszia szövetmintában, - Giardia lamblia DNS kimutatása a székletben, bélnedvben, biopszia szövetmintában. |
+- Közvetlen érintkezés beteggel vagy tünetmentes kórokozó-hordozó emberrel.
 
-| 2.2. Elkülönítés: | Nem szükséges. |
+- Állatról emberre történő terjedés.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegség sporadikus előfordulása esetén a székletminta, esetleg a duodenális nedv bármely parazitológiai laboratóriumba küldhető vizsgálatra. |
+Laboratóriumi kritérium
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Járvány gyanúja esetén a székletmintát, vagy a duodenális nedvet a járványügyi feladat elvégzésére kijelölt mikrobiológiai laboratóriumba kell küldeni. |
+Toxintermelő C.diphtheriae vagy C.ulcerans vagy C.pseudotuberculosis izolálása a beteg vizsgálati anyagából.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+2.2. Elkülönítés:
 
-| 2.4. Fertőtlenítés: | Folyamatos fertőtlenítés szükséges. |
+A beteget infektológiai osztályon kell elkülöníteni.
 
-| 3. Teendők a beteg környezetében |
+2.3. Mikrobiológiai vizsgálat:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A beteggel érintkezett, vele epidemiológiai kapcsolatban álló személyeknél szűrővizsgálatot kell végezni, és a fertőzött személyeket a beteggel egyidejűleg javasolt gyógykezelni. |
+Kötelező.
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Kötelező. Diagnosztikus, illetve felszabadító vizsgálat céljára a beteg torkából és orrából, egyéb lokalizáció esetén (vulva, sebdiphtheria) pedig ezekről a helyekről vett váladékot kell küldeni az OEK-be bakteriológiai és toxinkimutatási vizsgálatra. A vizsgálati anyag vétele előtt nem szabad helyi kezelést (torokecsetelést, öblítést stb.) végezni.
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. Az ivó- vagy fürdővíz mikrobiológiai vizsgálatát el kell végezni, és célszerű a vizsgálatot a gyanúsítható élelmiszerre is kiterjeszteni. |
+2.3.3. Felszabadító vizsgálat:
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. Ha víz vagy élelmiszer a terjesztő közeg, az illetékes hatóságot értesíteni kell a szükséges intézkedések megtétele érdekében. |
+Kötelező a beteg antibiotikus kezelésének befejezése után 48 óra múlva a 2 napos időközzel, 2 alkalommal végzett bakteriológiai vizsgálat.
 
-| Gonorrhoea |
+2.4. Járványügyi ellenőrzés:
 
-| Tripper, kankó, BNO10: A54 |
+Ha a felszabadító vizsgálat eredménye pozitív, de a beteg klinikai állapota nem indokolja a kórházi elkülönítést, azt meg lehet szüntetni, azonban a gyógyult beteget a kórokozó-hordozás tartamára járványügyi ellenőrzés alá kell helyezni, és el kell tiltani a 0-6 éves gyermekközösségek látogatásától, kórházi sebészeti, szülészeti, egyéb műtéti és gyermekosztályon végzendő munkájától, valamint tejkezeléstől.
 
-| 1. Kórokozó: | Neisseria gonorrhoeae |
+2.5. Fertőtlenítés:
 
-| 2. Teendők a beteggel |
+Folyamatos és zárófertőtlenítés szükséges.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+3. Teendők a beteg környezetében
 
-|  | 2.1.1. Esetek osztályozása |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | Gyanús eset | --- |
+A beteggel a megbetegedés kezdete előtti hét napban érintkezett, szoros kontaktusba került személyeket fel kell kutatni.
 
-|  | Valószínűsíthető eset | Minden olyan személy, akinél teljesülnek a klinikai feltételek és fennáll az epidemiológiai kapcsolat. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-|  | Megerősített eset | Minden olyan személy, akinél teljesülnek a laboratóriumi feltételek. |
+Az antibiotikum prevenció megkezdése előtt fertőzőforrás kutatás céljából orr-, torokváladékot kell venni, és a járványügyi feladatok elvégzésére kijelölt laboratóriumba kell küldeni.
 
-|  | 2.1.2. Feltételek |
+3.3. Járványügyi megfigyelés:
 
-|  | Klinikai kritérium | Az alábbi hat tünet legalább egyike: - Purulens húgycsőgyulladás, - Mucopurulens endocervicitis, - mellékhere-gyulladás - végbélgyulladás, - torokgyulladás, - izületi gyulladás vagy minden olyan újszülött, akinek kötőhártya-gyulladása van vagy minden olyan leánygyermek, akinek gennyes hüvelygyulladása van (vulvovaginitis gonorrhoica infantum). |
+A beteggel érintkezett személyeket az utolsó érintkezéstől számított 7 napra járványügyi megfigyelés alá kell helyezni.
 
-|  | Epidemiológiai kritérium | Laboratóriumi vizsgálattal igazoltan gonorrhoeában szenvedő beteggel (fertőzöttel) történt szexuális kapcsolat inkubációs időn belül vagy fertőzött váladékkal történt kontamináció aszexuális úton vagy laboratóriumi vizsgálattal igazoltan gonorrhoeában szenvedő anya újszülöttje (perinatalis transzmisszió). |
+3.4. Postexpozíciós profilaxis:
 
-|  | Laboratóriumi kritérium | Az alábbi három feltétel legalább egyike: - Neisseria gonorrhoeae baktérium izolálása klinikai mintából, - Neisseria gonorrhoeae nukleinsav kimutatása klinikai mintában, - Sejten belüli Gram-negatív diplococcusok mikroszkópos kimutatása férfitől származó, húgycsőből vett mintában. |
+A járványügyi megfigyelés alá vett személyeket 7 napos antibiotikum-prevencióban kell részesíteni.
 
-| 2.2. Elkülönítés: | Nem szükséges. Csecsemő- és gyermekgondozónők a kezelés alatt és az azt követő kontrollvizsgálatig munkájukat nem végezhetik. |
+3.5. Fertőzőforrás-kutatás:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Kötelező. A tünetmentes kórokozó-ürítőket járványügyi ellenőrzés alá kell helyezni, és antibiotikus kezelésben kell részesíteni.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A diagnózis felállítása férfiaknál Gram-szerint festett kenet mikroszkópos vizsgálatával (urethralis váladék), illetve nőknél tenyésztéssel (urethralis, cervicalis váladék) és mindkét nemnél pharyngeális és rectális váladék tenyésztésével és/vagy molekulárbiológiai (NAAT) eljárással történik. Az antibiotikum rezisztencia meghatározása érdekében törekedni kell a minták tenyésztéses vizsgálatára. |
+3.6. Védőoltás:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Kötelező. A beteg környezetében élőket a legrövidebb időn belül aktív immunizálásban kell részesíteni, a 6 éven aluli gyermekek szükséges oltását az OEK-kel történt megbeszélés alapján egyedileg kell mérlegelni.
 
-| 2.4.Fertőtlenítés: | Nem szükséges. |
+Echinococcosis
 
-| 3. Teendők a beteg környezetében |
+BNO10: B67
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező, a beteg kötelessége az ellátó szakorvost a fertőződés körülményeiről tájékoztatni. A bőr- és nemibeteg gondozó, valamint az STD beteget is ellátó szakrendelő orvosa (gondozója az orvos utasítására) jogosult a megnevezett fertőző forrást felszólítani határidő kitűzésével, hogy saját érdekében jelentkezzen a megadott intézményben orvosi vizsgálaton. |
+1. Kórokozó:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Kötelező, a gonorrhoeas beteg tünetmentes kontaktjainak mintái járványügyi érdekből végzett mikrobiológiai szűrővizsgálat céljából a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba küldendők. A betegeknél HIV és syphilis szűrővizsgálatok elvégzése előzetes tanácsadás és a beteg beleegyezése után ajánlott. |
+Echinococcus granulosus (lárvája az Echinococcus hydatidosus); Echinococcus multilocularis (lárvája az Echinococcus alveolaris).
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+2. Teendők a beteggel
 
-| 3.4. Postexpozíciós profilaxis: | Kötelező, az antibiotikum profilaxist igazoltan gonorrhoeaban szenvedő beteg testváladékaival inkubációs időn belül érintkezett személynél epidemiológiai bizonyítékok alapján végzik. |
+2.1. Jelentés:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+Bejelentésre kötelezett a megerősített eset.
 
-| Hantavírus okozta veseszindróma |
+2.1.1. Esetek osztályozása
 
-| Nephropathia epidemica, BNO10: A98.5 |
+Gyanús eset
 
-| 1. Kórokozó: | A Bunyaviridae családba tartozó Hantavírus genus különböző tagjai. |
+-
 
-| 2. Teendők a beteggel |
+Valószínűsíthető eset
 
-| 2.1. Jelentés: | Bejelentetésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+-
 
-|  | 2.1.1.Esetek osztályozása |
+Megerősített eset
 
-|  | Gyanús eset | Teljesül a klinikai feltétel. |
+Teljesülnek a laboratóriumi feltételek.
 
-|  | Valószínűsíthető eset | Teljesül a klinikai és epidemiológiai feltétel. |
+2.1.2. Feltételek
 
-|  | Megerősített eset | Teljesül a klinikai és a laboratóriumi feltétel. |
+Klinikai kritérium
 
-|  | 2.1.2.Feltételek |
+-
 
-|  | Klinikai kritérium | Hirtelen kezdődő magas láz, és az alábbi hét feltétel közül legalább kettő: - hasi vagy vesetáji fájdalom, - émelygés vagy hányás, - az arc kipirulása, - bevérzések/petechiák, - kötőhártya belövellése, - oligo-, anuria, - hyper- vagy hypotensio. |
+Epidemiológiai kritérium
 
-|  | Epidemiológiai kritérium | Rágcsálókkal való direkt kontaktus. |
+-
 
-|  | Laboratóriumi kritérium | – Specifikus ellenanyagok kimutatása a vérsavóból magas titerben, – vírus-specifikus ellenanyagok négyszeres titeremelkedése a heveny szakban, illetve három héttel később vett mintában. |
+Laboratóriumi kritérium
 
-| 2.2. Elkülönítés: | Nem szükséges. |
+Az alábbi öt feltétel legalább egyike:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+- az Echinococcus multilocularisnak vagy E.granulosusnak megfelelő hisztopatológiai kép vagy a parazitára specifikus képlet jelenlétének kimutatása (pl. a protoscolex közvetlen képi megjelenítése cisztafolyadékban),
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A mintákat előzetes megbeszélés alapján az ÁNTSZ-OEK Virológiai főosztályára kell szállítani. |
+- Echinoccocus granulosus ciszták patognomikus makroszkópos morfológiájának kimutatása sebészeti mintákban,
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+- képalkotó eljárásokkal (pl. CT, ultrahang, MRI) kimutatott és szerológiai vizsgálattal igazolt tipikus szervi elváltozások,
 
-| 2.4.Fertőtlenítés: | Nem szükséges. |
+- Echinococcus spp.-vel szembeni specifikus ellenanyagok kimutatása nagy szenzitivitású szerológiai vizsgálattal, és megerősítése nagy specificitású szerológiai vizsgálattal,
 
-| 3. Teendők a beteg környezetében |
+- az Echinococcus multilocularis vagy granulosus nukleinsav kimutatása klinikai mintában.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+2.2. Elkülönítés:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+Nem szükséges.
 
-| 3.3. Járványügyi megfigyelés: | A szükséges terápia időben történő megkezdése érdekében a beteg környezetében élőknél, a velük közös expozíciónak kitett személyek esetében figyelni kell a tünetek kialakulását. |
+2.3. Mikrobiológiai vizsgálat:
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.5. Fertőzőforrás-kutatás: | Halmozott előfordulás esetén szükséges. |
+Kötelező, a klinikai mintát a referencia laboratóriumba kell küldeni. Beküldendő alvadásgátló nélkül, sterilen vett vérminta, illetve az echinococcosis közvetlen kimutatására a műtétileg eltávolított tömlő vagy annak bennéke.
 
-| 3.6. A terjesztő közeg felderítése: | Rágcsálóirtás. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| Hepatitis infectiosa |
+Kötelező, az OEK referencia laboratóriumában történik.
 
-| BNO10: B15-B17 |
+2.3.3. Felszabadító vizsgálat:
 
-| 1. Kórokozó: | Hepatitis A, B, C, E vírusok. |
+Nem szükséges.
 
-| 2. Teendők a beteggel |
+2.4. Fertőtlenítés:
 
-| 2.1. Jelentés: | Hepatitis infectiosa néven bejelentésre kötelezett az akut vírushepatitisre gyanús megbetegedés. |
+Nem szükséges.
 
-|  | 2.1.1. Esetek osztályozása |
+3. Teendők a beteg környezetében
 
-|  | Gyanús eset | Teljesül a klinikai feltétel. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | Valószínűsíthető eset | --- |
+Nem szükséges.
 
-|  | Megerősített eset | --- |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-|  | 2.1.2. Feltételek |
+Nem szükséges.
 
-|  | Klinikai kritérium | Hirtelen kezdet, általános tünetek (fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés, hányás), láz, hőemelkedés és legalább egy az alábbi három tünet közül: - sárgaság, - sötét vizelet, - magas szérum aminotranszferáz szint. |
+3.3. Járványügyi megfigyelés:
 
-|  | Epidemiológiai kritérium | --- |
+Nem szükséges.
 
-|  | Laboratóriumi kritérium | --- |
+3.4. Postexpozíciós profilaxis:
 
-| 2.2. Elkülönítés: | A beteget infektológiai osztályra kell utalni a differenciáldiagnosztikai vizsgálatok elvégzése céljából. |
+Nem szükséges.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | --- |
+3.5. Fertőzőforrás-kutatás:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegség gyanúja esetén a betegtől alvadásgátló nélkül vett vérmintát kell küldeni a járványügyi feladatok végzésére kijelölt területileg illetékes mikrobiológiai laboratóriumba a hepatitis A, B, C, illetve E vírus aetiológia tisztázása céljából. |
+Nem szükséges.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+3.6. A terjesztő közeg felderítése:
 
-| 2.4. Fertőtlenítés: | Folyamatos és zárófertőtlenítés szükséges. |
+Nem szükséges.
 
-| 3. Teendők a beteg környezetében |
+Encephalitis infectiosa
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A beteggel szoros kapcsolatban lévő személyeket (közös háztartásban élők, szexuális partnerek, egyéb családi és közösségi kontakt személyek) fel kell kutatni, hogy az etiológia ismeretének függvényében a szükséges intézkedések azonnal megtörténjenek. |
+Encephalitisek, BNO10: G05.1
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+1. Kórokozó:
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+Különféle enterovírusok [Coxsackie A és B vírus egyes szerotípusai, echovírus (A87.0), Enterovírus 71 (A85.0), a herpes vírus (B00.3), adenovírusok (A85.1), LCM vírus (A87.2), CMV (B25.8), kullancsencephalitis vírusa (A84.1) stb.]. Az etiológia sokszor ismeretlen marad. Az encephalitis előfordulhat más vírusok okozta fertőző betegség szövődményeként is, mint pl. az influenza, morbilli, varicella, rubeola, mumpsz, lyssa, poliomyelitis, az Epstein-Barr vírus okozta megbetegedések, a sárgaláz, dengue-láz és más (Orbi-, Tóga-, Flavi-) vírus okozta fertőzések stb. Bakteriális és protozoon fertőzések is járhatnak szövődményként encephalitis-szel: Mycoplasma pneumoniae, Toxoplasma gondii, Naegleria, trypanosomák stb. Ezeket a szövődményes eseteket a megfelelő betegségre vonatkozó fejezetek ismertetik.
 
-| 3.4. Postexpozíciós profilaxis: | --- |
+2. Teendők a beteggel
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+2.1. Jelentés:
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+Bejelentésre kötelezett a gyanús vagy a megerősített eset.
 
-| Hepatitis A |
+2.1.1. Esetek osztályozása
 
-| A típusú hepatitis, BNO10: B15 |
+Gyanús eset
 
-| 1. Kórokozó: | Hepatitis A vírus (HAV). |
+Minden olyan személy, akire teljesülnek a klinikai kritériumok.
 
-| 2. Teendők a beteggel |
+Valószínűsíthető eset
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+-
 
-|  | 2.1.1. Esetek osztályozása |
+Megerősített eset
 
-|  | Gyanús eset | --- |
+Minden olyan személy, akinél teljesülnek a klinikai kritériumok és a laboratóriumi kritériumok közül legalább az egyik fennáll.
 
-|  | Valószínűsíthető eset | Teljesülnek a klinikai feltételek és az epidemiológiai feltételek. |
+2.1.2. Feltételek
 
-|  | Megerősített eset | Teljesülnek a klinikai és a laboratóriumi feltételek. |
+Klinikai kritérium
 
-|  | 2.1.2. Feltételek |
+Kóros reflexek, paraesthesiák, ataxia, csuklás, alvászavarok, reszketés, öntudatlanságig fokozódó tudatzavarok, faciális bénulás, súlyos esetekben légzésbénulás, coma.
 
-|  | Klinikai kritérium | Hirtelen kezdet, általános tünetek (fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés, hányás), láz, hőemelkedés és legalább egy az alábbi három tünet közül: - sárgaság, - sötét vizelet, - magas szérum aminotranszferáz szint. |
+Az encephalitis tünetei a kórokozótól, az agyvelő károsodásának helyétől és mértékétől függően igen változatosak lehetnek. A gyulladás átterjedhet a lágy agyburokra és a gerincvelőre (meningeoencephalitis, encephalomyelitis), ami a tüneteket tovább módosíthatja.
 
-|  | Epidemiológiai kritérium | Az alábbiak közül legalább egy feltétel: - ha a beteg a lappangási időben laboratóriumi vizsgálattal megerősített A hepatitiszes beteggel, vagy tünetmentes HAV pozitív személlyel érintkezett, - ha bizonyított közös fertőző forrással való érintkezés, - a beteg másokkal együtt bizonyítottan közös HAV expozíciónak volt kitéve, hepatitis A vírussal kontaminált élelmiszert vagy ivóvizet fogyasztott. |
+Epidemiológiai kritérium
 
-|  | Laboratóriumi kritérium | – IgM osztályba tartozó anti-HAV ellenanyag jelenléte a szérumban, – HAV nukleinsav kimutatása a vérből vagy székletből. |
+-
 
-| 2.2. Elkülönítés: | A beteget a klinikai állapotától függően infektológiai osztályon, otthonában, illetve tartózkodási helyén a sárgaság kezdetétől számítva legalább egy hétig a kontakt izoláció szabályai szerint el kell különíteni. |
+Laboratóriumi kritérium
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | --- |
+- Liquorból a vírus nukleinsav kimutatása PCR-rel.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegség gyanúja esetén a betegtől alvadásgátló nélkül vett vérmintát kell küldeni a járványügyi feladatok végzésére kijelölt területileg illetékes mikrobiológiai laboratóriumba az aetiológia tisztázása céljából. |
+- Kórokozó vírus izolálása.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+- Specifikus ellenanyagválasz.
 
-| 2.4. Fertőtlenítés: | Folyamatos és zárófertőtlenítés szükséges. |
+2.2. Elkülönítés:
 
-| 3. Teendők a beteg környezetében |
+Kórházban, a heveny tünetek lezajlásáig.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A beteggel szoros kapcsolatban lévő személyeket (közös háztartásban élők, szexuális partnerek, egyéb családi és közösségi kontakt személyek) fel kell kutatni. |
+2.3. Mikrobiológiai vizsgálat:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.3. Járványügyi megfigyelés: | A beteggel szoros kapcsolatban lévő családi és kontakt személyeket 30 napra járványügyi megfigyelés alá kell helyezni. Ezen személyek közül azokat, akik 0–6 éves gyermekek közösségébe járnak, vagy ilyen közösségekben/intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkakörben dolgoznak, akik a közvetlen betegellátás során étel- és gyógyszerkiosztást végeznek, illetve hőkezelés nélkül, közvetlenül közfogyasztásra kerülő élelmiszereket, ételeket, italokat kezelnek, közétkeztetésben, vízművekben dolgoznak, anyatejet adnak vagy kezelnek, a járványügyi megfigyelés időtartamára munkakörüktől, illetve tevékenységüktől, a gyermekközösség látogatásától el kell tiltani. |
+A szerológiai vizsgálat kötelező. Alvadásgátló nélkül, sterilen vett vérmintát, majd 3-4 hét múlva ismételt vérmintát kell küldeni mikrobiológiai laboratóriumba, vagy – csak az OEK-ben végzett vizsgálatok (kötelező védőoltással megelőzhető betegségek, vérzéses lázak, kullancsencephalitis stb.) esetén – az OEK részére. A szerológiai vizsgálatoknak csak a savópárban észlelt titeremelkedés esetén vagy IgM osztályú ellenanyag kimutatása esetén van diagnosztikus értéke. Vírusizolálás céljára (az első napokban) a lehető legkorábbi időpontban legalább 2 egymást követő napon székletet, torokmosó folyadékot, liquort kell küldeni laboratóriumi vizsgálatra. Igen fontos a kísérőiraton a kórokozóra utaló gyanú megjelölése.
 
-| 3.4. Postexpozíciós profilaxis: | A járványügyi megfigyelés alá helyezett személyeket hepatitis A elleni aktív, passzív, vagy aktív-passzív immunizálásban kell részesíteni a miniszteri utasítás, illetve a védőoltási módszertani levél szerint. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+Nem szükséges.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+2.3.3. Felszabadító vizsgálat:
 
-| Hepatitis B (akut) |
+Nem szükséges.
 
-| B típusú akut hepatitis, BNO10: B16 |
+2.4. Fertőtlenítés:
 
-| 1. Kórokozó: | Hepatitis B vírus. |
+A beteg váladékait és a velük szennyezett tárgyakat folyamatosan fertőtleníteni kell.
 
-| 2. Teendők a beteggel |
+3. Teendők a beteg környezetében
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | 2.1.1. Esetek osztályozása |
+Nem szükséges.
 
-|  | Gyanús eset | --- |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-|  | Valószínűsíthető eset | Teljesül a klinikai feltétel és a laboratóriumi feltételek egyike. |
+Nem szükséges.
 
-|  | Megerősített eset | Teljesül a klinikai feltétel, a megerősített esetre vonatkozó laboratóriumi feltétel és nem ismert, hogy a betegnek krónikus HBV fertőzése van. |
+3.3. Járványügyi megfigyelés:
 
-|  | 2.1.2. Feltételek |
+Nem szükséges.
 
-|  | Klinikai kritérium | Hirtelen kezdet, általános tünetek (fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés, hányás), láz, hőemelkedés és legalább egy az alábbi három tünet közül: – sárgaság, – sötét vizelet, – magas szérum aminotranszferáz szint. |
+3.4. Postexpozíciós profilaxis:
 
-|  | Epidemiológiai kritérium | --- |
+Nem szükséges.
 
-|  | Laboratóriumi kritérium | – A valószínűsíthető eset laboratóriumi feltétele: Hepatitis B felületi antigén (HBsAg) megerősített kimutatása szérumból egyidejű anti-HAV IgM negativitás mellett. – A megerősített eset laboratóriumi feltétele: IgM osztályba tartozó anti-HBc ellenanyagok kimutatása a szérumból. |
+3.5. Fertőzőforrás-kutatás:
 
-| 2.2. Elkülönítés: | A beteget a klinikai állapotától függően infektológiai osztályon, otthonában, illetve tartózkodási helyén a standard izoláció szabályai szerint kell elkülöníteni. |
+Nem szükséges.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | --- |
+3.6. A terjesztő közeg felderítése:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegtől alvadásgátló nélkül vett vérmintát kell küldeni a járványügyi feladatok végzésére kijelölt területileg illetékes mikrobiológiai laboratóriumba. |
+Nem szükséges.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Enterohaemorrhagiás E. coli enteritis (EHEC)
 
-| 2.4. Fertőtlenítés: | Folyamatos |
+Shiga toxin termelő E. coli (STEC), más néven verocitotoxin termelő E. coli (VTEC), BNO10: A04.3
 
-| 3. Teendők a beteg környezetében |
+1. Kórokozó:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Azokat a személyeket, akik a betegség inkubációs idejében a beteggel olyan kapcsolatba kerültek, hogy tőle fertőződhettek, fel kell kutatni. |
+A Shiga toxint termelő E. coli szerotípusai: leggyakoribb az O157:H7, de az esetek jelentős részében egyéb szerocsoportípusba tartozó szerotípusok (pl. O26:H11, O111:H8, O103:H2, O145:H) is előfordulnak.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A beteggel közös háztartásban élőknek és szexuális partnereinek fel kell ajánlani a HbsAg szűrővizsgálatot. |
+2. Teendők a beteggel
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+2.1. Jelentés:
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+2.1.1. Esetek osztályozása
 
-| 3.6. A terjesztő közeg felderítése: | Egészségügyi ellátással összefüggő megbetegedések halmozott előfordulása esetén kötelező. |
+A STEC-vel összefüggő HUS-gyanús eset
 
-| Hepatitis C (akut) |
+Minden olyan személy, akire teljesülnek a HUS klinikai kritériumai.
 
-| C típusú akut hepatitis, BNO10: B 17.1 |
+STEC/VTEC valószínűsíthető esete
 
-| 1. Kórokozó: | Hepatitis C vírus |
+Minden olyan személy, akire teljesülnek a klinikai kritériumok, fennáll az epidemiológiai kapcsolat.
 
-| 2. Teendők a beteggel |
+STEC/VTEC megerősített esete
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+Minden olyan személy, akire teljesülnek a klinikai és laboratóriumi kritériumok.
 
-|  | 2.1.1. Esetek osztályozása |
+2.1.2. Feltételek
 
-|  | Gyanús eset | --- |
+Klinikai kritérium
 
-|  | Valószínűsíthető eset | --- |
+Az alábbiak legalább egyike:
 
-|  | Megerősített eset | Teljesül a klinikai feltétel, a laboratóriumi feltételek egyike, és nem ismert, hogy a betegnek krónikus HCV fertőzése van. |
+STEC/VTEC hasmenés
 
-|  | 2.1.2. Feltételek |
+Minden olyan személy, akinél jelentkezik az alábbi két tünet legalább egyike
 
-|  | Klinikai kritérium | Általános tünetek (fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés, hányás), láz, hőemelkedés és legalább egy az alábbi három tünet közül: - sárgaság, - sötét vizelet, - magas szérum aminotranszferáz szint. |
+- hasmenés,
 
-|  | Epidemiológiai kritérium | --- |
+- hasi fájdalom.
 
-|  | Laboratóriumi kritérium | - Hepatitis C vírus nukleinsav kimutatása a szérumban, - Anti-HCV ellenanyag konfirmált kimutatása a szérumban. |
+HUS (Haemolyticus uraemias szindróma)
 
-| 2.2. Elkülönítés: | A beteget a klinikai állapotától függően infektológiai osztályon, otthonában, vagy tartózkodási helyén a standard izoláció szabályai szerint kell elkülöníteni. |
+Bármely személy, akinél akut veseelégtelenség áll fenn és jelentkezik az alábbi két tünet legalább egyike:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | --- |
+- microangiopathias haemolytikus anaemia vagy
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegtől alvadásgátló nélkül vett vérmintát kell küldeni a járványügyi feladatok végzésére kijelölt mikrobiológiai laboratóriumba. |
+- thrombocytopenia.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Epidemiológiai kritérium
 
-| 2.4. Fertőtlenítés: | Folyamatos |
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-| 3. Teendők a beteg környezetében |
+- szennyezett élelmiszer, víz fogyasztása,
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Azokat a személyeket, akik a betegség inkubációs idejében a beteggel olyan kapcsolatba kerültek, hogy tőle fertőződhettek, fel kell kutatni. |
+- emberről emberre való terjedés,
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+- közös forrással való érintkezés,
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+- állatról emberre való terjedés,
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+- környezeti expozíció.
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+Laboratóriumi kritérium
 
-| 3.6. A terjesztő közeg felderítése: | Egészségügyi ellátással összefüggő megbetegedések halmozott előfordulása esetén kötelező. |
+Az alábbi négy feltétel legalább egyike?
 
-| Hepatitis E |
+- Shigatoxin-termelő vagy stx1/stx2 gén(eke)t hordozó E. coli izolálása,
 
-| BNO10: B17.2 |
+- szorbitot nem fermentáló E.coli O157 izolálása (shigatoxin vagy stx-gén kimutatása nélkül),
 
-| 1. Kórokozó: | Hepatitis E vírus |
+- szabad shigatoxin kimutatása székletből,
 
-| 2. Teendők a beteggel |
+- EHEC specifikus virulencia markerek (pl. stx1 vagy stx2 gén) kimutatása molekuláris módszerrel.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+Kizárólag HUS esetén a következő feltétel használható a STEC/VTEC megerősítésére szolgáló laboratóriumi kritériumként:
 
-|  | 2.1.1. Esetek osztályozása |
+- E.coli szerocsoport-specifikus (LPS) ellenanyagok kimutatása.
 
-|  | Gyanús eset | --- |
+2.2. Elkülönítés:
 
-|  | Valószínűsíthető eset | --- |
+Otthonában, tartózkodási helyén, fekvőbeteg-gyógyintézetben elkülönítendő a hasmenés fennállásáig.
 
-|  | Megerősített eset | Teljesül a klinikai és a laboratóriumi feltétel. |
+2.3. Mikrobiológiai vizsgálat:
 
-|  | 2.1.2. Feltételek |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Klinikai kritérium | Általános tünetek (fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés, hányás), láz, hőemelkedés és legalább egy az alábbi három tünet közül: - sárgaság, - sötét vizelet, - magas szérum aminotranszferáz szint. |
+Kötelező.
 
-|  | Epidemiológiai kritérium | --- |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Laboratóriumi kritérium | - IgM osztályba tartozó anti-HEV ellenanyagok megerősített kimutatása a szérumból, - HEV nukleinsav kimutatása a székletből vagy a szérumból. |
+Kötelező. A széklet diagnosztikus laboratóriumi vizsgálata kötelező. A mintát a járványügyi feladatok ellátására kijelölt laboratóriumba kell küldeni mikrobiológiai vizsgálatra. A kórokozó azonosítása az OEK referencia laboratóriumában történik. A diagnózis a székletből kitenyésztett törzsek toxintermelésének, illetve a toxinnak közvetlenül a székletből történő kimutatásán alapszik.
 
-| 2.2. Elkülönítés: | A kontakt izoláció szabályai szerint. |
+2.3.3. Felszabadító vizsgálat:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | --- |
+Csak azon személyeknél kell elvégezni, akik 0-6 éves gyermekek közösségébe járnak, vagy ilyen közösségekben, intézményekben gyermekellátással kapcsolatos veszélyeztető munkakörben dolgoznak, akik a közvetlen betegellátás során étel- és gyógyszerkiosztást végeznek; illetve akik hőkezelés nélkül közvetlenül közfogyasztásra kerülő élelmiszereket, ételeket, italokat kezelnek, közétkeztetésben, vízművekben dolgoznak; anyatejet adnak vagy kezelnek. Az ilyen személyek a közösség, intézmény látogatását, illetve foglalkozásukat, tevékenységüket csak akkor folytathatják, ha a gyógyulás (antibiotikus kezelés) után két nap múlva elkezdett, két egymást követő napon levett egy-egy székletminta bakteriológiai vizsgálata negatív eredménnyel jár.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegtől alvadásgátló nélkül vett vérmintát kell küldeni a járványügyi feladatok végzésére kijelölt területileg illetékes mikrobiológiai laboratóriumba. |
+2.4. Fertőtlenítés:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Folyamatos fertőtlenítés szükséges.
 
-| 2.4. Fertőtlenítés: | Folyamatos és zárófertőtlenítés szükséges. |
+3. Teendők a beteg környezetében
 
-| 3. Teendők a beteg környezetében |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Szükséges. |
+A beteg családi vagy intézeti környezetében élő személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 3.3. Járványügyi megfigyelés: | A beteggel érintkezett személyeket 40 napra járványügyi megfigyelés alá kell helyezni. |
+A járványügyi megfigyelés alá helyezett személyek közül kizárólag azoknál kell a megfigyelési idő alatt egy alkalommal székletbakteriológiai vizsgálatot végezni, akik a megjelölt intézményekbe járnak, illetve munkakörökben dolgoznak. A pozitív személyeket a kórokozó-hordozásuk tartamára járványügyi ellenőrzés alá kell helyezni, és a fenti intézmények látogatásától, illetve munkakörüktől el kell tiltani a székletbakteriológiai vizsgálat negatív eredményéig.
 
-| 3.4. Postexpozíciós profilaxis: | --- |
+3.3. Járványügyi megfigyelés:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+A pozitív személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a fenti közösség, intézmény látogatását, illetve munkakörüket, tevékenységüket csak akkor folytathatják, ha székletbakteriológiai vizsgálatuk negatív eredményt ad.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező megbetegedések halmozódása vagy járvány esetén. |
+3.4. Postexpozíciós profilaxis:
 
-| HBV fertőzés |
+Nem szükséges.
 
-| Újonnan diagnosztizált krónikus HBV fertőzés, BNO10: B18 |
+3.5. Fertőzőforrás-kutatás:
 
-| 1. Kórokozó: | Hepatitis B vírus |
+Kötelező.
 
-| 2. Teendők a beteggel |
+3.6. A terjesztő közeg felderítése:
 
-| 2.1. Jelentés: | Azokat a hepatitis B vírus hordozókat kell bejelenteni, akik HBV fertőzését első alkalommal regisztrálják. |
+Kötelező.
 
-| 2.1.1. A jelentendő eset meghatározása | Az adatgyűjtés az európai uniós surveillance célját szolgálja, az esetdefiníció elfogadása folyamatban van. |
+Egyéb patogén Escherichia coli okozta enteritisek
 
-| HCV fertőzés |
+Enterotoxikus E. coli enteritis (ETEC)
 
-| Újonnan diagnosztizált krónikus HCV fertőzés, BNO10: B18 |
+BNO10: A04.1
 
-| 1. Kórokozó: | Hepatitis C vírus. |
+1. Kórokozó:
 
-| 2. Teendők a beteggel |
+Az E. coli (hőlabilis-LT, illetve hőstabil-ST) enterotoxint termelő szerocsoportjai. A gyakoribb O szerocsoportok: O6, O15, O20, O27, O78, O115. A két toxin által kiváltott kórkép azonos.
 
-| 2.1. Jelentés: | Azokat a hepatitis C vírus hordozókat kell bejelenteni, akik HCV fertőzését első alkalommal regisztrálják. |
+2. Teendők a beteggel
 
-| 2.1.1. A jelentendő eset meghatározása | Az adatgyűjtés az európai uniós surveillance célját szolgálja, az esetdefiníció elfogadása folyamatban van. |
+2.1. Jelentés:
 
-| Keratoconjunctivitis epidemica |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
 
-| BNO10: B30.0 |
+2.1.1. Esetek osztályozása
 
-| 1. Kórokozó: | Adenovírus 8 típus, egyes esetekben más típus is, különösen a 3, 7, 11, 19, 29 stb. típus. |
+Gyanús eset
 
-| 2. Teendők a beteggel |
+-
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Egyidejűleg értesíteni kell a megyei/fővárosi szemész szakfelügyelő főorvost. |
+Valószínűsíthető eset
 
-|  | 2.1.1. Esetek osztályozása |
+Klinikai és epidemiológiai kritériumok megléte.
 
-|  | Gyanús eset |  | Minden olyan személy, akinél fennáll a klinikai kritériumok legalább egyike. |
+Megerősített eset
 
-|  | Valószínűsíthető eset | Minden olyan személy, akinél fennáll a klinikai feltétel és az epidemiológiai kapcsolat. |
+A klinikai és laboratóriumi kritériumok együttes megléte.
 
-|  | Megerősített eset | Minden olyan személy, akinél fennáll a klinikai kritérium és laboratóriumi kritérium. |
+2.1.2. Feltételek
 
-|  | 2.1.2. Feltételek |
+Klinikai kritérium
 
-|  | Klinikai kritérium | Az alábbi klinikai tünetek közül legalább egy: - belövellt conjunctiva, - idegentest-érzés a szemben, erős könnyezés, - a szemhéji kötőhártyán folliculusok, papillaris hypertrophia és a szaruhártyán apró tűszúrásnyi homályok. |
+Az alábbi három tünet:
 
-|  | Epidemiológiai kritérium | Epidemiológiai kapcsolat megerősített keratoconjunctivitis epidemica beteggel. |
+- hasmenés,
 
-|  | Laboratóriumi kritérium | Az alábbi laboratóriumi feltételek közül legalább egy: - Adenovírus izolálása conjunctiva-váladékból, - Adenovírus nukleinsav kimutatása PCR vizsgálattal conjunctiva-váladékból. |
+- hasi fájdalom,
 
-| 2.2. Elkülönítés: | Bentlakásos intézményben, közösségi szálláson, kórházi osztályon előfordult megbetegedés esetén a beteget el kell különíteni. |
+- hőemelkedés.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A területileg illetékes vírus-laboratóriumba előzetes megbeszélés alapján conjunctiva-váladék küldendő. |
+Epidemiológiai kritérium
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | --- |
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+- szennyezett élelmiszer fogyasztása,
 
-| 2.4. Fertőtlenítés: | A beteg szem- és orrváladékát, valamint az ezekkel szennyezett tárgyakat folyamatosan fertőtleníteni kell. |
+- szennyezett élelmiszer kezelése (ételkészítés),
 
-| 3. Teendők a beteg környezetében |
+- kapcsolat igazolt ETEC-fertőzött személlyel,
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+- endémiás területen való tartózkodás.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+Laboratóriumi kritérium
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+- ETEC izolálása székletből,
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+- ETEC izolálása élelmiszerből,
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+- az E. coli toxintermelő képességének kimutatása és szerotipizálása.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+2.2. Elkülönítés:
 
-| Kullancsencephalitis |
+Otthonában, tartózkodási helyén, fekvőbeteg gyógyintézetben elkülönítendő klinikai tünetek fennállásáig.
 
-| (Kullancs által terjesztett agyvelőgyulladás) Közép-európai kullancsencephalitis, BNO10: A84.1 |
+2.3. Mikrobiológiai vizsgálat:
 
-| 1. Kórokozó | A Flaviviridae családba tartozó közép-európai kullancsencephalitis-vírus. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 2. Teendők a beteggel |
+Kötelező.
 
-| 2.1. Jelentés | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Ha a megbetegedést előzőleg „meningitis serosa” vagy „encephalitis infectiosa” diagnózissal jelentették be, a bejelentést az aetiológia tisztázása után új jelentéssel kell módosítani. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-|  | 2.1.1. Esetek osztályozása |
+A széklet diagnosztikus laboratóriumi vizsgálata kötelező. A mintát a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba kell küldeni mikrobiológiai vizsgálatra. A kórokozó azonosítása az OEK referencia laboratóriumában történik. A diagnózis a székletből kitenyésztett törzsek toxintermelésének, illetve a toxinnak közvetlenül a székletből történő kimutatásán alapszik.
 
-|  | Gyanús eset | Nem alkalmazható (meningitis serosa vagy encephalitis infectiosa diagnózissal jelentendő). |
+2.3.3. Felszabadító vizsgalat:
 
-|  | Valószínűsíthető eset | − teljesül a klinikai feltételek legalább egyike és az epidemiológiai feltételek egyike, − teljesül a klinikai feltételek legalább egyike és a valószínűsíthető eset laboratóriumi feltétele. |
+Csak azon személyeknél kell elvegezni, akik 0-6 éves gyermekek közösségébe járnak, vagy ilyen közösségekben, intézményekben gyermekellátással kapcsolatos veszélyeztető munkakörben dolgoznak, akik a közvetlen betegellátás során étel- és gyógyszerkiosztást végeznek; illetve akik hőkezelés nélkül közvetlenül közfogyasztásra kerülő élelmiszereket, ételeket, italokat kezelnek, közétkeztetésben, vízművekben dolgoznak; anyatejet adnak vagy kezelnek. Az ilyen személyek a közösség, intézmény látogatását, illetve foglalkozásukat, tevékenységüket csak akkor folytathatják, ha a gyógyulás (antibiotikus kezelés) után két nap múlva elkezdett, két egymást követő napon levett egy-egy székletminta bakteriológiai vizsgálata negatív eredménnyel jár.
 
-|  | Megerősített eset | − teljesül a klinikai feltételek legalább egyike és a megerősített eset laboratóriumi feltételeinek legalább az egyike. |
+2.4. Fertőtlenítés:
 
-|  | 2.1.2. Feltételek |
+Folyamatos és zárófertőtlenítés szükséges.
 
-|  | Klinikai feltételek | − meningitis és/vagy encephalitis. |
+3. Teendők a beteg környezetében
 
-|  | Epidemiológiai feltételek | − állatról emberre való terjedés: kullancscsípés endémiás helyen a lappangási időben, − élelmiszerrel való terjedés: hőkezeletlen tej, vagy abból készült tejtermék fogyasztása. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | Laboratóriumi feltételek | A valószínűsíthető eset laboratóriumi feltétele: − vírus-specifikus IgM, illetve IgA kimutatása (a neutralizációtól eltérő módszerrel) egyetlen vérmintában. A megerősített eset laboratóriumi feltétele: − négyszeres titeremelkedés vagy szerokonverzió a rekonvaleszcens vérmintában, − a vírus-ellenes ellenanyagok jelenlétének igazolása vírusneutralizációval, vagy hemagglutináció gátlással, − a vírus nukleinsavának PCR vizsgálattal vagy vírusizolálással történő kimutatása a vérből, liquorból, vagy más klinikai mintából, − a vírus-specifikus IgM, illetve IgA kimutatása a vérből, és/vagy a központi idegrendszerből származó mintából. A vizsgálat eredményét a flavivírus (kullancsencephalitis, sárgaláz, stb. elleni) oltási státusz és esetleges korábbi flavivírus-fertőzésre (nyugat-nílusi láz, dengue, stb. átvészelésére) vonatkozó információk figyelembe vételével kell értékelni. |
+A beteg családi vagy intézeti környezetében élő személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett személyek közül kizárólag azoknál kell a megfigyelési idő alatt egy alkalommal székletbakteriológiai vizsgálatot végezni az OEK referencia laboratóriumában, akik a megjelölt intézményekbe járnak, illetve munkakörökben dolgoznak.
 
-| 2.2. Elkülönítés | Nem szükséges. A beteget klinikai állapotának megfelelően kell kórházba utalni. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 2.3. Mikrobiológiai vizsgálat | 2.3.1.Klinikai diagnosztikus mikrobiológiai vizsgálat | Kötelező. Differenciáldiagnosztikai vizsgálat kötelező (herpesvírusok, stb.). |
+Kötelező.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai laboratóriumi vizsgálat | Kötelező. A betegség gyanúja esetén alvadásgátló nélkül, sterilen vett vérmintát, és liquort kell küldeni szerológiai vizsgálatra az ÁNTSZ-OEK Virológiai főosztályára. A vérvételt 2–3 hét múlva meg kell ismételni. Diagnosztikus értéke a savópár vizsgálata alapján megállapított titeremelkedésnek vagy a specifikus IgM, illetve IgA kimutatásának van. |
+3.3. Járványügyi megfigyelés:
 
-|  | 2.3.3.Felszabadító vizsgálat | Nem szükséges. |
+A pozitív személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a fenti közösség, intézmény látogatását, illetve munkakörüket, tevékenységüket csak akkor folytathatják, ha székletbakteriológiai vizsgálatuk negatív eredményt ad.
 
-| 2.4. Fertőtlenítés | Nem szükséges. |
+3.4. Postexpozíciós profilaxis:
 
-| 3. Teendők a beteg környezetében |
+Nem szükséges.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása | Nem szükséges. |
+3.5. Fertőzőforrás-kutatás:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat | Nem szükséges. |
+Kötelező.
 
-| 3.3. Járványügyi megfigyelés | Azon személyek járványügyi megfigyelése szükséges, akik a beteggel közös expozíciónak voltak kitéve (azonos területen és időben történt kullancscsípés, forralatlan tej fogyasztása a lappangási időben). |
+3.6. A terjesztő közeg felderítése:
 
-| 3.4. Postexpozíciós profilaxis | Nem szükséges (az expozíciót követően beadott aktív védőoltás nem véd a betegség kialakulása ellen). |
+Kötelező.
 
-| 3.5. Fertőzőforrás-kutatás | Kötelező. Sporadikus esetben a lappangási időben látogatott tartózkodási helyek, a kullancscsípés helyének felderítése szükséges. Halmozott előfordulás esetén kutatni kell a közös expozíció után. |
+Enteroinvazív E. coli enteritis (EIEC)
 
-| 3.6. A terjesztő közeg felderítése | Kötelező. Sporadikus és halmozott előfordulás esetén is szükséges hőkezeletlen tej, tejtermék lappangási időben történt fogyasztásának felderítése. |
+BNO10: A04.2
 
-| Legionellosis |
+1. Kórokozó:
 
-| Legionárius betegség, BNO10: A48.1 |
+Az enteroinvazív E. coli a shigella-baktériumhoz hasonlóan plazmidhoz kötött képessége révén képes az epithel sejtbe behatolni. Leggyakoribb az O124, ritkább az O28ac, O112ac, O136, O143, O144, O152, 0164, 0167 szerocsoport.
 
-| 1. Kórokozó: | Különböző legionella fajok. |
+2. Teendők a beteggel
 
-| 2. Teendők a beteggel |
+2.1. Jelentés:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Az utazással összefüggő legionárius megbetegedés az értesülést követően sürgőséggel is jelentendő, hogy a járványügyi adatok továbbíthatók legyenek az Európai Unió „Utazással Összefüggő Legionárius Betegség Surveillance Rendszer” adatbázisába. (Utazási kritérium: a beteg a betegség kezdetét megelőző 2–10 napon belül legalább egy éjszakát otthonán kívül a lakóhelye szerinti országban vagy külföldön, bérelt szálláshelyen töltött.) |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
 
-|  | 2.1.1. Esetek osztályozása |
+2.1.1. Esetek osztályozása
 
-|  | Gyanús eset |  | --- |
+Gyanús eset
 
-|  | Valószínűsíthető eset | Tüdőgyulladással járó megbetegedés és a valószínűsíthető eset laboratóriumi kritériumai közül legalább az egyik fennáll. |
+-
 
-|  | Megerősített eset | Tüdőgyulladással járó megbetegedés és a megerősített eset laboratóriumi kritériumai közül legalább az egyik fennáll. |
+Valószínűsíthető eset
 
-|  | 2.1.2. Feltételek |
+Klinikai és epidemiológiai kritériumok megléte.
 
-|  | Klinikai kritérium | Tüdőgyulladás. |
+Megerősített eset
 
-|  | Epidemiológiai kritérium | --- |
+A klinikai és laboratóriumi kritériumok együttes megléte.
 
-|  | Laboratóriumi kritérium | A valószínűsíthető eset laboratóriumi feltétele: - Legionella pneumophila antigén kimutatása légúti váladékból vagy tüdőszövetből például monoklonális ellenanyag felhasználásával végzett direkt immunfluoreszcens festéssel, - Legionella DNS kimutatása PCR vizsgálattal légúti váladékból, tüdőszövetből vagy egyéb normálisan steril helyről vett testváladékból, - Szerokonverzióval: Legionella pneumophila nem 1-es szerocsoportja és más Legionella fajok ellen termelődő specifikus ellenanyagok négyszeres vagy nagyobb arányú titerváltozása, -Legionella pneumophila 1-es szerocsoportja ellen termelődő specifikus ellenanyagok jelenlétének kimutatása egyetlen vérsavóból magas titerben (1:128). A megerősített eset laboratóriumi feltétele: - antigén kimutatással: Legionella pneumophila antigén kimutatása vizeletből, - tenyésztéssel: Legionella kórokozó kimutatása légúti váladékból vagy egyéb normálisan steril helyről vett testváladékból, - szerokonverzióval: Legionella pneumophila 1-es szerocsoportja ellen termelődő specifikus ellenanyagok négyszeres vagy nagyobb arányú titerváltozása. |
+2.1.2. Feltételek
 
-| 2.2. Elkülönítés: | Nem szükséges. |
+Klinikai kritérium
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Klinikai mikrobiológiai diagnosztikai vizsgálat céljából szerológiai vizsgálatra alvadásgátló nélkül levett vért, antigén-kimutatásra vizeletet kell beküldeni mikrobiológiai laboratóriumba. A specifikus Legionella antigén vizeletből történő, illetve a kórokozó légúti vizsgálati anyagból való kimutatása az antibiotikummal még nem kezelt személy megbetegedésének 2–5. napja között lehetséges. Savópár beküldése a megbetegedés kezdetétől számított 10–12. napon és az azt követő 2 hét múlva esedékes. |
+Az alábbi tünetek legalább egyike:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Járványügyi érdekből végzett diagnosztikus vizsgálat céljából tenyésztésre légúti vizsgálati anyagot (például bronchus váladék, BAL, pleuropunktátum, bronchoszkópos minta, mélylégúti köpet) vagy egyéb normálisan steril helyről vett testváladékot kell beküldeni az ÁNTSZ-OEK bakteriológiai osztályára. |
+- hasmenés,
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+- hasi fájdalom.
 
-| 2.4.Fertőtlenítés: | Folyamatos és zárófertőtlenítés szükséges. |
+Epidemiológiai kritérium
 
-| 3. Teendők a beteg környezetében |
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+- szennyezett élelmiszer/víz fogyasztása,
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+- kapcsolat igazolt EIEC-fertőzött személlyel.
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+Laboratóriumi kritérium
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+- Az EIEC izolálása székletből vagy vérből,
 
-| 3.5. Fertőzőforrás-kutatás: | Nem szükséges. |
+- az enteroinvasivitásért felelős plazmid-DNS kimutatása.
 
-| 3.6. A terjesztő közeg felderítése: | A legionárius betegség esetekkel kapcsolatos epidemiológiai kivizsgálás, továbbá a megelőző és kontroll tevékenység részletes leírását az ÁNTSZ-OEK által kiadott módszertani levél tartalmazza. A járványügyi kivizsgálás során a környezeti Legionella kimutatást (mintavétel, vizsgálat és értékelés) az ÁNTSZ-OKK Vízmikrobiológiai Osztálya végzi. |
+2.2. Elkülönítés:
 
-| Lepra |
+Otthonában, tartózkodási helyén, fekvőbeteg gyógyintézetben elkülönítendő a hasmenés fennállásáig.
 
-| BNO10: A30 |
+2.3. Mikrobiológiai vizsgálat:
 
-| 1. Kórokozó: | Mycobacterium leprae |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 2. Teendők a beteggel |
+Kötelező.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. Az értesülést követően az eset sürgőséggel is jelentendő. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-|  | 2.1.1. Esetek osztályozása |
+Kötelező. A széklet diagnosztikus laboratóriumi vizsgálata kötelező. A székletmintát diagnosztikus vizsgálatra a járványügyi feladat ellátására kijelölt laboratóriumba kell küldeni. A kórokozó azonosítása az OEK referencia laboratóriumában történik.
 
-|  | Gyanús eset | --- |
+2.3.3. Felszabadító vizsgálat:
 
-|  | Valószínűsíthető eset | --- |
+Csak azon személyeknél kell elvégezni, akik 0-6 éves gyermekek közösségébe járnak, vagy ilyen közösségekben, intézményekben gyermekellátással kapcsolatos veszélyeztető munkakörben dolgoznak, akik a közvetlen betegellátás során étel- és gyógyszerkiosztást végeznek; illetve akik hőkezelés nélkül közvetlenül közfogyasztásra kerülő élelmiszereket, ételeket, italokat kezelnek, közétkeztetésben, vízművekben dolgoznak; anyatejet adnak vagy kezelnek. Az ilyen személyek a közösség, intézmény látogatását, illetve foglalkozásukat, tevékenységüket csak akkor folytathatják, ha a gyógyulás (antibiotikus kezelés) után két nap múlva elkezdett, két egymást követő napon levett egy-egy székletminta bakteriológiai vizsgálata negatív eredménnyel jár.
 
-|  | Megerősített eset | Minden olyan személy, akinél teljesülnek a klinikai és laboratóriumi feltételek. |
+2.4. Fertőtlenítés:
 
-|  | 2.1.2. Feltételek |
+Folyamatos fertőtlenítés szükséges.
 
-|  | Klinikai kritérium | Az alábbi négy klinikai kép legalább egyike: - Tuberculoid forma: egy vagy kevés számú, határozott szegélyű, középpontból kiinduló, pigmenthiányos bőrelváltozás; előfordulhat az érző idegvégződések megnagyobbodása, - Lepromatosus forma: az arcon, kézen és lábon szimmetrikusan és bilaterálisan számos erythematosus papula, csomó vagy beszűrődéses bőrelváltozás megjelenése, - Borderline (átmeneti) forma: a tuberculoid és a lepromatosus formákra jellemző bőrelváltozások megjelenése, - Indeterminált (határozatlan, bizonytalan) forma: pigmenthiányos makulák, korai stádiumra jellemző kóros bőrelváltozások megjelenése, kezelés nélkül átmehet tuberculoid, lepromatosus vagy bordeline formába is. |
+3. Teendők a beteg környezetében
 
-|  | Epidemiológiai kritérium | --- |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | Laboratóriumi kritérium | A lepromatosus bőrelváltozásból származó biopsziás mintában, illetve a beteg orrnyálkahártyájáról vett mintában savállóan festődő, pálca alakú baktérium kimutatása. |
+A beteg családi vagy intézeti környezetében élő személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett személyek közül kizárólag azoknál kell a megfigyelési idő alatt egy alkalommal székletbakteriológiai vizsgálatot végezni az OEK referencia laboratóriumában, akik a megjelölt intézményekbe járnak, illetve munkakörökben dolgoznak.
 
-| 2.2. Elkülönítés: | Csak azokat a betegeket kell kórházba utalni, akiknek a megbízható kezelése otthon nem lehetséges vagy szociális helyzete ezt indokolja. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Kötelező.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A beteg orrnyálkahártyájáról és a leprás csomókból vett szövetkaparék, festési vizsgálat céljára, egyidejű telefon vagy fax értesítés mellett, haladéktalanul az ÁNTSZ-OEK II. sz. Bakteriológiai osztályára küldendő. Biopsiás vagy boncolási anyagot kórszövettani vizsgálatra 8%-os formalinban a Szent László Kórház Kórbonctani osztályára kell küldeni. A vizsgálati anyag elküldését telefonon előre jelezni kell. |
+3.3. Járványügyi megfigyelés:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+A pozitív személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a fenti közösség, intézmény látogatását, illetve munkakörüket, tevékenységüket csak akkor folytathatják, ha székletbakteriológiai vizsgálatuk negatív eredményt ad.
 
-| 2.4. Fertőtlenítés: | Szigorított folyamatos és zárófertőtlenítés szükséges. |
+3.4. Postexpozíciós profilaxis:
 
-| 3. Teendők a beteg környezetében |
+Nem szükséges.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A beteggel hosszú ideig tartó szorosabb együttélés esetén, illetve szoptatós anyáknál szükséges. |
+3.5. Fertőzőforrás-kutatás:
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | A beteggel szoros kapcsolatban lévő családtagokat 5 éven át 12 hónaponként járványügyi érdekből végezett mikrobiológiai szűrővizsgálat céljából bakteriológiai vizsgálatnak kell alávetni (orrkaparék). |
+Kötelező.
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+3.6. A terjesztő közeg felderítése:
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Kötelező.
 
-| 3.5. Fertőzőforrás-kutatás: | Nem szükséges. |
+Enteropathogen E. coli enteritis (EPEC)
 
-| 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
+BNO10: A04.0
 
-| Leptospirosis |
+1. Kórokozó:
 
-| BNO10: A27 |
+Enteropathogen Escherichia coli (EPEC/E. coli dyspepsiae) szerocsoportjai; leggyakrabban O111 és O55, továbbá O26, O86, O119, O125, O126, O127, O128 stb.
 
-| 1. Kórokozó: | A Leptospira interrogans species több mint 300 szerotípusa. |
+2. Teendők a beteggel
 
-| 2. Teendők a beteggel |
+2.1. Jelentés:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. A megbetegedésről értesíteni kell a területileg illetékes hatósági állatorvost is. |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
 
-|  | 2.1.1. Esetek osztályozása |
+2.1.1. Esetek osztályozása
 
-|  | Gyanús eset | A lázzal és vérzésekkel, vagy lázzal és veseelégtelenséggel, vagy lázzal és sárgasággal járó megbetegedés. |
+Gyanús eset
 
-|  | Valószínűsíthető eset | - teljesül a klinikai feltételek legalább egyike és az epidemiológiai feltételek egyike, - teljesül a klinikai feltételek legalább egyike és a microagglutinációs laboratóriumi feltétel. |
+-
 
-|  | Megerősített eset | Teljesül a klinikai feltételek egyike és a laboratóriumi feltételek közül a nukleinsav kimutatás vagy az izoláció. |
+Valószínűsíthető eset
 
-|  | 2.1.2. Feltételek |
+- Klinikai és epidemiológiai kritériumok megléte vagy
 
-|  | Klinikai kritérium | Minden olyan személy, akinél jelentkezik az alábbi tünet: - láz és az alábbi nyolc tünet, illetve tünetegyüttes legalább egyike: - tavasztól őszig terjedő időszakban hidegrázás, fejfájás és izomfájdalom, - sárgaság, - veseelégtelenség, - kötőhártya-bevérzés, - agyhártyagyulladás, - bőr- és nyálkahártya-vérzés, - kiütések, - szívizomgyulladás. |
+- az adhézióért felelős gén kimutatása.
 
-|  | Epidemiológiai kritérium | Az alábbi három epidemiológiai kapcsolat legalább egyike: - állatról emberre való terjedés, - környezeti expozíció, - közös forrással való érintkezés. |
+Megerősített eset
 
-|  | Laboratóriumi kritérium | Az alábbi eredmények egyike: - a microagglutinációs módszerrel meghatározott titer négyszeres emelkedést mutat, - Leptospira interrogans nukleinsav kimutatása klinikai mintában, - Leptospira interrogans izolálása klinikai mintából. |
+- A klinikai és laboratóriumi kritériumok együttes megléte.
 
-| 2.2. Elkülönítés: | Nem szükséges. |
+2.1.2. Feltételek
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Klinikai kritérium
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. 5–10 ml alvadásgátló nélkül, sterilen vett vérmintát kell az ÁNTSZ-OEK Bakteriális Zoonózisok Nemzeti Referencia-laboratóriumába vagy az illetékes kormányhivatal leptospirosis vizsgálatokra kijelölt, járványügyi feladatokat ellátó laboratóriumába küldeni. A pozitív eredményt a referencia-laboratóriumban mikroszkópos lízis-agglutinációs módszerrel kell megerősíteni. A referencia-laboratóriummal történt előzetes megbeszélés alapján tenyésztésre is lehet vizeletet küldeni. A kórokozó szerotípusát rendszerint csak ismételt vizsgálattal lehet megállapítani. Immunszerológiai vizsgálatra esetleg liquor cerebrospinális is küldendő. |
+Az alábbi tünetek legalább egyike:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+- hasmenés,
 
-| 2.4. Fertőtlenítés: | Nem szükséges. |
+- hasi fájdalom,
 
-| 3. Teendők a beteg környezetében |
+- láz.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+Epidemiológiai kritérium
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. Azon személyek klinikai megfigyelése szükséges, akik a beteggel közös expozíciónak voltak kitéve. |
+- szennyezett élelmiszer fogyasztása,
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+- szennyezett élelmiszerrel való érintkezés (ételkészítés),
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. Kutatni kell a fertőzött állat, állat-állomány után. |
+- kapcsolat igazolt EPEC-fertőzött személlyel.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. Fel kell deríteni a fertőzést terjesztő szennyezett vizet. |
+Laboratóriumi kritérium
 
-| Listeriosis |
+- EPEC izolálása székletből,
 
-| BNO: A32 |
+- az adhézióért felelős gén kimutatása.
 
-| 1. Kórokozó: | Listeria monocytogenes. |
+2.2. Elkülönítés:
 
-| 2. Teendők a beteggel |
+Otthonában, tartózkodási helyén, fekvőbeteg vagy kijelölt gyógyintézetben elkülönítendő, míg a klinikai gyógyulás és az antibiotikus kezelés befejezése után 48 órával elkezdett, 2 egymást követő napon vett székletminta vizsgálata negatív eredményt nem ad. Az elkülönítést lehetőleg fertőző osztályon kell végrehajtani. Ha erre nincsenek meg a megfelelő feltételek, a többi csecsemőtől jól elkülöníthető helyen kell ápolni, és az ápoláshoz külön személyzetet és eszközöket kell biztosítani. A csecsemő olyan gyermekosztályon is elkülöníthető, ahol csak egy évesnél idősebb és egyéb okok miatt (pl. atrophia) nem veszélyeztetett gyermekeket ápolnak.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+2.3. Mikrobiológiai vizsgálat:
 
-|  | 2.1.1. Esetek osztályozása |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Gyanús eset | --- |
+Kötelező. A betegség korai szakában, a vizsgálat: antibiotikus kezelés megkezdése előtt vett székletet vagy a végbélből vattapálcikával vett váladékot kell küldeni diagnosztikus vizsgálatra a területileg illetékes laboratóriumba.
 
-|  | Valószínűsíthető eset | Minden olyan személy, akire teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kritériumok legalább egyike. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Megerősített eset | Minden olyan személy, akire teljesül a laboratóriumi kritérium vagy minden olyan anya, akinek magzatánál, halva született csecsemőjénél vagy újszülöttjénél a listeriosis-fertőzést laboratóriumilag megerősítették. |
+Kötelező. A mintát a járványügyi feladatok elvégzésre kijelölt laboratóriumba kell küldeni mikrobiológiai vizsgálatra. A kórokozó azonosítása az OEK referencia laboratóriumában történik.
 
-|  | 2.1.2. Feltételek |
+2.3.3. Felszabadító vizsgálat:
 
-|  | Klinikai kritérium | Újszülött listeriózisa a következő formában: halvaszületés vagy az első hónap során az alábbi öt tünet közül legalább egy megléte: - Granulomatosis infantiseptica, - agyhártyagyulladás vagy meningoencephalitis, - vérmérgezés, - nehézlégzés, - elváltozások a bőrön, a nyálkahártyán vagy a kötőhártyán. Terhesség alatti listeriosis az alábbi három tünet legalább egyikének megléte alapján: - vetélés, halva születés, koraszülés, - láz, - influenzaszerű tünetek. A listeriosis egyéb formái az alábbi négy tünet legalább egyikének megléte alapján: - láz, - agyhártyagyulladás vagy meningoencephalitis, - vérmérgezés, - lokalizált fertőzések, például ízületi gyulladás, szívbelhártya-gyulladás, tályogok. |
+Csak azon személyeknél kell elvégezni, akik 0-6 éves gyermekek közösségébe járnak, vagy ilyen közösségekben, intézményekben gyermekellátással kapcsolatos veszélyeztető munkakörben dolgoznak, akik a közvetlen betegellátás során étel- és gyógyszerkiosztást végeznek; illetve akik hőkezelés nélkül közvetlenül közfogyasztásra kerülő élelmiszereket, ételeket, italokat kezelnek, közétkeztetésben, vízművekben dolgoznak; anyatejet adnak vagy kezelnek. Az ilyen személyek a közösség, intézmény látogatását, illetve foglalkozásukat, tevékenységüket csak akkor folytathatják, ha a gyógyulás (antibiotikus kezelés) után két nap múlva elkezdett, két egymást követő napon levett egy-egy székletminta bakteriológiai vizsgálata negatív eredménnyel jár.
 
-|  | Epidemiológiai kritérium | - Közös forrással való érintkezés, - emberről emberre való terjedés (vertikális terjedés), - szennyezett élelmiszer fogyasztása. |
+2.4. Fertőtlenítés:
 
-|  | Laboratóriumi kritérium | - Listeria monocytogenes izolálása normálisan steril helyről vett testváladékból. - Listeria monocytogenes izolálása normálisan nem steril helyről vett testváladékból magzatnál, halvaszületett csecsemőnél, újszülöttnél vagy a szülést követő 24 órán belül az anyánál. |
+Folyamatos és zárófertőtlenítés szükséges.
 
-| 2.2. Elkülönítés: |  | Nem szükséges. |
+3. Teendők a beteg környezetében
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Tenyésztés céljára alvadásgátlóval levett vér, liquor, továbbá genny, méhűri váladék, vizelet, faeces és torokváladék küldendő bakteriológiai laboratóriumba. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Járványos előfordulás esetén az első diagnosztikus vizsgálatot a járványügyi feladatok ellátására kijelölt laboratóriumban kell végezni. |
+A beteg gondozóit és a környezetében élő csecsemőket 7 napig járványügyi megfigyelés alá kell helyezni, és ki kell tiltani csecsemők közösségének látogatásától és ilyen közösségekben/intézményekben csecsemők ellátásával kapcsolatos munkakörtől, az anyatej adásától és kezelésétől. A csecsemő, illetve a gondozó kitiltását addig kell fenntartani, míg a székletminta vizsgálata egy alkalommal negatív eredményt ad.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 2.4. Fertőtlenítés: | Folyamatos fertőtlenítés végzendő. |
+Kötelező.
 
-| 3. Teendők a beteg környezetében |
+3.3. Járványügyi megfigyelés:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+A pozitív személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a fenti közösség, intézmény látogatását, illetve munkakörüket, tevékenységüket csak akkor folytathatják, ha székletbakteriológiai vizsgálatuk negatív eredményt ad.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+3.4. Postexpozíciós profilaxis:
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+Nem szükséges.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+3.5. Fertőzőforrás-kutatás:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+Kötelező.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. |
+3.6. A terjesztő közeg felderítése:
 
-| Lyme-kór |
+Kötelező.
 
-| BNO10: A69.2 |
+Teendők a kórházi újszülött, koraszülött, illetve csecsemőosztályon vagy csecsemőket is gondozó gyermekintézményben történt megbetegedés esetén:
 
-| 1. Kórokozó: | Borrelia burgdorferi sensulato csoportba tartozó humán patogén spirocheták. |
+A beteg környezetében lévő csecsemőket és dolgozókat 7 napra járványügyi megfigyelés alá kell helyezni, és az intézményben, kórházi osztályon vagy – ha a gondozó személye nem közös más szobákéval – annak érintett szobájában felvételi zárlatot kell elrendelni. A zárlat alatt kibocsátottak zárójelentésében fel kell tüntetni a beteggel történt utolsó kontaktus időpontját, és megfigyelésüket a járási hivatalnak kell folytatnia. A felvétel megindulhat, ha a zárófertőtlenítés megtörtént, és a tünetmentes ápoltak és gondozóik székletmintájának vizsgálata negatív eredményt ad.
 
-| 2. Teendők a beteggel |
+Enteroaggregatív E. coli enteritis (EAggEC)
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. |
+BNO10: A04.4
 
-|  | 2.1.1. Esetek osztályozása |
+1. Kórokozó:
 
-|  | Gyanús eset |  | Teljesülnek a klinikai feltételek közül az erythema migransnak megfelelő feltételek. |
+Egyedi adhéziós képességgel rendelkező E. coli baktérium. Gyakori szerocsoportjai pl. O3:H2 és O44:H18. A fejlődő országokban a csecsemők hasmenésének gyakori kórokozója. Utazással összefüggő és visszatérő vagy immunszuppresszált betegek (pl. AIDS) körében megjelenő hasmenések kórokozója lehet.
 
-|  | Valószínűsíthető eset | Teljesül a korai neuroboreliosisnak megfelelő klinikai feltételek egyike és az epidemiológiai feltétel. |
+2. Teendők a beteggel
 
-|  | Megerősített eset | Teljesül legalább egy klinikai és egy laboratóriumi feltétel. |
+2.1. Jelentés:
 
-|  | 2.1.2. Feltételek |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
 
-|  | Klinikai kritérium | A két klinikai feltétel egyike - erythema migrans: 5 cm-nél nagyobb, növekvő vöröses vagy kékeslila bőrpír/folt, gyakran terjedő széllel, - korai neuroborreliosis: az alábbi három klinikai feltétel egyike - acut, fájdalmas radiculoneuritis, - valamely agyideget érintő acut paralysis - meningitis, a liquorban lymphocytas pleocytosis. |
+2.1.1. Esetek osztályozása
 
-|  | Epidemiológiai kritérium | Kullancscsípés az anamnézisben. |
+Gyanús eset
 
-|  | Laboratóriumi kritérium | - eythema migrans: laboratóriumi vizsgálat nem szükséges, - korai neuroborreliosis: a két kritérium legalább egyike - intrathecalisan termelődő specifikus ellenanyagok kimutatása, - B.burgdorferi izolálása vagy nukleinsavának kimutatása (pl. PCR-vizsgálattal) klinikai mintából. |
+-
 
-| 2.2. Elkülönítés: | Nem szükséges. |
+Valószínűsíthető eset
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Erythema migrans-t kivéve kötelező. A nem bejelentendő klinikai formák (izületi, cardiális, késői neuroborreliosis, késői bőrmanifesztáció) diagnosztikus vizsgálata bármely klinikai mikrobiológiai laboratóriumban elvégezhető. |
+- Klinikai és epidemiológiai kritériumok megléte vagy
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Erythema migrans esetén nem kell, korai neuroborreliosis gyanúja esetén kötelező. Szerológiai vizsgálatok előzetes megbeszélést követően az ÁNTSZ-OEK-ben, illetve ezen szerológiai vizsgálatra felkészült, járványügyi feladat ellátására kijelölt laboratóriumban. Szerológiai vizsgálat csak specifikus tünetek jelentkezésekor, és megfelelő anamnézis (ismert kullancsexpozíció vagy legalábbis a páciens mozgástere alapján ennek valószínűsíthetősége) esetén indokolt. Szerológiai vizsgálatra alvadásgátló nélkül levett vért, neuroborreliosis gyanúja esetén egy napon levett vér- és liquormintát kell beküldeni a laboratóriumba. |
+- EAggEC specifikus gén(ek) kimutatása.
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Megerősített eset
 
-| 2.4. Fertőtlenítés: | Nem szükséges. |
+A klinikai és laboratóriumi kritériumok együttes megléte.
 
-| 3. Teendők a beteg környezetében |
+2.1.2. Feltételek
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+Klinikai kritérium
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+Az alábbi tünetek legalább egyike:
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+- hasmenés,
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+- hasi fájdalom.
 
-| 3.5. Fertőzőforrás-kutatás: | Nem szükséges. |
+Epidemiológiai kritérium
 
-| 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-| Lymphogranuloma venereum |
+- szennyezett élelmiszer fogyasztása,
 
-| BNO10: A55 |
+- szennyezett tárggyal való érintkezés,
 
-| 1. Kórokozó: | Chlamydia trachomatis L1, L2 és L3 szerotípusok. |
+- kapcsolat igazolt EAggEC-fertőzött személlyel.
 
-| 2. Teendők a beteggel |
+Laboratóriumi kritérium
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a megerősített eset. |
+- EAggEC izolálása székletből és
 
-|  | 2.1.1. Esetek osztályozása |
+- EAggEC specifikus gén(ek) kimutatása.
 
-|  | Gyanús eset | --- |
+2.2. Elkülönítés:
 
-|  | Valószínűsíthető eset | Minden olyan személy, akinél teljesülnek a klinikai feltételek és fennáll az epidemiológiai kapcsolat. |
+A beteg és a kórokozó-hordozó csecsemőt a nem fertőzött csecsemőktől el kell különíteni.
 
-|  | Megerősített eset | Minden olyan személy, akinél teljesülnek a laboratóriumi feltételek. |
+2.3. Mikrobiológiai vizsgálat:
 
-|  | 2.1.2. Feltételek |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Klinikai kritérium | Az alábbi öt tünet legalább egyike: - húgycsőgyulladás, - genitális fekély, - lágyék nyirokcsomó-duzzanata, - méhnyakgyulladás, - végbélgyulladás. |
+Kötelező.
 
-|  | Epidemiológiai kritérium | Laboratóriumi vizsgálattal igazoltan lymphogranuloma venereumban szenvedő beteggel (fertőzöttel) történt szexuális kapcsolat inkubációs időn belül, vagy endémiás területen történt tartózkodás alatt szexuális kapcsolat inkubációs időn belül. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-|  | Laboratóriumi kritérium | Az alábbi két feltétel legalább egyike: - A Chlamydia trachomatis izolálása urogenitális területről vagy rectumból vett mintából, - A Chlamydia trachomatis nukleinsav kimutatása klinikai mintában, és - az L1, L2 vagy L3 szerotípus (genotípus) azonosítása. |
+Kötelező. A betegség korai szakában, az antibiotikus kezelés megkezdése előtt vett székletet vagy a végbélből vattapálcikával vett váladékot tovább kell küldeni diagnosztikus vizsgálatra az OEK referencia laboratóriumába.
 
-| 2.2. Elkülönítés: | Nem szükséges. |
+2.3.3. Felszabadító vizsgálat:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Az elkülönítés addig tart, míg a klinikai gyógyulás és az antibiotikus kezelés befejezése után 48 órával elkezdett, 2 egymást követő napon vett székletminta vizsgálata negatív eredményt nem ad.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Mikrobiológiai vizsgálat céljából a hámsejtdús urogenitális váladék, illetve a buboaspirátum az ÁNTSZ-OEK II. sz. Bakteriológiai osztályára küldendő. |
+2.4. Fertőtlenítés:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+Folyamatos fertőtlenítés szükséges.
 
-| 2.4. Fertőtlenítés: | Nem szükséges. |
+3. Teendők a beteg környezetében
 
-| 3. Teendők a beteg környezetében |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A veszélyeztetett szexuális partnerek felkutatása kötelező. Veszélyeztetettnek tekintendő az a személy, akinek a papulovesiculosus stádiumot megelőzően 21, a lymphadenopathiás stádiumot megelőzően 42 napon belül fertőzött egyénnel volt szexuális kapcsolata. |
+A beteg gondozóit és a környezetében élő csecsemőket 7 napig járványügyi megfigyelés alá kell helyezni, és ki kell tiltani csecsemők közösségének látogatásától és ilyen közösségekben, intézményekben csecsemők ellátásával kapcsolatos munkakörtől, az anyatej adásától és kezelésétől.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Kötelező, a lymphogranuloma venereumban szenvedő beteg tünetmentes kontaktjainak mintái szűrővizsgálat céljából az ÁNTSZ-OEK-ba küldendők. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+Kötelező.
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+3.3. Járványügyi megfigyelés:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. |
+A csecsemő, illetve a gondozó kitiltását addig kell fenntartani, míg a székletminta vizsgálata egy alkalommal negatív eredményt ad.
 
-| Lyssa (Rabies) |
+3.4. Postexpozíciós profilaxis:
 
-| Veszettség, BNO10: A82 |
+Nem szükséges.
 
-| 1. Kórokozó: | Rabies vírus (Lyssavírus genus, Rhabdovírus család). |
+3.5. Fertőzőforrás-kutatás:
 
-| 2. Teendők a beteggel |
+Kötelező.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset, amely sürgőséggel is jelentendő. Egy megbetegedést csak egyszer kell bejelenteni. |
+3.6. A terjesztő közeg felderítése:
 
-|  | 2.1.1. Esetek osztályozása |
+Kötelező.
 
-|  | Gyanús eset | Teljesülnek a klinikai feltételek. |
+Teendők a kórházi újszülött, koraszülött, illetve csecsemőosztályon vagy csecsemőket is gondozó gyermekintézményben történt megbetegedés esetén:
 
-|  | Valószínűsíthető eset | Teljesülnek a klinikai feltételek és fennáll az epidemiológiai feltételek egyike. |
+A beteg környezetében lévő csecsemőket és dolgozókat 7 napra járványügyi megfigyelés alá kell helyezni, és az intézményben, kórházi osztályon vagy – ha a gondozó személye nem közös más szobákéval – annak érintett szobájában felvételi zárlatot kell elrendelni. A zárlat alatt kibocsátottak zárójelentésében fel kell tüntetni a beteggel történt utolsó kontaktus időpontját, és megfigyelésüket a járási hivatalnak kell folytatnia. A felvétel megindulhat, ha a zárófertőtlenítés megtörtént, és a tünetmentes ápoltak és gondozóik székletmintájának vizsgálata negatív eredményt ad.
 
-|  | Megerősített eset | Teljesülnek a klinikai feltételek és a laboratóriumi feltételek legalább egyike. |
+Diffúz adheziós E. coli enteritis (DAEC)
 
-|  | 2.1.2. Feltételek |
+BNO10: A04.4
 
-|  | Klinikai kritérium | Akut agyvelőgyulladás (encephalomyelitis) és az alábbi hét tünet közül legalább kettő: - állat okozta harapás helyén szenzoros változások, - parézis vagy paralízis, - garatizmok görcsei, - hydrophobia, - delírium, - görcsroham, - szorongás. |
+A kórokozóra jellemző a diffúz aggregatív adhéziós képesség. A patomechanizmus multifaktoriális. Megbetegedés elsősorban gyermekkorúakat érint. A megbetegedés gyanúja esetén a mintát az OEK referencia laboratóriumába kell küldeni vizsgálatra.
 
-|  | Epidemiológiai kritérium | - állatról emberre való terjedés (olyan állat, amelynél a betegség gyaníthatóan vagy bizonyítottan fennáll), - közös forrással való érintkezés (ugyanaz az állat), - emberről emberre való terjedés (pl. szervátültetés). |
+Febris flava
 
-|  | Laboratóriumi kritérium | - A Lyssa-vírus izolálása klinikai mintából. - A Lyssa-vírus nukleinsav kimutatása klinikai mintában (pl. nyál vagy agyszövet). - Vírus antigének kimutatása klinikai mintában. - Lyssa-vírussal szembeni specifikus ellenanyagok kimutatása vírus-neutralizációs próbával vérsavóban vagy liquorban. A laboratóriumi eredményeket az oltottsági státus szerint kell értelmezni. |
+BNO10: A95
 
-| 2.2. Elkülönítés: | A veszettségben szenvedő beteget az intenzív ellátást biztosító kijelölt egészségügyi intézményben (Fővárosi Szent László Kórház) kell elkülöníteni. |
+1. Kórokozó:
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1.Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Sárgaláz vírusa, mely a Flaviviridae családba tartozik.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A Rabies vírus kimutatására a betegnél elvégezhető a cornea kaparék immunfluorescens vizsgálata az ÁNTSZ-OEK-ban. |
+2. Teendők a beteggel
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+2.1. Jelentés:
 
-| 2.4. Fertőtlenítés: | Folyamatos fertőtlenítés szükséges. |
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et.
 
-| 3. Teendők a beteg környezetében |
+2.1.1. Esetek osztályozása
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+Gyanús eset
 
-| 3.2.Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+-
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+Valószínűsíthető eset
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Teljesülnek a klinikai és az epidemiológiai feltételek.
 
-| 3.5.Fertőzőforrás-kutatás: | Kötelező. |
+Megerősített eset
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező, az expozíciótól függően (pl. igazoltan veszett szarvasmarha teje). |
+Teljesülnek a klinikai és a laboratóriumi feltételek (ha a beteg a közelmúltban sárgaláz elleni oltást kapott, akkor a vad vírus izolálásának van diagnosztikus értéke).
 
-| Madárinfluenza |
+2.1.2. Feltételek
 
-| BNO10: J10 |
+Klinikai kritérium
 
-| 1. Kórokozó: | Az orthomyxoviridae családba tartozó, fokozott patogenitású madárinfluenza-vírusok (az influenza A vírus H5, H7, H9, illetve H10 altípusainak fokozottan patogén biotípusai, valamint a sertés- és madáreredetű H1 altípusok). |
+Láz, és az alábbi két feltétel legalább egyike:
 
-| 2. Teendők a beteggel |
+- sárgaság,
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Értesítendő az expozíció, illetve a megbetegedés helye szerint illetékes állatorvos is. Az értesülést követően sürgősséggel is jelentendő. A jelentést a megbetegedés helye szerint illetékes kormányhivatalnak/ügyeletének és az ÁNTSZ-OEK-nak, vagy az ÁNTSZ-OEK ügyeletének is meg kell tenni. Új altípus vagy nem meghatározható altípusú influenzavírus által okozott emberi megbetegedést is azonnal jelenteni kell. |
+- generalizált vérzés.
 
-|  | 2.1.1. Esetek osztályozása |
+Epidemiológiai kritérium
 
-|  | Gyanús eset | Teljesülnek a klinikai és epidemiológiai feltételek. |
+Utazás a megbetegedés kezdetét megelőző 1 hét folyamán olyan területre, ahol sárgaláz fordult vagy fordulhatott elő.
 
-|  | Valószínűsíthető eset | Minden olyan személy, akinél az A/H5 vagy A/H5N1 influenzavírus vizsgálata pozitív eredményű; és a vizsgálatot olyan laboratórium végezte, amely nem az emberi influenzával foglalkozó referencialaboratóriumok közösségi hálózatába tartozó laboratórium. |
+Laboratóriumi kritérium
 
-|  | Megerősített eset | Minden olyan személy, akinek a vizsgálati eredményét az Egészségügyi Világszervezet H5-tel foglalkozó együttműködési központja erősíti meg. |
+Az alábbi öt feltétel legalább egyike:
 
-|  | 2.1.2. Feltételek |
+- a sárgalázvírus izolálása klinikai mintából,
 
-|  | Klinikai kritérium | Minden olyan személy, akinél jelentkezik az alábbi két tünet legalább egyike: - láz és akut légzőszervi fertőzés jelei és tünetei, - elhalálozás megmagyarázatlan akut légzőszervi megbetegedés következtében. |
+- a sárgalázvírus nukleinsavának kimutatása,
 
-|  | Epidemiológiai kritérium | Az alábbi négy feltétel legalább egyike: − emberről emberre terjedő fertőzés a valószínűsíthető vagy megerősített esettel való szoros érintkezés útján (egy méteren belül), − laboratóriumi expozíció: ahol lehetőség van az A/H5N1 influenzavírussal való érintkezésre, − szoros érintkezés (egy méteren belül) megerősítetten A/H5N1 vírussal fertőzött állattal baromfi vagy vadmadarak kivételével (pl. macska, disznó), − olyan területen való tartózkodás vagy olyan terület meglátogatása, ahol az A/H5N1 típusú influenza jelenlétét gyanítják vagy megerősítették, és az alábbi két feltétel közül legalább egy teljesülése: − szoros érintkezés (egy méteren belül) az érintett területen beteg vagy elhullott baromfival vagy vadmadarakkal, − az érintett területen található olyan otthonban vagy gazdaságban való tartózkodás, ahonnan beteg vagy elhullott baromfikról tettek jelentést az előző hónapban. |
+- a sárgalázvírus antigénjének kimutatása,
 
-|  | Laboratóriumi kritérium | Az alábbi három feltétel legalább egyike: - az A/H5N1 influenzavírus izolálása klinikai mintából, - az A/H5 nukleinsav kimutatása klinikai mintában, - az A/H5 influenzával szembeni specifikus ellenanyagok kimutatása (négyszeres vagy magasabb emelkedés vagy egyetlen magas titer). |
+- a sárgalázzal szembeni specifikus IgM osztályú ellenanyagok kimutatása,
 
-| 2.2. Elkülönítés: | Sporadikus esetben a beteg fekvőbeteg-gyógyintézetben különítendő el, az ápolás során a cseppfertőzést és a kontakt terjedést megelőző óvintézkedéseket kell tenni. Kiterjedt járvány kialakulása esetén, ha a fekvőbeteg-gyógyintézeti kapacitás már nem elegendő, a beteg otthonában különítendő el. |
+- a máj post mortem kórszövettani vizsgálata során típusos elváltozások kimutatása.
 
-| 2.3. Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+A laboratóriumi eredményeket a beteg védőoltási státuszának figyelembe vételével kell értelmezni.
 
-|  | 2.3.2.Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A laboratórium értesítését követően légúti, illetve torokváladék és vérminta, majd a betegség kezdetétől számított 10–14 nap múlva újabb vérminta küldendő szerológiai vizsgálatra az ÁNTSZ-OEK Légúti Vírus osztályára. |
+2.2. Elkülönítés:
 
-|  | 2.3.3.Felszabadító vizsgálat: | Nem szükséges. |
+A beteget szúnyogmentes körülmények között kijelölt kórházban kell elkülöníteni.
 
-| 2.4. Fertőtlenítés: | Folyamatos és zárófertőtlenítés szükséges. |
+2.3. Mikrobiológiai vizsgálat:
 
-| 3. Teendők a beteg környezetében |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | A beteggel, illetve halottal kapcsolatba került (a beteggel, illetve váladékával közvetlenül vagy azzal szennyezett tárgyak révén érintkezett) személyeket fel kell kutatni. |
+Kötelező, a diagnosztikus vizsgálat az OEK referencia laboratóriumában történik.
 
-| 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.3. Járványügyi megfigyelés: | A beteggel kapcsolatba kerültek, illetve a beteggel közös forrásból fertőződötteket 7 napra járványügyi megfigyelés alá kell helyezni. Kiterjedt járvány esetén a betegekkel kapcsolatba kerültek otthoni elkülönítése szükséges. |
+Kötelező, az OEK-kel történt előzetes megbeszélés alapján.
 
-| 3.4. Postexpozíciós profilaxis: | Ha a betegnél a virológiai vizsgálatok valószínűsítik, vagy igazolják a fokozottan patogén madárinfluenza-vírus kóroki szerepét, akkor családtagjainál, illetve a vele szoros kapcsolatban lévő, járványügyi megfigyelés alá helyezett más személyeknél kemoprofilaxist kell 7-10 napig alkalmazni. A kemoprofilaxist az ÁNTSZ-OEK Járványügyi osztályával történő konzultáció alapján kell kivitelezni. |
+2.3.3. Felszabadító vizsgálat:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. Az állategészségügyi hatóság bevonásával laboratóriumi vizsgálatokkal egybekötött járványügyi vizsgálatot kell végezni a közös fertőző forrástól származó esetleges megbetegedések felderítése érdekében. |
+Nem szükséges.
 
-| 3.6. A terjesztő közeg felderítése: | Kötelező. Az állategészségügyi hatóság bevonásával járványügyi vizsgálatot kell végezni a terjesztő közeg felderítése céljából. |
+2.4. Fertőtlenítés:
 
-| Malária |
+Nem szükséges, de a szúnyogmentesség biztosítandó.
 
-| BNO10: B50-54 |
+3. Teendők a beteg környezetében
 
-| 1. Kórokozó: | Plasmodium falciparum (B50), Plasmodium vivax (B51), Plasmodium malariae (B52) és Plasmodium ovale (B53.0). Ismeretesek kevert fertőzések is. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-| 2. Teendők a beteggel |
+A járványügyi vizsgálat során azonosítani kell valamennyi személyt, aki a megbetegedés kezdete előtti 3-6. napon a beteggel együtt feltehetően fertőzött területen járt.
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Az értesülést követően sürgőséggel is jelentendő. |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-|  | 2.1.1. Esetek osztályozása |
+Nem szükséges.
 
-|  | Gyanús eset |  | --- |
+3.3. Járványügyi megfigyelés:
 
-|  | Valószínűsíthető eset | Klinikai feltételek és az epidemiológiai feltétel megléte. |
+Nem szükséges. A beteggel azonos expozíciónak kitett személyeket 6 napra klinikai megfigyelés alá kell helyezni, hogy esetleges megbetegedés esetén ellátásban részesüljenek.
 
-|  | Megerősített eset | Teljesülnek a klinikai feltételek és a laboratóriumi feltételek legalább egyike. |
+3.4. Postexpozíciós profilaxis:
 
-|  | 2.1.2. Feltételek |
+Nem szükséges.
 
-|  | Klinikai kritérium | Láz vagy a kórtörténetben szerepelő láz. Harmadnapos, negyednapos vagy mindennapos lázrohamok, melyek hidegrázással kezdődnek, majd 8–10 óra után izzadással hirtelen megszűnnek. |
+3.5. Fertőzőforrás-kutatás:
 
-|  | Epidemiológiai kritérium | Malária endémiás területre történő utazás, vagy tartózkodás. |
+Csak abban az esetben szükséges, ha felmerül a gyanúja a betegség hazai terjedésének.
 
-|  | Laboratóriumi kritérium | – Malária paraziták kimutatása vérkenetben fénymikroszkóppal, – plasmodium nukleinsav kimutatása vérből, – plasmodium antigén kimutatása. |
+Giardiasis
 
-| 2.2. Elkülönítés: | A beteget kórházba osztályra kell utalni, hogy a szükséges kezelést elvégezhessék. |
+BNO10: A07.1
 
-| 2.3.Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+1. Kórokozó:
 
-|  | 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. A betegség gyanúja esetén vizsgálat céljára vért kell vastagcsepp és 2 kihúzott készítmény formájában az ÁNTSZ-OEK Parazitológiai osztályára és a vizsgálat elvégzésére felkészült járványügyi feladatok ellátására kijelölt laboratórium parazitológiai osztályára küldeni. |
+Giardia lamblia (ritkán G.intestinalis, G.duodenalis).
 
-|  | 2.3.3. Felszabadító vizsgálat: | Nem szükséges. |
+2. Teendők a beteggel
 
-| 2.4. Fertőtlenítés: | Nem szükséges, azonban a szúnyogmentességet biztosítani kell. |
+2.1. Jelentés:
 
-| 3. Teendők a beteg környezetében |
+Bejelentésre kötelezett: a valószínűsíthető vagy a megerősített eset.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+2.1.1. Esetek osztályozása
 
-| 3.2.Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+Gyanús eset
 
-| 3.3. Járványügyi megfigyelés: | Nem szükséges. |
+-
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+Valószínűsíthető eset
 
-| 3.5. Fertőzőforrás-kutatás: | Nem szükséges. |
+Teljesül a klinikai és epidemiológiai feltétel.
 
-| 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
+Megerősített eset
 
-| Malleus |
+Teljesül a klinikai és laboratóriumi feltétel.
 
-| Takonykór, BNO10: A24 |
+2.1.2. Feltételek
 
-| 1. Kórokozó: | Burkholderia (Pseudomonas) mallei |
+Klinikai kritérium
 
-| 2. Teendők a beteggel |
+Az alábbi négy tünet legalább egyike:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús, valószínűsíthető és a megerősített eset. Egy megbetegedést csak egyszer kell bejelenteni. Telefonon, faxon is jelenteni kell az ÁNTSZ-OEK Járványügyi osztályának, valamint a megbetegedés helye szerint illetékes kormányhivatalnak. Járványügyi értesítés küldendő a fertőzés helye szerint illetékes hatósági állatorvosnak. |
+- hasmenés,
 
-|  | 2.1.1. Esetek osztályozása |
+- hasi fájdalom,
 
-|  | Gyanús eset | --- |
+- puffadás,
 
-|  | Valószínűsíthető eset | A klinikai képnek megfelelő eset, amelynél epidemiológiai kapcsolat van egy megerősített esettel. |
+- felszívódási zavar jelei (pl. zsírszéklet, súlyvesztés).
 
-|  | Megerősített eset | Teljesülnek a klinikai és laboratóriumi feltételek. |
+Epidemiológiai kritérium
 
-|  | 2.1.2. Feltételek |
+Az alábbi négy epidemiológiai kapcsolat legalább egyike:
 
-|  | Klinikai kritérium | A fertőzés formájától függően: lokalizált [a fertőzés helyén (bőr, agy, visceralis, tályogok, később fekélyek], pulmonáris (tüdőgyulladás, tüdőabscessus, broncho-pneumonia), septicaemia (fejfájás, fotofóbia, myalgia, lympadenopathia, splenomegalia). |
+- szennyezett élelmiszerrel, ivóvízzel történt expozíció,
 
-|  | Epidemiológiai kritérium | beteg emberrel, állattal történt kontaktus |
+- emberről emberre történő terjedés,
 
-|  | Laboratóriumi kritérium | B. mallei izolálása klinikai mintából vagy B. mallei nukleinsav kimutatása. |
+- közös expozíció,
 
-| 2.2. Elkülönítés: | Kötelező. A beteget kijelölt fertőző osztályon a Szent László Kórházban kell elkülöníteni. |
+- környezeti expozíció.
 
-| 2.3.Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. |
+Laboratóriumi kritérium
 
-|  | 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Haladéktalanul beküldendő váladék (genny, vér, hemokultúra, légúti váladék, BAL) egyidejű telefon vagy fax értesítés mellett az ÁNTSZ-OEK Veszélyes Kórokozók Nemzeti Referencia-laboratóriumába. |
+Az alábbi feltételek legalább egyike:
 
-|  | 2.3.3. Felszabadító vizsgálat: | Nem szükséges. |
+- Giardia lamblia ciszták vagy trophozoiták kimutatása a székletből, a nyombélnedvből, vagy a vékonybélből biopsziával vett a szövetmintában,
 
-| 2.4. Fertőtlenítés: | Szigorított folyamatos és zárófertőtlenítés szükséges. |
+- Giardia lamblia antigén kimutatása a székletből, a nyombélnedvből, vagy a vékonybélből biopsziával vett a szövetmintában,
 
-| 3. Teendők a beteg környezetében |
+- Giardia lamblia DNS kimutatása a székletből, a nyombélnedvből vagy a vékonybélből biopsziával vett szövetmintában.
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Kötelező. |
+2.2. Elkülönítés:
 
-| 3.2.Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nem szükséges. |
+Kötelező.
 
-| 3.3. Járványügyi megfigyelés: | A beteg környezetében élő személyeket a beteggel történt utolsó érintkezéstől számított 6 napra járványügyi zárlat alá kell helyezni. |
+2.3. Mikrobiológiai vizsgálat:
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-| 3.5. Fertőzőforrás-kutatás: | Kötelező. A fertőző forrást fel kell kutatni és azt a területileg illetékes hatósági állatorvosnak jelenteni kell. |
+Kötelező. A betegség sporadikus előfordulása esetén a székletminta, esetleg a duodenális nedv bármely parazitológiai laboratóriumba küldhető vizsgálatra.
 
-| 3.6. A terjesztő közeg felderítése: | --- |
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-| Meningitis purulenta |
+Kötelező. Járvány gyanúja esetén a székletmintát vagy a duodenális nedvet a járványügyi feladat elvégzésére kijelölt mikrobiológiai laboratóriumba kell küldeni.
 
-| Gennyes agyhártyagyulladás, BNO10: G00 |
+2.3.3. Felszabadító vizsgálat:
 
-| 1. Kórokozó: | A betegséget többnyire baktériumok, de ritkán bizonyos gombák és protozoonok okozzák. |
+Nem szükséges.
 
-| 2. Teendők a beteggel |
+2.4. Fertőtlenítés:
 
-| 2.1. Jelentés: | Bejelentésre kötelezett a gyanús eset. |
+Folyamatos fertőtlenítés szükséges.
 
-|  | 2.1.1. Esetek osztályozása |
+3. Teendők a beteg környezetében
 
-|  | Gyanús eset | Minden olyan személy, akire teljesülnek a klinikai kritériumok. |
+3.1. A beteggel kontaktusba kerültek felkutatása:
 
-|  | Valószínűsíthető eset | --- |
+Kötelező.
 
-|  | Megerősített eset | --- |
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
-|  | 2.1.2. Feltételek |
+A beteggel érintkezett, vele epidemiológiai kapcsolatban álló személyeknél szűrővizsgálatot kell végezni, és a fertőzött személyeket a beteggel egyidejűleg javasolt gyógykezelni.
 
-|  | Klinikai kritérium | Hirtelen kezdődő láz (>38,5oC rectalisan, vagy >38,0ºC axillarisan) és egy vagy több az alább felsoroltak közül: - tarkókötöttség, - tudatzavar, - egyéb meningeális jel, - csecsemők esetében kutacs elődomborodása. |
+3.3. Járványügyi megfigyelés:
 
-|  | Epidemiológiai kritérium | --- |
+Nem szükséges.
 
-|  | Laboratóriumi kritérium | --- |
+3.4. Postexpozíciós profilaxis:
 
-| 2.2. Elkülönítés: | A beteget kórházban kell elkülöníteni, cseppfertőzéssel terjedő fertőzés esetében (N. meningitidis, Hib stb.) fertőző osztályon. |
+Nem szükséges.
 
-| 2.3.Mikrobiológiai vizsgálat: | 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat: | Kötelező. Liquort, vért, esetleg gennyet a primer gócokból (otitis media stb.) kell tenyésztésre küldeni. |
+3.5. Fertőzőforrás-kutatás:
 
-|  | 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: | --- |
+Kötelező.
 
-|  | 2.3.3. Felszabadító vizsgálat: | Nem szükséges. |
+3.6. A terjesztő közeg felderítése:
 
-| 2.4. Fertőtlenítés: | Az orr-, torokváladékot, a gennyes gócok váladékát, valamint az ezekkel szennyezett tárgyakat, anyagokat folyamatosan fertőtleníteni kell. |
+Kötelező. Az ivó- vagy fürdővíz mikrobiológiai vizsgálatát el kell végezni, és célszerű a vizsgálatot a gyanúsítható élelmiszerre is kiterjeszteni. Ha közfogyasztásra szánt élelmiszer a terjesztő közeg, az illetékes élelmiszerlánc-felügyeleti szervet értesíteni kell a szükséges intézkedések megtétele érdekében.
 
-| 3. Teendők a beteg környezetében |
+Haemophilus influenzae által okozott invazív betegség
 
-| 3.1. A beteggel kontaktusba kerültek felkutatása: | Nem szükséges. |
+BNO: G000, A413, J14, A492, B963
 
-| 3.2.Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat: | Nosocomiális eredetű fertőzés előfordulása esetén kórházhigiénés előírások, a meningitises betegek környezetének célzott szűrővizsgálata (orr-, torokváladék), a pozitív esetek elkülönítése szükséges. |
+1. Kórokozó:
 
-| 3.3. Járványügyi megfigyelés: | Szülészeti, újszülött és csecsemőosztályokon a kontaktok járványügyi megfigyelése és (szükség szerint) felvételi zárlat, az etiológiától függően. |
+Haemophilus influenzae
 
-| 3.4. Postexpozíciós profilaxis: | Nem szükséges. |
+2. Teendők a beteggel
 
-| 3.5. Fertőzőforrás-kutatás: | Nem szükséges. |
+2.1. Jelentés:
 
-| 3.6. A terjesztő közeg felderítése: | Nem szükséges. |
+Bejelentésre kötelezett a megerősített eset.
 
-[^184]: Az 1. melléklet a 21/2012. (IV. 4.) NEFMI rendelet 24. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 8. § b) pontja, a 29/2013. (IV. 26.) EMMI rendelet 2. §-a, a 23/2015. (IV. 28.) EMMI rendelet 17. § a), b), e), f), g), i) és l)–p) pontja szerint módosított szöveg.
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+-
+
+Megerősített eset
+
+Minden olyan személy, akire teljesül a laboratóriumi kritériumok közül legalább az egyik.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+-
+
+Epidemiológiai kritérium
+
+-
+
+Laboratóriumi kritérium
+
+- Haemophilus influenzae izolálása normálisan steril helyről.
+
+- Haemophilus influenzae nukleinsav kimutatása normálisan steril helyről.
+
+2.2. Elkülönítés:
+
+A beteget kórházban a cseppfertőzés izoláció szabályait figyelembe véve kell elkülöníteni a gyógykezelés időtartamára.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Referencia laboratóriumba küldendő megerősítés és tipizálás céljából normálisan steril helyről (pl. liquorból vagy hemokultúrából) kitenyészett Haemophilus influenzae törzs.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges. Elsősorban az orr-, torokváladékot és az ezzel szennyezett anyagokat kell fertőtleníteni.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A beteg környezetében élő, 6 éven aluli gyermekeket 4 napra járványügyi megfigyelés alá kell helyezni.
+
+3.4. Postexpozíciós profilaxis:
+
+A b típusú H. influenzae okozta meningitis esetén a 6 évesnél fiatalabb gyermekeket ellátó, gondozó intézményekben mindenki számára – kivéve a védőoltott gyermekeket – ajánlott 4 napon át az antibiotikum (rifampicin naponta 1 alkalommal 20 mg/ttkg, max. 600 mg/nap) prevenció. Ha a beteg családjában a betegen kívül is van 6 éven aluli fogékony kisgyermek, akkor mindenki számára (a felnőtteknek is) ajánlott a fenti módon az antibiotikus prevenció.
+
+3.5. Fertőzőforrás-kutatás:
+
+Nem szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+Nem szükséges.
+
+Hantavírus okozta veseszindróma
+
+Nephropathia epidemica, BNO10: A98.5
+
+1. Kórokozó:
+
+A Bunyaviridae családba tartozó Hantavírus genus különböző tagjai.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentetésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesül a klinikai feltétel.
+
+Valószínűsíthető eset
+
+Teljesül a klinikai és epidemiológiai feltétel.
+
+Megerősített eset
+
+Teljesül a klinikai és a laboratóriumi feltétel.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Hirtelen kezdődő magas láz, és az alábbi hét feltétel közül legalább kettő:
+
+- hasi vagy vesetáji fájdalom,
+
+- émelygés vagy hányás,
+
+- az arc kipirulása,
+
+- bevérzések, petechiák,
+
+- kötőhártya belövellése,
+
+- oligo-, anuria,
+
+- hyper- vagy hypotensio.
+
+Epidemiológiai kritérium
+
+Rágcsálókkal való direkt kontaktus vagy rágcsálók váladékaiból (vizelet, széklet, nyál, légúti váladék) képződött aerosol inhalációja.
+
+Laboratóriumi kritérium
+
+- Specifikus ellenanyagok kimutatása a vérsavóból magas titerben,
+
+- vírus-specifikus ellenanyagok négyszeres titeremelkedése a heveny szakban, illetve három héttel később vett mintában.
+
+2.2. Elkülönítés:
+
+Nem szükséges.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A mintákat előzetes megbeszélés alapján az OEK-be kell szállítani.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Nem szükséges. Rágcsálóirtás.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges. A szükséges terápia időben történő megkezdése érdekében a beteg környezetében élőknél, a velük közös expozíciónak kitett személyek esetében figyelni kell a tünetek kialakulását.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Halmozott előfordulás esetén szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+Rágcsálóirtás.
+
+Hepatitis infectiosa
+
+BNO10: B15-B17
+
+1. Kórokozó:
+
+Hepatitis A, B, C, E vírusok.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Hepatitis infectiosa néven bejelentésre kötelezett az acut vírushepatitisre gyanús megbetegedés.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesül a klinikai feltétel.
+
+Valószínűsíthető eset
+
+-
+
+Megerősített eset
+
+-
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Enyhe általános tünetek (fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés, és hányás), és
+
+legalább egy az alábbi három tünet közül:
+
+- láz,
+
+- sárgaság,
+
+- magas szérum aminotranszferáz-szint.
+
+Epidemiológiai kritérium
+
+-
+
+Laboratóriumi kritérium
+
+-
+
+2.2. Elkülönítés:
+
+A beteg állapotától függően kórházban vagy otthonában is elkülöníthető.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Az etiológia meghatározására irányuló vírusszerológiai vizsgálat bármely klinikai-mikrobiológiai laboratóriumban elvégezhető. Ha az etiológiát nem sikerül tisztázni, a mintát tovább kell küldeni a járványügyi feladatok végzésére kijelölt területileg illetékes mikrobiológiai laboratóriumba.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+A járványügyi feladatok végzésére kijelölt mikrobiológiai laboratóriumban a hepatitis A, B, C, illetve E vírusok kóroki szerepének tisztázása céljából további vizsgálatokat kell végezni.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Az etiológiai diagnózis függvényében.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Az etiológiai diagnózis függvényében.
+
+3.3. Járványügyi megfigyelés:
+
+Az etiológiai diagnózis függvényében.
+
+3.4. Postexpozíciós profilaxis:
+
+Az etiológiai diagnózis függvényében.
+
+3.5. Fertőzőforrás-kutatás:
+
+Az etiológiai diagnózis függvényében.
+
+3.6. A terjesztő közeg felderítése:
+
+Az etiológiai diagnózis függvényében.
+
+Hepatitis A vírus által okozott heveny májgyulladás
+
+A típusú hepatitis, BNO10: B15
+
+1. Kórokozó:
+
+Hepatitis A vírus (HAV).
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+Teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat.
+
+Megerősített eset
+
+Teljesülnek a klinikai és a laboratóriumi kritériumok.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Minden olyan személy, akinél enyhe általános tünetek jelentkeznek (pl. fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés és hányás),
+
+és
+
+legalább egy az alábbi három tünet közül:
+
+- láz,
+
+- sárgaság,
+
+- magas szérum aminotranszferáz-szint.
+
+Epidemiológiai kritérium
+
+Az alábbi négy feltétel legalább egyike:
+
+- a beteg a lappangási időben laboratóriumi vizsgálattal megerősített A hepatitiszben szenvedő beteggel, vagy tünetmentes HAV-pozitív személlyel érintkezett,
+
+- a beteggel közös expozíciónak volt kitéve,
+
+- hepatitis A vírussal kontaminált élelmiszert vagy ivóvizet fogyasztott,
+
+- környezeti expozíció.
+
+Laboratóriumi kritérium
+
+- IgM osztályba tartozó anti-HAV ellenanyag kimutatása a szérumban,
+
+- HAV nukleinsav kimutatása a szérumban vagy a székletben,
+
+- HAV antigén kimutatása a székletben.
+
+2.2. Elkülönítés:
+
+A beteget a sárgaság kezdetétől számítva legalább egy hétig kórházban, otthonában vagy tartózkodási helyén, a kontakt izoláció szabályai szerint kell elkülöníteni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+A megbetegedések halmozott előfordulása esetén a járási vagy a megyei kormányhivatal elrendelheti a klinikai minták járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba történő beküldését. A járványügyi tipizáló vizsgálatok a referencia laboratóriumban történnek.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+A beteggel szoros kapcsolatban lévő személyeket (közös háztartásban élők, szexuális partnerek, egyéb családi és közösségi kontaktszemélyek) fel kell kutatni.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A beteggel szoros kapcsolatban lévő családi és kontaktszemélyeket 30 napra járványügyi megfigyelés alá kell helyezni. Ezen személyek közül azokat, akik 0-6 éves gyermekek közösségébe járnak, vagy ilyen közösségekben, intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkakörben dolgoznak, akik a közvetlen betegellátás során étel- és gyógyszerkiosztást végeznek, illetve hőkezelés nélkül, közvetlenül közfogyasztásra kerülő élelmiszereket, ételeket, italokat kezelnek, közétkeztetésben, vízművekben dolgoznak, anyatejet adnak vagy kezelnek, a járványügyi megfigyelés időtartamára munkakörüktől, illetve tevékenységüktől, a gyermekközösség látogatásától el kell tiltani.
+
+3.4. Postexpozíciós profilaxis:
+
+A járványügyi megfigyelés alá helyezett személyeket hepatitis A elleni aktív, passzív, vagy aktív-passzív immunizálásban kell részesíteni az OEK VML szerint.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Járvány esetén kötelező.
+
+Hepatitis B (Hepatitis B vírus által okozott heveny májgyulladás)
+
+B típusú akut hepatitis, BNO10: B16
+
+1. Kórokozó:
+
+Hepatitis B vírus.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a megerősített eset.
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+-
+
+Megerősített eset
+
+Teljesül a klinikai feltétel, a megerősített esetre vonatkozó laboratóriumi feltétel, és nem ismert, hogy a betegnek krónikus HBV fertőzése van.
+
+2.1.1. Feltételek
+
+Klinikai kritérium
+
+Minden olyan személy, akinél enyhe általános tünetek jelentkeznek (pl. fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés és hányás),
+
+és
+
+legalább egy az alábbi három tünet közül:
+
+- láz,
+
+- sárgaság,
+
+- magas szérum aminotranszferáz-szint.
+
+Epidemiológiai kritérium
+
+-
+
+Laboratóriumi kritérium
+
+A megerősített eset laboratóriumi feltétele:
+
+IgM osztályba tartozó anti-HBc ellenanyag kimutatása a szérumból,
+
+HBsAg kimutatása a szérumból és ismert, hogy az elmúlt hat hónapban vizsgált HBV markerek negatívak voltak, vagy
+
+HBV-DNS kimutatása a szérumból, és ismert, hogy a betegnél az elmúlt hat hónapban vizsgált HBV markerek negatívak voltak.
+
+2.2. Elkülönítés:
+
+A beteget kórházban vagy otthonában a standard izoláció szabályai szerint kell elkülöníteni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: A megbetegedések halmozott előfordulása esetén a járási népegészségügyi intézet vagy a megyei kormányhivatal elrendelheti a klinikai minták járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba történő beküldését. A járványügyi tipizáló vizsgálatok a referencia laboratóriumban történnek.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+A beteggel közös háztartásban élő személyeket, a szexuális partnereket fel kell kutatni.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+A beteggel közös háztartásban élőknek és szexuális partnereinek fel kell ajánlani a HBsAg szűrővizsgálatot.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+A beteg szexuális partnerét és a vele közös háztartásban élő fogékony veszélyeztetett személyeket HB védőoltásban kell részesíteni
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Egészségügyi ellátással összefüggő megbetegedések halmozott előfordulása esetén kötelező.
+
+Hepatitis B vírus által okozott krónikus fertőzés
+
+Újonnan diagnosztizált krónikus HBV fertőzés, BNO10: B1800, B1810
+
+1. Kórokozó:
+
+Hepatitis B vírus
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Azokat a hepatitis B vírussal fertőzött személyeket kell bejelenteni, akiknél első alkalommal állapítanak meg krónikus HBV-fertőzést.
+
+2.1.1. A jelentendő eset meghatározása
+
+Klinikai kritériumok
+
+Surveillance célokra nem relevánsak.
+
+Laboratóriumi kritériumok
+
+Hepatitis B felületi antigén (HBsAg) vagy HBV-DNS pozitív eredmény
+
+és
+
+negatív anti-HBcIgM vizsgálati eredmény
+
+vagy
+
+6 hónapos különbséggel végzett két vizsgálatból származó HBsAg vagy HBV-DNS pozitív eredmény.
+
+Epidemiológiai kritériumok
+
+Surveillance célokra nem relevánsak.
+
+Esetek osztályozása
+
+Gyanús eset: nem alkalmazható.
+
+Valószínűsíthető eset: nem alkalmazható.
+
+Megerősített eset: minden olyan személy, akire teljesülnek a laboratóriumi kritériumok.
+
+3. Teendők a krónikus HBV hordozó környezetében
+
+3.1. A HBV hordozó személlyel kontaktusba kerültek felkutatása:
+
+A közös háztartásban élő személyeket, a szexuális partnereket, valamint a HBsAg-hordozó anya vér szerinti gyermekeit fel kell kutatni.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+A vírushordozó személlyel közös háztartásban élőknek és szexuális partnereinek, valamint a HBsAg-hordozó anyák 1995 előtt született gyermekeinek fel kell ajánlani a HBsAg szűrővizsgálatot.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+A vírushordozó szexuális partnerét és a vele közös háztartásban élő fogékony veszélyeztetett személyeket hepatitis B elleni védőoltásban kell részesíteni.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+A megbetegedések halmozott előfordulása esetén kötelező, különös tekintettel az egészségügyi ellátással összefüggő fertőzésekre.
+
+Hepatitis C vírus által okozott heveny májgyulladás
+
+C típusú akut hepatitis, BNO10: B 17.1
+
+1. Kórokozó:
+
+Hepatitis C vírus
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+-
+
+Megerősített eset
+
+Teljesül a klinikai feltétel, a laboratóriumi feltételek egyike, és nem ismert, hogy a betegnek már korábban diagnosztizált krónikus HCV fertőzése van.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Minden olyan személy, akinél enyhe általános tünetek jelentkeznek (pl. fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés és hányás),
+
+és
+
+legalább egy az alábbi három tünet közül:
+
+- láz,
+
+- sárgaság,
+
+- magas szérum aminotranszferáz-szint.
+
+Epidemiológiai kritérium
+
+-
+
+Laboratóriumi kritérium
+
+Anti-HCV ellenanyag konfirmált kimutatása a szérumban
+
+és
+
+a megelőző 12 hónapban negatív HCV eredmény
+
+vagy
+
+Hepatitis C vírus nukleinsav (HCV RNS) vagy
+
+hepatitis C core antigén kimutatása a szérumban.
+
+2.2. Elkülönítés:
+
+A beteget kórházban vagy otthonában a standard izoláció szabályai szerint kell elkülöníteni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+A megbetegedések halmozott előfordulása esetén a járási hivatal vagy a megyei kormányhivatal elrendelheti a klinikai minták járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba történő beküldését. A járványügyi tipizáló vizsgálatok a referencia laboratóriumban történnek.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Nem szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+A megbetegedések halmozott előfordulása esetén kötelező, különös tekintettel az egészségügyi ellátással összefüggő fertőzésekre.
+
+Hepatitis C vírus által okozott krónikus fertőzés (újonnan diagnosztizált)
+
+Krónikus vírusos C-típusú hepatitis
+
+1. Kórokozó:
+
+Hepatitis C vírus
+
+2. Teendők a krónikus hordozó személlyel
+
+2.1. Jelentés:
+
+Azokat a hepatitis C vírussal fertőzött személyeket kell bejelenteni, akiknél a HCV-fertőzés krónikus stádiumát első alkalommal állapítják meg.
+
+2.1.1. A jelentendő eset meghatározása
+
+Klinikai kritériumok
+
+Surveillance célokra nem relevánsak.
+
+Laboratóriumi kritériumok
+
+Hepatitis C-vírus nukleinsav (HCV RNS)
+
+vagy
+
+Hepatitis C core antigén
+
+kimutatása.
+
+3. Teendők a krónikus HCV hordozó személy környezetében
+
+3.1. A HCV hordozó személlyel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Nem szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+A megbetegedések halmozott előfordulása esetén kötelező, különös tekintettel az egészségügyi ellátással összefüggő fertőzésekre.
+
+Hepatitis E vírus által okozott heveny májgyulladás
+
+BNO10: B17.2
+
+1. Kórokozó:
+
+Hepatitis E vírus
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+-
+
+Megerősített eset
+
+Teljesül a klinikai és a laboratóriumi feltétel.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Általános tünetek (fáradtság, hasi fájdalom, étvágytalanság, időszakos émelygés, hányás), láz, hőemelkedés és
+
+legalább egy az alábbi három tünet közül:
+
+- sárgaság,
+
+- sötét vizelet,
+
+- magas szérum aminotranszferáz szint.
+
+Epidemiológiai kritérium
+
+- Ha a beteg a lappangási időben laboratóriumi vizsgálattal megerősített E hepatitiszben szenvedő beteggel érintkezett,
+
+- a beteg másokkal együtt bizonyítottan közös HEV-expozíciónak volt kitéve,
+
+- ha hepatitis E vírussal kontaminált élelmiszert vagy ivóvizet fogyasztott,
+
+- környezeti expozíció.
+
+Laboratóriumi kritérium
+
+- IgM osztályba tartozó anti-HEV ellenanyagok megerősített kimutatása a szérumból,
+
+- HEV nukleinsav kimutatása a székletből vagy a szérumból.
+
+2.2. Elkülönítés:
+
+A kontakt izoláció szabályai szerint.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A megbetegedések halmozott előfordulása esetén a klinikai mintákat a járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba is be kell küldeni. A járványügyi tipizáló vizsgálatok a referencia laboratóriumban történnek.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A beteggel érintkezett személyeket 40 napra járványügyi megfigyelés alá kell helyezni.
+
+3.4. Postexpozíciós profilaxis:
+
+-
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező megbetegedések halmozódása vagy járvány esetén.
+
+Keratoconjunctivitis epidemica
+
+BNO10: B30.0
+
+1. Kórokozó:
+
+Adenovírus 8 típus, egyes esetekben más típus is, különösen a 3, 7, 11, 19, 29 stb. típus.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Egyidejűleg értesíteni kell a megyei, fővárosi szemész szakfelügyelő főorvost.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Nem alkalmazható.
+
+Valószínűsíthető eset
+
+Minden olyan személy, akinél fennáll a klinikai feltétel és az epidemiológiai kapcsolat.
+
+Megerősített eset
+
+Minden olyan személy, akinél fennáll a klinikai kritérium és laboratóriumi kritérium.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Az alábbi klinikai tünetek közül legalább egy:
+
+- belövellt conjunctiva,
+
+- idegentest-érzés a szemben, erős könnyezés,
+
+- a szemhéji kötőhártyán folliculusok, papillaris hypertrophia és a szaruhártyán apró tűszúrásnyi homályok.
+
+Epidemiológiai kritérium
+
+Epidemiológiai kapcsolat megerősítetten keratoconjunctivitis epidemica-ban szenvedő beteggel.
+
+Laboratóriumi kritérium
+
+Az alábbi laboratóriumi feltételek közül legalább egy:
+
+- Adenovírus izolálása conjunctiva-váladékból,
+
+- Adenovírus nukleinsav kimutatása PCR vizsgálattal conjunctiva-váladékból.
+
+2.2. Elkülönítés:
+
+Bentlakásos intézményben, közösségi szálláson, kórházi osztályon előfordult megbetegedés esetén a beteget el kell különíteni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A területileg illetékes vírus-laboratóriumba előzetes megbeszélés alapján conjunctiva-váladék küldendő.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+-
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+A beteg szem- és orrváladékát, valamint az ezekkel szennyezett tárgyakat folyamatosan fertőtleníteni kell.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező.
+
+Kullancsencephalitis
+
+(Kullancs által terjesztett agyvelőgyulladás) Közép-európai kullancsencephalitis, BNO10: A84.1
+
+1. Kórokozó
+
+A Flaviviridae családba tartozó közép-európai kullancsencephalitis-vírus.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Ha a megbetegedést előzőleg „meningitis serosa” vagy „encephalitis infectiosa” diagnózissal jelentették be, a klinikai diagnózist az etiológia tisztázása után módosítani szükséges.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Nem alkalmazható (meningitis serosa vagy encephalitis infectiosa diagnózissal jelentendő).
+
+Valószínűsíthető eset
+
+- teljesül a klinikai feltételek legalább egyike és az epidemiológiai feltételek egyike,
+
+- teljesül a klinikai feltételek legalább egyike és a valószínűsíthető eset laboratóriumi feltétele.
+
+Megerősített eset
+
+- teljesül a klinikai feltételek legalább egyike és a megerősített eset laboratóriumi feltételeinek legalább az egyike.
+
+2.1.2. Feltételek
+
+Klinikai feltételek
+
+- meningitis, illetve encephalitis, encephalomyelitis, encephaloradiculitis.
+
+Epidemiológiai feltételek
+
+- közös expozíció: hőkezeletlen tej vagy abból készült tejtermék fogyasztása.
+
+Laboratóriumi feltételek
+
+A valószínűsíthető eset laboratóriumi feltétele:
+
+- vírus-specifikus IgM, illetve IgA kimutatása (a neutralizációtól eltérő módszerrel) egyetlen vérmintában.
+
+A megerősített eset laboratóriumi feltétele:
+
+- négyszeres titeremelkedés vagy szerokonverzió a rekonvaleszcens vérmintában,
+
+- a vírus-ellenes ellenanyagok jelenlétének igazolása vírusneutralizációval vagy hemagglutináció gátlással,
+
+- a vírus nukleinsav PCR vizsgálattal vagy vírusizolálással történő kimutatása a vérből, liquorból vagy más klinikai mintából,
+
+- a vírus-specifikus IgM, illetve IgA kimutatása a vérből, illetve a központi idegrendszerből származó mintából.
+
+A vizsgálat eredményét a flavivírus (kullancsencephalitis, sárgaláz, stb. elleni) oltási státusz és esetleges korábbi flavivírus-fertőzésre (nyugat-nílusi láz, dengue, stb. átvészelésére) vonatkozó információk figyelembe vételével kell értékelni.
+
+2.2. Elkülönítés:
+
+Nem szükséges. A beteget klinikai állapotának megfelelően kell kórházba utalni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai diagnosztikus mikrobiológiai vizsgálat:
+
+Kötelező. Differenciáldiagnosztikai vizsgálat kötelező (herpesvírusok stb.).
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai laboratóriumi vizsgálat:
+
+Kötelező. A betegség gyanúja esetén alvadásgátló nélkül, sterilen vett vérmintát, és liquort kell küldeni szerológiai vizsgálatra az OEK-be. A vérvételt 2-3 hét múlva meg kell ismételni. Diagnosztikus értéke a savópár vizsgálata alapján megállapított titeremelkedésnek vagy a specifikus IgM, illetve IgA kimutatásának van.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Nem szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés
+
+Csoportos expozíció esetén azon személyek klinikai megfigyelése szükséges, akik a beteggel közös expozíciónak voltak kitéve (azonos területen és időben történt kullancscsípés, nyers tej fogyasztása a lappangási időben).
+
+3.4. Postexpozíciós profilaxis
+
+Nem szükséges (az expozíciót követően beadott védőoltás nem véd a betegség kialakulása ellen).
+
+3.5. Fertőzőforrás-kutatás
+
+Kötelező. Sporadikus esetben a lappangási időben látogatott tartózkodási helyek, a kullancscsípés helyének felderítése szükséges. Halmozott előfordulás esetén kutatni kell a közös expozíció után.
+
+3.6. A terjesztő közeg felderítése
+
+Kötelező. Sporadikus és halmozott előfordulás esetén is szükséges hőkezeletlen tej, tejtermék lappangási időben történt fogyasztásának felderítése.
+
+Legionárius betegség
+
+Legionárius betegség, BNO10: A48.1
+
+1. Kórokozó:
+
+Különböző legionella fajok.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Az utazással összefüggő legionárius megbetegedés az értesülést követően sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et. (Utazási kritérium: a beteg a betegség kezdetét megelőző 2-10 napon belül legalább egy éjszakát otthonán kívül, a lakóhelye szerinti országban vagy külföldön, bérelt szálláshelyen töltött.)
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+Tüdőgyulladással járó megbetegedés és a valószínűsíthető eset laboratóriumi kritériumai közül legalább az egyik fennáll.
+
+Megerősített eset
+
+Tüdőgyulladással járó megbetegedés és a megerősített eset laboratóriumi kritériumai közül legalább az egyik fennáll.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Tüdőgyulladás.
+
+Epidemiológiai kritérium
+
+-
+
+Laboratóriumi kritérium
+
+A valószínűsíthető eset laboratóriumi feltétele:
+
+- Legionella pneumophila antigén kimutatása légúti váladékból vagy tüdőszövetből például monoklonális ellenanyag felhasználásával végzett direkt immunfluoreszcens festéssel,
+
+- Legionella DNS kimutatása PCR vizsgálattal légúti váladékból, tüdőszövetből vagy egyéb normálisan steril helyről vett testváladékból,
+
+- szerokonverzióval: Legionella pneumophila nem 1-es szerocsoportja és más Legionella fajok ellen termelődő specifikus ellenanyagok négyszeres vagy nagyobb arányú titerváltozása,
+
+- Legionella pneumophila 1-es szerocsoportja ellen termelődő specifikus ellenanyagok jelenlétének kimutatása egyetlen vérsavóból magas titerben (1:128).
+
+A megerősített eset laboratóriumi feltétele:
+
+- antigén kimutatással: Legionella pneumophila antigén kimutatása vizeletből,
+
+- tenyésztéssel: Legionella kórokozó kimutatása légúti váladékból vagy egyéb normálisan steril helyről vett testváladékból,
+
+- szerokonverzióval: Legionella pneumophila 1-es szerocsoportja ellen termelődő specifikus ellenanyagok négyszeres vagy nagyobb arányú titerváltozása.
+
+2.2. Elkülönítés:
+
+Nem szükséges.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Klinikai mikrobiológiai diagnosztikai vizsgálat céljából szerológiai vizsgálatra alvadásgátló nélkül levett vért, antigén-kimutatásra vizeletet kell beküldeni mikrobiológiai laboratóriumba. A specifikus Legionella antigén vizeletből történő, illetve a kórokozó légúti vizsgálati anyagból való kimutatása az antibiotikummal még nem kezelt személy megbetegedésének 2-5. napja között lehetséges. Savópár beküldése a megbetegedés kezdetétől számított 10-12. napon és az azt követő 2 hét múlva esedékes.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Járványügyi érdekből végzett diagnosztikus vizsgálat céljából tenyésztésre légúti vizsgálati anyagot (például bronchus váladék, BAL, pleuropunktátum, bronchoszkópos minta, mélylégúti köpet) vagy egyéb normálisan steril helyről vett testváladékot kell beküldeni az OEK-be.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+-
+
+3.6. A terjesztő közeg felderítése:
+
+A legionárius betegség esetekkel kapcsolatos epidemiológiai kivizsgálás, továbbá a megelőző és kontroll tevékenység részletes leírását az OEK által kiadott módszertani levél tartalmazza.
+
+A járványügyi kivizsgálás során a Legionella környezeti mintából történő kimutatást (mintavétel, vizsgálat és értékelés) az Országos Közegészségügyi Központ végzi.
+
+Leptospirosis
+
+BNO10: A27
+
+1. Kórokozó:
+
+A Leptospira interrogans species több mint 300 szerotípusa.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+- teljesül a klinikai feltételek legalább egyike és az epidemiológiai feltételek egyike,
+
+- teljesül a klinikai feltételek legalább egyike és a microagglutinációs laboratóriumi feltétel.
+
+Megerősített eset
+
+Teljesül a klinikai feltételek egyike és
+
+a laboratóriumi feltételek közül a nukleinsav kimutatás vagy az izoláció.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Minden olyan személy, akinél jelentkezik az alábbi tünet:
+
+- láz
+
+és
+
+az alábbi nyolc tünet, illetve tünetegyüttes legalább egyike:
+
+- tavasztól őszig terjedő időszakban hidegrázás, fejfájás és izomfájdalom,
+
+- sárgaság,
+
+- veseelégtelenség,
+
+- kötőhártya-bevérzés,
+
+- agyhártyagyulladás,
+
+- bőr- és nyálkahártya-vérzés,
+
+- kiütések,
+
+- szívizomgyulladás.
+
+Epidemiológiai kritérium
+
+Az alábbi három epidemiológiai kapcsolat legalább egyike:
+
+- állatról emberre való terjedés,
+
+- környezeti expozíció,
+
+- közös expozíció.
+
+Laboratóriumi kritérium
+
+Az alábbi eredmények egyike:
+
+- Leptospira interrogans vagy bármely más patogén Leptrospira spp. ellen termelődött ellenanyagok microagglutinációs módszerrel meghatározott titere négyszeres emelkedést mutat,
+
+- Leptospira interrogans vagy bármely más patogén Leptrospira spp. nukleinsav kimutatása klinikai mintában,
+
+- Leptospira interrogans vagy bármely más patogén Leptrospira spp. izolálása klinikai mintából,
+
+- Leptospira interrogans vagy bármely más patogén Leptrospira spp. kimutatása klinikai mintából immunfluoreszsens módszerrel.
+
+2.2. Elkülönítés:
+
+Nem szükséges.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. 5-10 ml alvadásgátló nélkül, sterilen vett vérmintát kell az OEK referencia laboratóriumába vagy az illetékes kormányhivatal leptospirosis vizsgálatokra kijelölt, járványügyi feladatokat ellátó laboratóriumába küldeni. A pozitív eredményt a referencia-laboratóriumban mikroszkópos lízis-agglutinációs módszerrel kell megerősíteni. A referencia-laboratóriummal történt előzetes megbeszélés alapján tenyésztésre is lehet vizeletet küldeni. A kórokozó szerotípusát rendszerint csak ismételt vizsgálattal lehet megállapítani. Immunszerológiai vizsgálatra esetleg liquor cerebrospinális is küldendő.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Nem szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges. Azon személyek klinikai megfigyelése szükséges, akik a beteggel közös expozíciónak voltak kitéve.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+Kutatni kell a fertőzött rágcsálók, állatok után.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező, járvány esetén az illetékes társhatósággal együttműködve fel kell deríteni a kórokozót terjesztő szennyezett vizet.
+
+Listeriosis
+
+BNO: A32
+
+1. Kórokozó:
+
+Listeria monocytogenes.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+Minden olyan személy, akire teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kritériumok legalább egyike.
+
+Megerősített eset
+
+Minden olyan személy, akire teljesül a laboratóriumi kritérium
+
+vagy
+
+minden olyan anya, akinek magzatánál, halva született csecsemőjénél vagy újszülöttjénél a listeriosis-fertőzést laboratóriumilag megerősítették.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Újszülött listeriózisa a következő formában:
+
+halvaszületés
+
+vagy
+
+az élet első hónapja során az alábbi öt tünet közül legalább egy megléte:
+
+- Granulomatosis infantiseptica,
+
+- agyhártyagyulladás vagy meningoencephalitis,
+
+- vérmérgezés,
+
+- nehézlégzés,
+
+- elváltozások a bőrön, a nyálkahártyán vagy a kötőhártyán.
+
+Várandósság alatti listeriosis az alábbi három tünet legalább egyikének megléte alapján:
+
+- vetélés, halva születés, koraszülés,
+
+- láz,
+
+- influenzaszerű tünetek.
+
+A listeriosis egyéb formái az alábbi négy tünet legalább egyikének megléte alapján:
+
+- láz,
+
+- agyhártyagyulladás vagy meningoencephalitis,
+
+- vérmérgezés,
+
+- lokalizált fertőzések, például ízületi gyulladás, szívbelhártya-gyulladás, tályogok.
+
+Epidemiológiai kritérium
+
+- Közös forrással való érintkezés,
+
+- emberről emberre való terjedés (vertikális terjedés),
+
+- szennyezett élelmiszer, ivóvíz fogyasztása.
+
+Laboratóriumi kritérium
+
+- Listeria monocytogenes izolálása normálisan steril helyről vett klinikai mintából,
+
+- Listeria monocytogenes izolálása normálisan nem steril helyről vett testváladékból magzatnál, halvaszületett magzatnál, újszülöttnél, vagy a szülést követő 24 órán belül az anyánál.
+
+2.2. Elkülönítés:
+
+Nem szükséges.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Tenyésztés céljára alvadásgátlóval levett vér, liquor, továbbá genny, méhűri váladék, vizelet, faeces és torokváladék küldendő bakteriológiai laboratóriumba.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Járványos előfordulás esetén az addig még nem vizsgált betegek első diagnosztikus vizsgálatát a járványügyi feladatok ellátására kijelölt laboratóriumban kell végezni. Referencia laboratóriumba küldendő megerősítés és tipizálás céljából a normálisan steril helyről (pl. liquorból vagy hemokultúrából) izolált Listeria sp. vagy Listeria monocytogenes törzs.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés végzendő.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező.
+
+Lyme-kór
+
+BNO10: A69.2
+
+1. Kórokozó:
+
+Borrelia burgdorferi sensulato csoportba tartozó humán patogén spirocheták.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+Teljesülnek a klinikai feltételek közül az erythema migransnak megfelelő feltételek.
+
+Teljesül a korai neuroboreliosisnak megfelelő klinikai feltételek egyike és az epidemiológiai feltétel.
+
+Megerősített eset
+
+Teljesül legalább egy klinikai és egy laboratóriumi feltétel.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+A két klinikai feltétel egyike
+
+- erythema migrans: 5 cm-nél nagyobb, növekvő vöröses vagy kékeslila bőrpír, folt, gyakran terjedő széllel,
+
+- korai neuroborreliosis: az alábbi három klinikai feltétel egyike
+
+- acut, fájdalmas radiculoneuritis,
+
+- valamely agyideget érintő acut paralysis,
+
+- meningitis, a liquorban lymphocytas pleocytosis.
+
+Epidemiológiai kritérium
+
+Kullancscsípés a lappangási időben.
+
+Laboratóriumi kritérium
+
+- eythema migrans: laboratóriumi vizsgálat nem szükséges,
+
+- korai neuroborreliosis: az alábbi két kritérium legalább egyike:
+
+- intrathecalisan termelődő specifikus ellenanyagok kimutatása,
+
+- B. burgdorferi izolálása vagy nukleinsavának kimutatása (pl. PCR-vizsgálattal) klinikai mintából.
+
+2.2. Elkülönítés:
+
+Nem szükséges.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Erythema migrans-t kivéve kötelező. A nem bejelentendő klinikai formák (ízületi, cardiális, késői neuroborreliosis, késői bőrmanifesztáció) diagnosztikus vizsgálata bármely klinikai mikrobiológiai laboratóriumban elvégezhető.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Erythema migrans esetén nem kell, korai neuroborreliosis gyanúja esetén kötelező. Szerológiai vizsgálatok előzetes megbeszélést követően az OEK-ben, illetve ezen szerológiai vizsgálatra felkészült, járványügyi feladat ellátására kijelölt laboratóriumban. Szerológiai vizsgálat csak specifikus tünetek jelentkezésekor, és megfelelő anamnézis (ismert kullancsexpozíció vagy legalábbis a páciens mozgástere alapján ennek valószínűsíthetősége) esetén indokolt. Szerológiai vizsgálatra alvadásgátló nélkül levett vért, neuroborreliosis gyanúja esetén egy napon levett vér- és liquormintát kell beküldeni a laboratóriumba.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Nem szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+A lappangási időben látogatott tartózkodási helyek, a kullancscsípés valószínű helyének felderítése szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+Nem szükséges.
+
+Lyssa (veszettség)
+
+Veszettség, BNO10: A82
+
+1. Kórokozó:
+
+Rabies vírus (Lyssavírus genus, Rhabdovírus család).
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesülnek a klinikai feltételek.
+
+Valószínűsíthető eset
+
+Teljesülnek a klinikai feltételek és fennáll az epidemiológiai feltételek egyike.
+
+Megerősített eset
+
+Teljesülnek a klinikai feltételek és a laboratóriumi feltételek legalább egyike.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Akut agyvelőgyulladás (encephalomyelitis) és
+
+az alábbi hét tünet közül legalább kettő:
+
+- állat okozta harapás helyén szenzoros változások,
+
+- parézis vagy paralízis,
+
+- garatizmok görcsei,
+
+- hydrophobia,
+
+- delírium,
+
+- görcsroham,
+
+- szorongás.
+
+Epidemiológiai kritérium
+
+- állatról emberre való terjedés (veszettségre gyanús vagy bizonyítottan veszett állat),
+
+- közös forrással való érintkezés (ugyanazon állattal történt expozíció),
+
+- emberről emberre való terjedés (pl. szervátültetés).
+
+Laboratóriumi kritérium
+
+- A Lyssa-vírus izolálása klinikai mintából.
+
+- A Lyssa-vírus nukleinsav kimutatása klinikai mintában (pl. nyál vagy agyszövet).
+
+- Vírus antigének kimutatása klinikai mintában.
+
+- Lyssa-vírussal szembeni specifikus ellenanyagok kimutatása vírus-neutralizációs próbával vérsavóban vagy liquorban.
+
+A laboratóriumi eredményeket az oltottsági státus figyelembe vételével kell értelmezni.
+
+2.2. Elkülönítés:
+
+A veszettségben szenvedő beteget az intenzív ellátást biztosító kijelölt egészségügyi intézményben (Egyesített Szent István és Szent László Kórház-Rendelőintézet) kell elkülöníteni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A Lyssa-vírus kimutatására a betegnél elvégezhető a cornea kaparék immunfluorescens vizsgálata az OEK-ban.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Az OEK módszertani levele szerint.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező, az expozíciótól függően (pl. igazoltan veszett szarvasmarha teje).
+
+3.7. Egyéb intézkedések:
+
+Haladéktalanul értesíteni kell – az érintett személyazonosító és egészségügyi adatainak megküldésével – az érintett lakóhelye (tartózkodási helye) szerint illetékes élelmiszerlánc-felügyeleti szervet a szükséges intézkedések megtétele érdekében.
+
+Madárinfluenza
+
+BNO10: J10
+
+1. Kórokozó:
+
+Az orthomyxoviridae családba tartozó, fokozott patogenitású madárinfluenza-vírusok (az influenza A vírus H5, H7, H9, illetve H10 altípusainak fokozottan patogén biotípusai, valamint a sertés- és madáreredetű H1 altípusok).
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et. Értesítendő az expozíció, illetve a megbetegedés helye szerint illetékes élelmiszerlánc-felügyeleti szerv is.
+
+Új altípus vagy nem meghatározható altípusú influenzavírus által okozott emberi megbetegedést is azonnal jelenteni kell.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesülnek a klinikai és epidemiológiai feltételek.
+
+Valószínűsíthető eset
+
+Minden olyan személy, akinél az 1. pontban említett influenzavírusokra irányuló vizsgálat pozitív eredményű és a vizsgálatot nem az európai uniós hálózatba tartozó Influenza referencia laboratóriuma végezte.
+
+Nemzeti szinten megerősített eset
+
+Minden olyan személy, akinél az 1. pontban említett influenzavírusokra irányuló vizsgálat pozitív eredményű és a vizsgálatot az OEK, mint az európai uniós hálózatba tartozó Influenza referencia laboratóriuma végezte.
+
+Az Egészségügyi Világszervezet által megerősített eset
+
+Minden olyan személy, akinek a vizsgálati eredményét az Egészségügyi Világszervezet H5-tel foglalkozó együttműködési központja erősíti meg.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Minden olyan személy, akinél jelentkezik az alábbi két tünet legalább egyike:
+
+- láz és akut légzőszervi fertőzés jelei és tünetei,
+
+- elhalálozás megmagyarázatlan akut légzőszervi megbetegedés következtében.
+
+Epidemiológiai kritérium
+
+Az alábbi négy feltétel legalább egyike:
+
+- emberről emberre terjedő fertőzés a valószínűsíthető vagy megerősített esettel való szoros érintkezés útján (egy méteren belül),
+
+- laboratóriumi expozíció: ahol lehetőség van az A/H5N1 influenzavírussal való érintkezésre,
+
+- szoros érintkezés (egy méteren belül) megerősítetten A/H5N1 vírussal fertőzött állattal, baromfi vagy vadmadarak kivételével (pl. macska, disznó),
+
+- olyan területen való tartózkodás vagy olyan terület meglátogatása, ahol az A/H5N1 típusú influenza jelenlétét gyanítják vagy megerősítették [lásd az Állategészségügyi Világszervezet és az Európai Bizottság (SANCO) állatbetegségek bejelentő rendszerét], és az alábbi két feltétel közül legalább egy teljesülése:
+
+- szoros érintkezés (egy méteren belül) az érintett területen beteg vagy elhullott baromfival vagy vadmadarakkal (nem ide értendők azok a látszólag egészséges madarak, melyeket például vadászat céljából ejtettek el),
+
+- az érintett területen található olyan otthonban vagy gazdaságban való tartózkodás, ahonnan beteg vagy elhullott baromfikról tettek jelentést az előző hónapban.
+
+Laboratóriumi kritérium
+
+Az alábbi három feltétel legalább egyike:
+
+- az A/H5N1 influenzavírus izolálása klinikai mintából,
+
+- az A/H5 nukleinsav kimutatása klinikai mintában,
+
+- az A/H5 influenzavírussal szembeni specifikus ellenanyagok kimutatása (négyszeres vagy magasabb emelkedés vagy egyetlen magas titer).
+
+2.2. Elkülönítés:
+
+Sporadikus esetben a beteg fekvőbeteg-gyógyintézetben különítendő el, az ápolás során a cseppfertőzést és a kontakt terjedést megelőző óvintézkedéseket kell tenni. Kiterjedt járvány kialakulása esetén, ha a fekvőbeteg-gyógyintézeti kapacitás már nem elegendő, a beteg otthonában különítendő el.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A laboratórium értesítését követően légúti, illetve torokváladék és vérminta, majd a betegség kezdetétől számított 10-14 nap múlva újabb vérminta küldendő szerológiai vizsgálatra az OEK-be.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+A beteggel, illetve halottal kapcsolatba került (a beteggel, illetve váladékával közvetlenül vagy azzal szennyezett tárgyak révén érintkezett) személyeket fel kell kutatni.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A beteggel kapcsolatba kerültek, illetve a beteggel közös forrásból fertőződötteket 7 napra járványügyi megfigyelés alá kell helyezni. Kiterjedt járvány esetén a betegekkel kapcsolatba kerültek otthoni elkülönítése szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Ha a betegnél a virológiai vizsgálatok valószínűsítik vagy igazolják a fokozottan patogén madárinfluenza-vírus kóroki szerepét, akkor családtagjainál, illetve a vele szoros kapcsolatban lévő, járványügyi megfigyelés alá helyezett más személyeknél kemoprofilaxist kell 7-10 napig alkalmazni. A kemoprofilaxist az OEK-kel történő konzultáció alapján kell kivitelezni.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező. Az élelmiszerlánc-felügyeleti szerv bevonásával laboratóriumi vizsgálatokkal egybekötött járványügyi vizsgálatot kell végezni a közös fertőző forrástól származó esetleges megbetegedések felderítése érdekében.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező. Haladéktalanul értesíteni kell – az érintett személyazonosító és egészségügyi adatainak megküldésével – az érintett lakóhelye (tartózkodási helye) szerint illetékes élelmiszerlánc-felügyeleti szervet a szükséges intézkedések megtétele érdekében.
+
+Malária
+
+BNO10: B50-54
+
+1. Kórokozó:
+
+Plasmodium falciparum (B50), Plasmodium vivax (B51), Plasmodium malariae (B52) és Plasmodium ovale (B53.0). Ismeretesek kevert fertőzések is.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+Klinikai feltételek és az epidemiológiai feltétel megléte.
+
+Megerősített eset
+
+Teljesülnek a klinikai feltételek és a laboratóriumi feltételek legalább egyike.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Láz vagy a kórtörténetben szerepelő láz. Harmadnapos, negyednapos vagy mindennapos lázrohamok, melyek hidegrázással kezdődnek, majd 8-10 óra után izzadással hirtelen megszűnnek.
+
+Epidemiológiai kritérium
+
+Malária endémiás területre történő utazás vagy ott tartózkodás.
+
+Laboratóriumi kritérium
+
+- Malária paraziták kimutatása vérkenetben fénymikroszkóppal,
+
+- plasmodium nukleinsav kimutatása vérből,
+
+- plasmodium antigén kimutatása.
+
+2.2. Elkülönítés:
+
+A beteget kórházba, fertőző osztályra kell utalni, hogy a szükséges kezelést elvégezhessék.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A betegség gyanúja esetén vizsgálat céljára vért, vastagcsepp és 2 kihúzott készítmény formájában, továbbá alvadásgátlóval (EDTA) levett vért kell az OEK-be vagy a vizsgálat elvégzésére felkészült járványügyi feladatok ellátására kijelölt laboratórium parazitológiai osztályára küldeni.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Nem szükséges, azonban a szúnyogmentességet biztosítani kell.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Import megbetegedés esetén nem szükséges. Hazai eredetű megbetegedés gyanúja esetén kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Nem szükséges.
+
+Malleus
+
+Takonykór, BNO10: A24
+
+1. Kórokozó:
+
+Burkholderia (Pseudomonas) mallei
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et. Járványügyi értesítés küldendő a fertőzés helye szerint illetékes élelmiszerlánc-felügyeleti szerv részére.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+A klinikai képnek megfelelő eset, amelynél epidemiológiai kapcsolat van egy megerősített esettel.
+
+Megerősített eset
+
+Teljesülnek a klinikai és laboratóriumi feltételek.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+A fertőzés formájától függően:
+
+- lokalizált [a fertőzés helyén (bőr, agy, visceralis, tályogok, később fekélyek],
+
+- pulmonáris (tüdőgyulladás, tüdőabscessus, broncho-pneumonia),
+
+- septicaemia (fejfájás, fotofóbia, myalgia, lympadenopathia, splenomegalia).
+
+Epidemiológiai kritérium
+
+- beteg emberrel, állattal történt kontaktus.
+
+Laboratóriumi kritérium
+
+- B. mallei izolálása klinikai mintából vagy
+
+- B. mallei nukleinsav kimutatása.
+
+2.2. Elkülönítés:
+
+Kötelező. A beteget kijelölt fertőző osztályon a Egyesített Szent István és Szent László Kórház-Rendelőintézetben kell elkülöníteni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Haladéktalanul beküldendő váladék (genny, vér, hemokultúra, légúti váladék, BAL) egyidejű telefon vagy fax értesítés mellett az OEK referencia laboratóriumába.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Szigorított folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A beteg környezetében élő személyeket a beteggel történt utolsó érintkezéstől számított 6 napra járványügyi zárlat alá kell helyezni.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező. A fertőző forrást a területileg illetékes élelmiszerlánc-felügyeleti hatósággal együttműködve fel kell kutatni.
+
+3.6. A terjesztő közeg felderítése:
+
+-
+
+3.7. Egyéb intézkedések:
+
+Haladéktalanul értesíteni kell – az érintett személyazonosító és egészségügyi adatainak megküldésével – az érintett lakóhelye (tartózkodási helye) szerint illetékes élelmiszerlánc-felügyeleti szervet a szükséges intézkedések megtétele érdekében.
+
+Meningitis purulenta
+
+Gennyes agyhártyagyulladás, BNO10: G00
+
+1. Kórokozó:
+
+A betegséget többnyire baktériumok, de ritkán bizonyos gombák és protozoonok okozzák.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Minden olyan személy, akire teljesülnek a klinikai kritériumok.
+
+Valószínűsíthető eset
+
+-
+
+Megerősített eset
+
+-
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Hirtelen kezdődő láz (>38,5 °C rectalisan, vagy >38,0 °C axillarisan) és
+
+egy vagy több az alább felsoroltak közül:
+
+- tarkókötöttség,
+
+- tudatzavar,
+
+- egyéb meningeális jel,
+
+- csecsemők esetében kutacs elődomborodása.
+
+Epidemiológiai kritérium
+
+-
+
+Laboratóriumi kritérium
+
+-
+
+2.2. Elkülönítés:
+
+A beteget kórházban kell elkülöníteni a cseppfertőzés izoláció szabályait figyelembe véve.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A liquor- és vérmintából, illetve egyéb steril helyről minden esetben mikroszkópos, tenyésztéses, antigén kimutatási és közvetlen antibiotikum érzékenységi vizsgálatot kell végezni.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+-
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Az orr-, torokváladékot, a gennyes gócok váladékát, valamint az ezekkel szennyezett tárgyakat, anyagokat folyamatosan fertőtleníteni kell.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nosocomiális eredetű fertőzés előfordulása esetén kórházhigiénés előírások, a meningitises betegek környezetének célzott szűrővizsgálata (orr-, torokváladék), a pozitív esetek elkülönítése szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Szülészeti, újszülött és csecsemőosztályokon a kontaktok járványügyi megfigyelése és (szükség szerint) felvételi zárlat, az etiológiától függően.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Nem szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+Nem szükséges.
+
+Meningitis serosa
+
+Meningitis aseptica, savós agyhártyagyulladás, BNO10: G03.0
+
+1. Kórokozó:
+
+Különféle enterovírusok Coxsackie A és B vírus egyes szerotípusai, echovírus (A87.0), enterovírus 71 (A85.0), a herpesvírus (B00.3), adenovírusok (A85.1), LCM vírus (A87.2), CMV (B25.8) stb. Az etiológia sokszor ismeretlen marad.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset. A meningeális szövődmények nyilvántartásba vétele érdekében a meningitist akkor is külön be kell jelenteni, ha más, egyébként bejelentendő fertőző betegség szövődményeként jelentkezett.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Minden olyan személy, akire teljesülnek a klinikai kritériumok.
+
+Valószínűsíthető eset
+
+Minden olyan személy, akire teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat vagy a valószínűsíthető laboratóriumi kritériumok közül legalább az egyik.
+
+Megerősített eset
+
+Minden olyan személy, akire teljesülnek a klinikai kritériumok és a megerősített eset laboratóriumi kritériumai közül legalább az egyik fennáll.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Hirtelen kezdődő láz (>38,5 °C rectalisan, vagy >38,0 °C axillarisan) és
+
+egy vagy több az alább felsoroltak közül:
+
+- tarkókötöttség,
+
+- tudatzavar,
+
+- egyéb meningeális jel,
+
+- csecsemők esetében kutacs elődomborodása.
+
+Epidemiológiai kritérium
+
+Epidemiológiai kapcsolat egy megerősített esettel.
+
+Laboratóriumi kritérium
+
+A valószínűsíthető eset laboratóriumi feltétele:
+
+- A liquor tiszta, nagy nyomással ürül, a fehérjeszint (>50 mg/dl) és a sejtszám emelkedett (<500/mm3), a cukorszint normális. Az üledékben lymphocyták (>50%), kezdetben esetleg granulocyták is vannak.
+
+- Liquorból a vírus nukleinsav kimutatása PCR-rel.
+
+A megerősített eset laboratóriumi feltétele:
+
+- Kórokozó vírus izolálása.
+
+- Specifikus ellenanyagválasz.
+
+2.2. Elkülönítés:
+
+Fertőző osztályon, a heveny tünetek lezajlásáig.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Vírusizolálás céljára a lehető legkorábbi időpontban (az első napokban) legalább 2 egymást követő napon székletet, torokmosó folyadékot, liquort, alvadásgátló nélkül, sterilen vett vért, majd 3-4 hét múlva ismételt vérmintát kell küldeni a járványügyi feladatok elvégzésére kijelölt területileg illetékes laboratóriumba. A szerológiai vizsgálatoknak csak a savópárban észlelt titeremelkedés esetén vagy IgM osztályú ellenanyag kimutatása esetén van diagnosztikus értéke. Igen fontos a kísérőiraton a kórokozóra utaló gyanú megjelölése, mert kizárólag a célzott vizsgálat teszi lehetővé a laboratórium munkáját.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+A beteg váladékait és a velük fertőzött tárgyakat folyamatosan fertőtleníteni kell.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Nem szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+Nem szükséges.
+
+Meningococcus által okozott invazív betegség (meningitis epidemica, meningococcaemia)
+
+BNO: A390, A391, A392, A394, A395, A398, A399
+
+1. Kórokozó:
+
+Neisseria meningitidis (Meningococcus) különböző szerocsoportjai, melyek elterjedtsége, dominanciája földrajzilag különböző. Az A szerocsoport jelentősebb, a C kisebb járványokat okozhat, nálunk a főleg sporadikus eseteket okozó B szerocsoport a legelterjedtebb. A W-135, az X, Y és a Z szerocsoportok kevésbé virulensek, bár ezen fertőzések is lehetnek súlyos kimenetelűek.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Minden olyan személy, akire teljesül a klinikai kritériumok közül legalább az egyik.
+
+Valószínűsíthető eset
+
+Minden olyan személy, akire teljesül a klinikai kritériumok közül legalább az egyik és fennáll az epidemiológiai kapcsolat.
+
+Megerősített eset
+
+Minden olyan személy, akire teljesül a laboratóriumi kritériumok közül legalább az egyik.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+- Meningeális tünetek,
+
+- bevérzéses bőrkiütések (petechiák),
+
+- szeptikus sokk,
+
+- szeptikus arthritis.
+
+Epidemiológiai kritérium
+
+Epidemiológiai kapcsolat emberről emberre történő terjedés útján.
+
+Laboratóriumi kritérium
+
+- Neisseria meningitidis izolálása normálisan steril helyről vagy bevérzéses bőrlézióból.
+
+- Neisseria meningitidis nukleinsav kimutatása normálisan steril helyről vagy bevérzéses bőrlézióból.
+
+- Neisseria meningitidis antigén kimutatása gerincvelő-folyadékban.
+
+- Gram-negatívan festődő diplococcus kimutatása gerincvelő-folyadékban.
+
+2.2. Elkülönítés:
+
+A beteget kórházban a cseppfertőzés izoláció szabályait figyelembe véve kell elkülöníteni a gyógykezelés időtartamára.
+
+2.3. Mikrobiológiai vizsgálat
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A liquor- és vérmintából minden esetben mikroszkópos, tenyésztéses, antigén kimutatási és közvetlen antibiotikum érzékenységi vizsgálatot kell végezni.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Járványügyi érdekből végzett diagnosztikus vizsgálat céljából sikertelen tenyésztés esetében vér és liquor-mintát kell beküldeni az OEK-be a kórokozó direkt kimutatása céljából molekuláris vizsgálattal (PCR), vagy más ilyen vizsgálatot végző járványügyi feladatokat ellátó vizsgáló laboratóriumba.
+
+Referencia laboratóriumba küldendő megerősítés céljából normálisan steril helyről (pl. liquorból vagy hemokultúrából) kitenyészett N.meningitidis törzs, vagy nem tenyészthető minta esetén maga a klinikai minta.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező annak eldöntése érdekében, hogy kit szükséges posztexpozíciós profilaxisban részesíteni.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A beteg közvetlen környezetében élőket 8 napra járványügyi megfigyelés alá kell helyezni. Nosocomiális eredetű előfordulás esetén az érintett ápolási egységben 8 napos felvételi zárlatot kell elrendelni.
+
+3.4. Postexpozíciós profilaxis:
+
+Zárt közösségekben, igen szoros kontaktus esetén a betegek környezetében élőket antibiotikum profilaxisban kell részesíteni az OEK által kiadott módszertani levél szerint.
+
+3.5. Fertőzőforrás-kutatás:
+
+Nem szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+Nem szükséges.
+
+Morbilli
+
+Kanyaró, BNO10: B05
+
+1. Kórokozó:
+
+Paramyxovírus
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Minden olyan személy, akire teljesülnek a klinikai kritériumok.
+
+Valószínűsíthető eset
+
+Minden olyan személy, akire teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat.
+
+Megerősített eset
+
+Minden olyan személy, akire teljesülnek a klinikai feltételek és a laboratóriumi feltételek legalább egyike.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Lázzal járó maculopapulosus bőrkiütések, és az alábbi három tünet legalább egyike:
+
+- köhögés,
+
+- nátha,
+
+- kötőhártya-gyulladás.
+
+Epidemiológiai kritérium
+
+Emberről emberre történő terjedés.
+
+Laboratóriumi kritérium
+
+Az alábbi négy feltétel legalább egyike:
+
+- a kanyaróvírus izolálása klinikai mintából,
+
+- a kanyaróvírus nukleinsav kimutatása klinikai mintában,
+
+- kanyaróvírussal szembeni specifikus IgM ellenanyagok kimutatása a vérből,
+
+- a kanyaróvírus antigén kimutatása fluoreszcens festékkel jelzett, kanyaróspecifikus monoklonális antitesteket felhasználva.
+
+A laboratóriumi eredményeket az oltottsági státus figyelembe vételével kell értelmezni. Ha az oltás a közelmúltban történt, a vad vírusra vonatkozóan kell vizsgálatot végezni.
+
+2.2. Elkülönítés:
+
+Kötelező.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A betegség gyanúja esetén a betegtől vírusszerológiai vizsgálat céljára alvadásgátló nélkül, sterilen vett két vérmintát kell az OEK-be küldeni a tünetek észlelésekor a betegség korai szakaszában és attól számított 14 nap elteltével. A tünetek kezdetének észlelésekor, vagy attól számított 1 héten belül víruskimutatás céljából Vírus Transzport Mediumban (VTM) garattörlet és vizeletminta is küldendő az OEK-be. Diagnosztikus értéke a savópár vizsgálat alapján megállapított morbilli specifikus IgG osztályba tartozó ellenanyag legalább négyszeres titeremelkedésének, vagy a morbilli specifikus IgM osztályú ellenanyag vagy a vírusnukleinsav jelenlétének van.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Megbetegedés előfordulása esetén a beteg környezetében élő, 12-14 hónapos kisgyermekeket, továbbá 1967 után született, 15 hónaposnál idősebb, oltási vagy újraoltási dokumentációval nem rendelkező személyeket élő, attenuált kanyaróvírus tartalmú oltóanyaggal kell oltani. Gyermek- és ifjúsági közösségben kanyaró megbetegedés előfordulása esetén a revakcinációról, annak kiterjesztéséről az OEK-kel történt előzetes egyeztetést követően kell dönteni. A kanyarós beteg fogékonynak tekinthető környezetéből passzív immunizálásban részesítendők gamma-globulinnal az expozíciót követő 6 napon belül: a 12 hónaposnál fiatalabb, ezért aktív immunizálásban még nem részesíthető kisgyermekek, illetve azon, korábban oltásra kötelezett, kanyarón át nem esett, kanyaró ellen nem oltott személyek, akiknél az aktív immunizálás ellenjavallt.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+-
+
+Nyugat-nílusi láz
+
+BNO10: A923
+
+1. Kórokozó:
+
+A Flaviviridae család flavivírus nemzetségébe tartozó nyugat-nílusi vírus.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset. Laboratóriumi vizsgálattal igazolt megbetegedés esetén a feltételezett expozíció helye szerint illetékes élelmiszerlánc-felügyeleti hatóság, illetve vér-, szövet-, szervdonáció esetén az érintett egészségügyi szolgáltató is értesítendő.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesül a klinikai feltételek egyike.
+
+Valószínűsíthető eset
+
+Teljesül a klinikai feltételek egyike és teljesül az alábbi két feltétel legalább egyike:
+
+- epidemiológiai kapcsolat,
+
+- a valószínűsíthető eset laboratóriumi feltétele.
+
+Megerősített eset
+
+Teljesül a klinikai feltételek egyike és a megerősített eset laboratóriumi feltételei.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Minden olyan személy, akinél láz és nyirokcsomó-megnagyobbodás, vagy izom-ízületi fájdalom jelentkezik,
+
+vagy az alábbi két tünetegyüttes legalább egyike:
+
+- agyvelőgyulladás,
+
+- agyhártyagyulladás.
+
+Epidemiológiai kritérium
+
+Az alábbi két epidemiológiai kapcsolat legalább egyike:
+
+- állatról emberre való terjedés (olyan területen való tartózkodás vagy olyan területen történt látogatás, szúnyogcsípés, ahol a nyugat-nílusi vírus endémiásan fordul elő a madarak és a lovak körében), vagy
+
+- emberről emberre való terjedés (vertikális terjedés, vérátömlesztés, transzplantáció).
+
+Laboratóriumi kritérium
+
+A megerősített eset laboratóriumi kritériumai
+
+Az alábbi négy feltétel legalább egyike:
+
+- a vírus izolálása vérből vagy liquorból,
+
+- a vírus nukleinsavának kimutatása vérből vagy liquorból,
+
+- a vírussal szemben termelődött specifikus IgM típusú ellenanyagok kimutatása a liquorból,
+
+- a vírussal szemben termelődött specifikus IgM típusú ellenanyagok kimutatása magas titerben és megerősítése vírusneutralizációval vérmintából.
+
+A valószínűsíthető eset laboratóriumi kritériumai
+
+- a vírussal szemben termelődött specifikus antitest kimutatása vérmintából.
+
+A laboratóriumi eredményeket a flavivírus oltási státusz vagy korábbi flavivírus-fertőzés, megbetegedés (pl. kullancsencephalitis, dengue-láz) figyelembevételével kell értelmezni.
+
+2.2. Elkülönítés:
+
+Nem szükséges.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Vér, liquor küldendő be az OEK működő referencia laboratóriumába.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Nem szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Tünetmentes személyek mikrobiológiai vizsgálata csak vér-, szövet- vagy szervdonáció révén történő fertőződés gyanúja esetén kötelező.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Vér, szövet vagy szerv donációja révén történő terjedés gyanúja esetén kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Vér, szövet vagy szerv donációja révén történő terjedés gyanúja esetén a donáció azonosítása kötelező.
+
+3.7. Egyéb intézkedések:
+
+Haladéktalanul értesíteni kell – az érintett személyazonosító és egészségügyi adatainak megküldésével – az érintett lakóhelye (tartózkodási helye) szerint illetékes élelmiszerlánc-felügyeleti szervet a szükséges intézkedések megtétele érdekében.
+
+Ornithosis
+
+BNO10: A70
+
+1. Kórokozó:
+
+Chlamydia psittaci.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Rtg-vizsgálattal igazolt atípusos pneumonia.
+
+Valószínűsíthető eset
+
+- teljesül a klinikai feltételek legalább egyike és az epidemiológiai feltételek egyike
+
+vagy
+
+- teljesül a klinikai feltételek legalább egyike és a valószínűsíthető eset laboratóriumi feltétele.
+
+Megerősített eset
+
+Teljesül a klinikai feltételek legalább egyike és a megerősített eset laboratóriumi feltétele.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+A két tünetegyüttes legalább egyike:
+
+- láz és köhögés és myalgia,
+
+- rtg-vizsgálattal igazolt atípusos pneumonia.
+
+Epidemiológiai kritérium
+
+- madarakkal történt kontaktus a lappangási időben,
+
+- madarak által szennyezett környezetben történt tartózkodás a lappangási időben,
+
+- atípusos pneumonia megbetegedések halmozódása.
+
+Laboratóriumi kritérium
+
+A valószínűsíthető eset laboratóriumi feltétele az alábbiak közül legalább egy:
+
+- kórokozó-specifikus IgA/IgG kimutatható,
+
+- kórokozó-specifikus IgM (titer ≥ 16) egyetlen vérmintában microimmunfluorescens (MIF) vizsgálattal.
+
+A megerősített eset laboratóriumi feltétele az alábbiak közül legalább egy:
+
+- C.psittaci DNS kimutatása PCR vizsgálattal mélylégúti mintából,
+
+- a betegség akut és konvaleszcens szakában 2-4 hét különbséggel vett két vérminta kórokozó-spcifikus IgG titerének legalább négyszeres emelkedése MIF vizsgálattal.
+
+2.2. Elkülönítés:
+
+Nem szükséges. Az atípusos pneumoniában és krónikus alapbetegségben szenvedő beteg kezelését a súlyos, halálos kimenetelű szövődmények kockázata miatt a terápiás feltételeket biztosító fekvőbeteg-gyógyintézetben kell végezni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Beküldendő alvadásgátló nélkül vett vér a betegség első 10 napján, valamint 21-25. napja között az OEK referencia laboratóriumába. A vérmintával együtt beküldött légúti váladék (köpet, tracheaváladék, mély légúti minta stb.) PCR-vizsgálata a betegség korai, szeronegatív szakában diagnosztikus értékű lehet. Az erőteljes antibiotikum kezelés késleltetheti az ellenanyagválasz kialakulását, ezért ha a második vérminta eredménye is negatív, újabb minták küldendők be 2 hetes időközzel a betegség 6. hetéig.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges. Azon személyeknek azonban szükséges a klinikai megfigyelése, akik a beteggel közös expozíciónak voltak kitéve, mivel így az adekvát terápia időben elkezdhető.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező, azonosítandó a fertőzött állat, állatállomány az illetékes élelmiszerlánc-felügyeleti szervvel együttműködve.
+
+3.6. A terjesztő közeg felderítése:
+
+-
+
+Paratyphus
+
+Paratífusz, BNO10: A01.4
+
+1. Kórokozó:
+
+Salmonella Paratyphi-A (A01.1), Salmonella Paratyphi-B (A01.2), Salmonella Paratyphi-C (A01.3).
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Klinikai kritériumok megléte.
+
+Valószínűsíthető eset
+
+Klinikai és epidemiológiai kritériumok megléte.
+
+Megerősített eset
+
+Klinikai és laboratóriumi kritériumok megléte.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Bármely személy, akinél jelentkezik az alábbi két tünet legalább egyike:
+
+- folyamatos, hosszantartó láz,
+
+- az alábbi négy tünet közül legalább kettő:
+
+- fejfájás,
+
+- relatív bradycardia,
+
+- száraz köhögés,
+
+- hasmenés vagy székrekedés, rossz közérzet vagy hasi fájdalom.
+
+Epidemiológiai kritérium
+
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
+
+- szennyezett élelmiszer fogyasztása,
+
+- emberről emberre való terjedés,
+
+- közös expozíció.
+
+Laboratóriumi kritérium
+
+A S.Paratyphi izolálása és azonosítása vérből, székletből vagy vizeletből.
+
+2.2. Elkülönítés:
+
+Kötelező, kórházban, fertőző osztályon. A beteget addig kell elkülöníteni, amíg a klinikai tünetek megszűnése és az antibiotikus terápia befejezését követő 48 óra múlva, egymást követő napokon vett 3 széklet és vizeletminta vizsgálata negatív eredményt nem ad. Ha a vizsgálatsorozatból egy is pozitív, az elkülönítés megszüntethető, de a gyógyultat járványügyi ellenőrzés alatt kell tartani mindaddig, amíg a kórokozó hordozás meg nem szűnik. A járványügyi ellenőrzés alatt álló személyeket el kell tiltani a 0-6 éves gyermekek közösségének látogatásától vagy ilyen közösségekben, intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkakörtől, a közvetlen betegellátás során étel- és gyógyszerkiosztás végzésétől; illetve hőkezelés nélkül közvetlenül közfogyasztásra kerülő élelmiszerek, ételek, italok kezelésétől: közétkeztetésben, vízművekben való foglalkoztatástól; anyatej adásától, illetve anyatej kezeléstől.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Diagnosztikus célra járványügyi feladat ellátásra kijelölt vagy a referencia-laboratóriumba beküldendő széklet és vizelet, továbbá sterilen, alvadásgátló nélkül vett vér. Az első mintákat lehetőleg az antibiotikum terápia megkezdése előtt a betegség első napjaiban kell venni. A vizsgálatokat – ha a tenyésztés negatív eredményű – célszerű 3 héten belül többször megismételni, akkor is, ha a beteg időközben antibiotikum kezelésben részesül. A kórokozó kitenyésztése a beteg váladékaiból igazolja, az ismételt szerológiai vizsgálatokban észlelt titeremelkedés megerősíti a diagnózist.
+
+2.3.3. Felszabadító vizsgálat:
+
+Felszabadító és ellenőrző vizsgálat céljára székletet és vizeletet kell küldeni az OEK referencia laboratóriumába. A paratífuszból gyógyult és az elkülönítés alól felszabadított személynél az utolsó pozitív lelettől számított 1 éven át havonta egy alkalommal széklet- és vizeletvizsgálatot kell végezni.
+
+2.4. Fertőtlenítés:
+
+Folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Kötelező.
+
+3.3. Járványügyi megfigyelés:
+
+A beteggel érintkezett személyeket 10 napra járványügyi megfigyelés alá kell helyezni, és ezen időre ki kell tiltani a felsorolt munkakörökből és intézményekből. A beteggel érintkezett és járványügyi megfigyelés alá helyezett személyek foglalkozásukat, tevékenységüket, illetve közösségek látogatását csak akkor folytathatják, ha a megfigyelési idő második hetében elkezdett, egymást követő napokon vett 2 széklet- és vizeletminta vizsgálata negatív eredményt adott. 0-6 éves gyermekek közösségében történt megbetegedés esetén 10 napi felvételi zárlatot kell elrendelni.
+
+Ha a megbetegedést kórházi osztályon észlelték, a beteg elkülönítése után a vele érintkezett ápoltakat és az ápoló személyzetet 10 napra járványügyi megfigyelés alá kell helyezni és el kell végezni a széklet- és vizeletvizsgálatokat. Az esemény, továbbá az osztály adottságaitól függően 10 napos felvételi zárlat is elrendelhető. Megbetegedés vagy tünetmentes ürítés esetén értelemszerűen az előző pontokban felsoroltak szerint kell eljárni (elkülönítés, járványügyi ellenőrzés, munkából való kitiltás stb.). Ha a beteggel érintkezett ápoltak alapbetegsége megengedi, hazabocsáthatók, de otthonukban a járványügyi megfigyelést folytatni kell, és ezt zárójelentésükre fel kell jegyezni, a lakóhely szerint illetékes járási hivatal egyidejű értesítése mellett. A fertőzés forrását fel kell kutatni. A beteg környezetében kórokozó-hordozásra irányuló székletszűrő vizsgálatot kell végezni. A felderített pozitív személyeket járványügyi ellenőrzés alá kell helyezni, és a velük kapcsolatos eljárásokat és laboratóriumi vizsgálataikat az e rendeletben foglaltak szerint kell elvégezni.
+
+A kórokozógazda lakásváltoztatásáról vagy haláláról háziorvosa értesíti az illetékes járási hivatalt. Az utóbbi jelenti az eseményt az illetékes kormányhivatalnak, valamint lakáscímváltozás esetén megküldi a kórokozógazda nyilvántartási lapját az új lakóhely szerint illetékes járási hivatalnak.
+
+A kórokozó-ürítők és kórokozó gazdák felszabadítására vonatkozó eljárások:
+
+A) A kórokozó-ürítő felszabadítására vonatkozó vizsgálatokat
+
+a) meg lehet indítani, ha laboratóriumi ellenőrző vizsgálatai legalább 6 hónapon át havonta folyamatosan negatívak;
+
+b) meg kell indítani, ha az ellenőrző vizsgálatok egy éven át havonta folyamatosan negatívak.
+
+A felszabadító vizsgálat 8 egymás után következő héten át végzett heti 1 identifikált széklet és vizelet bakteriológiai vizsgálatából áll. Ha ezek mind negatívak és e vizsgálatok után vett duodenális váladék vizsgálata is negatív, a baktériumürítő járványügyi ellenőrzése megszüntethető.
+
+B) A kórokozógazda felszabadító vizsgálatait akkor lehet megindítani, ha félévi ellenőrző vizsgálatai legalább két éven át állandóan negatív eredményűek voltak, és a kórokozógazda kéri a járványügyi ellenőrzés megszüntetését.
+
+A felszabadító vizsgálat 6 hónapon át havonta 2 alkalommal (összesen tehát 12) személyes ellenőrzés mellett vett széklet- és vizeletminta bakteriológiai vizsgálatából áll. Ha ezek, valamint a vizsgálatok után végzett duodenális váladékvizsgálat is kivétel nélkül negatív eredménnyel zárult, a kórokozógazdát fel kell szabadítani. A felszabadított kórokozógazdát még további egy évig havonta egy alkalommal laboratóriumilag ellenőrizni kell.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező.
+
+Parotitis epidemica
+
+Mumpsz, járványos fültőmirigy-gyulladás, BNO10: B26
+
+1. Kórokozó:
+
+Paramyxo vírusok családjához tartozó mumpsz vírus.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesülnek a klinikai kritériumok.
+
+Valószínűsíthető eset
+
+Teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat.
+
+Megerősített eset
+
+A közelmúltban nem oltott személynél: teljesülnek a klinikai feltételek és a laboratóriumi feltételek legalább egyike.
+
+A közelmúltban történt oltás esetén: vad mumpszvírustörzs kimutatása támasztja alá a diagnózist.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Lázas megbetegedés
+
+és az alábbi három feltétel közül legalább egy:
+
+- a fültőmirigyek vagy más nyálmirigy hirtelen megjelenő egy- vagy kétoldali duzzanata,
+
+- heregyulladás,
+
+- meningitis.
+
+Epidemiológiai kritérium
+
+Emberről emberre történő terjedés.
+
+Laboratóriumi kritérium
+
+- A mumpszvírus izolálása klinikai mintából,
+
+- a mumpszvírus nukleinsav kimutatása klinikai mintában,
+
+- mumpszvírussal szembeni specifikus ellenanyagok kimutatása a vérsavóban vagy a nyálban, mely akut fertőzést igazol.
+
+A laboratóriumi eredményeket az oltási státusz figyelembevételével kell értelmezni. Ha az oltás a közelmúltban történt, a vad vírusra vonatkozóan kell vizsgálatot végezni.
+
+2.2. Elkülönítés:
+
+Kötelező.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A betegség gyanúja esetén a betegtől vírusszerológiai vizsgálat céljára alvadásgátló nélkül vett vért kell az OEK-be küldeni. Az első alvadásgátló nélkül, sterilen vett vérmintát a betegség korai szakában, a másodikat két hét múlva kell beküldeni. A tünetek kezdetének észlelésekor vagy attól számított 1 héten belül víruskimutatás céljából Vírus Transzport Mediumban (VTM) garattörlet és vizeletminta is küldendő az OEK-be. Diagnosztikus értéke a savópár vizsgálat alapján megállapított mumpsz specifikus IgG osztályú ellenanyag legalább négyszeres titeremelkedésnek vagy a mumpsz specifikus IgM osztályú ellenanyagok vagy a vírusnukleinsav jelenlétének van.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Közösségi esetek, illetve halmozódások előfordulása esetén a megbetegedési veszély elhárítása céljából a fogékony személyeket aktív immunizálásban kell részesíteni az OEK-kel történő előzetes megbeszélés alapján.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+-
+
+Pertussis
+
+Szamárköhögés, BNO10: A37
+
+1. Kórokozó:
+
+Bordetella pertussis
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesülnek a klinikai feltételek.
+
+Valószínűsíthető eset
+
+Teljesülnek a klinikai és epidemiológiai feltételek.
+
+Megerősített eset
+
+Teljesülnek a klinikai és laboratóriumi feltételek.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Legalább két hete fennálló köhögés
+
+és
+
+az alábbi három tünet legalább egyike:
+
+- köhögési rohamok,
+
+- húzó belégzés (inspirációs stridor),
+
+- köhögést követő hányás,
+
+vagy
+
+olyan személy, akinél az orvos szamárköhögést diagnosztizált,
+
+vagy
+
+apnoés epizódok csecsemőknél.
+
+Epidemiológiai kritérium
+
+Emberről emberre terjedés.
+
+Laboratóriumi kritérium
+
+Legalább egy feltétel az alábbiak közül:
+
+- a Bordetella pertussis izolálása klinikai mintából,
+
+- a Bordella pertussis nukleinsav kimutatása klinikai mintában,
+
+- Bordetella pertussis-szal szembeni specifikus ellenanyagok kimutatása.
+
+2.2. Elkülönítés:
+
+Kötelező.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Egy év alatti betegnél pertussis gyanúja esetén minden esetben orrgarat váladék vizsgálata javasolt, amelyet az antibiotikumos kezelés megkezdése előtt kell levenni. A betegség gyanúja esetén a parapertussistól és egyéb kórokozók által okozott pertussis syndromától való elkülönítés céljából savópár küldendő az OEK-be. Az első – alvadásgátló nélkül, sterilen vett – vérmintát a gyanú felvetésekor az antibiotikus kezelés megkezdése előtt, a másodikat 4-5 héttel később kell beküldeni. Oltott személy esetén – ha az utolsó védőoltás óta két évnél kevesebb idő telt el – a betegtől a betegség kezdetétől számított két héten belül vett orrgarat váladék küldendő be vizsgálatra.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+- A beteggel érintkezett 6 éven aluli gyermekeket 14 napi időre járványügyi megfigyelés alá kell helyezni. A hurutos gyermeknél orvosi vizsgálatot kell végezni. A beteggel érintkezett, oltatlan vagy életkoruknak megfelelően csak részben oltott gyermekeket bölcsődék, óvodák, bentlakásos gyermekintézmények és iskolák látogatásától 14 napra el kell tiltani.
+
+- A megbetegedésnek az előzőekben felsorolt közösségekben való előfordulása esetén a beteg izolálása után a beteggel szoros kontaktusban élő személyeket, családtagokat 14 napra járványügyi megfigyelés alá kell helyezni, a korukhoz képest hiányosan oltott gyermekek számára 14 napos felvételi zárlatot kell elrendelni.
+
+- Kórházi osztályon előfordult megbetegedés esetén a pertussis-ban szenvedő beteg elkülönítése után 14 napi időre járványügyi megfigyelés alá kell helyezni a 6 éven aluli oltatlan, vagy részlegesen oltott betegeket. A járványügyi megfigyelés alatt álló ápoltak alapbetegségük gyógyulása után a kórházból hazabocsáthatók, de a megfigyelést az otthonukban is folytatni kell. A zárójelentésben fel kell tüntetni a kontaktus tényét és az esetleges kemoprofilaxis elvégzését. A kórteremben felvételi zárlatot kell elrendelni minden 1 éven aluli, valamint olyan 1-6 éves gyermek számára, aki korának megfelelően hiányosan oltott.
+
+3.4. Postexpozíciós profilaxis:
+
+Védőoltás jelen rendelet és az adott évre szóló Védőoltási Módszertani Levélben megfogalmazottak, antibiotikum adása az OEK ajánlása szerint.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+-
+
+Pestis
+
+BNO10: A20
+
+1. Kórokozó:
+
+Yersinia pestis.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEKet.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+Teljesülnek a klinikai feltételek és fennáll az epidemiológiai kapcsolat.
+
+Megerősített eset
+
+Teljesülnek a laboratóriumi feltételek.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Akinél jelentkezik az alábbi klinikai formák legalább egyike:
+
+- Bubópestis:
+
+- láz
+
+és
+
+- hirtelen megjelenő fájdalmas nyirokcsomó-gyulladás.
+
+- Szeptikus pestis:
+
+- láz.
+
+- Tüdőpestis:
+
+- láz
+
+és az alábbi három tünet legalább egyike:
+
+- köhögés,
+
+- mellkasi fájdalom,
+
+- véres köpet.
+
+Epidemiológiai kritérium
+
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
+
+- emberről emberre való terjedés,
+
+- állatról emberre való terjedés,
+
+- laboratóriumi expozíció (ahol lehetséges a pestis kórokozójával történő expozíció),
+
+- közös forrással való érintkezés,
+
+- utazás a lappangási időben endémiás területre.
+
+Laboratóriumi kritérium
+
+Az alábbi három feltétel legalább egyike:
+
+- a Yersinia pestis izolálása klinikai mintából,
+
+- a Yersinia pestis nukleinsav kimutatása klinikai mintában (F1 antigén),
+
+- a Yersinia pestis F1-antigénjével szembeni specifikus ellenanyagok kimutatása.
+
+2.2. Elkülönítés:
+
+A beteget rovartalanítás után a kijelölt kórházban (Egyesített Szent István és Szent László Kórház-Rendelőintézet) kell elkülöníteni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A betegség gyanúja esetén a mintákat haladéktalanul, egyidejű telefon/fax értesítés mellett külön futárral kell az OEK referencia laboratóriumába szállítani.
+
+Diagnosztikus minta
+
+- genny, trachea-váladék, illetve bronchus-mosó folyadék,
+
+- hemokultúra,
+
+- szérum,
+
+- bubo-aspirátum,
+
+- liquor,
+
+- post mortem vett vénás vér (10 ml), tüdő-, lép- vagy nyirokcsomó szövetminta.
+
+Minden mintát transzport táptalajon kell a vizsgáló laboratóriumba szállítani.
+
+2.3.3. Felszabadító vizsgálat:
+
+A tüdő-pestisben szenvedő beteg felszabadító laboratóriumi vizsgálata hatékony antibiotikus kezelés 72. óráját követően nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Szigorított folyamatos és szigorított zárófertőtlenítést kell végezni.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Tüdőpestis esetén kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A beteggel érintkezett személyeket 7 napra szigorított járványügyi megfigyelés (zárlat) alá kell helyezni.
+
+3.4. Postexpozíciós profilaxis:
+
+A köpetet is ürítő tüdő-pestises beteggel szoros kontaktusba került személyek számára (környezet, egészségügyi személyzet stb.) antibiotikum profilaxist kell biztosítani.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező.
+
+Poliomyelitis
+
+Heveny gyermekbénulás, BNO10: A80
+
+1. Kórokozó:
+
+Poliovírus 1, 2, 3 típusa
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús eset. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEK-et.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesülnek a klinikai feltételek.
+
+Valószínűsíthető eset
+
+Teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat.
+
+Megerősített eset
+
+Teljesülnek a klinikai és laboratóriumi feltételek.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+- 15 évnél fiatalabb személy, akinél heveny, petyhüdt bénulás jelentkezik
+
+vagy
+
+- az orvosi diagnózis alapján a járványos gyermekbénulás gyanúja felmerül.
+
+Epidemiológiai kritérium
+
+Az alábbi két epidemiológiai kapcsolat legalább egyike:
+
+- emberről emberre való terjedés,
+
+- olyan területen tartózkodás, ahol a gyermekbénulás előfordul vagy ahol a poliovírus feltételezhetően vagy bizonyítottan jelen van.
+
+Laboratóriumi kritérium
+
+Az alábbi három feltétel legalább egyike:
+
+- poliovírus izolálása és típus-meghatározása - vad poliovírus,
+
+- vakcina eredetű poliovírus (legalább 85%-os egyezés a vakcinavírus VP1 szakaszának nukleotidsorrendjével),
+
+- Sabin-féle poliovírus.
+
+2.2. Elkülönítés:
+
+A beteget 4 hétig az Egyesített Szent István és Szent László Kórház-Rendelőintézetben kell elkülöníteni.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Beküldendő a betegség korai szakában, 3 egymást követő napon vett székletminta és garatöblítő folyadék (torokmosó folyadék), 1-2 liquor minta, valamint akut és rekonvaleszcens savó (intervallum legalább 21 nap, alvadásgátló nélkül, sterilen vett vér) kizárólag az OEK-be. Halállal végződött esetekben a lehető legrövidebb időn belül elvégzett szekció anyagából agy- és gerincvelő-mintákat kell küldeni az OEK-be.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A beteg környezetében élőket 14 napra járványügyi megfigyelés alá kell venni.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+-
+
+3.7. Egyéb intézkedések:
+
+Egyedi járványügyi vizsgálattal tisztázni kell, hogy a beteg vagy annak családjában, intézeti környezetében kapott-e valaki élő, attenuált vírustartalmú vakcinát.
+
+Q-láz
+
+BNO10: A78
+
+1. Kórokozó:
+
+Coxiella burnetii.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset:
+
+-
+
+Valószínűsíthető eset
+
+Minden olyan személy, akire teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat.
+
+Megerősített eset
+
+Minden olyan személy, akire teljesülnek a klinikai és laboratóriumi kritériumok.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Minden olyan személy, akinél jelentkezik az alábbi három tünet közül legalább kettő:
+
+- láz,
+
+- tüdőgyulladás,
+
+- hepatitis.
+
+Epidemiológiai kritérium
+
+Az alábbi két epidemiológiai kapcsolat legalább egyike:
+
+- közös forrással való érintkezés,
+
+- állatról emberre való terjedés közvetlen kontaktus vagy közvetett kontaktus (pl. nyers tej vagy tejtermék fogyasztása) révén.
+
+Laboratóriumi kritérium
+
+Az alábbi két feltétel legalább egyike:
+
+- a Coxiella burnetii nukleinsav kimutatása klinikai mintában (pl. légúti váladék),
+
+- a Coxiella burnetii-vel szembeni specifikus ellenanyagok kimutatása (2. fázisú IgG, illetve IgM).
+
+2.2. Elkülönítés:
+
+Nem szükséges.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Beküldendő a betegség első 10 napján, valamint a 21-25. napja között alvadásgátló nélkül, sterilen vett vérminta az OEK referencia laboratóriumába. A vérmintával együtt beküldött légúti váladék (köpet, tracheaváladék, mély légúti minta, stb.) vagy egyéb klinikai minta PCR-vizsgálata a betegség korai, szeronegatív szakában diagnosztikus értékű lehet. Az erőteljes antibiotikus kezelés késleltetheti az ellenanyagválasz kialakulását, ezért ha a második vérminta vizsgálati eredménye is negatív, újabb vérminták küldendők be előzetes konzultációt követően.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés végzendő.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Ha az expozíciónak további, kockázati csoportokba tartozó személyek is ki voltak téve, akkor klinikai tünetek jelentkezése esetén vizsgálatuk szükséges, a krónikus Q-láz kialakulásának megelőzése érdekében. Tünetmentes személyek szűrővizsgálata nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A közös expozíciónak kitett személyek járványügyi megfigyelése szükséges, hogy a célzott terápia időben elkezdhető legyen. Munkakörből való kitiltás a megfigyelés időtartamára nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Ha a vizsgálat klinikailag gyanús esetekben aktuális fertőzést igazol, szükséges az antibiotikus kezelés a krónikus Q-láz kialakulásának megelőzése érdekében.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező. Járványos előfordulás esetén értesíteni kell a területileg illetékes élelmiszerlánc-felügyeleti hatóságot és azzal együttműködve kell felderíteni a fertőzés forrását.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező.
+
+Rotavírus okozta gastroenteritis
+
+BNO10: A08.0
+
+1. Kórokozó:
+
+A Reoviridae családba tartozó rotavírus A, ritkán B és C szerocsoportja.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+Klinikai és epidemiológiai kritériumok megléte.
+
+Megerősített eset
+
+A klinikai és laboratóriumi kritériumok megléte.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Az alábbi tünetek közül legalább kettő:
+
+- vizes hasmenés,
+
+- láz,
+
+- hányás.
+
+Epidemiológiai kritérium
+
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
+
+- emberről emberre való terjedés,
+
+- szennyezett élelmiszer fogyasztása,
+
+- szennyezett víz fogyasztása.
+
+Laboratóriumi kritérium
+
+Az alábbi feltételek legalább egyike:
+
+- rotavírus kimutatása székletből,
+
+- rotavírus kimutatása hányadékból.
+
+2.2. Elkülönítés:
+
+A beteg otthonában, tartózkodási helyén vagy a betegség súlyosságától függően kórházban a hasmenés fennállásáig elkülönítendő.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Járvány gyanúja esetén az addig még nem vizsgált betegek első diagnosztikus vizsgálatát a járványügyi feladat ellátására kijelölt laboratóriumban kell végezni.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+A beteg családi vagy munkahelyi környezetében élő 0-6 éves gyermekeket 3 napra járványügyi megfigyelés alá kell helyezni, és a gyermekkorú családi kontaktokat el kell tiltani 0-6 éves gyermekközösségek látogatásától.
+
+Gyermekközösségekben, intézményekben (0-3 éves korig) előforduló halmozott, járványos megbetegedések esetén 3 napos felvételi zárlatot kell elrendelni.
+
+Bentlakásos intézményben, kórházi osztályon előfordult megbetegedés esetén az intézményben, osztályon vagy jól elkülöníthető körülmények között a szobára vonatkozóan 3 napos felvételi zárlatot kell elrendelni. Az ez idő alatt kibocsátottak zárójelentésén a beteggel való kontaktust fel kell tüntetni, és a járványügyi megfigyelés folytatása érdekében értesíteni kell a járási hivatalt.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Járvány esetén kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Járvány esetén kötelező.
+
+Rubeola
+
+Rózsahimlő, BNO10: B06
+
+1. Kórokozó:
+
+A Togaviridae család, Rubivírus genusát alkotó Rubeola vírus.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesülnek a klinikai feltételek.
+
+Valószínűsíthető eset
+
+Teljesült a klinikai feltétel és az alábbi két feltétel legalább egyike:
+
+- epidemiológiai kapcsolat,
+
+- a valószínűsíthető eset laboratóriumi feltétele.
+
+Megerősített eset
+
+- Olyan, a közelmúltban védőoltásban nem részesített személy, akire teljesül a megerősített eset laboratóriumi feltételei közül legalább egy,
+
+- ha a beteget a közelmúltban oltották, akkor a vad rubeolavírus kimutatása erősíti meg a diagnózist.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Maculopapulosus bőrkiütések
+
+és
+
+az alábbi öt tünet legalább egyike:
+
+- tarkótáji nyirokcsomó-duzzanat,
+
+- nyaki nyirokcsomó-duzzanat,
+
+- posztauriculáris nyirokcsomó-duzzanat,
+
+- ízületi fájdalom,
+
+- ízületi gyulladás.
+
+Epidemiológiai kritérium
+
+Emberről emberre történő terjedés.
+
+Laboratóriumi kritérium
+
+Valószínűsíthető eset laboratóriumi feltétele:
+
+Rubeolavírussal szembeni specifikus ellenanyagok (IgM) kimutatása, ha a terhesség során rubeola gyanúja áll fenn. Ekkor az IgM-pozitív eredményt rubeola-specifikus IgG-aviditási vizsgálattal kell kiegészíteni.
+
+A megerősített eset laboratóriumi feltétele:
+
+- a rubeolavírus izolálása klinikai mintából,
+
+- a rubeolavírus nukleinsav kimutatása klinikai mintában,
+
+- a rubeolavírussal szembeni specifikus ellenanyagok kimutatása vérsavóban.
+
+A laboratóriumi eredményeket az oltottsági státus figyelembe vételével kell értelmezni.
+
+2.2. Elkülönítés:
+
+Kötelező.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A betegség gyanúja esetén a diagnózis tisztázása céljából alvadásgátló nélkül, sterilen vett két vérmintát kell küldeni az OEK-be: az elsőt a betegség kezdetekor, a másodikat két hét múlva. Rubeola-gyanús klinikai tüneteket mutató, vagy a rubeola-fertőzésnek kitett, terhességük első három hónapjában lévő nőktől ugyancsak két vérmintát szükséges küldeni. Az első vérmintát az expozíciót követő 7 napon belül, ha pedig rubeola-gyanús tünetek jelentkeznek a terhesen, a kiütés megjelenését követő 3 napon belül kell levenni. A második vérmintát az expozíció vagy a kiütés megjelenése utáni 10-14. nap között kell levenni. A tünetek kezdetének észlelésekor vagy attól számított 1 héten belül víruskimutatás céljából Vírus Transzport Mediumban (VTM) garattörlet és vizeletminta is küldendő az OEK-be. Diagnosztikus értéke a HAG vagy IgG ellenanyagszint legalább négyszeres titeremelkedésének, vagy a rubeola specifikus IgM osztályú ellenanyagok jelenlétének, vagy az aviditás érték szignifikáns emelkedésének, vagy a vírusnukleinsav jelenlétének van.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+A terhességük első 3 hónapjában lévő expozíciónak kitett gravidák fogékonyságát, illetve esetleges fertőződését vírusszerológiai vizsgálattal kell ellenőrizni.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+A rubeolás beteg környezetében élő, 15 hónaposnál idősebb (koránál fogva védőoltásra kötelezett), de oltási dokumentációval nem rendelkező személyeket védőoltásban kell részesíteni. Közösségi esetek, halmozódások előfordulása esetén az oltások kiterjesztésében az OEK-kel történt előzetes megbeszélés alapján kell dönteni.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+-
+
+Congenitalis Rubeola Syndroma
+
+CRS, BNO10: P35.0
+
+1. Kórokozó:
+
+A Togaviridae család, Rubivírus genusát alkotó Rubeolavírus.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset. A CRS 2 éves korig bejelentendő.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesülnek a klinikai feltételek.
+
+Valószínűsíthető eset
+
+Minden olyan elhalt magzat vagy halvaszületett újszülött, akit nem vizsgáltak, vagy akinél a vizsgálat negatív eredménnyel zárult és az alábbi két feltétel legalább egyike teljesül:
+
+- epidemiológiai kapcsolat és a congenitalis rubeola szindrómával kapcsolatos klinikai feltételek közül legalább egy az (A) kategóriából,
+
+- a congenitalis rubeola szindróma klinikai feltételei teljesülnek.
+
+Megerősített eset
+
+Minden olyan halvaszületett csecsemő, akire teljesülnek a laboratóriumi feltételek
+
+vagy
+
+minden olyan csecsemő, akinél teljesülnek a laboratóriumi feltételek és teljesül az alábbi két feltétel legalább egyike:
+
+- epidemiológiai kapcsolat,
+
+- a congenitalis rubeola szindróma klinikai feltételei közül legalább egy az (A) kategóriából.
+
+Azt az újszülöttet, akinél pozitív laboratóriumi eredményt állapítanak meg, de az anya terhesség alatti kórtörténetében nem szerepel rubeola és nem teljesülnek az (A) kategória klinikai feltételei, rubeola megbetegedésként kell bejelenteni.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Minden egy évnél fiatalabb csecsemő vagy minden halvaszületett magzat, akire teljesülnek az alábbiak:
+
+- az (A) kategória feltételei közül legalább kettő
+
+vagy
+
+- egy feltétel az (A) és egy a (B) kategóriában:
+
+(A) kategória
+
+- szürkehályog,
+
+- kongenitális zöldhályog,
+
+- kongenitális szívbetegség,
+
+- halláskárosodás,
+
+- pigmentretinopátia,
+
+(B) kategória
+
+- purpura,
+
+- lépmegnagyobbodás,
+
+- kisfejűség (mikrokefália),
+
+- fejlődési visszamaradottság,
+
+- Meningo-encephalitis,
+
+- a csont radiolucens/ radioaktivitást átengedő elváltozása,
+
+- sárgaság, amely a születést követő 24 órán belül jelentkezik.
+
+Epidemiológiai kritérium
+
+Minden olyan újszülött vagy halvaszületett magzat, aki a terhesség idején laboratóriumi vizsgálattal igazolt rubeolafertőzésen átesett anyjától fertőződött.
+
+Laboratóriumi kritérium
+
+Az alábbi négy feltétel legalább egyike:
+
+- rubeolavírus izolálása klinikai mintából,
+
+- rubeolavírus nukleinsav kimutatása,
+
+- rubeolavírus-specifikus ellenanyagok (IgM) kimutatása,
+
+- rubeolavírus-specifikus IgG antitest perzisztálása 6-12 hónapos kor között (legalább két minta, hasonló rubeola-specifikus IgG titerrel).
+
+A laboratóriumi eredményeket az oltottsági státus figyelembe vételével kell értelmezni.
+
+2.2. Elkülönítés:
+
+Kötelező.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. A betegség gyanúja esetén a diagnózis tisztázása céljából alvadásgátló nélkül, sterilen vett két vérmintát kell küldeni az OEK-be.
+
+2.3.3. Felszabadító vizsgálat:
+
+12 hónaposnál fiatalabb, CRS-ben szenvedő csecsemők elkülönítése akkor szüntethető meg, ha a vizelet és a torokváladék már nem tartalmaz rubeolavírust.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+A beteggel kontaktusba került várandósoknál tisztázni kell a várandós oltottsági státuszát, dokumentált rubeola elleni védőoltás hiányában átvészeltségi vizsgálatot kell végezni.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Nem szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+Nem szükséges.
+
+Salmonellosis
+
+BNO10: A02
+
+1. Kórokozó:
+
+A Salmonella genus különféle szerotípusai, a S. Typhi, a S. Paratyphi-A-B-C kivételével.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+Klinikai és epidemiológiai kritériumok megléte.
+
+Megerősített eset
+
+Klinikai és laboratóriumi kritériumok megléte.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Az alábbi tünetek közül legalább egy:
+
+- hasmenés,
+
+- láz,
+
+- hasi fájdalom,
+
+- hányás.
+
+Epidemiológiai kritérium
+
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
+
+- szennyezett élelmiszerrel/ivóvízzel való expozíció,
+
+- emberről emberre való terjedés,
+
+- állatról emberre való terjedés,
+
+- közös expozíció,
+
+- környezeti expozíció.
+
+Laboratóriumi kritérium
+
+A Salmonella izolálása – és S.Typhi és S.Paratyphi kizárása – székletből, vizeletből, vérből, vagy a test egy meghatározott helyéről (pl. fertőzött seb) vagy más, normálisan steril helyről (pl. liquor, csont, synovialis folyadék, stb.) vett mintából.
+
+2.2. Elkülönítés:
+
+Otthonában, tartózkodási helyén, ha a betegség súlyossága megköveteli, fekvőbeteg gyógyintézetben elkülönítendő.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Sporadikus esetben bármely klinikai mikrobiológiai laboratóriumban elvégezhető.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Járvány gyanúja esetén az addig még nem vizsgált betegek első diagnosztikus vizsgálatát a járványügyi feladatok ellátására kijelölt laboratóriumban kell végezni, ugyanitt történik a Salmonella szerotipizálása is.
+
+2.3.3. Felszabadító vizsgálat:
+
+A klinikai gyógyulást követően székletbakteriológiai ellenőrző (felszabadító) vizsgálatot kizárólag azon személyeknél kell elvégezni, akik 0-3 éves gyermekek közösségébe járnak, akik szociális, illetve egészségügyi intézmények ápoltjai, gondozottjai, akik anyatejet adnak vagy anyatejet kezelnek. Az ilyen személyek a közösség, intézmény látogatását, illetve tevékenységüket csak akkor folytathatják, ha a gyógyulás után két nap múlva elkezdett, két egymást követő napon levett egy-egy székletminta bakteriológiai vizsgálata negatív eredménnyel jár. A felszabadító vizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a 0-3 éves gyermekek közösségének látogatását, illetve anyatej adását és kezelését csak akkor folytathatják, ha a székletbakteriológiai vizsgálatuk egy alkalommal negatív eredményt ad.
+
+2.4. Fertőtlenítés:
+
+Folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Az azonos ételt fogyasztók (10-nél több személy esetén 20%-uk, de legalább 10 fő) és a 3.3. pontban meghatározott személyek szűrővizsgálatát el kell végezni.
+
+3.3. Járványügyi megfigyelés:
+
+A beteg környezetében vizsgált és pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a 0-3 éves gyermekek közösségének látogatását, illetve anyatej adását és kezelését csak akkor folytathatják, ha a székletbakteriológiai vizsgálatuk egy alkalommal negatív eredményt ad.
+
+Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0-3 éves korig) 5 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek székletvizsgálatát. Ezen gyermekintézményekben a baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad.
+
+Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 5 napos felvételi zárlatot kell elrendelni. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell. Ezért a beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor az elbocsátott a salmonellosisban szenvedő beteggel utoljára érintkezett. Erről a járási hivatalt is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező. A gyanúsított élelmiszer, illetve nyersanyagainak és az előállítás környezetének mikrobiológiai vizsgálatát el kell végeztetni az élelmiszerlánc-felügyeleti hatósággal együttműködve.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező. Ha közfogyasztásra szánt élelmiszer vagy víz a terjesztő közeg, az illetékes élelmiszerlánc-biztonsági hatóságot értesíteni kell a szükséges intézkedések megtétele érdekében.
+
+Scarlatina
+
+Vörheny, BNO10: A38
+
+1. Kórokozó:
+
+Az A-csoportú Streptococcus pyogenes erythrogen toxint termelő törzse.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Minden olyan személy, akinél fennállnak a klinikai feltételek.
+
+Valószínűsíthető eset
+
+Minden olyan személy, akire teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat.
+
+Megerősített eset
+
+-
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Tonsillitis follicularis és a következők közül legalább az egyik:
+
+- „málnanyelv”,
+
+- pontozott enanthema: kicsi, tűszúrásnyi, élénkvörös; a száj körüli terület azonban halvány marad,
+
+- a bőr hámló gyógyulása
+
+vagy
+
+- sebskarlát (a kiütés a seb környékén keletkezik, és onnan terjed a többi testrészre).
+
+Epidemiológiai kritérium
+
+Az alábbi két epidemiológiai kapcsolat legalább egyike:
+
+- közös forrással való érintkezés,
+
+- emberről emberre való terjedés.
+
+Laboratóriumi kritérium
+
+-
+
+2.2. Elkülönítés:
+
+A beteget otthonában vagy kórházban (fertőző osztályon) kell elkülöníteni 6 napig.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Általában nem szükséges.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Nem szükséges.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Nem szükséges.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Nem szükséges.
+
+3.6. A terjesztő közeg felderítése:
+
+Nem szükséges.
+
+Shigellosis
+
+Vérhas, bakteriális dysenteria, BNO10: A03
+
+1. Kórokozó:
+
+A Shigella genus A-D alcsoportokba sorolt tagjai. Leggyakrabban a Shigella sonnei (D alcsoport) és a Shigella flexneri (B alcsoport), ritkán a Shigella dysenteriae és a Shigella boydii.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús vagy a valószínűsíthető vagy a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+Teljesül a klinikai feltétel.
+
+Valószínűsíthető eset
+
+Teljesül a klinikai és epidemiológiai feltétel.
+
+Megerősített eset
+
+Teljesül a klinikai és laboratóriumi feltétel.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+Az alábbi tünetek legalább egyike:
+
+- hasmenés (gyakori híg, nyákos, esetleg gennyes, véres széklet),
+
+- láz,
+
+- hányás,
+
+- hasi fájdalom,
+
+- görcsös székelési inger (tenezmus).
+
+Epidemiológiai kritérium
+
+Az alábbi epidemiológiai kapcsolatok legalább egyike:
+
+- emberről emberre való terjedés,
+
+- kontaminált élelmiszer, illetve ivóvíz fogyasztása,
+
+- közös forrással való érintkezés,
+
+- környezeti expozíció.
+
+Laboratóriumi kritérium
+
+A Shigella faj izolálása székletből. (El kell végezni a Shigella alcsoport-meghatározást.)
+
+2.2. Elkülönítés:
+
+Otthonában, tartózkodási helyén, de ha ott nem izolálható, vagy a lefolyás súlyos, szövődményes, akkor kórházi fertőző osztályra kell szállítani. Az elkülönítés addig tart, amíg a klinikai gyógyulás és az antibiotikus kezelés befejezése után 48 óra múlva elkezdett bakteriológiai székletvizsgálat 2 egymást követő napon negatív eredményt nem ad. Ha a széklet vizsgálata a gyógyulás utáni 8. napon még mindig pozitív, az elkülönítés feloldható, de a gyógyultat járványügyi ellenőrzés alá kell helyezni, míg székletének ismételt bakteriológiai vizsgálata nem ad egymás után következő napokon kétszer negatív eredményt. A járványügyi ellenőrzés alá vont személyt el kell tiltani 0-6 éves gyermekközösségek látogatásától, ilyen közösségekben/intézményekben a gyermekek ellátásával kapcsolatos veszélyeztető munkaköröktől, közfogyasztásra kerülő élelmiszerek és italok kezelésétől; a közétkeztetésben, vízművekben való munkától, anyatej adásától, anyatejgyűjtő állomásokon való foglalkozástól; a közvetlen betegellátás során betegélelmezésben való részvételtől és a szájon át adott gyógyszeres kezelés végzéstől.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Sporadikus esetben bármely klinikai mikrobiológiai laboratóriumban elvégezhető. A székletmintákat a betegség kezdetén, az antibiotikus kezelés előtt kell venni.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Járvány esetén a székletmintákat a megbetegedés helye szerint illetékes járványügyi feladat ellátására kijelölt bakteriológiai laboratóriumba kell küldeni.
+
+2.3.3. Felszabadító vizsgálat:
+
+Kötelező, a klinikai gyógyulás után, vagy az antibiotikus kezelés befejezését követő 48 óra múlva kell megkezdeni.
+
+2.4. Fertőtlenítés:
+
+Folyamatos és zárófertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező. A beteggel kapcsolatban lévőket ki kell kérdezni, járványügyi vizsgálatot kell végezni.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+A kontakt személyek és az azonos ételt fogyasztók szűrővizsgálatát el kell végezni.
+
+3.3. Járványügyi megfigyelés:
+
+A beteggel közvetlenül érintkezett személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett azon személyeket, akik a 2.2. pontban megjelölt közösségekbe, intézménybe járnak, illetve munkakört, tevékenységet folytatnak, a közösség, intézmény látogatásától, illetve munkakörüktől, tevékenységüktől el kell tiltani. A közösség, intézmény látogatását, illetve munkakörüket, tevékenységüket abban az esetben folytathatják, ha a megfigyelési idő 4. napja után két egymást követő napon vett székletminta bakteriológiai vizsgálata negatív eredményt adott. A szűrővizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni. A fenti közösségek, intézmények látogatását, illetve munkakörüket, tevékenységüket csak akkor folytathatják, ha a székletbakteriológiai vizsgálat eredménye negatívvá válik. Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0-6 éves korig) 7 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek és dolgozó székletvizsgálatát. A baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad. Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 7 napos felvételi zárlatot kell elrendelni. El kell végezni a beteggel érintkezett személyek székletvizsgálatát, a tünetmentes kórokozó-ürítő ápoltakat el kell különíteni, a dolgozókat ki kell tiltani, amíg a székletvizsgálatok két egymást követő napon negatív eredményt nem adnak. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell és a beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor a shigellosisban szenvedő beteggel utoljára érintkezett. Erről a járási hivatalt is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+Kötelező.
+
+Súlyos acut légúti tünetegyüttes - SARS
+
+Severe Acut Respiratory Syndrome
+
+1. Kórokozó:
+
+SARS-coronavírus
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a gyanús eset. Az értesülést követően a megbetegedés sürgősséggel is jelentendő az illetékes kormányhivatalnak, amely haladéktalanul értesíti az OEKet.
+
+2.1.1. Esetek osztályozása járványok közötti/járványmentes időszakban
+
+Az esetek osztályozását járvány idején azokban az országokban, illetve területeken kell alkalmazni, melyeket a járvány nem érint.
+
+Gyanús eset
+
+Teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat.
+
+Valószínűsíthető eset
+
+Teljesülnek a klinikai kritériumok, fennáll az epidemiológiai kapcsolat és teljesülnek a valószínűsíthető eset laboratóriumi kritériumai.
+
+Nemzeti szinten megerősített eset
+
+Teljesülnek a megerősített eset klinikai és laboratóriumi feltételei, és a vizsgálatot nemzeti referencia-laboratóriumban végezték.
+
+Megerősített eset
+
+Teljesülnek a megerősített eset klinikai és laboratóriumi feltételei, és a vizsgálatot az Egészségügyi Világszervezet (WHO) SARS-vírust vizsgáló referencia-laboratóriumainak egyikében végezték.
+
+2.1.2. Esetek osztályozása járvány idején
+
+Olyan országban, területen előforduló járvány során kell alkalmazni, ahol legalább egy személy esetében laboratóriumi vizsgálattal megerősítették a betegség diagnózisát a WHO SARS-vírust vizsgáló referencia-laboratóriumainak egyikében.
+
+Gyanús eset
+
+Teljesülnek a klinikai kritériumok.
+
+Valószínűsíthető eset
+
+Teljesülnek a klinikai kritériumok és fennáll az epidemiológiai kapcsolat nemzeti szinten megerősített vagy megerősített esettel.
+
+Nemzeti szinten megerősített eset
+
+Teljesülnek a megerősített eset klinikai és laboratóriumi feltételei, és a vizsgálatot nemzeti referencia-laboratóriumban végezték.
+
+Megerősített eset
+
+Az alábbi három eset egyike:
+
+- minden olyan személy, akinél teljesülnek a megerősített eset klinikai és laboratóriumi kritériumai és a vizsgálatot az Egészségügyi Világszervezet SARS-vírust vizsgáló referencia-laboratóriumainak egyikében végezték,
+
+- minden nemzeti szinten megerősített eset, amely epidemiológiailag kapcsolódik egy olyan fertőzési lánchoz, amelyből legalább egy esetet megerősített a WHO SARS-vírust vizsgáló referencia-laboratóriuma,
+
+- minden olyan személy, akire teljesülnek a klinikai kritériumok és a valószínűsíthető eset laboratóriumi kritériumai, és epidemiológiailag kapcsolódik egy olyan fertőzési lánchoz, amelyből legalább egy esetet megerősített a WHO SARS-vírust vizsgáló referencia-laboratóriuma.
+
+2.1.3. Feltételek
+
+Klinikai kritérium
+
+Minden olyan személy, akinél láz lép fel vagy kórtörténetében szerepel láz
+
+és
+
+az alábbi három tünet legalább egyike:
+
+- köhögés,
+
+- légzési nehézség,
+
+- légszomj,
+
+és
+
+az alábbi négy feltétel legalább egyike:
+
+- tüdőgyulladás röntgennel kimutatva,
+
+- akut légzési nehézség szindróma (ARDS) röntgennel kimutatva,
+
+- tüdőgyulladás megállapítása boncolás során,
+
+- akut légzési nehézség szindróma (ARDS) megállapítása boncolás során,
+
+és
+
+- nincs olyan alternatív diagnózis, amellyel teljes mértékben magyarázható a betegség.
+
+Epidemiológiai kritérium
+
+Az alábbi három feltétel legalább egyike:
+
+- minden olyan személy, akire teljesül az alábbi három feltétel legalább egyike:
+
+- foglalkozása során fokozottan ki van téve a SARS koronavírussal való fertőzés kockázatának (pl. élő SARS koronavírussal, ahhoz hasonló vírusokkal dolgozó vagy SARS koronavírussal fertőzött klinikai minták tárolásával laboratóriumban dolgozó alkalmazottak; olyan személy, aki érintkezik vadon élő vagy egyéb, a SARS koronavírus vírushordozójának tekintett állatokkal, azok szervezetéből kiválasztott anyagokkal, vagy azok székletével stb.),
+
+- szoros kapcsolat (SARS-beteget ápolt, egy háztartásban lakott vele, közvetlen kapcsolatba került a beteg légúti váladékával, testnedveivel, vagy a beteg által kiválasztott anyagokkal – pl. széklet) egy vagy több olyan személlyel, akinél megerősítették a SARS-koronavírus-fertőzést vagy e tekintetben vizsgálat alatt áll,
+
+- olyan területre utazott vagy ott tartózkodott, ahol SARS-járvány fordult elő,
+
+- ugyanazon egészségügyi egységen (kórterem – osztály – kórház) belül két vagy több egészségügyi dolgozó (minden kórházi dolgozó) a SARS klinikai tüneteivel, ha a megbetegedések kezdete között 10 nap vagy kevesebb telt el,
+
+- két vagy több személy (egészségügyi dolgozók, illetve betegek vagy látogatók) a SARS klinikai tüneteivel, ha a megbetegedések ugyanazon 10 napos időtartamon belül jelentkeznek, és epidemiológiailag egyetlen egészségügyi létesítményhez kapcsolódnak.
+
+Laboratóriumi kritérium
+
+A megerősített eset laboratóriumi feltétele
+
+- a vírus izolálása sejttenyészetben bármely klinikai mintából és a SARS koronavírus azonosítása pl. RT-PCR módszerrel,
+
+- SARS koronavírus nukleinsav kimutatása az alábbi háromból legalább egyben:
+
+- legalább két különböző klinikai minta (pl. nasopharingeális tamponminta és széklet),
+
+- ugyanazon fajta klinikai minta, melyet a betegség folyamán legalább két vagy több alkalommal vettek (pl. egymás utáni nasopharingeális mintavétel),
+
+- két különböző vizsgálat, vagy megismételt RT-PCR teszt, minden vizsgálat alkalmával az eredeti klinikai mintából származó új RNS-mintát használva,
+
+- SARS koronavírussal szembeni specifikus ellenanyagok kimutatása az alábbi két módszer valamelyikével:
+
+- szerokonverzió akut vagy lábadozó szakaszban vett vérsavóban, párhuzamosan vizsgálva ELISA- vagy IFA-módszerrel,
+
+- négyszeres vagy nagyobb antitest-titeremelkedés az akut és a lábadozó szakaszban vett vérsavóban párhuzamosan vizsgálva.
+
+A valószínűsíthető eset laboratóriumi feltétele
+
+Az alábbi két feltétel legalább egyike:
+
+- a SARS koronavírus irányában végzett egyetlen pozitív eredményű antitest-vizsgálat,
+
+- a SARS koronavírus irányában egyetlen klinikai mintán és egyetlen teszttel végzett, pozitív eredménnyel zárult PCR-vizsgálat.
+
+2.2. Elkülönítés:
+
+Kötelező. A kijelölt fekvőbeteg osztályon, illetve az Egyesített Szent István és Szent László Kórház-Rendelőintézetben, az erre kijelölt kórtermekben kell elhelyezni, a légúti izoláció szabályait betartva.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező. Torokváladék, légúti váladék mintát, bronchoalveoláris mosófolyadékot, 5 ml natív és 5 ml alvadásában heparinnal gátolt vérmintát, haemokultúrát, vizeletmintát, illetve post mortem vett szövetmintákat (lehetőség szerint fagyasztott metszeteket) kell az OEK illetékes laboratóriumának előzetes tájékoztatását követően, a biztonságos mintacsomagolás és szállítás szabályai szerint biztonsági szállítódobozban, futárral eljuttatni.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Szigorított folyamatos és szigorított zárófertőtlenítést szükséges végezni.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+3.3. Járványügyi megfigyelés:
+
+Azon személyt, aki olyan beteggel, annak légúti váladékával került szoros kontaktusba, aki az esetdefiníció szerint gyanúsíthatóan, valószínűsíthetően vagy igazoltan e súlyos légúti tünetegyüttesben szenved, a beteggel történt utolsó kontaktustól számított 10 napra járványügyi megfigyelés alá kell helyezni. Ezen időszak alatt otthonában kell tartózkodnia, lázát naponta kell mérnie, és jeleznie kell kezelőorvosának, ha egészségi állapotában bármilyen változás áll be.
+
+3.4. Postexpozíciós profilaxis:
+
+Nem szükséges.
+
+3.5. Fertőzőforrás-kutatás:
+
+Kötelező.
+
+3.6. A terjesztő közeg felderítése:
+
+-
+
+Streptococcus pneumoniae (pneumococcus) által okozott invazív betegség
+
+BNO: G001, A403, J13, M00, B953
+
+1. Kórokozó:
+
+Streptococcus pneumoniae.
+
+2. Teendők a beteggel
+
+2.1. Jelentés:
+
+Bejelentésre kötelezett a megerősített eset.
+
+2.1.1. Esetek osztályozása
+
+Gyanús eset
+
+-
+
+Valószínűsíthető eset
+
+-
+
+Megerősített eset
+
+Minden olyan személy, akire teljesül a laboratóriumi feltételek közül legalább az egyik.
+
+2.1.2. Feltételek
+
+Klinikai kritérium
+
+-
+
+Epidemiológiai kritérium
+
+-
+
+Laboratóriumi kritérium
+
+- A Streptococcus pneumoniae izolálása normálisan steril helyről.
+
+- A Streptococcus pneumoniae nukleinsav kimutatása normálisan steril helyről.
+
+- A Streptococcus pneumoniae antigénjének kimuatása normálisan steril helyről.
+
+2.2. Elkülönítés:
+
+A beteget kórházban a cseppfertőzés izoláció szabályait figyelembe véve kell elkülöníteni a gyógykezelés időtartamára.
+
+2.3. Mikrobiológiai vizsgálat:
+
+2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
+
+Kötelező.
+
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
+
+Az OEK referencia laboratóriumába küldendő megerősítés és további tipizálás céljából a normálisan steril helyről (pl. liquorból vagy hemokultúrából) kitenyészett Streptococcus pneumoniae törzs.
+
+2.3.3. Felszabadító vizsgálat:
+
+Nem szükséges.
+
+2.4. Fertőtlenítés:
+
+Folyamatos fertőtlenítés szükséges.
+
+3. Teendők a beteg környezetében
+
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Nem szükséges.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges
+
+3.3. Járványügyi megfigyelés:
+
+[^187]: Az 1. számú melléklet az 54/2015. (XI. 24.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
