@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-11-20-3
 | 2013-02-08 | 1997-11-20-3D.9 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2015-04-29 | 1997-11-20-3D.10 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2015-10-19 | 1997-11-20-3D.11 | 42/2015. (IX. 18.) EMMI rendelet |
+| 2015-11-25 | 1997-11-20-3D.12 | 54/2015. (XI. 24.) EMMI rendelet |
