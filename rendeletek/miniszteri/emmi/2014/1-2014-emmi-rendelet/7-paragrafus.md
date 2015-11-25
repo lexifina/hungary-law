@@ -2,12 +2,12 @@
 
 7. § (1) A bejelentést fogadó egészségügyi államigazgatási szerv a beérkezést követő munkanap végéig ellenőrzi, szükség esetén véleményezi az elektronikusan érkezett jelentéseket.
 
-(2)[^2] Ha a bejelentés nem a megbetegedés helye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal) érkezik, a járási hivatal a bejelentés szerinti információkról haladéktalanul értesíti a megbetegedés helye szerint illetékes járási hivatalt.
+(2)[^3] Ha a bejelentés nem a megbetegedés helye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal) érkezik, a járási hivatal a bejelentés szerinti információkról haladéktalanul értesíti a megbetegedés helye szerint illetékes járási hivatalt.
 
-(3)[^3] Ha a bejelentett fertőző beteg megbetegedési helye nem azonos a lakóhelyével vagy a tartózkodási helyével, a járási hivatal a 8. mellékletben szereplő adatok átadásával tájékoztatja a beteg lakóhelye vagy tartózkodási helye szerint illetékes járási hivatalt.
+(3)[^4] Ha a bejelentett fertőző beteg megbetegedési helye nem azonos a lakóhelyével vagy a tartózkodási helyével, a járási hivatal a 8. mellékletben szereplő adatok átadásával tájékoztatja a beteg lakóhelye vagy tartózkodási helye szerint illetékes járási hivatalt.
 
-(4)[^4] Ha a bejelentés alapján az Eüak. 15. § (7) bekezdése szerinti állatról emberre terjedő fertőző betegség vagy annak gyanúja merül fel, a járási hivatal a 8. mellékletben meghatározott információk 24 órán belül történő továbbításával tájékoztatja a megbetegedés vagy az expozíció helye szerint illetékes élelmiszerlánc-felügyeleti szervet.
+(4)[^5] Ha a bejelentés alapján az Eüak. 15. § (7) bekezdése szerinti állatról emberre terjedő fertőző betegség vagy annak gyanúja merül fel, a járási hivatal a 8. mellékletben meghatározott információk 24 órán belül történő továbbításával tájékoztatja a megbetegedés vagy az expozíció helye szerint illetékes élelmiszerlánc-felügyeleti szervet.
 
-[^2]: A 7. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 158. § b) és d) pontja szerint módosított szöveg.
-[^3]: A 7. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 158. § c)–d) pontja szerint módosított szöveg.
-[^4]: A 7. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 158. § c) pontja szerint módosított szöveg.
+[^3]: A 7. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 158. § b) és d) pontja szerint módosított szöveg.
+[^4]: A 7. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 158. § c)–d) pontja szerint módosított szöveg.
+[^5]: A 7. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 158. § c) pontja szerint módosított szöveg.

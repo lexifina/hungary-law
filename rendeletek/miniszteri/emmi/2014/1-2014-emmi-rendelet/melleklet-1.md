@@ -1,6 +1,6 @@
-## 18. §[^18]
+## 18. §[^19]
 
-1. melléklet az 1/2014. (I. 16.) EMMI rendelethez
+1. melléklet az 1/2014. (I. 16.) EMMI rendelethez[^20]
 
 ## Fertőző beteg jelentés adattartalma
 
@@ -40,6 +40,9 @@ a szövődmény, tartós szervi elváltozás diagnózisa: …………………�
 
 a halál oka: a megnevezett fertőző betegség vagy más, éspedig: .……………; BNO:
 
+14. A bejelentő neve, alapnyilvántartási száma.
+
 Az orvos megjegyzései:
 
-[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: Az 1. melléklet az 54/2015. (XI. 24.) EMMI rendelet 55. § (1) bekezdése szerint módosított szöveg.
