@@ -134,7 +134,7 @@
 
 | 67. | KEOP-5.6.0/12-2014-0019 | Országos Reumatológiai és Fizioterápiás Intézet | 933 500 000 |
 
-| 68. | KEOP-5.6.0/12-2014-0020 | Terrorelhárítási Központ | 494 709 146 |
+| 68. | KEOP-5.6.0/12-2014-0020 | Terrorelhárítási Központ | 1 779 147 891 |
 
 | 69. | KEOP-5.6.0/12-2014-0021 | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | 416 000 000 |
 
