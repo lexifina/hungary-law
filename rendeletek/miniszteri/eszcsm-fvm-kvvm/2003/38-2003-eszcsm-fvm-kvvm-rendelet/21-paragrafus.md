@@ -1,3 +1,3 @@
-## 20. §[^32]
+## 20. §[^33]
 
-[^32]: A 20. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.
+[^33]: A 20. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.
