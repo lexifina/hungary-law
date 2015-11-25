@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-19-20-3
 | 2012-01-01 | 1998-19-20-3D.14 | 15/2011. (IV. 27.) NEFMI rendelet |
 | 2014-01-01 | 1998-19-20-3D.15 | 6/2013. (I. 18.) EMMI rendelet |
 | 2014-02-25 | 1998-19-20-3D.16 | 60/2007. (XII. 29.) EüM rendelet |
+| 2015-11-25 | 1998-19-20-3D.17 | 23/2004. (IV. 1.) ESZCSM rendelet |
