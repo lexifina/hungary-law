@@ -4,4 +4,6 @@
 
 2. § (1) Az 5/2015. (II. 19.) FM rendelet 11. §-a alapján összesen legfeljebb 12 737 667 600 Ft, történelmi bázis jogosultságonként legfeljebb 6,51 Ft támogatás vehető igénybe.
 
-(2) A 2015. évben a fenti összegből előlegként 4,93 Ft/bázis jogosultság fizethető ki.
+(2)[^1] A 2015. évben a fenti összegből előlegként legfeljebb 5 Ft/bázis jogosultság fizethető ki.
+
+[^1]: A 2. § (2) bekezdése a 76/2015. (XI. 24.) FM rendelet 5. §-a szerint módosított szöveg.
