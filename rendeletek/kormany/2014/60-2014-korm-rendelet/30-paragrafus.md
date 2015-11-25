@@ -1,5 +1,5 @@
-## 29. §[^16]
+## 29. §[^19]
 
 ## 18. Hatályon kívül helyező rendelkezés
 
-[^16]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
