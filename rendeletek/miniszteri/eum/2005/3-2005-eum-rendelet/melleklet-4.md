@@ -170,7 +170,7 @@ A fenti általános szabállyal szemben a táblázatban felsorolt fertőzések e
 
 | – azok a személyek, akiknél korábban ismeretlen eredetű lázas betegség fordult elő egy endémiás területen tett látogatás során vagy a látogatást követő hat hónapon belül | 3 év a tünetek megszűnésének időpontjától számítva; az időtartam 4 hónapra csökkenthető, ha egy immunológiai vagy molekuláris genomikai vizsgálat negatív eredményt ad |
 
-| Nyugat-Nílus vírus (WNV)* | 28 nap az olyan terület elhagyásának időpontjától számítva, ahol emberekre átterjedő Nyugat-Nílus vírusos fertőzés fordul elő |
+| Nyugat-Nílus vírus (WNV)* | 28 nap az olyan terület elhagyásának időpontjától számítva, ahol a Nyugat-Nílus vírus helyi fertőzésének kockázata áll fenn, kivéve, ha az egyéni nukleinsavteszt (NAT) eredménye negatív |
 
 2.2.2. Expozíció a transzfúzióval átvihető fertőzések kockázati tényezői szempontjából
 
@@ -215,4 +215,4 @@ A fenti általános szabállyal szemben a táblázatban felsorolt fertőzések e
 | Aktív bakteriális fertőzés |  |
 
 [^57]: A 3. számú melléklet B. részének 1. pontja a 2/2007. (I. 24.) EüM rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^58]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése szerint módosított szöveg.
+[^58]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 50. § (6) bekezdése, az 54/2015. (XI. 24.) EMMI rendelet 27. §-a szerint módosított szöveg.
