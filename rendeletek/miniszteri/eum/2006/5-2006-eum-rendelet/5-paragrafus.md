@@ -1,4 +1,4 @@
-5. §[^19] (1) A mentést kezdeményező orvos a megrendeléskor közli
+5. §[^20] (1) A mentést kezdeményező orvos a megrendeléskor közli
 
 a) a beteg nevét és tartózkodási helyét,
 
@@ -12,4 +12,4 @@ d) mentési készenlétet igénylő őrzött szállítás esetén az 5. mellékl
 
 (3) A mentésirányítást ellátó személy – a megrendelő orvos egyidejű tájékoztatása mellett – jogosult az (1) bekezdés b) pontjában foglaltaktól eltérően rendelkezni, amennyiben az igényelt mentőjárművel a mentési feladat a szükséges időn belül nem teljesíthető.
 
-[^19]: Az 5. § a 37/2011. (VI. 28.) NEFMI rendelet 5. §-ával megállapított szöveg.
+[^20]: Az 5. § a 37/2011. (VI. 28.) NEFMI rendelet 5. §-ával megállapított szöveg.

@@ -38,7 +38,7 @@
 
 |  | megrendelő orvos aláírása és bélyegzője |  |
 
-5. melléklet az 5/2006. (II. 7.) EüM rendelethez[^49]
+5. melléklet az 5/2006. (II. 7.) EüM rendelethez[^52]
 
 Mentési készenlétet igénylő őrzött szállítás adatlapja
 
@@ -134,4 +134,4 @@ A szállítás alatt várható komplikáció:
 
 orvos aláírása/pecsétszáma
 
-[^49]: Az 5. mellékletet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (4) bekezdése iktatta be.
+[^52]: Az 5. mellékletet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (4) bekezdése iktatta be.

@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-5-20-0B
 | 2014-07-01 | 2006-5-20-0B.11 | 41/2014. (VI. 30.) EMMI rendelet |
 | 2015-03-31 | 2006-5-20-0B.12 | 16/2015. (III. 30.) EMMI rendelet |
 | 2015-04-29 | 2006-5-20-0B.13 | 16/2015. (III. 30.) EMMI rendelet |
+| 2015-11-25 | 2006-5-20-0B.14 | 54/2015. (XI. 24.) EMMI rendelet |

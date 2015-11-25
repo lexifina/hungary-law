@@ -1,4 +1,4 @@
-4. §[^18] (1) Az Eütv. 94. § (2) és (3) bekezdésében foglalt esetekben az Irányító Csoport munkatársa a segélyhívás fogadásakor a bejelentőtől megkérdezi:
+4. §[^19] (1) Az Eütv. 94. § (2) és (3) bekezdésében foglalt esetekben az Irányító Csoport munkatársa a segélyhívás fogadásakor a bejelentőtől megkérdezi:
 
 a) a mentést indokoló esemény jellegét és helyét, a betegek számát és az észlelt tüneteket,
 
@@ -20,4 +20,4 @@ c) egyéb szolgálatok – ideértve a háziorvosi vagy orvosi ügyeleti szolgá
 
 (5) Az Irányító Csoport munkatársa valamennyi intézkedését köteles dokumentálni.
 
-[^18]: A 4. § a 37/2011. (VI. 28.) NEFMI rendelet 4. §-ával megállapított szöveg.
+[^19]: A 4. § a 37/2011. (VI. 28.) NEFMI rendelet 4. §-ával megállapított szöveg.

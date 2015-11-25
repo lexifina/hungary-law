@@ -270,11 +270,11 @@
 
 ## II/B. Mentőjárművek
 
-## A mentőjármű a forgalomba helyezés évétől számítva 13 évesnél idősebb nem lehet.
+## A mentőjármű a forgalomba helyezés évétől számítva 13 évesnél idősebb nem lehet. Az adott állomásra szervezett mentőgépkocsik számával arányosan tartalék gépkocsit vagy gépkocsikat kell biztosítani.
 
-## Az adott állomásra szervezett mentőgépkocsik számával arányosan tartalék gépkocsit vagy gépkocsikat kell biztosítani.
+## A Magyar Honvédség és a rendvédelmi szervek által üzemeltetett mentőjárművek üzemeltetési idejét a hatósági vizsgálatok, illetve a mentőjárművek tényleges műszaki állapota alapján az üzemeltető határozza meg.
 
-## A Magyar Honvédség és a Rendőrség által üzemeltetett mentőjárművek üzemeltetési idejét a hatósági vizsgálatok, illetve a mentőjárművek tényleges műszaki állapota alapján az üzemeltető határozza meg.
+## A Tömeges Baleseti Egység olyan megkülönböztetett jelzéssel ellátott gépjármű, amelynek feladata a logisztikai háttér biztosítása elsősorban nagyobb létszámú helyszíni ellátást igénylő eseményen, katasztrófa helyszínen. A Tömeges Baleseti Egység üzemeltetési idejét a hatósági vizsgálatok, illetve a mentőjárművek tényleges műszaki állapota alapján az OMSZ határozza meg.
 
 ## 1. Mentőgépkocsi feltételei:
 
@@ -288,7 +288,7 @@
 
 ## – legalább egy fekvőbeteg szállítására beépített hordágytartóval ellátott, megfelelő fertőtlenítőszerekkel, mosható, fertőtleníthető vagy cserélhető üléskárpittal felszerelt gépkocsi, amely megfelel a B típusú közúti mentőjárműre [MSZ EN 1789:2007 szabvány] vonatkozó előírásoknak.
 
-## 1.1. Egészségügyi minimum felszerelés:
+## 1.1. Egészségügyi minimum felszerelés (mentőhátizsákban, mentőtáskában) a beteg mellé juttatható formában:
 
 ## 1.1.1. Beteghordozó eszközök:
 
@@ -298,15 +298,17 @@
 
 ## 1.1.2. Rögzítők, a sebellátás eszközei:
 
-## – Legalább 80 cm széles vákummatrac az ehhez szükséges leszívópumpával,
+## – A kimentés eszköze: szétnyitható merev lapáthordágy, vagy merev gerinchordágy,
 
-## – Rögzítősínek: pneumatikus sín, vákumsín, Cramer sín, egyéb,
+## – A teljes test rögzítésének eszköze: legalább 80 cm széles vákuummatrac az ehhez szükséges leszívó-pumpával vagy szétnyitható merev lapáthordágy megfelelő betegrögzítő hevederekkel, lehetőleg műanyag (hőmérséklet semleges) és röntgenezhető kivitelben,
+
+## – Végtagok rögzítésére, illetve húzás alatti rögzítésére alkalmas sínek,
 
 ## – Nyakrögzítő készlet,
 
 ## – Steril és nem steril kötszerek,
 
-## – Izolációs takaró.
+## – Lehűlés elleni izolációs eszköz.
 
 ## 1.1.3. Diagnosztikus és betegellenőrző eszközök:
 
@@ -320,13 +322,13 @@
 
 ## – Oxigén orrszonda vagy arcmaszk,
 
-## – Lélegeztető ballon és maszk, oxigénvezeték a lélegeztető ballonhoz,
+## – Lélegeztető ballon és maszk, oxigénvezeték és rezervoár a lélegeztető ballonhoz,
 
 ## – Leszívópumpa (taposó vagy egyéb hordozható szívó),
 
 ## – Leszívó katéterek,
 
-## – Száj-garat tubus.
+## – Száj-garat tubus, továbbá orr-garat tubus többféle méretben.
 
 ## 1.1.5. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
 
@@ -348,105 +350,31 @@
 
 ## – Ágytál, hánytál, vizeletgyűjtő,
 
-## – Hullatakaró.
+## – Hullatakaró,
 
-## 1.1.6. Egyéb kiegészítő felszerelés:
+## – Ampullatartó, zseblámpa,
 
-## – Ampullatartó, zseblámpa.
-
-## 1.1.7. Életmentő eszközöket és gyógyszereket tartalmazó táska:
-
-## – Steril és nem steril kötszerek,
-
-## – Izolációs takaró,
-
-## – Vérnyomásmérő és fonendoszkóp,
-
-## – Lázmérő,
-
-## – Lélegeztető ballon és maszk, oxigénvezeték a lélegeztető ballonhoz,
-
-## – Leszívópumpa (taposó vagy egyéb hordozható szívó),
-
-## – Leszívó katéterek,
-
-## – Száj-garat tubus,
-
-## – Egyszer használatos fecskendők, tűk, perifériás vénás kanülök,
-
-## – Infúziós szerelék,
-
-## – Kézi műszerek (olló, csipesz, érfogó),
-
-## – Kéz- és bőrfertőtlenítő-szer,
-
-## – Injekciók: nem kábító fájdalomcsillapító, simaizom görcsoldó, atropin hatóanyag,
+## – Injekciók: fájdalomcsillapító, simaizom görcsoldó, adrenalin, atropin hatóanyag,
 
 ## – Infúzió: izotóniás elektrolit oldat,
 
-## – Szájon át adható készítmények: méreganyagokat megkötő szerek (orvosi szén), acetilszalicilsav tartalmú véralvadás gátló szer, rövid hatástartamú ACE-gátló hatóanyagot tartalmazó vérnyomáscsökkentő, nyelv alá vagy száj nyálkahártyára adható nitroglicerin, béta–2 receptor izgató spray,
+## – Szájon át adható készítmények: méreganyagokat megkötő szerek (orvosi szén), acetilszalicilsav tartalmú véralvadás gátló szer, rövid hatástartamú ACE-gátló hatóanyagot tartalmazó vérnyomáscsökkentő, nyelv alá vagy száj nyálkahártyára adható nitroglicerin, béta-2 receptor izgató spray,
 
-## – Végbélen át adható készítmények: diazepam hatóanyag tartalmú központi idegrendszeri görcsoldó, lázcsillapító kúp, ampullatartó.
-
-## 1.1.8. Egyéb többletfelszerelés:
+## – Végbélen át adható készítmények: diazepam hatóanyag tartalmú központi idegrendszeri görcsoldó, lázcsillapító kúp,
 
 ## – Félautomata defibrillátor,
 
-## – Vércukorszint meghatározó készülék tesztcsíkkal.
+## – Vércukorszint meghatározó készülék tesztcsíkkal,
 
-## 2. Kiemelt mentőgépkocsi feltételei:
+## – 20%-os cukoroldat.
 
-## – 40 órás speciális képzésben részesült szakképzett mentőápoló és mentőgépkocsi-vezető,
+## 1.1.6.
 
-## – egészségügyi többletfelszereléssel ellátott mentő-gépkocsi.
+## 1.1.7.
 
-## 2.1. Egészségügyi többletfelszerelés:
+## 1.1.8.
 
-## 2.1.1. Rögzítők, a sebellátás eszközei:
-
-## – Lapáthordágy vagy gerinchordágy,
-
-## – Speciális égési kötszer.
-
-## 2.1.2. Diagnosztikus és betegellenőrző eszközök
-
-## 2.1.3. Légútbiztosítás, lélegeztetés eszköze:
-
-## – 1,5/2 literes oxigénpalack, reduktorral.
-
-## 2.1.4. Keringés-támogatás:
-
-## – Félautomata defibrillátor.
-
-## 2.1.5. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
-
-## – Gyomorszonda.
-
-## 2.1.6. Sürgősségi táska tartalma az életmentő táska tartalmán felül:
-
-## – pulzoximéter,
-
-## – vércukorszint meghatározó készülék tesztcsíkkal,
-
-## – laringeális maszk,
-
-## – gyógyszerporlasztó: gyermek, felnőtt,
-
-## – intraosszeális kanülálás eszközei,
-
-## – 20%-os cukoroldat,
-
-## – glucagon,
-
-## – adrenalin hatóanyag tartalmú, szimpatikus idegrendszert izgató hatású szerek,
-
-## – Béta-2 receptor izgató oldat,
-
-## – végbélen át adható szteroid hatású szer.
-
-## 2.1.7. Bébi táska:
-
-## – gyermek méretű lélegeztető ballon maszksorozattal, rezervoárral.
+## 2.
 
 ## 3. Esetkocsi feltételei:
 
@@ -454,13 +382,11 @@
 
 ## – egészségügyi többletfelszereléssel ellátott mentőjármű, amely megfelel a C típusú közúti mentőjárműre [MSZ EN 1789:2007 szabvány] vonatkozó előírásoknak.
 
-## 3.1. Egészségügyi többletfelszerelése a 2. pontban, a kiemelt mentőgépkocsira meghatározott felszerelésen felül:
+## 3.1. Egészségügyi minimum többletfelszerelése a mentőgépkocsira meghatározott felszerelésen felül:
 
-## 3.1.1. Diagnosztikus és betegellenőrző eszközök:
+## 3.1.1. Diagnosztikus és betegellenőrző eszköz:
 
-## – EKG írószerkezettel, amely lehet a defibrillátor részegysége is,
-
-## – reflex-kalapács, pupilla-lámpa.
+## – Defibrillátor-monitor egység a következő modulokkal: szinkron üzemmódban is működő defibrillátor, az EKG ritmus kijelzésére szolgáló őrző monitor, pulzoximéter, modul 12 elvezetéses EKG készítésére, nem invazív automata vérnyomásmérő, kapnográf, bőrön keresztül alkalmazható (transthoracalis) pacemaker.
 
 ## 3.1.2. Légútbiztosítás, lélegeztetés eszközei:
 
@@ -468,7 +394,7 @@
 
 ## – kapnográf,
 
-## – intubációs felszerelés: laringoszkóp, tubusok – teljes sorozat – összekötővel,
+## – intubációs felszerelés: laringoszkóp, tubusok – teljes sorozat – összekötővel, bougie,
 
 ## – PEEP szelep, bordástömlő,
 
@@ -477,10 +403,6 @@
 ## – motoros szívó.
 
 ## 3.1.3. Keringéstámogatás:
-
-## – Legalább aszinkron üzemmódú defibrillátor-monitor, ennek hiányában defibrillátor és EKG,
-
-## – Transztorakális pacemaker, lehet defibrillátor részegysége is,
 
 ## – Bébi táska: csecsemő- és gyermek ballon, laringoszkóp, tubus sorozat,
 
@@ -492,7 +414,7 @@
 
 ## – Gyomormosó felszerelés,
 
-## – Egyszer használatos mellkascsövező szett,
+## – Mellkasi detenzionálás eszközei,
 
 ## – Szike, csipesz, olló.
 
@@ -502,17 +424,19 @@
 
 ## – Kábító fájdalomcsillapító ellenszere (naloxon),
 
-## – Ketamin,
+## – Elaltatószerek és izomrelaxánsok,
 
 ## – Nem kábító hatású fájdalomcsillapító,
 
-## – dobutamin, dopamin hatóanyag tartalmú szimpatikus idegrendszert izgató hatású szerek,
+## – Dobutamin, dopamin hatóanyag tartalmú szimpatikus idegrendszert izgató hatású szerek,
 
 ## – Nyugtatók,
 
 ## – Vízhajtók,
 
 ## – Szívritmuszavarok gyógyszerei: adenosin, amiodaron, verpamil, lidocain, béta-blokkoló,
+
+## – Vazoaktív és inotróp keringéstámogató gyógyszerek,
 
 ## – Infúzióban adható nitroglicerin,
 
@@ -540,11 +464,7 @@
 
 ## – Végbélen át adható láz- és fájdalomcsillapító,
 
-## – Calcium, magnesium,
-
-## – 5%-os cukor infúzió,
-
-## – Plazma pótszer, hipertóniás-hiperonkotikus plazmaexpander.
+## – Calcium, magnesium.
 
 ## 3.1.6. Gyomormosó táska:
 
@@ -556,69 +476,11 @@
 
 ## – Tölcsér,
 
-## – Adagoló edény,
+## – Adagoló edény.
 
-## – Méreganyagokat megkötő szer (orvosi szén),
+## 4.
 
-## – Hashajtó: magnézium szulfát.
-
-## 4. Rohamkocsi feltételei:
-
-## – az I. 9. pontban meghatározott rohamkocsira beosztható orvos,
-
-## – egészségügyi többletfelszereléssel ellátott esetkocsi.
-
-## 4.1. Rohamkocsi egészségügyi többletfelszerelése:
-
-## 4.1.1. Diagnosztikus és betegellenőrző eszközök, keringés-támogatás:
-
-## – Szinkron és aszinkron üzemmódban használható defibrillátor, őrző monitorral (az esetkocsi defibrillátora helyett),
-
-## – Maghőmérséklet mérésére alkalmas hőmérő (timpanikus vagy a monitor részeként),
-
-## – Kapnográf,
-
-## – Pacemaker (endocavitális stimulálás lehetőségével – lehet a defibrillátor részegysége is).
-
-## 4.1.2. Légútbiztosítás, lélegeztetés eszközei:
-
-## – Hordozható lélegeztetőgép (speciális lélegeztetési módokkal).
-
-## 4.1.3. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
-
-## – Centrális vénabiztosításhoz szükséges eszközök,
-
-## – Kissebészeti tálca.
-
-## 4.1.4. Gyógyszerek:
-
-## – Elaltató szerek,
-
-## – Trombolitikum.
-
-## 5. Speciális rohamkocsi feltételei:
-
-## – az I. 11. pontban meghatározott személyi feltételek,
-
-## – intenzív őrzést és ellátást igénylő betegek gyógyító intézetek közötti diagnosztikus vagy definitív ellátás céljából történő szállítására alkalmas rohamkocsi.
-
-## 5.1. A speciális rohamkocsi többletfelszerelése a rohamkocsihoz képest:
-
-## 5.1.1. Diagnosztikus és betegellenőrző eszközök, keringéstámogatás:
-
-## – vérnyomás invazív monitorizálására is alkalmas, többfunkciós monitor,
-
-## – legalább 3 db perfúzor,
-
-## – legalább 1 db volumetrikus pumpa.
-
-## 5.1.2. Betegellátás, ápolás, fertőzés elleni védelem eszközei:
-
-## – Invazív beavatkozásokhoz szükséges felszerelések: artéria punkció.
-
-## 5.1.3. Gyógyszerek:
-
-## – Többlet altatószer, izomrelaxáns, inotróp és vazoaktív szerek.
+## 5.
 
 ## 6. Neonatológiai mentőgépkocsi feltételei:
 
@@ -918,7 +780,7 @@
 
 ## – megkülönböztető jelzés nélküli,
 
-## – kiemelt mentőgépkocsi (KIM) szintű egészségügyi felszereléssel (kivéve hordágy, lapáthordágy, hordszék, rögzítő sínek, vákummatrac, oxigénpalack, lepedők, takarók, ágytál, hánytál, vizeletgyűjtő kacsa) felszerelt.
+## – mentőgépkocsi szintű egészségügyi felszereléssel felszerelt (kivéve hordágy, lapáthordágy, hordszék, rögzítő sínek, vákummatrac, oxigénpalack, lepedők, takarók, ágytál, hánytál, vizeletgyűjtő kacsa).
 
 ## 12. Mentő-motorkerékpár feltételei:
 
@@ -984,7 +846,7 @@
 
 ## – az Eütv. 94. § (5) bekezdés a) és b) pontja szerinti mentéshez a tevékenységet végző orvos, illetve munkacsoport szállítására, valamint az életmentő orvosi eszköz és gyógyszer, valamint átültetésre kerülő szerv sürgős szállítására alkalmas gépjármű.
 
-2. melléklet az 5/2006. (II. 7.) EüM rendelethez[^46]
+2. melléklet az 5/2006. (II. 7.) EüM rendelethez[^49]
 
 ## Rendezvények egészségügyi biztosításának formái, szintjei és módja
 
@@ -1136,41 +998,13 @@ A felszereléseket a gyalogőrséget ellátó személy a beavatkozási jogköré
 
 – Inzulin antagonista: glucagon,
 
-– Szimpatikus idegrendszeri izgatók: adrenalin,
-
-– Kábító fájdalomcsillapító: morfin származék,
-
-– Kábító hatású fájdalomcsillapító elleni szer,
-
-– Ketamin,
-
-– Nyugtató,
-
-– Vízhajtó,
-
-– Infúzióban adható nitroglicerin,
-
-– Szteroid hatású gyógyszerek,
-
-– Antihisztamin,
-
-– Vérnyomás csökkentő szerek,
-
-– Hörgtágító szerek,
-
-– Görcsgátló szerek,
-
-– Szorongás-, feszültségoldó szerek,
-
-– Hányás, hányinger csillapító szerek.
+– Szimpatikus idegrendszeri izgatók: adrenalin.
 
 2.4.1.5.2. Infúzió:
 
 – Izotóniás elektrolit oldat.
 
 2.4.1.5.3. Szájon át adható készítmények:
-
-– Méreganyagokat megkötő szerek: orvosi szén,
 
 – Véralvadás gátló szerek: acetilszalicilsav,
 
@@ -1196,4 +1030,4 @@ A felszereléseket a gyalogőrséget ellátó személy a beavatkozási jogköré
 
 – esetlap.
 
-[^46]: A 2. melléklet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (2) bekezdésével megállapított, a 41/2014. (VI. 30.) EMMI rendelet 16. §-a, a 16/2015. (III. 30.) EMMI rendelet 28. §-a szerint módosított szöveg.
+[^49]: A 2. melléklet a 37/2011. (VI. 28.) NEFMI rendelet 11. § (2) bekezdésével megállapított, a 41/2014. (VI. 30.) EMMI rendelet 16. §-a, a 16/2015. (III. 30.) EMMI rendelet 28. §-a, az 54/2015. (XI. 24.) EMMI rendelet 30. § (1) bekezdése szerint módosított szöveg.

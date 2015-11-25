@@ -1,4 +1,4 @@
-9. §[^21] (1) A mentőellátással kapcsolatosan a mentőegység vezetője a (2) bekezdés szerinti tartalommal esetlapot köteles kitölteni.
+9. §[^22] (1)[^23] A mentőellátással kapcsolatosan a mentőegység vezetője a (2) bekezdés szerinti tartalommal esetlapot köteles kitölteni. Az esetlap elektronikusan is kitölthető.
 
 (2) Az (1) bekezdés szerinti esetlap tartalmazza:
 
@@ -42,7 +42,7 @@ j) a továbbszállítás okát.
 
 (5) A (2) bekezdés szerinti esetlap és a (4) bekezdés szerinti mentési adatlap és menetlevél az egészségügyi dokumentáció részét képezi.
 
-(6)[^22] Az OMSZ informatikai rendszere útján naponta szolgáltatja az alábbi adatokat elektronikus jelentés formájában az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Szakmai Információs Rendszerének a megelőző 24 órában sürgősségi ellátás érdekében a mentés keretében történt olyan ellátási eseményekről, amelyek során nem került sor fekvőbeteg-gyógyintézeti átvételre:
+(6)[^24] Az OMSZ informatikai rendszere útján naponta szolgáltatja az alábbi adatokat elektronikus jelentés formájában az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Szakmai Információs Rendszerének a megelőző 24 órában sürgősségi ellátás érdekében a mentés keretében történt olyan ellátási eseményekről, amelyek során nem került sor fekvőbeteg-gyógyintézeti átvételre:
 
 a) a beteg születésének éve,
 
@@ -54,5 +54,6 @@ d) a beteg lakó- vagy tartózkodási helye szerinti település neve,
 
 e) az ellátás diagnózisa a BNO10 alapján.
 
-[^21]: A 9. § a 37/2011. (VI. 28.) NEFMI rendelet 6. §-ával megállapított szöveg.
-[^22]: A 9. § (6) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 47. §-a iktatta be.
+[^22]: A 9. § a 37/2011. (VI. 28.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^23]: A 9. § (1) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 28. §-ával megállapított szöveg.
+[^24]: A 9. § (6) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 47. §-a iktatta be.
