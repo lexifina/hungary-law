@@ -12,9 +12,12 @@ a) a 2002/46/EK európai parlamenti és tanácsi irányelvnek és az 1925/2006/E
 
 b) a 2002/46/EK európai parlamenti és tanácsi irányelvnek, az 1925/2006/EK európai parlamenti és tanácsi rendeletnek, valamint a 953/2009/EK bizottsági rendeletnek az élelmiszerekhez hozzáadható ásványi anyagok jegyzéke tekintetében történő módosításáról szóló 2011. november 14-i 1161/2011/EU bizottsági rendelet 1. cikke,
 
-c) a 2002/46/EK európai parlamenti és tanácsi irányelvnek és az 1925/2006/EK európai parlamenti és tanácsi rendeletnek az étrend-kiegészítők előállításához felhasználható krómmal dúsított élesztő és az élelmiszerekhez hozzáadható króm(III)-laktát-trihidrát tekintetében történő módosításáról szóló 2014. február 7-i 119/2014/EU bizottsági rendelet 1. cikke
+c) a 2002/46/EK európai parlamenti és tanácsi irányelvnek és az 1925/2006/EK európai parlamenti és tanácsi rendeletnek az étrend-kiegészítők előállításához felhasználható krómmal dúsított élesztő és az élelmiszerekhez hozzáadható króm(III)-laktát-trihidrát tekintetében történő módosításáról szóló 2014. február 7-i 119/2014/EU bizottsági rendelet 1. cikke,
+
+d)[^16] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához felhasznált (6S)-5-metiltetrahidrofolsav, glükózamin só tekintetében történő módosításáról szóló, 2015. március 12-i 2015/414/EU bizottsági rendelet
 
 [^12]: A 14. § (2) bekezdését a 86/2004. (X. 1.) ESZCSM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
 [^13]: A 14. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 37. pontja hatályon kívül helyezte.
 [^14]: A 14. § (6) bekezdése a 24/2010. (V. 7.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^15]: A 14. § (7) bekezdését a 24/2010. (V. 7.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 32/2014. (IV. 18.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^16]: A 14. § (7) bekezdés d) pontját az 54/2015. (XI. 24.) EMMI rendelet 24. §-a iktatta be.
