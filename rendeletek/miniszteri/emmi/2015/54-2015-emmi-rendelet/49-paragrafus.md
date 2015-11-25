@@ -1,0 +1,3 @@
+## „(2a) A munkáltató lehet a foglalkoztatástól függően a kérelmező jelenlegi vagy korábbi munkáltatója. Az igazolás tartalmazza a kérelmező természetes személyazonosító adatait, a gyakorolt szakképesítés (szakképesítések) megnevezését és a gyakorlat időtartamát. A gyakorlat időtartamát a kérelmező foglalkoztatójának jogutód nélküli megszűnése esetén szerződés vagy a munkavégzés igazolására alkalmas és a gyakorlat időtartamát alátámasztó egyéb dokumentum igazolja.”
+
+## 22. A szakorvosok, szakfogorvosok, szakgyógyszerészek és szakpszichológusok egészségügyi szakirányú szakmai továbbképzéséről szóló 23/2012. (IX. 14.) EMMI rendelet módosítása

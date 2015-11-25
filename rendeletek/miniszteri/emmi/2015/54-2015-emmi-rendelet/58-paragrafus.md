@@ -1,0 +1,3 @@
+58. § (1) A 24. és 25. §, valamint a 9. melléklet a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához felhasznált (6S)-5-metiltetrahidrofolsav, glükózamin só tekintetében történő módosításáról szóló, 2015. március 12-i 2015/414/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2) A 26. és 27. §, valamint a 10. melléklet a 2004/33/EK irányelvnek az allogén véradás donoraira vonatkozó átmeneti kizárási kritériumok tekintetében történő módosításáról szóló, 2014. december 17-i 2014/110/EU bizottsági irányelvnek való megfelelést szolgálja.
