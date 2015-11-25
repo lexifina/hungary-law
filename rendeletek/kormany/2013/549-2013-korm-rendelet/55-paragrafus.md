@@ -1,4 +1,4 @@
-## 54. §[^147] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 125/2014. (IV. 10.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépésekor[^148] folyamatban lévő ügyekben is alkalmazni kell.
+## 54. §[^149] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 125/2014. (IV. 10.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépésekor[^150] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^147]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 125/2014. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
-[^148]: A hatálybalépés időpontja 2014. április 11.
+[^149]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 125/2014. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
+[^150]: A hatálybalépés időpontja 2014. április 11.

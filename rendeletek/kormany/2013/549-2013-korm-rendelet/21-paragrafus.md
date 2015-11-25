@@ -18,7 +18,9 @@ f)[^46] szabálytalanságból, jogosulatlan forrásfelhasználásból adódó, a
 
 g)[^47] polgári perben hozott jogerős ítélet alapján a kedvezményezettet megillető tőkeösszeg, annak kamatai, valamint perköltség megfizetésére,
 
-h)[^48] az Európai Bizottság javaslatára költségnyilatkozatban már elszámolt, vitatott számlák uniós részének elszámolására, ha a kedvezményezett felé a követelés előírása még nem történt meg.
+h)[^48] az Európai Bizottság javaslatára költségnyilatkozatban már elszámolt, vitatott számlák uniós részének elszámolására, ha a kedvezményezett felé a követelés előírása még nem történt meg,
+
+i)[^49] a közlekedési tárgyú projekteket megvalósító, 100%-ban állami tulajdonban lévő közszféra szervezet kedvezményezettet terhelő visszafizetési kötelezettség esetén a visszaköveteléssel érintett európai uniós forrásból finanszírozott költségvetési támogatás után fizetendő kamat.
 
 (2) Az előirányzat terhére történő finanszírozást az adott programért felelős szervezet a fejezetet irányító szervnél kezdeményezheti.
 
@@ -26,7 +28,7 @@ h)[^48] az Európai Bizottság javaslatára költségnyilatkozatban már elszám
 
 (4) Az (1) bekezdés c) pontja szerinti finanszírozási igényről annak teljesítésével egyidejűleg az államháztartásért felelős minisztert tájékoztatni kell.
 
-(5)[^49] Az (1) bekezdés c) és f) pontja szerinti esetben az előirányzat terhére történő finanszírozási igényt az arról való döntést megelőzően a fejezetet irányító szerv vezetője részére a projekt megvalósításához fűződő nemzeti érdek tekintetében történő véleményezés céljából meg kell küldeni.
+(5)[^50] Az (1) bekezdés c) és f) pontja szerinti esetben az előirányzat terhére történő finanszírozási igényt az arról való döntést megelőzően a fejezetet irányító szerv vezetője részére a projekt megvalósításához fűződő nemzeti érdek tekintetében történő véleményezés céljából meg kell küldeni.
 
 (6) Ha az előirányzat teljes összegben felhasználásra kerül, az (1) bekezdés szerinti kiadások fedezetét az európai uniós bevételek zavartalan lehívása érdekében az érintett európai uniós előirányzat támogatási előirányzata terhére kell biztosítani.
 
@@ -35,4 +37,5 @@ h)[^48] az Európai Bizottság javaslatára költségnyilatkozatban már elszám
 [^46]: A 21. § (1) bekezdés f) pontja a 287/2015. (X. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^47]: A 21. § (1) bekezdés g) pontját a 287/2015. (X. 6.) Korm. rendelet 9. §-a iktatta be.
 [^48]: A 21. § (1) bekezdés h) pontját a 287/2015. (X. 6.) Korm. rendelet 9. §-a iktatta be.
-[^49]: A 21. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 30. § 14. pontja szerint módosított szöveg.
+[^49]: A 21. § (1) bekezdés i) pontját a 350/2015. (XI. 24.) Korm. rendelet 9. §-a iktatta be.
+[^50]: A 21. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 30. § 14. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 12. [^112] Szakmai fejezeti kezelésű előirányzatok hatásköri szabályai
+## 12. [^114] Szakmai fejezeti kezelésű előirányzatok hatásköri szabályai
 
 ## 41. § Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat (XIX. fejezet 2. cím 7. alcím 1. jogcímcsoport) vonatkozásában
 
@@ -8,9 +8,9 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 
-d)[^113] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^115] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^112]: A 12. alcím címe a 287/2015. (X. 6.) Korm. rendelet 31. § 17. pontja szerint módosított szöveg.
-[^113]: A 41. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § j) pontja szerint módosított szöveg.
+[^114]: A 12. alcím címe a 287/2015. (X. 6.) Korm. rendelet 31. § 17. pontja szerint módosított szöveg.
+[^115]: A 41. § d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § j) pontja szerint módosított szöveg.

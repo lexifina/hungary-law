@@ -2,7 +2,7 @@
 
 30. § (1) A támogatás rendelkezésre állásáról – legkésőbb az európai uniós támogatásról szóló szerződés, megállapodás megkötéséig vagy módosításáig – a fejezetet irányító szerv igazolást állít ki.
 
-(2)[^82] A fejezetet irányító szerv a támogatást fejezetek közötti megállapodással, önálló támogatási szerződés keretében, vagy a projekt európai uniós támogatási szerződésében vagy támogatói okiratában, a támogatásra vonatkozó egyedi feltételek meghatározása mellett biztosítja.
+(2)[^84] A fejezetet irányító szerv a támogatást fejezetek közötti megállapodással, önálló támogatási szerződés keretében, vagy a projekt európai uniós támogatási szerződésében vagy támogatói okiratában, a támogatásra vonatkozó egyedi feltételek meghatározása mellett biztosítja.
 
 (3) A (2) bekezdés szerinti szerződés tartalmazza
 
@@ -14,7 +14,7 @@ c) a folyósított támogatással való elszámolás módját és annak ellenőr
 
 (4) Az ütemezés megállapítása során figyelembe kell venni a folyósításra kerülő előleg összegét is.
 
-(5)[^83] A központi költségvetési szerv a rendelkezésére bocsátott és tárgyévben fel nem használt támogatást a következő években felhasználhatja. Az előirányzat-maradványra visszafizetési kötelezettsége a projekt pénzügyi befejezésekor keletkezik.
+(5)[^85] A központi költségvetési szerv a rendelkezésére bocsátott és tárgyévben fel nem használt támogatást a következő években felhasználhatja. Az előirányzat-maradványra visszafizetési kötelezettsége a projekt pénzügyi befejezésekor keletkezik.
 
-[^82]: A 30. § (2) bekezdése a 287/2015. (X. 6.) Korm. rendelet 30. § 24. pontja szerint módosított szöveg.
-[^83]: A 30. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 30. § 25. pontja szerint módosított szöveg.
+[^84]: A 30. § (2) bekezdése a 287/2015. (X. 6.) Korm. rendelet 30. § 24. pontja szerint módosított szöveg.
+[^85]: A 30. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 30. § 25. pontja szerint módosított szöveg.
