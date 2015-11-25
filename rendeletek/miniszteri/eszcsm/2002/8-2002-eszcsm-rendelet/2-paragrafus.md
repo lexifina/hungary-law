@@ -24,12 +24,12 @@ b) a vény alapján a tárgyhónapban átadott anyatej mennyiségét tartalmazó
 
 (6a)[^6] Anyatejet adományozó személy esetén a tárgyhónapra társadalombiztosítási támogatással rendelt elszámolásra benyújtott anyatej mennyisége nem haladhatja meg a napi 800 millilitert.
 
-(7)[^7] Az elszámolt támogatás átutalására vonatkozó megbízást a kormányhivatal az (1) bekezdés a) pontja esetén a Magyar Államkincstárnak az elszámolás benyújtását követő 5. banki napon adja át. Az (1) bekezdés b)[^8] pontjában meghatározott esetben a kormányhivatal a támogatás összegét az anyatejet adónak közvetlenül utalja át.
+(7)[^7] Az elszámolt támogatás átutalására vonatkozó megbízást az Országos Egészségbiztosítási Pénztár az (1) bekezdés a) pontja esetén a Magyar Államkincstárnak az elszámolás benyújtását követő 5. banki napon adja át. Az (1) bekezdés b)[^8] pontjában meghatározott esetben az Országos Egészségbiztosítási Pénztár a támogatás összegét az anyatejet adónak közvetlenül utalja át.
 
 (8) A társadalombiztosítási támogatás elszámolásának módjára az (1)–(7) bekezdésekben nem szabályozott kérdésekben a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet rendelkezéseit kell alkalmazni.
 
 [^4]: A 2. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 35. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (4a) bekezdését a 69/2011. (XII. 21.) NEFMI rendelet 2. § (1) bekezdése iktatta be.
 [^6]: A 2. § (6a) bekezdését a 69/2011. (XII. 21.) NEFMI rendelet 2. § (2) bekezdése iktatta be.
-[^7]: A 2. § (7) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 35. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (7) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 18. §-a szerint módosított szöveg.
 [^8]: A Magyar Közlöny 2002. évi 131. számában megjelent helyesbítésnek megfelelő szöveg.
