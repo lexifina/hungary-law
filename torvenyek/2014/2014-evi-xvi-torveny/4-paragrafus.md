@@ -76,6 +76,8 @@ b) olyan nyilvános nyílt végű kollektív befektetési forma, amely az ÁÉKB
 
 28. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
 
+28a. EHTBA: az európai hosszú távú befektetési alapokról szóló, 2015. április 29-i 760/2015/EU parlamenti és tanácsi rendelettel összhangban engedélyezett ABA;
+
 29. ellenőrző befolyás: a Hpt.-ben meghatározott fogalom;
 
 30. ESZVA: minősített szociális vállalkozási alap;
