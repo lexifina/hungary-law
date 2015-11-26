@@ -1,6 +1,6 @@
-## 94. §[^23]
+## 94. §[^29]
 
-1. melléklet a 43/2015. (III. 12.) Korm. rendelethez[^24]
+1. melléklet a 43/2015. (III. 12.) Korm. rendelethez[^30]
 
 ## Szavatolótőke-szükséglet standard formula
 
@@ -108,5 +108,5 @@ A számításban az SCRi és az SCRj a következőkkel helyettesítendő:
 
 – SCR deviza – jelöli a devizaárfolyam-kockázati részmodult
 
-[^23]: A 94. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
-[^24]: Az 1. melléklet a 295/2015. (X. 8.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^29]: A 94. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^30]: Az 1. melléklet a 295/2015. (X. 8.) Korm. rendelet 12. §-a szerint módosított szöveg.
