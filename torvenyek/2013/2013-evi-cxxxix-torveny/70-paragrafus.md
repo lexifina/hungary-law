@@ -1,6 +1,6 @@
 70. § (1) Az MNB a 69. § (4) bekezdése alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított hatvan napon belül hoz döntést. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
-(2) Az MNB a 69. § (4) bekezdése alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított tizenöt napon belül hoz döntést. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb nyolc nappal meghosszabbítható.
+(2)
 
 (3) Rendkívüli célvizsgálat esetén – különösen indokolt esetben – az MNB a 69. § (4) bekezdésben meghatározott észrevétel beérkezését megelőzően is hozhat döntést, feltéve, ha ezt a rendkívüli célvizsgálat alapjául szolgáló jogsértés hatásainak enyhítésére vagy kiküszöbölésére szolgáló halaszthatatlan intézkedés megtétele indokolja.
 

@@ -11,3 +11,19 @@
 (6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 467 550 000 Ft, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – ha meghatározható – kétszereséig terjed.
 
 (7) A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 14/A. §-ában, 36/A. § (1)–(3) bekezdésében és 36/B. §-ában a pénzforgalmi szolgáltató számára előírt kötelezettség megszegése, elkerülése, elmulasztása, késedelmes vagy hiányos teljesítése esetén az MNB a 88. §-ban meghatározott jogkövetkezményeket alkalmazza.
+
+(8) A Tpt. 400. § (1) bekezdés w) pont 3. alpontjában foglalt bírság mértéke
+
+a) vállalkozás esetében
+
+aa) legfeljebb 2 984 800 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 5%-a azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel vagy
+
+ab) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese,
+
+b) természetes személy esetében
+
+ba) legfeljebb 596 960 000 forint vagy
+
+bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese.
+
+(9) A (8) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
