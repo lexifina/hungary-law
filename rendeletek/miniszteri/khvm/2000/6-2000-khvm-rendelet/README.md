@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-6-20-6B
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2000-6-20-6B.2 | 6/2000. (III. 17.) KHVM rendelet |
+| 2015-11-26 | 2000-6-20-6B.3 | 66/2015. (XI. 18.) NFM rendelet |

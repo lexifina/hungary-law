@@ -10,7 +10,7 @@
 
 | B kategória | – | a legközelebbi kikötőtől legfeljebb 150 tengeri mérföldre eltávolodó tengeri kereskedelmi és halászhajók; |
 
-| C kategória | – | kikötői hajók, kishajók és olyan vízijárművek, amelyek a kormányálláson kívül nem rendelkeznek személyek tartózkodására alkalmas zárt térrel. |
+| C kategória | – | kikötői hajók, tengeri kishajók és olyan vízijárművek, amelyek a kormányálláson kívül nem rendelkeznek személyek tartózkodására alkalmas zárt térrel. |
 
 |  | K a t e g ó r i a |
 

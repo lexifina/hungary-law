@@ -10,7 +10,7 @@
 
 | B kategória | – | Vontató- és tolóhajók, önjáró áruszállító hajók; |
 
-| C kategória | – | Termes személyhajók, úszó munkagépek, személyzettel üzemeltetett uszályok, személyszállító kompok, személyek huzamos tartózkodására szolgáló (szállodahajóként vagy lakóhajóként üzemeltetett) úszóművek |
+| C kategória | – | Termes személyhajók, úszó munkagépek |
 
 |  | K a t e g ó r i a |
 
@@ -88,4 +88,6 @@
 
 |  | Az oxigénlélegeztetéshez szükséges felszerelés |  | x | x |
 
-2. számú melléklet a 6/2000. (III. 17.) KHVM rendelethez
+2. számú melléklet a 6/2000. (III. 17.) KHVM rendelethez[^15]
+
+[^15]: A 2. számú melléklet a 66/2015. (XI. 18.) NFM rendelet 5. § b) pontja szerint módosított szöveg.
