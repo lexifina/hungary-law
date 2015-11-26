@@ -1,5 +1,5 @@
-## 4. § Az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti támogatás igénybevételével kapcsolatos egyes kérdésekről szóló 5/2015. (II. 19.) FM rendelet 8. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A 7. § (1) bekezdés a), b), d) és f) pontja szerinti támogatási jogcím esetén történelmi bázis jogosultság és a 7. § (1) bekezdés a) pontja szerinti támogatási jogcím esetében kiegészítő történelmi bázis jogosultság alapján a termeléstől elválasztott támogatásra az a mezőgazdasági termelő jogosult, aki a tárgyévre vonatkozóan legalább 1 hektár támogatható területtel rendelkezik és a TIR-ben – a TIR-ben feltüntetett, az Eljárási tv. szerinti ügyfél-azonosítójával – állattartóként van nyilvántartva.”
+## 4. §[^3]
 
 ## 4. Az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti támogatások igénybevételével kapcsolatos egyes kérdésekről szóló 5/2015. (II. 19.) FM rendelet alapján nyújtható átmeneti nemzeti támogatás jogcímeihez kapcsolódó támogatások összegének megállapításáról szóló 61/2015. (X. 12.) FM rendelet módosítása
+
+[^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
