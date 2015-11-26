@@ -1,3 +1,1 @@
-## 1–4. §[^1]
-
-[^1]: Az 1–4. § a 6. § (2) bekezdése alapján 2015. november 26-án lép hatályba.
+## 4. § A 43/2015. Korm. rendelet 88. § (2) bekezdés a) pontja az „a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 235. § d) pontja szerint megállapított” szövegrész helyett az „alkalmazott” szöveggel lép hatályba.
