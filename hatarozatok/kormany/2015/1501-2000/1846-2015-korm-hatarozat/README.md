@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1846-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-11-25 | 2015-1846-30-22.1 | 1846/2015. (XI. 24.) Korm. határozat |
+| 2015-11-26 | 2015-1846-30-22.2 | 1829/2018. (XII. 27.) Korm. határozat |
