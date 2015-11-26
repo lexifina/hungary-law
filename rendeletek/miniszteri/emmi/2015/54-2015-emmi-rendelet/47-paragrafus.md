@@ -1,1 +1,0 @@
-## 46. § Az egészségügyi szakdolgozók továbbképzésének szabályairól szóló 63/2011. (XI. 29.) NEFMI rendelet (a továbbiakban: 63/2011. NEFMI r.) 3. § (1) bekezdésében az „az általa vezetett minisztérium (a továbbiakban: minisztérium) honlapján” szövegrész helyébe az „az általa vezetett minisztérium (a továbbiakban: minisztérium), valamint az ENKK honlapján” szöveg lép.

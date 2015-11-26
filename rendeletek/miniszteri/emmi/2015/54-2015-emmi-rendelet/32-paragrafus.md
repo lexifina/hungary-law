@@ -1,1 +1,0 @@
-## 31. § Az 5/2006. EüM rendelet 11. § (2) bekezdésében a „megjelölve a rendezvény biztosítását ellátó egység vagy egységek rendezvény alatti elérhetőségét,” szövegrész helyébe a „megjelölve a rendezvény pontos helyszínét, időpontját, típusát, valamint a rendezvény biztosítását ellátó egység vagy egységek rendezvény alatti elérhetőségét,” szöveg lép.

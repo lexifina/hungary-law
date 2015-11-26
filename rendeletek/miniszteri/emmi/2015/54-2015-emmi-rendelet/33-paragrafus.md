@@ -1,3 +1,5 @@
-## 32. § Hatályát veszti az 5/2006. EüM rendelet 3. § (2) bekezdés b) pontja.
+## 28–32. §[^15]
 
 ## 16. Az egyes nem üzleti célú közösségi, szabadidős szálláshelyek üzemeltetésének egészségügyi feltételeiről szóló 37/2007. (VII. 23.) EüM–SZMM együttes rendelet módosítása
+
+[^15]: A 28–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
