@@ -25,11 +25,3 @@ k) 438. § c) pontja,
 l) 7. melléklete.
 
 (2) Nem lép hatályba az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény 172. § (2) bekezdése.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

@@ -1,6 +1,6 @@
 11. § A Tpt.
 
-a) 52. § (4) bekezdésében a „részvény vagy kötvény kibocsátójára” szövegrész helyébe a „kötvény kibocsátójára” szöveg,
+a)
 
 b) 58. § (3) bekezdésében a „Felügyeleti hatóságai” szövegrész helyébe a „felügyeleti hatóságai” szöveg,
 
