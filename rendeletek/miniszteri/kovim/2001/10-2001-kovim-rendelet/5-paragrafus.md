@@ -1,12 +1,14 @@
 ## 4. § Ez a rendelet 2002. január 1-jén lép hatályba.
 
-## 5. §[^2] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 5. §[^3] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Bizottság 96/40/EK irányelve (1996. június 25.) a kikötő szerinti állam általi ellenőrzéseket végrehajtó ellenőrzésre jogosult személyek személyi azonosító okmányai közös modelljének kidolgozásáról;
 
-b) a Tanács 95/21/EK irányelve (1995. június 19.) a hajózás biztonságának, a hajók által okozott környezetszennyezés megelőzésének és a hajókon szolgálatot teljesítők élet- és munkakörülményei nemzetközi követelményeinek a tagállamok felségvizein hajózó és a Közösség kikötőit felkereső hajókon való kikényszerítéséről 12. Cikkének 1. és 4. pontja, valamint VII. melléklete.
+b) a Tanács 95/21/EK irányelve (1995. június 19.) a hajózás biztonságának, a hajók által okozott környezetszennyezés megelőzésének és a hajókon szolgálatot teljesítők élet- és munkakörülményei nemzetközi követelményeinek a tagállamok felségvizein hajózó és a Közösség kikötőit felkereső hajókon való kikényszerítéséről 12. Cikkének 1. és 4. pontja, valamint VII. melléklete;
 
-Melléklet a 10/2001. (III. 2.) KöViM rendelethez[^3]
+c)[^4] a 2006. évi tengerészeti munkaügyi egyezménynek való megfelelés és annak végrehajtása vonatkozásában a lobogó szerinti államokra háruló egyes kötelezettségekről szóló, 2013. november 20-i 2013/54/EU európai parlamenti és tanácsi irányelv.
+
+Melléklet a 10/2001. (III. 2.) KöViM rendelethez[^5]
 
 Hajózásbiztonsági ellenőri igazolvány
 
@@ -56,5 +58,6 @@ Az igazolvány hátoldala
 
 | A tulajdonos anyja neve:The name of the holder's mother: |
 
-[^2]: Az 5. § a 48/2009. (IX. 30.) KHEM rendelet 16. §-ával megállapított szöveg.
-[^3]: A melléklet a 95/2006. (XII. 27.) GKM rendelet 28. §-ának a)–d) pontja szerint módosított szöveg.
+[^3]: Az 5. § a 48/2009. (IX. 30.) KHEM rendelet 16. §-ával megállapított szöveg.
+[^4]: Az 5. § c) pontját a 66/2015. (XI. 18.) NFM rendelet 7. §-a iktatta be.
+[^5]: A melléklet a 95/2006. (XII. 27.) GKM rendelet 28. §-ának a)–d) pontja szerint módosított szöveg.
