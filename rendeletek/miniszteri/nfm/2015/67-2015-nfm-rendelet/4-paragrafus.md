@@ -1,0 +1,1 @@
+## 3. § A tengerészeti munkaügyi bizonyítványt a Tengerészeti Munkaügyi Egyezményben és az e rendeletben foglalt követelményeknek való megfelelést követően a hajózási hatóság a tengeri hajó részére a hajótulajdonos kérelmére adja ki.

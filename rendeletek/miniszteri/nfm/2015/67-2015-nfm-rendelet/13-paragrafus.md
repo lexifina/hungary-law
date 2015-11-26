@@ -1,0 +1,1 @@
+## 12. § A hajótulajdonos a maláriát terjesztő és az egyéb vérszívó szúnyogok által érintett területeken közlekedő hajókat szúnyoghálóval, valamint szúnyogriasztó szerekkel és eszközökkel, a tengerészeket profilaktikus szerekkel köteles ellátni.

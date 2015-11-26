@@ -1,0 +1,1 @@
+## 11. § A hajótulajdonos a hajó elpusztulása, vagy elsüllyedése esetén a munkanélküli tengerésznek a munkaviszonyából eredő legalább kéthavi munkabérének megfelelő összegű kártalanítást köteles fizetni. A jogosultság nem korlátozza a tengerész munkanélküliséggel össze nem függő, a hajó megsemmisüléséből vagy elsüllyedéséből eredő egyéb kárigényét.
