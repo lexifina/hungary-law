@@ -1,1 +1,0 @@
-## „(5) Az érintett miniszter köteles a miniszter kérésére az Európai Unió, más nemzetközi szervezet vagy a hazai költségvetés által nyújtott támogatással vagy a beruházás megvalósításával összefüggő egyéb, a rendelkezésére álló – személyes adatnak nem minősülő – adatot a miniszter részére megküldeni.”
