@@ -1,4 +1,4 @@
-6/B. §[^14] (1) Hajós-orvosi vizsgálatokra az az orvos jogosult, aki szerepel a hajózási hatóság hajós-orvosi vizsgálatokra jogosult orvosokról vezetett nyilvántartásában.
+6/B. §[^15] (1) Hajós-orvosi vizsgálatokra az az orvos jogosult, aki szerepel a hajózási hatóság hajós-orvosi vizsgálatokra jogosult orvosokról vezetett nyilvántartásában.
 
 (2) A hajózás hatóság azt az orvost veszi nyilvántartásba, aki igazolja, hogy
 
@@ -18,4 +18,4 @@ tesz eleget.
 
 (4) A nyilvántartásba vett hajós-orvosi vizsgálatokra jogosult orvosnak háromévente a hajózási hatóság honlapján közzétett ismeretfelújító képzésen kell részt venni és igazolni annak sikeres elvégzését.
 
-[^14]: A 6/B. §-t a 23/2015. (V. 8.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^15]: A 6/B. §-t a 23/2015. (V. 8.) NFM rendelet 12. § (2) bekezdése iktatta be.

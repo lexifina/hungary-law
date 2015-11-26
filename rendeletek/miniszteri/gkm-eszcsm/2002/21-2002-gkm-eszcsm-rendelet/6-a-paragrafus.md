@@ -1,4 +1,4 @@
-6/A. §[^13] (1) Tengerész-orvosi vizsgálatokra az az orvos jogosult, aki szerepel a hajózási hatóság tengerész-orvosi vizsgálatokra jogosult orvosokról vezetett nyilvántartásában.
+6/A. §[^14] (1) Tengerész-orvosi vizsgálatokra az az orvos jogosult, aki szerepel a hajózási hatóság tengerész-orvosi vizsgálatokra jogosult orvosokról vezetett nyilvántartásában.
 
 (2) A hajózási hatóság azt az orvost veszi nyilvántartásba, aki igazolja, hogy
 
@@ -34,4 +34,4 @@ tesz eleget.
 
 (5) A nyilvántartásba vett tengerész-orvosi vizsgálatokra jogosult orvosnak háromévente a hajózási hatóság honlapján közzétett ismeretfelújító képzésen kell részt venni és igazolni annak sikeres elvégzését.
 
-[^13]: A 6/A. §-t a 23/2015. (V. 8.) NFM rendelet 12. § (1) bekezdése iktatta be.
+[^14]: A 6/A. §-t a 23/2015. (V. 8.) NFM rendelet 12. § (1) bekezdése iktatta be.

@@ -122,6 +122,6 @@
 
 2. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM
 
-együttes rendelethez[^29]
+együttes rendelethez[^30]
 
-[^29]: A 2. számú melléklet a 23/2015. (V. 8.) NFM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^30]: A 2. számú melléklet a 23/2015. (V. 8.) NFM rendelet 16. § (2) bekezdésével megállapított szöveg.

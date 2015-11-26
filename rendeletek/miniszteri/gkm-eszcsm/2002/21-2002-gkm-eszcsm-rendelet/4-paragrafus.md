@@ -28,7 +28,7 @@ bd) 70. életévét betöltötte, 2 évenként
 
 (4) Belvízi úszólétesítményen fedélzeti szolgálatot, gépüzemi szolgálatot vagy segédszolgálatot teljesítő személynél az egészségi alkalmasság vizsgálatát:
 
-a) ötvenedik életévének betöltéséig ötévenként,
+a)[^6]
 
 b) ötvenedik életévének betöltése után háromévenként,
 
@@ -52,7 +52,8 @@ b) hatvanadik életévének betöltése után évenként
 
 (9) A hajózási hatóság, a hajózási szolgálatot teljesítő, illetve a kedvtelési célú vízijárművet vezető személyt a hajózás biztonságát veszélyeztető egészségi állapot észlelésének esetében határidő tűzésével soron kívüli vizsgálatra hívhatja fel, és az alkalmasság újbóli megállapításáig a hajózási szolgálat ellátásától, illetve a kedvtelési célú vízijármű vezetésétől – a szolgálati könyvbe való bejegyzéssel, illetve a kedvtelési célú vízijárművezetői bizonyítvány bevonásával – ideiglenesen eltilthatja.
 
-(10) Az élelmezéssel kapcsolatos munkakörben foglalkoztatott hajózási dolgozót az e rendeletben meghatározott vizsgálatok nem mentesítik az ilyen munkakörben foglalkoztatott dolgozókra külön jogszabályban[^6] előírt orvosi vizsgálat alól.
+(10) Az élelmezéssel kapcsolatos munkakörben foglalkoztatott hajózási dolgozót az e rendeletben meghatározott vizsgálatok nem mentesítik az ilyen munkakörben foglalkoztatott dolgozókra külön jogszabályban[^7] előírt orvosi vizsgálat alól.
 
 [^5]: A 4. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 11. §-ával megállapított szöveg.
-[^6]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletet.
+[^6]: A 4. § (4) bekezdés a) pontját a 66/2015. (XI. 18.) NFM rendelet 12. §-a hatályon kívül helyezte.
+[^7]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletet.
