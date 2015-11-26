@@ -1,0 +1,3 @@
+37. § A Bit. 170. §-a a következő szöveggel lép hatályba:
+
+„170. § Ha másik tagállam érintett felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a területén székhellyel rendelkező biztosító ellen reorganizációs vagy azzal egy tekintet alá eső eljárás indult, a Felügyelet – mérlegelve a tájékoztatás szükségességét a magyarországi esetleges hitelezők tekintetében – honlapján tájékoztatót tehet közzé az eljárás megindításáról és annak gyakorlati következményeiről.”

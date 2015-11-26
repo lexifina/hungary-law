@@ -1,0 +1,3 @@
+49. § A Bit. 329. § (6) bekezdése a következő szöveggel lép hatályba:
+
+„(6) Ha a Felügyelet a (3) bekezdés alapján a tagállami szintű anyavállalatra alkalmazza a csoportfelügyeletet, valamint az EU-szintű anyavállalat a belső modell módszert alkalmazza a szavatolótőke-szükségletének megállapításához és a Felügyelet megítélése szerint ennek a módszernek az alkalmazása a tagállami szintű anyavállalat esetében félrevezető eredményt adna, mivel a tagállami szintű anyavállalat kockázati profilja jelentősen eltér az EU-szintű anyavállalat kockázati profiljától, akkor a Felügyelet többlettőke-követelményt írhat elő a tagállami szintű anyavállalat számára vagy – amennyiben ez előbbit nem tartja célszerűnek – előírhatja a standard módszer alkalmazását is.”

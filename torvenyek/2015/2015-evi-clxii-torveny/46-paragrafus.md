@@ -1,0 +1,3 @@
+46. § A Bit. 287. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Magyarország területén székhellyel rendelkező biztosítónak évente egyszer – a Magyar Nemzeti Bank elnökének rendeletében meghatározottak szerint – tájékoztatni kell a Felügyeletet a más tagállamban létesített fióktelepe által, vagy határon átnyúló szolgáltatás keretében végzett tevékenységével kapcsolatban tagállamonként – a viszontbiztosítás levonása nélkül – a biztosítási díjbevételről, a kárkifizetések és a kifizetett jutalékok összegéről biztosítási üzletáganként, a nem-életbiztosítás és az életbiztosítás vonatkozásában elkülönítetten.”
