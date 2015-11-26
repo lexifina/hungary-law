@@ -1,21 +1,21 @@
 45. § (1) A 23. számú mellékletben meghatározott nemzetközi pénzügyi intézmény, valamint az olyan nemzetközi intézmény, amelynek az Európai Unió legalább egy tagállama a tagja, hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatalához, illetőleg szabályozott piacra történő bevezetéséhez – ha a forgalomba hozatalra, illetőleg a szabályozott piacra történő bevezetésre kizárólag Magyarországon kerül sor – a 26–27. §-ban meghatározott tájékoztató helyett a 7. számú melléklet szerint összeállított, a Felügyelet által engedélyezett ismertetőt tehet közzé a 34. §-ban meghatározott módon.
 
-(2) Hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatalához, illetőleg szabályozott piacra történő bevezetéséhez – ha a forgalomba hozatalra, illetőleg a szabályozott piacra történő bevezetésre kizárólag Magyarországon kerül sor – a 26–27. §-ban meghatározott tájékoztató helyett a 7. számú melléklet szerint összeállított, a Felügyelet által engedélyezett ismertető tehető közzé a 34. §-ban meghatározott módon azzal, hogy a 7. számú melléklet 3–14. és 17–19. pontjában meghatározott adatokat a 27. § (6) bekezdésében meghatározottak szerint jelenti be a Felügyeletnek és teszi közzé:
+(2) Hitelviszonyt megtestesítő értékpapír hitelintézet által kibocsátási program keretében történő nyilvános forgalomba hozatalára, illetve szabályozott piacra történő bevezetéséhez, ha a forgalomba hozatalára, illetve a szabályozott piacra történő bevezetésére kizárólag Magyarországon kerül sor, valamint ha az értékpapír
 
-a) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetén, ha az értékpapírok
+1. nem alárendelt kölcsönt testesít meg, nem konvertálható és nem átcserélhető,
 
-1. nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők,
+2. nem ad jogot más értékpapír megszerzésére és nem kapcsolódik származtatott termékhez, és
 
-2. nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez,
+3. betétgyűjtést testesít meg,
 
-3. betétgyűjtést valósítanak meg, és
+akkor a hitelintézet a 26–27. §-ban meghatározott tájékoztató helyett a 7. számú melléklet szerint összeállított, a Felügyelet által engedélyezett ismertetőt tehet közzé a 34. §-ban meghatározott módon azzal, hogy a 7. számú melléklet 3–14. és 17–19. pontjában meghatározott adatokat a 27. § (6) bekezdésében meghatározottak szerint jelenti be a Felügyeletnek és teszi közzé.
 
-4. kiterjed rájuk az Országos Betétbiztosítási Alap által nyújtott biztosítás;
+(2a) Hitelviszonyt megtestesítő értékpapír hitelintézet által kibocsátási program keretében történő nyilvános forgalomba hozatalára, illetve szabályozott piacra történő bevezetéséhez, ha az összes forgalomba hozott értékpapír kibocsátási értéke uniós szinten az első forgalomba hozataltól számított tizenkét hónapos időtartamon belül nem éri el a hetvenötmillió eurót, vagy a forgalomba hozatalra vonatkozó döntés napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon számítva annak megfelelő összeget, valamint ha az értékpapír
 
-b) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetében, ha az összes forgalomba hozott értékpapír kibocsátási értéke az első forgalomba hozataltól számított tizenkét hónapos időtartamon belül nem éri el a hetvenötmillió eurót, vagy a forgalomba hozatalra vonatkozó döntés napján érvényes, MNB által közzétett hivatalos devizaárfolyamon számítva annak megfelelő összeget és az értékpapírok
+1. nem alárendelt kölcsönt testesít meg, nem konvertálható és nem átcserélhető, és
 
-ba) nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők, és
+2. nem ad jogot más értékpapír megszerzésére és nem kapcsolódik származtatott termékhez,
 
-bb) nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez.
+akkor a hitelintézet a 26–27. §-ban meghatározott tájékoztató helyett a 7. számú melléklet szerint összeállított, a Felügyelet által engedélyezett ismertetőt tehet közzé a 34. §-ban meghatározott módon azzal, hogy a 7. számú melléklet 3–14. és 17–19. pontjában meghatározott adatokat a 27. § (6) bekezdésében meghatározottak szerint jelenti be a Felügyeletnek és teszi közzé.
 
 (3) Az ismertető a felügyeleti jóváhagyástól számított tizenkét hónapig hatályos.

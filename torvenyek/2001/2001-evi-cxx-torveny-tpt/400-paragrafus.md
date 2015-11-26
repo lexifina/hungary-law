@@ -28,7 +28,11 @@ m) törvényben meghatározott esetben és mértékben bírságot szabhat ki;
 
 n) meghatározott időszakra felfüggesztheti az értékpapír forgalomba hozatalát, a pénzügyi eszköz forgalmazását, a nyilvánosan működő részvénytársaságban történő befolyásszerzésre irányuló nyilvános vételi ajánlatra vonatkozó eljárást;
 
-o) ha törvény alapján a részvényes a részvénytársasággal szemben tagsági jogait nem gyakorolhatja, ezt a tényt a Felügyelet határozatban megállapítja, és szükség esetén elrendelheti a tagsági jogok gyakorlásának felfüggesztését;
+o) elrendelheti a tagsági jogok gyakorlásának felfüggesztését:
+
+1. ha törvény alapján a részvényes a részvénytársasággal szemben tagsági jogait nem gyakorolhatja, és ezt a tényt a Felügyelet határozatban megállapítja,
+
+2. a 61. §-ban foglalt kötelezettségek megsértése esetében a nyilvánosan működő részvénytársaság részvényesével vagy a szavazati jog birtokosával szemben;
 
 p) más illetékes hatóságnál eljárást kezdeményezhet;
 
@@ -62,7 +66,15 @@ t) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmén
 
 u) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 34. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza,
 
-v) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 4. és 9-11. cikkében előírt kötelezettség megsértése esetén a kötelezettségének teljesítését elmulasztó személyt vagy szervezetet figyelmezteti, illetve – ha szükséges – a kötelezettségének való megfelelésre felszólítja.
+v) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 4. és 9-11. cikkében előírt kötelezettség megsértése esetén a kötelezettségének teljesítését elmulasztó személyt vagy szervezetet figyelmezteti, illetve – ha szükséges – a kötelezettségének való megfelelésre felszólítja,
+
+w) az V. Fejezetben foglalt tájékoztatási kötelezettségek megsértése esetén a tájékoztatásra kötelezettel szemben
+
+1. a jogsértés megállapítását követően a honlapján nyilvános közleményt tehet közzé a felelős tájékoztatásra kötelezett és a jogsértés jellegének megjelölésével,
+
+2. megtilthatja a felelős tájékoztatásra kötelezett számára a jogsértést megvalósító magatartás folytatását vagy megismétlését, illetve
+
+3. bírságot szabhat ki.
 
 (2) A Felügyelet az (1) bekezdés h), i), n), o), r), s) és v) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
 

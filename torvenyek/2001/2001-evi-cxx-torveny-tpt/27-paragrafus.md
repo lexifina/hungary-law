@@ -10,7 +10,7 @@ d) az összefoglaló tartalmáért felelősséget vállaló személyt, illetve a
 
 (1a) A kiemelt információ tartalmazza:
 
-a) a kibocsátóra, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személyre vonatkozó alapvető adatokat, kockázatainak, pénzügyi helyzetének megítéléséhez szükséges adatokat,
+a) a kibocsátóra, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személyre vonatkozó alapvető adatokat, kockázatainak, pénzügyi helyzetének megítéléséhez szükséges adatokat, beleértve az eszközöket és forrásokat,
 
 b) az értékpapírral kapcsolatos kockázatok, valamint az értékpapír által megtestesített jogok befektető általi megismeréséhez szükséges információkat,
 
@@ -32,7 +32,7 @@ b) biztosítani kell, hogy a befektető az értékpapír megszerzésére vonatko
 
 (5) Az alaptájékoztató a kibocsátási program egészére, az adagolt kibocsátás keretében történő minden forgalomba hozatal összességére, valamint a tizenkét hónapon belül tervezett több forgalomba hozatalra együttesen vonatkozó összes információt egyetlen dokumentumban tartalmazza.
 
-(6) Amennyiben a forgalomba hozatal végleges feltételeit (amelyek csak az értékpapírjegyzékkel kapcsolatos információkat tartalmazzák, így különösen: a forgalomba hozatal össznévértékét, az értékpapír futamidejét, lejáratát, kamatát vagy egyéb járulékait, a forgalomba hozatal módját és helyét, továbbá az új értékpapír-sorozat értékpapírkódját) sem az alaptájékoztató, sem a 32. § szerinti kiegészítés nem tartalmazza, az egyes részkibocsátásokra vonatkozóan a kibocsátó a forgalomba hozatal kezdő napját megelőzően a forgalomba hozatal végleges feltételeit közzéteszi, és azokról tájékoztatja a Felügyeletet. A Felügyelet a fogadó tagállam hatáskörrel rendelkező hatóságát és az Európai Értékpapír-piaci Hatóságot ezt követően tájékoztatja a forgalomba hozatal végleges feltételeiről.
+(6) Amennyiben a forgalomba hozatal végleges feltételeit (amelyek csak az értékpapírjegyzékkel kapcsolatos információkat tartalmazzák, így különösen: a forgalomba hozatal össznévértékét, az értékpapír futamidejét, lejáratát, kamatát vagy egyéb járulékait, a forgalomba hozatal módját és helyét, továbbá az új értékpapír-sorozat értékpapírkódját) sem az alaptájékoztató, sem a 32. § szerinti kiegészítés nem tartalmazza, az egyes nyilvános részkibocsátásokra vonatkozóan a kibocsátó a forgalomba hozatal kezdő napját megelőzően a forgalomba hozatal végleges feltételeit közzéteszi, és azokról tájékoztatja a Felügyeletet. A Felügyelet a fogadó tagállam hatáskörrel rendelkező hatóságát és az Európai Értékpapír-piaci Hatóságot ezt követően tájékoztatja a forgalomba hozatal végleges feltételeiről.
 
 (7) A Felügyelet engedélyezheti valamely információnak a tájékoztatóból való elhagyását, ha:
 

@@ -14,7 +14,7 @@ c) a Felügyeletnek elektronikus úton be kell jelenteni a 391. § (1) bekezdés
 
 a) legalább egy országos terjesztésű napilap,
 
-b) a kibocsátó és – ha van – a forgalmazó honlapja,
+b) a kibocsátó vagy – ha van – a forgalmazó honlapja,
 
 c) annak a szabályozott piacnak, illetve multilaterális kereskedési rendszernek a honlapja, amelyen az értékpapírral kereskednek, vagy
 

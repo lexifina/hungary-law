@@ -6,7 +6,7 @@ a) a Felügyelet által elfogadott nyelven, és
 
 b) a kibocsátó választásától függően vagy a fogadó tagállamok felügyeleti hatósága által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni.
 
-(3) Ha az értékpapírokat egy vagy több fogadó tagállamban hozták nyilvánosan forgalomba, azonban Magyarországon nem, a szabályozott információkat a Felügyelet által elfogadott nyelven, továbbá a kibocsátó választásától függően vagy a fogadó tagállamok Felügyeleti hatóságai által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni.
+(3) Ha az értékpapírokat egy vagy több fogadó tagállamban hozták nyilvánosan forgalomba, azonban Magyarországon nem, a szabályozott információkat a Felügyelet által elfogadott nyelven, továbbá a kibocsátó választásától függően vagy a fogadó tagállamok felügyeleti hatóságai által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni.
 
 (4) A 61. § szerinti információ egy, a nemzetközi pénzügyi piacokon általában használt nyelven is bejelenthető, illetve közzétehető.
 

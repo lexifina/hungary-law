@@ -10,7 +10,7 @@ b) a kibocsátó által közzétett tájékoztatás alapján, hogy megváltozott
 
 (3) Az (1) bekezdés szerinti bejelentési mértékek a következők: öt, tíz, tizenöt, húsz, huszonöt, harminc, harmincöt, negyven, negyvenöt, ötven, hetvenöt, nyolcvan, nyolcvanöt, kilencven, kilencvenegy, kilencvenkettő, kilencvenhárom, kilencvennégy, kilencvenöt, kilencvenhat, kilencvenhét, kilencvennyolc és kilencvenkilenc százalék.
 
-(4) A szavazati jog kiszámítása – a szavazati jog gyakorlásának korlátozására vonatkozó előírásoktól függetlenül – mindazon részvények alapján történik, amelyhez a kibocsátó létesítő okiratának rendelkezése alapján szavazati jog kapcsolódik. Az (1) bekezdés szerinti arány meghatározásakor a részvényes részesedésén kívül az (5) és (6) bekezdés szerinti szavazati jogot is figyelembe kell venni.
+(4) A szavazati jog kiszámítása – a szavazati jog gyakorlásának korlátozására vonatkozó előírásoktól függetlenül – mindazon részvények alapján történik, amelyhez a kibocsátó létesítő okiratának rendelkezése alapján szavazati jog kapcsolódik. Az (1) bekezdés szerinti arány meghatározásakor a részvényes részesedésén kívül az (5), (6) és (9) bekezdés szerinti szavazati jogot is figyelembe kell venni.
 
 (5) Az (1) bekezdés szerinti arány meghatározásakor a részvényes szavazati jogaként kell figyelembe venni a részesedéshez kapcsolódó szavazati jogot, amelyet
 
@@ -38,6 +38,8 @@ b) befektetési vállalkozás, hitelintézet szavazati jogát, ha a befektetési
 
 a részvényes, a részvényes másik ellenőrzött vállalkozásának közvetlen, közvetett vagy bármely más módon adott utasítása alapján gyakorolhatja.
 
+(6a) A szavazati jogok mértékét a pénzügyi eszköz alapjául szolgáló részvények össznévértékére vonatkoztatva kell kiszámítani, kivéve a kizárólag készpénzben kiegyenlíthető pénzügyi eszközöket, amelyek esetében a szavazati jogok számát a Bizottság 2015/761/EU rendeletében foglaltakra figyelemmel kell kiszámítani. A birtokos az ugyanazon mögöttes kibocsátóhoz tartozó összes pénzügyi eszközt összesíti és bejelenti. A szavazati jogok kiszámításakor csak a hosszú pozíciókat kell figyelembe venni, és ezek nem nettósíthatóak.
+
 (7) Az (1) bekezdés szerinti arány meghatározásakor nem kell figyelembe venni a részvényes ellenőrzött vállalkozásaként működő kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, befektetési vállalkozás, hitelintézet szavazati jogát, ha a kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, a befektetési vállalkozás, a hitelintézet rendelkezik portfóliókezelési tevékenység végzésére jogosító engedéllyel, és
 
 a) papír alapú vagy elektronikus eszköz útján adott konkrét utasítása alapján,
@@ -58,21 +60,45 @@ bb) az ellenőrzött vállalkozásaként működő kollektív befektetési form�
 
 c) a részvényes és az ellenőrzött vállalkozásai írásbeli eljárásrendet fogadnak el és tartanak be a szavazati jog gyakorlásával kapcsolatos egymás közötti információáramlás megakadályozása érdekében.
 
-(9) Az (1) bekezdés szerinti tájékoztatási kötelezettség terheli azt a személyt is, aki közvetlenül vagy közvetve olyan, a Bszt. szerinti pénzügyi eszköznek – ideértve a határidős, opciós szerződéseket is – van a birtokában, amely – a birtokos egyedüli saját kezdeményezésére vagy megállapodás alapján – a kibocsátó szavazati jogot biztosító részvényének és szavazati jogának megszerzését teszi lehetővé.
+(9) Az (1) bekezdés szerinti tájékoztatási kötelezettség terheli azt a személyt is, aki közvetlenül vagy közvetve olyan pénzügyi eszköznek van a birtokában, amely lejáratkor a birtokos számára – szerződés alapján – feltétel nélkül, illetve a birtokos döntésétől függően a kibocsátó szavazati jogot biztosító részvényének és szavazati jogának megszerzését teszi lehetővé. A tájékoztatási kötelezettség teljesítése során különbséget kell tenni a fizikai leszállítással teljesíthető és a készpénzben kiegyenlíthető pénzügyi eszközök között.
+
+(9a) A (9) bekezdés alkalmazásában az alábbiak tekintendők pénzügyi eszköznek:
+
+a) átruházható értékpapír,
+
+b) opció,
+
+c) határidős ügylet,
+
+d) csereügylet,
+
+e) tőzsdén kívüli határidős kamatláb-megállapodás,
+
+f) különbözetre vonatkozó pénzügyi megállapodás vagy
+
+g) az a)–f) pontban meghatározott pénzügyi eszközökkel hasonló gazdasági hatást eredményező szerződés.
+
+(9b) A pénzügyi eszközökhöz kapcsolódó, a (9) bekezdés szerint már bejelentett szavazati jogokat ismét be kell jelenteni, ha a természetes személy vagy vállalkozás megszerezte az alapul szolgáló részvényeket, és a tulajdonszerzés eredményeként az ugyanazon kibocsátó által kibocsátott részvényekhez kapcsolódó szavazati jogok mértéke eléri vagy meghaladja a (3) bekezdésben foglalt küszöbértéket.
 
 (10) A részvényes mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha a tájékoztatási kötelezettséget az anyavállalata, vagy ha az anyavállalata is ellenőrzött vállalkozás, akkor annak anyavállalata teljesíti.
 
 (11) A hitelintézet és a befektetési vállalkozás a kereskedési könyvben nyilvántartott részesedés esetén mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha
 
-a) biztosítja, hogy a részesedéshez kapcsolódó szavazati jogot senki se gyakorolhassa,
+a) a szavazati jog nem gyakorolható
 
-b) a kibocsátó döntéshozó, ügyvezető, felügyelő szervei vagy testületi tagjainak kinevezésére, felmentésére vonatkozó döntések meghozatalában nem vesz részt, és
+b) a kibocsátó döntéshozó, ügyvezető szervei, felügyelőbizottsága vagy ezek testületi tagjainak kinevezésére, felmentésére vonatkozó döntések meghozatalában nem vesz részt, és
 
 c) a kereskedési könyvben nyilvántartott részesedéshez kapcsolódó szavazati jogok nem haladják meg az 5%-ot.
 
+(11a) A részvényes mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha a szavazati jogok a 203. § (3) bekezdésében említett rendelettel összhangban stabilizálási célból szerzett részvényekhez kapcsolódnak, feltéve ha a kibocsátó biztosítja, hogy a részesedéshez kapcsolódó szavazati jog
+
+a) nem gyakorolható, és
+
+b) a döntéshozó, ügyvezető szervei, felügyelőbizottsága vagy ezek testületi tagjainak kinevezésére, felmentésére vonatkozó döntések meghozatalában nem vesz részt.
+
 (12) Az árjegyző mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha
 
-a) biztosítja, hogy a részesdéséhez kapcsolódó szavazati jogot senki se gyakorolhassa,
+a) biztosítja, hogy a részesedéséhez kapcsolódó szavazati jogot senki se gyakorolhassa,
 
 b) az árjegyzői tevékenység megkezdését és megszüntetését megelőzően értesíti a Felügyeletet,
 

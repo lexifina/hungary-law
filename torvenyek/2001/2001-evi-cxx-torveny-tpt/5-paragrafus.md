@@ -60,7 +60,7 @@ b) a XIX/A. és XIX/B. Fejezet alkalmazásában minden olyan vállalkozás, amel
 
 27. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik,
 
-28. deltatényező: az opció alapjául szolgáló pénzügyi eszköz, áru vagy deviza árfolyamának (árának) egy pénzegységnyi változása hatására az opció értékében bekövetkező változást jelző mutatószám,
+28.
 
 29. dematerializált értékpapír: az e törvényben és külön jogszabályban meghatározott módon, elektronikus úton létrehozott, rögzített, továbbított és nyilvántartott, az értékpapír tartalmi kellékeit azonosítható módon tartalmazó adatösszesség,
 
@@ -340,7 +340,21 @@ a) valamennyi szabályozott piacon (kivezetés),
 
 b) az adott szabályozott piacon, feltéve hogy a részvényt más szabályozott piacon forgalmazzák (átvezetés),
 
-140. székhely szerinti tagállam: szabályozott piac esetében az a tagállam, amelyben a szabályozott piac létesítő okirat szerinti székhelye található, vagy ha a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az a tagállam, amelyben a központi irodája található,
+140. székhely szerinti tagállam:
+
+a) szabályozott piac esetében az a tagállam, amelyben a szabályozott piac létesítő okirat szerinti székhelye található, vagy ha a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az a tagállam, amelyben a központi irodája található,
+
+b) az V. Fejezetben foglaltak alkalmazásában
+
+ba) az 1000 eurónál, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összegnél kisebb egységnyi névértékű hitelviszonyt megtestesítő értékpapírok kibocsátója vagy részvények kibocsátója esetében:
+
+baa) az a tagállam, amelyben a kibocsátó létesítő okirat szerinti székhelye van, vagy
+
+bab) ha a kibocsátó egy harmadik országban székhellyel rendelkező vállalkozás, a kibocsátó által azon tagállamok közül kiválasztott tagállam, amelyekben értékpapírjait szabályozott piacra bevezették,
+
+bb) a ba) alpont hatálya alá nem tartozó bármely kibocsátó esetében a kibocsátó által azon tagállamok közül kiválasztott tagállam, amelyben a kibocsátónak a létesítő okirat szerinti székhelye van, vagy amelyekben értékpapírjait szabályozott piacra bevezették,
+
+bc) ha a kibocsátó értékpapírjaival a bab) alpont vagy a bb) alpont szerint meghatározott székhely szerinti tagállamában már nem, egy vagy több másik tagállamban viszont kereskednek, azon új székhely szerinti tagállam, amelyet a kibocsátó azon tagállamok közül választhat, amelyekben a kibocsátó értékpapírjai szabályozott piacon be vannak vezetve, vagy azon tagállam, amelyben a kibocsátó létesítő okirat szerinti székhelye van,
 
 141. kiemelt információ: a kibocsátó, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy, a felajánlott, illetve a szabályozott piacra bevezetett értékpapír lényeges jellemzőit és kockázatait rendszerezett formában tartalmazó azon információk összessége, amelynek célja, hogy elősegítse a befektető értékpapírra vonatkozó befektetési döntésének meghozatalát.
 
