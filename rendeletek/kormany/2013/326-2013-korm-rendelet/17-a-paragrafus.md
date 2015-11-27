@@ -1,4 +1,4 @@
-17/A. §[^33] (1) Ha a Mesterpedagógus fokozatba besorolt pedagógus országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként vesz részt vagy szaktanácsadói feladatokat lát el, munkaidő-kedvezményben részesül. A neveléssel-oktatással lekötött munkaideje nem lehet több
+17/A. §[^34] (1) Ha a Mesterpedagógus fokozatba besorolt pedagógus országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként vesz részt vagy szaktanácsadói feladatokat lát el, munkaidő-kedvezményben részesül. A neveléssel-oktatással lekötött munkaideje nem lehet több
 
 a) heti tizennyolc óránál,
 
@@ -60,4 +60,4 @@ c) részt vesz – a Gyvt. hatálya alá tartozó intézményben foglalkoztatott
 
 (12) A (11) bekezdés alkalmazásában a pedagógusnak felróható ok minden olyan esemény, körülmény, amelynek bekövetkezése a pedagógus szándékos vagy gondatlan magatartásával áll közvetlen okozati összefüggésben. A besorolás visszavonásakor a pedagógust Mesterpedagógus fokozatba történt besorolását megelőzően elért legmagasabb fokozatba és a fizetési kategória megállapításához figyelembe vehető jogviszonyának megfelelő kategóriába kell besorolni.
 
-[^33]: A 17/A. §-t a 249/2015. (IX. 8.) Korm. rendelet 12. §-a iktatta be.
+[^34]: A 17/A. §-t a 249/2015. (IX. 8.) Korm. rendelet 12. §-a iktatta be.

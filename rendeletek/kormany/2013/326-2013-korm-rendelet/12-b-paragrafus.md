@@ -1,4 +1,4 @@
-## 4/A. [^6] A minősítő vizsga és minősítési eljárás eredménye, jogorvoslat
+## 4/A. [^7] A minősítő vizsga és minősítési eljárás eredménye, jogorvoslat
 
 12/B. § (1) A pedagógus a minősítő vizsga és a minősítési eljárás értékelési szempontjainak való megfelelését a minősítő bizottság tagjai egyenként és összességükben az 1. mellékletben meghatározott súlyozási szabályok alapján, egymástól függetlenül értékelik, és értékelésüket az informatikai rendszerben rögzítik. Ha a tagok értékelése egymástól jelentősen eltér, a minősítő bizottság erről egyeztet.
 
@@ -30,4 +30,4 @@ c) Mesterpedagógus fokozatba soroláshoz szükséges minősítési eljárás es
 
 d) Kutatótanár fokozatba soroláshoz szükséges minősítési eljárás esetén: „Kutatótanár fokozatba lép”, vagy „Pedagógus II. fokozatban marad”, vagy „Mesterpedagógus fokozatban marad”.
 
-[^6]: A 4/A. alcímet (12/B-12/E. §) a 249/2015. (IX. 8.) Korm. rendelet 7. §-a iktatta be.
+[^7]: A 4/A. alcímet (12/B-12/E. §) a 249/2015. (IX. 8.) Korm. rendelet 7. §-a iktatta be.
