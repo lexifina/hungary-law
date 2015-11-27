@@ -20,4 +20,9 @@ c) hány olyan hallgató van, aki a lezárt félévvel már igénybe vette az ad
 
 (7) Ha a felvételt nyert jelentkező vagy az átsorolást kérő hallgató a magyar állami (rész)ösztöndíjjal támogatott képzés feltételeit nem vállalja, a felsőoktatási intézménynek fel kell ajánlania a részére ugyanazon képzésre az önköltséges képzésben való részvétel lehetőségét.
 
-(8) Az Nftv. 48. § (2) bekezdése szerinti átsorolási döntést minden év július 31. napjáig, tanévenként egyszer kell meghozni.
+(8)[^67] Az Nftv. 48. § (2) bekezdése szerinti átsorolási döntést minden év július 31. napjáig, tanévenként egyszer kell meghozni. Ha az 56. § (1) bekezdése alapján az adott félévhez tartozó kredit teljesítésére július 31-ét követően kerül sor, és a felsőoktatási intézmény betölthető magyar állami ösztöndíjas hellyel rendelkezik, akkor az átsorolási döntést ennek figyelembevételével kell felülvizsgálni és szükség esetén módosítani.
+
+(9)[^68] Át kell sorolni az Nftv. 48. §-a szerint azt a hallgatót, aki – ha a felsőoktatási intézmény szervezeti és működési szabályzata ettől magasabb értéket nem állapít meg – nem éri el a 10. melléklet szerinti, képzési területenként meghatározott súlyozott tanulmányi átlagot.
+
+[^67]: A 61. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 82. §-ával megállapított szöveg.
+[^68]: A 61. § (9) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 82. §-a iktatta be.

@@ -1,3 +1,5 @@
+## 65/C. § A felsőoktatási intézmény a hallgatóval írásban közli különösen a hallgatóra kötelezettséget keletkeztető döntését. A döntésnek tartalmaznia kell a döntés indokolását és a jogorvoslatról való tájékoztatást. A döntést bizonyítható módon kell a hallgatóval közölni.
+
 ## 22. Magán felsőoktatási intézmények gazdálkodásával kapcsolatos szabályok
 
 66. § (1) A magán felsőoktatási intézmény a beszámolási és könyvvezetési kötelezettségét a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: számviteli törvény) meghatározottak szerint teljesíti.

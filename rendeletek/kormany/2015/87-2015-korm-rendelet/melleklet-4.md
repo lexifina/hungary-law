@@ -27,3 +27,7 @@ j) a köznevelési intézményi tanítási, illetve az óvodai foglalkozási id�
 k) a köznevelési intézmény nevelési, illetve pedagógiai programja biztosítja a pedagógus-jelöltek felkészítésének lehetőségét.
 
 2. Többcélú köznevelési intézmény részbeni gyakorló intézményként való működésekor a nemzeti köznevelésről szóló 2011. évi CXC. törvény 7. § (1) bekezdés a)–i) pontja szerinti intézménynek a felsőoktatási intézmény pedagógusképzési feladatainak megfelelő, a köznevelési intézmény által ellátott nevelési-oktatási feladatok, pedagógiai szakszolgálati feladatok, valamint a kollégium feladatai vizsgálandók.
+
+3.[^96] A gyakorló köznevelési intézménynek a felsőoktatási intézmény azon képzése szerinti, a köznevelési intézményben folyó pedagógiai munka szakasza tekintetében kell megfelelni a gyakorló köznevelési intézménnyé nyilvánítás feltételeinek, amely képzésben a szakmai gyakorlatot biztosítja.
+
+[^96]: A 4. melléklet 3. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (3) bekezdése iktatta be.

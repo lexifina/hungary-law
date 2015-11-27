@@ -4,7 +4,7 @@ a) a FIR alrendszerei és alkalmazásai technikailag képesek legyenek kapcsoló
 
 b) azon felsőoktatási intézmény számára, amellyel a hallgató, a doktorjelölt, az oktató, a kutató, a tanár jogviszonyban áll vagy állt, a FIR útján a FIR-ben tárolt és az adott felsőoktatási intézmény által közölt személyes adatok elektronikus formában hozzáférhetők legyenek;
 
-c) a FIR útján a felsőoktatási intézményekkel, a képzési rendszerükkel összefüggő és a FIR-ben tárolt intézményi és egyéb statisztikai adatok, információk elektronikus formában hozzáférhetők legyenek a felsőoktatási intézmények és fenntartóik, a felsőoktatás működésében érdekelt szervezetek, a felsőoktatás irányításában közreműködők, az oktatók, a kutatók, a tanárok és a hallgatók, a felsőoktatásba jelentkezők, a szakmai és érdek-képviseleti szervezetek számára;
+c)[^46] a FIR útján a felsőoktatási intézményekkel, a képzési rendszerükkel összefüggő és a FIR-ben tárolt intézményi és egyéb statisztikai adatok, információk elektronikus formában hozzáférhetők legyenek a felsőoktatási intézmények és fenntartóik, a felsőoktatás működésében érdekelt szervezetek, a felsőoktatás irányításában közreműködők, az oktatók, a kutatók, a tanárok és a hallgatók, a doktorjelöltek, a felsőoktatásba jelentkezők, a szakmai és érdek-képviseleti szervezetek számára;
 
 d) a FIR a Hivatal által meghatározott szakmai specifikáció szerint biztosítani tudja
 
@@ -37,3 +37,5 @@ d) a FIR működésével kapcsolatos tájékoztatás megszervezését;
 e) a FIR-ben kezelt közérdekű és közérdekből nyilvános adatok nyilvánosságát, valamint az érintett számára a személyes adataiba való betekintést, a felsőoktatási intézmények és fenntartóik, a felsőoktatás működésében érdekelt szervezetek, a felsőoktatás irányításában közreműködők, az oktatók, a kutatók, a tanárok, a hallgatók, a doktorjelöltek, a felsőoktatásba jelentkezők, a szakmai és érdekképviseleti szervezetek és egyéb jogosultak tájékoztatását.
 
 (3) A FIR-ből adatok, elemzések – a jogszabályban megállapított állami feladat ellátásához szükséges adatokat kivéve – az adatok előállításával és közlésével kapcsolatban felmerült, a Hivatalnak megtérített költségek megfizetése esetén kérhetők.
+
+[^46]: A 26. § (1) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 5. pontja szerint módosított szöveg.

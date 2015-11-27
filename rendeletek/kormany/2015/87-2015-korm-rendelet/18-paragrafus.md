@@ -1,10 +1,10 @@
 ## 9. A képzés indításának eljárásai
 
-18. § (1) Alap- és mesterképzési szak indítását, új szakirányának vagy specializációjának indítását, doktori iskola létesítését, létesített doktori iskola új tudományágában doktori képzés indítását a Hivatalnál a felsőoktatási intézmény vezetője kérelmezi. Az alap-, illetve mesterképzés indításának tárgyi és személyi feltételeit az 5. melléklet határozza meg.
+18. § (1)[^16] Alap- és mesterképzési szak indításának, a szak új szakiránya vagy specializációja indításának, doktori iskola létesítésének, létesített doktori iskola új tudományágában doktori képzés indításának nyilvántartásba vételét a Hivatalnál a felsőoktatási intézmény vezetője a képzésindítás kezdő – szükség esetén utolsó – tanévének és félévének megadásával kérelmezi. Az alap-, illetve mesterképzés indításának tárgyi és személyi feltételeit az 5. melléklet határozza meg.
 
-(2) Alap- vagy mesterképzési szak indítása akkor kezdeményezhető, ha a szak képzési és kimeneti követelményeit a miniszter rendeletben meghatározta.
+(2)[^17] Alap- vagy mesterképzési szaknak, valamint alap- vagy mesterképzési szak szakirányának az indítása akkor kezdeményezhető, ha a szak képzési és kimeneti követelményeit a miniszter rendeletben meghatározta.
 
-(3) A felsőoktatási felvételi tájékoztatóban meghirdetni kívánt képzés, képzéshez tartozó szakirány vagy specializáció nyilvántartásba vétele a februárban induló képzések tekintetében legkésőbb a megelőző év augusztus 31-éig, a szeptemberben induló képzések tekintetében legkésőbb a megelőző év szeptember 30-áig kezdeményezhető.
+(3)[^18] A felsőoktatási felvételi tájékoztatóban a felsőoktatási felvételi eljárásról szóló kormányrendelet alapján kötelezően meghirdetendő alap- vagy mesterképzés, alap- vagy mesterképzéshez tartozó szakirány indításának, doktori képzés esetén tudományág nyilvántartásba vétele a februárban induló képzések tekintetében legkésőbb a megelőző év augusztus 31-éig, a szeptemberben induló, az általános felsőoktatási felvételi eljárásban meghirdetni kívánt képzések tekintetében legkésőbb a megelőző év szeptember 30-áig, a szeptemberben induló, a felsőoktatási pótfelvételi eljárásban meghirdetett képzések tekintetében legkésőbb a tárgyév június 30-áig kezdeményezhető. A felsőoktatási felvételi tájékoztatóban a felsőoktatási felvételi eljárásról szóló kormányrendelet alapján nem kötelezően meghirdetendő alap- vagy mesterképzés, alap- vagy mesterképzéshez tartozó szakirány nyilvántartásba vétele a februárban induló képzések tekintetében legkésőbb a megelőző év december 15-éig, a szeptemberben induló képzések tekintetében legkésőbb a tárgyév július 15-éig kezdeményezhető.
 
 (4) A kérelemhez mellékelni kell
 
@@ -14,7 +14,9 @@ b) ha az egybefüggő szakmai gyakorlatot a felsőoktatási intézménnyel köt�
 
 c) doktori iskola létesítése, létesített doktori iskola új tudományágában doktori képzés indítása esetében a doktori iskolákról, a doktori eljárások rendjéről és a habilitációról szóló 387/2012. (XII. 19.) Korm. rendelet 6. § (2) bekezdésében meghatározottakat, valamint
 
-d) a szak, szakirány vagy specializáció indításával, doktori iskola létesítésével, létesített doktori iskola új tudományágában doktori képzés indításával kapcsolatos szenátusi döntésnek a felsőoktatási intézmény vezetője vagy az általa megbízott személy által aláírt kivonatát.
+d) a szak, szakirány vagy specializáció indításával, doktori iskola létesítésével, létesített doktori iskola új tudományágában doktori képzés indításával kapcsolatos szenátusi döntésnek a felsőoktatási intézmény vezetője vagy az általa megbízott személy által aláírt kivonatát,
+
+e)[^19] a képzésnek az Nftv. 14. § (2a) bekezdés d) pontja szerinti képzési helyen történő indítása esetén a fenntartói egyetértéssel kötött megállapodás másolatát.
 
 (5) A (4) bekezdés a) pontja szerinti dokumentáció tartalmazza
 
@@ -26,7 +28,9 @@ c) a képzéséhez szükséges személyi és tárgyi feltételek bemutatását, 
 
 d) tanári szakképzettséget adó szak indítása esetén a tanári felkészítési elem gyakorlati képzési és intézményi szervezeti feltételeinek bemutatását.
 
-(6) A Hivatal a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményének figyelembevételével veszi nyilvántartásba a felsőoktatási intézmény alap- és mesterképzési szakának, szakirányának indítását, a doktori iskola létesítését, a létesített doktori iskola új tudományágát. A Magyar Felsőoktatási Akkreditációs Bizottság a szak-, szakirányindítás nyilvántartásba vételi eljárása során arról nyilvánít véleményt, hogy
+(6)[^20] A Hivatal a Magyar Felsőoktatási Akkreditációs Bizottság vagy helyette – a felsőoktatási intézmény ez irányú kezdeményezése esetén – a felsőoktatási intézmény által javasolt, az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő szervezet (a továbbiakban: ENQA akkreditációs szervezet) szakértői véleményének figyelembevételével veszi nyilvántartásba a felsőoktatási intézmény alap- és mesterképzési szakának, szakirányának indítását, a doktori iskola létesítését, a létesített doktori iskola új tudományágát.
+
+(6a)[^21] A szak-, szakirány-indítás nyilvántartásba vételi eljárása során a (6) bekezdés szerinti szakértői véleménynek – doktori iskola létesítése, létesített doktori iskola új tudományágában doktori képzés indítsa esetében a doktori iskolákról, a doktori eljárások rendjéről és a habilitációról szóló 387/2012. (XII. 19.) Korm. rendelet 6. § (3) bekezdésében meghatározottakra is tekintettel – tartalmaznia kell azt, hogy
 
 a) a felsőoktatási intézmény által benyújtott tanterv összhangban van-e az alap- vagy mesterképzési szak képzési és kimeneti követelményeivel,
 
@@ -36,8 +40,18 @@ c) megvannak-e az intézményben az indításhoz szükséges személyi és tárg
 
 (7) A Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményének fejlesztési javaslatokra is ki kell térnie.
 
-(8) Ha a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleménye nem támogatja a képzés indítását, a Hivatal a felsőoktatási intézmény erre irányuló kérése esetén az Nftv. 67. § (6) bekezdésében és 71. § (5) bekezdésében foglaltak szerint jár el.
+(8)[^22] Ha a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleménye nem támogatja a képzés indítását, a Hivatal a felsőoktatási intézmény erre irányuló kérése esetén az Nftv. 67. § (6) bekezdésében és 71. § (5) bekezdésében foglaltak szerint jár el. Ha a Magyar Felsőoktatási Akkreditációs Bizottság helyett szakértőként eljáró ENQA akkreditációs szervezet szakértői véleménye nem támogatja a képzés indítását, a Hivatal a felsőoktatási intézmény erre irányuló kérése esetén az Nftv. 67. § (6) bekezdésében foglaltak szerint jár el.
 
-(9) A korábban már nyilvántartásba vett, más nyelven vagy más képzési helyen – ide nem értve a külföldi székhelyen kívüli képzési helyet – indítandó képzés nyilvántartásba vétele esetén a (4)–(8) bekezdésben meghatározott rendelkezések azzal az eltéréssel irányadók, hogy nem kell beszerezni a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményét és nem kell benyújtani a (4) bekezdés a) pontja szerinti dokumentációt.
+(9)[^23] A korábban már nyilvántartásba vett, más nyelven, más munkarendben vagy más képzési helyen – ide nem értve a külföldi székhelyen kívüli képzési helyet és a 19. § (6) bekezdésében foglalt esetet – indítandó képzés nyilvántartásba vétele esetén a (4)–(8) bekezdésben meghatározott rendelkezések azzal az eltéréssel irányadók, hogy nem kell beszerezni szakértői véleményt és nem kell benyújtani a (4) bekezdés a) pontja – doktori iskola esetén c) pontja – szerinti dokumentációt.
 
-(10) A képzés a Hivatal nyilvántartásba vételi határozatának jogerőre emelkedését követően indítható.
+(10)[^24] Alap- és mesterképzési szakon, alap- és mesterképzési szak új szakirányán, doktori iskolában, valamint létesített doktori iskola új tudományágában képzés a Hivatal nyilvántartásba vételi határozatának jogerőre emelkedését követően indítható.
+
+[^16]: A 18. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^17]: A 18. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^18]: A 18. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^19]: A 18. § (4) bekezdés e) pontját a 345/2015. (XI. 19.) Korm. rendelet 66. § (2) bekezdése iktatta be.
+[^20]: A 18. § (6) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (3) bekezdésével megállapított szöveg.
+[^21]: A 18. § (6a) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 66. § (3) bekezdése iktatta be.
+[^22]: A 18. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (4) bekezdésével megállapított szöveg.
+[^23]: A 18. § (9) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (4) bekezdésével megállapított szöveg.
+[^24]: A 18. § (10) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (4) bekezdésével megállapított szöveg.

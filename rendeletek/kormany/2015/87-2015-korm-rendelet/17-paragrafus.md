@@ -1,12 +1,12 @@
 ## 8. A felsőoktatási intézmény megszűnése
 
-17. § (1) A nem állami fenntartó kezdeményezi a Hivatalnál az állami elismerés visszavonásával kapcsolatos eljárás megindítását
+17. § (1)[^15] A nem állami fenntartó kezdeményezi a Hivatalnál az állami elismerés visszavonásával kapcsolatos eljárás megindítását
 
-a) a felsőoktatási intézmény jogutóddal vagy jogutód nélküli megszüntetéséről hozott döntését,
+a) a felsőoktatási intézmény jogutódlással vagy jogutód nélküli megszüntetéséről hozott döntését,
 
 b) a felsőoktatási intézmény megszüntetése feltételeinek fennállásáról szóló jogerős bírósági határozat jogerőre emelkedését, vagy
 
-c) a fenntartói jogok gyakorlási jogának megszűnéséről szóló döntés meghozatalát
+c) a fenntartói joggyakorlás megszűnéséről szóló döntés meghozatalát
 
 ## követő tizenöt napon belül.
 
@@ -29,3 +29,5 @@ b) a felsőoktatási intézmény átalakulása esetén a megszűnő felsőoktat�
 jogerőre emelkedésével kezdeményezi a miniszternél a megszűnő felsőoktatási intézmény állami elismerésének visszavonását. A határozatok az állami elismerés visszavonásának napjával lépnek hatályba.
 
 (6) A Hivatal az állami elismerés visszavonásáról szóló törvény hatálybalépésének napjával törli a nyilvántartásából az érintett felsőoktatási intézményt.
+
+[^15]: A 17. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 65. §-ával megállapított szöveg.

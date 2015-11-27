@@ -1,8 +1,4 @@
-19. § (1) Magyar felsőoktatási intézménynek másik magyar felsőoktatási intézménnyel közös képzésben indítandó képzése nyilvántartásba vehető olyan képzésen, amelyen
-
-a) az oklevél kiállítója a képzésindítási engedéllyel rendelkező felsőoktatási intézmény, vagy
-
-b) közös képzés eredményeként közös oklevél kiállítása történik, beleértve az osztatlan kétszakos tanárképzés egyik tanári szakképzettség megszerzésére irányuló képzését is.
+19. § (1)[^25] Magyar felsőoktatási intézménynek másik magyar felsőoktatási intézménnyel közös képzésben indítandó képzése nyilvántartásba vehető olyan képzésen, amelyen közös képzés eredményeként közös oklevél kiállítása történik, beleértve az osztatlan kétszakos tanárképzés egyik tanári szakképzettség megszerzésére irányuló képzését is.
 
 (2) Magyar felsőoktatási intézménnyel együttműködésben folyó képzés indításának nyilvántartásba vételéhez a kérelmező felsőoktatási intézménynek a kérelemhez mellékelni kell a 18. § (4) bekezdésében meghatározottakon túl a felsőoktatási intézmények között létrejött együttműködési megállapodás egy eredeti példányát vagy annak a kérelmező felsőoktatási intézmény vezetője által hitelesített másolatát is.
 
@@ -17,3 +13,8 @@ c) a felek megállapodtak a képzési támogatás előirányzatának és az önk
 (4) A társ felsőoktatási intézmény a közös képzés keretében, részképzésen tanulmányokat folytatókkal vendéghallgatói jogviszonyt létesít, és erről teljesíti az adatközlést a FIR felé.
 
 (5) Az Nftv. 103. § (9) bekezdésében szabályozott, hitéleti tanári képzésre is irányuló osztatlan kétszakos tanárképzésben a képzésindítási engedélyt kérelmező intézmény az egyházi felsőoktatási intézmény. A társ felsőoktatási intézménnyel folyó tanárképzés eredményeként közös oklevél kiállítása történik.
+
+(6)[^26] A korábban nem közös képzésként nyilvántartásba vett képzés közös képzésként történő indításának nyilvántartásba vétele esetén – a 18. § (9) bekezdésben foglalt esetekben is – be kell szerezni a Magyar Felsőoktatási Akkreditációs Bizottság vagy az ENQA akkreditációs szervezet szakértői véleményét. Ezt a rendelkezést nem kell alkalmazni arra az esetre, ha képzés önálló indításának jogával valamennyi, a közös képzésben részt vevő felsőoktatási intézmény – szakpáros tanárképzés esetében a képző intézmények az általuk oktatott szakpártag indítási jogával – rendelkezik.
+
+[^25]: A 19. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 67. § (1) bekezdésével megállapított szöveg.
+[^26]: A 19. § (6) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 67. § (2) bekezdése iktatta be.

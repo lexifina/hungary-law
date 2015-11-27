@@ -28,9 +28,9 @@ b) a felsőoktatási intézmény jogelődjeinek intézményi azonosító száma,
 
 c) alaptevékenység, kiegészítő tevékenység, alaptevékenységhez kapcsolódó egyéb feladatok;
 
-d) azok a képzési szintek, képzési területek, képzési ágak, tudományterületek, tudományágak, művészeti ágak, amelyeken képzést folytat(hat) a székhelyen, illetve telephelyen;
+d)[^98] azok a képzési szintek, képzési területek, tudományterületek, tudományágak, művészeti ágak, amelyeken képzést folytat(hat) a székhelyen, illetve telephelyen;
 
-e) azok a képzési szintek, képzési területek, képzési ágak, tudományterületek, tudományágak, művészeti ágak, amelyeken képzést folytat(hat) a székhelyen kívül;
+e)[^99] azok a képzési szintek, képzési területek, tudományterületek, tudományágak, művészeti ágak, amelyeken képzést folytat(hat) a székhelyen kívüli képzési helyen, közösségi felsőoktatási képzési központban, fenntartói egyetértéssel kötött megállapodás alapján az azonos fenntartó által fenntartott más felsőoktatási intézmény székhelyén, telephelyén;
 
 f) felsőfokú szakképzés szakmacsoportjai, amelyeken az intézmény kifutó rendszerben képzést folytathat székhelyen, telephelyen, illetve székhelyen kívül;
 
@@ -50,15 +50,23 @@ l) az alapító okiratban foglalt maximális hallgatói létszám;
 
 a) a kollégium hivatalos neve, rövidített neve, székhelyének és valamennyi telephelyének címe, férőhelyeinek száma komfortfokozat szerint, felsőoktatási tevékenységben való részvételére, a felsőfokú tanulmányokra való felkészítésben való részvételre vonatkozó adatok;
 
-b) képzéssel kapcsolatos együttműködési megállapodásokról az együttműködő szervezet hivatalos neve, székhelyének címe, típusa, a megállapodás célja, kelte;
+b)[^100] duális képzéssel kapcsolatos együttműködési megállapodásokról az együttműködő szervezet hivatalos neve, székhelyének címe, típusa, a megállapodás célja, kelte, kezdete, tervezett vége, a duális képzés neve, az együttműködő szervezet által fogadható hallgatók maximális száma;
 
 c) a működési engedélyben engedélyezett képzési, feladat-ellátási helyek és az azokra vonatkozó képzési területek, tudományterületek, szakmacsoportok, képzések;
 
 d) a működési engedélyben engedélyezett maximális hallgatói létszám;
 
-e) a képzési és kutatási tevékenységhez kapcsolódó nemzetközi mobilitási megállapodásokról az együttműködő szervezet hivatalos neve, székhelyének címe, típusa, a megállapodás célja, kelte, kezdete, tervezett vége, esetleges nemzetközi kerete;
+e)[^101] magyar vagy külföldi felsőoktatási intézménnyel együttműködésben, közös képzés keretében vagy az Nftv. 77. § (4) bekezdése alapján folytatott képzés tárgyában megkötött, valamint egyéb nemzetközi mobilitási megállapodásokról az együttműködő szervezet felsőoktatási intézmény hivatalos neve, székhelyének címe, típusa, a megállapodás célja, kelte, kezdete, tervezett vége, esetleges nemzetközi kerete, a képzés neve;
 
-f) a szakmai gyakorlóhely hivatalos neve, címe, típusa, képzés, amelyhez a szakmai gyakorlat kapcsolódik;
+f)[^102] a szakmai gyakorlóhely hivatalos neve, címe, típusa, a képzés neve, amelyhez a szakmai gyakorlat kapcsolódik, a szakmai gyakorlóhely által fogadható hallgatók maximális száma;
+
+g)[^103] felsőoktatási intézmény fenntartói jogának átadása tárgyában megkötött megállapodásokról az átadó és az átvevő fenntartó hivatalos neve, székhelyének címe, a megállapodás célja, kelte, a fenntartói jog átvételének napja;
+
+h)[^104] az Nftv. 14. § (2a) bekezdés b) és d) pontjában meghatározott képzési hely biztosítására vonatkozó megállapodásokról a felsőoktatási intézmény és a képzési helyet biztosító hivatalos neve, a megállapodás célja, kelte, kezdete, tervezett vége, a képzési helyet biztosító által fogadható hallgatók maximális száma;
+
+i)[^105] az Nftv. 23. § (1) bekezdésében meghatározott, a hallgatók tanulmányainak folytatásáról megkötött megállapodásokról a felsőoktatási intézményt megszüntető fenntartó hivatalos neve, székhelyének címe, a megszűnő és a tanulmányok folytatását biztosító felsőoktatási intézmények neve, a megállapodás célja, kelte, a hallgatók átvételének napja;
+
+j)[^106] hallgatók számára szálláshely biztosításával kapcsolatos együttműködési megállapodásokról az együttműködő partner hivatalos neve, székhelyének címe, típusa, a megállapodás célja, kelte, kezdete, tervezett vége, a biztosított szálláshely címe, az együttműködő partner által fogadható hallgatók maximális száma;
 
 2.1.3. az intézmény által bejelentett, nyilvántartásba vett képzések (felsőoktatási szakképzések, alapképzési szakok, mesterképzési szakok, doktori iskolák képzései, szakirányú továbbképzések, felsőfokú szakképzések, egyetemi és főiskolai szintű képzések) adatai:
 
@@ -66,9 +74,7 @@ a) a képzés megnevezése;
 
 b) a képzés szakirányainak, specializációinak, műveltségterületeinek megnevezése;
 
-c) a képzés képzési területe, képzési ága vagy szakmacsoportja, a doktori képzés tudományterülete, tudományága vagy művészeti ága;
-
-d) a képzés elvégzését követően megszerezhető végzettségi szint, szintjének ISCED, továbbá az európai és a magyar képesítési keretrendszer szerinti besorolása;
+c)–d)[^107]
 
 e) a képzés elvégzését követően megszerezhető szakképzettség(ek), szakképesítés(ek);
 
@@ -90,7 +96,7 @@ m) a képzés nyelve;
 
 n) a képzés munkarendje;
 
-o) a képzés finanszírozási szakcsoportbeli besorolása;
+o)[^108]
 
 p) a képzés duális jellege;
 
@@ -116,13 +122,13 @@ d) a diákotthon férőhelyeinek száma komfortfokozat szerint, felsőoktatási 
 
 e) használt ingatlanvagyon (az ingatlan címe, helyrajzi száma, birtokolt terület és annak aránya az összterületben, a rendelkezés módja);
 
-f) a felsőoktatási intézményekkel kötött megállapodásokról az érintett felsőoktatási intézmény azonosítója, az együttműködés célja, keretei, kezdete és vége, az együttműködési megállapodás kelte.
+f)[^109] a felsőoktatási intézményekkel kötött megállapodásokról az érintett felsőoktatási intézmény hivatalos neve, a megállapodás célja, kelte, kezdete és tervezett vége.
 
 2.3. Szakkollégiumok:
 
 a) szakkollégium hivatalos neve, működési helye, típusa;
 
-b) nem felsőoktatási intézmény keretében működő szakkollégium esetében a felsőoktatási intézményekkel kötött megállapodásokról az érintett felsőoktatási intézmény azonosítója, az együttműködés kezdete és vége, az együttműködési megállapodás kelte.
+b)[^110] nem felsőoktatási intézmény keretében működő szakkollégium esetében a felsőoktatási intézményekkel kötött megállapodásokról az érintett felsőoktatási intézmény hivatalos neve, a megállapodás célja, kelte, kezdete és tervezett vége.
 
 2.4. Magyarországon engedéllyel működő külföldi felsőoktatási intézmények:
 
@@ -164,13 +170,13 @@ i) munkarendje;
 
 j) képzési ideje (tanulmányi félévekben);
 
-k) elvégzését követően megszerezhető végzettségi szint, szintjének ISCED, továbbá az európai és a magyar képesítési keretrendszer szerinti besorolása;
+k)[^111]
 
 l) elvégzését követően megszerezhető szakképzettség, szakképesítés (amennyiben van);
 
 m) vonatkozásában az egyenértékűnek tekintett magyarországi végzettségi szint és szakképzettség (amennyiben van);
 
-n) vonatkozásában az egyenértékűnek tekintett magyarországi képzési terület, képzési ág, szakmacsoport, doktori képzés esetén tudományterület, tudományág, művészeti ág (amennyiben van)
+n)[^112] vonatkozásában az egyenértékűnek tekintett magyarországi képzési terület, szakmacsoport, doktori képzés esetén tudományterület, tudományág, művészeti ág (amennyiben van)
 
 képzésenként.
 
@@ -178,11 +184,11 @@ képzésenként.
 
 2.5.1. A képzés
 
-a) megnevezése és szakmai összetevőinek megnevezése (szak, doktori iskola, szakirány, specializáció);
+a)[^113] megnevezése és szakmai összetevőinek megnevezése (szak, doktori iskola, szakirány, specializáció, műveltségterület);
 
-b) szintje és annak ISCED szerinti besorolása, esetleges típusa, a képzési keretrendszerek szerinti besorolása;
+b)[^114] végzettségi szintje és annak ISCED szerinti besorolása, esetleges típusa, az európai és a magyar képesítési keretrendszer szerinti besorolása;
 
-c) besorolása képzési terület, képzési ág vagy tudományterület, tudományág, művészeti ág vagy szakmacsoport szerint;
+c)[^115] besorolása képzési terület vagy tudományterület, tudományág, művészeti ág vagy szakmacsoport szerint;
 
 d) képzési ideje félévekben;
 
@@ -197,3 +203,33 @@ g) előfeltételi adatai (képzés, végzettségi szint, szakképzettség vagy s
 2.5.3. A képzés azonosítója.
 
 2.5.4. A képzés létrejöttével, megszüntetésével kapcsolatos határozatok, jogszabályok adatai.
+
+3.[^116] Közösségi felsőoktatási képzési központok:
+
+a) a közösségi felsőoktatási képzési központot létesítő szervezet hivatalos neve (magyarul és idegen nyelven), rövidített neve, internetcíme;
+
+b) a működési engedélyben engedélyezett, a közösségi felsőoktatási képzési központban az együttműködő felsőoktatási intézmény által folytatható képzések neve, képzési területe, képzési szintje;
+
+c) a működési engedélyben engedélyezett maximális hallgatói létszám;
+
+d) a használt ingatlanvagyon (az ingatlan címe, a rendelkezés módja).
+
+[^98]: A 6. melléklet 2.1.1. pont d) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése szerint módosított szöveg.
+[^99]: A 6. melléklet 2.1.1. pont e) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése szerint módosított szöveg.
+[^100]: A 6. melléklet 2.1.2. pont b) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése szerint módosított szöveg.
+[^101]: A 6. melléklet 2.1.2. pont e) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdésével megállapított szöveg.
+[^102]: A 6. melléklet 2.1.2. pont f) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdésével megállapított szöveg.
+[^103]: A 6. melléklet 2.1.2. pont g) alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése iktatta be.
+[^104]: A 6. melléklet 2.1.2. pont h) alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése iktatta be.
+[^105]: A 6. melléklet 2.1.2. pont i) alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése iktatta be.
+[^106]: A 6. melléklet 2.1.2. pont j) alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése iktatta be.
+[^107]: A 6. melléklet 2.1.3. pont c)–d) alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése hatályon kívül helyezte.
+[^108]: A 6. melléklet 2.1.3. pont o) alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése hatályon kívül helyezte.
+[^109]: A 6. melléklet 2.2. pont f) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdésével megállapított szöveg.
+[^110]: A 6. melléklet 2.3. pont b) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdésével megállapított szöveg.
+[^111]: A 6. melléklet 2.4.2. pont k) alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése hatályon kívül helyezte.
+[^112]: A 6. melléklet 2.4.2. pont n) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése szerint módosított szöveg.
+[^113]: A 6. melléklet 2.5.1. pont a) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése szerint módosított szöveg.
+[^114]: A 6. melléklet 2.5.1. pont b) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése szerint módosított szöveg.
+[^115]: A 6. melléklet 2.5.1. pont c) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése szerint módosított szöveg.
+[^116]: A 6. melléklet 3. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (4) bekezdése iktatta be.

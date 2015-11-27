@@ -224,7 +224,7 @@ Keltezés, bélyegző, aláírás, záradékok”
 
 5. Oklevél
 
-5.1. Felsőoktatási szakképzésben szerezhető oklevél
+5.1.[^117] Felsőoktatási szakképzésben szerezhető oklevél
 
 „Oklevél sorszáma:
 
@@ -236,13 +236,13 @@ EKKR szintje:
 
 OKLEVÉL
 
-Ezen oklevél tanúsítja, hogy ... (név) született ... (születési hely és idő) a(z) ... (intézmény) ... felsőoktatási szakképzési szakán a tanulmányi kötelezettségeinek eleget tett és ... szakképzettséget szerzett. A képzés ideje
+Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, születési hely és idő) a(z) ... (intézmény) ... felsőoktatási szakképzési szakán tanulmányi kötelezettségeinek eleget tett és ... szakképzettséget szerzett. A képzés ideje
 
 ... félév.
 
 keltezés, bélyegző, aláírás, záradék”
 
-5.2. Felsőoktatási szakképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
+5.2.[^118] Felsőoktatási szakképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
 
 „Oklevél sorszáma:
 
@@ -254,11 +254,11 @@ EKKR szintje:
 
 OKLEVÉL
 
-Ezen oklevél tanúsítja, hogy ... (név) született ... (születési hely és idő) a(z) ... és a(z) ... (intézmények) közös képzésének keretében ... felsőoktatási szakképzési szakán a tanulmányi kötelezettségeinek eleget tett és ... szakképzettséget szerzett. A képzés ideje ... félév. A hallgatói jogviszonnyal kapcsolatos adminisztrációt a(z) ... nevű felsőoktatási intézmény végezte.
+Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, születési hely és idő) a(z) ... és a(z) ... (intézmények) közös képzésének keretében ... felsőoktatási szakképzési szakon tanulmányi kötelezettségeinek eleget tett és ... szakképzettséget szerzett. A képzés ideje ... félév. A hallgatói jogviszonnyal kapcsolatos adminisztrációt a(z) ... (intézmény) végezte.
 
 keltezés, bélyegzők, aláírások, záradék”
 
-5.3. Alapképzésben, osztatlan képzésben, mesterképzésben szerezhető oklevél
+5.3.[^119] Alapképzésben, osztatlan képzésben, mesterképzésben szerezhető oklevél
 
 „Oklevél sorszáma:
 
@@ -270,7 +270,7 @@ EKKR szintje:
 
 OKLEVÉL
 
-Ezen oklevél tanúsítja, hogy ..................... (név) született .............. (születési hely és idő) a(z) .............. (intézmény) ... alapképzési/osztatlan képzési/mesterképzési szakán/szakirányán a tanulmányi kötelezettségeinek eleget tett, alapfokozatot/mesterfokozatot és ........................... szakképzettséget szerzett. A képzés ideje ... félév.
+Ezen oklevél tanúsítja, hogy ..................... (név) született .............. (születési név, születési hely és idő) a(z) .............. (intézmény) ... alapképzési/osztatlan képzési/mesterképzési szakán/szak...szakirányán tanulmányi kötelezettségeinek eleget tett, alapfokozatot/mesterfokozatot és ........................... szakképzettséget szerzett. A képzés ideje ... félév.
 
 Orvos, fogorvos, gyógyszerész, állatorvos, jogász szakon kiadott oklevél esetén:
 
@@ -286,7 +286,7 @@ Az oklevél „Legum Magister” vagy „Master of Laws” címet (rövidítve: 
 
 keltezés, bélyegző, aláírás, záradék”
 
-5.4. Alapképzésben, osztatlan képzésben, mesterképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
+5.4.[^120] Alapképzésben, osztatlan képzésben, mesterképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
 
 „Oklevél sorszáma:
 
@@ -298,9 +298,9 @@ EKKR szintje:
 
 OKLEVÉL
 
-Ezen oklevél tanúsítja, hogy ... (név) született ... (születési hely és idő) a(z) ... és a(z) ... (intézmények) közös képzésének keretében ... alapképzési/osztatlan képzési/mesterképzési szakán/szakirányán a tanulmányi kötelezettségeinek eleget tett, alapfokozatot/mesterfokozatot és ... szakképzettséget szerzett. A képzés ideje
+Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, születési hely és idő) a(z) ... és a(z) ... (intézmények) közös képzésének keretében ... alapképzési/osztatlan képzési/mesterképzési szakon/szak...szakirányán tanulmányi kötelezettségeinek eleget tett, alapfokozatot/mesterfokozatot és ... szakképzettséget szerzett. A képzés ideje
 
-... félév. A hallgatói jogviszonnyal kapcsolatos adminisztrációt a(z) ... nevű felsőoktatási intézmény végezte.
+... félév. A hallgatói jogviszonnyal kapcsolatos adminisztrációt a(z) ... (intézmény) végezte.
 
 Orvos, fogorvos, gyógyszerész, állatorvos, jogász szakon kiadott oklevél esetén:
 
@@ -316,7 +316,7 @@ Az oklevél „Legum Magister” vagy „Master of Laws” címet (rövidítve: 
 
 keltezés, bélyegzők, aláírások, záradék”
 
-5.5. Alapképzésben, osztatlan képzésben, mesterképzésben többes oklevéllel megvalósuló közös képzést követően szerezhető, a magyar felsőoktatási intézmény által kiállított oklevél
+5.5.[^121] Alapképzésben, osztatlan képzésben, mesterképzésben többes oklevéllel megvalósuló magyar-külföldi közös képzést követően szerezhető, a magyar felsőoktatási intézmény által kiállított oklevél
 
 „Oklevél sorszáma:
 
@@ -328,9 +328,9 @@ EKKR szintje:
 
 OKLEVÉL
 
-Ezen oklevél tanúsítja, hogy ... (név) született ... (születési hely és idő) a(z) ... és a(z) ... (intézmények) közös képzésének keretében ... alapképzési/osztatlan képzési/mesterképzési szakán/szakirányán a tanulmányi kötelezettségeinek eleget tett, alapfokozatot/mesterfokozatot és ... szakképzettséget szerzett. A képzés ideje
+Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, születési hely és idő) a(z) ... és a(z) ... (intézmények) közös képzésének keretében ... alapképzési/osztatlan képzési/mesterképzési szakon/szak...szakirányán tanulmányi kötelezettségeinek eleget tett, alapfokozatot/mesterfokozatot és ... szakképzettséget szerzett. A képzés ideje
 
-... félév. A hallgatói jogviszonnyal kapcsolatos adminisztrációt a(z) ... nevű felsőoktatási intézmény végezte.
+... félév. A hallgatói jogviszonnyal kapcsolatos adminisztrációt a(z) ... (intézmény) végezte.
 
 Orvos, fogorvos, gyógyszerész, állatorvos, jogász szakon kiadott oklevél esetén:
 
@@ -346,7 +346,7 @@ Az oklevél „Legum Magister” vagy „Master of Laws” címet (rövidítve: 
 
 keltezés, bélyegzők, aláírás, záradék”
 
-5.6. Szakirányú továbbképzésben szerezhető oklevél
+5.6.[^122] Szakirányú továbbképzésben szerezhető oklevél
 
 „Oklevél sorszáma:
 
@@ -358,11 +358,11 @@ EKKR szintje:
 
 OKLEVÉL
 
-Ezen oklevél tanúsítja, hogy ... (név) született ... (születési hely és idő) a(z) ... (intézményben) ... (kibocsátás dátum) ... számon kiállított oklevéllel igazolt ... végzettségi szintjére/fokozatára és ... szakképzettségére épülően a(z) ... (intézmény) ... szakirányú továbbképzési szakán a tanulmányi kötelezettségeinek eleget tett és ... szakképzettséget szerzett. A képzés ideje ... félév.
+Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, születési hely és idő) a(z)...(intézmény) által...(kibocsátás dátum) dátummal ... számon kiállított oklevéllel igazolt ... végzettségi szintjére/fokozatára és ... szakképzettségére épülően a(z) ... (intézmény) ... szakirányú továbbképzési szakán a tanulmányi kötelezettségeinek eleget tett és ... szakképzettséget szerzett. A képzés ideje ... félév.
 
 keltezés, bélyegző, aláírás, záradék”
 
-5.7. Szakirányú továbbképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
+5.7.[^123] Szakirányú továbbképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
 
 „Oklevél sorszáma:
 
@@ -374,17 +374,45 @@ EKKR szintje:
 
 OKLEVÉL
 
-Ezen oklevél tanúsítja, hogy ... (név) született ... (születési hely és idő) a(z) ... (intézmény) ... (kibocsátás dátum)
-
-... számon kiállított oklevéllel igazolt ... végzettségi szintjére/fokozatára és ... szakképzettségére épülően a(z) ... és a(z) .... (intézmény) közös képzésének keretében ... szakirányú továbbképzési szakán a tanulmányi kötelezettségeinek eleget tett és ... szakképzettséget szerzett. A képzés ideje ... félév. A hallgatói jogviszonnyal kapcsolatos adminisztrációt a(z) ... nevű felsőoktatási intézmény végezte.
+Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, születési hely és idő) a(z)...(intézmény) által...(kibocsátás dátum) dátummal... számon kiállított oklevéllel igazolt ... végzettségi szintjére/fokozatára és ... szakképzettségére épülően a(z) ... és a(z) .... (intézmény) közös képzésének keretében ... szakirányú továbbképzési szakon tanulmányi kötelezettségeinek eleget tett és ... szakképzettséget szerzett. A képzés ideje ... félév. A hallgatói jogviszonnyal kapcsolatos adminisztrációt a(z) ... (intézmény) végezte.
 
 keltezés, bélyegző, aláírások, záradék”
 
+5.8.[^124] A felsőoktatásról szóló 1993. évi LXXX. törvény szerinti főiskolai, egyetemi szintű alapképzésben szerezhető oklevél
+
+„Oklevél sorszáma:
+
+Intézményi azonosító szám:
+
+OKLEVÉL
+
+Ezt az oklevelet ... számára állítottuk ki, aki ... évben ... hó ... napján ... városban (községben) ... megyében ... országban ... néven született, és ... tanévtől ... tanévig a ... főiskolai/egyetemi tanulmányi kötelezettségeinek eleget tett.
+
+A záróvizsga-bizottságnak ... év ... hó ... -i határozata alapján nevezettet .../nevezettet... nyilvánítjuk.
+
+Oklevelének minősítése: ...
+
+keltezés, bélyegző, aláírás, záradék
+
+5.9.[^125] A felsőoktatásról szóló 1993. évi LXXX. törvény szerinti szakirányú továbbképzésben szerezhető oklevél
+
+„Oklevél sorszáma:
+
+Intézményi azonosító szám:
+
+OKLEVÉL
+
+Ezt a szakirányú továbbképzésben szerzett oklevelet ... számára állítottuk ki, aki ... évben ... hó ... napján ... városban (községben) ... megyében ... országban ... néven született, és ... (felsőoktatási intézményben) szerzett ... év ... hó ... napján kelt, ... számon kiállított oklevéllel igazolt .. szintű végzettsége, ... szakképzettsége alapján ... tanévtől ... tanévig ... (felsőoktatási intézmény) szakirányú továbbképzésén tanulmányokat folytatott.
+
+A záróvizsga-bizottság előtt ... év ... hó ... napján tett záróvizsga alapján (vagy vizsgának megfelelően) (pedagógus szakvizsga) ... szakirányú szakképzettséget szerzett.
+
+keltezés, bélyegző, aláírás, záradék”
+
 6. Az oklevelekben használható záradékok
 
-6.1. Jogelőd/nevet változtatott/átalakult felsőoktatási intézmény megjelenítésére:
+6.1.[^126] Jogelőd/nevet változtatott felsőoktatási intézmény(ek) megjelenítésére:
 
-„Az oklevél tulajdonosa tanulmányait a kiállító intézmény jogelődjében, a ... nevű felsőoktatási intézményben kezdte meg. A jogutódlásra/névváltozásra/átalakulásra/ ... év ... hó ... napján került sor.”
+„Az oklevél tulajdonosa tanulmányait a kiállító intézmény jogelőd/nevet változtatott felsőoktatási intézményében/intézményeiben, a(z) ...... nevű felsőoktatási intézményben/intézményekben folytatta. A jogutódlásra/névváltozásra........... került sor.”
 
 6.2. Képzéshez tartozó specializáció elvégzésekor:
 
@@ -431,6 +459,14 @@ keltezés, bélyegző, aláírás”
 „Ezt az oklevelet a(z) ... számú törzslap alapján, a .... év .... hó ... napján ... oklevél sorszámon és ..... formanyomtatvány számon kiállított oklevél egyidejű visszavonásával állítottam ki.
 
 keltezés, bélyegző, aláírás”
+
+6.12.[^127] Jogutód/nevet változtatott felsőoktatási intézmény általi másodlat vagy születési anyakönyvi névváltozás kiadásakor:
+
+„Ezt az oklevelet a(z) ... számú törzslap alapján, a(z) ... oklevél sorszámon és ... formanyomtatvány számon a(z) ... nevű jogelőd/nevet változtatott felsőoktatási intézmény által kiállított oklevél másodlataként állítottam ki.
+
+6.13.[^128] Jogelőd/nevet változtatott felsőoktatási intézmény által kiállított oklevél jogutód/nevet változatott/átalakult felsőoktatási intézmény általi javításakor:
+
+„Ezt az oklevelet a(z) ... számú törzslap alapján, a .... év .... hó ... napján, ... oklevél sorszámon és ..... formanyomtatvány számon a(z) ... nevű jogelőd/nevet változtatott felsőoktatási intézmény által kiállított oklevél egyidejű visszavonásával állítottam ki.”
 
 7. Oklevélmelléklet
 
@@ -575,3 +611,16 @@ keltezés, bélyegző, aláírás, záradék”
 10. A beiratkozási lapon szereplő nyilatkozat
 
 „Vállalom a magyar állami (rész)ösztöndíjjal támogatott képzésnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben rögzített feltételeit, és kijelentem, hogy a feltételeket megismertem.”
+
+[^117]: A 9. melléklet 5. pont 5.1. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17–18. pontja szerint módosított szöveg.
+[^118]: A 9. melléklet 5. pont 5.2. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17. és 19–20. pontja szerint módosított szöveg.
+[^119]: A 9. melléklet 5. pont 5.3. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17. és 21. pontja szerint módosított szöveg.
+[^120]: A 9. melléklet 5. pont 5.4. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17., 19 és 22. pontja szerint módosított szöveg.
+[^121]: A 9. melléklet 5. pont 5.5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17., 19 és 22–23. pontja szerint módosított szöveg.
+[^122]: A 9. melléklet 5. pont 5.6. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17. és 24. pontja szerint módosított szöveg.
+[^123]: A 9. melléklet 5. pont 5.7. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17., 19–20. és 25. pontja szerint módosított szöveg.
+[^124]: A 9. melléklet 5. pont 5.8. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
+[^125]: A 9. melléklet 5. pont 5.9. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
+[^126]: A 9. melléklet 6. pont 6.1. alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdésével megállapított szöveg.
+[^127]: A 9. melléklet 6. pont 6.12. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
+[^128]: A 9. melléklet 6. pont 6.13. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
