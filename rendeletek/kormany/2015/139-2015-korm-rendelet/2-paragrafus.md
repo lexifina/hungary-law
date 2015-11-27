@@ -12,6 +12,6 @@
 
 (5) A 4. melléklet tartalmazza a magyar és külföldi felsőoktatási intézmények közös képzéseinek jegyzékét.
 
-(6)[^2] Az 1. § (3) bekezdése szerinti képzések jegyzékét a 363/2011. (XII. 30.) Korm. rendelet 6/A. § (4) bekezdésének megfelelően a közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás alap- és mesterképzési szakjainak meghatározásáról, e szakok képzési és kimeneti követelményeiről, valamint az alapképzés képzési ágairól szóló 1/2015. (I. 14.) MvM rendelet tartalmazza.
+(6)[^3] Az 1. § (3) bekezdése szerinti képzések jegyzékét a 363/2011. (XII. 30.) Korm. rendelet 6/A. § (4) bekezdésének megfelelően a közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás alap- és mesterképzési szakjainak meghatározásáról, e szakok képzési és kimeneti követelményeiről, valamint az alapképzés képzési ágairól szóló 1/2015. (I. 14.) MvM rendelet tartalmazza.
 
-[^2]: A 2. § (6) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 16. §-a iktatta be.
+[^3]: A 2. § (6) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 16. §-a iktatta be.
