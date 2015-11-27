@@ -14,7 +14,7 @@ b) az Nftv. 48/A. § d) pontja szerinti visszatérítési kötelezettséget meg�
 
 (2) Az Nftv. 48/A. § b) és d) pontja szerinti kötelezettség teljesítését – az Nftv. 48/B. § (7) bekezdésében meghatározottakon felül – képzésenként kell számítani azzal, hogy a hallgató számára kedvezőbb számítási módot kell alkalmazni a teljesítés során.
 
-(3)[^6] A magyar állami ösztöndíj feltételei teljesítése szempontjából a képzési időt tanulmányi félévben (5 hónapban) kell számolni.
+(3)[^6]
 
 (4)[^7] Az Nftv. 48/B. § (8) bekezdése szerinti esetben a kötelezettségek teljesítése szempontjából figyelembe kell venni a szakváltást megelőző magyar állami (rész)ösztöndíjjal folytatott tanulmányokat.
 
@@ -25,6 +25,6 @@ b) az Nftv. 48/A. § d) pontja szerinti visszatérítési kötelezettséget meg�
 [^3]: Az 1. § (1) bekezdés a) pontja a 74/2014. (III. 13.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés a) pont aa) alpontja a 87/2015. (IV. 9.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés a) pont ab) alpontja a 87/2015. (IV. 9.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (3) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (3) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 29. § 1. pontja hatályon kívül helyezte.
 [^7]: Az 1. § (4) bekezdése a 74/2014. (III. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (5) bekezdését a 325/2013. (VIII. 29.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, újonnan a 87/2015. (IV. 9.) Korm. rendelet 75. § (2) bekezdése iktatta be.
