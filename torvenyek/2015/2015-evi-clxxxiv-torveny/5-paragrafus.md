@@ -1,0 +1,3 @@
+5. § A Hhvtv. 74. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Azon nyilvántartott halgazdálkodási vízterület esetében, melyen a haszonbérleti szerződés 2015. december 31-ig megszűnik és az államot megillető halgazdálkodási jog kijelöléssel történő haszonbérbe adása, vagy vagyonkezelési szerződés útján történő átengedése nem valósul meg, – amennyiben a haszonbérlő legkésőbb 2015. december 31-ig nem kezdeményezi a haszonbérleti szerződés megszüntetését, illetve a halgazdálkodási jog gyakorlásáról nem mond le – a haszonbérleti szerződés időtartamának meghosszabbított hatálya 2016. december 31. A meghosszabbítás időtartamára vonatkozóan a haszonbérlő halgazdálkodási terv készítésére kötelezett.”
