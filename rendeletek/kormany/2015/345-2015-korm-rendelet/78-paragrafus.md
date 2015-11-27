@@ -1,0 +1,1 @@
+## „(5) Ha a beiratkozási lap adatai alapján nincs akadálya a jogviszony létesítésének, a felsőoktatási intézmény szabályzatában meghatározott időben – amely nem lehet hosszabb öt munkanapnál – hitelesíti a beiratkozási lapot. A beiratkozás a beiratkozási lap hitelesítésével valósul meg.”

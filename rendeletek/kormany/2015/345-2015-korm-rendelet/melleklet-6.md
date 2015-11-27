@@ -1,0 +1,63 @@
+## „4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez
+
+## Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámítás szempontjából
+
+|  | A | B |
+
+| 1. | Az Országos Képzési Jegyzék szerinti 54-es vagy 55-ös szakmaszámú szakképesítések, szakmacsoportok | Szakiránynak megfelelő továbbtanulásnak minősülő képzési területek, alapképzési szakok |
+
+| 2. | egészségügy | orvos- és egészségtudomány |
+
+| 3. | szociális szolgáltatások | pedagógusképzés társadalomtudomány |
+
+| 4. | oktatás (oktatás, pedagógia), kivéve: fitness-wellness instruktor; sportedző; személyi edző | bölcsészettudomány pedagógusképzés |
+
+| 5. | művészet, közművelődés, kommunikáció | bölcsészettudomány művészet művészetközvetítés társadalomtudomány |
+
+| 6. | gépészet | műszaki |
+
+| 7. | elektrotechnika-elektronika | műszaki informatika |
+
+| 8. | informatika | informatika; műszaki szakoktató alapképzési szak informatika szakirány |
+
+| 9. | vegyipar | műszaki természettudomány |
+
+| 10. | építészet | műszaki |
+
+| 11. | könnyűipar | műszaki |
+
+| 12. | faipar | agrár műszaki |
+
+| 13. | nyomdaipar | műszaki |
+
+| 14. | közlekedés | műszaki |
+
+| 15. | környezetvédelem-vízgazdálkodás | agrár gazdaságtudományok műszaki |
+
+| 16. | közgazdaság | gazdaságtudományok |
+
+| 17. | ügyvitel (kivéve a rendészeti asszisztens) | bölcsészettudomány gazdaságtudományok jogi társadalomtudomány |
+
+| 18. | kereskedelem-marketing, üzleti adminisztráció | gazdaságtudományok |
+
+| 19. | vendéglátás-idegenforgalom; vendéglátás-turisztika | gazdaságtudományok |
+
+| 20. | egyéb szolgáltatások (a 23. sorban meghatározottak kivételével) | gazdaságtudományok műszaki |
+
+| 21. | mezőgazdaság | agrár |
+
+| 22. | élelmiszeripar | agrár |
+
+| 23. | közszolgálat; egyéb szolgáltatások [az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet hatálybalépése előtti OKJ-rendeletek egyéb szolgáltatások szakmacsoportja szerinti honvéd, rendészeti és privátbiztonsági (pl. személy- és vagyonőr, biztonsági őr) szakképesítések, amelyeket az Oktatási Hivatal a felsőoktatási felvételi eljárás hivatalos honlapján közzétesz] rendészeti asszisztens; társadalombiztosítási és bérügyi szakelőadó szakképesítés | jogi közigazgatási, rendészeti és katonai |
+
+| 24. | sportkommunikátor; fitness-wellness instruktor; sportedző; személyi edző, rekreációs mozgásprogram-vezető | sporttudomány |
+
+| 25. | osztatlan tanári mesterképzési szak: a tanári szakképzettségnek megfelelő alapképzési szak képzési területe az irányadó a szakirányú továbbtanulás meghatározása szempontjából (szakképzettség-páron is csak egyszer kapható többletpont) |
+
+6. melléklet a 345/2015. (XI. 19.) Korm. rendelethez
+
+1. A 87/2015. (IV. 9.) Korm. rendelet 1. melléklete a következő 6. ponttal egészül ki:
+
+## „6. Külföldi székhelyen kívüli képzési helyen folytatni kívánt képzés esetén kizárólag az 1. pont a) alpontja, a 2. pont ab) alpontja, továbbá a 2. pont b) alpontja alkalmazandó azzal, hogy az oktatás céljára szolgáló – az intézmény tulajdonában vagy legalább 8 éves időtartamra a használatában lévő – ingatlant, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.”
+
+2. A 87/2015. (IV. 9.) Korm. rendelet 1. melléklete a következő 7. ponttal egészül ki:
