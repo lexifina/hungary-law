@@ -3,11 +3,3 @@
 (2) Az 1–6. § és a 8–24. § az e törvény kihirdetését követő 8. napon lép hatályba.
 
 (3) A 7. § és a 26–29. § 2016. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
