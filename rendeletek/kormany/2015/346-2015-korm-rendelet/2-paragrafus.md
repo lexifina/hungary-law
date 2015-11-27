@@ -1,3 +1,0 @@
-## 1. § A biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló 43/2015. (III. 12.) Korm. rendelet (a továbbiakban: 43/2015. Korm. rendelet) 92. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 231/H. § (1) bekezdés a)–d) pontja és 231/K. §-a szerinti engedélyezési eljárásokat a Felügyelet 2016. január 1-je előtt az e rendelet 18. § (3) és (4) bekezdésében, 22. § (2) bekezdésében, 30. §-ában, 41–44. §-ában, 46. § (2) bekezdésében, 52. § (1) és (2) bekezdésében, 55–57. §-ában, továbbá 92/A–92/E. §-ában meghatározott szabályok alapján folytatja le.”

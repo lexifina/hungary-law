@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-346-20-
 | 2015-11-20 | 2015-346-20-22.1 | 346/2015. (XI. 19.) Korm. rendelet |
 | 2015-11-21 | 2015-346-20-22.2 | 2010: CXXX. törvény |
 | 2015-11-26 | 2015-346-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-11-27 | 2015-346-20-22.4 | 136/2016. (VI. 13.) Korm. rendelet |
