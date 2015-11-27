@@ -6,10 +6,11 @@
 
 a) a felek nevét, illetve megnevezését és az ösztöndíjas szerződés megkötése szempontjából lényeges adatait,
 
-b) az ösztöndíj havi összegét és annak kifizetése időpontját, módját, a változtatás feltételeit,
+b)[^4] az ösztöndíj összegét és annak kifizetése időpontját, módját, a változtatás feltételeit,
 
 c) az oklevél megszerzését követően az ösztöndíjas által teljesítendő munkavégzés lényeges feltételeit,
 
 d) az adatkezelésre vonatkozó hozzájárulást.
 
 [^3]: A 8. § a 220/2014. (VIII. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^4]: A 9. § (2) bekezdés b) pontját a 345/2015. (XI. 19.) Korm. rendelet 53. §-a szerint módosított szöveg.
