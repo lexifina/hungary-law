@@ -1,1 +1,0 @@
-## kötelezettség terheli.
