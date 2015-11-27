@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti rendeletekkel meghatározott osztott képzésben – a (5) bekezdésben foglaltak kivételével – tanári mesterszakon 2016 szeptemberében indulhat utoljára új évfolyam.
 
-(3)[^11] A felsőoktatási intézmény akkor jogosult – a felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelettel megállapított – 1. melléklet szerinti tanárszakok indítása nyilvántartásba vételének kezdeményezésére, ha az adott közismereti tanárszakok, szakirányok indítását osztatlan képzésben – függetlenül annak általános iskolai vagy középiskolai irányultságára –, az adott szakmai tanárszakok, szakirányok indítását osztott képzésben az Oktatási Hivatal 2015. szeptember 1-jét megelőzően már nyilvántartásba vette.
+(3)[^11] A felsőoktatási intézmény akkor jogosult – a felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelettel megállapított – 1. melléklet szerinti tanárszakok indítása nyilvántartásba vételének kezdeményezésére, ha az adott közismereti tanárszakok, szakirányok indítását osztatlan képzésben, az adott szakmai tanárszakok, szakirányok indítását osztott képzésben az Oktatási Hivatal 2015. szeptember 1-jét megelőzően már nyilvántartásba vette.
 
 (4)[^12] A (3) bekezdés szerinti e rendeletben meghatározott osztott képzésben – a felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelettel megállapított – 1. mellékletben felsorolt tanárszaknak megfelelő tanári mesterszakon 2017 szeptemberében indulhat először új évfolyam.
 
@@ -11,7 +11,7 @@
 (6)[^14] Az 5. § (5) bekezdése szerinti képzésben az idegen nyelv műveltségi területhez tartozó tanárszakokra történő felvétel feltétele felsőfokú (C1) komplex típusú államilag elismert vagy azzal egyenértékű nyelvvizsga, a portugál nyelv és kultúra tanára és az ukrán és nemzetiségi ukrán nyelv és kultúra tanára tanárszakra történő felvétel feltétele felsőfokú (C1) komplex típusú nyelvismeret, a romológiatanár (romani nyelv és kultúra vagy beás nyelv és kultúra tanára) tanárszakra történő felvétel feltétele romani vagy beás nyelvből legalább középfokú (B2) komplex típusú államilag elismert vagy azzal egyenértékű nyelvvizsga.
 
 [^10]: A 12. § (1) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^11]: A 12. § (3) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^11]: A 12. § (3) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 12. § (5) bekezdésével megállapított, a 345/2015. (XI. 19.) Korm. rendelet 30. §-a szerint módosított szöveg.
 [^12]: A 12. § (4) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
 [^13]: A 12. § (5) bekezdése a 423/2012. (XII. 29.) Korm. rendelet 47. § (1) bekezdése szerint módosított szöveg.
 [^14]: A 12. § (6) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 12. § (7) bekezdése iktatta be.
