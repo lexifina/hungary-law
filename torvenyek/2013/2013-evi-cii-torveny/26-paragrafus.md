@@ -1,4 +1,4 @@
-26. § (1) A halgazdálkodási jog haszonbérbe adása – a (2) bekezdésben szereplő kivétellel – nyilvános pályázat útján történik.
+26. § (1) A halgazdálkodási jog haszonbérbe adása – a 24. § (1) bekezdés b) pont ba) alpontjában, valamint a (2) bekezdésben szereplő kivétellel – nyilvános pályázat útján történik.
 
 (2) A halgazdálkodási vízterület fekvése szerinti ingatlan 1/1 tulajdoni hányadú tulajdonosa igényelheti a halgazdálkodási jog haszonbérleti jogát (a továbbiakban: földtulajdonosi haszonbérlet). Földtulajdonosi haszonbérleti szerződés csak akkor köthető, ha a halgazdálkodási jog nincs harmadik személynek haszonbérbe vagy vagyonkezelésbe adva. Ha a halgazdálkodási jog harmadik személy haszonbérletében vagy vagyonkezelésében áll, a földtulajdonosi haszonbérleti szerződés csak ennek megszűnését követően léphet hatályba. A földtulajdonosi haszonbérletben álló halgazdálkodási jog alhaszonbérbe adható.
 

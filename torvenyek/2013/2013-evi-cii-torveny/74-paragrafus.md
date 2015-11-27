@@ -16,4 +16,4 @@
 
 (8) Kereskedelmi célú halászati engedély a 2016-os naptári évre, valamint az azt követő naptári évekre nem adható ki.
 
-(9) A miniszter az állam nevében eljárva jogosult az új haszonbérleti vagy vagyonkezelési szerződés hatályba lépéséig, de legfeljebb egy évig terjedő időre meghosszabbítani az állammal nyilvántartott halgazdálkodási vízterületre létrejött haszonbérleti szerződés hatályát.
+(9) Azon nyilvántartott halgazdálkodási vízterület esetében, melyen a haszonbérleti szerződés 2015. december 31-ig megszűnik és az államot megillető halgazdálkodási jog kijelöléssel történő haszonbérbe adása, vagy vagyonkezelési szerződés útján történő átengedése nem valósul meg, – amennyiben a haszonbérlő legkésőbb 2015. december 31-ig nem kezdeményezi a haszonbérleti szerződés megszüntetését, illetve a halgazdálkodási jog gyakorlásáról nem mond le – a haszonbérleti szerződés időtartamának meghosszabbított hatálya 2016. december 31. A meghosszabbítás időtartamára vonatkozóan a haszonbérlő halgazdálkodási terv készítésére kötelezett.

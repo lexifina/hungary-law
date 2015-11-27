@@ -70,7 +70,9 @@
 
 35. az országhatárral metszett halgazdálkodási vízterületre a horgászat és a halászat rendjét; és
 
-36. a Balaton vízgyűjtőjén lévő és a Balatonnal lefolyási viszonyban álló haltermelési létesítményeket, valamint ezeken a haltermelési létesítményeken az idegenhonos halfajok telepítésére és felhasználására vonatkozó különös szabályokat.
+36. a Balaton vízgyűjtőjén lévő és a Balatonnal lefolyási viszonyban álló haltermelési létesítményeket, valamint ezeken a haltermelési létesítményeken az idegenhonos halfajok telepítésére és felhasználására vonatkozó különös szabályokat;
+
+37. az államot megillető halgazdálkodási jog kijelöléssel történő átengedésének, valamint alhaszonbérbe adásának részletes feltételeit.
 
 (2) Felhatalmazást kap a miniszter arra, hogy
 

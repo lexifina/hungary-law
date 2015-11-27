@@ -12,7 +12,9 @@ b) a halgazdálkodási jog vagyonkezelésbe adása esetén a vagyonkezelő,
 
 c) a halgazdálkodási jog haszonbérbe vagy vagyonkezelésbe adására irányuló érvényes szerződés hiányában az állam,
 
-d) a földtulajdonosi haszonbérletben álló halgazdálkodási jog alhaszonbérbe adásának esetében az alhaszonbérlő.
+d) a földtulajdonosi haszonbérletben álló halgazdálkodási jog alhaszonbérbe adásának esetében az alhaszonbérlő,
+
+e) a kijelölés útján történő haszonbérletben álló halgazdálkodási jog alhaszonbérbe adásának esetében az alhaszonbérlő.
 
 (4) A halgazdálkodási jog gyakorlója köteles
 
