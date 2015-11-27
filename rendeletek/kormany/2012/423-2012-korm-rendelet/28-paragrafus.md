@@ -4,7 +4,7 @@
 
 a) a keresztféléves felvételi eljárásban a besorolási döntés időpontját követő nyolc napon belül;
 
-b)[^70] az általános felvételi eljárásban augusztus 8-áig,
+b)[^85] az általános felvételi eljárásban augusztus 8-áig,
 
 c) a pótfelvételi eljárásban augusztus 31-éig
 
@@ -34,4 +34,4 @@ b) a nem magyar állampolgárságú jelentkezők számára az előkészítő év
 
 (4) Amennyiben a jelentkező rendelkezik elektronikus levelezési címmel, a határozat elektronikus levélben is kiküldhető.
 
-[^70]: A 28. § (1) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.
+[^85]: A 28. § (1) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.

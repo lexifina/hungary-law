@@ -1,4 +1,4 @@
-27. §[^69] (1) A Hivatal a besorolásról szóló döntését legkésőbb a 26. § (1) bekezdésében meghatározott határidőig közli a jelentkezővel a felvételi eljárás hivatalos honlapján, a személyes ügyintézési felületen keresztül.
+27. §[^84] (1) A Hivatal a besorolásról szóló döntését legkésőbb a 26. § (1) bekezdésében meghatározott határidőig közli a jelentkezővel a felvételi eljárás hivatalos honlapján, a személyes ügyintézési felületen keresztül.
 
 (2) A besorolási döntés tényéről, és a megtekintésének módjáról
 
@@ -8,4 +8,4 @@ b) elektronikus levelezési cím hiányában postai úton
 
 írásban tájékoztatja a Hivatal a jelentkezőt.
 
-[^69]: A 27. § az 502/2013. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^84]: A 27. § az 502/2013. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.

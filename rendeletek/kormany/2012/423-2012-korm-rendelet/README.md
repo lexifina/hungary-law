@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-423-20-
 | 2014-12-16 | 2012-423-20-22.12 | 502/2013. (XII. 29.) Korm. rendelet |
 | 2014-12-18 | 2012-423-20-22.13 | 335/2014. (XII. 18.) Korm. rendelet |
 | 2015-01-01 | 2012-423-20-22.14 | 335/2014. (XII. 18.) Korm. rendelet |
+| 2015-11-27 | 2012-423-20-22.15 | 345/2015. (XI. 19.) Korm. rendelet |
