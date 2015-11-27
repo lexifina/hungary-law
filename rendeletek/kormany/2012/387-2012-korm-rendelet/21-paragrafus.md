@@ -10,7 +10,7 @@ a) doktori fokozattal rendelkezik, és a tudományos fokozat megszerzése óta �
 
 b) hazai vagy külföldi felsőoktatási intézményben legalább nyolc féléven keresztül látott el oktatói feladatot;
 
-c) tudományos alkotással történő habilitáció esetén rendszeres, magas szintű szakirodalmi tevékenységet folytat, amelyet rangos nemzetközi, lektorált, a szakterületen mértékadóként elismert folyóiratokban megjelent cikkek és ugyanilyen helyeken megjelenő – az MTMT adatbázisa alapján vizsgált – hivatkozások igazolnak, emellett előadásokkal, eredményei ismertetésével rendszeresen részt vesz nemzetközi és hazai tudományos rendezvényeken;
+c)[^5] tudományos alkotással történő habilitáció esetén rendszeres, magas szintű szakirodalmi tevékenységet folytat, amelyet rangos nemzetközi, lektorált, a szakterületen mértékadóként elismert folyóiratokban megjelent cikkek és ugyanilyen helyeken megjelenő – az Adatbázis alapján vizsgált – hivatkozások igazolnak, emellett előadásokkal, eredményei ismertetésével rendszeresen részt vesz nemzetközi és hazai tudományos rendezvényeken;
 
 d) műszaki alkotásra épülő habilitáció esetén rendszeres, magas szintű alkotótevékenységet folytat, amelyet megvalósult szabadalmak, tervek, valamint lektorált folyóiratcikkek és ezekre kapott hivatkozások igazolnak; a habilitáló előadásokkal, eredményei ismertetésével rendszeresen részt vesz nemzetközi és hazai szakmai rendezvényeken; nemzetközileg is kiemelkedő gyakorlati eredményeinek pozitív hazai és nemzetközi szakmai visszhangja nyomtatott formában is megjelent;
 
@@ -19,3 +19,5 @@ e) művészeti alkotásra épülő habilitáció esetén alkotásai országosan 
 (3) A habilitációs kérelemhez mellékelni kell a doktori fokozat megszerzése óta végzett tudományos, illetve műszaki vagy művészeti alkotótevékenység eredményeinek tézisekben történő összefoglalását. A habilitációs bizottság előírhatja habilitációs értekezés benyújtását is. A válogatott munkák eredményeit egységes, önmagában érthető rendszerben kell bemutatni. Az új megállapításokat tételesen a tudományos téziseknél megszokott formában kell rögzíteni, a válogatott tudományos publikációkat, illetve alkotásokat a tézispontokhoz rendelve.
 
 (4) A habilitált doktor cím a pályázó doktori fokozatának megfelelő tudományágban nyerhető el. A kérelmező doktori fokozatának tudományágától eltérő tudományágban akkor kérhető a habilitációs eljárás megindítása, ha a kérelmezőnek a tudományos fokozat megszerzése óta kifejtett tevékenysége ezt indokolja.
+
+[^5]: A 21. § (2) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 31. § 2. pontja szerint módosított szöveg.

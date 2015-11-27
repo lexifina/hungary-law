@@ -12,6 +12,6 @@
 
 (5) A felsőoktatásról szóló 1993. évi LXXX. törvény és a felsőoktatásról szóló 2005. évi CXXXIX. törvény szabályainak megfelelően elnyert habilitált doktori cím egyenértékű jelen rendelet szabályai szerint elnyert habilitált doktori címmel.
 
-(6)[^3]
+(6)[^6]
 
-[^3]: A 26. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 26. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -4,7 +4,7 @@
 
 a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény 11. §-a, illetve a közoktatásról szóló 1993. évi LXXIX. törvény 29. §-a alapján végzett tanulmányai során a 9. évfolyamtól kezdődően az egyes évfolyamok tanulmányi követelményeiről kapott bizonyítványában, továbbá az érettségi bizonyítványában minden jegye jeles (5), szorgalmának értékelése pedig példás (5);
 
-b) az osztott képzésben alap- és mesterszakon vagy az egységes, osztatlan képzésben végzett tanulmányai során letett valamennyi kötelező vizsgája jeles (5) vagy a felsőoktatási intézmény által alkalmazott értékelési rendszerben jeles (5) eredménynek felel meg; valamint
+b)[^4] az osztott képzésben alap- és mesterszakon vagy az osztatlan képzésben végzett tanulmányai során letett valamennyi kötelező vizsgája jeles (5) vagy a felsőoktatási intézmény által alkalmazott értékelési rendszerben jeles (5) eredménynek felel meg; valamint
 
 c) a doktori tanulmányai során letett kötelező vizsgáinak eredménye jeles (5), továbbá a fokozatszerzési eljárás során doktori szigorlatának minősítése summa cum laude, a doktori védésen nyújtott teljesítményét pedig a meghatározott értékelési rendszerben a legmagasabbra értékelték.
 
@@ -13,3 +13,5 @@ c) a doktori tanulmányai során letett kötelező vizsgáinak eredménye jeles 
 (3) Főiskolai, illetve egyetemi szintű képzés után megszerzett végzettségi szint esetében az (1) bekezdés b) pontjában foglaltakat a főiskolai, illetve egyetemi szintű képzés eredményeire is érteni kell.
 
 (4) A felsőoktatási intézmény doktori szabályzatában az (1) bekezdés b)–c) pontjaiban meghatározottakhoz képest további szakmai feltételeket is megállapíthat.
+
+[^4]: A 18. § (1) bekezdés b) pontja a 345/2015. (XI. 19.) Korm. rendelet 33. §-a szerint módosított szöveg.
