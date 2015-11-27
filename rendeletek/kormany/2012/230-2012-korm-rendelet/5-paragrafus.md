@@ -10,8 +10,11 @@ c) a szakképzés modulja, szakirányok esetén a szakirányok szakképzési mod
 
 ca) a gyakorlati képzés kreditértéke 30 kredit;
 
-cb) több alapképzési szakot magában foglaló képzési ág esetén a képzési ág szerinti közös modul kreditértéke legfeljebb 15 kredit;
+cb)[^5]
 
 cc) a specializáló kreditértéke legfeljebb 15 kredit.
 
-(2) A felsőoktatási szakképzés – a képzési és kimeneti követelményeiben meghatározottak szerint – megszervezhető teljes idejű képzésben, részidős képzésben, illetve távoktatásban.
+(2)[^6]
+
+[^5]: Az 5. § (1) bekezdés c) pont cb) alpontját a 345/2015. (XI. 19.) Korm. rendelet 24. § 2. pontja hatályon kívül helyezte.
+[^6]: Az 5. § (2) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 24. § 2. pontja hatályon kívül helyezte.

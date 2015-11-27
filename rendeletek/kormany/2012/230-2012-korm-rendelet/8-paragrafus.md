@@ -1,3 +1,5 @@
+## 7. §[^8]
+
 8. § (1) A felsőoktatási szakképzés a képzési és kimeneti követelmények alapján meghatározott – a felsőoktatási intézmény képzési programjának részét képező – felsőoktatási szakképzési program alapján folyik.
 
 (2) A felsőoktatási szakképzési programnak a képzési és kimeneti követelmények szerinti alapadatai:
@@ -8,9 +10,9 @@ b) a megszerezhető szakképzettség megnevezése;
 
 c) szakirányok esetén a szakirány megnevezése;
 
-d) a képzési terület (képzési ág), határterületi képzés esetén a további képzési terület (képzési ág);
+d)[^9] a képzési terület, határterületi képzés esetén a további képzési terület;
 
-e) a besorolási szak, határterületi képzés esetén a további besorolási szak;
+e)[^10]
 
 f) összegyűjtendő kreditek száma;
 
@@ -22,11 +24,11 @@ ha) valamennyi szakképzés közös kompetencia modulja és kreditértéke,
 
 hb) a képzési terület szerinti közös modul és kreditértéke,
 
-hc) a szakképzési (a közös képzési ág, a gyakorlati képzés, a specializáció vagy a szakirányok szerinti) modul és kreditértéke,
+hc)[^11] a szakképzési (a közös képzési terület, a gyakorlati képzés, a specializáció vagy a szakirányok szerinti) modul és kreditértéke,
 
 hd) a hallgatói szakmai gyakorlat időtartama heti öt munkanap és heti negyven munkaóra figyelembevételével;
 
-i) a besorolási szak nyilvántartásba vételi adatai.
+i)[^12]
 
 (3) A felsőoktatási szakképzési program (2) bekezdésen túli tartalmi elemei:
 
@@ -69,3 +71,9 @@ j) a képzési és kimeneti követelményekben meghatározottak szerint a felső
 k) teljes idejű képzésre (részidős képzésre, távoktatásra) vonatkozó tanterv, óra- és vizsgaterv, továbbá tantárgyi program;
 
 l) a felsőoktatási intézmény minőségbiztosítási rendszerének részeként a felsőoktatási szakképzés minőségbiztosításának bemutatása.
+
+[^8]: A 7. §-t a 345/2015. (XI. 19.) Korm. rendelet 24. § 3. pontja hatályon kívül helyezte.
+[^9]: A 8. § (2) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 23. § 4. pontja szerint módosított szöveg.
+[^10]: A 8. § (2) bekezdés e) pontját a 345/2015. (XI. 19.) Korm. rendelet 24. § 5. pontja hatályon kívül helyezte.
+[^11]: A 8. § (2) bekezdés h) pont hc) alpontja a 345/2015. (XI. 19.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^12]: A 8. § (2) bekezdés i) pontját a 345/2015. (XI. 19.) Korm. rendelet 24. § 5. pontja hatályon kívül helyezte.
