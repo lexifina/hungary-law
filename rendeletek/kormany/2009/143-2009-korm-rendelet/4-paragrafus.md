@@ -39,3 +39,28 @@ a) az Evt. 108. § (3) bekezdés a) pontjában meghatározottak esetén: a káro
 b) az Evt. 108. § (3) bekezdés b) pontjában meghatározottak esetén: a károsítással érintett terület után hektáronként 1,0 EJA,
 
 c) az Evt. 108. § (3) bekezdés c) pontjában meghatározottak esetén: a károsítással érintett terület után hektáronként 0,5 EJA
+
+## erdővédelmi bírságot köteles fizetni.
+
+(4)[^1] A faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos eljárás során az erdővédelmi bírság mértéke – mérlegeléssel megállapítható mérték esetében az Evt. 108. § (7) bekezdésében foglalt szempontok figyelembevételével
+
+a) az Evt. 108. § (5) bekezdés a) és b) pontjában meghatározott esetben alkalmanként 5,0 EJA – 75,0 EJA;
+
+b) az Evt. 108. § (5) bekezdés c) pontjában meghatározott esetben alkalmanként 0,5 EJA – 25,0 EJA;
+
+c) az Evt. 108. § (4) bekezdésében foglaltak figyelembevételével a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai parlamenti és tanácsi rendelet
+
+ca) 4. cikk (1) bekezdése szerinti tilalom megszegése esetén alkalmanként 0,5 EJA – 150,0 EJA,
+
+cb) 4. cikk (3) bekezdése szerinti kötelezettség elmulasztása esetén alkalmanként 1,0 EJA – 35,0 EJA,
+
+cc) 5. cikke szerinti kötelezettség elmulasztása esetén alkalmanként 0,5 EJA – 20,0 EJA,
+
+cd) 6. cikk (1) bekezdés a) pontja és a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 2012. július 6-i 607/2012/EU bizottsági végrehajtási rendelet (a továbbiakban: 607/2012/EU bizottsági végrehajtási rendelet) 3. cikke szerinti kötelezettség elmulasztása esetén alkalmanként 0,5 EJA – 20,0 EJA,
+
+ce) 6. cikk (1) bekezdés b) és c) pontja, valamint a 607/2012/EU bizottsági végrehajtási rendelet 4. cikke szerinti kötelezettség elmulasztása, vagy nem megfelelő teljesítése esetén, alkalmanként 1,0 EJA – 15,0 EJA.
+
+(5)[^2] Ha egy eljárás keretében több, a (4) bekezdés hatálya alá tartozó erdővédelmi bírsággal sújtható tényállás állapítható meg, a bírság teljes összegét az egyes bírságtételek összegének figyelembevételével úgy kell megállapítani, hogy annak együttes összege legfeljebb 150,0 EJA lehet.
+
+[^1]: A 4. § (4) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 4. § (5) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
