@@ -1,0 +1,1 @@
+2. § Az Országgyűlés felszólítja a Kormányt, hogy a határozat megsemmisítése érdekében az Európai Unió működéséről szóló szerződés 263. cikke alapján indítson keresetet az Európai Unió Bírósága előtt.
