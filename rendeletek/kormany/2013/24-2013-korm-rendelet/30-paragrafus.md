@@ -1,4 +1,4 @@
-## 29. §[^11]
+## 29. §[^16]
 
 30. § (1) Az Nftv. 10. §-a és a jelen rendelet 2–8. §-a alapján minősített intézményeknek az Nftv. 84. § (2) bekezdés g) pontja és 84/C. §-a alapján adható többlettámogatás az alábbi jogcímeken használható fel:
 
@@ -24,11 +24,12 @@ f) nemzetközi kapcsolatépítést és államközi megállapodás alapján külf
 
 (6) Az alkalmazott tudományok főiskoláinak többlettámogatása együttesen a költségvetési törvényben külön jogcímként meghatározott kiválósági támogatási keret legalább 2, legfeljebb 4 százaléka, de intézményenként legfeljebb 2,5 százaléka.
 
-(7)[^12] Az adott intézményt a miniszter az Nftv. 105. § (5) bekezdésében meghatározott tudományos fokozattal rendelkező oktatók és az Nftv. 101. § (9) bekezdése, valamint a 104/B. §-a szerint foglalkoztatott oktatók létszámaránya alapján részesíti támogatásban a (3)–(6) bekezdésben minősítési kategóriánként meghatározott kereteken belül. Kivételt képeznek a 2. § (2) és (3) bekezdése alapján minősített felsőoktatási intézmények, amelyek elkülönített keretét egyedi miniszteri döntéssel kell elosztani a minősített intézmények között.
+(7)[^17] Az adott intézményt a miniszter az Nftv. 105. § (5) bekezdésében meghatározott tudományos fokozattal rendelkező oktatók és az Nftv. 101. § (9) bekezdése, valamint a 104/B. §-a szerint foglalkoztatott oktatók létszámaránya alapján részesíti támogatásban a (3)–(6) bekezdésben minősítési kategóriánként meghatározott kereteken belül. Kivételt képeznek a 2. § (2) és (3) bekezdése alapján minősített felsőoktatási intézmények, amelyek elkülönített keretét egyedi miniszteri döntéssel kell elosztani a minősített intézmények között.
 
-(8) A számítás alapja 2013-ra vonatkozóan a tárgyévet megelőző évi létszámstatisztika, 2014-től az adott évre vonatkozóan a felsőoktatási információs rendszer alkalmazotti személyi törzsre vonatkozó nyilvántartása.
+(8)[^18] A számítás alapja az adott évben a felsőoktatási információs rendszer alkalmazotti személyi törzsre vonatkozó nyilvántartása.
 
 (9) A (3)–(8) bekezdésben meghatározott finanszírozási szint – a rendelkezésre álló költségvetési forrásra tekintettel – legfeljebb húsz százalékkal térhet el az előző évitől.
 
-[^11]: A 29. §-t a 220/2014. (VIII. 29.) Korm. rendelet 27. § c) pontja hatályon kívül helyezte.
-[^12]: A 30. § (7) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^16]: A 29. §-t a 220/2014. (VIII. 29.) Korm. rendelet 27. § c) pontja hatályon kívül helyezte.
+[^17]: A 30. § (7) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^18]: A 30. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 50. §-ával megállapított szöveg.

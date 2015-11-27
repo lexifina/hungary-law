@@ -1,9 +1,9 @@
-12. § (1) A 9–11. § szerinti nemzeti felsőoktatási kiválóság pályázati rendszerét, valamint az ösztöndíjak adományozására jogosult Magyary Zoltán Kuratóriumot a Kormány által kijelölt szerv (a továbbiakban: lebonyolító szervezet) működteti.
+12. §[^7] (1) A 9–11. § szerinti nemzeti felsőoktatási kiválósági ösztöndíjak fedezetét a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetésében szereplő előirányzat (a továbbiakban: előirányzat) biztosítja. Az ösztöndíjak 10–60 hónap időtartamra kerülnek odaítélésre. Az ösztöndíjak odaítéléséről a miniszter dönt.
 
-(2) A Magyary Zoltán Kuratórium összetételét, tagjait és a tagság feltételeit – a lebonyolító szervezet felügyeleti jogkörével rendelkező miniszter előzetes véleményének kikérésével – a miniszter határozza meg.
+(2) Az előirányzat terhére az ösztöndíj összege negyven százalékának megfelelő támogatás biztosítható a felsőoktatási intézmény számára. A támogatás az ösztöndíjjal támogatott kutatásának dologi és felhalmozási költségeinek, valamint a felsőoktatási intézmény általános költségeinek fedezetére fordítható. Az általános költségek összege nem haladhatja meg a támogatás összegének felét.
 
-(3) A Magyary Zoltán Kuratórium ügyrendjét (a továbbiakban: ügyrend), valamint az ösztöndíjak adományozásáról szóló pályázati programot – a miniszter szakmai iránymutatása alapján – a kuratórium maga határozza meg.
+(3) A 9–11. § szerinti ösztöndíj, illetve a (2) bekezdés szerinti támogatás összege a Nemzeti Kutatási, Fejlesztési és Innovációs Alap és a Magyar Tudományos Akadémia előirányzata, valamint a felsőoktatási intézmény ilyen céllal elnyert egyéb támogatásának terhére kiegészíthető.
 
-(4) Az ügyrendet a miniszter hagyja jóvá, a lebonyolító szervezet azt a nyilvánosság számára hozzáférhetővé teszi.
+(4) A 9–11. § szerinti nemzeti felsőoktatási kiválósági ösztöndíj támogatási időtartamát, az ösztöndíj összegét, a pályázás és a kiválasztás eljárásrendjét az ösztöndíjprogram működési szabályzata tartalmazza. Az ösztöndíjprogram működési szabályzatát a miniszter határozza meg. Az ösztöndíjprogram működési szabályzatát a minisztérium honlapján nyilvánosságra kell hozni.
 
-(5) A Magyary Zoltán Kuratórium tevékenységéről, az ösztöndíjazottak számáról, az ösztöndíjazottak célcsoport, nem, valamint tudományterület és tudományág szerinti megoszlásáról, a kutatási tevékenységek felsorolásáról – valamint egyéb, a miniszter által kért, rendelkezésre álló adatról – évente jelentést készít, amelyet a miniszter fogad el.
+[^7]: A 12. § a 345/2015. (XI. 19.) Korm. rendelet 49. §-ával megállapított szöveg.
