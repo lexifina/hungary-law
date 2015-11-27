@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-249-20-
 | --- | --- | --- |
 | 2015-09-09 | 2015-249-20-22.1 | 249/2015. (IX. 8.) Korm. rendelet |
 | 2015-09-10 | 2015-249-20-22.2 | 2010: CXXX. törvény |
+| 2015-11-27 | 2015-249-20-22.3 | 345/2015. (XI. 19.) Korm. rendelet |
