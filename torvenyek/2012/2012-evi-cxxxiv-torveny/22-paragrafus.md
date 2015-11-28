@@ -11,3 +11,5 @@ c) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem te
 (3) Ha valaki az e törvényben foglaltak ellenére dohánytermék-kiskereskedelmi jogosultság, vagy engedély nélkül folytat dohányáru üzletszerű értékesítésére vonatkozó tevékenységet, úgy őt a vámhatóság 5 milliótól 500 millió forintig terjedő bírsággal sújthatja.
 
 (4) A bírság együttesen, illetve a 23. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
+
+(5) A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az Art. rendelkezései az irányadóak.
