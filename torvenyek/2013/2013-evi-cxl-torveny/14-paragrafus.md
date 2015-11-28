@@ -4,4 +4,4 @@
 
 (3) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben a fémkereskedelmi hatóság jár el. A nyilvántartásba vételre és nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
 
-(4) Az e törvényben meghatározott bírságot és egyéb költséget az állami adóhatóság adók módjára hajtja be.
+(4) Az e törvényben meghatározott bírság és egyéb költség végrehajtására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
