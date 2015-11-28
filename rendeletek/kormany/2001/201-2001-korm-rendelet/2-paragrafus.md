@@ -28,7 +28,15 @@ j) kifogásolt minőségű ivóvíz: olyan víz, amely az emberi egészséget ve
 
 k)[^11] üzemeltető: a Vksztv. 15. § (2) bekezdése szerint az adott ellátási területen a víziközmű-szolgáltató, amely az ellátásért felelőssel víziközmű-üzemeltetési jogviszonyban áll, és a Vksztv. alapján az adott víziközmű-rendszerre vonatkozóan működési engedélyt kapott, vagy a Magyar Energetikai és Közmű-szabályozási Hivatal határozatában közérdekű üzemeltetőként kijelölésre került, vagy az egyedi ivóvízellátórendszer üzemeltetője,
 
-l) vízminőségi jellemzők: a víz minőségének leírására és értékelésére szolgáló mutatók (paraméterek).
+l) vízminőségi jellemzők: a víz minőségének leírására és értékelésére szolgáló mutatók (paraméterek),
+
+m)[^12] radioaktív anyag: az az anyag, amelyik egy vagy több olyan radioaktív nuklidot tartalmaz, amelynek aktivitása vagy koncentrációja sugárvédelmi szempontból nem elhanyagolható,
+
+n)[^13] indikatív dózis: az ivóvíz ellátó rendszerében kimutatott természetes és mesterséges eredetű radionuklidoknak az egy év alatt beépült lekötött effektív dózisa a trícium, a kálium-40, a radon és a radon rövid felezési idejű bomlástermékei kivételével,
+
+o)[^14] parametrikus érték: az ivóvízben jelen lévő kémiai, biológiai és radioaktív anyagok, valamint fizikai jellemzők értéke, amely felett vizsgálni szükséges, hogy a kémiai, biológiai és radioaktív anyagoknak, valamint fizikai jellemzőknek az ivóvízben való jelenléte beavatkozást igénylő kockázatot jelent-e az emberi egészségre nézve, és szükség esetén korrekciós intézkedéseket kell tenni annak érdekében, hogy a víz minősége olyan mértékben javuljon, hogy megfeleljen az emberi egészség védelmére vonatkozó követelményeknek,
+
+p)[^15] határérték: az a parametrikus érték, amely felett mérlegelés nélkül korrekciós intézkedést kell tenni.
 
 [^6]: A 2. § a 430/2013. (XI. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^7]: A 2. § c) pontja a 70/2015. (III. 30.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
@@ -36,3 +44,7 @@ l) vízminőségi jellemzők: a víz minőségének leírására és értékelé
 [^9]: A 2. § f) pont fb) alpontja a 70/2015. (III. 30.) Korm. rendelet 52. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 2. § i) pontja a 364/2014. (XII. 30.) Korm. rendelet 42. §-ával megállapított szöveg.
 [^11]: A 2. § k) pontja a 364/2014. (XII. 30.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
+[^12]: A 2. § m) pontját a 313/2015. (X. 28.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 2. § n) pontját a 313/2015. (X. 28.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 2. § o) pontját a 313/2015. (X. 28.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 2. § p) pontját a 313/2015. (X. 28.) Korm. rendelet 1. §-a iktatta be.

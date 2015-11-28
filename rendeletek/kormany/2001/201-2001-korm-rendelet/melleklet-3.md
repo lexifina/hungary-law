@@ -4,7 +4,7 @@
 
 ## 1. Ellenőrző vizsgálatok
 
-## Az ellenőrző vizsgálat célja az, hogy rendszeresen tájékoztasson az emberi fogyasztásra szolgáló ivóvíz organoleptikus és mikrobiológiai minőségéről, egyes kémiai vízminőségi jellemzőkről, a vízminőség esetleges változásáról, a vízkezelés hatékonyságáról (különösen a fertőtlenítéséről) annak érdekében, hogy ahol ilyen kezelést végeznek, megállapítható legyen, hogy az ivóvíz minősége megfelel-e az e rendeletben előírt határértékeknek.
+## Az ellenőrző vizsgálat célja az, hogy rendszeresen tájékoztasson az emberi fogyasztásra szolgáló ivóvíz organoleptikus és mikrobiológiai minőségéről, egyes kémiai vízminőségi jellemzőkről, a vízminőség esetleges változásáról, a vízkezelés hatékonyságáról (különösen a fertőtlenítéséről) annak érdekében, hogy ahol ilyen kezelést végeznek, megállapítható legyen, hogy az ivóvíz minősége megfelel-e az e rendeletben előírt határértékeknek és parametrikus értékeknek.
 
 ## 1.1. Minden alkalommal vizsgálandó ellenőrző paraméterek:
 
@@ -126,15 +126,25 @@
 
 ## 2. Részletes vizsgálatok
 
-## A részletes vizsgálatok célja annak megállapítása, hogy az ivóvíz minősége megfelel-e az e rendeletben foglalt valamennyi követelménynek. A részletes vizsgálat során – a 3. § (4) bekezdésével összhangban – minden vízminőségi jellemzőt mérni kell, kivéve, ha az OTH, illetve – azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – a NÉBIH az OTH-val egyeztetve az üzemeltető kérésére meghatározott időre felmentést ad abban az esetben, ha a kérdéses vízminőségi jellemző mérési eredményekkel igazolhatóan nincs jelen az adott vízellátó rendszerben olyan koncentrációban, amely a határérték túllépésének veszélyével járna. A radioaktivitásra vonatkozó határértékekre az 1. számú melléklet C) részében található 13., 14. és 15. megjegyzés az irányadó.
+## A részletes vizsgálatok célja annak megállapítása, hogy az ivóvíz minősége megfelel-e az e rendeletben foglalt valamennyi követelménynek. A részletes vizsgálat során – a 3. § (4) bekezdésével összhangban – minden vízminőségi jellemzőt mérni kell, kivéve, ha az OTH, illetve – azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják – a NÉBIH az OTH-val egyeztetve az üzemeltető kérésére meghatározott időre felmentést ad abban az esetben, ha a kérdéses vízminőségi jellemző mérési eredményekkel igazolhatóan nincs jelen az adott vízellátó rendszerben olyan koncentrációban, amely a határérték vagy parametrikus érték túllépésének veszélyével járna. A radioaktivitásra vonatkozó parametrikus értékekre az 1. számú melléklet C) részében található 12. és 13. megjegyzés az irányadó.
 
 ## Nem sérülékeny felszín alatti vízbázisok vize esetében a peszticidek, benzol, 1,2-diklór-etán, tetraklór-etilén, triklór-etilén, cisz-1,2-diklór-etilén és – nem klórozott vizek esetében – a trihalometánok csak az első felméréskor, és, ha nem voltak kimutathatók az alsó méréshatárt, illetve a határérték 10%-át meghaladó koncentrációban, akkor utána csak 3 évenként egyszer, illetve vízszennyezés gyanúja esetén mérendők. Benz(a)pirént és policiklusos aromás szénhidrogéneket felszín alatti vízbázisok vize esetében ugyanilyen gyakorisággal kell mérni, feltéve, hogy a permanganát index (KOIps) értéke a 3,5 mg/l-t (a TOC a 2,0 mg/l-t) nem haladja meg.
+
+## 3. Az előírt mintázási gyakoriság radioaktív anyagok vizsgálata esetén:
+
+## 3.1. Elosztóhálózatról szolgáltatott víz esetén az üzemeltető az illetékes népegészségügyi szervnek, valamint az élelmiszeripari vállalkozás az élelmiszerlánc-felügyeleti szervnek a B) részben foglalt táblázatban szereplő részletes vizsgálati gyakorisággal elvégzett trícium, radon, valamint indikatív dózis vizsgálati eredményeinek legalább 3 éves reprezentatív adatsorát megküldi.
+
+## A mintavételezést a fogyasztói csapon kell végezni, a trícium vizsgálat esetén a fogyasztói csapon vett minták helyett a kútból származó vízminták is figyelembe vehetőek.
+
+## 3.2. Tartályban, ballonban és palackban forgalomba hozott víz esetén az élelmiszeripari vállalkozás az élelmiszerlánc-felügyeleti szervnek a C) részben foglalt táblázatban szereplő részletes vizsgálati gyakorisággal elvégzett trícium, radon, valamint indikatív dózis vizsgálati eredményeinek legalább 3 éves reprezentatív adatsorát megküldi.
+
+## 3.3. Ha egy adott mintában valamelyik érték túllépése tapasztalható, az illetékes népegészségügyi szerv, valamint az élelmiszerlánc-felügyeleti szerv meghatározza, hogy milyen mértékben szükséges a mintavételt megismételni annak biztosításához, hogy a mért értékek az egész évi átlagos aktivitási koncentráció szempontjából reprezentatívak legyenek.
 
 ## B) Minimális mintavételi és vizsgálati gyakoriság vízellátó hálózat vagy élelmiszer előállításra használt ivóvíz esetében
 
 ## A víznyerő helyek (kutak), a vízkezelési technológia, a vízellátó rendszerbe betáplálás vagy más hálózati pont (pl. tárolók) mintázása is célszerű, azonban az itt vett minták az alábbi követelmény teljesítése szempontjából nem vehetők figyelembe.
 
-## 1. Az üzemeltető által végzett vagy végeztetett vízkémiai vizsgálatok minimális mintaszáma (a vizsgálati mintaszámot a kerekítés szabályait figyelmen kívül hagyva, minden esetben felfelé kell kerekíteni, mind az önellenőrző, mind a hatósági vizsgálatok esetében)
+## 1. Az üzemeltető és az élelmiszeripari vállalkozás által végzett vagy végeztetett vízkémiai vizsgálatok minimális mintaszáma (a vizsgálati mintaszámot a kerekítés szabályait figyelmen kívül hagyva, minden esetben felfelé kell kerekíteni, mind az önellenőrző, mind a hatósági vizsgálatok esetében)
 
 | Naponta termelt (szolgáltatott) ivóvíz mennyisége egy körzeten belül (1. és 2. megjegyzés) m3 | Ellenőrző vizsgálatra évente vett minták száma (3., 4. és 5. megjegyzés) | Részletes vizsgálatra évente vett minták száma (3. és 5. megjegyzés) |
 
@@ -192,6 +202,6 @@
 
 ## A vizsgálatot az üzemeltetőnek kell elvégeznie vagy elvégeztetnie.
 
-3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^97]
+3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^109]
 
-[^97]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja szerint módosított szöveg.
+[^109]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja, a 313/2015. (X. 28.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.

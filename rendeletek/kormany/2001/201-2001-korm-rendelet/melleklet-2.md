@@ -152,57 +152,59 @@
 
 ## C) Indikátor vízminőségi jellemzők
 
-| Vízminőségi jellemző | Határérték | Egység | Megjegyzés |
+|  | A | B | C | D |
 
-| Alumínium | 200 | μg/l |  |
+| 1. | Vízminőségi jellemző | Parametrikus érték | Egység | Megjegyzés |
 
-| Ammónium | 0,50 | mg/l | 1. megjegyzés |
+| 2. | Alumínium | 200 | μg/l |  |
 
-| Klorid | 250 | mg/l | 1. és 2. megjegyzés |
+| 3. | Ammónium | 0,50 | mg/l | 1. megjegyzés |
 
-| Clostridium perfringens (spórákkal együtt) | 0 | szám/100 ml | 3. megjegyzés |
+| 4. | Klorid | 250 | mg/l | 1. és 2. megjegyzés |
 
-| Szín | A fogyasztók számára elfogadható és nincs szokatlan változás |  |  |
+| 5. | Clostridium perfringens (spórákkal együtt) | 0 | szám/100 ml | 3. megjegyzés |
 
-| Vezetőképesség | 2500 | μS cm–1 20 °C-on | 2. megjegyzés |
+| 6. | Szín | A fogyasztó számára elfogadható és nincs szokatlan változás |  |  |
 
-| pH | ≥6,5 és ≤9,5 |  | 2. és 4. megjegyzés |
+| 7. | Vezetőképesség | 2500 | μS cm-1 20 °C-on | 2. megjegyzés |
 
-| Vas | 200 | μg/l |  |
+| 8. | pH | ≥6,5 és ≤9,5 |  | 2. és 4. megjegyzés |
 
-| Mangán | 50 | μg/l |  |
+| 9. | Vas | 200 | μg/l |  |
 
-| Szag | A fogyasztó számára elfogadható és nincs szokatlan változás |  |  |
+| 10. | Mangán | 50 | μg/l |  |
 
-| Permanganát index (KOIps) | 5,0 | mg/l O2 | 1. megjegyzés |
+| 11. | Szag | A fogyasztó számára elfogadható és nincs szokatlan változás |  |  |
 
-| Szulfát | 250 | mg/l | 2. megjegyzés |
+| 12. | Permanganát index (KOIps) | 5,0 | mg/l O2 | 1. megjegyzés |
 
-| Nátrium | 200 | mg/l |  |
+| 13. | Szulfát | 250 | mg/l | 2. megjegyzés |
 
-| Íz | A fogyasztó számára elfogadható és nincs szokatlan változás |  |  |
+| 14. | Nátrium | 200 | mg/l |  |
 
-| Telepszám 22 °C és 37 °C-on | Nincs szokatlan változás | szám/ml | 5. és 6. megjegyzés |
+| 15. | Íz | A fogyasztó számára elfogadható és nincs szokatlan változás |  |  |
 
-| Coliform baktériumok | 0 | szám/100 ml | 7. megjegyzés |
+| 16. | Telepszám 22 °C-on és 37 °C-on | Nincs szokatlan változás | szám/ml | 5. és 6. megjegyzés |
 
-| Pseudomonas aeruginosa | 0 | szám/100 ml | 5. megjegyzés |
+| 17. | Coliform baktériumok | 0 | szám/100 ml | 7. megjegyzés |
 
-| Összes szerves szén (TOC) | Nincs szokatlan változás |  | 9. megjegyzés |
+| 18. | Pseudomonas aeruginosa | 0 | szám/100 ml | 5. megjegyzés |
 
-| Zavarosság | A fogyasztó számára elfogadható és nincs szokatlan változás |  | 10. megjegyzés |
+| 19. | Összes szerves szén (TOC) | Nincs szokatlan változás |  | 9. megjegyzés |
 
-| Keménység | min. 50 max. 350 | mg/l CaO | 11. megjegyzés |
+| 20. | Zavarosság | A fogyasztó számára elfogadható és nincs szokatlan változás |  | 10. megjegyzés |
 
-| RADIOAKTIVITÁS |  |  |  |
+| 21. | Keménység | Min. 50, max. 350 | mg/l CaO | 11. megjegyzés |
 
-| Tricium | 100 | Bq/l | 13. és 14. megjegyzés |
+| 22. | Radon | 100 | Bq/l | 12. megjegyzés |
 
-| Összes indikatív dózis | 0,10 | mSv/év | 14. és 15. megjegyzés |
+| 23. | Trícium | 100 | Bq/l | 13. megjegyzés |
+
+| 24. | Indikatív dózis | 0,10 | mSv |  |
 
 ## Megjegyzések:
 
-## 1. A 4. § (2) bekezdése szerinti vízbázisból származó víz esetében a jelen melléklet D) részében foglalt határértékek az irányadók.
+## 1. A 4. § (2) bekezdése szerinti vízbázisból származó víz esetében a jelen melléklet D) részében foglalt parametrikus értékek az irányadók.
 
 ## A permanganát-index (KOIps) határértéke felszíni vízből nyert ivóvízben (az egyéb vizekkel való keveredés előtt) 3,5 mg/l és 5,0 mg/l közötti érték, azzal, hogy – e tartományon belül – a nyers vízben mért érték 65%-át nem haladja meg.
 
@@ -226,21 +228,19 @@
 
 ## 10. Felszíni vízből nyert víz esetében törekedni kell arra, hogy a zavarosság a kezelő művet elhagyó vízben ne legyen nagyobb 1,0 NTU-nál (nefelometriás turbiditási egység). A mérések feltételét a hatálybalépést követő harmadik évtől kell biztosítani.
 
-## 11. A minimális határértéket palackozott ivóvíznél, újonnan létesített vízműnél, továbbá minden olyan esetben be kell tartani, ahol a vizet sótalanítással vagy lágyítással kezelik.
+## 11. A minimális parametrikus értéket palackozott ivóvíznél, újonnan létesített vízműnél, továbbá minden olyan esetben be kell tartani, ahol a vizet sótalanítással vagy lágyítással kezelik.
 
-## 12. Csak akkor kell mérni, ha szag vagy íz panasz eredetének tisztázásához szükséges. Ha a panasz súlyos, a megadottaknál szigorúbb határérték betartására lehet szükség.
+## 12. Ha a radon koncentrációja meghaladja az 1000 Bq/l-t, sugárvédelmi alapon és további mérlegelés nélkül szükséges a korrekciós intézkedések megtétele.
 
-## 13. A vizsgálati gyakoriságot külön jogszabály fogja tartalmazni [10. § (9) bekezdés].
+## 13. A magas tríciumszint más mesterséges radionuklidok jelenlétére utalhat. Ha a trícium koncentrációja meghaladja a megadott parametrikus értéket, szükséges az egyéb mesterséges radionuklidok jelenlétének vizsgálata.
 
-## 14. A tricium, kálium-40, radon és a radon bomlástermékei nélkül; a vizsgálati gyakoriságot és módszereket, valamint a legalkalmasabb vizsgálati pontokat a rendelet 10. § (9) bekezdésében meghatározott külön jogszabály fogja tartalmazni.
+## 14.
 
-## 15. A 13. megjegyzés szerinti vizsgálati gyakoriságra vonatkozó, valamint a 14. megjegyzés szerinti, a vizsgálati gyakoriságra és módszerekre, illetve a legalkalmasabb vizsgálati pontokra vonatkozó javaslatokat a rendelet 10. § (9) bekezdésében meghatározott külön jogszabály határozza meg.
-
-## Nem kell vizsgálni az ivóvizet a triciumra vagy a radioaktivitásra az összes indikatív dózis meghatározása érdekében abban az esetben, ha más vizsgálat szerint a számított indikatív dózis tricium szintje messze a határérték alatt van.
+## 15.
 
 ## D) Szennyezésjelző vízminőségi jellemzők és határértékek karszt-, talaj- és partiszűrésű vízbázisok esetében
 
-| Vízminőségi jellemző | Határérték | Egység |
+| Vízminőségi jellemző | Parametrikus érték | Egység |
 
 | permanganát-index KOIps | 3,5 | mg/l |
 
@@ -250,7 +250,7 @@
 
 | klorid | 100 | mg/l |
 
-## E) Mikroszkópos biológiai vízminőségi jellemzők és határértékek
+## E) Mikroszkópos biológiai vízminőségi jellemzők és parametrikus értékek
 
 | Vízminőségi jellemzők | Parametrikus érték | Egység | Megjegyzés |
 
@@ -310,6 +310,6 @@
 
 ## 2.9. A vízminőségi kategóriába a Medveállatkák (Tardigrada), Ízeltlábúak (Arthropoda) törzsének képviselői és minden egyéb, előző vízminőségi jellemzőkhöz nem besorolható többsejtű szervezetek tartoznak.
 
-2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^96]
+2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^108]
 
-[^96]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése szerint módosított szöveg.
+[^108]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése, a 313/2015. (X. 28.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
