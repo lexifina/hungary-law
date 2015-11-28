@@ -1,1 +1,0 @@
-## „(11) A felsőoktatási intézménynek az 5. melléklet 1. pont m) alpontjában és 2. pont m) alpontjában foglaltakat a 2019/2020. tanévtől indítandó alap- és mesterképzések tekintetében kell biztosítania.”

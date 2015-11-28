@@ -1,1 +1,0 @@
-## „(6) A Hivatal a képzés duális formájának nyilvántartásba vételére irányuló eljárást – az (1)–(5) bekezdésben foglaltaktól eltérően – hivatalból, a Duális Képzési Tanács által megküldött támogató vélemény alapján folytatja le.”

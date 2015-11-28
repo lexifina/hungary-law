@@ -1,4 +1,4 @@
-## 96. § Hatályát veszti a Deák Ferenc Ösztöndíjról szóló 101/2007. (V. 8.) Korm. rendelet.
+## 96. §[^45]
 
 ## 18. Záró rendelkezések
 
@@ -23,3 +23,5 @@
 (10) A 88. § (9) bekezdése, valamint a 14. melléklet 2019. szeptember 1-jén lép hatályba.
 
 (11) A 88. § (10) bekezdése, valamint a 15. melléklet 2020. szeptember 1-jén lép hatályba.
+
+[^45]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

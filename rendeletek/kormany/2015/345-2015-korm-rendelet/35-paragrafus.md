@@ -1,15 +1,9 @@
-## „c) a képzés helyét, amennyiben a képzést meghirdető intézmény, kar, tanárképző központ azt több településen hirdeti,”
+## 34. §[^8]
 
-35. § (1) A 423/2012. (XII. 29.) Korm. rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+35. § (1)[^9]
 
-## „(1) A jelentkezési kérelmet a Hivatalhoz a Hivatal által e célra biztosított informatikai rendszer segítségével kitöltött elektronikus nyomtatványon
+(2)[^10]
 
-## a) kinyomtatva, aláírva, postai úton könyvelt küldeményként beküldve, vagy
-
-## b) ügyfélkapun keresztül történő hitelesítéssel
-
-## lehet benyújtani.”
-
-(2)[^3]
-
-[^3]: A 35. § (2) bekezdése a 97. § (2) bekezdése alapján 2015. december 1-jén lép hatályba.
+[^8]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 35. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 35. § (2) bekezdése a 97. § (2) bekezdése alapján 2015. december 1-jén lép hatályba.

@@ -1,1 +1,3 @@
-## 94. § Hatályát veszti a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet módosításáról szóló 249/2015. (IX. 8.) Korm. rendelet [a továbbiakban: 249/2015. (IX. 8.) Korm. rendelet] 20. § (2) bekezdésében a „6. §, a” szövegrész.
+## 94. §[^44]
+
+[^44]: A 94. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

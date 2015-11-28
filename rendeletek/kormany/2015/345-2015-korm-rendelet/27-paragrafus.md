@@ -1,1 +1,0 @@
-## „(13) Az Nftv. 48/A. § b) pontja és az Nftv. 48/N. § (3) bekezdése szerinti kötelezettség teljesítése szempontjából a magyar állami ösztöndíjjal folytatott tanulmányi időt a Hivatal napokban tartja nyilván. Az olyan tanulmányi félév, amely során a hallgató állami ösztöndíjat vesz igénybe, 150 nap hazai munkaviszony fenntartási kötelezettséget keletkeztet.”
