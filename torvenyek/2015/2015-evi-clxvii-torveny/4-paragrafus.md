@@ -1,0 +1,3 @@
+4. § A Get. 10. §-a helyébe a következő rendelkezés lép:
+
+„10. § A szállítási rendszerüzemeltető olyan informatikai rendszert működtet, amely internet alapon, valós idejű adatokkal biztosítja az együttműködő földgázrendszer hidraulikai egyensúlyának fenntartásához, valamint a nominálások, az újranominálások és az elszámolások lebonyolításához szükséges adatforgalmat, ideértve a központi adatgyűjtő és feldolgozó rendszerrel történő adatcserét. Az informatikai rendszernek alkalmasnak kell lennie a szigetüzemhez vagy részleges szigetüzemhez csatlakozó termelésből származó földgázmennyiség napi forgalmazásával kapcsolatos gázforgalmi feladatok kezelésére is.”
