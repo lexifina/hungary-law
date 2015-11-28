@@ -104,7 +104,7 @@ c) személyi jellegű ráfordítása 50 százalékát,
 
 d) képzési feladataival összefüggő kiadásainak
 
-da) általános képzés esetén 50 százalékát, ami a 651/2014/EU bizottsági rendelet 31. cikk (4) bekezdésében foglaltaknak megfelelően legfeljebb 70%-os mértékig növelhető,
+da) általános képzés esetén 50 százalékát, amely a 651/2014/EU bizottsági rendelet 31. cikk (4) bekezdésében foglaltaknak megfelelően legfeljebb 70%-os mértékig növelhető,
 
 db) szakképzés esetén 25 százalékát,
 

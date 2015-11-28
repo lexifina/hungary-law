@@ -32,7 +32,7 @@ d) ahol jogszabály a társasági adóról szóló 1991. évi LXXXVI. törvényt
 
 (11) Felhatalmazást kap a kultúráért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben a 22. § (1) bekezdése és a 24/A. § alapján az előadó-művészeti szervezeteknek nyújtott támogatásra vonatkozóan
 
-a) a támogatás felhasználásának időtartamát, elszámolható költségeinek körét, a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat;
+a) a támogatás felhasználásának időtartamát, a támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat;
 
 b) a 22. § (4) bekezdése szerinti támogatási igazolás és a 24/A. §-a szerinti igazolás iránti kérelem tartalmát, a támogatási igazolás, a 24/A. § szerinti igazolás kiállítására irányuló eljárás szabályait, a támogatási igazolás, a 24/A. § szerinti igazolás tartalmát, valamint a támogatási igazolással, a 24/A. § szerinti igazolással kapcsolatos adatszolgáltatás és ellenőrzés, továbbá a 22. § (1) bekezdése szerinti kiegészítő támogatás megfizetésének részletes szabályait
 

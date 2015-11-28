@@ -4,16 +4,6 @@ Alapítvány, közalapítvány, egyesület, köztestület, lakásszövetkezet, k
 
 A)
 
-Alapítvány, közalapítvány, egyesület és köztestület által végzett kedvezményezett tevékenységek
-
-Az alapítvány, a közalapítvány, az egyesület és a köztestület 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
-
-1. a közhasznú tevékenység és az alapító okiratában, alapszabályában nevesített cél szerinti tevékenység, ideértve mindkét esetben az e tevékenységhez kapott támogatást, juttatást és a tagdíjat is;
-
-2. a kizárólag a közhasznú tevékenységet vagy a cél szerinti tevékenységet szolgáló immateriális javak, tárgyi eszközök, készletek értékesítésének ellenértéke, bevétele;
-
-3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység és a cél szerinti tevékenység bevétele az összes bevételben képvisel, azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
-
 B)
 
 Lakásszövetkezet által végzett kedvezményezett tevékenységek

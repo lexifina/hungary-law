@@ -23,3 +23,7 @@
 (12) A Budapesti Közlekedési Zártkörűen Működő Részvénytársaság adózás előtti eredményét csökkenti a jogszabály vagy kormányhatározat alapján a Magyar Állam részéről átvállalt vagy elengedett kötelezettség elszámolásából adódó bevétel összege.
 
 (13) E törvénynek az egyes adótörvények módosításáról szóló 2015. évi LXXXI. törvénnyel megállapított 29/A. § (12) bekezdését a Budapesti Közlekedési Zártkörűen Működő Részvénytársaság a 2015. évi adókötelezettségének megállapítása során is alkalmazhatja.
+
+(14) Az alapítvány, a közalapítvány, az egyesület és a köztestület a 2015. évben kezdődő adóévi adókötelezettsége megállapítása során választása szerint vagy az e törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 9. §-át és 20. §-át, vagy az e törvény 2015. január 1-jén hatályos 9. §-át, 20. §-át és a 6. számú melléklet A) részét veszi figyelembe.
+
+(15) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított, növekedési adóhitelre vonatkozó rendelkezéseit az adózó első alkalommal a 2015. adóévi adókötelezettsége megállapítása során alkalmazhatja.
