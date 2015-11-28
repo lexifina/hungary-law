@@ -1,0 +1,1 @@
+## 11. § Az üzemeltetők, illetve élelmiszer-vállalkozások vizsgálati programjaiban a vízminőség-ellenőrző vizsgálatokat az 1. számú melléklet C) részében foglalt táblázat 22–24. pontjában szereplő vízminőségi jellemzők vonatkozásában 2016. január 1-jétől kell alkalmazni.
