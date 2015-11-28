@@ -1,0 +1,1 @@
+87. § E törvénynek az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel megállapított 7. § (1d) bekezdése a 2015. évi felszámolások esetén is alkalmazható.

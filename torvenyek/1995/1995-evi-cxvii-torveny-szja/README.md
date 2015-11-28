@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2015-09-01 | 2015. évi CV. törvény | 1995-117-00-00.134 |
 | 2015-09-08 | 2015. évi CXLI. törvény | 1995-117-00-00.135 |
 | 2015-10-05 | 2015. évi CXLV. törvény | 1995-117-00-00.136 |
+| 2015-11-28 | 2015. évi CLXXXVII. törvény | 1995-117-00-00.137 |

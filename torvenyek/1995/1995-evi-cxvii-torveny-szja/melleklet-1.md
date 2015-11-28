@@ -356,7 +356,7 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 
 7.20. lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsön (ideértve a deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelést is) adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
 
-7.21. a pénzügyi intézmény által elengedett, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából származó követelés (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére a pénzügyi intézmény belső szabályzatában foglaltak alapján, az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – független felek között – kerül sor;
+7.21. a pénzügyi intézmény által elengedett, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából, pénzügyi lízingszerződésből származó követelés (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére a pénzügyi intézmény belső szabályzatában foglaltak alapján, az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – független felek között – kerül sor;
 
 7.22. az az összeg, amelyet az otthonteremtési kamattámogatásról szóló kormányrendelet szerint a hátralékos adós magánszemély javára a hitelintézet elenged, feltéve, hogy a magánszemély a késedelmes jelzáloghitellel terhelt átruházott ingatlanának a vonatkozó adásvételi szerződés szerinti vételárát teljes egészében hátraléka törlesztésére fordítja.
 
@@ -381,6 +381,8 @@ b) az a követelés, amelyet az adósnak a bírósági adósságrendezési eljá
 c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által hozott adósságtörlesztési határozatban az adós számára meghatározott adósságrendezési kötelezettség teljesítése érdekében települési önkormányzattól, munkáltatótól, közhasznú szervezettől vagy egyházi jogi személytől kapott támogatás vagy adomány, ha annak egy naptári évben egy adományozótól juttatott összege havi átlagban nem éri el az öregségi nyugdíj legkisebb összegének másfélszeresét.
 
 7.30. az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.
+
+7.31. a magyarországi Holokauszt Emlékévhez kapcsolódó kezdeményezések támogatását célzó Civil Alap – 2014. pályázati program keretében magánszemély részére pályázat alapján elnyert támogatások, függetlenül a kifizetés időpontjától.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -484,7 +486,7 @@ b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ez
 
 8.30.
 
-8.31. az MRP szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott, a résztvevő tulajdonába adott értékpapír (ide nem értve a visszavásárolt vagyonrésznek minősülő értékpapírt) ráfordításként elszámolt beszerzési (nyilvántartási) értékéből az a rész, amely meghaladja a tulajdonba adás időpontjáig a résztvevő által saját erő címen befizetett összeg alapján az MRP szervezet által elszámolt bevételt; az adómentes természetbeni juttatás összegéről az MRP szervezet résztvevőnként az adóévet követő január 31-éig adatot szolgáltat az adóhatóság számára;
+8.31. az MRP szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott, a résztvevő tulajdonába adott értékpapír (ide nem értve a visszavásárolt vagyonrésznek minősülő értékpapírt) ráfordításként elszámolt beszerzési (nyilvántartási) értékéből az a rész, amely meghaladja a tulajdonba adás időpontjáig a résztvevő által saját erő címen befizetett összeg alapján az MRP szervezet által elszámolt bevételt; az adómentes természetbeni juttatás összegéről az MRP szervezet résztvevőnként az adóévet követő január 31-éig adatot szolgáltat az adóhatóság számára, azzal, hogy e rendelkezést nem lehet alkalmazni a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevője által megszerzett értékpapírra;
 
 8.32. a villamos energiáról szóló törvényben szabályozott szociális villamosenergia-ellátás keretében – a törvény felhatalmazása alapján kiadott jogszabályban meghatározott körben – nyújtott kedvezmény vagy támogatás, valamint a közüzemi szolgáltató által a közüzemi fogyasztói kör egészét vagy széles körét érintő, közvetlenül vagy közvetve juttatott támogatás (visszatérítés), ideértve a közüzemi díjtartozás elengedését is;
 

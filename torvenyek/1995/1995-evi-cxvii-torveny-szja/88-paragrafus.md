@@ -1,0 +1,1 @@
+88. § E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 1. számú melléklet 7. pont 7.21. alpontja a 2014. évre vonatkozó adókötelezettség megállapításától alkalmazható.
