@@ -1,0 +1,1 @@
+139. § Az Mrp tv. preambulumában az „elhatározásuktól függően, az őket foglalkoztató gazdasági társaságban szervezett” szövegrész helyébe az „elhatározásuktól függően, vagy javadalmazásuk részeként az őket foglalkoztató gazdasági társaságban szervezett” szöveg lép.

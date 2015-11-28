@@ -1,0 +1,3 @@
+85. § A Tao. törvény a következő 30/C. §-sal egészül ki:
+
+„30/C. § E törvény 4. § 37. és 39. pontja, 22. § (1) bekezdése, 22. § (4)–(6) bekezdése, 24/A. § (1) és (2) bekezdése, 24/A. § (3) bekezdés b) pontja, 24/A. § (6) bekezdése, 24/A. § (10)–(18) bekezdése, 24/A. § (26) bekezdése, 24/A. § (28) bekezdése, valamint 24/B. §-a a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26., 1–78. o.) I. és II. fejezete, valamint 53. cikke hatálya alá tartozó támogatást tartalmaz.”

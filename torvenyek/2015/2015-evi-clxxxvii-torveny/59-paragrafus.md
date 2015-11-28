@@ -1,0 +1,3 @@
+59. § A Gjt. 15. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) bekezdés szerinti adótételt az adózó vagy pénzügyi képviselője – a gépjármű Magyarország területére való belépést legalább 2 munkanappal megelőzően – utalással fizeti meg – az utalás közleményrovatában a fuvarozási engedély sorszámára, valamint a nyergesvontató, tehergépjármű rendszámára való hivatkozással – az állami adó- és vámhatóság külföldi gépjárműadó számlája javára. Az adófizetés tényét az adózó az utalás megtörténtét bizonyító irattal igazol, melyet magyarországi közlekedése során járműokmányként köteles megőrizni.”

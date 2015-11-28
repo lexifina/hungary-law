@@ -1,0 +1,3 @@
+47. § Az Itv. 80. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A megfizetett visszterhes vagyonátruházási és öröklési illetéket – az adózó kérelmére – vissza kell téríteni, ha a műemlékvédelmi hatóság igazolja, hogy a vagyonszerző a műemléki értékként külön jogszabályban védetté nyilvánított vagy önkormányzati rendelet alapján helyi egyedi védelem alatt álló épület felújítását a vagyonszerzés illetékkiszabásra történő bejelentésétől számított 1 éven belül megkezdte és 5 éven belül befejezte. Felújítás alatt a műemléképület egészén, illetve homlokzatán és több főszerkezetén végzett olyan általános javítást kell érteni, amely teljesen visszaállítja az épület esztétikai állapotát, valamint legalább eredeti műszaki állapotát.”
