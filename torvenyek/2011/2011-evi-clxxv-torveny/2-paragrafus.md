@@ -28,7 +28,15 @@ c) – a közalapítvány és a pártalapítvány kivételével – az alapítv�
 
 10. gazdálkodó tevékenység: azon tevékenységek összessége, amelyek a civil szervezet vagyoni, pénzügyi, jövedelmi helyzetére kiható gazdasági eseményt eredményeznek;
 
-11. gazdasági-vállalkozási tevékenység: a jövedelem- és vagyonszerzésre irányuló vagy azt eredményező, üzletszerűen végzett gazdasági tevékenység, ide nem értve az adomány (ajándék) elfogadását, továbbá a bevétellel járó, létesítő okiratban meghatározott cél szerinti, valamint a közhasznú tevékenységet;
+11. gazdasági-vállalkozási tevékenység: a jövedelem- és vagyonszerzésre irányuló vagy azt eredményező, üzletszerűen végzett gazdasági tevékenység, kivéve
+
+a) az adomány (ajándék) elfogadását,
+
+b) a létesítő okiratban meghatározott cél szerinti tevékenységet (ideértve a közhasznú tevékenységet is),
+
+c) a pénzeszközök betétbe, értékpapírba, társasági részesedésbe történő elhelyezését,
+
+d) az ingatlan megszerzését, használatának átengedését és átruházását;
 
 12. határon túli civil szervezet: határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében tevékenykedő, más állam területén működő nonprofit egyesület és alapítvány;
 
@@ -56,7 +64,7 @@ d) a személyi jövedelemadó meghatározott részének az adózó rendelkezése
 
 16. közcélú tevékenység: személyek csoportja által, valamely a csoportnál tágabb közösség érdekében – más, e közösségbe nem tartozó személyek érdekeinek sérelme nélkül – végzett tevékenység.
 
-17. közeli hozzátartozó: a Ptk.-ban pontjában meghatározott közeli hozzátartozó, valamint az élettárs;
+17. közeli hozzátartozó: a Ptk.-ban meghatározott közeli hozzátartozó, valamint az élettárs;
 
 18. közérdekű kötelezettségvállalás: a Ptk. 6:589–6:592. §-ában meghatározott kötelezettségvállalás;
 
