@@ -2,7 +2,7 @@
 
 2. § (1) E törvény alkalmazási köre kiterjed
 
-a) a földgáz vezetéken történő szállítására, elosztására, tárolására, kereskedelmére, fogyasztására, felhasználására,
+a) a földgáz vezetéken történő szállítására, elosztására, tárolására, kereskedelmére, fogyasztására, felhasználására, elszámolására,
 
 b) az együttműködő földgázrendszer irányítási és koordinációs feladatainak ellátására,
 

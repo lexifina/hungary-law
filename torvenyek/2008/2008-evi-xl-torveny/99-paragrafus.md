@@ -2,7 +2,9 @@
 
 ## MÉRÉS, ELSZÁMOLÁS
 
-99. § (1) A rendszerüzemeltetők biztosítják a felhasználó földgáz fogyasztásának elszámolásához a mérésügyi jogszabályok szerinti minőségi és mennyiségi adatokat.
+99. § (1) A rendszerüzemeltetők biztosítják a felhasználó földgáz fogyasztásának elszámolásához szükséges, a mérésügyi jogszabályok szerinti minőségi és mennyiségi mérési adatokat. A szállítási rendszerüzemeltető és a földgázelosztó a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes e törvényben meghatározott feladatai ellátásához szükséges mérési adatokat, valamint az elosztóvezetékhez közvetlenül csatlakozó felhasználó, és a telephelyi vezetékhez közvetlenül csatlakozó, a földgázt közvetlenül földgázkereskedőtől beszerző telephelyi felhasználó elszámolási adatainak kiszámításához szükséges adatokat fogyasztásmérő berendezésenként, az e törvény végrehajtására kiadott jogszabályokban meghatározott módon és formában kötelesek megküldeni a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére.
+
+(1a) Távlehívható fogyasztásmérő berendezés esetén – a földgázelosztó és a telephelyi szolgáltató a központi adatgyűjtő és feldolgozó rendszert működtető engedélyessel történő megállapodása esetén – a mérési adatok közvetlenül a fogyasztásmérő berendezésből is biztosíthatók a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére.
 
 (2) A rendszerüzemeltetők egymás közötti, valamint a rendszerüzemeltető és a földgáztermelő közötti betáplálási-kiadási, valamint összekapcsolási ponti elszámolási mérési helyek és eszközök kiépítésében és üzemeltetésében az érintettek a külön jogszabályban és az Üzemi és Kereskedelmi Szabályzatban meghatározott módon együttműködnek.
 

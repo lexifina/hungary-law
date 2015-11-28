@@ -1,4 +1,4 @@
-105/A. § (1) A rendszerüzemeltetők a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjakat, csatlakozási díjakat és áralkalmazási feltételeket kötelesek alkalmazni és honlapjukon közzétenni.
+105/A. § (1) A rendszerüzemeltetők és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjakat, csatlakozási díjakat és áralkalmazási feltételeket kötelesek alkalmazni és honlapjukon közzétenni.
 
 (2) A Hivatal a 105. § (2) bekezdésében meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 

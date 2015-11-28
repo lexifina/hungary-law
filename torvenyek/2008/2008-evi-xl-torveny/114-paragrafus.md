@@ -22,9 +22,11 @@ h) a vezetékes PB-gáz szolgáltatás,
 
 i) az egyablakos kapacitásértékesítés,
 
-j) a szállítóvezeték-létesítő által történő szállítóvezeték-létesítés.
+j) a szállítóvezeték-létesítő által történő szállítóvezeték-létesítés,
 
-(2) Az (1) bekezdés a)–i) pontja szerinti tevékenység határozatlan, az (1) bekezdés j) pontja szerinti tevékenység határozott időre szóló engedély alapján végezhető.
+k) a központi adatgyűjtő és feldolgozó rendszer működtetése.
+
+(2) Az (1) bekezdés a)–i) és k) pontja szerinti tevékenység határozatlan, az (1) bekezdés j) pontja szerinti tevékenység határozott időre szóló engedély alapján végezhető.
 
 (3) Az e törvény szerinti engedélyköteles tevékenység csak működési engedély alapján végezhető.
 
@@ -48,7 +50,7 @@ d) a kérelmező működési engedélyét a Hivatal az engedély iránti kérele
 
 (9) A Hivatal az engedély iránti kérelem elutasításának okait tájékoztatásul megküldi az Európai Bizottságnak.
 
-(10) Az (1) bekezdés a)–h) és j) pontjában meghatározott engedélyköteles tevékenységet csak az a földgázipari vállalkozás végezhet, amely megfelel az e törvényben, és a végrehajtására kiadott jogszabályban meghatározott feltételeknek.
+(10) Az (1) bekezdés a)–h), j) és k) pontjában meghatározott engedélyköteles tevékenységet kizárólag az a földgázipari vállalkozás végezhet, amely megfelel az e törvényben és a végrehajtására kiadott jogszabályokban meghatározott feltételeknek.
 
 (11) Az (1) bekezdés i) pontjában foglalt tevékenységet külföldi székhelyű vállalkozás is végezhet, ha a külföldi vállalkozás székhely szerinti állama és Magyarország közötti nemzetközi szerződés ezt biztosítja.
 
@@ -69,3 +71,5 @@ b) a kérelmező nem nyilatkozik arról, hogy korlátlanul helytáll a fióktele
 c) a kérelmező nem nyújtja be a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, hozzájáruló nyilatkozatát vagy tudomásulvételét, vagy
 
 d) a kérelmező központi ügyintézésének helye nem a székhelye szerinti országban van.
+
+(17) A központi adatgyűjtő és feldolgozó rendszer működtetésére kiadott engedély kizárólagos jogot biztosít és kötelezettséget jelent a központi adatgyűjtő és feldolgozó rendszer működtetésére.

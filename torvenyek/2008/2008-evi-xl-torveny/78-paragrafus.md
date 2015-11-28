@@ -2,6 +2,8 @@
 
 (2) A szüneteltetés kezdő időpontját és előrelátható időtartamát, valamint a szükséges biztonsági intézkedéseket az üzletszabályzatban rögzített módon, de legalább 15 nappal – tervszerű megelőző karbantartás esetén legalább 3 hónappal – korábban a felhasználókkal és az érintett engedélyesekkel közölni kell. Az Üzemi és Kereskedelmi Szabályzat meghatározott felhasználói körben előzetes egyeztetési kötelezettséget írhat elő. A rendszerhasználókkal és a felhasználókkal történő előzetes egyeztetés szabályait az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
+(2a) A szüneteltetés kezdő időpontját és előrelátható időtartamát a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnek az e törvény végrehajtására kiadott jogszabályokban meghatározottak szerint, de legalább 15 nappal – tervszerű megelőző karbantartás esetén legalább 3 hónappal – korábban kell megküldeni.
+
 (3) A be nem jelentett vagy késedelmesen bejelentett szünetelés, valamint a bejelentett szüneteltetés indokolatlan túllépése esetén a rendszerüzemeltető a földgázellátásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározottak szerint a Hivatal határozatában meghatározott pótdíj megfizetésére köteles. Ha a rendszerüzemeltető a szüneteltetés előzetes bejelentésével késedelembe esik, a rendszerhasználók jogosultak az időpontot elutasítani. Ebben az esetben az érintett felek a szüneteltetés időpontjának meghatározása érdekében kötelesek ismételten egyeztetni. A szünetelés túllépése indokoltságát a Hivatal jogosult elbírálni.
 
 (4) A (3) bekezdés szerinti pótdíjon felül a rendszerhasználó jogosult az igazolt kárainak megtérítését is követelni.
