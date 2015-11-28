@@ -1,7 +1,0 @@
-9. § (1) Az Art. 24/E. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az állami adóhatóság kérelemre 30 napon belül igazolást állít ki arról, hogy a kérelmezővel szemben az igazolás kiállításának napján nem áll fenn olyan, a 24/C. § (2) bekezdésében felsorolt akadály, amely más adózóban vezető tisztségviselőként, cégvezetőként, képviseletre jogosult tagként, vagy egyszemélyes társaság, korlátolt felelősségű társaság, zártkörűen működő részvénytársaság esetében tagként vagy részvényesként történő részvétele esetén a más adózó adószáma megállapításának megtagadásához, vagy a más adózóval szemben a 24/D. § rendelkezéseinek alkalmazásához vezet. Az állami adóhatóság a kérelmet érdemi vizsgálat nélkül elutasítja, ha a kérelem nem tartalmazza a kérelmező adóazonosító számát.”
-
-(2) Az Art. 24/E. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az állami adóhatóság a 24/C. § (2) bekezdésében meghatározott okra hivatkozással nem tagadhatja meg az adózó adószámának megállapítását, illetve az adózóval szemben nem járhat el a 24/D. § (2) bekezdése szerint, ha az állami adóhatóság az adózó azon vezető tisztségviselője, cégvezetője, tagja vagy részvényese részére, akire tekintettel fennállna a 24/C. § (2) bekezdésében foglalt valamely akadály, 15 napnál nem régebbi igazolást állított ki az (1) bekezdés szerint, kivéve, ha az állami adóhatóság megállapítja, hogy az igazolással kimentett akadályon kívül további akadály is fennáll az igazolással rendelkező vezető tisztségviselővel, cégvezetővel, taggal vagy részvényessel szemben.”

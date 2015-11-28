@@ -1,3 +1,0 @@
-29. § Az Art. 133/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A vállalkozási tevékenységet nem folytató, általános forgalmi adó fizetésére nem kötelezett magánszemély – a bevallás benyújtására előírt határidőig – személyi jövedelemadó bevallásában nyilatkozhat úgy, hogy a bevallott, együttesen 200 000 Ft-ot meg nem haladó személyi jövedelemadó és egészségügyi hozzájárulás-fizetési kötelezettségét pótlékmentes részletfizetés keretében, az esedékességtől számított legfeljebb 6 hónapon keresztül, havonként egyenlő részletekben teljesíti. Az első részlet megfizetésének határideje a személyi jövedelemadó fizetési kötelezettség törvényben meghatározott esedékességének napja. A nyilatkozat megtételére előírt határidő jogvesztő.”
