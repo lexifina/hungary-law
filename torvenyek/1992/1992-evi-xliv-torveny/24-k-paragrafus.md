@@ -1,0 +1,7 @@
+24/K. § (1) Az MRP szervezet megszűnésére a jogi személy megszűnésének általános szabályait kell alkalmazni azzal az eltéréssel, hogy az MRP alapjául szolgáló javadalmazási politika megszűnése esetén a legfőbb szerv köteles a kapcsolódó MRP szervezet jogutód nélküli megszüntetését elhatározni.
+
+(2) A nem fizetésképtelen MRP szervezet jogutód nélküli megszűnése esetén – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvénynek a végelszámolásra irányadó rendelkezései megfelelő alkalmazásával lefolytatott – végelszámolásnak van helye. A végelszámolás kezdő napját a résztvevők érdekeit figyelembe véve kell meghatározni.
+
+(3) Az MRP szervezet jogutód nélküli megszűnése esetén, a megszűnés napjával, az alapítóra száll át minden olyan tagi részesedés, amelyhez kapcsolódó pénzügyi eszközök tekintetében a pénzre történő átváltásukra az alapszabályban vagy a javadalmazási politikának megfelelő belső szabályzatban meghatározott feltételek még nem következtek be.
+
+(4) Ha az alapítóra átszálló tagi részesedéshez kapcsolódó pénzügyi eszközt nem az alapító juttatta nem pénzbeli vagyoni hozzájárulásként az MRP szervezetnek, vagy az MRP alapjául szolgáló javadalmazási politika arról rendelkezett, hogy a tagi részesedés vagy az ahhoz kapcsolódóan az MRP szervezet által megszerzett pénzügyi eszköz ellenérték fejében illeti meg a résztvevőt, a jogosult (így különösen a pénzügyi eszköz juttatója, illetve az ellenértéket egészben vagy részben már kifizető résztvevő) igényét a végelszámolás befejezését megelőzően kell teljesíteni.

@@ -1,0 +1,3 @@
+24/J. § (1) A tagi részesedés bevonása esetén az MRP szervezet a jogosultat megillető igény teljesítésének napján olyan bizonylatot állít ki a jogosultnak, amely tartalmazza az igény összegének megállapításához szükséges adatokat, valamint a teljesítés napját.
+
+(2) Ha az MRP alapjául szolgáló javadalmazási politika arról rendelkezett, hogy a tagi részesedés vagy az ahhoz kapcsolódóan az MRP szervezet által megszerzett pénzügyi eszköz ellenérték fejében illeti meg a résztvevőt az MRP szervezet az (1) bekezdés szerinti bizonylaton feltünteti a résztvevőt megillető összegből levont ellenérték összegét.
