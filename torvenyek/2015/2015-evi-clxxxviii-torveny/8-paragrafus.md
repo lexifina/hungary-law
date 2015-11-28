@@ -1,1 +1,0 @@
-8. § A központi szerv az egyedi azonosító iránti kérelem beérkezésétől számított nyolc munkanapon belül tájékoztatja az igénybevételre jogosult szervet a hozzáférésre felhatalmazott személy egyedi azonosítóiról, valamint az arcképelemző tevékenység igénybevételéhez szükséges technikai ismeretekről.
