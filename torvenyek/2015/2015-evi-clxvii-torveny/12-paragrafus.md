@@ -1,9 +1,5 @@
-12. § (1) A Get. 31/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A korábbi földgázkereskedő az (1) bekezdés a) pontja szerinti visszaigazolással egyidejűleg köteles az érintett rendszerüzemeltetőnél és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnél vagy a szállítási rendszerüzemeltetőnél bejelenteni az e törvény végrehajtásáról szóló kormányrendeletben meghatározottak szerint a kereskedőváltást és a földgáz-kereskedelmi szerződés megszűnésének időpontját. Az új földgázkereskedő az (1) bekezdés a) pontja szerinti visszaigazolás kézhezvételét követően haladéktalanul, de a földgáz-kereskedelmi szerződés megszűnésének időpontját legalább 21 nappal megelőzően az érintett rendszerüzemeltető és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes vagy szállítóvezetékről közvetlenül vételező felhasználó esetében a szállítási rendszerüzemeltető részére bejelenti az új földgáz-kereskedelmi szerződés hatálybalépésének időpontját, továbbá a felhasználási hely egyedi azonosító számának alkalmazásával kezdeményezi a rendszerhasználati szerződés megkötését vagy módosítását. A rendszerüzemeltető köteles a kereskedőváltással kapcsolatos rendszerhasználati szerződések megkötését vagy módosítását legkésőbb a földgáz-kereskedelmi szerződés megszűnésének időpontját megelőző 4. napig elvégezni, és a kapacitásadatokról a szállítórendszeri kapacitások átadás-átvételének határideje előtti munkanapig a rendszerhasználó és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére tájékoztatást nyújtani, amely határidőről a szállítási rendszerüzemeltető értesíti a rendszerhasználókat, földgázelosztókat és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyest.”
+12. § (1)
 
 (2)
 
-(3) A Get. 31/B. §-a a következő (4c) bekezdéssel egészül ki:
-
-„(4c) A (4) bekezdésben előírt bejelentési, tájékoztatási és értesítési kötelezettséget szállítóvezetékre közvetlenül csatlakozó felhasználó esetén kizárólag az érintett szállítási rendszerüzemeltető felé kell teljesíteni.”
+(3)

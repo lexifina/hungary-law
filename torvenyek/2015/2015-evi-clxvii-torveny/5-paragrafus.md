@@ -1,7 +1,0 @@
-5. § (1) A Get. 14. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A földgázelosztónak rendelkeznie kell továbbá mérő- és adatátviteli eszközökkel, a saját vagy a Hivatal jóváhagyásával kiszervezett tevékenységet végző személy szervezetén belül mindezek folyamatos üzemeltetését és felügyeletét ellátó szervezettel, valamint a saját szervezetén belül a karbantartást és az üzemzavar elhárítást irányító szervezetekkel, továbbá a csatlakozó rendszerüzemeltetőkkel, a központi adatgyűjtő és feldolgozó rendszert működtető engedélyessel és a saját szervezetén belül a rendszerhasználókkal kapcsolatot tartó, folyamatosan működő műszaki irányító szolgálattal.”
-
-(2) A Get. 14. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A földgázelosztónak rendelkeznie kell az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel és a központi adatgyűjtő és feldolgozó rendszerrel történő adatcserére alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a szállítási rendszerüzemeltető részére a napi gázforgalmazás megbízható helyzetére vonatkozó adatszolgáltatást, valamint a rendszerhasználók felé az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat és adatcserét. Az informatikai rendszernek alkalmasnak kell lennie a szigetüzemhez vagy részleges szigetüzemhez csatlakozó termelésből eredő földgázmennyiség napi forgalmazásával kapcsolatos nominálások, allokálások kezelésére is.”
