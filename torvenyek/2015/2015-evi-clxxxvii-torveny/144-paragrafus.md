@@ -1,7 +1,0 @@
-144. § A Civiltörvény 21. §-a helyébe a következő rendelkezés lép:
-
-„21. § (1) A gazdasági-vállalkozási tevékenységet is folytató civil szervezet azokat a költségeket, ráfordításokat, amelyek sem az alapcél szerinti (közhasznú) tevékenységéhez, sem a gazdasági-vállalkozási tevékenységéhez nem rendelhetők közvetlenül hozzá, a bevételek (ide nem értve az ilyen költséget, ráfordítást ellentételező bevételt) összege arányában osztja meg a két tevékenység között.
-
-(2) Az (1) bekezdés szerinti költségnek, ráfordításnak minősül különösen a civilszervezet vezető tisztségviselőjét megillető tiszteletdíj és más juttatás, valamint az azokhoz kapcsolódó közteher (kivéve, ha a vezető tisztségviselők közötti munkamegosztás alapján egyértelműen megállapítható, hogy ezek a költségek, ráfordítások mely tevékenységhez kapcsolódnak), továbbá a székhely fenntartásával, a nem kizárólag meghatározott tevékenységhez kapcsolódóan fenntartott pénzforgalmi számla vezetésével kapcsolatban felmerült költség, ráfordítás.
-
-(3) A civil szervezet az (1) bekezdés szerinti költséget, ráfordítást ellentételező bevételt (így különösen az ilyen költség, ráfordítás fedezetére kapott támogatást és a fedezetére képzett céltartalék feloldott összegét) az alapjául szolgáló költségeknek, ráfordításoknak megfelelően osztja meg az alapcél szerinti (közhasznú) tevékenysége és gazdasági-vállalkozási tevékenysége bevételei között.”
