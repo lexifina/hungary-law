@@ -1,3 +1,5 @@
+## 16. §[^1]
+
 1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez
 
 ## Nemzetközi felosztás
@@ -25,3 +27,5 @@
 2.1.4.2. kettő vagy több rádiószolgálatra, vagy az adott felosztás egészére vonatkozik, ha a lábjegyzet az adott mező aljára van írva.
 
 2.1.5. Amennyiben a rádiószolgálat megnevezése mellett zárójeles kiegészítés szerepel, akkor a rádiószolgálatra vonatkozó felosztás az így megjelölt működési típusra, alkalmazásra, frekvenciára korlátozódik.
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
