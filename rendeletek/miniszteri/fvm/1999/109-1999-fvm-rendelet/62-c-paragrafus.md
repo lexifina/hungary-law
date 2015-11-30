@@ -1,8 +1,8 @@
-62/C. §[^170] (1) A termőföld végleges más célú hasznosításával összefüggő, nem beruházási területre történő művelési ág változás átvezetéséhez szükséges:
+62/C. §[^173] (1) A termőföld végleges más célú hasznosításával összefüggő, nem beruházási területre történő művelési ág változás átvezetéséhez szükséges:
 
 a) a termőföld végleges más célú hasznosításának engedélyezéséről rendelkező jogerős határozat,
 
-b)[^171] az a) pontban foglalt engedélyben meghatározott földvédelmi járulék megfizetésének igazolása, és
+b)[^174] az a) pontban foglalt engedélyben meghatározott földvédelmi járulék megfizetésének igazolása, és
 
 c) az a) pont szerinti határozatban megjelölt termőföld hasznosítási céllal összhangban álló olyan jogerős hatósági engedély, amely annak jogosultját a megvalósult létesítmény használatbavételére, üzemeltetésére, vagy az engedélyezett tevékenység végzésére jogosítja.
 
@@ -10,13 +10,13 @@ c) az a) pont szerinti határozatban megjelölt termőföld hasznosítási céll
 
 a) a termőföld végleges más célú hasznosításának engedélyezéséről rendelkező jogerős határozat,
 
-b)[^172] az a) pontban foglalt engedélyben meghatározott földvédelmi járulék megfizetésének igazolása,
+b)[^175] az a) pontban foglalt engedélyben meghatározott földvédelmi járulék megfizetésének igazolása,
 
 c) a tevékenység jogszerű végzését, vagy a létesítmény jogszerű elhelyezését igazoló hatósági bizonyítvány, és
 
-d)[^173] a járási hivatal által hivatalból kiállított hatósági bizonyítvány, mely igazolja, hogy az a) pontban foglalt engedély és a c) pontban foglalt hatósági bizonyítvány szerint a terület végleges más célú hasznosítását megvalósították.
+d)[^176] a járási hivatal által hivatalból kiállított hatósági bizonyítvány, mely igazolja, hogy az a) pontban foglalt engedély és a c) pontban foglalt hatósági bizonyítvány szerint a terület végleges más célú hasznosítását megvalósították.
 
-[^170]: A 62/C. §-t a 48/2010. (IV. 27.) FVM rendelet 62. §-a iktatta be.
-[^171]: A 62/C. § (1) bekezdés b) pontja a 148/2012. (XII. 28.) VM rendelet 23. §-a szerint módosított szöveg.
-[^172]: A 62/C. § (2) bekezdés b) pontja a 148/2012. (XII. 28.) VM rendelet 23. §-a szerint módosított szöveg.
-[^173]: A 62/C. § (2) bekezdés d) pontja a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja szerint módosított szöveg.
+[^173]: A 62/C. §-t a 48/2010. (IV. 27.) FVM rendelet 62. §-a iktatta be.
+[^174]: A 62/C. § (1) bekezdés b) pontja a 148/2012. (XII. 28.) VM rendelet 23. §-a szerint módosított szöveg.
+[^175]: A 62/C. § (2) bekezdés b) pontja a 148/2012. (XII. 28.) VM rendelet 23. §-a szerint módosított szöveg.
+[^176]: A 62/C. § (2) bekezdés d) pontja a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja szerint módosított szöveg.

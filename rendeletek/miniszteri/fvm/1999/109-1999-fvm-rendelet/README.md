@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-109-20-
 | 2014-09-28 | 1999-109-20-82.21 | 13/2014. (IX. 25.) FM rendelet |
 | 2015-01-01 | 1999-109-20-82.22 | 39/2014. (XII. 18.) FM rendelet |
 | 2015-06-06 | 1999-109-20-82.23 | 29/2015. (VI. 5.) FM rendelet |
+| 2015-11-30 | 1999-109-20-82.24 | 67/2015. (X. 30.) FM rendelet |
