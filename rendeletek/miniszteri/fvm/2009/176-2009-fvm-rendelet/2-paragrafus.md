@@ -10,12 +10,17 @@ b) a tulajdonosi adatokkal kiegészített földkönyv vagy földkönyvkivonat es
 
 c) a területi összesítő esetében településenként 2000 forintot.
 
-(2) Az ingatlan-nyilvántartásból adatműveleti, adatfeldolgozási tevékenységet igénylő leválogatás, illetve az elektronikus formában lekérdezett adatok utólagos feldolgozása a technikai lehetőségek függvényében, egyedi megállapodás alapján teljesíthető.
+(1a)[^3] Az adózás rendjéről szóló 2003. évi XCII. törvény 3. számú mellékletének C/2. pontjában meghatározott, a számítógépes adatbázisból lekérdezés útján történő adatszolgáltatásért – az évenkénti egy alkalommal történő díjmentes adatszolgáltatást követően – ingatlanonként a 2. § (1) bekezdés b) pontjában meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-(2a)[^3] Az ingatlan-nyilvántartás tartalmába történő, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 67. §-a szerinti betekintés biztosítása, valamint az Inytv. 68. §-ában meghatározott hiteles tulajdoni lap másolat kiállítása a járási hivatal saját illetékességi területre vonatkozó adatszolgáltatás esetén is az 5. § (1) bekezdés szerinti infrastruktúrán keresztül történik.
+(2)[^4] Az (1a) bekezdés szerinti adatszolgáltatásból származó bevétel 65%-a az adatszolgáltatással érintett ingatlan fekvése szerint illetékes kormányhivatalt, 35%-a a Földmérési és Távérzékelési Intézetet (a továbbiakban: FÖMI) illeti meg. A díjbevétel azon részét, amely a FÖMI-t illeti meg, az adatszolgáltatás helye szerinti kormányhivatal a tárgyhónap utolsó napját követő 15 napon belül köteles átutalni a FÖMI előirányzat-felhasználási keretszámlájára.
 
-(3) Ha az (1) bekezdés b) pontja szerinti tulajdonosi adatokkal kiegészített földkönyv vagy földkönyvi kivonat szolgáltatását, illetve a (2) bekezdés szerinti leválogatást, adatfeldolgozást természetes személyek vonatkozásában kérik, a kérelemben meg kell jelölni azt a törvényhelyet, amelyre figyelemmel az adatszolgáltatás teljesíthető. Ennek hiányában az adatok csak az érintett személyek közokiratba vagy teljes bizonyító erejű magánokiratba foglalt hozzájárulása esetén szolgáltathatók.
+(2a)[^5] Az ingatlan-nyilvántartás tartalmába történő, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 67. §-a szerinti betekintés biztosítása, valamint az Inytv. 68. §-ában meghatározott hiteles tulajdoni lap másolat kiállítása a járási hivatal saját illetékességi területre vonatkozó adatszolgáltatás esetén is az 5. § (1) bekezdés szerinti infrastruktúrán keresztül történik.
+
+(3)[^6]
 
 [^1]: A 2. §-t megelőző alcím a 29/2015. (VI. 5.) FM rendelet 8. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés nyitó szövegrésze a 29/2015. (VI. 5.) FM rendelet 8. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^3]: A 2. § (2a) bekezdését a 148/2012. (XII. 28.) VM rendelet 26. §-a iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 8. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^3]: A 2. § (1a) bekezdését a 67/2015. (X. 30.) FM rendelet 11. § (1) bekezdése iktatta be.
+[^4]: A 2. § (2) bekezdése a 67/2015. (X. 30.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2a) bekezdését a 148/2012. (XII. 28.) VM rendelet 26. §-a iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 8. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdését a 67/2015. (X. 30.) FM rendelet 12. §-a hatályon kívül helyezte.

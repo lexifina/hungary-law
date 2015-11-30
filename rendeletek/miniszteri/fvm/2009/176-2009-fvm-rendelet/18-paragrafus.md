@@ -1,6 +1,6 @@
-18. §[^43] Ahol e rendelet járási hivatalt említ, azon a földhivatalok, valamint a Földmérési és Távérzékelési Intézet feladatairól, illetékességi területéről, továbbá egyes földhivatali eljárások részletes szabályairól szóló 373/2014. (XII. 31.) Korm. rendelet 1. mellékletében megjelölt járási hivatalokat kell érteni.
+18. §[^46] Ahol e rendelet járási hivatalt említ, azon a földhivatalok, valamint a Földmérési és Távérzékelési Intézet feladatairól, illetékességi területéről, továbbá egyes földhivatali eljárások részletes szabályairól szóló 373/2014. (XII. 31.) Korm. rendelet 1. mellékletében megjelölt járási hivatalokat kell érteni.
 
-Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^44]
+Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^47]
 
 |  | A | B |
 
@@ -48,5 +48,5 @@ Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^44]
 
 | 21. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
 
-[^43]: A 18. §-t a 29/2015. (VI. 5.) FM rendelet 8. § (1) bekezdése iktatta be.
-[^44]: A melléklet a 29/2015. (VI. 5.) FM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^46]: A 18. §-t a 29/2015. (VI. 5.) FM rendelet 8. § (1) bekezdése iktatta be.
+[^47]: A melléklet a 29/2015. (VI. 5.) FM rendelet 8. § (5) bekezdésével megállapított szöveg.

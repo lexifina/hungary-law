@@ -1,4 +1,4 @@
-## 8. §[^22] A FÖMI az elektronikus adatszolgáltatásból őt megillető díjból biztosítja a TAKARNET rendszer üzemeltetését és fenntartását, valamint azt elsődlegesen a rendszer továbbfejlesztésére fordítja. A fennmaradó összeget jogszabályokban meghatározott feladatai ellátására használhatja fel.
+## 8. §[^25] A FÖMI az elektronikus adatszolgáltatásból őt megillető díjból biztosítja a TAKARNET rendszer üzemeltetését és fenntartását, valamint azt elsődlegesen a rendszer továbbfejlesztésére fordítja. A fennmaradó összeget jogszabályokban meghatározott feladatai ellátására használhatja fel.
 
 ## Az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapítása, megfizetése és kezelése
 
@@ -16,4 +16,4 @@ c) minden más esetben a kérelem benyújtásakor önálló földrészletként n
 
 kell figyelembe venni.
 
-[^22]: A 8. § a 48/2010. (IV. 27.) FVM rendelet 96. §-a szerint módosított szöveg.
+[^25]: A 8. § a 48/2010. (IV. 27.) FVM rendelet 96. §-a szerint módosított szöveg.
