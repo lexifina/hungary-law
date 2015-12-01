@@ -52,16 +52,16 @@ e) az együttműködő partnerek vállalt kötelezettségeit, és
 
 f) az együttműködő partnerek cégszerű aláírását.
 
-(12)[^5] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfél köteles a támogatási határozattal jóváhagyott műveletet 2015. június 30. napjáig megvalósítani.
+(12)[^6]
 
-(13)[^6]
+(13)[^7]
 
-(14)[^7]
+(14)[^8]
 
 (15) Jelen rendelet alkalmazása során nem kell vizsgálni a Vhr. 7. § (2) bekezdésében meghatározottak szerinti rendezett munkaügyi kapcsolatok feltételeinek fennállását.
 
 (16) Az e rendelet alapján nyújtott támogatások tekintetében a Vhr. 33. § (4) bekezdésében foglaltak nem alkalmazandóak.
 
-[^5]: A 4. § (12) bekezdése az 1/2014. (IX. 15.) MvM rendelet 23. § (1) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 67. § a) pontja szerint módosított szöveg.
-[^6]: A 4. § (13) bekezdését a 28/2015. (VI. 9.) MvM rendelet 68. §-a hatályon kívül helyezte.
-[^7]: A 4. § (14) bekezdését az 1/2014. (IX. 15.) MvM rendelet 24. §-a hatályon kívül helyezte.
+[^6]: A 4. § (12) bekezdését az 53/2015. (XII. 1.) MvM rendelet 25. § a) pontja hatályon kívül helyezte.
+[^7]: A 4. § (13) bekezdését a 28/2015. (VI. 9.) MvM rendelet 68. §-a hatályon kívül helyezte.
+[^8]: A 4. § (14) bekezdését az 1/2014. (IX. 15.) MvM rendelet 24. §-a hatályon kívül helyezte.
