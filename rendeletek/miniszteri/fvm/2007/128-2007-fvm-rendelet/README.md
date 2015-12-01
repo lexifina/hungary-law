@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-128-20-
 | 2013-07-30 | 2007-128-20-82.8 | 68/2013. (VII. 29.) VM rendelet |
 | 2014-02-18 | 2007-128-20-82.9 | 11/2014. (II. 17.) VM rendelet |
 | 2014-12-31 | 2007-128-20-82.10 | 12/2014. (XII. 30.) MvM rendelet |
+| 2015-12-01 | 2007-128-20-82.11 | 53/2015. (XII. 1.) MvM rendelet |

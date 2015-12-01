@@ -8,8 +8,8 @@ a) az európai közösségi jelentőségű természetvédelmi rendeltetésű ter
 
 b) amelyet az adott gazdálkodási év teljes időtartama alatt gyepként hasznosítanak.
 
-(2)[^6] Nem támogatható az az (1) bekezdés előírásainak megfelelő terület, amely állami tulajdonban és a honvédelmi szervek vagyonkezelésében áll.
+(2)[^9] Nem támogatható az az (1) bekezdés előírásainak megfelelő terület, amely állami tulajdonban és a honvédelmi szervek vagyonkezelésében áll.
 
 (3) Támogatás igénybevételére nem jogosult költségvetési szerv, valamint az a gazdálkodó szervezet, amelyben a Magyar Állam tulajdoni hányada meghaladja az 50%-ot.
 
-[^6]: Az 5. § (2) bekezdése a 98/2011. (X. 28.) VM rendelet 2. §-ával megállapított szöveg.
+[^9]: Az 5. § (2) bekezdése a 98/2011. (X. 28.) VM rendelet 2. §-ával megállapított szöveg.
