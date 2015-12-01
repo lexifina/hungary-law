@@ -1,0 +1,1 @@
+## 18. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a vidéki örökség megőrzéséhez LEADER Helyi Akciócsoportok közreműködésével 2012-től igénybe vehető támogatások részletes feltételeiről szóló 103/2012. (X. 1.) VM rendelet módosítása

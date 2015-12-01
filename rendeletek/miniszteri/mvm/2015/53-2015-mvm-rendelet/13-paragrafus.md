@@ -1,0 +1,1 @@
+## 12. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatott intézkedések monitoring adatszolgáltatási rendjére vonatkozó részletes szabályokról szóló 18/2009. (III. 6.) FVM rendelet [a továbbiakban: 18/2009. (III. 6.) FVM rendelet] 1. melléklete helyébe az 1. melléklet lép.

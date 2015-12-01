@@ -1,0 +1,9 @@
+# 53/2015. (XII. 1.) MvM rendelet
+
+az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-53-20-6N
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-12-01 | 2015-53-20-6N.1 | 53/2015. (XII. 1.) MvM rendelet |
