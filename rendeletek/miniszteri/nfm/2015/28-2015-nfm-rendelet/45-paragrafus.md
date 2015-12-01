@@ -1,3 +1,5 @@
+## 44/A. §[^3] E rendeletnek a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 28/2015. (VI. 3.) NFM rendelet módosításáról szóló 68/2015. (XI. 30.) NFM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^4] megelőzően megkötött szerződésekre is alkalmazni kell.
+
 ## 45. § A 3. §
 
 a) d) pont dc) alpontja, e) pont ec) alpontja, f) és g) pontja, h) pont hc) alpontja, i) pont ia) alpontja, k) pontja, l) pont la) alpontja, m) pont ma) alpontja, o) pont oa) alpontja, p) pont pc) alpontja, valamint q) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352, 2013.12.24. 1. o.),
@@ -15,3 +17,6 @@ f) d) pont dd) alpontja, e) pont ed) alpontja, l) pont lj) és lk) alpontja, o) 
 g) n) és q) pontja az SA.34770 (2012/N-2) sz. bizottsági határozat,
 
 h) a) és q) pontja az SA.38478 (2014/N) sz. bizottsági határozat
+
+[^3]: A 44/A. §-t a 68/2015. (XI. 30.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A hatálybalépés napja 2015. december 1.
