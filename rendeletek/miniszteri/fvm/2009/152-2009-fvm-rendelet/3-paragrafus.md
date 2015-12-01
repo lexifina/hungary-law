@@ -54,7 +54,7 @@
 
 33. A Bizottság 2007/42/EK irányelve (2007. június 29.) az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő regenerált cellulózfilmből készült anyagokról és tárgyakról;
 
-34.[^34] a Tanács 76/766/EGK irányelve (1976. július 27.) az alkoholtáblázatokról szóló tagállami jogszabályok közelítéséről;
+34.[^34]
 
 35.[^35] a Bizottság 79/796/EGK első irányelve (1979. július 26.) az emberi fogyasztásra szánt egyes cukorfajták vizsgálatára szolgáló közösségi vizsgálati módszerek megállapításáról;
 
@@ -81,7 +81,7 @@
 [^31]: A 3. § 17. pontja a 77/2011. (VIII. 3.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^32]: A 3. § 27–28. pontját a 77/2011. (VIII. 3.) VM rendelet 3. § b) pontja hatályon kívül helyezte.
 [^33]: A 3. § 32. pontját a 77/2011. (VIII. 3.) VM rendelet 3. § b) pontja hatályon kívül helyezte.
-[^34]: A 3. § 34. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
+[^34]: A 3. § 34. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 64/2015. (X. 16.) FM rendelet 3. § b) pontja.
 [^35]: A 3. § 35. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
 [^36]: A 3. § 36. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
 [^37]: A 3. § 37. pontját a 26/2011. (IV. 7.) VM rendelet 3. § (2) bekezdése iktatta be.
