@@ -1,0 +1,1 @@
+## 3. § Az NFM rendelet 1. mellékletében foglalt táblázat I:45., I:47., I:62., I:63., I:67., I:68., I:69., I:70., I:71., I:72., I:73., I:75. I:76., valamint I:77. mezőjében a „–” szövegrész helyébe az „előleg folyósítható” szöveg lép.
