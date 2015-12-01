@@ -1,12 +1,12 @@
 ## 8. Esélyegyenlőség biztosítása
 
-24. § (1) Az esélyegyenlőség biztosítása érdekében
+24. § (1)[^76] Az esélyegyenlőség biztosítása érdekében az a jelentkező, aki a Tájékoztató megjelenése és a 12. § (4) bekezdésében foglalt határidő közötti időszak során
 
-a)[^76] a hátrányos helyzetű jelentkező minden jelentkezési helyén 40 többletpontra;
+a)[^77] a hátrányos helyzetű jelentkező minden jelentkezési helyén 40 többletpontra;
 
 b) a fogyatékossággal élő jelentkező minden jelentkezési helyén 40 többletpontra;
 
-c)[^77] az a jelentkező, aki a jelentkezési határidő és a felvételi döntés közötti időszakban gyermeke gondozása céljából fizetés nélküli szabadságon lévő, csecsemőgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesül, minden jelentkezési helyén 40 többletpontra
+c)[^78] gyermeke gondozása céljából fizetés nélküli szabadságon lévő, csecsemőgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesül, és ezt ezen időszakban kiállított igazolással bizonyítja, minden jelentkezési helyén 40 többletpontra
 
 jogosult.
 
@@ -20,5 +20,6 @@ jogosult.
 
 (6) A (3)–(5) bekezdés alapján nyújtott kedvezménynek vagy mentesítésnek a fogyatékosság jellegéhez kell igazodnia, és nem vezethet a felvételhez szükséges alapvető tanulmányi követelmények alóli teljes felmentéshez.
 
-[^76]: A 24. § (1) bekezdés a) pontja az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^77]: A 24. § (1) bekezdés c) pontja a 335/2014. (XII. 18.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
+[^76]: A 24. § (1) bekezdés nyitó szövegrésze a 345/2015. (XI. 19.) Korm. rendelet 46. § 18. pontja szerint módosított szöveg.
+[^77]: A 24. § (1) bekezdés a) pontja az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^78]: A 24. § (1) bekezdés c) pontja a 335/2014. (XII. 18.) Korm. rendelet 17. § j) pontja, a 345/2015. (XI. 19.) Korm. rendelet 46. § 18. pontja és 47. § 6. pontja szerint módosított szöveg.

@@ -28,7 +28,7 @@ h)[^29] az elérhetőségeit [lakóhelye és tartózkodási helye (értesítési
 
 i) az oktatási azonosító számát, amennyiben 2005-ben vagy azt követően magyar rendszerű középiskolában érettségizett.
 
-(3)[^30] A jelentkezési kérelemnek tartalmaznia kell továbbá legalább egy jelentkezési hely megjelölését a 10. § (2) bekezdés a) pontja szerint, valamint az alap- és kiegészítő díj befizetésének igazolását a készpénz-átutalási megbízás feladóvevényének másolatával vagy a banki átutalás igazolása másolatával.
+(3)[^30] A jelentkezési kérelemnek tartalmaznia kell továbbá legalább egy jelentkezési hely megjelölését a 10. § (2) bekezdés a) pontja szerint, valamint a kiegészítő díj befizetésének igazolását az átutalás igazolásának a másolatával.
 
 (4)[^31] A jelentkező a jelentkezési kérelem benyújtásakor rendelkezésére álló (korábban kézhez kapott) – a jelentkezési kérelem elbírálásához benyújtandó – dokumentumokat mellékelni köteles.
 
@@ -39,7 +39,7 @@ i) az oktatási azonosító számát, amennyiben 2005-ben vagy azt követően ma
 [^27]: A 9. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
 [^28]: A 9. § (2) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 5. §-val megállapított szöveg.
 [^29]: A 9. § (2) bekezdés h) pontja a 335/2014. (XII. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^30]: A 9. § (3) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^30]: A 9. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
 [^31]: A 9. § (4) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 5. §-val megállapított szöveg.
 [^32]: A 9. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
 [^33]: A 9. § (6) bekezdését a 335/2014. (XII. 18.) Korm. rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.
