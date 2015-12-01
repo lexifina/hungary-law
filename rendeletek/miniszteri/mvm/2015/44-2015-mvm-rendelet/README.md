@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-44-20-6
 | --- | --- | --- |
 | 2015-11-02 | 2015-44-20-6N.1 | 44/2015. (XI. 2.) MvM rendelet |
 | 2015-11-03 | 2015-44-20-6N.2 | 2010: CXXX. törvény |
+| 2015-12-01 | 2015-44-20-6N.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

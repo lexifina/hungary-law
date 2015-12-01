@@ -6,7 +6,7 @@
 
 a) a 9. § (1) bekezdése szerinti felhívás, illetve közbeszerzési eljárást meghirdető hirdetmény és a tervpályázati kiírás esetében: 150 000 forint,
 
-b)[^1]
+b) a közbeszerzési dokumentumok esetében: 150 000 forint,
 
 c) a közbeszerzési eljárást megindító, illetve meghirdető felhívás, és az ajánlattételi vagy részvételi határidő meghosszabbítását tartalmazó hirdetmény esetében: 50 000 forint,
 
@@ -23,5 +23,3 @@ e) az a) és c)–d) pontok alá nem tartozó hirdetmények esetében: 50 000 fo
 (6) Az ellenőrzési díj megfizetése alól mentesség illeti meg az ezer fő lakosnál kevesebb lélekszámú települések esetében a Kbt. 5. § (1) bekezdés c) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
 
 (7) Az ellenőrzési díj megfizetése alól mentesség illeti meg a külön jogszabály szerinti kedvezményezett járásokban található, a (6) bekezdés hatálya alá nem tartozó és tízezer főnél kevesebb lakosú települések esetében a Kbt. 5. § (1) bekezdés c) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
-
-[^1]: A 13. § (2) bekezdés b) pontja a 42. § (2) bekezdése alapján 2015. december 1-jén lép hatályba.
