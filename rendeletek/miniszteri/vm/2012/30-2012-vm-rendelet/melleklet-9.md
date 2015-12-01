@@ -112,8 +112,8 @@
 
 ## 3. felhasználói szintű számítógépes ismeret.
 
-9. melléklet a 30/2012. (III. 24.) VM rendelethez[^49]
+9. melléklet a 30/2012. (III. 24.) VM rendelethez[^57]
 
 LEADER HACS-ok illetékességi területei
 
-[^49]: A 9. melléklet a 106/2013. (XI. 26.) VM rendelet 3. § (7) bekezdés b) pontjával megállapított szöveg.
+[^57]: A 9. melléklet a 106/2013. (XI. 26.) VM rendelet 3. § (7) bekezdés b) pontjával megállapított szöveg.
