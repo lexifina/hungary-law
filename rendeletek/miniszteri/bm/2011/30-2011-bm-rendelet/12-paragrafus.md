@@ -1,4 +1,4 @@
-12. § (1) Közlekedési baleset helyszínén a rendőr a hatáskörébe nem tartozó ügyekben a helyszín megtekintése vagy a szemle lefolytatása érdekében az ügyeletet értesíti. A baleseti helyszínelő kiérkezéséig a rendőr gondoskodik az elsődleges intézkedések megtételére – különös tekintettel az elsősegélynyújtásra, értesítés adásra, helyszínbiztosításra, tanúkutatásra, adatgyűjtésre, kárelhárításra, a forgalom folyamatosságának biztosítására –, a kiérkezést követően segíti a baleseti helyszínelő munkáját, elvégzi a rábízott feladatokat, különös tekintettel a forgalomirányításra, valamint a helyszínfelmérésre.
+12. § (1)[^18] Közlekedési baleset helyszínén a rendőr a hatáskörébe nem tartozó ügyekben a helyszín megtekintése vagy a szemle lefolytatása érdekében a rendőrség ügyeletesét értesíti. A baleseti helyszínelő kiérkezéséig a rendőr gondoskodik az elsődleges intézkedések megtételére – különös tekintettel az elsősegélynyújtásra, értesítés adásra, helyszínbiztosításra, tanúkutatásra, adatgyűjtésre, kárelhárításra, a forgalom folyamatosságának biztosítására –, a kiérkezést követően segíti a baleseti helyszínelő munkáját, elvégzi a rábízott feladatokat, különös tekintettel a forgalomirányításra, valamint a helyszínfelmérésre.
 
 (2) A közúti járművezetésre vonatkozó szabályok megszegésével nem közúton súlyos sérülést vagy halált okozó közlekedési balesetnél is a közúti közlekedési balesetekre vonatkozó szabály szerint kell eljárni.
 
@@ -49,3 +49,5 @@ a) a sérült sürgős elszállítását a mentőszolgálat helyszínen lévő e
 b) a baleset helyszínéről a mentőszolgálat értesítése, valamint helyszínre érkezése különösen hosszú időt venne igénybe, de a sérült gyors elszállítása szükséges, és orvosi vélemény szerint ez nyilvánvalóan nem jár az állapotot súlyosbító következményekkel.
 
 (10) A rendőr vasúti, vízi vagy légiközlekedési balesetről – jelentéstételi kötelezettségével egyidejűleg – a közlekedésbiztonsági szervezetet értesíti.
+
+[^18]: A 12. § (1) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § b) pontja szerint módosított szöveg.

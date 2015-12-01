@@ -12,10 +12,12 @@ a) a határátlépés tényét, helyét és időpontját,
 
 b) a beutazás megtagadásának tényét,
 
-c) a határátlépéshez használt gépjármű sérülésére utaló jelzést,
+c)[^71]
 
 d) – több személy részére kiállított úti okmány használata esetén – a határátlépő személy azonosítását lehetővé tevő jelzést, valamint
 
 e) a más határátlépésre jogosító úti okmány meglétére utaló jelzést.
 
 (6) Amennyiben a harmadik országbeli állampolgár a tartózkodás időtartamára vonatkozó feltételek meglétét bizonyítja, úgy úti okmányába az általános rendőrségi feladatok ellátására létrehozott szerv a határátkelőhelyen kívül, utólag is köteles bejegyezni a határátlépés tényét, helyét és időpontját, valamint köteles ezzel egyidejűleg a harmadik országbeli állampolgár részére kiállítani a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és a tanácsi rendelet VIII. melléklete szerinti formanyomtatványt.
+
+[^71]: A 64. § (5) bekezdés c) pontját a 61/2015. (XI. 24.) BM rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.

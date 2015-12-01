@@ -1,6 +1,6 @@
 ## 32. Bilincs alkalmazása
 
-41. § (1) Bilincs alkalmazása, az Rtv. 48. §-ában meghatározott esetekben különösen azzal szemben indokolt
+41. § (1)[^48] A bilincs alkalmazása kizárólag az Rtv. 48. §-ában meghatározott esetekben, a kényszerítő eszköz alkalmazásának az Rtv.-ben és az e rendeletben meghatározott követelményei teljesülése esetén, különösen azzal szemben lehet indokolt,
 
 a) aki erőszakos, garázda magatartást tanúsít, és ennek abbahagyására testi kényszerrel nem késztethető,
 
@@ -12,11 +12,11 @@ d) akinek a jogszerű intézkedéssel szembeni ellenszegülése testi kényszerr
 
 e) aki önkárosító magatartást tanúsít vagy ilyen magatartás tanúsításával fenyeget,
 
-f) akinek fogvatartása során kísérését rendelték el, és a kísért személy veszélyessége azt indokolja, vagy
+f) akinek fogvatartása során kísérését rendelték el, illetve – az őrzés idejére – akit az előállító egységen vagy a fogdán kívül őriznek, vagy
 
 g) akit egyedül intézkedő rendőr állít elő.
 
-(2) A szolgálati elöljáró a fogva tartott személy bilincselését a kísérés, az előállító egységen vagy a fogdán kívüli őrzés idejére is elrendelheti, ha szökése bilincs alkalmazása nélkül nem akadályozható meg.
+(2)[^49]
 
 (3) Bilincselést az erre a célra rendszeresített eszközzel kell végrehajtani. Ennek hiányában vagy ezek meghibásodása, megrongálódása esetén más, ilyen célra megfelelő eszköz is alkalmazható, de tilos vékony fém- vagy műanyag huzalt, a jellegénél fogva sérülést okozó eszközt alkalmazni.
 
@@ -53,3 +53,6 @@ c) tárgyhoz bilincselésnek – az (5) bekezdésben meghatározott korlátozás
 (8) Intézkedése során a rendőr saját magához mást nem bilincselhet.
 
 (9) A bilincset a rendőr szolgálaton kívül nem tarthatja magánál.
+
+[^48]: A 41. § (1) bekezdése a 61/2015. (XI. 24.) BM rendelet 9. §-ával megállapított szöveg.
+[^49]: A 41. § (2) bekezdését a 61/2015. (XI. 24.) BM rendelet 18. § (1) bekezdés a) pontja hatályon kívül helyezte.
