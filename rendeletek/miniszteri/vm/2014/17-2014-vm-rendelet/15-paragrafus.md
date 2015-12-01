@@ -1,4 +1,4 @@
-## 14/A. §[^6] A nyertes ajánlattevő kérelmére a miniszter támogatási döntést hoz. A szerződés csak a támogatási döntés meghozatalát követően köthető meg.
+## 14/A. §[^8] A nyertes ajánlattevő kérelmére a miniszter támogatási döntést hoz. A szerződés csak a támogatási döntés meghozatalát követően köthető meg.
 
 15. § (1) A kifizetésről és annak mértékéről vagy a kifizetési kérelem elutasításáról szóló határozatot a miniszter – a bizonylatok megvizsgálása után – hozza meg.
 
@@ -8,4 +8,4 @@
 
 (4) A nyertes ajánlattevő részére engedélyezett kifizetések teljes összege nem haladhatja meg a szerződésben rögzített támogatási összeget.
 
-[^6]: A 14/A. §-t a 44/2014. (IV. 14.) VM rendelet 28. §-a iktatta be.
+[^8]: A 14/A. §-t a 44/2014. (IV. 14.) VM rendelet 28. §-a iktatta be.

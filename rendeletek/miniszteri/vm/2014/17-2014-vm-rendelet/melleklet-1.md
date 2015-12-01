@@ -1,4 +1,4 @@
-## 23. §[^11] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] megállapított 8. § (10) és (11) bekezdést a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor[^12] folyamatban lévő ügyekben is alkalmazni kell.
+## 24. §[^15] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 53/2015. (XII. 1.) MvM rendelettel [a továbbiakban: 53/2015. (XII. 1.) MvM rendelet] megállapított 8. § (10) és (12) bekezdést az 53/2015. (XII. 1.) MvM rendelet hatálybalépésekor[^16] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 17/2014. (III. 7.) VM rendelethez
 
@@ -26,5 +26,5 @@ HOP 3. TENGELY INTÉZKEDÉSEINEK KIVÁLASZTÁSI KRITÉRIUMAI
 
 | II. | Összesen | 100 |
 
-[^11]: A 23. §-t a 48/2015. (XI. 2.) MvM rendelet 23. § (2) bekezdése iktatta be.
-[^12]: A hatálybalépés időpontja 2015. november 3.
+[^15]: A 24. §-t az 53/2015. (XII. 1.) MvM rendelet 29. § (2) bekezdése iktatta be.
+[^16]: A hatálybalépés időpontja 2015. december 1.

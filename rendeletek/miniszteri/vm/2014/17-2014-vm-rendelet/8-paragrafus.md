@@ -1,6 +1,6 @@
 ## 5. A pályázat benyújtása
 
-8. § (1)[^3] A pályázati felhívásokat az agrár-vidékfejlesztésért felelős miniszter (a továbbiakban: miniszter) jóváhagyását követően a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) honlapján kell közzétenni.
+8. § (1)[^4] A pályázati felhívásokat az agrár-vidékfejlesztésért felelős miniszter (a továbbiakban: miniszter) jóváhagyását követően a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) honlapján kell közzétenni.
 
 (2) A pályázatokat a pályázati felhívásban megadott címre és határidőben kell benyújtani. A pályázat benyújtására nyitva álló határidő elmulasztása esetén igazolásnak nincs helye.
 
@@ -18,10 +18,13 @@
 
 (9) A pályázati felhívásban előírt feltételeket és a pályázatnak a támogatási döntés alapján elfogadott részét a támogatási döntés közlésétől számított 18 hónapon belül kell teljesíteni azzal, hogy a pályázati felhívás ettől eltérő határidőt állapíthat meg.
 
-(10)[^4] Támogatásigénylési csomag – a (11) bekezdésben foglalt kivétellel – 2015. november 30-át követően nem nyújtható be.
+(10)[^5] Támogatásigénylési csomag – a (11) és (12) bekezdésben foglalt kivétellel – 2015. november 30-át követően nem nyújtható be.
 
-(11)[^5] Az 5. § c) pontja szerinti intézkedések közül a közbeszerzési eljárással megvalósulók esetén a támogatásigénylési csomag 2015. december 15. napjáig nyújtható be.
+(11)[^6] Az 5. § c) pontja szerinti intézkedések közül a közbeszerzési eljárással megvalósulók esetén a támogatásigénylési csomag 2015. december 15. napjáig nyújtható be.
 
-[^3]: A 8. § (1) bekezdése a 2/2014. (IX. 15.) MvM rendelet 20. §-ával megállapított szöveg.
-[^4]: A 8. § (10) bekezdése a 48/2015. (XI. 2.) MvM rendelet 24. §-a szerint módosított szöveg.
-[^5]: A 8. § (11) bekezdését a 48/2015. (XI. 2.) MvM rendelet 23. § (1) bekezdése iktatta be.
+(12)[^7] Az 5. § a) pontja szerinti intézkedések esetében a támogatásigénylési csomag 2015. december 31. napjáig nyújtható be.
+
+[^4]: A 8. § (1) bekezdése a 2/2014. (IX. 15.) MvM rendelet 20. §-ával megállapított szöveg.
+[^5]: A 8. § (10) bekezdése a 48/2015. (XI. 2.) MvM rendelet 24. §-a, az 53/2015. (XII. 1.) MvM rendelet 30. §-a szerint módosított szöveg.
+[^6]: A 8. § (11) bekezdését a 48/2015. (XI. 2.) MvM rendelet 23. § (1) bekezdése iktatta be.
+[^7]: A 8. § (12) bekezdését az 53/2015. (XII. 1.) MvM rendelet 29. § (1) bekezdése iktatta be.
