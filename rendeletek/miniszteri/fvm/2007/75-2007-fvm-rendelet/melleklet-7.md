@@ -60,7 +60,7 @@
 
 | Dió, mogyoró és gesztenye | 11 | 14 | 18 | 22 | 26 | 31 |
 
-7. számú melléklet a 75/2007. (VII. 27.) FVM rendelethez[^59]
+7. számú melléklet a 75/2007. (VII. 27.) FVM rendelethez[^60]
 
 Értékelési szempontok
 
@@ -158,4 +158,4 @@
 
 | Mindösszesen: | max. 100 |
 
-[^59]: A 7. számú mellékletet a 7/2008. (I. 19.) FVM rendelet 7. § (2) bekezdése iktatta be.
+[^60]: A 7. számú mellékletet a 7/2008. (I. 19.) FVM rendelet 7. § (2) bekezdése iktatta be.

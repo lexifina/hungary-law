@@ -52,6 +52,6 @@
 
 | csemegeszőlő | 0,1 | 0,5 | 3000 feletti |
 
-5. számú melléklet a 75/2007. (VII. 27.) FVM rendelethez[^57]
+5. számú melléklet a 75/2007. (VII. 27.) FVM rendelethez[^58]
 
-[^57]: Az 5. számú melléklet a 7/2008. (I. 19.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 5. számú melléklet a 7/2008. (I. 19.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.

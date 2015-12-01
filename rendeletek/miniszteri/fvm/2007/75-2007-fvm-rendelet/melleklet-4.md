@@ -52,6 +52,6 @@
 
 | csemegeszőlő | 8 | 3000 feletti |
 
-4. számú melléklet a 75/2007. (VII. 27.) FVM rendelethez[^56]
+4. számú melléklet a 75/2007. (VII. 27.) FVM rendelethez[^57]
 
-[^56]: A 4. számú melléklet a 7/2008. (I. 19.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^57]: A 4. számú melléklet a 7/2008. (I. 19.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.

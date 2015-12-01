@@ -88,6 +88,6 @@
 
 | Rizamat |
 
-6. számú melléklet a 75/2007. (VII. 27.) FVM rendelethez[^58]
+6. számú melléklet a 75/2007. (VII. 27.) FVM rendelethez[^59]
 
-[^58]: A 6. számú mellékletet a 7/2008. (I. 19.) FVM rendelet 7. § (2) bekezdése iktatta be.
+[^59]: A 6. számú mellékletet a 7/2008. (I. 19.) FVM rendelet 7. § (2) bekezdése iktatta be.
