@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-88-20-8
 | 2013-04-30 | 2007-88-20-82.12 | 30/2013. (IV. 30.) VM rendelet |
 | 2013-12-17 | 2007-88-20-82.13 | 121/2013. (XII. 16.) VM rendelet |
 | 2015-11-03 | 2007-88-20-82.14 | 48/2015. (XI. 2.) MvM rendelet |
+| 2015-12-01 | 2007-88-20-82.15 | 53/2015. (XII. 1.) MvM rendelet |

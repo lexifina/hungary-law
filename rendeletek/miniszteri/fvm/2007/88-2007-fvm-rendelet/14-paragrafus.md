@@ -1,6 +1,6 @@
-14. §[^47] (1)[^48] Ha a 3. § (1) bekezdés alapján a kérelemben megjelölt és a jóváhagyott célállomány a 2. melléklet szerinti pontnál alacsonyabb pontértékű célállománytípussal kerül megvalósításra, úgy az ügyfél az adott erdőrészletre eső ténylegesen megvalósított célállomány alaptámogatása után járó támogatási összeg 85%-ára jogosult.
+14. §[^48] (1)[^49] Ha a 3. § (1) bekezdés alapján a kérelemben megjelölt és a jóváhagyott célállomány a 2. melléklet szerinti pontnál alacsonyabb pontértékű célállománytípussal kerül megvalósításra, úgy az ügyfél az adott erdőrészletre eső ténylegesen megvalósított célállomány alaptámogatása után járó támogatási összeg 85%-ára jogosult.
 
-(2)[^49] Ha megállapításra kerül, hogy a támogatásra jogosult az 5. § (5) bekezdés a) pontjában foglaltakat nem tartotta be, úgy az adott erdőrészletre eső alaptámogatás összegének 10%-át köteles visszafizetni.
+(2)[^50] Ha megállapításra kerül, hogy a támogatásra jogosult az 5. § (5) bekezdés a) pontjában foglaltakat nem tartotta be, úgy az adott erdőrészletre eső alaptámogatás összegének 10%-át köteles visszafizetni.
 
 (3) Ha megállapításra kerül, hogy a támogatásra jogosult a 6. § (2) bekezdésében foglalt kiegészítő intézkedéseket a 6. § (5) bekezdés a) pontja ellenére úgy hajtotta végre, hogy azok
 
@@ -14,6 +14,6 @@ b) funkciójuk ellátására alkalmasak, de a 3. számú mellékletben meghatár
 
 (6) Amennyiben megállapításra kerül, hogy a támogatásra jogosult mégsem felel meg a 9. § (4) bekezdésében foglaltaknak, abban az esetben csak az alapszintű jövedelempótló támogatás 50%-ra jogosult, valamint az ezen felül korábban felvett jövedelempótló támogatási összeg jogosulatlanul igénybe vett támogatásnak minősül.
 
-[^47]: A 14. § a 149/2008. (XI. 12.) FVM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 11. §-a alapján a 14. § (5)–(6) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell.
-[^48]: A 14. § (1) bekezdése a 11/2010. (VIII. 30.) VM rendelet 10. §-ával megállapított szöveg.
-[^49]: A 14. § (2) bekezdése a 11/2010. (VIII. 30.) VM rendelet 10. §-ával megállapított szöveg.
+[^48]: A 14. § a 149/2008. (XI. 12.) FVM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 11. §-a alapján a 14. § (5)–(6) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell.
+[^49]: A 14. § (1) bekezdése a 11/2010. (VIII. 30.) VM rendelet 10. §-ával megállapított szöveg.
+[^50]: A 14. § (2) bekezdése a 11/2010. (VIII. 30.) VM rendelet 10. §-ával megállapított szöveg.
