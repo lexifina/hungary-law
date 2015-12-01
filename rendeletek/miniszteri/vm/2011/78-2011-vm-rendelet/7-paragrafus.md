@@ -28,7 +28,7 @@ a) az értékeléshez a 2. mellékletben meghatározott okiratokat;
 
 b) az MVH által rendszeresített, és annak honlapján közzétett formanyomtatványon az állategészségügyi hatóság igazolását az állattartó telep nyilvántartásba vételéről;
 
-c) a Mezőgazdasági Parcella Azonosító Rendszerről szóló 115/2003. (XI. 13.) FVM rendelet szerinti egyedi blokktérképet, amelyen be kell jelölni a beruházással érintett baromfi telepet;
+c)[^3] a Mezőgazdasági Parcella Azonosító Rendszerről szóló 71/2015. (XI. 3.) FM rendelet szerinti egyedi blokktérképet, amelyen be kell jelölni a beruházással érintett baromfi telepet;
 
 d) ha az ügyfél őstermelő, akkor az érvényes őstermelői igazolvány 30 napnál nem régebbi hiteles másolatát;
 
@@ -39,3 +39,5 @@ f) az ügyfél nyilatkozatát arra vonatkozóan, hogy a baromfi telep a támogat
 (5) A gépberuházás megvalósítása e rendelet hatálybalépésekor megkezdhető.
 
 (6) A gépberuházás megvalósítási helye a támogatási kérelemre vonatkozó benyújtási időszakot követően nem módosítható.
+
+[^3]: A 7. § (4) bekezdés c) pontja az 53/2015. (XII. 1.) MvM rendelet 17. §-a szerint módosított szöveg.
