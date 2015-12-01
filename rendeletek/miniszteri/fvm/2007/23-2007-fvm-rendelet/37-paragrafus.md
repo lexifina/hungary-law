@@ -1,4 +1,4 @@
-## 36/N. §[^286] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 48/2015. (XI. 2.) MvM rendelettel [a továbbiakban: 48/2015. (XI. 2.) MvM rendelet] megállapított 16/B. § (1) és (1b) bekezdését, a 17. § (5) bekezdését, 25. § (2a) és (2b) bekezdését, valamint 30/B. §-t a 48/2015. (XI. 2.) MvM rendelet hatálybalépésekor[^287] folyamatban lévő eljárásokban és ügyekben is alkalmazni kell.
+## 36/O. §[^290] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 53/2015. (XII. 1.) MvM rendelettel [a továbbiakban: 53/2015. (XII. 1.) MvM rendelet] megállapított 25. § (9) bekezdést, 29. § (1) bekezdés d) pontját, 30/B. §-t és 35. § (6) bekezdést az 53/2015. (XII. 1.) MvM rendelet hatálybalépésekor[^291] folyamatban lévő eljárásokban és ügyekben is alkalmazni kell.
 
 ## VII. Fejezet
 
@@ -12,8 +12,8 @@ b) a Bizottság 1974/2006/EK rendelete (2006. december 15.) az Európai Mezőgaz
 
 c) a Bizottság 1975/2006/EK rendelete (2006. december 7.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról;
 
-d)[^288] A Bizottság 65/2011/EU rendelete (2011. január 27.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról.
+d)[^292] A Bizottság 65/2011/EU rendelete (2011. január 27.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról.
 
-[^286]: A 36/N. §-t a 48/2015. (XI. 2.) MvM rendelet 1. § (6) bekezdése iktatta be.
-[^287]: A hatálybalépés időpontja 2015. november 3.
-[^288]: A 37. § d) pontját a 137/2012. (XII. 22.) VM rendelet 13. §-a iktatta be.
+[^290]: A 36/O. §-t az 53/2015. (XII. 1.) MvM rendelet 2. § (3) bekezdése iktatta be.
+[^291]: A hatálybalépés időpontja 2015. december 1.
+[^292]: A 37. § d) pontját a 137/2012. (XII. 22.) VM rendelet 13. §-a iktatta be.

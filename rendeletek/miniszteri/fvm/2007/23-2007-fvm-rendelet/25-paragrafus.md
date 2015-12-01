@@ -18,6 +18,8 @@
 
 (8)[^164] Amennyiben az ügyfél kizárólag azért nem tudja a (2) bekezdésben foglalt határidőn belül megvalósítani a műveletet, mert a művelet megvalósításához szükséges jogerős hatósági engedéllyel vagy engedélyekkel nem rendelkezik, de a megszerzésre irányuló eljárást a (2) bekezdésben szereplő határidő lejárta előtt megindította és ezt az MVH felé hitelt érdemlően igazolja, valamint a jogerős engedély(eke)t az utolsó kifizetési kérelméhez csatolja, úgy a művelet megvalósításához szükséges jogerős hatósági engedély vagy engedélyek megszerzése tekintetében a (2) bekezdés szerinti határidőt megtartottnak kell tekinteni.
 
+(9)[^165] Megvalósítottnak kell tekinteni továbbá azt a műveletet is, amely tekintetében a megvalósításhoz és működtetéshez szükséges jogerős hatósági engedély vagy engedélyek – a megszerzésükre irányuló eljárás megindításának időpontjától függetlenül – az utolsó kifizetési kérelemre indult eljárás során benyújtásra kerültek.
+
 [^156]: A 25. § (1) bekezdése a 137/2012. (XII. 22.) VM rendelet 6. §-ával megállapított szöveg.
 [^157]: A 25. § (2) bekezdése a 124/2011. (XII. 21.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^158]: A 25. § (2a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 1. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 2. § b) pontja, a 48/2015. (XI. 2.) MvM rendelet 2. § b) pontja szerint módosított szöveg.
@@ -27,3 +29,4 @@
 [^162]: A 25. § (6) bekezdését a 41/2010. (XII. 20.) VM rendelet 2. §-a iktatta be.
 [^163]: A 25. § (7) bekezdését a 41/2010. (XII. 20.) VM rendelet 2. §-a iktatta be.
 [^164]: A 25. § (8) bekezdését a 11/2011. (II. 18.) VM rendelet 2. §-a iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^165]: A 25. § (9) bekezdését az 53/2015. (XII. 1.) MvM rendelet 2. § (1) bekezdése iktatta be.
