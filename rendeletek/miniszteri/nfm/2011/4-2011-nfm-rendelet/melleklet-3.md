@@ -1,8 +1,8 @@
-## A minden egyetemes szolgáltató által alkalmazandó árszabások legmagasabb egyetemes szolgáltatási árai (Ft/kWh)
+## A minden egyetemes szolgáltató által alkalmazandó árszabások legmagasabb egyetemes szolgáltatási árai elosztói területenként (Ft/kWh)
 
 |  | A | B | C | D | E |
 
-| 1 | Árszabások | EDF DÉMÁSZ Zrt. | E.ON Energia- szolgáltató Kft. | ELMŰ Nyrt. | ÉMÁSZ Nyrt. |
+| 1 | Árszabások | EDF DÉMÁSZ Hálózati Elosztó Kft. elosztói működési területén | E.ON Dél-dunántúli Áramhálózati Zrt., E.ON Észak-dunántúli Áramhálózati Zrt., E.ON Tiszántúli Áramhálózati Zrt. elosztói működési területén | ELMŰ Hálózati Kft. elosztói működési területén | ÉMÁSZ Hálózati Kft. elosztói működési területén |
 
 | 2 | A1 |  |  |  |  |
 
@@ -30,4 +30,4 @@
 
 3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^15]
 
-[^15]: A 3. melléklet a 64/2013. (X. 30.) NFM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^15]: A 3. melléklet a 69/2015. (XI. 30.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
