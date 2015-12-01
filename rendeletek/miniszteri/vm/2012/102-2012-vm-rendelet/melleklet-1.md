@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 52. cikk b) pontja ii. alpontjának végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 102/2012. (X. 1.) VM rendelethez[^32]
+1. melléklet a 102/2012. (X. 1.) VM rendelethez[^35]
 
 Értékelési szempontok
 
@@ -4070,4 +4070,4 @@
 
 1.31. Bükk-Térségi LEADER Egyesület
 
-[^32]: Az 1. melléklet a 113/2012. (XI. 9.) VM rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^35]: Az 1. melléklet a 113/2012. (XI. 9.) VM rendelet 2. § (3) bekezdése szerint módosított szöveg.
