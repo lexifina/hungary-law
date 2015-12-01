@@ -2,7 +2,7 @@
 
 ## 3. Általános előírások
 
-3. § (1)[^4] Támogatás igénybevételére az az erdőgazdálkodó jogosult, aki
+3. § (1)[^6] Támogatás igénybevételére az az erdőgazdálkodó jogosult, aki
 
 a) rendelkezik az adott erdőrészletre vonatkozó, az erdészeti hatóság által jóváhagyott erdőtervvel, vagy jóváhagyott erdőtelepítési kivitelezési tervvel, vagy
 
@@ -14,4 +14,4 @@ a) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők rész�
 
 b) az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló miniszteri rendeletben meghatározott előírásokat.
 
-[^4]: A 3. § (1) bekezdése a 68/2013. (VII. 29.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdése a 68/2013. (VII. 29.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
