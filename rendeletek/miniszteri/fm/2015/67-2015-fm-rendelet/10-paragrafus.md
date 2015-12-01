@@ -1,9 +1,11 @@
-## 9. § Az Inyvhr. 60. § (1) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben (a továbbiakban: Ket.)” szövegrész helyébe az „a Ket.-ben” szöveg lép.
+## 1–9. §[^2]
 
 ## 10. § Hatályát veszti az Inyvhr.
 
-a) 126/C. §-a,
+a)[^3]
 
-b)[^1]
+b)[^4]
 
-[^1]: A 10. § b) pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^2]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 10. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 10. § b) pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
