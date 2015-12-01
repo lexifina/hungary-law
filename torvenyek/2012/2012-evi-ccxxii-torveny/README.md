@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-222-00-00
 | --- | --- | --- |
 | 2012-12-28 | 2012. évi CCXXII. törvény | 2012-222-00-00.0 (közlönyállapot) |
 | 2012-12-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-222-00-00.1 |
+| 2015-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-222-00-00.2 |
