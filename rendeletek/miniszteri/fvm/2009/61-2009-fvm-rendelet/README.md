@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-61-20-8
 | 2014-02-18 | 2009-61-20-82.17 | 11/2014. (II. 17.) VM rendelet |
 | 2014-12-31 | 2009-61-20-82.18 | 68/2013. (VII. 29.) VM rendelet |
 | 2015-06-10 | 2009-61-20-82.19 | 68/2013. (VII. 29.) VM rendelet |
+| 2015-12-01 | 2009-61-20-82.20 | 53/2015. (XII. 1.) MvM rendelet |
