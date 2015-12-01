@@ -70,7 +70,7 @@
 
 | 34. | Összesen: | 100 |
 
-4. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^103]
+4. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^104]
 
 Gyeptelepítési terv
 
@@ -314,4 +314,4 @@ c) direktvetés (direktvetőgéppel)
 
 |  | 6. évtől |  |  |
 
-[^103]: A 4. számú mellékletet a 14/2009. (II. 28.) FVM rendelet 21. § (2) bekezdése iktatta be, szövege a 69/2012. (VII. 13.) VM rendelet 10. §-ával megállapított szöveg.
+[^104]: A 4. számú mellékletet a 14/2009. (II. 28.) FVM rendelet 21. § (2) bekezdése iktatta be, szövege a 69/2012. (VII. 13.) VM rendelet 10. §-ával megállapított szöveg.
