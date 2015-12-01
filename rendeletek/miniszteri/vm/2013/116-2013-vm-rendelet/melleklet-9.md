@@ -16,7 +16,7 @@
 
 | 6. | Teleszkópos rakodógépek 1913 | Rakodógépek munkaeszközei adapterei 2512 |
 
-9. melléklet a 116/2013. (XII. 12.) VM rendelethez[^53]
+9. melléklet a 116/2013. (XII. 12.) VM rendelethez[^56]
 
 A 11. § (12) bekezdés szerinti árajánlat minimális tartalmi elemei:
 
@@ -60,4 +60,4 @@ III. Az árajánlattevő aláírása
 
 IV. Az árajánlat kiállításának dátuma
 
-[^53]: A 9. mellékletet a 33/2015. (VII. 13.) MvM rendelet 15. § (3) bekezdése iktatta be.
+[^56]: A 9. mellékletet a 33/2015. (VII. 13.) MvM rendelet 15. § (3) bekezdése iktatta be.

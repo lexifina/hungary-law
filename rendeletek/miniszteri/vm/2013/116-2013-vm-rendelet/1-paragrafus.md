@@ -26,11 +26,11 @@
 
 12. induló vállalkozás:
 
-a)[^1] az 1. célterület vonatkozásában az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) Vhr. 3. § 19. pontjától eltérően a jogi személy, ha a támogatási kérelem benyújtását megelőző 12 hónapon belül, de legkésőbb 2013. szeptember 1-ig jegyezték be, az egyéni vállalkozó valamint az őstermelő, ha egyéni vállalkozói nyilvántartásba vételére, vagy őstermelői igazolványának kiadására a támogatási kérelem benyújtását megelőző 12 hónapon belül, de legkésőbb 2013. szeptember 1-ig került sor,
+a)[^2] az 1. célterület vonatkozásában az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) Vhr. 3. § 19. pontjától eltérően a jogi személy, ha a támogatási kérelem benyújtását megelőző 12 hónapon belül, de legkésőbb 2013. szeptember 1-ig jegyezték be, az egyéni vállalkozó valamint az őstermelő, ha egyéni vállalkozói nyilvántartásba vételére, vagy őstermelői igazolványának kiadására a támogatási kérelem benyújtását megelőző 12 hónapon belül, de legkésőbb 2013. szeptember 1-ig került sor,
 
-b)[^2] a 2. célterület vonatkozásában a Vhr. 3. § 19. pontjától eltérően a jogi személy, ha a támogatási kérelem benyújtását megelőző 12 hónapon belül, de legkésőbb 2013. szeptember 1-ig jegyezték be, az egyéni vállalkozó, valamint az őstermelő, ha egyéni vállalkozói nyilvántartásba vételére, vagy őstermelői igazolványának kiadására a támogatási kérelem benyújtását megelőző 12 hónapon belül, de legkésőbb 2013. szeptember 1-ig került sor,
+b)[^3] a 2. célterület vonatkozásában a Vhr. 3. § 19. pontjától eltérően a jogi személy, ha a támogatási kérelem benyújtását megelőző 12 hónapon belül, de legkésőbb 2013. szeptember 1-ig jegyezték be, az egyéni vállalkozó, valamint az őstermelő, ha egyéni vállalkozói nyilvántartásba vételére, vagy őstermelői igazolványának kiadására a támogatási kérelem benyújtását megelőző 12 hónapon belül, de legkésőbb 2013. szeptember 1-ig került sor,
 
-c)[^3] az 1. és a 2. célterület vonatkozásában az a) és b) ponttól eltérően a jogi személy, ha a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt) 15. § (1) bekezdése alapján legkésőbb 2013. szeptember 1-ig előtársaságként megkezdte működését.
+c)[^4] az 1. és a 2. célterület vonatkozásában az a) és b) ponttól eltérően a jogi személy, ha a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt) 15. § (1) bekezdése alapján legkésőbb 2013. szeptember 1-ig előtársaságként megkezdte működését.
 
 13. kertészeti gépbeszerzés jogcím: az Európai Mezőgazdasági Vidékfejlesztési Alapból kertészeti gépek, technológia berendezések beszerzéséhez a 2013. évben nyújtandó támogatások részletes feltételeiről szóló 62/2013. (VII. 24.) VM rendelet alapján 2013. augusztus 15. és 2013. október 18. közötti támogatási kérelem benyújtási időszak tekintetében meghirdetett támogatási jogcím;
 
@@ -70,11 +70,11 @@ b) a 2. célterület esetében a támogatási kérelemre jóváhagyott támogat�
 
 24. támogatási összeg: a jogerős támogatási határozattal a nettó kiadás, valamint az ahhoz kapcsolódó általános forgalmi adó tekintetében jóváhagyott kötelezettségvállalás együttes összege.
 
-(2)[^4] E rendelet vonatkozásában a Vhr. 7. § (1) bekezdés b) pontjában, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 15. § (1) bekezdés b) pontjában, 15. § (2) bekezdésében, 16/B. § (2) bekezdésében, 17. § (2) és (4) bekezdéseiben, 23. § (1) bekezdés b) pontjában, 25. § (1) és (6)–(8) bekezdéseiben, 25/A. §-ában, 27. § (1) bekezdés b) pontjában és e)–g) pontjaiban, 30. § (1) bekezdés c)–d) pontjaiban, (12) bekezdésében, 30/A. §-ában, 31. § (3) bekezdésében, 33. § (4) bekezdésében, valamint 35. § (5), (9) és (13) bekezdéseiben foglalt rendelkezések nem alkalmazandóak.
+(2)[^5] E rendelet vonatkozásában a Vhr. 7. § (1) bekezdés b) pontjában, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 15. § (1) bekezdés b) pontjában, 15. § (2) bekezdésében, 16/B. § (2) bekezdésében, 17. § (2) és (4) bekezdéseiben, 23. § (1) bekezdés b) pontjában, 25. § (1) és (6)–(8) bekezdéseiben, 25/A. §-ában, 27. § (1) bekezdés b) pontjában és e)–g) pontjaiban, 30. § (1) bekezdés c)–d) pontjaiban, (12) bekezdésében, 30/A. §-ában, 31. § (3) bekezdésében, 33. § (4) bekezdésében, valamint 35. § (5), (9) és (13) bekezdéseiben foglalt rendelkezések nem alkalmazandóak.
 
 (3) E rendelet vonatkozásában a fiatal mezőgazdasági termelői jogosultság a Vhr.-től eltérően 2014. december 31. napjáig, de legkésőbb az ügyfél 40. életévének betöltéséig érvényes.
 
-[^1]: Az 1. § (1) bekezdés 12. pont a) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (1) bekezdés 12. pont b) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés 12. pont c) alpontját az 1/2014. (IX. 15.) MvM rendelet 38. § (1) bekezdése iktatta be.
-[^4]: Az 1. § (2) bekezdése az 1/2014. (IX. 15.) MvM rendelet 38. § (2) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 93. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 12. pont a) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés 12. pont b) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés 12. pont c) alpontját az 1/2014. (IX. 15.) MvM rendelet 38. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (2) bekezdése az 1/2014. (IX. 15.) MvM rendelet 38. § (2) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 93. § a) pontja szerint módosított szöveg.
