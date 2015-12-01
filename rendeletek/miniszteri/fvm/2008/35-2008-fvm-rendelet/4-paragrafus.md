@@ -6,7 +6,7 @@ a) a termelői csoport (a továbbiakban: TCs);
 
 b) a mezőgazdasági termelő, ha a beruházással érintett mezőgazdasági üzemének mérete meghaladja a 4 európai méretegységet (EUME)
 
-[a továbbiakban a)–b) pontok együtt: ügyfél].
+## [a továbbiakban a)–b) pontok együtt: ügyfél].
 
 (2) Az (1) bekezdés b) pontjában meghatározott üzemméret feltétel nem vonatkozik az induló vállalkozásra. Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban köteles vállalni, hogy legkésőbb a beruházás befejezését követő első lezárt teljes naptári évben megfelel az (1) bekezdés b) pontjában meghatározott feltételnek.
 
@@ -32,17 +32,17 @@ d) ha az ügyfél a 4. számú melléklet szerinti vonatkozó értékelési szem
 
 e) a támogatási kérelemhez csatolni kell a támogatással érintett telephelyeket is ábrázoló:
 
-ea) a Mezőgazdasági Parcella Azonosító Rendszerről szóló 115/2003. (XI. 13.) FVM rendelet szerinti egyedi blokktérkép másolatát,
+ea)[^3] a Mezőgazdasági Parcella Azonosító Rendszerről szóló 71/2015. (XI. 3.) FM rendelet szerinti egyedi blokktérkép másolatát,
 
 eb) ingatlan-nyilvántartási térkép másolatot (helyszínrajz),
 
-amelyeken be kell jelölni a beruházással érintett telephelyeket, illetve létesítményeket.
+## amelyeken be kell jelölni a beruházással érintett telephelyeket, illetve létesítményeket.
 
 (4) Nem vehető igénybe támogatás, ha a támogatási kérelem benyújtásakor az ügyfélnek e rendelet alapján támogatott, lezáratlan művelete van.
 
 (5) A Vhr. 17. § (4) bekezdésétől eltérően a kérelem benyújtását megelőzően, de legkorábban a kérelem benyújtási évének január 1. napjától megkezdhető a kizárólag a Gépkatalógusban szereplő gép, berendezés megvásárlása, megrendelése.
 
-(6)[^2] A támogatási határozat közlését követően:
+(6)[^4] A támogatási határozat közlését követően:
 
 a) az ügyfél vagy annak alkalmazottja köteles az Új Magyarország Vidékfejlesztési Program keretében, e jogcím tárgyában szervezett kötelező képzésen részt venni az utolsó kifizetési kérelem benyújtása előtt,
 
@@ -50,4 +50,5 @@ b) mezőgazdasági termelő ügyfél esetén az ügyfél, TCs ügyfél esetén a
 
 c) a Vhr. 25. § (2) bekezdésétől eltérően az e rendelet alapján támogatott műveletet 3 éven belül meg kell valósítani.
 
-[^2]: A 4. § (6) bekezdése a 23/2010. (III. 16.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (3) bekezdés e) pont ea) alpontja az 53/2015. (XII. 1.) MvM rendelet 10. §-a szerint módosított szöveg.
+[^4]: A 4. § (6) bekezdése a 23/2010. (III. 16.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.

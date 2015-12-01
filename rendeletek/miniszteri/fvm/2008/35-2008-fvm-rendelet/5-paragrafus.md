@@ -16,7 +16,7 @@ ca) az ügyfél fiatal mezőgazdasági termelő és a fejlesztés Natura 2000 te
 
 cb) az ügyfél fiatal mezőgazdasági termelő és a fejlesztés kedvezőtlen adottságú területen valósul meg.
 
-(4)[^3] A (7) bekezdés d) pontja szerinti egyéb elszámolható kiadások tekintetében, ha telephelyenként a támogatási intenzitások a (3) bekezdésben foglaltak alapján eltérnek, akkor az egyéb elszámolható kiadásokra egységesen a legalacsonyabb intenzitást kell figyelembe venni.
+(4)[^5] A (7) bekezdés d) pontja szerinti egyéb elszámolható kiadások tekintetében, ha telephelyenként a támogatási intenzitások a (3) bekezdésben foglaltak alapján eltérnek, akkor az egyéb elszámolható kiadásokra egységesen a legalacsonyabb intenzitást kell figyelembe venni.
 
 (5) A tervezett elszámolható kiadásokat a (7) bekezdés d) pontjában foglalt kiadások kivételével, a támogatási kérelemben létesítményenként egyedileg és összesítve is fel kell tüntetni.
 
@@ -32,7 +32,7 @@ c) az ÉNGY-ben beazonosítható, telephelyen belüli a 3. § (3) bekezdés c) p
 
 d) a Vhr. 31. §-ban meghatározottak szerinti egyéb elszámolható kiadásra
 
-kifizetett/kifizetni tervezett pénzösszeg.
+## kifizetett/kifizetni tervezett pénzösszeg.
 
 (8) A jóváhagyott elszámolható kiadások mértéke és aránya nem haladhatja meg:
 
@@ -54,4 +54,4 @@ b) ha az a) pontban foglaltak alapján a kapacitás nem állapítható meg, akko
 
 c) fogadógarat esetén a fogadógaratba beépített anyagmozgató maximális szállítási teljesítménye alapján.
 
-[^3]: Az 5. § (4) bekezdése a 23/2010. (III. 16.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (4) bekezdése a 23/2010. (III. 16.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.

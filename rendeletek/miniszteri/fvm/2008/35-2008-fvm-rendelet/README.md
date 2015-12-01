@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-35-20-8
 | 2011-07-01 | 2008-35-20-82.13 | 57/2011. (VI. 20.) VM rendelet |
 | 2012-06-22 | 2008-35-20-82.14 | 56/2012. (VI. 21.) VM rendelet |
 | 2015-02-17 | 2008-35-20-82.15 | 7/2015. (II. 17.) MvM rendelet |
+| 2015-12-01 | 2008-35-20-82.16 | 37/2017. (XII. 27.) MvM rendelet |

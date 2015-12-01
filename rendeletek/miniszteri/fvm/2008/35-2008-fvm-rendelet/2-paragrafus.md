@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-a)[^1] levegő-tisztaság védelmi előírások: a levegő védelméről szóló jogszabály (a továbbiakban: LVR.) foglalt követelmények;
+a)[^2] levegő-tisztaság védelmi előírások: a levegő védelméről szóló jogszabály (a továbbiakban: LVR.) foglalt követelmények;
 
 b) létesítmény: a mezőgazdasági üzemben meglévő, a támogatási kérelem benyújtásakor az ügyfél tulajdonában vagy használatában álló terménytároló, illetve támogatással létesíteni tervezett, vagy ügyfél tulajdonában, vagy használatában álló fogadógarat, előtéttároló, hídmérleg, terménytisztító, -szárító, valamint az ezekhez kapcsolódó tranzittároló, minőségellenőrző-vezérlőépület, a Gépkatalógus 321. gépalcsoportba besorolható (kivéve: 3216. gépváltozat) anyagmozgató berendezés (a továbbiakban: anyagmozgató) és a 3922. gépváltozatba besorolható szálas takarmány pelletáló;
 
@@ -34,4 +34,4 @@ n) támogatási egység: olyan tevékenység, amelyhez a rendelet elszámolható
 
 (3) Az e rendeletben nem szabályozott kérdésekben a Vhr.-ben foglaltak az irányadók.
 
-[^1]: A 2. § (1) bekezdés a) pontja az 5/2011. (I. 14.) VM rendelet 6. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés a) pontja az 5/2011. (I. 14.) VM rendelet 6. §-a szerint módosított szöveg.
