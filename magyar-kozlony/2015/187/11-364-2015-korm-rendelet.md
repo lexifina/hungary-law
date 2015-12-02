@@ -1,0 +1,101 @@
+# A Kormány 364/2015. (XII. 2.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 187. szám, 2015. december 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e8c67b4edb91f0a164c720f27d822684b3827eaa/dokumentumok/7a275f6f4ed877ce56672e1b3abd5d2828cb82e6/letoltes)
+
+---
+
+A Kormány 364/2015. (XII. 2.) Korm. rendelete
+a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló
+19/2009. (I. 30.) Korm. rendelet módosításáról
+A Kormány a földgázellátásról szóló 2008. évi XL. törvény 132. § 8. pontjában kapott felhatalmazás alapján, az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet
+(a továbbiakban: GET Vhr.) a 12. §-át követően a következő alcímmel egészül ki:
+„(A GET 19/B. §-ához)
+Központi adatgyűjtés és feldolgozás
+12/A. § (1) A központi adatgyűjtő és feldolgozó rendszer működtetésére vonatkozó engedélyt kérelmezőnek
+rendelkeznie kell a GET 19/B. § szerinti engedélyezési feltételek teljesítéséhez szükséges
+a) olyan saját szervezettel, azon belül a megfelelő képzettségű szakember-állománnyal, amely biztosítani képes
+az engedélyköteles tevékenység végzését,
+b) pénzügyi és tárgyi eszközökkel.
+
+(2) A központi adatgyűjtő és feldolgozó rendszer működtetésére vonatkozó engedély iránti kérelemhez az 5. számú
+melléklet XI. Fejezetében meghatározott iratokat kell benyújtani.
+12/B. § (1) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes GET 19/B. § (9) bekezdés szerinti
+szabályzatának kötelező tartalmi elemeit a 4/A. számú melléklet tartalmazza.
+(2) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes a szabályzatát szükség szerint, de legalább
+évente felülvizsgálja. A szabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok
+változására, továbbá a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes által alkalmazott
+működési gyakorlatból eredő változásokra és szerződéses rendszerekre. Ha a felülvizsgálat során a központi
+adatgyűjtő és feldolgozó rendszert működtető engedélyes megállapítja, hogy a változás a jóváhagyott szabályzat
+tartalmát lényegesen érinti, köteles a módosítást átvezetni és a változásokkal egységes szerkezetbe foglalt
+alkalmazni kívánt szabályzatát haladéktalanul benyújtani a Hivatalhoz jóváhagyásra.”
+2. §
+A GET Vhr. az 1. melléklet szerinti 4/A. számú melléklettel egészül ki.
+3. §
+A GET Vhr. 5. számú melléklete a 2. melléklet szerint módosul.
+4. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 364/2015. (XII. 2.) Korm. rendelethez
+„4/A. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez
+Központi adatgyűjtő és feldolgozó rendszert működtető engedélyes szabályzata
+I. A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes szabályzatának formátumára vonatkozó
+előírások
+A szabályzatot kinyomtatva, fűzve vagy kötve, a kötelező tartalmi követelményeknek megfelelő tartalomjegyzékkel
+kell elkészíteni. Az oldalakat folyamatos számozással kell ellátni. A mellékletek minden lapján fel kell tüntetni,
+hányas számú melléklet lapja. A szabályzatot 2 példányban kell jóváhagyásra benyújtani, amelyből egy példány
+marad a Hivatalban és egy példány a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes példánya.
+A szabályzatot elektronikus formában is be kell nyújtani. Ha a központi adatgyűjtő és feldolgozó rendszert
+működtető engedélyes a szabályzat módosítását kérelmezi, egy példányban – papír alapon és elektronikusan –
+olyan korrektúrás változatot is be kell nyújtani, amelyből a módosítások egyértelműen megállapíthatók.
+A benyújtott szabályzathoz mellékelni kell a jóváhagyásra vonatkozó kérelmet és az igazgatási szolgáltatási díj
+átutalását igazoló dokumentum egy másolati példányát.
+II. A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes szabályzatának kötelező tartalmi
+követelményei
+1. A szabályzat hatálya és érvényességi köre, fogalom meghatározások, a központi adatgyűjtő és feldolgozó rendszert
+működtető engedélyesre vonatkozó adatok, az általa végzett tevékenység bemutatása.
+2. A külső környezettel való kapcsolata:
+a) felettes szervekkel való kapcsolat,
+b) engedélyesekkel való kapcsolat.
+3. Adatvédelemi és adatbiztonsági előírások.
+4. Szolgáltatás minőségi követelmények:
+a) az engedélyes tevékenység minőségi jellemzői,
+b) minőségbiztosítási rendszer jellemzői.
+5. A társaság tevékenységének és az engedélyes tevékenység végzéséhez szükséges módszerek, eljárások,
+technológiák bemutatása.
+6. Általános szerződéses feltételek:
+a) szerződések általános hatálya,
+b) a felek jogai és kötelezettségei,
+
+c) együttműködési megállapodás típusok,
+d) egyedi feltételek kezelése.
+7. Szerződésszegésre vonatkozó szabályok:
+a) a szerződésszegés esetei,
+b) szankciók és következmények,
+c) a szerződéses állapot helyreállítása.
+8. A panaszok kezelésének rendje.
+9. Vitarendezés, értesítések
+a) irányadó jogszabályok megjelölése,
+b) bírósági kikötések,
+c) kölcsönös értesítések rendje, határideje, módja.
+Mellékletek
+Együttműködési megállapodás minták.”
+2. melléklet a 364/2015. (XII. 2.) Korm. rendelethez
+A GET Vhr. 5. számú melléklete a következő XI. Fejezettel egészül ki:
+„XI. FEJEZET
+KÖZPONTI ADATGYŰJTŐ ÉS FELDOLGOZÓ RENDSZER MŰKÖDTETÉSÉRE VONATKOZÓ MŰKÖDÉSI ENGEDÉLY
+A Hivatalhoz benyújtott központi adatgyűjtő és feldolgozó rendszer működtetésére vonatkozó működési engedély
+iránti kérelemhez mellékelni kell:
+1. a kérelmezőnek a GET-ben, az e rendeletben és más jogszabályban, az ÜKSZ-ben és a 12/B. § (1) bekezdés
+szerinti szabályzatban előírt, illetve a vállalt feladatai ellátásához szükséges adatforgalmi és informatikai rendszer
+bemutatását,
+2. a kérelmező által alkalmazni kívánt adatbiztonsági előírások és titoktartással kapcsolatos szabályok bemutatását,
+3. a kérelmező társaság szervezetét bemutató szervezeti ábrát, szervezeti és működési szabályzatot, a döntési és
+hatásköri rendszert, saját szervezetén belül az egyes, GET-ben meghatározott tevékenységek végzésére kialakított
+szervezeti egységek bemutatását és elhelyezkedését a döntési hatásköri rendszerben, táblázatos összefoglalást
+a szükséges és a rendelkezésre álló személyzet létszámáról szakképzettség szerint,
+4. a GET 19/B. § (9) bekezdése szerinti szabályzat alkalmazni kívánt szövegét,
+5. az alkalmazni kívánt együttműködési megállapodás mintákat.”
