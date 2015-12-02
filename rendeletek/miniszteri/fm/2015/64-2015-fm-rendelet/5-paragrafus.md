@@ -1,3 +1,0 @@
-5. § (1) Ez a rendelet a 71/317/EGK, a 71/347/EGK, a 71/349/EGK, a 74/148/EGK, a 75/33/EGK, a 76/765/EGK, a 76/766/EGK és a 86/217/EGK mérésügyi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 2011/17/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-(2) Ez a rendelet az élelmiszerek erukasav-tartalmának hatósági ellenőrzése során alkalmazandó mintavételi módszerek és az analitikai módszerekre vonatkozó teljesítménykritériumok megállapításáról, valamint a 80/891/EGK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. április 30-i 2015/705/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
