@@ -8,7 +8,7 @@ b) ipari kutatás,
 
 c) kísérleti fejlesztés,
 
-d)[^43] megvalósíthatósági tanulmány.
+d)[^46] megvalósíthatósági tanulmány.
 
 (2) Ha egy projekt több feladatot foglal magában, az egyes feladatokat minősíteni kell aszerint, hogy melyik, az (1) bekezdésben meghatározott kutatásfajták közé tartozik.
 
@@ -22,11 +22,11 @@ b) ipari kutatásnál az elszámolható költségek 50%-át,
 
 c) kísérleti fejlesztésnél az elszámolható költségek 25%-át,
 
-d)[^44] megvalósíthatósági tanulmány esetén az elszámolható költségek 50%-át.
+d)[^47] megvalósíthatósági tanulmány esetén az elszámolható költségek 50%-át.
 
-(5)[^45] A megvalósíthatósági tanulmányra nyújtott támogatás esetén a (4) bekezdésben meghatározott támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
+(5)[^48] A megvalósíthatósági tanulmányra nyújtott támogatás esetén a (4) bekezdésben meghatározott támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
 
-(6)[^46] Az ipari kutatás és a kísérleti fejlesztés esetén a (4) bekezdés szerinti támogatási intenzitás – legfeljebb 80%-os támogatási intenzitásig – növelhető
+(6)[^49] Az ipari kutatás és a kísérleti fejlesztés esetén a (4) bekezdés szerinti támogatási intenzitás – legfeljebb 80%-os támogatási intenzitásig – növelhető
 
 a) 10 százalékponttal középvállalkozás esetén,
 
@@ -38,9 +38,9 @@ ca) a projekt hatékony együttműködést foglal magában, és legalább egy ki
 
 cb) ha a projekt eredményeit széles körben terjesztik konferenciák, publikációk, nyílt hozzáférésű adattárak, ingyenes vagy nyílt forráskódú szoftverek útján.
 
-(7)[^47]
+(7)[^50]
 
-(8)[^48] Az (1) bekezdés a)–c) pontja szerinti támogatás keretében elszámolható
+(8)[^51] Az (1) bekezdés a)–c) pontja szerinti támogatás keretében elszámolható
 
 a) a kutatók, technikusok és egyéb kisegítő személyzet személyi jellegű ráfordítása a projektben való foglalkoztatásuk mértékéig,
 
@@ -52,14 +52,14 @@ d) a szerződéses kutatás, a külső forrásokból szokásos piaci feltételek
 
 e) a további általános és egyéb működési költség, ideértve az anyagok, fogyóeszközök és hasonló termékek költségeit, amelyek közvetlenül a projekt folyamán merülnek fel.
 
-(9)[^49] Az (1) bekezdés d) pontja szerinti támogatás keretében a megvalósíthatósági tanulmány költsége számolható el.
+(9)[^52] Az (1) bekezdés d) pontja szerinti támogatás keretében a megvalósíthatósági tanulmány költsége számolható el.
 
 (10) Valamennyi elszámolható költségnek a kutatás-fejlesztés adott fajtájához kell kapcsolódnia.
 
-[^43]: A 16. § (1) bekezdés d) pontját az 5/2014. (X. 31.) MvM rendelet 10. § (1) bekezdése iktatta be.
-[^44]: A 16. § (4) bekezdés d) pontját az 5/2014. (X. 31.) MvM rendelet 10. § (2) bekezdése iktatta be.
-[^45]: A 16. § (5) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^46]: A 16. § (6) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^47]: A 16. § (7) bekezdését az 5/2014. (X. 31.) MvM rendelet 21. § (1) bekezdés f) pontja hatályon kívül helyezte.
-[^48]: A 16. § (8) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^49]: A 16. § (9) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^46]: A 16. § (1) bekezdés d) pontját az 5/2014. (X. 31.) MvM rendelet 10. § (1) bekezdése iktatta be.
+[^47]: A 16. § (4) bekezdés d) pontját az 5/2014. (X. 31.) MvM rendelet 10. § (2) bekezdése iktatta be.
+[^48]: A 16. § (5) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^49]: A 16. § (6) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^50]: A 16. § (7) bekezdését az 5/2014. (X. 31.) MvM rendelet 21. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^51]: A 16. § (8) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^52]: A 16. § (9) bekezdése az 5/2014. (X. 31.) MvM rendelet 10. § (4) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 8. A képzési támogatásra vonatkozó szabályok
 
-8. §[^20] (1) A képzési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+8. §[^23] (1) A képzési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
 (2) A támogatási intenzitás
 
@@ -28,4 +28,4 @@ e) a képzésben résztvevő megváltozott munkaképességű munkavállaló mini
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez.
 
-[^20]: A 8. § az 5/2014. (X. 31.) MvM rendelet 6. §-ával megállapított szöveg.
+[^23]: A 8. § az 5/2014. (X. 31.) MvM rendelet 6. §-ával megállapított szöveg.

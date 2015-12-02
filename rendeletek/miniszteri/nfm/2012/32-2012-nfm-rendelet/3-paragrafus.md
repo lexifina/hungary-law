@@ -84,6 +84,9 @@
 
 41.[^6] a nevelést-oktatást, az egész életen át tartó tanulást, valamint a társadalmi felzárkózást támogató kulturális tevékenységek,
 
-42. eszközbeszerzés.
+42. eszközbeszerzés,
+
+43.[^7] vállalkozások finanszírozási forrásokhoz való hozzáférésének elősegítése mikro- és forgóeszköz finanszírozással.
 
 [^6]: A 3. § 41. pontja az 5/2014. (X. 31.) MvM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § 43. pontját az 52/2015. (XII. 1.) MvM rendelet 10. §-a iktatta be.

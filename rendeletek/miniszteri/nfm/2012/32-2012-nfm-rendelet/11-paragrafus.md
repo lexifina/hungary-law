@@ -1,4 +1,4 @@
-## 11. §[^25] Nem nyújtható támogatás
+## 11. §[^28] Nem nyújtható támogatás
 
 a) acélipari tevékenységhez,
 
@@ -18,10 +18,10 @@ h) ha a beruházó a kérelem benyújtását megelőző két évben azonos vagy 
 
 i) ha a beruházáshoz igényelt összes állami támogatás – figyelembe véve a nagyberuházásra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat,
 
-j)[^26] szélessávú internet-szolgáltatást szolgáló beruházáshoz,
+j)[^29] szélessávú internet-szolgáltatást szolgáló beruházáshoz,
 
-k)[^27] a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti kutatási infrastruktúrához.
+k)[^30] a 651/2014/EU bizottsági rendelet 2. cikk 91. pontja szerinti kutatási infrastruktúrához.
 
-[^25]: A 11. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.
-[^26]: A 11. § j) pontját a 11/2014. (XII. 30.) MvM rendelet 20. §-a iktatta be.
-[^27]: A 11. § k) pontját a 11/2014. (XII. 30.) MvM rendelet 20. §-a iktatta be.
+[^28]: A 11. § az 5/2014. (X. 31.) MvM rendelet 7. §-ával megállapított szöveg.
+[^29]: A 11. § j) pontját a 11/2014. (XII. 30.) MvM rendelet 20. §-a iktatta be.
+[^30]: A 11. § k) pontját a 11/2014. (XII. 30.) MvM rendelet 20. §-a iktatta be.

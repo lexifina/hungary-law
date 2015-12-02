@@ -1,6 +1,6 @@
 ## 17. §
 
-## 15. [^51] A kis- és középvállalkozásnak nyújtott innovációs támogatás
+## 15. [^54] A kis- és középvállalkozásnak nyújtott innovációs támogatás
 
 18. § (1) A kis- és középvállalkozásnak nyújtott innovációs támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében elszámolható
 
@@ -14,4 +14,4 @@ c) az innovációs tanácsadás és az innovációs támogató szolgáltatás k�
 
 (3) Az (1) bekezdés c) pontja szerinti esetben a támogatási intenzitás az elszámolható költségek 100%-ig növelhető, ha a támogatás nem haladja meg három év alatt a 200 000 eurót.
 
-[^51]: A 15. alcím (18. §) az 5/2014. (X. 31.) MvM rendelet 11. §-ával megállapított szöveg.
+[^54]: A 15. alcím (18. §) az 5/2014. (X. 31.) MvM rendelet 11. §-ával megállapított szöveg.
