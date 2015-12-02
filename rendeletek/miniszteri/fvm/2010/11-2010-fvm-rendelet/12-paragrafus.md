@@ -4,8 +4,8 @@
 
 (2) Az erdészeti hatóság a körzeti erdőterv védett természeti területre és Natura 2000 területre vonatkozó adatait és előírás-javaslatait az (1) bekezdés szerinti értesítés időpontjában elektronikus úton megküldi az illetékes természetvédelmi hatóságnak és a működési terület szerint érintett védett természeti terület természetvédelmi kezeléséért felelős szervnek.
 
-(3)[^9] A zárótárgyalásra a 10. § (1) bekezdésben foglalt esetben csak a hatásbecslés lefolytatását követően, az annak során hozott döntés figyelembevételével kerülhet sor.
+(3)[^10] A zárótárgyalásra a 10. § (1) bekezdésben foglalt esetben csak a hatásbecslés lefolytatását követően, az annak során hozott döntés figyelembevételével kerülhet sor.
 
 (4) A záró tárgyalással a körzeti erdőtervezés folyamata lezárul.
 
-[^9]: A 12. § (3) bekezdése a 96/2011. (X. 17.) VM rendelet 10. § (6) bekezdésével megállapított szöveg.
+[^10]: A 12. § (3) bekezdése a 96/2011. (X. 17.) VM rendelet 10. § (6) bekezdésével megállapított szöveg.

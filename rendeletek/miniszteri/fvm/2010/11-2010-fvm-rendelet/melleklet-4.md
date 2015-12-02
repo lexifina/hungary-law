@@ -60,6 +60,6 @@
 
 ## 8. A 100%-os állami tulajdonban lévő erdőkre vonatkozó erdőtervezési alapelvek.
 
-4–6. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^19]
+4–6. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^20]
 
-[^19]: A 4–6. mellékletet a 96/2011. (X. 17.) VM rendelet 15. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^20]: A 4–6. mellékletet a 96/2011. (X. 17.) VM rendelet 15. § (1) bekezdés e) pontja hatályon kívül helyezte.

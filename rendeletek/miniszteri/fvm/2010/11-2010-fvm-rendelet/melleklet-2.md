@@ -6758,6 +6758,6 @@
 
 ## 10.21.5. Verpelét (4102)
 
-2. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^17]
+2. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^18]
 
-[^17]: A 2. számú melléklet a 96/2011. (X. 17.) VM rendelet 13. §-a szerint módosított szöveg.
+[^18]: A 2. számú melléklet a 96/2011. (X. 17.) VM rendelet 13. §-a szerint módosított szöveg.

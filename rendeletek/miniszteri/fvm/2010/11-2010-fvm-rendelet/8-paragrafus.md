@@ -16,7 +16,7 @@ e) a körzeti erdőtervezés során lefolytatott terepi bejárások során elvé
 
 (3) A (2) bekezdés a)–c) pont szerinti adatokat a védett természeti területnek minősülő Natura 2000 területek esetében a védett természeti terület természetvédelmi kezeléséért felelős szerv legkésőbb az erdészeti hatóság megkeresésétől számított 30 napon belül rendelkezésre bocsátja.
 
-(4)[^6] Az erdőtervezés alá vont védett természeti területnek nem minősülő Natura 2000 területek esetében a (2) bekezdés a)–c) pont szerinti adatok beszerzése érdekében az erdészeti hatóság – az erdőrészlet szintű tárgyalást megelőzően legalább 30 nappal – megkeresi a védett természeti területek természetvédelmi kezeléséért felelős szervet.
+(4)[^7] Az erdőtervezés alá vont védett természeti területnek nem minősülő Natura 2000 területek esetében a (2) bekezdés a)–c) pont szerinti adatok beszerzése érdekében az erdészeti hatóság – az erdőrészlet szintű tárgyalást megelőzően legalább 30 nappal – megkeresi a védett természeti területek természetvédelmi kezeléséért felelős szervet.
 
 (5) A (2) bekezdés a)–b) pont szerinti adatok megküldése és beszerzése akkor szükséges, ha azok a 4. § (1)–(2) bekezdések szerint korábban már nem kerültek az erdészeti hatóság birtokába, vagy azokban a megküldésük óta eltelt időben az erdőtervezést befolyásoló, lényeges változás állt be.
 
@@ -24,4 +24,4 @@ e) a körzeti erdőtervezés során lefolytatott terepi bejárások során elvé
 
 (7) Az (1) bekezdés szerinti vizsgálat lefolytatásának tényét, a (6) bekezdés szerinti javaslatokat, valamint a vizsgálat eredményét rögzítő tájékoztatást az erdészeti hatóság megküldi az erdészeti hatóság központi szerve, valamint a védett természeti terület természetvédelmi kezeléséért felelős szerv részére.
 
-[^6]: A 8. § (4) bekezdése a 96/2011. (X. 17.) VM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^7]: A 8. § (4) bekezdése a 96/2011. (X. 17.) VM rendelet 10. § (4) bekezdésével megállapított szöveg.
