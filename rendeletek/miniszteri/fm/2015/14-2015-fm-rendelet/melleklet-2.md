@@ -140,17 +140,17 @@
 
 | 23. |  | Védett, fokozottan védett természeti területen hatósági engedélyhez kötött, jogszabályban meghatározott tevékenységekkel kapcsolatos eljárások: a Tvt. 38. § (1) bekezdésének |  |
 
-|  | 1. | a) pontja (kutatás, gyűjtés, kísérlet végzése) | 20 000 |
+|  | 1. | a) pontja (gyűjtés végzése) | 10 000 |
 
 |  | 2. | b) pontja |  |
 
 |  | 2.1. | a gyep feltörése | 50 000/megkezdett hektár |
 
-|  | 2.2. | a gyep felújítása, felülvetése, öntözése, legeltetése, kaszálása | 5 500 |
+|  | 2.2. | a gyep felújítása, felülvetése, öntözése | 5 500 |
 
 |  | 3. | c) pontja |  |
 
-|  | 3.1. | a terület helyreállítása | 5 500 |
+|  | 3.1. |  |  |
 
 |  | 3.2. | a terület jellegének, használatának megváltoztatása | 50 000/megkezdett ha |
 
@@ -162,13 +162,13 @@
 
 |  | 7. | g) pontja (növényvédő szerek, bioregulátorok és egyéb irtószerek, valamint a talaj termékenységét befolyásoló vegyi anyagok felhasználása) | 40 000 |
 
-|  | 8. | h) pontja (horgászat) | 5 500 |
+|  | 8. |  |  |
 
 |  | 9. | i) pontja |  |
 
 |  | 9.1. | versenyrendszerben szervezett, nem kizárólag kijelölt turistaútvonalakat érintő verseny rendezése 500 fő felett | 80 000 |
 
-|  | 9.2. | 500 fő felett kizárólag külterületen zajló tömegsportesemények rendezése | 80 000 |
+|  | 9.2. | 500 fő felett külterületen zajló tömegsportesemények rendezése | 80 000 |
 
 |  | 9.3. | kerékpár használatával megvalósuló sporttevékenység folytatása | 36 000 |
 
@@ -176,7 +176,7 @@
 
 |  | 10. | j) pontja (járművel történő közlekedés, az arra kijelölt utak, az engedélyezett tevékenységek végzéséhez szükséges munkagépek, valamint a feladatukat ellátó – külön jogszabályokban erre feljogosított – személyek járművei kivételével) | 42 000 |
 
-| 24. |  | Fokozottan védett természeti területre történő belépés – kivéve a jelzett turistautakon, tanösvényeken, illetve a külön jogszabályok alapján erre feljogosított személyek a feladatuk ellátásához szükséges mértékben [Tvt. 40. § (1) bekezdés] | 5500 |
+| 24. |  |  |  |
 
 | 25. |  | Védett, fokozottan védett növényfajokkal kapcsolatos, jogszabályban meghatározott tevékenységek engedélyezése eljárásonként: a Tvt. 42. § (3) bekezdésének |  |
 
@@ -184,29 +184,29 @@
 
 |  | 2. | b) pontja |  |
 
-|  | 2.1. | védett növényfaj egyedének, virágának birtokban tartása, kertekbe, botanikus kertekbe történő telepítése | 5 500 |
+|  | 2.1. |  |  |
 
 |  | 2.2. | védett növényfaj egyedének adásvétele, cseréje | 10 000 |
 
 |  | 3. | c) pontja (védett növényfaj egyedének külföldre vitele, az országba behozatala, az országon való átszállítása) | 10 000 |
 
-|  | 4. | d) pontja (védett növényfaj egyedének preparálása) | 5 500 |
+|  | 4. |  |  |
 
-|  | 5. | e) pontja |  |
+|  | 5. |  |  |
 
-|  | 5.1. | védett növényfaj egyedének betelepítése, visszatelepítése | 5 500 |
+|  | 5.1. |  |  |
 
-|  | 5.2. | védett növényfaj egyedének termesztésbe vonása | 20 000 |
+|  | 5.2. |  |  |
 
-|  | 6. | f) pontja (védett növényfaj egyedével vagy egyedén végzett nemesítési kísérlet) | 50 000 |
+|  | 6. |  |  |
 
-|  | 7. | g) pontja (védett növényfaj egyedének biotechnológiai célra történő felhasználása) | 500 000 |
+|  | 7. |  |  |
 
-|  | 8. | h) pontja (védett növényfaj természetes állományai közötti mesterséges géncsere) | 50 000 |
+|  | 8. |  |  |
 
-| 26. | 1. | Védett növényfajokból álló gén- és szaporítóanyag bank létrehozása [Tvt. 42. § (4) bekezdés] | 20 000 |
+| 26. | 1. |  |  |
 
-|  | 2. | Védett növényfaj gén- és szaporítóanyag bankban történő elhelyezése [Tvt. 42. § (4) bekezdés] | 5 500 |
+|  | 2. |  |  |
 
 | 27. |  | Védett fasorban lévő, valamint egyes védett fák és cserjék természetes állapotának megváltoztatása, kivágása [Tvt. 42. § (5) bekezdés] | 10 000 |
 
@@ -220,23 +220,23 @@
 
 |  | 2.1. | védett állatfaj egyedeinek gyűjtése, befogása, elejtése | 20 000 |
 
-|  | 2.2. | védett állatfaj egyedeinek birtokban tartása, idomítása | 10 600 |
+|  | 2.2. |  |  |
 
-|  | 3. | c) pont (védett állatfaj egyedeinek szaporítása) |  |
+|  | 3. | c) pont (védett állatfaj egyedeinek szaporítása) | 5 500 |
 
-|  | 3.1. | nagyragadozók, fókák, patások | 35 000 |
+|  | 3.1. |  |  |
 
-|  | 3.2. | egyéb állatfajok | 10 600 |
+|  | 3.2. |  |  |
 
-|  | 4. | d) pont (védett állatfaj egyedének kikészítése, preparálása, a preparátumok birtokban tartása) |  |
+|  | 4. |  |  |
 
-|  | 4.1. | 1–10 egyed esetén | 10 600 |
+|  | 4.1. |  |  |
 
-|  | 4.2. | 10 egyed felett | 40 000 |
+|  | 4.2. |  |  |
 
-|  | 5. | e) pont (védett állatfaj egyedének élőállat gyűjteményben történő tartása) | 5 500 |
+|  | 5. |  |  |
 
-|  | 6. | f) pont (védett állatfaj hazai állatfaj-állományának külföldi állományból származó egyeddel történő kiegészítése) | 50 000 |
+|  | 6. |  |  |
 
 |  | 7. | h) pont (védett állatfaj egyedének cseréje, adásvétele) |  |
 
@@ -244,13 +244,13 @@
 
 |  | 7.2. | 10 egyed felett | 40 000 |
 
-|  | 8. | i) pont (védett állatfaj egyedének külföldre vitele, onnan történő behozatala, az országon való átszállítása) | 30 000 |
+|  | 8. | i) pont (védett állatfaj egyedének külföldre vitele, onnan történő behozatala, az országon való átszállítása) | 10 000 |
 
-|  | 9. | k) pont (védett állatfaj kártételének megelőzése érdekében riasztási módszer alkalmazása) | 5 500 |
+|  | 9. |  |  |
 
-|  | 10. | l) pont (védett állatfaj egyede fészkének áttelepítése) | 5 500 |
+|  | 10. |  |  |
 
-|  | 11. | m) pont (védett állatfaj egyedének háziasítása) | 26 500/egyed |
+|  | 11. |  |  |
 
 | 30. |  | Állatgyűjtemények, állatkertek, ideértve az egyéb, de védett, vadon élő állatok tartására, idomítására szolgáló létesítmények, tevékenységek kialakítására, fenntartására, a tevékenység folytatására vonatkozó engedély [Tvt. 44. § (1) bekezdés] | 106 000 |
 
@@ -264,21 +264,21 @@
 
 |  | 1. | barlang, barlangszakasz hasznosítása, a hasznosítási mód megváltoztatása | 60 000 |
 
-|  | 2. | barlang, barlangszakasz kiépítése | 10 000 |
+|  | 2. |  |  |
 
 |  | 3. | barlangi képződmények hasznosítása, értékesítése, külföldre juttatása | 60 000 |
 
-|  | 4. | kutatás, kísérlet, gyűjtés barlangban, barlangszakaszban | 5 500 |
+|  | 4. |  |  |
 
-|  | 5. | barlangi búvármerülés |  |
+|  | 5. | barlangi búvármerülés (nem kutatási célból) | 5 500 |
 
-|  | 5.1. | kutatási célból | 5 500 |
+|  | 5.1. |  |  |
 
-|  | 5.2. | egyéb célból | 50 000 |
+|  | 5.2. |  |  |
 
-|  | 6. | barlang, barlangszakasz kiépítésén kívüli műszaki beavatkozás | 10 000 |
+|  | 6. |  |  |
 
-|  | 7. | filmforgatás engedélyezése | 30 000 |
+|  | 7. | barlangi reklámfilm, játékfilm, videoklip forgatás engedélyezése | 30 000 |
 
 | 33. |  | A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelméről szóló egyezménnyel (CITES) kapcsolatos engedélyek (bizonylatok) kiállítása: |  |
 
@@ -300,13 +300,13 @@
 
 |  | 1. | a) pont (a gyep feltörése, felülvetése, faültetvénnyé alakítása) | 10 000/megkezdett ha |
 
-|  | 2. | b) pont (a terület helyreállítása) | 5 500 |
+|  | 2. |  |  |
 
 |  | 3. | c) pont (az erdőkről, az erdő védelméről és az erdőgazdálkodásról szóló törvény, valamint a fás szárú energetikai ültetvényekről szóló kormányrendelet hatálya alá nem tartozó fa, facsoport, fás legelőn lévő fa telepítése, kivágása, kivéve a csatorna medrében, az üzemi vízszintnél a nedvesített keresztszelvényben lévő fa, facsoport mederfenntartási céllal történő kivágását) | 25 000 |
 
 |  | 4. | d) pont: versenyrendszerben szervezett verseny 500 fő felett | 80 000 |
 
-|  | 5. | kerékpár használatával megvalósuló sporttevékenység engedélyezése | 64 500 |
+|  | 5. | kerékpár használatával megvalósuló sporttevékenység engedélyezése | 36 000 |
 
 |  | 6. | 20 cm3-nél nagyobb hengerűrtartalmú belső égésű motorral hajtott eszköz felhasználásával megvalósuló sporttevékenység | 300 000 |
 
