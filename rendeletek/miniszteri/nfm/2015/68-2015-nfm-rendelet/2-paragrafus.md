@@ -1,1 +1,0 @@
-## „44/A. § E rendeletnek a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 28/2015. (VI. 3.) NFM rendelet módosításáról szóló 68/2015. (XI. 30.) NFM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését megelőzően megkötött szerződésekre is alkalmazni kell.”
