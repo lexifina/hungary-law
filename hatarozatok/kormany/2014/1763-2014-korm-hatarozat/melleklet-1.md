@@ -8,13 +8,15 @@
 
 ## 5. Ez a határozat 2015. január 1-jén lép hatályba.
 
-## 6.[^1]
+## 6.[^2]
 
-1. melléklet az 1763/2014. (XII. 18.) Korm. határozathoz[^2]
+1. melléklet az 1763/2014. (XII. 18.) Korm. határozathoz[^3]
 
 A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 1. A Magyar Honvédség részvételével tervezett, külföldi fegyveres erők esetleges átvonulásával járó NATO/EU gyakorlatok és kiképzési rendezvények
+
+5K23186M_0
 
 | Fsz. | Projekt kód | A gyakorlat megnevezése | Felelős | A gyakorlat tervezett helye | A gyakorlat tervezett időpontja | Létszám (fő) legfeljebb |
 
@@ -164,6 +166,8 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 2. A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett két-és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
 
+5K23186M_1
+
 | Fsz. | Projekt kód | A gyakorlat megnevezése | Felelős | A gyakorlat tervezett helye | A gyakorlat tervezett időpontja | Létszám (fő) legfeljebb |
 
 | 1. | A160/15 | KHAAN QUEST | MH KDK | Mongólia | II–III. n. é. | 25 |
@@ -174,7 +178,7 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 4. | B101/15 | CLEVER FERRET 2015 MLF dandár gyakorlat | MH ÖHP | Olaszország/Horvátország/Ausztria/Szlovénia/ Magyarország | II. n. é. | 350 |
 
-| 5. | B102/15 | WISE FORESIGHT 2015 magyar–román többnemzetiségű zászlóalj közös gyakorlat | MH ÖHP | Románia/Magyarország | III. n. é. | 150 |
+| 5. | B102/15 | WISE FORESIGHT 2015 HUN-ROU többnemzetiségű zászlóalj közös gyakorlat (USA erők bevonásával) | MH ÖHP | Románia/ Magyarország | IV. n. é. | 400 |
 
 | 6. | B103/15 | BLONDE AVALANCHE 2015 Többnemzetiségű katasztrófa elhárító gyakorlat | MH ÖHP | Ukrajna/Szerbia/USA/Szlovákia/Románia/ Magyarország | III. n. é. | 500 |
 
@@ -316,5 +320,5 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 16. | Szövetséges felderítő légijárművek áthaladása a magyar légtérben | 2015. I–IV. n. é. | – |
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1053/2015. (II. 16.) Korm. határozat 1. pontja, az 1451/2015. (VII. 7.) Korm. határozat 1. pontja, az 1731/2015. (X. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1053/2015. (II. 16.) Korm. határozat 1. pontja, az 1451/2015. (VII. 7.) Korm. határozat 1. pontja, az 1731/2015. (X. 8.) Korm. határozat 1. pontja, az 1863/2015. (XII. 2.) Korm. határozat 1. pontja szerint módosított szöveg.
