@@ -1,1 +1,3 @@
-## „24. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 53/2015. (XII. 1.) MvM rendelettel [a továbbiakban: 53/2015. (XII. 1.) MvM rendelet] megállapított 8. § (10) és (12) bekezdést az 53/2015. (XII. 1.) MvM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+30. §[^30]
+
+[^30]: A 29–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

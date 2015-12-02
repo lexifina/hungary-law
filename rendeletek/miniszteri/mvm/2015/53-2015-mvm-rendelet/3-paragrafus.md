@@ -1,1 +1,3 @@
-## „36/O. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 53/2015. (XII. 1.) MvM rendelettel [a továbbiakban: 53/2015. (XII. 1.) MvM rendelet] megállapított 25. § (9) bekezdést, 29. § (1) bekezdés d) pontját, 30/B. §-t és 35. § (6) bekezdést az 53/2015. (XII. 1.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban és ügyekben is alkalmazni kell.”
+3. §[^3]
+
+[^3]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-16. §[^2]
+16. §[^16]
 
-[^2]: A 15–16. § a 31. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^16]: A 15–16. § a 31. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
