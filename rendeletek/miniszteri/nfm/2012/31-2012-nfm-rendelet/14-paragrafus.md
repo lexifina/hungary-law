@@ -1,1 +1,0 @@
-## 13. § Innovációs tanácsadó és az innovációs támogató szolgáltatásokhoz nyújtott támogatások esetében a támogatás nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget kedvezményezettenként bármely hároméves időszakban. Ha a szolgáltató nem rendelkezik nemzeti vagy európai tanúsítvánnyal, a támogatás mértéke nem haladhatja meg az elszámolható költségek 75%-át.

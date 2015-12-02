@@ -1,1 +1,0 @@
-## 11. § Fiatal innovatív vállalkozás támogatása esetében a támogatás összege nem haladhatja meg az 1 500 000 eurónak megfelelő forintösszeget Budapesten és Pest megyén kívül eső régiókban és az 1 250 000 eurónak megfelelő forintösszeget Budapesten és Pest megyében.
