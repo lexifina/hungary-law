@@ -1,1 +1,0 @@
-## „(3) A jelentkezési kérelemnek tartalmaznia kell továbbá legalább egy jelentkezési hely megjelölését a 10. § (2) bekezdés a) pontja szerint, valamint a kiegészítő díj befizetésének igazolását az átutalás igazolásának a másolatával.
