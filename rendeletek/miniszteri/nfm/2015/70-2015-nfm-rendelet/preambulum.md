@@ -1,0 +1,1 @@
+A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény 22. § (1) bekezdés b) és d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

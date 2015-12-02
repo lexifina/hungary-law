@@ -1,0 +1,3 @@
+## 6. § A 216/2008/EK európai parlamenti és tanácsi rendelet II. MELLÉKLETÉBEN meghatározott légijármű üzemben tartója, a légiközlekedési balesetek és repülőesemények következményeinek megelőzésére a légiközlekedési hatósággal egyeztetett intézkedési tervet készít annak érdekében, hogy a veszélyhelyzetbe kerülő légijárművekkel kapcsolatban, vagy a bekövetkezett légiközlekedési baleset vagy repülőesemény esetén a személyek élete, testi épségének megóvása, valamint a következmények enyhítése, felszámolása érdekében szükséges intézkedéseket haladéktalanul megtehessék.
+
+## 5. A szakmai vizsgálat lefolytatása
