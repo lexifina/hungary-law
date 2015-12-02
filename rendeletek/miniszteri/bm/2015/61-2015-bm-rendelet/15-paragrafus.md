@@ -1,3 +1,0 @@
-## 14. § A Rendelet 84. §-a helyébe a következő rendelkezés lép:
-
-## „84. § Készenlétet az országos rendőrfőkapitány, a bűnügyi országos rendőrfőkapitány-helyettes, a rendészeti országos rendőrfőkapitány-helyettes, a Terrorelhárítási Központ főigazgatója, a Nemzeti Védelmi Szolgálat főigazgatója, a Készenléti Rendőrség parancsnoka, a Repülőtéri Rendőr Igazgatóság igazgatója, a Bűnügyi Szakértői és Kutatóintézet igazgatója, a Nemzetközi Bűnügyi Együttműködési Központ igazgatója, a Rendőrségi Oktatási és Kiképző Központ igazgatója, a megyei (fővárosi) rendőrfőkapitány, a rendőrkapitány és a határrendészeti kirendeltség vezetője rendelhet el az irányítása alatt álló szerv, szervezeti egység vagy szervezeti elem vonatkozásában.”

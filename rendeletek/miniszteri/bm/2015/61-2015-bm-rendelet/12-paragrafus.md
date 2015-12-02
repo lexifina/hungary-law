@@ -1,1 +1,0 @@
-## „(6) Az útzár autópályán, autóúton történő alkalmazását az országos rendőrfőkapitány, a rendészeti országos rendőrfőkapitány-helyettes, a bűnügyi országos rendőrfőkapitány-helyettes, a műveleti országos rendőrfőkapitány-helyettes, vagy – a hatásköre szerint ellátott speciális feladatok végrehajtása során – a Terrorelhárítási Központ főigazgatója rendeli el.”
