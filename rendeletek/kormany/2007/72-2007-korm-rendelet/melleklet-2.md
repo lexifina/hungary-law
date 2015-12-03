@@ -396,4 +396,30 @@ Az eljáró közigazgatási szerv fizetési számlája
 
 | 13. | Vas Megyei Kormányhivatal | 10047004-00299523-00000000 |
 
-[^7]: A 2. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg.
+| 14. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 10023002-00283494-00000000 |
+
+| 15. | Baranya Megyei Katasztrófavédelmi Igazgatóság | 10024003-00283559-00000000 |
+
+| 16. | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | 10025004-00283566-00000000 |
+
+| 17. | Békés Megyei Katasztrófavédelmi Igazgatóság | 10026005-00283573-00000000 |
+
+| 18. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
+
+| 19. | Csongrád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
+
+| 20. | Fejér Megyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
+
+| 21. | Fővárosi Katasztrófavédelmi Igazgatóság | 10023002-00319566-00000000 |
+
+| 22. | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | 10033001-00283614-00000000 |
+
+| 23. | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | 10034002-00283621-00000000 |
+
+| 24. | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság | 10045002-00283683-00000000 |
+
+| 25. | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | 10044001-00283676-00000000 |
+
+| 26. | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
+
+[^7]: A 2. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 95. § (1) bekezdésével megállapított, a 366/2015. (XII. 2.) Korm. rendelet 10. §-a szerint módosított szöveg.
