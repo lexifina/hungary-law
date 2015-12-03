@@ -1,0 +1,9 @@
+# 1885/2015. (XII. 3.) Korm. határozat
+
+a Modern Városok Program végrehajtása érdekében szükséges forrás biztosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1885-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-12-03 | 2015-1885-30-22.1 | 1885/2015. (XII. 3.) Korm. határozat |
