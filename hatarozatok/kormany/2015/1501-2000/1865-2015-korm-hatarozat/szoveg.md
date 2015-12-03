@@ -10,4 +10,6 @@ nemzeti fejlesztési miniszter
 
 Határidő: a költségvetési tervezések során
 
-3. visszavonja a Formula-1 Világbajnokság Magyar Nagydíj 2017–2021 között történő megrendezésével kapcsolatos kormányzati szerepvállalásról szóló 1081/2013. (II. 25.) Korm. határozatot.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
