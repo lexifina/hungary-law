@@ -1,1 +1,0 @@
-## „(3) Az igénylőnek a vagyontárgyra vonatkozó tulajdonjogát fennállónak kell tekinteni, ha a vagyontárgy korábbi tulajdonosának tulajdonjogát megfelelő bizonyítékokkal valószínűsíti, feltéve, hogy a korábbi tulajdonoshoz fűződő jogutódi minőségét is okirati bizonyítékkal (bírósági vagy közjegyzői határozattal) bizonyítja, ennek hiányában megfelelően valószínűsíti.”

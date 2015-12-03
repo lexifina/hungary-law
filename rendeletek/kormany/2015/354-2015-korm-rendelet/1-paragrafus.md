@@ -1,5 +1,0 @@
-1. § (1) A közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet (a továbbiakban: Rendelet) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha valamely állami vagy helyi önkormányzati fenntartású közgyűjteményben (a továbbiakban együtt: közgyűjtemény) őrzött, állami tulajdonban állóként nyilvántartott, a kulturális javak körébe tartozó vagyontárgy vagy vagyontárgyegyüttes (a továbbiakban együtt: vagyontárgy) visszaadására (a továbbiakban: visszaadás) vonatkozóan természetes személy, jogi személy vagy más szervezet (a továbbiakban együtt: igénylő) a tulajdonjogára hivatkozással igényt jelent be, az igény elbírálásához szükséges adatokat a vagyontárgy állami tulajdonjogának gyakorlására jogosult szervezetként a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: az állami tulajdonjog gyakorlója) a 2. és 3. §-ban foglaltak szerint szerzi be.”
-
-(2) A Rendelet 1. §-a a következő (3) bekezdéssel egészül ki:
