@@ -1,129 +1,159 @@
 ## Értékelő adatlap
 
-| Vizsgálandó funkciók | Tevékenységek | Szempontok | Fokozatok |
+## Személyes adatok
 
-| 1. Ön- kiszolgálás | Táplálkozás | étel, ital elkészítése, elfogyasztása | megfelelő | 0 | kisebb segítségre szorul | 1 | ételkészítéshez időnként segítséget igényel, bevásárláshoz rendszeres segítségre van szüksége | 2 | állandó segítséget igényel az elkészítéséhez, ételeit önállóan elfogyasztja | 3 | teljes segítséget igényel ételei elkészítéséhez, segítségre lehet szüksége étkezésében, speciális diétára van szüksége | 4 | teljes segítséget igényel ételkészítéshez, állandó vagy teljes segítséget az elfogyasz- táshoz | 5 |
+## Név:
 
-|  | Testápolás, tisztálkodás | test vagy testrészek megmosása; hajápolás, körömápolás, borotválkozás, szájhigiéne (képesség, hajlandóság, ill. észrevevés hiánya) | megfelelő | 0 | minimális segítségre szorul | 1 | kisebb segítséget igényel, segédesz- közzel biztonságosan ellátja magát | 2 | időnként személyi segítségre és segédeszközök rendszeres használatára szorul | 3 | segítségre szorul több területen | 4 | állandó, teljes segítségre szorul | 5 |
+## Születési hely, idő:
 
-|  | Öltözködés | ruházat rendbentartása, ruházat fel- és levétele, önmagán történő megigazítása | megfelelő | 0 | minimális segítségre szorul | 1 | kisebb segítséget igényel, nem képes az időjárásnak megfelelő ruházat kiválasztására | 2 | segítségre szorul, vagy irányítást igényel | 3 | jelentős segítséget vagy felügyeletet igényel | 4 | teljes segítségre, felügyeletre szorul | 5 |
+## Lakcím:
 
-|  | WC használat, kontinencia | vizelet és széklet tartásának képessége, hajlandósága, WC használat képessége (előkészület, eljutás, visszatérés, higiénés teendők elvégzése) | megfelelő | 0 | minimális segítséget igényel | 1 | kisebb segítséget igényel, gyakran kontrollálni kell | 2 | segítséget igényel, nem képes a higiénés szabályok betartására | 3 | jelentős segítségre van szüksége, közepes fokú inkontinen- ciája van, vagy a WC-t nem hajlandó használni | 4 | ágytál és vizelőedény használatára szorul, vagy pelenkázni kell | 5 |
+## Törvényes képviselőjének neve, elérhetősége:
 
-| 2. Önellátás | Eszközök/ anyagok használata | háztartás eszközei, pénzzel való bánás, | megfelelő | 0 | háztartási eszközeit eseti segítséggel használja, pénzkezelése megfelelő | 1 | háztartási eszközeit folyamatos segítséggel használja, pénzkezelése megfelelő | 2 | háztartási eszközeit segítséggel sem képes használni, pénzkezelése bizonytalan | 3 | pénzhasználathoz állandó segítséget igényel | 4 | eszközökkel, pénzzel nem tud bánni, teljes segítséget igényel | 5 |
+## Mérőtábla
 
-|  | Terápia- követés | gyógyszer helyes alkalmazása, orvos által előírt teendők követése | megfelelő | 0 | gyógyszereit szedi, orvosi utasításokra figyelmeztetni kell | 1 | gyógyszereit szedi, a terápiát felügyelet mellett alkalmazza | 2 | gyógyszerelés- ben és terápiában gyakori segítséget igényel | 3 | gyógyszerelés- ben és terápiában állandó segítséget igényel | 4 | nem tudja, vagy nem akarja beszedni a gyógyszereket és alkalmazni a terápiát | 5 |
+| Tevékenység, funkció | Értékeljen 0–4 pont között (a pontérték a szükséges segítség mértékével emelkedik) | Intézmény- vezető | Háziorvos |
 
-| 3. Mozgás- funkciók | Helyváltoz- tatás, testhelyzet változtatás | mozgásfunkciók lakásban, lakáson kívül, (járás, ülés, állás, eszközök szükségessége) | megfelelő | 0 | önállóan mozog, folyamatos, de a hosszabb távú mozgáshoz segítséget igényel | 1 | minimális segítséget igényel | 2 | segítséget igényel, bottal jár | 3 | jelentős segítségre van szüksége, segédeszköz használata szükséges (járókeret, mankó) | 4 | kerekesszék használatára szorul, vagy ágyban fekvő | 5 |
+| Térbeli-időbeni tájékozódás | 0: mindig, mindenkor térben, időben, személyeket illetően tájékozott 1: esetenként segítségre, tájékoztatásra szorul 2: részleges segítségre, tájékoztatásra szorul 3: gyakran tájékozatlan 4: térben-időben tájékozatlan |  |  |
 
-| 4. Mentális funkciók | Térbeli-, időbeni tájékozódás | tájékozódási képesség, tevékenységek összehangolása, ismeretek alkalmazása, napi rutin feladatok intézése | megfelelő | 0 | tájékozódási képessége jó, szerzett ismereteit alkalmazza, tevékenysége időnként koordinálatlan, napi feladatait kis segítséggel elvégzi | 1 | tájékozódási képessége kissé megromlott, tevékenységek összehangolása időnként rosszabb, napi feladatai ellátásában segítségre szorul | 2 | szerzett ismereteit nehezebben alkalmazza, tájékozódó képessége megromlott, tevékenységek összehangolása rosszabb, napi feladatai ellátásában rendszeres segítségre szorul | 3 | szerzett ismeretei nagyrészt elvesztek/ hiányoznak, tájékozódási képessége csökkent | 4 | kapcsolat- teremtésre, tevékenységei összehangolásá- ra képtelen, állandó segítségre szorul | 5 |
+| Helyzetnek megfelelő viselkedés | 0: mindig, mindenkor a helyzetnek megfelelően viselkedik 1: esetenként bonyolultabb helyzetekben segítségre szorul 2: gyakran az adott helyzetnek nem megfelelően viselkedik 3: nem megfelelő viselkedése gyakran kellemetlenséget okoz, reakciója nem kiszámítható – viselkedési kockázat 4: nem képes az adott helyzetnek megfelelően viselkedni |  |  |
 
-|  | Kommu- nikáció, beszédkészség, beszédértés | helyzetnek megfelelő kommuni- káció, viselkedés, beszéd | megfelelő | 0 | kommuniká- ciója megtartott, néha akadozik | 1 | kommunikáció- ban segítségre szorul | 2 | beszédértése, beszédének érthetősége megromlott, kommuniká- cióhoz segédeszköz szükséges | 3 | metakommuni- kációra képes | 4 | kommunikáció- ra képtelen | 5 |
+| Étkezés | 0: önmagát kiszolgálja, önállóan étkezik 1: felszolgálást igényel, de önállóan étkezik 2: felszolgálást és evőeszköz tisztításához segítséget igényel 3: felszolgálás és elfogyasztáshoz részbeni segítséget igényel 4: teljes segítséget igényel az étel elfogyasztásához |  |  |
 
-| 5. Érzékszervi funkciók | Látás | önellátást, önkiszolgálást akadályozza, nehezíti | megfelelő | 0 | átlagos fényviszonyok mellett még jól tájékozódik, személyeket, tárgyakat már nehezen ismer fel | 1 | átlagos fényviszonyok mellett már rosszul tájékozódik, személyeket, tárgyakat nehezen ismer fel, olvasni nehezen tud | 2 | segítséggel képes tájékozódni, személyeket főleg csak hangról ismer fel | 3 | látáscsökkenése önellátását korrekciós szemüveg használatával is jelentősen akadályozza | 4 | látáscsökkenése miatt önellátásra nem képes | 5 |
+| Öltözködés | 0: nem igényel segítséget 1: önállóan végzi, de a megfelelő ruhaneműk kiválasztásához segítséget igényel 2: egyes ruhadarabok felvételében igényel segítséget 3: jelentős segítséget igényel az öltözködésben, megfelelő öltözet kiválasztásában 4: öltöztetés, vetkőzés minden szakaszában segítségre szorul |  |  |
 
-|  | Hallás | kapcsolattartást, ügyintézést, önellátást nehezíti | megfelelő | 0 | átlagközeli hangerő mellett időnként rosszul hall | 1 | átlagközeli hangerő mellett kommunikáció- ja nehezített | 2 | hallókészülék használatára szorul | 3 | halláscsökkené- se nagyfokú, hallókészülékkel is nehéz számára a kommunikáció | 4 | halláscsökkené- se nagyfokú, hallókészüléket nem tud vagy nem hajlandó használni | 5 |
+| Tisztálkodás (személyi higiéné biztosítása) | 0: szükségleteit felmérve önállóan végzi 1: szükségleteit felismeri, bizonyos feladatokhoz segítséget igényel 2: szükségleteit felismeri, tisztálkodni csak segítséggel tud 3: részlegesen ismeri fel szükségleteit, segítséget igényel 4: nem ismeri fel szükségleteit, tisztálkodni önállóan nem képes |  |  |
 
-| 6. Egészség- ügyi ellátási igény |  | orvosi ellenőrzés, gondozás, rehabilitáció, valamint ápolási feladatok szükségessége | nincs | 0 | időnként orvosi ellenőrzésre, vér-, széklet-, vizelet- mintavételre szorul | 1 | életfunkciók időszakos ellenőrzésére, esetenként injekciózásra, fájdalom- csillapításra szorul | 2 | időszakosan folyamatos egészségügyi ellátásra, gondozásra, rehabilitációra, életfunkciók ellenőrzésére szorul | 3 | rendszeres egészségügyi ellátásra, időszakosan folyamatos kezelésre, megfigyelésre szorul | 4 | állandó egészségügyi ellátásra, folyamatos kezelésre és megfigyelésre szorul | 5 |
+| WC használat | 0: önálló WC használatban, öltözködésben, higiénés feladatait ellátja 1: önállóan használja WC-t, de öltözködésben és vagy higiénés feladatokban ellenőrizni kell 2: önállóan használja WC-t, de öltözködésben és vagy higiénés feladatokban segíteni kell 3: segítséget igényel WC használatban, öltözködésben, higiénés feladatok elvégzéséhez 4: segítséggel sem képes WC használatra, öltözködésre, higiénés feladatok elvégzésére |  |  |
 
-| 7. Felügyeleti igény |  | személyi segítő jelenlétének szükségessége | nincs | 0 | időnként rövid időtartamú felügyeletre szorul | 1 | esetenként hosszabb időtartamú felügyeletre szorul | 2 | gyakran szorul felügyeletre | 3 | rendszeres felügyeletre szorul | 4 | állandó folyamatos felügyeletre szorul | 5 |
+| Kontinencia | 0: vizeletét, székletét tartani képes 1: önállóan pelenkát cserél, elvégzi a higiénés feladatait 2: pelenka cserében, öltözködésben és vagy higiénés feladatokban alkalmanként segítséget igényel 3: rendszeres segítséget igényel pelenka cserében, öltözködésben, higiénés feladatok elvégzésében 4: inkontinens, teljes ellátásra szorul |  |  |
 
-| 8. Szociális körülmények | Kapcsolatok | társas, családi kapcsolatok minősége, rendszeres- sége, egyéb emberi/ közösségi kapcsolatok, támaszok | megfelelő | 0 | családban él, de napközben segítség és felügyelet nélkül van | 1 | kétszemélyes háztartásban él, hasonló helyzetű személlyel, családi segítséget rendszertelenül kap | 2 | egyedül él, eseti segítséget kap családjától, szociális alapszolgáltatásban részesül | 3 | egyedül él, támasz és családi kapcsolatok nélkül, szociális alapszolgáltatásban részesül | 4 | egyedül él, támasz és családi kapcsolatok nélkül, szociális alapszolgáltatás nem hozzáférhető | 5 |
+| Kommunikáció Képes-e megfogalmazni, elmondani a panaszát, megérti-e amit mondanak neki | 0: kifejezőkészsége, beszédértése jó 1: kommunikációban időszakosan segítségre szorul 2: beszédértése, érthetősége megromlott 3: kommunikációra csak segédeszközzel vagy csak metakommunikációra képes 4: kommunikációra nem képes |  |  |
 
-|  |  |  |  | 0 |  | 14 |  | 28 |  | 42 |  | 56 |  | 70 |
+| Terápiakövetés Rábízható-e az előírt gyógyszerek adagolása, szedése | 0: az orvos utasításait, előírt gyógyszeres terápiát betartja 1: gyógyszerelésben segítséget igényel, utasításokat betartja 2: elrendelt terápiát tartja, segítséggel tudja tartani az utasításokat 3: elrendelt terápiát, utasításokat ellenőrzés mellett tartja 4: gyógyszer bevétele csak gondozói ellenőrzéssel |  |  |
 
-|  | Lakás, lakhatás* | jogcím, komfortosság (vezetékes víz, villany, fűtés, telefon); lakókörnyezeti infrastruktúra, lakás és lakókörnyezet akadálymentesí- tettsége (lift, lépcső), lakókörnyezet szolgáltatásai | megfelelő | 0 | lakás megfelelő, de nem akadálymentesí- tett, lépcsők nehezítik a közlekedést; a napi életvitelhez szükséges szolgáltatások elérhetők | 1 | a lakás komfort nélküli, egyedi fűtésű, a környék infrastruktúrája hiányos, a napi életvitelt nehezíti | 2 | a lakásban nincs vezetékes víz vagy villany, a lakás állaga, állapota rossz, fűtés egyedi, a tüzelő behordását rendszeresen nem tudja elvégezni, a környék szolgáltatások- kal való ellátása rossz, hiányos | 3 | albérletben/társ- bérletben lakik, vagy a lakás komfort nélküli, vizes, nem fűthető; a környék szolgáltatá- sokkal való ellátása rossz, hiányos | 4 | szívességi lakáshasználó vagy nincs megoldva a lakhatása, „hajléktalan- közeli” állapotban van; bántalmazzák, fenyegetik | 5 |
+| Helyzetváltoztatás | 0: önállóan 1: önállóan, segédeszköz használatával 2: esetenként segítséggel 3: gyakran segítséggel 4: nem képes |  |  |
 
-|  | Anyagi helyzet* | lakhatását, rendszeres étkezését, ruházkodását havi jövedelme biztosítja | megfelelő | 0 | élelmezése és lakhatása biztosított, ruházata elhasználódott | 1 | lakhatása, étkezése eseti segélyekkel együtt biztosított | 2 | folyamatos pénzbeli támogatá- sokkal tudja biztosítani lakhatását, étkezését, ruházata hiányos | 3 | esetenként lakhatásával és élelmezé- sével összefüggő adóssága van, segélykeretét kimerítette | 4 | felhalmozott adósságát jövedelméből nem tudja rendezni, a segélyek a létfenntartását nem biztosítják, éhezik | 5 |
+| Helyváltoztatás | 0: önállóan 1: segédeszköz önálló használatával 2: segédeszköz használatával, segítséget esetenként igényel 3: segédeszköz használatával, gyakran csak segítséggel 4: nem képes |  |  |
 
-|  |  |  |  | 0 |  | 16 |  | 32 |  | 48 |  | 64 |  | 80 |
+| Életvezetési képesség (felügyelet igénye) | 0: önállóan 1: esetenkénti tanácsadás, részfeladatra betanítható 2: személyes szükségletei ellátásában segítségre szorul 3: személyes szükségletei ellátásában gyakran vagy rendszeresen segítségre szorul, belátási képessége hiányzik 4: állandó 24 órás felügyelet |  |  |
 
-## * A megjelölt szociális körülményeket idősotthoni elhelyezés esetén kell vizsgálni.
+| Látás | 0: jól lát, szemüveg használata nélkül 1: jól lát, szemüveg használatával 2: szemüveg használatára szorul, de elutasítja azt 3: szemüveg használatával sem kielégítő a látása (pl. hályog, érbetegség) 4: nem lát |  |  |
+
+| Hallás | 0: jól hall, átlagos hangerő mellett 1: átlagos hangerő mellett időnkénti hallásproblémái vannak 2: hallókészülék használatára szorul 3: van hallókészüléke, de nem képes használni vagy elutasítja 4: nem hall |  |  |
+
+| Fokozat: | Intézményvezető és az orvos által adott összes pontszám |  |  |
+
+## Értékelés
+
+| Fokozat | Értékelés | Pontszám | Jellemzők |
+
+| 0. | Tevékenységeit elvégzi | 0–19 | Az egyén a vizsgált tevékenységeket el tudja végezni. A szolgáltatás a szociális és egészségi állapot szinten tartására korlátozódik. |
+
+| I. | Egyes tevékenységekben segítségre szoruló | 20–34 | Az egyén egyes tevékenységekben hetente többször segítségre szorul vagy figyelmet, irányítást igényel. |
+
+| II. | Részleges segítségre szoruló | 35–39 | Az egyén bizonyos tevékenységek elvégzésében napi rendszeres segítségre szorul vagy napi szintű kontrollt igényel. |
+
+| III. | Teljes ellátásra szoruló | 40–56 | Az egyén teljes ellátásra, folyamatos gondozásra, ápolásra szorul, intenzív odafigyelést és gyakori beavatkozást igényel. |
 
 ## Az irányadó gondozási szükséglet:
 
-## 0–19 pont: nincs
+## 0–19: 1 órát el nem érő
 
-## 20–25 pont: 1 óra
+## 20–24 pont: napi 1 óra
 
-## 26–30 pont: 2 óra
+## 25–30 pont: napi 2 óra
 
-## 31–35 pont: 3 óra
+## 31–34 pont: napi 3 óra
 
-## 36–40 pont: 4 óra
+## 35–39 pont: napi 4 óra
 
-## 40 pont felett: 4 órát meghaladó
+## 40 ponttól: napi 4 órát meghaladó
 
-## Bentlakásos intézményben élők gondozási szükségletének vizsgálata során a 8. pont szerinti szempontok vizsgálatára irányadó szempontokat figyelmen kívül kell hagyni. Az irányadó gondozási szükséglet 35 pont felett 4 órát meghaladó.
+## Az igénylő napi gondozási szükséglete[^24]:
 
-4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^19]
+## 1 órát el nem érő
 
-Igazolás
+## 1 óra
 
-gondozási szükséglet vizsgálatáról
+## 2 óra
 
-1. Személyes adatok
+## 3 óra
 
-A személyes gondoskodást igénylő neve (születési neve):
+## 4 óra
 
-Születési helye, ideje:
+## 4 órát meghaladó vagy
 
-Társadalombiztosítási Azonosító Jel: ◻◻◻ ◻◻◻ ◻◻◻
+## a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 4. § (1) bekezdés ............... pontja/alpontja szerinti egyéb körülmények állnak fenn.
 
-Lakóhelye vagy tartózkodási helye:
+## A vizsgálat eredménye alapján fennálló napi gondozási szükséglet szerint[^25]:
 
-Törvényes képviselőjének neve, elérhetősége:
+## – szociális segítés
 
-2. Házi segítségnyújtás (az intézmény/szolgáltató vezetője vagy a jegyző által felkért szakértő tölti ki):
+## – szociális segítés a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 3/A. § (1) bekezdés b) pont .........alpontja szerinti egyéb körülmény alapján
 
-A házi segítségnyújtást igénylő napi gondozási szükséglete:
+## – személyi gondozás
 
-nincs  ◻ 1 óra  ◻ 2 óra  ◻ 3 óra  ◻ 4 óra◻  4 órát meghaladó ◻
+## – idősotthoni elhelyezés
 
-.....................................................................
+## nyújtható.
 
-intézmény (szolgáltató) vezetője/
+## Dátum:
 
-jegyző által felkért szakértő
+## ..................................................................
 
-A gondozási szükséglet felülvizsgálatát a szolgáltató, intézmény fenntartójánál, fenntartó hiányában a jegyzőnél lehet kérni.
+## intézményvezető/szakértő
 
-3. Idősotthoni ellátás (az intézményvezető tölti ki):
+## ..................................................................
 
-3.1. Az idősotthoni ellátást igénylő gondozási szükséglete gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló miniszteri rendelet 4. § (1) bekezdésének ............... pontja/alpontja szerinti egyéb körülmények alapján áll fenn ◻
+## orvos
 
-3.2. Az idősotthoni ellátást igénylő napi gondozási szükséglete:
+## A gondozási szükséglet felülvizsgálatát az intézmény fenntartójától lehet kérni.
 
-A napi 4 órát meghaladja ◻
+## Felülvizsgálat
 
-A napi 4 órát nem haladja meg  ◻      A gondozási szükséglet órában kifejezett mértéke: napi ..................... óra
+## Az igénylő napi gondozási szükséglete[^26]:
 
-.....................................................................
+## 1 órát el nem érő
 
-intézményvezető
+## 1 óra
 
-A gondozási szükséglet felülvizsgálatát az intézmény fenntartójától lehet kérni.
+## 2 óra
 
-4. Felülvizsgálat
+## 3 óra
 
-4.1. Házi segítségnyújtás (a szolgáltatás fenntartója, fenntartó hiányában a jegyző által kijelölt szakértő tölti ki):
+## 4 óra
 
-A házi segítségnyújtást igénylő napi gondozási szükséglete:
+## 4 órát meghaladó vagy
 
-nincs  ◻ 1 óra  ◻ 2 óra ◻ 3 óra  ◻ 4 óra  ◻ 4 órát meghaladó ◻
+## a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 4. § (1) bekezdés ............... pontja/alpontja szerinti egyéb körülmények állnak fenn
 
-4.2. Idősotthoni ellátás (az intézmény fenntartója tölti ki):
+## A vizsgálat eredménye alapján fennálló napi gondozási szükséglet szerint[^27]:
 
-4.2.1. Az idősotthoni ellátást igénylő gondozási szükséglete gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló miniszteri rendelet 4. § (1) bekezdésének ..... pontja/alpontja szerinti egyéb körülmények alapján áll fenn.
+## – szociális segítés
 
-4.2.2. Az idősotthoni ellátást igénylő napi gondozási szükséglete:
+## – szociális segítés a gondozási szükséglet, valamint az egészségi állapoton alapuló szociális rászorultság vizsgálatának és igazolásának részletes szabályairól szóló 36/2007. (XII. 22.) SZMM rendelet 3/A. § (1) bekezdés b) pont .........alpontja szerinti egyéb körülmény alapján
 
-A napi 4 órát meghaladja ◻
+## – személyi gondozás
 
-A napi 4 órát nem haladja meg ◻ A gondozási szükséglet órában kifejezett mértéke: napi .................... óra
+## – idősotthoni elhelyezés
 
-.....................................................................
+## nyújtható.
 
-fenntartó képviselője
+## Dátum:
 
-[^19]: A 4. számú melléklet a 8/2010. (IX. 3.) NEFMI rendelet 7. §-ával megállapított, a 21/2010. (XII. 30.) NEFMI rendelet 3. § c) pontja szerint módosított szöveg.
+## ..................................................................
+
+## fenntartó képviselője
+
+## ..................................................................
+
+## orvos
+
+4. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^28]
+
+[^24]: A megfelelő aláhúzandó
+[^25]: A megfelelő aláhúzandó, a szociális segítés és a személyi gondozás együttesen is jelölhető
+[^26]: A megfelelő aláhúzandó
+[^27]: A megfelelő aláhúzandó, a szociális segítés és a személyi gondozás együttesen is jelölhető
+[^28]: A 4. számú mellékletet az 55/2015. (XI. 30.) EMMI rendelet 38. §-a hatályon kívül helyezte.

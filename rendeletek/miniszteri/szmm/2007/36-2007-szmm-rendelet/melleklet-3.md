@@ -1,3 +1,3 @@
-3. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^18]
+3. számú melléklet a 36/2007. (XII. 22.) SZMM rendelethez[^23]
 
-[^18]: A 3. számú melléklet a 78/2011. (XII. 30.) NEFMI rendelet 10. §-a, a 2/2015. (I. 14.) EMMI rendelet 16. §-a szerint módosított szöveg.
+[^23]: A 3. számú melléklet az 55/2015. (XI. 30.) EMMI rendelet 36. §-ával megállapított szöveg.
