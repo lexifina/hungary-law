@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-9-20-85
 | 2015-02-03 | 1999-9-20-85.23 | 27/2010. (XII. 30.) NEFMI rendelet |
 | 2015-03-01 | 1999-9-20-85.24 | 27/2010. (XII. 30.) NEFMI rendelet |
 | 2015-05-03 | 1999-9-20-85.25 | 24/2015. (IV. 30.) EMMI rendelet |
+| 2015-12-03 | 1999-9-20-85.26 | 10/2006. (XII. 27.) SZMM rendelet |
