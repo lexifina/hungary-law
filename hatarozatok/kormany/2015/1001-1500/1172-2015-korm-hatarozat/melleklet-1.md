@@ -200,9 +200,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 11,53 | 119,72 | 26,76 | 23,83 | 4,46 | 186,30 |
+| 3. | 11,53 | 119,72 | 26,76 | 23,83 | 64,46 | 246,30 |
 
-| 4. | Többletkötelezettség-vállalás: 21,76 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 81,76 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85 % |
 
@@ -214,7 +214,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 222,79 | 14,88 | 23,52 | 261,19 |
+| 3. | 222,79 | 14,88 | 83,52 | 321,19 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -324,6 +324,14 @@
 
 | 48. | 3.3.17 | Iskola a természetben | 0,00 | 0,00 | 0,00 | 0,60 | 0,89 | A konstrukció célja a hátrányos helyzetű településeken a tanulók – iskolai keretek közti – megismertetése a helyi természeti adottságban rejlő lehetőségekkel, különös tekintettel a mezőgazdasági ismeretekre. A konstrukció keretében nemzetközi referenciával bíró program hazai adaptációjára és ahhoz kapcsolódó módszertani fejlesztésre kerül sor. | emberi erőforrások minisztere |  |
 
+| 48a. | 3.3.18 | Az Arany János Tehetséggondozó Program projektjeinek támogatása | 0,00 | 0,00 | 0,00 | 0,00 | 11,90 | A konstrukció célja a hátrányos és halmozottan hátrányos helyzetű tanulók iskolai sikerességének elősegítését támogató, 2007 és 2015 között hazai költségvetésből megvalósításra került projektek támogatása. | emberi erőforrások minisztere | – |
+
+| 48b. | 3.3.19 | Az Integrációs Pedagógiai Rendszer projektjeinek támogatása | 0,00 | 0,00 | 0,00 | 0,00 | 16,90 | A konstrukció célja az Integrációs Pedagógiai Rendszer 2007. és 2015. között megvalósításra került programjainak támogatása | emberi erőforrások minisztere | – |
+
+| 48c. | 3.3.20 | Útravaló-MACIKA Ösztöndíjprogram projektjeinek támogatása | 0,00 | 0,00 | 0,00 | 0,00 | 11,20 | A konstrukció célja Útravaló-MACIKA Ösztöndíjprogram 2007. és 2015. között megvalósításra került programjainak támogatása | emberi erőforrások minisztere | – |
+
+| 48d. | 3.3.21 | A Nemzeti Tehetség Program projektjeinek támogatása | 0,00 | 0,00 | 0,00 | 0,00 | 20,00 | A Nemzeti Tehetség Program 2007. és 2015. között megvalósításra került programjainak támogatása | emberi erőforrások minisztere | – |
+
 | 49. | 3.4.1.A | Nemzetiségi tanulók nevelésének és oktatásának támogatása | 0,00 | 1,43 | 0,00 | 0,00 | 0,00 | A konstrukció célja, hogy a nemzetiségi oktatás számára a minőség javítását szolgáló oktatási programok álljanak rendelkezésre, amelyek hozzájárulnak a pedagógusok módszertani kultúrájának bővítéséhez a kompetenciaalapú oktatás módszertanával és eszközeivel, továbbá biztosítják a tanulók eltérő nyelvi adottságaira épülve a képességek és kulcskompetenciák egyénre szabott fejlesztését és megerősítését. | emberi erőforrások minisztere |  |
 
 | 50. | 3.4.1.B | Migráns tanulók nevelésének és oktatásának támogatása | 0,00 | 0,69 | 0,00 | 0,00 | 0,00 | A konstrukció célja a migráns hátterű, a köznevelés, közoktatás rendszerében részt vevő tanulók nevelésének, oktatásának, a magyar társadalomba és a munka világába történő beilleszkedésének, önálló életvitelük kialakításának támogatása. | emberi erőforrások minisztere |  |
@@ -338,7 +346,7 @@
 
 | 55. | 3.4.5-12 | Tehetséghidak Program | 0,00 | 1,98 | 0,00 | 1,20 | 0,00 | A konstrukció célja az iskolai és iskolán kívüli tehetségsegítés és tehetséggondozás feltételrendszerének javítása révén a tehetséges gyerekekkel, fiatalokkal való kiemelt foglalkozás, továbbá az esélynövelést szolgáló tehetséggondozás hosszú távú, ágazatközi együttműködésen alapuló feltételeinek megteremtése. | emberi erőforrások minisztere |  |
 
-| 56. | Összesen | 11,53 | 119,72 | 26,76 | 23,83 | 4,46 |  |  |  |
+| 56. | Összesen | 11,53 | 119,72 | 26,76 | 23,83 | 64,46 |  |  |  |
 
 4. A 4. prioritás: A felsőoktatás tartalmi és szervezeti fejlesztése, a tudásalapú gazdaság kiépítése érdekében
 
@@ -691,4 +699,4 @@
 | 3. | 7.2.1 | Az OP lebonyolításával kapcsolatos egyéb feladatok | 4,85 | 4,85 | 4,85 | 0,00 | 0,00 | A konstrukció célja, hogy biztosítsa a Társadalmi Megújulás Operatív Program lebonyolításával kapcsolatos specifikus feladatok költséghatékony és eredményes ellátását (pl. monitoring bizottság működtetése, beleértve annak titkársági feladatai ellátását is, az éves megvalósítási jelentések, a Társadalmi Megújulás Operatív Program végrehajtását érintő tanulmányok, elemzések, a Nemzeti Stratégiai Referencia Keret-szintű értékelési tervben nem szereplő, valamint a monitoring bizottság kezdeményezésére indított értékelések). | emberi erőforrások minisztere |  |
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja, az 1685/2015. (IX. 24.) Korm. határozat 3–4. pontja, az 1775/2015. (X. 19.) Korm. határozat 3–4. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja, az 1685/2015. (IX. 24.) Korm. határozat 3–4. pontja, az 1775/2015. (X. 19.) Korm. határozat 3–4. pontja, az 1877/2015. (XII. 2.) Korm. határozat 3–4. pontja szerint módosított szöveg.
