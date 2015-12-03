@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Szaúd-Arábiai Királyság Kormánya között az atomenergia békés célú felhasználásáról szóló együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
