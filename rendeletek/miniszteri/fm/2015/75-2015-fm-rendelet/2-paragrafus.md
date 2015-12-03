@@ -1,1 +1,0 @@
-## „(6a) A hiányosan benyújtott bejelentés esetén az erdészeti hatóság 15 napos teljesítési határidővel hiánypótlási felhívást bocsát ki. Az ismételten hiányosan benyújtott bejelentés záradékolását az erdészeti hatóság elutasítja.”
