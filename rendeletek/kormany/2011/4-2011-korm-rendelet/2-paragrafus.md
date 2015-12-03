@@ -18,7 +18,7 @@
 
 5a.[^9] érintett miniszter: az operatív program támogatási konstrukciónak szakmai tartalmához közvetetten kapcsolódó feladatkörrel rendelkező miniszter,
 
-6.[^10] finanszírozási keret: a Társadalmi Megújulás Operatív Program 1., 2., 4. és 5. prioritás egyes intézkedéseire, a Gazdaságfejlesztési Operatív Program 4. pénzügyi eszközök prioritásra és a Közép-Magyarországi Operatív Program 1.3. intézkedésre vonatkozó kötelezettségvállalások mindenkori támogatási keretösszegei, amelyeket az irányító hatóság a finanszírozási szerződés szerint a forráskezelő szervezet rendelkezésére bocsát,
+6.[^10] finanszírozási keret: a Társadalmi Megújulás Operatív Program 1., 2., 4. és 5. prioritás egyes intézkedéseire, a Társadalmi Infrastruktúra Operatív Program, 2. és 3. prioritás egyes intézkedéseire, a Gazdaságfejlesztési Operatív Program 4. pénzügyi eszközök prioritásra és a Közép-Magyarországi Operatív Program 1.3. intézkedésre vonatkozó kötelezettségvállalások mindenkori támogatási keretösszegei, amelyeket az irányító hatóság a finanszírozási szerződés szerint a forráskezelő szervezet rendelkezésére bocsát,
 
 7.[^11]
 
@@ -121,7 +121,7 @@ rendelkezései szerint kell értelmezni.
 [^7]: Lásd az 547/2013. (XII. 30.) Korm. rendeletet.
 [^8]: A 2. § (1) bekezdés 5. pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 1. pontja szerint módosított szöveg.
 [^9]: A 2. § (1) bekezdés 5a. pontját az 548/2013. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 203/2014. (VIII. 14.) Korm. rendelet 10. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^10]: A 2. § (1) bekezdés 6. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 1. pontja, a 304/2015. (X. 19.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés 6. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 1. pontja, a 304/2015. (X. 19.) Korm. rendelet 1. § a) pontja, a 368/2015. (XII. 2.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § (1) bekezdés 7. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^12]: A 2. § (1) bekezdés 8a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 44. § (1) bekezdés 3. pontja szerint módosított szöveg.
 [^13]: A 2. § (1) bekezdés 10a. pontját az 548/2013. (XII. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be.

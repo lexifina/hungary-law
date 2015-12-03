@@ -6,7 +6,7 @@
 
 ## 45. Szervezeti kijelölések
 
-115. § (1)[^509] A Kormány a Társadalmi Megújulás Operatív Program, a Gazdaságfejlesztési Operatív Program 4. Pénzügyi eszközök prioritásának, valamint a Közép-magyarországi Operatív Program KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése intézkedésének végrehajtása érdekében forráskezelő szervezetként az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaságot és a Magyar Államkincstárt kizárólagos joggal kijelöli.
+115. § (1)[^509] A Kormány a Társadalmi Megújulás Operatív Program, a Társadalmi Infrastruktúra Operatív Program, a Gazdaságfejlesztési Operatív Program 4. Pénzügyi eszközök prioritásának, valamint a Közép-magyarországi Operatív Program KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése intézkedésének végrehajtása érdekében forráskezelő szervezetként az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaságot és a Magyar Államkincstárt kizárólagos joggal kijelöli.
 
 (2) A Kormány a Regionális Operatív Programok Akcióterveiben nevesített Regionális Tőkebefektetési Alap komponensek vonatkozásában alapkezelő szervezetként a Regionális Tőkealap-kezelő Zártkörűen Működő Részvénytársaságot kizárólagos joggal kijelöli.
 
@@ -17,6 +17,6 @@
 (5)[^511] A Közép-dunántúli Operatív Program 2007–2008-as Akcióterve keretében a 2. Regionális turizmusfejlesztés és 3. Fenntartható településfejlesztés prioritások esetében a közreműködő szervezeti feladatokat a Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. látja el.
 
 [^508]: A 114/I. §-t a 323/2015. (X. 30.) Korm. rendelet 6. § (5) bekezdése iktatta be.
-[^509]: A 115. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 43. pontja, a 304/2015. (X. 19.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^509]: A 115. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 43. pontja, a 304/2015. (X. 19.) Korm. rendelet 1. § c) pontja, a 368/2015. (XII. 2.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^510]: A 115. § (4) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^511]: A 115. § (5) bekezdése a 96/2014. (III. 25.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
