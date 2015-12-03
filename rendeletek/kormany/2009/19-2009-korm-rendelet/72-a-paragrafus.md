@@ -1,6 +1,6 @@
-## A rendszer-összekötési pontra vonatkozó részletszabályok[^272]
+## A rendszer-összekötési pontra vonatkozó részletszabályok[^275]
 
-72/A. §[^273] (1) A kapcsolódó szállítási rendszerüzemeltetők közötti a 984/2013/EU bizottsági rendeletében meghatározott kapacitástermékek, továbbá a kapacitáskínálat kialakítására vonatkozó egyeztetéseknek az alapja a rendszer-összekötési pontok technikai kapacitásának mértéke.
+72/A. §[^276] (1) A kapcsolódó szállítási rendszerüzemeltetők közötti a 984/2013/EU bizottsági rendeletében meghatározott kapacitástermékek, továbbá a kapacitáskínálat kialakítására vonatkozó egyeztetéseknek az alapja a rendszer-összekötési pontok technikai kapacitásának mértéke.
 
 (2) A nem EU tagállam földgázrendszeréhez kapcsolódó rendszer-összekötési ponton a szállítási rendszerüzemeltetőnek törekednie kell kapcsolt kapacitástermékek kialakítására a szomszédos állam rendszerüzemeltetőjével.
 
@@ -8,5 +8,5 @@
 
 (4) A rendszer-összekötési pont maximális kapacitását a szállítási rendszerüzemeltető működési engedélye tartalmazza.
 
-[^272]: A Vhr. 72/A. §-át megelőző alcímet a 91/2015. (IV. 9.) Korm. rendelet 9. §-a iktatta be.
-[^273]: A Vhr. 72/A. §-át a 91/2015. (IV. 9.) Korm. rendelet 9. §-a iktatta be.
+[^275]: A Vhr. 72/A. §-át megelőző alcímet a 91/2015. (IV. 9.) Korm. rendelet 9. §-a iktatta be.
+[^276]: A Vhr. 72/A. §-át a 91/2015. (IV. 9.) Korm. rendelet 9. §-a iktatta be.

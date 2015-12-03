@@ -1,4 +1,4 @@
-155/A. §[^501] (1) Ha a 2014/2015-ös gázév tekintetében 2014. december 31-ig terjedő időszakra vonatkozóan
+155/A. §[^504] (1) Ha a 2014/2015-ös gázév tekintetében 2014. december 31-ig terjedő időszakra vonatkozóan
 
 a) az egyetemes szolgáltatói engedéllyel nem rendelkező földgázkereskedő, vagy a saját jogon eljáró felhasználó, vagy
 
@@ -8,4 +8,4 @@ hazai földgáztárolói készlet növelését eredményező tárolói kapacitá
 
 (2) Az (1) bekezdésben foglaltakat a folyamatban lévő kapacitás-lekötési eljárásokban is alkalmazni kell.
 
-[^501]: A Vhr. 155/A. §-át a 248/2014. (X. 1.) Korm. rendelet 1. §-a iktatta be.
+[^504]: A Vhr. 155/A. §-át a 248/2014. (X. 1.) Korm. rendelet 1. §-a iktatta be.

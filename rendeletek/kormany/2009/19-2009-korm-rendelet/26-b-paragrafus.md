@@ -2,9 +2,9 @@
 
 (2) Ha a felhasználó a kereskedőváltással kapcsolatos kötelezettségeit – így különösen a GET 31/B. § (1) bekezdés b) pontja szerinti szerződési feltételeket – teljesítette, de valamely érintett földgázkereskedő vagy rendszerüzemeltető nem teljesíti a kereskedőváltással kapcsolatos kötelezettségeit, és emiatt a kereskedőváltás nem jön létre, a felhasználó korábbi földgáz-kereskedelmi szerződése változatlan feltételekkel hatályban marad. A kereskedőváltással kapcsolatos kötelezettségeket nem teljesítő földgázkereskedő vagy rendszerüzemeltető – a kereskedőváltás meghiúsulása miatt – köteles az érintettek kárát és költségét kamatokkal együtt megtéríteni.
 
-(3)[^131] Kereskedőváltás esetén a felhasználó vagy a vele szerződést kötő új földgázkereskedő a kapacitáslekötési időszak végéig köteles a korábbi földgázkereskedő által az ellátása érdekében a rendszerüzemeltetőknél lekötött és a szerződés megszűnését követően ismételten rendelkezésére bocsátott kapacitást – a (4) bekezdés szerinti eltéréssel – lekötni. A szállítói és elosztói kapacitás esetében a kapacitásdíjat a kapacitáslekötési időszak végéig, tárolási kapacitás esetében a tárolási év végéig időarányosan kell megfizetni.
+(3)[^134] Kereskedőváltás esetén a felhasználó vagy a vele szerződést kötő új földgázkereskedő a kapacitáslekötési időszak végéig köteles a korábbi földgázkereskedő által az ellátása érdekében a rendszerüzemeltetőknél lekötött és a szerződés megszűnését követően ismételten rendelkezésére bocsátott kapacitást – a (4) bekezdés szerinti eltéréssel – lekötni. A szállítói és elosztói kapacitás esetében a kapacitásdíjat a kapacitáslekötési időszak végéig, tárolási kapacitás esetében a tárolási év végéig időarányosan kell megfizetni.
 
-(4)[^132] A felhasználóval szerződést kötő új földgázkereskedő a (3) bekezdés szerinti kereskedőváltás esetében részben vagy egészben megtagadhatja a szállítói betáplálási, betároláshoz tartozó szállítási kiadási, illetve tárolói kapacitás átvételét és lekötését.
+(4)[^135] A felhasználóval szerződést kötő új földgázkereskedő a (3) bekezdés szerinti kereskedőváltás esetében részben vagy egészben megtagadhatja a szállítói betáplálási, betároláshoz tartozó szállítási kiadási, illetve tárolói kapacitás átvételét és lekötését.
 
 (5) A (4) bekezdés alkalmazása esetén a földgáz rendszerhasználati díjakat
 
@@ -16,5 +16,5 @@ fizeti meg. Az új földgázkereskedő által át nem vett és le nem kötött k
 
 (6) A felhasználó vagy az érintett földgázkereskedő a kereskedőváltás miatti kapacitásátadási egyeztetések meghiúsulása esetén írásban kérelmet nyújthat be a Hivatalhoz. A kérelemhez mellékelni kell az érintett rendszerüzemeltetővel és a földgázkereskedővel folytatott – az egyeztetés lényeges dokumentumait tartalmazó – levelezést, valamint a kérdéses kapacitásra vonatkozó igény megalapozottságának igazolását. Az engedélyesek kötelesek az eljárásról szóló értesítésben megjelölt határidőben a Hivatal által kért tájékoztatást megadni, a kapacitás átadásának elutasítását megindokolni. A Hivatal 15 napon belül dönt a kérelem tárgyában.
 
-[^131]: A Vhr. 26/B. § (3) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 21. § 4. pontja szerint módosított szöveg.
-[^132]: A Vhr. 26/B. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^134]: A Vhr. 26/B. § (3) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 21. § 4. pontja szerint módosított szöveg.
+[^135]: A Vhr. 26/B. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.

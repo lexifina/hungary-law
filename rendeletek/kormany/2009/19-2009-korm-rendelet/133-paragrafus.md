@@ -1,4 +1,4 @@
-133. §[^433] (1) A Hivatal a GET 119. § (7) bekezdése szerinti határozat meghozatalakor előírja, hogy rendszer tulajdonosa és a kijelölt üzemeltető engedélyes az üzemeltetési szerződést hozza létre, a 106. § (3) bekezdésben előírt tartalmi elemek figyelembevételével, az előírt határidőre és ezt a Hivatal felé igazolja az üzemeltetési szerződéssel és az annak végrehajtásáról szóló ütemtervvel.
+133. §[^436] (1) A Hivatal a GET 119. § (7) bekezdése szerinti határozat meghozatalakor előírja, hogy rendszer tulajdonosa és a kijelölt üzemeltető engedélyes az üzemeltetési szerződést hozza létre, a 106. § (3) bekezdésben előírt tartalmi elemek figyelembevételével, az előírt határidőre és ezt a Hivatal felé igazolja az üzemeltetési szerződéssel és az annak végrehajtásáról szóló ütemtervvel.
 
 (2) Ha a kijelölő határozatban foglaltaknak az engedélyes és a tulajdonos nem tesznek eleget, a Hivatal a GET-ben és a jogszabályokban előírt jogkövetkezmények alkalmazása mellett, a jogosult az üzemeltetési jogviszony tartalmát, vagy annak a kötelezettek által meg nem határozott elemeit és egyéb feltételeit külön határozatban meghatározni.
 
@@ -12,4 +12,4 @@ c) eltérő megállapodás hiányában a csatlakozásért beszedett díjakat, fe
 
 (4) A kötelező kijelölés időszakában a Hivatal által meghatározott időszakban és a kijelölési időszak végén az üzemeltető engedélyesnek a Hivatal által meghatározott elszámolást be kell mutatnia a Hivatalnak.
 
-[^433]: A Vhr. 133. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^436]: A Vhr. 133. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
