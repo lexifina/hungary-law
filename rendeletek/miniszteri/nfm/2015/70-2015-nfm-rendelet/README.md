@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-70-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-02 | 2015-70-20-2W.1 | 70/2015. (XII. 1.) NFM rendelet |
+| 2015-12-03 | 2015-70-20-2W.2 | 2010: CXXX. törvény |

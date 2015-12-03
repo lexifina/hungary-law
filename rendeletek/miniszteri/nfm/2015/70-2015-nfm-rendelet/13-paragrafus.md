@@ -1,1 +1,3 @@
-13. § Hatályát veszti a légiközlekedési balesetek, a repülőesemények és a légiközlekedési rendellenességek szakmai vizsgálatának szabályairól szóló 123/2005. (XII. 29.) GKM rendelet.
+13. §[^1]
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
