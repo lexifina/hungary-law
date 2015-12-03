@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011-2020) | az 1. § (1) bekezdés a) és b) pontja szerinti terület, illetve ezen területekből telekalakítás folytán kialakított terület | általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
+| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011-2020) | az 1. § (1) bekezdés a) pontja szerinti terület, illetve ezen területekből telekalakítás folytán kialakított terület | általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások, a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
@@ -26,7 +26,7 @@
 
 | 12. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^10]
+2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^16]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -60,4 +60,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 14. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 25. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^16]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 25. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
