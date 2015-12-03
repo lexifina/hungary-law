@@ -1,0 +1,3 @@
+## 2. § A Rendelet a következő 5/A. §-sal egészül ki:
+
+## „5/A. § A Beruházásokkal érintett építmények, önálló rendeltetési egységek rendeltetésszerű használatához szükséges, az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 42. §-a szerint elhelyezendő személygépkocsik, kialakítandó kerékpártárolók, létesítendő autóbusz várakozóhelyek számát úgy kell meghatározni, hogy a Budapest II. kerület, 13431/3 helyrajzi számon nyilvántartott épületegyüttes részét képező Wagner-villa használaton kívüli épületrészének újrahasznosításával kialakításra kerülő helyiségek után gépjármű várakozóhelyet nem kell biztosítani.”
