@@ -6,15 +6,15 @@
 
 ## a) a Néprajzi Múzeum, a Kúria eredeti bírósági funkciójának mielőbbi helyreállítása érdekében;
 
-## b) a Magyar Fotográfiai Múzeum;
+## b)[^1]
 
 ## c) az Új Nemzeti Galéria, a Szépművészeti Múzeum és a Magyar Nemzeti Galéria gyűjteményeinek újraegyesítése érdekében;
 
-## d) a Ludwig Múzeum – Kortárs Művészeti Múzeum, az Új Nemzeti Galéria épületében;
+## d)[^2]
 
 ## e) a Magyar Zene Háza;
 
-## f) a Magyar Építészeti Múzeum;
+## f)[^3]
 
 ## 1.3. felhívja az emberi erőforrások miniszterét az 1.2. pont szerinti intézményeket befogadó épületegyüttesre vonatkozó nemzetközi építészeti tervpályázat kiírásának előkészítésére;
 
@@ -72,9 +72,9 @@
 
 ## Felelős: az elszámolásért és a visszafizetési kötelezettségért: emberi erőforrások minisztere
 
-## Határidő: 2014. december 31.[^1]
+## Határidő: 2014. december 31.[^4]
 
-## 2–3.[^2]
+## 2–3.[^5]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -148,5 +148,8 @@ Költségvetési év: 2013.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A határidő az 1203/2014. (IV. 1.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpontját az 1866/2015. (XII. 2.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^2]: Az 1. pont d) alpontját az 1866/2015. (XII. 2.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^3]: Az 1. pont f) alpontját az 1866/2015. (XII. 2.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^4]: A határidő az 1203/2014. (IV. 1.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^5]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
