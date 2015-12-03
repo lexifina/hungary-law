@@ -1,3 +1,0 @@
-## 12. § A 32/2012. (VI. 8.) NFM rendelet 29. §-a a következő (5) bekezdéssel egészül ki:
-
-## „(5) E rendeletnek a Gazdaságfejlesztési Operatív Programra és a Közép-Magyarországi Operatív Program 1. prioritására vonatkozó részletes szabályokról szóló 29/2012. (VI. 8.) NFM rendelet, valamint a Társadalmi Megújulás Operatív Program prioritásaira rendelt források felhasználásának részletes szabályairól és egyes támogatási jogcímeiről szóló 32/2012. (VI. 8.) NFM rendelet módosításáról szóló 52/2015. (XII. 1.) MvM rendelettel [a továbbiakban: 52/2015. (XII. 1.) MvM rendelet] megállapított rendelkezéseit az 52/2015. (XII. 1.) MvM rendelet hatálybalépését követően meghozott támogatási döntések tekintetében kell alkalmazni.”
