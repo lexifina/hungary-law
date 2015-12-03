@@ -1,4 +1,4 @@
-## 21. §[^42]
+## 21. §[^46]
 
 1. melléklet a 223/2014. (IX. 4.) Korm. rendelethez
 
@@ -290,4 +290,4 @@ b) árvízvédelmi művek: a Hortobágy-Berettyó bal parti töltése a torkolat
 
 c) kisvízfolyások, belvízcsatornák és vízilétesítmények: a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és az azokon lévő vízilétesítmények, ezen kívül Békés megyében a Dögös-Kákafoki-főcsatorna Nagyszénás, Orosháza területén, Hajdú-Bihar megyében Biharnagybajom-Nagyrábé-Darvas község határában az Ó-Berettyó-csatorna.
 
-[^42]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
