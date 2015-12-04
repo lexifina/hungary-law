@@ -1,1 +1,3 @@
-## 36. § A Gszr. 3. számú melléklete helyébe a 6. melléklet lép.
+## 31–36. §[^6]
+
+[^6]: A 31–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
