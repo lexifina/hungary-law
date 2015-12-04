@@ -1,0 +1,3 @@
+1. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 5. prioritásának keretében kiemelt projekt felhívás meghirdetéséhez történő hozzájárulásról, kiemelt projektek előzetes nevesítéséről, valamint a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat módosításáról szóló 1290/2015. (V. 5.) Korm. határozat 1. mellékletében foglalt táblázat H:2–H:381 mezőjében a „2015. december 15-ig” szövegrész helyébe a „2016. január 15-ig” szöveg lép.
+
+2. Ez a határozat a közzétételét követő napon lép hatályba.
