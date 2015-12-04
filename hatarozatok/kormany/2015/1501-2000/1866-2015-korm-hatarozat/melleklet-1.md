@@ -120,7 +120,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Hatályát veszti az új nemzeti közgyűjteményi épületegyüttesről és a megvalósítás előkészítéséhez szükséges intézkedésekről szóló 1031/2013. (I. 30.) Korm. határozat 1.2. pont b), d) és f) alpontja.
+## 4.[^1]
 
 1. melléklet az 1866/2015. (XII. 2.) Korm. határozathoz
 
@@ -189,3 +189,5 @@
 | Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 500 000 |  |  |  |  |  |  |  |  |  |  |  | 500 000 |
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
