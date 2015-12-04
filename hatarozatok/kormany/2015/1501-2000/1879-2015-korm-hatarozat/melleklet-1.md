@@ -26,13 +26,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat 1. melléklet 4.3.1. pontjában foglalt táblázat
-
-## a) E:8 mezőjében a „92,76” szövegrész helyébe a „91,26” szöveg,
-
-## b) E:9 mezőjében a „3,50” szövegrész helyébe az „5,00” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1879/2015. (XII. 2.) Korm. határozathoz
 
@@ -41,3 +35,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatása (Ft) | Többlettámogatás (Ft) | Projekt megnövelt támogatása (Ft) | Projekt rövid bemutatása |
 
 | 2. | KEOP-4.11.0/15- 2015-0001 | Fotovoltaikus erőmű létesítése | MVM Hungarowind Szélerőmű Üzemeltető Korlátolt Felelősségű Társaság | 3 500 000 000 | 1 500 000 000 | 5 000 000 000 | A projekt keretében 7 MWh fotovoltaikus erőmű létesül Pécsett, a pécsi hőerőmű területén. A megvalósuló projekt közcélú, nem jövedelemtermelő, a megtermelt energiát közérdekből, haszonszerzési cél nélkül állítja elő. A hálózatra csatlakozó napelemes erőmű az ellátási szerződésben szereplő tagok villamosenergia-igényének részbeni vagy teljes kielégítése céljából állít elő villamos energiát. A többlettámogatás eredményeként – 500 000 Ft/kWh fajlagos költséget alapul véve – további 3 MWh termelői kapacitás kiépítése válik lehetségessé. |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

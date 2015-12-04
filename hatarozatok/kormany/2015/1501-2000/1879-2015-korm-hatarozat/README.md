@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1879-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-03 | 2015-1879-30-22.1 | 1879/2015. (XII. 2.) Korm. határozat |
+| 2015-12-04 | 2015-1879-30-22.2 | 1829/2018. (XII. 27.) Korm. határozat |
