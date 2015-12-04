@@ -9,3 +9,5 @@ c) az átmeneti ellátás és a 3/D. § (1) bekezdésében meghatározott felada
 d) a polgári védelmi feladatellátás során felmerült költségek megtérítésének szabályait,
 
 e) a díjfizetés és az érintettek közötti elszámolás szabályait.
+
+f) az átmeneti ellátásra kijelölés lehetséges időtartamát.

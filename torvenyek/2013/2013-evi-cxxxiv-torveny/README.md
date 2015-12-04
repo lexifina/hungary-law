@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-134-00-00
 | 2015-01-01 | 2014. évi XCIX. törvény | 2013-134-00-00.7 |
 | 2015-07-01 | 2014. évi XCIX. törvény | 2013-134-00-00.8 |
 | 2015-07-16 | 2015. évi CXX. törvény | 2013-134-00-00.9 |
+| 2015-12-04 | 2015. évi CLXXXV. törvény | 2013-134-00-00.10 |
