@@ -16,6 +16,6 @@ c) egy személy részére ugyanazon kifejtett teljesítményért, tevékenység�
 
 d) a teljesítményjuttatás megállapítására jogosult vezető önmagát teljesítményjuttatásban nem részesítheti.
 
-(3) A szolgálati viszonnyal összefüggő tevékenység során nyújtott kimagasló teljesítmény elismerése kivételével csak az a honvéd részesíthető teljesítményjuttatásban, aki legalább „JÓ” eredményű („B” szintű) teljesítményértékeléssel rendelkezik.
+(3)–(4)[^9]
 
-(4) A (3) bekezdésben foglaltaktól a miniszter az általa adott teljesítményjuttatás esetében indokolt esetben – ha a teljesítményjuttatás megállapításának alapját képező szolgálati feladat ellátásához kiemelt honvédelmi érdek fűződik – eltérhet.
+[^9]: A 81. § (3)–(4) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte.

@@ -1,3 +1,5 @@
+## azonos időszakra együttesen is megállapítható.
+
 ## 4. A STANAG 6001 pótlék
 
 5. § (1) A Hjt. 127. §-a szerinti pótlékra való jogosultság kezdő időpontjának a Hjt. 127. § (1) bekezdése szerinti esetben a beosztásba történő kinevezés, áthelyezés napját, vagy a pótlékra jogosító nyelvtudást igazoló okmánynak
