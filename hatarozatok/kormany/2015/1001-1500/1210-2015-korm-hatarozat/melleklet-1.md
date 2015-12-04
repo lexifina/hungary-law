@@ -12,9 +12,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^2]
 
-1. melléklet az 1210/2015. (IV. 10.) Korm. határozathoz[^2]
+1. melléklet az 1210/2015. (IV. 10.) Korm. határozathoz[^3]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1680/2015. (IX. 22.) Korm. határozat 1. és 3. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1680/2015. (IX. 22.) Korm. határozat 1. és 3. pontja, az 1893/2015. (XII. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
