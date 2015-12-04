@@ -28,9 +28,9 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 2,48 | 20,59 | 3,30 | 9,80 | 34,28 | 70,45 |
+| 3. | 2,48 | 20,59 | 3,30 | 9,80 | 34,32 | 70,49 |
 
-| 4. | Többletkötelezettség-vállalás: 43,27 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 43,31 Mrd Ft |
 
 | 5. | Az Európai Regionális Fejlesztési Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85% |
 
@@ -42,7 +42,7 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 2. | 2007–2013. | 2014. | 2015. | Összesen |
 
-| 3. | 155,83 | 4,48 | 44,41 | 204,72 |
+| 3. | 155,83 | 4,48 | 44,45 | 204,76 |
 
 1.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -82,7 +82,7 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 14. | 1.3.1. | A felsőoktatási tevékenységek színvonalának emeléséhez szükséges infrastrukturális és informatikai fejlesztések támogatása | 0,00 | 0,00 | 0,00 | 0,27 | 0,00 | A konstrukció általános célja a felsőoktatási intézmények oktatással, kutatással, vállalkozással kapcsolatos infrastruktúrájának fejlesztése annak érdekében, hogy a tudásalapú társadalom és gazdaság követelményeinek megfelelő, európai és globális értelemben vett versenyképes szolgáltatásokat legyenek képesek nyújtani. A konstrukció közvetlen célja a felsőoktatási tevékenységek színvonalának emeléséhez szükséges infrastruktúra fejlesztése, valamint a műszaki es természettudományi szakokon tanuló hallgatók száma emeléséhez szükséges infrastrukturális és technológiai feltételek megteremtése. | emberi erőforrások minisztere | – |
 
-| 15. | 1.3.1-14 | Speciális infrastruktúra- fejlesztés és eszközbeszerzés a felsőoktatásban | 0,00 | 0,00 | 0,00 | 3,00 | 0,46 | A konstrukció általános célja a nemzeti felsőoktatási kiválóságról szóló 24/2013. (II. 5.) Korm. rendelet 2. és 3. §-a szerinti kiemelt felsőoktatási intézmények gyakorlati képzéssel, oktatással, kutatással kapcsolatos infrastruktúrájának fejlesztése annak érdekében, hogy a tudásalapú társadalom és gazdaság követelményeinek megfelelő, európai és globális értelemben vett versenyképes szolgáltatásokat legyenek képesek nyújtani. A konstrukció célja továbbá a felsőoktatási tevékenységekhez szükséges eszközállomány fejlesztése. | emberi erőforrások minisztere | – |
+| 15. | 1.3.1-14 | Speciális infrastruktúra- fejlesztés és eszközbeszerzés a felsőoktatásban | 0,00 | 0,00 | 0,00 | 3,00 | 0,50 | A konstrukció általános célja a nemzeti felsőoktatási kiválóságról szóló 24/2013. (II. 5.) Korm. rendelet 2. és 3. §-a szerinti kiemelt felsőoktatási intézmények gyakorlati képzéssel, oktatással, kutatással kapcsolatos infrastruktúrájának fejlesztése annak érdekében, hogy a tudásalapú társadalom és gazdaság követelményeinek megfelelő, európai és globális értelemben vett versenyképes szolgáltatásokat legyenek képesek nyújtani. A konstrukció célja továbbá a felsőoktatási tevékenységekhez szükséges eszközállomány fejlesztése. | emberi erőforrások minisztere | – |
 
 | 16. | 1.3.2. | Szuperszámítás- technika (HPC) a felsőoktatásban | 0,00 | 1,56 | 0,00 | 1,70 | 0,00 | A konstrukció célja az európai irányelvekkel egyező, a hazai felsőoktatási intézményeket támogató, elosztott számítási, és adattárolási infrastruktúra továbbfejlesztése. | emberi erőforrások minisztere | – |
 
@@ -90,7 +90,7 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 17a. | 1.3.4.-15/1 | Felsőoktatás struktúraváltása és levéltárak oktatási célú fejlesztése | 0,00 | 0,00 | 0,00 | 0,00 | 15,00 | A konstrukció keretében a 2007–2015 között a felsőoktatási beruházásokkal összefüggő struktúra-átalakítási, levéltári, valamint közneveléshez kapcsolódó, formális, nem formális és informális képzési lehetőségeket biztosító levéltári infrastrukturális projektek kerülhetnek áttekintésre és beemelésre | emberi erőforrások minisztere | – |
 
-| 18. | Összesen | 2,48 | 20,59 | 3,30 | 9,80 | 34,28 |  |  |  |
+| 18. | Összesen | 2,48 | 20,59 | 3,30 | 9,80 | 34,32 |  |  |  |
 
 2. A 2. prioritás: Egészségügyi infrastruktúra fejlesztése
 
@@ -279,4 +279,4 @@ A prioritás célja a TIOP eredményes és hatékony megvalósítása. A technik
 | 4. | 4.1.2. | Vásárolt kommunikációs szolgáltatások | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | A Társadalmi Infrastruktúra Operatív Program intézkedéseivel kapcsolatos kommunikációs célú feladatok ellátása. | emberi erőforrások minisztere | – |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1652/2015. (IX. 10.) Korm. határozat 3–4. pontja, az 1662/2015. (IX. 16.) Korm. határozat 3–4. pontja, az 1664/2015. (IX. 16.) Korm. határozat 3. pontja, az 1818/2015. (XI. 10.) Korm. határozat 4. pontja, az 1878/2015. (XII. 2.) Korm. határozat 4–5. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1652/2015. (IX. 10.) Korm. határozat 3–4. pontja, az 1662/2015. (IX. 16.) Korm. határozat 3–4. pontja, az 1664/2015. (IX. 16.) Korm. határozat 3. pontja, az 1818/2015. (XI. 10.) Korm. határozat 4. pontja, az 1878/2015. (XII. 2.) Korm. határozat 4–5. pontja, az 1886/2015. (XII. 3.) Korm. határozat 1. pontja szerint módosított szöveg.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1291-30
 | 2015-09-17 | 2015-1291-30-22.4 | 1652/2015. (IX. 10.) Korm. határozat |
 | 2015-11-11 | 2015-1291-30-22.5 | 1652/2015. (IX. 10.) Korm. határozat |
 | 2015-12-03 | 2015-1291-30-22.6 | 1652/2015. (IX. 10.) Korm. határozat |
+| 2015-12-04 | 2015-1291-30-22.7 | 1652/2015. (IX. 10.) Korm. határozat |
