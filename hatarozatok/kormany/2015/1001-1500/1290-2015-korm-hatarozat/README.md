@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1290-30
 | 2015-08-04 | 2015-1290-30-22.7 | 1357/2015. (VI. 2.) Korm. határozat |
 | 2015-09-05 | 2015-1290-30-22.8 | 1357/2015. (VI. 2.) Korm. határozat |
 | 2015-10-07 | 2015-1290-30-22.9 | 1357/2015. (VI. 2.) Korm. határozat |
+| 2015-12-04 | 2015-1290-30-22.10 | 1171/2023. (IV. 28.) Korm. határozat |
