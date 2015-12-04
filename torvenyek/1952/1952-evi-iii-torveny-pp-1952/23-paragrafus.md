@@ -2,7 +2,7 @@
 
 a) azok a vagyonjogi perek, amelyek tárgyának értéke a harmincmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
 
-b) azok a perek, amelyeket a közhatalom gyakorlásával okozott károk megtérítése iránt indítanak;
+b) azok a perek, amelyeket a közhatalom gyakorlásával okozott károk megtérítése, valamint a közhatalom gyakorlása során okozott személyiségi jogsértések miatti sérelemdíj megfizetése iránt indítanak;
 
 c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek;
 

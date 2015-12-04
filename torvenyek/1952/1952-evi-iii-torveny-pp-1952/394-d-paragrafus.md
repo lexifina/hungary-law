@@ -1,8 +1,10 @@
-## Elektronikus kommunikáció a szakértővel
+## Elektronikus kapcsolattartás a szakértővel
 
 394/D. § (1) E § rendelkezéseit 2015. június 30-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2013. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2015. július 1. napjától az ezen időpont után indult, a járásbíróságok előtti polgári perekben is alkalmazni kell.
 
 (2) Ha a szakértő az igazságügyi szakértői névjegyzékbe bejelentette, hogy az elektronikus kapcsolattartást vállalja, erre szolgáló elérhetőségét az Országos Bírósági Hivatal részére meg kell küldenie, és arról is értesítenie kell az Országos Bírósági Hivatalt, hogy a továbbiakban nem vállalja az elektronikus kapcsolattartást.
+
+(2a) Az igazságügyi szakértői névjegyzékben nem szereplő, szakértői tevékenységre külön jogszabályban feljogosított állami szerv, intézmény vagy szervezet az elektronikus kapcsolattartást vállalhatja az erre szolgáló elérhetőségének az Országos Bírósági Hivatal részére történő megküldésével. Ha a névjegyzékben nem szereplő, szakértői tevékenységre külön jogszabályban feljogosított állami szerv, intézmény, szervezet az elektronikus kapcsolattartást vállalja, elektronikus kapcsolattartása során az e fejezet szakértőkre vonatkozó rendelkezéseit kell alkalmazni.
 
 (3) Ha a szakértő az elektronikus kapcsolattartást vállalta, a polgári perben a beadványokat, ide értve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, – a (4) bekezdésben foglalt kivétellel – elektronikusan küldi meg a bíróság részére. A szakértőnek, ha az elektronikus kapcsolattartást vállalta és ennek technikai lehetőségei adottak, a szakvélemény részévé tett mellékleteket digitalizálnia kell. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott beadványt a felek és más perbeli személyek számára papír alapon megküldje.
 
