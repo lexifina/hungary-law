@@ -1,0 +1,3 @@
+11. § A Pp. 394/B. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A bíróság a fél részére papír alapon kézbesíti a bírósági iratot, ha a fél az eljárásban képviselője útján jár el és az iratot nem a képviselő, hanem a fél részére kell kézbesíteni, vagy a képviselő részére nem lehet kézbesíteni. A bíróság a felet tájékoztatja arról, hogy a bírósággal a kapcsolatot elektronikus úton is tarthatja. Ha a fél nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítés a másik fél számára kötelező vagy azt vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait digitalizálja és elektronikusan kézbesíti a másik fél számára.”
