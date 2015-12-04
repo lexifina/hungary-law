@@ -2,4 +2,4 @@
 
 1. melléklet a 24/2015. (V. 26.) FM rendelethez[^2]
 
-[^2]: Az 1. melléklet a 34/2015. (VI. 25.) FM rendelet 7. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 34/2015. (VI. 25.) FM rendelet 7. §-a, a 79/2015. (XII. 3.) FM rendelet 1. §-a szerint módosított szöveg.
