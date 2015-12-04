@@ -6,7 +6,7 @@
 
 (2) Az ügyfél akkor köteles elektronikus úton kapcsolatot tartani a hatósággal, ha azt törvény az adott ügyben vagy eljárási cselekmény vonatkozásában előírja.
 
-(3) Törvény eltérő rendelkezése hiányában nem alkalmazható elektronikus út a 20. § (6) bekezdése és a 24. § (1) bekezdése szerinti kérelem vonatkozásában, valamint a hatóság döntésének bírósági felülvizsgálatával kapcsolatos eljárásban.
+(3) Törvény eltérő rendelkezése hiányában nem alkalmazható elektronikus út a 20. § (6) bekezdése és a 24. § (1) bekezdése szerinti kérelem vonatkozásában.
 
 (4) A hatóság elektronikus úton tartja a kapcsolatot az ügyféllel, ha az ügyfél azt igényli, továbbá ha az ügyfél a kérelmet elektronikus úton nyújtotta be, és az alkalmazandó kapcsolattartási formáról másként nem rendelkezett.
 

@@ -10,7 +10,9 @@ d) az ügyfélkapu regisztrációs szervet vagy szerveket,
 
 e) az ügyfélkapu regisztrációs adatbázist kezelő szervet vagy szerveket,
 
-f) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásának adatkezelőjét.
+f) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásának adatkezelőjét,
+
+g) a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervet.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
