@@ -16,6 +16,12 @@ f) a 2008/98/EK európai parlamenti és tanácsi irányelv 11. cikkének (2) bek
 
 való megfelelést szolgálja.
 
-(2) Ez a törvény az 1013/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) Ez a törvény
+
+a) az 1013/2006/EK európai parlamenti és tanácsi rendelet és
+
+b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének felváltásáról szóló, 2014. december 18-i 1357/2014/EU bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) A törvény tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.

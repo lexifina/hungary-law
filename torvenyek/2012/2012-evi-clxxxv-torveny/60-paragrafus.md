@@ -1,6 +1,6 @@
 ## 25. A hulladékolaj
 
-60. § (1) A hulladékolajat elkülönítetten kell gyűjteni, amennyire műszaki, környezetvédelmi és gazdasági szempontból megvalósítható.
+60. § (1) A hulladékolajat elkülönítetten kell gyűjteni, amennyire műszaki szempontból megvalósítható.
 
 (2) A hulladékolaj kezelője azt a hasznosítási vagy ártalmatlanítási műveletet alkalmazza, amely az összességében legjobb környezeti eredményt biztosítja.
 
