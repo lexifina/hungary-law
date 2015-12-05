@@ -1,3 +1,0 @@
-14. § A Pp. 394/D. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az igazságügyi szakértői névjegyzékben nem szereplő, szakértői tevékenységre külön jogszabályban feljogosított állami szerv, intézmény vagy szervezet az elektronikus kapcsolattartást vállalhatja az erre szolgáló elérhetőségének az Országos Bírósági Hivatal részére történő megküldésével. Ha a névjegyzékben nem szereplő, szakértői tevékenységre külön jogszabályban feljogosított állami szerv, intézmény, szervezet az elektronikus kapcsolattartást vállalja, elektronikus kapcsolattartása során az e fejezet szakértőkre vonatkozó rendelkezéseit kell alkalmazni.”
