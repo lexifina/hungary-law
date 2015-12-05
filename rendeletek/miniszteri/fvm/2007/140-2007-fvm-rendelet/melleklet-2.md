@@ -1,75 +1,43 @@
-## A támogatási kérelem adattartalma és a csatolandó mellékletek
+## I. A támogatási kérelem adattartalma
 
-## 1. Az ügyfél azonosító adatai.
+## 1. Az igénylő azonosítására szolgáló adatok.
 
-## 1.1. Ügyfél-azonosító.
+## 2. A mezőgazdasági termelő vállalkozás mezőgazdasági csoportmentességi rendelet I. melléklete szerinti üzemmérete (KKV besorolása).
 
-## 1.2. A mezőgazdasági termelő vállalkozás 702/2014/EU bizottsági rendelet I. melléklete szerinti üzemmérete
+## 3. A tevékenységgel érintett tartási hely vagy helyek adatai.
 
-## (KKV besorolása) vagy nyilatkozat a nagyvállalkozói minőségről.
+## 4. A támogatással érintett öt évre vonatkozó tevékenység kezdő és befejező éve.
 
-## 2. Támogatás jogcímének meghatározása.
+## 5. A tevékenységekre vonatkozó kötelezettségvállalás és a hozzá kapcsolódó sertés darabszám, valamint állategység
 
-## 2.1. Tartási hely azonosító vagy azonosítók.
+## – két tizedes jegy pontossággal – megjelölése tartási helyenként.
 
-## 2.2. Az igényelt támogatás adatai: a támogatás jogcíme, a baromfi megnevezése, a támogatás alapja (db), az igényelt mennyiség (ÁE), az igényelt támogatás összege (Ft) támogatási igény összesen (Ft).
+## 6. A tevékenység megvalósításához szükséges, tervezett támogatás összege.
 
-## 2.3. A tevékenységekre vonatkozó kötelezettségvállalás és a hozzá kapcsolódó baromfi darabszám, valamint állategység – egy tizedes jegy pontossággal – megjelölése tartási helyenként.
+## 7. Nyilatkozatok.
 
-## 3. Nyilatkozatok.
+## 8. Keltezés, ügyfél (cégszerű) aláírása.
 
-## 4. Keltezés, igénylő (cégszerű) aláírása.
+## 9. Mellékletek
 
-## 5. Az állatállományt felügyelő vagy kezelő állatorvos igazolása arról, hogy a kérelemben megjelölt támogatási igény megalapozott.
+## 9.1. Nagyvállalkozás esetén az 1/A. § (4) bekezdés a) pontja szerinti élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal igazolás egy eredeti példánya.
 
-## 6. Keltezés, állatállományt felügyelő/kezelő állatorvos aláírása.
+## 9.2. Az 1/A. § (4) bekezdés b) pontja szerinti, a vágósertés létszámról szóló igazolás egy eredeti példánya.
 
-## 7. Mellékletek:
-
-## 7.1. A megyei kormányhivatal igazolása – bűnügyi személyes adat közlésének kivételével – a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről.
-
-## 7.2. A termelői csoport, beszerzési és értékesítő szövetkezet, tenyésztő szervezet, az adott termékpályán működő terméktanács vagy szakmai szervezet tárgyévre vonatkozó tagsági igazolása.
-
-## 7.3. Takarmány nem kívánatos anyagtartalmának ellenőrzése esetén a 3. § (4) bekezdésében előírt dokumentumok.
-
-## 7.4. Mechanikai sérülés megelőzése esetén a 4. § (4) és (5) bekezdésében előírt dokumentumok.
-
-## 7.5. Kíméletes állatmozgatás és szállítás biztosítása esetén az 5. § (4) és (5) bekezdésében előírt dokumentumok.
-
-## 7.6. Állati fehérje-mentes takarmány használata esetén a 6. § (4) bekezdésében előírt dokumentumok.
-
-## 7.7. Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok.
-
-## 7.8. A naposkori letelepítés darabszámát, az átminősítéskori állatlétszámot és annak időpontját tartalmazó kezelő állatorvosi igazolás az 1. § (5) bekezdése szerint.
-
-## 7.9. Szakmai ellenőrzési lap a 2. § (5) bekezdés f) pontja szerint.
-
-## 7.10. A 2. § (5) bekezdés g) pontja szerinti esetben az ugyanezen pontban meghatározott igazolás, amelynek az alapját jelentő elemzés adattartalma a következő:
+## II. Az 1/A. § (4) bekezdés a) pontja szerinti elemzés adattartalma
 
 |  |  | A | B | C | D |
 
-|  | 1 |  | 1. § (2) bekezdés a)–e) pontja szerinti tevékenységek megvalósítása nélkül | 1. § (2) bekezdés a)–e) pontja szerinti tevékenységek megvalósításával támogatás nélkül | 1. § (2) bekezdés a)–e) pontja szerinti tevékenységek megvalósításával támogatással |
+|  | 1. |  | 1. § (3) bekezdés a)–g) pontja szerinti tevékenységek megvalósítása nélkül | 1. § (3) bekezdés a)–g) pontja szerinti tevékenységek megvalósításával támogatás nélkül | 1. § (3) bekezdés a)–g) pontja szerinti tevékenységek megvalósításával támogatással |
 
-|  | 2 | Foglalkoztatottak létszáma fő |  |  |  |
+|  | 2. | Foglalkoztatottak létszáma fő |  |  |  |
 
-|  | 3 | Támogatásban érintett állatlétszám ÁE |  |  |  |
+|  | 3. | Támogatásban érintett állatlétszám ÁE |  |  |  |
 
-|  | 4 | Üzemi tevékenység eredménye ezer Ft |  |  |  |
+|  | 4. | Üzemi tevékenység eredménye ezer Ft |  |  |  |
 
-|  | 5 | a) minőségi adatok aa) takarmány nem kívánatos anyagtartalma mentességének mértéke; ab) takarmányozáshoz ivóvíz minősége; ac) hallisztmentes takarmány felhasználásának gyakorisága b) kíméletes állatmozgatás és szállítás c) mechanikai sérülések gyakorisága d) elhullások száma (ÁE) e) csökkent értékű értékesítés száma (ÁE) |  |  |  |
+|  | 5. | a) minőségi adatok aa) férőhely mértéke; ab) természetes tartási feltételek javulása (%-ban); ac) természetes és mesterséges fény biztosítása (óra); ad) verekedés, kimarás gyakorisága (%-ban); ae) takarmányozáshoz felhasznált ivóvíz minősége; af) almozás gyakorisága; ag) gázkoncentráció szintje b) elhullások száma (ÁE) c) csökkent értékű értékesítés száma (ÁE) |  |  |  |
 
-2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^47]
+2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^66]
 
-A takarmányozáshoz használt itatóvizet ivóvíz minőségűnek kell tekinteni, ha az igénylő a támogatási kérelemhez csatolja:
-
-a) az akkreditált laboratórium vizsgálati eredményét arról, hogy az itatásra használt víz az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 1. számú mellékletében a víz nyerési módjától függően meghatározott határértékek tekintetében megfelel az ivóvíz minőségi követelményeinek az alábbi paraméterek vonatkozásában:
-
-1. mikrobiológiai vizsgálatok: E. coli, telepszám 20 °C-on,
-
-2. kémiai vizsgálatok: szín, szag, nitrit, permanganát index, vezetőképesség,
-
-valamint az igénylő nyilatkozatát arról, hogy a víznyerőhely megfelelően van kialakítva, biztosítva ezzel az itatóvíz szennyeződésének megakadályozását, vagy
-
-b) a vízszolgáltató írásos nyilatkozatát arról, hogy az általa szolgáltatott víz ivóvíz minőségű, ha a telepen az állatok vízellátása vezetékes vízhálózatról történik.
-
-[^47]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított szöveg.
+[^66]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított, nyitó szövegrésze a 80/2015. (XII. 4.) FM rendelet 19. § b) pontja szerint módosított szöveg.

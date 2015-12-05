@@ -1,6 +1,6 @@
 ## Verekedések, kimarások megelőzése
 
-6. §[^34] (1) E jogcím alapján az az igénylő jogosult támogatásra, aki vagy amely teljesíti a verekedések, kimarások megelőzéséhez szükséges követelményeket, ezen belül gondoskodik a szakszerű apaállat-használatról.
+6. §[^48] (1) E jogcím alapján az az igénylő jogosult támogatásra, aki vagy amely teljesíti a verekedések, kimarások megelőzéséhez szükséges követelményeket, ezen belül gondoskodik a szakszerű apaállat-használatról.
 
 (2) A támogatás mértéke állategységenként egyezerhatszáznyolvanegy forint.
 
@@ -10,7 +10,7 @@
 
 (5) A csoportosan tartott tenyészkoca süldők elkerülhetetlen újrafalkásítása esetén az igénylő a csoportosan tartott tenyészkoca süldők számára 1,72 m2/állat férőhelyet biztosít, amely teljesülését a kezelő állatorvos legalább negyedévente ellenőriz.
 
-(6) Az 1. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell:
+(6)[^49] A 3. számú mellékletben meghatározott adattartalmú kifizetési kérelemhez csatolni kell:
 
 a) a kezelő állatorvos igazolását arról, hogy a vágósertéseket származás-igazolással rendelkező apaállattal vagy engedélyezett mesterséges termékenyítő állomásról származó szaporítóanyaggal tenyésztették, és
 
@@ -20,6 +20,8 @@ c) vágósertések esetén a kezelő állatorvos igazolását a (4) bekezdésben
 
 d) tenyészkoca süldők tartása esetén a telepi állatjóléti felelős igazolását az (5) bekezdés szerinti feltételek teljesítéséről.
 
-(7) Az igazolásokon fel kell tüntetni azok felhasználhatóságának idejét. Az igazolás kiállításának időpontja legfeljebb fél évvel lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
+(7)[^50] Az igazolásokon fel kell tüntetni azok felhasználhatóságának idejét. Az igazolás kiállításának időpontja legfeljebb fél évvel lehet korábbi a kifizetési kérelem benyújtásának időpontjánál.
 
-[^34]: A 6. § a 33/2014. (IV. 4.) VM rendelet 16. §-ával megállapított szöveg.
+[^48]: A 6. § a 33/2014. (IV. 4.) VM rendelet 16. §-ával megállapított szöveg.
+[^49]: A 6. § (6) bekezdés nyitó szövegrésze a 80/2015. (XII. 4.) FM rendelet 19. § d) pontja szerint módosított szöveg.
+[^50]: A 6. § (7) bekezdése a 80/2015. (XII. 4.) FM rendelet 19. § b) pontja szerint módosított szöveg.
