@@ -1,1 +1,0 @@
-## „(9b) A (9) bekezdéstől eltérően a 2016. I. és II. negyedévre, továbbá – a forrás rendelkezésre állásának mértékéig – a 2016. III. negyedévre vonatkozó jogos igények kifizetésére 2016. évben kerül sor.”
