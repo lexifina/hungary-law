@@ -32,7 +32,7 @@ a) a kamattámogatási kérelem benyújtását követő öt napon belül – a v
 
 b) a kamattámogatási kérelemben megjelölt támogatás támogatástartalmát a 2. mellékletben meghatározott módszertan szerint számolja ki,
 
-c) a vállalkozás számára rendelkezésre álló szabad csekély összegű keret figyelembevételével – önálló kamattámogatási kérelem esetén az MVH-tól kapott csekély összegű keretre vonatkozó adatok rendelkezésre állását követő öt napon belül, hitelkérelemhez kapcsolódó kamattámogatási kérelem esetén a hitelkérelem pénzügyi intézmény általi elbírálását követő öt napon belül – záradékkal látja el a kamattámogatási kérelmet, és
+c)[^7] a vállalkozás számára rendelkezésre álló szabad csekély összegű keret figyelembevételével – önálló kamattámogatási kérelem és kiegészítő kamattámogatási kérelem esetén az MVH-tól kapott csekély összegű keretre vonatkozó adatok rendelkezésre állását követő öt napon belül, hitelkérelemhez kapcsolódó kamattámogatási kérelem esetén a hitelkérelem pénzügyi intézmény általi elbírálását követő öt napon belül – záradékkal látja el a kamattámogatási kérelmet, és
 
 d) a b) pont szerint kiszámított támogatástartalmat a kamattámogatási kérelem adataival együtt megküldi az MVH részére.
 
@@ -41,3 +41,5 @@ d) a b) pont szerint kiszámított támogatástartalmat a kamattámogatási kér
 (4) A hitelkérelemhez kapcsolódó kamattámogatási kérelem esetén a kamattámogatás támogatástartalmáról történő döntésnél, a rendelkezésre álló szabad csekély összegű keret meghatározásánál figyelembe kell venni a hitel kedvezményes kamatából, a kezességvállaló intézmény által kedvezményes kezességvállalási díj mellett nyújtott kezességből és a költségvetési forrásból nyújtott kezességvállalási díjtámogatásból származó támogatástartalmat.
 
 (5) A pénzügyi intézmény és az MVH az eljárás során megvalósuló adatszolgáltatást elektronikus úton teljesíti.
+
+[^7]: A 4. § (2) bekezdés c) pontja a 77/2015. (XII. 1.) FM rendelet 15. § (6) bekezdés a) pontja szerint módosított szöveg.

@@ -6,12 +6,15 @@
 
 (3) A pénzügyi intézmény által megelőlegezett kamattámogatás, kamattámogatási kérelem benyújtását követő első alkalommal történő lehívásánál
 
-a) a pénzügyi intézmény által nem megelőlegezett kamattámogatás, de legfeljebb az önálló kamattámogatási kérelem beadásáig a beadás naptári negyedévében és az azt közvetlenül megelőző két naptári negyedévben megfizetett kamatok vonatkozásában járó kamattámogatás, továbbá,
+a)[^8] a pénzügyi intézmény által nem megelőlegezett kamattámogatás, de legfeljebb az önálló kamattámogatási kérelem vagy kiegészítő kamattámogatási kérelem beadásáig a beadás naptári negyedévében és az azt közvetlenül megelőző két naptári negyedévben megfizetett kamatok vonatkozásában járó kamattámogatás, továbbá,
 
-b) ha az önálló kamattámogatási kérelem beadása nem valamely kamatidőszak első napján történt vagy hitelkérelemhez kapcsolódó kamattámogatási kérelem esetén, ha a hitel első kamatidőszaka nem teljes kamatidőszak, a beadás napját magában foglaló kamatidőszakra, illetve a nem teljes kamatidőszakra járó nem megelőlegezett kamattámogatás is
+b)[^9] ha az önálló kamattámogatási kérelem vagy kiegészítő kamattámogatási kérelem beadása nem valamely kamatidőszak első napján történt vagy hitelkérelemhez kapcsolódó kamattámogatási kérelem esetén, ha a hitel első kamatidőszaka nem teljes kamatidőszak, a beadás napját magában foglaló kamatidőszakra, illetve a nem teljes kamatidőszakra járó nem megelőlegezett kamattámogatás is
 
 igényelhető az MVH-tól a vállalkozás meghatalmazása alapján, amely kamattámogatást a pénzügyi intézmény a számláján történő jóváírást követő 8 napon belül átutal a vállalkozás fizetési számlájára.
 
 (4) Az MVH az (1) bekezdés szerinti, hiánytalan támogatáslehívási kérelemről annak beérkezését követő harminc napon belül döntést hoz, amely döntésnél figyelembe veszi a támogatástartalomról szóló igazolás meglétét.
 
 (5) A forrás rendelkezésre állása esetén az MVH a (4) bekezdés szerinti döntését követő tizenöt napon belül folyósítja a kamattámogatást és a költségátalányt a pénzügyi intézmény részére. Amennyiben az MVH – a forrás rendelkezésre állásának hiánya okán – a döntést követő tizenöt napon belül nem folyósítja a kamattámogatást és a költségátalányt, a pénzügyi intézmény ezen összeget lejárt tartozásként az állam képviseletében eljáró agrárpolitikáért felelős miniszterrel szemben érvényesítheti.
+
+[^8]: A 7. § (3) bekezdés a) pontja a 77/2015. (XII. 1.) FM rendelet 15. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 7. § (3) bekezdés b) pontja a 77/2015. (XII. 1.) FM rendelet 15. § (6) bekezdés b) pontja szerint módosított szöveg.

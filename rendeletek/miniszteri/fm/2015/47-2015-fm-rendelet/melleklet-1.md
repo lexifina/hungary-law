@@ -1,4 +1,4 @@
-## 15. §[^1]
+## 15. §[^10]
 
 1. melléklet a 47/2015. (VIII. 12.) FM rendelethez
 
@@ -32,4 +32,4 @@
 
 8. Keltezés, aláírás.
 
-[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

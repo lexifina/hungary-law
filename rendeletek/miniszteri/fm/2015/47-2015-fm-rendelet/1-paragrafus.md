@@ -16,7 +16,11 @@
 
 4. hitelkérelemhez kapcsolódó kamattámogatási kérelem: e rendelet hatálybalépését követően, a hitelprogram keretében benyújtott hitelkérelemhez kapcsolódóan, azzal egyidejűleg benyújtott kamattámogatási kérelem, amely a kamattámogatási kérelem beadásától a hitel teljes futamidejére vonatkozik;
 
-5. kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány;
+5.[^1] kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.;
+
+5a.[^2] kedvezőtlen időjárással érintett vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1. mellékletében meghatározott település valamelyikén mint székhelyen, telephelyen vagy fióktelepen, ugyanezen rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében 2016. március 31-ig hatályba lépett hitelszerződéssel rendelkezik;
+
+5b.[^3] kiegészítő kamattámogatási kérelem: a hitelprogram keretében felvett hitelhez kapcsolódó, a korábbi kamattámogatási kérelemben feltüntetett kamattámogatási mérték növelése érdekében kedvezőtlen időjárással érintett vállalkozás által benyújtott, a benyújtás időpontjában hatályos hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely legfeljebb a 2015. április 30-át követően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
 
 6. költségátalány: a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6%-a;
 
@@ -29,3 +33,7 @@
 10. támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, az MVH által kiállított igazolás, amely a hitelcél szerint megállapított támogatás csekély összegű támogatás kategóriáját is megjelöli;
 
 11. vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő hitelfelvevő.
+
+[^1]: Az 1. § 5. pontja a 77/2015. (XII. 1.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 5a. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be.
+[^3]: Az 1. § 5b. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be.
