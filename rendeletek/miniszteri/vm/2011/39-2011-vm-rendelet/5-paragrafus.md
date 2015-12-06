@@ -1,22 +1,22 @@
 ## 5. Az intézkedés lebonyolítása, a támogatás igénylése
 
-5. § (1)[^20] Az Agrár Széchenyi Kártya Konstrukciók lebonyolításával kapcsolatos feladatokat kizárólagos joggal a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) és a KAVOSZ Zrt. látják el.
+5. § (1)[^26] Az Agrár Széchenyi Kártya Konstrukciók lebonyolításával kapcsolatos feladatokat kizárólagos joggal a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) és a KAVOSZ Zrt. látják el.
 
 (2) Az MVH
 
-a)[^21] teljesíti a KAVOSZ Zrt., valamint az Agrár-Vállalkozási Hitelgarancia Alapítvány részére a mezőgazdasági vállalkozás nyilvántartott de minimis támogatási keretének ellenőrzéséhez kapcsolódó (elektronikus) adatszolgáltatást,
+a)[^27] teljesíti a KAVOSZ Zrt., valamint az Agrár-Vállalkozási Hitelgarancia Alapítvány részére a mezőgazdasági vállalkozás nyilvántartott de minimis támogatási keretének ellenőrzéséhez kapcsolódó (elektronikus) adatszolgáltatást,
 
 b) ellátja a mezőgazdasági vállalkozások vonatkozásában a de minimis támogatási kereteknek az ellenőrzéséhez és nyilvántartásához szükséges feladatokat,
 
 c) ellátja a mezőgazdasági vállalkozások vonatkozásában az egyéni de minimis támogatási keretekhez kapcsolódó zárolási, lekötési, továbbá szükség esetén támogatási keret felszabadítási műveleteket,
 
-d) kiállítja a kamat- és kezességi díjtámogatásról a támogatástartalom-igazolást,
+d)[^28] kiállítja a kamat- és kezességi díjtámogatásról, valamint a költségtámogatásról a támogatástartalom-igazolást,
 
 e) elvégzi a támogatáslehívási kérelmekkel kapcsolatos hatósági feladatokat és
 
 f) folyósítja a támogatást.
 
-(3)[^22] A KAVOSZ Zrt.
+(3)[^29] A KAVOSZ Zrt.
 
 a) ellátja az Agrár Széchenyi Kártya Konstrukciók
 
@@ -26,13 +26,14 @@ ab) lebonyolításával
 
 kapcsolatos feladatokat,
 
-b)[^23] a földművelésügyi miniszter egyetértésével elkészíti az Üzletszabályzatot; továbbá
+b)[^30] a földművelésügyi miniszter egyetértésével elkészíti az Üzletszabályzatot; továbbá
 
 c) ellátja az Üzletszabályzatban meghatározott egyéb feladatokat.
 
 (4) Az (3) bekezdés a) pont ab) alpontja vonatkozásában a lebonyolítás során ellátja a támogatások elszámolásával, az informatikai rendszer fejlesztésével és üzemeltetésével kapcsolatos feladatokat.
 
-[^20]: Az 5. § (1) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^21]: Az 5. § (2) bekezdés a) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^22]: Az 5. § (3) bekezdés nyitó szövegrésze a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^23]: Az 5. § (3) bekezdés b) pontja a 18/2014. (X. 29.) FM rendelet 19. § b) pontja szerint módosított szöveg.
+[^26]: Az 5. § (1) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^27]: Az 5. § (2) bekezdés a) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^28]: Az 5. § (2) bekezdés d) pontja a 77/2015. (XII. 1.) FM rendelet 13. § (6) bekezdésével megállapított szöveg.
+[^29]: Az 5. § (3) bekezdés nyitó szövegrésze a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^30]: Az 5. § (3) bekezdés b) pontja a 18/2014. (X. 29.) FM rendelet 19. § b) pontja szerint módosított szöveg.

@@ -24,7 +24,9 @@ g)[^6] támogatástartalom: az európai uniós versenyjogi értelemben vett áll
 
 h)[^7] társult szervezet: a KAVOSZ Zrt.-vel társulási megállapodást kötött mezőgazdasági érdekképviseleti szervezetek;
 
-i)[^8] Üzletszabályzat: a Széchenyi Kártya Programon belül kiadott, az Agrár Széchenyi Kártya Konstrukciók részletes szabályait tartalmazó, mindenkori hatályos, a KAVOSZ Pénzügyi Szolgáltatásokat Közvetítő Zártkörűen Működő Részvénytársaság (a továbbiakban: KAVOSZ Zrt.) honlapján közzétett üzletszabályzat.
+i)[^8] Üzletszabályzat: a Széchenyi Kártya Programon belül kiadott, az Agrár Széchenyi Kártya Konstrukciók részletes szabályait tartalmazó, mindenkori hatályos, a KAVOSZ Pénzügyi Szolgáltatásokat Közvetítő Zártkörűen Működő Részvénytársaság (a továbbiakban: KAVOSZ Zrt.) honlapján közzétett üzletszabályzat;
+
+j)[^9] bírálati díj: a hitelszerződés megkötésekor hatályos üzletszabályzat szerint a hitelintézetek által kártyadíj, bírálati díj, illetve keretbeállítási jutalék jogcímen beszedett díjtétel.
 
 [^1]: Az 1. § b) pont ba) pontja a 36/2014. (IV. 4.) VM rendelet 52. §-ával megállapított szöveg.
 [^2]: Az 1. § b) pont bb) pontja a 36/2014. (IV. 4.) VM rendelet 52. §-ával megállapított szöveg.
@@ -34,3 +36,4 @@ i)[^8] Üzletszabályzat: a Széchenyi Kártya Programon belül kiadott, az Agr�
 [^6]: Az 1. § g) alpontja a 18/2014. (X. 29.) FM rendelet 16. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § h) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
 [^8]: Az 1. § i) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^9]: Az 1. § j) pontját a 77/2015. (XII. 1.) FM rendelet 13. § (1) bekezdése iktatta be.
