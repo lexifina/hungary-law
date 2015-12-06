@@ -6,6 +6,10 @@
 
 a) az nem haladhatja meg a termelői szerveződés és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás rendelkezésére álló szabad csekély összegű támogatási keretet, és
 
-b) az legfeljebb a hitelkamat 60%-a lehet, de nem haladhatja meg az évi 4 százalékpontot.
+b) az legfeljebb a hitelkamat 60%-a lehet, de nem haladhatja meg az évi 4 százalékpontot,
+
+c)[^4] kedvezőtlen időjárással érintett termelői szerveződés esetén legfeljebb a hitelkamat 100%-a lehet.
 
 (3) A kamattámogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
+
+[^4]: A 2. § (2) bekezdés c) pontját a 77/2015. (XII. 1.) FM rendelet 16. § (4) bekezdése iktatta be.
