@@ -1,4 +1,4 @@
-## 2. § E rendelet hatálya nem terjed ki az Agrár Széchenyi Kártya Konstrukciókra, az állami viszontgarancia nélküli kezességi ügyletekre, továbbá a piaci kezességi díjon vállalt kezességi ügyletekre.
+## 2. §[^8] E rendelet hatálya nem terjed ki az Agrár Széchenyi Kártya Konstrukciókra.
 
 3. § (1) A kedvezményezett az e rendeletben foglalt feltételekkel a pénzügyi intézmények által 2013. június 15. után megkötött
 
@@ -12,9 +12,9 @@ támogatást vehet igénybe.
 
 (2) A támogatás formája kezességi díjhoz kapcsolódó vissza nem térítendő állami támogatás (a továbbiakban: kezességi díjtámogatás).
 
-(3) A kezességi díjtámogatás mértéke évente – a (4)–(9) bekezdésben foglaltak figyelembevételével – a kezességvállalás mértékéhez igazodóan a teljes hitelösszeg legfeljebb 0,75%-a azzal, hogy a 2%-os éves hitelkamatot meg nem haladó hitelügyletek esetén a támogatással csökkentett, kedvezményezett által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 0,5%-át.
+(3)[^9] A kezességi díjtámogatás mértéke évente – a (4)–(9) bekezdésben foglaltak figyelembevételével – a kezességvállalás mértékéhez igazodóan a teljes hitelösszeg 0,4%-a azzal, hogy a 2%-os éves hitelkamatot meg nem haladó hitelügyletek esetén a támogatással csökkentett, kedvezményezett által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 0,5%-át.
 
-(4) A kezességi díjtámogatás mértéke nem haladhatja meg a kedvezményezett által fizetett kezességvállalási díj mértékét.
+(4)[^10] Kedvezőtlen időjárással érintett vállalkozás esetén a 2015. április 30-át követően esedékes kezességi díj vonatkozásában a támogatás mértéke a kezességi díj 100%-a.
 
 (5) A kezességi díjtámogatás (3) bekezdésben meghatározott mértéke a 80%-os mértékű, tőkére vállalt kezesség esetén alkalmazandó, ennél alacsonyabb kezességvállalás esetén a kezességi díjtámogatás mértéke arányosan csökken.
 
@@ -29,3 +29,7 @@ támogatást vehet igénybe.
 (10) Az önrész kiegészítésére nyújtott támogatás és egyéb forrásból igénybe vett támogatás együttesen nem eredményezhet olyan támogatási arányt, amely a regionális beruházási támogatás esetén előírt 25%-os saját forrás biztosításának követelményébe ütközik.
 
 (11) A támogatástartalom euróra történő átszámításakor a kezesség elbírálásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
+
+[^8]: A 2. § a 77/2015. (XII. 1.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^9]: A 3. § (3) bekezdése a 77/2015. (XII. 1.) FM rendelet 14. § (7) bekezdése szerint módosított szöveg.
+[^10]: A 3. § (4) bekezdése a 77/2015. (XII. 1.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.

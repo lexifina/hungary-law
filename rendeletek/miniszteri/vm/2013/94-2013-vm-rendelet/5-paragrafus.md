@@ -10,13 +10,13 @@ bb) nem áll jogerős végzéssel elrendelt felszámolási, végelszámolási el
 
 bc) megfelel a rendezett munkaügyi kapcsolatok feltétel követelményeinek,
 
-bd)[^8]
+bd)[^12]
 
 és ezekről az igénylőlap benyújtásával egyidejűleg nyilatkozik;
 
 c) nyilatkozik továbbá
 
-ca)[^9] az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározottakról;
+ca)[^13] az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározottakról;
 
 cb) az ügylethez kapcsolódó ugyanazon elszámolható költség vonatkozásában más támogatásban való részesülése esetén a támogatás jogcíméről;
 
@@ -34,14 +34,15 @@ ed) a kezességvállaló intézmény az MVH-tól adatokat kérjen a kedvezménye
 
 f) az ügylethez kapcsolódó, más jogcímen kiállított támogatástartalomról szóló igazolás vagy támogatási határozat, vagy támogatási szerződése másolatát az igénylőlappal egyidejűleg benyújtja, amennyiben ugyanazon elszámolható költség vonatkozásában más nem csekély összegű (de minimis) támogatással halmozódik a kezességi díjtámogatás;
 
-g)[^10]
+g)[^14]
 
 (2) Az (1) bekezdésben foglalt feltételek fennállásának ellenőrzését a kezességvállaló intézmény a pénzügyi intézmények bevonásával végzi.
 
-(3) A kedvezményezett a kezességi díjtámogatással csökkentett díjat a pénzügyi intézmény által meghatározott módon a pénzügyi intézményen keresztül fizeti meg a kezességvállaló intézmény részére.
+(3)[^15] A kedvezményezett a kezességi díjtámogatással csökkentett díjat a pénzügyi intézmény által meghatározott módon, a pénzügyi intézményen keresztül fizeti meg a kezességvállaló intézmény részére. A kezességvállaló intézmény a kedvezőtlen időjárással érintett vállalkozás részére járó, a kezességvállaló intézmény által nem megelőlegezett kezességi díjtámogatást legkésőbb 2016. március 31-ig átutalja a pénzügyi intézmény részére, amely az összeg beérkezését követő nyolc napon belül jóváírja a kezességi díjtámogatást a kedvezőtlen időjárással érintett vállalkozás fizetési számláján.
 
 (4) A kezességvállaló intézmény és az MVH a kedvezményezett rendelkezésére álló csekély összegű (de minimis) keret lekérdezéséhez, zárolásához, lekötéséhez, valamint felszabadításához kapcsolódó eljárás során megvalósuló adatszolgáltatást elektronikus úton teljesíti.
 
-[^8]: Az 5. § (1) bekezdés b) pont bd) alpontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte.
-[^9]: Az 5. § (1) bekezdés c) pont ca) alpontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte, újonnan a 18/2014. (X. 29.) FM rendelet 44. §-a iktatta be.
-[^10]: Az 5. § (1) bekezdés g) pontját a 36/2014. (IV. 4.) VM rendelet 93. §-a iktatta be, hatályon kívül helyezte a 18/2014. (X. 29.) FM rendelet 47. §-a.
+[^12]: Az 5. § (1) bekezdés b) pont bd) alpontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte.
+[^13]: Az 5. § (1) bekezdés c) pont ca) alpontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte, újonnan a 18/2014. (X. 29.) FM rendelet 44. §-a iktatta be.
+[^14]: Az 5. § (1) bekezdés g) pontját a 36/2014. (IV. 4.) VM rendelet 93. §-a iktatta be, hatályon kívül helyezte a 18/2014. (X. 29.) FM rendelet 47. §-a.
+[^15]: Az 5. § (3) bekezdése a 77/2015. (XII. 1.) FM rendelet 14. § (5) bekezdésével megállapított szöveg.
