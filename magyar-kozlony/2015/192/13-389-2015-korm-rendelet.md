@@ -1,0 +1,197 @@
+# A Kormány 389/2015. (XII. 8.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 192. szám, 2015. december 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d972c4bf706b875d777b8bdbd84ddfe5ee15e4c3/dokumentumok/afb62f236dc7986c2020aec5c74214dd28a6aa05/letoltes)
+
+---
+
+A Kormány 389/2015. (XII. 8.) Korm. rendelete
+a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek
+végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet módosításáról
+A Kormány az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről
+szóló 2007. évi LX. törvény 14. § (5) bekezdés g), k) és l) pontjában kapott felhatalmazás alapján az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek
+végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet (a továbbiakban: R.) 2. § (1) bekezdés 13. pontja
+helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+
+„13. honvédségi alkalmazások: a Magyar Honvédség, a honvédelemért felelős miniszter közvetlen irányítása,
+fenntartói irányítása, valamint felügyelete alá tartozó szervezetek klímagázt tartalmazó vagy azzal működtetett
+létesítményei, eszközei és berendezései;”
+2. §
+A R. 3. § (3) bekezdésének helyébe a következő rendelkezés lép:
+„(3) A Kormány a Magyar Honvédség, a honvédelemért felelős miniszter közvetlen irányítása, fenntartói irányítása,
+valamint felügyelete alá tartozó szervezetek klímagázzal kapcsolatos tevékenységei és a honvédségi alkalmazások
+tekintetében az (1) és a (2) bekezdésben foglalt feladatokkal kapcsolatos hatósági jogkörben első fokon, országos
+illetékességgel, a Honvédelmi Minisztérium Hatósági Hivatal (a továbbiakban: HM HH) vezetőjét, másodfokon
+a honvédelemért felelős minisztert jelöli ki.”
+3. §
+A R. a következő 9/A. és 9/B. §-sal egészül ki:
+„9/A. § (1) Az a vállalkozás, amely más személy nevében és megbízásából szervezi az alkalmazások, képesített
+vállalkozás vagy végfelhasználó számára történő átadását, e tevékenységét az adatbázisban való regisztrációt
+követően végezheti.
+(2) Ha az (1) bekezdés szerinti vállalkozásnak az alkalmazás ténylegesen a birtokába kerül, úgy az adatbázisban
+nyilvántartást vezet a birtokába került alkalmazások típusonkénti mennyiségéről, a végfelhasználó felé történő
+átadás esetében pedig a 22. § szerinti tanúsítványról, amely adatokat köteles a birtokba vételt vagy átadást követő
+8 munkanapon belül az adatbázisban is rögzíteni.
+(3) Az (1) bekezdés szerinti vállalkozás az alkalmazást a képesített vállalkozás vagy a végfelhasználó által
+a 22. § (2) bekezdés szerinti tanúsítvány (1) bekezdés szerinti vállalkozás részére történő átadását követően
+a végfelhasználó nevében jogosult megvásárolni.
+(4) A forgalmazó az alkalmazást kizárólag akkor jogosult értékesíteni az (1) bekezdés szerinti vállalkozásnak,
+amennyiben az (1) bekezdés szerinti vállalkozás bemutatta a megbízást és a 22. § (2) bekezdése szerint elkészített
+tanúsítványt. A forgalmazó köteles a dokumentum egy másolati példányát az értékesítési dokumentumok mellett
+megőrizni és azt a Hatóság felhívására bemutatni és átadni.
+(5) Az (1) bekezdés szerinti vállalkozásnak – ha az alkalmazás ténylegesen a birtokába kerül – az átvett alkalmazást
+a végfelhasználónak köteles átadni és felel az alkalmazás rendeltetési helyére történő biztonságos eljuttatásáért.
+(6) Ha az (1) bekezdés szerinti vállalkozásnak az alkalmazás nem kerül a birtokába, az alkalmazás a megbízásában
+meghatározott képesített vállalkozáshoz vagy végfelhasználóhoz történő eljuttatásáért ugyanúgy felel, mintha
+az alkalmazás a birtokába kerülne.
+9/B. § (1) A 9/A. § (1) bekezdés szerinti vállalkozás 9/A. § (6) bekezdésében foglalt felelőssége akkor szűnik meg, ha
+a tevékenysége során bármilyen módon birtokába került alkalmazás a képesített vállalkozás vagy a végfelhasználó
+birtokaként jelenik meg az adatbázisban.
+(2) Ha a 9/A. § (1) bekezdés szerinti vállalkozás az alkalmazást nem a megbízásában meghatározott képesített
+vállalkozásnak vagy végfelhasználónak adja át, meg kell győződnie arról, hogy az átvevő az alkalmazás birtoklására
+e rendelet szerint jogosult.
+(3) A 9/A. § (1) bekezdés szerinti vállalkozás a birtokába került alkalmazással – az adatbázis szerinti nyilvántartási és
+adatszolgáltatási kötelezettséggel – rendelkezik akként, hogy a tevékenységével érintett alkalmazásról típus szerint
+nyilvántartást vezet.
+(4) A 9/A. § (1) bekezdés szerinti vállalkozás a (3) bekezdésben meghatározott nyilvántartásban az alkalmazás
+eredetének nyomon követhetősége céljából köteles a megbízási okirat, valamint az értékesítéshez kapcsolódó
+dokumentumok egy példányát öt évig megőrizni és azt az adatbázisba feltölteni.
+(5) A 9/A. § (1) bekezdés szerinti vállalkozás a nyilvántartás alapján a tevékenységével kapcsolatos dokumentumokat
+a Hatóság felhívása esetén a Hatóság rendelkezésére bocsátja.
+(6) A Hatóság a 9/A. § (1) bekezdés szerinti vállalkozástól tájékoztató adatot, összefoglalót, igazolást, jelentést
+kérhet.”
+4. §
+A R. 22. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A forgalmazó az értékesítéskor köteles az F-GÁZ ügyfélazonosító alatt található adatlapon tanúsítani, hogy
+az értékesítés megtörtént, és az adatbázisba feltölteni az értékesített termék vagy berendezés megnevezését,
+típusszámát, azonosítóját, a berendezésben megtalálható F-ÜHG típusát, tömegét kg-ban és szén-dioxid-
+egyenértékben kifejezve, valamint fajtáját, ipari megnevezését, annak hiányában kémiai nevét. A forgalmazó köteles
+a tanúsítvány egy másolati példányát az értékesítési dokumentumok mellett 5 évig megőrizni és azt a Hatóság
+
+felhívására bemutatni és átadni. A forgalmazó köteles az értékesítést követő 8 munkanapon belül értesíteni
+az értékesítés megtörténtéről a tanúsítványt kiállító képesített vállalkozást a kitöltött tanúsítvány másolatának
+megküldésével.”
+5. §
+A R. 26. §-a helyébe a következő rendelkezés lép:
+„26. § (1) Természetes személy az alábbi, F-ÜHG-t tartalmazó termékek és azzal üzemelő berendezések esetében
+kizárólag az 517/2014/EU európai parlamenti és tanácsi rendelet 10. cikk (4) és (7) bekezdése szerinti képesítéssel,
+az adatbázisban való regisztrációt követően, a 4. melléklet szerinti képesítésének megfelelő kategóriájú képesített
+vállalkozás alkalmazottjaként végezheti az alábbi feladatokat:
+a) a HR szektor berendezéseinek és az MR szektor hűtőegységeinek telepítése, beüzemelése, szervizelése,
+karbantartása, javítása vagy használaton kívül helyezése,
+b) a HR szektor berendezéseinek és az MR szektor hűtőegységeinek szivárgásvizsgálata,
+c) az F-ÜHG visszanyerése
+ca) a HR szektor berendezései tekintetében,
+cb) az MR szektor hűtőegységei tekintetében és
+cc) bármilyen, F-ÜHG környezetbe jutását okozó egyéb tevékenység, F-ÜHG-közeg kezelése, tisztítása, átfejtése,
+regenerálása, ártalmatlanítása esetén.
+(2) A Hatóság a regisztrált adatokat az Éhvt. 10/G. §-ában, az e rendeletben és az Éhvt. végrehajtására kiadott
+miniszteri rendeletben meghatározottak szerint tartja nyilván és kezeli.
+(3) Ha a természetes személy az adatbázisban
+a) regisztrációs kötelezettségét hiányosan teljesíti, a Hatóság hiánypótlásra,
+b) regisztrációs kötelezettségét nem teljesíti, a Hatóság határidő tűzésével a regisztrációs kötelezettsége
+teljesítésére,
+c) valótlan adatokat ad meg, a Hatóság határidő tűzésével a regisztrációs adatok valóságnak megfelelően való
+helyesbítésére,
+d) többször regisztrál, a Hatóság határidő tűzésével nyilatkozattételre
+szólítja fel.
+(4) A hiánypótlásra, nyilatkozattételre, regisztrációs kötelezettség teljesítésére, regisztrációs adatok helyesbítésére
+meghatározott határidő eredménytelen eltelte esetén a Hatóság a természetes személy értesítésével egyidejűleg
+felfüggeszti
+a) a hiányos vagy valótlan adatokat tartalmazó regisztráció,
+b) többszöri regisztráció esetén az újabb regisztráció
+érvényességét az adatbázisban.
+(5) A képesített vállalkozás az (1) bekezdés a)–c) pontjaiban meghatározott, F-ÜHG-t tartalmazó berendezések
+telepítését, beüzemelését, szervizelését, szivárgásvizsgálatát, karbantartását, javítását vagy használaton kívül
+helyezését kizárólag az 517/2014/EU európai parlamenti és tanácsi rendelet 10. cikk (6) és (7) bekezdése szerinti
+képesítéssel és az (1) bekezdés szerinti képesítéssel rendelkező alkalmazott személlyel végezteti.
+(6) Természetes személy az MR szektorban a gépjárművek légkondicionáló berendezéseiből származó F-ÜHG
+visszanyerését csak a 4. melléklet szerinti M-V kategóriás személyzetképesítés birtokában végezheti.
+(7) A HR szektorban a 4. melléklet 1. pontjában meghatározott képesítési kategóriák az alábbi képesítési
+kategóriákban meghatározott tevékenység végzésére is jogosítanak:
+a) a H-I képesítési kategóriával rendelkező természetes személy jogosult a H-II, H-III és H-IV képesítési kategóriában
+meghatározott tevékenységek végzésére;
+b) a H-II képesítési kategóriával rendelkező természetes személy H-I képesítési kategóriával rendelkező személy
+felügyelete mellett végezheti a legalább 5 tCO
+
+-egyenértéknek megfelelő fluortartalmú üvegházhatású gázt
+tartalmazó hűtőkörök szivárgásvizsgálatát, valamint jogosult a H-III képesítési kategóriában meghatározott
+tevékenységek végzésére.
+(8) Az MR szektorban a 4. melléklet 1. pontjában meghatározott képesítési kategóriák az alábbi képesítési
+kategóriákban meghatározott tevékenység végzésére is jogosítanak:
+a) az M-VI képesítési kategóriával rendelkező természetes személy jogosult az M-V és M-VII képesítési kategóriában
+meghatározott tevékenységek végzésére,
+b) az M-VII képesítési kategóriával rendelkező természetes személy csak M-VI képesítési kategóriával rendelkező
+személy felügyelete mellett végezheti a legalább 5 tCO
+
+-egyenértéknek megfelelő fluortartalmú üvegházhatású
+
+gázt tartalmazó hűtőkörök szivárgásvizsgálatát, valamint jogosult az M-V képesítési kategóriában meghatározott
+tevékenységek végzésére.
+(9) A 4. melléklet 2. pontjában lévő vállalkozásképesítési kategóriákban meghatározott tevékenységek végzésére
+a vállalkozás alkalmazottjaként az alábbi képesítéssel rendelkező természetes személy jogosult önállóan
+a) a HR-I képesítési kategóriában meghatározott tevékenységek végzésére H-I képesítéssel rendelkező természetes
+személy jogosult,
+b) a HR-II képesítési kategóriában meghatározott tevékenységek végzésére H-I és H-II képesítéssel rendelkező
+természetes személy jogosult,
+c) a HR-III képesítési kategóriában meghatározott tevékenységek végzésére H-I, H-II és H-III képesítéssel rendelkező
+természetes személy jogosult,
+d) a HR-IV képesítési kategóriában meghatározott tevékenységek végzésére H-I és H-IV képesítéssel rendelkező
+természetes személy jogosult,
+e) az MR-I képesítési kategóriában meghatározott tevékenységek végzésére M-VI képesítéssel rendelkező
+természetes személy jogosult,
+f) az MR-II képesítési kategóriában meghatározott tevékenységek végzésére M-VI és M-VII képesítéssel rendelkező
+természetes személy jogosult,
+g) az MR-III képesítési kategóriában meghatározott tevékenységek végzésére M-VI, M-VII és M-V képesítéssel
+rendelkező természetes személy jogosult,
+h) VE és NK kategóriában meghatározott klímagázzal való tevékenység végzésére H-I, H-II, H-III, M-V, M-VI és M-VII
+képesítéssel rendelkező természetes személy jogosult.”
+6. §
+A R. 27. § (1) bekezdésének helyébe a következő rendelkezés lép:
+„(1) Az e rendelet szerinti, a klímagázt tartalmazó vagy azzal működtetett alkalmazásokkal kapcsolatos
+tevékenységek végzéséhez szükséges képzési és vizsgáztatási feladatokat a Hatóság – a Hatósággal kötött képzési
+megállapodás alapján – a szakképzésért és felnőttképzésért felelős miniszter fenntartása alatt álló Szakképzési
+Centrumok közreműködésével látja el. Minden olyan Szakképzési Centrum köteles a Hatósággal képzési
+megállapodást kötni, amelynek képzési kínálatában szerepel a Klímagáz képzés belépési feltételeinek megfelelő
+szakmai képzés. A Hatósággal képzési megállapodást kötő Szakképzési Centrum köteles a megállapodásban
+szereplő képzést legalább évente két alkalommal meghirdetni és lebonyolítani, a vizsgát megszervezni
+és – a vizsgabizottság elnökének Hatóság általi delegálása mellett – lebonyolítani. A Hatósággal képzési
+megállapodást kötött és a Hatóság által kijelölt Szakképzési Centrum köteles 60 napon belül azt a képzést
+elindítani, majd ezt követően lebonyolítani, a vizsgát megszervezni és – a vizsgabizottság elnökének Hatóság általi
+delegálása mellett – lebonyolítani, amelyre legalább 10 érvényes jelentkezés érkezett a Hatósághoz. A képzési
+megállapodásban foglalt képzéseiket a Szakképzési Centrumok a Hatóság tájékoztatását és jóváhagyását követően
+a Hatóság adatbázisán keresztül is meghirdethetik.”
+7. §
+A R. 27. § (4) bekezdésének helyébe a következő rendelkezés lép:
+„(4) A személyzetképesítések a képesítés megszerzésétől számított 5 évig hatályosak, a megszerzett képesítések
+újraérvényesítési feltételeit megújító képzési vagy kreditpontos továbbképzési és újraminősítési rendszerben kell
+meghatározni.”
+8. §
+A R.
+a) 5. § (2) bekezdés a) pontjában a „valamint forgalomba helyez” szövegrész helyébe a „valamint forgalomba
+helyez, értékesít, valamint közvetít”szöveg,
+b) 7. alcím címében a „hozataláról és címkézéséről” szövegrész helyébe a „hozataláról, forgalmazásáról és
+címkézéséről”szöveg,
+c) 7. § (6) bekezdésében a„tartály”szövegrész helyébe a„palack”szöveg,
+d) 32. § (1) bekezdésben a„2015. július 1-jéig”szövegrész helyébe a„2016. június 30-ig”szöveg,
+e) 32. § (2) bekezdésében a„2015. december 31-ét” szövegrész helyébe a„2016. június 30-át” szöveg, a„szerinti
+szivárgásvizsgálatra” szövegrész helyébe a „szerinti hűtőkamionok és hűtőpótkocsik hűtőberendezéseinek
+szivárgásvizsgálatára”szöveg,
+f) 32. § (3) bekezdésében a„2015. december 31.”szövegrész helyébe a„2016. június 30.”szöveg,
+
+g) 4. mellékletében a „303/2007/EK” szövegrész helyébe a „303/2008/EK” szöveg, a „306/2008/EK” szövegrész
+helyébe a„304/2008/EK”szöveg
+lép.
+9. §
+Hatályát veszti az R. 4. § (4) bekezdés c) pontja.
+10. §
+Ez a rendelet a kihirdetését követő 16. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IV. A Magyar Nemzeti Bank elnökének rendeletei,
+valamint az önálló szabályozó szerv vezetőjének
+rendeletei
