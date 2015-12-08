@@ -1,0 +1,1 @@
+## 1. § A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján a SURJÁNY-HUS Ipari és Kereskedelmi Korlátolt Felelősségű Társaság „felszámolás alatt” gazdasági társaságot (székhely: 1097 Budapest, Gubacsi út 22., cégjegyzékszáma: 01-09-880560) stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősíti.
