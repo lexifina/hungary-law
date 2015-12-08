@@ -1,4 +1,4 @@
-## 1. A Kormány egyetért azzal, hogy az 1368/2014. (VII. 3.) Korm. határozatban foglaltak végrehajtásához, a Szent István Egyetem Alkalmazott Bölcsészeti és Pedagógiai Kar szarvasi telephelyű Pedagógiai Intézete PPP konstrukcióban megvalósult, a Korm. határozatban megjelölt kollégiumait érintően a kapcsolódó szerződések lezárásra kerüljenek, legfeljebb bruttó 894,3 millió forint ellenérték megfizetése mellett, oly módon, hogy a kapcsolódó intézkedéseket a Szent István Egyetem hajtja végre.
+## 1.[^1] A Kormány egyetért azzal, hogy az 1368/2014. (VII. 3.) Korm. határozatban foglaltak végrehajtásához, a Szent István Egyetem Alkalmazott Bölcsészeti és Pedagógiai Kar szarvasi telephelyű Pedagógiai Intézete PPP konstrukcióban megvalósult, a Korm. határozatban megjelölt kollégiumait érintően a kapcsolódó szerződések lezárásra kerüljenek, legfeljebb bruttó 1227,0 millió forint ellenérték megfizetése mellett, oly módon, hogy a kapcsolódó intézkedéseket a Szent István Egyetem hajtja végre.
 
 ## Felelős: emberi erőforrások minisztere
 
@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az 1. pontban meghatározott feladat végrehajtás érdekében nyújtandó támogatás felhasználásának és legkésőbb 2015. április 30-ig történő elszámolásának feltételeiről támogatási megállapodást kössön a Szent István Egyetemmel.
+## 2.[^2] A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az 1. pontban meghatározott feladat végrehajtás érdekében nyújtandó támogatás felhasználásának és legkésőbb 2015. december 31-ig történő elszámolásának feltételeiről támogatási megállapodást kössön a Szent István Egyetemmel.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -113,3 +113,6 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1909/2015. (XII. 8.) Korm. rendelet 1. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont az 1909/2015. (XII. 8.) Korm. rendelet 1. pont b) alpontja szerint módosított szöveg.
