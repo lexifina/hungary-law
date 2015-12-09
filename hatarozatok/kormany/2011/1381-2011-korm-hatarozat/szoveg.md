@@ -1,6 +1,6 @@
 A Kormány
 
-1. a 2012-es londoni olimpiára és paralimpiára történő sikeres felkészülés érdekében célul tűzi ki a magyar olimpiai és paralimpiai sportolók számára a korszerű, kimagasló színvonalú, soron kívüli egészségügyi ellátások biztosítását;
+1.[^1] a mindenkori olimpiára és paralimpiára történő sikeres felkészülés érdekében célul tűzte ki a magyar olimpiai és paralimpiai sportolók számára a korszerű, kimagasló színvonalú, soron kívüli egészségügyi ellátások biztosítását;
 
 2. egyetért azzal, hogy az 1. pontban meghatározott cél elérése érdekében a Magyar Olimpiai Bizottság és a Magyar Paralimpiai Bizottság által meghatározott magyar olimpiai és paralimpiai sportolók számára
 
@@ -26,7 +26,9 @@ bh) Petz Aladár Megyei Oktató Kórház (Győr),
 
 bi) Semmelweis Egyetem (Budapest),
 
-bj) Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ (Szeged);
+bj) Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ (Szeged),
+
+bk)[^2] Magyar Honvédség Egészségügyi Központ (Budapest);
 
 3. elrendeli a 2. pontban meghatározott olimpiai sportegészségügyi szolgáltatói hálózat eredményes és hatékony működése érdekében a betegirányítási feladatokat ellátó telefonos ügyfélszolgálati rendszer létrehozását és működtetését az Országos Sportegészségügyi Intézetben;
 
@@ -39,3 +41,6 @@ Határidő: azonnal
 Felelős: nemzeti erőforrás miniszter
 
 Határidő: azonnal
+
+[^1]: Az 1. pont az 1908/2015. (XII. 8.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont b) pont bk) alpontját az 1908/2015. (XII. 8.) Korm. határozat 2. pontja iktatta be.
