@@ -1,32 +1,40 @@
-## 1. §[^1] A szakképzési hozzájárulási kötelezettségnek az e rendelet alapján elszámolható költségekkel történő csökkentése – a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 23. § (1) bekezdés c) pontja alapján – állami támogatásnak minősül, amelyre a 800/2008/EK bizottsági rendelet I. fejezetében, illetve a II. fejezet 8. szakaszában foglaltak megfelelően irányadóak.
+## 1. §[^1] A szakképzési hozzájárulási kötelezettségnek az e rendelet alapján elszámolható költségekkel történő csökkentése – a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 23. § (1) bekezdés c) pontja alapján – állami támogatásnak minősül, amelyre a 651/2014/EU bizottsági rendelet I–II. fejezetében, illetve III. fejezet 31. cikkében foglaltak megfelelően irányadóak.
 
 ## 2. § E rendelet alkalmazásában
 
-a) állami támogatás: az EUMSZ 107. cikk (1) bekezdése szerinti támogatás, és a szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet szerinti csekély összegű (de minimis) támogatás;
+a)[^2] állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti támogatás;
 
-b) általános képzés: a 800/2008/EK bizottsági rendelet 38. cikk 2. pontjában meghatározott képzés;
-
-c) speciális képzés: a 800/2008/EK bizottsági rendelet 38. cikk 1. pontjában meghatározott képzés;
+b–c)[^3]
 
 d) áthúzódó képzés: az a képzés, amelyet a hozzájárulásra kötelezett több tárgyévet érintően valósít meg;
 
-e)[^2] belső képzés: az Fktv. 2. § 2. pontjában meghatározott képzés;
+e)[^4] belső képzés: az Fktv. 2. § 2. pontjában meghatározott képzés;
 
-f)[^3] külső képzés: az a képzés, amelyet a hozzájárulásra kötelezett saját munkavállalói részére, teljes egészében saját szervezetétől elkülönült, az Fktv. szerinti engedéllyel rendelkező felnőttképzést folytató intézmény (a továbbiakban: képző intézmény) közreműködésével – szolgáltatási szerződés alapján – valósít meg, figyelembe véve az Fktv. 30. § (1) bekezdésében foglaltakat is;
+f)[^5] külső képzés: az a képzés, amelyet a hozzájárulásra kötelezett saját munkavállalói részére, teljes egészében saját szervezetétől elkülönült, az Fktv. szerinti engedéllyel rendelkező felnőttképzést folytató intézmény (a továbbiakban: képző intézmény) közreműködésével – szolgáltatási szerződés alapján – valósít meg;
 
-g)[^4]
+g)[^6]
 
-h) hátrányos helyzetű munkavállaló: a 800/2008/EK bizottsági rendelet 2. cikk 18. pontjában meghatározott munkavállaló;
+h)[^7] hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 4. pontjában meghatározott személy;
 
-i) fogyatékossággal élő munkavállaló: a 800/2008/EK bizottsági rendelet 2. cikk 20. pontjában meghatározott munkavállaló;
+i)[^8] megváltozott munkaképességű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 3. pontjában meghatározott személy;
 
-j) mikro-, kis- és középvállalkozás: az a vállalkozás, amely a tárgyév első napján megfelel a 800/2008/EK bizottsági rendelet I. mellékletében meghatározott vállalkozások valamelyikének;
+j)[^9] mikro-, kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklet 2. cikke szerinti vállalkozás;
 
-k) támogatási intenzitás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: 37/2011. Korm. rendelet) 2. § 15. pontjában meghatározott fogalom;
+ja)[^10] személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás;
 
-l) támogatástartalom: a 37/2011. Korm. rendelet 2. § 19. pontjában meghatározott fogalom.
+k)[^11] támogatási intenzitás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 15. pontjában meghatározott fogalom;
 
-[^1]: Az 1. § az 52/2013. (XI. 25.) NGM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § e) pontja az 52/2013. (XI. 25.) NGM rendelet 2. §-ával megállapított szöveg.
-[^3]: A 2. § f) pontja az 52/2013. (XI. 25.) NGM rendelet 2. §-ával megállapított szöveg.
-[^4]: A 2. § g) pontját az 52/2013. (XI. 25.) NGM rendelet 9. § a) pontja hatályon kívül helyezte.
+l)[^12] támogatástartalom: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontjában meghatározott fogalom.
+
+[^1]: Az 1. § az 52/2013. (XI. 25.) NGM rendelet 1. §-ával megállapított, a 32/2015. (XII. 4.) NGM rendelet 9. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^2]: A 2. § a) pontja a 32/2015. (XII. 4.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § b–c) pontját a 32/2015. (XII. 4.) NGM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § e) pontja az 52/2013. (XI. 25.) NGM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § f) pontja az 52/2013. (XI. 25.) NGM rendelet 2. §-ával megállapított, a 32/2015. (XII. 4.) NGM rendelet 10. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § g) pontját az 52/2013. (XI. 25.) NGM rendelet 9. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § h) pontja a 32/2015. (XII. 4.) NGM rendelet 9. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^8]: A 2. § i) pontja a 32/2015. (XII. 4.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § j) pontja a 32/2015. (XII. 4.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § ja) pontját a 32/2015. (XII. 4.) NGM rendelet 1. § (3) bekezdése iktatta be.
+[^11]: A 2. § k) pontja a 32/2015. (XII. 4.) NGM rendelet 10. § c) pontja szerint módosított szöveg.
+[^12]: A 2. § l) pontja a 32/2015. (XII. 4.) NGM rendelet 9. § (1) bekezdés 3. pontja szerint módosított szöveg.

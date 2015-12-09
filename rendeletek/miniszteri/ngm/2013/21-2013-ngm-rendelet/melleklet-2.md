@@ -16,9 +16,9 @@
 
 ## 6. Kapcsolattartó neve, telefonszáma:
 
-## 7. A vállalkozás megfelel a 800/2008/EK bizottsági rendelet I. mellékletében meghatározott kis- és középvállalkozások valamelyikének: Igen Nem
+## 7. A vállalkozás megfelel a 651/2014/EU bizottsági rendelet I. mellékletében meghatározott kis- és középvállalkozások valamelyikének: Igen Nem
 
-## 8. A vállalkozás a 800/2008/EK bizottsági rendelet I. mellékletében meghatározott vállalkozás típusok közül:
+## 8. A vállalkozás a 651/2014/EU bizottsági rendelet I. mellékletében meghatározott vállalkozás típusok közül:
 
 |  | mikrovállalkozás | kisvállalkozás | középvállalkozás* |
 
@@ -34,7 +34,7 @@
 
 ## II. A szakképzési hozzájárulási kötelezettség terhére a tárgyévben megvalósított vagy megkezdett képzésekre vonatkozó adatok:
 
-## 1. Az elszámolt képzések száma: ............................. db
+## 1. A tárgyévben elszámolt képzések száma: ............................. db
 
 ## ebből
 
@@ -44,11 +44,11 @@
 
 ## – következő évre áthúzódó képzések száma: ......................... db
 
-## 2. Képzésben (egy vagy több képzésben) részt vevő munkavállalók létszáma: ................ fő
+## 2. Képzésben (egy vagy több képzésben) részt vevő saját munkavállalók létszáma: ................ fő
 
 ## 3. A képzések összes elszámolható költsége: ................................ Ft
 
-## 4. A képzésekre igénybe vett összes támogatás: ............................. Ft
+## 4. A képzésekre a tárgyévben igénybe vett összes támogatás: ............................. Ft
 
 ## 5. A képzésre (képzésekre) vonatkozó csatolt adatlap (adatlapok) száma: ............... db
 
@@ -62,6 +62,6 @@
 
 ## * A megfelelő válasz aláhúzandó!
 
-2. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^23]
+2. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^48]
 
-[^23]: A 2. melléklet az 52/2013. (XI. 25.) NGM rendelet 7. §-ával megállapított szöveg.
+[^48]: A 2. melléklet a 32/2015. (XII. 4.) NGM rendelet 8. § (1) bekezdésével megállapított szöveg.

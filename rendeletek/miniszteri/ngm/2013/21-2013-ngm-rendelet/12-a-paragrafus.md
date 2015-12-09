@@ -1,1 +1,8 @@
 ## 12. § E rendelet rendelkezéseit első alkalommal a hozzájárulásra kötelezett által a saját munkavállalói számára jelen rendelet hatálybalépését követő naptól megkezdett képzések elszámolása tekintetében kell alkalmazni. Megkezdett képzésnek az a külső képzés tekinthető, amelyre vonatkozóan a felnőttképzési szerződést megkötötték. Belső képzés esetén a képzés első órája számít a képzés megkezdésének.
+
+12/A. §[^44] (1) E rendeletnek a gyakorlati képzést végző gazdálkodó szervezetek saját munkavállalói részére szervezett képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásáról szóló 21/2013. (VI. 18.) NGM rendelet módosításáról szóló 32/2015. (XII. 4.) NGM rendelet (a továbbiakban: Mód. rendelet) 5. § (1) bekezdésével megállapított 10. § (1) bekezdését, 9. § (1) bekezdés 13. pontjával megállapított 10. § (2) bekezdés nyitó szövegrészét, 5. § (2) bekezdésével megállapított 10. § (2) bekezdés a) pontját, 8. § (1) bekezdésével és 1. mellékletével megállapított 2. mellékletét, valamint 8. § (2) bekezdésével és 2. mellékletével megállapított 3. mellékletét a Mód. rendelet hatálybalépésének[^45] napján folyamatban lévő képzésekre is alkalmazni kell.
+
+(2) E rendeletnek a Mód. rendelet 8. § (3) bekezdésével és 3. mellékletével megállapított 2. mellékletét és 9. § (2) bekezdésével megállapított 3. mellékletét a 2016. január 1-jét követően megkezdett képzésekre kell alkalmazni.
+
+[^44]: A 12/A. §-t az 52/2013. (XI. 25.) NGM rendelet 6. §-a iktatta be, szövege a 32/2015. (XII. 4.) NGM rendelet 6. §-ával megállapított szöveg.
+[^45]: A hatálybalépés napja 2015. december 9.
