@@ -1,3 +1,0 @@
-13. § (1) A 6., a 10. és a 12. melléklet szerinti felügyeleti jelentéseket első alkalommal a 2014. évre mint tárgyidőszakra vonatkozóan kell teljesíteni.
-
-(2) A biztosítási piaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 38/2013. (XII. 29.) MNB rendelet 2. melléklete szerinti, 2015. január 1-jét megelőző tárgyidőszakra vonatkozó felügyeleti jelentés teljesítésére a biztosítási piaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 38/2013. (XII. 29.) MNB rendelet szabályait kell alkalmazni.
