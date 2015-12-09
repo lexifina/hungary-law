@@ -8,4 +8,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-3. visszavonja a Várgondnokság Nonprofit Kft. üzletrészének megvásárlásáról szóló 1003/2015. (I. 15.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
