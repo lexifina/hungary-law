@@ -1,0 +1,29 @@
+## 9. § A közérdekű szolgáltató az ideiglenes begyűjtési ellátás során, a rendkívüli ellátást végző a rendkívüli ellátás során történt haváriaeseményt a kijelölő katasztrófavédelmi szervnek, valamint a területileg illetékes fővárosi, megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának haladéktalanul bejelenti. Haváriaeseménynek minősül a szennyvíz olyan mértékű kifolyása, amely a közérdekű szolgáltató által nem összegyűjthető és környezetveszélyeztetést okoz.
+
+## 4. A díjfizetés és az elszámolás
+
+10. § (1) A rendkívüli ellátás
+
+a) település egészére vetített költségét a katasztrófavédelmi szerv,
+
+b) az ingatlan tulajdonosa, vagyonkezelője vagy egyéb jogcímen használója (a továbbiakban együtt: ingatlantulajdonos) által fizetendő költségét a település egészére vetített költség figyelembevételével – a (2) bekezdés d) pontja szerinti költségelemet is meghatározva – a települési önkormányzat
+
+## állapítja meg.
+
+(2) A rendkívüli ellátás költségeinek meghatározásánál
+
+a) szolgáltatás igénybevétele miatt fizetendő kártalanítás összegét,
+
+b) a begyűjtés, elszállítás és kezelés költségét,
+
+c) a begyűjtéshez szükséges fogyóeszközök biztosításának, valamint a biztonságos munkavégzéshez szükséges eszközök költségét,
+
+d) a települési önkormányzatnál felmerülő számlázási és díjbeszedési költséget, valamint
+
+e) a haváriaesemény kapcsán felmerülő költséget
+
+## lehet érvényesíteni.
+
+(3) A rendkívüli ellátás természetes személy ingatlantulajdonost terhelő költsége meghatározásánál a 4. § (1) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+(4) A rendkívüli ellátás költségének mértékéről és megfizetésének módjáról a települési önkormányzat a helyben szokásos módon, továbbá, ha azzal rendelkezik, a honlapján való közzététellel értesíti a lakosságot.
