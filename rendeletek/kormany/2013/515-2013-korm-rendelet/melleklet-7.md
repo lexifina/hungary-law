@@ -26,7 +26,7 @@
 
 ## 13. Az elhunyt személyek okmányaival kapcsolatos intézkedések megtétele
 
-7. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^197]
+7. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^290]
 
 Az eltérő eljárásrendben működő kormányablakokra meghatározott ügykörök
 
@@ -220,11 +220,11 @@ Az eltérő eljárásrendben működő kormányablakokra meghatározott ügykör
 
 1.94. természetes személy, gazdálkodó szervezet üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység engedélyezése iránti kérelme,
 
-1.95. építésügyi hatósági engedélyezés iránti kérelem:
+1.95. építésügyi hatósági engedély iránti kérelem:
 
 1.95.1. építési engedély iránti kérelem,
 
-1.95.2. összevont engedély iránti kérelem,
+1.95.2. összevont engedélyezési eljárás lefolytatására irányuló kérelem,
 
 1.95.3. fennmaradási engedély iránti kérelem,
 
@@ -232,11 +232,11 @@ Az eltérő eljárásrendben működő kormányablakokra meghatározott ügykör
 
 1.95.5. bontási engedély iránti kérelem,
 
-1.95.6. az országos építési követelményektől való eltérés engedélyezése iránti kérelem,
+1.95.6. országos építési követelményektől való eltérés engedélyezése iránti kérelem,
 
 1.95.7. engedély hatályának meghosszabbítása iránti kérelem,
 
-1.95.8. összevont telepítési engedély iránti kérelem,
+1.95.8. összevont telepítési eljárás lefolytatására irányuló kérelem,
 
 1.96. építésügyi hatósági tudomásulvétel iránti kérelem:
 
@@ -246,17 +246,19 @@ Az eltérő eljárásrendben működő kormányablakokra meghatározott ügykör
 
 1.96.3. veszélyhelyzet esetén szükségessé váló építési tevékenység tudomásulvétele iránti kérelem,
 
-1.97. építésügyi hatósági eljárásban benyújtott egyéb kérelem:
+1.97. építésügyi hatósághoz benyújtható egyéb kérelem:
 
 1.97.1. hatósági bizonyítvány kiállítása iránti kérelem,
 
-1.97.2. előzetes szakhatósági hozzájárulás iránti kérelem,
+1.97.2. előzetes szakhatósági állásfoglalás iránti kérelem,
+
+1.97.3. építésügyi hatósági szolgáltatás iránti kérelem,
 
 1.98. építésfelügyeleti hatósági tudomásulvétel iránti kérelem:
 
 1.98.1. bontás tudomásulvétele iránti kérelem,
 
-1.99. építésügyi hatósági szolgáltatás iránti kérelem,
+1.99. építésfelügyeleti hatósági bizonyítvány kiállítása iránti kérelem,
 
 1.100. elektronikus gyűjtőtárhely és feltöltő tárhely létesítése az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszerben (ÉTDR),
 
@@ -288,13 +290,13 @@ Az eltérő eljárásrendben működő kormányablakokra meghatározott ügykör
 
 2.12. haláleset anyakönyvezése,
 
-2.13. tájékoztatás a tervezett építési tevékenység engedélyezésére, a választott eljárástípus lefolytatására hatáskörrel rendelkező illetékes építésügyi hatóság megnevezéséről és elérhetőségéről,
+2.13. tájékoztatás a tervezett építési tevékenység engedélyezésére, tudomásulvételére, a választott eljárástípus lefolytatására hatáskörrel rendelkező illetékes építésügyi, építésfelügyeleti hatóság megnevezéséről és elérhetőségéről,
 
-2.14. tájékoztatás arról, hogy mely hatósági engedély iránti kérelmek nyújthatók be együtt,
+2.14. tájékoztatás arról, hogy az építésügyi hatósági engedélyezési eljárásokban mely hatósági engedély iránti kérelmek nyújthatók be együtt,
 
-2.15. tájékoztatás a kérelmezendő eljárástípus illetékének mértékéről,
+2.15. tájékoztatás az építésügyi és építésfelügyeleti hatósági eljárásokban a kérelmezendő eljárástípus illetékének mértékéről,
 
-2.16. tájékoztatás az egyes szakhatósági eljárások illetékének vagy igazgatási szolgáltatási díjának mértékéről,
+2.16. tájékoztatás az építésügyi hatósági engedélyezési eljárásokban az egyes szakhatósági eljárások illetékének vagy igazgatási szolgáltatási díjának mértékéről,
 
 2.17. információ, felvilágosítás és segítségnyújtás az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer (ÉTDR) kapcsán az elektronikus ügyintézésre vonatkozóan.
 
@@ -320,4 +322,4 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 
 4.1. A kormányablak az építésügyi és építésfelügyeleti hatósági és a szakhatósági eljárásokkal összefüggésben iratbetekintési és iratmásolati szolgáltatási lehetőséget biztosít az ügyfél azonosítását követően az egyedi ügy irataiba, amelyben az ezt kérelmező ügyféli jogállással rendelkezik, és amely iratra iratbetekintési joga van.
 
-[^197]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 240. § (6) bekezdése iktatta be.
+[^290]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 240. § (6) bekezdése iktatta be, szövege a 348/2015. (XI. 24.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.

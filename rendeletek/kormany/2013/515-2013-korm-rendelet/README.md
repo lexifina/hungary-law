@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-515-20-
 | 2015-07-03 | 2013-515-20-22.15 | 156/2015. (VI. 25.) Korm. rendelet |
 | 2015-08-01 | 2013-515-20-22.16 | 194/2015. (VII. 21.) Korm. rendelet |
 | 2015-08-15 | 2013-515-20-22.17 | 220/2015. (VIII. 7.) Korm. rendelet |
+| 2015-12-09 | 2013-515-20-22.18 | 348/2015. (XI. 24.) Korm. rendelet |
