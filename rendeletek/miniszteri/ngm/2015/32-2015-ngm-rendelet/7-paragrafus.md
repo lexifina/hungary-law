@@ -1,0 +1,5 @@
+## 6. § Az R. 12/A. §-a helyébe a következő rendelkezés lép:
+
+## „12/A. § (1) E rendeletnek a gyakorlati képzést végző gazdálkodó szervezetek saját munkavállalói részére szervezett képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásáról szóló 21/2013. (VI. 18.) NGM rendelet módosításáról szóló 32/2015. (XII. 4.) NGM rendelet (a továbbiakban: Mód. rendelet) 5. § (1) bekezdésével megállapított 10. § (1) bekezdését, 9. § (1) bekezdés 13. pontjával megállapított 10. § (2) bekezdés nyitó szövegrészét, 5. § (2) bekezdésével megállapított 10. § (2) bekezdés a) pontját, 8. § (1) bekezdésével és 1. mellékletével megállapított 2. mellékletét, valamint 8. § (2) bekezdésével és 2. mellékletével megállapított 3. mellékletét a Mód. rendelet hatálybalépésének napján folyamatban lévő képzésekre is alkalmazni kell.
+
+## (2) E rendeletnek a Mód. rendelet 8. § (3) bekezdésével és 3. mellékletével megállapított 2. mellékletét és 9. § (2) bekezdésével megállapított 3. mellékletét a 2016. január 1-jét követően megkezdett képzésekre kell alkalmazni.”
