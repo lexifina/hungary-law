@@ -1,10 +1,4 @@
-1. A Szent István Egyetem Alkalmazott Bölcsészeti és Pedagógiai Kar szarvasi telephelyű Pedagógiai Intézetének az egyházi fenntartásban működő Gál Ferenc Főiskolához történő csatlakozásáról szóló 1368/2014. (VII. 3.) Korm. határozatban foglaltak végrehajtásához szükséges intézkedésekről és előirányzat-átcsoportosításról szóló 1818/2014. (XII. 19.) Korm. határozat
-
-a) 1. pontjában a „894,3 millió forint” szövegrész helyébe az „1227,0 millió forint” szöveg,
-
-b) 2. pontjában a „2015. április 30-ig” szövegrész helyébe a „2015. december 31-ig” szöveg
-
-lép.
+1.[^1]
 
 2. A Kormány
 
@@ -21,3 +15,5 @@ b) felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az a) alpon
 Felelős: emberi erőforrások minisztere
 
 Határidő: az átadás-átvételt követően azonnal
+
+[^1]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
