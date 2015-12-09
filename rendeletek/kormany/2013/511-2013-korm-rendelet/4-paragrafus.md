@@ -1,3 +1,5 @@
+## 3/A. §[^2] Az átmeneti ellátásra történő kijelölés időtartama a kijelölés meghosszabbítása esetén sem haladhatja meg a három évet.
+
 4. § (1) Az átmeneti ellátás során a közszolgáltatási díjat az ingatlan használója a közérdekű közszolgáltató részére fizeti meg.
 
 (2) A közérdekű közszolgáltató átmeneti ellátásért járó közszolgáltatási díjból nem fedezhető, indokolt költségeit a központi költségvetés az ellátásért felelős önkormányzat útján téríti meg.
@@ -20,6 +22,13 @@ vehetők figyelembe.
 
 a) ellenőrzi annak indokoltságát és a (3) bekezdésnek való megfelelőségét,
 
-b) megállapítja az egy hónapra eső indokolt költségösszeget és
+b)[^3] megállapítja a kijelölés teljes időtartamára, évenkénti bontásban az indokolt költség összegét és
 
-c) az indokolt költségösszegről tájékoztatja a belügyminisztert.
+c)[^4] az indokolt költségnek a kijelölés teljes idejére vonatkozó, évenkénti bontásban megállapított összegéről tájékoztatja a belügyminisztert.
+
+(8)[^5] A MEKH a (7) bekezdésben meghatározott feladatának ellátásához szükséges tájékoztatást, adatot kérhet a katasztrófavédelmi szerv központi szervétől és az ellátásért felelős önkormányzattól.
+
+[^2]: A 3/A. §-t a 378/2015. (XII. 8.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^3]: A 4. § (7) bekezdés b) pontja a 378/2015. (XII. 8.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^4]: A 4. § (7) bekezdés c) pontja a 378/2015. (XII. 8.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^5]: A 4. § (8) bekezdését a 378/2015. (XII. 8.) Korm. rendelet 19. § (3) bekezdése iktatta be.
