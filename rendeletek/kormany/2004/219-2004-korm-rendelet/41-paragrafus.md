@@ -24,7 +24,7 @@ b)[^265]
 
 (5)[^266] A veszélyes anyagokat tartalmazó anyagok elhelyezésére, bevezetésére vonatkozó, valamint az ivóvízbázisokat, a vízi vagy szárazföldi ökoszisztémákat veszélyeztető tevékenységeknek 2007. október 31-ig, továbbá az egységes környezethasználati engedélyhez kötött tevékenységek esetében a külön jogszabály szerint kell megfelelni a rendelet előírásainak.
 
-(6)[^267] A veszélyes anyagokat nem tartalmazó, 2000. január 1. előtt létesített települési folyékony hulladék elhelyező helyek csak abban az esetben működtethetők 2015. december 31. után, ha részletes monitoring hálózatban mért, az elhelyezett szennyező anyagokra kiterjedő, legalább 6 éves vizsgálati adatsorok bizonyítják, hogy az elhelyezés nem okozott (B) szennyezettségi határértéket meghaladó szennyezettségi állapotot a felszín alatti vízben és nem mutatkozik a szennyezőanyagok koncentrációiban emelkedő tendencia.
+(6)[^267] A veszélyes anyagokat nem tartalmazó, 2000. január 1. előtt létesített települési folyékony hulladék elhelyező helyek csak abban az esetben működtethetők 2016. december 31. után, ha részletes monitoring hálózatban mért, az elhelyezett szennyező anyagokra kiterjedő, legalább 6 éves vizsgálati adatsorok bizonyítják, hogy az elhelyezés nem okozott (B) szennyezettségi határértéket meghaladó szennyezettségi állapotot a felszín alatti vízben és nem mutatkozik a szennyezőanyagok koncentrációiban emelkedő tendencia.
 
 (7)[^268] A (4) bekezdésben rögzített határidő nem vonatkozik a külön jogszabályban[^269] meghatározott, az állattartó telepek trágyatároló műtárgyainak kialakítására.
 
@@ -55,7 +55,7 @@ c) működő felszín alatti vízből történő felszíni víz pótlása termé
 [^264]: A 41. § (4) bekezdése a 299/2007. (XI. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^265]: A 41. § (4) bekezdés b) pontját a 118/2008. (V. 8.) Korm. rendelet 1. § 655. pontja hatályon kívül helyezte.
 [^266]: A 41. § új (5) bekezdését a 299/2007. (XI. 9.) Korm. rendelet 3. §-a iktatta be, egyidejűleg az eredeti (5) bekezdésének számozását (7) bekezdésre változtatta.
-[^267]: A 41. § új (6) bekezdését a 299/2007. (XI. 9.) Korm. rendelet 3. §-a iktatta be, egyidejűleg az eredeti (6) bekezdésének számozását (8) bekezdésre változtatta.
+[^267]: A 41. § új (6) bekezdését a 299/2007. (XI. 9.) Korm. rendelet 3. §-a iktatta be, egyidejűleg az eredeti (6) bekezdésének számozását (8) bekezdésre változtatta. A 41. § (6) bekezdése a 378/2015. (XII. 8.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^268]: A 41. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 299/2007. (XI. 9.) Korm. rendelet 3. §-a.
 [^269]: A vizek mezőgazdasági eredetű nitrát-szennyezéssel szembeni védelméről szóló 49/2001. (IV. 3.). Korm. rendelet 1. számú melléklet 6. pont.
 [^270]: A 41. § új (6) bekezdését a 92/2007. (IV. 26.) Korm. rendelet 7. §-a iktatta be, egyidejűleg az eredeti (6)–(10) bekezdés számozását (7)–(11) bekezdésre változtatva. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna. A 41. § (6) bekezdésének számozását (8) bekezdésre változtatta a 299/2007. (XI. 9.) Korm. rendelet 3. §-a.
