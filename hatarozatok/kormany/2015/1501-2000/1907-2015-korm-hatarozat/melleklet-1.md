@@ -22,11 +22,7 @@
 
 ## 3. egyetért azzal, hogy ha a 2. pont szerinti támogatás az Önkormányzat számára 2015. évben nem, vagy nem teljes összegben kerül folyósításra, a 2016. évben a IX. Helyi önkormányzatok támogatásai fejezetben azonos néven létrehozott címre e határozat rendelkezéseit kell alkalmazni;
 
-## 4. a Szent Márton Emlékévhez kapcsolódó beruházások megvalósítása érdekében a IX. Helyi önkormányzatok támogatásai fejezeten belüli előirányzat-átcsoportosításról szóló 1857/2015. (XI. 30.) Korm. határozat a következő 4. ponttal egészül ki:
-
-## (A Kormány)
-
-## „4. egyetért azzal, hogy ha a 2. pont szerinti támogatás az Önkormányzat számára 2015. évben nem, vagy nem teljes összegben kerül folyósításra, a 2016. évben a IX. Helyi önkormányzatok támogatásai fejezetben azonos néven létrehozott címre e határozat rendelkezéseit kell alkalmazni.”
+## 4.[^1]
 
 1. melléklet az 1907/2015. (XII. 8.) Korm. határozathoz
 
@@ -85,3 +81,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
