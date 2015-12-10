@@ -32,7 +32,7 @@
 
 14. in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendelet szerinti in vitro diagnosztikai orvostechnikai eszköz;
 
-15. ipari felügyeleti és vezérlő eszközök: kizárólag ipari vagy szakmai célú használatra kialakított felügyeleti és vezérlő eszközök;
+15.[^1] ipari ellenőrző és vezérlő eszközök: kizárólag ipari vagy szakmai célú használatra kialakított ellenőrző és vezérlő eszközök;
 
 16. kábelek: 250 voltnál kisebb feszültségű kábel, amely elektromos és elektronikus berendezések elektromos kimenethez való csatlakoztatásához, két vagy több elektromos és elektronikus berendezés egymáshoz való csatlakoztatásához összeköttetésként vagy hosszabbítóként szolgál;
 
@@ -59,3 +59,5 @@
 27. rendelkezésre álló helyettesítő anyag: olyan helyettesítő anyag, amely az 1. mellékletben felsorolt anyagok gyártásához és szállításához szükséges időhöz képest ésszerű határidőn belül gyártható és szállítható;
 
 28. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználó számára már elérhető termék visszajuttatása.
+
+[^1]: A 2. § 15. pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

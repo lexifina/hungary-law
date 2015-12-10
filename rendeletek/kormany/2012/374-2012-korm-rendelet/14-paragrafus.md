@@ -4,7 +4,7 @@
 
 a) 1–7. termékcsoport esetében a fogyasztóvédelmi hatóság,
 
-b)[^3] 8. termékcsoport esetében az Egészségügyi Nyilvántartási és Képzési Központ,
+b)[^4] 8. termékcsoport esetében az Egészségügyi Nyilvántartási és Képzési Központ,
 
 c) 9–10. termékcsoport esetében a Magyar Kereskedelmi Engedélyezési Hivatal kereskedelmi és piacfelügyeleti hatósága
 
@@ -14,4 +14,4 @@ c) 9–10. termékcsoport esetében a Magyar Kereskedelmi Engedélyezési Hivata
 
 (3) A piacfelügyeleti hatóság a termékek piacfelügyeletéről szóló törvény szerinti ellenőrzést folytat le, és az abban meghatározott jogkövetkezményeket alkalmazza.
 
-[^3]: A 14. § (1) bekezdés b) pontja a 30/2015. (II. 25.) Korm. rendelet 74. §-ával megállapított szöveg.
+[^4]: A 14. § (1) bekezdés b) pontja a 30/2015. (II. 25.) Korm. rendelet 74. §-ával megállapított szöveg.

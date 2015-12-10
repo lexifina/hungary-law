@@ -1,4 +1,4 @@
-## 16. §[^4] Ez a rendelet
+## 16. §[^9] Ez a rendelet
 
 1. az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló, 2011. június 8-i 2011/65/EU európai parlamenti és tanácsi irányelvnek,
 
@@ -54,6 +54,12 @@
 
 27. a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a reklámokban, a dekorációkban, az épületmegvilágításban, a speciális megvilágításban és a művészeti alkotásokban használt, kézzel előállított, cső alakú kisülőlámpákban lévő higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2014. március 13-i 2014/76/EU bizottsági irányelvnek
 
+28.[^10] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az in vitro diagnosztikai orvostechnikai eszközök polivinilklorid érzékelőiben használt ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/573/EU bizottsági irányelvnek,
+
+29.[^11] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az intravaszkuláris ultrahangos képalkotó rendszerekben használt higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/574/EU bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
-[^4]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.

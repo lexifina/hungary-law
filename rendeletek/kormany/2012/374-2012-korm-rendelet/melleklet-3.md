@@ -224,9 +224,9 @@
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^7]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^14]
 
-## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a felügyeleti és vezérlő eszközök vonatkozásában
+## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
 I. Ionizáló sugárzást felhasználó vagy észlelő berendezések
 
@@ -272,7 +272,7 @@ III. Egyéb
 
 19. Ultrahangos jelátalakítókhoz való forraszanyagban lévő ólom.
 
-20. Igen nagyfokú pontossággal rendelkező kapacitás- és veszteségmérő hidakban lévő higany, valamint felügyeleti és vezérlő eszközök nagyfrekvenciás RF kapcsolóiban és reléiben lévő higany, kapcsolónként, illetve relénként legfeljebb 20 mg mennyiségben.
+20. Igen nagyfokú pontossággal rendelkező kapacitás- és veszteségmérő hidakban lévő higany, valamint ellenőrző és vezérlő eszközök nagyfrekvenciás RF kapcsolóiban és reléiben lévő higany, kapcsolónként, illetve relénként legfeljebb 20 mg mennyiségben.
 
 21. Hordozható sürgősségi defibrillátorokhoz való forraszanyagban lévő ólom.
 
@@ -294,17 +294,25 @@ III. Egyéb
 
 30. Standard működési és tárolási körülmények között tartósan –20 °C alatt használt, nemmágneses csatlakozókat igénylő tűs csatlakozórendszerek bevonatában lévő ólom – a mentesség 2021. június 30-án lejár.
 
-31. Ólom, amely olyan forraszanyagokban, villamos és elektronikus alkatrészek és nyomtatott áramköri lapok védőbevonatában, villamos vezetékek csatlakozásaiban, árnyékolókban és zárt csatlakozókban használatos, amelyeket
+31. Ólom, amely olyan
+
+– forraszanyagokban,
+
+– villamos és elektronikus alkatrészek és nyomtatott áramköri lapok védőbevonatában,
+
+– villamos vezetékek csatlakozásaiban, árnyékolókban és zárt csatlakozókban használatos,
+
+amelyeket
 
 a) a mágneses rezonanciás orvosi képalkotó berendezésekben található mágnes izocentrumát körülvevő legfeljebb 1 m sugarú mágneses mezőben – beleértve az e mezőn belüli használatra tervezett betegmonitorokat is –, vagy
 
-b) a részecsketerápiához alkalmazott ciklotronmágnesek, sugártovábbító mágnesek és sugárirány-ellenőrző mágnesek külső felületétől számított 1 m távolságon belül található mágneses mezőben
+b) a részecsketerápiához alkalmazott ciklotronmágnesek, sugártovábbító mágnesek és sugárirány-ellenőrző mágnesek külső felületétől számított 1 m távolságon belül található mágneses mezőben alkalmaznak –
 
-alkalmaznak – a mentesség 2020. június 30-án lejár.
+a mentesség 2020. június 30-án lejár.
 
 32. Digitális kadmium-tellurid és kadmium-cink-tellurid sordetektorok nyomtatott áramköri lapokra való szereléséhez használt forraszanyagokban lévő ólom – a mentesség 2017. december 31-én lejár.
 
-33. Kriogén hűtők hideg fejeiben és/vagy kriogén hűtésű hideg szondákban és/vagy kriogén hűtésű ekvipotenciális kötési rendszerekben, orvostechnikai eszközökben (8. kategória) és/vagy ipari felügyeleti és vezérlő eszközökben szupravezetőként vagy hővezetőként használt ötvözetekben alkalmazott ólom – a mentesség 2021. június 30-án lejár.
+33. Kriogén hűtők hideg fejeiben és/vagy kriogén hűtésű hideg szondákban és/vagy kriogén hűtésű ekvipotenciális kötési rendszerekben, orvostechnikai eszközökben (8. kategória) és/vagy ipari ellenőrző és vezérlő eszközökben szupravezetőként vagy hővezetőként használt ötvözetekben alkalmazott ólom – a mentesség 2021. június 30-án lejár.
 
 34. A röntgen-képerősítők fotokatódjainak gyártásához használt alkáliadagolókban 2019. december 31-ig, és az uniós piacon 2020. január 1. előtt forgalomba hozott röntgen-képerősítők cserealkatrészeiben alkalmazott hat vegyértékű króm.
 
@@ -316,11 +324,11 @@ alkalmaznak – a mentesség 2020. június 30-án lejár.
 
 38. BSP (BaSi2O5:Pb) fényporokat tartalmazó, testen kívüli fénykezelésben (fotoferezisben) használt kisülő lámpákban található fluoreszcens porban aktivátorként alkalmazott ólom – a mentesség 2021. június 22-én lejár.
 
-39. A 2017. július 22. előtt forgalomba hozott ipari felügyeleti és vezérlő eszközök folyadékkristályos kijelzőinek háttérvilágítását biztosító hidegkatódos fénycsövekben lámpánként legfeljebb 5 mg mennyiségben jelen lévő higany – a mentesség 2024. július 21-én lejár.
+39. A 2017. július 22. előtt forgalomba hozott ipari ellenőrző és vezérlő eszközök folyadékkristályos kijelzőinek háttérvilágítását biztosító hidegkatódos fénycsövekben lámpánként legfeljebb 5 mg mennyiségben jelen lévő higany – a mentesség 2024. július 21-én lejár.
 
-40. Az ipari felügyeleti és vezérlő eszközökben használt, a C-Press rugalmas tűs csatlakozórendszereken kívüli rugalmas tűs csatlakozórendszerekben lévő ólom – a mentesség 2020. december 31-én lejár.
+40. Az ipari ellenőrző és vezérlő eszközökben használt, a C-Press rugalmas tűs csatlakozórendszereken kívüli rugalmas tűs csatlakozórendszerekben lévő ólom – a mentesség 2020. december 31-én lejár.
 
-A 2021. január 1. előtt forgalomba hozott ipari felügyeleti és vezérlő eszközök cserealkatrészeiben az említett dátum után is felhasználható.
+A 2021. január 1. előtt forgalomba hozott ipari ellenőrző és vezérlő eszközök cserealkatrészeiben az említett dátum után is felhasználható.
 
 41. Az olyan vezetőképesség-mérések során használt platinázott platinaelektródokban lévő ólom, amelyekre az alábbi feltételek közül legalább egy teljesül:
 
@@ -362,14 +370,18 @@ A 2020. január 1. előtt forgalomba hozott CT- és röntgenrendszerek cserealka
 
 A mentesség
 
-a) az orvostechnikai eszközök, valamint a felügyeleti és vezérlő eszközök esetében 2021. július 21-én;
+a) az orvostechnikai eszközök, valamint a ellenőrző és vezérlő eszközök esetében 2021. július 21-én;
 
 b) az in vitro diagnosztikai orvostechnikai eszközök esetében 2023. július 21-én;
 
-c) az ipari felügyeleti és vezérlő eszközök esetében pedig 2024. július 21-én
+c) az ipari ellenőrző és vezérlő eszközök esetében pedig 2024. július 21-én
 
 lejár.
 
-44. Az ipari felügyeleti és vezérlő eszközök 125 V alatti névleges egyenfeszültségű vagy 250 V alatti névleges váltófeszültségű kondenzátoraiban található dielektromos kerámiaanyagokban lévő ólom – a mentesség 2020. december 31-én lejár. A 2021. január 1-je előtt forgalomba hozott ipari felügyeleti és vezérlő eszközök cserealkatrészeiben a fenti időpontot követően is felhasználható.”
+44. Az ipari ellenőrző és vezérlő eszközök 125 V alatti névleges egyenfeszültségű vagy 250 V alatti névleges váltófeszültségű kondenzátoraiban található dielektromos kerámiaanyagokban lévő ólom – a mentesség 2020. december 31-én lejár. A 2021. január 1-je előtt forgalomba hozott ipari ellenőrző és vezérlő eszközök cserealkatrészeiben a fenti időpontot követően is felhasználható.
 
-[^7]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+45. Vér, egyéb testfolyadék és testgáz elemzésére szolgáló in vitro diagnosztikai orvostechnikai eszközök amperometriás, potenciometriás és konduktometriás elektrokémiai érzékelőinek alapanyagaként szolgáló polivinilklorid (PVC) hőstabilizálására használt ólom – a mentesség 2018. december 31-én lejár.
+
+46. A magas frekvenciájú (>50MHz) működési módokra képes intravaszkuláris ultrahangos képalkotó rendszerek elektromos forgóérintkezőiben lévő higany – a mentesség 2019. június 30-án lejár.
+
+[^14]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.
