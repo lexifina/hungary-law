@@ -1,4 +1,4 @@
-167/C. §[^434] (1) A költségvetési szerv és a jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy
+167/C. §[^435] (1) A költségvetési szerv és a jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy
 
 a) törzskönyvi nyilvántartásba történő bejegyzését az alapítói jogokat gyakorló szerv a létesítő okirat csatolásával, a bejegyzési kérelem,
 
@@ -6,7 +6,7 @@ b) törzskönyvi nyilvántartásból történő törlését az alapítói jogoka
 
 c) létesítő okiratát nem érintő, a 167/A. §-ban meghatározott adatának módosítását – az alapítói jogokat gyakorló szerv egyidejű értesítésével – a törzskönyvi jogi személy a változás-bejelentési kérelem,
 
-d)[^435] létesítő okiratát érintő módosítást az alapítói jogokat gyakorló szerv az alapító okirat módosítását tartalmazó okirat, valamint az alapító okirat módosításokkal egységes szerkezetbe foglalt változata csatolásával, a változás-bejelentési kérelem
+d)[^436] létesítő okiratát érintő módosítást az alapítói jogokat gyakorló szerv az alapító okirat módosítását tartalmazó okirat, valamint az alapító okirat módosításokkal egységes szerkezetbe foglalt változata csatolásával, a változás-bejelentési kérelem
 
 benyújtásával kérheti.
 
@@ -30,7 +30,7 @@ b) törzskönyvi nyilvántartásból történő törlését a társulás megszü
 
 c) 167/A. § (1), (2) és (4) bekezdésében meghatározott adatának módosítását változás-bejelentési kérelem,
 
-d)[^436] a társulási megállapodást érintő módosítást a módosított megállapodás és az azt elfogadó önkormányzati képviselő-testületi határozatok csatolásával, változás-bejelentési kérelem
+d)[^437] a társulási megállapodást érintő módosítást a módosított megállapodás és az azt elfogadó önkormányzati képviselő-testületi határozatok csatolásával, változás-bejelentési kérelem
 
 benyújtásával kérheti.
 
@@ -46,17 +46,17 @@ d) szervezeti és működési szabályzatát érintő módosítást a módosíto
 
 benyújtásával kérheti.
 
-(5)[^437] A kérelmet az adat keletkezésétől, illetve megváltozásától számított nyolc napon belül, az (1)–(4) bekezdésben és a 167/E. §-ban meghatározott dokumentumok egy példányának csatolásával kell a Kincstárhoz benyújtani. A törvénnyel vagy kormányrendelettel alapított költségvetési szerv esetében a törvény vagy kormányrendelet kihirdetésével egyidejűleg kell a kérelmet a Kincstárhoz benyújtani, kivéve ha a kérelem változás-bejelentésre irányul és a változás a költségvetési szerv alapításáról rendelkező törvény vagy kormányrendelet módosítását nem eredményezi.
+(5)[^438] A kérelmet az adat keletkezésétől, illetve megváltozásától számított nyolc napon belül, az (1)–(4) bekezdésben és a 167/E. §-ban meghatározott dokumentumok egy példányának csatolásával kell a Kincstárhoz benyújtani. A törvénnyel vagy kormányrendelettel alapított költségvetési szerv esetében a törvény vagy kormányrendelet kihirdetésével egyidejűleg kell a kérelmet a Kincstárhoz benyújtani, kivéve ha a kérelem változás-bejelentésre irányul és a változás a költségvetési szerv alapításáról rendelkező törvény vagy kormányrendelet módosítását nem eredményezi.
 
-(5a)[^438] Költségvetési szerv átalakítása esetén az átalakítással érintett költségvetési szerv létesítő okiratának módosítására vagy törzskönyvi nyilvántartásból történő törlésére és a jogutód költségvetési szerv törzskönyvi nyilvántartásba történő bejegyzésére vagy létesítő okiratának módosítására vonatkozó kérelmet úgy kell benyújtani, hogy azok egyidejűleg a Kincstár számára rendelkezésre álljanak. A Kincstár az átalakítással érintett költségvetési szerv tekintetében beálló változást a jogutód költségvetési szervet érintő bejegyzéssel egyidejűleg, a jogutód költségvetési szerv bejegyzésével együtt vezeti át a törzskönyvi nyilvántartásban.
+(5a)[^439] Költségvetési szerv átalakítása esetén az átalakítással érintett költségvetési szerv létesítő okiratának módosítására vagy törzskönyvi nyilvántartásból történő törlésére és a jogutód költségvetési szerv törzskönyvi nyilvántartásba történő bejegyzésére vagy létesítő okiratának módosítására vonatkozó kérelmet úgy kell benyújtani, hogy azok egyidejűleg a Kincstár számára rendelkezésre álljanak. A Kincstár az átalakítással érintett költségvetési szerv tekintetében beálló változást a jogutód költségvetési szervet érintő bejegyzéssel egyidejűleg, a jogutód költségvetési szerv bejegyzésével együtt vezeti át a törzskönyvi nyilvántartásban.
 
-(5b)[^439] A Kincstár jogutód nélküli megszűnés esetén a megszüntető szerv bejelentésétől vagy a megszűnést meghatározó törvényi rendelkezés hatálybalépésétől, jogutóddal történő megszűnés esetén a jogutód bejelentésétől számított tizenöt napon belül, a jogutód feltüntetésével törli a nem költségvetési szerv törzskönyvi jogi személyt a törzskönyvi nyilvántartásból.
+(5b)[^440] A Kincstár jogutód nélküli megszűnés esetén a megszüntető szerv bejelentésétől vagy a megszűnést meghatározó törvényi rendelkezés hatálybalépésétől, jogutóddal történő megszűnés esetén a jogutód bejelentésétől számított tizenöt napon belül, a jogutód feltüntetésével törli a nem költségvetési szerv törzskönyvi jogi személyt a törzskönyvi nyilvántartásból.
 
 (6) A költségvetési szerv és a jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy alapító szervének megszűnése esetén az alapító szerv jogutódját, az alapítói jogok átruházása esetén az alapítói jogok átvevőjét terheli a költségvetési szerv és a jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy törzskönyvi nyilvántartásba történő változásbejegyzésével kapcsolatos intézkedések megtételének kötelezettsége.
 
-[^434]: Az Ávr. 167/C. §-a a 397/2014. (XII. 31.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^435]: Az Ávr. 167/C. § (1) bekezdés d) pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 17. pontja szerint módosított szöveg.
-[^436]: Az Ávr. 167/C. § (3) bekezdés d) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § j) pontja szerint módosított szöveg.
-[^437]: Az Ávr. 167/C. § (5) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.
-[^438]: Az Ávr. 167/C. § (5a) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 24. §-a iktatta be.
-[^439]: Az Ávr. 167/C. § (5b) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 24. §-a iktatta be.
+[^435]: Az Ávr. 167/C. §-a a 397/2014. (XII. 31.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^436]: Az Ávr. 167/C. § (1) bekezdés d) pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 17. pontja szerint módosított szöveg.
+[^437]: Az Ávr. 167/C. § (3) bekezdés d) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § j) pontja szerint módosított szöveg.
+[^438]: Az Ávr. 167/C. § (5) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.
+[^439]: Az Ávr. 167/C. § (5a) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 24. §-a iktatta be.
+[^440]: Az Ávr. 167/C. § (5b) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 24. §-a iktatta be.

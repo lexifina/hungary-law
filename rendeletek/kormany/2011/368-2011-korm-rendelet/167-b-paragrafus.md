@@ -1,4 +1,4 @@
-167/B. § (1)[^433] A törzskönyvi nyilvántartás vezetésével kapcsolatos közigazgatási hatósági eljárás
+167/B. § (1)[^434] A törzskönyvi nyilvántartás vezetésével kapcsolatos közigazgatási hatósági eljárás
 
 a) az erre a célra rendszeresített és a Kincstár honlapján közzétett formanyomtatvány vagy elektronikus űrlap alkalmazásával, kérelemre, vagy
 
@@ -16,4 +16,4 @@ indul.
 
 (6) A szociális, gyermekjóléti és gyermekvédelmi információs rendszertől elektronikus úton átvett ágazati azonosítóját, szolgáltató tevékenysége megkezdésének, illetve megszűnésének időpontját a Kincstár hivatalból jegyzi be.
 
-[^433]: Az Ávr. 167/B. § (1) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^434]: Az Ávr. 167/B. § (1) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 37. §-ával megállapított szöveg.

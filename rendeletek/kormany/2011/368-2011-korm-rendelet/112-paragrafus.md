@@ -10,7 +10,7 @@ c) a visszafizetési kötelezettség az éves költségvetési beszámolóban va
 
 (3) Ha a jogosulatlanul igénybe vett támogatás összege nem haladja meg az ötszázezer forintot, az (1) bekezdés szerinti kamat 50%-át kell megfizetni.
 
-(4)[^265] A helyi önkormányzat a 111. § a) pontjában meghatározott egyenleggel kapcsolatban késedelmi kamatot fizet
+(4)[^266] A helyi önkormányzat a 111. § a) pontjában meghatározott egyenleggel kapcsolatban késedelmi kamatot fizet
 
 a) az éves költségvetési beszámolójában kimutatott visszafizetési kötelezettség összege után, ha azt a beszámoló Kincstárhoz történő benyújtási határidejének leteltét követő tizenöt napon belül nem teljesíti, és
 
@@ -26,4 +26,4 @@ b) az igénybevétel évét követően tesz eleget, az igénybevétel éve átla
 
 kell érteni.
 
-[^265]: Az Ávr. 112. § (4) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 29. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^266]: Az Ávr. 112. § (4) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 29. § (1) bekezdés 2. pontja szerint módosított szöveg.

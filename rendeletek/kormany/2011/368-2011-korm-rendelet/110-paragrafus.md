@@ -1,6 +1,6 @@
 ## [Az Áht. 60. §-ához]
 
-110. § (1)[^259] Ha a felülvizsgálat keretében végezett hatósági ellenőrzés során a Kincstár eltérést nem állapít meg, a hatósági ellenőrzést a Ket. 93. § (3) bekezdése szerinti egyszerűsített jegyzőkönyv felvételével és a helyi önkormányzatnak történő átadásával vagy megküldésével zárja le. Az egyszerűsített jegyzőkönyvre a 106. § (2) bekezdését alkalmazni kell.
+110. § (1)[^260] Ha a felülvizsgálat keretében végezett hatósági ellenőrzés során a Kincstár eltérést nem állapít meg, a hatósági ellenőrzést a Ket. 93. § (3) bekezdése szerinti egyszerűsített jegyzőkönyv felvételével és a helyi önkormányzatnak történő átadásával vagy megküldésével zárja le. Az egyszerűsített jegyzőkönyvre a 106. § (2) bekezdését alkalmazni kell.
 
 (2) A felülvizsgálat keretében végzett hatósági ellenőrzés során megállapított jogosulatlan igénybevétel esetén az Áht. 60. §-a szerinti határozat tartalmazza
 
@@ -22,4 +22,4 @@ bc) a helyi önkormányzat jegyzőkönyvre tett észrevételeiről kialakított 
 
 bd) az ügyleti kamat, késedelmi kamat fizetésének jogalapját, az a) pont ab) alpontja szerinti kamatok alapját.
 
-[^259]: Az Ávr. 110. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 15. pontja szerint módosított szöveg.
+[^260]: Az Ávr. 110. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 15. pontja szerint módosított szöveg.

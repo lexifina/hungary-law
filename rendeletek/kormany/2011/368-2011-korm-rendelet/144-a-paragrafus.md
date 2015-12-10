@@ -1,12 +1,12 @@
-## [Az Áht. 83/A. §-ához][^354]
+## [Az Áht. 83/A. §-ához][^355]
 
 144/A. § (1) A központi költségvetésről szóló törvény alapján a központi költségvetést havonta megillető hányadának ellenőrzése céljából a települési önkormányzat az önkormányzati adóhatóság által a tárgynegyedévben beszedett gépjárműadó összegének adatait, illetve a gépjárműadó fizetési számláról a települési önkormányzat által végrehajtott utalások adatait – havi kimutatással, a települési önkormányzatot és a központi költségvetést megillető hányad szerinti bontásban – a tárgynegyedévet követő hónap 15. napjáig továbbítja az Igazgatóságnak.
 
-(2)[^355] Az (1) bekezdés szerinti adatszolgáltatást az önkormányzati adóhatóság teljesíti úgy, hogy az adónyilvántartó rendszerből kinyert – havi bontású gépjárműadó forgalmát részletező – adatokat a Kincstár által üzemeltetett elektronikus rendszerben rögzíti, valamint az adatszolgáltatás hitelesített példányát és a 145. § (4) bekezdés b) pontja szerinti fizetési számláról a terhelési összegeket, továbbá azok záró egyenlegét tartalmazó számlakivonatok hitelesített másolatait legkésőbb a tárgynegyedévet követő hónap 16. napjáig postai úton is megküldi az Igazgatóságnak.
+(2)[^356] Az (1) bekezdés szerinti adatszolgáltatást az önkormányzati adóhatóság teljesíti úgy, hogy az adónyilvántartó rendszerből kinyert – havi bontású gépjárműadó forgalmát részletező – adatokat a Kincstár által üzemeltetett elektronikus rendszerben rögzíti, valamint az adatszolgáltatás hitelesített példányát és a 145. § (4) bekezdés b) pontja szerinti fizetési számláról a terhelési összegeket, továbbá azok záró egyenlegét tartalmazó számlakivonatok hitelesített másolatait legkésőbb a tárgynegyedévet követő hónap 16. napjáig postai úton is megküldi az Igazgatóságnak.
 
-(3)[^356] Az Igazgatóság az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettség teljesítését követő harminc napon belül a rendelkezésre álló adatok alapján ellenőrzi, hogy az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettségét és a gépjárműadó-bevétel törvényben előírt megosztását megfelelően teljesítette-e az önkormányzati adóhatóság. Ha az ellenőrzés eredményeként ezek helyessége nem állapítható meg, vagy az Igazgatóság tartalmi vagy formai hibát talál, pótlólagos információért, illetve hiánypótlásért megkeresi az önkormányzati adóhatóságot.
+(3)[^357] Az Igazgatóság az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettség teljesítését követő harminc napon belül a rendelkezésre álló adatok alapján ellenőrzi, hogy az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettségét és a gépjárműadó-bevétel törvényben előírt megosztását megfelelően teljesítette-e az önkormányzati adóhatóság. Ha az ellenőrzés eredményeként ezek helyessége nem állapítható meg, vagy az Igazgatóság tartalmi vagy formai hibát talál, pótlólagos információért, illetve hiánypótlásért megkeresi az önkormányzati adóhatóságot.
 
-(4)[^357]
+(4)[^358]
 
 (5) Ha az Igazgatóság ellenőrzése során nem állapít meg eltérést, arról az önkormányzati adóhatóságot nem értesíti.
 
@@ -20,13 +20,13 @@ b) ha az adatszolgáltatási késedelem a 60 napot meghaladja, akkor a tárgyév
 
 (8) Ha a bírság, illetve az Áht. 83/A. § (2) bekezdése alapján az Igazgatóság által megállapított különbözet és annak kamata nem éri el a tízezer forintot, azt nem kell megfizetni, és az Igazgatóság az önkormányzati adóhatóság értesítését mellőzi.
 
-(9)[^358] Ha az Igazgatóság a (3) bekezdés szerinti ellenőrzés során a települési önkormányzat javára állapít meg eltérést, akkor határozat hozatala nélkül értesíti az önkormányzati adóhatóságot az eltérésről. Az eltérést a települési önkormányzat a központi költségvetést megillető gépjárműadó bevétel 145. § (8) bekezdés szerinti utalásai során levonással érvényesíti.
+(9)[^359] Ha az Igazgatóság a (3) bekezdés szerinti ellenőrzés során a települési önkormányzat javára állapít meg eltérést, akkor határozat hozatala nélkül értesíti az önkormányzati adóhatóságot az eltérésről. Az eltérést a települési önkormányzat a központi költségvetést megillető gépjárműadó bevétel 145. § (8) bekezdés szerinti utalásai során levonással érvényesíti.
 
-(10)[^359] A (3) bekezdés szerinti ellenőrzési határidőt — annak lejárta előtt legalább öt nappal — indokolt esetben az ellenőrzést végző Igazgatóság vezetője egyszer, legfeljebb tizenöt nappal meghosszabbíthatja. Az Igazgatóság az ellenőrzési határidő meghosszabbításáról végzést hoz, és erről az önkormányzati adóhatóságot haladéktalanul tájékoztatja.
+(10)[^360] A (3) bekezdés szerinti ellenőrzési határidőt — annak lejárta előtt legalább öt nappal — indokolt esetben az ellenőrzést végző Igazgatóság vezetője egyszer, legfeljebb tizenöt nappal meghosszabbíthatja. Az Igazgatóság az ellenőrzési határidő meghosszabbításáról végzést hoz, és erről az önkormányzati adóhatóságot haladéktalanul tájékoztatja.
 
-[^354]: Az Ávr. „[Az Áht. 83/A. §-ához]” alcímét (Ávr. 144/A. §) a 307/2013. (VIII. 14.) Korm. rendelet 22. §-a iktatta be.
-[^355]: Az Ávr. 144/A. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (2) bekezdés 5. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 52. pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 23. pontja szerint módosított szöveg.
-[^356]: Az Ávr. 144/A. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (2) bekezdés 6. pontja szerint módosított szöveg.
-[^357]: Az Ávr. 144/A. § (4) bekezdését a 20/2015. (II. 17.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte.
-[^358]: Az Ávr. 144/A. § (9) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 48. §-a iktatta be.
-[^359]: Az Ávr. 144/A. § (10) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 48. §-a iktatta be.
+[^355]: Az Ávr. „[Az Áht. 83/A. §-ához]” alcímét (Ávr. 144/A. §) a 307/2013. (VIII. 14.) Korm. rendelet 22. §-a iktatta be.
+[^356]: Az Ávr. 144/A. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (2) bekezdés 5. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 52. pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 23. pontja szerint módosított szöveg.
+[^357]: Az Ávr. 144/A. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (2) bekezdés 6. pontja szerint módosított szöveg.
+[^358]: Az Ávr. 144/A. § (4) bekezdését a 20/2015. (II. 17.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte.
+[^359]: Az Ávr. 144/A. § (9) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 48. §-a iktatta be.
+[^360]: Az Ávr. 144/A. § (10) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 48. §-a iktatta be.
