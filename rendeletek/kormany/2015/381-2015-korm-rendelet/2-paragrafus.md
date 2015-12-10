@@ -1,1 +1,0 @@
-## „(3) A kiegészítő pótlék tekintetében közalkalmazotti jogviszonyban töltött időnek a fizetési fokozat megállapításának alapjául szolgáló időt kell tekinteni. A közalkalmazott 6. számú mellékletben foglalt táblázat szerinti, a közalkalmazotti jogviszonyban töltött idő alapján történő besorolása minden megkezdett évre tekintettel a tárgyév első napján történik.”
