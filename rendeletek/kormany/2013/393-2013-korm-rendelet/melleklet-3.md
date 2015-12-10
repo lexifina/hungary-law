@@ -58,11 +58,11 @@
 
 ## * A táblázatban felsorolt eszközök, felszerelések helyettesíthetők az érintett eszköz, felszerelés funkcióját kiváltó, korszerű eszközzel, felszereléssel.
 
-3. melléklet a 393/2013. (XI. 12.) Korm. rendelethez
+3. melléklet a 393/2013. (XI. 12.) Korm. rendelethez[^89]
 
 Az elégedettségmérés kötelezően előírt kérdései*
 
-..............................................
+.........................................................
 
 a képzés megnevezése
 
@@ -70,15 +70,15 @@ a képzés megnevezése
 
 1 2 3 4 5 6 7 8 9 10
 
-2. Mennyire elégedett az elvégzett képzés gyakorlati részének oktatóival?
+2. Mennyire elégedett az elvégzett képzés gyakorlati részének oktatóival?**
 
 1 2 3 4 5 6 7 8 9 10
 
-3. Mennyire elégedett a képzéshez biztosított tananyagok színvonalával?
+3. Mennyire elégedett a képzéshez biztosított tananyagok színvonalával?***
 
 1 2 3 4 5 6 7 8 9 10
 
-4. Mennyire elégedett a gyakorlati képzés színvonalával?
+4. Mennyire elégedett a gyakorlati képzés színvonalával?**
 
 1 2 3 4 5 6 7 8 9 10
 
@@ -102,6 +102,14 @@ a képzés megnevezése
 
 1 2 3 4 5 6 7 8 9 10
 
-Dátum……………………………
+Dátum .................................
 
 * A kérdésre adandó válasz esetében a számok emelkedő sorrendje az elégedettség mértékének növekedését jelzi.
+
+** Kizárólag abban az esetben kell válaszolni, ha a képzésnek volt gyakorlati része. Nyelvi képzés esetén nem kell
+
+választ adni!
+
+*** Kizárólag abban az esetben kell válaszolni, ha a képzéshez biztosítottak tananyagot.
+
+[^89]: A 3. melléklet a 360/2015. (XII. 2.) Korm. rendelet 19. §-ával megállapított szöveg.

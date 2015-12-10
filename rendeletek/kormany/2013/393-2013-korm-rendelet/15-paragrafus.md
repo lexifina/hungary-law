@@ -4,8 +4,10 @@ a) az Fktv. 1. § (2) bekezdés a) pontja szerinti képzési kör esetén a szak
 
 b) az Fktv. 1. § (2) bekezdés b) pontja szerinti képzési kör esetén a szakmai programkövetelmények nyilvántartásában szereplő, a képzésre vonatkozó adatok megváltoznak, kivéve, ha kizárólag a programkövetelmény szakmacsoportba történő besorolása változik meg vagy a Magyar Képesítési Keretrendszer szerinti szintjének meghatározására kerül sor,
 
-c) az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési kör esetén a nyelvi programkövetelmények nyilvántartásában szereplő, a képzésre vonatkozó adatok megváltoznak.
+c)[^36] az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési kör esetén a nyelvi programkövetelmények nyilvántartásában szereplő adatok – a felnőttképzést folytató intézmény képzési programját érintően – megváltoznak.
 
 (2) A felnőttképzést folytató intézmény az engedélyében szereplő képzés képzési programját – a jogszabályi előírások betartásával – bármely képzési körben módosíthatja.
 
 (3) A képzési program (1) és (2) bekezdés alapján történő módosítása esetén a felnőttképzést folytató intézménynek el kell végeztetnie a módosított képzési programnak a 14. § szerinti előzetes minősítését.
+
+[^36]: A 15. § (1) bekezdés c) pontja a 360/2015. (XII. 2.) Korm. rendelet 20. § (1) bekezdés f) pontja szerint módosított szöveg.

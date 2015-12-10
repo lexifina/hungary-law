@@ -1,8 +1,8 @@
-21. § (1)[^40] A felnőttképzést folytató intézmény engedélyének részbeni vagy teljes visszavonása esetén az engedély visszavonásáról szóló határozatnak tartalmaznia kell a 20. § (2) bekezdése szerinti kimutatás nyolc napon belül történő benyújtására vonatkozó felhívást. Az NSZFH a továbbiakban a vagyoni biztosíték felhasználására vonatkozóan a 20. § (4) és (5) bekezdésében foglaltak szerint jár el.
+21. § (1)[^55] A felnőttképzést folytató intézmény engedélyének részbeni vagy teljes visszavonása esetén az engedély visszavonásáról szóló határozatnak tartalmaznia kell a 20. § (2) bekezdése szerinti kimutatás nyolc napon belül történő benyújtására vonatkozó felhívást. Az NSZFH a továbbiakban a vagyoni biztosíték felhasználására vonatkozóan a 20. § (4) és (5) bekezdésében foglaltak szerint jár el.
 
-(2)[^41] Ha a felnőttképzést folytató intézményt az NSZFH a nyilvántartásból törli és az intézmény a vagyoni biztosítékkal kapcsolatos minden kötelezettségét – a 18. § (5) bekezdés a) pontja szerinti értesítés alapján – teljesítette, az NSZFH jóváhagyja a vagyoni biztosíték megszüntetését.
+(2)[^56] Ha a felnőttképzést folytató intézményt az NSZFH a nyilvántartásból törli és az intézmény a vagyoni biztosítékkal kapcsolatos minden kötelezettségét – a 18. § (5) bekezdés a) pontja szerinti értesítés alapján – teljesítette, az NSZFH jóváhagyja a vagyoni biztosíték megszüntetését.
 
-(3)[^42] Ha a felnőttképzést folytató intézmény
+(3)[^57] Ha a felnőttképzést folytató intézmény
 
 a) nem tesz eleget a 20. § (1) bekezdésében foglalt bejelentési kötelezettségének,
 
@@ -22,6 +22,6 @@ c) a befizető számára igényelt összeg nagyságának megjelölését, és
 
 d) a képzésben résztvevő személlyel megkötött felnőttképzési szerződések másolatát.
 
-[^40]: A 21. § (1) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
-[^41]: A 21. § (2) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
-[^42]: A 21. § (3) bekezdés záró szövegrésze a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^55]: A 21. § (1) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^56]: A 21. § (2) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
+[^57]: A 21. § (3) bekezdés záró szövegrésze a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.

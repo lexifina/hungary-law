@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-393-20-
 | 2014-05-02 | 2013-393-20-22.4 | 136/2014. (IV. 24.) Korm. rendelet |
 | 2014-12-01 | 2013-393-20-22.5 | 136/2014. (IV. 24.) Korm. rendelet |
 | 2014-12-15 | 2013-393-20-22.6 | 318/2014. (XII. 13.) Korm. rendelet |
+| 2015-12-10 | 2013-393-20-22.7 | 360/2015. (XII. 2.) Korm. rendelet |

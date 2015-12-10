@@ -6,7 +6,7 @@
 
 |  | Helyiségek | Mennyiségi mutató | Megjegyzés |
 
-| 1. | Tanterem | képzési helyszínenként*, egyidejűleg képzésben lévő – maximum 30 fős – csoportonként 1 | a terem alapterülete nem lehet kevesebb, mint 1,5 m2/fő |
+| 1. | Tanterem | képzési helyszínenként*, egyidejűleg képzésben lévő – maximum 40 fős – csoportonként 1 | a terem alapterülete nem lehet kevesebb, mint 1,5 m2/fő |
 
 | 2. | Adminisztrációs iroda és irattár | intézményenként 1 |  |
 
