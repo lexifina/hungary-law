@@ -1,4 +1,4 @@
-26. § (1) Amennyiben annak lehetőségét törvény vagy kormányrendelet nem zárja ki, az adott engedélyezési feltétel fennállásának hiányában feltételesen is engedélyezhető a víziközmű-szolgáltató működése a feltétel teljesítésére szabott határidő megadásával. A Hivatal a feltételes engedélyt legfeljebb 12 hónapra adja ki, amely időtartam indokolt esetben egy alkalommal legfeljebb 6 hónappal meghosszabbítható.
+26. § (1)[^55] Amennyiben annak lehetőségét törvény vagy kormányrendelet nem zárja ki, az adott engedélyezési feltétel fennállásának hiányában feltételesen is engedélyezhető a víziközmű-szolgáltató működése a feltétel teljesítésére szabott határidő megadásával. A Hivatal a feltételes engedélyt legfeljebb 12 hónapra adja ki, amely időtartam indokolt esetben meghosszabbítható.
 
 (2) A feltétel tűzésével kiadott engedélynek mellékletként részét képezi – a kérelmező által az eljárás során, külön felhívásra benyújtott – a Hivatal által jóváhagyott felzárkózási terv.
 
@@ -11,3 +11,5 @@
 a) a benyújtott felzárkózási tervet tartalmi elemei hiányából fakadó teljesíthetetlensége miatt a Hivatal nem hagyta jóvá,
 
 b) a 11. alcímben foglalt engedélyezési feltételek közül egyidejűleg több feltétel is hiányzik, így az a víziközmű-szolgáltatás jelentősen csökkent színvonalú folytatását eredményezné.
+
+[^55]: A 26. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 28. § (2) bekezdés 4. pontja szerint módosított szöveg.

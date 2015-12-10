@@ -1,16 +1,16 @@
-## 15. [^41] A népegészségügyi szerv véleményének kikérése és a szakhatóságok kijelölése
+## 15. [^67] A népegészségügyi szerv véleményének kikérése és a szakhatóságok kijelölése
 
 51. § (1) A Hivatal a Vksztv. 3. § (6) bekezdésében foglalt első fokú panaszkivizsgálási eljárásában
 
-a)[^42] az ivóvíz biztonságos, egészségkárosítás nélküli felhasználhatóságát és az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott minőségét befolyásoló körülmények, tényezők vizsgálatával kapcsolatban az illetékes népegészségügyi szerv véleményét,
+a)[^68] az ivóvíz biztonságos, egészségkárosítás nélküli felhasználhatóságát és az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott minőségét befolyásoló körülmények, tényezők vizsgálatával kapcsolatban az illetékes népegészségügyi szerv véleményét,
 
-b)[^43] az ivóvíz mennyiségének rendelkezésre állását befolyásoló körülmények, tényezők vizsgálatával kapcsolatban az illetékes vízügyi hatóság véleményét
+b)[^69] az ivóvíz mennyiségének rendelkezésre állását befolyásoló körülmények, tényezők vizsgálatával kapcsolatban az illetékes vízügyi hatóság véleményét
 
 kéri ki.
 
-(2)[^44] A Kormány a Hivatalnak a Vksztv. 26. § (1) bekezdésében foglalt gördülő fejlesztési terv jóváhagyására irányuló eljárásában vízgazdálkodási szakkérdésekben a területileg illetékes vízügyi hatóságot, környezet- és természetvédelmi szakkérdésekben az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+(2)[^70] A Kormány a Hivatalnak a Vksztv. 26. § (1) bekezdésében foglalt gördülő fejlesztési terv jóváhagyására irányuló eljárásában vízgazdálkodási szakkérdésekben a területileg illetékes vízügyi hatóságot, környezet- és természetvédelmi szakkérdésekben az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-[^41]: A 15. alcím címe a 292/2014. (XI. 26.) Korm. rendelet 38. § (3) bekezdés 2. pontja szerint módosított szöveg.
-[^42]: Az 51. § (1) bekezdés a) pontja a 292/2014. (XI. 26.) Korm. rendelet 38. § (3) bekezdés 3. pontja szerint módosított szöveg.
-[^43]: Az 51. § (1) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.
-[^44]: Az 51. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § b) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 15. pontja szerint módosított szöveg.
+[^67]: A 15. alcím címe a 292/2014. (XI. 26.) Korm. rendelet 38. § (3) bekezdés 2. pontja szerint módosított szöveg.
+[^68]: Az 51. § (1) bekezdés a) pontja a 292/2014. (XI. 26.) Korm. rendelet 38. § (3) bekezdés 3. pontja szerint módosított szöveg.
+[^69]: Az 51. § (1) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.
+[^70]: Az 51. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § b) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 15. pontja szerint módosított szöveg.

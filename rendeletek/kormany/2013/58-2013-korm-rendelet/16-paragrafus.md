@@ -10,12 +10,13 @@ a) a szerződéskötést megelőző pályázati eljárás szabályszerűen lett 
 
 b) a szerződés kielégíti a Vksztv. IV. fejezetében és az e rendeletben rögzített követelményeket,
 
-c)[^27] a szerződést kötő víziközmű-szolgáltató működési engedélyének ellátási területre vonatkozó rendelkezései módosíthatóak.
+c)[^29] a szerződést kötő víziközmű-szolgáltató működési engedélyének ellátási területre vonatkozó rendelkezései módosíthatóak.
 
 (4) Ha a nemzeti vagyonról szóló törvény, a közbeszerzésekről szóló törvény vagy a koncesszióról szóló törvény rendelkezései szerinti pályázati eljárást nem kellett lefolytatni, a Hivatal a jóváhagyás során a (3) bekezdés b) és c) pontjában rögzített feltételeket vizsgálja.
 
 (5) A Hivatal a Vksztv. 16. § (6) bekezdése szerinti követelményeknek való megfelelőség vizsgálatánál a Vksztv. 16. § (8) bekezdése szerinti munkavállalói résztulajdon vonatkozásában kizárólag az MRP részvényre és a dolgozói részvényre vonatkozó igazolásokat fogadja el.
 
-(6) A víziközmű-szolgáltató az üzemeltetési szerződést jóváhagyó döntés jogerőre emelkedésétől számított 120 napon belül köteles benyújtani a Vksztv. 35. § (1) bekezdése szerinti engedély, illetve engedélymódosítás iránti kérelmet a Hivatalnak.
+(6)[^30] A víziközmű-szolgáltató az üzemeltetési szerződést jóváhagyó döntés jogerőre emelkedésétől számított 60 napon belül köteles benyújtani a Vksztv. 35. § (1) bekezdése szerinti engedély, illetve engedélymódosítás iránti kérelmet a Hivatalnak.
 
-[^27]: A 16. § (3) bekezdés c) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 10. pontja szerint módosított szöveg.
+[^29]: A 16. § (3) bekezdés c) pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 10. pontja szerint módosított szöveg.
+[^30]: A 16. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 1. pontja szerint módosított szöveg.

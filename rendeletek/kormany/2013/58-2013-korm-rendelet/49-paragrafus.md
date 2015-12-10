@@ -1,4 +1,4 @@
-## 48. § A Vksztv. 45. § (4) bekezdésében foglalt, a 2012. július 15. napját megelőző működési területén kívül kiszervezett tevékenységet végezni kívánó gazdálkodó szervezettel a tevékenység végzésére vonatkozó szerződés megkötéséhez a víziközmű-szolgáltató köteles beszerezni a Hivatal előzetes engedélyét.
+## 48. §[^64]
 
 ## 49. § A Vksztv. 45. § (4) bekezdésében foglalt tevékenységeken túlmenően a Hivatal előzetes engedélye szükséges az ellátási területre vonatkozó, víziközmű-üzemeltetés alábbi tevékenységeinek részben vagy egészben történő kiszervezéséhez:
 
@@ -23,3 +23,5 @@
 10. létfontosságú rendszerelem védelmével kapcsolatos feladatok ellátása,
 
 11. üzemirányítás informatikai megoldásokkal történő ellátása.
+
+[^64]: A 48. §-t a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 3. pontja hatályon kívül helyezte.

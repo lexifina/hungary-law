@@ -4,7 +4,7 @@
 
 ## 2. Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása
 
-## Az üzletszabályzatok jóváhagyásra történő benyújtása során a vízközmű-szolgáltató a tervezet véleményezése során lefolytatott egyeztetések eredményeit tanúsító iratokat csatolja a kérelemhez. Amennyiben az egyetértés megvan, azt elegendő röviden jelezni. Amennyiben az egyetértés hiányzik, a kifogásokat egy összegző táblázatban a kifogást tevő megjelölésével és az elutasítás indokolásával megjelölve, össze kell gyűjteni és a jóváhagyásra beterjesztett kérelem mellékleteként csatolni. A csatolt dokumentumot az abban érintett érdekelt felek aláírásukkal hitelesítik.
+## Az üzletszabályzatok jóváhagyásra történő benyújtása során a vízközmű-szolgáltató a tervezet véleményezése során lefolytatott egyeztetések eredményeit tanúsító iratokat csatolja a kérelemhez. Ha az egyetértés megvan, azt elegendő röviden jelezni. Ha az egyetértés hiányzik, a kifogásokat a kifogást tevő megjelölésével és az elutasítás indokolásával megjelölve egy összegző táblázatban össze kell gyűjteni és a jóváhagyásra beterjesztett kérelem mellékleteként csatolni. A csatolt dokumentumot az abban érintett érdekelt felek aláírásukkal hitelesítik.
 
 ## 3. Az üzletszabályzatok kötelező tartalmi követelményei
 
@@ -80,7 +80,7 @@
 
 ## gb) a szerződésszegő felhasználó esetén az előzetes egyeztetés részletes szabályai (a szolgáltatás felfüggesztése, korlátozása, valamint a tartozását rendező felhasználó víziközmű-szolgáltatás visszaállítása),
 
-## gc) a szerződésszegés bizonyítására vonatkozó szabályok,
+## gc) a szerződésszegés bizonyítására vonatkozó szabályok.
 
 ## gd) az azonnali felmondást nem eredményező szerződésszegések következményei (pl. kötbér, késedelmi kamat);
 
@@ -90,7 +90,7 @@
 
 ## hb) azon személyek megjelölése, akik számára a kezelt adatok vagy azok meghatározott részei átadhatók,
 
-## hc) eljárásrend a személyes adatokhoz fűződő jogok megsértése esetén
+## hc) eljárásrend a személyes adatokhoz fűződő jogok megsértése esetén,
 
 ## hd) felhasználói jogutódlás vagy képviselőjének személyében beállt változás intézésének szabályai;
 
@@ -128,8 +128,10 @@
 
 ## 6. A vízközmű-szolgáltató által a felhasználói körben (mellékszolgáltatást is ide értve) alkalmazott szerződésminták.
 
-## 7. E rendeletben meghatározott más követelmények.
+## 7. A vízközmű-szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető, alapszolgáltatáson túli kiegészítő szolgáltatások köre és az alkalmazott díjak.
 
-8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^189]
+## 8. E rendeletben meghatározott más követelmények.
 
-[^189]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.
+8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^233]
+
+[^233]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.

@@ -4,4 +4,6 @@
 
 (3) A kérelmező a kérelemhez mellékeli a 3. melléklet szerinti nyilatkozatot.
 
-(4) A Hivatal előtti eljárásban – a 24. § (2) bekezdésében foglaltak kivételével – a kérelem módosításának nincs helye.
+(4)[^54] A Hivatal előtti eljárásban a kérelem módosításának nincs helye.
+
+[^54]: A 25. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 28. § (2) bekezdés 3. pontja szerint módosított szöveg.

@@ -1,12 +1,12 @@
 ## 52–54. §
 
-## VI. Fejezet[^46]
+## VI. Fejezet[^72]
 
 ## A közszolgáltatási SZERZŐDÉS RÉSZLETES SZABÁLYAI
 
-## 16. [^47] A bekötés feltételei és a közszolgáltatási szerződés létrejötte
+## 16. [^73] A bekötés feltételei és a közszolgáltatási szerződés létrejötte
 
-55. §[^48] (1) A víziközmű-törzshálózat mentén fekvő ingatlanoknak a víziközmű-hálózatba történő bekötését a víziközmű-szolgáltatónál az ingatlan tulajdonosa vagy egyéb jogcímen használója az ingatlan tulajdonosának írásbeli hozzájárulásának birtokában kezdeményezheti (a továbbiakban: igénybejelentés). Az igénybejelentésben a bejelentő közli:
+55. §[^74] (1) A víziközmű-törzshálózat mentén fekvő ingatlanoknak a víziközmű-hálózatba történő bekötését a víziközmű-szolgáltatónál az ingatlan tulajdonosa vagy egyéb jogcímen használója az ingatlan tulajdonosának írásbeli hozzájárulásának birtokában kezdeményezheti (a továbbiakban: igénybejelentés). Az igénybejelentésben a bejelentő közli:
 
 a) a felhasználási célt, az igénybe venni tervezett ivóvíz mennyiségét,
 
@@ -26,7 +26,7 @@ c) a műszakilag elérhető szolgáltatás rendelkezésre állását,
 
 d) a bekötővezeték és a vízmérési hely létesítésének műszaki feltételeit,
 
-e) az ingatlanhasználat jogcímét, valamint az ingatlan tulajdonosának írásbeli hozzájárulásának meglétét, ha a bejelentő az ingatlant egyéb jogcímen használja, és
+e)[^75]
 
 f) üzem esetén a szennyvíz előzetes tisztítását szolgáló berendezés meglétét és a törzshálózatba vezetett szennyvíz minőségi paramétereit.
 
@@ -52,6 +52,7 @@ b) megadja a bekötővezeték tervezéshez szükséges, törzshálózatra vonatk
 
 c) meghatározza vízmérési hely kialakításának műszaki feltételeit.
 
-[^46]: A VI. fejezet címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^47]: A 16. alcím címe a 292/2014. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^48]: Az 55. § a 292/2014. (XI. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^72]: A VI. fejezet címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^73]: A 16. alcím címe a 292/2014. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^74]: Az 55. § a 292/2014. (XI. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^75]: Az 55. § (2) bekezdés e) pontját a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 4. pontja hatályon kívül helyezte.

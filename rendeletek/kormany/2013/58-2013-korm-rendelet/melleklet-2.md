@@ -90,7 +90,7 @@
 
 ## b) a megépülő vagyontárgyak (vízilétesítmények) tulajdonjogára, az állami tulajdonba, illetve önkormányzati törzsvagyonba történő átadás-átvételre vonatkozó szándéknyilatkozatokat.
 
-2. melléklet az 58/2013. (II. 27.) Korm. rendelethez
+2. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^228]
 
 ## A működési engedélykérelem formanyomtatványa és mellékletei
 
@@ -102,17 +102,17 @@
 
 |  |  |  |  |  |  |  |  | Beérkezés időpontja |  |  |
 
-|  |  |  |  |  |  |  |  | Eljárási díj befiz.biz.csatolva |  |  |
+|  |  |  |  |  |  |  |  | Eljárási díj befiz.biz. csatolva |  |  |
 
-| KÉRELEM |
+| KÉRELEM: |
 
-| A Vksztv. 35. §-ban foglaltak alapján kérem a Tisztelt Hivatalt, hogy az alábbiakban részletesen megjelölt általános, valamint a mellékelt részletes szakmai adatok alapján a víziközmű-szolgáltatói működési engedély kérelmemet teljesíteni szíveskedjen: |
+| A Vksztv. 35. §-ában foglaltak alapján kérem a Tisztelt Hivatalt, hogy az alábbiakban részletesen megjelölt általános, valamint a mellékelt részletes szakmai adatok alapján a víziközmű-szolgáltatói működési engedély kérelmemet teljesíteni szíveskedjen: |
 
-| I. | A kérelem tárgya |  |  |  |  | Megjegyzés |
+| I. | A kérelem tárgya |  |  |  | Megjegyzés |
 
-| 1. | Víziközmű-szolgáltatói működési engedély | □ |  |  |  |  |
+| 1. | Víziközmű-szolgáltatói működési engedély | □ |  |  |  |
 
-| 2. | Víziközmű-szolgáltatói működési engedély módosítása | □ |  |  |  |  |
+| 2. | Víziközmű-szolgáltatói működési engedély módosítása | □ |  |  |  |
 
 | II. | A kérelmező adatai |  |  |
 
@@ -122,35 +122,35 @@
 
 |  | Cégjegyzékszám |  |  |
 
-| 2. | Székhely | Település |  |  |
+| 2. | Székhely | Tele- pülés |  |  |
 
 |  | Utca |  |  |
 
-|  | Házszám |  |  |
+|  | Ház- szám |  |  |
 
-|  | Irányítószám |  |  |
+|  | Irányí- tószám |  |  |
 
 |  | A képviselő | Neve |  |  |
 
-|  | Beosztása |  |  |
+|  | Beosz- tása |  |  |
 
 |  | Telefon |  |  |
 
-|  | E.-mail |  |  |
+|  | E-mail |  |  |
 
-| 3. | Társasági szerződés/ alapszabály | □ |  |  |  |
+| 3. | Társasági szerződés/alapszabály | □ |  |  |  |
 
-| III. | Az engedélyezés általános feltételei alapján benyújtandó dokumentumok |  |  |  |  |
+| III. | Az engedélyezés általános feltételei alapján benyújtandó dokumentumok |  |  |  |
 
 | 1. | Külön jogszabályban meghatározott igazgatási szolgáltatási díj Hivatal részére történő befizetésének igazolása | □ |  |  |  |
 
 | 2. | Víziközmű-szolgáltatáshoz kapcsolódó felelősségbiztosítás igazolása | □ |  |  |  |
 
-| 3. | Kérelmező nyilatkozata arról, hogy csődeljárás vagy felszámolási eljárás alatt nem áll | □ |  |  |  |
+| 3 | Kérelmező nyilatkozata arról, hogy csődeljárás vagy felszámolási eljárás alatt nem áll | □ |  |  |  |
 
 | 4. | Kérelmező nyilatkozata arról, hogy rendelkezik a tevékenység végzéséhez szükséges más hatóság(ok) által | □ |  |  |  |
 
-| 5. | Üzlezszabályzat | □ |  |  |  |
+| 5. | Üzletszabályzat | □ |  |  |  |
 
 | 6. | Beszerzési szabályzat | □ |  |  |  |
 
@@ -200,40 +200,40 @@ e) a víziközmű-rendszer üzemeltetését és az ellátás minőségének jav�
 
 9. a vagyonbiztosítás igazolását,
 
-10. a beruházási tervet, a felújítási és pótlási tervet,
+10. a Vksztv. 27. § (2) bekezdésébe foglalt kivétel teljesülése esetén ennek igazolása és a koncessziós társaság nyilatkozatát, valamint az egyetemleges felelősségvállalásról szóló nyilatkozatot,
 
-11. a Vksztv. 27. § (2) bekezdésébe foglalt kivétel teljesülése esetén ennek igazolása és a koncessziós társaság nyilatkozatát, valamint az egyetemleges felelősségvállalásról szóló nyilatkozatot,
+11. a Vksztv. 36. § (2) bekezdésébe foglalt kivétel teljesülése esetén ennek igazolása és a kérelmező erre vonatkozó nyilatkozatát,
 
-12. a Vksztv. 36. § (2) bekezdésébe foglalt kivétel teljesülése esetén ennek igazolása és a kérelmező erre vonatkozó nyilatkozatát,
+12. a víziközmű-szolgáltatási tevékenységen kívüli vállalkozási tevékenység bemutatását,
 
-13. a víziközmű-szolgáltatási tevékenységen kívüli vállalkozási tevékenység bemutatását,
+13. a kiszervezett tevékenységre kötött vállalkozási és egyéb szerződés(ek)et,
 
-14. a kiszervezett tevékenységre kötött vállalkozási és egyéb szerződés(ek)et,
+14. a kiszervezett tevékenységekre vonatkozóan a Vksztv. 45. § (5) bekezdésében foglalt feltételek teljesítéséről a kérelmező erről való nyilatkozatát,
 
-15. a kiszervezett tevékenységekre vonatkozóan a Vksztv. 45. § (5) bekezdésében foglalt feltételek teljesítéséről a kérelmező erről való nyilatkozatát,
+15. a másodlagos tevékenységek leírását, felsorolását és bemutatását,
 
-16. a másodlagos tevékenységek leírását, felsorolását és bemutatását,
+16. az auditált éves beszámolót, a tárgyévre készített üzleti jelentéssel és könyvvizsgálói jelentéssel együtt,
 
-17. az auditált éves beszámolót, a tárgyévre készített üzleti jelentéssel és könyvvizsgálói jelentéssel együtt,
+17. az alkalmazott minőségbiztosítási rendszer bemutatását és a megfelelőség igazolását,
 
-18. az alkalmazott minőségbiztosítási rendszer bemutatását és a megfelelőség igazolását,
+18. számviteli politikát, amely tartalmazza azt a számviteli szétválasztási szabályzatot, ami biztosítja a víziközmű-szolgáltató üzletágai közötti keresztfinanszírozás-mentességet, továbbá a másodlagos tevékenységek elkülönített nyilvántartását,
 
-19. számviteli politikát, amely tartalmazza azt a számviteli szétválasztási szabályzatot, ami biztosítja a víziközmű-szolgáltató üzletágai közötti keresztfinanszírozás-mentességet, továbbá a másodlagos tevékenységek elkülönített nyilvántartását
+19. a Nemzeti Akkreditáló Testület által általános kémiai és részletes bakteriológiai vizsgálatok elvégzésére akkreditált laboratóriummal rendelkező víziközmű-szolgáltató esetében az akkreditációs okirat másolatát vagy ilyen laboratóriummal kötött szerződés bemutatását,
 
-20. a Nemzeti Akkreditáló Testület által általános kémiai és részletes bakteriológiai vizsgálatok elvégzésére akkreditált laboratóriummal rendelkező víziközmű-szolgáltató esetében az akkreditációs okirat másolatát, vagy ilyen laboratóriummal kötött szerződés bemutatását,
+20. a feladatellátás egyes résztevékenységeihez szükséges műszaki eszközök rendelkezésére állását, azok avultságát jellemző paramétereket,
 
-21. a feladatellátás egyes résztevékenységeihez szükséges műszaki eszközök rendelkezésére állását, azok avultságát jellemző paramétereket,
+21. a hibaelhárítást és a szükségellátást szolgáló biztonsági készletek megfelelőségét, területi elhelyezkedését,
 
-22. a hibaelhárítást és a szükségellátást szolgáló biztonsági készletek megfelelőségét, területi elhelyezkedését,
+22. az üzemeltetés biztonságát szolgáló felügyeleti és folyamatirányító megoldásokat,
 
-23. az üzemeltetés biztonságát szolgáló felügyeleti és folyamatirányító megoldásokat,
+23. a szervezeti felépítést, annak tagoltságát, területi elhelyezkedését, a feladat- és hatáskörök szabályozottságát, különös tekintettel az üzemeltetési feladatokra,
 
-24. a szervezeti felépítést, annak tagoltságát, területi elhelyezkedését, a feladat- és hatáskörök szabályozottságát, különös tekintettel az üzemeltetési feladatokra,
+24. a műszaki diszpécserszolgálat kialakítását, a reagáló képességre jellemző paramétereket,
 
-25. a műszaki diszpécserszolgálat kialakítását, a reagálóképességre jellemző paramétereket,
+25. az ellátási terület egybefüggőségét, az ellátási területet jellemző felhasználói egyenértékeket, ezek súlyponti jellemzőit, valamint ezekből az adottságokból következő üzemeltetés-hatékonysági és gazdaságossági intézkedések, továbbá szervezeti és szervezési megoldások bemutatását,
 
-26. az ellátási terület egybefüggőségét, az ellátási területet jellemző felhasználói egyenértékeket, ezek súlyponti jellemzőit, valamint ezekből az adottságokból következő üzemeltetés-hatékonysági és gazdaságossági intézkedések, továbbá szervezeti és szervezési megoldások bemutatását,
+26. az üzemeltetési szabályzatot,
 
-27. az üzemeltetési szabályzatot,
+27. a megfelelő létszámú és szakképzettségű személyzet rendelkezésre állásának bemutatását.
 
-28. a megfelelő létszámú és szakképzettségű személyzet rendelkezésre állásának bemutatását.
+[^228]: A 2. melléklet a 367/2015. (XII. 2.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## VIII/A. Fejezet[^176]
+## VIII/A. Fejezet[^206]
 
 ## A GÖRDÜLŐ FEJLESZTÉSI TERV
 
@@ -8,4 +8,4 @@
 
 (2) A Terv célja, hogy a víziközmű-szolgáltatási ágazat közművagyonának műszaki állapota megfelelő színvonalú legyen ahhoz, hogy a víziközmű-szolgáltatás folyamatosan és költséghatékonyan biztosítható legyen.
 
-[^176]: A VIII/A. fejezetet (90/A–90/G. §) a 292/2014. (XI. 26.) Korm. rendelet 31. §-a iktatta be.
+[^206]: A VIII/A. fejezetet (90/A–90/G. §) a 292/2014. (XI. 26.) Korm. rendelet 31. §-a iktatta be.

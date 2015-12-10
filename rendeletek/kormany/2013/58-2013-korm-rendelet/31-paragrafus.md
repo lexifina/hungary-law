@@ -36,21 +36,21 @@ ac) a víziközmű-szolgáltatásban szerzett szakmai tapasztalatuk időtartama 
 
 b) az üzemeltetés műszaki irányítását, felügyeletét végző, jogszabályban rögzített képesítési követelménnyel és legalább kétéves szakmai gyakorlattal rendelkező szakemberek főállású munkaviszonyban vannak-e foglalkoztatva,
 
-c)[^40] rendelkezik-e a kérelmező főállású munkaviszonyban álló, osztatlan képzésben, vagy mesterképzésben oklevelet szerzett, a szakterületének megfelelő munkakörben foglalkoztatott:
+c)[^58] hogy a kérelmező rendelkezik-e főállású munkaviszonyban álló, osztatlan képzésben, vagy mesterképzésben oklevelet szerzett, a szakterületének megfelelő munkakörben foglalkoztatott:
 
 ca) vízépítő mérnökkel,
 
 cb) víz- és szennyvíz technológussal,
 
-cc) vegyészmérnökkel,
+cc) vegyészmérnökkel vagy vegyésszel,
 
 cd) gépészmérnökkel,
 
 ce) villamosmérnökkel,
 
-cf) környezetvédelmi mérnökkel,
+cf) környezet mérnökkel,
 
-cg) szennyvízszolgáltatás folytatása esetén biológussal,
+cg) szennyvízelvezetési és -tisztítási szolgáltatás folytatása esetén biológussal vagy biomérnökkel, vagy
 
 ch) ivóvíz-szolgáltatás esetén hidrogeológussal.
 
@@ -58,4 +58,4 @@ ch) ivóvíz-szolgáltatás esetén hidrogeológussal.
 
 (5) A (3) bekezdés a) és b) pontjai tekintetében az engedély feltétel tűzésével nem adható ki.
 
-[^40]: A 31. § (3) bekezdés c) pontja a 292/2014. (XI. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^58]: A 31. § (3) bekezdés c) pontja a 367/2015. (XII. 2.) Korm. rendelet 6. §-ával megállapított szöveg.

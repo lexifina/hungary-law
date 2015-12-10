@@ -8,6 +8,8 @@ a) a szerződés az esetlegesen szükséges módosításokkal hatályban tarthat
 
 b) a szerződést a víziközmű-szolgáltató a határozat jogerőre emelkedésétől számított egy éven belül megszünteti.
 
-(4) Amennyiben a (2) bekezdésbe foglalt kötelezettségeinek a víziközmű-szolgáltató nem tesz eleget, a Hivatal a kiszervezési engedély iránti kérelem elbírálása esetén szokásos eljárásnak megfelelően megvizsgálja a szerződés szerinti tevékenységet, és amennyiben annak tekintetében az elvárható költséghatékonyság hiányát állapítja meg, az indokolatlanul felmerült költségek figyelmen kívül hagyásával tesz díjmegállapítására irányuló javaslatot a miniszternek.
+(4)[^59]
 
 (5) Az (1) bekezdés szerinti szerződés módosítására kizárólag abban az esetben kerülhet sor, ha a kiszervezésre vonatkozó előzetes engedélyezési vagy tájékoztatási eljárást lefolytatták, és a módosítás az eljárás alapján kiadott határozat tartalmával összhangban van.
+
+[^59]: A 36. § (4) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 2. pontja hatályon kívül helyezte.

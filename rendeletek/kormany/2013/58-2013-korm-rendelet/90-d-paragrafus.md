@@ -1,6 +1,6 @@
 90/D. § (1) A beruházási tervnek a tervezett új víziközművek megvalósításával, a meglévő víziközművek bővítésével kapcsolatos célokat és feladatokat kell tartalmaznia.
 
-(2) A felújítási és pótlási tervnek a meglévő és üzemelő víziközművek felújítási, pótlási és rekonstrukciós jellegű feladatait kell tartalmaznia.
+(2)[^209] A felújítási és pótlási tervnek a meglévő víziközművek felújítási és pótlási jellegű feladatait kell tartalmaznia.
 
 (3) A beruházási tervnek, illetve a felújítási és pótlási tervnek víziközmű-szolgáltatási ágazatonként és azon belül víziközmű-rendszerenként és fejlesztési ütemenként tartalmaznia kell:
 
@@ -8,7 +8,7 @@ a) az elvégzendő feladatokat víziközmű-objektumonkénti csoportosításban,
 
 b) a felújítás, pótlás, beruházás szükségességét alátámasztó műszaki indokolást;
 
-c) az I–III. fejlesztési ütemekben ismertetett feladatok becsült költségeit, a Terv I. ütemben alkalmazott árszintet bázisnak tekintve;
+c)[^210] a II–III. fejlesztési ütemekben ismertetett feladatok becsült költségeit, a Terv I. ütemben alkalmazott árszintet bázisnak tekintve;
 
 d) a felújítások, pótlások, beruházások megvalósításához szükséges pénzügyi forrásokat, az ellátásért felelősök, illetve a víziközmű-szolgáltató által biztosított, illetve külső (pályázati) források szerinti bontásban; valamint
 
@@ -16,9 +16,9 @@ e) annak bemutatását, hogy a rendelkezésre álló pénzügyi forrásokat a le
 
 (4) A tervezési időszakban előre nem látható körülmények miatt
 
-a) a rendkívüli helyzetből adódó azonnali feladatok elvégzésére az előzetes költségterv 1–5 százalékát kell tervezni,
+a)[^211] a rendkívüli helyzetből adódó azonnali feladatok elvégzésére az előzetes költségterv 1–15 százalékát kell tervezni,
 
-b) az a) pont szerinti feladatokon túlmenően az egyes ütemek között a források átcsoportosítása az előzetes költségterv
+b)[^212] az a) pont szerinti feladatokon túlmenően az egyes ütemek között a feladatok és az azokhoz rendelt források átcsoportosítása az előzetes költségterv
 
 ba) 15 százalékáig a Hivatal egyidejű tájékoztatásával,
 
@@ -48,15 +48,7 @@ i) a rendkívüli helyzetből adódó azonnali feladatokat; valamint
 
 j) az illetékes népegészségügyi szerv által jóváhagyott vízbiztonsági tervet.
 
-(6) A közműves ivóvízellátást érintő Tervnek aktuális adatokat tartalmazó vízigény-számításon, illetve – ha a fejlesztés indokolja – hálózathidraulikai modellezésen kell alapulnia.
-
-(7) A közműves szennyvízelvezetést és -tisztítást érintő fejlesztési terv készítésénél
-
-a) a terheléseket elsődlegesen a víziközmű-rendszerre jellemző ivóvízigényekre alapozva kell meghatározni,
-
-b) a keletkező nyers szennyvíz minőségét és a vízvédelmi hatóság által meghatározott, a tisztított szennyvízre előírt kibocsátási határértékeket is figyelembe kell venni.
-
-(8) Egyesített rendszerű szennyvízelvezetés esetén a csapadékterhelés számításához külön hidrológiai és hidraulikai számítást kell csatolni.
+(6)–(8)[^213]
 
 (9) A Tervben figyelembe kell venni a területrendezési tervekben és a vízgyűjtő-gazdálkodási tervben megfogalmazott fejlesztési igényeket, illetve be kell mutatni azok teljesítését.
 
@@ -69,3 +61,9 @@ b) a víziközmű várható élettartama alatt az üzemeltetés egy évére vona
 c) a környezeti elemek kíméletére, takarékos használatára, továbbá a hulladékkeletkezés csökkentésére, a természetes és az előállított anyagok visszaforgatására és újrafelhasználására törekvő megoldásokat.
 
 (11) A Tervben meg kell határozni azokat a beruházással kapcsolatos feladatokat, amelyek megvalósításához a vízügyi hatóság előzetes véleménye alapján vízjogi engedélyt kell beszerezni.
+
+[^209]: A 90/D. § (2) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 36. pontja és 28. § (2) bekezdés 7. pontja szerint módosított szöveg.
+[^210]: A 90/D. § (3) bekezdés c) pontja a 367/2015. (XII. 2.) Korm. rendelet 27. § 37. pontja szerint módosított szöveg.
+[^211]: A 90/D. § (4) bekezdés a) pontja a 367/2015. (XII. 2.) Korm. rendelet 27. § 38. pontja szerint módosított szöveg.
+[^212]: A 90/D. § (4) bekezdés b) pontja a 367/2015. (XII. 2.) Korm. rendelet 27. § 39. pontja szerint módosított szöveg.
+[^213]: A 90/D. § (6)–(8) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 7. pontja hatályon kívül helyezte.
