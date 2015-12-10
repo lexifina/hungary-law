@@ -1,5 +1,0 @@
-## 2. § A Vhr. 15. §-a helyébe a következő rendelkezés lép:
-
-## „15. § (1) Az útdíjszedő által az útdíjszolgáltatótól kért pénzügyi biztosíték összege nem haladhatja meg az útdíjszedő által az útdíjszolgáltató ügyfelei közé tartozó teljes úthasználói kör egy naptári hónap átlagos útdíjköteles elemi útszakaszok használata alapján megállapított összes útdíj összegét. Az útdíjszedő ezt az összeget az előző naptári év során az útdíjszolgáltató ügyfelei közé tartozó úthasználókra az előző naptári év során az útdíjköteles elemi útszakaszok használatáért az útdíjszedő által ténylegesen kivetett útdíjak alapján állapítja meg. Új útdíjszolgáltató esetén a pénzügyi biztosíték kezdeti összegének alapja az útdíjszolgáltató által az útdíjköteles elemi útszakaszok használatáért fizetendő várható egyhavi becsült átlagösszeg, amelyet az útdíjszolgáltató üzleti tervében szereplő szerződések számának és a szerződésenkénti becsült átlagos útdíjnak megfelelően kell kiszámítani.
-
-## (2) Az útdíjszedő jogosult a pénzügyi biztosíték összegét évente felülvizsgálni az útdíjszolgáltató ügyfelei közé tartozó teljes úthasználói kör tényleges úthasználati bevallása alapján.”
