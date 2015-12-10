@@ -1,0 +1,1 @@
+## 1. § A nemzetgazdasági miniszter irányítása alá tartozó központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 6/2015. (III. 18.) NGM rendelet (a továbbiakban: Rendelet) az 1. melléklet szerinti 3/A. melléklettel egészül ki.
