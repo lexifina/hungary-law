@@ -1,0 +1,1 @@
+## „(5) Az előzetesen minősített képzési programot a felnőttképzést folytató intézmény képviseletére jogosult személynek és a szakmai vezetőnek – a képzési program utolsó oldalán – alá kell írnia. A felnőttképzést folytató intézmény az előzetes minősítés alapját képező (3) bekezdés szerinti szakértői véleményt a képzési programhoz mellékeli.”

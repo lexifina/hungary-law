@@ -1,0 +1,1 @@
+## „(4) Az NSZFH az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény ellenőrzése során vizsgálja, hogy az intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói megfelelnek-e az Fktv.-ben foglalt rendelkezéseknek. Ebben az esetben szakértői bizottság ellenőrzési eljárásba történő bevonása nem kötelező.”

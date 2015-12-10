@@ -1,0 +1,3 @@
+## 18. § A Korm. rendelet 32. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) E rendeletnek a felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásra és követelményrendszerre, a felnőttképzést folytató intézmények nyilvántartásának vezetésére, valamint a felnőttképzést folytató intézmények ellenőrzésére vonatkozó részletes szabályokról szóló 393/2013. (XI. 12.) Korm. rendelet módosításáról szóló 360/2015. (XII. 2.) Korm. rendelettel (a továbbiakban: Mód.r2.) megállapított rendelkezéseit a Mód.r2. hatálybalépésének napján folyamatban lévő képzésekben nem kell alkalmazni.”
