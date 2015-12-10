@@ -1,0 +1,1 @@
+## „(7) A víziközmű-szolgáltató által végzett időszakos vagy eseti leolvasás nem mentesíti a felhasználót az üzletszabályzatban meghatározott rendszeres mérőleolvasás és annak bejelentése alól. Az üzletszabályzat meghatározhatja azokat az eseteket, amikor a fogyasztásmérő állásának felhasználó általi bejelentése számlázás alapjául nem szolgálhat.”
