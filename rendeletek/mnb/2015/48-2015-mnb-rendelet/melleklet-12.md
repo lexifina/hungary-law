@@ -292,6 +292,6 @@
 
 ## Ez a sor tartalmazza a tárgynegyedévben jóváhagyott osztalékfizetéseket is.
 
-12–13. melléklet a 48/2015. (XII. 8.) MNB rendelethez[^3]
+12–13. melléklet a 48/2015. (XII. 8.) MNB rendelethez[^4]
 
-[^3]: A 12–13. melléklet a 12. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^4]: A 12–13. melléklet a 12. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

@@ -104,6 +104,6 @@
 
 ## 4.4. Az egyes (eszköz- és forrás-, illetve eredménykimutatási) tételek részletezése a Számv. tv., valamint a Bszkr. szerinti előírásoknak megfelelően történik.
 
-2–7. melléklet a 48/2015. (XII. 8.) MNB rendelethez[^2]
+2–7. melléklet a 48/2015. (XII. 8.) MNB rendelethez[^3]
 
-[^2]: A 2–7. melléklet a 12. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^3]: A 2–7. melléklet a 12. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
