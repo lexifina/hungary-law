@@ -94,7 +94,7 @@
 
 | 45 | 233321 |  | Adósságkezelés költségei | Adósságkezelés költségeinek fedezése. | ÁKK Zrt. |  |  | Az összeget a Kincstár az ÁKK Zrt. által kibocsátott számla alapján minden hónap 5-éig folyósítja egyenlő részletekben. |  |  | Kincstár |  |  |
 
-7. melléklet a 6/2015. (III. 18.) NGM rendelethez[^4]
+7. melléklet a 6/2015. (III. 18.) NGM rendelethez[^6]
 
 XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi kezelésű előirányzatai
 
@@ -242,7 +242,7 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 71 | 340573 | A települési önkormányzatok adósságkonszolidációjához kapcsolódó állami támogatások | Az adósságkonszolidáció időpontjában adósságrendezési eljárás alatt álló települési önkormányzatok eljárás lezárását követő 60 napon belüli konszolidációja. | Települési önkormányzatok | A Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: 2014. évi Kttv.) 67-68. §-a szerint. | van rá lehetőség | Vissza nem térítendő támogatás melyet a 2014. évi Kttv. 67- 68. §-a alapján a Kincstár utal át. |  |  |  | Kincstár |  |
 
-| 72 | 209533 | Követeléskezelés költségei | Az állam külföldi és belföldi követeléseinek rendezése során felmerülő járulékos jellegű kiadások teljesítése. | A fizetési kötelezettség kedvezményezettje |  |  | Részletekben történik. |  |  |  |  |  |
+| 72 | 209533 | Követeléskezelés költségei | Az állam külföldi és belföldi követeléseinek rendezése során felmerülő járulékos jellegű kiadások teljesítése. | A fizetési kötelezettség kedvezményezettje |  |  | Részletekben történik. |  |  | Kincstár |  |  |
 
 | 73 |  | Alapok támogatása |  |  |  |  |  |  |  |  |  |  |
 
@@ -260,4 +260,4 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 80 | 349139 |  | Nemzeti Kutatási, Fejlesztési és Innovációs Alap támogatása | Elkülönített állami pénzalap részére központi támogatás biztosítása. | Nemzeti Kutatási, Fejlesztési és Innovációs Alap |  |  | Az Ávr. 133. § (4) bekezdése szerint, előirányzat-felhasználási terv alapján. |  |  | Kincstár |  |  |
 
-[^4]: A 7. melléklet a 24/2015. (IX. 10.) NGM rendelet 2. §-a szerint módosított szöveg.
+[^6]: A 7. melléklet a 24/2015. (IX. 10.) NGM rendelet 2. §-a, a 33/2015. (XII. 9.) NGM rendelet 2. §-a szerint módosított szöveg.

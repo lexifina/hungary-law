@@ -24,6 +24,6 @@
 
 | 10 | 295980 | Peres ügyek | A magyarországi jogerős bírósági ítéleten, végzésen, illetve a bíróság jogerős végzésével jóváhagyott egyezségen alapuló, az államot terhelő kifizetések finanszírozása. A stabil vérkészítménytől HCV-vírussal megfertőződött veleszületett vérzékenységben szenvedő állampolgárok egységes állami kártalanításáról szóló 1093/2000. (XI. 24.) Korm. határozatból (a továbbiakban: H1.) eredő kötelezettség, valamint az ehhez kapcsolódó szakértői tevékenység költségeinek teljesítését szolgálja. Az állam polgári jogviszonyokban történő képviselete ügyvédi és bírósági költségeinek biztosítása. Az állammal szemben kezdeményezett valamennyi választottbírósági eljárás költségeire, illetve az államot bármely nemzetközi választottbíróság vagy külföldi rendes bíróság kötelező erejű határozatából eredően terhelő kifizetési kötelezettségre, továbbá az állam adós elleni végrehajtási eljárásban az államot terhelő, bírósági határozaton vagy a végrehajtó felhívásán alapuló fizetési kötelezettségekből eredő kifizetések finanszírozása. | jogerős határozatban foglaltak szerint megjelöltek, stabil vérkészítménytől HCV-vírussal megfertőződött veleszületett vérzékenységben szenvedő állampolgárok, ügyvédek, ügyvédi irodák, választottbíróságok, bíróságok. |  |  | A kártalanításról szóló megállapodás, jogerős bírósági ítélet, eljárási díjfizetési kötelezettséget megállapító határozat, ügyvédi megbízási szerződések alapján. |  |  | NFM |  |  |
 
-5. melléklet a 6/2015. (III. 18.) NGM rendelethez[^3]
+5. melléklet a 6/2015. (III. 18.) NGM rendelethez[^5]
 
-[^3]: Az 5. melléklet a 4. § szerint módosított szöveg.
+[^5]: Az 5. melléklet a 4. § szerint módosított szöveg.
