@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2015-01-02 | 2010. évi CXXX. törvény | 2013-212-00-00.16 |
 | 2015-04-01 | 2015. évi VI. törvény | 2013-212-00-00.17 |
 | 2015-06-06 | 17/2015. (VI. 5.) AB határozat | 2013-212-00-00.18 |
+| 2015-12-11 | 2015. évi CLXXXI. törvény | 2013-212-00-00.19 |
