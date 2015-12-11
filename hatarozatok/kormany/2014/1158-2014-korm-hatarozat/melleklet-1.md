@@ -18,7 +18,7 @@
 
 ## nemzeti fejlesztési miniszter
 
-## Határidő: 2014. december 31.
+## Határidő: 2014. december 31., az a) pont szerinti forrás tekintetében 2015. december 31.[^1]
 
 1. melléklet az 1158/2014. (III. 20.) Korm. határozathoz
 
@@ -105,3 +105,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1924/2015. (XII. 11.) Korm. határozat 2. pontja szerint módosított szöveg.
