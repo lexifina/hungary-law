@@ -1,5 +1,3 @@
-## 13. § A Korm. rendelet IV. Fejezetének címe helyébe a következő cím lép:
+## 11–13. §[^5]
 
-## „IV. FEJEZET
-
-## AZ ELLENŐRZÉS RÉSZLETES SZABÁLYAI”
+[^5]: A 11–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
