@@ -1,1 +1,0 @@
-## „(4) A (2) bekezdés c) pontjában meghatározott esetben a Terv készítésére kötelezett a hozzájárulás iránti kérelemmel együtt a Hivatalnak megküldi a Terv módosítását, amely a kiegészítő beruházások, felújítások – a Terv készítésére irányadó szabályok szerint összeállított – leírását tartalmazza. A Hivatal a jóváhagyás iránti kérelmet soron kívül elbírálja.”
