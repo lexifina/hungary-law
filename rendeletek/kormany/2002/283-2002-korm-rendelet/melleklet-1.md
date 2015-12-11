@@ -10,7 +10,7 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 
 | 2. |  | Balaton Fejlesztési Tanács |  | területfejlesztés, településfejlesztés |
 
-| 3. |  | állami főépítészi hatáskörében a Somogy Megyei Kormányhivatal |  | területrendezés, településrendezés |
+| 3. |  | állami főépítészi hatáskörében eljáró megyei kormányhivatal |  | területrendezés, településrendezés |
 
 | 4. |  | környezetvédelmi és természetvédelmi hatáskörben eljáró megyei kormányhivatal |  | környezetvédelem, természet- és tájvédelem |
 
@@ -47,4 +47,4 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 | 20. |  | Magyar Építész Kamara, megyei építész kamara |  | településtervezés |
 
 [^48]: A 21. §-t a 213/2003. (XII. 10.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be.
-[^49]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 59. § (2) bekezdésével megállapított szöveg.
+[^49]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 59. § (2) bekezdésével megállapított, a 385/2015. (XII. 8.) Korm. rendelet 1. §-a szerint módosított szöveg.
