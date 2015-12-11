@@ -1,8 +1,8 @@
 ## 33. Átmeneti rendelkezések
 
-45. § (1)[^41] A 2012. december 31-én hatályban lévő, valamint a (3) bekezdés szerint 2013. december 31-ig elfogadott településrendezési eszközök, továbbá a (2) bekezdés a) pontja és a (2) bekezdés b) pont ba) alpontja szerint módosított településrendezési eszközök – az OTÉK 2012. augusztus 6-án hatályos településrendezési követelményeinek és jelmagyarázatának figyelembevételével – 2018. december 31-ig alkalmazhatók.
+45. § (1)[^41] A 2012. december 31-én hatályban lévő, valamint az OTÉK 2012. augusztus 6-án hatályos településrendezési követelményeinek és jelmagyarázatának figyelembevételével elkészített és elfogadott településrendezési eszköz 2018. december 31-ig alkalmazható.
 
-(2) A 2012. december 31-én hatályban lévő településrendezési eszközök 2015. december 31-ig történő módosítása a VI. fejezet eljárási szabályai szerint,
+(2)[^42] A 2012. december 31-én hatályban lévő településrendezési eszközök 2016. december 31-ig történő módosítása a VI. fejezet eljárási szabályai szerint,
 
 a) – a b) pont kivételével – az OTÉK 2012. augusztus 6-án hatályos településrendezési tartalmi követelményeinek és jelmagyarázatának,
 
@@ -14,14 +14,11 @@ bb) az e rendelet tartalmi előírásainak és a 6. melléklet szerinti jelmagya
 
 ## alkalmazásával történhet.
 
-(3) Az e rendelet hatálybalépésekor már elkészült, de még el nem fogadott, vagy az egyeztetés alatt lévő településrendezési eszköz elfogadásáról
+(3)[^43]
 
-a) az Étv. 2012. december 31-én hatályos szabályainak, és
+(4)[^44] Amennyiben a településrendezési eszköz (2) bekezdés szerinti módosítása a (2) bekezdésben meghatározott határidőig nem lép hatályba, úgy annak elkészítésére, egyeztetésére és elfogadására e rendelet előírásait kell alkalmazni.
 
-b) az OTÉK 2012. augusztus 6-án hatályos településrendezési tartalmi követelményeinek és jelmagyarázatának
-
-## megfelelően 2013. december 31-ig gondoskodni kell.
-
-(4) Amennyiben a településrendezési eszköz elfogadása a (3) bekezdésben meghatározott határidőig nem történik meg, úgy azok elkészítésére, egyeztetésére és elfogadására e rendelet előírásait kell alkalmazni.
-
-[^41]: A 45. § (1) bekezdése a 38/2015. (III. 11.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^41]: A 45. § (1) bekezdése a 385/2015. (XII. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^42]: A 45. § (2) bekezdés nyitó szövegrésze a 385/2015. (XII. 8.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^43]: A 45. § (3) bekezdését a 385/2015. (XII. 8.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^44]: A 45. § (4) bekezdése a 385/2015. (XII. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
