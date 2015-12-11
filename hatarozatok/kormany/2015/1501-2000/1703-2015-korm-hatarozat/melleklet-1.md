@@ -14,13 +14,7 @@
 
 ## Határidő: 1. melléklet szerint
 
-## 4. jóváhagyja a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 31. § (3) és (5) bekezdése alapján a Kvtv. 1. melléklet XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 4. Nemzeti Stratégiai Referenciakeret alcím, 2. Közlekedés Operatív Program jogcímcsoport 2. prioritása keretének 2 284 034 000 forinttal történő átmeneti növelését a projektek megvalósítása érdekében,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## 4.[^2]
 
 ## 5. hozzájárul a projektek támogatási szerződéseinek megkötéséhez az 1. melléklet szerint,
 
@@ -34,11 +28,7 @@
 
 ## Határidő: azonnal
 
-## 7. felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a 4. pont szerinti többlet-kötelezettségvállalás megszüntetéséhez szükséges intézkedéseket és kezdeményezze az ehhez szükséges döntések meghozatalát, ha a KÖZOP 2. prioritása esetén a befejezett projektek finanszírozására felhasznált keret maradványösszege eléri a 4. pontban meghatározott összeget,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: a 4. pont szerinti összeg rendelkezésre állását követően azonnal
+## 7.[^3]
 
 ## 8. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a KÖZOP módosításának előkészítéséről, ha a KÖZOP 2. prioritása esetén a forrásfelhasználás várható mértéke a 110%-os korlátot meghaladja,
 
@@ -61,3 +51,6 @@
 | 2. | KÖZOP-2.5.0-09-11-2015-0008 | Jegy- és bérletkiadó automata-hálózat megújítása a vasúti törzshálózaton (I. szakasz) | MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság | 73,06 | 685 340 000 | A projekt tárgya megvalósítási tanulmány készítése, továbbá 110 db jegykiadó automata (hardver, operációs rendszer, driverek) és a működtetésükhöz szükséges szoftverelemek (hardver interfész, központi karbantartó és monitorozó szoftverrendszer) beszerzése. | A támogatási szerződés megkötésének feltétele a forrás rendelkezésre állása a KÖZOP keretében. | 2015. október 30. | 2015. október 30. |
 
 | 3. | KÖZOP-2.5.0-09-11-2015-0009 | MÁV-START Zrt. jegyértékesítés korszerűsítése | MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság | 100 | 1 598 694 000 | A projekt keretében a támogatást igénylő jegyértékesítésének korszerűsítése céljából szerverek, fedélzeti- és pénztári eszközök beszerzésére kerül sor, valamint megvalósíthatósági tanulmányt készítenek. A projekt célja a támogatást igénylő értékesítési folyamatainak modernizálása, az elszigetelten működő értékesítési rendszerek egységesítése, és az elavult pénztári, fedélzeti eszközök cseréje, könnyen kezelhető, integrált értékesítési rendszer létrehozása. | A támogatási szerződés megkötésének feltétele a forrás rendelkezésre állása a KÖZOP keretében. | 2015. október 30. | 2015. október 30. |
+
+[^2]: A 4. pontot az 1919/2015. (XII. 11.) Korm. határozat 7. pontja visszavonta.
+[^3]: A 7. pontot az 1919/2015. (XII. 11.) Korm. határozat 7. pontja visszavonta.
