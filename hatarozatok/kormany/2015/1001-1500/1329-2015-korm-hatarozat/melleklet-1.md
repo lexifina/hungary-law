@@ -18,25 +18,7 @@
 
 ## Határidő: azonnal
 
-## 7. jóváhagyja a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 31. § (3) és (5) bekezdése alapján a Kvtv. 1. melléklet XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 4. Nemzeti Stratégiai Referenciakeret alcím, 2. Közlekedés Operatív Program jogcímcsoport 2. prioritása keretének 1 903 520 186 forint összeggel történő átmeneti növelését a projekt első szakaszának végrehajtása érdekében,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## 8. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a Közlekedés Operatív Program 2. prioritása keretében finanszírozott azon projektek támogatási szerződéseinek módosításáról, amelyekkel összefüggésben forrás szabadul fel,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
-
-## 9. felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a 7. pont szerinti többlet-kötelezettségvállalás megszüntetéséhez szükséges intézkedéseket és kezdeményezze az ehhez szükséges döntések meghozatalát,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: a 8. pontban foglaltak teljesítését követően azonnal
+## 7–9.[^2]
 
 ## 10. hozzájárul a projekt második szakaszára vonatkozó támogatási szerződés megkötéséhez,
 
@@ -65,3 +47,5 @@
 | 2. | Közlekedés Operatív Program (nettó, Ft) | Közlekedés Operatív Program hazai társfinanszírozás (Ft) | Integrált Közlekedésfejlesztési Operatív Program vagy tisztán hazai költségvetési forrás (nettó, Ft) | Hazai költségvetési forrás (Ft) |
 
 | 3. | KÖZOP- 2.5.0-09-11- 2015-0001 | Infrastruktúra és gördülő állomány karbantartó szoftver és IT alkalmazás konszolidáció | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság | 100 | 1 903 520 186 | 0 | 1 066 979 814 | 0 | Az állam által finanszírozott közszolgáltatások pályavasút oldali teljesítéséhez szükség van a megfelelő pályakapacitások biztosítására, hosszú távú fenntartására és növelésére. A pályakapacitások csak megfelelő karbantartási stratégiával, a rendelkezésre álló pénzügyi, anyagi, emberi és információs erőforrásokkal biztosíthatók. | 1. A támogatást igénylőnek a projekt megvalósítása során figyelemmel kell lennie a kettős finanszírozás elkerülésére – különös tekintettel a MÁV Start Vasúti Személyszállító Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV-START Zrt.) közszolgáltatási szerződése keretében kapott állami támogatásra – és a más uniós forrásból megvalósuló projektek fenntartási időszakára. 2. A MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság saját teljesítés címén csak a máshonnan meg nem térülő, indokolt költségeket számolhatja el, ha azok megfelelnek a piaci áraknak. A saját teljesítés során felmerülő költségek piaci mértékét piaci benchmark dokumentációval szükséges alátámasztani. 3. A projekt keretében létrehozott rendszert a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság fogja üzemeltetni a támogatást igénylő és a MÁV-Start Zrt. részére. A MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság részére az általa nyújtott szolgáltatások ellenértékeként a támogatást igénylő és a MÁV-Start Zrt. által fizetendő díjnak meg kell felelnie a piaci áraknak. Ezt piaci benchmark dokumentációval szükséges alátámasztani. |
+
+[^2]: A 7–9. pontot az 1920/2015. (XII. 11.) Korm. határozat 6. pontja visszavonta.
