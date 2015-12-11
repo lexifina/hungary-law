@@ -1,0 +1,1 @@
+## 12. § Ha a végrehajtó a helyszíni eljárása során lefoglalt ingóságokat a saját gépjárművén szállítja el, szállítási költségként csak a 10. § (1) bekezdése szerinti utazási költségátalányt számíthatja fel.
