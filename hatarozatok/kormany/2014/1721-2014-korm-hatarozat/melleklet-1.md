@@ -48,14 +48,15 @@
 
 ## 4–5.[^2]
 
-## 6. A Kormány egyetért azzal, hogy az állami tankönyvfejlesztés és kiadás feltételeinek megteremtése érdekében a rendkívüli kormányzati intézkedésre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1158/2014. (III. 20.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 6. Egyéb oktatási intézmények cím, 2. Oktatáskutató és Fejlesztő Intézet alcím javára átcsoportosított összesen 1 306 369 ezer forintból 450 115 ezer forint a K1. Személyi juttatások kiemelt előirányzat, 123 839 ezer forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat, 338 775 ezer forint a K3. Dologi kiadások kiemelt előirányzat, 393 640 ezer forint a K6. Beruházások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
+## 6.[^3]
 
 ## 7. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1052/2014. (II. 11.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 6. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások jogcímcsoport javára átcsoportosított 250,0 millió forintból 1,9 millió forint a K3. Dologi kiadások, 1,3 millió forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 8–9.[^3]
+## 8–9.[^4]
 
 1. melléklet az 1721/2014. (XII. 5.) Korm. határozathoz
 
 [^1]: A 2. pont az 1520/2015. (VII. 27.) Korm. határozat 25. pontja, az 1741/2015. (X. 13.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^2]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. pontot az 1924/2015. (XII. 11.) Korm. határozat 4. pontja visszavonta 2015. december 11. napjával.
+[^4]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
