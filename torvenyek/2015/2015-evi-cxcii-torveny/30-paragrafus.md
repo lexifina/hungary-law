@@ -20,7 +20,7 @@ i) 29/U. §-ában a „29/H–J. §-ban” szövegrész helyébe a „29/F. §, 
 
 j) 29/V. §-ában a „vagy ennek megfelelő összegű” szövegrész helyébe a „vagy – a nyeremény keletkezése napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos árfolyam szerint – ennek megfelelő összegű” szöveg,
 
-k) 36/C. § (2) bekezdés e) pontjában a „II. kategóriájú játékkaszinó esetén 5 millió forint,” szövegrész helyébe a „II. kategóriájú játékkaszinó esetén 5 millió forint, online kaszinó üzemeltetése esetén 5 millió forint,” szöveg,
+k)
 
 l) 36/I. § (1) bekezdésében a „90” szöveg helyébe a „365” szöveg
 
