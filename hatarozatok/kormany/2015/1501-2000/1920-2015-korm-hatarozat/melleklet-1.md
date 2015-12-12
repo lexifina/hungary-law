@@ -24,7 +24,7 @@
 
 ## Határidő: folyamatos
 
-## 6. visszavonja a KÖZOP-2.5.0-09-11-2015-0001 azonosító számú („Infrastruktúra és gördülő állomány karbantartó szoftver, valamint IT alkalmazás konszolidáció” című) projektjavaslat támogatásának jóváhagyásáról, akciótervi nevesítéséről és a projekt 2015. december 31. után felmerülő költségei fedezetének biztosításáról szóló 1329/2015. (V. 22.) Korm. határozat 7–9. pontját.
+## 6.[^2]
 
 1. melléklet az 1920/2015. (XII. 11.) Korm. határozathoz
 
@@ -35,3 +35,5 @@
 | 2. | KÖZOP (nettó, Ft) | KÖZOP hazai társfinanszírozás (általános forgalmi adó) (Ft) | IKOP (nettó, Ft) | Hazai költségvetési forrás (általános forgalmi adó) (Ft) | KÖZOP (nettó, Ft) | KÖZOP hazai társfinanszírozás (általános forgalmi adó) (Ft) | IKOP (nettó, Ft) | Hazai költségvetési forrás (általános forgalmi adó) (Ft) |
 
 | 3. | KÖZOP-2.5.0- 09-11-2012- 0014 | GSM-R rendszer beszerzése és kapcsolódó szolgáltatások | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | 20 392 117 353 | 5 222 468 329 | 3 250 969 655 | 877 761 809 | 17 189 927 724 | 4 357 877 130 | 6 453 159 284 | 1 742 353 008 | A GSM-R rendszer egységes európai szabványokon alapuló, a vasúti forgalom biztosításához szükséges vezeték nélküli kommunikációt biztosító rendszer, az európai vonatbefolyásoló rendszer (ETCS L2) alapinfrastruktúrája. A GSM-R projekt első fázisában mintegy 935 km hosszon kerül fejlesztésre a hazai vasúthálózat. |
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
