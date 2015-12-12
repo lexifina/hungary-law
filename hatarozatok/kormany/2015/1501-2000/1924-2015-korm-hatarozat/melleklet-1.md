@@ -58,10 +58,8 @@
 
 ## 1.10. egyetért azzal, hogy az állami tankönyvfejlesztés és kiadás feltételeinek megteremtése érdekében a rendkívüli kormányzati intézkedésre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1158/2014. (III. 20.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 6. Egyéb oktatási intézmények cím, 2. Oktatáskutató és Fejlesztő Intézet alcím javára átcsoportosított összesen 1 306 369 ezer forintból 323 524 ezer forint a K1. Személyi juttatások kiemelt előirányzat, 73 493 ezer forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat, 677 476 ezer forint a K3. Dologi kiadások kiemelt előirányzat, 231 876 ezer forint a K6. Beruházások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 2. A Határozatban a „2014. december 31.” szövegrész helyébe a „2014. december 31., az a) pont szerinti forrás tekintetében 2015. december 31.” szöveg lép.
-
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1408/2015. (VI. 19.) Korm. határozatban a „2015. november 30.” szövegrész helyébe a „2016. június 30.” szöveg lép.
-
-## 4. A Kormány visszavonja a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a kormányzati infokommunikációs szolgáltatások finanszírozásához a Belügyminisztérium és a Helyi önkormányzatok támogatásai fejezetek közötti előirányzat-átcsoportosításról, továbbá egyes kormányhatározatok módosításáról és egyes kormányhatározatok végrehajtása során alkalmazandó eltérő intézkedésekről szóló 1721/2014. (XII. 5.) Korm. határozat 6. pontját.
+## 2–4.[^1]
 
 1. melléklet az 1924/2015. (XII. 11.) Korm. határozathoz
+
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
