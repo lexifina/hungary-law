@@ -40,7 +40,7 @@
 
 ## Határidő: 2015. december 20.
 
-## 7. visszavonja a KÖZOP-2.5.0-09-11-2015-0008 azonosító számú [„Jegy- és bérletkiadó automata-hálózat megújítása a vasúti törzshálózaton (I. szakasz)” című] és a KÖZOP-2.5.0-09-11-2015-0009 azonosító számú („MÁV-START Zrt. jegyértékesítés korszerűsítése” című) projektek támogatásának jóváhagyásáról, akciótervi nevesítéséről, az azokkal összefüggő kötelezettségvállalásról és támogatási szerződés megkötéséről szóló 1703/2015. (IX. 28.) Korm. határozat 4. és 7. pontját.
+## 7.[^2]
 
 1. melléklet az 1919/2015. (XII. 11.) Korm. határozathoz
 
@@ -53,3 +53,5 @@
 | 3. | KÖZOP– 2.5.0-09- 11-2012- 0002 | Budapest– Lőkösháza vasútvonal rekonstrukciója III/I. ütem kivitelezés Gyoma (kiz.) – Békéscsaba (kiz.) vonalszakasz és Cegléd villamos alállomás átépítése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvény- társaság | 100 | 42 652 229 424 | 11 459 447 811 | 0 | 0 | 41 840 522 254 | 11 006 863 903 | 0 | 0 | A projekt két főbb építési projektelemet tartalmazott. A Cegléd alállomás korszerűsítésére irányuló projektelem keretében felújították az alállomási villamos technológiát. A Gyoma (kiz.) – Békéscsaba (kiz.) vasútvonal rekonstrukciója projektelem keretében megtörtént a nyíltvonalak, az állomási átmenő fővágányok, a felsővezeték-hálózat, a biztosító berendezések és a kisműtárgyak fejlesztése. |
 
 | 4. | KÖZOP- 2.5.0-09- 11-2012- 0018 | Békéscsaba állomás pályaépítés és Gyoma (kiz.) – Békéscsaba (bez.) vonalszakasz új elektronikus biztosító- berendezés építése, Ferencváros „C” elágazás – Lőkösháza ETCS 2 telepítés kivitelezése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvény- társaság | 100 | 62 159 548 781 | 16 736 444 811 | 11 310 723 684 | 3 026 271 154 | 59 943 880 372 | 15 296 359 619 | 13 526 392 093 | 4 466 356 346 | A nagyprojekt keretében felújítják Békéscsaba vasútállomásának épületét, és az állomási pályát, valamint telepítik a Budapest– Lőkösháza vasútvonal Gyoma– Békéscsaba közötti vonalszakaszán az elektronikus biztosító berendezéseket és a Ferencváros–Lőkösháza közötti vonalszakaszon Egységes Európai Vonatbefolyásoló Rendszer (ETCS) 2. szintjének teljesítéséhez szükséges eszközöket. |
+
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
