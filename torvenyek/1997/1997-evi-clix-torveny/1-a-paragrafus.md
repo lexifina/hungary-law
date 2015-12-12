@@ -1,6 +1,6 @@
 1/A. § (1) Fegyveres biztonsági őrség létrehozására
 
-a) a honvédelemért felelős miniszter a Magyar Honvédség fokozott védelmet igénylő létesítményei,
+a) a honvédelemért felelős miniszter a Magyar Honvédség fokozott védelmet igénylő létesítményei, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) létesítményei, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság létesítményei (e törvény alkalmazásában a továbbiakban együtt: a Magyar Honvédség létesítményei)
 
 b) a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal létesítményei,
 
