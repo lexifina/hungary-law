@@ -1,0 +1,3 @@
+10. § A NAV tv. 17/G. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A Hszt. 267. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a sérelmezett intézkedést hozó vagy mulasztó vezető a szolgálati panasznak nem ad helyt, úgy azt a közvetlen feletteséhez terjeszti fel elbírálásra. Ha a sérelmezett intézkedést hozó vagy mulasztó vezető az állami adó- és vámhatóság vezetője, illetve a NAV feladat- és hatáskörrel rendelkező szervének vezetője, akkor – ha a szolgálati panasznak nem ad helyt – az ügyet a 10. § szerinti munkáltatói jogkör gyakorlójához, illetve az állami adó- és vámhatóság vezetője esetén a kijelölt miniszterhez kell felterjeszteni.”

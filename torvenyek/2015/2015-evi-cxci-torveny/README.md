@@ -1,0 +1,7 @@
+# 2015. évi CXCI. törvény egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-191-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2015-12-12 | 2015. évi CXCI. törvény | 2015-191-00-00.0 (közlönyállapot) |
