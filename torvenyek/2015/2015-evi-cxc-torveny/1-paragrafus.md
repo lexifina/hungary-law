@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a pénzügyi számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére az 1. mellékletben meghatározott államok viszonylatában.
