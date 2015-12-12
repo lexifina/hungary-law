@@ -1,0 +1,1 @@
+## 7. § Az Elnök – kivételesen, amennyiben ezt a Hivatal éves munkaterhének mértéke indokolja – a 10. § (2) bekezdése, illetve a 11. § (2) bekezdése alapján évente adományozható elismerések legfeljebb kétszeresének megfelelő számú elismerést adományozhat.

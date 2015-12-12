@@ -1,0 +1,1 @@
+A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (8) bekezdésében kapott felhatalmazás alapján, a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
