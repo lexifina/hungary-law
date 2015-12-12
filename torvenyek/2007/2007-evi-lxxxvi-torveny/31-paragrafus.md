@@ -6,7 +6,7 @@ b) a villamos energia elosztó hálózatokon keresztül történő továbbítás
 
 c) évente hálózat fejlesztési terv készítése és az átviteli rendszerirányító részére, az üzemi szabályzatban meghatározott módon történő benyújtása,
 
-d) a működési engedélyben meghatározott elosztó hálózat működéséhez, valamint a folyamatos és biztonságos villamosenergia-ellátáshoz szükséges, az üzemi és elosztói szabályzatban meghatározott információk összegyűjtése és szolgáltatása az átviteli rendszerirányítóval együttműködve,
+d) a működési engedélyben meghatározott elosztó hálózat működéséhez, valamint a folyamatos és biztonságos villamosenergia-ellátáshoz szükséges, a jogszabályokban, az elosztói szabályzatban, az üzemi szabályzatban és a nemzetközi üzemi és kereskedelmi szabályzatban meghatározott információk összegyűjtése és szolgáltatása az átviteli rendszerirányítóval együttműködve,
 
 e) a háztartási méretű kiserőművekről a külön jogszabályban meghatározott nyilvántartás vezetése,
 

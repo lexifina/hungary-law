@@ -1,0 +1,1 @@
+55/B. § A Hivatal a 2015/1222/EU bizottsági rendelet 32. cikke szerinti felülvizsgálatban részt vesz és a részt vevőkkel megállapodik a 2015/1222/EU bizottsági rendelet 32. cikk (4) bekezdés c) pontja szerinti egyeztetési folyamatban a felülvizsgálat során benyújtott közös javaslatról.

@@ -40,6 +40,8 @@ j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az
 
 (4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a Ket. általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
 
+(4b) A Hivatal eljárása során az ügyintézés határideje az átviteli rendszerüzemeltetők és a kijelölt villamosenergiapiac-üzemeltetők által kialakított feltételek és módszertanok jóváhagyása esetében a 2015/1222/EU bizottsági rendeletben egyedileg meghatározott határidők.
+
 (5) A Hivatal az ügyfél kérelmére hatósági ellenőrzést folytathat le.
 
 (6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított harminc napon belül hiánypótlásra hívja fel.

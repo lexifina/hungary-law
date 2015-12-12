@@ -1,4 +1,4 @@
-59. § (1) A felhasználók villamosenergia-vételezésének elszámolási mérését az ellátási szabályzatokban meghatározottak szerint a hálózati engedélyesek végzik.
+59. § (1) A felhasználók villamosenergia-vételezésének elszámolási mérését a villamosenergia-ellátási szabályzatokban meghatározottak szerint a hálózati engedélyesek végzik.
 
 (2) A rendszerhasználati díjfizetési kötelezettséget – a kötelezettel való megállapodás, vagy jelen törvény alapján, a jogosult elosztói, vagy átviteli rendszerirányítói engedélyes egyidejű tájékoztatása mellett – harmadik személy is átvállalhatja.
 
@@ -14,7 +14,7 @@ d) ha a rendszerhasználó nem rendelkezik érvényes villamosenergia-vásárlá
 
 (4) A hálózati engedélyes részéről szerződésszegésnek minősül különösen, ha
 
-a) a villamos energiát nem a hálózathasználati szerződésben, illetve az ellátási szabályzatokban vagy a működési engedélyében meghatározott módon továbbítja, valamint ha a továbbítás minőségi követelményeit megsérti,
+a) a villamos energiát nem a hálózathasználati szerződésben, illetve a villamosenergia-ellátási szabályzatokban vagy a működési engedélyében meghatározott módon továbbítja, valamint ha a továbbítás minőségi követelményeit megsérti,
 
 b) a már lekötött szállítások szüneteltetését követően a felhasználónak a szüneteltetési ok megszüntetésére vonatkozó írásbeli értesítése kézhezvételét követő munkanapon a már lekötött szállítások teljesítését nem kezdi meg,
 

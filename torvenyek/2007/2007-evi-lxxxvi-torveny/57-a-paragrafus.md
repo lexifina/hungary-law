@@ -16,6 +16,8 @@ f) az egyes engedélyesek által végzett alaptevékenységhez kapcsolódó egy�
 
 (3) A Hivatal jogosult a felhasználók teljes körére vonatkozó, valamint az egyedi felhasználókkal szemben teljesítendő követelményeket külön-külön, továbbá a követelmények elmulasztása esetén alkalmazandó szankciókat meghatározni.
 
+(3a) A Hivatal jogosult a felhasználók teljes körére vonatkozó, valamint az egyedi felhasználókkal szemben teljesítendő követelményeket külön-külön, továbbá a követelmények elmulasztása esetén alkalmazandó szankciókat meghatározni. Az egyedi felhasználókkal szemben teljesítendő követelmények elmulasztása esetére a Hivatal jogosult automatikus, a felhasználó igényérvényesítése hiányában is teljesítendő szankciók meghatározására.
+
 (4) Az (1) bekezdés szerinti határozat tartalmazza
 
 a) az engedélyesek adatszolgáltatásának kötelező határidejét, valamint az adatok tartalmára és megbízhatóságára vonatkozó követelményeket,

@@ -12,9 +12,9 @@ c) a villamosenergia-kereskedő, valamint a rendszerszintű szolgáltatások és
 
 ügyleteket köthet, amennyiben megfelel a szervezett villamosenergia-piaci szabályzatban előírt feltételeknek, továbbá a szervezett villamosenergia-piaci engedélyessel a kereskedésben történő részvételre, az ügyletek elszámolására pedig szükség esetén az elszámolást végző szervezettel szerződést kötött.
 
-(2) A szervezett villamosenergia-piacon a kereskedésben résztvevők száma nem korlátozható. Abban az esetben, ha a kereskedésben részt venni kívánó piaci szereplő a jogszabályban, a kereskedelmi szabályzatban és a szervezett villamosenergia-piaci szabályzatban előírt feltételeket teljesíti, a szervezett villamosenergia-piaci engedélyes a részvételre irányuló szerződéskötést nem tagadhatja meg.
+(2) A szervezett villamosenergia-piacon a kereskedésben résztvevők száma nem korlátozható. Abban az esetben, ha a kereskedésben részt venni kívánó piaci szereplő a jogszabályban, a kereskedelmi szabályzatban, a nemzetközi üzemi és kereskedelmi szabályzatban és a szervezett villamosenergiapiaci szabályzatban előírt feltételeket teljesíti, a szervezett villamosenergia-piaci engedélyes a részvételre irányuló szerződéskötést nem tagadhatja meg.
 
-(3) A szervezett villamosenergia-piacon forgalmazott termék, ügylettípus vagy kereskedési módszer bevezetésére, megváltoztatására, kivezetésére a szervezett villamosenergia-piaci szabályzat rendelkezései irányadók.
+(3) A szervezett villamosenergia-piacon forgalmazott termék, ügylettípus vagy kereskedési módszer bevezetésére, megváltoztatására, kivezetésére a kereskedelmi szabályzat, a nemzetközi üzemi és kereskedelmi szabályzat, valamint a szervezett villamosenergia-piaci szabályzat rendelkezései irányadók.
 
 (4) A szervezett villamosenergia-piacon végezhető származékos ügyletekre, továbbá más energiahordózónak, az energiaellátáshoz kapcsolódó egyéb terméktípusnak vagy vagyoni értékű jognak a szervezett villamosenergia-piacra történő bevezetésére, valamint az azokkal való kereskedelemre vonatkozó rendelkezéseket – az e törvényben meghatározottakkal összhangban – külön jogszabály tartalmazza.
 

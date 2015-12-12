@@ -6,4 +6,4 @@
 
 (2) Az átadott adatokat az adatkezelő kizárólag a villamosenergia-rendszer és a villamosenergia-piac működésével kapcsolatos – engedélyes – tevékenysége ellátásával összefüggésben használhatja.
 
-(3) A villamosenergia-piac működésével összefüggő, a kereskedelmi szabályzatban meghatározott adatokat az átviteli rendszerirányító köteles honlapján folyamatosan nyilvánosságra hozni.
+(3) A villamosenergia-piac működésével összefüggő, a kereskedelmi szabályzatban, valamint a nemzetközi üzemi és kereskedelmi szabályzatban meghatározott adatokat az átviteli rendszerirányító és a szervezett villamosenergia-piaci engedélyes köteles honlapján vagy az arra kijelölt elektronikus platformon folyamatosan nyilvánosságra hozni.

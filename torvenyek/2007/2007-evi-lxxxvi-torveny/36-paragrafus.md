@@ -38,7 +38,7 @@ h) felhasználó a közcélú hálózat használatával egyidejűleg közvetlen 
 
 (4) A hálózati engedélyesek kötelesek a hozzáférés előre tervezhető karbantartási, felújítási munkálatok miatti szüneteltetésének kezdő időpontjáról és várható időtartamáról az érintett felhasználókat és engedélyeseket a külön jogszabályban meghatározott módon előzetesen, írásban értesíteni.
 
-(5) Az átviteli és az elosztó hálózathoz való hozzáférés megtagadásáról, a már lekötött szállítások korlátozását, csökkentését, vagy a (4) bekezdés szerinti esetektől eltérő szüneteltetését jelentő döntésekről az érintetteket az ellátási szabályzatokban meghatározott módon és időpontig tájékoztatni kell.
+(5) Az átviteli és az elosztó hálózathoz való hozzáférés megtagadásáról, a már lekötött szállítások korlátozását, csökkentését, vagy a (4) bekezdés szerinti esetektől eltérő szüneteltetését jelentő döntésekről az érintetteket a jogszabályokban és villamosenergia-ellátási szabályzatokban meghatározott módon és időpontig tájékoztatni kell.
 
 (6) A villamosenergia-értékesítési szerződéseket az átviteli rendszerirányító (1) bekezdésben meghatározott döntésének megfelelően lehet teljesíteni.
 

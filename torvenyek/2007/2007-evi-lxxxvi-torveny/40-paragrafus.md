@@ -2,7 +2,7 @@
 
 ## MÉRÉS, LEOLVASÁS
 
-40. § (1) A szerződések teljesítésének számlázása érdekében, az ellátási szabályzatokban meghatározott módon a mérések hiteles elvégzéséről
+40. § (1) A szerződések teljesítésének számlázása érdekében, a villamosenergia-ellátási szabályzatokban meghatározott módon a mérések hiteles elvégzéséről
 
 a) az engedélyesek egymás közötti szerződései esetén az átviteli rendszerirányító az elosztó hálózati engedélyesek bevonásával,
 

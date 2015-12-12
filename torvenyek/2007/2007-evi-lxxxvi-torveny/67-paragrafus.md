@@ -2,7 +2,7 @@
 
 ## SZABÁLYZATOK
 
-67. § Az átviteli rendszerirányító az engedélyesekkel és reprezentatív érdekképviseletük útján a felhasználókkal egyeztetve kidolgozza
+67. § Az átviteli rendszerirányító az engedélyesekkel és reprezentatív érdekképviseletük útján a felhasználókkal egyeztetve kidolgozza a nemzetközi üzemi és kereskedelmi szabályzatban szabályozott kérdések kivételével
 
 a) a villamosenergia-rendszer és az átviteli hálózat technikai működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzatot,
 

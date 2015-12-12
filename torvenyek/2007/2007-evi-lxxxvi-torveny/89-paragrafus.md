@@ -18,6 +18,6 @@ d)
 
 e) a kérelmező központi ügyintézésének helye nem a székhelye szerinti országban van.
 
-(4) A szervezett villamosenergia-piaci engedélyes fizikai energiakereskedelemmel összefüggő feladatait, jogait és kötelezettségeit külön jogszabály, valamint annak keretei között a működési engedély és a kereskedelmi szabályzat tartalmazza.
+(4) A szervezett villamosenergia-piaci engedélyes fizikai energiakereskedelemmel összefüggő feladatait, jogait és kötelezettségeit külön jogszabály, valamint annak keretei között a működési engedély és a nemzetközi üzemi és kereskedelmi, valamint a kereskedelmi szabályzat tartalmazza.
 
 (5)

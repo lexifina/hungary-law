@@ -10,6 +10,8 @@ d) képviseli a magyar villamosenergia-rendszert a nemzetközi szervezetekben, k
 
 e) kapcsolatot tart harmadik felekkel, a Hivatallal és az Európai Unió más tagállamaiban energiapiaci szabályozó hatóságként kijelölt külföldi szabályozó hatóságokkal (a továbbiakban: külföldi szabályozó hatóság); és
 
-f) közreműködik a regionális piacok kialakításában, és jogosult az egységes villamosenergia-piac kialakításának megkönnyítése érdekében közös vállalkozás létrehozására.
+f) közreműködik a regionális piacok kialakításában, és jogosult az egységes villamosenergia-piac kialakításának megkönnyítése érdekében közös vállalkozás létrehozására;
+
+g) a kijelölt villamosenergiapiac-üzemeltetővel kötött megállapodás esetén hozzájárulhat a 2015/1222/EU bizottsági rendelet 76. cikk (1) bekezdésében előírt költségekhez, amennyiben a Hivatal a 2015/1222/EU rendelet 76. cikk (3) bekezdésében foglaltak szerint a költség-hozzájárulási javaslatot előzetesen jóváhagyja.
 
 (2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító a minisztert és a Hivatalt tájékoztatja.

@@ -4,7 +4,7 @@
 
 (3) A szervezett villamosenergia-piac engedélyese köteles önálló mérlegkört alapítani. Az e mérlegkör által az átviteli rendszerirányító részére bejelentett, kiegyenlített és az átviteli rendszerirányító által visszaigazolt ügyletek végrehajtása csak a 36. § szerint korlátozható.
 
-(4) Minden elszámolási pontnak tartoznia kell egy mérlegkörhöz, és egy adott elszámolási pont egyidejűleg csak egy mérlegkörhöz tartozhat. A kereskedelmi szabályzatban meghatározott határkeresztező kapacitásra vonatkozó jog gyakorlásának feltétele a mérlegkörhöz való csatlakozás.
+(4) Minden elszámolási pontnak tartoznia kell egy mérlegkörhöz, és egy adott elszámolási pont egyidejűleg csak egy mérlegkörhöz tartozhat. A nemzetközi üzemi és kereskedelmi szabályzatban és a kereskedelmi szabályzatban meghatározott nemzetközi kereskedelemre vonatkozó jog gyakorlásának feltétele a mérlegkörhöz való csatlakozás.
 
 (5) A mérlegkör-felelős köteles szerződést kötni az átviteli rendszerirányítóval a kereskedelmi szabályzatban és az átviteli rendszerirányító üzletszabályzatában, valamint – jogszabály eltérő rendelkezése hiányában – a mérlegkör tagjaival a kereskedelmi szabályzatban és az üzletszabályzatában meghatározottak szerint.
 
