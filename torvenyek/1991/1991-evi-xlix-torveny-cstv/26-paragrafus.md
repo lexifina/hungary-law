@@ -8,7 +8,7 @@
 
 (4) Szünetelésnek kizárólag az adós és a felszámolási eljárás lefolytatását kérő hitelezők együttes kérelmére, a felszámolás elrendeléséről szóló végzés jogerőre emelkedéséig van helye.
 
-(5) Az adós a – felszámolást elrendelő első fokú végzés kézhezvételét követően, a végzés jogerőre emelkedéséig – köteles legalább 100 000 forint céltartalékot képezni a felszámolási költségek, így különösen
+(5) Az adós – a felszámolást elrendelő első fokú végzés kézhezvételét követően, a végzés jogerőre emelkedéséig – köteles legalább 100 000 forint, a c) pontban foglalt költségekkel arányos mértékű céltartalékot képezni a felszámolási költségek, így különösen
 
 a) a vagyonára vonatkozó dokumentumok, közhiteles nyilvántartásból beszerzendő adatok összegyűjtésével,
 

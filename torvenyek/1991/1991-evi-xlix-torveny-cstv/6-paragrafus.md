@@ -26,7 +26,7 @@ bb) a vitatott igény elbírálására irányuló és a kifogás alapján indult
 
 bc) az eljárás szünetelésének csak a 26. § (4) bekezdésben foglaltak esetén van helye,
 
-bd) az eljárás felfüggesztésének fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (2) bekezdése szerinti esetben van helye.
+bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (2) bekezdése, valamint a 38/A. § szerinti esetben van helye.
 
 (4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót kell félnek tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
 
