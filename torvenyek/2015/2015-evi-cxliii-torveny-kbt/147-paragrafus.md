@@ -6,7 +6,7 @@ b) olyan szervezetben rendelkezik tulajdoni részesedéssel vagy 50%-ot meghalad
 
 c) a jogorvoslati eljárás megindításának időpontját megelőző két évben az ügyfélszervezettel munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban állt, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja volt, vagy az ügyfélszervezetben tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezett.
 
-(2) A közbeszerzési ügyben nem járhat el az a közbeszerzési biztos, akinek a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója
+(2) A közbeszerzési ügyben nem járhat el az a közbeszerzési biztos, akinek a közös háztartásban élő hozzátartozója
 
 a) az ügyfélszervezettel munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban áll, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja;
 

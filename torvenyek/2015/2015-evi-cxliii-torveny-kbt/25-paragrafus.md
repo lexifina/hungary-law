@@ -18,7 +18,7 @@ ba) vezető tisztségviselőjét vagy felügyelőbizottságának tagját,
 
 bb) tulajdonosát,
 
-bc) a ba)–bb) pont szerinti személy Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozóját az ajánlatkérő az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevonta,
+bc) a ba)–bb) pont szerinti személy közös háztartásban élő hozzátartozóját az ajánlatkérő az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevonta,
 
 ha közreműködése az eljárásban a verseny tisztaságának sérelmét eredményezheti.
 
@@ -26,31 +26,31 @@ ha közreműködése az eljárásban a verseny tisztaságának sérelmét eredm�
 
 a) a köztársasági elnök,
 
-b) a miniszterelnök,
+b) az Országgyűlés elnöke, alelnöke,
 
-c) a miniszterelnök-helyettes,
+c) a Kormány tagja,
 
-d) az Országgyűlés elnöke vagy alelnöke,
+d) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
 
-e) a miniszter,
+e) a legfőbb ügyész,
 
-f) a Kúria elnöke,
+f) az Alkotmánybíróság elnöke,
 
-g) a legfőbb ügyész,
+g) az Állami Számvevőszék elnöke,
 
-h) az Alkotmánybíróság elnöke,
+h) a Közbeszerzési Hatóság, az Egyenlő Bánásmód Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
 
-i) az Állami Számvevőszék elnöke,
+i) a Magyar Nemzeti Bank elnöke
 
-j) a Közbeszerzési Hatóság elnöke,
+j)
 
-k) a Gazdasági Versenyhivatal elnöke,
+k)
 
-l) a Nemzeti Adó- és Vámhivatal elnöke, vagy
+l)
 
-m) a Központi Statisztikai Hivatal elnöke
+m)
 
-tulajdonában, vagy az a)–m) pont szerinti személy Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója tulajdonában álló szervezet.
+tulajdonában, vagy az a)–i) pont szerinti személlyel közös háztartásban élő hozzátartozója tulajdonában álló szervezet.
 
 (5) Az ajánlatkérő köteles felhívni az eljárás előkészítésébe bevont személy vagy szervezet figyelmét arra, ha a (3)–(4) bekezdés alapján – különösen az általa megszerzett többlet-információkra tekintettel – a közbeszerzési eljárásban történő részvétele összeférhetetlenséget eredményezne.
 
