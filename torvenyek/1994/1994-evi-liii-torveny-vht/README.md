@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2015-07-09 | 2015. évi CVII. törvény | 1994-53-00-00.111 |
 | 2015-08-17 | 2015. évi LXXI. törvény | 1994-53-00-00.112 |
 | 2015-09-01 | 2015. évi CVII. törvény | 1994-53-00-00.113 |
+| 2015-12-12 | 2015. évi CXCIII. törvény | 1994-53-00-00.114 |
