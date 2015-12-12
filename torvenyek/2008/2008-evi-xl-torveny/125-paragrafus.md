@@ -16,13 +16,13 @@
 
 (3) Az adatkezelő rendszerhasználóval történő szerződéskötése nem tehető függővé a rendszerhasználónak valamely, az (1) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulásától.
 
-(4) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a)–c) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
+(4) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a), b) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
 
 a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását vagy az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
 
 b) a számlázási és forgalmazási jogviták rendezésére jogszabály vagy a szerződő felek megállapodása alapján jogosult szervezetek részére,
 
-c) a Hivatalnak,
+c)
 
 d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, továbbá a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságoknak, az ügyésznek, valamint a bíróságnak,
 
@@ -34,7 +34,9 @@ g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy kül�
 
 h) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
 
-(5) A (4) bekezdés a)–c) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
+(4a) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok a Hivatal részére átadhatók, amelyeket a Hivatal köteles a Ket. adatkezelésre vonatkozó szabályai szerint kezelni.
+
+(5) A (4) bekezdés a), b) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
 
 (6) Az engedélyesek és a földgáztermelő kötelesek biztosítani, hogy a tevékenységgel kapcsolatos információk és adatok megőrzése, kezelése, továbbítása, más módon hozzáférhetővé tétele, valamint nyilvánosságra hozatala megfeleljen:
 

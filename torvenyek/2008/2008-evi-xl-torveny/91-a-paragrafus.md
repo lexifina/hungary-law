@@ -18,9 +18,7 @@ f) a földgázelosztó,
 
 g) az együttműködő földgázrendszerhez közvetlenül kapcsolódó, külföldi székhelyű szállítási rendszerüzemeltető,
 
-h) az átszállítást végző és
-
-i) a bértároltató,
+h)–i)
 
 ha megfelel a kereskedési platform szabályzatában meghatározott követelményeknek.
 
@@ -28,13 +26,13 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 
 (5) A kereskedési platformhoz történő hozzáférésre és az ügyletek lebonyolítására az erre jogosult piaci szereplő a szállítási rendszerüzemeltetővel, az ügyletek pénzügyi elszámolására központi szerződő féllel vagy elszámolóházi tevékenységet végző szervezettel szerződést köt. A piaci szereplők közötti adásvétel a központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet közbeiktatásával, az eladó és a vevő közötti anonimitás elve alapján, szabványosított ügyletek formájában történik.
 
-(6) A kereskedési platformot működtető köteles együttműködni a szervezett földgázpiaci engedélyessel.
+(6) A szállítási rendszerüzemeltető és a szervezett földgázpiaci engedélyes köteles együttműködni a kereskedési platform működtetése érdekében.
 
 (7) A kereskedési platformot működtető köteles a napi gázforgalmazásra, azon belül az egyensúlyozásra vonatkozó európai uniós előírások változása esetén megfelelően módosítani a kereskedési platform informatikai, működési feltételeit és szabályzatát.
 
 (8) Földgázellátási üzemzavar és válsághelyzet esetén a szállítási rendszerüzemeltető javaslatot tesz a Hivatalnak a kereskedési platformon, valamint a szervezett piacon történő kereskedés felfüggesztésére.
 
-(9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a gáznapon belüli kiegyensúlyozó földgáz kereskedelmének, valamint a gáznap zárásakor kialakult egyensúlytalansági pozíciók feloldására irányuló kereskedelemnek a lehetőségét a kereskedési platform szabályzata szerint.
+(9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a kereskedelmi egyensúlytalanságuk feloldására irányuló földgáz kereskedelemnek a lehetőségét a 312/2014/EU bizottsági rendelet és a kereskedési platform szabályzata szerint.
 
 (10) A 312/2014/EU bizottsági rendelet 10. cikk (2) bekezdése szerint létrehozott egyensúlyozó platformra a (2)–(9) bekezdésben foglalt előírásokat megfelelően kell alkalmazni.
 

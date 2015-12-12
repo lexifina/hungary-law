@@ -73,3 +73,5 @@ k) minden olyan egyéb adat, amelyet Kormányrendelet átadni rendel.
 (7) Az átvevő egyetemes szolgáltató a Hivatalnál kérheti a kijelölő határozat módosítását, ha az átadó egyetemes szolgáltató az e §-ban, vagy a 115/C. §-ban foglalt valamely kötelezettségét megszegi vagy annak teljesítésével indokolatlanul késlekedik.
 
 (8) A Hivatal az (1) bekezdés szerinti határozatokat legkésőbb az átvétel napjáig hivatalból módosíthatja, ha az ellátásbiztonság, a fogyasztók folyamatos ellátásának biztosítása, jogszabályi megfelelés vagy a visszavonó és a kijelölő határozat közötti összhang megteremtése azt szükségessé teszi.
+
+(9) A Hivatal az (1) bekezdés szerinti határozatokat legkésőbb a felhasználók átvételének időpontjáig visszavonhatja, ha a határozatok meghozatalának időpontját követően az átadó és az átvevő egyetemes szolgáltató körülményeiben olyan lényeges változás következett be, amely alapján a határozatok rendelkezései okafogyottá váltak, valamint az átadó és az átvevő egyetemes szolgáltató közös kérelmükben kérik a Hivataltól a határozatok visszavonását.

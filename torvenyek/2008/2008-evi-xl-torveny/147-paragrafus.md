@@ -17,5 +17,3 @@
 (6) E törvény 1–15. §-a, 16. § (1) bekezdésének a)–e) pontjai, valamint (2)–(4) bekezdése, 17–126. §-a, 127. §-ának b)–zs) pontjai, 128–131. §-a, 134–137. §-a, 139. §-a, 142. §-a, 143. § (1), (3)–(7) és (10) bekezdése, 144–145. §-a, 148–150. §-a, 152. §-ának (7) bekezdése, 153. §-a, 155. §-a, valamint 158–159. §-a 2009. július 1-jén lép hatályba.
 
 (7) E törvény 16. § (1) bekezdésének f) pontja 2010. július 1-jén lép hatályba.
-
-(8) E törvény 151. §-ának, valamint a 152. § (12) és (22)–(23) bekezdésének rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.

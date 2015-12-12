@@ -10,6 +10,6 @@
 
 (6) Az átmeneti időszakra vonatkozóan a havi és napi kapacitáslekötés részletszabályait az e törvény végrehajtásáráról szóló kormányrendelet, a Hivatal elnökének rendelete, valamint az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
-(7) Ha a (3) bekezdés szerinti időpontig az érintett szállítási rendszerüzemeltetők nem állapodtak meg a rendszer-összekötési pont kapcsolt kapacitásának kialakítása érdekében meghozandó intézkedésekről és nem kerül meghatározásra a kapacitásértékesítés során közösen, kapcsolt termékként felajánlott kapacitásmennyiség, úgy a (3) bekezdés szerinti, a rendszer-összekötési pontra vonatkozó kapacitásaukción a szállítási rendszerüzemeltető kizárólag a soron következő gázévre értékesíthet éves kapacitásterméket.
+(7)
 
 (8) A kapacitáslekötés a földgázszállító rendszer valamennyi betáplálási-kiadási pontján a kapacitáslekötési platformon történik az Üzemi és Kereskedelmi Szabályzatban, valamint a kapacitáslekötési platform szabályzatban foglaltaknak megfelelően.
