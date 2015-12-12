@@ -590,9 +590,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 0,00 | 26,71 | 34,56 | 6,95 | 2,07 | 70,29 |
+| 3. | 0,00 | 26,71 | 34,56 | 6,95 | 2,44 | 70,66 |
 
-| 4. | Többletkötelezettség-vállalás: 11,30 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 11,67 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: konvergencia régiók esetén 24,19 %, közép-magyarországi régió esetén 85 % |
 
@@ -604,7 +604,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 52,42 | 18,65 | 10,07 | 81,14 |
+| 3. | 52,42 | 18,65 | 10,44 | 81,51 |
 
 6.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -640,7 +640,7 @@
 
 | 14. | 6.2.2.B | Képzés és módszertani fejlesztés | 0,00 | 0,07 | 0,00 | 0,00 | 0,00 | A konstrukció célja a képzések tananyagtartalmának, módszertanának (kurrikulum, szakmai és vizsgakövetelmény, képzési terv) fejlesztése, mely elsődlegesen a minőségi kontrolltényezők bevezetését célozza, az országosan egységes és színvonalas képzés, gyakorlati oktatás biztosítása érdekében. | emberi erőforrások minisztere |  |
 
-| 15. | 6.2.3 | Országos egészségmonitorozási és kapacitástérkép adatbázis- és alkalmazásfejlesztés | 0,00 | 1,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja az egészségorientált kormányzati és egészségpolitikai döntéshozatal kialakításának támogatása az egészségmonitorozás országos hálózatának kialakításával, és a progresszivitási szinteknek megfelelő, szükséglet alapú kapacitástervezés megalapozásával. | emberi erőforrások minisztere | nemzeti fejlesztési miniszter |
+| 15. | 6.2.3 | Országos egészségmonitorozási és kapacitástérkép adatbázis- és alkalmazásfejlesztés | 0,00 | 1,00 | 0,00 | 0,00 | 0,37 | A konstrukció célja az egészségorientált kormányzati és egészségpolitikai döntéshozatal kialakításának támogatása az egészségmonitorozás országos hálózatának kialakításával, és a progresszivitási szinteknek megfelelő, szükséglet alapú kapacitástervezés megalapozásával. | emberi erőforrások minisztere | nemzeti fejlesztési miniszter |
 
 | 16. | 6.2.4 | Foglalkoztatás intézményi támogatása | 0,00 | 1,75 | 2,67 | 0,00 | 0,00 | A konstrukció célja a képzett szakemberek foglalkoztatásának támogatásán keresztül a betegellátás színvonalának növelése, valamint a humánerőforrás-egyenlőtlenségek mérséklése, ezáltal hozzájárulva az egészségügyi ellátórendszer egyenszilárd működéséhez. | emberi erőforrások minisztere |  |
 
@@ -654,7 +654,7 @@
 
 | 21. | 6.2.8 | Sürgősségi Akadémia | 0,00 | 0,00 | 0,25 | 0,00 | 0,00 | A konstrukció célja a sürgősségi ellátórendszer különböző ellátási szintjeinek, szereplőinek módszertani és képzési támogatása, az egységes és magas színvonalú, ugyanakkor folytonosságában is harmonikus sürgősségi ellátás érdekében. | emberi erőforrások minisztere |  |
 
-| 22. | Összesen | 0,00 | 26,71 | 34,56 | 6,95 | 2,07 |  |  |  |
+| 22. | Összesen | 0,00 | 26,71 | 34,56 | 6,95 | 2,44 |  |  |  |
 
 7. A 7. prioritás: Technikai segítségnyújtás
 
@@ -699,4 +699,4 @@
 | 3. | 7.2.1 | Az OP lebonyolításával kapcsolatos egyéb feladatok | 4,85 | 4,85 | 4,85 | 0,00 | 0,00 | A konstrukció célja, hogy biztosítsa a Társadalmi Megújulás Operatív Program lebonyolításával kapcsolatos specifikus feladatok költséghatékony és eredményes ellátását (pl. monitoring bizottság működtetése, beleértve annak titkársági feladatai ellátását is, az éves megvalósítási jelentések, a Társadalmi Megújulás Operatív Program végrehajtását érintő tanulmányok, elemzések, a Nemzeti Stratégiai Referencia Keret-szintű értékelési tervben nem szereplő, valamint a monitoring bizottság kezdeményezésére indított értékelések). | emberi erőforrások minisztere |  |
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja, az 1685/2015. (IX. 24.) Korm. határozat 3–4. pontja, az 1775/2015. (X. 19.) Korm. határozat 3–4. pontja, az 1877/2015. (XII. 2.) Korm. határozat 3–4. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja, az 1685/2015. (IX. 24.) Korm. határozat 3–4. pontja, az 1775/2015. (X. 19.) Korm. határozat 3–4. pontja, az 1877/2015. (XII. 2.) Korm. határozat 3–4. pontja, az 1923/2015. (XII. 11.) Korm. határozat 3. pontja szerint módosított szöveg.
