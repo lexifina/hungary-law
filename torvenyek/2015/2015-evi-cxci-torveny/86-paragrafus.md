@@ -1,3 +1,0 @@
-86. § Az Áht. 111. §-a a következő (31) bekezdéssel egészül ki:
-
-„(31) A Magyar Művészeti Akadémia a törzskönyvi nyilvántartásba vételét az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvény hatálybalépését követő 45 napon belül kérheti. A törzskönyvi nyilvántartásba vételre vonatkozó határozatot a kincstár a Magyar Művészeti Akadémiát bírósági nyilvántartásba vevő bírósággal közli. A bíróság a kincstár határozata alapján a Magyar Művészeti Akadémiát hivatalból törli a civil és egyéb cégnek nem minősülő szervezetek nyilvántartásából. A törlésről nem kell végzést hozni.”

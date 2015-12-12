@@ -1,3 +1,0 @@
-13. § A NAV tv. 33/T. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az (5) bekezdéstől eltérően a főigazgató és a szakfőigazgató esetében az állami adó- és vámhatóság vezetője a központi szerv legalább főosztályvezetői munkakört betöltő kormánytisztviselőjét, pénzügyőrét jelöli ki vizsgálóbiztosnak. Ugyanígy jár el az állami adó- és vámhatóság vezetője, ha a központi szervek vagy a területi szervek vezetői munkakört betöltő kormánytisztviselője, pénzügyőre tekintetében a 33/L. § (2) bekezdése alapján magához vonja a fegyelmi jogkört, függetlenül az eljárás alá vont vezető vezetői munkakörének szintjétől. A nem vezetői munkakört betöltő fegyelmi eljárás alá vont személy esetében a (2)–(4) bekezdést kell alkalmazni.”
