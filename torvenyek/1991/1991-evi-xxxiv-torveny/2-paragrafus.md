@@ -2,11 +2,11 @@
 
 (2) Szerencsejáték-szervező tevékenység folytatásához – az e törvényben meghatározott kivétellel – az állami adóhatóság engedélye szükséges. Az állami adóhatóság az engedélyesekről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
-(2a) Távszerencsejáték szolgáltatás nyújtásához az állami adóhatóság engedélye szükséges. A távszerencsejáték szolgáltatásokra e törvény hatálya abban az esetben terjed ki, ha
+(2a) A távszerencsejáték és online kaszinójáték szolgáltatásokra e törvény hatálya abban az esetben terjed ki, ha
 
-a) a távszerencsejátékot Magyarország területén szervezik, vagy
+a) a szerencsejátékot Magyarország területén szervezik,
 
-b) a szolgáltatás igénybe vevője Magyarország területén vesz részt a távszerencsejátékban, vagy
+b) a szolgáltatás igénybe vevője Magyarország területén vesz részt a szerencsejátékban, vagy
 
 c) a szolgáltatás Magyarország területén lévő igénybe vevők felé irányul, különösen olyan esetekben, amikor a szolgáltatás magyarul hozzáférhető, vagy azt Magyarország területén reklámozzák.
 

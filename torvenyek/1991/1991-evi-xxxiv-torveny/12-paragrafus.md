@@ -12,11 +12,11 @@ terjedhet.
 
 a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, 9. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, az ajándéksorsolást szervezővel szemben a 23. §-ba és a 36. § (3) bekezdésébe, 36/C–E. §-ba,
 
-b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (5a)–(6d) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a 17. § (4) bekezdésébe,, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet, valamint a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének részletes személyi, pénzügyi műszaki és informatikai feltételeit meghatározó rendelet rendelkezéseibe.
+b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (5a)–(6d) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a 17. § (4) bekezdésébe, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a felelős játékszervezés részletes szabályairól szóló kormányrendelet, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet rendelkezéseibe,
 
-c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (5a) vagy (5b) bekezdéseibe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
+c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (7a) bekezdésébe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
 
-d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C. § (1)–(7), (9) bekezdésébe és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
+d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C–V. §-ba és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
 
 (4)
 

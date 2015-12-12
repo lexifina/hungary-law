@@ -32,7 +32,7 @@ d) a sorsolásos játékokkal és a fogadásokkal,
 
 e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével,
 
-f)
+f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével
 
 g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 
