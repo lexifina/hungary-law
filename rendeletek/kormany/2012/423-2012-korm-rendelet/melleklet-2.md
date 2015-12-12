@@ -14,7 +14,7 @@
 
 ## 4. Művészetközvetítés képzési terület: minden szakon;
 
-## 5.[^127] Közigazgatási, rendészeti és katonai képzési terület: minden szakon;
+## 5.[^132] Közigazgatási, rendészeti és katonai képzési terület: minden szakon;
 
 ## 6. Orvos- és egészségtudomány képzési terület: minden szakon;
 
@@ -36,7 +36,7 @@
 
 ## 4. Művészetközvetítés képzési terület: minden szakon;
 
-## 5.[^128] Közigazgatási, rendészeti és katonai képzési terület: minden szakon;
+## 5.[^133] Közigazgatási, rendészeti és katonai képzési terület: minden szakon;
 
 ## 6. Orvos- és egészségtudomány képzési terület: minden szakon;
 
@@ -58,7 +58,7 @@
 
 ## orlati vizsga tartható a következő szakokon:)
 
-## 4.[^129] Osztatlan tanárképzésben, amennyiben a szak, vagy szakpár legalább egyike művészeti jellegű.
+## 4.[^134] Osztatlan tanárképzésben, amennyiben a szak, vagy szakpár legalább egyike művészeti jellegű.
 
 2. melléklet a 423/2012. (XII. 29.) Korm. rendelethez
 
@@ -104,7 +104,7 @@ k) gazdasági ismeretek
 
 l) latin nyelv;
 
-3.[^130] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
+3.[^135] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
 a) egészségügyi alapismeretek
 
@@ -130,9 +130,9 @@ k) oktatási alapismeretek
 
 l) vendéglátás-idegenforgalom alapismeretek
 
-m)[^131] faipari alapismeretek;
+m)[^136] faipari alapismeretek;
 
-4.[^132] a választható élő idegen nyelvek közül a(z)
+4.[^137] a választható élő idegen nyelvek közül a(z)
 
 a) portugál nyelv,
 
@@ -148,9 +148,9 @@ f) holland nyelv,
 
 g) finn nyelv.
 
-[^127]: Az 1. melléklet I. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja szerint módosított szöveg.
-[^128]: Az 1. melléklet II. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja szerint módosított szöveg.
-[^129]: Az 1. melléklet III. pont 4. alpontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
-[^130]: A 2. melléklet 3. pont nyitó szövegrésze a 47/2013. (II. 20.) Korm. rendelet 9. § d) pontjával megállapított szöveg.
-[^131]: A 2. melléklet 3. pont m) pontját az 502/2013. (XII. 22.) Korm. rendelet 23. § (2) bekezdése iktatta be.
-[^132]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^132]: Az 1. melléklet I. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja szerint módosított szöveg.
+[^133]: Az 1. melléklet II. pont 5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 22. pontja szerint módosított szöveg.
+[^134]: Az 1. melléklet III. pont 4. alpontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^135]: A 2. melléklet 3. pont nyitó szövegrésze a 47/2013. (II. 20.) Korm. rendelet 9. § d) pontjával megállapított szöveg.
+[^136]: A 2. melléklet 3. pont m) pontját az 502/2013. (XII. 22.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^137]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be.
