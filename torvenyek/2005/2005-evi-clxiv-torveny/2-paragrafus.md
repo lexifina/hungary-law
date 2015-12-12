@@ -68,6 +68,8 @@
 
 28. üzleten kívüli kereskedés: a kereskedő vagy a nevében, illetve javára eljáró személy által a termék forgalmazása céljából a vásárlónak – annak kifejezett kérése nélkül – a lakásán, munkahelyén vagy más tartózkodási helyén való felkeresésével vagy az e célból szervezett utazás vagy rendezvény alkalmával folytatott kiskereskedelmi tevékenység;
 
+28a. árubemutatóval egybekötött termékértékesítés: a kereskedő vagy a nevében, illetve javára eljáró személy által a termék bemutatása, illetve forgalmazása céljából szervezett utazás vagy rendezvény alkalmával folytatott kiskereskedelmi tevékenység;
+
 29. vásár: olyan épület, épületegyüttes vagy terület, ahol rendszerint többen folytatnak idényjellegű vagy meghatározott eseményekhez, naptári napokhoz kötődő eseti jellegű kiskereskedelmi tevékenységet;
 
 30. vendéglátás: kész- vagy helyben készített ételek, italok jellemzően helyben fogyasztás céljából történő forgalmazása, ideértve az azzal összefüggő szórakoztató és egyéb szolgáltató tevékenységet is.
@@ -84,4 +86,6 @@ b) amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzle
 
 34. szupermarket: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400–2500 négyzetméter közötti bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet;
 
-35. diszkont: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet, amely nem rendelkezik friss hús, húskészítmény és tejtermékek kimérésére szolgáló pulttal.
+35. diszkont: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet, amely nem rendelkezik friss hús, húskészítmény és tejtermékek kimérésére szolgáló pulttal;
+
+36. fogyasztó: a fogyasztóvédelemről szóló törvény szerinti fogyasztó.
