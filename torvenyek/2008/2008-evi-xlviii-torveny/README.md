@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-48-00-00
 | 2014-07-01 | 2013. évi CCI. törvény | 2008-48-00-00.19 |
 | 2015-06-19 | 2015. évi LXXII. törvény | 2008-48-00-00.20 |
 | 2015-07-04 | 2015. évi LXXII. törvény | 2008-48-00-00.21 |
+| 2015-12-12 | 2015. évi CXCV. törvény | 2008-48-00-00.22 |

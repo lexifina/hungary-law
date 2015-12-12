@@ -1,1 +1,1 @@
-12. §
+12. § Tilos a kereskedelemről szóló törvényben meghatározott, árubemutatóval egybekötött termékértékesítéshez kapcsolódóan ajándék juttatás, árengedmény, kedvezmény, vagyoni előny és ajándéksorsolás reklámja.
