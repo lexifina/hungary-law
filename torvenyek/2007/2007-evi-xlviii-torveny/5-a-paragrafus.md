@@ -4,7 +4,7 @@ a) 10 000 euró vagy azt meghaladó, de 20 000 eurót meg nem haladó összegű 
 
 b) 20 000 eurót meghaladó, de 50 000 eurót meg nem haladó összegű készpénz esetén a birtokában lévő összeg 40%-ának,
 
-c) 50 000 eurót meghaladó összegű készpénz esetén a birtokában lévő összeg 60%-ának
+c) 50 000 eurót meghaladó összegű készpénz esetén a birtokában lévő összeg 50%-ának megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fizetnie.
 
 megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fizetnie.
 
