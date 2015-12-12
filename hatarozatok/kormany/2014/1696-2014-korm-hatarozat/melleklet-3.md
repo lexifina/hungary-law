@@ -116,6 +116,26 @@
 
 | Dunai hajóút kitűzési rendszerének fejlesztése |
 
+## Kikötő-fejlesztési projektek
+
+## Kivitelezés alatt álló KÖZOP-IKOP szakaszolt projektek
+
+| Fejlesztés tartalma |
+
+| Győr-Gönyű Országos Közforgalmú Kikötő infrastrukturális továbbfejlesztése |
+
+## IKOP-ból megvalósuló projektek
+
+| Fejlesztés tartalma |
+
+| MAHART Mobil Árvízvédelmi Gát |
+
+| Új országos közforgalmú kikötő kiépítése Mohácson |
+
+| Bajai Közforgalmú Kikötő fejlesztése |
+
+| Személyforgalmi kikötők támogatására vonatkozó projektcsomag |
+
 3. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^4]
 
 [^4]: A 3. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont b) alpontjával megállapított szöveg.
