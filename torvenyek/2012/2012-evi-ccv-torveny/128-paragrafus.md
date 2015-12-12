@@ -12,7 +12,7 @@ d) berepült repülőgépenként, beugrott ejtőernyőnként 20–35%
 
 szerinti mértékben kerül megállapításra.
 
-(3) A fokozott igénybevételi illetménypótlék – a miniszter által rendeletben meghatározott jogcímenként – a honvédelmi illetményalap százalékában meghatározva
+(3) A fokozott igénybevételi illetménypótlék – a miniszter által rendeletben meghatározott jogcímenként – a honvédelmi illetményalap, vagy – a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladat ellátása esetén – a távolléti díj százalékában meghatározva
 
 a) havonta 20–270%,
 

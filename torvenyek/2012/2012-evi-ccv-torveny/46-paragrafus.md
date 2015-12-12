@@ -42,7 +42,7 @@ s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban t�
 
 t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány),
 
-u) a 43. § (2a) bekezdése szerinti esetben az állomány ezredes, tábornok rendfokozattal rendszeresített beosztást betöltő tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig.
+u) a 43. § (2a) bekezdése szerinti esetben az állomány ezredes vagy tábornoki rendfokozattal rendszeresített beosztást betöltő tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig.
 
 (2) Meg kell szüntetni az (1) bekezdés f)–i), k)–m), p) és u) pontja szerinti rendelkezési állományt, ha az állomány tagjának megfelelő szolgálati beosztásba helyezésére nincs lehetőség.
 

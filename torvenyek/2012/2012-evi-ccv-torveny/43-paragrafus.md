@@ -2,7 +2,7 @@
 
 (2) Az azonos vagy az alacsonyabb beosztásba áthelyezés kérelemre is történhet.
 
-(2a) A miniszter az állomány ezredes, tábornok rendfokozattal rendszeresített, vezetői beosztást betöltő tagját beosztásából indokolás nélkül rendelkezési állományba helyezheti.
+(2a) A miniszter az állomány ezredes vagy tábornoki rendfokozattal rendszeresített, vezetői beosztást betöltő tagját beosztásából indokolás nélkül rendelkezési állományba helyezheti.
 
 (3) Az alacsonyabb beosztásba áthelyezéshez az állomány tagjának beleegyezése szükséges.
 
