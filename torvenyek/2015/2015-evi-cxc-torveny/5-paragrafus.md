@@ -1,1 +1,0 @@
-5. § A Megállapodás Magyarország és az egyes további részes államok közötti hatálybalépésének naptári napját – annak ismertté válását követően – a külpolitikáért felelős miniszter a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
