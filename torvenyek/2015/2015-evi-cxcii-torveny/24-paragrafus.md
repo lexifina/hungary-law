@@ -4,4 +4,4 @@
 
 ## 7. A koncesszióról szóló 1991. évi XVI. törvény módosítása
 
-24. § Hatályát veszti a koncesszióról szóló 1991. évi XVI. törvény 10/C. § (3a) bekezdése.
+24. §
