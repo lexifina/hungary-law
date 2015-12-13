@@ -1,5 +1,6 @@
-25. § (1) Ha a tanú személyi adatai a büntetőeljárásban részt vevők előtt már ismertek és a személyi adatainak zárt kezeléséhez fűződő érdek nem érvényesíthető, a zárt kezelésre irányuló kérelmet el kell utasítani.
+25. § (1)[^40] Ha a tanú személyi adatai a büntetőeljárásban részt vevők előtt már ismertek és a személyi adatainak zárt kezeléséhez fűződő érdek nem érvényesíthető, a személyi adatok zártan történő kezelése hivatalból nem rendelhető el.
 
-(2)[^36] A kérelem elutasítását tartalmazó intézkedés ellen bejelentett panasz elbírálásáig a tanú személyi adatait zártan kell kezelni. A panasz elbírálására a Be. 196. § rendelkezései az irányadók.
+(2)[^41]
 
-[^36]: A 25. § (2) bekezdése a 30/2009. (VIII. 7.) IRM rendelet 15. §-ával megállapított szöveg.
+[^40]: A 25. § (1) bekezdése a 65/2015. (XII. 12.) BM rendelet 6. §-a szerint módosított szöveg.
+[^41]: A 25. § (2) bekezdését a 65/2015. (XII. 12.) BM rendelet 10. §-a hatályon kívül helyezte.

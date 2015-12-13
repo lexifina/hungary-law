@@ -1,12 +1,16 @@
-## A Be. 63/A. §-ához
+## A Be. 62/C. §-ához
 
-## (Intézkedés a bűnözés megelőzésére és más eljárás kezdeményezésére)[^13]
+## (különleges bánásmódot igénylő személy meghallgatása)[^13]
 
-10/A. §[^14] (1) A bűnözés megelőzésére és más eljárás kezdeményezésére történő intézkedés (a továbbiakban: szignalizáció) a nyomozó szerv vezetője által az illetékes állami vagy önkormányzati szerv vezetőjéhez intézett nyilatkozat, amely a nyomozás érdekeinek sérelme nélkül tartalmazza mindazokat a büntetőeljárás során megállapított tényeket, körülményeket, amelyek a bűncselekmény elkövetését közvetlenül lehetővé tették, illetve elősegítették, és amelynek felszámolása vagy megszüntetése az adott szerv feladat- és hatáskörébe tartozik.
+10/A. §[^14] (1) A tizennegyedik életévét be nem töltött terhelt vagy tanú, valamint a különleges bánásmódot igénylő sértett kihallgatását olyan meghallgató helyiségben kell foganatosítani, amelyben a büntetőeljárás céljával, valamint a Be. 62/C. § (3)–(4) bekezdésében foglalt szabályozással összhangban biztosítható, hogy az eljárási cselekmény az érintett lehetőség szerinti kíméletével, a 18. életévét be nem töltött személyek esetén továbbá a gyermek mindenek felett álló érdekét szem előtt tartva valósuljon meg (a továbbiakban: különleges meghallgató szoba).
 
-(2) A szignalizáció akkor tekinthető szükségesnek, ha az abban közölt megállapítások – érdemi intézkedést feltételezve – hozzájárulnak további bűncselekmény megelőzéséhez.
+(2) Nem kell a meghallgatást különleges meghallgató szobában foganatosítani, ha annak használata:
 
-(3) A nyomozó szerv vezetője a szignalizációt saját hatáskörében, ügyészi jóváhagyás nélkül teszi meg, másolati példányát, illetve a tájékoztatott szerv esetleges válaszát az iratok között kell elhelyezni.
+a) az eljárás eredményes lefolytatását veszélyeztetné,
 
-[^13]: A 10/A. §-t megelőző alcímet a 21/2006. (IX. 11.) IRM rendelet 6. §-a iktatta be.
-[^14]: A 10/A. §-t a 21/2006. (IX. 11.) IRM rendelet 6. §-a iktatta be.
+b) a tizennegyedik életévét be nem töltött terhelt vagy tanú, illetve a különleges bánásmódot igénylő sértett vagy más személy további sérelemtől való megóvását akadályozná, vagy
+
+c) elháríthatatlan külső körülmény miatt egyébként lehetetlen.
+
+[^13]: A 10/A. §-t megelőző alcímet a 21/2006. (IX. 11.) IRM rendelet 6. §-a iktatta be, szövege a 65/2015. (XII. 12.) BM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 10/A. §-t a 21/2006. (IX. 11.) IRM rendelet 6. §-a iktatta be, szövege a 65/2015. (XII. 12.) BM rendelet 2. §-ával megállapított szöveg.

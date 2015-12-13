@@ -1,10 +1,10 @@
 ## 87. § Ha a megőrzésre kötelezett kéri a számítástechnikai rendszer útján rögzített adatok más adathordozóra, vagy más számítástechnikai rendszerbe történő átmásolását, illetőleg az elrendelt korlátozás feloldását, a nyomozó szerv erről indokolt határozatban dönt. A kérésnek helyt adó határozatnak tartalmaznia kell a másolat hitelesítési módjára, valamint az adatváltoztatásra alkalmatlan módon történő rögzítés elrendelésére vonatkozó rendelkezéseket is.
 
-## A Be. 158/B–158/D. §-ához[^58]
+## A Be. 158/B–158/D. §-ához[^63]
 
 ## (Az elektronikus adat ideiglenes hozzáférhetetlenné tétele)
 
-87/A. §[^59] (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésére a nyomozó szerv vezetője tesz előterjesztést az ügyészhez.
+87/A. §[^64] (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésére a nyomozó szerv vezetője tesz előterjesztést az ügyészhez.
 
 (2) Az elektronikus adat ideiglenes hozzáférhetetlenné tétele indítványozása iránti előterjesztésnek tartalmaznia kell:
 
@@ -50,5 +50,5 @@ g) az elektronikus adatot tároló tárhelyszolgáltató nevének és címének,
 
 5. URL cím: egységes erőforrás azonosító, amely egyetlen címben foglalja össze az interneten megtalálható elektronikus adat azonosításához szükséges legfontosabb információkat, mint a protokoll, a domain név vagy IP cím, a portszám és az elérési út a célszerveren.
 
-[^58]: A 87/A. §-t megelőző alcímet a 34/2013. (VI. 30.) BM rendelet 20. §-a iktatta be.
-[^59]: A 87/A. §-t a 34/2013. (VI. 30.) BM rendelet 20. §-a iktatta be.
+[^63]: A 87/A. §-t megelőző alcímet a 34/2013. (VI. 30.) BM rendelet 20. §-a iktatta be.
+[^64]: A 87/A. §-t a 34/2013. (VI. 30.) BM rendelet 20. §-a iktatta be.

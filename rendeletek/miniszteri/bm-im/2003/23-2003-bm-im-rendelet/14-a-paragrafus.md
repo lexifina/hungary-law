@@ -1,5 +1,5 @@
 ## A Be. 71. §-ához
 
-## (Megkeresések)[^22]
+## (Megkeresések)[^24]
 
-[^22]: A 14/A. §-t megelőző alcímet a 21/2006. (IX. 11.) IRM rendelet 10. §-a iktatta be.
+[^24]: A 14/A. §-t megelőző alcímet a 21/2006. (IX. 11.) IRM rendelet 10. §-a iktatta be.

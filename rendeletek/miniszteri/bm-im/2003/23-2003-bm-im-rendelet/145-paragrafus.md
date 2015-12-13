@@ -1,4 +1,4 @@
-## 144. §[^89] Nem alkalmazhatók a Be. XXI. Fejezetének rendelkezései azzal a gyanúsítottal szemben, aki az eljárás alapjául szolgáló bűncselekményt (bűncselekményeket) részben a tizennyolcadik életévének betöltése előtt, részben azt követően követte el.
+## 144. §[^94] Nem alkalmazhatók a Be. XXI. Fejezetének rendelkezései azzal a gyanúsítottal szemben, aki az eljárás alapjául szolgáló bűncselekményt (bűncselekményeket) részben a tizennyolcadik életévének betöltése előtt, részben azt követően követte el.
 
 ## A Be. 450. §-ához
 
@@ -12,4 +12,4 @@
 
 (4) A nyomozó szerv a fiatalkorú ügyében a Gyvtv. alapján tett intézkedéséről, az intézkedésről szóló irat másolatának megküldésével haladéktalanul értesíti az ügyészt.
 
-[^89]: A 144. § a 21/2006. (IX. 11.) IRM rendelet 33. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^94]: A 144. § a 21/2006. (IX. 11.) IRM rendelet 33. § (3) bekezdésének c) pontja szerint módosított szöveg.
