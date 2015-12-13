@@ -10,28 +10,6 @@
 
 | 5. | Személyforgalmi kikötők támogatására vonatkozó projektcsomag | 0,50 Mrd | A projektcsomag célja a Duna, mint TEN-T útvonal személyszállítási színvonalának megőrzése és kapacitásának fejlesztése. |
 
-3. melléklet az 1926/2015. (XII. 12.) Korm. határozathoz
+3. melléklet az 1926/2015. (XII. 12.) Korm. határozathoz[^3]
 
-Az 1696/2014. (XI. 26.) Korm. határozat 2. melléklete a következő táblázatokkal egészül ki:
-
-„Kikötő-fejlesztési projektek
-
-Kivitelezés alatt álló KÖZOP-IKOP szakaszolt projektek
-
-| Fejlesztés tartalma |
-
-| Győr-Gönyű Országos Közforgalmú Kikötő infrastrukturális továbbfejlesztése |
-
-IKOP-ból megvalósuló projektek
-
-| Fejlesztés tartalma |
-
-| MAHART Mobil Árvízvédelmi Gát |
-
-| Új országos közforgalmú kikötő kiépítése Mohácson |
-
-| Bajai Közforgalmú Kikötő fejlesztése |
-
-| Személyforgalmi kikötők támogatására vonatkozó projektcsomag |
-
-| ” |
+[^3]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

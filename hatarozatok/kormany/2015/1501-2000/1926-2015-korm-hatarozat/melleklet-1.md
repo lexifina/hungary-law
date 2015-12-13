@@ -28,8 +28,8 @@
 
 ## Határidő: 2015. december 31.
 
-## 2. A 2014–2020-as programozási időszak országos jelentőségű közúti, vasúti és vízi közlekedési, városi és elővárosi közlekedési fejlesztéseinek indikatív listájáról szóló 1696/2014. (XI. 26.) Korm. határozat [a továbbiakban: 1696/2014. (XI. 26.) Korm. határozat] 2. melléklete a 3. melléklet szerint módosul.
-
-## 3. A Kormány visszavonja a KÖZOP-4.5.0-09-11-2015-0001 azonosító számú („MAHART Mobil Árvízvédelmi Gát” című) projektjavaslat támogatásának jóváhagyásáról, akciótervi nevesítéséről, és az azzal kapcsolatos kötelezettség vállalásáról szóló 1595/2015. (IX. 4.) Korm. határozatot.
+## 2–3.[^2]
 
 1. melléklet az 1926/2015. (XII. 12.) Korm. határozathoz
+
+[^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
