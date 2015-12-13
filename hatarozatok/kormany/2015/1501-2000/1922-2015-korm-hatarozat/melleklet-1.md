@@ -20,39 +20,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat 1. melléklet
-
-## a) 5.2.1. pontjában foglalt táblázat
-
-## aa) A:3 mezőjében a „28,05” szövegrész helyébe a „28,03” szöveg,
-
-## ab) B:3 mezőjében a „64,09” szövegrész helyébe a „63,58” szöveg,
-
-## ac) C:3 mezőjében a „122,63” szövegrész helyébe a „123,28” szöveg,
-
-## ad) D:3 mezőjében a „214,76” szövegrész helyébe a „214,89” szöveg,
-
-## ae) A:4–D:4 mezőjében a „120,93” szövegrész helyébe a „121,06” szöveg,
-
-## b) 5.2.2. pontjában foglalt táblázat
-
-## ba) A:3 mezőjében a „258,18” szövegrész helyébe a „260,82” szöveg,
-
-## bb) B:3 mezőjében a „18,10” szövegrész helyébe a „15,59” szöveg,
-
-## bc) C:3 mezőjében a „276,28” szövegrész helyébe a „276,41” szöveg,
-
-## c) 5.3.1. pontjában foglalt táblázat
-
-## ca) C:3 mezőjében a „28,05” szövegrész helyébe a „28,03” szöveg,
-
-## cb) D:4 mezőjében a „64,09” szövegrész helyébe a „63,58” szöveg,
-
-## cc) E:5 mezőjében a „82,63” szövegrész helyébe a „83,28” szöveg,
-
-## d) 5.3.3. pontjában a „120,93” szövegrész helyébe a „121,06” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1922/2015. (XII. 11.) Korm. határozathoz
 
@@ -61,3 +29,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatása (Ft) | Többlettámogatás (Ft) | Projekt megnövelt támogatása (Ft) | Projekt rövid bemutatása |
 
 | 2. | KEOP- 5.6.0/E/15-2015- 0044 | Energiamegtakarítást célzó beruházás az Albert Schweitzer Kórház-Rendelőintézetben | Albert Schweitzer Kórház- Rendelőintézet | 324 153 500 | 130 000 000 | 454 153 500 | A projekt célja a támogatást igénylő meglévő, elavult képalkotó diagnosztikai eszközeinek új röntgenberendezésekre történő cseréjével egyrészt az energia felhasználásának csökkentése, másrészt az intézmény eszközparkjának modernizálása. A pályázat keretében cserélni kívánt eszközökön felül a támogatást igénylő további meglévő és elavult képalkotó diagnosztikai eszközöket kíván cserélni az alábbi berendezésekre: – 1 db felvételező digitális átvilágító röntgen és kiértékelő, – 1 db digitális C-íves átvilágító röntgen. |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
