@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Kazah Köztársaság között a kölcsönös bűnügyi jogsegélyről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
