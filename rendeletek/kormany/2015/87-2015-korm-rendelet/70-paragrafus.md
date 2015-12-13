@@ -1,3 +1,3 @@
-## 69. §[^80]
+## 69. §[^80] A Nyugat-magyarországi Egyetem Öveges Kálmán Gyakorló Általános Iskola fenntartói jogát 2016. január 1-jével a Nyugat-magyarországi Egyetemtől a Széchenyi István Egyetem jogutódlással veszi át.
 
-[^80]: A 69. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 345/2015. (XI. 19.) Korm. rendelet 85. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 90. § 6. pontja.
+[^80]: A 69. §-t újonnan a 395/2015. (XII. 12.) Korm. rendelet 13. §-a iktatta be.

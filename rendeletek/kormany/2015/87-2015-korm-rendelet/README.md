@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2015-08-15 | 2015-87-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-08-16 | 2015-87-20-22.4 | 2010: CXXX. törvény |
 | 2015-11-27 | 2015-87-20-22.5 | 345/2015. (XI. 19.) Korm. rendelet |
+| 2015-12-13 | 2015-87-20-22.6 | 395/2015. (XII. 12.) Korm. rendelet |
