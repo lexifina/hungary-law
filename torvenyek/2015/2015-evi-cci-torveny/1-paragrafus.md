@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Koszovói Köztársaság Kormánya között a kölcsönös bűnügyi jogsegélyről szóló szerződés (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
