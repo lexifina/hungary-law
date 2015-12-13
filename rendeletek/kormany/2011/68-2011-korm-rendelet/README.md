@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-68-20-2
 | 2014-02-10 | 2011-68-20-22.7 | 27/2014. (II. 7.) Korm. rendelet |
 | 2014-08-01 | 2011-68-20-22.8 | 27/2014. (II. 7.) Korm. rendelet |
 | 2014-09-05 | 2011-68-20-22.9 | 450/2013. (XI. 28.) Korm. rendelet |
+| 2015-12-13 | 2011-68-20-22.10 | 398/2015. (XII. 12.) Korm. rendelet |

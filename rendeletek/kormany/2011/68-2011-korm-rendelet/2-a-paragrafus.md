@@ -1,10 +1,10 @@
-2/A. §[^7] (1)[^8] A Társaságot – a 2. § (4) bekezdése szerinti feladatok kivételével – a miniszter felügyeli. A Társaság a 2. § (4) bekezdése szerinti feladatok tekintetében nem utasítható.
+2/A. §[^8] (1)[^9] A Társaságot – a 2. § (4) bekezdése szerinti feladatok kivételével – a miniszter felügyeli. A Társaság a 2. § (4) bekezdése szerinti feladatok tekintetében nem utasítható.
 
-(2)[^9] A miniszter a Társaság felügyelete és szakmai irányítása körében különösen az alábbi feladatokat látja el:
+(2)[^10] A miniszter a Társaság felügyelete és szakmai irányítása körében különösen az alábbi feladatokat látja el:
 
 a) normatív utasításban rendelkezik a Társaság és az általa működtetett Irodák szervezetére és működésére, valamint tevékenységére vonatkozó alapvető szabályokról,
 
-b)[^10] jóváhagyja a Társaság szervezeti és működési szabályzatát és az éves munkatervét,
+b)[^11] jóváhagyja a Társaság szervezeti és működési szabályzatát és az éves munkatervét,
 
 c) általános iránymutatást ad az Irodák működésével kapcsolatban,
 
@@ -16,7 +16,7 @@ f) jóváhagyja az Irodákra vonatkozó stratégiai döntéseket,
 
 g) egyéb, az Irodák tevékenységét érintő szakmai döntést hoz.
 
-[^7]: A 2/A. §-t a 36/2013. (II. 14.) Korm. rendelet 2. §-a iktatta be.
-[^8]: A 2/A. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 194/2014. (VII. 31.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^9]: A 2/A. § (2) bekezdés nyitó szövegrésze a 194/2014. (VII. 31.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^10]: A 2/A. § (2) bekezdés b) pontja a 27/2014. (II. 7.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2/A. §-t a 36/2013. (II. 14.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 2/A. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 194/2014. (VII. 31.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^10]: A 2/A. § (2) bekezdés nyitó szövegrésze a 194/2014. (VII. 31.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^11]: A 2/A. § (2) bekezdés b) pontja a 27/2014. (II. 7.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

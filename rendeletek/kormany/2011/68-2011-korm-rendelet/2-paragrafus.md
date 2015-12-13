@@ -6,7 +6,9 @@
 
 (3a)[^4] A Társaság 2014. január 1-jétől ellátja a 2007–2013 programozási időszakhoz kapcsolódóan a miniszter és a Társaság közötti – az egyes operatív programok technikai segítségnyújtás keretéből finanszírozott – szerződésben rögzített, az európai uniós támogatásban részesülő, nem a támogatási szerződésben vállaltaknak megfelelően előrehaladó projektek projektfelügyeleti rendszerének kialakítását és működtetését.
 
-(4)[^5] A Társaság ellátja
+(3b)[^5] A Társaság részt vesz a 2014–2020 programozási időszak vonatkozásában az egyes európai uniós alapokból származó támogatások felhasználásával összefüggő feladatok ellátásában, különös tekintettel a támogatást igénylők és a kedvezményezettek segítésére, kapacitásának fejlesztésére, valamint a projektfelügyeleti rendszer működtetésére a projektek tervezése és megvalósítása során.
+
+(4)[^6] A Társaság ellátja
 
 a) a Közreműködő Szervezet és a Testvértelepülés és Partnerség Pályázati Alap Támogatásközvetítő Szervezet feladatait a Svájci–Magyar Együttműködési Program tekintetében,
 
@@ -26,11 +28,12 @@ h) az európai szomszédsági és partnerségi támogatási eszköz létrehozás
 
 i) a nemzeti kapcsolattartó pont feladatokat az INTERACT 2 Operatív Program tekintetében.
 
-(5)[^6] A Társaság részt vesz az egyes komplex térségfejlesztési nemzeti programokkal (BOR-VIDÉK Tokaj-Hegyalja Nemzeti Program, Tisza-tó Nemzeti Program, Ős-Dráva Program) kapcsolatos feladatellátásban, koordinációban, működteti az egyes nemzeti programok végrehajtását támogató programirodákat.
+(5)[^7] A Társaság részt vesz az egyes komplex térségfejlesztési nemzeti programokkal (BOR-VIDÉK Tokaj-Hegyalja Nemzeti Program, Tisza-tó Nemzeti Program, Ős-Dráva Program) kapcsolatos feladatellátásban, koordinációban, működteti az egyes nemzeti programok végrehajtását támogató programirodákat.
 
 [^1]: A 2. § a 36/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 194/2014. (VII. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 27/2014. (II. 7.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (3a) bekezdését 450/2013. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 564. §-a szerint módosított szöveg.
-[^5]: A 2. § (4) bekezdése a 194/2014. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: A 2. § (5) bekezdését a 27/2014. (II. 7.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^5]: A 2. § (3b) bekezdését a 398/2015. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2. § (4) bekezdése a 194/2014. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § (5) bekezdését a 27/2014. (II. 7.) Korm. rendelet 9. § (4) bekezdése iktatta be.
