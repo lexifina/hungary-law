@@ -1,1 +1,0 @@
-8. § Hatályát veszti a Hjt.-nek a honvédek jogállásáról szóló 2012. évi CCV. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2015. évi XLIII. törvény 47. § (1) bekezdésével megállapított 247/C. §-a.
