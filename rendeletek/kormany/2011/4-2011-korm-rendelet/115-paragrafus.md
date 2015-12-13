@@ -14,9 +14,9 @@
 
 (4)[^510] A (3) bekezdés szerinti közreműködő szervezet az irányító hatósággal kötött teljesítményalapú finanszírozási szerződésben, illetve az irányító hatóság vezetője által kijelölt szervezeti egység finanszírozásának vonatkozásában a Miniszterelnökség által kiadott támogatói okiratban rögzített feladatmegosztás és feladatátadás alapján, bármely operatív program valamennyi prioritása végrehajtásában történő – az operatív programokban, illetve rendszerleírásokban rögzített munkamegosztást nem érintő – kiegészítő közreműködéssel is megbízható.
 
-(5)[^511] A Közép-dunántúli Operatív Program 2007–2008-as Akcióterve keretében a 2. Regionális turizmusfejlesztés és 3. Fenntartható településfejlesztés prioritások esetében a közreműködő szervezeti feladatokat a Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. látja el.
+(5)[^511]
 
 [^508]: A 114/I. §-t a 323/2015. (X. 30.) Korm. rendelet 6. § (5) bekezdése iktatta be.
 [^509]: A 115. § (1) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 43. pontja, a 304/2015. (X. 19.) Korm. rendelet 1. § c) pontja, a 368/2015. (XII. 2.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^510]: A 115. § (4) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^511]: A 115. § (5) bekezdése a 96/2014. (III. 25.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^511]: A 115. § (5) bekezdését a 397/2015. (XII. 12.) Korm. rendelet 2. §-a hatályon kívül helyezte.

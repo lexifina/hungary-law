@@ -30,7 +30,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 6 | Közlekedés Operatív Program | nemzeti fejlesztési miniszter | – |
 
-| 7 | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés | nemzetgazdasági miniszter | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft. |
+| 7 | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés | nemzetgazdasági miniszter | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
 
 | 8 | Turisztikai célú fejlesztések |
 
@@ -40,7 +40,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 11 | Térségfejlesztési akciók |
 
-| 12 | Dél-dunántúli Operatív Program | A városi térségek fejlesztésére alapozott versenyképes gazdaság megteremtése | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 12 | Dél-dunántúli Operatív Program | A városi térségek fejlesztésére alapozott versenyképes gazdaság megteremtése | Dél-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
 
 | 13 | A turisztikai potenciál erősítése a régióban |
 
@@ -50,7 +50,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 16 | Az elérhetőség javítása és környezetfejlesztés |
 
-| 17 | Észak-alföldi Operatív Program | Regionális gazdaságfejlesztés | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 17 | Észak-alföldi Operatív Program | Regionális gazdaságfejlesztés | Észak-alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
 
 | 18 | Turisztikai célú fejlesztés |
 
@@ -60,7 +60,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 21 | Város- és térségfejlesztés |
 
-| 22 | Észak-magyarországi Operatív Program | Versenyképes helyi gazdaság megteremtése | NORDA Észak- magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 22 | Észak-magyarországi Operatív Program | Versenyképes helyi gazdaság megteremtése | NORDA Észak- magyarországi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
 
 | 23 | A turisztikai potenciál erősítése |
 
@@ -70,7 +70,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 26 | Térségi közlekedés fejlesztése |
 
-| 27 | Közép-dunántúli Operatív Program | Regionális gazdaságfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 27 | Közép-dunántúli Operatív Program | Regionális gazdaságfejlesztés |  | Közép-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
 
 | 28 | Regionális turizmusfejlesztés |
 
@@ -80,7 +80,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 31 | Humán-infrastruktúra fejlesztés |
 
-| 32 | Nyugat- dunántúli Operatív Program | Regionális gazdaságfejlesztés | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft. |
+| 32 | Nyugat- dunántúli Operatív Program | Regionális gazdaságfejlesztés | Nyugat-dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
 
 | 33 | Turizmusfejlesztés - Pannon örökség megújítása |
 
@@ -124,4 +124,4 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 53 | Végrehajtás Operatív Program | az európai uniós források felhasználásáért felelős miniszter | – |
 
-[^588]: A 3. melléklet a 96/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 9. pontja szerint módosított szöveg. [A 127/2014. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével elrendelt módosítás nem volt átvezethető.]
+[^588]: A 3. melléklet a 96/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 9. pontja, a 397/2015. (XII. 12.) Korm. rendelet 1. §-a szerint módosított szöveg. [A 127/2014. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével elrendelt módosítás nem volt átvezethető.]
