@@ -1,3 +1,0 @@
-5. § A Cstv. a következő 83/O. §-sal egészül ki:
-
-„83/O. § E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2015. évi CXCIII. törvénnyel (a továbbiakban: 2015. évi CXCIII. törvény) megállapított 6. § (3) bekezdés b) pont bd) alpontját, 12. § (6) és (7) bekezdését, 26. § (5) bekezdését, 27. § (7) és (8) bekezdését, 38/A. §-át, 49/D. § (1) bekezdését, valamint 57. § (2) bekezdés j) pontját a 2015. évi CXCIII. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
