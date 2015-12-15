@@ -1,0 +1,333 @@
+# A Kormány 405/2015. (XII. 15.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 196. szám, 2015. december 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9f3c1fed0c7cb237262a19035f7b9723e0c26677/dokumentumok/7ffa6da1f30e80f29d5db6d43f74d1fec773d4a9/letoltes)
+
+---
+
+A Kormány 405/2015. (XII. 15.) Korm. rendelete
+egyes iparszabályozási tárgyú kormányrendeletek módosításáról
+A Kormány
+a mérésügyről szóló 1991. évi XLV. törvény 15. § (3) bekezdés a) és f) pontjában,
+a 2. alcím és a 2. melléklet tekintetében a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 30. pontjában,
+a 3. alcím tekintetében a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 13. § (1) bekezdés
+d) pontjában
+kapott felhatalmazás alapján,
+a 4. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet módosítása
+1. §
+A mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet (a továbbiakban: R1.) 2. számú
+melléklete az 1. melléklet szerint módosul.
+2. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.)
+Korm. rendelet módosítása
+2. §
+A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet
+(a továbbiakban: R2.) 3. számú melléklete a 2. melléklet szerint módosul.
+3. A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági
+hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet módosítása
+3. § (1) A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló
+320/2010. (XII. 27.) Korm. rendelet (a továbbiakban: R3.) 12. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A Kormány műszaki biztonsági hatóságként országos illetékességgel – az alábbi ügyfajták tekintetében – első
+fokon a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki:
+a) az egyes hegesztett szerkezetek gyártását, szerelését, átalakítását és javítását végző gazdálkodó szervezetek
+nyilvántartásba vételével,
+b) a tartályok, tároló létesítmények és berendezéseik gyártását és a tartályokhoz kapcsolódó helyszíni technológiai
+szerelést, a tartályok javítását, átalakítását, tisztítását, szivárgásvizsgálatát, időszakos vizsgálatát végző gazdálkodó
+szervezetek nyilvántartásba vételével,
+c) a földgázellátásról szóló 2008. évi XL. törvény 118/A. §-a alkalmazásában a turista használatú palackba történő
+PB-gáz-átfejtési tevékenység engedélyezésével,
+d) a gázpalackokkal kapcsolatos rendkívüli események kivizsgálásával,
+
+e) az egyes hegesztett szerkezetek gyártását, szerelését, átalakítását és javítását végző gazdálkodó szervezetek
+alkalmasságát igazoló szervezetek kijelölésével és felügyeletével,
+f) a tartályok, tároló létesítmények és berendezéseik gyártását és a tartályokhoz kapcsolódó helyszíni technológiai
+szerelést, a tartályok javítását, szivárgásvizsgálatát, átalakítását, tisztítását, időszakos vizsgálatát végző gazdálkodó
+szervezetek alkalmasságát igazoló szervezetek kijelölésével és felügyeletével,
+g) az üzemanyag töltőállomásokon szénhidrogén emisszió mérését, a pisztolygáz visszavezető és gázinga
+rendszerek beállítását végző szervezetek kijelölésével és felügyeletével,
+h) a nyomástartó berendezés kezelője, a nyomástartó berendezés vizsgálója és a nyomástartó edény gépész
+(ha a munkáltató nem elosztói, szállítói vagy tárolói engedélyes), a tartályvizsgáló, a tartálytisztító, valamint
+a felvonó- és mozgólépcső ellenőr, továbbá a földgázellátásban műszaki biztonsági szempontból jelentős
+munkakörök esetében szükséges felkészítő tanfolyam és továbbképzés képzési programjának jóváhagyásával,
+i) a felvonó- és mozgólépcső ellenőrök nyilvántartásba vételével, a nyilvántartott szervezetekkel, valamint
+a felvonók, mozgólépcsők és mozgójárdák országos nyilvántartásának vezetésével,
+j) a műszaki-biztonsági hatósági felügyelet alatt álló, cseppfolyós propán-, butángázok és ezek elegyei tárolására
+szolgáló, legfeljebb 13 000 l össztérfogatú nyomástartó berendezések és kriogén tartályok létesítésének tervezésére,
+létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére
+vonatkozó műszaki-biztonsági irányítási rendszert működtető ellenőrző szervezet nyilvántartásba vételével és
+felügyeletével,
+k) a műszaki biztonsági szempontból jelentős ipari szakképesítés (nyomástartó berendezés kezelője, nyomástartó
+berendezés vizsgálója, tartálytisztító, tartályvizsgáló) megszerzéséhez szükséges vizsgakötelezettség teljesítéséhez
+igénybe vehető hatósági jellegű képzés programjának jóváhagyásával és a képzési tevékenység felügyeletével
+kapcsolatos eljárásokban.”
+(2) Az R3.15. § (1) bekezdése a következő l) ponttal egészül ki:
+(A Hivatal)
+„l) ellátja a veszélyes áruk szállítására használt nyomástartó tartályok, tartányok vonatkozásában
+megfelelőségértékelési tevékenységet végző szervek kijelölésével kapcsolatos feladatokat.”
+(3) Az R3. a következő 18. §-sal egészül ki:
+„18. § A Kormány a pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek
+forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé
+történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet (a továbbiakban: Rendelet) szerinti online pénztárgép
+forgalmazási engedély iránti kérelemmel kapcsolatban – annak elbírálása kérdésében, hogy a kérelemmel együtt
+előterjesztett etalon példány a Rendelet 5. § (2) bekezdésében, valamint 3–10. mellékleteiben meghatározott
+adóügyi és adójogi követelményeknek megfelel-e – a Nemzeti Adó- és Vámhivatalt szakhatóságként jelöli ki.”
+4. §
+Az R3. 24. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A 18. §-nak az egyes iparszabályozási tárgyú kormányrendeletek módosításáról szóló 405/2015. (XII. 15.)
+Korm. rendelettel (a továbbiakban: Mód Kr4.) megállapított rendelkezéseit a Mód Kr4. hatálybalépését követően
+indult eljárásokban kell alkalmazni.”
+4. A műszaki biztonsági hatóságok műszaki biztonsági tevékenységének és a Magyar Kereskedelmi
+Engedélyezési Hivatal piacfelügyeleti eljárásának részletes szabályairól szóló 321/2010. (XII. 27.)
+Korm. rendelet módosítása
+5. §
+A műszaki biztonsági hatóságok műszaki biztonsági tevékenységének és a Magyar Kereskedelmi Engedélyezési
+Hivatal piacfelügyeleti eljárásának részletes szabályairól szóló 321/2010. (XII. 27.) Korm. rendelet (a továbbiakban:
+R4.) 1. alcíme a következő 4/D. §-sal egészül ki:
+„4/D. § (1) A műszaki-biztonsági hatósági felügyelet alá tartozó, cseppfolyós propán-, butángázok és ezek elegyei
+tárolására szolgáló, legfeljebb 13 000 l össztérfogatú nyomástartó berendezések és kriogén tartályok létesítésének
+tervezésére, létesítésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére
+vonatkozó műszaki-biztonsági irányítási rendszert a műszaki biztonsági hatóság által nyilvántartott szervezet vagy
+természetes személy (a továbbiakban: szervezet) működtethet.
+(2) A műszaki biztonsági hatóság az (1) bekezdésben foglalt műszaki-biztonsági irányítási rendszer működtetésére
+engedélyt ad ki a tevékenységhez kapcsolódó 6. melléklet szerinti személyi, szakmai és tárgyi feltételek alapján.
+Az engedély a jogerőre emelkedésétől számított három évig hatályos.
+
+(3) A műszaki biztonsági hatóság az engedély adatai alapján a szervezetet nyilvántartásba veszi. A műszaki
+biztonsági hatóság évente legalább egy alkalommal ellenőrzi, hogy a nyilvántartott szervezet teljesíti-e
+az engedélyben foglalt követelményeket, és amennyiben nem felel meg ezeknek a követelményeknek a Ket. 94. §-a
+szerinti eljárás eredménytelen lefolytatását követően a műszaki biztonsági hatóság az engedélyt visszavonja és törli
+a szervezetet a nyilvántartásból.”
+6. §
+Az R4. 11. §-a helyébe a következő rendelkezés lép:
+„11. § Felhatalmazást kap az iparügyekért felelős miniszter, hogy
+a) a nyomástartó berendezés, nyomástartó létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és
+megszüntetésének műszaki biztonsági követelményeire, feltételeire és az ehhez kapcsolódó műszaki biztonsági
+hatósági engedélyek kiadásának rendjére, a Műszaki Biztonsági Szabályzatra, a Műszaki Szakbizottság működésére
+és feladataira, valamint az üzemeltetéshez kapcsolódó tevékenységekre jogosító engedélyek kiadásának rendjére,
+a műszaki biztonsági dokumentáció tartalmára, az engedélyesekről vezetett nyilvántartás vezetésére vonatkozó
+szabályokra, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges továbbképzések
+követelményeire, továbbá az engedélyesekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be
+nem tartásának esetén alkalmazandó jogkövetkezményekre,
+b) a szállítható nyomástartó berendezés létesítésének, üzembe helyezésének, üzemeltetésének és
+megszüntetésének műszaki biztonsági követelményeire, feltételeire és az ehhez kapcsolódó műszaki biztonsági
+hatósági engedélyek kiadásának rendjére, a Műszaki Biztonsági Szabályzatra, a Műszaki Szakbizottság működésére
+és feladataira, valamint az üzemeltetéshez kapcsolódó tevékenységekre jogosító engedélyek kiadásának rendjére,
+a műszaki biztonsági dokumentáció tartalmára, az engedélyesekről vezetett nyilvántartás vezetésére vonatkozó
+szabályokra, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges továbbképzések
+követelményeire, továbbá az engedélyesekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be
+nem tartásának esetén alkalmazandó jogkövetkezményekre,
+c) az a) és b) pontban említett nyomástartó berendezés töltésére szolgáló berendezés, valamint a kisteljesítményű
+sűrített gáztöltő berendezés létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének
+műszaki biztonsági követelményeire, feltételeire és az ehhez kapcsolódó műszaki biztonsági hatósági engedélyek
+kiadásának rendjére, valamint az üzemeltetéshez kapcsolódó tevékenységekre jogosító engedélyek kiadásának
+rendjére, a műszaki biztonsági dokumentáció tartalmára, az engedélyesekről vezetett nyilvántartás vezetésére
+vonatkozó szabályokra, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges továbbképzések
+követelményeire, továbbá az engedélyesekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be
+nem tartásának esetén alkalmazandó jogkövetkezményekre,
+d) az éghető gázok tárolására szolgáló, nyomástartó berendezésnek nem minősülő, ipari, mezőgazdasági vagy
+szolgáltatási célú gáztárolók és üzemi berendezés létesítésének, üzembe helyezésének, üzemeltetésének és
+megszüntetésének műszaki biztonsági követelményeire, feltételeire és az ehhez kapcsolódó műszaki biztonsági
+hatósági engedélyek kiadásának rendjére, valamint az üzemeltetéshez kapcsolódó tevékenységekre jogosító
+engedélyek kiadásának rendjére, a műszaki biztonsági dokumentáció tartalmára, az engedélyesekről vezetett
+nyilvántartás vezetésére vonatkozó szabályokra, a műszaki biztonsági szempontból jelentős munkakörök esetén
+szükséges továbbképzések követelményeire, továbbá az engedélyesekre jogszabályban vagy hatósági határozatban
+előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
+e) a gázüzemű közúti jármű, munkagép és nem közúti gép üzemanyag-ellátó berendezés üzembe helyezésének
+és üzemeltetésének műszaki biztonsági követelményeire, feltételeire és az ehhez kapcsolódó műszaki biztonsági
+hatósági engedélyek kiadásának rendjére, valamint az engedélyesekre jogszabályban vagy hatósági határozatban
+előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
+f) a veszélyes áruk szállítására használt nem nyomástartó tartály, tartány, csomagolóeszköz (kivéve az ezek
+szállítására szolgáló szállítóeszköz) üzembe helyezésének és üzemeltetésének műszaki biztonsági követelményeire,
+feltételeire és az ehhez kapcsolódó műszaki biztonsági hatósági engedélyek kiadásának rendjére, valamint
+az engedélyesekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén
+alkalmazandó jogkövetkezményekre,
+
+g) a veszélyes folyadékok és olvadékok – nyomástartó berendezésnek nem minősülő – tárolótartályai és tároló
+létesítményei, valamint azok működéséhez szükséges technológiai, biztonsági berendezés, csővezeték, szerelvény,
+tartozék létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági
+követelményeire, feltételeire és az ehhez kapcsolódó műszaki biztonsági hatósági engedélyek kiadásának rendjére,
+a Műszaki Biztonsági Szabályzatra, a Műszaki Szakbizottság működésére és feladataira, valamint az üzemeltetéshez
+kapcsolódó tevékenységekre jogosító engedélyek kiadásának rendjére, a műszaki biztonsági dokumentáció
+tartalmára, az engedélyesekről vezetett nyilvántartás vezetésére vonatkozó szabályokra, a műszaki biztonsági
+szempontból jelentős munkakörök esetén szükséges továbbképzések követelményeire, továbbá az engedélyesekre
+jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó
+jogkövetkezményekre,
+h) ipari, mezőgazdasági vagy szolgáltatási célú hőfejlesztő-hőhasznosító, gáz- és olajfogyasztó technológia,
+létesítmény létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági
+követelményeire, feltételeire és az ehhez kapcsolódó műszaki biztonsági hatósági engedélyek kiadásának rendjére,
+valamint az üzemeltetéshez kapcsolódó tevékenységekre jogosító engedélyek kiadásának rendjére, a műszaki
+biztonsági dokumentáció tartalmára, az engedélyesekről vezetett nyilvántartás vezetésére vonatkozó szabályokra,
+a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges továbbképzések követelményeire,
+továbbá az engedélyesekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának
+esetén alkalmazandó jogkövetkezményekre,
+i) az a), d), g) és h) pont hatálya alá nem tartozó, ipari, mezőgazdasági vagy szolgáltatási célú, megújuló
+energiaforrást átalakító, biogázt, biodízelt előállító vagy tároló berendezés, létesítmény létesítésének, üzembe
+helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, feltételeire és
+az ehhez kapcsolódó műszaki biztonsági hatósági engedélyek kiadásának rendjére valamint az üzemeltetéshez
+kapcsolódó tevékenységekre jogosító engedélyek kiadásának rendjére, a műszaki biztonsági dokumentáció
+tartalmára, az engedélyesekről vezetett nyilvántartás vezetésére vonatkozó szabályokra, a műszaki biztonsági
+szempontból jelentős munkakörök esetén szükséges továbbképzések követelményeire, továbbá az engedélyesekre
+jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó
+jogkövetkezményekre,
+j) a villamos felhasználói és összekötő berendezések, valamint a potenciálisan robbanásveszélyes közegben
+működő villamos berendezések és védelmi rendszerek üzembe helyezésének műszaki követelményeit tartalmazó
+Műszaki Biztonsági Szabályzatra, a Műszaki Szakbizottság működésére és feladataira, valamint az érintésvédelmi
+szabványossági felülvizsgáló és az erősáramú berendezések felülvizsgálója – mint műszaki biztonsági szempontból
+jelentős munkakörök esetén – szükséges továbbképzések követelményeire,
+k) a hegesztett szerkezet helyszíni gyártásánál, szerelésénél, átalakításánál, javításánál ömlesztőhegesztést végzők
+nyilvántartásba vételének feltételeire és a tevékenység folytatásának részletes szabályaira, a nyilvántartásba vétel
+rendjére, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára,
+és a nyilvántartás vezetésére, valamint az e tevékenységekre jogszabályban vagy hatósági határozatban előírt
+kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
+l) a tartályok, tároló létesítmények és berendezéseik gyártását és a tartályokhoz kapcsolódó helyszíni technológiai
+szerelését, a tartályok javítását, átalakítását, tisztítását, szivárgásvizsgálatát, időszakos vizsgálatát végző
+gazdálkodó szervezetek nyilvántartásba vételének feltételeire és a tevékenység folytatásának részletes szabályaira,
+a nyilvántartásba vétel rendjére, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem
+tartalmazó adattartalmára, és a nyilvántartás vezetésére, valamint az e tevékenységekre jogszabályban vagy
+hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
+m) az adópolitikáért felelős miniszterrel egyetértésben a kijelölt műszaki biztonsági hatóság részére a kérelemre
+indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékére, valamint a díjak fizetésére
+vonatkozó részletes szabályokat rendeletben állapítsa meg.”
+7. §
+Az R4. a következő 12. §-sal egészül ki:
+„12. § A 4/D. § a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek való megfelelést szolgálja.”
+8. §
+Az R4. a 3. melléklet szerinti 6. melléklettel egészül ki.
+
+5. Záró rendelkezések
+9. §
+Az 5. § a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek való megfelelést szolgálja.
+10. §
+Ez a rendelet a kihirdetését követő harmincadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 405/2015. (XII. 15.) Korm. rendelethez
+1. Az R1. 2. számú mellékletében foglalt táblázat 21. sora helyébe a következő rendelkezés lép:
+[Sorszám Megnevezés
+A hitelesítés hatálya
+(év)]
+„
+21. a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól
+szóló jogszabály végrehajtását biztosító, folyékony halmazállapotú jövedéki
+termékek raktározási és tárolási folyamatai során a minőség és mennyiség
+megállapítását adóügyi ellenőrzés céljából szolgáló I/5 pontban nem szereplő
+eszközök
+a) tartály első hitelesítés 5
+b) tartály további hitelesítés 15
+c) tároló- és szállítótartályban használt tartályszintmérő készülék 2
+d) szeszmérőgép 10
+e) szeszfokmérő korlátlan
+”
+2. Hatályát veszti az R1. 2. számú mellékletében foglalt táblázat 5. sor b) pontja és 23. sora.
+2. melléklet a 405/2015. (XII. 15.) Korm. rendelethez
+Az R2. 3. számú melléklet 6.2. pontja helyébe a következő rendelkezés lép:
+„6.2. A hálózati engedélyes nyilatkozata arra vonatkozóan, hogy a közcélú hálózat a vonatkozó műszaki-biztonsági
+követelményeknek megfelel.
+A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát,
+a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot illető vezetékjog (szolgalmi jog) bejegyzéséhez
+szükséges változási vázrajzot az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes
+szabályairól szóló rendelet szerint kell elkészíteni.”
+3. melléklet a 405/2015. (XII. 15.) Korm. rendelethez
+„6. melléklet a 321/2010. (XII. 27.) Korm. rendelethez
+A 4/D. §-ban meghatározott szervezetekre vonatkozó követelmények
+I.
+Szervezeti feltétel: A nyilvántartott szervezet legalább az alábbi egységekből áll:
+1. Felügyelet: jóváhagyási feladatokat látja el és ellenőrzi a szervezet működését.
+2. Vizsgáló szervezet: a nyomástartó berendezések időszakos vizsgálatát végzi.
+
+II.
+Személyi, szakmai feltétel: a Felügyelet vezetője feleljen meg az alábbi képzettségi és jártassági követelményeknek:
+1. Műszaki egyetemi (főiskolai) diploma (oklevél).
+2. Legalább 5 év szakirányú gyakorlat.
+III.
+Tárgyi feltételek:
+1. A szervezet rendelkezzen a tevékenységi területre vonatkozó szabványokkal és egyéb műszaki előírásokkal.
+2. A szervezetnek legyen belső szabályzata a nyomástartó berendezések állandó helyen való létesítés, más helyre
+történő áttelepítés, a létesítés feltételeinek megváltoztatása, a megszüntetés eljárásaira és az alkalmazott
+dokumentum mintáira.
+3. A szervezet rendelkezzen az MSZ EN ISO/IEC 17020:2012 szabványnak megfelelő B-típusú ellenőrző szervezetként
+akkreditált szerv akkreditációval a következő területeken:
+a) robbanásveszélyes térségek különböző védelmi módú villamos berendezései, üzemi jelző és
+reteszrendszerek, irányítástechnikai berendezések, biztonsági szelepek, nyomástartó berendezések és
+rendszerek, hegesztés, felületvédelem (korrózióvédelem), nyomástartó rendszerek, túlnyomás elleni
+védelmet ellátó szerelvények megfelelő működésének ellenőrzése;
+b) nyomástartó berendezések, rendszerek műszaki biztonsági megfelelőségének időszakos ellenőrzése.
+IV.
+A szervezetre vonatkozó általános követelmények:
+1. A nyomástartó berendezések állandó helyen való létesítésének, más helyre történő áttelepítésének, a létesítési
+feltételek megváltoztatásának, a megszüntetésnek jóváhagyását és ellenőrzését a Felügyelet végzi.
+2. A nyomástartó berendezések időszakos és soron kívüli vizsgálatait a Vizsgáló szervezet végezi.
+3. Az üzemeltető részére előírt feladatok közül a szervezetre átruházott feladatokat az üzemeltetőnek és
+a szervezetnek együtt írásba kell foglalnia.
+4. A szervezet a nyilvántartásba vétel tartalmát vagy feltételeit érintő bekövetkezett minden változást vagy eltérést
+köteles bejelenteni a műszaki biztonsági hatóságnak.
+5. A szervezetnek a hatáskörébe tartozó nyomástartó berendezésekről nyilvántartást kell vezetnie.
+6. A szervezet a műszaki biztonsági hatóság által előírt nyilvántartási adatokba online betekintést biztosít és kérésre
+további adatot szolgáltat.
+7. A szervezet köteles
+a) az időszakos ellenőrzést a ciklusidők szerint, és a műszaki biztonsági előírások betartásával végezni; minden
+időszakos ellenőrzésről bizonylatot kiállítani, amely tartalmazza az ellenőrzés módszerét, eredményét és
+a következő ellenőrzés esedékességének időpontját;
+b) a nyilvántartást naprakészen vezetni, amely tartalmazza:
+ba) az elvégzett időszakos ellenőrzése, vizsgálatok módját, időpontját, eredményét, a következő
+időszakos ellenőrzés időpontját és módját,
+bb) a javítás, átalakítás után elvégzett soron kívüli ellenőrzések módját, időpontját, eredményét;
+c) a felügyeleti ellenőrzéséhez a műszaki biztonsági hatóságnak minden ellenőrzési adatot, információt
+rendelkezésre bocsátani;
+d) a műszaki biztonsági hatóság által végzett ellenőrzéseken képviselő útján részt venni; a hatósági
+ellenőrzésekhez és a rendkívüli események vizsgálatához a nyomástartó berendezések nyilvántartásait és
+dokumentumait a műszaki biztonsági hatóság rendelkezésére bocsátani.
+V.
+A Felügyeletre vonatkozó sajátos követelmények:
+1. A Felügyelet csak saját vállalkozása tulajdonában álló berendezések állandó helyen való létesítésének, más helyre
+történő áttelepítésének, a létesítési feltételek megváltoztatásának, a megszüntetésnek jóváhagyását és ellenőrzését
+végzi.
+2. A Felügyelet ellenőrzi az üzemeltető által benyújtott dokumentumokat, és ha az előírásoknak megfelel, jóváhagyja
+azokat.
+VI.
+A Vizsgáló szervezetre vonatkozó sajátos követelmények:
+1. A Vizsgáló szervezet
+a) csak saját vállalkozása tulajdonában álló berendezéseken végez ellenőrzést;
+b) a vállalkozás különálló és szervezetileg azonosítható része;
+
+c) személyzete független az ítélet alkotását befolyásoló hatásoktól, különösen az elvégzett ellenőrzések
+eredményében érdekelt külső személyek és szervezetek hatásától;
+d) rendelkezik az ellenőrzés műszaki és adminisztratív feladatainak szakszerű elvégzéséhez szükséges
+személyzettel, felszereléssel és a feladatai ellátásához szükséges tevékenységeket tartalmazó eljárásokkal.
+A személyzete képes a műszaki követelményeknek való megfelelés megítélésére, valamint az ellenőrzések
+dokumentálására;
+e) vezetője felsőfokú szakirányú végzettséggel, valamint megfelelő gyakorlati tapasztalattal rendelkezik;
+f) személyzete az elvégzendő ellenőrzésekhez szükséges szakképzettségekkel, a vonatkozó előírások kielégítő
+ismeretével, és megfelelő gyakorlati tapasztalattal rendelkezik;
+g) közvetlenül nem érintett az általa ellenőrzött nyomástartó és töltő berendezések tervezésében, gyártásában,
+forgalmazásában, szerelésében, üzemeltetésében és karbantartásában.
+2. A Vizsgáló szervezet és személyzete nem végezhet olyan tevékenységet, amely befolyásolhatja az ellenőrző
+tevékenységgel kapcsolatos ítéletalkotásuk függetlenségét és a megvesztegethetetlenségüket. A személyzete
+legyen független az ítéletalkotásukat befolyásolható üzleti, pénzügyi és egyéb hatásoktól, különösen a szervezetre
+kívülről ható azon személyek és szervezetek hatásától, akik, illetőleg amelyek az elvégzett ellenőrzések
+eredményében érdekeltek.
+3. A Vizsgáló szervezet rendelkezzen az ellenőrzés műszaki és adminisztratív feladatainak szakszerű elvégzéséhez
+szükséges személyzettel és felszereléssel, auditált minőségbiztosítási rendszert működtessen. Biztosítsa
+a különleges ellenőrzések elvégzéséhez szükséges eszközöket is.
+4. A Vizsgáló szervezet műszaki vezetője felsőfokú szakirányú végzettséggel és legalább 3 év szakmai gyakorlattal
+rendelkezzen. Az ellenőrzésre illetékes személyzete (a vizsgáló szakember) az elvégzendő ellenőrzésekhez
+szükséges szakképzettséggel, a vonatkozó előírások kielégítő ismeretével, és e téren legalább 3 éves szakmai
+gyakorlattal rendelkezzen. A biztonság magas szintjének szavatolására a szervezetnek a nyomástartó berendezések
+biztonsága terén kellő szakismerete legyen. A személyzet legyen alkalmas az általános követelményeknek való
+megfelelés szakszerű megítélésére a vizsgálati eredmények és azok jegyzőkönyvei alapján. Ugyanígy legyen
+alkalmas az ellenőrzések megtörténtét igazoló szükséges feljegyzések és jegyzőkönyvek készítésére.
+5. A Vizsgáló szervezet személyzete kellően ismerje az általuk ellenőrzött nyomástartó berendezések
+gyártástechnológiáit, az ellenőrzésre használt vagy használni tervezett eljárásokat, valamint a használat vagy
+karbantartás során esetleg keletkező meghibásodásokat.
+6. A Vizsgáló szervezet és személyzete a legnagyobb gondossággal köteles végezni az értékeléseket és az igazoló
+ellenőrzéseket. Az ellenőrző szervezet köteles az ellenőrző tevékenysége során szerzett értesüléseit bizalmasan
+kezelni. A titoktartási kötelezettség nem áll fenn a műszaki biztonsági hatósággal szemben.
+7. Az ellenőrzést végző személyek javadalmazása nem függhet sem közvetlenül az elvégzett ellenőrzések számától,
+sem az ellenőrzések eredményétől.
+8. A Vizsgáló szervezet és személyzete nem lehet a szervezet által ellenőrzött nyomástartó berendezés tervezője,
+gyártója, forgalmazója, üzemeltetője vagy szerelője, sem pedig ezek meghatalmazott képviselője. Nem
+lehetnek közvetlenül érintettek nyomástartó berendezések tervezésében, gyártásában, forgalmazásában vagy
+karbantartásában, és nem képviselhetik az ilyen tevékenységekben érintett feleket. Ez a feltétel nem gátolhatja
+a berendezés gyártója és a szervezet között a műszaki információcsere lehetőségét.”
