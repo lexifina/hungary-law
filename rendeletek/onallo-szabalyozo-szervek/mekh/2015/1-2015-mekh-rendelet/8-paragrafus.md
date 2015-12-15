@@ -12,9 +12,9 @@
 
 (3)[^8] Az engedélyesek a tárgyévre vonatkozó, rendelkezésre álló tény vagy becsült mennyiségi, kapacitáslekötési, valamint a 2. § (2) bekezdés d) pontja szerinti adók mértékére vonatkozó adatokat havi bontásban a tárgyévet megelőző év november 15-ig a Hivatal rendelkezésére bocsátják.
 
-(4) Az előzetes havi kiegyenlítő fizetés kapacitásdíjból származó mértéke megegyezik
+(4)[^9] Az előzetes havi kiegyenlítő fizetés kapacitásdíjból származó 2. melléklet szerinti mértéke megegyezik
 
-a)[^9] az engedélyesek tárgyévet megelőző és tárgyévi – amennyiben ilyen nem áll rendelkezésre, a tárgyévi adatokból a Hivatal által megállapított – kapacitáslekötési adataival számított 2. § (2) bekezdés d) és e) pontjai szerint csökkentett tárgyévi várható árbevétel 1/12-ed részének és
+a) az engedélyesek tárgyévet megelőző és tárgyévi – amennyiben ilyen nem áll rendelkezésre, a tárgyévi adatokból a Hivatal által megállapított – kapacitáslekötési adataival számított 2. § (2) bekezdés d) és e) pontjai szerint csökkentett tárgyévi várható árbevétel 1/12-ed részének és
 
 b) az árszabályozási rendelet szerint kiszámított (indexált), a kapacitásdíj számításának alapjául szolgáló tárgyévi indokolt árbevétel-igény 1/12-edének
 
@@ -35,7 +35,7 @@ b) az árszabályozási rendelet szerint kiszámított (indexált), a kapacitás
 [^6]: A 7. § a 4/2015. (VII. 27.) MEKH rendelet 3. §-ával megállapított szöveg.
 [^7]: A 8. § (2) bekezdése a 4/2015. (VII. 27.) MEKH rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^8]: A 8. § (3) bekezdése a 4/2015. (VII. 27.) MEKH rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^9]: A 8. § (4) bekezdés a) pontja a 4/2015. (VII. 27.) MEKH rendelet 9. § d) pontja szerint módosított szöveg.
+[^9]: A 8. § (4) bekezdése a 14/2015. (XII. 11.) MEKH rendelet 1. §-ával megállapított szöveg.
 [^10]: A 8. § (7) bekezdése a 4/2015. (VII. 27.) MEKH rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^11]: A 8. § (8) bekezdése a 4/2015. (VII. 27.) MEKH rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^12]: A 8. § (9) bekezdése a 4/2015. (VII. 27.) MEKH rendelet 4. § (2) bekezdésével megállapított szöveg.
