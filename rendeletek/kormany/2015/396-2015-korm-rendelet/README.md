@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-396-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-15 | 2015-396-20-22.1 | 396/2015. (XII. 12.) Korm. rendelet |
+| 2015-12-16 | 2015-396-20-22.2 | 2010: CXXX. törvény |

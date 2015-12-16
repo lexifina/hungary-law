@@ -1,4 +1,4 @@
-## 63. § Hatályát veszti a 2014–2020-as programozási időszakban a transznacionális és interregionális együttműködési programok végrehajtási intézményeiről szóló 126/2014. (IV. 10.) Korm. rendelet.
+## 63. §[^1]
 
 1. melléklet a 396/2015. (XII. 12.) Korm. rendelethez
 
@@ -23,3 +23,5 @@ A 2014–2020 programozási időszakban a transznacionális és interregionális
 | 8. | hitelesítési tevékenységre kijelölt szervezet | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | – | – | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
 | 9. | az együttműködési program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | településfejlesztésért és településrendezésért felelős miniszter |
+
+[^1]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
