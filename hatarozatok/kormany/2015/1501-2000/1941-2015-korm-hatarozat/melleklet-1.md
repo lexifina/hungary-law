@@ -6,7 +6,7 @@
 
 ## Határidő: 2015. december 31-ig folyamatos
 
-## 3. visszavonja a Nemzeti Kutatási, Fejlesztési és Innovációs Alap 2015. évi programstratégiájának jóváhagyásáról szóló 1262/2015. (IV. 30.) Korm. határozatot.
+## 3.[^1]
 
 1. melléklet az 1941/2015. (XII. 15.) Korm. határozathoz
 
@@ -55,3 +55,5 @@ A Nemzeti Kutatási, Fejlesztési és Innovációs Alapból 2015. évben meghird
 | 2015. évi új kötelezettség | 6,514 |  |  |
 
 | 2015. évi pályázatok keretösszege | 28,719 |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) pontja alapján hatályát vesztette.
