@@ -1,0 +1,3 @@
+## 4. § Az R. 13. §-a helyébe a következő rendelkezés lép:
+
+## „13. § A titkos információgyűjtéssel összefüggő tevékenység végzésében, valamint a 2. § c) és d) pontjában, a 3. § (3) bekezdés h) pontjában, illetve az Eht. 92. § (5) bekezdésében meghatározott rendszer, berendezés telepítésében, üzemeltetésében, rendszerfelügyeletében, javításában, karbantartásában az a személy vehet részt, aki az Nbtv.-ben meghatározott nemzetbiztonsági ellenőrzésen megfelelt és rendelkezik az elektronikus hírközlési szolgáltató vezető tisztségviselője által az NBSZ egyetértésével kiadott megbízással. A megbízást írásba kell foglalni.”
