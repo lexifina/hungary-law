@@ -1,4 +1,4 @@
-## 16. §[^17] Ha a 2. § c) pontjában meghatározott rendszerrel az elektronikus hírközlési szolgáltató belső feladatvégzését támogató, de a titkos információgyűjtés fogalomkörébe nem tartozó technikai – ellenőrzési, statisztikai, üzembiztonsági és egyéb célból szükséges – funkciók is megvalósíthatók, azokat az elektronikus hírközlési szolgáltató kizárólag abban az esetben használhatja önállóan, ha az a titkos információgyűjtést nem veszélyezteti, illetéktelen hozzáférést nem eredményez, és elkülönített interfészeken keresztül valósul meg.
+## 16. §[^18] Ha a 2. § c) pontjában meghatározott rendszerrel az elektronikus hírközlési szolgáltató belső feladatvégzését támogató, de a titkos információgyűjtés fogalomkörébe nem tartozó technikai – ellenőrzési, statisztikai, üzembiztonsági és egyéb célból szükséges – funkciók is megvalósíthatók, azokat az elektronikus hírközlési szolgáltató kizárólag abban az esetben használhatja önállóan, ha az a titkos információgyűjtést nem veszélyezteti, illetéktelen hozzáférést nem eredményez, és elkülönített interfészeken keresztül valósul meg.
 
 ## Az együttműködés részletes szabályai
 
@@ -14,9 +14,9 @@ b) a kapcsolattartás szintjeit és módját;
 
 c) a 3. § (3) bekezdésében meghatározottak igénylésének és biztosításának módját és rendjét;
 
-d)[^18] az elektronikus hírközlési hálózat- és szolgáltatásfejlesztéssel, illetve a 2. § c) pontja szerinti rendszer létesítésével és fejlesztésével kapcsolatos tájékoztatási és egyeztetési eljárás szabályait;
+d)[^19] az elektronikus hírközlési hálózat- és szolgáltatásfejlesztéssel, illetve a 2. § c) pontja szerinti rendszer létesítésével és fejlesztésével kapcsolatos tájékoztatási és egyeztetési eljárás szabályait;
 
-e)[^19]
+e)[^20] az Eht. 156. § (16) és (17) bekezdése szerinti helymeghatározási adatok továbbítására alkalmas rendszer létesítési és üzemeltetési feltételeit;
 
 f) az adat- és titokvédelmi szabályok érvényesítésének, az alkalmazott technikai eszközök és megoldások védelmének módját;
 
@@ -24,7 +24,7 @@ g) az elektronikus hírközlési szolgáltató részéről közreműködő alkal
 
 h) az együttműködési megállapodásban foglaltak teljesülésének, időszakonkénti értékelésének és felülvizsgálatának rendjét;
 
-i)[^20] az Eht. 92. §-ának (6) bekezdésében szabályozott adatszolgáltatás rendjét;
+i)[^21] az Eht. 92. §-ának (6) bekezdésében szabályozott adatszolgáltatás rendjét;
 
 j) a költségtérítési igények kielégítésének és egyéb ellentételezések biztosításának módját, az elszámolás rendjét; továbbá
 
@@ -36,7 +36,7 @@ k) minden olyan feltételt, eljárást, amelyet az a)–j) pontokon túlmenően 
 
 (6) Amennyiben a felek valamelyik együttműködési kérdésben nem tudnak megállapodni, úgy bármelyikük kérheti a Nemzeti Hírközlési Hatóság Elnökétől (a továbbiakban: NHH Elnöke) egyeztetési eljárás lefolytatását.
 
-[^17]: A 16. § a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^18]: A 17. § (3) bekezdésének d) pontja a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^19]: A 17. § (3) bekezdésének e) pontját a 38/2008. (II. 23.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
-[^20]: A 17. § (3) bekezdésének i) pontja a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^18]: A 16. § a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^19]: A 17. § (3) bekezdésének d) pontja a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 17. § (3) bekezdésének e) pontját a 38/2008. (II. 23.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan a 403/2015. (XII. 15.) Korm. rendelet 6. §-a iktatta be.
+[^21]: A 17. § (3) bekezdésének i) pontja a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.

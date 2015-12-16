@@ -18,10 +18,13 @@ e) külön megrendelés esetén 24 órás (váltásos) ügyeletet vagy készenl�
 
 f) lehetővé tenni, hogy a szaktechnikai eszközök elhelyezésére szolgáló zárt helyre az NBSZ meghatalmazással rendelkező alkalmazottai bármely időpontban beléphessenek, ott szükség szerint munkát végezzenek, szaktechnikai eszközt helyezzenek, illetve távolítsanak el;
 
-g) elektronikus hírközlő hálózatán bérelt-vonali összeköttetéseket térítés mellett használatra átengedni.
+g) elektronikus hírközlő hálózatán bérelt-vonali összeköttetéseket térítés mellett használatra átengedni;
+
+h)[^5] az Eht. 156. § (16) és (17) bekezdése szerinti helymeghatározási adatok továbbítására alkalmas rendszert az Eht. 156. § (18) bekezdésében meghatározottaknak megfelelően az NBSZ által előírt technikai szempontok szerint létesíteni és üzemeltetni.
 
 (4) Az elektronikus hírközlési szolgáltató nem végezhet olyan rendszer-, illetve szolgáltatásfejlesztést, valamint nem hajthat végre olyan szervezeti átalakítást, amely a titkos információgyűjtést kizárja, vagy más módon ellehetetleníti.
 
 [^2]: A 3. § (1) bekezdése a 38/2008. (II. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^3]: A 3. § (2) bekezdése a 38/2008. (II. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: A 3. § (3) bekezdésének b) pontja a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdés h) pontját a 403/2015. (XII. 15.) Korm. rendelet 2. §-a iktatta be.
