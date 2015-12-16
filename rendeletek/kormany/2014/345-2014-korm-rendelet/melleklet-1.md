@@ -1,6 +1,6 @@
-## 23–36. §[^1]
+## 23–36. §[^18]
 
-1. melléklet a 345/2014. (XII. 23.) Korm. rendelethez
+1. melléklet a 345/2014. (XII. 23.) Korm. rendelethez[^19]
 
 | 1. | A | B |
 
@@ -66,6 +66,8 @@
 
 | 32. | 20 | major |
 
+| 32a. | 136 | majorság |
+
 | 33. | 45 | mélyút |
 
 | 34. | 47 | negyed |
@@ -112,6 +114,8 @@
 
 | 55. | 2 | tér |
 
+| 55a. | 137 | tere |
+
 | 56. | 35 | tető |
 
 | 57. | 11 | udvar |
@@ -140,4 +144,5 @@
 
 | 69. | 38 | zug |
 
-[^1]: A 23–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 23–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 1. melléklet a 404/2015. (XII. 15.) Korm. rendelet 10. §-a szerint módosított szöveg.

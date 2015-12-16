@@ -10,4 +10,8 @@ b) ellenőrzi, hogy az ingatlan szerepel-e az ingatlan-nyilvántartásban.
 
 (4) A címképzésért felelős szerv a járási földhivatal határozatában feltüntetett ingatlan-nyilvántartási azonosító kódot, a címkoordinátákat és a címhez kapcsolódó postai irányítószámot rögzíti a központi címregiszterben.
 
+(4a)[^10] Amennyiben a (4) bekezdésben foglalt ingatlan-nyilvántartási adatok a cím bejegyzése időpontjában még nem állnak rendelkezésre, úgy a címképzésért felelős szerv a 2. § (1) bekezdés f) pontjában meghatározott esetben a címet ezen adatok nélkül veszi nyilvántartásba és annak kiegészítése érdekében haladéktalanul megkeresi a külön jogszabályban meghatározott hatáskörrel rendelkező szervet.
+
 (5) A címképzésért felelős szerv a címkezeléssel érintett címeket a helyi önkormányzat honlapján közzéteszi, ennek hiányában vagy emellett hirdetőtábláján kifüggeszti vagy más, helyben szokásos módon közzéteszi, úgy, hogy az legalább a kifüggesztésétől vagy közzétételétől számított egy hónapig folyamatosan megtekinthető legyen.
+
+[^10]: A 8. § (4a) bekezdését a 404/2015. (XII. 1.) Korm. rendelet 5. §-a iktatta be.

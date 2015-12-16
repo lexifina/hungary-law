@@ -18,7 +18,7 @@
 
 8. közterületjelleg: az 1. melléklet szerinti jelleg, amely a közterületnévhez kapcsolódik,
 
-9. közterületnév: a magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló kormányrendelet szerinti közterületnév és a tanya neve a közterületjelleg nélkül,
+9.[^1] közterületnév: a magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló 303/2007. (XI. 14.) Korm. rendelet vonatkozó rendelkezései szerint megállapított közterületnév, továbbá az elnevezett magánút neve és a 13. § (3) bekezdésében foglalt ingatlan neve a közterületjelleg nélkül,
 
 10. lépcsőház jele: egy épületben létesített több lépcsőház megkülönböztetését szolgáló megjelölés,
 
@@ -30,6 +30,9 @@
 
 14. telek: az épített környezet alakításáról és védelméről szóló törvény szerinti telek,
 
-15. település neve: a község, nagyközség, város, megyei jogú város, főváros utótag nélküli rövid elnevezése,
+15.[^2] település neve: a község, város, megyei jogú város, főváros utótag nélküli rövid elnevezése,
 
 16. településrésznév: a magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló kormányrendelet szerinti településrésznév (helységrésznév).
+
+[^1]: Az 1. § 9. pontja a 404/2015. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 15. pontja a 404/2015. (XII. 15.) Korm. rendelete 1. § (2) bekezdésével megállapított szöveg.
