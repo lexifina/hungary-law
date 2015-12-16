@@ -1,0 +1,3 @@
+## 1. § A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet [a továbbiakban: 22/2012. (II. 29.) Korm. rendelet] 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény (a továbbiakban: Hhvtv.) 13. § (2) bekezdésében, 14. § (2) és (4) bekezdésében, 16. § (6) bekezdésében, 19. § (2) bekezdésében, 40. § (1) bekezdésében, 42. § (1) és (4) bekezdésében, 46. § (7) bekezdésében, 61. § (2) bekezdés k) pontjában, valamint – az állami alkalmazásban álló halászati őr tekintetében – az 56. § (2), (4), (5) és (9) bekezdésében foglaltak tekintetében a Kormány elsőfokú halgazdálkodási hatóságként a NÉBIH-et jelöli ki.”
