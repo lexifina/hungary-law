@@ -8,9 +8,9 @@ b) a biomassza termelő, a biomassza kereskedő és a biomassza feldolgozó jele
 
 c) a BÜHG nyilvántartás vezetését,
 
-d)[^77] az auditorokra vonatkozó nyilvántartás vezetését.
+d)[^79] az auditorokra vonatkozó nyilvántartás vezetését.
 
-(1a)[^78] A mezőgazdasági igazgatási szerv által vezetett, az (1) bekezdés d) pontjában meghatározott nyilvántartás tartalmazza
+(1a)[^80] A mezőgazdasági igazgatási szerv által vezetett, az (1) bekezdés d) pontjában meghatározott nyilvántartás tartalmazza
 
 a) a nyilvántartásba vett auditor regisztrációs számát,
 
@@ -20,5 +20,5 @@ c) a nyilvántartásba vétel kezdő és lejárati időpontját.
 
 (2) A vámhatóság látja el az üzemanyag-forgalmazóra vonatkozó kötelezettségek ellenőrzését, amelyhez a mezőgazdasági igazgatási szervtől adatot kérhet.
 
-[^77]: A 15. § (1) bekezdés d) pontját a 348/2013. (IX. 30.) Korm. rendelet 13. § (1) bekezdése iktatta be.
-[^78]: A 15. § (1a) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^79]: A 15. § (1) bekezdés d) pontját a 348/2013. (IX. 30.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^80]: A 15. § (1a) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 13. § (2) bekezdése iktatta be.
