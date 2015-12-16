@@ -1,6 +1,6 @@
-## 10. [^81] A halgazdálkodási hatósági eljárásokban közreműködő szakhatóságok
+## 10. [^82] A halgazdálkodási hatósági eljárásokban közreműködő szakhatóságok
 
-29. § (1)[^82] A Kormány
+29. § (1)[^83] A Kormány
 
 a) a védett természeti területen, Natura 2000 területen található halgazdálkodási vízterületen vagy annak egy részén az őshonos halfajokra meghatározott tilalmi idő megrövidítésére és a tilalmi idő alóli felmentés engedélyezésére irányuló,
 
@@ -22,8 +22,8 @@ i) a védett természeti területen található halgazdálkodási vízterületen
 
 ## másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget természetvédelmi szakhatóságként jelöli ki.
 
-(2)[^83] A Kormány a halgazdálkodási terv jóváhagyására, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására, valamint a halgazdálkodási terv hivatalból történő módosítására irányuló másodfokú eljárásban vízilétesítmény esetén az Országos Vízügyi Hatóságot vízügyi és vízvédelmi szakhatóságként jelöli ki.
+(2)[^84] A Kormány a halgazdálkodási terv jóváhagyására, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására, valamint a halgazdálkodási terv hivatalból történő módosítására irányuló másodfokú eljárásban vízilétesítmény esetén az Országos Vízügyi Hatóságot vízügyi és vízvédelmi szakhatóságként jelöli ki.
 
-[^81]: A 10. alcím (29. §) a 323/2013. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^82]: A 29. § (1) bekezdés záró szövegrésze a 42/2014. (II. 24.) Korm. rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^83]: A 29. § (2) bekezdése a 42/2014. (II. 24.) Korm. rendelet 15. § (3) bekezdés b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 639. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^82]: A 10. alcím (29. §) a 323/2013. (VIII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^83]: A 29. § (1) bekezdés záró szövegrésze a 42/2014. (II. 24.) Korm. rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^84]: A 29. § (2) bekezdése a 42/2014. (II. 24.) Korm. rendelet 15. § (3) bekezdés b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 639. § (2) bekezdés a) pontja szerint módosított szöveg.
