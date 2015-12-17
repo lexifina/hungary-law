@@ -2,7 +2,7 @@
 
 ## Általános rendelkezések
 
-## 1.[^72] A Tszt. 52. § (1) bekezdésében meghatározott Távhőszolgáltatási Közüzemi Szabályzat (a továbbiakban: TKSz) tartalmazza a távhőszolgáltató, a felhasználó és a díjfizető, továbbá a felhasználó képviselője és a díjfizető közötti közüzemi jogviszony általános szabályait.
+## 1.[^74] A Tszt. 52. § (1) bekezdésében meghatározott Távhőszolgáltatási Közüzemi Szabályzat (a továbbiakban: TKSz) tartalmazza a távhőszolgáltató, a felhasználó és a díjfizető, továbbá a felhasználó képviselője és a díjfizető közötti közüzemi jogviszony általános szabályait.
 
 ## 2.1. E szabályzat alkalmazásában:
 
@@ -34,7 +34,7 @@
 
 ## 2.1.4.2. épületrészenkénti mérés szerinti távhőszolgáltatás esetén a felhasználói vezeték-hálózaton elhelyezett hiteles hőmennyiségmérő felhasználó felőli oldala;
 
-## 2.1.5–2.1.6.[^73]
+## 2.1.5–2.1.6.[^75]
 
 ## 2.1.7. fűtési időszak: az év szeptember 15. napja és a következő év május 15. napja közötti időszak;
 
@@ -154,7 +154,7 @@
 
 ## 12.3. Ha a felhasználó az igénybejelentésében nagyobb hőteljesítmény igényt jelentett be, mint amennyit a közüzemi szerződésében lekötött, és a csatlakozási díjat aszerint fizette meg, jogosult a bejelentett és a le nem kötött hőteljesítmény közötti különbözet erejéig a le nem kötött hőteljesítményre vonatkozó igény fenntartására. Ha a felhasználó által le nem kötött és fenn nem tartott hőteljesítmény-igény különbözetre más felhasználó igényt tart, és az igényével arányos csatlakozási díjat a távhőszolgáltatónak megfizette, a távhőszolgáltató köteles az előző felhasználó részére a le nem kötött és általa fenn nem tartott hőteljesítmény-igény utáni csatlakozási díjat visszafizetni.
 
-## 12.4.[^74] A felhasználó képviselőjének jogállását a társasházakról szóló 2003. évi CXXXIII. törvény, a lakásszövetkezetről rendelkező 2004. évi CXV. törvény, egyéb esetben a Ptk. 6:272–280. §-a szabályozzák.
+## 12.4.[^76] A felhasználó képviselőjének jogállását a társasházakról szóló 2003. évi CXXXIII. törvény, a lakásszövetkezetről rendelkező 2004. évi CXV. törvény, egyéb esetben a Ptk. 6:272–280. §-a szabályozzák.
 
 ## 12.5. A felhasználó képviselője köteles a távhőszolgáltatónak átadott minden információt dokumentálni és a társasházi, illetve lakásszövetkezeti iratokkal együtt megőrizni.
 
@@ -222,7 +222,7 @@
 
 ## 18.6. A 18.1–18.3. és 18.5. pontokban foglalt kötelezettség akkor terheli a távhőszolgáltatót, ha a felhasználó tulajdonában lévő felhasználói berendezés ezt lehetővé teszi, vagy a felhasználó a tulajdonában lévő felhasználói berendezés szükséges műszaki átalakítását biztosítja.
 
-## 18.7.[^75] A távhőszolgáltató köteles évente kétszer – a felhasználó kérésére vagy elektronikus számlázás esetén negyedévente – világos, közérthető módon a rendszeresen kibocsátott számlán vagy ahhoz csatoltan feltüntetni:
+## 18.7.[^77] A távhőszolgáltató köteles évente kétszer – a felhasználó kérésére vagy elektronikus számlázás esetén negyedévente – világos, közérthető módon a rendszeresen kibocsátott számlán vagy ahhoz csatoltan feltüntetni:
 
 ## 18.7.1. a távhő tényleges, aktuális értékesítési árát és az elszámolt időszakra vonatkozó tényleges fogyasztást, elszámoló számla esetén a nyitó és a záró fogyasztásmérő-állásokkal együtt,
 
@@ -232,25 +232,25 @@
 
 ## 18.7.4. a felhasználók részére az átlagos energiafogyasztással történő összehasonlítást, vagy az összehasonlítási lehetőség elérhetőségét.
 
-## 18.8.[^76] Ha a felhasználó, illetve a díjfizető a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől számított második naptól alkalmazhatók.
+## 18.8.[^78] Ha a felhasználó, illetve a díjfizető a számla ellenértékét a pénzforgalmi szolgáltatást nyújtónál fizetési számlára történő készpénzbefizetéssel egyenlíti ki, a fizetési késedelem jogkövetkezményei legkorábban a késedelembe eséstől számított második naptól alkalmazhatók.
 
 ## 19.1. Hőközponti mérés esetén a távhőszolgáltató a szolgáltatás díját a közüzemi szerződés rendelkezéseinek megfelelően a felhasználó vagy a díjfizetők részére számlázza.
 
-## 19.2.[^77] Abban az esetben, ha a felhasználó épületrészenkénti díjmegosztást igényel [Tszt. 44. § (1) bekezdés], a távhőszolgáltató köteles azt a felhasználó által az e rendelet 17/A–17/H. §-a alapján meghatározott, és a távhőszolgáltató részére megadott díjmegosztási arányoknak megfelelően végrehajtani.
+## 19.2.[^79] Abban az esetben, ha a felhasználó épületrészenkénti díjmegosztást igényel [Tszt. 44. § (1) bekezdés], a távhőszolgáltató köteles azt a felhasználó által az e rendelet 17/A–17/H. §-a alapján meghatározott, és a távhőszolgáltató részére megadott díjmegosztási arányoknak megfelelően végrehajtani.
 
-## 19.3–19.6.[^78]
+## 19.3–19.6.[^80]
 
 ## 20.1. Épületrészenkénti mérés esetén a távhőszolgáltató az épületrész távhőellátásának díját az egyes felhasználóknak, valamint a díjfizetőknek számlázza.
 
 ## 20.2. A távhőszolgáltató épületrészenkénti mérés esetén – eltérő megállapodás hiányában – az átadott hőmennyiséget a hőköpontban vagy hőfogadó állomáson is mérheti. Ebben az esetben a hőközpontban mért hőmennyiség és az egyes felhasználók épületrészeiben mért hőmennyiségek összessége közötti különbözet tekintetében az épület tulajdonosi közössége minősül felhasználónak, amennyiben ez a különbözet nem tartalmazza más, épületrészenkénti méréssel mért ingatlanrész felhasználását.
 
-## 20.3.[^79] Ha az elszámolás eredményeként a felhasználó vagy a díjfizető folyószámláján túlfizetés mutatkozik, a felhasználó, vagy a díjfizető eltérő kérésének hiányában, a távhőszolgáltató
+## 20.3.[^81] Ha az elszámolás eredményeként a felhasználó vagy a díjfizető folyószámláján túlfizetés mutatkozik, a felhasználó, vagy a díjfizető eltérő kérésének hiányában, a távhőszolgáltató
 
 ## a) 1 000 forintot meg nem haladó összeg esetében a díjfizetőt megillető összeget a felhasználó vagy a díjfizető következő számlájában számolja el,
 
 ## b) 1 000 forintot meghaladó összeg esetében a díjfizető fizetési módja szerinti módon a számla kibocsátásától számított 8 napon belül köteles a felhasználónak vagy a díjfizetőnek visszafizetni.
 
-## 20.4.[^80] A távhőszolgáltató köteles felhasználó és a díjfizető számára az elektronikus számlázás lehetőségét térítésmentesen biztosítani. Elektronikus számlázás esetén a számla tartalma és fogyasztási adatokról való tájékoztatási kötelezettség – jogszabályban eltérő rendelkezése hiányában – megegyezik a nyomtatott számla tartalmával és a nyomtatott számla esetében előírt tájékoztatási kötelezettséggel.
+## 20.4.[^82] A távhőszolgáltató köteles felhasználó és a díjfizető számára az elektronikus számlázás lehetőségét térítésmentesen biztosítani. Elektronikus számlázás esetén a számla tartalma és fogyasztási adatokról való tájékoztatási kötelezettség – jogszabályban eltérő rendelkezése hiányában – megegyezik a nyomtatott számla tartalmával és a nyomtatott számla esetében előírt tájékoztatási kötelezettséggel.
 
 ## 21.1. A felhasználó személyében bekövetkezett változást a régi és az új felhasználó írásban köteles a távhőszolgáltatónak a felhasználó személyében bekövetkezett változástól számított 15 napon belül bejelenteni. A távhőszolgáltató a bejelentést követő 15 napon belül köteles az új felhasználó részére a közüzemi szerződés megkötésére írásban ajánlatot tenni.
 
@@ -276,7 +276,7 @@
 
 ## 26.2. A Tszt. 11. §-ában, valamint az e szabályzatban meghatározott tájékoztatási kötelezettséget, valamint a számlázással kapcsolatos felvilágosítást a távhőszolgáltató az ügyfélszolgálati tevékenység keretében vagy – ahol a feltételek rendelkezésre állnak – elektronikus úton teljesíti. A távhőszolgáltató az ügyfélszolgálat munkarendjét úgy köteles meghatározni, hogy az a felhasználók és díjfizetők részére legalább heti egy alkalommal a szokásos munkaidőn túl is elérhető legyen.
 
-## 26.3.[^81] A távhőszolgáltató a 17/I. § szerinti honlapon, valamint a helyben szokásos módon köteles közzétenni:
+## 26.3.[^83] A távhőszolgáltató a 17/I. § szerinti honlapon, valamint a helyben szokásos módon köteles közzétenni:
 
 ## 26.3.1. az üzletszabályzatot;
 
@@ -292,19 +292,19 @@
 
 ## 26.3.7. jelen rendelet 4. mellékletében meghatározott információkat, (az egyes táblázatokat a 4. mellékletben meghatározott módon).
 
-## 26.3.8.[^82] a működési területén működő, az épületek energetikai jellemzőinek tanúsítását végző energetikai tanúsítók, valamint az energetikai auditálást végző személyek elérhetőségét, továbbá az energiahatékonyság javítását célzó intézkedések, programok hozzáférhetőségét, valamint
+## 26.3.8.[^84] a működési területén működő, az épületek energetikai jellemzőinek tanúsítását végző energetikai tanúsítók, valamint az energetikai auditálást végző személyek elérhetőségét, továbbá az energiahatékonyság javítását célzó intézkedések, programok hozzáférhetőségét, valamint
 
-## 26.3.9.[^83] a működési területén működő, energetikai fogyasztói tanácsadó vagy érdekvédelmi szervezetek elérhetőségét (beleértve internetes honlapjuk elérhetőségét), amelyek tájékoztatást nyújthatnak energiahatékonyságot javító intézkedésekről és programokról, az energiafogyasztásra vonatkozó referenciaértékekről, valamint az energiával működő berendezések fogyasztáscsökkentésével kapcsolatos leírásokról.
+## 26.3.9.[^85] a működési területén működő, energetikai fogyasztói tanácsadó vagy érdekvédelmi szervezetek elérhetőségét (beleértve internetes honlapjuk elérhetőségét), amelyek tájékoztatást nyújthatnak energiahatékonyságot javító intézkedésekről és programokról, az energiafogyasztásra vonatkozó referenciaértékekről, valamint az energiával működő berendezések fogyasztáscsökkentésével kapcsolatos leírásokról.
 
 ## 26.4. A felhasználók, illetve díjfizetők részére kiállított számlán fel kell tüntetni a távhőszolgáltató honlapjának elérhetőségi adatait, továbbá annak a hőközpontnak a honlapon szereplő azonosító adatait, melynél lehetőség van a felhasználó által igényelt távhő teljesítmény befolyásolására.
 
-## 26.5.[^84] A távhőszolgáltató köteles a felhasználót a 26.3.8. és 26.3.9. pontja szerinti információkról szerződéskötés és szerződésmódosítás során tájékoztatni.
+## 26.5.[^86] A távhőszolgáltató köteles a felhasználót a 26.3.8. és 26.3.9. pontja szerinti információkról szerződéskötés és szerződésmódosítás során tájékoztatni.
 
-## 26.6.[^85] A felhasználót és a díjfizetőt megilleti az a jog, hogy fogyasztási adataira vonatkozóan térítésmentesen tájékoztatást kapjon az őt ellátó távhőszolgáltatótól.
+## 26.6.[^87] A felhasználót és a díjfizetőt megilleti az a jog, hogy fogyasztási adataira vonatkozóan térítésmentesen tájékoztatást kapjon az őt ellátó távhőszolgáltatótól.
 
-## 26.7.[^86] A távhőszolgáltató köteles a felhasználó kérésére, a felhasználó által megjelölt, a felhasználó adataira vonatkozó rendelkezésre álló számlázási és fogyasztási adatokat – a felhasználói tájékoztatás keretében – a felhasználó által megjelölt energiahatékonysági szolgáltató számára 15 napon belül megadni.
+## 26.7.[^88] A távhőszolgáltató köteles a felhasználó kérésére, a felhasználó által megjelölt, a felhasználó adataira vonatkozó rendelkezésre álló számlázási és fogyasztási adatokat – a felhasználói tájékoztatás keretében – a felhasználó által megjelölt energiahatékonysági szolgáltató számára 15 napon belül megadni.
 
-## 26. 8.[^87] A távhőszolgáltató köteles az érintett felhasználó és a díjfizető részére külön díjfizetés nélkül
+## 26. 8.[^89] A távhőszolgáltató köteles az érintett felhasználó és a díjfizető részére külön díjfizetés nélkül
 
 ## a) a 18. 7. pont szerinti számlát kiállítani és rendelkezésre bocsátani, valamint
 
@@ -320,22 +320,22 @@
 
 4. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez
 
-Gazdálkodásra vonatkozó gazdasági és műszaki információk[^88]
+Gazdálkodásra vonatkozó gazdasági és műszaki információk[^90]
 
-[^72]: A Vhr. 3. számú melléklet 1. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^73]: A Vhr. 3. számú melléklet 2.1.5.–2.1.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^74]: A Vhr. 3. melléklet 12.4. pontja az 53/2014. (III. 3.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^75]: A Vhr. 3. számú melléklet 18.7. pontját a 64/2009. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^76]: A Vhr. 3. melléklet 18.8. pontját a 116/2010. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
-[^77]: A Vhr. 3. számú melléklet 19.2. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^78]: A Vhr. 3. számú melléklet 19.3.–19.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^79]: A Vhr. 3. melléklet 20.3. pontját a 110/2014. (IV. 1.) Korm. rendelet 1. §-a iktatta be.
-[^80]: A Vhr. 3. melléklet 20.4. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
-[^81]: A Vhr. 3. melléklet 26.3. pontja a 378/2011. (XII. 31.) Korm. rendelet 82. §-a szerint módosított szöveg.
-[^82]: A Vhr. 3. számú melléklet 26.3. pont 26.3.8. alpontját a 64/2009. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^83]: A Vhr. 3. melléklet 26.3.9. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
-[^84]: A Vhr. 3. melléklet 26.5. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
-[^85]: A Vhr. 3. melléklet 26.6. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
-[^86]: A Vhr. 3. melléklet 26.7. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
-[^87]: A Vhr. 3. melléklet 26.8. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
-[^88]: Megjegyzés: az I-XI. jelű táblázatok honlapon történő közzététele kötelező, a VII-XI. jelű táblázatok esetében oly módon, hogy biztosítani kell a hőközpontonkénti egyedi lekérdezés lehetőságét.
+[^74]: A Vhr. 3. számú melléklet 1. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^75]: A Vhr. 3. számú melléklet 2.1.5.–2.1.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^76]: A Vhr. 3. melléklet 12.4. pontja az 53/2014. (III. 3.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^77]: A Vhr. 3. számú melléklet 18.7. pontját a 64/2009. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^78]: A Vhr. 3. melléklet 18.8. pontját a 116/2010. (IV. 15.) Korm. rendelet 1. §-a iktatta be.
+[^79]: A Vhr. 3. számú melléklet 19.2. pontja a 104/2011. (VI. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^80]: A Vhr. 3. számú melléklet 19.3.–19.6. pontját a 104/2011. (VI. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^81]: A Vhr. 3. melléklet 20.3. pontját a 110/2014. (IV. 1.) Korm. rendelet 1. §-a iktatta be.
+[^82]: A Vhr. 3. melléklet 20.4. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
+[^83]: A Vhr. 3. melléklet 26.3. pontja a 378/2011. (XII. 31.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^84]: A Vhr. 3. számú melléklet 26.3. pont 26.3.8. alpontját a 64/2009. (III. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^85]: A Vhr. 3. melléklet 26.3.9. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
+[^86]: A Vhr. 3. melléklet 26.5. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
+[^87]: A Vhr. 3. melléklet 26.6. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
+[^88]: A Vhr. 3. melléklet 26.7. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
+[^89]: A Vhr. 3. melléklet 26.8. pontját a 123/2015. (V. 26.) Korm. rendelet 8. §-a iktatta be.
+[^90]: Megjegyzés: az I-XI. jelű táblázatok honlapon történő közzététele kötelező, a VII-XI. jelű táblázatok esetében oly módon, hogy biztosítani kell a hőközpontonkénti egyedi lekérdezés lehetőságét.
