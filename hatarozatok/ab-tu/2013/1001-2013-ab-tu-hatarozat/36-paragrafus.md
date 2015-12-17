@@ -1,6 +1,6 @@
 ## 35. § Az alkotmányjogi panasz eljárásban indítvány-kiegészítést az érdemi tervezetnek a testület általi tárgyalásra kitűzéséig lehet benyújtani, ezt követően új ügyként kell elbírálni.
 
-36. §[^16] (1) Az Alkotmánybíróság az indítványok érdemében az Abtv. 57. § (1) bekezdése alapján a rendelkezésre álló iratok alapján dönt, ennek során a törvényben meghatározott véleményt, meghallgatás eredményét, illetve az ügy eldöntéséhez szükséges, az Abtv.-ben meghatározott bármelyik bizonyítási eszközt felhasználhatja.
+36. §[^19] (1) Az Alkotmánybíróság az indítványok érdemében az Abtv. 57. § (1) bekezdése alapján a rendelkezésre álló iratok alapján dönt, ennek során a törvényben meghatározott véleményt, meghallgatás eredményét, illetve az ügy eldöntéséhez szükséges, az Abtv.-ben meghatározott bármelyik bizonyítási eszközt felhasználhatja.
 
 (2) Az Abtv. 57. § (1b)–(1c) bekezdésében foglalt véleményezési eljárás céljából az Alkotmánybíróság a törvénnyel, kormányrendelettel vagy más, a személyek széles körét érintő jogszabállyal összefüggésben az indítványt, illetve az indítványban foglalt alkotmányossági kérelem lényegét [Abtv. 52. § (1a) bekezdés b)–c) pontja, illetve (1b) bekezdés c)–e) pontja] az Abtv. 57. § (1a) bekezdése szerint közzéteszi, valamint az Abtv. 27. §-a szerinti eljárásban közzéteheti. A közzététel során a személyes adatokat – az érintett rendelkezése alapján, illetve ennek hiányában – törölni kell, ha azok közérdekből nem nyilvánosak.
 
@@ -20,4 +20,4 @@
 
 (10) Az előadó alkotmánybíró vagy a testület döntése esetén bármely állami szerv, társadalmi szervezet, alapítvány, illetve egyház írásban ismertetheti az Alkotmánybírósággal az üggyel kapcsolatos jogi álláspontját, amennyiben ezt az Alkotmánybíróságtól kérelmezte.
 
-[^16]: A 36. § az 1003/2013. (XII. 21.) AB TÜ. határozat 4. §-ával megállapított szöveg, e módosító határozat 12. § (2) bekezdése alapján a 2014. január 1-jén folyamatban lévő eljárások tekintetében is alkalmazandók.
+[^19]: A 36. § az 1003/2013. (XII. 21.) AB TÜ. határozat 4. §-ával megállapított szöveg, e módosító határozat 12. § (2) bekezdése alapján a 2014. január 1-jén folyamatban lévő eljárások tekintetében is alkalmazandók.
