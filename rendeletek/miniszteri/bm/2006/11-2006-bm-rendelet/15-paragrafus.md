@@ -4,10 +4,10 @@
 
 (3) Ha az eljárás alá vont képviseletével a szerv állományába tartozó személyt bíz meg, a képviselőt az ezzel kapcsolatos feladatainak ellátása idejére a szolgálat alól mentesíteni kell.
 
-(4)[^30] Ha a fegyelmi eljárást a Tv. 210. § (1) bekezdés a)–d), illetve f)–h) pontja alapján megszüntetik, az erről szóló határozatban fel kell hívni az eljárás alá vont figyelmét a képviselettel kapcsolatos költségek visszatérítésének lehetőségére.
+(4)[^30] Ha a fegyelmi eljárást a Tv. 210. § (1) bekezdés a)–d), illetve f)–g) pontja alapján megszüntetik, az erről szóló határozatban fel kell hívni az eljárás alá vont figyelmét a képviselettel kapcsolatos költségek visszatérítésének lehetőségére.
 
 (5) Az eljárás alá vont jogi képviselettel kapcsolatos költségeit csak akkor lehet megtéríteni, ha azt számlával igazolja. Ügyvédi munkadíjaként legfeljebb a bírósági eljárásban megállapítható ügyvédi költségekről szóló 32/2003. (VIII. 22.) IM rendelet 3. §-ának (3) bekezdésében meghatározott összeget lehet elszámolni.
 
 [^28]: A 15. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 18. pontja szerint módosított szöveg.
 [^29]: A 15. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 18. pontja szerint módosított szöveg.
-[^30]: A 15. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^30]: A 15. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 12. pontja, a 68/2015. (XII. 16.) BM rendelet 5. § a) pontja szerint módosított szöveg.
