@@ -52,12 +52,12 @@ g) sportágában elláthatja a sportág fogyatékosok sportjával összefüggő 
 
 h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni.
 
-(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatóság eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései alapján.
+(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatóság eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései alapján.
 
 (3a) A szakszövetség gazdálkodásával összefüggő, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti közérdekű vagy közérdekből nyilvános adatok megismerésére vonatkozó igények a nem állami, nem önkormányzati támogatások tekintetében összesített adattartalom szolgáltatásával is teljesíthetőek.
 
 (4) A látvány-csapatsportban működő szakszövetség által a (2) bekezdés f) pont fa) és fb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
-(5) A (2) bekezdés f) pontja alapján végzett közigazgatási hatósági feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(5) A (2) bekezdés f) pont fa) és fb) alpontja alapján végzett közigazgatási hatósági eljárásokért és igazgatási jellegű szolgáltatások igénybevételéért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 (6) A sportág céljainak elérése érdekében – összhangban a sportág stratégiai fejlesztési koncepciójában foglaltakkal – a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a versenyrendszer (bajnokság) kiírásával, szervezésével, lebonyolításával, valamint a versenyrendszerben (bajnokságban) szervezett sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.

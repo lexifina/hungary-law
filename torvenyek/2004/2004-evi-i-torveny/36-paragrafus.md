@@ -1,4 +1,4 @@
-36. § (1) A sporttevékenység, illetve a sportversenyek (mérkőzések) televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (pl. internet) történő közvetítésének, rögzítésének és ezek kereskedelmi célú hasznosításának engedélyezése, továbbá a versenyrendszer (bajnokság) kiírása, szervezése, lebonyolítása vagyoni értékű jogot képez.
+36. § (1) A sporttevékenység, illetve a sportversenyek (mérkőzések) televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (pl. internet) történő közvetítésének, rögzítésének és ezek kereskedelmi célú hasznosításának – beleértve a reklám és marketingjogokat is – engedélyezése, továbbá a versenyrendszer kiírása, szervezése, lebonyolítása vagyoni értékű jogot képez.
 
 (2) A közvetítések engedélyezésének vagyoni értékű jogaival kapcsolatos szabályokat megfelelően alkalmazni kell a sporttevékenységgel kapcsolatos más vagyoni értékű jogokra is.
 

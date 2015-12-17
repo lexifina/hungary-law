@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2015-05-16 | 2015. évi LIV. törvény | 2004-1-00-00.46 |
 | 2015-07-14 | 2015. évi CXXXV. törvény | 2004-1-00-00.47 |
 | 2015-10-31 | 2015. évi LIV. törvény | 2004-1-00-00.48 |
+| 2015-12-17 | 2015. évi CCXIII. törvény | 2004-1-00-00.49 |
