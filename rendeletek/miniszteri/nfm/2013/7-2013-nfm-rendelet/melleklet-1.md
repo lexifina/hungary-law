@@ -146,6 +146,8 @@
 
 2.11.[^44] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.45. pont szerinti informatikai előszűrő és űrlapkitöltő rendszer fejlesztése, valamint űrlapsablon szerkesztése.
 
+2.12.[^45] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az állandó személyazonosító igazolványhoz kapcsolódó elektronikus aláírás hitelesítés szolgáltatást biztosító informatikai rendszer.
+
 3. A központi szolgáltató a következő informatikai rendszerek fejlesztésében működik közre:
 
 3.1. Az 1.2. pont szerinti Konszolidációs Adatvagyon Hasznosítás rendszer;
@@ -168,9 +170,9 @@
 
 3.10. Az 1.26. pont szerinti Mentés irányítási rendszer;
 
-3.11.[^45] Az 1.32. pont szerinti Egységes Kormányzati Ügyiratkezelő Rendszer;
+3.11.[^46] Az 1.32. pont szerinti Egységes Kormányzati Ügyiratkezelő Rendszer;
 
-3.12.[^46] Az 1.43. pont szerinti települési ügysegédek feladatait kiszolgáló végfelhasználói hardver és szoftver infrastruktúra rendszer.
+3.12.[^47] Az 1.43. pont szerinti települési ügysegédek feladatait kiszolgáló végfelhasználói hardver és szoftver infrastruktúra rendszer.
 
 [^13]: A 6. §-t a 46/2015. (VII. 28.) BM rendelet 2. §-a iktatta be.
 [^14]: Az 1. melléklet 1. pont 1.1.3. alpontja a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -204,5 +206,6 @@
 [^42]: Az 1. melléklet 2. pont 2.9. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
 [^43]: Az 1. melléklet 2. pont 2.10. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (2) bekezdése iktatta be.
 [^44]: Az 1. melléklet 2. pont 2.11. alpontját az 59/2015. (XI. 10.) BM rendelet 2. §-a iktatta be.
-[^45]: Az 1. melléklet 3. pont 3.11. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
-[^46]: Az 1. melléklet 3. pont 3.12. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^45]: Az 1. melléklet 2. pont 2.12. alpontját a 63/2015. (XII. 9.) BM rendelet 1. §-a iktatta be.
+[^46]: Az 1. melléklet 3. pont 3.11. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
+[^47]: Az 1. melléklet 3. pont 3.12. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
