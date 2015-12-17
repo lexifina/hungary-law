@@ -8,4 +8,6 @@
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti a Nemzeti Kutatási, Fejlesztési és Innovációs Alap terhére finanszírozott kutatás-fejlesztési, valamint innovációs pályázatok ellenőrzésével, rangsorolásával és értékelésével összefüggő személyügyi kérdések rendezéséről szóló 1142/2015. (III. 12.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
