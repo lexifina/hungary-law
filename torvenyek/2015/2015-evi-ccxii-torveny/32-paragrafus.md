@@ -13,11 +13,3 @@
 (6) A 22. § b) pontja 2017. január 1-jén lép hatályba.
 
 (7) A 25. § 2020. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
