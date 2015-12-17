@@ -1,4 +1,4 @@
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^207]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^210]
 
 ## Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati jelvényének leírása:
 
@@ -8,7 +8,7 @@
 
 ## A kör alakú jelvény mezőben – amelyet a nemzeti színek szegélyeznek – az Országház sziluettje, az „Országgyűlési Őrség” felirat, valamint a négy számjegyű egyedi azonosító olvasható és látható arany és bordó színnel megjelenítve.
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^208]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^211]
 
 A 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából az Országgyűlési Őrség alapfeladatába tartozó szolgálati beosztások
 
@@ -54,5 +54,5 @@ A 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást be
 
 | 20. | IV. | beosztott tűzoltó |
 
-[^207]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
-[^208]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.
+[^210]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
+[^211]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.
