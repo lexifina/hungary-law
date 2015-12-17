@@ -66,7 +66,7 @@ eb) képzéssel összefüggő feladatokra.
 
 (3) Az adókedvezmény támogatási igazolás alapján vehető igénybe. Az adókedvezmény igénybevételének feltétele, hogy az adózó – jogszabályban meghatározottak szerint –
 
-a) a támogatási igazolásban szereplő összegű támogatást és a (3a) és (3b) bekezdésben meghatározott kiegészítő sportfejlesztési támogatást (a továbbiakban: kiegészítő sportfejlesztési támogatás) a (3a) bekezdés szerint arra jogosult szervezet számára átutalja, valamint
+a) az (5) bekezdés i) pontja szerinti támogatási szándéknyilatkozatot a támogatás igénybevételére jogosult szervezet részére a támogatási igazolás iránti kérelem benyújtását megelőzően kiállítja, továbbá a támogatási igazolás kiállítását követően a támogatási igazolásban szereplő összegű támogatást és a (3a) és (3b) bekezdésben meghatározott kiegészítő sportfejlesztési támogatást (a továbbiakban: kiegészítő sportfejlesztési támogatás) a (3a) bekezdés szerint arra jogosult szervezet számára átutalja, valamint
 
 b) a támogatás és a kiegészítő sportfejlesztési támogatás átutalásának megtörténtét az állami adóhatóság részére – a (3d) bekezdés figyelembe vételével – bejelentse.
 
@@ -140,7 +140,9 @@ h) a látvány-csapatsportban működő hivatásos vagy amatőr sportszervezet v
 
 ha) az országos sportági szakszövetség országos hivatásos, amatőr vagy vegyes (nyílt) versenyrendszerében (nemzeti bajnokság) a sportág versenyszabályzata szerinti valamelyik felnőtt vagy utánpótlás osztály egyikében – diák sportegyesület feladatait ellátó amatőr sportszervezet esetén az országos jelleggel működő diák-, vagy főiskolai-egyetemi sportszövetség által szervezett versenyeken – részt vesz vagy a részvételre indulási jogot szerzett, vagy
 
-hb) valamely felsőoktatási intézménnyel kötött együttműködési megállapodás alapján biztosítja a felsőoktatási intézmény keretei között szervezett sporttevékenység ellátását azzal, hogy egy felsőoktatási intézmény egy látványsportágban csak egy sportszervezettel köthet együttműködési megállapodást – kivéve, ha a felsőoktatási intézmény keretei között több kar működik, ilyen esetben felsőoktatási intézményi karonként köthető egy sportszervezettel együttműködési megállapodás –, és a sportszervezet az országos sportági szakszövetség országos hivatásos, vegyes (nyílt) vagy amatőr versenyrendszerének (nemzeti bajnokság) valamelyik osztályában, vagy az országos jelleggel működő főiskolai-egyetemi sportszövetség által kiírt főiskolai-egyetemi bajnokságban részt vesz.
+hb) valamely felsőoktatási intézménnyel kötött együttműködési megállapodás alapján biztosítja a felsőoktatási intézmény keretei között szervezett sporttevékenység ellátását azzal, hogy egy felsőoktatási intézmény egy látványsportágban csak egy sportszervezettel köthet együttműködési megállapodást – kivéve, ha a felsőoktatási intézmény keretei között több kar működik, ilyen esetben felsőoktatási intézményi karonként köthető egy sportszervezettel együttműködési megállapodás –, és a sportszervezet az országos sportági szakszövetség országos hivatásos, vegyes (nyílt) vagy amatőr versenyrendszerének (nemzeti bajnokság) valamelyik osztályában, vagy az országos jelleggel működő főiskolai-egyetemi sportszövetség által kiírt főiskolai-egyetemi bajnokságban részt vesz,
+
+i) a támogatás igénybevételére jogosult szervezet a támogatási igazolás kiállítására jogosult szerv felé előzetesen igazolja, hogy részére, legalább a kiállítani kért támogatási igazolás iránti kérelemben szereplő összegű támogatást, a kérelemben megjelölt támogató szervezet támogatási szándéknyilatkozat alapján rendelkezésre bocsátja.
 
 (5a) Támogatási igazolás a támogatás igénybevételére jogosult szervezettel kapcsolatban akkor is kiállítható,
 
