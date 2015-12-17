@@ -1,4 +1,4 @@
-8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^39]
+8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^44]
 
 ## Szervezeti működés teljesítménymutatói
 
@@ -278,4 +278,4 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 5.3. ideiglenes intézkedések, felhívások, kötelezések, bírságok szakszerűsége, jogszerűsége
 
-[^39]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja szerint módosított szöveg.
+[^44]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja szerint módosított szöveg.

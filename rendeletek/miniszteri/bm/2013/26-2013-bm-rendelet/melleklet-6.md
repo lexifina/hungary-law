@@ -18,6 +18,6 @@
 
 |  |  |  | 100- 99 | 98- 97 | 96- 95 | 94- 93 | 92- 91 | 90- 87 | 86- 83 | 82- 79 | 78- 75 | 74- 71 | 70- 67 | 66- 53 | 62- 59 | 58- 55 | 54- 51 | 50- 49 | 48- 47 | 46- 45 | 44- 43 | 42- 41 | 40- 33 | 32- 25 | 24- 17 | 16- 9 | 8- 0 |
 
-6. melléklet a 26/2013. (VI. 26.) BM rendelethez[^37]
+6. melléklet a 26/2013. (VI. 26.) BM rendelethez[^42]
 
-[^37]: A 6. melléklet a 37/2015. (VI. 16.) BM rendelet 77. §-ával megállapított szöveg.
+[^42]: A 6. melléklet a 37/2015. (VI. 16.) BM rendelet 77. §-ával megállapított szöveg.

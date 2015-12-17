@@ -1,14 +1,16 @@
 ## 4. A szervezeti teljesítményértékelés eljárási szabályai
 
-17. § (1)[^29] Az országos parancsnok a tárgyév november 30-ig összeállítja és a rendvédelmi feladatokat ellátó szerv intranetén közzéteszi a szakmai teljesítménykövetelmény-minimumok méréséhez szükséges adatokat.
+17. § (1)[^32] Az országos parancsnok a tárgyévet követő év január havának tízedik napjáig összeállítja és rendelkezésre bocsátja a szakmai teljesítménykövetelmény-minimumok méréséhez szükséges adatokat.
 
-(2) A területi szerv vezetője december 8-ig – a helyi szerv önértékelése figyelembevételével – értékeli a helyi szerv teljesítményét.
+(2)[^33] A területi szerv vezetője a tárgyévet követő év január 20-ig – a helyi szerv önértékelése figyelembevételével – értékeli a helyi szerv teljesítményét.
 
-(3) Az országos parancsnok december 15-ig – a területi szerv önértékelése figyelembevételével – értékeli a területi szerv teljesítményét.
+(3)[^34] Az országos parancsnok a tárgyévet követő év január 31-ig – a területi szerv önértékelése figyelembevételével – értékeli a területi szerv teljesítményét.
 
-(4)[^30] A belügyminiszter – az országos parancsnok előterjesztése alapján – december 31-ig értékeli a rendvédelmi feladatokat ellátó szerv teljesítményét.
+(4)[^35] A belügyminiszter – az országos parancsnok előterjesztése alapján – a tárgyévet követő év február 15-ig értékeli a rendvédelmi feladatokat ellátó szerv teljesítményét.
 
 (5) A területi szerv alárendeltségében levő helyi szervek teljesítményértékelési szintjének átlaga és a területi szerv teljesítményértékelési szintje lényegesen nem térhet el egymástól.
 
-[^29]: A 17. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 75. §-ával megállapított szöveg.
-[^30]: A 17. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^32]: A 17. § (1) bekezdése a 68/2015. (XII. 16.) BM rendelet 6. §-ával megállapított szöveg.
+[^33]: A 17. § (2) bekezdése a 68/2015. (XII. 16.) BM rendelet 7. § e) pontja szerint módosított szöveg.
+[^34]: A 17. § (3) bekezdése a 68/2015. (XII. 16.) BM rendelet 7. § f) pontja szerint módosított szöveg.
+[^35]: A 17. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja, a 68/2015. (XII. 16.) BM rendelet 7. § g) pontja szerint módosított szöveg.

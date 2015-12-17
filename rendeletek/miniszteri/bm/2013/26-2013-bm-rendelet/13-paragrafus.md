@@ -2,7 +2,7 @@
 
 ## 3. A szervezeti teljesítményértékelés elemeinek meghatározása
 
-13. § (1)[^25] A szervezeti működés teljesítménymutatóit a 8. melléklet határozza meg, a szervezeti működés
+13. § (1)[^26] A szervezeti működés teljesítménymutatóit a 8. melléklet határozza meg, a szervezeti működés
 
 a) vezetési,
 
@@ -14,4 +14,4 @@ c) szakmai
 
 (2) A funkcionális feladatok ellátására létrehozott területi szervek szakmai tevékenység szerinti szervezeti működés teljesítménymutatóit az országos parancsnok állapítja meg, a szakmai teljesítménykövetelmény-minimumok meghatározásával egyidejűleg.
 
-[^25]: A 13. § (1) bekezdés záró szövegrésze a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^26]: A 13. § (1) bekezdés záró szövegrésze a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 14. pontja szerint módosított szöveg.
