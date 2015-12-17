@@ -5,7 +5,3 @@
 (3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel módosított 31/D. § (3) bekezdését az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény hatálybalépésekor folyamatban lévő költségellenőrzési eljárásokban és támogatási igazolási eljárásokban is kell alkalmazni.
 
 (4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel módosított 31/D. § (4) bekezdését és 31/D. § (6) bekezdését az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény hatálybalépésekor folyamatban lévő záró elszámolásokban is alkalmazni kell.
-
-2. CÍM
-
-Felhatalmazó rendelkezések
