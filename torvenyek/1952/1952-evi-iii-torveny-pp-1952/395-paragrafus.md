@@ -43,3 +43,9 @@ k) a polgári eljárásban a tárgyalás (meghallgatás, kihallgatás) zártcél
 l) a polgári peres eljárás elektronikus beadványai űrlapjának adatait, tartalmi és formai kellékeit, valamint az űrlaphoz csatolható mellékleteket rendeletben szabályozza,
 
 m) az ügyész polgári eljárásbeli részvételével kapcsolatos költség előlegezésének és viselésének részletes szabályait az államháztartásért és az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza,
+
+n) a bíróságokkal való elektronikus kapcsolattartás és az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg.
+
+(5)
+
+(6)

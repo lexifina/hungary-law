@@ -1,0 +1,1 @@
+398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011/7/EU irányelvének 10. cikkével.
