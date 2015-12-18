@@ -8,4 +8,8 @@ b) a külföldi bizonyítványok és oklevelek elismeréséről szóló törvén
 
 c) a Bizottság 2001. december 7-i ajánlása a „SOLVIT” – belső piaci problémamegoldó hálózat alkalmazásának alapelveiről szóló bizottsági ajánlás I. és II. fejezete szerinti eljárásokra,
 
-d) a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelv 10. cikk (4) bekezdése szerinti információcserére.
+d) a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelv 10. cikk (4) bekezdése szerinti információcserére,
+
+e)[^1] a tagállamok területéről jogellenesen kivitt kulturális javak visszaszolgáltatásáról és az 1024/2012/EU rendelet módosításáról szóló 2014. május 15-i 2014/60/EU európai parlamenti és tanácsi irányelv 5. cikkében és 7. cikkében meghatározott feladatok ellátására.
+
+[^1]: A 3. § e) pontját a 335/2015. (XI. 10.) Korm. rendelet 1. §-a iktatta be.
