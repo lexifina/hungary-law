@@ -1,3 +1,3 @@
-4. § (1) A visszaszolgáltatást követően a kulturális javak tulajdonjogára a kérelmező állam joga vonatkozik.
+4. § (1) A visszaszolgáltatást követően a kulturális javak tulajdonjogára a megkereső tagállam joga vonatkozik.
 
-(2) Az e törvényben foglaltak nem érintik a kérelmező államnak és a jogellenesen kivitt kulturális javak tulajdonosának a kérelmező állam joga alapján indítható egyéb (polgári, büntetőjogi) igényeit.
+(2) Az e törvényben foglaltak nem érintik a megkereső tagállamnak és a jogellenesen kivitt kulturális javak tulajdonosának a megkereső tagállam joga alapján indítható egyéb (polgári, büntetőjogi) igényeit.

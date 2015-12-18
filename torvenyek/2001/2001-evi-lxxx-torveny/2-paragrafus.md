@@ -2,20 +2,18 @@
 
 2. § E törvény alkalmazásában
 
-1. kulturális javak:
+1. kulturális javak: azok a javak, melyeket a tagállam területéről történő jogellenes kivitel előtt vagy azt követően nemzeti jogszabály vagy közigazgatási eljárás keretében hozott hatósági határozat az Európai Unió működéséről szóló szerződés (EUMSZ) 36. Cikke szerinti „művészi, történelmi vagy régészeti értéket képviselő nemzeti kincsek” közé sorol;
 
-a) azok a javak, melyeket a tagállam területéről történő jogellenes kivitel előtt vagy azt követően nemzeti jogszabály vagy államigazgatási eljárás keretében hozott hatósági határozat az Európai Közösséget létrehozó szerződés 30. (ex. 36.) Cikke szerinti ,,művészi, történelmi vagy régészeti értéket képviselő nemzeti kincsek'' közé sorol, és
+2. közgyűjtemény: azok a tagállam területén található gyűjtemények – Magyarország tekintetében a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 1. számú melléklet o) pontja szerint – amelyek a tagállamnak, valamint a tagállam egy helyi vagy regionális hatóságának a tulajdonában állnak, vagy finanszírozásukat jelentős mértékben azok biztosítják;
 
-b) amelyek a melléklet szerinti kategóriák valamelyikébe tartoznak vagy egyik ilyen kategóriába sem tartoznak, de szerves részét képezik muzeális intézmények, levéltárak, valamint könyvtárak megőrzendő állományi leltárában szereplő gyűjteménynek vagy egyházi jogi személy vagy vallási tevékenységet végző szervezet leltárának;
+3. jogellenes kivitel: a kulturális javaknak a tagállam területéről a kulturális javak kiviteléről szóló 116/2009/EK tanácsi rendelet, vagy a kulturális javak védelméről szóló tagállami jogszabályok megsértésével történt kivitele, valamint a jogszerű ideiglenes kivitelre vonatkozó feltételek megszegéséből adódó jogsértést, ideértve a kivitel lejártát követően vissza nem vitt javak esetét is;
 
-2. közgyűjtemény: az a gyűjtemény, mely a tagállam, annak helyi vagy regionális hatósága, illetve olyan intézmény tulajdonát képezi, mely a tagállam területén található és a tagállam jogszabálya szerint közintézménynek minősül, továbbá a tagállam, illetve egy helyi vagy regionális hatóság tulajdona, vagy finanszírozását jelentős mértékben azok biztosítják;
+4. megkereső tagállam: az a tagállam, amelynek területéről a kulturális javakat jogellenesen kivitték;
 
-3. jogellenes kivitel: a kulturális javaknak a tagállam területéről a kulturális javak védelméről szóló tagállami jogszabályok vagy a kulturális javak kiviteléről szóló 116/2009/EK tanácsi rendelet megsértésével történt kivitele, illetve a jogszerű ideiglenes kivitelre vonatkozó feltételek megszegéséből adódó jogsértés is;
+5. megkeresett tagállam: az a tagállam, amelynek területén egy másik tagállam területéről jogellenesen kivitt kulturális javak megtalálhatóak;
 
-4. kérelmező állam: az a tagállam, amelynek területéről a kulturális javakat jogellenesen kivitték;
-
-5. kérelmezett állam: az a tagállam, amelynek területén egy másik tagállam területéről jogellenesen kivitt kulturális javak megtalálhatóak;
-
-6. visszaszolgáltatás: a kulturális javak visszaszállítása a kérelmező állam területére;
+6. visszaszolgáltatás: a kulturális javak visszaszállítása a megkereső tagállam területére;
 
 7. művészeti, történelmi vagy régészeti értéket képviselő nemzeti kincs: védett kulturális javak, valamint a régészeti leletek és a műemlékek műemléki értékkel rendelkező alkotórészei, tartozékai és berendezési tárgyai.
+
+8. belső piaci információs rendszer (a továbbiakban: IMI rendszer): a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 2. § a) pontja szerinti belső információs rendszer;
