@@ -24,6 +24,9 @@ d) hozzájárult a Honvédség társadalmi elismertségének javításához, a h
 
 e) tevékenységével jelentősen hozzájárult Magyarország nemzetbiztonságának védelméhez.
 
-(3) A díjak odaítélésére vonatkozó személyi javaslatokat a díjakra jogosító tevékenység részletes leírásával évenként, legkésőbb október 30-ig kell megküldeni az azokat véleményező Díjbizottság részére.
+(3)[^10] A díjak odaítélésére vonatkozó személyi javaslatokat a díjakra jogosító tevékenység részletes leírásával évenként, legkésőbb október 30-ig kell megküldeni az azokat véleményező Honvédelmi Minisztérium Díjadományozást Véleményező Munkacsoport (a továbbiakban: HM DVMCS) részére.
 
-(4) A díjak adományozásáról a Díjbizottság javaslata alapján a miniszter dönt. A Díjbizottság összetételét, tagjainak számát és működését utasítás szabályozza.
+(4)[^11] A díjak adományozásáról a HM DVMCS javaslata alapján a miniszter dönt. A HM DVMCS összetételét, tagjainak számát és működését a miniszter utasításban szabályozza.
+
+[^10]: A 31. § (3) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.
+[^11]: A 31. § (4) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.

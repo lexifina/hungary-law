@@ -2,8 +2,12 @@
 
 a) az állomány tagja esetén a Honvédség központi személyügyi szervének,
 
-b) az a) pontba nem tartozó személyek esetén a HM TVB elnökének.
+b)[^7] az a) pontba nem tartozó személyek esetén a HM TVMCS elnökének.
 
-(2) Az Év Katonája Kitüntető Cím adományozására a javaslatokat az átadás előtt 60 nappal szolgálati úton, a Honvéd Vezérkar főnöke részére kell felterjeszteni, aki javaslatait jóváhagyásra felterjeszti a miniszternek.
+(2)[^8]
 
-(3) A Maléter Pál Emlékérmet a miniszter a HM TVB javaslata alapján adományozza. A HM TVB javaslatát évente szeptember 15-ig terjeszti fel a miniszternek.
+(3)[^9] A Maléter Pál Emlékérmet a miniszter a HM TVMCS javaslata alapján adományozza. A HM TVMCS javaslatát évente szeptember 15-ig terjeszti fel a miniszternek.
+
+[^7]: A 29. § (1) bekezdés b) pontja a 14/2015. (XII. 17.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 29. § (2) bekezdését a 14/2015. (XII. 17.) HM rendelet 13. §-a hatályon kívül helyezte.
+[^9]: A 29. § (3) bekezdése a 14/2015. (XII. 17.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.

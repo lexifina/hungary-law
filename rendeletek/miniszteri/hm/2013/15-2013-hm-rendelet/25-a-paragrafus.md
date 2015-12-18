@@ -1,4 +1,4 @@
-## 24/a. [^1] Hazai Samu-életműdíj
+## 24/a. [^3] Hazai Samu-életműdíj
 
 25/A. § (1) Példaértékű katonai életpálya és ennek során a Honvédség feladatainak megvalósítása érdekében kifejtett kiemelkedően jelentős elméleti és gyakorlati tevékenység, és kimagasló parancsnoki teljesítmény elismerésére Hazai Samu-életműdíj (a továbbiakban: Életműdíj) adományozható annak a személyi állományba nem tartozó személynek, aki a 60. életévét betöltötte és legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik.
 
@@ -10,4 +10,4 @@
 
 (5) Az Életműdíj első alkalommal 2014-ben adományozható.
 
-[^1]: A 24/a. alcímet (25/A. §) a 6/2014. (IV. 14.) HM rendelet 24. §-a iktatta be.
+[^3]: A 24/a. alcímet (25/A. §) a 6/2014. (IV. 14.) HM rendelet 24. §-a iktatta be.
