@@ -1,0 +1,3 @@
+## 1. § Az építészeti örökség helyi védelmének szakmai szabályairól szóló 66/1999. (VIII. 13.) FVM rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A rendelet hatálya az építészeti örökség mindazon elemére kiterjed, amely külön jogszabályok alapján nem áll védelem alatt, és amelyet a települési önkormányzat – a fővárosban a kerületi önkormányzat, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat – rendeletében helyi települési, táji, természeti, építészeti, néprajzi, képző- vagy iparművészeti, ipartörténeti, régészeti értékként védetté nyilvánít (a továbbiakban együtt: helyi védelem).”
