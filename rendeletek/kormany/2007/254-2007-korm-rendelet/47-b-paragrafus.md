@@ -12,6 +12,8 @@
 
 (7) Az EAR működtetése során biztonságcentrikus rendszerüzemeltetési feltételeket kell kialakítani és folyamatosan biztosítani, a biztonsági kockázatot jelentő üzemeltetési hibákat haladéktalanul ki kell javítani, az üzemeltetési hibából adódó károkat fel kell mérni, valamint gondoskodni kell a jogszerű állapot helyreállításáról.
 
-(8) Az EAR üzemeltetése során az üzemeltetés vezetője (annak helyettese) és az informatikai biztonságért felelős nem lehet ugyanaz a személy, és nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói.
+(8)[^178] Az EAR üzemeltetése során az üzemeltetés vezetője (annak helyettese) és az informatikai biztonságért felelős nem lehet ugyanaz a személy, és nem lehetnek egymásnak közeli hozzátartozói.
 
 (9) Az informatikai rendszer tervezett karbantartási idejéről, valamint az esetleges üzemzavarról az üzemeltető az EAR honlapján tájékoztatást ad. Ezekről az eseményekről elektronikus eseménynaplót vezet, amely tartalmazza az esemény leírását, időpontját, időtartamát és a megtett intézkedéseket.
+
+[^178]: A 47/B. § (8) bekezdése a 411/2015. (XII. 16.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

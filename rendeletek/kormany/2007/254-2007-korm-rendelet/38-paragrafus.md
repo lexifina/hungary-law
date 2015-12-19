@@ -1,4 +1,4 @@
-38. § (1)[^153] A benyújtott ajánlatokat a kiíró által kijelölt Értékelő Bizottság véleményezi, és az elbírálásra vonatkozó javaslatát indokolással együtt a tulajdonosi joggyakorlónak – vagy ha a tulajdonosi joggyakorló által értékesítéssel megbízott személyt a tulajdonosi joggyakorló a döntésre is feljogosította, e személynek – döntésre előterjeszti.
+38. § (1)[^156] A benyújtott ajánlatokat a kiíró által kijelölt Értékelő Bizottság véleményezi, és az elbírálásra vonatkozó javaslatát indokolással együtt a tulajdonosi joggyakorlónak – vagy ha a tulajdonosi joggyakorló által értékesítéssel megbízott személyt a tulajdonosi joggyakorló a döntésre is feljogosította, e személynek – döntésre előterjeszti.
 
 (2) Az Értékelő Bizottság az ajánlatok felbontása után felvilágosítást kérhet a pályázóktól annak érdekében, hogy a pályázatok értékelése, illetve összehasonlítása elvégezhető legyen. Az Értékelő Bizottság kérdéseit, illetve azokra az érintett pályázó által adott válaszokat írásban kell rögzíteni.
 
@@ -20,7 +20,7 @@ e) a pályázók által ajánlott biztosítékok értékelését,
 
 f) a pályázati eljárás összefoglaló értékelését, a pályázók rangsorolására vonatkozó javaslatot.
 
-(6)[^154] Az értékelési jegyzőkönyvet az Értékelő Bizottság minden tagja aláírásával hitelesíti, és azt a pályázatok bontásától, illetve szükség esetén a hiánypótlásra rendelkezésre álló idő lejártától számított tizenöt napon belül megküldi a tulajdonosi joggyakorló – vagy ha a tulajdonosi joggyakorló által értékesítéssel megbízott személyt a tulajdonosi joggyakorló a döntésre is feljogosította, e személy – részére. Az értékelési jegyzőkönyvhöz csatolni kell a pályázati felhívást, a részletes dokumentációt, valamint a pályázatok bontásáról készült jegyzőkönyv és a beérkezett ajánlatok egy-egy eredeti példányát, továbbá az Értékelő Bizottság tagjának esetleges különvéleményét.
+(6)[^157] Az értékelési jegyzőkönyvet az Értékelő Bizottság minden tagja aláírásával hitelesíti, és azt a pályázatok bontásától, illetve szükség esetén a hiánypótlásra rendelkezésre álló idő lejártától számított tizenöt napon belül megküldi a tulajdonosi joggyakorló – vagy ha a tulajdonosi joggyakorló által értékesítéssel megbízott személyt a tulajdonosi joggyakorló a döntésre is feljogosította, e személy – részére. Az értékelési jegyzőkönyvhöz csatolni kell a pályázati felhívást, a részletes dokumentációt, valamint a pályázatok bontásáról készült jegyzőkönyv és a beérkezett ajánlatok egy-egy eredeti példányát, továbbá az Értékelő Bizottság tagjának esetleges különvéleményét.
 
-[^153]: A 38. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^154]: A 38. § (6) bekezdése a 77/2014. (III. 14.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^156]: A 38. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^157]: A 38. § (6) bekezdése a 77/2014. (III. 14.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
