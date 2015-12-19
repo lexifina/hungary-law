@@ -1,4 +1,4 @@
-8. § (1) A helyi védelem alatt álló értékről – az építésügy körébe tartozó tevékenységek ellátásához szükséges hatósági nyilvántartások létesítésének és működésének feltételeiről szóló 241/1997. (XII. 19.) Korm. rendelettel összhangban – nyilvántartást kell vezetni, amelynek tartalmaznia kell:
+8. § (1)[^8] A helyi védelem alatt álló értékről nyilvántartást kell vezetni, amelynek tartalmaznia kell:
 
 a) a védelem szakszerű, rövid indokolását,
 
@@ -19,3 +19,5 @@ c) a védett érték rendeltetését és használatának módját.
 (3) Területi védelem esetén az (1) bekezdésben felsoroltakon kívül a nyilvántartásnak tartalmazni kell a terület méretétől függően az áttekintéshez szükséges léptékű, a szabályozási tervvel azonosítható, a védett terület határát egyértelműen rögzítő helyszínrajzot.
 
 (4) A nyilvántartás céljára készült helyszínrajzot olyan méretarányban kell elkészíteni, hogy a helyi védelemmel kapcsolatos megállapítások az egyes telkekre, építési területekre és közterületekre egyértelműen értelmezhetőek legyenek.
+
+[^8]: A 8. § (1) bekezdés nyitó szövegrésze az 55/2015. (XII. 11.) MvM rendelet 5. § c) pontja szerint módosított szöveg.
