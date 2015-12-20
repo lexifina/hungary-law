@@ -14,9 +14,13 @@ c) munkaszolgálat: közérdekű vagy kisegítő munkaszolgálat (beleértve a k
 
 d) kötelező katonai előképzés: leventekötelezettség teljesítése;
 
-e) légitámadás és hadművelet: az ország területén vagy azon kívül lezajló légitámadás (beleértve a levegőből vagy a levegőben bekövetkező bármely légicsapást), illetőleg a következményeinek felszámolásával kapcsolatos tevékenység, továbbá bármely hadművelet (harci cselekmény);
+e) légitámadás és hadművelet: Magyarország területét érintő, illetve Magyarország mint hadviselő fél részvételével bekövetkezett
 
-f) visszamaradt robbanóanyag felrobbanása: a háborúból, megszállásból, fegyveres konfliktusokból vagy ezekkel összefüggésben egyéb módon visszamaradt, illetőleg akár a megszállók, akár a magyar fegyveres alakulatok által elhagyott robbanóanyag vagy robbanó szerkezet felrobbanása, kivéve, ha a robbanás hivatásszerűen (tűzszerész) végzett mentesítés során történt;
+ea) légitámadás, illetve annak következményei felszámolásával kapcsolatos tevékenység vagy
+
+eb) hadművelet – ide értve a hadműveletnek nem minősülő bármely harci cselekményt is –;
+
+f) visszamaradt robbanóanyag felrobbanása: Magyarország területét érintő, illetve Magyarország mint hadviselő fél részvételével bekövetkezett háborúból, megszállásból, fegyveres konfliktusokból vagy ezekkel összefüggésben egyéb módon visszamaradt, illetve akár a megszállók, akár a magyar fegyveres alakulatok által elhagyott robbanóanyag vagy robbanó szerkezet felrobbanása, kivéve, ha a robbanás hivatásszerűen (tűzszerész) végzett mentesítés során történt;
 
 g) hadieredetű fogyatkozás (hadirokkantak esetében): a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti egészségkárosodás (a továbbiakban: egészségkárosodás), valamint a szolgálattal össze nem függő egészségkárosodásnak a szolgálat folytán bekövetkező súlyosbodása;
 
