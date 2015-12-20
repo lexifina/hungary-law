@@ -1,1 +1,0 @@
-## „(2a) Az (1) bekezdés szerinti kizáró okok fennállásának hiányát a tulajdonosi joggyakorló, illetve az értékesítést lebonyolító megbízott eredményes értékesítés esetén legkésőbb a szerződéskötéskor vizsgálni köteles.”
