@@ -22,6 +22,8 @@ j) felelős a Nemzeti Földalapba tartozó földrészletek naprakész nyilvánta
 
 k) felelős a Nemzeti Földalapba tartozó földrészletek törvényes, szakszerű, hatékony és gazdaságos hasznosításáért;
 
-l) meghatározza a rábízott földvagyon számviteli politikáját.
+l) meghatározza a rábízott földvagyon számviteli politikáját;
+
+m) a Tanács titkára.
 
 (2) Az NFA elnöke ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.

@@ -2,7 +2,7 @@
 
 (2) A Tanács elnöke és tagja (a továbbiakban együtt: tag) magyar állampolgár lehet. A Tanács tagja nem lehet:
 
-a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, megyei közgyűlés tagja, miniszter, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, miniszter, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 
 b) az ellenőrző bizottságának tagja;
 
