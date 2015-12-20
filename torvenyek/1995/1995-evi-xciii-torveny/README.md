@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-93-00-00
 | 2011-01-01 | 2010. évi CLIII. törvény | 1995-93-00-00.9 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 1995-93-00-00.10 |
 | 2015-04-01 | 2015. évi VI. törvény | 1995-93-00-00.11 |
+| 2015-12-20 | 2015. évi CCIV. törvény | 1995-93-00-00.12 |
