@@ -13,3 +13,7 @@
 (4) Az egészségi alkalmasság rendszeres ellenőrzéséről a 14. melléklet szerinti jelentést kell elkészíteni.
 
 (5) A szűrővizsgálaton kívül az MH közegészségügyi és járványügyi feladatokat ellátó szerve célzott vizsgálatok elvégzését is elrendelheti.
+
+(6)[^1] Az állomány tagja alkalmasságának ellenőrzése a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 36. § (1) bekezdés h) pontja és (2) bekezdés a) pontja szerinti feladatban való részvétele során nem hajtható végre. Az alkalmasság ellenőrzését a Hvt. 36. § (1) bekezdés h) pontja és (2) bekezdés a) pontja szerinti feladatban történő részvétel befejezése után kell végrehajtani.
+
+[^1]: A 39. § (6) bekezdését a 17/2015. (XII. 21.) HM rendelet 1. §-a iktatta be.

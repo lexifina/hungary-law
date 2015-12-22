@@ -1,4 +1,4 @@
-## 83. §[^2]
+## 83. §[^3]
 
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
@@ -2618,6 +2618,4 @@ c) Nőgyógyászati elbírálást minden esetben nőgyógyász szakorvos végezz
 
 d) K: 3, 4, 6, 11, 12, 14, 15, 21; F: 1–2.
 
-e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
-
-[^2]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
