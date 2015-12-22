@@ -1,4 +1,4 @@
-## 27. §[^40] Az üzemeltető katonai szervezetek az új vagy felújítással bővített konyhák, éttermek egyéb élelmezési anyag utánpótlási norma szerinti ellátásra természetben jogosultak. Az alapellátást – a konyha és étkezde kapacitását (férőhelyét), illetve az átalány összegét figyelembe véve – a termelői logisztikai szakmai felelős állapítja meg.
+## 27. §[^41] A konyhát, éttermet üzemeltető honvédelmi szervezetek az új, vagy felújítással bővített konyhák, éttermek után természetbeni, egyéb élelmezési anyag utánpótlási norma szerinti ellátásra jogosultak. Az alapellátást – a konyha és étkezde férőhely szerinti kapacitását, illetve az átalány összegét és a felterjesztett igénylést figyelembe véve – a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet élelmezési anyagnemért felelős főnöke állapítja meg és engedélyezi.
 
 ## Teakonyha norma szerinti ellátás
 
@@ -10,7 +10,7 @@ b) a katonai szervezetek a kezelésük alatt álló, általuk üzemeltetett nőt
 
 c) a honvédelmi szervezetek a parancsnoki – irodaépületekben kiépített teakonyhák után.
 
-(2)[^41] Az (1) bekezdésben szereplő teakonyha norma alapellátását és összetételét a termelői logisztikai szakmai felelős állapítja meg a NORMAFÜZET-ben.
+(2)[^42] Az (1) bekezdésben szereplő teakonyha normák első ellátásának összetételét és azok biztosítását, az igényelt anyagok, felszerelések kiadását a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet élelmezési anyagnemért felelős főnöke engedélyezi a NORMAFÜZET-ben meghatározottak alapján.
 
-[^40]: A 27. § a 3/2009. (III. 18.) HM rendelet 21. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^41]: A 28. § (2) bekezdése a 3/2009. (III. 18.) HM rendelet 21. § (3) bekezdés 10. pontja szerint módosított szöveg.
+[^41]: A 27. § a 16/2015. (XII. 21.) HM rendelet 5. §-ával megállapított szöveg.
+[^42]: A 28. § (2) bekezdése a 16/2015. (XII. 21.) HM rendelet 6. §-ával megállapított szöveg.

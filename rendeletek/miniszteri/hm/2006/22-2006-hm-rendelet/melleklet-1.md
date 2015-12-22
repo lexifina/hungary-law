@@ -1,5 +1,5 @@
-## 35. §[^55] E rendeletnek a Magyar Honvédség élelmezési ellátásáról szóló 22/2006. (VIII. 8.) HM rendelet módosításáról szóló 11/2014. (VIII. 1.) HM rendelettel (a továbbiakban: R.) megállapított 24. §-át és 24/A. §-át 2014. január 1-jétől kell alkalmazni azon személyek esetében, akik önkéntesen tett nyilatkozatukkal vállalják az e rendeletnek a Magyar Honvédség élelmezési ellátásáról szóló 22/2006. (VIII. 8.) HM rendelet módosításáról szóló 3/2009. (III. 18.) HM rendelettel megállapított 24. § (1) és (3) bekezdése szerinti térítési díj, valamint az e rendeletnek az R.-rel megállapított 24. § (4) bekezdése szerinti térítési díj különbözetének az R. hatálybalépését követő 30. napig történő befizetését.
+## 37. §[^60] E rendeletnek az R2. 10. §-ával és 2. melléklet 3. pontjával megállapított 4. számú melléklet 21. pontját, valamint az R2. 11. §-ával és 3. melléklet 1. pontjával megállapított 5. számú melléklet 16. pontját 2015. szeptember 22-étől kell alkalmazni.
 
 1. számú melléklet a 22/2006. (VIII. 8.) HM rendelethez
 
-[^55]: A 35. §-t a 11/2014. (VIII. 1.) HM rendelet 4. §-a iktatta be.
+[^60]: A 37. §-t a 16/2015. (XII. 21.) HM rendelet 8. §-a iktatta be.

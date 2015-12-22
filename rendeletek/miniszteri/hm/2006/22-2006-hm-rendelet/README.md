@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-22-20-1
 | 2012-12-26 | 2006-22-20-15.10 | 23/2012. (XII. 18.) HM rendelet |
 | 2014-01-01 | 2006-22-20-15.11 | 24/2013. (XII. 20.) HM rendelet |
 | 2014-09-01 | 2006-22-20-15.12 | 11/2014. (VIII. 1.) HM rendelet |
+| 2015-12-22 | 2006-22-20-15.13 | 16/2015. (XII. 21.) HM rendelet |
