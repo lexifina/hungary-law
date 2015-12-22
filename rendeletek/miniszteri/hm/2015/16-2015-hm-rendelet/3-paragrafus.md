@@ -1,0 +1,3 @@
+## 2. § Az R. 15. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) Az (1) bekezdés a) pontjától eltérően a III. számú élelmezési norma szerinti ellátást a 3. számú mellékletben meghatározott feltételek fennállásáig nem kell megszüntetni, ha az állomány tagjának az (1) bekezdés a) pontja szerinti eltiltás alapjául szolgáló, szolgálati kötelmekkel összefüggő balesete vagy megbetegedése a szolgálat vagy a honvédelem ügye érdekében kifejtett kiemelkedő, különleges tevékenység, bátor helytállás, hősies magatartás tanúsítása során vagy azzal összefüggésben következett be, és ennek elismerésére a „Hazáért Érdemjelet” adományozták részére. Ez esetben a 13. § g) pontja szerinti, az élelmiszer-utalvány kiadásának beszüntetésére vonatkozó rendelkezés nem alkalmazható.”

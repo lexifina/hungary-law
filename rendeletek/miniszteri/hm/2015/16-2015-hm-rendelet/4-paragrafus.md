@@ -1,0 +1,3 @@
+## 3. § Az R. 19. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az (1) bekezdésben előírtak szerinti ellátás csak a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet élelmezési anyagnemért felelős főnökének előzetes engedélyével, szerződés alapján biztosítható. Az engedély megadásához a katonai szervezet felterjeszti a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet élelmezési anyagnemért felelős főnöke részére a szolgáltató árajánlatát, a szerződéstervezetet, az illetménykülönbözetek kimutatásáról szóló számvetést, valamint az ellátásra vonatkozó döntési javaslatot.”

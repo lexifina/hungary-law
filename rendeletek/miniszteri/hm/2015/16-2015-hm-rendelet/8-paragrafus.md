@@ -1,0 +1,3 @@
+## 7. § Az R. 30. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A támogatás 50%-os mértékére jogosult a HM-nél, az MH középszintű vezető szervénél, valamint a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezetnél repülőműszaki szaktevékenységet végző repülőműszaki MAK vagy beosztási folyószámú személyi állomány, aki a „Repülőműszaki földi szakszemélyzet szakszolgálati engedély” valamely érvényes típusával rendelkezik, vagy annak megszerzése érdekében repülőműszaki szaktevékenységet szakszolgálati engedéllyel rendelkező irányítása mellett végez.”
