@@ -1,16 +1,16 @@
-4. melléklet a 133/2013. (XII. 29.) VM rendelethez
+4. melléklet a 133/2013. (XII. 29.) VM rendelethez[^165]
 
 Állami horgászjegy adattartalma
 
-1.[^160] Kiállító halgazdálkodási hatóság megnevezése, illetve a halgazdálkodási hatóság által forgalmazással megbízott neve, címe
+1. Kiállító halgazdálkodási hatóság, illetve a kiállító halgazdálkodási hatóság megbízása alapján a horgászok és a horgász egyesületek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet, illetve a forgalmazással megbízott neve, címe.
 
-2.[^161] Állami horgászjegy díja; illetve az emelt díjas állami horgászjegy díja, az emelt díjas értékesítés jelzése rájegyzéssel és az emelt díj megállapítására vonatkozó jogszabályi hely megjelölésével; illetve a díjmentesség jelzése, a díjmentességet igazoló jogszabályi hely megjelölésével
+2. Állami horgászjegy díjának, emelt díjának, valamint díjmentességének jelzése, amelyeknél az állami horgászjegy kiadásakor a megfelelő bejelölendő. Állami horgászjegy és horgász fogási napló összetartozó dokumentumban való kiadásakor az állami horgászjegy díja a horgász fogási napló díjával növelt értékkel jelenítendő meg.
 
-3.[^162] Díjmentesség esetén a használható horgászkészségek számának megjelölése aláhúzással (1 vagy 2 darab), valamint annak jelzése, hogy emellett egyidejűleg egy darab, 1 m2-nél nem nagyobb csalihalfogó emelőháló használható
+3. A használható horgászkészségek (1 vagy 2 darab) számának szerepletetésére alkalmas jelölés valamint annak jelzése, hogy emellett egyidejűleg egy darab, 1 m2-nél nem nagyobb csalihalfogó emelőháló használható.
 
-4. Kiállítás éve
+4. Állami horgászjegy sorszáma.
 
-5. Állami horgászjegy sorszáma
+5. Kiállítás éve, valamint annak jelzése, hogy a kiállítás napjától a következő év január 31-ig érvényes.
 
 6. Engedélyes
 
@@ -24,20 +24,12 @@ d) lakóhelye
 
 e) horgászszervezeti tagsága (egyesület neve, címe)
 
-7.[^163] Figyelemfelhívó szöveg az alábbiak szerint: „Csak személyi azonosító okmánnyal együtt érvényes! Valamennyi halgazdálkodási vízterületen csak a fogási naplóval, továbbá nyilvántartott halgazdálkodási vízterületen a területi jeggyel együtt érvényes. Az állami horgászjegyet másra átruházni tilos!”
+7. Figyelemfelhívó szöveg az alábbiak szerint: „Csak személyi azonosító okmánnyal, továbbá nyilvántartott halgazdálkodási vízterületen területi jeggyel együtt érvényes, másra átruházni tilos!”
 
-8. Kiállítás helye, időpontja
+8. Állami horgászjegy és horgász fogási napló összetartozó dokumentumban való kiadása esetén figyelemfelhívó szöveg arról, hogy a kiállítást követő év február 28-ig az engedélyesnek az okmányt le kell adnia, vagy tértivevényes postai küldeményként feladni a forgalmazásra megbízottnak.
 
-9.[^164] Kiállító halgazdálkodási hatóság, vagy a halgazdálkodási hatóság által forgalmazással megbízott aláírása, bélyegzője
+9. Kiállítás helye, időpontja.
 
-10. Érvényesség meghosszabbításának helyei, időpontjai
+10. Kiállító halgazdálkodási hatóság vagy a forgalmazással megbízott aláírása, bélyegzője.
 
-11. Érvényességet meghosszabbító aláírása, bélyegzője
-
-12. Az érvényesség meghosszabbításánál az alábbi szöveg feltüntetése: „Az érvényesítést követő év január 31-éig érvényes.”
-
-[^160]: A 4. melléklet 1. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 43. pontja szerint módosított szöveg.
-[^161]: A 4. melléklet 2. pontja az 56/2015. (IX. 24.) FM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^162]: A 4. melléklet 3. pontja az 56/2015. (IX. 24.) FM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^163]: A 4. melléklet 7. pontja az 56/2015. (IX. 24.) FM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^164]: A 4. melléklet 9. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 43. pontja szerint módosított szöveg.
+[^165]: A 4. melléklet a 87/2015. (XII. 21.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
