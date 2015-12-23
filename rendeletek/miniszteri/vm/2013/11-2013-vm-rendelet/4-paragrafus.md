@@ -1,6 +1,6 @@
 4. § (1) Az együttműködési projekt keretében az ügyfél által szervezett rendezvény vonatkozásában az ügyfél köteles:
 
-a)[^13] a rendezvény témáját, helyszínét és időpontját a rendezvény megvalósítási időpontját megelőző 30. napig a rendezvény helyszínének tekintetében illetékes LEADER HACS honlapján közzétetetni,, valamint
+a)[^14] a rendezvény témáját, helyszínét és időpontját a rendezvény megvalósítási időpontját megelőző 30. napig a rendezvény helyszínének tekintetében illetékes LEADER HACS honlapján közzétetetni,, valamint
 
 b) a meghívót és a meghirdetés dokumentációját a rendezvény időpontját megelőzően legkésőbb 30 nappal az MVH támogatási kérelem szerint illetékes regionális kirendeltségének megküldeni.
 
@@ -16,4 +16,4 @@ b) legalább 10 darab, a rendezvény főbb programjait és a rendezvényen elhel
 
 (5) A 7. § (4) bekezdésétől, valamint a Vhr. 27. § (1) bekezdés g) pontjától eltérően a rendezvényen fellépő előadóművészek díjára vonatkozóan egy árajánlat becsatolása szükséges.
 
-[^13]: A 4. § (1) bekezdés a) pontja a 28/2015. (VI. 9.) MvM rendelet 74. § a) pontja szerint módosított szöveg.
+[^14]: A 4. § (1) bekezdés a) pontja a 28/2015. (VI. 9.) MvM rendelet 74. § a) pontja szerint módosított szöveg.

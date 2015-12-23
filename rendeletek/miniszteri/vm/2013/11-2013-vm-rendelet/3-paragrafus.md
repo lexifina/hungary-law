@@ -12,13 +12,13 @@ e) rendezvény előkészítése és megvalósítása,
 
 f) legjobb gyakorlatok átadása, tudástranszfer,
 
-g)[^8] marketing,
+g)[^9] marketing,
 
-h)[^9] a koordináló szervezet esetében felmerülő projektmenedzsment,
+h)[^10] a koordináló szervezet esetében felmerülő projektmenedzsment,
 
-i)[^10] az a)–h) pontokba nem sorolható egyéb közösen előkészített és végrehajtott tevékenységek.
+i)[^11] az a)–h) pontokba nem sorolható egyéb közösen előkészített és végrehajtott tevékenységek.
 
-(1a)[^11] E rendelet keretében a marketing és az egyéb tevékenység nem minősül a Vhr. 31. §-a szerinti egyéb elszámolható kiadásnak.
+(1a)[^12] E rendelet keretében a marketing és az egyéb tevékenység nem minősül a Vhr. 31. §-a szerinti egyéb elszámolható kiadásnak.
 
 (2) Kizárólag olyan rendezvény és képzés támogatható, amelyről részletes ütemterv vagy az ügyfélnek az együttműködési projektben ellátandó feladatait részletező feladatterv készült, és az a támogatási kérelem részeként benyújtásra került.
 
@@ -30,10 +30,10 @@ a) kizárólag egy adott gazdasági társaság érdekeinek és termékeinek bemu
 
 b) politikai célú rendezvényre.
 
-(5)[^12] Az (1) bekezdés c)–i) pontjaiban felsorolt tevékenységek vonatkozásában az ügyfelet – a Vhr. 23. § (1) bekezdés b) pontjától eltérően – nem terheli üzemeltetési kötelezettség.
+(5)[^13] Az (1) bekezdés c)–i) pontjaiban felsorolt tevékenységek vonatkozásában az ügyfelet – a Vhr. 23. § (1) bekezdés b) pontjától eltérően – nem terheli üzemeltetési kötelezettség.
 
-[^8]: A 3. § (1) bekezdés g) pontja az 55/2013. (VI. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3. § (1) bekezdés h) pontja az 55/2013. (VI. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^10]: A 3. § (1) bekezdés i) pontját az 55/2013. (VI. 27.) VM rendelet 2. § (1) bekezdése iktatta be.
-[^11]: A 3. § (1a) bekezdését az 55/2013. (VI. 27.) VM rendelet 2. § (2) bekezdése iktatta be.
-[^12]: A 3. § (5) bekezdését a 130/2013. (XII. 21.) VM rendelet 44. §-a iktatta be.
+[^9]: A 3. § (1) bekezdés g) pontja az 55/2013. (VI. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1) bekezdés h) pontja az 55/2013. (VI. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdés i) pontját az 55/2013. (VI. 27.) VM rendelet 2. § (1) bekezdése iktatta be.
+[^12]: A 3. § (1a) bekezdését az 55/2013. (VI. 27.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 3. § (5) bekezdését a 130/2013. (XII. 21.) VM rendelet 44. §-a iktatta be.
