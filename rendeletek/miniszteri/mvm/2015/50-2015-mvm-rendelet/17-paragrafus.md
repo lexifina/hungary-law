@@ -8,7 +8,7 @@ c) a 7. § (1) bekezdésében meghatározott időpont és a támogatási kérele
 
 d) kettős könyvvitelt vezető vállalkozások esetében az utolsó két lezárt üzleti évre vonatkozó számviteli beszámolót, kettős könyvvitelt nem vezetők esetében az utolsó két év adóbevallását, egy lezárt üzleti évvel rendelkezők esetében a lezárt évre vonatkozó éves beszámolót vagy adóbevallást.
 
-(2) Az ügyfél a támogatási kérelemben nyertesként jelölt árajánlat-választását köteles megindokolni.
+(2)[^3] Amennyiben az ügyfél a támogatási kérelemben a magasabb összegű árajánlatot választja, úgy a választását köteles megindokolni.
 
 (3) Az árajánlatok nem származhatnak
 
@@ -27,3 +27,5 @@ f) olyan vállalkozástól, amellyel szemben az a)–e) pont szerinti feltétel 
 (4) Az ugyanarra a beruházási elemre vonatkozó elfogadott és elutasított árajánlatok nem származhatnak olyan vállalkozásoktól, amelyek a (3) bekezdésben felsorolt bármely módon kapcsolatban állnak egymással.
 
 (5) A forinttól eltérő pénznemben kiállított árajánlatot az árajánlat keltét megelőző hónap utolsó banki munkanapján érvényes – az MNB által közzétett – hivatalos középárfolyamon kell átszámítani forintra.
+
+[^3]: A 17. § (2) bekezdése az 56/2015. (XII. 23.) MvM rendelet 12. § (2) bekezdésével megállapított szöveg.

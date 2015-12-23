@@ -33,3 +33,7 @@ tartalmazzák.
 (7) Az ügyfél a támogatási kérelem benyújtási időszakban intézkedésenként egy támogatási kérelmet nyújthat be. A támogatási kérelem több, konvergencia területen elhelyezkedő telephelyen történő beruházásra is vonatkozhat.
 
 (8) A támogatási kérelemhez mellékelni kell az 1. mellékletben felsorolt, a kérelemmel érintett intézkedésre vonatkozó dokumentumokat.
+
+(9)[^2] A támogatási kérelem elbírálásához kapcsolódó adatszolgáltatási és nyilatkozattételi kötelezettség személyesen is teljesíthető.
+
+[^2]: A 4. § (9) bekezdését az 56/2015. (XII. 23.) MvM rendelet 12. § (1) bekezdése iktatta be.
