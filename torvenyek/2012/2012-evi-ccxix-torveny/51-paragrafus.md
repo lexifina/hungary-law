@@ -12,7 +12,7 @@
 
 (4) Ha a hegyközségi szervezet működésének törvényessége másképp nem állítható helyre, a miniszter keresettel fordulhat a törvényszékhez. A törvényszék
 
-a) megsemmisíti a hegyközségi szervezet jogsértő döntését és – szükség szerint – új döntés meghozatalát rendeli el;
+a) hatályon kívül helyezi a hegyközségi szervezet jogsértő döntését és – szükség szerint – új döntés meghozatalát rendeli el;
 
 b) a működés törvényességének helyreállítása céljából összehívja a hegyközségi szervezet legfőbb önkormányzati szervét;
 
