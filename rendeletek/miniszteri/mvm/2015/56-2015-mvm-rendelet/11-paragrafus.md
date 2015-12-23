@@ -1,0 +1,3 @@
+## 10. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet [a továbbiakban: 11/2013. (III. 5.) VM rendelet] a következő 24. §-sal egészül ki:
+
+## „24. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 56/2015. (XII. 23.) MvM rendelettel [a továbbiakban: 56/2015. (XII. 23.) MvM rendelet] megállapított 2. § (6b) bekezdést az 56/2015. (XII. 23.) MvM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
