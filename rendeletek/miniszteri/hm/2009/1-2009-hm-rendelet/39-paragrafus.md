@@ -6,7 +6,7 @@
 
 (3) A nyilvántartásból törölni kell a munkavédelmi szakértőt, ha
 
-a)[^14] szakértői engedélyét visszavonták vagy meghosszabbítására az időbeli hatálya alatt nem került sor,
+a)[^17] szakértői engedélyét visszavonták vagy meghosszabbítására az időbeli hatálya alatt nem került sor,
 
 b) a nyilvántartásból való törlését kéri,
 
@@ -14,4 +14,4 @@ c) meghal.
 
 (4) Az (1) bekezdés szerinti nyilvántartást évente január 31-ig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a HM honlapján közzé kell tenni.
 
-[^14]: A 39. § (3) bekezdés a) pontja az 5/2010. (III. 9.) HM rendelet 7. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A 39. § (3) bekezdés a) pontja az 5/2010. (III. 9.) HM rendelet 7. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

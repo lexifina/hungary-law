@@ -10,7 +10,7 @@
 
 2.2. A beosztott parancsnokok, munkahelyi vezetők munkavédelemmel kapcsolatos feladat- és hatásköre.
 
-2.3. A munkavédelmi feladatok ellátásával megbízottak, felelősök feladat- és hatásköre.
+2.3.[^22] A munkavédelmi feladatok ellátásáért felelősök feladat- és hatásköre.
 
 2.4. A munkáltatói munkavédelmi szabályozás tartalma.
 
@@ -89,3 +89,5 @@
 8. Záró rendelkezések
 
 9. Mellékletek, függelékek
+
+[^22]: Az 1. melléklet 2. pont 2.3. alpontja a 19/2015. (XII. 22.) HM rendelet 3. § c) pontja szerint módosított szöveg.

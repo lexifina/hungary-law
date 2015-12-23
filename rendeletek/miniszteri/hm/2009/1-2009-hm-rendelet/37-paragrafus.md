@@ -1,6 +1,6 @@
 ## A munkavédelem hatósági felügyelete
 
-37. § (1)[^12] A munkavédelmi bírságból befolyt összeg a honvédelemért felelős miniszter – a munkavédelmi bírságot kiszabó munkavédelmi hatóság javaslatán alapuló – rendelkezése szerint az egészséget nem veszélyeztető és biztonságos munkavégzés céljainak támogatására használható fel.
+37. § (1)[^15] A munkavédelmi bírságból befolyt összeg a honvédelemért felelős miniszter – a munkavédelmi bírságot kiszabó munkavédelmi hatóság javaslatán alapuló – rendelkezése szerint az egészséget nem veszélyeztető és biztonságos munkavégzés céljainak támogatására használható fel.
 
 (2) Az egészséget nem veszélyeztető és biztonságos munkavégzés céljai különösen:
 
@@ -12,7 +12,7 @@ c) az Európai Közösség munkavédelmi előírásainak megfelelő, a megelőz�
 
 d) a NATO-ban alkalmazott, az egészséget nem veszélyeztető és biztonságos munkakörülmények, eljárások harmonizálása, átvétele, egységesítése lehetőségeinek kutatása.
 
-(3)[^13] A munkabiztonsági hatóság által kiszabott munkavédelmi bírságot a Honvédelmi Minisztérium Hatósági Hivatal Magyar Államkincstárnál vezetett 10023002-00285142-00000000 számú számlájára, a munkaegészségügyi hatóság által kiszabott munkavédelmi bírságot az MH egészségügyi feladatokat ellátó központi szerve Magyar Államkincstárnál vezetett 10023002-00290483-00000000 számú számlájára kell befizetni.
+(3)[^16] A munkabiztonsági hatóság által kiszabott munkavédelmi bírságot a Honvédelmi Minisztérium Hatósági Hivatal Magyar Államkincstárnál vezetett 10023002-00285142-00000000 számú számlájára, a munkaegészségügyi hatóság által kiszabott munkavédelmi bírságot az MH egészségügyi feladatokat ellátó központi szerve Magyar Államkincstárnál vezetett 10023002-00290483-00000000 számú számlájára kell befizetni.
 
-[^12]: A 37. § (1) bekezdése az 5/2010. (III. 9.) HM rendelet 7. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^13]: A 37. § (3) bekezdése az 1/2012. (I. 11.) HM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^15]: A 37. § (1) bekezdése az 5/2010. (III. 9.) HM rendelet 7. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 37. § (3) bekezdése az 1/2012. (I. 11.) HM rendelet 8. § (1) bekezdése szerint módosított szöveg.
