@@ -10,7 +10,7 @@ b) működése, határozatai nem sértik-e a jogszabályokat, az alapszabályt v
 
 (3) Ha a gazdasági kamara működésének törvényessége másképpen nem biztosítható, az ügyészség törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
 
-a) megsemmisíti a kamara törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
+a) hatályon kívül helyezi a kamara törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
 
 b) a működés törvényességének helyreállítása érdekében összehívja a kamara küldöttgyűlését;
 
