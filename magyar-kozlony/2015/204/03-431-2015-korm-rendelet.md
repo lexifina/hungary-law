@@ -1,0 +1,339 @@
+# A Kormány 431/2015. (XII. 23.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 204. szám, 2015. december 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/12142a9df5714036851a61e9f33faee66909f55a/dokumentumok/291fa89eb718ed155fc05cf509a2bd6fff104e16/letoltes)
+
+---
+
+A Kormány 431/2015. (XII. 23.) Korm. rendelete
+a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési
+díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet
+módosításáról
+A Kormány a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés b), c) és
+m) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. §
+A személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és
+az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet (a továbbiakban: Gytr.)
+a 13. §-t megelőzően a következő alcím címmel egészül ki:
+„3/A. Gyermekétkeztetés”
+2. §
+A Gytr. 13. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az intézmény vezetője az ingyenes és kedvezményes intézményi gyermekétkeztetés feltételeiről, a szünidei
+gyermekétkeztetésről és az igénybevétel módjáról tájékoztatja a kötelezettet
+a) a beíratáskor,
+b) az ellátás igénybevételének megkezdésekor, és
+c) az ingyenes és kedvezményes intézményi gyermekétkeztetés feltételeinek megváltozásakor.”
+3. §
+A Gytr. a 4. alcímet megelőzően a következő 13/A. és 13/B. §-sal egészül ki:
+„13/A. § (1) A szünidei gyermekétkeztetés keretében a gyermek lakóhelye, vagy ha a gyermek életvitelszerűen
+a bejelentett tartózkodási helyén lakik, a tartózkodási helye szerinti települési önkormányzat (ezen alcím
+alkalmazásában a továbbiakban együtt: települési önkormányzat) a déli meleg főétkezés helyben történő
+
+elfogyasztásának megszervezéséről gondoskodik. Ha a helyben történő elfogyasztásra nincs lehetőség, így
+különösen erre alkalmas helyiség hiánya esetén, a szünidei gyermekétkeztetés az étel elvitelével vagy a gyermek
+számára történő kiszállításával is biztosítható.
+(2) A szünidei gyermekétkeztetés során, ha az étel helyben történő elfogyasztását a gyermek előre nem látható
+hiányzása, betegsége vagy egyéb ok akadályozza, a részére biztosított étel elvitelét a szülője, más törvényes
+képviselője vagy a szülő, más törvényes képviselő által megbízott személy számára lehetővé kell tenni. Ha erre
+nem kerül sor, akkor az étel másik, a Gyvt. 21/C. §-ában foglaltaknak megfelelő gyermek számára átadható helyben
+történő elfogyasztásra vagy elvitel formájában.
+(3) A települési önkormányzat a szünidei gyermekétkeztetést
+a) a tanév rendjéről szóló miniszteri rendeletben meghatározott őszi, téli és tavaszi tanítási szünet, valamint
+az ezen időtartamra eső, a bölcsődei ellátást nyújtó intézmény és az óvoda zárva tartásának időtartama alatti
+munkanapokon (a továbbiakban együtt: évközi szünet), és
+b) a tanév rendjéről szóló miniszteri rendeletben meghatározott nyári tanítási szünet időtartama alatt legalább
+43 munkanapon, valamint az ezen időtartamra eső, a bölcsődei ellátást nyújtó intézmény és az óvoda zárva
+tartásának időtartama alatti munkanapokon (a továbbiakban együtt: nyári szünet)
+szervezi meg.
+(4) A szünidei gyermekétkeztetés biztosításának időszaka a gyermek más településen történő táborozása vagy más
+okból való akadályoztatása esetén az adott gyermek tekintetében a (3) bekezdésében meghatározott időtartamnál
+rövidebb is lehet.
+(5) A szünidei gyermekétkeztetéshez kapcsolódóan a települési önkormányzat szabadidős programot biztosíthat
+a gyermekek számára, különösen a nyári szünet időtartama alatt.
+13/B. § (1) A települési önkormányzat jegyzője írásban tájékoztatja azon hátrányos helyzetű és rendszeres
+gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermek szülőjét vagy más törvényes
+képviselőjét (a 13/B. § alkalmazásában a továbbiakban együtt: jogosult), akinek gyermeke tekintetében a hátrányos
+vagy halmozottan hátrányos helyzet az adott év
+a) szeptember 1-jén fennáll, az évközi szünet időtartamára eső szünidei gyermekétkeztetés igénybevételének
+lehetőségéről, az igénybevétel módjáról, valamint a szünidei gyermekétkeztetés biztosításának időtartamáról,
+helyszínéről és módjáról minden év szeptember 15-éig,
+b) május 1-jén fennáll, a nyári szünet időtartamára eső szünidei gyermekétkeztetés igénybevételének lehetőségéről,
+az igénybevétel módjáról, valamint a szünidei gyermekétkeztetés biztosításának időtartamáról, helyszínéről és
+módjáról minden év május 15-éig.
+(2) A települési önkormányzat jegyzője, ha a gyermek hátrányos vagy halmozottan hátrányos helyzetét
+a) az adott év szeptember 1-je és a következő év április 30-a között állapította meg, a hátrányos, halmozottan
+hátrányos helyzet megállapításával egyidejűleg tájékoztatja a jogosultat az (1) bekezdés a) pontjában foglaltakról,
+b) az adott év május 1-je és augusztus 15-e között állapította meg, a hátrányos, halmozottan hátrányos helyzet
+megállapításával egyidejűleg tájékoztatja a jogosultat az (1) bekezdés b) pontjában foglaltakról.
+(3) A települési önkormányzat jegyzője az (1) és (2) bekezdés szerinti tájékoztatással egyidejűleg megküldi
+a jogosultnak a szünidei gyermekétkeztetés igényléséhez szükséges 7. melléklet szerinti nyilatkozatot. Ha a jogosult
+több hátrányos vagy halmozottan hátrányos helyzetű gyermeket nevel, a gyermekek számának megfelelő számú
+nyilatkozatot kell számára megküldeni.
+(4) A települési önkormányzat jegyzője az (1) és (2) bekezdés szerinti tájékoztató kiküldésével egyidejűleg
+a tájékoztató címzettjeiről értesíti a család- és gyermekjóléti szolgálatot.
+(5) A család- és gyermekjóléti szolgálat a (4) bekezdés szerinti értesítés alapján felkeresi a hátrányos helyzetű és
+a rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermeket nevelő
+családot, és segítséget nyújt a jogosultnak a 7. melléklet szerinti nyilatkozat kitöltéséhez és benyújtásához.
+(6) A 7. melléklet szerinti nyilatkozat – az évközi szünet időtartama kivételével – a nevelési év, tanév során bármikor
+benyújtható, illetve módosítható.
+(7) A települési önkormányzat jegyzője minden egyes szünidei gyermekétkeztetés megkezdése előtt a helyben
+szokásos módon, valamint az intézményi gyermekétkeztetést biztosító intézményeken keresztül felhívja
+a jogosultak figyelmét a szünidei gyermekétkeztetésre, annak időtartamára és helyszínére.
+(8) A települési önkormányzat jegyzője az adott szünidei gyermekétkeztetés megkezdése előtt vizsgálja, hogy
+a szünidei gyermekétkeztetés megkezdésekor a rendszeres gyermekvédelmi kedvezményben részesülő gyermek
+hátrányos vagy halmozottan hátrányos helyzete az azt megállapító határozat alapján fennáll-e. Ha a gyermek
+
+hátrányos vagy halmozottan hátrányos helyzete a szünidei gyermekétkeztetés megkezdését megelőző harmincadik
+napon fennállt, azt a gyermekétkeztetés megkezdésekor is fennállónak kell tekinteni.
+(9) Ha a települési önkormányzat jegyzője azt állapítja meg, hogy a gyermek nem jogosult a szünidei
+gyermekétkeztetésre, erről írásban értesíti a szünidei gyermekétkeztetést igénylő szülőt, más törvényes képviselőt.”
+4. § (1) A Gytr. 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A kötelezett
+a) a Gyvt. 21/B. § (1) bekezdés a) pontja szerinti ingyenes intézményi gyermekétkeztetés igénybevételéhez
+a 6. melléklet szerinti nyilatkozatot,
+b) a Gyvt. 21/B. § (1) bekezdés b)–d) pontja és a Gyvt. 21/B. § (2) bekezdése szerinti ingyenes és kedvezményes
+intézményi gyermekétkeztetés igénybevételéhez a 8. melléklet szerinti nyilatkozatot és az adott jogcím igazolására
+a 18. §-ban előírt dokumentumot
+nyújtja be az intézményvezetőnek.”
+(2) A Gytr. 17. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A kötelezett egy nyilatkozatot nyújt be, ha az ugyanazon intézménybe járó több gyermeke után azonos
+jogcímen igényli az ingyenes vagy kedvezményes gyermekétkeztetést.”
+5. § (1) A Gytr. 18. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A kötelezett – a (4a) bekezdésben foglalt kivétellel – benyújtja az intézményvezetőnek a rendszeres
+gyermekvédelmi kedvezményre való jogosultságot megállapító hatósági döntés másolatát bölcsődei gondozás
+esetében a Gyvt. 150. § (6) bekezdés a) pontjában, továbbá gyermekétkeztetés esetében a Gyvt. 21/B. § (1) bekezdés
+b) pont ba) alpontjában és c) pontjában, valamint a Gyvt. 21/B. § (2) bekezdés a) pontjában foglalt ingyenes és
+kedvezményes gyermekétkeztetés igénybevételéhez.”
+(2) A Gytr. 18. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
+„(4a) Ha a szülő, más törvényes képviselő a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról
+szóló 149/1997. (IX. 10.) Korm. rendelet 66/A. § (2) bekezdése alapján a rendszeres gyermekvédelmi kedvezmény
+első alkalommal történő megállapításakor kérte a határozat egy példányának megküldését a gyermekétkeztetést
+biztosító intézmény számára, a határozat érvényességének időtartama alatt a határozat másolatát nem kell
+benyújtania az intézményvezetőnek.
+(4b) Ha a bölcsődei gondozás térítésmentessége a Gyvt. 150. § (6) bekezdés d) pontja alapján, vagy az ingyenes
+intézményi gyermekétkeztetésre való jogosultság a Gyvt. 21/B. § (1) bekezdés b) pont bb) alpontja vagy d) pontja
+alapján áll fenn, a gondozási helyet biztosító intézmény vezetője a 9. melléklet szerinti igazolást nyújtja be
+az intézményvezetőnek.”
+(3) A Gytr. 18. §-a a következő (5a) bekezdéssel egészül ki:
+„(5a) A fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó fogyatékosok
+nappali intézményében elhelyezett gyermek ingyenes és kedvezményes intézményi gyermekétkeztetésének
+igénybevételéhez a kötelezettnek a gyermek fogyatékosságáról külön igazolást nem kell benyújtania.”
+6. §
+A Gytr. a következő 22. §-sal egészül ki:
+„22. § A személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról
+és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet módosításáról szóló
+431/2015. (XII. 23.) Korm. rendelettel megállapított 13/B. §-t a 2015/2016. nevelési évben, tanévben is alkalmazni
+kell azzal, hogy a települési önkormányzat jegyzője a 2015/2016. nevelési évben, tanévben a tavaszi szünet
+időtartamára eső szünidei gyermekétkeztetés igénybevételének lehetőségéről, az igénybevétel módjáról, valamint
+a szünidei gyermekétkeztetés biztosításának időtartamáról, helyszínéről és módjáról szóló írásbeli tájékoztatást
+a) 2016. február 15-éig küldi meg azon hátrányos helyzetű és rendszeres gyermekvédelmi kedvezményben
+részesülő, halmozottan hátrányos helyzetű gyermek szülőjének, más törvényes képviselőjének, akinek hátrányos
+vagy halmozottan hátrányos helyzete 2016. február 1-jén fennáll,
+b) a hátrányos, halmozottan hátrányos helyzet megállapításával egyidejűleg küldi meg azon hátrányos helyzetű és
+rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermek szülőjének, más
+törvényes képviselőjének, akinek hátrányos vagy halmozottan hátrányos helyzetét 2016. február 1-je és március
+23-a között állapítja meg.”
+
+7. § (1) A Gytr. 6. melléklete az 1. melléklet szerint módosul.
+(2) A Gytr.
+a) a 2. melléklet szerinti 7. melléklettel,
+b) a 3. melléklet szerinti 8. melléklettel,
+c) a 4. melléklet szerinti 9. melléklettel
+egészül ki.
+8. §
+A Gytr.
+a) 1. § (1) bekezdés b) pontjában a„Gyvt. 151. §”szövegrész helyébe a„Gyvt. 21–21/C. §”szöveg,
+b) 13. § (1) bekezdésében az„a gyermekétkeztetést betegség” szövegrész helyébe az„az intézményi és szünidei
+gyermekétkeztetést betegség”szöveg, valamint az„intézmény vezetőjénél”szövegrész helyébe az„intézmény
+vezetőjénél, a szünidei gyermekétkeztetést biztosítónál”szöveg,
+c) 13. § (1a) bekezdésében az „a gyermekétkeztetésért” szövegrész helyébe az „az intézményi
+gyermekétkeztetésért”szöveg,
+d) 13. § (2) bekezdésében az „A gyermekétkeztetés” szövegrész helyébe az „Az intézményi gyermekétkeztetés”
+szöveg,
+e) 13. § (3) és (4) bekezdésében a „gyermekétkeztetésért” szövegrész helyébe az „intézményi
+gyermekétkeztetésért”szöveg,
+f) 13. § (5) bekezdésében az „a gyermekétkeztetés” szövegrész helyébe az „az intézményi gyermekétkeztetés,
+a települési önkormányzat a szünidei gyermekétkeztetés”szöveg,
+g) 16. § (1) bekezdés a) pontjában a„gyermekétkeztetés”szövegrész helyébe az„intézményi gyermekétkeztetés”
+szöveg,
+h) 17. § (1) bekezdésében a„kötelezett” szövegrész helyébe a„kötelezett – a (2) bekezdésben foglalt kivétellel –”
+szöveg,
+i) 18. § (1) bekezdésében a „gyermekétkeztetés esetében a Gyvt. 151. § (5a) bekezdés b) pontja” szövegrész
+helyébe az„intézményi gyermekétkeztetés esetében a Gyvt. 21/B. § (2) bekezdés b) pontja”szöveg és a„Gyvt.
+151. § (10) bekezdésben”szövegrész helyébe a„Gyvt. 21/B. § (3) bekezdésben”szöveg,
+j) 18. § (5) bekezdésében a „gyermekétkeztetésnél a Gyvt. 151. § (5) bekezdés c) pontjában, továbbá a Gyvt.
+151. § (5a) bekezdés c) pontjában” szövegrész helyébe az „intézményi gyermekétkeztetésnél a Gyvt. 21/B. §
+(2) bekezdés c) pontjában”szöveg,
+k) 18. § (6) bekezdésében a „Gyvt. 151. § (5) és (5a) bekezdése szerinti ingyenes és kedvezményes étkezésre”
+szövegrész helyébe a „Gyvt. 21/B. § (1) és (2) bekezdése szerinti ingyenes és kedvezményes intézményi
+gyermekétkeztetésre”szöveg,
+l) 18. § (7) bekezdésében az „a gyermekétkeztetés normatív kedvezményének” szövegrész helyébe az „az
+ingyenes vagy kedvezményes intézményi gyermekétkeztetés” szöveg, valamint az „a gyermekétkeztetés
+normatív kedvezménye” szövegrészek helyébe az „az ingyenes vagy kedvezményes intézményi
+gyermekétkeztetés”szöveg,
+m) 5. számú mellékletének a „Tájékoztató a jövedelemnyilatkozat kitöltéséhez” rész III. „Jövedelem típusai
+pont 3. alpontjában a „gyermekgondozási segély” szövegrész helyébe a „gyermekgondozást segítő ellátás,
+gyermekgondozási segély”szöveg
+lép.
+9. §
+Ez a rendelet 2016. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 431/2015. (XII. 23.) Korm. rendelethez
+1. A Gytr. 6. melléklet címének címsora helyébe a következő címsor lép:
+„NYILATKOZAT a Gyvt. 21/B. § (1) bekezdés a) pontja szerinti ingyenes bölcsődei és óvodai
+gyermekétkeztetés igénybevételéhez”
+2. A Gytr. 6. melléklete a következő 1a. és 1b. pontokkal egészül ki:
+„1a. Az étkeztetés biztosítását
+o kizárólag a déli meleg főétkezés, vagy
+o a déli meleg főétkezés mellett egy kisétkezés, vagy
+o a déli meleg főétkezés mellett két kisétkezés, vagy
+o bölcsőde esetében
+o a déli meleg főétkezés mellett a reggeli főétkezés és két kisétkezés, vagy
+o a következő étkezések: …………………………………………………
+vonatkozásában kérem.
+1b. Kérem diétás étrend biztosítását: igen / nem (a választott lehetőség aláhúzandó!) a következő egészségi
+állapotra tekintettel: ………………………………………………”
+3. A Gytr. 6. melléklet 1. pont d) alpontjához tartozó magyarázó szöveg helyébe a következő rendelkezés lép:
+„*** A gyermekek számának meghatározásánál figyelembe veendő gyermekek köre: az egy lakásban együtt lakó,
+ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező 18 éven aluli gyermek; a 25 évesnél fiatalabb,
+köznevelési intézményben nappali rendszerű iskolai oktatásban részt vevő, a nappali oktatás munkarendje szerint
+szervezett felnőttoktatásban részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló gyermek
+és életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos gyermek, kivéve a nevelőszülőnél ideiglenes
+hatállyal elhelyezett gyermek, valamint a nevelőszülőnél elhelyezett nevelésbe vett gyermek és utógondozói
+ellátásban részesülő fiatal felnőtt.”
+4. A Gytr. 6. melléklet„Tájékoztató a nyilatkozat kitöltéséhez”rész 3. pont 3.4. alpontjában a„gyermekgondozási segély”
+szövegrész helyébe a„gyermekgondozást segítő ellátás”szöveg lép.
+2. melléklet a 431/2015. (XII. 23.) Korm. rendelethez
+„7. melléklet a 328/2011. (XII. 29.) Korm. rendelethez
+NYILATKOZAT a Gyvt. 21/C. §-a szerinti szünidei gyermekétkeztetés igénybevételéhez
+1. Alulírott ........................... (születési név: .............................., születési hely, idő ................., ..... ... ... anyja neve: ..............................)
+........................................ szám alatti lakos, mint a .................................... nevű gyermek (születési hely, idő ................., ..... ... ...
+anyja neve: ...................................................)1 szülője/más törvényes képviselője (a megfelelő aláhúzandó) a gyermekek
+védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 21/C. §-a szerinti szünidei gyermekétkeztetés
+igénybevételét az alábbi időtartamban kérem:
+A B C
+1 Iskolai szünet,
+bölcsődei,
+óvodai zárva
+tartás2
+A szünidei gyermekétkeztetést a szünet, zárva
+tartás időtartamára eső
+a) őszi, téli, tavaszi szünet esetén valamennyi
+munkanapon kérem,
+b) nyári szünet esetén az önkormányzat által
+meghatározott számú valamennyi munkanapon
+kérem3
+A szünidei gyermekétkeztetést
+a szünet, zárva tartás időtartamára eső,
+alábbi munkanapokon kérem4
+2 őszi Igen / Nem
+3 téli Igen / Nem
+4 tavaszi Igen / Nem
+5 nyári Igen / Nem
+
+2. Kérem diétás étrend biztosítását: igen / nem (a választott lehetőség aláhúzandó!) a következő egészségi állapotra
+tekintettel: …………………………………………....................
+Dátum: ................................................
+ ........................................................................................
+ az ellátást igénylő (szülő,
+ más törvényes képviselő) aláírása
+1 Gyermekenként külön nyilatkozatot kell kitölteni.
+2 Kérjük, húzza alá, hogy melyik szünetben kéri a szünidei gyermekétkeztetés biztosítását. (Ha az évközi szüneteknél több szünetben vagy az összes
+évközi szünetben, azaz az őszi, téli, tavaszi szünetben is kéri, akkor kérjük, mindegyiket húzza alá.)
+3A megfelelő válasz (Igen vagy Nem) aláhúzandó.
+4 Kizárólag abban az esetben töltendő, amennyiben a jogosult az adott szünet, zárva tartás vonatkozásában az előző oszlopban nemmel nyilatkozott.
+Ez esetben azon munkanapok felsorolása szükséges, amelyek tekintetében – az adott szünidei gyermekétkeztetés időtartamán belül – a jogosult kéri
+az étkeztetés biztosítását.”
+3. melléklet a 431/2015. (XII. 23.) Korm. rendelethez
+„8. melléklet a 328/2011. (XII. 29.) Korm. rendelethez
+NYILATKOZAT a Gyvt. 21/B. § (1) bekezdés b)–d) pontja és a Gyvt. 21/B. § (2) bekezdése szerinti
+ingyenes vagy kedvezményes intézményi gyermekétkeztetés igénybevételéhez
+1. Alulírott ........................... (születési név: .............................., születési hely, idő ................., ..... ... ... anyja neve: ..............................)
+........................................ szám alatti lakos, mint a
+1.1. .................................... nevű gyermek (születési hely, idő ................., ..... ... ... anyja neve: ...................................................),
+1.2. .................................... nevű gyermek (születési hely, idő ................., ..... ... ... anyja neve: ...................................................),*
+1.3. .................................... nevű gyermek (születési hely, idő ................., ..... ... ... anyja neve: ...................................................),*
+szülője/más törvényes képviselője (a megfelelő aláhúzandó) a gyermekek védelméről és a gyámügyi igazgatásról
+szóló 1997. évi XXXI. törvény 21/B. § (1) bekezdés b)–d) pontja és (2) bekezdése szerinti ingyenes vagy
+kedvezményes gyermekétkeztetés igénybevételét az alábbi jogcím alapján kérem, mivel a gyermek(ek):**
+a) rendszeres gyermekvédelmi kedvezményben részesül ...... év .................. hónap ...... napjától,
+b) tartósan beteg vagy fogyatékos,
+c) családjában három vagy több gyermeket nevelnek,***
+d) nevelésbe vételét rendelte el a gyámhatóság, vagy
+e) utógondozói ellátásban részesül.
+2. Az étkeztetés biztosítását
+o kizárólag a déli meleg főétkezés, vagy
+o a déli meleg főétkezés mellett egy kisétkezés, vagy
+o a déli meleg főétkezés mellett két kisétkezés, vagy
+o kollégiumi, externátusi ellátás esetén a következő étkezések: …………………………………………………
+……………………………………………….
+vonatkozásában kérem.
+3. Kérem diétás étrend biztosítását: igen / nem (a választott lehetőség aláhúzandó!) a következő egészségi állapotra
+tekintettel: …………………………………………....................
+
+4. Büntetőjogi felelősségem tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek, egyúttal
+hozzájárulok a kérelemben szereplő adatoknak a gyermekétkeztetés normatív kedvezményének igénybevételéhez
+történő felhasználásához.
+Dátum: ................................................
+ ....................................................
+ az ellátást igénylő (szülő,
+ más törvényes képviselő,
+ nevelésbe vett gyermek esetén
+ az ellátást nyújtó nevelőszülő, intézményvezető,
+ utógondozói ellátott fiatal felnőtt esetén
+ az ellátást igénylő) aláírása
+* A pont csak akkor töltendő, ha az ugyanazon intézménybe járó több gyermeke után ugyanazon jogcímen igényli a szülő/más törvényes képviselő
+a normatív kedvezményt. Ha különbözik a jogcím, gyermekenként külön nyilatkozatot kell kitölteni. A gyermekek számának megfelelően a sorok
+értelemszerűen bővíthetőek.
+** A megfelelő pont jelölendő!
+*** A gyermekek számának meghatározásánál figyelembe veendő gyermekek köre: Az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy
+tartózkodási hellyel rendelkező 18 éven aluli gyermek; a 25 évesnél fiatalabb, köznevelési intézményben nappali rendszerű iskolai oktatásban részt
+vevő, a nappali oktatás munkarendje szerint szervezett felnőttoktatásban részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló
+gyermek és életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos gyermek, kivéve a nevelőszülőnél ideiglenes hatállyal elhelyezett
+gyermek, valamint a nevelőszülőnél elhelyezett nevelésbe vett gyermek és utógondozói ellátásban részesülő fiatal felnőtt.”
+4. melléklet a 431/2015. (XII. 23.) Korm. rendelethez
+„9. melléklet a 328/2011. (XII. 29.) Korm. rendelethez
+IGAZOLÁS az átmeneti gondozásban lévő, az ideiglenes hatállyal elhelyezett és a nevelésbe vett
+gyermek ingyenes bölcsődei gondozásra és a nevelésbe vett gyermek, utógondozói ellátásban
+részesülő fiatal felnőtt ingyenes intézményi gyermekétkeztetés igénybevételére való jogosultságához
+I. Az ingyenes bölcsődei gondozás igénybevételéhez
+1. Igazolom, hogy ............................................................................ (gyermek neve),
+.................................... (születési helye), ........... év ....................... hó ....... nap (születési ideje),
+.............................................................................................................................. (anyja neve),
+.................................................................................................. (az átmeneti gondozást nyújtó gyermekjóléti szolgáltató vagy
+az ideiglenes hatályú elhelyezést, nevelésbe vételt elrendelő gyámhatóság neve, székhelye),
+............................................................................................................ számú megállapodása vagy gyámhatósági határozata alapján
+a) átmeneti gondozásban részesülő gyermek,
+b) ideiglenes hatállyal elhelyezett gyermek,
+c) nevelésbe vett gyermek.
+(A megfelelő rész aláhúzandó!)
+2. Az átmeneti gondozásban lévő gyermek ellátásának helyszíne, az ideiglenes hatállyal elhelyezett, nevelésbe vett
+gyermek gyámhatósági határozatban kijelölt gondozási helye/ellátásának helyszíne:
+..................................................................................................................................................
+..................................................................................................................................................
+[helyettes szülő, gyermekek átmeneti otthona, családok átmeneti otthona, nevelőszülő, gyermekotthon, egyéb
+(működtető) intézmény neve, címe]
+II. Az ingyenes intézményi gyermekétkeztetés igénybevételéhez
+1. Igazolom, hogy ............................................................................ (gyermek, fiatal felnőtt neve),
+.................................... (születési helye), ........... év ....................... hó ....... nap (születési ideje),
+.............................................................................................................................. (anyja neve),
+.................................................................................................. (gyámhatóság neve, székhelye),
+............................................................................................................ számú határozata alapján
+
+a) nevelésbe vett gyermek,
+b) utógondozói ellátásban részesülő fiatal felnőtt.
+(A megfelelő rész aláhúzandó!)
+2. A gyermek/fiatal felnőtt gyámhatósági határozatban kijelölt gondozási helye/ellátásának helyszíne:
+..................................................................................................................................................
+..................................................................................................................................................
+[nevelőszülő, gyermekotthon, egyéb (működtető) intézmény neve, címe]
+Kelt ................................., ............ év ....................................... hó ........... nap
+P. H.
+ ...............................................................................................
+ az átmeneti gondozást biztosító gyermekjóléti
+ szolgáltató vezetője, a gondozási helyet
+ biztosító intézmény vezetője”
+
+V. A Kormány tagjainak rendeletei
