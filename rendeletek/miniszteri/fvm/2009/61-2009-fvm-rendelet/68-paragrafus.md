@@ -34,7 +34,7 @@ bd) pásztoroló vagy szakaszolt legeltetést kell alkalmazni;
 
 be) kaszálás évente egy alkalommal engedélyezett;
 
-bf)[^160] őszi tisztító kaszálás elvégzése kötelező, amely után a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
+bf)[^163] őszi tisztító kaszálás elvégzése kötelező, amely után a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
 
 c) kaszálás esetén:
 
@@ -42,11 +42,11 @@ ca) a gyepet legalább kétszeri kaszálással kell hasznosítani, amelybe az ő
 
 cb) felülvetés, szervestrágyázás és öntözés tilos;
 
-cc)[^161] a kaszálást követően a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
+cc)[^164] a kaszálást követően a lekaszált anyagot legkésőbb október 31-ig, az állami természetvédelmi szerv által kiállított kaszálási engedélyben előírt október 31-e utáni időpont esetén pedig legkésőbb a kaszálást követő 30 napon belül a területről le kell hordani;
 
 cd) a gazdálkodási év során kizárólag kaszálás történik.
 
-(5)[^162] A támogatás mértéke a célprogramba bevitt terület után azon támogatásra jogosult esetén, aki Natura 2000 gyepterület vonatkozásában kompenzációs támogatás igénybevételére
+(5)[^165] A támogatás mértéke a célprogramba bevitt terület után azon támogatásra jogosult esetén, aki Natura 2000 gyepterület vonatkozásában kompenzációs támogatás igénybevételére
 
 a) nem jogosult:
 
@@ -62,9 +62,9 @@ bb) kaszálás esetén 48 euró/ha-nak megfelelő forintösszeg.
 
 (6) A területazonosítási kérelemhez mellékelni kell a 39. § (4) bekezdés szerinti igazolást.
 
-(7)[^163]
+(7)[^166]
 
-[^160]: A 68. § (4) bekezdés b) pont bf) alpontja a 92/2011. (X. 5.) VM rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^161]: A 68. § (4) bekezdés c) pont cc) alpontja a 92/2011. (X. 5.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^162]: A 68. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^163]: A 68. § (7) bekezdését a 44/2012. (V. 3.) VM rendelet 12. §-a hatályon kívül helyezte.
+[^163]: A 68. § (4) bekezdés b) pont bf) alpontja a 92/2011. (X. 5.) VM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^164]: A 68. § (4) bekezdés c) pont cc) alpontja a 92/2011. (X. 5.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^165]: A 68. § (5) bekezdése a 92/2011. (X. 5.) VM rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^166]: A 68. § (7) bekezdését a 44/2012. (V. 3.) VM rendelet 12. §-a hatályon kívül helyezte.

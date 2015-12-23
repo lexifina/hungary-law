@@ -1,6 +1,6 @@
 ## A kötelezettségvállalás területére vonatkozó visszavonás szabályai
 
-26. §[^57] (1) A támogatási időszak alatt a támogatásra jogosult az MVH központi szerve által rendszeresített és az MVH honlapján közzétett formanyomtatványon kérelmezheti
+26. §[^60] (1) A támogatási időszak alatt a támogatásra jogosult az MVH központi szerve által rendszeresített és az MVH honlapján közzétett formanyomtatványon kérelmezheti
 
 a) a teljes kérelem visszavonását,
 
@@ -10,7 +10,7 @@ c) egy adott célprogramba bevitt földterület részleges visszavonását.
 
 (2) Az (1) bekezdés alapján visszavont területre kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül, továbbá a visszavonással érintett terület támogatási jogosultsága megszűnik. A jogosulatlanul igénybe vett támogatás visszafizetése az adott gazdálkodási év támogatási összegéből történő levonással is teljesíthető.
 
-(3)[^58] Az (1) bekezdés c) pontja szerinti esetben a visszavont földterület
+(3)[^61] Az (1) bekezdés c) pontja szerinti esetben a visszavont földterület
 
 a) a vis maior esetek;
 
@@ -36,10 +36,10 @@ d) a 2013/2014., azaz az ötödik gazdálkodási év vonatkozásában: 2013. dec
 
 (7) Ha a támogatásra jogosult az (1) bekezdés szerinti visszavonás iránti kérelmet a helyszíni ellenőrzésről történő értesítés napján, ennek hiányában a helyszíni ellenőrzés első napján, vagy ezt követően nyújtotta be, akkor a visszavonás iránti kérelem csak a következő gazdálkodási évre vonatkozóan fogadható el.
 
-(8)[^59] Ha a kötelezettségvállalással érintett egybefüggő terület visszavonása után maradó terület nem éri el a jogosultsági feltételként szereplő minimális területnagyságot, a fennmaradó terület a célprogramból kizárásra kerül és vis maior esetek kivételével a területre vonatkozóan igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
+(8)[^62] Ha a kötelezettségvállalással érintett egybefüggő terület visszavonása után maradó terület nem éri el a jogosultsági feltételként szereplő minimális területnagyságot, a fennmaradó terület a célprogramból kizárásra kerül és vis maior esetek kivételével a területre vonatkozóan igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
 (9) Az (1) bekezdésben meghatározott kérelem alapján az MVH a területazonosítási kérelemre hozott határozatot módosítja.
 
-[^57]: A 26. § a 35/2010. (XI. 30.) VM rendelet 6. §-ával megállapított szöveg.
-[^58]: A 26. § (3) bekezdése a 92/2011. (X. 5.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^59]: A 26. § (8) bekezdése a 92/2011. (X. 5.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^60]: A 26. § a 35/2010. (XI. 30.) VM rendelet 6. §-ával megállapított szöveg.
+[^61]: A 26. § (3) bekezdése a 92/2011. (X. 5.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^62]: A 26. § (8) bekezdése a 92/2011. (X. 5.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.

@@ -44,7 +44,7 @@
 
 20. főnövény: az a növény, amely az adott gazdálkodási évben a leghosszabb ideig foglalja el a területet, és amit a földhasználó az adott évi kifizetési kérelmében megjelölt;
 
-21. gazdálkodási napló: a 21. számú melléklet szerinti dokumentum, amelyet a földhasználó a gazdasága teljes területére vonatkozóan, a támogatási időszakban, az adott gazdálkodási évben végzett mezőgazdasági tevékenységeiről vezet;
+21.[^2] gazdálkodási napló: 2015. december 31-ig a 21. számú melléklet szerinti, 2016. január 1-től a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 9/2015. (III. 13.) FM rendelet 8. melléklete szerinti dokumentum, amelyet a földhasználó a gazdasága teljes területére vonatkozóan, a támogatási időszakban végzett mezőgazdasági tevékenységeiről vezet;
 
 22. gazdaság: a támogatásra jogosult által mezőgazdasági tevékenység céljából hasznosított mezőgazdasági területek, állatok, épületek és eszközök összessége;
 
@@ -56,7 +56,7 @@
 
 26. homogén ültetvény: legalább 95%-ban egy növényfaj azonos vagy különböző korú egyedeiből álló ültetvény;
 
-27.[^2] hüvelyes növény: bab, borsó fajok, lencse, csillagfürt, szójabab, szegletes lednek, földimogyoró,
+27.[^3] hüvelyes növény: bab, borsó fajok, lencse, csillagfürt, szójabab, szegletes lednek, földimogyoró,
 
 28. intézkedés: az agrár-környezetgazdálkodási célprogramok összessége;
 
@@ -84,7 +84,7 @@
 
 40. MePAR: a Tv. 31. §-ának (1) bekezdésében meghatározott és a MePAR rendeletben szabályozott rendszer;
 
-41.[^3] mezőgazdasági hasznosítású terület: adott gazdálkodási évben az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló rendelet (a továbbiakban: egységes kérelemről szóló rendelet) szerinti egységes kérelemben bejelentett szántó, gyep, ültetvény és konyhakert összes területe, amely a MePAR-ban lehatárolt támogatható területre esik;
+41.[^4] mezőgazdasági hasznosítású terület: adott gazdálkodási évben az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló rendelet (a továbbiakban: egységes kérelemről szóló rendelet) szerinti egységes kérelemben bejelentett szántó, gyep, ültetvény és konyhakert összes területe, amely a MePAR-ban lehatárolt támogatható területre esik;
 
 42. mezőgazdasági parcella: egy vagy több szomszédos táblából álló összefüggő földterület, amelyen egy növénycsoportot termeszt egy földhasználó (15. számú melléklet szerinti ábra);
 
@@ -114,11 +114,11 @@
 
 55. szarvasmarhafélék: szarvasmarha, bivaly, bölény;
 
-56.[^4] szálas pillangós takarmánynövények: lucerna, bükköny-félék, vöröshere, bíborhere, fehér here, korcshere, perzsa here, alexandriai here, lódi here, fonák here, somkóró, takarmány baltacím, szarvaskerep, nyúlszapuka, szeradella, borsó fajok, tarka koronafürt, koronás baltavirág, görögszéna, fehérvirágú somkóró vagy ezen növények keveréke, füves keveréke, illetve ezen növényeket tartalmazó keverék;
+56.[^5] szálas pillangós takarmánynövények: lucerna, bükköny-félék, vöröshere, bíborhere, fehér here, korcshere, perzsa here, alexandriai here, lódi here, fonák here, somkóró, takarmány baltacím, szarvaskerep, nyúlszapuka, szeradella, borsó fajok, tarka koronafürt, koronás baltavirág, görögszéna, fehérvirágú somkóró vagy ezen növények keveréke, füves keveréke, illetve ezen növényeket tartalmazó keverék;
 
 57. széleróziós mintaterület: a 7. számú mellékletben foglaltak szerint a Homokhátság és a Nyírség MePAR-ban meghatározott, fizikai blokk szinten lehatárolt mintaterületei;
 
-58.[^5] szemeskukorica: hibrid kukorica, kukorica, pattogatni való kukorica;
+58.[^6] szemeskukorica: hibrid kukorica, kukorica, pattogatni való kukorica;
 
 59. szórványgyümölcsös: olyan szórt vagy szabályos elrendezésű homogén vagy vegyes gyümölcsfajokból álló ültetvény, amelyben hektáronként 30–150 darab, dió esetén 30–80 darab egyedülálló gyümölcsfa vagy cserjésedő, illetve sarjakat nevelő gyümölcstermő haszonnövény található;
 
@@ -132,7 +132,7 @@
 
 64. támogatásra jogosult: az az előzetesen támogatásra jogosult, aki a véglegesen jóváhagyott területeket tartalmazó területazonosítási kérelemnek helyt adó vagy részben helyt adó határozattal rendelkezik;
 
-65.[^6] támogatott terület: a területazonosítási kérelemre hozott határozatban véglegesen jóváhagyott, EOV koordináták alapján beazonosított kötelezettségvállalással érintett egybefüggő terület;
+65.[^7] támogatott terület: a területazonosítási kérelemre hozott határozatban véglegesen jóváhagyott, EOV koordináták alapján beazonosított kötelezettségvállalással érintett egybefüggő terület;
 
 66. tápanyag-gazdálkodási terv: a talajvizsgálat, valamint adott célprogramok esetében a levélanalízis eredményei alapján számított, szervestrágyával, műtrágyával, vagy egyéb, a növénytáplálás céljából legfeljebb kijuttatandó hatóanyagok évenkénti mennyiségét meghatározó terv;
 
@@ -152,23 +152,24 @@
 
 74. zöldugar: legfeljebb három gazdálkodási évig tartó állandó vagy időszakos zöld növényi borítottság, amelyet legalább három fajból álló magkeverékkel, ebből legalább egy pillangós faj alkalmazásával alakítottak ki;
 
-75.[^7] zöldtrágya-növény: olyan vetett növényfaj, amely növénytakaróként beborítja a talajt és a talajtermékenység javításának céljából fejlődése vegetatív szakaszában, de legkésőbb a vetést követő első virágzáskor teljes tömegében a talajba bedolgozásra kerül, ahol az árvakelés nem minősül zöldtrágya-növénynek;
+75.[^8] zöldtrágya-növény: olyan vetett növényfaj, amely növénytakaróként beborítja a talajt és a talajtermékenység javításának céljából fejlődése vegetatív szakaszában, de legkésőbb a vetést követő első virágzáskor teljes tömegében a talajba bedolgozásra kerül, ahol az árvakelés nem minősül zöldtrágya-növénynek;
 
 76. zsombékos: időszakosan vízzel borított területen kialakuló, csomókban fejlődő növényekből álló, magasfüvű, oszlopos gyepes társulások összessége, amelyekre jellemző, hogy a növényzet növekedése révén szembetűnő felszíni egyenlőtlenségek jönnek létre. A növényzet alatt rendszeres a tőzegképződés;
 
-77.[^8] kalászos gabona: árpa, búza, durumbúza, tavaszi búza, kétszeres és egyéb búza, rozs, tritikálé, zab.
+77.[^9] kalászos gabona: árpa, búza, durumbúza, tavaszi búza, kétszeres és egyéb búza, rozs, tritikálé, zab.
 
-78.[^9] támogatásra jogosultság mértéke: a területazonosítási kérelemre hozott határozatban véglegesen jóváhagyott és a támogatott területtől elkülönülten megjelölt terület nagysága, amely nem haladhatja meg a támogatási kérelemre hozott határozatban előzetesen jóváhagyott terület nagyságát;
+78.[^10] támogatásra jogosultság mértéke: a területazonosítási kérelemre hozott határozatban véglegesen jóváhagyott és a támogatott területtől elkülönülten megjelölt terület nagysága, amely nem haladhatja meg a támogatási kérelemre hozott határozatban előzetesen jóváhagyott terület nagyságát;
 
-79.[^10] silókukorica: silótakarmány készítése céljából betakarított kukorica.
+79.[^11] silókukorica: silótakarmány készítése céljából betakarított kukorica.
 
 [^1]: A 2. § 16. pontja az 53/2015. (XII. 1.) MvM rendelet 14. §-a szerint módosított szöveg.
-[^2]: A 2. § 27. pontja a 139/2012. (XII. 22.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 41. pontja a 31/2010. (III. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § 56. pontja a 139/2012. (XII. 22.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § 58. pontja a 77/2009. (VI. 30.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^6]: A 2. § 65. pontja a 92/2011. (X. 5.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § 75. pontja a 139/2012. (XII. 22.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^8]: A 2. § 77. pontját a 31/2010. (III. 30.) FVM rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A 2. § 78. pontját a 92/2011. (X. 5.) VM rendelet 1. § (3) bekezdése iktatta be.
-[^10]: A 2. § 79. pontját a 92/2011. (X. 5.) VM rendelet 1. § (4) bekezdése iktatta be.
+[^2]: A 2. § 21. pontja az 56/2015. (XII. 23.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 27. pontja a 139/2012. (XII. 22.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 41. pontja a 31/2010. (III. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 56. pontja a 139/2012. (XII. 22.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § 58. pontja a 77/2009. (VI. 30.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^7]: A 2. § 65. pontja a 92/2011. (X. 5.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § 75. pontja a 139/2012. (XII. 22.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^9]: A 2. § 77. pontját a 31/2010. (III. 30.) FVM rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 2. § 78. pontját a 92/2011. (X. 5.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^11]: A 2. § 79. pontját a 92/2011. (X. 5.) VM rendelet 1. § (4) bekezdése iktatta be.
