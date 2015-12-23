@@ -4,7 +4,7 @@
 
 ## c) fejlesztési célú hitel esetében a hitelt csak az 1. mellékletben szereplő fejlesztésekre lehet fordítani.
 
-1. melléklet az 1746/2015. (X. 15.) Korm. határozathoz
+1. melléklet az 1746/2015. (X. 15.) Korm. határozathoz[^1]
 
 | Sorszám | Önkormányzat neve | Ügylet adatai | Fejlesztés adatai | Kormány által engedélyezett fejlesztéshez kapcsolódó ügyletérték | Kormány az ügylethez/ fejlesztéshez hozzájárul (Igen, Nem, Részben) | Jóváhagyott ügylet adatai |
 
@@ -81,3 +81,5 @@
 | 12. | Tamási | 1 | HUF | fejlesztés | Kölcsön | 6 | 125 000 000 | 1 | 1.2. Szennyvízelvezetési és szennyvíztisztítási beruházások | 125 000 000 | 125 000 000 | Igen | 60 000 000 | 65 000 000 | 0 | 0 |
 
 | 13. | Zalaapáti | 1 | HUF | fejlesztés | Hitel | 11 | 14 344 840 | 1 | 2.1. Óvoda építése, bővítése, műszaki felújítása és rekonstrukciója, a fűtés- és világítási rendszer korszerűsítése | 14 344 840 | 14 344 840 | Igen | 14 344 840 | 0 | 0 | 0 |
+
+[^1]: A Kormány az 1. melléklet 3.1–3.20 pontjában Eger Megyei Jogú Város számára jóváhagyott kormányzati hozzájárulást az 1975/2015. (XII. 23.) Korm. határozat 2. pontjával visszavonta.
