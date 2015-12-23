@@ -20,7 +20,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2015. december 31.
+## Határidő: 2016. április 30.
 
 ## 4. felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy gondoskodjanak a német–magyar barátság évéhez kapcsolódó programsorozat végrehajtásához 2015. évben szükséges 800,0 millió forintnak a Miniszterelnökség fejezetben történő rendelkezésre állásáról.
 
@@ -94,4 +94,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3. pont az 1520/2015. (VII. 27.) Korm. határozat 23. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1980/2015. (XII. 23.) Korm. határozat 2. pontja szerint módosított szöveg.
