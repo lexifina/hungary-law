@@ -2,7 +2,7 @@
 
 (2) Ha a kamara működésének törvényessége másképpen nem állítható helyre, akkor e tény megállapításától számított 30 napon belül a miniszter – a Polgári perrendtartásról szóló törvény általános szabályai szerint – a bírósághoz fordul. A bíróság
 
-a) megsemmisítheti a kamara testületi szervének jogsértő határozatát, és új határozat hozatalát rendelheti el,
+a) hatályon kívül helyezheti a kamara testületi szervének jogsértő határozatát, és új határozat hozatalát rendelheti el,
 
 b) felfüggesztheti a kamara testületi szerveinek és tisztségviselőinek működését és a kamara irányítására, – a felfüggesztés tartamára – a kamara tagjai közül felügyelő biztost rendelhet ki.
 

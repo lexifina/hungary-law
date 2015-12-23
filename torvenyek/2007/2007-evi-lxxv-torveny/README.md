@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2007-75-00-00.23 |
 | 2015-07-07 | 2015. évi LXXXV. törvény | 2007-75-00-00.24 |
 | 2015-09-01 | 2015. évi LXXXV. törvény | 2007-75-00-00.25 |
+| 2015-12-23 | 2015. évi CCXVIII. törvény | 2007-75-00-00.26 |
