@@ -1,5 +1,3 @@
-## 10. §
-
 ## 10. A végrehajtási intézményrendszer működésével kapcsolatos szabályok
 
 11. § (1) A lebonyolításban érintett szervezet az eljárása során köteles megtartani és megtartatni a jogszabályok rendelkezéseit. Hatáskörét a jogszabályokban meghatározott célok megvalósítása érdekében, jogkörét a jogalkotó által meghatározott szempontok figyelembevételével és az adott ügy egyedi sajátosságaira tekintettel gyakorolja.

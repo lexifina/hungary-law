@@ -12,4 +12,6 @@ bc) a kedvezményezett által visszafizetett,
 
 c) a projekt szakaszolása miatt áthúzódó
 
+támogatási összeg prioritáson belüli felhasználásáról – a nagyprojekt, a kiemelt projekt és az egymilliárd forintot meghaladó támogatási igényű projektjavaslat kivételével – az irányító hatóság dönt a központi koordinációs szerv által jóváhagyott támogatási konstrukció alapján.
+
 [^133]: A 26/A. §-t a 176/2012. (VII. 26.) Korm. rendelet 6. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.

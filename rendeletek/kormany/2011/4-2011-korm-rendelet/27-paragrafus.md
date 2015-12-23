@@ -1,5 +1,3 @@
-## támogatási összeg prioritáson belüli felhasználásáról – a nagyprojekt, a kiemelt projekt és az egymilliárd forintot meghaladó támogatási igényű projektjavaslat kivételével – az irányító hatóság dönt a központi koordinációs szerv által jóváhagyott támogatási konstrukció alapján.
-
 27. § (1)[^134] A projektek esetében az irányító hatóság – támogatásról vagy elutasításról hozott – döntési határideje, ide nem számítva az esetleges hiánypótlás, a pályázati felhívás módosítása következtében szükségessé vált korrekció, a tisztázó kérdés vagy a kifogás elbírálására irányuló eljárás időtartamát,
 
 a) nagyprojektek esetében a projektjavaslat beérkezésétől számított kilencvenedik nap,

@@ -1,5 +1,3 @@
-## 15–16. §
-
 ## 12. A közreműködő szervezet feladatai
 
 17. § (1) A közreműködő szervezet feladatai különösen a következők:

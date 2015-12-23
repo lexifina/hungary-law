@@ -1,5 +1,3 @@
-## 8. §
-
 ## 8. A monitoring bizottságok feladatai
 
 9. § (1) Az operatív programok végrehajtását monitoring bizottságok követik nyomon.
