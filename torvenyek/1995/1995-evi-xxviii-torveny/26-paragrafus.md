@@ -10,7 +10,7 @@
 
 A bíróság
 
-a) megsemmisíti az MSZT testületi szervének jogsértő határozatát és új határozat hozatalát rendeli el,
+a) hatályon kívül helyezi az MSZT testületi szervének jogsértő határozatát és új határozat hozatalát rendeli el,
 
 b) felfüggesztheti az MSZT testületi szerveinek és tisztségviselőinek működését, és irányítására — a felfüggesztés tartamára — felügyelő biztost rendelhet ki.
 
