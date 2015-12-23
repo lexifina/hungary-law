@@ -14,7 +14,7 @@ b) működése, határozatai, a döntéshozó szerv döntései megfelelnek-e a j
 
 (3) Ha a civil szervezet működésének törvényessége másképpen nem biztosítható, az ügyész törvényességi ellenőrzési jogkörében eljárva keresettel a bírósághoz fordulhat. A bíróság a keresetet megvizsgálja és szükség esetén
 
-a) megsemmisíti a civil szervezet bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el,
+a) hatályon kívül helyezi a civil szervezet bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el,
 
 b) a működés törvényességének helyreállítása érdekében összehívja a döntéshozó szervet, vagy határidő tűzésével a törvényes működés helyreállítására kötelezi a döntéshozó szervet, és minderről értesíti a civil szervezetnél választott felügyelő szervet is,
 
@@ -50,4 +50,4 @@ d) három éven át a célja megvalósítása érdekében nem folytatott tevéke
 
 (6) A civil szervezet – feloszlatása, megszüntetése vagy megszűnésének megállapítása esetén – a nyilvántartásból való törlésről rendelkező bírósági határozat jogerőre emelkedésének napjával szűnik meg.
 
-(7) Az ügyész a civil szervezet szervének törvénysértő határozatának megsemmisítésére a (3) bekezdés a) pontja szerinti keresetlevelet a határozat meghozatalától számított egy éven belül nyújthatja be.
+(7) Az ügyész a civil szervezet szervének törvénysértő határozatának hatályon kívül helyezésére a (3) bekezdés a) pontja szerinti keresetlevelet a határozat meghozatalától számított egy éven belül nyújthatja be.
