@@ -34,9 +34,9 @@ n) a LEADER HACS-hoz a LEADER HACS illetékességi területéről – az adott j
 
 (3) Az (1) bekezdés b) pontjában meghatározott feladat akkor minősül teljesítettnek, ha a LEADER HACS önálló feladatellátás útján alapkövetelményként az alábbiakat teljesíti
 
-a)[^2] az illetékességi területén az (1) bekezdés b) pontja szerinti, külön bejárattal rendelkező, legalább 20 m2 összes alapterületű önálló, szélessávú internetes kapcsolattal ellátott központi irodát üzemeltet 2015. október 31. napjáig, amely legalább heti egy munkanapon 10 órában, a többi munkanapon legalább 4 órában a LEADER HACS honlapján meghirdetett nyitva tartási időben az ügyfelek rendelkezésére áll;
+a)[^3] az illetékességi területén az (1) bekezdés b) pontja szerinti, külön bejárattal rendelkező, legalább 20 m2 összes alapterületű önálló, szélessávú internetes kapcsolattal ellátott központi irodát üzemeltet 2015. október 31. napjáig, amely legalább heti egy munkanapon 10 órában, a többi munkanapon legalább 4 órában a LEADER HACS honlapján meghirdetett nyitva tartási időben az ügyfelek rendelkezésére áll;
 
-b)[^3]
+b)[^4]
 
 c) amennyiben az illetékességi területén alirodát működtet, az rendelkezik telefonos elérhetőséggel és internet kapcsolattal, valamint legalább heti 20 órában az ügyfelek rendelkezésére áll;
 
@@ -50,7 +50,7 @@ g) a 11. § (5) bekezdés b) pontja szerint meghatározott elszámolási idősza
 
 h) az IH által szervezett képzéseken, legalább egy alkalmazásában álló személy részvételét biztosítja.
 
-(4)[^4] A (3) bekezdés a) pontjától a LEADER HACS csak az IH engedélyével térhet el.
+(4)[^5] A (3) bekezdés a) pontjától a LEADER HACS csak az IH engedélyével térhet el.
 
 (5) A LEADER HACS kizárólag egy fő munkaszervezet vezetőt alkalmazhat, aki nem lehet a LEADER HACS címmel rendelkező egyesület elnöke.
 
@@ -64,12 +64,12 @@ c) az általa fenntartott iroda a (3) bekezdés a) pontjában megjelölteken tú
 
 d) a 2009. október 1-je után felvett alkalmazottak a 8. mellékletben szereplő személyi feltételeknek megfelelnek.
 
-(7)[^5] A IV. tengely vonatkozásában nem jogosult településen a (3) bekezdés a)–c) pontja szerinti iroda, aliroda üzemeltetése az IH jóváhagyása alapján kezdhető meg.
+(7)[^6] A IV. tengely vonatkozásában nem jogosult településen a (3) bekezdés a)–c) pontja szerinti iroda, aliroda üzemeltetése az IH jóváhagyása alapján kezdhető meg.
 
-(8)[^6] A LEADER HACS szervezetében, az általa fenntartott vagy működtetett iroda helyét illetően vagy személyi körülményekben bekövetkezett változásról a LEADER HACS köteles a változás bekövetkezésétől számított 10 napon belül az elektronikus beszámolói felületen megtalálható formanyomtatvány beküldésével az IH vezetőjét elektronikus úton tájékoztatni. Amennyiben a HACS az IH vezetője felé nem tesz maradéktalanul eleget a tájékoztatási kötelezettségének, akkor tevékenysége szankcionálásra kerül az aktuális elszámolási időszak terhére, a munkaterv szerinti egyéb feladatokra elszámolható kiadások 1%-os csökkentésével.
+(8)[^7] A LEADER HACS szervezetében, az általa fenntartott vagy működtetett iroda helyét illetően vagy személyi körülményekben bekövetkezett változásról a LEADER HACS köteles a változás bekövetkezésétől számított 10 napon belül az elektronikus beszámolói felületen megtalálható formanyomtatvány beküldésével az IH vezetőjét elektronikus úton tájékoztatni. Amennyiben a HACS az IH vezetője felé nem tesz maradéktalanul eleget a tájékoztatási kötelezettségének, akkor tevékenysége szankcionálásra kerül az aktuális elszámolási időszak terhére, a munkaterv szerinti egyéb feladatokra elszámolható kiadások 1%-os csökkentésével.
 
-[^2]: A 2. § (3) bekezdés a) pontja a 28/2015. (VI. 9.) MvM rendelet 47. § (1) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 19. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (3) bekezdés b) pontját a 28/2015. (VI. 9.) MvM rendelet 49. §-a hatályon kívül helyezte.
-[^4]: A 2. § (4) bekezdése az 53/2015. (XII. 1.) MvM rendelet 19. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § (7) bekezdése az 53/2015. (XII. 1.) MvM rendelet 19. § b) pontja szerint módosított szöveg.
-[^6]: A 2. § (8) bekezdése a 126/2012. (XII. 12.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdés a) pontja a 28/2015. (VI. 9.) MvM rendelet 47. § (1) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 19. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdés b) pontját a 28/2015. (VI. 9.) MvM rendelet 49. §-a hatályon kívül helyezte.
+[^5]: A 2. § (4) bekezdése az 53/2015. (XII. 1.) MvM rendelet 19. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § (7) bekezdése az 53/2015. (XII. 1.) MvM rendelet 19. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (8) bekezdése a 126/2012. (XII. 12.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.

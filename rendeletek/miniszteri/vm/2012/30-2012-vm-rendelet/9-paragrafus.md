@@ -10,7 +10,7 @@
 
 (5) Ha az átruházott feladatokról szóló szerződés a lejáratát megelőzően szűnik meg vagy az adott elszámolási időszakban a 2. § (1) bekezdés j) pontja szerinti feladatellátásra annak ellenére nem került sor, hogy az ellátandó feladatok meghatározásra kerültek, a LEADER HACS a támogatási összeg legfeljebb 60%-ának lehívására jogosult a (8) bekezdésében foglaltak figyelembevételével.
 
-(5a)[^32] Amennyiben közös megegyezéssel szűnik meg átruházott feladatellátásról szóló szerződés, a LEADER HACS a támogatási összeg 100%-ának lehívására jogosult a (6) bekezdésben foglalt teljesítés igazolás figyelembevétele mellett.
+(5a)[^33] Amennyiben közös megegyezéssel szűnik meg átruházott feladatellátásról szóló szerződés, a LEADER HACS a támogatási összeg 100%-ának lehívására jogosult a (6) bekezdésben foglalt teljesítés igazolás figyelembevétele mellett.
 
 (6) Amennyiben a LEADER HACS nem lát el – sem önállóan, sem bevont szervezet útján – átruházott feladatokat, abban az esetben a feladatellátást igazoló teljesítésigazolást az IH állítja ki.
 
@@ -20,4 +20,4 @@
 
 (9) A teljesítésigazolás tartalmazza a támogatásra jogosult szervezet megnevezését, a munkatervben szereplő teljesített feladatok azonosítóját és százalékos teljesítési arányát, szankcionálás esetén a vonatkozó indoklást.
 
-[^32]: A 9. § (5a) bekezdését a 7/2015. (II. 17.) MvM rendelet 52. § (2) bekezdése iktatta be.
+[^33]: A 9. § (5a) bekezdését a 7/2015. (II. 17.) MvM rendelet 52. § (2) bekezdése iktatta be.

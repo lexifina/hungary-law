@@ -8,7 +8,7 @@
 
 3. elszámolási időszak: a 11. § (5) bekezdés a) és b) pontjában meghatározott időszak;
 
-4.[^1] helyi termék: a LEADER Helyi Akciócsoport illetékességi területén honos, vagy ott megtermelt, előállított termék, vagy a LEADER Helyi Akciócsoport által helyi termékként meghatározott hagyományos termék;
+4.[^2] helyi termék: a LEADER Helyi Akciócsoport illetékességi területén honos, vagy ott megtermelt, előállított termék, vagy a LEADER Helyi Akciócsoport által helyi termékként meghatározott hagyományos termék;
 
 5. költségfelmerülés időpontja: a költségfelmerülést igazoló számviteli bizonylaton feltüntetett teljesítés időpontja, annak hiányában a kiállítás időpontja;
 
@@ -28,4 +28,4 @@
 
 13. IV. tengely alapján jogosult települések: a 10 000 fő lakosságszámnál kevesebb vagy a 120 fő/km2-nél alacsonyabb népsűrűséggel rendelkező települések, valamint a külterületükkel támogatásra jogosult települések, a Budapest agglomerációjához tartozó települések kivételével.
 
-[^1]: Az 1. § 4. pontj a 35/2013. (V. 22.) VM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 4. pontj a 35/2013. (V. 22.) VM rendelet 22. § (1) bekezdésével megállapított szöveg.
