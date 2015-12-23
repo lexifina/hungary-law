@@ -1,3 +1,0 @@
-## „(7) Amennyiben valamely felszín alatti víztest az (5) bekezdés ba)–bd) pontjaival összhangban minősül jó állapotúnak, a 6. § (1) bekezdésének a) pontja szerinti intézkedésekre van szükség ott, ahol a felszín alatti vizek minőségi előírásának értékét vagy a szennyező anyagokra vonatkozó küszöbértékeket túllépték.
-
-## (8) A víztestek állapotértékelésénél figyelembe kell venni az igénybevételeket, továbbá a pontszerű és a nem pontszerű (diffúz) szennyező forrásokból adódó terheléseket. A mennyiségi állapotértékelés során figyelembe vehetők az időjárás hosszú távú változásával összefüggő folyamatok.”

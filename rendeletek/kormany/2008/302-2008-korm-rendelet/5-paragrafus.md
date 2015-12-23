@@ -1,3 +1,0 @@
-## 4. § Az R. 5. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A felszín alatti víztesteket, víztest csoportokat monitorozni kell a felszín alatti vizek vizsgálatának egyes szabályairól szóló külön jogszabály előírásai, továbbá a vízgyűjtő-gazdálkodási tervben meghatározottak figyelembevételével. Az eredmények alapján rendszeresen, – de legalább hatévente, a vízgyűjtő-gazdálkodási tervezéshez kapcsolódóan – értékelni kell a víztest vagy víztest csoport állapotát és az arra gyakorolt hatásokat a külön jogszabályokban meghatározott módon a szükséges intézkedések megalapozása érdekében.”

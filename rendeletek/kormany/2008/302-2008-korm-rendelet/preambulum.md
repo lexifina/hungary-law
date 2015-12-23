@@ -1,1 +1,0 @@
-A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. §-a (7) bekezdésének 26. pontja alapján – a vízgazdálkodásról szóló 1995. évi LVII. törvénnyel összhangban, – az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli:
