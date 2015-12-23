@@ -56,6 +56,14 @@
 
 ## Határidő: az a) pont szerinti átadással egy időben
 
+## c)[^2] az a) alpont szerinti határidőben át nem adott kastélyokra tervezett 899,01 millió forint összegű állami támogatást a 2015. évben a Forster Központ feladatbővüléséhez tartozó eszközvásárlásra, a Forster Központ által vagyonkezelt, az 1. mellékletben nem szereplő ingatlanok állagmegóvó felújítására, működtetésére, valamint a Forster Központ intézményi átszervezésének költségeire kell felhasználni.
+
+## Felelős: Miniszterelnökséget vezető miniszter
+
+## nemzeti fejlesztési miniszter
+
+## Határidő: 2015. december 31.
+
 ## 2. A Kormány
 
 ## a) egyetért azzal, hogy a váli Ürményi-kastély (e pont tekintetében a továbbiakban: ingatlan) a Programba történő bevonás céljából állami tulajdonba kerüljön, valamint felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket az ingatlannak – az 1. pont a) alpontjában foglalt feltételekkel – a Forster Központ vagyonkezelésébe kerülése érdekében;
@@ -100,17 +108,21 @@
 
 ## Határidő: Magyarország éves központi költségvetése tervezésével egy időben
 
-1. melléklet az 1663/2014. (XI. 20.) Korm. határozathoz
+1. melléklet az 1663/2014. (XI. 20.) Korm. határozathoz[^3]
 
-A Nemzeti Kastélyprogram részét képező kastélyok listája
+A Nemzeti Kastélyprogram részét képező kastélyok, műemlék-együttesek listája
 
 1. BÉKÉS MEGYE
 
 1.1. Geszt, Tisza-kastély
 
+1.2. Kondoros, Batthyány–Geist-kastély
+
+1.3. Szabadkígyós, Wenckheim-kastély
+
 2. BORSOD-ABAÚJ-ZEMPLÉN MEGYE
 
-2.1. Edelény, L' Huillier–Coburg-kastély
+2.1. Edelény, L'Huillier–Coburg-kastély
 
 2.2. Fáj, Fáy-kastély
 
@@ -134,21 +146,27 @@ A Nemzeti Kastélyprogram részét képező kastélyok listája
 
 3.8. Vál, Ürményi-kastély
 
+3.9. Fehérvárcsurgó, Károlyi-kastély és parkja
+
 4. GYŐR-MOSON-SOPRON MEGYE
 
-4.1. Mihályi, Dőry-kastély
+4.1. Fertőd, Esterházy-kastélyegyüttes
 
-4.2. Sopronhorpács, Széchenyi-kastély
+4.2. Mihályi, Dőry-kastély
 
-4.3. Dénesfa, Cziráky-kastély
+4.3. Nagycenk, Széchenyi-kastélyegyüttes
 
-4.4. Szany, Püspöki kastély
+4.4. Sopronhorpács, Széchenyi-kastély
+
+4.5. Dénesfa, Cziráky-kastély
+
+4.6. Szany, Püspöki kastély
 
 5. KOMÁROM-ESZTERGOM MEGYE
 
-5.1. Oroszlány – Majkpuszta, egykori Esterházy-kastély, Kamalduli remeteség
+5.1. Oroszlány–Majkpuszta, egykori Esterházy-kastély, Kamalduli remeteség
 
-5.2. Tata, Eszterházy-kastély
+5.2. Tata, Esterházy-kastély
 
 5.3. Bajna, Sándor–Metternich-kastély és parkja, uradalmi istálló
 
@@ -174,6 +192,10 @@ A Nemzeti Kastélyprogram részét képező kastélyok listája
 
 7.7. Ráckeve, Savoyai-kastély
 
+7.8. Fót, Károlyi-kastély
+
+7.9. Gödöllői Királyi Kastély (Grassalkovich-kastély)
+
 8. SOMOGY MEGYE
 
 8.1. Somogysárd, Somssich-kastély
@@ -188,12 +210,23 @@ A Nemzeti Kastélyprogram részét képező kastélyok listája
 
 11. VAS MEGYE
 
-11.1. Jánosháza, Erdődy–Choron-várkastély
+11.1. Körmend, Batthyány–Strattmann-kastély
 
-11.2. Vassurány, Schilson-kastély
+11.2. Jánosháza, Erdődy–Choron-várkastély
 
-11.3. Vép, Erdődy-kastély
+11.3. Vassurány, Schilson-kastély
+
+11.4. Vép, Erdődy-kastély
 
 12. VESZPRÉM MEGYE
 
 12.1. Sümeg, Püspöki palota
+
+12.2. Pápa, Esterházy-kastélyegyüttes
+
+13. ZALA MEGYE
+
+13.1. Keszthely, Festetics-kastélyegyüttes és parkja
+
+[^2]: Az 1. pont c) alpontját az 1977/2015. (XII. 23.) Korm. határozat 4. pontja iktatta be.
+[^3]: Az 1. melléklet az 1977/2015. (XII. 23.) Korm. határozat 3. pontjával megállapított szöveg.
