@@ -1,0 +1,1 @@
+10. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 199. § (2) bekezdés a) pontjában és 200/B. § (2) bekezdés a) pontjában a „megsemmisítheti” szövegrész helyébe a „hatályon kívül helyezheti” szöveg lép.
