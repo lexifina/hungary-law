@@ -16,7 +16,7 @@
 
 ## Határidő: folyamatosan
 
-1. melléklet az 1483/2015. (VII. 21.) Korm. határozathoz
+1. melléklet az 1483/2015. (VII. 21.) Korm. határozathoz[^2]
 
 A Nemzeti Várprogram műemléki helyszínei
 
@@ -31,6 +31,8 @@ I. ÜTEM (kezdete 2016)
 4. Kisvárda, Kisvárdai vár (Szabolcs-Szatmár-Bereg megye)
 
 5. Sümeg, Sümegi vár (Veszprém megye)
+
+6. Füzér, Füzéri vár (Borsod-Abaúj-Zemplén megye)
 
 II. ÜTEM (kezdete 2017)
 
@@ -59,6 +61,8 @@ II. ÜTEM (kezdete 2017)
 12. Nagyvázsony, Kinizsi vár (Veszprém megye)
 
 13. Várpalota, Thury-vár (Veszprém megye)
+
+14. Kőszeg, Jurisics vár (Vas megye)
 
 III. ÜTEM (kezdete 2017–2018)
 
@@ -89,3 +93,5 @@ III. ÜTEM (kezdete 2017–2018)
 13. Gyulakeszi, Csobánc vára (Veszprém megye)
 
 14. Szigliget, Szigligeti vár (Veszprém megye)
+
+[^2]: Az 1. melléklet az 1977/2015. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
