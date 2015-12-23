@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-22 | 2015-87-20-11.1 | 87/2015. (XII. 21.) FM rendelet |
+| 2015-12-23 | 2015-87-20-11.2 | 2010: CXXX. törvény |

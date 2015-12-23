@@ -1,3 +1,3 @@
-## 1. § A halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló 133/2013. (XII. 29.) VM rendelet (a továbbiakban: Vhr.) 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-## „(3) Az állami horgászjegy kiadásának napjától kezdve a következő év január 31. napjáig érvényes.”
+[^3]: Az 1–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
