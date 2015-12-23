@@ -1,7 +1,3 @@
-## V. Fejezet
-
-## A HULLADÉKGAZDÁLKODÁSI KÖZSZOLGÁLTATÁSRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
-
 ## 18. A települési önkormányzatra vonatkozó szabályok
 
 33. § (1) A települési önkormányzat a hulladékgazdálkodási közszolgáltatás ellátását a közszolgáltatóval kötött hulladékgazdálkodási közszolgáltatási szerződés útján biztosítja.

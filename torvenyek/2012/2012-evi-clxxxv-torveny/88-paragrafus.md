@@ -64,7 +64,13 @@
 
 31. az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
 
-32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat.
+32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat;
+
+33. a Koordináló szerv kijelölésének módját, részletes feladatkörét, a koordinációjával és az erőforrás-gazdálkodásával összefüggő szabályokat;
+
+34. az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokat, e körben a közszolgáltatási területek lehatárolásának részletes szabályait;
+
+35. a Koordináló szerv adatkezelésének részletes szabályait, továbbá a közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa adatszolgáltatási kötelezettségének részletes szabályait.
 
 (2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg:
 
@@ -109,6 +115,12 @@ bc) a Hivatal miniszter részére történő adatszolgáltatási kötelezettség
 bd)
 
 be) a Hivatal hulladékgazdálkodási közszolgáltatási díjra vonatkozó javaslattételi kötelezettségének időpontjára, rendjére, módjára, tartalmára vonatkozó részletes szabályokat,
+
+bf) a Koordináló szerv részére történő adatszolgáltatás tartalmát és rendjét,
+
+bg) a díjhátralék kezelésére vonatkozó részletszabályokat,
+
+bh) a szolgáltatási díjat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét, a közszolgáltatási díj felosztásának elvét,
 
 rendeletben állapítsa meg.
 

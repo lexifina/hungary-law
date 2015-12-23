@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-185-00-00
 | 2015-01-01 | 2014. évi XCIX. törvény | 2012-185-00-00.19 |
 | 2015-07-01 | 2014. évi XCIX. törvény | 2012-185-00-00.20 |
 | 2015-12-04 | 2015. évi CLXXXV. törvény | 2012-185-00-00.21 |
+| 2015-12-23 | 2015. évi CCXXI. törvény | 2012-185-00-00.22 |

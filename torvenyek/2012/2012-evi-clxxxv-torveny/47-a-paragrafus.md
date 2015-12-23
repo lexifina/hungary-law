@@ -8,4 +8,6 @@
 
 (5) Ha a közszolgáltató a Hivatal által kiadott határozatban vagy az e törvény végrehajtására kiadott miniszteri rendeletben foglalt határidőn belül nem nyújt tájékoztatást vagy szolgáltat adatot, a Hivatal a tájékoztatás, adatszolgáltatás hiányában is javaslatot tehet a miniszter részére.
 
-(6)–(8)
+(6) A miniszter rendeletben állapítja meg a beszedett közszolgáltatási díj felosztásának elvét. A miniszter a Koordináló szerv javaslatának figyelembevételével rendeletben állapítja meg a Koordináló szerv által fizetendő szolgáltatási díjat.
+
+(7)–(8)

@@ -58,6 +58,10 @@
 
 27. hulladékgazdálkodási közszolgáltatás: a közszolgáltatás körébe tartozó hulladék átvételét, gyűjtését, elszállítását, kezelését, valamint a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását, üzemeltetését biztosító, kötelező jelleggel igénybe veendő szolgáltatás;
 
+27a. önkormányzati hulladékgazdálkodási közfeladat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés 19. pontja szerinti közfeladat az önkormányzat közigazgatási területén a hulladékgazdálkodási közszolgáltatás helyi szintű részletszabályainak meghatározása, valamint a hulladékgazdálkodási közszolgáltató kiválasztása, a közszolgáltatási szerződés megkötése;
+
+27b. állami hulladékgazdálkodási közfeladat: a hulladékgazdálkodási közszolgáltatás országos szintű megszervezése.
+
 28. hulladékgazdálkodási létesítmény: a hulladékgazdálkodási tevékenységek végzését biztosító telephely, ingatlan, továbbá a telephelyen, ingatlanon belül vagy közterületen kialakított elkülönített terület, amely magában foglalja a hulladékgazdálkodás végzéséhez szükséges építményeket, így különösen a környezet biztonságát szolgáló építményeket, kiszolgáló helyiségeket, gyűjtőhelyeket, valamint a hulladékkezelő létesítményeket;
 
 29. hulladékjelleg: a hulladék veszélyes vagy nem veszélyes jellemzője;
