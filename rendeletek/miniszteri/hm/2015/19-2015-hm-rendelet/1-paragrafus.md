@@ -1,0 +1,1 @@
+## 1. A hivatásos, szerződéses és nyugállományú katonák, valamint a honvédelmi ágazatban foglalkoztatott köztisztviselők és közalkalmazottak igazolványairól szóló 24/2002. (IV. 10.) HM rendelet hatályon kívül helyezése
