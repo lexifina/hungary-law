@@ -2,9 +2,9 @@ A Kormány kiemelt jelentőséget tulajdonít annak, hogy az állampolgárok fol
 
 A Kormány a fentiek érdekében felhívja
 
-1. a Miniszterelnökséget vezető minisztert, hogy a 3. pont szerinti feladatok ellátásához szükséges adatfeldolgozási tevékenységek ellátására adatfeldolgozási szerződést kössön a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalával (a továbbiakban: KEK KH) és a Magyar Posta Zártkörűen Működő Részvénytársasággal;
+1.[^1] a miniszterelnök kabinetfőnökét, hogy a 3. pont szerinti feladatok ellátásához és a kiküldött kiadványok technikai feldolgozásával kapcsolatos feladatok ellátásához szükséges adatfeldolgozási tevékenységek – mint az adatkezeléssel összefüggő technikai műveletek – ellátására adatfeldolgozási szerződést kössön a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalával (a továbbiakban: KEK KH) és a Magyar Posta Zártkörűen Működő Részvénytársasággal;
 
-Felelős: Miniszterelnökséget vezető miniszter
+Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: folyamatos
 
@@ -19,3 +19,5 @@ Határidő: folyamatos
 Felelős: belügyminiszter
 
 Határidő: folyamatos
+
+[^1]: Az 1. pont az 1960/2015. (XII. 23.) Korm. határozat 3. pontjával megállapított szöveg.
