@@ -1,0 +1,303 @@
+# A Kormány 426/2015. (XII. 23.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 202. szám, 2015. december 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7ca92859c8893f63a908a0e358f102308b941dce/dokumentumok/c874cf13b41a4f4b0678918aeeaa17f6a72f6fb5/letoltes)
+
+---
+
+A Kormány 426/2015. (XII. 23.) Korm. rendelete
+a Teljesítésigazolási Szakértői Szervvel kapcsolatos egyes kérdésekről szóló
+236/2013. (VI. 30.) Korm. rendelet módosításáról
+A Kormány az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről,
+és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő
+módosításáról szóló 2013. évi XXXIV. törvény 9. § a) és b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Teljesítésigazolási Szakértői Szervvel kapcsolatos egyes kérdésekről szóló 236/2013. (VI. 30.) Korm. rendelet
+(a továbbiakban: R.) 1. § 2. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„2. Szerződő felek: a Szerv feladatkörét érintő építészeti-műszaki tervezési, kivitelezési szerződések alanyai.”
+2. § (1) Az R. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Szerv tagja az az igazságügyi szakértő és az az építési műszaki ellenőr, aki a Tszszt. 3. § (2) bekezdés
+b) pontjában meghatározott szervezetek bevonásával kialakított véleményező bizottság (a továbbiakban: bizottság)
+által meghirdetett pályázati kiírásnak megfelelt, és akit – a bizottság véleményének meghallgatása mellett –
+az építésgazdaságért felelős miniszter az igazságügyért felelős miniszter egyetértésével kinevezett.”
+(2) Az R. 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A Szerv vezetője, vezetőhelyettese, tagja az a személy lehet, aki vagy építési műszaki ellenőri jogosultsággal
+rendelkezik, vagy az igazságügyi szakértői névjegyzékbe való felvételi eljárás során szükséges szakhatósági
+állásfoglalás kiadásának eljárási szabályairól szóló 208/2009. (IX. 29.) Korm. rendelet 1. mellékletében szereplő alábbi
+területeinek valamelyikén került bejegyzésre:
+a) tűzvédelmi-, vagy ipari baleset-megelőzési terület,
+b) közlekedési és közlekedéssel kapcsolatos sajátos építményfajtákra vonatkozó terület,
+c) környezetvédelem és természetvédelem területei,
+
+d) vízügyi terület,
+e) lakásügyi terület,
+f) építésügyi terület.”
+3. § (1) Az R. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Szerv eljárása az építészeti-műszaki tervezési, kivitelezési szerződésben meghatározott helyszín szerint
+illetékes területi kereskedelmi és iparkamaránál, vagy a Magyar Kereskedelmi és Iparkamaránál az 1. mellékletnek
+megfelelően a Tszszt. 1. § (1) és (2) bekezdésében foglaltak szerint kezdeményezhető. Amennyiben a vitatott
+szerződésben rögzített tevékenység teljesítésre vonatkozó helyszíne több területi kereskedelmi és iparkamara
+illetékességi területére terjed ki, akkor az eljárást kezdeményező fél székhelye szerint illetékes területi kereskedelmi
+és iparkamaránál, vagy a Magyar Kereskedelmi és Iparkamaránál kezdeményezhető az eljárás.”
+(2) Az R. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A szakértői tevékenységre létrejövő megbízási szerződés – mely alapján a tagok a Szerv nevében eljárhatnak –
+a Magyar Kereskedelmi és Iparkamara, valamint a tagok között jön létre. A megbízási szerződésnek tartalmaznia
+kell a szakértői tanács tagjainak, elnökének megnevezését, a szakértői vélemény megküldésének határidejét,
+a szakvéleményben megválaszolandó kérdéseket és a szakértői díj összegét.”
+(3) Az R. 6. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
+„(6) A tag a vezető általi kijelölést a megbízási szerződés aláírásával és a vezető részére történő visszaküldésével
+fogadja el. A tag akadályoztatása esetén az akadályoztatás tényéről öt napon belül értesíti a Szerv vezetőjét, aki
+ebben az esetben haladéktalanul gondoskodik más tag kijelöléséről.
+(7) A benyújtott iratok – és helyszíni szemle tartása esetén a szemle jegyzőkönyve – alapján a szakértői tanács
+szakértői véleményt állít ki, amelyet a szakértői tanács zárt ülésen, szótöbbséggel alakít ki. A szakértői tanács elnöke
+gondoskodik
+a) a szakvélemény,
+b) a szerződést biztosító mellékkötelezettség érvényesíthetősége kapcsán kért vizsgálat esetén a szakértői
+vélemény és kivonatának
+határidőben történő felterjesztéséről a vezető részére.”
+4. § (1) Az R. 7. §-a a következő (2) bekezdéssel egészül ki:
+„(2) A szakértői tanács a szakértői vélemény elkészítéséhez szükséges vizsgálatot – a kivitelezési szerződés
+vizsgálata esetén – nem köteles a kivitelezés helyszínén elvégezni, ha az eljárásban a felek írásban egybehangzóan
+nyilatkoznak arról, hogy
+a) a kérelemmel érintett teljesítés elbontásra került, vagy
+b) a teljesítés szerződésszerűen megtörtént.”
+(2) Az R. 7. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A Szerv szakvéleményének kialakítása érdekében a helyszíni műszeres vizsgálat vagy a laboratóriumi műszeres
+vizsgálat szükségességét az eljáró szakértői tanács elnökének javaslata alapján a vezető állapítja meg, aki írásban
+rendeli el a szükséges helyszíni műszeres vizsgálat vagy a laboratóriumi műszeres vizsgálat részleteit. A felmerülő
+költségeket a minőségi kifogással élő fél előlegezi meg. A költségek viseléséről bíróság dönt.”
+5. §
+Az R. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A szakértői díj a kérelmező által megjelölt vitatott bruttó érték 1%-a, de legkevesebb bruttó 60 000 forint és
+nem haladhatja meg a bruttó 450 000 forintot. A szakértői díj a Szervet illeti, mely a szakértői tanács tagjai között
+a következők szerint oszlik meg: elnök 40%, tagok 30-30%. A Tszszt. 2. § (4) bekezdése által meghatározott eljárás
+esetében a szakértői díj az eljáró szakértői tanács tagját illeti.”
+6. § (1) Az R. 1. melléklete helyébe az 1. melléklet lép.
+(2) Az R. 2. melléklete helyébe a 2. melléklet lép.
+(3) Az R. 3. melléklete helyébe a 3. melléklet lép.
+7. §
+Ez a rendelet 2016. május 1-jén lép hatályba.
+8. §
+Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek való megfelelést szolgálja.
+
+9. §
+E rendeletnek a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelv 15. cikke szerinti előzetes bejelentése megtörtént.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 426/2015. (XII. 23.) Korm. rendelethez
+„1. melléklet a 236/2013. (VI. 30.) Korm. rendelethez
+Teljesítésigazolási Szakértői Szerv véleménye iránti kérelem
+1. Kérelmező adatai
+a) Kérelmező neve (cégneve):
+b) Kérelmező címe (lakóhelye, székhelye):
+c) Kérelmező elérhetősége (FAX/Tel. szám, e-mail cím):
+2. Kérelmezővel szerződő fél adatai:
+a) Kérelmezővel szerződő fél neve (cégneve):
+b) Kérelmezővel szerződő fél címe (lakóhelye, székhelye):
+c) Kérelmezővel szerződő fél elérhetősége (FAX/Tel. szám, e-mail cím):
+3. Vitatott teljesítéssel érintett helyszín adatai (amennyiben építési, kivitelezési tevékenységet szükséges vizsgálni):
+a) Teljesítés helyszíne:
+b) Helyszín birtokosának neve:
+c) Helyszín birtokosának elérhetősége:
+4. Biztosítékot (pl. garanciát, kezességet) nyújtó személy adatai:
+a) Neve:
+b) Székhelye:
+c) Referencia száma:
+d) Mellékkötelezettség biztosításának érvényességi ideje: -tól -ig
+e) Mellékkötelezettséget biztosító szerződés száma:
+5. Vitatott teljesítés részletes leírása
+6. Kért dokumentum (x-szel jelölendő)
+o szakértői vélemény
+o szakértői vélemény kivonata
+7. Kapcsolattartás módja: (x-szel jelölendő)
+o elektronikus úton
+o postai úton
+8. Csatolandó melléklet:
+a) Szerződés másolata ..... oldal
+b) Egyéb a szakértői döntést elősegítő dokumentum
+............................................. ..... oldal
+............................................. ..... oldal
+............................................. ..... oldal
+............................................. ..... oldal
+c) Szerződést biztosító mellékkötelezettség másolata ..... oldal
+d) Szerződést biztosító mellékkötelezettséget keletkeztető jogviszony időbeli hatályának meghosszabbításáról
+szóló dokumentum másolata
+e) Szakértői díj megfizetésére vonatkozó igazolás
+Kelt: ........................... , ........ év .............................. hó .......... nap
+ ...........................................
+ kérelmező aláírása”
+
+2. melléklet a 426/2015. (XII. 23.) Korm. rendelethez
+„2. melléklet a 236/2013. (VI. 30.) Korm. rendelethez
+Teljesítésigazolási Szakértői Szerv véleménye
+Megbízó: Magyar Kereskedelmi és Iparkamara
+Megbízás kelte:
+Szakértői vélemény tárgya:
+Szakértői vélemény célja:
+o teljesítésigazolás kiadása
+o szerződést biztosító mellékkötelezettség érvényesíthetősége.
+Szakértői Tanács adatai
+1. Szakértői Tanács elnökének
+a) neve:
+b) szakértői jogosultságot igazoló okirat száma:
+c) szakértői szakterületek megnevezése:
+2. Szakértői Tanács tagjának
+a) neve:
+b) szakértői jogosultságot igazoló okirat száma:
+c) szakértői szakterületek megnevezése:
+3. Szakértői Tanács tagjának
+a) neve:
+b) szakértői jogosultságot igazoló okirat száma:
+c) szakértői szakterületek megnevezése:
+I. Előzmények, helyzetismertetés
+1. Kérelmező adatai
+a) Kérelmező neve (cégneve):
+b) Kérelmező címe (lakóhelye, székhelye):
+c) Kérelmező elérhetősége (FAX/Tel. szám, e-mail cím):
+2. Kérelmezővel szerződő fél adatai:
+a) Kérelmezővel szerződő fél neve (cégneve):
+b) Kérelmezővel szerződő fél címe (lakóhelye, székhelye):
+c) Kérelmezővel szerződő fél elérhetősége (FAX/Tel. szám, e-mail cím):
+3. Vitatott szerződés adatai:
+a) Szerződés tárgya:
+b) Szerződés száma:
+c) Szerződés kelte:
+4. Vitatott teljesítéssel érintett helyszín adata (amennyiben releváns):
+a) Teljesítés helyszíne:
+b) Helyszín birtokosának neve:
+c) Helyszín birtokosának elérhetősége:
+5. Mellékkötelezettséget nyújtó adatai:
+a) Neve:
+b) Székhelye:
+c) Referencia száma:
+d) Mellékkötelezettség biztosításának érvényességi ideje: -tól -ig
+e) Mellékkötelezettséget biztosító szerződés száma:
+6. Vitatott teljesítés részletes leírása
+7. Vizsgált dokumentumok megnevezése
+II. Helyszíni szemle és vizsgálatok
+1. Helyszíni szemle megtartására sor került-e
+o igen
+o nem
+
+2. Amennyiben helyszíni szemle megtartására sor került:
+a) Helyszíni szemle időpontja:
+b) Helyszíni szemle helye:
+c) Helyszíni szemlén jelenlévők:
+d) Helyszíni szemle célja:
+e) Esetleges eltakart munkarész kibontásának leírása, költsége:
+f) Esetleges rendőri intézkedés szükségességének leírása:
+g) Megállapítások:
+3. Helyszíni műszeres vizsgálatra sor került-e
+o igen
+o nem
+4/A. Amennyiben helyszíni műszeres vizsgálatra sor került:
+a) Műszeres vizsgálat időpontja:
+b) Műszeres vizsgálat helye:
+c) Műszeres vizsgálat célja:
+d) Eredmények, megállapítások:
+4/B. Amennyiben laboratóriumi műszeres vizsgálatra sor került:
+a) Laboratóriumi műszeres vizsgálat időpontja:
+b) Laboratóriumi műszeres vizsgálat helye:
+c) Laboratóriumi műszeres vizsgálat célja:
+d) Eredmények, megállapítások:
+5. Eljárás során felmerült költségek
+a) Szakértői díj mértéke:
+b) Szakértői tevékenység során felmerült költségek (utazási költség, iratmásolás stb.):
+c) Vizsgálat során felmerült költségek (laboratóriumi, helyszíni szemle esetén bontási költség):
+6. Egyéb (ha releváns):
+III/A. Elemzés, értékelés
+a) Szerződésből megállapítható, kivitelezőt, vagy alvállalkozót terhelő munkák:
+b) Teljes bizonyossággal megállapíthatóan teljesített munkák:
+c) Munkák elvégzéséhez felhasznált anyagok:
+d) Szerződésben rögzített állapothoz mért teljes bizonyossággal megállapíthatóan teljesített munkák minőségi,
+mennyiségi mutatói:
+e) Elvégzett munkák értéke:
+f) El nem végzett munkák és azok értéke:
+III/B. Szakmai ténymegállapítás
+IV. Vélemény
+V. Mellékletek:
+a) Szerződés másolata
+b) Helyszíni szemle jegyzőkönyve
+Jelen szakértői vélemény ......... példányban készült.
+Kelt: ........................... , ........ év .............................. hó .......... nap
+Szakértői tanács tag Szakértői tanács elnök Szakértői tanács tag
+neve neve neve
+aláírása aláírása aláírása
+Ellenjegyzi:
+Kelt: ........................... , ........ év .............................. hó .......... nap
+ Teljesítésigazolási Szakértői Szerv vezető
+ neve
+ aláírása
+P. H.”
+
+3. melléklet a 426/2015. (XII. 23.) Korm. rendelethez
+„3. melléklet a 236/2013. (VI. 30.) Korm. rendelethez
+Teljesítésigazolási Szakértői Szerv véleményének kivonata
+Megbízó: Magyar Kereskedelmi és Iparkamara
+Megbízás kelte:
+Szakértői vélemény tárgya:
+Szakértői vélemény célja:
+o teljesítésigazolás kiadása
+o szerződést biztosító mellékkötelezettség érvényesíthetősége.
+Szakértői Tanács adatai
+1. Szakértői Tanács elnökének
+a) neve:
+b) szakértői jogosultságot igazoló okirat száma:
+c) szakértői szakterületek megnevezése:
+2. Szakértői Tanács tagjának
+a) neve:
+b) szakértői jogosultságot igazoló okirat száma:
+c) szakértői szakterületek megnevezése:
+3. Szakértői Tanács tagjának
+a) neve:
+b) szakértői jogosultságot igazoló okirat száma:
+c) szakértői szakterületek megnevezése:
+I. Előzmények, helyzetismertetés
+1. Kérelmező adatai
+a) Kérelmező neve (cégneve):
+b) Kérelmező címe (lakóhelye, székhelye):
+c) Kérelmező elérhetősége (FAX/Tel. szám, e-mail cím):
+2. Kérelmezővel szerződő fél adatai:
+a) Kérelmezővel szerződő fél neve (cégneve):
+b) Kérelmezővel szerződő fél címe (lakóhelye, székhelye):
+c) Kérelmezővel szerződő fél elérhetősége (FAX/Tel. szám, e-mail cím):
+3. Vitatott szerződés adatai:
+a) Szerződés tárgya:
+b) Szerződés száma:
+c) Szerződés kelte:
+4. Mellékkötelezettséget nyújtó adatai:
+a) Neve:
+b) Székhelye:
+c) Referencia száma:
+d) Mellékkötelezettség biztosításának érvényességi ideje: -tól -ig
+e) Mellékkötelezettséget biztosító szerződés száma:
+II/A. Elemzés, értékelés
+a) Szerződésből megállapítható, kivitelezőt, vagy alvállalkozót terhelő munkák:
+b) Teljes bizonyossággal megállapíthatóan teljesített tervezési és kivitelezési munkák:
+c) Kivitelezési munkák elvégzéséhez felhasznált anyagok:
+d) Szerződésben rögzített állapothoz mért teljes bizonyossággal megállapíthatóan teljesített tervezési és
+kivitelezési munkák minőségi, mennyiségi mutatói:
+e) Elvégzett tervezési és kivitelezési munkák értéke:
+f) El nem végzett tervezési és kivitelezési munkák és azok értéke:
+
+g) A szakértői tanács véleménye szerint a rendelkezésre álló dokumentumok és a helyszíni szemle
+szemrevételezése alapján a mellékkötelezettség érvényesítése
+o indokolt,
+o részben indokolt,
+o nem indokolt.
+II/B. Szakmai ténymegállapítás
+III. Vélemény
+IV. Melléklet: a szerződés másolata
+Kelt: ........................... , ........ év .............................. hó .......... nap
+Szakértői tanács tag Szakértői tanács elnök Szakértői tanács tag
+neve neve neve
+aláírása aláírása aláírása
+Ellenjegyzi:
+Kelt: ........................... , ........ év .............................. hó .......... nap
+ Teljesítésigazolási Szakértői Szerv vezető
+ neve
+ aláírása
+P. H.”
