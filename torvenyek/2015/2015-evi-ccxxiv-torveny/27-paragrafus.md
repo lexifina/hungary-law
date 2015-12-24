@@ -1,0 +1,3 @@
+27. § Az Eütv. 174. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Hímivarsejtet sejtbanki tevékenységen belül ivarsejtbanki tevékenység végzésére, illetve ivarsejtet reprodukciós eljárás végzésére jogosító, az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet szerinti működési engedéllyel rendelkező egészségügyi szolgáltató ivarsejtet – szakorvosi javaslat alapján, illetve egyéb indokolt kérelemre – átvehet cselekvőképes személytől későbbi, a letevő saját felhasználása céljából (a továbbiakban: ivarsejtletét). Ivarsejtletétként kizárólag a letevő saját és személyesen átadott ivarsejtjei vehetők át.”
