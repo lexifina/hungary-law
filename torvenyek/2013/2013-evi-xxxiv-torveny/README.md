@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-34-00-00
 | 2014-01-02 | 2010. évi CXXX. törvény | 2013-34-00-00.11 |
 | 2015-02-01 | 2014. évi CIX. törvény | 2013-34-00-00.12 |
 | 2015-03-19 | 2015. évi VII. törvény | 2013-34-00-00.13 |
+| 2015-12-24 | 2015. évi CCXXVI. törvény | 2013-34-00-00.14 |
