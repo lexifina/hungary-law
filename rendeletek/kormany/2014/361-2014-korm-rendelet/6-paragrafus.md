@@ -1,3 +1,3 @@
-## 4–5. §[^2]
+## 4–5. §[^3]
 
-[^2]: A 4–5. § a 2. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^3]: A 4–5. § a 423/2015. (XII. 23.) Korm. rendelet 2. §-a alapján nem lép hatályba.
