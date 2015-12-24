@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-159-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2012-159-00-00.6 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2012-159-00-00.7 |
 | 2014-09-30 | 2014. évi XXXIX. törvény | 2012-159-00-00.8 |
+| 2015-12-24 | 2015. évi CCXXVI. törvény | 2012-159-00-00.9 |
