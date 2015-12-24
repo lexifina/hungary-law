@@ -490,7 +490,7 @@
 
 1.4.93. Beremend közúti határátkelőhely
 
-1.4.94. Drávaszabolcs kikötő vízi határátkelőhely
+1.4.94.[^11] Drávaszabolcs vízi határátkelőhely
 
 1.4.95. Magyarbóly vasúti határátkelőhely
 
@@ -2196,17 +2196,19 @@
 
 6.7.8. Zákányszék
 
-6.7.9. Szeged (Röszke) közúti határátkelőhely
+6.7.9.[^12] Röszke közúti határátkelőhely
 
-6.7.10. Ásotthalom közúti határátkelőhely
+6.7.10.[^13] Röszke autópálya határátkelőhely
 
-6.7.11. Szeged (Röszke) vasúti határátkelőhely
+6.7.11.[^14] Röszke vasúti határátkelőhely
 
-6.7.12. Szeged-Röszke-Horgos (Horgos) vasútvonal
+6.7.12.[^15] Ásotthalom közúti határátkelőhely
 
-6.7.13. Szeged kikötő vízi határátkelőhely
+6.7.13.[^16] Szeged vízi határátkelőhely
 
-6.7.14. Szeged vasútállomás
+6.7.14.[^17] Szeged–Röszke–Horgoš (Horgos) vasútvonal
+
+6.7.15.[^18] Szeged vasútállomás
 
 6.8. Határrendészeti Kirendeltség Kiszombor
 
@@ -2257,6 +2259,8 @@
 6.9.10. Pitvaros
 
 6.9.11. Nagylak közúti határátkelőhely
+
+6.9.12.[^19] Csanádpalota autópálya határátkelőhely
 
 7. FEJÉR MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -7234,11 +7238,13 @@
 
 20.3.76. Zalaújlak
 
-20.3.77. Letenye közúti határátkelőhely
+20.3.77.[^20] Letenye I. közúti határátkelőhely
 
-20.3.78. Murakeresztúr vasúti határátkelőhely
+20.3.78.[^21] Letenye II. autópálya határátkelőhely
 
-20.3.79. Budapest-Murakeresztúr-Kotoriba (Kotor) vasútvonal
+20.3.79.[^22] Murakeresztúr vasúti határátkelőhely
+
+20.3.80.[^23] Budapest–Murakeresztúr–Kotoriba (Kotor) vasútvonal
 
 20.4. Zalaegerszegi Rendőrkapitányság
 
@@ -7412,16 +7418,28 @@
 
 21. MÁS RENDŐRI SZERV
 
-21.1. Repülőtéri Rendőr Igazgatóság
+21.1.[^24] Repülőtéri Rendőr Igazgatóság
 
 21.1.1. Budapest Liszt Ferenc Nemzetközi Repülőtér
 
 21.1.2. Budapest Liszt Ferenc Nemzetközi Repülőtér 1. terminál légi határátkelőhely
 
-21.1.3. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/A. terminál légi határátkelőhely
+21.1.3. Budapest Liszt Ferenc Nemzetközi Repülőtér 2. terminál légi határátkelőhely
 
-21.1.4. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/B. terminál légi határátkelőhely
-
-21.1.5. A légiforgalmi szolgálat központi létesítménye
+21.1.4. A légiforgalmi szolgálat központi létesítménye
 
 [^10]: Az 1. melléklet a 18/2015. (V. 21.) BM rendelet 2. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet 1. alcím 1.4. pont 1.4.94. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet 6. alcím 6.7. pont 6.7.9. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet 6. alcím 6.7. pont 6.7.10. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet 6. alcím 6.7. pont 6.7.11. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^15]: Az 1. melléklet 6. alcím 6.7. pont 6.7.12. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet 6. alcím 6.7. pont 6.7.13. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^17]: Az 1. melléklet 6. alcím 6.7. pont 6.7.14. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 6. alcím 6.7. pont 6.7.15. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
+[^19]: Az 1. melléklet 6. alcím 6.9. pont 6.9.12. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
+[^20]: Az 1. melléklet 20. alcím 20.3. pont 20.3.77. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet 20. alcím 20.3. pont 20.3.78. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 20. alcím 20.3. pont 20.3.79. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 20. alcím 20.3. pont 20.3.80. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
+[^24]: Az 1. melléklet 21. alcím 21.1. pontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.

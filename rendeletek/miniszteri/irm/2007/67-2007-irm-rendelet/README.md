@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-67-20-1
 | 2014-01-01 | 2007-67-20-1U.16 | 74/2013. (XII. 18.) BM rendelet |
 | 2014-10-12 | 2007-67-20-1U.17 | 16/2010. (IV. 27.) IRM rendelet |
 | 2015-07-01 | 2007-67-20-1U.18 | 18/2015. (V. 21.) BM rendelet |
+| 2015-12-24 | 2007-67-20-1U.19 | 79/2015. (XII. 23.) BM rendelet |
