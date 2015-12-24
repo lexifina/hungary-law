@@ -4,7 +4,7 @@
 
 3. A Tanács a halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) felkérésére
 
-a) elősegíti a halászati jog gyakorlásával összefüggő egyéni, szervezeti és közérdek közötti összhang megteremtését;
+a)[^1] elősegíti a halgazdálkodási jog gyakorlásával összefüggő egyéni, szervezeti és közérdek közötti összhang megteremtését;
 
 b) véleményt nyilvánít halgazdálkodási szakmai kérdésekben, valamint az azokra vonatkozó jogalkotási elképzelésekről;
 
@@ -26,7 +26,7 @@ j) figyelemmel kíséri és értékeli a hazai halgazdálkodási ágazat alakul�
 
 k) megtárgyalja a halgazdálkodási ágazatot érintő egyéb időszerű kérdéseket.
 
-4. A Tanács létszáma legfeljebb 11 fő, melynek tagjai a miniszter felkérése alapján
+4.[^2] A Tanács létszáma legfeljebb 13 fő, melynek tagjai a miniszter felkérése alapján
 
 a) Elnök: a miniszter által kijelölt kormánytisztviselő;
 
@@ -36,7 +36,7 @@ c) a Magyar Akvakultúra Szövetség (MASZ) 1 fő delegáltja;
 
 d) a Magyar Haltermelők és Halászati Vízterület-hasznosítók Szövetsége (MAHAL) 1 fő delegáltja;
 
-e) horgász érdekképviseletek legfeljebb 2 fő képviselője;
+e)[^3] horgász érdekképviseletek legfeljebb 3 fő képviselője;
 
 f) természetvédelmi állami szervezetek 1 fő képviselője;
 
@@ -46,11 +46,15 @@ h) természetes vizek halgazdálkodásának 1 fő felkért szakértője;
 
 i) természetes vizek horgászturisztikai hasznosításának 1 fő felkért szakértője;
 
-j) a Nemzeti Élelmiszerlánc-biztonsági Hivatal 1 fő delegáltja.
+j) a Nemzeti Élelmiszerlánc-biztonsági Hivatal 1 fő delegáltja;
 
-5. A Tanácsba tag delegálására jogosult szervezetek és szakértők felkéréséről a miniszter a határozat hatálybalépését követő 30 napon belül gondoskodik.
+k)[^4] a miniszter által kijelölt, az általa vezetett minisztérium halgazdálkodási jogterületével foglalkozó, jogász végzettséggel rendelkező kormánytisztviselője.
 
-6. A Tanács az Elnök kérésére véleményezi a halászati vízterület Magyar Államot megillető halászati jogának haszonbérbe adására vonatkozó pályázat elbírálásánál a beérkezett pályázatokat, majd a pályázatok elbírálásánál javaslatot tesz a nyertes pályázóra.
+5.[^5] A Tanácsba tag delegálására jogosult szervezetek és szakértők felkéréséről a miniszter a határozat, illetve a határozat módosításáról szóló kormányhatározat hatálybalépését követő 30 napon belül gondoskodik.
+
+6.[^6] A Tanács az Elnök kérésére véleményezi a nyilvántartott halgazdálkodási vízterület Magyar Államot megillető halgazdálkodási jogának haszonbérbe adására vonatkozó pályázat elbírálásánál a beérkezett pályázatokat, majd a pályázatok elbírálásánál javaslatot tesz a nyertes pályázóra.
+
+6a.[^7] A Tanács tagjai a 6. pontban foglalt feladat, a halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítására irányuló, valamint a miniszter által adható halfogási engedélyekhez kapcsolódó bírálati, döntés-előkészítő tevékenység ellátásáért – ha azt jogszabály vagy közjogi szervezetszabályozó eszköz nem zárja ki – időszakos jelleggel, a nagy mennyiségben benyújtott pályázat, illetve engedélykérelem esetén díjazásban részesülhetnek.
 
 7. A Tanács ülésén tanácskozási joggal részt vehet az, akit az elnök az ülésre meghív.
 
@@ -77,3 +81,11 @@ c) a delegálásra jogosult szervezet új tagot delegál.
 15. A Tanács működésének részletes szabályait, valamint az elnök, a titkár és a tagok helyettesítésének rendjét a Tanács ügyrendjében a miniszter által vezetett Minisztérium miniszter által kijelölt kormánytisztviselője állapítja meg.
 
 16. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3. pont a) alpontja az 1966/2015. (XII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: A 4. pont nyitó szövegrésze az 1966/2015. (XII. 23.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont e) alpontja az 1966/2015. (XII. 23.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
+[^4]: A 4. pont k) alpontját az 1966/2015. (XII. 23.) Korm. határozat 1. pontja iktatta be.
+[^5]: Az 5. pont az 1966/2015. (XII. 23.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
+[^6]: A 6. pont az 1966/2015. (XII. 23.) Korm. határozat 3. pont e) alpontja szerint módosított szöveg.
+[^7]: A 6a. pontot az 1966/2015. (XII. 23.) Korm. határozat 2. pontja iktatta be.
