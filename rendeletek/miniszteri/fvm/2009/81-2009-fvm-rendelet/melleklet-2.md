@@ -346,4 +346,4 @@
 
 | 9. | 5 | 5 | 5 | 100% |
 
-[^20]: A 2. számú melléklet a 17/2015. (IV. 9.) FM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. számú melléklet a 17/2015. (IV. 9.) FM rendelet 5. § (2) bekezdésével megállapított, a 93/2015. (XII. 23.) FM rendelet 7. §-a szerint módosított szöveg.
