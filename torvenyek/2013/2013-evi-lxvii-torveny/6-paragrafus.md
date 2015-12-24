@@ -14,7 +14,13 @@ b) valamely útdíjszolgáltatóval az e törvény szerinti bevallások útdíjs
 
 (5) Az útdíjszolgáltató az útdíj beszedésével kapcsolatos műveletek során a szerződött díjfizetővel az UD rendszerhez való hozzáférésre vonatkozó szerződésben meghatározott, az e törvény hatálya alá tartozó gépjárművek útdíjköteles elemi útszakaszokon történő közlekedésére vonatkozóan az útdíjszedő részére az útdíjszedővel fennálló szerződésének megfelelő módon és gyakorisággal bevallást nyújt be, továbbá az útdíjszedő által a (4) bekezdés alapján megállapított útdíjat az útdíjszedőnek megfizeti. Az útdíjszolgáltató jogosult az útdíjat a szerződött díjfizetővel kötött, hatályos szerződés rendelkezéseinek és a jogszabályoknak megfelelően a díjfizetésre kötelezettől beszedni, vagy a díjfizetésre kötelezett által előre megfizetett útdíjegyenleg terhére elszámolni. Az útdíjszedő a beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet az útdíjszolgáltatóknak.
 
-(6) A díjszedő köteles olyan szervezeti egységet vagy a kizárólagos tulajdonában álló gazdasági társaságot létrehozni és fenntartani, amely útdíjszolgáltatói feladatokat lát el.
+(6) Az útdíjszedő köteles
+
+a) olyan szervezeti egységet vagy a kizárólagos tulajdonában álló gazdasági társaságot létrehozni és fenntartani, amely útdíjszolgáltatói, valamint
+
+b) olyan szervezeti egységet létrehozni és fenntartani, amely útdíj-ellenőrzési
+
+feladatokat lát el.
 
 (7) Az egyetemes útdíjszolgáltatót az útdíjszolgáltató által nyújtandó alapvető szolgáltatások tekintetében, így különösen az UD rendszer szabályszerű használatához szükséges szolgáltatásokra vonatkozóan szerződéskötési kötelezettség terheli a díjfizetésre kötelezettel szemben, amennyiben ilyen irányú szándékát az egyetemes útdíjszolgáltatónak írásban bejelenti. Az egyetemes útdíjszolgáltató e szerződéskötési kötelezettségét viszonteladóin keresztül is teljesítheti. Az egyetemes útdíjszolgáltató a beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet a viszonteladóknak.
 
