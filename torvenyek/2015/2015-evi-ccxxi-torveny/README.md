@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-221-00-00
 | --- | --- | --- |
 | 2015-12-23 | 2015. évi CCXXI. törvény | 2015-221-00-00.0 (közlönyállapot) |
 | 2015-12-23 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-221-00-00.1 |
+| 2015-12-24 | 2010. évi CXXX. törvény | 2015-221-00-00.2 |
