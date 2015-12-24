@@ -4,7 +4,7 @@
 
 (2) A jóváhagyás a Rendelet 4. cikk (3) bekezdésében szabályozott eseteken túl akkor tagadható meg, ha
 
-a) a Kbt. 6. § (1) bekezdés a) és b) pontja szerinti kérelmező – ide nem értve az államot és a b) és c) pontban meghatározott kérelmezőt – nem rendelkezik felettes szervi hozzájárulással arra vonatkozóan, hogy az egyezménytervezet szerinti európai területi társulásban tagként részt vehet,
+a) a Kbt. 5. § (1) bekezdés a)–c) pontja szerinti kérelmező – ide nem értve az államot és a jelen bekezdés b) és c) pontjában meghatározott kérelmezőt – nem rendelkezik felettes szervi hozzájárulással arra vonatkozóan, hogy az egyezménytervezet szerinti európai területi társulásban tagként részt vehet,
 
 b) a kérelmező országos nemzetiségi önkormányzati költségvetési szerv, helyi önkormányzati költségvetési szerv, helyi nemzetiségi önkormányzati költségvetési szerv és nem rendelkezik a képviselő-testület vagy a közgyűlés hozzájárulásával arra vonatkozóan, hogy az egyezménytervezet szerinti európai területi társulásban tagként részt vehet, vagy
 
