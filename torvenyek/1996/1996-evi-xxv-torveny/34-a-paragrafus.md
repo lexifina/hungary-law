@@ -1,1 +1,1 @@
-34/A. § A közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alkalmazása során az adósságrendezés elrendelése a felek által előre nem látható és elháríthatatlan oknak minősül, melyre a Kbt.-ben meghatározott jogkövetkezményeket lehet alkalmazni.
+34/A. §
