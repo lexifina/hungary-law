@@ -63,3 +63,5 @@ bb) az 52. § (1) bekezdésének b)–d) pontjában, valamint az 52. § (2) beke
 (8) A Nyilvántartásból az adatszolgáltatás teljesítését követően haladéktalanul törölni kell az igénybevevőnek az igénybevétellel összefüggésben kezelt adatait. A (6) és (7) bekezdésben meghatározott határidőt követően a nyilvántartásból törölni kell az adatokat a bejegyzés alapjául szolgáló dokumentummal együtt, függetlenül az adatrögzítő szervtől, személytől.
 
 (9) A dokumentáció- és adatbeszerzés céljából megkeresett levéltárak és egyéb szervezetek a kért dokumentációkat, adatokat kormányrendeletben meghatározottak szerint szolgáltatják a Dokumentációs Központ számára.
+
+(10) Az 58. § szerinti nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
