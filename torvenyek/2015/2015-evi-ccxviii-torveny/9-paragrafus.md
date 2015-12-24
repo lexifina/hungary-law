@@ -1,1 +1,0 @@
-9. § A Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi LXXVIII. törvény 25/B. § (3) bekezdésében a „megsemmisíti” szövegrész helyébe a „hatályon kívül helyezi” szöveg lép.

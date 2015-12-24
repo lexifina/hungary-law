@@ -1,1 +1,0 @@
-5. § A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 38. § (4) bekezdés a) pontjában a „megsemmisítheti” szövegrész helyébe a „hatályon kívül helyezheti” szöveg lép.
