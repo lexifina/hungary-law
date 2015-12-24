@@ -1,1 +1,0 @@
-Az állattenyésztésről szóló 1993. évi CXIV. törvény (a továbbiakban: Átv.) 49. § (1) bekezdése a) pontjának 9. alpontjában, valamint az állategészségügyről szóló 1995. évi XCI. törvény 45. §-ának 5. pontjában kapott felhatalmazás alapján a következőket rendelem el:
