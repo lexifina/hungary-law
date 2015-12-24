@@ -28,37 +28,7 @@ b) bírság kiszabása esetén az eljárás jogerős befejezésétől számítot
 
 a 20. § (4) bekezdésben foglalt határidő lejártát követően törölni kell.”
 
-(2) A Kkt. 21/K. §-a helyébe a következő rendelkezés lép:
-
-„21/K. § (1) A közlekedési hatóság a közúti forgalom biztonsága érdekében a közúti járművek megengedett legnagyobb össztömegére és tengelyterhelésére vonatkozó rendelkezések megtartásával kapcsolatos ellenőrzési feladatok támogatására, az ellenőrzésre való kiválasztás előszűrése érdekében Nemzeti Tengelysúlymérő Rendszert (a továbbiakban: tengelysúlymérő-rendszer) működtet.
-
-(2) Amennyiben a tengelysúlymérő-rendszer mérése alapján kétséget kizáróan megállapítható, hogy a jármű a közúti forgalomban engedélyezett tengelyterhelést vagy megengedett legnagyobb össztömeget meghaladó tengelyterheléssel vagy össztömeggel vesz részt, akkor ezért a jármű üzembentartóját, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személyt a 21. §-ban meghatározott felelősség terheli.
-
-(3) A közlekedési hatóság a tengelysúlymérő-rendszer keretében kezeli a következő adatokat:
-
-a) a jármű honossága, rendszáma,
-
-b) a jármű össztömege és tengelyterhelése,
-
-c) a jármű tengelyeinek száma, a tengelyek közötti távolság,
-
-d) az úthasználat helye és ideje,
-
-e) a jármű áthaladási sebessége,
-
-f) a (2) bekezdés szerinti esetben a járműről és hatósági jelzéséről készített képfelvételek.
-
-(4) Amennyiben a tengelysúlymérő-rendszer keretében végzett mérés alapján szabályszegés gyanúja vélelmezhető, a tengelysúlymérő-rendszer a (3) bekezdésben szereplő adatokat a jármű hatósági ellenőrzésre való kiválasztása érdekében jelzi a közúti ellenőröknek.
-
-(5) Az útdíjszedő az általa kezelt a (3) bekezdésben felsorolt adatokat közvetlen adatkapcsolat útján adja át a tengelysúlymérő-rendszernek.
-
-(6) A (3) bekezdés szerinti adatokat a tengelysúlymérő-rendszerből
-
-a) amennyiben bírság kiszabására nem került sor, az úthasználat időpontjától számított,
-
-b) bírság kiszabása esetén az eljárás jogerős befejezésétől számított,
-
-a 20. § (4) bekezdésben foglalt határidő lejártát követően törölni kell.”
+(2)
 
 (3) A Kkt. a 21/K. §-t követően a következő alcím címmel és 21/L. §-sal egészül ki:
 
