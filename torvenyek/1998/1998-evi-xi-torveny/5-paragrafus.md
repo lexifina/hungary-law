@@ -34,7 +34,7 @@ h) a cég – általa készített – létesítő okiratának és e cég bejegyz
 
 h)
 
-i) külön törvényben szabályozott közbeszerzési békéltetői tevékenység, valamint hivatalos közbeszerzési tanácsadói tevékenység,
+i) felelős akkreditált közbeszerzési szaktanácsadói tevékenység,
 
 j) bejelentővédelmi ügyvédi tevékenység.
 

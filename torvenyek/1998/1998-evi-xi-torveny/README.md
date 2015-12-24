@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-11-00-00
 | 2015-06-19 | 2015. évi LXXI. törvény | 1998-11-00-00.38 |
 | 2015-10-17 | 2015. évi CLVI. törvény | 1998-11-00-00.39 |
 | 2015-12-23 | 2015. évi CCXVIII. törvény | 1998-11-00-00.40 |
+| 2015-12-24 | 2015. évi CCXXVI. törvény | 1998-11-00-00.41 |
