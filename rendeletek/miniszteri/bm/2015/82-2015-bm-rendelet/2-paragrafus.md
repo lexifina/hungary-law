@@ -1,0 +1,1 @@
+## 1. § A Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 25. Modern Városok Program támogatása cím szerinti előirányzat felhasználási szabályait az 1. melléklet tartalmazza.
