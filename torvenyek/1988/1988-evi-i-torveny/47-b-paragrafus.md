@@ -1,0 +1,1 @@
+47/B. § A 15. § (7) bekezdésében meghatározott, a tengelysúlymérő-rendszer részére történő adatszolgáltatási kötelezettséget a közútkezelő az e § hatálybalépését megelőzően kiadott és e § hatálybalépésekor érvényes közútkezelői hozzájárulások tekintetében 2017. január 1. napjáig teljesíti.

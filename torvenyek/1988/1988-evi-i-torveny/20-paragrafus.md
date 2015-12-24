@@ -40,7 +40,9 @@ kh) az autópálya leálló sávjának igénybevételére,
 
 l) a magyarországi illetőségű személynek vagy szervezetnek a külföldi hatósági jelzéssel ellátott jármű belföldi üzemeltetésére, használatára,
 
-m) az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra
+m) az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra,
+
+n) a (7)–(7a) bekezdésben meghatározott, valamint a 44. § (4) bekezdés szerinti, a jármű továbbközlekedésének megtiltására irányuló, hatósági intézkedésre
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
@@ -62,17 +64,17 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (6) A kiszabott bírság összegének megfizetése e törvény felhatalmazása alapján kiadott jogszabályban meghatározott számlaszámra történő befizetéssel történik. A megfizetett bírság és a pénzkövetelés biztosítás összegét – az azt megállapító döntés jogerőre emelkedéséig – az eljáró hatóság letétként kezeli.
 
-(7) Közúti forgalomban történő ellenőrzés esetén a járművet – a veszélyes áru, a gyorsan romló élelmiszer és az élő állat szállítmány feltartóztatására vonatkozó előírások megtartásával – a hatósági eljárás lefolytatása során, illetve a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a biztosítási intézkedésekre vonatkozó feltételek szerint vissza lehet tartani. A jármű nem tartható vissza különösen abban az esetben, ha
+(7) Közúti forgalomban történő ellenőrzés esetén a járművet – a veszélyes áru, a gyorsan romló élelmiszer és az élő állat szállítmány feltartóztatására vonatkozó előírások megtartásával – a hatósági eljárás lefolytatása során, illetve a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvénynek (a továbbiakban: Ket.) a biztosítási intézkedésekre vonatkozó feltételek szerint vissza lehet tartani. A jármű nem tartható vissza különösen abban az esetben, ha
 
 a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
 
 b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, garanciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
 
-(7a) Amennyiben az ellenőrzés megállapítja, hogy az (1) bekezdés c), e) és h) pontjában felsorolt szabályok valamelyikét megszegték és a szabályszegés a közlekedés biztonságára kockázatot jelent, az eljáró hatóság az erre vonatkozó külön határozat kiadása nélkül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény biztosítási intézkedésekre vonatkozóan megállapított feltételei szerint a járművet visszatartja a közlekedésbiztonsági kockázat elhárításáig.
+(7a) Amennyiben az ellenőrzés megállapítja, hogy az (1) bekezdés c), e) és h) pontjában felsorolt szabályok valamelyikét megszegték és a szabályszegés a közlekedés biztonságára kockázatot jelent, az eljáró hatóság az erre vonatkozó külön határozat kiadása nélkül a Ket. biztosítási intézkedésekre vonatkozóan megállapított feltételei szerint a járművet visszatartja a közlekedésbiztonsági kockázat elhárításáig.
 
-(8) A jármű részére a visszatartás idejére várakozó helyet kell kijelölni és a jármű forgalmi engedélyét – az átvételét igazoló elismervény egyidejű kiállítása és a járművezető részére történő átadása mellett – a visszatartás időtartamára el kell venni. A külföldi hatóság által kiadott forgalmi engedélyt – ha azt a jogosult a visszatartás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
+(8) A jármű részére a visszatartás idejére várakozó helyet kell kijelölni, és a jármű forgalmi engedélyét és hatósági jelzését – az átvételét igazoló elismervény egyidejű kiállítása és annak a járművezető részére történő átadása mellett – a visszatartás időtartamára el kell venni. A külföldi hatóság által kiadott forgalmi engedélyt és hatósági jelzést – ha azt a jogosult a visszatartás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
 
-(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint írásban tájékoztatni kell magyar, angol, német vagy orosz nyelven a (4a) bekezdés szerint kiszabott bírságról, illetve a (8) bekezdés szerint kijelölt várakozási helyről valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására vonatkozó jogszabályi rendelkezésekről.
+(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint az Európai Unió hivatalos nyelvén, továbbá – a jármű honossága szerint – orosz, szerb, török vagy ukrán nyelven írásban tájékoztatni kell a (4a) bekezdés szerint kiszabott bírságról, illetve a (8) bekezdés szerint kijelölt várakozási helyről, valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására, illetve a hatósági ellenőrzés során foganatosítható intézkedésekre vonatkozó jogszabályi rendelkezésekről.
 
 (10) A jármű visszatartásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
 
@@ -106,7 +108,7 @@ e) az (1) bekezdés k) pontja tekintetében a rendőrség
 
 f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is,
 
-g) az (1) bekezdés m) pontja tekintetében a rendőrség
+g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.)
 
 jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is, a belföldi forgalomban közlekedő járműnek az (1) bekezdés a) és b), valamint f)–j) pontjában meghatározott ellenőrzésébe a vámhatóság is bevonható.
 
@@ -121,3 +123,5 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 (15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7)–(10) bekezdésekben foglaltak szerint kell eljárni.
 
 (16) Amennyiben az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés h) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárni.
+
+(17) Az (1) bekezdés n) pontja szerinti, a jármű továbbközlekedésének megtiltására irányuló rendelkezés megtartásának ellenőrzésére a visszatartást elrendelő hatóság jogosult.

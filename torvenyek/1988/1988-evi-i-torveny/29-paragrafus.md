@@ -68,4 +68,6 @@ ca) amely nem alkalmas a forgalomcsökkentésre vagy a forgalomnövekedés káro
 
 cb) amelynek megvalósítása – akár műszaki adottságai, akár aránytalan költségei miatt – ellehetetlenítené a közútépítést, közútfejlesztést.
 
-(14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.) jár el.
+(14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként a NÚSZ Zrt. jár el.
+
+(14a) A tengelysúlymérő-rendszer kiépítésére irányuló beruházás során építtetőként a NÚSZ Zrt. jár el.
