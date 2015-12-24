@@ -54,12 +54,8 @@
 
 ## i) egyetért azzal, hogy az egyes kiemelt sportegyesületek 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportfejlesztési feladataikkal összefüggő kormányzati intézkedésekről szóló 1835/2013. (XI. 15.) Korm. határozat 2. pontjában meghatározott feladatokon túl, a biztosított összeg a Magyar Testgyakorlók Körének adósságkonszolidációjára is felhasználható.
 
-## 2. A H. 3. pontjában a „2015. december 31.” szövegrész helyébe a „2016. április 30.” szöveg lép.
-
-## 3. A Nemzeti Sírkerttel kapcsolatos feladatok ellátása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1574/2014. (X. 10.) Korm. határozatban a „2015. december 31.” szövegrész helyébe a „2016. június 30.” szöveg lép.
-
-## 4. Az Oktatási Hivatal 2016. évi feladatellátásához szükséges pénzügyi forrás biztosításáról szóló 1518/2015. (VII. 23.) Korm. határozatban a „szükséges 1500” szövegrész helyébe a „a 2015. év során szükséges 200,0 millió forint többletforrásnak a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény XX. Emberi Erőforrások Minisztériuma fejezet, 6. Egyéb oktatási intézmények cím, 1. Oktatási Hivatal alcímen és a 2016. év során szükséges 1300,0” szöveg lép, valamint a „2015. december 31.” szövegrész helyébe „a 2015-ben biztosítandó 200,0 millió forint tekintetében 2015. december 31., a fennmaradó 1300,0 millió forint tekintetében a felmerülés ütemében” szöveg lép.
-
-## 5. Az egyes kiemelt sportegyesületek 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportfejlesztési feladataikkal összefüggő kormányzati intézkedésekről szóló 1835/2013. (XI. 15.) Korm. határozat 2. pontjában a „2015. december 31.” szövegrész helyébe a „2016. május 31.” szöveg lép.
+## 2–5.[^1]
 
 1. melléklet az 1980/2015. (XII. 23.) Korm. határozathoz
+
+[^1]: A 2–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
