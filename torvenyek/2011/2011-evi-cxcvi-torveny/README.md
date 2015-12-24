@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-196-00-00
 | 2014-12-24 | 2014. évi XCV. törvény | 2011-196-00-00.23 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2011-196-00-00.24 |
 | 2015-03-19 | 2015. évi VII. törvény | 2011-196-00-00.25 |
+| 2015-12-24 | 2015. évi CCXXVI. törvény | 2011-196-00-00.26 |
