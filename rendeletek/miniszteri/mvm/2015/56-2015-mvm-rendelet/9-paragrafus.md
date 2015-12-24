@@ -1,3 +1,3 @@
-## 8. § A LEADER Helyi Akciócsoportok feladat ellátásához az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatás részletes feltételeiről szóló 30/2012. (III. 24.) VM rendelet [a továbbiakban: 30/2012. (III. 24.) VM rendelet] 13. §-a a következő (11) bekezdéssel egészül ki:
+9. §[^11]
 
-## „(11) Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 56/2015. (XII. 23.) MvM rendelettel [a továbbiakban: 56/2015. (XII. 23.) MvM rendelet] hatályon kívül helyezett 5. § (1) bekezdést nem kell alkalmazni a 2015. július 1. napjától felmerülő kiadások tekintetében.”
+[^11]: A 8–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
