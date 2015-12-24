@@ -1,4 +1,4 @@
-112/C. §[^278] (1) Az ingatlanügyi hatóság az ingatlan-nyilvántartás adatbázisából – egyedi megállapodás alapján – adatfeldolgozási tevékenységet igénylő esetekben
+112/C. §[^280] (1) Az ingatlanügyi hatóság az ingatlan-nyilvántartás adatbázisából – egyedi megállapodás alapján – adatfeldolgozási tevékenységet igénylő esetekben
 
 a) országos statisztikai célú adatgyűjtéshez,
 
@@ -38,4 +38,4 @@ f) az igénylő nyilatkozatát, miszerint a kapott adatokat csak a törvényben 
 
 (8) Az a megkereső, akinek részére a nem hiteles tulajdoni lap szolgáltatás esetére törvény díjmentességet biztosít, helyrajzi számonként évente egy alkalommal – a kizárólag az adatok leválogatásával és továbbításával kapcsolatban felmerülő költséget tartalmazó – kedvezményes költségtérítés fejében jogosult részadat-szolgáltatásra. E kedvezmény akkor vehető igénybe, ha a megkereső a megkeresésben megjelöli a nem hiteles tulajdoni lap szolgáltatás esetére díjmentességet biztosító törvényi rendelkezést.
 
-[^278]: A 112/C. §-t a 67/2015. (X. 30.) FM rendelet 6. §-a iktatta be.
+[^280]: A 112/C. §-t a 67/2015. (X. 30.) FM rendelet 6. §-a iktatta be.

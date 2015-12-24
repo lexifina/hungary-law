@@ -1,6 +1,6 @@
-## 68/B. §[^200] Az ingatlan-nyilvántartási eljárás a tulajdonjog átruházásról szóló szerződés hatósági jóváhagyásának hiányában a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 36. § (1) bekezdés e) pontja szerinti esetben akkor folytatható le, ha a jogügylet eredményeként az érintett ingatlan egyetlen személy tulajdonába kerül.
+## 68/D. §[^202] A társasházakról szóló törvényben szabályozott társasházi közösköltség-tartozás, illetve a lakásszövetkezetekről szóló törvényben szabályozott költséghátralék biztosítékául szolgáló jelzálogjog bejegyzése iránti kérelemhez csatolni kell a követelés összegét megállapító végrehajtható okiratot vagy a tulajdonosnak a legalább teljes bizonyító erejű magánokiratba foglalt nyilatkozatát, melyben elismeri a társasházi közösköltség-tartozás, illetve a költséghátralék fennállását.
 
-## 55.[^201] Az okiratok kellékei
+## 55.[^203] Az okiratok kellékei
 
-[^200]: A 68/B. §-t a 67/2015. (X. 30.) FM rendelet 3. §-a iktatta be.
-[^201]: Az 55. alcím a 48/2010. (IV. 27.) FVM rendelet 67. §-ával megállapított szöveg.
+[^202]: A 68/D. §-t a 82/2015. (XII. 16.) FM rendelet 1. §-a iktatta be.
+[^203]: Az 55. alcím a 48/2010. (IV. 27.) FVM rendelet 67. §-ával megállapított szöveg.
