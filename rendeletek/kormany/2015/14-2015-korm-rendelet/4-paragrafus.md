@@ -36,10 +36,12 @@ a) az illetékes hatóságok ellenőrzési tevékenységének segítése, a kép
 
 b) a 26–27. § szerinti képesített személyekre és képesített vállalkozásokra vonatkozó képzési, képesítési rendszerek, valamint a kapcsolódó adatbázis és monitoring-rendszer létrehozása, működtetése és kezelése, képesítési és képzési igazolások kiadása;
 
-c) a szakmai és társadalmi konszenzus és irányelvek meghatározásában közreműködő Szakértői Testület és a szerzett tudást értékelő Kompetencia Bizottságok felállítása, működtetése civil szervezetek bevonásával;
+c)[^3]
 
 d) a tevékenységek végzésével kapcsolatos biztonsági, műszaki szabályzatok, tájékoztatások, útmutatások elkészítése és figyelemmel kísérése;
 
 e) az Éhvt. 10/G. §-a szerinti adatszolgáltatással és kezeléssel kapcsolatos eljárások, a nyilvántartás vezetése;
 
 f) a klímagázokkal végzett tevékenységek kapcsán felmerült hatósági feladat e rendelet, közvetlenül alkalmazandó uniós jogi aktus vagy hatósági határozat előírásainak érvényesítése.
+
+[^3]: A 4. § (4) bekezdés c) pontját a 389/2015. (XII. 8.) Korm. rendelet 9. §-a hatályon kívül helyezte.

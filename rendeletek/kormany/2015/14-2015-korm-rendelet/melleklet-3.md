@@ -1,4 +1,4 @@
-3. melléklet a 14/2015. (II. 10.) Korm. rendelethez[^9]
+3. melléklet a 14/2015. (II. 10.) Korm. rendelethez[^22]
 
 ## Zárt rendszerű, klímagázt tartalmazó alkalmazások szivárgásvizsgálati és visszagyűjtési technológia követelményei
 
@@ -14,4 +14,4 @@ b) száraz nitrogén túlnyomással szorítják ki a folyadék leürítése utá
 
 4. Klímagáz közeg csak a megfelelően címkézett nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló jogszabályokban előírt gázpalackba (tartályba) tölthető és abban tárolható.
 
-[^9]: A 3. mellékletet a 20/2015. (II. 17.) Korm. rendelet 32. § a) pontja iktatta be.
+[^22]: A 3. mellékletet a 20/2015. (II. 17.) Korm. rendelet 32. § a) pontja iktatta be.

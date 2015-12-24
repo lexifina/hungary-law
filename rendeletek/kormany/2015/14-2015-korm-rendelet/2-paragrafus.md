@@ -26,7 +26,7 @@
 
 12. hermetikusan zárt berendezés: olyan klímagázt tartalmazó vagy azzal üzemelő berendezés, készülék, melynek szereléstechnológiája megfelel az 517/2014/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontjában leírtaknak;
 
-13. honvédségi alkalmazások: a Magyar Honvédség, a honvédelemért felelős miniszter közvetlen irányítása, fenntartói irányítása, valamint felügyelete alá tartozó szervezetek elhelyezését szolgáló klímagázt tartalmazó vagy azzal működtetett létesítmények, eszközök és berendezések;
+13.[^1] honvédségi alkalmazások: a Magyar Honvédség, a honvédelemért felelős miniszter közvetlen irányítása, fenntartói irányítása, valamint felügyelete alá tartozó szervezetek klímagázt tartalmazó vagy azzal működtetett létesítményei, eszközei és berendezései;
 
 14. HR szektor: az üzemszerűen helyhez kötött klímagázt tartalmazó vagy azzal működtetett rendszerek és alkalmazások, így különösen a helyhez kötött hűtőberendezések, helyhez kötött légkondicionáló berendezések, helyhez kötött hőszivattyúk, helyhez kötött tűzvédelmi berendezések, helyhez kötött elektromos kapcsolóberendezések, F-ÜHG-ból vagy ORLA-ból előállított oldószereket tartalmazó helyhez kötött berendezések;
 
@@ -67,3 +67,5 @@
 a) az F-ÜHG esetében az 517/2014/EU európai parlamenti és tanácsi rendelet 2. cikkében és a rendelet végrehajtására kiadott más uniós jogi normákban,
 
 b) az ORLA esetében az 1005/2009/EK parlamenti és tanácsi rendelet cikkében
+
+[^1]: A 2. § (1) bekezdés 13. pontja a 389/2015. (XII. 8.) Korm. rendelet 1. §-ával megállapított szöveg.

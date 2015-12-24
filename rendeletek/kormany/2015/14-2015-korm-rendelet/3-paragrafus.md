@@ -20,6 +20,8 @@ c) a klímagázt tartalmazó tűzoltó-technikai termékek, valamint a klímagá
 
 az 517/2014/EU európai parlamenti és tanácsi rendeletben, az 1005/2009/EK parlamenti és tanácsi rendeletben és az e rendeletben rögzített kötelezettségek ellenőrzésével és felügyeletével kapcsolatban.
 
-(3) A honvédségi alkalmazások tekintetében az (1) és (2) bekezdésben foglalt feladatokkal kapcsolatos hatósági jogkörben, országos illetékességgel első fokon a Honvédelmi Minisztérium Hatósági Hivatal (a továbbiakban: HM HH) vezetőjét, másodfokon a honvédelemért felelős minisztert jelöli ki.
+(3)[^2] A Kormány a Magyar Honvédség, a honvédelemért felelős miniszter közvetlen irányítása, fenntartói irányítása, valamint felügyelete alá tartozó szervezetek klímagázzal kapcsolatos tevékenységei és a honvédségi alkalmazások tekintetében az (1) és a (2) bekezdésben foglalt feladatokkal kapcsolatos hatósági jogkörben első fokon, országos illetékességgel, a Honvédelmi Minisztérium Hatósági Hivatal (a továbbiakban: HM HH) vezetőjét, másodfokon a honvédelemért felelős minisztert jelöli ki.
 
 (4) Az illetékes közlekedési hatóság jár el az MR szektorban a gépjármű-szervizek megfelelő képesítésének helyszíni ellenőrzésében és a hűtőkamionok- és pótkocsik műszaki vizsgáztatása alkalmával ellenőrizni kell a kötelező szivárgásvizsgálat és regisztráció megtörténtét. Hiányosság, jogszabálysértés észlelése esetén haladéktalanul megteszi a szükséges intézkedéseket. Intézkedéseiről értesíti a Hatóságot is.
+
+[^2]: A 3. § (3) bekezdése a 389/2015. (XII. 8.) Korm. rendelet 2. §-ával megállapított szöveg.

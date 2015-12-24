@@ -1,4 +1,4 @@
-## 7. F-ÜHG-k, ilyen gázokat tartalmazó, valamint ilyen gázokkal működtetett termékek és berendezések magyarországi forgalomba hozataláról és címkézéséről
+## 7. [^7] F-ÜHG-k, ilyen gázokat tartalmazó, valamint ilyen gázokkal működtetett termékek és berendezések magyarországi forgalomba hozataláról, forgalmazásáról és címkézéséről
 
 7. § (1) Az Európai Unió területén első alkalommal Magyarország területére importált vagy ott forgalomba hozott, az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikk (1) és (2) bekezdésében rögzített F-ÜHG-t tartalmazó, illetve ilyen gázokkal működő termékeket és berendezéseket az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikk (3) és (4) bekezdésében meghatározott adattartalommal rendelkező címkével szükséges ellátni.
 
@@ -14,6 +14,9 @@ b) a már korábban telepített, működő termékeket és berendezéseket az el
 
 (5) A hatósági címkézés feltétele, hogy az első alkalommal forgalomba hozott F-ÜHG-t tartalmazó, illetve ilyen gázokkal működő termékek és berendezések az első forgalomba helyezéskor a gyártó vagy az importőr által, már működő termékek és berendezések esetében az üzemeltető által kerüljenek regisztrálásra, és hűtőköreik műszaki adatainak rögzítése a képesített vállalkozás által történjen meg az adatbázisban.
 
-(6) F-ÜHG visszanyerése, lefejtése, valamint regenerálása során F-ÜHG közeg palack használata során a tartály változó tartalmának megjelölésére a Hatóság által kiadott címkét köteles használni az ezen tevékenységeket végző képesített vállalkozás.
+(6)[^8] F-ÜHG visszanyerése, lefejtése, valamint regenerálása során F-ÜHG közeg palack használata során a palack változó tartalmának megjelölésére a Hatóság által kiadott címkét köteles használni az ezen tevékenységeket végző képesített vállalkozás.
 
 (7) A címke formai és tartalmi követelményeit az 1494/2007/EK bizottsági rendelet határozza meg.
+
+[^7]: A 7. alcím címe a 389/2015. (XII. 8.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^8]: A 7. § (6) bekezdése a 389/2015. (XII. 8.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
