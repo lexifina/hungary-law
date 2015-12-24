@@ -1,0 +1,1 @@
+## 1. Az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok 2014. évi finanszírozásának szabályairól szóló 50/2014. (IV. 29.) VM rendelet módosítása
