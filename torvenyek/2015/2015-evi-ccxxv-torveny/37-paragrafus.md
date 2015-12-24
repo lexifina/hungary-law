@@ -1,0 +1,29 @@
+## 9. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
+
+37. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) a következő 44/A. §-sal egészül ki:
+
+„44/A. § (1) Az állam tulajdonába és ellenérték nélkül a NIF Zrt. vagyonkezelésébe kerül a 44. § (3) bekezdése szerinti közérdekű és közcélú tevékenység folytatása érdekében a NIF Zrt. által megvásárolt vagy kisajátított földrészlet. A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzéséről a NIF Zrt. gondoskodik. A NIF Zrt. a vagyonkezelői jog bejegyzésére vonatkozó ingatlanügyi hatósági határozatot annak kézhezvételét követően haladéktalanul megküldi az MNV Zrt. részére.
+
+(2) A NIF Zrt. által végzett közérdekű és közcélú tevékenység alapján megszerzett, az állam tulajdonában álló egyes földterületek, valamint a NIF Zrt. által ezen földterületeken létrehozott vagy megszerzett vasúti pályahálózat működéséhez szükséges eszközök az átadás-átvétel fordulónapján, e törvény erejénél fogva, a NIF Zrt. által nyilvántartott könyv szerinti értéken, ellenérték nélkül, adó- és illetékmentesen, közvetlenül a vasúti pályahálózat vagyonkezelője vagyonkezelésébe kerülnek, a NIF Zrt. vagyonkezelési jogának egyidejű megszűnése mellett azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény alkalmazandó. Az átadás-átvétel fordulónapjától számított hat hónapon belül a NIF Zrt. elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és jelen bekezdés szerinti új vagyonkezelő könyveiben azokat nyilvántartásba vegye.
+
+(3) A nem állami tulajdonban álló, e § szerinti eljárásokban érintett ingatlanok állami tulajdonba vételéről a vasúti pályahálózat vagyonkezelője köteles gondoskodni abban az esetben, ha az érintett (harmadik személy tulajdonában álló) ingatlan részben, vagy egészben már a beruházás (fejlesztés) megkezdésének időpontja előtt is vasútüzemi használat alatt állt. A beruházás előkészítésének és lebonyolításának időszakában szükségessé vált területszerzéseknél az elmaradt, vagy elkezdett, de be nem fejezett állami tulajdonba vétel utólagos végrehajtása érdekében, valamint a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény hatálybalépését követően megkezdett fejlesztések érdekében szükségessé váló területszerzések során – a vasúti pályahálózat vagyonkezelőjének szakmai véleménye alapján – a NIF Zrt. köteles eljárni. Az állami tulajdonba vételt követően az MNV Zrt. az érintett ingatlanokat a vasúti pályahálózat vagyonkezelője részére vagyonkezelésébe adja.
+
+(4) A 44. § (3) bekezdése szerinti közérdekű és közcélú tevékenység folytatása során
+
+a) a vasúti pályahálózat vagyonkezelője használatában álló állami vagyonon végzett,
+
+b) a NIF Zrt.-n és a vasúti pályahálózat vagyonkezelőjén kívül más vagyonkezelésében álló állami vagyonon végzett,
+
+c) nem állami tulajdonban álló ingatlanon végzett
+
+vasúti pályahálózathoz kapcsolódó – állami tulajdont keletkeztető – értéknövelő beruházások, felújítások eredményeként létrejövő vasúti pályahálózat működtetéséhez szükséges eszközöket a NIF Zrt. a vasúti pályahálózat vagyonkezelője részére ellenérték nélkül a NIF Zrt. által nyilvántartott könyv szerinti értéken, adó- és illetékmentesen adja át azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény alkalmazandó. A NIF Zrt. által ezen földterületeken létrehozott vagy megszerzett vasúti pályahálózat működéséhez szükséges eszközök az átadás-átvétel fordulónapján, e törvény erejénél fogva, ellenérték nélkül a NIF Zrt. által nyilvántartott könyv szerinti értéken, adó- és illetékmentesen, közvetlenül a vasúti pályahálózat vagyonkezelője vagyonkezelésébe kerülnek.
+
+(5) Azon, vasúti pályahálózat részét képező és akár az ingatlan-nyilvántartás, akár a vasúti pályahálózat vagyonkezelőjének nyilvántartása szerint a vasúti pályahálózat vagyonkezelője vagyonkezelésében, kezelésében, használatában vagy saját tulajdonában lévő eszközök vonatkozásában, amelyek tulajdonjogi vagy vagyonkezelési helyzete nem rendezett – azaz az érintett eszköz az ingatlan-nyilvántartás vagy a vasúti pályahálózat vagyonkezelőjének nyilvántartása szerint nincs állami tulajdonban és a vasúti pályahálózat vagyonkezelőjének vagyonkezelésében – a fejlesztés előkészítő szakaszában, de legkésőbb az átadás-átvételig a vagyonrendezést az állami vagyonról szóló törvény szerint el kell végezni.
+
+(6) A nem állami tulajdonban lévő ingatlanon, állami beruházás keretében, a tulajdonos érdekében végzett, nem vasúti pályahálózathoz kapcsolódó értéknövelő beruházások, felújítások átadás-átvételéről a tulajdonos köteles megállapodni a NIF Zrt.-vel, a NIF Zrt. értesítésének kézhezvételét követő 30 napon belül. A települési önkormányzatok és az állami tulajdonú víziközmű szolgáltató társaságok ingatlanain végzett beruházás esetén a tulajdonos részére történő átadás ellenérték nélkül, adó- és illetékmentesen történik azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény alkalmazandó.
+
+(7) Az állami tulajdonú, de a vasúti pályahálózat vagyonkezelőjétől eltérő vagyonkezelő vagyonkezelésében álló ingatlanon, állami beruházás keretében, a vagyonkezelő érdekében végzett, nem vasúti pályahálózathoz kapcsolódó értéknövelő beruházások, felújítások közvetlen átadás-átvételéről a vagyonkezelő köteles megállapodni a NIF Zrt.-vel, a NIF Zrt. értesítésének kézhezvételét követő 30 napon belül.
+
+(8) A vasúti társaság tulajdonában vagy vagyonkezelésében álló területen megvalósuló vasútfejlesztés esetén a vasúti társaság a beruházás jogerős használatba vételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
+
+(9) Az e §-ban foglaltak végrehajtása során az érintettek kötelesek kölcsönösen együttműködni.”
