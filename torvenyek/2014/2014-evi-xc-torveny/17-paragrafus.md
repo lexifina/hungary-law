@@ -1,6 +1,6 @@
 17. § A nemzetközi fejlesztési együttműködéshez és humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában
 
-a) a közbeszerzésekről szóló 2011. évi CVIII. törvény 119–123. §-át,
+a)
 
 b) az államháztartásról szóló 2011. évi CXCV. törvény 50. § (5) bekezdését és 51. §-át,
 
