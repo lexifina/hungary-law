@@ -12,12 +12,6 @@ Felelős: igazságügyi miniszter
 
 Határidő: 2016. március 31.
 
-3. A kormányzati lakossági tájékoztató levelek küldésével kapcsolatos feladatokról szóló 1848/2014. (XII. 30.) 1. pontja helyébe a következő rendelkezés lép:
+3.[^1]
 
-(A Kormány a fentiek érdekében felhívja)
-
-„1. a miniszterelnök kabinetfőnökét, hogy a 3. pont szerinti feladatok ellátásához és a kiküldött kiadványok technikai feldolgozásával kapcsolatos feladatok ellátásához szükséges adatfeldolgozási tevékenységek – mint az adatkezeléssel összefüggő technikai műveletek – ellátására adatfeldolgozási szerződést kössön a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalával (a továbbiakban: KEK KH) és a Magyar Posta Zártkörűen Működő Részvénytársasággal;
-
-Felelős: a miniszterelnök kabinetfőnöke
-
-Határidő: folyamatos”
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
