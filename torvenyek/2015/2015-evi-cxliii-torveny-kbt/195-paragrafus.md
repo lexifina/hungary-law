@@ -5,3 +5,5 @@
 (2) A közbeszerzésekért felelős miniszter hagyja jóvá a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítását, valamint irányítja, felügyeli és ellenőrzi a közbeszerzési tárgyú képzéseket.
 
 (3) Az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos részletes szabályokat külön jogszabály tartalmazza.
+
+(4) A közbeszerzésekért felelős miniszter az (1) bekezdésben meghatározott központi ellenőrzéssel összefüggésben eljárási bírsággal sújthatja azt az ellenőrzéssel érintett szervezetet, amely a külön jogszabályban meghatározott kötelezettségeit nem teljesíti vagy a határidőket elmulasztja.

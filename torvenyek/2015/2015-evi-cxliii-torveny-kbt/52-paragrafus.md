@@ -8,7 +8,7 @@
 
 (4) Az ajánlatkérő köteles meghosszabbítani az ajánlattételi vagy részvételi határidőt,
 
-a) ha a kiegészítő tájékoztatást, annak ellenére, hogy azt a gazdasági szereplő az 57. §-ban meghatározottak szerint időben kérte, nem tudja az előírt határidőben [57. § (2) bekezdés] teljesíteni, vagy
+a) ha a kiegészítő tájékoztatást, annak ellenére, hogy azt a gazdasági szereplő az 56. §-ban meghatározottak szerint időben kérte, nem tudja az előírt határidőben [56. § (2) bekezdés] teljesíteni, vagy
 
 b) ha a közbeszerzési dokumentumokat módosítja.
 

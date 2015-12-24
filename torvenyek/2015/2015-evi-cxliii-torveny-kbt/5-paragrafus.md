@@ -20,6 +20,20 @@ b) olyan építési beruházás, amely kórház, sportlétesítmény, szabadidő
 
 c) olyan szolgáltatás megrendelése, amely az a) vagy a b) pont szerinti építési beruházáshoz kapcsolódik.
 
-(3) A (2) bekezdésben foglaltak mellett a támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet, amelynek szolgáltatásmegrendelését, árubeszerzését vagy építési beruházását az (1) bekezdésben meghatározott egy vagy több szervezet legalább huszonötmillió forint összegben közvetlenül támogatja.
+(3) A (2) bekezdésben foglaltak mellett a támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet, amelynek szolgáltatás megrendelését, árubeszerzését vagy építési beruházását az (1) bekezdésben meghatározott egy vagy több szervezet legalább huszonötmillió forint összegben közvetlenül támogatja, kivéve, ha a beszerzés
+
+a) egyedi kormánydöntésben megállapított beruházási támogatásból,
+
+b) egyedi munkahely-teremtési támogatásból,
+
+c) képzési, továbbá tanműhely-létesítési és -fejlesztési támogatásból,
+
+d) kutatás-fejlesztési és innovációs célú támogatásból,
+
+e) nagyvállalkozások újraiparosítási célt szolgáló beruházásainak támogatásából, vagy
+
+f) bármely, 2015. november 1-jét megelőzően igényelt uniós, illetve hazai költségvetési forrásból származó támogatásból
+
+valósul meg.
 
 (4) E törvény rendelkezését köteles betartani az az (1)–(2) bekezdés hatálya alá nem tartozó szervezet, amely e törvény szerinti közbeszerzési eljárás lefolytatását önként vagy szerződésben vállalja, illetve számára jogszabály közbeszerzési eljárás lefolytatását kötelezővé teszi.

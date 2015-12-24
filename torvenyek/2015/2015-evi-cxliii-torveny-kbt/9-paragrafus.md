@@ -2,7 +2,7 @@
 
 9. § (1) E törvényt nem kell alkalmazni
 
-a) a külön törvényben meghatározott védelmi és biztonsági tárgyú beszerzésekre azzal, hogy e beszerzésekre a külön törvényben meghatározott szabályok alkalmazandók, valamint ha a beszerzés a külön törvény alkalmazása alól is kivételt képez és a b) pont ba) alpontjának megfelelő kivételi esetben az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a külön törvény alkalmazása alól felmentést adott;
+a) a külön törvényben – annak hatálybalépéséig e törvény felhatalmazása alapján kiadott kormányrendeletben – meghatározott védelmi és biztonsági tárgyú beszerzésekre azzal, hogy e beszerzésekre a külön törvényben – annak hatálybalépéséig e törvény felhatalmazása alapján kiadott kormányrendeletben – meghatározott szabályok alkalmazandók, valamint ha a beszerzés a külön törvény alkalmazása alól is kivételt képez és a b) pont ba) alpontjának megfelelő kivételi esetben az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a külön törvény alkalmazása alól felmentést adott, illetve a külön törvény hatályba lépéséig a b) pont ba) alpontjának megfelelő kivételi esetben e törvény felhatalmazása alapján kiadott kormányrendelet szerint a Kormány egyedi döntésének megfelelően az e törvény felhatalmazása alapján kiadott kormányrendelet sajátos szabályai alkalmazandók;
 
 b) az a) pont alá nem tartozó
 
