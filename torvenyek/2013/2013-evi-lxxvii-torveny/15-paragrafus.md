@@ -71,3 +71,5 @@ h) a képzésben részt vevők elégedettség-mérésére
 vonatkozó adatokat.
 
 (8) Az (1)–(5) és (7) bekezdésben foglalt adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+
+(9) Az (1)–(5) és (7) bekezdésben foglalt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.

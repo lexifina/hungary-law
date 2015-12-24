@@ -28,6 +28,8 @@ c) a képzésben részt vevő társadalombiztosítási azonosító jelét.
 
 (2) Az (1) bekezdésben foglalt adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra személyazonosításra alkalmatlan módon átadhatók.
 
+(2a) Az (1) bekezdésben foglalt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
+
 (3) Az (1) bekezdésben foglalt adatokat államháztartási vagy európai uniós források igénybevételének és felhasználásának ellenőrzése céljából az e támogatásokat ellenőrző szervek számára továbbítani kell.
 
 (4) Az iskolarendszeren kívüli képzési tevékenységet folytató, az 1. § (1) bekezdés c) pontjában meghatározott jogalany tevékenységéről – az (5) bekezdésben foglalt kivétellel – az OSAP szerint statisztikai célú adatszolgáltatásra kötelezett.

@@ -76,7 +76,9 @@ j) a Magyar Igazságügyi Akadémia által bírák, igazságügyi alkalmazottak,
 
 k) a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló miniszteri rendeletben, az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló miniszteri rendeletben, a hivatásos gondnoki feladatot ellátó személyek képesítési előírásairól szóló miniszteri rendeletben, továbbá a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott képzésekre,
 
-l) az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szerv által az igazságügyi szolgálatok, valamint az igazságszolgáltatásban közreműködő, illetve ahhoz szakmai tevékenységükkel közvetlenül kapcsolódó más személyek részére szervezett jogi tárgyú és az igazságszolgáltatási tevékenységhez közvetlenül kapcsolódó nem jogi tárgyú szakmai képzésekre.
+l) az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szerv által az igazságügyi szolgálatok, valamint az igazságszolgáltatásban közreműködő, illetve ahhoz szakmai tevékenységükkel közvetlenül kapcsolódó más személyek részére szervezett jogi tárgyú és az igazságszolgáltatási tevékenységhez közvetlenül kapcsolódó nem jogi tárgyú szakmai képzésekre,
+
+m) a közbeszerzési tárgyú képzésekre, így különösen a felelős akkreditált közbeszerzési szaktanácsadói tevékenység végzéséhez, illetve az akkreditáció megszerzéséhez szükséges képzésekre.
 
 (6) E törvény hatálya – a 13. § (1)–(2) bekezdésében, a 13. § (3) bekezdés b), c), e)–g) és j) pontjában, a 16. § a) és f) pontjában, a 21. § (4) bekezdésében, valamint a 23. § (1) bekezdésében foglaltak kivételével – nem terjed ki a 2. § 2. pontjában meghatározott belső képzésekre azzal, hogy e képzési tevékenységet végzők képzéseiket kötelesek a 12. § b), d)–g) és i) pontjában foglalt tartalmú képzési program alapján végezni.
 
