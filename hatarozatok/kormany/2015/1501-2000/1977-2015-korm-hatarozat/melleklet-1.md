@@ -8,20 +8,9 @@
 
 ## Határidő: folyamatosan
 
-## 2. A Nemzeti Várprogramról szóló 1483/2015. (VII. 21.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
+## 2–4.[^1]
 
-## 3. A Nemzeti Kastélyprogramról szóló 1663/2014. (XI. 20.) Korm. határozat 1. melléklete helyébe a 2. melléklet lép.
+1–2. melléklet az 1977/2015. (XII. 23.) Korm. határozathoz[^2]
 
-## 4. A Nemzeti Kastélyprogramról szóló 1663/2014. (XI. 20.) Korm. határozat 1. pontja a következő c) alponttal egészül ki:
-
-## [A Kormány támogatja és kiemelt célnak tekinti a Nemzeti Kastélyprogram (a továbbiakban: Program) megvalósítását, a Program részét képező kiemelt jelentőségű, a nemzeti kulturális örökség részét képező, az 1. mellékletében szereplő kastélyok fejlesztését és egységes kezelését, melynek érdekében elrendeli, hogy]
-
-## „c) az a) alpont szerinti határidőben át nem adott kastélyokra tervezett 899,01 millió forint összegű állami támogatást a 2015. évben a Forster Központ feladatbővüléséhez tartozó eszközvásárlásra, a Forster Központ által vagyonkezelt, az 1. mellékletben nem szereplő ingatlanok állagmegóvó felújítására, működtetésére, valamint a Forster Központ intézményi átszervezésének költségeire kell felhasználni.
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: 2015. december 31.”
-
-1. melléklet az 1977/2015. (XII. 23.) Korm. határozathoz
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
