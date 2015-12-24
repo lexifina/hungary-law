@@ -1,0 +1,9 @@
+# 429/2015. (XII. 23.) Korm. rendelet
+
+a KNORR-BREMSE Vasúti Jármű Rendszerek Hungária Korlátolt Felelősségű Társaság Budapesten megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-429-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-12-24 | 2015-429-20-22.1 | 429/2015. (XII. 23.) Korm. rendelet |
