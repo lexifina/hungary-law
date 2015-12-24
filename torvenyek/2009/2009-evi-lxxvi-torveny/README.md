@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-76-00-00
 | 2012-04-01 | 2011. évi CXCIII. törvény | 2009-76-00-00.7 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2009-76-00-00.8 |
 | 2013-10-22 | 2013. évi CL. törvény | 2009-76-00-00.9 |
+| 2015-12-24 | 2015. évi CCXXVI. törvény | 2009-76-00-00.10 |

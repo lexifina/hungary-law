@@ -12,6 +12,6 @@ a) a külföldi bizonyítványok és oklevelek elismeréséről szóló törvén
 
 b) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti eljárásokra,
 
-c) a közbeszerzésekről szóló törvény alkalmazásában az ajánlattevővel, az alvállalkozóval vagy az erőforrást nyújtó szervezettel szembeni kizáró okok hiányának, valamint a minőségbiztosítási szabványoknak és a környezetvédelmi vezetési rendszereknek való megfelelés igazolására,
+c) a közbeszerzésekről szóló törvény alkalmazásában az ajánlattevővel, az alvállalkozóval vagy a kapacitásait rendelkezésre bocsátó szervezettel szembeni kizáró okok hiányának, valamint a minőségbiztosítási szabványoknak és a környezetvédelmi vezetési rendszereknek való megfelelés igazolására,
 
 d) az ügyvédekről szóló törvény szerinti európai közösségi jogásznak a saját tagállamában az ügyvédi tevékenység folytatására való jogosultsága igazolására.
