@@ -4,7 +4,7 @@
 
 81. § (1) A munkavédelemre vonatkozó szabályok megtartásának elősegítését, valamint ellenőrzését a munkavédelmi hatóság látja el.
 
-(2) A munkavédelmi hatóság tájékoztatást ad a közbeszerzési jogszabályban meghatározott ajánlattevő részére a munkavállalók egészségére és biztonságára vonatkozó kötelezettségekről.
+(2)
 
 (3) A munkavédelmi hatóság tájékoztatással és tanácsadással segíti a munkáltatókat és munkavállalókat, a munkavédelmi képviselőket, továbbá az érdekképviseleteket, hogy azok a munkavédelemmel kapcsolatos jogaikat gyakorolhassák, és kötelezettségeiket teljesíthessék.
 

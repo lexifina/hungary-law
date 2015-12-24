@@ -27,3 +27,5 @@ e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajth
 a) a (2) bekezdésben foglalt adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé,
 
 b) – ha az (5) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került – intézkedik a honlapon nyilvánosságra hozott adatok törléséről.
+
+(8) A hatósági nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
