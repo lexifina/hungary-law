@@ -2,7 +2,7 @@
 
 (2) Jogellenes azon reklám célú berendezés a kihelyezés időpontjától függetlenül,
 
-a) amely közvilágítási-, villany- és telefonoszlopon került elhelyezésre, tekintet nélkül azok közúthoz viszonyított helyzetére,
+a)[^3]
 
 b) amely a közút területén, a közút felett, az út műtárgyán, az út tartozékán került elhelyezésre, a közút úttesten kívüli burkolatlan területe, a járda, a gyalogút és a kerékpárút kivételével,
 
@@ -11,3 +11,5 @@ c) amely a közút lakott területen kívüli szakasza mellett a közút tengely
 (3) A közút kezelője a jogellenes reklám célú berendezéssel érintett ingatlan tulajdonosát 30 napos határidő megállapításával felszólítja a jogsértés megszüntetésére. Felszólításában tájékoztatást ad a jogkövetkezményekről. Az ingatlan tulajdonosa köteles gondoskodni a Kkt. szerint jogellenesen elhelyezett reklám célú berendezés eltávolításáról, a jogsértés megszüntetéséről.
 
 (4) Amennyiben az ingatlan tulajdonosa nem lelhető fel, a közútkezelő a reklám célú berendezés tulajdonosát szólítja fel annak eltávolítására. Eredménytelen felszólítás esetében a közút kezelője a reklám célú berendezést a Kkt. 12. § (5) bekezdése szerint eltávolíthatja.
+
+[^3]: A 3. § (2) bekezdés a) pontját a 421/2015. (XII. 23.) Korm. rendelet 8. §-a hatályon kívül helyezte. Alkalmazására lásd a 421/2015. (XII. 23.) Korm. rendelet 7. §-át.
