@@ -1,4 +1,4 @@
-## 31. § Hatályát veszti a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 116/2003. (XI. 18.) FVM rendelet.
+## 31. §[^2]
 
 1. melléklet a 83/2015. (XII. 16.) FM rendelethez
 
@@ -31,3 +31,5 @@ II. A jelölésnél alkalmazott füljelzők és feliratok:
 3.2. a megyei körzetbe sorolt tenyészetekben – a tenyészsertések kivételével – a vágóhídi füljelzőn országosan folyamatos futó sorszám, amely a tartós műanyag füljelzőn egyjegyű ellenőrző számmal egészül ki;
 
 3.3. tenyészsertések esetében tizenegy jegyű szám, amelynek első számjegye 1, öt számjegyű előtaggal, négy számjegyű használati számmal és az egyjegyű ellenőrző számmal.
+
+[^2]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
