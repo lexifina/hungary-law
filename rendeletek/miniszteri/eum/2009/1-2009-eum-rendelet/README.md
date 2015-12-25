@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-1-20-0B
 | 2014-05-19 | 2009-1-20-0B.11 | 34/2009. (X. 20.) EüM rendelet |
 | 2015-03-13 | 2009-1-20-0B.12 | 34/2009. (X. 20.) EüM rendelet |
 | 2015-04-29 | 2009-1-20-0B.13 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2015-12-25 | 2009-1-20-0B.14 | 34/2009. (X. 20.) EüM rendelet |

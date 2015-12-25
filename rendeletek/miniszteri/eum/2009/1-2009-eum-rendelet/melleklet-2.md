@@ -2,13 +2,13 @@
 
 | I.1. | Egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás |  |
 
-| I.1.1. | Alapellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás | 30 000 Ft |
+| I.1.1. | Alapellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás – az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 7. § (5) bekezdése kivételével – telephelyenként | 30 000 Ft |
 
 | I.1.2. | Járóbeteg-szakellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás: |  |
 
-| I.1.2.1. | Rendelőintézet engedélyezési eljárás | 70 000 Ft |
+| I.1.2.1. | Rendelőintézet engedélyezési eljárás telephelyenként | 70 000 Ft |
 
-| I.1.2.2. | Egyéb járóbeteg-szakellátás engedélyezési eljárás | 35 000 Ft |
+| I.1.2.2. | Egyéb járóbeteg-szakellátás engedélyezési eljárás telephelyenként | 35 000 Ft |
 
 | I.1.3. | Fekvőbeteg-ellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás: |  |
 
@@ -18,13 +18,15 @@
 
 | I.1.3.3. | Fekvőbeteg-ellátást végző egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás (800 ágyszám feletti egészségügyi szolgáltató esetén) | 130 000 Ft |
 
-| I.1.4. | Egyéb egészségügyi szolgáltató tevékenység megkezdéséhez szükséges működési engedélyezési eljárás | 30 000 Ft |
+| I.1.4. | Egyéb egészségügyi szolgáltató tevékenység, a közreműködői tevékenységet is ideértve – kivéve a kizárólag bejelentés alapján nyilvántartásba vett személyes közreműködőként végzett tevékenységet – megkezdéséhez szükséges működési engedélyezési eljárás telephelyenként | 30 000 Ft |
 
-| I.1.5. | Működési engedély – szakmát vagy szolgáltatást érintő – módosítása (helyszíni szemle nélkül) | 20 700 Ft |
+| I.1.5. | Működési engedély – szakmát vagy szolgáltatást érintő, az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 11. § (2) bekezdése I.1.7. pontban nem említett pontjai valamelyikében bekövetkező – módosítása (helyszíni szemle nélkül) telephelyenként | 20 700 Ft |
 
-| I.1.6. | Működési engedély – szakmát vagy szolgáltatást érintő – módosítása (helyszíni szemle lefolytatásával) | 30 000 Ft |
+| I.1.6. | Működési engedély – szakmát vagy szolgáltatást érintő, az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 11. § (2) bekezdése I.1.7. pontban nem említett pontjai valamelyikében bekövetkező – módosítása (helyszíni szemle lefolytatásával) telephelyenként | 30 000 Ft |
 
-| I.1.7. | Működési engedély – szakmát vagy szolgáltatást nem érintő – adatváltozás miatti módosítása | 10 000 Ft |
+| I.1.7. | Működési engedély – szakmát vagy szolgáltatást nem érintő, kizárólag az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 11. § (2) bekezdés b), c), i) és j) pontjában foglalt adatok valamelyikére vonatkozó – adatváltozás miatti módosítása telephelyenként | 10 000 Ft |
+
+| I.1.8. | Személyes közreműködő és a szabadfoglalkozású tevékenységet végző hatósági nyilvántartásba vétele iránti bejelentése telephelyenként | 10 000 Ft |
 
 | I.2.1. | Működtetési jog (praxisjog) engedélyezési eljárás | 16 000 Ft |
 
@@ -48,37 +50,37 @@
 
 | II. | Egyes élelmiszerekkel kapcsolatos igazgatási szolgáltatások |  |
 
-| II.1. | Különleges táplálkozási célú élelmiszerek bejelentése | 18 300 Ft |
+| II.1. | Különleges táplálkozási célú élelmiszerek bejelentése | 50 000 Ft |
 
 | II.2. | Felmentés a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alól | 11 100 Ft |
 
 | II.3. | Anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezése | 12 200 Ft |
 
-| II.4. | Étrend-kiegészítő készítmények bejelentése | 18 300 Ft |
+| II.4. | Étrend-kiegészítő készítmények bejelentése | 50 000 Ft |
 
 | II.5. | Új élelmiszerek elsődleges értékeléséhez szakvélemény készítése | 307 000 Ft |
 
-| II.6. | Élelmiszerek alkalmi árusításának engedélyezése | 14 600 Ft |
+| II.6. |  |  |
 
-| II.7. | Vendéglátó-termék végső fogyasztó részére történő kiszállító tevékenység engedélyezése | 19 500 Ft |
+| II.7. |  |  |
 
 | III. | Kozmetikai készítményekkel kapcsolatos igazgatási szolgáltatások |  |
 
 | III.1. | Kozmetikai terméket gyártó tevékenység bejelentése | 12 600 Ft |
 
-| III.2. | INCI jegyzékben nem szereplő, valamint előírt határértéktől, illetve feltételektől eltérő módon felhasználni kívánt anyag kozmetikai célú felhasználásának engedélyezése anyagonként és a III.8. pontban felsorolt laboratóriumi – kémiai, mikrobiológiai – vizsgálatok közül szükségesen elvégzettek díjának összege | 33 500 Ft |
+| III.2. |  |  |
 
-| III.3. | Csomagoláson az összetevő(k) feltüntetése mellőzésének engedélyezése | 33 500 Ft |
+| III.3. |  |  |
 
-| III.4. | A III.3. pontban szereplő engedély meghosszabbítása | 22 600 Ft |
+| III.4. |  |  |
 
-| III.5. | Kozmetikai termék nyilvántartásba vétele rendeltetés szerinti termékenként (Amennyiben a nyilvántartásba vétel kizárólag szín és illat változása miatti, akkor a díjtétel 30%-a) | 11 400 Ft |
+| III.5. |  |  |
 
-| III.6. | Kozmetikai termékek nyilvántartásba vett adatainak módosítása termékenként | 6 100 Ft |
+| III.6. |  |  |
 
-| III.7. | Kozmetikai termékek termékinformációs dokumentációjának vizsgálata | 28 400 Ft |
+| III.7. |  |  |
 
-| III.8. | Kozmetikai készítmények vizsgálata: |  |
+| III.8. |  |  |
 
 | III.8.1. | Kémiai vizsgálatok |  |
 
@@ -126,15 +128,29 @@
 
 | IV.6. | Ivóvíz szolgáltató vízkezelése során végzendő vizsgálatokra vonatkozó vizsgálati terv jóváhagyása | 16 000 Ft |
 
-| IV.7. | Ivóvízellátásban felhasználható anyagok szakvéleményezése | 112 000 Ft |
+| IV.7. |  |  |
 
-| IV.8. | Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek és a víz kezelésére alkalmazni kívánt technológiák engedélyezése | 96 000 Ft/termék |
+| IV.8. | Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek nyilvántartásba vétele és a víz kezelésére vonatkozó technológiák ivóvízbiztonsági engedélyezése | 96 000 Ft/termék |
 
-| IV.9. | Előzetes egyetértési eljárás ivóvíz-szolgáltató üzemeltetési szabályzatához és üzemeltetési utasításához | 35 400 Ft |
+| IV.9. |  |  |
 
-| IV.10. | Jogszabályban előírt nemzeti szabványtól eltérő laboratóriumi vizsgálati módszer használatának engedélyezése ivóvíz és természetes fürdők vizének vizsgálatához | 73 300 Ft |
+| IV.10. |  |  |
 
-| IV.11. | Előzetes egyetértési eljárás szennyvízelvezető mű üzemeltetési szabályzatához | 27 600 Ft |
+| IV.11. |  |  |
+
+| IV.12. | Vízforgató berendezés telepítése alóli felmentési engedély módosítása | 30 000 Ft |
+
+| IV.13. | Vízforgató berendezés telepítése alóli felmentés engedélyese adataiban bekövetkezett változás | 16 000 Ft |
+
+| IV.14. | Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a víz kezelésére vonatkozó technológiák ivóvízbiztonsági engedélyének módosítása | 48 000 Ft/termék |
+
+| IV.15. | Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a víz kezelésére vonatkozó technológiák ivóvízbiztonsági engedélyesének adataiban bekövetkezett változás miatti módosítás | 16 000 Ft |
+
+| IV.16. | Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek nyilvántartásba vételének az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 8/A. § (4) bekezdése szerinti felülvizsgálata, valamint a víz kezelésére vonatkozó technológiák ivóvízbiztonsági engedélyének az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 8/B. § (5) bekezdése szerinti felülvizsgálata | 48 000 Ft/termék |
+
+| IV.17. | Ivóvízbiztonsági terv jóváhagyása | a) évi átlagban 50 000 főnél többet ellátó vízmű esetében 192 000 Ft, b) évi átlagban 50 000 főnél kevesebbet ellátó vízmű esetében 96 000 Ft |
+
+| IV.18. | Ivóvízbiztonsági terv felülvizsgálata | a) évi átlagban 50 000 főnél többet ellátó vízmű esetében 96 000 Ft, b) évi átlagban 50 000 főnél kevesebbet ellátó vízmű esetében 48 000 Ft |
 
 | V. | Veszélyes anyagokkal, veszélyes készítményekkel kapcsolatos igazgatási szolgáltatások |  |
 
@@ -144,9 +160,9 @@
 
 | V.3. | Veszélyes anyag vagy veszélyes készítmény bejelentése | 9 200 Ft/anyag vagy készítmény |
 
-| V.4. | OKBI állásfoglalás – bármely tevékenységet végző részére – arról, hogy a vegyi anyag és/vagy készítmény veszélyesként nem osztályozható | 15 200 Ft/anyag vagy készítmény |
+| V.4. |  |  |
 
-| V.5. | Kémiai elnevezés feltüntetésének mellőzésére irányuló kérelem elbírálása | 38 300 Ft/anyag |
+| V.5. |  |  |
 
 | V.6. | ETTSZ szakvélemény | 4 070 Ft/anyag vagy készítmény |
 
@@ -230,11 +246,11 @@
 
 | VI.35. | A biocid termék forgalomba hozatali engedélyének módosítása értékelést igénylő változtatás esetén | 48 000 Ft |
 
-| VI.36. |  |  |
+| VI.36. | Nem engedélyezett biocid terméken, vagy kizárólag biocid terméken való felhasználásra szánt, nem jóváhagyott hatóanyagon kutatási vagy fejlesztési célú kísérlet és vizsgálat elvégzésének kezdeményezése | 50 000 Ft |
 
-| VI.37. |  |  |
+| VI.37. | Biocid termék vagy termékcsalád forgalomba hozatali engedélyének megújítása, ha az értékelést más tagállam végzi | 375 000 Ft |
 
-| VI.38. |  |  |
+| VI.38. | Biocid termékek más tagállamban végzett összehasonlító értékelésének elismerése | 150 000 Ft hatóanyagonként |
 
 | VI.39. |  |  |
 
@@ -246,7 +262,7 @@
 
 | VII.2. | Készítmény hatósági bizonylat nélkül | 525 500 Ft |
 
-| VII.3. | Gyógyszernek nem minősülő gyógyhatású anyagok és készítmények előállítása közegészségügyi-járványügyi feltételeinek minősítése | 13 100 Ft |
+| VII.3. |  |  |
 
 | VIII. | Atomenergia alkalmazásával kapcsolatos igazgatási szolgáltatások |  |
 
@@ -294,31 +310,41 @@
 
 | VIII.15. | Eszköz, berendezés vagy az ionizáló sugárzás elleni védőeszköz sugárvédelmi minősítési eljárása | 29 500 Ft |
 
-| VIII.16. | Sugárvédelmi képzés engedélyezése: |  |
+| VIII.16. | Sugárvédelmi képzés jóváhagyása: |  |
 
 | VIII.16.1. | Bővített, átfogó | 19 900 Ft |
 
 | VIII.16.2. | Alapfokú | 10 600 Ft |
 
-| VIII.17. | Sugáregészségügyi Decentrum által adott tevékenységi engedély területi hatályának kiterjesztése | 29 100 Ft |
+| VIII.17. | Sugáregészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által adott tevékenységi engedély területi hatályának kiterjesztése | 29 100 Ft |
 
 | VIII.18. | Hatósági személyi dózismérővel végzett vizsgálat | 2070 Ft/eset |
 
 | VIII.19. | Munkahelyi sugárvédelmi szabályzat jóváhagyása | 10 500 Ft |
 
+| VIII.20. | A radioaktív anyagok, valamint az ionizáló sugárzást létrehozó létesítmények, berendezések tulajdonjogának átruházására irányuló szerződés jóváhagyása | 10 000 Ft |
+
+| VIII.21. | Külső munkavállaló sugárvédelmi képzettsége megfelelőségének elbírálása | 10 000 Ft |
+
+| VIII.22. | Zárt sugárforrás első felhasználási idejének meghatározása | 10 000 Ft |
+
+| VIII.23. | Zárt sugárforrás felhasználási idejének meghosszabbítása | 10 000 Ft |
+
+| VIII.24. | Különleges sugárterhelés engedélyezése munkavállalók részére | 10 000 Ft/munkavállalónként |
+
 | IX. | Közegészségügyi-járványügyi igazgatási szolgáltatások |  |
 
 | IX.1. | Légi szúnyogirtás engedélyezése | 18 500 Ft |
 
-| IX.2. | Tanuló ifjúság táboroztatásának engedélyezése | 26 000 Ft |
+| IX.2. |  |  |
 
-| IX.3. | Építészeti – műszaki tervdokumentáció egyeztetési eljárása | 9 700 Ft |
+| IX.3. |  |  |
 
 | X. | Természetes gyógytényezőkkel és ásványvizekkel kapcsolatos igazgatási szolgáltatások |  |
 
-| X.1. | Gyógyfürdőintézmény tervezéséhez, létesítéséhez, átalakításához és megszüntetéséhez szükséges előzetes egyetértés megadása | 31 000 Ft |
+| X.1. |  |  |
 
-| X.2. | Gyógyfürdőintézmény tervdokumentációjának orvosszakmai véleményezése | 54 000 Ft |
+| X.2. |  |  |
 
 | X.3. | Gyógyfürdőintézmény megnevezésének és gyógyászati célú használatbavételének engedélyezése | 120 000 Ft |
 
@@ -332,23 +358,25 @@
 
 | X.8. | Korábban kiadott engedély módosítása, felülvizsgálata | 41 000 Ft |
 
-| X.9. | Közegészségügyi szakvélemény adása gyógyhely, gyógyfürdő, illetve klímagyógyintézet megnevezés használatának engedélyezéséhez | 36 600 Ft |
+| X.9. | Közegészségügyi szakvélemény adása gyógyhely megnevezés használatának engedélyezéséhez | 36 600 Ft |
 
 | X.10. | Közegészségügyi szakvélemény adása elismert ásványvíz, gyógyvíz, gyógyiszap és egyéb természetes gyógytényező megnevezés használatának engedélyezéséhez | 29 700 Ft |
 
+| X.11. | Település egésze vagy meghatározott része gyógyhellyé nyilvánításának engedélyezése | 160 000 Ft |
+
 | XI. | Más hatóság eljárásában történő közreműködéssel kapcsolatos igazgatási szolgáltatások |  |
 
-| XI.1. | Kereskedelmi tevékenység megkezdéséhez közegészségügyi hozzájárulás adása (1000 m2 alapterületig) | 26 000 Ft |
+| XI.1. |  |  |
 
-| XI.2. | Kereskedelmi tevékenység megkezdéséhez közegészségügyi hozzájárulás adása (1000 m2 alapterület felett) | 150 000 Ft |
+| XI.2. |  |  |
 
-| XI.3. | Kereskedelmi szálláshely működtetéséhez közegészségügyi hozzájárulás adása | 28 500 Ft |
+| XI.3. | Kereskedelmi szálláshely működtetésében való szakhatósági közreműködés | 28 500 Ft |
 
 | XI.4. | Vízbázisok védelmével kapcsolatos szakhatósági közreműködés | 30 700 Ft |
 
 | XI.5. | Fürdési célú gázveszélyes víz igénybevételével kapcsolatos szakhatósági közreműködés | 23 500 Ft |
 
-| XI.6. | Elvi vízjogi engedélyezési eljárásban történő szakhatósági közreműködés | 23 900 Ft |
+| XI.6. | Elvi vízjogi engedélyezési vízjogi létesítési, üzemeltetési és fennmaradási engedélyezési eljárásokban történő szakhatósági közreműködés | 23 900 Ft |
 
 | XI.7. | Felszíni víz ivóvízként való felhasználására vonatkozó eljárásban szakhatósági közreműködés | 23 900 Ft |
 
@@ -366,23 +394,23 @@
 
 | XI.14. | Veszélyes hulladék elhelyezésével kapcsolatos szakhatósági közreműködés | 24 200 Ft |
 
-| XI.15. | Állatkert működési engedélyezésében szakhatósági közreműködés | 13 100 Ft |
+| XI.15. |  |  |
 
 | XI.16. | Környezeti hatásvizsgálati eljárásban szakhatósági közreműködés | 29 700 Ft |
 
 | XI.17. | Vásár, piac, vásárcsarnok létesítéséhez és nyilvántartásba vételéhez előírt szakhatósági közreműködés | 30 000 Ft |
 
-| XI.18. | Szociális intézmények működéséhez szakhatósági közreműködés | 20 900 Ft |
+| XI.18. |  |  |
 
 | XI.19. | Építésügyi hatósági engedélyezési eljárásban szakhatósági közreműködés | 8 700 Ft |
 
-| XI.20. | Növényvédő szerek raktározására szolgáló helyiségben tárolható anyagok esetén szakhatósági közreműködés | 17 500 Ft |
+| XI.20. |  |  |
 
 | XI.21. | Telepengedélyezési eljárásban szakhatósági közreműködés | 19 400 Ft |
 
 | XI.22. | Utak építésének, forgalomba helyezésének és megszüntetésének engedélyezési eljárásában szakhatósági közreműködés | 11 500 Ft |
 
-| XI.23. | Gyermekjóléti és gyermekvédelmi szolgáltató tevékenység engedélyezési eljárásában szakhatósági közreműködés | 20 600 Ft |
+| XI.23. |  |  |
 
 | XII. | Orvostudományi kutatással kapcsolatos igazgatási szolgáltatások [nem kereskedelmi kutatás, valamint az Eütv. 159. § (5) bekezdése szerinti kutatás kivételével] |  |
 
@@ -414,11 +442,11 @@
 
 | 5 | Országos Közegészségügyi Központ | 10032000-00290438-00000000 |
 
-| 6 | Bács-Kiskun Megyei Kormányhivatal | 10025004-00301181-00000000 |
+| 6 | Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
 
 | 7 | Baranya Megyei Kormányhivatal | 10024003-00301019-00000000 |
 
-| 8 | Békés Megyei Kormányhivatal | 10026005-00302845-00000000 |
+| 8 | Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
 
 | 9 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00302852-00000000 |
 
@@ -428,17 +456,17 @@
 
 | 12 | Budapest Főváros Kormányhivatala | 10023002-00301253-00000000 |
 
-| 13 | Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00301655-00000000 |
+| 13 | Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
 
 | 14 | Hajdú-Bihar Megyei Kormányhivatal | 10034002-00301954-00000000 |
 
-| 15 | Heves Megyei Kormányhivatal | 10035003-00302113-00000000 |
+| 15 | Heves Megyei Kormányhivatal | 10035003-00299619-00000000 |
 
 | 16 | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00301947-00000000 |
 
 | 17 | Komárom-Esztergom Megyei Kormányhivatal | 10036004-00304270-00000000 |
 
-| 18 | Nógrád Megyei Kormányhivatal | 10037005-00302144-00000000 |
+| 18 | Nógrád Megyei Kormányhivatal | 10037005-00299547-00000000 |
 
 | 19 | Somogy Megyei Kormányhivatal | 10039007-00301129-00000000 |
 
@@ -446,10 +474,10 @@
 
 | 21 | Tolna Megyei Kormányhivatal | 10046003-00306014-00000000 |
 
-| 22 | Vas Megyei Kormányhivatal | 10047004-00301459-00000000 |
+| 22 | Vas Megyei Kormányhivatal | 10047004-00299523-00000000 |
 
-| 23 | Veszprém Megyei Kormányhivatal | 10048005-00301703-00000000 |
+| 23 | Veszprém Megyei Kormányhivatal | 10048005-00299516-00000000 |
 
 | 24 | Zala Megyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^13]: A 2. melléklet a 23/2015. (IV. 28.) EMMI rendelet 100. §-ával megállapított szöveg.
+[^13]: A 2. melléklet a 23/2015. (IV. 28.) EMMI rendelet 100. §-ával megállapított, az 54/2015. (XI. 24.) EMMI rendelet 34. § (2) bekezdése szerint módosított szöveg.
