@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti a reklámtáblák, reklámhordozók és egyéb reklám célú berendezések közutak melletti elhelyezésének részletes szabályairól szóló 224/2011. (X. 21.) Korm. rendelet 3. § (2) bekezdés a) pontja.
+## 8. §[^2]
 
 1. melléklet a 421/2015. (XII. 23.) Korm. rendelethez
 
@@ -9,3 +9,5 @@ a) Budapest és a megyei jogú városok közigazgatási határán belül: 100 Ft
 b) az a) pontban foglaltakon kívül, egyéb települések esetében: 50 Ft/tábla/nap.
 
 A meghatározott díjak a mindenkori általános forgalmi adót nem tartalmazzák.
+
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
