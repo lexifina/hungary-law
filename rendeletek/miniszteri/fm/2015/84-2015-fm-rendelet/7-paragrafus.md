@@ -1,0 +1,1 @@
+## „(11) Amennyiben az engedély elveszett, megrongálódott vagy az engedéllyel rendelkező adataiban változás következett be, úgy ezt a tényt 8 napon belül be kell jelenteni a lakóhely szerint illetékes megyei kormányhivatalnak, amely kérelemre új engedélyt ad ki.”
