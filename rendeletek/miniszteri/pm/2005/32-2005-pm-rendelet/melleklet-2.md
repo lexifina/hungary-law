@@ -1,22 +1,22 @@
 ## A szervező személyi megfelelőségének igazolásához szükséges kérelemhez csatolandó okiratok és egyéb adatok
 
-## 1.[^193] Okiratok:
+## 1.[^196] Okiratok:
 
-## a)[^194] az Szjtv. 7/A. § (7) bekezdése szerinti okiratok, vagy nyilatkozat, hogy intézkedés történt a hatósági bizonyítvány beszerzése érdekében,
+## a)[^197] az Szjtv. 7/A. § (7) bekezdése szerinti okiratok, vagy nyilatkozat, hogy intézkedés történt a hatósági bizonyítvány beszerzése érdekében,
 
-## b)[^195] a lakóhely, székhely vagy telephely szerinti települési önkormányzat jegyzőjének igazolása az Szjtv. 2. §-a (4) bekezdésének b) pontjában foglaltakról, amelyek a jegyző hatáskörébe tartoznak,
+## b)[^198] a lakóhely, székhely vagy telephely szerinti települési önkormányzat jegyzőjének igazolása az Szjtv. 2. §-a (4) bekezdésének b) pontjában foglaltakról, amelyek a jegyző hatáskörébe tartoznak,
 
-## c)[^196] a székhely, illetve lakóhely szerint illetékes önkormányzati adóhatóság, illetve vámhatóság igazolása az Szjtv. 2. §-ának (5) bekezdésében foglaltakról,
+## c)[^199] a székhely, illetve lakóhely szerint illetékes önkormányzati adóhatóság, illetve vámhatóság igazolása az Szjtv. 2. §-ának (5) bekezdésében foglaltakról,
 
-## d)[^197]
+## d)[^200]
 
-## e)[^198] meghatalmazás, ha a szervező törvényes képviselője az állami adóhatóság előtti eljárásban nem személyesen jár el.
+## e)[^201] meghatalmazás, ha a szervező törvényes képviselője az állami adóhatóság előtti eljárásban nem személyesen jár el.
 
 ## A kérelmező külföldi vezető tisztségviselője vagy tagja esetén az Szjtv. 7/A. §-a szerinti okiratot, az 1. pont b) és e) alpontjaiban szereplő okiratokkal egyenértékű külföldi okiratot, az Szjtv. 2. § (5) bekezdésében meghatározottakat igazoló külföldi okiratot és ezek alapjául szolgáló kérelmet, valamint ezek hiteles fordítását kell benyújtani.
 
 ## A kérelemhez nem kell csatolni az 1. pont a) alpontja szerinti okiratokat, ha a tag, tulajdonos, illetve vezető tisztségviselő által korábban az állami adóhatósághoz benyújtott hatósági bizonyítvány a kérelem előterjesztésekor is érvényes.
 
-## 2.[^199] Adatok:
+## 2.[^202] Adatok:
 
 ## a) az 1/a) pont szerinti természetes személyekre vonatkozóan:
 
@@ -36,13 +36,13 @@
 
 ## – székhely.
 
-2. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^200]
+2. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^203]
 
-[^193]: Az 1. számú melléklet 1. pontjának záró szövegrésze a 35/2009. (XII. 22.) PM rendelet 3. §-a szerint módosított szöveg.
-[^194]: Az 1. számú melléklet 1. pont a) alpontja a 35/2009. (XII. 22.) PM rendelet 3. §-ával megállapított szöveg.
-[^195]: Az 1. számú melléklet 1. pontjának b) alpontja a 19/2006. (VII. 31.) PM rendelet 42. § (5) bekezdése szerint módosított szöveg.
-[^196]: Az 1. számú melléklet 1. pontjának c) alpontja a 36/2006. (XII. 25.) PM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^197]: Az 1. számú melléklet 1. pontjának d) alpontját a 36/2006. (XII. 25.) PM rendelet 7. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^198]: Az 1. számú melléklet 1. pontjának e) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^199]: Az 1. számú melléklet 2. pontja a 36/2006. (XII. 25.) PM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^200]: A 2. számú melléklet a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^196]: Az 1. számú melléklet 1. pontjának záró szövegrésze a 35/2009. (XII. 22.) PM rendelet 3. §-a szerint módosított szöveg.
+[^197]: Az 1. számú melléklet 1. pont a) alpontja a 35/2009. (XII. 22.) PM rendelet 3. §-ával megállapított szöveg.
+[^198]: Az 1. számú melléklet 1. pontjának b) alpontja a 19/2006. (VII. 31.) PM rendelet 42. § (5) bekezdése szerint módosított szöveg.
+[^199]: Az 1. számú melléklet 1. pontjának c) alpontja a 36/2006. (XII. 25.) PM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^200]: Az 1. számú melléklet 1. pontjának d) alpontját a 36/2006. (XII. 25.) PM rendelet 7. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^201]: Az 1. számú melléklet 1. pontjának e) alpontja a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^202]: Az 1. számú melléklet 2. pontja a 36/2006. (XII. 25.) PM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^203]: A 2. számú melléklet a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.

@@ -12,7 +12,9 @@
 
 (5)[^172] A szervezőnek a kártyaterem engedélyezési eljárása esetén kártyaasztalonként 18 ezer forint igazgatási-szolgáltatási díjat kell fizetnie.
 
-(6)[^173] Az illetékekről szóló 1990. évi XCIII. törvény
+(5a)[^173] Az Szjtv. szerinti tevékenységi engedélynek kizárólag az Szjtv. 1. § (5a)–(6d) bekezdésével, 29/I. § (2) és (2a) bekezdésével, 37. § 32. pontjával, és a felelős játékszervezés részletes szabályairól szóló kormányrendelettel összefüggő módosítása iránti eljárásért a szervező kérelmenként 5000 forint igazgatási szolgáltatási díjat fizet.
+
+(6)[^174] Az illetékekről szóló 1990. évi XCIII. törvény
 
 a) 86. §-át az elévülés tekintetében,
 
@@ -25,4 +27,5 @@ alkalmazni kell azzal az eltéréssel, hogy ahol a törvény adóhatóságot eml
 [^170]: A 77. § (3) bekezdése a 19/2006. (VII. 31.) PM rendelet 33. § (1) bekezdésével megállapított szöveg.
 [^171]: A 77. § (4) bekezdését a 7/2013. (III. 1.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
 [^172]: A 77. § (5) bekezdését a 32/2007. (XII. 21.) PM rendelet 30. § (2) bekezdése hatályon kívül helyezte, újonnan a 16/2010. (IV. 28.) PM rendelet 13. §-a iktatta be.
-[^173]: A 77. § (6) bekezdését a 7/2013. (III. 1.) NGM rendelet 1. §-a iktatta be.
+[^173]: A 77. § (5a) bekezdését a 31/2015. (XI. 24.) NGM rendelet 1. §-a iktatta be.
+[^174]: A 77. § (6) bekezdését a 7/2013. (III. 1.) NGM rendelet 1. §-a iktatta be.

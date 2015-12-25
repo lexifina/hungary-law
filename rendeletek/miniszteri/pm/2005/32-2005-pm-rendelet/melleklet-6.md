@@ -1,3 +1,3 @@
-6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^214]
+6. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^217]
 
-[^214]: A 6. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba. A 6. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte.
+[^217]: A 6. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba. A 6. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte.

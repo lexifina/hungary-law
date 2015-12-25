@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-32-20-5
 | 2013-07-06 | 2005-32-20-53.22 | 29/2013. (VII. 3.) NGM rendelet |
 | 2014-02-15 | 2005-32-20-53.23 | 6/2014. (II. 12.) NGM rendelet |
 | 2015-01-01 | 2005-32-20-53.24 | 118/2008. (V. 8.) Korm. rendelet |
+| 2015-12-25 | 2005-32-20-53.25 | 31/2015. (XI. 24.) NGM rendelet |

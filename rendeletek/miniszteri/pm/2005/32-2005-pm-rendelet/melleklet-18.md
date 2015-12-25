@@ -6,6 +6,6 @@
 
 ## Az utalvány első példánya a játékosé, a második példány az asztalban lévő jutaléktartó dobozba kerül, a harmadik példány a tömbben marad. A játékos az utalvány alapján a pénztárban kapja meg a nyereményét.
 
-18. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^224]
+18. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^227]
 
-[^224]: A 18. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.
+[^227]: A 18. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.

@@ -14,7 +14,7 @@
 
 4. kombinált fogadás: több fogadási ajánlatra megköthető, egyetlen fogadás, amely akkor is nyertessé válik, ha az ebben szereplő fogadási ajánlatok közül egyesek nyertessé válnak. A kombinált fogadás annyi megkötött fogadásnak minősül, ahány fogadást a fogadónak annak érdekében kellene megtennie, hogy a teljes kombináció minden egyes elemére érvényes fogadással rendelkezzen;
 
-5.[^182]
+5.[^183]
 
 6. nyilvános húzás: az Szjtv. 23. §-ának (1) bekezdése alkalmazásában nyilvános húzás az a sorsolási esemény, amelynek helyszínét és időpontját az akció lebonyolítója előzetesen olyan módon hozza nyilvánosságra, hogy a termékvásárlás, illetve szolgáltatás igénybevétele folytán részt vevő játékosok azon részt tudjanak venni és az akció keretében kapott sorsjegyek kihúzását a helyszínen lévő közjegyző tanúsítja;
 
@@ -30,22 +30,22 @@
 
 12. alapdotáció: a játékkaszinó zsetonpénztára által az egyes játékasztalok kinyitásához biztosított zsetonállomány címletek, darabszám és érték szerinti meghatározása;
 
-13.[^183] próbajáték: a helyszíni ellenőrzés azon formája, amelynek keretében az állami adóhatóság jogszabályban előírt feladatainak ellátása érdekében vesz részt a szerencsejátékban, továbbá a mérésügyi szerv által a hitelesítési engedélyezés során lefolytatott vizsgálat és a pénznyerő automata szervizelése, javítása során a mérésügyi szerv jelenlétében lefolytatott vizsgálat;
+13.[^184] próbajáték: a helyszíni ellenőrzés azon formája, amelynek keretében az állami adóhatóság jogszabályban előírt feladatainak ellátása érdekében vesz részt a szerencsejátékban, továbbá a mérésügyi szerv által a hitelesítési engedélyezés során lefolytatott vizsgálat és a pénznyerő automata szervizelése, javítása során a mérésügyi szerv jelenlétében lefolytatott vizsgálat;
 
-14.[^184]
+14.[^185]
 
-15.[^185]
+15.[^186]
 
-16.[^186]
+16.[^187]
 
-17.[^187]
+17.[^188]
 
-18.[^188]
+18.[^189]
 
-[^182]: A 87. § 5. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja hatályon kívül helyezte.
-[^183]: A 87. § 13. pontja a 32/2007. (XII. 21.) PM rendelet 25. §-ával megállapított szöveg.
-[^184]: A 87. § 14. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja hatályon kívül helyezte.
-[^185]: A 87. § 15. pontját újonnan a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
-[^186]: A 87. § 16. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
-[^187]: A 87. § 17. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
-[^188]: A 87. § 18. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
+[^183]: A 87. § 5. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja hatályon kívül helyezte.
+[^184]: A 87. § 13. pontja a 32/2007. (XII. 21.) PM rendelet 25. §-ával megállapított szöveg.
+[^185]: A 87. § 14. pontját a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja hatályon kívül helyezte.
+[^186]: A 87. § 15. pontját újonnan a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
+[^187]: A 87. § 16. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
+[^188]: A 87. § 17. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
+[^189]: A 87. § 18. pontját a 15/2012. (VI. 28.) NGM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § p) pontja.
