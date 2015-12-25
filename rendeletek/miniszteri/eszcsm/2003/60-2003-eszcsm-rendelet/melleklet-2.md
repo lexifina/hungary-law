@@ -3244,7 +3244,7 @@ Jelmagyarázat:
 
 Megjegyzés:
 
-* A speciális ambulanciák csak osztályhoz csatoltan alakíthatóak ki, mivel működésükhöz a speciális neurológiai osztályos háttér szükséges.
+A nukleáris medicina munkahelyek progresszivitási szintek szerinti térségi besorolásához:
 
 ** Más jogszabályokban, előírásokban ezen szakfeladatokra megadott minősítési, beutalási és gyógyszerfelírási jogokkal rendelkeznek.
 
@@ -4150,4 +4150,4 @@ Feladatai:
 
 | Radiológia | EL |
 
-[^53]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése, a 16/2015. (III. 30.) EMMI rendelet 19. §-a, a 23/2015. (IV. 28.) EMMI rendelet 50. § c)–g) pontja, a 42/2015. (IX. 18.) EMMI rendelet 12. §-a szerint módosított szöveg.
+[^53]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése, a 16/2015. (III. 30.) EMMI rendelet 19. §-a, a 23/2015. (IV. 28.) EMMI rendelet 50. § c)–g) pontja, a 42/2015. (IX. 18.) EMMI rendelet 12. §-a, az 54/2015. (XI. 24. EMMI rendelet 21. § (1) bekezdése szerint módosított szöveg.
