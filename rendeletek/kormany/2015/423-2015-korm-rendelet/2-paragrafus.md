@@ -1,1 +1,3 @@
-## 1. § Hatályát veszti a Nemzeti Útdíjfizetési Szolgáltató Zrt. és a Közlekedésfejlesztési Koordinációs Központ közötti úthasználati díjelszámolásról, valamint az útdíjfizetési rendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 361/2014. (XII. 30.) Korm. rendelet (a továbbiakban: R.) 2. § (2) bekezdése.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
