@@ -1,5 +1,5 @@
-## 28–32. §[^15]
+## 28–32. §[^14]
 
 ## 16. Az egyes nem üzleti célú közösségi, szabadidős szálláshelyek üzemeltetésének egészségügyi feltételeiről szóló 37/2007. (VII. 23.) EüM–SZMM együttes rendelet módosítása
 
-[^15]: A 28–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 28–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
