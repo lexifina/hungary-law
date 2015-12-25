@@ -32,11 +32,11 @@ i) növényvédő szer raktárt más célra használni csak az egészségügyi �
 
 (8) Mikro és makro szervezeteket tartalmazó növényvédő szer tárolására, szállítására és felhasználására a növényvédő szerekre vonatkozó előírásokat kell alkalmazni, ha az engedélyokirat másként nem rendelkezik.
 
-(9) A növényvédő szer raktárban a növényvédő szerektől elkülönítetten kell tárolni
+(9)[^81] A növényvédő szer raktárban a növényvédő szerektől elkülönítetten kell tárolni és további felhasználási céljával jelölni
 
-a) a kiürült, de növényvédő szer átcsomagolására felhasználható, kívül, belül szabályszerűen megtisztított és lezárható növényvédő szer csomagolóeszközt,
+a) a kiürült, de növényvédő szer átcsomagolására felhasználható, kívül és belül szabályszerűen megtisztított és lezárható növényvédő szer csomagolóeszközt,
 
-b) a sérült csomagolású, azonosíthatatlan, szennyezett és lejárt felhasználhatósági idejű szavatosságú szereket, ártalmatlanításra váró göngyölegeket, illetve szennyezett védőfelszerelést.
+b) a sérült csomagolású, azonosíthatatlan, szennyezett és lejárt felhasználhatósági idejű szereket, ártalmatlanításra váró göngyölegeket, valamint a szennyezett védőfelszerelést.
 
 (10) A raktárba belépni, növényvédő szert a raktárba be-, illetve onnan kivinni, ott bármilyen tevékenységet folytatni kizárólag a raktáros jelenlétében és hozzájárulásával, a szükséges egyéni védőeszközök használatával szabad.
 
@@ -59,3 +59,5 @@ e) az egészségügyi államigazgatási szerv és környezetvédelmi hatóság �
 (14) A kiskereskedelmi üzletek növényvédő szert az áruraktár elkülönített részében – más termékkel nem érintkező, élelmiszertől, takarmánytól elzárt légterű – az általános biztonsági követelményeknek megfelelő, a (4) bekezdés h) pontja szerint feliratozott helyiségben is tárolhatnak, az (1) bekezdésben, a (4) bekezdés c)–e) pontjában, továbbá a (11) bekezdés második mondatában, a (12) bekezdésben, valamint a (13) bekezdés a) és c)–e) pontjában foglalt feltételek megtartásával.
 
 (15) Azon logisztikai raktárak, melyek megfelelnek a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló külön jogszabályban és annak végrehajtására kiadott jogszabályokban foglaltaknak, mentesülnek a (4)–(5), (9) és a (12)–(14) bekezdésekben előírt kötelezettségek teljesítése alól.
+
+[^81]: A 27. § (9) bekezdése a 84/2015. (XII. 17.) FM rendelet 11. §-ával megállapított szöveg.

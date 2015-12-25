@@ -1,12 +1,24 @@
 ## Különleges alkalmazási előírások
 
-6. § (1)[^12] Növényvédő szert az 5. § (2) bekezdésétől eltérő módon felhasználni csak a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló külön jogszabály szerint kiadott eseti, kísérleti célú, valamint címkétől eltérő felhasználási engedélyben foglaltak szerint szabad.
+6. § (1)[^23] Növényvédő szer az 5. § (2) bekezdésétől eltérő módon csak az 1107/2009/EK európai parlamenti és tanácsi rendelet szerint kiadott szükséghelyzeti és kísérleti engedélyben foglaltak szerint használható fel.
 
-(2)[^13] Közterületen, lakott területrészen, üdülőterületen, ideértve az ott áthaladó vasúti pályatestet is, házi kertben, közösségi célt szolgáló területen (így különösen oktatási, egészségügyi, szociális intézmények, vallási közösségek intézményeinek területén) csak az engedélyokirat szerint, II. vagy III. forgalmi kategóriába tartozó növényvédő szereket szabad felhasználni.
+(2)[^24] Közterületen, lakott területrészen, üdülőterületen – ideértve az ott áthaladó vasúti pályatestet is –, közösségi célt szolgáló területen (így különösen oktatási, egészségügyi, szociális intézmények, vallási közösségek intézményeinek területén), házi kertben és jogszabály rendelkezése szerint az ingatlantulajdonos kezelésébe utalt közterületen kizárólag az engedélyokirat szerint, II. vagy III. forgalmi kategóriába tartozó növényvédő szerek használhatók fel.
+
+(2a)[^25] Közterületen, valamint közösségi célt szolgáló területen közterületi felhasználásra engedélyezett növényvédő szer a Magyar Növényvédő Mérnöki és Növényorvosi Kamarában (a továbbiakban: Növényorvosi Kamara) tagsággal (a továbbiakban: növényorvosi kamarai tagság) rendelkező szakirányító irányításával juttatható ki. Ez a rendelkezés nem vonatkozik a jogszabály rendelkezése szerint az ingatlantulajdonos kezelésébe utalt közterületen végzett kezelésre.
+
+(2b)[^26] Növényvédő szer közterületen és közösségi célt szolgáló területen történő kijuttatásárólaz érintett lakosságot a helyben szokásos módon tájékoztatni kell.
+
+(2c)[^27] Autópálya, autóút, főút besorolású közutak és vasutak lakott területen kívüli szakaszai bármely forgalmi kategóriájú növényvédő szerrel kezelhetők.
 
 (3) A növényvédő szerekkel folytatott valamennyi tevékenységet úgy kell megszervezni, hogy az elszóródás és a hulladékképződés a lehető legnagyobb mértékben elkerülhető legyen.
 
 (4) A jogellenesen forgalmazott növényvédő szert és annak csomagolóanyagát – a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló külön jogszabályban meghatározott hulladék minősítési eljárás befejeződéséig – veszélyes hulladékként kell kezelni.
 
-[^12]: A 6. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^13]: A 6. § (2) bekezdése a 121/2013. (XII. 16.) VM rendelet 16. §-ával megállapított szöveg.
+(5)[^28] Növényvédő szer lakott terület közvetlen szomszédságában, nem kézi erővel hajtott géppel történő kijuttatásáról az érintett területtel határos ingatlanon tartózkodókat a kezelés megkezdése előtt tájékoztatni kell.
+
+[^23]: A 6. § (1) bekezdése a 84/2015. (XII. 17.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^24]: A 6. § (2) bekezdése a 84/2015. (XII. 17.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^25]: A 6. § (2a) bekezdését a 84/2015. (XII. 17.) FM rendelet 2. § (2) bekezdése iktatta be.
+[^26]: A 6. § (2b) bekezdését a 84/2015. (XII. 17.) FM rendelet 2. § (2) bekezdése iktatta be.
+[^27]: A 6. § (2c) bekezdését a 84/2015. (XII. 17.) FM rendelet 2. § (2) bekezdése iktatta be.
+[^28]: A 6. § (5) bekezdését a 84/2015. (XII. 17.) FM rendelet 2. § (3) bekezdése iktatta be.

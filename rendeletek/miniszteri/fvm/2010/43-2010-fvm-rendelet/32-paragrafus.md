@@ -1,8 +1,8 @@
 ## Növényvédelmi gépek
 
-32. § (1)[^43] Az 5 dm3-nél nagyobb tartállyal rendelkező növényvédelmi gépeket – a kutatási, vizsgálati, kísérleti vagy kiállítási célokat szolgáló növényvédelmi gépek kivételével – cseppképzés és szórástechnikai szempontból a 3. melléklet szerinti típusminősítési eljárás alá kell vetni a forgalomba hozatal előtt.
+32. § (1)[^89] Az 5 dm3-nél nagyobb tartállyal rendelkező növényvédelmi gépeket – a kutatási, vizsgálati, kísérleti vagy kiállítási célokat szolgáló növényvédelmi gépek kivételével – cseppképzés és szórástechnikai szempontból a 3. melléklet szerinti típusminősítési eljárás alá kell vetni a forgalomba hozatal előtt.
 
-(2)[^44] Adminisztratív úton kell minősíteni azokat a növényvédelmi gépeket, amelyek nemzetközi érvényű minőségtanúsítási okirattal rendelkeznek. Az előállító, illetve a forgalmazó vállalat köteles a Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézete (a továbbiakban: Intézet) felé nyilatkozni, hogy a növényvédelmi gépek az e rendeletben meghatározott forgalomba hozatali követelményeknek megfelelnek.
+(2)[^90] Adminisztratív úton kell minősíteni azokat a növényvédelmi gépeket, amelyek nemzetközi érvényű minőségtanúsítási okirattal rendelkeznek. Az előállító, illetve a forgalmazó vállalat köteles a Nemzeti Agrárkutatási és Innovációs Központ Mezőgazdasági Gépesítési Intézete (a továbbiakban: Intézet) felé nyilatkozni, hogy a növényvédelmi gépek az e rendeletben meghatározott forgalomba hozatali követelményeknek megfelelnek.
 
 (3) A (2) bekezdés szerinti nyilatkozatnak tartalmaznia kell:
 
@@ -18,12 +18,12 @@ b) a géptípust leíró dokumentumokat (adatlap, mátrix), és
 
 c) az elbírálást segítő egyéb dokumentumokat.
 
-(5)[^45] Az Intézet hivatalból, illetve a növény- és talajvédelmi igazgatóság vagy a NÉBIH megkeresésére a növényvédelmi gép alkalmasságával kapcsolatban kiegészítő adatszolgáltatást kérhet, valamint a növényvédelmi gép vizsgálatát rendelheti el.
+(5)[^91] Az Intézet hivatalból, illetve a megyei kormányhivatal vagy a NÉBIH megkeresésére a növényvédelmi gép alkalmasságával kapcsolatban kiegészítő adatszolgáltatást kérhet, valamint a növényvédelmi gép vizsgálatát rendelheti el.
 
 (6) A géptípus olyan változtatása esetén, ami a növényvédő szerek kijuttatását befolyásolja, a (4) bekezdés szerinti dokumentációt újra be kell nyújtani az Intézet felé.
 
 (7) A típusminősítési eljárás lefolytatásáért a növényvédelmi igazgatási szolgáltatási díjakról szóló külön jogszabályban meghatározott díjat kell fizetni.
 
-[^43]: A 32. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (15) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^44]: A 32. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § i) pontja szerint módosított szöveg.
-[^45]: A 32. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § e) és o) pontja szerint módosított szöveg.
+[^89]: A 32. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (15) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^90]: A 32. § (2) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 23. pontja szerint módosított szöveg.
+[^91]: A 32. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § e) és o) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 6. pontja szerint módosított szöveg.

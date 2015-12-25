@@ -1,6 +1,6 @@
-## Károsítók elleni védekezési kötelezettség[^3]
+## Károsítók elleni védekezési kötelezettség[^11]
 
-1/A. §[^4] (1) A földhasználó és a termelő
+1/A. §[^12] (1) A földhasználó és a termelő
 
 a) az adott terület rendeltetésével, hasznosítási céljával ellentétesen előforduló, tömeges jelenlétével gazdasági kárt okozó, ember vagy állat egészségét veszélyeztető vagy egyéb veszélyhelyzetet okozó növény (a továbbiakban: gyomnövény),
 
@@ -10,7 +10,7 @@ c) a növény, különösen kultúrnövény megbetegítésére képes, növényr
 
 elleni védekezésre vonatkozó döntését a károsítók gazdasági veszélyességére, emberre, állatra, környezetre gyakorolt hatására, a károsítók várható megjelenésének, terjedésének, járvány vagy gradáció kialakulásának valószínűsítésére szolgáló növényvédelmi előrejelzésre alapozva hozza meg.
 
-(2) A földhasználó és a termelő a növényvédelmi tevékenységet köteles
+(2)[^13] A földhasználó, a termelő és a növényvédelmi szolgáltatást végző személy a növényvédelmi tevékenységet köteles
 
 a) a biológiai, biotechnikai, agrotechnikai, mechanikai, fizikai és kémiai védekezési eljárások, illetve ezek technológiai rendszerei alkalmazásával,
 
@@ -20,7 +20,9 @@ c) az ember egészségére, a környezet és a természet védelmére vonatkozó
 
 folytatni.
 
-(3) A földhasználónak és a termelőnek törekednie kell a 8. mellékletben szabályozott integrált növényvédelem általános elveinek betartására.
+(3)[^14] A földhasználónak, a termelőnek és a növényvédelmi szolgáltatást végző személynek törekednie kell a 8. mellékletben szabályozott integrált növényvédelem általános elveinek betartására.
 
-[^3]: Az 1/A. §-t megelőző alcímet a 46/2012. (V. 8.) VM rendelet 1. §-a iktatta be.
-[^4]: Az 1/A. §-t a 46/2012. (V. 8.) VM rendelet 1. §-a iktatta be.
+[^11]: Az 1/A. §-t megelőző alcímet a 46/2012. (V. 8.) VM rendelet 1. §-a iktatta be.
+[^12]: Az 1/A. §-t a 46/2012. (V. 8.) VM rendelet 1. §-a iktatta be.
+[^13]: Az 1/A. § (2) bekezdés nyitó szövegrésze a 84/2015. (XII. 17.) FM rendelet 14. § 1. pontja szerint módosított szöveg.
+[^14]: Az 1/A. § (3) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 2. pontja szerint módosított szöveg.

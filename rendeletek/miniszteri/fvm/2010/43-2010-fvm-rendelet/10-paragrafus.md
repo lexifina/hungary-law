@@ -6,6 +6,8 @@
 
 (4) Két vagy több növényvédő szer egyidejű alkalmazásakor az egyes felhasznált készítményekre előírt szabályok közül a legszigorúbb felhasználási szabályokat kell betartani.
 
-(5) Közterületen, valamint közösségi célt szolgáló területen növényvédő szert a 17. § (2)–(3) bekezdése szerinti felsőfokú növényvédelmi képesítéssel és hatályos engedéllyel rendelkező személy közvetlen irányításával lehet kijuttatni. A kezelésről az érintett lakosságot a helyben szokásos módon tájékoztatni kell.
+(5)[^33]
 
 (6) Növényvédelmi tevékenység során a kiszóródott szilárd növényvédő szert, illetve a növényvédő szerrel szennyezett talajt össze kell gyűjteni. A kiömlött folyékony növényvédő szert megfelelő anyaggal (például homok, perlit, egyéb nedvszívó anyag) fel kell itatni. A keletkezett anyagot (a szennyezett talajt is beleértve) veszélyes hulladékként kell kezelni.
+
+[^33]: A 10. § (5) bekezdését a 84/2015. (XII. 17.) FM rendelet 15. § a) pontja hatályon kívül helyezte.

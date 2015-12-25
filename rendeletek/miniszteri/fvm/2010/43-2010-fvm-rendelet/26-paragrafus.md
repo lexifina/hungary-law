@@ -1,8 +1,8 @@
-## 25. §[^34] A forgalmazásra jogosult felelőssége kiterjed a növényvédő szerek vásárlására, a telephelyre, illetve a telepen belüli szállítására, tárolására, értékesítésére és nyilvántartására, a vásárlói jogosultság vizsgálatára, a növényvédő szer címkeszövegében megfogalmazott előírások betartására és a felhasználásra.
+## 25. §[^78] A forgalmazásra jogosult felelőssége kiterjed a növényvédő szerek vásárlására, a telephelyre történő és a telepen belüli szállítására, tárolására, értékesítésére és nyilvántartására, a vásárlói jogosultság vizsgálatára, a növényvédő szer címkeszövegében megfogalmazott előírások betartására és annak ismertetésére.
 
 ## Árusítás, szállítás, tárolás, raktározás
 
-26. § (1)[^35] Növényvédő szereket élelmiszerekkel és takarmányozás célját szolgáló anyagokkal egy légtérben tilos árusítani, tárolni, valamint – a szállító, az árusító, és a vevő által – szállítani.
+26. § (1)[^79] Növényvédő szereket – a szoba- és balkonnövények, valamint házikerti dísznövények ápolására engedélyezett készkiszerelésű, III. forgalmi kategóriájú növényvédő szerek kivételével – tilos élelmiszerekkel és takarmányozás célját szolgáló anyagokkal egy légtérben árusítani, tárolni, valamint szállítani.
 
 (2) Növényvédő szer kizárólag eredeti csomagolásban forgalmazható. Növényvédő szer kiméréssel nem árusítható. A kiskereskedő köteles biztosítani a vásárolt áru további védőcsomagolását.
 
@@ -10,8 +10,8 @@
 
 (4) Az árusító helyen, az árusítás ideje alatt a növényvédő szer felhasználás előírásairól, a kötelező tájékoztatáson túl, a vevőt igény szerint tájékoztatni kell.
 
-(5)[^36]
+(5)[^80]
 
-[^34]: A 25. § a 66/2010. (V. 12.) FVM rendelet 13. § (11) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^35]: A 26. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (12) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^36]: A 26. § (5) bekezdését a 66/2010. (V. 12.) FVM rendelet 15. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^78]: A 25. § a 84/2015. (XII. 17.) FM rendelet 9. §-ával megállapított szöveg.
+[^79]: A 26. § (1) bekezdése a 84/2015. (XII. 17.) FM rendelet 10. §-ával megállapított szöveg.
+[^80]: A 26. § (5) bekezdését a 66/2010. (V. 12.) FVM rendelet 15. § (1) bekezdés c) pontja hatályon kívül helyezte.

@@ -1,8 +1,10 @@
+## 20. §[^46] Ha egy vállalkozás más számára végez növényvédelmi szolgáltatási tevékenységet, a munkavállalónak vagy a tagnak meg kell felelnie a növényvédelmi szolgáltatási tevékenységhez kapcsolódó képesítési és – ha a növényvédelmi tevékenységet I. forgalmi kategóriájú növényvédő szerrel végzik – a növényorvosi kamarai tagsági követelményeknek is.
+
 ## Engedély és továbbképzés
 
-21. § (1)[^22] Az engedély iránti kérelemben pontosan meg kell jelölni a folytatni kívánt tevékenységet és a tevékenységgel érintett növényvédő szerek kategóriáját. A kérelemhez csatolni kell a jogosultságot (képzettséget, végzettséget, ismeretet) igazoló okiratokat. továbbá I. forgalmi kategóriájú növényvédő szerrel végzendő szolgáltatás esetén az érvényes növényvédő mérnöki és növényorvosi kamarai tagságot igazoló okiratot.
+21. § (1)[^47] Az engedély iránti kérelemben pontosan meg kell jelölni a folytatni kívánt tevékenységet és a tevékenységgel érintett növényvédő szerek kategóriáját. A kérelemhez csatolni kell a jogosultságot (képzettséget, végzettséget, ismeretet) igazoló okiratokat. továbbá I. forgalmi kategóriájú növényvédő szerrel végzendő növényvédelmi szolgáltatás esetén az érvényes növényorvosi kamarai tagságot igazoló okiratot.
 
-(2)[^23] Az engedélyt a kérelmező lakóhelye szerint illetékes növény- és talajvédelmi igazgatóság adja ki. Az engedélyben a jogosult által nem folytatható szolgáltatói tevékenységet a „nem” szó bejegyzésével kell megjelölni.
+(2)[^48] Az engedélyt a kérelmező lakóhelye szerint illetékes megyei kormányhivatal adja ki, az 1. melléklet szerinti forgalmazási, vásárlási és felhasználási engedély kiállításával. Az engedélyben a jogosult által nem folytatható növényvédelmi szolgáltatói tevékenységet a „nem” szó bejegyzésével kell megjelölni.
 
 (3) Egy jogosult csak egy engedéllyel rendelkezhet. Adott tevékenység a szükséges növényvédelmi képesítés vagy végzettség birtokában is csak akkor folytatható, ha a tevékenységet végző rendelkezik a tevékenységgel érintett növényvédő szer kategóriájának megfelelő, adott tevékenység végzésére jogosító engedéllyel.
 
@@ -10,30 +12,47 @@
 
 (5) A II. forgalmi kategóriájú növényvédő szerrel folytatható, adott tevékenységre jogosító engedély a III. forgalmi kategóriájú növényvédő szerrel folytatott azonos tevékenységre is jogosít.
 
-(6)[^24] Az engedély – a (8) bekezdésben foglalt feltétel teljesülése esetén – határozatlan időre hatályos, melyet a (8) bekezdés szerinti továbbképzést igazoló tanúsítvány alapján, a növény- és talajvédelmi igazgatóság hatósági bélyegzővel igazol.
+(6)[^49] Az engedély – a (8) bekezdésben foglalt feltétel teljesülése esetén – határozatlan ideig hatályos. Az engedélyben a (8) bekezdés szerinti továbbképzés teljesítését az azt igazoló tanúsítvány alapján a megyei kormányhivatal hatósági bélyegzővel igazolja.
 
-(7)[^25] Az engedélyt az azzal való visszaélés esetén a növény- és talajvédelmi igazgatóság visszavonhatja, és visszavonás esetén az engedélyt hivatalos közzététel útján hatálytalanítja. Visszaélésnek minősül a növényvédő szer forgalmazására, vásárlására, felhasználására, illetve a szolgáltatásra vonatkozó előírások megsértése. Engedély visszavonása esetén új engedély a visszavonástól számított két éven belül nem adható ki.
+(7)[^50] Az engedélyt a megyei kormányhivatal visszavonja, amennyiben az engedéllyel rendelkező személy:
 
-(8) Az engedéllyel rendelkező személynek 5 évenkénti vagy folyamatos, a miniszter által meghatározott feltételek és tematika szerinti szakmai továbbképzésen kell részt vennie. A továbbképzés szakmai ismeretanyagának elsajátítása nem vizsgaköteles. A továbbképzésen való részvételről a továbbképzést végző intézmény tanúsítványt állít ki, ha a kötelezett a továbbképzés óráinak legalább 90%-án részt vett.
+a) a végfelhasználó részére I. forgalmi kategóriájú növényvédő szert növényorvosi vény hiányában, illetve II. forgalmi kategóriájú szert az arra nem jogosult részére átad,
 
-(9)[^26] Amennyiben az engedéllyel rendelkező személy nem teljesíti a (8) bekezdésében foglaltakat és így folytat növényvédő szerrel forgalmazási, vásárlási, felhasználási, vagy szolgáltatási tevékenységet, úgy ez a tevékenysége a (7) bekezdés szerinti engedéllyel való visszaélésnek minősül.
+b) nem teljesíti a (8) bekezdésben foglaltakat és ennek hiányában folytat növényvédelmi tevékenységet, vagy
 
-(10)[^27] A növényvédelmi szakképesítéssel rendelkező mentesül a (8) bekezdésben előírt továbbképzési kötelezettség alól, ha
+c) a növényvédő szer forgalmazására, vásárlására, felhasználására, vagy a növényvédelmi szolgáltatásra vonatkozó előírásokat a növényvédelmi tevékenysége során megszegi, és ezzel az emberi vagy állati egészséget veszélyezteti.
 
-a)[^28] a Vidékfejlesztési Minisztérium, illetve a NÉBIH, vagy a növény- és talajvédelmi igazgatóság állományában növényvédelmi munkakörben teljesít szolgálatot, és a miniszter által előírt rendszeres továbbképzési kötelezettségeinek eleget tesz,
+(7a)[^51] A növényvédő szer forgalmazására, vásárlására, felhasználására vagy a növényvédelmi szolgáltatásra vonatkozó valamely előírásnak a (7) bekezdésben fel nem sorolt módon, egy éven belül történő ismételt megsértése esetén a megyei kormányhivatal az engedéllyel rendelkezőt továbbképzésre kötelezi. Amennyiben az engedéllyel rendelkező egy éven belül nem tesz eleget a továbbképzési kötelezettségének, a megyei kormányhivatal az engedélyét visszavonja.
+
+(7b)[^52] A visszavonás tényét a NÉBIH a honlapján közzéteszi. Új engedély a (7) bekezdés a) pontjában és a (7a) bekezdésben meghatározott esetben az engedély visszavonásától számított két év, a (7) bekezdés b) és c) pontjában meghatározott esetben pedig a visszavonástól számított egy év elteltét követően, a (8) bekezdés szerinti továbbképzésen való részvétel után adható ki.
+
+(8)[^53] Az engedéllyel rendelkező személynek 5 évenkénti vagy folyamatos, a miniszter által meghatározott intézmények által szervezett, valamint az előírt feltételek és tematika szerinti szakmai továbbképzésen kell részt vennie. A továbbképzés időtartama növényorvosok esetében 40 tanóra, a 18. § (1) bekezdés a) és b) pontjában meghatározott képesítéssel rendelkező személyek esetében 24 tanóra, a 18. § (1) bekezdés c) és d) pontjában meghatározott képesítéssel rendelkező személyek esetében 8 tanóra. A továbbképzés szakmai ismeretanyagának elsajátítása nem vizsgaköteles. A továbbképzésen való részvételről a továbbképzést végző intézmény tanúsítványt állít ki, ha a kötelezett a továbbképzés óráinak legalább 90%-án részt vett. A tanúsítvány kiállítására a Növényorvosi Kamara jogosult, együttműködésben azzal a szervezettel vagy intézménnyel, amely a továbbképzésen résztvevők képesítésének megfelelő képzési akkreditációval rendelkezik.
+
+(9)[^54]
+
+(10)[^55] A növényvédelmi szakképesítéssel rendelkező mentesül a (8) bekezdésben előírt továbbképzési kötelezettség alól, ha
+
+a)[^56] a miniszter által vezetett minisztérium, illetve a NÉBIH, vagy a megyei kormányhivatal állományában növényvédelmi munkakörben teljesít szolgálatot, és a miniszter által előírt rendszeres továbbképzési kötelezettségeinek eleget tesz,
 
 b) a növényvédelmi felsőoktatás szaktanára, vagy
 
-c)[^29] az élelmiszerlánc-felügyeletért felelős miniszter által – szakoktatói, kutatói tevékenysége miatt – a továbbképzési kötelezettség alól felmentésben részesült.
+c)[^57] a miniszter által – szakoktatói, kutatói tevékenysége miatt – a továbbképzési kötelezettség alól felmentésben részesült,
 
-(11)[^30] Amennyiben az engedély elveszett, vagy az engedéllyel rendelkező adataiban változás következett be, úgy ezt a tényt 8 napon belül be kell jelenteni a növény- és talajvédelmi igazgatósághoz.
+d)[^58] a mező- és erdőgazdasági légi munkavégzésről szóló miniszteri rendeletben előírt továbbképzési követelményeket teljesítette.
 
-[^22]: A 21. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (7) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^23]: A 21. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § h) pontja szerint módosított szöveg.
-[^24]: A 21. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § e) pontja szerint módosított szöveg.
-[^25]: A 21. § (7) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (8) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 125. § e) pontja szerint módosított szöveg.
-[^26]: A 21. § (9) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^27]: A 21. § (10) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^28]: A 21. § (10) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 125. § i) és j) pontja, a 19/2014. (III. 12.) VM rendelet 33. § a) pontja szerint módosított szöveg.
-[^29]: A 21. § (10) bekezdés c) pontja a 19/2014. (III. 12.) VM rendelet 33. § b) pontja szerint módosított szöveg.
-[^30]: A 21. § (11) bekezdését a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 125. § k) pontja szerint módosított szöveg.
+(11)[^59] Amennyiben az engedély elveszett, megrongálódott vagy az engedéllyel rendelkező adataiban változás következett be, úgy ezt a tényt 8 napon belül be kell jelenteni a lakóhely szerint illetékes megyei kormányhivatalnak, amely kérelemre új engedélyt ad ki.
+
+[^46]: A 20. § a 84/2015. (XII. 17.) FM rendelet 5. §-ával megállapított szöveg.
+[^47]: A 21. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (7) bekezdésével megállapított, a 84/2015. (XII. 17.) FM rendelet 14. § 15. pontja szerint módosított szöveg.
+[^48]: A 21. § (2) bekezdése a 84/2015. (XII. 17.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^49]: A 21. § (6) bekezdése a 84/2015. (XII. 17.) FM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^50]: A 21. § (7) bekezdése a 84/2015. (XII. 17.) FM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^51]: A 21. § (7a) bekezdését a 84/2015. (XII. 17.) FM rendelet 6. § (2) bekezdése iktatta be.
+[^52]: A 21. § (7b) bekezdését a 84/2015. (XII. 17.) FM rendelet 6. § (2) bekezdése iktatta be.
+[^53]: A 21. § (8) bekezdése a 84/2015. (XII. 17.) FM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^54]: A 21. § (9) bekezdését a 84/2015. (XII. 17.) FM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^55]: A 21. § (10) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^56]: A 21. § (10) bekezdés a) pontja a 19/2014. (III. 12.) VM rendelet 33. § a) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 6. pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 16. pontja szerint módosított szöveg.
+[^57]: A 21. § (10) bekezdés c) pontja a 84/2015. (XII. 17.) FM rendelet 14. § 17. pontja szerint módosított szöveg.
+[^58]: A 21. § (10) bekezdés d) pontját a 84/2015. (XII. 17.) FM rendelet 6. § (4) bekezdése iktatta be.
+[^59]: A 21. § (11) bekezdését a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdése iktatta be, szövege a 84/2015. (XII. 17.) FM rendelet 6. § (5) bekezdésével megállapított szöveg.
