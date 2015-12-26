@@ -8,7 +8,9 @@
 
 a) ösztönöznie kell a távhő biztonságos és legkisebb költségű termelését és szolgáltatását, a gazdálkodás hatékonyságának javítását, a kapacitások hatékony igénybevételét, a szolgáltatás minőségének folyamatos javítását, valamint a távhővel való takarékosságot;
 
-b) figyelembe kell venni a folyamatos termelés és a biztonságos szolgáltatás indokolt költségeit, beleértve a szükséges tartalékkapacitáshoz kapcsolódó költségeket, a távhőtermelő létesítmény bezárásával, elbontásával kapcsolatos környezetvédelmi kötelezettségek teljesítésének indokolt költségeit, valamint a kapcsolt és a megújuló energiaforrással történő energiatermelés kimutatható környezetvédelmi és gazdasági előnyeit.
+b) figyelembe kell venni a folyamatos termelés és a biztonságos szolgáltatás indokolt költségeit, beleértve a szükséges tartalékkapacitáshoz kapcsolódó költségeket, a távhőtermelő létesítmény bezárásával, elbontásával kapcsolatos környezetvédelmi kötelezettségek teljesítésének indokolt költségeit, valamint a kapcsolt és a megújuló energiaforrással történő energiatermelés kimutatható környezetvédelmi és gazdasági előnyeit;
+
+c) a Hivatal által kiszabott bírság az árképzésnél költségnövelő tényezőként nem vehető figyelembe.
 
 (3) A távhőszolgáltatás csatlakozási díját külön jogszabályban meghatározott szempontok szerint úgy kell meghatározni, hogy az a hatékonyan működő vállalkozó szükséges és indokoltan felmerült ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, és a legkisebb költség elvének érvényre juttatása érdekében e vállalkozásokat gazdálkodásuk hatékonyságának és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
