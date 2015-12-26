@@ -1,0 +1,9 @@
+# 391/2015. (XII. 11.) Korm. rendelet
+
+egyes energetikai tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-391-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-12-26 | 2015-391-20-22.1 | 391/2015. (XII. 11.) Korm. rendelet |
