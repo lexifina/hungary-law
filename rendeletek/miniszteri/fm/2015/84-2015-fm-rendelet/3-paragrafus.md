@@ -1,1 +1,0 @@
-## „(5) Növényvédő szer lakott terület közvetlen szomszédságában, nem kézi erővel hajtott géppel történő kijuttatásáról az érintett területtel határos ingatlanon tartózkodókat a kezelés megkezdése előtt tájékoztatni kell.”
