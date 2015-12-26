@@ -2,9 +2,9 @@
 
 27. § (1) EGT tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységére vonatkozó bejelentésének – magyar nyelvű fordításban – tartalmaznia kell
 
-a) a 21. § (1) bekezdés a) pontjában foglalt adatokat,
+a)[^7] a 21. § (1) bekezdés a)–b), e) és g) pontjában foglalt adatokat,
 
-b) a szakképzettséget igazoló oklevél hiteles másolatát,
+b)[^8] a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 22. § (3) bekezdésében foglaltakat,
 
 c) az e rendeletben meghatározott szakmai gyakorlatnak megfelelő gyakorlat igazolását,
 
@@ -14,10 +14,15 @@ e) igazolást arról, hogy az energetikai auditor az energetikai auditálási te
 
 f) nyilatkozatot arról, hogy a szolgáltatásnyújtó a nyilatkozat benyújtásakor átmenetileg sincs eltiltva az energetikai auditálási tevékenység gyakorlásától,
 
-g) nyilatkozatot arról, hogy a tevékenységet határon átnyúló szolgáltatás keretében kívánja folytatni és arról – az időtartam megjelölésével –, ha a bejelentését öt évnél rövidebb időtartamra kívánja megtenni.
+g)[^9] nyilatkozatot – az időtartam megjelölésével – arra vonatkozóan, hogy a bejelentését öt évnél rövidebb időtartamra kívánja megtenni.
 
-(2) Az energetikai auditáló szervezet bejelentésének – magyar nyelvű fordításban – tartalmaznia kell
+(2)[^10] Az energetikai auditáló szervezet bejelentésének – magyar nyelvű fordításban – tartalmaznia kell
 
-a) az (1) bekezdés e)–g) pontja szerinti nyilatkozatokat és iratokat, valamint
+a) az (1) bekezdés b) és e)–g) pontja szerinti nyilatkozatokat és iratokat, valamint
 
-b) a nevében eljáró auditálást végző személy (1) bekezdés a)–d) pontjában foglalt adatainak igazolását vagy a névjegyzékben szereplő energetikai auditor névjegyzéki megjelölését.
+b) a 21. § (2) bekezdés a)–d) pontjában foglalt adatokat, igazolást és nyilatkozatot.
+
+[^7]: A 27. § (1) bekezdés a) pontja a 391/2015. (XII. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^8]: A 27. § (1) bekezdés b) pontja a 391/2015. (XII. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^9]: A 27. § (1) bekezdés g) pontja a 391/2015. (XII. 11.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^10]: A 27. § (2) bekezdése a 391/2015. (XII. 11.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.

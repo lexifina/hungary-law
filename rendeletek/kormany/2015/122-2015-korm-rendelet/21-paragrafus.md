@@ -36,8 +36,15 @@ b) elektronikus úton.
 
 (6) A regisztráló szervezet kétség esetén bekérheti az eredeti dokumentumokat is.
 
-(7) A regisztráló szervezet – a névjegyzékbe való bejegyzés érdekében – az adatváltozás bejelentésétől számított 3 munkanapon belül tájékoztatja a Hivatalt a megváltozott adatokról. A Hivatal a megkeresés kézhezvételét követő 8 munkanapon belül átvezeti a módosítást a névjegyzékben, amelyről határozat megküldésével értesíti a regisztráló szervezetet és az energetikai auditort vagy energetikai auditáló szervezetet.
+(7)[^4] A regisztráló szervezet – a névjegyzékbe való bejegyzés érdekében – az adatváltozás bejelentésétől számított 5 napon belül tájékoztatja a Hivatalt a megváltozott adatokról.
 
-(8) A regisztráló szervezet 3 munkanapon belül tájékoztatja a Hivatalt, ha az energetikai auditor vagy energetikai auditáló szervezet a névjegyzékben nyilvántartott adat változását vagy a regisztrációs díj megfizetését a regisztráló szervezet figyelmeztetése ellenére sem teljesítette.
+(8)[^5] A regisztráló szervezet 5 napon belül tájékoztatja a Hivatalt, ha az energetikai auditor vagy az energetikai auditáló szervezet
+
+a) a névjegyzékben nyilvántartott adat változását a regisztráló szervezet figyelmeztetése ellenére a megadott határidőben nem jelentette be, vagy
+
+b) a nyilvántartási díj megfizetését a regisztráló szervezet figyelmeztetése ellenére a megadott határidőben nem teljesítette.
 
 (9) Az energetikai auditornak és az energetikai auditáló szervezetnek a tevékenység megszüntetését a regisztráló szervezeten keresztül kell bejelentenie a Hivatalnak. E bejelentéssel kapcsolatos ügyintézésre az (1)–(6) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell.
+
+[^4]: A 21. § (7) bekezdése a 391/2015. (XII. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^5]: A 21. § (8) bekezdése a 391/2015. (XII. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

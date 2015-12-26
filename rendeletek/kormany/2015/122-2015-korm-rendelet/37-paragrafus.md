@@ -1,5 +1,5 @@
-## 32–36. §[^2]
+## 32–36. §[^12]
 
 ## 21. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet módosítása
 
-[^2]: A 32–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 32–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
