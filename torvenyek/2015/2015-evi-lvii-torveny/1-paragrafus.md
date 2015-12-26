@@ -44,7 +44,7 @@
 
 19. jelentős korszerűsítés: olyan korszerűsítés, amelynek költsége meghaladja egy hasonló új egység beruházási költségének 50%-át azzal, hogy nem tekinthető jelentős korszerűsítésnek, ha a tüzelőberendezést az általa kibocsátott szén-dioxid leválasztására alkalmas berendezéssel szerelik fel azzal a céllal, hogy gondoskodjanak a szén-dioxidnak a geológiai tárolásáról;
 
-20. kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben meghatározottak alapján mikro-, kis- és középvállalkozásnak minősülő vállalkozás;
+20. kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) 3. § (4) bekezdésének kivételével a Kkvtv. alapján mikro-, kis- és középvállalkozásnak minősülő vállalkozás;
 
 21. kiskereskedelmi energiaértékesítő vállalat: az a gazdálkodó szervezet, amely villamos energiát, földgázt értékesít, valamint távhőt szolgáltat a végső felhasználó számára;
 
@@ -56,7 +56,7 @@
 
 25. nagy hatásfokú kapcsolt energiatermelés: a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló rendelet szerint nagy hatásfokúnak minősülő kapcsolt energiatermelés;
 
-26. nagyvállalat: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény alapján mikro-, kis- és középvállalkozásnak nem minősülő vállalkozás;
+26. nagyvállalat: a kis- és középvállalkozásnak nem minősülő vállalkozás;
 
 27. névleges bemenő hőteljesítmény: az adott energiaátalakító berendezésre vonatkozó hatósági határozatban vagy a berendezés gépkönyvében vagy gyártói nyilatkozatában rögzített névleges teljesítményen történő üzemeltetéséhez szükséges, az energiaátalakító berendezésbe bevitt hőteljesítmény megawattban (MWth) kifejezve;
 
@@ -68,4 +68,6 @@
 
 31. végső felhasználó: az a természetes személy vagy szervezet, aki vagy amely saját felhasználására vásárol energiát;
 
-32. végsőenergia-fogyasztás: az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság számára szolgáltatott energia, az energiaátalakítási ágazatnak és az energetikai iparnak szolgáltatott energiaszállítás kivételével.
+32. végsőenergia-fogyasztás: az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság számára szolgáltatott energia, az energiaátalakítási ágazatnak és az energetikai iparnak szolgáltatott energiaszállítás kivételével;
+
+33. vállalkozáscsoport: azon vállalkozások összessége, amelyek egymással a Kkvtv. szerinti kapcsolódó vállalkozási vagy partnervállalkozási kapcsolatban állnak.

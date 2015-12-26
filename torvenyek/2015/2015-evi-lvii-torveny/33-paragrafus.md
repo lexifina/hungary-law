@@ -16,7 +16,7 @@ g) a névjegyzékbe vétel és a névjegyzékből törlés időpontja.
 
 (2) A névjegyzék az (1) bekezdés f) és g) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(3) Az energetikai auditáló szervezet (2) bekezdésben foglalt adatai nyilvánosak, azokat a Hivatal az energiahatékonysági tájékoztató honlapon közzéteszi.
+(3) Az energetikai auditáló szervezet (1) bekezdésben foglalt adatai nyilvánosak, azokat a Hivatal az energiahatékonysági tájékoztató honlapon közzéteszi.
 
 (4) Az energetikai auditáló szervezet a bekövetkezéstől számított 8 napon belül köteles bejelenteni a regisztráló szervezetnek a névjegyzékben nyilvántartott adataiban bekövetkezett változást.
 

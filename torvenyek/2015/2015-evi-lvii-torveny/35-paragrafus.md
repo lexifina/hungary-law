@@ -2,11 +2,13 @@
 
 35. § (1) Az EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor vagy energetikai auditáló szervezet az energetikai auditálás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles valamely regisztráló szervezet útján a Hivatalnak bejelenteni.
 
-(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében akkor folytathatja az energetikai auditálási tevékenységet, ha az e törvény végrehajtására kiadott kormányrendeletben az energetikai auditorokra előírt végzettséggel és szakmai gyakorlattal rendelkezik.
+(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében történő energetikai auditálási tevékenységet akkor folytathat, ha a szakmai vizsga teljesítésének kivételével megfelel a 28. § (1) bekezdésében foglalt követelményeknek.
 
 (3) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditáló szervezet Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében energetikai auditálási tevékenységet az energetikai auditorok névjegyzékében szereplő vagy Magyarország területén energetikai auditálásra a (2) bekezdés szerint jogosult tagja vagy alkalmazottja útján folytathatja.
 
 (4) A határon átnyúló szolgáltatásnyújtás keretében Magyarország területén energetikai auditálási tevékenységet végző személy és szervezet a működése során köteles betartani az energetikai auditálási tevékenység folytatására e törvényben és a végrehajtására kiadott rendeletekben meghatározott szabályokat.
+
+(4a) A határon átnyúló szolgáltatás keretében energetikai auditálási tevékenység folytatására jogosult személyekre és szervezetekre megfelelően alkalmazni kell az e törvényben és a végrehajtására kiadott rendeletekben az energetikai auditorokra és energetikai auditáló szervezetekre meghatározott szabályokat.
 
 (5) A Hivatal a határon átnyúló szolgáltatás nyújtását bejelentő személyekről és szervezetekről névjegyzéket vezet a 32. § (1) bekezdése, valamint a 33. § (1) bekezdése szerinti adattartalommal, amelynek a következő adatait az energiahatékonysági tájékoztató honlapon közzéteszi:
 
