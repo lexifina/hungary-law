@@ -8,7 +8,7 @@
 
 a) a szolgáltatás megkezdésével egyidejűleg biztosítani a titkos információgyűjtéshez szükséges eszközök és módszerek alkalmazási feltételeit (így különösen: az adatszolgáltatáshoz szükséges feltételeket, technikai eszközök elhelyezését biztosító zárható helyiséget, az NBSZ alkalmazottainak bejutását, munkavégzését biztosító feltételeket);
 
-b)[^4] a szolgáltatási rendszeréhez kapcsolódó, az Eht. 92. §-ának (4)–(5) bekezdésében meghatározott rendszert az NBSZ által meghatározott műszaki alapkövetelmények szerint létesíteni a törvényben előírt határidőre;
+b)[^4] a szolgáltatási rendszeréhez kapcsolódó, az Eht. 92. §-ának (4)–(5) bekezdésében meghatározott rendszert az NBSZ által meghatározott műszaki alapkövetelmények szerint Magyarország területén létesíteni a törvényben előírt határidőre;
 
 c) a technikai megvalósíthatósághoz igazodóan a szaktechnikai eszközök rendeltetésszerű működtetéséhez szükséges méretű, az NBSZ által meghatározott alapterületű, illetéktelen személy részére nem hozzáférhető, zárható helyisége(ke)t, vagy biztonsági szempontból azzal egyenértékű más elhelyezést (a továbbiakban: zárt hely) térítésmentesen biztosítani;
 
@@ -26,5 +26,5 @@ h)[^5] az Eht. 156. § (16) és (17) bekezdése szerinti helymeghatározási ada
 
 [^2]: A 3. § (1) bekezdése a 38/2008. (II. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^3]: A 3. § (2) bekezdése a 38/2008. (II. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A 3. § (3) bekezdésének b) pontja a 38/2008. (II. 23.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdés b) pontja a 362/2015. (XII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^5]: A 3. § (3) bekezdés h) pontját a 403/2015. (XII. 15.) Korm. rendelet 2. §-a iktatta be.
