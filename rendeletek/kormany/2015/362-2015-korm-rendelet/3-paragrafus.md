@@ -1,0 +1,9 @@
+## 2. §[^1]
+
+## 3. Záró rendelkezések
+
+3. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvény kihirdetését követő 30. napon lép hatályba.
+
+(2) A 2. § 2016. január 1-jén lép hatályba.
+
+[^1]: A 2. § a 3. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
