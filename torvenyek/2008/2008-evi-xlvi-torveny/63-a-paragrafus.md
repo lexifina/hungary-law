@@ -1,6 +1,6 @@
 ## Mulasztási bírság
 
-63/A. § (1) Mulasztási bírság szabható ki, ha a felügyeleti díj bevallására kötelezett a bevallási, illetve a 38/B § szerinti adatszolgáltatási, nyilvántartásba vételi, változásbejelentési kötelezettségét nem teljesíti, késedelmesen, valótlan adattartalommal vagy hiányosan teljesíti.
+63/A. § (1) Mulasztási bírság szabható ki, ha a felügyeleti díj bevallására kötelezett a bevallási, illetve a 38/B § szerinti adatszolgáltatási, nyilvántartásba vételi, változásbejelentési és felügyeleti díj fizetési kötelezettségét nem teljesíti, késedelmesen, valótlan adattartalommal vagy hiányosan teljesíti.
 
 (2) A mulasztási bírság legkisebb összege tízezer forint, legmagasabb összege ötszázmillió forint, de legfeljebb a megelőző üzleti évben elért, a felügyeleti díj alapját képező nettó árbevétel (jövedelem) tíz százaléka.
 
