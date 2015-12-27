@@ -1,1 +1,0 @@
-15. § A Tszt. 4. § (1) bekezdés f) pontjában az „(a továbbiakban: miniszter)” szövegrész helyébe az „(a továbbiakban: miniszter) és a kormányzati tevékenység összehangolásáért felelős minisztert” szöveg lép.
