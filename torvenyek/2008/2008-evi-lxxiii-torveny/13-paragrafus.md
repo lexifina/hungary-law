@@ -1,4 +1,4 @@
-13. § Az adópolitikáért felelős miniszter – az agrárpolitikáért felelős miniszter egyidejű tájékoztatása mellett – évente – a tárgyévet követő év március 15-éig – megküldi a Tanácsnak a tárgyévben
+13. § Az adópolitikáért felelős miniszter – az agrárpolitikáért felelős miniszter egyidejű tájékoztatása mellett – évente – a tárgyévet követő év március 15-éig – megküldi a Pálinka Nemzeti Tanácsnak a tárgyévben
 
 a) előállított bérfőzött párlat és a magánfőzésben előállított, a Jöt. 67/A. § (1) bekezdése szerint a magánfőző által a vámhatósághoz bejelentett párlat párlatfajtánként megbontott,
 
