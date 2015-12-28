@@ -1,3 +1,0 @@
-2. § Az Éltv. „Átmeneti rendelkezések” alcíme a következő 76/B. §-sal egészül ki:
-
-„76/B. § A 47/B. § 2015. május 31-én hatályos (3a) bekezdésének hatálya alá tartozó és a 47/B. §-nak az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosításáról szóló 2015. évi CLXXXII. törvénnyel megállapított (3) bekezdése alapján felügyeleti díj további összegű fizetésére kötelezettnek a 2014. naptári évi árbevétele alapján 2015. december 30-ig bevallást vagy helyesbítő bevallást kell tennie és a felügyeleti díjat 2016. január 31-ig egy összegben, késedelmi pótlék alkalmazása nélkül kell megfizetnie.”
