@@ -1,0 +1,102 @@
+# A Kormány 447/2015. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 205. szám, 2015. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c8f2b8162c53d9537d9822746e41fee738f2793c/dokumentumok/fab9de980f0bf943729da2da9d642dafa844156d/letoltes)
+
+---
+
+A Kormány 447/2015. (XII. 28.) Korm. rendelete
+a Nemzeti Eszközkezelő Zrt. működésével kapcsolatos egyes szabályokról szóló 128/2012. (VI. 26.)
+Korm. rendelet módosításáról
+A Kormány a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának
+biztosításáról szóló 2011. évi CLXX. törvény 25. § a), c), e), f), h) és i) pontjában kapott felhatalmazás alapján, az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Nemzeti Eszközkezelő Zrt. működésével kapcsolatos egyes szabályokról szóló 128/2012. (VI. 26.) Korm. rendelet
+(a továbbiakban: Rendelet) 10/B. § (4) bekezdés b) pontja a következő be) és bf) alponttal egészül ki:
+(Az adósságkezelési és együttműködési megállapodás kötelező tartalmi eleme, hogy a bérlő
+pénzügyi helyzetének rendezése érdekében vállalja, hogy együttműködik a bérbeadóval, illetve a Segítő Szervezettel,
+különösen abban, hogy)
+„be) hozzájárul ahhoz, hogy a bérbeadó megismerje a Segítő Szervezet által az együttműködés keretében a 11/B. §
+(3) bekezdés b)–d) pontjai szerint nyilvántartott adatokat, információkat,
+bf) hozzájárul ahhoz, hogy a területi foglalkoztatási szerv a Segítő Szervezet által az együttműködés keretében
+nyilvántartott, a közfoglalkoztatásba vonást elősegítő statisztikai célú adatokat, információkat megismerje,
+amennyiben a bérlő, illetve a vele együttköltöző a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló
+1991. évi IV. törvény 58. § (5) bekezdés d) pontja szerinti álláskereső.”
+2. §
+A Rendelet 10/B. §-a a következő (7) bekezdéssel egészül ki:
+„(7) Ha a bérlő nem tesz eleget az adósságkezelési és együttműködési megállapodás alapján fennálló fizetési
+kötelezettségének és a Segítő Szervezet él a 11/B. § (5) bekezdésben foglalt jelzéssel, az a bérlő részéről súlyos
+szerződésszegésnek minősül.”
+3. §
+A Rendelet 10/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 10/A. § (1)–(2) bekezdése alapján kötött határozott idejű bérleti szerződés határozatlan időtartamú bérleti
+szerződéssé alakul át a határozott idő elteltével, és a bérbeadó nem intézkedhet a bérlő által lakott ingatlan
+kiürítése iránt, ha a bérlő a bérleti idő lejárta után az általa lakott ingatlant tovább használja, valamint lakbérfizetési
+
+és az adósságkezelési és együttműködési megállapodásban vállalt kötelezettségének eleget tett, vagy a Segítő
+Szervezet – az adósságkezelési és együttműködési program előrehaladásának összefoglalását is tartalmazó – írásbeli
+javaslata alapján a bérlő méltánylást érdemlő élethelyzete az ingatlanban való maradását indokolja, és egyébként
+a bérlő maradéktalanul eleget tett a határozott idejű bérleti szerződésből eredő kötelezettségeinek.”
+4. § (1) A Rendelet 11/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Segítő Szervezet által ellátandó feladatok körét a 6. melléklet határozza meg. A Segítő Szervezet az ellátandó
+feladatokért az (1) bekezdés szerinti szerződésben meghatározott havi alap és az ellátandó feladatokhoz igazodó
+teljesítmény alapú díjazásban részesül.”
+(2) A Rendelet 11/B. §-a a következő (3)–(5) bekezdéssel egészül ki:
+„(3) A 6. melléklet 2. pontja szerinti együttműködési megállapodás tartalmazza
+a) a bérlő és a vele egy háztartásban élő hozzátartozó, mint ellátást igénybe vevő problémáit,
+b) az elérendő célt,
+c) az elérendő cél érdekében a bérlő, valamint a Segítő Szervezet által megvalósítandó feladatokat,
+d) a c) pont szerinti feladatok teljesítésére vonatkozó határidőket,
+e) az együttműködés módját,
+f) a találkozások rendszerességét,
+g) az együttműködési folyamatba bevonandó szolgáltatókat, intézményeket, személyeket, szervezeteket
+[a b)–f) pont együtt: adósságrendezési és cselekvési terv],
+h) az együttműködés megszegésének eseteit, a hátrányos következményekre történő figyelemfelhívással,
+i) a bérlő és a vele egy háztartásban élő hozzátartozó hozzájárulását ahhoz, hogy a Segítő Szervezet, illetve
+a képviseletében eljáró személy az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi
+CXII. törvény törvényben, továbbá az adósságkezelési és együttműködési megállapodásban foglaltaknak
+megfelelően nyilvántartsa és kezelje, valamint a Nemzeti Eszközkezelő részére átadja.
+(4) A Segítő Szervezet az adósságrendezési és cselekvési tervben rögzített feladatok határidőre történő
+megvalósulását folyamatosan figyelemmel kíséri, és legalább háromhavonta, – az együttműködési megállapodás
+megsértése esetén legalább kéthavonta – értékeli, és erről beszámol a bérbeadónak, indokolt esetben – a bérlő
+közreműködésével – az adósságrendezési és cselekvési tervet módosítja.
+(5) Az együttműködési megállapodás bérlő általi megsértésekor a Segítő Szervezet jelzéssel él a Nemzeti
+Eszközkezelő felé.”
+5. §
+A Rendelet a következő 13/D. §-sal egészül ki:
+„13/D. § A Nemzeti Eszközkezelő Zrt. működésével kapcsolatos egyes szabályokról szóló 128/2012. (VI. 26.)
+Korm. rendelet módosításáról szóló 447/2015. (XII. 28.) Korm. rendelet (a továbbiakban: Módr4.) hatálybalépését
+követő 120 napon belül e rendelet alapján megfelelően módosítani kell a Módr4. hatálybalépésekor fennálló
+szerződéseket, megállapodásokat.”
+6. §
+A Rendelet 6. melléklete helyébe az 1. melléklet lép.
+7. §
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 447/2015. (XII. 28.) Korm. rendelethez
+„6. melléklet a 128/2012. (VI. 26.) Korm. rendelethez
+A Segítő Szervezet által ellátandó feladatok
+A Segítő Szervezet által ellátandó feladatok:
+ 1. rendszeres személyes kapcsolattartás az érintett bérlőkkel és az együttköltöző háztartás tagjaival,
+ 2. a bérlővel írásos együttműködési megállapodás kötése,
+
+ 3. a bérlő vagy az együttköltöző háztartás tagja mint ellátást igénybe vevő megfelelő tájékoztatása érdekében
+szociális és egyéb információs adatok gyűjtése, szolgáltatása,
+ 4. ügyintézésben való közreműködés,
+ 5. családi költségvetési terv készítése,
+ 6. helyzet- és problémafeltárást követően szociális, életvezetési, adósságkezelési és mentálhigiénés tanácsadás
+a bérlők számára,
+ 7. az anyagi nehézségekkel küzdők számára a pénzbeli, természetbeni ellátások közvetítése, tanácsadás,
+ 8. egyéni és csoportos programok szervezése,
+ 9. a bérlők, illetve az együttköltöző háztartástagok kapcsolatteremtési készségének javítása érdekében
+a családokon belüli kapcsolaterősítést szolgáló közösségépítő, konfliktuskezelő programok és szolgáltatások
+szervezése,
+10. közvetítés a bérbeadó, a közüzemi szolgáltatók, a közjegyzők, végrehajtók, hatóságok, egyéb érintett szervek
+és a bérlő mint díjhátralékos ügyfél között,
+11. munkanélküli bérlők elhelyezkedésének elősegítése (álláskeresési tanácsadás, önéletrajz készítése,
+továbbképzés/átképzés keresése),
+12. adósságkezelési program működtetése,
+13. indokolással ellátott, az adósságkezelési és együttműködési program előrehaladására vonatkozó beszámolót
+is tartalmazó javaslat készítése arra vonatkozóan, hogy a bérlő 10/C. § (1) bekezdése alapján a bérlő
+ingatlanban maradása indokolt.”
