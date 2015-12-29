@@ -590,7 +590,7 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 0,00 | 26,71 | 34,56 | 6,95 | 2,44 | 70,66 |
+| 3. | 0,00 | 26,71 | 34,56 | 6,95 | 2,66 | 70,88 |
 
 | 4. | Többletkötelezettség-vállalás: 11,67 Mrd Ft |
 
@@ -604,7 +604,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 52,42 | 18,65 | 10,44 | 81,51 |
+| 3. | 52,42 | 18,65 | 10,66 | 81,73 |
 
 6.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -630,7 +630,7 @@
 
 | 9. | 6.1.4 | Koragyermekkori (0-7 év) program | 0,00 | 2,50 | 0,00 | 1,50 | 0,00 | A konstrukció célja azoknak a problémáknak az enyhítése, megszüntetése, amelyek a jelenlegi intézményrendszer hiányosságaiból, működési jellegzetességeiből fakadnak. A konstrukció olyan újszerű, kísérleti jellegű fejlesztéseket tartalmaz, amelyek javítják a jelenlegi szolgáltatások minőségét. A konstrukció középpontjában – mint közvetlen célcsoport – az egészségügyi alapellátás (védőnői szolgálat, a házi gyermekorvos, a gyermekeket is ellátó háziorvos) és a gyermekek szülei állnak. A konstrukció a 0-7 éves korosztály optimális fejlődésének komplex támogatását célozza meg. Magába foglalja a gyermekek fejlődését befolyásoló rizikó- és védőfaktorok felmérését, a gyermekek fejlődésének nyomon követését, az eltérő fejlődést mutató gyermekek kiszűrését, ezen kívül a szülők számára támogatást nyújt a gyermekük fejlődésének kibontakoztatásához és a felmerülő nevelési problémák megoldásához. A konstrukció „B” komponense keretében a konvergencia régiók vonatkozásában az elavult infrastruktúra és az alkalmazott módszertanok korszerűsítése révén további alapvető cél a gyermek-egészségügyi alapellátás különböző szegmensei szolgáltatás-minőségének javítása, beleértve az informatikai fejlesztéseket is. A konstrukció további célja a 0-7 év közötti gyermekek rendszeres és korszerű szűrővizsgálatban részesítése, a fejlődési rendellenességek korai felismerése. | emberi erőforrások minisztere |  |
 
-| 10. | 6.1.5 | Területi emberi erőforrás fejlesztési komplex programok támogatása | 0,00 | 0,00 | 2,87 | 4,00 | 1,82 | A konstrukció célja a területi komplex felzárkóztató program keretében – a szakképzési, szociális gazdasági fejlesztésekhez kapcsolódóan – az egészséges életmód, egészségszemlélet elterjesztése, az egészséges élettel kapcsolatos ismeretek beépítése a képzési és gazdasági tevékenységek körébe. | emberi erőforrások minisztere |  |
+| 10. | 6.1.5 | Területi emberi erőforrás fejlesztési komplex programok támogatása | 0,00 | 0,00 | 2,87 | 4,00 | 2,04 | A konstrukció célja a területi komplex felzárkóztató program keretében – a szakképzési, szociális gazdasági fejlesztésekhez kapcsolódóan – az egészséges életmód, egészségszemlélet elterjesztése, az egészséges élettel kapcsolatos ismeretek beépítése a képzési és gazdasági tevékenységek körébe. | emberi erőforrások minisztere |  |
 
 | 11. | 6.1.6 | Az egészségre nevelő és szemléletformáló életmódprogramok közvetítése a fogyasztóvédelmi intézkedések megfelelő racionalizálásával | 0,00 | 0,00 | 0,00 | 0,50 | 0,00 | A konstrukció célja az egészségre nevelő és szemléletformáló életmódprogramok közvetítése a fogyasztóvédelmi intézkedések racionalizálásával, a legjelentősebb egészségkockázati tényezők befolyásolása célzott megelőzési programokkal egyéni, közösségi és társadalmi szinten. A konstrukció további célja az egészséges életmódhoz szükséges ismeretek és készségek megszerzésének terjesztése és készségfejlesztő eszközök fejlesztése. | emberi erőforrások minisztere | nemzeti fejlesztési miniszter |
 
@@ -654,7 +654,7 @@
 
 | 21. | 6.2.8 | Sürgősségi Akadémia | 0,00 | 0,00 | 0,25 | 0,00 | 0,00 | A konstrukció célja a sürgősségi ellátórendszer különböző ellátási szintjeinek, szereplőinek módszertani és képzési támogatása, az egységes és magas színvonalú, ugyanakkor folytonosságában is harmonikus sürgősségi ellátás érdekében. | emberi erőforrások minisztere |  |
 
-| 22. | Összesen | 0,00 | 26,71 | 34,56 | 6,95 | 2,44 |  |  |  |
+| 22. | Összesen | 0,00 | 26,71 | 34,56 | 6,95 | 2,66 |  |  |  |
 
 7. A 7. prioritás: Technikai segítségnyújtás
 
@@ -699,4 +699,4 @@
 | 3. | 7.2.1 | Az OP lebonyolításával kapcsolatos egyéb feladatok | 4,85 | 4,85 | 4,85 | 0,00 | 0,00 | A konstrukció célja, hogy biztosítsa a Társadalmi Megújulás Operatív Program lebonyolításával kapcsolatos specifikus feladatok költséghatékony és eredményes ellátását (pl. monitoring bizottság működtetése, beleértve annak titkársági feladatai ellátását is, az éves megvalósítási jelentések, a Társadalmi Megújulás Operatív Program végrehajtását érintő tanulmányok, elemzések, a Nemzeti Stratégiai Referencia Keret-szintű értékelési tervben nem szereplő, valamint a monitoring bizottság kezdeményezésére indított értékelések). | emberi erőforrások minisztere |  |
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja, az 1685/2015. (IX. 24.) Korm. határozat 3–4. pontja, az 1775/2015. (X. 19.) Korm. határozat 3–4. pontja, az 1877/2015. (XII. 2.) Korm. határozat 3–4. pontja, az 1923/2015. (XII. 11.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja, az 1685/2015. (IX. 24.) Korm. határozat 3–4. pontja, az 1775/2015. (X. 19.) Korm. határozat 3–4. pontja, az 1877/2015. (XII. 2.) Korm. határozat 3–4. pontja, az 1923/2015. (XII. 11.) Korm. határozat 3. pontja, a 2004/2015. (XII. 28.) Korm. határozat 3. pontja szerint módosított szöveg.

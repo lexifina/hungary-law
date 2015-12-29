@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1172-30
 | 2015-10-20 | 2015-1172-30-22.5 | 1360/2015. (VI. 2.) Korm. határozat |
 | 2015-12-03 | 2015-1172-30-22.6 | 1360/2015. (VI. 2.) Korm. határozat |
 | 2015-12-12 | 2015-1172-30-22.7 | 1360/2015. (VI. 2.) Korm. határozat |
+| 2015-12-29 | 2015-1172-30-22.8 | 1360/2015. (VI. 2.) Korm. határozat |
