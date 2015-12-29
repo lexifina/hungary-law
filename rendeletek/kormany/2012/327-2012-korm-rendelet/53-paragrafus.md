@@ -1,14 +1,11 @@
-## 50–52. §[^115]
+53. § (1)[^118] Az 1. § 6. pont 6.3. alpontja alá tartozó megváltozott munkaképességű munkavállaló esetében az e rendelet szerinti támogatás kizárólag tartós foglalkoztatás keretében történő foglalkoztatáshoz nyújtható. Ebben az esetben a támogatás a komplex minősítés alapján hozott hatósági döntés jogerőre emelkedésének napjáig, illetve a komplex minősítés eredményéről kiállított hatósági bizonyítvány kiállításának napjáig folytatott foglalkoztatáshoz használható fel.
 
-53. § (1)[^116] Az 1. § 6. pont 6.3. alpontja alá tartozó megváltozott munkaképességű munkavállaló esetében az e rendelet szerinti támogatás kizárólag tartós foglalkoztatás keretében történő foglalkoztatáshoz nyújtható. Ebben az esetben a támogatás a komplex minősítés alapján hozott hatósági döntés jogerőre emelkedésének napjáig, illetve a komplex minősítés eredményéről kiállított hatósági bizonyítvány kiállításának napjáig folytatott foglalkoztatáshoz használható fel.
+(1a)[^119] Az (1) bekezdésben foglaltaktól eltérően, ha az 1. § 6. pont 6.3. alpontjában meghatározott megváltozott munkaképességű munkavállaló rehabilitációs járadékban részesül, a támogatás a rehabilitációs járadékra való jogosultság időtartama alatt végzett foglalkoztatáshoz használható fel.
 
-(1a)[^117] Az (1) bekezdésben foglaltaktól eltérően, ha az 1. § 6. pont 6.3. alpontjában meghatározott megváltozott munkaképességű munkavállaló rehabilitációs járadékban részesül, a támogatás a rehabilitációs járadékra való jogosultság időtartama alatt végzett foglalkoztatáshoz használható fel.
-
-(2)[^118] Az (1) bekezdés szerinti támogatás céljából a rehabilitációs hatóság az egyéni foglalkoztatási megállapodást az (1) bekezdésben – rehabilitációs járadékban részesülő munkavállaló esetén az (1a) bekezdésben – meghatározott időtartamra köti meg a munkáltatóval.
+(2)[^120] Az (1) bekezdés szerinti támogatás céljából a rehabilitációs hatóság az egyéni foglalkoztatási megállapodást az (1) bekezdésben – rehabilitációs járadékban részesülő munkavállaló esetén az (1a) bekezdésben – meghatározott időtartamra köti meg a munkáltatóval.
 
 (3) Az (1) bekezdésben meghatározott munkavállaló foglalkoztatásának támogatására egyebekben az e rendeletben foglaltakat kell alkalmazni.
 
-[^115]: A 49–52. §-t a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés m) pontja hatályon kívül helyezte.
-[^116]: Az 53. § (1) bekezdése az 500/2013. (XII. 29.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^117]: Az 53. § (1a) bekezdését az 500/2013. (XII. 29.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^118]: Az 53. § (2) bekezdése az 500/2013. (XII. 29.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^118]: Az 53. § (1) bekezdése az 500/2013. (XII. 29.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^119]: Az 53. § (1a) bekezdését az 500/2013. (XII. 29.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^120]: Az 53. § (2) bekezdése az 500/2013. (XII. 29.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés a) pontja szerint módosított szöveg.

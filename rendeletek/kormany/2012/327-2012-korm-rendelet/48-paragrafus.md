@@ -8,7 +8,7 @@ a) 17. § (3) bekezdés a) és c) pontját, valamint
 
 b) 29. § (5) bekezdés b) pontját
 
-## nem kell alkalmazni.
+nem kell alkalmazni.
 
 (3) Az Mr1. által megállapított
 
@@ -16,7 +16,7 @@ a) 20. § (2) bekezdés b) pontját 2014. január 1-jétől,
 
 b) 32. § (2) bekezdés f) pontját első alkalommal a 2014. évre vonatkozó éves támogatási szerződések megkötésekor
 
-## kell alkalmazni.
+kell alkalmazni.
 
 (4) Az Mr1. által megállapított 20/B. § (4) és (5) bekezdését 2014. január 1-jétől kell alkalmazni.
 

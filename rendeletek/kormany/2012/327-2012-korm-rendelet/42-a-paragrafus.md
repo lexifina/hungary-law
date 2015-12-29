@@ -18,13 +18,15 @@ a) az új vagy átalakított munkahelyen újonnan alkalmazandó megváltozott mu
 
 b)[^98] az egyéni támogatás – a szerződéskötés évében érvényes – egy hónapra számított keretösszege 24-szeresének
 
-## a szorzata.
+a szorzata.
 
 (6) Adott évben a munkahely-teremtési pályázatokon elnyerhető munkahely-teremtési támogatások összege nem haladhatja meg
 
 a) az adott évet megelőző évben egyéni támogatásra kiírt pályázatok keretében befogadott valamennyi foglalkoztatási kapacitás legfeljebb 2%-ának és
 
 b)[^99] az egyéni támogatás – a szerződéskötés évében érvényes – egy hónapra számított keretösszege legfeljebb 24-szeresének
+
+a szorzatát.
 
 [^96]: A III/B. Fejezetet (42/A–42/G. §) a 335/2013. (IX. 20.) Korm. rendelet 24. §-a iktatta be.
 [^97]: A 42/A. § (1) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.

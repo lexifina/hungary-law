@@ -1,6 +1,4 @@
-## az éves támogatási szerződés alatt az (1) bekezdés szerinti támogatási szerződést kell érteni.
-
-55/B. §[^123] (1) Az az akkreditált munkáltató, amely a tárgyévre vonatkozó éves támogatási szerződéssel rendelkezik, a tárgyév decemberében – pályázati eljárás lefolytatása, valamint a keretszerződés és az éves támogatási szerződés módosítása nélkül – a rendelkezésre álló szabad előirányzat mértékéig egyszeri támogatásban (a továbbiakban: egyszeri támogatás) részesíthető, ha az akkreditált munkáltató
+55/B. §[^125] (1)[^126] Az az akkreditált munkáltató, amely a tárgyévre vonatkozó éves támogatási szerződéssel rendelkezik, a tárgyév decemberében – pályázati eljárás lefolytatása, valamint a keretszerződés és az éves támogatási szerződés módosítása nélkül – a rendelkezésre álló szabad előirányzat mértékéig egyszeri támogatásban (a továbbiakban: egyszeri támogatás) részesíthető, kivéve, ha az akkreditált munkáltató
 
 a) felszámolási eljárás vagy végelszámolás alatt áll, vagy
 
@@ -34,4 +32,7 @@ b) a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltat
 
 c) a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosításáról szóló 430/2015. (XII. 23.) Korm. rendelet hatálybalépését megelőző napon hatályos 55/B. § (3)–(5) bekezdését
 
-[^123]: Az 55/B. §-t a 340/2014. (XII. 19.) Korm. rendelet 1. §-a iktatta be, szövege a 430/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+kell alkalmazni.
+
+[^125]: Az 55/B. §-t a 340/2014. (XII. 19.) Korm. rendelet 1. §-a iktatta be, szövege a 430/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^126]: Az 55/B. § (1) bekezdése a 457/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

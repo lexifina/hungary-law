@@ -1,10 +1,10 @@
-55/A. §[^122] (1) 2015-ben a Hivatal – a 32. § (1) bekezdésétől eltérően – az 55. § (1) és (2) bekezdése szerinti döntés alapján
+55/A. §[^124] (1) 2015-ben a Hivatal – a 32. § (1) bekezdésétől eltérően – az 55. § (1) és (2) bekezdése szerinti döntés alapján
 
 a) 2015. január 31-éig a 2015. január 1-jétől 2015. június 30-áig terjedő időszakra, valamint
 
 b) 2015. július 31-éig a 2015. július 1-jétől 2015. december 31-éig terjedő időszakra
 
-## köt támogatási szerződést a munkáltatóval.
+köt támogatási szerződést a munkáltatóval.
 
 (2) A 2015. évi foglalkoztatáshoz nyújtott egyéni támogatások tekintetében
 
@@ -26,4 +26,6 @@ h) a 41. § (1) bekezdésében,
 
 i) a 49. § (2) bekezdésében
 
-[^122]: Az 55/A. §-t a 332/2014. (XII. 18.) Korm. rendelet 3. §-a iktatta be.
+az éves támogatási szerződés alatt az (1) bekezdés szerinti támogatási szerződést kell érteni.
+
+[^124]: Az 55/A. §-t a 332/2014. (XII. 18.) Korm. rendelet 3. §-a iktatta be.

@@ -1,5 +1,3 @@
-## a szorzatát.
-
 42/B. § (1) A munkahely-teremtési támogatás feltétele, hogy a munkáltató
 
 a) akkreditált munkáltató,

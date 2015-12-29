@@ -32,7 +32,7 @@ e) az (1) bekezdés f) pontja szerinti esetben az állásidő időtartamát meg�
 
 f) az a)–e) pontban nem említett esetben a visszavonásáról rendelkező határozat jogerőre emelkedésének napjával
 
-## kell visszavonni.
+kell visszavonni.
 
 (2) Ha a rehabilitációs akkreditációs tanúsítvány visszavonására az (1) bekezdés h) pontjában megjelölt okból kerül sor, az érintett munkáltató, illetve jogutódja az új rehabilitációs akkreditációs tanúsítvány iránti kérelmet legkorábban a tanúsítvány visszavonásáról rendelkező határozat jogerőre emelkedésétől számított két év elteltével nyújthatja be. Az ezt megelőzően benyújtott rehabilitációs akkreditációs tanúsítvány iránti kérelmet érdemi vizsgálat nélkül el kell utasítani.
 

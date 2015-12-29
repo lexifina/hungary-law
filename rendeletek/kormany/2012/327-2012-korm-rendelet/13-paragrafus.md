@@ -34,7 +34,7 @@ d) 251–1000 fő megváltozott munkaképességű munkavállaló esetén teljes 
 
 e) 1000 fő feletti megváltozott munkaképességű munkavállaló esetén teljes munkaidőben legalább 3 fő
 
-## rehabilitációs mentort munkaviszonyban foglalkoztatni.
+rehabilitációs mentort munkaviszonyban foglalkoztatni.
 
 (4) Rehabilitációs mentorként – az (5) bekezdésben foglaltak kivételével – az 1. melléklet szerinti képesítéssel és gyakorlattal rendelkező személy foglalkoztatható.
 
