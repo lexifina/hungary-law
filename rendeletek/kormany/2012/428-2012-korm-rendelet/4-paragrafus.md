@@ -16,10 +16,10 @@ b) – az Njtv. szerinti közmeghallgatás megtartására nem az a) pont szerint
 
 (5) A feladatalapú költségvetési támogatás a Njtv. szerinti kötelező nemzetiségi közfeladatok ellátásához közvetlenül kapcsolódó költségek finanszírozására használható fel.
 
-(6)[^16] A feladatalapú költségvetési támogatással kapcsolatos feladatok ellátásában az Emberi Erőforrás Támogatáskezelő (a továbbiakban: Támogatáskezelő) közreműködik a támogató által meghatározott rendben.
+(6)[^16]
 
 [^12]: A 4. § (1) bekezdése a 287/2014. (XI. 20.) Korm. rendelet 3. §-ával megállapított, nyitó és záró szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 85. § 6. pontja szerint módosított szöveg.
 [^13]: A 4. § (2) bekezdését a 287/2014. (XI. 20.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
 [^14]: A 4. § (3) bekezdése a 437/2013. (XI. 19.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 287/2014. (XI. 20.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^15]: A 4. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 83. §-ával megállapított szöveg.
-[^16]: A 4. § (6) bekezdését a 437/2013. (XI. 19.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^16]: A 4. § (6) bekezdését a 437/2013. (XI. 19.) Korm. rendelet 3. § (3) bekezdése iktatta be, hatályon kívül helyezte a 448/2015. (XII. 28.) Korm. rendelet 13. § a) pontja.

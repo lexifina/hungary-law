@@ -1,6 +1,6 @@
 ## I. Fejezet
 
-## A TELEPÜLÉSI NEMZETISÉGI ÖNKORMÁNYZAT, AZ ÁTALAKULT NEMZETISÉGI ÖNKORMÁNYZAT ÉS A TERÜLETI NEMZETISÉGI ÖNKORMÁNYZAT FELADATARÁNYOS TÁMOGATÁSA[^1]
+## A TELEPÜLÉSI NEMZETISÉGI ÖNKORMÁNYZAT, AZ ÁTALAKULT NEMZETISÉGI ÖNKORMÁNYZAT ÉS A TERÜLETI NEMZETISÉGI ÖNKORMÁNYZAT MŰKÖDÉSI ÉS FELADATALAPÚ TÁMOGATÁSA[^1]
 
 ## 1. Közös szabályok
 
@@ -20,7 +20,7 @@ nyújtható.
 
 (5)[^6] A helyi nemzetiségi önkormányzat a feladatarányos támogatás felhasználásáról beszámolót nyújt be a nemzetiségpolitikáért felelős miniszter (a továbbiakban: támogató) részére. A támogató a beszámoló elfogadásáról a nemzetiségpolitikáért felelős miniszter által vezetett minisztérium honlapján történő közzététellel értesíti a helyi nemzetiségi önkormányzatot.
 
-[^1]: Az I. fejezet címe a 397/2014. (XII. 31.) Korm. rendelet 85. § 1. pontja szerint módosított szöveg.
+[^1]: Az I. fejezet címe a 397/2014. (XII. 31.) Korm. rendelet 85. § 1. pontja, a 448/2015. (XII. 28.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 85. § 2. pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 85. § 3. pontja szerint módosított szöveg.
 [^4]: [Az 1. § (3) bekezdésének a 397/2014. (XII. 31.) Korm. rendelet 85. § 4. pontjával elrendelt módosítása, amely szerint a „települési nemzetiségi önkormányzatok vagy a területi” szövegrész helyébe a „helyi” szöveg lép, nem vezethető át.]

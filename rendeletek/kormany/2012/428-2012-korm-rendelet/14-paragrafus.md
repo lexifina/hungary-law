@@ -1,3 +1,3 @@
-## III. Fejezet[^33]
+## III. Fejezet[^39]
 
-[^33]: A III. fejezetet (14. §) a 20/2015. (II. 17.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^39]: A III. fejezetet (14. §) a 20/2015. (II. 17.) Korm. rendelet 21. §-a hatályon kívül helyezte.
