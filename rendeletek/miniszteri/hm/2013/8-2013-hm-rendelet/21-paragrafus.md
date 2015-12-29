@@ -1,4 +1,4 @@
-21. § (1) Az elidegenítési eljárás megbízott általi lebonyolítása esetén a megbízott által előkészített adásvételi szerződést a HM részéről a HM vagyonkezelői feladatokat ellátó szerv köti meg.
+21. § (1)[^5] A HM általi értékesítés esetén az adásvételi szerződést a HM képviseletében a HM vagyonkezelői feladatokat ellátó szerv állományába tartozó, a honvédelmi miniszter megbízólevelében kijelölt személy köti meg.
 
 (2) Az adásvételi szerződést a kötésétől számított 30 napon belül meg kell küldeni
 
@@ -17,3 +17,5 @@ a) a vevő tulajdonjogát,
 b) a haszonélvezeti jogot, ha a tulajdonjog átruházással egyidejűleg a vevő haszonélvezeti jogot is alapított,
 
 c) a HM javára a követelést biztosító jelzálogjogot, valamint elidegenítési és terhelési tilalmat, ha a tulajdonjog-átruházásra részletvétel útján került sor, vagy a szolgálati idő elismerés megelőlegezése a 8. § (4) bekezdésében meghatározott módon történt.
+
+[^5]: A 21. § (1) bekezdése a 15/2015. (XII. 21.) HM rendelet 31. §-ával megállapított szöveg.
