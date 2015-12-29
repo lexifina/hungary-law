@@ -1,0 +1,1 @@
+## 1. § A Kormány az egyrészről Izland, a Liechtensteini Hercegség és a Norvég Királyság, másrészről a Magyar Köztársaság között 2011. október 14-én létrejött, az EGT Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításáról szóló megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.

@@ -1,0 +1,1 @@
+(Az egyrészről Izland, a Liechtensteini Hercegség, a Norvég Királyság, és másrészről a Magyar Köztársaság között 2011. október 14-én létrejött, az EGT Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításáról szóló megállapodás Magyarország vonatkozásában 2015. november 24-én lépett nemzetközi jogilag hatályba.)
