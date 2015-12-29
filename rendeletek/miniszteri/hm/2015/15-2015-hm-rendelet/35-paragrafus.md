@@ -1,0 +1,1 @@
+## „(4) Ha a támogatott körülményeiben olyan változás következik be, amely alapján magasabb összegű támogatásra válna jogosulttá, a magasabb összegű támogatás kizárólag az erre irányuló kérelem benyújtásának napjától állapítható meg.”
