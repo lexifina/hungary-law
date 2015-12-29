@@ -1,5 +1,3 @@
-## teljes egészében visszafizetésre került.
-
 4. § (1) A lakáspénz havi összege legfeljebb a (2)–(4) bekezdésben meghatározott támogatási alapösszeg és rendfokozati szorzó szorzatának a saját háztartásban eltartott gyermek után járó kiegészítéssel megnövelt összege, amely azonban nem haladhatja meg a szerződéssel és számlával, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okirattal igazolt bérleti vagy lízingdíjat. A lakáspénz megállapítása során a bérleti és lízingdíjból le kell vonni az alapterület és a komfortfokozat alapján az állami tulajdonú HM vagyonkezelői jogú lakásra megállapítható lakbér összegét.
 
 (2) A támogatási alapösszeg

@@ -28,7 +28,9 @@
 
 14. a támogatott személy hivatásos vagy szerződéses katonai szolgálati viszonya megszűnt;
 
-15. a támogatott személy a lakáspénzt nem a lakhatásának megoldására fordította, vagy azzal más módon visszaélt, így különösen akkor, ha azért közölt valótlan adatot, vagy valós adatot, körülményt azért hallgatott el, hogy azzal jogtalan vagyoni előnyre tegyen szert.
+15.[^4] a támogatott személy a lakáspénzt nem a lakhatásának megoldására fordította, vagy azzal más módon visszaélt, így különösen akkor, ha azért közölt valótlan adatot, vagy valós adatot, körülményt azért hallgatott el, hogy azzal jogtalan vagyoni előnyre tegyen szert, vagy
+
+16.[^5] a támogatott személy a lakáspénz folyósításának megkezdésétől számított 30 napon belül nem igazolja, hogy a támogatott lakástól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz a honvédelmi szervtől utazási költségtérítésben nem részesül.
 
 (2) Nem kell alkalmazni:
 
@@ -38,7 +40,7 @@ b) az (1) bekezdés 5. és 6. pontját, ha az állami vagy önkormányzati laká
 
 c) az (1) bekezdés 10. pontját, ha a lízinghez támogatásban részesülő személy igazolja, hogy lakástakarékpénztári megtakarítása időközben a nyolcéves futamidőt elérte.
 
-(3) Az olyan szolgálati hely szerinti településre történt áthelyezés esetén, amelynek a vonzáskörzetébe a lakáspénzzel érintett lakóingatlan fekvése szerinti település nem tartozik bele, a lakáspénz folyósítását
+(3)[^6] A 3/B. §-ban foglalt kivétellel az olyan szolgálati hely szerinti településre történt áthelyezés esetén, amelynek a vonzáskörzetébe a lakáspénzzel érintett lakóingatlan fekvése szerinti település nem tartozik bele, a lakáspénz folyósítását
 
 a) az állomány egyedülálló tagja esetében az áthelyezést követő 3. hónap utolsó napjával,
 
@@ -57,3 +59,7 @@ b) a haláleset bekövetkezésétől számított 8. hónap utolsó napjáig tov�
 c) a haláleset bekövetkezésétől számított 6. hónap utolsó napjáig tovább kell folyósítani, ha az a) vagy a b) pontban meghatározott feltételek nem állnak fent.
 
 (6) Az (5) bekezdés szerinti továbbfolyósítás feltétele a lakóingatlanban együtt élő özvegy, túlélő élettárs vagy gyermek bérleti vagy lízingdíj fizetési kötelezettségének hitelt érdemlő igazolása. Továbbfolyósítás esetén a lakáspénzt a személyi jövedelemadó és társadalombiztosítási járulék várható összegével növelt összegben kell megállapítani. Az emelt összegű lakáspénz megállapítása során a folyósításért felelős pénzügyi szerv együttműködik az illetékes helyi lakásgazdálkodási szervvel. A folyósítás során a kifizető számára előírt levonásokat érvényesíteni kell.
+
+[^4]: A 6. § (1) bekezdés 15. pontja a 15/2015. (XII. 21.) HM rendelet 36. § a) pontja szerint módosított szöveg.
+[^5]: A 6. § (1) bekezdés 16. pontját a 15/2015. (XII. 21.) HM rendelet 33. §-a iktatta be.
+[^6]: A 6. § (3) bekezdés nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 36. § b) pontja szerint módosított szöveg.
