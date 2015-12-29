@@ -1,4 +1,4 @@
-## 52. [^143] A tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás
+## 52. [^146] A tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás
 
 103/C. § (1) A tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében
 
@@ -28,4 +28,4 @@ dd) számítógépes szoftver vásárlásának, fejlesztésének, valamint szaba
 
 (5) A támogatásnak – objektív módon meghatározott feltételek alapján – az érintett területen működő valamennyi támogatható vállalkozás számára hozzáférhetőnek kell lennie.
 
-[^143]: Az 52. alcímet (103/C. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^146]: Az 52. alcímet (103/C. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

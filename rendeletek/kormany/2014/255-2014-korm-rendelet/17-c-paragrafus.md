@@ -26,7 +26,7 @@
 
 12. 6. pont a) alpontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás,
 
-13. 6. pont b) alpontja alapján megújuló energia termeléséhez nyújtott beruházási támogatás,
+13.[^114] 4. pontja és 6. pont b) alpontja alapján megújuló energia termeléséhez nyújtott beruházási támogatás,
 
 14. 6. pontja alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás,
 
@@ -46,4 +46,9 @@
 
 22. 10. pont a) alpontja alapján az erdő-környezetvédelmi és éghajlattal kapcsolatos szolgáltatáshoz, valamint erdővédelmi célra nyújtott támogatás,
 
-23. 10. pont b) alpontja alapján az erdő genetikai erőforrásainak megőrzéséhez nyújtott támogatás
+23. 10. pont b) alpontja alapján az erdő genetikai erőforrásainak megőrzéséhez nyújtott támogatás,
+
+24.[^115] 4. pontja alapján energiahatékonysági intézkedéshez nyújtott beruházási támogatás
+
+[^114]: A 17/C. § 13. pontja a 445/2015. (XII. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^115]: A 17/C. § 24. pontját a 445/2015. (XII. 28.) Korm. rendelet 2. § (3) bekezdése iktatta be.

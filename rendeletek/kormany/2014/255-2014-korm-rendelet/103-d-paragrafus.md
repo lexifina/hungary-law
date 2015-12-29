@@ -1,4 +1,4 @@
-## 53. [^144] A tanácsadási szolgáltatáshoz nyújtott támogatás
+## 53. [^147] A tanácsadási szolgáltatáshoz nyújtott támogatás
 
 103/D. § (1) A tanácsadási szolgáltatáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a tanácsadásnak az 1305/2013/EU európai parlamenti és tanácsi rendelet 5. cikke szerinti prioritások közül legalább egyhez kapcsolódnia kell és ki kell terjednie
 
@@ -32,4 +32,4 @@ c) a rövid ellátási láncok kialakításával, az ökológiai gazdálkodássa
 
 (5) A támogatásnak – objektív módon meghatározott feltételek alapján – az érintett területen működő valamennyi támogatható vállalkozás számára hozzáférhetőnek kell lennie.
 
-[^144]: Az 53. alcímet (103/D. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^147]: Az 53. alcímet (103/D. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

@@ -10,6 +10,6 @@ c) csekély összegű támogatás esetén 2021. június 30-ig,
 
 d) csekély összegű közszolgáltatási támogatás esetén 2019. június 30-ig,
 
-e)[^123] az 50–66. alcím szerinti támogatás esetén 2021. június 30-ig
+e)[^126] az 50–66. alcím szerinti támogatás esetén 2021. június 30-ig
 
-[^123]: A 24. § e) pontját a 271/2015. (IX. 18.) Korm. rendelet 12. §-a iktatta be.
+[^126]: A 24. § e) pontját a 271/2015. (IX. 18.) Korm. rendelet 12. §-a iktatta be.

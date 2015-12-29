@@ -1,4 +1,4 @@
-20. §[^119] (1) A 651/2014/EU bizottsági rendelet vagy a 702/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében vagy a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
+20. §[^122] (1) A 651/2014/EU bizottsági rendelet vagy a 702/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében vagy a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
 (2) A beruházás megkezdésének napja
 
@@ -16,4 +16,4 @@ c) létesítmény felvásárlása esetén a felvásárlás időpontja vagy
 
 d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkorábbi időpont
 
-[^119]: A 20. § a 271/2015. (IX. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^122]: A 20. § a 271/2015. (IX. 18.) Korm. rendelet 9. §-ával megállapított szöveg.

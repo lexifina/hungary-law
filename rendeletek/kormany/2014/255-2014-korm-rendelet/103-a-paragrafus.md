@@ -1,4 +1,4 @@
-## 50. [^141] A termelői csoport vagy szervezet tevékenysége megkezdéséhez nyújtott támogatás
+## 50. [^144] A termelői csoport vagy szervezet tevékenysége megkezdéséhez nyújtott támogatás
 
 103/A. § (1) A termelői csoport vagy szervezet tevékenysége megkezdéséhez nyújtott támogatásban (ezen alcím vonatkozásában a továbbiakban: támogatás) az a termelői csoport vagy szervezet részesülhet, amelyet az érintett hatóság az üzleti terve alapján hivatalosan elismert.
 
@@ -32,4 +32,4 @@ c) olyan termelői csoport vagy szervezet részére, amelynek célkitűzései ö
 
 (8) A termelői csoport vagy szervezet keretében elfogadott megállapodásnak, döntésnek és összehangolt magatartásnak meg kell felelnie az 1308/2013/EU európai parlamenti és tanácsi rendelet 206–210. cikke szerinti rendelkezéseknek.
 
-[^141]: Az 50. alcímet (103/A. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^144]: Az 50. alcímet (103/A. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

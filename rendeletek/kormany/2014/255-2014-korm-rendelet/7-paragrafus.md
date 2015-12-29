@@ -50,7 +50,9 @@
 
 25.[^66] 7., 8., 10., 13., 21. és 23. pontja alapján közszolgáltatásért járó ellentételezés,
 
-26. 4. és 6. pontja alapján halászati- és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás
+26. 4. és 6. pontja alapján halászati- és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás,
+
+27.[^67] 1–6., 11., 19. és 21. pontja alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
 
 [^60]: A 7. § 2. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 22. pontja szerint módosított szöveg.
 [^61]: A 7. § 3. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 23. pontja szerint módosított szöveg.
@@ -59,3 +61,4 @@
 [^64]: A 7. § 12. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
 [^65]: A 7. § 24. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 27. pontja szerint módosított szöveg.
 [^66]: A 7. § 25. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 28. pontja szerint módosított szöveg.
+[^67]: A 7. § 27. pontját a 445/2015. (XII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.

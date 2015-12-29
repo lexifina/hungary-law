@@ -1,4 +1,4 @@
-## 65. [^156] A mezőgazdasági termék nem mezőgazdasági termékké való feldolgozásával vagy a gyapottermeléssel kapcsolatos beruházáshoz nyújtott támogatás
+## 65. [^159] A mezőgazdasági termék nem mezőgazdasági termékké való feldolgozásával vagy a gyapottermeléssel kapcsolatos beruházáshoz nyújtott támogatás
 
 103/P. § (1) A mezőgazdasági termék nem mezőgazdasági termékké való feldolgozásával vagy a gyapottermeléssel kapcsolatos beruházáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) tárgyi eszköz és immateriális javak beszerzéséhez nyújtható.
 
@@ -32,4 +32,4 @@ f) 10%-át a közép-magyarországi régióban található, az Atr. 25. § (1) b
 
 (5) Nem nyújtható támogatás bioüzemanyag vagy megújuló energiaforrásból származó energia előállításához kapcsolódó beruházáshoz.
 
-[^156]: A 65. alcímet (103/P. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^159]: A 65. alcímet (103/P. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

@@ -6,7 +6,7 @@
 
 (3) A támogatás keretében
 
-a)[^139] a szükséges aktív és passzív szélessávú infrastruktúra kiépítésének beruházási költsége,
+a)[^142] a szükséges aktív és passzív szélessávú infrastruktúra kiépítésének beruházási költsége,
 
 b) a szélessávú infrastruktúra kiépítéséhez kapcsolódó mélyépítési munkák beruházási költsége,
 
@@ -14,4 +14,4 @@ c) a szélessávú alaphálózat kiépítésének beruházási költsége, és
 
 d) a nagy sebességű újgenerációs hozzáférési hálózat kiépítésének beruházási költsége
 
-[^139]: A 86. § (3) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 66. pontja szerint módosított szöveg.
+[^142]: A 86. § (3) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 66. pontja szerint módosított szöveg.
