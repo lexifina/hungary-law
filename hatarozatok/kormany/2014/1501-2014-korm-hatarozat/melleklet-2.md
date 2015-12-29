@@ -20,7 +20,7 @@
 
 | 10. | KEOP-5.6.0/12-2013-0040 | Mozgássérült Emberek Rehabilitációs Központja | 736 798 102 |
 
-| 11. | KEOP-5.6.0/12-2013-0041 | Eötvös Loránd Tudományegyetem | 850 280 405 |
+| 11. | KEOP-5.6.0/12-2013-0041 | Eötvös Loránd Tudományegyetem | 5 850 280 405 |
 
 | 12. | KEOP-5.6.0/12-2013-0042 | Budapesti Gazdasági Főiskola | 340 189 570 |
 
