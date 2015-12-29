@@ -54,8 +54,8 @@
 
 ## i) egyetért azzal, hogy az egyes kiemelt sportegyesületek 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportfejlesztési feladataikkal összefüggő kormányzati intézkedésekről szóló 1835/2013. (XI. 15.) Korm. határozat 2. pontjában meghatározott feladatokon túl, a biztosított összeg a Magyar Testgyakorlók Körének adósságkonszolidációjára is felhasználható.
 
-## 2–5.[^1]
+## 2–5.[^2]
 
 1. melléklet az 1980/2015. (XII. 23.) Korm. határozathoz
 
-[^1]: A 2–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
