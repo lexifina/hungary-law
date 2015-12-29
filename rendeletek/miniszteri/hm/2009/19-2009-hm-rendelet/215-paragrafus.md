@@ -1,4 +1,4 @@
-215. §[^201] (1) Albérleti díj hozzájárulás állapítható meg:
+215. §[^231] (1) Albérleti díj hozzájárulás állapítható meg:
 
 a) szállodai vagy apartman jellegű kereskedelmi szálláshely bérletéhez,
 
@@ -42,4 +42,4 @@ c) a 10. § (1) és (4) bekezdés szerinti jogos lakásigény mérték megállap
 
 (6) A (3)–(5) bekezdések alapján megállapított, illetve kiszámított albérleti díj hozzájárulás összegét a szociális körülmények figyelembevételével az állományilletékes parancsnok további 10%-kal kiegészítheti, ha a jogosult családi pótlékban részesül.
 
-[^201]: A 215. § a 10/2014. (VII. 25.) HM rendelet 48. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^231]: A 215. § a 10/2014. (VII. 25.) HM rendelet 48. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.

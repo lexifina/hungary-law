@@ -1,4 +1,4 @@
-218. §[^208] (1) A helyi lakásgazdálkodási szerv az albérleti díj hozzájárulásra való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal ellenőrzi.
+218. §[^241] (1) A helyi lakásgazdálkodási szerv az albérleti díj hozzájárulásra való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal ellenőrzi.
 
 (2) Az ellenőrzés során a helyi lakásgazdálkodási szerv az illetményalap változásából eredő különbözettel történő kiegészítés vagy csökkentés érdekében eljár, továbbá a 217. § (1) bekezdésében megjelölt okok vonatkozásában a támogatott személyt 30 napos határidővel nyilatkozattételre hívja fel.
 
@@ -14,6 +14,7 @@
 
 (8) A HM rendelkezésű lakás juttatásában részesült személyt az albérleti díj hozzájárulással bérelt lakás (lakrész, szállodai vagy szállodai jellegű szoba) bérleti szerződésében kikötött felmondási időre, de legfeljebb a HM rendelkezésű lakás bérlőjéül történő kijelölést követő hónap végéig illeti meg a hozzájárulás. Ugyanígy kell eljárni akkor is, ha a jogosult házastársa (élettársa) részére juttat a honvédelmi szerv az albérleti díj hozzájárulásban részesülő személy szolgálati helye szerinti vonzáskörzetben HM rendelkezésű lakást.
 
-(9) Az eltérő vonzáskörzetben lévő településre kinevezett, áthelyezett, egy évet meghaladó határozott vagy határozatlan időtartamra más szervhez vezényelt hivatásos és szerződéses katona részére kérelmére, az új szolgálati helyre történő tényleges átköltözéséig, de legfeljebb a személyügyi határozatban (parancsban) megállapított kinevezési, áthelyezési, vezénylési határnaptól számított 3 hónapig folyósítható a korábban megállapított albérleti díj hozzájárulás, feltéve, hogy az állományilletékes parancsnok az új szolgálati helyen, valamint az annak vonzáskörzetén kívüli lakhatáshoz erre az időtartamra a Hjt.-ben előírt engedélyt megadta. Ebben az esetben a (8) bekezdés nem alkalmazható.
+(9)[^242] A 218/A. §-ban foglalt kivétellel az eltérő vonzáskörzetben lévő településre kinevezett, áthelyezett, egy évet meghaladó határozott vagy határozatlan időtartamra más szervhez vezényelt hivatásos és szerződéses katona részére kérelmére, az új szolgálati helyre történő tényleges átköltözéséig, de legfeljebb a személyügyi határozatban (parancsban) megállapított kinevezési, áthelyezési, vezénylési határnaptól számított 3 hónapig folyósítható a korábban megállapított albérleti díj hozzájárulás, feltéve, hogy az állományilletékes parancsnok az új szolgálati helyen, valamint az annak vonzáskörzetén kívüli lakhatáshoz erre az időtartamra a Hjt.-ben előírt engedélyt megadta. Ebben az esetben a (8) bekezdés nem alkalmazható.
 
-[^208]: A 218. § a 10/2014. (VII. 25.) HM rendelet 51. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^241]: A 218. § a 10/2014. (VII. 25.) HM rendelet 51. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^242]: A 218. § (9) bekezdése a 15/2015. (XII. 21.) HM rendelet 29. § h) pontja szerint módosított szöveg.

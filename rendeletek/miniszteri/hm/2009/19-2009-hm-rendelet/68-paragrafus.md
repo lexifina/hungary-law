@@ -1,8 +1,8 @@
 68. § (1) Ha a lakásbérlet megszűnését követően a 34. § (1) bekezdés szerinti bérbeadás nem lehetséges, a lakás volt bérlője a (2)–(4) bekezdésben foglalt esetek kivételével e rendeletben meghatározott megfelelő elhelyezésre tarthat igényt.
 
-(2)[^84] Nem tarthat igényt megfelelő elhelyezésre az, akinek a lakásbérlete a Lakástörvény 24. §-a (1) bekezdés a)–d) pontjában, valamint 28. §-ában foglalt felmondással szűnt meg.
+(2)[^94] Nem tarthat igényt megfelelő elhelyezésre az, akinek a lakásbérleti szerződése a bérleti díj vagy a bérlőt terhelő költségek és terhek megfizetésének elmulasztása vagy egyéb szerződésszegés miatti bérbeadói felmondás következtében, vagy bérlő általi rendes felmondással szűnt meg.
 
-(3)[^85] Nem tarthat igényt megfelelő elhelyezésre az a volt bérlő, akinek a HM szolgálati lakásra 1994. január 1-je előtt határozatlan időtartamra, továbbá a HM rendelkezésű lakásra a 30. § (1) bekezdés, valamint a 31. § (1) bekezdés szerinti feltétel bekövetkezéséig szólóan kötött bérleti szerződése azért szűnt meg, mert
+(3)[^95] Nem tarthat igényt megfelelő elhelyezésre az a volt bérlő, akinek a HM szolgálati lakásra 1994. január 1-je előtt határozatlan időtartamra, továbbá a HM rendelkezésű lakásra a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig szólóan kötött bérleti szerződése azért szűnt meg, mert
 
 a) hivatásos vagy szerződéses katonai szolgálati viszonya a létesítéstől számított tíz éven belül közös megegyezéssel szűnt meg;
 
@@ -42,16 +42,18 @@ r) közalkalmazotti vagy munkavállalói jogviszonya az egészségügyi ok kivé
 
 s) közalkalmazotti jogviszonya a büntetlen előélet, továbbá a munkakörének megfelelő vagy a munkakörének részét képező foglalkozástól eltiltás hatálya alatt nem állás igazolásának elmulasztása miatt szűnt meg.
 
-(3a)[^86] A (3) bekezdés a)–k) pontjában foglaltakat nem kell alkalmazni akkor, ha a hivatásos katona a szolgálati viszony megszűnésével egyidejűleg nyugellátásra vagy a megváltozott munkaképességű személyek ellátására szerzett jogosultságot.
+(3a)[^96] A (3) bekezdés a)–k) pontjában foglaltakat nem kell alkalmazni akkor, ha a hivatásos katona a szolgálati viszony megszűnésével egyidejűleg nyugellátásra vagy a megváltozott munkaképességű személyek ellátására szerzett jogosultságot.
 
 (4) Nem igényelhet megfelelő elhelyezést az a személy, akinek a lakásbérlete a
 
 a) szerződésben kikötött határozott idő elteltével,
 
-b) 9. § (1) bekezdésben foglalt kizáró ok alóli felmentés alapján kapott lakás tekintetében, a 30. § (1) bekezdés, továbbá a 31. § (1) bekezdés szerint kikötött feltétel bekövetkezésével,
+b)[^97] 9. § (1) bekezdésben foglalt kizáró ok alóli felmentés alapján kapott lakás tekintetében, a 30. § (1) bekezdés szerint kikötött feltétel bekövetkezésével,
 
-c) 30. § (1) bekezdéstől, továbbá a 31. § (1) bekezdéstől eltérően kikötött feltétel bekövetkezésével
+c)[^98] 30. § (1) bekezdéstől eltérően kikötött feltétel bekövetkezésével
 
-[^84]: A 68. § (2) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 10. pontja szerint módosított szöveg.
-[^85]: A 68. § (3) bekezdése a 22/2013. (X. 7.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^86]: A 68. § (3a) bekezdését a 22/2013. (X. 7.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^94]: A 68. § (2) bekezdése a 15/2015. (XII. 21.) HM rendelet 7. §-ával megállapított szöveg.
+[^95]: A 68. § (3) bekezdése a 22/2013. (X. 7.) HM rendelet 8. § (1) bekezdésével megállapított, nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 30. § d) pontja szerint módosított szöveg.
+[^96]: A 68. § (3a) bekezdését a 22/2013. (X. 7.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^97]: A 68. § (4) bekezdés b) pontja a 15/2015. (XII. 21.) HM rendelet 30. § e) pontja szerint módosított szöveg.
+[^98]: A 68. § (4) bekezdés c) pontja a 15/2015. (XII. 21.) HM rendelet 30. § f) pontja szerint módosított szöveg.

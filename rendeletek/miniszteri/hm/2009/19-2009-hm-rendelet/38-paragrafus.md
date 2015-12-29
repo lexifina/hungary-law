@@ -1,6 +1,6 @@
-## 37. §[^62]
+## 37. §[^65]
 
-38. § (1)[^63] A hivatásos és szerződéses tiszt, altiszt a részére bérbe adott HM rendelkezésű lakás részleges felújításához – kivéve, ha a lakás új, valamint részben vagy egészében felújított – részleges lakásfelújítási átalányra jogosult, ha a lakást
+38. § (1)[^66] A hivatásos és szerződéses tiszt, altiszt a részére bérbe adott HM rendelkezésű lakás részleges felújításához – kivéve, ha a lakás új, valamint részben vagy egészében felújított – részleges lakásfelújítási átalányra jogosult, ha a lakást
 
 a) első juttatásként,
 
@@ -14,12 +14,12 @@ kapta.
 
 (3) A hivatásos állomány tagja részére bérbeadott vezetői lakás tekintetében részleges lakásfelújítási átalány nem állapítható meg. A vezetői lakást – amennyiben az nem új – szükség szerint részben vagy egészében felújított állapotban kell a bérlő birtokába adni.
 
-(4)[^64]
+(4)[^67]
 
 (5) A részleges lakásfelújítási átalányra való jogosultságot a helyi lakásgazdálkodási szerv a bérlőkijelölésben állapítja meg.
 
 (6) A részleges lakásfelújítási átalány a lakás tisztasági festése, tapétázása, mázolása, a parkettaburkolat védőkezelése, valamint a lakás takarítása számlával igazolt anyag- és szolgáltatási költségeinek részleges visszatérítésére szolgáló, a lakhatási támogatásokkal összefüggő feladatok ellátásáról szóló HM utasításban közzétett mérték alapján számított pénzösszeg.
 
-[^62]: A 37. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
-[^63]: A 38. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^64]: A 38. § (4) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^65]: A 37. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^66]: A 38. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^67]: A 38. § (4) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.

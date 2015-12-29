@@ -94,7 +94,7 @@ b) beosztásának (11) bekezdés a) pontja szerinti megszűnése nélkül, új k
 
 c)[^13] más helyőrségben lévő katonai szervezet vagy ugyanazon katonai szervezet más helyőrségben lévő szervezeti egysége részére történő feladatátadással összefüggésben helyezték át az új helyőrségben rendszeresített szolgálati beosztásba.
 
-(13)[^14]
+(13)[^14] E rendelet alkalmazásában helyőrségváltás alatt az egy évet meg nem haladó időtartamú vezénylés esetének kivételével a szolgálati hely szerinti település megváltozását kell érteni.
 
 [^7]: A 3. § (2) bekezdés d)–e) pontját a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
 [^8]: A 3. § (3)–(4) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
@@ -103,4 +103,4 @@ c)[^13] más helyőrségben lévő katonai szervezet vagy ugyanazon katonai szer
 [^11]: A 3. § (8) bekezdés c) pontját a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
 [^12]: A 3. § (9) bekezdése a 4/2012. (IV. 5.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^13]: A 3. § (12) bekezdés c) pontját a 10/2014. (VII. 25.) HM rendelet 22. §-a iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
-[^14]: A 3. § (13) bekezdését a 4/2012. (IV. 5.) HM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése. Alkalmazására lásd ez utóbbi módosító rendelet 17–18. §-át.
+[^14]: A 3. § (13) bekezdését újonnan a 15/2015. (XII. 21.) HM rendelet 1. §-a iktatta be.

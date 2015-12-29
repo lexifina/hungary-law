@@ -1,4 +1,4 @@
-## 47. §[^67] A Lakástörvény 13. § (1)–(2) bekezdése szerinti bérlői kötelezettségektől eltérő megállapodást a helyi lakóházkezelő szerv nem köthet.
+## 47. §[^71] A Lakástörvény 13. § (1)–(2) bekezdése szerinti bérlői kötelezettségektől eltérő megállapodást a helyi lakóházkezelő szerv nem köthet.
 
 48. § (1) A bérlő a határozatlan időtartamra vagy a 30. § (1) bekezdése szerinti feltétel bekövetkezéséig bérelt lakása átalakítását, korszerűsítését a bérbeadóval kötött írásbeli megállapodás alapján végezheti el.
 
@@ -6,4 +6,4 @@
 
 (3) A lakás átalakításához, korszerűsítéséhez a hozzájárulást meg kell tagadni, illetve megállapodás nem köthető, ha a lakás olyan lakóépületben van, amelynek teljes felújítását, korszerűsítését 2 éven belül, illetőleg lebontását 5 éven belül tervezik.
 
-[^67]: A 47. § a 9/2010. (V. 4.) HM rendelet 12. § 6. pontja szerint módosított szöveg.
+[^71]: A 47. § a 9/2010. (V. 4.) HM rendelet 12. § 6. pontja szerint módosított szöveg.

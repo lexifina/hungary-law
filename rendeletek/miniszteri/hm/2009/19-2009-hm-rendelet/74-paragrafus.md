@@ -4,15 +4,16 @@
 
 (3) A megfelelő elhelyezésre jogosult részére – kérelmére – a HM központi lakásgazdálkodási szerv engedélyével az (1) bekezdés szerinti lakás más településen is bérbe adható, ha az lakásgazdálkodási érdeket nem sért. Ha azonban a lakás a lakásgazdálkodási szerv illetékességébe utalt településen van, a központi lakásgazdálkodási szerv engedélye nem szükséges.
 
-(4)[^88] Ha a jogcím nélkül használt lakás a megfelelő másik lakás követelményeinek felel meg, vagy annál legfeljebb egy lakószobával nagyobb, megfelelő elhelyezés címén a jogosultnak bérbe lehet adni, ha az nem sérti a lakásgazdálkodási érdekeket. Amennyiben a jogcím nélkül használt lakás az (1) bekezdésben meghatározott mértéknél több mint egy lakószobával nagyobb, a lakás megfelelő elhelyezés címén a honvédelmért felelős miniszter előzetes hozzájárulásával adható bérbe.
+(4)[^101] Ha a jogcím nélkül használt lakás a megfelelő másik lakás követelményeinek felel meg, vagy annál legfeljebb egy lakószobával nagyobb, megfelelő elhelyezés címén a jogosultnak bérbe lehet adni, ha az nem sérti a lakásgazdálkodási érdekeket. Amennyiben a jogcím nélkül használt lakás az (1) bekezdésben meghatározott mértéknél több mint egy lakószobával nagyobb, a lakás megfelelő elhelyezés címén a honvédelmért felelős miniszter előzetes hozzájárulásával adható bérbe.
 
 (5) Megfelelő elhelyezésként lehetőség szerint önkormányzati tulajdonú lakást kell adni; ilyenkor a bérlőkijelölés (kiválasztás) csak a bérlő (bérlőtársak), a vele együtt költözők megnevezésére és a bérbeadás határozatlan időtartamra szóló jellegére tartalmazhat kikötést.
 
 (6) HM rendelkezésű önkormányzati lakás hiányában a jogcím nélküli használók elhelyezését lehetőség szerint az e célra kijelölt állami tulajdonú HM vagyonkezelésű lakóépületben lévő lakásokkal kell megoldani. A vállalkozói HM rendelkezésű lakást megfelelő elhelyezés címén nem lehet bérbe adni.
 
-(7) A megfelelő elhelyezésre nem jogosult személy részére – különösen akkor, ha háztartásában 18. életévét be nem töltött gyermeke vagy tartósan fogyatékos hozzátartozója ellátásáról gondoskodik – kivételes méltányosságból legfeljebb másfél szobás lakás adható elhelyezésként, amennyiben a 9. § (1) bekezdésben foglalt lakásjuttatást kizáró ok esetében nem áll fent. Ha a jogcím nélküli használó a honvédelmi szerv állományába tartozó személy, részére a lakást a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig lehet bérbe adni. A lakás a helyi lakásgazdálkodási szerv illetékességi területéhez tartozó (utalt) településen vagy méltányolható kérelem alapján – a HM központi lakásgazdálkodási szerv engedélyével – az ország más településén is lehet.
+(7)[^102] A megfelelő elhelyezésre nem jogosult személy részére – különösen akkor, ha háztartásában 18. életévét be nem töltött gyermeke vagy tartósan fogyatékos hozzátartozója ellátásáról gondoskodik – kivételes méltányosságból legfeljebb másfél szobás lakás adható elhelyezésként, ha a 9. § (1) bekezdésében foglalt, lakásjuttatást kizáró ok esetében nem áll fent. A lakás a helyi lakásgazdálkodási szerv illetékességi területéhez tartozó, utalt településen vagy méltányolható kérelem alapján, a HM központi lakásgazdálkodási szerv engedélyével, az ország más településén is lehet.
 
-(8)[^89] Jogcím nélküli lakáshasználó elhelyezésére kijelölt állami tulajdonú HM vagyonkezelői jogú lakóépületnek kell tekinteni az e célra a HM központi lakásgazdálkodási szerv által nevesítetten kijelölt, valamint – a 113. § (2) bekezdés szerinti lakóépület kivételével – a honvédelemért felelős miniszter által e rendelet szerint elidegenítésre kijelölt lakóépületet.
+(8)[^103] Ha a jogcím nélküli használó a honvédelmi szerv állományába tartozó személy, részére a lakás a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig adható bérbe.
 
-[^88]: A 74. § (4) bekezdése a 22/2013. (X. 7.) HM rendelet 9. §-ával megállapított szöveg.
-[^89]: A 74. § (8) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 11. pontja szerint módosított szöveg.
+[^101]: A 74. § (4) bekezdése a 22/2013. (X. 7.) HM rendelet 9. §-ával megállapított szöveg.
+[^102]: A 74. § (7) bekezdése a 15/2015. (XII. 21.) HM rendelet 9. §-ával megállapított szöveg.
+[^103]: A 74. § (8) bekezdése a 15/2015. (XII. 21.) HM rendelet 9. §-ával megállapított szöveg.

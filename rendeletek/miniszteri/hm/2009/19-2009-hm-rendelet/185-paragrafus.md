@@ -1,7 +1,7 @@
 ## 184. § A vissza nem térítendő juttatásban részesülő személy – részben vagy egészben – tulajdonába kerülő lakásra a támogatás nyújtásától számított öt év időtartamra a Honvédelmi Minisztérium javára elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyeztetni.
 
-185. § (1)[^144] A vissza nem térítendő juttatás iránti kérelmet az e célra, valamint a munkáltatói kölcsönre rendszeresített „Lakáscélú támogatás igénylő lap”-on, a lakáscélú támogatási szervhez lehet benyújtani a kérelmezett támogatás vagy támogatások megjelölésével.
+185. § (1)[^166] A vissza nem térítendő juttatás iránti kérelmet az e célra, valamint a munkáltatói kölcsönre rendszeresített „Lakáscélú támogatás igénylő lap”-on, a lakáscélú támogatási szervhez lehet benyújtani a kérelmezett támogatás vagy támogatások megjelölésével.
 
 (2) Ha a vissza nem térítendő juttatásra irányuló kérelem elbírálására már csak a jogosult szolgálati viszonyának megszűnése után kerül sor, az egyéb feltételek megléte esetén az igényét teljesíteni kell, és intézkedni kell a juttatás részére történő folyósítására.
 
-[^144]: A 185. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^166]: A 185. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (7) bekezdés b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 168. §[^123]
+## 168. §[^141]
 
-169. §[^124] (1) Szálló férőhely elhelyezést kaphat:
+169. §[^142] (1) Szálló férőhely elhelyezést kaphat:
 
 a) a hivatásos katona, a szerződéses katona a szolgálati hely szerinti településen vagy annak vonzáskörzetében, egy évet meg nem haladó időtartamú vezénylés esetén a szolgálatteljesítés helye szerinti településen;
 
@@ -22,7 +22,7 @@ c) legénységi állományú katonák
 
 (4) Az (1) bekezdés a)–c) pontjában felsorolt személyek házastársa, élettársa, gyermeke, valamint a honvédelmi szerv állományába nem tartozó egyéb személyek elhelyezéséről, az (5) bekezdésben foglalt kivétellel, a helyi lakásgazdálkodási szerv dönt.
 
-(5)[^125] A honvédelmi szerv állományába nem tartozó személyek a központi lakásgazdálkodási szerv előzetes engedélyével kaphatnak a helyőrségi szállón elhelyezést, ha
+(5)[^143] A honvédelmi szerv állományába nem tartozó személyek a központi lakásgazdálkodási szerv előzetes engedélyével kaphatnak a helyőrségi szállón elhelyezést, ha
 
 a) az elhelyezés időtartama meghaladja az egy hónapot, vagy
 
@@ -46,6 +46,6 @@ c) a HM tulajdonosi joggyakorlása alá tartozó gazdasági társaság munkavég
 
 (11) A szálló férőhelyek elosztásáról a helyi lakásgazdálkodási szerv vezetője dönt. A helyőrségi szállók egységes házirendjét a HM vagyonkezelői feladatokat ellátó szerv vezetője a HM központi lakásgazdálkodási szerv vezetőjének jóváhagyásával teszi közzé.
 
-[^123]: A 168. §-t a 22/2013. (X. 7.) HM rendelet 27. § b) pontja hatályon kívül helyezte.
-[^124]: A 169. § a 22/2013. (X. 7.) HM rendelet 10. §-ával megállapított szöveg.
-[^125]: A 169. § (5) bekezdése a 10/2014. (VII. 25.) HM rendelet 35. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^141]: A 168. §-t a 22/2013. (X. 7.) HM rendelet 27. § b) pontja hatályon kívül helyezte.
+[^142]: A 169. § a 22/2013. (X. 7.) HM rendelet 10. §-ával megállapított szöveg.
+[^143]: A 169. § (5) bekezdése a 10/2014. (VII. 25.) HM rendelet 35. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
