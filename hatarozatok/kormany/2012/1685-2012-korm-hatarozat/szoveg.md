@@ -112,9 +112,9 @@ b) a határozatok és az állásfoglalások teljes szövegének eredeti aláír�
 
 34. A Tanács a működésének részletes szabályait a Kbtv., valamint e határozat előírásainak figyelembevételével az ügyrendjében határozza meg. Az ügyrend elfogadásához valamennyi tag 2/3-ának egyetértő szavazata szükséges.
 
-35. A Tanács munkáját az Országos Kémiai Biztonsági Intézetben (a továbbiakban: OKBI) működő titkárság segíti (a továbbiakban: Titkárság).
+35.[^1] A Tanács munkáját az Országos Közegészségügyi Központ Országos Kémiai Biztonsági Igazgatóságán (a továbbiakban: OKK–OKBI) működő titkárság segíti (a továbbiakban: Titkárság).
 
-36. A Titkárság vezetője az OKBI főigazgatója vagy az általa kijelölt személy.
+36.[^2] A Titkárság vezetője az OKK–OKBI igazgatója vagy az általa kijelölt személy.
 
 37. A Titkárság vezetője tanácskozási joggal vesz részt a Tanács ülésein.
 
@@ -133,3 +133,6 @@ e) a Tanács működéséhez szükséges információk beszerzéséről, rendelk
 f) a Tanács működési költségvetésének előkészítéséről.
 
 39. Ez a határozat 2013. január 1-jén lép hatályba.
+
+[^1]: A 35. pont az 1995/2015. (XII. 28.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^2]: A 36. pont az 1995/2015. (XII. 28.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
