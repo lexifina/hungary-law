@@ -1,0 +1,1 @@
+## 1. § A Kormány a Norvég Királyság és a Magyar Köztársaság között 2011. október 12-én létrejött, a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításáról szóló megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.

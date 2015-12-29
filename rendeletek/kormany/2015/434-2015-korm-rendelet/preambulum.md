@@ -1,0 +1,1 @@
+(A Norvég Királyság és Magyar Köztársaság között 2011. október 12-én létrejött, a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításáról szóló megállapodás Magyarország vonatkozásában 2015. november 24-én lépett nemzetközi jogilag hatályba.)
