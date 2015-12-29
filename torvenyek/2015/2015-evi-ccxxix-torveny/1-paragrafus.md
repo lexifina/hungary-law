@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Horvátország Európai Unióhoz történő csatlakozásának figyelembevételével egyrészről az Európai Unió és tagállamai, másrészről a Koreai Köztársaság között létrejött szabadkereskedelmi megállapodáshoz csatolt Kiegészítő Jegyzőkönyvet (a továbbiakban: Kiegészítő Jegyzőkönyv) e törvénnyel kihirdeti.
