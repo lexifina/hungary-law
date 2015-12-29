@@ -1,0 +1,316 @@
+# A Kormány 479/2015. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 207. szám, 2015. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/309ef8a8f595ea39b407b514a69963e2d9e000c1/dokumentumok/85daf8e78042dda84e541bf5d8f46dd13b52545a/letoltes)
+
+---
+
+A Kormány 479/2015. (XII. 29.) Korm. rendelete
+a hadigondozásról szóló 1994. évi XLV. törvény végrehajtásáról szóló 113/1994. (VIII. 31.) Korm. rendelet
+módosításáról
+A Kormány a hadigondozásról szóló 1994. évi XLV. törvény 28. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A hadigondozásról szóló 1994. évi XLV. törvény végrehajtásáról szóló 113/1994. (VIII. 31.) Korm. rendelet
+(a továbbiakban: R.) 1. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az (1) bekezdés szerinti kérelem benyújtásának feltétele a magyar állampolgárság igazolása.”
+2. §
+Az R. 2. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A hadieredetű fogyatkozást és az általa okozott – a járadékosztályba sorolás alapját képező –
+egészségkárosodás százalékos mértékét
+a) a kérelmező lakóhelye vagy tartózkodási helye szerint illetékes, rehabilitációs szakértői feladatkörében eljáró
+fővárosi és megyei kormányhivatal,
+
+b) a külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar állampolgár
+kérelmező esetén a rehabilitációs szakértői feladatkörében eljáró Budapest Főváros Kormányhivatala
+(a továbbiakban: BFKH)
+[az a) és b) pont szerinti szerv a továbbiakban együtt: fővárosi és megyei kormányhivatal] állapítja meg.
+(2) Azt a kérelmezőt, aki hadirokkantként kéri nyilvántartásba vételét, illetve azt a hadirokkantat, aki magasabb
+járadékosztályba történő besorolását kéri, az elsőfokú hadigondozási hatóság a 2. melléklet szerinti nyomtatvány
+felhasználásával a fővárosi és megyei kormányhivatal elé utalja vizsgálat céljából.
+(3) A Magyarországon lakóhellyel vagy tartózkodási hellyel rendelkező kérelmező esetében a vizsgálat helyéről
+és idejéről a kérelmező lakóhelye vagy tartózkodási helye szerint illetékes, rehabilitációs szakértői feladatkörében
+eljáró fővárosi és megyei kormányhivatal a vizsgálatot megelőzően legalább nyolc nappal írásban értesíti
+a kérelmezőt. A külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar
+állampolgár esetén a BFKH a vizsgálatot megelőzően legalább harminc nappal írásban értesíti a kérelmezőt.”
+3. §
+Az R. 15. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha a tanú lakóhelye vagy tartózkodási helye máshol van, az elsőfokú hadigondozási hatóság megkeresésére
+a tanú
+a) a lakóhelye vagy tartózkodási helye szerinti járási hivatal, vagy
+b) külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező tanú esetén a 16. § szerinti
+szerv
+előtt is tehet nyilatkozatot.”
+4. §
+Az R. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar állampolgár
+kérelmező a hadigondozás iránti kérelmét a lakóhelye szerinti államban működő magyar diplomáciai vagy hivatásos
+konzuli képviseleten (a továbbiakban: diplomáciai és konzuli képviselet) is benyújthatja, kizárólag személyes
+megjelenés útján.”
+5. § (1) Az R. 2. melléklete helyébe az 1. melléklet lép.
+(2) Az R. 3. melléklete helyébe a 2. melléklet lép.
+(3) Az R. 4. melléklete helyébe a 3. melléklet lép.
+(4) Az R. 5. melléklete helyébe a 4. melléklet lép.
+(5) Az R. az 5. melléklet szerinti 5/B. melléklettel egészül ki.
+(6) Az R. 6. melléklete helyébe a 6. melléklet lép.
+6. §
+Az R.
+a) 2. § (4) bekezdésében, 4. § (2) bekezdésében, 5. § (1) és (4) bekezdésében, 6. § (2) bekezdésében, 7. §
+(2) bekezdésében„a járási hivatal”szövegrész helyébe az„az elsőfokú hadigondozási hatóság”szöveg,
+b) 7. § (1) bekezdésében az „a járási hivatalnak” szövegrész helyébe az „az elsőfokú hadigondozási hatóságnak”
+szöveg,
+c) 8. § (1) bekezdésében az „elhunyt hadirokkant lakóhelye szerint illetékes járási hivatal” szövegrész helyébe
+az „elhunyt hadirokkant lakóhelye vagy tartózkodási helye szerint illetékes elsőfokú hadigondozási hatóság”
+szöveg,
+d) 8. § (2) bekezdésében az „a járási hivatal” szövegrész helyébe az „az (1) bekezdés szerinti elsőfokú
+hadigondozási hatóság”szöveg,
+e) 11. § (1) bekezdésében az „a lakóhelye szerint illetékes járási hivatal” szövegrész helyébe az „az elsőfokú
+hadigondozási hatóság”szöveg,
+f) 12. § (4) bekezdésében, 14. § (3) bekezdésében az „A járási hivatal” szövegrész helyébe az „Az elsőfokú
+hadigondozási hatóság”szöveg,
+g) 15. § (2) bekezdésében a„lakóhelye”szövegrész helyébe a„lakóhelye vagy tartózkodási helye”szöveg,
+h) 16. § (2) bekezdésében a„Budapest Főváros Kormányhivatala”szövegrész helyébe az„a BFKH”szöveg,
+i) 16. § (4) bekezdés a) pontjában a „ha ennek elháríthatatlan akadálya nincs” szövegrész helyébe a „kivéve, ha
+ennek beszerzése aránytalan érdeksérelmet okozna”szöveg
+lép.
+
+7. §
+Hatályát veszti az R. 7. § (2) bekezdésében az„1994. évi VI. törvénnyel módosított”szövegrész.
+8. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 479/2015. (XII. 29.) Korm. rendelethez
+„2. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez
+Hadirokkantként történő nyilvántartásba vételhez, valamint hadirokkant magasabb járadékosztályba történő
+besorolásához szükséges vizsgálat formanyomtatványa
+Első- vagy másodfokú hadigondozási hatóság megnevezése
+Szám: Tárgy: Hadieredetű fogyatkozás vizsgálata
+Hiv. sz.:
+Mell.:
+A fővárosi és megyei kormányhivatal vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetőjének
+A hadigondozásról szóló 1994. évi XLV. törvény 3. § (3) bekezdése alapján kérem .................... nevű személy vizsgálatát.
+Szül. ideje:....
+Személyi igazolvány száma:.....
+Anyja leánykori neve:.....
+Lakóhelye/Tartózkodási helye:.....
+Hadieredetű fogyatkozás miatti munkaképesség-csökkenés legutóbb megállapított mértéke:.....%
+Hadieredetű fogyatkozása:.....
+Kérem véleményének közlését arról, hogy nevezett
+a) jelenlegi hadieredetű fogyatkozása miatti egészségkárosodás milyen mértékű?
+b) mások rendszeres ápolására szorul-e?
+c) utazásnál kísérőre szorul-e?
+d) gyógyászati segédeszköz használatára szorul-e, ha igen, milyenre?
+Kelt:.....
+P. H.
+hatóság vezetőjének aláírása”
+
+A fővárosi és megyei kormányhivatal vezetője vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője
+…………………………
+Szám:………………… Tárgy: Szakhatósági állásfoglalás/Szakvélemény hadieredetű
+fogyatkozásról és az általa okozott egészségkárosodás mértékéről
+Hiv. sz.:
+Mell.:
+………………………… úr, (nő)
+Hadigondozási hatóság
+…………………………
+Megkeresésére értesítem, hogy .........................
+(szül. év:) ...........................................
+alatti lakos
+a) hadieredetű fogyatkozás miatti egészségkárosodás jelenlegi mértéke ...........................%
+b) mások rendszeres ápolására: szorul — nem szorul
+c) utazáshoz kísérőre: szorul — nem szorul
+d) gyógyászati segédeszköz használatára: rászorul — nem szorul, a szükséges gyógyászati segédeszköz megnevezése:
+.................................................
+.................................................
+.................................................
+.................................................
+.................................................
+2. melléklet a 479/2015. (XII. 29.) Korm. rendelethez
+„3. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez
+
+A szakvélemény alapjául szolgáló indokok:
+.....................................................
+.....................................................
+.....................................................
+.....................................................
+.....................................................
+Vizsgálati adatok
+Kórelőzmény:
+Jelen állapot (a működési zavarok pontos feltüntetésével):
+Egyéb vizsgálatok eredményei:
+Diagnózis:
+Kelt: ………………… …… év ……………… hó …… nap
+P. H.
+…………………………… ……………………………
+(fővárosi és megyei kormányhivatal vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője)”
+
+ELSŐFOKÚ HADIGONDOZÁSI HATÓSÁG RÉSZÉRE
+Családi és utóneve: ............................
+Lakóhelye/Tartózkodási helye: .....................................
+Anyja leánykori neve: ..........................
+Születési hely, idő: ...........................
+1. Kijelentem, hogy hadigondozásba vételem időpontjában ugyanazon sérelem alapján a nemzeti gondozásról szóló
+1992. évi LII. törvény alapján nem részesülök pénzellátásban.*
+2. Tudomásul veszem, hogy a számomra nemzeti gondozás címén eddig folyósított pénzellátásom a hadigondozásba
+vétel időpontjával, illetve a hadigondozotti pénzellátás folyósításának kezdetével megszűnik.*
+3. Büntetőjogi felelősségem tudatában kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek, más
+hatóság előtt sem a jelenleg igényelt, sem más hadigondozási ellátás iránti kérelmet nem terjesztettem elő.
+4. Hozzájárulok, hogy személyes adataimat kizárólag a hadigondozás céljából a hadigondozási hatóság kezelje.
+………………………… …… év …………… hó …… nap
+……………………………
+hadigondozott aláírása
+-------
+Figyelem:
+Minden újonnan hadigondozásba vett személy esetén kitöltendő!
+* A nem kívánt szövegrész törlendő!”
+3. melléklet a 479/2015. (XII. 29.) Korm. rendelethez
+„4. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez
+
+ELSŐFOKÚ HADIGONDOZÁSI HATÓSÁG RÉSZÉRE
+Igénybejelentés
+az egyösszegű térítés megállapításához
+Az igénylő családi és utóneve: .........................
+Leánykori név: .........................................
+Lakóhelye/Tartózkodási helye: .............................................
+Anyja leánykori neve: ..................................
+Születési hely, idő: ...................................
+Kérem szíveskedjék részemre megállapítani a hadigondozásról szóló 1994. évi XLV. törvény 10. §-ában meghatározott
+egyösszegű térítést.
+Az egyösszegű térítést mint
+- hadirokkant,
+- hadiözvegy,
+- volt hadiárva,
+- volt hadigyámolt,
+- volt hadigondozott családtag
+igényelem.*
+………………………… ……… év …………… hó …… nap.
+…………………………
+igénylő
+-------
+* A megfelelő szövegrész aláhúzandó!”
+4. melléklet a 479/2015. (XII. 29.) Korm. rendelethez
+„5. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez
+
+KÉRELEM
+Igénybejelentés külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar
+állampolgár esetében, a volt hadiárva, a volt hadigondozott családtag, és volt hadigyámolt rendszeres havi
+járadékának megállapításához.
+Az igénylő:
+családi és utóneve: ____________________________________________________________________
+születési neve: ____________________________________________________________________
+születési helye, ideje: ____________________________ ________év __________hó _______nap
+lakóhelye: _____________ország _________________helység ___________________utca
+_______hsz. ______em. _______ajtó ________ir.sz.
+tartózkodási helye: _____________ország __________________helység
+___________________utca
+_______hsz. ______em. _______ajtó ________ir.sz.
+anyja születési neve és házassági neve: __________________________________________________________________________
+anyja születési ideje, születési helye: ____________________________________________________________________________
+anyja utolsó ismert lakcíme: ___________________________________________________________________________________
+TAJ száma*: ___________________________________________________________________________
+*(kitöltése csak abban az esetben szükséges, amennyiben rendelkezik magyar társadalombiztosítási azonosító jellel)
+nyugdíjfolyósítási törzsszáma*:
+_____________________________________________________________________
+______
+*(kitöltése csak abban az esetben szükséges, amennyiben rendelkezik magyar nyugdíjfolyósítási törzsszámmal)
+telefonszáma, levelezési címe (ha eltérő): ________________________________________________________________________
+Az elesett, hadifogságban elhunyt szülő (volt hadigondozott családtag esetén unoka, gyermek vagy testvér,
+továbbá volt hadigyámolt esetén a veszteséget szenvedett szülő) neve, akinek jogán a volt hadiárva, volt
+hadigyámolt, volt hadigondozott családtag a havi rendszeres járadékot igényli:
+____________________________________________________________________________________________________
+Az elesett, eltűnt, hadifogságban elhunyt személy elhalálozásának (volt hadigyámolt esetén a szülő által
+elszenvedett veszteség) ideje, helye, ezen személy utolsó ismert lakóhelye vagy tartózkodási helye:
+(elhalálozás hadi eredetének igazolása szükséges)
+____________________________________________________________________________________________________
+5. melléklet a 479/2015. (XII. 29.) Korm. rendelethez
+„5/B. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez
+
+Az elesett, eltűnt, hadifogságban elhunyt személy (volt hadigyámolt esetén a veszteséget szenvedett szülő)
+adatai:
+Neve: ……………………………………………….
+Születési helye, ideje: ……………………………..
+Anyja neve:………………………………………….
+Kérem, szíveskedjék részemre megállapítani a hadigondozásról szóló 1994. évi XLV. törvény 14/A. §-ában vagy
+15/A. §-ában meghatározott havi rendszeres járadékot.
+A havi rendszeres járadékot mint:
+- volt hadiárva
+- volt hadigyámolt
+- volt hadigondozott családtag
+igénylem. *
+(*A megfelelő rész aláhúzandó.)
+Az eljárás megindításáról kérelmére értesítjük.
+Nyilatkozatok: (Kérjük, húzza alá a megfelelő részt!)
+1. Nyilatkozom, hogy magyar állampolgársággal rendelkezem, melynek igazolására csatolom:
+a) érvényes magyar személyazonosító igazolványom másolatát
+b) érvényes magyar útlevelem másolatát
+c) érvényes állampolgársági bizonyítványom másolatát
+d) honosítási okiratom másolatát
+2. Nyilatkozom, hogy igényem 1949. január 1-je előtt bekövetkezett veszteségen alapul, de
+a) pénzellátásomat a hadirokkantak és más hadigondozottak ellátásáról szóló 1933. évi VII. törvénycikk 6.§ h) és i)
+pontja alapján megszüntették
+b) pénzellátásomat politikai okból megszüntették vagy szüneteltették
+c) pénzellátás iránti kérelmemet politikai okból elutasították
+d) ez irányú kérelmet politikai okból elő sem terjesztettem
+3. A 2. pontban tett nyilatkozatom igazolására
+a) csatolom a rendelkezésemre álló iratokat
+b) iratokkal nem rendelkezem
+4. Folyósítási adatok:
+(Akkor kell kitölteni, ha a Nyugdíjfolyósító Igazgatóságtól ellátásban nem részesül. Tájékoztatjuk, hogy a
+hadigondozotti ellátást folyósító szerv kizárólag olyan számlára teljesíthet utalást, mely felett Önnek rendelkezési
+joga van. Amennyiben a Nyugdíjfolyósító Igazgatóság más címen is folyósít ellátást az ön részére, a hadigondozási
+ellátást csak az egyéb ellátásával együtt, a már bejelentett lakcímre, illetve bankszámlára tudja folyósítani.)
+
+Kérem, hogy a megállapított járadékot részemre az alábbi pénzintézetnél vezetett számlaszámra szíveskedjenek
+folyósítani.
+Pénzforgalmi szolgáltató neve és pontos címe:
+_____________________________________________________________________
+A pénzforgalmi szolgáltató SWIFT azonosítója/(BIC) kódja:
+_________________________________________________________
+Nemzetközi bankszámlaszám (IBAN):
+__________________________________________________________________________
+A megjelölt fizetési számla feletti rendelkezési joga önálló? Igen Nem
+Ha nem, társtulajdonosként rendelkezik a számla felett? Igen Nem
+Hozzájárulok, hogy személyes adataimat kizárólag a hadigondozás céljából a hadigondozási hatóság kezelje.
+Kelt: ____________________________ ________év _________________hó _______nap
+________________________________________
+igénylő”
+
+Igazolvány száma: nyomdai szám
+1—100 000-ig
+[ELSŐFOKÚ HADIGONDOZÁSI HATÓSÁG MEGNEVEZÉSE]
+HADIGONDOZOTTI IGAZOLVÁNY
+..........................................
+hadi ...............................részére
+(2. oldalra)
+SZEMÉLYI ADATOK
+Név: ...............................................
+Szül. hely: ...................................... év ...................hó ...... nap
+Anyja neve: ...................................
+Lakóhelye/Tartózkodási helye: .......................................
+Hadigondozotti minősége: ......... %-os
+hadi..........................
+Állandó kísérőre szorul: igen—nem*
+………………………… …… év …………… hó …… nap.
+P. H.
+…………………………
+HATÓSÁG VEZETŐJÉNEK ALÁÍRÁSA
+-------
+* A megfelelő válasz aláhúzandó!
+(3., illetve 4. oldalra)
+A hadigondozottat a hadigondozásról szóló 1994. évi XLV. törvény alapján a következő kedvezmények illetik meg,
+amelyeket ezen igazolvány felmutatásával vehet igénybe:
+22. § (1) A hadirokkant és hadiözvegy térítésmentesen veheti igénybe a helyi tömegközlekedési és a helyközi
+(távolsági) tömegközlekedési (vonat, autóbusz, hajó, komp stb.) eszközöket.
+(2) Ha a hadirokkant bármely fogyatkozása miatt az orvosszakértői szerv szakvéleménye alapján kísérőre szorul, a
+kísérőt is megilleti a térítésmentes utazási kedvezmény.
+(3) A mozgáskorlátozott személyeket megillető támogatások megállapítása során — az azonos feltételek fennállása
+esetén — a hadirokkantat előnyben kell részesíteni.
+24. § A hadirokkant és hadiözvegy a vásárcsarnokokban és a piacokon a helypénz megfizetése nélkül árusíthatja saját
+kisipari és mezőgazdasági termékeit, illetve terményeit.
+Figyelmeztetés:
+1. Ezt az igazolványt a hatóságokhoz benyújtandó kérelemhez (beadványhoz) csatolni nem szabad.
+2. Csak személyazonossági igazolvánnyal együtt érvényes.
+3. Az igazolvány elvesztését a tulajdonos a kiállító hatósággal 8 napon belül köteles közölni.”
+6. melléklet a 479/2015. (XII. 29.) Korm. rendelethez
+„6. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez

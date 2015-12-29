@@ -1,0 +1,223 @@
+# A Kormány 477/2015. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 207. szám, 2015. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/309ef8a8f595ea39b407b514a69963e2d9e000c1/dokumentumok/85daf8e78042dda84e541bf5d8f46dd13b52545a/letoltes)
+
+---
+
+A Kormány 477/2015. (XII. 29.) Korm. rendelete
+a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet
+módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet (a továbbiakban:
+Korm. rendelet) 3. § 2. pont c) alpontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában a beruházás megkezdése:)
+„c) létesítmény felvásárlása esetén a felvásárlásra irányuló szerződés aláírásának időpontja,”
+(2) A Korm. rendelet 3. § 22. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„22. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás,
+amelyhez kapcsolódóan az elszámolható költség jelenértéken meghaladja az 50 millió eurónak megfelelő
+forintösszeget a támogatás nyújtásának napján érvényes árakon és a 9. § (2) bekezdése szerinti árfolyamon számítva
+azzal, hogy a nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni
+a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval
+
+egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor
+háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett,
+regionális beruházási támogatásban részesülő beruházást;”
+(3) A Korm. rendelet 3. § 25. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„25. regionális szolgáltató központ: olyan szervezeti egység, amely pénzügyi, emberi erőforrás menedzsmenti,
+információs technológiai, szoftverfejlesztési, adatközpont-szolgáltatási, jogi, beszerzési, marketing, elemző, kutatás-
+fejlesztési, vagy hasonló szakmai szolgáltatásokat nyújt egy vállalat vagy vállalatcsoport saját belső részlegeinek,
+vagy külső ügyfeleinek üzleti szolgáltatásként és tevékenységét jellemzően több országra kiterjedően, minden
+esetben infokommunikációs technológia alkalmazásával végzi;”
+(4) A Korm. rendelet 3. § 33. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„33. újonnan létesített munkahelyek száma: a beruházónál vagy – kivéve, ha a beruházás elszámolható költségét
+a 20. § szerinti elszámolható költség képezi – a beruházóval beszállítói szerződéses kapcsolatban álló, a 6. §-nak
+megfelelő jogi személynél a beruházás eredményeként közvetlenül létrejött új munkahelyek, amelyek
+a beruházáshoz köthető tevékenységhez kapcsolódnak, ideértve az olyan munkahelyeket is, amelyek a beruházás
+által létrehozott kapacitás kihasználtság arányának növelése következtében jöttek létre és amelyek létrehozására
+és fenntartására a beruházó kötelezettséget vállal, összehasonlítva a létesítménynek a beruházás megkezdését
+megelőző 12 hónap átlagos statisztikai állományi létszámával, vagy ha a beruházó ennél magasabb létszámra
+vállalt más támogatási szerződésben létszámteremtést az adott létesítményben, úgy azzal, hozzátéve, hogy mindkét
+esetben az újonnan létrehozott munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás
+alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;”
+(5) A Korm. rendelet 3. §-a a következő 35. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„35. üzleti terv: beruházó által angol vagy magyar nyelven készített dokumentum, amely az alábbi tartalmi elemeket
+foglalja magában:
+a) vezetői összefoglaló,
+b) beruházó vállalat bemutatása,
+c) beruházás részletes költségtervvel alátámasztott bemutatása,
+d) külső és belső környezet elemzése: makrogazdasági elemzés, iparági elemzés, versenytársak elemzése és SWOT
+analízis,
+e) pénzügyi terv, ideértve eredményterv, mérlegterv, cash-flow terv benyújtása.”
+2. §
+A Korm. rendelet 7. § h) pontja helyébe a következő rendelkezés lép:
+(Támogatás a 8. §-ban meghatározottak kivételével bármely iparágban és gazdasági területen megvalósuló
+beruházáshoz nyújtható, de a támogatás meghatározásakor előnyt élveznek az alábbi iparágakban és gazdasági
+területen megvalósuló beruházások:)
+„h) tudás-intenzív regionális szolgáltató központok létesítése vagy bővítése.”
+3. §
+A Korm. rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A támogatás a következő célokra vehető igénybe:
+a) induló beruházás megvalósítása – a beruházó méretétől függetlenül –,
+aa) ha a beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri a Fejér, Komárom-
+Esztergom és Győr-Moson-Sopron megyében a 20 millió eurónak megfelelő forintösszeget,
+ab) ha a beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri
+az Észak-Magyarország, Észak-Alföld, Dél-Alföld és Dél-Dunántúl tervezési-statisztikai régióban, valamint Vas,
+Veszprém és Zala megyében a 10 millió eurónak megfelelő forintösszeget,
+ac) ha a beruházás az Atr. 25. § (1) bekezdés a)–c) pontjában meghatározott régióban – az elszámolható
+költségeinek nagyságától függetlenül – a beruházónál foglalkoztatottak éves átlagos statisztikai állományi
+létszámának tényleges növekedését eredményezi legalább az új munkahelyek számának megfelelő mértékben
+a beruházás megkezdését megelőző 12 hónap átlagához vagy ha az magasabb, a beruházó más támogatási
+szerződésben rögzített létszámvállalásához képest, és az újonnan létesített munkahelyek száma eléri az 50-et,
+feltéve, hogy regionális szolgáltató központ létrehozatalára vagy bővítésére irányul;
+
+b) induló beruházás kis- és középvállalkozás által történő megvalósítása az Atr. 25. § (1) bekezdés d) pont
+da)–db) alpontjában meghatározott területen, ha a beruházás 18. § szerinti elszámolható költségeinek összege
+folyó áron számolva eléri a 20 millió eurónak megfelelő forintösszeget, vagy ha a beruházás – az elszámolható
+költségeinek nagyságától függetlenül – a beruházónál foglalkoztatottak éves átlagos statisztikai állományi
+létszámának tényleges növekedését eredményezi legalább az új munkahelyek számának megfelelő mértékben
+a beruházás megkezdését megelőző 12 hónap átlagához, vagy ha az magasabb, a beruházó más támogatási
+szerződésben rögzített létszámvállalásához képest, és az újonnan létesített munkahelyek száma eléri az 50-et,
+feltéve, hogy regionális szolgáltató központ létrehozatalára vagy bővítésére irányul;
+c) új gazdasági tevékenység végzésére irányuló induló beruházás nagyvállalkozás által történő megvalósítása az Atr.
+25. § (1) bekezdés d) pont da)–db) alpontjában meghatározott területen, ha a beruházás 18. § szerinti elszámolható
+költségeinek összege folyó áron számolva eléri a 20 millió eurónak megfelelő forintösszeget vagy ha a beruházás
+– az elszámolható költségeinek nagyságától függetlenül – a beruházónál foglalkoztatottak éves átlagos statisztikai
+állományi létszámának tényleges növekedését eredményezi legalább az új munkahelyek számának megfelelő
+mértékben a beruházás megkezdését megelőző 12 hónap átlagához, vagy ha az magasabb, a beruházó más
+támogatási szerződésben rögzített létszámvállalásához képest, és az újonnan létesített munkahelyek száma eléri
+az 50-et, feltéve, hogy regionális szolgáltató központ létrehozatalára vagy bővítésére irányul;
+d) munkahelyteremtési célú induló beruházás megvalósítása – a beruházó méretétől függetlenül – az Atr.
+25. § (1) bekezdés a)–c) pontjában meghatározott régióban, ha a beruházás 20. § szerinti elszámolható
+költségeinek összege folyó áron számolva eléri a 10 millió eurónak megfelelő forintösszeget vagy ha a beruházás
+– az elszámolható költségeinek nagyságától függetlenül – a beruházónál foglalkoztatottak éves átlagos statisztikai
+állományi létszámának tényleges növekedését eredményezi legalább az új munkahelyek számának megfelelő
+mértékben a beruházás megkezdését megelőző 12 hónap átlagához, vagy ha az magasabb, a beruházó más
+támogatási szerződésben rögzített létszámvállalásához képest, és az újonnan létesített munkahelyek száma eléri
+az 50-et, feltéve, hogy regionális szolgáltató központ létrehozatalára vagy bővítésére irányul;
+e) munkahelyteremtési célú induló beruházás kis- és középvállalkozás által történő megvalósítása az Atr. 25. §
+(1) bekezdés d) pont da)–db) alpontjában meghatározott területen, ha a beruházás 20. § szerinti elszámolható
+költségeinek összege folyó áron számolva eléri a 10 millió eurónak megfelelő forintösszeget vagy ha a beruházás
+– az elszámolható költségeinek nagyságától függetlenül – a beruházónál foglalkoztatottak éves átlagos statisztikai
+állományi létszámának tényleges növekedését eredményezi legalább az új munkahelyek számának megfelelő
+mértékben a beruházás megkezdését megelőző 12 hónap átlagához, vagy ha az magasabb, a beruházó más
+támogatási szerződésben rögzített létszámvállalásához képest, és az újonnan létesített munkahelyek száma eléri
+az 50-et, feltéve, hogy regionális szolgáltató központ létrehozatalára vagy bővítésére irányul;
+f) munkahelyteremtési célú, új gazdasági tevékenység végzésére irányuló induló beruházás nagyvállalkozás
+által történő megvalósítása az Atr. 25. § (1) bekezdés d) pont da)–db) alpontjában meghatározott területen,
+ha a beruházás 20. § szerinti elszámolható költségeinek összege folyó áron számolva eléri a 10 millió eurónak
+megfelelő forintösszeget vagy ha a beruházás – az elszámolható költségeinek nagyságától függetlenül –
+a beruházónál foglalkoztatottak éves átlagos statisztikai állományi létszámának tényleges növekedését eredményezi
+legalább az új munkahelyek számának megfelelő mértékben a beruházás megkezdését megelőző 12 hónap
+átlagához, vagy ha az magasabb, a beruházó más támogatási szerződésben rögzített létszámvállalásához képest, és
+az újonnan létesített munkahelyek száma eléri az 50-et, feltéve, hogy regionális szolgáltató központ létrehozatalára
+vagy bővítésére irányul;
+g) ha az új gazdasági tevékenység végzésére irányuló induló beruházás 18. § szerinti elszámolható költségeinek
+összege folyó áron számolva eléri az Észak-Magyarország, az Észak-Alföld, a Dél-Alföld és a Dél-Dunántúl tervezési-
+statisztikai régióban, valamint Vas, Veszprém és Zala megyében az 5 millió eurónak megfelelő forintösszeget, és
+az újonnan létesített munkahelyek száma eléri a 100-at.”
+4. § (1) A Korm. rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A támogatás feltétele, hogy
+a) a beruházás elszámolható költségeinek összege elérje a 9. § (1) és (2) bekezdésében meghatározott elszámolható
+költséget; és
+b) a beruházás a beruházónál vagy – ha a beruházás elszámolható költségét nem a 20. § (1) bekezdése szerint
+elszámolható költség képezi – a beruházóval beszállítói szerződéses kapcsolatban álló, a 6. §-nak megfelelő
+jogi személynél a foglalkoztatottak éves átlagos statisztikai állományi létszámának tényleges növekedését
+eredményezze legalább az új munkahelyek számának megfelelő mértékben a beruházás megkezdését megelőző
+
+12 hónap átlagához, vagy ha az magasabb, a beruházó más támogatási szerződésben rögzített létszámvállalásához
+képest, és az újonnan létesített munkahelyek száma elérje
+ba) a Közép-Magyarország tervezési-statisztikai régióban, valamint Fejér, Komárom-Esztergom és
+Győr-Moson-Sopron megyében a 100-at, regionális szolgáltató központ létrehozatalára vagy bővítésére irányuló
+beruházás esetében az 50-et,
+bb) az Észak-Magyarország, az Észak-Alföld, a Dél-Alföld és a Dél-Dunántúl tervezési-statisztikai régióban, valamint
+Vas, Veszprém és Zala megyében az 50-et;
+c) a beruházó a beruházás megkezdésekor már meglévő vagy ha az magasabb, a beruházó más támogatási
+szerződésben rögzített létszámvállalásában szereplő foglalkoztatottak átlagos statisztikai állományi létszámát és
+ennek a beruházás során létrejött tényleges növekményét a kötelező üzemeltetési időszak alatt az érintett területen
+fenntartsa;
+d) a beruházó a beruházást a támogatási szerződésben vállalt feltételek mellett az érintett területen legalább
+a kötelező üzemeltetési időszakban fenntartsa;
+e) a beruházó az elszámolható költségek legalább 25%-át saját forrásból biztosítsa és a teljes beruházás
+megvalósításához szükséges költségek forrását a támogató számára bemutassa;
+f) a beruházó a kötelező üzemeltetési időszak minden üzleti évében elérje az Sztv. 79. §-ában meghatározott
+ráfordítások, költségek, egyéb kifizetések és bérjárulékok éves összegének a támogatási kérelmében feltüntetett
+mértékét.”
+(2) A Korm. rendelet 14. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(Ha a beruházás)
+„b) meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését
+eredményező induló beruházás, valamint a meglévő létesítmény tevékenységének új tevékenységgel történő
+bővítését eredményező, új gazdasági tevékenység végzésére irányuló induló beruházás, a támogatás feltétele,
+hogy az elszámolható költségek legalább 200%-kal meghaladják az eredeti tevékenység keretében használt és az új
+tevékenység keretében is használni tervezett eszközök a beruházás megkezdése előtti adóévben nyilvántartott
+könyv szerinti értékét.”
+(3) A Korm. rendelet 14. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Ha az újonnan létesített munkahelyek (1) bekezdés b) pontjában meghatározott száma egészben vagy részben
+a beruházóval beszállítói szerződéses kapcsolatban álló, a 6. §-nak megfelelő jogi személynél jelentkezik, úgy
+a támogatási szerződésben e jogi személyt is fel kell tüntetni azzal, hogy ebben az esetben a beruházás (1) bekezdés
+c)–d) pontja szerinti fenntartásáért kizárólag a beruházó felel, a kötelezettségek megtartásának ellenőrzéséhez
+szükséges adatszolgáltatást azonban a beruházóval beszállítói szerződéses kapcsolatban álló jogi személynek
+cégszerűen aláírt egyoldalú nyilatkozatban vállalnia kell. Az egyoldalú nyilatkozat megtétele a támogatási szerződés
+hatályba lépésének feltétele.”
+5. § (1) A Korm. rendelet 16. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(Ha)
+„a) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó
+a támogatási kérelem benyújtását megelőző két évben a támogatási kérelemmel érintett tevékenységgel azonos
+vagy hasonló tevékenységet szüntetett meg az EGT más tagállamában vagy a támogatási kérelem benyújtásakor
+tervezi, hogy a támogatási kérelem benyújtásától a beruházás befejezéséig, továbbá a beruházás befejezésétől
+számított két éven belül a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet
+szüntet meg az EGT más tagállamában, vagy”
+(2) A Korm. rendelet 16. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Ha a tárgyi eszköz és a támogatható immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak
+támogatást, ezen tárgyi eszköz és támogatható immateriális javak költségét le kell vonni a létesítmény
+felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai
+vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és támogatható immateriális javaknak a vevőtől
+független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.”
+6. §
+A Korm. rendelet 17. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A beruházás elszámolható költsége a beruházó támogatási kérelemben feltüntetett döntése szerint)
+„b) kizárólag a beruházás által létrehozott munkahelyek 24 naptári hónapra számfejtett személyi jellegű ráfordításai,
+az adott munkahely létrehozatalától kezdődően.”
+
+7. § (1) A Korm. rendelet 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 9. § (1) bekezdés a)–c) és g) pontjában meghatározott támogatási célok alá tartozó beruházás esetében
+az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el
+a (2) bekezdésben meghatározott kivételekkel.”
+(2) A Korm. rendelet 18. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
+(Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén)
+„h) azon eszközök, berendezések, amelyek a támogatási kérelem benyújtása előtt bérleti vagy egyéb hasonló
+konstrukció keretében, továbbá tesztelési, próbaüzemi céllal a beruházónál bármely telephelyen már használatban
+voltak, továbbá a százezer forint, vagy annál kisebb bekerülési értékű tárgyi eszközök,”
+(3) A Korm. rendelet 18. § (2) bekezdés u) és v) pontja helyébe a következő rendelkezések lépnek:
+(Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén)
+„u) kamatráfordítások, valamint árfolyamveszteségek,
+v) működési költségek, ide nem értve a fedezetkezelői bankszámla vezetésének díját,”
+8. §
+A Korm. rendelet 20. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A beruházás során személyi jellegű ráfordításként az Sztv. 79. §-ában meghatározott költségek számolhatók el,
+kivéve a kiküldetési rendelvény alapján költségtérítésen alapuló kifizetések.”
+9. §
+A Korm. rendelet 22. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A Kormány állásfoglalása alapján a támogató támogatási szerződést köt a beruházóval. A támogatási szerződés
+megkötését megelőzően a kezelő szerv egy helyszíni vizsgálat keretében megvizsgálja a támogatás jogszabályi
+feltételeinek meglétét, így különösen azt, hogy a beruházó által rendelkezésre bocsátott üzleti terv kellően részletes
+és megalapozott. A támogatási szerződést kizárólag a helyszíni vizsgálat megtörténtét követően lehet megkötni.”
+10. § (1) A Korm. rendelet 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A beruházó a támogatás legalább százhúsz százalékára vonatkozó biztosíték rendelkezésre bocsátására köteles.
+Ha a támogatás több részletben kerül kifizetésre, a beruházó a már számára korábban kifizetett és az adott naptári
+évben számára kifizetni ütemezett támogatás együttes összegének százhúsz százalékára vonatkozó biztosíték
+rendelkezésre bocsátásával is eleget tesz e kötelezettségének.”
+(2) A Korm. rendelet 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A (2) bekezdésben meghatározott biztosíték mellett a támogatási szerződésben további biztosíték nyújtását
+is elő kell írni. Biztosíték lehet az óvadék, a bankgarancia, a készfizető kezesség vagy jelzálogjog, valamint ezek
+egyidejű vagy időben egymást követő kombinációja. E biztosítékok körét és kombinációját a támogató jogosult
+meghatározni úgy, hogy az a támogatás maradéktalan, a lehető legrövidebb időn belüli visszafizetését – ideértve
+a jogszabály vagy a támogatási szerződés alapján járó esetleges kamatokat – eredményesen biztosítsa.”
+11. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

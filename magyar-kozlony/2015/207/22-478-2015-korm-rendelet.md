@@ -1,0 +1,246 @@
+# A Kormány 478/2015. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 207. szám, 2015. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/309ef8a8f595ea39b407b514a69963e2d9e000c1/dokumentumok/85daf8e78042dda84e541bf5d8f46dd13b52545a/letoltes)
+
+---
+
+A Kormány 478/2015. (XII. 29.) Korm. rendelete
+a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól
+szóló 374/2014. (XII. 31.) Korm. rendelet módosításáról
+A Kormány a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 15. §-ában foglalt felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól
+szóló 374/2014. (XII. 31.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. § (5) bekezdése helyébe a következő
+rendelkezés lép:
+
+„(5) Ha a tulajdoni hányad már a jogutód tulajdonában (vagyonkezelésében) van, akkor a járási hivatalnak – ha
+ez korábban nem történt meg – 15 napos határidő tűzésével nyilatkoztatni kell arról, hogy jogutódként fenntartja-e
+a kérelmet.”
+2. § (1) A Korm. rendelet 4. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(A megosztási eljárásban a járási hivatal feladata:)
+„g) a földrészlet természetbeni állapotának az ingatlan-nyilvántartásban szereplő adatokkal való összehasonlítása
+céljából végzett helyszíni szemle lefolytatása (a továbbiakban: mezőgazdászi helyszínelés), ha szükséges a művelési
+ág változásának átvezetése, az f) pontban meghatározott határidőig,”
+(2) A Korm. rendelet 4. § (1) bekezdés k) pontja helyébe a következő rendelkezés lép:
+(A megosztási eljárásban a járási hivatal feladata:)
+„k) a 15. § (1) bekezdésében, valamint a 16. §-ban meghatározott egyezség esetén befogadó nyilatkozat kiállítása és
+közlése,”
+(3) A Korm. rendelet 4. § (3) bekezdés b) pont ba) alpontja helyébe a következő rendelkezés lép:
+(Földmérői feladatnak minősül különösen:
+az egyeztetés,)
+„ba) az illetékes közlekedési hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, abban az esetben,
+ha a mezőgazdasági termelés szállítási és közlekedési feladatainak kiszolgálására, továbbá feltételeinek
+megteremtése érdekében kialakítandó új út (a továbbiakban: szántóföldi műveleti út) országos, vagy helyi közútra
+közvetlenül csatlakozik,”
+(4) A Korm. rendelet 4. § (3) bekezdése a következő h) ponttal egészül ki.
+(Földmérői feladatnak minősül különösen:)
+„h) az első egyezségi meghívó kiküldését megelőzően, a 15. § (5) bekezdés e) és f) pontja szerinti adatok közlése,
+a jogi szolgáltató részére.”
+(5) A Korm. rendelet 4. § (4) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A megosztási eljárásban jogi szolgáltatói feladatnak minősül különösen:)
+„c) az alábbi nyilatkozatok beszerzése arra vonatkozóan, hogy
+ca) az uniós állami támogatás visszatéríttetésére vonatkozó eljárás a kérelmezővel szemben fennáll,
+cb) a 702/2014/EU bizottsági rendelet I. mellékletében meghatározott feltételeknek megfelelő vállalkozásnak
+tekinthető-e a kérelmező,
+cc) az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális
+támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szerinti nehéz helyzetben lévő vállalkozásnak minősül-e
+a kérelmező.”
+(6) A Korm. rendelet 4. § (4) bekezdés f) pontja helyébe a következő rendelkezés lép:
+(A megosztási eljárásban jogi szolgáltatói feladatnak minősül különösen:)
+„f) a 15. §-ban és a 16. §-ban meghatározott egyezség, valamint a 21. § (1) bekezdése szerinti sorsolási megállapodás
+esetén a jogi képviselet ellátása az ingatlan-nyilvántartási eljárásban,”
+3. §
+A Korm. rendelet 7. §-a helyébe a következő rendelkezés lép:
+„7. § A járási hivatal a jogi szolgáltató és a földmérő részére történő, a 4. § (1) bekezdés f) pontja szerinti
+adatszolgáltatásával egy időben a tulajdonosokat postai úton értesíti a földrészlet megosztásának megkezdéséről,
+a nyertes jogi szolgáltatóról és földmérőről, a megosztási eljárás során az őt megillető lehetőségekről, az eljárás
+lefolytatásáról, valamint a további értesítések módjáról.”
+4. §
+A Korm. rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A megosztási eljárás előkészítése mezőgazdászi helyszínelésből és a keretmérésből áll. A keretmérés során
+– a járási hivatal által esetlegesen biztosított, a keretmérés végrehajtásához technológiát meghatározó vázlatnak
+megfelelően – a helyszíni állapot műszaki felmérésére kerül sor. A mezőgazdászi helyszínelésről és a keretmérésről
+a kérelmezőket előzetesen nem kell értesíteni. A mezőgazdászi helyszínelésről és a keretmérésről jegyzőkönyvet kell
+felvenni.”
+5. § (1) A Korm. rendelet 9. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
+„(3a) Külterületen a szántó művelési ágú földrészletek megközelítéséhez 6 méter, egyéb művelési ágú földrészlet
+megközelítéséhez 4 méter széles szántóföldi műveleti utat kell kialakítani.
+
+(3b) Belterületen a településrendezési eszközzel összhangban lévő szélességű szántóföldi műveleti utat kell
+kialakítani.”
+(2) A Korm. rendelet 9. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) A szántóföldi műveleti út kialakításakor az ingatlanügyi hatóság önálló földrészletként jegyzi be az utat
+az ingatlan-nyilvántartásba. A földrészletek megközelítésére szolgáló szántóföldi műveleti utak kialakításához
+szükséges terület AK értékével azoknak a földrészleteknek az AK értékét kártalanítás nélkül arányosan csökkenteni
+kell, amelyek területéből kialakításra kerül.”
+6. §
+A Korm. rendelet 10. §-a helyébe a következő rendelkezés lép:
+„(1) A megosztási eljárás akkor folytatható le, ha
+a) a járási hivatal a keretmérésről készült mérési vázlatot megvizsgálta és megállapítja, hogy a földrészlet ingatlan-
+nyilvántartási és természetbeni állapota megegyezik, vagy
+b) az a) pont szerinti feltétel teljesítéséhez szükséges adatváltozás ingatlan-nyilvántartási átvezetésére irányuló
+eljárás jogerősen lezárult.
+(2) Az (1) bekezdésben foglaltak teljesüléséről a járási hivatal haladéktalanul, elektronikus úton értesíti a jogi
+szolgáltatót és a földmérőt.”
+7. § (1) A Korm. rendelet 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A járási hivatal az első egyezségi tárgyalásról készített jegyzőkönyv kézhezvételét követő 15 napon belül
+meghatározza a megosztás kiindulási helyét és irányát.”
+(2) A Korm. rendelet 11. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha a kérelmező a kérelmében, vagy az egyezségi tárgyaláson a megjelent kérelmezők egyhangúlag az osztás
+kiindulási helyére és irányára vonatkozó javaslatot tettek, a járási hivatalnak a javaslatban foglaltakra is figyelemmel
+kell lenni, feltéve, hogy az nem ellentétes az Fkbt. 12/G. § (2) bekezdésében meghatározott szempontokkal.
+A megosztás kiindulási helyét és irányát megállapító határozatban rendelkezni kell az új szántóföldi műveleti
+út helyzetének és szélességének kialakításával kapcsolatban a 4. § (3) bekezdés b) pont ba) és bb) alpontjaiban
+meghatározott egyeztetés szükségességéről.”
+(3) A Korm. rendelet 11. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
+„(6) A megosztás kiindulási helyét és irányát megállapító határozat jogerőre emelkedéséről a járási hivatal
+haladéktalanul értesíti elektronikus úton a jogi szolgáltatót, valamint a földmérőt.
+(7) A megosztási eljárás
+a) a megosztás kiindulási helyét és irányát megállapító határozat jogerőre emelkedése után, vagy
+b) a teljes körű egyezségnek a 15. § (2) bekezdése szerinti befogadását követően
+folytatható.”
+8. §
+A Korm. rendelet 12. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A változási vázrajz aláírását pótolja:
+a) egyezség esetén a kérelmezők aláírása,
+b) teljes körű egyezség esetén a tulajdonosok aláírása,
+a térképvázlaton és területkimutatáson.”
+9. § (1) A Korm. rendelet 15. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek, egyidejűleg a § a következő
+(2a) és (2b) bekezdéssel egészül ki:
+„(1) A kérelmezők a kiosztási sorrend egymás közötti meghatározására egyezséget köthetnek. Az egyezséget
+közokiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni (a továbbiakban: egyezségi okirat).
+Az egyezségi okiratnak tartalmaznia kell az egyezségben résztvevő kérelmezők arra vonatkozó egybehangzó
+nyilatkozatát, hogy a 11. § (1) bekezdése szerinti határozatban foglaltaknak megfelelően határozzák meg a tulajdoni
+hányaduknak megfelelő terület egymás közötti kiosztási rendjét, és ennek megfelelően készíttetik el a változási
+munkarészeket.
+(2) A jogi szolgáltatónak, a 10. § (2) bekezdése szerinti értesítést követően, a kérelmezők és a földmérő
+összehívásával meg kell kísérelnie az egyezség létrehozását.
+(2a) A 10. § (2) bekezdés szerinti értesítés és az első egyezségi tárgyalás között legfeljebb 30 nap telhet el.
+Az első egyezségi tárgyalást a 11. § (1) bekezdésben meghatározott határozat meghozatala előtt kell megtartani.
+Az egyezségi meghívót az egyezségi tárgyalás napját megelőzően legalább 15 nappal korábban kell megküldeni
+
+a kérelmezők és a földmérő részére. Az egyezségi tárgyalásról jegyzőkönyvet kell készíteni, amelyet a jogi
+szolgáltató – a tárgyalás napját követő – 8 napon belül megküld a járási hivatal részére. További egyezségi
+tárgyalások megtartását a kérelmezők egyhangúlag kérhetik a jogi szolgáltatótól, azzal, hogy az egyezségi
+meghívónak nem kell ismételten tartalmazni az (5) és (6) bekezdésben előírt ismertetéseket, valamint felhívásokat.
+(2b) Az egy kérelmezős földrészlet esetében a jogi szolgáltató a 10. § (2) bekezdésében meghatározott közlést
+követő 30 napon belül a 4. § (4) bekezdés c) és d) pontja szerinti nyilatkozatokat beszerzi. A nyilatkozatokról vagy
+azok hiányáról a nyilatkozatok kézhezvételét vagy a határidő elteltét követő 8 napon belül elektronikus úton
+tájékoztatja a járási hivatalt és a földmérő vállalkozót.”
+(2) A Korm. rendelet 15. § (8) és (9) bekezdése helyébe a következő rendelkezések lépnek:
+„(8) A kérelmezőnek az első egyezségi tárgyalás lezárásáig meg kell tennie a 4. § (4) bekezdés c) pontja szerinti
+nyilatkozatokat. Ha a kérelmező nem tesz nyilatkozatot, vagy visszatéríttetési eljárás alatt áll, vagy nehéz helyzetben
+lévő vállalkozásnak minősül, kérelmét visszavontnak kell tekinteni.
+(9) Amennyiben minden kérelmező visszavonja kérelmét, a járási hivatal a 10. § (1) bekezdésben foglaltak
+teljesülését követően a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény
+rendelkezései szerint megszünteti az eljárást.”
+(3) A Korm. rendelet 15. § (11) és (12) bekezdése helyébe a következő rendelkezések lépnek:
+„(11) A jogi szolgáltató elektronikus úton tájékoztatja a járási hivatalt és a földmérőt a visszavont kérelmekről.
+(12) A járási hivatal az (1) bekezdés, illetve a 16. § (1) bekezdés alapján megkötött egyezségről, egy kérelmező
+esetén a (18) bekezdés szerinti okiratról befogadó nyilatkozatot állít ki, amely azt igazolja, hogy a megosztási
+eljárás a továbbiakban az egyezség szabályai szerint folytatható. A befogadó nyilatkozatot 8 napon belül a járási
+hivatal a jogi szolgáltató útján közli az egyezséget benyújtó kérelmezőkkel, valamint elektronikus úton közvetlenül
+a földmérővel.”
+(4) A Korm. rendelet 15. § (17) és (18) bekezdése helyébe a következő rendelkezések lépnek:
+„(17) A megosztást a 11. § (1) bekezdése szerinti határozat alapján, és a 15. § (12) bekezdése szerinti befogadó
+nyilatkozattal rendelkező egyezség tartalma szerint kell elvégezni.
+(18) Egy kérelmező esetén a kérelem alapján kell a bejegyzés alapjául szolgáló okiratot elkészíteni.”
+10. §
+A Korm. rendelet a következő 15/A. §-sal egészül ki:
+„15/A. § (1) A földmérő az osztóprogram segítségével elkészíti és kinyomtatja a megosztási térképvázlatot, melyen
+fel kell tüntetni a kialakítandó földrészletek – ideértve a betervezett utakat és a közös tulajdonban maradó
+földrészleteket is – helyrajzi számait, határvonalait és a kiosztott földrészletek tulajdonosainak nevét az egyezség
+szerint.
+(2) Az R. alapján a földmérő elkészíti az egyezségnek megfelelő területkimutatást.”
+11. §
+A Korm. rendelet 16. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+„(3) Teljes körű egyezség esetén a járási hivatal
+a) nem hoz a 11. § (1) bekezdés szerinti határozatot, vagy
+b) a 11. § (1) bekezdés szerinti határozatát hatályon kívül helyezi.
+(4) Ha a teljes körű egyezség földrészlet tulajdonjogának változását érintő megállapodást is tartalmaz, azt – ha
+jogszabályi előírásba nem ütközik, figyelemmel a mező- és erdőgazdasági földek forgalmáról szóló törvény
+rendelkezéseire – a teljes körű egyezségnek megfelelően kell az ingatlan-nyilvántartásba bejegyezni.”
+12. § (1) A Korm. rendelet 19. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
+(A sorsolásról a helyszínen jegyzőkönyvet kell készíteni, amely tartalmazza:)
+„i) mellékletként az osztóprogram segítségével a földmérő által elkészített és kinyomtatott megosztási
+térképvázlatot, melyen fel kell tüntetni a kialakítandó földrészletek – ideértve a betervezett utakat és a közös
+tulajdonban maradó földrészleteket is – helyrajzi számait, határvonalait és a kiosztott földrészletek tulajdonosainak
+nevét,”
+(2) A Korm. rendelet 19. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Sorsolás esetén a változásátvezetési eljárás alapjául szolgáló okirat az (1) és (2) bekezdés szerinti jegyzőkönyv.”
+13. §
+A Korm. rendelet 21. § -a a következő (4a) bekezdéssel egészül ki:
+„(4a) A sorsolás során a kérelmezők helyszíni használatát figyelembe kell venni és az új földrészletek sorrendjét
+a használatnak megfelelően kell kialakítani, feltéve, hogy
+
+a) az nem ellentétes az Fkbt. 12/G. § (2) bekezdésében meghatározott szempontokkal és
+b) a visszamaradó tulajdoni hányadok egy földrészletben kialakíthatóak.”
+14. §
+A Korm. rendelet 22. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A járási hivatal a vizsgálat és záradékolás során – az R.-ben foglaltakon túl – a változási vázrajz 11. §
+(1) bekezdésében meghatározott határozatnak való megfelelőségét, a leosztott földrészletek 12. § (1) bekezdésben
+meghatározottaknak, valamint az egyezségi okiratnak, illetve a sorsolási jegyzőkönyvnek való megfelelőségét is
+vizsgálja.”
+15. §
+A Korm. rendelet 23. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az ingatlan-nyilvántartási bejegyzésről szóló határozatot és a változási vázrajz másolatát a járási hivatal
+az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 52. § (1) bekezdése szerint közli,
+kivéve teljes körű egyezség, egyezség és sorsolási megállapodás esetén, amikor az Inytv. 52. § (3) bekezdése szerint
+közli azt.”
+16. §
+A Korm. rendelet 24. § -a helyébe a következő rendelkezés lép:
+„24. § (1) A megosztási eljárással kapcsolatban a kormányhivatalt kiinduló földrészletenként az 1. mellékletben
+meghatározott költségtérítés illeti meg, amely a megosztási eljárás végrehajtása során felmerülő személyi juttatás,
+munkaadókat terhelő járulékok, dologi kiadások és beruházások finanszírozására szolgál.
+(2) A kormányhivatalok és a járási hivatalok technikai eszközeinek fejlesztésére, a felmerülő bérjellegű- és dologi
+kiadásainak fedezésére kiinduló földrészletenként legfeljebb 35 000 Ft költségelőleg kerül átadásra az eljárás
+megkezdésekor a rendelkezésre álló költségvetési forrás függvényében.”
+17. §
+A Korm. rendelet 31. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A járási hivatal a megosztásról készült változási vázrajz záradékolását követő munkanapon a sorsolási
+jegyzőkönyvet, egyezség esetén az egyezségi okiratot, a záradékolt változási vázrajzzal együtt megküldi
+a földművelésügyi hatáskörben eljáró kormányhivatalnak az Fkbt. 9/C. § (7) bekezdés szerinti földkiadási határozat
+meghozatala érdekében.”
+18. §
+A Korm. rendelet a következő 34. §-sal egészül ki:
+„34. § (1) Azonosítható, azonos vagy részben azonos elszámolható költségek esetén a támogatás abban az esetben
+halmozható más, államháztartási vagy uniós forrásból származó támogatással, ha az nem vezet az Európai Bizottság
+jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez.
+(2) Azonosítható, különböző elszámolható költségek esetén a támogatás halmozható más, államháztartási vagy
+uniós forrásból származó támogatással.”
+19. §
+A Korm. rendelet az 1. melléklet szerinti 1. melléklettel egészül ki.
+20. §
+A Korm. rendelet 9. § (4) bekezdésében a„maghatározott”szövegrész helyébe a„meghatározott”szöveg lép.
+21. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 478/2015. (XII. 29.) Korm. rendelethez
+„1. melléklet a 374/2014. (XII. 31.) Korm. rendelethez
+Az osztatlan közös földtulajdon megszüntetésével kapcsolatos járási hivatal által elvégzett feladatok
+költségvonzata
+A) Járási hivatalok adminisztrációs költségei sorsolás esetén
+A B
+1. Munkafolyamat megnevezése Költség (Ft)
+2. Ügyfelek értesítése az eljárás megindulásáról 13 000
+3. Keretméréshez szükséges adatszolgáltatás a földmérők részére 5 000
+4. Mezőgazdászi helyszínelés és földminősítés 13 000
+5. Osztásirány meghatározás 6 500
+6. Részvétel a sorsolásban 6 500
+7. Megosztási vázrajz műszaki vizsgálata, záradékolása 15 000
+8. Ingatlan-nyilvántartási határozathozatal, postázás (változás-átvezetési eljárás) 13 000
+9. Összes költség 72 000
+B) Járási hivatalok adminisztrációs költségei egyezség esetén
+A B
+1. Munkafolyamat megnevezése Költség (Ft)
+2. Ügyfelek értesítése az eljárás megindulásáról 13 000
+3. Keretméréshez szükséges adatszolgáltatás a földmérők részére 5 000
+4. Mezőgazdászi helyszínelés és földminősítés 13 000
+5. Osztásirány meghatározás 6 500
+6. Megosztási vázrajz műszaki vizsgálata, záradékolása 15 000
+7. Ingatlan-nyilvántartási határozathozatal, postázás (változás-átvezetési eljárás) 13 000
+8. Összes költség 65 500
+”

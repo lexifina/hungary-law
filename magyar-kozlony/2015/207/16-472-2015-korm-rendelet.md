@@ -1,0 +1,113 @@
+# A Kormány 472/2015. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 207. szám, 2015. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/309ef8a8f595ea39b407b514a69963e2d9e000c1/dokumentumok/85daf8e78042dda84e541bf5d8f46dd13b52545a/letoltes)
+
+---
+
+A Kormány 472/2015. (XII. 29.) Korm. rendelete
+a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet módosításáról
+A Kormány a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 40. § (4) bekezdésében
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet (a továbbiakban: Korm.
+rendelet) 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdésben foglaltakon túl támogatás nyújtható
+a) a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti rehabilitációs ellátásban részesülő
+személy,
+b) a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig annak, aki menekültként,
+oltalmazottként vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+c) annak a harmadik országbeli állampolgárnak, akinek az idegenrendészeti hatóság a harmadik országbeli
+állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pont alapján
+kijelölt helyen való tartózkodását rendelte el
+határozott idejű közfoglalkoztatási jogviszony keretében, napi 4–8 órás munkaidőben történő foglalkoztatására.”
+2. §
+A Korm. rendelet 6. § (1a) bekezdése helyébe a következő rendelkezés lép:
+„(1a) Az (1) bekezdésben foglaltakon túl támogatás nyújtható az Országgyűlés vagy a Kormány által meghatározott
+cél elérésére irányuló program keretében történő,
+a) a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti rehabilitációs ellátásban részesülő
+személy,
+b) a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig annak, aki menekültként,
+oltalmazottként vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+c) annak a harmadik országbeli állampolgárnak, akinek az idegenrendészeti hatóság a harmadik országbeli
+állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pont alapján
+kijelölt helyen való tartózkodását rendelte el
+határozott idejű közfoglalkoztatási jogviszony keretében, napi 4–8 órás munkaidőben történő foglalkoztatására.”
+3. §
+A Korm. rendelet„Eljárási szabályok”című alcíme a következő 6/A. §-sal egészül ki:
+„6/A. § (1) A 3–5. §-ban meghatározott támogatások kérelemre nyújthatók.
+(2) A kérelmet a tervezett közfoglalkoztatás helye, az 5. § esetében a foglalkoztatás helye szerint illetékes járási
+hivatalhoz, több járási hivatal illetékességi területén megvalósuló közfoglalkoztatás, illetve foglalkoztatás esetén
+a közfoglalkoztató, az 5. § esetében a vállalkozás székhelye szerint illetékes járási hivatalhoz kell benyújtani.
+(3) A támogatásról a járási hivatal mérlegelési jogkörében dönt, és egységes szerződéses feltételrendszer alapján
+hatósági szerződést köt a támogatottal.
+(4) A mérlegelésnél figyelembe kell venni
+a) a munkaerő-kereslet és kínálat helyi jellemzőit,
+b) a térség foglalkoztatási helyzetét és munkanélküliségi mutatóit,
+c) a járási hivatal és a munkaadó közötti együttműködés tapasztalatait,
+d) a munkaadó által felajánlott vagy vállalt, foglalkoztatás vagy továbbfoglalkoztatás időtartamát,
+e) az álláskeresők munkához jutási esélyeit és
+f) a foglalkoztatni kívánt személy álláskeresőként eltöltött idejét.
+
+(5) A hatósági szerződésben meg kell határozni a támogatott határozott idejű közfoglalkoztatási jogviszony
+leghosszabb időtartamát, amely nem lehet hosszabb, mint a támogatási időszak.
+(6) A támogatási időszak meghosszabbítása esetén a közfoglalkoztatási jogviszony is meghosszabbítható
+a közfoglalkoztatási program végéig.”
+4. §
+A Korm. rendelet 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) A 6. és 7/B. §-ban meghatározott támogatások kérelemre nyújthatók.
+(2) A közfoglalkoztatási támogatást igénylő a közfoglalkoztatási programról előzetes tervezetet készít
+(a továbbiakban: tervezet), amelyet a hatósági szerződés megkötésére hatáskörrel rendelkező hatósághoz kell
+benyújtani, amely azt a támogatásra vonatkozó javaslatával együtt 21 napon belül továbbítja a közfoglalkoztatásért
+felelős miniszter részére.
+(3) A közfoglalkoztatásért felelős miniszter az előirányzatnak közfoglalkoztatási program támogatására történő
+felhasználhatóságáról és a támogatás mértékéről a benyújtott tervezet alapján mérlegelési jogkörében dönt.
+(4) A 6. §-ban meghatározott támogatásról a közfoglalkoztatásért felelős miniszter az Országgyűlés vagy
+a Kormány által meghatározott cél eléréséért felelős miniszter, a foglalkoztatáspolitikáért felelős miniszter, valamint
+a társadalmi felzárkóztatásért felelős miniszter véleményének figyelembevételével dönt.
+(5) A (4) bekezdés szerint érintett miniszterek a véleményükről a megkeresés megérkezését követő nyolc napon
+belül tájékoztatják a közfoglalkoztatásért felelős minisztert. Tájékoztatás hiányában a közfoglalkoztatásért felelős
+miniszter a 6. §-ban meghatározott támogatásról önállóan dönt.
+(6) A mérlegelésnél figyelembe kell venni
+a) a munkaerő-kereslet és kínálat helyi jellemzőit,
+b) a térség foglalkoztatási helyzetét és munkanélküliségi mutatóit,
+c) a hatóság és a munkaadó közötti együttműködés tapasztalatait,
+d) a munkaadó által felajánlott vagy vállalt, foglalkoztatás vagy továbbfoglalkoztatás időtartamát,
+e) az álláskeresők munkához jutási esélyeit és
+f) a foglalkoztatni kívánt személy álláskeresőként eltöltött idejét.
+(7) A támogatásra irányuló kérelmet a (3) bekezdés szerinti miniszteri döntést (a továbbiakban: miniszteri
+döntés) követő 8 napon belül lehet benyújtani. A kérelmet a tervezett közfoglalkoztatás helye szerint illetékes, a
+(8)–(9) bekezdés szerint a hatósági szerződés megkötésére hatáskörrel rendelkező kormányhivatalhoz vagy járási
+hivatalhoz (a továbbiakban együtt: hatóság), több hatóság illetékességi területén megvalósuló közfoglalkoztatás,
+illetve foglalkoztatás esetén a közfoglalkoztató székhelye szerint illetékes hatósághoz kell benyújtani.
+(8) A 6. §-ban meghatározott támogatás, valamint a 6. §-ban meghatározott támogatási formára indított 7/B. §
+szerinti közfoglalkoztatási program esetén a miniszteri döntést és a kérelem benyújtását követően a kormányhivatal
+egységes szerződéses feltételrendszer alapján hatósági szerződést köt a támogatottal. A kormányhivatal a miniszteri
+döntésben meghatározott támogatási összegnél magasabb támogatást nem állapíthat meg.
+(9) A 3–4. §-ban meghatározott egyes támogatási formákra indított 7/B. § szerinti közfoglalkoztatási program esetén
+a miniszteri döntést és a kérelem benyújtását követően a járási hivatal egységes szerződéses feltételrendszer alapján
+hatósági szerződést köt a támogatottal. A járási hivatal a miniszteri döntésben meghatározott támogatási összegnél
+magasabb támogatást nem állapíthat meg.
+(10) A hatósági szerződésben meg kell határozni a támogatott határozott idejű közfoglalkoztatási jogviszony
+leghosszabb időtartamát, amely nem lehet hosszabb, mint a támogatási időszak.
+(11) A támogatási időszak meghosszabbítása esetén a közfoglalkoztatási jogviszony is meghosszabbítható
+a közfoglalkoztatási program végéig.”
+5. §
+A Korm. rendelet 7/B. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A (2) és (4) bekezdés akkor alkalmazható, ha a közfoglalkoztató hatósági szerződésben vállalja, hogy
+a közfoglalkoztatási mintaprogramjából vagy a ráépülő közfoglalkoztatási programjából származó bevételeiből
+a) a közfoglalkoztatási programjainak a működését segíti elő, vagy
+b) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló
+2011. évi CVI. törvény 4/A. §-a szerint létrehozott szociális szövetkezet működését segíti elő, vagy
+c) az általa foglalkoztatott személyek meghatározott hányadának a támogatás lejártát követő munkaviszony
+keretében történő továbbfoglalkoztatását biztosítja.”
+
+6. §
+A Korm. rendelet 7/B. § (2) bekezdésében a „7. § (5) bekezdés” szövegrész helyébe a „7. § (8)–(9) bekezdés” szöveg
+lép.
+7. §
+Hatályát veszti Korm. rendelet 4. § (1) bekezdés c) és d) pontja, valamint a 6. § (1) bekezdés c) és d) pontja.
+8. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
