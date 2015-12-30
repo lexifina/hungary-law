@@ -1,0 +1,3 @@
+## 29. § A 272/2014. (XI. 5.) Korm. rendelet 101/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A Közbesz. R. 4. § (2) bekezdése szerinti informatikai eszközök és szolgáltatások fejlesztésére vagy üzemeltetésére vonatkozó közbeszerzési eljárás esetén a Közbesz. R. 1. mellékletében meghatározott szervezet beszerzése vonatkozásában csak akkor kezdeményezhető a 101. § (5) bekezdése szerinti ellenőrzés, ha a támogatást igénylő, illetve a kedvezményezett az e-közigazgatásért felelős miniszter jóváhagyását is beszerezte. Az e közigazgatásért felelős miniszter eljárását legkésőbb az irányító hatóság eljárásának kezdeményezésével egyidejűleg kell kezdeményezni.”

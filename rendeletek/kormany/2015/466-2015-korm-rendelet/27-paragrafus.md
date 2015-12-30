@@ -1,0 +1,1 @@
+## „(4) Az irányító hatóság az alapok alapját végrehajtó szervezet számára rendelkezésre tartja a finanszírozási keretből az irányító hatóság által elfogadott program végrehajtására jóváhagyott forrás összegét.”
