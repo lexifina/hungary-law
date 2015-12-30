@@ -1,0 +1,297 @@
+## 1. A Kormány elfogadja a Nemzeti Drogellenes Stratégiáról 2013–2020 szóló 80/2013. (X. 16.) OGY határozatban foglalt feladat végrehajtása érdekében készített, az 1. melléklet szerinti szakpolitikai programot.
+
+## 2. A Kormány
+
+## a) felhívja az érintett minisztereket, hogy a megvalósítás érdekében – a költségvetési lehetőségeknek megfelelően – a központi költségvetésről szóló törvény végrehajtása során vegyék figyelembe a szakpolitikai programban meghatározott célokat;
+
+## Felelős: érintett miniszterek
+
+## Határidő: folyamatos
+
+## b) felhívja az érintett minisztereket, hogy a szakpolitikai programban foglalt feladatok végrehajtásáról készítsenek beszámolót és azt küldjék meg a kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszternek;
+
+## Felelős: érintett miniszterek
+
+## Határidő: 2017. január 31.
+
+## c) felhívja a kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős minisztert, hogy a b) pont szerinti beszámolók alapján készítsen jelentést a Kormány számára a szakpolitikai programban foglalt feladatok végrehajtásáról;
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## Határidő: 2017. június 30.
+
+## d) felhívja az emberi erőforrások miniszterét, hogy a végrehajtáshoz szükséges költségvetési források ütemezéséről tájékoztassa nemzetgazdasági minisztert;
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## Határidő: 2016. február 20.
+
+## e) felhívja a nemzetgazdasági minisztert, hogy intézkedjen a szakpolitikai programban foglalt feladatok végrehajtásához szükséges költségvetési forrás biztosításáról.
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: 2016. március 30.
+
+## 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+1. melléklet a 2010/2015. (XII. 29.) Korm. határozathoz
+
+## A Nemzeti Drogellenes stratégia 2016. év végéig szóló szakpolitikai programja
+
+I. Az egészségfejlesztés és kábítószer-megelőzés rendszerének fejlesztése
+
+## I.1. Ösztönözni kell a teljes körű egészségfejlesztésre épülő folyamatokat az óvodai és az iskolai színtéren szakmai-módszertani gyakorlatok gyűjtésével, terjesztésével, továbbképzési programokkal, valamint a pedagógusok mentálhigiénés támogatásával.
+
+## Felelős: oktatásért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## Határidő: folyamatos
+
+## I.2. Elő kell készíteni a teljes körű iskolai egészségfejlesztés bevezetését a szakmai-módszertani támogató dokumentumok megalkotásával és a finanszírozási feltételrendszer kidolgozásával, továbbá létre kell hozni a bevezetést támogató szakmai hálózatot.
+
+## Felelős: egészségügyért felelős miniszter
+
+## oktatásért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## I.3. Támogatni kell a szakmai ajánlással rendelkező szervezetek és szakemberek nevelési-oktatási intézményekben megvalósuló egészségfejlesztési és prevenciós programjait.
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## oktatásért felelős miniszter
+
+## Határidő: folyamatos
+
+## I.4. Pályázati úton támogatni kell a családi rendszer megerősítése, a szülői készségek fejlesztése mellett a célzott megelőző beavatkozások igénybevételét a veszélyeztetett, sérülékeny fiatalok és csoportjaik számára, elő kell segíteni az alternatív szabadidős programok szervezését, a megvalósulásuk helyszínét jelentő közösségi terek kialakítását.
+
+## Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+## kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## Határidő: folyamatos
+
+## I.5. Továbbképzések biztosításával kell elősegíteni a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások valamint a javítóintézeti ellátás drogmegelőzési- és kezelési feladatainak hatékony ellátását.
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## gyermekek és az ifjúság védelméért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## I.6. Az „Egészségfejlesztő Egyetem” szakmai feltételrendszerének kialakításával biztosítani kell a felsőoktatás hallgatói számára a minősített egészségfejlesztési programokhoz való hozzáférést.
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## oktatásért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## I.7. Ki kell alakítani az elterelés minőségbiztosítási rendszerét, valamint az egységes jelentési és szakmai nyomon követési rendszert, továbbá biztosítani kell az elterelésben közreműködő szolgáltatók továbbképzését.
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## I.8. Ki kell alakítani az egészségfejlesztési, drogmegelőzési célú internetes modellprogramok szakmai feltételrendszerét.
+
+## Felelős: egészségügyért felelős miniszter
+
+## kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## oktatásért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+II. A kezelés, ellátás, felépülés rendszerének fejlesztése
+
+## II.1. Az addiktológiai problémával küzdő gyermekek és serdülők kezelésének és ellátásának megfelelősége érdekében javítani kell a gyermek- és fiatalkorúak addiktológiai ellátását szolgáló intézményrendszer hozzáférését. Különösen a gyermek- és ifjúságaddiktológiai szakellátás vonatkozásában ki kell dolgozni a szakmai és a finanszírozási feltételrendszert.
+
+## Felelős: egészségügyért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## II.2. Komplex beavatkozásokkal és kivezető programok biztosításával kell támogatni a börtönből szabaduló egykori droghasználók reszocializációját.
+
+## Felelős: büntetés-végrehajtásért felelős miniszter
+
+## kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## Határidő: folyamatos
+
+## II.3. Minőségbiztosítási szempontból, illetve az esetleges kapacitásbővítésre vonatkozóan át kell tekinteni a drogrehabilitációs intézmények tevékenységét és működését, különös tekintettel a speciális ellátási igénnyel rendelkező csoportokra, valamint támogatni kell a speciális szükségletű csoportok ellátását biztosító rehabilitációs programokat.
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## szociál- és nyugdíjpolitikáért felelős miniszter
+
+## családpolitikáért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## II.4. Folytatni kell az új pszichoaktív anyagok hatóanyagtartalmának, valamint fogyasztási adatainak fokozott monitorozását, a biztonságos és permanens toxikológiai vizsgálatokat, továbbá az ehhez kapcsolódó tájékoztatási tevékenységet.
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## rendészetért felelős miniszter
+
+## igazságügyért felelős miniszter
+
+## Határidő: folyamatos
+
+## II.5. A különböző ellátórendszerek tevékenységének összehangolása érdekében ki kell alakítani a mentális egészségügyi koordinátori hálózat addiktológiai profilú tevékenységének módszertani alapjait és mentális egészségügyi koordinátorokat kell alkalmazni az aktív addiktológiai osztályokon.
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## szociál- és nyugdíjpolitikáért felelős miniszter
+
+## Határidő: folyamatos
+
+## II.6. Át kell tekinteni az új pszichoaktív anyagok elterjedtségével, összetételével, fogyasztási mintázataival kapcsolatos tapasztalatokat, valamint megoldási alternatívákat kell meghatározni a probléma megelőzésére és kezelésére vonatkozóan, továbbá támogatni kell a modellértékű beavatkozásokat.
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## II.7. Fel kell mérni az addiktológiai ellátórendszer helyzetét és fejlesztési javaslatot kell tenni a kezelés és ellátás javítása érdekében.
+
+## Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## II.8. Ki kell alakítani az új pszichoaktív anyagokhoz kapcsolódó információcsere, a Korai Jelzőrendszer informatikailag támogatott működését, és lehetővé kell tenni egységes, ellenőrzött helyről történő hozzáférését.
+
+## Felelős: egészségügyért felelős miniszter
+
+## kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## II.9. Az önkéntes drogteszt lehetőségének minél szélesebb körben történő alkalmazása érdekében ki kell alakítani a szakmai, az intézményi, valamint a szabályozási és finanszírozási feltételeket.
+
+## Felelős: egészségügyért felelős miniszter
+
+## kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+III. A kínálatcsökkentési beavatkozások rendszerének fejlesztése
+
+## III.1. Modern műszerek és eszközök beszerzésével kell biztosítani az új pszichoaktív-, illetve kábítószergyanús anyagok gyors és hatékony vizsgálatát.
+
+## Felelős: rendészetért felelős miniszter
+
+## Határidő: folyamatos
+
+## III.2. A nyomozati munka támogatása érdekében tovább kell fejleszteni a szakértői háttér személyi állományát és technikai felszereltségét az emberi erőforrás kapacitásbővítésével és műszaki berendezések beszerzésével.
+
+## Felelős: rendészetért felelős miniszter
+
+## Határidő: folyamatos
+
+## III.3. Elő kell segíteni a kábítószer-vizsgáló laboratóriumi hálózat szakmai, tudományos fejlődését szakmai továbbképzéseken, tudományos konferenciákon való részvétel támogatásával.
+
+## Felelős: rendészetért felelős miniszter
+
+## igazságügyért felelős miniszter
+
+## Határidő: folyamatos
+
+## III.4. Fejleszteni kell a kábítószerek, illetve az új pszichoaktív anyagok vér- és vizeletmintákból történő kimutatását műszerek beszerzésével és vizsgálati eljárás kidolgozásával.
+
+## Felelős: rendészetért felelős miniszter
+
+## Határidő: folyamatos
+
+## III.5. Biztosítani kell az elektronikus adat ideiglenes hozzáférhetetlenné tételének (blokkolás) lehetőségét kábítószer-kereskedelem, kóros szenvedélykeltés, kábítószer készítésének elősegítése, továbbá új pszichoaktív anyaggal visszaélés bűncselekmény miatt indult büntetőeljárások során.
+
+## Felelős: igazságügyért felelős miniszter
+
+## Határidő: 2016. június 30.
+
+## III.6. Fejleszteni kell a hatósági ellenőrzés személyi állományát és technikai felszereltségét a kábítószerekkel, kábítószer-prekurzorokkal, pszichotróp anyagokkal, illetve az új pszichoaktív anyagokkal való visszaélések csökkentése és az illegális felhasználás elleni hatékony fellépés érdekében.
+
+## Felelős: rendészetért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+## III.7. Biztosítani kell a feltételezett új pszichoaktív anyagok megelőző értékelésének és az új pszichoaktív anyagok kockázatértékelésének hatékony lebonyolításához szükséges feltételeket és erőforrásokat.
+
+## Felelős: rendészetért felelős miniszter
+
+## egészségügyért felelős miniszter
+
+## kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+## Határidő: 2016. december 31.
+
+IV. Az emberi és társadalmi erőforrások mobilizálása
+
+IV.1. Erősíteni kell a Kábítószerügyi Egyeztető Fórumok (a továbbiakban: KEF) helyi szerepvállalását, illetve koordinációs tevékenységét az önkormányzatok, valamint a fővárosi és megyei kormányhivatalok ezt elősegítő szerepének és felelősségvállalásának hangsúlyosabbá tételével, továbbá szakmai és pályázati úton történő támogatással.
+
+Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+egészségügyért felelős miniszter
+
+helyi önkormányzatokért felelős miniszter
+
+kormányzati tevékenység összehangolásáért felelős miniszter
+
+Határidő: folyamatos
+
+IV.2. Hatékonyabbá kell tenni a KEF drogmegelőzési tevékenységét a helyi drogellenes stratégia megalkotását segítő szakmai irányelv aktualizálásával, helyi programok támogatásával, továbbá a drogprobléma kezelésében érintett területen dolgozó szakemberek szemléletformálásával, képzésével.
+
+Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+egészségügyért felelős miniszter
+
+Határidő: folyamatos
+
+IV.3. Át kell tekinteni a felsőoktatási képzési irányok képzési és kimeneteli követelményeit annak érdekében, hogy azokban kellő súllyal megjelenjenek a szerfogyasztással, a kábítószer-problémával, illetve a lelki egészséggel kapcsolatos ismeretek és készségek.
+
+Felelős: oktatásért felelős miniszter
+
+egészségügyért felelős miniszter
+
+Határidő: 2016. december 31.
+
+IV.4. Megelőzési és egészségfejlesztési ismereteket elmélyítő képzési, továbbképzési programokat kell szervezni újságírók, kommunikációs és médiaszakemberek, kulturális közösségfejlesztési szakemberek számára az egészségfejlesztést és drogmegelőzést támogató kommunikáció témakörében.
+
+Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+egészségügyért felelős miniszter
+
+kultúráért felelős miniszter
+
+Határidő: folyamatos
+
+IV.5. Támogatni kell a hazai és a határon túli magyar szakemberek addiktológiai képzését, szakmai továbbképzését.
+
+Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+Határidő: folyamatos
+
+IV.6. Támogatni kell a nemzetközi kábítószerügyi együttműködésekben, kutatási programokban és regionális projektekben való részvételt, illetve a hazai kezdeményezésű kutatásokat.
+
+Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+Határidő: folyamatos
+
+IV.7. Az ágazatközi, a szakmai és a civil együttműködések javítása érdekében segíteni kell a Kábítószerügyi Koordinációs Tárcaközi Bizottság és a Kábítószerügyi Tanács tevékenységét.
+
+Felelős: kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+Határidő: folyamatos
