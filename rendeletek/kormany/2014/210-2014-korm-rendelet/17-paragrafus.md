@@ -6,4 +6,6 @@
 
 a) kizárólag a beruházás érdekében felmerült tárgyi eszközök és immateriális javak költsége, vagy
 
-b) kizárólag a beruházás által létrehozott munkahelyek 24 hónapra számított becsült személyi jellegű ráfordításai.
+b)[^14] kizárólag a beruházás által létrehozott munkahelyek 24 naptári hónapra számfejtett személyi jellegű ráfordításai, az adott munkahely létrehozatalától kezdődően.
+
+[^14]: A 17. § (2) bekezdés b) pontja a 477/2015. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

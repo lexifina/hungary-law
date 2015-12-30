@@ -16,6 +16,6 @@ e) a beruházó a támogatási szerződésben számszerűen rögzített, a 14. �
 
 (4) A beruházó a támogatási szerződéstől annak hatálya alatt bármikor indokolás nélkül elállhat, azonban köteles ebben az esetben visszafizetni a támogatónak a számára folyósított támogatás összegét a jogszabályban vagy a támogatási szerződésben meghatározott kamattal növelve.
 
-(5)[^4]
+(5)[^25]
 
-[^4]: A 26. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 83. §-a hatályon kívül helyezte.
+[^25]: A 26. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 83. §-a hatályon kívül helyezte.

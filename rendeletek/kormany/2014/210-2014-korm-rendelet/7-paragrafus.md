@@ -18,4 +18,6 @@ f) járműipar,
 
 g) élelmiszeripar,
 
-h) regionális szolgáltató központok létesítése vagy bővítése.
+h)[^6] tudás-intenzív regionális szolgáltató központok létesítése vagy bővítése.
+
+[^6]: A 7. § h) pontja a 477/2015. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

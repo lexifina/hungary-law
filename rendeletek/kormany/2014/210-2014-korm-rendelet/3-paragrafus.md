@@ -10,7 +10,7 @@ a) építési munkák esetén: az építési naplóba történő első bejegyzé
 
 b) tárgyi eszközök és immateriális javak beszerzése esetén: a vállalkozás általi első jogilag kötelező érvényűnek tekintett megrendelés, ha ez nem áll rendelkezésre, akkor az arra vonatkozóan megkötött jogilag kötelező érvényűnek tekintett szerződés létrejöttének a napja, az előzetes megvalósíthatósági tanulmányok kivételével, mindezek hiányában pedig a beruházó által aláírással igazolt átvételi nap az első beszerzett gép, berendezés, anyag, vagy termék szállítását igazoló okmányon,
 
-c) létesítmény felvásárlása esetén a felvásárlás időpontja,
+c)[^1] létesítmény felvásárlása esetén a felvásárlásra irányuló szerződés aláírásának időpontja,
 
 d) vegyes esetben: az a)–c) alpontok közül bármelyik két alpont együttes megvalósulása esetén az a nap, amelyikre korábban került sor,
 
@@ -56,13 +56,13 @@ e) a 9. § (1) bekezdés d)–f) pontjában foglalt támogatási célok alá tar
 
 21. működési támogatás: valamely vállalkozás induló beruházástól független, működéshez kapcsolódó folyó kiadásaihoz nyújtott támogatás;
 
-22. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költség jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget; kiszámításakor egyetlen beruházásnak kell tekinteni a támogatási kérelemben szereplő beruházást és a beruházó, valamint a beruházótól független harmadik félnek nem minősülő beruházó vagy beruházók által egy háromszor háromszázhatvanöt napos időszakon belül a támogatási kérelemben szereplő beruházással azonos megyében megkezdett állami támogatásban részesülő beruházást vagy beruházásokat;
+22.[^2] nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költség jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget a támogatás nyújtásának napján érvényes árakon és a 9. § (2) bekezdése szerinti árfolyamon számítva azzal, hogy a nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
 
 23. nagyvállalkozás: az általános csoportmentességi rendelet I. mellékletében meghatározott, a kis- és középvállalkozásokra vonatkozó feltételeknek meg nem felelő vállalkozás;
 
 24. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-a szerinti nehéz helyzetben levő vállalkozás;
 
-25. regionális szolgáltató központ: olyan szervezeti egység, amely pénzügyi, emberi erőforrás menedzsmenti, információs technológiai, jogi, beszerzési, marketing, elemző, kutatás-fejlesztési, vagy hasonló szakmai szolgáltatásokat nyújt egy vállalat vagy vállalatcsoport saját belső részlegeinek, vagy külső ügyfeleinek üzleti szolgáltatásként és tevékenységüket jellemzően több országra kiterjedően, minden esetben infokommunikációs technológia alkalmazásával végzik;
+25.[^3] regionális szolgáltató központ: olyan szervezeti egység, amely pénzügyi, emberi erőforrás menedzsmenti, információs technológiai, szoftverfejlesztési, adatközpont-szolgáltatási, jogi, beszerzési, marketing, elemző, kutatás-fejlesztési, vagy hasonló szakmai szolgáltatásokat nyújt egy vállalat vagy vállalatcsoport saját belső részlegeinek, vagy külső ügyfeleinek üzleti szolgáltatásként és tevékenységét jellemzően több országra kiterjedően, minden esetben infokommunikációs technológia alkalmazásával végzi;
 
 26. saját forrás: a beruházó által a beruházáshoz igénybe vett, állami támogatásnak nem minősülő forrás;
 
@@ -78,6 +78,24 @@ e) a 9. § (1) bekezdés d)–f) pontjában foglalt támogatási célok alá tar
 
 32. turisztikai tevékenység: az általános csoportmentességi rendelet 2. cikk 47. pontja szerinti turisztikai tevékenység;
 
-33. újonnan létesített munkahelyek száma: a beruházás eredményeként közvetlenül létrejött új munkahelyek, amelyek a beruházáshoz köthető tevékenységhez kapcsolódnak, ideértve az olyan munkahelyeket is, amelyek a beruházás által létrehozott kapacitás kihasználtsági arányának növelése következtében jöttek létre, összehasonlítva a létesítménynek a beruházás megkezdését megelőző 12 hónap átlagos statisztikai állományi létszámával, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést az adott létesítményben, úgy azzal, hozzátéve, hogy mindkét esetben az újonnan létrehozott munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;
+33.[^4] újonnan létesített munkahelyek száma: a beruházónál vagy – kivéve, ha a beruházás elszámolható költségét a 20. § szerinti elszámolható költség képezi – a beruházóval beszállítói szerződéses kapcsolatban álló, a 6. §-nak megfelelő jogi személynél a beruházás eredményeként közvetlenül létrejött új munkahelyek, amelyek a beruházáshoz köthető tevékenységhez kapcsolódnak, ideértve az olyan munkahelyeket is, amelyek a beruházás által létrehozott kapacitás kihasználtság arányának növelése következtében jöttek létre és amelyek létrehozására és fenntartására a beruházó kötelezettséget vállal, összehasonlítva a létesítménynek a beruházás megkezdését megelőző 12 hónap átlagos statisztikai állományi létszámával, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést az adott létesítményben, úgy azzal, hozzátéve, hogy mindkét esetben az újonnan létrehozott munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;
 
-34. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő kibővítését eredményezi, amely nem minősül azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek.
+34. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő kibővítését eredményezi, amely nem minősül azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
+
+35.[^5] üzleti terv: beruházó által angol vagy magyar nyelven készített dokumentum, amely az alábbi tartalmi elemeket foglalja magában:
+
+a) vezetői összefoglaló,
+
+b) beruházó vállalat bemutatása,
+
+c) beruházás részletes költségtervvel alátámasztott bemutatása,
+
+d) külső és belső környezet elemzése: makrogazdasági elemzés, iparági elemzés, versenytársak elemzése és SWOT analízis,
+
+e) pénzügyi terv, ideértve eredményterv, mérlegterv, cash-flow terv benyújtása.
+
+[^1]: A 3. § 2. pont c) alpontja a 477/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § 22. pontja a 477/2015. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 3. § 25. pontja a 477/2015. (XII. 29.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^4]: A 3. § 33. pontja a 477/2015. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^5]: A 3. § 35. pontját a 477/2015. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.

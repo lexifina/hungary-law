@@ -1,4 +1,4 @@
-18. § (1) A 9. § (1) bekezdés a)–c) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
+18. § (1)[^15] A 9. § (1) bekezdés a)–c) és g) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
 
 (2) Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén
 
@@ -16,7 +16,7 @@ f) eszközök leszerelési költsége,
 
 g) olyan tárgyi eszköz bekerülési értéke, amelyet a beruházó csődeljárás vagy felszámolás alatt álló társaságtól, vagy végrehajtási eljárás alatt álló magánszemélytől szerzett be,
 
-h) azon eszközök, berendezések, amelyek a támogatási kérelem benyújtása előtt bérleti vagy egyéb hasonló konstrukció keretében, továbbá tesztelési, próbaüzemi céllal a beruházónál bármely telephelyen már használatban voltak,
+h)[^16] azon eszközök, berendezések, amelyek a támogatási kérelem benyújtása előtt bérleti vagy egyéb hasonló konstrukció keretében, továbbá tesztelési, próbaüzemi céllal a beruházónál bármely telephelyen már használatban voltak, továbbá a százezer forint, vagy annál kisebb bekerülési értékű tárgyi eszközök,
 
 i) készletek beszerzésének költségei,
 
@@ -42,9 +42,9 @@ s) biztosítéknyújtáshoz kapcsolódó költségek,
 
 t) jelzálog, banki garancia költségei,
 
-u) kamatráfordítások,
+u)[^17] kamatráfordítások, valamint árfolyamveszteségek,
 
-v) működési költségek,
+v)[^18] működési költségek, ide nem értve a fedezetkezelői bankszámla vezetésének díját,
 
 x) reprezentációs költségek,
 
@@ -77,3 +77,8 @@ e) nagyvállalkozások esetén az immateriális javak az elszámolható költsé
 a) a beruházó a támogatásban részesült telephelyen vagy ugyanazon régióban lévő telephelyen működő vállalkozásnál a beruházóval kötött beszállítói szerződés birtokában használhatja fel,
 
 b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet.
+
+[^15]: A 18. § (1) bekezdése a 477/2015. (XII. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^16]: A 18. § (2) bekezdés h) pontja a 477/2015. (XII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^17]: A 18. § (2) bekezdés u) pontja a 477/2015. (XII. 29.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^18]: A 18. § (2) bekezdés v) pontja a 477/2015. (XII. 29.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
