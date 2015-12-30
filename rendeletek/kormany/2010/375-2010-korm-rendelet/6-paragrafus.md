@@ -1,18 +1,22 @@
 ## Országos közfoglalkoztatási program támogatása
 
-6. §[^32] (1)[^33] Támogatás nyújtható az Országgyűlés vagy a Kormány által meghatározott cél elérésére irányuló program keretében történő,
+6. §[^31] (1)[^32] Támogatás nyújtható az Országgyűlés vagy a Kormány által meghatározott cél elérésére irányuló program keretében történő,
 
 a) az álláskereső, vagy
 
 b) a foglalkoztatást helyettesítő támogatásra jogosult személy, vagy
 
-c) a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig annak, aki menekültként, oltalmazottként, vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+c–d)[^33]
 
-d) annak a harmadik országbeli állampolgárnak, akinek az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pont alapján kijelölt helyen való tartózkodását rendelte el
+(1a)[^34] Az (1) bekezdésben foglaltakon túl támogatás nyújtható az Országgyűlés vagy a Kormány által meghatározott cél elérésére irányuló program keretében történő,
 
-határozott idejű közfoglalkoztatási jogviszony keretében, napi 6–8 órás munkaidőben történő foglalkoztatására.
+a) a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti rehabilitációs ellátásban részesülő személy,
 
-(1a)[^34] Az (1) bekezdésben foglaltakon túl támogatható az Országgyűlés vagy a Kormány által meghatározott cél elérésére irányuló program keretében történő, a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti rehabilitációs ellátásban részesülő személyek határozott idejű közfoglalkoztatási jogviszony keretében, napi 4–8 órás munkaidőben történő foglalkoztatása.
+b) a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig annak, aki menekültként, oltalmazottként vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+
+c) annak a harmadik országbeli állampolgárnak, akinek az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pont alapján kijelölt helyen való tartózkodását rendelte el
+
+határozott idejű közfoglalkoztatási jogviszony keretében, napi 4–8 órás munkaidőben történő foglalkoztatására.
 
 (2) Támogatás a közfoglalkoztató részére abban az esetben nyújtható, ha
 
@@ -32,9 +36,10 @@ c) a képzés, a szociális földprogram, továbbá a megváltozott munkaképess
 
 (6)[^40] Az országos közfoglalkoztatási program támogatási időszaka a 4. § (6) bekezdésének szabályai szerint meghosszabbítható.
 
-[^32]: A 6. § a 171/2011. (VIII. 24.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^33]: A 6. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^34]: A 6. § (1a) bekezdését a 382/2013. (XI. 4.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 296/2014. (XI. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^31]: A 6. § a 171/2011. (VIII. 24.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^32]: A 6. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^33]: A 6. § (1) bekezdés c)–d) pontját a 472/2015. (XII. 29.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^34]: A 6. § (1a) bekezdését a 382/2013. (XI. 4.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 472/2015. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^35]: A 6. § (2) bekezdés b) pontját a 382/2013. (XI. 4.) Korm. rendelet 8. §-a hatályon kívül helyezte.
 [^36]: A 6. § (3) bekezdése a 296/2014. (XI. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 167. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^37]: A 6. § (3a) bekezdését a 296/2014. (XI. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 167. § (2) bekezdés e) pontja szerint módosított szöveg.
