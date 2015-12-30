@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Ghánai Köztársaság Kormánya közötti Oktatási együttműködési egyezmény (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
