@@ -1,4 +1,4 @@
-## 9. § Hatályát veszti a FINA 2021. évi Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megrendezéséhez szükséges létesítmény-fejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 26/2014. (II. 7.) Korm. rendelet.
+## 9. §[^1]
 
 1. melléklet a 452/2015. (XII. 28.) Korm. rendelethez
 
@@ -47,3 +47,5 @@
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzembe helyezéséhez szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
