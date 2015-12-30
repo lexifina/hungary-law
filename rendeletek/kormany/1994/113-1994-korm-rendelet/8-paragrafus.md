@@ -1,8 +1,8 @@
 ## (A Hdt. 16. §-ához)
 
-8. § (1)[^22] A temetési hozzájárulást az elhunyt hadirokkant lakóhelye szerint illetékes járási hivatal állapítja meg a bemutatott eredeti temetési számla alapján.
+8. § (1)[^23] A temetési hozzájárulást az elhunyt hadirokkant lakóhelye vagy tartózkodási helye szerint illetékes elsőfokú hadigondozási hatóság állapítja meg a bemutatott eredeti temetési számla alapján.
 
-(2)[^23] Az (1) bekezdés szerinti számlára a járási hivatal a kifizetett összeget rávezeti.
+(2)[^24] Az (1) bekezdés szerinti számlára az (1) bekezdés szerinti elsőfokú hadigondozási hatóság a kifizetett összeget rávezeti.
 
-[^22]: Az R. 8. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^23]: Az R. 8. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^23]: Az R. 8. § (1) bekezdése a 479/2015. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^24]: Az R. 8. § (2) bekezdése a 479/2015. (XII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@
 
 ## ………………………… úr, (nő)
 
-## Járási hivatal
+## Hadigondozási hatóság
 
 ## …………………………
 
@@ -62,7 +62,7 @@
 
 ## Diagnózis:
 
-## Kelt: ………………… 19…… év ……………… hó …… nap
+## Kelt: ………………… …… év ……………… hó …… nap
 
 ## P. H.
 
@@ -70,13 +70,13 @@
 
 ## (fővárosi és megyei kormányhivatal vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője)
 
-4. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^48]
+4. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^52]
 
-…………………… JÁRÁSI HIVATALNAK
+ELSŐFOKÚ HADIGONDOZÁSI HATÓSÁG RÉSZÉRE
 
 ## Családi és utóneve: ............................
 
-## Lakóhelye: .....................................
+## Lakóhelye/Tartózkodási helye: .....................................
 
 ## Anyja leánykori neve: ..........................
 
@@ -86,7 +86,11 @@
 
 2. Tudomásul veszem, hogy a számomra nemzeti gondozás címén eddig folyósított pénzellátásom a hadigondozásba vétel időpontjával, illetve a hadigondozotti pénzellátás folyósításának kezdetével megszűnik.*
 
-………………………… 19…… év …………… hó …… nap
+3. Büntetőjogi felelősségem tudatában kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek, más hatóság előtt sem a jelenleg igényelt, sem más hadigondozási ellátás iránti kérelmet nem terjesztettem elő.
+
+4. Hozzájárulok, hogy személyes adataimat kizárólag a hadigondozás céljából a hadigondozási hatóság kezelje.
+
+………………………… …… év …………… hó …… nap
 
 ……………………………
 
@@ -100,4 +104,4 @@ Minden újonnan hadigondozásba vett személy esetén kitöltendő!
 
 * A nem kívánt szövegrész törlendő!
 
-[^48]: Az R. 4. számú melléklete a 174/2012. (VII. 26.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.
+[^52]: Az R. 4. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-5. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^49]
+5. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^53]
 
-[^49]: Az R. 5. számú melléklete a 174/2012. (VII. 26.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.
+[^53]: Az R. 5. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.

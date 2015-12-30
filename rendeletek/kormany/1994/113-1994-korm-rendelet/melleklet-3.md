@@ -1,36 +1,30 @@
-## ………………………… JÁRÁSI HIVATAL
+## Hadirokkantként történő nyilvántartásba vételhez, valamint hadirokkant magasabb járadékosztályba történő besorolásához szükséges vizsgálat formanyomtatványa
 
-## Szám:…………………… Tárgy: Hadieredetű fogyatkozás
+## Első- vagy másodfokú hadigondozási hatóság megnevezése
 
-## vizsgálata
+| Szám: | Tárgy: | Hadieredetű fogyatkozás vizsgálata |
 
-## Hiv. sz.:
+|  | Hiv. sz.: |  |
 
-## Mell.:
+|  | Mell.: |  |
 
 ## A fővárosi és megyei kormányhivatal vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetőjének
 
-## ..............................................................
+## A hadigondozásról szóló 1994. évi XLV. törvény 3. § (3) bekezdése alapján kérem .................... nevű személy vizsgálatát.
 
-## A hadigondozásról szóló 1994. évi XLV. törvény 3. § (3) bek. alapján kérem ............................................ nevű személy vizsgálatát.
+## Szül. ideje:....
 
-## Szül. ideje:.............................
+## Személyi igazolvány száma:.....
 
-## Személyi igazolvány száma:...............
+## Anyja leánykori neve:.....
 
-## Anyja leánykori neve:.........................
+## Lakóhelye/Tartózkodási helye:.....
 
-## Lakóhelye:....................................
+## Hadieredetű fogyatkozás miatti munkaképesség-csökkenés legutóbb megállapított mértéke:.....%
 
-## Hadieredetű fogyatkozás miatti munkaképesség-csökkenés legutóbb megállapított mértéke: ............................... %
+## Hadieredetű fogyatkozása:.....
 
-## Hadieredetű fogyatkozása:...............................
-
-## ........................................................
-
-## ........................................................
-
-## Kérem a véleményének közlését arról, hogy nevezett
+## Kérem véleményének közlését arról, hogy nevezett
 
 ## a) jelenlegi hadieredetű fogyatkozása miatti egészségkárosodás milyen mértékű?
 
@@ -40,14 +34,12 @@
 
 ## d) gyógyászati segédeszköz használatára szorul-e, ha igen, milyenre?
 
-## Kelt:.........................
+## Kelt:.....
 
 ## P. H.
 
-## ……………………………
+## hatóság vezetőjének aláírása
 
-## jegyző aláírása
+3. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^51]
 
-3. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^47]
-
-[^47]: Az R. 3. számú melléklete a 213/2007. (VIII. 7.) Korm. rendelet 18. § c) pontjának cg)–ch) alpontja, az 58/2008. (III. 26.) Korm. rendelet 5. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 332/2010. (XII. 27.) Korm. rendelet 4. § c) és g)–h) pontja, a 95/2012. (V. 15.) Korm. rendelet 26. § (3) bekezdés c)–e) pontja, a 174/2012. (VII. 26.) Korm. rendelet 5. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 12. § (3) bekezdés h)–j) pontja szerint módosított szöveg.
+[^51]: Az R. 3. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
