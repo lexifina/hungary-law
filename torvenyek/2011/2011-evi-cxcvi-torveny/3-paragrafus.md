@@ -68,9 +68,9 @@ a) az állam tulajdonában álló nemzeti vagyon tekintetében:
 
 aa) költségvetési szerv,
 
-ab) helyi önkormányzat, önkormányzati társulás,
+ab) helyi önkormányzat, nemzetiségi önkormányzat, valamint ezek társulásai,
 
-ac) önkormányzati intézmény,
+ac) az ab) alpontban felsoroltak fenntartása vagy irányítása alá tartozó intézmény,
 
 ad) köztestület,
 
@@ -82,13 +82,13 @@ ag) a törvény által kijelölt egyedileg meghatározott jogi személy.
 
 b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében:
 
-ba) önkormányzati társulás,
+ba) nemzetiségi önkormányzat, helyi vagy nemzetiségi önkormányzati társulás, valamint ezek fenntartása vagy irányítása alá tartozó intézmény,
 
-bb) költségvetési szerv vagy önkormányzati intézmény,
+bb) költségvetési szerv,
 
 bc) köztestület,
 
-bd) az állam, a helyi önkormányzat, a ba)–bb) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet,
+bd) az állam, a helyi önkormányzat, a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet,
 
 be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
 

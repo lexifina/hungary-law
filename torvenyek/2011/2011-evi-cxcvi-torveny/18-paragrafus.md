@@ -25,3 +25,5 @@ b) az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés 
 (11) A Módtv. által megállapított 5. § (7) bekezdését a Módtv. hatálybalépésekor folyamatban lévő hitelfelvételi és kötvénykibocsátási ügyekben nem kell alkalmazni.
 
 (12) A Módtv. által megállapított 5. § (5)–(7) bekezdésében foglaltaknak megfelelően a helyi önkormányzat képviselő-testülete köteles 2012. október 31-ig módosítani rendeletét.
+
+(13) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosításáról szóló 2015. évi CCXVI. törvény rendelkezései a hatálybalépését megelőzően jogszerűen és jóhiszeműen szerzett jogokat és kötelezettségeket nem érintik.
