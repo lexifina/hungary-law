@@ -1,4 +1,4 @@
-5/B. §[^23] (1) Az 5/A. §-ban foglaltak alapján meghatározott bírságalapot meg kell szorozni
+5/B. §[^24] (1) Az 5/A. §-ban foglaltak alapján meghatározott bírságalapot meg kell szorozni
 
 a) a kulturális örökségi elem veszélyeztetése esetén 1,5-del,
 
@@ -16,16 +16,17 @@ a) engedély nélkül végzett tevékenység esetén 10–50%,
 
 b) engedélytől eltérően végzett tevékenység esetén 10–40%.
 
-(4)[^24] Védett műemléki értéken
+(4)[^25] Védett műemléki értéken
 
 a) építési engedélyhez kötött, de örökségvédelmi engedélyhez nem kötött tevékenység engedély nélkül vagy attól eltérően történő végzése esetén építésügyi bírságot kell kiszabni, és annak összegét az Épbír. rendelet szerint kell megállapítani;
 
 b) építési engedélyhez és örökségvédelmi engedélyhez is kötött tevékenység engedély nélkül vagy attól eltérően történő végzése esetén örökségvédelmi bírságot kell kiszabni, és annak összegét e rendelet szerint kell megállapítani;
 
-c) építési engedélyhez nem kötött, de örökségvédelmi engedélyhez kötött tevékenység engedély nélkül vagy attól eltérően történő végzése esetén örökségvédelmi bírságot kell kiszabni e rendelet szabályai szerint.
+c)[^26] építési engedélyhez nem kötött, de örökségvédelmi engedélyhez vagy bejelentéshez kötött tevékenység engedély vagy bejelentés nélkül vagy a hatóság engedélyében, illetve nyilatkozatában foglaltaktól eltérően történő végzése, továbbá a jókarbantartási kötelezettség Kövt. 67. § (3) bekezdése szerinti elmulasztása esetén örökségvédelmi bírságot kell kiszabni e rendelet szabályai szerint.
 
-(5)[^25] Azt a személyt vagy szervezetet, aki vagy amely neki felróható okból szakértői jogosultsághoz kötött tevékenységet szakértői jogosultság nélkül, nyilvántartási jelölés nélkül végzett, 500 ezer forint örökségvédelmi bírsággal kell sújtani.
+(5)[^27] Azt a személyt vagy szervezetet, aki vagy amely neki felróható okból szakértői jogosultsághoz kötött tevékenységet szakértői jogosultság nélkül, nyilvántartási jelölés nélkül végzett, 500 ezer forint örökségvédelmi bírsággal kell sújtani.
 
-[^23]: Az 5/B. §-t a 281/2005. (XII. 20.) Korm. rendelet 3. §-a iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^24]: Az 5/B. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
-[^25]: Az 5/B. § (5) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (9) bekezdése iktatta be.
+[^24]: Az 5/B. §-t a 281/2005. (XII. 20.) Korm. rendelet 3. §-a iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^25]: Az 5/B. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^26]: Az 5/B. § (4) bekezdés c) pontja a 446/2015. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^27]: Az 5/B. § (5) bekezdését a 38/2015. (III. 11.) Korm. rendelet 2. § (9) bekezdése iktatta be.
