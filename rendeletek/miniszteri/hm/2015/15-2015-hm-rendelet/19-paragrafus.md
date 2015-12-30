@@ -1,3 +1,0 @@
-## „(3) Az (1) bekezdés d) pontját nem kell alkalmazni, ha a szolgálati viszony, kormányzati szolgálati vagy közalkalmazotti jogviszony, vagy munkaviszony megszüntetésére azért kerül sor, mert a kölcsönnyújtás egyéb feltételeivel rendelkező igénylő megváltozott munkaképességű személyek ellátására szerzett jogosultságot, feltéve, hogy a kérelmét még a jogviszony megszűnése előtt benyújtja.
-
-## (3a) Az (1) bekezdés i) pontja szerinti feltételnek meg nem felelő hivatásos katona munkáltatói kölcsön iránti kérelme már az 51. életév betöltését követően benyújtható és nyilvántartásba vehető, azonban csak az 52. életév betöltését követően teljesíthető.”
