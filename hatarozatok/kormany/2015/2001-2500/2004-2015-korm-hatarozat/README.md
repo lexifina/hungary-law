@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2004-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-29 | 2015-2004-30-22.1 | 2004/2015. (XII. 28.) Korm. határozat |
+| 2015-12-30 | 2015-2004-30-22.2 | 1829/2018. (XII. 27.) Korm. határozat |
