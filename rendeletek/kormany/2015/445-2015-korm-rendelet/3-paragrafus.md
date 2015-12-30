@@ -1,3 +1,3 @@
-## „24. 4. pontja alapján energiahatékonysági intézkedéshez nyújtott beruházási támogatás”
+## 1–2. §[^2]
 
-## (nyújtható.)
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
