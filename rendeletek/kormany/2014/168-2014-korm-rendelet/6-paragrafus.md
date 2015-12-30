@@ -24,6 +24,6 @@ k) a vaj-, tejszín- és sovány tejpor-előállító üzemek intervenciós jóv
 
 l) az Európai Unió élelmiszersegély programjába bevont tejtermékekkel kapcsolatos minőségi vizsgálatok;
 
-m)–r)[^4]
+m)–r)[^5]
 
-[^4]: A 6. § m)–r) pontját a 177/2015. (VII. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^5]: A 6. § m)–r) pontját a 177/2015. (VII. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.

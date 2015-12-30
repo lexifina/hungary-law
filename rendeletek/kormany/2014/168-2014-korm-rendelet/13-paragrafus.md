@@ -1,5 +1,5 @@
-## 12. §[^6]
+## 12. §[^7]
 
 13. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-[^6]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
