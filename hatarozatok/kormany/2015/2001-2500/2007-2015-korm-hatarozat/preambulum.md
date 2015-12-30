@@ -1,1 +1,0 @@
-A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő forrásbiztosításról és egyéb előirányzat-átcsoportosításokról, valamint egyes kormányhatározatok és kormányrendelet módosításáról, továbbá a 2014. évi költségvetési maradványok egy részének felhasználásáról szóló 1980/2015. (XII. 23.) Korm. határozat (a továbbiakban: Határozat)
