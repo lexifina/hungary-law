@@ -1,4 +1,4 @@
-## 9/B. [^13] Képzési támogatásra vonatkozó szabályok
+## 9/B. [^15] Képzési támogatásra vonatkozó szabályok
 
 14/B. § (1) A képzési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
@@ -28,4 +28,4 @@ e) a képzésben résztvevő megváltozott munkaképességű munkavállalók min
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez.
 
-[^13]: A 9/B. alcímet (14/B. §) a 11/2014. (XII. 30.) MvM rendelet 29. §-a iktatta be.
+[^15]: A 9/B. alcímet (14/B. §) a 11/2014. (XII. 30.) MvM rendelet 29. §-a iktatta be.

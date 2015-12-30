@@ -24,4 +24,7 @@
 
 11.[^2] képzés.
 
+12.[^3] vállalkozások finanszírozási forrásokhoz való hozzáférésének elősegítése mikro- és forgóeszköz finanszírozással.
+
 [^2]: A 3. § 11. pontját a 11/2014.(XII. 30.) MvM rendelet 25. §-a iktatta be.
+[^3]: A 3. § 12. pontját az 59/2015. (XII. 29.) MvM rendelet 1. §-a iktatta be.

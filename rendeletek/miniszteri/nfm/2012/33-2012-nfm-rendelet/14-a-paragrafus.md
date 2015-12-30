@@ -1,4 +1,4 @@
-## 9/A. [^12] A kis- és középvállalkozásnak nyújtott innovációs támogatás
+## 9/A. [^14] A kis- és középvállalkozásnak nyújtott innovációs támogatás
 
 14/A. § (1) A kis- és középvállalkozásnak nyújtott innovációs támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében elszámolható
 
@@ -12,4 +12,4 @@ c) innovációs tanácsadás és innovációs támogató szolgáltatás költsé
 
 (3) Az (1) bekezdés c) pontja szerinti esetben a támogatási intenzitás az elszámolható költségek 100%-ig növelhető, ha a támogatás összege nem haladja meg három év alatt a 200 000 eurót.
 
-[^12]: A 9/A. alcímet (14/A. §) a 11/2014. (XII. 30.) MvM rendelet 29. §-a iktatta be.
+[^14]: A 9/A. alcímet (14/A. §) a 11/2014. (XII. 30.) MvM rendelet 29. §-a iktatta be.
