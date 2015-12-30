@@ -114,4 +114,6 @@ Határidő: a 2016. évben a költségek felmerülése ütemében
 
 a 2017–2020. évek között a központi költségvetés tervezése során
 
-13. visszavonja a Makovecz Imre életművének gondozásával kapcsolatos intézkedésekről szóló 1724/2013. (X. 11.) Korm. határozatot.
+13.[^1]
+
+[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
