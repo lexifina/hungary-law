@@ -4,7 +4,7 @@ a) szállítói finanszírozás esetén az önerő arányos teljesítése nélk�
 
 b) utófinanszírozás esetén az elszámolható költség teljes összegére kifizethető,
 
-ha a támogatási szerződésben vagy támogatói okiratban meghatározott támogatási mértéket legkésőbb a záró kifizetési igénylés keretében a kedvezményezett helyreállítja.
+## ha a támogatási szerződésben vagy támogatói okiratban meghatározott támogatási mértéket legkésőbb a záró kifizetési igénylés keretében a kedvezményezett helyreállítja.
 
 (2) Ha a támogatási szerződésben vagy támogatói okiratban meghatározott támogatási mérték nem áll vissza legkésőbb a záró kifizetési igénylés keretében, a kedvezményezett köteles a jogosulatlanul igénybe vett összeget a Ptk. 6:47. § szerinti kamattal növelt mértékben visszafizetni.
 

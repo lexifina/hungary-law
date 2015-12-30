@@ -12,8 +12,8 @@ c)[^330] az adatok a monitoring és információs rendszerben rögzítésre és 
 
 (4)[^331] Ha a kedvezményezett a köztartozását az irányító hatóság által kitűzött határidőben nem szünteti meg, az irányító hatóság jogosult az adott kifizetési igénylés alapján jóváhagyott támogatási összeget visszavonni vagy a támogatási szerződéstől elállni.
 
-(5)[^332]
+(5)[^332] Az Ávr. 5. melléklet 11. pontja szerinti adatszolgáltatási kötelezettséget az alapok tekintetében nem kell alkalmazni.
 
 [^330]: A 63. (2) bekezdés c) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 115. pontja szerint módosított szöveg.
 [^331]: A 63. § (4) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 22. §-a iktatta be, szövege a 302/2013. (VII. 29.) Korm. rendelet 30. §-ával megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 116. pontja szerint módosított szöveg.
-[^332]: A 63. § (5) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 22. §-a iktatta be, hatályon kívül helyezet a 69/2015. (III. 30.) Korm. rendelet 11. §-a.
+[^332]: A 63. § (5) bekezdését újonnan a 466/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

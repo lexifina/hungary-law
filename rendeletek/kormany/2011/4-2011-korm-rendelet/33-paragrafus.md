@@ -12,7 +12,7 @@ e)[^182] biztosítási szerződés alapján kiállított – készfizető kezess
 
 f)[^183] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 92. § (1) bekezdése szerinti állami kezesség
 
-lehet.
+## lehet.
 
 (2)[^184] A biztosítékoknak a támogatási jogviszony alapján, – a (3), (3a) és (8) bekezdésben meghatározott kivételekkel – a fenntartási kötelezettségek megszűnéséig rendelkezésre kell állniuk. A biztosíték a biztosítéknyújtási kötelezettséggel érintett időszaknál rövidebb lejárattal is rendelkezésre bocsátható azzal, hogy az érintett biztosíték érvényességének lejártát megelőző legalább 45 nappal annak meghosszabbítását vagy cseréjét a kedvezményezettnek igazolnia kell. Ennek elmaradása a kifizetések elutasítását, illetve szabálytalansági eljárást von maga után, továbbá a támogató a támogatási szerződéstől elállhat.
 
@@ -50,7 +50,7 @@ ha) az állam, helyi önkormányzat, helyi önkormányzatok társulása vagy –
 
 hb) a ha) alpontban meghatározott személyek valamelyikének többségi befolyása alatt álló jogi személy olyan vagyontárgyának fejlesztésére fordítja, amely közfeladat ellátását szolgálja vagy közfeladat ellátását mozdítja elő,
 
-és az (1) bekezdés szerinti kötelezettsége alól kormányhatározat mentesíti,
+## és az (1) bekezdés szerinti kötelezettsége alól kormányhatározat mentesíti,
 
 i)[^193] a szociális szövetkezet,
 

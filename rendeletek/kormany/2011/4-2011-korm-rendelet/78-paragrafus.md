@@ -1,3 +1,5 @@
+## 77. §[^374]
+
 78. § (1)[^375] Az irányító hatóság vagy az általa átruházott hatáskörben eljáró közreműködő szervezet – a központi koordinációs szerv egyidejű tájékoztatása mellett – a tárgyhónapot követő minden hónap tizedik napjáig az igazoló hatóság által meghatározott formátumú és tartalmú hitelesítési jelentést állít ki. Az irányító hatóság a közreműködő szervezet által kiállított hitelesítési jelentés tartalmát szükség esetén kiegészítheti. Az irányító hatóság a központi koordinációs szerv egyidejű tájékoztatása mellett a hitelesítési jelentést a tárgyhónapot követő hónap huszadik napjáig elektronikusan megküldi az igazoló hatóság részére.
 
 (2)[^376] A hitelesítési jelentés megküldésének elmulasztása, hiányos tartalommal történő megküldése, vagy a hitelesítési jelentések tartalma alapján irányítási és kontrollrendszerre vonatkozó kiegészítő információ igénye esetén az igazoló hatóság a költségigazoló nyilatkozat kiállítását felfüggesztheti.
@@ -38,6 +40,7 @@ f) a jogszabályok, valamint a hatékony és célszerű működés követelmény
 
 (10)[^385] Az irányító hatóság a forráskezelő szervezet közreműködésével minden hónap tizenkettedik napjáig hitelesítési jelentést állít ki, amelyben nyilatkozik arról, hogy a megelőző hónapban jóváhagyott, a monitoring és információs rendszerben rögzített és a programszámlára utalt támogatási összeggel kapcsolatos, a (4) és (5) bekezdés szerinti dokumentumalapú ellenőrzéseket, továbbá a nyilatkozatában meghatározott, a (6) és (7) bekezdés szerinti helyszíni ellenőrzéseket elvégezte. A hitelesítési jelentést az irányító hatóság az államháztartásért felelős miniszter által meghatározott formában és tartalommal készíti el. Az irányító hatóság a kiállított hitelesítési jelentést annak kiállításától számított 8 napon belül elektronikusan megküldi az igazoló hatóság részére.
 
+[^374]: A 77. §-t a 302/2013. (VII. 29.) Korm. rendelet 55. § b) pontja hatályon kívül helyezte.
 [^375]: A 78. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^376]: A 78. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 33. pontja szerint módosított szöveg.
 [^377]: A 78. § (3) bekezdése a 127/2014. (IV. 10.) Korm. rendelet 7. §-ával megállapított szöveg.

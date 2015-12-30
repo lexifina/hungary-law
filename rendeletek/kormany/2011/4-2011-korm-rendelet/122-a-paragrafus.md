@@ -18,7 +18,7 @@ a) a közreműködő szervezeti kijelölés megszűnt, az irányító hatóság 
 
 b) más közreműködő szervezet került kijelölésre, az új közreműködő szervezet döntésének
 
-minősül.
+## minősül.
 
 (9)[^581] A Módr.7 alapján megszűnt közreműködő szervezeti kijelölés esetén a közreműködő szervezet által a 2014. április 15-ét megelőzően meghozott döntés elleni kifogást az irányító hatóságnál a központi koordinációs szervnek címezve kell benyújtani.
 

@@ -1,3 +1,5 @@
+## 115/A. §[^513]
+
 ## 46. A technikai segítségnyújtás projektjeire vonatkozó tervezési és támogatás-végrehajtási folyamat szabályai
 
 116. § (1) A technikai segítségnyújtás projektjeinek tervezésére, kiválasztására és végrehajtására az e rendeletben foglaltakat a következő eltérésekkel kell alkalmazni.
@@ -28,6 +30,7 @@ e)[^517] szállítói finanszírozást tartalmazó kifizetési igényléssel egy
 
 (9)[^523] Technikai segítségnyújtás projektjavaslatról – valamely irányító hatóság érintettsége esetén annak bevonásával – a központi koordinációs szerv dönt.
 
+[^513]: A 115/A. §-t a 176/2012. (VII. 26.) Korm. rendelet 25. §-a iktatta be, hatályon kívül helyezte a 96/2014. (III. 25.) Korm. rendelet 5. § (2) bekezdés d) pontja.
 [^514]: A 116. § (2) bekezdés a) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § j) pontja szerint módosított szöveg.
 [^515]: A 116. § (2) bekezdés b) pontját a 176/2012. (VII. 26.) Korm. rendelet 30. § 5. pontja hatályon kívül helyezte.
 [^516]: A 116. § (2) bekezdés d) pontját a 25/2012. (II. 29.) Korm. rendelet 53. §-a iktatta be.

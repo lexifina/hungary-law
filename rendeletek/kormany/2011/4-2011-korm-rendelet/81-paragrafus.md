@@ -10,7 +10,7 @@ a) – közreműködő szervezet bevonása esetén – a közreműködő szervez
 
 b) az irányító hatóság döntése ellen az irányító hatóságnál a központi koordinációs szervnek címzett kifogást
 
-nyújthat be, ha a pályázati eljárásra, a támogatási igény befogadására, a támogatási döntés meghozatalára, a támogatói okiratok kiadására vagy a támogatási szerződések megkötésére, a költségvetésből nyújtott támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő vagy a pályázati felhívásba, támogatási szerződésbe ütközik.
+## nyújthat be, ha a pályázati eljárásra, a támogatási igény befogadására, a támogatási döntés meghozatalára, a támogatói okiratok kiadására vagy a támogatási szerződések megkötésére, a költségvetésből nyújtott támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő vagy a pályázati felhívásba, támogatási szerződésbe ütközik.
 
 (2)[^398] A kifogás benyújtására a kifogásolt döntésről való tudomásszerzéstől számított 10 napon belül egy alkalommal, az indokok megjelölésével van lehetőség.
 

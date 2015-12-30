@@ -1,7 +1,5 @@
 ## 127. § Az e rendelet hatálybalépését megelőző napon hatályos, e rendelettel hatályon kívül helyezett rendelkezéseket – a 122. § (4) bekezdésében meghatározott kivételekkel – a folyamatban lévő ügyekben alkalmazni kell.
 
-1. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^590]
+1. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^589]
 
-Azon adatok köre, amelyeket a pályázati adatlapon, a szerződés adatlapon, és a kifizetési igényen alkalmazni lehet
-
-[^590]: Az 1. melléklet az 548/2013. (XII. 30.) Korm. rendelet 43. § 223. pontja szerint módosított szöveg.
+[^589]: Az 1. melléklet az 548/2013. (XII. 30.) Korm. rendelet 43. § 223. pontja szerint módosított szöveg.

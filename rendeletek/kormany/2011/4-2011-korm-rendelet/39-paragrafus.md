@@ -4,7 +4,7 @@
 
 (2a)[^230] Ha a Kbt. szerinti jogorvoslati eljárás megindítására a (2) bekezdés szerinti határidőt követően, de még a (3) bekezdés szerinti értesítés megküldése előtt kerül sor, a közreműködő szervezet az ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
 
-(3)[^231] A közreműködő szervezet a (2) bekezdés szerinti dokumentumokat – figyelemmel az egységes működési kézikönyvben foglaltakra is – közbeszerzési-jogi, támogathatósági, elszámolhatósági, valamint műszaki szempontú utóellenőrzésnek veti alá. A közreműködő szervezet a dokumentum beérkezését követő 7 napon belül az ellenőrzés eredményéről az igénylőt, illetve a kedvezményezettet értesti. A közreműködő szervezet az ellenőrzés eredményétől függően szabálytalansági eljárást folytat le, illetve jogorvoslati eljárást kezdeményez.
+(3)[^231] A közreműködő szervezet a (2) bekezdés szerinti dokumentumokat – figyelemmel az egységes működési kézikönyvben foglaltakra is – közbeszerzési-jogi, támogathatósági, elszámolhatósági, valamint műszaki szempontú utóellenőrzésnek veti alá. A közreműködő szervezet a dokumentumok beérkezését követő 7 napon belül az ellenőrzés eredményéről a támogatást igénylőt, illetve a kedvezményezettet értesíti. A közreműködő szervezet az ellenőrzés eredményétől függően szabálytalansági eljárást folytat le, illetve jogorvoslati eljárást kezdeményez.
 
 (4)[^232] Ha a közbeszerzési eljárásban utólagos ellenőrzés szükséges, azt a közreműködő szervezet folytatja le az utólagos ellenőrzés lefolytatásához szükséges valamennyi dokumentum kézhezvételét követő 20 napon belül.
 

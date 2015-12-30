@@ -6,7 +6,7 @@ a) folyamatos meghirdetés esetében a beérkezés sorrendjében a rendelkezésr
 
 b) szakaszos elbírálás esetében a pályázati felhívásban rögzített pályázati szakasz zárását vagy beadási határnapját követően, a határidőig benyújtott pályázatok befogadási és értékelési szempontoknak való megfelelés szerinti sorrendisége alapján
 
-kell lefolytatni.
+## kell lefolytatni.
 
 (3) A befogadott projektjavaslatokat értékelni kell. A projektjavaslat értékelésében, továbbá a támogatási döntés előkészítésében részt vevőket a támogatást igénylő döntésről történő tájékoztatása időpontjáig titoktartási kötelezettség terheli. A titoktartási kötelezettség nem terjed ki a benyújtott projektjavaslatnak a projekt-kiválasztási eljárásban történő előrehaladásáról történő tájékoztatásra.
 
