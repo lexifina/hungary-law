@@ -10,4 +10,6 @@ d) a kérelem indokoltságát alátámasztó egyéb tényeket, illetve körülm�
 
 (2) A kérelemben új – a szabálytalansági eljárás során nem vizsgált – tényekre és körülményekre is lehet hivatkozni.
 
-(3) Az elkésett, a nem jogosulttól származó, valamint a kedvezményezett által a szabálytalansági döntés ellen ismételten előterjesztett jogorvoslati kérelmet az iratok felterjesztéséig az irányító hatóság, azt követően az európai uniós források felhasználásáért felelős miniszter érdemi vizsgálat nélkül elutasítja.
+(3)[^592]
+
+[^592]: A 167. § (3) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 54. § (1) bekezdés 9. pontja hatályon kívül helyezte.

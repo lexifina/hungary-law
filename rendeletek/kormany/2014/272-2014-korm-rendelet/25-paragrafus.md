@@ -8,32 +8,32 @@
 
 25. § (1) Az illetékes hatóság
 
-a)[^107] felelős a kifizető ügynökség akkreditációjának megadásáért, felülvizsgálatáért és visszavonásáért,
+a)[^111] felelős a kifizető ügynökség akkreditációjának megadásáért, felülvizsgálatáért és visszavonásáért,
 
 b) folyamatosan figyelemmel kíséri a kifizető ügynökségnél az akkreditációs feltételek teljesítését,
 
-c)[^108] írásban jelentést tesz az Európai Bizottságnak a kifizető ügynökségnél általa végzett felügyeleti és monitoring tevékenységekről,
+c)[^112] írásban jelentést tesz az Európai Bizottságnak a kifizető ügynökségnél általa végzett felügyeleti és monitoring tevékenységekről,
 
-d)[^109] ellátja az uniós jogi aktusok által ráruházott további feladatokat.
+d)[^113] ellátja az uniós jogi aktusok által ráruházott további feladatokat.
 
-(1a)[^110] Az illetékes hatóság feladatai ellátása érdekében az Áht. 9. § e), h) és i) pontja szerinti hatásköröket gyakorolja.
+(1a)[^114] Az illetékes hatóság feladatai ellátása érdekében az Áht. 9. § e), h) és i) pontja szerinti hatásköröket gyakorolja.
 
 (2) A szakmai támogató
 
 a) az EMVA és ETHA irányító hatóságának megkeresésére szakmai javaslatot tesz a programok keretében megvalósuló fejlesztésekre, részt vesz a tervezés, projektfejlesztés során a szakmai szempontok érvényesítésében,
 
-b)[^111] együttműködik az irányító hatósággal éves fejlesztési keret és a forráselosztási elvek meghatározása során,
+b)[^115] együttműködik az irányító hatósággal éves fejlesztési keret és a forráselosztási elvek meghatározása során,
 
 c) adatot szolgáltat az irányító hatóságnak az éves fejlesztési keret előkészítéséhez és módosításához,
 
-d)[^112] részt vesz az intézkedések szakmai tartalmának, horizontális követelményeinek meghatározásában és a programot érintő értékelési tevékenységben,
+d)[^116] részt vesz az intézkedések szakmai tartalmának, horizontális követelményeinek meghatározásában és a programot érintő értékelési tevékenységben,
 
-e)[^113]
+e)[^117]
 
-[^107]: A 25. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^108]: A 25. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^109]: A 25. § (1) bekezdés d) pontját a 144/2015. (VI. 12.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^110]: A 25. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 14. § (3) bekezdése iktatta be.
-[^111]: A 25. § (2) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^112]: A 25. § (2) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 38. pontja szerint módosított szöveg.
-[^113]: A 25. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 6. pontja hatályon kívül helyezte.
+[^111]: A 25. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^112]: A 25. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^113]: A 25. § (1) bekezdés d) pontját a 144/2015. (VI. 12.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^114]: A 25. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^115]: A 25. § (2) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^116]: A 25. § (2) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 38. pontja szerint módosított szöveg.
+[^117]: A 25. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 6. pontja hatályon kívül helyezte.

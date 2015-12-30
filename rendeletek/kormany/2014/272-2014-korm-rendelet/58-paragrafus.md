@@ -1,5 +1,3 @@
-## 57/J. § Az EMVA-ból finanszírozott intézkedések vonatkozásában a Vidékfejlesztési Programban meghatározott monitoring adatok gyűjtésének módjáról az iránytó hatóság a felhívásban vagy közleményben rendelkezik.
-
 ## XII. Fejezet
 
 ## A TÁMOGATÁSI KÉRELEM BENYÚJTÁSA ÉS ELBÍRÁLÁSA
@@ -10,7 +8,9 @@
 
 (2) A támogatási kérelmet a felhívásban meghatározott elektronikus alkalmazással kell elkészíteni és benyújtani. A támogatási kérelem akkor minősül benyújtottnak, ha a támogatást igénylő a felhívás részeként közzétett nyomtatványon a támogatási kérelem elektronikus benyújtásáról nyilatkozott és a nyilatkozatot az egységes működési kézikönyvben és a felhívásban meghatározott módon az irányító hatósághoz benyújtotta.
 
-(3)[^211] A támogatást igénylő a támogatás igénylésével egyidejűleg hozzájárulását adja ahhoz, hogy a támogató
+(2a)[^227] Az 57/B. § (4) bekezdése szerinti benyújtás esetén a (2) bekezdést nem kell alkalmazni.
+
+(3)[^228] A támogatást igénylő a támogatás igénylésével egyidejűleg hozzájárulását adja ahhoz, hogy a támogató
 
 a) EMVA forrás esetén a 908/2014/EU bizottsági rendelet 57. cikk szerinti adatokat,
 
@@ -28,10 +28,11 @@ bd) a döntés évét és a hónapját
 
 (4) A támogatási kérelem monitoring és információs rendszerbe történő beérkezéséről a támogatást igénylő értesítést kap.
 
-(5)[^212] A támogatási kérelem benyújtása, valamint a felhívásban meghatározott jogosultsági feltételek teljesítése nem jelent alanyi jogosultságot a támogatásra, arról csak a kiválasztási szempontokra és forrásra tekintettel hozható döntés.
+(5)[^229] A támogatási kérelem benyújtása, valamint a felhívásban meghatározott jogosultsági feltételek teljesítése nem jelent alanyi jogosultságot a támogatásra, arról csak a kiválasztási szempontokra és forrásra tekintettel hozható döntés.
 
-(6)[^213] Ha a felhívás úgy rendelkezik, idegen nyelven kiállított dokumentum benyújtása esetében a támogatást igénylőnek csatolnia kell a dokumentum szakfordító vagy szakfordító-lektor által készített magyar nyelvű fordítását is.
+(6)[^230] Ha a felhívás úgy rendelkezik, idegen nyelven kiállított dokumentum benyújtása esetében a támogatást igénylőnek csatolnia kell a dokumentum szakfordító vagy szakfordító-lektor által készített magyar nyelvű fordítását is.
 
-[^211]: Az 58. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^212]: Az 58. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
-[^213]: Az 58. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^227]: Az 58. § (2a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^228]: Az 58. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^229]: Az 58. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^230]: Az 58. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.

@@ -1,0 +1,1 @@
+## 57/J. § Az EMVA-ból finanszírozott intézkedések vonatkozásában a Vidékfejlesztési Programban meghatározott monitoring adatok gyűjtésének módjáról az iránytó hatóság a felhívásban vagy közleményben rendelkezik.

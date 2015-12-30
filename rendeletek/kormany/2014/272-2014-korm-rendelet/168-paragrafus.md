@@ -13,3 +13,7 @@ e) ha a jogorvoslati kérelem az Európai Bizottság, audit hatóság által meg
 f) ha a beadvány tartalmilag nem minősül jogorvoslati kérelemnek vagy nem tartalmaz a megsértett jogszabályban, a felhívásban a támogatási szerződésben vagy támogatói okiratban foglalt rendelkezésekre vonatkozó pontos hivatkozást vagy a megsértett rendelkezésre vonatkozó indokok részletes kifejtését.
 
 (2) Elkésettség címén a jogorvoslati kérelem nem utasítható el, ha a jogorvoslati kérelem előterjesztésére nyitva álló határidőben a jogorvoslati kérelmet az európai uniós források felhasználásáért felelős miniszternél terjesztették elő.
+
+(3)[^593] Az iratok felterjesztéséig az irányító hatóság az (1) bekezdés a)–c) pontja alapján elutasíthatja a jogorvoslati kérelmet.
+
+[^593]: A 168. § (3) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 45. §-a iktatta be.

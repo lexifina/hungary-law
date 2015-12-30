@@ -4,7 +4,7 @@
 
 (2) A dokumentumalapú ellenőrzések keretében ellenőrizni kell legalább
 
-a)[^488] a pénzügyi konstrukciónak az éves fejlesztési keret és a finanszírozási megállapodás szerinti megfelelő előrehaladását,
+a)[^533] a pénzügyi konstrukciónak az éves fejlesztési keret és a finanszírozási megállapodás szerinti megfelelő előrehaladását,
 
 b) az alapok alapját végrehajtó szervezet köztartozás-mentességét a monitoring és információs rendszeren keresztül, és
 
@@ -14,7 +14,7 @@ c) azt, hogy a benyújtott lehívási értesítés összhangban van-e a finansz�
 
 (4) A helyszíni ellenőrzések során a pénzügyi eszközöket végrehajtó szervezetnél ellenőrizni kell különösen
 
-a)[^489] a pénzügyi konstrukciónak az éves fejlesztési keret és a finanszírozási megállapodás szerinti megfelelő előrehaladását,
+a)[^534] a pénzügyi konstrukciónak az éves fejlesztési keret és a finanszírozási megállapodás szerinti megfelelő előrehaladását,
 
 b) az alapok alapját végrehajtó szervezet által benyújtott beszámolók és a pénzügyi konstrukció tényleges előrehaladásának összhangját,
 
@@ -24,8 +24,8 @@ d) a jogszabályok, valamint a hatékony és célszerű működés követelmény
 
 (5) A folyamatba épített ellenőrzéseket (ideértve a dokumentumalapú ellenőrzéseket és a kockázatelemzésre, mintavételezésre alapozott helyszíni ellenőrzéseket) megfelelően dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzések eredményeit, valamint szabálytalanságok és hibák feltárása esetén a megtett intézkedéseket.
 
-(6)[^490] Az irányító hatóság az alapok alapját végrehajtó szervezet közreműködésével minden hónap tizenkettedik napjáig hitelesítési jelentést állít ki, amelyben nyilatkozik arról, hogy a megelőző hónapban jóváhagyott, a monitoring és információs rendszerben rögzített és a programszámlára utalt támogatási összeggel kapcsolatos, a (2) és (3) bekezdés szerinti dokumentumalapú ellenőrzéseket, továbbá a nyilatkozatában meghatározott, a (4) és (5) bekezdés szerinti helyszíni ellenőrzéseket elvégezte. A hitelesítési jelentést az irányító hatóság az igazoló hatóság által meghatározott formában és tartalommal készíti el. Az irányító hatóság a kiállított hitelesítési jelentést annak kiállításától számított nyolc napon belül elektronikusan megküldi az igazoló hatóság részére.
+(6)[^535] Az irányító hatóság az alapok alapját végrehajtó szervezet közreműködésével minden hónap tizenkettedik napjáig hitelesítési jelentést állít ki, amelyben nyilatkozik arról, hogy a megelőző hónapban jóváhagyott, a monitoring és információs rendszerben rögzített és a programszámlára utalt támogatási összeggel kapcsolatos, a (2) és (3) bekezdés szerinti dokumentumalapú ellenőrzéseket, továbbá a nyilatkozatában meghatározott, a (4) és (5) bekezdés szerinti helyszíni ellenőrzéseket elvégezte. A hitelesítési jelentést az irányító hatóság az igazoló hatóság által meghatározott formában és tartalommal készíti el. Az irányító hatóság a kiállított hitelesítési jelentést annak kiállításától számított nyolc napon belül elektronikusan megküldi az igazoló hatóság részére.
 
-[^488]: A 151. § (2) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 26. pontja szerint módosított szöveg.
-[^489]: A 151. § (4) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 27. pontja szerint módosított szöveg.
-[^490]: A 151. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 176. pontja szerint módosított szöveg.
+[^533]: A 151. § (2) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 26. pontja szerint módosított szöveg.
+[^534]: A 151. § (4) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 27. pontja szerint módosított szöveg.
+[^535]: A 151. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 176. pontja szerint módosított szöveg.
