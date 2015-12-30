@@ -66,7 +66,7 @@
 
 ## b) a 26. és 27. cím tekintetében az Országos Egészségbiztosítási Pénztár és annak vezetője,
 
-## 19a.[^504] a központi költségvetés XXI. fejezeténél a Miniszterelnöki Kabinetiroda és a Kormánynak a Ktfr. 19/B. §-a szerinti tagja,
+## 19a.[^507] a központi költségvetés XXI. fejezeténél a Miniszterelnöki Kabinetiroda és a Kormánynak a Ktfr. 19/B. §-a szerinti tagja,
 
 ## 20. a központi költségvetés XXX. fejezeténél a Gazdasági Versenyhivatal és annak elnöke,
 
@@ -90,7 +90,7 @@
 
 ## 30. a központi költségvetés LXIII. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 31.[^505] a központi költségvetés LXV. fejezeténél a Bethlen Gábor Alapért felelős testület,
+## 31.[^508] a központi költségvetés LXV. fejezeténél a Bethlen Gábor Alapért felelős testület,
 
 ## 32. a központi költségvetés LXVI. fejezeténél a Nemzeti Fejlesztési Minisztérium és a Kormánynak a Ktfr. 109. §-a szerinti tagja,
 
@@ -120,7 +120,7 @@
 
 ## b) az országos nemzetiségi önkormányzat esetében az országos nemzetiségi önkormányzat képviselő-testülete és a képviselő-testület elnöke.
 
-2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^506]
+2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^509]
 
 Fejezetek megnevezése:
 
@@ -128,6 +128,6 @@ ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
 
 Költségvetési év: ........
 
-[^504]: Az Ávr. 1. melléklet I. alcím 19a. pontját a 306/2015. (X. 26.) Korm. rendelet 3. §-a iktatta be.
-[^505]: Az Ávr. 1. melléklet 31. pontja a 20/2015. (II. 17.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.
-[^506]: Az Ávr. 2. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 2. pontjával megállapított szöveg.
+[^507]: Az Ávr. 1. melléklet I. alcím 19a. pontját a 306/2015. (X. 26.) Korm. rendelet 3. §-a iktatta be.
+[^508]: Az Ávr. 1. melléklet 31. pontja a 20/2015. (II. 17.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.
+[^509]: Az Ávr. 2. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 2. pontjával megállapított szöveg.

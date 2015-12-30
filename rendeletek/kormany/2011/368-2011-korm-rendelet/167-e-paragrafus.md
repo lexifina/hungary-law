@@ -1,12 +1,12 @@
-167/E. § (1)[^442] A bejegyzési kérelemhez, a törlési kérelemhez és a változás-bejelentési kérelemhez a 167/C. §-ban meghatározott okiratok és dokumentumok mellett, a bejelentett adatok igazolására szolgáló okiratok a következők:
+167/E. § (1)[^443] A bejegyzési kérelemhez, a törlési kérelemhez és a változás-bejelentési kérelemhez a 167/C. §-ban meghatározott okiratok és dokumentumok mellett, a bejelentett adatok igazolására szolgáló okiratok a következők:
 
-1.[^443] az Áht. 8/A. § (3) bekezdése alapján kiadott, az államháztartásért felelős miniszter előzetes egyetértéséről szóló okirat,
+1.[^444] az Áht. 8/A. § (3) bekezdése alapján kiadott, az államháztartásért felelős miniszter előzetes egyetértéséről szóló okirat,
 
 2. a kultúráért felelős miniszter
 
 a) előzetes egyetértéséről szóló okirat a fővárosi önkormányzat által fenntartott levéltár esetében,
 
-b)[^444] előzetes véleményéről szóló okirat a megyei hatókörű városi múzeum, a megyei könyvtár és a fővárosi önkormányzat által fenntartott könyvtár, a települési könyvtár átszervezése vagy megszüntetése, az önkormányzati rendelet hatálya alá tartozó közművelődési intézmény létesítése, átszervezése, megszüntetése esetében,
+b)[^445] előzetes véleményéről szóló okirat a megyei hatókörű városi múzeum, a megyei könyvtár és a fővárosi önkormányzat által fenntartott könyvtár, a települési könyvtár átszervezése vagy megszüntetése, az önkormányzati rendelet hatálya alá tartozó közművelődési intézmény létesítése, átszervezése, megszüntetése esetében,
 
 3. helyi önkormányzati költségvetési szerv esetében az alapítást, adatmódosítást, átalakítást vagy megszüntetést jóváhagyó testületi vagy tanácsülés határozatának kivonata,
 
@@ -16,7 +16,7 @@ b)[^444] előzetes véleményéről szóló okirat a megyei hatókörű városi 
 
 6. közös működtetésű vagy fenntartású költségvetési szerv esetében – ha a létesítő okirat nem tartalmazza azt – megállapodás arról, hogy a törzskönyvi jogi személy költségvetése melyik irányító szerv költségvetésében szerepel,
 
-7.[^445] a helyi önkormányzat, a nemzetiségi önkormányzat bankszámla-szerződése,
+7.[^446] a helyi önkormányzat, a nemzetiségi önkormányzat bankszámla-szerződése,
 
 8. az államháztartás önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a feladat-, illetve intézményátadás esetén az átadó és átvevő közötti megállapodás, továbbá az átadásra-átvételre vonatkozó képviselő-testületi, közgyűlési határozatok kivonata,
 
@@ -28,7 +28,7 @@ b)[^444] előzetes véleményéről szóló okirat a megyei hatókörű városi 
 
 (2) Létesítő okiratként
 
-a)[^446] költségvetési szerv esetében az Áht. 8/A. § (2) bekezdése alapján kiadott alapító okirat, a módosító okirat és az alapító okirat módosításokkal egységes szerkezetbe foglalt változata, valamint a módosításokkal egységes szerkezetbe foglalt alapító okirat,
+a)[^447] költségvetési szerv esetében az Áht. 8/A. § (2) bekezdése alapján kiadott alapító okirat, a módosító okirat és az alapító okirat módosításokkal egységes szerkezetbe foglalt változata, valamint a módosításokkal egységes szerkezetbe foglalt alapító okirat,
 
 b) helyi önkormányzat, nemzetiségi önkormányzat esetében a képviselő-testület alakuló ülésén hozott, a törzskönyvi bejegyzéshez szükséges adatokat tartalmazó határozatának kivonata, valamint a törzskönyvi bejegyzést követően a szervezeti és működési szabályzata,
 
@@ -56,13 +56,13 @@ f) jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó 
 
 fogadható el.
 
-(4)[^447] A 167/C. § (1)–(4) bekezdésében meghatározott okiratot, dokumentumot közokiratként vagy annak hiteles másolataként kell benyújtani. A törzskönyvi jogi személy nyilvántartásba vételéhez, adatai változásának nyilvántartásba vételéhez és a nyilvántartásból való törléséhez szükséges létesítő okiraton és megszüntető okiraton kívül a 167/A. §-ban meghatározott adatok igazolására szolgáló okiratok egyszerű másolatként is benyújthatóak.
+(4)[^448] A 167/C. § (1)–(4) bekezdésében meghatározott okiratot, dokumentumot közokiratként vagy annak hiteles másolataként kell benyújtani. A törzskönyvi jogi személy nyilvántartásba vételéhez, adatai változásának nyilvántartásba vételéhez és a nyilvántartásból való törléséhez szükséges létesítő okiraton és megszüntető okiraton kívül a 167/A. §-ban meghatározott adatok igazolására szolgáló okiratok egyszerű másolatként is benyújthatóak.
 
 (5) A bejegyzési kérelmet, a törlési kérelmet, a változás-bejelentési kérelmet és azok mellékleteit egy példányban kell benyújtani.
 
-[^442]: Az Ávr. 167/E. § (1) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 44. § 71. pontja szerint módosított szöveg.
-[^443]: Az Ávr. 167/E. § (1) bekezdés 1. pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 72. pontja szerint módosított szöveg.
-[^444]: Az Ávr. 167/E. § (1) bekezdés 2. pont b) alpontja a 159/2014. (VI. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^445]: Az Ávr. 167/E. § (1) bekezdés 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 20. pontja szerint módosított szöveg.
-[^446]: Az Ávr. 167/E. § (2) bekezdés a) pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 19. pontja szerint módosított szöveg.
-[^447]: Az Ávr. 167/E. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 44. § 74. pontja szerint módosított szöveg.
+[^443]: Az Ávr. 167/E. § (1) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 44. § 71. pontja szerint módosított szöveg.
+[^444]: Az Ávr. 167/E. § (1) bekezdés 1. pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 72. pontja szerint módosított szöveg.
+[^445]: Az Ávr. 167/E. § (1) bekezdés 2. pont b) alpontja a 159/2014. (VI. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^446]: Az Ávr. 167/E. § (1) bekezdés 7. pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 20. pontja szerint módosított szöveg.
+[^447]: Az Ávr. 167/E. § (2) bekezdés a) pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 19. pontja szerint módosított szöveg.
+[^448]: Az Ávr. 167/E. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 44. § 74. pontja szerint módosított szöveg.
