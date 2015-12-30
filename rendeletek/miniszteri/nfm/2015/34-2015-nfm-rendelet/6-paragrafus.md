@@ -8,6 +8,6 @@
 
 (2)[^8]
 
-[^6]: Az 5. § a 8. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^6]: Az 5. § a 75/2015. (XII. 29.) NFM rendelet 28. § (2) bekezdés b) pontja alapján nem lép hatályba.
 [^7]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 6. § (2) bekezdése a 8. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^8]: A 6. § (2) bekezdése a 75/2015. (XII. 29.) NFM rendelet 28. § (2) bekezdés c) pontja alapján nem lép hatályba.
