@@ -4,38 +4,31 @@
 
 ## 4. A képzési rendszer felépítése
 
-4. § (1) A képzési rendszer
+4. § (1)[^7] A hatósági F-Gáz képesítési rendszer
 
-a) felkészítő képzésből, amely
+a) felkészítő képzésből,
 
-aa) felkészítő tanfolyamból és
-
-ab) felkészítő vizsgából;
-
-b) F-Gáz tanfolyamból és F-Gáz záróvizsgából, amely
-
-ba) e-Klímagáz távoktatásból és azt lezáró e-Klímagáz vizsgából,
-
-bb) az R. 4. melléklet 1. táblázat szerinti képesítési kategória megszerzéséhez szükséges és az 1. melléklet szerinti F-Gáz elméleti és gyakorlati konzultációból,
-
-bc) Klímagáz adatbázis oktatásból és
-
-bd) F-Gáz záróvizsgából;
+b) Klímagáz képzésből,
 
 c) F-Gáz képesítésből és
 
-d) képesítést megújító szakmai továbbképzésből
+d) képesítést megújító továbbképzésből
 
 ## áll.
 
-(2) Természetes személy eredményes F-Gáz záróvizsgát követően érvényes képesítési tanúsítvány birtokában képesített vállalkozással fennálló jogviszony keretében jogosult F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenység végzésére.
+(2)[^8] Természetes személy eredményes Klímagáz záróvizsgát követően érvényes képesítési tanúsítvány birtokában képesített vállalkozással fennálló jogviszony keretében jogosult F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenység végzésére.
 
 (3) A Hatóság által a személyeknek az R. 4. melléklet szerinti kategóriákban kiadott hatósági képesítési tanúsítvány megfelel:
 
-a) a 303/2008/EK bizottsági rendelet 5. cikke szerinti, személyek számára kiadott képesítési igazolásnak,
+a)[^9] a 2015/2067 bizottsági végrehajtási rendelet bizottsági rendelet 4. cikke szerinti, személyek számára kiadott képesítési igazolásnak,
 
-b) a 305/2008/EK bizottsági rendelet 4. cikke szerinti, személyek számára kiadott képesítési igazolásnak,
+b)[^10] a 2015/2066 bizottsági rendelet 3. cikke szerinti, személyek számára kiadott képesítési igazolásnak,
 
 c) a 306/2008/EK bizottsági rendelet 3. cikke szerinti, személyek számára kiadott képesítési igazolásnak, valamint
 
 d) a 307/2008/EK bizottsági rendelet 3. cikke szerinti személyek számára kiadott képesítési igazolásnak.
+
+[^7]: A 4. § (1) bekezdése a 73/2015. (XII. 29.) NFM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. § (2) bekezdése a 73/2015. (XII. 29.) NFM rendelet 28. § 4. pontja szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdés a) pontja a 73/2015. (XII. 29.) NFM rendelet 28. § 5. pontja szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdés b) pontja a 73/2015. (XII. 29.) NFM rendelet 28. § 6. pontja szerint módosított szöveg.

@@ -14,4 +14,6 @@ d) a számlatulajdonos nevét,
 
 e) a számlaszámot, ahová a kérelmező a visszatérített összeg kiutalását kéri.
 
-(3) Ha a jelentkező a Hatóság felhívásában foglaltak szerint nem vagy késedelmesen teljesíti díjfizetési kötelezettségét, a Hatóság a fizetési határidő leteltét követő öt napon belül a jelentkező jelentkezését hivatalból törli és erről a jelentkezőt írásban is értesíti.
+(3)[^55] Ha a jelentkező a Hatóság által elektronikus úton küldött egyenlegértesítőben foglalt díjfizetési kötelezettségét az értesítő megnyitásától számított 5 munkanapon belül nem teljesíti, a Hatóság a fizetési határidő leteltét követő 5 munkanapon belül a jelentkező jelentkezését hivatalból törli és erről a jelentkezőt írásban is értesíti.
+
+[^55]: A 28. § (3) bekezdése a 73/2015. (XII. 29.) NFM rendelet 17. §-ával megállapított szöveg.

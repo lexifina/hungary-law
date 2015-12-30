@@ -8,8 +8,11 @@ b) nem felelt meg
 
 ## minősítéssel értékeli.
 
-(3) A „megfelelt” szint eléréséhez szükséges követelményeket a HKKV tartalmazza.
+(3)[^58] A „megfelelt” szint eléréséhez szükséges követelményeket a HKKK tartalmazza.
 
-(4) A „nem felelt meg” eredményű vizsga esetében a sikertelen vizsgarészt a vizsgázó az SF6-Gáz vizsgadíj ismételt befizetését követően javítóvizsgán megismételheti. Amennyiben a vizsgázó a javítóvizsgán önhibájából nem jelenik meg, vagy a javítóvizsga sikertelen, újabb vizsgára csak a megszerezni kívánt képesítési kategóriára vonatkozó SF6-Gáz tanfolyam ismételt elvégezését követően bocsátható.
+(4)[^59] A „nem felelt meg” eredményű vizsga esetében a sikertelen vizsgarészt a vizsgázó az SF6-Gáz vizsgadíj ismételt befizetését követően javítóvizsgán megismételheti. Amennyiben a vizsgázó a javítóvizsgán önhibájából nem jelenik meg, vagy a második javítóvizsga sikertelen, újabb vizsgára csak a megszerezni kívánt képesítési kategóriára vonatkozó SF6-Gáz tanfolyam ismételt elvégezését követően bocsátható.
 
 (5) Aki a vizsgán „nem felelt meg” minősítést szerzett, legkorábban tizenöt nap eltelte után tehet újabb vizsgát.
+
+[^58]: A 31. § (3) bekezdése a 73/2015. (XII. 29.) NFM rendelet 28. § 20. pontja szerint módosított szöveg.
+[^59]: A 31. § (4) bekezdése a 73/2015. (XII. 29.) NFM rendelet 28. § 21. pontja szerint módosított szöveg.

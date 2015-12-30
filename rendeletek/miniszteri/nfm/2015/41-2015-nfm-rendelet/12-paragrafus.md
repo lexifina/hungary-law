@@ -1,21 +1,33 @@
-## 8. Az F-Gáz tanfolyam és az F-Gáz záróvizsga
+## 11. §[^31]
 
-12. § (1) Az F-Gáz tanfolyam és F-Gáz záróvizsga
+## 8. [^32] A Klímagáz képzés
 
-a) távoktatás keretében megvalósuló e-Klímagáz távoktatásból és azt lezáró e-Klímagáz vizsgából,
+12. §[^33] (1) A Klímagáz képzés Klímagáz tanfolyamból és Klímagáz záróvizsgából áll.
 
-b) az R. 4. melléklet 1. táblázat szerinti képesítési kategória megszerzéséhez szükséges és az 1. melléklet szerinti F-Gáz elméleti és gyakorlati konzultációból,
+(2) A Klímagáz tanfolyam
 
-c) Klímagáz adatbázis oktatásból és
+a) távoktatás keretében megvalósuló, személyes jelenléthez nem kötött e-Klímagáz távoktatásból,
 
-d) F-Gáz záróvizsgából
+b) az R. 4. melléklet 1. táblázata szerinti képesítési kategória megszerzéséhez szükséges és az 1. melléklet szerinti, személyes jelenléthez kötött elméleti és gyakorlati F-Gáz tanfolyamból
 
 ## áll.
 
-(2) Az F-Gáz tanfolyamon olyan természetes személy vehet részt, aki
+(3) A Klímagáz záróvizsga
 
-a) felkészítő tanfolyamon részt vett és sikeres felkészítő vizsgát tett, vagy
+a) e-Klímagáz vizsgából és
 
-b) a 2. mellékletben rögzített szakmai előképzettséggel igazoltan rendelkezik.
+b) elméleti és gyakorlati F-Gáz vizsgából
 
-(3) Az F-Gáz tanfolyam célja, hogy a képzésben résztvevő elsajátítsa és készségszerűen alkalmazza a választott képesítési kategória szerinti F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenység speciális szakmai ismereteket, tudást és gyakorlatot, megismerje a hatályos hazai jogszabályokat és releváns szabványokat, valamint az adatbázis rendszerét és kezelését.
+## áll.
+
+(4) A Klímagáz képzésen olyan személy vehet részt, aki
+
+a) igazoltan rendelkezik a 2. mellékletben rögzített szakmai előképzettséggel vagy
+
+b) az előírt felkészítő tanfolyamon részt vett és sikeres felkészítő vizsgát tett.
+
+(5) A Klímagáz tanfolyam célja, hogy a képzésben résztvevő elsajátítsa és készségszerűen alkalmazza a választott képesítési kategória szerinti F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenység speciális, az éghajlat és klímavédelmet célzó szakmai ismereteket, tudást és gyakorlatot, megismerje a hatályos uniós és hazai jogszabályokat, releváns szabványokat, valamint az adatbázis rendszerét és kezelését.
+
+[^31]: A 11. §-t a 73/2015. (XII. 29.) NFM rendelet 29. § c) pontja hatályon kívül helyezte.
+[^32]: A 8. alcím címe a 73/2015. (XII. 29.) NFM rendelet 28. § 9. pontjával megállapított szöveg.
+[^33]: A 12. § a 73/2015. (XII. 29.) NFM rendelet 8. §-ával megállapított szöveg.

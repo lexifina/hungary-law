@@ -1,15 +1,15 @@
-21. § (1) Aki nem teljesíti a 19. § (4) bekezdésben előírtakat, a képesítési tanúsítvány időbeli hatályának kezdő időpontjától számított három éven belül a 14–15. §-ban meghatározott eljárásrend szerinti e-Klímagáz távoktatáson és az azt lezáró e-Klímagáz vizsgán vesz részt az e §-ban foglalt eltérésekkel.
+21. §[^43] (1) Aki nem teljesíti a 19. § (4) bekezdésben előírtakat, a képesítési tanúsítvány időbeli hatályának kezdő időpontjától számított három éven belül a 14–15. §-ban meghatározott eljárásrend szerinti megújító e-Klímagáz távoktatáson, személyes jelenléthez kötött F-Gáz elméleti és gyakorlati konzultáción és az azt lezáró megújító e-Klímagáz vizsgán vesz részt az e §-ban foglalt eltérésekkel.
 
-(2) Az e-Klímagáz távoktatás az adatbázis gyakorlati alkalmazását bemutató egy napos gyakorlati foglalkozással zárul.
+(2) A megújító e-Klímagáz távoktatás célja az F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenységre vonatkozó hazai, uniós és nemzetközi jogszabályok, a tevékenység végzéséhez szükséges releváns szabványok, az adatbázissal kapcsolatos követelmények, annak gyakorlati alkalmazásának képesítési kategóriához kötött elméleti és gyakorlati ismereteinek megújítása, az új F-ÜHG-kal kapcsolatos új technológiák vagy azok alternatív technológiákkal, valamint helyettesítő hűtőközegekkel kapcsolatos információk átadása.
 
-(3) Az e-Klímagáz távoktatás célja az F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenységre vonatkozó hazai, uniós és nemzetközi jogszabályok, a tevékenység végzéséhez szükséges releváns szabványok, az adatbázissal kapcsolatos követelmények, annak gyakorlati alkalmazásának képesítési kategóriához kötött elméleti és gyakorlati ismereteinek megújítása, az új F-ÜHG-kal kapcsolatos új technológiák vagy azok alternatív technológiákkal, valamint helyettesítő hűtőközegekkel kapcsolatos információk átadása.
+(3) A megújító e-Klímagáz távoktatás teljesítéséhez a képesített személynek az adatbázisban kell jelentkeznie és a Hatóság által küldött elektronikus egyenlegértesítő alapján kell megfizetnie az e-Klímagáz képzésnek megfelelő díjat.
 
-(4) Az e-Klímagáz távoktatás teljesítéséhez a képesített személynek az adatbázisban kell jelentkeznie és a Hatóság felhívása szerint megfizetnie az e-Klímagáz távoktatás díját.
+(4) A megújító e-Klímagáz távoktatás megújító e-Klímagáz vizsgával zárul, a megújító e-Klímagáz vizsgát a távoktatás díjának befizetését követő egy hónapon belül meg kell kezdeni.
 
-(5) Az e-Klímagáz távoktatás konzultációval és E-vizsgával zárul, az E-vizsga időpontja és a távoktatás díjának befizetése között legfeljebb egy hónap telhet el.
+(5) A képzésben résztvevőnek a megújító e-Klímagáz vizsgát a Hatóság vagy a képző szerv biztosította vizsgahelyiségben kell teljesíteni vizsgafelügyelő jelenlétében.
 
-(6) A képzésben résztvevőnek az E-vizsgát a Hatóság vagy a képző szerv biztosította vizsgahelyiségben kell teljesíteni vizsgafelügyelő jelenlétében.
+(6) A sikeres megújító e-Klímagáz vizsga a képesítési tanúsítvány időbeli hatályának három évvel történő meghosszabbítását eredményezi.
 
-(7) A sikeres E-vizsga a képesítési tanúsítvány érvényességi idejének három évvel történő meghosszabbítását eredményezi.
+(7) A (6) bekezdésben foglaltak esetében a Hatóság a 19. § (5) bekezdése szerint jár el.
 
-(8) A (7) bekezdésben foglaltak esetében a Hatóság a 19. § (5) bekezdése szerint jár el.
+[^43]: A 21. § a 73/2015. (XII. 29.) NFM rendelet 13. §-ával megállapított szöveg.

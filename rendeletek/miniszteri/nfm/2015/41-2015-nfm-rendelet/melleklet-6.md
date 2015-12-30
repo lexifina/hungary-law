@@ -1,21 +1,23 @@
 ## A felkészítő tanfolyamok
 
-|  | A | B | C | D |
+|  | A | B | C | D | E |
 
-| 1. | Képesítési kategória | Felkészítő tanfolyam megjelölés | Felkészítő tanfolyam felépítése | Felkészítő vizsga |
+| 1. | Képesítési kategória | Felkészítő tanfolyam megjelölés | Felkészítő tanfolyam megnevezése | Felkészítő tanfolyam felépítése | Felkészítő vizsga |
 
-| 2. | HR-I | - | OKJ-s szakmai előképzettség | nincs |
+| 2. | HR-I | - | - | Szakmai előképzettség | nincs |
 
-| 3. | HR-II | FT-II | 70-90 óra kötelező oktatás | szóbeli és gyakorlati vizsga |
+| 3. | HR-II | FT-II | Kisteljesítményű hűtő-, klíma- és hőszivattyú berendezés szerelő | 50-60 óra kötelező képzés | szóbeli és gyakorlati vizsga |
 
-| 4. | HR-III | FT-III | 25-35 óra kötelező oktatás | szóbeli és gyakorlati vizsga |
+| 4. | HR-III | FT-III | Hűtőközeg lefejtő- kezelő_HR | 15-20 óra kötelező képzés | szóbeli és gyakorlati vizsga |
 
-| 5. | HR-IV | - | OKJ-s szakmai előképzettséggel elvégezhető | - |
+| 5. | HR-IV | - | - | Szakmai előképzettség | nincs |
 
-| 6. | MR-V | FT-III | 25-35 óra kötelező oktatás | szóbeli és gyakorlati vizsga |
+| 6. | MR-V | FT-III | Hűtőközeg lefejtő- kezelő_MR | 15-20 óra kötelező képzés | szóbeli és gyakorlati vizsga |
 
-| 7. | MR-VI | FT-VII. és FT-VI. | 55-65 óra kötelező oktatás | szóbeli és gyakorlati vizsga |
+| 7. | MR-VI | FT-VII. és FT-VI. | Nagyteljesítményű jármű hűtés- és klíma szerelő | 50-60 óra kötelező képzés | szóbeli és gyakorlati vizsga |
 
-| 8. | MR-VII | FT-VII. | 45-55 óra kötelező oktatás | szóbeli és gyakorlati vizsga |
+| 8. | MR-VII | FT-VII. | Kisteljesítményű jármű hűtés- és klíma szerelő | 25-30 óra kötelező képzés | szóbeli és gyakorlati vizsga |
 
-6. melléklet a 41/2015. (VII. 3.) NFM rendelethez
+6. melléklet a 41/2015. (VII. 3.) NFM rendelethez[^86]
+
+[^86]: A 6. melléklet a 73/2015. (XII. 29.) NFM rendelet 27. § (5) bekezdésével megállapított szöveg.

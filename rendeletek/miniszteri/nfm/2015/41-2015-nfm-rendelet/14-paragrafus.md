@@ -1,7 +1,7 @@
-14. § (1) A képzésben résztvevőnek az e-Klímagáz távoktatást az F-Gáz tanfolyamra való jelentkezést követő három hónapon belül el kell végeznie és sikeres e-Klímagáz vizsgát kell tennie.
+14. §[^35] (1) Az e-Klímagáz távoktatás az adatbázison keresztül teljesítendő.
 
-(2) A sikeres e-Klímagáz vizsga és F-Gáz záróvizsga időpontja között legfeljebb hat hónap telhet el.
+(2) A távoktatás során a képzésben résztvevőnek fel kell készülnie és az e-Klímagáz vizsgán számot kell adnia a klímagázokkal és az ezekkel üzemelő berendezésekkel, rendszerekkel kapcsolatos hazai, uniós, valamint nemzetközi jogszabályi szabályozás ismeretéről, a HR és MR szektorral szemben támasztott szakmai ismeretekről, követelményekről, a szakmai és klímagázokkal kapcsolatos tevékenységek végzésének kompetencia feltételeiről.
 
-(3) Az e-Klímagáz vizsgán a képzésben résztvevőnek számot kell adnia a hazai és uniós, valamint nemzetközi klímagázokkal kapcsolatos jogszabályi rendelkezésekről és szabályozásról, a HR és MR szektorral szemben támasztott követelményekről, a klímagázokkal kapcsolatos tevékenységek végzésének feltételeiről.
+(3) A képzésben résztvevőnek az e-Klímagáz vizsgát Klímagáz záróvizsga keretén belül, az adatbázison keresztül kell teljesíteni meghatározott idő alatt az adatbázis által generált kérdéssor alapján.
 
-(4) A képzésben résztvevőnek az e-Klímagáz vizsgát távoktatás keretében az adatbázison keresztül kell teljesíteni meghatározott idő alatt az adatbázis által generált kérdéssor alapján.
+[^35]: A 14. § a 73/2015. (XII. 29.) NFM rendelet 10. §-ával megállapított szöveg.

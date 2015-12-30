@@ -10,4 +10,6 @@ b) egyéb, a Hatóság által szervezett vagy a Hatóság által más szervezet 
 
 ## áll.
 
-(3) A megújító továbbképzés célja az F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenység végzésére vonatkozó jogszabályi rendelkezések naprakészen tartása, uniós és hazai jogszabályi változások megismertetése és alkalmazásuk bemutatása, a hatósági és uniós jelentéstételi-adatszolgáltatási és nyilvántartási rendszerekkel, valamint az új F-ÜHG-kal kapcsolatos technológiák valamint azok alternatív technológiákkal, vagy helyettesítő hűtőközegekkel kapcsolatos információk átadása.
+(3)[^38] A megújító továbbképzés célja az F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenység végzésére vonatkozó jogszabályi rendelkezések ismereteinek naprakészen tartása, uniós és hazai jogszabályi változások megismertetése és alkalmazásuk bemutatása, a hatósági és uniós jelentéstételi-adatszolgáltatási és nyilvántartási rendszerekkel, valamint az új F-ÜHG-kal kapcsolatos – és az azokat helyettesítő alternatív – technológiákkal, vagy helyettesítő hűtőközegekkel kapcsolatos információk átadása.
+
+[^38]: A 18. § (3) bekezdése a 73/2015. (XII. 29.) NFM rendelet 28. § 10. pontja szerint módosított szöveg.

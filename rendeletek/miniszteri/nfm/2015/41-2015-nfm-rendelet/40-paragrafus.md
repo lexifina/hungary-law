@@ -2,9 +2,9 @@
 
 ## KÉPESÍTÉST IGAZOLÓ OKIRATOK
 
-## 17. A képesítési tanúsítvány és az „F-Gáz kártya” kiadása és tartalma
+## 17. [^65] A képesítési tanúsítvány kiadása és tartalma
 
-40. § (1) A Hatóság a sikeres F-Gáz és SF6-Gáz záróvizsgát követően a képzésen résztvevő személy részére a 8. melléklet szerinti tanúsítványt állítja ki.
+40. § (1)[^66] A Hatóság a sikeres Klímagáz és SF6-Gáz záróvizsgát követően a képzésen résztvevő személy részére tanúsítványt állít ki, melyben feltünteti a (4) bekezdésben foglaltakat.
 
 (2) Csak azon képesítési kategóriáról adható ki tanúsítvány, amelynek minden vizsgarészét a vizsgázó „megfelelt” eredménnyel teljesíti.
 
@@ -22,12 +22,8 @@ d) a kiállítás dátumát és
 
 e) a Hatóság hivatalos aláírását.
 
-(5) A Hatóság a képesítési tanúsítvány kiállítását követően „F-Gáz kártya” elnevezésű kártyát állít ki, amely hitelesen igazolja az F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenység végzésére való jogosultságot. A kártya a következő tartalmazza
+(5)–(6)[^67]
 
-a) a jogosult F-Gáz ügyfélazonosítóját, nevét és arcképét, születési helyét és idejét,
-
-b) a képesítési kategóriát és az ahhoz kapcsolódó tevékenység megnevezését,
-
-c) a Hatóság megnevezését, hivatalos aláírását.
-
-(6) Az F-Gáz kártya a képesítési jogosultság hatályosságát nem tanúsítja, az az adatbázisban F-Gáz ügyfélazonosító általi keresés alapján mindenki számára nyilvánosan elérhető.
+[^65]: A 17. alcím címe a 73/2015. (XII. 29.) NFM rendelet 29. § g) pontja szerint módosított szöveg.
+[^66]: A 40. § (1) bekezdése a 73/2015. (XII. 29.) NFM rendelet 21. §-ával megállapított szöveg.
+[^67]: A 40. § (5)–(6) bekezdését a 73/2015. (XII. 29.) NFM rendelet 29. § h) pontja hatályon kívül helyezte.

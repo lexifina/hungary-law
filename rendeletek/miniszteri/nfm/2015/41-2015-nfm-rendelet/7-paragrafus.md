@@ -6,6 +6,9 @@
 
 (4) A képzés során a Hatóság köteles a képzésben résztvevők számára a képzésnek megfelelő tansegédletet biztosítani.
 
-(5) A képzésben résztvevők legalább 10 és legfeljebb 30 fős csoportban elméleti és gyakorlati oktatáson vesznek részt. A Hatóság a költséghatékonyságra is figyelemmel, ha az oktatási körülmények azt lehetővé teszik, engedélyezheti a tanfolyamok eltérő létszámmal való megtartását.
+(5)[^19] A személyes jelenléthez kötött, a 12. § (1) bekezdése és a 21. § (1) bekezdése szerinti képzéseken a résztvevők legalább 10 és legfeljebb 30 fős csoportban vesznek részt. A Hatóság a költséghatékonyságra is figyelemmel, ha az oktatási körülmények azt lehetővé teszik, engedélyezheti a tanfolyamok eltérő létszámmal való megtartását.
 
-(6) A távoktatás keretében megvalósuló tanfolyamokon és a képesítést megújító továbbképzésen való részvétel létszámkeret meghatározása nélkül történik.
+(6)[^20] A távoktatás keretében megvalósuló tanfolyamokon és továbbképzésen való részvétel létszámkeret meghatározása nélkül történik.
+
+[^19]: A 7. § (5) bekezdése a 73/2015. (XII. 29.) NFM rendelet 4. §-ával megállapított szöveg.
+[^20]: A 7. § (6) bekezdése a 73/2015. (XII. 29) NFM rendelet 29. § b) pontja szerint módosított szöveg.

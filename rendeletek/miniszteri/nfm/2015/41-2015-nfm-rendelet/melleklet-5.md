@@ -1,30 +1,34 @@
 ## IGAZOLÁS
 
-## F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenységet végzők képzésére való jelentkezésről
+## F-ÜHG-t tartalmazó alkalmazásokkal kapcsolatos tevékenységet végzők F-Gáz képzésére való jelentkezésről
 
 ## A Nemzeti Klímavédelmi Hatóság igazolja, hogy
 
-## Név:
+## Név: ..............................................................................................................................................
 
-## Születési hely:
+## Születési hely: ..............................................................................................................................
 
-## Születési idő:
+## Születési idő: ................................................................................................................................
 
-## Anyja neve:
+## Anyja neve: ..................................................................................................................................
 
-## .................................................................... (képesítési kategória megjelölése) tanfolyamra
+## .................................................................... (képesítési kategória megjelölése) képzésre
 
-## ............... év ................ hó ..... …napján jelentkezett, a tanfolyam ____________________ forint összegű díját megfizette, a jelentkezése elfogadásra került.
+## ............... év ................ hó ..... …napján jelentkezett, a tanfolyam ____________________ forint összegű díját megfizette,
 
-## A tanfolyamot lebonyolító képző szerv neve:
+## a jelentkezése elfogadásra került.
 
-## A tanfolyam helyszíne:
+## A képzést várhatóan lebonyolító képző szerv neve:
 
-## A tanfolyam kezdésének várható időpontja:
+## ................................................................................................
 
-## A tanfolyam befejezésének várható időpontja:
+## A képzés kezdésének várható időpontja: .....................................................................................
 
-## Az igazolás a kiállítástól számított három hónapig érvényes.
+## A képzés befejezésének várható időpontja: .................................................................................
+
+## Az igazolás a kiállítástól számított 1 évig érvényes.
+
+## Ezen igazolás alapján nevezett jogosult – azonos kategóriás képesített személy felügyelete mellett – hűtőközeg környezetbe jutását okozó, a kategóriának megfelelő tevékenység végzésében közreműködni.
 
 ## Kelt .........................., ............ év.............................. hó ...... napján
 
@@ -36,4 +40,6 @@
 
 ## Nemzeti Klímavédelmi Hatóság
 
-5. melléklet a 41/2015. (VII. 3.) NFM rendelethez
+5. melléklet a 41/2015. (VII. 3.) NFM rendelethez[^85]
+
+[^85]: Az 5. melléklet a 73/2015. (XII. 29.) NFM rendelet 27. § (4) bekezdésével megállapított szöveg.
