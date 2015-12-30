@@ -1,0 +1,1 @@
+A Kormány a hadigondozásról szóló 1994. évi XLV. törvény 28. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
