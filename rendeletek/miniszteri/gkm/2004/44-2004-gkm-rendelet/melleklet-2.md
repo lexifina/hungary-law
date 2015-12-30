@@ -4,7 +4,7 @@
 
 |  |  | Díj Ft/db |
 
-| 1. | Közúti árufuvarozói, illetőleg autóbuszos személyszállító engedély és belföldi saját számlás autóbuszos utasszállító igazolvány kiadása, valamint érvényességi idejének lejárta vagy adatváltozás miatti cseréjének alapdíja | 4 700 |
+| 1. | Közúti árufuvarozói, illetőleg autóbuszos személyszállító engedély és belföldi autóbuszos saját számlás személyszállítási igazolvány kiadása, valamint érvényességi idejének lejárta vagy adatváltozás miatti cseréjének alapdíja | 4 700 |
 
 |  | továbbá az engedélykivonatok járművenkénti vagy járműszerelvényenkénti díja |  |
 
