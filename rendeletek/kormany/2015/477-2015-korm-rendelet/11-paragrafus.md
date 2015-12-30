@@ -1,0 +1,3 @@
+## „(3) A (2) bekezdésben meghatározott biztosíték mellett a támogatási szerződésben további biztosíték nyújtását is elő kell írni. Biztosíték lehet az óvadék, a bankgarancia, a készfizető kezesség vagy jelzálogjog, valamint ezek egyidejű vagy időben egymást követő kombinációja. E biztosítékok körét és kombinációját a támogató jogosult meghatározni úgy, hogy az a támogatás maradéktalan, a lehető legrövidebb időn belüli visszafizetését – ideértve a jogszabály vagy a támogatási szerződés alapján járó esetleges kamatokat – eredményesen biztosítsa.”
+
+11. § Ez a rendelet a kihirdetését követő napon lép hatályba.
