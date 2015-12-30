@@ -32,36 +32,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A KEOP-2012-5.6.0 jelű („Központi költségvetési szervek energiahatékonysági beruházásai” című) támogatási konstrukcióban benyújtott projektek megvalósításának jóváhagyásáról és egyes projektek támogatásának visszavonásáról szóló 1501/2014. (IX. 5.) Korm. határozat 1. mellékletében foglalt táblázat C:11 mezőjében a „850 280 405” szövegrész helyébe az „5 850 280 405” szöveg lép.
+## 3.[^2]
 
-## 4. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat 1. melléklet
-
-## a) 5.2.1. pontjában foglalt táblázat
-
-## aa) A:3 mezőjében a „28,03” szövegrész helyébe a „28,02” szöveg,
-
-## ab) C:3 mezőjében a „123,28” szövegrész helyébe a „128,28” szöveg,
-
-## ac) D:3 mezőjében a „214,89” szövegrész helyébe a „219,88” szöveg,
-
-## ad) A–D:4 mezőjében a „121,06” szövegrész helyébe a „126,05” szöveg,
-
-## b) 5.2.2. pontjában foglalt táblázat
-
-## ba) A:3 mezőjében a „260,82” szövegrész helyébe a „259,89” szöveg,
-
-## bb) B:3 mezőjében a „15,59” szövegrész helyébe a „21,51” szöveg,
-
-## bc) C:3 mezőjében a „276,41” szövegrész helyébe a „281,40” szöveg,
-
-## c) 5.3.1. pontjában foglalt táblázat
-
-## ca) C:3 mezőjében a „28,03” szövegrész helyébe a „28,02” szöveg,
-
-## cb) E:5 mezőjében a „83,28” szövegrész helyébe a „88,28” szöveg,
-
-## d) 5.3.3. pontban a „121,06” szövegrész helyébe a „126,05” szöveg
-
-## lép.
+## 4.[^3]
 
 1. melléklet az 1997/2015. (XII. 28.) Korm. határozathoz
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
