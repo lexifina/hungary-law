@@ -1,3 +1,5 @@
-## 6.
+## 6. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
-33–34. §
+33. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ektv.) 16/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 4. §-ban, az 5. §-ban, a 14/A. §-ban, és a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet 14. cikk (1) és (2) bekezdésében foglalt rendelkezések megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jogosult. Az eljáró hatóság a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott szabályok szerint jár el.”
