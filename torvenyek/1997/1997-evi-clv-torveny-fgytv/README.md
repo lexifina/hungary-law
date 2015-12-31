@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-155-00-00
 | 2014-10-07 | 2014. évi XLI. törvény | 1997-155-00-00.46 |
 | 2015-02-01 | 2014. évi XLI. törvény | 1997-155-00-00.47 |
 | 2015-09-11 | 2015. évi CXXXVII. törvény | 1997-155-00-00.48 |
+| 2015-12-31 | 2015. évi CCXXV. törvény | 1997-155-00-00.49 |
