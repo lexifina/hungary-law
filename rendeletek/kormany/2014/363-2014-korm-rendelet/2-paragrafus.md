@@ -14,4 +14,8 @@ f) a hitelezői feltőkésítés után elkészítendő reorganizációs terv ese
 
 g) az átvevő intézmény által átveendő létesítmény ideiglenes biztosításához és működtetéséhez kapcsolódó költségek, így különösen az egyes banki Treasury-k által végrehajtott fedezeti ügyletek újra vagy átkötése; valamint
 
-h) a hitelbiztosítékok érvényesítésének korlátozása során felmerülő tranzakciós költségek.
+h) a hitelbiztosítékok érvényesítésének korlátozása során felmerülő tranzakciós költségek;
+
+i)[^1] a szanálási eszközök és szanálási jogosultságok alkalmazásához kapcsolódóan felmerült egyéb indokolt és igazolt költség.
+
+[^1]: A 2. § i) pontját a 468/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
