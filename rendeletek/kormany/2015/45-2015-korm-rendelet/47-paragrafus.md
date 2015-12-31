@@ -1,1 +1,0 @@
-## 46. § A biztosító vagy a viszontbiztosító által e rendelet hatálybalépését követően benyújtott, az 1. § szerinti eljárásokhoz kapcsolódó jóváhagyási vagy engedélyezési kérelmeket a Felügyelet e rendelet rendelkezései alapján megvizsgálja, és azokról határozatot hoz. Ezen felügyeleti határozatokban foglaltak 2016. január 1. napjától alkalmazandóak.
