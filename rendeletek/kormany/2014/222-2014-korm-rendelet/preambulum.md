@@ -1,5 +1,0 @@
-A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,
-
-az 5. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
-
-az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
