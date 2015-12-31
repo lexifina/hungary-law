@@ -1,4 +1,4 @@
-## 26–35. §[^9]
+## 26–35. §[^12]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 25. § (3) bekezdése 2017. január 1-jén lép hatályba.
 
-[^9]: A 26–35. § a 36. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^12]: A 26–35. § a 36. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

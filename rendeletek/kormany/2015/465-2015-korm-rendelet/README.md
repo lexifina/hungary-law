@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-465-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-30 | 2015-465-20-22.1 | 465/2015. (XII. 29.) Korm. rendelet |
+| 2015-12-31 | 2015-465-20-22.2 | 2010: CXXX. törvény |
