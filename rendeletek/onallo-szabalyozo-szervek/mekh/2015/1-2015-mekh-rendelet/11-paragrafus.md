@@ -12,10 +12,9 @@
 
 (5) Az első előzetes havi kiegyenlítő kifizetésre a tárgyhónapot követő hónap 15. napjáig kerül sor mind a kapacitásdíjból, mind a forgalmi díjból származó mérték tekintetében, figyelemmel a 7. § szerinti tájékoztatási kötelezettségre.
 
-(6) A 9. § szerinti felülvizsgálatra abban az esetben kerül sor, amennyiben az előzetes havi kiegyenlítő fizetésekkel érintett hónapok száma legalább négy.
-
-(7) A 9. § szerinti felülvizsgálat esetén az engedélyesek a mennyiségi és kapacitáslekötési adatokat a tárgyévben az előzetes havi kiegyenlítő fizetésekkel érintett hónapok felét követő hónap 15. napjáig megküldik a Hivatal részére.
+(6)–(7)[^20]
 
 (8) A Hivatal elnöke 2016. augusztus 15-ig az 1. melléklet III. pontja szerinti képlet alapján e rendeletben állapítja meg, hogy a 2015. évre vonatkozó végleges időarányos elszámolások tekintetében mely engedélyesek és milyen mértékben kötelesek éves kiegyenlítő befizetést teljesíteni, vagy részesülnek éves kiegyenlítő kifizetésben.
 
 [^19]: A 11. § a 4/2015. (VII. 27.) MEKH rendelet 7. §-ával megállapított szöveg.
+[^20]: A 11. § (6)–(7) bekezdését a 12. § (4) bekezdése hatályon kívül helyezte.
