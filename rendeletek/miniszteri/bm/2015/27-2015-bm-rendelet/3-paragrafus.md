@@ -1,1 +1,0 @@
-## 2. § Az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások meghatározásakor a hivatásos állomány szolgálati beosztást betöltő tagjának 2015. június 30-án hatályos kinevezése szerinti szolgálati beosztását kell figyelembe venni.
