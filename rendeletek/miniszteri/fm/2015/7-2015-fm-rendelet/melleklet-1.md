@@ -1,4 +1,4 @@
-## 13–14. §[^1]
+## 14. §[^28]
 
 1. melléklet a 7/2015. (III. 11.) FM rendelethez
 
@@ -22,10 +22,12 @@
 
 9. Mellékletek
 
-9.1 az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság igazolása az ügyfél által a támogatási kérelem benyújtásának időpontjáig a TIR-be bejelentett kocaférőhely kapacitásról, darabszámban kifejezve,
+9.1[^29] a megyei kormányhivatal igazolása az ügyfél által a támogatási kérelem benyújtásának időpontjáig a TIR-be bejelentett kocaférőhely kapacitásról, darabszámban kifejezve,
 
 9.2 a 2. § (5) bekezdés b) pont bd) alpontja szerinti tagságról szóló igazolás eredeti példánya,
 
-9.3 nagyvállalkozásnak minősülő ügyfél esetén az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság álláspontja arról, hogy részvétele a támogatási programban indokolt.
+9.3[^30] nagyvállalkozásnak minősülő ügyfél esetén a megyei kormányhivatal álláspontja arról, hogy részvétele a támogatási programban indokolt.
 
-[^1]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: Az 1. melléklet 9. pont 9.1. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja szerint módosított szöveg.
+[^30]: Az 1. melléklet 9. pont 9.3. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja szerint módosított szöveg.

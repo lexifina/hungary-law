@@ -18,13 +18,15 @@ közötti időszakban nyújtható be az (1) bekezdésben meghatározottak szerin
 
 a) az egyes tevékenységeknél előírt dokumentumokat,
 
-b) az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak
+b)[^18] a megyei kormányhivatalnak a 2. § (5) bekezdés f) pontja szerinti állat-egészségügyi nyilvántartási kötelezettségeknek való megfelelésről, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló igazolását,
 
-ba) a 2. § (5) bekezdés f) pontja szerinti állat-egészségügyi nyilvántartási kötelezettségeknek való megfelelésről, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló igazolását, valamint
+c)[^19] a sertéságazati területi felelős által kiállított dokumentumot
 
-bb) az érintett tenyészetnek az adott tárgynegyedév záró napjáig a TIR-be bejelentett, a 2. § (4) bekezdés szerint megállapított tenyészkocák létszámát is tartalmazó igazolását,
+ca) a 2. § (4) bekezdése szerinti támogatható tenyészkoca létszámról, az adott tárgynegyedév záró napjára vonatkozóan,
 
-c) az állatállományt felügyelő vagy kezelő állatorvos (a továbbiakban: kezelő állatorvos) igazolását arról, hogy az ügyfél az adott tevékenységre vonatkozó feltételeket teljesítette.
+cb) arról, hogy az ügyfél eleget tesz a Sertés-ENAR rendelet előírásainak,
+
+cc) arról, hogy az ügyfél a támogatási igénnyel érintett tevékenységre vonatkozó, a 6–9. §-ban foglalt feltételeket az adott tárgynegyedév vonatkozásában teljesítette.
 
 (4) Az adott tárgynegyedévre vonatkozó kifizetési kérelmekben foglalt jogos igények alapján legfeljebb a teljes támogatási évre rendelkezésre álló forrás egynegyede fizethető ki.
 
@@ -37,3 +39,6 @@ c) az állatállományt felügyelő vagy kezelő állatorvos (a továbbiakban: k
 (8) A támogatási év lezárását követően az MVH tájékoztatja az ügyfelet az érintett támogatási évben igénybe vett teljes támogatás összegéről és az ahhoz kapcsolódó átlagos állategységéről.
 
 (9) A beérkezett támogatási kérelmekről, az adott tárgynegyedévre jóváhagyott igényekről, továbbá a kifizetett támogatás összegéről az MVH tájékoztatást küld a miniszternek.
+
+[^18]: Az 5. § (3) bekezdés b) pontja a 92/2015. (XII. 23.) FM rendelet 3. §-ával megállapított szöveg.
+[^19]: Az 5. § (3) bekezdés c) pontja a 92/2015. (XII. 23.) FM rendelet 3. §-ával megállapított szöveg.
