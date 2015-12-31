@@ -1,0 +1,3 @@
+94. § Az MNBtv. 48. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Az MNB valamely – a 48. § (1) bekezdésében meghatározott – eljárásában vagy folyamatos felügyelés keretében jogszerűen megszerzett iratot, adatot, dokumentumot vagy egyéb bizonyítási eszközt más – a 48. § (1) bekezdésében meghatározott – eljárásaiban és a folyamatos felügyelés során is felhasználhatja, feltéve, hogy az így megszerzett és kezelt – akár személyes adatot tartalmazó vagy annak minősülő – irat, adat, dokumentum vagy egyéb bizonyítási eszköz más eljárásban történő felhasználása az adott eljárás során a tényállás tisztázásához és az eljárás lefolytatásához szükséges.”

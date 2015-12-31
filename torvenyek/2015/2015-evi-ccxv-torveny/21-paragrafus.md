@@ -1,0 +1,3 @@
+21. § Az Öpt. 51. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A fedezeti alapon az egészségpénztár a tag, illetve a munkáltatói tag által teljesített befizetésének legalább a 90 százalékát köteles jóváírni. E szabálytól a pénztár a tag belépésétől számított első két befizetés esetén külön jogszabályban meghatározottak szerint eltérhet. Az az egészségpénztár, amely kizárólag olyan szolgáltatást nyújt, amelynek fedezetét több pénztártag egyéni egészségszámlájának egyidejű megterhelésével biztosítja, a tag, illetve a munkáltatói tag által teljesített befizetésnek legalább a 70 százalékát köteles jóváírni a fedezeti alapon.”
