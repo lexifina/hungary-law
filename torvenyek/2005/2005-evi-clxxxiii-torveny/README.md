@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2015-07-03 | 2015. évi LXXIX. törvény | 2005-183-00-00.39 |
 | 2015-07-18 | 2015. évi CIII. törvény | 2005-183-00-00.40 |
 | 2015-08-03 | 2015. évi CIII. törvény | 2005-183-00-00.41 |
+| 2015-12-31 | 2015. évi CCXXV. törvény | 2005-183-00-00.42 |

@@ -96,7 +96,7 @@ rendeletben állapítsa meg.
 
 25. az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljaira vonatkozó részletes szabályokat,
 
-26. a vasútépítési projektek során keletkező állami vagyon átadásával és az átadott vagyon működtetésével kapcsolatos egyes részletes szabályokat,
+26. a vasútépítési projektek, illetve a 44. § szerinti létesítési, felújítási, fejlesztési tevékenységek során létrejövő állami vagyon átadásával, elszámolásával, az ezzel kapcsolatos adatszolgáltatással, valamint építtetői feladatokkal kapcsolatos részletes szabályokat,
 
 27. a vasúti pálya és tartozékai tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályait,
 
