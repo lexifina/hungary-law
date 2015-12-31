@@ -1,9 +1,6 @@
-10/C. §[^54] (1) A 10/A. § (1)–(2) bekezdése alapján kötött határozott idejű bérleti szerződés határozatlan időtartamú bérleti szerződéssé alakul át a határozott idő elteltével, és a bérbeadó nem intézkedhet a bérlő által lakott ingatlan kiürítése iránt, ha a bérlő a bérleti idő lejárta után az általa lakott ingatlant tovább használja, és az alábbi feltételek valamelyike fennáll:
-
-a) a bérlő a lakbérfizetési és az adósságkezelési és együttműködési megállapodásban vállalt kötelezettségének eleget tett, vagy
-
-b) a Segítő Szervezet javaslata alapján a bérlő méltánylást érdemlő élethelyzete a bérlő ingatlanban maradását indokolja, és a bérlő maradéktalanul eleget tett a határozott idejű bérleti szerződésből eredő kötelezettségeinek.
+10/C. §[^57] (1)[^58] A 10/A. § (1)–(2) bekezdése alapján kötött határozott idejű bérleti szerződés határozatlan időtartamú bérleti szerződéssé alakul át a határozott idő elteltével, és a bérbeadó nem intézkedhet a bérlő által lakott ingatlan kiürítése iránt, ha a bérlő a bérleti idő lejárta után az általa lakott ingatlant tovább használja, valamint lakbérfizetési és az adósságkezelési és együttműködési megállapodásban vállalt kötelezettségének eleget tett, vagy a Segítő Szervezet – az adósságkezelési és együttműködési program előrehaladásának összefoglalását is tartalmazó – írásbeli javaslata alapján a bérlő méltánylást érdemlő élethelyzete az ingatlanban való maradását indokolja, és egyébként a bérlő maradéktalanul eleget tett a határozott idejű bérleti szerződésből eredő kötelezettségeinek.
 
 (2) A bérlő köteles – az (1) bekezdésben meghatározott kivétellel – a bérleti szerződés megszűnését követő 15 napon belül az ingatlanból kiköltözni, és azt a bérbeadónak rendeltetésszerű használatra alkalmas állapotban visszaadni. Önkéntes átadás hiányában a bérbeadó a 10. §-ban foglaltak alapján intézkedik az ingatlan kiürítése iránt.
 
-[^54]: A 10/C. § a 245/2015. (IX. 8.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^57]: A 10/C. § a 245/2015. (IX. 8.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^58]: A 10/C. § (1) bekezdése a 447/2015. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
