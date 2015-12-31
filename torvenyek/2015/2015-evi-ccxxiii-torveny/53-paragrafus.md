@@ -1,0 +1,3 @@
+53. § A Cst. 36/A. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A felsőoktatási intézményben tanulmányokat folytatók hallgatói jogviszonyának fennállásáról és annak megszűnéséről a kormány által az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv adatot szolgáltat a fővárosi és megyei kormányhivatal részére. Az adatok átadásának módjáról az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv és a családtámogatási ellátásokkal kapcsolatos fellebbezések elbírálására jogosult hatóság megállapodást köt.”

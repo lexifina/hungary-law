@@ -1,0 +1,3 @@
+42. § Az Ebtv. 66. §-a a következő (1b) bekezdéssel egészül ki:
+
+„(1b) Ha a szülők egyike jogalap nélkül vette fel a gyermekük után járó pénzbeli ellátást vagy gyermekgondozási támogatást, mindkét szülő erre irányuló egybehangzó nyilatkozata alapján a jogalap nélkül felvett ellátás a másik szülőnek – a közös háztartásban nevelt gyermekükre tekintettel – megállapított pénzbeli ellátás összegéből levonható. Ha a szülők nem járulnak hozzá egybehangzó nyilatkozattal a levonáshoz, a jogalap nélkül felvett ellátást – felróhatóságra tekintet nélkül – az a szülő köteles visszafizetni, aki az ellátást felvette.”
