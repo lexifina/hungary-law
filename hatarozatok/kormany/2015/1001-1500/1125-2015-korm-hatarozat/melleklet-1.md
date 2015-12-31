@@ -362,7 +362,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 12,81 | 0,00 | 1,15 | 13,96 |
+| 3. | 12,82 | 0,00 | 1,15 | 13,97 |
 
 | 4. | Többletkötelezettség-vállalás: 0,42 Mrd Ft |
 
@@ -376,7 +376,7 @@
 
 | 2. | 2007–2014. | 2014. | 2015. | Összesen |
 
-| 3. | 22,08 | 1,28 | 0,00 | 23,36 |
+| 3. | 22,81 | 0,55 | 0,00 | 23,36 |
 
 6.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -388,13 +388,13 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 6.1.0/A | FÉF kampányok | 4,22 | 0,00 | 0,00 | Előre meghatározott forgatókönyv és szakmai tartalom szerint megvalósuló iskolai rendezvények támogathatók. | nemzeti fejlesztési miniszter | földművelésügyi miniszter |
+| 3. | 6.1.0/A | FÉF kampányok | 4,21 | 0,00 | 0,00 | Előre meghatározott forgatókönyv és szakmai tartalom szerint megvalósuló iskolai rendezvények támogathatók. | nemzeti fejlesztési miniszter | földművelésügyi miniszter |
 
 | 4. | 6.1.0/B | FÉF kampányok | – térségi komplex kampányok megtervezése és lebonyolítása, – fenntarthatósági tematikájú rendezvény/rendezvénysorozat szervezése és lebonyolítása, – lakossági tanácsadó iroda fejlesztése | nemzeti fejlesztési miniszter | földművelésügyi miniszter |
 
 | 5. | 6.1.0/C | FÉF kampányok | Országos komplex kampányok megtervezése és lebonyolítása. | nemzeti fejlesztési miniszter | földművelésügyi miniszter |
 
-| 6. | 6.2.0/A | FÉF mintaprojektek | 4,90 | 0,00 | 0,00 | – a hivatásforgalmú kerékpáros közlekedés infrastrukturális feltételeinek javítása, – házi és közösségi komposztálást népszerűsítő mintaprojekt | nemzeti fejlesztési miniszter | földművelésügyi miniszter |
+| 6. | 6.2.0/A | FÉF mintaprojektek | 4,92 | 0,00 | 0,00 | – a hivatásforgalmú kerékpáros közlekedés infrastrukturális feltételeinek javítása, – házi és közösségi komposztálást népszerűsítő mintaprojekt | nemzeti fejlesztési miniszter | földművelésügyi miniszter |
 
 | 7. | 6.2.0/B | FÉF mintaprojektek | – középületek komplex környezetbarát (hulladékmegelőző, víztakarékos, energiatakarékos) átalakítása, – fenntartható életmóddal kapcsolatos nonprofit információs központok fejlesztése, – környezetbarát, helyi élelmiszerek piacának fejlesztése, – biotermékek, illetve környezetbarát termékek és szolgáltatások minősítő vagy hitelesítő rendszerének fejlesztése, a rendszerek népszerűsítése | nemzeti fejlesztési miniszter | földművelésügyi miniszter |
 
@@ -521,4 +521,4 @@
 [^3]: Az 1. pont f) alpontját az 1367/2015. (VI. 3.) Korm. határozat 3. pontja iktatta be.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1371/2015. (VI. 4.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
 [^5]: A 4. pontot az 1464/2015. (VII. 15.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
-[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja, az 1558/2015. (VIII. 7.) Korm. határozat 3. pontja, az 1583/2015. (IX. 4.) Korm. határozat 4. pontja, az 1627/2015. (IX. 8.) Korm. határozat 3. pontja, az 1691/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1697/2015. (IX. 25.) Korm. határozat 3. pontja, az 1698/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1692/2015. (IX. 25.) Korm. határozat 3. pontja, az 1758/2015. (X. 15.) Korm. határozat 3. pontja, az 1812/2015. (XI. 10.) Korm. határozat 4. pontja, az 1813/2015. (XI. 10.) Korm. határozat 3. pontja, az 1846/2015. (XI. 24.) Korm. határozat 4. pontja, az 1848/2015. (XI. 24.) Korm. határozat 3. pontja, az 1879/2015. (XII. 2.) Korm. határozat 3. pontja, az 1880/2015. (XII. 2.) Korm. határozat 3. pontja, az 1922/2015. (XII. 11.) Korm. határozat 3. pontja, az 1997/2015. (XII. 28.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja, az 1558/2015. (VIII. 7.) Korm. határozat 3. pontja, az 1583/2015. (IX. 4.) Korm. határozat 4. pontja, az 1627/2015. (IX. 8.) Korm. határozat 3. pontja, az 1691/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1697/2015. (IX. 25.) Korm. határozat 3. pontja, az 1698/2015. (IX. 25.) Korm. határozat 3–4. pontja, az 1692/2015. (IX. 25.) Korm. határozat 3. pontja, az 1758/2015. (X. 15.) Korm. határozat 3. pontja, az 1812/2015. (XI. 10.) Korm. határozat 4. pontja, az 1813/2015. (XI. 10.) Korm. határozat 3. pontja, az 1846/2015. (XI. 24.) Korm. határozat 4. pontja, az 1848/2015. (XI. 24.) Korm. határozat 3. pontja, az 1879/2015. (XII. 2.) Korm. határozat 3. pontja, az 1880/2015. (XII. 2.) Korm. határozat 3. pontja, az 1922/2015. (XII. 11.) Korm. határozat 3. pontja, az 1997/2015. (XII. 28.) Korm. határozat 4. pontja, a 2036/2015. (XII. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
