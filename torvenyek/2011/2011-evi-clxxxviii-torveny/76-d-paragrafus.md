@@ -1,9 +1,0 @@
-76/D. § (1) Az Országgyűlés elengedi a települési önkormányzatok és jogi személyiségű társulásaik, valamint a közoktatási feladatot ellátó nem állami intézményfenntartók (e § alkalmazásában a továbbiakban együtt: támogatottak) terhére a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 5. melléklet 14. pontja szerinti központosított támogatás vonatkozásában a késedelmes elszámolás miatt megállapított visszafizetési és kamatfizetési kötelezettséget.
-
-(2) A kizárólag késedelmes elszámolás miatt fennálló visszafizetési és kamatfizetési kötelezettség elengedése külön hatósági döntést nem igényel.
-
-(3) A kincstár a (2) bekezdéssel érintett támogatottak által megfizetett tőke- és kamattartozást, ha szakmai és pénzügyi elszámolásuk elfogadásra került – a támogatottak egyidejű tájékoztatása mellett – 2013. június 30-áig a támogatott részére visszautalja. A visszautalás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit nem kell alkalmazni.
-
-(4) Ha a visszafizetési és kamatfizetési kötelezettség nem kizárólag az elszámolás késedelmes benyújtása miatt áll fent, a kincstár a finanszírozási különbözetről az (1) bekezdésben foglaltak figyelembevételével határozatot hoz. A kincstár a határozatban megállapított visszafizetési kötelezettség és kamatfizetési kötelezettség összegét a támogatott által korábban megfizetett tőke- és kamatösszegből visszatartja.
-
-(5) E § kizárólag az olyan támogatott esetében alkalmazható, aki az új informatikai eszközök, informatikai eszközök működtetéséhez szükséges új eszközök és akkreditált szoftverek beszerzéséhez nyújtott költségvetési támogatásával összefüggésben jogszabályban meghatározott szakmai és pénzügyi elszámolási kötelezettségének 2012. december 10-éig eleget tett.
