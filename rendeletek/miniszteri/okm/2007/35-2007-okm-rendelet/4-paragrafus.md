@@ -1,1 +1,0 @@
-## 3. § A hazai képzés elnevezésének és a külföldi képzés magyarra fordított elnevezésének azonossága nem jelenti okvetlenül azt, hogy a két képzés tartalmában is azonos, illetve a magyar képzés elnevezése és a külföldi képzés magyarra fordított elnevezése közötti eltérés sem jelenti okvetlenül azt, hogy a két képzés tartalmában is eltér egymástól.

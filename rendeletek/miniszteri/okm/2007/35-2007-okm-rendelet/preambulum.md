@@ -1,1 +1,0 @@
-A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Elismerési tv.) 67. § (2) bekezdésének a) pontjában kapott felhatalmazás alapján, az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. §-ának a) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:

@@ -1,1 +1,0 @@
-## 1. § Ez a rendelet közzéteszi azon képzések idegen nyelvű megnevezését, valamint azok magyar nyelvű fordítását, amelyek az Elismerési tv. 28. § (6) bekezdés c) pontjának cc) alpontja szerinti végbizonyítványnak minősülnek.
