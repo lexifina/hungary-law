@@ -14,8 +14,8 @@
 
 (7) A bizottság megalakításáért az önálló lakásgazdálkodást folytató helyőrség parancsnoka, a keretgazda katonai szervezet parancsnok, ha a lakáskeret-gazdálkodást több katonai szervezet együtt végzi, a legmagasabb szintű katonai szervezet parancsnoka a felelős.
 
-(8)[^261] A bizottság alakuló ülésén saját tagjai közül elnököt választ. A titkári teendők ellátására a helyőrségi lakásgazdálkodási előadót, illetve a keretgazda lakásbizottságnál arra alkalmas személyt kell – feladatainak munkaköri leírásban történő rögzítésével – kijelölni.
+(8)[^262] A bizottság alakuló ülésén saját tagjai közül elnököt választ. A titkári teendők ellátására a helyőrségi lakásgazdálkodási előadót, illetve a keretgazda lakásbizottságnál arra alkalmas személyt kell – feladatainak munkaköri leírásban történő rögzítésével – kijelölni.
 
 (9) Ha a beosztás megszűnése vagy visszahívás miatt a bizottsági tagság megszűnik, 30 napon belül új tagot kell választani, illetve kijelölni.
 
-[^261]: A 229. § (8) bekezdése a 4/2012. (IV. 5.) HM rendelet 17. §-ával megállapított szöveg.
+[^262]: A 229. § (8) bekezdése a 4/2012. (IV. 5.) HM rendelet 17. §-ával megállapított szöveg.

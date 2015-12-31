@@ -1,6 +1,6 @@
-## 239. § A Honvédelmi Minisztérium által nyújtott lakhatási támogatásokkal összefüggő feladatok ellátását – beleértve a HM Központi Lakásbizottság személyi összetételét és titkárának feladatait – HM utasítás állapítja meg.[^272]
+## 239. § A Honvédelmi Minisztérium által nyújtott lakhatási támogatásokkal összefüggő feladatok ellátását – beleértve a HM Központi Lakásbizottság személyi összetételét és titkárának feladatait – HM utasítás állapítja meg.[^273]
 
-239/A. §[^273] (1) A honvédelmi szerv igényét, illetve a honvédelmi szervvel szembeni igényt peres, nem peres és peren kívüli eljárásokban a (2) bekezdésben meghatározott kivétellel
+239/A. §[^274] (1) A honvédelmi szerv igényét, illetve a honvédelmi szervvel szembeni igényt peres, nem peres és peren kívüli eljárásokban a (2) bekezdésben meghatározott kivétellel
 
 a) a HM vagyonkezelésű lakások, nem lakás céljára szolgáló helyiségek elidegenítésével, továbbá ezen ingatlanok és a HM vagyonkezelésű szállóférőhelyek használatával, hasznosításával kapcsolatos ügyekben a lakás, nem lakás céljára szolgáló helyiség, illetve szállóférőhely fekvése szerint illetékes helyi lakásgazdálkodási szerv képviseletében, illetve szervvel szemben,
 
@@ -24,5 +24,5 @@ a) bérleti vagy használati díj-követelés esetén a bérbeadó szerv, és
 
 b) a közüzemi díj- vagy egyéb követelés esetén a HM vagyonkezelői feladatokat ellátó szerv véleményét is
 
-[^272]: Lásd a 26/2010. (II. 26.) HM utasítást.
-[^273]: A 239/A. §-t a 15/2015. (XII. 21.) HM rendelet 26. §-a iktatta be.
+[^273]: Lásd a 26/2010. (II. 26.) HM utasítást.
+[^274]: A 239/A. §-t a 15/2015. (XII. 21.) HM rendelet 26. §-a iktatta be.

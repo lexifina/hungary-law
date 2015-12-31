@@ -1,4 +1,4 @@
-215/A. §[^232] (1) Nem kell alkalmazni a 215. § (2) bekezdés a) pontját akkor, ha az albérleti díj hozzájárulásra való jogosultság egyéb feltételeivel rendelkező személy lakás lízingjéhez történő támogatás megállapítását
+215/A. §[^233] (1) Nem kell alkalmazni a 215. § (2) bekezdés a) pontját akkor, ha az albérleti díj hozzájárulásra való jogosultság egyéb feltételeivel rendelkező személy lakás lízingjéhez történő támogatás megállapítását
 
 a) a Ptk. szerinti közeli és vele együttköltöző hozzátartozók létszámában bekövetkezett változás miatt az albérleti díj hozzájárulással lízingelt lakáshoz képest másik, a méltányolható lakásigénynek megfelelő, a szolgálati hely szerinti településen vagy annak vonzáskörzetében lévő lakásra kéri,
 
@@ -10,4 +10,4 @@ d) az albérleti díj hozzájárulásban részesült házastársának, élettár
 
 (2) Az (1) bekezdés b)–d) pontja élettárs esetében csak akkor alkalmazható, ha az együttélés folyamatosan, legalább öt évig tartott, vagy az élettársi kapcsolatból közös gyermek született.
 
-[^232]: A 215/A. §-t a 15/2015. (XII. 21.) HM rendelet 22. §-a iktatta be.
+[^233]: A 215/A. §-t a 15/2015. (XII. 21.) HM rendelet 22. §-a iktatta be.

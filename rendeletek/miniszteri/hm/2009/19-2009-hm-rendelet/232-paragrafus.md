@@ -10,10 +10,10 @@ d) dönt a HM főosztályvezetői, valamint a velük azonos vagy magasabb besoro
 
 e) meghatározza a budapesti éves lakáselosztási tervet,
 
-f)[^263] dönt a 9. § (1) bekezdés b)–h) pontjában továbbá (2) bekezdés a) és c) pontjában meghatározott kizáró okok alóli felmentési kérelmek tárgyában,
+f)[^264] dönt a 9. § (1) bekezdés b)–h) pontjában továbbá (2) bekezdés a) és c) pontjában meghatározott kizáró okok alóli felmentési kérelmek tárgyában,
 
 g) véleményezi a lakásellátási terveket, a lakáscélú pénzügyi források felhasználását,
 
 h) titkára útján irányítja a helyőrségi és a keretgazda lakásbizottságok működését.
 
-[^263]: A 232. § f) pontja a 15/2015. (XII. 21.) HM rendelet 29. § i) pontja szerint módosított szöveg.
+[^264]: A 232. § f) pontja a 15/2015. (XII. 21.) HM rendelet 29. § i) pontja szerint módosított szöveg.
