@@ -1,0 +1,9 @@
+# 441/2015. (XII. 28.) Korm. rendelet
+
+a közigazgatási bürokráciacsökkentéssel összefüggésben egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-441-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-12-31 | 2015-441-20-22.1 | 441/2015. (XII. 28.) Korm. rendelet |

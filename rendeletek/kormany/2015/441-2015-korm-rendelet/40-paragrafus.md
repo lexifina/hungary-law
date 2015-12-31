@@ -1,0 +1,7 @@
+## 39. §[^28]
+
+## 29. Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló
+
+## 201/2001. (X. 25.) Korm. rendelet módosítása
+
+[^28]: A 39. § a 262. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
