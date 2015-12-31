@@ -12,17 +12,7 @@ az erről szóló kormányrendeletben meghatározott, gyakorlati képzési norma
 
 (2) Az a hozzájárulásra kötelezett, aki hozzájárulási kötelezettségét kizárólag az 5. § a) pontja alapján gyakorlati képzés szervezésével teljesíti, és a csökkentő tételek összege meghaladja a bruttó kötelezettsége mértékét, az azt meghaladó részt a (2a) és (2b) bekezdésben meghatározottak szerint – a (2a) bekezdés b) pont ba) alpontja kivételével –, a 9. § (1) és (3) bekezdése szerinti eljárás során az állami adóhatóságtól visszaigényelheti.
 
-(2a) Ha az 5. § a) pont aa) és ab) alpontja alapján számított csökkentő tételek összege a bruttó kötelezettség mértékét meghaladja, és
-
-a) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege nagyobb vagy egyenlő, mint a bruttó kötelezettség mértéke, akkor kizárólag az 5. § a) pont ab) alpontja szerint számított csökkentő tétel vehető figyelembe a visszaigénylésnél;
-
-b) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege kisebb, mint a bruttó kötelezettség mértéke, és
-
-ba) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege nagyobb vagy egyenlő, mint az 5. § a) pont ab) alpontja alapján számított csökkentő tétel, akkor a csökkentő tételek legfeljebb a bruttó kötelezettség mértékéig vehetők figyelembe;
-
-bb) az 5. § a) pont aa) alpontja alapján számított csökkentő tétel összege kisebb, mint az 5. § a) pont ab) alpontja alapján számított csökkentő tétel, akkor a csökkentő tételeknek a bruttó kötelezettség mértékét meghaladó összege visszaigényelhető.
-
-(2b) Ha a hozzájárulásra kötelezett bruttó kötelezettsége nulla, kizárólag az 5. § a) pont ab) alpontja alapján számított csökkentő tétel vehető figyelembe a visszaigénylésnél.
+(2a)–(2b)
 
 (3) A gyakorlati képzést szervező átalányadózó hozzájárulásra kötelezettet nem illeti meg a (2)–(2b) bekezdés szerinti visszatérítés.
 

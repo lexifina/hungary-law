@@ -22,4 +22,4 @@ h) a központi keretösszeget,
 
 i) a 19/A. § (2) bekezdés b) pontja és (3) bekezdése szerinti feladatokra elkülönített keretösszeget,
 
-j) a hozzájárulásra nem kötelezett, a szakképzésről szóló törvény szerint tanulószerződés kötésére jogosult egyéb szerv, szervezet normatív támogatását szolgáló keretösszeget.
+j)

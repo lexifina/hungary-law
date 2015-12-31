@@ -2,7 +2,7 @@
 
 2. § (1) Szakképzési hozzájárulásra kötelezett – a (3)–(4) bekezdésben foglaltak figyelembevételével – a belföldi székhelyű
 
-a) gazdasági társaság, kivéve a szakképzésről szóló törvény szerinti, szakképzési feladatot ellátó nonprofit gazdasági társaságot,
+a) gazdasági társaság,
 
 b) szövetkezet, kivéve a lakásszövetkezetet, a szociális szövetkezetet, valamint az iskolaszövetkezetet,
 
