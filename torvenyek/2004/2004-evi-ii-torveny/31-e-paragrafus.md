@@ -8,7 +8,7 @@
 
 (5) A produceri díjak elszámolt összege nem haladhatja meg az adott filmalkotás munkaszámos főkönyvi kivonat 5. és 8. számlaosztálya összegének 4%-át.
 
-(6) A reklám- és propagandaköltségek közül kizárólag a gyártáshoz kapcsolódó azon reklámköltségek számolhatók el, amelyek nem haladják meg az adott filmalkotás munkaszámos főkönyvi kivonat 5. és 8. számlaosztálya összegének 2%-át, de legfeljebb az 5 millió forintot. Gyártáshoz kapcsolódó reklámköltség a werkfilm és a standfotó előállítási költsége, valamint a gyártáshoz közvetlenül kapcsolódó egyéb, a mozgóképszakmai hatóság által ilyennek elismert költség. Nem tekintendő gyártáshoz kapcsolódó reklámköltségnek a film reklámozását szolgáló bármilyen reklámfelület-vásárlás, azon belül az írott sajtóban, köztéri helyeken vagy járműveken elhelyezett, továbbá rádióban vagy televízióban megjelentetett hirdetés.
+(6) A reklám- és propagandaköltségek közül kizárólag a gyártáshoz kapcsolódó azon reklámköltségek számolhatók el, amelyek nem haladják meg az adott filmalkotás munkaszámos főkönyvi kivonat 5. és 8. számlaosztálya összegének 2%-át, de legfeljebb a tízmillió forintot. Nem tekintendő gyártáshoz kapcsolódó reklámköltségnek a film reklámozását szolgáló bármilyen reklámfelület-vásárlás, azon belül az írott sajtóban, köztéri helyeken vagy járműveken elhelyezett, továbbá rádióban vagy televízióban megjelentetett hirdetés.
 
 (7) A filmgyártáshoz kapcsolódó utazási költségek akkor számolhatók el közvetlen filmgyártási költségként, ha legalább az utazás kiinduló állomása vagy célállomása Magyarországon van.
 

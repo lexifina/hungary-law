@@ -50,9 +50,11 @@ b) moziüzemeltetéssel,
 
 c) filmalkotás bármely adathordozón történő kiadásával, értékesítésével, bérbeadásával, haszonkölcsönbe adásával;
 
-16. mozi: filmalkotások belépti díj ellenében történő nyilvános bemutatására rendszeresített, bármely képmegjelenítő eszközzel felszerelt helyiség;
+16. mozi: filmalkotások belépti díj ellenében történő nyilvános bemutatására rendszeresen vagy alkalomszerűen szolgáló, a 19/A. § (1) bekezdése szerinti Hatóság által ekként nyilvántartott helyiség;
 
 17. moziüzemeltetés: filmalkotások közönség előtti, moziban történő bemutatására irányuló üzletszerű tevékenység;
+
+17a. moziüzemeltető: a moziüzemeltetést folytató természetes személy vagy jogi személy;
 
 18. filmterjesztő: filmterjesztéssel üzletszerűen foglalkozó gazdasági társaság vagy egyéb szervezet;
 
@@ -80,6 +82,6 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 
 28. kulturális értéket műfaja alapján létrehozó filmalkotás: a játékfilm, a kisjátékfilm, a kísérleti film, a dokumentumfilm, a tudományos ismeretterjesztő film, az animációs film, a rövidfilm, a tv-film és a tv-sorozat, kivéve az olyan film vagy filmsorozat, amely valós szereplők és események elsődlegesen szórakoztató célú nyomon követésén alapul és kulturális értéket nem hoz létre (valóságshow), továbbá az olyan fikciós filmsorozat, amely heti többszöri televíziós bemutatásra készült, több mint húsz epizódból áll, lezáratlan dramaturgiájából adódóan végtelenül folytatható, és kulturális értéket nem hoz létre (szappanopera);
 
-29. közvetlen magyar filmgyártási költség: a közvetlen filmgyártási költségek azon csoportja, amely adó- vagy járulékkötelezettség formájában merül fel, vagy amelynek felmerülése Magyarországon adó- vagy járulékfizetési kötelezettséget keletkeztet és megfelel az e törvényben meghatározott követelményeknek.
+29. közvetlen magyar filmgyártási költség: a közvetlen filmgyártási költségek azon csoportja, amely adó vagy egyéb közteher-fizetési kötelezettség formájában merül fel, vagy amelynek felmerülése Magyarországon adó- vagy járulékfizetési kötelezettséget keletkeztet és megfelel az e törvényben meghatározott követelményeknek.
 
 3. CÍM

@@ -14,6 +14,10 @@ b) a filmterjesztőnek a filmalkotás besorolására vonatkozó javaslatát a 21
 
 c) a terjesztés megkezdésének tervezett időpontját.
 
+(1a) Ha az (1) bekezdésben meghatározott adatok a kérelem benyújtásakor a filmterjesztőn, illetve az érdekkörén kívül álló okból nem állnak rendelkezésre, a filmterjesztő az adatok rendelkezésére állását követően haladéktalanul köteles azokat a Hivatalnak megküldeni. A filmterjesztő a kérelem benyújtásakor igazolja, hogy a hiányzó adatok a rajta, illetve az érdekkörén kívül álló okból nem állnak a rendelkezésére.
+
+(1b) Az (1a) bekezdés szerinti kötelezettség teljesítésének elmulasztása esetén a Hivatal a 19/H. § (8) bekezdés d) pontjában meghatározott jogkövetkezményt alkalmazhatja.
+
 (2) A kérelemmel egyidejűleg be kell nyújtani a filmalkotás egy megtekintésre alkalmas példányát.
 
 (3) Idegen nyelven készült filmalkotás esetén, ha a filmalkotásból szinkronizált vagy feliratos változat nem áll rendelkezésre, be kell nyújtani a filmalkotás magyar nyelvű dialóglistáját is.

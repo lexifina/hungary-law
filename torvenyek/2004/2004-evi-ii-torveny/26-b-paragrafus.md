@@ -12,7 +12,7 @@ d) egyéb filmalkotás.
 
 (2) A közvetlen támogatás nyújtásának feltétele a filmalkotások magyar részvételi arányok szerinti besorolása. Az (1) bekezdés szerinti besorolási eljárást lezáró hatósági határozat jogerőre emelkedését követően a Hivatal haladéktalanul bejegyzi – hivatalból indított eljárásban – a besorolt filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hivatal az (1) bekezdés szerinti besorolási eljárást lezáró jogerős hatósági határozatban megállapított adatokkal tényekkel egészíti ki a nyilvántartás adatait.
 
-(3) Az (1) bekezdés szerinti besorolást a Hivatal a filmelőállító vagy a filmgyártó vállalkozás által a Hivatalhoz benyújtott, a (4) és (5) bekezdésben meghatározott okiratok alapján végzi el.
+(3) Az (1) bekezdés szerinti besorolást a Hivatal a filmelőállító által a Hivatalhoz benyújtott, a (4) és (5) bekezdésben meghatározott okiratok alapján végzi el.
 
 (4) Ha a filmalkotás költségvetése az 50 millió forintot nem haladja meg, a besorolási kérelmet a közvetlen támogatás igénylését megelőzően kell benyújtani. A kérelem különös méltánylást érdemlő esetben a támogatási szerződés megkötéséig is benyújtható. A kérelemhez csatolni kell
 

@@ -6,7 +6,7 @@
 
 (3) Ha a nyilvántartásba vételt természetes személy kéri, a nyilvántartásba vételi kérelemnek tartalmaznia kell a támogatást igénylő nevét, lakóhelyét, születési helyét és idejét, adószámát vagy azonosító jelét.
 
-(4) A nyilvántartásba vételét kérő természetes személynek vagy mozgóképszakmai szervezetnek közölnie kell, hogy nyilvántartásba vételét filmelőállítóként, filmgyártó vállalkozásként, filmterjesztőként (ezen belül filmforgalmazóként, moziüzemeltetőként vagy egyéb minőségében) vagy egyéb szervezetként kéri.
+(4) A nyilvántartásba vételt kérő természetes személy nyilatkozik arról, hogy filmterjesztőként történő nyilvántartásba vételét filmforgalmazóként, moziüzemeltetőként vagy egyéb minőségében kéri. A nyilvántartásba vételt kérő mozgóképszakmai szervezet nyilatkozik arról, hogy nyilvántartásba vételét filmelőállítóként, filmgyártó vállalkozásként, filmterjesztőként (ezen belül filmforgalmazóként, moziüzemeltetőként vagy egyéb minőségében) vagy egyéb szervezetként kéri.
 
 (5) A Hivatal a törvényben meghatározott adatok közlése esetén, a (9) bekezdésben foglalt megtagadási ok hiányában a kérelmezőt nyilvántartásba veszi. A nyilvántartásba vett adatokban bekövetkezett változást a támogatást igénylő köteles a változást követő 15 napon belül bejelenteni a Hivatalnak.
 

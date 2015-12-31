@@ -13,3 +13,5 @@
 (6) A Hivatal (3)–(5) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél jogszabálysértésre hivatkozással kérheti a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A bíróság végzése ellen fellebbezésnek nincs helye.
 
 (7) Amennyiben az adatszolgáltatásra kötelezett a (3)–(5) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hivatal – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – bírságot szab ki, amelynek mértéke legfeljebb ötszázezer forint.
+
+(8) Az e §-ban foglalt adatszolgáltatás során az adatszolgáltató felelős az adat tartalmának megfelelőségéért, időszerűségéért, hitelességéért, pontosságáért, ellenőrizhetőségéért és helyességéért.
