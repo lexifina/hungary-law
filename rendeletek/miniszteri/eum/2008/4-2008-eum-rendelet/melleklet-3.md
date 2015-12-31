@@ -186,22 +186,30 @@
 
 ## i) Feltétel nélkül elismerésre kerül a tagállam által azon tagállami állampolgár részére kiállított általános ápolói oklevél, akinek általános ápolói oklevele nem felel meg az A) vagy B) pontban említett megnevezéseknek, amennyiben az oklevelet - a tagállam illetékes hatósága vagy szerve által kiadott - olyan igazolás kíséri, amely tanúsítja, hogy az adott oklevelet az európai közösségi jog által meghatározott minimális képzési követelményeknek megfelelő képzés sikeres teljesítését követően állították ki és az azt kiállító tagállam úgy tekinti őket, mint az e melléklet A) vagy B) pontjában megnevezett oklevelet, képesítést.
 
-## j) A lengyel általános ápolói oklevél tekintetében - az i) pontban foglaltaktól eltérően - kizárólag a következő rendelkezéseket kell alkalmazni:
+## j) A lengyel általános ápolói oklevél tekintetében – az i) pontban foglaltaktól eltérően – kizárólag a következő rendelkezéseket kell alkalmazni:
 
-## Feltétel nélkül elismerésre kerül az alábbi általános ápolói oklevél azon tagállami állampolgár esetében, akinek az általános ápolói oklevelét 2004. május 1-jét megelőzően Lengyelországban állították ki vagy akinek a képzése ezen időpontot megelőzően Lengyelországban kezdődött és amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben az ezen oklevélhez mellékelt igazolás értelmében az adott tagállami állampolgár ténylegesen és jogszerűen folytatott általános ápolói tevékenységet Lengyelország területén a következő időtartamok során:
+## Feltétel nélkül elismerésre kerül a 2004. május 1-jét megelőzően Lengyelországban kiállított ápolói képesítés megszerzését tanúsító okirat, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, és amely az alábbi jogszabályok valamelyike szerinti különleges továbbképző program keretében szerzett, felsőfokú alapképzési fokozatot tanúsító oklevél igazol:
 
-## – ápolói képesítés megszerzését tanúsító okirat (dyplom licencjata pielęgniarstwa) – az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül,
+## 1. az ápolói és a szülésznői szakmáról szóló törvény és egyéb jogszabályok módosításáról szóló, 2004. április 20-i törvény (a Lengyel Köztársaság Hivatalos Közlönye, 2004., 92. szám, 885. tétel és 2007., 176. szám, 1237. tétel) 11. cikke, és a középiskolai bizonyítvánnyal (záróvizsga – érettségi) rendelkező, az ápolói és szülésznői szakmát oktató egészségügyi líceumban és egészségügyi szakiskolában végzett ápolók és szülésznők képzésének részletes feltételeiről szóló, 2004. május 11-i egészségügyi miniszteri rendelet (a Lengyel Köztársaság Hivatalos Közlönye, 2004., 110. szám, 1170. tétel és 2010., 65. szám, 420. tétel); vagy
 
-## – középfokú végzettségre épülő képzés elvégzését tanúsító, egészségügyi szakiskolában szerzett, ápolói képesítés megszerzését tanúsító okirat (dyplom pielęgniarki albo pielęgniarki dyplomowanej) – az igazolás kiadásának időpontját megelőző hét év során legalább öt egymást követő éven keresztül.
+## 2. az ápolói és szülésznői szakmáról szóló, 2011. július 15-i törvény 52.3. cikkének 2. pontja (a Lengyel Köztársaság Hivatalos Közlönye, 2011., 174. szám, 1039. tétel), és a középiskolai bizonyítvánnyal (záróvizsga – érettségi) rendelkező, az ápolói és szülésznői szakmát oktató egészségügyi középiskolában vagy felsőfokú intézményben végzett ápolók és szülésznők felsőoktatási képzésének részletes feltételeiről szóló, 2012. június 14-i egészségügyi miniszteri rendelet (a Lengyel Köztársaság Hivatalos Közlönye, 2012., 770. tétel),
 
-## k) Feltétel nélkül elismerésre kerül azon tagállami állampolgár részére Lengyelországban kiállított felsőfokú alapképzési fokozatot igazoló ápolói oklevél, aki képzését 2004. május 1-je előtt befejezte és amely képzés nem felel meg a az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben az oklevelet az illetékes lengyel hatóság által kiadott olyan igazolás kíséri, amely tanúsítja, hogy az adott tagállami állampolgár az oklevelet a vonatkozó lengyel jogszabályban foglalt továbbképző program keretében szerezte, amely igazolja, hogy az adott tagállami állampolgár – Lengyelországra vonatkozóan az A) és B) pontban említett – ápolói képesítéssel rendelkező ápolókéval megfelelő szintű tudással és szakértelemmel rendelkezik.
+## annak ellenőrzése céljából, hogy az érintett ápoló – a Lengyelországra vonatkozóan A) és B) pontban említett – ápolói képesítéssel rendelkező ápolókéval megfelelő szintű ismeretekkel és szaktudással rendelkezik.
 
-## l) Az általános ápolói tevékenység folytatására kiadott román képesítésekre vonatkozóan – az i) pontban foglaltaktól eltérően – a szerzett jogok tekintetében kizárólag a következő rendelkezéseket kell alkalmazni.
+## k).
 
-## Feltétel nélkül elismerésre kerül az általános ápolói oklevél (Certificat de competenţe profesionale de asistent medical generalist), azon tagállami állampolgár esetében, akinek az oklevelét 2007. január 1-jét megelőzően Romániában állították ki vagy akinek a képzése ezen időpontot megelőzően Romániában kezdődött és amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek és az oklevél şcoală postliceală-ban folytatott felsőfokú szakképzés elvégezését igazolja, továbbá az oklevelet olyan igazolás kíséri, amely értelmében az adott tagállami állampolgár ténylegesen és jogszerűen folytatott általános ápolói tevékenységet Románia területén az igazolás kiadásának időpontját megelőző hét év során legalább öt egymást követő éven keresztül.
+## l) Az általános ápolói tevékenység folytatására kiadott román képesítésekre vonatkozóan – az i) pontban foglaltaktól eltérően – a szerzett jogok tekintetében kizárólag a következő rendelkezéseket kell alkalmazni:
+
+## Feltétel nélkül elismerésre kerülnek a következő általános ápolói oklevelek azon tagállami állampolgárok esetében, akik Romániában végezték el általános ápolói képzésüket, és akik képzése nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, ha az oklevelet olyan igazolás kíséri, amelynek értelmében az adott tagállami állampolgár ténylegesen és jogszerűen folytatott általános ápolói tevékenységet Románia területén az igazolás kiállítását megelőző öt év során legalább három egymást követő éven keresztül és ennek során a betegek ápolásának megtervezéséért, megszervezéséért és végrehajtásáért teljes körű felelősséggel tartozott:
+
+## 1. Certificat de competenţă e profesionale de asistent medical generalist, şcoală postliceală típusú intézményben szerzett felsőfokú képesítés keretében, igazolva, hogy a képzés 2007. január 1. előtt kezdődött;
+
+## 2. Diplomă de absolvire de asistent medical generalist, rövid távú felsőfokú tanulmányok keretében, igazolva, hogy a képzés 2003. október 1. előtt kezdődött;
+
+## 3. Diplomă de licenţă de asistent medical generalist, hosszú távú felsőfokú tanulmányok keretében, igazolva, hogy a képzés 2003. október 1. előtt kezdődött.
 
 ## m) Az a)–l) pont szerinti tevékenységhez a betegápolás tervezésével, megszervezésével és elvégzésével kapcsolatos teljes felelősségnek kell kapcsolódnia.
 
-3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^11]
+3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^12]
 
-[^11]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § c) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a, a 61/2013. (VIII. 22.) EMMI rendelet 1. § c) pontja szerint módosított szöveg.
+[^12]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § c) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a, a 61/2013. (VIII. 22.) EMMI rendelet 1. § c) pontja, az 56/2015. (XII.17.) EMMI rendelet 1. § c) pontja szerint módosított szöveg.

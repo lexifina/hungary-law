@@ -3404,6 +3404,8 @@
 
 ## A fenti igazolást ugyanolyan hatályúnak kell tekinteni, mint a külön jogszabályban meghatározott, a háziorvosi szakképzettség megszerzését tanúsító okiratot.
 
-2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^10]
+## o) Feltétel nélkül elismerésre kerül az Olaszországban megszerzett és az irányelv V. melléklet 5.1.2. és 5.1.3. pontjában felsorolt szakorvosi képesítés azon orvosok esetében, akik szakorvosi képzésüket 1983. december 31. után és 1991. január 1. előtt kezdték meg, feltéve, hogy a képesítés megszerzését tanúsító okirathoz csatolják azt az illetékes olaszországi hatóságok által kiállított igazolást, amelynek értelmében az érintett orvos Olaszországban ugyanazon az érintett szakterületen ténylegesen és jogszerűen, az igazolás kiállítását megelőző tíz éven belül legalább hét egymást követő évben szakorvosként tevékenykedett.
 
-[^10]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a, a 61/2013. (VIII. 22.) EMMI rendelet 1. § b) pontja szerint módosított szöveg.
+2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^11]
+
+[^11]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a, a 61/2013. (VIII. 22.) EMMI rendelet 1. § b) pontja, az 56/2015. (XII.17.) EMMI rendelet 1. § b) pontja szerint módosított szöveg.

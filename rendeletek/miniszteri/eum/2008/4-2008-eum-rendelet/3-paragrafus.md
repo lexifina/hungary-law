@@ -56,7 +56,19 @@ i)[^6] az irányelv 5.1.1., 5.1.4., 5.2.2., 5.3.2., 5.3.3., és 5.6.2. pontja a 
 
 j)[^7] az irányelv 5.1.3., 5.2.2. és 5.3.2. pontja a 2012/C 244/01 EK bizottsági közlemény (2012. augusztus 14.) szerint,
 
-k)[^8] az irányelv 5.1.1., 5.1.2., 5.1.3., 5.2.2., 5.3.2., 5.3.3., 5.5.2., és 5.6.2. pontja a 2013/C 183/02 EK bizottsági közlemény (2013. június 28.) szerint.
+k)[^8] az irányelv 5.1.1., 5.1.2., 5.1.3., 5.2.2., 5.3.2., 5.3.3., 5.5.2., és 5.6.2. pontja a 2013/C 183/02 EK bizottsági közlemény (2013. június 28.) szerint,
+
+l)[^9] az irányelvnek az azt módosító, a szakmai képesítések elismeréséről szóló 2005/36/EK irányelv és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2013. november 20-i 2013/55/EU európai parlamenti és tanácsi irányelv
+
+la) 21. pontjával megállapított 27. cikk (2a) bekezdése,
+
+lb) 24. pontjával módosított 33. cikke,
+
+lc) 25. pontjával módosított 33a. cikke,
+
+ld) 28. pontjával megállapított 37. cikk (3) és (4) bekezdése és
+
+le) 32. pontjával módosított 43. cikke.
 
 [^2]: A 3. § az 50/2011. (VIII. 18.) NEFMI rendelet 3. §-ával megállapított szöveg.
 [^3]: A 3. § b) pont bk) alpontját a 24/2012. (IV. 18.) NEFMI rendelet 5. §-a iktatta be.
@@ -65,3 +77,4 @@ k)[^8] az irányelv 5.1.1., 5.1.2., 5.1.3., 5.2.2., 5.3.2., 5.3.3., 5.5.2., és 
 [^6]: A 3. § i) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
 [^7]: A 3. § j) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
 [^8]: A 3. § k) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
+[^9]: A 3. § l) pontját az 56/2015. (XII.17.) EMMI rendelet 2. §-a iktatta be.

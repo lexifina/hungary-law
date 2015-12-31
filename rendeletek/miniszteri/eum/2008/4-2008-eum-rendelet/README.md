@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-4-20-0B
 | 2012-01-04 | 2008-4-20-0B.6 | 3/2012. (I. 3.) NEFMI rendelet |
 | 2012-04-26 | 2008-4-20-0B.7 | 50/2009. (XII. 30.) EüM rendelet |
 | 2013-08-23 | 2008-4-20-0B.8 | 61/2013. (VIII. 22.) EMMI rendelet |
+| 2015-12-31 | 2008-4-20-0B.9 | 50/2009. (XII. 30.) EüM rendelet |
