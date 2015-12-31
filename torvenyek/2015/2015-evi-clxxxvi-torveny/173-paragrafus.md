@@ -1,1 +1,0 @@
-173. § Az Nkt. 96. § (3) bekezdésében a „két hónap” szövegrész helyébe a „negyvenöt nap” szöveg, a „négy hónap” szövegrész helyébe a „három hónap” szöveg, a „hat hónap” szövegrész helyébe a „négy hónap” szöveg lép.

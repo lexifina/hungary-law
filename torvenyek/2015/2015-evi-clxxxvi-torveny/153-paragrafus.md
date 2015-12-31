@@ -1,1 +1,0 @@
-153. § Hatályát veszti az Éltv. 40. § (2) bekezdésében az „Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek párhuzamos behozatalának engedélyezési eljárásában az engedély megadásáról negyvenöt munkanapon belül dönt.” szövegrész.
