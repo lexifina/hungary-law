@@ -7,11 +7,3 @@
 (3) A 11. §, a 15–17. §, a 20–31. §, a 33. §, a 36. § (2) bekezdése, a 37. § (3) bekezdése, a 44. § (2) bekezdése, a 82. § (1) bekezdése 2017. január 1-jén lép hatályba.
 
 (4) Az 82. § (2) bekezdése 2017. szeptember 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
