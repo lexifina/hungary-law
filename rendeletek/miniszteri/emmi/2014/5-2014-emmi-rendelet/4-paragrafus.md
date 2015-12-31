@@ -1,3 +1,0 @@
-4. § (1) A nyilvános települési könyvtár és a muzeális intézmény jogutódlással történő megszűnése, illetve átszervezése, fenntartói jogának átadása esetén a támogatás felhasználása a jogelőd és a jogutód fenntartó írásbeli megállapodása alapján történik azzal, hogy a támogatás időarányos része a nyilvános települési könyvtár és a muzeális intézmény megszűnéséig a jogelőd, azt követően pedig a jogutód fenntartót illeti meg.
-
-(2) Az (1) bekezdés szerinti megállapodás jogelőd és jogutód fenntartó által hitelesített másolatát a települési önkormányzat a helyi önkormányzatokért felelős miniszterhez nyújtja be, legkésőbb a fenntartói döntést követő 10 munkanapon belül.
