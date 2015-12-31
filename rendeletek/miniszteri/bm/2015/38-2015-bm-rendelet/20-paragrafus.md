@@ -1,3 +1,3 @@
-## 19. §[^3]
+## 19. §[^4]
 
-[^3]: A 19. § a 16. § (3) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^4]: A 19. § a 34/2018. (XII. 20.) BM rendelet 14. §-a alapján nem lép hatályba.

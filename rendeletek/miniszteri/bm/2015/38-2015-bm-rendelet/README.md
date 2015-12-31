@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-38-20-0
 | --- | --- | --- |
 | 2015-07-01 | 2015-38-20-0A.1 | 38/2015. (VI. 18.) BM rendelet |
 | 2015-07-02 | 2015-38-20-0A.2 | 2010: CXXX. törvény |
+| 2015-12-31 | 2015-38-20-0A.3 | 2010: CXXX. törvény |
