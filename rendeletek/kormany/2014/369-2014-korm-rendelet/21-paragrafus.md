@@ -4,4 +4,6 @@
 
 (2) Az 1–20. §, a 22–23. §, a 25. §, és az 1–4. melléklet 2015. január 1-jén lép hatályba.
 
-(3) A 24. § 2016. január 1-jén lép hatályba.
+(3)[^2] A 24. § 2017. január 1-jén lép hatályba.
+
+[^2]: A 21. § (3) bekezdése a 408/2015. (XII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
