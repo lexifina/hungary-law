@@ -1,3 +1,0 @@
-## 37. § A 272/2014. (XI. 5.) Korm. rendelet 144. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ha a kedvezményezett közszféra szervezet, az irányító hatóság eltekinthet a dokumentum alapú ellenőrzés teljes körű lefolytatásától, ha a kedvezményezett utalványozási szabályzata valamennyi kifizetés esetén tartalmazza a tárgyi és időbeli elszámolhatósági szabályok, továbbá az (1) bekezdésben meghatározott megfelelőség ellenőrzését, és az utalványozási szabályzatot az irányító hatóság megfelelőnek találta. Az irányító hatóság az elfogadott utalványozási szabályzatot megküldi a Miniszterelnökség részére. A kedvezményezettnek biztosítania kell a kifizetés előtti ellenőrzés funkcionális függetlenségét.”
