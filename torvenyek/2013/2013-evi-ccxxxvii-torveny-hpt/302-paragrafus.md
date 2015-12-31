@@ -21,3 +21,5 @@ i) az 575/2013/EU rendelet I. melléklet 3. pontja szerinti közepes/alacsony ko
 j) az elismert tőzsdével szembeni kitettségre.
 
 (2) Az e törvény egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel megállapított 166/B. §-át a folyamatban lévő hatósági eljárások esetében is alkalmazni kell.
+
+(3) Az e törvény egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvénnyel megállapított 260. § (7) bekezdését a hatálybalépésének napját magában foglaló üzleti év éves beszámolójára, összevont (konszolidált) éves beszámolójára vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói feladatok teljesítéséig, de legkésőbb 2016. december 31-ig nem kell alkalmazni.

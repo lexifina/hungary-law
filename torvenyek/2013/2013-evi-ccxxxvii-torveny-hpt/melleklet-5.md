@@ -27,5 +27,3 @@ a) a bankok és más pénzintézetek éves beszámolójáról és összevont bes
 b) a hitelintézetek vonatkozásában a 77/780/EGK és a 89/646/EGK irányelvnek, a nem életbiztosítási tevékenység vonatkozásában a 73/239/EGK és a 92/49/EGK irányelvnek, az életbiztosítások vonatkozásában a 79/267/EGK és a 92/96/EGK irányelvnek, a befektetési vállalkozások vonatkozásában a 93/22/EGK irányelvnek, valamint az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások (ÁÉKBV) vonatkozásában a 85/611/EGK irányelvnek a prudenciális felügyelet megerősítése érdekében történő módosításáról szóló 1995. július 18-i 95/26/EK európai parlamenti és tanácsi irányelvnek,
 
 c) a hitelintézetek reorganizációjáról és felszámolásáról szóló 2001. április 4-i 2001/24/EK európai parlamenti és tanácsi irányelvnek,
-
-d) a pénzügyi rendszereknek a pénzmosás, valamint terrorizmus finanszírozása céljára való felhasználásának megelőzéséről szóló 2005. október 26-i 2005/60/EK európai parlamenti és tanácsi irányelvnek,
