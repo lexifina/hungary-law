@@ -1,6 +1,6 @@
 ## nyújtható.
 
-3/A. §[^21] (1) Az 1. mellékletben foglalt táblázat 38. sora alapján nyújtható állami támogatásnak minősülő jogcímek:
+3/A. §[^23] (1) Az 1. mellékletben foglalt táblázat 38. sora alapján nyújtható állami támogatásnak minősülő jogcímek:
 
 a) az innováció keretfeltételeinek javítása, üzleti és társadalmi innovációs készségek fejlesztése,
 
@@ -34,4 +34,4 @@ f) funkcionális városi területek környezetgazdálkodásának fejlesztése,
 
 g) regionális személyszállítási és áruszállítási rendszerek tervezése és koordinációja.
 
-[^21]: A 3/A. §-t a 30/2015. (XI. 19.) NGM rendelet 2. §-a iktatta be.
+[^23]: A 3/A. §-t a 30/2015. (XI. 19.) NGM rendelet 2. §-a iktatta be.

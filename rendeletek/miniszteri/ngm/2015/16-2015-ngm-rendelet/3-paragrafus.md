@@ -38,9 +38,13 @@ q)[^17] az 1. mellékletben foglalt táblázat 22. sor c) pontja alapján az 137
 
 r)[^18] az 1. mellékletben foglalt táblázat 22. sor c) pontja alapján a 651/2014/EU bizottsági rendelet I. és II. fejezete, valamint 56. cikke szerinti helyi infrastruktúrára irányuló támogatás,
 
-s)[^19] az 1. mellékletben foglalt táblázat 15. sora alapján a 702/2014/EU bizottsági rendelet I. és II. fejezete, valamint 21. cikke szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás,
+s)[^19] az 1. mellékletben foglalt táblázat 15. sora alapján az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló, a 2014-2020 időszakra vonatkozó európai uniós iránymutatások (a továbbiakban: agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások) 1.1.10.1. pontja szerinti tudástranszferhez és tájékoztatási tevékenységekhez támogatás,
 
-t)[^20] az 1. mellékletben foglalt táblázat 15. sora alapján a 702/2014/EU bizottsági rendelet I. és II. fejezete, valamint 22. cikke szerinti tanácsadási szolgáltatásokhoz nyújtott támogatás
+t)[^20] az 1. mellékletben foglalt táblázat 15. sora alapján az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 1.1.10.2. pontja szerinti tanácsadási szolgáltatásokhoz támogatás,
+
+u)[^21] az 1. mellékletben foglalt táblázat 15. sora alapján az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 1.1.9. pontja szerinti mezőgazdasági termékek termelőinek a minőségrendszerekben való részvételéhez támogatás,
+
+v)[^22] az 1. mellékletben foglalt táblázat 15. sora alapján az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások 1.3.2. pontja szerinti, a mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez támogatás
 
 [^1]: A 3. § a) pontja a 30/2015. (XI. 19.) NGM rendelet 10. § 1. pontja szerint módosított szöveg.
 [^2]: A 3. § b) pontja a 30/2015. (XI. 19.) NGM rendelet 10. § 1. pontja szerint módosított szöveg.
@@ -60,5 +64,7 @@ t)[^20] az 1. mellékletben foglalt táblázat 15. sora alapján a 702/2014/EU b
 [^16]: A 3. § p) pontja a 30/2015. (XI. 19.) NGM rendelet 10. § 1. pontja szerint módosított szöveg.
 [^17]: A 3. § q) pontja a 30/2015. (XI. 19.) NGM rendelet 10. § 1. pontja szerint módosított szöveg.
 [^18]: A 3. § r) pontja a 30/2015. (XI. 19.) NGM rendelet 10. § 1. pontja szerint módosított szöveg.
-[^19]: A 3. § s) pontját a 30/2015. (XI. 19.) NGM rendelet 1. §-a iktatta be.
-[^20]: A 3. § t) pontját a 30/2015. (XI. 19.) NGM rendelet 1. §-a iktatta be.
+[^19]: A 3. § s) pontját a 30/2015. (XI. 19.) NGM rendelet 1. §-a iktatta be, szövege a 43/2015. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^20]: A 3. § t) pontját a 30/2015. (XI. 19.) NGM rendelet 1. §-a iktatta be, szövege a 43/2015. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^21]: A 3. § u) pontját a 43/2015. (XII. 30.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^22]: A 3. § v) pontját a 43/2015. (XII. 30.) NGM rendelet 1. § (2) bekezdése iktatta be.

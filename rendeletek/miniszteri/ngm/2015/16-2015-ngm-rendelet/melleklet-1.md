@@ -1,6 +1,6 @@
 ## hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 16/2015. (V. 29.) NGM rendelethez[^46]
+1. melléklet a 16/2015. (V. 29.) NGM rendelethez[^64]
 
 XV. Nemzetgazdasági Minisztérium fejezet 2015. évi költségvetési kiadási előirányzatainak feladatterve
 
@@ -31,6 +31,10 @@ XV. Nemzetgazdasági Minisztérium fejezet 2015. évi költségvetési kiadási 
 | 12. | 240967 |  |  | ÁKK Zrt. osztalék befizetés | Az előirányzat az Államadósság Kezelő Központ Zrt. éves eredménye utáni osztalék központi költségvetésbe történő befizetésére szolgál. | központi költségvetés | - |  | egyösszegű kifizetéssel | - | - | - | - | - |
 
 | 12a | 355284 |  |  | Munkavédelmi célú támogatás | Az előirányzat célja az egészséget nem veszélyeztető és biztonságos munkavégzés támogatása. | költségvetési szerv, gazdasági társaság, civil szervezet | pályázati úton | előleg biztosítható | egyösszegű kifizetéssel, részletekben történő kifizetéssel - időarányosan vagy teljesítésarányosan | - | A kedvezményezett valamennyi - jogszabály alapján beszedési megbízással megterhelhető - fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata. | - | - | - |
+
+| 12b | 356084 |  |  | Operatív programok végrehajtásával összefüggő feladatok | Az előirányzat célja a 2007-2013-as operatív programok lezárásával összefüggésben felmerült kiadások finanszírozása a regionális fejlesztési ügynökségek részére. | gazdasági társaság | egyedi döntés útján | előleg biztosítható | egyösszegű kifizetéssel, részletekben történő kifizetéssel - időarányosan vagy teljesítésarányosan | - | A kedvezményezett valamennyi - jogszabály alapján beszedési megbízással megterhelhető - fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata. | - | - | - |
+
+| 12c | 352240 |  |  | Szakképzési rendszer átalakításával kapcsolatos kiadások | Az előirányzat célja: a) a szakképzési rendszer átalakítával összefüggő kiadások, b) Szakképzési Centrumokhoz kapcsolódó felújítás, fejlesztés, beruházás támogatása. | gazdasági társaság, költségvetési szerv, önkormányzat, központi kezelésű előirányzat | egyedi döntés, előirányzat-átcsoportosítás útján | előleg biztosítható | egyösszegű kifizetéssel, részletekben történő kifizetéssel - időarányosan vagy teljesítésarányosan | - | A kedvezményezett valamennyi - jogszabály alapján beszedési megbízással megterhelhető - fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata. | - | igény- be vehető | - |
 
 | 13. |  |  | Turisztikai feladatok |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -96,4 +100,4 @@ XV. Nemzetgazdasági Minisztérium fejezet 2015. évi költségvetési kiadási 
 
 | 42. | 340473 |  | Pénztárgépek cseréjének és átalakításának támogatása | Az előirányzat az online kapcsolatra képes, adóügyi ellenőrző egységekkel rendelkező pénztárgépek beszerzéséhez nyújtandó támogatás fedezetére szolgál. | gazdasági társaság, egyéni vállalkozó, helyi önkormányzat, egyház | Az előirányzat felhasználásának szabályait a nyugtaadási kötelezettség pénztárgéppel való teljesítésére kötelezett adóalanyoknak a pénztárgép jogszabályban meghatározott, online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgépre való 2013. évi cseréjéhez nyújtott támogatásról, valamint ezzel és az online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgép bevezetésével összefüggésben egyes miniszteri rendeletek módosításáról szóló NGM rendelet tartalmazza. | - | egyösszegű kifizetéssel | - | - | Nemzeti Adó- és Vámhivatal | - | - |
 
-[^46]: Az 1. meléklet a 30/2015. (XI. 19.) NGM rendelet 9. §-a és 10. § 10–12. pontja szerint módosított szöveg.
+[^64]: Az 1. melléklet a 30/2015. (XI. 19.) NGM rendelet 9. §-a és 10. § 10–12. pontja, a 43/2015. (XII. 30.) NGM rendelet 11. §-a szerint módosított szöveg.
