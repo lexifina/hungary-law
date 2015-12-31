@@ -1,5 +1,3 @@
-## 2. § Az előirányzatoknak az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 109. § (5) bekezdése szerinti felhasználási szabályait az 1. melléklet tartalmazza.
-
 ## 3. § Az e rendeletben szereplő, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet
 
 a) 5. sora alapján az Európai Bizottságnak a Győr–Gönyű Országos Közforgalmú Kikötő fejlesztését engedélyező, SA.38478 (2014/N) sz. határozata szerinti támogatás,
@@ -92,7 +90,7 @@ lj) 2. pont g) alpontja alapján személyszállítási közszolgáltatásért j�
 
 lk) 2. pont e) alpontja alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett a k) pontban meghatározott valamennyi támogatási kategória,
 
-m)[^1] 45–62., 64–66., 72–74a. és 103–108. sora alapján
+m)[^3] 45–62., 64–66., 72–74a. és 103–108. sora alapján
 
 ma) csekély összegű támogatás,
 
@@ -124,4 +122,4 @@ pc) csekély összegű támogatás,
 
 q) 102. sora alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett az a)–p) pontban meghatározott valamennyi támogatási kategória
 
-[^1]: A 3. § m) pont nyitó szövegrésze az 51/2015. (IX. 18.) NFM rendelet 2. § 1. pontja szerint módosított szöveg.
+[^3]: A 3. § m) pont nyitó szövegrésze az 51/2015. (IX. 18.) NFM rendelet 2. § 1. pontja szerint módosított szöveg.
