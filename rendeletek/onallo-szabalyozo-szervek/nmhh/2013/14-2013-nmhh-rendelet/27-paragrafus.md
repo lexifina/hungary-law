@@ -8,17 +8,10 @@
 
 (3) E rendelet rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni, azzal, hogy a hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos szabályok anyagi jogi rendelkezései alkalmazandók.
 
-(4) E rendelet hatálybalépését megelőzően megkezdett
+(4)[^61]
 
-a) elektronikus hírközlési építmény meglévő nyomvonalon történő korszerűsítésére irányuló, vagy
+(5)[^62] Az e-építési naplót az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 14/2013. (IX. 25.) NMHH rendelet módosításáról szóló 7/2014. (X. 21.) NMHH rendelet hatálybalépését[^63] követő ötödik hónap első napját követően megkezdett kivitelezések esetében kell alkalmazni.
 
-b) jogerős használatbavételi vagy fennmaradási engedéllyel rendelkező elektronikus hírközlő hálózathoz csatlakozó – az 1000 méter hosszúságot meg nem haladó – hálózatrész létesítésére irányuló, vagy
-
-c) jogszerűen épült elektronikus hírközlési célú alépítményi csőhálózatba, közmű alagútba, metró alagútba történő kábelbehúzásra, illetve jogszerűen épült tartószerkezetekre, oszlopokra történő vezetékek, kábelek elhelyezésére, bontására irányuló
-
-építési tevekénység esetén a 19. § (7) bekezdésében foglalt eljárás szerinti utólagos bejelentést kell tenni.
-
-(5)[^61] Az e-építési naplót az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 14/2013. (IX. 25.) NMHH rendelet módosításáról szóló 7/2014. (X. 21.) NMHH rendelet hatálybalépését[^62] követő ötödik hónap első napját követően megkezdett kivitelezések esetében kell alkalmazni.
-
-[^61]: A 27. § (5) bekezdését a 7/2014. (X. 21.) NMHH rendelet 2. §-a iktatta be.
-[^62]: A hatálybalépés időpontja 2014. október 29.
+[^61]: A 27. § (4) bekezdését a 4/2015. (VII. 15.) NMHH rendelet 21. §-a hatályon kívül helyezte.
+[^62]: A 27. § (5) bekezdését a 7/2014. (X. 21.) NMHH rendelet 2. §-a iktatta be.
+[^63]: A hatálybalépés időpontja 2014. október 29.
