@@ -16,13 +16,13 @@ f) az egészségkárosodást igazoló jogerős határozat Diákhitel szervezethe
 
 (2) Amennyiben az (1) bekezdés a) pontja szerinti eseményre a 14. § (1) bekezdésében meghatározott időpontot megelőzően vagy a 16. § (1) bekezdésben meghatározott időtartam alatt kerül sor, a hitelszerződés megszűnéséhez a hitelfelvevő felmondása szükséges.
 
-(3) A hitelszerződés (1) bekezdés b), c) és f) pontja szerinti megszűnése esetében a hitelfelvevő teljes tartozását el kell engedni.
+(3)[^45] Az (1) bekezdés b), c) és f) pontja szerinti megszűnési ok bekövetkezése esetén a hitelfelvevő teljes tartozása – ideértve a már felmondott hitelszerződésből eredő követelést is – elengedésre kerül.
 
-(4)[^39] A határozatlan idejű hitelszerződést a hitelfelvevő 15 napos felmondási idővel felmondhatja. A felmondási idő elteltével a teljes tartozás egy összegben esedékessé válik.
+(4)[^46] A határozatlan idejű hitelszerződést a hitelfelvevő 15 napos felmondási idővel felmondhatja. A felmondási idő elteltével a teljes tartozás egy összegben esedékessé válik.
 
 (5) A hitelszerződés a Diákhitel szervezet általi azonnali hatályú felmondással megszűnik:
 
-a)[^40] ha a hitelfelvevő hátralékos tartozása a részére – a törlesztési kötelezettség szüneteltetésével érintett időszakot ide nem értve – előírt havi törlesztőrészletek egy évnek megfelelő összegét meghaladja, feltéve, hogy a hitelfelvevő e tartozását a Diákhitel szervezet írásbeli felszólításában foglalt határidőben nem teljesíti,
+a)[^47] ha a hitelfelvevő hátralékos tartozása a részére – a törlesztési kötelezettség szüneteltetésével érintett időszakot ide nem értve – előírt havi törlesztőrészletek egy évnek megfelelő összegét meghaladja, feltéve, hogy a hitelfelvevő e tartozását a Diákhitel szervezet írásbeli felszólításában foglalt határidőben nem teljesíti,
 
 b) ha a hitelfelvevő a 3. §-ban meghatározott bármely feltétel hiánya ellenére vette igénybe a hallgatói hitelt (jogosulatlan hitelfelvétel),
 
@@ -34,8 +34,9 @@ d) a 16. § (6) bekezdése esetében.
 
 (7) A szerződés felmondása esetén a még meg nem fizetett teljes tartozás egy összegben esedékessé és lejárttá válik, és a Diákhitel szervezet jogosult azt meg nem fizetés esetén – az Art. rendelkezései szerint – behajtásra átadni az állami adóhatóságnak.
 
-(8)[^41] A Diákhitel szervezet a hitelszerződés megszűnését követően záró elszámolást készít. Amennyiben a Diákhitel szervezet a hitelfelvevő egyenlegén túlfizetést számol el, a záró elszámolásban a túlfizetés összegéről a hitelfelvevőt értesíti, és a túlfizetés összegét a hitelfelvevő által megadott számlaszámra utalja.
+(8)[^48] A Diákhitel szervezet a hitelszerződés megszűnését követően záró elszámolást készít. Amennyiben a Diákhitel szervezet a hitelfelvevő egyenlegén túlfizetést számol el, a záró elszámolásban a túlfizetés összegéről a hitelfelvevőt értesíti, és a túlfizetés összegét a hitelfelvevő által megadott számlaszámra utalja.
 
-[^39]: A 19. § (4) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
-[^40]: A 19. § (5) bekezdés a) pontja a 293/2014. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^41]: A 19. § (8) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^45]: A 19. § (3) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^46]: A 19. § (4) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^47]: A 19. § (5) bekezdés a) pontja a 293/2014. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^48]: A 19. § (8) bekezdése a 224/2012. (VIII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.

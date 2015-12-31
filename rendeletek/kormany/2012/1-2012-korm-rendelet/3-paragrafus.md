@@ -24,8 +24,13 @@ c) tanulmányai folytatása céljából a képzési időszakra bejelentkezett, v
 
 d) a hallgatói hitel igénylésekor nincs érvényes, azonos hitelcélú felhasználást biztosító hallgatói hitel-, vagy kölcsönszerződése a Diákhitel szervezettel.
 
-(3) Nem jogosult hallgatói hitelre az, akinek korábban kötött hitel-, vagy kölcsön szerződése megszűnt és hallgatói hiteltartozása van.
+(3)[^3] Nem jogosult hallgatói hitelre az a hallgató,
 
-(4)[^3] Nem kezdeményezheti a szabad felhasználású hitelre vonatkozó hallgatói hitelszerződés megkötését az, akit a bíróság jogerősen végrehajtandó szabadságvesztésre ítélt és a szabadságvesztést még nem hajtották végre, vagy annak végrehajthatósága még nem szűnt meg, kivéve, ha a bíróság az elítéltet feltételes szabadságra bocsátotta.
+a) akinek korábban kötött hitel- vagy kölcsönszerződése megszűnt és hallgatói hiteltartozása van, vagy
 
-[^3]: A 3. § (4) bekezdését a 293/2014. (XI. 26.) Korm. rendelet 1. §-a iktatta be.
+b) aki a 19. § (1) bekezdés f) pontja szerint elengedett tartozással rendelkezik.
+
+(4)[^4] Nem kezdeményezheti a szabad felhasználású hitelre vonatkozó hallgatói hitelszerződés megkötését az, akit a bíróság jogerősen végrehajtandó szabadságvesztésre ítélt és a szabadságvesztést még nem hajtották végre, vagy annak végrehajthatósága még nem szűnt meg, kivéve, ha a bíróság az elítéltet feltételes szabadságra bocsátotta.
+
+[^3]: A 3. § (3) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^4]: A 3. § (4) bekezdését a 293/2014. (XI. 26.) Korm. rendelet 1. §-a iktatta be.
