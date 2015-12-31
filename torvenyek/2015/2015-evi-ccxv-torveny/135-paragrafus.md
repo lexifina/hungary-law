@@ -1,3 +1,1 @@
-135. § A Hpt. 196. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az irányítási jogkörrel rendelkező vezető testület teljes jogkörét átvevő felügyeleti biztos kirendelésének ideje alatt az irányítási jogkörrel rendelkező vezető testület tagja a gazdasági társaságokra, a szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos azzal a korlátozással gyakorolja az irányítási jogkörrel rendelkező vezető testület tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit, hogy a közgyűlés összehívását, valamint meghatározott napirendi pontjainak meghatározását kizárólag a Felügyelet egyetértésével kezdeményezheti.”
+135. §

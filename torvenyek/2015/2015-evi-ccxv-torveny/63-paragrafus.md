@@ -1,3 +1,0 @@
-63. § A Bszt. 169. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az igazgatóság teljes jogkörét átvevő felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja a Ptk. jogi személyekre vonatkozó rendelkezéseiben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos azzal a korlátozással gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit, hogy a közgyűlés összehívását, valamint meghatározott napirendi pontjainak meghatározását kizárólag a Felügyelet egyetértésével kezdeményezheti.”

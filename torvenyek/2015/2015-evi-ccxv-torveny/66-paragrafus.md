@@ -1,15 +1,3 @@
 ## 6. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
-66. § A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény (a továbbiakban: Pft.) IV. Fejezete a következő 21/A. §-sal egészül ki:
-
-„21/A. § (1) Amennyiben a csoportos beszedési megbízás teljesítésére szóló felhatalmazásban (a továbbiakban: felhatalmazás) a fizető fél által megjelölt kedvezményezett személyét, azonosító adatait vagy a kedvezményezettel szerződött fogyasztók azonosító adatait érintően (a továbbiakban együtt: adatok) – cégjogi, jogszabály által elrendelt, hatósági határozatban meghatározott jogutódlás vagy szerződéses állomány átruházás (e § alkalmazásában a továbbiakban együtt: jogutódlás) miatt – változás következik be, a felhatalmazásban rögzített adatok módosítására e törvény erejénél fogva, a fizető fél külön hozzájárulása nélkül kerül sor, a (2)–(6) bekezdésben meghatározott módon és feltételekkel.
-
-(2) A jogutód kedvezményezett – az adatok módosulása hatályba lépésének napját legalább 25 munkanappal megelőzően – értesíti az adatok változásáról a számára csoportos beszedést biztosító ügyfeleit és rajtuk keresztül a fizető feleket. Ezzel egyidejűleg írásban kéri a felhatalmazásait közvetítő pénzforgalmi szolgáltatót – a jogutódlást igazoló dokumentumok benyújtásával – az adatváltozás átvezetésére és nyilatkozik az e bekezdés szerinti értesítés teljesítéséről.
-
-(3) A pénzforgalmi szolgáltató 5 munkanap alatt megvizsgálja a jogutód kedvezményezettnek a (2) bekezdéssel összhangban hozzá benyújtott kérelmét és annak elfogadásáról 5 munkanapon belül értesíti a jogutód kedvezményezettet, valamint – a jogutód kedvezményezett kérelmével összhangban – értesíti az adatváltozásról a jogutód kedvezményezett által megjelölt fizető felek fizetési számláit vezető pénzforgalmi szolgáltatókat. Az értesítésnek a módosítandó és a módosított adatokat, a fizető fél fizetési számlaszámát, továbbá az adatok módosulása hatályba lépésének napját kell tartalmaznia. Az adatok módosulása hatályba lépésének napja nem lehet korábbi, mint a (4) bekezdésben hivatkozott átvezetés határidejének lejártát követő munkanap.
-
-(4) Az adatváltozásról értesített pénzforgalmi szolgáltatók az értesítésben rögzített és a náluk nyilvántartott adatok (a fizető fél számlaszáma, valamint a szerződő fél vagy a szerződés és a fogyasztó azonosítója) megegyezése esetén 15 munkanapon belül átvezetik a módosult adatokat az érintett felhatalmazásokra vonatkozó nyilvántartásukban a fizető felek hozzájárulása nélkül.
-
-(5) Sem a jogelőd, sem a jogutód nem kezdeményezhet olyan csoportos beszedési megbízást, amelynek teljesítési napja a (4) bekezdés szerinti adatátvezetés időtartamán belüli. A jogelőd, a jogutód továbbá a (2) és (4) bekezdésben hivatkozott pénzforgalmi szolgáltatók közösen ettől eltérően írásban megállapodhatnak.
-
-(6) E paragrafus rendelkezéseit egyetemes szolgáltatói engedély visszavonása és egyidejűleg más egyetemes szolgáltató kijelölése (a továbbiakban: átvétel) miatt a felhatalmazás kedvezményezettje személyében törvény erejénél fogva bekövetkező módosulások esetén csak akkor lehet alkalmazni, ha az átvételt szabályozó jogszabály a felhatalmazás kedvezményezettje személyében bekövetkező módosulás szabályait nem rendezi.”
+66–69. §
