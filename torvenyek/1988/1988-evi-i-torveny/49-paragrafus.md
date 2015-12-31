@@ -4,7 +4,13 @@
 
 a) az Európai Parlament és a Tanács 561/2006/EK rendelete (2006. március 15.) a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről, 15. cikk, 18. cikk, 19. cikk (1) bekezdése, 21. és 22. cikk, 27. cikk 2. pontja;
 
-b) az Európai Parlament és a Tanács 715/2007/EK rendelete (2007. június 20.) a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási- és karbantartási információk elérhetőségéről, 13. cikk.
+b) az Európai Parlament és a Tanács 715/2007/EK rendelete (2007. június 20.) a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási- és karbantartási információk elérhetőségéről, 13. cikk;
+
+c) a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendelet,
+
+d) a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló, 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendelet,
+
+e) a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

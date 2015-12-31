@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2015-06-30 | 2015. évi LXXXVII. törvény | 1988-1-00-00.77 |
 | 2015-07-03 | 2015. évi LXXIX. törvény | 1988-1-00-00.78 |
 | 2015-12-24 | 2015. évi CCXXV. törvény | 1988-1-00-00.79 |
+| 2015-12-31 | 2015. évi CCXXV. törvény | 1988-1-00-00.80 |
