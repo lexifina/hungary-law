@@ -6,7 +6,7 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5. Hatályát veszti a nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló 1232/2009. (XII. 30) Korm. határozat.
+## 5.[^1]
 
 ## 6. E határozat hatálybalépése nem érinti az e határozatban foglalt szervvel, gazdálkodó szervezettel korábban megkötött együttműködési megállapodások hatályát.
 
@@ -271,3 +271,5 @@
 2.59. Lechner Tudásközpont Nonprofit Kft.,
 
 2.60. ÉMI Építésügyi Minőségellenőrzési Innovációs Nonprofit Kft.
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
