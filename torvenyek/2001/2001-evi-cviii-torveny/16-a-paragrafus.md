@@ -1,4 +1,4 @@
-16/A. § (1) A 4. §-ban, az 5. §-ban és a 14/A. §-ban foglalt rendelkezések megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jogosult. Az eljáró hatóság a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott szabályok szerint jár el.
+16/A. § (1) A 4. §-ban, az 5. §-ban, a 14/A. §-ban, és a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet 14. cikk (1) és (2) bekezdésében foglalt rendelkezések megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jogosult. Az eljáró hatóság a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott szabályok szerint jár el.
 
 (2) A 6. §-ban foglalt rendelkezések megsértése esetén
 
