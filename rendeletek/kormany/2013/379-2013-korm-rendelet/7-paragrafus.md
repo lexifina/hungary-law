@@ -1,3 +1,3 @@
 ## 6. §[^5]
 
-[^5]: A 6. § a 33. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^5]: A 6. § a 33. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
