@@ -1,0 +1,3 @@
+12. § A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 20. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Minden tűz- vagy robbanásveszélyes technológia bevezetése, forgalomba hozatala, ezek hiányában alkalmazása előtt a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő, ezek hiányában a megrendelő vagy alkalmazó köteles a tűzvédelmi rendelkezések megállapítása céljából szükséges vizsgálatokat, legalább a kijelölt tanúsító szervezetekre vonatkozó követelményeknek megfelelő vagy akkreditált szervezettel elvégezni vagy elvégeztetni, és a vizsgálatok eredményét a tűzvédelmi hatóság kérésére rendelkezésre bocsátani.”
