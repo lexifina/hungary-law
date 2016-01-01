@@ -1,6 +1,6 @@
-## 16–19. §[^51]
+## 16–19. §[^52]
 
-1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez[^52]
+1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez[^53]
 
 1. Régészeti területre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
@@ -166,5 +166,5 @@ Egy tevékenységtípusból legfeljebb 15 pont vehető figyelembe. Egy tevékeny
 
 „
 
-[^51]: A 16–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^52]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 23. § (20) bekezdésével megállapított szöveg.
+[^52]: A 16–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 23. § (20) bekezdésével megállapított szöveg.
