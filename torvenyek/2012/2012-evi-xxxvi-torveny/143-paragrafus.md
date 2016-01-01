@@ -10,7 +10,7 @@
 
 (3) Felhatalmazást kap a rendvédelmi szervet irányító miniszter, hogy az irányítása alá tartozó rendvédelmi szervek működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a Nemzeti Adó- és Vámhivatal felügyeletére kijelölt miniszter, hogy a Nemzeti Adó- és Vámhivatal vámszerve működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
+(4) Felhatalmazást kap a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy a vámhatóság működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a házelnök véleményének kikérésével rendeletben szabályozza
 
