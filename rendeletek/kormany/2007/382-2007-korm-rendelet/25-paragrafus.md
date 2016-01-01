@@ -1,8 +1,11 @@
 ## ÜZEMELTETÉSI ENGEDÉLYEZÉSI ELJÁRÁSOK
 
-25. § (1)[^52] A közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezése a villamosmű műszaki biztonsági követelményeire vonatkozó külön jogszabályban meghatározott üzembe helyezési eljárás lefolytatását követően üzembe helyezhető. Az üzembe helyezési eljárás feltételeit az engedélyes biztosítja.
+25. § (1)[^55] A közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezése a villamosmű műszaki biztonsági követelményeire vonatkozó külön jogszabályban meghatározott üzembe helyezési eljárás lefolytatását követően üzembe helyezhető. Az üzembe helyezési eljárás feltételeit az engedélyes biztosítja.
 
-(2)[^53] Az üzemeltetési engedély iránti kérelmet az engedélyesnek a 6. számú melléklet, a kérelemhez csatolandó műszaki dokumentációt a 3. számú melléklet 9. pontja szerinti tartalommal, méretekben és példányban kell benyújtania a Hatósághoz.
+(2)[^56] Az üzemeltetési engedély iránti kérelmet – a kisfeszültségű hálózati elem esetét kivéve – az engedélyesnek a 6. számú melléklet, a kérelemhez csatolandó műszaki dokumentációt a 3. számú melléklet 9. pontja szerinti tartalommal, méretekben és példányban kell benyújtania a Hatósághoz.
 
-[^52]: A 25. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^53]: A 25. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+(3)[^57] Az (1) bekezdésben felsorolt építmények közül a kisfeszültségű hálózati elem esetében az üzembe helyezési eljárás lefolytatását követő 8 napon belül az engedélyes a 6. számú melléklet szerinti adattartalommal bejelenti a Hatóságnak. A bejelentéshez csatolandó műszaki dokumentációt a 3. számú melléklet 9. pontja szerinti tartalommal, méretekben és példányban kell benyújtania a Hatósághoz.
+
+[^55]: A 25. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^56]: A 25. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 99. § (6) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^57]: A 25. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 99. § (7) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

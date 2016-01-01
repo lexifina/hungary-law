@@ -1,4 +1,4 @@
-3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^82]
+3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^96]
 
 ## Műszaki dokumentáció
 
@@ -34,9 +34,7 @@
 
 2.1. Az 1.1–1.9. pontokban felsorolt dokumentációk.
 
-3. Előmunkálati engedély dokumentációi
-
-3.1. Az 1.1–1.7. pontokban felsorolt dokumentációk (térképekből 3–3 db).
+3.[^97]
 
 4. Vezetékjog engedélyezéséhez szükséges dokumentáció
 
@@ -128,7 +126,7 @@ c) a vonatkozó jogszabályokban és a szakhatósági hozzájárulásokban fogla
 
 8.3. Az esetleges próbaüzem eredményeiről szóló nyilatkozat, valamint az üzembe helyezési eljárásról készült hitelesített jegyzőkönyv a jelenléti ívvel és annak mellékletei.
 
-9. Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének üzemeltetési engedélyezéséhez szükséges dokumentáció
+9.[^98] Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének üzemeltetési engedélyezéséhez, valamint az üzembe helyezési eljárás lefolytatásáról szóló bejelentéséhez szükséges dokumentáció
 
 9.1. A felelős műszaki vezető (vezetők) nyilatkozata arról, hogy
 
@@ -184,4 +182,6 @@ c) a tervezés során milyen szabványokat, műszaki irányelveket alkalmazott (
 
 d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) számának feltüntetése].
 
-[^82]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
+[^96]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
+[^97]: A 3. számú melléklet 3. pontját a 441/2015. (XII. 28.) Korm. rendelet 101. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^98]: A 3. számú melléklet 9. pont nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 100. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

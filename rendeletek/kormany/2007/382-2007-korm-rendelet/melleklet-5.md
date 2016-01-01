@@ -10,7 +10,7 @@
 
 | 3. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a vasúti pálya területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett - a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasútkezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján - engedélyezhető-e. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
 
-| 4. | Minden eljárásban. | A helyi építésügyi követelményeknek (HÉSZ) való megfelelés és a helyi településrendezési tervekkel való összhang megállapítása kérdésében, valamint annak elbírálása kérdésében, hogy az építmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, a fővárosban a főjegyző |  |
+| 4. | Minden eljárásban. | A helyi településrendezési eszközökkel való összhang megállapítása kérdésében, valamint annak elbírálása kérdésében, hogy az építmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel- e. | települési önkormány- zat jegyzője, a fővárosban a főjegyző | állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal |
 
 | 5. | Minden eljárásban a nyomvonalas létesítmény, valamint szélerőmű engedélyezése kivételével. | Létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása. | első fokon eljáró tűzvédelmi szakhatóság | másodfokon eljáró tűzvédelmi szakhatóság |
 
@@ -72,7 +72,7 @@
 
 | 5. | Ha az építési tevékenység a) külterületen felszínmozgás-veszélyes, illetve bányászati tevékenységgel érintett területen valósul meg; vagy b) nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállítóvezeték, elosztóvezeték, célvezeték, valamint egyéb gáz és gáztermék vezeték biztonsági övezetében valósul meg, és az építtető az üzemeltetőnek a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet 19/B. § (2) bekezdése szerint egyetértésének megtagadását vagy az üzemeltető által az egyetértés megadásához szabott feltételeket sérelmesnek tartja, vagy c) ásványi nyersanyag kitermeléssel jár. | Az a) pont esetében az építési engedély iránti kérelem földtani szempontú megalapozottságának vizsgálata. A b) pont esetében annak megállapítása, hogy az üzemeltető nyilatkozatában foglalt feltételek vagy a hozzájárulás megtagadása a gázipari tevékenységgel kapcsolatos létesítmény rendeltetésszerű használatával és védelmével kapcsolatos jogszabályi rendelkezéseknek megfelelő-e. A c) pont esetében a kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék- fizetési kötelezettség megállapítása. | Magyar Bányászati és Földtani Hivatal |
 
-5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^84]
+5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^100]
 
 ## Az elvi építési és az építési engedély iránti kérelem adattartalma
 
@@ -110,4 +110,4 @@ d) kivitelezés tervezett befejezési időpontja.
 
 9. A kérelem tárgyával összefüggésben korábban keletkezett hatósági döntések megnevezése, iktatószáma és kelte.
 
-[^84]: Az 5. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § d) pontjával megállapított szöveg.
+[^100]: Az 5. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § d) pontjával megállapított szöveg.

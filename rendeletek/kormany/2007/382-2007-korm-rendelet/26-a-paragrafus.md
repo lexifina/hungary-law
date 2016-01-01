@@ -1,0 +1,17 @@
+26/A. §[^59] (1) A 25. § (1) bekezdésében felsorolt építmények közül a kisfeszültségű hálózati elem esetében az üzembe helyezési eljárás lefolytatásáról szóló bejelentésben foglaltakat a Hatóság tizenöt nap elteltével hallgatással tudomásul veszi, a tudomásulvételt a hiányzó feltételek teljesítéséhez kötheti, vagy a tudomásulvétellel egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi a kérelmezőt.
+
+(2) Az üzembe helyezési eljárás lefolytatásáról szóló bejelentés kapcsán a Hatóság vizsgálja, hogy
+
+a) a tényleges megvalósulás a jogerős engedély szerint történt-e meg,
+
+b) az üzembe helyezés során betartották-e a jogszabályokban foglalt követelményeket,
+
+c) az üzembe helyezési eljárás során az érintettek által adott nyilatkozatban foglaltak megvalósultak-e,
+
+d) közcélú, magán-, termelői és közvetlen vezeték esetében a kérelmező a bejelentéshez csatolta-e az e-közmű adatszolgáltatásra kötelezett leendő üzemeltető igazolását a geodéziai bemérésben szereplő nyomvonal ellenőrzéséről, adatszolgáltatási szintek szerinti minősítéséről és nyilvántartásba vételéről.
+
+(3) Ha a kérelmező a Hatóság által előírt feltételeket a megadott határidőre nem vagy nem kielégítően teljesíti, a Hatóság az építmény további üzemeltetését megtiltja.
+
+(4) Ha az építmény további feltételek előírásával sem feleltethető meg a jogszabályban meghatározott követelményeknek, a Hatóság annak bontását rendeli el.
+
+[^59]: A 26/A. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (8) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
