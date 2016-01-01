@@ -40,8 +40,11 @@ f) javaslatok megfogalmazása a költségvetési szerv működése eredményess�
 
 (5) Fejezetet irányító szerv esetén az (1)–(4) bekezdésben meghatározott feladatokon túl a belső ellenőrzési szervezeti egység ellátja:
 
-a) az irányított szervek belső ellenőrzései tevékenységének szakmai felügyeletét;
+a)[^40] a fejezetet irányító szerv irányítása vagy felügyelete alá tartozó költségvetési szerv belső ellenőrzései tevékenységének szakmai felügyeletét;
 
 b) a fejezeten belüli ellenőrzések koordinációját;
 
-c) a 32. § (5) bekezdésében és az 49. § (4) bekezdésében foglaltakat.
+c)[^41] a 32. § (5) bekezdésében és a 49. § (4) bekezdésében foglaltakat.
+
+[^40]: A 21. § (5) bekezdés a) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 8. pontja szerint módosított szöveg.
+[^41]: A 21. § (5) bekezdés c) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 9. pontja szerint módosított szöveg.
