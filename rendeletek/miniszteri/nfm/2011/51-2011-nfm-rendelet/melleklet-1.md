@@ -28,7 +28,7 @@
 
 | 8 | Berettyóújfalu | Herpály-Team Építőipari és Szolgáltató Kft. | 2 482 355 | 48 |
 
-| 9 | Bokod | Oroszlányi Szolgáltató Zrt. | 1 185 982 | 1 269 |
+| 9 | Bokod | Oroszlányi Szolgáltató Zrt. | 2 444 989 | 1552 |
 
 | 10 | Bonyhád | „FŰTŐMŰ” Kft. | 4 064 732 | 0 |
 
@@ -80,7 +80,7 @@
 
 | 34 | Hajdúböszörmény | Hajdúböszörményi Városgazdálkodási Nonprofit Kft. | 1 116 610 | 0 |
 
-| 35 | Hajdúnánás | Hajdúnánási Építő és Szolgáltató Kft. | 308 805 | 0 |
+| 35 | Hajdúnánás | Hajdúnánási Építő és Szolgáltató Kft. | 1 543 744 | 0 |
 
 | 36 | Hajdúszoboszló | Hajdúszoboszlói Nonprofit Zrt. | 5 928 207 | 1 266 |
 
@@ -92,7 +92,7 @@
 
 | 40 | Kapuvár | Kapuvári Hőszolgáltató Kft. | 1 192 825 | 2 029 |
 
-| 41 | Kazincbarcika | Barcika Szolg Kft. | 67 713 383 | 400 |
+| 41 | Kazincbarcika | Barcika Szolg Kft. | 58 964 406 | 400 |
 
 | 42 | Kecskemét | Kecskeméti Termostar Hőszolgáltató Kft. | 55 706 058 | 0 |
 
@@ -110,13 +110,13 @@
 
 | 49 | Körmend | RÉGIÓHŐ Kft. | 3 931 413 | 0 |
 
-| 50 | Kőszeg | Kőszegi Távhőszolgáltató Kft. | 2 118 762 | 0 |
+| 50 | Kőszeg | Cothec Kft. | 2 118 762 | 0 |
 
 | 51 | Makó | Makói Kommunális Nonprofit Kft. | 2 348 184 | 894 |
 
 | 52 | Mátészalka | Mátészalkai Távhőszolgáltató Kft. | 7 160 425 | 660 |
 
-| 53 | Miskolc | MIHŐ Kft. | 333 115 937 | 340 |
+| 53 | Miskolc | MIHŐ Kft. | 241 965 338 | 340 |
 
 | 54 | Mohács | MOHÁCS-HŐ Kft. | 11 012 914 | 1 146 |
 
@@ -136,7 +136,7 @@
 
 | 62 | Nyíregyháza | Energocoop Kft. | 3 430 926 | 359 |
 
-| 63 | Oroszlány | Oroszlányi Szolgáltató Zrt. | 23 830 312 | 0 |
+| 63 | Oroszlány | Oroszlányi Szolgáltató Zrt. | 62 128 900 | 1097 |
 
 | 64 | Ózd | Ózdi Távhő Kft. | 32 333 236 | 777 |
 
@@ -154,7 +154,7 @@
 
 | 71 | Püspökladány | Püspökladányi Városüzemeltető és Gyógyfürdő Kft. | 7 007 592 | 1 033 |
 
-| 72 | Salgótarján | Salgó Vagyon Kft. | 26 088 430 | 660 |
+| 72 | Salgótarján | Salgó Vagyon Kft. | 26 088 430 | 1535 |
 
 | 73 | Sárbogárd | Cothec Kft. | 2 194 835 | 0 |
 
@@ -164,7 +164,7 @@
 
 | 76 | Sátoraljaújhely | Cothec Kft. | 7 093 265 | 0 |
 
-| 77 | Siklós | SIKLÓSI TÁVHŐ Nonprofit Kft. | 1 665 910 | 138 |
+| 77 | Siklós | SIKLÓSI TÁVHŐ Nonprofit Kft. | 1 846 605 | 138 |
 
 | 78 | Siófok | Balaton-parti Kft. | 0 | 0 |
 
@@ -180,7 +180,7 @@
 
 | 84 | Székesfehérvár | SZÉPHŐ Székesfehérvári Épületfenntartó és Hőszolgáltató Zrt. | 116 897 295 | 0 |
 
-| 85 | Szekszárd | Szekszárdi Vagyonkezelő Kft. | 6 644 794 | 0 |
+| 85 | Szekszárd | Szekszárdi Vagyonkezelő Kft. | 26 842 370 | 0 |
 
 | 86 | Szentendre | Városi Szolgáltató Zrt. | 10 886 984 | 0 |
 
@@ -257,4 +257,4 @@
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Megyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^17]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a szerint módosított szöveg.

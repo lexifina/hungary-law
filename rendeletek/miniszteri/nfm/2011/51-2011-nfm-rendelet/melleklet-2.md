@@ -44,9 +44,9 @@ T: Lakosságnak nyújtott távhőszolgáltatás után járó tárgyhavi támogat
 
 1.2.2. A támogatási számítás magyarázata:
 
-a) A lakosságnak nyújtott távhő után, az adott távhőszolgáltatónak járó fajlagos támogatás (t) értéke az 1. melléklet 1. pontjában foglalt táblázat D oszlopában található.
+a) A lakosságnak nyújtott távhő után, az adott távhőszolgáltatónak járó fajlagos támogatás (t) értéke az 1. melléklet 1. pontjában foglalt táblázat E oszlopában található.
 
-b) A lakosságnak nyújtott távhő után, az adott távhőszolgáltatónak járó fix összegű támogatás (f) értéke az 1. melléklet 1. pontjában foglalt táblázat E oszlopában található.
+b) A lakosságnak nyújtott távhő után, az adott távhőszolgáltatónak járó fix összegű támogatás (f) értéke az 1. melléklet 1. pontjában foglalt táblázat D oszlopában található.
 
 c) A lakosságnak nyújtott távhő adott elszámolási hónapra vonatkozó mennyisége v1.
 
@@ -90,4 +90,4 @@ vi: Intézmény által vásárolt vagy termelt kapcsolt hő mennyisége
 
 Ti: Intézmény kapcsolt termelés után kapott támogatásának értéke (Ti = ti*vi)
 
-[^19]: A 2. melléklet az 59/2012. (X. 31.) NFM rendelet 12. § (2) bekezdésével megállapított, az 54/2015. (IX. 30.) NFM rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 2. melléklet az 59/2012. (X. 31.) NFM rendelet 12. § (2) bekezdésével megállapított, az 54/2015. (IX. 30.) NFM rendelet 9. § (2) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 8. §-a szerint módosított szöveg.
