@@ -1,0 +1,1 @@
+## az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok állami támogatásról szóló 489/2013. (XII. 18.) Korm. rendelet (a továbbiakban: Átr.) hatálya alá tartozó támogatásról szóló döntésben határoz.
