@@ -192,6 +192,8 @@
 
 | G2 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont gb) alpontja alapján szerződéssel átvállalta |
 
+| 2H | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés h) pontja alapján visszaigénylésre kerül |
+
 | 22 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
 
 | 23 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés b) pontja alapján visszaigénylésre kerül |
@@ -258,6 +260,8 @@
 
 | G4 | a termékdíj-kötelezettséget a belföldi vevő a Ktdt. 14. § (5) bekezdés g) pont gb) alpontja alapján szerződéssel átvállalta |
 
+| 4H | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés h) pontja alapján visszaigénylésre kerül |
+
 | 43 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés a) pontja alapján visszaigénylésre kerül |
 
 | 44 | a csomagolószer termékdíja a Ktdt. 25. § (1) bekezdés b) pontja alapján visszaigénylésre kerül |
@@ -312,7 +316,7 @@
 
 ## CsK kód 6-7. karaktere: a termék újrahasználhatóságát jelölő kód
 
-| Kód (6-7.) | Megnevezés |
+| Kód (6–7) | Megnevezés |
 
 | Külföldről behozott csomagolás részét képező csomagolószer esetén |
 
@@ -320,7 +324,7 @@
 
 | 98 | külföldről behozott áru részét képező csomagolószer, a visszaszállításra kerülő újrahasználható csomagolószer kivételével |
 
-| Csomagolószer esetén, az eladótéri műanyag zsák, zacskó, továbbá a műanyag bevásárló reklám táska kivételével |
+| Csomagolószer esetén, az eladótéri műanyag zsák, zacskó, továbbá a műanyag bevásárló reklámtáska kivételével |
 
 | 01 | egyszer használható |
 
@@ -328,11 +332,13 @@
 
 | 03 | többször használható, a Főfelügyelőség újrahasználható csomagolószer nyilvántartásába fel nem vett csomagolószer |
 
-| Eladótéri műanyag zsák, zacskó, továbbá a műanyag bevásárló reklám táska esetén |
+| Eladótéri műanyag zsák, zacskó, továbbá a műanyag bevásárló reklámtáska esetén |
 
-| 50 | 50 mikronnál (0,05 milliméter) kisebb falvastagságú |
+| 14 | 15 mikronnál kisebb falvastagságú |
 
-| 51 | 50 mikron (0,05 milliméter) vagy azt meghaladó falvastagságú |
+| 50 | 15 mikron vagy annál nagyobb, de 50 mikront el nem érő falvastagságú |
+
+| 51 | 50 mikron vagy azt meghaladó falvastagságú |
 
 ## B) cím
 
@@ -554,15 +560,51 @@
 
 | Gyűjtő kód nem újrahasználható csomagolás a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény 5/E. § (1) bekezdés szerinti levonásához | 4OC |
 
+## 1.10. A gépjármű termékdíjköteles alkotórésze, tartozéka után meghatározott összegű termékdíjátalány alkalmazásának környezetvédelmi termékdíj kódjai
+
+| A | B | C |
+
+| 1. | Vtsz. és megnevezés | KT kód |
+
+| 2. | 8703 21 Más szikragyújtású, dugattyús, belső égésű motorral működő jármű legfeljebb 1000 cm3 hengerűrtartalommal | J21 |
+
+| 3. | 8703 22 Más szikragyújtású, dugattyús, belső égésű motorral működő jármű 1000 cm3 -t meghaladó, de legfeljebb 1500 cm3 hengerűrtartalommal | J22 |
+
+| 4. | 8703 23 Más szikragyújtású, dugattyús, belső égésű motorral működő jármű 1500 cm3-t meghaladó, de legfeljebb 3000 cm3 hengerűrtartalommal | J23 |
+
+| 5. | 8703 24 Más szikragyújtású, dugattyús, belső égésű motorral működő jármű 3000 cm3-t meghaladó hengerűrtartalommal | J24 |
+
+| 6. | 8703 31 Más kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő legfeljebb 1500 cm3 hengerűrtartalommal | J31 |
+
+| 7. | 8703 32 Más kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő 1500 cm3-t meghaladó, de legfeljebb 2500 cm3 hengerűrtartalommal | J32 |
+
+| 8. | 8703 33 Más kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral működő 2500 cm3-t meghaladó hengerűrtartalommal | J33 |
+
+| 9. | 8703 90 Más (elektromos motorral, más) | J90 |
+
+| 10. | 8711 10 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; legfeljebb 50 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J10 |
+
+| 11. | 8711 20 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 50 cm3-t meghaladó, de legfeljebb 250 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J20 |
+
+| 12. | 8711 30 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 250 cm3-t meghaladó, de legfeljebb 500 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J30 |
+
+| 13. | 8711 40 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 500 cm3-t meghaladó, de legfeljebb 800 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J40 |
+
+| 14. | 8711 50 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; 800 cm3-t meghaladó hengerűrtartalmú, dugattyús, belső égésű motorral működő | J50 |
+
 ## 2. A KT kód 4-5. jegye:
 
 | 01 | ha a termékdíj megfizetése a Ktdt. 2. mellékletében foglalt díjtételekkel történik (kollektív teljesítés) |
 
 | 02 | ha a termékdíj megfizetése a Ktdt. 3. mellékletében foglalt számított díjtételekkel történik |
 
+| 03 | ha a termékdíjátalány megfizetése a Ktdt. 4. mellékletben foglalt díjtételekkel történik |
+
 | 04 | ha a termékdíj megfizetése a Ktdt. 2. mellékletében foglalt díjtételekkel történik (kollektív teljesítés) termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
 
 | 05 | ha a termékdíj megfizetése a Ktdt. 3. mellékletében foglalt számított díjtételekkel történik termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
+
+| 06 | ha a termékdíjátalány megfizetése a Ktdt. 4. mellékletben foglalt díjtételekkel történik termékdíj raktárból belföldre történő kiszállítás, saját célú felhasználás esetén |
 
 | 71 | ha a termékdíjat az egyéb kőolajtermék alapanyagként történő felhasználása esetén nem kell megfizetni |
 
@@ -676,6 +718,6 @@
 
 |  | 600 | – kenőolaj hulladéka |
 
-2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^116]
+2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^119]
 
-[^116]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^119]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.

@@ -8,7 +8,7 @@
 
 (5) A Ktdt. 40. § (10) bekezdésében meghatározott, 2012. évben teljesítendő kötelezettségek alá a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény végrehajtásáról szóló 10/1995. (IX. 28.) KTM rendelet 8. § (8) bekezdésében meghatározott bejelentési kötelezettséget nem kell teljesíteni.
 
-(6)[^106] A Ktdt. 40. § (11) bekezdésében meghatározott hulladékhasznosítási teljesítményt a koordináló szervezetek vámhatóságnak történő bevallás adatainak a vámhatóság által, az állami hulladékgazdálkodást közvetítő szervezet részére történő átadással történik.
+(6)[^109] A Ktdt. 40. § (11) bekezdésében meghatározott hulladékhasznosítási teljesítményt a koordináló szervezetek vámhatóságnak történő bevallás adatainak a vámhatóság által, az állami hulladékgazdálkodást közvetítő szervezet részére történő átadással történik.
 
 (7) Nem kell e rendelet szerint bejelenteni a 2012. január 1-jét megelőzően, szabályosan bejelentett
 
@@ -18,12 +18,12 @@ b) az elektronikus úton történő bejelentés, bevallás benyújtására vonat
 
 amennyiben az adatokban és a megbízás, meghatalmazás körülményeiben változás nem következett be.
 
-(8)[^107]
+(8)[^110]
 
 (9) A rendelet hatálybelépését megelőzően egyéni mentességgel rendelkezők esetében az egyéni mentesség feltételeinek teljesítése során igazoltan felmerült hulladékkezelési költségeket is megfizetett hasznosítási díjnak kell tekinteni a Ktdt. 40. § (8) bekezdés szerinti kötelezettség teljesítése során.
 
-(10)[^108] A vámhatóság jár el a 2012. január 1-jét megelőzően, a használt vagy hulladékká vált egyéb kőolajtermék energetikai módon történő hasznosítása jogcímén keletkező termékdíj visszaigénylése során.
+(10)[^111] A vámhatóság jár el a 2012. január 1-jét megelőzően, a használt vagy hulladékká vált egyéb kőolajtermék energetikai módon történő hasznosítása jogcímén keletkező termékdíj visszaigénylése során.
 
-[^106]: A 34. § (6) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^107]: A 34. § (8) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 5. pontja hatályon kívül helyezte.
-[^108]: A 34. § (10) bekezdését a 251/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
+[^109]: A 34. § (6) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^110]: A 34. § (8) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 5. pontja hatályon kívül helyezte.
+[^111]: A 34. § (10) bekezdését a 251/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
