@@ -1,0 +1,1 @@
+## figyelembevételével számítja ki.
