@@ -8,6 +8,6 @@
 
 | 3. | 1.2. | Hígtrágya | 50 | 70 |
 
-3. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^21]
+3. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^25]
 
-[^21]: A 3. számú melléklet a 147/2012. (XII. 27.) VM rendelet 5. §-a szerint módosított szöveg.
+[^25]: A 3. számú melléklet a 147/2012. (XII. 27.) VM rendelet 5. §-a szerint módosított szöveg.

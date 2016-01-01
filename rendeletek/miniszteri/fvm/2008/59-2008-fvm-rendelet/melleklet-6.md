@@ -170,7 +170,7 @@
 
 ## Azon trágyatárolóra, melyek típustervek alapján, különböző méretekben készülő ipari gyártmányok, a gyártóknak a teljes hígtrágya tárolóra, mint késztermékre kell Megfelelőségi Nyilatkozatot biztosítania. Ehhez a gyártónak rendelkeznie kell az összes, szabványokban foglalt tulajdonságoknak való megfelelőséget igazoló dokumentumokkal, a megfelelőséget igazoló akkreditált vizsgálati eredményekkel.
 
-6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^24]
+6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^28]
 
 ADATLAP
 
@@ -178,7 +178,7 @@ az 59/2008. (IV. 29.) FVM rendelet szerint,
 
 a mezőgazdasági tevékenységet folytatók kötelező adatszolgáltatásához
 
-Adatszolgáltatási időszak: _ _ _ _ . _ _ . _ _ - _ _ _ _ . _ _ .  _
+Adatszolgáltatási időszak: _ _ _ _ . _ _ . _ _ - _ _ _ _ . _ _ .  _
 
 1. A mezőgazdasági tevékenységet folytató adata
 
@@ -212,7 +212,7 @@ Adatszolgáltatási időszak: _ _ _ _ . _ _ . _ _ - _ _ _ _ . _ 
 
 | TH KTJ: | _ _ _ _ _ _ _ _ _ | MePAR blokkazonosító | _ _ _ _ _-_-_ _ |
 
-2.2. Az állatállomány éves átlagos létszáma és az év folyamán keletkezett trágya mennyisége a gazdálkodási évben
+2.2. Az állatállomány éves átlagos létszáma és az év folyamán keletkezett trágya mennyisége a tárgyévben
 
 |  | Állatfaj | Állattartás módja | Állatok létszáma (darab) | Keletkezett trágya |
 
@@ -240,7 +240,7 @@ Adatszolgáltatási időszak: _ _ _ _ . _ _ . _ _ - _ _ _ _ . _ 
 
 | 11. |  | _ _ |  | _ _ | _ _ _ _ _ _ _ _ |  |  |
 
-2.3. A trágyatároló kapacitása és a gazdálkodási év utolsó napján tárolt szervestrágya mennyisége
+2.3. A trágyatároló kapacitása és a tárgyév utolsó napján tárolt szervestrágya mennyisége
 
 ........ oldal
 
@@ -292,381 +292,84 @@ Dátum:
 
 aláírás
 
-Függelék az 59/2008. (IV. 29.) FVM rendelet 6. számú mellékletéhez[^25]
+3.1. Legeltetéssel hasznosított terület
 
-Kitöltési útmutató
+| Település | Helyrajzi szám | MePAR blokkazonosító | Legeltetett terület (ha) |
 
-az 59/2008. (IV. 29.) FVM rendelet szerint, a mezőgazdasági tevékenységet folytatók
+| 1. |  |  | _ _ _ _ _-_ - _ _ |  |
 
-kötelező adatszolgáltatásához
+| 2. |  |  | _ _ _ _ _-_ - _ _ |  |
 
-Általános tudnivalók
+| 3. |  |  | _ _ _ _ _-_ - _ _ |  |
 
-Az 1. táblázatot minden adatszolgáltatásra kötelezett gazdálkodónak ki kell töltenie. Ezen felül az állattartást végzőknek a 2.1., 2.2., 2.3. táblázatokat, ha legeltetést folytat a 3.1. táblázatot, ha a trágyát nem saját területén hasznosítja vagy trágyát vesz át felhasználásra akkor a 3.3. táblázatot kell kitöltenie. A növénytermesztést folytató gazdálkodónak a 3.2. és a 3.3. táblázatokat kell kitöltenie.
+| 4. |  |  | _ _ _ _ _-_ - _ _ |  |
 
-Az adatlapokon a gazdálkodási év utolsó napján érvényes adatokat kell közölni, amelyek a valós helyzetnek megfelelőek, illetve a tevékenységgel kapcsolatos dokumentumokban, okmányokban szereplő adatokkal megegyezők. Az adatlapokon közölt adatok valódiságáért az adatszolgáltató felelős.
+| 5. |  |  | _ _ _ _ _-_ - _ _ |  |
 
-A telephely szerint illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága (a továbbiakban: nővény- és talajvédelmi igazgatóság), illetve vízvédelmi hatóság az adatszolgáltatásban foglaltakat ellenőrizhetik. Ennek során az adatszolgáltatásban foglaltakat igazoló, alátámasztó dokumentumokat – az ellenőrzést végző kérésére – be kell mutatni. A hatóság felszólítására az esetleges hiányokat pótolni kell.
+| 6. |  |  | _ _ _ _ _-_ - _ _ |  |
 
-Az adatgyűjtés jogszabály alapján elrendelt hatósági célú adatgyűjtésnek minősül.
+3.1.1. Legelő állatok
 
-Valótlan adatok közlése, az adatszolgáltatás megtagadása és a késedelmes adatszolgáltatás a hatályos jogszabályok szerint bírság kiszabását vonja maga után!
+| Állatfaj kódja | Legeltetett állatok száma | Legelőn töltött napok száma |
 
-Az adatszolgáltatáshoz szükséges adatlapok beszerezhetők a növény- és talajvédelmi igazgatóságnál, a falugazdászoknál és a hatósági állatorvosoknál vagy letölthetők a Belügyminisztérium (www.bm.gov.hu) , valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (www.nebih.gov.hu) hivatalos honlapjáról.
+| _ _ |  |  |
 
-Az egyes adatlapokon, ha valamely adat esetében a rendelkezésre álló hely kevésnek bizonyul, szükség szerinti számban ugyanazon lap másolata szolgál pótlapként. Az adatlapokat – az esetleg szükségessé váló pótlapokat is figyelembe véve – egy adatszolgáltatás keretében folyamatos oldalszámmal kell ellátni.
+| _ _ |  |  |
 
-Részletes kitöltési útmutató
+| _ _ |  |  |
 
-1. A mezőgazdasági tevékenységet folytató adatai
+| _ _ |  |  |
 
-A gazdálkodó neve
+| _ _ |  |  |
 
-Ha a gazdálkodó:
+3.2. A trágyakijuttatás adatai a tárgyévben
 
-– szervezet, akkor a szervezet bírósági, cégbírósági bejegyzésében szereplő teljes megnevezését,
-
-– egyéni vállalkozó, akkor a vállalkozási igazolványban szereplő családi és utónevét,
-
-– magánszemély, akkor a személyi igazolványban szereplő családi és utónevét
-
-kell megadni.
-
-A székhelynél a gazdálkodó levelezési címe szerinti adatokat (irányítószám, település, közterület jellege pl. utca, házszám) kell feltüntetni.
-
-Magánszemélynek az adóazonosító jel, gazdálkodó szervezetnek a KSH statisztikai számjel és az adószám rovatokat kell kitölteni.
-
-KÜJ (Környezetvédelmi Ügyfél Jel):
-
-Az állattartással foglalkozó gazdálkodóknak az adatszolgáltatás benyújtásakor – az adatszolgáltatás környezetvédelmi vonatkozásai miatt – rendelkeznie kell KÜJ (Környezetvédelmi Ügyfél Jel) számmal, az állattartó telepnek pedig TH-KTJ (Telephelyhez rendelt Környezetvédelmi Területi Jel) számmal. A telepen belüli, eltérő kialakítású (eltérő műszaki védelemmel rendelkező) trágyatárolóknak ezen belül külön EH-KTJ számmal kell rendelkeznie. (Az EH-KTJ szám a 219/2004. (VII. 21.) Korm. rendelet szerinti engedélyköteles tevékenység helyéhez rendelt Környezetvédelmi Területi Jelet jelenti).
-
-Mindhárom azonosítóra vonatkozóan fontos tudnivaló, hogy amennyiben a bejelentéskor ezekkel vagy ezek valamelyikével az állattartással foglalkozó gazdálkodó nem rendelkezik, úgy az(oka)t az ún. KAR adatlapok (környezetvédelmi alapnyilvántartáshoz szükséges adatok adatlapja) benyújtásával kell megkérnie a területileg illetékes vízvédelmi hatóságtól. A KAR adatlapok beszerezhetőek a területileg illetékes vízvédelmi hatóságtól. A KAR adatlapok KTJ lapja szolgál mind a TH, mind az EH-KTJ-k igénylésére (TH-KTJ esetén a 4. „a bejelentett objektum telephely?” kérdésnél a mezőbe x-szet kell tenni, EH-KTJ esetén a mezőt üresen kell hagyni. A KAR lapok nyilvántartásba vétele során a környezetvédelmi hatóság a bejelentőlapon közölt azonosító adatokhoz rendelten megállapítja a gazdálkodó azonosítóját/azonosítóit, s erről az ügyfelet értesíti. Azt követően, hogy a gazdálkodó az azonosítóról hivatalos értesítést kap, a későbbiekben valamennyi környezetvédelmi vonatkozású adatszolgáltatáskor az azonosítót használnia kell.
-
-Regisztrációs szám: A Mezőgazdasági és Vidékfejlesztési Hivatal által nyilvántartott azonosító szám.
-
-Kapcsolattartó személy: Azt a személyt kérjük megadni, aki az adatlapon szereplő adatokkal kapcsolatban felmerülő kérdésekben felvilágosítást tud nyújtani. Kitöltése nem kötelező.
-
-2.1. Az állattartó telep adatai
-
-A 2.1., 2.2., 2.3. táblázatokat állattartó telepenként külön lapon kell kitölteni. Az állattartó telepenként összetartozó oldalakat a TH-KTJ (lásd 1. pont KÜJ-nél leírtakat) számmal kell azonosítani.
-
-Az állattartó telep megnevezése: Ha a telepnek létezik önálló neve, azt kell megadni. Amennyiben nincs, a megnevezést a telepen tartott állat nevéből kérjük képezni (1 sertéstelep).
-
-Az állattartó telep címe: Kérjük a település, közterület jellege pl. utca, házszám vagy a település és a helyrajzi szám megadását.
-
-TH-KTJ: Lásd 1. pont KÜJ-nél leírtakat.
-
-MePAR Blokkazonosító: A Mezőgazdasági Parcellaazonosító Rendszer (MePAR) szerinti fizikai blokk azonosítója.
-
-2.2. Az állatállomány éves átlagos létszáma és az év folyamán keletkezett trágya mennyisége a gazdálkodási évben
-
-Állatfaj megnevezése és kódja: Az adatlap kitöltésekor az alábbi táblázatot kérjük figyelembe venni. A 24-es kód (egyéb) választásakor kérjük az állatfaj pontos megnevezését megadni!
-
-| Megnevezés | Kód |
-
-| ló | 01 |
-
-| tejelő tehén | 02 |
-
-| borjú (0–6 hónapig) | 03 |
-
-| üsző (6–12 hónapig) | 04 |
-
-| üsző (12–24 hónapig) | 05 |
-
-| hízó marha (6–12 hónapig) | 06 |
-
-| hízó marha (12–24 hónapig) | 07 |
-
-| hízó marha 24 hónap | 08 |
-
-| tenyészbika | 09 |
-
-| tenyészkoca | 10 |
-
-| tenyészkan | 11 |
-
-| utónevelt malac (8–35 kg) | 12 |
-
-| hízó sertés | 13 |
-
-| tojótyúk | 14 |
-
-| broilercsirke | 15 |
-
-| pulyka | 16 |
-
-| liba | 17 |
-
-| kacsa | 18 |
-
-| juh (anyajuh 50 kg-ig + szaporulat) | 19 |
-
-| juh (anyajuh 70 kg-ig + szaporulat) | 20 |
-
-| kecske (anyakecske 50 kg-ig + szaporulat) | 21 |
-
-| kecske (anyakecske 80 kg-ig + szaporulat) | 22 |
-
-| anyanyúl + szaporulat | 23 |
-
-| egyéb | 24 |
-
-Állattartás típusának megnevezése és kódja: Az adatlap kitöltésekor az alábbi táblázatot kérjük figyelembe venni. A 06-os kód (egyéb) választásakor kérjük az állattartás típusát pontosan megnevezni!
-
-Állattartás típusa Kód
-
-Hígtrágyás 01
-
-Almos 02
-
-Mélyalmos 03
-
-Legeltetéses 04
-
-Karám (kifutó) 05
-
-Egyéb 06
-
-Állatlétszám: A trágyatermelés alapját képező éves átlagos állományi létszámot kell megadni.
-
-Keletkezett hígtrágya, keletkezett istállótrágya: Kérjük, adja meg állatfajonként gazdálkodási évben keletkezett összes hígtrágya mennyiségét m3/évben és/vagy a keletkezett összes istállótrágya (almos, mélyalmos trágya) mennyiségét t/évben.
-
-2.3. A trágyatároló kapacitása és a gazdálkodási év utolsó napján tárolt trágya mennyisége
-
-A telepenként összetartozó lapok azonosítása érdekében kérjük a telephelyhez tartozó TH-KTJ ismételt feltüntetését.
-
-Az EOV koordinátapárt (X; Y) egész szám pontossággal az Egységes Országos Vetületi (EOV) rendszer szerint kérjük megadni.
-
-A trágyatároló kapacitásánál a tároló befogadóképességét kérjük megadni hígtrágyatároló esetén m3-ben, istállótrágya-tároló esetén tonnában kifejezve.
-
-Az EH-KTJ számot trágyatárolónként kérjük megadni (lásd 1. pont KÜJ-nél leírtakat). A trágyatárolás módjának megadásakor az alábbi kódokat kérjük használni:
-
-| Hígtrágyatárolás |
-
-| műszaki védelem megfelelősége | trágyatároló típusa | kód |
-
-| nincs műszaki védelem | szigeteletlen földmedence érintkezésben a talajvízzel | 10 |
-
-| szigeteletlen földmedence nem érintkezve a talajvízzel | 11 |
-
-| felszíni mélyedés érintkezésben a talajvízzel | 12 |
-
-| felszíni mélyedés nem érintkezve a talajvízzel | 13 |
-
-| nem megfelelő műszaki védelem | földmedence döngölt alappal érintkezésben a talajvízzel | 20 |
-
-| földmedence döngölt alappal nem érintkezve a talajvízzel | 21 |
-
-| földmedence döngölt agyagbéléssel érintkezésben a talajvízzel | 22 |
-
-| földmedence döngölt agyagbéléssel nem érintkezve a talajvízzel | 23 |
-
-| földmedence egyéb fóliabéléssel érintkezésben a talajvízzel | 24 |
-
-| földmedence egyéb fóliabéléssel nem érintkezve a talajvízzel | 25 |
-
-| téglával falazott medence érintkezésben a talajvízzel | 26 |
-
-| téglával falazott medence nem érintkezve a talajvízzel | 27 |
-
-| szigeteletlen, betonozott medence érintkezésben a talajvízzel | 28 |
-
-| szigeteletlen, betonozott medence nem érintkezve a talajvízzel | 29 |
-
-| megfelelő műszaki védelem | szigetelt medence vízzáró betonból | 30 |
-
-| betonmedence vízzáró réteggel (egy vagy több réteg) | 31 |
-
-| vasbeton medence, vízzáró, saválló, korrózió-ellenálló | 32 |
-
-| korróziónak ellenálló betonmedence (szulfát-álló) | 33 |
-
-| vízzáró műanyag tartály | 34 |
-
-| rozsdaálló acéltartály | 35 |
-
-| földmedence megfelelő vastagságú (pl. 2–2,5 mm-t elérő) és szilárdságú, műszaki szakember által igazolt fólia, illetve lemez (pl. HDPE, gumi) béléssel | 36 |
-
-| Istállótrágya tárolás |
-
-| műszaki védelem megfelelősége | trágyatároló típusa | kód |
-
-| nincs műszaki védelem | trágyaszarvas a telepen érintkezésben a talajvízzel | 10 |
-
-| trágyaszarvas a telepen nem érintkezik a talajvízzel | 11 |
-
-| trágyaszarvas a mezőgazdasági tábla szélén érintkezésben a talajvízzel | 12 |
-
-| trágyaszarvas a mezőgazdasági tábla szélén nem érintkezik a talajvízzel | 13 |
-
-| trágyaszarvas alatt szalmaborítás érintkezésben a talajvízzel | 14 |
-
-| trágyaszarvas alatt szalmaborítás nem érintkezik a talajvízzel | 15 |
-
-| trágyalé, csurgalékvíz elvezetése nem megoldott, érintkezésben a talajvízzel | 16 |
-
-| trágyalé, csurgalékvíz elvezetése nem megoldott, nem érintkezik a talajvízzel | 17 |
-
-| trágyalé, csurgalékvíz elvezetése árokban, érintkezésben a talajvízzel | 18 |
-
-| trágyalé, csurgalékvíz elvezetése árokban, nem érintkezik a talajvízzel | 19 |
-
-| nem megfelelő műszaki védelem | trágya tárolása döngölt alapon, érintkezésben a talajvízzel | 20 |
-
-| trágya tárolása döngölt alapon, nem érintkezik a talajvízzel | 21 |
-
-| trágya tárolása döngölt agyagon, érintkezésben a talajvízzel | 22 |
-
-| trágya tárolása döngölt agyagon, nem érintkezik a talajvízzel | 23 |
-
-| trágya tárolása egyéb fóliával fedett vagy bélelt alapon, érintkezésben a talajvízzel | 24 |
-
-| trágya tárolása egyéb fóliával fedett vagy bélelt alapon, nem érintkezik a talajvízzel | 25 |
-
-| szilárd, betonozott, de szigeteletlen alapon, érintkezésben a talajvízzel | 26 |
-
-| szilárd, betonozott, de szigeteletlen alapon, nem érintkezik a talajvízzel | 27 |
-
-| trágyalé, csurgalékvíz gyűjtése szigeteletlen beton aknában, érintkezésben a talajvízzel | 28 |
-
-| trágyalé, csurgalékvíz gyűjtése szigeteletlen beton aknában, nem érintkezik a talajvízzel | 29 |
-
-| megfelelő műszaki védelem | trágya tárolása vízzáró, szigetelt betonon | 30 |
-
-| trágyalé, csurgalékvíz gyűjtése vízzáró, szigetelt betonaknában, elvezetése szivárgásmentesen | 31 |
-
-| trágya tárolása megfelelő vastagságú (pl. 2–2,5 mm-t elérő) és szilárdságú fóliával, illetve lemezzel (pl. HDPE, gumi) műszaki szakember által igazolt kivitelezéssel, fedett vagy bélelt alapon a talajvízzel nem érintkezve | 32 |
-
-Ha ugyanazt a fajta trágyát többféle módon tárolják, akkor a kapacitást és a tárolt mennyiséget is külön-külön sorban kell megadni.
-
-3.1. Legeltetéssel hasznosított terület
-
-3.1. Legeltetéssel hasznosított terület
-
-........ oldal
-
-|  | Település | Helyrajzi szám | MePAR blokk- azonosító | Legeltetett terület (ha) | Állatfaj kódja | Legeltetett állatok száma | Legelőn töltött napok száma |
-
-| 1. |  |  | _ _ _ _ _-_ - _ _ |  | _ _ |  |  |
-
-| 2. |  |  | _ _ _ _ _-_ - _ _ |  | _ _ |  |  |
-
-| 3. |  |  | _ _ _ _ _-_ - _ _ |  | _ _ |  |  |
-
-| 4. |  |  | _ _ _ _ _-_ - _ _ |  | _ _ |  |  |
-
-| 5. |  |  | _ _ _ _ _-_ - _ _ |  | _ _ |  |  |
-
-| 6. |  |  | _ _ _ _ _-_ - _ _ |  | _ _ |  |  |
-
-3.2. A trágyakijuttatás adatai a gazdálkodási évben
-
-|  | Település | Helyrajzi szám | MePAR blokk- azonosító | MŰV ág | Trágyázott terület (ha) | Szerves trágya típusa (kód) | Kijuttatott szervestrágya | Szerves- trágyával kijuttatott N ható- anyag kg/ha | N műtrágya hatóanyag (kg/ha) |
+|  | Település | Helyrajzi szám | MePAR blokk-azonosító | Termesztett növény | Termés t/ha | Trágyázott terület (ha) | Szerves trágya típusa (kód) | Kijuttatott szervestrágya | Szerves- trágyával kijuttatott N hatóanyag kg/ha | N műtrágya hatóanyag (kg/ha) |
 
 | Hígtrágya (m3/ha) | Istállótrágya (t/ha) |
 
-| 1. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 1. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 2. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 2. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 3. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 3. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 4. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 4. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 5. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 5. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 6. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 6. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 7. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 7. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 8. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 8. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 9. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 9. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 10. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 10. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-| 11. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  | _ _ |  |  |  |  |
+| 11. |  |  | _ _ _ _ _-_ - _ _ | _ _ |  |  | _ _ |  |  |  |  |
 
-3.3. Nyilatkozat a más gazdálkodónak átadott vagy más gazdálkodótól átvett trágyáról
+3.3. Nyilatkozat a más gazdálkodónak átadott vagy más gazdálkodótól átvett trágyáról
 
-........ oldal
+| Átadott | Átvett | Szervestrágya mennyisége | Átadó/átvevő adatai |
 
-| Átadott | Átvett | Szervestrágya mennyisége | Felhasználás helye | Átadó/átvevő adatai |
+| Híg- trágya (m3) | Istálló- trágya (t) | Szerves- trágya típusa (kód) | Címe | Regisztrációs szám |
 
-| Híg- trágya (m3) | Istálló- trágya (t) | Szerves- trágya típusa (kód) | MePAR blokkazonosító | Címe | Regisztrációs szám |
+| Neve | Irányítószám | Település | Közterület neve, jellege | Házsz. |
 
-| Neve | Irányító- szám | Tele- pülés | Közterü- let neve, jellege | Házsz. |
+| __ | __ |  |  | __ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
 
-| __ | __ |  |  | __ | _ _ _ _ _-_ - _ _ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
+| __ | __ |  |  | __ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
 
-| __ | __ |  |  | __ | _ _ _ _ _-_ - _ _ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
+| __ | __ |  |  | __ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
 
-| __ | __ |  |  | __ | _ _ _ _ _-_ - _ _ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
+| __ | __ |  |  | __ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
 
-| __ | __ |  |  | __ | _ _ _ _ _-_ - _ _ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
+| __ | __ |  |  | __ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
 
-| __ | __ |  |  | __ | _ _ _ _ _-_ - _ _ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
-
-| __ | __ |  |  | __ | _ _ _ _ _-_ - _ _ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
+| __ | __ |  |  | __ |  | _ _ _ _ |  |  |  | _ _ _ _ _ _ _ _ _ _ |
 
 Nyilatkozat: Büntetőjogi felelősségem tudatában kijelentem, hogy az Adatlapban közölt adatok a valóságnak megfelelnek. Hozzájárulok, hogy a talajvédelmi hatóság az adatlapon feltüntetett személyes adataimat kezelje.
 
-Állatfajonként külön sort kell kitölteni.
-
-A település, a helyrajzi szám, a MePAR blokkazonosító rovatokat a legelőterületre vonatkozóan kell kitölteni. A legeltetett területet hektárban, egy tizedes pontossággal kérjük megadni. Az állatfaj kódját a 2.2. pontban közölt táblázat szerint kell megadni. A legeltetett állatok létszámát és a legelőn töltött napok számát állatfajonként kérjük megadni (darabszámmal).
-
-3.2. A trágyakijuttatás adatai az adatszolgáltatás évében
-
-A trágya kijuttatását végzőnek kell részletesen kitölteni.
-
-A település, a helyrajzi szám, a MePAR blokkazonosító rovatokat a trágyázott területre vonatkozóan kell kitölteni. A trágyázott területet hektárban, egy tizedes pontossággal kérjük megadni. A művelési ág kódját az alábbi táblázat alapján kérjük megadni:
-
-| Művelési ág | Kód |
-
-| szántó | 1 |
-
-| gyep, legelő, rét | 2 |
-
-| szőlő | 3 |
-
-| gyümölcsös, kert | 4 |
-
-| halastó | 6 |
-
-| erdő | 8 |
-
-| pihentetett terület | 9 |
-
-| egyéb | 10 |
-
-| fásított terület | 11 |
-
-A kijuttatott hígtrágya mennyiségét m3/ha-ban és/vagy a kijuttatott istállótrágya mennyiségét t/ha-ban kérjük megadni. Ha adott trágyatípusból kijuttatás nem történt, a rovatba 0-t kell beírni. A szervestrágyával kijuttatott N hatóanyag mennyiségét hígtrágya esetén a laboratóriumi vizsgálati eredménylap nitrogén adatából kell kiszámolni. Az istállótrágyával kijuttatott nitrogén hatóanyag mennyiségét az 1. számú mellékletben megadott irányszámokból kell kiszámolni. Nitrogén műtrágya felhasználása esetén a kijuttatott dózist kérjük megadni N hatóanyag kg/ha-ban.
-
-A szervestrágya típusát az alábbi táblázat szerint kérjük megadni:
-
-| Állatfaj | Vonatkozó állatfaj kódok | Szervestrágya típus kódja |
-
-| vegyes | 16 | 01 |
-
-| szarvasmarha | 02, 03, 04, 05 | 02 |
-
-| sertés | 06, 07, 08 | 03 |
-
-| baromfi | 09, 10, 11, 12, 13 | 04 |
-
-| juh, kecske | 14, 15 | 05 |
-
-| ló | 01 | 06 |
-
-Amennyiben egy adott területegységen adott évben egy mezőgazdasági tevékenységet folytató egyetlen növényfajt (vagy növényfajtát) termeszt és a területen egységes tápanyag-gazdálkodást folytat, úgy a tábla azonosítására alkalmas szám feltüntetésével, külön lapon az érintett hrsz.-ok felsorolásával, a területre kijuttatott trágya átlagértékeit tüntesse fel.
-
-3.3. Nyilatkozat a más gazdálkodónak átadott vagy más gazdálkodótól átvett trágyáról
-
-Amennyiben egy állattartó telepen keletkezett trágya nem abban a gazdaságban kerül felhasználásra ahol keletkezett, hanem tápanyag-utánpótlásra vagy egyéb felhasználásra (komposztálás, biogáz-előállítás stb.) átadásra kerül más gazdálkodó részére, fel kell tüntetni az átvevő adatait (név, cím, regisztrációs szám). Amennyiben más gazdálkodótól átvett trágya kerül felhasználásra, a trágyát átadó gazdálkodó adatait kell megadni.
-
-A táblázat első két oszlopában kérjük jelezni, hogy trágyaátadásról vagy más gazdálkodótól történő trágyaátvételről van szó. Meg kell adni továbbá az átadott/átvett szervestrágya mennyiségét hígtrágya esetén m3-ben, istállótrágya esetén tonnában. A szervestrágya típusa rovatban a 3.2. pontban megadott táblázat kódjait kérjük, használják.
-
-[^24]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^25]: A 6. számú melléklet függeléke a 70/2013. (VII. 31.) VM rendelet 93. § b)–e) pontja, a 132/2013. (XII. 23.) VM rendelet 29. § (2) bekezdés a)–b) pontja, a 28/2014. (XI. 25.) FM rendelet 2. § (2) és (3) bekezdése szerint módosított szöveg.
+[^28]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított, a 93/2015. (XII. 23.) FM rendelet 3. §-a és 6. §-a szerint módosított szöveg.
