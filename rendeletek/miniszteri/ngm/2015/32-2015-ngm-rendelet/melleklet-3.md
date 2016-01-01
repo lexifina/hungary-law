@@ -1,3 +1,7 @@
-3. melléklet a 32/2015. (XII. 4.) NGM rendelethez[^8]
+3. melléklet a 32/2015. (XII. 4.) NGM rendelethez
 
-[^8]: A 3. melléklet a 11. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+Az R. 2. melléklet 9. pont a) alpont ac) pontja helyébe a következő rendelkezés lép:
+
+[A képzés jellege* az Fktv. 1. § (2) bekezdése alapján]
+
+„ac) támogatott általános nyelvi képzés (TÁNY), támogatott egyéb nyelvi képzés (TENY) és támogatott kombinált nyelvi képzés (TKNY),”

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-32-20-2
 | --- | --- | --- |
 | 2015-12-09 | 2015-32-20-2X.1 | 32/2015. (XII. 4.) NGM rendelet |
 | 2015-12-10 | 2015-32-20-2X.2 | 2010: CXXX. törvény |
+| 2016-01-01 | 2015-32-20-2X.3 | 2010: CXXX. törvény |
