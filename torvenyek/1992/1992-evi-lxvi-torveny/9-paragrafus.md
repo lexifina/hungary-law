@@ -18,7 +18,7 @@ g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján t
 
 ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizetbe vagy előzetes letartóztatásba vételt,
 
-gb) Magyarország területének külföldi letelepedés szándékával történő elhagyását,
+gb)
 
 gc) a bevándorlási engedély, letelepedési engedély, nemzeti letelepedési engedély EK letelepedési engedély, vagy az ideiglenes letelepedési engedély visszavonását, valamint a menekült vagy oltalmazott jogállás megszűnését,
 
@@ -44,7 +44,7 @@ s) ellátja a Magyarország területén élő, a 4. § (2d) bekezdése szerinti 
 
 (3) A központi szerv Központi Okmánytárában – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 
-a) a személyazonosító igazolvány adatlapokat és fényképeket, a lakcímbejelentő lapokat, valamint az ezen iratokban szereplő adatok változását igazoló okmányokat, valamint az értesítésicím-bejelentőlapot;
+a) az állandó személyazonosító igazolvány adatlapokat és fényképeket, a lakcímbejelentő lapokat, valamint az ezen iratokban szereplő adatok változását igazoló okmányokat, valamint az értesítésicím-bejelentőlapot;
 
 b) a külföldi letelepedésre vonatkozó nyilatkozatot, valamint a külföldön élő magyar állampolgároknak a nyilvántartással kapcsolatos bejelentéseit, illetőleg nyilatkozatait tartalmazó iratokat;
 

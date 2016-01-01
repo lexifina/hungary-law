@@ -28,7 +28,7 @@ f) a Magyarország területén kívül élő magyar állampolgár külföldön t
 
 g) a Magyarország területén kívül élő magyar állampolgár Magyarországon történt születését az anyakönyvvezető anyakönyvezi.
 
-(2b)
+(2b) A 29/I. § hatálya kiterjed arra a külföldön élő magyar állampolgárra, aki nem szerepel a nyilvántartásban és érvényes magyar útlevéllel rendelkezik.
 
 (2c) Az állampolgársági ügyekben eljáró szerv értesítése alapján – ha a nyilvántartásban nem szerepelnek – hivatalból kerülnek a nyilvántartásba
 
@@ -42,7 +42,7 @@ b) azon magyar állampolgár adatai, akinek a kérelmére az állampolgársági 
 
 a) a személyiadat- és lakcímnyilvántartási, az adatkezelési és a lakcímbejelentési eljárásra,
 
-b) a külföldön élő magyar állampolgárok, valamint a szabad mozgás és tartózkodás jogával rendelkező személy kivételével a személyazonosító igazolvánnyal kapcsolatos eljárásra,
+b) az (1) bekezdés c) pontja szerinti külföldön élő polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy kivételével a személyazonosító igazolvánnyal kapcsolatos eljárásra,
 
 c) a személyazonosítás célját szolgáló és jogosultságot igazoló egyéb okmányok kiadásával összefüggő eljárásra,
 

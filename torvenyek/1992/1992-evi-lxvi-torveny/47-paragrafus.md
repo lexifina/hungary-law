@@ -1,12 +1,20 @@
 47. § (1) A Kormány felhatalmazást kap arra, hogy rendeletben állapítsa meg
 
-a) a személyiadat- és lakcímnyilvántartási, lakcím-megállapítási és lakcímbejelentési eljárásnak, az értesítési cím bejelentési eljárásnak, a nyilvántartás vezetésének és az adatszolgáltatásnak részletes szabályait, a személyazonosító igazolvány, és a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásának és nyilvántartásának szabályait, továbbá az egységes arcképmás- és aláírás-felvételezés szabályait;
+a) a személyiadat- és lakcímnyilvántartási, lakcím-megállapítási és lakcímbejelentési eljárásnak, az értesítési cím bejelentési eljárásnak, a nyilvántartás vezetésének és az adatszolgáltatásnak részletes szabályait, a személyazonosító igazolvány adattartalma megjelenítésének, kiadásának, bevonásának, elvételének, birtokban tartásának, nyilvántartásának és a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásának és nyilvántartásának szabályait, továbbá az egységes arcképmás- és aláírás-felvételezés szabályait;
 
 b)
 
 c) a nyilvántartásból kiadott okiratok, valamint a nyilvántartás adatforrásául szolgáló alapiratok kezelésének szabályait;
 
-d) a központi szerv kijelölését.
+d) a központi szerv kijelölését;
+
+e) a 29/B. § (4) bekezdése szerinti hatóságot,
+
+f) a 29/D. § alapján az állandó személyazonosító igazolványhoz rendelhető másodlagos kártyák körét,
+
+g) a 29/C. § (2) bekezdés a) pontja szerinti szervet, a 29/C. § (2) bekezdés b) pontja szerinti szolgáltatót, valamint az e-aláírási funkcióra vonatkozó részletes szabályokat,
+
+h) a 29/J. § (1) bekezdése szerinti, a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartását vezető szervet.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben a nyilvántartás vezetésével összefüggésben feladat- és hatáskört telepítsen a települési önkormányzat jegyzőjére, valamint meghatározza a feladat- és hatáskör ellátásához szükséges, azzal összefüggő szabályokat.
 

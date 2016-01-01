@@ -12,7 +12,7 @@ d) az idegenrendészeti hatóság és a menekültügyi hatóság által tovább�
 
 e) a konzuli szolgálat konzuli tisztviselőjének az értesítése;
 
-f)
+f) a bv. szerv által továbbított, a nyilvántartásba vételhez, valamint a személyazonosító igazolvány kiállításához szükséges adatok;
 
 g) a címek tekintetében a központi címregiszterből automatikus adatátvétel;
 
@@ -45,6 +45,8 @@ mg) – a Magyarország területén élő, a 4. § (2c) bekezdés b) pontja szer
 mh) az állampolgársági eljárásban engedélyezett névmódosításról,
 
 mi) a magyar állampolgárság megszűnéséről és annak időpontjáról;
+
+mj) a magyarországi lakóhellyel rendelkező honosított ujjnyomatáról;
 
 n) az anyakönyvvezető értesítése
 

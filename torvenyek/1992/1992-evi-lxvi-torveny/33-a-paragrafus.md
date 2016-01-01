@@ -1,0 +1,1 @@
+33/A. § A személyes adatoknak a tároló elemben történő tárolását olyan technikai módszer alkalmazásával kell megvalósítani, amely az elérhető legmagasabb szinten biztosítja azt, hogy a tároló elem tartalmához illetéktelen személy ne férhessen hozzá.

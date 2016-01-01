@@ -31,3 +31,5 @@ kell bejelentenie (a továbbiakban: külföldi letelepedési nyilatkozat).
 (7)
 
 (8) A külföldön élő magyar állampolgár magyarországi tartózkodási helyét az illetékes járási hivatalnál jelenti be.
+
+(9) A külföldön élő magyar állampolgár nyilvántartási ügyében az ügyintézési határidő 30 nap.

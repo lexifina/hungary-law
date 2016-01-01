@@ -22,7 +22,7 @@ a) egyedi adatszolgáltatás: egy polgár adatainak közlése;
 
 b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meghatározott szempontok szerint képzett csoportba tartozó polgárok adatainak rendszeres vagy eseti közlése.
 
-(8) A személyazonosító igazolvány: olyan hatósági igazolvány, amely a polgár személyazonosságát és az e törvényben meghatározott adatait közhitelűen igazolja.
+(8)
 
 (9) A nyilvántartás alapiratai: azok az iratok, amelyek alapján a polgár személyi, lakcím és értesítési cím adatait és azokban bekövetkezett változásokat a nyilvántartásba felvették.
 
@@ -30,7 +30,7 @@ b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meg
 
 (11) Személyi azonosító: a nyilvántartás hatálya alá tartozó polgárt törvényben meghatározott adatkezelés során egyértelműen azonosító, különleges adatra nem utaló – külön törvényben meghatározott módon képzett – számjegysor.
 
-(12) Okmányazonosító: a személyi azonosítót és lakcímet igazoló hatósági igazolvány nyomtatványának, illetőleg a személyazonosító igazolvány nyomtatványának azonosítására alkalmazott jel.
+(12) Okmányazonosító: a személyi azonosítót és lakcímet igazoló hatósági igazolvány, illetőleg a személyazonosító igazolvány azonosítására alkalmazott jel.
 
 (13) A polgár aláírása: születési vagy házassági családi és utónevének az általa használt és elismert írásképe.
 
@@ -41,3 +41,13 @@ b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meg
 (16) Értesítési cím bejelentése: az értesítési cím nyilvántartásba vételének első alkalommal történő igénylése, a bejelentett értesítési cím megújítása, megváltoztatásának vagy törlésének kérése.
 
 (17) Központi címregiszter: az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben meghatározott nyilvántartás.
+
+(18) Elektronikus egyedi azonosító: az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvényben meghatározott, az elsődleges kártya funkcióhoz szükséges elektronikus egyedi azonosító.
+
+(19) Tároló elem: elektronikus adathordozó egység.
+
+(20) Ujjnyomat: a kézfej két ujjának sík felületre helyezésekor előállt állapot elektronikus formátumban tárolt képe és annak további leíró adatai.
+
+(21) Állandó személyazonosító igazolvány: a törvényben meghatározott érvényességi idővel és – a 29/E. § (2) bekezdésében meghatározott kivétellel – tároló elemmel rendelkező személyazonosító igazolvány.
+
+(22) Ideiglenes személyazonosító igazolvány: a törvényben meghatározott érvényességi idővel rendelkező, az állandó személyazonosító igazolvány kiadásáig a Kormány rendeletében meghatározott feltételek esetén kiállított személyazonosító igazolvány.

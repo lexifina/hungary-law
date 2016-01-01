@@ -14,6 +14,8 @@ e) a szolgáltatott adatok körének megnevezését.
 
 (3) A polgár az adatszolgáltatási nyilvántartásból jogosult megismerni, hogy mely adatszolgáltatások alanya volt. Ezt a jogosultságot a 24. §-ban felsorolt szervek részére teljesített adatszolgáltatás tekintetében külön törvény korlátozhatja vagy kizárhatja.
 
+(3a) A központi szerv a polgárt az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti megillető tájékoztatás esetén, ha az a 24/F. § (2) bekezdés alapján történő adattovábbításra vonatkozik, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvénynek a polgár tájékoztatására vonatkozó szabályai szerint jár el azzal, hogy a központi szerv fogalma alatt e törvény szerinti központi szervet kell érteni.
+
 (4) Az adatszolgáltatási nyilvántartást öt évig meg kell őrizni.
 
 (5) A járási hivatal nyilvántartást vezet azokról a köztisztviselőkről, akik az eljárás során jogosultak az egyes okmány-nyilvántartások adataihoz hozzáférni.

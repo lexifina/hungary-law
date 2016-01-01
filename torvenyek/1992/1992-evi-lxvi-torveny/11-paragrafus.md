@@ -26,15 +26,17 @@ j) adataiból történő rendszeres adatszolgáltatásra vonatkozó jelzést;
 
 k) családi állapotát, házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyét;
 
-l) arcképmását és – ha a 14. életévét betöltötte – aláírását, ha a 29. § (3) bekezdésében meghatározott személyazonosításra alkalmas hatósági igazolványt igényelt, vagy az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyafelhasználói regisztrációt kezdeményezett;
+l) arcképmását és – ha a 12. életévét betöltötte – aláírását, ha a 29. § (12) bekezdésében meghatározott személyazonosításra alkalmas hatósági igazolványt igényelt, vagy az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyafelhasználói regisztrációt kezdeményezett;
 
-m) személyazonosító igazolványának, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját;
+m) személyazonosító igazolványának okmányazonosítóját, állandó személyazonosító igazolványa elektronikus egyedi azonosítóját, azt a tényt, hogy az állandó személyazonosító igazolvány tároló elemén érvényes aláíró tanúsítvány van elhelyezve, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját;
 
 n) személyazonosító igazolványa kiadásának, érvényességének, cseréjének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, visszaadásának, leadásának, elvételének adatait;
 
 o) személyazonosító igazolványa tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat;
 
-p) értesítési címét, ha azt a polgár bejelentette a nyilvántartás helyi vagy központi szervének.
+p) értesítési címét, ha azt a polgár bejelentette a nyilvántartás helyi vagy központi szervének;
+
+q) arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–j) és l) pontja szerinti adatait, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
 

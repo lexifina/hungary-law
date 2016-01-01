@@ -20,4 +20,4 @@ i) végzi a személyi azonosítóról és a lakcímről szóló hatósági igazo
 
 j) ellátja a személyazonosítás céljára szolgáló, illetőleg jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
 
-(2) A települési önkormányzat jegyzője a 14 éven aluli érintett és az egészségügyi okból történő akadályoztatása esetén átveszi a polgár személyazonosító igazolvány iránti kérelmét, ellenőrzi a kérelmező jogosultságát és személyazonosságát, ellátja a kérelem továbbításával kapcsolatban hatáskörébe utalt hatósági feladatokat.
+(2) A települési önkormányzat jegyzője a polgár egészségügyi okból történő akadályoztatása esetén átveszi a polgár személyazonosító igazolvány iránti kérelmét, ellenőrzi a kérelmező jogosultságát és személyazonosságát, ellátja a kérelem továbbításával kapcsolatban hatáskörébe utalt hatósági feladatokat.

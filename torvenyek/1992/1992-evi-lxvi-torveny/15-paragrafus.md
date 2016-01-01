@@ -22,7 +22,7 @@ b) új lakcímét,
 
 c) jogszabályban meghatározott kivétellel a szállásadó nevét, szállásadói minőségét, lakcímét vagy székhelyét és hozzájárulását.
 
-(2) A polgár a személyazonosító igazolvány, valamint az egységes arcképmás- és aláírás-felvételezés iránti kérelem előterjesztésekor rendelkezésre bocsátja – és a jogszabályban foglaltak szerint igazolja – a 29. § (2) bekezdésében megjelölt személyi adatait, arcképmását, és a kérelmet – ha a 14. életévét betöltötte – saját kezűleg aláírja. Ha a polgár írásképtelen vagy írástudatlan, a kérelem aláírás rovatában a kiállító hatóság az „írásképtelen” megjelölést tünteti fel.
+(2) A polgár a személyazonosító igazolvány, valamint az egységes arcképmás- és aláírás-felvételezés iránti kérelem előterjesztésekor rendelkezésre bocsátja – és a jogszabályban foglaltak szerint igazolja – a 29. § (2) bekezdés a)–g) pontjában megjelölt adatait, és – ha a 12. életévét betöltötte – saját kezű aláírását. Ha a polgár írásképtelen vagy írástudatlan, a kérelem aláírás rovatában a kiállító hatóság az „írásképtelen” megjelölést tünteti fel. A polgár a személyazonosító igazolvány iránti kérelem előterjesztésekor – a 29. § (9) bekezdésében foglaltak kivételével –rendelkezésre bocsátja az ujjnyomatát is.
 
 (3) A polgár az értesítési cím bejelentése során a következő adatokat közli a helyi vagy a központi nyilvántartó szervvel:
 
