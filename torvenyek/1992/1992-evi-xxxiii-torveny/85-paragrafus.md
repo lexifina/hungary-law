@@ -96,7 +96,7 @@ da) a magyar állampolgárság feltételét a közalkalmazotti jogviszony létes
 
 db) a gyakornoki idő kikötése alól mentes munkaköröket,
 
-dc)
+dc) az illetménytöbblet mértékét és juttatásának szabályait,
 
 dd) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
 
@@ -119,6 +119,8 @@ ed) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazat
 ee) a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
 
 ef) a tudományos kutatói közalkalmazotti jogviszony létesítésénél a magyar állampolgársággal rendelkezés alóli felmentésnek, a szabad mozgás és tartózkodás jogával rendelkezés alóli felmentésnek a feltételeit, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítésnek a feltételét;
+
+eg) az illetménytöbblet mértékét és juttatásának szabályait;
 
 f) a művészeti, a közművelődési és a közgyűjteményi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
 

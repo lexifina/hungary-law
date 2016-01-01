@@ -1,1 +1,1 @@
-62. § A fizetési osztályok fizetési fokozatokra tagozódnak. Az egyes fizetési osztályok tizennégy fizetési fokozatot tartalmaznak.
+62. § A fizetési osztályok fizetési fokozatokra tagozódnak. Az egyes fizetési osztályok tizenhét fizetési fokozatot tartalmaznak.

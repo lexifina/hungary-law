@@ -1,6 +1,6 @@
 2. számú melléklet a 1992. évi XXXIII. törvényhez
 
-A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét meghatározó, az egyetemi tanári munkakör 1. fizetési fokozatának a költségvetési törvényben megállapított garantált illetményére vetülő arányszámok
+A felsőoktatási intézményben oktatói, tanári munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét meghatározó, az egyetemi tanári munkakör 1. fizetési fokozatának a költségvetési törvényben megállapított garantált illetményére vetülő arányszámok
 
 |
 
@@ -38,6 +38,14 @@ Arányszám (%)
 
 |
 
+Oktatói munkakörök
+
+|
+
+3.
+
+|
+
 Egyetemi tanár
 
 |
@@ -50,7 +58,7 @@ Egyetemi tanár
 
 |
 
-3.
+4.
 
 |
 
@@ -66,7 +74,7 @@ Egyetemi tanár
 
 |
 
-4.
+5.
 
 |
 
@@ -82,15 +90,15 @@ Egyetemi tanár
 
 |
 
-5.
+6.
 
 |
 
-Egyetemi docens (amennyiben habilitációval rendelkezik)
+Egyetemi docens (ha rendelkezik habilitációval)
 
 |
 
-4
+4.
 
 |
 
@@ -98,7 +106,7 @@ Egyetemi docens (amennyiben habilitációval rendelkezik)
 
 |
 
-6.
+7.
 
 |
 
@@ -114,7 +122,7 @@ Egyetemi docens
 
 |
 
-7.
+8.
 
 |
 
@@ -130,7 +138,7 @@ Egyetemi docens
 
 |
 
-8.
+9.
 
 |
 
@@ -146,7 +154,7 @@ Egyetemi docens
 
 |
 
-9.
+10.
 
 |
 
@@ -158,11 +166,11 @@ Egyetemi adjunktus
 
 |
 
-53
+54
 
 |
 
-10.
+11.
 
 |
 
@@ -174,11 +182,11 @@ Egyetemi adjunktus
 
 |
 
-50
+52
 
 |
 
-11.
+12.
 
 |
 
@@ -194,7 +202,7 @@ Egyetemi adjunktus
 
 |
 
-12.
+13.
 
 |
 
@@ -210,7 +218,7 @@ Egyetemi tanársegéd
 
 |
 
-13.
+14.
 
 |
 
@@ -226,11 +234,11 @@ Egyetemi tanársegéd (gyakornok)
 
 |
 
-14.
+15.
 
 |
 
-Főiskolai tanár (amennyiben habilitációval rendelkezik)
+Főiskolai tanár (ha rendelkezik habilitációval )
 
 |
 
@@ -242,7 +250,7 @@ Főiskolai tanár (amennyiben habilitációval rendelkezik)
 
 |
 
-15.
+16.
 
 |
 
@@ -258,7 +266,7 @@ Főiskolai tanár
 
 |
 
-16.
+17.
 
 |
 
@@ -274,7 +282,7 @@ Főiskolai tanár
 
 |
 
-17.
+18.
 
 |
 
@@ -290,7 +298,7 @@ Főiskolai tanár
 
 |
 
-18.
+19.
 
 |
 
@@ -306,7 +314,7 @@ Főiskolai docens
 
 |
 
-19.
+20.
 
 |
 
@@ -322,7 +330,7 @@ Főiskolai docens
 
 |
 
-20.
+21.
 
 |
 
@@ -338,22 +346,6 @@ Főiskolai docens
 
 |
 
-21.
-
-|
-
-Főiskolai adjunktus
-
-|
-
-2.
-
-|
-
-48
-
-|
-
 22.
 
 |
@@ -362,11 +354,11 @@ Főiskolai adjunktus
 
 |
 
-1.
+3.
 
 |
 
-45
+49
 
 |
 
@@ -378,11 +370,11 @@ Főiskolai adjunktus
 
 |
 
-–
+2.
 
 |
 
-45
+47
 
 |
 
@@ -390,15 +382,15 @@ Főiskolai adjunktus
 
 |
 
-Főiskolai tanársegéd
+Főiskolai adjunktus
 
 |
 
-–
+1.
 
 |
 
-40
+45
 
 |
 
@@ -406,123 +398,11 @@ Főiskolai tanársegéd
 
 |
 
-Kutatóprofesszor, tudományos tanácsadó
+Főiskolai tanársegéd
 
 |
 
-3.
-
-|
-
-106
-
-|
-
-26.
-
-|
-
-Kutatóprofesszor, tudományos tanácsadó
-
-|
-
-2.
-
-|
-
-103
-
-|
-
-27.
-
-|
-
-Kutatóprofesszor, tudományos tanácsadó
-
-|
-
-1.
-
-|
-
-100
-
-|
-
-28.
-
-|
-
-Tudományos főmunkatárs
-
-|
-
-3.
-
-|
-
-76
-
-|
-
-29.
-
-|
-
-Tudományos főmunkatárs
-
-|
-
-2.
-
-|
-
-73
-
-|
-
-30.
-
-|
-
-Tudományos főmunkatárs
-
-|
-
-1.
-
-|
-
-70
-
-|
-
-31.
-
-|
-
-Tudományos munkatárs
-
-|
-
-–
-
-|
-
-50
-
-|
-
-32.
-
-|
-
-Tudományos segédmunkatárs
-
-|
-
-–
+-
 
 |
 
@@ -530,7 +410,7 @@ Tudományos segédmunkatárs
 
 |
 
-33.
+26.
 
 |
 
@@ -546,7 +426,7 @@ Mesteroktató
 
 |
 
-34.
+27.
 
 |
 
@@ -559,3 +439,435 @@ Mesteroktató
 |
 
 51
+
+|
+
+28.
+
+|
+
+Kutatói munkakörök
+
+|
+
+29.
+
+|
+
+Kutatóprofesszor, tudományos tanácsadó
+
+|
+
+3.
+
+|
+
+106
+
+|
+
+30.
+
+|
+
+Kutatóprofesszor, tudományos tanácsadó
+
+|
+
+2.
+
+|
+
+103
+
+|
+
+31.
+
+|
+
+Kutatóprofesszor, tudományos tanácsadó
+
+|
+
+1.
+
+|
+
+100
+
+|
+
+32.
+
+|
+
+Tudományos főmunkatárs
+
+|
+
+3.
+
+|
+
+76
+
+|
+
+33.
+
+|
+
+Tudományos főmunkatárs
+
+|
+
+2.
+
+|
+
+73
+
+|
+
+34.
+
+|
+
+Tudományos főmunkatárs
+
+|
+
+1.
+
+|
+
+70
+
+|
+
+35.
+
+|
+
+Tudományos munkatárs
+
+|
+
+-
+
+|
+
+50
+
+|
+
+36.
+
+|
+
+Tudományos segédmunkatárs
+
+|
+
+-
+
+|
+
+40
+
+|
+
+37.
+
+|
+
+Tanári munkakörök
+
+|
+
+38.
+
+|
+
+Mérnöktanár
+
+|
+
+3.
+
+|
+
+47
+
+|
+
+39.
+
+|
+
+Mérnöktanár
+
+|
+
+2.
+
+|
+
+42
+
+|
+
+40.
+
+|
+
+Mérnöktanár
+
+|
+
+1.
+
+|
+
+37
+
+|
+
+41.
+
+|
+
+Nyelvtanár
+
+|
+
+3.
+
+|
+
+47
+
+|
+
+42.
+
+|
+
+Nyelvtanár
+
+|
+
+2.
+
+|
+
+42
+
+|
+
+43.
+
+|
+
+Nyelvtanár
+
+|
+
+1.
+
+|
+
+37
+
+|
+
+44.
+
+|
+
+Testnevelő tanár
+
+|
+
+3.
+
+|
+
+47
+
+|
+
+45.
+
+|
+
+Testnevelő tanár
+
+|
+
+2.
+
+|
+
+42
+
+|
+
+46.
+
+|
+
+Testnevelő tanár
+
+|
+
+1.
+
+|
+
+37
+
+|
+
+47.
+
+|
+
+Művésztanár
+
+|
+
+3.
+
+|
+
+47
+
+|
+
+48.
+
+|
+
+Művésztanár
+
+|
+
+2.
+
+|
+
+42
+
+|
+
+49.
+
+|
+
+Művésztanár
+
+|
+
+1.
+
+|
+
+37
+
+|
+
+50.
+
+|
+
+Mestertanár
+
+|
+
+3.
+
+|
+
+47
+
+|
+
+51.
+
+|
+
+Mestertanár
+
+|
+
+2.
+
+|
+
+42
+
+|
+
+52.
+
+|
+
+Mestertanár
+
+|
+
+1.
+
+|
+
+37
+
+|
+
+53.
+
+|
+
+Kollégiumi nevelőtanár
+
+|
+
+3.
+
+|
+
+47
+
+|
+
+54.
+
+|
+
+Kollégiumi nevelőtanár
+
+|
+
+2.
+
+|
+
+42
+
+|
+
+55.
+
+|
+
+Kollégiumi nevelőtanár
+
+|
+
+1.
+
+|
+
+37
