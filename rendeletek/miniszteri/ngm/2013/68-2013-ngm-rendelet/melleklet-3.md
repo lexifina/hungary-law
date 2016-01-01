@@ -26,11 +26,11 @@
 
 | 11 |  | 011210 | Az államháztartás igazgatása, ellenőrzése |
 
-| 12 |  |  | Ide tartozik: - az államháztartás kiadási és bevételi oldalának igazgatásával, számvevőszéki, kormányzati és önkormányzati ellenőrzésével összefüggő, valamint a kincstári feladatok ellátása. Nem ebbe a funkcióba tartozik: - az államháztartás kiadási és bevételi oldalának szabályozásával kapcsolatos (minisztérium) feladatok, valamint az adó-, vám- és jövedéki igazgatás feladatainak ellátása. |
+| 12 |  |  | Ide tartozik: - az államháztartás kiadási és bevételi oldalának igazgatásával, számvevőszéki, kormányzati és önkormányzati ellenőrzésével összefüggő, valamint a kincstári feladatok ellátása. Nem ebbe a funkcióba tartozik: - az államháztartás kiadási és bevételi oldalának szabályozásával kapcsolatos (minisztérium: 011120) feladatok, valamint az adó-, vám- és jövedéki igazgatás feladatainak ellátása. |
 
 | 13 |  | 011220 | Adó-, vám- és jövedéki igazgatás |
 
-| 14 |  |  | Ide tartozik: - az adók, vámok, jövedéki adók kiszabásával, ellenőrzésével, beszedésével, behajtásával összefüggő feladatok ellátása központi kormányzati és önkormányzati szinten. Nem ebbe a funkcióba tartozik: - az adó-, vám- és jövedéki szabályozás feladatainak ellátása (minisztérium). |
+| 14 |  |  | Ide tartozik: - az adók, vámok, jövedéki adók kiszabásával, ellenőrzésével, beszedésével, behajtásával összefüggő feladatok ellátása központi kormányzati és önkormányzati szinten. Nem ebbe a funkcióba tartozik: - az adó-, vám- és jövedéki szabályozás feladatainak ellátása (minisztérium: 011120). |
 
 | 15 |  | 011230 | Államadósság kezelése |
 
@@ -40,7 +40,7 @@
 
 | 18 |  | 011310 | Külügyek igazgatása |
 
-| 19 |  |  | Ide tartozik: - az általános külügyi igazgatással, a külképviseletek működtetésével, valamint egyéb, máshová be nem sorolt szakdiplomáciai tevékenységekkel összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a külügyi szabályozás feladatainak ellátása (minisztérium). |
+| 19 |  |  | Ide tartozik: - az általános külügyi igazgatással, a külképviseletek működtetésével, valamint egyéb, máshová be nem sorolt szakdiplomáciai tevékenységekkel összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a külügyi szabályozás feladatainak ellátása (minisztérium: 011120). |
 
 | 20 |  | 011320 | Nemzetközi szervezetekben való részvétel |
 
@@ -386,7 +386,7 @@
 
 | 23 |  | 041231 | Rövid időtartamú közfoglalkoztatás |
 
-| 24 |  |  | Ide tartozik: - a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet 3. §-a alapján FHT-ra jogosult személy, vagy rehabilitációs ellátásban részesülő személy legfeljebb 4 hónap időtartamra szóló, határozott idejű közfoglalkoztatási jogviszony keretében, napi 4 órás munkaidőben történő foglalkoztatásával összefüggő feladatok ellátása, kifizetések teljesítése. |
+| 24 |  |  | Ide tartozik: - a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet 3. §-a alapján foglalkoztatást helyettesítő támogatásra (a továbbiakban: FHT) jogosult személy, vagy rehabilitációs ellátásban részesülő személy legfeljebb 4 hónap időtartamra szóló, határozott idejű közfoglalkoztatási jogviszony keretében, napi 4 órás munkaidőben történő foglalkoztatásával összefüggő feladatok ellátása, kifizetések teljesítése. |
 
 | 25 |  | 041232 | Start-munka program – Téli közfoglalkoztatás |
 
@@ -554,6 +554,10 @@
 
 | 107 |  |  | Ide tartozik: - a közutak, hidak, alagutak üzemeltetésével, fenntartásával összefüggő feladatok ellátása. |
 
+| 107a |  | 045161 Kerékpárutak üzemeltetése, fenntartása |
+
+| 107b |  |  | Ide tartozik: - a kerékpárutak üzemeltetésével, fenntartásával összefüggő feladatok ellátása. |
+
 | 108 |  | 045170 | Parkoló, garázs üzemeltetése, fenntartása |
 
 | 109 |  |  | Ide tartozik: - a parkoló, garázs önállóan, más funkciótól függetlenül végzett üzemeltetésével, fenntartásával összefüggő feladatok ellátása. |
@@ -564,13 +568,13 @@
 
 | 112 |  | 045190 | Közúti közlekedési eszközök műszaki vizsgálata |
 
-| 113 |  |  | Ide tartozik: - a közúti közlekedési eszközök önállóan, más funkciótól függetlenül végzett műszaki vizsgálatával összefüggő feladatok ellátása. |
+| 113 |  |  | Ide tartozik: - a közúti közlekedési eszközök önállóan, más funkciótól függetlenül végzett műszaki vizsgálatával összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 712102 szakfeladaton el kell számolni. |
 
 | 114 | 0452 Vízi közlekedés |
 
 | 115 |  | 045210 | Vízi közlekedés igazgatása és támogatása |
 
-| 116 |  |  | Ide tartozik: - a vízi közlekedés igazgatásával, valamint a más funkcióba nem sorolt, vízi közlekedéssel kapcsolatos tevékenységek, projektek támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Nem ebbe a funkcióba tartozik: - a vízi közlekedés szabályozási feladatainak ellátása (minisztérium). |
+| 116 |  |  | Ide tartozik: - a vízi közlekedés igazgatásával, valamint a más funkcióba nem sorolt, vízi közlekedéssel kapcsolatos tevékenységek, projektek támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Nem ebbe a funkcióba tartozik: - a vízi közlekedés szabályozási feladatainak ellátása (minisztérium: 011120). |
 
 | 117 |  | 045220 | Vízi létesítmény építése (kivéve: árvízvédelmi létesítmények) |
 
@@ -614,11 +618,11 @@
 
 | 137 |  | 046020 | Vezetékes műsorelosztás, városi és kábeltelevíziós rendszerek |
 
-| 138 |  |  | Ide tartozik: - a vezetékes műsorelosztással, városi és kábeltelevíziós rendszerek üzemeltetésével, működtetésével összefüggő feladatok ellátása. |
+| 138 |  |  | Ide tartozik: - a vezetékes műsorelosztással, városi és kábeltelevíziós rendszerek üzemeltetésével, működtetésével összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 610001 szakfeladaton el kell számolni. |
 
 | 139 |  | 046030 | Egyéb távközlés |
 
-| 140 |  |  | Ide tartozik: - a 046030 funkcióba nem tartozó, államháztartáson kívüli szervezeteknek, lakosságnak nyújtott egyéb távközlési szolgáltatásokkal összefüggő feladatok ellátása. |
+| 140 |  |  | Ide tartozik: - a más funkcióba nem tartozó, államháztartáson kívüli szervezeteknek, lakosságnak nyújtott egyéb távközlési szolgáltatásokkal összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 610002 szakfeladaton el kell számolni. |
 
 | 141 |  | 046040 | Hírügynökségi, információs szolgáltatás |
 
@@ -683,6 +687,10 @@
 | 171 |  | 049020 | K+F tevékenységekhez kapcsolódó innováció |
 
 | 172 |  |  | Ide tartozik: - a K+F tevékenységhez kapcsolódó, de nem a K+F-be tartozó innovációs tevékenységekkel összefüggő feladatok ellátása, kifizetések teljesítése. Ide tartozik továbbá: a nem tárgyiasult technológia (a know-how) megszerzése, a tárgyiasult technológia megszerzése, a felszerelés és műszaki tervezés (máshova nem besorolt), egyéb tőke szerzése, a termelés megindítása és az új vagy továbbfejlesztett termék marketingje. Nem ebbe a funkcióba tartozik: - a kutatási, kísérleti fejlesztési tevékenység. |
+
+| 173 |  | 049030 Kéményseprő-ipari tevékenység |
+
+| 174 |  |  | Ide tartozik: - a kéményseprő-ipari tevékenységről szóló törvényben meghatározott kéményseprő-ipari tevékenységgel, szolgáltatással összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 712210 szakfeladaton el kell számolni. Feladatmutató: az égéstermék-elvezető darabszáma. |
 
 ## 5. Környezetvédelem
 
@@ -838,7 +846,7 @@
 
 | 31 |  | 066010 | Zöldterület-kezelés |
 
-| 32 |  |  | Ide tartozik: - a lakóházaknál, középületeknél, közterületen, sportpályákon parkok és kertek sportolási és hasonló célú zöldterületek és zöldfelületek telepítésével, kiépítésével és kezelésével, gondozásával, - az álló és folyóvizek (medencék, locsolók, mesterséges tavak, úszómedencék, csatornák, vízforgatók szennyvízelvezető rendszerek) parkosításával, - a zaj, szél, erózió és napsütés elleni növénytelepítéssel, - a környezet- és természetvédelmi tájkertészettel és annak karbantartásával, - az arborétum-kultúrák kialakításával, gondozásával összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a mezőgazdasági célú növénytermesztési szolgáltatások (042130). |
+| 32 |  |  | Ide tartozik: - a lakóházaknál, középületeknél, közterületen, sportpályákon parkok és kertek sportolási és hasonló célú zöldterületek és zöldfelületek telepítésével, kiépítésével és kezelésével, gondozásával, - az álló és folyóvizek (medencék, locsolók, mesterséges tavak, úszómedencék, csatornák, vízforgatók szennyvízelvezető rendszerek) parkosításával, - a zaj, szél, erózió és napsütés elleni növénytelepítéssel, - a környezet- és természetvédelmi tájkertészettel és annak karbantartásával, - az arborétum-kultúrák kialakításával, gondozásával összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a mezőgazdasági célú növénytermesztési szolgáltatások (042130). Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 813000 szakfeladaton el kell számolni. |
 
 | 33 |  | 066020 | Város-, községgazdálkodási egyéb szolgáltatások |
 
@@ -866,7 +874,7 @@
 
 | 9 |  | 071220 | Egyéb gyógyászati termékek finanszírozása |
 
-| 10 |  |  | Ide tartozik: - az egyéb (071220 funkciónál meghatározott) gyógyászati termékek támogatásával összefüggő kiadások teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. Nem ebbe a funkcióba tartozik: - a 018030 funkcióba sorolandó központi támogatás, illetve irányító szervi támogatás. |
+| 10 |  |  | Ide tartozik: - az egyéb (071210 funkciónál meg nem határozott) gyógyászati termékek támogatásával összefüggő kiadások teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. Nem ebbe a funkcióba tartozik: - a 018030 funkcióba sorolandó központi támogatás, illetve irányító szervi támogatás. |
 
 | 11 | 0713 Gyógyászati segédeszközök |
 
@@ -894,25 +902,25 @@
 
 | 23 |  | 072190 | Általános orvosi szolgáltatások finanszírozása és támogatása |
 
-| 24 |  |  | Ide tartozik: - az általános orvosi szolgáltatások E. Alapból történő finanszírozása, valamint egyéb, célhoz kötött támogatásokkal összefüggő kiadások teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. Nem ebbe a funkcióba tartozik: - a 018030 funkcióba sorolandó központi támogatás, illetve irányító szervi támogatás. |
+| 24 |  |  | Ide tartozik: - az általános orvosi szolgáltatások Egészségbiztosítási Alapból (a továbbiakban: E. Alap) történő finanszírozása, valamint egyéb, célhoz kötött támogatásokkal összefüggő kiadások teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. Nem ebbe a funkcióba tartozik: - a 018030 funkcióba sorolandó központi támogatás, illetve irányító szervi támogatás. |
 
 | 25 | 0722 Szakosított orvosi szolgáltatások |
 
 | 26 |  | 072210 | Járóbetegek gyógyító szakellátása |
 
-| 27 |  |  | Ide tartozik: - a szakorvos által végzett alkalomszerű egészségügyi ellátással, fekvőbeteg-ellátást nem igénylő krónikus betegség esetén a folyamatos szakorvosi gondozással, valamint a speciális diagnosztikai és terápiás háttérét igénylő szakellátásokkal összefüggő feladatok ellátása. |
+| 27 |  |  | Ide tartozik: - a szakorvos által végzett alkalomszerű egészségügyi ellátással, fekvőbeteg-ellátást nem igénylő krónikus betegség esetén a folyamatos szakorvosi gondozással, valamint a speciális diagnosztikai és terápiás háttérét igénylő szakellátásokkal összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862211, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 28 |  | 072220 | Járóbetegek rehabilitációs szakellátása |
 
-| 29 |  |  | Ide tartozik: - a sérült, fogyatékos személy részvételével a helyreállított és megmaradt készségeinek fejlesztésére szolgáló orvosi, ápolási tevékenységen túli fizioterápiával, gyógyászati ellátással, sportterápiával, logopédiával, pszichológiai ellátással, foglalkoztatásterápiával, a gyógyászatisegédeszköz-ellátással, valamint ezek használatának a betanításával kapcsolatos összefüggő feladatok ellátása. |
+| 29 |  |  | Ide tartozik: - a sérült, fogyatékos személy részvételével a helyreállított és megmaradt készségeinek fejlesztésére szolgáló orvosi, ápolási tevékenységen túli fizioterápiával, gyógyászati ellátással, sportterápiával, logopédiával, pszichológiai ellátással, foglalkoztatásterápiával, a gyógyászatisegédeszköz-ellátással, valamint ezek használatának a betanításával kapcsolatos összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862212, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 30 |  | 072230 | Járóbetegek gyógyító gondozása |
 
-| 31 |  |  | Ide tartozik: - a fekvőbeteg-ellátást nem igénylő, krónikus betegség esetén a folyamatos szakorvosi gondozással, betegek felkutatásával összefüggő feladatok ellátása. |
+| 31 |  |  | Ide tartozik: - a fekvőbeteg-ellátást nem igénylő, krónikus betegség esetén a folyamatos szakorvosi gondozással, betegek felkutatásával összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862213, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 32 |  | 072240 | Járóbetegek egynapos ellátása |
 
-| 33 |  |  | Ide tartozik: - a beteg 24 óránál rövidebb ideig tartó ellátásával összefüggő feladatok ellátása. |
+| 33 |  |  | Ide tartozik: - a beteg 24 óránál rövidebb ideig tartó ellátásával (pl. művese kezeléssel) összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862214, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 34 |  | 072290 | Járóbeteg-ellátás finanszírozása és támogatása |
 
@@ -922,15 +930,15 @@
 
 | 37 |  | 072311 | Fogorvosi alapellátás |
 
-| 38 |  |  | Ide tartozik: - az egészségügyi alapellátás körében megszervezett fogorvosi alapellátással összefüggő feladatok ellátása. |
+| 38 |  |  | Ide tartozik: - az egészségügyi alapellátás körében megszervezett fogorvosi alapellátással összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862301, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 39 |  | 072312 | Fogorvosi ügyeleti ellátás |
 
-| 40 |  |  | Ide tartozik: - a napi munkarenden kívül, sürgős esetben nyújtott fogorvosi ügyeleti ellátással összefüggő feladatok ellátása. |
+| 40 |  |  | Ide tartozik: - a napi munkarenden kívül, sürgős esetben nyújtott fogorvosi ügyeleti ellátással összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862302, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 41 |  | 072313 | Fogorvosi szakellátás |
 
-| 42 |  |  | Ide tartozik: - a fogorvosi szakellátásokkal (szájsebészeti ellátással, fogszabályozással, parodontológiával, gyermekfogászattal, iskolai fogászattal, fogászati röntgennel) összefüggő feladatok ellátása. |
+| 42 |  |  | Ide tartozik: - a fogorvosi szakellátásokkal (szájsebészeti ellátással, fogszabályozással, parodontológiával, gyermekfogászattal, iskolai fogászattal, fogászati röntgennel) összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862303, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 43 |  | 072390 | Fogorvosi ellátás finanszírozása és támogatása |
 
@@ -940,7 +948,7 @@
 
 | 46 |  | 072410 | Otthoni (egészségügyi) szakápolás |
 
-| 47 |  |  | Ide tartozik: - a fekvőbeteg-gyógyintézeti ellátást kiváltó, otthoni, az egészségi állapot javítását, az egészség megőrzését és helyreállítását, a beteg állapotának stabilizálását, a betegségek megelőzését, a szenvedések enyhítését, a beteg környezetének az ápolási feladatokban történő részvételre való felkészítését szolgáló ápolási, gondozási eljárásokkal összefüggő feladatok ellátása. |
+| 47 |  |  | Ide tartozik: - a fekvőbeteg-gyógyintézeti ellátást kiváltó, otthoni, az egészségi állapot javítását, az egészség megőrzését és helyreállítását, a beteg állapotának stabilizálását, a betegségek megelőzését, a szenvedések enyhítését, a beteg környezetének az ápolási feladatokban történő részvételre való felkészítését szolgáló ápolási, gondozási eljárásokkal összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 869020 szakfeladaton el kell számolni. |
 
 | 48 |  | 072420 | Egészségügyi laboratóriumi szolgáltatások |
 
@@ -952,11 +960,11 @@
 
 | 52 |  | 072440 | Mentés |
 
-| 53 |  |  | Ide tartozik: - az azonnali egészségügyi ellátásra szoruló betegnek a feltalálási helyén, mentésre feljogosított szervezet által végzett sürgősségi ellátásával, illetve a beteg egészségi állapotának megfelelő ellátásra alkalmas legközelebbi egészségügyi szolgáltatóhoz történő szállításával, valamint a szállítás közben végzett ellátással összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a betegszállítás, valamint orvosi rendelvényű halottszállítás (072160). |
+| 53 |  |  | Ide tartozik: - az azonnali egészségügyi ellátásra szoruló betegnek a feltalálási helyén, mentésre feljogosított szervezet által végzett sürgősségi ellátásával, illetve a beteg egészségi állapotának megfelelő ellátásra alkalmas legközelebbi egészségügyi szolgáltatóhoz történő szállításával, valamint a szállítás közben végzett ellátással összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a betegszállítás, valamint orvosi rendelvényű halottszállítás (072160). Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 869034 szakfeladaton el kell számolni. |
 
 | 54 |  | 072450 | Fizikoterápiás szolgáltatás |
 
-| 55 |  |  | Ide tartozik: - az orvosi, szakorvosi, háziorvosi tevékenységen kívüli, jogilag engedélyezett humán-egészségügyi tevékenységként végzett fizikoterápiás szolgáltatásokkal összefüggő feladatok ellátása. |
+| 55 |  |  | Ide tartozik: - az orvosi, szakorvosi, háziorvosi tevékenységen kívüli, jogilag engedélyezett humán-egészségügyi tevékenységként végzett fizikoterápiás szolgáltatásokkal összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 869037 szakfeladaton el kell számolni. |
 
 | 56 |  | 072460 | Terápiás célú gyógyfürdő- és kapcsolódó szolgáltatások |
 
@@ -978,19 +986,19 @@
 
 | 65 |  | 073110 | Fekvőbetegek aktív ellátása általános kórházakban |
 
-| 66 |  |  | Ide tartozik: - a betegnek a lakóhelye közelében, általános fekvőbeteg-gyógyintézeti keretek között végzett egészségügyi ellátásával, valamint az egyes speciális diagnosztikai és terápiás hátteret, illetve szakmailag összetett feladatok megoldását igénylő betegségek speciális fekvőbeteg-szakellátásával összefüggő feladatok. |
+| 66 |  |  | Ide tartozik: - a betegnek a lakóhelye közelében, általános fekvőbeteg-gyógyintézeti keretek között végzett egészségügyi ellátásával, valamint az egyes speciális diagnosztikai és terápiás hátteret, illetve szakmailag összetett feladatok megoldását igénylő betegségek speciális fekvőbeteg-szakellátásával összefüggő feladatok. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 861011, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 67 |  | 073120 | Fekvőbetegek krónikus ellátása általános kórházakban |
 
-| 68 |  |  | Ide tartozik: - a beteg folyamatos intézményi tartózkodása mellett végzett, hosszú ápolási idejű diagnosztikus, gyógykezelési vagy ápolási célú általános fekvőbeteg-gyógyintézeti ellátással összefüggő feladatok. |
+| 68 |  |  | Ide tartozik: - a beteg folyamatos intézményi tartózkodása mellett végzett, hosszú ápolási idejű diagnosztikus, gyógykezelési vagy ápolási célú általános fekvőbeteg-gyógyintézeti ellátással összefüggő feladatok. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 861021, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 69 |  | 073130 | Bentlakásos egészségügyi rehabilitációs ellátás általános kórházakban |
 
-| 70 |  |  | Ide tartozik: - általános fekvőbeteg-gyógyintézeti keretek között a sérült aktív közreműködésével megmaradt készségeinek fejlesztésére szolgáló, a lehetséges mozgáskészség kialakulását, az önellátás és a lelki egyensúly elérését célzó egészségügyi tevékenységgel, így különösen orvosi és ápolási tevékenységgel, fizio- és beszédterápiával, kondicionáló tornával, gyógyfoglalkoztatással, pszichológusi gondozással, hidroterápiával összefüggő feladatok ellátása. |
+| 70 |  |  | Ide tartozik: - általános fekvőbeteg-gyógyintézeti keretek között a sérült aktív közreműködésével megmaradt készségeinek fejlesztésére szolgáló, a lehetséges mozgáskészség kialakulását, az önellátás és a lelki egyensúly elérését célzó egészségügyi tevékenységgel, így különösen orvosi és ápolási tevékenységgel, fizio- és beszédterápiával, kondicionáló tornával, gyógyfoglalkoztatással, pszichológusi gondozással, hidroterápiával összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 861031, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 71 |  | 073160 | Egynapos sebészeti ellátás (egynapos beavatkozás) |
 
-| 72 |  |  | Ide tartozik: - a beteg legfeljebb 24 órán át tartó egészségügyi intézménybeli tartózkodását igénylő sebészeti beavatkozással összefüggő feladatok ellátása. |
+| 72 |  |  | Ide tartozik: - a beteg legfeljebb 24 órán át tartó egészségügyi intézménybeli tartózkodását igénylő sebészeti beavatkozással összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862220, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 73 |  | 073190 | Fekvőbeteg-ellátás finanszírozása és támogatása |
 
@@ -1000,15 +1008,15 @@
 
 | 76 |  | 073210 | Fekvőbetegek aktív ellátása szakkórházakban |
 
-| 77 |  |  | Ide tartozik: - a betegnek szakosított fekvőbeteg-gyógyintézeti keretek között végzett egészségügyi ellátásával, valamint az egyes speciális diagnosztikai és terápiás hátteret, illetve szakmailag összetett feladatok megoldását igénylő betegségek speciális fekvőbeteg-szakellátásával összefüggő feladatok. |
+| 77 |  |  | Ide tartozik: - a betegnek szakosított fekvőbeteg-gyógyintézeti keretek között végzett egészségügyi ellátásával, valamint az egyes speciális diagnosztikai és terápiás hátteret, illetve szakmailag összetett feladatok megoldását igénylő betegségek speciális fekvőbeteg-szakellátásával összefüggő feladatok. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 861012, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 78 |  | 073220 | Fekvőbetegek krónikus ellátása szakkórházakban |
 
-| 79 |  |  | Ide tartozik: - a beteg folyamatos intézményi tartózkodása mellett végzett, hosszú ápolási idejű diagnosztikus, gyógykezelési vagy ápolási célú szakosított fekvőbeteg-gyógyintézeti ellátással összefüggő feladatok. |
+| 79 |  |  | Ide tartozik: - a beteg folyamatos intézményi tartózkodása mellett végzett, hosszú ápolási idejű diagnosztikus, gyógykezelési vagy ápolási célú szakosított fekvőbeteg-gyógyintézeti ellátással összefüggő feladatok. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 861022, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 80 |  | 073230 | Bentlakásos egészségügyi rehabilitációs ellátás szakkórházakban |
 
-| 81 |  |  | Ide tartozik: - szakosított fekvőbeteg-gyógyintézeti keretek között a sérült aktív közreműködésével megmaradt készségeinek fejlesztésére szolgáló, a lehetséges mozgáskészség kialakulását, az önellátás és a lelki egyensúly elérését célzó egészségügyi tevékenységgel, így különösen orvosi és ápolási tevékenységgel, fizio- és beszédterápiával, kondicionáló tornával, gyógyfoglalkoztatással, pszichológusi gondozással, hidroterápiával összefüggő feladatok ellátása. |
+| 81 |  |  | Ide tartozik: - szakosított fekvőbeteg-gyógyintézeti keretek között a sérült aktív közreműködésével megmaradt készségeinek fejlesztésére szolgáló, a lehetséges mozgáskészség kialakulását, az önellátás és a lelki egyensúly elérését célzó egészségügyi tevékenységgel, így különösen orvosi és ápolási tevékenységgel, fizio- és beszédterápiával, kondicionáló tornával, gyógyfoglalkoztatással, pszichológusi gondozással, hidroterápiával összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 861032, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 82 | 0733 Gyógyászati központok és szülőotthonok szolgáltatásai |
 
@@ -1020,21 +1028,21 @@
 
 | 86 |  | 073410 | Egészségügyi ápolás bentlakással |
 
-| 87 |  |  | Ide tartozik: - az egészségi állapot javítását, az egészség megőrzését és helyreállítását, a beteg állapotának stabilizálását, a betegségek megelőzését, a szenvedések enyhítését, a beteg környezetének az ápolási feladatokban történő részvételre való felkészítését szolgáló egészségügyi ápolási, gondozási feladatokkal összefüggő feladatok ellátása. |
+| 87 |  |  | Ide tartozik: - az egészségi állapot javítását, az egészség megőrzését és helyreállítását, a beteg állapotának stabilizálását, a betegségek megelőzését, a szenvedések enyhítését, a beteg környezetének az ápolási feladatokban történő részvételre való felkészítését szolgáló egészségügyi ápolási, gondozási feladatokkal összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 861040, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 88 |  | 073420 | Bentlakásos hospice-ellátás |
 
-| 89 |  |  | Ide tartozik: - a terminális beteg testi, lelki ápolásával, gondozásával, életminőségének javításával, szenvedéseinek enyhítésével és emberi méltóságának a haláláig való megőrzésével kapcsolatos szolgáltatásokkal összefüggő feladatok ellátása. |
+| 89 |  |  | Ide tartozik: - a terminális beteg testi, lelki ápolásával, gondozásával, életminőségének javításával, szenvedéseinek enyhítésével és emberi méltóságának a haláláig való megőrzésével kapcsolatos szolgáltatásokkal összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 861050, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 90 | 0740 Közegészségügyi szolgáltatások |
 
 | 91 |  | 074011 | Foglalkozás-egészségügyi alapellátás |
 
-| 92 |  |  | Ide tartozik: - a munkát végző személy egészségének a megóvása, munkahelyi betegségek kialakulásának a megelőzése érdekében alkalmazott egészségügyi alapellátásokkal összefüggő feladatok. |
+| 92 |  |  | Ide tartozik: - a munkát végző személy egészségének a megóvása, munkahelyi betegségek kialakulásának a megelőzése érdekében alkalmazott egészségügyi alapellátásokkal összefüggő feladatok. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862231, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 93 |  | 074012 | Foglalkozás-egészségügyi szakellátás |
 
-| 94 |  |  | Ide tartozik: - a munkát végző személy egészségének a megóvása, munkahelyi betegségek kialakulásának a megelőzése érdekében alkalmazott egészségügyi szakellátásokkal összefüggő feladatok. |
+| 94 |  |  | Ide tartozik: - a munkát végző személy egészségének a megóvása, munkahelyi betegségek kialakulásának a megelőzése érdekében alkalmazott egészségügyi szakellátásokkal összefüggő feladatok. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 862232, a 869031 vagy 869032 szakfeladatokon el kell számolni. |
 
 | 95 |  | 074013 | Pálya- és munkaalkalmassági vizsgálatok |
 
@@ -1050,7 +1058,7 @@
 
 | 101 |  | 074032 | Ifjúság-egészségügyi gondozás |
 
-| 102 |  |  | Ide tartozik: - az iskola-egészségügyi ellátással, - a védőnői gondozásával, - a 3-18 éves korú gyermekek egyéb ifjúság-egészségügyi gondozásával összefüggő feladatok ellátása. |
+| 102 |  |  | Ide tartozik: - az iskola-egészségügyi ellátással, - a 0–18 éves korú gyermek védőnői gondozásával, - a 3-18 éves korú gyermekek egyéb ifjúság-egészségügyi gondozásával összefüggő feladatok ellátása. |
 
 | 103 |  | 074040 | Fertőző megbetegedések megelőzése, járványügyi ellátás |
 
@@ -1074,7 +1082,7 @@
 
 | 113 |  | 074060 | Vér-, szövet- és egyéb kapcsolódó szövetbank |
 
-| 114 |  |  | Ide tartozik: - a gyógyításhoz szükséges vér és vérkészítmények biztosítására, illetve a vérkészítmények terápiás felhasználására irányuló egészségügyi és társadalmi tevékenységgel, a tartósan tárolható, átültetés céljára felhasználható szervek és szövetek szerv- és szövetbankban való tárolásával, valamint reprodukciós eljárás végzéséhez, illetve orvostudományi kutatás céljából adományozott ivarsejtek adományozásával, tárolásával, illetve a reprodukciós eljárás során testen kívül létrejött és be nem ültetett embrió adományozásával, tárolásával, az embrióletéttel összefüggő feladatok ellátása. |
+| 114 |  |  | Ide tartozik: - a gyógyításhoz szükséges vér és vérkészítmények biztosítására, illetve a vérkészítmények terápiás felhasználására irányuló egészségügyi és társadalmi tevékenységgel, a tartósan tárolható, átültetés céljára felhasználható szervek és szövetek szerv- és szövetbankban való tárolásával, valamint reprodukciós eljárás végzéséhez, illetve orvostudományi kutatás céljából adományozott ivarsejtek adományozásával, tárolásával, illetve a reprodukciós eljárás során testen kívül létrejött és be nem ültetett embrió adományozásával, tárolásával, az embrióletéttel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 869036 szakfeladaton el kell számolni. |
 
 | 115 |  | 074090 | Közegészségügyi szolgáltatások finanszírozása és támogatása |
 
@@ -1268,11 +1276,11 @@
 
 | 68 |  | 083020 | Könyvkiadás |
 
-| 69 |  |  | Ide tartozik: - a könyv, hangoskönyv, szótár, enciklopédia, atlasz, térkép, grafikai mű, brosúra, prospektus és hasonló nyomtatott termék önálló, más funkciótól elkülönült kiadásával (beleértve a CD-ROM-on történő kiadást is) összefüggő feladatok ellátása. |
+| 69 |  |  | Ide tartozik: - a könyv, hangoskönyv, szótár, enciklopédia, atlasz, térkép, grafikai mű, brosúra, prospektus és hasonló nyomtatott termék önálló, más funkciótól elkülönült kiadásával (beleértve a CD-ROM-on történő kiadást is) összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - tankönyvellátás a köznevelésben, köznevelési intézményben, - tankönyv- és jegyzetellátás a felsőoktatásban (0941 funkciócsoport és 094210). Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 581100 szakfeladaton el kell számolni. |
 
 | 70 |  | 083030 | Egyéb kiadói tevékenység |
 
-| 71 |  |  | Ide tartozik: - a folyóirat, időszaki kiadvány, napilap, címtár, plakát, formanyomtatvány, reklámanyag, statisztikák papíralapú vagy on-line kiadásával összefüggő feladatok ellátása. |
+| 71 |  |  | Ide tartozik: - a folyóirat, időszaki kiadvány, napilap, címtár, plakát, formanyomtatvány, reklámanyag, statisztikák papíralapú vagy on-line kiadásával összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 581400 vagy 581900 szakfeladatokon el kell számolni. |
 
 | 72 |  | 083040 | Rádióműsor szolgáltatása és támogatása |
 
@@ -1340,9 +1348,9 @@
 
 | 104 |  |  | Ide tartozik: - a nemzetközi kulturális tevékenységekkel, a kulturális csereprogramokkal összefüggő feladatok ellátása. |
 
-| 105 |  | 086090 | Mindenféle egyéb szabadidős szolgáltatás |
+| 105 |  | 086090 | Egyéb szabadidős szolgáltatás |
 
-| 106 |  |  | Ide tartozik: - a mindenféle egyéb szabadidős szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. |
+| 106 |  |  | Ide tartozik: - a más funkcióba nem sorolható, egyéb szabadidős szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. |
 
 ## 9. Oktatás
 
@@ -1360,7 +1368,7 @@
 
 | 6 |  | 091130 | Nemzetiségi óvodai nevelés, ellátás szakmai feladatai |
 
-| 7 |  |  | Ide tartozik: - kizárólag az óvodai nemzeti kisebbségi, etnikai nevelési feladatok ellátása. Feladatmutató: nemzetiségi óvodai nevelésben részt vevő gyermekek létszáma tárgyév október 1-jén (fő) |
+| 7 |  |  | Ide tartozik: - kizárólag az óvodai nemzetiségi nevelési feladatok ellátása. Feladatmutató: nemzetiségi óvodai nevelésben részt vevő gyermekek létszáma tárgyév október 1-jén (fő) |
 
 | 8 |  | 091140 | Óvodai nevelés, ellátás működtetési feladatai |
 
@@ -1370,15 +1378,15 @@
 
 | 11 |  | 091211 | Köznevelési intézményben tanulók nappali rendszerű nevelésének, oktatásának szakmai feladatai 1–4. évfolyamon |
 
-| 12 |  |  | Ide tartozik: - a köznevelési intézmény 1–4. évfolyamán, meghatározott időkeretekben az iskola pedagógiai programja szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett neveléssel, oktatással összefüggő feladatok ellátása. Feladatmutató: köznevelési intézmény 1–4. évfolyamán tanulók létszáma tárgyév október 1-jén (fő) |
+| 12 |  |  | Ide tartozik: - a köznevelési intézmény 1-4. évfolyamán, meghatározott időkeretekben az iskola pedagógiai programja szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett neveléssel, oktatással, - a kötelező felvételt biztosító nappali rendszerű köznevelési intézménybe történő utaztatással összefüggő feladatok ellátása. Feladatmutató: köznevelési intézmény 1-4. évfolyamán tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 13 |  | 091212 | Sajátos nevelési igényű tanulók nappali rendszerű nevelésének, oktatásának szakmai feladatai 1–4. évfolyamon |
 
-| 14 |  |  | Ide tartozik: - kizárólag a sajátos nevelési igényű gyermekek köznevelési intézmény 1-4. évfolyamán történő nevelésével, oktatásával összefüggő speciális eszközökkel, foglalkozásokkal, ellátással kapcsolatos feladatok ellátása. Feladatmutató: köznevelési intézmény 1–4. évfolyamán sajátos nevelési igényű tanulók létszáma tárgyév október 1-jén (fő) |
+| 14 |  |  | Ide tartozik: - kizárólag a sajátos nevelési igényű gyermekek köznevelési intézmény 1-4. évfolyamán történő nevelésével, oktatásával összefüggő speciális eszközökkel, foglalkozásokkal, ellátással, - a kötelező felvételt biztosító nappali rendszerű gyógypedagógiai köznevelési intézménybe történő utaztatással kapcsolatos feladatok ellátása. Feladatmutató: köznevelési intézmény 1-4. évfolyamán sajátos nevelési igényű tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 15 |  | 091213 | Nemzetiségi tanulók nappali rendszerű nevelésének, oktatásának szakmai feladatai 1–4. évfolyamon |
 
-| 16 |  |  | Ide tartozik: - kizárólag a köznevelési intézmény 1-4. évfolyamán történő nemzetiségi nevelési feladatokkal összefüggő feladatok ellátása. Feladatmutató: köznevelési intézmény 1–4. évfolyamán nemzetiségi oktatásban részt vevő tanulók létszáma tárgyév október 1-jén (fő) |
+| 16 |  |  | Ide tartozik: - kizárólag a köznevelési intézmény 1-4. évfolyamán történő nemzetiségi nevelési feladatokkal, - a kötelező felvételt biztosító nappali rendszerű nemzetiségi köznevelési intézménybe történő utaztatással összefüggő feladatok ellátása. Feladatmutató: köznevelési intézmény 1-4. évfolyamán nemzetiségi oktatásban részt vevő tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 17 |  | 091220 | Köznevelési intézmény 1–4. évfolyamán tanulók nevelésével, oktatásával összefüggő működtetési feladatok |
 
@@ -1400,15 +1408,15 @@
 
 | 26 |  | 092111 | Köznevelési intézményben tanulók nappali rendszerű nevelésének, oktatásának szakmai feladatai 5–8. évfolyamon |
 
-| 27 |  |  | Ide tartozik: - a köznevelési intézmény 5-8. évfolyamán, meghatározott időkeretekben az iskola pedagógiai programja szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett neveléssel, oktatással összefüggő feladatok ellátása. Feladatmutató: köznevelési intézmény 5–8. évfolyamán tanulók létszáma tárgyév október 1-jén (fő) |
+| 27 |  |  | Ide tartozik: - a köznevelési intézmény 5-8. évfolyamán, meghatározott időkeretekben az iskola pedagógiai programja szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett neveléssel, oktatással, - a kötelező felvételt biztosító nappali rendszerű köznevelési intézménybe történő utaztatással összefüggő feladatok ellátása. Feladatmutató: köznevelési intézmény 5-8. évfolyamán tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 28 |  | 092112 | Sajátos nevelési igényű tanulók nappali rendszerű nevelésének, oktatásának szakmai feladatai 5–8. évfolyamon |
 
-| 29 |  |  | Ide tartozik: - kizárólag a sajátos nevelési igényű gyermekek köznevelési intézmény 5-8. évfolyamán történő oktatásával összefüggő speciális eszközökkel, foglalkozásokkal, ellátással kapcsolatos feladatok ellátása. Feladatmutató: köznevelési intézmény 5–8. évfolyamán sajátos nevelési igényű tanulók létszáma tárgyév október 1-jén (fő) |
+| 29 |  |  | Ide tartozik: - kizárólag a sajátos nevelési igényű gyermekek köznevelési intézmény 5-8. évfolyamán történő oktatásával összefüggő speciális eszközökkel, foglalkozásokkal, ellátással, - a kötelező felvételt biztosító nappali rendszerű gyógypedagógiai köznevelési intézménybe történő utaztatással kapcsolatos feladatok ellátása. Feladatmutató: köznevelési intézmény 5-8. évfolyamán sajátos nevelési igényű tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 30 |  | 092113 | Nemzetiségi tanulók nappali rendszerű nevelésének, oktatásának szakmai feladatai 5–8. évfolyamon |
 
-| 31 |  |  | Ide tartozik: - kizárólag a köznevelési intézmény 5-8. évfolyamán történő nemzetiségi nevelési feladatok ellátásával összefüggő feladatok ellátása. Feladatmutató: köznevelési intézmény 5–8. évfolyamán nemzetiségi oktatásban részt vevő tanulók létszáma tárgyév október 1-jén (fő) |
+| 31 |  |  | Ide tartozik: - kizárólag a köznevelési intézmény 5-8. évfolyamán történő nemzetiségi nevelési feladatok ellátásával, - a kötelező felvételt biztosító nappali rendszerű nemzetiségi köznevelési intézménybe történő utaztatással összefüggő feladatok ellátása. Feladatmutató: köznevelési intézmény 5-8. évfolyamán nemzetiségi oktatásban részt vevő tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 32 |  | 092120 | Köznevelési intézmény 5–8. évfolyamán tanulók nevelésével, oktatásával összefüggő működtetési feladatok |
 
@@ -1420,33 +1428,33 @@
 
 | 36 |  | 092150 | Iskolarendszeren kívüli ISCED 2 szintű OKJ-s képzés |
 
-| 37 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 2 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. |
+| 37 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 2 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 855941szakfeladaton el kell számolni. |
 
 | 38 | 0922 Középfokú nevelés, oktatás |
 
 | 39 |  | 092211 | Gimnáziumi oktatás, nevelés szakmai feladatai |
 
-| 40 |  |  | Ide tartozik: - a 9–12(13). évfolyamon a tanulók nappali rendszerű, általános műveltségét megalapozó rendszeres nevelésével-oktatásával, érettségi vizsgára és felsőfokú iskolai tanulmányok megkezdésére történő felkészítésével összefüggő szakmai feladatok ellátása. Feladatmutató: a gimnázium 9–12(13). évfolyamán tanulók létszáma tárgyév október 1-jén (fő) |
+| 40 |  |  | Ide tartozik: - a 9-12 (13). évfolyamon a tanulók nappali rendszerű, általános műveltségét megalapozó rendszeres nevelésével-oktatásával, érettségi vizsgára és felsőfokú iskolai tanulmányok megkezdésére történő felkészítésével, - a kötelező felvételt biztosító nappali rendszerű gimnáziumba történő utaztatással összefüggő szakmai feladatok ellátása. Feladatmutató: a gimnázium 9-12 (13). évfolyamán tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 41 |  | 092212 | Sajátos nevelési igényű tanulók gimnáziumi nevelésének, oktatásának szakmai feladatai |
 
-| 42 |  |  | Ide tartozik: - kizárólag a sajátos nevelési igényű tanulók gimnáziumi oktatásával összefüggő speciális eszközökkel, foglalkozásokkal, ellátással összefüggő feladatok ellátása. Feladatmutató: a gimnázium 9–12(13). évfolyamán sajátos nevelési igényű tanulók létszáma tárgyév október 1-jén (fő) |
+| 42 |  |  | Ide tartozik: - kizárólag a sajátos nevelési igényű tanulók gimnáziumi oktatásával összefüggő speciális eszközökkel, foglalkozásokkal, ellátással, - a kötelező felvételt biztosító nappali rendszerű gyógypedagógiai gimnáziumba történő utaztatással összefüggő feladatok ellátása. Feladatmutató: a gimnázium 9-12 (13). évfolyamán sajátos nevelési igényű tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 43 |  | 092213 | Nemzetiségi tanulók gimnáziumi oktatásának, nevelésének szakmai feladatai |
 
-| 44 |  |  | Ide tartozik: - kizárólag gimnáziumban történő nemzetiségi nevelési feladatok ellátásával összefüggő feladatok ellátása. Feladatmutató: a gimnázium 9–12(13). nemzetiségi oktatásban részt vevő tanulók létszáma tárgyév október 1-jén (fő) |
+| 44 |  |  | Ide tartozik: - kizárólag gimnáziumban történő nemzetiségi nevelési feladatok ellátásával, - a kötelező felvételt biztosító nappali rendszerű nemzetiségi gimnáziumba történő utaztatással összefüggő feladatok ellátása. Feladatmutató: a gimnázium 9-12 (13). nemzetiségi oktatásban részt vevő tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 45 |  | 092221 | Közismereti és szakképesítés megszerzésére felkészítő szakmai elméleti oktatás szakmai feladatai a szakképző iskolákban |
 
-| 46 |  |  | Ide tartozik: - a szakközépiskolákban és szakiskolákban a szakképzési program szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett közismereti és szakmai elméleti oktatással, neveléssel összefüggő feladatok ellátása. Feladatmutató: a szakképző iskola 9–12(13). évfolyamán közismereti és szakmai elméleti képzésben részt vevő tanulók létszáma tárgyév október 1-jén (fő) |
+| 46 |  |  | Ide tartozik: - a szakközépiskolákban és szakiskolákban a szakképzési program szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett közismereti és szakmai elméleti oktatással, neveléssel, - a kötelező felvételt biztosító nappali rendszerű szakközépiskolákba és szakiskolákba történő utaztatással összefüggő feladatok ellátása. Feladatmutató: a szakképző iskola 9-12 (13). évfolyamán közismereti és szakmai elméleti képzésben részt vevő tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 47 |  | 092222 | Sajátos nevelési igényű tanulók közismereti és szakképesítés megszerzésére felkészítő szakmai elméleti oktatásának szakmai feladatai a szakképző iskolákban |
 
-| 48 |  |  | Ide tartozik: - a szakközépiskolákban és szakiskolákban a szakképzési program szerint a sajátos nevelési igényű tanulók közismereti és szakmai elméleti oktatásával, nevelésével összefüggő feladatok ellátása. Feladatmutató: a szakképző iskola 9–12(13). évfolyamán közismereti és szakmai elméleti képzésben részt vevő sajátos nevelési igényű tanulók létszáma tárgyév október 1-jén (fő) |
+| 48 |  |  | Ide tartozik: - a szakközépiskolákban és szakiskolákban a szakképzési program szerint a sajátos nevelési igényű tanulók közismereti és szakmai elméleti oktatásával, nevelésével, - a kötelező felvételt biztosító nappali rendszerű gyógypedagógiai szakközépiskolákba és szakiskolákba történő utaztatással összefüggő feladatok ellátása. Feladatmutató: a szakképző iskola 9-12 (13). évfolyamán közismereti és szakmai elméleti képzésben részt vevő sajátos nevelési igényű tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 49 |  | 092223 | Nemzetiségi tanulók közismereti és szakképesítés megszerzésére felkészítő szakmai elméleti oktatás szakmai feladatai a szakképző iskolákban |
 
-| 50 |  |  | Ide tartozik: - a szakközépiskolákban és szakiskolákban a szakképzési program szerint a nemzetiségi nevelési feladatok ellátásával, vagy a két tanítási nyelvű oktatással, neveléssel összefüggő feladatok ellátása. Feladatmutató: a szakképző iskola 9–12(13). évfolyamán közismereti és szakmai elméleti képzésben részt vevő nemzetiségi tanulók létszáma tárgyév október 1-jén (fő) |
+| 50 |  |  | Ide tartozik: - a szakközépiskolákban és szakiskolákban a szakképzési program szerint a nemzetiségi nevelési feladatok ellátásával, vagy a két tanítási nyelvű oktatással, neveléssel, - a kötelező felvételt biztosító nappali rendszerű nemzetiségi szakközépiskolákba és szakiskolákba történő utaztatással összefüggő feladatok ellátása. Feladatmutató: a szakképző iskola 9-12 (13). évfolyamán közismereti és szakmai elméleti képzésben részt vevő nemzetiségi tanulók létszáma tárgyév október 1-jén (fő) |
 
 | 51 |  | 092231 | Szakképesítés megszerzésére felkészítő szakmai gyakorlati oktatás szakmai feladatai a szakképző iskolákban |
 
@@ -1466,7 +1474,7 @@
 
 | 59 |  | 092290 | Iskolarendszeren kívüli ISCED 3 szintű OKJ-s képzés |
 
-| 60 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 3 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. |
+| 60 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 3 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 855942 szakfeladaton el kell számolni. |
 
 | 61 | 0930 Középiskolát követő nem felsőfokú oktatás |
 
@@ -1476,25 +1484,25 @@
 
 | 64 |  | 093020 | Iskolarendszeren kívüli ISCED 4 szintű OKJ-s képzés |
 
-| 65 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 4 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. |
+| 65 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 4 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 855943 szakfeladaton el kell számolni. |
 
 | 66 | 0941 Felsőszintű képzés |
 
 | 67 |  | 094110 | Felsőoktatási szakképzés |
 
-| 68 |  |  | Ide tartozik: - a felsőoktatási szakképzés szakmai és vizsgakövetelményei alapján a szakképzési programmal összefüggő feladatok ellátása. A felsőoktatási szakképzés a nemzeti felsőoktatásról szóló törvény alapján állami elismeréssel rendelkező felsőoktatási intézmények által hallgatói – valamint felsőoktatási intézménnyel kötött megállapodás alapján szakközépiskolák által tanulói – jogviszony keretében folyó olyan, az Országos Képzési Jegyzékben meghatározott szakképesítést nyújtó szakképzés, amelyet az Oktatási Hivatal nyilvántartásba vett, amelynek ismeretei legalább harminc, legfeljebb hatvan kreditpont értékben beszámíthatók az azonos képzési területhez tartozó alapfokozatot adó képzésbe. A képzési idő négy félév, kivéve, ha az európai közösségi jog valamely képzés tekintetében ennél hosszabb időt állapít meg. Feladatmutató: felsőoktatási szakképzésben részt vevők száma tárgyév október 30-án (fő) |
+| 68 |  |  | Ide tartozik: - a felsőoktatási szakképzés szakmai és vizsgakövetelményei alapján a szakképzési programmal összefüggő feladatok ellátása. A felsőoktatási szakképzés a nemzeti felsőoktatásról szóló törvény alapján állami elismeréssel rendelkező felsőoktatási intézmények által hallgatói - valamint felsőoktatási intézménnyel kötött megállapodás alapján szakközépiskolák által tanulói - jogviszony keretében folyó olyan, az Országos Képzési Jegyzékben meghatározott szakképesítést nyújtó szakképzés, amelyet az Oktatási Hivatal nyilvántartásba vett, amelynek ismeretei legalább harminc, legfeljebb hatvan kreditpont értékben beszámíthatók az azonos képzési területhez tartozó alapfokozatot adó képzésbe. A képzési idő négy félév, kivéve, ha az európai közösségi jog valamely képzés tekintetében ennél hosszabb időt állapít meg. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét szakképzésági besorolás szerint a 854121 – 854139 szakfeladatokon el kell számolni. Feladatmutató: felsőoktatási szakképzésben részt vevők száma tárgyév október 30-án (fő) |
 
 | 69 |  | 094120 | Szakirányú továbbképzés |
 
-| 70 |  |  | Ide tartozik: - a felsőoktatási intézmény hallgatója szakirányú továbbképzésével összefüggő feladatok ellátása. A szakirányú továbbképzés a nemzeti felsőoktatásról szóló törvény alapján állami elismeréssel rendelkező felsőoktatási intézményben folytatott, a felsőoktatási intézmény működési engedélye alapján az Oktatási Hivatal által nyilvántartásba vett, a felsőoktatási intézmény saját hatáskörében indított, az alap- vagy a mesterfokozatot követően további szakirányú szakképzettség megszerzésére felkészítő olyan oktatási tevékenység, amelynek keretében legalább hatvan, legfeljebb százhúsz kreditet kell teljesíteni és a képzési idő legalább két, legfeljebb négy félév. Feladatmutató: szakirányú továbbképzésben részt vevő hallgatók száma tárgyév október 30-án (fő) |
+| 70 |  |  | Ide tartozik: - a felsőoktatási intézmény hallgatója szakirányú továbbképzésével összefüggő feladatok ellátása. A szakirányú továbbképzés a nemzeti felsőoktatásról szóló törvény alapján állami elismeréssel rendelkező felsőoktatási intézményben folytatott, a felsőoktatási intézmény működési engedélye alapján az Oktatási Hivatal által nyilvántartásba vett, a felsőoktatási intézmény saját hatáskörében indított, az alap- vagy a mesterfokozatot követően további szakirányú szakképzettség megszerzésére felkészítő olyan oktatási tevékenység, amelynek keretében legalább hatvan, legfeljebb százhúsz kreditet kell teljesíteni és a képzési idő legalább két, legfeljebb négy félév. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 854161 szakfeladaton el kell számolni. Feladatmutató: szakirányú továbbképzésben részt vevő hallgatók száma tárgyév október 30-án (fő) |
 
 | 71 |  | 094130 | Egészségügyi szakmai képzés |
 
-| 72 |  |  | Ide tartozik: - az Eütv. 115. § és 116. §-a által meghatározott, és speciális jellege miatt más funkcióba nem besorolható, egészségügyi ágazati szakmai képzések, melyek célja a képzési fokoknak és szinteknek megfelelő elméleti és gyakorlati szakmai ismeretek nyújtása, szinten tartása és fejlesztése a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően. Idetartoznak különösen az egészségügyi szakirányú szakmai képzéssel, az egészségügyi felsőfokú szakirányú szakmai képzéssel, egészségügyi szakmai továbbképzéssel és az egészségügyi szakirányú szakmai továbbképzéssel összefüggő feladatok. A funkciót csak az ETI, EEKH, az orvostudományi egyetemek, valamint azok az egészségügyi szolgáltatók használhatják, melyek a 2010-ben induló új típusú szakképzés keretében közalkalmazottakat foglalkoztatnak. Feladatmutató: egészségügyi szakmai képzésben részt vevők száma tárgyév október 30-án (fő) |
+| 72 |  |  | Ide tartozik: - az Eütv. 115. § és 116. §-a által meghatározott, és speciális jellege miatt más funkcióba be nem sorolható, egészségügyi ágazati szakmai képzések, melyek célja a képzési fokoknak és szinteknek megfelelő elméleti és gyakorlati szakmai ismeretek nyújtása, szinten tartása és fejlesztése a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően. Idetartoznak különösen az egészségügyi szakirányú szakmai képzéssel, az egészségügyi felsőfokú szakirányú szakmai képzéssel, egészségügyi szakmai továbbképzéssel és az egészségügyi szakirányú szakmai továbbképzéssel összefüggő feladatok. A funkciót csak az Egészségügyi Nyilvántartási és Képzési Központ, az orvostudományi egyetemek, valamint azok az egészségügyi szolgáltatók használhatják, melyek a 2010-ben induló új típusú szakképzés keretében közalkalmazottakat foglalkoztatnak. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét 854162 szakfeladaton el kell számolni. Feladatmutató: egészségügyi szakmai képzésben részt vevők száma tárgyév október 30-án (fő) |
 
 | 73 |  | 094170 | Iskolarendszeren kívüli ISCED 5 szintű OKJ-s képzés |
 
-| 74 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 5 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. |
+| 74 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 5 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 855944 szakfeladaton el kell számolni. |
 
 | 75 | 0942 Felsőfokú oktatás |
 
@@ -1508,7 +1516,7 @@
 
 | 80 |  | 094260 | Hallgatói és oktatói ösztöndíjak, egyéb juttatások |
 
-| 81 |  |  | Ide tartozik: - a kimagasló teljesítményt nyújtó, alap- vagy mesterképzésben részt vevő hallgatóknak az oktatásért felelős miniszter által adományozott ösztöndíjjal (köztársasági ösztöndíj), - a kétoldalú nemzetközi szerződés alapján államilag elismert felsőoktatási intézményben államilag támogatott képzésben részt vevő hallgató részére - az államilag támogatott doktori képzésben részt vevő hallgatót kivéve - az oktatásért felelős miniszter által adományozott ösztöndíjjal (miniszteri ösztöndíjak), - a felsőoktatási intézmény államilag támogatott teljes idejű képzésében részt vevő hallgatóinak akár tanulmányi ösztöndíj, akár intézményi szakmai, tudományos ösztöndíj formájában nyújtott pénzbeli juttatással (tanulmányi ösztöndíj), - a felsőoktatási intézmény államilag támogatott teljes idejű képzésében részt vevő hallgatóinak szociális alapon, akár rendszeres, rendkívüli szociális ösztöndíj formájában, akár Bursa Hungarica Ösztöndíj vagy alaptámogatás formájában nyújtott pénzbeli juttatásával, - az államilag támogatott teljes idejű képzésben részt vevő doktorandusz hallgató pénzbeli juttatásával (doktorandusz ösztöndíj), - minden egyéb, a hallgatóknak hallgatói jogviszonyukra tekintettel nyújtott pénzbeli juttatásával (intézményi ösztöndíjak, nemzetközi ösztöndíjak), valamint - a felsőoktatási intézmény oktatóinak oktatási, oktatásfejlesztési tevékenységére tekintettel kifizetett ösztöndíj jellegű pénzbeli juttatásával összefüggő kifizetések teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. |
+| 81 |  |  | Ide tartozik: - a kimagasló teljesítményt nyújtó, alap- vagy mesterképzésben részt vevő hallgatóknak az oktatásért felelős miniszter által adományozott ösztöndíjjal (köztársasági ösztöndíj), - a kétoldalú nemzetközi szerződés alapján államilag elismert felsőoktatási intézményben államilag támogatott képzésben részt vevő hallgató részére - az államilag támogatott doktori képzésben részt vevő hallgatót kivéve - az oktatásért felelős miniszter által adományozott ösztöndíjjal (miniszteri ösztöndíjak), - a felsőoktatási intézmény államilag támogatott teljes idejű képzésében részt vevő hallgatóinak akár tanulmányi ösztöndíj, akár intézményi szakmai, tudományos ösztöndíj formájában nyújtott pénzbeli juttatással (tanulmányi ösztöndíj), - a felsőoktatási intézmény államilag támogatott teljes idejű képzésében részt vevő hallgatóinak szociális alapon, akár rendszeres, rendkívüli szociális ösztöndíj formájában, akár Bursa Hungarica Ösztöndíj vagy alaptámogatás formájában nyújtott pénzbeli juttatásával, - az államilag támogatott teljes idejű képzésben részt vevő doktorandusz hallgató pénzbeli juttatásával (doktorandusz ösztöndíj), - egyéb, a hallgatóknak hallgatói jogviszonyukra tekintettel nyújtott pénzbeli juttatásával (intézményi ösztöndíjak, nemzetközi ösztöndíjak), valamint - a felsőoktatási intézmény oktatóinak oktatási, oktatásfejlesztési tevékenységére tekintettel kifizetett ösztöndíj jellegű pénzbeli juttatásával összefüggő kifizetések teljesítése. Támogatási típusú funkció, az alapító okiratban alaptevékenységként nem szerepelhet. |
 
 | 82 |  |  |
 
@@ -1520,7 +1528,7 @@
 
 | 86 |  | 094290 | Iskolarendszeren kívüli ISCED 6 szintű OKJ-s képzés |
 
-| 87 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 6 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. |
+| 87 |  |  | Ide tartozik: - az iskolarendszeren kívül szervezett, ISCED 6 szintű OKJ-s bizonyítványt adó képzésekkel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 855945 szakfeladaton el kell számolni. |
 
 | 88 | 0950 Szint alapján nem meghatározható oktatási szolgáltatások |
 
@@ -1556,7 +1564,7 @@
 
 | 104 |  | 096040 | Köznevelési intézményben tanulók kollégiumi, externátusi nevelése |
 
-| 105 |  |  | Ide tartozik: - a köznevelési intézményben tanulók kollégiumi, externátusi nevelésével összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a köznevelési intézményben tanulók kollégiumi elhelyezése, étkeztetése (096030). |
+| 105 |  |  | Ide tartozik: - a köznevelési intézményben tanulók kollégiumi, externátusi nevelésével összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - a köznevelési intézményben tanulók kollégiumi elhelyezése és étkeztetése (096030 vagy 096015 funkciók). |
 
 | 106 | 0970 Oktatáshoz kapcsolódó K+F |
 
@@ -1572,11 +1580,19 @@
 
 | 112 |  | 098021 | Pedagógiai szakszolgáltató tevékenység szakmai feladatai |
 
-| 113 |  |  | Ide tartozik: - a pedagógiai szakszolgálat köznevelési törvény szerinti szakmai feladatainak ellátása. |
+| 113 |  |  | Ide tartozik: - a pedagógiai szakszolgálat által ellátott, a nemzeti köznevelésről szóló törvény szerinti szakértői bizottsági tevékenység, a nevelési tanácsadás, a logopédiai ellátás, a továbbtanulási, pályaválasztási tanácsadás, a konduktív pedagógiai ellátás, a gyógytestnevelés, az iskolapszichológiai, óvodapszichológiai ellátás, a kiemelten tehetséges gyermekek, tanulók gondozásával kapcsolatos szakmai feladatainak ellátása Nem ebbe a funkcióba tartozik: - korai fejlesztés és fejlesztő nevelés tevékenység szakmai feladatai (098023). |
 
 | 114 |  | 098022 | Pedagógiai szakszolgáltató tevékenység működtetési feladatai |
 
-| 115 |  |  | Ide tartozik: - a pedagógiai szakszolgálat köznevelési törvény szerinti működtetési feladatainak ellátása. |
+| 115 |  |  | Ide tartozik: - a pedagógiai szakszolgálat által ellátott, a nemzeti köznevelésről szóló törvény szerinti szakértői bizottsági tevékenység, a nevelési tanácsadás, a logopédiai ellátás, a továbbtanulási, pályaválasztási tanácsadás, a konduktív pedagógiai ellátás, a gyógytestnevelés, az iskolapszichológiai, óvodapszichológiai ellátás, a kiemelten tehetséges gyermekek, tanulók gondozásával kapcsolatos működtetési feladatainak ellátása. Nem ebbe a funkcióba tartozik: - korai fejlesztés és fejlesztő nevelés tevékenység működtetési feladatai (098024). |
+
+| 115a |  | 098023 Korai fejlesztés és fejlesztő nevelés tevékenység szakmai feladatai |
+
+| 115b |  |  | Ide tartozik: - a gyógypedagógiai tanácsadás, korai fejlesztés, oktatás, gondozás és a fejlesztő nevelés szakmai feladatainak ellátása. |
+
+| 115c |  | 098024 Korai fejlesztés és fejlesztő nevelés tevékenység működtetési feladatai |
+
+| 115d |  |  | Ide tartozik: - a gyógypedagógiai tanácsadás, korai fejlesztés, oktatás, gondozás és a fejlesztő nevelés működtetési feladatainak ellátása. |
 
 | 116 |  | 098031 | Pedagógiai szakmai szolgáltatások szakmai feladatai |
 
@@ -1598,11 +1614,11 @@
 
 | 2 |  | 101110 | Bentlakásos, nem kórházi ellátás, ápolás |
 
-| 3 |  |  | Ide tartozik: - az idősek otthonában ápolással, az utógondozással, lábadozó beteg intézeti ápolásával, szeretetotthoni ellátással, ápolással, bentlakásos ápolással összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - az egészségügyi szintű házi ápolás, - ellátás idősek otthonában ápolás nélkül vagy minimális ápolási ellátással. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+| 3 |  |  | Ide tartozik: - az idősek otthonában ápolással, az utógondozással, lábadozó beteg intézeti ápolásával, szeretetotthoni ellátással, ápolással, bentlakásos ápolással összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - az egészségügyi szintű házi ápolás, - ellátás idősek otthonában ápolás nélkül vagy minimális ápolási ellátással, - a pszichiátriai beteg bentlakásos ellátásai (101121, 101123 és 101125 funkciók) - a szenvedélybetegek bentlakásos ellátásai (101122, 101124 és 101126 funkciók). Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
 | 4 |  | 101121 | Pszichiátriai betegek tartós bentlakásos ellátása |
 
-| 5 |  |  | Ide tartozik: - az egészségi állapota, valamint szociális helyzete miatt önmaga ellátására segítséggel sem képes, nem veszélyeztető állapotú, akut gyógyintézeti kezelést nem igénylő krónikus pszichiátriai beteg tartós bentlakásos ellátásával, annak támogatásával, valamint - az önellátásra legalább részben képes pszichiátriai beteg gondozási terv és egyéni fejlesztés alapján 8-12/14 főt befogadó lakóotthonban történő, életkorának, egészségi állapotának és önellátási képességének megfelelő mértékű ellátásával, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 872001 és 872003 szakfeladatokon el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+| 5 |  |  | Ide tartozik: - az egészségi állapota, valamint szociális helyzete miatt önmaga ellátására segítséggel sem képes, nem veszélyeztető állapotú, akut gyógyintézeti kezelést nem igénylő krónikus pszichiátriai beteg tartós bentlakásos ellátásával, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 872001 szakfeladatokon el kell számolni. Nem ebbe a funkcióba tartozik: - a pszichiátriai betegek lakóotthoni ellátása (101125) Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
 | 6 |  | 101122 | Szenvedélybetegek tartós bentlakásos ellátása |
 
@@ -1610,11 +1626,19 @@
 
 | 8 |  | 101123 | Pszichiátriai betegek rehabilitációs célú bentlakásos ellátása |
 
-| 9 |  |  | Ide tartozik: - a rendszeres vagy akut gyógyintézeti kezelésre nem szoruló, 18. életévét betöltött pszichiátriai beteg önálló életvezetési képessége kialakítását, illetve helyreállítását szolgáló bentlakásos rehabilitációs ellátásával, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 872005 szakfeladaton el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+| 9 |  |  | Ide tartozik: - a rendszeres vagy akut gyógyintézeti kezelésre nem szoruló, 18. életévét betöltött pszichiátriai beteg önálló életvezetési képessége kialakítását, illetve helyreállítását szolgáló bentlakásos rehabilitációs ellátásával, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 872005 szakfeladaton el kell számolni. Nem ebbe a funkcióba tartozik: - pszichiátriai betegek rehabilitációs célú lakóotthonban történő ellátása (101125) Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
 | 10 |  | 101124 | Szenvedélybetegek rehabilitációs célú bentlakásos ellátása |
 
 | 11 |  |  | Ide tartozik: - a rendszeres vagy akut gyógyintézeti kezelésre nem szoruló, 16. életévét betöltött szenvedélybeteg önálló életvezetési képesség kialakítását, illetve helyreállítását szolgáló bentlakásos rehabilitációs ellátásával, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 872006 szakfeladaton el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+
+| 11a |  | 101125 Pszichiátriai betegek rehabilitációs lakóotthoni ellátása |
+
+| 11b |  |  | Ide tartozik: - a rendszeres vagy akut gyógyintézeti kezelésre nem szoruló, 18. életévét betöltött pszichiátriai beteg önálló életvezetési képessége kialakítását, illetve helyreállítását szolgáló lakóotthoni rehabilitációs ellátásával kapcsolatos feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 872003 szakfeladaton el kell számolni. Nem ebbe a funkcióba tartozik: - pszichiátriai betegek rehabilitációs célú bentlakása ellátása (101123). Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+
+| 11c |  | 101126 Szenvedélybetegek rehabilitációs lakóotthoni ellátása |
+
+| 11d |  |  | Ide tartozik: - a rendszeres vagy akut gyógyintézeti kezelésre nem szoruló, 16. életévét betöltött szenvedély-beteg önálló életvezetési képesség kialakítását, illetve helyreállítását szolgáló lakóotthoni rehabilitációs ellátásával kapcsolatos feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 872004 szakfeladaton el kell számolni. Nem ebbe a funkcióba tartozik: - a szenvedélybetegek rehabilitációs célú bentlakásos ellátása (101124). Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
 | 12 |  | 101131 | Pszichiátriai betegek átmeneti ellátása |
 
@@ -1660,11 +1684,11 @@
 
 | 33 |  | 101211 | Fogyatékossággal élők tartós bentlakásos ellátása |
 
-| 34 |  |  | Ide tartozik: - a kiskorú és felnőtt fogyatékos személyek (akiknek oktatására, képzésére, foglalkoztatására, gondozására csak intézményi keretek között van lehetőség) tartós bentlakásos ellátásával, ezek támogatásával, valamint - az önellátásra legalább részben képes fogyatékos személy egyéni fejlesztési eredmények alapján, 8-12/14 főt befogadó lakóotthonban történő, teljes körű ellátásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873021 és 873022 szakfeladatokon el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+| 34 |  |  | Ide tartozik: - a kiskorú és felnőtt fogyatékos személyek (akiknek oktatására, képzésére, foglalkoztatására, gondozására csak intézményi keretek között van lehetőség) tartós bentlakásos ellátásával, ezek támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873021 szakfeladatokon el kell számolni. Nem ebbe a funkcióba tartozik: - fogyatékossággal élők ápoló-gondozó lakóotthoni ellátása (101216) Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
 | 35 |  | 101212 | Fogyatékossággal élők rehabilitációs célú bentlakásos ellátása |
 
-| 36 |  |  | Ide tartozik: - az önellátásra legalább részben képes fogyatékos személy gondozási terv és egyéni fejlesztés alapján 8-12/14 főt befogadó lakóotthonban az önálló életvitel megteremtése érdekében történő, életkorának, egészségi állapotának és önellátási képességének megfelelő mértékű ellátásával, - a rendszeres vagy akut gyógyintézeti kezelésre nem szoruló, fogyatékos, valamint mozgás-, illetve látássérült személy önálló életvezetési képesség kialakítását, illetve helyreállítását szolgáló rehabilitációs ellátásával, valamint - a rehabilitációs intézményekhez kapcsolódó utógondozással és ezek támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873023–873024 és 873029 szakfeladatokon el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+| 36 |  |  | Ide tartozik: - a rendszeres vagy akut gyógyintézeti kezelésre nem szoruló, fogyatékos, valamint mozgás-, illetve látássérült személy önálló életvezetési képesség kialakítását, illetve helyreállítását szolgáló rehabilitációs ellátásával, valamint - a rehabilitációs intézményekhez kapcsolódó utógondozással és ezek támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873024 és 873029 szakfeladatokon el kell számolni. Nem ebbe a funkcióba tartozik: - fogyatékos személyek rehabilitációs célú lakóotthoni ellátása Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
 | 37 |  | 101213 | Fogyatékossággal élők átmeneti ellátása |
 
@@ -1673,6 +1697,14 @@
 | 39 |  | 101214 | Támogatott lakhatás fogyatékos személyek részére |
 
 | 40 |  |  | Ide tartozik: - a fogyatékossággal élők szociális törvényben meghatározott lakhatási szolgáltatást, esetvitelt és kísérő támogatást magában foglaló támogatott lakhatás ellátásával, ezek támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873028 szakfeladaton el kell számolni. Feladatmutató: ellátási napok száma a tárgyévben (ellátási nap) |
+
+| 40a |  | 101215 | Fogyatékossággal élők ápoló-gondozó lakóotthoni ellátása |
+
+| 40b |  |  | Ide tartozik: - az önellátásra legalább részben képes fogyatékos személy egyéni fejlesztési eredmények alapján, 8-12/14 főt befogadó lakóotthonban történő, teljes körű ellátásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873022 szakfeladaton el kell számolni. Nem ebbe a funkcióba tartozik: - fogyatékossággal élők rehabilitációs célú lakóotthoni ellátása (101216). Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+
+| 40c |  | 101216 | Fogyatékossággal élők rehabilitációs célú lakóotthoni ellátása |
+
+| 40d |  |  | Ide tartozik: - az önellátásra legalább részben képes fogyatékos személy gondozási terv és egyéni fejlesztés alapján 8-12/14 főt befogadó lakóotthonban az önálló életvitel megteremtése érdekében történő, életkorának, egészségi állapotának és önellátási képességének megfelelő mértékű ellátásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873023 szakfeladaton kell elszámolni. Nem ebbe a funkcióba tartozik: - fogyatékossággal élők ápoló-gondozó lakóotthoni ellátása (101215). Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
 | 41 |  | 101221 | Fogyatékossággal élők nappali ellátása |
 
@@ -1696,25 +1728,37 @@
 
 | 51 |  | 101270 | Fogyatékossággal élők társadalmi integrációját és életminőségét segítő programok, támogatások |
 
-| 52 |  |  | Ide tartozik: - az épületek, utak, közterek és az épített környezet minden egyéb elemének, valamint a tömegközlekedési eszközöknek a fogyatékos vagy mozgásában egyéb okból akadályozott emberek számára történő akadálymentesítésével; - a közszolgáltatások és minden egyéb szolgáltatás egyenlő esélyű hozzáférésének megteremtéséhez szükséges - elsősorban a látás-, hallás- és értelmi fogyatékos emberek speciális igényeit kielégítő -, közlekedést, tájékozódást, információszerzést, kommunikációt, megértést segítő fejlesztésekkel, képzésekkel, átalakításokkal; - a fogyatékos emberek esélyegyenlőségének előmozdítását célzó tevékenységgel, szolgáltatással, a fogyatékos emberek önálló életvitelével, a kultúrához, sporthoz, szabadidős tevékenységekhez való hozzáférése érdekében megvalósított szolgáltatásokkal; valamint - a fogyatékos emberek társadalmi integrációja érdekében megvalósított szemléletformálást célzó programokkal, kampányokkal, integrált rendezvények, egyéb integrált programok lebonyolításával, a fogyatékos emberek integrált oktatásához, képzéséhez szükséges feltételek megteremtésével összefüggő feladatok ellátása, kifizetések teljesítése. |
+| 52 |  |  | Ide tartozik: - az épületek, utak, közterek és az épített környezet egyéb elemének, valamint a tömegközlekedési eszközöknek a fogyatékos vagy mozgásában egyéb okból akadályozott emberek számára történő akadálymentesítésével; - a közszolgáltatások és egyéb szolgáltatás egyenlő esélyű hozzáférésének megteremtéséhez szükséges - elsősorban a látás-, hallás- és értelmi fogyatékos emberek speciális igényeit kielégítő -, közlekedést, tájékozódást, információszerzést, kommunikációt, megértést segítő fejlesztésekkel, képzésekkel, átalakításokkal; - a fogyatékos emberek esélyegyenlőségének előmozdítását célzó tevékenységgel, szolgáltatással, a fogyatékos emberek önálló életvitelével, a kultúrához, sporthoz, szabadidős tevékenységekhez való hozzáférése érdekében megvalósított szolgáltatásokkal; valamint - a fogyatékos emberek társadalmi integrációja érdekében megvalósított szemléletformálást célzó programokkal, kampányokkal, integrált rendezvények, egyéb integrált programok lebonyolításával, a fogyatékos emberek integrált oktatásához, képzéséhez szükséges feltételek megteremtésével összefüggő feladatok ellátása, kifizetések teljesítése. |
 
-| 53 | 1020 Időskor |
+| 53 | 1020 Időskor, demens betegek |
 
 | 54 |  | 102010 | Nyugdíjbiztosítási szolgáltatások igazgatása |
 
 | 55 |  |  | Ide tartozik: - a nyugdíjbiztosítási szolgáltatásokkal kapcsolatos ügyek igazgatásával összefüggő feladatok ellátása. Nem ebbe a funkcióba tartozik: - az nyugdíjbiztosítási szolgáltatásokkal kapcsolatos ügyek szabályozási feladatainak ellátása (minisztérium: 011120). |
 
-| 56 |  | 102021 | Időskorúak, demens betegek tartós bentlakásos ellátása |
+| 56 |  | 102023 | Időskorúak tartós bentlakásos ellátása |
 
-| 57 |  |  | Ide tartozik: - az az egészségi állapota, valamint szociális helyzete miatt önmaga ellátására nem, vagy csak folyamatos segítséggel képes, napi 4 órát meghaladó, vagy jogszabályban meghatározott egyéb körülményeken alapuló gondozási szükséglettel bíró, de rendszeres fekvőbeteg-gyógyintézeti kezelést nem igénylő, öregségi nyugdíjkorhatárt betöltött személy tartós ellátásával, támogatásával, valamint - a demens beteg (az a személy, akinél jogszabályban meghatározott szerv a demencia körébe tartozó középsúlyos vagy súlyos kórképet állapított meg) külön gondozási egységben vagy csoportban történő tartós bentlakásos ellátásával, támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873011 és 873013 szakfeladatokon el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+| 57 |  |  | Ide tartozik: - az az egészségi állapota, valamint szociális helyzete miatt önmaga ellátására nem, vagy csak folyamatos segítséggel képes, napi 4 órát meghaladó, vagy jogszabályban meghatározott egyéb körülményeken alapuló gondozási szükséglettel bíró, de rendszeres fekvőbeteg-gyógyintézeti kezelést nem igénylő, öregségi nyugdíjkorhatárt betöltött személy tartós ellátásával, támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873011 szakfeladaton kell elszámolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
-| 58 |  | 102022 | Időskorúak, demens betegek átmeneti ellátása |
+| 58 |  | 102024 | Demens betegek tartós bentlakásos ellátása |
 
-| 59 |  |  | Ide tartozik: - az önmagukról betegségük miatt vagy más okból otthonukban időlegesen gondoskodni nem képes időskorúak legfeljebb egyévi időtartamú, átmeneti jellegű teljes körű ellátásával, támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873012 szakfeladatokon el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+| 59 |  |  | Ide tartozik: - a demens beteg (az a személy, akinél jogszabályban meghatározott szerv a demencia körébe tartozó középsúlyos vagy súlyos kórképet állapított meg) külön gondozási egységben vagy csoportban történő tartós bentlakásos ellátásával, támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873013 szakfeladatokon kell elszámolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
-| 60 |  | 102030 | Idősek, demens betegek nappali ellátása |
+| 59a |  | 102025 | Időskorúak átmeneti ellátása |
 
-| 61 |  |  | Ide tartozik: - a saját otthonukban élő, idős koruk vagy demenciájuk miatt szociális és mentális támogatásra szoruló, önmagukról való gondoskodásra részben képes személyek intézményi napközbeni ellátásával, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 881011–881012 szakfeladatokon el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 59b |  |  | Ide tartozik: - az önmagukról betegségük miatt vagy más okból otthonukban időlegesen gondoskodni nem képes időskorúak legfeljebb egyévi időtartamú, átmeneti jellegű teljes körű ellátásával, támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873012 szakfeladatot kell elszámolni. Nem ebbe a funkcióba tartozik: - demens betegek átmenteti ellátása (102024) Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+
+| 59c |  | 102026 | Demens betegek átmeneti ellátása |
+
+| 59d |  |  | Ide tartozik: - az önmagukról betegségük miatt otthonukban időlegesen gondoskodni nem képes demens személyek legfeljebb egyévi időtartamú, átmeneti jellegű teljes körű ellátásával, támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 873014 szakfeladatot kell elszámolni. Nem ebbe a funkcióba tartozik: - időskorú személyek átmeneti ellátása (102023). Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+
+| 60 |  | 102031 | Idősek nappali ellátása |
+
+| 61 |  |  | Ide tartozik: - a saját otthonukban élő, idős koruk miatt szociális és mentális támogatásra szoruló, önmagukról való gondoskodásra részben képes személyek intézményi napközbeni ellátásával, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 881011 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+
+| 61a |  | 102032 | Demens betegek nappali ellátása |
+
+| 61b |  |  | Ide tartozik: - a demenciájuk miatt szociális és mentális támogatásra szoruló, önmagukról való gondoskodásra részben képes személyek intézményi napközbeni ellátásával, annak támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 881012 szakfeladaton kell elszámolni. |
 
 | 62 |  | 102040 | Időskorral összefüggő pénzbeli ellátások |
 
@@ -1734,11 +1778,15 @@
 
 | 70 |  | 104011 | Gyermekvédelmi bentlakásos ellátások |
 
-| 71 |  |  | Ide tartozik: - a bentlakásos (hetes) bölcsődében elhelyezettek ellátásával, - a gyermekotthonban, a lakásotthonban és a gyermekotthon speciális csoportjában elhelyezettek, valamint a gyermekotthon, lakásotthon külső férőhelyén elhelyezettek ellátásával, - a speciális gyermekotthonban, speciális lakásotthonban elhelyezettek, valamint a speciális gyermekotthon, speciális lakásotthon külső férőhelyén elhelyezettek ellátásával, - a különleges gyermekotthonban, különleges lakásotthonban elhelyezettek, valamint a különleges gyermekotthon, különleges lakásotthon külső férőhelyén elhelyezettek ellátásával, - az utógondozó otthonban, valamint az utógondozó otthon külső férőhelyén elhelyezettek ellátásával, - a nevelőszülőnél, valamint a nevelőszülői hálózat külső férőhelyén elhelyezettek ellátásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 879011–879016 szakfeladatokon el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+| 71 |  |  | Ide tartozik: - a bentlakásos (hetes) bölcsődében elhelyezettek ellátásával, - a gyermekotthonban, a lakásotthonban és a gyermekotthon speciális csoportjában elhelyezettek, valamint a gyermekotthon, lakásotthon külső férőhelyén elhelyezettek ellátásával, - a speciális gyermekotthonban, speciális lakásotthonban elhelyezettek, valamint a speciális gyermekotthon, speciális lakásotthon külső férőhelyén elhelyezettek ellátásával, - a különleges gyermekotthonban, különleges lakásotthonban elhelyezettek, valamint a különleges gyermekotthon, különleges lakásotthon külső férőhelyén elhelyezettek ellátásával, - az utógondozó otthonban, valamint az utógondozó otthon külső férőhelyén elhelyezettek ellátásával5összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 879011-879015 szakfeladatokon kell elszámolni. Nem ebbe a funkcióba tartozik: - nevelőszülőknél elhelyezettek ellátása (104013). Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
 | 72 |  | 104012 | Gyermekek átmeneti ellátása |
 
 | 73 |  |  | Ide tartozik: - a helyettes szülőnél elhelyezettek ellátásával, - a gyermekek átmeneti otthonában elhelyezettek ellátásával, valamint - a családok átmeneti otthonában elhelyezettek ellátásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 879017–879019 szakfeladatokon el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
+
+| 73a |  | 104013 | Nevelőszülőnél elhelyezettek ellátása |
+
+| 73b |  |  | Ide tartozik: - a nevelőszülőnél, valamint nevelőszülői hálózat külső férőhelyén elhelyezett gyermekek ellátásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 879016 szakfeladatokon el kell számolni. Feladatmutató: gondozási napok száma a tárgyévben (gondozási nap) |
 
 | 74 |  | 104020 | Javítóintézeti ellátás |
 
@@ -1746,23 +1794,39 @@
 
 | 76 |  | 104030 | Gyermekek napközbeni ellátása |
 
-| 77 |  |  | Ide tartozik: - a bölcsődei ellátással, a családi napközibe felvettek ellátásával, a házi gyermekfelügyeletben részesülők ellátásával, a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal, valamint - a bölcsőde és a családi napközi alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: - a bölcsődei gyermekétkeztetéssel kapcsolatos f eladatok bevételeit és kiadásait. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében 889101-889102 szakfeladatokon el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 77 |  |  | Ide tartozik: - a családi napközibe felvettek ellátásával, a házi gyermekfelügyeletben részesülők ellátásával, a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal, valamint - a családi napközi alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: - a bölcsődei ellátásokkal kapcsolatos feladatok ellátását (104031) - a gyermekétkeztetéssel kapcsolatos feladatok bevételeit és kiadásait. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében 889102 szakfeladatokon kell elszámolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
-| 77/A |  | 104035 | Gyermekétkeztetés bölcsődésben, fogyatékosok nappali intézményében |
+| 77a |  | 104031 | Gyermekek bölcsődei ellátása |
 
-| 77/B |  |  | Ide tartozik: - a bölcsődei ellátottak és a fogyatékosok nappali intézményében elhelyezett gyermekek részére nyújtott gyermekétkeztetéssel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889103 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 77b |  |  | Ide tartozik: - a bölcsődei feladatok ellátásával, valamint - a bölcsőde alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: - a bölcsődei gyermekétkeztetéssel kapcsolatos feladatok bevételeit és kiadásait (104035). Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében 889101 szakfeladatokon kell elszámolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
-| 77/C |  | 104036 | Munkahelyi étkeztetés bölcsődében |
+| 77c |  | 104035 | Gyermekétkeztetés bölcsődésben, fogyatékosok nappali intézményében |
 
-| 77/D |  |  | Ide tartozik: - a bölcsődei ellátással, a családi napközibe felvettek ellátásával, a házi gyermekfelügyeletben részesülők ellátásával, a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal, valamint - a bölcsőde és a családi napközi alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562917 szakfeladaton el kell számolni. |
+| 77d |  |  | Ide tartozik: - a bölcsődei ellátottak és a fogyatékosok nappali intézményében elhelyezett gyermekek részére nyújtott gyermekétkeztetéssel összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889103 szakfeladaton kell elszámolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+
+| 77e |  | 104036 Munkahelyi étkeztetés bölcsődében |
+
+| 77f |  |  | Ide tartozik: - a bölcsődei ellátással, a családi napközibe felvettek ellátásával, a házi gyermekfelügyeletben részesülők ellátásával, a Gyvt. hatálya alá tartozó alternatív napközbeni ellátásokkal, valamint - a bölcsőde és a családi napközi alapellátáson túl nyújtott szolgáltatásaival, így az időszakos gyermekfelügyelettel, a játszóházzal, baba-mama klubbal, játékkölcsönzéssel, speciális tanácsadással vagy más gyermeknevelő szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562917 szakfeladaton kell elszámolni. |
+
+| 77g |  | 104037 Intézményen kívüli gyermekétkeztetés |
+
+| 77h |  |  | Ide tartozik: - a rászoruló gyermekek intézményen kívüli szünidei étkeztetésének biztosításával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az 562918 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
 | 78 |  | 104041 | Területi gyermekvédelmi szakszolgáltatás |
 
 | 79 |  |  | Ide tartozik: - a Gyvt.-ben meghatározott a területi gyermekvédelmi szakszolgáltatással összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében a 889206 szakfeladaton el kell számolni. |
 
-| 80 |  | 104042 | Gyermekjóléti szolgáltatások |
+| 80 |  | 104042 | Család- és gyermekjóléti szolgáltatások |
 
-| 81 |  |  | Ide tartozik: - a Gyvt.-ben meghatározott gyermekjóléti szolgáltatással, a Biztos Kezdet Gyerekház szolgáltatással, a gyermekjóléti központ keretében végzett kórházi szociális munkával, utcai, lakótelepi szociális munkával, a kapcsolattartási ügyelettel, a gyermekjóléti szolgálat által végzett iskolai szociális munkával összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében a 889201–889205 és a 889207 szakfeladatokon el kell számolni. |
+| 81 |  |  | Ide tartozik: - a Gyvt. -ben a család- és gyermekjóléti szolgálat alcím alatt meghatározott gyermekjóléti szolgáltatási feladatok, valamint a családsegítés Szt. szerinti feladatok ellátás összefüggő feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében a 889201-889205 és 889924 szakfeladatokon kell elszámolni. Nem ebbe a funkcióba tartozik: - biztos kezdet gyerekházhoz kapcsolódó tevékenységek (104044). |
+
+| 81a |  | 104043 | Család és gyermekjóléti központ |
+
+| 81b |  |  | Ide tartozik: - a Gyvt.-ben a család-és gyermekjóléti központ alcím alatt meghatározott, a Gyvt. és Szt. szerinti általános szolgáltatási feladatokon túlmenő, a járás egészére vonatkozó feladatok ellátása. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az ott meghatározott tevékenységek tekintetében a 889201-889205 és 889924 szakfeladatokon el kell számolni. Nem ebbe a funkcióba tartozik: - a biztos kezdet gyerekházhoz kapcsolódó feladatok ellátása (104044) - a központ által ellátott általános család és gyermekjóléti szolgáltatások (104042) |
+
+| 81c |  | 104044 | Biztos Kezdet Gyerekház |
+
+| 81d |  |  | Ide tartozik: - a Gyvt. által meghatározott Biztos Kezdet Gyerekház szolgáltatásokkal kapcsolatos feladatok ellátása, kifizetések teljesítése. Nem itt kell elszámolni: - a gyermekjóléti szolgáltatásokhoz kapcsolódó feladatokat (104042 és 104043). Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889207 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
 | 82 |  | 104051 | Gyermekvédelmi pénzbeli és természetbeni ellátások |
 
@@ -1814,9 +1878,9 @@
 
 | 106 |  |  | Ide tartozik: - az életvitelszerű szálláshasználat és szociális munka segítségével önellátásra képes hajléktalan személy átmeneti szálláson történő ellátásával, valamint - az önellátásra és a közösségi együttélés szabályainak betartására képes hajléktalan személy éjszakai pihenését lehetővé tevő, valamint krízishelyzetben szállást biztosító szolgáltatással és azok támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 879033–879034 szakfeladatokon el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
-| 107 |  | 107014 | Támogatott lakhatás hajléktalan személyek részére |
+| 107 |  |  |
 
-| 108 |  |  | Ide tartozik: - a hajléktalan személyek szociális törvényben meghatározott lakhatási szolgáltatást, esetvitelt és kísérő támogatást magában foglaló támogatott lakhatás ellátásával, ezek támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 879036 szakfeladatokon el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 108 |  |  |  |
 
 | 109 |  | 107015 | Hajléktalanok nappali ellátása |
 
@@ -1840,19 +1904,19 @@
 
 | 119 |  | 107052 | Házi segítségnyújtás |
 
-| 120 |  |  | Ide tartozik: - a legfeljebb napi 4 órás gondozási igényű személy részére nyújtott, alapvető gondozási, ápolási feladatokat, önálló életvitel fenntartásában, az ellátott és lakókörnyezete higiéniás körülményeinek megtartásában való közreműködést, a vészhelyzetek kialakulásának megelőzésében, illetve azok elhárításában való segítségnyújtást magában foglaló házi segítségnyújtással összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 120 |  |  | Ide tartozik: - a legfeljebb napi 4 órás gondozási igényű személy részére nyújtott, alapvető gondozási, ápolási feladatokat, önálló életvitel fenntartásában, az ellátott és lakókörnyezete higiéniás körülményeinek megtartásában való közreműködést, a vészhelyzetek kialakulásának megelőzésében, illetve azok elhárításában való segítségnyújtást magában foglaló házi segítségnyújtással összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889922 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
 | 121 |  | 107053 | Jelzőrendszeres házi segítségnyújtás |
 
-| 122 |  |  | Ide tartozik: - a saját otthonukban élő, egészségi állapotuk és szociális helyzetük miatt rászoruló, segélyhívó készülék megfelelő használatára képes személyek részére az önálló életvitel fenntartása mellett felmerülő krízishelyzetek elhárítása céljából nyújtott ellátással összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 122 |  |  | Ide tartozik: - a saját otthonukban élő, egészségi állapotuk és szociális helyzetük miatt rászoruló, segélyhívó készülék megfelelő használatára képes személyek részére az önálló életvitel fenntartása mellett felmerülő krízishelyzetek elhárítása céljából nyújtott ellátással összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889923 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
-| 123 |  | 107054 | Családsegítés |
+| 123 |  |  |
 
-| 124 |  |  | Ide tartozik: - a szociális vagy mentálhigiénés problémák, illetve egyéb krízishelyzet miatt segítségre szoruló személyek és családok számára az ilyen helyzethez vezető okok, a krízishelyzet megszüntetése, valamint az életvezetési képesség megőrzése céljából nyújtott szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 124 |  |  |  |
 
 | 125 |  | 107055 | Falugondnoki, tanyagondnoki szolgáltatás |
 
-| 126 |  |  | Ide tartozik: - az aprófalvak és a külterületi vagy egyéb belterületi, valamint a tanyasi lakott helyek intézményhiányából eredő hátrányainak enyhítése, az alapvető szükségletek kielégítését segítő szolgáltatásokhoz, közszolgáltatáshoz, valamint egyes alapszolgáltatásokhoz való hozzájutás biztosítása, továbbá az egyéni, közösségi szintű szükségletek teljesítésének céljából jogszabályban meghatározott feltételekkel működtetett falugondnoki, illetve tanyagondnoki szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 126 |  |  | Ide tartozik: - az aprófalvak és a külterületi vagy egyéb belterületi, valamint a tanyasi lakott helyek intézményhiányából eredő hátrányainak enyhítése, az alapvető szükségletek kielégítését segítő szolgáltatásokhoz, közszolgáltatáshoz, valamint egyes alapszolgáltatásokhoz való hozzájutás biztosítása, továbbá az egyéni, közösségi szintű szükségletek teljesítésének céljából jogszabályban meghatározott feltételekkel működtetett falugondnoki, illetve tanyagondnoki szolgáltatással összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889928 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
 | 127 |  | 107060 | Egyéb szociális pénzbeli és természetbeni ellátások, támogatások |
 
@@ -1886,6 +1950,10 @@
 
 | 142 |  |  | Ide tartozik: - a szociális szolgáltatások módszertani szakirányításával, fejlesztésével összefüggő feladatok ellátása: = új szolgáltatási, oktatási és más szakmai módszerek kialakítása; = a szakterülethez kapcsolódó módszertani tevékenység koordinálása és fejlesztése, = a fenti területeken alkalmazott jó gyakorlatok gyűjtése, közreadása, = szakmaközi kapcsolatok erősítése érdekében tapasztalatcsere, munkacsoportok szervezése; = a szakterülethez kapcsolódó standardok, protokollok, irányelvek kidolgozásának összefogása; = módszertani kiadványok, szakmai könyvek, szakfolyóiratok, segédanyagok, hang- és videóanyagok készítése, véleményezése, lektorálása, szerkesztése, kiadása és terjesztése; = modellprogramok fejlesztése, szakmai segítség nyújtása pályázatok szempontrendszerének kidolgozásában, értékelésében és monitorozásában. |
 
+| 142a |  | 109030 Természetes személyek adósságrendezésével kapcsolatos feladatok |
+
+| 142b |  |  | Ide tartozik: - a természetes személyek adósságrendezésével összefüggő feladatok ellátása, kifizetések teljesítése. |
+
 | 143 |  | 109070 | Nemzetközi humanitárius segítségnyújtás |
 
 | 144 |  |  | Ide tartozik: - az ENSZ-alapokmányban rögzített alapelvekkel és az EU-tagsággal összhangban, sürgősségi jelleggel, különösen természeti csapások, fegyveres konfliktusok esetén, illetve a strukturális humanitárius válság okozta károk, szenvedések enyhítésére nyújtott segítséggel, támogatással összefüggő feladatok ellátása, kifizetések teljesítése. |
@@ -1898,11 +1966,11 @@
 
 | 2 |  | 900010 | Központi költségvetés funkcióra nem sorolható bevételei államháztartáson kívülről |
 
-| 3 |  |  | Ide tartozik: - a központi költségvetés előirányzatainak államháztartáson kívülről származó, funkcióba nem sorolható bevételei elszámolása. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Nem ebbe a funkcióba tartozik: - a központi előirányzatok államháztartáson belülről származó bevételeinek elszámolása. |
+| 3 |  |  | Ide tartozik: - a központi költségvetés előirányzatainak államháztartáson kívülről származó, funkcióba nem sorolható bevételei elszámolása. Ezen funkción kizárólag a központi költségvetést megillető adóbevételeket, járulékokat lehet elszámolni, illetve az azokhoz kapcsolódó visszafizetési kötelezettségeket. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Nem ebbe a funkcióba tartozik: - a központi előirányzatok államháztartáson belülről származó bevételeinek elszámolása. |
 
 | 4 |  | 900020 | Önkormányzatok funkcióra nem sorolható bevételei államháztartáson kívülről |
 
-| 5 |  |  | Ide tartozik: - az önkormányzatok államháztartáson kívülről származó, funkcióba nem sorolható bevételeinek elszámolása. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Nem ebbe a funkcióba tartozik: - az önkormányzatok funkcióhoz nem köthető elszámolásai a központi költségvetéssel, - az önkormányzatok államháztartáson kívülről származó, funkcióba sorolható bevételei. |
+| 5 |  |  | Ide tartozik: - az önkormányzatok államháztartáson kívülről származó, funkcióba nem sorolható bevételeinek elszámolása. Ezen funkción kizárólag a helyi önkormányzatok költségvetését megillető adóbevételeket, járulékokat lehet elszámolni, illetve az azokhoz kapcsolódó visszafizetési kötelezettségeket. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Nem ebbe a funkcióba tartozik: - az önkormányzatok funkcióhoz nem köthető elszámolásai a központi költségvetéssel, - az önkormányzatok államháztartáson kívülről származó, funkcióba sorolható bevételei. |
 
 | 6 |  | 900030 | Elkülönített állami pénzalapok funkcióra nem sorolható bevételei államháztartáson kívülről |
 
@@ -1918,11 +1986,11 @@
 
 | 12 |  | 900060 | Forgatási és befektetési célú finanszírozási műveletek |
 
-| 13 |  |  | Ide tartozik: - az önkormányzati alrendszerben a forgatási célú finanszírozási műveletek bevételi és kiadási előirányzatának; - a költségvetési hiány finanszírozásával kapcsolatos felhalmozási, működési célú hosszú lejáratú hitelfelvétel bevételeinek, a rövid lejáratú hitelfelvétel bevételeinek (a likvid hitelek igénybevétele kivételével), - a hosszú lejáratú kötvénykibocsátással kapcsolatos bevételek, - a költségvetési többlet évközi hasznosítása céljából vásárolt befektetési célú hitelviszonyt megtestesítő értékpapírok eladásakor, beváltásakor elszámolt bevételek; - a költségvetési többlet évközi hasznosítása céljából vásárolt befektetési célú hitelviszonyt megtestesítő értékpapírok vásárlásának kiadásainak, - a költségvetési hiány fedezetére, valamint a fejlesztések, vagy működés érdekében felvett hosszú lejáratú hitelek, pénzügyi lízing miatti kötelezettségek, a rövid lejáratú hitelek (likvid hitel kivételével) törlesztésével kapcsolatos kiadások, - az önkormányzatok által felhalmozási vagy működési célra kibocsátott hosszú lejáratú kötvények beváltásának elszámolása. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. |
+| 13 |  |  | Ide tartozik: - az önkormányzati alrendszerben a forgatási célú finanszírozási műveletek bevételi és kiadási előirányzatainak (ideértve a likvid hiteleket is); - a központi költségvetés hiányának finanszírozásával kapcsolatos felhalmozási, működési célú hosszú lejáratú hitelfelvétel bevételeinek, a rövid lejáratú hitelfelvétel bevételeinek (a likvid hitelek igénybevétele kivételével), - a hosszú lejáratú kötvénykibocsátással kapcsolatos bevételek, - a költségvetési többlet évközi hasznosítása céljából vásárolt befektetési célú hitelviszonyt megtestesítő értékpapírok eladásakor, beváltásakor elszámolt bevételek; - a költségvetési többlet évközi hasznosítása céljából vásárolt befektetési célú hitelviszonyt megtestesítő értékpapírok vásárlásának kiadásainak, - a központi költségvetés hiányának fedezetére, valamint a fejlesztések, vagy működés érdekében felvett hosszú lejáratú hitelek, pénzügyi lízing miatti kötelezettségek, a rövid lejáratú hitelek (likvid hitel kivételével) törlesztésével kapcsolatos kiadások, - az önkormányzatok által felhalmozási vagy működési célra kibocsátott hosszú lejáratú kötvények beváltásának elszámolása. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. |
 
-| 14 |  | 900070 | Fejezeti és általános tartalékok elszámolása |
+| 14 |  |  |
 
-| 15 |  |  | Ide tartozik: - a funkcióhoz időlegesen nem köthető központi, fejezeti és más tartalékok elszámolása azzal, hogy felhasználáskor a cél szerinti funkcióra át kell vezetni. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. |
+| 15 |  |  |  |
 
 | 16 |  |  |
 
@@ -1932,6 +2000,6 @@
 
 | 19 |  |  | Ide tartozik: - a vállalkozási tevékenységek kiadásainak és bevételeinek összesített elszámolása. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Az e funkcióban elszámolt tevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az egyes tevékenységek szakfeladatrendi besorolása szerint a megfelelő szakfeladatokon el kell számolni. |
 
-3. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^13]
+3. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^18]
 
-[^13]: A 3. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § c) pontja szerint módosított szöveg.
+[^18]: A 3. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § c) pontja, a 44/2015. (XII. 30.) NGM rendelet 2. § 3. pontja szerint módosított szöveg.

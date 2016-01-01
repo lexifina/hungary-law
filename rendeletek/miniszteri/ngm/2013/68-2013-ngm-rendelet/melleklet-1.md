@@ -1,6 +1,6 @@
-## 13. §[^10]
+## 13. §[^15]
 
-1. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^11]
+1. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^16]
 
-[^10]: A 13. §-t a 43/2014. (XII. 30.) NGM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^11]: Az 1. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § a) pontja szerint módosított szöveg.
+[^15]: A 13. §-t a 43/2014. (XII. 30.) NGM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^16]: Az 1. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § a) pontja, a 44/2015. (XII. 30.) NGM rendelet 2. § 1. pontja és 4. § (1) bekezdés 1–3. pontja szerint módosított szöveg.

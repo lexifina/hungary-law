@@ -316,6 +316,8 @@
 
 ## 045160 Közutak, hidak, alagutak üzemeltetése, fenntartása
 
+## 045161 Kerékpárutak üzemeltetése, fenntartása
+
 ## 045170 Parkoló, garázs üzemeltetése, fenntartása
 
 ## 045180 Közúti járművontatás
@@ -391,6 +393,8 @@
 ## 049010 Máshova nem sorolt gazdasági ügyek
 
 ## 049020 K+F tevékenységekhez kapcsolódó innováció
+
+## 049030 Kéményseprő-ipari tevékenység
 
 ## 5. Környezetvédelem
 
@@ -522,7 +526,7 @@
 
 ## 072230 Járóbetegek gyógyító gondozása
 
-## 072240 Járóbetegek egynapos ellátása (pl. művesekezelés)
+## 072240 Járóbetegek egynapos ellátása
 
 ## 072290 Járóbeteg-ellátás finanszírozása és támogatása
 
@@ -750,7 +754,7 @@
 
 ## 086030 Nemzetközi kulturális együttműködés
 
-## 086090 Mindenféle egyéb szabadidős szolgáltatás
+## 086090 Egyéb szabadidős szolgáltatás
 
 ## 9. Oktatás
 
@@ -878,6 +882,10 @@
 
 ## 098022 Pedagógiai szakszolgáltató tevékenység működtetési feladatai
 
+## 098023 Korai fejlesztés és fejlesztő nevelés tevékenység szakmai feladatai
+
+## 098024 Korai fejlesztés és fejlesztő nevelés tevékenység működtetési feladatai
+
 ## 098031 Pedagógiai szakmai szolgáltatások szakmai feladatai
 
 ## 098032 Pedagógiai szakmai szolgáltatások működtetési feladatai
@@ -897,6 +905,10 @@
 ## 101123 Pszichiátriai betegek rehabilitációs célú bentlakásos ellátása
 
 ## 101124 Szenvedélybetegek rehabilitációs célú bentlakásos ellátása
+
+## 101125 Pszichiátriai betegek rehabilitációs lakóotthoni ellátása
+
+## 101126 Szenvedélybetegek rehabilitációs lakóotthoni ellátása
 
 ## 101131 Pszichiátriai betegek átmeneti ellátása
 
@@ -928,6 +940,10 @@
 
 ## 101214 Támogatott lakhatás fogyatékos személyek részére
 
+## 101215 Fogyatékossággal élők ápoló-gondozó lakóotthoni ellátása
+
+## 101216 Fogyatékossággal élők rehabilitációs célú lakóotthoni ellátása
+
 ## 101221 Fogyatékossággal élők nappali ellátása
 
 ## 101222 Támogató szolgáltatás fogyatékos személyek részére
@@ -940,15 +956,21 @@
 
 ## 101270 Fogyatékossággal élők társadalmi integrációját és életminőségét segítő programok, támogatások
 
-## 1020 Időskor
+## 1020 Időskor, demens betegek
 
 ## 102010 Nyugdíjbiztosítási szolgáltatások igazgatása
 
-## 102021 Időskorúak, demens betegek tartós bentlakásos ellátása
+## 102023 Időskorúak tartós bentlakásos ellátása
 
-## 102022 Időskorúak, demens betegek átmeneti ellátása
+## 102024 Demens betegek tartós bentlakásos ellátása
 
-## 102030 Idősek, demens betegek nappali ellátása
+## 102025 Időskorúak átmeneti ellátása
+
+## 102026 Demens betegek átmeneti ellátása
+
+## 102031 Idősek nappali ellátása
+
+## 102032 Demens betegek nappali ellátása
 
 ## 102040 Időskorral összefüggő pénzbeli ellátások
 
@@ -964,17 +986,27 @@
 
 ## 104012 Gyermekek átmeneti ellátása
 
+## 104013 Nevelőszülőnél elhelyezettek ellátása
+
 ## 104020 Javítóintézeti ellátás
 
 ## 104030 Gyermekek napközbeni ellátása
+
+## 104031 Gyermekek bölcsődei ellátása
 
 ## 104035 Gyermekétkeztetés bölcsődében, fogyatékosok nappali intézményében
 
 ## 104036 Munkahelyi étkeztetés bölcsődében
 
+## 104037 Intézményen kívüli gyermekétkeztetés
+
 ## 104041 Területi gyermekvédelmi szakszolgáltatás
 
-## 104042 Gyermekjóléti szolgáltatások
+## 104042 Család és gyermekjóléti szolgáltatások
+
+## 104043 Család és gyermekjóléti központ
+
+## 104044 Biztos Kezdet Gyerekház
 
 ## 104051 Gyermekvédelmi pénzbeli és természetbeni ellátások
 
@@ -1004,7 +1036,7 @@
 
 ## 107013 Hajléktalanok átmeneti ellátása
 
-## 107014 Támogatott lakhatás hajléktalan személyek részére
+## 107014
 
 ## 107015 Hajléktalanok nappali ellátása
 
@@ -1020,7 +1052,7 @@
 
 ## 107053 Jelzőrendszeres házi segítségnyújtás
 
-## 107054 Családsegítés
+## 107054
 
 ## 107055 Falugondnoki, tanyagondnoki szolgáltatás
 
@@ -1042,6 +1074,8 @@
 
 ## 109020 Szociális szolgáltatások módszertani szakirányítása
 
+## 109030 Természetes személyek adósságrendezésével kapcsolatos feladatok
+
 ## 109070 Nemzetközi humanitárius segítségnyújtás
 
 ## 90. Technikai funkciókódok
@@ -1060,10 +1094,10 @@
 
 ## 900060 Forgatási és befektetési célú finanszírozási műveletek
 
-## 900070 Fejezeti és általános tartalékok elszámolása
+## 900070
 
 ## 900090 Vállalkozási tevékenységek kiadásai és bevételei
 
-2. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^12]
+2. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^17]
 
-[^12]: A 2. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § b) pontja, a 9/2015. (III. 31.) NGM rendelet 55. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § b) pontja, a 9/2015. (III. 31.) NGM rendelet 55. §-a, a 44/2015. (XII. 30.) NGM rendelet 2. § 2. pontja, 3. § 8–16. pontja, 4. § (1) bekezdés 4–5. pontja és 4. § (2) bekezdés 3–5. pontja szerint módosított szöveg.

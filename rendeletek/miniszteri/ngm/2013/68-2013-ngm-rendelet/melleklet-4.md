@@ -74,7 +74,7 @@
 
 ## 530000 Futárpostai tevékenység
 
-## 5. Vendéglátás, étkeztetés
+## 5. VENDÉGLÁTÁS, ÉTKEZTETÉS
 
 ## 551000 Szállodai szolgáltatás
 
@@ -82,7 +82,7 @@
 
 ## 552002 Sportolók részére nyújtott edzőtábori szálláshely-szolgáltatás
 
-## 559011 Kollégiumi szálláshelynyújtás közoktatásban tanulók számára
+## 559011 Kollégiumi szálláshelynyújtás köznevelésben tanulók számára
 
 ## 559012 Kollégiumi szálláshelynyújtás felsőoktatásban részt vevő hallgatók számára
 
@@ -111,6 +111,8 @@
 ## 562916 Üdülői, tábori étkeztetés
 
 ## 562917 Munkahelyi étkeztetés
+
+## 562918 Intézményen kívüli gyermekétkeztetés
 
 ## 562920 Egyéb vendéglátás
 
@@ -154,7 +156,7 @@
 
 ## 680003 Lakóingatlan szociális célú bérbeadása, üzemeltetése
 
-## 8. Szakmai, tudományos, műszaki tevékenység
+## 8. SZAKMAI, TUDOMÁNYOS, MŰSZAKI TEVÉKENYSÉG
 
 ## 692001 Pénzügyi, számviteli szolgáltatás
 
@@ -191,6 +193,8 @@
 ## 712204 Összetett műszaki, elektronikai rendszer vizsgálata
 
 ## 712209 Egyéb, műszaki vizsgálat, elemzés
+
+## 712210 Kéményseprő-ipari tevékenység
 
 ## Biotechnológiai kutatás, fejlesztés
 
@@ -626,7 +630,7 @@
 
 ## 869038 Terápiás célú gyógyfürdő- és kapcsolódó szolgáltatások
 
-## 15. Szociális ellátások
+## 15. SZOCIÁLIS ELLÁTÁSOK
 
 ## Pszichiátriai és szenvedélybetegek bentlakásos ellátása
 
@@ -634,9 +638,9 @@
 
 ## 872002 Szenvedélybetegek tartós ellátása
 
-## 872003 Pszichiátriai betegek lakóotthoni ellátása
+## 872003 Pszichiátriai betegek rehabilitációs célú lakóotthoni ellátása
 
-## 872004 Szenvedélybetegek lakóotthoni ellátása
+## 872004 Szenvedélybetegek rehabilitációs célú lakóotthoni ellátása
 
 ## 872005 Pszichiátriai betegek rehabilitációs ellátása
 
@@ -655,6 +659,8 @@
 ## 873012 Időskorúak átmeneti ellátása
 
 ## 873013 Demens betegek bentlakásos ellátása
+
+## 873014 Demens betegek átmeneti ellátása
 
 ## 873019 Időskorúak bentlakásos egyéb szociális ellátása
 
@@ -737,6 +743,8 @@
 ## 889205 Iskolai szociális munka
 
 ## 889206 Területi gyermekvédelmi szakszolgáltatás
+
+## 889207 Biztos Kezdet Gyerekház
 
 ## Pszichiátriai és szenvedélybetegek nappali ellátása
 
@@ -854,7 +862,7 @@
 
 ## 999000 Szakfeladatra el nem számolt tételek
 
-4. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^14]
+4. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^19]
 
 Tartalmi meghatározások az államháztartási szakfeladatokhoz
 
@@ -1020,7 +1028,7 @@ Tartalmi meghatározások az államháztartási szakfeladatokhoz
 
 | 6 |  | Itt kell elszámolni: - a sportolók részére nyújtott edzőtábori szálláshely-szolgáltatás önköltségét és eredményszemléletű bevételét. |
 
-| 7 | 559011 Kollégiumi szálláshelynyújtás közoktatásban tanulók számára |
+| 7 | 559011 Kollégiumi szálláshelynyújtás köznevelésben tanulók számára |
 
 | 8 |  | Itt kell elszámolni: - a köznevelésben részt vevő tanulók számára a kollégiumi szálláshely-szolgáltatás önköltségét és eredményszemléletű bevételét. |
 
@@ -1060,11 +1068,11 @@ Tartalmi meghatározások az államháztartási szakfeladatokhoz
 
 | 26 | 562913 Iskolai intézményi étkeztetés |
 
-| 27 |  | Itt kell elszámolni: - a közoktatásban tanuló ellátottak részére az intézményi étkeztetés keretében biztosított étkezés önköltségét és eredményszemléletű bevételét. |
+| 27 |  | Itt kell elszámolni: - a köznevelésben tanuló ellátottak részére az intézményi étkeztetés keretében biztosított étkezés önköltségét és eredményszemléletű bevételét. |
 
 | 28 | 562914 Tanulók kollégiumi étkeztetése |
 
-| 29 |  | Itt kell elszámolni: - a közoktatásban részt vevő tanulók kollégiumi, diákotthoni ellátása keretében biztosított étkeztetés önköltségét és eredményszemléletű bevételét. |
+| 29 |  | Itt kell elszámolni: - a köznevelésben részt vevő tanulók kollégiumi, diákotthoni ellátása keretében biztosított étkeztetés önköltségét és eredményszemléletű bevételét. |
 
 | 30 | 562915 Sportolók edzőtábori étkeztetése |
 
@@ -1077,6 +1085,10 @@ Tartalmi meghatározások az államháztartási szakfeladatokhoz
 | 34 | 562917 Munkahelyi étkeztetés |
 
 | 35 |  | Itt kell elszámolni: - a munkáltató által a dolgozók részére a munkahelyükön biztosított étkeztetés önköltségét és eredményszemléletű bevételét. |
+
+| 35a | 562918 Intézményen kívüli gyermekétkeztetés |
+
+| 35b |  | Itt kell elszámolni: - a rászoruló gyermekek intézményen kívüli szünidei étkeztetésének biztosításának ellátásával kapcsolatos önköltséget és eredményszemléletű bevételt. |
 
 | 36 | 562920 Egyéb vendéglátás |
 
@@ -1164,224 +1176,4 @@ Tartalmi meghatározások az államháztartási szakfeladatokhoz
 
 8. Szakmai, tudományos, műszaki tevékenység
 
-|  | A | B | C |
-
-| 1 |  | 692001 Pénzügyi, számviteli szolgáltatás |
-
-| 2 |  |  | Itt kell elszámolni: - a gazdálkodás bizonylatai nyilvántartásának, könyvelésének, a pénzügyi, számviteli beszámolók elkészítésének vagy vizsgálatának, ellenőrzésének, a bérszámfejtés önköltségét és eredményszemléletű bevételét. |
-
-| 3 |  | 692002 Könyvvizsgálói, adószakértői tevékenység |
-
-| 4 |  |  | Itt kell elszámolni: - könyvvizsgálat és hitelesítés; a könyvelés, a személyi- és társasági jövedelemadó- és más bevalláskészítés, adótanácsadás önköltségét és eredményszemléletű bevételét. |
-
-| 5 |  | 700000 Üzletvezetés, vezetői tanácsadás |
-
-| 6 |  |  | Itt kell elszámolni: - a PR (public relation) és kommunikáció területén nyújtott tanácsadás, útmutatás és operatív segítségnyújtás, valamint az üzletviteli és közszolgálati tanácsadás és segítségnyújtás (a tervezést, szervezést, hatékonyságot és ellenőrzést, irányítást, a vezetői információs rendszert érintő területeken) önköltségét és eredményszemléletű bevételét. |
-
-| 7 |  | 711000 Építészmérnöki tevékenység, műszaki tanácsadás |
-
-| 8 |  |  | Itt kell elszámolni: - az az épülettervezés, tervrajzkészítés, várostervezés, tájépítés-tervezés, valamint a mérnöki tervezés és a mérnöki tanácsadás önköltségét és eredményszemléletű bevételét. |
-
-| 9 | Hatósági eljárás érdekében, vagy jogszabály alapján kötelezően végzett műszaki vizsgálat, elemzés |
-
-| 10 |  | 712101 Mérőeszközök hitelesítése |
-
-| 11 |  |  | Itt kell elszámolni: - a kötelező hitelesítésű mérőeszközök hitelesítése a hitelesítési előírásban, illetve a hitelesítési engedélyben meghatározott mérésügyi vizsgálatának és a hitelesítés tanúsításának önköltségét és eredményszemléletű bevételét. A hitelesítés kiterjed az engedélyezett mérőeszköz-típussal való azonosságnak, a mérőeszköz műszaki jellemzői megfelelőségének, valamint a mérőeszköz helyes működésének a vizsgálatára. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 12 |  | 712102 Közúti közlekedési eszközök műszaki vizsgálata |
-
-| 13 |  |  | Itt kell elszámolni: - a gépjárművek, motorkerékpárok, buszok, tehergépjárművek, kamionok és egyéb közúti szállító járművek kötelezően előírt, rendszeres műszaki vizsgáztatásának, ellenőrzésének önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 14 |  | 712103 Egyéb közlekedési eszközök műszaki vizsgálata |
-
-| 15 |  |  | Itt kell elszámolni: - a nem közúti közlekedési eszközök kötelezően előírt, rendszeres műszaki vizsgáztatásának, ellenőrzésének önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 16 |  | 712104 Bűnügyi, rendőrségi laboratóriumi vizsgálatok |
-
-| 17 |  |  | Itt kell elszámolni: - a büntető- vagy szabálysértési eljárás keretében végzett bűnügyi, rendőrségi laboratóriumi vizsgálatok önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 18 |  | 712105 Orvostechnikai eszközök, in vitro diagnosztikai műszerek, gépek, eszközök és berendezések megfelelőségének vizsgálata és tanúsítása |
-
-| 19 |  |  | Itt kell elszámolni: - az orvostechnikai eszközökre és in vitro diagnosztikai eszközökre vonatkozó európai direktívákat honosító hazai jogszabályok szerint végzett megfelelőségértékelési eljárások tanúsításának, a tanúsítási folyamat előkészítésének, a tanúsítási folyamatokat támogató laboratóriumi vizsgálatoknak, műszaki dokumentációértékeléseknek és szakvéleményezéseknek, a tanúsítási folyamat lezárásának, nyilvántartásának és felügyeletének önköltségét és eredményszemléletű bevételét, - társadalombiztosítás által finanszírozott eszközök listára kerülését megelőző dokumentációértékelési, laboratóriumi vizsgálati, szakvéleményezési eljárások önköltségét és eredményszemléletű bevételét, - az orvostechnikai eszközöknek nem minősülő, de az önkéntes egészségbiztosítási pénztárak által finanszírozható egészség-megőrzési, állapotjavítási célú közvetlen lakossági felhasználásra alkalmas termékek alkalmassági tanúsításának, laboratóriumi vizsgálatának, szakvéleményezésének önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 20 |  | 712106 Élelmiszerlánc-biztonsággal kapcsolatos ellenőrző vizsgálatok |
-
-| 21 |  |  | Itt kell elszámolni: - az élelmiszerlánc-biztonsággal összefüggő ellenőrző vizsgálatok önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 22 |  | 712109 Egyéb, hatósági eljárás érdekében végzett műszaki vizsgálat, elemzés |
-
-| 23 |  |  | Itt kell elszámolni: - az egyéb, m.n.s., hatósági eljárás érdekében végzett, vagy jogszabály által kötelezően előírt műszaki vizsgálat, elemzés önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 24 | Egyéb műszaki vizsgálat, elemzés |
-
-| 25 |  | 712201 Összetétel-, tisztaságvizsgálat, -elemzés |
-
-| 26 |  |  | Itt kell elszámolni: - a különféle anyagok (víz, levegő, hulladék, üzemanyag, fém, só, ásványok, élelmiszerek, vegyi anyagok) műszaki, vegyi, biokémiai, biológiai és bakteriológiai tulajdonságai vizsgálatának és elemzésének önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 27 |  | 712202 Nemesfémvizsgálat |
-
-| 28 |  |  | Itt kell elszámolni: - az aranyból, ezüstből, platinából, továbbá az e fémek más fémekkel való ötvözeteiből készült ékszerek dísztárgyak, használati tárgyak (nemesfém tárgyak) vizsgálatának, hitelesítésének és nemesfémtartalmának tanúsításával összefüggő önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 29 |  | 712203 Fizikaitulajdonság-vizsgálat |
-
-| 30 |  |  | Itt kell elszámolni: - a különféle anyagok fizikai tulajdonságainak (mint szilárdság, rugalmasság, elektromos vezetőképesség, radioaktivitás) vizsgálatának és elemzésének önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 31 |  | 712204 Összetett műszaki, elektronikai rendszer vizsgálata |
-
-| 32 |  |  | Itt kell elszámolni: - komplett gépek, berendezések, szerszámok és eszközök műszaki és elektromos tulajdonságainak vizsgálatával és tesztelésével kapcsolatos önköltséget és eredményszemléletű bevételt. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 33 |  | 712209 Egyéb, műszaki vizsgálat, elemzés |
-
-| 34 |  |  | Itt kell elszámolni: - a művészeti alkotások hitelesítésével és valódiságának igazolásával, illetve az m.n.s. egyéb műszaki vizsgálatokkal, elemzésekkel kapcsolatos önköltséget és eredményszemléletű bevételt. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 35 | Biotechnológiai kutatás, fejlesztés |
-
-| 36 |  | 721111 Egészségügyi biotechnológiai alapkutatás |
-
-| 37 |  | 721112 Egészségügyi biotechnológiai alkalmazott kutatás |
-
-| 38 |  | 721113 Egészségügyi biotechnológiai kísérleti fejlesztés |
-
-| 39 |  | 721121 Környezeti, ipari biotechnológiai alapkutatás |
-
-| 40 |  | 721122 Környezeti, ipari biotechnológiai alkalmazott kutatás |
-
-| 41 |  | 721123 Környezeti, ipari biotechnológiai kísérleti fejlesztés |
-
-| 42 |  | 721131 Mezőgazdasági biotechnológiai alapkutatás |
-
-| 43 |  | 721132 Mezőgazdasági biotechnológiai alkalmazott kutatás |
-
-| 44 |  | 721133 Mezőgazdasági biotechnológiai kísérleti fejlesztés |
-
-| 45 |  | 721200 Génmegőrzés, fajtavédelem |
-
-| 46 |  |  | Itt kell elszámolni: - a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták, valamint a növényi genetikai erőforrások génmegőrzésének, védelmének, hasznosításának, valamint az ezekhez kapcsolódó kutatás-fejlesztés önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 47 | Egyéb természettudományi, műszaki kutatás, fejlesztés |
-
-| 48 |  | 721911 Matematikai alapkutatás |
-
-| 49 |  | 721912 Matematikai alkalmazott kutatás |
-
-| 50 |  | 721913 Matematikai kísérleti fejlesztés |
-
-| 51 |  | 721921 Orvostudományi alapkutatás |
-
-| 52 |  | 721922 Orvostudományi alkalmazott kutatás |
-
-| 53 |  | 721923 Orvostudományi kísérleti fejlesztés |
-
-| 54 |  | 721931 Agrártudományi alapkutatás |
-
-| 55 |  | 721932 Agrártudományi alkalmazott kutatás |
-
-| 56 |  | 721933 Agrártudományi kísérleti fejlesztés |
-
-| 57 |  | 721941 Biológiai alapkutatás |
-
-| 58 |  | 721942 Biológiai alkalmazott kutatás |
-
-| 59 |  | 721943 Biológiai kísérleti fejlesztés |
-
-| 60 |  | 721951 Kémiai alapkutatás |
-
-| 61 |  | 721952 Kémiai alkalmazott kutatás |
-
-| 62 |  | 721953 Kémiai kísérleti fejlesztés |
-
-| 63 |  | 721961 Földtudományi alapkutatás |
-
-| 64 |  | 721962 Földtudományi alkalmazott kutatás |
-
-| 65 |  | 721963 Földtudományi kísérleti fejlesztés |
-
-| 66 |  | 721971 Műszaki tudományi alapkutatás |
-
-| 67 |  | 721972 Műszaki tudományi alkalmazott kutatás |
-
-| 68 |  | 721973 Műszaki tudományi kísérleti fejlesztés |
-
-| 69 |  | 721981 Fizikai alapkutatás |
-
-| 70 |  | 721982 Fizikai alkalmazott kutatás |
-
-| 71 |  | 721983 Fizikai kísérleti fejlesztés |
-
-| 72 | Társadalomtudományi, humán kutatás, fejlesztés |
-
-| 73 |  | 722011 Gazdaságtudományi alapkutatás |
-
-| 74 |  | 722012 Gazdaságtudományi alkalmazott kutatás |
-
-| 75 |  | 722013 Gazdaságtudományi kísérleti fejlesztés |
-
-| 76 |  | 722014 Jog- és államtudományi alapkutatás |
-
-| 77 |  | 722015 Jog- és államtudományi alkalmazott kutatás |
-
-| 78 |  | 722016 Jog- és államtudományi kísérleti fejlesztés |
-
-| 79 |  | 722017 Szociológiai alapkutatás |
-
-| 80 |  | 722018 Szociológiai alkalmazott kutatás |
-
-| 81 |  | 722019 Szociológiai kísérleti fejlesztés |
-
-| 82 |  | 722021 Filozófia- és történettudományi alapkutatás |
-
-| 83 |  | 722022 Filozófia- és történettudományi alkalmazott kutatás |
-
-| 84 |  | 722023 Filozófia- és történettudományi kísérleti fejlesztés |
-
-| 85 |  | 722024 Pszichológia- és viselkedéstudományi alapkutatás |
-
-| 86 |  | 722025 Pszichológia- és viselkedéstudományi alkalmazott kutatás |
-
-| 87 |  | 722026 Pszichológia- és viselkedéstudományi kísérleti fejlesztés |
-
-| 88 |  | 722031 Nyelv- és irodalomtudományi alapkutatás |
-
-| 89 |  | 722032 Nyelv- és irodalomtudományi alkalmazott kutatás |
-
-| 90 |  | 722033 Nyelv- és irodalomtudományi kísérleti fejlesztés |
-
-| 91 | Reklám, piackutatás |
-
-| 92 |  | 730000 Reklám, piackutatás |
-
-| 93 |  |  | Itt kell elszámolni: - a hirdetési szolgáltatások, - a termék piaci lehetőségeinek, elfogadhatóságának, felhasználóbarát voltának vizsgálata, illetve a fogyasztók vásárlási szokásainak felmérése az értékesítés elősegítése és új termék fejlesztése érdekében (beleértve az eredmények statisztikai elemzését), valamint - a közvélemény-kutatás politikai, gazdasági és társadalmi kérdésekben és az eredmények statisztikai elemzése.(nem elkülönülten) önköltségét és eredményszemléletű bevételét. |
-
-| 94 | Szakigazgatást támogató és egyéb szakmai, tudományos, műszaki tevékenység |
-
-| 95 |  | 749010 Igazságügyi szakértői tevékenység |
-
-| 96 |  |  | Itt kell elszámolni: - a bírósági eljárások keretében, illetve egyéb, jogszabályban meghatározott esetekben igénybe vett igazságügyi szakértői tevékenységgel kapcsolatos önköltséget és eredményszemléletű bevételt. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 97 |  | 749020 Meteorológiai szolgáltatás |
-
-| 98 |  |  | Itt kell elszámolni: - a légkör, a várható időjárás, valamint az időjárási, éghajlati és levegőminőségi viszonyok elemzésének, továbbá a meteorológiai és levegőminőségi megfigyelőrendszer működtetésének önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 99 |  | 749032 Minőségbiztosítási tevékenység |
-
-| 100 |  |  | Itt kell elszámolni: - az egyes szakterületi, jogszabály által meghatározott vagy egyéb módon szabályozott minőségbiztosítási eljárások, tevékenységek önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 101 |  | 749033 Rendszertanúsítás |
-
-| 102 |  |  | Itt kell elszámolni: - az egyes szakterületi, jogszabály által meghatározott, vagy egyéb módon szabályozott rendszertanúsítási eljárások, tevékenységek önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 103 |  | 749034 Akkreditációs tevékenység |
-
-| 104 |  |  | Itt kell elszámolni: - az egyes szakterületi, jogszabály által meghatározott, vagy egyéb módon szabályozott akkreditációs eljárások, tevékenységek önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 105 |  | 749040 K+F tevékenységekhez kapcsolódó innováció |
-
-| 106 |  |  | Itt kell elszámolni: - a K+F tevékenységhez kapcsolódó, de nem a K+F-be tartozó innovációs tevékenységek önköltségét és eredményszemléletű bevételét. Ide tartozik továbbá: a nem tárgyiasult technológia (a know-how) megszerzése, a tárgyiasult technológia megszerzése, a felszerelés és műszaki tervezés (máshova nem besorolt), egyéb tőke szerzése, a termelés megindítása és az új vagy továbbfejlesztett termék marketingje. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-| 107 |  | 749050 M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
-
-| 108 |  |  | Itt kell elszámolni: - az előzőekbe nem sorolható minden szakmai, tudományos, műszaki szakértői, tanácsadói tevékenység önköltségét és eredményszemléletű bevételét. A szakfeladatot alaptevékenységként, vagy alaptevékenység részeként végzett tevékenység elszámolására is használni kell. |
-
-9. Egyéb szolgáltatások
-
-[^14]: A 4. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § d) pontja szerint módosított szöveg.
+[^19]: A 4. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § d) pontja, a 44/2015. (XII. 30.) NGM rendelet 2. § 4. pontja szerint módosított szöveg.
