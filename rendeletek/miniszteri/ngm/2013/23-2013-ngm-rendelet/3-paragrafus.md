@@ -1,4 +1,4 @@
-3. § (1) A kérelem – üzletszerű társasházkezelő vagy ingatlankezelő tevékenység esetén a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 22. § (1) bekezdésében, üzletszerű ingatlanközvetítő vagy ingatlanvagyon-értékelő és -közvetítő tevékenység esetén az Lt. 64/C. § (3) bekezdésében meghatározott adatokon túlmenően – tartalmazza
+3. § (1)[^2] A bejelentés – üzletszerű társasházkezelő vagy ingatlankezelő tevékenység esetén a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 22. § (1) bekezdésében, üzletszerű ingatlanközvetítő vagy ingatlanvagyon-értékelő és -közvetítő tevékenység esetén az Lt. 64/C. § (3) bekezdésében meghatározott adatokon túlmenően – tartalmazza
 
 a) a szolgáltatási tevékenység során használni kívánt nyelv vagy nyelvek megjelölését,
 
@@ -28,6 +28,17 @@ b) a 2. § a) pont ab) alpontjában foglaltakat a munkáltató vagy a foglalkozt
 
 c) a 2. § a) pont ab) alpontjában és b) pont ba) alpontjában foglaltakat 90 napnál nem régebbi cégkivonattal egyéni vállalkozó esetében az egyéni vállalkozók hatósági nyilvántartásba vételéről szóló igazolás hiteles másolatával,
 
-d) a Tt. 49. § (1) bekezdés c) pontja és az Lt. 64/C. § (5) bekezdése szerinti köztartozásmentességet – ha a kérelem benyújtásának időpontjában nem szerepel a köztartozásmentes adózói adatbázisban – 30 napnál nem régebben kiállított közokirattal.
+d)[^3] a Tt. 49. § (1) bekezdés c) pontja és az Lt. 64/C. § (4) bekezdése szerinti köztartozás-mentességet a bejelentő lakóhelye vagy székhelye szerint illetékes önkormányzati adóhatóság, valamint – ha a bejelentő a kérelem benyújtásának időpontjában nem szerepel a köztartozásmentes adózói adatbázisban – a nemzeti adóhatóság által 30 napnál nem régebben kiállított közokirattal,
 
-(3) Amennyiben a szolgáltató a kérelemhez a (2) bekezdés c) és d) pontja szerinti iratokat nem csatolja, a hatóság a bejelentés vagy az engedély feltételeinek megállapítása érdekében adatszolgáltatási kérelemmel fordul a nyilvántartást vezető hatósághoz.
+(3)[^4]
+
+(4)[^5] A hatóság a bejelentés és az 5. § (3) bekezdése szerinti ellenőrzés során a büntetlen előéletet, valamint
+
+a) a társasházkezelő, ingatlankezelő, vagy
+
+b) az ingatlan-értékbecslői, az ingatlanközvetítői, az ingatlanvagyon-értékelő és -közvetítői
+
+[^2]: A 3. § (1) bekezdés nyitó szövegrésze a 35/2015. (XII. 23.) NGM rendelet 10. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdés d) pontja a 35/2015. (XII. 23.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (3) bekezdését a 35/2015. (XII. 23.) NGM rendelet 10. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^5]: A 3. § (4) bekezdését a 35/2015. (XII. 23.) NGM rendelet 10. § (2) bekezdése iktatta be.

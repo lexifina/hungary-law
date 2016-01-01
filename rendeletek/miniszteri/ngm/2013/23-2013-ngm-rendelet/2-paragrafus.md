@@ -1,3 +1,5 @@
+## tevékenység (a továbbiakban együtt: szolgáltatási tevékenység) végzéséhez szükséges bejelentést az ingatlanvállalkozás-felügyeleti hatóságok kijelöléséről szóló 217/2009. (X. 2.) Korm. rendeletben meghatározott ingatlanvállalkozás-felügyeleti hatóságnál (a továbbiakban: hatóság) kell benyújtani.
+
 ## 2. § Szolgáltatási tevékenységet – üzletszerű társasházkezelő vagy ingatlankezelő tevékenység esetén a társasházakról szóló 2003. évi CXXXIII. törvény (a továbbiakban: Tt.) 53. § (3) bekezdésében, üzletszerű ingatlanközvetítő vagy ingatlanvagyon-értékelő és -közvetítő tevékenység esetén a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lt.) 64/C. § (2) bekezdésében foglaltak figyelembevételével – olyan
 
 a) természetes személy szolgáltató végezhet, aki
