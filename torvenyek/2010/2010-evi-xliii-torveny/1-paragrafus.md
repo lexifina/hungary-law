@@ -46,7 +46,7 @@ b) az Országos Atomenergia Hivatal,
 
 c) a Szellemi Tulajdon Nemzeti Hivatala,
 
-d) a Nemzeti Adó- és Vámhivatal,
+d)
 
 e) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal.
 

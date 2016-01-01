@@ -2,9 +2,9 @@
 
 (2)
 
-(3) A központi hivatal területi szervekkel akkor rendelkezik, ha erre a központi hivatalt létrehozó kormányrendelet kifejezetten lehetőséget ad.
+(3) A központi hivatal területi szervekkel akkor rendelkezik, ha erre a központi hivatalt létrehozó törvény vagy kormányrendelet kifejezetten lehetőséget ad.
 
-(4) A központi hivatal vezetőjét – ha jogszabály eltérően nem rendelkezik – a központi hivatalt irányító miniszter nevezi ki és menti fel.
+(4) A központi hivatal vezetőjét – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a központi hivatalt irányító miniszter nevezi ki és menti fel.
 
 (5) A központi hivatal vezetőjének javasolt személyről a központi hivatalt irányító miniszter tájékoztatja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javasolt személlyel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a központi hivatal vezetőjének.
 
@@ -16,4 +16,4 @@
 
 (8a) A központi hivatal vezetője és a központi hivatal vezetőjének helyettese kormányzati szolgálati jogviszonyban áll. Törvény vagy kormányrendelet eltérő rendelkezése hiányában a központi hivatal vezetője és a központi hivatal vezetőjének helyettese jogviszonyára a közszolgálati tisztviselőkről szóló törvény vezetői munkakört betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
 
-(9) A központi hivatalra – ha jogszabály eltérően nem rendelkezik – a 63–68. §-t kell alkalmazni.
+(9) A központi hivatalra – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a 63–68. §-t kell alkalmazni.

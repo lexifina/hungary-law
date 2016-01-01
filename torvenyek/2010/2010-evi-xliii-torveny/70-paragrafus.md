@@ -4,7 +4,7 @@
 
 ## A kormányhivatal
 
-70. § (1) A kormányhivatal törvény által létrehozott, a Kormány irányítása alatt működő központi államigazgatási szerv. A kormányhivatal törvényben meghatározottak szerint fegyveres rendvédelmi feladatokat is elláthat.
+70. § (1) A kormányhivatal törvény által létrehozott, a Kormány irányítása alatt működő központi államigazgatási szerv.
 
 (2) A kormányhivatal felügyeletét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt miniszter látja el, aki e hatáskörében – ha törvény eltérően nem rendelkezik – különösen
 
