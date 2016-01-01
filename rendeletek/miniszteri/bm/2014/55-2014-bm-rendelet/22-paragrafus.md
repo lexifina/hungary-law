@@ -1,3 +1,3 @@
-## 21. §[^1]
+## 21. § A 4. § helyébe a következő rendelkezés lép:
 
-[^1]: A 21. § a 20. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## „4. § A szabadságvesztésre ítéltet a Bv. tv.-ben és az e rendeletben meghatározott szabályok figyelembevételével kell elhelyezni, lehetőség szerint abban a büntetés-végrehajtási intézetben, amelyben biztosítható a Központi Kivizsgáló és Módszertani Intézet által megadott szempontok szerint összeállított kockázatértékelési összefoglaló jelentésben meghatározott reintegrációs program végrehajtása.”
