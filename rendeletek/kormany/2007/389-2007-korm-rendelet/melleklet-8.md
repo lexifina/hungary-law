@@ -26,8 +26,8 @@ A Befogadó neve és címe
 
 1. az Értékesítő neve és címe
 
-2.[^104] a kötelező átvétel rendeleti alapja (ahol is a 4. § megfelelő bekezdésére, valamint 1. számú melléklet megfelelő pontjára kell hivatkozni).
+2.[^105] a kötelező átvétel rendeleti alapja (ahol is a 4. § megfelelő bekezdésére, valamint 1. számú melléklet megfelelő pontjára kell hivatkozni).
 
 3. az átvett villamos energia mennyisége (MWh) és ára (Ft/kWh) zónaidőnként.
 
-[^104]: A 8. számú melléklet 2. pontja a 166/2011. (VIII. 24.) Korm. rendelet 2. § f)–g) pontja és 3. § 27. pontja szerint módosított szöveg.
+[^105]: A 8. számú melléklet 2. pontja a 166/2011. (VIII. 24.) Korm. rendelet 2. § f)–g) pontja és 3. § 27. pontja szerint módosított szöveg.

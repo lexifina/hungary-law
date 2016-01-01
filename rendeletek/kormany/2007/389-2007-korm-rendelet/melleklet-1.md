@@ -1,4 +1,4 @@
-1. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^99]
+1. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^100]
 
 ## A megújuló energiaforrásból és a hulladékból nyert energiával termelt villamos energia átvételi bázisárai (ÁFA nélkül*)
 
@@ -82,4 +82,4 @@ b) a 4. § (3) bekezdése alá tartozó, szélenergiával termelt villamos energ
 
 | Mélyvölgy időszak | 9,97 |
 
-[^99]: Az 1. számú melléklet a 287/2008. (XI. 28.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^100]: Az 1. számú melléklet a 287/2008. (XI. 28.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
