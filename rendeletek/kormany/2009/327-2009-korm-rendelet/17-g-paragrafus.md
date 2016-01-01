@@ -1,5 +1,3 @@
-## III/D. Fejezet[^28]
+## III/D. Fejezet[^35]
 
-## KÖZPONTI SZERZŐDŐ FÉL ÉVES BESZÁMOLÓKÉSZÍTÉSI ÉS KÖNYVVEZETÉSI KÖTELEZETTSÉGÉNEK SAJÁTOSSÁGAI
-
-[^28]: A III/D fejezetet (17/G. §) az 518/2013. (XII. 30.) Korm. rendelet 64. §-a iktatta be.
+[^35]: A III/D fejezetet (17/G. §) az 518/2013. (XII. 30.) Korm. rendelet 64. §-a iktatta be.

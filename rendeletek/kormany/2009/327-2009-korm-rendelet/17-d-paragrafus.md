@@ -1,4 +1,4 @@
-## III/B. Fejezet[^24]
+## III/B. Fejezet[^29]
 
 ## PÉNZÜGYI SZOLGÁLTATÁST KÖZVETÍTŐK ÉVES BESZÁMOLÓ KÉSZÍTÉSI
 
@@ -18,7 +18,7 @@ c) az összevont (konszolidált) éves beszámoló elkészítésére vonatkozó 
 
 d) a fióktelep és a központ közötti elszámolásra, illetve a fióktelepek egymás közötti elszámolására vonatkozó szabályzatot a Hitkr. 3. §-a (10) bekezdésében foglaltak megfelelő alkalmazásával, feltéve, hogy a pénzügyi szolgáltatást közvetítő külföldi vállalkozás (központ) belföldi fióktelepének vagy külföldi fiókteleppel rendelkező belföldi vállalkozásnak (központnak) minősül.
 
-(4)[^25] A pénzügyi szolgáltatást közvetítőnek belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a Magyar Nemzeti Banknak információs igényeit.
+(4)[^30] A pénzügyi szolgáltatást közvetítőnek belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a Magyar Nemzeti Banknak információs igényeit.
 
 (5) A (4) bekezdéssel összhangban biztosítani kell, hogy a pénzügyi szolgáltatás közvetítésével összefüggésben keletkező források és eszközök értéke a számviteli nyilvántartásokban bármikor megállapítható legyen.
 
@@ -32,5 +32,5 @@ d) a fióktelep és a központ közötti elszámolásra, illetve a fióktelepek 
 
 (10) A pénzügyi szolgáltatás közvetítéséért, valamint a végzett egyéb pénzügyi szolgáltatásokért felszámított különböző díjakat az értékesítés nettó árbevételén belül elkülönítetten kell bemutatni pénzügyi szolgáltatás közvetítésének díjbevétele és egyéb pénzügyi szolgáltatások díjbevétele jogcímen.
 
-[^24]: A III/B. fejezetet (17/D–17/E. §-t) a 345/2010. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
-[^25]: A 17/D. § (4) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 58. § d) pontja szerint módosított szöveg.
+[^29]: A III/B. fejezetet (17/D–17/E. §-t) a 345/2010. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
+[^30]: A 17/D. § (4) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 58. § d) pontja szerint módosított szöveg.

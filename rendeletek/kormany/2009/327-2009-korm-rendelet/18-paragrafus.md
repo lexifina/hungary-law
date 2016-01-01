@@ -1,3 +1,5 @@
-## 17/G. § A központi szerződő fél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 348/2004. (XII. 22.) Korm. rendelet elszámolóházi tevékenységet végző szervezetekre vonatkozó előírásait a Hitkr. 28/B. § (2) bekezdésében felsorolt tevékenységekre vonatkozó előírások kivételével köteles alkalmazni. A központi szerződő fél az általa garantált ügyletek teljesítésének biztosítása érdekében működtetett garanciarendszer tekintetében a Hitkr. elszámolóházra vonatkozó rendelkezéseit köteles alkalmazni.
+## 17/G. §[^36]
 
 ## JOGHARMONIZÁCIÓS ZÁRADÉK
+
+[^36]: A 17/G. §-t és az azt megelőző alcímet a 484/2015. (XII. 29.) Korm. rendelet 95. § 3–4. pontja hatályon kívül helyezte.
