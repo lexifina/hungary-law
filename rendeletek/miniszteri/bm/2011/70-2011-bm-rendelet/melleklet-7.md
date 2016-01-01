@@ -176,10 +176,10 @@
 
 | A sérült a jegyzőkönyvben foglaltakkal 1. Egyetért 2. Nem ért egyet (Az ellenkező véleményt csatolni kell!) ……………………………………….. szerv vezetője (parancsnoka) ........................................... sérült (hozzátartozó) Kelt, …………201 . ..hó…..nap. |
 
-7. melléklet a 70/2011. (XII. 30.) BM rendelethez[^59]
+7. melléklet a 70/2011. (XII. 30.) BM rendelethez[^60]
 
 ## Kitöltési útmutató a baleseti jegyzőkönyvhöz
 
 A nyomtatvány valamennyi, szöveges rovatát számítógéppel vagy nyomtatott betűvel kell kitölteni. A kódnégyzetekbe (a továbbiakban: négyzet) – a kivizsgálás tényeinek megfelelő – kódszámot (a továbbiakban: szám) kell beírni.
 
-[^59]: A 7. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés d) pontjával megállapított szöveg.
+[^60]: A 7. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés d) pontjával megállapított szöveg.

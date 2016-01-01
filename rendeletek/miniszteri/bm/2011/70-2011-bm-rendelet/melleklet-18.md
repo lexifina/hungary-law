@@ -1,4 +1,4 @@
-18. melléklet a 70/2011. (XII. 30.) BM rendelethez[^71]
+18. melléklet a 70/2011. (XII. 30.) BM rendelethez[^72]
 
 ## Kimutatás kötelező adattartalma a foglalkozás-egészségügyi helyzet statisztikai adatairól
 
@@ -80,4 +80,4 @@
 
 *Beleértve a rendészeti oktatási intézménybe jelentkezőket is!
 
-[^71]: A 18. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés i) pontja iktatta be.
+[^72]: A 18. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés i) pontja iktatta be.

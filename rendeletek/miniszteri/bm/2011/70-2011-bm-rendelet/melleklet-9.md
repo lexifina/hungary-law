@@ -1,4 +1,4 @@
-9. melléklet a 70/2011. (XII. 30.) BM rendelethez[^61]
+9. melléklet a 70/2011. (XII. 30.) BM rendelethez[^62]
 
 ## A nem hivatásos állomány tagja baleset-minősítő határozatának kötelező adattartalma
 
@@ -40,4 +40,4 @@
 
 19. Készített példány meghatározása
 
-[^61]: A 9. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés f) pontjával megállapított szöveg.
+[^62]: A 9. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés f) pontjával megállapított szöveg.
