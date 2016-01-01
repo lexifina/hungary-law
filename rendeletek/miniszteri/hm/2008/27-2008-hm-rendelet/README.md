@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-27-20-1
 | 2014-03-03 | 2008-27-20-15.9 | 3/2014. (II. 28.) HM rendelet |
 | 2014-10-16 | 2008-27-20-15.10 | 11/2012. (VII. 20.) HM rendelet |
 | 2015-07-01 | 2008-27-20-15.11 | 7/2015. (VI. 22.) HM rendelet |
+| 2016-01-01 | 2008-27-20-15.12 | 8/2015. (VI. 29.) HM rendelet |

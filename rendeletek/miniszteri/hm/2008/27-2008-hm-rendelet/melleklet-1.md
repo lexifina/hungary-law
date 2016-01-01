@@ -1,6 +1,6 @@
-## 20. §[^21]
+## 20. §[^22]
 
-1. melléklet a 27/2008. (XII. 31.) HM rendelethez[^22]
+1. melléklet a 27/2008. (XII. 31.) HM rendelethez[^23]
 
 A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
@@ -242,5 +242,5 @@ A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizeté
 
 | 118. | takarító, szobaasszony, ruhatáros | * | * |  |  |  |  |  |  |  |  |  |
 
-[^21]: A 20. §-t a 11/2012. (VII. 20.) HM rendelet 3. §-a hatályon kívül helyezte.
-[^22]: Az 1. melléklet a 14/2014. (X. 15.) HM rendelet 2. §-ával megállapított szöveg.
+[^22]: A 20. §-t a 11/2012. (VII. 20.) HM rendelet 3. §-a hatályon kívül helyezte.
+[^23]: Az 1. melléklet a 14/2014. (X. 15.) HM rendelet 2. §-ával megállapított szöveg.

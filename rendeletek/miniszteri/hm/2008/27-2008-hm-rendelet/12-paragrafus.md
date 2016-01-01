@@ -8,6 +8,6 @@ b) a munkaköri feladata ellátása során robbanásveszélyes helyen tartózkod
 
 (2) A tűzszerészpótlékra való jogosultság megállapításának és folyósításának feltételeire a katonák illetményéről és illetményjellegű juttatásairól szóló honvédelmi miniszteri rendeletet kell megfelelően alkalmazni.
 
-(3)[^12] A tűzszerészpótlék óránkénti mértéke gépjárművezető esetében a pótlékalap 14,9%-a, a többi esetben a pótlékalap 9,3%-a.
+(3)[^13] A tűzszerészpótlék óránkénti mértéke gépjárművezető esetében a pótlékalap 14,9%-a, a többi esetben a pótlékalap 9,3%-a.
 
-[^12]: A 12. § (3) bekezdése a 6/2009. (VI. 4.) HM rendelet 20. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.
+[^13]: A 12. § (3) bekezdése a 6/2009. (VI. 4.) HM rendelet 20. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 18. § (2) bekezdését.
