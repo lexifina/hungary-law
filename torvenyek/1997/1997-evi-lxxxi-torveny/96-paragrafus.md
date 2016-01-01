@@ -50,7 +50,9 @@ e) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivat
 
 f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése céljából az a), d) és f) pont,
 
-g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) pontjai
+g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) pontjai,
+
+h) az állami szakképzési és felnőttképzési szerv a pályakövetési rendszer működtetése céljából a d) pont
 
 szerinti adatok igénylésére jogosultak.
 

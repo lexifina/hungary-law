@@ -13,3 +13,5 @@
 (5) Egyösszegű kifizetés esetén a következő év januárjában a nyugellátás és a baleseti járadék összegét – az (1) bekezdés szerinti emelés végrehajtását megelőzően – meg kell emelni az egyösszegű kifizetés összegének alapjául szolgáló, kormányrendeletben meghatározott százalékos mérték egytizenketted részével.
 
 (6) Az Országgyűlés felhatalmazza a Kormányt, hogy a tényleges, illetőleg a várható makrogazdasági folyamatok és adatok ismeretében a szükséges feltételek megléte esetén további kiegészítő intézkedéseket tegyen.
+
+(7) Jogszabály elrendelheti más pénzbeli ellátás e § szerinti emelését.

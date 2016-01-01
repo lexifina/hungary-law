@@ -4,7 +4,7 @@ a) a Tbj.-ben meghatározott, nyugellátás szerzése céljából megállapodás
 
 b) az egyházi jogi személy által kiállított igazolás alapján az egyházi személyként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi jogi személy megfizette,
 
-c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
+c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozást segítő ellátás, illetve gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
 
 d) a katonai (polgári) szolgálatban eltöltött időt,
 

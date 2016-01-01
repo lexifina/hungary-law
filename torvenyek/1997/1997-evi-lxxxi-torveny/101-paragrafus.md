@@ -14,7 +14,7 @@ d) a nyugdíjprémium megállapítására és a végrehajtásra vonatkozó rész
 
 e) a nyugellátás összegének megállapításánál a személyi jövedelemadó képzett összegét,
 
-f) a nyugellátás emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
+f) a nyugellátások és – törvény vagy kormányrendelet alapján – a 62. §-ban foglaltak szerint emelendő más pénzbeli ellátások emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
 
 g) az öregségi nyugdíj és a 6. § (4) bekezdése szerinti ellátások szüneteltetésének részletes eljárási szabályait,
 
@@ -32,11 +32,11 @@ m) a nyugdíj-biztosítási igazgatási szervek hivatalos iratainak a közigazga
 
 n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait,
 
-o) a 18. § (2b)–(2c) bekezdés szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonyokat, valamint a gyermekgondozási segélyben vagy súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekre tekintettel megállapított ápolási díjban eltöltött idővel szerzett jogosultsági idővel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati időket;
+o) a 18. § (2b)–(2c) bekezdés szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonyokat, valamint a gyermekgondozást segítő ellátásban vagy súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekre tekintettel megállapított ápolási díjban eltöltött idővel szerzett jogosultsági idővel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati időket;
 
 p) az özvegyi járadék számítására vonatkozó szabályokat;
 
-q) a 2. § (6) bekezdés szerinti esetben a társadalombiztosítási nyugdíjrendszerben szerzett jogosultságok meghatározásának, beszámításának módját;
+q)
 
 r) a társadalombiztosítási egyéni számlával kapcsolatos részletes szabályokat;
 

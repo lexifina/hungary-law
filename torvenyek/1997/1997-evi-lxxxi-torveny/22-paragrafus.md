@@ -24,7 +24,7 @@ j) a főállású kisadózó társadalombiztosítási ellátásainak alapjául s
 
 a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás (a továbbiakban együtt: álláskeresési támogatás) összegét,
 
-b) a gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
+b) a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
 
 c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermeknevelési támogatás, ápolási díj) összegét,
 
