@@ -4,4 +4,4 @@
 
 (2) Az állandó tartózkodási kártya kiadása iránti kérelmet az eljáró hatóság az állandó tartózkodási kártya kiadásával teljesíti, vagy azt határozattal utasítja el.
 
-(3) Az állandó tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított három hónapon belül hozza meg.
+(3) Az állandó tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított hetven napon belül hozza meg.

@@ -8,6 +8,6 @@
 
 (3) A tartózkodási kártya kiadása iránti kérelmet az eljáró hatóság a tartózkodási kártya kiadásával teljesíti, vagy azt határozattal utasítja el.
 
-(4) A tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított három hónapon belül hozza meg.
+(4) A tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított hetven napon belül hozza meg.
 
 (5) A tartózkodási kártya az érvényességi ideje alatt igazolja a tartózkodási jog fennállását.
