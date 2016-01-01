@@ -44,11 +44,11 @@ megszüntetésre kerül.
 
 (4) Pályázatot nyújthat be
 
-a)[^16] a hivatásos állomány rendvédelmi feladatokat ellátó szervnél szolgálatot teljesítő tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó tagja, aki rendészeti szakvizsgával rendelkezik, vagy mentesül a rendészeti szakvizsga letételének kötelezettsége alól,
+a)[^18] a hivatásos állomány rendvédelmi feladatokat ellátó szervnél szolgálatot teljesítő tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó tagja, aki rendészeti szakvizsgával rendelkezik, vagy mentesül a rendészeti szakvizsga letételének kötelezettsége alól,
 
-b)[^17] a rendvédelmi feladatokat ellátó szervek hivatásos állományából nyugállományba helyezett tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó személy, aki rendészeti szakvizsgával rendelkezik, vagy mentesült a rendészeti szakvizsga letételének kötelezettsége alól,
+b)[^19] a rendvédelmi feladatokat ellátó szervek hivatásos állományából nyugállományba helyezett tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó személy, aki rendészeti szakvizsgával rendelkezik, vagy mentesült a rendészeti szakvizsga letételének kötelezettsége alól,
 
-c)[^18] az az állami vezető, kormánytisztviselő vagy köztisztviselő, aki a rendvédelmi feladatokat ellátó szervek tevékenységével, felügyeletével kapcsolatos munkakört lát el, vagy nyugdíjaztatása előtt látott el és közigazgatási vagy rendészeti szakvizsgával rendelkezik, vagy a szakvizsga letételének kötelezettsége alól mentesült,
+c)[^20] az az állami vezető, kormánytisztviselő vagy köztisztviselő, aki a rendvédelmi feladatokat ellátó szervek tevékenységével, felügyeletével kapcsolatos munkakört lát el, vagy nyugdíjaztatása előtt látott el és közigazgatási vagy rendészeti szakvizsgával rendelkezik, vagy a szakvizsga letételének kötelezettsége alól mentesült,
 
 d) a Nemzeti Közszolgálati Egyetem oktatója, aki közigazgatási vagy rendészeti szakvizsgával rendelkezik, vagy a szakvizsga letételének kötelezettsége alól mentesült, vagy a mentesülés feltételeivel rendelkezik,
 
@@ -74,6 +74,6 @@ e) munkáltatói igazolást a szolgálati viszony vagy más foglalkoztatási jog
 
 (7) A RASZB elnökének kezdeményezésére a rendészetért felelős miniszter a névjegyzékből törölt személyek pótlása érdekében az öt év letelte előtt is pályázatot írhat ki a névjegyzékbe felvételre.
 
-[^16]: A 23. § (4) bekezdés a) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b)–c) pontja szerint módosított szöveg.
-[^17]: A 23. § (4) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) és d) pontja szerint módosított szöveg.
-[^18]: A 23. § (4) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^18]: A 23. § (4) bekezdés a) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b)–c) pontja szerint módosított szöveg.
+[^19]: A 23. § (4) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) és d) pontja szerint módosított szöveg.
+[^20]: A 23. § (4) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.

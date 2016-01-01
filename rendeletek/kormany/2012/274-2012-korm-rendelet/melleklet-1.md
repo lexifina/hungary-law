@@ -24,7 +24,7 @@ I. Közigazgatási alapismeretek
 
 10. Információbiztonság és adatvédelem, a híradásra, összeköttetésre és adattovábbításra vonatkozó sajátos lehetőségek és szabályok
 
-11.[^26] Nemzetpolitika
+11.[^28] Nemzetpolitika
 
 II. Rendészeti alapismeretek
 
@@ -38,7 +38,7 @@ II. Rendészeti alapismeretek
 
 5. Magatartási szabályok szolgálatban és szolgálaton kívül, viselkedési és közszolgálati etikai szabályok
 
-6.[^27] A rendvédelmi feladatokat ellátó szerveknél a szolgálati viszonyra vonatkozó általános szabályok, jogosultságok, kötelezettségek, valamint juttatások, járandóságok, karrierlehetőségek
+6.[^29] A rendvédelmi feladatokat ellátó szerveknél a szolgálati viszonyra vonatkozó általános szabályok, jogosultságok, kötelezettségek, valamint juttatások, járandóságok, karrierlehetőségek
 
 7. A szolgálati érintkezés szabályai, a szolgálati feladatok ellátásának egységesen érvényes rendje
 
@@ -56,5 +56,5 @@ II. Rendészeti alapismeretek
 
 14. Pszichológiai, intézkedés-lélektani és kommunikációs alapismeretek
 
-[^26]: Az 1. melléklet I. pont 11. alpontját a 303/2013. (VII. 31.) Korm. rendelet 18. §-a iktatta be.
-[^27]: Az 1. melléklet II. pont 6. alpontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet I. pont 11. alpontját a 303/2013. (VII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^29]: Az 1. melléklet II. pont 6. alpontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
