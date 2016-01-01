@@ -24,6 +24,9 @@ e)[^32] bölcsődében a sajátos nevelési igényű gyermekek nevelését, gond
 
 (4) A nappali melegedőben foglalkoztatott utcai szociális munkásnak – ha a munkáltató a munkahelyen történő munkavégzésre hosszabb időtartamot nem rendel el – legalább két órát kell a munkahelyen eltöltenie.
 
+(5)[^33] A bölcsődében foglalkoztatottak az (1) bekezdés, a (2) bekezdés a) pontja, illetve a (3) bekezdés e) pontja szerinti, munkahelyen eltöltendő munkaidején felüli időtartam tekintetében a bölcsődei nevelést, gondozást előkészítő, illetve azzal összefüggő egyéb feladatok elvégzése, továbbá gyakornok szakmai segítése, eseti helyettesítés rendelhető el.
+
 [^30]: A 7. § (1) bekezdése a 60/2011. (IV. 12.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^31]: A 7. § (2) bekezdés a) pontja a 326/2008. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^32]: A 7. § (3) bekezdés e) pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (1) bekezdés c) pontja, a 349/2012. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: A 7. § (5) bekezdését a 418/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be.

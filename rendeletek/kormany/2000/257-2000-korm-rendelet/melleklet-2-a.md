@@ -1,0 +1,35 @@
+2/a. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^91]
+
+## Pedagógus munkakörök a gyermekvédelmi szakellátási intézményekben, a bölcsődében és a javítóintézetben
+
+I. Pedagógus munkakörök a gyermekvédelmi szakellátási intézményekben és a javítóintézetben
+
+|  | Sorszám | Munkakör megnevezése |
+
+|  | 1. | nevelő |
+
+|  | 2. | fejlesztőpedagógus |
+
+|  | 3. | gyógypedagógus |
+
+|  | 4. | pszichológus |
+
+|  | 5. | nevelőszülői tanácsadó |
+
+|  | 6. | javítóintézeti utógondozó |
+
+|  | 7. | szakoktató |
+
+|  | 8. | nevelőszülői hálózat szakmai vezetője |
+
+|  | 9. | gyermekotthon vezető |
+
+|  | 10. | otthonvezető javítóintézetben |
+
+|  | 11. | gyermekvédelmi szakértői bizottság családgondozója |
+
+|  | 12. | örökbefogadási tanácsadó |
+
+II. Pedagógus munkakörök a bölcsődében
+
+[^91]: A 2/a. számú mellékletet a 418/2015. (XII. 23.) Korm. rendelet 8. §-a iktatta be.

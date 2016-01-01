@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2015-01-01 | 2000-257-20-22.22 | 517/2013. (XII. 30.) Korm. rendelet |
 | 2015-07-01 | 2000-257-20-22.23 | 165/2015. (VI. 30.) Korm. rendelet |
 | 2015-12-09 | 2000-257-20-22.24 | 381/2015. (XII. 8.) Korm. rendelet |
+| 2016-01-01 | 2000-257-20-22.25 | 418/2015. (XII. 23.) Korm. rendelet |

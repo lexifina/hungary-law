@@ -32,7 +32,7 @@
 
 | 14 | 56,00% | 56,50% | 57,50% | 58,00% | 58,50% | 63,50% | 66,00% | 71,00% | 73,50% | 86,00% |
 
-6. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^91]
+6. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^95]
 
 A kiegészítő pótlék összege (Ft)
 
@@ -138,4 +138,4 @@ A kiegészítő pótlék összege (Ft)
 
 | 48 év felett | 14 000 | 26 916 | 26 716 | 38 604 | 40 122 | 47 590 | 34 290 | 68 722 | 41 567 | 12 111 |
 
-[^91]: A 6. számú mellékletet a 165/2015. (VI. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 381/2015. (XII. 8.) Korm. rendelet 2. §-ával megállapított szöveg, ez utóbbi módosító rendelet 3. §-a alapján rendelkezéseit 2015. december 1-jétől kell alkalmazni.
+[^95]: A 6. számú mellékletet a 165/2015. (VI. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 381/2015. (XII. 8.) Korm. rendelet 2. §-ával megállapított szöveg, ez utóbbi módosító rendelet 3. §-a alapján rendelkezéseit 2015. december 1-jétől kell alkalmazni.
