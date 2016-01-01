@@ -6,7 +6,7 @@ a)[^77] a hátrányos helyzetű jelentkező minden jelentkezési helyén 40 töb
 
 b) a fogyatékossággal élő jelentkező minden jelentkezési helyén 40 többletpontra;
 
-c)[^78] gyermeke gondozása céljából fizetés nélküli szabadságon lévő, csecsemőgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesül, és ezt ezen időszakban kiállított igazolással bizonyítja, minden jelentkezési helyén 40 többletpontra
+c)[^78] gyermeke gondozása céljából fizetés nélküli szabadságon lévő, csecsemőgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesül, és ezt ezen időszakban kiállított igazolással bizonyítja, minden jelentkezési helyén 40 többletpontra
 
 jogosult.
 
@@ -22,4 +22,4 @@ jogosult.
 
 [^76]: A 24. § (1) bekezdés nyitó szövegrésze a 345/2015. (XI. 19.) Korm. rendelet 46. § 18. pontja szerint módosított szöveg.
 [^77]: A 24. § (1) bekezdés a) pontja az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^78]: A 24. § (1) bekezdés c) pontja a 335/2014. (XII. 18.) Korm. rendelet 17. § j) pontja, a 345/2015. (XI. 19.) Korm. rendelet 46. § 18. pontja és 47. § 6. pontja szerint módosított szöveg.
+[^78]: A 24. § (1) bekezdés c) pontja a 335/2014. (XII. 18.) Korm. rendelet 17. § j) pontja, a 345/2015. (XI. 19.) Korm. rendelet 46. § 18. pontja és 47. § 6. pontja, a 417/2015. (XII. 23.) Korm. rendelet 42. §-a szerint módosított szöveg.
