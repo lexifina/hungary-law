@@ -28,7 +28,7 @@ f) olyan szervezet, amelynek tevékenységei között a lőoktatás szerepel.
 
 (4) Az (1) és (3) bekezdésben meghatározott engedély kiadására irányuló eljárásban
 
-a) a 3/A. § (2) bekezdés a)–c) pontjában meghatározott körülménnyel kapcsolatos igazolásra a 3/A. § (3) és (5) bekezdésében,
+a) a 3/A. § (2) bekezdés a)–c) pontjában meghatározott körülménnyel kapcsolatos igazolásra a 3/A. § (5) bekezdésében,
 
 b) a hatósági ellenőrzésre a 3/A. § (4) és (5) bekezdésében
 

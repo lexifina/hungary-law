@@ -24,7 +24,7 @@ d) szabálysértési felelősségét polgári felhasználású robbanóanyaggal 
 
 e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét súlyosan megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedélyt visszavonó határozat jogerőre emelkedését követő hat hónapig.
 
-(3) A 3. § (1) bekezdésében meghatározott engedély iránti kérelem elbírására irányuló eljárásban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele szemben a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+(3)
 
 (4) A rendőrség hatósági ellenőrzése során a (2) bekezdésben meghatározott körülmények fennállását legalább évente egy alkalommal vizsgálja. A hatósági ellenőrzés során a rendőrség
 
@@ -34,7 +34,7 @@ b) a (2) bekezdés d) pontjában meghatározott körülmény vizsgálata céljá
 
 meghatározott körülményre vonatkozó adatokat átveszi és kezeli.
 
-(5) A (3) és (4) bekezdésben foglaltak alapján megismert személyes adatokat a rendőrség
+(5) A (4) bekezdésben foglaltak alapján megismert személyes adatokat a rendőrség
 
 a) a 3. §-ban meghatározott engedély megadása iránti eljárás jogerős befejezéséig,
 

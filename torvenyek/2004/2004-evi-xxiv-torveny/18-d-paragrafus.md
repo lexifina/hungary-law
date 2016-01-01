@@ -22,7 +22,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig.
 
-(3) A 18/B. § (1) bekezdésében meghatározott engedélyezési eljárásokban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele és az általa foglalkoztatott pirotechnikussal, valamint az általa foglalkoztatott, a polgári célú pirotechnikai tevékenységet irányító személlyel szemben az (1) bekezdés a) és c), valamint a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+(3)
 
 (4) A rendőrség a hatósági ellenőrzéskor az (1) és (2) bekezdésben meghatározott feltételek fennállását vizsgálja. A rendőrség a hatósági ellenőrzés során az (1) és a (2) bekezdésben meghatározott feltételek fennállásának ellenőrzése céljából jogosult a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, a büntetőeljárás hatálya alatt állók nyilvántartásából, a bírósági cégnyilvántartásból, a rendőrség által a felügyeleti bírsággal sújtott vállalkozásokról vezetett nyilvántartásból, valamint a központi szabálysértési nyilvántartásból az (1) és (2) bekezdésben meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni.
 
