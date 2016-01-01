@@ -50,7 +50,7 @@
 
 | 21.titokvédelmi terület | minősített adatok védelmének szakmai felügyeletéért felelős miniszter |
 
-2. melléklet a 208/2009. (IX. 29.) Korm. rendelethez[^6]
+2. melléklet a 208/2009. (IX. 29.) Korm. rendelethez[^8]
 
 A névjegyzékbe vétel feltételei fennállásának felülvizsgálata során a képesítés szakirányúságának elbírálása kérdésében kijelölt szakhatóság
 
@@ -68,4 +68,4 @@ A névjegyzékbe vétel feltételei fennállásának felülvizsgálata során a 
 
 | 6 | Ha az igazságügyi szakértő hírközlési szakterülete a hírközlési területen bejegyezhető szakterületek valamelyikének megfelel. | Nemzeti Média- és Hírközlési Hatóság |
 
-[^6]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 35. § (2) bekezdésével megállapított, a 264/2012. (IX. 17.) Korm. rendelet 2. §-a, a 147/2015. (VI. 12.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^8]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 35. § (2) bekezdésével megállapított, a 264/2012. (IX. 17.) Korm. rendelet 2. §-a, a 147/2015. (VI. 12.) Korm. rendelet 4. §-a szerint módosított szöveg.
