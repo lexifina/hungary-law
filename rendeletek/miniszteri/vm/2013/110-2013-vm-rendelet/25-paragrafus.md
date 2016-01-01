@@ -24,11 +24,11 @@ g) a 2003. július 19-ét követően létesítési engedélyt kapott 100 MWth-ot
 
 h) a folyamatos kibocsátásmérés eredményeit feldolgozni és értékelni 2015. december 31-ig a 13. mellékletben foglaltak szerint kell;
 
-i)[^30] az időszakos kibocsátásméréseket – ha a környezetvédelmi hatóság nem írja elő a folyamatos mérést – az üzemeltetőnek 2015. december 31-ig legalább hathónapos gyakorisággal kell elvégezni oly módon, hogy az időszakos kibocsátásmérések eredményeiből – ha az adatok rendelkezésre állnak – órás középértékeket, illetve a mérési időtartamra vonatkoztatott középértéket kell képezni;
+i)[^29] az időszakos kibocsátásméréseket – ha a környezetvédelmi hatóság nem írja elő a folyamatos mérést – az üzemeltetőnek 2015. december 31-ig legalább hathónapos gyakorisággal kell elvégezni oly módon, hogy az időszakos kibocsátásmérések eredményeiből – ha az adatok rendelkezésre állnak – órás középértékeket, illetve a mérési időtartamra vonatkoztatott középértéket kell képezni;
 
-j)[^31] a 6. § (1), (6) és (7) bekezdésében, a 7. § (1) és (2) bekezdésében, a 8. § (1)–(3) bekezdésében, a 15. §-ban, a 20. § (2) bekezdésében, a 22. § (1) és (2) bekezdésében, a 23. § (1) bekezdésében, az 1. mellékletben, az 5. melléklet 4. pontjában, a 7. melléklet 1. pontjában, továbbá a 8. mellékletben foglalt rendelkezéseket 2015. december 31-ig nem kell alkalmazni.
+j)[^30] a 6. § (1), (6) és (7) bekezdésében, a 7. § (1) és (2) bekezdésében, a 8. § (1)–(3) bekezdésében, a 15. §-ban, a 20. § (2) bekezdésében, a 22. § (1) és (2) bekezdésében, a 23. § (1) bekezdésében, az 1. mellékletben, az 5. melléklet 4. pontjában, a 7. melléklet 1. pontjában, továbbá a 8. mellékletben foglalt rendelkezéseket 2015. december 31-ig nem kell alkalmazni.
 
 (2) Az (1) bekezdés i) pontjában foglalt esetben a kibocsátási határértékek akkor tekinthetők betartottnak, ha a mérések eredményeinek középértékei nem haladják meg a 9–12. mellékletben szereplő, az adott tüzelőberendezésre érvényes kibocsátási határértékeket.
 
-[^30]: A 25. § (1) bekezdés i) pontja a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
-[^31]: A 25. § (1) bekezdés j) pontját a 31/2014. (IV. 3.) VM rendelet 3. § (4) bekezdése iktatta be.
+[^29]: A 25. § (1) bekezdés i) pontja a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
+[^30]: A 25. § (1) bekezdés j) pontját a 31/2014. (IV. 3.) VM rendelet 3. § (4) bekezdése iktatta be.
