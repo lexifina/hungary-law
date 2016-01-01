@@ -10,7 +10,7 @@
 
 (3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a fellebbezés elbírálására jogosult hatósághoz, kivéve, ha az elsőfokú döntést hozó hatóság a megtámadott határozatot (végzést) visszavonja, illetőleg a fellebbezésnek megfelelően módosítja, kijavítja vagy kiegészíti.
 
-(4) A fellebbezés elbírálására jogosult hatóság a jogorvoslati eljárás során hozott döntését az ügy összes iratának beérkezését követő két hónapon belül hozza meg, amelyet a jogorvoslati kérelem elbírálója indokolt esetben, egy alkalommal ugyanezen időtartalommal meghosszabbíthat.
+(4) A fellebbezés elbírálására jogosult hatóság a jogorvoslati eljárás során hozott döntését az ügy összes iratának beérkezését követő negyvenöt napon belül hozza meg.
 
 (5) A fellebbezésben hivatkozott új tényt, új bizonyítékot a döntéshozatal során a fellebbezés elbírálására jogosult hatóság csak abban az esetben veheti figyelembe, ha az ügyfél igazolni tudja, valamint az ügy körülményeiből megállapítható, hogy az ügyfél az új tényről, bizonyítékról az intézkedésben való részvételre vonatkozó kérelme benyújtásakor rajta kívül álló okból nem tudott.
 

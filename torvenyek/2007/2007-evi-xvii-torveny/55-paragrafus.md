@@ -4,9 +4,9 @@
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet a támogatás kifizetésének közvetlenül alkalmazandó közösségi jogi aktusban meghatározott esedékességéig bírálja el.
 
-(3) A (2) bekezdésben foglalt eseteken kívül – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárás megindítására vonatkozó kérelmet annak beérkezését követő három hónapon belül bírálja el. Amennyiben a kérelmet érdemi vizsgálat nélkül kell elutasítani, a végzést a mezőgazdasági és vidékfejlesztési támogatási szerv harminc napon belül hozza meg. Az ügyfél-nyilvántartási rendszerben való nyilvántartással, valamint a fizetési halasztással, részletfizetéssel kapcsolatos kérelmet annak hiánytalan beérkezésétől számított huszonegy napon belül kell elbírálni.
+(3) A (2) bekezdésben foglalt eseteken kívül – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárás megindítására vonatkozó kérelmet annak beérkezését követő hetven napon belül bírálja el. Amennyiben a kérelmet érdemi vizsgálat nélkül kell elutasítani, a végzést a mezőgazdasági és vidékfejlesztési támogatási szerv huszonegy napon belül hozza meg. Az ügyfél-nyilvántartási rendszerben való nyilvántartással, valamint a fizetési halasztással, részletfizetéssel kapcsolatos kérelmet annak hiánytalan beérkezésétől számított huszonegy napon belül kell elbírálni.
 
-(4) Ha a támogatás kifizetésének esedékességét közvetlenül alkalmazandó közösségi jogi aktus nem határozza meg, és az intézkedésekben való részvétel részletes feltételeit megállapító jogszabály alapján a támogatási kérelmek elbírálása rangsor állítása vagy arányosítás alapján történik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmeket a kérelem benyújtására nyitva álló időszakot követő három hónapon belül bírálja el.
+(4) Ha a támogatás kifizetésének esedékességét közvetlenül alkalmazandó közösségi jogi aktus nem határozza meg, és az intézkedésekben való részvétel részletes feltételeit megállapító jogszabály alapján a támogatási kérelmek elbírálása rangsor állítása vagy arányosítás alapján történik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmeket a kérelem benyújtására nyitva álló időszakot követő hetven napon belül bírálja el.
 
 (5) Amennyiben jogszabály másként nem rendelkezik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelemnek részben vagy egészben helyt adó elsőfokú döntés helyt adó része alapján a támogatást a fellebbezésre tekintet nélkül az ügyfél részére folyósítja.
 
@@ -22,4 +22,4 @@
 
 (11) Nem kell a szakhatóságot megkeresni, ha a mezőgazdasági és vidékfejlesztési támogatási szerv a hiánypótlási felszólítás kibocsátására nyitva álló határidőn belül megállapítja, hogy a kérelmet a szakhatósági állásfoglalástól függetlenül el kell utasítani.
 
-(12) A mezőgazdasági és vidékfejlesztési támogatási szerv vezetője az ügyintézési határidőt annak letelte előtt indokolt esetben egy alkalommal, legfeljebb az eljárásra nyitva álló időtartammal meghosszabbíthatja.
+(12)

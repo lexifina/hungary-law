@@ -1,6 +1,6 @@
 ## A hiánypótlás
 
-41. § (1) Ha az intézkedésre vonatkozó jogszabály nem zárja ki, és a kérelemben található hiba az ügyfél közreműködése nélkül nyilvánvaló hibaként nem javítható ki, az ügyfelet legkésőbb az intézkedésre irányadó ügyintézési határidő kezdetét követő két hónapon belül hiánypótlásra kell felszólítani. Jogszabály ennél rövidebb határidőt is meghatározhat.
+41. § (1) Ha az intézkedésre vonatkozó jogszabály nem zárja ki, és a kérelemben található hiba az ügyfél közreműködése nélkül nyilvánvaló hibaként nem javítható ki, az ügyfelet legkésőbb az intézkedésre irányadó ügyintézési határidő kezdetét követő harminc napon belül hiánypótlásra kell felszólítani. Jogszabály ennél rövidebb határidőt is meghatározhat.
 
 (2) Jogszabály eltérő rendelkezése hiányában hiánypótlási, nyilatkozattételre való felhívás azonos tárgyban ismételten nem bocsátható ki.
 

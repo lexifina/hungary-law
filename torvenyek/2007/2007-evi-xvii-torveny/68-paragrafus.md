@@ -30,7 +30,7 @@ b) a legkedvezőbb pályázatok elfogadásának részletes indokait,
 
 c) a kikötött biztosítékok megfelelőségének értékelését.
 
-(7) Az ügyfelet a döntésről a bírálati jegyzőkönyv elkészültétől számított hatvan napon belül értesíteni kell.
+(7) Az ügyfelet a döntésről a bírálati jegyzőkönyv elkészültétől számított negyvenöt napon belül értesíteni kell.
 
 (8) Az ügyfél – a rá vonatkozó adatok tekintetében – jogosult betekinteni a pályázat elbírálásával összefüggésben keletkezett bírálati jegyzőkönyvbe.
 
