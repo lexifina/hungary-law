@@ -82,7 +82,7 @@
 
 ## 3. Előző év(ek) eredménye
 
-## 4. Üzleti év eredménye
+## 4.[^56] Tárgyévi eredmény
 
 ## F) Céltartalékok
 
@@ -180,11 +180,9 @@
 
 ## H) Passzív időbeli elhatárolások
 
-2. számú melléklet a 215/2000. (XII. 11.) Korm. rendelethez
+2. számú melléklet a 215/2000. (XII. 11.) Korm. rendelethez[^57]
 
-I. Az ingatlanalap eredménykimutatásának
-
-előírt tagolása
+I. Az ingatlanalap eredménykimutatásának előírt tagolása
 
 I. Értékesítés nettó árbevétele
 
@@ -200,17 +198,13 @@ VI. Pénzügyi műveletek bevételei
 
 VII. Pénzügyi műveletek ráfordításai
 
-VIII. Rendkívüli bevételek
+VIII. Fizetett, fizetendő hozamok
 
-IX. Rendkívüli ráfordítások
+IX. Tárgyévi eredmény
 
-X. Fizetett, fizetendő hozamok
+## (I+II-III-IV-V+VI-VII-VIII)
 
-XI. Tárgyévi eredmény (I+II–III–IV–V+VI–VII+VIII–IX–X)
-
-II. Az értékpapíralap eredménykimutatásának
-
-előírt tagolása
+II. Az értékpapíralap eredménykimutatásának előírt tagolása
 
 I. Pénzügyi műveletek bevételei
 
@@ -222,10 +216,9 @@ IV. Működési költségek
 
 V. Egyéb ráfordítások
 
-VI. Rendkívüli bevételek
+VI. Fizetett, fizetendő hozamok
 
-VII. Rendkívüli ráfordítások
+VII. Tárgyévi eredmény
 
-VIII. Fizetett, fizetendő hozamok
-
-IX. Tárgyévi eredmény (I–II+III–IV–V+VI–VII–VIII)
+[^56]: Az 1. számú melléklet „I. Az ingatlanalap mérlegének előírt tagolása” cím, „FORRÁSOK (PASSZÍVÁK)” alcím, „E. Saját tőke, II. Tőkeváltozás (tőkenövekmény)” fősor 4. pontja a 484/2015. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^57]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.

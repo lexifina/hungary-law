@@ -36,7 +36,7 @@ d) tőzsdén kívüli kamatlábügyletek (kamatalapú határidős és swap ügyl
 
 (5) A származtatott ügyletek piaci értékének meghatározásakor az ügylet tárgyát képező pénzügyi instrumentum, egyéb áru piaci árának meghatározásakor figyelembe kell venni többek között:
 
-a) határidős tőzsdei ügyletek esetén a pénzügyi instrumentum, illetve egyéb áru értékelési napi tőzsdei kereskedési napjára vonatkozóan az elszámolóház által megállapított elszámolóárát, árfolyamát;
+a)[^25] határidős tőzsdei ügyletek esetén a pénzügyi instrumentum, illetve egyéb áru értékelési napi tőzsdei kereskedési napjára vonatkozóan a központi értéktár, a központi szerződő fél által megállapított elszámolóárát, árfolyamát;
 
 b) tőzsdén kívüli határidős deviza ügyletek, deviza swap ügyletek esetén az értékelés napján érvényes, az MNB által közzétett hivatalos devizaárfolyamot vagy a választott hitelintézet deviza-átlagárfolyamát vagy a határidős piaci árfolyamot;
 
@@ -46,7 +46,7 @@ d) egyéb tőzsdén kívüli ügyletek esetében az elismert piacon kialakult, a
 
 (6) A befektetési alapnak – jellegétől függően – a portfoliójában lévő eszközei közül:
 
-a)[^25] a Kbftv.-ben meghatározott gyakorisággal át kell értékelni az értékelés napján érvényes piaci értékre:
+a)[^26] a Kbftv.-ben meghatározott gyakorisággal át kell értékelni az értékelés napján érvényes piaci értékre:
 
 (– a bérbeadás céljára vásárolt – tárgyi eszközök között kimutatott – ingatlanokat,
 
@@ -70,7 +70,7 @@ b) a beszerzési (bekerülési) értéken, illetve annak értékvesztéssel csö
 
 – az aktív, illetve a passzív időbeli elhatárolást.
 
-(7)[^26] A három hónapon belüli lejáratú forintkövetelések piaci értékének meghatározásakor figyelembe vehető a követelések – Tv. szerinti – értékelésének általános szempontjain túlmenően a követelések lejárat időpontjáig diszkontált összege. A kölcsönadott értékpapír miatti követelés piaci értékének meghatározásakor a tárgyát képező értékpapír piaci értékét kell alapul venni. Az ilyen követelések után értékvesztés nem számolható el, azok értékeléséből adódó veszteség vagy nyereség jellegű különbözeteket a követelés értékelési különbözeteként kell elszámolni.
+(7)[^27] A három hónapon belüli lejáratú forintkövetelések piaci értékének meghatározásakor figyelembe vehető a követelések – Tv. szerinti – értékelésének általános szempontjain túlmenően a követelések lejárat időpontjáig diszkontált összege. A kölcsönadott értékpapír miatti követelés piaci értékének meghatározásakor a tárgyát képező értékpapír piaci értékét kell alapul venni. Az ilyen követelések után értékvesztés nem számolható el, azok értékeléséből adódó veszteség vagy nyereség jellegű különbözeteket a követelés értékelési különbözeteként kell elszámolni.
 
 (8) A (6) bekezdés a) pontja szerinti eszközök, illetve külföldi pénzértékre szóló kötelezettségek piaci értékelésekor az értékelés napján meghatározott piaci érték és a beszerzési (bekerülési) érték (a tárgyi eszközök között szereplő ingatlanok nettó értéke) különbözetét az adott eszközhöz rendelten értékelési különbözetként kell elszámolni és kimutatni a – saját tőkén belüli tőkeváltozás (tőkenövekmény) részét képező – értékelési különbözet tartalékával szemben. Az értékelési különbözet összegét minden értékelés alkalmával az új piaci érték és a beszerzési érték (a tárgyi eszközök között szereplő ingatlanok nettó értéke) közötti különbözet összegére kell kiegészíteni (csökkenteni vagy növelni) az értékelési különbözet tartalékával szemben. Az adott eszköz, illetve a külföldi pénzértékre szóló kötelezettség értékelési különbözetét az eszköz értékesítésekor vagy a könyvekből való más módón történő kivezetésekor, illetve a külföldi pénzértékre szóló kötelezettség törlesztésekor kell megszüntetni az értékelési különbözet tartalékával szemben.
 
@@ -86,7 +86,7 @@ b) az adott devizaeszköz, illetve devizakötelezettség értékelési különb�
 
 (12) A befektetési alapnak a befektetett pénzügyi eszközök és a forgóeszközök között kimutatott értékpapírok után, az üzleti évben időarányosan járó kamatok és osztalékok összegét nem szabad aktív időbeli elhatárolásként, illetve követelésként a bevételekkel szemben elszámolnia, mivel annak összegét az értékelési különbözet magában foglalja. Az értékpapírok értékelési különbözetét a főkönyvi és az analitikus nyilvántartásokban, valamint év végén a mérlegben meg kell bontani kamatokból, osztalékokból, valamint egyéb piaci értékítéletből adódó értékelési különbözetre. A mérleg fordulónapjáig pénzügyileg realizált kamatok, osztalékok pénzügyi műveletek bevételei között elszámolt összegével csökkenteni kell az – eszközökhöz kapcsolódó – értékelési különbözetet az értékelési különbözet tartalékával szemben.
 
-(13)[^27]
+(13)[^28]
 
 (14) Az analitikus nyilvántartás vagy a főkönyvi könyvelés keretében biztosítani kell, hogy az értékelési különbözet eszközönként (ingatlanonként, értékpapíronként, valuta- és devizakészleteknél devizanemenként, külföldi pénzértékre szóló követelésenként) és külföldi kötelezettségenként egyedileg, valamint származtatott ügyletenként külön-külön megállapítható legyen.
 
@@ -97,6 +97,7 @@ b) az adott devizaeszköz, illetve devizakötelezettség értékelési különb�
 [^22]: A 7. § a 289/2001. (XII. 26.) Korm. rendelet 5. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^23]: A 7. § (1) bekezdése a 344/2011. (XII. 29.) Korm. rendelet 33. § (5) bekezdésével megállapított, a 79/2014. (III. 14.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
 [^24]: A 7. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 198. §-a szerint módosított szöveg.
-[^25]: A 7. § (6) bekezdés a) pontja a 344/2011. (XII. 29.) Korm. rendelet 33. § (6) bekezdésével megállapított, nyitó szövegrésze a 79/2014. (III. 14.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
-[^26]: A 7. § (7) bekezdés harmadik mondatát a 331/2008. (XII. 30.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^27]: A 7. § (13) bekezdését a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte. A nyílt végű befektetési alapra vonatkozó kötelezettségre lásd e módosító rendelet 40. §-át.
+[^25]: A 7. § (5) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
+[^26]: A 7. § (6) bekezdés a) pontja a 344/2011. (XII. 29.) Korm. rendelet 33. § (6) bekezdésével megállapított, nyitó szövegrésze a 79/2014. (III. 14.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
+[^27]: A 7. § (7) bekezdés harmadik mondatát a 331/2008. (XII. 30.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^28]: A 7. § (13) bekezdését a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte. A nyílt végű befektetési alapra vonatkozó kötelezettségre lásd e módosító rendelet 40. §-át.
