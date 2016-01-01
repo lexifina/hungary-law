@@ -46,7 +46,7 @@ c) üzemeltetői kivizsgálás, intézkedés és a veszélykezelési eljárás m
 
 (13)[^38] A vízszolgáltatás helye szerinti illetékes népegészségügyi szerv a jóváhagyó határozatot hivatalból visszavonhatja, amennyiben az ivóvízbiztonsági tervben foglaltak nem teljesülnek, vagy az ivóvízbiztonsági terv szerinti megelőző és veszélykezelési tevékenységet az üzemeltető nem alkalmazza.
 
-(14)[^39] Az ivóvízbiztonsági terv felülvizsgálatára, illetve jóváhagyására irányuló eljárás ügyintézési határideje 45 nap.
+(14)[^39]
 
 (15)[^40] Az ivóvízbiztonsági tervben foglaltak betartását az ivóvízbiztonság hatósági ellenőrzésének keretében az illetékes népegészségügyi szerv évente legalább egyszer a helyszínen is ellenőrzi.
 
@@ -69,5 +69,5 @@ c) üzemeltetői kivizsgálás, intézkedés és a veszélykezelési eljárás m
 [^36]: A 4. § (11) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^37]: A 4. § (12) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^38]: A 4. § (13) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^39]: A 4. § (14) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 43. §-a iktatta be.
+[^39]: A 4. § (14) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 43. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 40. §-a. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^40]: A 4. § (15) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 43. §-a iktatta be.
