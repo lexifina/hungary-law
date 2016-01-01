@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-167-20-
 | 2011-01-01 | 2010-167-20-22.4 | 273/2010. (XII. 9.) Korm. rendelet |
 | 2012-01-01 | 2010-167-20-22.5 | 361/2011. (XII. 30.) Korm. rendelet |
 | 2014-09-05 | 2010-167-20-22.6 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2016-01-01 | 2010-167-20-22.7 | 486/2015. (XII. 29.) Korm. rendelet |
