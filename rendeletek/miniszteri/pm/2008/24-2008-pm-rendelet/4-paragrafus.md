@@ -1,4 +1,4 @@
-## 3. §[^1] A Tpt. 61. § (1) bekezdés szerinti tájékoztatási kötelezettséget, továbbá a Tpt. 61. § (1) bekezdés szerinti tájékoztatási kötelezettség alóli mentesülés bejelentését az Európai Bizottság által meghatározott tartalmú, a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által üzemeltetett honlapon közzétett formanyomtatvány alkalmazásával kell teljesíteni.
+## 3. §[^1] A Tpt. 61. § (1) bekezdése szerinti tájékoztatási kötelezettséget, továbbá a Tpt. 61. § (1) bekezdése szerinti tájékoztatási kötelezettség alóli mentesülés bejelentését az Európai Bizottság által meghatározott tartalmú, a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által a hiteles adatok fogadásához kialakított és üzemeltetett, biztonsági kézbesítési szolgáltatásnak minősülő elektronikus kézbesítési rendszerben (a továbbiakban: ERA rendszer), elektronikus űrlap alkalmazásával kell teljesíteni.
 
 4. § (1)[^2] A szabályozott információ korlátozástól mentes elérhetősége érdekében a kibocsátó a szabályozott információt egyidejűleg
 
@@ -42,6 +42,6 @@ c) a szabályozott információ terjesztéséhez használt közvetítő eszközt
 
 d) a szabályozott információra elrendelt embargóra vonatkozó részleteket.
 
-[^1]: A 3. § a 21/2010. (V. 12.) PM rendelet 1. §-ával megállapított, a 40/2013. (IX. 30.) NGM rendelet 9. § a) pontja szerint módosított szöveg.
+[^1]: A 3. § a 39/2015. (XII. 28.) NGM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 4. § (1) bekezdése a 18/2012. (VII. 13.) NGM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 4. § (5) bekezdés nyitó szövegrésze a 40/2013. (IX. 30.) NGM rendelet 9. § b) pontja szerint módosított szöveg.

@@ -8,19 +8,19 @@
 
 ## 3. a kibocsátó nyilatkozatát (az aláírók nevének és beosztásának közlésével), hogy az 1. és 2. pontban leírtak megbízható és valós képet adnak a kibocsátó és konszolidációba bevont vállalkozásai helyzetéről.
 
-4. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^10]
+4. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^13]
 
 ## A rendkívüli tájékoztatás keretében közzéteendő információk köre
 
 ## A rendkívüli tájékoztatás keretében – legalább az 1–5. részben meghatározott – minden olyan információt közzé kell tenni, amely az adott értékpapír értékét vagy hozamát, illetve a kibocsátó megítélését közvetlenül vagy közvetve érinti.
 
-1. A rendkívüli tájékoztatás keretében nyilvánosan forgalomba hozott értékpapír kibocsátója (a helyi önkormányzatok kivételével) – legalább az 1.1.–1.26. pontban meghatározott – információkat teszi közzé.
+1.[^14] A rendkívüli tájékoztatás keretében nyilvánosan forgalomba hozott értékpapír kibocsátója (a helyi önkormányzatok kivételével) – legalább az 1.1–1.29. pontban meghatározott – információkat teszi közzé
 
-1.1. az értékpapírhoz kapcsolódó jogok kibocsátó által tervezett megváltoztatására vonatkozó döntés és az értékpapírhoz kapcsolódó jogok megváltoztatásának végrehajtása,
+1.1.[^15] az értékpapírhoz kapcsolódó jogok kibocsátó által tervezett megváltoztatására vonatkozó döntés és az értékpapírhoz kapcsolódó jogok megváltoztatásának végrehajtása,
 
-1.2. értékpapír forgalomba hozatala,
+1.2.[^16] értékpapír nyilvános vagy zártkörű forgalomba hozatala,
 
-1.3. az értékpapír szabályozott piacra történő bevezetése, kivezetése,
+1.3.[^17] az értékpapír szabályozott piacra történő bevezetése, kivezetése, átvezetése,
 
 1.4. az értékpapír alapján fennálló kötelezettség teljesítésének módja, helye, időpontja,
 
@@ -40,7 +40,7 @@
 
 1.12. olyan engedély megszerzése vagy megvonása, amely a kibocsátó gazdasági teljesítményét jelentősen befolyásolhatja,
 
-1.13.[^11] a kibocsátó saját kibocsátású értékpapírjának tulajdonlásában bekövetkezett változás (dátum, mennyiség, az ügyletet követően a kibocsátó által tulajdonolt összmennyiség), ide nem értve a kibocsátó befektetési szolgáltatási tevékenysége körében ügyfélmegbízáshoz kapcsolódó, illetőleg árjegyzői tevékenysége keretében végrehajtott saját kibocsátású értékpapír tranzakciót,
+1.13.[^18] a kibocsátó saját kibocsátású értékpapírjának tulajdonlásában bekövetkezett változás (dátum, mennyiség, az ügyletet követően a kibocsátó által tulajdonolt összmennyiség), ide nem értve a kibocsátó befektetési szolgáltatási tevékenysége körében ügyfélmegbízáshoz kapcsolódó, illetőleg árjegyzői tevékenysége keretében végrehajtott saját kibocsátású értékpapír tranzakciót,
 
 1.14. a kibocsátó saját kibocsátású értékpapírjára vonatkozó vételi vagy eladási opció, vételi vagy eladási megbízás és ezek teljesülése (dátum, mennyiség, árfolyam, befektetési vállalkozás neve, az ügyletet követően a kibocsátó által tulajdonolt összmennyiség),
 
@@ -54,13 +54,13 @@
 
 1.19. az eljáró felügyeleti hatóság megválasztása,
 
-1.20. új hitelviszonyt megtestesítő értékpapír forgalomba hozatala esetén a kapcsolódó garanciákra és biztosítékokra vonatkozó információk,
+1.20.[^19]
 
 1.21. a kibocsátó létesítő okiratának módosítására vonatkozó kezdeményezés döntésre jogosult elé terjesztése,
 
 1.22. peres eljárás megindítása és lezárása a kibocsátó által vagy a kibocsátó ellen,
 
-1.23. az adóhatóság által lefolytatott eljárás akkor, ha az eljárás során meghozott érdemi határozatban kötelezettségként megállapított pénzbírság összege az alaptőke tíz százalékát meghaladja,
+1.23.[^20] az adóhatóság által lefolytatott eljárás akkor, ha az eljárás során meghozott érdemi határozatban kötelezettségként megállapított pénzbírság összege a kibocsátó alaptőkéjének, törzstőkéjének tíz százalékát meghaladja,
 
 1.24. a kibocsátó új befektetései, ideértve a leányvállalat alapítását is, vagy már meglevő befektetések növelése abban az esetben, ha az a befektetés tárgyát képező társaság alaptőkéjének, törzstőkéjének tíz százalékát meghaladja,
 
@@ -76,7 +76,13 @@
 
 1.26.4. olyan szerződés vagy megállapodás érvényes létrejötte, amely a teljes értékpapír-sorozat szabad forgalmazhatóságát korlátozza, az erről rendelkezésére álló információk megjelölésével,
 
-1.26.5. a kibocsátó eszközeinek jelentős növekedése, csökkenése vagy az eszközök összetételében és az ezt finanszírozó saját és idegen források összetételében, megszerzésük feltételeiben beálló jelentős változás.
+1.26.5. a kibocsátó eszközeinek jelentős növekedése, csökkenése vagy az eszközök összetételében és az ezt finanszírozó saját és idegen források összetételében, megszerzésük feltételeiben beálló jelentős változás,
+
+1.27.[^21] a Felügyelet piacfelügyeleti eljárásában hozott, a kibocsátó vonatkozásában intézkedést tartalmazó döntés száma, a döntés rendelkező része és a döntés kiadmányozásának dátuma,
+
+1.28.[^22] a Felügyelet ellenőrzési eljárásában vagy folyamatos felügyelet keretében hozott, a kibocsátóval szemben a tájékoztatási kötelezettség teljesítése vonatkozásában intézkedést tartalmazó döntés száma, a döntés rendelkező része és a döntés kiadmányozásának dátuma,
+
+1.29.[^23] a könyvvizsgáló személyében bekövetkezett változás esetén a változás rövid indokolása, továbbá az új könyvvizsgáló neve (cége) és lakóhelye (székhelye), kamarai tag könyvvizsgáló esetén nyilvántartási száma és könyvvizsgálói igazolvány száma, könyvvizsgáló cég esetén nyilvántartási száma, e jogviszonya keletkezésének és megszűnésének időpontja, továbbá könyvvizsgáló cég esetén annak a személynek a neve és lakóhelye is, aki a könyvvizsgálatért személyében is felelős.
 
 2. Az 1. részben foglaltakon kívül a részvény kibocsátójának legalább a 2.1.–2.8. pontban meghatározott információt közzé kell tennie:
 
@@ -90,7 +96,7 @@
 
 2.5. a vezető állású személyekben bekövetkezett változás és az újonnan megválasztott vezetőnek a kibocsátó bármely értékpapírjából tulajdonában lévő mennyisége,
 
-2.6. a vezető állású személyek értékpapír-tulajdonának változása a kibocsátó által kibocsátott értékpapírokból (dátum, értékpapír megnevezése, mennyiség, árfolyam, befektetési vállalkozás neve, az ügyletet követően a kibocsátó által adott értékpapírból tulajdonolt összmennyiség),
+2.6.[^24] a vezető állású személyek értékpapír-tulajdonának változása a kibocsátó által kibocsátott értékpapírokból (dátum, értékpapír megnevezése, mennyiség, árfolyam, befektetési vállalkozás neve, az ügyletet követően az adott értékpapírból tulajdonolt összmennyiség),
 
 2.7. a különböző részvénysorozatokhoz, -fajtákhoz vagy -osztályokhoz kapcsolódó jogokban bekövetkező változások, ideértve az adott kibocsátó által kibocsátott származtatott értékpapírokhoz kapcsolódó és az adott kibocsátó részvényeihez hozzáférést biztosító jogokban bekövetkező változásokat is,
 
@@ -102,7 +108,7 @@
 
 3. Az 1. részben foglaltakon kívül a hitelviszonyt megtestesítő értékpapír kibocsátójának legalább a 3.1.–3.5. pontban meghatározott információt közzé kell tennie:
 
-3.1. a visszafizetésről, törlesztésről és az utolsó kamatfizetésről beszámoló záróközlemény,
+3.1.[^25] a visszafizetésről, törlesztésről és az utolsó kamatfizetésről beszámoló záróközlemény, illetve ezen kötelezettségek teljesítésének esetleges elmaradása,
 
 3.2. a kibocsátási célként megjelölt feladat, projekt előrehaladása, főbb határpontjainak, fázisainak megvalósulása,
 
@@ -114,13 +120,13 @@
 
 4. Ha a kibocsátó érdekkörébe tartozó konszolidációba bevont társaság (a továbbiakban: társaság) nem köteles a Tpt. alapján rendszeres és rendkívüli tájékoztatást közzétenni, akkor minden, ezen társaság esetében jelentőséggel bíró – legalább a 4.1.–4.18. pontban meghatározott – információt a kibocsátó teszi közzé, amennyiben az információ a kibocsátó értékpapírjának értékét vagy hozamát, illetve a kibocsátó megítélését közvetlenül vagy közvetve érinti:
 
-4.1.[^12] jelentős szervezeti változásra vonatkozó, az erre jogosult által meghozott döntés (szétválás, egyesülés, átalakulás),
+4.1.[^26] jelentős szervezeti változásra vonatkozó, az erre jogosult által meghozott döntés (szétválás, egyesülés, átalakulás),
 
 4.2. tevékenységi kör módosulása (tevékenységek megindítása vagy megszűnése), a piaci irányultság megváltozása (új piacok megnyílása, nagy megrendelések bizonyos országokból vagy piacok bezáródása),
 
 4.3. a társaság ügyvezetése által hozott döntés, amely a társaság működését, piaci helyzetét jelentősen befolyásolja,
 
-4.4. a társaság bankszámlájának zárolása,
+4.4.[^27] a társaság fizetési számlájának zárolása,
 
 4.5. csőd-, felszámolási, végelszámolási eljárást elrendelő jogerős végzés kézhezvétele, az eljárás lezárása,
 
@@ -142,7 +148,7 @@
 
 4.14. peres eljárás megindítása és lezárása a társaság által vagy a társaság ellen,
 
-4.15. az adóhatóság által lefolytatott eljárás akkor, ha az eljárás során meghozott érdemi határozatban kötelezettségként megállapított pénzbírság összege az alaptőke tíz százalékát meghaladja,
+4.15.[^28] az adóhatóság által lefolytatott eljárás akkor, ha az eljárás során meghozott érdemi határozatban kötelezettségként megállapított pénzbírság összege a társaság alaptőkéjének, törzstőkéjének tíz százalékát meghaladja,
 
 4.16. a társaság új befektetései, ideértve a leányvállalat alapítását is, vagy már meglevő befektetések növelése abban az esetben, ha az a befektetés tárgyát képező társaság alaptőkéjének, törzstőkéjének tíz százalékát meghaladja,
 
@@ -154,9 +160,9 @@
 
 5.1. az értékpapírhoz kapcsolódó jogok kibocsátó által tervezett megváltoztatására vonatkozó döntés és az értékpapírhoz kapcsolódó jogok megváltoztatásának végrehajtása,
 
-5.2. értékpapír forgalomba hozatala,
+5.2.[^29] értékpapír nyilvános vagy zártkörű forgalomba hozatala,
 
-5.3. az értékpapír szabályozott piacra történő bevezetése, kivezetése,
+5.3.[^30] az értékpapír szabályozott piacra történő bevezetése, kivezetése, átvezetése,
 
 5.4. az értékpapír alapján fennálló kötelezettség teljesítésének módja, helye, időpontja,
 
@@ -182,6 +188,21 @@
 
 5.15. a legutolsó tájékoztatóban közzétett kockázati tényezők jelentős megváltozása.
 
-[^10]: A 4. melléklet a 21/2010. (V. 12.) PM rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^11]: A 4. melléklet 1.13. pontja a 18/2012. (VII. 13.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^12]: A 4. melléklet 4. pont 4.1. alpontja a 12/2014. (III. 12.) NGM rendelet 7. §-ával megállapított szöveg.
+[^13]: A 4. melléklet a 21/2010. (V. 12.) PM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^14]: A 4. melléklet 1. pont nyitó szövegrésze a 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 4. melléklet 1. pont 1.1. alpontja a 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^16]: A 4. melléklet 1. pont 1.2. alpontja a 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^17]: A 4. melléklet 1. pont 1.3. alpontja a 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^18]: A 4. melléklet 1.13. pontja a 18/2012. (VII. 13.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^19]: A 4. melléklet 1. pont 1.20. alpontját a 39/2015. (XII. 28.) NGM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^20]: A 4. melléklet 1. pont 1.23. alpontja a 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^21]: A 4. melléklet 1. pont 1.27. alpontját a 39/2015. (XII. 28.) NGM rendelet 3. §-a iktatta be.
+[^22]: A 4. melléklet 1. pont 1.28. alpontját a 39/2015. (XII. 28.) NGM rendelet 3. §-a iktatta be.
+[^23]: A 4. melléklet 1. pont 1.29. alpontját a 39/2015. (XII. 28.) NGM rendelet 3. §-a iktatta be.
+[^24]: A 4. melléklet 2. pont 2.6. alpontja 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^25]: A 4. melléklet 3. pont 3.1. alpontja 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^26]: A 4. melléklet 4. pont 4.1. alpontja a 12/2014. (III. 12.) NGM rendelet 7. §-ával megállapított szöveg.
+[^27]: A 4. melléklet 4. pont 4.4. alpontja 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^28]: A 4. melléklet 4. pont 4.15. alpontja 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^29]: A 4. melléklet 5. pont 5.2. alpontja 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
+[^30]: A 4. melléklet 5. pont 5.3. alpontja 39/2015. (XII. 28.) NGM rendelet 3. §-ával megállapított szöveg.
