@@ -4,11 +4,11 @@
 
 ## 1. Étkeztetés
 
-## – szociális segítő (100 főre vetítve) 1 fő
+## – szociális segítő (100 fő felett) 1 fő
 
 ## 2. Házi segítségnyújtás
 
-## a) házi segítségnyújtásban ellátottak száma szerint (9 ellátottra vetítve)
+## a) házi segítségnyújtás keretében végzett személyi gondozás során ellátottak száma szerint (5 ellátottra vetítve)
 
 ## – szociális gondozó 1 fő
 
@@ -16,11 +16,7 @@
 
 ## – vezető gondozó 1 fő
 
-## 3. Családsegítés
-
-## – családgondozó (2000–5000 fő lakosig, és 5000 fő lakos felett 5000 főre vetítve; ha a szervezetileg egy egységben dolgozó családgondozók száma három vagy ennél több, akkor közülük vezető családgondozót kell kinevezni) 1 fő
-
-## – tanácsadó (30 000 lakosra vetítve) 1 fő
+## 3.
 
 ## 4. Falugondnoki és tanyagondnoki szolgálat
 
@@ -122,7 +118,7 @@
 
 ## alapján 50 ellátottra vetítve) napi 4 óra
 
-## F) Demens személyek nappali intézménye ellátottak száma szerint (5–7 fő ellátott)
+## F) Demens személyek nappali intézménye ellátottak száma szerint (7 főre vetítve)
 
 ## – szociális, mentálhigiénés munkatárs napi 4 óra
 
@@ -262,7 +258,7 @@
 
 ## foglalkoztatás szervező (ajánlott létszám) 1 fő
 
-## 100 férőhelyenként:
+## 100 férőhelyre vetítve:
 
 ## szociális ügyintéző 1 fő
 
@@ -430,9 +426,9 @@
 
 ## 2. Azon munkaköröknél, ahol alternatíva szerepel – pl. ápoló és szociális gondozó –, az intézmény-, szolgáltatásvezető hatásköre a konkrét munkakör meghatározása. Az ápoló, gondozó és a szociális, mentálhigiénés munkakörök átcsoportosíthatók a rájuk meghatározott és együttesen számított létszámminimumon belül azzal, hogy az így meghatározott ápoló, gondozó létszám nem csökkenhet az intézmény számára előírt ápoló, gondozó létszám 50%-a alá.
 
-## 3. Azon munkaköröknél, ahol a létszámnorma 50 férőhelyenként van meghatározva, minden megkezdett 50 férőhelyre kell az előírt létszámot biztosítani, vagyis 50 férőhelyig az alaplétszámot, ezt követően szakaszosan – 51–100, 101–150, 151–200 férőhely stb. – kell a többletlétszámról gondoskodni. A 200 férőhely feletti intézményeknél 200 férőhelyig 50 férőhelyenként, e fölött pedig 100 férőhelyenként kell létszámot biztosítani.
+## 3. Házi segítségnyújtás keretében nyújtott személyi gondozás esetén a szociális gondozók számát a személyi gondozást is tartalmazó szolgáltatás nyújtására irányuló megállapodások száma alapján kell meghatározni.
 
-## 4. Ahol a létszámnorma 100 férőhelyre vetítve van meghatározva, az intézmény engedélyezett, és a működő férőhely számával arányosan kell a létszámot biztosítani. A létszámigényt főben kell meghatározni a kerekítés általános szabályának figyelembevételével.
+## 4. A létszámigényt – ha a létszámnorma ellátotti számra vagy férőhelyekre vetítve van meghatározva – főben kell meghatározni, a kerekítés általános szabályának figyelembevételével.
 
 ## 5. Ha a bentlakásos intézmények férőhelyszáma nem haladja meg az 50 férőhelyet, az intézményvezetői munkakör osztott munkakörben vagy részmunkaidőben is ellátható. Azon bentlakásos intézményeknél, ahol az anyaintézményen kívüli önálló telephelyen működő részleg férőhelyszáma meghaladja az 50 férőhelyet, részlegvezető alkalmazásáról is gondoskodni kell.
 
@@ -480,31 +476,27 @@
 
 ## Tartós bentlakásos intézmények esetében az osztályvezető ápoló (50 férőhelyenként) helyett, az intézményvezető kijelöli műszakonként a krízishelyzetre, korlátozó intézkedések eldöntésére jogosult személyt 1 fő
 
-## 10. Bentlakást nyújtó intézménynek a működés megkezdésének időpontjában, illetve az azt követő három hónapban, a három műszakos folyamatos ellátás biztosítása érdekében – a drogbetegeket ellátó intézmény, a hajléktalanok átmeneti szállása és a lakóotthon kivételével – legalább az alábbi személyi feltételekkel, továbbá a férőhelyek tényleges betöltöttségének aránya alapján, a melléklet többi munkakörére megállapított létszámmal kell rendelkeznie:
+## 10. Működés megkezdésekor szakosított ellátások esetében – a drogbetegeket ellátó intézmény, a hajléktalanok átmeneti intézményei és a lakóotthon kivételével – három hónapig legalább az alábbi személyi feltételekkel kell rendelkezni:
 
-## – intézményvezető 1 fő
+## – intézményvezető 1 fő
 
-## – orvos működési engedély
+## – ápoló, gondozó munkakör 5 fő
 
-## szerinti férőhelyre
+## – szociális, mentálhigiénés munkatárs napi 2 óra
 
-## vetített létszám
+## – orvos bejegyzés szerinti férőhelyre vetített létszám
 
-## – ápoló, gondozó munkakör 5 fő
+## – a melléklet többi munkakörére megállapított létszám a férőhelyek betöltöttségének arányában.
 
-## – szociális, mentálhigiénés munkatárs napi 2 óra
-
-## Fogyatékosok rehabilitációs intézménye esetében a fentieken túl 1 fő fejlesztő pedagógus.
-
-## A bentlakásos intézménynek legkésőbb a működés megkezdésének időpontját követő harmadik hónap végéig a férőhelyszámnak megfelelő személyi feltételeket teljesítenie kell és ezt a működést engedélyező szervnek be kell jelentenie. A bejelentéshez csatolni kell a fenntartónak vagy – ha az alkalmazottakat a bentlakásos intézmény foglalkoztatja – a bentlakásos intézménynek és azon személyeknek, akikkel a jogszabályban előírt kötelező létszámfeltételeket teljesítik, az egybehangzó nyilatkozatát, amelyben kijelentik, hogy az adott munkakörre előírt kötelező létszámfeltételek teljesítése érdekében közalkalmazotti jogviszonyt, munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt létesítettek, valamint a szakképesítést bizonyító okirat másolatát.
+## A működés megkezdésének időpontját követő harmadik hónap végétől – valamennyi szakosított ellátás esetében valamennyi munkakörre vonatkozóan – a létszámot a betöltött férőhelyekkel arányosan kell biztosítani. A létszám teljesítését a működést engedélyező szervnek be kell jelenteni. A bejelentéshez csatolni kell a fenntartónak vagy – ha az alkalmazottakat a bentlakásos intézmény foglalkoztatja – a bentlakásos intézménynek és azon személyeknek, akikkel a jogszabályban előírt kötelező létszámfeltételeket teljesítik, az egybehangzó nyilatkozatát, amelyben kijelentik, hogy az adott munkakörre előírt kötelező létszámfeltételek teljesítése érdekében közalkalmazotti jogviszonyt, munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt létesítettek, valamint a szakképesítést bizonyító okirat másolatát.
 
 ## 11. Súlyos vagy halmozottan fogyatékos személynek minősül a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvényben ekként meghatározott személy.
 
 ## 12. A támogatott lakhatás tekintetében a fenntartónak a működés megkezdésének időpontjában, illetve az azt követő három hónapban a II. 2. G) pont szerinti személyi feltételekkel kell rendelkeznie. Ezt követően a létszámfeltételeket a 14. számú melléklet szerint a szolgáltatás biztosításához szükséges óraszám/létszámnak az összes ellátottra számított összege határozza meg. A személyi feltételekben történő változást – a bentlakásos intézményekre a 10. pontban meghatározottak szerint – a működést engedélyező szervnek be kell jelenteni.
 
-## 13. Családsegítés esetében a tanácsadó munkakör munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében is betölthető.
+## 13.
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^282]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^289]
 
 A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásai
 
@@ -640,43 +632,7 @@ A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatotta
 
 |  |  |  | sürgősségi szakápoló |  |
 
-5. Családsegítés
-
-|  | alkalmazás minimum feltétele |
-
-| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
-
-| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
-
-| szociálpedagógus |  |  |  |  |  |
-
-| Szociálpolitikus-közgazdász |  |  |  |  |  |
-
-| okleveles szociális munkás |  |  |  |  |  |
-
-| okleveles szociálpolitikus |  |  |  |  |  |
-
-| szociális menedzser |  |  |  |  |  |
-
-| családgondozó | szociális munkás | 100 |  |  |  |  | tereptanári végzettség, |
-
-| szociálpedagógus |  |  |  | adósságkezelési tanácsadó, |
-
-| okleveles szociális munkás |  |  | családterapeuta, |
-
-| okleveles szociálpolitikus |  |  | közösségi szociális munkás, |
-
-|  |  |  | mentálhigiénikus számítógépes ismeret |
-
-| tanácsadó | szociálpolitikus, szociálpolitikus-közgazdász, szociális munkás, szociálpedagógus, közösségi szociális munkás, szociológus, igazgatásszervező-szociális igazgatási szakirány, okleveles pszichológus, jogász, teológus, pasztorális tanácsadó, humánerőforrás menedzser, humánszervező, mentálhigiénikus,, addiktológiai konzultáns, addiktológiai szakpszichológus, jogi szakokleveles családvédelmi tanácsadó, népművelő, művelődésszervező, művelődési menedzser, andragógus, | 90 | ifjúságsegítő |  |  |  | Az ifjúságsegítő szakképesítés csak akkor fogadható el, ha felsőfokú végzettségre épül. munkavállalási tanácsadó |
-
-|  |  |  |  |  |  |  | családterapeuta, |
-
-|  |  |  |  |  |  |  | szupervízor, |
-
-|  |  |  |  |  |  |  | mediátor, |
-
-|  |  |  |  |  |  |  | jelnyelvi tolmács |
+5.
 
 6. Fogyatékos személyek ellátása
 
@@ -1702,4 +1658,82 @@ A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatotta
 
 10.3. Szenvedélybetegek ápoló-gondozó otthona, átmeneti intézménye, rehabilitációs intézménye, rehabilitációs célú lakóotthona
 
-[^282]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja szerint módosított szöveg.
+|  | alkalmazás minimum feltétele |
+
+| munkakör | felsőfokú képesítés | igény munkatársak %-ban | OKJ-S képesítés | igény munkatársak %-ban | speciális alkalmazási igény |
+
+| intézményvezető | szociális munkás | 100 |  |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |  |
+
+| szociális menedzser |  |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |  |
+
+| Okleveles pszichológus |  |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |  |
+
+| orvos | orvos | 100 |  |  |  |  |  |
+
+| intézményvezető ápoló | diplomás ápoló | 100 |  |  |  |  |  |
+
+| okleveles egyetemi ápoló |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+| ápoló | diplomás ápoló | 50 |  |  |  |  |  |
+
+| okleveles ápoló |  |  |  |  |  |
+
+|  |  | általános ápoló | gyakorló ápoló | pszichiátriai szakápoló | 50 |  |
+
+| Gondozó (lakóotthon esetében szociális segítő) |  |  | szociális gondozó | szociális gondozó és ápoló |  | 90 |  |
+
+|  |  | szociális szakgondozó | szenvedélybeteg gondozó |  |
+
+|  |  | szociális gondozó, szervező |  |
+
+|  |  |  | ápolási asszisztens |  |
+
+| szociális munkatárs | szociális munkás | 25 |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |
+
+| okleveles szociálpolitikus |  |  |  |  |
+
+| okleveles szociális munkás |  |  |  |  |
+
+|  |  | szociális segítő | szociális asszisztens |  | 75 |
+
+|  |  | rehabilitációs nevelő, segítő |  |
+
+| mentálhigiénés munkatárs | viselkedéselemző | 25 |  |  |  |  |
+
+| okleveles pszichológus |  |  |  |  |
+
+| pszichopedagógus |  |  |  |  |
+
+| szociálpedagógus |  |  |  |  |
+
+| mentálhigiénikus |  |  |  |  |
+
+|  |  | szociális segítő |  | mentálhigiénés asszisztens | 75 |
+
+|  |  | foglalkoztatás szervező |  |
+
+|  |  |  |  | szociokulturális animátor |  |
+
+|  |  | rehabilitációs tevékenységterapeuta | gyógyfoglalkoztató |  |  |
+
+Kiegészítő szabályok:
+
+1. Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
+
+2. 2010. január 1-je után pszichológus képzettség esetén a pszichológus (BA) oklevél nem fogadható el.
+
+3. A mellékletben szereplő képesítések alatt az alábbi, az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendeletben meghatározott számú szakképesítések értendők.
+
+[^289]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja, az 55/2015. (XI. 30.) EMMI rendelet 30. § g) pontja szerint módosított szöveg.

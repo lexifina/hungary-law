@@ -12,9 +12,9 @@
 
 (4) Ha az ellátást igénybe vevőt más, személyes gondoskodást nyújtó intézményben el lehet látni, a megfelelő intézménybe történő áthelyezés lehetőségéről az intézmény vezetője tájékoztatást ad. Az új intézménybe történő elhelyezésig az ellátást igénybe vevő ellátását változatlan feltételekkel kell biztosítani.
 
-(5)[^214] Az átmeneti elhelyezést nyújtó intézményekre az 50. § (2) bekezdés g) pontjában, az 54. § (1) bekezdés d) pontjában, 56. §-ában, 58–59. §-ában foglaltakat nem kell alkalmazni.
+(5)[^215] Az átmeneti elhelyezést nyújtó intézményekre az 50. § (2) bekezdés g) pontjában, az 54. § (1) bekezdés d) pontjában, 56. §-ában, 58–59. §-ában foglaltakat nem kell alkalmazni.
 
-(6)[^215] Az (1) és a (3) bekezdés szerinti egyéves időtartam számításakor az átmeneti elhelyezést nyújtó intézményben töltött időszakokat – ha az ellátás megszakítása kevesebb mint 30 napra történt – össze kell adni.
+(6)[^216] Az (1) és a (3) bekezdés szerinti egyéves időtartam számításakor az átmeneti elhelyezést nyújtó intézményben töltött időszakokat – ha az ellátás megszakítása kevesebb mint 30 napra történt – össze kell adni.
 
-[^214]: A 85. § (5) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 14. § c) pontja szerint módosított szöveg.
-[^215]: A 85. § (6) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 10. §-a iktatta be.
+[^215]: A 85. § (5) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 14. § c) pontja szerint módosított szöveg.
+[^216]: A 85. § (6) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 10. §-a iktatta be.

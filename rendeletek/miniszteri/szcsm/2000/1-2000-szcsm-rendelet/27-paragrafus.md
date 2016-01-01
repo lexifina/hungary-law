@@ -1,15 +1,15 @@
-27. § (1)[^83] A házi segítségnyújtásban részesülő személyre vonatkozóan egyéni gondozási tervet kell készíteni.
+27. § (1)[^94] A házi segítségnyújtás keretében személyi gondozásban részesülő személyre vonatkozóan egyéni gondozási tervet kell készíteni.
 
-(2)[^84] A házi segítségnyújtás módját, formáját és gyakoriságát a vezető gondozó vagy a gondozás irányítója a gondozási tervben foglaltak figyelembevételével határozza meg. Rendszeres házi segítségnyújtás csak fertőzésmentes lakókörnyezetben rendelhető el. Ha fertőző beteg gondozása szükséges, ki kell jelölni egy gondozót, aki a fertőző állapot időtartama alatt kizárólag a fertőző beteget gondozza, ilyen esetben a fertőzés elkerülése érdekében szükséges tárgyi feltételeket és felkészítést biztosítani kell.
+(2)[^95] A házi segítségnyújtás módját, formáját és gyakoriságát a vezető gondozó vagy a gondozás irányítója a gondozási tervben foglaltak figyelembevételével határozza meg. Rendszeres házi segítségnyújtás csak fertőzésmentes lakókörnyezetben rendelhető el. Ha fertőző beteg gondozása szükséges, ki kell jelölni egy gondozót, aki a fertőző állapot időtartama alatt kizárólag a fertőző beteget gondozza, ilyen esetben a fertőzés elkerülése érdekében szükséges tárgyi feltételeket és felkészítést biztosítani kell.
 
-(3)[^85] A házi segítségnyújtásban – az egyszemélyes szolgálat kivételével – tiszteletdíjban részesíthető társadalmi gondozók is alkalmazhatók, számuk azonban nem haladhatja meg a szakképzett gondozók számát. A társadalmi gondozó az 5. számú melléklet II. A házi segítségnyújtás gondozási tevékenységei és résztevékenységei rész 3., 4. és 7. pontja szerinti gondozási tevékenységeket végezheti.
+(3)[^96] A házi segítségnyújtás keretében kizárólag szociális segítés – segítő munkakörben – a személyi jövedelemadóról szóló törvényben meghatározott szociális gondozói díjban részesíthető társadalmi gondozó alkalmazásával, közérdekű önkéntes tevékenység keretében, közfoglalkoztatotti jogviszonyban álló személyek vagy szociális szövetkezet igénybevételével is nyújtható.
 
-(4)[^86] A házigondozó napi gondozási tevékenységéről az 5. számú melléklet szerinti gondozási naplót vezeti, ellátottanként, az 5. számú melléklet szerinti gondozási tevékenységeken belüli résztevékenységek megnevezéseinek feltüntetésével.
+(4)[^97] A (3) bekezdés szerinti esetben a házi segítségnyújtást biztosító szolgáltató 100 órás belső képzést szervez azon segítő munkakörben foglalkoztatni kívánt személyek részére, akik a szociális gondozó munkakörre a 3. számú mellékletben előírt szakképesítéssel nem rendelkeznek. A képzés célja az idős személyekkel végzett segítő tevékenységre való felkészítés, ennek keretében érzékenyítés, kommunikáció, problémakezelés, valamint a kompetencia-határok kijelölése a szociális segítés és a személyi gondozás között. A képzésen való részvételt – a résztvevők által aláírt dokumentumon – az intézményvezető igazolja. A képzésben való részvétel ideje alatt a segítő munkakörbe tartozó feladatok más szakképzett vagy a képzést elvégzett munkatárssal együttesen végezhetőek.
 
-(5)[^87] A társadalmi gondozó a 2. számú mellékletben meghatározott létszámnormák teljesítése szempontjából nem vehető figyelembe.
+(5)[^98] A szociális gondozó és a segítő munkakörben foglalkoztatott napi tevékenységéről az 5. számú melléklet szerinti tevékenységnaplót vezet, ellátottanként, az 5. számú melléklet szerinti tevékenységeken belüli résztevékenységek megnevezéseinek feltüntetésével. A tevékenységnaplót az intézményvezető havonta írja alá.
 
-[^83]: A 27. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 9. §-ával megállapított, az 55/2013. (VII. 29.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
-[^84]: A 27. § (2) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 9. §-ával megállapított szöveg.
-[^85]: A 27. § (3) bekezdése a 2/2015. (I. 14.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^86]: A 27. § (4) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 18. § (2) bekezdése iktatta be, szövege a 2/2015. (I. 14.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^87]: A 27. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 7. § (3) bekezdése iktatta be.
+[^94]: A 27. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^95]: A 27. § (2) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 9. §-ával megállapított szöveg.
+[^96]: A 27. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^97]: A 27. § (4) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 18. § (2) bekezdése iktatta be, szövege az 55/2015. (XI. 30.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^98]: A 27. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 7. § (3) bekezdése iktatta be, szövege az 55/2015. (XI. 30.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.

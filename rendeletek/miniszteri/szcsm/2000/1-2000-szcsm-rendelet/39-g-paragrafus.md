@@ -1,4 +1,4 @@
-39/G. § (1)[^133] A közösségi pszichiátriai ellátást közösségi gondozó és közösségi koordinátor végzi. Egy közösségi gondozó vagy közösségi koordinátor legfeljebb 25 ellátottról gondoskodhat. A közösségi gondozó vagy közösségi koordinátor további 10 ellátottról gondoskodhat, amennyiben a gondozottak legalább felénél a rehabilitációs folyamat intenzitása nem haladja meg a havi 4 találkozást. Amennyiben a 2. számú melléklet szerint nem kell önálló közösségi koordinátort alkalmazni, a koordinátor feladatait a szolgálat vezetője látja el.
+39/G. § (1)[^132] A közösségi pszichiátriai ellátást közösségi gondozó és közösségi koordinátor végzi. Egy közösségi gondozó vagy közösségi koordinátor legfeljebb 25 ellátottról gondoskodhat. A közösségi gondozó vagy közösségi koordinátor további 10 ellátottról gondoskodhat, amennyiben a gondozottak legalább felénél a rehabilitációs folyamat intenzitása nem haladja meg a havi 4 találkozást. Amennyiben a 2. számú melléklet szerint nem kell önálló közösségi koordinátort alkalmazni, a koordinátor feladatait a szolgálat vezetője látja el.
 
 (2) A közösségi gondozó munkájába bevonja
 
@@ -18,4 +18,4 @@ d) közösségi munkacsoportot működtet,
 
 e) éves jelentést készít a fenntartónak, amelyben beszámol az ellátás tapasztalatairól, valamint javaslatot tesz a szükséges fejlesztésekre.
 
-[^133]: A 39/G. § (1) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 15. §-ával megállapított szöveg.
+[^132]: A 39/G. § (1) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 15. §-ával megállapított szöveg.

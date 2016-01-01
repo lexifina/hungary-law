@@ -8,10 +8,10 @@ c) a személyi tisztálkodásra,
 
 d) a személyes ruházat tisztítására,
 
-e)[^199] amennyiben a 77. § (1) bekezdésének a) pontjában megjelölt szolgáltatást biztosítja az étel melegítésére, tálalására és elfogyasztására
+e)[^200] amennyiben a 77. § (1) bekezdésének a) pontjában megjelölt szolgáltatást biztosítja az étel melegítésére, tálalására és elfogyasztására
 
 ## szolgáló helyiségekkel.
 
 (2) A fogyatékos személyek és szenvedélybetegek nappali intézményében többfunkciós helyiséget kell biztosítani, melyben lehetőség van foglalkoztatás, szabadidős program lebonyolítására.
 
-[^199]: A 75. § (1) bekezdésének e) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 31. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^200]: A 75. § (1) bekezdésének e) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 31. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.

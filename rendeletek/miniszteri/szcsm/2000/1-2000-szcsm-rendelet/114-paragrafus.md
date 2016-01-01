@@ -1,4 +1,4 @@
-114. § (1)[^276]
+114. § (1)[^282]
 
 (2) A munkáltatói jogkör gyakorlója a 3. számú melléklet szerinti képesítési előírások alól felmentést adhat annak az intézménnyel közalkalmazotti vagy munkaviszonyban lévő személynek, aki a reá irányadó öregségi nyugdíjkorhatárt e rendelet hatálybalépésétől számított tíz éven belül éri el.
 
@@ -10,9 +10,9 @@ b) az e rendelet 3. számú mellékletében szakirányú szakképzettség hiány
 
 ## és a rendelet hatálybalépésekor a vezető beosztást vagy a képesítéshez kötött munkakört betölti.
 
-(4)[^277]
+(4)[^283]
 
 (5) 2002. december 31-ét követően csak az a személy kaphat megbízást, illetve nyerhet kinevezést a 3. számú melléklet szerinti vezetői beosztásba vagy munkakörbe, aki szakirányú szakképzettséggel rendelkezik.
 
-[^276]: A 114. § (1) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdés a) pontjának ad) alpontja hatályon kívül helyezte.
-[^277]: A 114. § (4) bekezdését a 9/2009. (IV. 11.) SZMM rendelet 11. § (4) bekezdésének be) alpontja hatályon kívül helyezte.
+[^282]: A 114. § (1) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdés a) pontjának ad) alpontja hatályon kívül helyezte.
+[^283]: A 114. § (4) bekezdését a 9/2009. (IV. 11.) SZMM rendelet 11. § (4) bekezdésének be) alpontja hatályon kívül helyezte.

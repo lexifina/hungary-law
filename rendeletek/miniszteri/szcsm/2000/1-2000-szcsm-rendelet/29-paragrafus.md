@@ -1,4 +1,4 @@
-29. §[^95] (1) A jelzőrendszeres házi segítségnyújtás szakmai programjának az 5/A. § (1) bekezdésben meghatározottakon túl tartalmaznia kell
+29. §[^106] (1) A jelzőrendszeres házi segítségnyújtás szakmai programjának az 5/A. § (1) bekezdésben meghatározottakon túl tartalmaznia kell
 
 a) a használt műszaki rendszer leírását,
 
@@ -6,7 +6,7 @@ b) a segítségnyújtás – a segélyhívástól a krízishelyzet megoldásáig
 
 (2) A jelzőrendszeres házi segítségnyújtás esetén nem kell gondozási naplót vezetni és egyéni gondozási tervet készíteni.
 
-(3)[^96]
+(3)[^107]
 
-[^95]: A 29. § a 2/2006. (IV. 14.) ICSSZEM rendelet 20. §-ával megállapított szöveg, az azt megelőző címet és alcímet e módosító rendelet 39. § (4) bekezdésének f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^96]: A 29. § (3) bekezdését a 9/2006. (XII. 27.) SZMM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bc) alpontja.
+[^106]: A 29. § a 2/2006. (IV. 14.) ICSSZEM rendelet 20. §-ával megállapított szöveg, az azt megelőző címet és alcímet e módosító rendelet 39. § (4) bekezdésének f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^107]: A 29. § (3) bekezdését a 9/2006. (XII. 27.) SZMM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bc) alpontja.

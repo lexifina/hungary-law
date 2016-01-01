@@ -1,6 +1,6 @@
 ## Intézményi szolgáltatások szervezeti integrációja
 
-101/B. §[^229] (1) Szervezeti integráció a bentlakásos intézményi szolgáltatások egy szervezeti keretben történő működtetése, amely a különböző ellátási formák egymásra épülésével, szervezeti és szakmai összekapcsolásával, a részterületek együttműködésével valósul meg.
+101/B. §[^230] (1) Szervezeti integráció a bentlakásos intézményi szolgáltatások egy szervezeti keretben történő működtetése, amely a különböző ellátási formák egymásra épülésével, szervezeti és szakmai összekapcsolásával, a részterületek együttműködésével valósul meg.
 
 (2) Szervezeti integráció esetében a szervezeti egységek közötti munkamegosztást, a feladatkörök elhatárolását és a felelősségi szabályokat részletesen meg kell határozni a szervezeti és működési szabályzatban.
 
@@ -10,7 +10,7 @@
 
 (5) A szervezeti integrációban működő szolgáltatások között a fenntartó a szakmai létszámot átcsoportosíthatja.
 
-(6)[^230] Szervezeti integráció esetén az egyes munkakörökre vonatkozó szakmai létszámok összeszámolhatóak, és az együttes létszám
+(6)[^231] Szervezeti integráció esetén az egyes munkakörökre vonatkozó szakmai létszámok összeszámolhatóak, és az együttes létszám
 
 a) ápoló-gondozó munkakörök esetében
 
@@ -20,5 +20,5 @@ ab) ha az adott munkakörben 20 főnél többen dolgoznak, 5%-kal,
 
 b) amennyiben az együttes létszám 1 fő feletti, szociális és mentálhigiénés munkatárs munkakörben 1 fővel
 
-[^229]: A 101/B. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta a szövegbe.
-[^230]: A 101/B. § (6) bekezdését a 35/2009. (XII. 30.) SZMM rendelet 19. §-a iktatta be.
+[^230]: A 101/B. §-t és az azt megelőző alcímet a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta a szövegbe.
+[^231]: A 101/B. § (6) bekezdését a 35/2009. (XII. 30.) SZMM rendelet 19. §-a iktatta be.
