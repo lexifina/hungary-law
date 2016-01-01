@@ -1,6 +1,6 @@
 2/A. § (1) A kollégium döntéseiben nem vehet részt a miniszter, az Alap alelnöke, valamint a Bizottság tagja.
 
-(2) A miniszternek, az Alap alelnökének, a Bizottság tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek, a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozóinak, továbbá bejegyzett élettársának pályázatát érdemi vizsgálat nélkül el kell utasítani.
+(2) A miniszternek, az Alap alelnökének, a Bizottság tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozóinak, továbbá bejegyzett élettársának pályázatát érdemi vizsgálat nélkül el kell utasítani tekintet nélkül arra, hogy a pályázó milyen keretre – beleértve a 7/C. § szerinti keretet is –, vagy melyik kollégiumhoz nyújtotta be pályázatát.
 
 (3) A miniszter, az Alap alelnöke, a Bizottság tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
 

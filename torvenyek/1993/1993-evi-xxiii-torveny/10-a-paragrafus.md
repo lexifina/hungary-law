@@ -3,5 +3,3 @@
 (2) A Módtv.-nyel megállapított 4. § (5) és (6) bekezdésben foglaltakat a 2012. évi bevételekkel, valamint a kiadási jogcímek közötti 2012. évi átcsoportosításokkal kapcsolatban is alkalmazni kell.
 
 (3) A Módtv.-nyel megállapított 7. § (2) bekezdésében foglaltakat a 2012. évben folyamatban levő pályázatokkal kapcsolatban is alkalmazni kell.
-
-## Melléklet az 1993. évi XXIII. törvényhez

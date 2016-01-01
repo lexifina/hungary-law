@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-23-00-00
 | 2012-07-14 | 2012. évi CVII. törvény | 1993-23-00-00.21 |
 | 2013-01-01 | 2012. évi CVII. törvény | 1993-23-00-00.22 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1993-23-00-00.23 |
+| 2016-01-01 | 2015. évi CCVII. törvény | 1993-23-00-00.24 |

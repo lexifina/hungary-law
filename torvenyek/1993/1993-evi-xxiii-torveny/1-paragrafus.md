@@ -2,4 +2,4 @@
 
 (2) Az Alap elnöke a miniszter. Az Alap elnöki tisztsége nem ruházható át.
 
-(3) Az Alap alelnökét a miniszter nevezi ki legfeljebb négyévi időtartamra.
+(3) Az Alap alelnökét a miniszter – a Magyar Művészeti Akadémia elnöke (a továbbiakban: az MMA elnöke) véleményének kikérésével – nevezi ki legfeljebb négyévi időtartamra.

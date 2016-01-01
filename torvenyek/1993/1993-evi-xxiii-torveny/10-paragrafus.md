@@ -1,13 +1,15 @@
 10. § (1) Ez a törvény 1993. április 1-jén lép hatályba.
 
-(2) Felhatalmazást kap a kultúráért felelős miniszter, hogy az Alap kezelésének és felhasználásának részletes szabályait, az ellenőrzés és beszámolás rendjét, valamint a pályázati rendszerre vonatkozó további előírásokat rendeletben szabályozza.
-
-(3) Felhatalmazást kap a kultúráért felelős miniszter, hogy
+(2) Felhatalmazást kap a kultúráért felelős miniszter, hogy
 
 a) az Alap elnöke és alelnöke feladataira vonatkozó részletes szabályokat,
 
-b) a nevezési díjak megállapításának elveit,
+b) az alelnöki tisztség megszűnésére, valamint a bizottsági és kollégiumi tagok kinevezésre, jogállásukra és jogviszonyuk megszűnésére vonatkozó részletes szabályokat,
 
-c) a Bizottság és a kollégiumok létesítésére, működésére, valamint az összeférhetetlenségre és a nyilvánosságra vonatkozó részletes eljárási szabályokat
+c) a nevezési díjak megállapításának elveit, valamint
+
+d) a Bizottság és a kollégiumok létesítésére, működésére, valamint az összeférhetetlenségre és a nyilvánosságra vonatkozó részletes eljárási szabályokat, továbbá az ideiglenes szakmai kollégiumok tagjai és vezetői kinevezésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
+
+(3) Felhatalmazást kap a kultúráért felelős miniszter, hogy az állandó szakmai kollégiumokat rendeletével létrehozza.
