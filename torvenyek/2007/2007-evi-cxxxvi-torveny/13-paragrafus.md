@@ -1,6 +1,6 @@
 13. § (1) A szolgáltató a 6. § (1) bekezdés a), b) és d) pontjában meghatározott esetben a 10. § (1) bekezdésében meghatározott ügyfél-átvilágítási intézkedést köteles elvégezni, és – ha erre az ügyfél vagy az üzleti kapcsolat, ügyleti megbízás azonosításához a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van – a 7. § (2) bekezdésében meghatározott adatokat rögzítheti, és a 7. § (4) bekezdésében meghatározott okiratok bemutatását kérheti
 
-a) a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén, ha az éves biztosítási díj nem haladja meg a kettőszázhatvanezer forintot, vagy ha az egyszeri biztosítási díj nem haladja meg a hatszázötvenezer forintot;
+a) a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén, ha az éves biztosítási díj nem haladja meg a kettőszázhatvanezer forintot, vagy ha az egyszeri biztosítási díj nem haladja meg a hatszázötvenezer forintot;
 
 b) az olyan nyugdíjbiztosításokra, amelyeknél a biztosítási szerződés nem vásárolható vissza, illetve a biztosító szolgáltatására jogosult személyt megillető összeg hitel vagy kölcsön fedezeteként nem fogadható el;
 

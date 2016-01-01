@@ -42,11 +42,11 @@ b) a szolgáltató vezetője, alkalmazottja, illetőleg segítő családtagja.
 
 a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott ügynöki tevékenység;
 
-b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 33. § (4) bekezdésében meghatározott függő biztosításközvetítő;
+b) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) meghatározott ügynök és kiegészítő biztosításközvetítői tevékenységet folytató személy;
 
-c) a Bit. 33. § (4) bekezdésében meghatározott független biztosításközvetítő a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenysége során;
+c) a Bit.-ben meghatározott többes ügynök és alkusz a Bit. 1. melléklet A) része szerinti nem-életbiztosítási ágba tartozó szerződésekkel kapcsolatos tevékenysége során;
 
-d) a biztosító, amennyiben kizárólag a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. számú mellékletének A. része szerinti nem-életbiztosítási ágba tartozó és 2. számú melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében;
+d) a biztosító, amennyiben kizárólag a Bit. 1. melléklet A) része szerinti nem-életbiztosítási ágba tartozó tevékenység végzésére rendelkezik engedéllyel, továbbá a Bit. 1. melléklet A) része szerinti nem-életbiztosítási ágba tartozó és a 2. melléklete szerinti életbiztosítási ágba tartozó tevékenység egyidejű végzésére engedéllyel rendelkező biztosító a nem-életbiztosítási tevékenysége tekintetében;
 
 e) a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott nem üzletszerűen eljáró bizalmi vagyonkezelő.
 

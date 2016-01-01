@@ -8,7 +8,7 @@ b) ingatlan vétele, eladása,
 
 c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése.
 
-(2) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a közjegyzőt – a (4) bekezdésben foglalt kivétellel – akkor terheli, ha bizalmi őrzést végez, vagy a Kjt.-ben meghatározott közjegyzői tevékenységet végez a következő jogügyletek előkészítésével és végrehajtásával kapcsolatban:
+(2) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a közjegyzőt – a (4) bekezdésben foglalt kivétellel – akkor terheli, ha bizalmi őrzést végez, vagy a Kjt.-ben meghatározott polgári nemperes eljárást folytat le a következő jogügyletek előkészítésével és végrehajtásával kapcsolatban:
 
 a) gazdasági társaságban vagy egyéb gazdálkodó szervezetben lévő vagyonrész (részesedés) vétele, eladása,
 
@@ -26,4 +26,4 @@ b) a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény vag
 
 a) a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény vagy körülmény az eljárás megindításának a szükségességével összefüggésben végzett jogi tanácsadás során jutott a tudomására,
 
-b) a közjegyző nemperes eljárást folytat le.
+b) a közjegyző – a Kjt.-ben szabályozott polgári nemperes eljárásokon kívüli – nemperes eljárást folytat le.
