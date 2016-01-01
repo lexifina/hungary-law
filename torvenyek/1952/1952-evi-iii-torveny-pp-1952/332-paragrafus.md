@@ -10,7 +10,7 @@ d) az alperes kérelmére elrendeli a keresettel megtámadott környezetvédelmi
 
 (2) Ha a keresettel felülvizsgálni kért határozatot a közigazgatási szerv ügyészi felhívás folytán hozta, a bíróság a perről az ügyészt értesíti.
 
-(2a) A keresetlevél benyújtásának a végrehajtásra nincs halasztó hatálya, a felperes azonban a keresetlevélben a végrehajtás felfüggesztését kérheti. A végrehajtás a kérelemnek a végrehajtást foganatosító szerv tudomására jutásától annak elbírálásáig nem foganatosítható, kivéve, ha a hatóság a határozatot végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánította.
+(2a) A keresetlevél benyújtásának a végrehajtásra nincs halasztó hatálya, a felperes azonban a keresetlevélben a végrehajtás felfüggesztését kérheti. A kérelemben valószínűsíteni kell a (3) bekezdés utolsó mondata szerinti feltételeket, és az ezt alátámasztó bizonyítékokat a keresetlevélhez csatolni kell. E kötelezettség elmulasztása esetén a bíróság a végrehajtás felfüggesztése iránti kérelmet – hiánypótlási felhívás kiadását mellőzve – hivatalból elutasítja. A végrehajtás a kérelemnek a végrehajtást foganatosító szerv tudomására jutásától annak elbírálásáig, de legkésőbb az elbírálásra nyitva álló határidő elteltéig nem foganatosítható, kivéve, ha a hatóság a határozatot végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánította.
 
 (2b) A végrehajtás felfüggesztésének hatálya kiterjed a határozaton alapuló jogok gyakorlására is.
 
