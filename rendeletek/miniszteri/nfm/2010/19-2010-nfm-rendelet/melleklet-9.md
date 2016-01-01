@@ -1,4 +1,4 @@
-## A GET 141/C. § szerinti felajánlás alapján értékesített földgáz árában, az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő és a GET 141/C. § (2) bekezdés szerinti földgázkereskedő között érvényesíthető legmagasabb szállítási és tárolási fajlagos értékek összege 2015. negyedik negyedévben:
+## A GET 141/C. § szerinti felajánlás alapján értékesített földgáz árában, az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő és a GET 141/C. § (2) bekezdés szerinti földgázkereskedő között érvényesíthető legmagasabb szállítási és tárolási fajlagos értékek összege 2016. első negyedévben:
 
 |  | A | B |
 
