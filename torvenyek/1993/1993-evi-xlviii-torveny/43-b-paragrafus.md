@@ -1,4 +1,16 @@
-43/B. § (1) A bányatelek megállapítására indított eljárás során az ügyintézés határideje három hónap, a kutatás engedélyezésére vonatkozó eljárás ügyintézési határideje húsz nap.
+43/B. § (1) A bányafelügyelet eljárása során az ügyintézés határideje
+
+a) a szén-dioxid geológiai tárolásával kapcsolatban
+
+aa) a tárolás engedélyezésére vonatkozó eljárás során 70 nap,
+
+ab) a bezárást követő időszakra vonatkozó terv elbírálására 45 nap,
+
+b) a bányatelek megállapítására indított eljárás során 60 nap,
+
+c) a kutatás engedélyezésére vonatkozó eljárás során 20 nap.
+
+(1a) A bányafelügyelet hatósági eljárásaiban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 (2) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a bányafelügyelet a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
 

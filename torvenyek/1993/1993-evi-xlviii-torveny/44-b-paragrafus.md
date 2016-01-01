@@ -1,5 +1,5 @@
-44/B. § (1) Hites bányamérői tevékenységet csak az folytathat, aki rendelkezik a bányafelügyelet engedélyével. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait.
+44/B. § (1) Aki hites bányamérői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a bányafelügyeletnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-(2) A bányafelügyelet annak engedélyezi hites bányamérői tevékenység folytatását, aki büntetlen előéletű, és megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott egyéb feltételeknek. A bányafelügyelet az engedély kiadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
+(2) Hites bányamérői tevékenységet az folytathat, aki büntetlen előéletű, és megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott egyéb feltételeknek.
 
-(3) A bányafelügyelet a hites bányamérői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a hites bányamérői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(3) A hites bányamérői tevékenységet folytató személyekről a bányafelügyelet által vezetett nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a hites bányamérői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.

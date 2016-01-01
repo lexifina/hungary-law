@@ -6,7 +6,7 @@
 
 (3) A földtani kutatási engedély alapján a földtani kutatásra jogosult a földtani kutatási engedélyben lehatárolt térrészben jogosult az engedélyben meghatározott célból a földkéreg anyagi, szerkezeti és fejlődéstörténeti sajátosságainak megismerésére szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, mintavételezésre, valamint bányászati kutatóépítmények kivitelezésére.
 
-(4) Földtani kutatást csak földtani szakértői engedéllyel rendelkező személy vezethet.
+(4) Földtani kutatást csak a bányafelügyelet részére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentett személy vezethet.
 
 (5) A földtani kutatásról összefoglaló földtani jelentést kell készíteni, amelyet a kutatás befejezésétől számított 6 hónapon belül kell a bányafelügyeletnek benyújtani. Az összefoglaló földtani jelentés benyújtását megelőzően, vagy a benyújtás elmulasztása esetén, vagy ha az összefoglaló földtani jelentést a bányafelügyelet jogerős és végrehajtható határozatában elutasította, a kutatás során megismert földtani adatokat a földtani kutatásra jogosult nem használhatja fel, és nem hasznosíthatja.
 

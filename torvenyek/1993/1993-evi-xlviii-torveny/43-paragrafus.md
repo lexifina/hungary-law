@@ -34,7 +34,7 @@ e) a szén-dioxid-tárolóhely üzemeltetőjének, valamint a szén-dioxid-szál
 
 (9b) A bányafelügyelet eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
-(9c) Az igazgatási szolgáltatási díjat – legfeljebb a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – a felügyeleti díj fedezi.
+(9c) A (9) bekezdés szerint felügyeleti díjat fizető bányavállalkozónak, illetve engedélyesnek a tárgyévben befizetendő felügyeleti díjból – a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – visszajár a tárgyévet megelőző évben az általa a bányafelügyelet eljárásaiért megfizetett igazgatási szolgáltatási díjak összege.
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 

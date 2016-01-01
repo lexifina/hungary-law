@@ -20,7 +20,7 @@
 
 10. az intézkedésekre, biztosítékokra, a bírság felső határára, a bírság mértéke megállapításánál mérlegelendő szempontokra,
 
-11. az e törvény szerinti polgári robbantási, polgári felhasználású robbanóanyag forgalmazási, a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának részletes feltételeire, az e tevékenységekre jogosító engedély kiadásának rendjére, az e tevékenységeket végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre, a robbanóanyag forgalmazására és e tevékenységek hatósági felügyeletére,
+11. az e törvény szerinti polgári robbantási, polgári felhasználású robbanóanyag forgalmazási, a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának részletes feltételeire, az e tevékenységekre jogosító eljárás rendjére, az e tevékenységeket végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre, a robbanóanyag forgalmazására és e tevékenységek hatósági felügyeletére,
 
 12. az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározására,
 
@@ -36,7 +36,7 @@
 
 18. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
 
-19. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő hatóság közreműködésére,
+19. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
 
 20. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére, hatósági felügyeletére és a szabálytalan építési tevékenység esetén alkalmazandó bírság mértékére,
 
@@ -108,11 +108,11 @@ h) a bányászati és gázipari biztonsági szabályzatoknak, ezzel összefügg�
 
 i) az Európai Unió irányelveiben előírt, az ásványi nyersanyagkutatásról, feltárásról és termelésről szóló, valamint az ásványvagyon-gazdálkodással, továbbá a bányászati tevékenység során keletkező hulladékkal kapcsolatos jelentés elkészítésének, az Európai Bizottsághoz történő továbbítás és a közzététel rendjének,
 
-j) az e törvény szerinti földtani szakértői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
+j) az e törvény szerinti földtani szakértői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
 
 k) a bányászati és gázipari biztonságtechnikai és munkabiztonsági vizsgák tematikájára és rendjére vonatkozó szabályok,
 
-l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
+l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
 
 m) a bányászati hulladékok kezelésére vonatkozó részletes szabályok,
 
@@ -120,7 +120,7 @@ n) a szén-dioxid-szállítóvezetékek biztonsági követelményeit és a szén
 
 o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási és a minősítő bizottság működésére vonatkozó részletes szabályok
 
-p) a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
+p) a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
 
 rendeletben történő megállapítására.
 

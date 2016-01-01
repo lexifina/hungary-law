@@ -20,7 +20,7 @@ h) a bányászati hulladék kezelését,
 
 i) a polgári robbantási tevékenységet és a polgári felhasználású robbanóanyag forgalmazását,
 
-j) a bányafelügyelet hatáskörébe tartozó nyomástartó berendezések és rendszerek engedélyköteles létesítését, javítását, átalakítását, használatbavételét, továbbá a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenység folytatását,
+j) a bányafelügyelet hatáskörébe tartozó nyomástartó berendezések és rendszerek engedélyköteles létesítését, javítását, átalakítását, használatbavételét,
 
 k) a földtani kutatást,
 

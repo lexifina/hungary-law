@@ -51,3 +51,5 @@ c) a kiadott és érvényes kutatási engedélyükben meghatározott nyersanyagr
 (21) E törvénynek a Módtv2.-vel megállapított 26/A. § (6a) és (6b) bekezdését a hatálybalépése előtt kijelölt új jogosítottak esetében is alkalmazni kell. Amennyiben a Módtv2.-vel megállapított 26/A. § (6a) bekezdés hatálybalépésének időpontjában a kijelölt új jogosított bányászati joga tekintetében a kitermelés megkezdésére előírt ötéves határidő már eltelt, úgy az új jogosított a hatálybalépéstől számított hat hónapon belül kérheti a határidő meghosszabbítását. A hat hónapos határidő elmulasztása esetén a bányászati jogot törölni kell.
 
 (22) E törvénynek a Módtv2.-vel megállapított 26/A. § (6b) bekezdése szerinti egyéves határidőt a Módtv2. hatálybalépése előtt kijelölt új jogosítottak esetében a Módtv2. hatálybalépésének napját követő naptól kell számítani.
+
+(23) Az egyes energetikai tárgyú törvények módosításáról szóló 2015. évi CXCVI. törvénnyel megállapított 43. § (9c) bekezdése szerinti visszafizetést a Hivatal elsőként 2017. január 1-jét követően alkalmazza.

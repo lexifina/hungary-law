@@ -2,7 +2,7 @@
 
 (1a) A bányatelek megállapításra indított eljárásban a megyei területrendezési tervekkel való összhang vonatkozásában a megyei önkormányzat ügyfélnek minősül.
 
-(2) A bányafelügyelet az eljárás megindításáról az ügyfelet tíz napon belül értesíti.
+(2)
 
 (2a) A bányafelügyelet által folytatott eljárásokban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az elsőfokú eljárásban nyilatkozatot tett vagy kérelmet nyújtott be.
 
