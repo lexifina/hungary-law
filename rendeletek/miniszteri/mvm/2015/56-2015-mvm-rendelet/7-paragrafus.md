@@ -1,3 +1,5 @@
-7. §[^9]
+## 7. § Hatályát veszti a 61/2009. (V. 14.) FVM rendelet
 
-[^9]: A 7. § 2016. január 1. napján lép hatályba.
+a) 18. § (1) bekezdésében az „a 21. számú melléklet szerinti” szövegrész,
+
+b) 18. § (5) bekezdése.
