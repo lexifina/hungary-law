@@ -10,7 +10,7 @@ aa) a magzat (orvos által igazolt) fogantatásának 91. napjától megszületé
 
 ab) a csecsemőgondozási díj, a gyermekgondozási díj kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 
-ac) a gyermekgondozási segély és a gyermeknevelési támogatás összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
+ac) a gyermekgondozást segítő ellátás és a gyermeknevelési támogatás összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
 
 b) az 50/B. § (1) bekezdésének b) pontjában meghatározott ellátások közül a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskeresési járadék, álláskeresési segély összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 
@@ -37,3 +37,5 @@ i) az 50/C. §-ban meghatározott ellátások;
 j) az 50/B. § (1) bekezdés k) pontjában meghatározott szolgáltatás támogatása az otthoni gondozás tartamára, az igazolt gondozási díj, legfeljebb a nyugdíjminimum havi összegének mértékéig;
 
 k) az 50/B. § (1) bekezdés l) pontjában meghatározott szolgáltatás támogatása az intézményi elhelyezés tartamára, az igazolt napi vagy havi díj, de legfeljebb a nyugdíjminimum napi vagy havi összegének mértékéig.
+
+l) az 50/B. § (1) bekezdésének i) és j) pontjában meghatározott szolgáltatás.

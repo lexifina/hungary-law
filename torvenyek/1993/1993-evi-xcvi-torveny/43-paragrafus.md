@@ -1,6 +1,6 @@
 ## A pénztárak egyesülése
 
-43. § (1) Azonos típusú pénztárak egyesülhetnek, ha azt az érintett pénztárak közgyűlései elhatározták.
+43. § (1) A pénztárak egyesülhetnek, ha azt az érintett pénztárak közgyűlései elhatározták. A nyugdíjpénztár csak nyugdíjpénztárral egyesülhet.
 
 (2) Beolvadás esetén a beolvadó pénztár jogai és kötelezettségei a másik pénztárra (átvevő pénztárra), mint általános jogutódra szállnak át.
 

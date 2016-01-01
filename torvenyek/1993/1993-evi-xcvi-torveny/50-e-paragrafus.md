@@ -16,4 +16,4 @@ nyújthat.
 
 (6) A feltételek bekövetkeztét, fennállását a szolgáltatás igénylésekor vagy azt megelőzően kell igazolni. A szolgáltatások igénybevételét megalapozó dokumentumokat az önsegélyező pénztár a szolgáltatás folyósításának napjától számított 8 évig megőrzi.
 
-(7) A pénztártagnak az 50/B. § (1) bekezdés j) pontjában meghatározott szolgáltatás igénybevételét megelőzően be kell nyújtania a pénztár részére a lakáscélú deviza alapú jelzáloghitel szerződését, valamint a hitelintézet igazolását az utolsó három havi törlesztő részlet mértékéről, vagy ezen iratok hiteles másolatát.
+(7) A pénztártagnak az 50/B. § (1) bekezdés j) pontjában meghatározott szolgáltatás igénybevételét megelőzően be kell nyújtania a pénztár részére a lakáscélú jelzáloghitel szerződését, valamint a hitelintézet igazolását az utolsó háromhavi törlesztőrészlet mértékéről vagy ezen iratok hiteles másolatát.

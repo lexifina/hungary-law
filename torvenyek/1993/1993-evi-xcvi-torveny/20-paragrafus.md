@@ -1,4 +1,4 @@
-20. § (1) A vezető tisztségviselők, valamint az ügyvezető (helyettes ügyvezető) mindenkor az ilyen tisztséget betöltő személytől elvárható gondossággal, a tagok és a pénztár érdekeinek figyelembevételével, a rájuk vonatkozó jogszabályok szerint kötelesek eljárni. A vezető tisztségviselők, valamint az ügyvezető (helyettes ügyvezető) a kötelezettségeik megszegésével okozott kárért a polgári jog általános szabályai szerint felelősek, akkor is, ha a pénztárral munkaviszonyban álltak, illetve állnak.
+20. § (1) A vezető tisztségviselők, valamint az ügyvezető (helyettes ügyvezető) mindenkor az ilyen tisztséget betöltő személytől elvárható gondossággal, a tagok és a pénztár érdekeinek figyelembevételével, a rájuk vonatkozó jogszabályok szerint kötelesek eljárni. A vezető tisztségviselők, valamint az ügyvezető (helyettes ügyvezető) az ügyvezetési tevékenysége során okozott kárért a Ptk.-nak a vezető tisztségviselőkre vonatkozó szabályai szerint felelősek, akkor is, ha a pénztárral munkaviszonyban álltak, illetve állnak.
 
 (2) Vezető tisztségviselőkre vonatkozó feltételek:
 
@@ -38,7 +38,7 @@ a) az igazgatótanács és az ellenőrző bizottság tagjaira, valamint az ügyv
 
 b) az ügyvezető a bére és a közgyűlés által jóváhagyott juttatásai kivételével a pénztárral kapcsolatos tevékenységéért ellenszolgáltatást nem fogadhat el.
 
-(6) Amennyiben a pénztártag alkalmazottja a pénztárnak, nem választható az igazgatótanács és az ellenőrző bizottság tagjának.
+(6) Amennyiben a pénztártag alkalmazottja a pénztárnak, nem választható az igazgatótanács és az ellenőrző bizottság tagjának. A pénztár vezető tisztségviselője és ügyvezetője (helyettes ügyvezetője) nem lehet a közgyűlésen meghatalmazott, illetve a küldöttközgyűlésen küldött.
 
 (7) Az igazgatótanács és az ellenőrző bizottság, valamint az alapszabályban meghatározott más testületi szerv tagjait az adott testület döntéseiért egyetemleges felelősség terheli. Nem terheli felelősség azt a személyt, aki a határozat vagy intézkedés ellen tiltakozott, és tiltakozását írásban az igazgatótanácsnak és az ellenőrző bizottságnak, igazgatótanácsi és ellenőrző bizottsági tagság esetében a közgyűlésnek a döntés meghozatalától vagy tudomására jutásától számított 8 napon belül írásban bejelentette.
 

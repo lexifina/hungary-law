@@ -1,4 +1,4 @@
-12. § (1) Munkáltatói tag az a természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki a pénztárral kötött szerződés alapján munkavállalójának tagdíjfizetési kötelezettségét egészben vagy részben átvállalja (munkáltatói hozzájárulás).
+12. § (1) Munkáltatói tag az a természetes vagy jogi személy, aki a pénztárral kötött szerződés alapján munkavállalójának tagdíjfizetési kötelezettségét egészben vagy részben átvállalja (munkáltatói hozzájárulás).
 
 (2) A munkáltatói hozzájárulási kötelezettséget vállaló munkáltató a munkáltatói hozzájárulásból egyetlen olyan munkavállalóját sem zárhatja ki, aki nála legalább hat hónapja munkaviszonyban (közalkalmazotti, közszolgálati, kormányzati szolgálati, valamint szolgálati jogviszonyban) áll. A munkáltató munkavállalóként mindhárom típusú pénztárban egyidejűleg is vállalhat hozzájárulási kötelezettséget.
 

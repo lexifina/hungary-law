@@ -2,7 +2,7 @@
 
 50/B. § (1) Az önsegélyező pénztár kiegészítő önsegélyező szolgáltatásként a következő szolgáltatásokat nyújthatja:
 
-a) gyermek születéséhez kapcsolódó ellátások, melyeket a pénztár a gyermeket nevelő szülő, örökbefogadó szülő vagy gyám részére biztosíthat. A gyermek születéséhez kapcsolódó ellátások a várandósság ideje alatt a magzat 91 napos korától megszületéséig, a gyermek megszületése, örökbefogadása, valamint a csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozási segély és a gyermeknevelési támogatás folyósítása esetén vehetőek igénybe;
+a) gyermek születéséhez kapcsolódó ellátások, melyeket a pénztár a gyermeket nevelő szülő, örökbefogadó szülő vagy gyám részére biztosíthat. A gyermek születéséhez kapcsolódó ellátások a várandósság ideje alatt a magzat 91 napos korától megszületéséig, a gyermek megszületése, örökbefogadása, valamint a csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás és a gyermeknevelési támogatás folyósítása esetén vehetőek igénybe;
 
 b) munkanélküliségi ellátások, melyeket a pénztár azon személyek részére nyújthatja, akiknek jövedelemszerző tevékenysége megszűnt és nyugellátásra nem jogosultak;
 
@@ -20,7 +20,7 @@ h) gyógyszer és gyógyászati segédeszköz árának támogatása;
 
 i) közüzemi díjak: finanszírozásának támogatása, amely a földgázellátásról szóló 2008. évi XL. törvényben és a villamos energiáról szóló 2007. évi LXXXVI. törvényben meghatározott védendő fogyasztónak minősülő pénztártag által fizetendő közüzemi díjak (villamos energia, gáz, ivóvíz, csatornadíj) megtérítésére biztosítható. A közüzemi díjak finanszírozására fordítható támogatás havi összege legfeljebb a tárgyév első napján érvényes havi minimálbér 15 százalékának megfelelő összeg lehet;
 
-j) lakáscélú devizaalapú jelzáloghitel törlesztésének támogatása: amelyet a pénztár közvetlenül a folyósító hitelintézet részére fizethet meg, amennyiben a törlesztő részlet mértéke a hitelszerződés aláírásának időpontját követő árfolyamváltozás következtében húsz százalékot meghaladó mértékben nőtt és a támogatást a pénztártag igényelte. A lakáscélú devizahitel törlesztésére fordítható támogatás havi összege, legfeljebb a tárgyév első napján érvényes havi minimálbér 15 százalékának megfelelő összeg lehet;
+j) lakáscélú jelzáloghitel törlesztésének támogatása: amelyet a pénztár közvetlenül a folyósító hitelintézet részére fizethet meg, amennyiben a támogatást a pénztártag igényelte. A lakáscélú jelzáloghitel törlesztésére fordítható támogatás havi összege legfeljebb a tárgyév első napján érvényes havi minimálbér 15 százalékának megfelelő összeg lehet;
 
 k) otthoni gondozás: amelyet a pénztártag vagy közeli hozzátartozója részére a helyi önkormányzat által kiadott működési engedéllyel rendelkező szolgáltató nyújthat;
 

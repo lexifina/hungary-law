@@ -28,7 +28,9 @@ k) felfüggesztheti a pénztár működését;
 
 l) felügyeleti biztost rendelhet ki;
 
-m) a bíróságnál kezdeményezheti felszámolási eljárás megindítását.
+m) a bíróságnál kezdeményezheti felszámolási eljárás megindítását;
+
+n) vezetői vagy működési hiba esetén figyelmeztetheti a vezető tisztségviselőt, ügyvezetőt, helyettes ügyvezetőt.
 
 (4) A pénztártevékenység folytatására adott engedély visszavonására akkor kerülhet sor, ha a pénztár
 

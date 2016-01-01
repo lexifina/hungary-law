@@ -34,6 +34,6 @@ a) a pénztár alapításkori vagyonát tételes és értékkel ellátott bontá
 
 b) a tevékenységi engedély jogerőre emelkedésének napjáig tervezetten felmerülő költségek fajtáit és mértékét, valamint ezek várható fedezetét;
 
-c) a pénztárnak a pénzügyi év lejártáig, valamint a következő pénzügyi évre szóló pénzügyi tervét.
+c) a pénztár pénzügyi tervét.
 
 (6) Az induló gazdálkodási tervnek az (5) bekezdésben foglaltakon kívül tartalmaznia kell mindazokat az adatokat és feltételeket, amelyeket a pénztár alapszabályban vállalt szolgáltatásainak teljesítéséhez, a pénztár hosszú távú és a tervezett taglétszámához igazodó működőképességéhez, a tagokkal szemben vállalt kötelezettségek teljesítéséhez a pénztár igazgatótanácsa szükségesnek tart, illetve amit a Felügyelet előír.

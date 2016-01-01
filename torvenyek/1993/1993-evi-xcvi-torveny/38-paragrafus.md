@@ -1,6 +1,6 @@
 38. § (1) A pénztár befektetési üzletmenetét saját maga végezheti vagy kihelyezheti.
 
-(2) A befektetési üzletmenet kihelyezése esetén pénztári vagyonkezelő csak olyan befektetési vállalkozás, pénzügyi intézmény, biztosító részvénytársaság vagy befektetésialap-kezelő lehet, amely
+(2) A befektetési üzletmenet kihelyezése esetén pénztári vagyonkezelő csak olyan befektetési vállalkozás, pénzügyi intézmény vagy befektetésialap-kezelő lehet, amely
 
 a) tevékenységét a Felügyelet engedélye alapján végzi, vagy
 

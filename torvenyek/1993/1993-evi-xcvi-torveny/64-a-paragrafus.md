@@ -14,6 +14,8 @@
 
 (8) Ha a pénztár közgyűlését az igazgatótanács – a tudomásra jutástól számított nyolc napon belül – nem hívja össze, arra a könyvvizsgáló jogosult. Ha a pénztár közgyűlése nem hozza meg a szükséges döntéseket, a könyvvizsgáló köteles értesíteni a Felügyeletet és a bíróságot.
 
-(9)–(12)
+(9) A pénztár könyvvizsgálója a (6) bekezdésben foglaltakon túl köteles a pénztár befektetett eszközeit tartalmazó letétkezelői nyilvántartást összevetni a pénztár analitikus nyilvántartásaival. Egyezőség hiányában a könyvvizsgáló köteles a pénztárat és a Felügyeletet az eltérésről az érintett befektetési eszközök megjelölésével – egyidejűleg – írásban tájékoztatni.
+
+(10)–(12)
 
 (13)–(16)

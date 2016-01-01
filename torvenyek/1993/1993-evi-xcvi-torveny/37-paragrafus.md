@@ -1,6 +1,6 @@
 37. § (1) A pénztárak a kockázatok mérséklése és az egyoldalú függőség megelőzése érdekében befektetéseiket kötelesek befektetési formák és — üzletmenet kihelyezés kivételével — befektetési közvetítők szerint is megosztani.
 
-(2) A pénztári befektetések kockázatok szerinti megosztására, valamint állomány összetételére vonatkozó biztonsági szabályokat és keretelőírásokat, a tőkepiac fejlődéséhez és szerkezeti változásaihoz igazodóan a Kormány rendeletileg szabályozza.
+(2) A pénztári befektetések kockázatok szerinti megosztására, valamint állomány összetételére vonatkozó biztonsági szabályokat és keretelőírásokat, a tőkepiac fejlődéséhez és szerkezeti változásaihoz igazodóan a Kormány rendeletben szabályozza azzal, hogy zártkörűen működő részvénytársaságba történő befektetés, tulajdonszerzés kizárólag Magyarországon székhellyel rendelkező bankba történhet.
 
 (3) A pénztári befektetésekre vonatkozó biztonsági szabályok és keretelőírások rendeleti meghatározása és változása nem veszélyeztetheti a pénztárak folyamatos fizetőképességét, indokolatlanul nem korlátozhatja a pénztárak gazdálkodási önállóságát, nem akadályozhatja a pénztár alapszabályában meghatározott szolgáltatások teljesíthetőségét.
 

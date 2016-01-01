@@ -4,7 +4,7 @@
 
 ## Az átalakulás közös szabályai
 
-41. § (1) Pénztár átalakulásának minősül a pénztárak egyesülése (összeolvadás, beolvadás) és szétválása (különválás, kiválás), továbbá az ágazatok vegyes pénztárrá alakulása és szétválása.
+41. § (1) Pénztár átalakulásának minősül a pénztárak egyesülése (összeolvadás, beolvadás) és szétválása (különválás, kiválás).
 
 (2) A pénztárak egyesülése, illetve szétválása esetén a pénztárak alakulására vonatkozó rendelkezések az irányadóak az alábbi eltérésekkel:
 
@@ -16,7 +16,7 @@ c) a tevékenységi engedély iránti kérelemhez az alábbiakat kell csatolni:
 
 ca) az átalakulási szándékot kinyilvánító, valamint a második közgyűlések jegyzőkönyveit, ahhoz csatolva az előterjesztéseket és a jelenléti íveket,
 
-cb) a nyilatkozatot a 64. §-ban foglalt feltételek meglétéről,
+cb) a nyilatkozatot a 40/C. §-ban és a 64. §-ban foglalt feltételek meglétéről, illetve a Felügyelet felhívására bármely feltétel igazolását,
 
 cc) az átalakulással létrejövő pénztár alapszabályát,
 

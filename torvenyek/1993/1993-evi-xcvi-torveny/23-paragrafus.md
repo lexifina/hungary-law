@@ -8,7 +8,7 @@ c) az ellenőrző bizottság tagjainak és elnökének megválasztása, visszah�
 
 d) az igazgatótanács éves beszámolójának elfogadása, a mérleg megállapítása, döntés az eredmény felhasználásáról vagy az egyes alapokban mutatkozó hiány rendezéséről;
 
-e) a pénztár éves és hosszú távú pénzügyi tervének elfogadása;
+e) a pénztár pénzügyi tervének elfogadása;
 
 f) az alapszabály által meghatározott körben a munkáltatói taggal (tagokkal) kötött szerződés jóváhagyása;
 

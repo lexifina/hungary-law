@@ -11,3 +11,19 @@ c) közösségi szolgáltatást nyújtó önsegélyező pénztárnál, valamint 
 (3) A pénztár csak büntetlen előéletű szakértőt alkalmazhat. Indokolt esetben a Felügyelet kifogást emelhet a szakértők alkalmazásával szemben.
 
 (4) A pénztár az (1)–(3) bekezdések szerinti személyi és tárgyi feltételekben, valamint a letétkezelő, számlavezető, szolgáltatás-szervező, valamint a kiszervezett tevékenységet végző személyében történt változást a szerződés megkötését követő öt napon belül a Felügyeletnek a rendszeresített adatlapon bejelenti.
+
+(5) A pénztári tevékenység engedélyezésének és a tevékenység folyamatos végzésének a feltétele
+
+a) a jogszabályoknak megfelelő számviteli és nyilvántartási rend;
+
+b) folyamatos nyilvántartási, adatfeldolgozási és adatszolgáltatási rendszer;
+
+c) a tevékenység végzésére alkalmas technikai, informatikai, műszaki, biztonsági felszereltség és helyiség;
+
+d) a megbízható és körültekintő működésnek megfelelő belső szabályzatok;
+
+e) a működési kockázatok csökkentését szolgáló információs és ellenőrzési eljárások és rendszerek, valamint a rendkívüli helyzetek kezelésére vonatkozó terv; és
+
+f) az áttekinthető szervezeti felépítés.
+
+(6) A nyilvántartási és ellenőrzési rendszer akkor megfelelő, ha – a számviteli jogszabályokban foglaltakon túlmenően – lehetővé teszi a pénztár körültekintő vezetését, a pénztár vezetésének a Felügyelet által történő ellenőrzését, és segíti a pénztárt abban, hogy eleget tegyen a jogszabályok alapján rá háruló kötelezettségeknek.

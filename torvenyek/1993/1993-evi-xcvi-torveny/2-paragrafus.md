@@ -10,9 +10,9 @@ b) kiegészítő pénztár: önkéntes kölcsönös biztosító pénztár, amely
 
 c) elismert pénztár: önkéntes kölcsönös biztosító pénztár, amely az (1) bekezdésben foglalt jogszabályok szerint, külön törvény által feljogosítva az adott társadalombiztosítási, szociális ágazatban társadalombiztosítási ellátást szervez és helyettesít, illetve azokat kiegészítő szolgáltatásokat nyújt;
 
-d) szolgáltató: az a természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság, amely a pénztárral kötött szerződés alapján a pénztár részére a pénztárüzem működésének részét képező, azt lehetővé tevő, elősegítő, illetve a pénztári szolgáltatásokat ténylegesen nyújtó tevékenységet végez – ide nem értve az egészségpénztári szolgáltatót. Szolgáltatónak minősül különösen az, aki (amely) a fentiekben meghatározott pénztár részére letétkezelői tevékenységet folytat, amelyhez a pénztár a befektetési üzletmenetét, illetve a könyvelése, nyilvántartásai vezetését kihelyezte, amely a pénztár részére tagszervezést végez, illetve amely az egészségpénztárak részére szolgáltatás-szervezési tevékenységet lát el. Szolgáltatónak minősül az is, aki (amely) az e pontban meghatározott szolgáltatóval kötött szerződés alapján az előzőek szerinti, pénztárral kapcsolatos tevékenységet végez;
+d) szolgáltató: az a természetes személy, jogi személy, amely a pénztárral kötött szerződés alapján a pénztár részére a pénztárüzem működésének részét képező, azt lehetővé tevő, elősegítő, illetve a pénztári szolgáltatásokat ténylegesen nyújtó tevékenységet végez – ide nem értve az egészségpénztári szolgáltatót. Szolgáltatónak minősül különösen az, aki (amely) a fentiekben meghatározott pénztár részére letétkezelői tevékenységet folytat, amelyhez a pénztár a befektetési üzletmenetét, illetve a könyvelése, nyilvántartásai vezetését kihelyezte, amely a pénztár részére tagszervezést végez, illetve amely az egészségpénztárak, egészség- és önsegélyező pénztárak részére szolgáltatás-szervezési tevékenységet lát el. Szolgáltatónak minősül az is, aki (amely) az e pontban meghatározott szolgáltatóval kötött szerződés alapján az előzőek szerinti, pénztárral kapcsolatos tevékenységet végez;
 
-e) egészségpénztári szolgáltató: az egészségpénztárral szerződésben, vagy tulajdonában álló, illetve általa üzemeltetett, az egészségügyről szóló törvényben meghatározott egészségügyi szolgáltató, valamint az a természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság, amely a pénztárral kötött szerződés alapján a pénztártagok számára egészségpénztári szolgáltatást ténylegesen nyújt.
+e) egészségpénztári szolgáltató: az egészségpénztárral, egészség- és önsegélyező pénztárral szerződésben, vagy tulajdonában álló, illetve általa üzemeltetett, az egészségügyről szóló törvényben meghatározott egészségügyi szolgáltató, valamint az a természetes személy, jogi személy, amely a pénztárral kötött szerződés alapján a pénztártagok számára egészségpénztári szolgáltatást ténylegesen nyújt.
 
 (3) E törvény alkalmazásában
 
@@ -54,7 +54,9 @@ f) kiszervezés: tevékenység olyan kihelyezése, melynek során adatkezelés v
 
 g) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatkezelési tevékenység,
 
-h) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatfeldolgozási tevékenység.
+h) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatfeldolgozási tevékenység,
+
+i) tagszervezői tevékenység: a pénztári tagsági jogviszony (a továbbiakban: tagsági jogviszony) létrehozására irányuló rendszeres, üzletszerű tevékenység. E tevékenység kiterjed a tagsági jogviszony létrehozatalának elősegítésére, pénztári termékek ismertetésére, ajánlására, az ezzel kapcsolatos felvilágosításra, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott kötelezettségek teljesítésére, illetve a tagsági jogviszony létrehozatalában, a tagsági jogviszonyt érintő adat- és egyéb módosítási igények – így különösen személyi adatváltozás, portfólióváltás, kedvezményezett jelölés, tagdíjmódosítás –, valamint a kifizetési igények felvételére és a pénztár részére való továbbítására, továbbá a tagsági jogviszonyból fakadóan a pénztártagot megillető kifizetések igénylésében való közreműködésre.
 
 (5) E törvény alkalmazásában a kiegészítő nyugdíjpénztárnál
 
@@ -74,7 +76,9 @@ g) ingatlankezelés: a pénztárral kötött szerződés szerint az ingatlannal 
 
 h) ingatlanüzemeltetés: az ingatlan napi működésével és működtetésével összefüggő feladatok ellátása;
 
-i) elszámolóegység: a tagok felhalmozási időszakban fennálló követelésének, valamint a függő tételeknek a kimutatására, nyilvántartására szolgáló, napi árfolyammal rendelkező egység.
+i) elszámolóegység: a tagok felhalmozási időszakban fennálló követelésének, valamint a függő tételeknek a kimutatására, nyilvántartására szolgáló, napi árfolyammal rendelkező egység;
+
+j) ütemezett pénzkivonás: a tag szolgáltatási számlájának terhére, a tag részére teljesített rendszeres kifizetés, amelynek időtartama a kifizetés indulásakor előre nem meghatározott.
 
 (6) E törvény alkalmazásában az egészségpénztárnál
 
@@ -108,7 +112,7 @@ g) gyógyszer és gyógyászati segédeszköz árának támogatása:
 
 8. közvetlen lakossági felhasználásra alkalmas, minőségi tanúsítványok kiadására jogosult intézmény által kiadott tanúsítvánnyal rendelkező, illetve CE jelöléssel ellátott, az orvostechnikai eszközökről szóló jogszabályban meghatározottak szerinti orvostechnikai eszköz megvásárlásának támogatása;
 
-9. egészségügyi hatóság által engedélyezett csecsemő- és betegápolási cikkek megvásárlásának támogatása;
+9. csecsemő- és betegápolási cikkek megvásárlásának támogatása;
 
 10. gyógyvizek és gyógyiszap megvásárlásának támogatása;
 
