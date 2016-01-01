@@ -24,6 +24,6 @@
 
 | 11 | Mezei borsó | 100 |
 
-7. melléklet a 9/2015. (III. 13.) FM rendelethez[^46]
+7. melléklet a 9/2015. (III. 13.) FM rendelethez[^51]
 
-[^46]: A 7. melléklet a 23/2015. (V. 13.) FM rendelet 9. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^51]: A 7. melléklet a 23/2015. (V. 13.) FM rendelet 9. § (4) bekezdés b) pontja szerint módosított szöveg.

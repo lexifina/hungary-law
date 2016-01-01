@@ -1,4 +1,4 @@
-## 22/C. §[^41] E rendeletnek az egyes közvetlen támogatásokkal kapcsolatos, valamint egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 52/2015. (IX. 7.) FM rendelettel [a továbbiakban: 52/2015. (IX. 7.) FM rendelet] megállapított 1. § 2a–2c. pontját, 9. § (5), (7) és (8) bekezdését, valamint 19. § (2), (5) és (6) bekezdését az 52/2015. (IX. 7.) FM rendelet hatálybalépésekor[^42] folyamatban lévő ügyekben is alkalmazni kell.
+## 22/C. §[^46] E rendeletnek az egyes közvetlen támogatásokkal kapcsolatos, valamint egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 52/2015. (IX. 7.) FM rendelettel [a továbbiakban: 52/2015. (IX. 7.) FM rendelet] megállapított 1. § 2a–2c. pontját, 9. § (5), (7) és (8) bekezdését, valamint 19. § (2), (5) és (6) bekezdését az 52/2015. (IX. 7.) FM rendelet hatálybalépésekor[^47] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 20. Az Európai Unió jogának való megfelelés
 
@@ -16,5 +16,5 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^41]: A 22/C. §-t az 52/2015. (IX. 7.) FM rendelet 26. §-a iktatta be.
-[^42]: A hatálybalépés időpontja 2015. szeptember 8.
+[^46]: A 22/C. §-t az 52/2015. (IX. 7.) FM rendelet 26. §-a iktatta be.
+[^47]: A hatálybalépés időpontja 2015. szeptember 8.
