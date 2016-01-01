@@ -1,0 +1,51 @@
+## 3. Az önkormányzati adóhatóság által vezetendő nyilvántartások kötelező tartalma
+
+## 3. § A 2. § (1) bekezdésben meghatározott nyilvántartások a következő adatokat tartalmazzák:
+
+a) Az adózói törzsadat-nyilvántartás tartalmazza az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 16. § (3) bekezdésben – annak i), j) és n) pontjainak kivételével – meghatározott adatokat, továbbá a vállalkozó adózó esetében, ha a vállalkozó adózó cégbejegyzési eljárás alatt áll, akkor a „b.a.”, ha csődeljárás alatt áll, akkor a „cs.a.”, ha felszámolási eljárás alatt áll, akkor az „f.a.”, ha végelszámolási eljárás alatt áll, akkor a „v.a.”, illetve ha kényszertörlési eljárás alatt áll, akkor a „kt.a.” jelölést, továbbá valamennyi adózó esetében az önkormányzati adófeldolgozó program által generált technikai azonosítót.
+
+b) Az adózó egyedi adatait tartalmazó, folyamatosan vezetett adószámla-nyilvántartás tartalmazza az Art.-ban meghatározott adatokat.
+
+c) Az adózó képviseletére vonatkozó nyilvántartás tartalmazza a képviselő nevét, lakhelyét, képviselői minőségét, a képviselet jellegét, a képviseleti jogviszony időtartamát, adóazonosító számát.
+
+d) Az adózónkénti és közterhenkénti bejelentkezési, változás-bejelentési, bevallási nyilvántartás tartalmazza az adózó által benyújtott bejelentkezés, bevallás, változás-bejelentés, nyilatkozat tényét és időpontját, továbbá az adózó által valamennyi bejelentett és bevallott adatot. Az adózónkénti és közterhenkénti bejelentkezési, változás-bejelentési, bevallási nyilvántartást az önkormányzati adóhatóságok által rendszeresíthető bevallási, bejelentési nyomtatványok tartalmáról szóló miniszteri rendelet tartalmi, formai és logikai felépítésének megfelelően kell kialakítani és vezetni.
+
+e) Az építményadó, a telekadó külföldön bejegyzett szervezet adóalanyainak nyilvántartása tartalmazza az adózó nevét (elnevezését), az adóbevallással érintett ingatlan (adótárgy) címét, helyrajzi számát, továbbá az adóalany szervezet tagjainak (részvényeseinek) nevét, illetőségét, adóazonosító jelét, adószámát, külföldi adóazonosító számát, székhelyének, telephelyének címét.
+
+f) Az építményadóban és a magánszemély kommunális adójában adófelfüggesztést igénybe vevők nyilvántartása tartalmazza az adózó nevét, adóazonosító jelét, az adófelfüggesztés alá vont ingatlan címét, helyrajzi számát, építményadó esetén a hasznos alapterületét, az adófelfüggesztés kezdő évét, éves bontásban a kivetett adó összegét és az előző év(ek)ben a felszámított kamatot, a tárgyévben bejegyzett jelzálog összegét, valamint az előző évben vagy az előző években bejegyzett jelzálog összegét, továbbá az adófelfüggesztés megszűnésének időpontját és okát.
+
+g) Az építményadóban a műemléképület felújításához kapcsolódó építményadó-mentesség nyilvántartása tartalmazza az adózó nevét (elnevezését), adóazonosító számát, statisztikai számjelét, a műemléképület címét, helyrajzi számát, a műemléképületben lévő önálló adótárgy címét, fajtáját, adóalapját, helyrajzi számát, a mentességet biztosító határozat számát, jogerőre emelkedésének időpontját, az adómentesség kezdő évét és befejező évét, éves bontásban a határozatban előírt adó összegét és a felszámított kamat összegét, a jelzálog bejegyzésének időpontját, a jelzálogjog törlésének időpontját, a felújítás meg nem történte esetén a kivetett adó és a megállapított kamatfizetési kötelezettség összegét, a kiadott határozat számát és jogerőre emelkedésének időpontját, a befizetett adó és a kamat összegét, a befizetés időpontját.
+
+h) A feltételes adómentességet igénybe vevő adózók nyilatkozatainak nyilvántartása tartalmazza az adózó nevét, adóazonosító számát, statisztikai számjelét, a feltételes mentességgel érintett adó megnevezését, az adómentességre vonatkozó nyilatkozat benyújtásának tényét és időpontját.
+
+i) A gépjárműadó megállapításához szükséges hatósági adatszolgáltatások nyilvántartás tartalmazza az Art. 3. melléklet G) alcím 2–5. pontjában meghatározott, az önkormányzati adóhatóság részére megküldött valamennyi adómegállapításhoz szükséges adatot.
+
+j) Az önkormányzati adóhatóság előtt elektronikus úton intézhető ügyek nyilvántartás tartalmazza az Art. 3. mellékletének G) alcím 7. pont b) alpontja szerint az önkormányzati adóhatóság megkeresése alapján a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv által a részére megküldött ügyfél-kaput létesítő személyek adatait, továbbá az önkormányzati adóhatóság előtt indítható elektronikus ügyek fajtáit.
+
+k) A befizetések, fizetési számlakivonatok, utalások és az azonosítás alatt álló bevételek, valamint a más szervezetet megillető bevételek nyilvántartás tartalmazza az önkormányzati adóhatóság számláit vezető hitelintézettől érkező, a 4–5. §-ban meghatározott napi számlakivonat-adatait, valamint a befizetéseket, utalásokat és pénzügyi zárásokat érintő egyes alapvető egyeztetés, ellenőrzés rendjét.
+
+l) A behajthatatlannak minősített adótartozások nyilvántartás tartalmazza az adózó nevét, adóazonosító számát, statisztikai számjelét, az adó megnevezését és a behajthatatlannak minősített adótartozás összegét és a behajthatatlanná nyilvánítás időpontját.
+
+m) A biztosítási intézkedés nyilvántartás tartalmazza legalább a biztosítási intézkedés alá vont fizetésre kötelezett nevét, adóazonosító számát, statisztikai számjelét, biztosítási intézkedés elrendelésének időpontját, az intézkedés alapjául szolgáló okirat megnevezését és iktatószámát, a biztosítási intézkedés típusát, továbbá a biztosítási intézkedés feloldásának időpontját és annak jogalapját.
+
+n) A végrehajtási eljárás nyilvántartás tartalmazza
+
+na) az adós adatait (nevét, születési nevét, születési helyét, születési idejét, anyja nevét), személyi azonosítóját, cégjegyzékszámát, statisztikai számát, adóazonosító számát, bankszámlaszámát (bankszámlaszámait), lakóhelyének, székhelyének címét, elektronikus levélcímét, egyéb elérhetőségi adatát, továbbá a képviseletére vonatkozó adatokat,
+
+nb) a végrehajtást kérő adatait (nevét, születési nevét, születési idejét, anyja nevét), személyi azonosítóját, cégjegyzékszámát, statisztikai számát, adóazonosító számát, bankszámlaszámát, lakóhelyének, székhelyének címét, elektronikus levélcímét, egyéb elérhetőségi adatát, továbbá a képviseletére vonatkozó adatokat,
+
+nc) a végrehajtható okirat adatait (pl. megnevezését, számát, döntés jogerőre emelkedésének időpontját, fizetési határidőt),
+
+nd) a kimutatott köztartozás – jogcím szerinti – összegét, késedelmi pótlékot,
+
+ne) a végrehajtás során foganatosított végrehajtási cselekményeket, azok időpontját és eredményét,
+
+nf) az adótartozás megfizetéséért felelős személy adatait,
+
+ng) a végrehajtást kérő és az adós költségkedvezményeire vonatkozó adatokat,
+
+nh) a végrehajtással kapcsolatban felmerült költségeket.
+
+o) Az önkormányzati adóhatóság által átruházott végrehajtási cselekményekre és a visszatartási jog gyakorlására vonatkozó nyilvántartása tartalmazza a végrehajtást foganatosító nevét (elnevezését) és a végrehajtásra történő átadás időpontját, továbbá a visszatartási jog gyakorlása miatt a megkeresett adó- és vámigazgatóság elnevezését, az adatátadás időpontját, a teljesítés tényét és időpontját.
+
+p) A magánfőzés ellenőrzésével összefüggő adatok nyilvántartása tartalmazza a magánfőző által az önkormányzati adóhatóságnál regisztrált, az állami adó- és vámhatóság által a magánfőzőknek átadott adójegy-mennyiségre vonatkozóan az önkormányzati adóhatóságnak megküldött, továbbá a párlat előállításával kapcsolatos szabályok betartásának ellenőrizhetőségéhez szükséges adatokat.
