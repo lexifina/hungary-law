@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-4-20-2X
 | 2013-01-01 | 2012-4-20-2X.3 | 50/2012. (XII. 28.) NGM rendelet |
 | 2014-01-01 | 2012-4-20-2X.4 | 72/2013. (XII. 30.) NGM rendelet |
 | 2015-01-01 | 2012-4-20-2X.5 | 47/2014. (XII. 30.) NGM rendelet |
+| 2016-01-01 | 2012-4-20-2X.6 | 47/2015. (XII. 30.) NGM rendelet |
