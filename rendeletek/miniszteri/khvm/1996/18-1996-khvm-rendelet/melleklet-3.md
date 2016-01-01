@@ -354,7 +354,7 @@
 
 ## 7. hidrológiai (egyesített rendszer esetén) hidraulikai és technológiai számítások.
 
-## III/A.[^39] A közműves szennyvízelvezető és tisztítóműbe történő bebocsátást megelőző előtisztítás esetén:
+## III/A.[^40] A közműves szennyvízelvezető és tisztítóműbe történő bebocsátást megelőző előtisztítás esetén:
 
 ## 1. Műszaki leírás
 
@@ -376,7 +376,7 @@
 
 ## f) jogszabályban meghatározott védőtávolságok, illetve az erre vonatkozó adatok;
 
-## g)[^40] a próbaüzemi előírások, a próbaüzemi, kezelési és karbantartási előírások, a próbaüzem alatt keletkező szennyvíz elhelyezésének rendezését is beleértve.
+## g)[^41] a próbaüzemi előírások, a próbaüzemi, kezelési és karbantartási előírások, a próbaüzem alatt keletkező szennyvíz elhelyezésének rendezését is beleértve.
 
 ## 2. Áttekintő helyszínrajz M: 1:5000 vagy 1:1000
 
@@ -434,9 +434,9 @@
 
 ## 5. az öntözőtelep műtárgyainak általános terve;
 
-## 6.[^41] a talajvédelmi terv.
+## 6.[^42] a talajvédelmi terv.
 
-## IV/A.[^42] A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott egynyári öntözés esetén:
+## IV/A.[^43] A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott egynyári öntözés esetén:
 
 ## 1. műszaki leírás:
 
@@ -770,10 +770,10 @@
 
 ## 6. Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részlettervét, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
 
-3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^43]
+3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^44]
 
-[^39]: A 2. számú melléklet III/A. pontját a 39/2001. (XI. 23.) KöViM rendelet 1. §-a iktatta a szövegbe.
-[^40]: A 2. számú melléklet III/A. pontjának 1.g) alpontja a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének b) pontjával megállapított szöveg.
-[^41]: A 2. számú melléklet IV. pont 6. alpontja a 109/2012. (X. 15.) VM rendelet 1. §-ával megállapított szöveg.
-[^42]: A 2. számú melléklet IV/A. pontját a 109/2012. (X. 15.) VM rendelet 1. §-a iktatta be.
-[^43]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra.
+[^40]: A 2. számú melléklet III/A. pontját a 39/2001. (XI. 23.) KöViM rendelet 1. §-a iktatta a szövegbe.
+[^41]: A 2. számú melléklet III/A. pontjának 1.g) alpontja a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének b) pontjával megállapított szöveg.
+[^42]: A 2. számú melléklet IV. pont 6. alpontja a 109/2012. (X. 15.) VM rendelet 1. §-ával megállapított szöveg.
+[^43]: A 2. számú melléklet IV/A. pontját a 109/2012. (X. 15.) VM rendelet 1. §-a iktatta be.
+[^44]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra.

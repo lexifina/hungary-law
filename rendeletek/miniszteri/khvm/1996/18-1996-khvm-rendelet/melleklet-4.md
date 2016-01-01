@@ -94,7 +94,7 @@
 
 ## A műszaki-hidrológiai dokumentációk alapján értékelve a vízzáró képződmények harántolásával okozott veszélyt, különösen állagromlás esetén
 
-4. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^44]
+4. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^45]
 
 Az igazgatási szolgáltatási díj megállapítására és megfizetésére vonatkozó nyilatkozat
 
@@ -114,4 +114,4 @@ Kelt: ..................................., ................ (év) ..............
 
 aláírás
 
-[^44]: A 4. számú mellékletet a 67/2014. (XII. 17.) BM rendelet 4. §-a iktatta be, szövege a 49/2015. (IX. 8.) BM rendelet 1. §-ával megállapított szöveg.
+[^45]: A 4. számú mellékletet a 67/2014. (XII. 17.) BM rendelet 4. §-a iktatta be, szövege a 49/2015. (IX. 8.) BM rendelet 1. §-ával megállapított szöveg.
