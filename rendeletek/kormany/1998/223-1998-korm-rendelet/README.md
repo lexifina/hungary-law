@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-223-20-
 | 2014-09-05 | 1998-223-20-22.41 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 1998-223-20-22.42 | 364/2014. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 1998-223-20-22.43 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-01-01 | 1998-223-20-22.44 | 417/2015. (XII. 23.) Korm. rendelet |

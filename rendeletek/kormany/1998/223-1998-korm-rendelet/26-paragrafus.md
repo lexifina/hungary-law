@@ -1,10 +1,10 @@
-## 25. §[^152]
+## 25. §[^167]
 
 ## JOGALAP NÉLKÜL IGÉNYBE VETT ELLÁTÁS
 
-26. § (1)[^153] A jogalap nélkül felvett ellátásokról a hatóság nyilvántartást vezet. A nyilvántartás tartalmazza
+26. § (1)[^168] A jogalap nélkül felvett ellátásokról a hatóság nyilvántartást vezet. A nyilvántartás tartalmazza
 
-a)[^154] a visszafizetésre kötelezett személy törvényben meghatározott, a hatóság által az ügyfél azonosítása céljából kezelhető személyes adatait,
+a)[^169] a visszafizetésre kötelezett személy törvényben meghatározott, a hatóság által az ügyfél azonosítása céljából kezelhető személyes adatait,
 
 b) a jogalap nélkül igénybe vett ellátás összegét, időtartamát, okát,
 
@@ -12,11 +12,11 @@ c) a visszafizetésre kötelező jogerős határozat keltét,
 
 d) a visszafizetés rendezésének módját.
 
-(2)[^155] A Cst. 43. §-ának (3) bekezdése alkalmazásában ,,hosszabb idő alatt megtérülő követelésen'' a 12 naptári hónap alatt meg nem térülő követelést kell érteni.
+(2)[^170] A Cst. 43. §-ának (3) bekezdése alkalmazásában ,,hosszabb idő alatt megtérülő követelésen'' a 12 naptári hónap alatt meg nem térülő követelést kell érteni.
 
-(3)[^156] Ha a visszafizetésre kötelező határozatot családtámogatási kifizetőhely hozta és a kötelezett a fizetési kötelezettségének a Cst. 43. §-ának (4) bekezdésében előírt határidőben nem tesz eleget, továbbá a tartozás a keresetből sem vonható le, a kifizetőhely a visszafizetésre kötelező határozatát haladéktalanul megküldi az ONYF Központnak.
+(3)[^171] Ha a visszafizetésre kötelező határozatot családtámogatási kifizetőhely hozta és a kötelezett a fizetési kötelezettségének a Cst. 43. §-ának (4) bekezdésében előírt határidőben nem tesz eleget, továbbá a tartozás a keresetből sem vonható le, a kifizetőhely a visszafizetésre kötelező határozatát haladéktalanul megküldi az ONYF Központnak.
 
-(4)[^157] A Cst. 43. §-ának (5) bekezdése alkalmazásában a visszakövetelt családtámogatási ellátás megfizetése különösen akkor veszélyezteti súlyosan a megélhetést, ha a közös háztartásban élő családban
+(4)[^172] A Cst. 43. §-ának (5) bekezdése alkalmazásában a visszakövetelt családtámogatási ellátás megfizetése különösen akkor veszélyezteti súlyosan a megélhetést, ha a közös háztartásban élő családban
 
 a) az egy főre jutó havi jövedelem nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének kétszeresét, vagy
 
@@ -24,26 +24,26 @@ b) magasabb összegű családi pótlékra jogosító gyermek, illetve magasabb �
 
 c) három vagy több gyermek eltartásáról kell gondoskodni.
 
-(5)[^158] A Cst. 43. §-ának (6) bekezdése szerinti méltányossági kérelmet a visszafizetésre kötelező határozatot hozó szervnél kell benyújtani. A kérelemhez csatolni kell a jogalap nélkül felvett ellátás jogosultnak történő átadásáról és annak átvételéről szóló – az átadott összeg megjelölését és az átadás időpontját is tartalmazó – nyilatkozatot. A nyilatkozatot magánokirati formába kell foglalni, valamint el kell látni az átadó és az átvevő személy aláírásával.
+(5)[^173] A Cst. 43. §-ának (6) bekezdése szerinti méltányossági kérelmet a visszafizetésre kötelező határozatot hozó szervnél kell benyújtani. A kérelemhez csatolni kell a jogalap nélkül felvett ellátás jogosultnak történő átadásáról és annak átvételéről szóló – az átadott összeg megjelölését és az átadás időpontját is tartalmazó – nyilatkozatot. A nyilatkozatot magánokirati formába kell foglalni, valamint el kell látni az átadó és az átvevő személy aláírásával.
 
-(6)[^159] Ha a visszafizetésre kötelező határozatot
+(6)[^174] Ha a visszafizetésre kötelező határozatot
 
-a)[^160] fővárosi és megyei kormányhivatal hozta, a fővárosi és megyei kormányhivatal,
+a)[^175] fővárosi és megyei kormányhivatal hozta, a fővárosi és megyei kormányhivatal,
 
-b)[^161] családtámogatási kifizetőhely hozta, az ONYF Központ
+b)[^176] családtámogatási kifizetőhely hozta, az ONYF Központ
 
 az (5) bekezdés szerinti méltányossági kérelemre induló eljárásban közreműködő hatóságként jár el.
 
-(7)[^162] Ha a kérelmező a (6) bekezdés szerint eljárásban a közreműködő hatóság hiánypótlási felhívásának nem tesz eleget és a határidő módosítását sem kérte, az eljárást a közreműködő hatóság jogosult megszüntetni. Amennyiben a kérelem érdemi vizsgálat nélküli elutasítására vagy az eljárás megszüntetésére nem kerül sor, a közreműködő hatóság a méltányossági döntésre az iratanyagot megfelelően előkészíti és megküldi az ONYF főigazgatójának. Az ONYF főigazgatója által hozott határozatot a kérelmezővel a közreműködő hatóság közli.
+(7)[^177] Ha a kérelmező a (6) bekezdés szerint eljárásban a közreműködő hatóság hiánypótlási felhívásának nem tesz eleget és a határidő módosítását sem kérte, az eljárást a közreműködő hatóság jogosult megszüntetni. Amennyiben a kérelem érdemi vizsgálat nélküli elutasítására vagy az eljárás megszüntetésére nem kerül sor, a közreműködő hatóság a méltányossági döntésre az iratanyagot megfelelően előkészíti és megküldi az ONYF főigazgatójának. Az ONYF főigazgatója által hozott határozatot a kérelmezővel a közreműködő hatóság közli.
 
-[^152]: A 25. §-t a 378/2004. (XII. 28.) Korm. rendelet 4. §-a (2) bekezdésének d) pontja hatályon kívül helyezte.
-[^153]: A 26. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 204/2000. (XII. 11.) Korm. rendelet 4. §-a, bevezető szövegrésze a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének o) pontja szerint módosított szöveg.
-[^154]: A 26. § (1) bekezdésének a) pontja a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének p) pontja szerint módosított szöveg.
-[^155]: A 26. § (2) bekezdését a 204/2000. (XII. 11.) Korm. rendelet 4. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatva.
-[^156]: A 26. § (3) bekezdését a 204/2000. (XII. 11.) Korm. rendelet 4. §-a iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 332/2011. (XII. 29.) Korm. rendelet 5. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés k) pontja szerint módosított szöveg.
-[^157]: A 26. § (4) bekezdését a 378/2004. (XII. 28.) Korm. rendelet 2. §-a iktatta a szövegbe.
-[^158]: A 26. § (5) bekezdését a 394/2007. (XII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének j) pontja szerint módosított szöveg.
-[^159]: A 26. § (6) bekezdését a 394/2007. (XII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^160]: A 26. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés g) és m) pontja szerint módosított szöveg.
-[^161]: A 26. § (6) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés t) pontja szerint módosított szöveg.
-[^162]: A 26. § (7) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés u) és v) pontja szerint módosított szöveg.
+[^167]: A 25. §-t a 378/2004. (XII. 28.) Korm. rendelet 4. §-a (2) bekezdésének d) pontja hatályon kívül helyezte.
+[^168]: A 26. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 204/2000. (XII. 11.) Korm. rendelet 4. §-a, bevezető szövegrésze a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének o) pontja szerint módosított szöveg.
+[^169]: A 26. § (1) bekezdésének a) pontja a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének p) pontja szerint módosított szöveg.
+[^170]: A 26. § (2) bekezdését a 204/2000. (XII. 11.) Korm. rendelet 4. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatva.
+[^171]: A 26. § (3) bekezdését a 204/2000. (XII. 11.) Korm. rendelet 4. §-a iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 332/2011. (XII. 29.) Korm. rendelet 5. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés k) pontja szerint módosított szöveg.
+[^172]: A 26. § (4) bekezdését a 378/2004. (XII. 28.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^173]: A 26. § (5) bekezdését a 394/2007. (XII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének j) pontja szerint módosított szöveg.
+[^174]: A 26. § (6) bekezdését a 394/2007. (XII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 176/2009. (VIII. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^175]: A 26. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés g) és m) pontja szerint módosított szöveg.
+[^176]: A 26. § (6) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés t) pontja szerint módosított szöveg.
+[^177]: A 26. § (7) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés u) és v) pontja szerint módosított szöveg.

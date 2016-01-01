@@ -1,4 +1,4 @@
-## A gyermekgondozási segély nagyszülő részére történő megállapítása iránti kérelem adattartalma
+## A gyermekgondozást segítő ellátás nagyszülő részére történő megállapítása iránti kérelem adattartalma[^232]
 
 ## 1. A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
@@ -30,15 +30,15 @@
 
 ## 1.4 a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
 
-## 1.5 a gyermekgondozási segély megállapításának kérelmezett kezdő időpontja;
+## 1.5[^233] a gyermekgondozást segítő ellátás megállapításának kérelmezett kezdő időpontja;
 
-## 1.6 a gyermekgondozási segély folyósítása módjának megválasztására vonatkozó nyilatkozat;
+## 1.6[^234] a gyermekgondozást segítő ellátás folyósítása módjának megválasztására vonatkozó nyilatkozat;
 
 ## 1.7 a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím.
 
 ## 2. A gyermek(ek)re vonatkozó adatok
 
-## 2.1 azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező a gyermekgondozási segély megállapítását kéri
+## 2.1[^235] azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező a gyermekgondozást segítő ellátás megállapítását kéri
 
 ## 2.1.1 a neve
 
@@ -56,7 +56,7 @@
 
 ## 3.1 a kérelmező magánnyugdíj-pénztári tagságára vonatkozó adat;
 
-## 3.2 arra vonatkozó adat, hogy a kérelmező részesül-e nyugellátásban vagy egyéb, a gyermekgondozási segély mellet folyósítható rendszeres pénzellátásban, és amennyiben igen, annak megnevezése;
+## 3.2[^236] arra vonatkozó adat, hogy a kérelmező részesül-e nyugellátásban vagy egyéb, a gyermekgondozást segítő ellátás mellett folyósítható rendszeres pénzellátásban, és amennyiben igen, annak megnevezése;
 
 ## 3.3 a gyermek(ek) szüleinek
 
@@ -74,25 +74,35 @@
 
 ## 3.3.7 valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységére vonatkozó adat;
 
-## 3.4[^208] arra vonatkozó adat, hogy – olyan gyermekre tekintettel, aki után a nagyszülő nem igényel gyermekgondozási segélyt – valamelyik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, vagy benyújtott-e kérelmet ilyen ellátás megállapítására; amennyiben igen, az ellátás típusa, ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
+## 3.4[^237] arra vonatkozó adat, hogy – olyan gyermekre tekintettel, aki után a nagyszülő nem igényel gyermekgondozást segítő ellátást – valamelyik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, vagy benyújtott-e kérelmet ilyen ellátás megállapítására; amennyiben igen, az ellátás típusa, ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
 
-## 3.5 a szülők nyilatkozata arról, hogy a gyermekgondozási segélyről a nagyszülő javára lemondanak és egyetértenek a gyermekgondozási segély nagyszülő részére történő folyósításával, továbbá a nyilatkozatot tevő szülők aláíróhelye;
+## 3.5[^238] a szülők nyilatkozata arról, hogy a gyermekgondozást segítő ellátásról a nagyszülő javára lemondanak és egyetértenek a gyermekgondozást segítő ellátás nagyszülő részére történő folyósításával, továbbá a nyilatkozatot tevő szülők aláíróhelye;
 
-## 3.6 a kérelmező nyilatkozata arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülőként a nyugdíjfolyósító szervhez benyújtott nyilatkozatában vállalja-e a gyermekgondozási segély összege után nyugdíjjárulék (tagdíj) fizetését;
+## 3.6[^239] a kérelmező nyilatkozata arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülőként a nyugdíjfolyósító szervhez benyújtott nyilatkozatában vállalja-e a gyermekgondozást segítő ellátás összege után nyugdíjjárulék (tagdíj) fizetését;
 
-## 3.7 a kérelmező nyilatkozata arról, hogy a gyermekgondozási segéllyel együtt nem folyósítható rendszeres pénzellátásban nem részesül;
+## 3.7[^240] a kérelmező nyilatkozata arról, hogy a gyermekgondozást segítő ellátással együtt nem folyósítható rendszeres pénzellátásban nem részesül;
 
-## 3.8 a kérelmező nyilatkozata a kereső tevékenységének a gyermekgondozási segély folyósításának ideje alatti kizárásának, illetve korlátozásának tudomásul vételéről;
+## 3.8[^241] a kérelmező nyilatkozata a kereső tevékenységének a gyermekgondozást segítő ellátás folyósításának ideje alatti kizárásának, illetve korlátozásának tudomásul vételéről;
 
 ## 3.9 a kérelmező nyilatkozata a gyermek napközbeni ellátást biztosító intézményben történő elhelyezésére irányuló korlátozás tudomásul vételéről;
 
 ## 3.10 nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban, vagy a gyámhatóság nyilvántartásában szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
 
-## 3.11 nyilatkozat a gyermekgondozási segély folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
+## 3.11[^242] nyilatkozat a gyermekgondozást segítő ellátás folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
 
 ## 3.12 a kérelmező aláíróhelye.
 
-4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^209]
+4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^243]
 
-[^208]: A 3. számú melléklet 3.4 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § d) pontja szerint módosított szöveg.
-[^209]: A 4. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § c) pontjával megállapított szöveg.
+[^232]: A 3. számú melléklet a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^233]: A 3. számú melléklet 1.5 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^234]: A 3. számú melléklet 1.6 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^235]: A 3. számú melléklet 2.1 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^236]: A 3. számú melléklet 3.2 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § q) pontja szerint módosított szöveg.
+[^237]: A 3. számú melléklet 3.4 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § d) pontja, a 417/2015. (XII. 23.) Korm. rendelet 22. § r) pontja szerint módosított szöveg.
+[^238]: A 3. számú melléklet 3.5 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § s) pontja szerint módosított szöveg.
+[^239]: A 3. számú melléklet 3.6 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^240]: A 3. számú melléklet 3.7 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § t) pontja szerint módosított szöveg.
+[^241]: A 3. számú melléklet 3.8 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^242]: A 3. számú melléklet 3.11 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^243]: A 4. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § c) pontjával megállapított szöveg.

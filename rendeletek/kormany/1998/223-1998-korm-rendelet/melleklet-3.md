@@ -1,4 +1,4 @@
-## A gyermekgondozási segély iránti kérelem adattartalma
+## A gyermekgondozást segítő ellátás iránti kérelem adattartalma[^222]
 
 ## 1. A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
 
@@ -30,15 +30,15 @@
 
 ## 1.4 a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
 
-## 1.5 a gyermekgondozási segély megállapításának kérelmezett kezdő időpontja;
+## 1.5[^223] a gyermekgondozást segítő ellátás megállapításának kérelmezett kezdő időpontja;
 
-## 1.6 a gyermekgondozási segély folyósítása módjának megválasztására vonatkozó nyilatkozat;
+## 1.6[^224] a gyermekgondozást segítő ellátás folyósítása módjának megválasztására vonatkozó nyilatkozat;
 
 ## 1.7 a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím.
 
 ## 2. A gyermek(ek)re vonatkozó adatok
 
-## 2.1 azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező a gyermekgondozási segély megállapítását kéri
+## 2.1[^225] azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező a gyermekgondozást segítő ellátás megállapítását kéri
 
 ## 2.1.1 a neve
 
@@ -58,24 +58,31 @@
 
 ## 3.1 a kérelmező magánnyugdíj-pénztári tagságára vonatkozó adat;
 
-## 3.2[^205] nyilatkozat arról, hogy a kérelmező részesül-e táppénzben, terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban vagy egyéb rendszeres pénzellátásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására;
+## 3.2[^226] nyilatkozat arról, hogy a kérelmező részesül-e táppénzben, terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban vagy egyéb rendszeres pénzellátásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására;
 
-## 3.3[^206] nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
+## 3.3[^227] nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
 
-## 3.4 nyilatkozat arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülő kérelmező a nyugdíjfolyósító szervhez benyújtott nyilatkozatban vállalta-e a gyermekgondozási segély összege után nyugdíjjárulék (tagdíj) fizetését;
+## 3.4[^228] nyilatkozat arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülő kérelmező a nyugdíjfolyósító szervhez benyújtott nyilatkozatban vállalta-e a gyermekgondozást segítő ellátás összege után nyugdíjjárulék (tagdíj) fizetését;
 
-## 3.5 a kérelmező nyilatkozata a kereső tevékenységének a gyermekgondozási segély folyósítási ideje alatti korlátozásának tudomásul vételéről;
+## 3.5[^229] a kérelmező nyilatkozata a kereső tevékenységének a gyermekgondozást segítő ellátás folyósítási ideje alatti korlátozásának tudomásul vételéről;
 
 ## 3.6 nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban vagy a gyámhatóság nyilvántartásában szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
 
-## 3.7 nyilatkozat a gyermekgondozási segély folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
+## 3.7[^230] nyilatkozat a gyermekgondozást segítő ellátás folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
 
 ## 3.8 a kérelmező nyilatkozata arról, hogy kéri-e a helyi utazási kedvezményre való jogosultság igazolására szolgáló hatósági bizonyítvány kiállítását;
 
 ## 3.9 a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^207]
+3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^231]
 
-[^205]: A 2. számú melléklet 3.2 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § c) pontja szerint módosított szöveg.
-[^206]: A 2. számú melléklet 3.3 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § c) pontja szerint módosított szöveg.
-[^207]: A 3. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § b) pontjával megállapított szöveg.
+[^222]: A 2. számú melléklet címe a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^223]: A 2. számú melléklet 1.5 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^224]: A 2. számú melléklet 1.6 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^225]: A 2. számú melléklet 2.1 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^226]: A 2. számú melléklet 3.2 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § c) pontja szerint módosított szöveg.
+[^227]: A 2. számú melléklet 3.3 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § c) pontja szerint módosított szöveg.
+[^228]: A 2. számú melléklet 3.4 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^229]: A 2. számú melléklet 3.5 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^230]: A 2. számú melléklet 3.7 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^231]: A 3. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § b) pontjával megállapított szöveg.
