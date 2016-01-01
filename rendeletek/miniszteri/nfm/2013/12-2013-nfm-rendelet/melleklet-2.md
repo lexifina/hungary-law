@@ -144,7 +144,7 @@
 
 | 3. | 1. | 52 | 343 | 01 | Közbeszerzési referens | Közgazdasági szakmacsoport |
 
-2. melléklet a 12/2013. (III. 29.) NFM rendelethez*[^2]
+2. melléklet a 12/2013. (III. 29.) NFM rendelethez*[^3]
 
 I.
 
@@ -5998,4 +5998,4 @@ A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt kapcsolódik egy S
 
 A vizsgafeladat időtartama: 30 perc
 
-[^2]: A 2. melléklet a 11/2014. (III. 6.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 11/2014. (III. 6.) NFM rendelet 2. §-a, a 74/2015. (XII. 29.) NFM rendelet 7. §-a szerint módosított szöveg.
