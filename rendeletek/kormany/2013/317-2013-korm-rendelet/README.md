@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-317-20-
 | 2013-09-06 | 2013-317-20-22.2 | 2010: CXXX. törvény |
 | 2015-01-01 | 2013-317-20-22.3 | 368/2014. (XII. 30.) Korm. rendelet |
 | 2015-07-01 | 2013-317-20-22.4 | 158/2015. (VI. 25.) Korm. rendelet |
+| 2016-01-01 | 2013-317-20-22.5 | 158/2015. (VI. 25.) Korm. rendelet |

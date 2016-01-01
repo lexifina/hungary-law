@@ -6,10 +6,6 @@ b) olyan felszerelésekkel és eszközökkel, amelyek a közszolgáltatás keret
 
 c) a közszolgáltatás ellátásához szükséges létszámú – és a vonatkozó jogszabályok előírásainak megfelelően képzett – szakemberrel;
 
-d)[^1] a környezetvédelmi hatóság által kiadott
+d)[^1] a környezetvédelmi hatóság által kiadott minősítési engedéllyel
 
-da) hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal, vagy
-
-db) minősítési engedéllyel
-
-[^1]: A 3. § d) pontja a 158/2015. (VI. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: A 3. § d) pontja a 158/2015. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
