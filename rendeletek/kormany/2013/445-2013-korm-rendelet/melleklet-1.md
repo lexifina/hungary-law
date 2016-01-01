@@ -1,6 +1,6 @@
-## 27–28. §[^53]
+## 27–28. §[^65]
 
-1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^54]
+1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^66]
 
 KÉRELEM
 
@@ -150,5 +150,5 @@ Dátum: ........................................................
 
 foglalkoztató cégszerű aláírása
 
-[^53]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^54]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 236. § (9) bekezdése szerint módosított szöveg.
+[^65]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 236. § (9) bekezdése szerint módosított szöveg.

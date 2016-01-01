@@ -1,4 +1,4 @@
-20. § (1)[^41] A kormányhivatal szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását, ha
+20. § (1)[^50] A kormányhivatal szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását, ha
 
 a) nem állnak fenn a 19. § (1) bekezdés a)–d) pontjában meghatározott feltételek,
 
@@ -20,17 +20,19 @@ g) a 18. § alapján kérelmezett összevont engedély esetén, a szakhatósági
 
 h) a foglalkoztató az EU Kék Kártyával foglalkoztatandó személynek a külön jogszabályban meghatározott kötelező legkisebb munkabérnél alacsonyabb bért kíván fizetni,
 
-i) a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintő időtartamban egy másik foglalkoztató érvényes engedéllyel rendelkezik, ide értve a részmunkaidős foglalkoztatásra szóló engedélyt, vagy
+i)[^51] a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintő időtartamban egy másik foglalkoztató érvényes engedéllyel rendelkezik, kivéve a részmunkaidős foglalkoztatásra szóló engedélyt,
 
-j) a foglalkoztató a harmadik országbeli állampolgár foglalkoztatását az összevont engedély iránti kérelem benyújtásának időpontjától számított százhúsz napon belül nem kívánja megkezdeni.
+j) a foglalkoztató a harmadik országbeli állampolgár foglalkoztatását az összevont engedély iránti kérelem benyújtásának időpontjától számított százhúsz napon belül nem kívánja megkezdeni,
 
-(2)[^42] Az (1) bekezdés e) pontjában meghatározott körülmény fennállásáról a kormányhivatalt a miniszter tájékoztatja.
+k)[^52] a harmadik országbeli állampolgár magyarországi foglalkoztatásának alapjaként szolgáló, külföldi munkáltatóval kötött magánjogi szerződés munkaerő-kölcsönzést valósít meg.
 
-(3)[^43] Az (1) bekezdés i) pontja tekintetében nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását.
+(2)[^53] Az (1) bekezdés e) pontjában meghatározott körülmény fennállásáról a kormányhivatalt a miniszter tájékoztatja.
 
-(4)[^44] A kormányhivatal egyéb foglalkoztatási szempont mérlegelése alapján dönthet arról, hogy szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását.
+(3)[^54] Az (1) bekezdés i) pontja tekintetében nem minősül érvényes engedélynek, ha az érvényes engedéllyel rendelkező foglalkoztató a szakhatósági állásfoglalás meghozataláig kezdeményezi az engedély visszavonását.
 
-(5)[^45] A (4) bekezdésben meghatározott egyéb foglalkoztatási szempont, ha
+(4)[^55] A kormányhivatal egyéb foglalkoztatási szempont mérlegelése alapján dönthet arról, hogy szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását.
+
+(5)[^56] A (4) bekezdésben meghatározott egyéb foglalkoztatási szempont különösen:
 
 a) az összevont engedély iránti kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által ellátandó tevékenységre vonatkozóan a Nemzeti Foglalkoztatási Alapból támogatott olyan képzés van folyamatban, amely a harmadik országbeli állampolgár foglalkoztatásának tervezett megkezdését megelőzően befejeződik,
 
@@ -38,13 +40,19 @@ b) az előzetes megállapodást megkötő foglalkoztató a kérelem benyújtás�
 
 c) az előzetes megállapodást megkötő foglalkoztatónál a kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által ellátandó tevékenységet is érintő sztrájk van,
 
-d) az előzetes megállapodásban a harmadik országbeli állampolgár által ellátandó tevékenységért az erre a tevékenységre vonatkozó országos átlagos személyi alapbérnél lényegesen alacsonyabb alapbér – ideértve az illetményt és a díjazást – szerepel.
+d) az előzetes megállapodásban a harmadik országbeli állampolgár által ellátandó tevékenységért az erre a tevékenységre vonatkozó országos átlagos személyi alapbérnél lényegesen alacsonyabb alapbér – ideértve az illetményt és a díjazást – szerepel,
 
-(6)[^46] A (5) bekezdés d) pontjában meghatározott feltétel szempontjából a harmadik országbeli állampolgár által ellátandó tevékenységért megjelölt alapbér – ideértve az illetményt és a díjazást – az erre a tevékenységre vonatkozó országos személyi alapbérnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak nyolcvan százalékát.
+e) a szakhatósági eljárás során benyújtott dokumentumok tartalma ugyanazon adat tekintetében egymástól eltér,
 
-[^41]: A 20. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (5) bekezdésével megállapított szöveg.
-[^42]: A 20. § (2) bekezdése a 89/2014. (III. 20.) Korm. rendelet 7. § (17) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés c) pontja szerint módosított szöveg.
-[^43]: A 20. § (3) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.
-[^44]: A 20. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^45]: A 20. § (5) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.
-[^46]: A 20. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.
+f) a részmunkaidős foglalkoztatási jogviszonyokra beadott engedély iránti kérelmek esetén a foglalkoztatási jogviszonyokban az összes munkaidő mértéke meghaladja a heti 40 órát.
+
+(6)[^57] A (5) bekezdés d) pontjában meghatározott feltétel szempontjából a harmadik országbeli állampolgár által ellátandó tevékenységért megjelölt alapbér – ideértve az illetményt és a díjazást – az erre a tevékenységre vonatkozó országos személyi alapbérnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak nyolcvan százalékát.
+
+[^50]: A 20. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (5) bekezdésével megállapított szöveg.
+[^51]: A 20. § (1) bekezdés i) pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (9) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^52]: A 20. § (1) bekezdés k) pontját a 441/2015. (XII. 28.) Korm. rendelet 216. § (10) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^53]: A 20. § (2) bekezdése a 89/2014. (III. 20.) Korm. rendelet 7. § (17) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés c) pontja szerint módosított szöveg.
+[^54]: A 20. § (3) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 216. § (11) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^55]: A 20. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^56]: A 20. § (5) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 216. § (12) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^57]: A 20. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.
