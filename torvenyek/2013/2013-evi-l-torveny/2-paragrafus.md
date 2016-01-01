@@ -32,7 +32,7 @@ a) az (1) bekezdésben meghatározott szervek és ezen szervek számára adatkez
 
 b) a jogszabályban meghatározott, a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozói,
 
-c) az európai létfontosságú rendszerelemmé és a nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt rendszerelemek
+c) az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek
 
 elektronikus információs rendszereinek védelmére.
 
@@ -42,7 +42,7 @@ elektronikus információs rendszereinek védelmére.
 
 (5) A honvédelmi célú elektronikus információs rendszerek esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a honvédelmi ágazaton belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-(6) Az európai vagy nemzeti létfontosságú létesítménnyé, rendszerré törvény alapján kijelölt létesítmények, rendszerek elektronikus információs rendszerei esetében az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a katasztrófavédelem szervezetrendszerén belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
+(6) Az (1) bekezdés szerinti állami és önkormányzati szervek kivételével, az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei esetében az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a hivatásos katasztrófavédelem szervezetrendszerén belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
 (7) E törvény rendelkezéseit
 

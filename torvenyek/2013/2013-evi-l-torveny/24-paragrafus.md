@@ -24,7 +24,7 @@ h) a 2. § (3) bekezdése szerinti elektronikus információs rendszereket, vala
 
 i) a 2. § (4)–(6) bekezdése szerinti hatóságot és a feladatellátás részletes szabályait,
 
-j) a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására feljogosított állami szerveket, a 18. § (3) bekezdés b) pontja szerinti gazdasági társasággal szemben támasztott szakmai követelményeket, a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására vonatkozó eljárási szabályokat, és
+j) a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására feljogosított állami szerveket, a 18. § (3) bekezdés b) pontja szerinti gazdálkodó szervezettel szemben támasztott szakmai követelményeket, a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására vonatkozó eljárási szabályokat, és
 
 k) a 19. § (2)–(4) bekezdése szerinti eseménykezelő központot, feladat- és hatáskörét.
 
@@ -36,7 +36,7 @@ a) az e-közigazgatásért felelős miniszter, hogy az informatikáért felelős
 
 b) a közigazgatás-fejlesztésért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben az e törvényben meghatározott vezetői, az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmát,
 
-c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének, a biztonsági események jelentésének és közzétételének rendjét
+c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének rendjét
 
 rendeletben határozza meg.
 
