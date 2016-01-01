@@ -10,11 +10,12 @@
 
 (4)[^31] A pénztár az éves pénztári beszámolót e rendeletben meghatározott formában és tartalommal készíti el.
 
-(5) Az éves pénztári beszámolónak a pénztár vagyoni, pénzügyi, jövedelmi helyzetéről és azok változásáról a tényleges körülményeknek megfelelő, megbízható és valós képet kell mutatnia. Tartalmaznia kell minden eszközt, a saját tőke részét képező – be nem fizetett pénzbeli alapítói támogatásokkal, illetve a vagyontárgy formájában felajánlott, de még nem teljesített alapítói támogatásokkal korrigált – induló tőkét olyan megbontásban, hogy az a működés vagy a nyugdíjszolgáltatás fedezetét képező, illetve a biztonsági célú induló tőke, továbbá a nyugdíjszolgáltatások fedezetére és különböző kockázatokra képzett céltartalékokat, minden kötelezettséget (figyelembe véve az időbeli elhatárolások tételeit is), továbbá az időszaknak a működéssel kapcsolatos bevételeit és ráfordításait, a működés mérleg szerinti eredményét, valamint a kiegészítő mellékletben azokat az adatokat, szöveges indokolásokat, amelyek a pénztár valós vagyoni, pénzügyi helyzetének, a befektetési tevékenység hatékonyságának és a működés eredményének bemutatásához szükségesek.
+(5)[^32] Az éves pénztári beszámolónak a pénztár vagyoni, pénzügyi, jövedelmi helyzetéről és azok változásáról a tényleges körülményeknek megfelelő, megbízható és valós képet kell mutatnia. Tartalmaznia kell minden eszközt, a saját tőke részét képező – be nem fizetett pénzbeli alapítói támogatásokkal, illetve a vagyontárgy formájában felajánlott, de még nem teljesített alapítói támogatásokkal korrigált – induló tőkét olyan megbontásban, hogy az a működés vagy a nyugdíjszolgáltatás fedezetét képező, illetve a biztonsági célú induló tőke, továbbá a nyugdíjszolgáltatások fedezetére és különböző kockázatokra képzett céltartalékokat, minden kötelezettséget (figyelembe véve az időbeli elhatárolások tételeit is), továbbá az időszaknak a működéssel kapcsolatos bevételeit és ráfordításait, a működés tárgyévi eredményét, valamint a kiegészítő mellékletben azokat az adatokat, szöveges indokolásokat, amelyek a pénztár valós vagyoni, pénzügyi helyzetének, a befektetési tevékenység hatékonyságának és a működés eredményének bemutatásához szükségesek.
 
-(6)[^32]
+(6)[^33]
 
 [^29]: A 8. § (1) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
 [^30]: A 8. § (2) bekezdését a 345/2010. (XII. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.
 [^31]: A 8. § (4) bekezdése a 345/2010. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^32]: A 8. § (6) bekezdését a 345/2010. (XII. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^32]: A 8. § (5) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
+[^33]: A 8. § (6) bekezdését a 345/2010. (XII. 28.) Korm. rendelet 11. §-a hatályon kívül helyezte.

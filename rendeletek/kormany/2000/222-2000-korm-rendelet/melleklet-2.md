@@ -136,7 +136,7 @@
 
 | III. Tartaléktőke |
 
-| IV. Működés mérleg szerinti eredménye |
+| IV. Működés tárgyévi eredménye |
 
 | V. Értékelési tartalék |
 
@@ -268,6 +268,6 @@
 
 | 3. Halasztott bevételek |
 
-2. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^242]
+2. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^260]
 
-[^242]: A 2. számú melléklet a 114/2012. (VI. 8.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^260]: A 2. számú melléklet a 114/2012. (VI. 8.) Korm. rendelet 22. § (2) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 37. § (2) bekezdése szerint módosított szöveg.

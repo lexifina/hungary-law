@@ -88,7 +88,7 @@
 
 | 12.3. Hitelviszonyt megtestesítő kamatozó értékpapírok vételárában lévő kamat (–) |
 
-| 13. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok nyereségjellegű különbözete (árfolyamnyereség) |
+| 13. Részesedésekből származó bevételek, árfolyamnyereségek |
 
 | 14. Befektetési jegyek realizált hozama |
 
@@ -120,7 +120,7 @@
 
 | 20. Fizetendő kamatok és kamatjellegű ráfordítások |
 
-| 21. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok veszteségjellegű különbözete (árfolyamveszteség) |
+| 21. Részesedésekből származó ráfordítások, árfolyamveszteségek |
 
 | 22. Befektetési jegyek realizált vesztesége |
 
@@ -150,13 +150,13 @@
 
 | 28. Befektetési tevékenység eredménye (19–27) (±) |
 
-| 29. Rendkívüli bevételek |
+| 29. |
 
-| 30. Rendkívüli ráfordítások |
+| 30. |
 
-| 31. Rendkívüli eredmény (29–30) (±) |
+| 31. |
 
-| 32. Működés mérleg szerinti eredménye (10±11±28±31) (±) |
+| 32. Működés tárgyévi eredménye (10±11±28) (±) |
 
 | B) Pénztári szolgáltatások fedezete |
 
@@ -384,11 +384,11 @@
 
 | 23.5.4. Egyéb piaci értékítéletből adódó értékkülönbözet |
 
-3. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^243]
+3. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^261]
 
 Cash-flow kimutatás
 
-1. Működés mérleg szerinti eredménye (±)
+1. Működés tárgyévi eredménye (±)
 
 2. Immateriális javak nettó értékében bekövetkezett állományváltozás (±)
 
@@ -474,4 +474,4 @@ Cash-flow kimutatás
 
 41.2. Számlapénz (pénztári elszámolási számla, éven belüli lejáratú forint és deviza betétszámlák, egyéb elkülönített betétszámlák) állomány változása
 
-[^243]: A 3. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^261]: A 3. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 20. § (3) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg.

@@ -1,3 +1,3 @@
-55. §[^236]
+55. §[^253]
 
-[^236]: Az 55. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1124. pontja hatályon kívül helyezte.
+[^253]: Az 55. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1124. pontja hatályon kívül helyezte.
