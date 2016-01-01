@@ -1,0 +1,1 @@
+Az atomenergiáról szóló 1996. évi CXVI. törvény 67. § m) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

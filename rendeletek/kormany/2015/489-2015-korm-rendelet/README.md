@@ -1,0 +1,9 @@
+# 489/2015. (XII. 30.) Korm. rendelet
+
+a lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-489-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-01-01 | 2015-489-20-22.1 | 489/2015. (XII. 30.) Korm. rendelet |
