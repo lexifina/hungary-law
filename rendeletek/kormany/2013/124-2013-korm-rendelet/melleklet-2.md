@@ -16,7 +16,7 @@ Igénylőlap a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató e
 
 1.6. KSH kódja,
 
-1.7. pénzügyi körzet,
+1.7.[^23]
 
 1.8. OEP finanszírozási kód,
 
@@ -51,3 +51,5 @@ Igénylőlap a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató e
 4.3. a támogatási igény bejelentésére jogosult neve, aláírása,
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
+
+[^23]: A 2. melléklet 1.7. pontját a 413/2015. (XII. 23.) Korm. rendelet 57. § a) pontja hatályon kívül helyezte.

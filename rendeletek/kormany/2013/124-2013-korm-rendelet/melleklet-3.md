@@ -16,7 +16,7 @@ Elszámolás a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató e
 
 1.6. KSH kódja,
 
-1.7. pénzügyi körzet,
+1.7.[^24]
 
 1.8. OEP finanszírozási kód,
 
@@ -24,11 +24,11 @@ Elszámolás a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató e
 
 2. A támogatásra vonatkozó adatok
 
-2.1. a kapott támogatás összesített bruttó összege/hónap,
+2.1.[^25] az igényelt támogatás összesített bruttó összege/hónap,
 
 2.2. a kifizetőt terhelő közterhek összege/hónap.
 
-3.[^22] A kifizetett támogatásra vonatkozó adatok
+3.[^26] A kifizetett támogatásra vonatkozó adatok
 
 3.1. a kifizetőt terhelő, közterhekkel növelt bruttó összeg,
 
@@ -48,4 +48,6 @@ Elszámolás a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató e
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
 
-[^22]: A 3. melléklet 3. pontja a 256/2013. (VII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^24]: A 3. melléklet 1.7. pontját a 413/2015. (XII. 23.) Korm. rendelet 57. § b) pontja hatályon kívül helyezte.
+[^25]: A 3. melléklet 2.1. pontja a 413/2015. (XII. 23.) Korm. rendelet 56. § b) pontja szerint módosított szöveg.
+[^26]: A 3. melléklet 3. pontja a 256/2013. (VII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
