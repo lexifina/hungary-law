@@ -10,7 +10,7 @@ c) a 3. melléklet szerinti szállodai és éttermi szolgáltatásokra, a 799950
 
 d) a 3. melléklet szerinti bármely szolgáltatásra, ha annak becsült értéke a tizennyolcmillió forintot nem éri el;
 
-e) külügyi segélyezés keretében humanitárius segítségnyújtás céljából, válságkezelés során történő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
+e) nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység keretében történő beszerzésre;
 
 f) a hideg élelmiszer és főzési alapanyag, friss, illetve feldolgozott zöldség és gyümölcs, tej és tejtermék, gabonafélék, kenyér és pékáru, méz, tojás, kertészeti növény beszerzésére;
 
