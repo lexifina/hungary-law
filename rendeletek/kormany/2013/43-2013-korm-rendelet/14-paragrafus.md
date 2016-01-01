@@ -14,6 +14,9 @@
 
 (6) A kijelölt tanúsító szervezet köteles az ellenőrző szervvel az ellenőrzés végrehajtása érdekében együttműködni.
 
-(7) Az ellenőrző szerv (1)–(6) bekezdéseiben rögzített ellenőrzési tevékenysége nem érinti a NAT ellenőrzési jogosultságait szabályozó jogszabályi előírásokat. A kijelölő köteles figyelembe venni a NAT által lefolytatott éves felügyeleti vizsgálat eredményét, amelyről a NAT a jogerőre emelkedést követő 8 napon belül tájékoztatja a kijelölőt.
+(7)[^5] Az ellenőrző szerv (1)–(6) bekezdéseiben rögzített ellenőrzési tevékenysége nem érinti az akkreditáló szerv ellenőrzési jogosultságait szabályozó jogszabályi előírásokat. A kijelölő köteles figyelembe venni az akkreditáló szerv által lefolytatott éves felügyeleti vizsgálat eredményét, amelyről az akkreditáló szerv a jogerőre emelkedést követő 8 napon belül tájékoztatja a kijelölőt.
 
-(8) A NAT a kijelölt tanúsító szervezetek akkreditált státuszának felfüggesztéséről, illetve visszavonásáról 8 napon belül tájékoztatja a kijelölőt.
+(8)[^6] Az akkreditáló szerv a kijelölt tanúsító szervezetek akkreditált státuszának felfüggesztéséről, illetve visszavonásáról 8 napon belül tájékoztatja a kijelölőt.
+
+[^5]: A 14. § (7) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^6]: A 14. § (8) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

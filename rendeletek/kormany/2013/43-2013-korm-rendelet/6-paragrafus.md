@@ -16,8 +16,10 @@ e) a kérelmező képviselőjének nyilatkozatát arra vonatkozóan, hogy a kije
 
 (3) A kérelemhez csatolni kell:
 
-a) a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi LXXVIII. törvény 20. § (1) bekezdése alapján a kijelölési kérelem tárgya szerinti iratkezelési szoftver terméktanúsítási szakterületre kiállított érvényes akkreditálási okiratának másolatát,
+a)[^1] a kijelölési kérelem tárgya szerinti iratkezelési szoftver terméktanúsítási szakterületre kiállított érvényes akkreditálási okiratának másolatát,
 
 b) minőségirányítási kézikönyvet, ennek a kijelölés szakterületéhez kapcsolódó részét és a kijelölési kérelem tárgyát képező tevékenységre vonatkozó eljárási szabályzatok másolatát,
 
 c) a közfeladatot ellátó szervek iratkezelése tekintetében szerzett referenciák felsorolását.
+
+[^1]: A 6. § (3) bekezdés a) pontja a 425/2015. (XII. 23.) Korm. rendelet 6. §-a szerint módosított szöveg.
