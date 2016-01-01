@@ -334,7 +334,7 @@
 
 | 5. | Borjád | III. |
 
-| 6. | Bóly | II. |
+| 6. | Bóly | I. |
 
 | 7. | Dunaszekcső | I. |
 
@@ -850,7 +850,7 @@
 
 | 22. | Hetvehely | II. |
 
-| 23. | Hobol | III. |
+| 23. | Hobol | II. |
 
 | 24. | Horváthertelend | III. |
 
@@ -1090,7 +1090,7 @@
 
 | 12. | Kondoros | I. |
 
-| 13. | Körösladány | II. |
+| 13. | Körösladány | I. |
 
 | 14. | Körösújfalu | II. |
 
@@ -1554,7 +1554,7 @@
 
 | 86. | Szendrő | I. |
 
-| 87. | Szendrőlád | I. |
+| 87. | Szendrőlád | II. |
 
 | 88. | Szin | II. |
 
@@ -2280,7 +2280,7 @@
 
 | 41. | Nagyszentjános | II. |
 
-| 42. | Nyalka | III. |
+| 42. | Nyalka | II. |
 
 | 43. | Nyúl | II. |
 
@@ -2616,7 +2616,7 @@
 
 | 17. | Mikepércs | II. |
 
-| 18. | Monostorpályi | II. |
+| 18. | Monostorpályi | III. |
 
 | 19. | Nádudvar | I. |
 
@@ -3108,7 +3108,7 @@
 
 | 7. | Mezőhék | II. |
 
-| 8. | Mezőtúr | II. |
+| 8. | Mezőtúr | I. |
 
 | 9. | Nagyrév | II. |
 
@@ -3424,7 +3424,7 @@
 
 | 38. | Nézsa | III. |
 
-| 39. | Nógrád | II. |
+| 39. | Nógrád | III. |
 
 | 40. | Nógrádkövesd | III. |
 
@@ -3698,11 +3698,11 @@
 
 | 7. | Délegyháza | III. |
 
-| 8. | Diósd | III. |
+| 8. | Diósd | I. |
 
 | 9. | Dömsöd | III. |
 
-| 10. | Dunaharaszti | I. |
+| 10. | Dunaharaszti | II. |
 
 | 11. | Dunavarsány | III. |
 
@@ -3758,7 +3758,7 @@
 
 | 37. | Szigetszentmárton | II. |
 
-| 38. | Szigetszentmiklós | I. |
+| 38. | Szigetszentmiklós | II. |
 
 | 39. | Szigetújfalu | II. |
 
@@ -4738,7 +4738,7 @@
 
 | 15. | Kékcse | III. |
 
-| 16. | Kisvárda | I. |
+| 16. | Kisvárda | II. |
 
 | 17. | Komoró | II. |
 
@@ -5438,7 +5438,7 @@
 
 | 15. | Gór | II. |
 
-| 16. | Hegyfalu | II. |
+| 16. | Hegyfalu | I. |
 
 | 17. | Hosszúpereszteg | II. |
 
@@ -6218,7 +6218,7 @@
 
 | 45. | Zalaszántó | III. |
 
-| 46. | Zalaszentgrót | II. |
+| 46. | Zalaszentgrót | I. |
 
 | 47. | Zalaszentlászló | III. |
 

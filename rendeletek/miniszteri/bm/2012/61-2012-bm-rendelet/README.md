@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-61-20-0
 | 2014-10-12 | 2012-61-20-0A.4 | 87/2012. (XII. 29.) BM rendelet |
 | 2015-01-01 | 2012-61-20-0A.5 | 87/2012. (XII. 29.) BM rendelet |
 | 2015-03-14 | 2012-61-20-0A.6 | 87/2012. (XII. 29.) BM rendelet |
+| 2016-01-01 | 2012-61-20-0A.7 | 87/2012. (XII. 29.) BM rendelet |
