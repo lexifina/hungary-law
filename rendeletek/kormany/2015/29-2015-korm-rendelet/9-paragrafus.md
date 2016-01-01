@@ -1,4 +1,4 @@
-## 8/A. §[^2] A Kormány egészségügyi államigazgatási szervként az ENKK-t jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 14. § g) pontja szerinti egészségügyi igazgatási eljárási feladatok ellátására a hagyományos kínai gyógyászat engedélyezésével kapcsolatos tevékenység tekintetében.
+## 8/A. §[^3] A Kormány egészségügyi államigazgatási szervként az ENKK-t jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 14. § g) pontja szerinti egészségügyi igazgatási eljárási feladatok ellátására a hagyományos kínai gyógyászat engedélyezésével kapcsolatos tevékenység tekintetében.
 
 ## 9. § Az ENKK eljárásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható, kivéve
 
@@ -24,7 +24,7 @@ j) az orvostechnikai eszközök megfelelőségértékelésére való kijelölés
 
 k) az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással kapcsolatos eljárásokban hozott döntések esetében,
 
-l)[^3] az Eütv. 110. § (4a) bekezdése szerinti, a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység végzésére irányuló engedélyezési eljárásban.
+l)[^4] az Eütv. 110. § (4a) bekezdése szerinti, a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység végzésére irányuló engedélyezési eljárásban.
 
-[^2]: A 8/A. §-t a 272/2015. (IX. 18.) Korm. rendelet 2. §-a iktatta be.
-[^3]: A 9. § l) pontját a 192/2015. (VII. 21.) Korm. rendelet 58. §-a iktatta be.
+[^3]: A 8/A. §-t a 272/2015. (IX. 18.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 9. § l) pontját a 192/2015. (VII. 21.) Korm. rendelet 58. §-a iktatta be.
