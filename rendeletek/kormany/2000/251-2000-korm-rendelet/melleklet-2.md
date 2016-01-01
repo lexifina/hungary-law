@@ -1,10 +1,8 @@
 ## A befektetési vállalkozás a Tv. 1. számú melléklete szerinti mérleget a következő kiegészítéssel köteles elkészíteni:
 
-## a) ,,B) Forgóeszközök'' mérlegfőcsoport ,,II. Követelések'' mérlegcsoportjának tagolása a következő:
+## a) „B) Forgóeszközök” mérlegfőcsoport „II. Követelések” mérlegcsoportjának tagolása a következő:
 
-## ,,
-
-## II. Követelések
+## „II. Követelések
 
 ## 1. Vevőkövetelések
 
@@ -14,27 +12,25 @@
 
 ## 4. Követelések a tőzsdén kívül kötött ügyletek elszámolásaiból
 
-## 5. Elszámolóházzal és elszámolóházi tevékenységet végző szervezettel szembeni követelések
-
-## a) elszámolóházzal szembeni követelés
-
-## b)[^138] elszámolóházi tevékenységet végző szervezettel, központi szerződő féllel szembeni követelések
+## 5. Központi értéktárral, központi szerződő féllel szembeni követelések
 
 ## 6. Követelések kapcsolt vállalkozással szemben
 
-## 7. Követelések egyéb részesedési viszonyban lévő vállalkozással szemben
+## 7. Követelések jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
-## 8. Váltókövetelések
+## 8. Követelések egyéb részesedési viszonyban lévő vállalkozással szemben
 
-## 9. Egyéb követelések
+## 9. Váltókövetelések
 
-## 10. Követelések értékelési különbözete
+## 10. Egyéb követelések
 
-## 11. Származékos ügyletek pozitív értékelési különbözete
+## 11. Követelések értékelési különbözete
 
-## b) ,,B) Forgóeszközök'' mérlegfőcsoport ,,IV. Pénzeszközök'' mérlegcsoportjának tagolása a következő:
+## 12. Származékos ügyletek pozitív értékelési különbözete”
 
-## ,,IV. Pénzeszközök
+## b) „B) Forgóeszközök” mérlegfőcsoport „IV. Pénzeszközök” mérlegcsoportjának tagolása a következő:
+
+## „IV. Pénzeszközök
 
 ## 1. Pénztár, csekkek
 
@@ -42,15 +38,15 @@
 
 ## a) tőzsdeforgalmi számla
 
-## b) egyéb bankbetétek''
+## b) egyéb bankbetétek”
 
-## c) Az ,,A'' változatú mérleg ,,D) Saját tőke'', illetve a ,,B'' változatú mérleg ,,J) Saját tőke'' mérlegfőcsoportjának tagolása a következő:
+## c) Az „A” változatú mérleg „D) Saját tőke”, illetve a „B” változatú mérleg „J) Saját tőke” mérlegfőcsoportjának tagolása a következő:
 
-## ,,I. Jegyzett tőke
+## „I. Jegyzett tőke
 
 ## Ebből: visszavásárolt tulajdoni részesedés névértéken
 
-## II. Jegyzett, de még be nem fizetett tőke (–)
+## II. Jegyzett, de még be nem fizetett tőke (-)
 
 ## III. Tőketartalék
 
@@ -62,15 +58,17 @@
 
 ## 1. Értékhelyesbítés értékelési tartaléka
 
-## 2. Valós értékelés értékelési tartalék
+## 2. Valós értékelés értékelési tartaléka
 
 ## VII. Általános tartalék
 
-## VIII. Mérleg szerinti eredmény (υ)''
+## VIII. Tárgyévi eredmény (±)”
 
-## d) Az ,,A'' változatú mérleg ,,F) Kötelezettségek'' mérlegfőcsoport ,,III. Rövid lejáratú kötelezettségek'' mérlegcsoportjának, valamint a ,,B'' változatú mérleg ,,D) Egy éven belül esedékes kötelezettségek'' mérlegfőcsoportjának tagolása a következő:
+## d) Az „A” változatú mérleg „F) Kötelezettségek” mérlegfőcsoport „III. Rövid lejáratú kötelezettségek” mérlegcsoportjának, valamint a „B” változatú mérleg „D) Egy éven belül esedékes kötelezettségek” mérlegfőcsoportjának tagolása a következő:
 
-## 1. Rövid lejáratú kölcsönök
+## „1. Rövid lejáratú kölcsönök
+
+## – Ebből átváltoztatható vagy átváltozó kötvények
 
 ## 2. Rövid lejáratú hitelek
 
@@ -84,26 +82,22 @@
 
 ## 7. Kötelezettségek a tőzsdén kívüli ügyletek elszámolásaiból
 
-## 8. Elszámolóházzal és elszámolóházi tevékenységet végző szervezettel szembeni kötelezettségek
-
-## a) elszámolóházzal szembeni kötelezettség
-
-## b)[^139] elszámolóházi tevékenységet végző szervezettel, központi szerződő féllel szembeni kötelezettség
+## 8. Központi értéktárral, központi szerződő féllel szembeni kötelezettségek
 
 ## 9. Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben
 
-## 10. Rövid lejáratú kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+## 10. Rövid lejáratú kötelezettségek jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
-## 11. Váltótartozások
+## 11. Rövid lejáratú kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
 
-## 12. Egyéb rövid lejáratú kötelezettségek
+## 12. Váltótartozások
 
-## 13. Kötelezettségek értékelési különbözete
+## 13. Egyéb rövid lejáratú kötelezettségek
 
-## 14. Származékos ügyletek negatív értékelési különbözete
+## 14. Kötelezettségek értékelési különbözete
 
-2. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^140]
+## 15. Származékos ügyletek negatív értékelési különbözete
 
-[^138]: Az 1. számú melléklet a) pont 5. alpont b) sora az 518/2013. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
-[^139]: Az 1. számú melléklet d) pont 8. alpont b) sora az 518/2013. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
-[^140]: A 2. számú melléklet a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint kiegészített szöveg, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+2. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^155]
+
+[^155]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.

@@ -1,12 +1,10 @@
-## ,,F. Adózott eredmény (±E–XIV±XIV/A.)
+## „D. Adózott eredmény (±C-XII±XII/A.)
 
-## XV. Általános tartalék képzés, felhasználás (±)
+## XIII. Általános tartalékképzés, felhasználás (±)
 
-## F/1. Jóváhagyott osztalék, részesedés
+## E. Tárgyévi eredmény (±D±XIII.)”
 
-## G. mérleg szerinti eredmény (±F±XV–F/1.)''
-
-5. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^144]
+5. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^160]
 
 ## Egyes kintlévőségek, követelés fejében kapott készletek és mérlegen kívüli tételek értékelésének sajátos szabályai
 
@@ -228,4 +226,4 @@ d) a nyitott pozíció veszteségére a 8. § (2) bekezdése szerint képzett c�
 
 (15) Eszközeladásnál vagy halasztott fizetéssel eladott eszközök esetében a vevő által érvényesíthető visszkereseti jog miatt a visszkereseti jogból eredően fennálló függő kötelezettséget az értékelés során minősíteni kell, és indokolt esetben a Tv. 41. § (1) bekezdése szerinti céltartalékot kell utána képezni legkésőbb a mérlegfordulónapi értékelés során. A céltartalék képzésére legfeljebb az eladási ár mértékéig kerülhet sor. Ha a visszkereseti jog érvényesítéséről a vevő lemond, de az eszközértékesítéshez bármilyen mérlegbeli vagy mérlegen kívüli tételt keletkeztető kockázatvállalás tartozik (halasztott fizetés stb.), akkor az így keletkező tételt szintén értékelés alá kell vonni.
 
-[^144]: Az 5. számú mellékletet a 292/2001. (XII. 26.) Korm. rendelet 16. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 331/2008. (XII. 30.) Korm. rendelet 18. §-a iktatta be. Ez utóbbi módosító rendelet 39. §-a alapján a rendelkezést a befektetési vállalkozásoknak először a 2009. március 31-i minősítés során kell alkalmazniuk, azzal, hogy a számviteli politikát is legkésőbb eddig az időpontig kell e mellékletnek megfelelően átdolgozniuk.
+[^160]: Az 5. számú mellékletet a 292/2001. (XII. 26.) Korm. rendelet 16. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 331/2008. (XII. 30.) Korm. rendelet 18. §-a iktatta be. Ez utóbbi módosító rendelet 39. §-a alapján a rendelkezést a befektetési vállalkozásoknak először a 2009. március 31-i minősítés során kell alkalmazniuk, azzal, hogy a számviteli politikát is legkésőbb eddig az időpontig kell e mellékletnek megfelelően átdolgozniuk.

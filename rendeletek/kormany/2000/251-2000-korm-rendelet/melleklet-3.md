@@ -6,11 +6,13 @@
 
 ## c) Értékpapír forgalomba hozatal szervezési tevékenység bevételei
 
-## d) Letétkezelési, letéti őrzési, portfolió-kezelési tevékenység bevételei
+## d) Letétkezelési, letéti őrzési, portfólió-kezelési tevékenység bevételei
 
 ## e) Egyéb befektetési szolgáltatási tevékenység bevételei
 
 ## 01. Befektetési szolgáltatási tevékenység bevételei (a+b+c+d+e)
+
+## Ebből: értékelési különbözet
 
 ## f) Bizományosi tevékenység ráfordításai
 
@@ -18,17 +20,15 @@
 
 ## h) Értékpapír forgalomba hozatal szervezési tevékenység ráfordításai
 
-## i) Letétkezelési, letéti őrzési, portfolió-kezelési tevékenység ráfordításai
+## i) Letétkezelési, letéti őrzési, portfólió-kezelési tevékenység ráfordításai
 
 ## j) Egyéb befektetési szolgáltatási tevékenység ráfordításai
 
-## Ebből:
-
-## – értékelési különbözet
-
 ## 02. Befektetési szolgáltatási tevékenység ráfordításai (f+g+h+i+j)
 
-## I. Befektetési szolgáltatási tevékenység eredménye (01–02)
+## Ebből: értékelési különbözet
+
+## I. Befektetési szolgáltatási tevékenység eredménye (01-02)
 
 ## II. Egyéb bevételek
 
@@ -39,10 +39,6 @@
 ## IV. Aktivált saját teljesítmények értéke
 
 ## V. Anyagjellegű ráfordítások
-
-## Ebből:
-
-## – értékelési különbözet
 
 ## 03. Bérköltség
 
@@ -60,73 +56,63 @@
 
 ## IX. Nem befektetési szolgáltatási tevékenység ráfordításai
 
-## A. Üzleti tevékenység eredménye (±I+II+III±IV–V–VI–VII–VIII–IX)
+## A. Üzleti tevékenység eredménye
+
+## (±I+II+III±IV-V-VI-VII-VIII-IX)
 
 ## 06. Kapott (járó) osztalék és részesedés
 
 ## Ebből: kapcsolt vállalkozástól kapott
 
-## 07. Részesedések értékesítésének árfolyamnyeresége
+## 07. Részesedésekből származó bevételek, árfolyamnyereségek
 
 ## Ebből: kapcsolt vállalkozástól kapott
 
-## 08. Befektetett eszközöknek minősülő hitelviszonyt megtestesítő értékpapírok árfolyamnyeresége
+## 08. Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó bevételek, árfolyamnyereségek
 
 ## Ebből: kapcsolt vállalkozástól kapott
 
-## 09. Kapott kamatok és kamatjellegű bevételek
+## 09. Egyéb kapott (járó) kamatok és kamatjellegű bevételek
 
 ## Ebből: kapcsolt vállalkozástól kapott
 
 ## 10. Pénzügyi műveletek egyéb bevételei
 
+## Ebből: értékelési különbözet
+
 ## X. Nem forgalmazási pénzügyi műveletek bevételei (06+07+08+09+10)
 
-## Ebből:
-
-## – értékelési különbözet
-
-## 11. Befektetett pénzügyi eszközök árfolyamvesztesége
+## 11. Részesedésekből származó ráfordítások, árfolyamveszteségek
 
 ## Ebből: kapcsolt vállalkozásnak adott
 
-## 12. Fizetett (fizetendő) kamatok és kamatjellegű kifizetések
+## 12. Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó ráfordítások, árfolyamveszteségek
 
 ## Ebből: kapcsolt vállalkozásnak adott
 
-## 13. Részesedések, értékpapírok, bankbetétek értékvesztése
+## 13. Fizetett (fizetendő) kamatok és kamatjellegű ráfordítások
 
-## 14. Pénzügyi műveletek egyéb ráfordításai
+## Ebből: kapcsolt vállalkozásnak adott
 
-## XI. Nem forgalmazási pénzügyi műveletek ráfordításai (11+12+13+14)
+## 14. Részesedések, értékpapírok, bankbetétek értékvesztése
 
-## B. Pénzügyi műveletek eredménye (X–XI)
+## 15. Pénzügyi műveletek egyéb ráfordításai
 
-## C. Szokásos vállalkozási eredmény (±A±B)
+## Ebből: értékelési különbözet
 
-## XII. Rendkívüli bevételek
+## XI. Nem forgalmazási pénzügyi műveletek ráfordításai (11+12+13+14+15)
 
-## XIII. Rendkívüli ráfordítások
+## B. Pénzügyi műveletek eredménye (X-XI)
 
-## D. Rendkívüli eredmény (XII–XIII)
+## C. Adózás előtti eredmény (±A±B)
 
-## E. Adózás előtti eredmény (±C±D)
+## XII. Adófizetési kötelezettség
 
-## XIV. Adófizetési kötelezettség
+## D. Adózott eredmény (±C-XII)
 
-## F. Adózott eredmény (±E–XIV)
+## XIII. Általános tartalékképzés, felhasználás (±)
 
-## XV.[^141] Általános tartalék felhasználás (+)
-
-## Ebből:
-
-## – értékelési különbözet
-
-## 15. Eredménytartalék igénybevétele osztalékra, részesedésre
-
-## 16. Jóváhagyott osztalék és részesedés
-
-## G. Mérleg szerinti eredmény (±F±XV+15–16)
+## E. Tárgyévi eredmény (±D±XIII)
 
 3. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez
 
@@ -140,7 +126,7 @@ Az anyavállalatnak minősülő befektetési vállalkozás összevont (konszolid
 
 ## – társult vállalkozásokból''
 
-2.[^142] A B/II. pont kiegészül az alábbi 12. sorral:
+2.[^156] A B/II. pont kiegészül az alábbi 12. sorral:
 
 ## ,,12. Konszolidációból adódó (számított) társasági adókövetelés''
 
@@ -160,8 +146,7 @@ Az anyavállalatnak minősülő befektetési vállalkozás összevont (konszolid
 
 ## ,,4. Tőkekonszolidációs különbözet leányvállalatokból''
 
-5.[^143] Az ,,A'' változatú mérleg F/III. pontja és a ,,B'' változatú mérleg D. pontja az alábbi 15. sorral egészül ki:
+5.[^157] Az ,,A'' változatú mérleg F/III. pontja és a ,,B'' változatú mérleg D. pontja az alábbi 15. sorral egészül ki:
 
-[^141]: A 2. számú melléklet XV. sora a 331/2008. (XII. 30.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^142]: A 3. számú melléklet 2. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^143]: A 3. számú melléklet 5. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^156]: A 3. számú melléklet 2. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^157]: A 3. számú melléklet 5. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.

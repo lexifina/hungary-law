@@ -20,11 +20,11 @@
 
 9.[^8] kamatarbitrázs ügylet: a Hitkr.-ben meghatározott fogalom;
 
-10.[^9] tőzsde, értékpapírkölcsön ügylet, másodlagos értékpapír, garanciaalap, elszámolóházi tevékenységet végző szervezet: a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) szerint meghatározott fogalom;
+10.[^9] tőzsde, értékpapírkölcsön ügylet, másodlagos értékpapír, garanciaalap, központi értéktár, központi szerződő fél, központi szerződő fél tevékenység: a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) szerint meghatározott fogalom;
 
 11.[^10] BUBOR: a Hitkr.-ben meghatározott fogalom.
 
-12.[^11] tőzsdeforgalmi számla: a szakosított hitelintézetként működő elszámolóháznál (a továbbiakban: elszámolóház) befektetési szolgáltatásokkal összefüggő fizetési forgalom lebonyolítása céljából nyitott pénzforgalmi számla;
+12.[^11] tőzsdeforgalmi számla: a szakosított hitelintézetként működő központi értéktárnál, központi szerződő félnél befektetési szolgáltatásokkal összefüggő fizetési forgalom lebonyolítása céljából nyitott pénzforgalmi számla;
 
 13.[^12] általános tartalék: az adózott eredményből ilyen címen megképzett és még fel nem használt tartalék;
 
@@ -79,9 +79,9 @@
 [^6]: A 2. § 7. pontja az 518/2013. (XII. 30.) Korm. rendelet 42. § 2. pontja szerint módosított szöveg.
 [^7]: A 2. § 8. pontja az 518/2013. (XII. 30.) Korm. rendelet 42. § 2. pontja szerint módosított szöveg.
 [^8]: A 2. § 9. pontja az 518/2013. (XII. 30.) Korm. rendelet 42. § 2. pontja szerint módosított szöveg.
-[^9]: A 2. § 10. pontja a 331/2008. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^9]: A 2. § 10. pontja a 331/2008. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 77. § 1. pontja szerint módosított szöveg.
 [^10]: A 2. § 11. pontja az 518/2013. (XII. 30.) Korm. rendelet 42. § 2. pontja szerint módosított szöveg.
-[^11]: A 2. § 12. pontját a 292/2001. (XII. 26.) Korm. rendelet 2. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+[^11]: A 2. § 12. pontját a 292/2001. (XII. 26.) Korm. rendelet 2. §-ának (3) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 77. § 2. pontja szerint módosított szöveg.
 [^12]: A 2. § 13. pontját a 292/2001. (XII. 26.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 331/2008. (XII. 30.) Korm. rendelet 10. § (3) bekezdésével megállapított, az 518/2013. (XII. 30.) Korm. rendelet 43. § 1. pontja szerint módosított szöveg.
 [^13]: A 2. § 14. pontját a 292/2001. (XII. 26.) Korm. rendelet 2. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^14]: A 2. § 15. pontját a 241/2003. (XII. 17.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.

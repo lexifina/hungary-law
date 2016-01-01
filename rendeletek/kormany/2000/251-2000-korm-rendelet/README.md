@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-251-20-
 | 2014-01-01 | 2000-251-20-22.15 | 518/2013. (XII. 30.) Korm. rendelet |
 | 2014-03-15 | 2000-251-20-22.16 | 347/2004. (XII. 22.) Korm. rendelet |
 | 2014-09-05 | 2000-251-20-22.17 | 357/2006. (XII. 27.) Korm. rendelet |
+| 2016-01-01 | 2000-251-20-22.18 | 484/2015. (XII. 29.) Korm. rendelet |

@@ -26,8 +26,11 @@ Az anyavállalatnak minősülő befektetési vállalkozás összevont (konszolid
 
 ## 06/b. Kapott (járó) osztalék és részesedés egyéb részesedési viszonyban lévő vállalkozástól''
 
-5. A ,,XIV. Adófizetési kötelezettség'' sor az alábbi sorral egészül ki:
+5.[^158] A „XII. Adófizetési kötelezettség” sor az alábbi sorral egészül ki:
 
-## ,,XIV./A. Konszolidálásból adódó (számított) társasági adó-különbözet (±)''
+## „XII./A. Konszolidálásból adódó (számított) társasági adó-különbözet (±)”
 
-6. Az ,,F. Adózott eredmény'' és a ,,G. Mérleg szerinti eredmény'' sorok és a köztük lévő sorok a következők szerint változnak:
+6.[^159] A „D. Adózott eredmény” és az „E. Tárgyévi eredmény” sorok és a köztük lévő sorok a következők szerint változnak:
+
+[^158]: A 4. számú melléklet 5. pontja a 484/2015. (XII. 29.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^159]: A 4. számú melléklet 6. pontja a 484/2015. (XII. 29.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-6/F. §[^65] (1) A valós értéken történő értékelés szabályaira történő áttéréskor, az áttérés napjára (az áttérés üzleti évének első napjára) vonatkozóan nyitó rendező tételként kell elszámolni
+6/F. §[^68] (1) A valós értéken történő értékelés szabályaira történő áttéréskor, az áttérés napjára (az áttérés üzleti évének első napjára) vonatkozóan nyitó rendező tételként kell elszámolni
 
 a) a valós értéken történő értékelés alá tartozó kereskedési célú értékpapírok értékvesztésének megszüntetését – ha az nem tartozott a 6. § (2)–(6) bekezdése alá – a befektetési szolgáltatási tevékenység ráfordításainak csökkentéseként, a könyv szerinti érték áttérés napi piaci értékre történő átértékelését az eszközhöz rendelt értékelési különbözetben a befektetési szolgáltatások bevételeivel, illetve a befektetési szolgáltatási tevékenység ráfordításaival szemben;
 
@@ -10,7 +10,7 @@ d) a mérleg fordulónapjáig le nem zárt, az e) pontba nem tartozó származé
 
 e) a mérleg fordulónapján le nem zárt cash-flow fedezeti célú, valamint külföldi gazdálkodó szervezetben lévő nettó befektetés fedezete céljából kötött származékos ügyletekhez kapcsolódóan a várható eredmény összegében elszámolt aktív és passzív időbeli elhatárolások megszüntetését a pénzügyi műveletek egyéb bevételeivel és a pénzügyi műveletek egyéb ráfordításaival szemben, illetve az ügyletek átértékelését – a várható nyereségének vagy veszteségének elszámolását – a származékos ügyletekhez kapcsolódó pozitív vagy negatív értékelési különbözetben a valós értékelés értékelési tartalékával szemben.
 
-(2) A valós értéken történő értékelés szabályainak alkalmazásáról a bekerülési értéken történő értékelésre vonatkozó általános értékelési szabályokra való áttérés esetén a Tv. 59/F. §-ának (3) bekezdése szerint kell eljárni.[^66]
+(2) A valós értéken történő értékelés szabályainak alkalmazásáról a bekerülési értéken történő értékelésre vonatkozó általános értékelési szabályokra való áttérés esetén a Tv. 59/F. §-ának (3) bekezdése szerint kell eljárni.[^69]
 
-[^65]: A 6/F. §-t a 241/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-[^66]: Lásd a 241/2003. (XII. 17.) Korm. rendelet 10. §-át.
+[^68]: A 6/F. §-t a 241/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^69]: Lásd a 241/2003. (XII. 17.) Korm. rendelet 10. §-át.
