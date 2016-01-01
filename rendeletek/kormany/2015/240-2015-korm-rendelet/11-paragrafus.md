@@ -1,6 +1,6 @@
 ## 6. Az adósságrendezés iránti kérelem és mellékleteinek a Családi Csődvédelmi Szolgálat általi megvizsgálása
 
-11. § (1) Ha az adósnak nincs főhitelezője, és az Are. tv. 22. § (2) bekezdése szerint benyújtott kérelmét nem a lakóhelye szerinti CsSz területi szervénél nyújtja be, a területi szerv az adós értesítése mellett haladéktalanul intézkedik az ügy áttétele iránt az illetékes CsSz területi szervhez.
+11. § (1)[^6]
 
 (2) Az adósságrendezés iránti kérelem és mellékletei Are. tv. 22. § (3) bekezdés, és Are. tv. 23. § szerinti megvizsgálását a CsSz illetékes területi szerve végzi, és ő teljesíti az Are. tv. 23. § (2) bekezdése szerinti értesítést a főhitelező pénzügyi intézmény részére – postai úton és egyidejűleg faxon vagy elektronikus úton szkennelve is – továbbá postai úton az adósnak is megküldi a vizsgálatok lefolytatásáról szóló igazolást.
 
@@ -11,3 +11,5 @@
 (5) Ha a CsSz illetékes területi szervének az Are tv. 23. §-a szerinti vizsgálata – így különösen a KHR adatbetekintés vagy KHR adatszolgáltatás – azzal az eredménnyel jár, hogy az adós az adósságrendezési eljárás megindítása érdekében már korábban másik kezdeményezést is benyújtott, és az adósságrendezés kezdeményezésének joghatása beállt, a CsSz területi szerve az ezt igazoló okiratot az adósságrendezési eljárással összefüggő iratokkal együtt haladéktalanul továbbítja az illetékes bírósághoz.
 
 (6) A (4) és (5) bekezdés, továbbá az Are. tv. 25. § (1) bekezdése szerinti esetekben a környezettanulmány elkészítése iránt csak akkor kell intézkedni, ha a bíróság az adósságrendezési eljárás kezdeményezése iránti kérelmet nem utasította el vagy az eljárást megszüntette.
+
+[^6]: A 11. § (1) bekezdését a 471/2015. (XII. 29.) Korm. rendelet 6. §-a hatályon kívül helyezte.

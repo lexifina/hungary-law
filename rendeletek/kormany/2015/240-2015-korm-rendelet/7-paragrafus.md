@@ -1,5 +1,3 @@
-## 6. § Az adósságrendezéssel összefüggő, az Are. tv. 26. §-ában meghatározott kötelezettségeknek az adós, adóstárs általi megszegése esetén – az erre utaló tények, körülmények megjelölésével és a bizonyítékok csatolásával – a CsSz illetékes területi szervét kell írásban megkeresni. A bírósági eljárás kezdeményezése érdekében a CsSz területi szerve intézkedik.
-
 ## 2. Az adósságrendezési nyilvántartással összefüggő feladatok
 
 7. § (1) Az adósságrendezési nyilvántartásba (a továbbiakban: ARE nyilvántartás) történő bejegyzés és a bejegyzett adatok javítása, kiegészítése a CsSz illetékes területi szerve – bírósági adósságrendezési eljárás alatt a családi vagyonfelügyelő – feladata. Az ARE nyilvántartásba történő bejegyzéssel egyidejűleg szkennelt vagy digitalizált formában fel kell tölteni a bejegyzés alapjául szolgáló határozatot vagy más dokumentumot is az ARE nyilvántartás dokumentumtárába.
