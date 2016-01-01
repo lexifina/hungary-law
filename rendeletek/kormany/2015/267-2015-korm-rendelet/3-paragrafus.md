@@ -4,8 +4,8 @@
 
 (2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban a Ket. 45. § (2) és (3) bekezdése szerinti esetben az eljáró hatóságnak, illetve az érintett szakhatóságnak egy alkalommal kell egyeztetnie a szakhatósággal, azzal, hogy az egyeztetésre és az állásfoglalás kiadására legfeljebb nyolc nap áll rendelkezésre.
 
-(3) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban a hatóság vezetője indokolt esetben az ügyintézési határidőt legfeljebb egy alkalommal, legfeljebb nyolc nappal hosszabbíthatja meg.
-
-(4) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban közreműködő szakhatóság eljárására vonatkozó ügyintézési határidőt a szakhatóság vezetője indokolt esetben legfeljebb egy alkalommal, legfeljebb hat nappal hosszabbíthatja meg.
+(3)–(4)[^1]
 
 (5) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban hozott döntés fellebbezésre tekintet nélkül végrehajtható.
+
+[^1]: A 3. § (3)–(4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 261. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
