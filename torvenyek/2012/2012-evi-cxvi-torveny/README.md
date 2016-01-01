@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-116-00-00
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2012-116-00-00.7 |
 | 2014-07-15 | 2014. évi XXXIII. törvény | 2012-116-00-00.8 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2012-116-00-00.9 |
+| 2016-01-01 | 2015. évi CLXXVIII. törvény | 2012-116-00-00.10 |
