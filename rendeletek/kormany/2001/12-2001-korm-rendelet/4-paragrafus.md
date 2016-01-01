@@ -1,4 +1,4 @@
-## 4. §[^39] A közvetlen támogatás nyújtásának feltétele továbbá, hogy az igénylő(k) és az együtt költöző(k) a rendelkezésükre álló anyagi eszközöket az építési költség vagy a vételár kiegyenlítésére használják fel. Az igénylő(k) és az együtt költöző(k) rendelkezésére álló anyagi eszközként kell számításba venni a támogatás nyújtásáról szóló szerződés megkötését megelőző 5 éven belül értékesített lakásának, illetve tulajdoni hányadának az eladási árát is, amely csökkenthető:
+## 4. §[^41] A közvetlen támogatás nyújtásának feltétele továbbá, hogy az igénylő(k) és az együtt költöző(k) a rendelkezésükre álló anyagi eszközöket az építési költség vagy a vételár kiegyenlítésére használják fel. Az igénylő(k) és az együtt költöző(k) rendelkezésére álló anyagi eszközként kell számításba venni a támogatás nyújtásáról szóló szerződés megkötését megelőző 5 éven belül értékesített lakásának, illetve tulajdoni hányadának az eladási árát is, amely csökkenthető:
 
 a) az értékesített lakást terhelő és visszafizetett önkormányzati, munkáltatói támogatással,
 
@@ -6,12 +6,12 @@ b) a kiegyenlített lakáscélú hitelintézeti kölcsön összegével,
 
 c) a számlával igazolt ingatlan-közvetítői jutalék összegével,
 
-d)[^40] a támogatás nyújtásáról szóló szerződés megkötését megelőző 5 éven belül értékesített lakása, illetve tulajdoni hányada értékesítésével egyidejűleg vagy azt követően vásárolt és az építés helyszínéül szolgáló építési teleknek az általános forgalmi adó (a továbbiakban: áfa) összegével növelt vételárával,
+d)[^42] a támogatás nyújtásáról szóló szerződés megkötését megelőző 5 éven belül értékesített lakása, illetve tulajdoni hányada értékesítésével egyidejűleg vagy azt követően vásárolt és az építés helyszínéül szolgáló építési teleknek az általános forgalmi adó (a továbbiakban: áfa) összegével növelt vételárával,
 
-e)[^41] a támogatással vásárolni kívánt lakás telekárat is tartalmazó vételárának legfeljebb 10%-ával, ha ezen összeg kifizetése a korábbi lakás eladását bejegyző ingatlan-nyilvántartási eljárásban hozott határozat kiadásának időpontját legfeljebb 120 nappal előzi meg,
+e)[^43] a támogatással vásárolni kívánt lakás telekárat is tartalmazó vételárának legfeljebb 10%-ával, ha ezen összeg kifizetése a korábbi lakás eladását bejegyző ingatlan-nyilvántartási eljárásban hozott határozat kiadásának időpontját legfeljebb 120 nappal előzi meg,
 
 f) olyan számlával, szerződéssel igazoltan kifizetett összeggel, amelyet az igénylő az általa vásárolt, de meg nem valósult lakásszerzésre fizetett ki, ha az összeg az értékesítés céljára lakást építő gazdasági társaság bíróság által elrendelt felszámolásának teljes befejezését követően nem térült meg.
 
-[^39]: A 4. § a 391/2007. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
-[^40]: A 4. § d) pontja a 331/2014. (XII. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^41]: A 4. § e) pontja a 70/2015. (III. 30.) Korm. rendelet 48. § (9) bekezdés 2. pontja szerint módosított szöveg.
+[^41]: A 4. § a 391/2007. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
+[^42]: A 4. § d) pontja a 331/2014. (XII. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^43]: A 4. § e) pontja a 70/2015. (III. 30.) Korm. rendelet 48. § (9) bekezdés 2. pontja szerint módosított szöveg.
