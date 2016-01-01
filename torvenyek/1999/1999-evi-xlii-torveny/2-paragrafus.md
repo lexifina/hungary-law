@@ -32,11 +32,11 @@ feltéve, hogy a dohányzást az e törvényben foglalt más rendelkezés vagy t
 
 (4) A (2) bekezdés a) és b) pontjában foglaltakon túlmenően nyílt légtérben sem jelölhető ki dohányzóhely
 
-a) közoktatási intézményben,
+a) köznevelési intézményben,
 
 b) gyermekjóléti, gyermekvédelmi intézményben,
 
-c) az (5) bekezdésben foglalt kivétellel az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltatónál,.
+c)
 
 (5) A (7)–(9) bekezdésben foglaltak szerint zárt légterű dohányzóhely is kijelölhető
 
@@ -57,6 +57,8 @@ eb) a tűzvédelmi szabályokkal, és
 ec) a folytatott tevékenység jellegével
 
 összeegyeztethető dohányzóhelyet nem, vagy csak az élet- és vagyonbiztonságot, valamint a nemzetgazdasági érdekeket jelentősen veszélyeztetve lehetne kijelölni.
+
+(5a) Az Eütv. 3. § f) pontja szerinti egészségügyi szolgáltatónál nyílt légtérben csak az egészségügyi szolgáltató területén belül, az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönülő, az útvonaltól legalább 10 méter távolságon kívül lehet dohányzóhelyet kialakítani.
 
 (6) A kijelölt dohányzóhelyek e törvényben előírt rendelkezéseknek való megfelelőségét az egészségügyi államigazgatási szerv, tűzvédelmi szempontoknak való megfelelőségét a tűzvédelmi hatóság ellenőrzi.
 

@@ -32,4 +32,4 @@ bb) legalább 1 000 000, legfeljebb 2 500 000 Ft az intézmény, szervezet, üze
 
 (12) Az egészségvédelmi bírság kiszabása nem érinti a jogsértésnek megfelelő, külön jogszabály szerinti jogkövetkezmények alkalmazhatóságát.
 
-(13) A közoktatási intézménynek az e törvény szerint elrendelt dohányzási tilalmat – a tanulói jogviszonyból származó kötelezettség teljesítése, vagy az azzal összefüggő bármely tevékenység során, a közoktatási intézmény, vagy annak feladatkörében működő más intézmény területén – megsértő, 14. életévét betöltött tanulójával szemben a 3. § (1) bekezdése szerinti személy kezdeményezi a külön jogszabály szerinti fegyelmi eljárás lefolytatását.
+(13) A köznevelési intézménynek az e törvény szerint elrendelt dohányzási tilalmat – a tanulói jogviszonyból származó kötelezettség teljesítése, vagy az azzal összefüggő bármely tevékenység során, a köznevelési intézmény, vagy annak feladatkörében működő más intézmény területén – megsértő, 14. életévét betöltött tanulójával szemben a 3. § (1) bekezdése szerinti személy kezdeményezi a külön jogszabály szerinti fegyelmi eljárás lefolytatását.

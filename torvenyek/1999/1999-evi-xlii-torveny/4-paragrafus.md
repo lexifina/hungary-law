@@ -10,6 +10,6 @@
 
 (7)
 
-(8) A 2. § (4) bekezdés c) pontjában foglaltaktól eltérően, olyan többcélú intézmény esetében, amelyben vagy amelynek területén egészségügyi szolgáltatást is nyújtanak, az (1) bekezdés megfelelően alkalmazandó, azzal, hogy dohányzóhely nyílt légtérben is csak úgy jelölhető ki, ha az az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönül.
+(8) Olyan többcélú intézmény esetében, amelyben vagy amelynek területén egészségügyi szolgáltatást is nyújtanak, az (1) bekezdés megfelelően alkalmazandó, azzal, hogy dohányzóhely nyílt légtérben is csak úgy jelölhető ki, ha az az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától legalább 10 méterre elkülönül. Az (1) bekezdésben foglaltaktól eltérően ezekben az intézményekben dohányzóhely a közforgalom számára nyitva álló bejárattól számított 10 méteres távolságon belül nem jelölhető ki.
 
-(9) Az (1)–(8) bekezdésben, valamint a 4/A. §-ban meghatározott feltételek biztosításáról a közforgalmú intézmény belső szabályzatában meghatározott személy, ennek hiányában az intézmény vezetője, üzemeltetője, a rendezvény szervezője, a közösségi közlekedési eszköz üzembentartója, a közoktatási intézmény vezetője, illetőleg a munkáltató gondoskodik.
+(9) Az (1)–(8) bekezdésben, valamint a 4/A. §-ban meghatározott feltételek biztosításáról a közforgalmú intézmény belső szabályzatában meghatározott személy, ennek hiányában az intézmény vezetője, üzemeltetője, a rendezvény szervezője, a közösségi közlekedési eszköz üzembentartója, a köznevelési intézmény vezetője, illetőleg a munkáltató gondoskodik.
