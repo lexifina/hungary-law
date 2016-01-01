@@ -1,4 +1,4 @@
-## 1/A. §[^1] Az e rendeletben nem szabályozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok, valamint a 984/2013/EU bizottsági rendelet alapján kell értelmezni.
+## 1/A. §[^1]
 
 ## II. Fejezet
 
@@ -112,21 +112,21 @@ vc) gázéven belüli havi kapacitás-lekötés esetében a teljes naptári hón
 
 vd) a gázéven belüli napi kapacitás-lekötés esetében a teljes gáznapból álló időszak,
 
-ve) napon belüli kapacitás-lekötés esetében a napi kapacitással arányos, a gáznap végéig hátralévő időszak,
+ve)[^28] napon belüli kapacitás-lekötés esetében a gáznap végéig hátralévő időszak,
 
 w) tárolási év: adott naptári év április 1-jétől a következő naptári év március 31-éig tartó időszak,
 
-x)[^28] tárolói kapacitásdíj: az az éves díj, amelyet a rendszerhasználó által szerződésesen lekötött mobilkapacitás (kWh) alapján kell fizetni,
+x)[^29] tárolói kapacitásdíj: az az éves díj, amelyet a rendszerhasználó által szerződésesen lekötött mobilkapacitás (kWh) alapján kell fizetni,
 
 y) fizikai áramlással ellentétes irányú (Backhaul) kapacitás: a földgáz olyan, nem fizikai szállítását lehetővé tevő kapacitás, amely segítségével a fizikai áramlással ellentétes irányú szállítási feladatot a rendszerüzemeltető a fizikai áramlás irányú szállítási feladatból történő nettósítással teljesít,
 
-z)[^29] téli fogyasztási időszak: az adott naptári év október 1-jétől a következő naptári év március 31-éig terjedő időszak,
+z)[^30] téli fogyasztási időszak: az adott naptári év október 1-jétől a következő naptári év március 31-éig terjedő időszak,
 
-zs)[^30] utólagos kapacitásdíj: az a díj, amelyet a 9. § (4) bekezdés a)–c) és e) pontjában, a 10. § (6) bekezdésében, illetve a 24. § (6) bekezdés a)–d) pontjában meghatározott díjfizetésre kötelezett az adott hónapban –12,0 °C-nál hidegebb középhőmérsékletű gáznapon jogosulatlanul igénybe vett legnagyobb – az adott hónapban –12,0 °C, vagy annál melegebb középhőmérsékletű gáznapon a kapacitástúllépési pótdíj fizetés alapjául szolgáló többletteljesítménnyel csökkentett – többletkapacitás után fizet, és melynek mértéke megegyezik az adott árszabás szerinti szállítási, illetve elosztási kapacitásdíjakkal.
+zs)[^31] utólagos kapacitásdíj: az a díj, amelyet a 9. § (4) bekezdés a)–c) és e) pontjában, a 10. § (6) bekezdésében, illetve a 24. § (6) bekezdés a)–d) pontjában meghatározott díjfizetésre kötelezett az adott hónapban –12,0 °C-nál hidegebb középhőmérsékletű gáznapon jogosulatlanul igénybe vett legnagyobb – az adott hónapban –12,0 °C, vagy annál melegebb középhőmérsékletű gáznapon a kapacitástúllépési pótdíj fizetés alapjául szolgáló többletteljesítménnyel csökkentett – többletkapacitás után fizet, és melynek mértéke megegyezik az adott árszabás szerinti szállítási, illetve elosztási kapacitásdíjakkal.
 
-(2) Az e rendeletben meg nem határozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok szerint kell értelmezni.
+(2)[^32] Az e rendeletben meg nem határozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok, valamint a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 715/2009/EK európai parlamenti és tanácsi rendelet kiegészítéséről szóló 984/2013/EU bizottsági rendelet (a továbbiakban: 984/2013/EU bizottsági rendelet) szerint kell értelmezni.
 
-[^1]: Az 1/A. §-t a 6/2013. (XII. 16.) MEKH rendelet 1. §-a iktatta be.
+[^1]: Az 1/A. §-t a 6/2013. (XII. 16.) MEKH rendelet 1. §-a iktatta be, hatályon kívül helyezte a 13/2015. (XII. 11.) MEKH rendelet 12. §-a.
 [^2]: A 2. § (1) bekezdés a) pont aa) alpont aaa) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdés a) pont aa) alpont aac) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés a) pont aa) alpont aad) alpontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
@@ -153,6 +153,8 @@ zs)[^30] utólagos kapacitásdíj: az a díj, amelyet a 9. § (4) bekezdés a)�
 [^25]: A 2. § (1) bekezdés t) pontja a 12/2014. (XII. 13.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 15. §-ával elrendelt módosítás, amely szerint a „MJ” szövegrész helyébe a „kWh” szöveg lép, nem vezethető át.]
 [^26]: A 2. § (1) bekezdés u) pontja a 12/2014. (XII. 13.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^27]: A 2. § (1) bekezdés v) pontja a 2/2015. (IV. 14.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^28]: A 2. § (1) bekezdés x) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (10) bekezdésével megállapított, a 12/2014. (XII. 13.) MEKH rendelet 15. §-a szerint módosított szöveg.
-[^29]: A 2. § (1) bekezdés z) pontja a 3/2015. (VI. 12.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^30]: A 2. § (1) bekezdés zs) pontja a 6/2015. (IX. 14.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^28]: A 2. § (1) bekezdés v) pont ve) alpontja a 13/2015. (XII. 11.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^29]: A 2. § (1) bekezdés x) pontja a 6/2013. (XII. 16.) MEKH rendelet 2. § (10) bekezdésével megállapított, a 12/2014. (XII. 13.) MEKH rendelet 15. §-a szerint módosított szöveg.
+[^30]: A 2. § (1) bekezdés z) pontja a 3/2015. (VI. 12.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^31]: A 2. § (1) bekezdés zs) pontja a 6/2015. (IX. 14.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^32]: A 2. § (2) bekezdése a 13/2015. (XII. 11.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.

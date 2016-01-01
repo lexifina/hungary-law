@@ -226,6 +226,6 @@
 
 ## K: a rendszerhasználó kitárolási kapacitás lekötése (kWh/nap)
 
-3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^177]
+3. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^200]
 
-[^177]: A 3. melléklet a 6/2015. (IX. 14.) MEKH rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^200]: A 3. melléklet a 6/2015. (IX. 14.) MEKH rendelet 22. § (2) bekezdésével megállapított szöveg.

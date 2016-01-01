@@ -52,7 +52,7 @@
 
 ## KENERGIA = 3,2493
 
-10. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^183]
+10. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^206]
 
 Téli fogyasztási időszakon kívüli kapacitás igazolásához szükséges adatszolgáltatás
 
@@ -96,4 +96,4 @@ Szürke cella nem kitöltendő
 
 ***** Tájékoztató jellegű felsorolás (egy cellában felsorolva)
 
-[^183]: A 10. mellékletet a 3/2015. (VI. 12.) MEKH rendelet 12. § (7) bekezdése iktatta be.
+[^206]: A 10. mellékletet a 3/2015. (VI. 12.) MEKH rendelet 12. § (7) bekezdése iktatta be.

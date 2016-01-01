@@ -1,4 +1,4 @@
-## 13. §[^70] A szerződési időszakra lekötött éves kapacitás esetén a 2. melléklet II. pontja szerinti szállítási kapacitásdíjat kell megfizetni.
+## 13. §[^78] A szerződési időszakra lekötött éves kapacitás esetén a 2. melléklet II. pontja szerinti szállítási kapacitásdíjat kell megfizetni.
 
 13/A. § (1) A Hivatal által kiadott, 6/B. § (2) bekezdése szerinti igazolással rendelkező rendszerhasználó jogosult – legfeljebb az abban szereplő kapacitás mértékéig az ÜKSZ-ben rögzített eljárásrend szerint – a nem téli fogyasztási időszakban kapacitást lekötni. A 6/B. § (2) bekezdése szerinti igazolással rendelkező rendszerhasználó a 6/B. § (1) bekezdése szerinti átadási-átvételi pontokon a téli fogyasztási időszakra lekötött kapacitások alapján megfizetett – a 2. melléklet II. pontja szerinti – szállítási kapacitásdíjon felül a nem téli fogyasztási időszakra lekötött kapacitások és a téli fogyasztási időszakra lekötött éves kapacitások pozitív különbözetére a 2. melléklet II. pontja szerinti éves szállítási kapacitásdíj 5%-át köteles megfizetni.
 
@@ -10,6 +10,7 @@
 
 (5) Az átadási-átvételi pontonként lekötött legnagyobb órai kapacitások bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
 
-(6) A rendszerhasználó kérésére a szállítási rendszerüzemeltető köteles a jegyzőkönyvben szereplő égéshőt és tájékoztató jelleggel a fűtőértéket díjmentesen, műbizonylattal alátámasztani.
+(6)[^79] A rendszerhasználó kérésére a szállítási rendszerüzemeltető köteles díjmentesen a fűtőértéket közölni és a jegyzőkönyvben szereplő égéshőt díjmentesen, műbizonylattal alátámasztani.
 
-[^70]: [A 13. § (5) bekezdését a 3/2015. (VI. 12.) MEKH rendelet 13. §-a hatályon kívül helyezi, a módosítás nem vezethető át.]
+[^78]: [A 13. § (5) bekezdését a 3/2015. (VI. 12.) MEKH rendelet 13. §-a hatályon kívül helyezi, a módosítás nem vezethető át.]
+[^79]: A 13/A. § (6) bekezdése a 13/2015. (XII. 11.) MEKH rendelet 6. §-ával megállapított szöveg.

@@ -2,9 +2,9 @@
 
 37. § (1) A közvilágítási célú fogyasztás elszámolása esetén a közterületeket megvilágító berendezések karbantartási és fenntartási költségeinek – beleértve a világítótestek pótlásának és cseréjének a költségeit is – megfizetése tekintetében az érintett szerződő felek külön megállapodása az irányadó.
 
-(2)[^117] Az elosztóvezetékre csatlakozó felhasználók esetében a földgázelosztó által rendszeres időközönként leolvasott – ennek hiányában jogszabály vagy az üzletszabályzatok szerint meghatározott – földgáz mennyisége jelenti az elosztási forgalmi díj fizetésének az alapját.
+(2)[^138] Az elosztóvezetékre csatlakozó felhasználók esetében a földgázelosztó által rendszeres időközönként leolvasott – ennek hiányában jogszabály vagy az üzletszabályzatok szerint meghatározott – földgáz mennyisége jelenti az elosztási forgalmi díj fizetésének az alapját.
 
-(3)[^118] Áramlástanilag azonos elosztóvezetéken lévő átadóállomásokra a rendszerhasználó az átadási-átvételi pontok kapacitás-lekötéseinek összevonásában megállapodhat a földgázelosztóval.
+(3)[^139] Áramlástanilag azonos elosztóvezetéken lévő átadóállomásokra a rendszerhasználó az átadási-átvételi pontok kapacitás-lekötéseinek összevonásában megállapodhat a földgázelosztóval.
 
-[^117]: A 37. § (2) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § m) pontja szerint módosított szöveg.
-[^118]: A 37. § (3) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § q) pontja szerint módosított szöveg.
+[^138]: A 37. § (2) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § m) pontja szerint módosított szöveg.
+[^139]: A 37. § (3) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § q) pontja szerint módosított szöveg.
