@@ -1,11 +1,11 @@
-## 11. §[^11] A praxisjogot elidegenítő háziorvos, illetve tartósan betöltetlen körzet esetén a helyettesítő gondoskodik a szakmai feladatok, valamint – az egészségügyi és hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvénynek megfelelően – a bejelentkezett betegek dokumentációjának és nyilvántartásának a háziorvosi szolgáltatást nyújtó új háziorvos számára történő átadásáról. A 7. § (1) bekezdése szerinti esetekben az egészségügyi dokumentációt az adott körzetre vonatkozóan működési engedéllyel rendelkező egészségügyi szolgáltató részére kell átadni.
+## 11. §[^12] A praxisjogot elidegenítő háziorvos, illetve tartósan betöltetlen körzet esetén a helyettesítő gondoskodik a szakmai feladatok, valamint – az egészségügyi és hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvénynek megfelelően – a bejelentkezett betegek dokumentációjának és nyilvántartásának a háziorvosi szolgáltatást nyújtó új háziorvos számára történő átadásáról. A 7. § (1) bekezdése szerinti esetekben az egészségügyi dokumentációt az adott körzetre vonatkozóan működési engedéllyel rendelkező egészségügyi szolgáltató részére kell átadni.
 
 ## 4. Praxiskezelő, a praxisjog elidegenítése
 
-12. § (1)[^12] A Kormány praxiskezelőként az OTH-t jelöli ki.
+12. § (1)[^13] A Kormány praxiskezelőként az OTH-t jelöli ki.
 
-(2)[^13] A praxiskezelő az Öotv. 2/C. § b) pontja szerinti feladatkörében nyilvántartja az eladott praxisjoggal érintett körzet ellátási területének megnevezését, kódját, típusát, valamint az átadás időpontját.
+(2)[^14] A praxiskezelő az Öotv. 2/C. § b) pontja szerinti feladatkörében nyilvántartja az eladott praxisjoggal érintett körzet ellátási területének megnevezését, kódját, típusát, valamint az átadás időpontját.
 
-[^11]: A 11. § a 137/2012. (VI. 29.) Korm. rendelet 78. §-a szerint módosított szöveg.
-[^12]: A 12. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
-[^13]: A 12. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^12]: A 11. § a 137/2012. (VI. 29.) Korm. rendelet 78. §-a szerint módosított szöveg.
+[^13]: A 12. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
+[^14]: A 12. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 46. §-ával megállapított szöveg.

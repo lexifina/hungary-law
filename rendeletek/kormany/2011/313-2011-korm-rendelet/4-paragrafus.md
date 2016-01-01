@@ -20,6 +20,9 @@ c) a praxisjog folytatása esetén a kérelmezőnek a folytatásra való jogosul
 
 (6)[^4] Ha a feladat-ellátási szerződést határozott időre kötötték, annak időtartamát a felek – a háziorvos erre irányuló szándéka esetén – meghosszabbítják, ha nem állnak fenn az Öotv. 2/B. § (3) bekezdésében foglalt okok.
 
+(7)[^5] A feladat-ellátási szerződést az 1. melléklet szerinti formanyomtatvány alapján kell megkötni.
+
 [^2]: A 4. § (4) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 75. §-a iktatta be.
 [^3]: A 4. § (5) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 75. §-a iktatta be.
 [^4]: A 4. § (6) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 75. §-a iktatta be.
+[^5]: A 4. § (7) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 32. §-a iktatta be.
