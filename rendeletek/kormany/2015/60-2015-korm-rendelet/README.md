@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-60-20-2
 | --- | --- | --- |
 | 2015-04-01 | 2015-60-20-22.1 | 60/2015. (III. 24.) Korm. rendelet |
 | 2015-04-02 | 2015-60-20-22.2 | 2010: CXXX. törvény |
+| 2016-01-01 | 2015-60-20-22.3 | 467/2015. (XII. 29.) Korm. rendelet |
