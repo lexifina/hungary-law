@@ -1,17 +1,19 @@
-17. § A nemzetközi fejlesztési együttműködéshez és humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában
+17. § (1) A nemzetközi fejlesztési együttműködéshez és humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában
 
-a)
+a) nem kell alkalmazni
 
-b) az államháztartásról szóló 2011. évi CXCV. törvény 50. § (5) bekezdését és 51. §-át,
+aa) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50/A. §-át és 52. §-át,
 
-c) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+ab) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 69. § (1) bekezdés f) pontját, ha a pályázó az általános forgalmi adóról szóló törvény alapján alanyi adómentes adóalanynak minősül,
 
-ca) 67. § (1) bekezdés f) pontját, ha a pályázó az általános forgalmi adóról szóló törvény alapján alanyi adómentes adóalanynak minősül,
+ac) külföldi kedvezményezett esetén az Áht. 50. § (1) bekezdés a) pontját, valamint 55. és 56. §-át,
 
-cb) 72. §-át és a 76. § (1) bekezdés f) pontját az előminősítő rendszerről szóló miniszteri rendelet alapján előminősített civil szervezetek esetében,
+b) az Ávr. 102/B. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a beszámolót a kedvezményezett bizonylatok helyett könyvvizsgálói jelentéssel is alátámaszthatja.
 
-cc) 73. § (3) bekezdését, 78. § (3) bekezdését és a 80. § (4) bekezdését
+(2) A humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában – az (1) bekezdésen túl – az Ávr.
 
-nem kell alkalmazni,
+a) 75. §-át és a 81. § e) pontját az előminősítő rendszerről szóló miniszteri rendelet alapján előminősített civil szervezetek esetében,
 
-cd) 88/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a beszámolót a kedvezményezett bizonylatok helyett könyvvizsgálói jelentéssel is alátámaszthatja.
+b) 76. § (2) bekezdését
+
+nem kell alkalmazni.
