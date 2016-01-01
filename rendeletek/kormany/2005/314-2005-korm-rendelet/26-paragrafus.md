@@ -1,6 +1,6 @@
 ## JOGKÖVETKEZMÉNYEK
 
-26. §[^189] (1) E rendeletben vagy hatósági határozatban foglalt határidőn túl jogerős egységes környezethasználati engedély nélkül folytatott tevékenység vagy egy részének gyakorlását a környezetvédelmi hatóság határozatában a környezetre gyakorolt hatás jelentőségétől függően
+26. §[^192] (1) E rendeletben vagy hatósági határozatban foglalt határidőn túl jogerős egységes környezethasználati engedély nélkül folytatott tevékenység vagy egy részének gyakorlását a környezetvédelmi hatóság határozatában a környezetre gyakorolt hatás jelentőségétől függően
 
 a) korlátozhatja,
 
@@ -10,13 +10,13 @@ c) megtilthatja.
 
 (2) Ha az 1. § (3) bekezdés a) pontjának hatálya alá tartozó tevékenységet környezetvédelmi engedély nélkül, valamint d) pontjának hatálya alá tartozó tevékenységet az előzetes vizsgálat lefolytatása nélkül, illetve az előzetes vizsgálatban hozott határozat alapján szükséges környezetvédelmi engedély nélkül kezdtek meg, akkor a környezetvédelmi hatóság a környezetre gyakorolt hatás jelentőségétől függően az (1) bekezdés szerinti jogkövetkezményeket alkalmazhatja.
 
-(3)[^190] Az (1) és (2) bekezdésben foglalt rendelkezéssel egyidejűleg a környezetvédelmi hatóság határozatában a tevékenység engedély, illetve előzetes vizsgálat nélküli folytatásának időtartamára a környezethasználót a tevékenység környezetre való veszélyességétől függően ötvenezer–százezer forint/nap összegű bírság megfizetésére kötelezi.
+(3)[^193] Az (1) és (2) bekezdésben foglalt rendelkezéssel egyidejűleg a környezetvédelmi hatóság határozatában a tevékenység engedély, illetve előzetes vizsgálat nélküli folytatásának időtartamára a környezethasználót a tevékenység környezetre való veszélyességétől függően ötvenezer–százezer forint/nap összegű bírság megfizetésére kötelezi.
 
-(4)[^191] A környezetvédelmi, illetve egységes környezethasználati engedély előírásaitól eltérően folytatott tevékenység esetén a környezetvédelmi hatóság határozatában kötelezi a környezethasználót kettőszázezer forinttól ötszázezer forintig terjedő bírság megfizetésére, az engedélyben rögzített feltételek betartására, valamint legfeljebb hat hónapos határidővel intézkedési terv készítésére, vagy a 20/A. § (8) bekezdés a) pontja esetén környezetvédelmi felülvizsgálat elvégzésére.
+(4)[^194] A környezetvédelmi, illetve egységes környezethasználati engedély előírásaitól eltérően folytatott tevékenység esetén a környezetvédelmi hatóság határozatában kötelezi a környezethasználót kettőszázezer forinttól ötszázezer forintig terjedő bírság megfizetésére, az engedélyben rögzített feltételek betartására, valamint legfeljebb hat hónapos határidővel intézkedési terv készítésére, vagy a 20/A. § (8) bekezdés a) pontja esetén környezetvédelmi felülvizsgálat elvégzésére.
 
-(5)[^192] Környezetveszélyeztetés vagy -szennyezés esetén az (1) bekezdés jogkövetkezményei alkalmazhatóak. Amennyiben a környezethasználó a határozatban foglaltaknak nem tesz eleget, a környezetvédelmi hatóság az (1) bekezdés jogkövetkezményeit alkalmazhatja, vagy a környezetvédelmi, illetve az egységes környezethasználati engedélyt visszavonhatja, és az üzemeltetőt a (3) bekezdésben foglalt mértékű bírság megfizetésére kötelezi.
+(5)[^195] Környezetveszélyeztetés vagy -szennyezés esetén az (1) bekezdés jogkövetkezményei alkalmazhatóak. Amennyiben a környezethasználó a határozatban foglaltaknak nem tesz eleget, a környezetvédelmi hatóság az (1) bekezdés jogkövetkezményeit alkalmazhatja, vagy a környezetvédelmi, illetve az egységes környezethasználati engedélyt visszavonhatja, és az üzemeltetőt a (3) bekezdésben foglalt mértékű bírság megfizetésére kötelezi.
 
-[^189]: A 26. § a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
-[^190]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § f) pontját.
-[^191]: A 26. § (4) bekezdése a 480/2013. (XII. 17.) Korm. rendelet 12. § f) pontja szerint módosított szöveg. Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § f) pontját.
-[^192]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § f) pontját.
+[^192]: A 26. § a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^193]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § f) pontját.
+[^194]: A 26. § (4) bekezdése a 480/2013. (XII. 17.) Korm. rendelet 12. § f) pontja szerint módosított szöveg. Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § f) pontját.
+[^195]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § f) pontját.

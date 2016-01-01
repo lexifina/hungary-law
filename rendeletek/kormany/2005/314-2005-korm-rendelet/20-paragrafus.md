@@ -1,4 +1,4 @@
-20. §[^139] (1) Ha a kérelem minősített adatot vagy üzleti titoknak minősülő adatot tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni.
+20. §[^140] (1) Ha a kérelem minősített adatot vagy üzleti titoknak minősülő adatot tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni.
 
 (2) A környezetvédelmi hatóság a szakhatóság megkeresése során a kérelmet és mellékleteit kizárólag elektronikus úton bocsátja a szakhatóság rendelkezésre, az elektronikus úton közzétett kérelem és mellékletei elérési helyének megadásával.
 
@@ -36,6 +36,7 @@ b) az érintett létesítmény műszaki jellemzői
 
 (14) Olyan tevékenységek esetében, amelyekre vonatkozóan törvény biztonsági elemzés, illetve jelentés elkészítését írja elő, a biztonsági elemzést, illetve a jelentést az engedélyezés során a környezetvédelmi hatóság figyelembe veszi.
 
-(15) Az egységes környezethasználati engedélyezési eljárás lefolytatásának határideje három hónap.
+(15)[^141]
 
-[^139]: A 20. § a 480/2013. (XII. 17.) Korm. rendelet 3. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^140]: A 20. § a 480/2013. (XII. 17.) Korm. rendelet 3. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^141]: A 20. § (15) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 63. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

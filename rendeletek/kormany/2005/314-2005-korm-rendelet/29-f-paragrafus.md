@@ -1,4 +1,4 @@
-## 29/E. §[^207] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 175/2012. (VII. 26.) Korm. rendelettel (a továbbiakban: Mkr7.) megállapított rendelkezéseit az Mkr7. hatálybalépésekor[^208] folyamatban lévő ügyekben (eljárásokban) is alkalmazni kell.
+## 29/E. §[^210] E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosításáról szóló 175/2012. (VII. 26.) Korm. rendelettel (a továbbiakban: Mkr7.) megállapított rendelkezéseit az Mkr7. hatálybalépésekor[^211] folyamatban lévő ügyekben (eljárásokban) is alkalmazni kell.
 
-[^207]: A 29/E. §-t a 175/2012. (VII. 26.) Korm. rendelet 1. §-a iktatta be.
-[^208]: A hatálybalépés napja 2012. július 27.
+[^210]: A 29/E. §-t a 175/2012. (VII. 26.) Korm. rendelet 1. §-a iktatta be.
+[^211]: A hatálybalépés napja 2012. július 27.

@@ -1,4 +1,4 @@
-20/A. §[^140] (1) Az egységes környezethasználati engedély meghatározott időre, de legalább tíz évre adható meg a (2) bekezdésben foglalt kivétellel.
+20/A. §[^142] (1) Az egységes környezethasználati engedély meghatározott időre, de legalább tíz évre adható meg a (2) bekezdésben foglalt kivétellel.
 
 (2) A környezetvédelmi hatóság az egységes környezethasználati engedélyt 5 évre adja ki,
 
@@ -14,9 +14,9 @@ e) új tevékenység első alkalommal történő engedélyezése esetén.
 
 (3) Az egységes környezethasználati engedélyben foglalt engedélyek időbeli hatályát az azokra vonatkozó külön jogszabályi előírások szerint kell megállapítani.
 
-(4) Az engedélyben foglalt követelményeket és előírásokat az Európai Bizottság adott tevékenységre vonatkozó elérhető legjobb technika-következtetésekről szóló határozatának kihirdetésétől számított négy éven belül, de legalább ötévente a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó szabályai szerint – az e rendeletben foglaltakra is figyelemmel – felül kell vizsgálni. A felülvizsgálat során a környezetvédelmi hatóság minden, monitoringból vagy ellenőrzésből származó információt, továbbá az engedély kiadása vagy legutolsó felülvizsgálata óta kihirdetett vonatkozó elérhető legjobb technika-következtetést felhasznál. A felülvizsgálat ügyintézési határideje két hónap.
+(4)[^143] Az engedélyben foglalt követelményeket és előírásokat az Európai Bizottság adott tevékenységre vonatkozó elérhető legjobb technika-következtetésekről szóló határozatának kihirdetésétől számított négy éven belül, de legalább ötévente a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó szabályai szerint – az e rendeletben foglaltakra is figyelemmel – felül kell vizsgálni. A felülvizsgálat során a környezetvédelmi hatóság minden, monitoringból vagy ellenőrzésből származó információt, továbbá az engedély kiadása vagy legutolsó felülvizsgálata óta kihirdetett vonatkozó elérhető legjobb technika-következtetést felhasznál.
 
-(5)[^141] A környezetvédelmi hatóság hat hónappal az egységes környezethasználati engedély időbeli hatályának lejártát megelőzően értesíti a környezethasználót a lejárat időpontjáról és a tevékenység továbbfolytatásának feltételeiről. Az értesítés elmaradása miatt a környezetvédelmi hatósággal szemben kárigény nem érvényesíthető, továbbá az nem mentesíti a környezethasználót a tevékenység folytatásához szükséges eljárás kellő időben történő kezdeményezése, valamint a tevékenység jogellenes folytatása miatti felelősség alól.
+(5)[^144] A környezetvédelmi hatóság hat hónappal az egységes környezethasználati engedély időbeli hatályának lejártát megelőzően értesíti a környezethasználót a lejárat időpontjáról és a tevékenység továbbfolytatásának feltételeiről. Az értesítés elmaradása miatt a környezetvédelmi hatósággal szemben kárigény nem érvényesíthető, továbbá az nem mentesíti a környezethasználót a tevékenység folytatásához szükséges eljárás kellő időben történő kezdeményezése, valamint a tevékenység jogellenes folytatása miatti felelősség alól.
 
 (6) Az engedély időbeli hatályának lejártakor, ha a környezethasználó a tevékenységet továbbra is folytatni kívánja, a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó rendelkezéseit kell alkalmazni az e rendeletben foglaltakra is figyelemmel.
 
@@ -48,5 +48,6 @@ b) az engedélyt visszavonja vagy a kérelmet elutasítja, és szükség esetén
 
 (13) Az egységes környezethasználati engedélyezési eljárásban, ha országhatáron átterjedő jelentős környezeti hatás feltételezhető, a 12. § (4) bekezdése, valamint a 13–15. § szerinti eljárást kell alkalmazni, ha nemzetközi szerződés ettől eltérően nem rendelkezik.
 
-[^140]: A 20/A. §-t a 480/2013. (XII. 17.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
-[^141]: A 20/A. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^142]: A 20/A. §-t a 480/2013. (XII. 17.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^143]: A 20/A. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 63. § b) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^144]: A 20/A. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés d) pontja szerint módosított szöveg.

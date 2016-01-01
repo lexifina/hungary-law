@@ -16,7 +16,7 @@ e) ha a tevékenység környezetvédelmi engedélyezését vagy egységes körny
 
 f) ha valamely Natura 2000 területre jelentős környezeti hatás várható, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló jogszabályban a hatásbecslési dokumentáció tartalmára vonatkozó előírások figyelembevételével ad véleményt a környezeti hatástanulmány, illetve az egységes környezethasználati engedély iránti kérelem tartalmi követelményeiről.
 
-(4) A környezetvédelmi hatóság véleményét a konzultációs kérelem benyújtásától számított 45 napon belül adja meg. E határidőbe az 5/A. § (2) bekezdés szerinti közigazgatási szervek észrevételezési határideje beszámít.
+(4)[^70] A környezetvédelmi hatóság véleményét a konzultációs kérelem benyújtásától számított 30 napon belül adja meg. E határidőbe az 5/A. § (2) bekezdés szerinti közigazgatási szervek észrevételezési határideje beszámít.
 
 (5) A tartalmi követelmények meghatározásakor a környezetvédelmi hatóság figyelembe veszi, hogy melyek azok az információk, amelyek megfelelnek a tervezés adott szakaszának, a tevékenység és a várhatóan hatásviselő környezeti elemek, rendszerek jellegének, valamint amelyek ésszerűen megkövetelhetők a konzultáció időpontjában fennálló ismeretek és vizsgálati módszerek alapján.
 
@@ -28,3 +28,4 @@ f) ha valamely Natura 2000 területre jelentős környezeti hatás várható, az
 
 [^68]: Az 5/B. §-t a 151/2009. (VII. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
 [^69]: Az 5/B. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^70]: Az 5/B. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 62. §-a szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
