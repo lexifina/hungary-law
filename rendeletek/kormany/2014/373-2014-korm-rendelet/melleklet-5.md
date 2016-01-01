@@ -26,7 +26,7 @@
 
 | 3. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – helyi jelentőségű védett természeti terület, természetvédelmi terület, természeti emlék jogi jelleg ténye van feljegyezve. | Annak elbírálása, hogy a telekalakítás a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban a főjegyző | – |
 
-| 4. | Életvédelmi rendeltetésű építmény, óvóhely telkének kialakítása esetén. | A jogszabályban előírt polgári védelmi követelmények érvényre juttatása. | a telekalakítás helye szerint illetékes katasztrófavédelmi kirendeltség | Katasztrófavédelmi Igazgatóság |
+| 4. |  |  |  |  |
 
 | 5. | Ha a telekalakításra a vasúti pálya szélső vágányának tengelyétől számított 50 méteren belüli sávban kerül sor. | Annak elbírálása, hogy a telekalakítás – a vasút állagára, a vasúti forgalom biztonságára, a vasúti pályahálózat működtetője fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
@@ -34,6 +34,6 @@
 
 | 7. | A víziutak medrét és a kikötők, átkelők, vízpartok és vízterületek telkét érintő telekalakítás esetén. | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú vízi közlekedést, illetve hajózási létesítmények működését. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-5. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^246]
+5. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^250]
 
-[^246]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 260. § (23) bekezdése iktatta be.
+[^250]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 260. § (23) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-42. § (1)[^91] Az ingatlan fekvése szerint illetékes kormányhivatal hatósági jogkörébe a következő földmérési és térképészeti feladatok tartoznak:
+42. § (1)[^95] Az ingatlan fekvése szerint illetékes kormányhivatal hatósági jogkörébe a következő földmérési és térképészeti feladatok tartoznak:
 
 a) az alapponthálózati pontok vonatkozásában:
 
@@ -24,7 +24,7 @@ b) ellátja az állami földmérési térképi adatbázisból, valamint az álla
 
 c) ellátja a földmérési és térképészeti szakfelügyeletet;
 
-d)[^92] ellátja az állami alapmunkákkal kapcsolatban a kormányhivatalra háruló hatósági feladatokat;
+d)[^96] ellátja az állami alapmunkákkal kapcsolatban a kormányhivatalra háruló hatósági feladatokat;
 
 e) ellátja a közigazgatási határok központi nyilvántartásával kapcsolatos, rá háruló feladatokat;
 
@@ -32,24 +32,24 @@ f) vezeti a jogszabályokban meghatározott nyilvántartásokat;
 
 g) megindítja a bírságolási eljárást az állami alapadat-adatbázisokat jogosulatlanul felhasználóval, valamint a jogosulatlan földmérési munkavégzővel szemben;
 
-h)[^93] ellátja az illetékességi területéhez tartozó járási hivatalok földmérési és térképészeti tevékenysége tekintetében a Ksztv. 2. § (1) bekezdés e), g) és h) pontja szerint hatásköröket, továbbá a Ksztv. 2. § (1) bekezdés c) pontja szerinti törvényességi ellenőrzést;
+h)[^97] ellátja az illetékességi területéhez tartozó járási hivatalok földmérési és térképészeti tevékenysége tekintetében a Ksztv. 2. § (1) bekezdés e), g) és h) pontja szerint hatásköröket, továbbá a Ksztv. 2. § (1) bekezdés c) pontja szerinti törvényességi ellenőrzést;
 
 i) létesíti és működteti az illetékességi területére vonatkozó adat- és térképtárat;
 
 j) adatot szolgáltat a FÖMI részére a közigazgatási és fekvéshatárok adatbázisához.
 
-(2)[^94] A kormányhivatal lefolytatja a másodfokú eljárást a járási hivatal hatáskörébe tartozó földmérési és térképészeti ügyekben.
+(2)[^98] A kormányhivatal lefolytatja a másodfokú eljárást a járási hivatal hatáskörébe tartozó földmérési és térképészeti ügyekben.
 
-(3)[^95] A kormányhivatal illetékességi területén szakfelügyeleti jogkörében ellenőrzi az állami alapadatok adatbázisainak jogszerű felhasználását.
+(3)[^99] A kormányhivatal illetékességi területén szakfelügyeleti jogkörében ellenőrzi az állami alapadatok adatbázisainak jogszerű felhasználását.
 
-(4)[^96] A kormányhivatal a bejelentésre kötelezett földmérési munkákról nyilvántartást vezet.
+(4)[^100] A kormányhivatal a bejelentésre kötelezett földmérési munkákról nyilvántartást vezet.
 
-(5)[^97] A kormányhivatal az illetékességi területén kiszabott bírság befizetésében jelentkező hátralék összegéről és a befizetett bírságok továbbutalásáról a rendelkezésre álló adatok alapján félévente, július 10. napjáig, illetve január 10. napjáig tájékoztatja a térképészetért felelős minisztert.
+(5)[^101] A kormányhivatal az illetékességi területén kiszabott bírság befizetésében jelentkező hátralék összegéről és a befizetett bírságok továbbutalásáról a rendelkezésre álló adatok alapján félévente, július 10. napjáig, illetve január 10. napjáig tájékoztatja a térképészetért felelős minisztert.
 
-[^91]: A 42. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
-[^92]: A 42. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 24. pontja szerint módosított szöveg.
-[^93]: A 42. § (1) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 25. pontja szerint módosított szöveg.
-[^94]: A 42. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. és 10. pontja szerint módosított szöveg.
-[^95]: A 42. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
-[^96]: A 42. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
-[^97]: A 42. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
+[^95]: A 42. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
+[^96]: A 42. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 24. pontja szerint módosított szöveg.
+[^97]: A 42. § (1) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 25. pontja szerint módosított szöveg.
+[^98]: A 42. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. és 10. pontja szerint módosított szöveg.
+[^99]: A 42. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
+[^100]: A 42. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
+[^101]: A 42. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 26/B. §[^56] Ha a termőföld újrahasznosítási eljárásban, a termőföld végleges más célú hasznosítására vonatkozó engedélyezési eljárásban, a termőföld időleges más célú hasznosítására vonatkozó engedélyezési eljárásában vagy a termőföld engedély nélküli más célú hasznosítása miatt indult eljárásban hatóságként eljáró járási hivatal környezetvédelmi vagy természetvédelmi szakkérdést vizsgál, az érdemi döntés meghozatalára irányadó ügyintézési határidő 29 nappal meghosszabbodik.
+## 26/B. §[^57]
 
 ## IV. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## 16. Általános rendelkezések
 
-27. § (1)[^57] Az ingatlan-nyilvántartásról szóló törvény szerinti mező- és erdőgazdasági művelés alatt álló földrészlet (ideértve az alrészletet is, e fejezet alkalmazásában a továbbiakban együtt: földrészlet) művelési ágában vagy minőségében bekövetkezett változás esetén (ide nem értve azt az esetkört, ha a földrészlet adata művelés alól kivett területre változik) a járási hivatal olyan egyesített eljárást (e fejezet alkalmazásában a továbbiakban: egyesített eljárás) folytat le, amely a következő sorrendben magában foglalja:
+27. § (1)[^58] Az ingatlan-nyilvántartásról szóló törvény szerinti mező- és erdőgazdasági művelés alatt álló földrészlet (ideértve az alrészletet is, e fejezet alkalmazásában a továbbiakban együtt: földrészlet) művelési ágában vagy minőségében bekövetkezett változás esetén (ide nem értve azt az esetkört, ha a földrészlet adata művelés alól kivett területre változik) a járási hivatal olyan egyesített eljárást (e fejezet alkalmazásában a továbbiakban: egyesített eljárás) folytat le, amely a következő sorrendben magában foglalja:
 
 a) a földrészlet természetbeni állapotnak megfelelő tényleges művelési ágának, valamint az ahhoz tartozó minőségi osztálynak és a kataszteri tiszta jövedelem értékének megállapítására irányuló földminősítési (e fejezet alkalmazásában a továbbiakban: földminősítési eljárás),
 
@@ -20,7 +20,7 @@ c) az adatváltozás ingatlan-nyilvántartási átvezetésére irányuló (e fej
 
 ## eljárást.
 
-(2)[^58] Az (1) bekezdésben foglaltaktól eltérően a járási hivatal abban az esetben is egyesített eljárást folytat le, ha a földrészlet végleges más célú hasznosítására vonatkozó jogerős hatósági engedély alapján megvalósuló igénybevétel folytán az igénybevétellel nem érintett földrészlet esetében a földminősítést kizárólag annak területi mértékére tekintettel, jogszabályi előírás alapján kell elvégezni.
+(2)[^59] Az (1) bekezdésben foglaltaktól eltérően a járási hivatal abban az esetben is egyesített eljárást folytat le, ha a földrészlet végleges más célú hasznosítására vonatkozó jogerős hatósági engedély alapján megvalósuló igénybevétel folytán az igénybevétellel nem érintett földrészlet esetében a földminősítést kizárólag annak területi mértékére tekintettel, jogszabályi előírás alapján kell elvégezni.
 
 (3) Az (1) bekezdés a) pontjában meghatározott eljárás magában foglalja a kizárólag az érintett földrészlet minőségi osztályának és kataszteri tiszta jövedelmének megállapítására irányuló földminősítési eljárást is.
 
@@ -28,6 +28,6 @@ c) az adatváltozás ingatlan-nyilvántartási átvezetésére irányuló (e fej
 
 (5) Az egyesített eljárás bejelentésre, megkeresésre vagy hivatalból indul.
 
-[^56]: A 26/B. §-t a 70/2015. (III. 30.) Korm. rendelet 260. § (11) bekezdése iktatta be.
-[^57]: A 27. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
-[^58]: A 27. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
+[^57]: A 26/B. §-t a 70/2015. (III. 30.) Korm. rendelet 260. § (11) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 237. § b) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^58]: A 27. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
+[^59]: A 27. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
 ## 9. Felmérési, térképezési vagy területszámítási hiba kijavítása
 
-13. § (1)[^32] A felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárás hivatalból, a járási hivatal észlelése alapján, a tulajdonos vagy vagyonkezelő bejelentésére (amennyiben ingatlanrendező földmérő jogosultsággal rendelkező személy által készített szakvéleményt mellékel), vagy a földmérési és térképészeti tevékenységről szóló törvényben meghatározott földmérési jogosultsággal rendelkező személy bejelentésére indul.
+13. § (1)[^33] A felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárás hivatalból, a járási hivatal észlelése alapján, a tulajdonos vagy vagyonkezelő bejelentésére (amennyiben ingatlanrendező földmérő jogosultsággal rendelkező személy által készített szakvéleményt mellékel), vagy a földmérési és térképészeti tevékenységről szóló törvényben meghatározott földmérési jogosultsággal rendelkező személy bejelentésére indul.
 
 (2) A felmérési, térképezési vagy területszámítási hiba kijavítására irányuló eljárás megindítása tényét
 
-a)[^33] az ingatlanügyi hatóság által észlelt hiba esetén az erről készült hivatalos feljegyzés keltének napján,
+a)[^34] az ingatlanügyi hatóság által észlelt hiba esetén az erről készült hivatalos feljegyzés keltének napján,
 
 b) a tulajdonos vagy vagyonkezelő bejelentésének beadása napján,
 
@@ -14,8 +14,8 @@ c) a földmérési jogosultsággal rendelkező személy bejelentésére indult e
 
 (3) A felmérési, térképezési vagy területszámítási hiba kijavítására irányuló tényfeljegyzés az eljárást lezáró érdemi döntés ellen benyújtott fellebbezéssel támadható meg.
 
-(4)[^34] Törölni kell a tényfeljegyzést a járási hivatal ügy érdemében hozott döntésének jogerőre emelkedését követő munkanapon.
+(4)[^35] Törölni kell a tényfeljegyzést a járási hivatal ügy érdemében hozott döntésének jogerőre emelkedését követő munkanapon.
 
-[^32]: A 13. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
-[^33]: A 13. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 13. pontja szerint módosított szöveg.
-[^34]: A 13. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 14. pontja szerint módosított szöveg.
+[^33]: A 13. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
+[^34]: A 13. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 13. pontja szerint módosított szöveg.
+[^35]: A 13. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 14. pontja szerint módosított szöveg.
