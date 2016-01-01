@@ -16,7 +16,7 @@ e) bővítés vagy átalakítás esetén az épület, építmény addigi funkci�
 
 (4) Ha a kérelem nem tartalmazza a (2) és (3) bekezdésben foglaltakat, a Kiemelt Nemzeti Emlékhely Bizottság a kérelmezőt tizenöt napon belül hiánypótlásra hívja fel. Ha a kérelmező a hiánypótlásnak nem tesz eleget vagy azt nem megfelelően teljesíti, a Kiemelt Nemzeti Emlékhely Bizottság a kérelmet érdemi vizsgálat nélkül elutasítja.
 
-(5) A Kiemelt Nemzeti Emlékhely Bizottság a kérelmet annak beérkezésétől számított kilencven napon belül bírálja el. E határidő – indokolt esetben – egyszer harminc nappal meghosszabbítható.
+(5) A Kiemelt Nemzeti Emlékhely Bizottság a kérelmet annak beérkezésétől számított kilencven napon belül bírálja el.
 
 (6) Ha a kérelmező közigazgatási hatósági engedélyhez kötött, 61/I. § (4) bekezdése szerinti tevékenységet a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül kezdte meg, az ügy eldöntésére hatáskörrel rendelkező hatóság a tevékenység gyakorlását azonnali hatállyal megtiltja. Az eljáró hatóság e határozatát csak akkor helyezheti hatályon kívül, ha a kérelmező a Kiemelt Nemzeti Emlékhely Bizottságtól a hozzájárulást utólag beszerezte.
 

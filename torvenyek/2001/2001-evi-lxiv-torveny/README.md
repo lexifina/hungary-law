@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2015-01-01 | 2014. évi CVI. törvény | 2001-64-00-00.34 |
 | 2015-04-01 | 2015. évi VIII. törvény | 2001-64-00-00.35 |
 | 2015-07-03 | 2015. évi LXXIX. törvény | 2001-64-00-00.36 |
+| 2016-01-01 | 2014. évi CVI. törvény | 2001-64-00-00.37 |
