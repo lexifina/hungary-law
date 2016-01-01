@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-56-20-1
 | 2014-07-01 | 2007-56-20-1U.11 | 29/2014. (IV. 30.) KIM rendelet |
 | 2015-04-15 | 2007-56-20-1U.12 | 8/2015. (IV. 14.) IM rendelet |
 | 2015-11-01 | 2007-56-20-1U.13 | 30/2015. (X. 30.) IM rendelet |
+| 2016-01-01 | 2007-56-20-1U.14 | 43/2015. (XII. 30.) IM rendelet |
