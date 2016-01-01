@@ -1,4 +1,4 @@
-## 12. § Hivatalos külföldi szolgálati úton, és külföldre történt vezénylés ideje alatt egyenruha a NAV elnökének külön engedélyével, a vonatkozó nemzetközi szerződések előírásainak megfelelően viselhető.
+## 12. §[^7] Hivatalos külföldi szolgálati úton, és külföldre történt vezénylés ideje alatt egyenruha az állami adó- és vámhatóság vezetőjének külön engedélyével, a vonatkozó nemzetközi szerződések előírásainak megfelelően viselhető.
 
 ## 8. Felszerelési tárgyak
 
@@ -25,3 +25,5 @@ g) a mindenkori fegyverzeti utasításban rögzített, rendszeresített fegyverz
 (4) Az elhasználódott felszerelési tárgy cseréjére indokolt esetben, az elhasználódott termék leadása mellett kerülhet sor a felvétel helyén.
 
 (5) Ha láthatóan nem természetes elhasználódás miatt válik szükségessé a felszerelési tárgy cseréje, akkor kártérítési eljárás keretében ki kell vizsgálni, hogy a bekövetkezett rongálódás a pénzügyőr hibájából, vagy rajta kívül álló okból következett-e be. A lefolytatandó kártérítési eljárás eredményétől függetlenül, a szolgálati feladatok ellátása érdekében új felszerelési tárgy kiadható.
+
+[^7]: A 12. § a 47/2015. (XII. 30.) NGM rendelet 18. § f) pontja szerint módosított szöveg.

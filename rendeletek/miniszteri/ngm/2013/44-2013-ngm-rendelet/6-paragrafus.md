@@ -28,6 +28,8 @@ h) egyetemi (főiskolai) végzettséget jelölő,
 
 i) egyes egyenruházati termékek hátára szitázott, nyomott Nemzeti Adó- és Vámhivatal és TAX & CUSTOMS felirat.
 
-(3) Az egyenruházati termékekre a rendszeresített kiegészítő elemeken, jelvényeken/karjelvényeken kívül bármilyen más kiegészítő elem, felirat csak külön a NAV elnöke által kiadott engedéllyel alkalmazható, helyezhető fel.
+(3)[^4] Az egyenruházati termékekre a rendszeresített kiegészítő elemeken, jelvényeken/karjelvényeken kívül bármilyen más kiegészítő elem, felirat csak külön az állami adó- és vámhatóság vezetője által kiadott engedéllyel alkalmazható, helyezhető fel.
 
 (4) A különböző egyenruházati termékeken viselhető kiegészítő elemek felsorolását és kiviteli leírását az 5. melléklet tartalmazza.
+
+[^4]: A 6. § (3) bekezdése a 47/2015. (XII. 30.) NGM rendelet 18. § d) pontja szerint módosított szöveg.

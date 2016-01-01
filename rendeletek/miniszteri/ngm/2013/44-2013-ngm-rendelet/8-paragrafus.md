@@ -12,4 +12,6 @@
 
 (5) Az ellátási rendszerből kivont vagy a rendszeresítettől eltérő kivitelű egyenruházati termék és felszerelési tárgy egyenruhaként, vagy egyenruhán kiegészítőként nem viselhető.
 
-(6) Egyenruházati termék és felszerelési tárgy kereskedelmi forgalomba nem hozható, továbbá nem hivatásos állományú NAV tag vagy harmadik személy részére sem ellenértékért, sem egyéb formában nem adható át. Kivételt képez ez alól a pénzügyőrök egymás között történő dokumentált átadása. Minden egyéb célú egyenruházati termék és felszerelési tárgy ki- és átadása a NAV elnökének írásbeli engedélyéhez kötött.
+(6)[^6] Egyenruházati termék és felszerelési tárgy kereskedelmi forgalomba nem hozható, továbbá nem hivatásos állományú NAV tag vagy harmadik személy részére sem ellenértékért, sem egyéb formában nem adható át. Kivételt képez ez alól a pénzügyőrök egymás között történő dokumentált átadása. Minden egyéb célú egyenruházati termék és felszerelési tárgy ki- és átadása az állami adó- és vámhatóság vezetőjének írásbeli engedélyéhez kötött.
+
+[^6]: A 8. § (6) bekezdése a 47/2015. (XII. 30.) NGM rendelet 18. § f) pontja szerint módosított szöveg.

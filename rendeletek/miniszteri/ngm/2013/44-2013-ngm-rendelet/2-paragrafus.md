@@ -1,4 +1,4 @@
-## 1. § A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet 1. §-ában felsorolt központi, közép-, valamint az alsó fokú szervek vezetője (a továbbiakban: szerv vezetője) köteles gondoskodni az irányítása alá tartozó pénzügyőri állomány körében az öltözködési szabályok, egyenruhára valamint viselésére és a szolgálati igazolványra, szolgálati jelvényre vonatkozó rendelkezések megismeréséről és betartatásáról, a pénzügyőr közvetlen irányításáért felelős vezető (a továbbiakban: közvetlen vezető) pedig az előírtak végrehajtásának ellenőrzéséről.
+## 1. §[^1] A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) központi szervének és területi szervének vezetője (a továbbiakban: szerv vezetője) köteles gondoskodni az irányítása alá tartozó pénzügyőri állomány körében az öltözködési szabályok, egyenruhára valamint viselésére és a szolgálati igazolványra, szolgálati jelvényre vonatkozó rendelkezések megismeréséről és betartatásáról, a pénzügyőr közvetlen irányításáért felelős vezető (a továbbiakban: közvetlen vezető) pedig az előírtak végrehajtásának ellenőrzéséről.
 
 ## 1. Értelmező rendelkezések
 
@@ -18,9 +18,9 @@ f) felszerelési tárgy: az alapfelszerelési egyenruházati normán felül a k�
 
 g) gyakorló öltözet: a szerv vezetője által elrendelt, a pénzügyőrök speciális szolgálati feladataik ellátása során viselt öltözet;
 
-h) igényjogosult: a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) teljes pénzügyőri állományára használt állományi megnevezés;
+h)[^2] igényjogosult: a NAV teljes pénzügyőri állományára használt állományi megnevezés;
 
-i) illetékes személyügyi szervezeti egység: a pénzügyőr szolgálati helye szerint illetékes központi vagy középfokú NAV szerv személyügyi szervezeti egysége;
+i)[^3] illetékes személyügyi szervezeti egység: a pénzügyőr szolgálati helye szerint illetékes központi vagy területi NAV szerv személyügyi szervezeti egysége;
 
 j) próbaidős egyenruházati ellátmány: olyan egyszeri minimális természetbeni járandóság, amelynek rendeltetése, hogy a pénzügyőrök próbaidő alatt rendelkezzenek azon egyenruházati termékekkel, amelyek az egyenruhás szolgálati feladatok ellátásához feltétlenül szükségesek. A próbaidős egyenruházati ellátmányként kiadható termékek körét és maximálisan kiadható mennyiségét a 2. melléklet tartalmazza, melytől eltérni csak lefelé, a közvetlen vezető javaslatára a szolgálati feladat jellegének figyelembevételével, a szerv vezetőjének jóváhagyása mellet lehet;
 
@@ -45,3 +45,7 @@ q) újonnan rendszeresített egyenruházat: funkcióját tekintve a meglévő, m
 r) vegyesruhás állomány: azok a pénzügyőrök, akik a mindennapi szolgálatteljesítést általában polgári ruházatban látják el,
 
 s) zenekari díszöltözet: a zenekar tagjai által hangversenyeken, térzene adásakor és egyéb rendezvényeken, esetenként viselt díszöltözet.
+
+[^1]: Az 1. § a 47/2015. (XII. 30.) NGM rendelet 18. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § h) pontja a 47/2015. (XII. 30.) NGM rendelet 18. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § i) pontja a 47/2015. (XII. 30.) NGM rendelet 18. § c) pontja szerint módosított szöveg.

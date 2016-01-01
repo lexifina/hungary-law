@@ -10,4 +10,6 @@
 
 (6) Elhunyt pénzügyőr felszerelési tárgyait térítési kötelezettség megállapítása nélkül vissza kell venni, kivéve, ha azok a haláleset körülményei miatt elvesztek, vagy megsemmisültek. Ha az örökösök felszólítás ellenére sem szolgáltatják vissza a felszerelési tárgyakat, azok – avultatással figyelembe vett – fogyasztói árát hagyatéki teherként kell bejelenteni a hagyatéki eljárást lefolytató közjegyzőnek. A 13. § (1) bekezdés g) pontban meghatározott felszerelési tárgyak visszaszolgáltatási kötelezettsége méltányosságból sem engedhető el.
 
-(7) Az (1) bekezdés szerinti térítési kötelezettség alól a NAV elnöke méltányosságból részben vagy egészben felmentést adhat, kivéve, ha a szolgálati jogviszony a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 53. § f)–g) pontja, 56. § (2) bekezdésének b) pontja, vagy az 59. § (1) bekezdésének b), d) vagy f) pontja alapján szűnik meg.
+(7)[^9] Az (1) bekezdés szerinti térítési kötelezettség alól az állami adó- és vámhatóság vezetője méltányosságból részben vagy egészben felmentést adhat, kivéve, ha a szolgálati jogviszony a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 53. § f)–g) pontja, 56. § (2) bekezdésének b) pontja, vagy az 59. § (1) bekezdésének b), d) vagy f) pontja alapján szűnik meg.
+
+[^9]: A 23. § (7) bekezdése a 47/2015. (XII. 30.) NGM rendelet 18. § d) pontja szerint módosított szöveg.

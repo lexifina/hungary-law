@@ -362,9 +362,9 @@ A pajzs alsó ívén babérkoszorú, alatta NEMZETI ADÓ- ÉS VÁMHIVATAL felira
 
 A tábornoki karjelvény piros posztóra van hímezve.
 
-10. Szakterületi karjelvény
+10.[^14] Szakterületi karjelvény
 
-Egyes szakterületek az adott területre jellemző karjelvényt alakíthatnak ki, melynek kiviteli formáját, a viselésre jogosultak körét a NAV elnöke engedélyezheti.
+Egyes szakterületek az adott területre jellemző karjelvényt alakíthatnak ki, melynek kiviteli formáját, a viselésre jogosultak körét az állami adó- és vámhatóság vezetője engedélyezheti.
 
 11. Fém névkitűző
 
@@ -423,3 +423,5 @@ Zöld posztóra rádolgozott zölddel átszőtt arany zsinór, (rendfokozattól 
 22. Líra sapkadísz
 
 Aranyszínű fémből készített lírajelvény.
+
+[^14]: Az 5. melléklet 10. pontja a 47/2015. (XII. 30.) NGM rendelet 18. § d) pontja szerint módosított szöveg.
