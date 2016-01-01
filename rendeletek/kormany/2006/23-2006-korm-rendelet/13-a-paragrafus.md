@@ -1,6 +1,6 @@
-## Nyomástartó berendezés bontása[^60]
+## Nyomástartó berendezés bontása[^57]
 
-13/A. §[^61] (1) Nyomástartó berendezés bontását bányafelügyeleti engedély nélkül lehet végezni.
+13/A. §[^58] (1) Nyomástartó berendezés bontását bányafelügyeleti engedély nélkül lehet végezni.
 
 (2) Az elvégzett bontást annak befejezésétől számított nyolc napon belül be kell jelenteni a bányafelügyeletnek.
 
@@ -16,5 +16,5 @@ d) a tartály/berendezés besorolását.
 
 (4) A megszüntetett nyomástartó berendezés adatait a megszűnést követően törölni kell a nyilvántartásból.
 
-[^60]: A 13/A. §-t megelőző alcímet a 273/2009. (XII. 3.) Korm. rendelet 10. §-a iktatta be.
-[^61]: A 13/A. §-t a 273/2009. (XII. 3.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^57]: A 13/A. §-t megelőző alcímet a 273/2009. (XII. 3.) Korm. rendelet 10. §-a iktatta be.
+[^58]: A 13/A. §-t a 273/2009. (XII. 3.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

@@ -2,11 +2,11 @@
 
 10. § (1) A nyomástartó berendezést a használatbavétel engedélyezése céljából az 1. számú melléklet szerinti módon veszélyességi osztályba kell sorolni.
 
-(2)[^41] Mobil nyomástartó berendezés első és további felállítási helyén a berendezés használatba vételét meg kell előznie a felállítási helyen a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett sikeres külső szerkezeti vizsgálatnak és tömörségi nyomáspróbának.
+(2)[^38] Mobil nyomástartó berendezés első és további felállítási helyén a berendezés használatba vételét meg kell előznie a felállítási helyen a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett sikeres külső szerkezeti vizsgálatnak és tömörségi nyomáspróbának.
 
 (3) Amennyiben a nyomástartó berendezés valamely bányafelügyeleti engedélyköteles létesítmény része, illetve tartozéka, a berendezés használatbavételi eljárása a létesítmény használatának engedélyezésével együtt, egy eljárás keretében is lefolytatható.
 
-(4)[^42] A bányafelügyelethez benyújtandó használatbavételi engedély kérelemnek tartalmaznia kell:
+(4)[^39] A bányafelügyelethez benyújtandó használatbavételi engedély kérelemnek tartalmaznia kell:
 
 a) a létesítmény helyét, helyrajzi számát,
 
@@ -14,9 +14,9 @@ b) a létesítési engedély számát és keltét az engedélyező megnevezésé
 
 c) az üzemeltető megnevezését és címét,
 
-d)[^43] ha a létesítési tervdokumentáció nem tartalmazta, akkor a nyomástartó berendezés gyártójának, forgalmazójának, megfelelőségértékelést végző bejelentett szervezet megnevezését, a létesítési engedély számát, a berendezés gyári számát, telepítési helyét, műszaki adatait; különösen a térfogatát, töltetét, tervezési nyomását, hőmérsékletét, az anyagmegválasztás alapjául szolgáló hőmérsékletet, a legkisebb üzemi hőmérsékletet és a legnagyobb üzemnyomását,
+d)[^40] ha a létesítési tervdokumentáció nem tartalmazta, akkor a nyomástartó berendezés gyártójának, forgalmazójának, megfelelőségértékelést végző bejelentett szervezet megnevezését, a létesítési engedély számát, a berendezés gyári számát, telepítési helyét, műszaki adatait; különösen a térfogatát, töltetét, tervezési nyomását, hőmérsékletét, az anyagmegválasztás alapjául szolgáló hőmérsékletet, a legkisebb üzemi hőmérsékletet és a legnagyobb üzemnyomását,
 
-e)[^44] a nyomástartó berendezésen (rendszeren) a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett vizsgálatok felsorolását,
+e)[^41] a nyomástartó berendezésen (rendszeren) a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett vizsgálatok felsorolását,
 
 f) a nyomástartó berendezés egyedi, illetve a rendszer védelmét ellátó nyomáshatároló beépítési helyét, kategóriáját, valamint műszaki jellemzőit (típus, jellemző teljesítménytényező, beállítási – a legnagyobb üzemnyomás – nyomás) és az alkalmazott megfelelőség értékelési eljárás szerint elvégzett eredményes vizsgálatok felsorolását, valamint az egyéb biztonsági berendezések ismertetését és beépítési helyüket.
 
@@ -38,7 +38,7 @@ g) jelentést az esetleg előírt próbaüzem tapasztalatairól.
 
 (6) A 8. § (8) bekezdés szerinti létesítési engedélyben szereplő nyomástartó berendezés használatbavétele az alapadatokat tartalmazó kérelem alapján is engedélyezhető, ha a rendelkezésre álló és engedélyezett típusdokumentum értelemszerűen tartalmazza a (4) és (5) bekezdésekben megkövetelt adatokat és mellékleteket.
 
-[^41]: A 10. § (2) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^42]: A 10. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 75. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^43]: A 10. § (4) bekezdés d) pontja a 163/2010. (V. 11.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^44]: A 10. § (4) bekezdés e) pontja a 273/2009. (XII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^38]: A 10. § (2) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^39]: A 10. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 75. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^40]: A 10. § (4) bekezdés d) pontja a 163/2010. (V. 11.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^41]: A 10. § (4) bekezdés e) pontja a 273/2009. (XII. 3.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

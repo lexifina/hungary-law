@@ -1,10 +1,10 @@
-## 12/A. §[^58] A 13. § szerinti javítási, átalakítási engedély alapján javított vagy átalakított nyomástartó berendezés használatbavételére a 10–12. § rendelkezéseit kell megfelelően alkalmazni.
+## 12/A. §[^55] A 13. § szerinti javítási, átalakítási engedély alapján javított vagy átalakított nyomástartó berendezés használatbavételére a 10–12. § rendelkezéseit kell megfelelően alkalmazni.
 
 ## Átalakítási, javítási engedélyezési
 
 ## eljárás
 
-13. §[^59] (1) A bányafelügyelet engedélye szükséges a nyomástartó berendezés minden olyan javításához, átalakításához, amely a 12. § (3) bekezdésében felsoroltakat meghaladja.
+13. §[^56] (1) A bányafelügyelet engedélye szükséges a nyomástartó berendezés minden olyan javításához, átalakításához, amely a 12. § (3) bekezdésében felsoroltakat meghaladja.
 
 (2) A javítási, átalakítási engedély iránti kérelemnek tartalmaznia kell:
 
@@ -52,5 +52,5 @@ f) a javítási, átalakítási engedély hatályát.
 
 (8) A javítási, átalakítási engedély a jogerőre emelkedésétől számított 1 évig hatályos. Az engedély hatálya egy alkalommal, egy évvel meghosszabbítható.
 
-[^58]: A 12/A. §-t az 559/2013. (XII. 31.) Korm. rendelet 38. §-a iktatta be.
-[^59]: A 13. § az 559/2013. (XII. 31.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^55]: A 12/A. §-t az 559/2013. (XII. 31.) Korm. rendelet 38. §-a iktatta be.
+[^56]: A 13. § az 559/2013. (XII. 31.) Korm. rendelet 39. §-ával megállapított szöveg.
