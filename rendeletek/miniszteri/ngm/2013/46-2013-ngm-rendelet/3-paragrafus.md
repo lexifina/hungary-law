@@ -10,4 +10,6 @@
 
 (3) A lakáskérelemmel kapcsolatos végleges döntés meghozatalára minden esetben a lakásügyi szerv vezetője jogosult. Amennyiben a lakásügyi szerv a döntéshozatalhoz szükségesnek tartja, úgy a benyújtott kérelmek véleményezésére, az abban foglaltak vizsgálatára, az elosztásra vonatkozó javaslat kidolgozására Lakásügyi Bizottságot hozhat létre, melynek működését belső szabályzatban kell meghatározni.
 
-(4) A NAV KH a vezetői munkakörök betöltéséhez, valamint a soron kívüli és azonnali intézkedést igénylő feladatok végrehajtásához kapcsolódó elhelyezések megoldása érdekében központi tartalék lakáskeretet tarthat fenn, amelynek fenntartási költségeit viselni köteles.
+(4)[^2] A NAV KI a vezetői munkakörök betöltéséhez, valamint a soron kívüli és azonnali intézkedést igénylő feladatok végrehajtásához kapcsolódó elhelyezések megoldása érdekében központi tartalék lakáskeretet tarthat fenn, amelynek fenntartási költségeit viselni köteles.
+
+[^2]: A 3. § (4) bekezdése a 47/2015. (XII. 30.) NGM rendelet 19. § (2) bekezdése szerint módosított szöveg.

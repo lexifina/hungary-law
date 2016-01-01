@@ -8,19 +8,13 @@
 
 3. élettársi kapcsolat: két olyan, házasságkötés nélkül közös háztartásban, érzelmi és gazdasági közösségben együtt élő személy közötti kapcsolat, akik közül egyiknek sem áll fenn mással házassági életközössége, bejegyzett élettársi életközössége vagy élettársi kapcsolata, és akik nem állnak egymással egyenesági rokonságban vagy testvéri kapcsolatban. Az élettársi kapcsolat fennállásának tényéről a feleknek írásban nyilatkozniuk kell;
 
-4. lakásügyi szerv:
+4.[^1] lakásügyi szerv:
 
-a) a NAV Központi Hivatala (a továbbiakban: NAV KH) a saját, valamint a NAV Informatikai Intézete és a budapesti székhelyű középfokú
+a) a NAV Központi Irányítás (a továbbiakban: NAV KI) a saját, a NAV Informatikai Intézete, valamint a budapesti székhelyű területi szervek személyi állománya vonatkozásában,
 
-aa) adóztatási- és vámszervek, valamint
+b) illetékességi területükön a NAV megyei igazgatóságai személyi állományuk vonatkozásában,
 
-ab) adó- és vámszerv,
-
-és felügyeletük alá tartozó szervek személyi állománya vonatkozásában;
-
-b) illetékességi területükön a NAV regionális vám- és pénzügyőri főigazgatóságai a nem budapesti székhelyű adóztatási- és vámszervek személyi állománya vonatkozásában;
-
-c) a NAV Bűnügyi Főigazgatósága a saját személyi állománya, valamint a felügyelete alá tartozó szervek személyi állománya vonatkozásában;
+c) a NAV Bűnügyi Főigazgatósága a saját személyi állománya vonatkozásában,
 
 d) a NAV Képzési, Egészségügyi és Kulturális Intézetének személyi állománya vonatkozásában a szolgálatteljesítés helyétől (munkavégzés helyétől) függően az a) vagy b) pontban megjelölt szerv;
 
@@ -49,3 +43,5 @@ b) más településen lévő szolgálatteljesítési (munkavégzési) hely eset�
 a) helyiség;
 
 b) elválasztó vonallal vagy azonosító jellel meghatározott leállósáv, útpadka.
+
+[^1]: A 2. § 4. pontja a 47/2015. (XII. 30.) NGM rendelet 19. § (1) bekezdésével megállapított szöveg.

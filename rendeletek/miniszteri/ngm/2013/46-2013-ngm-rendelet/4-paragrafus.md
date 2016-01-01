@@ -24,10 +24,10 @@ j) jogcím nélküli használót a NAV vagy jogelődje rendelkezése alatt áll�
 
 (3) A (2) bekezdés b)–f) pontjában meghatározott kizárás nem vonatkozik arra az esetre, ha a pénzügyőrt a szolgálat érdekében olyan településre helyezik át, ahol, vagy amelynek vonzáskörzetében önálló lakással nem rendelkezik.
 
-(4)[^1] A (2) bekezdés a) és e) pontjában meghatározott kizárás alól a lakásügyi szerv vezetője, indokolt esetben, különös méltánylást érdemlő körülmények fennállása esetén felmentést adhat.
+(4)[^3] A (2) bekezdés a) és e) pontjában meghatározott kizárás alól a lakásügyi szerv vezetője, indokolt esetben, különös méltánylást érdemlő körülmények fennállása esetén felmentést adhat.
 
 (5) A (2) bekezdés vonatkozásában a pénzügyőrrel egy tekintet alá esik az igénylővel együtt költöző személy.
 
 (6) A (3)–(5) bekezdés más NAV foglalkoztatott igénylő esetén is alkalmazandók.
 
-[^1]: A 4. § (4) bekezdése a 23/2015. (IX. 4.) NGM rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (4) bekezdése a 23/2015. (IX. 4.) NGM rendelet 9. § a) pontja szerint módosított szöveg.
