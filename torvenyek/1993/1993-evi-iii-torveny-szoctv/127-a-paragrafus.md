@@ -1,15 +1,1 @@
-127/A. § (1) Ha helyi önkormányzat vagy társulás az általa fenntartott szolgáltatót, intézményt egyházi fenntartónak adja át, az egyházi kiegészítő támogatást a helyi önkormányzat, illetve a társulás köteles a központi költségvetésnek öt éven keresztül folyamatosan, a nettó finanszírozás keretében megtéríteni.
-
-(2) Ha helyi önkormányzat vagy társulás által fenntartott szolgáltató, intézmény megszűnésétől számított tizenkét hónapon belül egyházi fenntartó új szolgáltatót, intézményt hoz létre, a korábbi fenntartó köteles az egyházi kiegészítő támogatás öt éven keresztül fizetendő összegét folyamatosan, a nettó finanszírozás keretében a központi költségvetésnek megtéríteni, feltéve, hogy
-
-a) a megszűnt és a létrehozott szolgáltató, intézmény ellátottainak legalább ötven százaléka azonos, továbbá
-
-b) nappali és bentlakásos intézményi ellátás esetén a megszűnt és a létrehozott intézmény – részben vagy egészben – ugyanabban az ingatlanban működik.
-
-(3) A megtérítendő összeg megállapítása során nem vehető figyelembe a korábbi fenntartónak a szolgáltatói nyilvántartásba bejegyzett adatai között nem szereplő szociális szolgáltatás – ide nem értve azt az esetet, ha az új szociális szolgáltatást a korábbi férőhelyek átminősítésével hozták létre – és férőhelyszám, illetve ellátható személyek száma.
-
-(4) Ha a nem állami fenntartó a fenntartásában működő, és a finanszírozási rendszerbe az 58/A. § alapján befogadott vagy támogatásra befogadás nélkül is jogosító szolgáltatót, intézményt egyházi fenntartónak adja át, vagy a nem állami fenntartó által fenntartott szolgáltató, intézmény megszűnésétől számított tizenkét hónapon belül egyházi fenntartó a (2) bekezdés a)–b) pontjában foglaltaknak megfelelő új szolgáltatót, intézményt hoz létre, a nem állami fenntartó köteles az egyházi kiegészítő támogatás öt évre számított átalányösszegét a központi költségvetésnek megtéríteni, függetlenül attól, hogy az átadó fenntartó azt igénybe vette-e. Az átalányösszeg a központi költségvetésről szóló törvényben biztosított támogatás, az 58/A. § alapján befogadott vagy támogatásra befogadás nélkül is jogosító szolgálatszámra, ellátotti számra, férőhelyszámra – törtéves működés esetén egész évre – számított összegének, és az egyházi kiegészítő támogatás akkor hatályos mértékének szorzata alapján számított összeg ötszöröse. A teljes átalányösszeg megfizetéséig a fenntartóváltozás, illetve az új szolgáltató, intézmény nem engedélyezhető.
-
-(5) Az egyházi kiegészítő támogatás megtérítéséről a kincstár külön kormányrendeletben meghatározott eljárás szerint határozatban dönt.
-
-(6) Bentlakásos intézményi ellátás esetén nem kell az egyházi kiegészítő támogatást megtéríteni, ha az alól a szociál- és nyugdíjpolitikáért felelős miniszter a megtérítésre köteles fenntartót mentesíti. A mentesítésre a megtérítésre köteles fenntartó vagy az új fenntartó kérelmére akkor kerülhet sor, ha a kérelemmel érintett intézményekben, illetve székhelyen és telephelyeken összesen legalább ezer betöltött férőhely van, és a mentesítést az ellátottak folyamatos ellátása különösen indokolja. Ha az új fenntartó több megtérítésre köteles fenntartótól vesz át intézményt, illetve több megtérítésre köteles fenntartó intézményét alapítja újra, az ezer betöltött férőhelyet megtérítésre köteles fenntartónként kell vizsgálni.
+127/A. §

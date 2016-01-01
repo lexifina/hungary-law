@@ -19,3 +19,5 @@ a) előzetes letartóztatásban van, elzárás, illetőleg szabadságvesztés b�
 b) 3 hónapot meghaladó időtartamban külföldön tartózkodik.
 
 c) a 3. § (3) vagy (4) bekezdése alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott.
+
+(5) Az időskorúak járadékára való jogosultságot a (4) bekezdésben meghatározottakon túl – a kérelemben megjelölt időponttól vagy időpont megjelölésének hiányában a kérelem benyújtását követő hónap utolsó napjával – meg kell szüntetni, ha azt az időskorúak járadékában részesülő személy kéri.

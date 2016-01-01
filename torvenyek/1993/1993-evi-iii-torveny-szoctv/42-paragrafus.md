@@ -24,9 +24,13 @@ c) az ápolt személy meghal,
 
 d) az ápolást végző vagy az ápolt személy tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott,
 
-e) az (1) bekezdésben megjelölt jogosultságot kizáró körülmény következik be.
+e) az (1) bekezdésben megjelölt jogosultságot kizáró körülmény következik be,
+
+f) azt az ápolást végző személy kérte.
 
 (3) Az ápolt személy halála esetén az ápolási díj folyósítását a halál időpontját követő második hónap utolsó napjával kell megszüntetni.
+
+(3a) A (2) bekezdés f) pontja szerinti esetben az ápolási díjra való jogosultságot a kérelemben megjelölt időponttól, vagy – időpont megjelölésének hiányában – a kérelem benyújtását követő hónap utolsó napjával kell megszüntetni.
 
 (4) A 41. § (1) bekezdés a) pontja szerinti, valamint a kiemelt ápolási díjra való jogosultság továbbra is fennáll, ha az ápolási díjban részesülő személy
 

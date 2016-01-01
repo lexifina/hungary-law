@@ -6,7 +6,7 @@
 
 a) a házi segítségnyújtást végző szociális gondozó, ideértve a vezető gondozó,
 
-b) a családgondozó,
+b) a családsegítést és gyermekjóléti szolgáltatást végző munkatárs,
 
 c) a támogató szolgálatot, a pszichiátriai betegek közösségi ellátását, a szenvedélybetegek ellátását végző szociális gondozó,
 

@@ -14,4 +14,6 @@ d) könyvelés,
 
 e) karbantartási feladatok elvégzése,
 
-f) jelzőrendszeres házi segítségnyújtás esetén a jelzőrendszer működtetése.
+f) jelzőrendszeres házi segítségnyújtás esetén a jelzőrendszer működtetése,
+
+g) családsegítés és gyermekjóléti szolgáltatás esetében a Gyvt. 40/A. § (4) bekezdésében meghatározott szolgáltatások.

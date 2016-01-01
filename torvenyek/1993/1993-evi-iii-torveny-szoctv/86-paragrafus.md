@@ -1,6 +1,6 @@
 86. § (1) A települési önkormányzat köteles biztosítani
 
-a)
+a) a családsegítést, ha polgármesteri hivatalt működtet vagy a közös önkormányzati hivatal székhelye a településen van,
 
 b) étkeztetést,
 
@@ -8,11 +8,11 @@ c) házi segítségnyújtást,
 
 d) állandó lakosainak számától függően a (2) bekezdés szerinti szociális szolgáltatásokat,
 
-e) az a)–d) pontban nem említett szociális szolgáltatásokhoz – különös tekintettel a családsegítéshez – való hozzáférést.
+e) az a)–d) pontban nem említett szociális szolgáltatásokhoz való hozzáférést.
 
 (2) Az a települési önkormányzat, amelyiknek területén
 
-a) kétezer főnél több állandó lakos él, családsegítést,
+a)
 
 b) háromezer főnél több állandó lakos él, az a) pont szerinti alapszolgáltatást és idősek nappali ellátását,
 

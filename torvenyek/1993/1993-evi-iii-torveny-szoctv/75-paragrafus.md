@@ -44,6 +44,6 @@ is biztosíthatja.
 
 a) az ellátás – a komplex szükségletfelmérés alapján – határozott vagy határozatlan időtartamú,
 
-b) az 58/A. § (2) és (2a) bekezdését, valamint a 99. §-t és 99/A. §-t nem kell alkalmazni.
+b) a 99. §-t és 99/A. §-t nem kell alkalmazni.
 
 (5) Támogatott lakhatás a komplex szükségletfelmérés megtörténtét követően, annak eredménye alapján nyújtható.

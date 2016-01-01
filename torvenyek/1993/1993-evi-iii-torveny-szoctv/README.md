@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2015-03-01 | 2014. évi XCIX. törvény | 1993-3-00-00.95 |
 | 2015-04-01 | 2015. évi VIII. törvény | 1993-3-00-00.96 |
 | 2015-08-01 | 2015. évi CXXXIII. törvény | 1993-3-00-00.97 |
+| 2016-01-01 | 2015. évi CCXXIII. törvény | 1993-3-00-00.98 |
