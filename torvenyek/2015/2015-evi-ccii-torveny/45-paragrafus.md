@@ -28,20 +28,4 @@ a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés a)
 
 b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából a 153. § (2) bekezdés b) pontjában a szabálysértés megnevezésére, c) pontjában a döntés jogerőre emelkedésének időpontjára, d) pontjában a szabálysértés miatt kiszabott büntetés nemére, o) pont ob) és oc) alpontjában a helyszíni bírság kiszabására vonatkozó adatok közül az arra vonatkozó adatokat, hogy az érintett személyt a 177. §-ban meghatározott, a 191. §-ban meghatározott, vagy pénzügyi vagy kereskedelmi szabálysértés miatt az adatátvételt megelőző három éven belül szabálysértési bírsággal sújtották-e.”
 
-(5) A Szabs. tv. 157. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az általános rendőrségi feladatokat ellátó szerv központi szerve a 141. § (2d) bekezdésében meghatározott feladat- és hatáskörében közvetlen hozzáféréssel jogosult átvenni
-
-a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés aa), ab), ad), ae) és ah) pontjában szereplő, az érintett személyre vonatkozó,
-
-b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából
-
-ba) a 153. § (2) bekezdés c) pontjából az eljárt szabálysértési hatóság megnevezésére, határozatának számára, a határozat jogerőre emelkedésének napjára vonatkozó,
-
-bb) a 153. § (2) bekezdés d) pontjában szereplő adatokból a pénzbírság összegére vonatkozó,
-
-bc) a 153. § (2) bekezdés f) pontjában szereplő,
-
-bd) a 153. § (2) bekezdés o) pontjából az oa)–od) alpontban szereplő
-
-adatokat.”
+(5)
