@@ -76,7 +76,7 @@
 
 | 35. védőnő/családgondozó védőnő |  |  |  |  |  | * | * | * |  |  |
 
-| 36. |  |  |  |  |  |  |  |  |  |  |
+| 36. szülésznő |  |  |  |  |  | * |  |  |  |  |
 
 | 2) Felső-, közép- és alsófokú szak/szakmai képesítést igénylő munkakörök |  |  |  |  |  |  |  |  |  |  |
 
