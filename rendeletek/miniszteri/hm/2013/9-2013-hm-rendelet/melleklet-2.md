@@ -376,7 +376,7 @@
 
 | 187. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
 
-2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^150]
+2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^179]
 
 A MUNKAKÖRI KÖVETELMÉNYEK MEGÁLLAPÍTÁSÁHOZ ALKALMAZOTT RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE, VALAMINT A MUNKAKÖRI KÖVETELMÉNYEK MEGHATÁROZÁSA
 
@@ -436,7 +436,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.1. Összhaderőnemi általános katonai, általános szárazföldi, általános légierő, általános logisztika, vezénylő altisztek, vám- és általános munkakörök
 
-## 5K08209_2
+## 5K26794M_2
 
 |  | A | B | C | D | E | F | G |
 
@@ -474,7 +474,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.1. lövész, harckocsizó, tüzér
 
-## 5K08209_3
+## 5K26794M_3
 
 |  | A | B | C | D | E | F | G |
 
@@ -512,7 +512,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.2. felderítő és elektronikai hadviselési szakirányú vezető szervezetek munkakörei
 
-## 5K08209_4
+## 5K26794M_4
 
 |  | A | B | C | D | E | F | G |
 
@@ -540,7 +540,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.3. felderítő (nem mélységi), elektronikai hadviselési
 
-## 5K08209_5
+## 5K26794M_5
 
 |  | A | B | C | D | E | F | G |
 
@@ -576,7 +576,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.4. mélységi és speciális felderítő
 
-## 5K08209_6
+## 5K26794M_6
 
 |  | A | B | C | D | E | F | G |
 
@@ -612,7 +612,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.5. különleges műveleti
 
-## 5K08209_7
+## 5K26794M_7
 
 |  | A | B | C | D | E | F | G |
 
@@ -648,7 +648,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.6. műszaki
 
-## 5K08209_8
+## 5K26794M_8
 
 |  | A | B | C | D | E | F | G |
 
@@ -684,7 +684,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.7. vegyivédelmi
 
-## 5K08209_9
+## 5K26794M_9
 
 |  | A | B | C | D | E | F | G |
 
@@ -720,7 +720,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.8. civil-katonai együttműködési, lélektani műveleti, információs műveleti
 
-## 5K08209_10
+## 5K26794M_10
 
 |  | A | B | C | D | E | F | G |
 
@@ -758,7 +758,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.3.1. repülőgép-, helikopter személyzet
 
-## 5K08209_11
+## 5K26794M_11
 
 |  | A | B | C | D | E | F | G |
 
@@ -794,7 +794,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.3.2. légvédelmi rakéta és tüzér
 
-## 5K08209_12
+## 5K26794M_12
 
 |  | A | B | C | D | E | F | G |
 
@@ -832,7 +832,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.3.3. légi vezetés, repülő harcbiztosító
 
-## 5K08209_13
+## 5K26794M_13
 
 |  | A | B | C | D | E | F | G |
 
@@ -870,7 +870,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.4.1. általános híradó, rádióhíradás, rádiórelé híradás, hírközpontok, vezetékes híradás, futár és tábori posta híradás
 
-## 5K08209_14
+## 5K26794M_14
 
 |  | A | B | C | D | E | F | G |
 
@@ -906,7 +906,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.4.2. repülésbiztosító-, földi repülésirányító szolgálat
 
-## 5K08209_15
+## 5K26794M_15
 
 |  | A | B | C | D | E | F | G |
 
@@ -942,7 +942,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.4.3. ügyviteli, információvédelmi
 
-## 5K08209_16
+## 5K26794M_16
 
 |  | A | B | C | D | E | F | G |
 
@@ -974,7 +974,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.4.4. vezetési, informatikai
 
-## 5K08209_17
+## 5K26794M_17
 
 |  | A | B | C | D | E | F | G |
 
@@ -1008,7 +1008,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.1. üzembentartás, páncélos és gépjárműtechnika
 
-## 5K08209_18
+## 5K26794M_18
 
 |  | A | B | C | D | E | F | G |
 
@@ -1044,7 +1044,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.2. vegyivédelmi technika, kiképzéstechnika, különleges berendezés technika
 
-## 5K08209_19
+## 5K26794M_19
 
 |  | A | B | C | D | E | F | G |
 
@@ -1080,7 +1080,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.3. fegyverzettechnika, aktív eszközök, elektronika, műszaki technika, mérésügy
 
-## 5K08209_20
+## 5K26794M_20
 
 |  | A | B | C | D | E | F | G |
 
@@ -1116,7 +1116,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.4. repülőműszaki
 
-## 5K08209_21
+## 5K26794M_21
 
 |  | A | B | C | D | E | F | G |
 
@@ -1152,7 +1152,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.5. ellátó (hadtáp), közlekedés és szállítás
 
-## 5K08209_22
+## 5K26794M_22
 
 |  | A | B | C | D | E | F | G |
 
@@ -1188,7 +1188,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.5.6. harcanyag
 
-## 5K08209_23
+## 5K26794M_23
 
 |  | A | B | C | D | E | F | G |
 
@@ -1226,7 +1226,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.6.1. térképész
 
-## 5K08209_24
+## 5K26794M_24
 
 |  | A | B | C | D | E | F | G |
 
@@ -1252,7 +1252,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.6.2. meteorológia
 
-## 5K08209_25
+## 5K26794M_25
 
 |  | A | B | C | D | E | F | G |
 
@@ -1272,9 +1272,9 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 | 8. | 06 | főtörzsőrmester |
 
-2.7. Pénzügy
+2.7. Pénzügy, beszerzés
 
-## 5K08209_26
+## 5K26794M_26
 
 |  | A | B | C | D | E | F | G |
 
@@ -1306,7 +1306,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.8. Egészségügy
 
-## 5K08209_27
+## 5K26794M_27
 
 |  | A | B | C | D | E | F | G |
 
@@ -1348,7 +1348,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.9.1. államháztartási belső ellenőrzés
 
-## 5K08209_28
+## 5K26794M_28
 
 |  | A | B | C | D | E | F | G |
 
@@ -1370,7 +1370,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.9.2. infrastrukturális
 
-## 5K08209_29
+## 5K26794M_29
 
 |  | A | B | C | D | E | F | G |
 
@@ -1400,7 +1400,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.10. Gép- és harcjárművezetők
 
-## 5K08209_30
+## 5K26794M_30
 
 |  | A | B | C | D | E | F | G |
 
@@ -1422,7 +1422,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.11. Katonai hatósági és szakirányítási tevékenység, adatvédelem, munkavédelem, tűzvédelem, környezetvédelem, munkaegészségügy
 
-## 5K08209_31
+## 5K26794M_31
 
 |  | A | B | C | D | E | F | G |
 
@@ -1452,7 +1452,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.12. Katonai nemzetbiztonsági
 
-## 5K08209_32
+## 5K26794M_32
 
 |  | A | B | C | D | E | F | G |
 
@@ -1484,7 +1484,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.13. Oktatás, képzés, kiképzés
 
-## 5K08209_33
+## 5K26794M_33
 
 |  | A | B | C | D | E | F | G |
 
@@ -1522,7 +1522,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.14. Jogi és igazgatási
 
-## 5K08209_34
+## 5K26794M_34
 
 |  | A | B | C | D | E | F | G |
 
@@ -1544,7 +1544,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.15. Humán
 
-## 5K08209_35
+## 5K26794M_35
 
 |  | A | B | C | D | E | F | G |
 
@@ -1576,7 +1576,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.16. Tábori lelkészek
 
-## 5K08209_36
+## 5K26794M_36
 
 |  | A | B | C | D | E | F | G |
 
@@ -1600,7 +1600,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.17.1. katonai igazgatás
 
-## 5K08209_37
+## 5K26794M_37
 
 |  | A | B | C | D | E | F | G |
 
@@ -1630,74 +1630,4 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.17.2. védelmi igazgatás
 
-## 5K08209_38
-
-|  | A | B | C | D | E | F | G |
-
-| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
-
-| 3. | 16 | dandártábornok | EKV, PE | SZFF | FVT, JSZV | K12, K23, K24 | Pa/V, Pv/V |
-
-| 4. | 15 | ezredes |
-
-| 5. | 14 | alezredes |  | Pa/V, Pv/IV |
-
-| 6. | 13 | őrnagy | FKV, PF | Pa/IV |
-
-| 7. | 12 | százados |
-
-| 8. | 11 | főhadnagy |
-
-| 9. | 09 | főtörzszászlós | É | BSZF |
-
-| 10. | 08 | törzszászlós | BSZF, KF |
-
-| 11. | 07 | zászlós |
-
-| 12. | 06 | főtörzsőrmester |
-
-| 13. | 05 | törzsőrmester |
-
-2.18. egyéb biztosítás és kiszolgálás
-
-2.18.1. katonai rendész
-
-## 5K08209_39
-
-|  | A | B | C | D | E | F | G |
-
-| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
-
-| 3. | 15 | ezredes | EKV | FF | FVT | K23, K24 | Pa/V, Pv/IV |
-
-| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
-
-| 5. | 13 | őrnagy | FKV | K12, K23, K24 |
-
-| 6. | 12 | százados |
-
-| 7. | 11 | főhadnagy | Pa/IV, Pm/IV |
-
-| 8. | 09 | főtörzszászlós | É | BSZF | F5-F8, K12, K23, K24 | Pa/III, Pm/III |
-
-| 9. | 08 | törzszászlós | BZK, SZKF |
-
-| 10. | 07 | zászlós |
-
-| 11. | 06 | főtörzsőrmester | BK, KF |
-
-| 12. | 05 | törzsőrmester |
-
-| 13. | 03 | szakaszvezető | ÁI |  |
-
-| 14. | 02 | tizedes |
-
-| 15. | 01 | őrvezető |
-
-2.18.2. díszelgő
-
-[^150]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^179]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított, a 18/2015. (XII. 22.) HM rendelet 22. § g) pontja szerint módosított szöveg.

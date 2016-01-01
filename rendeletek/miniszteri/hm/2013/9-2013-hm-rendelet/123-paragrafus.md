@@ -14,6 +14,8 @@ b) annak kezdőnapja szolgálatteljesítési kötelezettséggel érintett munkan
 
 c) annak befejező napja szolgálatteljesítési kötelezettséggel érintett munkanapot megelőző munkanap.
 
-(4) A (3) bekezdés b) pontjától eltérően, ha a 120. § (2) bekezdés c) pontja szerinti, illetve a Hjt. 107. §-a szerinti kötelező pihenőidő munkanapra esik, akkor az azt követő munkanap a szabadság kezdőnapja.
+(4)[^115] A (3) bekezdés b) pontjától eltérően, ha a 120. § (6) bekezdés szerinti, illetve a Hjt. 107. §-a szerinti pihenőidő munkanapra esik, akkor az azt követő munkanap a szabadság kezdőnapja.
 
 (5) A szolgálatteljesítési idő beosztásának a 120. § (2) és (3) bekezdése szerinti rendjét a szabadság kiadására tekintet nélkül fenn kell tartani.
+
+[^115]: A 123. § (4) bekezdése a 18/2015. (XII. 22.) HM rendelet 15. §-ával megállapított szöveg.

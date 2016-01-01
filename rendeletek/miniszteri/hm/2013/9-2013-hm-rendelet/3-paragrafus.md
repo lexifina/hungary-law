@@ -8,9 +8,9 @@ b) a honvédségi szervezet más helyőrségben települő, oda kikülönített 
 
 c) a szerződéses pályakezdő tekintetében a Hjt. 36. § (1) bekezdése szerint az első szolgálati beosztásba történő kinevezésig a tervezett szolgálati beosztás szerinti honvédségi szervezet vezetője,
 
-d)[^9] az állomány Hjt. 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a HVKF által kijelölt szolgálati elöljáró,
+d)[^10] az állomány Hjt. 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a HVKF által kijelölt szolgálati elöljáró,
 
-e)[^10] az állomány Hjt. 46. § (1) bekezdés b), f)–p) és r)–u) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a központi személyügyi szerv vezetője,
+e)[^11] az állomány Hjt. 46. § (1) bekezdés b), f)–p) és r)–u) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a központi személyügyi szerv vezetője,
 
 f) az állomány Hjt. 46. § (1) bekezdés c) pontja szerinti rendelkezési állományba tartozó tagja tekintetében a szolgálati viszony létesítése, módosítása, megszüntetése és az illetmény-megállapítás tekintetében a központi személyügyi szerv vezetője, egyéb állományilletékes parancsnoki döntés tekintetében a kijelölt szolgálati elöljáró,
 
@@ -20,7 +20,7 @@ h) az állományilletékes parancsnok tekintetében az elöljáró parancsnok, �
 
 i) a miniszter által vezetett minisztérium (a továbbiakban: HM) állománya, a miniszter közvetlen alárendeltségébe tartozó szervezet vezetője, továbbá Honvéd Vezérkar főnöke (a továbbiakban: HVKF) közvetlen alárendeltségébe tartozó szervezet parancsnoka tekintetében a HVKF.
 
-(3)[^11] A (2) bekezdés d) pontja esetén, továbbá a (2) bekezdés f) pontja esetén az állományilletékes parancsnoki jogkört gyakorló szolgálati elöljárót a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) esetén a HVKF, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény esetén a miniszter jelöli ki.
+(3)[^12] A (2) bekezdés d) pontja esetén, továbbá a (2) bekezdés f) pontja esetén az állományilletékes parancsnoki jogkört gyakorló szolgálati elöljárót a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) esetén a HVKF, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény esetén a miniszter jelöli ki.
 
 (4) Ahol miniszteri rendelet állományilletékes parancsnokot említ, azon az állományilletékes parancsnoki jogkört gyakorló személyt is érteni kell.
 
@@ -28,6 +28,6 @@ i) a miniszter által vezetett minisztérium (a továbbiakban: HM) állománya, 
 
 (6) Az állományilletékes parancsnok munkáltatói jogkörét az elöljáró parancsnok, a HVKF és a miniszter magához vonhatja.
 
-[^9]: A 3. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 5. pontja szerint módosított szöveg.
-[^10]: A 3. § (2) bekezdés e) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 6. pontja szerint módosított szöveg.
-[^11]: A 3. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 7–8. pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 5. pontja szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdés e) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 6. pontja szerint módosított szöveg.
+[^12]: A 3. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 7–8. pontja szerint módosított szöveg.

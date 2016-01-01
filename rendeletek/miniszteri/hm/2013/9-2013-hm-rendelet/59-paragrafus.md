@@ -1,4 +1,4 @@
-59. § (1)[^55] A szolgálati viszonyt – tábornok kivételével –
+59. § (1)[^58] A szolgálati viszonyt – tábornok kivételével –
 
 a) a Hjt. 59. § (2) bekezdés a) pontja esetén a felek megállapodása,
 
@@ -18,4 +18,4 @@ szünteti meg, az abban meghatározott időpontban.
 
 (4) Nem alkalmazható az (1)–(3) bekezdés, ha a szolgálati viszony a törvény erejénél fogva a Hjt. 59. § (5) bekezdése szerint meghosszabbodik.
 
-[^55]: Az 59. § (1) bekezdés nyitó szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 22. pontjával megállapított szöveg.
+[^58]: Az 59. § (1) bekezdés nyitó szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 22. pontjával megállapított szöveg.

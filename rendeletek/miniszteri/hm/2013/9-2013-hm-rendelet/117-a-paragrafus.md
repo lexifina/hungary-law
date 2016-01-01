@@ -1,4 +1,4 @@
-## VI. Fejezet[^91]
+## VI. Fejezet[^108]
 
 ## SZOLGÁLATTELJESÍTÉSI IDŐ
 
@@ -12,4 +12,4 @@
 
 (4) A munkáltatói jogkört gyakorló a szolgálatteljesítési idő adott napra vonatkozó beosztását – továbbá szolgálatteljesítési időkeret alkalmazása esetén a heti pihenőnap kijelölését – előre nem látható körülmény esetén legalább kettő nappal korábban módosíthatja. A módosítást az állomány tagjával a helyben szokásos módon kell közölni.
 
-[^91]: A VI. fejezet (117/A–126/B. §) a 4/2015. (VI. 22.) HM rendelet 22. §-ával megállapított szöveg.
+[^108]: A VI. fejezet (117/A–126/B. §) a 4/2015. (VI. 22.) HM rendelet 22. §-ával megállapított szöveg.

@@ -6,7 +6,7 @@
 
 ## 26. A szolgálatteljesítés általános keretei
 
-69. § (1)[^57] Az állomány tagja által betölthető szolgálati beosztások általános megnevezését, az azokhoz tartozó rendszeresített rendfokozatot, a besorolási osztályt és kategóriát, a lehetséges előmeneteli rendet
+69. § (1)[^60] Az állomány tagja által betölthető szolgálati beosztások általános megnevezését, az azokhoz tartozó rendszeresített rendfokozatot, a besorolási osztályt és kategóriát, a lehetséges előmeneteli rendet
 
 a) a HM-ben, a miniszter irányítása alatt álló központi hivataloknál, a miniszter közvetlen alárendeltségébe tartozó szervezeteknél és a katonai tanácsokkal rendelkező bíróságoknál a 4. melléklet,
 
@@ -14,7 +14,7 @@ b) a katonai szervezeteknél, a Honvédség rendelkezési állományába tartoz�
 
 határozza meg. A szolgálati beosztások megnevezése a szolgálatteljesítés helyére, a szolgálati beosztás szakmai jellegére, és funkciójára történő és a katonai hagyományokon alapuló utalással kiegészíthető.
 
-(2)[^58] A honvédelmi szervezet munkaköri jegyzékében vagy állománytáblájában
+(2)[^61] A honvédelmi szervezet munkaköri jegyzékében vagy állománytáblájában
 
 a) a szakaszparancsnok,
 
@@ -32,11 +32,11 @@ g) az a)–f) pont szerinti vezetőkkel azonos szintű vezető
 
 esetében – azonos állománycsoport esetén – a b)–g) pont szerinti vezető rendfokozatánál eggyel alacsonyabb rendfokozatot kell meghatározni a helyettesítési feladatokat ellátó vezetői szolgálati beosztásokra.
 
-(2a)[^59] A kezdő vezetői beosztások kivételével az altiszti állománycsoportba tartozó vezető esetén a vezető rendfokozatánál eggyel alacsonyabb rendfokozatot kell meghatározni a helyettesítési feladatokat ellátó vezetői szolgálati beosztásra.
+(2a)[^62] A kezdő vezetői beosztások kivételével az altiszti állománycsoportba tartozó vezető esetén a vezető rendfokozatánál eggyel alacsonyabb rendfokozatot kell meghatározni a helyettesítési feladatokat ellátó vezetői szolgálati beosztásra.
 
-(3)[^60] A (2) és a (2a) bekezdéstől szolgálati érdekből a miniszter eltérhet.
+(3)[^63] A (2) és a (2a) bekezdéstől szolgálati érdekből a miniszter eltérhet.
 
-(4)[^61] A 4. és az 5. melléklet IV., V. és VI. besorolási osztályt megállapító táblázata határozza meg azon vezetői szolgálati beosztásokat,
+(4)[^64] A 4. és az 5. melléklet IV., V. és VI. besorolási osztályt megállapító táblázata határozza meg azon vezetői szolgálati beosztásokat,
 
 a) amelyek tekintetében a Hjt. 43. § (2a) bekezdése alkalmazható,
 
@@ -54,14 +54,14 @@ azzal, hogy az a)–e) pontban foglaltaktól eltérően a 4. melléklet E) pontj
 
 (6) A 4. és az 5. melléklet „(K)” toldattal határozza meg a kettős rendfokozattal rendszeresített szolgálati beosztásokat, és „(P)” toldattal a kezdő beosztásokat.
 
-(6a)[^62] A Hjt. 123. § (4) bekezdés d) és e) pontjában meghatározott felsővezetői szolgálati beosztások, valamint a vezénylő zászlósi beosztások besorolását a 4. melléklet A) pont II. és III. pontjához tartozó táblázat alapján a munkaköri jegyzékben, valamint az 5. melléklet A) és B) pontjához tartozó táblázat alapján az állománytáblában kell megjeleníteni.
+(6a)[^65] A Hjt. 123. § (4) bekezdés d) és e) pontjában meghatározott felsővezetői szolgálati beosztások, valamint a vezénylő zászlósi beosztások besorolását a 4. melléklet A) pont II. és III. pontjához tartozó táblázat alapján a munkaköri jegyzékben, valamint az 5. melléklet A) és B) pontjához tartozó táblázat alapján az állománytáblában kell megjeleníteni.
 
-(7)[^63] A honvédelmi szervezetek munkaköri jegyzékét és állománytábláját az (1)–(6a) bekezdésre figyelemmel kell összeállítani.
+(7)[^66] A honvédelmi szervezetek munkaköri jegyzékét és állománytábláját az (1)–(6a) bekezdésre figyelemmel kell összeállítani.
 
-[^57]: A 69. § (1) bekezdése a 4/2015. (VI. 22.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^58]: A 69. § (2) bekezdése a 4/2015. (VI. 22.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^59]: A 69. § (2a) bekezdését a 4/2015. (VI. 22.) HM rendelet 14. § (2) bekezdése iktatta be.
-[^60]: A 69. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 24. pontja szerint módosított szöveg.
-[^61]: A 69. § (4) bekezdése a 4/2015. (VI. 22.) HM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^62]: A 69. § (6a) bekezdését a 4/2015. (VI. 22.) HM rendelet 14. § (4) bekezdése iktatta be.
-[^63]: A 69. § (7) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 25–26. pontja szerint módosított szöveg.
+[^60]: A 69. § (1) bekezdése a 4/2015. (VI. 22.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^61]: A 69. § (2) bekezdése a 4/2015. (VI. 22.) HM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^62]: A 69. § (2a) bekezdését a 4/2015. (VI. 22.) HM rendelet 14. § (2) bekezdése iktatta be.
+[^63]: A 69. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 24. pontja szerint módosított szöveg.
+[^64]: A 69. § (4) bekezdése a 4/2015. (VI. 22.) HM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^65]: A 69. § (6a) bekezdését a 4/2015. (VI. 22.) HM rendelet 14. § (4) bekezdése iktatta be.
+[^66]: A 69. § (7) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 25–26. pontja szerint módosított szöveg.

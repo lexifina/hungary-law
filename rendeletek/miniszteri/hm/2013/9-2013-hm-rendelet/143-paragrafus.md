@@ -1,6 +1,6 @@
-143. § (1)[^92] A fegyelmi eljárás során a vizsgáló az állomány eljárás alá vont tagját, a tanút, a sértettet, a szakértőt a meghallgatása idejéről értesíti, a képviselőt pedig felhívja az eljárási cselekményen való részvételre azzal, hogy a távolléte az eljárási cselekmény lefolytatását nem akadályozza.
+143. § (1)[^117] A fegyelmi eljárás során a vizsgáló az állomány eljárás alá vont tagját, a tanút, a sértettet, a szakértőt a meghallgatása idejéről értesíti, a képviselőt pedig felhívja az eljárási cselekményen való részvételre azzal, hogy a távolléte az eljárási cselekmény lefolytatását nem akadályozza.
 
-(2)[^93] Az értesítést, a felhívást a címzettnek postai úton, vagy más alkalmas módon, eszközzel – különösen távbeszélőn, telefaxon, elektronikus úton – kell kézbesíteni, vagy a címzettel a vizsgáló előtti személyes megjelenés alkalmával szóban kell közölni. Ha az értesítésre, vagy a felhívásra személyes megjelenés alkalmával szóbeli közléssel, távbeszélőn vagy elektronikus úton kerül sor, úgy annak tényét feljegyzésben rögzíteni kell.
+(2)[^118] Az értesítést, a felhívást a címzettnek postai úton, vagy más alkalmas módon, eszközzel – különösen távbeszélőn, telefaxon, elektronikus úton – kell kézbesíteni, vagy a címzettel a vizsgáló előtti személyes megjelenés alkalmával szóban kell közölni. Ha az értesítésre, vagy a felhívásra személyes megjelenés alkalmával szóbeli közléssel, távbeszélőn vagy elektronikus úton kerül sor, úgy annak tényét feljegyzésben rögzíteni kell.
 
 (3) Az állomány tagja meghallgatásáról történő értesítés – ha arra nem a személyes megjelenés alkalmával kerül sor – az érintett szolgálati elöljárója, hivatali felettese útján történik.
 
@@ -10,5 +10,5 @@
 
 (6) A honvédelmi szervezethez nem tartozó személyt – meghallgatása érdekében – a vizsgáló felkeresi.
 
-[^92]: A 143. § (1) bekezdése a 6/2014. (IV. 14.) HM rendelet 9. § i) pontja szerint módosított szöveg.
-[^93]: A 143. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 9. § j) pontja szerint módosított szöveg.
+[^117]: A 143. § (1) bekezdése a 6/2014. (IV. 14.) HM rendelet 9. § i) pontja szerint módosított szöveg.
+[^118]: A 143. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 9. § j) pontja szerint módosított szöveg.

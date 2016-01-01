@@ -10,8 +10,12 @@ b) a bevonulási parancsot – ha a Honvédség erőinek igénybevételére a ka
 
 ba) az önkéntes műveleti tartalékos katona részére – az a) pontban meghatározott személyek kivételével – a bevonulás időpontja előtt legalább 8 nappal, és
 
-bb) az önkéntes védelmi tartalékos katona részére, ha a feladat végrehajtása megköveteli, a bevonulás időpontja előtt legalább 3 nappal
+bb) az önkéntes védelmi tartalékos katona részére, ha a feladat végrehajtása megköveteli, a bevonulás időpontja előtt legalább 3 nappal,
+
+c)[^149] a bevonulási parancsot a KNBSZ állományába tartozó önkéntes műveleti tartalékos katona részére, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 6. §-ában meghatározott feladatok végrehajtása érdekében a bevonulás időpontja előtt legalább 8 nappal
 
 is közölheti.
 
 (4) A (3) bekezdés szerint közölt bevonulási parancs esetében a központi katonai igazgatási szerv az önkéntes tartalékos katona munkáltatóját a közlést követő napon telefonon vagy elektronikus levélben értesíti a tervezett bevonulási időpontról.
+
+[^149]: A 248. § (3) bekezdés c) pontját a 18/2015. (XII. 22.) HM rendelet 19. §-a iktatta be.

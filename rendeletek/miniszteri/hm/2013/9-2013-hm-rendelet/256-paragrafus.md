@@ -1,4 +1,4 @@
-256. § (1)[^124] A központi katonai igazgatási szerv parancsnoka – az állományilletékes honvédelmi szervezet vezetőjével történt egyeztetést követően – a 255. § szerint benyújtott írásbeli kérelem katonai igazgatási szervhez történő beérkezését követő 3 napon belül a rendelkezésére álló adatok alapján hatósági határozatban dönt a tényleges szolgálatteljesítés elhalasztásának vagy átütemezésének engedélyezéséről vagy elutasításáról.
+256. § (1)[^152] A központi katonai igazgatási szerv parancsnoka – az állományilletékes honvédelmi szervezet vezetőjével történt egyeztetést követően – a 255. § szerint benyújtott írásbeli kérelem katonai igazgatási szervhez történő beérkezését követő 3 napon belül a rendelkezésére álló adatok alapján hatósági határozatban dönt a tényleges szolgálatteljesítés elhalasztásának vagy átütemezésének engedélyezéséről vagy elutasításáról.
 
 (2) A központi katonai igazgatási szerv parancsnoka a 248. § (3) bekezdése, valamint a 254. § szerint kiadott behívóparancs vagy bevonulási parancs esetén az (1) bekezdés szerinti döntését 3 napon belül hozza meg.
 
@@ -10,7 +10,7 @@
 
 a) az (1) bekezdés szerinti határozat egy példányát postai úton kézbesíti az önkéntes tartalékos katona részére, valamint ha azt az önkéntes tartalékos katona munkáltatója kérelmére indult eljárásban hozta meg az önkéntes tartalékos katona munkáltatójának is, és
 
-b)[^125] döntéséről elektronikus levél formájában tájékoztatja az állományilletékes honvédelmi szervezetet.
+b)[^153] döntéséről elektronikus levél formájában tájékoztatja az állományilletékes honvédelmi szervezetet.
 
-[^124]: A 256. § (1) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
-[^125]: A 256. § (5) bekezdés b) pontja a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^152]: A 256. § (1) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^153]: A 256. § (5) bekezdés b) pontja a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
