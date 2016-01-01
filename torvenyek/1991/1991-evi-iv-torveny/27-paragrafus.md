@@ -8,7 +8,7 @@ b) a keresőképtelenséggel járó betegség,
 
 c) a beteg gyermek ápolására igénybe vett táppénzes állomány,
 
-d) a terhességi-gyermekágyi segély, csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozási segély folyósítása,
+d) a terhességi-gyermekágyi segély, csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósítása,
 
 e) a megváltozott munkaképességű személyek ellátásai, a rehabilitációs járadék, a rokkantsági és a baleseti rokkantsági nyugdíj, a rendszeres szociális járadék, az átmeneti járadék, a bányászok egészségkárosodási járadéka folyósításának,
 

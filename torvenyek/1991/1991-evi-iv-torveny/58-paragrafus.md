@@ -62,7 +62,7 @@ j) munkaközvetítő tevékenység: olyan szolgáltatás, amelynek célja a munk
 
 k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha munkanélküli járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki
 
-1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, illetőleg gyermekgondozási segélyben részesül,
+1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, illetőleg gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesül,
 
 2. előzetes letartóztatásban van, szabadságvesztés, illetve elzárás büntetését tölti,
 
@@ -130,7 +130,7 @@ szabályait.
 
 (9) Ahol e törvény
 
-a) gyermekgondozási díjat, gyermekgondozási segélyt, terhességi-gyermekágyi segélyt, csecsemőgondozási díjat, gyermeknevelési támogatást, ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, megváltozott munkaképességű személyek ellátásait, továbbá bányászok egészségkárosodási járadékát,
+a) gyermekgondozási díjat, gyermekgondozási segélyt, gyermekgondozást segítő ellátást, terhességi-gyermekágyi segélyt, csecsemőgondozási díjat, gyermeknevelési támogatást, ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, megváltozott munkaképességű személyek ellátásait, továbbá bányászok egészségkárosodási járadékát,
 
 b) munkaviszonyt
 

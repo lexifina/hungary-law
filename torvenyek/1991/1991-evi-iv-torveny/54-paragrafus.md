@@ -2,13 +2,13 @@
 
 ## ELJÁRÁSI SZABÁLYOK
 
-54. § (1)
+54. § (1) Az e törvény, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott foglalkoztatást elősegítő támogatás iránti kérelem az állami foglalkoztatási szerv honlapjáról letölthető formanyomtatványon, valamennyi előírt mellékletet becsatolva elektronikus formában is benyújtható. Az állami foglalkoztatási szerv a kérelmet és annak mellékleteit azok megváltoztathatatlanságát biztosító zárt informatikai rendszerben tárolja.
 
-(2) A 40. § (2) bekezdésének a) pontja, továbbá a pályázat alapján nyújtható foglalkoztatást elősegítő támogatások esetében a pályázati felhívásban az elbírálásra nyitva álló határidő legfeljebb három hónapban állapítható meg. Ha e törvény, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott támogatásban természetes személy részesül, a hatósági szerződést csak személyesen kötheti meg.
+(2) A 40. § (2) bekezdésének a) pontja, továbbá a pályázat alapján nyújtható foglalkoztatást elősegítő támogatások esetében a pályázati felhívásban az elbírálásra nyitva álló határidő legfeljebb két hónapban állapítható meg. Ha e törvény, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott támogatásban természetes személy részesül, a hatósági szerződést csak személyesen kötheti meg.
 
 (3) Ha az állami foglalkoztatási szerv nem e törvény vagy a felhatalmazása alapján kiadott jogszabály, hanem más jogszabály alapján nyújt a foglalkoztatás elősegítése érdekében támogatást, a támogatással kapcsolatos ügyben az eljárására e törvény rendelkezéseit kell megfelelően alkalmazni, kivéve, ha a támogatásról szóló jogszabály ettől eltérően rendelkezik.
 
-(4) A közösségi jogszabályok szerinti migráns munkavállaló álláskeresési ellátásával, vállalkozói járadékával kapcsolatos ügyben az érdemi határozatot két hónapon belül kell meghozni.
+(4) A közösségi jogszabályok szerinti migráns munkavállaló álláskeresési ellátásával, vállalkozói járadékával kapcsolatos ügyben az érdemi határozatot negyvenöt napon belül kell meghozni.
 
 (5) Az e törvény, valamint a felhatalmazása alapján kiadott jogszabály által szabályozott
 
@@ -16,7 +16,7 @@ a) kérelemre indult közigazgatási eljárásban az ismert ügyfelet az eljár�
 
 b) hivatalból folytatott közigazgatási eljárásban az ügyfélnek az eljáró hatóság felhívására közölnie kell az érdemi döntéshez szükséges adatokat, valamint a természetes személyazonosító adatait.
 
-(6) Az e törvényben, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott közigazgatási hatósági ügyben a hiánypótlási felhívást a kérelem beérkezésétől számított tizenöt napon belül kell kibocsátani, a végrehajtás foganatosításáról az önkéntes teljesítés elmaradásának megállapításától számított tizenöt napon belül kell dönteni.
+(6) Az e törvényben, valamint a felhatalmazása alapján kiadott jogszabályban meghatározott közigazgatási hatósági ügyben a végrehajtás foganatosításáról az önkéntes teljesítés elmaradásának megállapításától számított tizenöt napon belül kell dönteni.
 
 (7) Az e törvényben meghatározott nyilvántartásokat magyar nyelven kell vezetni. Az e törvényben meghatározott szerv a hatósági bizonyítványt magyar nyelven állítja ki.
 
@@ -38,7 +38,7 @@ f) részt vesz a megfelelő munkahelyhez jutást elősegítő munkaerő-piaci pr
 
 g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
-(9a) Az álláskereső a (9) bekezdés b) pontjában, valamint az 51/A. § (9) bekezdésében meghatározott jelentkezési kötelezettségének elektronikus levél útján is eleget tehet.
+(9a) Az álláskereső a (9) bekezdés b) pontjában meghatározott jelentkezési kötelezettségének elektronikus levél útján is eleget tehet.
 
 (9b) A cselekvőképtelen vagy a munkaviszonnyal összefüggő ügycsoportban, cselekvőképességében részlegesen korlátozott személy az együttműködési kötelezettségét törvényes képviselője útján teljesíti.
 
@@ -64,7 +64,7 @@ b) kötelezettséget vállal arra, hogy az állami foglalkoztatási szervvel a (
 
 együttműködik.
 
-(12) Az állami foglalkoztatási szerv a gyermekgondozási segélyben részesülő személyt – kérelmére – a (11) bekezdésben meghatározott feltételek fennállása esetén, akkor veszi álláskeresőként nyilvántartásba, ha annak folyósítása alatt, a családok támogatásáról szóló törvény szerint keresőtevékenységet folytathat.
+(12) Az állami foglalkoztatási szerv a gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesülő személyt – kérelmére – a (11) bekezdésben meghatározott feltételek fennállása esetén, akkor veszi álláskeresőként nyilvántartásba, ha annak folyósítása alatt, a családok támogatásáról szóló törvény szerint keresőtevékenységet folytathat.
 
 (13) A közfoglalkoztatott a közfoglalkoztatás időtartama alatt köteles elfogadni az állami foglalkoztatási szerv által részére felajánlott, 25. § (2) bekezdése szerinti megfelelő munkahelyet.
 
@@ -96,7 +96,7 @@ b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivév
 
 c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész,
 
-d) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély esetén a jogosultság megállapításának napjától,
+d) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre, gyermekgondozást segítő ellátásra való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély, gyermekgondozást segítő ellátás esetén a jogosultság megállapításának napjától,
 
 e) önkéntes tartalékos katonai tényleges szolgálatot teljesít, a szolgálatteljesítés időtartama alatt, továbbá
 
@@ -110,4 +110,4 @@ f) szabadságvesztés időtartama alatt.
 
 (17) Az állami foglalkoztatási szerv a (14) bekezdés h) pontjában meghatározott feltételek fennállása esetén – kérelmére – nem törli az álláskeresők nyilvántartásából azt az ügyfelet, aki vállalja, hogy az állami foglalkoztatási szervvel a (9) bekezdésben foglaltak szerint együttműködik.
 
-(18) Az álláskereső aktív munkahelykereső tevékenysége a gyermekgondozási segélyre és gyermekgondozási díjra való jogosultságának bejelentése esetén akkor szünetel, ha annak folyósítása alatt a családok támogatásáról szóló törvény és a kötelező egészségbiztosítás ellátásairól szóló törvény szerint nem folytathat keresőtevékenységet, vagy keresőtevékenységet folytathat, de kéri az aktív munkahelykereső tevékenységének és álláskeresőként való nyilvántartásának szünetelését.
+(18) Az álláskereső aktív munkahelykereső tevékenysége a gyermekgondozási segélyre, gyermekgondozást segítő ellátásra és gyermekgondozási díjra való jogosultságának bejelentése esetén akkor szünetel, ha annak folyósítása alatt a családok támogatásáról szóló törvény és a kötelező egészségbiztosítás ellátásairól szóló törvény szerint nem folytathat keresőtevékenységet, vagy keresőtevékenységet folytathat, de kéri az aktív munkahelykereső tevékenységének és álláskeresőként való nyilvántartásának szünetelését.

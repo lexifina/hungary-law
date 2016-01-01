@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2015-07-01 | 2015. évi XLII. törvény | 1991-4-00-00.100 |
 | 2015-07-13 | 2015. évi CXI. törvény | 1991-4-00-00.101 |
 | 2015-08-01 | 2015. évi CXXVII. törvény | 1991-4-00-00.102 |
+| 2016-01-01 | 2015. évi CCXXIII. törvény | 1991-4-00-00.103 |
