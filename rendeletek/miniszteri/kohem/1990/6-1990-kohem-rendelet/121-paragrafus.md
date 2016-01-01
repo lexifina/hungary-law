@@ -1,4 +1,4 @@
-## 121. §[^226] Ez a rendelet
+## 121. §[^227] Ez a rendelet
 
 1. a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendelet 13. cikkének;
 
@@ -14,7 +14,7 @@
 
 7. a hidrogénüzemű gépjárművek típusjóváhagyásáról szóló 79/2009/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló, 2010. április 26-i 406/2010/EU bizottsági rendelet;
 
-7a.[^227] a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló 2009. július 13-i 661/2009/EK európai parlamenti és tanácsi rendeletben foglaltak.
+7a.[^228] a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló 2009. július 13-i 661/2009/EK európai parlamenti és tanácsi rendeletben foglaltak.
 
 8. az egyes gépjárművek szélvédő-jégmentesítő és -párátlanító berendezéseire vonatkozó típus-jóváhagyási előírásokról, továbbá a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek, valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló 661/2009/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló, 2010. július 27-i 672/2010/EU bizottsági rendelet;
 
@@ -54,35 +54,35 @@
 
 26. a 661/2009/EK európai parlamenti és tanácsi rendeletnek az Egyesült Nemzetek Európai Gazdasági Bizottsága gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek, valamint önálló műszaki egységek típusjóváhagyásáról szóló bizonyos előírásainak felvétele tekintetében történő módosításáról szóló, 2012. június 20-i 523/2012/EU bizottsági rendelet;
 
-27.[^228] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv szerinti alkatrész- és anyagkódolási szabványok létrehozásáról szóló, 2003. február 27-i 2003/138/EK bizottsági határozat;
+27.[^229] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv szerinti alkatrész- és anyagkódolási szabványok létrehozásáról szóló, 2003. február 27-i 2003/138/EK bizottsági határozat;
 
 28. a gyalogosok és más veszélyeztetett úthasználók gépjárművel való ütközést megelőző, illetve annak során történő védelméről és a 70/156/EGK tanácsi irányelv módosításáról szóló, 2003/102/EK európai parlamenti és tanácsi irányelv 3. cikke végrehajtásához szükséges műszaki előírásokról szóló, 2003. december 23-i 2004/90/EK bizottsági határozat;
 
 29. a gépjárművekre szerelt elülső védelmi rendszerek használatáról szóló 2005/66/EK európai parlamenti és tanácsi irányelvben előírt vizsgálatok elvégzésének részletes műszaki követelményeiről szóló, 2006. március 20-i 2006/368/EK bizottsági határozat;
 
-30.[^229] a 661/2009/EK európai parlamenti és tanácsi rendeletnek a gépjárművek és azok pótkocsijainak tömegével és méreteivel kapcsolatos típus-jóváhagyási előírások tekintetében történő végrehajtásáról és a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. december 12-i 1230/2012/EU bizottsági rendelet;
+30.[^230] a 661/2009/EK európai parlamenti és tanácsi rendeletnek a gépjárművek és azok pótkocsijainak tömegével és méreteivel kapcsolatos típus-jóváhagyási előírások tekintetében történő végrehajtásáról és a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. december 12-i 1230/2012/EU bizottsági rendelet;
 
-31.[^230] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a többlépcsős típus-jóváhagyási eljárásra benyújtott járművek széndioxid-kibocsátásának meghatározása tekintetében történő módosításáról szóló, 2013. február 19-i 143/2013/EU bizottsági rendelet;
+31.[^231] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a többlépcsős típus-jóváhagyási eljárásra benyújtott járművek széndioxid-kibocsátásának meghatározása tekintetében történő módosításáról szóló, 2013. február 19-i 143/2013/EU bizottsági rendelet;
 
-32.[^231] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a könnyű személygépjárművek és haszongépjárművek szén-dioxid-kibocsátásának csökkentésére szolgáló innovatív technológiák tekintetében történő módosításáról szóló, 2013. március 7-i 195/2013/EU bizottsági rendelet;
+32.[^232] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a könnyű személygépjárművek és haszongépjárművek szén-dioxid-kibocsátásának csökkentésére szolgáló innovatív technológiák tekintetében történő módosításáról szóló, 2013. március 7-i 195/2013/EU bizottsági rendelet;
 
-33.[^232] a 2007/46/EK európai parlamenti és tanácsi irányelvnek, az 595/2009/EK európai parlamenti és tanácsi rendeletnek és az 582/2011/EU bizottsági rendeletnek a kibocsátási határértékek tekintetében a műszaki fejlődéshez történő hozzáigazításáról szóló 2014. január 31-i 133/2014/EU bizottsági rendelet;
+33.[^233] a 2007/46/EK európai parlamenti és tanácsi irányelvnek, az 595/2009/EK európai parlamenti és tanácsi rendeletnek és az 582/2011/EU bizottsági rendeletnek a kibocsátási határértékek tekintetében a műszaki fejlődéshez történő hozzáigazításáról szóló 2014. január 31-i 133/2014/EU bizottsági rendelet;
 
-34.[^233] a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 692/2008/EK bizottsági rendeletnek a könnyű személy- és haszongépjárművek kibocsátásai (Euro 5 és 6) tekintetében történő módosításáról és az 582/2011/EU bizottsági rendeletnek a nehéz tehergépjárművek kibocsátásai (Euro VI) tekintetében történő módosításáról szóló 2014. február 11-i 136/2014/EU bizottsági rendelet;
+34.[^234] a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 692/2008/EK bizottsági rendeletnek a könnyű személy- és haszongépjárművek kibocsátásai (Euro 5 és 6) tekintetében történő módosításáról és az 582/2011/EU bizottsági rendeletnek a nehéz tehergépjárművek kibocsátásai (Euro VI) tekintetében történő módosításáról szóló 2014. február 11-i 136/2014/EU bizottsági rendelet;
 
-35.[^234] a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet 45. és 47. cikke;
+35.[^235] a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet 45. és 47. cikke;
 
-36.[^235] a rendelet a 661/2009/EK európai parlamenti és tanácsi rendeletnek a különös eljárások, értékelési módszerek és műszaki előírások bevezetése tekintetében történő kiegészítéséről és módosításáról, valamint a 2007/46/EK európai parlamenti és tanácsi irányelv, továbbá az 1003/2010/EU, a 109/2011/EU és a 458/2011/EU bizottsági rendelet módosításáról szóló 2015. február 3-i 2015/166 (EU) bizottsági rendelet
+36.[^236] a rendelet a 661/2009/EK európai parlamenti és tanácsi rendeletnek a különös eljárások, értékelési módszerek és műszaki előírások bevezetése tekintetében történő kiegészítéséről és módosításáról, valamint a 2007/46/EK európai parlamenti és tanácsi irányelv, továbbá az 1003/2010/EU, a 109/2011/EU és a 458/2011/EU bizottsági rendelet módosításáról szóló 2015. február 3-i 2015/166 (EU) bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^226]: A 121. §-t a 45/2007. (IV. 4.) GKM rendelet 3. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 5. §-ával megállapított szöveg.
-[^227]: A 121. § 7a. pontját a 44/2014. (X. 31.) NFM rendelet 7. §-a iktatta be.
-[^228]: A 121. § 27. pontja a 72/2013. (XII. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^229]: A 121. § 30. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
-[^230]: A 121. § 31. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
-[^231]: A 121. § 32. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
-[^232]: A 121. § 33. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
-[^233]: A 121. § 34. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
-[^234]: A 121. § 35. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
-[^235]: A 121. § 36. pontját a 40/2015. (VI. 30.) NFM rendelet 5. §-a iktatta be.
+[^227]: A 121. §-t a 45/2007. (IV. 4.) GKM rendelet 3. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 5. §-ával megállapított szöveg.
+[^228]: A 121. § 7a. pontját a 44/2014. (X. 31.) NFM rendelet 7. §-a iktatta be.
+[^229]: A 121. § 27. pontja a 72/2013. (XII. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^230]: A 121. § 30. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^231]: A 121. § 31. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^232]: A 121. § 32. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^233]: A 121. § 33. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
+[^234]: A 121. § 34. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
+[^235]: A 121. § 35. pontját a 31/2014. (VI. 27.) NFM rendelet 4. §-a iktatta be.
+[^236]: A 121. § 36. pontját a 40/2015. (VI. 30.) NFM rendelet 5. §-a iktatta be.

@@ -58,7 +58,7 @@
 
 ## H : A ráfutó fék megengedett legnagyobb működtető ereje N
 
-11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^248]
+11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^249]
 
 Gépjármű, mezőgazdasági vontató, lassú jármű, pótkocsi, valamint a segédmotoros kerékpár világító és fényjelző berendezéseinek megkövetelt legkisebb láthatósági szögei
 
@@ -130,4 +130,4 @@ Járművön elhelyezett páratlan számú világító és fényjelző berendezé
 
 Gépjárművön és pótkocsiján elhelyezett páros számú világító és fényjelző berendezések megkövetelt legkisebb láthatósági szögei
 
-[^248]: A 11. számú melléklet a 66/2012. (XII. 10.) NFM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^249]: A 11. számú melléklet a 66/2012. (XII. 10.) NFM rendelet 6. § (3) bekezdése szerint módosított szöveg.

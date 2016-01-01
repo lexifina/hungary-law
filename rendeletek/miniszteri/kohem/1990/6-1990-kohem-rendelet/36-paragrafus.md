@@ -6,7 +6,7 @@
 
 Téli mintázatú gumiabroncsot szabad felszerelni a járműre abban az esetben is, ha annak sebességhatára alacsonyabb a jármű legnagyobb sebességénél. Ebben az esetben a jármű vezetőfülkéjében a gumiabroncs megengedett sebességére utaló feliratot kell elhelyezni.
 
-(3)[^117] Az M1 és az N1 kategóriájú járművek kivételével a gépkocsin, a személygépkocsi és a motorkerékpár pótkocsija kivételével a pótkocsin, továbbá a mezőgazdasági vontatón és a lassú járművön minden kerék közelében (pl. a sárvédőn) fel kell tüntetni az adott kerék gumiabroncsára előírt nyomást (nyomáshatárokat). A gumiabroncsokban az előírt nyomást kell tartani.
+(3)[^117] A gumiabroncsokban az előírt nyomást kell tartani.
 
 (4)[^118] Az (1) bekezdésben említett járműveken csak olyan gumiabroncsot szabad használni, amelyen a futófelület mintázatának magassága a teljes felületen eléri:
 
@@ -28,6 +28,6 @@ bb) a 0,75 méternél nagyobb átmérőjű gumiabroncs esetében a 3 mm-t Nem sz
 
 [^115]: A 36. § (1) bekezdése a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
 [^116]: A 36. § (2) bekezdése a 12/1995. ( VII. 12. ) KHVM rendelet 1. §-ával kiegészített szöveg.
-[^117]: A 36. § (3) bekezdése a 12/2000. (V. 24.) KHVM rendelet 7.§-ának (1) bekezdésével megállapított szöveg.
+[^117]: A 36. § (3) bekezdése a 72/2015. (XII. 29.) NFM rendelet 9. §-ával megállapított szöveg.
 [^118]: A 36. § (4) bekezdésének első mondata a 12/2000. (V. 24.) KHVM rendelet 7.§-ának (2) bekezdésével megállapított szöveg.
 [^119]: A 36. § (4) bekezdésének első mondatában meghatározott 1 miliméter a 12/1995. ( VII.12.) KHVM rendelet 9. §-ának (2) bekezdése értelmében 1997. január 1-jétől 1,6 miliméterre módosul.
