@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-228-20-
 | 2015-08-01 | 2004-228-20-22.13 | 191/2011. (IX. 20.) Korm. rendelet |
 | 2015-10-31 | 2004-228-20-22.14 | 324/2015. (X. 30.) Korm. rendelet |
 | 2015-11-01 | 2004-228-20-22.15 | 323/2015. (X. 30.) Korm. rendelet |
+| 2016-01-01 | 2004-228-20-22.16 | 191/2011. (IX. 20.) Korm. rendelet |
