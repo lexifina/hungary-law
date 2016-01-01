@@ -46,7 +46,9 @@ id) érintettség esetén a csereerdősítésre tervezett terület megjelölés�
 
 ie) a tervezett igénybevétel közérdekkel való összhangjának indokolását.
 
-(3)[^125] A (2) bekezdés a)–d) pontok szerinti mellékleteket egy-egy, az e) pont szerinti mellékletet kettő, az f)–h) pontok szerinti mellékleteket a bányatelek megállapítási eljárásban szakhatóságként közreműködő érintett hatóságok számát kettővel meghaladó példányszámban kell benyújtani.
+(2a)[^125] Ha a kérelmező a kérelemhez a (2) bekezdés a) pontja szerinti mellékleteket nem csatolja, azok beszerzéséről a bányafelügyelet gondoskodik.
+
+(3)[^126] A (2) bekezdés a)–d) pontok szerinti mellékleteket egy-egy, az e) pont szerinti mellékletet kettő, az f)–h) pontok szerinti mellékleteket a bányatelek megállapítási eljárásban szakhatóságként közreműködő érintett hatóságok számát kettővel meghaladó példányszámban kell benyújtani.
 
 (4) A (2) bekezdés f) pontjában foglalt műszaki leírásnak tartalmaznia kell:
 
@@ -64,9 +66,9 @@ f) a földalatti gáztárolásra megállapítani kért bányatelek esetében a t
 
 (5) A műszaki leírásban ismertetni kell:
 
-a)[^126]
+a)[^127]
 
-b)[^127] az ásványi nyersanyag feltárására, kitermelésére kiválasztható bányászati módszereket (mélyművelés, külfejtés, fúrólyukas – ezen belül irányított ferdefúrású vagy vízszintes fúrású – módszer);
+b)[^128] az ásványi nyersanyag feltárására, kitermelésére kiválasztható bányászati módszereket (mélyművelés, külfejtés, fúrólyukas – ezen belül irányított ferdefúrású vagy vízszintes fúrású – módszer);
 
 c) a feltáráshoz, kitermeléshez várhatóan szükséges külszíni és felszín alatti létesítménycsoportok megnevezését;
 
@@ -80,7 +82,7 @@ d) a kitermelési feltételek teljesíthetőségét (beleértve a kitermelt ásv
 
 (9) Ha a bányatelek határain belül a tervezett bányászati tevékenység következtében a felszín alatti vízkészletből származó állóvíz kialakulásával és a bányászat befejezését követő fennmaradásával kell számolni, úgy a külön jogszabály figyelembevételével a tájrendezési előtervben meg kell határozni az ezzel kapcsolatos előzetes vízgazdálkodási, környezet-, természet- és tájvédelmi feltételeket, amelyeket a tájrendezés, illetve a bányabezárás során figyelembe kell venni.
 
-(10)[^128] Ha a kérelmező a kérelemhez a megállapításra kért bányatelekkel érintett ingatlanok ingatlan-nyilvántartás szerinti tulajdonosainak, vagyonkezelőinek, valamint használóinak név- és címjegyzékét nem csatolja, a bányafelügyelet – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlanügyi hatóságot.
+(10)[^129] Ha a kérelmező a kérelemhez a megállapításra kért bányatelekkel érintett ingatlanok ingatlan-nyilvántartás szerinti tulajdonosainak, vagyonkezelőinek, valamint használóinak név- és címjegyzékét nem csatolja, a bányafelügyelet – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlanügyi hatóságot.
 
 [^117]: A Vhr. 11/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 16. §-a iktatta a szövegbe.
 [^118]: A Vhr. 11/A. §-ának (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -90,7 +92,8 @@ d) a kitermelési feltételek teljesíthetőségét (beleértve a kitermelt ásv
 [^122]: A Vhr. 11/A. §-a (2) bekezdésének c) pontja az 57/2008. (III. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
 [^123]: A Vhr. 11/A. § (2) bekezdés d) pontját a 411/2012. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte.
 [^124]: A Vhr. 11/A. § (2) bekezdés i) pontját a 146/2012. (VII. 5.) Korm. rendelet 5. §-a iktatta be.
-[^125]: A Vhr. 11/A. §-ának (3) bekezdése az 57/2008. (III. 26.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 63. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^126]: A Vhr. 11/A. § (5) bekezdés a) pontját az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 2. pontja hatályon kívül helyezte.
-[^127]: A Vhr. 11/A. (5) bekezdés b) pontja az 559/2013. (XII. 31.) Korm. rendelet 24. § (2) bekezdés 2. pontja szerint módosított szöveg.
-[^128]: A Vhr. 11/A. §-ának (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 35. § (4) bekezdésével megállapított szöveg.
+[^125]: A Vhr. 11/A. § (2a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 32. § (1) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^126]: A Vhr. 11/A. §-ának (3) bekezdése az 57/2008. (III. 26.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 63. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^127]: A Vhr. 11/A. § (5) bekezdés a) pontját az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^128]: A Vhr. 11/A. (5) bekezdés b) pontja az 559/2013. (XII. 31.) Korm. rendelet 24. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^129]: A Vhr. 11/A. §-ának (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 35. § (4) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-## (A Bt. 47–47/F. §-ához)[^304]
+## (A Bt. 47–47/F. §-ához)[^306]
 
-32/A. §[^305] (1) A komplex műveleti terv jóváhagyása iránti kérelemnek tartalmaznia kell:
+32/A. §[^307] (1) A komplex műveleti terv jóváhagyása iránti kérelemnek tartalmaznia kell:
 
 a) a tevékenységet végző megnevezését, székhelyét, amennyiben az nem az engedélyes, és
 
@@ -62,7 +62,11 @@ e) a biztosíték nagyságát alátámasztó költségtervet, és a biztosíték
 
 f) a tevékenységgel érintett közmű esetén a közmű üzemeltető nyilatkozatát.
 
-(8) A (7) bekezdés d) pontja szerinti költségterv elkészítésére a 25. § (9) bekezdését kell megfelelően alkalmazni.
+(8)[^308] Ha a kérelmező a kérelemhez a (7) bekezdés d) pontja szerinti dokumentumot nem mellékeli, annak beszerzéséről a bányafelügyelet gondoskodik.
 
-[^304]: A Vhr. 32/A. §-át megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 16. §-a iktatta be.
-[^305]: A Vhr. 32/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 16. §-a iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 16. §-ával megállapított szöveg.
+(9)[^309] A (7) bekezdés e) pontja szerinti költségterv elkészítésére a 25. § (9) bekezdését kell megfelelően alkalmazni.
+
+[^306]: A Vhr. 32/A. §-át megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 16. §-a iktatta be.
+[^307]: A Vhr. 32/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 16. §-a iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^308]: A Vhr. 32/A. § (8) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 32. § (3) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^309]: A Vhr. 32/A. § (9) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 32. § (3) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

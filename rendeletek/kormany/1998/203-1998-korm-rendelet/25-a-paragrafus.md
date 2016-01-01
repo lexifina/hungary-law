@@ -1,14 +1,14 @@
-25/A. §[^260] (1)[^261] Pénzügyi biztosítékként olyan eredeti garanciaszerződés, illetve a garanciavállaló nyilatkozat fogadható el, amely
+25/A. §[^261] (1)[^262] Pénzügyi biztosítékként olyan eredeti garanciaszerződés, illetve a garanciavállaló nyilatkozat fogadható el, amely
 
 a) a Bt. 22/A. §-a (8) bekezdésében meghatározott összegre szól és az engedélyezésre kért kutatási időszakra érvényes, valamint a garanciát vállaló hitelintézet kielégíti a Bt. 22/A. §-a (8) bekezdésében támasztott követelményeket,
 
-b)[^262] okiratban a garanciát vállaló hitelintézet arra vállal kötelezettséget, hogy a Bt. 22/A. §-ának (9) bekezdése szerinti esetekben, az MBFH igénybejelentése alapján, feltétel nélkül – legfeljebb 3 banki napon belül – teljesít,
+b)[^263] okiratban a garanciát vállaló hitelintézet arra vállal kötelezettséget, hogy a Bt. 22/A. §-ának (9) bekezdése szerinti esetekben, az MBFH igénybejelentése alapján, feltétel nélkül – legfeljebb 3 banki napon belül – teljesít,
 
 c) kizárólag a bányafelügyelet jóváhagyásával vonható vissza, vagy visszavonhatatlan.
 
-(2)[^263] Nem fogadható el a garanciaszerződés, illetve a garanciavállaló nyilatkozat, ha a garantőr vagy külföldi garantőrt felülgarantáló hitelintézettel szemben a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 189. §-a szerinti kivételes intézkedésre kerül sor.
+(2)[^264] Nem fogadható el a garanciaszerződés, illetve a garanciavállaló nyilatkozat, ha a garantőr vagy külföldi garantőrt felülgarantáló hitelintézettel szemben a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 189. §-a szerinti kivételes intézkedésre kerül sor.
 
-(3)[^264] A garanciaszerződésnek, illetve a garanciavállaló nyilatkozatnak tartalmaznia kell
+(3)[^265] A garanciaszerződésnek, illetve a garanciavállaló nyilatkozatnak tartalmaznia kell
 
 a) a garantőr megnevezését, bankszámlaszámát,
 
@@ -38,8 +38,8 @@ e) a pénzügyi biztosíték visszavonása, felhasználása, érvényesítése, 
 
 f) a rendelkezésre álló, felhasználható szabad keret összege, lejárat szerint részletezve.
 
-[^260]: A Vhr. 25/A. §-t a 145/2006. (VII. 11.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2006. augusztus 26. napját követően indult ügyekben kell alkalmazni.
-[^261]: A Vhr. 25/A. § (1) bekezdés nyitó szövegrésze a 311/2014. (XII. 11.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
-[^262]: A Vhr. 25/A. §-a (1) bekezdésének b) pontja a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^263]: A Vhr. 25/A. § (2) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^264]: A Vhr. 25/A. § (3) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^261]: A Vhr. 25/A. §-t a 145/2006. (VII. 11.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2006. augusztus 26. napját követően indult ügyekben kell alkalmazni.
+[^262]: A Vhr. 25/A. § (1) bekezdés nyitó szövegrésze a 311/2014. (XII. 11.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^263]: A Vhr. 25/A. §-a (1) bekezdésének b) pontja a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^264]: A Vhr. 25/A. § (2) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^265]: A Vhr. 25/A. § (3) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 14. §-ával megállapított szöveg.

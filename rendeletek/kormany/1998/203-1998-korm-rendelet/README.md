@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-203-20-
 | 2015-01-11 | 1998-203-20-22.39 | 311/2014. (XII. 11.) Korm. rendelet |
 | 2015-04-01 | 1998-203-20-22.40 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-07-03 | 1998-203-20-22.41 | 171/2015. (VI. 30.) Korm. rendelet |
+| 2016-01-01 | 1998-203-20-22.42 | 441/2015. (XII. 28.) Korm. rendelet |
