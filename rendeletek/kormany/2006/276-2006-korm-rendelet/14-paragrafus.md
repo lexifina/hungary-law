@@ -1,3 +1,3 @@
-## 13. §[^45]
+## 13. §[^52]
 
-[^45]: A 13. §-t és a megelőző alcímet a 332/2015. (XI. 10.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^52]: A 13. §-t és a megelőző alcímet a 332/2015. (XI. 10.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.

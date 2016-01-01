@@ -1,8 +1,8 @@
-## 18–21. §[^71]
+## 18–21. §[^78]
 
-## Az Európai Unió jogának való megfelelés[^72]
+## Az Európai Unió jogának való megfelelés[^79]
 
-## 22. §[^73] E rendelet
+## 22. §[^80] E rendelet
 
 a) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 7. cikk (1) bekezdésének,
 
@@ -26,6 +26,6 @@ j) a harmadik országok állampolgárai tartózkodási engedélye egységes form
 
 való megfelelést szolgálja.
 
-[^71]: A 18–21. §-t a 81/2008. (IV. 4.) Korm. rendelet 2. § (2) bekezdése, a 18. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 226. pontja hatályon kívül helyezte.
-[^72]: A 22. §-t megelőző alcímet a 15/2013. (I. 28.) Korm. rendelet 33. § (3) bekezdése iktatta be.
-[^73]: A 22. §-t a 15/2013. (I. 28.) Korm. rendelet 33. § (3) bekezdése iktatta be, szövege a 332/2015. (XI. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^78]: A 18–21. §-t a 81/2008. (IV. 4.) Korm. rendelet 2. § (2) bekezdése, a 18. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 226. pontja hatályon kívül helyezte.
+[^79]: A 22. §-t megelőző alcímet a 15/2013. (I. 28.) Korm. rendelet 33. § (3) bekezdése iktatta be.
+[^80]: A 22. §-t a 15/2013. (I. 28.) Korm. rendelet 33. § (3) bekezdése iktatta be, szövege a 332/2015. (XI. 10.) Korm. rendelet 9. §-ával megállapított szöveg.

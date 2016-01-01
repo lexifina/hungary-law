@@ -1,5 +1,5 @@
-## 2. §[^3] A KEKKH-t elnök (a továbbiakban: elnök) vezeti. Az elnök tevékenységét elnökhelyettesek segítik. Az elnökhelyetteseket az elnök javaslatára a miniszter nevezi ki és menti fel.
+## 2. §[^4] A KEKKH-t elnök (a továbbiakban: elnök) vezeti. Az elnök tevékenységét elnökhelyettesek segítik. Az elnökhelyetteseket az elnök javaslatára a miniszter nevezi ki és menti fel.
 
 ## Az irányítás sajátos szabályai
 
-[^3]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 342. §-ával megállapított szöveg.
+[^4]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 342. §-ával megállapított szöveg.

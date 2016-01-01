@@ -1,3 +1,3 @@
-## 14. §[^46]
+## 14. §[^53]
 
-[^46]: A 14. §-t és a megelőző alcímet a 332/2015. (XI. 10.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^53]: A 14. §-t és a megelőző alcímet a 332/2015. (XI. 10.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
