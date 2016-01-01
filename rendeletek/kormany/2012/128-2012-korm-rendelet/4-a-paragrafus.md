@@ -1,10 +1,10 @@
-## III. Fejezet[^19]
+## III. Fejezet[^21]
 
-## A SZOCIÁLIS CSALÁDIHÁZ-ÉPÍTÉSI PROGRAM KERETÉBEN FELÉPÜLŐ LAKHATÁSI CÉLÚ INGATLANOK BÉRLŐINEK KIVÁLASZTÁSÁRA VONATKOZÓ SZABÁLYOK[^20]
+## A SZOCIÁLIS CSALÁDIHÁZ-ÉPÍTÉSI PROGRAM KERETÉBEN FELÉPÜLŐ LAKHATÁSI CÉLÚ INGATLANOK BÉRLŐINEK KIVÁLASZTÁSÁRA VONATKOZÓ SZABÁLYOK[^22]
 
 ## 3/A. A pályázat benyújtására való jogosultság
 
-4/A. §[^21] (1) Az Ócsán megvalósuló Szociális Családiház-építési Program (a továbbiakban: Program) keretében felépülő lakhatási célú ingatlanokban történő elhelyezésére pályázatot nyújthat be az adós vagy a zálogkötelezett (a továbbiakban együtt: pályázó), ha
+4/A. §[^23] (1) Az Ócsán megvalósuló Szociális Családiház-építési Program (a továbbiakban: Program) keretében felépülő lakhatási célú ingatlanokban történő elhelyezésére pályázatot nyújthat be az adós vagy a zálogkötelezett (a továbbiakban együtt: pályázó), ha
 
 a) lakóingatlanának tulajdonjogát
 
@@ -30,6 +30,6 @@ eb) családi pótlékra nem jogosító, de nevelési-oktatási vagy felsőoktat�
 
 (2) Ha a pályázó a pályázati döntés meghozatalának időpontjáig a lakóingatlan tulajdonjogát nem veszíti el, de az e rendeletben meghatározott egyéb feltételeknek megfelel, és a Program Bírálati Bizottság a pályázatkezelő döntési javaslata alapján a pályázatát támogatja, vele a bérleti szerződés megköthető. Ebben az esetben a bérleti szerződésben rögzíteni kell, hogy ha a szerződés hatálybalépésének napjától számított egy éven belül a tulajdonjog nem szűnik meg, a lakásbérleti szerződés a hatálybalépésének napjától számított egy év elteltével megszűnik, kivéve, ha a kényszerértékesítés folyamatban van.
 
-[^19]: A III. Fejezetet (4/A–4/G. §-t) a 431/2012. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^20]: A III. Fejezet címe a 111/2013. (IV. 11.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^21]: A 4/A. § a 111/2013. (IV. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: A III. Fejezetet (4/A–4/G. §-t) a 431/2012. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^22]: A III. Fejezet címe a 111/2013. (IV. 11.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^23]: A 4/A. § a 111/2013. (IV. 11.) Korm. rendelet 2. §-ával megállapított szöveg.

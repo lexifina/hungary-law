@@ -8,7 +8,7 @@
 
 a) családi pótlékra jogosult és
 
-aa) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján lakásfenntartási támogatásban, a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül, vagy aktív korúak ellátására jogosult,
+aa)[^18] a szociális igazgatásról és szociális ellátásokról szóló törvény alapján a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül, vagy aktív korúak ellátására jogosult,
 
 ab) a háztartásában nevelt gyermek rendszeres gyermekvédelmi kedvezményben részesül, vagy
 
@@ -42,7 +42,7 @@ f) az a) és b) pont szerinti arányszám 0,2-del növekszik, ha a személy fogy
 
 a) az (1) bekezdés a) pontjában meghatározott esetben a családi pótlékra való jogosultságról a fővárosi és megyei kormányhivatalnak a szándéknyilatkozat benyújtásának időpontjánál harminc nappal nem régebben kiállított igazolását és
 
-aa) a lakásfenntartási támogatásra vagy a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásra való jogosultságról vagy a rendszeres gyermekvédelmi kedvezményről a lakóingatlan fekvése szerinti települési önkormányzat jegyzőjének a szándéknyilatkozat benyújtásának időpontjánál harminc nappal nem régebben kiállított igazolását,
+aa)[^19] a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásra való jogosultságról vagy a rendszeres gyermekvédelmi kedvezményről a lakóingatlan fekvése szerinti települési önkormányzat jegyzőjének a szándéknyilatkozat benyújtásának időpontjánál harminc nappal nem régebben kiállított igazolását,
 
 ab) az aktív korúak ellátására való jogosultságról a lakóingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának a szándéknyilatkozat benyújtásának időpontjánál harminc nappal nem régebben kiállított igazolását,
 
@@ -60,3 +60,5 @@ cb) pénzforgalmi szolgáltatónál vezetett számlára átutalással történő
 
 [^16]: A II. Fejezet megjelölését és címét a 431/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
 [^17]: A 2. § a 245/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 2. § (1) bekezdés a) pont aa) alpontja a 245/2015. (IX. 8.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^19]: A 2. § (4) bekezdés a) pont aa) alpontja a 245/2015. (IX. 8.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.

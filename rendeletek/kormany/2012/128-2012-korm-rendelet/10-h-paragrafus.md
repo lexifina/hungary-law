@@ -1,4 +1,4 @@
-## 6/D. [^70] A bérlő helyett elvégzett műszaki hibaelhárítás
+## 6/D. [^73] A bérlő helyett elvégzett műszaki hibaelhárítás
 
 10/H. § (1) A bérbeadó a NET tv. 23. § f) és g) pontja, valamint a lakásbérleti szerződés alapján a bérlő felelősségi körébe tartozó hibaelhárítási munkákat a bérlő költségére elvégezheti, ha a bérlő a bérbeadó által tűzött határidőig a hibaelhárítási munkát nem végzi el és
 
@@ -14,4 +14,4 @@ c) a javítási munkák elvégzése nélkül az ingatlanban jelentős vagyonvesz
 
 (4) Ha a lakásbérleti szerződés felmondására a (3) bekezdés alapján kerül sor, a bérbeadó felajánlja a bérlőnek, hogy a 6/A. alcímben foglalt szabályok alkalmazásával vele határozott idejű bérleti szerződést köt.
 
-[^70]: A 6/D. alcímet (10/H. §) a 245/2015. (IX. 8.) Korm. rendelet 17. §-a iktatta be.
+[^73]: A 6/D. alcímet (10/H. §) a 245/2015. (IX. 8.) Korm. rendelet 17. §-a iktatta be.

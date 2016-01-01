@@ -1,7 +1,7 @@
 ## 11/D. § A Nemzeti Eszközkezelő a NET tv. 7. § (3) bekezdése szerinti nyilvános pályázatot a 10/E. § (2) bekezdés f) és g) pontja szerinti személyek számára írja ki, és a pályázat eredménytelensége esetén értékesíti az ingatlant az állami adóhatóság Elektronikus Árverési Felületén.
 
-## V. Fejezet[^80]
+## V. Fejezet[^83]
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-[^80]: Az eredeti 8. alcím megjelölését V. Fejezetre változtatta, és címének szövegét megállapított a 431/2012. (XII. 29.) Korm. rendelet 6. §-a.
+[^83]: Az eredeti 8. alcím megjelölését V. Fejezetre változtatta, és címének szövegét megállapított a 431/2012. (XII. 29.) Korm. rendelet 6. §-a.

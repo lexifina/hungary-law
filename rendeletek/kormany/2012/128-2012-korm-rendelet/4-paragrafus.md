@@ -1,4 +1,4 @@
-## 3. §[^18] A Nemzeti Eszközkezelő által a NET tv. alapján megvásárolható lakóingatlanok éves maximális számát, amelybe be kell számítani az előző évben megvásárolt lakóingatlanok számát is, az 1. melléklet határozza meg.
+## 3. §[^20] A Nemzeti Eszközkezelő által a NET tv. alapján megvásárolható lakóingatlanok éves maximális számát, amelybe be kell számítani az előző évben megvásárolt lakóingatlanok számát is, az 1. melléklet határozza meg.
 
 4. § (1) A Nemzeti Eszközkezelő havonta legfeljebb 1500 darab lakóingatlant vásárol meg.
 
@@ -14,4 +14,4 @@ c) az értékesítendő lakóingatlant terhelő, a legelőnyösebb ranghelyű je
 
 (4) Ha valamely szándéknyilatkozat az allokációs szempontok alkalmazásával 4 hónapot meghaladóan nem kerül feldolgozásra, e szándéknyilatkozatot a Nemzeti Eszközkezelő a következő havi allokáció során a (2) bekezdésben meghatározott sorrendre tekintet nélkül dolgozza fel.
 
-[^18]: A 3. § a 245/2015. (IX. 8.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^20]: A 3. § a 245/2015. (IX. 8.) Korm. rendelet 21. §-a szerint módosított szöveg.
