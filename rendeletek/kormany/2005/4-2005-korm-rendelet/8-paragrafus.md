@@ -4,7 +4,7 @@
 
 (2) E rendelet 6. §-a 2006. január 1-jén lép hatályba, rendelkezéseit a hatálybalépést követően benyújtott hitelkérelmekre kell alkalmazni.
 
-Melléklet a 4/2005. (I. 12.) Korm. rendelethez[^14]
+Melléklet a 4/2005. (I. 12.) Korm. rendelethez[^17]
 
 Igénylőlap az állami kezesség beváltásához
 
@@ -102,4 +102,4 @@ P. H.
 
 igénylő
 
-[^14]: A melléklet a 125/2009. (VI. 15.) Korm. rendelet 10. § (4) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 396–397. §-a, a 212/2009. (IX. 29.) Korm. rendelet 10. § (8) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^17]: A melléklet a 125/2009. (VI. 15.) Korm. rendelet 10. § (4) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 396–397. §-a, a 212/2009. (IX. 29.) Korm. rendelet 10. § (8) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.

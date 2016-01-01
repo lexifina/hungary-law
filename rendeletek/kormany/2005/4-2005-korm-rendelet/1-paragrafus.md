@@ -10,7 +10,7 @@ b) megfelelnek a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.
 
 c) a házastársak vagy az élettársak legalább egyike, illetve a gyermeket nevelő egyedülálló személy az R. 1. §-a (4) bekezdésének 7. pontjában meghatározott támogatott személy,
 
-d) a kölcsönszerződésben hozzájárulnak ahhoz, hogy a kezességvállalás feltételeinek ellenőrzése érdekében, a kezességvállalással érintett állomány meghatározása céljából, továbbá a kezesség beváltása esetén a mellékletben meghatározott személyes adataikat és a hitelre vonatkozó adatokat a hitelintézet továbbítsa az Adó- és Pénzügyi Ellenőrzési Hivatal és a Magyar Államkincstár részére, ahol az adatokat az kezességvállalással nyújtott kölcsön teljes visszafizetéséig kezelik.
+d)[^2] a kölcsönszerződésben hozzájárulnak ahhoz, hogy a kezességvállalás feltételeinek ellenőrzése érdekében, a kezességvállalással érintett állomány meghatározása céljából, továbbá a kezesség beváltása esetén a mellékletben meghatározott személyes adataikat és a hitelre vonatkozó adatokat a hitelintézet továbbítsa a Nemzeti Adó- és Vámhivatal és a Magyar Államkincstár részére, ahol az adatokat az kezességvállalással nyújtott kölcsön teljes visszafizetéséig kezelik.
 
 (3) Az állami kezességvállalás feltétele, hogy a házastársak vagy az élettársak a kölcsön adósai legyenek és a hitelcél szerinti ingatlanban közös tulajdonjogot szerezzenek, illetve a gyermeket nevelő egyedülálló személy a kölcsön adósa legyen és a hitelcél szerinti ingatlanban tulajdonjogot szerezzen. A hitelcél szerinti ingatlanban kizárólag a házastársak, vagy az élettársak, vagy a gyermeket nevelő egyedülálló személy, valamint gyermekeik szerezhetnek tulajdonjogot.
 
@@ -22,7 +22,7 @@ a) Budapesten és megyei jogú városokban használt lakás esetén a 12 millió
 
 b) más településeken használt lakás esetén a 8 millió forintot, új lakás esetén a 12 millió forintot.
 
-(6)[^2] A kölcsön felvételénél a (2) bekezdés a) pontjában meghatározott adós(ok) mellett adóstárs az adós(ok) a Polgári Törvénykönyv szerint meghatározott közeli hozzátartozója lehet.
+(6)[^3] A kölcsön felvételénél a (2) bekezdés a) pontjában meghatározott adós(ok) mellett adóstárs az adós(ok) a Polgári Törvénykönyv szerint meghatározott közeli hozzátartozója lehet.
 
 (7) Egyedülálló az a személy, aki hajadon, nőtlen, özvegy vagy elvált és nincs élettársa.
 
@@ -31,4 +31,5 @@ b) más településeken használt lakás esetén a 8 millió forintot, új laká
 (9) Az állami kezességvállalás (2)–(8) bekezdésben meghatározott igénybevételi feltételeinek meglétét a folyósító hitelintézet – a hiteligénylő által benyújtott dokumentumok és nyilatkozatok alapján – köteles ellenőrizni. Az R.-ben foglalt feltételekre történő hivatkozások esetén az ellenőrzésnél az R.-ben meghatározottak szerint kell eljárni.
 
 [^1]: Az 1. § (2) bekezdésének a) pontja a 235/2005. (X. 25.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. §-a alapján a rendelkezést a 2005. november 2. napját követően benyújtott hitelkérelmek esetében kell alkalmazni.
-[^2]: Az 1. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 396. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: Az 1. § (2) bekezdés d) pontja a 486/2015. (XII. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 396. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
