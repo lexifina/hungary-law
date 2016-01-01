@@ -24,6 +24,8 @@ j) a hivatalbóli eljárás jogsértést nem tárt fel,
 
 k) hivatalbóli eljárás folyamán észleli, hogy az eljárás lefolytatására már az eljárás megindításakor sem volt joghatósága vagy hatásköre, és áttételnek nincs helye.
 
+l) az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, és törvény nem biztosít lehetőséget az eljárás felfüggesztésére.
+
 (2) A hatóság az eljárást megszüntetheti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte, illetve nyilatkozattételének elmaradása megakadályozta a tényállás tisztázását.
 
 (3) Ha az ügyfél az eljárást megindító kérelmét a határozat jogerőre emelkedését megelőzően az (1) bekezdés c) pontja szerint visszavonja, a hatóság a határozatát visszavonja.

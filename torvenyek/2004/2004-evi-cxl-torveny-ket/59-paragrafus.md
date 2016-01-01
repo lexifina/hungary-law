@@ -10,4 +10,4 @@
 
 (6) Ha a hatóság a szakértőt tárgyaláson kívül hallgatja meg, a meghallgatásra a tárgyalás szabályait kell megfelelően alkalmazni.
 
-(7) Az itt nem szabályozott kérdésekben a szakértőkre az igazságügyi szakértői tevékenységről szóló törvény rendelkezései irányadók. Ha jogszabály eltérően nem rendelkezik, a szakértői eljárás időtartamára a szakhatóságra irányadó rendelkezések irányadók.
+(7) Az itt nem szabályozott kérdésekben a szakértőkre az igazságügyi szakértői tevékenységről szóló törvény rendelkezései irányadók. Ha törvény eltérően nem rendelkezik, a szakértői eljárás időtartamára a szakhatóságra irányadó rendelkezések irányadók.

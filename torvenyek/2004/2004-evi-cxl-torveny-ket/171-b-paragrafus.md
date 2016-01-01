@@ -1,0 +1,3 @@
+171/B. § (1) 2016. január 1-jétől a Központi Ügyfél-regisztrációs Nyilvántartás a tároló elemmel rendelkező személyazonosító igazolvány útján biztosított azonosítási szolgáltatás tekintetében tartalmazza az igénybe vevők e törvényben meghatározott adatait.
+
+(2) Az ügyfélkapu és a részleges kódú telefonos azonosítás ügyfél-regisztrációs nyilvántartását az azt kezelő szerv 2016. január 1-jét követően tovább vezeti, és az ügyfélkapuval, illetve részleges kódú telefonos azonosítással rendelkező személyek adatait annak technikai feltételei megvalósulásakor, de legkésőbb 2016. december 31-éig átadja a Központi Ügyfél-regisztrációs Nyilvántartást kezelő szervnek.

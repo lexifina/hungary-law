@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-140-00-00
 | 2015-04-01 | 2015. évi VIII. törvény | 2004-140-00-00.48 |
 | 2015-07-01 | 2013. évi CCXX. törvény | 2004-140-00-00.49 |
 | 2015-12-04 | 2015. évi CCXXII. törvény | 2004-140-00-00.50 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 2004-140-00-00.51 |

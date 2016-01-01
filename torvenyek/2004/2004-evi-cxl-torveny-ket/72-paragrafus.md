@@ -52,6 +52,6 @@ a) a hatóság a kérelemnek teljes egészében helyt ad, és az ügyben nincs e
 
 b) az kizárólag valamely eljárási cselekmény időpontját határozza meg.
 
-(5) Az egyezséget jóváhagyó egyszerűsített döntésből mellőzhető az indokolás.
+(5) Az egyezséget jóváhagyó egyszerűsített és a sommás eljárást lezáró – kérelemnek helyt adó – döntésből mellőzhető az indokolás.
 
 (6) Az indokolás mellőzhető, ha az késleltetné a döntés meghozatalát és a késedelem életveszéllyel vagy súlyos kárral fenyegető helyzet kialakulásához vezethet. Ebben az esetben a döntés meghozatalától számított tíz napon belül meg kell küldeni az indokolást az ügyfél részére. A jogorvoslat igénybevételének határidejét az indokolás kézbesítésének napjától kell számítani.

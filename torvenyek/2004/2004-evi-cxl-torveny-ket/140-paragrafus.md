@@ -14,9 +14,11 @@ d) azt az ügyész a végrehajtható döntés elleni ügyészi felhívásban ind
 
 e) a végrehajtás folytatása életveszéllyel vagy helyrehozhatatlan kárral járna, vagy az közegészségügyi vagy közbiztonsági okból szükséges,
 
-f) a kötelezett fizetési kedvezmény iránt kérelmet terjeszt elő, kivéve, ha az ügyfél korábbi, ilyen tárgyú kérelmét jogerősen már elbírálta, vagy a fizetési kedvezmény engedélyezését jogszabály kizárja, valamint
+f) a kötelezett fizetési kedvezmény iránt kérelmet terjeszt elő, kivéve, ha az ügyfél korábbi, ilyen tárgyú kérelmét a hatóság jogerősen már elbírálta, vagy a fizetési kedvezmény engedélyezését jogszabály kizárja,
 
-g) azt jogszabály elrendeli.
+g) azt jogszabály elrendeli, valamint
+
+h) a közigazgatási ügyekben eljáró bíróság a hatóságot új eljárásra kötelezte és ezzel a bírósági döntéssel szemben perújítási vagy felülvizsgálati kérelmet terjesztettek elő.
 
 (3) A végrehajtást megindító hatóság a kötelezett kérelmére kivételesen akkor függesztheti fel a végrehajtást, ha a kötelezett a felfüggesztésre okot adó, méltányolható körülményt igazolta, és a kötelezettet a végrehajtási eljárás során korábban nem sújtották eljárási bírsággal.
 

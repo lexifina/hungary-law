@@ -2,7 +2,7 @@
 
 51. § (1) Az ügyfélnek joga van ahhoz, hogy az eljárás során nyilatkozatot tegyen, vagy a nyilatkozattételt megtagadja.
 
-(2) Ha a tényállás tisztázása azt szükségessé teszi, a hatóság az ügyfelet a kérelmére indult eljárásban nyilatkozattételre hívhatja fel. Ha az ügyfél a kérelmére indult eljárásban a hatóság felhívására nem nyilatkozik, a hatóság a rendelkezésre álló adatok alapján dönt, vagy a 31. § (2) bekezdése alapján megszünteti az eljárást.
+(2) Ha a tényállás tisztázása azt szükségessé teszi, a hatóság az ügyfelet nyilatkozattételre hívhatja fel. Ha az ügyfél a kérelmére indult eljárásban a hatóság felhívására nem nyilatkozik, a hatóság a rendelkezésre álló adatok alapján dönt, vagy a 31. § (2) bekezdése alapján megszünteti az eljárást.
 
 (2a) Ha az ügyfél cselekvőképtelen, személyes nyilatkozattételre csak akkor hívható fel, ha a nyilatkozatától várható bizonyíték más módon nem pótolható és ehhez a törvényes képviselője hozzájárul. A cselekvőképtelen személyt indokolt esetben a lakcímén kell meghallgatni.
 

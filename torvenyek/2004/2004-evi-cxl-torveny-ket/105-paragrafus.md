@@ -2,7 +2,7 @@
 
 (1a) A másodfokú döntés végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánítható, ha a fellebbezésre tekintet nélkül végrehajthatónak nyilvánítás feltételei fennállnak. A végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatóvá nyilvánításra a 101. § (6) bekezdése alkalmazandó.
 
-(2) Ha a másodfokú döntés meghozatalához nincs elég adat, vagy az első fokú döntés meghozatalát követően új tény merül fel, vagy egyébként a tényállás további tisztázása szükséges, a másodfokú döntést hozó hatóság a döntés megsemmisítése mellett az ügyben első fokú döntést hozó hatóságot végzésben új eljárásra utasíthatja, vagy a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
+(2) Ha a másodfokú döntés meghozatalához nincs elég adat, vagy az elsőfokú döntés meghozatalát követően új tény merül fel, vagy egyébként a tényállás további tisztázása szükséges, a másodfokú döntést hozó hatóság a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
 
 (3) Ha a másodfokú döntést hozó hatóság megállapítja, hogy az eljárásba további ügyfél bevonása szükséges, az első fokú döntést végzésben megsemmisíti, és az ügyben első fokú döntést hozó hatóságot új eljárásra utasítja.
 

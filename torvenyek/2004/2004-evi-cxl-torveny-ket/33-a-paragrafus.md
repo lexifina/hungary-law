@@ -4,4 +4,4 @@
 
 (3) Az (1), illetve a (2) bekezdés szerinti összeget a hatóság saját költségvetése terhére a fizetési kötelezettséget megállapító döntés jogerőssé válásától számított nyolc napon belül fizeti vissza az ügyfél számára, illetve fizeti meg a központi költségvetésnek.
 
-(4) Ha a fellebbezés elbírálására jogosult hatóság vagy a felügyeleti szerv megállapítja, hogy a hatóság indokolatlanul hosszabbította meg az ügyintézési határidőt, vagy az (1) bekezdésben foglalt feltételek teljesülése ellenére fizetési kötelezettségét nem teljesítette, a hatóságot az (1), illetve a (2) bekezdésben meghatározott összeg visszafizetésére, illetve megfizetésére kötelezi, és erről a kérelmező ügyfelet értesíti.
+(4)

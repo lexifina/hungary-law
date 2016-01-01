@@ -18,18 +18,22 @@ c) az ügy elbírálásához olyan adat vagy irat szükséges, amellyel más hat
 
 a) az (1) bekezdés a) és b) pontjában szabályozott esetben tizenöt napon belül,
 
-b) az (1) bekezdés c) pontjában szabályozott esetben nyolc napon belül,
+b) az (1) bekezdés c) pontjában szabályozott esetben öt napon belül,
 
 c)
 
-d) ha a megkeresésben kért adat elektronikusan rögzített nyilvántartásban áll rendelkezésre, és a hatóságok közötti elektronikus kapcsolattartás nem kizárt, öt napon belül
+d)
 
 kell teljesíteni.
 
 (5a) Ha a megkereső hatóság közvetlen elektronikus hozzáféréssel is rendelkezik az eljárásához szükséges adatot nyilvántartó szerv nyilvántartásához, az adatot a nyilvántartásból közvetlen lekérdezéssel szerzi meg, kivéve, ha a nyilvántartáshoz való hozzáférés üzemzavar vagy más elháríthatatlan esemény miatt az (5) bekezdés d) pont szerinti határidőn belül nem lehetséges.
 
-(6) A megkeresett szerv vezetője az (5) bekezdés szerinti határidőt – az (5) bekezdés d) pontjában foglalt határidő kivételével – annak letelte előtt indokolt esetben egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja. A megkeresett szerv az eljárási határidő meghosszabbításáról szóló végzését közli a megkereső hatósággal és az ügyféllel.
+(6)
 
 (7) Ha a megkeresett szerv vagy személy határidőre nem teljesíti a megkeresést, a megkereső hatóság – határidő tűzésével – tájékoztatást kér a megkeresett szervtől vagy személytől ennek okáról. Ha a megkeresett szerv vagy személy nem teljesíti a tájékoztatást, illetve az eljárási cselekmény elvégzésére irányuló megkeresés teljesítését továbbra is megtagadja vagy elmulasztja, akkor a megkereső hatóság – az (1) bekezdés c) pontjában foglalt esetet kivéve – jogosult a megkeresett szerv vagy személy egyidejű értesítése mellett az eljárási cselekményt elvégezni, továbbá ha a megkeresett szerv vagy személy felügyeleti szervvel rendelkező hatóság, akkor felügyeleti eljárást kezdeményez, egyéb esetben jelzi a mulasztást a szerv vezetőjének. A felügyeleti szerv tizenöt napon belül intézkedik.
 
 (8) A megkeresés teljesítésének (7) bekezdés szerinti elmaradásából eredő többletköltségeket a megkeresett szerv téríti meg.
+
+(9) Az (1) bekezdés a)–b) pontja szerinti esetekben a belföldi jogsegély iránti megkeresést kizárólag írásbelinek minősülő elektronikus úton vagy elektronikus levél útján lehet megküldeni.
+
+(10) A hatóságok az (1) bekezdés c) pontja szerinti esetben a belföldi jogsegély során kizárólag írásbelinek minősülő elektronikus úton vagy elektronikus levél útján tartanak kapcsolatot egymással.
