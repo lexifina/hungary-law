@@ -4,6 +4,6 @@
 
 (2) Az őrizet időtartamát – a (3) bekezdésben foglalt kivétellel – órákban kell számítani.
 
-(3)[^128] Ha a járásbíróság az őrizetet meghosszabbítja, azt napokban kell számítani. Az őrizet tartamába minden megkezdett nap beszámít.
+(3)[^129] Ha a járásbíróság az őrizetet meghosszabbítja, azt napokban kell számítani. Az őrizet tartamába minden megkezdett nap beszámít.
 
-[^128]: Az 57. § (3) bekezdése a 403/2012. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^129]: Az 57. § (3) bekezdése a 403/2012. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

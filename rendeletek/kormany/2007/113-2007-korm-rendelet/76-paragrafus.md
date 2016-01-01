@@ -2,6 +2,6 @@
 
 (2) A Tv. 60. § (1) bekezdése alapján rögzített arcképmás és ujjnyomat adatok tekintetében az adatfeldolgozó az idegenrendészetért és menekültügyért felelős miniszter rendeletében meghatározott szerv.
 
-(3)[^144] A Tv. 76/A. § (1) bekezdése, valamint 76/D. §-a alapján rögzített arcképmás és ujjnyomat adatok tekintetében az adatfeldolgozó a központi adatkezelő szerv.
+(3)[^145] A Tv. 76/A. § (1) bekezdése, valamint 76/D. §-a alapján rögzített arcképmás és ujjnyomat adatok tekintetében az adatfeldolgozó a központi adatkezelő szerv.
 
-[^144]: A 76. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 26. §-a iktatta be.
+[^145]: A 76. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 26. §-a iktatta be.
