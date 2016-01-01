@@ -10,4 +10,6 @@
 
 a) a körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés formájára és módjára vonatkozó szabályokat,
 
-b) a körözési eljárás lefolytatásának részletes eljárási szabályait.
+b) a körözési eljárás lefolytatásának részletes eljárási szabályait,
+
+c) – az államháztartásért felelős miniszter egyetértésével – a körözési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének szabályait.

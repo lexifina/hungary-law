@@ -24,8 +24,12 @@ h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárít�
 
 (4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
+(4a) A rendőrségről szóló törvényben meghatározott, az általános rendőrségi feladatok ellátására létrehozott szerv a törvényben meghatározott személy- és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+
 (5) A bíróság a holttá nyilvánítási eljárása során közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
 (6) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, az útlevélhatóság és a központi közúti közlekedési nyilvántartó szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából.
 
 (7) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából.
+
+(8) Az NBSZ a személyazonosítást elősegítő eszköz üzemeltetése során közvetlen hozzáféréssel jogosult átvenni a 8. § (1) bekezdésben meghatározott közérdekből nyilvános adatokat a körözött személy tartózkodási helyének meghatározása érdekében.

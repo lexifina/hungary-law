@@ -10,7 +10,7 @@ a) dolog: a számokból, betűkből, írásjelekből, matematikai műveleti jele
 
 b) európai elfogatóparancs: olyan igazságügyi hatósági határozat, amelyet az Európai Unió egy tagállamában bocsátanak ki, és azt a célt szolgálja, hogy egy másik európai uniós tagállam büntetőeljárás, szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából a keresett személyt elfogja és átadja, vagy a keresett tárgyat felkutassa, lefoglalja és átadja,
 
-c) kapcsolatba hozható személy: a körözési eljárás során a körözési eljárást lefolytató szerv által megjelölt, a körözött személy felkutatását elősegítő információval rendelkező személy,
+c) kapcsolatba hozható személy: a körözési eljárás során a körözést elrendelő vagy a körözési eljárást lefolytató szerv által megjelölt, a körözött személy felkutatását elősegítő információval rendelkező személy, személyazonossággal visszaélés esetén a személyazonossággal visszaélés áldozata,
 
 d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, valamint az elfogató parancs, európai elfogató parancs és a nemzetközi körözés,
 

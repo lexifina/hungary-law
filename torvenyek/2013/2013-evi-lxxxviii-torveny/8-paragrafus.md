@@ -17,3 +17,5 @@ meghatározott adat.
 (4) A (2) és (3) bekezdés szerinti esetben a körözés elrendelésének jogalapját, a bűncselekmény megnevezését, annak a büntető törvény szerinti minősítését nem lehet nyilvánosságra hozni.
 
 (5) Az (1)–(3) bekezdés szerinti közérdekből nyilvános adatokat a nyilvántartó a honlapján közzéteszi.
+
+(6) A Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ) jogosult rendszer-rendszer kapcsolat útján átvenni az (1) bekezdésben meghatározott közérdekből nyilvános adatokat és a személyazonosítást elősegítő informatikai rendszer alkalmazása során egyedi ügyhöz kapcsolódóan felhasználni. Az NBSZ az így átvett adatokat a körözés visszavonásáig kezeli.

@@ -8,7 +8,7 @@ alkalmazhatja.
 
 (2) A körözési eljárást lefolytató szerv a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 73. § (6) bekezdése, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 19. §-a, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 117. és 139. §-a alapján elrendelt körözés végrehajtása során
 
-a) az Rtv. 29. §, 30. §, 32. §, 35/A. §, 35/B. §, 40. §, 41. §, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése,
+a) az Rtv. 29. §, 30. §, 32. §, 33. §, 35/A. §, 35/B. §, 40. §, 41. §, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése,
 
 b) a 26. § (1) bekezdés b) pontja
 

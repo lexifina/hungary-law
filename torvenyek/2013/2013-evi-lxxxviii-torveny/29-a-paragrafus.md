@@ -1,0 +1,1 @@
+29/A. § A körözési eljárást lefolytató szerv jogosult az általa kezelt arcképmás adat felhasználásával a 8. § (1) bekezdésében meghatározott körözött személyek azonosítása és az eltűnt személyek felkutatása érdekében az arckép profil nyilvántartást kezelő szerv arcképelemző tevékenységét igénybe venni.
