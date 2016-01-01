@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-25-00-00
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2005-25-00-00.8 |
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2005-25-00-00.9 |
 | 2015-02-01 | 2014. évi LXXVIII. törvény | 2005-25-00-00.10 |
+| 2016-01-01 | 2014. évi LXXXVIII. törvény | 2005-25-00-00.11 |
