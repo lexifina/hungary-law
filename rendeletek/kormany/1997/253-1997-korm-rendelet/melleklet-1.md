@@ -106,13 +106,15 @@ d) amelynek a közterülettel vagy magánúttal közös határvonala legalább 3
 
 46. Hasznos alapterület: a nettó alapterületnek azon része, amelyen a belmagasság legalább 1,90 m.
 
+46a.[^384] Összes hasznos alapterület: az összes építményszint hasznos alapterülete.
+
 47. Hátsókert: az építési telek hátsó telekhatára és az e felé meghatározott építési határvonal (hátsókerti határvonal), valamint az oldalkertje(i) által határolt része.
 
 48. Helyiség: a rendeltetésének megfelelően épületszerkezettel minden irányból körülhatárolt, járófelülettel rendelkező tér, a beépítetlen tetőtér kivételével.
 
 49. Helyreállítás: újjáépítés, építmény rendeltetésszerű és biztonságos használatra alkalmassá tétele érdekében végzett felújítási tevékenység az építmény, építményrész eredeti építészeti kialakításának lehetséges megtartása mellett.
 
-50.[^384] Hitéleti rendeltetés: a vallási közösség vallási vagy azzal közvetlenül összefüggő más tevékenységéhez kapcsolódó használati cél.
+50.[^385] Hitéleti rendeltetés: a vallási közösség vallási vagy azzal közvetlenül összefüggő más tevékenységéhez kapcsolódó használati cél.
 
 51. Homlokzat: az építménynek a nézőpont felé eső legkülső pontjára illesztett függőleges felületre vetített, a terepcsatlakozása feletti része.
 
@@ -148,7 +150,7 @@ A gömb, félgömb, donga vagy sátortető alakú építmények („tetőépítm
 
 60. Kerítés: a telek területét a közterülettől, a telek közhasználat céljára átadott területétől, illetve a szomszédos telkek területétől vagy a telek különböző rendeltetésű vagy használatú részeit térben elválasztó, lehatároló építmény.
 
-61.[^385] Kerti építmény: a kerti tevékenységre, pihenésre, játékra, szórakozásra, kikapcsolódásra és tárolásra szolgáló műtárgy.
+61.[^386] Kerti építmény: a kerti tevékenységre, pihenésre, játékra, szórakozásra, kikapcsolódásra és tárolásra szolgáló műtárgy.
 
 62. Komposzttoalett: vízöblítés nélküli illemhely, amelyben a fekáliát, valamint szerves háztartási és kerti hulladékot zárt, hőszigetelt és szellőzéssel ellátott tartályban adalékanyag hozzáadásával, komposztálással humusszá alakítják.
 
@@ -198,7 +200,7 @@ A gömb, félgömb, donga vagy sátortető alakú építmények („tetőépítm
 
 85. Megújuló energiaforrás: megújuló, nem fosszilis forrásokból származó energia, nevezetesen szél-, nap-, aerotermikus, geotermikus, hidrotermikus energia, vízenergia, biomasszából, hulladéklerakó helyeken és szennyvíztisztító telepeken keletkező gázokból és biogázokból nyert energia.
 
-86.[^386] Melléképítmény: a telek és a telken álló főépítmény (főépítmények) rendeltetésszerű használatát, működtetését elősegítő, kiegészítő rendeltetésű építmény,:
+86.[^387] Melléképítmény: a telek és a telken álló főépítmény (főépítmények) rendeltetésszerű használatát, működtetését elősegítő, kiegészítő rendeltetésű építmény,:
 
 a) közmű-becsatlakozási műtárgy,
 
@@ -220,7 +222,7 @@ i) siló, ömlesztettanyag-, folyadék- és gáztároló,
 
 j) építménynek minősülő antennatartó szerkezet, zászlótartó oszlop.
 
-k)–l)[^387]
+k)–l)[^388]
 
 87. Mezőgazdasági birtoktest: a mezőgazdasági birtokközponthoz tartozó – a közigazgatási egységtől függetlenül – és attól legfeljebb 20 km-es távolságon belüli, az ingatlan-nyilvántartásban önálló helyrajzi számon bejegyzett termőföldterületek és az azokon lévő épületek által elfoglalt kivett területek összessége.
 
@@ -276,7 +278,7 @@ k)–l)[^387]
 
 113. Telek zöldfelülete: a teleknek a 25. § (1) bekezdése szerinti azon növényzettel borított területe (legkisebb zöldfelülete), ahol a termőtalaj és az eredeti altalaj, illetve a talajképző kőzet között nincs egyéb más réteg.
 
-114.[^388] Telek beépített területe: a telken álló épület 1,00 m-nél magasabbra emelkedő részeinek, az 1,00 m-es vízszintes síkban mért vetületi területeinek összege. A vetületi területek számítása során figyelmen kívül kell hagyni
+114.[^389] Telek beépített területe: a telken álló épület 1,00 m-nél magasabbra emelkedő részeinek, az 1,00 m-es vízszintes síkban mért vetületi területeinek összege. A vetületi területek számítása során figyelmen kívül kell hagyni
 
 a) mezőgazdasági, gazdasági és különleges beépítésre szánt területen a legfeljebb 9,00 m-es, egyéb területen a legfeljebb 4,50 m-es gerincmagasságú növényház (üvegház) és fóliasátor,
 
@@ -290,7 +292,7 @@ b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsa
 
 118. Település revitalizáció: a különösen értékes, elsősorban számos műemléki értékkel rendelkező, elavult, élettelen településrész „újraélesztése” a történeti érték megtartásával, minimális kiegészítő, nagyrészt helyreállító beavatkozással, szükség szerint rendeltetésmódosítással.
 
-119.[^389]
+119.[^390]
 
 120. Terasz: a rendezett terepen vagy épületrész zárófödémén kialakított helyiséghez, önálló rendeltetési egységhez vagy azok közös közlekedőihez kapcsolódó, járható szilárd burkolatú külső tartózkodótér.
 
@@ -336,9 +338,10 @@ b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsa
 [^381]: Az 1. számú melléklet 27. pontja a 314/2012. (XI. 8.) Korm. rendelet 55. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
 [^382]: Az 1. számú melléklet 28. pontja a 314/2012. (XI. 8.) Korm. rendelet 55. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
 [^383]: Az 1. melléklet 33. pontja a 275/2012. (IX. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^384]: Az 1. számú melléklet 50. pontja a 297/2013. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^385]: Az 1. számú melléklet 61. pontja a 394/2012. (XII. 20.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^386]: Az 1. számú melléklet 86. pont nyitó szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^387]: Az 1. számú melléklet 86. pont k)–l) pontját a 394/2012. (XII. 20.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
-[^388]: Az 1. számú melléklet 114. pont nyitó szövegrésze a 314/2012. (XI. 8.) Korm. rendelet 55. § l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^389]: Az 1. számú melléklet 119. pontját a 314/2012. (XI. 8.) Korm. rendelet 56. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^384]: Az 1. számú melléklet 46a. pontját a 456/2015. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^385]: Az 1. számú melléklet 50. pontja a 297/2013. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^386]: Az 1. számú melléklet 61. pontja a 394/2012. (XII. 20.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^387]: Az 1. számú melléklet 86. pont nyitó szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^388]: Az 1. számú melléklet 86. pont k)–l) pontját a 394/2012. (XII. 20.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
+[^389]: Az 1. számú melléklet 114. pont nyitó szövegrésze a 314/2012. (XI. 8.) Korm. rendelet 55. § l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^390]: Az 1. számú melléklet 119. pontját a 314/2012. (XI. 8.) Korm. rendelet 56. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 45–46. §-át.
