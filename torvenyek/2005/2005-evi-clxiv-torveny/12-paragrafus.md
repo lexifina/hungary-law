@@ -10,9 +10,9 @@ d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a 
 
 e) a tartós szálláshasználati szolgáltatási tevékenység folytatásának részletes feltételeit, a tartós szálláshasználati szolgáltatási tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban, illetve hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
-f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit és a szálláshely-üzemeltetési engedély kiadásának rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szállásadók tájékoztatási és adatszolgáltatási kötelezettségeit, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit és a szálláshely-üzemeltetési bejelentésnek rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szállásadók tájékoztatási és adatszolgáltatási kötelezettségeit, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
-g) az utazásszervezői és utazásközvetítői tevékenységre jogosító engedély kiadásának rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+g) az utazásszervezői és utazásközvetítői tevékenységre vonatkozó bejelentés rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
 h) a kereskedelmi hatóság vagy hatóságok kijelölését,
 
@@ -24,7 +24,7 @@ rendeletben állapítsa meg.
 
 a) egyes ipari, kereskedelmi tevékenységek végzéséhez szükséges szakképesítéseket,
 
-b) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+b) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre vonatkozó bejelentés rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
 c)
 

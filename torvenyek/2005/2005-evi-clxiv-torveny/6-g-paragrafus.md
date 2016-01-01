@@ -12,10 +12,10 @@ d) az idegenvezetői tevékenységet folytatókról,
 
 e) a lovas szolgáltató tevékenységet folytatókról,
 
-f) a szálláshely-üzemeltetési engedéllyel rendelkező szálláshelyekről,
+f) a szálláshely-szolgáltatási tevékenységet folytatókról,
 
 g) a tartós szálláshasználati szolgáltatási tevékenységet folytatókról,
 
-h) az engedéllyel rendelkező utazásszervezőkről és az utazásközvetítőkről
+h) a bejelentett utazásszervezőkről és az utazásközvetítőkről
 
 nyilvántartást vezet.

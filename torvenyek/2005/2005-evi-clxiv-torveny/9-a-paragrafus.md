@@ -6,7 +6,7 @@ a) nettó árbevétele több, mint fele napi fogyasztási cikk kiskereskedelmi �
 
 b) bármely két egymást követő üzleti évben elért nettó árbevétele mindkét üzleti évben külön-külön eléri a 15 milliárd forintot, és
 
-c) a mérleg szerinti eredménye a b) pont szerinti mindkét üzleti évben nulla vagy negatív,
+c) az adózott eredménye a b) pont szerinti mindkét üzleti évben nulla vagy negatív,
 
 a b) pont szerinti második üzleti év beszámolójának elfogadását követően nem folytathat napi fogyasztási cikk kiskereskedelmi értékesítésére vonatkozó tevékenységet.
 
