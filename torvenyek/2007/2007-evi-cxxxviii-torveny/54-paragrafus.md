@@ -4,7 +4,7 @@
 
 a) azzal bennfentes kereskedelmet vagy piacbefolyásolást valósítana meg,
 
-b) az jogszabályba vagy a szabályozott piac, a szabályozott piacra vonatkozó feltételeknek megfelelő harmadik országbeli tőzsde, elszámolóház, elszámolóházi tevékenységet végző szervezet, központi szerződő fél vagy központi értéktár szabályzatának rendelkezésébe ütközne,
+b) az jogszabályba vagy a szabályozott piac, a szabályozott piacra vonatkozó feltételeknek megfelelő harmadik országbeli tőzsde, központi szerződő fél vagy központi értéktár szabályzatának rendelkezésébe ütközne,
 
 c) a leendő szerződő fél, illetőleg az ügyfél személyazonosságának igazolását vagy az azonosítást megtagadta, valamint ha a személyazonosság vagy az azonosítás más okból sikertelen volt,
 

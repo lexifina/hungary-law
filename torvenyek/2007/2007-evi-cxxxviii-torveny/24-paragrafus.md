@@ -6,7 +6,7 @@ b) pénzügyi intézménynél,
 
 c) értéktőzsdén, árutőzsdén,
 
-d) elszámolóházi tevékenységet végző szervezetnél,
+d)
 
 e) befektetési alap-kezelőnél,
 

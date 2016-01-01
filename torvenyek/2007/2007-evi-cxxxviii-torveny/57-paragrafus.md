@@ -21,3 +21,5 @@ b) azok alapján bármikor, késedelem nélkül biztosítható legyen az ügyfé
 (8) A (7) bekezdés rendelkezéseit kell alkalmazni a hitelintézet befektetési szolgáltatási tevékenysége végzésével vagy kiegészítő szolgáltatása nyújtásával kapcsolatban fizetési számla követelésen alapított óvadék esetére is.
 
 (9) Óvadék esetén, ha annak tárgya olyan pénzügyi eszköz, amely nyilvános forgalmi értékkel, vagy az adott időpontban felektől függetlenül meghatározható értékkel nem rendelkezik, a zálogjogosult a Ptk. 5:138. § (1) bekezdésében meghatározott jogával akkor élhet, ha a pénzügyi eszköz értékelési módjáról a zálogszerződésben megállapodott.
+
+(10) A befektetési vállalkozás biztosítani köteles, hogy alkalmazottja vagy a munkavégzésre irányuló egyéb jogviszony keretében általa foglalkoztatott más személy az ügyfél részére vezetett ügyfélszámla, értékpapírszámla fölött az ügyfél képviselőjeként – a jogszabályon, bírósági vagy hatósági határozaton, létesítő okiraton alapuló képviseleti jogosultság kivételével – rendelkezési jogot nem gyakorolhat.

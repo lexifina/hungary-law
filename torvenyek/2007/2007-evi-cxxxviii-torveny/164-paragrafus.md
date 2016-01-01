@@ -6,7 +6,7 @@
 
 a) az e törvényben, e törvény szerinti szabályzatban vagy a Felügyelet határozatában foglaltak megsértése, illetőleg figyelmen kívül hagyása esetében a befektetési vállalkozást, az árutőzsdei szolgáltatót, a multilaterális kereskedési rendszer működtetőjét, a befektetési vállalkozás, az árutőzsdei szolgáltató, a multilaterális kereskedési rendszer működtetőjének vezető állású személyét és tulajdonosát figyelmezteti, illetőleg – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja,
 
-b) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás és árutőzsdei szolgáltató tevékenységének e tevékenységek végzésére, illetőleg szolgáltatások nyújtására jogosító engedély nélküli folytatását megtilthatja,
+b) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, az árutőzsdei szolgáltató és a közvetítő tevékenységének e tevékenységek végzésére, illetőleg szolgáltatások nyújtására jogosító engedély nélküli vagy bejelentés hiányában történő folytatását megtilthatja,
 
 c) a Felügyelet által kirendelt szakértő, illetve felügyeleti biztos közreműködésével kapcsolatban felmerült költségek megtérítésére kötelezhet,
 

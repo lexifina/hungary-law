@@ -23,3 +23,5 @@ a) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató minden
 b) az ügyfél által átadott vagy az ügyfelet megillető pénzügyi eszköz és pénzeszköz állományának, illetőleg összegének minden időpontban történő megállapítására, és
 
 c) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató jogszabályban előírt adatszolgáltatási kötelezettségének teljesítésére.
+
+(3) Az MNB elnöke a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében a hatékony és eredményes kockázatkezelés elősegítése érdekében rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.

@@ -10,7 +10,7 @@ c) a járulékos vállalkozásban történő befolyásszerzést, illetőleg a be
 
 d) a 22–24. §-ban meghatározott személyi körben bekövetkezett változást,
 
-e) a közvetítővel kötött szerződés megkötését, módosítását és megszűnését,
+e) a közvetítővel kötött szerződés megszűnését,
 
 f) fióktelepének, képviseletének helyét, megnyitását és megszűnését,
 

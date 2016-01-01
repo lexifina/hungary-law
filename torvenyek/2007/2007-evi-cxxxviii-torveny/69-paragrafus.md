@@ -1,4 +1,4 @@
-69. § (1) A befektetési vállalkozás – figyelemmel a (2) bekezdésben foglaltakra – befektetési szolgáltatási tevékenysége keretében kezelt, az ügyfél tulajdonában lévő vagy őt megillető pénzügyi eszközről és pénzeszközről legalább évente, a (3) bekezdésben meghatározott tartalommal jelentést készít és azt írásban vagy más tartós adathordozón az ügyfél rendelkezésére bocsátja.
+69. § (1) A befektetési vállalkozás – figyelemmel a (2) bekezdésben foglaltakra – befektetési szolgáltatási tevékenysége keretében kezelt, az ügyfél tulajdonában lévő vagy őt megillető pénzügyi eszközről és pénzeszközről havonta, a hónap utolsó napjára vonatkozóan, a (3) bekezdésben meghatározott tartalommal jelentést készít és azt írásban vagy más tartós adathordozón az ügyfél rendelkezésére bocsátja a tárgyhónapot követő hónap 10. munkanapjáig.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a befektetési szolgáltatási tevékenységet hitelintézet végzi, és az a hitelintézetnél elhelyezett, Hpt. szerinti betétet érinti.
 

@@ -57,3 +57,5 @@ szemben.
 (8) Nem jelenti az üzleti titok megsértését a Hpt.-ben és az e törvényben meghatározott összevont alapú felügyeletre vonatkozó rendelkezések, valamint a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás.
 
 (9) Nem jelenti az üzleti titok sérelmét a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független értékelőnek vagy az ideiglenes értékelésben közreműködőnek az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során adatok, információk átadása a lehetséges ajánlattevőknek, valamint a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
+
+(10) Nem jelenti az üzleti titok sérelmét a Felügyelet által történő, az MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítás.

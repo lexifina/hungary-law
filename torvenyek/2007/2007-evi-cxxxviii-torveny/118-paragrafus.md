@@ -12,7 +12,7 @@ c) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató ügyf�
 
 a) a hatáskörében eljáró Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal,
 
-b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, az Áht. 63. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, központi szerződő féllel, központi értéktárral, az Áht. 63. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 
 c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 
@@ -50,7 +50,9 @@ e) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az Art
 
 f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól,
 
-g) a befektetési szolgáltatási tevékenységet végző, kiegészítő befektetési szolgáltatást vagy árutőzsdei szolgáltatást nyújtó a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítése céljából az állami adóhatóság felé szolgáltat adatot.
+g) a befektetési szolgáltatási tevékenységet végző, kiegészítő befektetési szolgáltatást vagy árutőzsdei szolgáltatást nyújtó a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítése céljából az állami adóhatóság felé szolgáltat adatot,
+
+h) a befektetési szolgáltatási tevékenységet végző, kiegészítő befektetési szolgáltatást vagy árutőzsdei szolgáltatást nyújtó az Aktv. 43/H. §-ában foglalt kötelezettség teljesítése céljából az állami adóhatóság felé szolgáltat adatot.
 
 (5) A (4) bekezdés szerinti írásbeli megkeresésben meg kell jelölni
 

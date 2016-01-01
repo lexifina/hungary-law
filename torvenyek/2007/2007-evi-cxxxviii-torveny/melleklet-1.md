@@ -4,7 +4,7 @@
 
 2. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
 
-3. Bit.: a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény,
+3. Bit.: a biztosítási tevékenységről szóló törvény,
 
 4. Btk.: a Büntető Törvénykönyvről szóló 2012. évi C. törvény,
 

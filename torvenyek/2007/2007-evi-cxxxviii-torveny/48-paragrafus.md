@@ -16,7 +16,7 @@ g) a kockázati tőkealap és a kockázati tőkealap-kezelő,
 
 h) a magánnyugdíjpénztár és az önkéntes kölcsönös biztosító pénztár,
 
-i) az elszámolóházi tevékenységet végző szervezet,
+i)
 
 j) a központi értéktár,
 

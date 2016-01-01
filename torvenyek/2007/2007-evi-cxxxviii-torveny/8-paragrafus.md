@@ -4,7 +4,7 @@
 
 (3) A más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén határon átnyúló tevékenységet akkor végezhet vagy fióktelepet akkor létesíthet, ha rendelkezik a hatáskörrel bíró felügyeleti hatóságnak az adott tevékenység végzésére jogosító engedélyével és a 27. § (5) bekezdésében, illetve a 27. § (8) bekezdésében meghatározott feltételek teljesültek.
 
-(4) Kiegészítő szolgáltatás nyújtására vonatkozó engedély – kivéve ha a kérelmező a Tpt. szerinti elszámolóház vagy központi értéktár – befektetési szolgáltatási tevékenység végzésére jogosító engedély nélkül, önállóan nem szerezhető.
+(4) Kiegészítő szolgáltatás nyújtására vonatkozó engedély – kivéve ha a kérelmező a Tpt. szerinti központi értéktár – befektetési szolgáltatási tevékenység végzésére jogosító engedély nélkül, önállóan nem szerezhető.
 
 (5) A befektetési vállalkozás befektetési szolgáltatási tevékenység végzése és kiegészítő szolgáltatás nyújtása mellett kizárólag
 
@@ -14,7 +14,7 @@ b) részvénykönyvvezetést,
 
 c) részvényesi meghatalmazotti (nominee) tevékenységet,
 
-d) a Hpt. 3. § (1) bekezdésének h) pontja szerinti pénzügyi szolgáltatás közvetítése tevékenységet,
+d) a Hpt. 3. § (1) bekezdésének i) pontja szerinti pénzügyi szolgáltatás közvetítése tevékenységet,
 
 e) a Bit. szerinti biztosításközvetítést ügynökként,
 

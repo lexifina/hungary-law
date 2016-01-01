@@ -14,7 +14,7 @@ c) a nyilatkozatot, amely szerint tevékenységét függő ügynökként kíván
 
 d) a 116. §-ban foglaltak alátámasztását szolgáló okiratokat,
 
-e) a megbízóval kötött szerződés tervezetét.
+e) a megbízóval kötött szerződést.
 
 (5) A Felügyelet a (3) bekezdés szerinti nyilvántartásba vétel iránti kérelmet elutasítja, ha
 

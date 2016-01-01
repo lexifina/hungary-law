@@ -14,7 +14,9 @@ e) Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve
 
 f) az Európai Parlament és a Tanács 2013/36/EU irányelve (2013. június 26.) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/EK irányelv hatályon kívül helyezéséről,
 
-g) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
+g) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról,
+
+h) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
 
 (2) Ez a törvény
 

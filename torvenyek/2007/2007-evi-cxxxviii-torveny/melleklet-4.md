@@ -4,7 +4,15 @@ Javadalmazási politika
 
 1. A befektetési vállalkozás méretének, belső szervezete és tevékenysége jellegének, körének és összetettségének megfelelő módon és mértékben belső szabályzatban meghatározott javadalmazási politikával rendelkezik.
 
-2. A javadalmazási politika hatálya a befektetési vállalkozás vezető állású személyeire, a belső szabályzatban meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalókra – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – és az előzőekkel azonos javadalmazási kategóriába tartozó azon munkavállalókra terjed ki, akiknek a tevékenysége lényeges hatást gyakorol a befektetési vállalkozás kockázatvállalására.
+2. A javadalmazási politika hatálya kiterjed a befektetési vállalkozás:
+
+a) vezető állású személyeire,
+
+b) belső szabályzatában meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalóira – ideértve a belső kontroll feladatkört ellátó munkavállalókat is –
+
+c) a) vagy b) pontba tartozó személyeivel azonos javadalmazási kategóriába tartozó munkavállalóira, akiknek a tevékenysége lényeges hatást gyakorol a befektetési vállalkozás kockázati profiljára, valamint
+
+d) azon munkavállalóira, akiknek a tevékenysége lényeges hatást gyakorol a befektetési vállalkozás kockázati profiljára.
 
 3. A javadalmazási politika összhangban áll a hatékony és eredményes kockázatkezeléssel, elősegíti annak alkalmazását, és nem ösztönözhet a befektetési vállalkozás kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politika a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban áll, valamint az érdekkonfliktus elkerülését célzó intézkedéseket tartalmaz.
 
@@ -19,23 +27,3 @@ Javadalmazási politika
 8. A befektetési vállalkozás az alapjavadalmazás legfeljebb 200 százalékát elérő teljesítményjavadalmazást alkalmazhat, ha
 
 a) a befektetési vállalkozás közgyűlése arra felhatalmazást ad,
-
-b) a közgyűlésen megtárgyalt előterjesztés részletesen feltünteti a magasabb teljesítményjavadalmazás indoklását,
-
-c) a közgyűlésen a befektetési vállalkozás tagjainak támogató határozata
-
-ca) legalább 66 százalékos többségű, amely a tulajdoni jogok legalább 50 százalékát jeleníti meg, vagy
-
-cb) legalább a képviselt tulajdoni jogok 75 százalékos többségével kerül elfogadásra, és
-
-d) a befektetési vállalkozás tájékoztatja a Felügyeletet a közgyűlés előterjesztéséről, valamint a c) pont alapján hozott határozatról.
-
-9. A 8. pont b) alpontja szerinti előterjesztés tartalmazza:
-
-a) a magasabb alapjavadalmazás-teljesítményjavadalmazás arány szükségességének indoklását,
-
-b) a javasolt maximális arányt,
-
-c) az érintett vezető állású személyek és munkavállalók számára, beosztására vonatkozó adatokat, valamint
-
-d) a befektetési vállalkozás stabil tőkealapjának fenntartására vonatkozó követelményre gyakorolt hatást.

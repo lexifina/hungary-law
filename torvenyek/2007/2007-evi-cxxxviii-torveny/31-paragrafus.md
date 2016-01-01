@@ -2,7 +2,7 @@
 
 a) az engedély kiadásának feltételei már nem állnak fenn, és azok hat hónapon belül nem pótolhatók,
 
-b) a hitelintézet tevékenység végzésére jogosító engedélyét, az alapkezelő Tpt. 229. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét, a biztosító Bit. 63. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét visszavonta, kivéve a (3) bekezdésben foglalt esetet,
+b) a hitelintézet tevékenység végzésére jogosító engedélyét, az alapkezelő Tpt. 229. § (1) bekezdése szerinti, tevékenység végzésére jogosító engedélyét, a biztosító tevékenység végzésére jogosító engedélyét visszavonta, kivéve a (3) bekezdésben foglalt esetet,
 
 c) a befektetési vállalkozás nem vitatott tartozását az esedékességet követő öt napon belül nem egyenlítette ki, és vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet,
 
@@ -20,7 +20,7 @@ i) a befektetési vállalkozás a tőkemegfelelési követelményeknek a Felügy
 
 j) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő módon szerezték meg.
 
-(2) Az (1) bekezdés b) pontja kivételével a Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedélyt akkor vonja vissza, ha az engedéllyel rendelkező az ügyfelével szemben fennálló elismert kötelezettségeinek eleget tett vagy szerződéseinek teljesítését más befektetési vállalkozás átvállalta. A Felügyelet meghatározhatja azokat a feltételeket és előírásokat, amelyek teljesítéséig a befektetési vállalkozás tevékenységét – az arra vonatkozó szabályok szerint – köteles folytatni.
+(2) Az (1) bekezdés b) és c) pontja kivételével a Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedélyt akkor vonja vissza, ha az engedéllyel rendelkező az ügyfelével szemben fennálló elismert kötelezettségeinek eleget tett vagy szerződéseinek teljesítését más befektetési vállalkozás átvállalta. A Felügyelet meghatározhatja azokat a feltételeket és előírásokat, amelyek teljesítéséig a befektetési vállalkozás tevékenységét – az arra vonatkozó szabályok szerint – köteles folytatni.
 
 (3) Ha a Felügyelet olyan hitelintézet tevékenység végzésére jogosító engedélyét vonja vissza, amely befektetési szolgáltatási tevékenység végzésére jogosító engedéllyel is rendelkezik, és az engedély visszavonásakor megfelel a befektetési vállalkozásra vonatkozó szabályoknak, a Hpt. szabályai szerint befektetési vállalkozássá alakulhat át.
 

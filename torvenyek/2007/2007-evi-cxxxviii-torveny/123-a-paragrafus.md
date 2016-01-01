@@ -1,4 +1,4 @@
-123/A. § (1) A befektetési vállalkozás, ha az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozik akkor legalább évente egyszer nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonként és harmadik országonkénti bontásban)
+123/A. § (1) A befektetési vállalkozás, ha az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozik akkor legalább évente egyszer összevont alapon nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonként és harmadik országonkénti bontásban)
 
 a) a befektetési vállalkozás nevét, tevékenységek jellegét és földrajzi tagozódását,
 
@@ -14,13 +14,13 @@ f) a kapott állami támogatást.
 
 (2) A befektetési vállalkozás egyedi alapon nyilvánosságra hozza az adózott eredmény és a mérlegfőösszeg hányadosaként kifejezett eszközarányos jövedelmezőségi mutatóját.
 
-(3) A befektetési vállalkozás egyedi alapon legalább évente eleget tesz az 575/2013/EU európai parlamenti és tanácsi rendelet Nyolcadik részében meghatározott nyilvánosságra hozatali követelménynek, azzal, hogy a Felügyelet ennél gyakoribb nyilvánosságra hozatalról is dönthet, ha az intézmény tevékenységi volumene, tevékenységi köre, más országban folytatott tevékenysége, különböző pénzügyi szektorokban folytatott tevékenysége, nemzetközi pénzügyi piacon való részvétele, illetve a klíring- és elszámolási rendszerekben való részvétele indokolja azt.
+(3) A Felügyelet az 575/2013/EU rendelet Nyolcadik részében meghatározott információk évesnél gyakoribb nyilvánosságra hozataláról is dönthet, ha a befektetési vállalkozás tevékenységi volumene, tevékenységi köre, más országban folytatott tevékenysége, különböző pénzügyi szektorokban folytatott tevékenysége, nemzetközi pénzügyi piacon való részvétele, illetve a klíring- és elszámolási rendszerekben való részvétele indokolja azt.
 
-(4) A magyarországi székhelyű tagállami anyavállalat és tagállami pénzügyi holding társaság anyavállalat legalább évente nyilvánosságra hozza – az 575/2013/EU rendeletben foglaltakon kívül – a jogi, vállalatirányítási és szervezeti struktúráját, valamint javadalmazási politikáját is.
+(4) A befektetési vállalkozás anyavállalat és a pénzügyi holding társaság anyavállalat legalább évente nyilvánosságra hozza a jogi, vállalatirányítási és szervezeti struktúráját, valamint javadalmazási politikáját.
 
 (5) A befektetési vállalkozás nyilvánosságra hozatali kötelezettségét honlapján vagy azon az internetes felületen teljesíti, amelyen az éves számviteli beszámolóját hozza nyilvánosságra.
 
-(6) A befektetési vállalkozás köteles a Felügyelet által vele szemben hozott határozat rendelkező részét honlapján közzétenni. Ha a befektetési vállalkozás nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
+(6) A befektetési vállalkozás köteles a Felügyelet által vele szemben hozott határozat rendelkező részét – az MNBtv. 53. §-ában meghatározott rendelkezések figyelembevételével – az adott határozat közlésétől számított 15 napon belül a honlapján közzétenni. Ha a befektetési vállalkozás nem rendelkezik honlappal, akkor a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
 
 (7) A (6) bekezdésben meghatározott közzétételi kötelezettség az adott határozat közlésétől számított öt évig áll fenn.
 

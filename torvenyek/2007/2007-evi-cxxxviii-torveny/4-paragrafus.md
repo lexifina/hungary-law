@@ -44,7 +44,7 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 16. EGT-állambeli pénzügyi holding társaság anyavállalat: olyan pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik,
 
-17. elismert elszámolóház: EGT-államban vagy az OECD tagállamában működő, a székhely szerinti ország jogszabálya vagy felügyeleti hatósága által elismertnek minősített, az elszámolásforgalom lebonyolítását végző pénzügyi intézmény, illetve a Tpt.-ben meghatározott elszámolóházi tevékenységet végző szervezet, amely esetében – ha származtatott ügyletek elszámolását is végzi – az elszámolási rendszer a székhely szerinti ország felügyeleti hatósága szerint biztosítja, hogy a származtatott ügyletek esetében az elszámolóházi szolgáltatást igénybe vevő a kötelezettségének megfelelő napi letét elhelyezési követelményének eleget tegyen,
+17. elismert elszámolóház: EGT-államban vagy az OECD tagállamában működő, a székhely szerinti ország jogszabálya vagy felügyeleti hatósága által elismertnek minősített, az elszámolásforgalom lebonyolítását végző pénzügyi intézmény, illetve központi szerződő fél tevékenységet végző szervezet,
 
 18.
 

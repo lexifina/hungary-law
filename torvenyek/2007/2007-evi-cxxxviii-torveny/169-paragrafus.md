@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdés szerinti felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a befektetési vállalkozás, illetve árutőzsdei szolgáltató igazgatósági tagjainak a Ptk. jogi személyekre vonatkozó rendelkezései szerinti felelőssége fennmarad.
 
-(4) Az igazgatóság teljes jogkörét átvevő felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja a Ptk. jogi személyekre vonatkozó rendelkezéseiben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit.
+(4) Az igazgatóság teljes jogkörét átvevő felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja a Ptk. jogi személyekre vonatkozó rendelkezéseiben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos azzal a korlátozással gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit, hogy a közgyűlés összehívását, valamint meghatározott napirendi pontjainak meghatározását kizárólag a Felügyelet egyetértésével kezdeményezheti.
 
 (5) Az irányítási jogkört részben átvevő felügyeleti biztos kirendelése esetén a befektetési vállalkozás, illetve az árutőzsdei szolgáltató igazgatósága a jogkörét csak annyiban gyakorolhatja, amennyiben az adott jogkört a felügyeleti biztost kirendelő határozat nem utalja a felügyeleti biztos jogkörébe.
 

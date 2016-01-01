@@ -26,7 +26,7 @@ rendeletben állapítsa meg.
 
 a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire,
 
-b) a 22/B. § (1) bekezdés c) pontjában meghatározott hatósági képzésre, a hatósági képzés során szerzett tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
+b) a hatósági képzésre, a hatósági képzés során szerzett tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
 
 vonatkozó részletes szabályokat.
 
@@ -65,3 +65,7 @@ n) 400. cikk (2) bekezdésének megfelelően a nagykockázat-vállalási korlát
 o) 416. cikk (5) bekezdésének megfelelően a magas és rendkívül magas likviditású és hitelminőségű eszközök körét.
 
 (5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a teljesítmény-javadalmazás diszkontált értékének számításával, nyilvántartásával és közzétételével összefüggő szabályokat.
+
+(6) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.
+
+(7) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza az ügyfél- és partnerminősítés, valamint a fedezetértékelés prudenciális követelményeit.
