@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-53-00-00
 | 2014-03-31 | 2013. évi XXVI. törvény | 1996-53-00-00.36 |
 | 2014-05-01 | 2013. évi CCXII. törvény | 1996-53-00-00.37 |
 | 2015-04-01 | 2015. évi VI. törvény | 1996-53-00-00.38 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 1996-53-00-00.39 |
