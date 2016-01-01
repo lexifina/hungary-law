@@ -7,3 +7,11 @@
 (3) Jármű egyedi előállításához (összeépítéséhez), átalakításához, forgalomba helyezéséhez a közlekedési hatóság előzetes engedélye szükséges.
 
 (4) A közlekedési hatóság az engedélyezett járműtípusok, valamint a jóváhagyott alkatrészek, tartozékok és önálló műszaki egységek típus-meghatározó műszaki adatairól nyilvántartást vezet.
+
+(5) Az engedélyezett járműtípusokkal, valamint a jóváhagyott alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrzésekre a közlekedési hatóság
+
+a) a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendelet,
+
+b) a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló,
+
+2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendelet szerinti műszaki szolgálatot jelöl ki.

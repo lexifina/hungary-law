@@ -25,3 +25,7 @@ a) a jogosult szervezetek munkavégzését a kezelésükben lévő útszakaszoko
 b) a jogosult szervezetek tevékenységének ellátásához az általuk kezelt közúton a szükséges biztonsági és biztosítási feladatokat elvégezni,
 
 c) a jogosult szervezetek erre irányuló kérése esetén konzultációt folytatni és a kért felvilágosítást megadni.
+
+(7) A Komplex Közlekedési Ellenőrző Pontok üzemeltetését a közút kezelője – az általános rendőrségi feladatok ellátására létrehozott szerv központi szervével kötött megállapodásban foglaltak alapján – végzi.
+
+(8) A Komplex Közlekedési Ellenőrző Pontok megvalósítása és üzemeltetése során az (1) bekezdés szerinti közútkezelő szervezetek együttműködésére a (6) bekezdésben foglaltakat alkalmazni kell.

@@ -24,7 +24,7 @@ a) a Kormány, hogy
 
 9. a közúti közlekedés szabályait,
 
-10. a típusvizsgáló engedélyezésének részletes eljárási szabályait, a típusvizsgálóval kötendő hatósági szerződés tartalmát,
+10. a típusvizsgáló engedélyezésének részletes eljárási szabályait, a típusvizsgálóval kötendő hatósági szerződés tartalmát, továbbá az engedélyezett járműtípusokkal, a jóváhagyásra kötelezett alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrzésekre kijelölt műszaki szolgálatokra vonatkozó követelményeket és a kijelölés eljárási szabályait,
 
 11. a közúti szállítmányozási tevékenység szabályait,
 
@@ -118,7 +118,7 @@ b) a miniszter, hogy
 
 18. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályait,
 
-19. a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendeletben foglaltak végrehajtási szabályait,
+19. a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak végrehajtási szabályait,
 
 20. a veszélyes áruk szállításának és szállításra való feladásának szabályait a vonatkozó nemzetközi szerződésekkel összhangban,
 
@@ -158,7 +158,25 @@ b) a miniszter, hogy
 
 38. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó jogszabályi szintű szabályozást nem igénylő műszaki előírások, útmutatók megalkotására és kiadására, közzétételére vonatkozó eljárási szabályokat,
 
-39. a csatlakozási díj meghatározásának elveit, mértékét, a kezelői hozzájárulás kiadásának feltételeit
+39. a csatlakozási díj meghatározásának elveit, mértékét, a kezelői hozzájárulás kiadásának feltételeit,
+
+40. az engedélyezett járműtípusokkal, valamint a jóváhagyott alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos piacfelügyeleti eljárás szabályait,
+
+41. az engedélyezett járműtípusokkal, valamint a jóváhagyott alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrző vizsgálatokat végző, a közlekedési hatóság által kijelölt műszaki szolgálatok működési feltételeit,
+
+42. az engedélyezett járműtípusokkal, valamint a jóváhagyott alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrzések és tájékoztatások ellátására kijelölt szervezetek működési feltételeit,
+
+43. a menetíró ellenőrök képzésére és továbbképzésére vonatkozó részletes eljárási szabályokat,
+
+44. a menetíró készülékek használatával összefüggő hatósági ellenőrzések során keletkezett személyazonosító adatok rögzítése, feldolgozásának és az adatszolgáltatás technikai feltételeit, valamint a globális navigációs műhold-rendszer használatával kapcsolatos eljárási szabályokat,
+
+45. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberekre, valamint az ilyen járműfenntartó szervezetekre vonatkozó követelményeket,
+
+46. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberek, valamint járműfenntartó szervezetek ellenőrzésével (auditálásával) kapcsolatos feladatokat,
+
+47. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberek, járműfenntartó szervezetek, menetíró készülék gyártását végző szervezetek, menetíró készülék beépítését végző jármű-gyártók tevékenységének engedélyezésére és ezzel összefüggő nyilvántartásra, nemzeti és nemzetközi adatközlésre vonatkozó feltételeket,
+
+48. a menetíró készülék beépítését, vizsgálatát, javítását végző szakemberek, járműfenntartó szervezetek és a velük kapcsolatban álló közúti áruszállítást végző vállalkozások közötti összeférhetetlenséggel kapcsolatos rendelkezéseket
 
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
@@ -188,7 +206,7 @@ j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adó
 
 k) a miniszter, hogy az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben az utak más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait,
 
-l) a miniszter, hogy a közúti közlekedési ágazatban használt önjáró emelő- és rakodógépek kezelőinek képzésére és vizsgáztatására vonatkozó szabályokat az iparügyekért és a kereskedelemért felelős miniszterrel egyetértésben,
+l) a miniszter, hogy a közúti áruszállításhoz kapcsolódó árumozgatásra alkalmas gépek, továbbá a járműre szerelt, önjáró, vagy vontatott, valamint a közutak építéséhez, fenntartásához használt emelő-, rakodó- és útépítő gépek kezelőinek képzésére és vizsgáztatására vonatkozó szabályokat az iparügyekért és a kereskedelemért felelős miniszterrel egyetértésben,
 
 m) a közlekedésért felelős miniszterrel egyetértésben
 
@@ -196,11 +214,13 @@ ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katona
 
 mb) az egyes rendvédelmi szerveket irányító miniszter, hogy – az Információs Hivatal kivételével – a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
 
-mc) a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter, hogy a Nemzeti Adó- és Vámhivatal állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket;
+mc) a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy a Nemzeti Adó- és Vámhivatal állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket;
 
-n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység engedélyezésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység bejelentésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
 
-o) a közlekedésrendészetért felelős miniszter, hogy a 21/B. § (3) bekezdésben említett formanyomtatványt
+o) a közlekedésrendészetért felelős miniszter, hogy a 21/B. § (3) bekezdésben említett formanyomtatványt,
+
+p) a miniszter, hogy a közúti jármű előéleti nyilvántartás vezetésével kapcsolatos feltételeket
 
 rendeletben állapítsa meg.
 

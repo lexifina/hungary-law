@@ -14,17 +14,13 @@ e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott k
 
 (2)–(3)
 
-(4) A közlekedési hatóságnál a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott árufuvarozásra és személygépkocsival, autóbusszal végzett személyszállításra vonatkozó engedélyek kiadásával, módosításával és visszavonásával kapcsolatos ügyekben a kérelem elektronikus úton nem terjeszthető elő.
+(4) A közlekedési hatóságnál a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott árufuvarozásra és személygépkocsival, autóbusszal végzett személyszállításra vonatkozó engedélyek kiadásával, módosításával és visszavonásával kapcsolatos ügyekben – ha kormányrendelet ettől eltérően nem rendelkezik – a kérelem elektronikus úton nem terjeszthető elő.
 
-(5) A közúti áruszállítást végző jármű megrakásához alkalmazott, a járműre szerelt vagy önjáró emelő- és rakodógépet csak a külön jogszabályban meghatározott képesítéssel rendelkező, 18. életévét betöltött, egészségügyi szempontból alkalmas személy kezelheti.
+(5) A közúti áruszállításhoz kapcsolódó árumozgatásra alkalmas gépeket, a járműre szerelt továbbá a közutak építéséhez, fenntartásához használt, önjáró vagy vontatott emelő-, rakodó- és útépítő gépet csak a külön jogszabályban meghatározott képesítéssel rendelkező, 18. életévét betöltött, emelő-, rakodó- és útépítő gép kezelésére egészségügyi szempontból alkalmas személy kezelheti.
 
 (6) Közúti közlekedési szolgáltatást végző vállalkozás vezetője és szakmai irányítója csak olyan személy lehet, aki büntetlen előéletű.
 
-(7) Közúti közlekedési szolgáltatást végző vállalkozás vezetője és szakmai irányítója a tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a közlekedési hatóság részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy kéri, hogy e tény fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a közlekedési hatóság részére – a tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a közlekedési hatóság a (8) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(8) A közlekedési hatóság hatósági ellenőrzés keretében ellenőrzi, hogy a közúti közlekedési szolgáltatást végző vállalkozás vezetője és szakmai irányítója büntetlen előéletű. A hatósági ellenőrzés céljából a közlekedési hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a közúti közlekedési szolgáltatást végző vállalkozás vezetője és szakmai irányítója büntetlen előéletű-e.
-
-(9) A (7) és (8) bekezdés alapján megismert személyes adatokat a közlekedési hatóság a tevékenység engedélyezése iránti kérelem elbírálása iránti eljárás jogerős befejezéséig vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+(7)–(9)
 
 (10) A közlekedési hatóság az uniós jogi aktusban, az e törvényben, valamint e törvény alapján kiadott jogszabályban meghatározott engedélyhez, vagy meghatározott okmány meglétéhez kötött közúti közlekedési szolgáltatással, valamint saját számlás áru- és személyszállítással kapcsolatban az engedélyezési eljárás, a tevékenység ellenőrzése, az engedély felfüggesztése, vagy visszavonása, és az ezzel összefüggő szankciók megállapítása, az uniós jogi aktusban meghatározott járművezetői igazolvány kibocsátása, megtagadása és visszavonása során
 

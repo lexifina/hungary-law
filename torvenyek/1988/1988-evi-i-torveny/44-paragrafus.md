@@ -14,7 +14,7 @@ e) a járművek összeépítésére és átalakítására vonatkozó előíráso
 
 f) a járműfenntartó tevékenység folytatása feltételeinek megtartására,
 
-g) a közutak állapotára, tisztaságára, nem közlekedési célú igénybevételére,
+g)
 
 h) a közút kezelőjének hozzájárulásához vagy a közlekedési hatóság engedélyéhez kötött járművek közlekedésére.
 

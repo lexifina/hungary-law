@@ -1,8 +1,8 @@
 ## A gépjárművezetőkre vonatkozó szociális előírások ellenőrzése
 
-44/A. § (1) A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendeletben (a továbbiakban: a tachográfokra vonatkozó közösségi rendelet) meghatározott illetékes hatóság Magyarországon a közlekedési hatóság.
+44/A. § (1) A tachográfokra vonatkozó uniós rendeletben meghatározott illetékes hatóság Magyarországon a közlekedési hatóság.
 
-(2) Az 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint a tachográfokra vonatkozó közösségi rendeletben:
+(2) Az 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint a tachográfokra vonatkozó uniós rendeletben:
 
 a) a gépjármű vezetőjére és a gépjármű üzemben tartójára meghatározott kötelezettségek ellenőrzése,
 
@@ -14,7 +14,7 @@ d) az ellenőrzéshez szükséges tachográfkártyák (a gépjárművezetői ká
 
 – a 20. § (11) bekezdésben és a 44. § (2) bekezdésben az ellenőrző hatóságok feladatkörét meghatározó előírások sérelme nélkül – a közlekedési hatóság feladata.
 
-(3) A tachográf kártyák kibocsátásához tartozó nyilvántartás (a továbbiakban: tachográf kártya nyilvántartás) a tachográf kártyán rögzített – tachográfokra vonatkozó közösségi rendeletben meghatározott – adatokat tartalmazza.
+(3) A tachográf kártyák kibocsátásához tartozó nyilvántartás (a továbbiakban: tachográf kártya nyilvántartás) a tachográf kártyán rögzített – tachográfokra vonatkozó uniós rendeletben meghatározott – adatokat tartalmazza.
 
 (4) A tachográf kártya nyilvántartásból az Európai Közösség más tagállamának illetékes hatóságai, valamint a külön jogszabály alapján ellenőrzési feladatkörrel rendelkező magyar hatóságok a (2) bekezdésben meghatározott közösségi jogszabályok szerinti ellenőrzési feladataik teljesítéséhez igényelhetnek adatot.
 
@@ -22,7 +22,7 @@ d) az ellenőrzéshez szükséges tachográfkártyák (a gépjárművezetői ká
 
 (6) A (2) bekezdésben meghatározott közösségi jogi aktusok rendelkezései végrehajtásának ellenőrzése során a közúti szállítást végző egyes járművek személyzetének vezetési és pihenőidejének ellenőrzéséről szóló külön jogszabály rendelkezéseit kell alkalmazni.
 
-(7) A tachográfokra vonatkozó közösségi rendelet hazai végrehajtásának részletes szabályait a miniszter, a tachográf kártyák kiadásával, és azok ellenőrzésével kapcsolatos díjakat a miniszter – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
+(7) A tachográfokra vonatkozó uniós rendelet hazai végrehajtásának részletes szabályait a miniszter, a tachográf kártyák kiadásával, és azok ellenőrzésével kapcsolatos díjakat a miniszter – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
 
 (8) A (2) bekezdésben meghatározott ellenőrzések tagállami végrehajtásához kapcsolódóan a közlekedési hatóság feladata:
 

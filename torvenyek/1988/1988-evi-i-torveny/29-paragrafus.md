@@ -38,7 +38,7 @@ b) – ha a NIF Zrt. vagy a közút 33. § (1) bekezdés b) pont ba) alpontja sz
 
 (6) A 32. § (6) bekezdésében meghatározott szervezet a befejezett beruházások magyar állam tulajdonában álló területének rendezése során saját hatáskörben a magyar állam javára és nevében jár el. A befejezett beruházások területének rendezése érdekében megvásárolt vagy kisajátított további földrészlet a magyar állam tulajdonába és e törvény erejénél fogva, ellenérték nélkül a 32. § (6) bekezdésében meghatározott szervezet vagyonkezelésébe kerül, amely köteles azt az ingatlan-nyilvántartásba bejegyeztetni. A 32. § (6) bekezdésében meghatározott szervezet a vagyonkezelői jog bejegyzésére vonatkozó, a fővárosi és megyei kormányhivatal által kiadott határozatot haladéktalanul köteles az MNV Zrt. részére tájékoztatásul megküldeni.
 
-(7) Közút, közforgalom elől el nem zárt magánút létesítéséhez, korszerűsítéséhez (továbbiakban együtt: építés), forgalom részére történő átadásához, megszüntetéséhez, elbontásához – mint fontos közérdekű és közcélú tevékenység végzéséhez – a közlekedési hatóság engedélye szükséges. Az engedélyezési eljárások ügyintézési határideje 60 nap.
+(7) Közút, közforgalom elől el nem zárt magánút létesítéséhez, korszerűsítéséhez (továbbiakban együtt: építés), forgalom részére történő átadásához, megszüntetéséhez, elbontásához – mint fontos közérdekű és közcélú tevékenység végzéséhez – a közlekedési hatóság engedélye szükséges. Az engedélyezési eljárások ügyintézési határideje 45 nap.
 
 (8) Aki hatósági engedély nélkül épít utat, vagy az engedélyben foglaltaktól eltér, azt a közlekedési hatóság az eredeti állapot helyreállítására vagy – amennyiben az út a külön jogszabályban foglalt feltételeknek megfelel vagy megfelelővé alakítható át – a fennmaradáshoz szükséges intézkedések megtételére kötelezi.
 
@@ -71,3 +71,5 @@ cb) amelynek megvalósítása – akár műszaki adottságai, akár aránytalan 
 (14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként a NÚSZ Zrt. jár el.
 
 (14a) A tengelysúlymérő-rendszer kiépítésére irányuló beruházás során építtetőként a NÚSZ Zrt. jár el.
+
+(15) A Komplex Közlekedési Ellenőrző Pontok kiépítése során építtetőként az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve jár el.

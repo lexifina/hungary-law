@@ -6,7 +6,9 @@ b) belterületen – a közút mellett – ipari, kereskedelmi, vendéglátó-ip
 
 c) amennyiben az elhelyezendő létesítmény dőlési távolsága a közút határát keresztezi.
 
-(2) Ha a közút kezelője a feltételek teljesítéséhez is köthető hozzájárulását megtagadja, vagy a hozzájárulás iránti kérelem előterjesztésétől számított 30 napon belül nem nyilatkozik, vagy a kérelmező az előírt feltételeket sérelmesnek tartja, a kérelmező a közlekedési hatósághoz fordulhat, amely a tevékenységet engedélyezheti és feltételekhez kötheti vagy a közút kezelője által előírt feltételeket módosíthatja.
+(2) Ha a közút kezelője a feltételek teljesítéséhez is köthető hozzájárulását megtagadja, vagy a kérelmező az előírt feltételeket sérelmesnek tartja, a kérelmező a közlekedési hatósághoz fordulhat, amely a tevékenységet engedélyezheti és feltételekhez kötheti vagy a közút kezelője által előírt feltételeket módosíthatja.
+
+(2a) Ha a közút kezelője az (1) bekezdés szerinti hozzájárulás iránti kérelem előterjesztésétől számított 21 napon belül nem nyilatkozik, akkor a hozzájárulást megadottnak kell tekinteni.
 
 (3) Az építmény engedélyezésére jogosult, illetőleg a közlekedési hatóság az eredeti állapot helyreállítására, vagy a közút állagának és a forgalom biztonságának védelme érdekében szükséges munkák elvégzésére kötelezheti azt, aki az (1) bekezdésben foglaltakat megszegi.
 

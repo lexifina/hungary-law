@@ -1,0 +1,1 @@
+46/J. § A típusvizsgáló engedélyezésének részletes eljárási szabályairól és a típusvizsgálóval kötendő hatósági szerződés tartalmáról szóló kormányrendeletben meghatározott eljárásban az ügyintézési határidő 45 nap.

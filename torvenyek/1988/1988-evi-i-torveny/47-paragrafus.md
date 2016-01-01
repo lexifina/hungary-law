@@ -18,7 +18,7 @@
 
 9. az út műtárgya: a híd, a pontonhíd, a hajóhíd, a felüljáró, az áteresz, az alagút, az aluljáró, a támfal, a bélésfal, az út víztelenítését szolgáló árok, csatorna vagy más vízelvezető létesítmény; a két méternél nagyobb nyílású áthidaló műtárgy: híd, a két méternél kisebb nyílású áthidaló műtárgy: áteresz;
 
-10. az út tartozéka: a várakozóhely, pihenőhely, a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb létesítmény, berendezés (így különösen jelzőtábla, jelzőlámpa, segélykérő telefon, parkolójegy-kiadó automata, sorompó), a zajárnyékoló fal és töltés, hóvédő erdősáv, fasor vagy cserjesáv (védelmi rendeltetésű erdő), valamint a közút határától számított két méter távolságon belül ültetett fa, az összefüggő üzemi gyümölcsöshöz tartozó fák kivételével, az út üzemeltetéséhez szükséges elektronikus hírközlő eszközök és hálózatok;
+10. az út tartozéka: a várakozóhely, pihenőhely, a vezetőoszlop, a korlát, az útfenntartási és közlekedésbiztonsági célokat szolgáló műszaki és egyéb létesítmény, berendezés (így különösen jelzőtábla, jelzőlámpa, segélykérő telefon, parkolójegy-kiadó automata, sorompó) – a Komplex Közlekedési Ellenőrző Pont kivételével –, a zajárnyékoló fal és töltés, hóvédő erdősáv, fasor vagy cserjesáv (védelmi rendeltetésű erdő), valamint a közút határától számított két méter távolságon belül ültetett fa – az összefüggő üzemi gyümölcsöshöz tartozó fák kivételével, az út üzemeltetéséhez szükséges elektronikus hírközlő eszközök és hálózatok;
 
 11. közúthálózat: az országos közutak és a helyi közutak összefüggő rendszere;
 
@@ -36,7 +36,7 @@
 
 18. belföldi üzemben tartó: a jármű tulajdonosa, vagy a tulajdonos által meghatározott, a jármű üzemben tartásának jogát és kötelezettségét gyakorló személy vagy szervezet, akinek/amelynek
 
-18.1. természetes személy üzemben tartó esetében – állampolgárságára tekintet nélkül – a lakóhelye és szokásos tartózkodási helye is, vagy
+18.1. természetes személy üzemben tartó esetében – állampolgárságára tekintet nélkül – a lakcíme és szokásos tartózkodási helye is, vagy
 
 18.2. nem természetes személy esetében székhelye vagy telephelye
 
@@ -72,15 +72,21 @@ Magyarország területén van.
 
 22.7. a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló külön jogszabályban meghatározott, autógáz-biztonsági képesítéshez kötött tevékenységet folytató személy,
 
-22.8. a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Melléklete 2009. évi módosításaival és kiegészítéseivel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló külön jogszabályban meghatározott
+22.8. a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló jogszabályban meghatározott
 
 22.8.1. veszélyes áru szállítási biztonsági tanácsadói képesítéshez kötött tevékenységet folytató személy,
 
-22.8.2. veszélyesáru-szállító gépjárművezető,
+22.8.2. veszélyesáru-szállító gépjárművezető;
 
 22.9. a mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy lassú járművel vontatott pótkocsival történő közúti szállításáról szóló külön jogszabályban meghatározott, mezőgazdasági vegyszer, üzemanyag szállítására eredményes vizsgát tett járművezető,
 
-22.10. a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló külön jogszabályban meghatározott, undort keltő anyag szállítására eredményes vizsgát tett járművezető;
+22.10.
+
+22.11. a közúti jármű forgalomba helyezés előtti és időszakos vizsgálata során a jármű műszaki megvizsgálását és környezetvédelmi felülvizsgálatát végző műszaki vizsgabiztos;
+
+22.12. a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben meghatározott ellenőrző tisztviselő;
+
+22.13. a közösségi közlekedés működtetésére jogosult vállalkozások által alkalmazott forgalomirányítási, szervezési és járműfenntartási tevékenységeket irányító, önálló hatáskörrel rendelkező személy
 
 23. várakozási terület: a közutak, valamint az állam és a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek gépjárművel történő várakozásra kijelölt része;
 
@@ -100,6 +106,8 @@ Magyarország területén van.
 
 31. síkosságmentesítés: olyan téli üzemeltetési feladat, amely a közút gépjármű-közlekedésre szolgáló felületének síkosság elleni védekezését és a hó eltakarítását foglalja magába;
 
-31/A. Nemzeti Tengelysúlymérő Rendszer: a megengedett legnagyobb össztömeg és tengelyterhelés ellenőrzésének támogatására, az ellenőrzésre való kiválasztás előszűrése érdekében rendszeresített, hitelesített mérőeszközöknek és az ezekhez kapcsolódó hatósági informatikai rendszer szoftver- és hardverelemeinek rendszere.
+31/A. Nemzeti Tengelysúlymérő Rendszer: a megengedett legnagyobb össztömeg és tengelyterhelés ellenőrzésének támogatására, az ellenőrzésre való kiválasztás előszűrése érdekében rendszeresített, hitelesített mérőeszközöknek és az ezekhez kapcsolódó hatósági informatikai rendszer szoftver- és hardverelemeinek rendszere;
+
+32. Komplex Közlekedési Ellenőrző Pont: a közúti forgalomban részt vevők több szempontú ellenőrzésére szolgáló, információgyűjtő, elemező és dokumentáló rendszernek az elektronikus észlelésre szolgáló elemei és az azok rögzítésére szolgáló tartószerkezet.
 
 34. tájékozódást segítő jelzést megjelenítő reklámcélú eszköz: a közúton közlekedők tájékozódását megkönnyítő vagy azt segítő, különböző szolgáltatások igénybevételének, kulturális, idegenforgalmi vagy egyéb tevékenység végzésének lehetőségét úticélként megjelölő, továbbá ezek irányát, távolságát vagy helyszínét mutató jelzést megjelenítő, közvilágítási-, villany- és telefonoszlopon elhelyezhető berendezés, amely tartalmazhat olyan szót, szóösszetételt, grafikai vagy egyéb ábrát, illetve szöveges vagy képi megjelenítést, jelet, amely a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontjának hatálya alá tartozik; a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a 12. § (3b) bekezdés szerinti reklámtáblának, reklámhordozónak, sem egyéb reklámcélú berendezésnek.

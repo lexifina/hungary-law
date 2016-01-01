@@ -52,7 +52,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (4) Az (1) bekezdés a)–j) és l) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) és m) pontokban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
-(4a) A közúti forgalomban történő ellenőrzés során, ha a 20. § (1) bekezdés k) vagy m) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
+(4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k) vagy m) pontjában, illetve a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
 (4b) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés kg) pontjában meghatározott szabályszegést elkövető személye a helyszínen nem válik ismertté és a szabályszegést a külön jogszabályban meghatározott technikai eszközzel nem rögzítették, a (4) bekezdésben meghatározott bírságot a gépjármű forgalmi rendszáma alapján megállapított üzemben tartóval szemben kell kiszabni. Ilyenkor az üzemben tartó címére kell a kiszabott összeget tartalmazó csekkszelvényt megküldeni.
 
@@ -82,9 +82,9 @@ b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény
 
 a) belföldi forgalomban közlekedő jármű esetén
 
-aa) a közlekedési hatóság és a Rendőrség,
+aa) a közlekedési hatóság, a rendőrség, és a vámhatóság,
 
-ab) az (1) bekezdés c)–e) és l) pontja tekintetében a vámhatóság is, valamint az (1) bekezdés h) pontjában a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésének tekintetében a vámhatóság, és közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
+ab) az (1) bekezdés h) pontjában a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésének tekintetében a közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
 
 ac) az (1) bekezdés e) pontja tekintetében a katasztrófavédelmi hatóság is,
 
@@ -94,11 +94,11 @@ ba) a közlekedési hatóság, a rendőrség és a vámhatóság,
 
 bb) az (1) bekezdés e) pontja tekintetében a katasztrófavédelmi hatóság is,
 
-bc) az (1) bekezdés h) pontja szerinti a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének tekintetében közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
+bc) az (1) bekezdés a) pontja szerinti, a meghatározott engedélyhez és meghatározott okmány meglétéhez kötött nemzetközi közúti közlekedési szolgáltatás tekintetében és az (1) bekezdés h) pontja szerinti, a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének tekintetében közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
 
-c) az üzembentartó telephelyén
+c) az üzemben tartó telephelyén, a fel-, át- és lerakóhelyeken, illetve más, az árukezelés céljából üzemeltetett területen
 
-ca) a közlekedési hatóság és a rendőrség,
+ca) a közlekedési hatóság, a rendőrség, és a vámhatóság,
 
 cb) az (1) bekezdés c) és d) pontja tekintetében külön jogszabály alapján a munkaügyi hatóság is,
 
@@ -110,9 +110,11 @@ f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is,
 
 g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.)
 
-jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is, a belföldi forgalomban közlekedő járműnek az (1) bekezdés a) és b), valamint f)–j) pontjában meghatározott ellenőrzésébe a vámhatóság is bevonható.
+jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is bevonható.
 
 (11a) Az (1) bekezdés k) pontja tekintetében ellenőrzésre jogosult a katonai rendészeti szolgálat is a Magyar Honvédség személyi állománya, valamint a honvédségi gépjárművek vonatkozásában. A katonai rendészeti szolgálat az általa feltárt szabályszegések esetén az ügy iratait megküldi a rendőrség részére.
+
+(11b) Az (1) bekezdés c) és d) pontjában meghatározottak ellenőrzését a tachográfokra vonatkozó uniós rendeletben meghatározott ellenőrző tisztviselő (a továbbiakban: menetíró ellenőr) végzi.
 
 (12) Amennyiben a közúti járművel végzett tevékenység az (1) bekezdésben megjelölt rendelkezéseknek a határon történő belépés alkalmával nem felel meg, a vámhatóság vagy a rendőrség a közúti jármű belépését – a közlekedési hatóság haladéktalan értesítése mellett – megtagadhatja.
 
