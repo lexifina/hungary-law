@@ -1,9 +1,1 @@
 15. § Ez a törvény a közszféra információinak további felhasználásáról szóló 2003/98/EK irányelv módosításáról szóló, 2013. június 26-i 2013/37/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
