@@ -24,7 +24,7 @@
 
 12. kockázati tőkealap-kezelő: Kbftv. szerinti kockázati tőkealap-kezelő;
 
-13. befektetési alapkezelő: a Kbftv. szerinti befektetési alapkezelő;
+13. befektetési alapkezelő: a Kbftv. szerinti befektetési alapkezelő, ide nem értve a kockázati tőkealap-kezelőt;
 
 14. módosított mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege (a mérlegfőösszeg), csökkentve
 
@@ -78,7 +78,7 @@ n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz ka
 
 a) befektetési vállalkozásoknál: a befektetési szolgáltatási tevékenység bevételei csökkentve a befektetési szolgáltatási tevékenység ráfordításaival;
 
-b) tőzsdénél: a tőzsdei tevékenység bevételei növelve az egyéb bevételekkel;
+b) tőzsdénél: a tőzsdei tevékenység bevételei növelve a számvitelről szóló 2000. évi C. törvény 77. § (3) bekezdés k)–o) pontjai hatálya alá tartozó egyéb bevételeken kívüli egyéb bevételekkel;
 
 c) az árutőzsdei szolgáltatást kizárólagosan végző árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél: az értékesítés nettó árbevétele;
 
@@ -90,8 +90,6 @@ d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szol
 
 22. árbevétel: a Tao. tv. 4. § 4. pontjában meghatározott fogalom;
 
-23. Kkv-hitelállomány: a hitel-, pénzügyi lízing-, vagy kölcsönszerződés alapján, a szerződés megkötésének időpontjában a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben meghatározott mikro-, kis- vagy középvállalkozással (ide nem értve a pénzügyi intézményt) szemben fennálló vagy abból eredő követelések együttes, forintban kifejezett könyv szerinti értéke, növelve az e követelésekre az adott napra nyilvántartott értékvesztések és céltartalékok állománya együttes, forintban kifejezett könyv szerinti értékével, azzal, hogy ha e törvény az adóalap csökkentő összeg meghatározásakor két különböző napon fennálló hitelállomány, hitelrész-állomány megállapítását írja elő, akkor ezen állományok megállapításánál az azokba tartozó minden külföldi pénzértékre szóló követelés, értékvesztés és céltartalék e külföldi pénzértékben kifejezett nyilvántartás szerinti értékét azonos devizaárfolyamon (a korábbi, azaz a viszonyítási napra vonatkozó, a számvitelről szóló törvény rendelkezései szerint a pénzügyi intézmény által alkalmazott árfolyamon) kell forintra átszámítani,
+23–24.
 
-24. Uniós pályázat: az Európai Unió költségvetésének terhére folyósított támogatással érintett pályázat;
-
-25. Lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban lakóépület, lakóház vagy lakás megnevezéssel nyilvántartott vagy az ingatlan-nyilvántartásban széljegyen lévő ilyenként feltüntetésre váró épület, amely építési engedéllyel épült, használatba vételi engedéllyel rendelkező lakóépület, lakóház vagy lakás, valamint az ingatlan-nyilvántartásban tanyahelyként, tanyaként feltüntetett lakás céljára szolgáló épület.
+25.
