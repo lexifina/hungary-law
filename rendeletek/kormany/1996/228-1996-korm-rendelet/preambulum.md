@@ -1,1 +1,0 @@
-A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. tv.) 80. §-ának e) pontjában kapott felhatalmazás alapján – figyelemmel a 3. § 18. pontjában, valamint a 81/A. §-ban foglaltakra – is a Kormány a mezőgazdasági őstermelői igazolvány kiadásával összefüggő előírásokról a következőket rendeli el:

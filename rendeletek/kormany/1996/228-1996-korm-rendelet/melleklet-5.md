@@ -1,1 +1,0 @@
-5. számú melléklet a 228/1996. (XII. 26.) Korm. rendelethezAz 5. számú mellékletet a 252/1997. (XII. 20.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 102. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.>
