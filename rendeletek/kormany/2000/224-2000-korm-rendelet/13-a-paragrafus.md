@@ -1,0 +1,3 @@
+## 13. §[^47] Az egyszeres könyvvitelt vezető civil szervezet, köztestület saját tőkéje induló tőkéből, tőkeváltozásból, lekötött tartalékból, tárgyévi eredményből [alaptevékenység (közhasznú tevékenység), vállalkozási tevékenység bontásban], a kettős könyvvitelt vezető civil szervezet, köztestület, közalapítvány saját tőkéje induló tőkéből, tőkeváltozásból, lekötött tartalékból, értékelési tartalékból, valamint tárgyévi eredményből [alaptevékenység (közhasznú tevékenység), vállalkozási tevékenység bontásban] tevődik össze.
+
+[^47]: A 13. § a 342/2011. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg.

@@ -1,23 +1,29 @@
-20/C. §[^103] (1) Az Alap kiegészítő melléklete tartalmazza:
+20/C. §[^102] (1) Az Integrációs Szervezet saját tőkéje a jegyzett tőkét, a tartalékot, a lekötött tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
 
-a) az Alap vagyonát képező eszközöket fajtánként és azok értékét,
+(2) Az Integrációs Szervezet jegyzett tőkéje
 
-b) az Alap vagyonát képező azon tulajdoni részesedést jelentő értékpapírok értékét, amelyek többségi vagy minősített többségi befolyást biztosítanak az Alap javára, továbbá ezen részesedések kibocsátójának nevét, székhelyét, saját tőkéjét, jegyzett tőkéjét, tartalékait, a benne birtokolt részesedés arányát, legutolsó üzleti évi beszámolójában szereplő mérleg szerinti eredményét,
+a) az állam és a tagintézetek által jegyzett tőke címén rendelkezésre bocsátott vagyoni hozzájárulás összege, csökkentve a megszűnt tagintézetekre jutó jegyzett tőke összegével,
 
-c) az Alap által a központi költségvetés javára teljesített befizetések értékét,
+b) a jogutódlással szerzett vagyon azon része, amelyet az állam, a tagintézetek és a Takarékbank Zrt. a jogelődök részére vagyoni hozzájárulásként teljesített.
 
-d) az Alap által a Nyugdíjbiztosítási Alap javára teljesített befizetések értékét,
+(3) Az Integrációs Szervezet jegyzett tőkéjéből a már nem tagintézet jegyzett tőke részét a tagsági viszony megszűnésekor át kell vezetni a tartalékok közé.
 
-e) az államadósság csökkentésére fordított összeg címén az Alap által
+(4) Az Integrációs Szervezet jegyzett tőkéje, a tulajdonosi hányadok megtartása mellett leszállítható a tartalék javára az erről szóló Igazgatósági döntés időpontjával.
 
-ea) a központi költségvetés rendelkezésére ilyen céllal átadott állampapírok értékét, és
+(5) A tartalékon belül kell kimutatni
 
-eb) az államadósságnak minősülő tartozás harmadik felekkel szemben kiegyenlített összegét.
+a) az Integrációs Szervezet előző üzleti év(ek)ben keletkezett tárgyévi eredményét, előjelének megfelelően,
 
-f) a 20/B. § (12) bekezdése szerint a magánnyugdíjpénztárnak átadott eszközök értékét jogcímenkénti részletezésben.
+b) a jogelődöktől átvett vagyonból a (2) bekezdés b) pont szerinti vagyonon felüli részt,
 
-(2) Az Alap éves beszámolóját könyvvizsgálóval kell felülvizsgáltatni.
+c) a jegyzett tőke leszállítása során a (4) bekezdés alapján átvezetett összegeket.
 
-(3) Az Alap könyvvizsgáló által felülvizsgált és az Alap Irányító Testülete által jóváhagyott éves beszámolóját, az Országgyűlés elé beterjesztett pénzügyi beszámoló részeként az ÁKK Zrt. honlapján kell közzétenni a külön jogszabályban foglaltak szerint.
+(6) Tartalékot csökkentő tételként kell elszámolni a tagoknak fizetendő hozam összegét.
 
-[^103]: A 20/C. §-t a 87/2011. (V. 31.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+(7) Az Integrációs Szervezet az igazgatóság által meghatározott célokra lekötött tartalékot képezhet a tartalék terhére.
+
+(8) Állammal szembeni rövid lejáratú kötelezettségként kell kimutatni az állammal szembeni egy éven belül lejáró kötelezettséget (ideértve a hosszú lejáratú kötelezettségek éven belül lejáró összegeit is), kivéve az adó és járulék jellegű kötelezettségeket.
+
+(9) Egyéb rövid lejáratú kötelezettségként kell kimutatni az olyan rövid lejáratú kötelezettségeket, amelyeket a 6. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+[^102]: A 20/C. §-t a 484/2015. (XII. 29.) Korm. rendelet 53. § 4. pontja hatályon kívül helyezte, újonnan a 49. §-a iktatta be.

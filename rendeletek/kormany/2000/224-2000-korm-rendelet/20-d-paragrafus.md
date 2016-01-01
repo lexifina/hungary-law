@@ -1,3 +1,8 @@
-## Szövetkezeti Hitelintézetek Integrációs Szervezete éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságai[^104]
+## A mérlegtételekhez kapcsolódó egyéb előírások[^103]
 
-[^104]: A 20/D. §-t megelőző alcímet a 87/2011. (V. 31.) Korm. rendelet 16. § (5) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+20/D. §[^104] (1) A tagintézet felszámolása esetén az Integrációs Szervezet kezességvállalását fedező jogi biztosíték érvényesítése útján az Integrációs Szervezet tulajdonába került vagyontárgyakat és értékpapírokat piaci értéken kell a számviteli nyilvántartásokba felvenni.
+
+(2) Az Integrációs Szervezet által a tagintézeteknek véglegesen nyújtott tőkejuttatások összegét a tartalék terhére kell elszámolni.
+
+[^103]: A 20/D. §-t megelőző alcímet a 484/2015. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
+[^104]: A 20/D. §-t a 484/2015. (XII. 29.) Korm. rendelet 53. § 5. pontja hatályon kívül helyezte, újonnan a 49. §-a iktatta be.

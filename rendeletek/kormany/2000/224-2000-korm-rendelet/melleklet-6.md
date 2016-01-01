@@ -10,51 +10,37 @@
 
 ## ebből:
 
-## - tagdíj, alapítótól kapott befizetés
+## – tagdíj, alapítótól kapott befizetés
 
-## - támogatások
+## – támogatások
 
 ## 4. Pénzügyi műveletek bevételei
 
-## 5. Rendkívüli bevételek
-
-## ebből:
-
-## - alapítótól kapott befizetés
-
-## - támogatások
-
-## A. Összes bevétel (1±2+3+4+5)
+## A. Összes bevétel (1±2+3+4)
 
 ## ebből: közhasznú tevékenység bevételei
 
-## 6. Anyagjellegű ráfordítások
+## 5. Anyagjellegű ráfordítások
 
-## 7. Személyi jellegű ráfordítások
+## 6. Személyi jellegű ráfordítások
 
 ## ebből: vezető tisztségviselők juttatásai
 
-## 8. Értékcsökkenési leírás
+## 7. Értékcsökkenési leírás
 
-## 9. Egyéb ráfordítások
+## 8. Egyéb ráfordítások
 
-## 10. Pénzügyi műveletek ráfordításai
+## 9. Pénzügyi műveletek ráfordításai
 
-## 11. Rendkívüli ráfordítások
-
-## B. Összes ráfordítás (6+7+8+9+10+11)
+## B. Összes ráfordítás (5+6+7+8+9)
 
 ## ebből: közhasznú tevékenység ráfordításai
 
 ## C. Adózás előtti eredmény (A-B)
 
-## 12. Adófizetési kötelezettség
+## 10. Adófizetési kötelezettség
 
-## D. Adózott eredmény (C-12)
-
-## 13. Jóváhagyott osztalék
-
-## E. Tárgyévi eredmény (D-13)
+## D. Tárgyévi eredmény (C-10)
 
 ## Tájékoztató adatok
 
@@ -66,10 +52,10 @@
 
 ## D. Normatív támogatás
 
-## E. A személyi jövedelamadó meghatározott részének adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény alapján kiutalt összeg
+## E. A személyi jövedelemadó meghatározott részének adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény alapján kiutalt összeg
 
 ## F. Közszolgáltatási bevétel
 
-6. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^122]
+6. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^132]
 
-[^122]: A 6. számú mellékletet a 342/2011. (XII. 29.) Korm. rendelet 40. § 5. pontja hatályon kívül helyezte.
+[^132]: A 6. számú mellékletet a 342/2011. (XII. 29.) Korm. rendelet 40. § 5. pontja hatályon kívül helyezte, újonnan a 484/2015. (XII. 29.) Korm. rendelet 52. § (3) bekezdése iktatta be.

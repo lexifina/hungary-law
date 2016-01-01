@@ -50,6 +50,6 @@
 
 ## Források összesen
 
-2. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^118]
+2. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^128]
 
-[^118]: A 2. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^128]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.

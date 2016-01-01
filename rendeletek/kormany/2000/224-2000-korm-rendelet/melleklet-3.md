@@ -8,11 +8,11 @@
 
 ## ebből:
 
-## - tagdíj, alapítótól kapott befizetés
+## – tagdíj, alapítótól kapott befizetés
 
-## - támogatások
+## – támogatások
 
-## - egyéb bevételek
+## – egyéb bevételek
 
 ## II. Pénzbevételt nem jelentő bevételek
 
@@ -28,17 +28,13 @@
 
 ## C. Tárgyévi pénzügyi eredmény (I-III-VI)
 
-## D. Nem pénzben realizált eredmény [II-(IV+V)]
+## D. Nem pénzben realizált eredmény (II-IV-V)
 
-## E. Adózás előtti eredmény (I+II)-(III+IV+V)
+## E. Adózás előtti eredmény (I+II)–(III+IV+V)
 
 ## F. Fizetendő társasági adó
 
-## G. Adózott eredmény (E-F)
-
-## H. Jóváhagyott osztalék
-
-## I. Tárgyévi eredmény (G-H)
+## G. Tárgyévi eredmény (E-F)
 
 ## Tájékoztató adatok
 
@@ -50,7 +46,7 @@
 
 ## D. Normatív támogatás
 
-## E. A személyi jövedelamadó meghatározott részének adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény alapján kiutalt összeg
+## E. A személyi jövedelemadó meghatározott részének adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény alapján kiutalt összeg
 
 ## F. Közszolgáltatási bevétel
 
@@ -58,10 +54,12 @@
 
 ## H. Végleges pénzkiadásokból, elszámolt ráfordításokból a közhasznú tevékenység érdekében felmerült pénzkiadás, ráfordítás
 
-## I. Végleges pénzkiadásokból, elszámolt ráfordításokból a személyi jellegű ráfordítás (kiadás)
+## I. Végleges pénzkiadásokból, elszámolt ráfordításokból a személyi jellegű ráfordítás
 
-## - ebből: vezető tisztségviselők juttatásai
+## (kiadás)
 
-3. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^119]
+## – ebből: vezető tisztségviselők juttatásai
 
-[^119]: A 3. számú mellékletet a 342/2011. (XII. 29.) Korm. rendelet 40. § 5. pontja hatályon kívül helyezte.
+3. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^129]
+
+[^129]: A 3. számú mellékletet a 342/2011. (XII. 29.) Korm. rendelet 40. § 5. pontja hatályon kívül helyezte.
