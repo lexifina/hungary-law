@@ -1,8 +1,8 @@
 ## 182. § A Hídprogram megszervezése az adott megyében, főváros esetén kerületben legalább nyolc tanuló igénye esetén a Központ megyeközponti tankerületének a feladata. Amennyiben a Híd I. vagy Híd II. programban a jelentkezők vagy a program megismétlésére – az évfolyam megismétlésére vonatkozó szabályok szerint – kötelezettek létszáma nem éri el a nyolc főt, a kormányhivatal gondoskodik a tankötelezettség teljesítéséről.
 
-## 74/A. [^265] Az állami általános iskolában az erkölcstan óra helyett választható hit- és erkölcstan oktatás megszervezésére vonatkozó szabályok
+## 74/A. [^266] Az állami általános iskolában az erkölcstan óra helyett választható hit- és erkölcstan oktatás megszervezésére vonatkozó szabályok
 
-182/A. § (1)[^266] Az állami általános iskolában az iskola igazgatója kijelöli azt a március 1. és március 14. közötti időpontot, amikor az egyházi jogi személy írásban meghatalmazott képviselője tájékoztatást adhat az iskolának, az iskolával tanulói jogviszonyban álló tanulóknak és a szülőknek arról, hogy igény esetén a hit- és erkölcstan oktatást milyen módon szervezi meg. Az iskola igazgatója a kijelölt időpontot olyan módon közli a településen hitéleti tevékenységet ellátó egyházi jogi személlyel, hogy azt az egyházi jogi személy a tájékoztató időpontja előtt legalább tíz nappal megkapja.
+182/A. § (1)[^267] Az állami általános iskolában az iskola igazgatója kijelöli azt a március 1. és március 14. közötti időpontot, amikor az egyházi jogi személy írásban meghatalmazott képviselője tájékoztatást adhat az iskolának, az iskolával tanulói jogviszonyban álló tanulóknak és a szülőknek arról, hogy igény esetén a hit- és erkölcstan oktatást milyen módon szervezi meg. Az iskola igazgatója a kijelölt időpontot olyan módon közli a településen hitéleti tevékenységet ellátó egyházi jogi személlyel, hogy azt az egyházi jogi személy a tájékoztató időpontja előtt legalább tíz nappal megkapja.
 
 (2) Amennyiben valamelyik egyházi jogi személy képviselője az (1) bekezdés szerinti tájékoztatón nem tud megjelenni, az igazgatónak biztosítania kell annak lehetőségét, hogy az egyházi jogi személy által rendelkezésére bocsátott, hit- és erkölcstan oktatáshoz kapcsolódó papíralapú dokumentumokat a szülők megismerjék.
 
@@ -32,5 +32,5 @@ b) az erkölcstan oktatást
 
 (9) A beiratkozáskor a hit- és erkölcstan oktatás megszervezését a következő tanévben a (3) bekezdés szerint vállaló egyházi jogi személy képviselője is jelen lehet, a szülőnek – igénye esetén – hit- és erkölcstan oktatással kapcsolatban tájékoztatást nyújthat. Amennyiben valamelyik egyházi jogi személy képviselője a beiratkozáskor nem tud megjelenni, az igazgatónak biztosítania kell az egyházi jogi személy által rendelkezésére bocsátott hit- és erkölcstan oktatáshoz kapcsolódó papíralapú dokumentumok megismerhetőségét.
 
-[^265]: A 74/A. alcímet (182/A–182/B. §) a 22/2013. (III. 22.) EMMI rendelet 33. §-a iktatta be. Alkalmazására lásd e módosító rendelet 44. § (2) bekezdését.
-[^266]: A 182/A. § (1) bekezdése a 34/2014. (IV. 29.) EMMI rendelet 3. § d) pontja szerint módosított szöveg.
+[^266]: A 74/A. alcímet (182/A–182/B. §) a 22/2013. (III. 22.) EMMI rendelet 33. §-a iktatta be. Alkalmazására lásd e módosító rendelet 44. § (2) bekezdését.
+[^267]: A 182/A. § (1) bekezdése a 34/2014. (IV. 29.) EMMI rendelet 3. § d) pontja szerint módosított szöveg.

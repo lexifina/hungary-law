@@ -1,4 +1,4 @@
-## 70. [^254] Az Arany János Kollégiumi-Szakiskolai Program
+## 70. [^255] Az Arany János Kollégiumi-Szakiskolai Program
 
 175. § (1) Az Arany János Kollégiumi-Szakiskolai Programban azok a szakiskolák és kollégiumok vehetnek részt, amelyek közösen vállalják, hogy az Arany János Kollégiumi-Szakiskolai Programban részt vevő tanulóknak nappali rendszerű iskolai oktatás keretében szakiskolában, kollégiumi elhelyezéssel államilag elismert szakképesítés megszerzését biztosítják.
 
@@ -16,4 +16,4 @@ bb) rendszeres gyermekvédelmi kedvezményre való jogosultságát a jegyző meg
 
 bc) a Gyvt. 53. §-a szerint gyermekvédelmi szakellátás otthont nyújtó ellátási formájában részesülő átmeneti nevelésbe vett vagy a programba történő jelentkezés időpontjában ideiglenes hatállyal elhelyezett.
 
-[^254]: A 70. alcím (175. §) a 45/2014. (X. 27.) EMMI rendelet 46. §-ával megállapított szöveg.
+[^255]: A 70. alcím (175. §) a 45/2014. (X. 27.) EMMI rendelet 46. §-ával megállapított szöveg.
