@@ -1,6 +1,6 @@
 ## A hulladékjegyzék főcsoportjai
 
-## 3K66222_0
+## 5K26552M_0
 
 | A | B |
 
@@ -30,7 +30,7 @@
 
 | 12 | FÉMEK, MŰANYAGOK ALAKÍTÁSÁBÓL, FIZIKAI ÉS MECHANIKAI FELÜLETKEZELÉSÉBŐL SZÁRMAZÓ HULLADÉK |
 
-| 13 | OLAJHULLADÉK ÉS A FOLYÉKONY ÜZEMANYAG HULLADÉKA (kivéve az étolaj, valamint a 05, a 12 és a 19 főcsoportban meghatározott hulladék) |
+| 13 | OLAJHULLADÉK ÉS A FOLYÉKONY ÜZEMANYAG HULLADÉKA (kivéve az étolaj, valamint a 05 és a 12 főcsoportban meghatározott hulladék) |
 
 | 14 | SZERVES OLDÓSZER-, HŰTŐANYAG- ÉS HAJTÓGÁZHULLADÉK (kivéve a 07 és a 08 főcsoportban meghatározott hulladék) |
 
@@ -46,4 +46,6 @@
 
 | 20 | TELEPÜLÉSI HULLADÉK (HÁZTARTÁSI HULLADÉK ÉS A HÁZTARTÁSI HULLADÉKHOZ HASONLÓ, KERESKEDELMI, IPARI ÉS INTÉZMÉNYI HULLADÉK), IDEÉRTVE AZ ELKÜLÖNÍTETTEN GYŰJTÖTT FRAKCIÓT IS |
 
-2. melléklet a 72/2013. (VIII. 27.) VM rendelethez
+2. melléklet a 72/2013. (VIII. 27.) VM rendelethez[^12]
+
+[^12]: A 2. melléklet a 88/2015. (XII. 21.) FM rendelet 4. § (1) bekezdése és 5. § b)–c) pontja szerint módosított szöveg.

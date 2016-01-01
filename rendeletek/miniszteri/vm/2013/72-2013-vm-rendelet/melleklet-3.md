@@ -1,6 +1,6 @@
 ## A hulladékjegyzék főcsoportjai, alcsoportjai és az egyes hulladéktípusok
 
-## 3K66223_0
+## 5K26552N_0
 
 | A | B | C |
 
@@ -28,7 +28,9 @@
 
 |  | 01 03 08 | hulladékpor, amely különbözik a 01 03 07-től |
 
-|  | 01 03 09 | timföld termeléséből származó vörösiszap, amely különbözik a 01 03 07-től |
+|  | 01 03 09 | timföld termeléséből származó vörösiszap, amely különbözik a 01 03 10-től |
+
+|  | 01 03 10* | timföld termeléséből származó, veszélyes anyagokat tartalmazó vörösiszap, amely különbözik a 01 03 07-től |
 
 |  | 01 03 99 | közelebbről meg nem határozott hulladék |
 
@@ -1210,7 +1212,7 @@
 
 |  | 12 03 02* | gőzzel végzett zsírtalanítás hulladéka |
 
-| 13 |  | OLAJHULLADÉK ÉS A FOLYÉKONY ÜZEMANYAG HULLADÉKA (kivéve az étolajokat, valamint a 05, a 12 és a 19 főcsoportokban meghatározott hulladékot) |
+| 13 |  | OLAJHULLADÉK ÉS A FOLYÉKONY ÜZEMANYAG HULLADÉKA (kivéve az étolajokat, valamint a 05 és a 12 főcsoportokban meghatározott hulladékot) |
 
 |  | 13 01 | hidraulika olaj hulladéka |
 
@@ -1409,6 +1411,8 @@
 |  | 16 03 05* | veszélyes anyagokat tartalmazó szerves hulladék |
 
 |  | 16 03 06 | szerves hulladék, amely különbözik a 16 03 05-től |
+
+|  | 16 03 07* | fémhigany |
 
 |  | 16 04 | robbanóanyag-hulladék |
 
@@ -1694,13 +1698,15 @@
 
 |  | 19 03 | stabilizált/megszilárdított hulladék |
 
-|  | 19 03 04* | csak részben stabilizált, veszélyesnek tartott hulladék |
+|  | 19 03 04* | csak részben stabilizált, veszélyesként megjelölt hulladék, amely különbözik a 19 03 08-tól |
 
 |  | 19 03 05 | stabilizált hulladék, amely különbözik a 19 03 04-től |
 
 |  | 19 03 06* | megszilárdított, veszélyesnek tartott hulladék |
 
 |  | 19 03 07 | megszilárdított hulladék, amely különbözik a 19 03 06-tól |
+
+|  | 19 03 08* | részben stabilizált higany |
 
 |  | 19 04 | üvegesített (vitrifikált) és üvegesítésből származó hulladék |
 
@@ -1968,26 +1974,39 @@
 
 A hulladékjegyzékben meghatározott hulladék azonosítása érdekében a következők szerint kell eljárni:
 
-7.1. Az elkülönítetten gyűjtött csomagolási hulladékot (beleértve a különböző csomagolási hulladék keverékét is) a 15 01 alcsoportba kell besorolni, és nem a 20 01 alcsoportba.
+7.1.[^13] Ha a 01–12. vagy 17–20. főcsoportokban nem található megfelelő azonosító kód, akkor a hulladék azonosításához a 13., 14. és 15. főcsoportot kell megvizsgálni.
 
-7.2. Ha az adott hulladékot a 01–12-ig terjedő, valamint a 17–20-ig terjedő főcsoportokba nem lehet besorolni, a hulladékot a 13, a 14 és a 15 főcsoportokban meghatározott hulladéktípusok alapján kell azonosítani.
+7.2.[^14] Ha a hulladékjegyzék 1–12. vagy a 13–20. főcsoportjában szereplő azonosító kódok közül egyik sem alkalmazható, akkor a hulladékot a 16. főcsoport szerint kell besorolni.
 
-7.3. Ha az adott hulladék besorolására egyik főcsoport sem alkalmazható, a hulladékot a 16. főcsoport alapján kell besorolni.
+7.3.[^15] Ha a hulladék a 16. főcsoportba sem sorolható be, akkor a 99-es azonosító kódot (közelebbről nem meghatározott hulladékok) kell használni a hulladékjegyzéknek az első lépésben azonosított tevékenységnek megfelelő főcsoportjában.
 
-7.4. Ha az adott hulladék besorolására a 16. főcsoport sem alkalmazható, a 99 kódot (közelebbről meg nem határozott hulladék) kell használni a hulladékjegyzék azon fő- és alcsoportjában, amely megfelel az adott hulladék képződését eredményező forrásnak. 99-esre végződő azonosító kóddal veszélyes hulladék – a 13 08 99* azonosító kód kivételével – nem sorolható be.
+7.4.[^16]
 
-8. Ha a hulladékot valamely veszélyességi jellemzője alapján veszélyes hulladékként kell besorolni, a veszélyességi jellemzők tekintetében a Ht. 1. mellékletében meghatározott veszélyességi jellemzőket kell alkalmazni. A veszélyes anyag koncentrációjának elhatárolásához a H3-H8, H10 és H11 veszélyességi jellemzők tekintetében a 2. § (1) bekezdésében felsoroltakat kell alkalmazni.
+8.[^17]
 
-9. Nehézfémnek tekintendő az antimon, arzén, kadmium, króm(VI), réz, ólom, higany, nikkel, szelén, tellúr, tallium és ón. Ezek elemi formája és vegyületei veszélyes anyagok, ha e rendelet alapján annak minősülnek.
+9.[^18]
 
-10. A 13 01 01* azonosító kódú hulladék esetében a PCB-k e rendelet szerinti hulladékjegyzékhez alkalmazandó értelmezését a PCB, valamint a PCB-t tartalmazó berendezések kezelésének részletes szabályairól szóló 144/2012. (XII. 27.) VM rendelet tartalmazza.
+10.[^19]
 
-11. A 16 02 13* azonosító kódú hulladék esetében az elektromos és elektronikus berendezésekből származó alkatrészek tartalmazhatnak olyan elemeket és akkumulátorokat, amelyek a 16 06 alcsoportban veszélyes hulladékként vannak megjelölve, továbbá higanykapcsolókat, a katódsugár csöveket és egyéb aktivált üvegeket.
+11.[^20]
 
-12. A 16 08 02* azonosító kódú hulladék esetében az átmeneti fémek közé tartozik a szkandium, vanádium, mangán, kobalt, réz, ittrium, niobium, hafnium, wolfram, titán, króm, vas, nikkel, cink, cirkonium, molibdenium, tantál. Ezek a fémek vagy azok vegyületei veszélyesek, amennyiben azokat veszélyes anyagnak minősítették. A hulladék veszélyességét a benne található átmeneti fémek, azok vegyületeinek veszélyessége határozza meg.
+12.[^21]
 
-13. A 19 03 alcsoportszámú hulladék esetében a stabilizálás a hulladékban lévő alkotók veszélyes voltát változtatja meg, ezzel a veszélyes hulladékot nemveszélyessé alakítja. A megszilárdítás csak a hulladék fizikai megjelenési formáját változtatja meg azáltal, hogy adalékot alkalmaznak, de nem változtatja meg a hulladék kémiai tulajdonságait.
+13.[^22]
 
-14. A 19 03 04* azonosító kódú hulladék esetében részben stabilizáltnak kell tekinteni a hulladékot, ha annak veszélyes összetevőjét nem sikerül teljességgel veszélytelenné alakítani, ezért azok rövid, közepes vagy hosszú idő alatt a környezetbe kerülhetnek.
+14.[^23]
 
-15. A 20 01 35* azonosító kódú hulladék esetében az elektromos és elektronikus berendezések veszélyes összetevői közé tartoznak az elemek és az akkumulátorok, amelyek veszélyesek és a 16 06 alcsoporthoz tartoznak, valamint a higanykapcsolók, katódsugár csövek és más, aktivált üveget tartalmazó készülékek.
+15.[^24]
+
+[^13]: A 3. melléklet 7. pont 7.1. alpontja a 88/2015. (XII. 21.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^14]: A 3. melléklet 7. pont 7.2. alpontja a 88/2015. (XII. 21.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 3. melléklet 7. pont 7.3. alpontja a 88/2015. (XII. 21.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^16]: A 3. melléklet 7.4. pontját a 88/2015. (XII. 21.) FM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^17]: A 3. melléklet 8. pontját a 88/2015. (XII. 21.) FM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^18]: A 3. melléklet 9. pontját a 88/2015. (XII. 21.) FM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^19]: A 3. melléklet 10. pontját a 88/2015. (XII. 21.) FM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^20]: A 3. melléklet 11. pontját a 88/2015. (XII. 21.) FM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^21]: A 3. melléklet 12. pontját a 88/2015. (XII. 21.) FM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^22]: A 3. melléklet 13. pontját a 88/2015. (XII. 21.) FM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^23]: A 3. melléklet 14. pontját a 88/2015. (XII. 21.) FM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^24]: A 3. melléklet 15. pontját a 88/2015. (XII. 21.) FM rendelet 6. § b) pontja hatályon kívül helyezte.

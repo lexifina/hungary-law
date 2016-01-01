@@ -10,4 +10,8 @@ c) a hulladékjegyzéknek a hulladékokról szóló 75/442/EGK tanácsi irányel
 
 d) a hulladékjegyzékről szóló 2000/532/EK bizottsági határozat módosításáról szóló, 2001. július 23-i 2001/573/EK tanácsi határozat
 
+e)[^5] a hulladékjegyzékről szóló 2000/532/EK határozatnak a 2008/98/EK európai parlamenti és tanácsi irányelvvel összhangban történő módosításáról szóló, 2014. december 18-i 2014/955/EU bizottsági határozat
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^5]: Az 5. § (2) bekezdés e) pontját a 88/2015. (XII. 21.) FM rendelet 3. §-a iktatta be.

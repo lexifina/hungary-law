@@ -1,33 +1,17 @@
-2. § (1) A H3–H8, H10 és H11 veszélyességi jellemzővel rendelkező hulladék akkor tekintendő veszélyes hulladéknak, ha legalább egy, az alábbiak szerinti tulajdonsággal is rendelkezik:
+## 2. §[^1] E rendelet alkalmazásában:
 
-a) zárttéri lobbanáspont ≤ 55 °C,
+1. átmeneti fém: a szkandium, a vanádium, a mangán, a kobalt, a réz, az ittrium, a nióbium, a hafnium, a volfrám, a titán, a króm, a vas, a nikkel, a cink, a cirkónium, a molibdén és a tantál minden vegyülete, valamint ezek az anyagok fémes formában, amennyiben azok veszélyes anyagként vannak besorolva;
 
-b) egy vagy több, nagyon mérgezőnek besorolt anyag összkoncentrációja (R 26-tal, R 27-tel, R 28-cal jelölve) ≥ 0,1%,
+2. megszilárdulás: olyan folyamat, amelyek adalékanyagok hozzáadása révén a hulladéknak csak a fizikai állapotát változtatja meg, kémiai tulajdonságait nem;
 
-c) egy vagy több, mérgezőnek besorolt anyag összkoncentrációja (R 23-mal, R 24-gyel, R 25-tel jelölve) ≥ 3%,
+3. nehézfém: az antimon, az arzén, a kadmium, a króm (VI), a réz, az ólom, a higany, a nikkel, a szelén, a tellúr, a tallium és az ón minden vegyülete, illetve ezek az anyagok fémes formában, amennyiben azok veszélyes anyagként vannak besorolva;
 
-d) egy vagy több, ártalmasnak besorolt anyag összkoncentrációja (R 20-szal, R 21-gyel, R 22-vel jelölve) ≥ 25%,
+4. poliklórozott bifenil és poliklórozott terfenil: a PCB, valamint a PCB-t tartalmazó berendezések kezelésének részletes szabályairól szóló 144/2012. (XII. 27.) VM rendelet 2. § (1) bekezdés 3. pontja szerinti PCB;
 
-e) egy vagy több, maró hatásúnak besorolt anyag (R 35-tel jelölve) összkoncentrációja ≥ 1%,
+5. részben stabilizált hulladék: olyan hulladék, amely a stabilizáció folyamata után még mindig tartalmaz olyan veszélyes összetevőket, amelyek nem alakultak át teljes mértékben nem veszélyes összetevőkké, és rövid, közép- vagy hosszú távon a környezetbe juthatnak;
 
-f) egy vagy több, maró hatásúnak besorolt anyag (R 34-gyel jelölve) összkoncentrációja ≥ 5%,
+6. stabilizáció: olyan folyamat, amely módosítja a hulladék összetevőinek veszélyességét, és így a veszélyes hulladékot nem veszélyes hulladékká teszi;
 
-g) egy vagy több, irritálónak besorolt anyag (R 41-gyel jelölve) összkoncentrációja ≥ 10%,
+7. veszélyes anyag: olyan anyag, amely megfelel az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1272/2008/EK európai parlamenti és tanácsi rendelet) I. mellékletének 2–5. részében szereplő kritériumoknak.
 
-h) egy vagy több, irritálónak besorolt anyag (R 36-tal, R 37-tel és R 38-cal jelölve) összkoncentrációja ≥ 20%,
-
-i) legalább egy 1. vagy 2. osztályú rákkeltőnek tartott anyag koncentrációja ≥ 0,1%,
-
-j) legalább egy 3. osztályú rákkeltőnek tartott anyag koncentrációja ≥ 1%,
-
-k) legalább egy 1. vagy 2. osztályú reprodukciós toxicitású anyag (R 60-nal és R 61-gyel jelölve) koncentrációja ≥ 0,5%,
-
-l) legalább egy 3. osztályú reprodukciós toxicitású anyag (R 62-vel és R 63-mal jelölve) koncentrációja ≥ 5%,
-
-m) legalább egy 1. vagy 2. osztályú mutagén anyag (R 46-tal jelölve) koncentrációja ≥ 0,1%,
-
-n) legalább egy 3. osztályú mutagén anyag (R 40-nel jelölve) koncentrációja ≥ 1%.
-
-(2) Az (1) bekezdésben szereplő R mondatokat a veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló 44/2000. (XII. 27.) EüM rendelet 1. számú melléklet 4. pontjában foglaltak szerint kell értelmezni.
-
-(3) Az (1) bekezdésben foglalt rendelkezés tiszta fémötvözetekre nem alkalmazandó, ha azok nincsenek szennyezve felületükhöz tapadt veszélyes anyagokkal.
+[^1]: A 2. § a 88/2015. (XII. 21.) FM rendelet 1. §-ával megállapított szöveg.

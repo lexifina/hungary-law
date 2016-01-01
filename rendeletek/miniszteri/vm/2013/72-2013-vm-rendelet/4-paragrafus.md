@@ -2,4 +2,6 @@
 
 4. § (1) Az e rendelet hatálybalépésekor hatályos hulladékgazdálkodási engedélyekben a hulladéktípusra vonatkozó megnevezések a hulladékgazdálkodási engedélyek időbeli hatályának lejártáig – az engedély módosítása nélkül – alkalmazhatók.
 
-(2) A 2012. évre vonatkozó hulladékgazdálkodást érintő valamennyi adatszolgáltatási kötelezettséget a hulladéktípusoknak a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet 2012. december 31-én hatályos szövegében meghatározott megnevezései szerint kell teljesíteni.
+(2)[^4]
+
+[^4]: A 4. § (2) bekezdését a 88/2015. (XII. 21.) FM rendelet 6. § a) pontja hatályon kívül helyezte.
