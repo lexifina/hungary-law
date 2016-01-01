@@ -1,6 +1,6 @@
-## D) Rendkívüli eredmény (X–XI)
+## B) Pénzügyi műveletek eredménye (VIII–IX.)
 
-## E) Mérleg szerinti eredmény (±C±D)
+## C) Mérleg szerinti eredmény (±A±B)
 
 7. melléklet a 4/2013. (I. 11.) Korm. rendelethez
 
@@ -30,7 +30,7 @@ b) egyéb általános költségek (61–65. számlacsoportokon elszámolt költs
 
 3. Közvetlen önköltség (1. pontban és 2. pont b) alpontjában elszámolt költségek összesen).
 
-4.[^217] Szakfeladatot jellemző mutatószám értéke a szakfeladatrendben meghatározottak szerint (több mutatószám esetén külön-külön).
+4.[^285] Szakfeladatot jellemző mutatószám értéke a szakfeladatrendben meghatározottak szerint (több mutatószám esetén külön-külön).
 
 5. A mutatószám egy egységére jutó közvetlen önköltség a 3. és 4. pontban foglaltak hányadosaként (több mutatószám esetén külön-külön).
 
@@ -42,8 +42,9 @@ b) egyéb működési célú támogatások eredményszemléletű bevételei,
 
 c) felhalmozási célú támogatások eredményszemléletű bevételei.
 
-7. Megtérült önköltség a 3. pont szerinti közvetlen önköltség és a 6. pont szerinti eredményszemléletű bevételek különbségeként.
+7.[^286] Meg nem térült közvetlen önköltség a 3. pont szerinti közvetlen önköltség és a 6. pont szerinti eredményszemléletű bevételek különbségeként.
 
 8. A 4. és 5. pont szerinti mutatószám egy egységére jutó megtérült önköltség a 7. és 4. pontban foglaltak hányadosaként (több mutatószám esetén külön-külön).
 
-[^217]: A 7. melléklet 4. pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 34. pontja szerint módosított szöveg.
+[^285]: A 7. melléklet 4. pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 34. pontja szerint módosított szöveg.
+[^286]: A 7. melléklet 7. pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 37. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 24/A. [^202] A hibák javítása
+## 24/A. [^268] A hibák javítása
 
 54/A. § (1) A beszámolóval le nem zárt 7. § szerinti időszakkal kapcsolatos hibákat a könyvelés keretében, a hibát okozó tétel visszakönyvelésével és a helyes tétel e rendeletnek megfelelő könyvelésével kell javítani. Ha a javítás csak az 51. § (1a) bekezdése alapján alábontott könyvviteli számlákat érinti, a hiba a hibát okozó tétel visszakönyvelése helyett az érintett könyvviteli számlák közötti átkönyveléssel is javítható.
 
@@ -18,4 +18,4 @@ c) az Állami Számvevőszéknek az éves költségvetési beszámolók áttekin
 
 d) saját hatáskörben a benyújtott éves költségvetési beszámolók vizsgálata során
 
-[^202]: A 24/A. alcímet (54/A–54/B. §) a 284/2014. (XI. 20.) Korm. rendelet 21. §-a iktatta be.
+[^268]: A 24/A. alcímet (54/A–54/B. §) a 284/2014. (XI. 20.) Korm. rendelet 21. §-a iktatta be.

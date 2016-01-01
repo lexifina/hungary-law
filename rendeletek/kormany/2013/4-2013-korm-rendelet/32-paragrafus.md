@@ -1,10 +1,15 @@
-32. § (1) A költségvetési szerv éves költségvetési beszámolóját a költségvetési évet követő év február 28-áig – a 7. § (3) bekezdése szerinti esetben a megszűnés napját követő hatvan napon belül – az irányító szerv vezetőjének jóváhagyásra megküldi. Az irányító szerv vezetője a költségvetési szerv éves költségvetési beszámolóját a felülvizsgálat elvégzését igazoló személy aláírásával és az éves költségvetési beszámoló visszaküldésével hagyja jóvá.
+32. § (1)[^157] A költségvetési szerv az éves költségvetési beszámolója adatait a költségvetési évet követő év február 28-áig – a 7. § (3) bekezdése szerinti esetben a megszűnés napját követő hatvan napon belül – a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe feltölti.
 
-(2)[^114] Ha a fejezeti kezelésű előirányzat kezelő szerve nem azonos a fejezetet irányító szervvel, a kezelő szerv a fejezetet irányító szerv által meghatározott gyakorisággal és módon adatszolgáltatást teljesít a könyvelésében szereplő adatokról. A fejezetet irányító szerv által a fejezeti kezelésű előirányzatokról készített beszámoló alapjául ilyen esetben a kezelő szerv által megküldött adatszolgáltatások minősülnek.
+(1a)[^158] Az irányító szerv a költségvetési szerv éves költségvetési beszámolóját az (1) bekezdés szerinti határidőt követő húsz napon belül felülvizsgálja és – annak javítása, kiegészítése szükség szerinti elrendelését követően – a Kincstár által működtetett elektronikus adatszolgáltató rendszerben jóváhagyja. A költségvetési szerv az elektronikus adatszolgáltató rendszerben jóváhagyott adattartalmú aláírt éves költségvetési beszámolóját a Kincstár általi elfogadását követő öt napon belül megküldi az irányító szervnek, amely azt – a felülvizsgálat elvégzését igazoló személy aláírásával ellátva – a költségvetési szervnek tíz napon belül visszaküldi.
 
-(3) A fejezetet irányító szerv a fejezetbe tartozó költségvetési szervek, fejezeti kezelésű előirányzatok jóváhagyott éves költségvetési beszámolóit az (1) bekezdés szerinti határidő lejártát követő húsz napon belül nyújtja be a Kincstárnak.
+(2)[^159] Ha a fejezeti kezelésű előirányzat kezelő szerve nem azonos a fejezetet irányító szervvel, a kezelő szerv a fejezetet irányító szerv által meghatározott gyakorisággal és módon adatszolgáltatást teljesít a könyvelésében szereplő adatokról. A fejezetet irányító szerv által a fejezeti kezelésű előirányzatokról készített beszámoló alapjául ilyen esetben a kezelő szerv által megküldött adatszolgáltatások minősülnek.
 
-(4)[^115] A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács a saját, és az irányítása alá tartozó költségvetési szervek jóváhagyott éves költségvetési beszámolóit az (1) bekezdés szerinti határidő lejártát követő tíz napon belül nyújtja be a Kincstárnak.
+(3)[^160] A fejezetet irányító szerv a fejezetbe tartozó fejezeti kezelésű előirányzatok éves költségvetési beszámolóit március 20-áig elkészíti és a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe feltölti.
 
-[^114]: A 32. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 98. §-ával megállapított szöveg.
-[^115]: A 32. § (4) bekezdése a 284/20145 (XI. 20.) Korm. rendelet 23. § (1) bekezdés 21. pontja szerint módosított szöveg.
+(4)[^161] A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács a saját éves költségvetési beszámolóját az (1) bekezdés szerinti határidő lejártát követő húsz napon belül tölti fel a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe.
+
+[^157]: A 32. § (1) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^158]: A 32. § (1a) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^159]: A 32. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 98. §-ával megállapított szöveg.
+[^160]: A 32. § (3) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^161]: A 32. § (4) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.

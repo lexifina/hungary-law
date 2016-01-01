@@ -14,8 +14,9 @@
 
 6. Származékos műveletek különbözeteként az ÁKK Zrt.-nél elhelyezett fedezeti betétek záróállománya
 
-7.[^247] A Gst. 3. § (2) bekezdése szerinti előfinanszírozás összege
+7.[^316] Államadósság állománya (1+2+3+4+5+6)
 
-8 Államadósság állománya (1+2+3+4+5+6+7)
+8.[^317]
 
-[^247]: A 13. melléklet 7. pontja a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^316]: A 13. melléklet 7. pontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^317]: A 13. melléklet 8. pontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 8. pontja hatályon kívül helyezte.

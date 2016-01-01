@@ -1,53 +1,113 @@
-27. § (1) A pénzügyi műveletek eredményszemléletű bevételei a kapott (járó) osztalékból és részesedésből, a kapott (járó) kamatokból és kamatjellegű eredményszemléletű bevételekből és a pénzügyi műveletek egyéb eredményszemléletű bevételből állnak.
+27. § (1)[^118] A pénzügyi műveletek eredményszemléletű bevételei a kapott (járó) osztalékból és részesedésből, a részesedésekből származó eredményszemléletű bevételekből, árfolyamnyereségekből, a befektetett pénzügyi eszközökből származó eredményszemléletű bevételekből, árfolyamnyereségekből, az egyéb kapott (járó) kamatokból és kamatjellegű eredményszemléletű bevételekből és a pénzügyi műveletek egyéb eredményszemléletű bevételeiből állnak.
 
-(2)[^96] A kapott (járó) osztalék és részesedés között kell elszámolni a tartós és nem tartós részesedések után kapott osztalékot, ideértve a kamatozó részvények után fizetett kamatot is, ha az a mérlegkészítés időpontjáig ismertté vált.
+(2)[^119] A kapott (járó) osztalék és részesedés között kell elszámolni a tartós és nem tartós részesedések után kapott, az adózott eredmény felosztásáról szóló határozat alapján járó osztalékot, ideértve a kamatozó részvények után kapott kamatot is, ha az a mérlegkészítés időpontjáig ismertté vált.
 
-(3) A kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek között kell elszámolni
+(2a)[^120] A részesedésekből származó eredményszemléletű bevételek, árfolyamnyereségek között kell elszámolni
 
-a)[^97] az egységes rovatrend B408. Kamatbevételek rovathoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket, és
+a) az egységes rovatrend B4091. Részesedésekből származó pénzügyi műveletek bevételei rovathoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket, és
+
+b) az Szt. 84. § (2) bekezdés b)–f) pontjában és (2a) bekezdésében meghatározott gazdasági eseményeket.
+
+(2b)[^121] Az Szt. 84. § (2a) bekezdése szerinti tételeket halasztott eredményszemléletű bevételként el kell határolni. Az elhatárolást az Szt. szerinti esetben kell megszüntetni.
+
+(2c)[^122] A befektetett pénzügyi eszközökből származó eredményszemléletű bevételek, árfolyamnyereségek között kell elszámolni
+
+a) az egységes rovatrend B4081. Befektetett pénzügyi eszközökből származó bevételek rovathoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket, és
+
+b) az Szt. 84. § (3) bekezdés f) pontjában és (3a) bekezdésében meghatározott gazdasági eseményt azzal, hogy azt csak a befektetett pénzügyi eszközök között kimutatott értékpapírokra lehet alkalmazni.
+
+(2d)[^123] A befektetett pénzügyi eszközök között kimutatott értékpapírok esetén az Szt. 84. § (3a) bekezdése szerinti tételeket halasztott eredményszemléletű bevételként el kell határolni. Az elhatárolást az Szt. szerinti esetben kell megszüntetni.
+
+(3)[^124] Az egyéb kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek között kell elszámolni
+
+a)[^125] az egységes rovatrend B4082. Egyéb kapott (járó) kamatok és kamatjellegű bevételek rovathoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket, és
 
 b) a mérleg fordulónapjáig még le nem zárt kamatfedezeti ügyletek (határidős, swap és azonnali ügyletek) időarányos nyereségét, legfeljebb a fedezett alapügylet időarányos veszteségének összegéig.
 
 (4) A pénzügyi műveletek egyéb eredményszemléletű bevételei között kell elszámolni
 
-a)[^98] az egységes rovatrend B409. Egyéb pénzügyi műveletek bevételei és B83. Adóssághoz nem kapcsolódó származékos ügyletek bevételei rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket,
+a)[^126] az egységes rovatrend B4092. Más egyéb pénzügyi műveletek bevételei és B83. Adóssághoz nem kapcsolódó származékos ügyletek bevételei rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon követelésként nyilvántartott összegeket,
 
 b) a mérleg fordulónapjáig még le nem zárt nem kamatfedezeti célú, egyéb fedezeti ügyletek (határidős, opciós, swap és azonnali ügyletek) időarányos nyereségét, legfeljebb a fedezett alapügylet időarányos veszteségének összegéig,
 
-c) a külföldi pénzértékre szóló kötelezettséghez kapcsolódóan a költségvetési évben realizált árfolyamnyereséget, és
+c)[^127] a nem fedezeti célú határidős, opciós ügyletek és swap ügyletek pénzügyileg is realizált nyereségjellegű különbözetének a tárgyévre időarányosan jutó összegét, ha az ügylet zárása a mérleg fordulónapja és a mérlegkészítés időpontja között megtörtént,
 
-d) az Szt. 84. § (7) bekezdés g) és o) pontja szerinti összevontan elszámolt árfolyamnyereséget és engedményt.
+d)[^128] a külföldi pénzértékre szóló kötelezettséghez kapcsolódóan a költségvetési évben realizált árfolyamnyereséget,
 
-(5) A pénzügyi műveletek ráfordításai a fizetendő kamatokból és kamatjellegű ráfordításokból, a részesedések, értékpapírok, pénzeszközök értékvesztéséből és a pénzügyi műveletek egyéb ráfordításaiból állnak.
+e)[^129] az Szt. 84. § (2) bekezdés b)–f) pontjában, (3) bekezdés f) pontjában és (8) bekezdésében meghatározott gazdasági eseményeket, ha azok nem tartós részesedésekhez vagy az értékpapírok között kimutatott hitelviszonyt megtestesítő értékpapírhoz kapcsolódnak, és
+
+f)[^130] az Szt. 84. § (7) bekezdés g) és o) pontja szerinti összevontan elszámolt árfolyamnyereséget – a 21. § (10) bekezdése figyelembevételével – és engedményt.
+
+(4a)[^131] Az Szt. 84. § (8) bekezdése szerinti tételeket halasztott eredményszemléletű bevételként el kell határolni. Az elhatárolást az Szt. szerinti esetben kell megszüntetni.
+
+(5)[^132] A pénzügyi műveletek ráfordításai a részesedésekből származó ráfordításokból, árfolyamveszteségekből, a befektetett pénzügyi eszközökből származó ráfordításokból, árfolyamveszteségekből, a fizetendő kamatokból és kamatjellegű ráfordításokból, a részesedések, értékpapírok, pénzeszközök értékvesztéséből és a pénzügyi műveletek egyéb ráfordításaiból állnak.
+
+(5a)[^133] A részesedésekből származó ráfordításként, árfolyamveszteségként kell elszámolni
+
+a) a befektetett pénzügyi eszközök között kimutatott részesedések értékesítésekor a könyv szerinti érték és az eladási ár közötti veszteségjellegű különbözetet, és
+
+b) az Szt. 85. § (1) bekezdés b)–g) pontjában meghatározott gazdasági eseményeket.
+
+(5b)[^134] A befektetett pénzügyi eszközökből származó ráfordításként, árfolyamveszteségként kell elszámolni
+
+a) a befektetett pénzügyi eszközök között kimutatott hitelviszonyt megtestesítő értékpapírok értékesítésekor, beváltásakor – kamatozó értékpapírnál az eladási árban lévő kamattal csökkentett – az eladási ára, illetve névértéke és a könyv szerinti értéke közötti veszteségjellegű különbözetet, és
+
+b) az Szt. 85. § (1a) bekezdés b) és d) pontjában meghatározott gazdasági eseményeket azzal, hogy azokat csak a befektetett pénzügyi eszközök között kimutatott értékpapírokra lehet alkalmazni.
 
 (6) A fizetendő kamatok és kamatjellegű ráfordítások között kell elszámolni
 
-a)[^99] az egységes rovatrend K353. Kamatkiadások rovathoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket, és
+a)[^135] az egységes rovatrend K353. Kamatkiadások rovathoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket,
 
-b) a mérleg fordulónapjáig még le nem zárt kamatfedezeti ügyletek (határidős, swap és azonnali ügyletek) időarányos veszteségét, legfeljebb a fedezett alapügylet időarányos nyereségének összegéig.
+b)[^136] a mérleg fordulónapjáig még le nem zárt kamatfedezeti ügyletek (határidős, swap és azonnali ügyletek) időarányos veszteségét, legfeljebb a fedezett alapügylet időarányos nyereségének összegéig, és
+
+c)[^137] a befektetési jegyeknél eladáskor, beváltáskor a nettó eszközérték és a könyv szerinti érték különbözetében realizált veszteséget.
 
 (7) A részesedések, értékpapírok, pénzeszközök értékvesztése között kell elszámolni a részesedések, értékpapírok, pénzeszközök elszámolt értékvesztését, csökkentve azt a korábban leírt értékvesztések visszaírt összegével.
 
 (8) A pénzügyi műveletek egyéb ráfordításai között kell elszámolni
 
-a)[^100] az egységes rovatrend K354. Egyéb pénzügyi műveletek kiadásai és K93. Adóssághoz nem kapcsolódó származékos ügyletek kiadásai rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket,
+a)[^138] az egységes rovatrend K354. Egyéb pénzügyi műveletek kiadásai és K93. Adóssághoz nem kapcsolódó származékos ügyletek kiadásai rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket,
 
-b) a befektetett pénzügyi eszközök vagy az értékpapírok között kimutatott részesedések értékesítésekor a könyv szerinti érték és az eladási ár közötti veszteségjellegű különbözetet,
+b)[^139] az értékpapírok között kimutatott részesedések értékesítésekor a könyv szerinti érték és az eladási ár közötti veszteségjellegű különbözetet,
 
-c) a vásárolt hitelviszonyt megtestesítő értékpapírok értékesítésekor a könyv szerinti érték és az eladási ár közötti veszteségjellegű különbözetet,
+c)[^140] az értékpapírok között kimutatott hitelviszonyt megtestesítő értékpapírok értékesítésekor, beváltásakor – kamatozó értékpapírnál az eladási árban lévő kamattal csökkentett – az eladási ára, illetve névértéke és a könyv szerinti értéke közötti veszteségjellegű különbözetet,
 
 d) a hitelviszonyt megtestesítő kamatozó értékpapírok kibocsátásakor a névérték és a kapott eladási ár közötti veszteségjellegű különbözetet,
 
-e) a vásárolt hitelviszonyt megtestesítő értékpapírok beváltásakor a vételár és a könyv szerinti érték közötti veszteségjellegű különbözetet,
+e)[^141] a nem fedezeti célú határidős, opciós ügyletek és swap ügyletek pénzügyileg is realizált veszteségjellegű különbözetének a tárgyévre időarányosan jutó összegét, ha az ügylet zárása a mérleg fordulónapja és a mérlegkészítés időpontja között megtörtént,
 
 f) a külföldi pénzértékre szóló követeléshez kapcsolódó, a költségvetési évben realizált árfolyamveszteséget,
 
-g) a mérleg fordulónapjáig még le nem zárt nem kamatfedezeti célú, egyéb fedezeti ügyletek (határidős, opciós, swap és azonnali ügyletek) időarányos veszteségét, legfeljebb a fedezett alapügylet időarányos nyereségének összegéig, és
+g)[^142] a mérleg fordulónapjáig még le nem zárt nem kamatfedezeti célú, egyéb fedezeti ügyletek (határidős, opciós, swap és azonnali ügyletek) időarányos veszteségét, legfeljebb a fedezett alapügylet időarányos nyereségének összegéig,
 
-h) az Szt. 85. § (2) bekezdés c) pontjában, valamint (3) bekezdés g), m), n) és o) pontjaiban nevesített gazdasági eseményeket.
+h)[^143] az Szt. 85. § (3) bekezdés g), m), n) és o) pontjaiban nevesített gazdasági eseményeket a 21. § (10) bekezdése figyelembevételével, és
 
-[^96]: A 27. § (2) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^97]: A 27. § (3) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 25. pontja szerint módosított szöveg.
-[^98]: A 27. § (4) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 25. pontja szerint módosított szöveg.
-[^99]: A 27. § (6) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 26. pontja szerint módosított szöveg.
-[^100]: A 27. § (8) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 26. pontja szerint módosított szöveg.
+i)[^144] az Szt. 85. § (1) és (1a) bekezdésében meghatározott gazdasági eseményeket, ha azok nem tartós részesedésekhez vagy az értékpapírok között kimutatott hitelviszonyt megtestesítő értékpapírhoz kapcsolódnak.
+
+[^118]: A 27. § (1) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^119]: A 27. § (2) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 1. pontja, a 402/2015. (XII. 15.) Korm. rendelet 22. § 10. pontja szerint módosított szöveg.
+[^120]: A 27. § (2a) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^121]: A 27. § (2b) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^122]: A 27. § (2c) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^123]: A 27. § (2d) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^124]: A 27. § (3) bekezdés nyitó szövegrésze a 402/2015. (XII. 15.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
+[^125]: A 27. § (3) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 25. pontja, a 402/2015. (XII. 15.) Korm. rendelet 22. § 12. pontja szerint módosított szöveg.
+[^126]: A 27. § (4) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 25. pontja, a 402/2015. (XII. 15.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
+[^127]: A 27. § (4) bekezdés c) pontja a 402/2015. (XII. 15.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^128]: A 27. § (4) bekezdés d) pontja a 402/2015. (XII. 15.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^129]: A 27. § (4) bekezdés e) pontját a 402/2015. (XII. 15.) Korm. rendelet 10. § (4) bekezdése iktatta be.
+[^130]: A 27. § (4) bekezdés f) pontját a 402/2015. (XII. 15.) Korm. rendelet 10. § (4) bekezdése iktatta be.
+[^131]: A 27. § (4a) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 10. § (5) bekezdése iktatta be.
+[^132]: A 27. § (5) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
+[^133]: A 27. § (5a) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 10. § (6) bekezdése iktatta be.
+[^134]: A 27. § (5b) bekezdését a 402/2015. (XII. 15.) Korm. rendelet 10. § (6) bekezdése iktatta be.
+[^135]: A 27. § (6) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 26. pontja, 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^136]: A 27. § (6) bekezdés b) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.
+[^137]: A 27. § (6) bekezdés c) pontját a 402/2015. (XII. 15.) Korm. rendelet 10. § (7) bekezdése iktatta be.
+[^138]: A 27. § (8) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 26. pontja szerint módosított szöveg.
+[^139]: A 27. § (8) bekezdés b) pontja a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^140]: A 27. § (8) bekezdés c) pontja a 402/2015. (XII. 15.) Korm. rendelet 10. § (8) bekezdésével megállapított szöveg.
+[^141]: A 27. § (8) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 10. § (9) bekezdésével megállapított szöveg.
+[^142]: A 27. § (8) bekezdés g) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^143]: A 27. § (8) bekezdés h) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 17. pontja és a 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^144]: A 27. § (8) bekezdés i) pontját a 402/2015. (XII. 15.) Korm. rendelet 10. § (10) bekezdése iktatta be.

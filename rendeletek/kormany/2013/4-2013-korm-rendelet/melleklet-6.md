@@ -142,7 +142,7 @@
 
 ## – ebből: költségvetési évben esedékes követelések egyéb közhatalmi bevételekre
 
-## 4. Költségvetési évben esedékes követelések működési bevételre
+## 4. Költségvetési évben esedékes követelések működési bevételre
 
 ## – ebből: költségvetési évben esedékes követelések készletértékesítés ellenértékére, szolgáltatások ellenértékére, közvetített szolgáltatások ellenértékére
 
@@ -154,7 +154,7 @@
 
 ## – ebből: költségvetési évben esedékes követelések általános forgalmi adó visszatérítésére
 
-## – ebből: költségvetési évben esedékes követelések kamatbevételekre
+## – ebből: költségvetési évben esedékes követelések kamatbevételekre és más nyereségjellegű bevételekre
 
 ## – ebből: költségvetési évben esedékes követelések egyéb pénzügyi műveletek bevételeire
 
@@ -230,7 +230,7 @@
 
 ## – ebből: költségvetési évet követően esedékes követelések egyéb közhatalmi bevételekre
 
-## 4. Költségvetési évet követően esedékes követelések működési bevételre
+## 4. Költségvetési évet követően esedékes követelések működési bevételre
 
 ## – ebből: költségvetési évet követően esedékes követelések készletértékesítés ellenértékére, szolgáltatások ellenértékére, közvetített szolgáltatások ellenértékére
 
@@ -242,7 +242,7 @@
 
 ## – ebből: költségvetési évet követően esedékes követelések általános forgalmi adó visszatérítésére
 
-## – ebből: költségvetési évet követően esedékes követelések kamatbevételekre
+## – ebből: költségvetési évet követően esedékes követelések kamatbevételekre és más nyereségjellegű bevételekre
 
 ## – ebből: költségvetési évet követően esedékes követelések egyéb pénzügyi műveletek bevételeire
 
@@ -278,21 +278,23 @@
 
 ## – ebből: költségvetési évet követően esedékes követelések felhalmozási célú visszatérítendő támogatások, kölcsönök visszatérülésére államháztartáson kívülről
 
-## 8. Költségvetési évet követően esedékes követelések finanszírozási bevételekre
+## 8. Költségvetési évet követően esedékes követelések finanszírozási bevételekre
 
 ## – ebből: költségvetési évet követően esedékes követelések befektetési célú belföldi értékpapírok beváltásából, értékesítéséből
+
+## – ebből: költségvetési évet követően esedékes követelések államháztartáson belüli megelőlegezések törlesztésére
 
 ## – ebből: költségvetési évet követően esedékes követelések hosszú lejáratú tulajdonosi kölcsönök bevételeire
 
 ## – ebből: költségvetési évet követően esedékes követelések befektetési célú külföldi értékpapírok beváltásából, értékesítéséből
 
-## III. Követelés jellegű sajátos elszámolások
+## III. Követelés jellegű sajátos elszámolások
 
-## 1. Adott előlegek
+## 1. Adott előlegek
 
 ## – ebből: immateriális javakra adott előlegek
 
-## – ebből: beruházásokra adott előlegek
+## – ebből: beruházásokra, felújításokra adott előlegek
 
 ## – ebből: készletekre adott előlegek
 
@@ -314,15 +316,33 @@
 
 ## 7. Folyósított, megelőlegezett társadalombiztosítási és családtámogatási ellátások elszámolása
 
-## 8. Gazdasági társaság alapítása, jegyzett tőkéjének emelése esetén a társaságnak ténylegesen átadott pénzeszközök
+## 8. Részesedésszerzés esetén átadott eszközök
 
 ## 9. Letétre, megőrzésre, fedezetkezelésre átadott pénzeszközök, biztosítékok
 
-## E) Egyéb sajátos eszközoldali elszámolások
+## E) Egyéb sajátos elszámolások
 
-## I. December havi illetmények, munkabérek elszámolása
+## I. Előzetesen felszámított általános forgalmi adó elszámolása
 
-## II. Utalványok, bérletek és más hasonló, készpénz-helyettesítő fizetési eszköznek nem minősülő eszközök elszámolásai
+## 1. Adott előleghez kapcsolódó előzetesen felszámított levonható általános forgalmi adó
+
+## 2. Más előzetesen felszámított levonható általános forgalmi adó
+
+## 3. Adott előleghez kapcsolódó előzetesen felszámított nem levonható általános forgalmi adó
+
+## 4. Más előzetesen felszámított nem levonható általános forgalmi adó
+
+## II. Fizetendő általános forgalmi adó elszámolása
+
+## 1. Kapott előleghez kapcsolódó fizetendő általános forgalmi adó
+
+## 2. Más fizetendő általános forgalmi adó
+
+## III. Egyéb sajátos eszközoldali elszámolások
+
+## 1. December havi illetmények, munkabérek elszámolása
+
+## 2. Utalványok, bérletek és más hasonló, készpénz-helyettesítő fizetési eszköznek nem minősülő eszközök elszámolásai
 
 ## F) Aktív időbeli elhatárolások
 
@@ -343,6 +363,12 @@
 ## II. Nemzeti vagyon változásai
 
 ## III. Egyéb eszközök induláskori értéke és változásai
+
+## 1. Megszűnés miatt átvett lekötött betétek könyv szerinti értéke és változása
+
+## 2. Megszűnés miatt átvett egyéb pénzeszközök könyv szerinti értéke és változása
+
+## 3. Pénzeszközön kívüli egyéb eszközök induláskori értéke és változásai
 
 ## IV. Felhalmozott eredmény
 
@@ -430,7 +456,7 @@
 
 ## – ebből: költségvetési évet követően esedékes kötelezettségek felhalmozási célú támogatásokra az Európai Uniónak
 
-## 9. Költségvetési évet követően esedékes kötelezettségek finanszírozási kiadásokra
+## 9. Költségvetési évet követően esedékes kötelezettségek finanszírozási kiadásokra
 
 ## – ebből: költségvetési évet követően esedékes kötelezettségek hosszú lejáratú hitelek, kölcsönök törlesztésére pénzügyi vállalkozásnak
 
@@ -439,6 +465,8 @@
 ## – ebből: költségvetési évet követően esedékes kötelezettségek belföldi kötvények beváltására
 
 ## – ebből: költségvetési évet követően esedékes kötelezettségek éven túli lejáratú belföldi értékpapírok beváltására
+
+## – ebből: költségvetési évet követően esedékes kötelezettségek államháztartáson belüli megelőlegezések visszafizetésére
 
 ## – ebből: költségvetési évet követően esedékes kötelezettségek pénzügyi lízing kiadásaira
 
@@ -454,19 +482,13 @@
 
 ## 1. Kapott előlegek
 
-## – ebből: túlfizetés a jövedelemadókban
-
-## – ebből: túlfizetés az általános forgalmi adóban
-
-## – ebből: egyéb túlfizetések, téves és visszajáró befizetések, egyéb kapott előlegek
-
 ## 2. Továbbadási célból folyósított támogatások, ellátások elszámolása
 
 ## 3. Más szervezetet megillető bevételek elszámolása
 
 ## 4. Forgótőke elszámolása (Kincstár)
 
-## 5. Vagyonkezelésbe vett eszközökkel kapcsolatos visszapótlási kötelezettség elszámolása
+## 5. Nemzeti vagyonba tartozó befektetett eszközökkel kapcsolatos egyes kötelezettség jellegű sajátos elszámolások
 
 ## 6. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása
 
@@ -484,9 +506,9 @@
 
 ## Források összesen
 
-6. melléklet a 4/2013. (I. 11.) Korm. rendelethez
+6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^284]
 
-## Eredménykimutatás/konszolidált eredménykimutatás
+## EREDMÉNYKIMUTATÁS/KONSZOLIDÁLT EREDMÉNYKIMUTATÁS
 
 01. Közhatalmi eredményszemléletű bevételek
 
@@ -506,27 +528,29 @@ II. Aktivált saját teljesítmények értéke (±04+05)
 
 07. Egyéb működési célú támogatások eredményszemléletű bevételei
 
-08. Különféle egyéb eredményszemléletű bevételek
+08. Felhalmozási célú támogatások eredményszemléletű bevételei
 
-III. Egyéb eredményszemléletű bevételek (06+07+08)
+09. Különféle egyéb eredményszemléletű bevételek
 
-09. Anyagköltség
+III. Egyéb eredményszemléletű bevételek (06+07+08+09)
 
-10. Igénybe vett szolgáltatások értéke
+10. Anyagköltség
 
-11. Eladott áruk beszerzési értéke
+11. Igénybe vett szolgáltatások értéke
 
-12. Eladott (közvetített) szolgáltatások értéke
+12. Eladott áruk beszerzési értéke
 
-IV. Anyagjellegű ráfordítások (09+10+11+12)
+13. Eladott (közvetített) szolgáltatások értéke
 
-13. Bérköltség
+IV. Anyagjellegű ráfordítások (10+11+12+13)
 
-14. Személyi jellegű egyéb kifizetések
+14. Bérköltség
 
-15. Bérjárulékok
+15. Személyi jellegű egyéb kifizetések
 
-V. Személyi jellegű ráfordítások (13+14+15)
+16. Bérjárulékok
+
+V. Személyi jellegű ráfordítások (14+15+16)
 
 VI. Értékcsökkenési leírás
 
@@ -534,34 +558,40 @@ VII. Egyéb ráfordítások
 
 ## A) Tevékenység eredménye (I±II+III–IV–V–VI–VII.)
 
-16. Kapott (járó) osztalék és részesedés
+17. Kapott (járó) osztalék és részesedés
 
-17. Kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek
+18. Részesedésekből származó eredményszemléletű bevételek, árfolyamnyereségek
 
-18. Pénzügyi műveletek egyéb eredményszemléletű bevételei
+19. Befektetett pénzügyi eszközökből származó eredményszemléletű bevételek, árfolyamnyereségek
 
-– ebből: árfolyamnyereség
+20. Egyéb kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek
 
-VIII. Pénzügyi műveletek eredményszemléletű bevételei (16+17+18)
+21. Pénzügyi műveletek egyéb eredményszemléletű bevételei
 
-19. Fizetendő kamatok és kamatjellegű ráfordítások
+– ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamnyeresége
 
-20. Részesedések, értékpapírok, pénzeszközök értékvesztése
+– ebből: egyéb pénzeszközök mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamnyeresége
 
-21. Pénzügyi műveletek egyéb ráfordításai
+VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
-– ebből: árfolyamveszteség
+22. Részesedésekből származó ráfordítások, árfolyamveszteségek
 
-IX. Pénzügyi műveletek ráfordításai (19+20+21)
+23. Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó ráfordítások, árfolyamveszteségek
 
-## B) Pénzügyi műveletek eredménye (VIII-IX.)
+24. Fizetendő kamatok és kamatjellegű ráfordítások
 
-## C) Szokásos eredmény (±A±B)
+25. Részesedések, értékpapírok, pénzeszközök értékvesztése
 
-22. Felhalmozási célú támogatások eredményszemléletű bevételei
+– ebből: lekötött bankbetétek értékvesztése
 
-23. Különféle rendkívüli eredményszemléletű bevételek
+– ebből: Kincstáron kívüli forint- és devizaszámlák értékvesztése
 
-X. Rendkívüli eredményszemléletű bevételek (22+23)
+26. Pénzügyi műveletek egyéb ráfordításai
 
-XI. Rendkívüli ráfordítások
+– ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamvesztesége
+
+– ebből: egyéb pénzeszközök mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamvesztesége
+
+IX. Pénzügyi műveletek ráfordításai (22+23+24+25+26)
+
+[^284]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.

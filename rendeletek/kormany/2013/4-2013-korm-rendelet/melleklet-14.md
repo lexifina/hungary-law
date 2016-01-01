@@ -1,4 +1,4 @@
-14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^248]
+14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^318]
 
 ## A részletező nyilvántartások tartalma
 
@@ -144,7 +144,7 @@ V. A pénzeszközök és a sajátos elszámolások nyilvántartása
 
 4. Az utalványok, bérletek és más hasonló, készpénz-helyettesítő fizetési eszköznek nem minősülő eszközökről külön nyilvántartást kell vezetni, amelyből megállapítható azok beszerzésének ideje, összege, mennyisége, értéke, a foglalkoztatottaknak, ellátottaknak vagy másnak történő átadás időpontja, valamint az ezeket tanúsító dokumentumok azonosításához szükséges adatok.
 
-5. A letéti számlákhoz olyan nyilvántartást kell vezetni, amely tartalmazza legalább
+5. Azon pénzeszközök nyilvántartására szolgáló könyvviteli számlákhoz, amelyeken letét kerül kimutatásra olyan nyilvántartást kell vezetni, amely tartalmazza legalább
 
 a) a letét keletkezésének időpontját, jogcímét, célját,
 
@@ -340,4 +340,4 @@ e) a leltározással kapcsolatos feljegyzéseket.
 
 4. Az átsorolt, követelés fejében átvett készletekről olyan nyilvántartást kell vezetni, amelyet e rendelet az eszköz jellemzője szerint megkövetelne abban az esetben, ha azt nem értékesítenék.
 
-[^248]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. és 37. pontja, és 23. § (2) bekezdés 21–22. pontja szerint módosított szöveg.
+[^318]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. és 37. pontja, és 23. § (2) bekezdés 21–22. pontja, a 402/2015. (XII. 15.) Korm. rendelet 22. § 43. pontja szerint módosított szöveg.

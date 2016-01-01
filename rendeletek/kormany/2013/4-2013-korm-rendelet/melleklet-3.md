@@ -6,13 +6,15 @@
 
 | 2. | XIV. fejezet 21. cím | Belügyminisztérium | A cím terhére vállalt kötelezettségek adatai, a kifizetésekkel kapcsolatos követelések | Havonta egyszer, a Kincstár által megállapított időpontban |
 
+| 2b. | XX. fejezet 22. cím | kezelő szerv | a települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok részére biztosított működési és feladatalapú támogatásokkal kapcsolatos kötelezettségvállalások és követelések adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
+
 | 2a. | XX. fejezet 21. cím 1. alcím 1-4., 8 jogcímcsoport, 3. alcím 3,7-8. jogcímcsoport | fővárosi és megyei kormányhivatalok | A jogtalanul igénybevett ellátásokkal kapcsolatos követelések és a kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 3. | XLI. fejezet | Államadósság Kezelő Központ Zrt. | A kincstári, elemi költségvetés elkészítéséhez szükséges adatok | A kincstári, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
 | 4. | A hitelekkel, kölcsönökkel, értékpapírokkal, más finanszírozási célú műveletekkel (pl. betételhelyezéssel, visszavonással, fedezeti ügyletekkel) kapcsolatos követelések és kötelezettségek, egyéb eszközök (pl. értékpapírok, betétek, devizaszámlák) adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 5. | XVII. fejezet 21. cím, XLII. fejezet 1. cím 1-6. és 8-17. alcím, 2-3. cím, 4. cím 2. alcím 2. jogcímcsoport, 7. cím 2. alcím, 30-31. cím, 33. cím 14-20. alcím | Nemzeti Adó- és Vámhivatal | A kincstári, elemi költségvetés elkészítéséhez szükséges adatok | A kincstári, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
+| 5. | XVII. fejezet 21. cím, XLII. fejezet 1. cím 1-6. és 8- 17. alcím, 2-3. cím, 4. cím 2. alcím 2. jogcímcsoport, 7. cím 2. alcím, 30- 31. cím, 33. cím 14-20. alcím | Nemzeti Adó- és Vámhivatal | A kincstári, elemi költségvetés elkészítéséhez szükséges adatok | A kincstári, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
 | 6. | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok | Havonta egyszer, a Kincstár által megállapított időpontban |
 

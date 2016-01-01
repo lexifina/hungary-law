@@ -1,21 +1,23 @@
-## 14/A. [^108] A mérlegkészítés időpontja
+## 14/A. [^149] A mérlegkészítés időpontja
 
-## 30/A. §[^109] A mérlegkészítés időpontja
+## 30/A. §[^150] A mérlegkészítés időpontja
 
-a)[^110] a költségvetési szerv és a fejezeti kezelésű előirányzat esetén a költségvetési évet követő év február 25-e,
+a)[^151] a c) és d) pontban foglalt kivétellel a költségvetési szerv, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács esetén a költségvetési évet követő év február 25-e,
 
-b)[^111] a c) pontban foglalt kivétellel az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács esetén a költségvetési évet követő év február 25-e,
+b)[^152]
 
-c) a megszűnő költségvetési szerv, társulás, nemzetiségi önkormányzat esetén a megszűnés napját követő harmincadik nap,
+c)[^153] a megszűnő költségvetési szerv, társulás, nemzetiségi önkormányzat esetén a megszűnés napját követő hatvanadik nap,
 
-d) az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai által elkészített éves beszámoló esetén a költségvetési évet követő év május 15-e,
+d)[^154] a társadalombiztosítás pénzügyi alapjai által elkészített éves beszámoló esetén és az elkülönített állami pénzalapok Ávr. 134. § c) pontja és 138. § (5) bekezdés c) pontja szerinti adatai tekintetében a költségvetési évet követő év május 15-e,
 
 e) a Kincstár által a 6. § (1) bekezdés d) pontja szerint elkészített éves beszámoló esetén a költségvetési évet követő év május 31-e,
 
-f)[^112] a tulajdonosi joggyakorló szervezet által a 6. § (1) bekezdés e) pontja szerint elkészített éves beszámoló esetén a költségvetési évet követő év június 30-a.
+f)[^155] a tulajdonosi joggyakorló szervezet által a 6. § (1) bekezdés e) pontja szerint elkészített éves beszámoló esetén a költségvetési évet követő év június 15-e.
 
-[^108]: A 14/A. alcímet (30/A. §) a 497/2013. (XII. 29.) Korm. rendelet 97. §-a iktatta be.
-[^109]: A 30/A. §-t és az előtte lévő alcímet a 497/2013. (XII. 29.) Korm. rendelet 97. §-a iktatta be.
-[^110]: A 30/A. § a) pontja a 284/20145 (XI. 20.) Korm. rendelet 23. § (1) bekezdés 18. pontja szerint módosított szöveg.
-[^111]: A 30/A. § b) pontja a 284/20145 (XI. 20.) Korm. rendelet 23. § (1) bekezdés 19. pontja szerint módosított szöveg.
-[^112]: A 30/A. § f) pontja a 284/20145 (XI. 20.) Korm. rendelet 23. § (1) bekezdés 20. pontja szerint módosított szöveg.
+[^149]: A 14/A. alcímet (30/A. §) a 497/2013. (XII. 29.) Korm. rendelet 97. §-a iktatta be.
+[^150]: A 30/A. §-t és az előtte lévő alcímet a 497/2013. (XII. 29.) Korm. rendelet 97. §-a iktatta be.
+[^151]: A 30/A. § a) pontja a 402/2015. (XII. 15.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^152]: A 30/A. § b) pontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 3. pontja hatályon kívül helyezte.
+[^153]: A 30/A. § c) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 18. pontja szerint módosított szöveg.
+[^154]: A 30/A. § d) pontja a 402/2015. (XII. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^155]: A 30/A. § f) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 19. pontja szerint módosított szöveg.
