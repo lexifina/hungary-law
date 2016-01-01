@@ -244,7 +244,7 @@
 
 | 5. | gépkocsivezető |  | 100 |
 
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^7]
 
 ## A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -282,34 +282,38 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alapfeladat |
+| 2. | alapfeladat | nem alap- feladat |
 
 | 3. | főosztályvezető 1 | egyetemi tanár | 100 |  |
 
-| 4. | kutató professzor | 100 |  |
+| 4. | főosztályvezető 1 | kutató professzor | 100 |  |
 
 | 5. | osztályvezető 1 | egyetemi docens | 100 |  |
 
-| 6. | tudományos tanácsadó | 100 |  |
+| 6. | osztályvezető 1 | főiskolai tanár | 100 |  |
 
-| 7. | ügyvivő szakértő |  | 100 |
+| 7. | osztályvezető 1 | tudományos tanácsadó | 100 |  |
 
-| 8. | E | adjunktus | 100 |  |
+| 8. | osztályvezető 1 | ügyvivő szakértő |  | 100 |
 
-| 9. | tudományos főmunkatárs | 100 |  |
+| 9. | E | adjunktus | 100 |  |
 
-| 10. | tanársegéd | 100 |  |
+| 10. | E | tudományos főmunkatárs | 100 |  |
 
-| 11. | D | tudományos munkatárs | 100 |  |
+| 11. | E | tanársegéd | 100 |  |
 
-| 12. | gyakorlati oktató (szakoktató) | 100 |  |
+| 12. | E | gyakorlati oktató (szakoktató) | 100 |  |
 
-| 13. | mesterkiképző | 100 |  |
+| 13. | D | tudományos munkatárs | 100 |  |
 
-| 14. | C | tudományos segédmunkatárs | 100 |  |
+| 14. | D | mesterkiképző | 100 |  |
 
-| 15. | kiképző | 100 |  |
+| 15. | C | tudományos segédmunkatárs | 100 |  |
+
+| 16. | C | kiképző | 100 |  |
 
 III. Kiképzői beosztások
+
+[^7]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja szerint módosított szöveg.

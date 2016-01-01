@@ -64,7 +64,7 @@
 
 ## 1. Rendészeti felsőoktatásban szerzett szakképesítés
 
-## (Rendőrtiszti Főiskola, vagy NKE bűnügyi igazgatási, rendészeti igazgatási, nemzetbiztonsági alapképzési szakon, kapcsolódó mesterképzési szakon)
+## (Rendőrtiszti Főiskola, vagy NKE bűnügyi igazgatási szakon, rendészeti igazgatási szak biztonsági, határrendész, igazgatásrendészeti, közlekedésrendészeti, közrendvédelmi vagy migrációs szakirányon, nemzetbiztonsági alapképzési szakon, kapcsolódó mesterképzési szakon)
 
 ## 2. Rendészeti szervező szakképesítés (OKJ 62 861 01)
 
@@ -94,7 +94,7 @@
 
 | 5 | B | középiskolai végzettség (érettségi) | rendőr tiszthelyettes (OKJ 54 861 01) | nem szükséges | nem szükséges |
 
-| 6 | A | középiskolai végzettség (érettségi) | rendőr tiszthelyettes rész-szakképesítés (OKJ 51-861 01- 03) | nem szükséges | nem szükséges |
+| 6 | A | középiskolai végzettség (érettségi vagy szakiskolai végzettség) | rendőr tiszthelyettes rész-szakképesítés (OKJ 51-861 01- 03) | nem szükséges | nem szükséges |
 
 ## II.
 
@@ -236,4 +236,6 @@
 
 ## Zalka Máté Műszaki Katonai Főiskolán (jogutód: Bólyai János Műszaki Katonai Főiskola) szerzett szakirányú végzettséget.
 
-10. melléklet a 30/2015. (VI. 16.) BM rendelethez
+10. melléklet a 30/2015. (VI. 16.) BM rendelethez[^9]
+
+[^9]: A 10. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § g) pontja szerint módosított szöveg.

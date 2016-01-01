@@ -14,11 +14,11 @@
 
 | 5. | közép- vezető | szakirányító 1 | igazgató | 550 | 400 |
 
-| 6. | szakirányító 2 | igazgató-helyettes | 550 | 400 |
+| 6. | szakirányító 2 | igazgató-helyettes | 550 vagy 650* | 400 |
 
 | 7. | főosztályvezető 1 | főosztályvezető** | 550 650* | 400 |
 
-| 8. | főtanácsadó | 550 | 400 |
+| 8. | főtanácsadó | 550 vagy 650* | 400 |
 
 | 9. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes** | 550 650* | 400 |
 
@@ -26,7 +26,7 @@
 
 | 11. | osztályvezető 1 | irodavezető | 550 | 400 |
 
-| 12. | tanácsadó | 550 | 400 |
+| 12. | tanácsadó | 550 vagy 650* | 400 |
 
 | 13. | osztályvezető** | 550 650* | 400 |
 
@@ -40,7 +40,7 @@
 
 | 3. | D | csoportvezető | 650 500** | 400 |
 
-| 4. | jogtanácsos |  | 350 |
+| 4. | jogtanácsos |  | 400 |
 
 | 5. | kiemelt biztonsági főtiszt | 650 |  |
 
@@ -74,7 +74,7 @@
 
 | 20. | műveleti tiszt 3 | 650 |  |
 
-| 21. | szolgálatparancsnok | 650 |  |
+| 21. | szolgálatparancsnok | 650 vagy 500 |  |
 
 | 22. | A | biztonsági tiszt | 650 |  |
 
@@ -96,7 +96,9 @@
 
 | 6. | személybiztosító 1 | 650 |  |
 
-| 7. | technikus 1 | 650 | 350 |
+| 7. | technikus 1 | 650 | 400 |
+
+| 7a | szolgálatparancsnok 1 | 500 |  |
 
 | 8. | C | biztonsági gépjárművezető 2 | 650 500** |  |
 
@@ -104,49 +106,49 @@
 
 | 10. | lakásbiztosító 1 | 650 |  |
 
-| 11. | műveleti mentőápoló 1 | 650 | 350 |
+| 11. | műveleti mentőápoló 1 | 650 | 400 |
 
 | 12. | műveleti tiszthelyettes 2 | 650 |  |
 
-| 13. | objektumőr 1 | 500 | 350 |
+| 13. | objektumőr 1 | 500 | 400 |
 
-| 14. | segédelőadó 1 | 650 500** | 350 |
+| 14. | segédelőadó 1 | 650 500** | 400 |
 
 | 15. | személybiztosító 2 | 650 |  |
 
-| 16. | szolgálatparancsnok | 500 |  |
+| 16. | szolgálatparancsnok 2 | 500 |  |
 
-| 17. | technikus 2 | 650 | 350 |
+| 17. | technikus 2 | 650 | 400 |
 
 | 18. | B | biztonsági gépjárművezető 3 | 650 500** |  |
 
-| 19. | gépjárművezető 1 | 650 | 350 |
+| 19. | gépjárművezető 1 | 650 | 400 |
 
 | 20. | helyszínbiztosító 3 | 650 |  |
 
 | 21. | lakásbiztosító 2 | 650 |  |
 
-| 22. | műveleti mentőápoló 2 | 650 | 350 |
+| 22. | műveleti mentőápoló 2 | 650 | 400 |
 
 | 23. | műveleti tiszthelyettes 3 | 650 |  |
 
-| 24. | objektumőr 2 | 500 | 350 |
+| 24. | objektumőr 2 | 500 | 400 |
 
-| 25. | segédelőadó 2 | 650 500** | 350 |
+| 25. | segédelőadó 2 | 650 500** | 400 |
 
-| 26. | technikus 3 | 650 | 350 |
+| 26. | technikus 3 | 650 | 400 |
 
-| 27. | A | gépjárművezető 2 | 650 | 350 |
+| 27. | A | gépjárművezető 2 | 650 | 400 |
 
-| 28. | objektumőr 3 | 500 | 350 |
+| 28. | objektumőr 3 | 500 | 400 |
 
-| 29. | segédelőadó 3 | 650 500** | 350 |
+| 29. | segédelőadó 3 | 650 500** | 400 |
 
 ## 650* A TEK Műveleti Igazgatóság, Személyvédelmi Igazgatóság, a Felderítési Igazgatóság, valamint az Operatív Technikai-Informatikai Igazgatóság közvetlen műveleti tevékenységében résztvevő vezető beosztást betöltő állomány esetében a hivatásos pótlék mértéke 650%.
 
 ## 500** A TEK Ügyeleti és Objektumvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 500%.
 
-5. melléklet a 30/2015. (VI. 16.) BM rendelethez
+5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^5]
 
 ## A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
@@ -290,7 +292,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 23. | ügyeletes | 100 |  |
 
-| 24. | oktató |  | 50 |
+| 24. | oktató |  | 100 |
 
 | 25. | B | szólamvezető |  | 50 |
 
@@ -327,3 +329,5 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 | 41. | A | előadó I. | 100 | 50 |
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+[^5]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja szerint módosított szöveg.

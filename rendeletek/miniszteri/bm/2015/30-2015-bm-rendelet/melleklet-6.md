@@ -8,7 +8,7 @@
 
 | 4. | C | segédelőadó | 150 | 100 |
 
-| 5. | területi | D | szakoktató |  | 50 |
+| 5. | területi | D | szakoktató |  | 100 |
 
 | 6. | referens | 100 | 50 |
 
@@ -24,7 +24,7 @@
 
 | 12. | raktáros |  | 50 |
 
-| 13. | kiképző |  | 50 |
+| 13. | kiképző |  | 100 |
 
 | 14. | B | gépjárművezető | 100 | 50 |
 
@@ -38,7 +38,7 @@
 
 | 19. | referens | 100 | 50 |
 
-| 20. | B | gépész | 125 |  |
+| 20. | B | gépész | 135 |  |
 
 | 21. | különlegesszer-kezelő | 135 |  |
 
@@ -54,7 +54,7 @@
 
 ## KML: Katasztrófavédelmi mobil laborok
 
-6. melléklet a 30/2015. (VI. 16.) BM rendelethez
+6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^6]
 
 ## A büntetés-végrehajtási szervezet szolgálati beosztásai
 
@@ -76,7 +76,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 6. | szakirányító 2 | főosztályvezető | 100 |  |
 
-| 7. | főosztályvezető 1 | szolgálatvezető-helyettese | 100 |  |
+| 7. |  |  |  |  |
 
 | 8. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes | 100 |  |
 
@@ -110,11 +110,13 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | 10. | ügyvezető igazgató-helyettes (Bv. Holding Kft.) | 100 |  |
 
+|  | 10a. | igazgatóhelyettes (intézmény) | 100 |  |
+
 |  | 11. | főosztályvezető 2 | parancsnok-helyettes | 100 |  |
 
 |  | 12. | ügyvezető igazgató-helyettes (gazdasági társaságok) | 100 |  |
 
-|  | 13. | igazgató-helyettes (intézmény) | 100 |  |
+|  | 13. |  |  |  |
 
 |  | 14. | gazdasági vezető | 100 |  |
 
@@ -227,3 +229,5 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 | 42. | reintegrációs tiszt | 150** vagy 100 |  |
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+[^6]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja szerint módosított szöveg.

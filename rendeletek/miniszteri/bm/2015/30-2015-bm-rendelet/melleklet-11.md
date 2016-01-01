@@ -92,7 +92,7 @@
 
 | 5 | B | középiskolai végzettség (érettségi) | büntetés-végrehajtási felügyelő (OKJ 52 861 02) | nem szükséges | nem szükséges |
 
-| 6 | A | középfokú | Büntetés-végrehajtási őr, segédfelügyelő (OKJ 31 861 01-02) | nem szükséges | nem szükséges |
+| 6 | A | érettségi vagy szakiskolai végzettség | Büntetés-végrehajtási őr, segédfelügyelő (OKJ 31 861 01-02) | nem szükséges | nem szükséges |
 
 ## II.
 
@@ -206,7 +206,7 @@
 
 | 5 | B | középiskolai végzettség (érettségi) | Büntetés-végrehajtási őr, segédfelügyelő (OKJ 31 861 01-02) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
-| 6 | A | középfokú | Büntetés-végrehajtási őr, segédfelügyelő (OKJ 31 861 01-02) | beosztásnak megfelelő szakképesítés | nem szükséges |
+| 6 | A | érettségi vagy szakiskolai végzettség | Büntetés-végrehajtási őr, segédfelügyelő (OKJ 31 861 01-02) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
 ## Magyarázat a 3. táblázathoz:
 
@@ -234,67 +234,77 @@
 
 ## büntetés-végrehajtási alapfokú szaktanfolyamot.
 
-11. melléklet a 30/2015. (VI. 16.) BM rendelethez
+11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^10]
 
 A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások
 
-1. Őr-, ügyeleti, készenléti és készültségi szolgálatok a rendőrségnél
+I. A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások a rendőrségnél
 
-1. Őrszolgálatok
+1. Folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások
 
-a) Objektumőr
+a) Ügyeleti Főosztály (ORFK)
 
-b) Fogdaőr
+b) Központi ügyeleti szolgálat (KR)
 
-c) Kísérőőr
+c) ügyeleti szolgálat (RRI)
 
-d) Őrparancsnok Fogdafelügyelő
+d) Tevékenység-irányítási Központ (BRFK, MRFK)
 
-e) Segédelőadó (őrzött szálláson)
+e) Sajtóügyelet (ORFK)
 
-f) Szolgálatparancsnok(őrzött szálláson)
+f) híradástechnikai ügyeleti szolgálat
 
-2. Ügyeleti szolgálatok
+g) határrendészeti kirendeltség ügyelete
 
-a) Ügyeleti Főosztály(ORFK)
+h) NEBEK nemzetközi kapcsolattartási pont ügyelete
 
-b) Központi ügyeleti szolgálat (KR), ügyeleti szolgálat (RRI)
+i) Őrzött Szállás
 
-c) Tevékenység-irányítási Központ (BRFK, MRFK)
+j) Ügyeleti Főosztály ügyeletvezető (TEK)
 
-d) Sajtóügyelet (ORFK)
+szolgálati beosztásai.
 
-e) híradástechnikai ügyeleti szolgálat
+2. Készenléti jellegű szolgálati beosztások
 
-f) határrendészeti kirendeltség ügyelete
+a) az ORFK Közrendvédelmi és Igazgatásrendészeti Főosztályai által adott szolgálattal érintett beosztások, a megyei (fővárosi) rendőr-főkapitányságok, valamint rendőrkapitányságok közrendvédelmi, közlekedési és igazgatásrendészeti szolgálataival érintett szolgálati beosztások,
 
-g) NEBEK nemzetközi kapcsolattartási pont ügyelete
+b) a KR bevetési főosztályainak szolgálati beosztásai,
 
-h) Őrzött Szállás
+c) a KR Informatikai Osztályának szolgálati beosztásai,
 
-i) Ügyeleti Főosztály (TEK).
+d) a KR ÁFSZ szolgálati beosztásai,
 
-3. Készenléti szolgálatok
+e) a KR LRSZ szolgálati beosztásai,
 
-a) az ORFK Közrendvédelmi, Közlekedésrendészeti és Igazgatásrendészeti Főosztályai által adott szolgálattal érintett beosztások, a megyei (fővárosi) rendőr-főkapitányságok, valamint rendőrkapitányságok közrendvédelmi, közlekedési és igazgatásrendészeti szolgálataival érintett beosztások,
+f) a KR SZOVIG biztonsági főtiszt, biztonsági tiszt, objektumőr, lakásbiztosító, helyszínbiztosító, személybiztosító, biztonsági gépkocsivezető, referens, tűzszerész, technikus és fogdafelügyelő szolgálati beosztásai,
 
-b) KR bevetési főosztályok beosztásai,
+g) a KR KEÖ alosztályvezető-helyettes, csoportvezető, kiemelt főelőadó, kiemelt biztonsági főtiszt, főelőadó, csoportparancsnok, szolgálatirányító, biztonsági gépkocsivezető, személybiztosító, helyszínbiztosító, lakásbiztosító, objektumőr szolgálati beosztásai,
 
-c) KR Informatikai Osztály beosztásai,
+h) az RRI ügyeletes vezető, bűnügyi készenlét, idegenrendészeti készenlét szolgálati beosztása,
 
-d) KR ÁFSZ beosztásai,
+i) a területi és helyi szervek bűnügyi szolgálati ág forrónyomos csoportjaival érintett szolgálati beosztások, valamint a bűnügyi technikai szolgálat körébe tartozó szolgálati beosztások,
 
-e) KR LRSZ beosztásai,
+j) a TEK Műveleti Igazgatóság főosztályvezető-helyettes, osztályvezető, műveleti tiszt 1, mentőorvos 1, osztályvezető-helyettes, műveleti tiszt 2, mentőorvos 2, mentőtiszt 2, műveleti tiszt, mentőtiszt 2, műveleti tiszt 3, szolgálatparancsnok, műveleti tiszthelyettes 1, műveleti mentőápoló 1, műveleti tiszthelyettes 2, szolgálatparancsnok 1, szolgálatparancsnok 2, műveleti mentőápoló 2 szolgálati beosztásai,
 
-f) KR SZOVIG biztonsági főtiszt, biztonsági tiszt, objektumőr, lakásbiztosító, helyszínbiztosító, személybiztosító, biztonsági gépkocsivezető, referens, tűzszerész, technikus és fogdafelügyelő beosztásai,
+k) a TEK Személyvédelmi Igazgatóság osztályvezető-helyettes, kiemelt biztonsági főtiszt, biztonsági főtiszt, kiemelt biztonsági tiszt, biztonsági tiszt, biztonsági gépjárművezető 1, biztonsági gépjárművezető 2, biztonsági gépjárművezető 3, helyszínbiztosító 1, helyszínbiztosító 2, helyszínbiztosító 3, személybiztosító 1, személybiztosító 2, lakásbiztosító 1, lakásbiztosító 2 szolgálati beosztásai.
 
-g) KR KEÖ alosztályvezető-helyettes, csoportvezető, kiemelt főelőadó, kiemelt biztonsági főtiszt, főelőadó, csoportparancsnok, szolgálatirányító, biztonsági gépkocsivezető, személybiztosító, helyszínbiztosító, lakásbiztosító, objektumőr, beosztásai,
+3. Őrszolgálati beosztások
 
-h) RRI (ügyeletes vezető, bűnügyi készenlét, idegenrendészeti készenlét beosztásai),
+a) objektumőr
 
-i) Területi és helyi szervek bűnügyi szolgálati ág forrónyomos csoportjaival érintett beosztások.
+b) fogdaőr
 
-2. Ügyeleti szolgálat a hivatásos katasztrófavédelmi szervnél
+c) kísérőőr
+
+d) őrparancsnok fogdafelügyelő
+
+e) segédelőadó (őrzött szálláson)
+
+f) szolgálatparancsnok, szolgálatparancsnok 1, szolgálatparancsnok 2.
+
+II. A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, valamint a készenléti jellegű szolgálati beosztások a hivatásos katasztrófavédelmi szervnél
+
+1. Folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások
 
 a) vezető főügyeletes (központi szerv)
 
@@ -302,64 +312,86 @@ b) főügyeletes (központi szerv)
 
 c) főügyeletes (területi szervek)
 
-d) Katasztrófavédelmi Műveleti Szolgálat állománya (területi szervek)
+d) Megyei/Fővárosi Műveltirányítási Ügyelet állománya (területi szervek)
 
-e) Megyei/Fővárosi Műveltirányítási Ügyelet állománya (területi szervek)
+e) ügyeletvezető (területi jogállású szervek)
 
-f) Katasztrófavédelmi Mobil Labor (főváros) állománya
+f) ügyeletes (helyi szervek)
 
-g) ügyeletvezető (területi jogállású szervek)
+g) ügyeletvezető (területi szervek)
 
-h) ügyeletes (helyi szervek)
+h) ügyeletvezető (KOK).
 
-i) ügyeletvezető (területi szervek)
+2. Készenléti jellegű szolgálati beosztások
 
-j) ügyeletvezető (KOK)
+a) szolgálatparancsnok (Hivatásos Tűzoltóparancsnokság)
 
-3. Őr-, ügyeleti és készenléti szolgálatok a büntetés-végrehajtási szervezetnél
+b) hajóskapitány (Hivatásos Tűzoltóparancsnokság)
 
-1. Őrszolgálati jellegű beosztások
+c) rajparancsnok (Hivatásos Tűzoltóparancsnokság)
 
-a) Főápoló (Büntetés-végrehajtás Központi Kórháza)
+d) rajparancsnok-helyettes (Hivatásos Tűzoltóparancsnokság)
 
-b) Szakápoló (Büntetés-végrehajtás Központi Kórháza, Igazságügyi Megfigyelő és Elmegyógyító Intézet)
+e) hajóvezető (Hivatásos Tűzoltóparancsnokság)
 
-c) Ápoló (Büntetés-végrehajtás Központi Kórháza, Igazságügyi Megfigyelő és Elmegyógyító Intézet)
+f) szerparancsnok (Hivatásos Tűzoltóparancsnokság)
 
-d) Vezető szakasszisztens (Büntetés-végrehajtás Központi Kórháza)
+g) gépész (Hivatásos Tűzoltóparancsnokság)
 
-e) Szakasszisztens (Büntetés-végrehajtás Központi Kórháza)
+h) különlegesszer-kezelő (Hivatásos Tűzoltóparancsnokság)
 
-f) Biztonsági tiszt
+i) gépjárművezető (Hivatásos Tűzoltóparancsnokság)
 
-g) Biztonsági főfelügyelő
+j) beosztott tűzoltó (Hivatásos Tűzoltóparancsnokság)
 
-h) Körlet-főfelügyelő
+k) matróz (Hivatásos Tűzoltóparancsnokság)
 
-i) Felügyelő (biztonsági, körlet, foglalkoztatási)
+l) a Katasztrófavédelmi Műveleti Szolgálatnál rendszeresített szolgálati beosztások.
 
-j) Technikai-rendszer kezelő
+3. A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások a büntetés-végrehajtási szervezetnél
 
-k) Kutyavezető
+1. Folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások
 
-2. Ügyeleti szolgálat
+a) (egészségügyi) osztályvezető (főorvos)
 
-a) (egészségügyi) Osztályvezető (főorvos)
+b) szakorvos
 
-b) Főorvos
+c) szakasszisztens
 
-c) Szakorvos
+d) főügyeletes.
 
-d) Szakasszisztens
+2. Készenléti jellegű szolgálati beosztások
 
-e) Ügyeletes tiszt (BVOP)
+a) (egészségügyi) osztályvezető (főorvos)
 
-3. Készenléti szolgálat
+b) szakorvos
 
-a) (egészségügyi) Osztályvezető (főorvos)
+c) szakasszisztens
 
-b) Szakorvos
+d) műveleti csoportba vagy műveleti osztályra beosztottak.
 
-c) Szakasszisztens
+3. Őrszolgálati beosztások
 
-d) Speciális (akció) csoportba beosztottak.
+a) főápoló [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+
+b) szakápoló [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+
+c) ápoló [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+
+d) vezető szakasszisztens [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+
+e) szakasszisztens [Büntetés-végrehajtás Központi Kórháza (Tököl), Igazságügyi Megfigyelő és Elmegyógyító Intézet]
+
+f) biztonsági tiszt
+
+g) főfelügyelő
+
+h) körlet-főfelügyelő
+
+i) felügyelő (körlet, foglalkoztatási, munkáltatási)
+
+j) biztonsági felügyelő
+
+k) kutyavezető.
+
+[^10]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított szöveg.

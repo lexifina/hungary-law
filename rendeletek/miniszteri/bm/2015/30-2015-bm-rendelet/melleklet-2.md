@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^2]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -356,11 +356,13 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 57. | bűnügyi referens | 100 |  |
 
+| 57a. | hajóvezető | 100 |  |
+
 | 58. | B | fogdafelügyelő | 100 |  |
 
 | 59. | főhatárrendész | 100 125** |  |
 
-| 60. | hajóvezető | 100 |  |
+| 60. |  |  |  |
 
 | 61. | hajóvizsgáló | 100 |  |
 
@@ -704,8 +706,6 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 300****: A Különleges Szolgálatok Igazgatósága Légirendészeti Szolgálat fedélzeti szolgálattevő (helikopter hajózó) beosztások esetében a hivatásos pótlék mértéke 300%.
 
-500*****: A Köztársasági Elnöki Őrség főosztályvezető, főosztályvezető-helyettesi és a KR KEŐ Személyvédelmi Osztály osztályvezető beosztása, valamint a Tűzszerész Szolgálat vezető beosztásai esetében a hivatásos pótlék mértéke 600%.
-
 600******: A Köztársasági Elnöki Őrség személyvédelmi feladatait ellátó állománya és a Tűzszerész Szolgálat beosztotti állománya esetében a hivatásos pótlék mértéke 600%.
 
 ******* A kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági, vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
@@ -946,9 +946,11 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 40. | bűnügyi referens | 125 |  |
 
+| 40a. | hajóvezető | 125 |  |
+
 | 41. | B | fogdafelügyelő | 125 |  |
 
-| 42. | hajóvezető | 125 |  |
+| 42. |  |  |  |
 
 | 43. | hajóvizsgáló | 125 |  |
 
@@ -992,7 +994,7 @@ Országos Rendőr-főkapitányság (ORFK)
 
 Területi szervek: (megyei illetékességű középirányító és azonos jogállású):
 
-BRFK + MRFK-k + KR + RRI + BSZKI + Rendőrségi Oktatási és Kiképzési Központ + Nemzetközi Együttműködési Központ
+BRFK + MRFK-k + KR + RRI + BSZKI + Rendőrségi Oktatási és Kiképzési Központ + Nemzetközi Bűnügyi Együttműködési Központ
 
 Helyi szervek:
 
@@ -1037,3 +1039,5 @@ Egyéb rövidítések:
 | MRFK: | Megyei Rendőr-főkapitányság |
 
 | RRI: | Repülőtéri Rendőr Igazgatóság |
+
+[^2]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3. melléklet a 30/2015. (VI. 16.) BM rendelethez
+3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^3]
 
 ## A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolgálati beosztásai
 
@@ -30,13 +30,13 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 12. | főosztályvezető- helyettes 2 | osztályvezető | 300 | 300 |
 
-| 13. | osztályvezető 1 | tanácsadó | 300 | 300 |
+| 13. | osztályvezető 1 | tanácsadó | 450 | 300 |
 
-| 14. | osztályvezető 2 | alosztályvezető | 300 | 300 |
+| 14. | osztályvezető 2 | alosztályvezető | 450 | 300 |
 
-| 15. | osztályvezető-helyettes |  |  |
+| 15. | osztályvezető-helyettes | 450 |  |
 
-| 16. | kirendeltség-vezető | 300 |  |
+| 16. | kirendeltség-vezető | 450 |  |
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
@@ -51,3 +51,5 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 | 4. | C | kiemelt főelőadó | 450 | 300 |
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+[^3]: A 3. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § b) pontja szerint módosított szöveg.
