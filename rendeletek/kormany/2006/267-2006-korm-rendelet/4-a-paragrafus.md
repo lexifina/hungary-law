@@ -1,4 +1,4 @@
-4/A. §[^11] (1) A Kormány a bányafelügyelet építésügyi hatósági és építésfelügyeleti hatáskörébe tartozó építményekre, valamint e létesítmények elvi építésének, építésének, ideiglenes használatbavételének, használatbavételének, fennmaradásának, átalakításának, megszüntetésének, továbbá rendeltetésük megváltoztatásának első- és másodfokú engedélyezési eljárásában – az engedély hatályának meghosszabbítása iránti kérelem elbírálásának kivételével –, a 2. mellékletben meghatározott feltételek esetén és szakkérdésben, a 2. melléklet A. pontja szerinti hatóságokat szakhatóságként jelöli ki. Az eljárásban hozott határozatot a megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
+4/A. §[^17] (1) A Kormány a bányafelügyelet építésügyi hatósági és építésfelügyeleti hatáskörébe tartozó építményekre, valamint e létesítmények elvi építésének, építésének, ideiglenes használatbavételének, használatbavételének, fennmaradásának, átalakításának, megszüntetésének, továbbá rendeltetésük megváltoztatásának első- és másodfokú engedélyezési eljárásában – az engedély hatályának meghosszabbítása iránti kérelem elbírálásának kivételével –, a 2. mellékletben meghatározott feltételek esetén és szakkérdésben, a 2. melléklet A. pontja szerinti hatóságokat szakhatóságként jelöli ki. Az eljárásban hozott határozatot a megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
 
 (2) Az (1) bekezdés szerinti eljárásokban a kormányhivatal a 2. melléklet B. pontjában meghatározott szakkérdéseket vizsgálja. Az (1) bekezdés szerinti másodfokú eljárásokban, ha a fellebbezés érinti az első fokú eljárásban vizsgált szakkérdést, a Hivatal a 2. melléklet B. pontjában meghatározott szakkérdés vizsgálatára az ott megjelölt hatóságot rendelheti ki szakértőként.
 
@@ -22,8 +22,7 @@ b) forgalmazására, tárolására, gyártására vonatkozó engedélyezési elj
 
 (10) A kormányhivatal a (9) bekezdés szerinti eljárásban a környezetvédelmi előírásoknak való megfelelőséget szakkérdésként vizsgálja. Az e bekezdés szerinti másodfokú eljárásban a Hivatal a szakkérdés vizsgálatára az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget rendelheti ki szakértőként.
 
-(11) A kormányhivatal bányafelügyeleti hatáskörébe tartozó hatósági ügyekben az ügyintézési határidő 30 nap.
+(11)–(12)[^18]
 
-(12) A kormányhivatal bányafelügyeleti hatáskörébe tartozó hatósági ügyekben, ahol a hatósági ügyben szakhatóság igénybevételére nem kerül sor, az ügyintézési határidő 45 nap.
-
-[^11]: A 4/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 22. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 85. § (3) bekezdésével megállapított szöveg.
+[^17]: A 4/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 22. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 85. § (3) bekezdésével megállapított szöveg.
+[^18]: A 4/A. § (11)–(12) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 81. § b) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

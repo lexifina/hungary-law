@@ -1,12 +1,12 @@
 ## 2. §[^3]
 
-3. §[^4] (1) Bányafelügyeletként és az állami földtani feladatokat ellátó szervként a Kormány a Hivatalt és a Baranya, Borsod-Abaúj-Zemplén, Jász-Nagykun-Szolnok, Pest és Veszprém Megyei Kormányhivatalt (a továbbiakban: kormányhivatal) jelöli ki. A kormányhivatalok illetékességi területét és székhelyét az 1. melléklet tartalmazza.
+3. §[^4] (1)[^5] Bányafelügyeletként és az állami földtani feladatokat ellátó szervként a Kormány a Hivatalt és a Baranya, Borsod-Abaúj-Zemplén, Jász-Nagykun-Szolnok, Pest és Veszprém Megyei Kormányhivatalt (a továbbiakban együtt: kormányhivatal) jelöli ki. A kormányhivatalok illetékességi területét és székhelyét az 1. melléklet tartalmazza.
 
 (2) A kormányhivatal bányafelügyeleti feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a bányászati ügyekért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
 (3) A fővárosi és megyei kormányhivatal bányafelügyeleti hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § f) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket a Hivatal gyakorolja.
 
-(4)[^5] A bányafelügyelet hatáskörébe tartozó hatósági ügyekben – az (5) bekezdésben, valamint a 3/A–3/C. §-ban és a 4. §-ban foglaltak kivételével – első fokon a kormányhivatal, másodfokon a Hivatal jár el. Több kormányhivatal illetékességi területét érintő, a bányafelügyelet hatáskörébe tartozó hatósági ügy esetén az eljáró kormányhivatalt a Hivatal elnöke jelöli ki.
+(4)[^6] A bányafelügyelet hatáskörébe tartozó hatósági ügyekben – az (5) bekezdésben, valamint a 3/A–3/C. §-ban és a 4. §-ban foglaltak kivételével – első fokon a kormányhivatal, másodfokon a Hivatal jár el. Több kormányhivatal illetékességi területét érintő, a bányafelügyelet hatáskörébe tartozó hatósági ügy esetén az eljáró kormányhivatalt a Hivatal elnöke jelöli ki.
 
 (5) A Hivatal első fokú hatáskörébe tartozik:
 
@@ -18,7 +18,7 @@
 
 4. a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-ában és a munkavédelemről szóló 1993. évi XCIII. törvény 83/B. §-ában meghatározott feladatok ellátása;
 
-5. a hites bányamérő tevékenységének engedélyezése és ellenőrzése, a hites bányamérői tevékenység folytatására jogosult személyek nyilvántartásának vezetése, az évenkénti adatszolgáltatási kötelezettség keretében leadott bányaművelési térképek ellenőrzése, ellenőrző bányamérések végzése;
+5.[^7] a hites bányamérő tevékenységének hatósági felügyelete, illetve a tevékenység végzésének bejelentésével kapcsolatos ügyek, a hites bányamérői tevékenység folytatására jogosult személyek nyilvántartásának vezetése, az évenkénti adatszolgáltatási kötelezettség keretében leadott bányaművelési térképek hatósági felügyelete, ellenőrző bányamérések végzése;
 
 6. a biztonsági szabályzatok előírásai alól történő általános eltérés, felmentés engedélyezése;
 
@@ -34,11 +34,11 @@
 
 12. az Állami Ásványi Nyersanyag és Geotermikus Energiavagyon Nyilvántartás vezetése, ebből adatszolgáltatás és igazolás kibocsátása;
 
-13. a földtani szakértői engedélyek kiadása, a földtani szakértők nyilvántartása;
+13.[^8] a földtani szakértői tevékenység hatósági felügyelete, a földtani szakértők nyilvántartása;
 
 14. a Bt. 24. § (3) bekezdése szerint a szénhidrogén szállítóvezeték, a földgázelosztó és -célvezeték, valamint -tároló létesítmény, egyéb gáz és gáztermék vezeték és a szén-dioxid szállítóhálózat tervezésére, létesítésére, felújítására, üzemeltetésére és elbontására az engedélyes, az egyéb gáz és gáztermék vezeték és a szén-dioxid szállítóhálózat üzemeltetője által kidolgozott műszaki-biztonsági irányítási rendszer jóváhagyása;
 
-15. a Bt. 44. § (4) bekezdése szerint a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának engedélyezése és a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartás vezetése;
+15.[^9] a Bt. 44. § (4) bekezdése szerint a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenység hatósági felügyelete, illetve a tevékenység végzésének bejelentésével kapcsolatos ügyek, és a tevékenység folytatására jogosult személyek nyilvántartásának vezetése;
 
 16. a Bt. 42/E. § (8) bekezdése szerint a szén-dioxid geológiai tárolására kiadott tárolási engedélyekre, valamint a bezárt tárolóhelyre és az azt övező tároló-komplexumra vonatkozó nyilvántartás vezetése;
 
@@ -98,16 +98,15 @@ d) az Európai Parlament és Tanács a tengeri olaj- és gázipari tevékenység
 
 (6) A Hivatal bányafelügyeleti és állami földtani feladatokat ellátó szervként hatósági ügyekben országos illetékességgel jár el, döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
-(7) Ha az engedélyezési eljárás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül, a kérelemhez mellékelni kell a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot.
-
-(8) A bányafelügyelet a Khvr. alapján az eljárást felfüggeszti, ha a környezetvédelemmel és természetvédelemmel kapcsolatos szakkérdés vizsgálata során, vagy az eljárásban részt vevő szakhatóság a szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek.
-
-(9) Az eljárás felfüggesztéséről szóló végzésnek tartalmaznia kell – a Khvr. 6. számú mellékletének figyelembe vételével – a környezeti hatástanulmány tartalmi követelményeit. Ha a környezeti hatástanulmány tartalmi követelményeit a szakhatóság állapította meg, a végzésnek tartalmaznia kell a szakhatósági állásfoglalás rendelkező részét és indokolását.
-
-(10) A közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint – annak jogerőre emelkedésére tekintet nélkül – nyilvánosan közzé kell tenni azt a határozatot, valamint a felfüggesztés tárgyában hozott végzést, amit a bányafelügyelet olyan eljárásban hozott, amelyben a tevékenység következtében várható környezeti hatások jelentőségét vizsgálták.
+(7)–(10)[^10]
 
 (11) A Hivatal által a (4) bekezdés 15., 34., 35. és 37. pontjában foglalt közhiteles nyilvántartások vezetéséhez a kormányhivatalt adatszolgáltatási kötelezettség terheli.
 
 [^3]: A 2. §-t a 70/2015. (III. 30.) Korm. rendelet 85. § (9) bekezdése hatályon kívül helyezte.
 [^4]: A 3. § a 70/2015. (III. 30.) Korm. rendelet 85. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (4) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdése a 409/2015. (XII. 15.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (5) bekezdés 5. pontja a 441/2015. (XII. 28.) Korm. rendelet 80. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^8]: A 3. § (5) bekezdés 13. pontja a 441/2015. (XII. 28.) Korm. rendelet 80. § (2) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^9]: A 3. § (5) bekezdés 15. pontja a 441/2015. (XII. 28.) Korm. rendelet 80. § (3) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^10]: A 3. § (7)–(10) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 81. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -46,6 +46,6 @@
 
 | 6. | Ha a létesítményt a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén valósítják meg, és a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | A létesítmény a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek melletti megfelelősége. | kulturális örökségvédelmi feladatkörében eljáró Budapest Főváros Kormányhivatala |
 
-3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^34]
+3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^42]
 
-[^34]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 70/2015. (III. 30.) Korm. rendelet 85. § (6) bekezdésével megállapított szöveg.
+[^42]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 3. melléklet a 70/2015. (III. 30.) Korm. rendelet 85. § (6) bekezdésével megállapított szöveg.
