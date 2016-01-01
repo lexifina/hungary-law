@@ -20,6 +20,8 @@ d) a tanúsítvány g) pontja 1. alpontjának „A pénzbüntetés a következő
 
 e) a tanúsítvány g) pontjának 3. és 4. alpontját,
 
-f) a tanúsítvány i) pontját.
+f)[^1]
 
 (6) Ha a külföldi hatóság vagy bíróság a csatolt tanúsítványban az (5) bekezdés a) pontjában említett adatokat kitölti, azt az Országos Rendőr-főkapitányság által vezetett központi nyilvántartásban rögzíteni nem lehet.
+
+[^1]: A 3. § (5) bekezdés f) pontját a 81/2015. (XII. 23.) BM rendelet 3. §-a hatályon kívül helyezte.
