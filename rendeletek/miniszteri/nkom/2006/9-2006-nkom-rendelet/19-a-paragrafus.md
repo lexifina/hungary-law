@@ -1,4 +1,4 @@
-19/A. §[^57] (1) A pályázaton való részvétel nevezési díjhoz kötött. A nevezési díjat a kollégiumok meghatározott összegben vagy az igényelt támogatás meghatározott százalékában állapítják meg.
+19/A. §[^52] (1) A pályázaton való részvétel nevezési díjhoz kötött. A nevezési díjat a kollégiumok meghatározott összegben vagy az igényelt támogatás meghatározott százalékában állapítják meg.
 
 (2) A nevezési díj megfizetését a pályázó a pályázat benyújtásakor igazolja.
 
@@ -16,4 +16,4 @@ b) a kulturális tevékenységet is folytató magánszemély, jogi személy vagy
 
 (7) Az alelnök a kérelmet támogató döntéséről 30 napon belül tájékoztatja a Bizottságot, valamint ezen határidőn belül intézkedik támogató döntésének az Alap portálján történő közzététele iránt.
 
-[^57]: A 19/A. §-t a 40/2012. (XI. 21.) EMMI rendelet 10. §-a iktatta be.
+[^52]: A 19/A. §-t a 40/2012. (XI. 21.) EMMI rendelet 10. §-a iktatta be.

@@ -12,6 +12,6 @@ e) a pályázati cél megvalósításához esetenként szükséges szerződések
 
 f) a Bizottság vagy a kollégiumok által előírt, a pályázati kiírásban meghatározott egyéb adatokat.
 
-g)[^58]
+g)[^53]
 
-[^58]: A 20. § g) pontját a 6/2008. (III. 5.) OKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2011. (XII. 9.) NEFMI rendelet 13. § b) pontja.
+[^53]: A 20. § g) pontját a 6/2008. (III. 5.) OKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2011. (XII. 9.) NEFMI rendelet 13. § b) pontja.

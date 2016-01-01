@@ -1,12 +1,16 @@
-7. § (1)[^13] A Bizottság a kollégiumok javaslatainak figyelembevételével, mérlegelve az egyes kulturális területek súlyát, értékteremtő szerepét, a miniszter egyetértésével
+7. § (1)[^15] A Bizottság a kollégiumok javaslatainak figyelembevételével, mérlegelve az egyes kulturális területek súlyát, értékteremtő szerepét,
 
-a)[^14] dönt az egyes kollégiumok által felosztható pénzeszközök nagyságáról,
+a) a miniszter és az MMA elnöke egyetértésével dönt
 
-b) kiemelt támogatási célokat határozhat meg,
+aa) a felosztható pénzeszközöknek a Tv. 2. § (3) bekezdése szerinti művészeti főtematikájú állandó szakmai kollégiumok (a továbbiakban: művészeti állandó kollégiumok) és a további állandó kollégiumok (a továbbiakban: nem művészeti főtematikájú állandó kollégiumok) közötti, egymáshoz viszonyított arányáról;
 
-c) megjelöli az ezekre fordítandó keretösszegeket.
+ab) a támogatás összegének az egyes művészeti állandó kollégiumok közötti felosztásáról;
 
-d)[^15]
+b) a miniszter egyetértésével
+
+ba) kiemelt támogatási célokat határozhat meg,
+
+bb) megjelöli az ezekre fordítandó keretösszegeket.
 
 (2) A miniszteri keretből támogathatók különösen:
 
@@ -26,7 +30,5 @@ e) olyan egyedi pályázatok, amelyeket a miniszter – a miniszteri keret terh�
 
 (5)[^16] A Tv. 7/C. § (2) bekezdésében foglalt, a miniszter által egyedi elbírálással nyújtható működési támogatás kizárólag dologi kiadásra használható fel.
 
-[^13]: A 7. § (1) bekezdés nyitó szövegrésze a 40/2012. (XI. 21.) EMMI rendelet 14. § 2. pontja szerint módosított szöveg.
-[^14]: A 7. § (1) bekezdés a) pontja a 40/2012. (XI. 21.) EMMI rendelet 14. § 2. pontja szerint módosított szöveg.
-[^15]: A 7. § (1) bekezdés d) pontját a 65/2011. (XII. 9.) NEFMI rendelet 13. § a) pontja hatályon kívül helyezte.
+[^15]: A 7. § (1) bekezdése az 57/2015. (XII. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
 [^16]: A 7. § (5) bekezdését a 40/2012. (XI. 21.) EMMI rendelet 6. §-a iktatta be.

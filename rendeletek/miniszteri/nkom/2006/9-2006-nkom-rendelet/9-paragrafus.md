@@ -2,11 +2,13 @@
 
 ## A kollégiumok
 
-9. § (1) A miniszter a Bizottsággal egyetértésben dönt
+9. § (1)[^18] A miniszter a Bizottság javaslatára
 
-a)[^18] állandó kollégiumok létesítéséről, átszervezéséről, megszüntetéséről, továbbá azok létszámáról,
+a) dönt a nem művészeti főtematikájú állandó kollégiumok létesítéséről, átszervezéséről, megszüntetéséről, továbbá azok létszámáról;
 
-b) ideiglenes kollégiumok létrehozásáról, azok létszámáról, feladatkörének meghatározásáról, átszervezéséről és megszüntetéséről.
+b) dönt ideiglenes kollégiumok létrehozásáról, azok létszámáról, feladatkörének meghatározásáról, átszervezéséről és megszüntetéséről;
+
+c) az MMA elnöke véleményének kikérését követően dönt a művészeti állandó kollégiumok létesítéséről, átszervezéséről, valamint megszüntetéséről.
 
 (2)[^19] Az állandó kollégiumok felsorolását e rendelet 1. számú melléklete tartalmazza.
 
@@ -25,7 +27,7 @@ d) a Bizottság javaslata alapján az Alap kerete terhére.
 (5) Az ideiglenes kollégium működésének – a Tv.-ben és e rendeletben nem szabályozott – részletes szabályait az Ügyrendben kell meghatározni.
 
 [^17]: A 8. §-t és az azt megelőző alcímet a 40/2012. (XI. 21.) EMMI rendelet 15. § a) pontja hatályon kívül helyzte.
-[^18]: A 9. § (1) bekezdés a) pontja a 40/2012. (XI. 21.) EMMI rendelet 14. § 9. pontja szerint módosított szöveg.
+[^18]: A 9. § (1) bekezdése az 57/2015. (XII. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
 [^19]: A 9. § (2) bekezdése a 40/2012. (XI. 21.) EMMI rendelet 14. § 9. pontja szerint módosított szöveg.
 [^20]: A 9. § (3) bekezdés b) pontja a 40/2012. (XI. 21.) EMMI rendelet 14. § 4. és 9. pontja szerint módosított szöveg.
 [^21]: A 9. § (4) bekezdése a 40/2012. (XI. 21.) EMMI rendelet 14. § 5. pontja szerint módosított szöveg.

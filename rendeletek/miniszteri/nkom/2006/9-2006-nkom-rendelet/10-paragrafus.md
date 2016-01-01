@@ -1,11 +1,15 @@
-10. § (1)[^22] A miniszter az állandó kollégiumok vezetőit a kollégium tagjai közül, a Bizottság javaslata alapján, a kinevezés napjától számított két évre nevezi ki.
+10. §[^22] (1) A miniszter az állandó kollégiumok vezetőit az adott állandó kollégium tagjai közül, a Bizottság javaslata alapján, két évre nevezi ki. A művészeti állandó kollégiumok vezetőinek kinevezéséhez az MMA elnökének egyetértése is szükséges.
 
-(2)[^23] Az állandó kollégiumok vezetőinek felmentésére a Bizottság tagjainak felmentésére vonatkozó, valamint a 12. § (2) bekezdésében foglalt szabályokat kell alkalmazni.
+(2) Az állandó kollégiumok vezetőinek kinevezése a Bizottság javaslatára egy alkalommal, egy évvel meghosszabbítható. A művészeti állandó kollégiumok vezetőinek kinevezése a Bizottság és az MMA elnöke javaslatára hosszabbítható meg.
 
-(3)[^24] Az állandó kollégiumok vezetőinek kinevezése – a Bizottság javaslatára – egy alkalommal egy évvel meghosszabbítható. A vezetői kinevezésre, illetve annak meghosszabbítására sor kerülhet akkor is, ha a kinevezés vagy a meghosszabbítás tartama meghaladja a kollégiumi tagsági megbízás határidejének lejártát. A négyéves határidő lejártát meghaladó vezetői kinevezés, illetve annak meghosszabbítása a kollégiumi tagsági megbízás meghosszabbítását vonja maga után. Az állandó kollégium vezetésére szóló megbízás kollégiumi tagsági megbízást meghaladó meghosszabbítása szakmai szervezet által delegált tag esetén az esetben érvényes, ha arról a küldő szervezet a tag kollégiumi tagsági megbízatásának lejártát megelőző legalább 60 napon belül értesül és a tag kollégiumi tagsági megbízatásának lejártáig nem tesz javaslatot a tag visszahívására.
+(3) Állandó kollégiumban vezetői kinevezésre vagy annak meghosszabbítására sor kerülhet akként is, hogy a kinevezés vagy a kinevezés meghosszabbításának lejárta az állandó kollégiumi tagsági kinevezés lejártát követő időpontra esik, ami egyúttal a kollégiumi tagsági jogviszony meghosszabbítását is jelenti a kinevezés vagy annak meghosszabbítása időtartamára.
 
-(4) A vezetői tisztség bármilyen okból történő megüresedése esetén a miniszter – 30 napon belül – új vezetőt nevez ki az (1) bekezdésben foglaltak szerint.
+(4) Az állandó kollégiumok vezetőinek kinevezése – állandó kollégiumi tagság időtartamát meghaladó – meghosszabbítására a küldő szervezet által delegált tag esetén akkor kerülhet sor, ha arról a küldő szervezet a tag állandó kollégiumi tagsági kinevezésének lejártát megelőző legalább 60 nappal korábban értesül, és a tag állandó kollégiumi tagsági kinevezésének lejártáig nem tesz javaslatot a tag visszahívására.
 
-[^22]: A 10. § (1) bekezdése a 40/2012. (XI. 21.) EMMI rendelet 14. § 5. pontja szerint módosított szöveg.
-[^23]: A 10. § (2) bekezdése a 37/2009. (XII. 23.) OKM rendelet 3. §-ával megállapított, a 40/2012. (XI. 21.) EMMI rendelet 14. § 6. pontja szerint módosított szöveg.
-[^24]: A 10. § (3) bekezdése a 65/2011. (XII. 9.) NEFMI rendelet 3. §-ával megállapított, a 40/2012. (XI. 21.) EMMI rendelet 14. § 6–8. pontja szerint módosított szöveg.
+(5) Állandó kollégiumban a vezetői tisztség bármilyen okból történő megüresedése esetén a miniszter 30 napon belül új vezetőt nevez ki az (1) bekezdésben foglaltak szerint.
+
+(6) Az állandó kollégiumok vezetőinek felmentésére a Bizottság tagjainak felmentésére vonatkozó, valamint a 12. § (2) bekezdésében foglalt szabályokat kell alkalmazni.
+
+(7) A művészeti állandó kollégiumok vezetőinek felmentésére a (6) bekezdésben foglaltak irányadóak azzal, hogy a felmentéshez az MMA elnökének egyetértése is szükséges.
+
+[^22]: A 10. § az 57/2015. (XII. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
