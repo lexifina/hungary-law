@@ -2,4 +2,4 @@
 
 a)–b)
 
-c)
+c) 290. § (4) bekezdés n) és o) pontja.
