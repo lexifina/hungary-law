@@ -2,7 +2,7 @@
 
 ## AZ EGYÜTTMŰKÖDÉS ÁLTALÁNOS SZABÁLYAI
 
-8. § Az együttműködés formái:
+8. § (1) Az együttműködés formái:
 
 a) a közvetlen információcsere,
 
@@ -24,6 +24,8 @@ i) az összekötő tisztviselő alkalmazása,
 
 j) a titkos információgyűjtés nemzetközi együttműködés alapján,
 
-k) a Tanúvédelmi Program alkalmazása nemzetközi együttműködés alapján.
+k) a Tanúvédelmi Program alkalmazása nemzetközi együttműködés alapján, valamint
 
 l) az Európai Unió tagállamának különleges intervenciós egységével való együttműködés.
+
+(2) A magyar bűnüldöző szervek az (1) bekezdés g) és j) pontja szerinti együttműködés során – a vonatkozó magyar jogszabályok rendelkezései alapján – jogosultak a Nemzetbiztonsági Szakszolgálatot igénybe venni.
