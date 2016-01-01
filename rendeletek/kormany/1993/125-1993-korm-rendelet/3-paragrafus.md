@@ -40,13 +40,13 @@ e) a betegség jellege szerint illetékes egészségügyi szolgáltató igazolá
 
 (6b)[^21] Az Ápt. 4/A. § (2) bekezdése b) pontjának alkalmazása során magyar tannyelvűnek kell tekinteni a részben magyar tannyelvű nevelési-oktatási vagy felsőoktatási intézményt is, ha a kérelmező magyar nyelvi tagozatú osztályban szerzett végzettséget.
 
-(7)[^22] A honosítási és visszahonosítási kérelemhez a magyarországi lakóhellyel rendelkező kérelmezőnek két darab arcfényképet kell csatolnia.
+(7)[^22] A honosítási és visszahonosítási kérelemhez a magyarországi lakóhellyel rendelkező kérelmezőnek egy darab arcfényképet kell csatolnia.
 
 (8)[^23] A honosítási és a visszahonosítási kérelemhez a külföldön élő, tizennegyedik életévét betöltött kérelmezőnek egy darab arcfényképet kell csatolnia.
 
 (9)[^24] A nagykorú kérelmező a honosítási és a visszahonosítási kérelemhez – az 1. § szerinti formanyomtatványon – saját kézzel írt önéletrajzot csatol.
 
-(10)[^25] A honosítási és a visszahonosítási kérelemhez mellékelni kell a magyarországi lakóhellyel rendelkező kérelmezőnek a személyazonosító igazolvány kiadásához szükséges adatlapot.
+(10)[^25] A honosítási és visszahonosítási kérelem benyújtása során a magyarországi lakóhellyel rendelkező kérelmezőnek a személyazonosító igazolvány kiállításához szükséges – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvényben meghatározott – adatait a kérelmet felvevő felvételezi.
 
 (11)[^26] Nem kell csatolni a honosítási vagy visszahonosítási kérelemhez az Ápt.-ben vagy az e kormányrendeletben meghatározott okiratot, ha a kérelmező úgy nyilatkozik, hogy
 
@@ -67,9 +67,9 @@ b)[^27] azt a szülője, nagyszülője, gyermeke, unokája, testvére, testvére
 [^19]: A 3. § (6) bekezdése az 56/2014. (III. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^20]: A 3. § (6a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^21]: A 3. § (6b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^22]: A 3. § (7) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^22]: A 3. § (7) bekezdése a 414/2015. (XII. 23.) Korm. rendelet 69. § (1) bekezdésével megállapított szöveg.
 [^23]: A 3. § (8) bekezdését a 224/2010. (VIII. 4.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^24]: A 3. § (9) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^25]: A 3. § (10) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^25]: A 3. § (10) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 414/2015. (XII. 23.) Korm. rendelet 69. § (2) bekezdésével megállapított szöveg.
 [^26]: A 3. § (11) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^27]: A 3. § (11) bekezdés b) pontja az 56/2014. (III. 4.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
