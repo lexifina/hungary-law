@@ -2,7 +2,7 @@
 
 a) az adóraktár engedélyese, a bejegyzett feladó, a 24. § (1) bekezdés szerinti bejegyzett kereskedő, az adóügyi képviselő,
 
-b) az adóhatóság hatáskörébe tartozó adók tekintetében egyébként elektronikus adóbevallásra kötelezett adóalany és adó-visszaigénylő,
+b) a vámhatóság hatáskörébe tartozó adók tekintetében egyébként elektronikus adóbevallásra kötelezett adóalany és adó-visszaigénylő,
 
 c) a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól szóló kormányrendelet hatálya alá tartozó mezőgazdasági termelő,
 

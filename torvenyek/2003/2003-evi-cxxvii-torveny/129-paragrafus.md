@@ -17,31 +17,3 @@ a) az adóraktári engedély, a keretengedély, a jövedéki engedély iránti k
 b) a jövedéki termék, a megfigyelt termék előállítására, adómentes felhasználására, forgalmazására, szállítására, beszerzésére, beszerzésének és kiszállításának bejelentési kötelezettségére, tárolására, felhasználására, a figyelembe vehető veszteségnormákra vonatkozó részletes szabályokat;
 
 c) az e törvényben előírt nyilvántartások vezetésére, a vámhatóság felé a nyilvántartások alapján teljesítendő adatszolgáltatás tartalmára, módjára és technikai feltételeire, a bizonylatok kiállítására, az adófelfüggesztéssel végzett szállítások során használt okmányok EK rendelet szerint kötelezően kitöltendővé tehető rovatainak meghatározására, a 40. § (1) bekezdés a) pont ab) alpont szerinti bizonylatok adataira, valamint ezen bizonylatok adatainak a 40. § (9) bekezdésben előírt megküldésére, az e-TKO tervezet és az elektronikus átvételi elismervény EK rendeleten felüli kiegészítő adattartalmára, a jövedéki termékek és a megfigyelt termékek elszámolására vonatkozó részletes szabályokat;
-
-d) az adófizetési kötelezettség, adó-visszaigénylés elszámolására, a motorfejlesztésről történő bejelentés tartalmára és benyújtásának módjára, a hatósági felügyelet ellátásának esetleges különleges módjára és feltételeire, a jövedéki ellenőrzésre, a lefoglalásra, elkobzásra, az elkobzott termék felhasználására, illetve megsemmisítésére vonatkozó részletes szabályokat;
-
-e) a gázolaj jelölésével kapcsolatos egyes rendelkezéseket;
-
-f) a zárjegy, valamint a hordós és kannás kiszerelésű borra előírt hivatalos zár alkalmazásának, a zárjegy megrendelésének, a zárjeggyel való elszámolásnak, a zárjegy felhasználásával, illetve a zárjegykészlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, az adójegy igénylésének, visszavételének, alkalmazásának, az adójegy felhasználásával, illetve az adójegy-készlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának részletes szabályait;
-
-g) a denaturált alkohol előállításához felhasználható denaturáló szer alkalmazására és az alkohol denaturálási eljárására vonatkozó szabályokat, valamint a desztillálókészülék előállítására, birtokban tartására, értékesítésére, továbbá a tudományos és oktatási célra használt nem üveg desztillálóberendezésen előállított alkoholtermék bejelentésére és a felhasználásról vagy megsemmisítésről kiállítandó jegyzőkönyvre vonatkozó szabályokat;
-
-h) a bérfőzött párlat bérfőzető részére történő kiadásának és a bérfőzető általi továbbértékesítésének szabályait, valamint a 67/A. § (8) bekezdés szerinti igazolás adattartalmára és kiállítására vonatkozó részletes szabályokat;
-
-i) a terítőjáratok működési és adminisztrációs rendjére vonatkozó egyes rendelkezések részletes szabályait;
-
-j) a más tagállamban szabadforgalomba bocsátott jövedéki termék ugyanazon adóalany általi rendszeres beszerzésére vonatkozó egyszerűsített eljárás szabályait;
-
-k) a kötelező érvényű vámtarifabesorolással kapcsolatos eljárás részletes szabályait;
-
-l) a szemledíj és költségtérítés kiszabásának, beszedésének és mértékének részletes szabályait;
-
-m) az e törvény 7. § 9. pontja szerinti vámtarifaszámokat és a vámtarifaszámok alá történő besoroláshoz szükséges, a törvény hatálya alá tartozó termékekre és a besorolásnál figyelembe veendő, kapcsolódó egyéb árucsoportokra vonatkozó árubesorolási szabályokat;
-
-n) a bioetanol és a biodízel utáni adólevonási, adó-visszaigénylési jogosultság igazolásának, elszámolásának részletes szabályait;
-
-o) a jövedéki bírság 114. § (6) bekezdésében meghatározott gyorsított eljárásban történő kiszabásának és beszedésének részletes szabályait;
-
-p) az E85 szeszüzemben történő előállítása engedélyezésének, folytatásának részletes szabályait;
-
-r) az 52. § (2) bekezdésében az E85-re meghatározott adómérték alkalmazásához a bioetanol-tartalom igazolásának részletes szabályait;

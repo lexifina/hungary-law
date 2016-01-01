@@ -68,7 +68,7 @@ adófizetési kötelezettsége esetén – a vevő, a hitelező, illetve a jöve
 
 a) bejegyzett kereskedői tevékenységét a tevékenysége megkezdésének napjától a fizetési halasztás, részletfizetés iránti kérelme benyújtásának napjáig számítva legalább 12 hónapon keresztül folytatta,
 
-b) terhére az a) pont szerinti időszakban összességében a jövedéki biztosíték értékének 10 százalékát meghaladó összegű jövedéki bírságot vagy adóbírságot a vámhatóság vagy az adóhatóság jogerős határozattal nem állapított meg, továbbá a jövedéki biztosíték értékének – az a) pont szerinti időszakban összességében – 10 százalékát meghaladó összegű, az esedékességet 30 nappal meghaladóan rendezett vagy rendezetlen adótartozása nem volt, kivéve az olyan adótartozást, amelyre fizetési könnyítést (fizetési halasztás, részletfizetés) engedélyeztek, és
+b) terhére az a) pont szerinti időszakban összességében a jövedéki biztosíték értékének 10 százalékát meghaladó összegű jövedéki bírságot vagy adóbírságot a vámhatóság jogerős határozattal nem állapított meg, továbbá a jövedéki biztosíték értékének – az a) pont szerinti időszakban összességében – 10 százalékát meghaladó összegű, az esedékességet 30 nappal meghaladóan rendezett vagy rendezetlen adótartozása nem volt, kivéve az olyan adótartozást, amelyre fizetési könnyítést (fizetési halasztás, részletfizetés) engedélyeztek, és
 
 c) az adó összege, amelyre fizetési halasztást, részletfizetést kér, nem haladja meg az általa nyújtott jövedéki biztosíték azon adótartozással csökkentett összegét, amelyre fizetési halasztást, részletfizetést engedélyeztek, illetve amelyre vonatkozóan a bejegyzett kereskedő ezt megelőzően fizetési halasztás, részletfizetés iránti kérelmet nyújtott be és annak elbírálása folyamatban van.
 

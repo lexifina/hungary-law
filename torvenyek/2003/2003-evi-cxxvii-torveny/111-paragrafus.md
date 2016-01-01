@@ -6,7 +6,7 @@
 
 ## Jövedéki ellenőrzés
 
-111. § (1) A vámhatóság és az adóhatóság a jövedéki szabályok megtartásának ellenőrzése érdekében
+111. § (1) A vámhatóság a jövedéki szabályok megtartásának ellenőrzése érdekében
 
 a) a kereskedő üzelethelyiségének, a kereskedelmi raktárának, az üzemanyagtöltő állomásnak, a kiskereskedelmi tárolótelepnek az árukészletét ellenőrizheti, abból szakértői vizsgálat céljára mintát vehet, az e törvényben előírt, külön vezetett nyilvántartásokat, továbbá az üzleti könyveket vizsgálhatja, az árukészlet mennyiségét, eredetét, adózott vagy adózatlan voltát megállapíthatja;
 

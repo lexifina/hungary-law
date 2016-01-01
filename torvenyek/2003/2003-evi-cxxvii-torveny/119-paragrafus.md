@@ -10,9 +10,15 @@ b) a jogosulatlanul előállított cukorcefrét és abból előállított termé
 
 c) a külön jogszabályban meghatározott eljárástól eltérően előállított vagy kezelt, a 115. § (3) bekezdésének rendelkezése alá eső bort, borászati mellékterméket [e §, valamint a 120. § alkalmazásában az a)–c) pontokban meghatározottak a továbbiakban: termékek],
 
-d) a hamis, hamisított vagy jogtalanul megszerzett zárjegyet, adójegyet, hivatalos zárat (e §, valamint a 120. § alkalmazásában a továbbiakban: zárjegy),
+d) a hamis, hamisított vagy jogtalanul megszerzett zárjegyet, adójegyet, párlat adójegyet, hivatalos zárat (e §, valamint a 120. § alkalmazásában a továbbiakban: zárjegy),
 
-e) a jogosulatlanul előállított, birtokolt, vagy az arra jogosulatlan személy által használt desztillálóberendezést, sör előállítására alkalmas főzőüstöt és komlóforraló üstöt, valamint a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt – a dohánylevél-töltőt ide nem értve –,
+e) a desztillálóberendezést, sör előállítására alkalmas főzőüstöt és komlóforraló üstöt, valamint a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt – a dohánylevél-töltőt ide nem értve –, ha az jogosulatlanul
+
+ea) előállított,
+
+eb) – a 116/C. § szerinti eset kivételével – birtokolt,
+
+ec) – a 116/C. § szerinti eset kivételével – az arra jogosulatlan személy által használt,
 
 f) a termékek, a zárjegy előállítására használt eszközt,
 
@@ -20,7 +26,7 @@ g) a termékek, a zárjegy felhasználására, tárolására és szállításár
 
 h) a magánfőzésre használt desztillálóberendezést [e fejezet alkalmazásában az e)–h) pontokban meghatározottak a továbbiakban: eszközök], ha
 
-ha) a magánfőző a 67/A. § (1) bekezdés szerinti bejelentésében a desztillálóberendezés jogszerű birtoklása megállapításához szükséges adatok tekintetében valótlan adatokat ad meg,
+ha)
 
 hb)
 

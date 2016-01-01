@@ -50,6 +50,6 @@ is rendelkezik és kizárólag a keretengedélyes vagy felhasználói engedélye
 
 (8) Ha az eseti bejegyzett kereskedő dohánygyártmányt szerez be, a jövedéki biztosítékot az átvett adójegyek értékének [98. § (2) bekezdés] megfelelő összegben kell nyújtani.
 
-(9) Az (1) és (2) bekezdés szerinti engedély iránti kérelmet írásban, a külön jogszabály rendelkezése szerint kell benyújtani. A vámhatóság az (1) bekezdés szerinti bejegyzett kereskedő esetében negyvenöt napon belül, az eseti bejegyzett kereskedő esetében tizenöt napon belül bírálja el a kérelmet.
+(9) Az (1) és (2) bekezdés szerinti engedély iránti kérelmet írásban, a külön jogszabály rendelkezése szerint kell benyújtani. A vámhatóság az (1) bekezdés szerinti bejegyzett kereskedő esetében harmincöt napon belül, az eseti bejegyzett kereskedő esetében tizenöt napon belül bírálja el a kérelmet.
 
 (10) A bejegyzett kereskedő engedélyének megszűnésére és visszavonására a 39. § rendelkezéseit kell – értelemszerűen – alkalmazni. Az eseti bejegyzett kereskedő engedélye egy alkalomra szól.

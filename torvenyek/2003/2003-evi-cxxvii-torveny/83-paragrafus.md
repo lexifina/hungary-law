@@ -8,7 +8,7 @@
 
 (4) A pincekönyv adatai alapján, tárgyidőszakonként meg kell állapítani a készletváltozásokat és a tárgyidőszak tényleges zárókészletét. E fejezet alkalmazásában tárgyidőszak alatt a december 1-jétől július 31-éig, illetve augusztus 1-jétől november 30-áig tartó időszakokat kell érteni.
 
-(5) Az egyszerűsített adóraktár engedélyesének a vásárolt és a saját termésű szőlő mennyiségéről, illetve a vásárolt, előállított (kiszerelt), tárolt, raktározott és értékesített szőlőborról – kiszerelésenkénti bontásban, vevőnkénti részletezésben – tárgyidőszakonként mennyiségi elszámolást kell készítenie, és a vámhatósághoz a tárgyidőszakot követő augusztus 15-éig, illetve december 15-éig benyújtania. Az az egyszerűsített adóraktár engedélyes, aki (amely) az adóhatóság hatáskörébe tartozó adók tekintetében elektronikus adóbevallásra kötelezett, elszámolását a vámhatósághoz elektronikus úton, ügyfélkapun keresztül nyújtja be.
+(5) Az egyszerűsített adóraktár engedélyesének a vásárolt és a saját termésű szőlő mennyiségéről, illetve a vásárolt, előállított (kiszerelt), tárolt, raktározott és értékesített szőlőborról – kiszerelésenkénti bontásban, vevőnkénti részletezésben – tárgyidőszakonként mennyiségi elszámolást kell készítenie, és a vámhatósághoz a tárgyidőszakot követő augusztus 15-éig, illetve december 15-éig benyújtania. Az az egyszerűsített adóraktár engedélyes, aki (amely) a vámhatóság hatáskörébe tartozó adók tekintetében elektronikus adóbevallásra kötelezett, elszámolását a vámhatósághoz elektronikus úton, ügyfélkapun keresztül nyújtja be.
 
 (5a) Az egyszerűsített adóraktár engedélyesének a 80. § (2a) szerinti termékről az (5) bekezdés szerinti mennyiségi elszámolást kell készítenie és a vámhatósághoz benyújtania.
 

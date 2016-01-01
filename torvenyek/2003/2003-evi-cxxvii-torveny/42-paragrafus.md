@@ -12,7 +12,7 @@
 
 a) aki könyvvezetési kötelezettségének a kettős könyvvezetés szabályai, illetve egyéni vállalkozó esetében az Szja törvény rendelkezései szerint tesz eleget, és olyan nyilvántartási, bizonylati rendszert alkalmaz, hogy annak alapján a beszerzett, felhasznált, készleten lévő jövedéki termék mennyisége megállapítható és ellenőrizhető;
 
-b) akinek a vámhatóság, az adóhatóság felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn;
+b) akinek a vámhatóság felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn;
 
 c) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt;
 

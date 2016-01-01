@@ -1,10 +1,10 @@
 57/C. § (1) A beszerzéskor megfizetett adóból
 
-a) az üzemanyagtöltő állomáson forgalmi rendszámra szóló üzemanyagkártyával megvásárolt,
+a) az üzemanyagtöltő-állomáson forgalmi rendszámra szóló üzemanyagkártyával megvásárolt,
 
 b) a (2) bekezdés szerinti adó-visszaigénylésre jogosult magyarországi telephelyén üzemanyag-tárolásra rendszeresített – a tankolt mennyiséget rendszámonként, valamint a tankoló jármű kilométeróra állását rögzítő – üzemanyag-tankoló automatával ellátott üzemanyagtartályból elektronikus mérőeszközön keresztül betöltött
 
-kereskedelmi gázolaj után literenként 11 Ft visszaigényelhető.
+kereskedelmi gázolaj után literenként 7 Ft visszaigényelhető.
 
 (2) Az (1) bekezdés szerinti adó-visszaigénylésre – figyelemmel a (3) bekezdés rendelkezésére is – a 7. § 51. pontjában meghatározott gépjármű vagy nyerges járműszerelvény (a továbbiakban együtt: kereskedelmi jármű) vámhatóság által e célból nyilvántartásba vett üzembentartója, illetve – bérelt kereskedelmi jármű esetében – bérbe vevője jogosult. A jogosult a nyilvántartásba vétel iránti kérelmet az adóvisszaigénylési jogosultság első ízben történő érvényesítése előtt legalább 30 nappal köteles benyújtani a vámhatósághoz. A kérelemnek tartalmaznia kell a jogosult adószámát, valamint képviselője természetes személyazonosító adatait, személyazonosításra alkalmas okmányának számát. A jogosult a vámhatóság által nyilvántartásba vett adatok változását legkésőbb a változás bekövetkezésétől számított 10 napon belül köteles a vámhatósághoz bejelenteni.
 

@@ -36,6 +36,8 @@ terméket kell érteni.
 
 10. borászati melléktermék: a szőlőfeldolgozás és a borkészítés során keletkező melléktermék;
 
-11. magánfőzés: a párlatnak a magánfőző lakóhelyén vagy gyümölcsöse helyén használható, legfeljebb 100 liter űrtartalmú, párlat-előállítás céljára kialakított desztillálóberendezésen a magánfőző által végzett előállítása évente legfeljebb 50 liter mennyiségig;
+11. magánfőzés: a párlatnak a magánfőző, több tulajdonostárs magánfőző esetén valamely tulajdonostárs lakóhelyén vagy gyümölcsöse helyén használható, legfeljebb 100 liter űrtartalmú, párlat-előállítás céljára kialakított desztillálóberendezésen a magánfőző által végzett előállítása;
 
 12. magánfőző: az a 18. életévét betöltött gyümölcstermesztő személy, aki saját tulajdonú gyümölccsel, gyümölcsből származó alapanyaggal és párlat készítésére alkalmas, saját tulajdonú desztillálóberendezéssel rendelkezik.
+
+13. gyümölcstermesztő személy: az a természetes személy, aki gyümölcstermő területtel rendelkezik.

@@ -1,6 +1,6 @@
 ## Keretengedély
 
-43. § (1) A vámhatóság a keretengedély iránti kérelem tárgyában harminc napon belül dönt. A keretengedélyt a vámhatóság az elfogadott jövedéki biztosíték teljesítésének igazolását követő 15 napon belül adja ki.
+43. § (1) A keretengedélyt a vámhatóság az elfogadott jövedéki biztosíték teljesítésének igazolását követő 15 napon belül adja ki.
 
 (2) A keretengedély a kérelmező nevére szól. A vámhatóság a keretengedélyben az e törvény szerint részletezett, számításokkal alátámasztott igény alapján, továbbá – termék-előállításhoz való felhasználás esetén – az üzem gyártási kapacitásának figyelembevételével meghatározza a jövedéki terméknek a kérelemben megjelölt, de legfeljebb egyéves időszak (e § alkalmazásában a továbbiakban: tárgyidőszak) alatt adómentesen beszerezhető mennyiségét (a továbbiakban: keretmennyiség), és feltünteti a felhasználás helyét, valamint az engedélyezett felhasználási célt.
 
@@ -28,11 +28,11 @@ a) az adómentes felhasználó ellen felszámolási eljárás indult;
 
 b) az adómentes felhasználó
 
-ba) az adóhatósághoz vagy a vámhatósághoz teljesítendő adóbevallási kötelezettségét a határidőt követő 60 napon belül nem teljesítette,
+ba) a vámhatósághoz teljesítendő adóbevallási kötelezettségét a határidőt követő 60 napon belül nem teljesítette,
 
-bb) az adóhatósághoz vagy a vámhatósághoz teljesítendő adófizetési, társadalombiztosítási járulékfizetési kötelezettségét vagy vámtartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha az adómentes felhasználó az engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy
+bb) a vámhatósághoz teljesítendő adófizetési, társadalombiztosítási járulékfizetési kötelezettségét vagy vámtartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha az adómentes felhasználó az engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy
 
-bc) terhére a vámhatóság vagy az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (2) bekezdése kizárja;
+bc) terhére a vámhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (2) bekezdése kizárja;
 
 c) a keretengedély megadásánál figyelembe vett, illetve az engedélyben szereplő feltételek nem teljesülnek.
 

@@ -24,11 +24,11 @@ d) azokat a termékeket, amelyek értékesítése valamely szellemi tulajdonjogo
 
 (8) Az elkobzott ásványolajtermékek, valamint az ásványolajtermékekből vett, vámhatóság által tárolt és megsemmisítésre váró minták
 
-a) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti katasztrófa esetén a területileg illetékes védelmi bizottság elnökének, I–III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzata polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók;
+a) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti katasztrófa esetén a területileg illetékes védelmi bizottság elnökének, I–III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzata polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének kérelme alapján – az állami adó- és vámhatóság vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók;
 
-b) közül az a) pont szerinti átadásra nem került ásványolajtermékeket az adóhatóság és a vámhatóság – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – üzemanyagként vagy fűtési, tüzelési célra felhasználhatja;
+b) közül az a) pont szerinti átadásra nem került ásványolajtermékeket a vámhatóság – az állami adó- és vámhatóság vezetője jóváhagyásával, elszámolási kötelezettség mellett – üzemanyagként vagy fűtési, tüzelési célra felhasználhatja;
 
-c) közül az értékesítésre vagy az a) és b) pont szerint átadásra, felhasználásra nem került ásványolajtermékek a katasztrófavédelmi szerv részére oktatás, gyakorlatozás céljára a katasztrófavédelmi szerv kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók.
+c) közül az értékesítésre vagy az a) és b) pont szerint átadásra, felhasználásra nem került ásványolajtermékek a katasztrófavédelmi szerv részére oktatás, gyakorlatozás céljára a katasztrófavédelmi szerv kérelme alapján – az állami adó- és vámhatóság vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók.
 
 (9) A vámhatóság az elkobzásról rendelkező döntést követően, de annak jogerőre emelkedését megelőzően jogosult a lefoglalt
 

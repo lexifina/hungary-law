@@ -4,7 +4,7 @@
 
 (2) A kérelmező az (1) bekezdésben foglalt esetben akkor kaphat egyszerűsített adóraktári engedélyt, ha nyilatkozik arról, hogy
 
-a) a vámhatóságnál és az adóhatóságnál nincs vám- vagy adótartozása, illetve amennyiben tartozása áll fenn, arra részletfizetést vagy fizetési halasztást engedélyeztek,
+a) a vámhatóságnál nincs vám- vagy adótartozása, illetve amennyiben tartozása áll fenn, arra részletfizetést vagy fizetési halasztást engedélyeztek,
 
 b) egyéb köztartozása sem áll fenn,
 
@@ -24,7 +24,7 @@ e) a kérelmező nyilatkozatát az (1) bekezdésben foglalt feltételek teljesü
 
 (4) Az egyszerűsített adóraktári engedély iránti kérelemhez a kérelmezőnek csatolni kell hitelesítés céljából a külön jogszabályban előírt pincekönyvét.
 
-(5) A vámhatóság az egyszerűsített adóraktári engedélyt a kérelem benyújtásától számított hatvan napon belül bírálja el.
+(5) A vámhatóság az egyszerűsített adóraktári engedélyt a kérelem benyújtásától számított negyvenöt napon belül bírálja el.
 
 (6) A szőlőterületet művelő azon Polgári Törvénykönyv szerinti közeli hozzátartozók, valamint az élettársak (a továbbiakban: családtagok közössége), akik a saját művelésükben lévő szőlőterületen termelt szőlőből a szőlőbor előállítását, tárolását ugyanazon a közösen használt, adóraktárnak minősíthető helyen (a továbbiakban: közös adóraktár) végzik, e tevékenységüket egy egyszerűsített adóraktári engedéllyel folytathatják. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
 

@@ -24,7 +24,7 @@ j)
 
 (3)
 
-(4) A vámhatóság az adóraktár működését a kérelemben foglaltaknak megfelelően hatvan napon belül bírálja el. A vámhatóság az adóraktári engedélyt a 38. § szerinti jövedéki biztosíték nyújtásának igazolását követő 15 napon belül adja ki.
+(4) A vámhatóság az adóraktár működését a kérelemben foglaltaknak megfelelően negyvenöt napon belül bírálja el. A vámhatóság az adóraktári engedélyt a 38. § szerinti jövedéki biztosíték nyújtásának igazolását követő 15 napon belül adja ki.
 
 (5) Az adóraktári engedély a kérelmező nevére szól. Az adóraktári engedély mellékletét képezi az adóraktár-engedélyes által működtethető adóraktárra, több adóraktár esetén az adóraktáranként kiállított adóraktár-betétlap.
 

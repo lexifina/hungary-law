@@ -8,7 +8,7 @@ b) aki könyvvezetési kötelezettségének a kettős könyvvezetés szabályai,
 
 c) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 
-d) akinek a vámhatóság, az adóhatóság felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn.
+d) akinek a vámhatóság felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn.
 
 (3) Nem adható engedély, ha az engedélyt kérelmező természetes személyt vagy a szervezet vezetőjét, vezető tisztségviselőjét
 
@@ -92,11 +92,11 @@ a) a jövedéki engedélyes kereskedő, exportáló, importáló ellen felszámo
 
 b) a jövedéki engedélyes kereskedő, exportáló, importáló
 
-ba) az adóhatósághoz vagy a vámhatósághoz teljesítendő adóbevallási kötelezettségét a határidőt követő 60 napon belül nem teljesítette,
+ba) a vámhatósághoz teljesítendő adóbevallási kötelezettségét a határidőt követő 60 napon belül nem teljesítette,
 
 bb) az adóhatósághoz vagy a vámhatósághoz teljesítendő adófizetési, társadalombiztosítási járulékfizetési kötelezettségét vagy vámtartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha a jövedéki engedélyes kereskedő, exportáló, importáló a jövedéki engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy
 
-bc) terhére a vámhatóság vagy az adóhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (2) bekezdése kizárja,
+bc) terhére a vámhatóság a vizsgált időszakra vonatkozó adókötelezettség 10 százalékát meghaladó adóhiányt jogerősen állapít meg, és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. 171. § (2) bekezdése kizárja,
 
 c) a 104. § (2) bekezdés a), b) pontjában és (3) bekezdésében meghatározott feltételek nem teljesülnek,
 

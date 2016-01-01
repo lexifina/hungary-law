@@ -2,7 +2,7 @@
 
 a) aki könyvvezetési kötelezettségének – a (2) bekezdésben foglalt kivétellel – a kettős könyvvezetés szabályai szerint tesz eleget, továbbá olyan nyilvántartási, bizonylati rendszert alkalmaz, hogy annak alapján a felhasznált alapanyag, valamint a termelt, a raktározott jövedéki termék mennyiségi számbavétele ellenőrizhető;
 
-b) akinek a vámhatóság, az adóhatóság felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn;
+b) akinek a vámhatóság felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn;
 
 c) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt;
 
