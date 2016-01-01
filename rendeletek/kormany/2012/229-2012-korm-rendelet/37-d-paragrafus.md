@@ -1,6 +1,6 @@
 37/D. § (1) Új köznevelési intézmény alapításával vagy átvételével összefüggő kérelmet a tárgyév augusztus 31-éig, évközben létesített óvoda, kollégium esetén a működés megkezdését követő tizenötödik napig lehet benyújtani. E határidő elmulasztása jogvesztő.
 
-(2)[^69] A költségvetési támogatási kérelmet az új köznevelési intézmény
+(2)[^70] A költségvetési támogatási kérelmet az új köznevelési intézmény
 
 a) alapítása, létrehozása esetén a működési engedély jogerőre emelkedését követően, a tényleges működés első teljes hónapjának első napján az intézménnyel jogviszonyban álló,
 
@@ -24,10 +24,10 @@ f) pedagógiai szakszolgálati feladat ellátása esetén a miniszterrel kötöt
 
 (4) Ha a fenntartó a (3) bekezdésben meghatározott okiratokat a támogatásokkal összefüggésben korábban az Igazgatósághoz benyújtotta, a kérelemhez azokat az okiratokat kell csatolnia, amelyeket változás érintett.
 
-(5)[^70] Ha a fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az Igazgatóság az iratot közvetlenül szerzi meg.
+(5)[^71] Ha a fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az Igazgatóság az iratot közvetlenül szerzi meg.
 
-(6)[^71] Az OM azonosítót az Igazgatóság a KIR nyilvános felületén ellenőrzi, az igénylésekkel összefüggő új és módosított adatokat szükség esetén a KIR-ből átveszi. Ha a fenntartó a KIR-ben tárolt okiratokat nem küldi meg, azokat az Igazgatóság a Hivataltól megkéri.
+(6)[^72] Az OM azonosítót az Igazgatóság a KIR nyilvános felületén ellenőrzi, az igénylésekkel összefüggő új és módosított adatokat szükség esetén a KIR-ből átveszi. Ha a fenntartó a KIR-ben tárolt okiratokat nem küldi meg, azokat az Igazgatóság a Hivataltól megkéri.
 
-[^69]: A 37/D. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^70]: A 37/D. § (5) bekezdése a 3/2015. (I. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^71]: A 37/D. § (6) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^70]: A 37/D. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^71]: A 37/D. § (5) bekezdése a 3/2015. (I. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^72]: A 37/D. § (6) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.

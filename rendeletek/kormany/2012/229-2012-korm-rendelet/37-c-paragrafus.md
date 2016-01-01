@@ -1,6 +1,6 @@
-37/C. § (1)[^60] A fenntartó a támogatásokra vonatkozó kérelmét január 31-éig a kincstár fenntartó székhelye szerint területileg illetékes megyei igazgatóságához (e Fejezet alkalmazásában a továbbiakban: Igazgatóság) nyújthatja be. E határidő elmulasztása jogvesztő.
+37/C. § (1)[^61] A fenntartó a támogatásokra vonatkozó kérelmét január 31-éig a kincstár fenntartó székhelye szerint területileg illetékes megyei igazgatóságához (e Fejezet alkalmazásában a továbbiakban: Igazgatóság) nyújthatja be. E határidő elmulasztása jogvesztő.
 
-(2)[^61] A kérelmet
+(2)[^62] A kérelmet
 
 a) az átlagbér alapú támogatásra vonatkozóan
 
@@ -16,11 +16,11 @@ c) a gyermek és tanulóétkeztetéshez nyújtott támogatásra vonatkozóan a k
 
 ## alapján, a miniszter és a kincstár által közösen meghatározottak szerint és a kincstár honlapján közzétett adatlapon kell benyújtani köznevelési intézményi, fenntartói szinten összesített formában, feladatellátási helyenként, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak esetében intézményenként.
 
-(2a)[^62] A fenntartó a minősített pedagógusok létszámát köznevelési intézményenként adja meg. A részmunkaidőben foglalkoztatott pedagógus esetében a pedagógus munkaidejének a teljes munkaidőhöz viszonyított arányában két tizedesre kerekítve kell megállapítani a pedagógus létszámot.
+(2a)[^63] A fenntartó a minősített pedagógusok létszámát köznevelési intézményenként adja meg. A részmunkaidőben foglalkoztatott pedagógus esetében a pedagógus munkaidejének a teljes munkaidőhöz viszonyított arányában két tizedesre kerekítve kell megállapítani a pedagógus létszámot.
 
-(3)[^63] A (2) bekezdés a) pont ab) alpontja szerinti éves átlaglétszámot feladattípusonként, a hetente ellátott gyermek-, tanulólétszám alapján kell megállapítani. A heti ellátotti létszám megállapításánál egy gyermek, tanuló csak egyszer vehető figyelembe, tekintet nélkül arra, hogy a hét egy vagy több napján, egyéni vagy csoportos foglalkozás keretében biztosították számára az Nkt.-ban és az EMMI rendeletben foglalt követelményeknek megfelelő időkeretekben az ellátást.
+(3)[^64] A (2) bekezdés a) pont ab) alpontja szerinti éves átlaglétszámot feladattípusonként, a hetente ellátott gyermek-, tanulólétszám alapján kell megállapítani. A heti ellátotti létszám megállapításánál egy gyermek, tanuló csak egyszer vehető figyelembe, tekintet nélkül arra, hogy a hét egy vagy több napján, egyéni vagy csoportos foglalkozás keretében biztosították számára az Nkt.-ban és az EMMI rendeletben foglalt követelményeknek megfelelő időkeretekben az ellátást.
 
-(4)[^64] A fenntartó a becsült gyermek-, tanulólétszám változása miatt bekövetkező lemondást vagy pótigénylésre vonatkozó bejelentését
+(4)[^65] A fenntartó a becsült gyermek-, tanulólétszám változása miatt bekövetkező lemondást vagy pótigénylésre vonatkozó bejelentését
 
 a) a gyermek-, tanulólétszám alapján járó átlagbér alapú támogatás tárgyév szeptember–december hónapokra vonatkozó módosítására a tárgyév június 30-áig vagy október 31-éig,
 
@@ -30,11 +30,11 @@ c) a tankönyvtámogatás módosítására a tárgyév június 30-áig
 
 ## kezdeményezi.
 
-(5)[^65] A fenntartó a minősített pedagógusok tárgyév április 1-jei foglalkoztatotti létszámának, valamint október 1-jei becsült létszámának változása miatt bekövetkező lemondást vagy pótigényre vonatkozó bejelentést köznevelési intézményenkénti, előmeneteli rendszerben megállapított fokozat szerinti bontásban április 30-áig, a becsült létszám tekintetében október 31-éig kezdeményezi.
+(5)[^66] A fenntartó a minősített pedagógusok tárgyév április 1-jei foglalkoztatotti létszámának, valamint október 1-jei becsült létszámának változása miatt bekövetkező lemondást vagy pótigényre vonatkozó bejelentést köznevelési intézményenkénti, előmeneteli rendszerben megállapított fokozat szerinti bontásban április 30-áig, a becsült létszám tekintetében október 31-éig kezdeményezi.
 
-(6)[^66] Az (5) bekezdésben meghatározott esetben a pótigény benyújtásához meg kell adni a minősített pedagógus előző munkáltatója OM azonosítóját, nevét és székhelyét.
+(6)[^67] Az (5) bekezdésben meghatározott esetben a pótigény benyújtásához meg kell adni a minősített pedagógus előző munkáltatója OM azonosítóját, nevét és székhelyét.
 
-(7)[^67] A kérelem benyújtásával egyidejűleg a fenntartó az Igazgatóság rendelkezésére bocsátja
+(7)[^68] A kérelem benyújtásával egyidejűleg a fenntartó az Igazgatóság rendelkezésére bocsátja
 
 a) a tárgyévet megelőző év október 1-jén a köznevelési intézménnyel jogviszonyban álló gyermek, tanuló oktatási azonosító számát – köznevelési intézményi, feladatellátási helyenkénti bontásban, táblázatos vagy a KIR-ből kinyomtatott, a fenntartó által hitelesített formában,
 
@@ -46,14 +46,14 @@ ca) megfelel a költségvetési támogatás igénybevételére vonatkozó, az á
 
 cb) az intézmény működésével összefüggésben, vagy a költségvetési támogatás jogosulatlan igénybevételével összefüggésben büntetőeljárás nem folyik ellene és a kérelem benyújtását megelőző öt évben ilyen eljárásban nem marasztalták el.
 
-(8)[^68] Ha a fenntartó a (7) bekezdés szerinti dokumentumokat a kérelem benyújtásával egyidejűleg, illetve a hiánypótlásra kitűzött határidőn belül nem nyújtja be, vagy azok tartalma a (7) bekezdésben foglaltaknak nem felel meg, a kérelmet az Igazgatóság elutasítja.
+(8)[^69] Ha a fenntartó a (7) bekezdés szerinti dokumentumokat a kérelem benyújtásával egyidejűleg, illetve a hiánypótlásra kitűzött határidőn belül nem nyújtja be, vagy azok tartalma a (7) bekezdésben foglaltaknak nem felel meg, a kérelmet az Igazgatóság elutasítja.
 
-[^60]: A 37/C. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^61]: A 37/C. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^62]: A 37/C. § (2a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^63]: A 37/C. § (3) bekezdése a 3/2015. (I. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^64]: A 37/C. § (4) bekezdése a 3/2015. (I. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^65]: A 37/C. § (5) bekezdését a 260/2014. (X. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte, újonnan a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be, szövege ez utóbbi rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^66]: A 37/C. § (6) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be.
-[^67]: A 37/C. § (7) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be.
-[^68]: A 37/C. § (8) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be.
+[^61]: A 37/C. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^62]: A 37/C. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^63]: A 37/C. § (2a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^64]: A 37/C. § (3) bekezdése a 3/2015. (I. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^65]: A 37/C. § (4) bekezdése a 3/2015. (I. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^66]: A 37/C. § (5) bekezdését a 260/2014. (X. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte, újonnan a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be, szövege ez utóbbi rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^67]: A 37/C. § (6) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be.
+[^68]: A 37/C. § (7) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be.
+[^69]: A 37/C. § (8) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be.

@@ -18,6 +18,6 @@ f) a tanulói jogviszony megszűnése után megkezdett szakmai vizsga (ideértve
 
 (3) Az iskolaszék, az óvodaszék, a kollégiumi szék – annak hiányában a szülői szervezet (közösség) az intézményi tanács és iskolában az iskolai diákönkormányzat véleményének kikérésével – meghatározhatja azt a legmagasabb összeget, amelyet a nevelési-oktatási intézmény által szervezett, nem ingyenes szolgáltatások körébe tartozó program megvalósításánál nem lehet túllépni.
 
-(4)[^44] A kollégiumi szolgáltatás igénybevételéért a tanuló térítési díjat fizet, ha az iskolai alapszolgáltatást térítési díj fizetése mellett veszi vagy venné igénybe. A térítési díj mértéke azonos az iskolai térítési díj mértékével.
+(4)[^45] A kollégiumi szolgáltatás igénybevételéért a tanuló térítési díjat fizet, ha az iskolai alapszolgáltatást térítési díj fizetése mellett veszi vagy venné igénybe. A térítési díj mértéke azonos az iskolai térítési díj mértékével.
 
-[^44]: A 34. § (4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 25. §-a iktatta be.
+[^45]: A 34. § (4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 25. §-a iktatta be.

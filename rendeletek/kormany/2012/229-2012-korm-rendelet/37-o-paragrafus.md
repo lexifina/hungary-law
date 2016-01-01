@@ -4,7 +4,7 @@
 
 (3) Ha az Igazgatóság a felülvizsgálat során megállapítja, hogy a támogatásokat megalapozó gyermek-, tanulólétszám nem egyezik meg a KIR-ben az október 1-jei állapot szerint nyilvántartott létszámadatokkal, az Igazgatóság adategyeztetés céljából megkeresi a fenntartót, szükség esetén a Hivatalt.
 
-(3a)[^100] Az (1) bekezdés szerinti eljárásban hozott határozat tartalmazza:
+(3a)[^101] Az (1) bekezdés szerinti eljárásban hozott határozat tartalmazza:
 
 a) a helyszíni ellenőrzéssel érintett köznevelési intézmények hivatalos nevét és OM azonosítóját, köznevelési intézményenként és feladatellátási helyenként a támogatások igénybevételének alapjául szolgáló gyermek- és tanulólétszámot, a gyermek- és tanulóétkeztetéshez nyújtott támogatás esetén az átlaglétszámot és az ezek alapján számított pedagógus-, valamint a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak létszámát, továbbá a köznevelési intézmény működési engedélyének számát,
 
@@ -20,11 +20,11 @@ f) a visszafizetés esetén követendő eljárásról, valamint a visszafizetés
 
 (4) A felülvizsgálat során az Igazgatóság által megállapított, a fenntartót megillető támogatások és a fenntartó által ténylegesen igénybe vett támogatások közötti különbözetet az Igazgatóság határozatának jogerőre emelkedését követő második hónapban kell kifizetni.
 
-(4a)[^101] Ha a felülvizsgálat eredményeként a fenntartót fizetési, visszafizetési kötelezettség terheli, alkalmazni kell a 37/N. § fizetésre, visszafizetésre, késedelmi kamat megállapítására, a részletfizetés szabályaira, valamint a nem teljesítés esetére vonatkozó rendelkezéseit.
+(4a)[^102] Ha a felülvizsgálat eredményeként a fenntartót fizetési, visszafizetési kötelezettség terheli, alkalmazni kell a 37/N. § fizetésre, visszafizetésre, késedelmi kamat megállapítására, a részletfizetés szabályaira, valamint a nem teljesítés esetére vonatkozó rendelkezéseit.
 
 (5) Az Igazgatóság a helyszíni ellenőrzésről készített jegyzőkönyvet és az ellenőrzés alapján hozott határozatot a működést engedélyező szervvel is közli.
 
 (6) A kincstár minden év januárjában megküldi a miniszter részére a tárgyévre vonatkozó ellenőrzési munkatervét. A miniszter koordinálja a kormányhivatal, a kincstár és a Hivatal – köznevelési intézmények és fenntartók ellenőrzését megalapozó – munkaterveit, a munkatervek alapján javaslatot tehet a hatóságok együttes ellenőrzésének lefolytatására.
 
-[^100]: A 37/O. § (3a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^101]: A 37/O. § (4a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^101]: A 37/O. § (3a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^102]: A 37/O. § (4a) bekezdését a 3/2015. (I. 28.) Korm. rendelet 14. § (2) bekezdése iktatta be.
