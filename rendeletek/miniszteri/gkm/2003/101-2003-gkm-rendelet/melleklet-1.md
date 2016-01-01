@@ -1,6 +1,6 @@
-## 6. §[^14]
+## 6. §[^15]
 
-1. számú melléklet a 101/2003. (XII. 23.) GKM rendelethez[^15]
+1. számú melléklet a 101/2003. (XII. 23.) GKM rendelethez[^16]
 
 I. rész
 
@@ -120,5 +120,5 @@ II. rész
 
 A „Nemzetközi időszakos vizsgálati bizonyítvány” kiadására vonatkozó környezetvédelmi konstrukciós követelmények
 
-[^14]: A 6. §-t a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 193. pontja hatályon kívül helyezte.
-[^15]: Az eredeti melléklet számozását 1. számú mellékletre változtatta a 105/2004. (IX. 11.) GKM rendelet 2. §-a.
+[^15]: A 6. §-t a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 193. pontja hatályon kívül helyezte.
+[^16]: Az eredeti melléklet számozását 1. számú mellékletre változtatta a 105/2004. (IX. 11.) GKM rendelet 2. §-a.
