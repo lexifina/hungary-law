@@ -1,3 +1,9 @@
-## 28–29. §[^10]
+## 29. § A 134/1999. Korm. rendelet 6/C. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^10]: A 28–29. § a 60. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+## „(2) A működési célú támogatás negyedéves összege a mindenkori központi költségvetésről szóló törvényben szereplő, a Gyftv. 41. § (1) bekezdése szerinti minisztérium fejezetében meghatározott előirányzat erejéig az (1) bekezdés alapján jogosult gyógyszertárak között kerül felosztásra úgy, hogy azon gyógyszertárak, amelyek (1) bekezdés b) pontja szerinti árréstömege
+
+## a) az 5 millió forintot nem haladja meg, a felosztás tekintetében 1,5-szeres,
+
+## b) az 5 millió forintot eléri, de a 6 millió forintot nem haladja meg, a felosztás tekintetében 1,25-szoros
+
+## szorzóval súlyozottan kerülnek figyelembevételre.”

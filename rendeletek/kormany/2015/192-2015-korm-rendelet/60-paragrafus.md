@@ -1,4 +1,4 @@
-## 58–59. §[^26]
+## 58–59. §[^23]
 
 ## 19. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 21. §, a 28. §, a 29. §, a 32. § és a 35. § 2016. január 1-jén lép hatályba.
 
-[^26]: Az 58–59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: Az 58–59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
