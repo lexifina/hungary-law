@@ -1,16 +1,6 @@
 ## 62. Átmeneti rendelkezések
 
-108. § (1) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2018. január 1. napjától kötelesek az ügyek elektronikus intézését az e törvényben meghatározottak szerint biztosítani.
-
-(2) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. január 1-jétől az (1) bekezdés szerinti határidőig a Felügyeletnél az elektronikus ügyintézési szolgáltatás megkezdését megelőzően, a 17. alcím szerinti adatszolgáltatás teljesítésével bejelenthetik, hogy a feladat- és hatáskörükbe tartozó egyes ügyek vagy valamennyi ügy tekintetében az (1) bekezdés szerinti határidőt megelőzően is vállalják az e törvény szabályainak megfelelő elektronikus ügyintézés biztosítását.
-
-(3) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. június 30-ig ütemtervet készítenek és küldenek a Felügyelet számára az (1) bekezdésből fakadó feladataik teljesítésére vonatkozóan.
-
-(4) Az elektronikus ügyintézést 2017. január 1-jén már biztosító, az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. április 30-ig az e-közigazgatásért felelős miniszter által rendeletben meghatározott adatokat elektronikus úton, a Felügyelet által rendszeresített elektronikus űrlapon a Felügyelet számára bejelentik.
-
-(5) A 9. § (1) bekezdése szerinti kötelezettségének a gazdálkodó szervezet ügyfél vagy jogi képviselő – ha törvény eltérően nem rendelkezik – 2018. január 1. napjától köteles eleget tenni.
-
-(6) A 14. § (1) bekezdés szerinti kötelezettséget a Második Rész hatálybalépésekor már létező gazdálkodó szervezet 2017. augusztus 30-ig köteles teljesíteni.
+108. § (1)–(6)
 
 (7) E törvény hatálybalépését követően elektronikus ügyintézés céljából az elektronikus ügyintézést biztosító szervek kizárólag olyan új informatikai rendszereket állíthatnak működésbe, amelyek e törvény szerinti elektronikus ügyintézésre alkalmasak.
 

@@ -1,3 +1,0 @@
-## 33. Adatkezelés
-
-53. § Az ügyfél kérelmére, kezdeményezésére indult ügyben együttműködő szervnél rendelkezésre álló, az ügy elintézéséhez szükséges személyes adat tekintetében az ügyfél hozzájárulását vélelmezni kell a személyes adatnak az eljáró elektronikus ügyintézést biztosító szerv részére történő továbbításához, valamint az e szerv általi, az ügy elintézéséhez szükséges és elégséges kezeléséhez, ha az elektronikus ügyintézést biztosító szerv az adatkezeléssel kapcsolatos lényeges körülményekről az ügyfelet az információs önrendelkezési jogról és az információszabadságról szóló törvénynek megfelelő módon tájékoztatta.
