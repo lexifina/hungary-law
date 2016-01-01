@@ -6,13 +6,15 @@
 
 (3) Az (1)–(2a) bekezdésében meghatározottak vonatkoznak az e törvény hatálya alá tartozó villamosenergia-ipari vállalkozások és a Get. hatálya alá tartozó földgázipari vállalkozások közötti befolyásszerzésre is.
 
-(4) Az (1) bekezdés szerinti bejelentés nem alkalmazandó a közvetlen vezeték és magánvezeték engedélyesére, továbbá a (2) bekezdés szerinti befolyásszerzés nem igényli a Hivatal előzetes hozzájárulását a következő esetekben:
+(4) Az (1) bekezdés szerinti bejelentés nem alkalmazandó a közvetlen vezeték engedélyesére, a magánvezeték engedélyesére és a töltőállomás-üzemeltetőre, továbbá a (2) bekezdés szerinti befolyásszerzés nem igényli a Hivatal előzetes hozzájárulását a következő esetekben:
 
 a) kiserőművi összevont engedélyes esetében,
 
 b) magánvezeték engedélyese esetében,
 
-c) közvetlen vezeték engedélyese esetében.
+c) közvetlen vezeték engedélyese esetében,
+
+d) a töltőállomás-üzemeltető esetében.
 
 (5) Villamos energia termelésével, földgáz kitermelésével vagy villamos energia vagy földgáz kereskedelmével foglalkozó vállalkozás, valamint az ilyen vállalkozásokban irányítást gyakorló részvényes az átviteli rendszerirányítóban vagy annak irányító részvényesében sem közvetlenül, sem közvetetten nem szerezhet irányítást biztosító részesedést. Az átviteli rendszerirányítóban, illetve annak irányító részvényesében irányítást biztosító részesedésszerzéshez a Hivatal előzetes hozzájárulása is szükséges. E rendelkezés nem érinti a 102. § (1) bekezdésében rögzített rendelkezést.
 

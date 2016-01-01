@@ -24,7 +24,9 @@ h) a 39. § (1) bekezdés b) és c) pontja szerinti magánvezeték létesítése
 
 i) a közvetlen vezeték létesítése és megszüntetése, az erőmű telephelyén lévő vételezőket ellátó közvetlen vezeték kivételével,
 
-j) közvilágítási berendezések üzemeltetése a közvilágítási elosztó hálózat közvilágítási berendezései kivételével.
+j) közvilágítási berendezések üzemeltetése a közvilágítási elosztó hálózat közvilágítási berendezései kivételével,
+
+k) elektromos gépjármű töltése a 3. § 7b. pont b) és c) alpontjának kivételével.
 
 (2)
 

@@ -12,7 +12,9 @@ b) egyetemes szolgáltatói engedélyes kivételével villamosenergia-kereskedő
 
 c) magánvezeték engedélyese vagy
 
-d) közvetlen vezeték engedélyese
+d) közvetlen vezeték engedélyese,
+
+e) a töltőállomás-üzemeltető
 
 esetében.
 
@@ -26,6 +28,8 @@ b) egyetemes szolgáltatói engedélyes kivételével villamosenergia-kereskedő
 
 c) magánvezeték engedélyese vagy
 
-d) közvetlen vezeték engedélyese
+d) közvetlen vezeték engedélyese,
+
+e) a töltőállomás-üzemeltető
 
 esetében.

@@ -8,37 +8,35 @@
 
 (4) A Hivatal eljárása során az ügyintézés határideje
 
-a) amennyiben e törvény eltérő rendelkezést nem tartalmaz, három hónap,
+a) amennyiben e törvény eltérő rendelkezést nem tartalmaz, hatvan nap,
 
 b) amennyiben a Hivatal
 
-ba) a hálózati engedélyessel szemben e törvényben foglalt kötelezettségeinek megsértése miatt benyújtott panaszügyben jár el,
+ba) a hálózati engedélyessel szemben e törvényben foglalt kötelezettségeinek megsértése miatt benyújtott panaszügyben,
 
-bb) a hálózati engedélyestől eltérő engedélyessel szemben felmerülő, felhasználó által kezdeményezett panaszügyben jár el, vagy
+bb) a hálózati engedélyestől eltérő engedélyessel szemben felmerülő, felhasználó által kezdeményezett panaszügyben, vagy
 
-bc) a vertikálisan integrált villamosenergia-ipari vállalkozás és annak átviteli rendszerirányító tagja, vagy az átviteli rendszerüzemeltető és az átviteli hálózat tulajdonosa közötti panaszügyben jár el
+bc) a vertikálisan integrált villamosenergia-ipari vállalkozás és annak átviteli rendszerirányító tagja, vagy az átviteli rendszerüzemeltető és az átviteli hálózat tulajdonosa közötti panaszügyben
 
-2 hónap,
+jár el, 45 nap,
 
-c) a korlátozott villamosenergia-kereskedelmi engedélyezési ügyekben 30 nap,
+c) a korlátozott villamosenergia-kereskedelmi engedélyezési ügyekben 25 nap,
 
-d) amennyiben a Hivatal piacelemzés alapján jelentős piaci erővel rendelkező engedélyes azonosítása vagy kötelezettség előírására irányuló eljárásban jár el, hat hónap, amely egy alkalommal három hónappal meghosszabbítható.
+d) amennyiben a Hivatal piacelemzés alapján jelentős piaci erővel rendelkező engedélyes azonosítása vagy kötelezettség előírására irányuló eljárásban jár el, hat hónap,
 
-e)
+e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az Európai Bizottság véleményének kézhezvételét követően vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének letelte után az eljárás felfüggesztésének megszüntetésére és határozat közzétételére vagy annak módosítására a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam,
 
-e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az Európai Bizottság véleményének kézhezvételét követően vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének letelte után az eljárás felfüggesztésének megszüntetésére és határozat közzétételére vagy annak módosítására a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam.
+f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 25 nap,
 
-f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 30 nap, és
+g) a XIII/A. Fejezetben szabályozott eljárások esetében tizenkét hónap,
 
-g) a XIII/A. Fejezetben szabályozott eljárások esetében tizenkét hónap, amely egy alkalommal három hónappal meghosszabbítható,
+h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság eljárási határidejének lejártát követő 2 hónap,
 
-h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2009/72/EK rendelet 11. cikk (6) bekezdése szerinti eljárási határidejének lejártát követő 2 hónap,
-
-i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 45 nap,
+i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 30 nap,
 
 j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az átvevőt kijelölő határozat meghozatalához szükséges eljárás során 20 nap.
 
-(4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a Ket. általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
+(4a)
 
 (4b) A Hivatal eljárása során az ügyintézés határideje az átviteli rendszerüzemeltetők és a kijelölt villamosenergiapiac-üzemeltetők által kialakított feltételek és módszertanok jóváhagyása esetében a 2015/1222/EU bizottsági rendeletben egyedileg meghatározott határidők.
 
@@ -80,6 +78,8 @@ f) a más engedélyes kijelölése érdekében a korábbi engedélyes vagy az es
 
 (16) A Hivatal engedélyezési eljárásai során hirdetményt tesz közzé az eljárás megindításáról.
 
-(17) A Hivatal eljárásai során a panaszok és a közérdekű bejelentések tekintetében – a (18) bekezdés szerinti eltéréssel – a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései alapján jár el azzal az eltéréssel, hogy az elbírálási határidő három hónap.
+(17) A Hivatal eljárásai során a panaszok és a közérdekű bejelentések tekintetében – a (18) bekezdés szerinti eltéréssel – a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései alapján jár el.
 
 (18) A Hivatal az 57. § (4a) és (5) bekezdése szerinti panaszokról a Ket. szerinti hatósági eljárásban hoz döntést.
+
+(19) A Hivatalnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésében nem kell rendelkezni a kérelmezett jog gyakorlásáról.

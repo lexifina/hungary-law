@@ -22,6 +22,18 @@
 
 7. Egyetemes szolgáltatás: a villamosenergia-kereskedelem körébe tartozó sajátos villamosenergia-értékesítési mód, amely Magyarország területén bárhol, meghatározott minőségben a jogosult felhasználó számára méltányos, összehasonlítható, átlátható ár ellenében igénybe vehető;
 
+7a. Elektromos gépjármű: elektromos erőátviteli rendszerrel felszerelt gépjármű, amelynek meghajtása elsődlegesen villamos motorral történik és a motor a villamos energiát külsőleg újratölthető belső elektromos energiatároló rendszerből nyeri;
+
+7b. Elektromos gépjármű töltése: az elektromos gépjármű energiatárolójának
+
+a) töltése céljából villamos energia értékesítése vagy az energiatároló cseréje az elektromos gépjármű energiatárolójának villamos energiával történő feltöltésére alkalmas töltőállomáson az elektromos gépjármű üzemeltetője vagy használója részére,
+
+b) töltése a lakossági fogyasztó saját mért felhasználói berendezésén keresztül, amely tevékenység nem irányul gazdasági haszonszerzésre,
+
+c) töltése a nem lakossági felhasználó saját mért felhasználói berendezésén keresztül, ha a tevékenység nem irányul haszonszerzésre,
+
+d) töltése céljából villamos energia értékesítése a felhasználó mért magánvezetékére csatlakozó, az elektromos gépjármű energiatárolójának villamos energiával történő töltésére alkalmas töltőállomáson keresztül;
+
 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 
 9. Elosztó hálózat: a villamos energia elosztására és csatlakozási pontra való eljuttatása céljára szolgáló vezetékrendszer – beleértve a tartószerkezeteket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
@@ -140,7 +152,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 49a. Profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
 
-50. Rendszerhasználó: aki a közcélú hálózathoz villamos energia betáplálása, illetve vételezése céljából közvetlenül vagy közvetve csatlakozik;
+50. Rendszerhasználó: aki a közcélú hálózathoz villamos energia betáplálása, illetve vételezése céljából közvetlenül vagy közvetve csatlakozik, ideértve a töltőállomás-üzemeltetőt;
 
 51. Rendszerirányítás: a villamosenergia-rendszer zavartalan és biztonságos működtetését és a teljesítmény egyensúlyának biztosítását, valamint a nemzetközi összeköttetések rendelkezésre állását szolgáló célirányos tevékenységek összessége;
 
@@ -162,7 +174,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 60. Termelői vezeték: közcélúnak, magán- és közvetlen vezetéknek nem minősülő vezeték, hálózati elem, vagy átalakító- és kapcsolóberendezés, amely az erőmű által termelt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el, és erre felhasználó nem csatlakozik vagy vételező nem kapcsolódik;
 
-61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére;
+61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére, ide nem értve az elektromos gépjármű töltését;
 
 62. Üzemi hiba: azon nem tervezett üzemi esemény, amely a villamosenergia-termelés, -átvitel vagy -elosztás tervszerű üzemmenetében nem szándékolt változást eredményez;
 

@@ -11,3 +11,5 @@
 (6) A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére adott engedély hatálya megszűnik, ha az építményeket az építésre kiadott engedély jogerőre emelkedésétől számított két éven belül nem építi meg, vagy az említett építményeket véglegesen eltávolítja. A Hatóság a villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére adott engedély hatályát az engedélyes által a hatály lejárta előtt benyújtott kérelem alapján, külön jogszabályban meghatározott módon, két alkalommal legfeljebb két-két évvel meghosszabbíthatja, amennyiben az engedély a meghosszabbítás idején hatályban lévő jogszabályi előírásoknak megfelel.
 
 (7) A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére kiadott építési engedély hatályának megszűnésével a hatósági határozattal alapított vezetékjog is megszűnik.
+
+(8) A Hatóságnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésében nem kell rendelkezni a kérelmezett jog gyakorlásáról.

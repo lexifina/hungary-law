@@ -98,7 +98,9 @@
 
 47. a zöld bizonyítványra és a kapcsolt bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány-rendszer és a kapcsolt bizonyítvány-rendszer bevezetésének időpontját,
 
-48. a villamosenergia-kereskedő által az átvételi kötelezettség alá eső villamos energia átvétele és megfizetése alóli mentesség céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat
+48. a villamosenergia-kereskedő által az átvételi kötelezettség alá eső villamos energia átvétele és megfizetése alóli mentesség céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
+
+49. az elektromos gépjármű töltésére vonatkozó engedélyre, a töltőállomás üzemeltető jogaira és kötelezettségeire, az elektromos gépjármű töltésére, valamint a töltőállomás-üzemeltető és a felhasználó közötti jogviszonyra vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 
