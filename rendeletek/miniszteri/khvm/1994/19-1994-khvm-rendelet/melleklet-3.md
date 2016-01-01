@@ -144,6 +144,6 @@
 
 ## d) Az egyéb országos közutak csomóponti ágait és mellékútjait a szektorszám után 601–799 számokból álló számjegyekkel kell jelölni.
 
-3. számú melléklet a 19/1994. (V. 31.) KHVM rendelethez[^29]
+3. számú melléklet a 19/1994. (V. 31.) KHVM rendelethez[^30]
 
-[^29]: A 3. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 6. § (3) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: A 3. számú melléklet a 48/2009. (IX. 30.) KHEM rendelet 6. § (3) bekezdésével megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.

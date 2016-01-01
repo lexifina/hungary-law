@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-19-20-6
 | 2011-10-25 | 1994-19-20-6B.10 | 55/2011. (X. 24.) NFM rendelet |
 | 2012-01-01 | 1994-19-20-6B.11 | 34/2005. (VI. 11.) GKM rendelet |
 | 2013-11-09 | 1994-19-20-6B.12 | 66/2013. (XI. 6.) NFM rendelet |
+| 2016-01-01 | 1994-19-20-6B.13 | 75/2015. (XII. 29.) NFM rendelet |

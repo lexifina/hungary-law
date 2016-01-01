@@ -4,7 +4,7 @@
 
 ## az útosztályba sorolás feltételei
 
-## 1.[^27] Autópályák
+## 1.[^28] Autópályák
 
 ## Csak gépjárműforgalom céljára szolgálnak. Távolsági – országok, országrészek, illetve régiók közötti –, valamint jelentős nemzetközi forgalmat lebonyolító és azt a legnagyobb közlekedésbiztonságot nyújtva, a legmagasabb minőségi színvonalon kielégítő, irányonként legalább két forgalmi sávval és leállósávval rendelkező osztottpályás utak, fizikai elválasztással. A gépjárművezetők és az utasok tájékoztatása, utazási kényelme magas szolgáltatási színvonalú. Minden keresztezése külön szintű és a forgalmi csomópontokban a gépjárművek fel- és lehajtására külön sávok szolgálnak. Az autópályán szintbeni vasúti átjárót és tömegközlekedési megállóhelyet, valamint az út menti ingatlanokhoz közvetlen csatlakozást létesíteni nem lehet. Csak a forgalmi csomópontokban szabad fel- és lehajtani. A környező területektől kerítés vagy más fizikai akadály választja el.
 
@@ -92,7 +92,7 @@
 
 ## A gyalogutak a gyalogosok közlekedésére szolgáló önálló utak. A járdák a közútnak a gyalogosok közlekedésére szolgáló, attól szintkülönbséggel, kiemelt szegéllyel vagy más módon elválasztott része.
 
-2. számú melléklet a 19/1994. (V. 31.) KHVM rendelethez[^28]
+2. számú melléklet a 19/1994. (V. 31.) KHVM rendelethez[^29]
 
-[^27]: Az 1. számú melléklet I. fejezetének 1. pontja a 65/2006. (IX. 15.) GKM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^28]: A 2. számú melléklet a 34/2005. (VI. 11.) GKM rendelet 5. §-ának (2) bekezdésével megállapított, valamint a 65/2006. (IX. 15.) GKM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^28]: Az 1. számú melléklet I. fejezetének 1. pontja a 65/2006. (IX. 15.) GKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^29]: A 2. számú melléklet a 34/2005. (VI. 11.) GKM rendelet 5. §-ának (2) bekezdésével megállapított, valamint a 65/2006. (IX. 15.) GKM rendelet 3. § (2) bekezdése szerint módosított szöveg.
