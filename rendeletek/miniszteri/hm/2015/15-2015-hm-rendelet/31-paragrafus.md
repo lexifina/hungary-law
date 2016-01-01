@@ -1,1 +1,0 @@
-## 2. A Honvédelmi Minisztérium rendelkezése alatt lévő lakások és nem lakáscélú helyiségek elidegenítésének feltételeiről szóló 8/2013. (VII. 9.) HM rendelet módosítása
