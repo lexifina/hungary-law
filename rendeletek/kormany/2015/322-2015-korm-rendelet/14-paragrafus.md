@@ -18,12 +18,22 @@ b) a kivitelezési tervdokumentáció elkészítésére és a kivitelezésre, ha
 
 (5) A (4) bekezdés szerinti esetben az engedélyezési tervdokumentáció, illetve a kivitelezési tervdokumentáció elkészítésére irányuló közbeszerzési eljárás során a II. Fejezet rendelkezéseit megfelelően alkalmazni kell [2. §].
 
-(6) A (4) bekezdés a) pontja szerinti esetben az ajánlatkérő külön jogszabályban meghatározott jóváhagyási tervet készít és bocsát a gazdasági szereplők rendelkezésére, amely a 6. §-ban meghatározottak mellett tartalmazza különösen:
+(6)[^1] A (4) bekezdés a) pontja szerinti esetben az ajánlatkérő – a 3. mellékletben meghatározottak figyelembevételével – jóváhagyási tervet készíttet és bocsát a gazdasági szereplők rendelkezésére, amely tartalmazza az építmény
 
-a) az építmény céljára, műszaki tulajdonságaira vonatkozó adatokat,
+a) környezetében és az építési területen, építési telken való elhelyezését,
 
-b) a látványtervet,
+b) térbeli összefüggéseit, alaprajzi és metszetbeli elrendezését,
 
-c) az engedélyezési tervdokumentáció elkészítéséhez szükséges adatokat és információkat.
+c) meghatározó építészeti megjelenését,
+
+d) műszaki (így különösen építészeti, épületszerkezeti, tartószerkezeti, épületgépészeti, épületvillamossági és egyéb szakági) megoldásait,
+
+e) minden főbb szerkezeti, valamint a hozzá kapcsolódó minden gépészeti, technológiai berendezés teljesítményadatát,
+
+f) megvalósításával kapcsolatos költségbecslést,
+
+g) üzemeltetési megoldásait és becsült költségeit.
 
 (7) Az (1) bekezdés a) pontja szerinti esetben, ha a közbeszerzés tárgya kizárólag a Kbt. 1. mellékletében foglalt tevékenységek egyikéhez kapcsolódó munka kivitelezése, az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet (a továbbiakban: Épkiv.) eltérő rendelkezése hiányában a (4)–(6) bekezdésben foglaltak nem alkalmazandók.
+
+[^1]: A 14. § (6) bekezdése a 476/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
