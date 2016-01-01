@@ -2,7 +2,7 @@
 
 A fogyasztóvédelmi referens hatósági jellegű képzés szakmai követelményei
 
-A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a területspecifikus fogyasztóvédelmi ismereteknek, valamint alkalmassá váljon az e törvény 17/D. §-ában meghatározott fogyasztóvédelmi referensi feladatok ellátására.
+A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a területspecifikus fogyasztóvédelmi ismereteknek, valamint alkalmassá váljon az e törvény 17/D. §-ában meghatározott fogyasztóvédelmi referensi feladatok ellátására, amellyel elősegíti a vállalkozás fogyasztóvédelmi szemléletének erősítését, illetve segíteni tudja az alkalmazottak fogyasztóvédelmi szabályokra vonatkozó ismereteinek elmélyítését.
 
 1. A képzés témakörei
 
@@ -88,7 +88,7 @@ h) termékspecifikus reklámtilalmak és reklámkorlátozások.
 
 3. A vizsga
 
-3.1. A képzés és a vizsga részletes szabályait a képzést szervezőnek tanulmányi és vizsgaszabályzatban kell rögzítenie. A szervező gondoskodik a vizsga követelményeihez igazodó felkészítő anyag elkészítéséről, a vizsga lebonyolítását meghatározó módszertani útmutató készítéséről, az ellenőrző kérdések összeállításáról és azok közzétételéről, valamint az írásbeli és szóbeli vizsgakérdések összeállításáról.
+3.1. A képzés és a vizsga részletes szabályait a képzést szervezőnek tanulmányi és vizsgaszabályzatban kell rögzítenie. A képzés kizárólag jelenléti képzés keretében végezhető. A szervező gondoskodik a vizsga követelményeihez igazodó felkészítő anyag elkészítéséről, a vizsga lebonyolítását meghatározó módszertani útmutató készítéséről, az ellenőrző kérdések összeállításáról és azok közzétételéről, valamint az írásbeli és szóbeli vizsgakérdések összeállításáról.
 
 3.2. A fogyasztóvédelmi referens képzésen oktató, valamint vizsgán vizsgáztató lehet, aki
 
@@ -98,12 +98,10 @@ b) legalább 5 éves, fogyasztóvédelmi hatóságnál eltöltött gyakorlattal 
 
 3.3. A képzési idő lejártát követően a résztvevő vizsgát köteles tenni. A képzés elvégzését, valamint a vizsga letételét követően fogyasztóvédelmi referens megnevezésű képesítés megszerzésére kerül sor.
 
-3.4. A fogyasztóvédelmi referens vizsgát 3 tagú vizsgabizottság bírálja el. A vizsgabizottságot elnök vezeti. Az elnököt a fogyasztóvédelmi hatóság főigazgatója jelöli ki.
+3.4. A fogyasztóvédelmi referens vizsgát 3 tagú vizsgabizottság bírálja el. A vizsgabizottságot elnök vezeti. Az elnököt a szervező jelöli ki.
 
-3.5. A vizsga írásbeli és szóbeli részből áll. A vizsgafeladatokat a fogyasztóvédelmi hatóság hagyja jóvá. Az írásbeli vizsga megoldására 180 perc áll rendelkezésre. A szóbeli vizsgán a szóbeli vizsgakérdésekből szükséges ismertetnie tudását a vizsgázónak.
+3.5. A vizsga írásbeli és szóbeli részből áll. A szervező az írásbeli és a szóbeli vizsgakérdéseket bejelenti a fogyasztóvédelmi hatósághoz. A bejelentett írásbeli vizsgakérdésekből összeállított írásbeli vizsga megoldására 180 perc áll rendelkezésre. A szóbeli vizsgán a vizsgázó a tematikához kapcsolódó, bejelentett szóbeli vizsgakérdésekből ismerteti tudását.
 
-3.6. A vizsga eredményét a pontérték alapján, %-ban kell meghatározni és azt kiválóan megfelelt, megfelelt vagy eredménytelen minősítéssel kell ellátni. A megfelelt minősítéshez legalább 60%-os, a kiválóan megfelelt minősítéshez legalább 90%-os eredmény szükséges.
+3.6. A vizsga eredményét a pontérték alapján, százalékban kell meghatározni és azt kiválóan megfelelt, megfelelt vagy eredménytelen minősítéssel ellátni. A megfelelt minősítéshez legalább 60%-os, a kiválóan megfelelt minősítéshez legalább 90%-os eredmény szükséges.
 
-3.7. A képzést szervező a vizsgáról jegyzőkönyvet köteles vezetni. A vizsga jegyzőkönyvét és az eredmények összesítését a szervező 5 napon belül megküldi a fogyasztóvédelmi hatóságnak.
-
-3.8. A vizsga eredményes teljesítéséről a fogyasztóvédelmi hatóság képesítési bizonyítványt állít ki, mely tartalmazza a képzésben részt vevő által elvégzett szakirányt.
+3.7. A szervező a vizsgáról jegyzőkönyvet köteles vezetni. A vizsga jegyzőkönyvét és az eredmények összesítését a szervező 5 évig köteles megőrizni és az ellenőrzés során a fogyasztóvédelmi hatóság számára bemutatni.
