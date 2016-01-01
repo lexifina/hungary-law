@@ -26,7 +26,7 @@
 
 | 12. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^16]
+2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^20]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -60,4 +60,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 14. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-[^16]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 25. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^20]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 25. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.

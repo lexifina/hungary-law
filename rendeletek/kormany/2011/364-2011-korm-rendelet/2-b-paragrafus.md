@@ -1,4 +1,4 @@
-2/B. §[^5] (1) Az 1. § (1) bekezdése szerinti beruházás keretében megvalósuló sportlétesítmények nézőtéri lelátóinak lépcsőit szabad lépcsőnek kell tekinteni és tekintetükben az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 63. §-át kell alkalmazni.
+2/B. §[^7] (1) Az 1. § (1) bekezdése szerinti beruházás keretében megvalósuló sportlétesítmények nézőtéri lelátóinak lépcsőit szabad lépcsőnek kell tekinteni és tekintetükben az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 63. §-át kell alkalmazni.
 
 (2) Az 1. § (1) bekezdése szerinti beruházással érintett épületek esetében az OTÉK 82. § (1) bekezdése szerinti forgalomelemzés elkészítésekor
 
@@ -18,4 +18,4 @@ c) egy autóbusz várakozóhelyet kell létesíteni minden megkezdett 7000 fér�
 
 (5) Az 1. § (1) bekezdése szerinti beruházás keretében megvalósuló, nézőtéri lelátóval rendelkező sportlétesítmények sportpályáinak biológiailag aktív zöldfelületeit az OTÉK által meghatározott megengedett legkisebb zöldfelületbe be lehet számolni.
 
-[^5]: A 2/A. §-t a 372/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 2/A. §-t a 372/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.

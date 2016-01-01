@@ -1,7 +1,7 @@
-## 7. §[^13] E rendeletnek a budapesti Istvánmező rehabilitációs programjával, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 364/2011. (XII. 30.) Korm. rendelet módosításáról szóló 372/2015. (XII. 2.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 2. §-át, 2/A. §-át és 2/B. §-át, valamint 1. mellékletében foglalt táblázat 2. sorát a Módr4. hatálybalépésekor[^14] folyamatban lévő ügyekben is alkalmazni kell.
+## 8. §[^17] E rendeletnek az egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 467/2015. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 1. § (4) és (5) bekezdését a Módr5. hatálybalépésekor[^18] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^15]
+1. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^19]
 
-[^13]: A 7. §-t a 372/2015. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
-[^14]: A hatálybalépés időpontja 2015. december 3.
-[^15]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 25. § a) pontjával megállapított, a 372/2015. (XII. 2.) Korm. rendelet 3. § b) pontja és 4. § b) pontja szerint módosított szöveg.
+[^17]: A 8. §-t a 467/2015. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^18]: A hatálybalépés napja 2016. január 1.
+[^19]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 25. § a) pontjával megállapított, a 372/2015. (XII. 2.) Korm. rendelet 3. § b) pontja és 4. § b) pontja szerint módosított szöveg.
