@@ -18,8 +18,10 @@ d) az e rendelet szerinti tájékoztatás időpontjában a biztosítási szerző
 
 (2) Az évenkénti egy írásbeli tájékoztatóért a biztosító külön költséget nem számolhat fel. A biztosító az írásbeli tájékoztatót a tájékoztatás időpontját követő 15 napon belül köteles a szerződőnek megküldeni. A tájékoztatás időpontját az írásbeli tájékoztatón fel kell tüntetni.
 
-(3) Az írásbeli tájékoztató évente történő kiadásával a biztosító egyben az 1995. évi XCVI. törvény 102. § (5) bekezdésében előírt tájékoztatási kötelezettségét is teljesíti.
+(3)[^2] Az írásbeli tájékoztató évente történő kiadásával a biztosító egyben a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 156. § (1) bekezdésében előírt tájékoztatási kötelezettségét is teljesíti.
 
 (4) A biztosítási szerződés megszűnése esetén a biztosító a szerződés megkötésétől vagy az utolsó írásbeli tájékoztatás időpontjától a megszűnés időpontjáig terjedő időszakra – a biztosítási szerződés megszűnését követő 15 napon belül – köteles a 2. § (1) bekezdés szerinti írásbeli tájékoztatást nyújtani.
 
 (5) Ha a szerződő – az (1) és (4) bekezdésekben meghatározott alkalmon kívül – írásban vagy egyéb azonosítható formában az erre vonatkozó igényét a biztosítóhoz eljuttatja, a biztosító köteles a szerződőt a fenti részletezettséggel 15 napon belül írásban vagy elektronikus formában tájékoztatni. A biztosító ezért a szolgáltatásért külön költséget számolhat fel.
+
+[^2]: A 2. § (3) bekezdése a 29/2015. (X. 21.) NGM rendelet 1. §-a szerint módosított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-33-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2002-11-19 | 2002-33-20-53.1 | 33/2002. (XI. 16.) PM rendelet |
+| 2016-01-01 | 2002-33-20-53.2 | 2/2019. (III. 28.) PM rendelet |
