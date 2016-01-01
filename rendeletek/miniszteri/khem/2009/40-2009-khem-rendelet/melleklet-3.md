@@ -36,7 +36,7 @@
 
 | II. | ANYAGMOZGATÓ- ÉS SPECIÁLIS SZÁLLÍTÓGÉPEK |
 
-|  | 33 | Targoncák |
+|  | 33 | Villástargoncák |
 
 |  | 36 | Speciális anyagszállító és anyagtovábbító járművek |
 
@@ -122,15 +122,9 @@
 
 3. melléklet a 40/2009. (VIII. 31.) KHEM rendelethez
 
-## Gépkezelői tanfolyam szervezésének tárgyi feltételei
+## Gépkezelői szaktanfolyam szervezésének tárgyi feltételei[^13]
 
-1. Az elméleti tantárgyak oktatásához:
-
-a) tanterem és mellékhelyiségek,
-
-b) falitábla és írásvetítő berendezés vagy számítógépes projektor (kivetítő berendezés),
-
-c) diavetítő berendezés vagy videolejátszó és televíziókészülék, továbbá az egyes tantárgyaknak megfelelő oktatóprogramok, falitablók.
+1.[^14]
 
 2. A gyakorlati tárgyak oktatásához:
 
@@ -139,3 +133,6 @@ a) működőképes, az előírt vizsgálatoknak megfelelő (időszakos vizsgála
 b) gyakorló terület, ahol a személy- és vagyonbiztonság veszélyeztetése és a rendeltetésszerű használat mértékét meghaladó környezetszennyezés nélkül biztosítható a tanuló számára a gép kezelésének, valamint a hibaelhárításnak a gyakorlása, beleértve a géphez tartozó különböző tartozékok, szerelékek fel- és leszerelését. A gyakorláshoz olyan hőmérsékletet kell biztosítani, amely belül van a gép üzemszerű használatához engedélyezett hőmérséklet tartományon,
 
 c) a tanuló és a gép üzemeltetéséért felelős személy (a továbbiakban: gyakorlati oktató) részére a gép kezeléséhez (karbantartásához, tartozékcseréjéhez) előírt munka- és védőruha, védőital.
+
+[^13]: A 3. melléklet címe a 74/2015. (XII. 29.) NFM rendelet 5. § f) pontja szerint módosított szöveg.
+[^14]: A 3. melléklet 1. pontját a 74/2015. (XII. 29.) NFM rendelet 6. § b) pontja hatályon kívül helyezte.

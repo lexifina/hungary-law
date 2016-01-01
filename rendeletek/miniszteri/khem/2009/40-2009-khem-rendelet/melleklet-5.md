@@ -12,25 +12,9 @@
 
 A vizsgák megtartására vonatkozó szabályok
 
-I. Elméleti vizsga
+I.[^18]
 
-A tanfolyamot folytató szervezet az elméleti vizsgák megtartásához a tantermet biztosítja.
-
-A vizsga megkezdése előtt a jegyzőkönyvvezető a vizsgabizottság elnökének átadja a vizsgázók adatait tartalmazó vizsgajegyzőkönyvet. Ennek alapján a vizsgabizottság ellenőrzi a jelöltek személyazonosságát, továbbá a tanfolyami oktatáson történő részvételükre vonatkozó feltételek teljesítését. A vizsgabizottság tájékoztatja a vizsgázókat az elméleti vizsgák lebonyolításának rendjéről.
-
-A vizsgáztatást a vizsgabizottság végzi az oktató tanárok közreműködésével.
-
-Az adott gépcsoporthoz tartozó vizsgatételeket a tanfolyami folytató szervezet állítja össze és a tételeket a vizsgabizottság részére átadja.
-
-A három elméleti vizsga időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
-
-A vizsgázó a három elméleti tantárgyból egy-egy kérdést tartalmazó tételt húz és a kérdésekre szóban válaszol.
-
-Sikeres a vizsga, ha a vizsgázó mindhárom kérdésre megfelelő szakmai ismeret bemutatásával válaszol. Ebben az esetben a vizsga értékelése „M”. Ha legfeljebb egy kérdésre a jelölt válasza nem fogadható el, a jelölt újabb tételt húzhat és a vizsgát ennek megválaszolásával folytathatja. Amennyiben erre sem tud kielégítő választ adni, a vizsga sikertelen, a jegyzőkönyvbe „1” (bekarikázva) kerül, és a jelölt leghamarabb 6 munkanap elteltével tehet újabb elméleti vizsgát.
-
-A vizsgázók vizsgaeredményeit a jegyzőkönyvvezető a jegyzőkönyvben rögzíti, aláírja és átadja a vizsgabizottság elnökének, aki ismerteti a vizsgázókkal az elméleti vizsgák eredményeit.
-
-II. Gyakorlati vizsga
+II. A képzést követő vizsga (a továbbiakban: gyakorlati vizsga)[^19]
 
 A tanfolyamot folytató szervezet a gyakorlati vizsgák megtartásához a megfelelő gépet biztosítja.
 
@@ -40,10 +24,14 @@ Sikeres a gyakorlati vizsga, ha a vizsgázó a részére meghatározott vizsgafe
 
 A gyakorlati vizsgák eredményeit a jegyzőkönyvvezető a jegyzőkönyvben rögzíti, aláírja és átadja a vizsgabizottság elnökének, aki ismerteti a vizsgázókkal a gyakorlati vizsgák eredményeit.
 
-III. A vizsgák lezárása
+III. A vizsgák lezárása[^20]
 
-A gyakorlati vizsga befejezése után a vizsgabizottság a jegyzőkönyvet aláírja és annak egy-egy példányát kapja:
+A vizsga befejezése után a vizsgabizottság a jegyzőkönyvet aláírja és annak egy-egy példányát kapja:
 
 a) a tanfolyamot folytató szervezet,
 
 b) az NKH.
+
+[^18]: Az 5. melléklet I. pontját a 74/2015. (XII. 29.) NFM rendelet 6. § e) pontja hatályon kívül helyezte.
+[^19]: Az 5. melléklet II. pont címe a 74/2015. (XII. 29.) NFM rendelet 5. § h) pontjával megállapított szöveg. [Az 5. melléklet II. pontjában a 74/2015. (XII. 29.) NFM rendelet 5. § i) pontjával elrendelt módosítás, amely szerint a „tanfolyam” szövegrész helyébe a „szaktanfolyam” szöveg lép, nem vezethető át.]
+[^20]: Az 5. melléklet III. pontja a 74/2015. (XII. 29.) NFM rendelet 6. § f) pontja szerint módosított szöveg. [Az 5. melléklet III. pontjában a 74/2015. (XII. 29.) NFM rendelet 5. § i) pontjával elrendelt módosítás, amely szerint a „tanfolyam” szövegrész helyébe a „szaktanfolyam” szöveg lép, nem vezethető át.]

@@ -1,25 +1,17 @@
-4. § (1) A gépkezelők képzése iskolarendszeren kívüli képzés (a továbbiakban: tanfolyam) keretében történik.
+4. §[^4] (1) A gépkezelők képzése szaktanfolyamon történik.
 
-(2) Tanfolyamra az jelentkezhet, aki a közúti közlekedésről szóló törvényben meghatározott, életkori és egészségügyi feltételeknek megfelel.
+(2) Szaktanfolyamra az jelentkezhet, aki
 
-(3) Tanfolyamot az a felnőttképzést folytató intézmény kezdhet meg és folytathat, amely megfelel a 3. mellékletben meghatározott feltételeknek.
+a) a közúti közlekedésről szóló törvényben meghatározott életkori és egészségügyi feltételeknek megfelel, és
 
-(4) A tanfolyam elméleti és gyakorlati oktatási részből áll.
+b) az Országos Képzési Jegyzékben meghatározott – a megszerezni kívánt gépcsoporthoz tartozó – könnyű- vagy nehézgépkezelői szakképesítéssel rendelkezik, vagy építő- és anyagmozgató gépkezelő szakképesítő vizsgát tett, kivéve, ha már rendelkezik hatályos gépkezelői képesítéssel.
 
-(5) Az elméleti oktatási rész tantárgyai és legkisebb oktatási óraszámuk gépcsoportonként:
+(3) Szaktanfolyami oktatást az a képző szerv végezhet, amely megfelel a 3. mellékletben meghatározott feltételeknek.
 
-a) gépek szerkezettana (gépcsoportonként 15 tanóra),
+(4) A szaktanfolyamon való részvétel kötelező. A szaktanfolyam keretében gépcsoportonként és tanulónként legalább 3 tanóra gyakorlati oktatást, valamint tanfolyamonként 1 óra munkavédelmi és elsősegély oktatást kell tartani, egy tanóra időtartama 45 perc.
 
-b) üzemeltetési és technológiai ismeretek (5 tanóra),
+(5) A szaktanfolyamon az oktathat, aki megfelel a szakképzésről szóló törvényben meghatározott feltételeknek, valamint a választott gépcsoportba tartozó gép kezelésére jogosító, e rendeletben meghatározott jogosítvánnyal rendelkezik.
 
-c) szakirányú munkavédelemi és elsősegély-nyújtási ismeretek (5 tanóra).
+(6) Az oktatás ismeretanyagát a 4. melléklet tartalmazza.
 
-(6) A gyakorlati oktatási rész (gépkezelési gyakorlat) gépcsoportonként és tanulónként legalább 5 tanóra, egy tanóra időtartama 45 perc.
-
-(7) A tanfolyam elméleti és gyakorlati oktatási részén – amennyiben jogszabály másként nem rendelkezik – a részvétel kötelező.
-
-(8) Az elméleti tantárgyat az oktathatja, aki a tantárgy szakmai tartalmához tartozó, legalább középfokú szakmai képesítéssel rendelkezik.
-
-(9) A gyakorlati tantárgyat az oktathatja, aki a választott gépcsoportba tartozó gép kezelésére jogosító, a rendeletben meghatározott jogosítvánnyal és legalább 1 éves időtartamú gépkezelési gyakorlattal rendelkezik.
-
-(10) Az elméleti és a gyakorlati oktatásra vonatkozó részletes szabályokat a 4. melléklet tartalmazza.
+[^4]: A 4. § a 74/2015. (XII. 29.) NFM rendelet 2. §-ával megállapított szöveg.

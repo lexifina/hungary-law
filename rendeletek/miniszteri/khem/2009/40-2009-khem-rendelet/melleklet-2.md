@@ -72,4 +72,6 @@
 
 | EGYÉB BEJEGYZÉSEK | EGYÉB BEJEGYZÉSEK |
 
-2. melléklet a 40/2009. (VIII. 31.) KHEM rendelethez
+2. melléklet a 40/2009. (VIII. 31.) KHEM rendelethez[^12]
+
+[^12]: A 2. melléklet a 74/2015. (XII. 29.) NFM rendelet 5. § e) pontja szerint módosított szöveg.

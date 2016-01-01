@@ -1,25 +1,19 @@
-5. § (1) A gépkezelői vizsga tárgyai:
+5. §[^5] (1) Vizsgát az tehet, aki
 
-a) elméleti vizsgatárgyak:
+a) a közúti közlekedésről szóló törvényben meghatározott életkori és egészségügyi feltételeknek megfelel, valamint
 
-aa) gépek szerkezettana,
+b) rendelkezik
 
-ab) üzemeltetési és technológiai ismeretek,
+ba) az Országos Képzési Jegyzékben meghatározott – a megszerezni kívánt gépcsoporthoz tartozó – könnyű- vagy nehézgépkezelői szakképesítéssel, vagy építő- és anyagmozgató gépkezelő szakképesítő vizsga eredményes teljesítését igazoló okmánnyal, és a 4. §-ban meghatározott szaktanfolyamot elvégezte, vagy
 
-ac) szakirányú munkavédelemi és elsősegély nyújtási ismeretek;
+bb) az építőgépkezelő munkakörök képesítéshez kötéséről és az építőgépkezelők képzéséről szóló 6/1980. (I. 25.) ÉVM–KPM együttes rendelet alapján kiadott építőgépkezelői jogosítvánnyal.
 
-b) gyakorlati vizsgatárgy: gépkezelés.
+(2) Az építőgépkezelő munkakörök képesítéshez kötéséről és az építőgépkezelők képzéséről szóló 6/1980. (I. 25.) ÉVM–KPM együttes rendelet alapján kiállított építőgép-kezelői jogosítványba bejegyzett, adott gépre vonatkozó gépkezelési jogosultság – a 4. §-ban meghatározott szaktanfolyam elvégzése nélkül, gyakorlati vizsga letételével – a 2. melléklet szerinti azonos gépcsoportra terjeszthető ki.
 
-(2) Gyakorlati vizsgát az tehet, aki:
+(3) A gépkezelő vizsgákat és gépkezelői jogosítvány kiadását a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) a Nemzeti Közlekedési Hatóságról szóló kormányrendeletben meghatározottak szerint végzi.
 
-a) minden elméleti vizsgatárgyból sikeres vizsgát tett, vagy
+(4) Az NKH a szaktanfolyamot folytató szervezettel a szaktanfolyam befejezésének időpontját megelőző 5 munkanappal történt előzetes egyeztetés alapján határozza meg a vizsga időpontját és helyét. A szaktanfolyami képzést folytató szervezet kérelmére az NKH az e rendelet szerinti vizsga időpontját a szakképesítő vizsgával azonos napra tűzi ki. Ebben az esetben a szakképesítő vizsga elnökének kijelöléséhez az NKH egyetértése szükséges.
 
-b) az Országos Képzési Jegyzékben meghatározott – a megszerezni kívánt gépcsoporthoz tartozó – könnyű- vagy nehézgépkezelői szakképesítéssel rendelkezik vagy építő- és anyagmozgató gépkezelő szakképesítő vizsgát tett.
+(5) A vizsgák megtartására vonatkozó szabályokat az 5. melléklet tartalmazza.
 
-(3) A vizsgadíjra megfelelően alkalmazni kell a közúti járművezetői vizsga és az egyes közúti közlekedési szakképesítésekkel összefüggő vizsgák díjairól szóló miniszteri rendelet 3. §-ának és a 3. számú melléklete 2. és 3. pontjának rendelkezéseit.
-
-(4) A gépkezelők vizsgáztatását és a gépkezelői jogosítvány kiadását a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) végzi.
-
-(5) Az NKH a tanfolyamot folytató szervezettel, a tanfolyam befejezésének időpontját megelőző 5 munkanappal történt előzetes egyeztetés alapján határozza meg az elméleti és a gyakorlati vizsga időpontját és helyét.
-
-(6) A vizsgák megtartására vonatkozó szabályokat az 5. melléklet tartalmazza.
+[^5]: Az 5. § a 74/2015. (XII. 29.) NFM rendelet 3. §-ával megállapított szöveg.
