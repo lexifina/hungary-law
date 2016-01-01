@@ -1,8 +1,8 @@
-## 10. §[^7] A Szolgálatok előirányzataik terhére elszámolhatják a feladataik végrehajtása során felmerülő kiadásaikat a feladat végrehajtásában érintett személyi állomány tagja nevére, címére kiállított számla alapján is az Ávr. 59. § (1) bekezdésében meghatározott teljesítés igazolás megléte esetén.
+## 10. §[^8] A Szolgálatok előirányzataik terhére elszámolhatják a feladataik végrehajtása során felmerülő kiadásaikat a feladat végrehajtásában érintett személyi állomány tagja nevére, címére kiállított számla alapján is az Ávr. 59. § (1) bekezdésében meghatározott teljesítés igazolás megléte esetén.
 
 ## 5. Speciális kiadások és bevételek
 
-11. § (1)[^8] A Szolgálatok költségvetésében az alaptevékenységgel összefüggő speciális működési kiadások fedezetére elkülönített előirányzatot a dologi kiadások kiemelt előirányzaton belül egy összegben a „K355. Egyéb dologi kiadások” rovaton kell tervezni és elszámolni, tekintet nélkül arra, hogy az személyi jellegű, felhalmozási, felújítási célú vagy dologi kiadás. Ilyen kiadás esetén az elszámolás alapokmányául számla, személyi állomány tagja nevére, címére, illetve fedőnévre kiállított számla vagy egyéb számviteli bizonylat – ideértve a számlát helyettesítő belső bizonylatot vagy a számlával egy tekintet alá eső okiratot is – elfogadható az Ávr. 59. §-ában meghatározott teljesítés igazolás megléte esetén.
+11. § (1)[^9] A Szolgálatok költségvetésében az alaptevékenységgel összefüggő speciális működési kiadások fedezetére elkülönített előirányzatot a dologi kiadások kiemelt előirányzaton belül egy összegben a „K355. Egyéb dologi kiadások” rovaton kell tervezni és elszámolni, tekintet nélkül arra, hogy az személyi jellegű, felhalmozási, felújítási célú vagy dologi kiadás. Ilyen kiadás esetén az elszámolás alapokmányául számla, személyi állomány tagja nevére, címére, illetve fedőnévre kiállított számla vagy egyéb számviteli bizonylat – ideértve a számlát helyettesítő belső bizonylatot vagy a számlával egy tekintet alá eső okiratot is – elfogadható az Ávr. 59. §-ában meghatározott teljesítés igazolás megléte esetén.
 
 (2) A speciális működési kiadások körébe eső, az Nbtv. 63. § (3) és (4) bekezdésében meghatározott, személyi jövedelemadó-köteles kifizetések után levont adót a Szolgálatok havonta egy összegben utalják át az adóhatóságnak.
 
@@ -18,10 +18,10 @@
 
 (8) A Szolgálatok áthúzódó speciális kiadásaik fedezetére év végén házipénztárukban elkülönített módon készpénzt tarthatnak. Ebből a tárgyévet követő év január 15. napjáig történő kifizetést a tárgyév terhére kell elszámolni.
 
-(9)[^9] A Szolgálatok költségvetésében az alaptevékenységgel összefüggő speciális bevételeiket a működési bevételek kiemelt előirányzaton belül egy összegben a „B410. Egyéb működési bevételek” rovaton tervezik és számolják el. Az ilyen bevételekről elkülönített nyilvántartást kell vezetni és azok éves összegéről az éves költségvetési beszámoló szöveges indokolásában kell – a műveleti szempontokat figyelembe véve – tájékoztatást adni a fejezetet irányító szerv vezetője részére. A Szolgálatok az ilyen bevételek teljes összegét felhasználhatják kiadásaik fedezésére.
+(9)[^10] A Szolgálatok költségvetésében az alaptevékenységgel összefüggő speciális bevételeiket a működési bevételek kiemelt előirányzaton belül egy összegben a „B410. Egyéb működési bevételek” rovaton tervezik és számolják el. Az ilyen bevételekről elkülönített nyilvántartást kell vezetni és azok éves összegéről az éves költségvetési beszámoló szöveges indokolásában kell – a műveleti szempontokat figyelembe véve – tájékoztatást adni a fejezetet irányító szerv vezetője részére. A Szolgálatok az ilyen bevételek teljes összegét felhasználhatják kiadásaik fedezésére.
 
 (10) Az (1) és (3)–(6), valamint a (8) bekezdés szerinti speciális működési kiadásokra és bevételekre vonatkozó felhasználás, bizonylatolás, elszámolás és ellenőrzés részletes szabályait a miniszter külön utasításban határozza meg.
 
-[^7]: A 10. § az 553/2013. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^8]: A 11. § (1) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^9]: A 11. § (9) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^8]: A 10. § az 553/2013. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^9]: A 11. § (1) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^10]: A 11. § (9) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
