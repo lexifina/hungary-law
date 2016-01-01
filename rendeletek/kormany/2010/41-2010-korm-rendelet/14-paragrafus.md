@@ -12,7 +12,7 @@
 
 a) kistestű ebet 10 m2-nél, közepes testű ebet 15 m2-nél, nagytestű ebet 20 m2-nél kisebb területen tartósan,
 
-b) kistestű ebet 4 m-nél, közepes testű ebet 6 m-nél, nagytestű ebet 8 m-nél rövidebb eszközzel tartósan kikötve,
+b)[^30]
 
 c) gerinces állatot kör alapú kalitkában vagy gömb alakú akváriumban,
 
@@ -20,39 +20,41 @@ d) gerinces állat kifejlett egyedét 30 liternél kisebb űrtartalmú térben
 
 tartani.
 
-(6)[^30] Tartósan csoportosan tartott ebek esetén számukra egyedenként legalább 6 m2 akadálytalanul használható területet kell biztosítani. Nem minősül csoportos tartásnak a szuka együtt tartása a kölykeivel, azok hathetes koráig.
+(6)[^31] Tartósan csoportosan tartott ebek esetén számukra egyedenként legalább 6 m2 akadálytalanul használható területet kell biztosítani. Nem minősül csoportos tartásnak a szuka együtt tartása a kölykeivel, azok hathetes koráig.
 
-(7)[^31] Amennyiben ebet futólánccal – vagy ahhoz hasonló elven működő szerkezettel – kikötve tartanak, a feszített és futó részek hosszának összege nem lehet kevesebb 8 m-nél, valamint a futó rész nem lehet rövidebb 3 m-nél.
+(7)[^32]
 
-(8)[^32] A csoportosan tartott állatok esetében – hacsak az adott fajra vonatkozó tudományosan elfogadott ismeretekből más nem következik – a tartási helyet úgy kell kialakítani, hogy mindegyik egyed versengés és agresszió nélkül egy időben hozzáférjen az etető-, itató-, fürdő-, pihenő-, és búvóhelyhez.
+(8)[^33] A csoportosan tartott állatok esetében – hacsak az adott fajra vonatkozó tudományosan elfogadott ismeretekből más nem következik – a tartási helyet úgy kell kialakítani, hogy mindegyik egyed versengés és agresszió nélkül egy időben hozzáférjen az etető-, itató-, fürdő-, pihenő-, és búvóhelyhez.
 
-(9)[^33] A talajszinten élő állatok hálós aljzaton nem tarthatók, kivéve, ha füves területen, vagy közvetlenül a talajon helyezik el a ketrecet.
+(9)[^34] A talajszinten élő állatok hálós aljzaton nem tarthatók, kivéve, ha füves területen, vagy közvetlenül a talajon helyezik el a ketrecet.
 
-(10)[^34] A nem kizárólag talajon vagy vízben lakó fajok esetében legalább két olyan polcot vagy ágat, ülőrudat kell elhelyezni, amelyek mérete és kialakítása olyan, hogy az állat biztonságban és természetes testhelyzetben tud rajtuk ülni, pihenni.
+(10)[^35] A nem kizárólag talajon vagy vízben lakó fajok esetében legalább két olyan polcot vagy ágat, ülőrudat kell elhelyezni, amelyek mérete és kialakítása olyan, hogy az állat biztonságban és természetes testhelyzetben tud rajtuk ülni, pihenni.
 
-(11)[^35] Az akváriumot, amelyben halat tartanak, üveglappal, hálóval vagy más arra alkalmas tárggyal kell lefedni, vagy az akvárium olyan mértékben tölthető fel vízzel, hogy a vízszint és az akvárium felső pereme közti távolság alkalmas legyen a hal kiugrásának megakadályozására.
+(11)[^36] Az akváriumot, amelyben halat tartanak, üveglappal, hálóval vagy más arra alkalmas tárggyal kell lefedni, vagy az akvárium olyan mértékben tölthető fel vízzel, hogy a vízszint és az akvárium felső pereme közti távolság alkalmas legyen a hal kiugrásának megakadályozására.
 
-(12)[^36] Patás állat és eb kivételével kedvtelésből tartott állatot kikötni tilos. Patás állatot és ebet állandó jelleggel, hat hónaposnál fiatalabb ebet tartósan kikötve tartani tilos.
+(12)[^37] Patás állat és eb kivételével kedvtelésből tartott állatot kikötni tilos. Patás állatot állandó jelleggel, ebet tartósan kikötve tartani tilos.
 
-(13) Az ebek kikötéséhez, illetve vezetéséhez használt eszközöknek az állatra történő rögzítésére kizárólag nyakörv vagy hám használható oly módon, hogy az az állat egészségét ne veszélyeztesse.
+(13)[^38] Az ebek vezetéséhez használt eszközöknek az állatra történő rögzítésére kizárólag nyakörv vagy hám használható oly módon, hogy az az állat egészségét ne veszélyeztesse.
 
-(14)[^37] Az (5) bekezdés a) pontjában, valamint a (6) bekezdésben foglalt rendelkezés nem terjed ki az állatmenhelyekre, valamint a hatósági megfigyelés alá vont ebek tartására.
+(14)[^39] Az (5) bekezdés a) pontjában, valamint a (6) bekezdésben foglalt rendelkezés nem terjed ki az állatmenhelyekre, valamint a hatósági megfigyelés alá vont ebek tartására.
 
-(15)[^38] Az eb, macska és görény kölyköket nyolchetes korukig anyjukkal kell tartani.
+(15)[^40] Az eb, macska és görény kölyköket nyolchetes korukig anyjukkal kell tartani.
 
-(16)[^39] Hím sziámi harcoshalakat úgy kell tartani, hogy azok egymást, illetve tükörképüket ne láthassák.
+(16)[^41] Hím sziámi harcoshalakat úgy kell tartani, hogy azok egymást, illetve tükörképüket ne láthassák.
 
 [^26]: A 13. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
 [^27]: A 14. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
 [^28]: A 14. § (3) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
 [^29]: A 14. § (5) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
-[^30]: A 14. § (6) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (4) bekezdése szerint módosított szöveg.
-[^31]: A 14. § (7) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
-[^32]: A 14. § (8) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (6) bekezdése szerint módosított szöveg.
-[^33]: A 14. § (9) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (7) bekezdése szerint módosított szöveg.
-[^34]: A 14. § (10) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (8) bekezdése szerint módosított szöveg.
-[^35]: A 14. § (11) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (7) bekezdése szerint módosított szöveg.
-[^36]: A 14. § (12) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (9) bekezdése szerint módosított szöveg.
-[^37]: A 14. § (14) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (12) bekezdése szerint módosított szöveg.
-[^38]: A 14. § (15) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (8) bekezdése iktatta be.
-[^39]: A 14. § (16) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (8) bekezdése iktatta be.
+[^30]: A 14. § (5) bekezdés b) pontját a 115/2012. (VI. 11.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^31]: A 14. § (6) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^32]: A 14. § (7) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^33]: A 14. § (8) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (6) bekezdése szerint módosított szöveg.
+[^34]: A 14. § (9) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (7) bekezdése szerint módosított szöveg.
+[^35]: A 14. § (10) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (8) bekezdése szerint módosított szöveg.
+[^36]: A 14. § (11) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (7) bekezdése szerint módosított szöveg.
+[^37]: A 14. § (12) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (9) és (10) bekezdése szerint módosított szöveg.
+[^38]: A 14. § (13) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (11) bekezdése szerint módosított szöveg.
+[^39]: A 14. § (14) bekezdése a 115/2012. (VI. 11.) Korm. rendelet 10. § (12) bekezdése szerint módosított szöveg.
+[^40]: A 14. § (15) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (8) bekezdése iktatta be.
+[^41]: A 14. § (16) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (8) bekezdése iktatta be.
