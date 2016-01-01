@@ -28,7 +28,8 @@ lehet belépni.
 
 (6) A repülőtér védelmi programjában ki kell jelölni a belépés során ellenőrzést végző szervezetet, szabályozni kell a személyazonosság ellenőrzését, a személy, csomag és gépjármű átvizsgálását. A tevékenységet részletesen leíró technológiai utasításokat a védelmi program tartalmazza.
 
-(7) A védelmi háttérellenőrzés határideje 30 nap, amely egy alkalommal 30 nappal meghosszabbítható.
+(7)[^90]
 
 [^88]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított, a 389/2014. (XII. 31.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
 [^89]: A 23. § a 389/2014. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^90]: A 23. § (7) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 133. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

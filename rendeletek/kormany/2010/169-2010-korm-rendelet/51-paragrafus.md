@@ -1,3 +1,3 @@
-51. §[^139]
+51. §[^140]
 
-[^139]: A 47–51. §-t az 53. § (1) bekezdése hatályon kívül helyezte.
+[^140]: A 47–51. §-t az 53. § (1) bekezdése hatályon kívül helyezte.
