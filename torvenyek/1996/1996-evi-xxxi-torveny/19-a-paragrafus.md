@@ -1,0 +1,1 @@
+19/A. § A jogszabályban meghatározott lakó- és üdülőegységre vonatkozó tűzvédelmi előírásokat, a riasztás, a menekülés lehetséges módozatait, a tűzvédelmi eszközök használatára vonatkozó előírásokat az épületre vonatkozó tűzvédelmi használati szabályok tartalmazzák.

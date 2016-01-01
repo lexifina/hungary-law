@@ -14,7 +14,9 @@ b) a tűzoltó, az önkéntes tűzoltó egyesület tagja arcfényképe,
 
 c) a tűzoltó, az önkéntes tűzoltó egyesület tagja neve,
 
-d) az igazolvány érvényességi ideje.
+d) az igazolvány érvényességi ideje,
+
+e) beavatkozó önkéntes tűzoltó egyesületi tag esetén a „beavatkozó önkéntes tűzoltó” megnevezés.
 
 (6) Az (5) bekezdésében meghatározott igazolványt a hivatásos katasztrófavédelmi szerv központi szerve a (7) bekezdés alapján vezetett nyilvántartás alapján állítja ki. Az igazolványt a hivatásos katasztrófavédelmi szerv központi szerve az érvényességi idő lejártakor visszavonja vagy megújítja.
 

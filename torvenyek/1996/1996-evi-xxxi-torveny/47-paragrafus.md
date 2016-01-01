@@ -24,7 +24,7 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 1. az Országos Tűzvédelmi Szabályzatot,
 
-2. a tűzvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+2. a tűzvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító bejelentés rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
 3. a tűzesetek vizsgálatára vonatkozó szabályokat,
 
@@ -34,7 +34,9 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 6. a központi költségvetési előirányzat terhére igényelhető beruházási, fejlesztési támogatás pályázati rendszerét,
 
-7–8.
+7. a beépített tűzjelző berendezés vagy beépített tűzoltó berendezés létesítéséhez, átalakításához, bővítéséhez, használatbavételéhez és megszüntetéséhez szükséges engedély iránti kérelem tartalmát, a létesítési kötelezettség eseteit, valamint az engedélyezés feltételeit,
+
+8.
 
 9. azon technikai eszközök körét, amelyek beszerzését a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium szervezésében vagy útján lehet igényelni és a beszerzés pályázati feltételeit,
 
@@ -42,7 +44,7 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 11. a tűzoltóság tűzoltási és műszaki mentési tevékenységének általános szabályait, a TMMT készítésével érintett létesítmények kiválasztására vonatkozó szabályokat, a TMMT tartalmi követelményeit.
 
-12. a tűzvédelmi szabályzat általános elveit,
+12. a tűzvédelmi szabályzat általános elveit, a tűzvédelmi használati szabályok tartalmi követelményeit és a tűzvédelmi használati szabályok készítésére kötelezettek körét, annak eseteit,
 
 13. a tűzoltósági célokat szolgáló ingatlanok, tűzvédelmi berendezések, tűzoltó szakfelszerelések rendeltetéstől eltérő használatának szabályait,
 

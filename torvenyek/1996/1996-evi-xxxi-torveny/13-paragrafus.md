@@ -1,14 +1,18 @@
-13. § (1) Építési terméket forgalomba hozni, forgalmazni akkor lehet, ha az a 305/2011/EU rendelet szerint forgalomba hozható. Beépítéskor az építési termék teljesítményét az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló jogszabályban meghatározott módon igazolni kell.
+13. § (1) Olyan építési termék hozható forgalomba – az egyedi, hagyományos, természetes, bontott vagy műemléki felhasználású építési termék kivételével –, amely rendelkezik az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló jogszabályban meghatározott, beépítéshez szükséges iratokkal.
 
 (2) Tűzoltó-technikai terméket forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha
 
 a) az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja,
 
-b) annak megfelelőségét a termékre vonatkozó tűzvédelmi, biztonságossági követelményben meghatározott módon, annak hiányában a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő vizsgálaton alapuló megfelelőségi nyilatkozatával igazolják, vagy
+b) annak megfelelősége a termékre vonatkozó tűzvédelmi, biztonságossági követelményben meghatározott módon, annak hiányában a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő vizsgálaton alapuló megfelelőségi nyilatkozatával igazolt, vagy
 
 c) tűzvédelmi, biztonságossági követelmény hiányában, vagy amennyiben a tűzvédelmi megfelelőségi tanúsítvány beszerzése nem lehetséges, a termék a tűzvédelmi hatóság vizsgálaton alapuló hatósági engedélyével rendelkezik.
 
-(3) Tűz- vagy robbanásveszélyes készüléket, gépet, berendezést forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja.
+(3) Tűz- vagy robbanásveszélyes készüléket, gépet, berendezést forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha
+
+a) az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja, vagy
+
+b) annak megfelelősége a termékre vonatkozó tűzvédelmi, biztonságossági követelményben meghatározott módon, annak hiányában a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő vizsgálaton alapuló megfelelőségi nyilatkozatával igazolt.
 
 (4) A 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezet műszaki előírásban meghatározott tűzvédelmi követelményeknek való megfelelőségét, az alábbi módok valamelyike szerint kell igazolni:
 

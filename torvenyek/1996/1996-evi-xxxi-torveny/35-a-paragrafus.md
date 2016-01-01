@@ -1,0 +1,1 @@
+35/A. § A hivatásos katasztrófavédelmi szerv a Magyar Honvédség tűzoltó szervezetei felett a létesítményi tűzoltóságra vonatkozóan e törvényben meghatározott irányítási és ellenőrzési jogkört nem gyakorolja.

@@ -2,7 +2,7 @@
 
 a) a természetes személyazonosító adatokat,
 
-b) az engedély azonosító számát,
+b) a bejelentés azonosító számát,
 
 c) az elérhetőségi címet (postacím, telefon, telefaxszám, e-mail).
 

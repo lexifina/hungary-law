@@ -20,4 +20,6 @@ h) a hivatásos katasztrófavédelmi szerv területi szerve útján ellenőrzi a
 
 i) meghatározza a tűzoltóság tűzoltási és műszaki mentési tevékenységének részletes szabályait, a hivatásos tűzoltóságok működési területét, a hivatásos tűzoltóságok készenlétben tartandó legkisebb gépjármű és technikai eszközállományát és műszaki megfelelőségük ellenőrzésének rendjét, a hivatásos tűzoltóságok létszámát és azokat a feltételeket, amelyek teljesítése esetén a beavatkozó önkéntes tűzoltó egyesület részére az önállóan végezhető tűzoltási, műszaki mentési feladatok végzésére megállapodás köthető,
 
-j) jóváhagyja a beavatkozó önkéntes tűzoltó egyesülettel az önálló tűzoltási és műszaki mentési tevékenység tárgyában kötött megállapodást.
+j) jóváhagyja a beavatkozó önkéntes tűzoltó egyesülettel az önálló tűzoltási és műszaki mentési tevékenység tárgyában kötött megállapodást,
+
+k) meghatározza a tűzoltó szolgálat tűzoltási, műszaki mentési tevékenysége végrehajtásának módjára vonatkozó szakmai szabályokat és a hivatásos katasztrófavédelmi szervvel való együttműködés rendjét.

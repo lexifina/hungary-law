@@ -4,7 +4,7 @@
 
 a) tűzoltó készülékek karbantartásával kapcsolatos,
 
-b) a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzoltó technika felülvizsgálatával, javításával összefüggő,
+b) a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technika felülvizsgálatával, javításával összefüggő,
 
 c) tűzvédelmi szakvizsgával összefüggő oktatásszervezési,
 

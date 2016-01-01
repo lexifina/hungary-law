@@ -4,22 +4,10 @@
 
 (3) A tűzvédelmi tervezői jogosultság a tűzvédelmi tervezői névjegyzéket vezető szerv engedélyével gyakorolható. A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja. A tűzvédelmi tervezői névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
 
-(4) A tűzvédelmi tervezői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a tűzvédelmi tervezői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
+(4)
 
 (5) A felelős műszaki vezető – annak hiányában a kivitelező – köteles a jogerős építési engedélyben, a tűzvédelmi dokumentációban és a műszaki előírásokban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
 
 (6) A felelős műszaki vezetőnek – annak hiányában a kivitelezőnek – az építőipari kivitelezési tevékenységek befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 
-(7) Hatósági ellenőrzés esetén a büntetlen előélet követelményének való megfelelést a tervező igazolja.
-
-(8) Az egy naptári éven belül elvégzett több hatósági ellenőrzés esetén az első hatósági ellenőrzés alkalmával a (4) bekezdésben meghatározott hatósági bizonyítvány költségét a tervező, a második és a további hatósági ellenőrzés esetén a névjegyzéket vezető szerv viseli.
-
-(9) A (4) bekezdés alapján megismert személyes adatokat a névjegyzéket vezető szerv
-
-a) a tűzvédelmi tervezői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-
-b) hatósági ellenőrzés esetén annak időtartama alatt,
-
-c) a tűzvédelmi tervezői nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
+(7)–(9)
