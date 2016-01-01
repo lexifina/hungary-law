@@ -1,3 +1,0 @@
-23. § (1) A MAB az Oktatási Hivatal részére – tudományos és ehhez kapcsolódó oktatási, kutatási kérdések tekintetében – szakvéleményt készít a felsőoktatási intézmény alapító okiratában szereplő adatok változásaival kapcsolatos eljárásában. A szakvélemény elkészítésének határideje harminc nap, amelyet az Oktatási Hivatal harminc nappal meghosszabbíthat.
-
-(2) A MAB az Oktatási Hivatal részére szakvéleményt készít a külföldi felsőoktatási intézmény magyarországi működésének engedélyezésével kapcsolatban. A szakvélemény elkészítésének határideje kilencven nap, amelyet az Oktatási Hivatal hatvan nappal meghosszabbíthat.
