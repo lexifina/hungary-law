@@ -112,11 +112,13 @@ ho) 14. § (14) és (16) bekezdése,
 
 i)[^46]
 
-j)[^47] a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény 5. § (1a) bekezdése
+j)[^47] a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény 5. § (1a) bekezdése,
+
+k)[^48] az egészségügyi alapellátásról szóló 2015. évi CXXIII. évi törvény 14. §-a
 
 ## szerinti feladatok ellátására.
 
-(5)[^48] A Kormány egészségügyi államigazgatási szervként a kormányhivatalt jelöli ki
+(5)[^49] A Kormány egészségügyi államigazgatási szervként a kormányhivatalt jelöli ki
 
 a) az atomenergiáról szóló 1996. évi CXVI. törvény
 
@@ -124,13 +126,13 @@ aa) 45. § (1) bekezdése,
 
 ab) 47. § (1) bekezdése,
 
-b)[^49] az Eüak. 15. § (1)–(3a) és (8a) bekezdése,
+b)[^50] az Eüak. 15. § (1)–(3a) és (8a) bekezdése,
 
-c)[^50]
+c)[^51]
 
-d)[^51] a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 25. § (4) bekezdés f) pontja,
+d)[^52] a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 25. § (4) bekezdés f) pontja,
 
-e)[^52] a gyógyszertárakra vonatkozó eljárásokat kivéve az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 20. § (1), (4), (5) és (7) bekezdése,
+e)[^53] a gyógyszertárakra vonatkozó eljárásokat kivéve az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 20. § (1), (4), (5) és (7) bekezdése,
 
 f) az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény (a továbbiakban: Eü.kamara tv.)
 
@@ -140,23 +142,23 @@ fb) 31. § (2) bekezdése,
 
 fc) 35. § (2) bekezdése,
 
-g)[^53] az (5a) bekezdésben meghatározott kivétellel a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 2. § (9) bekezdése és 7. § (9) bekezdése,
+g)[^54] az (5a) bekezdésben meghatározott kivétellel a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 2. § (9) bekezdése és 7. § (9) bekezdése,
 
 h) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 23. §-ának (1) bekezdése,
 
-i)[^54]
+i)[^55]
 
 j) a Kbtv. 33. § (3) bekezdése
 
-k)[^55] a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 79. § (2) bekezdése,
+k)[^56] a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 79. § (2) bekezdése,
 
-l)[^56] az egészségügyi államigazgatási feladatok tekintetében az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 2. §-a
+l)[^57] az egészségügyi államigazgatási feladatok tekintetében az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 2. §-a
 
 ## szerinti feladatok ellátására.
 
-(5a)[^57] A Kormány egészségügyi államigazgatási szervként a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlóját jelöli ki a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 2. § (9) bekezdése és 7. §-a szerinti feladatok ellátására.
+(5a)[^58] A Kormány egészségügyi államigazgatási szervként a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlóját jelöli ki a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 2. § (9) bekezdése és 7. §-a szerinti feladatok ellátására.
 
-(5b)[^58] A Kormány egészségügyi államigazgatási szervként a kormányhivatalt jelöli ki
+(5b)[^59] A Kormány egészségügyi államigazgatási szervként a kormányhivatalt jelöli ki
 
 a) az Eütv. 228. § (4) bekezdése,
 
@@ -166,7 +168,7 @@ c) az Eütv. 232/B. § (2) bekezdése
 
 ## szerinti feladatok ellátására.
 
-(6)[^59] A Kormány egészségügyi államigazgatási szervként az OTH-t és a kormányhivatalt jelöli ki
+(6)[^60] A Kormány egészségügyi államigazgatási szervként az OTH-t és a kormányhivatalt jelöli ki
 
 a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 43. § (1) bekezdés g) pontja,
 
@@ -176,13 +178,13 @@ c) az Ebtv. 10. § (4) bekezdése,
 
 d) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése,
 
-e)[^60] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
+e)[^61] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
 
 ## szerinti feladatok ellátására.
 
-(7)[^61] A Kormány egészségügyi államigazgatási szervként az OTH-t, a kormányhivatalt és a járási hivatalt jelöli ki
+(7)[^62] A Kormány egészségügyi államigazgatási szervként az OTH-t, a kormányhivatalt és a járási hivatalt jelöli ki
 
-a)[^62] az Eüak.
+a)[^63] az Eüak.
 
 aa) 5. § (3) bekezdése,
 
@@ -198,7 +200,7 @@ cb) 24. § e) és f) pontja
 
 ## szerinti feladatok ellátására.
 
-(8)[^63] A Kormány egészségügyi államigazgatási szervként az OTH-t és a járási hivatalt jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (1) bekezdés p) pontja szerinti feladatok ellátására.
+(8)[^64] A Kormány egészségügyi államigazgatási szervként az OTH-t és a járási hivatalt jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (1) bekezdés p) pontja szerinti feladatok ellátására.
 
 [^28]: A 12. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c) pontja szerint módosított szöveg.
 [^29]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c) pontja szerint módosított szöveg.
@@ -220,19 +222,20 @@ cb) 24. § e) és f) pontja
 [^45]: A 12. § (4) bekezdés h) pontját a 137/2012. (VI. 29.) Korm. rendelet 64. § (1) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 76. § (4) bekezdésével megállapított szöveg.
 [^46]: A 12. § (4) bekezdés i) pontját a 447/2012. (XII. 29.) Korm. rendelet 60. § (2) bekezdése iktatta be, hatályon kívül helyezte a 30/2015. (II. 25.) Korm. rendelet 56. § b) pontja.
 [^47]: A 12. § (4) bekezdés j) pontját a 125/2013. (IV. 26.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^48]: A 12. § (5) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés d) pontja szerint módosított szöveg.
-[^49]: A 12. § (5) bekezdés b) pontja a 192/2015. (VII. 21.) Korm. rendelet 47. § (4) bekezdésével megállapított szöveg.
-[^50]: A 12. § (5) bekezdés c) pontját a 192/2015. (VII. 21.) Korm. rendelet 50. § b) pontja hatályon kívül helyezte.
-[^51]: A 12. § (5) bekezdés d) pontja a 169/2014. (VII. 18.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^52]: A 12. § (5) bekezdés e) pontja a 447/2012. (XII. 29.) Korm. rendelet 60. § (3) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 55. § a) pontja szerint módosított szöveg.
-[^53]: A 12. § (5) bekezdés g) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § c) pontja hatályon kívül helyezte, újonnan a 92/2012. (IV. 27.) Korm. rendelet 31. §-a iktatta be, szövege a 39/2013. (II. 14.) Korm. rendelet 24. § (1) bekezdése, a 169/2014. (VII. 18.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^54]: A 12. § (5) bekezdés i) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § d) pontja hatályon kívül helyezte.
-[^55]: A 12. § (5) bekezdés k) pontját a 325/2011. (XII. 28.) Korm. rendelet 80. § (5) bekezdése iktatta be.
-[^56]: A 12. § (5) bekezdés l) pontját a 292/2013. (VII. 26.) Korm. rendelet 17. §-a iktatta be.
-[^57]: A 12. § (5a) bekezdését a 169/2014. (VII. 18.) Korm. rendelet 7. §-a iktatta be.
-[^58]: A 12. § (5b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 164. § (8) bekezdése iktatta be.
-[^59]: A 12. § (6) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés d) pontja szerint módosított szöveg.
-[^60]: A 12. § (6) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § e) pontja hatályon kívül helyezte, újonnan a 136/2013. (V. 10.) Korm. erndelet 2. § (2) bekezdése iktatta be.
-[^61]: A 12. § (7) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 80. § (6) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c)–d) pontja szerint módosított szöveg.
-[^62]: A 12. § (7) bekezdés a) pontja a 192/2015. (VII. 21.) Korm. rendelet 47. § (5) bekezdésével megállapított szöveg.
-[^63]: A 12. § (8) bekezdését a 22/2013. (II. 1.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c) pontja szerint módosított szöveg.
+[^48]: A 12. § (4) bekezdés k) pontját a 413/2015. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
+[^49]: A 12. § (5) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés d) pontja szerint módosított szöveg.
+[^50]: A 12. § (5) bekezdés b) pontja a 192/2015. (VII. 21.) Korm. rendelet 47. § (4) bekezdésével megállapított szöveg.
+[^51]: A 12. § (5) bekezdés c) pontját a 192/2015. (VII. 21.) Korm. rendelet 50. § b) pontja hatályon kívül helyezte.
+[^52]: A 12. § (5) bekezdés d) pontja a 169/2014. (VII. 18.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^53]: A 12. § (5) bekezdés e) pontja a 447/2012. (XII. 29.) Korm. rendelet 60. § (3) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 55. § a) pontja szerint módosított szöveg.
+[^54]: A 12. § (5) bekezdés g) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § c) pontja hatályon kívül helyezte, újonnan a 92/2012. (IV. 27.) Korm. rendelet 31. §-a iktatta be, szövege a 39/2013. (II. 14.) Korm. rendelet 24. § (1) bekezdése, a 169/2014. (VII. 18.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^55]: A 12. § (5) bekezdés i) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § d) pontja hatályon kívül helyezte.
+[^56]: A 12. § (5) bekezdés k) pontját a 325/2011. (XII. 28.) Korm. rendelet 80. § (5) bekezdése iktatta be.
+[^57]: A 12. § (5) bekezdés l) pontját a 292/2013. (VII. 26.) Korm. rendelet 17. §-a iktatta be.
+[^58]: A 12. § (5a) bekezdését a 169/2014. (VII. 18.) Korm. rendelet 7. §-a iktatta be.
+[^59]: A 12. § (5b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 164. § (8) bekezdése iktatta be.
+[^60]: A 12. § (6) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés d) pontja szerint módosított szöveg.
+[^61]: A 12. § (6) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § e) pontja hatályon kívül helyezte, újonnan a 136/2013. (V. 10.) Korm. erndelet 2. § (2) bekezdése iktatta be.
+[^62]: A 12. § (7) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 80. § (6) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c)–d) pontja szerint módosított szöveg.
+[^63]: A 12. § (7) bekezdés a) pontja a 192/2015. (VII. 21.) Korm. rendelet 47. § (5) bekezdésével megállapított szöveg.
+[^64]: A 12. § (8) bekezdését a 22/2013. (II. 1.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés c) pontja szerint módosított szöveg.
