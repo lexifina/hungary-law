@@ -8,6 +8,9 @@ b) az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos ne
 
 megindítja a horizontális kijelölési eljárást.
 
-(2) Az (1) bekezdés a) pontja szerinti esetben az ágazati kijelölő hatóság beszerzi a szakhatóság állásfoglalását a Vhr. 1. mellékletében meghatározott horizontális kritériumok teljesüléséről. A szakhatósági eljárás ügyintézési ideje 30 nap. A szakhatóság az azonosítás során készült iratok közül csak az összefoglaló táblázatot tekintheti meg, másolatot vagy felvételt arról nem készíthet.
+(2)[^2] Az (1) bekezdés a) pontja szerinti esetben az ágazati kijelölő hatóság beszerzi a szakhatóság állásfoglalását a Vhr. 1. mellékletében meghatározott horizontális kritériumok teljesüléséről. A szakhatóság az azonosítás során készült iratok közül csak az összefoglaló táblázatot tekintheti meg, másolatot vagy felvételt arról nem készíthet.
 
-(3) Ha a szakhatóság állásfoglalása alapján egy rendszerelem lehetséges európai létfontosságú rendszerelem, és az (1) bekezdés b) pontja szerinti nemzetközi szerződésről az ágazati kijelölő hatóságnak nincs hivatalos tudomása, az ágazati kijelölő hatóság a nemzetközi szerződés megkötését megelőzően a közigazgatási hatósági eljárás általános szabályairól szóló törvény eljárás felfüggesztésére vonatkozó rendelkezései szerint jár el, és ennek tényét jelzi a katasztrófák elleni védekezésért felelős miniszternek.
+(3)[^3] Ha a szakhatóság állásfoglalása alapján egy rendszerelem lehetséges európai létfontosságú rendszerelem, és az (1) bekezdés b) pontja szerinti nemzetközi szerződésről az ágazati kijelölő hatóságnak nincs hivatalos tudomása, az ágazati kijelölő hatóság a nemzetközi szerződés megkötését megelőzően ennek tényét jelzi a katasztrófák elleni védekezésért felelős miniszternek.
+
+[^2]: A 14. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 206. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^3]: A 14. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 206. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
