@@ -2,7 +2,7 @@
 
 a) a kapcsolati kódot;
 
-b) a belső azonosító kódot;
+b)
 
 c) a büntetőeljárás alapjául szolgáló bűncselekmény megalapozott gyanú szerinti
 
@@ -26,4 +26,4 @@ j) a büntetőügyek egyesítésének, elkülönítésének, áttételének tén
 
 k) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
 
-l) a szakrendszeri azonosító kódot.
+l)

@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában
 
-a) belső azonosító kód: a szakértői nyilvántartó szerv által képzett olyan alfanumerikus azonosító, amelynek célja a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatok hozzárendelése a bűntettesek nyilvántartásában, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában vagy a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatokhoz;
+a) belső azonosító kód: az e törvény alapján rögzített ujj- és tenyérnyomat, valamint DNS-profil meghatározására alkalmas anyaghoz hozzárendelt alfanumerikus azonosító, amelynek célja, hogy tájékoztatást nyújtson arról, hogy a minta levétele megtörtént;
 
 b) bűnügyi nyilvántartó szerv: a bűnügyi nyilvántartási rendszer, valamint az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásának vezetéséért felelős, a Kormány által kijelölt központi közigazgatási szerv;
 

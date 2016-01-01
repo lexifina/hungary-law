@@ -32,12 +32,16 @@ ai) lakcímét, továbbá annak megváltozása esetén előző lakcímét (a tov
 
 b) az érintett arcképmását, ha a nyilvántartásba vétel e törvényben meghatározott feltételei fennállnak,
 
-c) a kapcsolati kódot, valamint
+c) a kapcsolati kódot,
 
-d) a halál tényét és időpontját.
+d) a halál tényét és időpontját,
+
+e) a belső azonosító kódot,
+
+f) a szakrendszeri azonosító kódot, valamint
+
+g) azt a tényt, hogy a DNS-profil-nyilvántartásban szerepel-e az érintetthez tartozó kettő darab, a jogszabályban meghatározott feltételeknek megfelelő DNS-profil.
 
 (3) A bűnügyi nyilvántartó szerv a (2) bekezdés a) és b) pontjában meghatározott adatok nyilvántartásba vételével egyidejűleg kapcsolati kódot képez.
 
-(4) Ha a szakértői nyilvántartó szerv belső azonosító kódot küld a bűnügyi nyilvántartó szervnek, az a kapcsolati kódról haladéktalanul tájékoztatja a szakértői nyilvántartó szervet.
-
-(5) A bűnügyi nyilvántartó szerv a személyazonosító adatok és fényképek nyilvántartásában szereplő adatokat addig kezeli, amíg az érintett adatai a bűnügyi nyilvántartásokban vagy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szerepelnek.
+(4)–(5)

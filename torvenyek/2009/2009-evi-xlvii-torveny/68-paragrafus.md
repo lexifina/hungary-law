@@ -18,7 +18,7 @@ g) a szervezett bűnözés elleni koordinációs központ az utasadatok kockáza
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 
-a) közbiztonság-védelmi feladatai ellátása során a kábítószerre, a pszichotróp anyagra, a kábítószer prekurzorra, a polgári felhasználású robbanóanyagra, a pirotechnikai termékre vonatkozó hatósági jogkörben, valamint a fegyver, a lőszer, a haditechnikai termék, továbbá a polgári rendeltetésű lőtér, a lőfegyver- és lőszertároló hely üzemeltetéséhez, gyártásához és a kapcsolódó szolgáltatások közbiztonsági feltételeinek ellenőrzéséhez
+a) közbiztonság-védelmi feladatai ellátása során a kábítószerre, a pszichotróp anyagra, a kábítószer-prekurzorra, a polgári felhasználású robbanóanyagra, a polgári célú pirotechnikai termék engedélyezéséhez, valamint a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 3. § (1) bekezdése szerinti hatósági jogkörben, továbbá a haditechnikai termék, gyártásához és a kapcsolódó szolgáltatások közbiztonsági feltételeinek ellenőrzéséhez
 
 aa) a 11. § (1) bekezdés c), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
@@ -34,7 +34,7 @@ bb) a 16. § (1) bekezdés c), f), i) pontjában, a 16. § (2) bekezdés k) pont
 
 c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során a kényszerintézkedések végrehajtása ellenőrzése céljából a 23. § c) és h) pontjában meghatározott adatok;
 
-d) a vagyonvédelmi rendszert tervező és szerelő tevékenység, valamint a magánnyomozói tevékenység ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
+d) a vagyonvédelmi rendszert tervező és szerelő tevékenység, valamint a magánnyomozói tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
 
 da) a 11. § (1) bekezdés ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
@@ -42,7 +42,7 @@ db) a 16. § (1) bekezdés ca), cb), cf) alpontjában, f), g), i), k) pontjában
 
 dc) a 23. § c), f) és g) pontjában meghatározott adatok;
 
-e) a rendészeti feladatokat ellátó személyek és a személy- és vagyonvédelmi tevékenység ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
+e) a rendészeti feladatokat ellátó személyek és a személy- és vagyonvédelmi tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
 
 ea) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok, valamint
 
@@ -142,9 +142,25 @@ c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdé
 
 (8) A büntetés-végrehajtási intézet közvetlen hozzáféréssel jogosult
 
-a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés a) és b) pontjában foglalt adatot átvenni, valamint
+a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés a) és b) pontjában foglalt adatot átvenni,
 
-b) a büntetőügy iktatószámának és a jogerős bírói határozat számának megadásával, a 11. § (1) bekezdés b) és m) pontjában vagy a 16. § (1) bekezdés b) és m) pontjában meghatározott adatokat átvenni annak igazolása céljából, hogy az elítélt ujj- és tenyérnyomatát vagy DNS-profilját az elítélés alapjául szolgáló büntetőeljárás során nyilvántartásba vették.
+b) a DNS-profil nyilvántartásba vételével kapcsolatos mintavételi kötelezettség fennállásának ellenőrzése céljából a 4. § (2) bekezdés e)–g) pontjában foglalt adatot átvenni, valamint
+
+c) a büntetés-végrehajtási pártfogó felügyelő által a pártfogó felügyelet végrehajtása céljából közvetlen hozzáféréssel átvenni a pártfogó felügyelet hatálya alatt álló személy következő adatait:
+
+ca) a 11. § (1) bekezdés c)–l) pontjában és (2) bekezdésében meghatározott adatok,
+
+cb) ha az érintett személlyel szemben kényszergyógykezelést rendeltek el, a 16. § (1) bekezdés c)–l) pontjában és (2) bekezdés m) pontjában meghatározott adatok,
+
+cc) ha az érintett személlyel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet vagy ideiglenes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
+
+(8a) A pártfogó felügyelői szolgálat a közérdekű munka és a pártfogó felügyelet végrehajtása céljából jogosult közvetlen hozzáféréssel átvenni a közérdekű munka, illetve pártfogó felügyelet hatálya alatt álló személy következő adatait:
+
+a) a 11. § (1) bekezdés c)–l) pontjában és (2) bekezdésében meghatározott adatok,
+
+b) ha az érintett személlyel szemben kényszergyógykezelést rendeltek el, a 16. § (1) bekezdés c)–l) pontjában és (2) bekezdés m) pontjában meghatározott adatok,
+
+c) ha az érintett személlyel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet vagy ideiglenes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
 
 (9) Az útlevélhatóság a külföldre utazás jogát korlátozó feltételek fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 

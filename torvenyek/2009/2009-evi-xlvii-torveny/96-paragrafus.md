@@ -12,13 +12,15 @@ b) kijelölje a szakértői nyilvántartó szervet, valamint a büntetőeljárá
 
 c) állapítsa meg a 86/A–86/D. §-ban meghatározott adattovábbítási eljárások során alkalmazott formanyomtatványokat.
 
+(1a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az arcképmás, az ujj- és tenyérnyomat, valamint a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, illetve az ujj- és tenyérnyomat és a szájnyálkahártya-törlet levételének részletes technikai szabályait; a DNS-profil meghatározásának szakmai-módszertani követelményeit; továbbá a nyilvántartás technikai vezetésének részletes szabályait rendeletben állapítsa meg.
+
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 a) a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályait,
 
 b) a bűnügyi és rendészeti biometrikus adatok nyilvántartása részére történő adatközlés és az e nyilvántartások által teljesített adatszolgáltatás rendjét,
 
-c) az arcképmás, az ujj- és tenyérnyomat, a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, továbbá az ujj- és tenyérnyomat, valamint szájnyálkahártya-törlet levételének részletes technikai szabályait, továbbá a DNS-profil meghatározásának szakmai-módszertani követelményeit
+c)
 
 rendeletben állapítsa meg.
 
@@ -28,4 +30,4 @@ a) a bűnügyi nyilvántartásokban kezelt adatok igazolására kiállított hat
 
 b) a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás rendjét.
 
-(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének szabályait rendeletben állapítsa meg.
+(4)

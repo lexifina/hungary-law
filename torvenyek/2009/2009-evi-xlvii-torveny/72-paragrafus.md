@@ -16,4 +16,4 @@ e) ha a kérelmező a 71. § (3) bekezdés a) pontjában meghatározott tény ig
 
 f) ha a kérelmező a hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet papír alapon nyújtja be, a kérelmező saját kezű aláírását, valamint
 
-g) az igazgatási szolgáltatási díj megfizetésének igazolását.
+g)

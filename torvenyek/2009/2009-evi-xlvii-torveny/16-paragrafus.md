@@ -2,7 +2,7 @@
 
 a) a kapcsolati kódot;
 
-b) a belső azonosító kódot;
+b)
 
 c) a jogerős ítéletben a bíróság által megállapított
 
@@ -48,7 +48,7 @@ k) a mentesítés, a nyilvántartásba felvétel időpontját, valamint a nyilv�
 
 l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
 
-m) a szakrendszeri azonosító kódot.
+m)
 
 (2) A büntetés-végrehajtási adatok közül a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza
 

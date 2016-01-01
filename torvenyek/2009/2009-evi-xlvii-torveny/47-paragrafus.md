@@ -1,3 +1,3 @@
-47. § (1) A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásába felvett adatokat a 25. §-ban meghatározott időpontig kell nyilvántartani.
+47. § (1) A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásába felvett adatokat – függetlenül attól, hogy mely büntetőügyben vették le az ezekhez tartozó mintát – addig kell nyilvántartani, amíg az érintettről a bűnügyi nyilvántartó szerv a büntetőeljárás hatálya alatt állók nyilvántartásában olyan bűncselekménnyel kapcsolatban kezel adatot, amely esetében fennállnak az ujj- és tenyérnyomat nyilvántartásba vételének és a daktiloszkópiai nyilvántartásban történő nyilvántartásának a feltételei.
 
 (2) Az (1) bekezdésben meghatározott időpontot a bűnügyi nyilvántartó szerv közli a szakértői nyilvántartó szervvel.

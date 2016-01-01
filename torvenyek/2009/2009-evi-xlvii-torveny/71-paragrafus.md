@@ -2,7 +2,9 @@
 
 71. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerben kezelt adatok alapján, jogviszony létesítésére, fenntartására vagy egyéb, törvényben meghatározott feltételnek való megfelelés igazolására az igazolás alanyának (a továbbiakban: kérelmező) kérelmére hatósági bizonyítványt (a továbbiakban: hatósági erkölcsi bizonyítvány) állít ki.
 
-(2) Ha törvény lehetővé teszi, hogy a kérelmező valamely eljárásban az eljáró szerv adatigénylését kezdeményezve igazoljon valamely, a bűnügyi nyilvántartási rendszerben kezelt adatok alapján megállapítható, törvényben meghatározott tényt, az eljáró szerv adatigénylésére a bűnügyi nyilvántartó szerv hatósági erkölcsi bizonyítványt állít ki.
+(2) Ha törvény valamely jogosultság feltételeként a bűnügyi nyilvántartási rendszerben kezelt adatok alapján megállapítható, a (3) bekezdés szerinti tényt határoz meg, a jogosultsághoz szükséges hatósági döntés, hatósági ellenőrzés vagy bejelentés tárgyában hatáskörrel rendelkező közigazgatási hatóság adatigénylésre jogosult. Az adatigénylés alapján a bűnügyi nyilvántartó szerv adattovábbítás útján igazolja az adatigénylés szerinti tényt az adatigénylő hatóság számára. A bűnügyi nyilvántartó szerv által továbbított adatokat az adatigénylő hatóság – törvény eltérő rendelkezése hiányában – az eljárása jogerős befejezéséig, illetve a hatósági ellenőrzés időtartamára kezeli.
+
+(2a) A (3) bekezdés szerinti valamely tényhez mint feltételhez kötött jogosultság gyakorlására irányuló kérelem vagy bejelentés benyújtása a kérelmező vagy bejelentő ahhoz való hozzájárulásának minősül, hogy a jogosultság feltételét képező tényt a jogosultsághoz szükséges hatósági döntés, hatósági ellenőrzés vagy bejelentés tárgyában hatáskörrel rendelkező közigazgatási hatóság megismerje.
 
 (3) A hatósági erkölcsi bizonyítványban igazolható tény, hogy a kérelmező
 
@@ -22,4 +24,4 @@ e) mely foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
 (5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt a kérelmező erre irányuló kérelme esetén a kérelmező által megjelölt belföldi címzett részére kézbesíti.
 
-(6) A hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért igazgatási szolgáltatási díjat kell fizetni.
+(6)

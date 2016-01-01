@@ -1,6 +1,6 @@
 ## Az adatigénylés alapján, valamint a közvetlen hozzáféréssel történő adattovábbítás általános követelményei
 
-69. § (1) A bűnügyi nyilvántartó szerv adatigénylés alapján kizárólag annak az adatigénylőnek és abban a körben továbbíthat adatot a bűnügyi nyilvántartási rendszerből, amely adatigénylő tekintetében törvény
+69. § (1) A bűnügyi nyilvántartó szerv adatigénylés alapján – a 71. § (2) bekezdés szerinti kivétellel – kizárólag annak az adatigénylőnek és abban a körben továbbíthat adatot a bűnügyi nyilvántartási rendszerből, amely adatigénylő tekintetében törvény
 
 a) az adatok átvételét és kezelését az adatkezelés céljának és az átvehető adatok körének pontos meghatározásával, valamint
 

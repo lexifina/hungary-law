@@ -2,7 +2,7 @@
 
 a) a kapcsolati kódot;
 
-b) a belső azonosító kódot;
+b)
 
 c) bűnösséget megállapító jogerős ítéletben a bíróság által megállapított
 
@@ -50,7 +50,7 @@ kg) a törvényi mentesítés várható időpontját;
 
 l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
 
-m) a szakrendszeri azonosító kódot.
+m)
 
 (2) A büntetés-végrehajtási adatok közül a bűntettesek nyilvántartása tartalmazza
 
