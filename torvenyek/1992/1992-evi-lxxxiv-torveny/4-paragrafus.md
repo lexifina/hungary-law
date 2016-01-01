@@ -16,7 +16,7 @@ b)
 
 3.
 
-4. a gyermekgondozási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj után fizetett nyugdíjjárulék,
+4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, az ápolási díj után fizetett nyugdíjjárulék,
 
 5.
 
@@ -28,7 +28,7 @@ c) egyéb járulékok és hozzájárulások, ideértve
 
 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget,
 
-3. a Nemzeti Foglalkoztatási Alap általi megtérítéseket,
+3.
 
 4.
 

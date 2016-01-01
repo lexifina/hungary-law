@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-84-00-00
 | 2015-01-01 | 2014. évi XCIX. törvény | 1992-84-00-00.39 |
 | 2015-04-01 | 2015. évi VI. törvény | 1992-84-00-00.40 |
 | 2015-06-19 | 2015. évi LXXII. törvény | 1992-84-00-00.41 |
+| 2016-01-01 | 2015. évi LXXII. törvény | 1992-84-00-00.42 |

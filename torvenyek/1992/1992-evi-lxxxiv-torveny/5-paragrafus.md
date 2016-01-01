@@ -4,7 +4,7 @@
 
 a)
 
-b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, terhességi-gyermekágyi segélyt a táppénzt, a betegséggel kapcsolatos egyéb segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, továbbá a rokkantsági és rehabilitációs ellátásokat,
+b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos egyéb segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, továbbá a rokkantsági és rehabilitációs ellátásokat,
 
 c) a természetben nyújtott ellátások, ideértve a gyógyító-megelőző ellátásokat, a gyógyfürdő és egyéb gyógyászati ellátást, az anyatej-ellátást, a gyógyszer és a gyógyászati segédeszköz támogatást, az utazási költségtérítést, továbbá a nemzetközi egyezményekből eredő és külföldön történő ellátásokat,
 
@@ -28,7 +28,7 @@ c) egyéb járulékok és hozzájárulások, ideértve
 
 4. az Efo.tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget,
 
-5. a Nemzeti Foglalkoztatási Alap általi megtérítéseket,
+5.
 
 6.
 
@@ -36,7 +36,7 @@ d) az egészségügyi hozzájárulás;
 
 e) az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 
-f) a központi támogatások, ideértve a rokkantsági, rehabilitációs ellátások részbeni fedezetére átvett pénzeszköz és egyéb, törvényben előírt támogatás összegét;
+f) a központi támogatások, ideértve az egészségügyi feladatok ellátásával kapcsolatos költségvetési hozzájárulást és törvényben előírt egyéb támogatás összegét;
 
 g) az egészségbiztosítási tevékenységgel kapcsolatos egyéb bevételek, ideértve
 
