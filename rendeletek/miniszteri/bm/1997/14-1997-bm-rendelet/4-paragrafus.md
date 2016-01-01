@@ -1,5 +1,5 @@
-## 3. §[^3] A főosztály a törvény 3. §-ának (1) bekezdésében foglaltakat helyszíni ellenőrzés keretében, illetőleg a 3. § (1) bekezdésének a), e), f), h), i), j) pontjaiban meghatározottakat a főosztály által kezelt Központi Okmánytár (a munkáltató intézkedéseként rögzített parancsok, határozatok egy példánya), az egységes számítógépes személyzeti, munkaügyi, szervezési, illetmény- és nyugdíjrendszer adatai felhasználásával hajtja végre.
+## 3/A. §[^5] Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat tekintetében a polgári nemzetbiztonsági szolgálatok munkaügyi ellenőrzéséről szóló 17/2002. (XII. 30.) MeHVM rendelet nem alkalmazható.
 
 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-[^3]: A 3. § a 37/2015. (VI. 16.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^5]: A 3/A. §-t a 76/2015. (XII. 22.) BM rendelet 1. §-a iktatta be.
