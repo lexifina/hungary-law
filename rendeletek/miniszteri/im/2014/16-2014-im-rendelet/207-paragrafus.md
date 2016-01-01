@@ -14,4 +14,6 @@ c) IV. biztonsági csoport az e rendelet szerinti magas
 
 (4) Ha a (3) bekezdés szerinti számítás alapján az elítélt feltételes szabadságra bocsátása esedékes, a bv. intézet haladéktalanul előterjesztést tesz a bv. bírónak a feltételes szabadságra bocsátás tárgyában.
 
-(5) A Bv. tv. 132. §-ában meghatározott esetekben a BFB a kockázatértékelés keretében – az országos parancsnok által kiadott módszertani útmutató alapján – megállapítja az elítélt ilyen jellegű bűncselekményekkel kapcsolatos visszaesési kockázati értékét. Ha a visszaesési kockázati érték közepes vagy magas, az elítélt részére önkéntes részvételi alapon fel kell ajánlani a visszaesés valószínűségét csökkentő terápián való részvételt.
+(5)[^23]
+
+[^23]: A 207. § (5) bekezdését a 209. § (2) bekezdése hatályon kívül helyezte.

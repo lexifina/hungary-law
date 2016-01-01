@@ -1,4 +1,4 @@
-## 6/A. [^1] A bűncselekmény sértettjévé vált elítélttel és egyéb jogcímen fogvatartottal kapcsolatos rendelkezések
+## 6/A. [^2] A bűncselekmény sértettjévé vált elítélttel és egyéb jogcímen fogvatartottal kapcsolatos rendelkezések
 
 11/A. § (1) Ha az elítélt vagy az egyéb jogcímen fogvatartott bűncselekmény sértettjévé válik, a bv. intézet minden szükséges intézkedést megtesz annak érdekében, hogy a büntetőeljárásról szóló 1998. évi XIX. törvénynek (a továbbiakban: Be.) a sértett jogaira, védelmére, illetve a vele szembeni kíméletes eljárásra vonatkozó szabályainak az érvényesülését a fogvatartás során – elsősorban a megfelelő tájékoztatással – elősegítse.
 
@@ -16,4 +16,4 @@ e) azonos ügyben történő előállításakor, az oktatás, a munkáltatás é
 
 (3) Ha a Bv. tv. együttes elhelyezésre ad lehetőséget és a bűncselekmény sértettjévé vált elítélt vagy egyéb jogcímen fogvatartott védelme az adott részlegen nem biztosítható, más bv. intézetbe kell átszállítani.
 
-[^1]: A 6/A. alcímet (11/A. §) a 31/2015. (X. 30.) IM rendelet 3. §-a iktatta be.
+[^2]: A 6/A. alcímet (11/A. §) a 31/2015. (X. 30.) IM rendelet 3. §-a iktatta be.

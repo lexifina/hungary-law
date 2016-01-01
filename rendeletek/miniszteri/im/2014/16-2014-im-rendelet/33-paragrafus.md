@@ -8,7 +8,7 @@
 
 (3) A progresszív rezsimszabályok – egymásra épülő – szigorúbb, általános és enyhébb rezsimekben valósulnak meg. Az egyes rezsimekben a Bv. tv. 98. § (2) bekezdésében meghatározott szempontok figyelembevételével egyéniesített életkörülmények kialakítására kerül sor, amely a szabadságvesztés során – az elítélt együttműködésétől függően – módosulhat.
 
-(4)[^6]
+(4) Az elítélt rezsimbe sorolásakor a BFB a KKMI kockázatértékelési összefoglaló jelentésében foglalt javaslatoktól csak különösen indokolt esetben térhet el.
 
 (5) Ha az elítélt kockázatértékelést a BFB végzi, az első besoroláskor az általános rezsimbe kell sorolni.
 
@@ -17,5 +17,3 @@
 a) szigorúbb rezsimbe sorolható, ha az egyéniesített fogvatartási programtervben foglaltakat nem fogadja el, vagy a személyi állománnyal nem működik együtt, vagy
 
 b) enyhébb rezsimbe sorolható, ha a kockázatértékelése során mért kockázati érték alacsony.
-
-[^6]: A 33. § (4) bekezdése a 206. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

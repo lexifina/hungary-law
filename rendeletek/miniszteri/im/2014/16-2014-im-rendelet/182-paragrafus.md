@@ -13,3 +13,7 @@ a) a bíróság a szabadlábon lévő vádlott előzetes letartóztatásáról h
 b) a bíróság a fiatalkorú előzetes letartóztatásáról hivatali időn kívül határozott és azt a bv. intézetben rendelte végrehajtani,
 
 c) az előzetes letartóztatásnak a Be. 135. § (2) bekezdése szerinti időtartama hivatali időn kívül jár le.
+
+(4)[^19] A bv. intézet a befogadáskor a fogvatartás alapjául szolgáló iratok adatainak és az előzetesen letartóztatott személyazonosságát igazoló hatósági igazolványban foglalt adatoknak az egybevetésével, valamint a képmásának az összehasonlításával ellenőrzi az előzetesen letartóztatott személyazonosságát. Ha az így lefolytatott ellenőrzés eredményeképpen a személyazonosság kétséges, a bv. intézet erről értesíti a rendelkezési jogkör gyakorlóját.
+
+[^19]: A 182. § (4) bekezdését a 41/2015. (XII. 23.) IM rendelet 3. §-a iktatta be.

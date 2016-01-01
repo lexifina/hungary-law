@@ -16,8 +16,6 @@ b) olyan szabadságvesztés végrehajtásra érkezik értesítés, amely a szaba
 
 c) a folyamatosan töltött szabadságvesztések esetén a soron következő szabadságvesztés végrehajtási fokozata eltér az előzőtől.
 
-(4)[^7]
+(4) Ha a Bv. tv. 93. § (3) bekezdésében foglalt vizsgálat és a (3) bekezdésben szereplő eljárás várhatóan két hónapon belül történik, úgy lehetőség szerint a két vizsgálatot egyidejűleg kell a KKMI-ben elvégezni.
 
 (5) A rezsimbe sorolás felülvizsgálata során annak súlyosbítása korlátlanul, enyhítése csak a fokozatosság elvének figyelembevételével rendelhető el.
-
-[^7]: A 37. § (4) bekezdése a 206. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
