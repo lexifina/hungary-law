@@ -5278,4 +5278,6 @@
 
 ## A 4. mellékletben szereplő „Munkahelyi Sugárvédelmi Szabályzat” vizsga az R. szerint előírt alapfokozatú sugárvédelmi képzés után tehető, az engedélyes Munkahelyi Sugárvédelmi Szabályzatában előírt feltételek szerint.
 
-5. melléklet az 55/2012. (IX. 17.) NFM rendelethez
+5. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^5]
+
+[^5]: [Az 5. mellékletnek a 77/2015. (XII. 30.) NFM rendelet 9. § d) pontjával elrendelt módosítása, amely szerint „R szerinti” szövegrész helyébe „az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti” szöveg lép, nem vezethető át.]

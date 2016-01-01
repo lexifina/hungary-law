@@ -38,4 +38,6 @@
 
 ## r) A karbantartó személyzet gyakorlati felkészítéséhez biztosítani kell az inaktív képzési környezetet. Biztosítani kell a gyakorlóhelyszín oktató rendszerelemeinek, eszközeinek aktualitását.
 
-4. melléklet az 55/2012. (IX. 17.) NFM rendelethez
+4. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^4]
+
+[^4]: [A 4. mellékletnek a 77/2015. (XII. 30.) NFM rendelet 9. § c) pontjával elrendelt módosítása, amely szerint „R szerint” szövegrész helyébe „az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti” szöveg lép, nem vezethető át.]

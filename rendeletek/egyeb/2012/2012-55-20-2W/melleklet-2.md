@@ -140,7 +140,7 @@
 
 ## A C. oszlopban megjelölt képesítések megszerzése a felnőttképzésről szóló törvény előírásainak megfelelő, az atomerőmű engedélyese, vagy a vele szerződéses viszonyban álló felnőttképzési intézmény által működtetett képzési rendszerben, az engedélyes képzési programja alapján történhet.
 
-2. melléklet az 55/2012. (IX. 17.) NFM rendelethez
+2. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^3]
 
 Az Oktatóreaktor, a Kutatóreaktor és a Kiégett Kazetták Átmeneti Tárolójának munkavállalói részére előírt iskolai végzettség, szakképzettség,
 
@@ -180,7 +180,7 @@ nukleáris szakirányú gyakorlat, valamint képesítés
 
 |  | A. Tevékenység és munkakör megnevezése | B. Munkakör betöltéséhez előírt iskolai végzettség és szakképzettség | C. Munkakör betöltéséhez szükséges nukleáris szakirányú képesítés/gyakorlati idő |
 
-| 1. | A KKÁT biztonságos üzemeltetéséhez szükséges anyagi és személyi feltételek biztosítása, szakmai felügyelet és irányítás - Üzemeltetési igazgató | Felsőfokú műszaki mérnöki végzettség | Az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet (a továbbiakban: R.) szerinti bővített fokozatú sugárvédelmi képzés és 5 év nukleáris létesítményben mérnöki végzettséghez kötött munkakörben szerzett gyakorlat |
+| 1. | A KKÁT biztonságos üzemeltetéséhez szükséges anyagi és személyi feltételek biztosítása, szakmai felügyelet és irányítás - Üzemeltetési igazgató | Felsőfokú műszaki mérnöki végzettség | az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet (a továbbiakban: R.) szerinti bővített fokozatú sugárvédelmi képzés és 5 év nukleáris létesítményben mérnöki végzettséghez kötött munkakörben szerzett gyakorlat |
 
 | 2. | A nukleáris létesítmény üzemeltetésének biztosítása, az üzemeltetés és azzal összefüggő tevékenységek szervezése és irányítása. - Telephelyvezető / üzemvezető | Felsőfokú műszaki mérnöki végzettség | Az R. szerinti átfogó fokozatú sugárvédelmi képzés és 5 év nukleáris létesítményben mérnöki végzettséghez kötött munkakörben szerzett gyakorlat |
 
@@ -205,3 +205,5 @@ A 2. és 3. táblázat B. oszlopában írtak értelmezése a következő:
 - felsőfokú végzettség: MSc vagy BSc diploma, vagy műszaki szakirányú főiskolai vagy egyetemi végzettség
 
 A 3. táblázat C. oszlopában megjelölt, 7. és 9. sor szerinti képesítések megszerzése a felnőttképzésről szóló törvény előírásainak megfelelő, az atomerőmű engedélyese, vagy a vele szerződéses viszonyban álló felnőttképzési intézmény által működtetett képzési rendszerben, az engedélyes képzési programja alapján történhet.
+
+[^3]: A 2. melléklet a 77/2015. (XII. 30.) NFM rendelet 9. § a) pontja szerint módosított szöveg. [A 2. mellékletnek a 77/2015. (XII. 30.) NFM rendelet 9. § b) pontjával elrendelt módosítása, amely szerint „R szerinti” szövegrészek helyébe „az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti” szöveg lép, nem vezethető át.]
