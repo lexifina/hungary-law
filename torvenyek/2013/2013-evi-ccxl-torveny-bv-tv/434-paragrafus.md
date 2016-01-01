@@ -12,7 +12,7 @@ a) a szabadságvesztés, az elzárás, az előzetes letartóztatás és a rendb�
 
 b) a Pártfogó Felügyelői Szolgálat és a pártfogó felügyelők tevékenységének szabályait, a büntetés-végrehajtási pártfogó felügyelők tevékenységének vonatkozásában a büntetés-végrehajtásért felelős miniszterrel, a katonák pártfogó felügyeletének vonatkozásában a honvédelemért felelős miniszterrel egyetértésben,
 
-c) az elkobzás végrehajtásának szabályait a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszterrel és a rendészetért felelős miniszterrel egyetértésben,
+c) az elkobzás végrehajtásának szabályait a Nemzeti Adó- és Vámhivatalt irányító miniszterrel és a rendészetért felelős miniszterrel egyetértésben,
 
 d) a kényszergyógykezelés és az ideiglenes kényszergyógykezelés végrehajtására, valamint az IMEI feladataira vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
 

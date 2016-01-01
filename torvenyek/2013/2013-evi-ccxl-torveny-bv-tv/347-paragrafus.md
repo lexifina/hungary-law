@@ -1,12 +1,16 @@
-347. § (1) A javítóintézet a befogadáskor
+347. § (1) A befogadás során a javítóintézet a fiatalkorú személyazonosságát ellenőrzi.
 
-a) a fiatalkorú adatait a gyermekek védelméről szóló törvény rendelkezései szerint nyilvántartásba veszi (a továbbiakban: fiatalkorúak nyilvántartása), és személyi adatlapot állít ki róla,
+(2) Ha a személyazonossággal kapcsolatban kétség merült fel, az érintett személyazonosságának megállapítása érdekében a javítóintézet a székhelye szerint illetékes rendőri szervet keresi meg.
+
+(3) A javítóintézet a befogadáskor
+
+a) a fiatalkorú adatait a gyermekek védelméről szóló törvény rendelkezései szerint nyilvántartásba veszi (a továbbiakban: fiatalkorúak nyilvántartása) és személyi adatlapot állít ki róla,
 
 b) a fiatalkorúról arcképmást készít, ami a ki- és belépés ellenőrzése érdekében kiállítandó javítóintézeti azonosító kártyán használható.
 
-(2) A javítóintézeti kártya igazolja a fiatalkorú személyazonosságát.
+(4) A javítóintézeti azonosító kártya igazolja a fiatalkorú személyazonosságát.
 
-(3) A fiatalkorú a javítóintézetben nem tarthat magánál olyan tárgyat,
+(5) A fiatalkorú a javítóintézetben nem tarthat magánál olyan tárgyat,
 
 a) amelynek birtoklása a közbiztonságot veszélyezteti vagy jogszabályba ütközik,
 

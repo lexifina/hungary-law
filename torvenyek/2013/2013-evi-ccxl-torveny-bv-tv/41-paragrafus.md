@@ -22,7 +22,7 @@ b) egy évesnél fiatalabb gyermekét gondozza.
 
 a) az elítélt gyermeke halva született, utóbb meghalt, vagy a gyermek véglegesen vagy tartósan kikerült az elítélt gondozásából, és azt a nő szülés utáni egészségi állapota lehetővé teszi,
 
-b) az elítélt részére a gyermekgondozási díj, gyermekgondozási segély vagy gyermeknevelési támogatás folyósítását egy év eltelte előtt megszüntetik,
+b) az elítélt részére a gyermekgondozási díj, gyermekgondozást segítő ellátás vagy gyermeknevelési támogatás folyósítását egy év eltelte előtt megszüntetik,
 
 c) az elítélt fogvatartása vagy házi őrizete megszűnik, kivéve ha a közérdekű munka végrehajtásának e törvény szerinti végrehajtási akadálya áll fenn.
 

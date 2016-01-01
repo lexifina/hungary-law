@@ -41,3 +41,5 @@ q) a vallási részlegen történő elhelyezés vagy annak megszüntetése.
 (4) A BFB részletes feladatait, tagjait, eljárásrendjét az országos parancsnok határozza meg.
 
 (5) A bv. intézet parancsnokának hatáskörei kapcsán a BFB véleményezési, illetve javaslattételi feladatokat is elláthat.
+
+(6) A BFB a KKMI részére az elítélt záró kockázatelemzési vizsgálatához véleményt készít.

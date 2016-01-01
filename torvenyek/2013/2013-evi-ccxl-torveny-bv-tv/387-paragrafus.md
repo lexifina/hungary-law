@@ -3,3 +3,7 @@
 (2) Az előzetes letartóztatást a bíróságnak a tárgyalás előkészítése során hozott határozatáig az ügyész, ezt követően a bíróság (a továbbiakban: rendelkezési jogkör gyakorlója) rendelkezésének megfelelően kell végrehajtani.
 
 (3) A végrehajtásért felelős szerv az előzetesen letartóztatottat a bíróság végzése szerint kiállított értesítőlap alapján fogadja be.
+
+(4) A befogadás során a végrehajtásért felelős szerv az előzetesen letartóztatott személyazonosságát ellenőrzi.
+
+(5) Ha a személyazonossággal kapcsolatban kétség merült fel, erről a végrehajtásért felelős szerv a rendelkezési jogkör gyakorlóját értesíti.

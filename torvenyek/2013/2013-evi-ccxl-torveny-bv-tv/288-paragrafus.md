@@ -6,7 +6,7 @@
 
 a) a tizenkettedik hetet meghaladóan várandós, a gyermek egy éves koráig, feltéve, hogy gyermekét a saját háztartásában gondozza,
 
-b) gyermekgondozási díjban vagy gyermekgondozási segélyben részesül, annak hátralévő idejére, de legfeljebb egy évre,
+b) gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesül, annak hátralévő idejére, de legfeljebb egy évre,
 
 c) egészségi állapotában olyan tartós változás következett be, amely a közérdekű munka végrehajtását ideiglenesen nem teszi lehetővé, vagy a foglalkoztathatósági szakvélemény alapján, vagy a foglalkoztatási korlátozásokra és a kijelölhető munkahelyekre figyelemmel az elítélt ideiglenesen nem foglalkoztatható, legfeljebb egy évre.
 
@@ -14,7 +14,7 @@ c) egészségi állapotában olyan tartós változás következett be, amely a k
 
 a) a gyermek nem az elítélt gondozásában van,
 
-b) a gyermekgondozási díj vagy a gyermekgondozási segély folyósítását egy év eltelte előtt megszüntetik,
+b) a gyermekgondozási díj vagy a gyermekgondozást segítő ellátás folyósítását egy év eltelte előtt megszüntetik,
 
 c) az elítélt egészségi állapota a közérdekű munka elvégzését lehetővé teszi, illetve a megismételt vizsgálat szerinti foglalkoztathatósági szakvélemény alapján az elítélt foglalkoztatható.
 

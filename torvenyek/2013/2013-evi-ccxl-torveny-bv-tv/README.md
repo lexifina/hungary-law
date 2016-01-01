@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-240-00-00
 | 2015-07-01 | 2015. évi LXXVI. törvény | 2013-240-00-00.4 |
 | 2015-09-15 | 2015. évi CXL. törvény | 2013-240-00-00.5 |
 | 2015-11-01 | 2015. évi CLI. törvény | 2013-240-00-00.6 |
+| 2016-01-01 | 2015. évi CLII. törvény | 2013-240-00-00.7 |

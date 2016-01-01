@@ -2,7 +2,17 @@
 
 95. § (1) A bv. intézetek Befogadási és Fogvatartási Bizottságot (a továbbiakban: BFB) működtetnek.
 
-(2)–(4)
+(2) Az elítéltet
+
+a) a befogadást követően, vagy
+
+b) a 92. § (2) bekezdésében meghatározott kivizsgálást követően a kijelölt bv. intézetben
+
+a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózkodhat. A befogadó részlegen való elhelyezés időtartamába nem számít be az IMEI-ben, a Központi Kórházban vagy a más bv. intézetben megőrzésen töltött idő.
+
+(3) A bv. intézeti befogadást követően a kockázatértékelési összefoglaló jelentés alapján a befogadó részleg vezetője az elítélt együttműködésével kialakítja és rögzíti az egyéniesített fogvatartási programtervet, majd a BFB az elítélt személyes meghallgatását követő nyolc napon belül dönt az elítélt rezsimbe sorolásáról és a bv. intézetben működő reintegrációs programokon való részvételéről.
+
+(4) Ha az elítélt KKMI-ben elvégzett vizsgálatára és értékelésére e törvény szerint nem kerül sor, az elítéltet a KKMI által kiadott módszertan alapján a BFB sorolja be az adott fokozathoz tartozó megfelelő rezsimszabály alá.
 
 (5) Az elítélt egyéniesítéséhez igazodó rezsimbe sorolásáról és annak megváltoztatásáról, valamint a magas szintű biztonsági kockázati besorolásáról – a 26. § (4) bekezdésében foglaltak figyelembevételével – a BFB határozattal dönt.
 

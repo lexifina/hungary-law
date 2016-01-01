@@ -10,6 +10,10 @@
 
 (1a) A szabálysértési elzárást a Szabs. tv. 139. § (1) és (1a) bekezdésében meghatározott helyen kell végrehajtani.
 
+(1b) A befogadás során az elkövető személyazonosságát ellenőrizni kell.
+
+(1c) Ha a személyazonossággal kapcsolatban kétség merült fel, az érintett személyazonosságának megállapítása érdekében a bv. intézet a székhelye szerint illetékes rendőri szervet keresi meg.
+
 (2) A szabálysértési elzárás végrehajtásának elévülését félbeszakítja, ha az elkövetővel szemben elzárást vesznek foganatba. Ennek a körülménynek a megszűnéséig az elévülés nyugszik.
 
 (3) A szabálysértési elzárás nem hajtható végre, ha

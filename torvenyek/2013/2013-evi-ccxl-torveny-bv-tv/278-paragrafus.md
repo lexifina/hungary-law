@@ -2,6 +2,6 @@
 
 a) a szülést követően gyermekének gondozásáról egy éven át saját háztartásában gondoskodott,
 
-b) legalább egy évig gyermekgondozási díjban vagy gyermekgondozási segélyben részesült,
+b) legalább egy évig gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesült,
 
 c) öt évet vagy azt meghaladó időt töltött szabadságvesztésben vagy előzetes letartóztatásban, vagy két évet vagy azt meghaladó időt töltött javítóintézetben.
