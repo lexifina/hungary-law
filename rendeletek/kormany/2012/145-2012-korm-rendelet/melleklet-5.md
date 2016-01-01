@@ -188,6 +188,6 @@
 
 |  | 53. | Egyéb | Ökoszisztéma monitoring |  |  |  | Környezet |
 
-5. melléklet a 145/2012. (VII. 3.) Korm. rendelethez[^17]
+5. melléklet a 145/2012. (VII. 3.) Korm. rendelethez[^20]
 
-[^17]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
