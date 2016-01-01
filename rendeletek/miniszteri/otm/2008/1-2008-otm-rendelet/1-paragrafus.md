@@ -1,16 +1,17 @@
 ## Általános rendelkezések
 
-1. § (1) E rendelet rendelkezéseit kell alkalmazni az Etv. Harmadik rész IX. fejezetének hatálya alá tartozó a településtervezési, az építészeti-műszaki tervezési, az építésügyi műszaki szakértői, az építési műszaki ellenőri, valamint a felelős műszaki vezetői szakmagyakorlási tevékenység (a továbbiakban: tevékenység) végzésére jogosító (2) bekezdés szerinti oklevél elismerése során.
+1. §[^1] (1) E rendelet rendelkezéseit kell alkalmazni azon képesítés elismeréséhez, amelyre vonatkozóan a (2) bekezdés szerinti oklevél birtokosa az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben (a továbbiakban: Szakmagyakorlási rendelet) meghatározott valamely szakmagyakorlási tevékenység (a továbbiakban: tevékenység) gyakorlásának megkezdéséhez, illetve folytatásához kérelmet vagy bejelentést terjesztett elő.
 
-(2) Az Etv. 28. § (1) bekezdése szerinti tagállamban, a tagállami állampolgár és az Etv. 28. § (2) bekezdésben meghatározott vele azonos jogállású személy részére kiállított, a képzés sikeres elvégzését tanúsító, e rendelet
+(2) Az Etv. 28. § (1) bekezdése szerinti tagállamban, a tagállami állampolgár és az Etv. 28. § (2) bekezdése alapján a tagállam állampolgárával azonos megítélés alá eső személy (a továbbiakban együtt: tagállami állampolgár) által megszerzett, és valamely tagállam arra feljogosított intézménye által kiállított építészmérnöki szakképzettség megszerzését tanúsító oklevél feltétel nélkül, és a hazai építészmérnöki oklevéllel egyenértékűként kerül elismerésre, ha azt
 
-a)[^1] 1. melléklete szerinti, legkorábban az adott oklevél tekintetében ott megjelölt referencia-tanévben megkezdett építészmérnöki képzés sikeres elvégzését tanúsító építészmérnöki,
+a) az 1. mellékletben felsorolt, legkorábban az adott oklevél tekintetében ott megjelölt referencia-tanévtől létező,
 
-b)[^2] 2. mellékletében említett és ott megjelölt referencia-tanévnél nem később kezdődött építészmérnöki
+aa) 2016. január 18. előtt megkezdett képzés sikeres elvégzését követően állították ki, abban az esetben is, ha az nem felel meg a 3. melléklet szerint az európai közösségi jog által meghatározott képzési minimumkövetelményeknek, vagy
 
-## oklevelek (a továbbiakban együtt: oklevelek) Magyarországon feltétel nélkül kerülnek elismerésre.
+ab) 2016. január 18-án vagy azt követően megkezdett és a 3. melléklet szerint az európai közösségi jog által meghatározott képzési minimumkövetelményeknek megfelelő képzés sikeres elvégzését követően állították ki, vagy
 
-(3) Az oklevél elismerése nem mentesít a tevékenység megkezdéséhez külön jogszabály által előírt egyéb szakmai, jogi követelmények teljesítése alól.
+b) a 2. mellékletben felsorolt és ott megjelölt referencia-tanévnél nem később megkezdett építészmérnöki képzés sikeres elvégzését követően állították ki, abban az esetben is, ha az nem felel meg a 3. melléklet szerint az európai közösségi jog által meghatározott képzési minimumkövetelményeknek.
 
-[^1]: Az 1. § (2) bekezdés a) pontja a 28/2012. (V. 31.) BM rendelet 1. §-a szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés b) pontja a 68/2011. (XII. 30.) BM rendelet 28. §-a, a 28/2012. (V. 31.) BM rendelet 2. §-a szerint módosított szöveg.
+(3) Az oklevél elismerése nem mentesít a tevékenység megkezdéséhez a Szakmagyakorlási rendeletben előírt egyéb szakmai, jogi követelmények teljesítése alól.
+
+[^1]: Az 1. § az 54/2015. (XII. 8.) MvM rendelet 1. §-ával megállapított szöveg.
