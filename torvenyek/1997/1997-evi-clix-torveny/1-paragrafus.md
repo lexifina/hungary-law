@@ -36,4 +36,4 @@ c) ideiglenes (határozott időtartamú)
 
 jelleggel.
 
-(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum-, illetve személyőrzési vagy kísérési feladatok ellátására, amelyekhez az e törvényben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
+(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum-, illetve személyőrzési vagy kísérési feladatok ellátására, amelyekhez az e törvényben, valamint a végrehajtására kiadott rendeletben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.

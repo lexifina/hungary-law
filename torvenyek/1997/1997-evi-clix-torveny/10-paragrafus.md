@@ -6,6 +6,8 @@ b) az intézkedésének tettlegesen ellenszegülő vagy a bűncselekmény elköv
 
 c) az a)–b) pont szerint igazoltatott, visszatartott vagy előállított személytől a bűncselekményből származó vagy annak elkövetéséhez használt dolgot, illetve támadásra alkalmas eszközt elvenni, ennek érdekében ruházatát, csomagját átvizsgálni.
 
+(1a) A ruházat átvizsgálását – halaszthatatlan eset kivételével – az intézkedés alá vonttal azonos nemű személy végezheti. Az intézkedés nem történhet szeméremsértő módon.
+
 (2) A fegyveres biztonsági őr a biztonságot veszélyeztető tevékenység megszakítása érdekében, az azt elkövető személlyel szemben az arányosság követelményének betartásával:
 
 a) testi erővel cselekvésre vagy cselekvés abbahagyására kényszerítést, illetve pórázon vagy anélkül, szájkosárral ellátott szolgálati kutyát,

@@ -2,7 +2,7 @@
 
 a) beszerzi, kiadja, nyilvántartja és bevonja a szolgálati fegyverzetet, a lőszert és egyéb felszerelést, a ruházatot;
 
-b) gondoskodik a fegyveres biztonsági őrök elméleti képzéséről, továbbképzéséről, valamint az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrök esetében a fizikai állóképességre vonatkozó követelmények jogszabályban meghatározott módon történő biztosításáról.
+b) gondoskodik a fegyveres biztonsági őrök elméleti és gyakorlati képzéséről, továbbképzéséről, valamint az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrök esetében a fizikai állóképességre vonatkozó követelmények jogszabályban meghatározott módon történő biztosításáról.
 
 (2) A kötelezett, illetve a fegyveres biztonsági őrséget működtető szervezet vezetője
 
