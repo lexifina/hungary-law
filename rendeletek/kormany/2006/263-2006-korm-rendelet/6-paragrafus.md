@@ -14,5 +14,11 @@ jelöli ki.
 
 (4) Az (1) bekezdés b) pontja szerinti ügyekben első fokon eljáró Vasútegészségügyi Szolgáltató Non-profit Kiemelten Közhasznú Korlátolt Felelősségű Társaság döntése elleni fellebbezést másodfokon az Útügyi, Vasúti és Hajózási Hivatal bírálja el.
 
+(5)[^142] A vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzése és vizsgáztatása tekintetében a Kormány a Szolg.tv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként az Útügyi, Vasúti és Hajózási Hivatalt jelöli ki.
+
+(6)[^143] A vasútnak nem minősülő egyéb kötöttpályás szakértői tevékenység tekintetében a Kormány a Szolg.tv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként az Útügyi, Vasúti és Hajózási Hivatalt jelöli ki.
+
 [^140]: A 6. § a 326/2010. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^141]: A 6. § (3) bekezdése a 175/2011. (VIII. 31.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^142]: A 6. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 76. § (10) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^143]: A 6. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 76. § (10) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

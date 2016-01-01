@@ -59,3 +59,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-263-20-
 | 2015-07-03 | 2006-263-20-22.64 | 362/2008. (XII. 31.) Korm. rendelet |
 | 2015-08-07 | 2006-263-20-22.65 | 176/2015. (VII. 7.) Korm. rendelet |
 | 2015-11-25 | 2006-263-20-22.66 | 349/2015. (XI. 24.) Korm. rendelet |
+| 2016-01-01 | 2006-263-20-22.67 | 441/2015. (XII. 28.) Korm. rendelet |
