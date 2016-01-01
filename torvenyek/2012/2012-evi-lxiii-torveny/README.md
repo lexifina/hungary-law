@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-63-00-00
 | 2013-01-01 | 2012. évi CCXI. törvény | 2012-63-00-00.3 |
 | 2013-01-02 | 2010. évi CXXX. törvény | 2012-63-00-00.4 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2012-63-00-00.5 |
+| 2016-01-01 | 2015. évi XCVI. törvény | 2012-63-00-00.6 |

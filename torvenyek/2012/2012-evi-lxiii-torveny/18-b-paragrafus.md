@@ -1,0 +1,1 @@
+18/B. § Nem kell megneveznie a kérelemben megjelöltek teljesítése tekintetében felhasználási szerződés kötésére jogosultat a kulturális közadatot kezelő közfeladatot ellátó szervnek, ha a kérelmet a 3. § b) pontjára hivatkozással utasította el.
