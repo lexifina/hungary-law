@@ -70,7 +70,11 @@ s) az állandó legelő vagy állandó gyep jogi jelleg feljegyzése,
 
 t) a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg feljegyzése,
 
-u) az Inytv. 89/A. §-a szerinti zártkerti ingatlan művelés alóli kivonására irányuló eljárás.
+u) az Inytv. 89/A. §-a szerinti zártkerti ingatlan művelés alóli kivonására irányuló eljárás,
+
+v) tulajdonosváltozás ingatlan-nyilvántartási bejegyzése öröklés jogcímén;
+
+w) haszonélvezeti jog ingatlan-nyilvántartási bejegyzése hagyatékátadó végzés alapján.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
 
