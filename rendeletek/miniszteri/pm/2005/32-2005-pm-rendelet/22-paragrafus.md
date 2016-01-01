@@ -30,7 +30,7 @@ d) a játékosok részére – a jogszabályok szerinti levonások után – át
 
 (6)[^68] Az Szjtv. 16. §-a és 23. §-a szerinti bejelentésköteles játékok (a továbbiakban: bejelentésköteles játékok), valamint azon sorsolásos játékok esetén, amelyek sorsolási eseményén közjegyző jelen van, a sorsolásról készült közjegyzői okirat egy hiteles példányát a végelszámoláshoz mellékelni kell, kivéve, ha azok már az időközi elszámoláshoz hiánytalanul benyújtásra kerültek.
 
-(7)[^69] Az ajándéksorsolásról készített közjegyzői okirat egy hiteles példányát a végelszámolás elektronikus úton való előterjesztése esetén a NAV Központi Hivatalának címezve postai úton, vagy a NAV Központi Hivatala által működtetett Szerencsejáték Felügyeleti Központi Ügyfélszolgálati Irodán, vagy a NAV Központi Hivatalának kihelyezett szerencsejáték felügyeleti feladatot ellátó szervezeti egységénél kell 5 napon belül benyújtani. A végelszámolás egyéb módon való előterjesztése esetén a közjegyzői okiratot a végelszámolással együtt kell benyújtani.
+(7)[^69] Az ajándéksorsolásról készített közjegyzői okirat egy hiteles példányát a végelszámolás elektronikus úton való előterjesztése esetén a NAV Központi Irányításának címezve postai úton, vagy a NAV Központi Irányítás által működtetett Szerencsejáték Felügyeleti Központi Ügyfélszolgálati Irodán, vagy a NAV Központi Irányításának kihelyezett szerencsejáték felügyeleti feladatot ellátó szervezeti egységénél kell 5 napon belül benyújtani. A végelszámolás egyéb módon való előterjesztése esetén a közjegyzői okiratot a végelszámolással együtt kell benyújtani.
 
 (8)[^70] Az állami adóhatóság nem hagyja jóvá a végelszámolást és a (9) bekezdésben meghatározott cselekmények elvégzésére kötelezheti a szervezőt, ha eltérést tapasztal a jóváhagyott játéktervben vagy a jogszabályi rendelkezésekben foglaltaktól.
 
@@ -54,7 +54,7 @@ d) az Szjtv.-ben foglalt egyéb kötelezettségek teljesítésére.
 [^66]: A 22. § (2) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^67]: A 22. § (3) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^68]: A 22. § (6) bekezdését a 36/2006. (XII. 25.) PM rendelet 7. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 17/2009. (IX. 29.) PM rendelet 44. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^69]: A 22. § (7) bekezdése a 17/2009. (IX. 29.) PM rendelet 44. § (2) bekezdésével megállapított, a 16/2010. (IV. 28.) PM rendelet 18. § (5) bekezdése, a 15/2012. (VI. 28.) NGM rendelet 14. § 3. pontja szerint módosított szöveg.
+[^69]: A 22. § (7) bekezdése a 17/2009. (IX. 29.) PM rendelet 44. § (2) bekezdésével megállapított, a 16/2010. (IV. 28.) PM rendelet 18. § (5) bekezdése, a 15/2012. (VI. 28.) NGM rendelet 14. § 3. pontja, a 47/2015. (XII. 30.) NGM rendelet 6. § b) és c) pontja szerint módosított szöveg.
 [^70]: A 22. § (8) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^71]: A 22. § (9) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^72]: A 22. § (10) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.

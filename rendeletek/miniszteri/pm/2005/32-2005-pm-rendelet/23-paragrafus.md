@@ -16,12 +16,12 @@ c) azt, hogy a sorsjegyek egy teljes sorozata olyan zárt gyártási folyamatban
 
 (5) A szervező köteles
 
-a)[^84] a sorsjegyek gyártójával kötött gyártási szerződés, valamint a (4) bekezdés szerinti könyvvizsgálói jelentés egy eredeti példányát legkésőbb az engedélyezett tevékenység megkezdését megelőző tizenötödik napig a NAV Központi Hivatalának benyújtani,
+a)[^84] a sorsjegyek gyártójával kötött gyártási szerződés, valamint a (4) bekezdés szerinti könyvvizsgálói jelentés egy eredeti példányát legkésőbb az engedélyezett tevékenység megkezdését megelőző tizenötödik napig a NAV Központi Irányításának benyújtani,
 
 b)[^85] az engedélyezett tevékenység megkezdéséig a sorsjegyek teljes – sorozatokra bontás esetén legalább egy sorozatnak megfelelő – mennyiségét egyszerre legyártatni és erről, valamint a legyártott, de még értékesítési forgalomba nem bocsátott sorsjegyek tárolásának helyéről az állami adóhatóságot értesíteni,
 
 c) a tevékenységének megkezdésétől sorsolásos játékonként nyilvántartani a terjesztőkkel kötött, valamint a terjesztők egymás közötti megállapodásait, amelyeknek tartalmazniuk kell a terjesztésre átadott sorsjegyek mennyiségét (sorozatszám, sorszám és darabszám szerint).
 
 [^83]: A 23. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 42. § (5) bekezdése szerint módosított szöveg.
-[^84]: A 23. § (5) bekezdésének a) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (1) bekezdése, a 15/2012. (VI. 28.) NGM rendelet 14. § 4. pontja szerint módosított szöveg.
+[^84]: A 23. § (5) bekezdésének a) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (1) bekezdése, a 15/2012. (VI. 28.) NGM rendelet 14. § 4. pontja, a 47/2015. (XII. 30.) NGM rendelet 6. § d) pontja szerint módosított szöveg.
 [^85]: A 23. § (5) bekezdésének b) pontja a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.

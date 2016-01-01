@@ -1,12 +1,12 @@
 58. § (1) A játékkaszinóba nem léphet be:
 
-a) 18 éven aluli személy,
+a)[^104] 18 éven aluli és a játékkaszinó látogatásából kizárt sérülékeny vagy egyéb személy,
 
-b)[^102] aki a videorendszer üzemelése során rögzítendő személyi adatainak kezeléséhez, illetve a játékkaszinó látogatásából történő kitiltása esetén az 57. § (2) bekezdésének b) pontjában meghatározott adatainak az ott leírt célból történő átadásához hozzájárulását nem adta,
+b)[^105] aki a videorendszer üzemelése során rögzítendő személyi adatainak kezeléséhez, illetve a játékkaszinó látogatásából történő kitiltása esetén az 57. § (2) bekezdésének b) pontjában meghatározott adatainak az ott leírt célból történő átadásához hozzájárulását nem adta,
 
 c) ittas vagy bódult állapotban lévő személy, továbbá akiről a körülmények alapján nyilvánvaló, hogy ezért vagy más okból jelenlétével megzavarhatja a rendet, nyugalmat és a játékok menetét,
 
-d) akit a játékkaszinóból a szervező kitiltott, a kitiltás időtartamának lejártáig,
+d)[^106] akit a játékkaszinóból a szervező kitiltott, a kitiltás időtartamának lejártáig vagy a kitiltás visszavonásáig,
 
 e) a Magyar Honvédség, a rendvédelmi szervek egyenruhát viselő tagja, ha nem hatósági feladatainak tesz eleget.
 
@@ -18,10 +18,9 @@ b) a játékkaszinóban hatósági feladatokat ellátó személy,
 
 c) akit a játékkaszinó igazgatója vagy helyettese nem a játékban való részvétel céljából személyesen vezet be.
 
-(3)[^103] A szervező időlegesen, de legfeljebb öt évre megtagadhatja annak a személynek a játékkaszinóba történő belépését, aki azt maga kérte, vagy korábban játékkaszinóban olyan súlyos szerződésszegést követett el, amely miatt az adott személlyel az adott időszakban nem kíván szerződést kötni (kitiltás). A szervező – a gyámhatóság vagy a gondnok kérésére – köteles megtagadni annak a személynek a játékkaszinóba történő belépését, akinek cselekvőképességét szerencsejáték szenvedélybetegsége miatt korlátozták vagy szüntették meg.
+(3)–(4)[^107]
 
-(4)[^104] A kitiltásnak a nyilvánosság kizárása mellett, végrehajtásának pedig a körülményekhez képest egyszerűen, feltűnést kerülve kell történnie. A játékkaszinóból kitiltott személyeket a szervező köteles nyilvántartani és gondoskodni arról, hogy a kitiltás időtartama alatt a játékkaszinót ne látogathassák. A kitiltást a szervező annak lejártáig nem vonhatja vissza. A kitiltott személy írásbeli kérésére a szervező köteles a kitiltást a részvételi szabályzatban meghatározott okok valamelyikének megjelölésével nyolc napon belül írásban megindokolni, és erről a játékost értesíteni.
-
-[^102]: Az 58. § (1) bekezdés b) pontja a 16/2010. (IV. 28.) PM rendelet 18. § (13) bekezdése szerint módosított szöveg.
-[^103]: Az 58. § (3) bekezdése a 19/2006. (VII. 31.) PM rendelet 27. §-ával megállapított szöveg.
-[^104]: Az 58. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 27. §-ával megállapított szöveg.
+[^104]: Az 58. § (1) bekezdés a) pontja a 31/2015. (XI. 24.) NGM rendelet 3. § a) pontjával megállapított szöveg.
+[^105]: Az 58. § (1) bekezdés b) pontja a 16/2010. (IV. 28.) PM rendelet 18. § (13) bekezdése szerint módosított szöveg.
+[^106]: Az 58. § (1) bekezdés d) pontja a 31/2015. (XI. 24.) NGM rendelet 3. § b) pontja szerint módosított szöveg.
+[^107]: Az 58. § (3)–(4) bekezdését a 31/2015. (XI. 24.) NGM rendelet 4. § c) pontja hatályon kívül helyezte.
