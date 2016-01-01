@@ -1,5 +1,5 @@
-## 18. §[^12] E rendeletnek a 345/2010. (XII. 28.) Korm. rendelet 22. §-ával megállapított 8. §-a (3) bekezdése h) pontját, 23. §-ával megállapított 11. §-a (3) bekezdése e) pontját, 25. §-ával megállapított 2. számú mellékletét először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+## 19. §[^17] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 26. § 2. pontjával megállapított 10. § (1) bekezdés b) pontját, 26. § 3. pontjával megállapított 10. § (1) bekezdés d) pontját, 27. §-ával megállapított 1. és 2. számú mellékletet először a 2016. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
 1. számú melléklet a 217/2000. (XII. 11.) Korm. rendelethez
 
-[^12]: A 18. §-t a 345/2010. (XII. 28.) Korm. rendelet 24. §-a iktatta be.
+[^17]: A 19. §-t a 484/2015. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
