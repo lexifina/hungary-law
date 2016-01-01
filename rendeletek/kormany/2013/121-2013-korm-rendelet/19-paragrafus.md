@@ -1,8 +1,8 @@
-## 18/A. §[^19] A Hivatalnak az INYR-rel összefüggő feladatai ellátásához szükséges nyilvántartások működését szolgáló elektronikus adatbázisok és alkalmazások üzemeltetésével, valamint az adatkezeléshez kapcsolódó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatfeldolgozói feladatokat az e rendelet által üzemeltetésre, fejlesztésre és adatfeldolgozásra kijelölt szervezet látja el.
+## 18/A. §[^20]
 
 ## 6. A Hivatal végzettség elismerésével kapcsolatos feladatai
 
-19. § (1) A Hivatal ekvivalencia- és információs központként
+19. §[^21] (1) A Hivatal ekvivalencia- és információs központként
 
 a) hatósági jogkörében
 
@@ -30,4 +30,15 @@ bf) vezetője útján ellátja a szakképzettségek elismerésére vonatkozó eu
 
 bg) a szakmai képesítések más uniós tagállamban való elismerését érintő kérdésekben illetékes hatóságként részt vesz a belső piaci információs rendszer (IMI-rendszer) működtetésében a belső piaci információs rendszer keretében történő igazgatási együttműködésről és a 2008/49/EK bizottsági határozat hatályon kívül helyezéséről szóló 1024/2012/EU rendeletben foglaltak szerint.
 
-[^19]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be.
+(2) A Hivatal a szakmai képesítések elismerése terén működő segítségnyújtó központként közzéteszi a honlapján
+
+a) azon szakmák jegyzékét, amelyek esetében az európai szakmai kártya létrehozható, továbbá közzéteszi az európai szakmai kártya használatával kapcsolatos tájékoztatását az európai szakmai kártya létrehozásának díját és azoknak az eljáró hatóságoknak a nevét, amelyek feladata az európai szakmai kártya létrehozása,
+
+b) az előzetes ellenőrzés alá tartozó szakmák jegyzékét,
+
+c) a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 28. § (6) bekezdés c) pont cc) alpontjának hatálya alá tartozó képzések felsorolását.
+
+(3) A Hivatal a szakmai képesítések elismerésével kapcsolatos feladataihoz kapcsolódóan statisztikai adatokat szolgáltat az Európai Bizottság részére.
+
+[^20]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 210/2015. (VII. 23.) Korm. rendelet 11. §-a.
+[^21]: A 19. § a 198/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.
