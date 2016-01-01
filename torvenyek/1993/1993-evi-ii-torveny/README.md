@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-2-00-00
 | 2013-04-05 | 2013. évi XXXV. törvény | 1993-2-00-00.26 |
 | 2013-12-15 | 2013. évi CCXII. törvény | 1993-2-00-00.27 |
 | 2015-04-01 | 2015. évi VI. törvény | 1993-2-00-00.28 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 1993-2-00-00.29 |
