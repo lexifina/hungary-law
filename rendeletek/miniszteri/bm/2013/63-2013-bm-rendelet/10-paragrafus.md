@@ -6,7 +6,7 @@ a) bíróság,
 
 b) ügyészség,
 
-c) az ORFK Bűnügyi Főigazgatóság Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK),
+c)[^10] a NEBEK,
 
 d) járási hivatal
 
@@ -15,3 +15,5 @@ rendelte el.
 (3) Ha a körözést az idegenrendészeti hatóság rendelte el, úgy az átkísérést az idegenrendészeti hatóság megkeresésére közreműködő rendőrkapitányság hajtja végre.
 
 (4) Ha a körözött személy ellen elfogatóparancs van hatályban, akkor az őrizetbe vételét az előállítás helye szerinti rendőrkapitányság végzi.
+
+[^10]: A 10. § (2) bekezdés c) pontja a 74/2015. (XII. 21.) BM rendelet 6. §-ával megállapított szöveg.

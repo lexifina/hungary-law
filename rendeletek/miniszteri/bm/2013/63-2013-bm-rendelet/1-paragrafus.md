@@ -6,6 +6,8 @@
 
 (3) Az adatrögzítő szerv – a (2) bekezdés szerinti összekapcsolás megvalósításáig – az adatrögzítést az erre a célra kialakított, a körözési nyilvántartási rendszer távoli elérését biztosító alkalmazás útján teljesíti.
 
-(4) Ha az adatok rögzítésének technikai vagy informatikai akadálya van, az adatrögzítő szerv a Körtv. 3–6. §-ában meghatározott adatokat a nyilvántartó honlapjáról letölthető adatlap kitöltésével és adattartalmának, valamint az aláírt és bélyegzővel ellátott körözést elrendelő irat PDF formátumú elektronikus példányának megküldésével továbbítja a nyilvántartónak.
+(4)[^1] Ha az adatok rögzítésének technikai vagy informatikai akadálya van, az adatrögzítő szerv a Körtv. 3–6. §-ában meghatározott adatokat az aláírt és bélyegzővel ellátott körözést elrendelő irat PDF formátumú elektronikus példányának megküldésével továbbítja a nyilvántartónak.
 
 (5) A nyilvántartó a (4) bekezdés szerint megküldött adatlapon szereplő adatokat a beérkezést követően haladéktalanul rögzíti és értesíti az adatrögzítő szervet a bejegyzés megtörténtéről.
+
+[^1]: Az 1. § (4) bekezdése a 74/2015. (XII. 21.) BM rendelet 8. §-a szerint módosított szöveg.
