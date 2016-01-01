@@ -5,11 +5,3 @@ a) a műszaki szabványok és szabályok, valamint az információs társadalom 
 b) a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelv 16. cikk (1) és (2) bekezdése
 
 szerinti bejelentése megtörtént.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
