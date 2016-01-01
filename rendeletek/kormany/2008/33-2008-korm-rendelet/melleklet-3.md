@@ -20,7 +20,7 @@
 
 | 9. |  |  |  |
 
-| 10. | Építésügyi igazgatási szakértői tevékenység, az Etv. IX. fejezetének hatálya alátartozó szabályozott szakmák kivételével | 2. § (6) bekezdés b) pontja szerint | 2. § (6) bekezdés b) pontja szerint |
+| 10. |  |  |  |
 
 | 11. | Felvonó- és mozgólépcső ellenőri tevékenység | Budapesti és Pest Megyei Mérnöki Kamara | Magyar Mérnöki Kamara |
 
@@ -30,6 +30,6 @@
 
 | 13. | Ebek viselkedésének megítélésében jártas szakértő | Nemzeti Élelmiszerlánc-biztonsági Hivatal | élelmiszerlánc-felügyeletért felelős miniszter |
 
-3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^35]
+3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^42]
 
-[^35]: A 3. számú mellékletet a 351/2010. (XII. 30.) Korm. rendelet 205. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § k) pontja.
+[^42]: A 3. számú mellékletet újonnan a 198/2015. (VII. 23.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.

@@ -10,7 +10,7 @@
 
 | 4. | Területrendezési tervezési tevékenység | 2. § (5) bekezdés b) pont szerint |
 
-| 5. | Beruházáslebonyolítói tevékenység | 2. § (5) bekezdése szerint |
+| 5. |  |  |
 
 | 6. | Energetikai tanúsítói tevékenység | 2. § (5) bekezdése szerint |
 
@@ -62,13 +62,13 @@
 
 | 30. | Belső ellenőr | adópolitikáért felelős miniszter |
 
-| 31. | Társasházkezelő | társasházkezelő és ingatlankezelő szolgáltató lakóhelye (székhelye) – működési területe – szerint illetékes járási hivatal |
+| 31. | Társasházkezelő | az ingatlan fekvése szerint illetékes járási hivatal |
 
-| 32. | Ingatlankezelő | társasházkezelő és ingatlankezelő szolgáltató lakóhelye (székhelye) – működési területe – szerint illetékes járási hivatal |
+| 32. | Ingatlankezelő | az ingatlan fekvése szerint illetékes járási hivatal |
 
-| 33. | Ingatlanközvetítői tevékenység | az ingatlanközvetítői, illetőleg ingatlanvagyon-értékelő és közvetítő szolgáltató (lakóhelye) székhelye – működési területe – szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
+| 33. | Ingatlanközvetítői tevékenység | az ingatlan fekvése szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
 
-| 34. | Ingatlanvagyon-értékelő és közvetítő | az ingatlanközvetítői, illetőleg ingatlanvagyon-értékelő és közvetítő szolgáltató (lakóhelye) székhelye – működési területe – szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
+| 34. | Ingatlanvagyon-értékelő és közvetítő | az ingatlan fekvése szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
 
 | 35. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások nyújtására irányuló tevékenység az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák esetén | Egészségügyi Nyilvántartási és Képzési Központ |
 
@@ -76,6 +76,6 @@
 
 | 37. | Energetikai auditor | Magyar Energetikai és Közmű-szabályozási Hivatal |
 
-2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^34]
+2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^41]
 
-[^34]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § h) pontja, a 70/2015. (III. 30.) Korm. rendelet 118. §-a szerint módosított szöveg.
+[^41]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § h) pontja, a 70/2015. (III. 30.) Korm. rendelet 118. §-a, a 345/2015. (XI. 19.) Korm. rendelet 5. § 5. pontja szerint módosított szöveg.

@@ -12,19 +12,19 @@ d) a területfejlesztésért felelős miniszter hatáskörébe tartozó szabály
 
 e) a területfejlesztésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a mérnöki kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-f)[^5] a településrendezésért felelős miniszter és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi mérnöki kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, energetikai tanúsítói, beruházáslebonyolítói tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
+f)[^5] a településrendezésért felelős miniszter és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi mérnöki kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, energetikai tanúsítói tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-g)[^6] a településrendezésért felelős miniszter és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői, építésügyi igazgatási szakértői tevékenység, energetikai tanúsítói, beruházáslebonyolítói tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
+g)[^6] a településrendezésért felelős miniszter és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői tevékenység, energetikai tanúsítói tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
-h) az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén a felvonó- és mozgólépcső karbantartó-szerelői, valamint felvonó- és mozgólépcső ellenőri tevékenység esetén első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
+h)[^7] az iparügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén a felvonó- és mozgólépcső karbantartó-szerelői, valamint felvonó- és mozgólépcső ellenőri tevékenység esetén első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
 i) a katasztrófák elleni védekezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében katasztrófavédelem, tűzvédelem, valamint polgári védelem szakterületen első fokon az Országos Katasztrófavédelmi Főigazgatóságot,
 
-j)[^7] a településfejlesztésért felelős miniszter és a településrendezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
+j)[^8] a településfejlesztésért felelős miniszter és a településrendezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
 k) a területrendezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a mérnöki kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-l)[^8] a környezetvédelemért felelős miniszter és a természetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget, másodfokon a környezetvédelemért felelős miniszter és a természetvédelemért felelős minisztert,
+l)[^9] a környezetvédelemért felelős miniszter és a természetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget, másodfokon a környezetvédelemért felelős miniszter és a természetvédelemért felelős minisztert,
 
 m) a közlekedésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében:
 
@@ -38,21 +38,21 @@ másodfokon a Nemzeti Közlekedési Hatóság Központját,
 
 n) a postaügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét,
 
-o)[^9] az elektronikus hírközlésért felelős miniszter, illetve az informatikáért miniszter hatáskörébe tartozó szabályozott szakmák esetében informatikai és elektronikus hírközlési szakterületen első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét,
+o)[^10] az elektronikus hírközlésért felelős miniszter, illetve az informatikáért miniszter hatáskörébe tartozó szabályozott szakmák esetében informatikai és elektronikus hírközlési szakterületen első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét,
 
 p) az ügyvédi és ügyvédjelölti képesítések esetében első fokon a Budapesti Ügyvédi Kamarát, másodfokon a Magyar Ügyvédi Kamarát,
 
-q)[^10] a vízgazdálkodásért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Vízügyi Hatóságot, másodfokon a vízgazdálkodásért felelős minisztert,
+q)[^11] a vízgazdálkodásért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Vízügyi Hatóságot, másodfokon a vízgazdálkodásért felelős minisztert,
 
-r)[^11] energetikai auditor képesítések esetén a Magyar Energetikai és Közmű-szabályozási Hivatalt
+r)[^12] energetikai auditor képesítések esetén a Magyar Energetikai és Közmű-szabályozási Hivatalt
 
 ## jelöli ki.
 
 (3) A Kormány az Etv. IV. fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák tekintetében, amelyek esetében a szakmai és vizsgakövetelmények meghatározása
 
-a)[^12] az egészségügyért felelős miniszter hatáskörébe tartozik, első fokon az Egészségügyi Nyilvántartási és Képzési Központot, másodfokon az Országos Tisztifőorvosi Hivatalt,
+a)[^13] az egészségügyért felelős miniszter hatáskörébe tartozik, első fokon az Egészségügyi Nyilvántartási és Képzési Központot, másodfokon az Országos Tisztifőorvosi Hivatalt,
 
-b)[^13] a szakképzésért és felnőttképzésért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Hivatalt, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
+b)[^14] a szakképzésért és felnőttképzésért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Hivatalt, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
 
 c) a közlekedésért felelős miniszter hatáskörébe tartozik
 
@@ -66,9 +66,9 @@ másodfokon a Nemzeti Közlekedési Hatóság Központját,
 
 d) a postaügyért felelős miniszter hatáskörébe tartozik első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét,
 
-e)[^14] a kereskedelemért felelős miniszter és az iparügyekért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Intézetet, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
+e)[^15] a kereskedelemért felelős miniszter és az iparügyekért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Intézetet, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
 
-f)[^15] az elektronikus hírközlésért felelős miniszter, illetve az informatikáért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét
+f)[^16] az elektronikus hírközlésért felelős miniszter, illetve az informatikáért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét
 
 jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként.
 
@@ -76,7 +76,7 @@ jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős
 
 (5) A Kormány eljáró hatóságként
 
-a)[^16] az Etv. 60/A–60/C. §-a szerinti eljárásokban a (2) bekezdés a) pontja, valamint a (3) bekezdés a) pontja alapján elismerendő szakmák tekintetében első fokon az Egészségügyi Nyilvántartási és Képzési Központot, másodfokon az Országos Tisztifőorvosi Hivatalt,
+a)[^17] az Etv. 60/A–60/C. §-a szerinti eljárásokban a (2) bekezdés a) pontja, valamint a (3) bekezdés a) pontja alapján elismerendő szakmák tekintetében első fokon az Egészségügyi Nyilvántartási és Képzési Központot, másodfokon az Országos Tisztifőorvosi Hivatalt,
 
 b) az Etv. 60/B. §-a szerinti eljárásokban okleveles építészmérnök és okleveles építész tervező művész szakképzettség esetén első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
@@ -88,15 +88,16 @@ c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti elj�
 [^2]: Az 1. § (2) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés b) pontja a 318/2014. (XII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § a) pontja, a 318/2014. (XII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^5]: Az 1. § (2) bekezdés f) pontja a 314/2012. (XI. 8.) Korm. rendelet 59. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § c) pontja szerint módosított szöveg.
-[^6]: Az 1. § (2) bekezdés g) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § c) pontja szerint módosított szöveg.
-[^7]: Az 1. § (2) bekezdés j) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § d) pontja szerint módosított szöveg.
-[^8]: Az 1. § (2) bekezdés l) pontja az 527/2013. (XII. 30.) Korm. rendelet 59. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 420. § e) pontja szerint módosított szöveg.
-[^9]: Az 1. § (2) bekezdés o) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § f) pontja szerint módosított szöveg.
-[^10]: Az 1. § (2) bekezdés q) pontját az 527/2013. (XII. 30.) Korm. rendelet 59. § (2) bekezdése iktatta be.
-[^11]: Az 1. § (2) bekezdés r) pontját a 122/2015. (V. 26.) Korm. rendelet 37. §-a iktatta be.
-[^12]: Az 1. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
-[^13]: Az 1. § (3) bekezdés b) pontja a 318/2014. (XII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^14]: Az 1. § (3) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § b) pontja szerint módosított szöveg.
-[^15]: Az 1. § (3) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § f) pontja szerint módosított szöveg.
-[^16]: Az 1. § (5) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdés f) pontja a 314/2012. (XI. 8.) Korm. rendelet 59. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § c) pontja, a 345/2015. (XI. 19.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdés g) pontja a 395/2015. (XII. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^7]: Az 1. § (2) bekezdés h) pontja a 345/2015. (XI. 19.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
+[^8]: Az 1. § (2) bekezdés j) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § d) pontja szerint módosított szöveg.
+[^9]: Az 1. § (2) bekezdés l) pontja az 527/2013. (XII. 30.) Korm. rendelet 59. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 420. § e) pontja szerint módosított szöveg.
+[^10]: Az 1. § (2) bekezdés o) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § f) pontja szerint módosított szöveg.
+[^11]: Az 1. § (2) bekezdés q) pontját az 527/2013. (XII. 30.) Korm. rendelet 59. § (2) bekezdése iktatta be.
+[^12]: Az 1. § (2) bekezdés r) pontját a 122/2015. (V. 26.) Korm. rendelet 37. §-a iktatta be.
+[^13]: Az 1. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^14]: Az 1. § (3) bekezdés b) pontja a 318/2014. (XII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^15]: Az 1. § (3) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § b) pontja szerint módosított szöveg.
+[^16]: Az 1. § (3) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § f) pontja szerint módosított szöveg.
+[^17]: Az 1. § (5) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
