@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-71-20-2
 | 2015-04-02 | 2015-71-20-22.2 | 2010: CXXX. törvény |
 | 2015-06-13 | 2015-71-20-22.3 | 2010: CXXX. törvény |
 | 2015-07-01 | 2015-71-20-22.4 | 147/2015. (VI. 12.) Korm. rendelet |
+| 2016-01-01 | 2015-71-20-22.5 | 441/2015. (XII. 28.) Korm. rendelet |
