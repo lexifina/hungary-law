@@ -12,4 +12,6 @@ d) az okmánytárból;
 
 e) a parkolási igazolvány nyilvántartásból;
 
-f) az előzetes eredetiségvizsgálati nyilvántartásból.
+f) az előzetes eredetiségvizsgálati nyilvántartásból;
+
+g) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásából.

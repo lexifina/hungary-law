@@ -12,7 +12,7 @@ d) a tulajdonos (üzembentartó) bejelentése alapján a 9. § (1) bekezdésébe
 
 (2) A nyilvántartót értesíti:
 
-a) a járműokmányt kiadó, érvényesítő, cserélő, visszavonó, visszaadó, a járműokmányba bejegyzést tevő hatóság a jogerős határozatáról, a járműokmány adatairól, illetve az adatváltozásról;
+a) a járműokmányt kiadó, érvényesítő, cserélő, visszavonó, visszaadó, a járműokmányba bejegyzést tevő hatóság a jogerős határozatáról, a járműokmány adatairól vagy az adatváltozásról;
 
 b) a személyiadat- és lakcímnyilvántartás szerve a polgár nyilvántartásba bejegyzett adatai megváltozásáról, illetve elhalálozásának idejéről;
 
@@ -20,6 +20,16 @@ c) a jogszabályban meghatározott hatóság a 8. § (1) bekezdés h) pontjában
 
 d) a parkolási igazolványt kiállító hatóság a 8/A. §-ban meghatározott adatokról;
 
-e) a közlekedési hatóság a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ad) és ae) pontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó, továbbá k) és l) pontjában, valamint a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a járműhonosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól;
+e) a közlekedési hatóság elektronikus úton
 
-f) a biztosító a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól.
+ea) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
+
+eb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
+
+ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
+
+ed) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről;
+
+f) a biztosító a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
+
+g) a díjmentes úthasználatra jogosult az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatairól, valamint – a változástól számított 30 napon belül – azok változásáról.

@@ -31,3 +31,5 @@
 14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
 
 15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági nyilvántartás.
+
+16. Útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, valamint az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett nyilvántartás.

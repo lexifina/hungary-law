@@ -38,7 +38,7 @@ n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség t
 
 o) a Központi Statisztikai Hivatal törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat;
 
-p) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1)–(1a) bekezdésében, (2) bekezdés a)–b), d)–e) pontjában, (3) bekezdésében foglalt adatokat;
+p) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjfizetés ellenében történő használatának ellenőrzésére, valamint a díjszedésre jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, (3) bekezdésében és a 9/C. §-ban foglalt adatokat;
 
 q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (3)–(4) bekezdése szerinti adatokat;
 
@@ -52,6 +52,8 @@ u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogos
 
 v) a környezetvédelmi és természetvédelmi hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésben megjelölt adatokat;
 
+w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
+
 z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1), (1a) és (3) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.
 
 (2) A nyilvántartásból adatot igényelhetnek:
@@ -62,8 +64,14 @@ aa) a szabálysértési ügyekben eljáró hatóság a szabálysértési eljár�
 
 ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti közlekedési ellenőrzéssel kapcsolatos feladataik ellátásához;
 
-b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével.
+b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével;
+
+c) a közlekedési hatóság a 9/A–9/C. §-ban meghatározott nyilvántartási adatok kivételével
+
+ca) a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatai ellátásához a 8. §-ban meghatározott adatokat,
+
+cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapcsolatos feladataik ellátásához a 9. §-ban meghatározott adatokat.
 
 (3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
 
-(4) A Rendőrség az útdíjköteles elemi útszakaszok díjmentes használatára való jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett gépjármű rendszámadata alapján történő lekérdezéssel jogosult a járműnyilvántartás 9. § (1) bekezdés szerinti adatait megismerni.
+(4)
