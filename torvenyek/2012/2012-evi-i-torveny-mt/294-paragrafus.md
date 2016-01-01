@@ -48,7 +48,7 @@ j) levonásmentes munkabérrész: a bírósági végrehajtásról szóló jogsza
 
 k) három vagy több gyermeket nevelő munkavállaló: aki, a családok támogatásáról szóló törvény szerint szülőként legalább három gyermekre tekintettel
 
-ka) családi pótlékra jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesül, vagy
+ka) családi pótlékra jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesült vagy részesül, vagy
 
 kb) gyermeknevelési támogatásban részesült vagy részesül.
 
