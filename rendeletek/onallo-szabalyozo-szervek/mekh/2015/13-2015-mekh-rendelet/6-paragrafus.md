@@ -1,0 +1,1 @@
+## „(6) A 9. § (4) bekezdés a)–c) és e) pontjában meghatározott díjfizetésre kötelezett, amennyiben kereskedési platform tagsággal nem rendelkezik, 0,1624 Ft/kWh kiegyensúlyozási pótdíjat köteles fizetni a kiegyensúlyozási szolgáltatást nyújtó szállítási rendszerüzemeltetőnek az ÜKSZ-ben meghatározott esetekben és feltételek szerint.”
