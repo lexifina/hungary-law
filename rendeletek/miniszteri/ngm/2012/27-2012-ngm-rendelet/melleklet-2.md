@@ -5464,4 +5464,4 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
-[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a, a 29/2015. (X. 21.) NGM rendelet 3. §-a szerint módosított szöveg.
