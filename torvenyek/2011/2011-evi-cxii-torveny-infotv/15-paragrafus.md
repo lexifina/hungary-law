@@ -8,6 +8,6 @@
 
 (3) Az (1a) és a (2) bekezdés szerinti adatok nyilvántartásban való megőrzésére irányuló – és ennek alapján a tájékoztatási – kötelezettség időtartamát az adatkezelést előíró jogszabály korlátozhatja. E korlátozás körében személyes adatok esetében öt évnél, különleges adatok esetében pedig húsz évnél rövidebb időtartam nem állapítható meg.
 
-(4) Az adatkezelő köteles a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 30 napon belül, közérthető formában, az érintett erre irányuló kérelmére írásban megadni a tájékoztatást.
+(4) Az adatkezelő köteles a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 25 napon belül, közérthető formában, az érintett erre irányuló kérelmére írásban megadni a tájékoztatást.
 
 (5) A (4) bekezdésben foglalt tájékoztatás ingyenes, ha a tájékoztatást kérő a folyó évben azonos adatkörre vonatkozóan tájékoztatási kérelmet az adatkezelőhöz még nem nyújtott be. Egyéb esetekben költségtérítés állapítható meg. A költségtérítés mértékét a felek között létrejött szerződés is rögzítheti. A már megfizetett költségtérítést vissza kell téríteni, ha az adatokat jogellenesen kezelték, vagy a tájékoztatás kérése helyesbítéshez vezetett.

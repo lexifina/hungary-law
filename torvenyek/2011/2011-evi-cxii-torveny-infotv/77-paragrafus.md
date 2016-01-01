@@ -8,4 +8,6 @@ c) a közszféra információinak további felhasználásáról szóló, 2003. n
 
 d) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározatnak
 
+e) a közszféra információinak további felhasználásáról szóló 2003/98/EK irányelv módosításáról szóló, 2013. június 26-i 2013/37/EU európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.

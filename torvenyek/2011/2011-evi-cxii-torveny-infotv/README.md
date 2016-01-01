@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-112-00-00
 | 2015-02-01 | 2014. évi CIX. törvény | 2011-112-00-00.16 |
 | 2015-07-16 | 2015. évi CXXIX. törvény | 2011-112-00-00.17 |
 | 2015-10-01 | 2015. évi CXXIX. törvény | 2011-112-00-00.18 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 2011-112-00-00.19 |
