@@ -1,0 +1,1 @@
+## 34. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 1. melléklet I. pont 15. alpontjában az „annak elnöke” szövegrész helyébe az „az állami adó- és vámhatóság vezetője” szöveg lép.
