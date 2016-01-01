@@ -2,7 +2,7 @@
 
 a)
 
-b)
+b) 79. § (3) bekezdés b) pont bh) alpontja,
 
 c)–e)
 

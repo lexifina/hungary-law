@@ -1,1 +1,7 @@
-195. §
+195. § A Hpt. 27. alcíme a következő 67/A. §-sal egészül ki:
+
+„67/A. § (1) A pénzügyi szolgáltatói tevékenység – a kiegészítő pénzügyi szolgáltatás kivételével – végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a hitelintézetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
+
+(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel és a tanúsítással szemben támasztott követelményeket külön jogszabály határozza meg.
+
+(3) A (2) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a hitelintézet informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a hitelintézet folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a hitelintézet belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.”

@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-85-00-00
 | 2015-07-08 | 2010. évi CXXX. törvény | 2015-85-00-00.5 |
 | 2015-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-85-00-00.6 |
 | 2015-09-02 | 2010. évi CXXX. törvény | 2015-85-00-00.7 |
+| 2016-01-01 | 2015. évi CCXV. törvény | 2015-85-00-00.8 |

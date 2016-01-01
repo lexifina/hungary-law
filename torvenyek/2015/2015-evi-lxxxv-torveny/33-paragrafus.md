@@ -1,0 +1,3 @@
+33. § A Tpt. 355. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Befektetési vállalkozás, tőzsde részvénykönyve mellékleteként nyilván kell tartani a legalább öt százalékot elérő tulajdonos által a befektetési vállalkozásban, tőzsdében fennálló közvetett tulajdonának azonosításra alkalmas adatait is. A befektetési vállalkozásban, tőzsdében ötszázalékos vagy ezt meghaladó tulajdoni hányaddal rendelkező, illetve ilyen hányadot megszerző tulajdonos a befektetési vállalkozásban, tőzsdében birtokolt közvetett tulajdonát, illetve annak változását – az azonosításra alkalmas adatok egyidejű közlésével – köteles a befektetési vállalkozásnak, a tőzsdének bejelenteni.”
