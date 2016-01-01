@@ -1,3 +1,3 @@
-30/B. §[^50] Az útügyi hatóság szakhatósági ügyintézésének határideje 22 munkanap.
+30/B. §[^50]
 
-[^50]: Az R. 30/B. §-t a 227/2005. (X. 13.) Korm. rendelet 16. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 10. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^50]: Az R. 30/B. §-t a 227/2005. (X. 13.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 1. § b) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

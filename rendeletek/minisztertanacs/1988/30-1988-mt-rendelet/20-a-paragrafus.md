@@ -1,3 +1,3 @@
-20/A. §[^28] Az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló külön jogszabályban meghatározott engedélyezési eljárásokban az ügyfél részére tíz munkanapon belül kell hiánypótlási felhívást kibocsátani.
+20/A. §[^28]
 
-[^28]: Az R. 20/A. §-át a 227/2005. (X. 13.) Korm. rendelet 15. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 10. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: Az R. 20/A. §-át a 227/2005. (X. 13.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 1. § a) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
