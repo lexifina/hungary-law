@@ -2,7 +2,7 @@
 
 a) a szakképzési hozzájárulás alapját és az éves bruttó kötelezettségét,
 
-b) a 8. § (1) bekezdése szerinti csökkentő tétel és az 5. § e) pontja szerinti levonás éves összegét,
+b) a 8. § (1) és (1a) bekezdése szerinti csökkentő tétel és az 5. § e) pontja szerinti levonás éves összegét,
 
 c) az éves bruttó kötelezettség és a b) pont szerinti összeg különbözeteként megállapított éves nettó kötelezettségét
 
@@ -10,7 +10,7 @@ maga állapítja meg, elektronikus úton vallja be és fizeti meg a tárgyévet 
 
 (2) A hozzájárulásra kötelezett az év 1–11. hónapjára vonatkozóan havonta szakképzési hozzájárulási előleget fizet.
 
-(3) Az előleg mértéke a tárgyhavi bruttó kötelezettség, azzal, hogy a 8. § (1) bekezdése szerinti csökkentő tétel és az 5. § e) pontja szerinti, pénzügyileg teljesített költségek levonása időarányosan az előleg befizetésénél figyelembe vehető és a 8. § (2) bekezdésében foglalt feltétel teljesülése esetén visszaigényelhető.
+(3) Az előleg mértéke a tárgyhavi bruttó kötelezettség azzal, hogy a 8. § (1) bekezdése és az (1a) bekezdés b) pontja szerinti csökkentő tétel, valamint az 5. § e) pontja szerinti pénzügyileg teljesített időarányos költség az előleg befizetésénél figyelembe vehető és a 8. § (2) és (2c) bekezdésében foglalt feltétel teljesülése esetén visszaigényelhető.
 
 (4) Az előleg összegét havonta a hozzájárulásra kötelezett maga állapítja meg, elektronikus úton vallja be és fizeti meg a tárgyhót követő hónap 12. napjáig az állami adóhatóság által vezetett számlára, vagy visszaigényli a (3) bekezdés szerinti összeget.
 

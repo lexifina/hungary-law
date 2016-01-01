@@ -14,7 +14,9 @@ e) közjegyzői iroda,
 
 f) a személyi jövedelemadóról szóló törvényben meghatározott egyéni vállalkozó,
 
-g) egyéni cég.
+g) egyéni cég,
+
+h) a szakképzésről szóló törvény 43. § (2) bekezdés a) és c) pontjában meghatározott, tanulószerződés alapján gyakorlati képzést folytató egyéb szervezet (a továbbiakban: Szt. szerinti egyéb szervezet), ha az állami adóhatóságnak az erre a célra rendszeresített nyomtatványon bejelenti, hogy a szakképzési hozzájárulást az 5. § a) pont ab) alpontja szerint teljesíti, a választás bejelentését követő hónap első napjától.
 
 (2) Szakképzési hozzájárulásra kötelezett a belföldön vállalkozási tevékenységet folytató, külföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet is, ha belföldön telephellyel, fiókteleppel rendelkezik [az (1) és (2) bekezdésben foglaltak a továbbiakban együtt: hozzájárulásra kötelezett].
 
@@ -32,4 +34,6 @@ c) az egyéni vállalkozó a szociális hozzájárulási adóalapja után, ide n
 
 d) az egyéni cég, végrehajtó iroda, szabadalmi ügyvivő iroda, ügyvédi iroda, közjegyzői iroda tevékenységében a személyesen közreműködő tag a szociális hozzájárulási adóalapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő szociális hozzájárulási adó alapját, valamint
 
-e) a közhasznú nonprofit gazdasági társaság a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenység ellátásával összefüggésben a társaságot terhelő szociális hozzájárulási adó alapja után.
+e) a közhasznú nonprofit gazdasági társaság a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenység ellátásával összefüggésben a társaságot terhelő szociális hozzájárulási adó alapja után,
+
+f) az Szt. szerinti egyéb szervezet a szociális hozzájárulási adóalapja után.

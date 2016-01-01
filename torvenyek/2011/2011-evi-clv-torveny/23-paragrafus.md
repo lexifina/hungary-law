@@ -6,9 +6,9 @@
 
 23. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a 8. § (1) bekezdése szerinti gyakorlati képzési normatívák mértékét és a csökkentő tétel számításának szabályait,
+a) a 8. § (1) és (1a) bekezdése szerinti gyakorlati képzési normatívák mértékét, az alap és a kiegészítő csökkentő tétel számításának szabályait, valamint az elszámolhatóság feltételeit,
 
-b) a szakiskolai tanulmányi ösztöndíjjal, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésével, valamint az ösztöndíjban részesülő és tanulási nehézségekkel küzdő tanulók felzárkóztató oktatását végző tanárok díjazásával kapcsolatos szabályokat,
+b) a Szabóky Adolf szakképzési ösztöndíjra, az ösztöndíjban részesíthetők körére, az ösztöndíj mértékére, feltételeire, folyósítására, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésére, valamint az ösztöndíjban részesülő és tanulási nehézségekkel küzdő tanulók felzárkóztató oktatását végző tanárok díjazására, az elszámolásra és az ellenőrzésre vonatkozó szabályokat,
 
 c)
 

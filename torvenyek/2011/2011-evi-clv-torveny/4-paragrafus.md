@@ -12,9 +12,9 @@ a) a pályakezdő munkavállalók után az egyes adótörvények és azzal össz
 
 b) a tartósan álláskereső személyek után az Eat. 462/C. § (2) bekezdése szerint,
 
-c) a gyermekgondozási díj, a gyermekgondozási segély vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (2) bekezdése szerint,
+c) a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (2) bekezdése szerint,
 
-d) a gyermekgondozási díj, a gyermekgondozási segély vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (3) bekezdése szerint, vagy
+d) a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (3) bekezdése szerint, vagy
 
 e) a szabad vállalkozási zónában működő vállalkozás által foglalkoztatott új munkavállalók után az Eat. 462/E. § szerint
 
