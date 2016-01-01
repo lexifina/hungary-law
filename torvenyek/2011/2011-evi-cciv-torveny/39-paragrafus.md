@@ -12,7 +12,7 @@
 
 a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyeket,
 
-b) az a) pont hatálya alá nem tartozó, Magyarország területén élő hontalant, menekültet, menedékest, befogadottat, bevándoroltat, letelepedettet,
+b) az a) pont hatálya alá nem tartozó, Magyarország területén élő hontalant, menekültet, oltalmazottat, menedékest, befogadottat, bevándoroltat, letelepedettet,
 
 c) nemzetközi megállapodás alapján a magyar állampolgárokkal azonos elbírálás alá eső külföldit,
 

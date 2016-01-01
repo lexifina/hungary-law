@@ -10,4 +10,6 @@
 
 (5) Az állam köteles biztosítani, hogy minden képzési területen legyen magyar nyelvű képzés. A felsőoktatási intézményben a képzés – részben vagy egészben – nem magyar nyelven is folyhat. A nemzetiséghez tartozó hallgató – az e törvényben meghatározottak szerint – anyanyelvén vagy magyar nyelven, illetőleg anyanyelvén és magyarul is folytathatja tanulmányait.
 
+(5a) A felsőoktatási intézmény az alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárul a térsége társadalmi és gazdasági fejlődéséhez.
+
 (6) A felsőoktatási intézmény jogszabályban előírt nyilvántartásokat köteles vezetni, és köteles szolgáltatni az országos statisztikai adatgyűjtési programban, valamint a felsőoktatási információs rendszerben meghatározott adatokat.

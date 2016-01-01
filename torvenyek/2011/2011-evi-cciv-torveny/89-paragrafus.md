@@ -4,7 +4,7 @@
 
 a) látja el fejlesztési feladatait,
 
-b) a rendelkezésére bocsátott nemzeti vagyonnal az Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) előzetes hozzájárulásával beruházást indíthat és részt vehet beruházás közös megvalósításában.
+b)
 
 (2) Az állami felsőoktatási intézmény a vagyonkezelésében lévő állami vagyon tulajdonjogát saját hatáskörben, a magyar állam nevében eljárva átruházhatja, ami
 
@@ -22,6 +22,6 @@ történhet.
 
 (3) Az átruházásról szóló kérelmet a felsőoktatási intézmény részletesen indokolja. Az állami vagyon felügyeletéért felelős miniszter hozzájárulásáról az átruházási szándék írásbeli bejelentésétől számított hatvan napon belül dönt. A hozzájárulás száznyolcvan napig érvényes.
 
-(4) Az állami vagyon felügyeletéért felelős miniszter döntéséhez – amennyiben az értékesíteni kívánt vagyon ingatlan – kikéri a MNV Zrt. tájékoztatását abban a tekintetben, hogy az ingatlan szükséges-e valamely állami szerv, költségvetési szerv elhelyezésére vonatkozó, az állami vagyon felügyeletéért felelős miniszter hozzájárulása iránti kérelem beérkezésekor a Magyar Nemzeti Vagyonkezelő Zrt.-hez már bejelentett igényének kielégítéséhez. A felsőoktatási intézmény az állami vagyon felügyeletéért felelős miniszter döntése szerint, a döntéstől számított hatvan napon belül az elhelyezési igény kielégítése érdekében az ingatlanra vonatkozó vagyonkezelési szerződését megszünteti, és az ingatlant átadja az MNV Zrt.-nek.
+(4) Az állami vagyon felügyeletéért felelős miniszter döntéséhez – amennyiben az értékesíteni kívánt vagyon ingatlan – kikéri a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) tájékoztatását abban a tekintetben, hogy az ingatlan szükséges-e valamely állami szerv, költségvetési szerv elhelyezésére vonatkozó, az állami vagyon felügyeletéért felelős miniszter hozzájárulása iránti kérelem beérkezésekor a MNV Zrt.-hez már bejelentett igényének kielégítéséhez. A felsőoktatási intézmény az állami vagyon felügyeletéért felelős miniszter döntése szerint, a döntéstől számított hatvan napon belül az elhelyezési igény kielégítése érdekében az ingatlanra vonatkozó vagyonkezelési szerződését megszünteti, és az ingatlant átadja az MNV Zrt.-nek.
 
 (5) Az átruházási eljárás befejezését követő harminc napon belül az intézmény a nyilvántartásba vétel és elszámolás végett megküldi a szerződést, illetve az eljárás során keletkezett iratokat az állami vagyon felügyeletéért felelős miniszter és tájékoztatásul a miniszter részére. A (2) és (3) bekezdésében foglalt rendelkezések megsértésével kötött szerződés semmis.

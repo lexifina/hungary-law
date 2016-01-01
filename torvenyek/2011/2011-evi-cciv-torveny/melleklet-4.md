@@ -94,7 +94,7 @@
 
 ## bk) a hallgató azonosító száma, társadalombiztosítási azonosító jele,
 
-## bl) a szakmai gyakorlat teljesítésére, az abszolutóriumra, a záróvizsgára (doktori védésre), a nyelvvizsgára, valamint az oklevélre vonatkozó adatok,
+## bl) a szakmai gyakorlat teljesítésére, az abszolutóriumra, a záróvizsgára (doktori védésre), a nyelvvizsgára, valamint az oklevélre, oklevélmellékletre vonatkozó adatok,
 
 ## bm) a hallgatói jogviszonyból adódó jogok és kötelezettségek teljesítéséhez szükséges adatok;
 
@@ -152,7 +152,7 @@
 
 ## ab) tisztségviselőinek – rektor, rektorhelyettes, kancellár, gazdasági vezető, belső ellenőrzés vezetője, dékán, gazdasági tanács elnöke és tagjai, a szenátus tagjai, a konzisztórium tagjai, kollégiumi vezető, szakkollégium képviselője – neve, értesítési címe, elérhetősége (telefon, e-mail),
 
-## ac) a felsőoktatási intézmény által – az alaptevékenysége körében – kötött hatályos együttműködési megállapodás,
+## ac)
 
 ## ad) a felsőfokú képzések szakfelelősének neve, oktatói azonosítója,
 
@@ -344,7 +344,7 @@
 
 ## 1. A felsőoktatás információs rendszeréből – törvény eltérő rendelkezésének hiányában – személyes adat csak az érintett kérése, illetve írásbeli hozzájárulása esetén, az érintett egyidejű értesítése mellett adható ki. A felsőoktatási információs rendszer keretében folyó adatkezelés jogszerűségéért a miniszter felelős. A felsőoktatási információs rendszerbe az érintett – saját adatai tekintetében – jogosult betekinteni. Az érintett a felsőoktatási információs rendszerben tárolt adatainak helyesbítését – a jogszabályban elrendelt adatkezelések kivételével –, törlését az adatot szolgáltató felsőoktatási intézménytől jogosult kérni. Az információs rendszerbe történő betekintés, az adatok felsőoktatási intézmény általi helyesbítése, törlése minden esetben ingyenes.
 
-## 2. A felsőoktatási információs rendszer működtetéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatairól, állampolgárságáról, a személyiadat- és lakcímnyilvántartásból kikerülés okáról és időpontjáról, és lakcíméről – azonosítás, ellenőrzés és hitelesítés céljából – térítésmentesen, elektronikus úton adatot igényelhet a személyiadat- és lakcímnyilvántartás központi szervétől. A felsőoktatási információs rendszer működéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatait, személyi igazolvány számát és lakcímét elektronikus úton megküldi a személyiadat- és lakcímnyilvántartás központi szervének. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartás központi szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a felsőoktatási információs rendszer működtetőjének. A személyiadat- és lakcímnyilvántartás központi szerve az azonosított természetes személy természetes személyazonosító adatainak, lakcímének, állampolgárságának a személyiadat- és lakcímnyilvántartásban bekövetkezett változásáról és a természetes személynek a személyiadat- és lakcímnyilvántartásból kikerülése okáról és időpontjára a kapcsolati kódon értesíti a felsőoktatási információs rendszer működéséért felelős szervet. A felsőoktatási információs rendszer működtetéséért felelős szerv a jelen pont szerint tudomására jutott adatokat – az e törvényben meghatározott ideig – tárolhatja, és felhasználhatja az érintett személyek és adatszolgáltató intézmények tájékoztatására.
+## 2. A felsőoktatási információs rendszer működtetéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatairól, állampolgárságáról, a személyiadat- és lakcímnyilvántartásból kikerülés okáról és időpontjáról, és lakcíméről – azonosítás, ellenőrzés és hitelesítés céljából – térítésmentesen, elektronikus úton vagy optikai adathordozón (a továbbiakban együtt: elektronikus úton) adatot igényelhet a személyiadat- és lakcímnyilvántartás központi szervétől. A felsőoktatási információs rendszer működéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatait, személyi igazolvány számát és lakcímét elektronikus úton megküldi a személyiadat- és lakcímnyilvántartás központi szervének. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartás központi szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a felsőoktatási információs rendszer működtetőjének. A személyiadat- és lakcímnyilvántartás központi szerve az azonosított természetes személy természetes személyazonosító adatainak, lakcímének, állampolgárságának a személyiadat- és lakcímnyilvántartásban bekövetkezett változásáról és a természetes személynek a személyiadat- és lakcímnyilvántartásból kikerülése okáról és időpontjáról a kapcsolati kódon értesíti a felsőoktatási információs rendszer működéséért felelős szervet. Ha a beazonosítás sikertelen, a két szerv további adategyeztetést végez. A felsőoktatási információs rendszer működtetéséért felelős szerv a kapcsolati kódon elektronikus úton a nyilvántartott személyek természetes személyazonosító adataira, állampolgárságára, a személyiadat- és lakcímnyilvántartásból kikerülés okára és időpontjára, és lakcímére nézve szükség esetén adatot igényelhet. A felsőoktatási információs rendszer működtetéséért felelős szerv a jelen pont szerint tudomására jutott adatokat – az e törvényben meghatározott ideig – tárolhatja, és felhasználhatja az érintett személyek és adatszolgáltató intézmények tájékoztatására.
 
 ## 3. A felsőoktatási információs rendszer működéséért felelős szerv annak, akit oktatói, kutatói, illetve tanári munkakörben foglalkoztatnak, oktatói azonosító számot ad ki. Az azonosító szám a tanári, az oktatói, illetve a kutatói munkakörben történő foglalkoztatás figyelemmel kísérésére szolgál. A felsőoktatási információs rendszer tartalmazza azoknak a nyilvántartását, akik azonosító számmal rendelkeznek, továbbá azokét, akik a 25. § (3) bekezdése szerint megbízási jogviszonyban oktatói feladatot látnak el. A nyilvántartásból személyes adat – az érintetten kívül – csak az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából továbbítható, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére. Az információs rendszerben adatot az érintett foglalkoztatásának megszűnésére vonatkozó bejelentéstől számított öt évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
@@ -352,11 +352,43 @@
 
 ## 5.
 
-## 6. A hallgató vagy a hallgató kérelmére a felsőoktatási intézmény diákigazolvány kiadását kezdeményezi a felsőoktatási információs rendszer működéséért felelős szervnél. A diákigazolvány elkészítéséről a felsőoktatási információs rendszer működéséért felelős szerv gondoskodik, amelyet adatfeldolgozó útján küld meg a jogosult részére.
+## 6. A hallgató vagy a hallgató kérelmére a felsőoktatási intézmény diákigazolvány kiadását kezdeményezi a felsőoktatási információs rendszer működéséért felelős szervnél. A felsőoktatási intézménynek a hallgató kérelmét a bejelentéstől számított nyolc napon belül kell továbbítania a felsőoktatási rendszer működéséért felelős szerv részére a szerv által meghatározott módon. A diákigazolvány elkészítéséről a felsőoktatási információs rendszer működéséért felelős szerv mint a diákigazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) szerinti kártyakibocsátója gondoskodik. A diákigazolvány előállításának határideje az igénylésnek a felsőoktatási információs rendszer működéséért felelős szervhez történő beérkezésétől számított negyvenöt nap.
 
-## 6.1. A diákigazolvány tartalmazza a diákigazolvány számát, a hallgató nevét, születési helyét és idejét, lakcímét, aláírását. A diákigazolvány tartalmazza továbbá a hallgató fényképét, azonosító számát, a felsőoktatási intézmény nevét, címét a diákigazolvány lejáratának időpontját, az érvényességre vonatkozó adatot, a diákigazolvány típusának megjelölését. A felsőoktatási információs rendszer működéséért felelős szerv a diákigazolvány elkészítése körében tudomására jutott személyes adatokat az igazolvány érvényességének megszűnését követő öt évig kezelheti.
+## A diákigazolvány a Nektv. 2. § 3. pontja szerinti kártya, amely közokirat. A diákigazolvány birtokosa az elektronikus kártyakibocsátó rendszerhez (a továbbiakban: NEK) kártyafelhasználóként csatlakozik. A NEK működtetője és a diákigazolvány megszemélyesítője a diákigazolvány kiállítása céljából kezeli a Nektv. 16. § (2) bekezdés a)–b) pontja szerinti adatokat, valamint a kártya kézbesítéséhez szükséges adatokat. A diákigazolvány kiadására irányuló kérelem a Nektv. 16. §-ában előírt adatokon túl tartalmazza:
 
-## 6.2. A diákigazolvány elkészítésére irányuló eljárásban – ha kormányrendelet eltérően nem rendelkezik –
+## a) azon legfeljebb két felsőoktatási intézmény rövidített nevét, székhelye vagy telephelye címének települését, amellyel a hallgató jogviszonyban áll,
+
+## b) a hallgató lakcímtípusát, amelyhez tartozó lakcím települése a diákigazolványon megjelenítésre kerül,
+
+## c) a hallgató azonosítószámát,
+
+## d) a hallgató képzésének munkarendjét, továbbá
+
+## e) az igazolvány kézbesítéséhez szükséges, a hallgató által megadott kézbesítési lakcímtípust vagy a kézbesítési címet.
+
+## A diákigazolványt a felsőoktatási információs rendszer működéséért felelős szerv a megszemélyesítő útján küldi meg a jogosult részére.
+
+## 6.1. A diákigazolvány a Nektv. 5. § (1) bekezdése és (2) bekezdés a) pont aa) alpontja szerinti adatokon túl az alábbi adatokat tartalmazza:
+
+## a) a hallgató azonosító számát,
+
+## b) azon legfeljebb két felsőoktatási intézmény rövidített nevét, székhelye vagy telephelye címének települését, amellyel a hallgató jogviszonyban áll,
+
+## c) a diákigazolvány kiállításának, lejáratának időpontját,
+
+## d) az érvényességre vonatkozó adatot és
+
+## e) a diákigazolvány típusának megjelölését.
+
+## A kizárólag külföldi lakcímmel rendelkező hallgatók esetében a diákigazolvány a „külföldi cím” feliratot tartalmazza.
+
+## A nem magyar oktatási intézménnyel hallgatói jogviszonyban álló hallgató diákigazolványa a „külföldi intézmény” megjelölést tartalmazza.
+
+## A felsőoktatási információs rendszer működéséért felelős szerv a diákigazolvány elkészítése körében tudomására jutott személyes adatokat az igazolvány érvényességének megszűnését követő öt évig kezelheti.
+
+## A diákigazolványhoz a Nektv. 2. §-a szerinti másodlagos kártya rendelhető.
+
+## 6.2. A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály eltérően nem rendelkezik –
 
 ## a) a hallgató vagy a felsőoktatási intézmény elektronikus úton terjeszti elő a diákigazolvány iránti kérelmet és tesz jogszabályban meghatározott más eljárási cselekményeket,
 
@@ -364,7 +396,7 @@
 
 ## 6.3. A diákigazolvány igénylésének szabályait kormányrendelet határozza meg.
 
-## 6.4. A felsőoktatási információ rendszer működéséért felelős szerv a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet.
+## 6.4. A felsőoktatási információs rendszer működéséért felelős szerv a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet.
 
 ## 7. A felsőoktatási információs rendszer működéséért felelős szerv kezelheti a felsőoktatási intézmények felvételi eljárásával összefüggő adatokat. A köznevelés információs rendszere szolgáltathatja a felsőoktatási információs rendszer működéséért felelős szerv részére a felvételi kérelmek elbírálásához szükséges érettségi adatokat. Ehhez kapcsolódóan megküldi a tanulói azonosító számot is. A felvételi eljárással kapcsolatos személyes és különleges adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – a felvételi jelentkezési lap benyújtásától számított egy évig lehet kezelni.
 

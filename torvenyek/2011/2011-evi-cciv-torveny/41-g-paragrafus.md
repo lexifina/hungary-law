@@ -1,4 +1,4 @@
-41/G. § (1) A besorolási döntéssel szemben a jelentkező a közléstől számított tizenöt napon belül fellebbezéssel élhet. A jogorvoslati kérelem elbírálására a felügyeleti szerv jogosult. A jogorvoslati kérelmet a felsőoktatási információs rendszer működéséért felelős szervnek elektronikus úton kell benyújtani.
+41/G. § (1) Az elsőfokú döntéssel szemben a jelentkező a közléstől számított tizenöt napon belül fellebbezéssel élhet. A jogorvoslati kérelem elbírálására a felügyeleti szerv jogosult. A jogorvoslati kérelmet a felsőoktatási információs rendszer működéséért felelős szervnek elektronikus vagy postai úton kell benyújtani.
 
 (2) A kérelmet harminc napon belül meg kell vizsgálni, szükség esetén meg kell kérni az érintett felsőoktatási intézmény állásfoglalását az abban foglaltakról.
 

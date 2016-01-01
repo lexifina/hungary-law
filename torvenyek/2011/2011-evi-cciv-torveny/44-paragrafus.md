@@ -2,7 +2,7 @@
 
 44. § (1) A hallgató hallgatói munkaszerződés alapján végezhet munkát:
 
-a) a képzési program keretében, illetve a képzés részeként megszervezett szakmai gyakorlat vagy gyakorlati képzés során az intézményben, az intézmény által alapított gazdálkodó szervezetben vagy külső gyakorlóhelyen,
+a) a duális képzés képzési ideje alatt külső gyakorlóhelyen, a képzési program keretében, illetve a képzés részeként megszervezett szakmai gyakorlat vagy gyakorlati képzés során az intézményben, az intézmény által alapított gazdálkodó szervezetben vagy külső gyakorlóhelyen,
 
 b) a képzési programhoz közvetlenül nem kapcsolódóan a felsőoktatási intézményben vagy a felsőoktatási intézmény által létrehozott gazdálkodó szervezetben.
 
@@ -10,7 +10,7 @@ b) a képzési programhoz közvetlenül nem kapcsolódóan a felsőoktatási int
 
 (3) A hallgatót
 
-a) az (1) bekezdés a) pontja szerinti esetben díjazás illetheti, illetve – a hat hét időtartamot elérő egybefüggő gyakorlat, valamint a duális képzés részeként teljesített gyakorlati képzés esetén – díjazás illeti, amelynek mértéke legalább hetente a kötelező legkisebb munkabér (minimálbér) tizenöt százaléka, a díjat – eltérő megállapodás hiányában – a szakmai gyakorlóhely fizeti,
+a) az (1) bekezdés a) pontja szerinti esetben díjazás illetheti, illetve a hat hét időtartamot elérő egybefüggő gyakorlat ideje alatt, valamint a duális képzés képzési ideje alatt díjazás illeti, amelynek mértéke legalább hetente a kötelező legkisebb munkabér (minimálbér) tizenöt százaléka, a díjat – eltérő megállapodás hiányában – a szakmai gyakorlóhely fizeti,
 
 b) az (1) bekezdés b) pontja szerinti esetben a felek megállapodása szerinti díjazás illeti, melynek ellenében a hallgató által e jogviszonyban létrehozott dolgok tulajdonjoga, illetve a szellemi alkotásokhoz fűződő vagyoni jogok – eltérő megállapodás hiányában – a felsőoktatási intézményre, illetve az általa létrehozott gazdálkodó szervezetre az átadással átszállnak.
 

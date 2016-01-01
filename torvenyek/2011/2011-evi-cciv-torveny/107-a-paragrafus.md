@@ -9,3 +9,7 @@
 (5) Ha a nyelvvizsga-bizonyítványt kiállító vizsgaközpont jogutód nélkül szűnt meg, az (1) és (2) bekezdés szerinti eljárásban az oktatási hivatal jár el.
 
 (6) A (2) bekezdés szerinti jogerős határozatot hozó szerv a határozatról haladéktalanul értesíti a nyelvvizsga-bizonyítvány kibocsátóját, valamint az oktatási hivatalt.
+
+(7) A vizsgaközpont és a vizsgarendszer akkreditációja esetén az akkreditációs eljárás során az oktatási hivatal a kérelem beérkezését követő naptól számított harminc napon belül dönt.
+
+(8) A vizsgaközpont és a vizsgarendszer akkreditációjának megújítására irányuló eljárásban a (7) bekezdésben foglalt határidőt kell alkalmazni.

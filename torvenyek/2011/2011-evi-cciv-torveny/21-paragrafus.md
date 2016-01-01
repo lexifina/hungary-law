@@ -4,6 +4,6 @@
 
 (3) Szétválás esetén az eredeti felsőoktatási intézmény megszűnik, és új felsőoktatási intézmények jönnek létre. A létrejövő intézmények a megszűnő felsőoktatási intézmény jogutódai. A jogutódlásról a megszűnéssel és az alapítással kapcsolatos eljárásban kell dönteni.
 
-(4) Kiválás esetén az eredeti felsőoktatási intézmény továbbfolytatja működését, a kiváló szervezeti egységet új intézményként lehet megalapítani vagy másik felsőoktatási intézménybe olvadhat be.
+(4) Kiválás esetén az eredeti felsőoktatási intézmény tovább folytatja működését, a kiváló szervezeti egységet új intézményként lehet megalapítani vagy másik felsőoktatási intézménybe olvadhat be. Az új felsőoktatási intézmény vagy a másik felsőoktatási intézmény a kiváló szervezeti egység tekintetében az eredeti felsőoktatási intézmény jogutódja.
 
 (5) Az (1)–(4) bekezdésben szabályozott átalakulást követően az új intézmény létesítésére vonatkozó eljárást le kell folytatni, azzal, hogy amennyiben az alaptevékenység keretében ellátott feladatok köre, továbbá az intézményi működés körülményei nem változnak, a működés engedélyezésére szakértői vélemény nélkül kerül sor.

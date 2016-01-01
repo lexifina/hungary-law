@@ -62,7 +62,7 @@ hf) képzés indításának, illetve megszüntetésének kezdeményezéséről.
 
 (7) Az állami felsőoktatási intézményben a szenátus tagjai – a rektor, kancellár kivételével – választás útján nyerik el megbízatásukat. A szenátus működésével kapcsolatos minden kérdést a felsőoktatási intézmény szervezeti és működési szabályzatában kell meghatározni, a következők figyelembevételével:
 
-a) a szenátus létszáma nem lehet kevesebb kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk, a karok, a vezetői megbízással nem rendelkező oktatók képviseletét biztosítani kell,
+a) a szenátus létszáma nem lehet kevesebb kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk, a vezetői megbízással nem rendelkező oktatók képviseletét biztosítani kell,
 
 b) a hallgatói önkormányzat a 60. § (1) bekezdés b) pontjában meghatározott feltételek szerint a szenátus létszáma legalább húsz, legfeljebb huszonöt százalékának megfelelő számban delegál képviselőt,
 
@@ -92,6 +92,10 @@ kc) az ügy egyszerű megítélésű, illetve az előkészítést szolgáló ír
 
 kd) a szenátus tagja vagy a fenntartó képviselője – legkésőbb a szavazás kezdő időpontját megelőzően – nem javasolja a szenátus ülésének összehívását, valamint
 
-ke) a szenátus tagjainak legalább hatvan százaléka részt vett a szavazásban és a szavazásban részt vett tagok több mint fele egyhangú döntést hozott, amelyet a rektor az i) pontban meghatározottak szerint dokumentált és nyilvánosságra hozott.
+ke) a szenátus tagjainak legalább hatvan százaléka részt vett a szavazásban és a szavazásban részt vett tagok több mint fele egyhangú döntést hozott, amelyet a rektor az i) pontban meghatározottak szerint dokumentált és nyilvánosságra hozott,
+
+l) a szenátus választott tagjai megbízatásukat személyesen látják el, a szenátusi tagsággal járó jogok és kötelezettségek nem ruházhatók át, e jogok és kötelezettségek gyakorlása során képviseletnek nincs helye,
+
+m) a választás során biztosítani kell a demokratikus elvek érvényesülését, figyelemmel a teljes munkaidőben foglalkoztatott oktatók, kutatók és tanárok arányos képviseletére.
 
 (8) Nem ruházhatók át a (3) bekezdés a–g) és hb) valamint hd), hf) pontjában meghatározott jogkörök

@@ -12,7 +12,7 @@
 
 ## e) csecsemőgondozási díj folyósításának időtartamára vonatkozó adatai,
 
-## f) gyermekgondozási segély folyósításának időtartamára vonatkozó adatai,
+## f) gyermekgondozást segítő ellátás folyósításának időtartamára vonatkozó adatai,
 
 ## g) gyermekgondozási díj folyósításának időtartamára vonatkozó adatai,
 
@@ -24,7 +24,9 @@
 
 ## i) elektronikus levelezési címe,
 
-## j) felsőoktatási képzésére, a hallgatói jogviszonyára vonatkozó adatai.
+## j) felsőoktatási képzésére, a hallgatói jogviszonyára vonatkozó adatai,
+
+## k) ügyfélkapus kapcsolati kódja.
 
 ## 1/A. E törvény által a felsőoktatási felvételre jelentkezőkről nyilvántartott adatok
 
@@ -60,7 +62,7 @@
 
 ## b) az állami foglalkoztatási szerv a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
 
-## c) a kincstár a gyermekgondozási segélynek a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
+## c) a kincstár a gyermekgondozást segítő ellátásnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 
 ## d) az egészségbiztosítási szerv a csecsemőgondozási díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 

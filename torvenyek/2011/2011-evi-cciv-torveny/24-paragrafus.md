@@ -26,8 +26,10 @@ a) 40. § (5) bekezdésében foglaltaktól eltérően a rektor számára a jutal
 
 b) 30/A. § (1) bekezdés b–c) pontja, valamint 30/B–30/E. §-a szerinti munkakör-felajánlási, illetve az ahhoz kapcsolódó nyilvántartási kötelezettséget a költségvetési szervként működő felsőoktatási intézmények vonatkozásában nem kell alkalmazni,
 
-c)
+c) szerinti vezetői illetménypótlék mértékét a rektor, kancellár tekintetében a munkáltató a minősítés eredményére tekintettel jogosult módosítani,
 
 d) 69. §-ában foglaltaktól kormányrendelet a magasabb vezető vezetői illetménypótlékának számítási alapja tekintetében eltérhet,
 
 e) 70. § (2) bekezdésétől kormányrendelet eltérhet.
+
+(7) Az állami felsőoktatási intézményben a 13. § (2) bekezdése és a 13/A. § (2) bekezdés e) pontja szerinti munkáltatói jogok gyakorlásának rendjét a rektor és a kancellár utasításban szabályozza. A munkáltatói jogkör gyakorlásának rendjében bekövetkezett változásokról – ideértve a munkáltatói jogok utasításban történő átruházását is – az érintettet közvetlenül írásban is értesíteni kell és az utasítást szervezeti és működési szabályzattal azonos módon közzé kell tenni.

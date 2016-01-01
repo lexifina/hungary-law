@@ -10,11 +10,11 @@ c) nyilvántartásba veszi a Felsőoktatási Tervezési Testületet, a Magyar Re
 
 d) vezeti a 7. melléklet szerint a nyelvvizsgák nyelvvizsga-anyakönyveinek a nyilvántartását, amely a 7. melléklet 1. pont b) és c) alpontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(2) Az oktatási hivatal látja el a felsőoktatási intézmények, a közösségi felsőoktatási képzési központok létesítésével, nyilvántartásba vételével, tevékenységének megkezdésével és módosításával, a nyilvántartásban bekövetkezett változások vezetésével, a nyilvántartásból való törlésével kapcsolatos hatósági feladatokat.
+(2) Az oktatási hivatal látja el a felsőoktatási intézmények, a közösségi felsőoktatási képzési központok nyilvántartásba vételével, tevékenységének megkezdésével és módosításával, a nyilvántartásban bekövetkezett változások vezetésével, a nyilvántartásból való törlésével kapcsolatos hatósági feladatokat.
 
 (3) Az oktatási hivatal jár el
 
-a) a felsőoktatási intézmény, a közösségi felsőoktatási képzési központ működésének engedélyezésével,
+a) a felsőoktatási intézmény, a közösségi felsőoktatási képzési központ működésének engedélyezésével, és a felsőoktatási intézmény, a közösségi felsőoktatási képzési központ működési engedélyének ötévenkénti felülvizsgálatával,
 
 b) az alapító okiratban szereplő adatok változásaival,
 

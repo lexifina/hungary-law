@@ -1,6 +1,6 @@
 41/H. § (1) A jogorvoslat és döntés-felülvizsgálat során – a (2)–(4) bekezdésben foglaltak kivételével – a Ket. VII. fejezetének rendelkezéseit kell alkalmazni.
 
-(2) A másodfokú eljárásban az ügyintézési határidő negyven nap, amely egy alkalommal, legfeljebb negyven nappal meghosszabbítható. A határidő-hosszabbítás indokait az erről szóló döntésben meg kell jelölni.
+(2) A másodfokú eljárásban az ügyintézési határidő harmincöt nap.
 
 (3) A fellebbezési eljárásban az igazolási kérelem, valamint a kézbesítési vélelem megdöntésének objektív határideje harminc nap.
 

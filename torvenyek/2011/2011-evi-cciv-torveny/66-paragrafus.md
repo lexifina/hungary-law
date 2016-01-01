@@ -15,3 +15,5 @@ ac) ismételt – eltiltás ellenére történő – elkövetését,
 b) tevékenységgel érintett személyek létszámát
 
 köteles mérlegelni.
+
+(4) Az e §-ban meghatározott eljárásokra a Ket.-et kell alkalmazni. A miniszteri döntés bírósági felülvizsgálata kezdeményezhető, amelyre a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni. A bíróság a soron kívül elbírált döntést megváltoztathatja.
