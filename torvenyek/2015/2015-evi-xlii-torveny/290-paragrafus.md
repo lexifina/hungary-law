@@ -16,6 +16,8 @@ b) a felmondási időből hátralévő időre távolléti díjra nem jogosult, v
 
 c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielégítés alapjául szolgáló időtartam számítása során a felmondással megszüntetett jogviszony alapján végkielégítésre jogosító idejét is figyelembe kell venni.
 
-(5) A rendvédelmi szerv munkavállalója tekintetében alkalmazni kell a 109. § (1) bekezdésében foglalt összeférhetetlenségi szabályokat.
+(5) A rendvédelmi szerv munkavállalója tekintetében alkalmazni kell a 109. § (1) bekezdésében foglalt összeférhetetlenségi szabályokat. Ha a rendvédelmi szerv munkavállalója az összeférhetetlenséget a felszólítástól számított harminc napon belül nem szüntette meg, munkaviszonya a törvény erejénél fogva megszűnik.
 
 (6) A munkavállalónak a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
+
+(7) A rendvédelmi szervnél foglalkoztatott munkavállaló munkaviszonyára a 6. § (4)–(9) bekezdését kell alkalmazni.

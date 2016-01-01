@@ -2,7 +2,7 @@
 
 a) fokozottan veszélyes – nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatt fertőzés veszélyének kitett, továbbá föld alatti létesítményekben, mesterséges és klimatikus viszonyok melletti – szolgálati beosztásban,
 
-b) repülőgép- vagy helikoptervezető, fedélzeti szolgálattevő, közvetlen életveszélynek kitett tűzszerész, búvár vagy terrorelhárító szolgálati beosztásban
+b) repülőgép- vagy helikoptervezető, fedélzeti szolgálattevő, közvetlen életveszélynek kitett tűzszerész, búvár vagy a miniszter által meghatározott, terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztásban
 
 teljesíti szolgálatát.
 

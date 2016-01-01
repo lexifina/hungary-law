@@ -3,3 +3,5 @@
 (2) A hivatásos állomány tagja a magasabb rendfokozatba és az ahhoz rendelt fizetési fokozatba az (1) bekezdésben meghatározott feltételeken felül akkor léptethető elő, ha a magasabb rendfokozathoz előírt rendfokozati vizsgát teljesítette.
 
 (3) Ha a hivatásos állomány tagja az (1) vagy (2) bekezdésben meghatározott feltételek valamelyikét nem teljesítette, akkor magasabb fizetési fokozatba vagy rendfokozatba nem sorolható vagy léptethető elő. Az előmenetelhez szükséges feltételek meglétét a munkáltatói jogkör gyakorlója az esedékességet követően évenként felülvizsgálja, és a feltételek teljesülésekor a hivatásos állomány tagját előresorolja vagy előlépteti.
+
+(4) Középvezetői és beosztott vezetői szolgálati beosztás esetében a besorolási kategóriához tartozó fizetési fokozatban előre kell sorolni a hivatásos állomány tagját, ha a vezetői fizetési várakozási idő eltelt, a jogszabályban meghatározott, az előresorolást megelőző továbbképzési kötelezettségét teljesítette és a vezetői szolgálati beosztásban eltöltött időben teljesítményértékelései átlaga legalább jó teljesítményfokozatú.

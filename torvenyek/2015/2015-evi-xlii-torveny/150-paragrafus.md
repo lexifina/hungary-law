@@ -4,7 +4,7 @@
 
 a) a gyermek harmadik életévének betöltéséig, ikergyermek esetén a tankötelessé válás évének végéig, tartósan beteg vagy súlyosan fogyatékos gyermek esetében a tizenkettedik életéve betöltéséig, valamint
 
-b) a gyermek tizedik életéve betöltéséig a gyermekgondozási segély folyósítása alatt.
+b) a gyermek tizedik életéve betöltéséig a gyermekgondozást segítő ellátás folyósítása alatt.
 
 (2) Illetmény nélküli szabadságot kell engedélyezni a hivatásos állomány tagjának
 

@@ -16,16 +16,14 @@ d) a fegyelmi, méltatlansági, kártérítési és személyiségi jogsértés t
 
 e) a baleset vagy betegség szolgálattal való összefüggését minősítő határozat.
 
-(4) Az írásbeli nyilatkozatot közölni kell a hivatásos állomány tagjával. A nyilatkozat akkor tekinthető közöltnek, ha azt a hivatásos állomány tagjának vagy az átvételre jogosult személynek kézbesítették. A közlés akkor is hatályos, ha az átvételt az érdekelt megtagadta, vagy szándékosan megakadályozta. Erről jegyzőkönyvet kell felvenni.
+(4) A (6) bekezdésben foglaltak kivételével írásbelinek kell tekinteni a jognyilatkozatot akkor is, ha annak közlésére a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
 
-(5) Miniszteri rendelet alapján az írásbeli nyilatkozat elektronikus adathordozón is rögzíthető, valamint elektronikus úton is közölhető.
+(5) A nyilatkozattevő személyének (4) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő elektronikus aláírásról szóló törvény szerinti elektronikus aláírása vagy minősített elektronikus aláírása.
 
-(6) A (4) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló jogszabály szerint tértivevény többletszolgáltatással feladott küldeményként kézbesített jognyilatkozatot kézbesítettnek kell tekinteni,
+(6) A szolgálati viszony létesítésével, a szolgálati viszony módosításával és a szolgálati viszony megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, méltatlansági vagy kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
 
-a) ha a címzett vagy meghatalmazottja a küldemény átvételét megtagadta: az átvétel megtagadásának napján,
+(7) A (6) bekezdés szerint elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papír alapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papír alapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A hivatásos állomány tagjával a papír alapú kiadmányt kell közölni.
 
-b) ha a címzett által bejelentett elérhetőségi címen a kézbesítés a címzett ismeretlensége vagy elköltözése miatt meghiúsult: a kézbesítés megkísérlésének napján, vagy
+(8) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkör gyakorlója az iratot a (6) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkör gyakorlójának legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a (7) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
 
-c) egyéb esetekben az eredménytelen kézbesítési kísérlet, valamint a második kézbesítési kísérlet sikertelensége esetén hátrahagyott értesítés elhelyezésének napját követő tizedik munkanapon.
-
-(7) Az olyan jognyilatkozattal kapcsolatban, amellyel szemben e törvény alapján bírósági eljárásnak van helye, a (4) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított tizenöt napon belül, de legkésőbb a vélelem beálltától számított hat hónapos jogvesztő határidőn belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
+(9) Az írásbeli jognyilatkozatokat – az Országgyűlési Őrség hivatásos állománya kivételével – a (6) bekezdés szerinti elektronikus dokumentumban kell kiadni vagy a (7) és (8) bekezdés szerint kell kiadmányozni.

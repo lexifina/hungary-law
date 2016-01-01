@@ -6,4 +6,6 @@
 
 (4) A 140. § (2) és (3) bekezdésétől eltérően 2018. december 31-ig a túlszolgálat ellentételezéseként a hivatásos állomány tagját – az állományilletékes és annál magasabb parancsnok kivételével – választása alapján szabadidő vagy díjazás illeti meg. A túlszolgálatért annak időtartamával megegyező, ha pedig a túlszolgálatot a heti pihenőnapon vagy munkaszüneti napon teljesítették, a túlszolgálat kétszeresének megfelelő szabadidő vagy díjazás jár. A túlszolgálatért díjazásként annak idejére távolléti díj jár, amelyet legkésőbb a tárgyhónapot követő második hónapban kell kifizetni.
 
+(4a) A polgári nemzetbiztonsági szolgálatok hivatásos állománya vonatkozásában az állományilletékes parancsnok szolgálati érdekből dönthet úgy, hogy egyes szolgálati beosztások esetében a teljesített túlszolgálat a (4) bekezdésben foglaltaktól eltérően csak díjazással vagy csak szabadidőben ellentételezhető.
+
 (5) Ha a hivatásos állomány vezetői beosztást betöltő tagját megillető vezetői pótszabadság mértéke e törvény hatálybalépésére tekintettel megváltozik, a 2015. tárgyévre vonatkozóan a 143. § (4) bekezdésében meghatározott mértéket időarányosan kell figyelembe venni.

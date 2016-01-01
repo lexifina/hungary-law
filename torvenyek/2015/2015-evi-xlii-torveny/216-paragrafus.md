@@ -4,7 +4,7 @@
 
 (2) A fenyítés jogerős
 
-a) a panasz benyújtására nyitva álló határidő leteltének napját követő nappal, ha az első fokú fegyelmi határozat ellen a nyitva álló határidőn belül nem nyújtottak be panaszt,
+a) a panaszjogról való lemondás benyújtásának napjával, ha a panaszjogról a hivatásos állomány tagja írásban lemondott, vagy a panasz benyújtására nyitva álló határidő leteltének napját követő nappal, ha az elsőfokú fegyelmi határozat ellen a nyitva álló határidőn belül nem nyújtottak be panaszt,
 
 b) a határozat közlésének napján, ha a másodfokú határozattal vagy a miniszter által hozott határozattal szemben a nyitva álló határidőn belül nem nyújtottak be keresetet,
 

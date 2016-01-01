@@ -46,6 +46,6 @@ is alkalmazni kell.
 
 (5) A tartalékállományra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állományból tartalékállományba helyezettekre vagy tartalékállományban tartottakra is alkalmazni kell.
 
-(6) A 14. §-t, valamint a XXIX. és XXX. Fejezet rendelkezéseit a rendvédelmi szervvel közalkalmazotti jogviszonyban állókra is alkalmazni kell.
+(6) A 14. §-t, a 290/A. §-t, valamint a XXIX. és XXX. Fejezet rendelkezéseit a rendvédelmi szervvel közalkalmazotti jogviszonyban állókra is alkalmazni kell.
 
 (7) A XXVIII. Fejezet rendelkezéseit a rendvédelmi szervvel munkaviszonyban állókra kell alkalmazni.

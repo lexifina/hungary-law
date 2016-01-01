@@ -32,7 +32,7 @@ b) a szolgálati jelvény rendszeresítésével és a szolgálati jelvénnyel t�
 
 6. megállapítsa
 
-a) a személyügyi igazgatás rendjét, a munkáltatói intézkedések kiadásának rendjét, az írásbeli nyilatkozat elektronikus adathordozón történő rögzítésének, valamint elektronikus úton közlésének eseteit és szabályait,
+a) a személyügyi igazgatás rendjét, a munkáltatói intézkedések kiadásának rendjét,
 
 b) a szolgálati viszony létesítésének, módosításának, megszüntetésének eljárási rendjét, a hivatásos állományba visszavétel feltételeit és eljárásrendjét, továbbá azon jogosultságokat, amelyeket a hivatásos állomány tagja lemondása esetén elveszít,
 
@@ -102,7 +102,7 @@ a) a szolgálatteljesítési idő és a túlszolgálat szolgálatszervezéssel �
 
 b) a túlszolgálat, valamint a készenlét elrendelésének és a pihenőidő kiadásának a rendjét, valamint a nyilvántartás szabályait, továbbá a túlszolgálat elszámolásának és a túlszolgálatért járó szabadidő kiadásának rendjét,
 
-c) a szabadság nyilvántartásának és kiadásának rendjét, valamint a hivatali munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját,
+c) a szabadság nyilvántartásának és kiadásának rendjét, valamint a hivatali munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját, továbbá a rekreációs célú pótszabadságra jogosultság szempontjából figyelembe vehető, terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások meghatározását,
 
 21. meghatározza
 

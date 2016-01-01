@@ -40,7 +40,7 @@
 
 19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, a polgári nemzetbiztonsági szolgálatok főigazgatói, valamint az Országgyűlési Őrség parancsnoka;
 
-20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít;
+20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít, a véglegesítéséig;
 
 21. preferált település: olyan település vagy településrész, amelynek sajátosságai miatt – figyelemmel a rendvédelmi szerv vagy annak szervezeti egysége által ellátott feladatok jellegére – az adott településen vagy településrészen való szolgálatteljesítés ösztönzése indokolt;
 

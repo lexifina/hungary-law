@@ -1,5 +1,5 @@
-355. § (1) A hivatásos állomány azon tagja, akinek szolgálati viszonya 2015. július 1-jét megelőzően létesült, de 2015. július 1-jét követően szolgálati beosztása az 52. § (2) bekezdés a), b), e)–g) pontja szerint módosul, a szolgálati viszony módosítását követően az illetményét a 353. § alkalmazásával úgy kell megállapítani, mintha az új szolgálati beosztásba helyezés 2015. június 30-án történt volna.
+355. § (1) A szolgálati viszony 2015. december 31-ét követő, az 52. § (2) bekezdés a), b), e)–g) vagy j) pontja szerinti módosítása esetén, valamint a 2015. december 31-ét követően létesített szolgálati viszony esetén a hivatásos állomány tagjának illetményét a (2) bekezdésben meghatározott korlátozással a XIII. Fejezet rendelkezései alapján kell meghatározni.
 
-(2) A hivatásos állomány 2015. július 1-jét követően szolgálati viszonyt létesítő tagjának illetményét a 353. § alkalmazásával úgy kell megállapítani, mintha a hivatásos állományba vétel és a szolgálati beosztásba helyezés 2015. június 30-án történt volna.
+(2) Az (1) bekezdésben megjelölt személy alapilletménye legfeljebb 35%-kal lehet magasabb, mint az illetmény megállapításakor az általa betöltött szolgálati beosztás besorolása, az általa viselt rendfokozat és a részére megállapított szolgálati idő alapján 2015. június 30-án a 352. § b) pontjába tartozó illetményelemek alapján megállapított összeg.
 
-(3) A 158. § szerinti teljesítményjuttatás első alkalommal a 2016. évre vonatkozóan elvégzett teljesítményértékelés alapján 2017 márciusában fizetendő.
+(3) A 158. § szerinti teljesítményjuttatás első alkalommal a 2015. évre vonatkozóan elvégzett teljesítményértékelés alapján 2016. évben fizethető.

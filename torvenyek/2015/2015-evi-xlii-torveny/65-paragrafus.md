@@ -4,6 +4,8 @@
 
 (2) A miniszter az 51. § (2) bekezdésében meghatározott szervhez vezénylés elrendelésekor meghatározza, hogy a vezényelt szolgálati beosztást, közalkalmazotti vagy kormánytisztviselői munkakört tölt be.
 
+(2a) Az (1) bekezdéstől eltérően a büntetés-végrehajtási szervezet hivatásos állományának tagját az 51. § (2) bekezdés c) pontjában meghatározott szervhez – beleegyezésével – az állományilletékes parancsnok vezényli, határozatlan időre. A (2) bekezdéstől eltérően a vezénylés csak szolgálati beosztás betöltésére történhet.
+
 (3) Az 51. § (2) bekezdésében meghatározott szervhez
 
 a) kormánytisztviselői vagy közalkalmazotti munkakörbe történő vezénylésre a más szervhez vezénylésre vonatkozó rendelkezéseket az e §-ban meghatározott eltéréssel,

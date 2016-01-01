@@ -10,11 +10,13 @@ d) a házastárs tartós hivatalos külföldi kiküldetése miatt kapott illetm�
 
 e) a törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén a hivatásos állomány örökbe fogadni szándékozó tagját – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, vagy ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás ideje,
 
-f) a hivatásos állomány nő tagjának jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének ideje, de legfeljebb ennek megkezdésétől számított hat hónap.
+f) a hivatásos állomány nő tagjának jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének ideje, de legfeljebb ennek megkezdésétől számított hat hónap,
+
+g) a szolgálati viszony szünetelésének időtartama.
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány tagjára, ha
 
-a) a 86. § (2) bekezdés b) pontja alapján alkalmatlanná vált,
+a) a 86. § (2) bekezdés b) vagy c) pontja alapján alkalmatlanná vált,
 
 b) a 86. § (2) bekezdés d) pontja alapján méltatlanná vált,
 

@@ -10,8 +10,10 @@
 
 a) fegyelmi eljárást kezdeményez a fegyelmi jogkör gyakorlójánál,
 
-b) javaslatot tesz az állományilletékes parancsnoknak a kifogástalan életvitel ellenőrzésének kezdeményezésére, vagy
+b) javaslatot tesz az állományilletékes parancsnoknak a kifogástalan életvitel ellenőrzésének kezdeményezésére,
 
-c) megszünteti az etikai eljárást.
+c) figyelmeztetést vagy megrovást alkalmaz, vagy
 
-(6) Az etikai eljárás eredménye alapján az MRK a közalkalmazottal szemben az (5) bekezdés a) vagy c) pontjában foglaltakat alkalmazhatja.
+d) megszünteti az etikai eljárást.
+
+(6) Az etikai eljárás eredménye alapján az MRK a közalkalmazottal szemben az (5) bekezdés c) vagy d) pontjában foglaltakat alkalmazhatja.

@@ -14,4 +14,4 @@
 
 (7) Szabadság pénzbeni megváltására csak az (5) és (6) bekezdésben meghatározott esetben, valamint a szolgálati viszony megszűnésekor kerülhet sor.
 
-(8) Ha a hivatásos állomány tagjának szolgálati viszonya év közben kezdődik vagy szűnik meg, a hivatásos állomány tagja a szabadság arányos részére jogosult. Ha a hivatásos állomány tagja a tárgyévben az időarányosan járó szabadságnál többet vett igénybe – ide nem értve azt, akinek a szolgálati viszonya nyugállományba helyezésére tekintettel szűnik meg – a különbözetre kifizetett távolléti díjat köteles visszatéríteni.
+(8) Ha a hivatásos állomány tagjának szolgálati viszonya év közben kezdődik vagy szűnik meg, a hivatásos állomány tagja a szabadság arányos részére jogosult. Ha a hivatásos állomány tagja a tárgyévben az időarányosan járó szabadságnál többet vett igénybe – ide nem értve azt, akinek a szolgálati viszonya nyugállományba helyezésére vagy halálára tekintettel szűnik meg – a különbözetre kifizetett távolléti díjat köteles visszatéríteni.

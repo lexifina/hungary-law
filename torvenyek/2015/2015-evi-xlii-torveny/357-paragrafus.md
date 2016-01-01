@@ -26,7 +26,7 @@ kell sorolni.
 
 (3) Az e törvény hatálybalépéskor vezetői beosztást betöltőnek
 
-a) a tényleges szolgálati ideje alapján meg kell állapítani az (1) és (2) bekezdés szerinti szabályok szerint 2015. július 1. napjára irányadó fizetési fokozatát és az adott fizetési fokozatban fizetési várakozási időként figyelembe vehető időt, és vezetői beosztásának megszűnését követően a 117. § (5) bekezdésében foglalt szabályok szerint a 2015. július 1-jétől vezetői beosztásban eltöltött idő vehető figyelembe,
+a) meg kell állapítani az (1) és (2) bekezdés szerinti szabályok szerint 2015. július 1. napjára irányadó fizetési fokozatát és az adott fizetési fokozatban fizetési várakozási időként figyelembe vehető időt, és vezetői beosztásának megszűnését követően a 117. § (5) bekezdésében foglalt szabályok szerint a 2015. július 1-jétől vezetői beosztásban eltöltött idő vehető figyelembe,
 
 b) a vezetői beosztásban eltöltött ideje alapján meg kell állapítani a vezetői fizetési fokozatát, az adott fizetési fokozatban fizetési várakozási időként figyelembe vehető időt, valamint a következő fizetési fokozatba előresorolás várható időpontját.
 

@@ -12,9 +12,9 @@ e) az eljárás alá vont meghalt vagy szolgálati viszonya megszűnt,
 
 f) a cselekmény elévült,
 
-g) fenyítést kizáró ok áll fenn, vagy
+g) fenyítést kizáró ok áll fenn.
 
-h) ha a fegyelmi jogkör gyakorlója az elrendeléstől számított egy éven belül az első fokú fegyelmi eljárást érdemi határozattal nem bírálja el.
+h)
 
 (2) Ha a fegyelmi eljárás során azt állapították meg, hogy az eljárás alapjául szolgáló magatartás bűncselekmény vagy a 181. § (2) bekezdése alapján fegyelmi eljárásban el nem bírálható szabálysértés alapos gyanújának megállapítására alkalmas, a feljelentést a hatáskörrel és illetékességgel rendelkező nyomozó vagy szabálysértési hatósághoz meg kell tenni. Ezzel egyidejűleg a fegyelmi eljárást a 198. § (2) bekezdés c) pontja alapján fel lehet függeszteni.
 

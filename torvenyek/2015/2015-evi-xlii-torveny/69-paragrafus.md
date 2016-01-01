@@ -23,3 +23,7 @@ d) egyéb, Magyarország nemzetközi kötelezettségeinek ellátásához kapcsol
 (6) A rendelkezési állományba helyezés mellett külföldre vezényeltek esetében a külföldre vezénylés megszüntetésekor a 64. § (2)–(4) bekezdésének megfelelő alkalmazásával kell eljárni.
 
 (7) Ha a hivatásos állomány tagjának külföldre vezénylése előzetes felkészítéshez kötött, a külföldre vezénylést megelőző szolgálati beosztásából történő felmentését követően a felkészítés időtartamára, de legfeljebb hat hónapig részére a külföldre vezénylés előtt megállapított illetményt kell folyósítani.
+
+(8) A rendvédelmi szerv hivatásos állományának összekötő tiszti szolgálat teljesítése céljából tartós külszolgálatra külföldre vezényelt tagját illetménye – a rá vonatkozó illetményrendszer szabályai szerint, a külföldre vezénylést megelőzően betöltött szolgálati beosztása alapján – a tartós külszolgálat időtartamára változatlanul megilleti, és az illetményt a tartós külszolgálat ideje alatt a hivatásos állományt érintő illetményemelések alkalmával emelni kell.
+
+(9) A külföldre vezénylés kezdő időpontját megelőzően az összekötő tiszt részére az évi rendes szabadságnak a külföldre vezénylést megelőző időtartamra eső időarányos részét ki kell adni.
