@@ -1,21 +1,3 @@
-## 4. A hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díj
+## 4.[^14]
 
-9. § (1) Az eljárás díja 3100 forint
-
-a) a postai úton előterjesztett,
-
-b) az ügyfélkapun keresztül egyedi informatikai alkalmazás igénybevételével, elektronikus úton előterjesztett,
-
-c)[^10] a Bnytv. 71. § (2) bekezdésében meghatározott eljárásban előterjesztett,
-
-d)[^11] külföldi, valamint
-
-e)[^12] a telefonon előterjesztett
-
-## kérelem esetén.
-
-(2) A bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton személyesen előterjesztett kérelem esetén az eljárás díja 4400 forint.
-
-[^10]: A 9. § (1) bekezdés c) pontja a 17/2014. (XII. 19.) IM rendelet 49. § 4. pontja szerint módosított szöveg.
-[^11]: A 9. § (1) bekezdés d) pontja a 17/2014. (XII. 19.) IM rendelet 47. §-ával megállapított szöveg.
-[^12]: A 9. § (1) bekezdés e) pontját a 17/2014. (XII. 19.) IM rendelet 47. §-a iktatta be.
+[^14]: A 4. alcímet (9–14. §) a 37/2015. (XII. 21.) IM rendelet 6. § (3) bekezdése hatályon kívül helyezte.

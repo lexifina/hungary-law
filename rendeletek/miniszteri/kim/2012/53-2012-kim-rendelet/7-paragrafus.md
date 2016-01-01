@@ -2,4 +2,6 @@
 
 (2) A bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton személyesen előterjesztett kérelem alapján a hatósági erkölcsi bizonyítványt a bűnügyi nyilvántartó szerv a kérelem előterjesztését követő öt napon belül állítja ki.
 
-(3) Ha a bűnügyi nyilvántartó szerv a Bnytv. 71. § (2) bekezdésében meghatározottak szerint megindított, hatósági erkölcsi bizonyítvány kiállítása iránti eljárást (a továbbiakban: eljárás) megszünteti, e tényről az adatigénylést benyújtó eljáró szervet haladéktalanul értesíti.
+(3)[^9]
+
+[^9]: A 7. § (3) bekezdését a 37/2015. (XII. 21.) IM rendelet 6. § (1) bekezdése hatályon kívül helyezte.
