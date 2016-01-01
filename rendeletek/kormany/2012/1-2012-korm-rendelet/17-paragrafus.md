@@ -1,4 +1,4 @@
-## „a)[^28] a csecsemőgondozási díjra, a gyermekgondozási díjra és a gyermekgondozási segélyre (a továbbiakban: gyes) való jogosultság, valamint
+## „a)[^28] a csecsemőgondozási díjra, a gyermekgondozási díjra és a gyermekgondozást segítő ellátásra (a továbbiakban: gyes) való jogosultság, valamint
 
 ## b) a rehabilitációs ellátásra, rokkantsági ellátásra, rokkantsági járadékra, rehabilitációs járadékra való jogosultság
 
@@ -32,7 +32,7 @@
 
 (4) A hitelfelvevő 14. § (8) bekezdésben meghatározott kötelezettsége a (2) bekezdésben meghatározott teljesítésekre tekintettel, annak mértékéig halasztásra kerül. A halasztás időtartamát a Diákhitel szervezet a 14. § (7) bekezdés szerint közölt törlesztő részlet összegére és a (2) bekezdés szerinti befizetés összegére tekintettel állapítja meg.
 
-[^28]: A 16. § (2) bekezdés a) pontja a 364/2014. (XII. 30.) Korm. rendelet 132. §-a szerint módosított szöveg.
+[^28]: A 16. § (2) bekezdés a) pontja a 364/2014. (XII. 30.) Korm. rendelet 132. §-a, a 417/2015. (XII. 23.) Korm. rendelet 38. §-a szerint módosított szöveg.
 [^29]: A 16. § (2a) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 20. § (1) bekezdése iktatta be.
 [^30]: A 16. § (4) bekezdését a 293/2014. (XI. 26.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^31]: A 16. § (6) bekezdése a 293/2014. (XI. 26.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
