@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-26-00-00
 | 2014-07-16 | 2014. évi XXXV. törvény | 1998-26-00-00.33 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 1998-26-00-00.34 |
 | 2015-04-01 | 2015. évi VI. törvény | 1998-26-00-00.35 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 1998-26-00-00.36 |
