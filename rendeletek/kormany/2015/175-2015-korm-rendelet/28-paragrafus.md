@@ -1,3 +1,1 @@
-## 27. §[^2]
-
-[^2]: A 27. § a 92. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## 27. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
