@@ -64,6 +64,6 @@
 
 | 1518 | Záróvonal és járműforgalom elől elzárt területen való áthaladás [KRESZ 18. § (1) bek. c), k ) pont]. | 2 |
 
-1/A. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^14]
+1/A. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^15]
 
-[^14]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése és 10. § (4) bekezdése, a 138/2013. (V. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^15]: Az 1/A. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 228/2012. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése és 10. § (4) bekezdése, a 138/2013. (V. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.

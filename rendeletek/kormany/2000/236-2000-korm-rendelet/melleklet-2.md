@@ -40,7 +40,7 @@
 
 | 2502 | autóúton, autópályán [BR. 11/A. melléklet 3. pont]. | 5 |
 
-2. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^15]
+2. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^16]
 
 Eljáró bíróság hatóság megnevezése kódja:
 
@@ -124,4 +124,4 @@ A Kpt. 4. § (2) bekezdés szerinti halmazati összpontszám:
 
 |  |  |  |  | KH ügyintéző |
 
-[^15]: Az eredeti melléklet számozását 2. számú mellékletre változtatta és szövegét megállapította a 8/2004. (I. 22.) Korm. rendelet 3. §-a. A 2. számú melléklet a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének u) pontja szerint módosított szöveg.
+[^16]: Az eredeti melléklet számozását 2. számú mellékletre változtatta és szövegét megállapította a 8/2004. (I. 22.) Korm. rendelet 3. §-a. A 2. számú melléklet a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének u) pontja szerint módosított szöveg.
