@@ -1,6 +1,6 @@
 ## „7. számú melléklet a 15/1998. (IV. 30.) NM rendelethez
 
-## ESETNAPLÓ[^9]
+## ESETNAPLÓ[^5]
 
 ## A) Adatlap
 
@@ -12,7 +12,7 @@
 
 ## 2.2 Születési helye, ideje:
 
-## 2.3 Lakóhelye[^10]:
+## 2.3 Lakóhelye[^6]:
 
 ## 2.4 Tartózkodási helye, ott-tartózkodás minősége:
 
@@ -20,13 +20,13 @@
 
 ## 2.6 Állampolgársága, külföldi állampolgár esetén Magyarországon való tartózkodásának jogcíme:
 
-## 2.7 Családi állapota[^11]:
+## 2.7 Családi állapota[^7]:
 
 ## 2.8 Legmagasabb iskolai végzettsége:
 
-## 2.9 Gazdasági aktivitása[^12]:
+## 2.9 Gazdasági aktivitása[^8]:
 
-## 2.10 Gyermekeinek neve, születési helye, ideje[^13]:
+## 2.10 Gyermekeinek neve, születési helye, ideje[^9]:
 
 ## 2.11 Az együttműködési megállapodás megkötésének időpontja:
 
@@ -38,7 +38,7 @@
 
 ## 1. A probléma definíciója:
 
-## 1.1 Elsődleges (hozott) probléma típusa[^14]:
+## 1.1 Elsődleges (hozott) probléma típusa[^10]:
 
 ## – Életvitel
 
@@ -64,7 +64,7 @@
 
 ## – Egyéb, éspedig:
 
-## 2. Cselekvési terv[^15]:
+## 2. Cselekvési terv[^11]:
 
 ## …………………………………………
 
@@ -204,10 +204,10 @@
 
 4. melléklet az 55/2015. (XI. 30.) EMMI rendelethez
 
-[^9]: Esetnaplót kell minden olyan esetben vezetni, amikor a szakmai tevékenység az első interjú kapcsán tett intézkedéssel nem zárható le.
-[^10]: Az ellátást igénybe vevő állandó bejelentett lakása.
-[^11]: Meg kell jelölni, hogy az ellátást igénybe vevő házastársi/élettársi kapcsolatban él, vagy egyedülálló.
-[^12]: Itt kell megjelölni az ellátást igénybe vevő munkahelyét, illetve inaktív kereső vagy nyugdíjas státuszát.
-[^13]: Amennyiben a gyermek/gyermekek veszélyeztetettsége a szociális segítés során felmerül, az Esetnapló betétlap is töltendő gyermekenként.
-[^14]: A statisztikai adatszolgáltatással megegyező problématípusonként kell regisztrálni. A megfelelő aláhúzandó.
-[^15]: A cselekvési tervet félévente felül kell vizsgálni, és indokolt esetben módosítani kell.
+[^5]: Esetnaplót kell minden olyan esetben vezetni, amikor a szakmai tevékenység az első interjú kapcsán tett intézkedéssel nem zárható le.
+[^6]: Az ellátást igénybe vevő állandó bejelentett lakása.
+[^7]: Meg kell jelölni, hogy az ellátást igénybe vevő házastársi/élettársi kapcsolatban él, vagy egyedülálló.
+[^8]: Itt kell megjelölni az ellátást igénybe vevő munkahelyét, illetve inaktív kereső vagy nyugdíjas státuszát.
+[^9]: Amennyiben a gyermek/gyermekek veszélyeztetettsége a szociális segítés során felmerül, az Esetnapló betétlap is töltendő gyermekenként.
+[^10]: A statisztikai adatszolgáltatással megegyező problématípusonként kell regisztrálni. A megfelelő aláhúzandó.
+[^11]: A cselekvési tervet félévente felül kell vizsgálni, és indokolt esetben módosítani kell.

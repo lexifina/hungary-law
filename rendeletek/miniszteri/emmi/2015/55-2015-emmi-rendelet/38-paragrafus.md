@@ -1,3 +1,1 @@
-## 37. §[^7]
-
-[^7]: A 37. § a 39. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## 37. § A Gszr. 1. § b) pontjában a „(4)–(7)” szövegrész helyébe az „(5)–(7)” szöveg lép.
