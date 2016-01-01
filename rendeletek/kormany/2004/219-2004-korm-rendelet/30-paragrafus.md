@@ -28,7 +28,7 @@ b) a tartós környezetkárosodás teljes időtartama alatt
 
 (6) A kármentesítési monitoring jelentés, illetve záródokumentáció tartalmi követelményeit 10. számú melléklet határozza meg.
 
-(7)[^205] A kármentesítési monitoring záródokumentáció alapján a környezetvédelmi hatóság a vízügyi igazgatóság véleményének kikérésével két hónapon belül határozatot hoz:
+(7)[^205] A kármentesítési monitoring záródokumentáció alapján a környezetvédelmi hatóság a belföldi jogsegély keretében megkeresett vízügyi igazgatóság véleményének figyelembevételével határozatot hoz:
 
 a) szükség esetén a 21. § (4) bekezdés a), illetve b) pontja szerinti kármentesítés végzéséről, esetleges kiegészítéséről;
 
@@ -43,4 +43,4 @@ d) a kármentesítés befejezéséről, ha minden körülmény együttes mérleg
 [^202]: A 30. § (2) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^203]: A 30. § (3) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^204]: A 30. § (5) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja szerint módosított szöveg.
-[^205]: A 30. § (7) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja szerint módosított szöveg.
+[^205]: A 30. § (7) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 53. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

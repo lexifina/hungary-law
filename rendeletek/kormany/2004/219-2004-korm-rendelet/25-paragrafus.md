@@ -1,4 +1,4 @@
-25. § (1)[^176] A környezetvédelmi hatóság a tényfeltárási záródokumentáció – illetőleg a területhasználat tekintetében szükség esetén az érintett önkormányzat bevonásával, az érvényben lévő, illetve a tervezett településrendezési terv – figyelembevételével 2 hónapon belül dönt a záródokumentáció elbírálásáról, valamint a szennyezettséggel, károsodással kapcsolatos további feladatokról, így:
+25. § (1)[^176] A környezetvédelmi hatóság a tényfeltárási záródokumentáció – illetőleg a területhasználat tekintetében szükség esetén az érintett önkormányzat bevonásával, az érvényben lévő, illetve a tervezett településrendezési terv – figyelembevételével dönt a záródokumentáció elbírálásáról, valamint a szennyezettséggel, károsodással kapcsolatos további feladatokról, így:
 
 a) a tényfeltárás folytatásáról;
 
@@ -12,6 +12,6 @@ e) a kármentesítés befejezéséről, ha minden körülmény együttes mérleg
 
 (2)[^178]
 
-[^176]: A 25. § (1) bekezdés nyitó a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 35. pontja, a 182/2009. (IX. 10.) Korm. rendelet 359. §-a, a 147/2010. (IV. 29.) Korm. rendelet 80. § (4) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja szerint módosított szöveg.
+[^176]: A 25. § (1) bekezdés nyitó szövegrésze a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 35. pontja, a 182/2009. (IX. 10.) Korm. rendelet 359. §-a, a 147/2010. (IV. 29.) Korm. rendelet 80. § (4) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja, a 441/2015. (XII. 28.) Korm. rendelet 54. §-a szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^177]: A 25. § (1) bekezdésének c) pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^178]: A 25. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 35. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

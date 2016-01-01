@@ -8,7 +8,7 @@
 
 (2)[^122] A vízvédelmi hatóság – indokolt esetben a vízügyi igazgatóság bevonásával – a földtani közeg, felszín alatti víz terhelésére, minőségének veszélyeztetésére, szennyezésére, károsítására vonatkozó, birtokába került információkat kivizsgálja a hatósági intézkedés igényének megállapítása és a hatósági eljárás megalapozása érdekében.
 
-(3)[^123] A kivizsgálást – a kockázat mérlegelése alapján – a lehető leghamarabb meg kell kezdeni és – az e rendeletben szabályozott esetek kivételével – három hónapon belül le kell folytatni.
+(3)[^123] A kivizsgálást a kockázat mérlegelése alapján – az e rendeletben szabályozott esetek kivételével – Kvt. vonatkozó rendelkezései alkalmazásával kell lefolytatni.
 
 (4)[^124] A vízvédelmi hatóság a kivizsgálás keretében elrendelheti a 16. § (2) bekezdése szerinti bejelentés, adatszolgáltatás harminc napon belül történő benyújtását, amennyiben a hatóság tudomására jutott adatok a tevékenység folytatójával kapcsolatosak, annak azonosítását lehetővé teszik és a tevékenység folytatójának adatszolgáltatási kötelezettségére előírt határidő még nem járt le, vagy a tevékenység folytatója nem tartozik a bejelentésre kötelezettek közé.
 
@@ -59,7 +59,7 @@ b)[^139]
 [^120]: A 18. §-t a 310/2014. (XII. 11.) Korm. rendelet 3. §-a hatályon kívül helyezte.
 [^121]: A 19. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (6) bekezdésével megállapított szöveg.
 [^122]: A 19. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (6) bekezdésével megállapított szöveg.
-[^123]: A 19. § (3) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^123]: A 19. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 51. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^124]: A 19. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (55) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 26. § (15) bekezdés a) pontja szerint módosított szöveg.
 [^125]: A 19. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 357. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^126]: A 19. § (6) bekezdésének ba) pontja a 110/2005. (VI. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
