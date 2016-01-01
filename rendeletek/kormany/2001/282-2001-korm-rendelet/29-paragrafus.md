@@ -18,13 +18,13 @@
 
 (9)[^78]
 
-(10)[^79] Az átadó pénztárban a taggal való elszámolást a tagsági viszony megszűnésének napjáig terjedő bevallási időszakra vonatkozó tagdíjbevallások, pótbevallások, önellenőrzések és befizetések figyelembevételével, a tagsági viszony megszűnésének napjára vonatkozóan kell elvégezni. A tag egyéni számláját is ezzel a nappal, mint fordulónappal kell lezárni. Az átlépést megelőző bevallási időszakban befizetett és függőszámlán nyilvántartott foglalkoztatói túlfizetés vonatkozásában az Adó- és Pénzügyi Ellenőrzési Hivatal (a továbbiakban: APEH) által az átlépett tagra teljesített olyan adatszolgáltatást, amely
+(10)[^79] Az átadó pénztárban a taggal való elszámolást a tagsági viszony megszűnésének napjáig terjedő bevallási időszakra vonatkozó tagdíjbevallások, pótbevallások, önellenőrzések és befizetések figyelembevételével, a tagsági viszony megszűnésének napjára vonatkozóan kell elvégezni. A tag egyéni számláját is ezzel a nappal, mint fordulónappal kell lezárni. Az átlépést megelőző bevallási időszakban befizetett és függőszámlán nyilvántartott foglalkoztatói túlfizetés vonatkozásában a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) által az átlépett tagra teljesített olyan adatszolgáltatást, amely
 
 – az átlépés napját követően érkezik be, és amely vonatkozásában
 
 – a bevallás benyújtásának napja nem későbbi, mint az átlépés napját magában foglaló hónap utolsó napja,
 
-a pénztár a túlfizetés rendezése érdekében feldolgozza. Az átlépett tagra azonosított tagdíj összegét és a függőszámla alapján megállapított hozamot – utólagos adatszolgáltatás mellett – az átvevő pénztár részére át kell utalni. Amennyiben az átlépés napját magában foglaló hónap utolsó napját követően az átlépett tagra – az átlépés napját megelőző bevallási időszakra vonatkozóan – az APEH-től végrehajtási eljárásból, vagy az adóhatóság által kirótt késedelmi pótlék megfizetéséből átutalás érkezik, ennek összege alapján is átutalást kell teljesíteni az átvevő pénztár részére. Ez esetben a pénztár az APEH-től érkezett átutalás összegét – az átlépett tag követelésére jutó rész kivételével – a hátralékos bevallásokra a Tbj. 53. § (1)–(2) bekezdéseinek megfelelően számolja el. Az átlépett tagra eső behajtott, vagy megfizetett összeget az átadó pénztár az átvevő pénztár részére átutalja, a munkáltató és a jogosult tagok megjelölésével.
+a pénztár a túlfizetés rendezése érdekében feldolgozza. Az átlépett tagra azonosított tagdíj összegét és a függőszámla alapján megállapított hozamot – utólagos adatszolgáltatás mellett – az átvevő pénztár részére át kell utalni. Amennyiben az átlépés napját magában foglaló hónap utolsó napját követően az átlépett tagra – az átlépés napját megelőző bevallási időszakra vonatkozóan – a NAV-tól végrehajtási eljárásból, vagy az adóhatóság által kirótt késedelmi pótlék megfizetéséből átutalás érkezik, ennek összege alapján is átutalást kell teljesíteni az átvevő pénztár részére. Ez esetben a pénztár a NAV-tól érkezett átutalás összegét – az átlépett tag követelésére jutó rész kivételével – a hátralékos bevallásokra a Tbj. 53. § (1)–(2) bekezdéseinek megfelelően számolja el. Az átlépett tagra eső behajtott, vagy megfizetett összeget az átadó pénztár az átvevő pénztár részére átutalja, a munkáltató és a jogosult tagok megjelölésével.
 
 (11)[^80] Az átlépett pénztártagra vonatkozó tagdíjbevallási és befizetési adatokat 2010. január 1-jét megelőzően teljesített tagdíjbevallás (önellenőrzés és helyesbítés) esetén a központi nyilvántartás az átlépési adatszolgáltatás sikeres feldolgozását követően haladéktalanul megküldi az átvevő pénztárnak. A 2009. december 31-ét követően teljesített tagdíjbevallás (önellenőrzés és helyesbítés) esetén
 
@@ -74,7 +74,7 @@ e) a tag által 2010. január 1-je után kezdeményezett portfólióváltások i
 [^76]: A 29. § (7) bekezdése a 332/2005. (XII. 29.) Korm. rendelet 8. §-ával megállapított, a 369/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.
 [^77]: A 29. § (8) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte, újonnan a 155/2009. (VII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^78]: A 29. § (9) bekezdését a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.
-[^79]: A 29. § (10) bekezdése a 369/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^79]: A 29. § (10) bekezdése a 369/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^80]: A 29. § (11) bekezdése a 332/2009. (XII. 29.) Korm. rendelet 4. § (3) bekezésével megállapított szöveg.
 [^81]: A 29. § (12) bekezdése a 335/2008. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^82]: A 29. § (13) bekezdése a 332/2009. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
