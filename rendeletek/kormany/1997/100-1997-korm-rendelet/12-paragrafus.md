@@ -52,7 +52,7 @@ b) a Hivatal a központi vizsgakövetelményekre épülő vizsgatárgyak esetéb
 
 (14)[^69] Ha a jelentkező az adott vizsgatárgyból az érettségi vizsgát azért nem kezdheti meg, mert nem teljesítette a vizsgára bocsátás feltételeit, a jelentkezését törölni kell. A törlésről az igazgató határozatot hoz.
 
-(15)[^70] A tanuló kérelmére a rendes érettségi vizsgáját előrehozott érettségi vizsgára kell változtatni bármely érettségi vizsgatárgy esetében, ha rendes érettségi vizsgára jelentkezett, azonban a középiskola utolsó évfolyamán nem tudta befejezni a tanulmányait.
+(15)[^70] Ha a tanuló a középiskola utolsó évfolyamán nem tudta befejezni a tanulmányait, az adott vizsgaidőszakban rendes, javító és pótló érettségi vizsgát nem tehet. A tanuló kérelmére a rendes érettségi vizsgajelentkezéseit előrehozott érettségi vizsgajelentkezésre kell változtatni bármely érettségi vizsgatárgyból, amelyből jogosult érettségi vizsgát tenni. Azokat a vizsgajelentkezéseket, amelyekre a tanuló nem jogosult, az igazgató törli.
 
 (16)[^71] Előrehozott érettségi vizsgára kormányhivatalnál jelentkezhet bármely érettségi vizsgatárgyból a május–júniusi vizsgaidőszak vonatkozásában az a vizsgázó, aki a kérelem benyújtásának időpontjában külföldi vagy külföldi rendszerű középiskola utolsó évfolyamán folytatja tanulmányait. A vizsgára bocsátáskor nem kell vizsgálni az (1) bekezdésben meghatározott feltételek meglétét, azonban a sikeres érettségi vizsgáról kiállított tanúsítvány csak a középiskolai végzettséget tanúsító okirattal együtt alkalmazható.
 
@@ -73,5 +73,5 @@ b) a Hivatal a központi vizsgakövetelményekre épülő vizsgatárgyak esetéb
 [^67]: A 12. § eredeti (11) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (12) bekezdésre változtatta, szövege a 351/2010. (XII. 30.) Korm. rendelet 40. § (6) bekezdésével megállapított szöveg.
 [^68]: A 12. § eredeti (12) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (13) bekezdésre változtatta, a bekezdést hatályon kívül helyezte a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése.
 [^69]: A 12. § (14) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^70]: A 12. § (15) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 106/2012. (VI. 1.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^70]: A 12. § (15) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 36/2015. (III. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^71]: A 12. § (16) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 106/2012. (VI. 1.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.

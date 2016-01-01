@@ -1,24 +1,36 @@
-60. § (1)[^333] Az érettségi vizsgán végzett munkáért a vizsgabizottság és a tantárgyi bizottság elnökének, tagjainak, a szaktanárnak, a kérdező tanárnak, a kormányhivatal által megbízott szakértőnek, a vizsgabizottság jegyzőjének vizsgáztatási díj, a vizsgabiztosnak, a felügyelő tanárnak, a helyettesnek, valamint a kormányhivatal által működtetett vizsgabizottság kivételével az igazgatónak díjazás jár.
+60. §[^333] (1) Az érettségi vizsgán végzett munkáért
 
-(2)[^334] A vizsgáztatási díj nem lehet kevesebb – vizsgázónként számítva – a vizsga évének első munkanapján érvényes kötelező legkisebb munkabér (minimálbér)
+a) a vizsgabizottság és a tantárgyi bizottság elnökének, a szaktanárnak, a kérdező tanárnak, a vizsgabizottság jegyzőjének vizsgáztatási díj,
 
-a) három százalékánál a vizsgabizottság, tantárgyi bizottság által ténylegesen vizsgáztatott valamennyi vizsgázó figyelembevételével, a vizsgabizottság, a tantárgyi bizottság elnöke,
+b) a vizsgabiztosnak, a felügyelő tanárnak, a helyettesnek, valamint a kormányhivatal által működtetett vizsgabizottság kivételével az igazgatónak díjazás
 
-b) középszintű vizsga esetében két százalékánál vizsgatárgyanként azoknak a vizsgázóknak a figyelembevételével, akiknek az írásbeli vizsgadolgozatát javította, a szaktanár,
+## jár.
 
-c) emelt szintű vizsga esetében három százalékánál vizsgatárgyanként azoknak a vizsgázóknak a figyelembevételével, akiknek az írásbeli vizsgadolgozatát javította, a szaktanár,
+(2) A vizsgáztatási díj nem lehet kevesebb a vizsgáztatási alapdíj (a továbbiakban: alapdíj) százalékában meghatározott összegnél. Az alapdíj összege százegyezer-ötszáz forint.
 
-d) két százalékánál vizsgatárgyanként azoknak a vizsgázóknak a figyelembevételével, akiknek a szóbeli vizsgáján kérdező tanár volt, a kérdező tanár,
+(3) A vizsgáztatási díj legkisebb mértékét
 
-e) két százalékánál a törzslapon feltüntetett valamennyi vizsgázó figyelembevételével a vizsgabizottság jegyzője
+a) a vizsgabizottság elnöke részére vizsgabizottságba beosztott összes vizsgázó száma és az alapdíj egy százalékának szorzata, továbbá a vizsgabizottság által lebonyolított összes középszintű vizsgatárgyi vizsga számának és az alapdíj fél százalékának szorzata,
 
-## részére.
+b) középszintű vizsga esetében a szaktanár részére az általa javított vizsgadolgozatok száma és az alapdíj kettő százaléka szorzata,
 
-(3)[^335] Ha a szaktanári és a kérdező tanári feladatokat azonos személy látja el, a vizsgadíj mind a kettő jogcímen megilleti.
+c) az emelt szintű vizsga esetében a szaktanár részére az általa javított vizsgadolgozatok száma és az alapdíj három százaléka szorzata,
 
-(4)[^336] Az igazgató és a vizsgabiztos díjazásának összege nem lehet kevesebb a vizsga évének első munkanapján érvényes kötelező legkisebb munkabér (minimálbér)
+d) középszintű vizsga esetében a kérdező tanár részére az általa tartott szóbeli vizsgák száma és az alapdíj kettő százaléka szorzata,
 
-a)[^337] összegének ötven százalékánál, ha a vizsgázók száma öt vagy annál kevesebb,
+e) a vizsgabizottság jegyzője részére a törzslapon feltüntetett valamennyi vizsgázó száma és az alapdíj kettő százaléka szorzata,
+
+f) a tantárgyi bizottság elnöke részére legalább az alapdíj huszonöt százalékában, illetve, ha ezt meghaladja, a tantárgyi bizottságba beosztott összes vizsgázó száma és az alapdíj három százaléka szorzata,
+
+g) a tantárgyi bizottság kérdező tanára részére legalább az alapdíj tizenöt százalékában, illetve ha ezt meghaladja, a tantárgyi bizottságba beosztott összes vizsgázó száma és az alapdíj kettő százaléka szorzata
+
+## eredményeként kell megállapítani.
+
+(4) Ha a szaktanári és a kérdező tanári feladatokat azonos személy látja el, a vizsgadíj mind a kettő jogcímen megilleti.
+
+(5) Az igazgató és a vizsgabiztos díjazásának összege nem lehet kevesebb az alapdíj
+
+a) összegének ötven százalékánál, ha a vizsgázók száma öt vagy annál kevesebb,
 
 b) összegénél, ha a vizsgázók száma meghaladja az ötöt, de nem haladja meg a harmincat,
 
@@ -26,17 +38,14 @@ c) kétszeresénél, ha a vizsgázók száma meghaladja a harmincat, de nem hala
 
 d) háromszorosánál, ha a vizsgázók száma meghaladja a hetvenet.
 
-(5)[^338] Ha az igazgató az érettségi vizsga szervezésével kapcsolatos feladatainak ellátásába a helyettesét, illetve más megbízottját is bevonta, a feladatainak ellátásában közreműködők díjazását az érintett vizsgázók számára tekintettel az igazgató állapítja meg.
+(6) Ha az igazgató az érettségi vizsga szervezésével kapcsolatos feladatainak ellátásába a helyettesét, illetve más megbízottját is bevonta, a feladatainak ellátásában közreműködők díjazását az érintett vizsgázók számára tekintettel az igazgató állapítja meg.
 
-(6)[^339] A felügyelő tanár részére díjazás azokra az órákra állapítható meg, amelyeken legalább harminc percig felügyeletet látott el. Több megkezdett óra idejét össze kell vonni. Az egy óráért járó összeg nem lehet kevesebb a vizsga évének első munkanapján érvényes kötelező legkisebb munkabér (minimálbér) kettő százalékánál.
+(7) A felügyelő tanár részére díjazás azokra az órákra állapítható meg, amelyeken legalább harminc percig felügyeletet látott el. Több megkezdett óra idejét össze kell vonni. Az egy óráért járó összeg nem lehet kevesebb az alapdíj kettő százalékánál.
 
-(7)[^340] A helyettesek részére azokra a napokra, amelyek alatt készenlétben kell állniuk, a vizsga évének első munkanapján érvényes kötelező legkisebb munkabér (minimálbér) négy százaléka jár.
+(8) A helyettesek részére azokra a napokra, amelyek alatt készenlétben kell állniuk, az alapdíj négy százaléka jár.
 
-[^333]: A 60. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 40. § (14) bekezdésével megállapított szöveg.
-[^334]: A 60. § (2) bekezdése a 256/2005. (XII. 7.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^335]: A 60. § új (3) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 24. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3)–(6) bekezdés számozását (4)–(7) bekezdésre változtatva.
-[^336]: A 60. § eredeti (3) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 24. § (2) bekezdése (4) bekezdésre változtatta.
-[^337]: A 60. § (3) bekezdésének a) pontja a 277/1997. (XII. 22.) Korm. rendelet 26. §-ának (5) bekezdésével megállapított szöveg.
-[^338]: A 60. § eredeti (4) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 24. § (2) bekezdése (5) bekezdésre változtatta.
-[^339]: A 60. § eredeti (5) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 24. § (2) bekezdése (6) bekezdésre változtatta.
-[^340]: A 60. § eredeti (6) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 24. § (2) bekezdése (7) bekezdésre változtatta.
+(9) Ha a vizsgabizottság elnökének tartózkodási helye – ennek hiányában lakóhelye – és a vizsgabizottság működési helye nem egy településen van, a vizsgaelnök számára a vizsgaelnöki teendőivel kapcsolatos utazás igazolt költségeit meg kell téríteni.
+
+(10) Az e §-ban szabályozott díjak közül a vizsgabizottság elnökével, valamint az emelt szintű vizsgáztatással kapcsolatos költségeket a kormányhivatal, a kormányhivatal által működtetett vizsgabizottság esetén a vizsgabizottság elnökével kapcsolatos költségeket a Hivatal, minden egyéb költséget a vizsgabizottságot működtető intézmény köteles fedezni. A díjat, díjazást száz forintra kerekítve kell megállapítani.
+
+[^333]: A 60. § a 36/2015. (III. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
