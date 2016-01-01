@@ -1,4 +1,4 @@
-21. §[^149] (1) A visszafizetendő működési támogatás és annak kamata a folyósítandó működési támogatásból levonásra kerül.
+21. §[^147] (1) A visszafizetendő működési támogatás és annak kamata a folyósítandó működési támogatásból levonásra kerül.
 
 (2) Ha a visszafizetendő működési támogatás, illetve annak kamata a folyósítandó működési támogatásból nem vonható le, és a Hivatal részletfizetést sem engedélyezett, a fenntartó a visszafizetendő működési támogatást és kamatait legkésőbb a követelés közlését követő 15 napon belül, a benyújtott elszámolás alapján visszafizetendő támogatást és kamatait az elszámolás benyújtásával egyidejűleg köteles megfizetni.
 
@@ -8,4 +8,4 @@
 
 (5) A beszedési megbízás érvényesítése után fennmaradó tartozás behajtása iránt a Hivatal megkeresi a tartozás adók módjára történő behajtására hatáskörrel és illetékességgel rendelkező adóhatóságot.
 
-[^149]: A 21. § a 353/2014. (XII. 29.) Korm. rendelet 56. §-ával megállapított szöveg.
+[^147]: A 21. § a 353/2014. (XII. 29.) Korm. rendelet 56. §-ával megállapított szöveg.
