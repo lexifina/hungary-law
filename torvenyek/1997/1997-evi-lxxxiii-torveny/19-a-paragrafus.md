@@ -2,6 +2,8 @@
 
 (1a) Az (1) bekezdés szerinti eljárásban a kérelmet – az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló kormányrendeletben meghatározott adattartalmú nyomtatvány vagy elektronikus űrlap kitöltésével – papír alapon és elektronikus adathordozón is be kell nyújtani.
 
+(1b) Ha a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő előzetes befogadása iránti kérelem új eszközt nem igénylő új orvosi eljárásra irányul, az ügyintézési határidő hatvan nap.
+
 (2) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó egyes eljárásokért – az egészségbiztosításért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
 (3) Az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadására irányuló eljárásban, valamint a már befogadott technológiák egészségbiztosítási finanszírozásra való alkalmasságának megállapítására irányuló eljárásban hozott döntés ellen nincs helye fellebbezésnek.

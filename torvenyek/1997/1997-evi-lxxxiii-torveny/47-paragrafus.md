@@ -6,7 +6,7 @@ a) a keresőképtelenségnek arra az időtartamára, amely alatt a biztosítás 
 
 b) a keresőképtelenségnek arra a tartamára, amelyre a biztosított a teljes keresetét megkapja, illetve, ha a keresetét részben kapja meg, a részben megkapott kereset után,
 
-c) a gyermekgondozási segély folyósításának az idejére, ide nem értve a segély mellett végzett munka alapján járó táppénzt,
+c) a gyermekgondozást segítő ellátás folyósításának az idejére, ide nem értve a segély mellett végzett munka alapján járó táppénzt,
 
 d) az előzetes letartóztatás és a szabadságvesztés tartamára.
 

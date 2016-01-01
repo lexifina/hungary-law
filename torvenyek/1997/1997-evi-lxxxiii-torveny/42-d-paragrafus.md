@@ -10,11 +10,11 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (3) Ha a naptári napi alap nem állapítható meg a (2) bekezdésben foglaltak szerint, akkor a naptári napi alap a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni.
 
-(4) A (2) bekezdés alapján maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+(4) A maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
 
-(5) Ha a gyermek gyermekgondozási díj vagy gyermekgondozási segély igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2) és (3) bekezdés alapján számított gyermekgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
+(5) Ha a gyermek gyermekgondozási díj vagy gyermekgondozást segítő ellátás igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2) és (3) bekezdés alapján számított gyermekgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
 
-(6) Az (5) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított csecsemőgondozási díj alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
+(6) Az (5) bekezdés csak akkor alkalmazható, ha az utolsóként született gyermeket közvetlenül megelőzően született gyermekre tekintettel megállapított csecsemőgondozási díj alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
 
 (7) A gyermekgondozási díj megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
 

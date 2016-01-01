@@ -46,7 +46,7 @@ i) az egészségi állapotot pozitív irányban alapvetően nem befolyásoló, s
 
 j) a g)–i) pontban meghatározott ellátások következményeinek elhárítására, illetve az eredeti állapot visszaállítására irányuló egészségügyi szolgáltatások,
 
-k) a méltányosságból igénybe vehető egészségügyi szolgáltatások kivételével a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem fogadott eljárás, gyógyszer, gyógyászati segédeszköz alkalmazása, illetve a befogadott egészségügyi szolgáltatás befogadástól eltérő alkalmazása,
+k) a méltányosságból igénybe vehető egészségügyi szolgáltatások kivételével a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem fogadott eljárás, gyógyszer, gyógyászati segédeszköz alkalmazása, illetve a befogadott egészségügyi szolgáltatás befogadástól eltérő alkalmazása, valamint az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 25/C. §-a szerinti engedélyezés előtti gyógyszeralkalmazás,
 
 l) a kizárólag orvostudományi kutatás keretében nyújtott ellátások,
 

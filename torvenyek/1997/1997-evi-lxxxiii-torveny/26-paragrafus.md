@@ -51,7 +51,3 @@ b) gyógyászati segédeszközhöz az E. Alap Gyógyászati segédeszköz támog
 nyújtható.
 
 Amennyiben a méltányosságból megítélt támogatás adott hónapban meghaladja az a), illetve b) pontban meghatározott keretet, az a következő havi időarányos részt terheli.
-
-5. CÍM
-
-Külföldön történő gyógykezelés

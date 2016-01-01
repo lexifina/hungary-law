@@ -22,6 +22,8 @@ b) az (1) bekezdés b)–f) pontjában foglalt feltételek valamelyikének nem f
 
 (4) A vér szerinti apa részére a gyermekgondozási díj a (2) bekezdésben meghatározott jogosultsági időből igénybe nem vett időszakra jár, de legfeljebb a gyermek 1 éves koráig.
 
+(4a) A gyermek születését követő 169. napot megelőzően nem jár gyermekgondozási díj az (1) és (3) bekezdés alapján jogosult részére arra az időszakra, amikor bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat.
+
 (5) Az (1), illetve a (3) bekezdés alapján megállapított gyermekgondozási díj havi összege
 
 a) a felsőfokú alapképzésben, felsőfokú szakképzésben vagy felsőoktatási szakképzésben, valamint a szakirányú továbbképzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes kötelező legkisebb munkabér,
@@ -32,7 +34,7 @@ b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésbe
 
 (6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a szülés napján biztosított és a számítási időszakban rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás összegét a 48. § (1) és (2) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb havonta a minimálbér kétszeresének 70 százalékánál.
 
-(7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított nem rendelkezik legalább 180 naptári napi jövedelemmel, az ellátás összegét az (5) bekezdés szerint kell megállapítani.
+(7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított a számítási időszakban nem rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás naptári napi alapját a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része alapján kell megállapítani azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni. Az így megállapított gyermekgondozási díj összege nem lehet alacsonyabb az (5) bekezdésben meghatározott összegnél.
 
 (8) Ha az (1) vagy a (3) bekezdés alapján gyermekgondozási díjra jogosult személy az (1) bekezdés b) pontja szerinti hallgatói jogviszony megszűnését követő 1 éven belül válik jogosulttá az ellátásra és az ellátás összege nem állapítható meg a (6) bekezdés alapján, a gyermekgondozási díj összegét az (5) bekezdés a) vagy b) pontja szerint kell megállapítani.
 
