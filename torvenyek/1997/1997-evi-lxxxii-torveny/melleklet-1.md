@@ -8,7 +8,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 3. Bat.: az 1991. évi LXIII. törvény a befektetési alapokról;
 
-4. Bit.: a 2003. évi LX. törvény a biztosítókról és biztosítási tevékenységről;
+4. Bit.: a biztosítási tevékenységről szóló törvény;
 
 5. Cstv.: az 1991. évi XLIX. törvény a csődeljárásról és a felszámolási eljárásról;
 
