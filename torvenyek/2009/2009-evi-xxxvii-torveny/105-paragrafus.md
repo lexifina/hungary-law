@@ -4,7 +4,7 @@
 
 (2) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
 
-(3) Az erdőterv-módosítási eljárás, az igénybevételi eljárás, valamint az erdőgazdálkodói nyilvántartásba vételi eljárás ügyintézési határideje – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – 45 nap.
+(3) Az erdőterv-módosítási eljárás, az igénybevételi eljárás, valamint az erdőgazdálkodói nyilvántartásba vételi eljárás ügyintézési határideje – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – harmincöt nap.
 
 (4) Ha az erdészeti hatósági eljárás a Ket.-ben meghatározott jelentős számú ügyfelet érint, akkor a hatóság az ügyféllel hirdetményi úton tart kapcsolatot.
 
@@ -21,3 +21,7 @@ b) a bejegyzéssel érintett ingatlan társult erdőgazdálkodásra kötelezett 
 (8) Ha a (7) bekezdésben foglalt bejelentést tevő személyek az erdészeti hatósági hiánypótlási felhívásban meghatározott határidő alatt a bejegyzés alapjául szolgáló okirat érvénytelensége, illetve a közös tulajdon megszüntetése iránti per megindítását a keresetlevélnek a bíróságon iktatott példányával vagy annak hiteles másolatával nem igazolják, az erdészeti hatóság érdemi határozatot hoz a bejegyzési kérelem tekintetében.
 
 (9) Semmisségi oknak minősül, ha az erdészeti hatóság az erdő igénybevételének engedélyezéséről, elvi engedélyezéséről a közérdekűség vagy a kivételesség e törvény szerinti vizsgálata nélkül dönt.
+
+(10) Az erdészeti hatóságnak az erdő igénybevételi eljárásban és az erdő területén fátlan állapot kialakításának vagy fenntartásának engedélyezési eljárásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(11) Az erdészeti hatóság az eljárását az ügy érdemével összefüggően indított büntetőeljárás vagy szabálysértési eljárás jogerős lezárásáig felfüggesztheti.

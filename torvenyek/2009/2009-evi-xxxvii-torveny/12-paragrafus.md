@@ -2,7 +2,7 @@
 
 12. § (1) E törvény alkalmazásában fásítás az erdei fafajból vagy fafajokból álló
 
-a) egyes fa;
+a)
 
 b) jellemzően vonalas kiterjedésű fával borított terület, ahol az állományon belüli egyes fák, és a terület kisebb kiterjedése szerinti szélső fák egymástól mért tőtávolsága átlagosan nem nagyobb húsz méternél (fasor);
 

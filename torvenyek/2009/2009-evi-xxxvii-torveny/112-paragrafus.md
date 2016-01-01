@@ -64,7 +64,9 @@ c) határozza meg az erdészeti hatóság faanyag kereskedelmi lánc hatósági 
 
 25. az erdőgazdálkodói tevékenység nyilvánossága biztosításának részletes szabályait;
 
-26. az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet, valamint az erdővédelmi szolgálat tagjának szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat.
+26. az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet, valamint az erdővédelmi szolgálat tagjának szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
+
+27. az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentési, valamint adatszolgáltatási kötelezettség eseteit, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy – védett természeti területen lévő erdő vonatkozásában a természetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg:
 

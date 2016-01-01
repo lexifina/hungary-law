@@ -16,7 +16,7 @@ e) erdőrészletenként az erdő rendeltetésének vagy rendeltetéseinek és ü
 
 f) erdőrészletenként az erdei haszonvételek javasolt mértékét, gyakorlásának módját,
 
-g) az erdőgazdálkodási tevékenységgel összefüggő átfogó adatokat, valamint azok elemzését,
+g) az erdőgazdálkodási tevékenységgel összefüggő átfogó adatokat,
 
 h) az erdészeti nyilvántartási térképeket,
 

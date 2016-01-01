@@ -9,3 +9,5 @@
 (5) Tilos tüzet gyújtani erdőben, valamint annak kétszáz méteres körzetében lévő külterületi ingatlanokon a fokozott tűzveszély időszakában.
 
 (6) Tilos az erdőben közvetlenül vagy közvetve tüzet okozó tárgyak elhelyezése.
+
+(7) Nem minősül tűzgyújtásnak a gáz égőfej és a zárt tűzterű sütő-, főző-, melegítő eszköz alkalmazása, ha az megfelelő szikrafogóval van ellátva.

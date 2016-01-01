@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-37-00-00
 | 2014-07-16 | 2014. évi XXXV. törvény | 2009-37-00-00.19 |
 | 2015-05-05 | 2015. évi XLIX. törvény | 2009-37-00-00.20 |
 | 2015-07-03 | 2015. évi LXXIX. törvény | 2009-37-00-00.21 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 2009-37-00-00.22 |
