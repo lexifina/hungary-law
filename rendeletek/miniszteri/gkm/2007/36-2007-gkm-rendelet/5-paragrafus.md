@@ -16,7 +16,7 @@ e) az értékesítő neve és címe vagy székhelye,
 
 f) az értékesítés helye, az értékesítés ideje és a jogosultság érvényességének kezdő időpontja év, hónap, nap, óra és perc értékkel megadva.
 
-(3)[^24] A mobil telefon útján – rövid szöveges üzenettel – történő vásárlást nyugtázó értesítés a (2) bekezdés a)–d) pontja szerinti adatokat tartalmazza.
+(3)[^24] A mobil telefon útján történő vásárlást nyugtázó értesítés a (2) bekezdés a)–d) pontja szerinti adatokat tartalmazza.
 
 (4)[^25]
 
@@ -24,5 +24,5 @@ f) az értékesítés helye, az értékesítés ideje és a jogosultság érvén
 [^21]: Az 5. § a 108/2007. (XII. 23.) GKM rendelet 4. §-ával megállapított szöveg.
 [^22]: Az 5. § (1) bekezdése a 95/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított szöveg.
 [^23]: Az 5. § (2) bekezdése a 95/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított szöveg.
-[^24]: Az 5. § (3) bekezdése a 95/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított szöveg.
+[^24]: Az 5. § (3) bekezdése a 95/2011. (XII. 30.) NFM rendelet 4. §-ával megállapított, a 75/2015. (XII. 29.) NFM rendelet 19. § a) pontja szerint módosított szöveg.
 [^25]: Az 5. § (4) bekezdését a 95/2011. (XII. 30.) NFM rendelet 9. § (2) bekezdés d) pontja hatályon kívül helyezte.
