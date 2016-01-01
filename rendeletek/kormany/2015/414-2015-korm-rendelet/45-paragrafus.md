@@ -1,0 +1,1 @@
+## 44. § A polgár a nyilvántartott adatairól szóló tájékoztatásra irányuló kérelmét a polgár lakó-, vagy tartózkodási helye szerinti illetékes települési önkormányzat jegyzőjénél vagy bármely járási hivatalnál, illetve a központi szervnél is előterjesztheti.

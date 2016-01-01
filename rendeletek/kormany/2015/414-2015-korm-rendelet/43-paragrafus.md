@@ -1,0 +1,1 @@
+## 42. § Ha a fogvatartott állandó személyazonosító igazolványt igényelt, akkor a személyazonosító igazolvány 24. § (4) bekezdése szerinti kézhezvételét követően az érvénytelen személyazonosító igazolványt a bv. szerv vezetője a központi szervnek megküldi.

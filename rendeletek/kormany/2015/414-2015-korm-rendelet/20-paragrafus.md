@@ -1,0 +1,1 @@
+## 19. § A cselekvőképességet teljesen korlátozó gondnokság alatt álló kérelmező esetében a 18. §-ban meghatározottakon túl a kérelemhez be lehet mutatni a gondnokság alá helyezést tanúsító jogerős bírósági határozatot, valamint be kell mutatni a törvényes képviseletet igazoló jogerős gyámhatósági határozatot, valamint a törvényes képviselő személyazonosságát igazoló okmányt is.

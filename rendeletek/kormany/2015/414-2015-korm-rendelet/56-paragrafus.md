@@ -1,0 +1,21 @@
+## 17. A tanúsítvány kiadása és átadása
+
+56. § (1) A tanúsítványt a kijelölt hitelesítés-szolgáltató bocsátja ki, és közzéteszi abban az esetben, ha a szolgáltatás igénybe vevője erről így nyilatkozott.
+
+(2) Az 51. § (2) bekezdés a) pontja szerinti esetben a tanúsítványt az állandó személyazonosító igazolványon a központi szerv helyezi el.
+
+(3) Az 51. § (2) bekezdés b) pontja szerinti esetben a tanúsítványt az érvényes állandó személyazonosító igazolványon az e-aláírási funkcióval kapcsolatos szolgáltatási szerződés megkötése során eljáró szerv helyezi el.
+
+(4) Ha a szolgáltatást igénybe vevő az állandó személyazonosító igazolvány kiadására irányuló eljárás során az e-aláírás funkcióra vonatkozó szolgáltatási szerződést is megkötötte, akkor az állandó személyazonosító igazolványt és annak tároló elemén elhelyezett aláírás-létrehozó adatot és tanúsítványt
+
+a) személyesen veheti át a járási hivatalnál vagy a központi szervnél, vagy
+
+b) a központi szervvel kötött szerződés alapján az egyetemes postai szolgáltató kézbesíti személyesen a szolgáltatást igénybe vevő vagy meghatalmazottja részére.
+
+(5) A járási hivatalban, illetve a központi szervnél kell átadni az állandó személyazonosító igazolványt és annak tároló elemén elhelyezett aláírás-létrehozó adatot és tanúsítványt, ha a kérelem benyújtását követően az ügyfél birtokában marad a korábbi, még érvényes állandó személyazonosító igazolványa.
+
+(6) A postai úton át nem vett állandó személyazonosító igazolványt és annak tároló elemén elhelyezett aláírás-létrehozó adatot és tanúsítványt az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt cím szerint illetékes járási hivatal is átveheti. A postai úton át nem vett állandó személyazonosító igazolványt és annak tároló elemén elhelyezett aláírás-létrehozó adatot és tanúsítványt a szolgáltatást igénybe vevő vagy meghatalmazottja veheti át a szolgáltatást igénybe vevő által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt cím szerint illetékes járási hivatalban.
+
+(7) Ha a szolgáltatást igénybe vevő a tároló elemmel ellátott érvényes állandó személyazonosító igazolvánnyal igényel e-aláírás funkcióra vonatkozó szolgáltatást, akkor az aláírás-létrehozó adatot és a kapcsolódó tanúsítványt a szolgáltatási szerződés megkötésével egyidejűleg az eljáró hatóság az állandó személyazonosító igazolvány tároló elemén elhelyezi.
+
+(8) A (4) bekezdés b) pontja szerinti postai kézbesítés esetén az állandó személyazonosító igazolvány – és annak tároló elemén elhelyezett aláírás-létrehozó adat és tanúsítvány – átvételét tanúsító iratot a központi szerv továbbítja a kijelölt hitelesítés-szolgáltatónak.

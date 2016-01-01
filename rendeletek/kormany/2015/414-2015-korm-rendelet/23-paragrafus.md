@@ -1,0 +1,17 @@
+23. § (1) Az Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolvány igénylése kivételével a kérelem felvételét követően haladéktalanul az eljáró hatóság sértetlen, lezárt borítékban a kérelmező rendelkezésre bocsátja
+
+a) az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kódot és a regisztrációs kódot, és
+
+b) a PUK kódot.
+
+(2) A 12. § (2) bekezdésében foglalt esetekben az eljáró hatóság az (1) bekezdésben meghatározott kódokat átadás céljából a kérelmező meghatalmazottjának adja át.
+
+(3) A 11. § (3) bekezdésében foglalt esetekben az eljáró hatóság a személyazonosító igazolványtól időben elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat a kérelmező által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt címre személyesen a kérelmezőnek, törvényes képviselőjének vagy meghatalmazottjának.
+
+(4) A 11. § (4) bekezdésében foglalt esetben a központi szerv átadás céljából a bv. szervnek a személyazonosító igazolványtól elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat.
+
+(5) A 13. §-ban foglalt esetben – ha a személyazonosító igazolvány postai úton történő továbbítására kerül sor – az eljáró hatóság a személyazonosító igazolványtól időben elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat a kérelmező által az eljárás során a személyazonosító igazolvány kézbesítésére megjelölt címre személyesen a kérelmező törvényes képviselőjének.
+
+(6) Az állandó személyazonosító igazolvány iránti kérelemnek az eljáró hatóság általi átvételét a kérelem másolati példányával igazolni kell.
+
+(7) Az (1) bekezdés szerinti kódok kérelmező általi átvételét, illetve az átvétel kérelmező általi megtagadását igazolni kell.

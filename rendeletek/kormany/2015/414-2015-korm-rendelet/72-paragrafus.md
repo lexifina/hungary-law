@@ -1,0 +1,1 @@
+## 71. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet 19. § (5) bekezdésében a „személyazonosító igazolvány kiadásáról és nyilvántartásáról” szövegrész helyébe a „személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól” szöveg lép.

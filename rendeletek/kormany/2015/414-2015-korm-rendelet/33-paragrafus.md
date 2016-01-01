@@ -1,0 +1,13 @@
+## 9. A személyazonosító igazolvány adatainak bejegyzésére és külső megjelenítésére vonatkozó egyes szabályok
+
+33. § (1) A nemzetiséghez tartozó polgár kérelmére családi és utónevét a személyazonosító igazolványba az anyakönyvbe bejegyzett mindkét nyelven be kell jegyezni.
+
+(2) A személyazonosító igazolványba a doktori címet a személyiadat- és lakcímnyilvántartásba történt bejegyzéssel egyezően kell feltüntetni.
+
+(3) Az írásképtelen vagy írástudatlan polgár személyazonosító igazolványának aláírás rovata bejegyzést nem tartalmaz.
+
+(4) A magyar állampolgár, a bevándorolt, a letelepedett, a menekült és az oltalmazott jogállású személy állampolgársági adatát a személyazonosító igazolványban – az országnevek kódjaira vonatkozó nemzeti szabvány alkalmazásával – háromjegyű betűkód formájában kell feltüntetni.
+
+(5) Az állandó személyazonosító igazolvány Nytv. 29. § (3) bekezdése szerinti gépi olvasásra alkalmas adatsora az ICAO 9303 számú dokumentum előírásai alapján épül fel. Az Nytv. 29/G. § (2) bekezdése alapján kiadott személyazonosító igazolvány a külföldre utazási korlátozás tényét a gépi olvasású adatsorban tartalmazza.
+
+(6) A magyar állampolgár részére kiadott állandó személyazonosító igazolvány vizuális megjelenésében eltér a bevándorolt, letelepedett, menekült vagy oltalmazott jogállású személynek kiadott állandó személyazonosító igazolványtól.

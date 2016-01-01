@@ -1,0 +1,5 @@
+30. § (1) Az Utv. 16/D. § (3) bekezdésében meghatározott esetben a bv. szerv elveszi a polgár személyazonosító igazolványát. Az elvett személyazonosító igazolványt a bv. szerv a (2) bekezdésben meghatározott eljárást követően haladéktalanul továbbítja a központi szervnek.
+
+(2) Az Nytv. 29/G. § (2) bekezdésében meghatározott állandó személyazonosító igazolvány kiadásához a bv. szerv a külföldre utazási korlátozás hatálya alatt álló polgár személyazonosságát, állampolgárságát ellenőrzi, a külföldre utazási korlátozás hatálya alatt álló polgárról arcképmás felvételt készít, ezt követően továbbítja a központi szervnek az Nytv. 29/G. § (2) bekezdésében meghatározott személyazonosító igazolvány kiadásához szükséges adatokat. Ennek során a megküldött adatokat egyezteti az állandó személyazonosító igazolvány vagy a személyazonosságot igazoló más érvényes okmány adattartalmával és a bemutatott okiratokban szereplő adatokkal.
+
+(3) Az Nytv. 29/G. § (2) bekezdése szerinti személyazonosító igazolványt és a 23. § (1) bekezdése szerinti kódokat a központi szerv az adatot szolgáltató bv. szerv részére küldi meg átadás céljából.
