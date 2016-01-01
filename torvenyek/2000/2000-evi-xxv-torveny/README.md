@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-25-00-00
 | 2013-07-06 | 2013. évi CXXVII. törvény | 2000-25-00-00.24 |
 | 2013-09-01 | 2013. évi CXXVII. törvény | 2000-25-00-00.25 |
 | 2015-06-01 | 2009. évi CLIV. törvény | 2000-25-00-00.26 |
+| 2016-01-01 | 2015. évi CCXXIV. törvény | 2000-25-00-00.27 |
