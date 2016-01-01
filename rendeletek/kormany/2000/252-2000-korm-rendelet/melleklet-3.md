@@ -174,6 +174,6 @@
 
 ## III. Alapok tárgyévi eredménye (I–II)
 
-3. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^70]
+3. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^75]
 
-[^70]: A 3. számú mellékletet a 345/2010. (XII. 28.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^75]: A 3. számú mellékletet a 345/2010. (XII. 28.) Korm. rendelet 21. §-a hatályon kívül helyezte.

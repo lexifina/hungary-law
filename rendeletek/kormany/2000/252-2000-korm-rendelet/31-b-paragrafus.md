@@ -8,7 +8,7 @@
 
 (2)[^53] Az (1) bekezdés szerinti vagyonmérleget és vagyonleltárt az átalakulás során két alkalommal kell elkészíteni: először az átalakulásról szóló döntés megalapozásához, illetve a tevékenységi engedély iránti kérelem alátámasztására – a pénztár közgyűlése által meghatározott fordulónapra (vagyonmérleg-tervezet és vagyonleltár-tervezet) –, majd az átalakulás (a jogutód pénztár alapszabálya hatálybalépésének időpontja, amelyet az alapszabály elfogadásával egyidejűleg a második közgyűlés határoz meg) napjával (végleges vagyonmérleg és végleges vagyonleltár).
 
-(3) A vagyonmérleget (a vagyonmérleg-tervezetet és a végleges vagyonmérleget), a vagyonleltárt (a vagyonleltár-tervezetet és a végleges vagyonleltárt) az e rendelet szerinti beszámoló mérlegére és az azt alátámasztó leltárra vonatkozó előírások szerint kell elkészíteni a (4)–(11) bekezdésben és a 31/B–31/D. §-okban foglaltak figyelembevételével.
+(3)[^54] A vagyonmérleget (a vagyonmérleg-tervezetet és a végleges vagyonmérleget), a vagyonleltárt (a vagyonleltár-tervezetet és a végleges vagyonleltárt) az e rendelet szerinti beszámoló mérlegére és az azt alátámasztó leltárra vonatkozó előírások szerint kell elkészíteni a (4)–(11) bekezdésben és a 31/C–31/E. §-okban foglaltak figyelembevételével.
 
 (4) A (3) bekezdés szerinti vagyonmérleget – ha jogszabály másként nem rendelkezik – háromoszlopos formában kell elkészíteni oly módon, hogy
 
@@ -59,3 +59,4 @@ b) kiválás esetében a kiválással létrejövő, valamint a továbbműködő 
 [^51]: Az új 31/A. §-t és az előtte lévő címet a 358/2006. (XII. 27.) Korm. rendelet 40. §-a iktatta be, egyidejűleg az eredeti 31/A–31/D. § számozását 31/B–31/E. §-ra változtatva. A 31/A. §-t a 345/2010. (XII. 28.) Korm. rendelet 21. §-a hatályon kívül helyezte.
 [^52]: A 31/A. §-t és az azt megelőző címet és alcímet a 352/2004. (XII. 22.) Korm. rendelet 14. §-a iktatta be, számozását 31/B. §-ra változtatta a 358/2006. (XII. 27.) Korm. rendelet 40. §-a.
 [^53]: A 31/B. § (2) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 74. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 214. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^54]: A 31/B. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 79. § 1. pontja szerint módosított szöveg.

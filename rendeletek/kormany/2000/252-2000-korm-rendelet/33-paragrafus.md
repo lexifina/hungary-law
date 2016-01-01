@@ -22,6 +22,6 @@ c) a befektetések állományának változásából.
 
 (6) A (4) és (5) bekezdések b) és c) pontjaiban foglalt növekedések és csökkenések a pénztár alapjainak állományát nem módosítják, csak az alapok egymás közötti megosztásának, illetve a befektetések és a szabad pénzeszközök arányának a változását tükrözik.
 
-(7)[^61]
+(7)[^66]
 
-[^61]: A 33. § (7) bekezdését a 352/2004. (XII. 22.) Korm. rendelet 19. §-ának (7) bekezdése hatályon kívül helyezte.
+[^66]: A 33. § (7) bekezdését a 352/2004. (XII. 22.) Korm. rendelet 19. §-ának (7) bekezdése hatályon kívül helyezte.

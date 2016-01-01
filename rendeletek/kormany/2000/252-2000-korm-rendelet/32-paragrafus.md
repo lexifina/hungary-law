@@ -6,7 +6,7 @@
 
 (3) A kiegészítő melléklet számszaki részből és szöveges indokolásból tevődik össze.
 
-(4)[^59] A kiegészítő melléklet számszerű kimutatása a pénztári alapok alakulását, a pénztári szolgáltatásokra vonatkozó adatokat, a portfolió állomány üzleti év végi állományának könyv szerinti értékét, továbbá a taglétszám korévenkénti alakulását, valamint a szolgáltatást igénybe vevők létszámának korévenkénti alakulását tartalmazza.
+(4)[^64] A kiegészítő melléklet számszerű kimutatása a pénztári alapok alakulását, a pénztári szolgáltatásokra vonatkozó adatokat, a portfolió állomány üzleti év végi állományának könyv szerinti értékét, továbbá a taglétszám korévenkénti alakulását, valamint a szolgáltatást igénybe vevők létszámának korévenkénti alakulását tartalmazza.
 
 (5) A szöveges részben kell ismertetni azokat a körülményeket, amelyek meghatározó jelleggel befolyásolták a pénztár gazdálkodását. Rögzíteni kell azokat az eseményeket, amelyek a pénzügyi terv teljesítését megakadályozták, az éven belüli ütemezésnél az eltéréseket okozták. Be kell mutatni a rendkívüli eseményeket és azokat a tényezőket, amelyek a pénzügyi helyzetre, ezen belül a befektetésekre, a befektetési szabályok érvényesülésére, az eszközök nagyságára és összetételére hatással voltak.
 
@@ -24,7 +24,7 @@
 
 (12) Amennyiben a pénztár számviteli politikáját lényegesen módosítja, a változásokat és a változások pénztári alapokra gyakorolt hatását a kiegészítő mellékletben be kell mutatni.
 
-(13)[^60] A kiegészítő mellékletben be kell mutatni a portfólió állomány üzleti év végi állományának könyv szerinti értékét, a taglétszám korévenkénti alakulását és a szolgáltatást igénybe vevők létszámának korévenkénti alakulását.
+(13)[^65] A kiegészítő mellékletben be kell mutatni a portfólió állomány üzleti év végi állományának könyv szerinti értékét, a taglétszám korévenkénti alakulását és a szolgáltatást igénybe vevők létszámának korévenkénti alakulását.
 
-[^59]: A 32. § (4) bekezdése a 358/2006. (XII. 27.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
-[^60]: A 32. § (13) bekezdését a 358/2006. (XII. 27.) Korm. rendelet 41. § (2) bekezdése iktatta be, szövege a 345/2010. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^64]: A 32. § (4) bekezdése a 358/2006. (XII. 27.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
+[^65]: A 32. § (13) bekezdését a 358/2006. (XII. 27.) Korm. rendelet 41. § (2) bekezdése iktatta be, szövege a 345/2010. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.
