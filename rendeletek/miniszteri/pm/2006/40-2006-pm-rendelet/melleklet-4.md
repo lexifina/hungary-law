@@ -54,7 +54,7 @@
 
 ## * Tárgyévben jogerőssé vált követelés csökkentve az esedékességi sorrend szerint azt csökkentő tárgyévben jogerőssé vált törléssel.
 
-4. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^15]
+4. számú melléklet a 40/2006. (XII. 25.) PM rendelethez[^16]
 
 ## Folyó évi előírás alakulása
 
@@ -424,4 +424,4 @@
 
 | 50. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^15]: A 4. számú melléklet a 46/2012. (XII. 27.) NGM rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^16]: A 4. számú melléklet a 46/2012. (XII. 27.) NGM rendelet 20. § (2) bekezdésével megállapított szöveg.

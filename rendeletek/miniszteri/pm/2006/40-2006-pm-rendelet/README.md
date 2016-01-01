@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-40-20-5
 | 2013-01-01 | 2006-40-20-53.7 | 46/2012. (XII. 27.) NGM rendelet |
 | 2014-01-01 | 2006-40-20-53.8 | 46/2012. (XII. 27.) NGM rendelet |
 | 2015-01-01 | 2006-40-20-53.9 | 54/2014. (XII. 31.) NGM rendelet |
+| 2016-01-01 | 2006-40-20-53.10 | 47/2015. (XII. 30.) NGM rendelet |

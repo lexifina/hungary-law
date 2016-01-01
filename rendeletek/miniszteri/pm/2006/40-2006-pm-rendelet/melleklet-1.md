@@ -1,4 +1,4 @@
-## 10–11. §[^12]
+## 10–11. §[^13]
 
 1. számú melléklet a 40/2006. (XII. 25.) PM rendelethez
 
@@ -264,4 +264,4 @@ II. Lakóépület, lakás adatai
 
 III. Nem lakás célú épület adatai
 
-[^12]: A 10–11. §-t a 31/2009. (XII. 18.) PM rendelet 13. §-a hatályon kívül helyezte.
+[^13]: A 10–11. §-t a 31/2009. (XII. 18.) PM rendelet 13. §-a hatályon kívül helyezte.
