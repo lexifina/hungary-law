@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-133-00-00
 | 2012-05-31 | 2012. évi LVIII. törvény | 2006-133-00-00.8 |
 | 2013-01-01 | 2012. évi CCVIII. törvény | 2006-133-00-00.9 |
 | 2014-01-01 | 2013. évi CCIII. törvény | 2006-133-00-00.10 |
+| 2016-01-01 | 2015. évi CCXII. törvény | 2006-133-00-00.11 |
