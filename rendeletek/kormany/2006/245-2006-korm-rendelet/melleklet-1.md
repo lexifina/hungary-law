@@ -1,6 +1,6 @@
-## 11. §[^26] E rendeletnek az építésüggyel összefüggő egyes kormányrendeletek módosításáról szóló 322/2012. (XI. 16.) Korm. rendelettel megállapított rendelkezéseit a 2013. január 1-jét követően indult eljárásokban kell alkalmazni.
+## 11. §[^31] E rendeletnek az építésüggyel összefüggő egyes kormányrendeletek módosításáról szóló 322/2012. (XI. 16.) Korm. rendelettel megállapított rendelkezéseit a 2013. január 1-jét követően indult eljárásokban kell alkalmazni.
 
-1. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^27]
+1. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^32]
 
-[^26]: A 11. §-t a 322/2012. (XI. 16.) Korm. rendelet 15. §-a iktatta be.
-[^27]: Az 1. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § a) pontjával megállapított szöveg.
+[^31]: A 11. §-t a 322/2012. (XI. 16.) Korm. rendelet 15. §-a iktatta be.
+[^32]: Az 1. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § a) pontjával megállapított szöveg.

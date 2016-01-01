@@ -4,9 +4,9 @@
 
 4. § (1) Az építésügyi hatóság a fennmaradási engedélyt megadó, illetőleg a lebontást tudomásul vevő határozatában állapítja meg a bírságot.
 
-(2)[^4]
+(2)[^9]
 
-(3)[^5]
+(3)[^10]
 
-[^4]: A 4. § (2) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
-[^5]: A 4. § (3) bekezdését a 177/2010. (V. 13.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 18. § b) pontja.
+[^9]: A 4. § (2) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^10]: A 4. § (3) bekezdését a 177/2010. (V. 13.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 18. § b) pontja.

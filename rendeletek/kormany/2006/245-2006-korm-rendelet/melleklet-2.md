@@ -74,7 +74,7 @@
 
 | 14.2. | hulladék, hulladéklerakó, szemétégető mű, hulladékégető mű (égetőmű), hulladék együttégető mű (együttégető mű) | /m2 | 100 |
 
-2. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^28]
+2. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^33]
 
 ## A bírság számításhoz alkalmazandó szorzószámok az épület (épületrész) készültségi állapotától függően
 
@@ -110,4 +110,4 @@
 
 5. Meglévő tetőtér beépítése, valamint meglévő lapostetős építmény utólagos tetőtér beépítéssel történő bővítése esetén a kivitelezés megkezdésekor 0,5-ös, a burkolás megkezdésekor 1,0-es készültséggel kell számolni.
 
-[^28]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § b) pontjával megállapított szöveg.
+[^33]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 16. § b) pontjával megállapított szöveg.
