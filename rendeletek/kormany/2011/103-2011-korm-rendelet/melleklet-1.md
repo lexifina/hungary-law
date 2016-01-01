@@ -1,5 +1,5 @@
 ## 8. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-1. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^9]
+1. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^19]
 
-[^9]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 173. § (2) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 140. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
