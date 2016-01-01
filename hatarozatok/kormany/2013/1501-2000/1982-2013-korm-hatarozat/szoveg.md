@@ -18,9 +18,11 @@ e) a központi költségvetésről szóló törvénynek a Nemzeti Fejlesztési M
 
 f) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 3. melléklet 38–42. pontban meghatározott, kormányzati nemzeti létfontosságú információs rendszerelemekkel kapcsolatos beszerzésekre,
 
-g)[^3] az államhatár védelmével, valamint a menekültek elszállásolásával és ellátásával kapcsolatos honvédelmi, nemzetbiztonsági, rendőrségi, menekültügyi és idegenrendészeti beszerzésekre.
+g)[^3] az államhatár védelmével, valamint a menekültek elszállásolásával és ellátásával kapcsolatos honvédelmi, nemzetbiztonsági, rendőrségi, menekültügyi és idegenrendészeti beszerzésekre,
 
-3.[^4] A tilalmak részbeni feloldására – rendkívül indokolt, egyedi esetekben – a Miniszterelnökséget vezető miniszter jogosult.
+h)[^4] az állami felsőoktatási intézménynek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontjában meghatározott felsőoktatási kutatás-fejlesztési vállalkozási tevékenység érdekében, valamint 100. § (5) bekezdésében foglaltak érdekében történő informatikai és egyéb eszközbeszerzéseire.
+
+3.[^5] A tilalmak részbeni feloldására – rendkívül indokolt, egyedi esetekben – a Miniszterelnökséget vezető miniszter jogosult.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -28,10 +30,11 @@ Határidő: folyamatos
 
 4. Ez a határozat 2014. január 1-jén lép hatályba.
 
-5.[^5]
+5.[^6]
 
 [^1]: Az 1. pont az 1025/2014. (I. 30.) Korm. határozat 8. pontjával megállapított szöveg.
 [^2]: A 2. pont c) alpontja az 1833/2014. (XII. 29.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
 [^3]: A 2. pont g) alpontját az 1598/2015. (IX. 4.) Korm. határozat 1. pontja iktatta be.
-[^4]: A 3. pont az 1833/2014. (XII. 29.) Korm. határozat 3. pont 3.2. alpontja szerint módosított szöveg.
-[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. pont h) alpontját a 2020/2015. (XII. 29.) Korm. határozat 1. pontja iktatta be.
+[^5]: A 3. pont az 1833/2014. (XII. 29.) Korm. határozat 3. pont 3.2. alpontja szerint módosított szöveg.
+[^6]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
