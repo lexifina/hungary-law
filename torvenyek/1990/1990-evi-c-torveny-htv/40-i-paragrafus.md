@@ -1,0 +1,1 @@
+40/I. § Nem minősül alvállalkozói teljesítések értékének [52. § 32. pont] az az érték, mellyel a vállalkozó a 40/F. § vagy a 40/G. § vagy a 40/H. § alapján eladott áruk beszerzési értéke vagy anyagköltség vagy közvetített szolgáltatások értéke címén az adó alapját csökkentette.

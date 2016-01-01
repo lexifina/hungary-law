@@ -1,0 +1,3 @@
+40/K. § (1) Ha az áttérés adóévének vagy az áttérés adóévét követő adóévnek (a továbbiakban együtt: átmeneti adóévek) az iparűzési adóalapja [39. §] a 40/B–40/J. §-ok alkalmazásával kisebb, mint az áttérés adóévét megelőző adóév 12 hónapra számított adóalapjának összege, akkor az átmeneti adóévek adóalapja – a (2) bekezdésben foglalt kivétellel – az utóbbi.
+
+(2) Az adóhatóság az (1) bekezdés hatálya alá eső vállalkozó – az átmeneti adóévről szóló bevallás benyújtásával egyidejűleg előterjesztett – kérelme alapján az átmeneti adóév adóalapjaként fogadja el a 40/B–40/I. §-ok figyelmen kívül hagyásával számított, a 40/J. § szerinti összeggel korrigált összeget, ha az kisebb, mint az (1) bekezdés szerinti adóalap.

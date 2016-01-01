@@ -48,7 +48,7 @@ e) a vasúti pályát, a vasúti pálya tartozékai által lefedett földterüle
 
 f) a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet,
 
-g) a halászatról és horgászatról szóló törvény szerinti víztározó területét,
+g) a halgazdálkodásról és a hal védelméről szóló törvény szerinti víztározó területét,
 
 h) az erdőt,
 
@@ -66,7 +66,7 @@ i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet,
 
 22. nettó árbevétel:
 
-a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó összegével, feltéve ha az így elszámolt regisztrációs adó, energiaadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)–h) alpontokban foglalt eltérésekkel,
+a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadóról szóló törvény szerinti alkoholos ital utáni népegészségügyi termékadó összegével, feltéve, ha az így elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)-h) alpontokban foglalt eltérésekkel,
 
 b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal és a pénzügyi lízingbe adott eszköz beszerzési értékével, azzal, hogy e beszerzési értékre tekintettel az adóalap nem csökkenthető, növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
 
@@ -82,7 +82,7 @@ g) a személyi jövedelemadóról szóló törvény hatálya alá tartozó, a 26
 
 h) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás esetén, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti kisadózó vállalkozás bevétele;
 
-23.
+23. háziorvos, védőnő vállalkozó: az a vállalkozó, aki/amely – gazdálkodó szervezetként vagy egyéni vállalkozóként – külön jogszabály alapján háziorvosi, házi gyermekorvosi, fogorvosi alapellátási vagy védőnői tevékenységet végez és nettó árbevételének legalább 80%-a e tevékenység (tevékenységek) végzésére vonatkozó, az Országos Egészségbiztosítási Pénztárral kötött finanszírozási szerződés alapján az Egészségbiztosítási Alapból származik;
 
 24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2008. január 1-jétől hatályos (TEÁOR'08) besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
 
@@ -179,3 +179,9 @@ d) a bizalmi vagyonkezelésbe adott vagyon esetén a kezelt vagyonba tartozó ha
 63. távközlési tevékenységet végző vállalkozó: a TEÁOR'08 szerint a 61. ágazatba sorolt tevékenységet (távközlési tevékenység) végző azon vállalkozó, amelynek az adóévet megelőző adóévi számviteli törvény szerinti nettó árbevételéből legalább 75% távközlési tevékenységből származik,
 
 64. előfizető: az elektronikus hírközlésről szóló törvény szerinti előfizető.
+
+65. nemzetközi számviteli standardok: a számvitelről szóló törvény szerinti azonos elnevezésű fogalom;
+
+66. IFRS-ek: a számvitelről szóló törvény szerinti azonos elnevezésű fogalom;
+
+67. anyag az IFRS-ek szerint beszámolót készítő vállalkozó esetén: IAS 2 Készletek című standard 6. bekezdés c) pontja szerinti készlet.

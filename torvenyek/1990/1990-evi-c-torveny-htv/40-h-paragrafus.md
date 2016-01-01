@@ -1,0 +1,1 @@
+40/H. § Ha a 40/C. § (2) bekezdése e) pontja alkalmazásának van helye, akkor az 52. § 40. pontja szerinti közvetített szolgáltatások értékét növelni kell a közvetített szolgáltatás számvitelről szóló törvény szerint megállapítandó bekerülési értékével.

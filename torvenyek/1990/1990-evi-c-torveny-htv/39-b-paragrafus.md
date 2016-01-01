@@ -16,7 +16,7 @@ fizeti meg.
 
 (6) A (3) bekezdés szerinti adóalap-megállapítást alkalmazó kisadózó vállalkozás adóbevallást nyújt be,
 
-a) a megszűnés hónapjának vagy a szünetelés kezdő hónapjának utolsó napját követő 15 napon belül, ha kisadózó vállalkozásként adóalanyisága bármely ok miatt megszűnt (szünetel),
+a)
 
 b) az adóévet követő év január 15-ig, ha
 
@@ -24,15 +24,11 @@ ba) a (3) bekezdés szerint az adóévre fizetendő adó a (4) bekezdés alapjá
 
 bb) az önkormányzat rendelete alapján az adóévben adóalap-mentességre, adókedvezményre, a 39/D. § alapján az adóalap vagy a 40/A. § alapján az adó csökkentésére jogosult és az adót csökkenteni kívánja.
 
-(7) A vállalkozó a (6) bekezdés a) pontja szerinti bevallás-benyújtással egyidejűleg:
-
-a) a kisadózó vállalkozások tételes adójában fennálló adóalanyiság időtartamára járó és a ténylegesen megfizetett adó különbözetét megfizeti (ha a különbözet előjele pozitív), illetve visszaigényelheti (ha a különbözet előjele negatív),
-
-b) a 41. § (3) és (6) bekezdések alkalmazásával adóelőleget is bevall, feltéve, hogy az adóelőleg bevallásának – a 41. § (4) bekezdésének figyelembevételével – helye van.
+(7)
 
 (8) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást adóév közben választja, akkor az adóév első napjától a kisadózó vállalkozások tételes adójában fennálló adóalanyisága kezdő napját megelőző napig terjedő adóköteles időtartamról adóbevallást nyújt be az önkormányzati adóhatósághoz.
 
-(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 15 napon belül vagy január 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik, s utoljára abban az adóévben érvényes, amelyben bejelenti, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
+(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik, s utoljára abban az adóévben érvényes, amelyben bejelenti, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
 
 (10) Az adó alapjának az (1)–(2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
 
