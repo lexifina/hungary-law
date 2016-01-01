@@ -10,7 +10,7 @@
 
 (6)[^47] A betegfogadási listáról történő jelentés elkészítéséhez az Országos Egészségbiztosítási Pénztár a honlapjáról ingyenesen letölthető számítógépes szoftvert biztosít.
 
-(7)[^48] Amennyiben az egészségügyi szolgáltató a betegfogadási listáról szóló tárgyhavi jelentési kötelezettségét nem teljesítette, a tárgyhónapra vonatkozó – külön jogszabály szerinti – finanszírozási összeg 98%-ára jogosult az adott szakma vonatkozásában.
+(7)[^48]
 
 (8)[^49]
 
@@ -25,7 +25,7 @@
 [^45]: A 13/B. § (4) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^46]: A 13/B. § (5) bekezdése a 69/2008. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
 [^47]: A 13/B. § (6) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^48]: A 8/2008. (I. 23.) Korm. rendelet 6. § – 43/2008. (II. 29.) Korm. rendelet 3. §-ával megállapított – (2) bekezdése alapján a 13/B. § (7) bekezdésében foglaltakat első alkalommal a 2008. március hónap adatairól történő jelentés vonatkozásában kell alkalmazni. A 13/B. § (7) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^48]: A 13/B. § (7) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 26. § a) pontja hatályon kívül helyezte.
 [^49]: A 13/B. § (8) bekezdését a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés g) pontja hatályon kívül helyezte.
 [^50]: A 13/B. § (9) bekezdését a 69/2008. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
 [^51]: A 13/B. § (10) bekezdését a 69/2008. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
