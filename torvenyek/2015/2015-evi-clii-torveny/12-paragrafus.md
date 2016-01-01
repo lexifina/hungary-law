@@ -1,0 +1,3 @@
+12. § A Bnytv. 17. §-a a következő (3b) bekezdéssel egészül ki:
+
+„(3b) Ha a 16. § (1) bekezdés j) pont je) alpontjában meghatározott, a külföldi ítéletben kiszabott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adat nem áll az elismerő határozatot hozó magyar bíróság rendelkezésére, a bűnügyi nyilvántartó szerv a külföldi ítélet érvényének elismerését követően a külföldi hatóságtól adatközlés útján megkapott, illetve a külföldi hatóságtól származó, hiteles iratban található végrehajtási adatokat bejegyzi a nyilvántartásba. Ha a foganatba vétel időpontja nem ismert, a külföldi ítélet jogerőre emelkedésének a napját kell a foganatba vétel időpontjának tekinteni.”

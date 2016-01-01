@@ -1,0 +1,3 @@
+13. § A Bnytv. „A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása” alcíme a következő 20/A. §-sal egészül ki:
+
+„20/A. § Ha a 16. § (1) bekezdés j) pont je) alpontjában meghatározott, a külföldi ítéletben kiszabott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adatokat a külföldi ítélet érvényének elismerését követően beszerezni nem lehet, akkor a büntetés vagy az intézkedés – foganatba vétel napjától számított – teljes tartama lejáratának a napját kell a büntetés vagy intézkedés kitöltése utolsó napjának tekintetni. Ilyen esetben úgy kell tekinteni, hogy a 18–20. §-ban meghatározott időtartam az azt befolyásoló körülmény bekövetkezése nélkül telt el.”
