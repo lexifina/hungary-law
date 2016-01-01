@@ -4,4 +4,4 @@ a) a radioaktív anyagok kezelésének, valamint az e törvény hatálya alá ta
 
 b) az ágazat speciális (kiképzési, nukleárisbaleset-elhárítási, háborús) sugáregészségügyi ellenőrzését.
 
-(2) A Magyar Honvédség szervezeteire és intézményeire vonatkozóan a katonai egészségügyi államigazgatási szerv látja el a 20. § (1) bekezdés a)–c), e)–f) és h) pontjaival kapcsolatos feladatokat.
+(2) A Magyar Honvédség szervezeteire és intézményeire vonatkozóan a katonai egészségügyi államigazgatási szerv látja el a 17. § (2) bekezdés 26–35. és 36–42. pontjaival kapcsolatos feladatokat.

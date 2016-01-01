@@ -28,4 +28,6 @@ d) a rendkívüli esemény bekövetkezésének kockázata csökkenjen, kialakul�
 
 (11) Az atomenergia alkalmazásával összefüggő alapvető, tudományos, technikai és egyéb ismereteket – a kockázatokra is kiterjedően – oktatni, valamint a közszolgálati hírközlés, a közművelődés útján az állampolgárokkal rendszeresen ismertetni kell.
 
-(12) Az atomenergia alkalmazása körében szervezett munkavégzés, valamint bármely egyéb jogviszony alapján munkatevékenységet végzők jogszabály szerint képzésben és továbbképzésben (a továbbiakban együtt: képzés) vesznek részt. Aki képző tevékenységet kíván folytatni, köteles az erre irányuló szándékát az egészségügyi államigazgatási szervnél bejelenteni. A bejelentésben – ha a bejelentő egyéni vállalkozó – meg kell jelölni a bejelentő természetes személyazonosító adatait. A bejelentés alapján az egészségügyi államigazgatási szerv a tevékenység végzésére jogosultakról nyilvántartást vezet, amely tartalmazza a bejelentő természetes személyazonosító adatait.
+(12)
+
+(13) Az atomenergia alkalmazása és felügyelete során érvényesíteni kell a fokozatosság elvét.

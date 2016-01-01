@@ -2,4 +2,4 @@
 
 (2) A nukleáris létesítmény nukleáris biztonságára lényeges hatással levő tevékenység engedélyezése esetében a kérelmet megalapozó dokumentációt független szakértővel értékeltetni kell. A független szakértői értékelést a kérelmező a a hatósági eljárásban, az arra vonatkozó nukleáris biztonsági követelmények szerint nyújtja be az atomenergia-felügyeleti szervhez..
 
-(3) A (2) bekezdéstől eltérően új atomerőművi blokk létesítésére irányuló engedélyezési eljárásban a független szakértőt az atomenergia-felügyeleti szerv hivatalból vonja be az eljárásba. A független szakértő eljárása nem előfeltétele az engedélyezési eljárásnak, az az ügyintézési határidőbe nem számít bele.
+(3) A (2) bekezdéstől eltérően új atomerőművi blokk létesítési engedélyezési eljárásában a független szakértőt az atomenergia-felügyeleti szerv hivatalból vonja be az eljárásba. A független szakértő eljárása nem előfeltétele az engedélyezési eljárásnak, az az ügyintézési határidőbe nem számít bele.

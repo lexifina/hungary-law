@@ -1,21 +1,17 @@
 ## Az egészségügyért felelős miniszter hatásköre az egészségügyért felelős miniszter által szabályozott engedélyezési eljárásban
 
-20. § (1) Az egészségügyért felelős miniszter jogszabályban meghatározott szerv útján látja el a 26. § (2) bekezdésében foglaltak kivételével:
+20. § Az egészségügyért felelős miniszter jogszabályban meghatározott szerv útján látja el:
 
-a) a radioaktív anyagok tulajdonjoga megszerzésének, előállításának, termelésének, birtoklásának, tárolásának, használatának, felhasználásának, átalakításának, forgalmazásának engedélyezését és ellenőrzését;
+a) az atomenergia alkalmazása körében a munkavállalókra érvényes sugáregészségügyi, munkavégzési, munkaköri alkalmassági szabályok ellenőrzését;
 
-b) az a) pont alatt felsorolt tevékenységeket szolgáló, nem nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, javításának, megszüntetésének engedélyezését és ellenőrzését;
+b) az egészségügyi ágazat radiológiai mérő és adatszolgáltató hálózata működtetését;
 
-c) az ionizáló sugárzást létrehozó létesítmény, berendezés tulajdonjoga megszerzésének, átadásának, a használat bármilyen jogcímen való átengedésének, létesítésének, előállításának, üzemeltetésének, átalakításának és megszüntetésének engedélyezését és ellenőrzését;
+c) a gyógyászati eszközök és egészségügyi cikkek ionizáló sugárzással végzett sterilizálásának ellenőrzését;
 
-d)
+d) a sugáregészségügyi készenléti szolgálat létesítését és fenntartását;
 
-e) az atomenergia alkalmazását szolgáló létesítményben működő sugárvédelmi szolgálat szervezetének és működésének felügyeletét;
+e) a sugársérültek vagy arra gyanús személyek egészségügyi ellátását;
 
-f) az atomenergia alkalmazása körében a munkavállalókra érvényes sugáregészségügyi, munkavégzési, munkaköri alkalmassági és foglalkoztatási előírások betartásának ellenőrzését;
+f) a kötelező sugárorvostani továbbképzésben részesítendők körének meghatározását, a továbbképzés tartására kötelezett intézet kijelölését, a továbbképzés tematikája jóváhagyását;
 
-g) a lakosság sugárvédelme érdekében az országos sugárzási helyzetre vonatkozó adatok központi gyűjtését, feldolgozását, nyilvántartását és értékelését, illetve nukleáris veszélyhelyzetben a döntések megalapozásában való közreműködést;
-
-h) a radioaktív anyagokkal és az ionizáló sugárzást létrehozó berendezésekkel kapcsolatos közegészségügyi, sugáregészségügyi feladatokat, valamint a munkahelyi és környezeti sugárvédelmi normák és az atomenergia alkalmazása körében a munkavállalókra érvényes előírások érvényesítésének ellenőrzését.
-
-(2)
+g) a nukleáris veszélyhelyzetben való közreműködést a döntések sugáregészségügyi megalapozásában.

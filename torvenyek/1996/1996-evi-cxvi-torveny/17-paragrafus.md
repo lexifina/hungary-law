@@ -16,7 +16,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 3. a nukleáris létesítménnyel és a radioaktív-hulladék tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése, továbbá az építmények felvonóinak hatósági engedélyezése;
 
-4. a nukleáris rendszer, rendszerelem tekintetében az átalakítással, tervezéssel, gyártással, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, beszerzéssel, üzemen kívül helyezéssel, leszereléssel, továbbá radioaktív-hulladék tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek műszaki sugárvédelmi szempontokra is kiterjedő engedélyezése és ellenőrzése;
+4. a nukleáris létesítmény rendszere, rendszereleme tekintetében az átalakítással, tervezéssel, gyártással, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, beszerzéssel, üzemen kívül helyezéssel, leszereléssel, továbbá radioaktív-hulladék tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek műszaki sugárvédelmi szempontokra is kiterjedő engedélyezése és ellenőrzése;
 
 5. a nukleáris létesítmény és a radioaktívhulladék-tároló átalakításához szükséges műszaki sugárvédelmi szempontokra is kiterjedő engedélyezés és ellenőrzés;
 
@@ -60,7 +60,41 @@ szükséges nukleáris biztonsági engedélyezés;
 
 25. az atomenergia alkalmazása körében külföldi szakértő szakértői minőségének eseti hatósági elismerése;
 
-43. az építészeti, mérnöki, építészeti-műszaki tervezési szakmagyakorlásra alkalmasság megállapítása, és az ezzel kapcsolatos nyilvántartásba vétel.
+26. a radioaktív anyag előállításának, termelésének, feldolgozásának, kezelésének, birtoklásának, tárolásának, használatának, felhasználásának, átalakításának, forgalmazásának engedélyezése és hatósági felügyelet alóli felszabadítása;
+
+27. a 26. pont alatt felsorolt tevékenységet szolgáló, nem nukleáris létesítmény, berendezés létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, karbantartásának, az üzemeltetés megszüntetésének engedélyezése;
+
+28. a radioaktív anyagot nem tartalmazó, ionizáló sugárzást létrehozó berendezés előállításának, forgalomba hozatalának, üzemeltetésének, átalakításának, karbantartásának, az üzemeltetés megszüntetésének engedélyezése;
+
+29. a 28. pont szerinti berendezés előállítását, üzemeltetését szolgáló nem nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, átalakításának, karbantartásának, az üzemeltetés megszüntetésének engedélyezése;
+
+30. a 26–29. pont szerinti anyag, berendezés és létesítmény tulajdonjoga megszerzésének, átadásának, a használat bármilyen jogcímen való átengedésének engedélyezése;
+
+31. az ionizáló sugárzás elleni védőeszköz forgalomba hozatalának engedélyezése és sugárvédelmi minősítése;
+
+32. a 26–29. pont szerinti anyag, tevékenység, létesítmény és berendezés ellenőrzése és a szükséges adatszolgáltatás meghatározása;
+
+33. a sugárvédelmi képzések és továbbképzések tematikájának valamint vizsgakövetelményeinek jóváhagyása, külföldi végzettségek megfelelőségének elbírálása;
+
+34. a nukleáris vagy más radioaktív anyagot szállító gépjármű sugárvédelmi engedélyezése és ellenőrzése;
+
+35. a radioaktív anyagot tartalmazó, valamint ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés mentesülésének engedélyezése, a szükséges adatszolgáltatás meghatározása;
+
+36. a kötelezően mérendő adatok meghatározásával és a jogszabályban meghatározott, környezeti sugárzást mérő szervek tevékenységének összehangolásával az országos sugárzási helyzetre vonatkozó adatok központi gyűjtése, feldolgozása, nyilvántartása és értékelése;
+
+37. a nukleáris és más radioaktív anyagok alkalmazása befejezését követően a létesítmény, terület, helyszín inaktívvá nyilvánítása;
+
+38. a sugárterhelésnek kitett munkavállalók normál és rendkívüli személyi sugárvédelmi ellenőrzési kötelezettség megállapítása, a személyi dózisok nyilvántartása;
+
+39. a lakossági sugárterhelésre vonatkozó dóziskorlátok és dózismegszorítások megállapítása, foglalkozási sugárterhelésre vonatkozó dóziskorlátok megállapítása, a dózismegszorítások jóváhagyása;
+
+40. az engedélyesnél működtetett sugárvédelmi szolgálat szervezetének és működésének felügyelete;
+
+41. az atomenergia alkalmazása körében a munkavállalókra érvényes sugárvédelmi előírások megtartásának ellenőrzése;
+
+42. a nukleáris és más radioaktív anyagok sugárvédelmével összefüggő rendkívüli események és nukleáris veszélyhelyzetek kezelési tervének jóváhagyása.
+
+43. az építészeti-műszaki szakértői, építészeti tervezői, építészeti műszaki ellenőri és építész felelős műszaki vezetői szakmagyakorlásra alkalmasság megállapítása, és az ezzel kapcsolatos nyilvántartásba vétel.
 
 (2a) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez szükséges földtani kutatás célját szolgáló kutatólétesítményekkel kapcsolatos engedélyezési eljárásokra a bányászatról szóló törvényt és annak végrehajtására kiadott kormányrendeletet kell alkalmazni.
 

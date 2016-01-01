@@ -66,7 +66,7 @@ b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcso
 
 28. nukleárisüzemanyag-ciklus lezárása: a kiégett üzemanyag hazai vagy külföldi radioaktívhulladék-tárolóban való végleges elhelyezése feldolgozás nélkül, vagy a kiégett üzemanyag előzetes feldolgozása és az ennek során keletkezett radioaktív hulladékok végleges elhelyezése hazai vagy külföldi radioaktívhulladék-tárolóban, beleértve a nukleárisüzemanyag-ciklus lezárására vonatkozó döntést műszaki szempontból megalapozó tevékenységet;
 
-29. nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény, valamint a radioktívhulladék-tároló életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak és a lakosságnak a nukleáris létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme;
+29. nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény, valamint a radioktívhulladék-tároló életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak és a lakosságnak a létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme;
 
 30. nukleáris védettség: azon tevékenységek, eszközök és eljárások összessége, amelyek a szabotázs, a nukleáris vagy más radioaktív anyaggal elkövetett, a Büntető Törvénykönyv (a továbbiakban: Btk.) szerinti visszaélés, közveszélyokozás, környezetkárosítás, illetve jogtalan eltulajdonítás megelőzésére, észlelésére, elhárítására és következményeinek kezelésére irányulnak;
 
@@ -111,3 +111,11 @@ b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Bt
 46. nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedély: a nukleáris létesítmény és radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, létesítményszintű tervezett üzemidején túli üzemeltetéséhez, létesítményszintű átalakításához, végleges üzemen kívül helyezéséhez vagy megszüntetéséhez szükséges engedély;
 
 47. felszín alatti kutatólaboratórium: kutatólétesítmény, a nagy aktivitású radioaktív hulladék végleges elhelyezését előkészítő tevékenység részeként a felszín alatt tetszőleges mélységben és geometriával kialakított földalatti térség és az ott működtetett kísérleti, kutató-fejlesztő és megfigyelő berendezések együttese, amelynek rendeltetése a földtani környezet és azon belül a befogadó kőzet részletes megismerése, a végleges elhelyezés műszaki megoldásainak optimalizálása, a földtani (természetes) és műszaki (épített) gátrendszer kölcsönhatásainak vizsgálata, és mindezek bemutatása a nyilvánosság számára;
+
+48. hiányzó anyag: nukleáris, vagy más radioaktív anyagnak az atomenergia alkalmazója által észlelt vagy hatóság által megállapított hiánya, az engedélyezett kibocsátásból származó radioaktívan szennyezett anyagok kivételével;
+
+49. talált anyag: nukleáris, vagy más radioaktív anyagnak az atomenergia alkalmazója által leltározás során észlelt vagy hatósági ellenőrzés során megállapított többlete, továbbá a sugárkapu üzemeltetője által észlelt nukleáris, vagy más radioaktív anyag, valamint bárki által egyéb módon talált, feltételezhetően nukleáris vagy más radioaktív anyag;
+
+50. lefoglalt anyag: olyan nukleáris, vagy más radioaktív anyag, amelyet a vámhatóság azért foglalt le, mert annak a vámhatósági ellenőrzése során a vámáru nyilatkozat és a szállítmány között ellentmondás merült fel, vagy amelyet a hatóság az engedély nélküli birtoklással összefüggésben, büntetőeljárás során vagy egyéb kényszerintézkedés foganatosítása érdekében lefoglalt;
+
+51. fokozatosság elve: a rendszerek, folyamatok és módszerek terén az irányítás alóli kikerülés kockázatával, valószínűségével és lehetséges következményeivel arányos mértékű intézkedések és feltételek alkalmazása.

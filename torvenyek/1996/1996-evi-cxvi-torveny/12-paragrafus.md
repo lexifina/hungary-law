@@ -8,7 +8,11 @@ b) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyint
 
 a Kormány rendeletben állapítja meg.
 
-(2)–(3)
+(2) Az atomenergia-felügyeleti szerv a beérkezett kérelmet megvizsgálja és amennyiben megállapítja, hogy a kérelem nem felel meg a külön jogszabályban meghatározott feltételeknek, úgy – ha külön jogszabály másként nem rendelkezik – 8 napon belül a mulasztás következményeire történő figyelmeztetés mellett hiánypótlásra hívja fel az ügyfelet. Az atomenergia-felügyeleti szerv határidő tűzésével indokolt esetben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben előírt határidőnél hosszabb határidőt is megállapíthat a hiánypótlás teljesítésére.
+
+(3) Az atomenergia-felügyeleti szerv az eljárást felfüggeszti, amennyiben az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el. Az atomenergia-felügyeleti szerv az eljárás felfüggesztéséig valamennyi eljárási cselekményt végrehajtja, amely az előzetes kérdés elbírálása nélkül lehetséges.
+
+(3a) Az e törvény hatálya alá tartozó hatósági eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 (4) A radioaktív hulladékok, kiégett üzemanyagok, valamint egyéb radioaktív anyagok országhatáron át történő szállításához való hozzájárulás és engedélyezés angol vagy magyar nyelven készült okmányokkal történik.
 
@@ -20,9 +24,9 @@ a Kormány rendeletben állapítja meg.
 
 (8) Amennyiben az engedélyes a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatót nyújt be, az ügyintézés határideje a 17. § (2) bekezdés 1. pont b) alpontjában foglalt létesítés, bővítés engedélyezése esetében
 
-a) tizenkét hónap abban az esetben, ha az engedélyes a 17. § (7) bekezdése szerinti előzetes tájékoztatót nyújt be,
+a) tizenkét hónap abban az esetben, ha az engedélyes a 17. § (8) bekezdése szerinti előzetes tájékoztatót nyújt be,
 
-b) tizennyolc hónap akkor, ha az engedélyes nem nyújt be a 17. § (7) bekezdése szerinti előzetes tájékoztatót.
+b) tizennyolc hónap akkor, ha az engedélyes nem nyújt be a 17. § (8) bekezdése szerinti előzetes tájékoztatót.
 
 (9) A (8) bekezdés szerinti eljárások legfeljebb három hónappal hosszabbíthatók meg.
 

@@ -18,31 +18,15 @@ h) a 63. § (1) és (4) bekezdése, valamint a 63/A. § (1) és (2) bekezdése s
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben állapítsa meg:
 
-a) az atomenergia alkalmazása körében munkavállalók és a lakosság sugárterhelésére vonatkozó dózis-határértékeket, a személyeket érő külső- és belső sugárterhelés ellenőrzésének rendjét, valamint a balesetelhárítási és intézkedési tervekben figyelembe veendő beavatkozási szinteket, továbbá a nukleáris baleset (katasztrófa) következményeinek felszámolásában résztvevők sugárterhelésére vonatkozó dózis-határértékeket;
-
-b) az atomenergia alkalmazása körében használt berendezések, eszközök sugárvédelmi minősítését;
-
-c) az atomenergia alkalmazása körében munkavállalókra érvényes sugáregészségügyi, munkavégzési, munkaköri alkalmassági szabályokat, és az atomenergia alkalmazása körében munkavállalók sugárvédelmi oktatása rendjét;
-
-d) a közúti szállító eszközök sugárvédelmi követelményeit;
-
-e) a miniszterrel egyetértésben az atomenergia alkalmazásával összefüggő sugárvédelmi szabályokat és a sugárvédelmi szolgálatok feladatára és működésére vonatkozó részletes előírásokat;
+a)–e)
 
 f) az egészségügyi ágazat radiológiai mérő és adatszolgáltató hálózata felépítésének és működésének szabályait;
 
-g) a radon- és radon leányelem-koncentrációk elfogadható szintjét lakó- és középületekben, valamint az építésügyért felelős miniszterrel és a környezetvédelemért felelős miniszterrel egyetértésben, az építőanyagok gyártásához felhasznált alapanyagok, a kereskedelmi forgalomba kerülő építőanyagok, továbbá az építési területek felhasználhatóságának sugárvédelmi szempontból való korlátozását;
-
-h) a kereskedelemért felelős miniszterrel egyetértésben a külföldről származó és kereskedelmi forgalomba kerülő termékek, illetve alapanyagok radioaktivitásával kapcsolatos előírások betartásának és ellenőrzésének szabályait;
-
-i) a radioaktív anyagok használati cikkekben való alkalmazásának szabályait;
+g)–i)
 
 j) a gyógyászati eszközök és egészségügyi cikkek ionizáló sugárzással végzett sterilizálásának szabályait;
 
-k) a radioaktív anyagok birtoklása, előállítása, termelése, forgalmazása, tárolása, felhasználása, átalakítása, engedélyezési eljárását;
-
-l) a k) pontban felsorolt tevékenységet szolgáló létesítmény vagy berendezés létesítése, üzembe helyezése, üzemeltetése, átalakítása, javítása, megszüntetése, leszerelése engedélyezési eljárását és ellenőrzésének rendjét;
-
-m) az ionizáló sugárzást létrehozó létesítmény, berendezés létesítéséhez, előállításához, üzemeltetéséhez, átalakításához és megszüntetéséhez szükséges engedélyezési eljárást és az ellenőrzés rendjét;
+k)–m)
 
 n) a sugáregészségügyi készenléti szolgálat létesítésének és fenntartásának szabályait;
 
