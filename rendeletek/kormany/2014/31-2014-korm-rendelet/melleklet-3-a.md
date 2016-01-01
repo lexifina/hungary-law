@@ -22,6 +22,6 @@
 
 | 10. | Hajózási létesítmény területén, illetve víziúttól mért 50 m távolságon belüli építmény esetén. | Víziközlekedés biztonságára, a fenntartási, üzemeltetési feladatok ellátására, fejlesztési tervek végrehajtására gyakorolt hatásának vizsgálata. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-3/A. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^20]
+3/A. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^31]
 
-[^20]: A 3/A. mellékletet a 70/2015. (III. 30.) Korm. rendelet 243. § (5) bekezdése iktatta be.
+[^31]: A 3/A. mellékletet a 70/2015. (III. 30.) Korm. rendelet 243. § (5) bekezdése iktatta be.

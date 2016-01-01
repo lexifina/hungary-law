@@ -18,6 +18,6 @@
 
 8. A biztonságtechnikai, az egészségvédelmi, a tűzvédelmi és a környezetvédelmi előírások teljesítése, külterületen, illetve védett természeti területen a sajátos építmény tájba illesztésének módja.
 
-9.[^18] Zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban az építészeti-műszaki dokumentációnak a zaj- és rezgésvédelmi szabályozás tekintetében a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 2. számú mellékletében meghatározott tartalmú zaj elleni védelemről szóló munkarészt kell tartalmaznia.
+9.[^29] Zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban az építészeti-műszaki dokumentációnak a zaj- és rezgésvédelmi szabályozás tekintetében a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 2. számú mellékletében meghatározott tartalmú zaj elleni védelemről szóló munkarészt kell tartalmaznia.
 
-[^18]: A 2. melléklet 9. pontja a 70/2015. (III. 30.) Korm. rendelet 243. § (3) bekezdésével megállapított szöveg.
+[^29]: A 2. melléklet 9. pontja a 70/2015. (III. 30.) Korm. rendelet 243. § (3) bekezdésével megállapított szöveg.

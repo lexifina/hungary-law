@@ -14,9 +14,9 @@ nyújtja be az építésügyi hatósághoz.
 
 (3) Az (1) bekezdés szerinti eljárásban az építésügyi hatóság vizsgálja, hogy a (2) bekezdés b) pontja szerinti jegyzőkönyv az építési naplóban rendelkezésre áll-e.
 
-(4) Az építésügyi hatóság helyszíni szemlén tisztázza a tényállást, ha a kérelem elbírálásához szükséges információk, adatok és dokumentumok nem állnak a rendelkezésére.
+(4)[^18] Az építésügyi hatóság tisztázza a tényállást, ha a kérelem elbírálásához szükséges információk, adatok és dokumentumok nem állnak a rendelkezésére.
 
-(5) Az építésügyi hatóság az eljárás megindulásától számított tíz napon belül a használatbavétel tudomásulvételét megtagadja és az építmény, építményrész használatát megtiltja, ha
+(5)[^19] Az építésügyi hatóság az eljárás megindulásától számított nyolc napon belül a használatbavétel tudomásulvételét megtagadja és az építmény, építményrész használatát megtiltja, ha
 
 a) a használatbavétel tudomásulvételére irányuló kérelemhez a (12) bekezdésben meghatározott mellékleteket nem csatolták,
 
@@ -24,15 +24,13 @@ b) a rendeltetésszerű és biztonságos használat követelményeinek az épít
 
 c) megállapítja, hogy az építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott tervdokumentációtól eltértek és az eltérés építésügyi hatósági engedélyhez kötött.
 
-(6) Az építésügyi hatóság – az (5) és a (7) bekezdésben meghatározott eset kivételével – a használatbavételt hallgatással tudomásul veszi, egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi az építtetőt.
+(6)[^20] Ha az építésügyi hatóság az (5) bekezdés szerinti határidőben a használatbavételt nem tiltja meg, a használatbavételt hallgatással tudomásul veszi, és az építmény az eljárás megindulásától számított 15 nap elteltével használatba vehető.
 
-(7) Az építésügyi hatóság az eljárás ügyintézési határidejét legfeljebb huszonegy nappal meghosszabbítja, ha az eljárásban megállapítja, hogy a (2) bekezdés b) pontja szerinti jegyzőkönyv az építési naplóban nem áll rendelkezésre és erről az építtetőt értesíti.
+(7)[^21] A használatbavétel (6) bekezdés szerinti tudomásulvétele a Ket. szerinti függő hatályú döntésre vonatkozó rendelkezések tekintetében az (5) bekezdés szerinti határidőben meghozott érdemi döntésnek minősül.
 
-(8) Ha a (7) bekezdésben meghatározott idő alatt az építési naplóban a jegyzőkönyv továbbra sem áll rendelkezésre, és a használatbavétel e rendelet szerinti egyéb feltételei teljesültek, a határidő leteltével az építésügyi hatóság a használatbavételt hallgatással tudomásul veszi.
+(8)[^22] A használatbavétel tudomásulvétele nem akadálya annak, hogy azzal egyidejűleg az építésügyi hatóság határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezze az építtetőt.
 
-(9) Ha az elektronikus építési naplóban a (2) bekezdés b) pontja szerinti jegyzőkönyv a (7) bekezdés szerinti határidő lejártáig rendelkezésre áll, az építésügyi hatóság a használatbavételt a jegyzőkönyvnek az építésügyi hatóság tudomására jutásától számított öt nap elteltével hallgatással tudomásul veszi.
-
-(10) Az építésügyi hatóság a tudomásulvételi eljárás ügyintézési határidejének (7) bekezdés szerinti meghosszabbításáról a használatbavétel tudomásulvételi eljárás megindulásától számított tíz napon belül végzésben dönt.
+(9)–(10)[^23]
 
 (11) Az eljárás során az építésügyi hatóság az eljárás megindításáról értesítést és – az igazgatási szolgáltatási díj előzetes megfizetése elmaradásának esetét kivéve – hiánypótlásra felhívást nem bocsát ki, és a szakhatóságot nem keresi meg.
 
@@ -53,3 +51,10 @@ aa) az építtetővel vagy meghatalmazottjával,
 ab) az építési tevékenységgel érintett telek, építmény, építményrész tulajdonosával,
 
 b) azzal a hatósággal, amely az építési engedélyezési eljárásban részt vett.
+
+[^18]: A 29. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 225. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^19]: A 29. § (5) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 224. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^20]: A 29. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 223. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^21]: A 29. § (7) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 223. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^22]: A 29. § (8) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 223. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^23]: A 29. § (9)–(10) bekezdésé a 441/2015. (XII. 28.) Korm. rendelet 225. § b) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
