@@ -56,11 +56,11 @@
 
 ## (IV. 2.) Korm. rendelet 28. § (1) bekezdése alapján kötelező.
 
-## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^98], 2. példányát a Nemzeti Drog Fókuszpontnak[^99] (Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ – Reitox National Focal Point), 3. példányát az Országos Addiktológiai Centrumnak[^100] kell megküldeni. A 4. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
+## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^115], 2. példányát a Nemzeti Drog Fókuszpontnak[^116] (Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ – Reitox National Focal Point), 3. példányát az Országos Addiktológiai Centrumnak[^117] kell megküldeni. A 4. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
 
 ## Mindazon kérdésekre, melyekre vonatkozóan tényszerű információk, illetve adatok, vizsgálati eredmények állnak rendelkezésre, a válaszokat értelemszerűen: szövegesen, vagy számszerűen, illetve a megfelelő négyzet megjelölésével kell megadni! A kitöltéssel kapcsolatban a Tanács 2005/387/IB Határozatának EMCDDA-Europol jelentési ívet és annak kitöltési útmutatóját tartalmazó melléklete az irányadó.
 
-11. melléklet a 66/2012. (IV. 2.) Korm. rendelethez
+11. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^118]
 
 Kérelem, illetve igazolás ellenőrzött anyagok szállítására rendkívüli, gyógyászati célú felhasználáshoz
 
@@ -150,7 +150,7 @@ Nature of the emergency (Brief description of the emergency motivating the reque
 
 Kapcsolatteremtési lehetőség vagy próbálkozás a célország kábítószer hatóságával:
 
-Availability of, and action taken to contact the control authorizes in the receiving country:
+Availability of, and action taken to contact with the competent authority of the receiving country:
 
 A szállítás várható időpontja/Expected date of delivery:
 
@@ -164,7 +164,7 @@ I certify that the above information is correct and true. My Organization will:
 
 – A lehető legkorábban jelenti a fenti, ellenőrzött anyag tartalmú gyógyszerek importját a célország kábítószer hatóságának (amennyiben az elérhető).
 
-– Report the importation of the above controlled medicines as soon as possible to the control authorities (if available) of the receiving country.
+– Report the importation of the above controlled medicines as soon as possible to the competent authorities (if available) of the receiving country.
 
 – Jelenti a fenti, ellenőrzött anyag tartalmú gyógyszerek esetlegesen fel nem használt mennyiségét a célország kábítószer-hatóságának (amennyiben az elérhető), vagy a felhasználót kötelezi erre (a nem kívánt szöveg törlendő).
 
@@ -198,6 +198,7 @@ Hatósági bélyegző (Authority stamp)
 
 aláírás (Authority's signature)
 
-[^98]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
-[^99]: Nemzeti Drog Fókuszpont címe: 1097 Budapest, Gyáli út 2-6.
-[^100]: Országos Addiktológiai Centrum címe: 1097 Budapest, Nagyvárad tér 2.
+[^115]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
+[^116]: Nemzeti Drog Fókuszpont címe: 1097 Budapest, Gyáli út 2-6.
+[^117]: Országos Addiktológiai Centrum címe: 1097 Budapest, Nagyvárad tér 2.
+[^118]: A 11. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.

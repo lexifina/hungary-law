@@ -1,0 +1,1 @@
+## 21. § Magán-állatorvos orvosi táskájában kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó gyógyszerből hatóanyagonként maximálisan egy-egy forgalomba hozatalra engedélyezett csomagolási egységet külön feltételek nélkül tárolhat. A mennyiségi korlát a kábítószertartalmú kivételekre nem vonatkozik.

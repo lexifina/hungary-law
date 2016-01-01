@@ -538,7 +538,7 @@
 
 | 103. | MDMB-CHMICA | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3- methyl- valine, methyl ester |
 
-## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
+## – és az ebben a jegyzékben felsorolt kábítószerek sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – és az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
 
@@ -604,7 +604,7 @@
 
 | 24 | Zipeprol (zipeprol) | α-(-α-methoxybenzyl)-4-(β-methoxyphenetyl)-1-piperazineethanol |
 
-## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
+## – és az ebben a jegyzékben felsorolt kábítószerek sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – és az ebben a jegyzékben felsorolt anyagok sói, amennyiben ilyen sók léteznek.
 
@@ -638,7 +638,7 @@
 
 | 8 | Pentobarbital (pentobarbitál) | 5-ethyl-5-(1-methylbutyl)barbituric acid |
 
-## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
+## – és az ebben a jegyzékben felsorolt kábítószerek sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – és az ebben a jegyzékben felsorolt anyagok sói, amennyiben ilyen sók léteznek.
 
@@ -774,7 +774,7 @@
 
 | 62 | Zolpidem (zolpidem) | N,N,6-trimethyl-2-p-tolylimidazo[1,2-α]pyridine-3-acetamide |
 
-## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
+## – és az ebben a jegyzékben felsorolt kábítószerek sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – és az ebben a jegyzékben felsorolt anyagok sói, amennyiben ilyen sók léteznek.
 
@@ -786,9 +786,9 @@
 
 ## D) AZ ÚJ PSZICHOAKTÍV ANYAGGÁ MINŐSÍTETT ANYAGOKRÓL VAGY VEGYÜLETCSOPORTOKRÓL SZÓLÓ MINISZTERI RENDELETBŐL ÁTHELYEZETT ANYAGOK JEGYZÉKE
 
-2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez
+2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^109]
 
-## Egészségügyi Engedélyezési és Közigazgatási Hivatal
+## Egészségügyi Nyilvántartási és Képzési Központ
 
 Éves jelentés a kábítószerek gyártásáról, készletéről, forgalmazásáról
 
@@ -1113,3 +1113,5 @@ Lefoglalt kábítószer tartalmú gyógyszerek (2)
 | Egyéb* |  |  |  |  |  |  |  |  |  |  |  |
 
 * Bármely más gyógyszer, amely kábítószert (pl. dihydrocodeine, dextropropoxyphene, hydrocodone, hydromorphone, trimeperidine, stb.) tartalmaz.
+
+[^109]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja szerint módosított szöveg.

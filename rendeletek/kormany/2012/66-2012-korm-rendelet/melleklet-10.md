@@ -1,4 +1,4 @@
-## Egészségügyi Engedélyezési és Közigazgatási Hivatal
+## Egészségügyi Nyilvántartási és Képzési Központ
 
 ## 9/a táblázat: Kábítószer becslés a 20... évre
 

@@ -58,6 +58,6 @@
 
 | Cégszerű aláírás, cégbélyegző, dátum, a kábítószer felelős ellenjegyzése: |
 
-8. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^96]
+8. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^113]
 
-[^96]: A 8. melléklet a 30/2015. (II. 25.) Korm. rendelet 65. § b) és k) pontja szerint módosított szöveg.
+[^113]: A 8. melléklet a 30/2015. (II. 25.) Korm. rendelet 65. § b) és k) pontja szerint módosított szöveg.

@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-66-20-2
 | 2015-03-01 | 2012-66-20-22.16 | 30/2015. (II. 25.) Korm. rendelet |
 | 2015-04-01 | 2012-66-20-22.17 | 254/2013. (VII. 5.) Korm. rendelet |
 | 2015-07-22 | 2012-66-20-22.18 | 30/2015. (II. 25.) Korm. rendelet |
+| 2016-01-01 | 2012-66-20-22.19 | 413/2015. (XII. 23.) Korm. rendelet |

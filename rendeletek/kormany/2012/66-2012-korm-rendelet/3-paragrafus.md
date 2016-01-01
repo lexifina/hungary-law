@@ -1,6 +1,6 @@
 ## 3. Engedélyek, engedélyezési és nyilvántartásba vételi eljárás
 
-3. § (1)[^8] A kábítószerek és pszichotróp anyagok, valamint új pszichoaktív anyagok gyártása, exportja, importja, transzfere, beszerzése, forgalmazása, raktározása, tárolása, tartása, átadása, használata, valamint a velük kapcsolatos oktatás, kutatás, elemzés, továbbá kábítószer előállítására alkalmas növények termesztetése, valamint a velük kapcsolatos oktatás, kutatás, elemzés – a (2) és a (4), valamint a (6) bekezdésben foglaltak, valamint az eseti kutatás kivételével – kizárólag tevékenységi engedély birtokában folytatható.
+3. § (1)[^10] A kábítószerek és pszichotróp anyagok, valamint új pszichoaktív anyagok gyártása, exportja, importja, transzfere, beszerzése, forgalmazása, raktározása, tárolása, tartása, átadása, használata, valamint a velük kapcsolatos oktatás, kutatás, elemzés, továbbá kábítószer előállítására alkalmas növények termesztetése, valamint a velük kapcsolatos oktatás, kutatás, elemzés – a (2) és a (4), valamint a (6) bekezdésben foglaltak, valamint az eseti kutatás kivételével – kizárólag tevékenységi engedély birtokában folytatható.
 
 (2) Az állatgyógyászati intézmény, az állatgyógyászati készítmények kiskereskedelmi forgalmazója, a magán-állatorvos, valamint állatorvost alkalmazó telep, állatkert, vadaspark köteles a K1, K2 és a P2 jegyzéken szereplő kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó gyógyszerrel végzett tevékenységét – annak megkezdése előtt legalább harminc nappal – a rendőrségnek az alábbi adattartalommal bejelenteni:
 
@@ -12,19 +12,51 @@ c) a cégjegyzékszáma, és a bírósági nyilvántartásba történő bejegyz�
 
 d) a működésre jogosító engedélyek adatai (az engedély száma, a kiadó hatóság megnevezése, az engedély kelte és időbeli hatálya);
 
-e)[^9] a tevékenységgel érintett K1, K2 és P2 jegyzéken szereplő kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó gyógyszert kíván tárolni és felhasználni, a készítmény hatóanyagának neve és kiszerelési formája;
+e)[^11] a tevékenységgel érintett K1, K2 és P2 jegyzéken szereplő kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó gyógyszert kíván tárolni és felhasználni, a készítmény hatóanyagának neve és kiszerelési formája;
 
 f) a tárolóhely és a tárolási rend leírása.
 
-(3)[^10] A rendőrség a (2) bekezdés a)–c) és e)–f) pontja szerinti adatokat nyilvántartásba veszi, és a nyilvántartásba vett adatokról tizenöt napon belül – visszavonásig hatályos – hatósági bizonyítványt ad ki. A nyilvántartásba vételről az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatalt és az Egészségügyi Nyilvántartási és Képzési Központot (a továbbiakban: ENKK) tájékoztatja. A nyilvántartásban szereplő személy vagy szervezet a (2) bekezdés szerinti bejelentés során közölt adatai megváltozásáról, vagy a tevékenység megszüntetéséről a nyilvántartást vezető szervet nyolc napon belül, írásban tájékoztatja. A nyilvántartásban szereplő személy vagy szervezet az általa forgalmazott vagy felhasznált kábítószerről és pszichotróp anyagról a nyilvántartást vezető szerv honlapján közzétett formanyomtatvány szerinti adattartalommal minden év január 31-ig tájékoztatja az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatalt és a nyilvántartást vezető szervet.
+(3)[^12] A rendőrség a (2) bekezdés a)–c) és e)–f) pontja szerinti adatokat nyilvántartásba veszi, és a nyilvántartásba vett adatokról tizenöt napon belül – visszavonásig hatályos – hatósági bizonyítványt ad ki. A nyilvántartásba vételről az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatalt és az Egészségügyi Nyilvántartási és Képzési Központot (a továbbiakban: ENKK) tájékoztatja. A nyilvántartásban szereplő személy vagy szervezet a (2) bekezdés szerinti bejelentés során közölt adatai megváltozásáról, vagy a tevékenység megszüntetéséről a nyilvántartást vezető szervet nyolc napon belül, írásban tájékoztatja. A nyilvántartásban szereplő személy vagy szervezet az általa forgalmazott vagy felhasznált kábítószerről és pszichotróp anyagról a nyilvántartást vezető szerv honlapján közzétett formanyomtatvány szerinti adattartalommal minden év január 31-ig tájékoztatja az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatalt és a nyilvántartást vezető szervet.
 
-(4)[^11] Díszítő mák és kannabisz növény exportját, importját, transzferét végző, a tisztítatlan mákszalma-maradványokkal szennyezett mákmagot felvásárló, illetve annak tisztítását végző, valamint ipari mákszalmát tároló, továbbá új pszichoaktív anyagot, valamint a D) jegyzéken szereplő anyagot ipari célra használó, exportáló, importáló, transzferét és forgalmazását végző gazdálkodó szervezet a tevékenység megkezdése előtt harminc nappal köteles a tevékenységet a tevékenység jellegének és helyének pontos megjelölésével és a kábítószerért felelős személy megnevezésével az ENKK-nak bejelenteni. A bejelentésben meg kell jelölni a cégjegyzékszámot vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+(4)[^13] Díszítő mák és kannabisz exportját, importját, transzferét végző, a tisztítatlan mákszalma-maradványokkal szennyezett mákmagot felvásárló, illetve annak tisztítását végző, valamint ipari mákszalmát és kannabiszt export, import, illetve transzfer céljából tároló, továbbá új pszichoaktív anyagot, valamint a D) jegyzéken szereplő anyagot ipari célra használó, exportáló, importáló, transzferét és forgalmazását végző gazdálkodó szervezet a tevékenység megkezdése előtt harminc nappal köteles a tevékenységet a tevékenység jellegének és helyének pontos megjelölésével és a kábítószerért felelős személy megnevezésével az ENKK-nak bejelenteni. A bejelentésben a következőket kell megjelölni:
 
-(5)[^12] Az ENKK a Gytv. 15. § (12) bekezdése szerinti nyilvántartás alapján a nyilvántartásba vett adatokról tizenöt napon belül – visszavonásig hatályos – hatósági bizonyítványt ad ki. A nyilvántartásba vételről a rendőrséget tájékoztatja. A nyilvántartásba vett gazdálkodó szervezet a (4) bekezdés szerinti bejelentés során közölt adatai megváltozásáról, vagy a tevékenység megszüntetéséről a nyilvántartást vezető szervet nyolc napon belül írásban tájékoztatja. A nyilvántartásba vett gazdálkodó szervezet az általa végzett tevékenységről a nyilvántartást vezető szerv honlapján közzétett formanyomtatvány szerinti adattartalommal minden év január 31-ig tájékoztatja a nyilvántartást vezető szervet. A tisztítás utáni mákszalma-maradványok kizárólag opioid alkaloidok elválasztására tevékenységi engedéllyel rendelkező engedélyesnek adhatók át a 6. melléklet szerinti megrendelőlap kíséretében, vagy megsemmisítendők.
+a) a tevékenység jellege és pontos helye;
 
-(6)[^13] Az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti anyagok szállítmányozását végző gazdálkodó szervezet a tevékenység megkezdése esetén köteles a tevékenységet – annak megkezdése előtt harminc nappal – a tevékenység jellegének pontos megjelölésével és a kábítószerért felelős személy megnevezésével az ENKK-nak bejelenteni. A bejelentésben meg kell jelölni a cégjegyzékszámot vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+b) a kábítószerért felelős személy neve, személyi igazolvány vagy egyéb, a személyazonosság igazolására alkalmas más igazolvány száma;
 
-(7)[^14] Az ENKK a Gytv. 15. § (15) bekezdése szerinti nyilvántartás alapján a nyilvántartásba vett adatokról tizenöt napon belül – visszavonásig hatályos – hatósági bizonyítványt ad ki. A nyilvántartásba vételről a rendőrséget tájékoztatja. A nyilvántartásba vett gazdálkodó szervezet a (6) bekezdés szerinti bejelentés során közölt adatai megváltozásáról, vagy a tevékenység megszüntetéséről a nyilvántartást vezető szervet nyolc napon belül írásban tájékoztatja.
+c) a gazdálkodó szervezet cégjegyzékszáma, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel vagy a költségvetési szervek törzskönyvi száma;
+
+d) a tevékenységgel érintett ellenőrzött anyag, anyagok neve;
+
+e) a tárolóhely és a tárolási rend rövid leírása;
+
+f) a biztonsági berendezések, intézkedések leírása;
+
+g) ha van megbízó, annak neve, székhelye, cégjegyzékszáma, tevékenységi köre;
+
+h) ha van alvállalkozó, annak neve, székhelye, cégjegyzékszáma, tevékenységi köre.
+
+(5)[^14] Az ENKK a Gytv. 15. § (12) bekezdése szerinti nyilvántartás alapján a nyilvántartásba vett adatokról tizenöt napon belül – visszavonásig hatályos – hatósági bizonyítványt ad ki. Az ENKK a nyilvántartásba vételről a rendőrséget és a földművelésügyi miniszter által vezetett minisztériumot tájékoztatja. A nyilvántartásba vett gazdálkodó szervezet a (4) bekezdés szerinti bejelentés során közölt adatai megváltozásáról vagy a tevékenység megszüntetéséről a nyilvántartást vezető szervet nyolc napon belül írásban tájékoztatja. A nyilvántartásba vett gazdálkodó szervezet az általa végzett tevékenységről a nyilvántartást vezető szerv honlapján közzétett formanyomtatvány szerinti adattartalommal minden év január 31-éig tájékoztatja a nyilvántartást vezető szervet. A tisztítás utáni mákszalma-maradványok kizárólag opioid alkaloidok elválasztására tevékenységi engedéllyel rendelkező engedélyesnek adhatók át a 6. melléklet szerinti megrendelőlap kíséretében, vagy megsemmisítendők. A kannabisz kizárólag más tevékenységi engedéllyel vagy hatósági bizonyítvánnyal rendelkező gazdálkodó szervezetnek adható át a 6. melléklet szerinti megrendelőlap kíséretében, vagy megsemmisítendő.
+
+(6)[^15] Az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti anyagok szállítmányozását végző gazdálkodó szervezet a tevékenység megkezdése esetén köteles a tevékenységet – annak megkezdése előtt harminc nappal – a tevékenység jellegének pontos megjelölésével és a kábítószerért felelős személy megnevezésével az ENKK-nak bejelenteni. A bejelentésben a következőket kell megjelölni:
+
+a) a tevékenység jellege: belföldi vagy külföldi szállítmányozás; közúti, vasúti, légi vagy vízi szállítás;
+
+b) a kábítószerért felelős személy neve, személyi igazolvány vagy egyéb, a személyazonosság igazolására alkalmas más igazolvány száma;
+
+c) a gazdálkodó szervezet cégjegyzékszáma és a bírósági nyilvántartásba történő bejegyzés, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel vagy a költségvetési szervek törzskönyvi száma;
+
+d) a működésre jogosító engedélyek adatai (az engedély száma, a kiadó hatóság megnevezése, az engedély kelte és időbeli hatálya);
+
+e) a tevékenységgel érintett anyagok megjelölése és kiszerelési formája;
+
+f) biztonsági berendezések, intézkedések leírása;
+
+g) ha van, a megbízó, megbízók neve, székhelye, cégjegyzékszáma;
+
+h) ha van, az alvállalkozók neve, székhelye, cégjegyzékszáma, tevékenységi köre.
+
+(7)[^16] Az ENKK a Gytv. 15. § (15) bekezdése szerinti nyilvántartás alapján a nyilvántartásba vett adatokról tizenöt napon belül – visszavonásig hatályos – hatósági bizonyítványt ad ki. A nyilvántartásba vételről a rendőrséget tájékoztatja. A nyilvántartásba vett gazdálkodó szervezet a (6) bekezdés szerinti bejelentés során közölt adatai megváltozásáról, vagy a tevékenység megszüntetéséről a nyilvántartást vezető szervet nyolc napon belül írásban tájékoztatja.
 
 (8) A nyilvántartásba vett szervezetet a nyilvántartást vezető szerv nyilvántartásából törli és a hatósági bizonyítvány visszavonásáról intézkedik, amennyiben:
 
@@ -50,10 +82,10 @@ b) az előírt adatszolgáltatást nem teljesítette.
 
 (12) A nyilvántartást vezető szerv a nyilvántartásba vett szervezet tevékenységének felfüggesztéséről vagy visszavonásáról szóló döntését közli a felfüggesztést vagy visszavonást kezdeményező hatósággal is.
 
-[^8]: A 3. § (1) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 91. § a) pontja, az 52/2014. (III. 3.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^9]: A 3. § (2) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 82. §-ával megállapított szöveg.
-[^10]: A 3. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 54. § a) pontja, a 30/2015. (II. 25.) Korm. rendelet 65. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 196. § a) pontja szerint módosított szöveg.
-[^11]: A 3. § (4) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 88. §-ával megállapított, a 30/2015. (II. 25.) Korm. rendelet 65. § b) pontja szerint módosított szöveg.
-[^12]: A 3. § (5) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 54. § b) pontja, a 30/2015. (II. 25.) Korm. rendelet 65. § c) pontja szerint módosított szöveg.
-[^13]: A 3. § (6) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja, a 30/2015. (II. 25.) Korm. rendelet 65. § b) pontja szerint módosított szöveg.
-[^14]: A 3. § (7) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 54. § c) pontja, a 30/2015. (II. 25.) Korm. rendelet 65. § c) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 91. § a) pontja, az 52/2014. (III. 3.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 82. §-ával megállapított szöveg.
+[^12]: A 3. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 54. § a) pontja, a 30/2015. (II. 25.) Korm. rendelet 65. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 196. § a) pontja szerint módosított szöveg.
+[^13]: A 3. § (4) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^14]: A 3. § (5) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^15]: A 3. § (6) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^16]: A 3. § (7) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 54. § c) pontja, a 30/2015. (II. 25.) Korm. rendelet 65. § c) pontja szerint módosított szöveg.
