@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-38-20-5
 | 2010-01-02 | 2009-38-20-53.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-01-03 | 2009-38-20-53.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-01-01 | 2009-38-20-53.4 | 42/2012. (XII. 21.) NGM rendelet |
+| 2016-01-01 | 2009-38-20-53.5 | 47/2015. (XII. 30.) NGM rendelet |

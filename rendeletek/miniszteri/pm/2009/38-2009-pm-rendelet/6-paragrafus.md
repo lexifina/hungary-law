@@ -1,4 +1,4 @@
-6. § (1)[^10] Az egy szállítmányként vagy egységrakományként továbbított küldemények árutovábbítását az engedélyesnek az általános szabályok szerint vagy az engedélyezett feladói vagy címzetti jogosítványának használatával kell intéznie.
+6. § (1)[^11] Az egy szállítmányként vagy egységrakományként továbbított küldemények árutovábbítását az engedélyesnek az általános szabályok szerint vagy az engedélyezett feladói vagy címzetti jogosítványának használatával kell intéznie.
 
 (2) A küldemények a könnyített eljárásban az egyedi kísérőokmánnyal továbbíthatók az engedélyes és a címzett telephelye között. Az engedélyes az így továbbított küldemények esetében írásban köteles felhívni a címzett figyelmét a további vámeljárási kötelezettségre és a bemutatási határidőre.
 
@@ -10,4 +10,4 @@
 
 (6) Az árunyilatkozatok benyújtása és az áruk bemutatása tekintetében az e rendeletben meghatározottakat az EK végrehajtási rendelet 201. cikk (2) bekezdésében foglaltak figyelembevételével kell alkalmazni.
 
-[^10]: A 6. § (1) bekezdése a 42/2012. (XII. 21.) NGM rendelet 9. §-ával megállapított szöveg.
+[^11]: A 6. § (1) bekezdése a 42/2012. (XII. 21.) NGM rendelet 9. §-ával megállapított szöveg.

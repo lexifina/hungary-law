@@ -1,4 +1,4 @@
-8. § (1)[^13] Az engedélyező vámszerv – kérelemre – annak engedélyezheti a könnyített eljárást, aki az alábbi együttes feltételeknek megfelel:
+8. § (1)[^14] Az engedélyező vámszerv – kérelemre – annak engedélyezheti a könnyített eljárást, aki az alábbi együttes feltételeknek megfelel:
 
 a) napi rendszerességgel bonyolít integrált forgalmat,
 
@@ -16,4 +16,4 @@ a) az engedélyes az előírt nyilvántartásokat nem vezeti, vagy
 
 b) figyelmeztetés ellenére a nyilvántartásokat olyan hiányosan vezeti, hogy az nem biztosítja a 6. § (5) bekezdésében előírt garanciafigyelést, illetve azokból nem állapítható meg, hogy ténylegesen mennyi küldemény érkezett.
 
-[^13]: A 8. § (1) bekezdése a 42/2012. (XII. 21.) NGM rendelet 10. §-ával megállapított szöveg.
+[^14]: A 8. § (1) bekezdése a 42/2012. (XII. 21.) NGM rendelet 10. §-ával megállapított szöveg.
