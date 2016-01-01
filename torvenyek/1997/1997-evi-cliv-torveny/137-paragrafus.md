@@ -1,1 +1,7 @@
-137. § Több résztevékenységből álló, összefüggő ellátási folyamat végén vagy fekvőbeteg-gyógyintézeti ellátást követően írásbeli összefoglaló jelentést (zárójelentést) kell készíteni, és – a 14. § (1) bekezdésében foglalt eset kivételével – azt a betegnek át kell adni.
+137. § Az egészségügyi szolgáltató
+
+a) több résztevékenységből álló, összefüggő ellátási folyamat végén vagy fekvőbeteg-gyógyintézeti ellátást követően az ellátás adatait összefoglaló zárójelentést,
+
+b) miniszteri rendeletben meghatározott járóbeteg-szakellátási tevékenység befejezésekor, a beteg ellátásával és gyógykezelésével kapcsolatos összefoglaló adatokat tartalmazó ambuláns ellátási lapot
+
+készít és – a 14. § (1) bekezdésében foglalt eset kivételével – azt a betegnek átadja.

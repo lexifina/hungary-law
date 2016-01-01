@@ -4,12 +4,4 @@
 
 (3) Az egészségügyi államigazgatási szerv a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(4) Az egészségügyi államigazgatási szerv az egészségügyi szakértő tevékenysége gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, valamint, hogy nem áll az egészségügyi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából az egészségügyi államigazgatási szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy az egészségügyi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(5) A (4) bekezdés alapján megismert személyes adatokat az egészségügyi államigazgatási szerv
-
-a) a hatósági ellenőrzés időtartamára vagy
-
-b) az egészségügyi szociális intézmény működésével összefüggő szakértői tevékenység folytatásának megtiltására irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
+(4)–(5)

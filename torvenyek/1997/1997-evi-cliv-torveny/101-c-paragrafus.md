@@ -23,3 +23,5 @@ f) a beültetést végző egészségügyi szolgáltató nevét, működési enge
 (3) Az egészségügyi szolgáltató az (1) bekezdés szerinti adatokat az egészségbiztosítási szerv által működtetett informatikai felület alkalmazásával, a (2) bekezdés szerinti adatfelvitellel egyidejűleg, elektronikusan továbbítja – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározottak szerint működtetett – Központi Implantátumregiszter részére.
 
 (4) Az (1) bekezdés szerinti nyilvántartás vezetésével és a Központi Implantátumregiszterbe történő adattovábbítással kapcsolatos ellenőrzési feladatokat az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi.
+
+(5) Az egészségügyi szolgáltató csípő- és térdízületi endoprotézis beültetésével, kivételével és cseréjével kapcsolatos nyilvántartási és adattovábbítási kötelezettségét az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 16/B. §-ában foglaltak szerint teljesíti.

@@ -12,9 +12,11 @@ b) a rá vonatkozó egészségügyi adatokat megismerni,
 
 c) az egészségügyi dokumentációba betekinteni, valamint azokról kivonatot vagy másolatot készíteni vagy saját költségére másolatot kapni,
 
-d) a fekvőbeteg-gyógyintézetből történő elbocsátásakor zárójelentést (137. §) kapni,
+d) a fekvőbeteg-gyógyintézetből történő elbocsátásakor a 137. § a) pontja szerinti zárójelentést kapni,
 
-e) egészségügyi adatairól indokolt célra – saját költségére – összefoglaló vagy kivonatos írásos véleményt kapni.
+e) a 137. § b) pontjában foglaltak szerint a járóbeteg-szakellátási tevékenység befejezésekor ambuláns ellátási lapot kapni,
+
+f) egészségügyi adatairól – saját költségére – összefoglaló vagy kivonatos írásos véleményt kapni.
 
 (4) A beteg jogosult az általa pontatlannak vagy hiányosnak vélt – rá vonatkozó – egészségügyi dokumentáció kiegészítését, kijavítását kezdeményezni, amelyet a kezelőorvos, illetve más adatkezelő a dokumentációra saját szakmai véleményének feltüntetésével jegyez rá. A hibás egészségügyi adatot az adatfelvételt követően törölni nem lehet, azt úgy kell kijavítani, hogy az eredetileg felvett adat megállapítható legyen.
 

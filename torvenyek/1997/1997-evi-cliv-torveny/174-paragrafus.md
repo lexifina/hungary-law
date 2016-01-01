@@ -4,7 +4,7 @@ a) meghatározott esetben az egészségügyi szolgáltató az adományozott és 
 
 b) meghatározottak szerint az ivarsejtek tárolása kizárható vagy időtartama korlátozható azzal, hogy a korlátozott időtartamig tárolható ivarsejteket a tárolási idő lejártát követően meg kell semmisíteni.
 
-(2) Egészségügyi okból szakorvosi javaslat alapján, illetőleg egyéb indokolt kérelemre ivarsejtek fagyasztva tárolás céljából cselekvőképes személytől későbbi, a letevő saját felhasználása céljából is átvehetők (ivarsejt letét). Letétként kizárólag a letevő saját és személyesen átadott ivarsejtjei vehetők át.
+(2) Hímivarsejtet sejtbanki tevékenységen belül ivarsejtbanki tevékenység végzésére, illetve ivarsejtet reprodukciós eljárás végzésére jogosító, az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet szerinti működési engedéllyel rendelkező egészségügyi szolgáltató ivarsejtet – szakorvosi javaslat alapján, illetve egyéb indokolt kérelemre – átvehet cselekvőképes személytől későbbi, a letevő saját felhasználása céljából (a továbbiakban: ivarsejtletét). Ivarsejtletétként kizárólag a letevő saját és személyesen átadott ivarsejtjei vehetők át.
 
 (3) A letétbe helyezett ivarsejtek a letevő írásbeli rendelkezése alapján, a reprodukciós eljárást végző egészségügyi szolgáltató részére szolgáltathatók ki. A letevő írásbeli kérelmére az ivarsejteket a tárolási idő lejárta előtt meg kell semmisíteni.
 

@@ -43,3 +43,5 @@ a) a fekvőbeteg-szakellátás és a járóbeteg-szakellátás feltételrendszer
 b) az egészségügyi szakellátási felelőssége alapján a fekvőbeteg-szakellátásról és a járóbeteg-szakellátásról való – az egészségügyi ellátórendszer fejlesztéséről szóló törvényben foglaltak szerinti – gondoskodás,
 
 c) az egészségügyi szakellátási kötelezettsége részeként a 152. § (3) bekezdése szerinti egészségügyi szakellátási intézményműködtetési kötelezettség alapján és a nem állami, illetve nem önkormányzati tulajdonban lévő egészségügyi szolgáltatónak az egészségügyi ellátórendszer fejlesztéséről szóló törvényben meghatározott egészségügyi szakellátási feladata alapján el nem látott fekvőbeteg- és járóbeteg-szakellátási feladatok ellátásának biztosítása.
+
+(5) Az állam a (3) bekezdés c) pontja szerinti információs rendszer kialakítása és fejlesztése érdekében az egészségügyi informatikai rendszerek együttműködését és információáramlását törvény szerinti informatikai rendszer keretében biztosítja.
