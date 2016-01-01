@@ -1,4 +1,4 @@
-3. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^35]
+3. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^37]
 
 A munkabaleset kivizsgálásának szempontjai
 
@@ -62,4 +62,4 @@ A munkabaleset kivizsgálásának szempontjai
 
 A munkabaleset vizsgálatának megállapításait olyan részletességgel kell rögzíteni, hogy az így készült dokumentumok alkalmasak legyenek a baleset okainak megállapítására és a megállapított összefüggések, körülmények tényszerű alátámasztására.
 
-[^35]: A Vhr. 3. számú mellékletét az 5/2010. (III. 9.) SZMM rendelet 9. § – a 27/2010. (XII. 31.) NGM rendelet 71. § (2) bekezdésével megállapított – (4) bekezdése hatályon kívül helyezte, újonnan a 63/2013. (XII. 17.) NGM rendelet 3. § (1) bekezdése iktatta be.
+[^37]: A Vhr. 3. számú mellékletét az 5/2010. (III. 9.) SZMM rendelet 9. § – a 27/2010. (XII. 31.) NGM rendelet 71. § (2) bekezdésével megállapított – (4) bekezdése hatályon kívül helyezte, újonnan a 63/2013. (XII. 17.) NGM rendelet 3. § (1) bekezdése iktatta be.
