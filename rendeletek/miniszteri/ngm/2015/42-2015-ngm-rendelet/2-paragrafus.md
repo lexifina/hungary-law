@@ -1,0 +1,3 @@
+## 1. § A felnőttképzési tevékenység folytatásának engedélyezési eljárása során fizetendő igazgatási szolgáltatási díj mértékéről, befizetésének és felhasználásának szabályairól, valamint a felnőttképzést folytató intézmények ellenőrzése során kiszabott bírság befizetésének rendjéről szóló 56/2013. (XII. 4.) NGM rendelet (a továbbiakban: R1.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha a jogorvoslati eljárásban a másodfokon eljáró hatóság az NSZFH részben vagy egészben jogszabálysértő döntését a tényállás kiegészítéséhez vagy tisztázásához szükséges vizsgálatok elvégzését követően megváltoztatja vagy megsemmisíti, az NSZFH a másodfokon eljárt szerv számára az eljárásban felmerült költségeket – a jogorvoslati díj mértékéig – megtéríti.”
