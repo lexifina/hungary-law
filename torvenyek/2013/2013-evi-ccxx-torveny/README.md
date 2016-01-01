@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-220-00-00
 | 2015-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-220-00-00.2 |
 | 2015-07-02 | 2010. évi CXXX. törvény | 2013-220-00-00.3 |
 | 2015-07-16 | 2015. évi CXXX. törvény | 2013-220-00-00.4 |
+| 2016-01-01 | 2014. évi XCIII. törvény | 2013-220-00-00.5 |
