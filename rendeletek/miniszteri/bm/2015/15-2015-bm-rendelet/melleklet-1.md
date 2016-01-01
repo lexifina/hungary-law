@@ -202,11 +202,11 @@ C) Központi hivatalok
 
 2.2. a főosztályvezető és a helyettesítésére kijelölt főosztályvezető-helyettes, osztályvezető
 
-2.3. N-SIS II. Hivatal vezetője
+2.3.[^11] az arcképelemző tevékenység ellátásában résztvevő személyek munkaköre
 
 2.4. a tanúvédelmi feladatokat ellátók
 
-2.5. az adatvédelmi felelős
+2.5.[^12] a belső adatvédelmi felelős
 
 2.6. a projektvezető
 
@@ -222,11 +222,11 @@ C) Központi hivatalok
 
 2.12. a nemzetbiztonsági szolgálatok és a titkosszolgálati eszközök használatára jogosult szervek munkájának támogatásában résztvevő munkakör
 
-2.13.[^11] az Operatív Szolgáltatási Osztály valamennyi munkaköre
+2.13.[^13] az Operatív Szolgáltatási Osztály valamennyi munkaköre
 
-2.14.[^12] a hatósági elnökhelyettes irányítása alá tartozó területen adatszolgáltatói, adategyeztetői, adatkezelői és folyamatirányítói munkakörök
+2.14.[^14] a hatósági elnökhelyettes irányítása alá tartozó területen adatszolgáltatói, adategyeztetői, adatkezelői és folyamatirányítói munkakörök
 
-2.15.[^13] az informatikai elnökhelyettes irányítása alá tartozó terület valamennyi munkaköre
+2.15.[^15] az informatikai elnökhelyettes irányítása alá tartozó terület valamennyi munkaköre
 
 3. A Szervezett Bűnözés Elleni Koordinációs Központ
 
@@ -258,13 +258,13 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 3.1. a főigazgató és szervezetszerű helyettese
 
-3.2.[^14] a vezető-kiválasztási eljárásban résztvevő pszichológus, tréner, vezető tréner, kiválasztási szakértő, kiválasztási asszisztens
+3.2.[^16] a vezető-kiválasztási eljárásban résztvevő pszichológus, tréner, vezető tréner, kiválasztási szakértő, kiválasztási asszisztens
 
-3.3.[^15] a gazdasági igazgató, a közgazdasági osztályvezető
+3.3.[^17] a gazdasági igazgató, a közgazdasági osztályvezető
 
-3.4.[^16] a Közigazgatási Személyzetfejlesztési Igazgatóság vezetője, a Személyügyi Szolgáltatási Osztály osztályvezetője, a Nyilvántartási Csoport valamennyi munkatársa
+3.4.[^18] a Közigazgatási Személyzetfejlesztési Igazgatóság vezetője, a Személyügyi Szolgáltatási Osztály osztályvezetője, a Nyilvántartási Csoport valamennyi munkatársa
 
-3.5.[^17] az informatikus
+3.5.[^19] az informatikus
 
 4. Nemzetközi Oktatási Központ
 
@@ -282,10 +282,12 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^8]: Az 1. melléklet B) Rendvédelmi szervek újabb 1.8. pontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
 [^9]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.9. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (4) bekezdése iktatta be.
 [^10]: Az 1. melléklet B) Rendvédelmi szervek 2.4. pontja a 48/2015. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
-[^11]: Az 1. melléklet C) Központi hivatalok 2. pont 2.13. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
-[^12]: Az 1. melléklet C) Központi hivatalok 2. pont 2.14. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
-[^13]: Az 1. melléklet C) Központi hivatalok 2. pont 2.15. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
-[^14]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.2. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
-[^15]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.3. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
-[^16]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.4. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
-[^17]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.5. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^11]: Az 1. melléklet C) 2. pont 2.3. alpontja a 80/2015. (XII. 23.) BM rendelet 2. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet C) 2. pont 2.5. alpontja a 80/2015. (XII. 23.) BM rendelet 2. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet C) Központi hivatalok 2. pont 2.13. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^14]: Az 1. melléklet C) Központi hivatalok 2. pont 2.14. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^15]: Az 1. melléklet C) Központi hivatalok 2. pont 2.15. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^16]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.2. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^17]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.3. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^18]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.4. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^19]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.5. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
