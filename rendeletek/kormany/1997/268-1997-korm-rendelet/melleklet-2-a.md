@@ -8,7 +8,7 @@
 
 ## d) a g1), g2) alpontokban meghatározott eszközök együttes aránya nem haladhatja meg a befektetetett pénztári eszközök 25%-át;
 
-## e)[^123] a közvetett befektetési instrumentumok alkalmazása során biztosítani kell, hogy a pénztártagot közvetetten terhelő befektetési költségek mértéke – a közvetlen befektetésekhez kapcsolódó költségekhez viszonyítottan – a vagyonkezelési költségekkel összhangban legyen. Közvetett befektetési instrumentumnak tekinthetőek az e rendelet 1. számú mellékletében meghatározott befektetési jegyek, illetve egyéb kollektív befektetési értékpapírok;
+## e)[^132] a közvetett befektetési instrumentumok alkalmazása során biztosítani kell, hogy a pénztártagot közvetetten terhelő befektetési költségek mértéke – a közvetlen befektetésekhez kapcsolódó költségekhez viszonyítottan – a vagyonkezelési költségekkel összhangban legyen. Közvetett befektetési instrumentumnak tekinthetőek az e rendelet 1. számú mellékletében meghatározott befektetési jegyek, illetve egyéb kollektív befektetési értékpapírok;
 
 ## f) az f) pontban feltüntetett eszközökön belül az ingatlanba befektető befektetési alapok, valamint a h) pontban feltüntetett eszközök együttes aránya nem haladhatja meg a befektetett pénztári eszközök 10%-át;
 
@@ -28,13 +28,13 @@
 
 ## 4. A nem OECD, illetve EGT tagországbeli kibocsátó értékpapírjába történő befektetések aránya nem haladhatja meg a külföldi befektetések 20%-át.
 
-## 5.[^124] Magyarországon bejegyzett származtatott ügyletekbe befektető alap befektetési jegyének, illetve a külföldön bejegyzett és a kibocsátás országában származtatott ügyletekbe befektető alapnak minősülő befektetési alap jegyének együttes aránya nem haladhatja meg a befektetett pénztári eszközök 5%-át. Magyarországon bejegyzett kockázati tőkealap jegyének, illetve külföldön bejegyzett és a kibocsátás országában kockázati tőkealapnak minősülő alap jegyének együttes aránya nem haladhatja meg a befektetett pénztári eszközök 5%-át. Egy kockázati tőkealap által kibocsátott jegyek aránya nem haladhatja meg a befektetett pénztári eszközök 2%-át.
+## 5.[^133] Magyarországon bejegyzett származtatott ügyletekbe befektető alap befektetési jegyének, illetve a külföldön bejegyzett és a kibocsátás országában származtatott ügyletekbe befektető alapnak minősülő befektetési alap jegyének együttes aránya nem haladhatja meg a befektetett pénztári eszközök 5%-át. Magyarországon bejegyzett kockázati tőkealap jegyének, illetve külföldön bejegyzett és a kibocsátás országában kockázati tőkealapnak minősülő alap jegyének együttes aránya nem haladhatja meg a befektetett pénztári eszközök 5%-át. Egy kockázati tőkealap által kibocsátott jegyek aránya nem haladhatja meg a befektetett pénztári eszközök 2%-át.
 
-## 6.[^125] Az egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapírban történő befektetések aránya a befektetett pénztári eszközök 10%-át nem haladhatja meg.
+## 6.[^134] Az egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapírban történő befektetések aránya a befektetett pénztári eszközök 10%-át nem haladhatja meg.
 
-2/A. számú melléklet a 268/1997. (XII. 22.) Korm. rendelethez[^126]
+2/A. számú melléklet a 268/1997. (XII. 22.) Korm. rendelethez[^135]
 
-[^123]: A 2. számú melléklet 1. e) pontja a 235/2006. (XI. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^124]: A 2. számú melléklet 5. pontja a 263/2005. (XII. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^125]: A 2. számú melléklet 6. pontját a 235/2006. (XI. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^126]: A 2/A. számú mellékletet a 330/2004. (XII. 11.) Korm. rendelet 12. §-ának (1) bekezdése iktatta be, hatályon kívül helyezte a 235/2006. (XI. 24.) Korm. rendelet 6. § (2) bekezdése.
+[^132]: A 2. számú melléklet 1. e) pontja a 235/2006. (XI. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^133]: A 2. számú melléklet 5. pontja a 263/2005. (XII. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^134]: A 2. számú melléklet 6. pontját a 235/2006. (XI. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^135]: A 2/A. számú mellékletet a 330/2004. (XII. 11.) Korm. rendelet 12. §-ának (1) bekezdése iktatta be, hatályon kívül helyezte a 235/2006. (XI. 24.) Korm. rendelet 6. § (2) bekezdése.

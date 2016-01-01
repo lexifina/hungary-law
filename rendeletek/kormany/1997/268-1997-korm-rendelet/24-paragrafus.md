@@ -1,10 +1,10 @@
-## V. RÉSZ[^84]
+## V. RÉSZ[^90]
 
 ## Az egészségpénztárak és az önsegélyező pénztárak által nyújtható szolgáltatások egyes szabályai
 
-## Az önsegélyező pénztári szolgáltatásokra vonatkozó egyes szabályok[^85]
+## Az önsegélyező pénztári szolgáltatásokra vonatkozó egyes szabályok[^91]
 
-24. §[^86] (1) A közösségi szolgáltatást nyújtó önsegélyező pénztárakban a tagdíjak közösségi szolgáltatások tartalékaiba fizetendő részére, valamint a közösségi szolgáltatások tartalékainak a biztonságos szolgáltatásnyújtáshoz szükséges minimális nagyságára vonatkozó kalkulációt a pénztár biztosításmatematikusa készíti vagy ellenjegyzi. A kalkulációt az alapszabályban meghatározott gyakorisággal, de legalább három évente kell elkészíteni. Amennyiben az elkészített kalkuláció ellenjegyzését megtagadja, azt a biztosításmatematikus a Felügyeletnek az önsegélyező pénztár számára történő bejelentését követően 3 munkanapon belül írásban bejelenti.
+24. §[^92] (1) A közösségi szolgáltatást nyújtó önsegélyező pénztárakban a tagdíjak közösségi szolgáltatások tartalékaiba fizetendő részére, valamint a közösségi szolgáltatások tartalékainak a biztonságos szolgáltatásnyújtáshoz szükséges minimális nagyságára vonatkozó kalkulációt a pénztár biztosításmatematikusa készíti vagy ellenjegyzi. A kalkulációt az alapszabályban meghatározott gyakorisággal, de legalább három évente kell elkészíteni. Amennyiben az elkészített kalkuláció ellenjegyzését megtagadja, azt a biztosításmatematikus a Felügyeletnek az önsegélyező pénztár számára történő bejelentését követően 3 munkanapon belül írásban bejelenti.
 
 (2) A biztosításmatematikus elkészíti vagy ellenjegyezi az Öpt. 50. § (3) bekezdésében foglalt kalkulációt, illetve a pénztár pénzügyi tervét.
 
@@ -20,6 +20,6 @@ a) a közösségi szolgáltatások tartalékaiba történő összes éves befize
 
 b) a pénztár alapszabálya tartalmaz olyan rendelkezést, melynek alapján a pénztárnak fel kell függeszteni azon közösségi szolgáltatások folyósítását, amelyek esetében a szolgáltatáshoz tartozó tartalék szintje annak éves szinten tervezett bevételének 2 százaléka alá süllyed.
 
-[^84]: Az V. rész megjelölést és címét a 367/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
-[^85]: A 24. §-t megelőző alcímet a 367/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
-[^86]: A 24. §-t a 281/2001. (XII. 26.) Korm. rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte, újonnan a 367/2007. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^90]: Az V. rész megjelölést és címét a 367/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^91]: A 24. §-t megelőző alcímet a 367/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^92]: A 24. §-t a 281/2001. (XII. 26.) Korm. rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte, újonnan a 367/2007. (XII. 23.) Korm. rendelet 9. §-a iktatta be.

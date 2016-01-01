@@ -1,4 +1,4 @@
-24/C. §[^91] (1)[^92] Az egészségpénztár és az egészségpénztári szolgáltató közötti szerződést – kivéve az Öpt. 51/B. § (1) bekezdés d) pontjában meghatározott szolgáltatást nyújtó egészségpénztári szolgáltatót, valamint az Országos Egészségbiztosítási Pénztárral szerződésben álló szolgáltatókat az e szerződés tárgyát képező szolgáltatások tekintetében – írásba kell foglalni.
+24/C. §[^97] (1)[^98] Az egészségpénztár és az egészségpénztári szolgáltató közötti szerződést – kivéve az Öpt. 51/B. § (1) bekezdés d) pontjában meghatározott szolgáltatást nyújtó egészségpénztári szolgáltatót, valamint az Országos Egészségbiztosítási Pénztárral szerződésben álló szolgáltatókat az e szerződés tárgyát képező szolgáltatások tekintetében – írásba kell foglalni.
 
 (2) Az egészségpénztár csak az egészségpénztári szolgáltató által a pénztár nevére kiállított, a számviteli törvény előírásainak megfelelő általános alaki kellékekkel ellátott számla, egyszerűsített számla, vagy legalább a (3) bekezdésben meghatározott tartalommal rendelkező bizonylat, ellenében teljesíthet kifizetést. Ettől eltérően kifizetés teljesíthető a (4) bekezdésben meghatározott, a pénztár nevére kiállított dokumentum alapján is. Az egészségpénztári szolgáltató a számlán, egyszerűsített számlán, a bizonylaton, vagy elektronikus dokumentumon az igénybe vevő pénztártag (közeli hozzátartozó) nevét vagy azonosítóját feltünteti.
 
@@ -30,5 +30,5 @@ l) a fizetés módja és határideje.
 
 (4) A pénztár részére megküldött dokumentum több pénztártaggal kapcsolatos gazdasági eseményt, gazdasági műveletet is tartalmazhat. Ebben az esetben a gazdasági műveletet (eseményt) tagonkénti bontásban kell feltüntetni. A pénztár által teljesített kifizetés alapjául szolgáló dokumentumnak legalább a (3) bekezdésben meghatározott tartalommal kell rendelkeznie. Papír alapú dokumentum esetén azt a kiállítónak cégszerűen alá kell írnia, elektronikus dokumentum esetén pedig azt az elektronikus aláírásról szóló törvény szerinti legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel kell ellátni.
 
-[^91]: A 24/C. §-t a 367/2007. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
-[^92]: A 24/C. § (1) bekezdése a 268/2011. (XII. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^97]: A 24/C. §-t a 367/2007. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^98]: A 24/C. § (1) bekezdése a 268/2011. (XII. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

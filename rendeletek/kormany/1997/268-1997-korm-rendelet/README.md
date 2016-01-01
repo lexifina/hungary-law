@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-268-20-
 | 2013-10-01 | 1997-268-20-22.22 | 260/2003. (XII. 24.) Korm. rendelet |
 | 2014-01-01 | 1997-268-20-22.23 | 537/2013. (XII. 30.) Korm. rendelet |
 | 2014-09-05 | 1997-268-20-22.24 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2016-01-01 | 1997-268-20-22.25 | 470/2015. (XII. 29.) Korm. rendelet |

@@ -1,14 +1,9 @@
-23. §[^80] (1) A pénztár éves terve a tervet elfogadó közgyűlés évét követő naptári évre vonatkozik. Az éves pénztári beszámolóban az értékelést az értékelt évre vonatkozó pénzügyi terv alapján kell elvégezni.
-
-(2)[^81] A pénztár éves tervét legalább negyedéves bontásban kell elkészíteni.
-
-(3)[^82] A pénztár hosszú távú pénzügyi tervét három naptári évre, legalább éves bontásban kell elkészíteni.
+23. §[^87] (1)–(3)[^88]
 
 (4) Önsegélyező pénztári szolgáltatást is nyújtó egészségpénztár pénzügyi tervében elkülönítetten kell megjeleníteni az egészségpénztári, illetve az önsegélyező pénztári szolgáltatásokra vonatkozó adatokat.
 
-(5)[^83]
+(5)[^89]
 
-[^80]: A 23. § a 213/2000. (XII.11.) Korm. rendelet 1.§-ával megállapított szöveg.
-[^81]: A 23. § (2) bekezdése a 301/2002. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^82]: A 23. § (3) bekezdésének második mondatát a 260/2003. (XII. 24.) Korm. rendelet 14. §-ának (2) bekezdése hatályon kívül helyezte.
-[^83]: A 23. § (5) bekezdését a 260/2003. (XII. 24.) Korm. rendelet 14. §-ának (2) bekezdése hatályon kívül helyezte.
+[^87]: A 23. § a 213/2000. (XII.11.) Korm. rendelet 1.§-ával megállapított szöveg.
+[^88]: A 23. § (1)–(3) bekezdését a 470/2015. (XII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^89]: A 23. § (5) bekezdését a 260/2003. (XII. 24.) Korm. rendelet 14. §-ának (2) bekezdése hatályon kívül helyezte.

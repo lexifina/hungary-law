@@ -1,4 +1,4 @@
-16. § (1)[^40] A pénztár befektetési üzletmenetét olyan társasághoz helyezheti ki, amely a Felügyelettől önkéntes kölcsönös biztosító pénztár részére történő vagyonkezelésre engedélyt kapott.
+16. § (1)[^47] A pénztár befektetési üzletmenetét olyan társasághoz helyezheti ki, amely a Felügyelettől önkéntes kölcsönös biztosító pénztár részére történő vagyonkezelésre engedélyt kapott.
 
 (2) Nem bízható meg vagyonkezeléssel az a gazdasági társaság,
 
@@ -12,4 +12,4 @@ d) amely 10%-ot meghaladó mértékben közvetlenül vagy közvetve tulajdonosa 
 
 e) amelynek 10%-ot meghaladó mértékben tulajdonosa olyan természetes vagy jogi személy, aki a pénztár letétkezelőjében 10%-ot meghaladó mértékű tulajdonnal rendelkezik.
 
-[^40]: A 16. § (1) bekezdése a 281/2001. (XII. 26.) Korm. rendelet 38. §-ának (5) bekezdésével megállapított szöveg.
+[^47]: A 16. § (1) bekezdése a 281/2001. (XII. 26.) Korm. rendelet 38. §-ának (5) bekezdésével megállapított szöveg.
