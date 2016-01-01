@@ -54,7 +54,7 @@ b) igazolási kérelem előterjesztésének, és
 
 c) az eljárás szünetelésének.
 
-(8) A keresetlevelet a határozat kézbesítésétől számított 8 napon belül a szanálási feladatkörében eljáró MNB-hez kell benyújtani. A felülvizsgálati eljárásban a jogi képviselet kötelező.
+(8) A keresetlevelet a döntés kézbesítésétől számított 8 napon belül a szanálási feladatkörében eljáró MNB-hez kell benyújtani. A felülvizsgálati eljárásban a jogi képviselet kötelező.
 
 (9) Az MNB a hozzá benyújtott keresetlevelet – az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – 5 napon belül továbbítja a bírósághoz. A szanálási feladatkörében eljáró MNB nyilatkozatának tartalmaznia kell a szanálási feladatkörében eljáró MNB által ismert, a szanálási feladatkörében eljáró MNB döntése folytán érdekelt személyek nevét, elérhetőségét.
 

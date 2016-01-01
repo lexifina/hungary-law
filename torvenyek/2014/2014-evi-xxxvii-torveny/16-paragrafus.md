@@ -24,7 +24,7 @@ e) az ügyfelek pénzeszközeinek és vagyonának védelme; valamint
 
 f) a betétesek és befektetők bizalmának fenntartása a pénzügyi közvetítőrendszer stabilitása érdekében.
 
-(3) A (2) bekezdésben foglalt szanálási célok egyenrangúak.
+(3) A szanálási feladatkörében eljáró MNB a (2) bekezdésben foglalt szanálási célok mindegyikét érvényesíti, az adott eset körülményeinek megfelelő sajátosságok figyelembevételével.
 
 (4) A szanálási feladatkörében eljáró MNB-nek törekednie kell
 

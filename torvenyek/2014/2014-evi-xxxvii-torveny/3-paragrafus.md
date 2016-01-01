@@ -8,7 +8,7 @@
 
 2. átruházási jogosultság: a szanálás alatt álló intézményben lévő tagsági részesedés, hitelviszonyt megtestesítő instrumentum, eszköz, forrás, jogosultság és kötelezettség, illetve ezek valamilyen kombinációjának egy átvevőhöz történő átruházására vonatkozó jogosultság;
 
-3. átváltási ráta: az a tényező, amely meghatározza azon elsődleges alapvető tőkeelemek mennyiségét, amelyekre a tőkeelemek átalakítása során a szanálási feladatkörében eljáró Magyar Nemzeti Bank a kiegészítő alapvető tőke és a járulékos tőke elemeit átváltja;
+3. átváltási ráta: az a tényező, amely meghatározza azon elsődleges alapvető tőkeelemek mennyiségét, amelyekre a tőkeelemek, valamint a hitelezői feltőkésítésbe bevonható kötelezettségek átalakítása során a szanálási feladatkörében eljáró Magyar Nemzeti Bank a kiegészítő alapvető tőke és a járulékos tőke elemeit átváltja;
 
 4. átvevő: az a vállalkozás, amelyre a szanálás alatt álló intézményben lévő tagsági részesedést, az intézmény hitelviszonyt megtestesítő instrumentumát, eszközét, forrását, jogát és kötelezettségét, illetve ezek valamilyen kombinációját átruházzák;
 

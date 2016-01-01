@@ -12,7 +12,7 @@ c) az átruházási jogosultságot a szanálás alatt álló intézménnyel kapc
 
 (3) Az (1) és (2) bekezdés szerinti felfüggesztést nem kell alkalmazni a Tvt. alapján kijelölt rendszerekre vagy rendszerüzemeltetőkre, illetve a központi szerződő felekre és központi bankokra.
 
-(4) Valamely személy az (1) és (2) bekezdésben meghatározott időszak vége előtt is élhet a szerződés szerinti felmondási jogával, ha értesítést kap a szanálási feladatkörében eljáró MNB-től arra vonatkozóan, hogy a szerződés szerinti jogok és kötelezettségek nem kerülnek átruházásra az átvevőhöz, az áthidaló intézményhez vagy a szanálási vagyonkezelőhöz.
+(4) Valamely személy az (1) és (2) bekezdésben meghatározott időszak vége előtt is élhet a szerződés szerinti felmondási jogával, ha értesítést kap a szanálási feladatkörében eljáró MNB-től arra vonatkozóan, hogy a szerződés szerinti jogok és kötelezettségek nem kerülnek átruházásra az átvevőhöz, az áthidaló intézményhez vagy a szanálási vagyonkezelőhöz, valamint nem terjed ki rá a hitelezői feltőkésítés.
 
 (5) Ha a szanálási feladatkörében eljáró MNB gyakorolja az (1) és (2) bekezdésben a felmondási jog felfüggesztésére vonatkozóan meghatározott jogosultságot, és nem került sor a (4) bekezdés szerinti értesítésre, akkor a szerződés szerinti jogok és kötelezettségek más szervezethez történő átruházása esetén a szerződő fél csak akkor gyakorolhatja az adott szerződés feltételei szerinti felmondási jogot, ha az átvevőnél, az áthidaló intézménynél vagy a szanálási vagyonkezelőnél a szerződésszegés legalább három napig folyamatosan fennáll.
 

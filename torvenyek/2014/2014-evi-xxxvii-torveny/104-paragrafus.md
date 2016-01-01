@@ -6,6 +6,8 @@
 
 104. § (1) Az e törvényben meghatározott döntések meghozatala során a szanálási feladatkörében eljáró MNB hatóságként jár el.
 
+(1a) A szanálási feladatkörében eljáró MNB döntéshozatala során az MNB tv. 4. § (9) bekezdése szerinti feladatkör ellátásáért felelős vezetők nem rendelkeznek szavazati joggal.
+
 (2) A szanálási feladatkörében eljáró MNB az e törvényben meghatározott tevékenységének részeként
 
 a) szanálhatóság értékelésére irányuló eljárást,

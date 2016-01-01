@@ -16,7 +16,7 @@ d) a Felügyeletet;
 
 e) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter vagy a c) pontban meghatározott lehetséges átvevők által megbízott könyvvizsgálókat, könyvelőket, jogi és szakmai tanácsadókat, értékelési és egyéb szakértőket;
 
-f) az OBA-t;
+f) az OBA-t és a Szanálási Alapot;
 
 g) a Beva-t;
 
@@ -42,13 +42,15 @@ b) a szanálási feladatkörben eljáró MNB által a szanálási intézkedés t
 
 ba) más EGT-állam szanálási hatóságával,
 
-bb) más EGT-állam illetékes felügyeleti hatóságaival, illetékes minisztériumokkal, központi bankokkal, betétbiztosítási és befektető-kártalanítási rendszerekkel, a fizetésképtelenségi eljárásokért felelős hatóságokkal,
+bb) más EGT-állam illetékes felügyeleti hatóságaival, illetékes minisztériumokkal, központi bankokkal, betétbiztosítási és befektetés-védelmi rendszerekkel, a fizetésképtelenségi eljárásokért felelős hatóságokkal,
 
 bc) az Európai Bankhatósággal,
 
-bd) a szanálási hatóságok feladataival megegyező feladatokat ellátó harmadik országbeli hatóságokkal, vagy
+bd) az Európai Bizottsággal,
 
-be) egy lehetséges átvevővel
+be) a szanálási hatóságok feladataival megegyező feladatokat ellátó harmadik országbeli hatóságokkal, vagy
+
+bf) egy lehetséges átvevővel
 
 való információ-megosztásra.
 

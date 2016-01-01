@@ -4,7 +4,7 @@
 
 ## 60. Harmadik országbeli szanálási eljárások elismerése és végrehajtása
 
-121. § (1) A szanálási feladatkörében eljáró MNB – a 122. §-ban foglalt kivétellel – elismeri a valamely harmadik országbeli intézménnyel összefüggő harmadik országbeli szanálási eljárást, és végrehajtja az abból fakadó magyarországi cselekményeket, ha az érintett intézménynek magyarországi leányvállalati intézménye vagy fióktelepe van; és az rendelkezik olyan eszközökkel, forrásokkal, jogokkal és kötelezettségekkel, amelyek Magyarországon vannak vagy a magyar jog által szabályozottak.
+121. § (1) A szanálási feladatkörében eljáró MNB – a 122. §-ban foglalt kivétellel – elismeri a valamely harmadik országbeli intézménnyel összefüggő harmadik országbeli szanálási eljárást, és végrehajtja az abból fakadó magyarországi cselekményeket, ha az érintett intézménynek magyarországi leányvállalati intézménye, anyavállalati intézménye vagy fióktelepe van; és az rendelkezik olyan eszközökkel, forrásokkal, jogokkal és kötelezettségekkel, amelyek Magyarországon vannak vagy a magyar jog által szabályozottak.
 
 (2) A szanálási feladatkörében eljáró MNB
 

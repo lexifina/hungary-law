@@ -8,7 +8,7 @@ b) az olyan hitelviszonyt megtestesítő értékpapírok vagy egyéb kötelezett
 
 ba) egy áthidaló intézményre az adott áthidaló intézmény részére történő tőkejuttatás céljával, vagy
 
-bb) vagyonértékesítési vagy eszközelkülönítési eljárás keretében.
+bb) vagyonértékesítés vagy eszközelkülönítés szanálási eszköz alkalmazása keretében.
 
 (2) A szanálási feladatkörében eljáró MNB kizárólag akkor alkalmazhatja a hitelezői feltőkésítést az (1) bekezdés a) pontjában foglaltak szerint, ha a rendelkezésre álló információk alapján
 

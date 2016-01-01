@@ -6,9 +6,9 @@
 
 a) felmondási, felfüggesztési, nettósítási vagy egymással szembeni elszámolási jog gyakorlását olyan, leányvállalat által kötött szerződések vonatkozásában, amelyek esetében a szerződés szerinti kötelezettségek teljesítését az anyavállalat vagy egy csoporthoz tartozó vállalkozás garantálja vagy másképpen támogatja;
 
-b) az érintett intézmény vagyonának birtokba vételét, a vagyon feletti ellenőrző befolyás gyakorlását vagy biztosíték érvényesítését a vagyon terhére;
+b) az érintett intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás a szerződés nemteljesítésekor felmondásra jogosító rendelkezéseket tartalmazó szerződését biztosító vagyontárgy birtokba vételét, a vagyontárgy feletti ellenőrző befolyás gyakorlását vagy biztosítéki jogosultság érvényesítését a vagyontárgy terhére;
 
-c) az érintett intézmény bármely szerződéses jogának befolyásolását;
+c) az érintett intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás vagy bármely csoporttag bármely a szerződés nemteljesítésekor felmondásra jogosító rendelkezéseket tartalmazó szerződésből származó jogának befolyásolását;
 
 feltéve hogy a szerződés szerinti érdemi kötelezettségeket, többek között a fizetési és szállítási kötelezettségeket, valamint a biztosíték rendelkezésre bocsátását továbbra is teljesítik.
 

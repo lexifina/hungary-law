@@ -1,6 +1,6 @@
 ## 31. A hitelezői feltőkésítést követő helyreállítás és reorganizáció
 
-71. § (1) Ha a szanálási feladatkörében eljáró MNB a hitelezői feltőkésítést alkalmazta egy intézmény vagy 1. § szerinti pénzügyi vállalkozás esetében, akkor a szanálási feladatkörében eljáró MNB hitelezői feltőkésítésre vonatkozó döntésének hatálybalépését követő 30 nappal ezen intézmény vagy pénzügyi vállalkozás igazgatósága reorganizációs tervet készít és benyújtja a szanálási feladatkörében eljáró MNB részére.
+71. § (1) Ha a szanálási feladatkörében eljáró MNB a hitelezői feltőkésítést az 57. § (1) bekezdés a) pontjában foglaltak szerint alkalmazta egy intézmény vagy 1. § szerinti pénzügyi vállalkozás esetében, akkor a szanálási feladatkörében eljáró MNB hitelezői feltőkésítésre vonatkozó döntésének hatálybalépését követő 30 nappal ezen intézmény vagy pénzügyi vállalkozás igazgatósága reorganizációs tervet készít és benyújtja a szanálási feladatkörében eljáró MNB részére.
 
 (2) A reorganizációs terv készítésére és az abban foglaltak megvalósítására a szanálási feladatkörében eljáró MNB kijelölhet egy vagy több természetes személyt, gazdasági társaságot vagy a szanálási biztost. A reorganizációs terv készítőjére is a szanálási biztosra vonatkozó szakmai és összeférhetetlenségi követelményeket kell alkalmazni.
 

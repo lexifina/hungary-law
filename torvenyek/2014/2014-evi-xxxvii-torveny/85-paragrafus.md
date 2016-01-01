@@ -2,11 +2,11 @@
 
 85. § (1) A szanálási feladatkörében eljáró MNB jogosult
 
-a) a 100–101. §-ra is figyelemmel előírni a szanálás alatt álló intézmény számára, hogy a pénzügyi instrumentumok, eszközök, források, jogok és kötelezettségek átruházására tehermentesen kerüljön sor;
+a) a 100. és 101. §-ra is figyelemmel a szanálás alatt álló intézmény pénzügyi instrumentumainak, eszközeinek, forrásainak, jogainak és kötelezettségeinek tehermentes átruházására;
 
 b) a szanálás alatt álló intézmény további tagsági részesedések szerzésére vonatkozó jogát felfüggeszteni vagy megszüntetni;
 
-c) pénzügyi instrumentum szabályozott piacon való kereskedésének felfüggesztésére, a szabályozott piacról való kivezetés elrendelésére;
+c) felhívni az illetékességgel rendelkező szervezetet vagy hatóságot a pénzügyi instrumentum szabályozott piacon való bevezetése vagy szabályozott piacon való kereskedése felfüggesztésére vagy megszüntetésére;
 
 d) annak kinyilvánítására, hogy az átvevő a szanálás alatt álló intézmény valamely vagy minden joga és kötelezettsége, illetve a szanálás alatt álló intézmény által hozott valamely vagy minden intézkedés tekintetében – ideértve a piaci infrastruktúrában való részvételhez kapcsolódó bármilyen jogot és kötelezettséget is – jogutódnak tekintendő;
 

@@ -16,13 +16,13 @@ d) a szanálás alatt álló intézmény leírható, illetve átalakítható kö
 
 e) a szanálás alatt álló intézmény leírható, illetve átalakítható kötelezettségei átalakítására annak az intézménynek, szanálásban érintett anyaintézménynek vagy áthidaló intézménynek a tagsági részesedéseire, amelyhez az intézmény eszközeit, jogait és kötelezettségeit átruházták;
 
-f) a szanálás alatt álló intézmény által kibocsátott tagsági részesedések névértékének – akár nullára – csökkentésére, valamint e tagsági részesedések bevonására, leírására;
+f) a szanálás alatt álló intézmény által kibocsátott hitelviszonyt megtestesítő értékpapír névértékének – akár nullára – csökkentésére, valamint e hitelviszonyt megtestesítő értékpapírok bevonására, leírására;
 
 g) a szanálás alatt álló intézmény vagy a szanálásban érintett anyaintézmény számára előírni új tagsági részesedések, illetve egyéb tőkeelemek, többek között elsőbbségi részvények és feltételesen átalakítható instrumentumok kibocsátását;
 
 h) a szanálás alatt álló intézmény leírható, illetve átalakítható kötelezettségei lejáratának, a fizetendő kamatösszegnek, vagy annak az időpontnak a módosítására, amelyen a kamatfizetés esedékessé válik, többek között a fizetés átmeneti felfüggesztésével is;
 
-i) pénzügyi szerződés vagy bármely más származtatott ügyletre vonatkozó szerződés lezárására vagy felmondására;
+i) pénzügyi szerződés vagy bármely más származtatott ügyletre vonatkozó szerződés lezárására vagy felmondására a 73. § szerinti rendelkezések alkalmazása céljából;
 
 j) a szanálás alatt álló intézmény vezetésének leváltására.
 

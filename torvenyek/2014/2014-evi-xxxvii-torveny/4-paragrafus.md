@@ -22,7 +22,7 @@ d) a szanálhatóság 10. § és 13. §, valamint a 2. melléklet szerinti ért�
 
 (2a) Az egyszerűsített követelmények alkalmazása nem korlátozza a szanálási feladatkörében eljáró MNB azon jogát, hogy szükség esetén teljes körű, nem egyszerűsített kötelezettségeket írjon elő, valamint válságmegelőzési vagy válságkezelési intézkedést hozzon.
 
-(2b) A szanálási feladatkörében eljáró MNB jogosult a II. fejezetben szereplő követelmények alkalmazásától eltekinteni az olyan anyavállalat és a hozzá kapcsolódó intézmények esetében, amelyek az 575/2013/EU rendelet 10. cikkének megfelelően teljes egészében vagy részben mentesülnek a prudenciális követelmények alól. E mentesítés esetén csoportszintű szanálási tervet kell készíteni az 575/2013/EU rendelet 10. cikke értelmében vett csoportra.
+(2b) A szanálási feladatkörében eljáró MNB jogosult az e fejezetben szereplő követelmények alkalmazásától eltekinteni az olyan anyavállalat és a hozzá kapcsolódó intézmények esetében, amelyek az 575/2013/EU rendelet 10. cikkének megfelelően teljes egészében vagy részben mentesülnek a prudenciális követelmények alól. E mentesítés esetén csoportszintű szanálási tervet kell készíteni az 575/2013/EU rendelet 10. cikke értelmében vett csoportra.
 
 (2c) A (2b) bekezdésben meghatározott mentesítés alkalmazása esetén a szanálási feladatkörében eljáró MNB tájékoztatja az Európai Bankhatóságot a mentesítés módjáról
 

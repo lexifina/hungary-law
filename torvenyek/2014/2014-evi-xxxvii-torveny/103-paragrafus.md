@@ -4,7 +4,7 @@
 
 a) a szanálás alatt álló valamely intézmény eszközeinek, forrásainak, jogainak vagy kötelezettségeinek csak egy részét ruházza át egy másik szervezetre;
 
-b) módosítja azon szerződés feltételeit vagy megszünteti azon szerződést, amelyben a szanálás alatt álló intézmény részes fél, vagy valamely átvevőt helyettesíti annak részes féli minőségében.
+b) módosítja azon szerződés feltételeit vagy megszünteti azon szerződést, amelyben a szanálás alatt álló intézmény részes fél vagy valamely átvevőt helyettesíti a szanálás alatt álló intézmény részes féli minőségében.
 
 (2) A szanálási feladatkörében eljáró MNB által alkalmazott szanálási intézkedés
 
