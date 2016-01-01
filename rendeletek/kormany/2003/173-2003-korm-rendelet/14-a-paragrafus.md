@@ -24,7 +24,7 @@ a) a kérelem megfelel az (1) bekezdésben foglaltaknak, és
 
 b) a jegyző a (4) bekezdés szerinti ellenőrzés során nem tárt fel olyan hiányosságokat, amelyek miatt a 20. § (1) bekezdése alapján a nyilvántartásból való törlésnek lenne helye, feltéve, hogy az ellenőrzést a nyilvántartásba vételt megelőzően lefolytatta.
 
-(4)[^36] A jegyző a szolgáltató nyilvántartásba vételéről vagy a nyilvántartásba vétel megtagadásáról két hónapon belül dönt.
+(4)[^36]
 
 (5)[^37] Üdülő, gyermek- és ifjúsági tábor, turistaház, kulcsosház, valamint pihenőház esetén a jegyző a nyilvántartásba vételről értesíti
 
@@ -38,7 +38,7 @@ d)[^39] külterületen vagy természetvédelmi oltalom alatt álló belterülete
 
 e)[^40] külterületen vagy természetvédelmi oltalom alatt álló belterületen lévő szálláshely esetén a szálláshely szerint illetékes vízügyi hatóságot a vízügyi előírások
 
-## teljesítésének ellenőrzése céljából. Az ellenőrzést a hatóság az értesítés kézhezvételét követő két hónapon belül folytatja le. A hatóság az ellenőrzés eredményéről és a megtett intézkedésekről értesíti a jegyzőt.
+## teljesítésének ellenőrzése céljából. A hatóság az ellenőrzés eredményéről és a megtett intézkedésekről értesíti a jegyzőt.
 
 (6) Az építményjegyzék alapján lakóépületnek minősülő épületben kiegészítő vagy melléktevékenységként nyújtott nem üzleti célú közösségi, szabadidős szálláshely- szolgáltatás esetén
 
@@ -55,8 +55,8 @@ b) az alaptevékenység nyújtására jogosító okiratban foglaltakhoz képest 
 [^33]: A 14/A. §-t a 218/2007. (VIII. 15.) Korm. rendelet 5. §-a iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
 [^34]: A 14/A. § (1) bekezdésének d) pontja a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^35]: A 14/A. § (1) bekezdésének e) pontja a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^36]: A 14/A. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 306. § (2) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (42) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^37]: A 14/A. § (5) bekezdés záró szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (42) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^36]: A 14/A. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 49. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^37]: A 14/A. § (5) bekezdés záró szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (42) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 49. § b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^38]: A 14/A. § (5) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 33. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 62. § a) pontja szerint módosított szöveg.
 [^39]: A 14/A. § (5) bekezdés d) pontja az 527/2013. (XII. 30.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
 [^40]: A 14/A. § (5) bekezdés e) pontját az 527/2013. (XII. 30.) Korm. rendelet 24. § (1) bekezdése iktatta be.
