@@ -4,6 +4,17 @@
 
 (2) A külföldre vezényléshez történő beleegyezésről, valamint a Hszt. 69. § (4) bekezdésében meghatározott tájékoztatás tudomásulvételéről a hivatásos állomány tagja a vezénylést megelőzően írásban nyilatkozik.
 
-(3) A hivatásos állomány tagja a külföldi szolgálatra vezényléssel járó, a Hszt.-ben meghatározottakon túli pénzbeli és természetbeli ellátásra az önálló jogszabályban meghatározottak szerint jogosult.
+(3)[^6] A hivatásos állomány tagja a külföldre vezényléssel járó, a Hszt.-ben meghatározottakon túli pénzbeli és természetbeni ellátásra
 
-(4) A Nemzeti Adó- és Vámhivatal hivatásos állományának miniszter által történő külföldre vezénylése esetén a miniszter a külföldre vezénylést a Nemzeti Adó- és Vámhivatal elnöke véleményének bekérését követően rendeli el. A Nemzeti Adó- és Vámhivatal elnökének véleménye nem köti a minisztert.
+a) a Hszt. 69. § (1) bekezdés a), b) vagy d) pontja alapján történő külföldre vezénylés esetén – a b) pontban foglaltak kivételével – a 11/A. alcímben,
+
+b) az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés esetén a 12. alcímben,
+
+c) a Hszt. 69. § (1) bekezdés c) pontja alapján történő külföldre vezénylés esetén az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatott köztisztviselőkről, kormánytisztviselőkről és a fegyveres szervek hivatásos állományú tagjairól szóló kormányrendeletben
+
+## meghatározottak szerint jogosult.
+
+(4)[^7] A Nemzeti Adó- és Vámhivatal hivatásos állományának miniszter által történő külföldre vezénylése esetén a miniszter a külföldre vezénylést az állami adó- és vámhatóság vezetője véleményének bekérését követően rendeli el. Az állami adó- és vámhatóság vezetőjének véleménye nem köti a minisztert.
+
+[^6]: A 32. § (3) bekezdése a 442/2015. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 32. § (4) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 49. § a) és b) pontja szerint módosított szöveg.

@@ -1,3 +1,5 @@
-64. § (1) A szolgálati viszony szünetelése – a Hszt. 171. § (1) bekezdés b), d) és f) pontja szerinti lakhatási támogatások kivételével – a már megszerzett lakhatási támogatást nem érinti.
+64. § (1)[^15]
 
 (2) A hivatásos állomány tagja a szolgálati viszony szünetelésének ideje alatt is jogosult a rendvédelmi szerv által fenntartott vagy támogatott egészségügyi intézményben az egészségügyi ellátás igénybevételére.
+
+[^15]: A 64. § (1) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 9. § (3) bekezdés e) pontja hatályon kívül helyezte.

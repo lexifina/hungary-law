@@ -4,7 +4,7 @@
 
 | 2. | Nemzetbiztonsági Szakszolgálat | – | – |
 
-2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez
+2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^22]
 
 ## A rendvédelmi szervek önálló állománytáblázattal rendelkező szervezeti egységei és az állományilletékes parancsnokok
 
@@ -78,7 +78,9 @@ V. Büntetés-végrehajtási szervezet
 
 | 4. | Igazságügyi Megfigyelő és Elmegyógyító Intézet | főigazgató-főorvos |
 
-| 5. | a 3–4. sorban nem szereplő büntetés-végrehajtási intézet | büntetés-végrehajtási intézet parancsnoka |
+| 4a. | Központi Kivizsgáló és Módszertani Intézet | igazgató |
+
+| 5. | a 3–4a. sorban nem szereplő büntetés-végrehajtási intézet | büntetés-végrehajtási intézet parancsnoka |
 
 | 6. | büntetés-végrehajtási intézmény | igazgató |
 
@@ -115,3 +117,5 @@ VIII. Alkotmányvédelmi Hivatal
 | 4. | az igazgató közvetlen alárendeltségében működő szervezeti elemek | igazgató |
 
 IX. Nemzetbiztonsági Szakszolgálat
+
+[^22]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.

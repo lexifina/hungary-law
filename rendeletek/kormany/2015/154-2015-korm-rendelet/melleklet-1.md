@@ -1,6 +1,4 @@
-## 75. §[^1]
-
-1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez
+1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^21]
 
 ## A rendvédelmi szervnek a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szempontjából központi, területi vagy helyi szervnek minősülő szervei
 
@@ -56,43 +54,45 @@ V. Büntetés-végrehajtási szervezet
 
 | 1. | Központi szerv | Területi szerv | Helyi szerv |
 
-| 2. | Büntetés-végrehajtás Országos Parancsnoksága | Állampusztai Országos Bv. Intézet | Baranya Megyei Bv. Intézet |
+| 2. | Büntetés-végrehajtás Országos Parancsnoksága | Állampusztai Országos Büntetés-végrehajtási Intézet | Baranya Megyei Büntetés-végrehajtási Intézet |
 
-| 3. |  | Budapesti Fegyház és Börtön | Bács-Kiskun Megyei Bv. Intézet |
+| 3. |  | Budapesti Fegyház és Börtön | Bács-Kiskun Megyei Büntetés-végrehajtási Intézet |
 
-| 4. |  | Büntetés-végrehajtás Központi Kórház | Békés Megyei Bv. Intézet |
+| 4. |  | Büntetés-végrehajtás Központi Kórház | Békés Megyei Büntetés-végrehajtási Intézet |
 
-| 5. |  | Fővárosi Bv. Intézet | Győr-Moson-Sopron Megyei Bv. Intézet |
+| 5. |  | Fővárosi Büntetés-végrehajtási Intézet | Győr-Moson-Sopron Megyei Büntetés-végrehajtási Intézet |
 
-| 6. |  | Igazságügyi Megfigyelő és Elmegyógyító Intézet | Hajdú-Bihar Megyei Bv. Intézet |
+| 6. |  | Igazságügyi Megfigyelő és Elmegyógyító Intézet | Hajdú-Bihar Megyei Büntetés-végrehajtási Intézet |
 
-| 7. |  | Közép-dunántúli Országos Bv. Intézet | Heves Megyei Bv. Intézet |
+| 7. |  | Közép-dunántúli Országos Büntetés-végrehajtási Intézet | Heves Megyei Büntetés-végrehajtási Intézet |
 
-| 8. |  | Márianosztrai Fegyház és Börtön | Jász-Nagykun-Szolnok Megyei Bv. Intézet |
+| 8. |  | Márianosztrai Fegyház és Börtön | Jász-Nagykun-Szolnok Megyei Büntetés-végrehajtási Intézet |
 
-| 9. |  | Pálhalmai Országos Bv. Intézet | Somogy Megyei Bv. Intézet |
+| 9. |  | Pálhalmai Országos Büntetés-végrehajtási Intézet | Somogy Megyei Büntetés-végrehajtási Intézet |
 
-| 10. |  | Sopronkőhidai Fegyház és Börtön | Szabolcs-Szatmár-Bereg Megyei Bv. Intézet |
+| 10. |  | Sopronkőhidai Fegyház és Börtön | Szabolcs-Szatmár-Bereg Megyei Büntetés-végrehajtási Intézet |
 
-| 11. |  | Szegedi Fegyház és Börtön | Tolna Megyei Bv. Intézet |
+| 11. |  | Szegedi Fegyház és Börtön | Tolna Megyei Büntetés-végrehajtási Intézet |
 
-| 12. |  | Szombathelyi Országos Bv. Intézet | Veszprém Megyei Bv. Intézet |
+| 12. |  | Szombathelyi Országos Büntetés-végrehajtási Intézet | Veszprém Megyei Büntetés-végrehajtási Intézet |
 
-| 13. |  | Tiszalöki Országos Bv. Intézet | Zala Megyei Bv. Intézet |
+| 13. |  | Tiszalöki Országos Büntetés-végrehajtási Intézet | Zala Megyei Büntetés-végrehajtási Intézet |
 
 | 14. |  | Váci Fegyház és Börtön |  |
 
 | 15. |  | Balassagyarmati Fegyház és Börtön |  |
 
-| 16. |  | Fiatalkorúak Bv. Intézete (Tököl) |  |
+| 16. |  | Fiatalkorúak Büntetés-végrehajtási Intézete (Tököl) |  |
 
 | 17. |  | Kalocsai Fegyház és Börtön |  |
 
 | 18. |  | Sátoraljaújhelyi Fegyház és Börtön |  |
 
-| 19. |  | Borsod-Abaúj-Zemplén Megyei Bv. Intézet |  |
+| 19. |  | Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet |  |
 
-| 20. |  | Bv. Szervezet Oktatási és Továbbképzési Központ |  |
+| 20. |  | Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központja |  |
+
+| 21. |  | Központi Kivizsgáló és Módszertani Intézet |  |
 
 VI. Országgyűlési Őrség
 
@@ -120,4 +120,4 @@ VIII. Alkotmányvédelmi Hivatal
 
 IX. Nemzetbiztonsági Szakszolgálat
 
-[^1]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
