@@ -22,9 +22,9 @@ c) információ adásával, a szükséges nyomtatványok, illetve elektronikai s
 
 d) ellátja a termésbecsléssel, állapotminősítéssel összefüggő adatgyűjtési és adatszolgáltatási feladatokat,
 
-f)[^2] kérelemre igazolást ad ki a földművesekről és a mezőgazdasági termelőszervezetekről vezetett nyilvántartásba való bejegyezéshez szükséges, jogszabályban meghatározott feltétel fennállásáról.
+f)[^3] kérelemre igazolást ad ki a földművesekről és a mezőgazdasági termelőszervezetekről vezetett nyilvántartásba való bejegyezéshez szükséges, jogszabályban meghatározott feltétel fennállásáról.
 
-(3)[^3] Az (1) bekezdésben foglalt feladatok ellátásának biztosítására – a jogszabályban nem rendezett kérdések tekintetében – az agrárpolitikáért felelős miniszter és a NAK megállapodást kötnek.
+(3)[^4] Az (1) bekezdésben foglalt feladatok ellátásának biztosítására – a jogszabályban nem rendezett kérdések tekintetében – az agrárpolitikáért felelős miniszter és a NAK megállapodást kötnek.
 
-[^2]: A 3. § (2) bekezdés f) pontját a 38/2014. (II. 24.) Korm. rendelet 25. §-a iktatta be.
-[^3]: A 3. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 15. §-a, a 221/2014. (IX. 4.) Korm. rendelet 794. §-a szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdés f) pontját a 38/2014. (II. 24.) Korm. rendelet 25. §-a iktatta be.
+[^4]: A 3. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 15. §-a, a 221/2014. (IX. 4.) Korm. rendelet 794. §-a szerint módosított szöveg.
