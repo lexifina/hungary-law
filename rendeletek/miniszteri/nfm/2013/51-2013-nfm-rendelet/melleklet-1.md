@@ -1,31 +1,33 @@
 1. melléklet az 51/2013. (IX. 6.) NFM rendelethez
 
-## Adatszolgáltatás a radioaktív anyagok közúti szállításának engedélykérelméhez
+## Adatszolgáltatás a radioaktív anyagok szállításának és fuvarozásának engedélykérelméhez[^18]
 
 1. A kérelmező neve, címe.
 
 2. A kérelmező engedélyezendő tevékenységért felelős vezetőjének a neve, beosztása.
 
-3. A sugárvédelmi megbízott és helyettesének neve, sugárvédelmi végzettsége.
+3. A veszélyes áru szállítási biztonsági tanácsadó neve és bizonyítványának száma.
 
-4. A veszélyes áru szállítási biztonsági tanácsadó neve és bizonyítványának száma.
+4. A szállítandó radioaktív anyag fajtái a maximális aktivitásokkal.
 
-5. A szállítandó radioaktív anyag fajtái a maximális aktivitásokkal.
+5. A szállítandó radioaktív anyag szállítási és csomagolási módja.
 
-6. A szállítandó radioaktív anyag csomagolási módja.
+6. A szállítandó radioaktív anyag UN száma helyes szállítási megnevezése.
 
-7. A szállítandó radioaktív anyag UN száma ADR szerinti helyes szállítási megnevezése.
+7. A szállítás során alkalmazni kívánt sugárzásmérő típusa.
 
-8. A szállítás során alkalmazni kívánt sugárzásmérő típusa.
+8. A kérelemhez a következőket kell mellékelni:
 
-9. A kérelemhez a következőket kell mellékelni:
+8.1. a jóváhagyásra kötelezett küldeménydarab-minták engedélyokiratát,
 
-9.1. a jóváhagyásra kötelezett küldeménydarab-minták engedélyokiratát,
+8.2. a fuvarokmány mintáját,
 
-9.2. a fuvarokmány mintáját,
+8.3. a járművezető sugárvédelmi és az veszélyes-áru szállítási képzettségét igazoló dokumentumok másolatait (ha jogszabály előírja),
 
-9.3. a járművezető sugárvédelmi és az ADR képzettségét igazoló dokumentumok másolatait (ha jogszabály előírja),
+8.4. a típusjóváhagyásra kötelezett járművek jóváhagyási igazolását,
 
-9.4.[^12] a sugáregészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által kiadott, a szállítóeszköz használatát sugárvédelmi szempontból engedélyező határozat másolatát.
+8.5. a veszélyes áru szállítási nemzetközi egyezményeknek megfelelő sugárvédelmi programot,
 
-[^12]: Az 1. melléklet 9.4. pontja a 15/2015. (III. 31.) NFM rendelet 31. § b) pontja szerint módosított szöveg.
+8.6. az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet 7. § (5) szerinti szállítás esetén a 3. mellékletben előírtak teljesítéséről szóló nyilatkozatot.
+
+[^18]: Az 1. melléklet a 77/2015. (XII. 30.) NFM rendelet 5. § (6) bekezdésével megállapított szöveg.
