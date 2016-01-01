@@ -1,1 +1,0 @@
-Az élet, anyagi javak, kulturális értékek támadófegyverek hatásai elleni védelme, katasztrófák következményeként a hatások csökkentése érdekében, az óvóhelyi védelem tervezésére és szervezésére a polgári védelemről szóló 15/1992. (I. 27.) Korm. rendelet alapján a Kormány a következőket rendeli el:
