@@ -1,6 +1,6 @@
-## 68. §[^210] A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+## 68. §[^213] A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
 
-1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^211]
+1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^214]
 
 ## Vagyonnyilatkozat
 
@@ -76,5 +76,5 @@ __________
 
 ** Becsült forgalmi értékként a jármű kora és állapota szerinti értékét kell feltüntetni.
 
-[^210]: A 68. §-t a 70/2015. (III. 30.) Korm. rendelet 76. § (11) bekezdése iktatta be.
-[^211]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^213]: A 68. §-t a 70/2015. (III. 30.) Korm. rendelet 76. § (11) bekezdése iktatta be.
+[^214]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

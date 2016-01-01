@@ -80,6 +80,6 @@
 
 ## A megfelelő választ X-szel kell jelölni, illetve a hiányzó adatokat kitölteni.
 
-9. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^220]
+9. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^223]
 
-[^220]: A 9. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § e) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (3) bekezdése és 14. § p) pontja, a 69/2014. (III. 13.) Korm. rendelet 13. § c) pontja, a 353/2014. (XII. 29.) Korm. rendelet 37. §-a, a 364/2014. (XII. 30.) Korm. rendelet 125. § e) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés o) pontja, 28. § t) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés w) pontja szerint módosított szöveg.
+[^223]: A 9. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § e) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (3) bekezdése és 14. § p) pontja, a 69/2014. (III. 13.) Korm. rendelet 13. § c) pontja, a 353/2014. (XII. 29.) Korm. rendelet 37. §-a, a 364/2014. (XII. 30.) Korm. rendelet 125. § e) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés o) pontja, 28. § t) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés w) pontja, a 417/2015. (XII. 23.) Korm. rendelet 29. § a) pontja, a 486/2015. (XII. 29.) Korm. rendelet 15. § b) pontja, a 441/2015. (XII. 28.) Korm. rendelet 65. § (2) bekezdés b) pontja szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

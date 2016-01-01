@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^214]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^217]
 
 ## KÉRELEM
 
@@ -80,7 +80,7 @@ aktív korúak ellátásának megállapítására
 
 |  | A | B | C | D | E | F |
 
-| Név (ha eltérő, születési neve is) | Anyja neve | Születés helye, ideje (év, hó, nap) | Társadalom- biztosítási Azonosító Jele | 18. életévét betöltött személy esetén azon oktatási intézmény megnevezése, ahol tanul | Megjegyzés* |
+|  | Név (ha eltérő, születési neve is) | Anyja neve | Születés helye, ideje (év, hó, nap) | Társadalom- biztosítási Azonosító Jele | 18. életévét betöltött személy esetén azon oktatási intézmény megnevezése, ahol tanul | Megjegyzés* |
 
 | 1.8.1. |  |  |  |  |  |  |
 
@@ -94,7 +94,7 @@ aktív korúak ellátásának megállapítására
 
 ## * Ebben az oszlopban kell feltüntetni:
 
-a) ha a gyermekre tekintettel gyermekgondozási segélyt, gyermeknevelési támogatást, gyermekgondozási díjat, csecsemőgondozási díjat, terhességi-gyermekágyi segélyt vagy csecsemőgondozási díjat folyósítanak,
+a) ha a gyermekre tekintettel gyermekgondozást segítő ellátást vagy gyermekgondozási segélyt, gyermeknevelési támogatást, gyermekgondozási díjat, csecsemőgondozási díjat, terhességi-gyermekágyi segélyt vagy csecsemőgondozási díjat folyósítanak,
 
 b) ha a 20 évesnél fiatalabb gyermek nem jár oktatási intézménybe, de önálló keresettel még nem rendelkezik, vagy
 
@@ -184,7 +184,7 @@ Felelősségem tudatában kijelentem, hogy
 
 4.3.3. keresőtevékenységet nem folytatok,
 
-4.3.4. gyermekgondozási segélyben, gyermeknevelési támogatásban vagy megváltozott munkaképességű személyek ellátásában nem részesülök,
+4.3.4. gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban vagy megváltozott munkaképességű személyek ellátásában nem részesülök,
 
 4.3.5. köznevelési, illetve felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat nem folytatok,
 
@@ -272,7 +272,7 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 5.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
 5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
@@ -310,7 +310,7 @@ b) akinek álláskeresési támogatását keresőtevékenység folytatása miatt
 
 c) aki az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőző két évben az állami foglalkoztatási szervvel, illetve a rehabilitációs hatósággal legalább egy év időtartamban együttműködött, vagy
 
-d) akinek az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, rokkantsági ellátás, rehabilitációs ellátás, a rehabilitációs járadék, az ideiglenes özvegyi nyugdíj, továbbá az árvaellátás megszűnése miatt az özvegyi nyugdíj folyósítását megszüntették, és közvetlenül a kérelem benyújtását megelőzően az állami foglalkoztatási szervként eljáró járási hivatallal, illetve a rehabilitációs hatósággal legalább három hónapig együttműködött, vagy
+d) akinek az ápolási díj, a gyermekgondozást segítő ellátás, a gyermekgondozási segély, a gyermeknevelési támogatás, rokkantsági ellátás, rehabilitációs ellátás, a rehabilitációs járadék, az ideiglenes özvegyi nyugdíj, továbbá az árvaellátás megszűnése miatt az özvegyi nyugdíj folyósítását megszüntették, és közvetlenül a kérelem benyújtását megelőzően az állami foglalkoztatási szervként eljáró járási hivatallal, illetve a rehabilitációs hatósággal legalább három hónapig együttműködött, vagy
 
 e) akinek az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőzően fennálló aktív korúak ellátására való jogosultsága nem az együttműködési kötelezettség megszegése miatt szűnt meg, feltéve, hogy az aktív korúak ellátása megállapítását a kérelmező a korábbi jogosultság megszüntetésétől számított harminchat hónapon belül kérte.
 
@@ -332,4 +332,4 @@ d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban meg
 
 a törvényes képviselője jogosult az aláírásra.
 
-[^214]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja szerint módosított szöveg.
+[^217]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja, a 417/2015. (XII. 23.) Korm. rendelet 28. §-a szerint módosított szöveg.

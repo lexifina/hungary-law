@@ -54,7 +54,7 @@
 
 ## 2.1.2.5. ⬜ rokkantsági járadék,
 
-## 2.1.2.6. ⬜ rokkantsági ellátás,
+## 2.1.2.6. ⬜ rokkantsági ellátás (a „Tájékoztató a kérelem kitöltéséhez” 5.2.6.1. és 5.2.6.3 alpontja szerinti feltételek fennállása esetén jelölendő!),
 
 ## 2.1.2.7. ⬜ öregségi nyugellátás (ha a nyugdíj megállapítását megelőzően I. vagy II. csoportú rokkantsági nyugellátásban, vagy rokkantsági ellátásban részesült),
 
@@ -170,7 +170,7 @@
 
 ## (* Ezt a nyilatkozatot csak abban az esetben kell megtenni, ha egyidejűleg bejelentett lakó- és tartózkodási hellyel is rendelkezik.)
 
-## 4.4. Tudomásul veszem, hogy a kérelemben közölt adatok valódiságát a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 10. § (7) bekezdése alapján a szociális hatáskört gyakorló szerv – a Nemzeti Adó- és Vámhivatal hatáskörrel és illetékességgel rendelkező adóigazgatósága útján – ellenőrizheti.
+## 4.4. Tudomásul veszem, hogy a kérelemben közölt adatok valódiságát a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 10. § (7) bekezdése alapján a szociális hatáskört gyakorló szerv – a Nemzeti Adó- és Vámhivatal hatáskörrel és illetékességgel rendelkező megyei (fővárosi) adó- és vámigazgatósága útján – ellenőrizheti.
 
 ## 4.5. Kijelentem, hogy az ellátásra való jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról 15 napon belül értesítem az ellátást megállapító szervet.
 
@@ -270,7 +270,7 @@
 
 ## 5.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-## 5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+## 5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
 ## 5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
@@ -280,7 +280,7 @@
 
 ## 5.2.9. A jövedelemről a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^221]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^224]
 
 ## Háziorvosi igazolás
 
@@ -338,4 +338,4 @@ II. A társadalombiztosítás által támogatott, tartósan alkalmazott gyógyí
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^221]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^224]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

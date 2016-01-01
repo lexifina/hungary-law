@@ -1,18 +1,18 @@
-## 35/B. §[^148] A járási hivatalnak a közgyógyellátás megállapítása iránt előtte folyamatban lévő eljárásban az alanyi és normatív jogcímen megállapítható közgyógyellátás jogosultsági feltételeinek fennállását egyaránt vizsgálnia kell. Normatív jogcímen közgyógyellátás akkor állapítható meg, ha az ügyfél alanyi közgyógyellátásra nem jogosult.
+## 35/B. §[^150] A járási hivatalnak a közgyógyellátás megállapítása iránt előtte folyamatban lévő eljárásban az alanyi és normatív jogcímen megállapítható közgyógyellátás jogosultsági feltételeinek fennállását egyaránt vizsgálnia kell. Normatív jogcímen közgyógyellátás akkor állapítható meg, ha az ügyfél alanyi közgyógyellátásra nem jogosult.
 
-36. §[^149] (1)[^150] A normatív közgyógyellátás megállapítása iránti kérelem esetén a járási hivatal megvizsgálja, hogy a kérelmező esetében fennállnak-e az Szt.-ben előírt jövedelmi feltételek. Ha ennek eredményeként az eljáró hatóság azt állapítja meg, hogy a jövedelmi feltételek
+36. §[^151] (1)[^152] A normatív közgyógyellátás megállapítása iránti kérelem esetén a járási hivatal megvizsgálja, hogy a kérelmező esetében fennállnak-e az Szt.-ben előírt jövedelmi feltételek. Ha ennek eredményeként az eljáró hatóság azt állapítja meg, hogy a jövedelmi feltételek
 
-a)[^151] teljesülnek, akkor a háziorvos igazolása alapján – feltéve, hogy a 35. § (10) bekezdésére figyelemmel szükséges – elvégzi a rendszeres gyógyító ellátások havi költsége szakkérdésének vizsgálatát,
+a)[^153] teljesülnek, akkor a háziorvos igazolása alapján – feltéve, hogy a 35. § (10) bekezdésére figyelemmel szükséges – elvégzi a rendszeres gyógyító ellátások havi költsége szakkérdésének vizsgálatát,
 
 b) nem teljesülnek, akkor a kérelmet további érdemi vizsgálat nélkül elutasítja.
 
-(2)[^152] Az eljáró hatóság az (1) bekezdés b) pontja szerinti esetben az elutasító határozat közlésével egyidejűleg a zárt borítékban lévő háziorvosi igazolást felbontatlanul visszaküldi a kérelmezőnek.
+(2)[^154] Az eljáró hatóság az (1) bekezdés b) pontja szerinti esetben az elutasító határozat közlésével egyidejűleg a zárt borítékban lévő háziorvosi igazolást felbontatlanul visszaküldi a kérelmezőnek.
 
-(3)[^153]
+(3)[^155]
 
-[^148]: A 35/B. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 24/2015. (II. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^149]: A 36. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^150]: A 36. § (1) bekezdése a 24/2015. (II. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^151]: A 36. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (9) bekezdésével megállapított szöveg.
-[^152]: A 36. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés k) pontja szerint módosított szöveg.
-[^153]: A 36. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (14) bekezdés a) pontja hatályon kívül helyezte.
+[^150]: A 35/B. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 24/2015. (II. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^151]: A 36. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^152]: A 36. § (1) bekezdése a 24/2015. (II. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^153]: A 36. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (9) bekezdésével megállapított szöveg.
+[^154]: A 36. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés k) pontja szerint módosított szöveg.
+[^155]: A 36. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (14) bekezdés a) pontja hatályon kívül helyezte.

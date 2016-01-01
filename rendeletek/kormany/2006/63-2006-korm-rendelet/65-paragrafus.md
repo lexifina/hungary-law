@@ -1,3 +1,3 @@
-## 64. §[^207] A szociális, valamint a gyermekvédelmi és gyermekjóléti tárgyú kormányrendeleteknek az új Polgári Törvénykönyvvel összefüggő és egyéb módosításáról szóló 69/2014. (III. 13.) Korm. rendelettel megállapított 25/A. § (1)–(1b) bekezdését azokban a kiemelt ápolási díjra való jogosultság megállapítására irányuló ügyekben is alkalmazni kell, amelyek 2014. március 15-én folyamatban vannak.
+## 64. §[^210] A szociális, valamint a gyermekvédelmi és gyermekjóléti tárgyú kormányrendeleteknek az új Polgári Törvénykönyvvel összefüggő és egyéb módosításáról szóló 69/2014. (III. 13.) Korm. rendelettel megállapított 25/A. § (1) és (1a) bekezdését azokban a kiemelt ápolási díjra való jogosultság megállapítására irányuló ügyekben is alkalmazni kell, amelyek 2014. március 15-én folyamatban vannak.
 
-[^207]: A 64. §-t a 69/2014. (III. 13.) Korm. rendelet 11. §-a iktatta be.
+[^210]: A 64. §-t a 69/2014. (III. 13.) Korm. rendelet 11. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 66. §-a szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

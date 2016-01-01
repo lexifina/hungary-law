@@ -1,6 +1,6 @@
 ## Ápolási díj
 
-25. §[^108] (1) Az ápolási díj megállapítása iránti kérelmet a 4. számú melléklet szerinti formanyomtatványon kell benyújtani. A kérelemhez – az Szt. 43. §-a szerinti kiemelt ápolási díj iránti kérelem kivételével – mellékelni kell
+25. §[^110] (1) Az ápolási díj megállapítása iránti kérelmet a 4. számú melléklet szerinti formanyomtatványon kell benyújtani. A kérelemhez – az Szt. 43. §-a szerinti kiemelt ápolási díj iránti kérelem kivételével – mellékelni kell
 
 a) a háziorvos 5. számú melléklet szerinti
 
@@ -10,11 +10,11 @@ ab) szakvéleményét arra vonatkozóan, hogy az ápolt állandó és tartós go
 
 b) az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén az intézmény vezetőjének a 6. számú melléklet szerinti igazolását, továbbá
 
-c)[^109]
+c)[^111]
 
 (2) A háziorvos az (1) bekezdés a) pont aa) alpontjában foglalt igazolást
 
-a)[^110] a rehabilitációs hatóság súlyos fogyatékosság minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalása vagy szakvéleménye, illetve a fogyatékossági támogatással összefüggő feladatkörében eljáró hatóság határozata
+a)[^112] a rehabilitációs hatóság súlyos fogyatékosság minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalása vagy szakvéleménye, illetve a fogyatékossági támogatással összefüggő feladatkörében eljáró hatóság határozata
 
 b) a szakmailag illetékes szakfelügyelő főorvos igazolása, vagy
 
@@ -26,16 +26,16 @@ c) a fekvőbeteg-szakellátást nyújtó intézmény vagy területileg illetéke
 
 (4) Az ápolási díjat kérelmező személy, illetve az ápolási díjat megállapító szerv
 
-a) az (1) bekezdés a)[^111] pont aa) alpontjában foglalt igazolás felülvizsgálatát a népegészségügyi feladatkörében általa kijelölt, az ápolást indokoló diagnózis szerinti szakorvostól vagy szervtől,
+a) az (1) bekezdés a)[^113] pont aa) alpontjában foglalt igazolás felülvizsgálatát a népegészségügyi feladatkörében általa kijelölt, az ápolást indokoló diagnózis szerinti szakorvostól vagy szervtől,
 
-b)[^112] az (1) bekezdés a) pont ab) alpontjában foglalt szakvélemény felülvizsgálatát a Nemzeti Rehabilitációs és Szociális Hivatal módszertani feladatokat ellátó önálló szervezeti egysége (a továbbiakban: módszertani feladatokat ellátó szerv) által kijelölt szakértőtől
+b)[^114] az (1) bekezdés a) pont ab) alpontjában foglalt szakvélemény felülvizsgálatát a Nemzeti Rehabilitációs és Szociális Hivatal módszertani feladatokat ellátó önálló szervezeti egysége (a továbbiakban: módszertani feladatokat ellátó szerv) által kijelölt szakértőtől
 
 ## kérheti.
 
 (5) Ha a kérelmet az ápolt személy nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
 
-[^108]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^109]: A 25. § (1) bekezdés c) pontját a 24/2015. (II. 20.) Korm. rendelet 28. § i) pontja hatályon kívül helyezte.
-[^110]: A 25. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (6) bekezdésével megállapított szöveg.
-[^111]: A 25. § (4) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés j) pontja szerint módosított szöveg.
-[^112]: A 25. § (4) bekezdés b) pontja a 221/2015. (VIII. 7.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^110]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^111]: A 25. § (1) bekezdés c) pontját a 24/2015. (II. 20.) Korm. rendelet 28. § i) pontja hatályon kívül helyezte.
+[^112]: A 25. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (6) bekezdésével megállapított szöveg.
+[^113]: A 25. § (4) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés j) pontja szerint módosított szöveg.
+[^114]: A 25. § (4) bekezdés b) pontja a 221/2015. (VIII. 7.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
