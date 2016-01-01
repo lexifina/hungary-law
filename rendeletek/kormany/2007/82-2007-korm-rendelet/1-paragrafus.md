@@ -18,7 +18,7 @@ b) a Mezőgazdasági és Vidékfejlesztési Hivatalra (a továbbiakban: MVH) min
 
 c) a Magyar Államkincstárra (a továbbiakban: Kincstár) mint a lebonyolításban közreműködő szervre,
 
-d)[^2] a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) Központi Hivatalának OLAF Koordinációs Irodájára mint a szabálytalanságok kezelésében közreműködő szervre,
+d)[^2] a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) OLAF Koordinációs Irodájára mint a szabálytalanságok kezelésében közreműködő szervre,
 
 e)[^3] a NAV adóztatási szerveire (a továbbiakban: állami adóhatóság) mint az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettség beszedésére irányuló végrehajtási eljárást lefolytató adóhatóságra,
 
@@ -55,6 +55,6 @@ da) árfolyamnyereségek,
 db) a központi intervenciós intézkedések költségei és az EU átalány közötti különbség.
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 381. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés d) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés d) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés e) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés g) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
