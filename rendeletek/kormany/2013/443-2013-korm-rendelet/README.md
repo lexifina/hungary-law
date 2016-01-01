@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-443-20-
 | 2014-03-02 | 2013-443-20-22.5 | 2010: CXXX. törvény |
 | 2014-03-15 | 2013-443-20-22.6 | 80/2014. (III. 14.) Korm. rendelet |
 | 2015-04-01 | 2013-443-20-22.7 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-01-01 | 2013-443-20-22.8 | 441/2015. (XII. 28.) Korm. rendelet |
