@@ -1,0 +1,1 @@
+## 36. § Ez a rendelet a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikkének való megfelelést szolgálja.
