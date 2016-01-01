@@ -20,7 +20,7 @@ i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és 
 
 j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére,
 
-k) a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésre, táplálkozási-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
+k) az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésre, táplálkozási-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
 
 l) az építmények tervezésének, létesítésének és üzemeltetésének közegészségügyi és egészségvédelmi követelményeire,
 

@@ -13,3 +13,9 @@ a) gyógyhellyé nyilvánítás engedélyezése,
 b) természetes ásványvíz elnevezésének engedélyezése,
 
 c) gyógyvíz természetes gyógyhatásra utaló elnevezésének engedélyezése.
+
+(6) Az ivóvíz-biztonsági terv felülvizsgálatára, illetve jóváhagyására irányuló eljárás ügyintézési határideje 45 nap.
+
+(6) Az egészségügyi államigazgatási szerv a környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegekre vagy létesítményekre vonatkozó eljárásaira a Ket. 94. § (1) bekezdés a) pontjában foglaltak az irányadóak azzal, hogy a Legionella által okozott fertőzési kockázatot jelentő közegekre, illetve létesítményekre vonatkozó közegészségügyi előírásokról szóló rendeletbe ütköző cselekményekkel összefüggésben a Ket. 94. § (2) bekezdés d) pontja nem alkalmazható.
+
+(7) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.

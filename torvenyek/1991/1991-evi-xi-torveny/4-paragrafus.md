@@ -1,22 +1,40 @@
-4. § (1) Az egészségügyi államigazgatási szerv környezet- és településegészségügyi feladata különösen
+4. § (1) Az egészségügyi államigazgatási szerv környezet- és településegészségügyi feladata
 
-a) A kémiai és biológiai légszennyezettség (immisszió) egészségügyi határértékeinek kimunkálásában való közreműködés, a kémiai és biológiai légszennyezettség rendszeres közegészségügyi értékelése, valamint a zárt terek légszennyezettségi határértékeinek kimunkálása és a zárt terek légszennyezettségének közegészségügyi vizsgálata;
+a) a kémiai és biológiai légszennyezettség (immisszió) egészségügyi határértékeinek kimunkálásában való közreműködés, a kémiai és biológiai légszennyezettség rendszeres közegészségügyi értékelése, valamint a zárt terek légszennyezettségi határértékeinek kimunkálása,
 
-b) az emberi használatra (üdülés, fürdés, vízi sport, ivóvízkivétel) szolgáló felszíni vizekre, valamint medencés fürdőkre vonatkozó közegészségügyi követelmények, valamint az ivóvíz és fürdésre használt vizek higiénés határértékeinek kimunkálása, az ivóvíz, ásvány- és gyógyvizek, palackozott vizek minőségének, a közegészségügyi követelmények betartásának, illetve érvényesülésének a rendszeres ellenőrzése;
+b) a zárt terek légszennyezettségének közegészségügyi vizsgálata,
 
-c) a talajjal, a közszolgáltatás körébe tartozó hulladékokkal, szennyvizekkel és szennyvíziszapokkal, valamint a veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák kimunkálása, érvényesülésének ellenőrzése;
+c) az emberi használatra (üdülés, fürdés, vízi sport, ivóvízkivétel) szolgáló felszíni vizekre, valamint medencés fürdőkre vonatkozó közegészségügyi követelmények, valamint az ivóvíz és fürdésre használt vizek higiénés határértékeinek kimunkálása,
 
-d) a belső terekben érvényesülő zaj és rezgés határértékek kimunkálása és ellenőrzése, illetőleg a környezeti immissziós zaj és rezgés határértékek kimunkálásában és ellenőrzésében való közreműködés;
+d) az emberi használatra (üdülés, fürdés, vízi sport, ivóvízkivétel) szolgáló felszíni vizekre, valamint medencés fürdőkre vonatkozó közegészségügyi követelményeknek, valamint az ivóvíz, ásvány- és gyógyvizek, palackozott vizek minőségének, a közegészségügyi követelmények betartásának, illetve érvényesülésének rendszeres ellenőrzése,
 
-e) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek kimunkálása és érvényesítése;
+e) a talajjal, a közszolgáltatás körébe tartozó hulladékokkal, szennyvizekkel és szennyvíziszapokkal, valamint a veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák kimunkálása,
 
-f) klíma-egészségügyi intézkedések megtétele, a hőségriasztás országos rendszerének működtetése,
+f) a talajjal, a közszolgáltatás körébe tartozó hulladékokkal, szennyvizekkel és szennyvíziszapokkal, valamint a veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények, normák érvényesülésének ellenőrzése,
 
-g) az építmények tervezése, létesítése és üzemeltetése közegészségügyi és egészségvédelmi követelményeinek kimunkálása, érvényesülésének ellenőrzése,
+g) a belső terekben érvényesülő zaj és rezgés határértékek, valamint a környezeti immissziós zaj és rezgés határértékek kimunkálása,
 
-h) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak csökkentésére irányuló szakmai szabályok kimunkálása, érvényesülésének ellenőrzése,
+h) a belső terekben érvényesülő zaj és rezgés határértékek ellenőrzése, valamint a környezeti immissziós zaj és rezgés határértékek ellenőrzésében való közreműködés,
 
-i) a környezeti eredetű kórokozók által okozott fertőzési kockázat csökkentésére, illetve megelőzésére irányuló előírások kimunkálása, érvényesülésének ellenőrzése.
+i) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek kimunkálása,
+
+j) az oktató, nevelő és gondozó intézmények és tevékenységek közegészségügyi követelményeinek érvényesítése,
+
+k) klíma-egészségügyi intézkedések megalapozása,
+
+l) klíma-egészségügyi intézkedések megtétele, a hőségriasztás országos rendszerének működtetése,
+
+m) az építmények tervezése, létesítése és üzemeltetése közegészségügyi és egészségvédelmi követelményeinek kimunkálása,
+
+n) az építmények tervezése, létesítése és üzemeltetése közegészségügyi és egészségvédelmi követelményeinek érvényesülésének ellenőrzése,
+
+o) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak csökkentésére irányuló szakmai szabályok kimunkálása,
+
+p) az egészségügyi kockázattal járó, nem egészségügyi tevékenységek egészségügyi kockázatainak csökkentésére irányuló szakmai szabályok érvényesülésének ellenőrzése,
+
+q) a környezeti eredetű kórokozók által okozott fertőzési kockázat csökkentésére, illetve megelőzésére irányuló előírások kimunkálása,
+
+r) a környezeti eredetű kórokozók által okozott fertőzési kockázat csökkentésére, illetve megelőzésére irányuló előírások érvényesülésének ellenőrzése.
 
 (2) Az egészségügyi államigazgatási szerv sugáregészségügyi tevékenysége keretében kimunkálja, ellenőrzi és érvényesíti a sugárzó anyagokkal, a sugárzást kibocsátó berendezésekkel, a nem ionizáló sugárzással, valamint az elektromos és mágneses erőterekkel kapcsolatos munkahelyi és környezeti sugárvédelmi normákat, közegészségügyi követelményeket.
 
@@ -52,7 +70,7 @@ bd) a ba)–bc) alpont szerinti feladatok végrehajtásával összefüggő eredm
 
 c) egyes élelmiszerekkel kapcsolatosan
 
-ca) külön jogszabály szerint végzi a különleges táplálkozási célú élelmiszerekkel, az étrend-kiegészítőkkel, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerekkel, az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokkal, az élelmiszerek tápértékjelölésével kapcsolatos nyilvántartási, bejelentési eljárásokkal összefüggő szakértői feladatokat, külön jogszabály szerint az Európai Unió közvetlenül alkalmazandó jogi előírása szerinti egyes eljárásokban ellátja a tagállami feladatokat, továbbá szakmai kapcsolatot tart az Európai Unió táplálkozás-egészségügyi és táplálkozás-tudományi szakterületen illetékes szervével,
+ca) külön jogszabály szerint végzi az anyatej-helyettesítő és anyatej-kiegészítő tápszerekkel, a feldolgozott gabonaalapú élelmiszerekkel és bébiételekkel, a speciális gyógyászati célra szánt élelmiszerekkel és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekkel, az étrend-kiegészítőkkel, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerekkel, az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokkal, az élelmiszerek tápértékjelölésével kapcsolatos nyilvántartási, bejelentési eljárásokkal összefüggő szakértői feladatokat, külön jogszabály szerint az Európai Unió közvetlenül alkalmazandó jogi előírása szerinti egyes eljárásokban ellátja a tagállami feladatokat, továbbá szakmai kapcsolatot tart az Európai Unió táplálkozás-egészségügyi és táplálkozás-tudományi szakterületen illetékes szervével,
 
 cb) ellenőrzi a ca) alpont szerinti élelmiszerek meghatározott táplálkozási céloknak való megfelelését, és egészségi ártalom vagy annak gyanúja, illetve az emberi egészség veszélyeztetése esetén intézkedik,
 

@@ -81,3 +81,5 @@ gc) a nyilvántartás vezetésének részletes szabályait.
 vonatkozó szabályokat.
 
 (13) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kereskedelemért felelős miniszterrel, valamint az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben az energiaitalok megengedett térfogatértékeit és azok ellenőrzési módszereit rendeletben határozza meg.
+
+(14) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben a közétkeztetők minősítésének táplálkozás-egészségügyi feltételeit és azok ellenőrzési módszereit rendeletben határozza meg.
