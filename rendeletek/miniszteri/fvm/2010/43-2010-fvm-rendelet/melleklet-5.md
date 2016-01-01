@@ -1,35 +1,29 @@
-## A növényvédelmi-növényorvosi vény tartalmi és alaki követelményei
+## A növényorvosi vény tartalmi és alaki követelményei
 
-## I. A növényvédelmi-növényorvosi vényben fel kell tüntetni:
+## 1. A növényorvosi vényen fel kell tüntetni:
 
-## a) a növényvédelmi-növényorvosi vény számát
+## 1.1. a növényorvosi vény számát,
 
-## b) a növényvédő mérnök, növényorvos nevét, címét és engedélyszámát
+## 1.2. a növényorvos nevét, címét és engedélyszámát,
 
-## c) a mezőgazdasági termelő nevét és címét, regisztrációs számát
+## 1.3. a mezőgazdasági termelő nevét, címét és regisztrációs számát,
 
-## d) a növényvédő szer nevét és mennyiségét
+## 1.4. a növényvédő szer (helyettesítő növényvédő szer) nevét és mennyiségét,
 
-## e) az előírt felhasználást, technológiát
+## 1.5. az előírt felhasználást, technológiát (kultúra, dózis),
 
-## f) a vény kiállításának keltét
+## 1.6. a vény kiállításának keltét,
 
-## g) a növényvédő mérnök, növényorvos aláírását és bélyegzőjét
+## 1.7. elektronikus növényorvosi vény kivételével a növényorvos aláírását és bélyegzőjét,
 
-## h) a forgalmazó nevét, aláírását, bélyegzőjét és a keltezést, valamint
+## 1.8. a forgalmazó nevét, aláírását, bélyegzőjét és a keltezést, valamint
 
-## „A növényvédelmi-növényorvosi vény időbeli hatálya: a kiállítástól számított 30 nap.”
+## 1.9. „A növényorvosi vény időbeli hatálya: a kiállítástól számított 30 nap.” és „A növényorvosi vényt öt évig kell megőrizni!” mondatokat.
 
-## „A növényvédelmi-növényorvosi vényt öt évig kell megőrizni!”
+## 2. A forgalmazó köteles a növényorvosi vényre rávezetni az átvevő nevét, aláírását – kivéve az elektronikus növényorvosi vény esetében –, személyigazolvány számát, lakcímét és – amennyiben a mezőgazdasági termelő nem természetes személy – az átvevő jogállását.
 
-## „A növényvédő szeres kezelés időpontját a felhasználó köteles bejelenteni a vény kiállítójának a munka megkezdése előtt 24 órával.”
+## 3. A növényorvosi vénytömb 1–25-ig sorszámozott, három, önindigós példányt tartalmazó szigorú számadású nyomtatvány. A növényorvosi vényt 3 példányban kell kiállítani, amelyből az eredeti példányt a felhasználó, a másolati példányt a forgalmazó, a tőpéldányt pedig a kiállító köteles megőrizni.
 
-## mondatokat.
-
-## II.[^120] A forgalmazó köteles a növényvédelmi-növényorvosi vényre rávezetni az átvevő nevét.
-
-## III. A növényvédelmi-növényorvosi vényt 3 példányban kell kiállítani, melyből az eredeti példányt a megrendelő, a másolati példányt a forgalmazó, a tőpéldányt pedig a kiállító köteles megőrizni.
+## 4. Egy növényorvosi vényre egyszerre több növényvédő szer is kiírható, de az előírt felhasználásnak, technológiának ebben az esetben is szerepelnie kell a növényorvosi vényen.
 
 5. melléklet a 43/2010. (IV. 23.) FVM rendelethez
-
-[^120]: A 4. melléklet II. pontja a 66/2010. (V. 12.) FVM rendelet 13. § (18) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.

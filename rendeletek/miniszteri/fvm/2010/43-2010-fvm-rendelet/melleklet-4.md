@@ -2346,7 +2346,7 @@
 
 | A NÖVÉNYVÉDELMI GÉP a ...................................................................................... állomás ............................................ számú felülvizsgálati jegyzőkönyve alapján SZAKSZERŰ NÖVÉNYVÉDELMI MUNKÁRA ALKALMAS 11 12 13 14 15 16 17 I. II. III. IV. V. VI. VII. VIII. IX. X. XI. XII. |
 
-4. melléklet a 43/2010. (IV. 23.) FVM rendelethez
+4. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^120]
 
 [^112]: A 3. melléklet 3. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 25–26. pontja szerint módosított szöveg.
 [^113]: A 3. melléklet 4. függeléke a 84/2015. (XII. 17.) FM rendelet 14. § 27. pontja szerint módosított szöveg.
@@ -2356,3 +2356,4 @@
 [^117]: A 3. melléklet 8. függeléke a 46/2012. (V. 8.) VM rendelet c), g) és h) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 29. pontja szerint módosított szöveg.
 [^118]: A 3. melléklet 9. függeléke a 46/2012. (V. 8.) VM rendelet c) pontja, a 84/2015. (XII. 17.) FM rendelet 13. § (1) bekezdése és 14. § 30–34. pontja és 15. § c)–d) pontja szerint módosított szöveg.
 [^119]: A 3. melléklet 10. függeléke a 46/2012. (V. 8.) VM rendelet c) és i) pontja szerint módosított szöveg.
+[^120]: A 4. melléklet a 84/2015. (XII. 17.) FM rendelet 13. § (2) bekezdésével megállapított szöveg.
