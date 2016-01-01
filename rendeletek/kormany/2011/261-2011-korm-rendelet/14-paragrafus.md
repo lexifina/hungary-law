@@ -6,7 +6,7 @@
 
 (3) A kérelemhez csatolni kell
 
-a)[^35] a társasági szerződés, az alapító okirat, – a (3b) bekezdés kivételével – a képviseletre jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldánya, illetve – egyéni vállalkozó esetén – a vállalkozói igazolvány, vállalkozói igazolvány hiányában a nyilvántartási számot tartalmazó hatósági bizonyítvány,
+a)[^36] a társasági szerződés, az alapító okirat, – a (3b) bekezdés kivételével – a képviseletre jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldánya, illetve – egyéni vállalkozó esetén – a vállalkozói igazolvány, vállalkozói igazolvány hiányában a nyilvántartási számot tartalmazó hatósági bizonyítvány,
 
 b) a szakmai irányító szakmai alkalmasságot igazoló okmány,
 
@@ -18,14 +18,17 @@ e) ha a közúti közlekedési szolgáltatási tevékenységhez használni kív�
 
 másolatát.
 
-(3a)[^36] Amennyiben a kérelmező szerepel a NAV köztartozásmentes adózói adatbázisában és nem igazolja, hogy köztartozásmentes adózó, a közlekedési hatóság ellenőrzi a NAV köztartozásmentes adózói adatbázisában, hogy a kérelmező megfelel-e a 12. § (1) bekezdés b) pontjában foglalt feltételnek.
+(3a)[^37] Amennyiben a kérelmező szerepel a NAV köztartozásmentes adózói adatbázisában és nem igazolja, hogy köztartozásmentes adózó, a közlekedési hatóság ellenőrzi a NAV köztartozásmentes adózói adatbázisában, hogy a kérelmező megfelel-e a 12. § (1) bekezdés b) pontjában foglalt feltételnek.
 
-(3b)[^37] Ha a kérelmező cégjegyzékben nyilvántartott cég és képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a közlekedési hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(3b)[^38] Ha a kérelmező cégjegyzékben nyilvántartott cég és képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a közlekedési hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+(3c)[^39] A (3) bekezdés b) pontjában meghatározott okmányt csak abban az esetben kell csatolni, ha a közlekedési hatóság által vezetett elektronikus nyilvántartásban az igazoló okmány megléte az eljáró hatóság által nem ellenőrizhető.
 
 (4) Más tagállam gazdálkodó szervezete, illetve állampolgára esetén a jó hírnév, a szakmai alkalmasság és a megfelelő pénzügyi helyzet teljesítésének igazolására az adott tagállam illetékes hatósága (szervezete) által erre a célra kiállított dokumentumok másolatát kell a kérelemhez csatolni.
 
 (5) A közlekedési hatóság felhívására a kérelmezőnek be kell mutatnia a (3), illetve a (4) bekezdésében megjelölt – a kérelmező által a kérelemhez másolatban csatolt – okiratok és iratok eredeti példányát.
 
-[^35]: A 14. § (3) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^36]: A 14. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (4) bekezdése iktatta be.
-[^37]: A 14. § (3b) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^36]: A 14. § (3) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^37]: A 14. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^38]: A 14. § (3b) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^39]: A 14. § (3c) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 148. § (2) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

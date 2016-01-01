@@ -8,9 +8,10 @@
 
 (5) Részleges felmentést kaphat a vizsgakötelezettség alól az a személy, aki az előírt szakismeretek elsajátítását az e rendelet 1. mellékletében meghatározottak szerinti szakirányú felsőfokú képesítésről kiállított okirattal igazolja.
 
-(6) A szakmai irányító személyének alkalmatlanná válása, vagy a szakmai irányító személyében bekövetkező változás esetén a gazdálkodó szervezet legfeljebb hat hónapig működhet szakmai irányító nélkül. Ez a határidő a szakmai irányító elhalálozása vagy munkaképességének elvesztése esetén három hónappal meghosszabbítható. Az engedélyezett határidő lejártával a gazdálkodó szervezet köteles igazolni a szakmai alkalmasság feltételének meglétét.
+(6)[^30] A szakmai irányító személyének alkalmatlanná válása, vagy a szakmai irányító személyében bekövetkező változás esetén a gazdálkodó szervezet legfeljebb hat hónapig működhet szakmai irányító nélkül. Erről a közlekedési hatóságot a gazdálkodó szervezetnek értesítenie kell, az értesítés elektronikus úton is történhet. Ez a határidő a szakmai irányító elhalálozása vagy munkaképességének elvesztése esetén legfeljebb három hónappal meghosszabbítható. Az engedélyezett határidő lejártával a gazdálkodó szervezet köteles igazolni a szakmai alkalmasság feltételének meglétét, az igazolás elektronikus úton is történhet.
 
 (7) A szakmai irányítók részére továbbképzést szervezni a közlekedési hatóság engedélye alapján lehet. A továbbképzés célja a szabályozásban időközben bekövetkezett változások megismertetése. A továbbképzést követő vizsgáztatást a közlekedési hatóság végzi, az előírt vizsgakötelezettségek sikeres teljesítéséről a közlekedési hatóság igazolást (továbbiakban: továbbképzési igazolás) ad ki. A szakmai alkalmasságot igazoló bizonyítvány tíz év eltelte után csak – a tíz évnél nem régebben kiállított – továbbképzési igazolással együtt érvényes. A továbbképzés tan- és vizsgakövetelményeit a 3. melléklet tartalmazza.
 
 [^28]: A 10. § (2) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^29]: A 10. § (3) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^30]: A 10. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 148. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
