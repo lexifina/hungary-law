@@ -1,0 +1,1 @@
+## „(11) Az állami adó- és vámhatóság által beszedett közhatalmi bevételek esetén túlfizetés nem mutatható ki, a kötelezett által megfizetett összegeket követelésként és annak teljesítéseként bevételként kell elszámolni.”
