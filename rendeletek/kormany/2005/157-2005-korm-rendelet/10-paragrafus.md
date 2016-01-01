@@ -6,7 +6,7 @@
 
 (3a)[^27] Ha a vezetékjog engedélyezése iránti eljárásban hozott elsőfokú határozattal szembeni fellebbezés érinti az első fokú eljárásban vizsgált szakkérdést, a másodfokon eljáró hatóság az 7. melléklet B) pontjában meghatározott szakkérdés vizsgálatára az ott megjelölt szervet rendelheti ki szakértőként.
 
-(3b)[^28] Ha az első fokú eljárásban környezetvédelmi vagy természetvédelmi szakkérdést kell vizsgálni, az ügyintézési határidő negyven nap.
+(3b)[^28]
 
 (4) Az érintett ingatlantulajdonosokat, valamint az 1. mellékletben felsorolt szakhatóságokat, továbbá az érintett közművek tulajdonosait, az ott meghatározott érdekeltségi területek vonatkozásában, minden esetben érdekeltnek kell tekinteni.
 
@@ -17,6 +17,6 @@
 [^25]: A Vhr. 10. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 414. § szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^26]: A Vhr. 10. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 73. § (2) bekezdésével megállapított szöveg.
 [^27]: A Vhr. 10. § (3a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 73. § (3) bekezdése iktatta be.
-[^28]: A Vhr. 10. § (3b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 73. § (3) bekezdése iktatta be.
+[^28]: A Vhr. 10. § (3b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 73. § (3) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 60. §-a, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^29]: A Vhr. 10. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 413. § (5) bekezdése iktatta be, a 70/2015. (III. 30.) Korm. rendelet 73. § (4) bekezdés d) pontja és (7) bekezdése szerint módosított szöveg.
 [^30]: A Vhr. 10. § (6) bekezdését a 324/2013. (VIII. 29.) Korm. rendelet 17. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.
