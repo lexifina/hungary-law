@@ -6,6 +6,6 @@
 
 (3) Ha a fenntartó kizárólag a befogadás kérdésében fellebbez, kérelmére az engedélyes bejegyzése, illetve az adatmódosítás az egyéb adatok tekintetében jogerőre emelkedik.
 
-(4)[^16] Az engedélyes – ha a működést engedélyező szerv későbbi időpontot nem állapít meg – az erről szóló döntés végrehajthatóvá válásának időpontjától törölhető a szolgáltatói nyilvántartásból.
+(4)[^19] Az engedélyes – ha a működést engedélyező szerv későbbi időpontot nem állapít meg – az erről szóló döntés végrehajthatóvá válásának időpontjától törölhető a szolgáltatói nyilvántartásból.
 
-[^16]: A 8. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 234. § (3) bekezdése iktatta be.
+[^19]: A 8. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 234. § (3) bekezdése iktatta be.

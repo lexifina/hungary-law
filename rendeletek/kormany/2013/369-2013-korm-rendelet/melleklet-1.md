@@ -1,4 +1,4 @@
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^116]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^145]
 
 A szolgáltatói nyilvántartás adatai
 
@@ -42,7 +42,7 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.4. házi segítségnyújtás: az ellátható személyek száma,
 
-3.1.5. családsegítés,
+3.1.5.
 
 3.1.6. jelzőrendszeres házi segítségnyújtás: a kihelyezhető jelzőkészülékek száma,
 
@@ -64,7 +64,7 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.10.1.1. férőhelyszám,
 
-3.1.10.1.2. ha az engedélyes a nappali ellátás keretében demens személyek ellátását is vállalja, az erre vonatkozó adat,
+3.1.10.1.2. ha az engedélyes a nappali ellátás keretében demens személyek ellátását is vállalja, és megfelel az ehhez szükséges jogszabályi feltételeknek, az erre vonatkozó adat,
 
 3.1.10.2. fogyatékos személyek nappali ellátása:
 
@@ -152,11 +152,11 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.16. egyéb speciális szociális intézményi ellátás: férőhelyszám,
 
-3.1.17. gyermekjóléti szolgáltatás:
+3.1.17. családsegítés és gyermekjóléti szolgáltatás:
 
-3.1.17.1. gyermekjóléti szolgálat,
+3.1.17.1. család- és gyermekjóléti szolgálat,
 
-3.1.17.2. gyermekjóléti központ,
+3.1.17.2. család- és gyermekjóléti központ,
 
 3.1.18. bölcsőde: férőhelyszám,
 
@@ -314,6 +314,8 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.32. területi gyermekvédelmi szakszolgáltatás: ha az engedélyes a volt gondozott fiatal felnőtt számára utógondozást nyújt, az erre vonatkozó adat,
 
+3.1.33. Biztos Kezdet Gyerekház,
+
 3.2. az engedélyes ellátottak számára nyitva álló egyéb helyiségeinek címe és helyrajzi száma,
 
 3.3. az engedélyes működésének kezdő időpontja [8. § (1) bekezdése],
@@ -354,8 +356,8 @@ A szolgáltatói nyilvántartás adatai
 
 6.3.1. falugondnoki szolgáltatás és tanyagondnoki szolgáltatás esetén település vagy településrész megnevezésével,
 
-6.3.2. szociális étkeztetés, házi segítségnyújtás, családsegítés, támogató szolgáltatás, közösségi ellátások, utcai szociális munka és gyermekjóléti szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület vagy járás megnevezésével,
+6.3.2. szociális étkeztetés, házi segítségnyújtás, támogató szolgáltatás, közösségi ellátások, utcai szociális munka, valamint családsegítés és gyermekjóléti szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület vagy járás megnevezésével,
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^116]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^145]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.

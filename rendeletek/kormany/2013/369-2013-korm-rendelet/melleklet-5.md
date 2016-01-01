@@ -1,4 +1,4 @@
-5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^119]
+5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^148]
 
 Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működést engedélyező szervnek bemutatandó iratok
 
@@ -90,7 +90,7 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.7. Családi napközi esetén a 2.1. pontban foglaltakon túl
 
-2.7.1. csatolni kell a szolgáltatást nyújtó személynek és helyettesének a kilencven napnál nem régebbi hatósági erkölcsi bizonyítványát,
+2.7.1.
 
 2.7.2. csatolni kell a szolgáltatást nyújtó személynek és helyettesének, valamint az engedélyesnél önkéntes jogviszonyban foglalkoztatott személyeknek a nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok,
 
@@ -102,7 +102,7 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.8. Családi gyermekfelügyelet esetén a 2.1. pontban foglaltakon túl
 
-2.8.1. csatolni kell a szolgáltatást nyújtó személynek és helyettesének a kilencven napnál nem régebbi hatósági erkölcsi bizonyítványát,
+2.8.1.
 
 2.8.2. csatolni kell a szolgáltatást nyújtó személynek és helyettesének, valamint az engedélyesnél önkéntes jogviszonyban foglalkoztatott személyeknek a nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok,
 
@@ -110,13 +110,13 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.8.4. csatolni kell a háziorvos igazolását arra vonatkozóan, hogy a gondozás helyén élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket.
 
-2.9. Alternatív napközbeni ellátás esetén a 2.1. pontban foglaltakon túl
+2.9. Alternatív napközbeni ellátás és Biztos Kezdet Gyerekház esetén a 2.1. pontban foglaltakon túl
 
 2.9.1. csatolni kell a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok,
 
 2.9.2. csatolni kell az előzetes szakhatósági hozzájárulást, ha a fenntartó beszerezte.
 
-2.10. Gyermekjóléti szolgáltatás, házi gyermekfelügyelet, gyermekek átmeneti házi gondozása és területi gyermekvédelmi szakszolgáltatás esetén a 2.1. pontban foglaltakon túl csatolni kell a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok.
+2.10. Családsegítés és gyermekjóléti szolgáltatás, házi gyermekfelügyelet, gyermekek átmeneti házi gondozása, valamint területi gyermekvédelmi szakszolgáltatás esetén a 2.1. pontban foglaltakon túl csatolni kell a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok.
 
 2.11. Bölcsőde, hetes bölcsőde, gyermekek átmeneti otthona és utógondozó otthon esetén a 2.1. pontban foglaltakon túl
 
@@ -128,7 +128,7 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 2.12. Nem hálózat keretében nyújtott helyettes szülői ellátás esetén a 2.1. pontban foglaltakon túl
 
-2.12.1. csatolni kell a helyettes szülő kilencven napnál nem régebbi hatósági erkölcsi bizonyítványát,
+2.12.1.
 
 2.12.2. csatolni kell a helyettes szülőnek, valamint az engedélyesnél önkéntes jogviszonyban foglalkoztatott személynek a nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok,
 
@@ -198,4 +198,4 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működés
 
 3.3.5. a 2.5. pont szerinti iratokat abban az esetben kell csatolni, ha az időszakos férőhelyeket nem az engedélyes épületében alakítják ki, vagy adatmódosítás esetén a szakhatóságok bevonása a 31. § (4) bekezdése alapján szükséges.
 
-[^119]: Az 5. melléklet a 353/2014. (XII. 29.) Korm. rendelet 75. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (12) bekezdése, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (2) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^148]: Az 5. melléklet a 353/2014. (XII. 29.) Korm. rendelet 75. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (12) bekezdése, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (2) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (2) bekezdése, a 419/2015. (XII. 23.) Korm. rendelet 40. § o)–p) pontja, a 441/2015. (XII. 28.) Korm. rendelet 209. § e) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

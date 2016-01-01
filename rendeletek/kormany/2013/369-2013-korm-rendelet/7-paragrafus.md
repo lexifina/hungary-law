@@ -10,4 +10,16 @@
 
 (5) Adatmódosítás esetén új ágazati azonosító nem adható ki és az ágazati azonosító nem módosítható, ideértve a fenntartóváltozást, további szolgáltatás bejegyzését, az engedélyes elköltöztetését, valamint a telephely önálló szolgáltatóvá szervezését, illetve önálló szolgáltató telephellyé szervezését. A szolgáltatói nyilvántartásból törölt engedélyes ágazati azonosítója másik engedélyesnek nem adható ki.
 
-(6) Az ágazati azonosítót az e rendelet szerinti eljárásokban, továbbá a szociális foglalkoztatási engedélyezéssel, valamint a szolgáltatások után járó és a központi költségvetésről szóló törvényben biztosított támogatással (a továbbiakban: költségvetési támogatás) kapcsolatos hatósági ügyekben a kérelmen, más beadványokon és a hatósági döntésben, a működést engedélyező szervnek, illetve a szociális foglalkoztatást engedélyező szervnek tett bejelentésben, továbbá a jogszabályon alapuló adatszolgáltatáson fel kell tüntetni. A telephely ágazati azonosítóját megelőzően a székhely ágazati azonosítóját is fel kell tüntetni.
+(6)[^18] Az ágazati azonosítót
+
+a) a szociális foglalkoztatási engedélyezéssel, valamint a szolgáltatások után járó és a központi költségvetésről szóló törvényben biztosított támogatással (a továbbiakban: költségvetési támogatás) kapcsolatos hatósági ügyekben a kérelmen, más beadványokon és a hatósági döntésben,
+
+b) a működést engedélyező szervnek és a szociális foglalkoztatást engedélyező szervnek tett bejelentésben,
+
+c) a jogszabályon alapuló adatszolgáltatáson, továbbá
+
+d) a szolgáltató honlapján
+
+fel kell tüntetni. Az a)–c) pont szerinti iratokon a telephely ágazati azonosítóját megelőzően a székhely ágazati azonosítóját is fel kell tüntetni.
+
+[^18]: A 7. § (6) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
