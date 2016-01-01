@@ -1,4 +1,4 @@
-1. § (1)[^1] Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak elvégzésére feljogosított szolgáltató állatorvos (a továbbiakban: jogosult állatorvos) a (2)–(4) bekezdés szerinti hatásköröket láthatja el. A jogosult állatorvos a tevékenységét csak a 4. § szerinti érvényes szerződés birtokában végezheti.
+1. § (1)[^1] Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak elvégzésére feljogosított szolgáltató állatorvos (a továbbiakban: jogosult állatorvos) az e rendeletben megállapított hatásköröket láthatja el. A jogosult állatorvos tevékenységét csak érvényes szerződéssel végezheti.
 
 (2)[^2] A jogosult állatorvos elvégzi az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló miniszteri rendelet szerinti hatósági felügyeletet az alábbi állatok, illetve szállítmányok kirakodása esetében:
 
@@ -44,7 +44,7 @@ b) nem alkalmas, megállapítja az emberi fogyasztásra való alkalmatlanságot.
 
 (7)[^10] Ha a hatósági állatorvos illetékességi területén vagy annak egy részén nincs jogosult állatorvos, a hatósági állatorvos jár el. E rendelkezés alapján eljáró hatósági állatorvos által ellátott ügyben jogosult állatorvos nem járhat el.
 
-[^1]: Az 1. § (1) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^2]: Az 1. § (2) bekezdése a 369/2012. (XII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdés c) pontja a 369/2012. (XII. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (3) bekezdés d) pontját a 369/2012. (XII. 17.) Korm. rendelet 1. § (2) bekezdése iktatta be.

@@ -58,11 +58,11 @@ mint Megbízott (továbbiakban: Megbízott)
 
 (a továbbiakban együttesen: Felek) között alulírott helyen és napon, az alábbi feltételekkel:
 
-A jogosult állatorvos hatásköréről és a működésével kapcsolatos részletes szabályokról szóló 369/2012. (XII. 17.) Korm. rendelet alapján az élelmiszerlánc-felügyeleti szerv egyes állategészségügyi feladatainak ellátására a Nemzeti Élelmiszerlánc-biztonsági Hivatal szolgáltató állatorvost bízhat meg, aki jogosult állatorvosként jár el.
+A jogosult állatorvos hatásköréről és a működésével kapcsolatos részletes szabályokról szóló 113/2006. (V. 12.) Korm. rendelet alapján az élelmiszerlánc-felügyeleti szerv egyes állategészségügyi feladatainak ellátására a Nemzeti Élelmiszerlánc-biztonsági Hivatal szolgáltató állatorvost bízhat meg, aki jogosult állatorvosként jár el.
 
-A jogosult állatorvosi tevékenység ellátására vonatkozó szabályokat a 369/2012. (XII. 17.) Korm. rendelet figyelembevételével a szolgáltató állatorvos és a Nemzeti Élelmiszerlánc-biztonsági Hivatal jelen megbízási szerződésben rendezik.
+A jogosult állatorvosi tevékenység ellátására vonatkozó szabályokat a 113/2006. (V. 12.) Korm. rendelet figyelembevételével a szolgáltató állatorvos és a Nemzeti Élelmiszerlánc-biztonsági Hivatal jelen megbízási szerződésben rendezik.
 
-1.) A Megbízó a 369/2012. (XII. 17.) Korm. rendelet alapján megbízza Megbízottat az alábbi állategészségügyi feladatok 2.) pontban meghatározott területen történő ellátásával:
+1.) A Megbízó a 113/2006. (V. 12.) Korm. rendelet alapján megbízza Megbízottat az alábbi állategészségügyi feladatok 2.) pontban meghatározott területen történő ellátásával:
 
 a) állat-egészségügyi felügyelet ellátása állatvásárban, állatbemutatón, állatkiállításon és állatversenyen,
 
@@ -132,7 +132,7 @@ Amennyiben a Felek bármelyike a titoktartási kötelezettségét megszegi, köt
 
 A Felek tudomásul veszik, hogy az, aki az államháztartás valamely alrendszerével pénzügyi, illetve üzleti kapcsolatot létesít, kérésre köteles a jogviszonnyal összefüggő és a közérdekből nyilvános adatokra vonatkozóan tájékoztatást adni, valamint azt, hogy a költségvetési pénzeszközök felhasználásának nyilvánosságára tekintettel a szerződés lényeges tartalmáról a tájékoztatás üzleti titok címen nem tagadható meg.
 
-Felek tudomásul veszik továbbá, hogy az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 5. § (5) bekezdése, illetve a Kormányzati Ellenőrzési Hivatalról szóló 355/2011. (XII. 30.) Korm. rendelet 6. § szerint az Állami Számvevőszék és a Kormányzati Ellenőrzési Hivatal a szerződéssel érintett költségvetési pénzeszközök vonatkozásában ellenőrzési jogosultsággal rendelkeznek.
+Felek tudomásul veszik továbbá, hogy az Állami Számvevőszékről szóló 2011. évi LXVI. törvény, illetve a Kormányzati Ellenőrzési Hivatalról szóló 355/2011. (XII. 30.) Korm. rendelet szerint az Állami Számvevőszék és a Kormányzati Ellenőrzési Hivatal a szerződéssel érintett költségvetési pénzeszközök vonatkozásában ellenőrzési jogosultsággal rendelkeznek.
 
 11.) A Felek jelen szerződést közös megegyezéssel, írásban módosíthatják, vagy megszüntethetik.
 
@@ -140,7 +140,7 @@ Felek tudomásul veszik továbbá, hogy az Állami Számvevőszékről szóló 2
 
 A Megbízott a szerződés felmondása esetén köteles azonban helytállni a szerződés megszűnéséig elvállalt kötelezettségekért, Megbízó köteles a teljesítés ellenértékét kifizetni.
 
-13.) Megbízó jelen szerződést azonnali hatállyal felmondja a jogosult állatorvos hatásköréről és a működésével kapcsolatos részletes szabályokról szóló 369/2012. (XII. 17.) Korm. rendelet 9. § (1) bekezdésében meghatározott esetekben.
+13.) Megbízó jelen szerződést azonnali hatállyal felmondja a jogosult állatorvos hatásköréről és a működésével kapcsolatos részletes szabályokról szóló 113/2006. (V. 12.) Korm. rendelet 9. § (1) bekezdésében meghatározott esetekben.
 
 14.) Felek a szerződés teljesítése során kötelesek együttműködni, egymást a szerződés teljesítését befolyásoló körülményekről haladéktalanul tájékoztatni.
 
@@ -207,4 +207,4 @@ A jogosult állatorvosi tevékenység során elszámolható munkaórák
 |  | 13. | Vágópontok felügyelete | 2 |
 
 [^42]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 316. pontja hatályon kívül helyezte.
-[^43]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be, szövege az 57/2014. (III. 4.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdése, a 98/2014. (III. 25.) Korm. rendelet 3. §-a, a 70/2015. (III. 30.) Korm. rendelet 79. § (4)–(5) bekezdése szerint módosított szöveg.
+[^43]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be, szövege az 57/2014. (III. 4.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdése, a 98/2014. (III. 25.) Korm. rendelet 3. §-a, a 70/2015. (III. 30.) Korm. rendelet 79. § (4)–(5) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 72. § f)–h) pontja szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
