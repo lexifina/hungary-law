@@ -58,7 +58,7 @@
 
 27. modultérkép: az egyes szakképesítések – szakmai és vizsgakövetelményeiben meghatározott – szakmai modulját vagy moduljait, valamint azok egymáshoz történő kapcsolódásait tartalmazó dokumentum;
 
-28. modulzáró vizsga: az iskolarendszeren kívüli képzésben a komplex szakmai vizsgára bocsátás feltételeként a szakképzést folytató intézmény által megszervezett vizsga, olyan kompetenciamérés, amellyel az intézmény meggyőződik arról, hogy a képzésben részt vevő elsajátította a szakmai és vizsgakövetelmény egyes követelménymoduljaiban előírtakat;
+28. modulzáró vizsga: az iskolarendszeren kívüli képzésben a komplex szakmai vizsgára bocsátás feltételeként a szakképzést folytató intézmény, az állami szakképzési és felnőttképzési szerv vagy a szakképesítésért felelős miniszter által jogszabályban kijelölt, az irányítása alá tartozó intézmény vagy a felügyelete alá tartozó szerv irányítása alatt álló intézmény által megszervezett olyan vizsga, kompetenciamérés, amely annak megállapítására irányul, hogy a vizsgára jelentkező a szakmai és vizsgakövetelmény egyes követelménymoduljaiban előírt szakmai kompetenciákat elsajátította-e;
 
 29. munkahelyi gyakorlat: a szakképesítés megszerzése keretében folyó gyakorlati képzésnek a munkahelyen (a munkavégzéshez hasonló feltételek között, életszerű szituációban) megvalósuló része, amelynek feltételeit a gyakorlati képzés szervezője biztosítja, és amelynek során a szakképzésben részt vevő elsajátítja a munkaerőpiac által is igényelt gyakorlati tudáselemeket, kompetenciákat;
 
