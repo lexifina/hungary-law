@@ -19,3 +19,7 @@
 (9) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel megállapított rendelkezéseit a 2012. március 14-ét követően előterjesztett fizetési meghagyás kibocsátása, végrehajtás elrendelése vagy biztosítási intézkedés elrendelése iránti kérelem alapján indult eljárásokban kell alkalmazni.
 
 (10) E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított rendelkezéseit a 2014. március 15. napját követően indult ügyekben kell alkalmazni.
+
+(11) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított 37. § (4a) bekezdését a 2016. január 1. napján és az azt követően indult ügyekben kell alkalmazni.
+
+(12) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított 37. § (4a) bekezdését 2016. június 30. napjáig akkor kell alkalmazni, ha a jogosult vagy képviselője az elektronikus kapcsolattartást választja. 2016. július 1-jétől ugyanezen bekezdésnek a kötelező elektronikus kapcsolattartásra vonatkozó rendelkezését a 2016. július 1. napján és az azt követően indult ügyekben kell alkalmazni.

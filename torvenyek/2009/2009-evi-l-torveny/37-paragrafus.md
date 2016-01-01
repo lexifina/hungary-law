@@ -12,4 +12,10 @@ b)
 
 (4) A közjegyző a felhívást azzal a figyelmeztetéssel látja el, hogy az abban foglaltak elmulasztása esetében a bíróság a pert megszünteti. Ha a jogosult a kérelemben a Pp. 167. §-ának (3) bekezdése alkalmazásával jelölt meg tanút, az ellentmondásról szóló értesítés kézbesítésével egyidejűleg a közjegyző arra is felhívja a jogosultat, hogy a tanú nevét és idézhető címét – amennyiben az szükséges, egyéb személyi adatait – az ott meghatározott módon a bíróságnak jelentse be. A bírósághoz intézett beadványban a fizetési meghagyásos eljárásban kapott ügyszámra hivatkozni kell.
 
+(4a) A közjegyző a felhívást azzal a figyelmeztetéssel is ellátja, hogy ha a jogosult a Pp. alapján elektronikus kapcsolattartásra köteles vagy a Pp. alapján az elektronikus kapcsolattartást választja, az ügyre vonatkozó részletes tényállításait, bizonyítékait, és minden további beadványát és okirati bizonyítékát kizárólag elektronikus úton nyújthatja be, továbbá az illetéket elektronikusan vagy a Magyar Államkincstár illeték-bevételi számlájára köteles megfizetni. A közjegyző a felhívásban tájékoztatja a jogosultat, hogy ha a kapcsolattartás a részéről a peres eljárásban elektronikusan történik, és
+
+a) az ügyre vonatkozó részletes tényállításait és bizonyítékait nem elektronikus úton terjeszti elő, a bíróság a pert megszünteti,
+
+b) az egyéb beadványait nem elektronikus úton terjeszti elő, az egyéb beadványban foglalt nyilatkozat hatálytalan és úgy kell tekinteni, hogy nyilatkozatot egyáltalán nem tesz.
+
 (5) Ha a 30. § alkalmazásának helye van, az ott meghatározott felhívást az ellentmondásról szóló értesítéssel és a (3) bekezdés szerinti felhívással egyidejűleg kell kézbesíteni a jogosultnak; egyúttal figyelmeztetni kell a jogosultat, hogy a (3) bekezdésben meghatározott felhívásnak csak akkor tegyen eleget, ha a kötelezett állítását vitatja.
