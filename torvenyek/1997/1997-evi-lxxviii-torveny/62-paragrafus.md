@@ -146,7 +146,7 @@
 
 rendelettel állapítsa meg.
 
-(1a)
+(1a) Felhatalmazást kap a Kormány arra, hogy az egyszerű bejelentéshez kötött építési tevékenységgel kapcsolatos részletes szabályokat rendeletben állapítsa meg.
 
 (1b) Felhatalmazást kap a Kormány arra, hogy az építmények építészeti-műszaki tervezése során végezhető feladatok körét, valamint az építészeti-műszaki tervezési tevékenység ellátásáért felszámítható tervezési díj tartalmát rendeletben állapítsa meg.
 

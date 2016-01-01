@@ -4,7 +4,23 @@
 
 (3) Amennyiben a használatbavételi engedélyezési eljárásban benyújtott fellebbezés és az építésügyi engedélyezési eljárásban jogerősen elbírált fellebbezés azonos indokokat tartalmaz, a használatbavételi engedélyezési eljárásban másodfokon eljáró hatóság a fellebbezési kérelmet érdemben nem vizsgálja.
 
-(4) Az építésügyi hatósági engedélyezési eljárásokban a részt vevő szakhatóságok ügyintézési határideje a szakhatósági állásfoglalás és az előzetes szakhatósági állásfoglalás kiadása során egységesen harminc nap, kivéve, ha az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító jogszabály rövidebb határidőt állapít meg.
+(3a) Ha az építésügyi hatóság az engedélyezési eljárásában kormányrendeletben meghatározott szakkérdést vizsgál, az ügyintézési határidő 35 nap, kivéve, ha szakhatósági eljárás lefolytatására is sor kerül.
+
+(3b) Az összevont telepítési eljárás során az építésügyi hatóság számára irányadó ügyintézési határidő
+
+a) a telepítési hatásvizsgálati szakaszban
+
+aa) 50 nap,
+
+ab) környezeti hatásvizsgálati eljárás vagy egységes környezethasználati engedélyezési eljárás lefolytatása esetén 85 nap;
+
+b) az integrált építési engedélyezési szakaszban
+
+ba) 25 nap,
+
+bb) környezeti hatásvizsgálati eljárás vagy egységes környezethasználati engedélyezési eljárás lefolytatása esetén 85 nap.
+
+(4) Az építésügyi hatósági engedélyezési eljárásokban a részt vevő szakhatóságok ügyintézési határideje a szakhatósági állásfoglalás és az előzetes szakhatósági állásfoglalás kiadása során egységesen huszonegy nap, kivéve, ha az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító jogszabály rövidebb határidőt állapít meg.
 
 (5) A használatbavételi engedélyezésben részt vevő szakhatóságok állásfoglalásukban nem írhatnak elő újabb feltételt vagy követelményt az építési engedélyezéshez adott szakhatósági véleményükben meghatározottakhoz képest és nem tagadhatják meg szakhatósági állásfoglalásuk megadását azzal az indokkal, hogy időközben a szakterületre vonatkozó szabályok megváltoztak.
 

@@ -1,6 +1,6 @@
 ## Településképi bejelentési eljárás
 
-30/D. § (1) Települési önkormányzat (fővárosban a kerületi önkormányzat) polgármestere, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármester településképi bejelentési eljárást folytathat le – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározott esetekben és módon – hatósági engedélyhez nem kötött tevékenységek, a reklámelhelyezések és rendeltetésmódosítások tekintetében.
+30/D. § (1) Települési önkormányzat (fővárosban a kerületi önkormányzat) polgármestere, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármester településképi bejelentési eljárást folytathat le – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározott esetekben és módon – hatósági engedélyhez vagy a 33/A. § szerinti bejelentéshez nem kötött tevékenységek, a reklámelhelyezések és rendeltetésmódosítások tekintetében.
 
 (2) A településképi eljárást bejelentés formájában az ügyfél a polgármesternél kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester a tevékenység végzését a bejelentést követő 8 napon belül nem tiltja meg.
 

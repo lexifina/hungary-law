@@ -10,11 +10,11 @@ c) szakszerűtlenül
 
 megkezdett és végzett tevékenység.
 
-(2) Jogszerűtlen az építési vagy bontási tevékenység, ha a jogszabály alapján engedélyhez vagy tudomásul vételhez kötött építési vagy bontási tevékenységet
+(2) Jogszerűtlen az építési vagy bontási tevékenység, ha a jogszabály alapján engedélyhez vagy tudomásul vételhez kötött építési vagy bontási tevékenységet vagy a 33/A. § szerinti tevékenységet
 
-a) engedély vagy tudomásul vétel nélkül,
+a) engedély, a 33/A. § szerinti bejelentés vagy tudomásul vétel nélkül,
 
-b) az engedélytől vagy tudomásul vételtől eltérően,
+b) az engedélytől vagy tudomásul vételtől vagy a 33/A. § szerinti bejelentéstől eltérően,
 
 c) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –,
 

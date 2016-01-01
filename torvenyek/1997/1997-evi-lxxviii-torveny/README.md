@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2015-07-16 | 2015. évi CXXXVIII. törvény | 1997-78-00-00.68 |
 | 2015-09-15 | 2015. évi CXL. törvény | 1997-78-00-00.69 |
 | 2015-12-24 | 2015. évi CCXXVI. törvény | 1997-78-00-00.70 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 1997-78-00-00.71 |
