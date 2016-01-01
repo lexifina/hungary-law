@@ -36,36 +36,44 @@ ab) pedagógiai egyetemi vagy főiskolai végzettséggel és három év – a (8
 
 ac) pedagógiai egyetemi vagy főiskolai végzettséggel rendelkezik és a felsőoktatási képzés során felnőttképzési ismeretekből a képzési és kimeneti követelményekben előírt legalább öt kreditpontot szerzett,
 
-b)[^37] az Fktv. 1. § (2) bekezdés a) és b) pontja szerinti képzési körbe tartozó képzés elméleti részének oktatása esetén a képzési tartalomnak megfelelő szakos tanári szakképzettséggel, ennek hiányában a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel, vagy felsőfokú végzettséggel és a képzés tanulmányi területének megfelelő szakképesítéssel, e képzési körbe tartozó képzés gyakorlati képzésére a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel, vagy a képzés tanulmányi területének megfelelő szakképesítéssel és legalább ötéves szakmai gyakorlattal rendelkező oktatók alkalmazása, és
+b)[^40] az Fktv. 1. § (2) bekezdés a) és b) pontja szerinti képzési körbe tartozó képzés elméleti részének oktatása esetén a képzési tartalomnak megfelelő szakos tanári szakképzettséggel, ennek hiányában a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel, vagy felsőfokú végzettséggel és a képzés tanulmányi területének megfelelő szakképesítéssel, e képzési körbe tartozó képzés gyakorlati képzésére a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel, vagy a képzés tanulmányi területének megfelelő szakképesítéssel és legalább ötéves szakmai gyakorlattal rendelkező oktatók alkalmazása, és
 
-c) az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó
+c)[^41] az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó
 
-ca) általános nyelvi képzés esetén a képzési programnak megfelelő nyelvtanári végzettséggel, vagy nyelvtanári végzettséggel és a képzési program szerinti nyelvből ”KER-C1” szintű, okirattal igazolt nyelvismerettel, vagy – ha a képzési program szerinti nyelvből nincs egyetemi vagy főiskolai szintű nyelvtanári vagy nyelv és irodalom tanári képzés – pedagógiai végzettséggel és a képzési program szerinti nyelvből ”KER-C1” szintű, okirattal igazolt nyelvismerettel,
+ca) általános nyelvi képzés esetén a képzési programnak megfelelő nyelvtanári végzettséggel, vagy nyelvtanári végzettséggel és a képzési program szerinti nyelvből „komplex KER-C1” szintű, okirattal igazolt nyelvismerettel, vagy – ha a képzési program szerinti nyelvből nincs egyetemi vagy főiskolai szintű nyelvtanári vagy nyelv és irodalom tanári képzés – pedagógiai végzettséggel és a képzési program szerinti nyelvből „komplex KER-C1” szintű, okirattal igazolt nyelvismerettel, vagy – a képzési program KER-B1 szintjéig – tanító szakon a képzési program szerinti nyelvből idegen nyelv műveltségterületen szerzett tanítói oklevéllel, illetve a képzési idő legfeljebb húsz százalékában egyetemi végzettségű, bölcsészettudományi nyelvszakos szakképzettséggel,
 
-cb) szaknyelvi képzés esetén a képzési programnak megfelelő nyelvtanári végzettséggel, vagy nyelvtanári végzettséggel és az érintett nyelv szakmai ”KER-C1” szintű, okirattal igazolt ismeretével rendelkező, vagy a szaknyelvi képzésnek megfelelő szakmai felsőfokú végzettséggel és az érintett nyelv “KER-C1” szintű, okirattal igazolt ismeretével, vagy
+cb) egyéb nyelvi képzés és kombinált nyelvi képzés esetén a képzési programnak megfelelő nyelvtanári végzettséggel, vagy nyelvtanári végzettséggel és az érintett nyelv szaknyelvi „komplex KER-C1” szintű, okirattal igazolt ismeretével rendelkező vagy a szaknyelvi képzésnek megfelelő szakmai felsőfokú végzettséggel és az érintett nyelv „komplex KER-C1”, vagy szaknyelvi „komplex KER-C1” szintű, okirattal igazolt ismeretével, vagy
 
-cc) a magyar mint idegen nyelv oktatása esetén magyar mint idegen nyelv szakos szakképzettséggel, vagy magyar nyelv és irodalom tanári végzettséggel
+cc) a magyar mint idegen nyelv oktatása esetén magyar mint idegen nyelv szakos szakképzettséggel, vagy magyar nyelv és irodalom tanári végzettséggel, vagy magyar anyanyelvű oktató esetén a képzési program óraszámának maximum ötven százalékában egyetemi vagy főiskolai szintű nyelvtanári végzettséggel
 
 ## rendelkező oktatók alkalmazása.
 
-(7a)[^38] Az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés esetén – a (7) bekezdés c) pont ca) és cb) alpontjában foglaltaktól eltérően – a képzési program óraszámának maximum ötven százalékában anyanyelvi oktató alkalmazható, aki a tanulmányait a képzési program szerinti nyelven, azt hivatalos vagy kisebbségi nyelvként elismerő országban legalább tizenkét évfolyamon elvégezte és rendelkezik felsőfokú végzettséggel.
+(7a)[^42] Az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés esetén – a (7) bekezdés c) pont ca) és cb) alpontjában foglaltaktól eltérően – a képzési program „KER-B2” szintjének végéig egy képzési csoporton belül a képzési csoport óraszámának maximum ötven százalékában, a „KER-C1 és KERC2” szinten maximum nyolcvan százalékában anyanyelvi oktatók alkalmazhatók. Anyanyelvi oktatónak minősül az, aki a tanulmányait a képzési program szerinti nyelven, azt hivatalos vagy kisebbségi nyelvként elismerő országban legalább tizenkét évfolyamon végezte el és rendelkezik felsőfokú végzettséggel.
+
+(7b)[^43] Az egyéni vállalkozóként, egyéni cégként vagy egyszemélyes társaságként működő felnőttképzést folytató intézmény szakmai vezetője – a (7) bekezdés a) pontjában foglaltaktól eltérően – az egyéni vállalkozó, az egyéni cég vagy egyszemélyes társaság tulajdonosa (a továbbiakban: tulajdonos) is lehet, ha a szakmai vezetőre a (7) bekezdés a) pontjában előírt képesítésre, illetve szakmai gyakorlatra vonatkozó feltételeknek megfelel.
+
+(7c)[^44] Ha a felnőttképzést folytató intézmény kizárólag az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés folytatására rendelkezik engedéllyel, – a (7b) bekezdésben foglaltaktól eltérően – a tulajdonosnak mint az intézmény szakmai vezetőjének az intézmény engedélyében szereplő nyelvek valamelyikéből nyelvtanári végzettséggel kell rendelkeznie.
 
 (8) A (7) bekezdés a) pont ab) alpontjának alkalmazásában felnőttképzési szakmai gyakorlatnak minősül a felnőttképzést folytató intézménynél munkaviszonyban vagy munkaviszony jellegű egyéb jogviszonyban eltöltött idő, továbbá a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál – felnőttképzési tevékenységgel összefüggő munkakör ellátására – létesített kormánytisztviselői, köztisztviselői jogviszony.
 
 (9) A felnőttképzést folytató intézmény a (7) bekezdés
 
-a)[^39] a) pontjában a szakmai vezetőre előírt alkalmazási feltételt munkaszerződéssel vagy kinevezésről szóló okirattal,
+a)[^45] a) pontjában a szakmai vezetőre előírt alkalmazási feltételt munkaszerződéssel vagy kinevezésről szóló okirattal,
 
 b) b) és c) pontjában az oktatóra előírt alkalmazási feltételt munkaszerződéssel, megbízási szerződéssel vagy az oktató alkalmazását bizonyító más szerződéssel és
 
-c) b) és c) pontja szerinti képesítési feltételt az oktató végzettségét bizonyító oklevéllel és a nyelvismeretét igazoló dokumentummal
+c)[^46] a)–c) pontja szerinti képesítési feltételnek való megfelelést a szakmai vezető, illetve az oktató végzettségét bizonyító oklevéllel és a nyelvismeretét igazoló dokumentummal vagy azok másolatával
 
 ## igazolja.
 
-(10)[^40][^41] A felnőttképzést folytató intézmény a (7a) bekezdés szerinti anyanyelvi oktató alkalmazásának a (7a) bekezdésben meghatározott feltételeit az anyanyelvi oktató tanulmányainak elvégzését és a felsőfokú végzettségét bizonyító dokumentummal vagy annak másolatával igazolja.
+(10)[^47][^48] A felnőttképzést folytató intézmény a (7a) bekezdés szerinti anyanyelvi oktató alkalmazásának a (7a) bekezdésben meghatározott feltételeit az anyanyelvi oktató tanulmányainak elvégzését és a felsőfokú végzettségét bizonyító dokumentummal vagy annak másolatával igazolja.
 
-[^37]: A 16. § (7) bekezdés b) pontja a 136/2014. (IV. 24.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^38]: A 16. § (7a) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^39]: A 16. § (9) bekezdés a) pontja a 360/2015. (XII. 2.) Korm. rendelet 20. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^40]: A 16. § (10) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 360/2015. (XII. 2.) Korm. rendelet 20. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^41]: A 16. § (9) bekezdés a) pontja a 360/2015. (XII. 2.) Korm. rendelet 20. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^40]: A 16. § (7) bekezdés b) pontja a 136/2014. (IV. 24.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^41]: A 16. § (7) bekezdés c) pontja a 360/2015. (XII. 2.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^42]: A 16. § (7a) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 360/2015. (XII. 2.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^43]: A 16. § (7b) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^44]: A 16. § (7c) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^45]: A 16. § (9) bekezdés a) pontja a 360/2015. (XII. 2.) Korm. rendelet 20. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^46]: A 16. § (9) bekezdés c) pontja a 360/2015. (XII. 2.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^47]: A 16. § (10) bekezdését az 562/2013. (XII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 360/2015. (XII. 2.) Korm. rendelet 20. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^48]: A 16. § (9) bekezdés a) pontja a 360/2015. (XII. 2.) Korm. rendelet 20. § (1) bekezdés g) pontja szerint módosított szöveg.

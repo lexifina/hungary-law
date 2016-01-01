@@ -58,7 +58,7 @@
 
 ## * A táblázatban felsorolt eszközök, felszerelések helyettesíthetők az érintett eszköz, felszerelés funkcióját kiváltó, korszerű eszközzel, felszereléssel.
 
-3. melléklet a 393/2013. (XI. 12.) Korm. rendelethez[^89]
+3. melléklet a 393/2013. (XI. 12.) Korm. rendelethez[^104]
 
 Az elégedettségmérés kötelezően előírt kérdései*
 
@@ -112,4 +112,4 @@ választ adni!
 
 *** Kizárólag abban az esetben kell válaszolni, ha a képzéshez biztosítottak tananyagot.
 
-[^89]: A 3. melléklet a 360/2015. (XII. 2.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^104]: A 3. melléklet a 360/2015. (XII. 2.) Korm. rendelet 19. §-ával megállapított szöveg.

@@ -34,8 +34,10 @@ ca) az OKJ szerinti szakképesítés megszerzésére felkészítő képzés eset
 
 cb) egyéb szakmai képzés esetén a szakmai végzettségnek a felnőttképzési szakmai programkövetelmények nyilvántartásba vételének követelményeiről és eljárási rendjéről, valamint a szakmai végzettség megszerzésének igazolásáról szóló miniszteri rendelet szerinti azonosítójával,
 
-cc) nyelvi képzés esetén a nyelvi képzettségnek a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételének követelményeiről és eljárási rendjéről, valamint a nyelvi képzés követelményei teljesítésének igazolásáról szóló miniszteri rendelet szerinti azonosítójával és a képzési szint megjelölésével, és
+cc)[^7] nyelvi képzés esetén a nyelvi programkövetelménynek a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételének követelményeiről és eljárási rendjéről, valamint a nyelvi képzés követelményei teljesítésének igazolásáról szóló miniszteri rendelet szerinti azonosítószámával és a képzési szint megjelölésével, és
 
 d) az Fktv. 1. § (2) bekezdés a) és b) pontja szerinti képzések esetében a gyakorlati képzés helyszínének címét, vagy – ha a gyakorlati képzés nem az intézményben folyik – a gyakorlati képzés megvalósítására kötött szerződésben szereplő gyakorlati képzést folytató szervezet megnevezését és címét.
 
 (2) Az engedély módosítására vagy a 3. § (1) bekezdése szerinti kiegészítésére irányuló kérelemnek és a bejelentésnek a felnőttképzést folytató intézmény nyilvántartásba vételi számát és az (1) bekezdés a) pont aa) alpontjában, c) pont ca)–cc) alpontjában és d) pontjában foglaltakat kell tartalmaznia.
+
+[^7]: A 4. § (1) bekezdés c) pont cc) alpontja a 360/2015. (XII. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
