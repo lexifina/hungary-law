@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-219-20-
 | 2013-01-01 | 2012-219-20-22.3 | 425/2012. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 2012-219-20-22.4 | 500/2013. (XII. 29.) Korm. rendelet |
 | 2015-01-01 | 2012-219-20-22.5 | 353/2014. (XII. 29.) Korm. rendelet |
+| 2016-01-01 | 2012-219-20-22.6 | 441/2015. (XII. 28.) Korm. rendelet |

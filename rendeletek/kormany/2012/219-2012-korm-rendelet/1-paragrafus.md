@@ -4,7 +4,8 @@
 
 (2)[^2] Az uniós tisztviselő, illetve túlélő hozzátartozója a nyugdíjbiztosítási átutalás, illetve visszautalás elbírálásához szükséges adatokat – az Országos Nyugdíjbiztosítási Főigazgatóság főigazgatója által e célra rendszeresített és a nyugdíjbiztosítási igazgatási szervek honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon – az Igazgatóság felhívásának kézhezvételétől számított húsz munkanapon belül jelenti be Igazgatóságnak. Az adatlap és az elektronikus űrlap adattartalmát az 1. melléklet határozza meg.
 
-(3) Az e rendelet szerinti hatósági ügyekben az ügyintézési határidő negyvenöt munkanap. Ha az ügyintézési határidő a tárgyévi valorizációs szorzószámok hatálybalépését megelőzően kezdődik, az ügyintézési határidő a tárgyévi valorizációs szorzószámok hatálybalépését követő tizedik munkanapon jár le. Az ügyintézési határidő legfeljebb tizenöt munkanappal hosszabbítható meg. Ha az uniós intézmény az (1) bekezdés szerinti kérelmet 2012. szeptember 1-jét megelőzően küldte meg, az ügyintézési határidő 2012. szeptember 1-jén kezdődik.
+(3)[^3]
 
 [^1]: Az 1. § (1) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 65. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 176. §-a hatályon kívül helyezte.
