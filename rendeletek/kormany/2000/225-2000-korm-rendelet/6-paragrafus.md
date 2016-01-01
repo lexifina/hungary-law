@@ -30,6 +30,6 @@ j) a számviteli nyilvántartások vezetésével, az adóbevallások elkészít�
 
 k) egyéb, a felszámolási eljárás során felmerülő, igazolt költségek (őrzés-védelem, posta, telefon, fénymásolás stb.).
 
-(2)[^10] Kötelezettségként kell állományba venni az állami garancia miatti állami követelést – Cstv. 62. §-ának (2) bekezdése –, valamint a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből kapott támogatást, amelyet a visszafizetéskor meg kell szüntetni.
+(2)[^11] Kötelezettségként kell állományba venni az állami garancia miatti állami követelést – Cstv. 62. §-ának (2) bekezdése –, valamint a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből kapott támogatást, amelyet a visszafizetéskor meg kell szüntetni.
 
-[^10]: A 6. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^11]: A 6. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
