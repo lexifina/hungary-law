@@ -1,1 +1,0 @@
-A Kormány a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 132. §-a (1) bekezdésének f), j), illetve m) pontjában, továbbá a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 162. §-a (1) bekezdésének i) pontjában kapott felhatalmazás alapján a következőket rendeli el:
