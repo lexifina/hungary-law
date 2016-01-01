@@ -10,8 +10,8 @@
 
 a) a növényvédelmi szakértői tevékenység folytatásának részletes feltételeit,
 
-b) a növényvédelmi szakértői tevékenységre jogosító engedély kiadásának rendjét,
+b) a növényvédelmi szakértői tevékenységre jogosító bejelentés rendjét,
 
 c) a nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, valamint
 
-d) – az adópolitikáért felelős miniszterrel egyetértésben – a növényvédelmi szakértői tevékenység végzésére jogosító engedélyért fizetendő igazgatási szolgáltatási díjat.
+d) – az adópolitikáért felelős miniszterrel egyetértésben – a növényvédelmi szakértői tevékenység végzésére jogosító bejelentésért fizetendő igazgatási szolgáltatási díjat.
