@@ -1,4 +1,4 @@
-## 12/B. [^8] A civil szervezetek végelszámolásával, csődeljárásával és a felszámolási eljárásával kapcsolatos egyes iratkezelési szabályok
+## 12/B. [^3] A civil szervezetek végelszámolásával, csődeljárásával és a felszámolási eljárásával kapcsolatos egyes iratkezelési szabályok
 
 20/B. § (1) A bíróság – az OBH közreműködésével – az országos névjegyzék útján úgy tesz eleget az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvényben foglalt közzétételi kötelezettségének, hogy a bíróságok központi internetes oldalán közzéteszi a végelszámolás megindítását elrendelő végzést és a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényben meghatározott határozatokat, hirdetményeket, egyéb iratokat (a továbbiakban együtt e §-ban: irat).
 
@@ -16,4 +16,4 @@
 
 (8) Az (1)–(7) bekezdés rendelkezései szerint kell eljárni abban az esetben is, ha jogszabály alapján a civil szervezetet nyilvántartó bíróságnak a bíróságok központi internetes oldalán hirdetményt kell közzétennie.
 
-[^8]: A 12/B. alcímet (20/B. §) a 20/2014. (XII. 23.) IM rendelet 17. § (1) bekezdése iktatta be.
+[^3]: A 12/B. alcímet (20/B. §) a 20/2014. (XII. 23.) IM rendelet 17. § (1) bekezdése iktatta be.
