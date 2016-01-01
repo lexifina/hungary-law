@@ -1,22 +1,27 @@
-4. § (1)[^6]
+4. §[^14] (1) A sikeres vizsgáról a BM OKF bizonyítványt állít ki, mely tartalmazza:
 
-(2)[^7] A vizsgabizottság előtti sikertelen vizsga esetén ismételt vizsga egy alkalommal tehető.
+a) a vizsgázó nevét, születési helyét, anyja nevét,
 
-(3)[^8]
+b) a tűzvédelmi szakterület nevét,
 
-(4)[^9] Sikertelen ismételt vizsga esetén annak időpontjától számított 1 éven belül a sikertelen szakterületre vonatkozó szakértői engedély iránti kérelem nem nyújtható be.
+c) a vizsga helyét és időpontját (év, hónap, nap),
 
-(5) Kérelemre a BM OKF az érvényes tűzvédelmi szakértői engedéllyel rendelkező személy részére új szakértői engedélyt állít ki
+d) a vizsgaszervező szervezeti egység nevét, vezetőjének nevét, aláírását és bélyegzőlenyomatát,
 
-a) a szakértői engedély elvesztése,
+e) a bizonyítvány érvényességi idejét.”
 
-b) a szakértői engedélyben szereplő adat megváltozása, vagy
+(2) A sikeres vizsgáról kiállított bizonyítvány a vizsga napjától számított öt évig érvényes.
 
-c) hibás adatokat tartalmazó szakértői engedély
+(3) Sikertelen vizsga esetén ismételt vizsga egy alkalommal tehető.
 
-esetén.
+(4) Sikertelen ismételt vizsga esetén annak időpontjától számított 1 éven belül az adott szakterületre vonatkozóan vizsga nem tehető.
 
-[^6]: A 4. § (1) bekezdését a 82/2013. (XII. 23.) BM rendelet 10. §-a hatályon kívül helyezte.
-[^7]: A 4. § (2) bekezdése a 82/2013. (XII. 23.) BM rendelet 9. § a) pontja szerint módosított szöveg.
-[^8]: A 4. § (3) bekezdését a 16/2012. (IV. 3.) BM rendelet 6. §-a hatályon kívül helyezte.
-[^9]: A 4. § (4) bekezdése a 82/2013. (XII. 23.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+(5) Kérelemre a BM OKF az érvényes bizonyítvánnyal rendelkező személy részére új bizonyítványt állít ki:
+
+a) a bizonyítvány elvesztése,
+
+b) a bizonyítványban szereplő adat megváltozása, vagy
+
+c) hibás adatokat tartalmazó bizonyítvány
+
+[^14]: A 4. § a 75/2015. (XII. 22.) BM rendelet 3. § (8) bekezdésével megállapított szöveg.

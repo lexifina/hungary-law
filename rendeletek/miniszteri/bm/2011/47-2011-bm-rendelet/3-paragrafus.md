@@ -1,4 +1,4 @@
-3. § (1) A tűzvédelmi szakértői engedély iránti kérelemnek tartalmaznia kell a kérelmező:
+3. § (1)[^8] A tűzvédelmi szakértői vizsgára való jelentkezésnek tartalmaznia kell a vizsgázó:
 
 a) természetes személyazonosító adatait (név, születési név, születési hely és idő, anyja neve),
 
@@ -14,18 +14,21 @@ f) tűzvédelmi szakképesítésének (oklevelének, bizonyítványának) szám�
 
 g) foglalkozását, munkakörét,
 
-h)[^3] igazolását a 2. § (1) bekezdése vagy a 2. § (2) bekezdése szerinti feltételek teljesüléséről.
+h)[^9] igazolását a 2. § (1) bekezdése vagy a 2. § (2) bekezdése szerinti feltételek teljesüléséről.
 
-(2) Az (1) bekezdésben meghatározottakon túl a tűzvédelmi szakértő kérelmének tartalmaznia kell az engedélyezni kért tűzvédelmi szakterület megnevezését is.
+(2)[^10] Az (1) bekezdésben meghatározottakon túl a vizsgára való jelentkezésnek tartalmaznia kell a folytatni kívánt tűzvédelmi szakterület megnevezését is.
 
-(3) A kérelemhez csatolni kell:
+(3)[^11] A vizsgajelentkezéshez csatolni kell:
 
 a) a képesítést igazoló okirat hiteles másolatát (honosított okirat esetében a magyar nyelvű fordítás hiteles másolatát),
 
-b)[^4] az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatási szolgáltatási díjról szóló miniszteri rendelet szerinti igazgatási szolgáltatási díj (a továbbiakban: igazgatási szolgáltatási díj) szakterületenkénti befizetését igazoló bizonylatot,
+b)[^12] az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatási szolgáltatási díjról szóló miniszteri rendelet szerinti igazgatási szolgáltatási díj (a továbbiakban: igazgatási szolgáltatási díj) szakterületenkénti befizetését igazoló bizonylatot,
 
-c)[^5] a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 46/B. § (1) bekezdésében meghatározott hatósági bizonyítványt, vagy a tűzvédelmi hatóság adatigénylése iránti kérelmet.
+c)[^13] a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény (a továbbiakban: Ttv.) 46/B. § (1) bekezdésében meghatározott hatósági bizonyítványt, vagy a tűzvédelmi hatóság adatigénylése iránti kérelmet.
 
-[^3]: A 3. § (1) bekezdés h) pontja a 82/2013. (XII. 23.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (3) bekezdés b) pontja a 82/2013. (XII. 23.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (3) bekezdés c) pontját a 82/2013. (XII. 23.) BM rendelet 3. § (3) bekezdése iktatta be.
+[^8]: A 3. § (1) bekezdés nyitó szövegrésze a 75/2015. (XII. 22.) BM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^9]: A 3. § (1) bekezdés h) pontja a 82/2013. (XII. 23.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (2) bekezdése a 75/2015. (XII. 22.) BM rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^11]: A 3. § (3) bekezdés nyitó szövegrésze a 75/2015. (XII. 22.) BM rendelet 3. § (7) bekezdésével megállapított szöveg.
+[^12]: A 3. § (3) bekezdés b) pontja a 82/2013. (XII. 23.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^13]: A 3. § (3) bekezdés c) pontját a 82/2013. (XII. 23.) BM rendelet 3. § (3) bekezdése iktatta be, szövege a 75/2015. (XII. 22.) BM rendelet 3. § (16) bekezdés a) pontja szerint módosított szöveg.
