@@ -80,7 +80,7 @@ d) az átvett ügyfélpénzekkel sajátjaként rendelkezik vagy azt e törvény 
 
 e) a szükséges számviteli, vezetői információs vagy belső ellenőrzési rendszer nélkül működik vagy e rendszerek nem teszik lehetővé a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tényleges pénzügyi helyzetének megállapítását,
 
-f) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése, vagy a mérleg szerinti eredmény vagy a tőkekövetelmény módosítása céljából,
+f) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése, vagy az adózott eredmény vagy a tőkekövetelmény módosítása céljából,
 
 g) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül – ismételten megsérti, vagy
 

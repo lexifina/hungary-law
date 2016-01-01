@@ -18,7 +18,7 @@ h) a külföldi pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézm
 
 i) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
 
-j) a Hpt. összevont alapú felügyeletre vonatkozó, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény összevont alapú felügyeletre vonatkozó, a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény Nyolcadik rész III. fejezetében és a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás,
+j) a Hpt. összevont alapú felügyeletre vonatkozó, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény összevont alapú felügyeletre vonatkozó, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény XXV. fejezetében és a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás,
 
 k) a Felügyelet által a pénzforgalmi intézményről, elektronikuspénz-kibocsátó intézményről egyedi azonosításra alkalmas adatok szolgáltatása a feladatkörében eljáró Gazdasági Versenyhivatal részére,
 

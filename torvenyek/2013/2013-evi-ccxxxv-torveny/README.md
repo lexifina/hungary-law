@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-235-00-00
 | 2014-03-16 | 2010. évi CXXX. törvény | 2013-235-00-00.3 |
 | 2014-07-16 | 2014. évi XIX. törvény | 2013-235-00-00.4 |
 | 2015-07-07 | 2015. évi LXXXV. törvény | 2013-235-00-00.5 |
+| 2016-01-01 | 2015. évi CXCII. törvény | 2013-235-00-00.6 |

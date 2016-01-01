@@ -1,4 +1,4 @@
-10. § (1) Pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy másik EGT-államban székhellyel rendelkező pénzforgalmi intézmény fióktelepeként működhet.
+10. § (1) Pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy másik EGT-államban székhellyel rendelkező pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény fióktelepeként működhet.
 
 (2) Utalványkibocsátó részvénytársaságként, korlátolt felelősségű társaságként vagy szövetkezetként működhet.
 
