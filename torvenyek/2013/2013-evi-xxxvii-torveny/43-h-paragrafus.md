@@ -1,0 +1,1 @@
+43/H. § A Jelentő Magyar Pénzügyi Intézmény az 1. melléklet II-VII. pontjában meghatározott átvilágítási szabályoknak megfelelően megszerzett adatok kapcsán fennálló adatszolgáltatási kötelezettségét az adóévet követő év június 30. napjáig az 1. melléklet I. pontja szerinti adattartalommal teljesíti az állami adóhatósághoz.

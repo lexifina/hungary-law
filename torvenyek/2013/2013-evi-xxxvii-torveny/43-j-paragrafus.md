@@ -1,0 +1,3 @@
+43/J. § (1) A Jelentő Magyar Pénzügyi Intézmény a 43/G. § (1), (3), (5) és (6) bekezdése szerinti bejelentési, továbbá a 43/H. § szerinti adatszolgáltatási kötelezettségét elektronikus úton, a Nem Jelentő Magyar Pénzügyi Intézmény a 43/G. § (2) és (3) bekezdése szerinti bejelentési kötelezettségét – ha az lehetséges – elektronikus úton, az állami adóhatóság által erre a célra rendszeresített elektronikus űrlapon teljesíti az állami adóhatósághoz.
+
+(2) Az állami adóhatóság a 43/I. §-ban meghatározott, automatikus információcsere keretében az Európai Unió tagállamába továbbított információt a 16. § (5) bekezdésének megfelelő formátumban továbbítja.

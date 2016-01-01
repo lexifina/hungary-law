@@ -1,0 +1,1 @@
+43/K. § A 43/G. § (1)–(3), (5) és (6) bekezdése, valamint a 43/H. § szerinti bejelentési és adatszolgáltatási kötelezettség késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság a bejelentésre, adatszolgáltatásra kötelezettet 2 millió forintig terjedő mulasztási bírsággal sújthatja.

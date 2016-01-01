@@ -136,7 +136,7 @@ cb) amelytől a követeléssel vagy a fizetési kötelezettséggel kapcsolatos j
 
 a) a tőkepiacról szóló 2001. évi CXX. törvény 146/A. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
 
-b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 167/C. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
+b) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 148. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
 
 c) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 123/B. §-a szerinti Jelentő Magyar Pénzügyi Intézmény,
 
@@ -145,3 +145,35 @@ d) az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 86
 e) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 288/A. §-a szerinti Jelentő Magyar Pénzügyi Intézmény.
 
 2. Nem Jelentő Magyar Pénzügyi Intézmény: a FATCA Megállapodás 1. cikk 1. pont q) alpontja szerinti Nem Jelentő Magyar Pénzügyi Intézmény.
+
+(6) Az V/B. Fejezet alkalmazásában
+
+1. adóév: a naptári év;
+
+2. automatikus információcsere: az Európai Unió más tagállamában (a továbbiakban: tagállam) vagy a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodást kihirdető törvény (a továbbiakban: Megállapodást kihirdető törvény) 1. mellékletében felsorolt államban (a továbbiakban: más állam) illetőséggel rendelkező személyekre vonatkozó, előre meghatározott információk előzetes megkeresés nélküli, előre meghatározott időszakonként történő rendszeres közlése e személy illetősége szerinti állam hatáskörrel rendelkező hatóságával;
+
+3. Betéti Számla: az 1. melléklet VIII/C/2. pontja szerinti Pénzügyi Számla;
+
+4. Ellenőrzést gyakorló személy: az 1. melléklet VIII/D/5. pontja szerinti ellenőrzést gyakorló személy;
+
+5. hatáskörrel rendelkező hatóság: az Európai Unió tagállamának vagy más államnak hatáskörrel rendelkező hatóságként kijelölt hatósága;
+
+6. Járadékbiztosítási Szerződés: az 1. melléklet VIII/C/6. pontja szerinti Járadékbiztosítási Szerződés;
+
+7. Jelentendő Pénzügyi Számla: az 1. melléklet VIII/D. pontja szerinti Pénzügyi Számla;
+
+8. Jelentő Magyar Pénzügyi Intézmény: az 1. melléklet VIII/A. pontja szerinti jelentő magyar Pénzügyi Intézmény;
+
+9. Kizárt Pénzügyi Számla: az 1. melléklet VIII/C/17. pontja szerinti Pénzügyi Számla;
+
+10. Letétkezelői Számla: az 1. melléklet VIII/C/3. pontja szerinti Pénzügyi Számla;
+
+11. Nem dokumentált Pénzügyi Számla: az 1. melléklet III/B/5. és III/C/5. c) pontja szerinti nem dokumentált Pénzügyi Számla;
+
+12. Nem Jelentő Magyar Pénzügyi Intézmény: az 1. melléklet VIII/B. pontja szerinti Nem Jelentő Magyar Pénzügyi Intézmény;
+
+13. Pénzügyi Számla: az 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla;
+
+14. Visszavásárlási Érték: az 1. melléklet VIII/C/8. pontja szerinti visszavásárlási érték;
+
+15. Visszavásárlási értékkel rendelkező Biztosítási Szerződés: az 1. melléklet VIII/C/7. pontja szerinti visszavásárlási értékkel rendelkező biztosítási szerződés.
