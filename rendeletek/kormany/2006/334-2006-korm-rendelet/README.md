@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-334-20-
 | 2014-01-01 | 2006-334-20-22.13 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-03-26 | 2006-334-20-22.14 | 98/2014. (III. 25.) Korm. rendelet |
 | 2015-04-01 | 2006-334-20-22.15 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2016-01-01 | 2006-334-20-22.16 | 383/2016. (XII. 2.) Korm. rendelet |
