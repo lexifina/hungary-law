@@ -72,7 +72,7 @@
 
 | V. Lekötött tartalék |  |  |
 
-| VI. Mérleg szerinti eredmény |  |  |
+| VI. Adózott eredmény |  |  |
 
 | E. CÉLTARTALÉKOK |  |  |
 
@@ -92,4 +92,6 @@
 
 ## Vállalkozó képviseletére jogosult személy aláírása
 
-2. melléklet a 398/2012. (XII. 20.) Korm. rendelethez
+2. melléklet a 398/2012. (XII. 20.) Korm. rendelethez[^24]
+
+[^24]: A 2. melléklet a 484/2015. (XII. 29.) Korm. rendelet 98. § (2) bekezdésével megállapított szöveg.

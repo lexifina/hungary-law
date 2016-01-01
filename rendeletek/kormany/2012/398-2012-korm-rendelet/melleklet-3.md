@@ -1,6 +1,6 @@
 ## A mikrogazdálkodói beszámoló eredménykimutatása
 
-| ezer forintban |
+## ezer forintban
 
 | Megnevezés | Előző év | Tárgyév |
 
@@ -18,35 +18,21 @@
 
 | VII. Egyéb ráfordítások |  |  |
 
-| A. ÜZEMI (ÜZLETI) TEVÉKENYSÉG EREDMÉNYE (I±II+III–IV–V–VI–VII) |  |  |
+| A. ÜZEMI (ÜZLETI) TEVÉKENYSÉG EREDMÉNYE (I±II+III-IV-V-VI-VII) |  |  |
 
 | VIII. Pénzügyi műveletek bevételei |  |  |
 
 | IX. Pénzügyi műveletek ráfordításai |  |  |
 
-| B. PÉNZÜGYI MŰVELETEK EREDMÉNYE (VIII–IX) |  |  |
+| B. PÉNZÜGYI MŰVELETEK EREDMÉNYE (VIII-IX) |  |  |
 
-| C. SZOKÁSOS VÁLLALKOZÁSI EREDMÉNY (±A±B) |  |  |
+| C. ADÓZÁS ELŐTTI EREDMÉNY (±A±B) |  |  |
 
-| X. Rendkívüli bevételek |  |  |
+| X. Adófizetési kötelezettség |  |  |
 
-| XI. Rendkívüli ráfordítások |  |  |
+| D. ADÓZOTT EREDMÉNY (±C-X) |  |  |
 
-| D. RENDKÍVÜLI EREDMÉNY (X–XI) |  |  |
-
-| E. ADÓZÁS ELŐTTI EREDMÉNY (±C±D) |  |  |
-
-| XII. Adófizetési kötelezettség |  |  |
-
-| F. ADÓZOTT EREDMÉNY (±E–XII) |  |  |
-
-| XIII. Eredménytartalék igénybevétele osztalékra, részesedésre |  |  |
-
-| XIV. Jóváhagyott osztalék, részesedés |  |  |
-
-| G. MÉRLEG SZERINTI EREDMÉNY |  |  |
-
-## Kelt: ……………
+## Kelt: ...............................
 
 ## Vállalkozó képviseletére jogosult személy aláírása
 
@@ -412,7 +398,7 @@
 
 41. SAJÁT TŐKE
 
-411.[^21] Jegyzett tőke
+411.[^25] Jegyzett tőke
 
 412. Tőketartalék
 
@@ -420,7 +406,7 @@
 
 414. Lekötött tartalék
 
-419. Mérleg szerinti eredmény
+419.[^26] Adózott eredmény
 
 42. CÉLTARTALÉKOK
 
@@ -592,7 +578,7 @@
 
 599. Költségnemek átvezetési számla
 
-8. SZÁMLAOSZTÁLY RÁFORDÍTÁSOK
+8.[^27] SZÁMLAOSZTÁLY RÁFORDÍTÁSOK
 
 81. ANYAGJELLEGŰ RÁFORDÍTÁSOK
 
@@ -656,11 +642,17 @@
 
 8671. Káreseménnyel kapcsolatos fizetett, fizetendő összegek
 
-8672. Költségek (ráfordítások) ellentételezésére adott támogatás, juttatás
+8672. Költségek (ráfordítások) ellentételezésére visszafizetési kötelezettség nélkül adott támogatás, véglegesen átadott pénzeszköz, juttatás
 
-8673.[^22] Tao által elismert bírságok, kötbérek, késedelmi kamatok, pótlékok, kártérítések, sérelemdíjak
+8673. Fejlesztési célra, visszafizetési kötelezettség nélkül adott támogatás, juttatás
 
-8674.[^23] Tao által el nem ismert bírságok, kötbérek, késedelmi kamatok, pótlékok, kártérítések, sérelemdíjak
+8674. Fejlesztési célra kapott támogatás visszafizetendő összege
+
+8675. Tao által elismert bírságok, kötbérek, késedelmi kamatok, pótlékok, kártérítések, sérelemdíjak
+
+8676. Tao által el nem ismert bírságok, kötbérek, késedelmi kamatok, pótlékok, kártérítések, sérelemdíjak
+
+868. Terven felüli értékcsökkenések, értékvesztések
 
 8681. Immateriális javak terven felüli értékcsökkenése
 
@@ -672,11 +664,23 @@
 
 869. Különféle egyéb ráfordítások
 
+8691. Társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak könyv szerinti és létesítő okiratban meghatározott értékének veszteségjellegű különbözete
+
+8692. Ellentételezés nélkül átvállalt kötelezettség szerződés szerinti összege
+
+8693. Térítés nélkül átadott, részesedésnek vagy értékpapírnak nem minősülő eszközök nyilvántartás szerinti értéke
+
+8694. Térítés nélkül nyújtott szolgáltatások bekerülési értéke
+
+8695. Elengedett követelések könyv szerinti értéke
+
+8696. Egyéb, vagyoncsökkenéssel járó ráfordítások
+
 87. PÉNZÜGYI MŰVELETEK RÁFORDÍTÁSAI
 
-871. Befektetési célú értékpapír értékesítésének árfolyamvesztesége
+871. Részesedésekből származó ráfordítások, árfolyamveszteségek
 
-872. Forgatási célú értékpapír értékesítésének árfolyamvesztesége
+872. Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó ráfordítások árfolyamveszteségek
 
 873. Hitelintézetnek fizetendő kamatok és kamatjellegű ráfordítások
 
@@ -690,33 +694,15 @@
 
 876. Külföldi pénzértékre szóló eszközök és kötelezettségek árfolyamveszteségei
 
-8761.[^24] Deviza- és valutakészletek forintra átváltásának árfolyamvesztesége
+8761. Deviza- és valutakészletek forintra átváltásának árfolyamvesztesége
 
-8762.[^25] Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamvesztesége
+8762. Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamvesztesége
 
-877. Egyéb értékpapír ügyletek veszteségei
+877. Pénzügyi műveletek egyéb ráfordításai
 
 878. Pénzügyi rendezéshez kapcsolódóan adott engedmény
 
-879. Egyéb pénzügyi ráfordítások
-
-88. RENDKÍVÜLI RÁFORDÍTÁSOK
-
-881. Társaságba bevitt eszközök nyilvántartás szerinti értéke
-
-882. Megszűnt részesedés nyilvántartás szerinti értéke
-
-883. Tartozásátvállalás szerződés szerinti összege
-
-884. Térítés nélkül átadott eszközök nyilvántartás szerinti értéke
-
-885. Térítés nélkül nyújtott szolgáltatások bekerülési értéke
-
-886. Elengedett követelések könyv szerinti értéke
-
-887. Fejlesztési célra átadott támogatások, véglegesen átadott pénzeszközök
-
-889. Egyéb, vagyoncsökkenéssel járó rendkívüli ráfordítások
+879. Egyéb vagyoncsökkenéssel járó pénzügyi ráfordítások
 
 89. EREDMÉNYT TERHELŐ ADÓK
 
@@ -728,7 +714,7 @@
 
 899. Eredményt terhelő egyéb adók
 
-9. SZÁMLAOSZTÁLY BEVÉTELEK
+9.[^28] SZÁMLAOSZTÁLY BEVÉTELEK
 
 91. BELFÖLDI ÉRTÉKESÍTÉS ÁRBEVÉTELE
 
@@ -784,7 +770,9 @@
 
 9672. Költségek (ráfordítások) ellentételezésére kapott támogatás, juttatás
 
-9673. Kapott bírságok, kötbérek, fekbérek, késedelmi kamatok, kártérítések
+9673. Fejlesztési célra kapott támogatás, juttatás
+
+9674. Kapott bírságok, kötbérek, fekbérek, késedelmi kamatok, kártérítések
 
 968. Terven felüli értékcsökkenések, értékvesztések visszaírása
 
@@ -794,13 +782,27 @@
 
 9683. Készletek értékvesztésének visszaírása
 
+9684. Részesedések értékvesztésének visszaírása
+
 969. Különféle egyéb bevételek
+
+9691. Gazdasági társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak nyilvántartás szerinti értékének és létesítő okiratban meghatározott értékének nyereségjellegű különbözete
+
+9692. Elévült kötelezettség könyv szerinti értéke
+
+9693. Térítés nélkül átvett, ajándékként, hagyatékként kapott, fellelt eszközök piaci vagy jogszabály szerinti értéke
+
+9694. Térítés nélkül kapott szolgáltatások piaci vagy jogszabály szerinti értéke
+
+9695. Elengedett és ellentételezés nélkül átvállalt kötelezettség értéke
+
+9696. Egyéb, vagyonnövekedéssel járó bevételek
 
 97. PÉNZÜGYI MŰVELETEK BEVÉTELEI
 
-971. Befektetési célú értékpapír értékesítésének árfolyamnyeresége
+971. Részesedésekből származó bevételek, árfolyamnyereségek
 
-972. Forgatási célú értékpapír értékesítésének árfolyamnyeresége
+972. Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó bevételek, árfolyamnyereségek
 
 973. Hitelintézettől kapott kamatok és kamatjellegű bevételek
 
@@ -810,38 +812,17 @@
 
 976. Külföldi pénzértékre szóló eszközök és kötelezettségek árfolyamnyereségei
 
-9761.[^26] Deviza- és valutakészletek forintra átváltásának árfolyamnyeresége
+9761. Deviza- és valutakészletek forintra átváltásának árfolyamnyeresége
 
-9762.[^27] Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamnyeresége
+9762. Külföldi pénzértékre szóló eszközök és kötelezettségek pénzügyileg rendezett árfolyamnyeresége
 
-977. Egyéb értékpapír ügyletek nyereségei
+977. Pénzügyi műveletek egyéb bevételei
 
 978. Pénzügyi rendezéshez kapcsolódóan kapott engedmény
 
-979. Egyéb pénzügyi bevételek
+979. Egyéb vagyonnövekedéssel járó pénzügyi bevételek
 
-98. RENDKÍVÜLI BEVÉTELEK
-
-981. Társaságba bevitt eszközök társasági szerződés szerinti értéke
-
-982. Megszűnt részesedés ellenében kapott eszközök és átvett kötelezettségek különbözete
-
-983. Elévült kötelezettség könyv szerinti összege
-
-984. Térítés nélkül átvett, ajándékként, hagyatékként kapott, fellelt eszközök értéke
-
-985. Térítés nélkül kapott szolgáltatások értéke
-
-986. Elengedett, átvállalt kötelezettség értéke
-
-987. Fejlesztési célra kapott támogatások, véglegesen átvett pénzeszközök
-
-989. Egyéb, vagyonnövekedéssel járó rendkívüli bevételek
-
-[^21]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^22]: A 3. számú melléklet 8673. pontja a 362/2014. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^23]: A 3. számú melléklet 8674. pontja a 362/2014. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^24]: A 3. melléklet 8761. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^25]: A 3. melléklet 8762. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^26]: A 3. melléklet 9761. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^27]: A 3. melléklet 9762. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^25]: A 3. melléklet 411. pontja az 518/2013. (XII. 30.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^26]: A 3. melléklet 419. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^27]: A 3. melléklet 8. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.
+[^28]: A 3. melléklet 9. pontja a 484/2015. (XII. 29.) Korm. rendelet 98. § (3) bekezdésével megállapított szöveg.

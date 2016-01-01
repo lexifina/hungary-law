@@ -18,7 +18,8 @@
 
 (7a)[^8] Passzív időbeli elhatárolásként kell kimutatni – a (2) bekezdés szerinti kamatráfordítások kivételével – az olyan, a mérleg fordulónapja előtti időszakot terhelő költségeket, ráfordításokat, amelyek a mérleg fordulónapját követő két, vagy kettőnél több év múlva merülnek fel. Ezeket a költségeket, ráfordításokat arra az időszakra kell elszámolni, amelyik időszakhoz kapcsolódnak.
 
-(8) A passzív időbeli elhatárolások között halasztott bevételként kell kimutatni az Szt. 45. § (1) bekezdése szerinti tételt, ha annak rendkívüli bevételként elszámolt összege az 1 millió forintot meghaladja.
+(8)[^9] A passzív időbeli elhatárolások között halasztott bevételként kell kimutatni az Szt. 45. § (1) bekezdése szerinti tételt, ha annak egyéb bevételként vagy pénzügyi műveletek bevételeként elszámolt összege az 1 millió forintot meghaladja.
 
 [^7]: A 6. § (3a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 69. § (1) bekezdése iktatta be.
 [^8]: A 6. § (7a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 69. § (2) bekezdése iktatta be.
+[^9]: A 6. § (8) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 97. §-a szerint módosított szöveg.
