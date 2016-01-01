@@ -16,7 +16,7 @@ ad) segíti a munkaadót a szakmai végzettséggel legjellemzőbben betölthető
 
 ae) a munkavállaló tájékoztatását szolgálja a szakmai végzettséggel megszerezhető kompetencia tartalmára és hasznosítására vonatkozóan,
 
-b) a képzés megkezdéséhez megjelölt bemeneti kompetenciák
+b)[^1] a képzés megkezdéséhez megjelölt bemeneti feltételek
 
 ba) szükségesek a szakmai végzettséggel megszerezhető kompetencia elsajátításához,
 
@@ -32,17 +32,17 @@ da) megfelelő időt biztosít a megjelölt munkatevékenység ellátásához sz
 
 db) a javaslat modulrendszerű felépítése esetén modulonként tartalmazza a minimális és maximális óraszámot, és
 
-dc) úgy került meghatározásra, hogy a maximális óraszám nem haladja meg a minimális óraszám kétszeresét,
+dc)[^2] úgy került meghatározásra, hogy az óraszámok egymástól eltérőek, valamint a maximális óraszám nem haladja meg a minimális óraszám kétszeresét,
 
 e) a szakmai követelmények leírása megfelel az alábbiaknak:
 
 ea) a szakmai végzettséggel megszerezhető kompetenciákkal a tevékenység, munkaterületi feladat elvégezhető vagy magasabb szinten gyakorolható,
 
-eb) a legjellemzőbb tevékenység vagy munkaterület ellátásához szükséges szakmai kompetenciákat leíró szakmai ismereteket, készségeket és személyes kompetenciákat, társas kompetenciákat és módszerkompetenciákat a javaslat tartalmazza,
+eb)[^3] a legjellemzőbb tevékenység vagy munkaterület ellátásához szükséges szakmai kompetenciákat leíró szakmai ismereteket, készségeket és személyes kompetenciákat, társas kompetenciákat és módszerkompetenciákat tanulási eredmény alapú megközelítésben a javaslat tartalmazza,
 
-ec) a szakmai követelmények leírása – modulrendszerű felépítés esetén – modulonként szerepel a javaslatban, és
+ec)[^4] a szakmai követelmények leírása – modulrendszerű felépítés esetén – modulonként szerepel a javaslatban,
 
-ed) tartalmazza annak bemutatását és indoklását, hogy a tervezett képzésre mely társadalmi-gazdasági területeken van szükség,
+ed)[^5]
 
 f) az elméleti és gyakorlati képzési idő aránya a szakmai végzettség jellegéhez igazodóan
 
@@ -52,35 +52,27 @@ fb) modulrendszerű felépítés esetén modulonként került meghatározásra,
 
 g) feltüntetésre kerül a szakmai végzettség, és
 
-h) a szakmai végzettség megszerzését igazoló dokumentum kiadásának feltételeként a képzés felnőttképzési szerződésben megjelölt óraszámának hetven százalékán való részvétel és a felnőttképzést folytató intézmény által szervezett szakmai záró beszámoló (a továbbiakban: beszámoló) sikeres teljesítése került megjelölésre.
+h) a szakmai végzettség megszerzését igazoló dokumentum kiadásának feltételeként a képzés felnőttképzési szerződésben megjelölt óraszámának hetven százalékán való részvétel és a felnőttképzést folytató intézmény által szervezett szakmai záró beszámoló (a továbbiakban: beszámoló) sikeres teljesítése került megjelölésre,
+
+i)[^6] bemutatásra és indokolásra kerül, hogy a tervezett képzésre mely társadalmi-gazdasági területeken van szükség és
+
+j)[^7] modulrendszerű felépítés esetén a modul megnevezése megfelel a tisztességes tájékoztatás követelményeinek, nem megtévesztő és utal a modulban foglalt szakmai követelmények tartalmára.
 
 (2) A javaslatban szereplő, a képzés megkezdéséhez szükséges bemeneti feltételek megfelelőek, ha
 
-a) iskolai előképzettségként az alábbi végzettségek valamelyikét tartalmazzák:
+a)[^8] iskolai előképzettségként az alábbi végzettségek valamelyikét tartalmazzák:
 
-aa) iskolai előképzettséghez nem kötött, az általános iskola nyolc évfolyamánál kevesebb,
+aa) iskolai előképzettséghez nem kötött, az általános iskola nyolcnál kevesebb elvégzett évfolyama,
 
-ab) nyolcadik évfolyam elvégzésével tanúsított alapfokú iskolai végzettség,
+ab) alapfokú iskolai végzettség,
 
-ac) befejezett tizedik évfolyam,
+ac) középfokú iskolai végzettség,
 
-ad) szakiskolai középfokú végzettség,
+ad) érettségi végzettség,
 
-ae) speciális szakiskolában megszerzett szakképesítés,
+ae) szakmai érettségi végzettség,
 
-af) szakmunkásképző iskolában megszerzett szakképesítés,
-
-ag) szakközépiskola befejező tizenkettedik évfolyamának sikeres elvégzését tanúsító középfokú végzettség,
-
-ah) gimnázium befejező tizenkettedik évfolyamának sikeres elvégzését tanúsító középfokú végzettség,
-
-ai) szakközépiskolai szakmai érettségi végzettség,
-
-aj) gimnáziumi érettségi végzettség,
-
-ak) technikumi végzettség,
-
-al) felsőoktatási intézményben megszerzett felsőfokú végzettségi szintet bizonyító oklevél,
+af) felsőfokú végzettség,
 
 b) szakmai előképzettségként – ha szakmai előképzettség szükséges – az alábbi végzettségek valamelyikét tartalmazzák:
 
@@ -106,10 +98,40 @@ a) amely – a 4. § (3) bekezdés c) pont alapján biztosított hiánypótlást
 
 az (1)–(4) bekezdésben foglalt követelményeknek,
 
-b) amelynek megnevezése megegyezik a nyilvántartásban szereplő szakmai programkövetelmény vagy az OKJ szerinti szakképesítés megnevezésével,
+b)[^9] amelynek megnevezése, illetve az abban szereplő szakmai végzettség megnevezése megegyezik, vagy megtévesztésig hasonló
 
-c) amely, vagy amelynek valamely modulja megtalálható az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendeletben,
+ba) a nyilvántartásban szereplő szakmai programkövetelmény,
 
-d) melyben szereplő szakmai kompetenciák legalább hatvan százaléka megtalálható az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendeletben szereplő valamely szakmai követelménymodulban, kivéve, ha a javaslatban szereplő szakmai kompetencia az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendeletben megtalálható szakmai kompetencia magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek kialakítására irányul, vagy
+bb) az OKJ szerinti szakképesítés vagy
 
-e) melyben szereplő szakmai kompetenciák legalább hatvan százaléka megtalálható a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási szakképzés kompetencia moduljaiban.
+bc) az Fktv. szerinti hatósági jellegű képzés
+
+## megnevezésével,
+
+c)[^10] amely, vagy amelynek valamely modulja megtalálható az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendeletben (a továbbiakban: követelménymodul rendelet),
+
+d)[^11] amelyben megtalálható az OKJ-ban szereplő valamely szakképesítés szakmai kompetenciáinak több mint negyven százaléka, rész-szakképesítés esetén több mint hatvan százaléka, kivéve, ha a javaslatban szereplő szakmai kompetencia az OKJ-ban szereplő szakképesítés szakmai kompetenciájának magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek kialakítására irányul, vagy
+
+e)[^12] amelyben megtalálható a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási szakképzés képzési és kimeneti követelményeiben szereplő szakmai kompetenciák több mint negyven százaléka,
+
+f)[^13] amelyben megtalálható a kamara és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara mesterképzéseinek kompetencia moduljaiban szereplő szakmai kompetenciák több mint negyven százaléka,
+
+g)[^14] amelyben megszerezhető szakmai végzettség tartalma jogszabályban meghatározásra került,
+
+h)[^15] amely alapján megszerezhető szakmai végzettség nincs összhangban a szakmai követelmények leírásával, a bemeneti feltételekkel, a legjellemzőbb tevékenység, munkaterület leírásával.
+
+[^1]: A 2. § (1) bekezdés b) pont nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés d) pont dc) alpontja a 42/2015. (XII. 30.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés e) pont eb) alpontja a 42/2015. (XII. 30.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés e) pont ec) alpontja a 42/2015. (XII. 30.) NGM rendelet 8. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés e) pont ed) alpontját a 42/2015. (XII. 30.) NGM rendelet 9. §-a hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés i) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (3) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdés j) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (3) bekezdése iktatta be.
+[^8]: A 2. § (2) bekezdés a) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^9]: A 2. § (5) bekezdés b) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^10]: A 2. § (5) bekezdés c) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^11]: A 2. § (5) bekezdés d) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^12]: A 2. § (5) bekezdés e) pontja a 42/2015. (XII. 30.) NGM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^13]: A 2. § (5) bekezdés f) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (7) bekezdése iktatta be.
+[^14]: A 2. § (5) bekezdés g) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (7) bekezdése iktatta be.
+[^15]: A 2. § (5) bekezdés h) pontját a 42/2015. (XII. 30.) NGM rendelet 5. § (7) bekezdése iktatta be.

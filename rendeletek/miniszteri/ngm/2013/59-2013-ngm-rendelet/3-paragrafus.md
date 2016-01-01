@@ -6,4 +6,12 @@ b) jogszabályi változás következtében módosul a szakmai programkövetelmé
 
 (2) A bizottság az (1) bekezdés a) pont szerinti eljárást felnőttképzési programszakértő igénybevételével folytatja le.
 
-(3) A bizottság a szakmai programkövetelményt a nyilvántartásból törli, ha a szakmai programkövetelmény szakmai kompetenciái beépítésre kerültek az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet valamely követelménymoduljába vagy a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási szakképzés valamely kompetencia moduljába.
+(3)[^16] A bizottság a szakmai programkövetelményt a nyilvántartásból törli, ha a szakmai programkövetelmény szakmai kompetenciái beépítésre kerültek
+
+a) az OKJ-ban szereplő valamely szakképesítés szakmai kompetenciái közé,
+
+b) a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási szakképzés valamely képzési és kimeneti követelményébe vagy
+
+c) az Fktv. szerinti hatósági jellegű képzés jogszabályban meghatározott valamely kompetencia moduljába vagy kompetenciái közé.
+
+[^16]: A 3. § (3) bekezdése a 42/2015. (XII. 30.) NGM rendelet 6. §-ával megállapított szöveg.

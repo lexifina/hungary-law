@@ -4,6 +4,12 @@ a) a 3. § (1) bekezdés b) pontban foglalt esetben a nyilvántartást módosít
 
 b) a 3. § (3) bekezdésben foglalt esetben a szakmai programkövetelményt a nyilvántartásból törli.
 
-(2)[^1] A kamara a Nemzeti Szakképzési és Felnőttképzési Hivatalt az (1) bekezdés szerinti nyilvántartásból való törlésről öt napon belül értesíti.
+(1a)[^17] A bizottság a szakmai programkövetelmény nyilvántartásba vételének napjától számított minden ötödik évben megvizsgálja, hogy megvalósult-e képzés a nyilvántartásban szereplő szakmai programkövetelmény alapján készült képzési programok szerint. A kamara a bizottság vizsgálatának lefolytatása érdekében – a személyes adatok kivételével – adatot igényel a Nemzeti Szakképzési és Felnőttképzési Hivataltól (a továbbiakban: NSZFH).
 
-[^1]: Az 5. § (2) bekezdése az 55/2014. (XII. 31.) NGM rendelet 17. §-a szerint módosított szöveg.
+(1b)[^18] Ha az (1a) bekezdés szerinti vizsgálat során a bizottság megállapítja, hogy a nyilvántartásban szereplő szakmai programkövetelmény alapján készült képzési programok szerint képzés nem valósult meg, a szakmai programkövetelményt – a vizsgálatot követő tíz napon belül – a nyilvántartásból törli.
+
+(2)[^19] A kamara az NSZFH-t az (1) és (1b) bekezdés szerinti nyilvántartásból való törlésről öt napon belül értesíti.
+
+[^17]: Az 5. § (1a) bekezdését a 42/2015. (XII. 30.) NGM rendelet 7. § (1) bekezdése iktatta be.
+[^18]: Az 5. § (1b) bekezdését a 42/2015. (XII. 30.) NGM rendelet 7. § (1) bekezdése iktatta be.
+[^19]: Az 5. § (2) bekezdése a 42/2015. (XII. 30.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
