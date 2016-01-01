@@ -1,6 +1,6 @@
 ## szakértői véleményét.
 
-## 38. [^68] A hatóság nem hatósági örökségvédelmi feladatainak ellátása
+## 38. [^70] A hatóság nem hatósági örökségvédelmi feladatainak ellátása
 
 78. § (1) A hatóság nem hatósági örökségvédelmi feladatai különösen:
 
@@ -22,7 +22,7 @@ b) az (1) bekezdés a) pontjában meghatározott céllal – a Hivatallal együt
 
 ba) a védett műemléki értéket érintő jókarbantartási kötelezettségük teljesítése,
 
-bb)[^69] a nyilvántartott régészeti lelőhely fenntartására és a műemlék helyreállítására, különösen annak előkészítésére, kutatására, restaurálására fordítható pályázati lehetőségek feltérképezése,
+bb)[^71] a nyilvántartott régészeti lelőhely fenntartására és a műemlék helyreállítására, különösen annak előkészítésére, kutatására, restaurálására fordítható pályázati lehetőségek feltérképezése,
 
 bc) a műemlékvédelmi követelményekre, szempontokra, eljárási szabályokra vonatkozó, valamint – a 72. § (1) bekezdés b) pont szerinti helyszíni ellenőrzést követően – az örökségvédelmi engedély lejáratának jogkövetkezményeiről szóló tájékoztatás nyújtása.
 
@@ -36,5 +36,5 @@ cb) a tervezett tevékenységek megvalósításához szükséges örökségvéde
 
 (3) A hatóságot az előzetes tájékoztatása azokban a kérdésekben, amelyekről tájékoztatást adott, mindaddig köti, amíg a vonatkozó jogszabályi rendelkezés vagy a nyilatkozat iránti kérelemben meghatározott tevékenység érdemben nem változik meg.
 
-[^68]: A 38. alcím címe a 171/2015. (VI. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
-[^69]: A 78. § (2) bekezdés b) pont bb) alpontja a 171/2015. (VI. 30.) Korm. rendelet 43. § (2) bekezdésével megállapított szöveg.
+[^70]: A 38. alcím címe a 171/2015. (VI. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^71]: A 78. § (2) bekezdés b) pont bb) alpontja a 171/2015. (VI. 30.) Korm. rendelet 43. § (2) bekezdésével megállapított szöveg.

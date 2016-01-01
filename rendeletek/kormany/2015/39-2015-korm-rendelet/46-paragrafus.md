@@ -52,9 +52,9 @@ f) az ingatlannal rendelkezni jogosultnak.
 
 (9) Ha a (6) bekezdés szerinti tiltás jelentős számú ügyfelet érint, akkor a hatóság az ügyféllel hirdetményi úton tarthat kapcsolatot a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 28/D. §-ában foglalt feltételeknek megfelelően.
 
-(10)[^49] Az engedély a határozat jogerőre emelkedésétől számított egyéves időtartamban jogosít a tevékenység végzésére.
+(10)[^51] Az engedély a határozat jogerőre emelkedésétől számított egyéves időtartamban jogosít a tevékenység végzésére.
 
-(11)[^50] A fémkereső műszer használatára vonatkozó engedély alapján végezni tervezett tevékenység megkezdését megelőzően tíz nappal a tevékenység tényleges végzésének megkezdését a hatóságnak elektronikus úton be kell jelenteni.
+(11)[^52] A fémkereső műszer használatára vonatkozó engedély alapján végezni tervezett tevékenység megkezdését megelőzően tíz nappal a tevékenység tényleges végzésének megkezdését a hatóságnak elektronikus úton be kell jelenteni.
 
-[^49]: A 46. § (10) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 38. §-a iktatta be.
-[^50]: A 46. § (11) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 38. §-a iktatta be.
+[^51]: A 46. § (10) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 38. §-a iktatta be.
+[^52]: A 46. § (11) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 38. §-a iktatta be.

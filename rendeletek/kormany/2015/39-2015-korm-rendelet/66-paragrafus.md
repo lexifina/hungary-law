@@ -2,9 +2,9 @@
 
 ## 30. Az örökségvédelmi szakhatósági eljárás szabályai a műemléki területek esetén
 
-66. § (1)[^64] A műemléki környezetet vagy a műemléki jelentőségű területet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság a műemlék érvényesülése, illetve a terület védetté nyilvánításának alapjául szolgáló értékek megőrzése és hangsúlyos érvényesülése érdekében vizsgálja, hogy a tervezett tevékenység megfelel-e az e rendeletben meghatározott követelménynek.
+66. § (1)[^66] A műemléki környezetet vagy a műemléki jelentőségű területet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság a műemlék érvényesülése, illetve a terület védetté nyilvánításának alapjául szolgáló értékek megőrzése és hangsúlyos érvényesülése érdekében vizsgálja, hogy a tervezett tevékenység megfelel-e az e rendeletben meghatározott követelménynek.
 
-(2)[^65] A történeti tájat vagy világörökségi területet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság vizsgálja
+(2)[^67] A történeti tájat vagy világörökségi területet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság vizsgálja
 
 a) a történeti tájon vagy világörökségi területen azon jellemzők fennmaradásának és érvényesülésének biztosítását, amelyek a védetté nyilvánítás céljaként meghatározásra kerültek,
 
@@ -20,5 +20,5 @@ b) a műemléki jelentőségű területet érintően a tervezett telekalakítás
 
 (5) A telekalakítási eljárás a védettség hatályát nem érinti, a telekalakítással érintett telek általános vagy a műemlékké nyilvánítással keletkező védelme a telekalakítás folytán létrejött telkekre is vonatkozik.
 
-[^64]: A 66. § (1) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § q) pontja szerint módosított szöveg.
-[^65]: A 66. § (2) bekezdés nyitó szövegrésze a 171/2015. (VI. 30.) Korm. rendelet 45. § q) pontja szerint módosított szöveg.
+[^66]: A 66. § (1) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § q) pontja szerint módosított szöveg.
+[^67]: A 66. § (2) bekezdés nyitó szövegrésze a 171/2015. (VI. 30.) Korm. rendelet 45. § q) pontja szerint módosított szöveg.
