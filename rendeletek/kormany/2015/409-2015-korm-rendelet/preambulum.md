@@ -1,0 +1,1 @@
+A Kormány a bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdés 15. pontjában foglalt felhatalmazás alapján, valamint az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében és az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
