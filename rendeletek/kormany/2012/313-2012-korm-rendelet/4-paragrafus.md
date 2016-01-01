@@ -8,7 +8,7 @@ b) az 1. § (1) bekezdés d) és g) pontja szerinti, az építésügyi hatóság
 
 c) az 1. § (1) bekezdés e) pontja szerinti energetikai tanúsítványt elektronikus alkalmazás igénybevételével az energetikai tanúsító,
 
-d)[^16] az 1. § (1) bekezdés f) pontja szerinti tervtanácsi szakmai véleményt a Nyilvántartásban biztosított felületen, a tervtanács döntését követő 5 napon belül az országos főépítész vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal,
+d)[^17] az 1. § (1) bekezdés f) pontja szerinti tervtanácsi szakmai véleményt a Nyilvántartásban biztosított felületen, a tervtanács döntését követő 5 napon belül az országos főépítész vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal,
 
 e) az 1. § (1) bekezdés h)–i) pontja szerinti helyi építészeti, természeti értékek védelmét elrendelő döntést, a településrendezési eszközöket, a rendeletet vagy határozatot és terv-mellékleteket az önkormányzat döntését követő 30 napon belül a jegyző,
 
@@ -30,4 +30,4 @@ kell a Dokumentációs Központ részére átadni.
 
 (3) A Dokumentációs Központ és a Nyilvántartás adatállományából – igény szerinti adatátadást követően – törölni kell az utólagos rendeltetésváltozás miatt e rendelet hatálya alól kikerült, az 1. § (2) bekezdés a) és b) pontja szerinti építményre vonatkozó adatokat és dokumentációkat. A változást és az adatátadási igényt az építmény új rendeltetése tekintetében feladatkörrel rendelkező miniszter köteles jelezni az Üzemeltető felé.
 
-[^16]: A 4. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 207. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 207. § (1) bekezdésével megállapított szöveg.

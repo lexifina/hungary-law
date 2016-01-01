@@ -50,7 +50,7 @@ d) a földgázellátásról szóló törvény szerinti nyomvonalas építmények
 
 e) a bányászatról szóló törvény szerinti nyomvonalas építmények a hozzájuk tartozó tartozékokkal és szerelvényekkel,
 
-f) az atomenergiáról szóló törvény szerinti nukleáris létesítmény, nukleáris létesítménnyel összefüggő építmény, nukleáris rendszer és rendszerelem,
+f)[^5] az atomenergiáról szóló törvény szerinti nukleáris létesítmény, nukleáris létesítménnyel összefüggő építmény, nukleáris rendszer és rendszerelem, a radioaktív hulladék átmeneti és végleges elhelyezésére szolgáló építmény, valamint az atomenergia-felügyeleti szerv építésügyi és építésfelügyeleti hatósági hatáskörébe tartozó, sajátos építménynek nem minősülő építmény,
 
 g) a távhőszolgáltatásról szóló törvény szerinti távhő-szolgáltatási célra hőt termelő építmények, a távhő továbbítására, elosztására szolgáló távhővezetékek, a távhőt továbbító hőhordozó közeg kiadására, elosztására, fogadására és átalakítására szolgáló hőközpontok,
 
@@ -62,3 +62,4 @@ i) a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügy
 [^2]: Az 1. § (1) bekezdés n) pontja a 62/2014. (III. 6.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés p) pontja a 62/2014. (III. 6.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés q) pontját a 109/2013. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (2) bekezdés f) pontja a 491/2015. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
