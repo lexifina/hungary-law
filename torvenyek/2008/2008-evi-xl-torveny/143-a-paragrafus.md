@@ -1,6 +1,6 @@
 143/A. § (1)–(2)
 
-(3) A szervezett földgázpiac első pozitív mérleg szerinti eredménnyel lezárt üzleti évét követően a Hivatal évente megvizsgálja az engedélyes szervezett földgázpiac létrehozásával összefüggő befektetései megtérülésének alakulását. Ha a Hivatal megállapítja a befektetések megtérülését, határozatban kötelezi az engedélyest a részvényeinek, vagy a részvények egy részének elidegenítésére. Ez esetben a 48. § rendelkezéseit kell alkalmazni.
+(3) A szervezett földgázpiac első pozitív adózott eredménnyel lezárt üzleti évét követően a Hivatal évente megvizsgálja az engedélyes szervezett földgázpiac létrehozásával összefüggő befektetései megtérülésének alakulását. Ha a Hivatal megállapítja a befektetések megtérülését, határozatban kötelezi az engedélyest a részvényeinek, vagy a részvények egy részének elidegenítésére. Ez esetben a 48. § rendelkezéseit kell alkalmazni.
 
 (4)–(7)
 

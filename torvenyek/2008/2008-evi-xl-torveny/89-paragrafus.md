@@ -20,7 +20,7 @@
 
 a) a nyilvántartásba való felvételi kérelmét a hatóság részére benyújtja,
 
-b) a gázszerelők engedélyezéséről és nyilvántartásáról szóló jogszabály szerinti, a gáz csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálatára jogosító engedéllyel rendelkezik,
+b) a gáz csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálatára jogosultak nyilvántartásában szerepel,
 
 c) az engedély megszerzésétől számított legalább egy éves szakmai gyakorlattal rendelkezik, és
 

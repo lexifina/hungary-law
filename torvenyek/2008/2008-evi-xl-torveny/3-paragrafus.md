@@ -74,7 +74,7 @@
 
 28. Földgáz-kiskereskedelem: e törvény III. Fejezete vonatkozásában az a tevékenység, amelynek során a földgázkereskedő a földgázt közvetlenül a felhasználónak adja el.
 
-29. Földgázipari tevékenység: e törvényben szabályozott engedélyköteles tevékenység.
+29. Földgázipari tevékenység: e törvényben szabályozott engedély- vagy bejelentésköteles tevékenység.
 
 30. Földgázipari vállalkozás: gazdálkodó szervezet, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett külföldi vállalkozás és annak belföldön bejegyzett fióktelepe, amely legalább egy földgázipari tevékenységet folytat.
 
@@ -104,7 +104,7 @@
 
 a) Vertikálisan integrált vállalkozás: olyan földgázipari vállalkozás vagy vállalkozások csoportja, amelyek irányítására közvetlenül vagy közvetve ugyanazon személy vagy személyek jogosultak, és ahol a földgázipari vállalkozás vagy vállalkozáscsoport a földgázszállítás, a földgázelosztás vagy a földgáztárolás mellett egyidejűleg a földgáztermelés és a földgáz-kereskedelem közül legalább az egyik tevékenységet végzi, vagy arra engedéllyel rendelkezik. A vertikálisan integrált vállalkozás részének minősül az említett vállalkozás vagy vállalkozások csoportja felett közvetlen irányítást gyakorló személy vagy személyek is.
 
-b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás, amely a földgáztermelést, vagy az e törvény szerinti engedélyköteles tevékenységek közül legalább az egyik tevékenységet végzi, valamint egyéb nem földgázipari tevékenységet is folytat.
+b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás, amely a földgáztermelést, vagy az e törvény szerinti engedély- vagy bejelentésköteles tevékenységek közül legalább az egyik tevékenységet végzi, valamint egyéb nem földgázipari tevékenységet is folytat.
 
 41a. Irányítás: a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendelet 3. cikk (2) bekezdésében meghatározott kapcsolat.
 
