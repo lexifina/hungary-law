@@ -1,1 +1,0 @@
-## 3. § A termőföldre vonatkozó elővásárlási és előhaszonbérleti jog gyakorlásával összefüggő igazgatási szolgáltatási díjról szóló 55/2006. (VII. 27.) FVM rendelet melléklete Mánfa Község Önkormányzata számlaszámának vonatkozásában e rendelet 3. számú melléklete szerint módosul.

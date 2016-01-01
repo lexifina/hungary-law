@@ -1,1 +1,0 @@
-## 1. § A szőlészeti és borászati adatszolgáltatás rendjéről és a nem hegyközségi településeken a közigazgatási feladatokat ellátó hegyközségek meghatározásáról szóló 96/2004. (VI. 3.) FVM rendelet 4. számú melléklete helyébe e rendelet 1. számú melléklete lép.
