@@ -1,11 +1,3 @@
-## NEGYEDIK RÉSZ
-
-## ZÁRÓ RENDELKEZÉSEK
-
-## X. Fejezet
-
-## A TÖRVÉNY HATÁLYBALÉPÉSE ÉS VÉGREHAJTÁSA
-
 ## 48. Értelmező rendelkezések
 
 80. § E törvény és a honvédelmet érintő jogszabályok alkalmazásában
