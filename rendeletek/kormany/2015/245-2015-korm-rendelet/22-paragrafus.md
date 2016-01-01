@@ -1,14 +1,14 @@
-## 16–21. §[^3]
+## 16–21. §[^4]
 
 ## 22. § Hatályát veszti a Rendelet
 
-a)–b)[^4]
+a) 2. § (1) bekezdés a) pont aa) alpontjában a „lakásfenntartási támogatásban,” szövegrész,
+
+b) 2. § (4) bekezdés a) pont aa) alpontjában az „a lakásfenntartási támogatásra vagy” szövegrész,
 
 c)[^5]
 
-d)[^6]
+d) 10/E. § (2) bekezdés a) pont aa) alpontjában a „lakásfenntartási támogatásban vagy” szövegrész.
 
-[^3]: A 16–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 22. § a)–b) pontja a 23. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^4]: A 16–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 22. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 22. § d) pontja a 23. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
