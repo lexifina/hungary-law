@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-168-20-
 | 2015-01-01 | 1997-168-20-22.56 | 354/2010. (XII. 30.) Korm. rendelet |
 | 2015-03-27 | 1997-168-20-22.57 | 58/2015. (III. 24.) Korm. rendelet |
 | 2015-04-01 | 1997-168-20-22.58 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-01-01 | 1997-168-20-22.59 | 420/2015. (XII. 23.) Korm. rendelet |

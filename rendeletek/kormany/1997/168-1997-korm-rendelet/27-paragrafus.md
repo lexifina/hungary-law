@@ -1,3 +1,3 @@
-27. §[^67]
+27. §[^68]
 
-[^67]: A 27. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja hatályon kívül helyezte.
+[^68]: A 27. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja hatályon kívül helyezte.

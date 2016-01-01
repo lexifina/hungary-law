@@ -1,7 +1,15 @@
-61. §[^97] A Tny. 47. §-a (1) bekezdésének és (2) bekezdése c) pontjának alkalmazásánál
+61. §[^100] (1) A Tny. 47. § (1) bekezdésének és (2) bekezdés c) pontjának alkalmazása során
 
-a) a gyermek fogyatékosságát a fogyatékossági támogatásra vonatkozó rendelkezések alkalmazásával kell megállapítani,
+a) az a tizennyolcadik életévét be nem töltött árva minősül tartósan betegnek vagy fogyatékosnak, akire tekintettel magasabb összegű családi pótlék jár,
 
-b) a gyermek tartósan fennálló betegségét a családi pótlékra irányadó szabályok alkalmazásával szakorvosi igazolással kell igazolni.
+b) az a tizennyolcadik életévét betöltött árva minősül tartósan betegnek vagy fogyatékosnak,
 
-[^97]: A 61. § a 70/2015. (III. 30.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+ba) aki megváltozott munkaképességű,
+
+bb) aki fogyatékossági támogatásra jogosult, vagy
+
+bc) akire tekintettel magasabb összegű családi pótlék jár.
+
+(2) Ha az árva tartós betegsége, fogyatékossága már nem áll fenn, az erre tekintettel megállapított özvegyi nyugdíjat, ideiglenes özvegyi nyugdíjat a megszüntetésről szóló elsőfokú határozat keltét követő második hónap első napjától kell megszüntetni.
+
+[^100]: A 61. § a 420/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
