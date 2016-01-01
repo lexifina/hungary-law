@@ -24,7 +24,7 @@ d)[^39] a kárpótlási hatóságnak az üggyel kapcsolatos iratanyagát,
 
 e) az érintett gazdálkodó szervezet véleményét.
 
-(6)[^40] A földügyért felelős miniszter az ügyben a kérelem előterjesztését követő 30 napon belül határoz. Erről a kérelmezőt a kárpótlási hatóság értesíti.
+(6)[^40] A földügyért felelős miniszter az ügyben a kérelem előterjesztését követő 21 napon belül határoz. Erről a kérelmezőt a kárpótlási hatóság értesíti.
 
 [^31]: A Vhr. 24.§-a a 163/1993. (XI.30.) Korm. rendelet 3.§-ával megállapított szöveg.
 [^32]: A Vhr. 24. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 135. § b) pontja szerint módosított szöveg.
@@ -35,4 +35,4 @@ e) az érintett gazdálkodó szervezet véleményét.
 [^37]: A Vhr. 24. § (5) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 5. § e) és f) pontja szerint módosított szöveg.
 [^38]: A Vhr. 24. § (5) bekezdésének c) pontja a 182/2009. (IX. 10.) Korm. rendelet 23. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^39]: A Vhr. 24. § (5) bekezdés d) pontja, a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés m) pontja szerint módosított szöveg.
-[^40]: A Vhr. 24. §-ának (6) bekezdését a 124/1995. (X. 18.) Korm. rendelet 3. §-a iktatta be, szövege a 17/2002. (II. 18.) Korm. rendelet 11. §-ának (4) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés l) pontja, a 221/2014. (IX. 4.) Korm. rendelet 135. § b) pontja szerint módosított szöveg.
+[^40]: A Vhr. 24. §-ának (6) bekezdését a 124/1995. (X. 18.) Korm. rendelet 3. §-a iktatta be, szövege a 17/2002. (II. 18.) Korm. rendelet 11. §-ának (4) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés l) pontja, a 221/2014. (IX. 4.) Korm. rendelet 135. § b) pontja, a 441/2015. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
