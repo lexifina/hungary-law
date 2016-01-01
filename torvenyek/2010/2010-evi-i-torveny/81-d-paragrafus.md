@@ -15,3 +15,5 @@ f) a kárpótlási hatóság az életüktől és szabadságuktól politikai okb�
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 
 (3) Az okirat-nyilvántartásban kezelt adatok teljes körét jogosult közvetlen hozzáféréssel átvenni a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából a személyazonosság igazolására alkalmas hatósági igazolványt kiállító hatóság.
+
+(4) A személyazonosító igazolványt kiállító hatóság a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 16. § (3) bekezdése alapján kérelmezett személyazonosító igazolvány kiadása céljából, az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni a nemzetiséghez tartozó személy nevét nemzetiségi nyelven.
