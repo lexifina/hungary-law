@@ -22,7 +22,7 @@ c) további intézkedés megtétele érdekében feltartóztathatja.
 
 (5)[^16] A Főfelügyelőség a (3) bekezdésben foglalt intézkedéséről haladéktalanul értesíti a veszélyes hulladék szállítása esetén a hivatásos katasztrófavédelmi szerv központi szervét.
 
-(6)[^17] A Főfelügyelőségnek – a NAV Központi Hivatalának bevonásával – az illegális szállítások megelőzésének és felderítésének megkönnyítése érdekében rendszeresen együtt kell működnie a szomszédos országok illetékes hatóságaival, közös ellenőrzések szervezésével is.
+(6)[^17] A Főfelügyelőségnek – a NAV Központi Irányításának bevonásával – az illegális szállítások megelőzésének és felderítésének megkönnyítése érdekében rendszeresen együtt kell működnie a szomszédos országok illetékes hatóságaival, közös ellenőrzések szervezésével is.
 
 (7) A vámhatóság önállóan is jogosult a hulladékszállítmányok ellenőrzésére. E célból az ország területén a szállítmányokat megállíthatja, és a jogellenes hulladékszállítás gyanúja esetén a Főfelügyelőség egyidejű értesítése mellett a szállítmányt a Főfelügyelőség intézkedéséig visszatartja.
 
@@ -34,4 +34,4 @@ c) további intézkedés megtétele érdekében feltartóztathatja.
 [^14]: A 4. § (3) bekezdés nyitó szövegrésze a 441/2012. (XII. 29.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
 [^15]: A 4. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 102. § c) pontja szerint módosított szöveg.
 [^16]: A 4. § (5) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^17]: A 4. § (6) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (3) bekezdésével megállapított szöveg.
+[^17]: A 4. § (6) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (3) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
