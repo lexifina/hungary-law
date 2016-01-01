@@ -1,6 +1,6 @@
 43. § (1) A jogalap nélkül felvett ellátás visszafizetésére kötelező határozatot az a szerv hozza, amely a jogalap nélkül felvett ellátást folyósította.
 
-(2) A jogalap nélkül felvett ellátást elsősorban a még folyósított ellátásból kell levonni. Ha a jogalap nélkül felvett ellátási formából már nem történik folyósítás, úgy a jogalap nélkül felvett ellátás összege bármely folyósított ellátás összegéből levonható. A levonás a folyósított ellátás harminchárom százalékát nem haladhatja meg.
+(2) A jogalap nélkül felvett ellátást elsősorban a még folyósított ellátásból kell levonni. Ha a jogalap nélkül felvett ellátási formából már nem történik folyósítás, akkor a jogalap nélkül felvett ellátás összege bármely folyósított ellátás összegéből levonható. Az együtt élő szülők háztartásában élő gyermekre tekintettel folyósított, jogalap nélkül felvett családtámogatási ellátás bármelyik szülő részére folyósított ellátásból levonható.
 
 (3) A levonást a visszafizetésre kötelező határozat jogerőre emelkedése után lehet megkezdeni. A levonással meg nem térült, illetőleg a túlfizetés összegére tekintettel csak hosszabb idő alatt megtérülő követelés összegét az ellátást igénybe vevő keresetéből is le lehet vonni.
 

@@ -8,7 +8,7 @@ b)
 
 c)
 
-d) kereső tevékenység: munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység, továbbá szövetkezet tagjaként vagy egyéni vállalkozóként, illetőleg társas vállalkozás vagy egyéni cég tagjaként folytatott – személyes közreműködést igénylő – tevékenység;
+d) kereső tevékenység: munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység;
 
 e) szociális intézmény: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben (a továbbiakban: Szt.) szabályozott ápolást-gondozást, rehabilitációt, valamint átmeneti elhelyezést nyújtó bentlakásos intézmény;
 
@@ -18,7 +18,7 @@ fa) az a tizennyolc évesnél fiatalabb gyermek, aki a külön jogszabályban me
 
 fb) az a tizennyolc évesnél idősebb személy, aki a tizennyolcadik életévének a betöltése előtt munkaképességét legalább 67%-ban elvesztette, legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek egészségi állapota a rehabilitációs hatóság minősítése alapján a tizennyolcadik életévének a betöltése előtt sem haladja meg az 50%-os mértéket, és ez az állapot legalább egy éve tart, vagy előreláthatólag legalább egy évig fennáll;
 
-g) nevelőszülő: az a személy, aki nevelőszülői foglalkoztatási jogviszonya keretében saját háztartásában gondozza a gyámhatóság jogerős határozatával nála elhelyezett, átmeneti vagy tartós nevelésbe vett gyermeket és az utógondozói ellátásban részesülő fiatal felnőttet;
+g) nevelőszülő: az a személy, aki nevelőszülői foglalkoztatási jogviszonya keretében saját háztartásában gondozza a gyámhatóság jogerős határozatával nála elhelyezett, nevelésbe vett gyermeket és az utógondozói ellátásban részesülő fiatal felnőttet;
 
 h)
 

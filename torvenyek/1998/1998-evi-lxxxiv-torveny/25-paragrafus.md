@@ -4,4 +4,4 @@
 
 (2) Ha a szülők egyidejűleg több gyermek után lennének jogosultak a gyermekgondozási támogatás egyik vagy mindkét formájára, úgy a támogatást – ide nem értve a (3) bekezdés szerinti esetet – csak egy jogcímen, és csak az egyik szülő részére lehet megállapítani.
 
-(3) Gyermekgondozási segélyre való jogosultság egyidejűleg legfeljebb két gyermekre tekintettel állhat fenn azzal, hogy e bekezdés alkalmazásában az egyazon várandósságból született ikergyermekeket egy gyermeknek kell tekinteni.
+(3) Gyermekgondozást segítő ellátásra való jogosultság egyidejűleg legfeljebb két gyermekre tekintettel állhat fenn azzal, hogy e bekezdés alkalmazásában az egyazon várandósságból született ikergyermekeket egy gyermeknek kell tekinteni.

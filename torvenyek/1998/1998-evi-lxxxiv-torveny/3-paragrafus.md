@@ -1,6 +1,6 @@
 ## Alapelvek
 
-3. § (1) A családnak mint a társadalom alapvető egységének sokoldalú segítése, a családi élet biztonságának és a gyermekvállalás feltételeinek javítása az állam egyik legfontosabb feladata.
+3. § (1) A családnak mint Magyarország legfontosabb nemzeti erőforrásának és a magyar társadalom alapvető egységének a sokoldalú segítése, a családi élet biztonságának, a gyermekvállalás feltételeinek, valamint a család és a munka összeegyeztetésének javítása az állam egyik legfontosabb feladata.
 
 (2) A gyermek gondozásához, neveléséhez nyújtott ellátás célja a gyermek egészséges, harmonikus fejlődésének, testi, szellemi, erkölcsi gyarapodásának kiteljesítése.
 

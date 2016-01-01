@@ -5,3 +5,5 @@
 a) ha az ellátás iránti igényt családtámogatási kifizetőhely bírálja el,
 
 b) a fővárosi és megyei kormányhivatal hiánypótlásra való felszólítása alapján, a családi pótlékban részesülő, azonban az (1) bekezdés szerinti adatszolgáltatásban nem szereplő gyermek, illetve személy esetében.
+
+(3) A felsőoktatási intézményben tanulmányokat folytatók hallgatói jogviszonyának fennállásáról és annak megszűnéséről a kormány által az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv adatot szolgáltat a fővárosi és megyei kormányhivatal részére. Az adatok átadásának módjáról az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv és a családtámogatási ellátásokkal kapcsolatos fellebbezések elbírálására jogosult hatóság megállapodást köt.

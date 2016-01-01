@@ -10,7 +10,7 @@ ab) iskoláztatási támogatás (8. §);
 
 b) gyermekgondozási támogatás
 
-ba) gyermekgondozási segély (20. §),
+ba) gyermekgondozást segítő ellátás (20. §),
 
 bb) gyermeknevelési támogatás (23. §);
 

@@ -2,9 +2,17 @@
 
 (2) Az ellátás folyósításáról az igényelbíráló szerv gondoskodik.
 
-(3) Az ellátást – a (4) bekezdésben szabályozott eltéréssel – utólag, a tárgyhónapot követő hónap 10. napjáig, fizetési számlára utalás esetében 3. napjáig kell folyósítani. A folyósított és át nem vett ellátás ismételt folyósítását az igényelbíráló szerv a jogosult kérelme alapján, – ha a folyósítás sikertelensége a jogosult érdekkörében fennálló okra vezethető vissza – az ellátás ismételt folyósításával kapcsolatos költségek legfeljebb jogszabályban meghatározott mértékének ellátásból történő levonásával teljesíti.
+(3) Az ellátást – a (4) és (4a) bekezdésben szabályozott eltéréssel – utólag, a tárgyhónapot követő hónap 10. napjáig, fizetési számlára utalás esetében 3. napjáig kell folyósítani. A folyósított és át nem vett ellátás ismételt folyósítását az igényelbíráló szerv a jogosult kérelme alapján, – ha a folyósítás sikertelensége a jogosult érdekkörében fennálló okra vezethető vissza – az ellátás ismételt folyósításával kapcsolatos költségek legfeljebb jogszabályban meghatározott mértékének ellátásból történő levonásával teljesíti.
 
 (4) Az anyasági támogatás iránti kérelmet az igényelbíráló szerv a kérelem megérkezését követő naptól számított nyolc napon belül elbírálja, a jogosultság megállapítása esetén a támogatást fizetési számlára vagy kifizetési utalványon kiutalja.
+
+(4a) A fővárosi és megyei kormányhivatal az augusztus hónapra járó ellátást a tárgyhónapban,
+
+a) postai úton (kifizetési utalvánnyal) történő kifizetés esetén augusztus 24-éig,
+
+b) fizetési számlára utalás esetén augusztus 26-áig
+
+folyósítja.
 
 (5) Ha a gyámhatóság a családi pótlék természetbeni nyújtását rendeli el, a fővárosi és megyei kormányhivatal a gyámhatóság határozatában foglaltak szerint intézkedik az ellátásnak az e célból számára a kincstárnál megnyitott családtámogatási folyószámlára történő utalásáról.
 

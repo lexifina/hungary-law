@@ -1,4 +1,4 @@
-22. § A családtámogatási ellátásokkal kapcsolatos fellebbezések elbírálására jogosult hatóság vezetője méltányossági jogkörben eljárva – a 27. §-ban foglalt rendelkezések figyelembevételével – a gyermekgondozási segélyre való jogosultságot
+22. § A családtámogatási ellátásokkal kapcsolatos fellebbezések elbírálására jogosult hatóság vezetője méltányossági jogkörben eljárva – a 27. §-ban foglalt rendelkezések figyelembevételével – a gyermekgondozást segítő ellátásra való jogosultságot
 
 a) megállapíthatja a gyermeket nevelő személynek, ha a gyermek szülei a gyermek nevelésében három hónapot meghaladóan akadályoztatva vannak;
 

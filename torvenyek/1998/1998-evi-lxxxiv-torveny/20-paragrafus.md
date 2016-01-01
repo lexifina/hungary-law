@@ -1,6 +1,6 @@
-## Gyermekgondozási segély
+## Gyermekgondozást segítő ellátás
 
-20. § (1) Gyermekgondozási segélyre jogosult a szülő – ideértve a kiskorú szülőt a 11. § (4) bekezdésében meghatározott esetben –, a nevelőszülői foglalkoztatási jogviszony keretében nem vér szerinti gyermeket nevelő gyám kivételével a gyám a saját háztartásában nevelt
+20. § (1) Gyermekgondozást segítő ellátásra jogosult a szülő – ideértve a kiskorú szülőt a 11. § (4) bekezdésében meghatározott esetben –, valamint a gyám – ide nem értve a gyermekvédelmi gyámot és a kizárólag egyes gyámi feladatok ellátására kirendelt nevelőszülőt – a saját háztartásában nevelt
 
 a) gyermek 3. életévének betöltéséig,
 

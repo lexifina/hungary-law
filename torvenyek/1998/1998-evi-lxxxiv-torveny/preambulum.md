@@ -1,1 +1,1 @@
-Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségtől vezérelve az Alaptörvényben, továbbá a nemzetközi egyezményekben rögzített szociális jogok érvényre juttatása érdekében a következő törvényt alkotja:
+Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért és jól-létéért, valamint a magyar népesedéspolitikai célok megvalósításáért érzett felelősségétől vezérelve, az Alaptörvényben és a családok védelméről szóló törvényben foglaltak érvényre juttatása érdekében a következő törvényt alkotja:
