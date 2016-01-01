@@ -1,4 +1,4 @@
-## 50. §[^26]
+## 50. §[^25]
 
 1. melléklet a 162/2015. (VI. 30.) Korm. rendelethez
 
@@ -50,4 +50,4 @@ Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezide
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
 
-[^26]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
