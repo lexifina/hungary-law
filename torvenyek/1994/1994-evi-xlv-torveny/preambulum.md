@@ -1,1 +1,3 @@
+[A vastag betűs szedés az 1994. évi XLV. törvény (a továbbiakban: Hdt.), a normál betűs szedés a végrehajtásáról szóló 113/1994. (VIII. 31.) Korm. rendelet (a továbbiakban: R.) szövege.]
+
 Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. törvény rendelkezésének —, tisztelettel emlékezve meg a hadiesemények során tanúsított példás helytállás következtében hősi halált halt, vagy megrokkant katonákról, polgári lakosokról és ezek hozzátartozóiról, elismerve, hogy hadieredetű veszteségek a jelenben és a jövőben is bekövetkezhetnek — figyelemmel a nemzetgazdaság korlátozott teherbíró képességére is — gondoskodása jeléül a következő törvényt alkotja:

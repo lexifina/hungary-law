@@ -1,3 +1,5 @@
+## „R. 3. § A Hdt. 5. § (1) bekezdése és 7/A. § (1) bekezdése alkalmazásában Magyarország területe alatt Magyarországnak – az államforma megnevezésétől függetlenül – a katonai szolgálatra történő behívó kiadmányozása, kézbesítése, valamint a bevonulás napján érvényes államterülete értendő.”
+
 ## A hadigondozásra jogosultság kizárása és megszűnése, egyes nemzeti gondozottak hadigondozottá történő átminősítése
 
 8. § (1) Nem jogosult hadigondozásra:
