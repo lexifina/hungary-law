@@ -1,0 +1,3 @@
+## 9. § Az R. 5. §-a a következő (14) bekezdéssel egészül ki:
+
+## „(14) Ha a helyi önkormányzatnál a támogatott védekezési, helyreállítási vagy katasztrófavédelmi szúnyoggyérítéssel összefüggő kiadások tekintetében előzetesen felszámított általános forgalmi adó merül fel, akkor a támogatás összegének fedezetet kell biztosítania a támogatottra áthárított vagy az általa fizetendő általános forgalmi adó teljes összegére nézve, kivéve, ha a támogatott a rá áthárított vagy a termék beszerzése, a szolgáltatás igénybevétele után általa fizetendő adóként megállapított általános forgalmi adó levonására jogosult.”
