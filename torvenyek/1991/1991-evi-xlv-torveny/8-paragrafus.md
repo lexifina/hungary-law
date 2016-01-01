@@ -8,7 +8,7 @@ a) az adott mérőeszközre vonatkozó jogszabály ezt kifejezetten megengedi, v
 
 b) a mérőeszköz a 6. § (4) bekezdése alapján került hazai forgalomba.
 
-(3) A hitelesítési engedély iránti eljárásban az ügyintézési határidő két hónap.
+(3) A hitelesítési engedély iránti eljárásban az ügyintézési határidő negyvenöt nap.
 
 (4) A hitelesítési engedély megszerzéséről a mérőeszköz belföldi forgalomba hozója, vagy ha ez nem állapítható meg egyértelműen, a mérőeszköz felhasználója tartozik gondoskodni.
 
