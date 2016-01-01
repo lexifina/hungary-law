@@ -4,7 +4,7 @@
 
 ## szakvélemények
 
-21. §[^45] (1)[^46] A fogyatékos személyek, illetve a pszichiátriai és szenvedélybetegek bentlakásos intézményébe történő felvétel, valamint a pszichiátriai betegek nappali ellátásának igénybevétele iránti kérelemhez mellékelni kell az igénybe vevő szakorvosának, kezelőorvosának szakvéleményét.
+21. §[^45] (1)[^46] A fogyatékos személyek, illetve a pszichiátriai és szenvedélybetegek bentlakásos intézményébe történő felvétel, valamint a pszichiátriai és szenvedélybetegek nappali ellátásának igénybevétele iránti kérelemhez mellékelni kell az igénybe vevő szakorvosának, kezelőorvosának szakvéleményét.
 
 (2)[^47] A fogyatékos személyek nappali ellátásának igénybevétele iránti kérelemhez mellékelni kell a fogyatékosság fennállását igazoló,
 
@@ -28,10 +28,13 @@ b) bentlakásos intézményi ellátás esetén a demencia kórkép legalább kö
 
 (6)[^50] A támogatott lakhatásra az (1) és a (3) bekezdést alkalmazni kell, azzal, hogy a fogyatékos személyek, illetve a pszichiátriai és szenvedélybetegek bentlakásos intézménye alatt támogatott lakhatást kell érteni.
 
+(7)[^51] Ha a szenvedélybetegek nappali ellátását igénylő személy nem rendelkezik az (1) bekezdés szerinti szakvéleménnyel, a szolgáltatást részére a kérelem benyújtásától számított három hónapig átmeneti jelleggel szakvélemény hiányában is biztosítani kell.
+
 [^44]: A 20. §-t a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének f) pontja hatályon kívül helyezte.
 [^45]: A 21. § a 10/2006. (XII. 27.) SZMM rendelet 9. §-ával megállapított szöveg.
-[^46]: A 21. § (1) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 2. §-ával megállapított, a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés a) pont aa) alpontja szerint módosított szöveg.
+[^46]: A 21. § (1) bekezdése a 9/2009. (IV. 11.) SZMM rendelet 2. §-ával megállapított, a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés a) pont aa) alpontja, az 55/2015. (XI. 30.) EMMI rendelet 15. § b) pontja szerint módosított szöveg.
 [^47]: A 21. § (2) bekezdését a 92/2008. (IV. 23.) Korm. rendelet 14. § (6) bekezdés a) pont ab) alpontja hatályon kívül helyezte, újonnan a 35/2009. (XII. 30.) SZMM rendelet 5. §-a iktatta be.
 [^48]: A 21. § (3) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
 [^49]: A 21. § (5) bekezdése a 27/2010. (XII. 30.) NEFMI rendelet 6. §-ával megállapított szöveg.
 [^50]: A 21. § (6) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 3. §-a iktatta be.
+[^51]: A 21. § (7) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 13. §-a iktatta be.
