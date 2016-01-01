@@ -1,3 +1,1 @@
-## 7. §[^2]
-
-[^2]: A 7. § a 6. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## 7. § A Korm. rendelet 1. melléklet V. Büntetés-végrehajtási szervezet című táblázat B:16 mezőjében a „Bv.” szövegrész helyébe a „Büntetés-végrehajtási” szöveg lép.
