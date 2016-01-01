@@ -1,0 +1,3 @@
+## 2. § Az R. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az építési engedély a jogerőssé és végrehajthatóvá válásának napjától számított három évig hatályos. A hatályossága alatt, ha az építési tevékenységet – az építési napló megnyitásával igazoltan – megkezdték, akkor az építési tevékenység megkezdésétől számított öt éven belül az építménynek használatbavételi engedély megadására vagy használatbavétel tudomásulvételére alkalmassá kell válnia. Az építési engedély hatályát az építtető kérelmére az építésügyi hatóság az 52. §-ban meghatározott feltételek teljesülése esetén hosszabbítja meg.”
