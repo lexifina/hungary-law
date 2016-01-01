@@ -1,11 +1,9 @@
-25. § (1) Az érmegyártó a saját üzemében készült érmet és féldomborművű lapot annak peremén az alábbi jelzésekkel látja el:
+25. §[^14] (1) Az érmét és féldomborművet a névjel használatára jogosult készítő, javító vagy kereskedő köteles azzal a névjellel ellátni, amelynek használatát részére a hatóság engedélyezte.
 
-a) az aranyból készülteket a nap jelképével,
+(2) Az (1) bekezdés szerinti jelzésen felül a tárgy peremébe az ezredrészben kifejező finomsági számjelet valamint az alábbi jelzéseket kell elhelyezni:
 
-b) az ezüstből készülteket a hold jelképével,
+a) a platinából készült tárgyakon a Pt betűket,
 
-c) a platinából készülteket Pt. betűkkel,
+b) a palládiumból készült tárgyakon a Pd betűket.
 
-d) a palládiumból készülteket Pd betűkkel.
-
-(2) Az (1) bekezdés szerinti jelzésen felül a tárgy peremébe be kell ütni a finomságot és névjelet.
+[^14]: A 25. § a 35/2015. (XII. 23.) NGM rendelet 9. § (6) bekezdésével megállapított szöveg.

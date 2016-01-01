@@ -18,14 +18,14 @@ cd) amelyet a fémjelzés után bármi módon súlyosabbá tettek, valamint
 
 d) minden olyan nyilvántartásra, szabályzatra és árukészletre, amelyből ellenőrizhető, hogy a készítő, a javító, az árverező, valamint a kereskedő a tevékenységére vonatkozó jogszabályi előírásokat betartja-e.
 
-(3) Ha a hatóság az ellenőrzés során jogszabálysértést állapít meg, a jogsértés súlyát, ismételtségét, és az ellenőrzés alá vont eljárást segítő együttműködő magatartását, valamint az eset összes körülményét figyelembe véve a jogsértés megállapítása mellett
+(3)[^4] Ha a hatóság az ellenőrzés során jogszabálysértést állapít meg, a jogsértés súlyát, ismételtségét, az ellenőrzés alá vont eljárást segítő együttműködő magatartását, valamint az eset összes körülményét figyelembe véve a jogsértés megállapítása mellett
 
-a) felhívja az ellenőrzött személyt a nemesfém tárgyakra vonatkozó jogszabályi előírások megtartására;
+a) felhívja az ellenőrzött személyt a nemesfém tárgyakra vonatkozó jogszabályi előírások megtartására,
 
-b) a tevékenységet a jogsértés megszüntetéséig felfüggeszti;
+b) megtiltja a jogszabályi előírásokba ütköző tevékenység végzését, vagy
 
-c) a tevékenység folytatására jogosító engedélyt visszavonja; vagy
-
-d) szabálysértési vagy büntetőeljárás megindítását kezdeményezi.
+c) szabálysértési vagy büntetőeljárás megindítását kezdeményezi.
 
 (4) A hatóság a (3) bekezdés szerinti intézkedéseket együttesen is alkalmazhatja.
+
+[^4]: A 3. § (3) bekezdése a 35/2015. (XII. 23.) NGM rendelet 9. § (3) bekezdésével megállapított szöveg.

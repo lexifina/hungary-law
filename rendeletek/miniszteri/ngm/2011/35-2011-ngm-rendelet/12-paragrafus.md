@@ -6,6 +6,6 @@
 
 (4) A fémjelet alkalmazni kell magán a nemesfém tárgyon, továbbá lehetőleg alkatrészein és díszítésein is. A nemesfém tárgyon alkalmazandó fémjel, a névjel, továbbá az egyéb jel elhelyezésének helyét a 3. melléklet határozza meg.
 
-(5)[^1] Magyarország területén forgalmazott, fémjelzési kötelezettség alá tartozó nemesfém tárgyon a fémjelen, a hatóság jelén, a névjelen, a finomságjelen, valamint idegen anyaggal kitöltött üreges nemesfém tárgy esetében a nemesfémötvözet grammtömegét jelző számon kívül további jelzésként alkalmazható a készítők, illetve az iparművészek által használt mesterjel.
+(5)[^6] Magyarország területén forgalmazott, fémjelzési kötelezettség alá tartozó nemesfém tárgyon a fémjelen, a hatóság jelén, a névjelen, a finomságjelen, valamint idegen anyaggal kitöltött üreges nemesfém tárgy esetében a nemesfémötvözet grammtömegét jelző számon kívül további jelzésként alkalmazható a készítők, illetve az iparművészek által használt mesterjel.
 
-[^1]: A 12. § (5) bekezdése a 25/2012. (VIII. 23.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
+[^6]: A 12. § (5) bekezdése a 25/2012. (VIII. 23.) NGM rendelet 19. § a) pontja szerint módosított szöveg.

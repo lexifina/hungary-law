@@ -1,35 +1,31 @@
-2. § (1) A hatóság az engedély megadásával egyidejűleg a készítőt, a javítót, az árverezőt, valamint a kereskedőt nyilvántartásba veszi. A nyilvántartás tartalmazza:
+2. §[^3] (1) Amennyiben a vállalkozás megfelel a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény, valamint e rendeletben előírt követelményeknek, a hatóság a vállalkozót hivatalból nyilvántartásba veszi. A nyilvántartás tartalmazza
 
-a) a nyilvántartási számot,
+a) a nyilvántartásba vétel számát,
 
-b) a nyilvántartásba vétel időpontját,
+b) a bejelentés, illetve a nyilvántartásba vétel időpontját,
 
-c) a készítő, a javító, az árverező, valamint a kereskedő nevét,
+c) a vállalkozás nevét, vezető tisztségviselőinek a nevét,
 
-d) a készítő, a javító, az árverező, valamint a kereskedő tevékenységét,
+d) a vállalkozás tevékenységét,
 
-e) a készítő, a javító, az árverező, valamint a kereskedő cégjegyzékszámát, illetve egyéni vállalkozói nyilvántartási számát,
+e) a vállalkozás adószámát, cégjegyzékszámát, illetve egyéni vállalkozói nyilvántartási számát,
 
-f) a készítő, a javító, az árverező, valamint a kereskedő székhelyét, azon magyarországi telephelyének, műhelyének címét, ahol a rendelet hatálya alá tartozó tevékenységet folytat, illetve kereskedelmi tevékenység esetében a g) pontban meghatározott tevékenység folytatásának címét,
+f) a készítő, a javító, az árverező, valamint a kereskedő székhelyét, azon magyarországi telephelyének, műhelyének címét, ahol a rendelet hatálya alá tartozó tevékenységet folytat, illetve kereskedelmi tevékenység esetében a h) pontban meghatározott tevékenység folytatásának címét,
 
-g) kereskedelmi tevékenység esetében a kereskedelmi tevékenység formáját a Kertv. 3. § (4) bekezdése szerint,
+g) a vállalkozás elektronikus levelezési címét, valamint telefonszámát,
 
-h) az engedélyezett névjel adatát,
+h) kereskedelmi tevékenység esetében a kereskedelmi tevékenység formáját a Kertv. 3. § (4) bekezdése szerint,
 
-i) a hatósági ellenőrzés megállapításait, valamint
+i) az engedélyezett névjel adatát,
 
-j) a nyilvántartásból való törlés tényét és annak időpontját.
+j) a hatósági ellenőrzés megállapításait, valamint
 
-(2) A hatóság a készítő, a javító, az árverező, illetve a kereskedő engedélyét visszavonja, és egyidejűleg nevének és névjelének kivételével a nyilvántartásból törli, ha
+k) a nyilvántartásból való törlés tényét és annak időpontját.
 
-a) az engedély megadásának feltételei már nem állnak fenn,
+(2) Az (1) bekezdés szerint nyilvántartásba vett vállalkozás a nyilvántartásba vett adatokban bekövetkezett változást, és működése megszűnését köteles haladéktalanul a hatóságnak bejelenteni.
 
-b) a készítő, a javító, az árverező, valamint a kereskedő működését megszüntette, vagy
+(3) A vállalkozás a Szolgtv. 28. §-a szerinti nyilvántartásából történő törlését követő tizenöt napon belül köteles a névjel beütésére szolgáló eszközt megsemmisítés céljából a hatóságnak átadni.
 
-c) ha jogszabálysértés miatt a 3. § (3) bekezdés c) pontja szerinti jogkövetkezmény alkalmazására kerül sor.
+(4) A hatóságnál vezetett hatósági nyilvántartás alapján az (1) bekezdés a)–f), h), i) és k) pontjában meghatározott adatokat a hatóság a Kormányzati Portálon keresztül is elérhető honlapján folyamatos frissítéssel közzéteszi.
 
-(3) Az (1) bekezdés szerint nyilvántartásba vett készítő, javító, árverező, valamint kereskedő a nyilvántartásba vett adatokban bekövetkezett változást, és működése megszűnését köteles haladéktalanul a hatóságnak bejelenteni.
-
-(4) A készítő, a javító, az árverező, valamint a kereskedő az engedély visszavonása és a nyilvántartásából történő törlését követő 15 napon belül köteles a névjel beütésére szolgáló eszközt megsemmisítés céljából a hatóságnak átadni.
-
-(5) A hatóságnál vezetett hatósági nyilvántartás alapján az (1) bekezdésben meghatározott adatokat – az (1) bekezdés i) pontjában meghatározott adatok kivételével – a hatóság a Kormányzati Portálon keresztül is elérhető honlapján folyamatos frissítéssel, valamint a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben negyedévente közzéteszi.
+[^3]: A 2. § a 35/2015. (XII. 23.) NGM rendelet 9. § (2) bekezdésével megállapított szöveg.

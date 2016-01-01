@@ -1,23 +1,19 @@
 ## A fémjelzési kötelezettség alá tartozó nemesfém tárgyak fémjelei Magyarországon
 
-## Hatóságjel
+| Hivataljel (Hatóság jele) |
 
-## (Hatóság jele)
+| Platina tárgyakra |
 
-## platina tárgyakra
+| Palládium tárgyakra |
 
-## Ezredrész
+| Arany tárgyakra |
 
-## arany tárgyakra
+| Ezüst tárgyakra |
 
-## ezredrész
+2. melléklet a 35/2011. (IX. 14.) NGM rendelethez[^17]
 
-## ezüst tárgyakra
+A nemesfémtárgyak ellenőrzéséről és jelöléséről szóló, Bécsben, 1972. november 15.
 
-## ezredrész
+napján aláírt Egyezmény szerinti Közös Ellenőrző Jel (CCM) alakja és rajza
 
-## palládium tárgyakra
-
-## 950 ezredrész
-
-2. melléklet a 35/2011. (IX. 14.) NGM rendelethez
+[^17]: A 2. melléklet a 35/2015. (XII. 23.) NGM rendelet 9. § (9) bekezdésével megállapított szöveg.
