@@ -1,7 +1,10 @@
-## 50. § A Kormány a hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználása engedélyezésére irányuló elsőfokú eljárásban – a felszín alatti vizek minőségének védelme kérdésében – a területi vízvédelmi hatóságot vízvédelmi szakhatóságként jelöli ki.
+## 50. §[^14]
 
 ## 51. § A Kormány a szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti elsőfokú eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti elsőfokú eljárásban
 
-a) – a vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatával kapcsolatos szakkérdésben – a népegészségügyi feladatkörében eljáró járási hivatalt,
+a)[^15]
 
 b) – a talajvédelmi tervnek és a tervezett tevékenységnek a felszín alatti vizek minősége védelme követelményeinek való megfelelősége kérdésében, továbbá annak elbírálása kérdésében, hogy a szennyvíziszap mezőgazdasági felhasználása során 5 méteren belüli talajvízszint esetén a talajvízszint figyelemmel kísérése érdekében szükséges-e észlelőkút létesítése – a területi vízvédelmi hatóságot
+
+[^14]: Az 50. §-t a 441/2015. (XII. 28.) Korm. rendelet 247. § c) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^15]: Az 51. § a) pontját a 441/2015. (XII. 28.) Korm. rendelet 247. § d) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

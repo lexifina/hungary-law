@@ -28,9 +28,9 @@ ch) a földalatti gomba gyűjtésére vonatkozó jogszabályban meghatározott f
 
 ci) az Országos Erdőkár Nyilvántartást.
 
-(2a)[^2] A Kormány a fás szárú energetikai ültetvények telepítésével, megszüntetésével és ellenőrzésével kapcsolatos feladatok ellátására az erdészeti jogkörében eljáró megyei kormányhivatalt jelöli ki.
+(2a)[^3] A Kormány a fás szárú energetikai ültetvények telepítésével, megszüntetésével és ellenőrzésével kapcsolatos feladatok ellátására az erdészeti jogkörében eljáró megyei kormányhivatalt jelöli ki.
 
-(3)[^3] A megyei kormányhivatal erdészeti igazgatási feladatai körében
+(3)[^4] A megyei kormányhivatal erdészeti igazgatási feladatai körében
 
 a) a jogszabályban előírt egyeztetési és tájékoztatási feladatok ellátása mellett összeállítja a körzeti erdőterv rendeletekre vonatkozó javaslatokat;
 
@@ -70,9 +70,9 @@ valamint a részükre kiadott tanúsítványról és gyűjtési naplóról szól
 
 hj) az Országos Erdőkár Nyilvántartást;
 
-i)[^4] a körzeti erdőtervezés keretében elvégzi az erdőgazdálkodás Natura 2000 területére gyakorolt hatásainak vizsgálatát;
+i)[^5] a körzeti erdőtervezés keretében elvégzi az erdőgazdálkodás Natura 2000 területére gyakorolt hatásainak vizsgálatát;
 
-j)[^5] ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe utal.
+j)[^6] ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe utal.
 
 (4) Az Evt. 58. § (2) és (3) bekezdésében foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a megyei kormányhivatalt jelöli ki.
 
@@ -82,7 +82,7 @@ j)[^5] ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatköréb
 
 (7) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 22. § (2) bekezdésében foglaltak tekintetében a Kormány erdészeti hatóságként az erdőterület fekvése szerint illetékes megyei kormányhivatalt jelöli ki.
 
-[^2]: A 12. § (2a) bekezdését a 177/2015. (VII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^3]: A 12. § (3) bekezdése a 116/2015. (V. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A 12. § (3) bekezdés i) pontja a 177/2015. (VII. 7.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^5]: A 12. § (3) bekezdés j) pontját a 177/2015. (VII. 7.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^3]: A 12. § (2a) bekezdését a 177/2015. (VII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^4]: A 12. § (3) bekezdése a 116/2015. (V. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 12. § (3) bekezdés i) pontja a 177/2015. (VII. 7.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^6]: A 12. § (3) bekezdés j) pontját a 177/2015. (VII. 7.) Korm. rendelet 6. § (3) bekezdése iktatta be.

@@ -1,0 +1,3 @@
+## 29/A. §[^10] A szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti elsőfokú eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti eljárásban a népegészségügyi feladatkörében eljáró járási hivatal szakkérdésként vizsgálja a vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, valamint a vizek felhasználhatóságát befolyásoló körülményeket, tényezőket.
+
+[^10]: A 29/A. §-t a 441/2015. (XII. 28.) Korm. rendelet 245. § (1) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

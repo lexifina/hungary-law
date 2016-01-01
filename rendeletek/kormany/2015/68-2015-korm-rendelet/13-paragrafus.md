@@ -2,8 +2,10 @@
 
 (2) Amennyiben a vadászterület két vagy több megyei kormányhivatal illetékességi területén található, az az illetékes, amelynek területén a vadászterület nagyobbik hányada található.
 
-(3) A Vtv. 19. § (1) bekezdésében meghatározott, a vadászterület határának megállapítására irányuló hatósági eljárásban az ügyintézési határidő két hónap.
+(3)[^7]
 
 (4) A Vtv. 35. § (2) bekezdésében és 91. §-ában foglaltak tekintetében a Kormány élelmiszerlánc-biztonsági és állat-egészségügyi hatóságként a megyei kormányhivatalt jelöli ki.
 
 (5) Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 4. § (2) bekezdés b) pontjában, 16. § (6) bekezdésében, 19. § (1) bekezdésében, 20. § (4) bekezdésében, 22. § (3) és (4) bekezdésében, 25. § (4) és (5) bekezdésében, valamint 26. § (7) bekezdésében foglaltak tekintetében a Kormány vadászati hatóságként a megyei kormányhivatalt jelöli ki.
+
+[^7]: A 13. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 247. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
