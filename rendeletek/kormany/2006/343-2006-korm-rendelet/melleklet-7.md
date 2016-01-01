@@ -1,4 +1,4 @@
-7. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^84]
+7. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^85]
 
 |  |  | A |  | B |
 
@@ -44,4 +44,4 @@
 
 | 21. |  | Zala megye területén |  | Somogy Megyei Kormányhivatal |
 
-[^84]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 91. § (10) bekezdése iktatta be.
+[^85]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 91. § (10) bekezdése iktatta be.

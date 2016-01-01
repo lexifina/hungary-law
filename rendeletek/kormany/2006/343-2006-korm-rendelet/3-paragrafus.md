@@ -2,7 +2,7 @@
 
 ## Az építésfelügyeleti hatóság
 
-3. §[^18] (1) A Kormány építésfelügyeleti hatósági feladatokra – a (2) és (3) bekezdésben foglalt kivétellel –
+3. §[^18] (1)[^19] A Kormány építésfelügyeleti hatósági feladatokra – a (2) és a (3) bekezdésben, valamint az OAH r.-ben foglalt kivétellel –
 
 a) első fokon az 1. melléklet I. és II. részében meghatározott járási hivatalt (a továbbiakban együtt: első fokú építésfelügyeleti hatóság) az 1. melléklet I. és II. részében felsorolt járásokra, fővárosi kerületekre kiterjedő illetékességgel,
 
@@ -20,3 +20,4 @@ b) másodfokon a Budapest Főváros Kormányhivatalát országos illetékességg
 
 [^17]: A 2/C. §-t a 177/2010. (V. 13.) Korm. rendelet 10. § (3) bekezdése iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 43. § d) pontja.
 [^18]: A 3. § a 70/2015. (III. 30.) Korm. rendelet 91. § (4) bekezdésével megállapított szöveg.
+[^19]: A 3. § (1) bekezdés nyitó szövegrésze a 207/2015. (VII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

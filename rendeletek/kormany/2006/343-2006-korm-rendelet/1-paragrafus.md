@@ -1,6 +1,18 @@
 ## Az építésügyi hatóság
 
-1. §[^1] (1)[^2] A Kormány – a (2)–(4) bekezdésben meghatározott építésügyi hatósági ügyek, a sajátos építményfajták és a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározott hatósági ügyek, valamint a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet 1. § (1) bekezdés d) pontjában meghatározott építmények hatósági ügyeinek kivételével – az első fokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként (a továbbiakban: első fokú építésügyi hatóság) az építmények, építési tevékenységek tekintetében a járásszékhely települési önkormányzat jegyzőjét és a fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki. A járásszékhely települési önkormányzat jegyzőjének illetékessége a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 66/2015. (III. 30.) Korm. rendelet 1. mellékletében meghatározott településekre terjed ki.
+1. §[^1] (1)[^2] A Kormány
+
+1. a (2)–(4) bekezdésben meghatározott építésügyi hatósági ügyek,
+
+2. a sajátos építményfajták,
+
+3. a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározott hatósági ügyek,
+
+4. a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet 1. § (1) bekezdés d) pontjában meghatározott építmények hatósági ügyeinek, valamint
+
+5. az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendeletben (a továbbiakban: OAH r.) meghatározott építésügyi hatósági ügyek
+
+kivételével az első fokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként (a továbbiakban: első fokú építésügyi hatóság) az építmények, építési tevékenységek tekintetében a járásszékhely települési önkormányzat jegyzőjét és a fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki. A járásszékhely települési önkormányzat jegyzőjének illetékessége a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 66/2015. (III. 30.) Korm. rendelet 1. mellékletében meghatározott településekre terjed ki.
 
 (2)[^3] A Kormány
 
@@ -22,7 +34,7 @@ f) a közigazgatási hatósági eljárás és szolgáltatás általános szabál
 
 (4)[^5] A Kormány a fővárosban – az (1) bekezdésben meghatározott feladatok mellett – az Étv. rendelkezései alapján a helyi építészeti értékvédelem alá vont építmények esetében az első fokú építésügyi hatósági feladatok ellátására a fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki.
 
-(5)[^6] A Kormány a másodfokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként, – a sajátos építményfajták, valamint a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározottak valamint a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet 1. § (1) bekezdés d) pontjában meghatározott építmények hatósági ügyeinek, továbbá az (5a) és a (6) bekezdés kivételével – az építésügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt (a továbbiakban: másodfokú építésügyi hatóság) jelöli ki.
+(5)[^6] A Kormány a másodfokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként, – a sajátos építményfajták, valamint a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendeletben, az OAH r.-ben meghatározottak, valamint a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet 1. § (1) bekezdés d) pontjában meghatározott építmények hatósági ügyeinek, továbbá az (5a) és a (6) bekezdés kivételével – az építésügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt (a továbbiakban: másodfokú építésügyi hatóság) jelöli ki.
 
 (5a)[^7] A Kormány a másodfokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként a 7. melléklet szerinti fővárosi és megyei kormányhivatalt jelöli ki, ha a fővárosi és megyei kormányhivatal szakhatóságként az első fokú építésügyi hatóság eljárásában eljárt.
 
@@ -45,11 +57,11 @@ d) az építésügyi hatósági eljárás illetékének és az építésügyi ig
 e) települési önkormányzati egyéb műszaki, üzemeltetési feladatok.
 
 [^1]: Az 1. § a 394/2012. (XII. 20.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése a 358/2013. (X. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 168/2015. (VI. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése a 207/2015. (VII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 91. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 91. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (4) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 21. §-a szerint módosított szöveg.
-[^6]: Az 1. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 91. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 91. § (2) bekezdésével megállapított, a 207/2015. (VII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (5a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 91. § (3) bekezdése iktatta be.
 [^8]: Az 1. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 2. § (5) bekezdés a) pontja hatályon kívül helyezte, újonnan a 38/2015. (III. 11.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 91. § (2) bekezdésével megállapított szöveg.
 [^9]: Az 1. § (8) bekezdése a 358/2013. (X. 9.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
