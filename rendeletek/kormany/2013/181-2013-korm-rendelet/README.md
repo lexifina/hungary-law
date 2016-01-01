@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-181-20-
 | 2013-11-29 | 2013-181-20-22.3 | 453/2013. (XI. 28.) Korm. rendelet |
 | 2013-11-30 | 2013-181-20-22.4 | 453/2013. (XI. 28.) Korm. rendelet |
 | 2014-03-15 | 2013-181-20-22.5 | 53/2014. (III. 3.) Korm. rendelet |
+| 2016-01-01 | 2013-181-20-22.6 | 486/2015. (XII. 29.) Korm. rendelet |

@@ -24,7 +24,7 @@ c) a dohányboltban öltöző nem található.
 
 1.4. Ha az üzlethelyiség részekre bontás nélkül mozgó vagy mozgatható, akkor nem felel meg a Tv. 3. § 8. pontjában meghatározottaknak. Így különösen nem felel meg ennek a követelménynek – jellegénél fogva – a lakóautó, az irodakonténer, a konténer (ezeknek bármilyen, akár több konténerből összeillesztett formája) akkor sem, ha azt egy adott helyhez rögzítik.
 
-1.5.[^6] A dohánytermékek kiskereskedelmi értékesítése – ide nem értve a Tv. által lehetővé tett kivételes dohányértékesítési lehetőséget (mozgóbolt) – kizárólag
+1.5.[^7] A dohánytermékek kiskereskedelmi értékesítése – ide nem értve a Tv. által lehetővé tett kivételes dohányértékesítési lehetőséget (mozgóbolt) – kizárólag
 
 a) a dohánybolt üzletterében, vagy
 
@@ -34,9 +34,9 @@ A b) alpont alkalmazásában az elkülönített hely akkor minősül térben lev
 
 1.6. A Tv. 12. § (1) bekezdés a) pontjában meghatározott „Nemzeti Dohánybolt” feliratot az önállóan működtetett üzlethelyiség bejárata felett és/vagy annak kültéri felületén kell – legalább egy helyen – jól látható módon elhelyezni. Az elkülönített helyen a Tv. 12. § (3) bekezdése értelmében szükséges jelzéseket az elkülönítést biztosító térelválasztón kell feltüntetni úgy, hogy az az üzletből látható legyen.
 
-1.7.[^7] Az 1.5. pont b) alpont alkalmazásában a dohánytermék fizikai átadására minden esetben az elkülönített helyen belül kerülhet csak sor; adott esetben – ha az üzlet üzemeltetője és a koncesszió jogosultja ugyanazon személy – az értékesítés más elemei (pl. az áru pénztárgépben való rögzítése) történhetnek az üzlethelyiség más részében is.
+1.7.[^8] Az 1.5. pont b) alpont alkalmazásában a dohánytermék fizikai átadására minden esetben az elkülönített helyen belül kerülhet csak sor; adott esetben – ha az üzlet üzemeltetője és a koncesszió jogosultja ugyanazon személy – az értékesítés más elemei (pl. az áru pénztárgépben való rögzítése) történhetnek az üzlethelyiség más részében is.
 
-2.[^8] A dohánybolt elhelyezkedésével kapcsolatos különös szabályok
+2.[^9] A dohánybolt elhelyezkedésével kapcsolatos különös szabályok
 
 2.1. Dohánybolt nem működhet másik dohánybolt bármely bejáratától számított 200 méteres távolságon belül.
 
@@ -64,6 +64,6 @@ c) a b) alpontban meghatározott területből bármely célból vagy jogcímen l
 
 2.7. Amennyiben a dohánybolt (elkülönített hely) a vámhatósági engedély megszerzésekor hatályos jogszabályoknak megfelelő módon és helyen került kialakításra, de az egyébként nem felel meg a 2.5., illetve a 2.6. pontban foglaltaknak, úgy e helyen dohánytermék-kiskereskedelmi tevékenységet legfeljebb 2014. május 30-ig lehet folytatni.
 
-[^6]: Az 1. melléklet 1.5. pontja a 244/2013. (VI. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^7]: Az 1. melléklet 1.7. pontja a 244/2013. (VI. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^8]: Az 1. melléklet 2. pontját a 453/2013. (XI. 28.) Korm. rendelet 5. §-a iktatta be.
+[^7]: Az 1. melléklet 1.5. pontja a 244/2013. (VI. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet 1.7. pontja a 244/2013. (VI. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet 2. pontját a 453/2013. (XI. 28.) Korm. rendelet 5. §-a iktatta be.
