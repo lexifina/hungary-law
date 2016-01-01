@@ -1,6 +1,6 @@
-## 38. §[^29]
+## 38. §[^30]
 
-1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^30]
+1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^31]
 
 ……………………………………….
 
@@ -234,5 +234,5 @@ P. H.
 
 ** A felesleges szövegrészek kihúzandók!
 
-[^29]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: Az 1. melléklet a 24/2013. (XII. 20.) HM rendelet 24. § c)–d) pontja, a 4/2014. (III. 20.) HM rendelet 8. § b)–c) pontja szerint módosított szöveg.
+[^30]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: Az 1. melléklet a 24/2013. (XII. 20.) HM rendelet 24. § c)–d) pontja, a 4/2014. (III. 20.) HM rendelet 8. § b)–c) pontja szerint módosított szöveg.
