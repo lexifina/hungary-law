@@ -8,7 +8,7 @@ b) a nyomtatványellátás biztosításának módját, az értékesítés felté
 
 c) a pályázatok benyújtásának helyét, módját és pontos határidejét;
 
-d) a részletes tájékoztató (pl. a pályázat kiírása időpontjában hatályos egyes nyomtatványfajták éves szintű értékesítésének becsült mennyisége, az egyes nyomtatványfajták terjedelme, technológiai, minőségi követelményei, a pályázati felhívásban megjelölt kötelező tartalmi elemek további részletezése, a nyomtatványok APEH által ajánlott eladási ára, a feladat ellátásához szükséges gazdasági és műszaki követelményeknek való megfelelőség igazolásának módja) rendelkezésre bocsátása helyét, idejét;
+d)[^6] a részletes tájékoztató (pl. a pályázat kiírása időpontjában hatályos egyes nyomtatványfajták éves szintű értékesítésének becsült mennyisége, az egyes nyomtatványfajták terjedelme, technológiai, minőségi követelményei, a pályázati felhívásban megjelölt kötelező tartalmi elemek további részletezése, a nyomtatványok NAV által ajánlott eladási ára, a feladat ellátásához szükséges gazdasági és műszaki követelményeknek való megfelelőség igazolásának módja) rendelkezésre bocsátása helyét, idejét;
 
 e) a pályázatra vonatkozó kérdések felvetésének, az esetleges további információszerzés helyének megjelölését;
 
@@ -27,3 +27,5 @@ fe) az arra való utalást, hogy a pályázati kiírás a jelen rendelet előír
 g) a nyertes pályázó ajánlati kötöttségének időtartamát.
 
 (3) A pályázat akkor érvényes, ha megfelel a pályázati kiírásban és a részletes tájékoztatóban meghatározott tartalmi és formai követelményeknek, és tartalmazza a pályázó kifejezett nyilatkozatát a felhívás feltételeire, a szerződés teljesítésére.
+
+[^6]: A 4. § (2) bekezdés d) pontja a 486/2015. (XII. 29.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

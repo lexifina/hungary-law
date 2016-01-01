@@ -1,4 +1,4 @@
-3. § (1)[^2] A pályázaton olyan belföldi székhelyű, bejegyzett gazdasági társaság vehet részt, amely
+3. § (1)[^5] A pályázaton olyan belföldi székhelyű, bejegyzett gazdasági társaság vehet részt, amely
 
 a) a pályázat kiírását megelőző legalább két teljes naptári éven át működött, és
 
@@ -14,4 +14,4 @@ bb) szerepel a köztartozásmentes adózói adatbázisban.
 
 (4) A pályázat benyújtásának határideje a pályázat kiírását követő 60. nap.
 
-[^2]: A 3. § (1) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 32. §-ával megállapított szöveg.
