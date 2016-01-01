@@ -38,7 +38,7 @@ b) a tevékenységet végző egészségügyi dolgozók vonatkozásában a műkö
 
 (9) A személyes közreműködés tényét az (5) bekezdés szerinti egészségügyi államigazgatási szerv az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló rendelet alapján vezetett nyilvántartásban rögzíti.
 
-(10) A bejelentés nyilvántartásba vételéről az (5) bekezdés szerinti egészségügyi államigazgatási szerv 30 napon belül értesítést küld a bejelentő egészségügyi szolgáltató részére.
+(10)[^70] A bejelentés nyilvántartásba vételéről az (5) bekezdés szerinti egészségügyi államigazgatási szerv értesítést küld a bejelentő egészségügyi szolgáltató részére.
 
 (11) Az egészségügyi államigazgatási szerv a bejelentés szerinti adatokat és a közreműködői szerződést megvizsgálja. Ha a bejelentésben foglalt tevékenység nem felel meg az egészségügyi szolgáltatás személyes közreműködés keretében történő gyakorlására vonatkozó szabályoknak, az államigazgatási szerv a személyes közreműködő nyilvántartásba vételét elutasítja.
 
@@ -46,3 +46,4 @@ b) a tevékenységet végző egészségügyi dolgozók vonatkozásában a műkö
 
 [^68]: A 12/A. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
 [^69]: A 12/A. § (6) bekezdés g) pontja a 364/2014. (XII. 30.) Korm. rendelet 57. § d) pontja szerint módosított szöveg.
+[^70]: A 12/A. § (10) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 48. § b) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

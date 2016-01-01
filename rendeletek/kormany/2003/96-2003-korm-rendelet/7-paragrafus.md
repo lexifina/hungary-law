@@ -32,7 +32,7 @@ c)[^33] ha az a) pont szerinti fekvőbeteg-szakellátást nyújtó, valamint fek
 
 (9)[^42] Változó helyszínen végzett és mozgó egészségügyi szolgáltatás esetén a szolgáltató a székhelyétől vagy telephelyétől eltérő helyszínen végzett tevékenységét 5 nappal korábban írásban köteles bejelenteni a helyszín szerinti járási hivatalnak, amely jogosult helyszíni ellenőrzést tartani.
 
-(10)[^43] Az (1) bekezdés, a 14. § (1) bekezdése, a 15/A. §, a 16. § (2) bekezdése, valamint a 19. § szerinti eljárásokban az ügyintézési határidő harminc nap.
+(10)[^43]
 
 [^27]: A 6/B. §-t a 25/2004. (II. 26.) Korm. rendelet 4. §-a iktatta be, szövege a 308/2009. (XII. 28.) Korm. rendelet 8. §-ával megállapított, az 520/2013. (XII. 30.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
 [^28]: A 7. § a 351/2010. (XII. 30.) Korm. rendelet 104. § (3) bekezdésével megállapított szöveg.
@@ -50,4 +50,4 @@ c)[^33] ha az a) pont szerinti fekvőbeteg-szakellátást nyújtó, valamint fek
 [^40]: A 7. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 30. § (4) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés b) és c) pontja szerint módosított szöveg.
 [^41]: A 7. § (8) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be.
 [^42]: A 7. § (9) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^43]: A 7. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 57. § c) pontja szerint módosított szöveg.
+[^43]: A 7. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 27. § (2) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 48. § a) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
