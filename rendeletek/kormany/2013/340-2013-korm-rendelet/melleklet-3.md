@@ -40,7 +40,7 @@
 
 | A beteg által a külföldi gyógykezelésre választott intézmény [figyelemmel a külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 2. § (2) bekezdésére]: Intézmény országa: Ellátó orvos: Ellátás becsült költsége: Egyéb releváns tény: |
 
-| SZAKMAI ADATOK (KEZELŐORVOS TÖLTI KI) |
+| SZAKMAI ADATOK (kezelőorvos tölti ki, ha az alapul szolgáló vizsgálat óta 1 hónap eltelt és az egészségügyi dokumentációból ezek az adatok nem derülnek ki) |
 
 | A kérelemhez csatolt egészségügyi dokumentumok száma: |  |
 

@@ -14,6 +14,8 @@ e) az ETT felülvizsgálati kérelmet támogató vagy elutasító döntéseinek 
 
 f) a 7. § (3) bekezdése szerinti megtérítések száma,
 
-g) a 8. § (4) és (5) bekezdése szerint benyújtott kérelmek száma és tárgya, valamint a 8. § szerinti megtérítések száma, és
+g)[^18] a 8. § (4) bekezdése szerint benyújtott kérelmek száma és tárgya, valamint a 8. § szerinti megtérítések száma, és
 
 h) a 9. § (7) és (8) bekezdése szerinti megtérítések száma.
+
+[^18]: A 17. § g) pontja a 413/2015. (XII. 23.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.

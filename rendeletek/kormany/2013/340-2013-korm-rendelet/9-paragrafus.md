@@ -1,10 +1,10 @@
 ## 4. Külföldi gyógykezelés méltányosságból
 
-9. § (1)[^5] Ha az OEP a külföldi gyógykezelés iránti kérelem beérkezésétől számított 8 napon belül megállapította, hogy az ellátás Magyarországon a társadalombiztosításba nem befogadott, ennek megjelölésével a kérelmet és az egészségügyi dokumentációt elektronikus úton továbbítja az Egészségügyi Szakmai Kollégium ügyben illetékes tagozatának (a továbbiakban: Tagozat) az ügy orvosszakmai megítélését szolgáló 5. melléklet kitöltése érdekében. A külföldön történő gyógykezelés indokoltságáról szóló szakmai javaslat meghozatalában nem vehet részt a Tagozat azon tagja, aki a beteg kezelőorvosaként vagy a kezelésben előzőleg részt vevő orvosként a beteg kezelésében részt vett.
+9. § (1)[^9] Ha az OEP a külföldi gyógykezelés iránti kérelem beérkezésétől számított 8 napon belül megállapította, hogy az ellátás Magyarországon a társadalombiztosításba nem befogadott, ennek megjelölésével a kérelmet és az egészségügyi dokumentációt elektronikus úton továbbítja az Egészségügyi Szakmai Kollégium ügyben illetékes tagozatának (a továbbiakban: Tagozat) az ügy orvosszakmai megítélését szolgáló 5. melléklet kitöltése érdekében. A külföldön történő gyógykezelés indokoltságáról szóló szakmai javaslat meghozatalában nem vehet részt a Tagozat azon tagja, aki a beteg kezelőorvosaként vagy a kezelésben előzőleg részt vevő orvosként a beteg kezelésében részt vett.
 
 (2) A Tagozat az (1) bekezdés szerinti dokumentumok beérkezésétől számított 15 napon belül megvizsgálja a külföldi gyógykezelés indokoltságát, valamint megállapítja, hogy az ellátás szakmailag elfogadott-e és reális egészségnyereséggel jár-e, figyelembe véve a külföldi gyógykezelésre jogosult személy egészségi állapotát és betegségének várható lefolyását. A külföldi gyógykezelés akkor jár reális egészségnyereséggel, ha a beteg egészségi állapotának jelentős javulását vagy romlásának csökkenését eredményezi.
 
-(3)[^6] A Tagozat a külföldi gyógykezelésre jogosult személytől, hozzátartozójától vagy kezelőorvosától további dokumentumokat kérhet be. A Tagozat az 5. melléklet szerinti orvosszakmai véleményét a rendelkezésre álló iratok és a beteg szükség szerinti vizsgálata alapján, a (2) bekezdés szerinti határidőben adja meg, és egyidejűleg megküldi az OEP-nek.
+(3)[^10] A Tagozat a külföldi gyógykezelésre jogosult személytől, hozzátartozójától vagy kezelőorvosától további dokumentumokat kérhet be. A Tagozat az 5. melléklet szerinti orvosszakmai véleményét a rendelkezésre álló iratok és a beteg szükség szerinti vizsgálata alapján, a (2) bekezdés szerinti határidőben adja meg, és egyidejűleg megküldi az OEP-nek.
 
 (4) Ha a Tagozat az 5. melléklet szerint azt állapítja meg, hogy a külföldi gyógykezelés szakmailag elfogadott, de annak elvégzése a külföldi gyógykezelésre jogosult személy esetén nem jár reális egészségnyereséggel, vagy az ellátás szakmailag nem elfogadott, akkor az OEP a kérelmet a Tagozat véleményének beérkezésétől számított 5 napon belül elutasítja.
 
@@ -16,9 +16,9 @@ b) így a költségek hatékonyabb felhasználását eredményezi, vagy
 
 c) így reális egészségnyereség-többletet eredményez.
 
-(6)[^7] Ha az OEP-nek a Tagozat szakmai javaslatával kapcsolatban fenntartása van vagy a Tagozat véleménye nem egyértelmű, akkor ezek tisztázása érdekében azt felülvizsgálat céljából 3 napon belül megküldi az Egészségügyi Szakmai Kollégium elnökségének. Az Egészségügyi Szakmai Kollégium elnöksége – ha indokoltnak tartja a felülvizsgálati eljárás során további információ bekérését, akkor annak tartalmát és módját meghatározva és dokumentálva – az 5. melléklet alapján új javaslatot készít, amelyben 5 napon belül előadja orvosszakmai véleményét, és azt egyidejűleg megküldi az OEP-nek. Az Egészségügyi Szakmai Kollégium elnöksége a megadott határidőben nyilatkozhat arról is, hogy a Tagozat szakmai javaslatával egyetért.
+(6)[^11] Ha az OEP-nek a Tagozat szakmai javaslatával kapcsolatban fenntartása van vagy a Tagozat véleménye nem egyértelmű, akkor ezek tisztázása érdekében azt felülvizsgálat céljából 3 napon belül megküldi az Egészségügyi Szakmai Kollégium elnökségének. Az Egészségügyi Szakmai Kollégium elnöksége – ha indokoltnak tartja a felülvizsgálati eljárás során további információ bekérését, akkor annak tartalmát és módját meghatározva és dokumentálva – az 5. melléklet alapján új javaslatot készít, amelyben 5 napon belül előadja orvosszakmai véleményét, és azt egyidejűleg megküldi az OEP-nek. Az Egészségügyi Szakmai Kollégium elnöksége a megadott határidőben nyilatkozhat arról is, hogy a Tagozat szakmai javaslatával egyetért.
 
-(7)[^8] Az OEP – ha hiánypótlás nem szükséges – az 5. mellékletnek megfelelően kiadott javaslat beérkezésétől számított 8 napon belül dönt a külföldi gyógykezelés engedélyezéséről és a finanszírozás mértékéről az eset valamennyi körülményének figyelembevételével, valamint kiadja a 6. melléklet szerinti bírálati lapot. Az utazás és szükség esetén kísérő utazási költségei tekintetében az OEP – a beteg kérésének és a kezelőorvos javaslatának a figyelembevételével – méltányosságból támogatást nyújthat.
+(7)[^12] Az OEP – ha hiánypótlás nem szükséges – az 5. mellékletnek megfelelően kiadott javaslat beérkezésétől számított 8 napon belül dönt a külföldi gyógykezelés engedélyezéséről és a finanszírozás mértékéről az eset valamennyi körülményének figyelembevételével, valamint kiadja a 6. melléklet szerinti bírálati lapot. Az utazás és szükség esetén kísérő utazási költségei tekintetében az OEP – a beteg kérésének és a kezelőorvos javaslatának a figyelembevételével – méltányosságból támogatást nyújthat.
 
 (8) Az OEP a külföldi szakember meghívásos közreműködésével megvalósuló gyógykezeléseknél a támogatás megállapításakor a következő költségeket vállalhatja részben vagy egészben át:
 
@@ -32,10 +32,10 @@ c) a hazai, finanszírozási szerződéssel rendelkező egészségügyi szolgál
 
 (10) Ha a gyógykezelést végző külföldi egészségügyi szolgáltató igényli, a valamely EGT tagállam vagy Svájc területén letelepedett egészségügyi szolgáltatónál teljes térítéssel engedélyezett külföldi gyógykezelések esetén az OEP kiadja az uniós rendeletek szerinti jogosultság-igazolást.
 
-(11)[^9] Az e § szerinti eljárásban a 3. § (1) bekezdésében foglaltaktól sürgős szükség fennállása esetén akkor lehet eltérni, ha a külföldi gyógykezelésre jogosult személy, törvényes képviselője vagy az adott ellátásra beutalási jogosultsággal rendelkező kezelőorvosa a kérelmet a beavatkozás időpontja előtt benyújtotta.
+(11)[^13] Az e § szerinti eljárásban a 3. § (1) bekezdésében foglaltaktól sürgős szükség fennállása esetén akkor lehet eltérni, ha a külföldi gyógykezelésre jogosult személy, törvényes képviselője vagy az adott ellátásra beutalási jogosultsággal rendelkező kezelőorvosa a kérelmet a beavatkozás időpontja előtt benyújtotta.
 
-[^5]: A 9. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (1) bekezdésével megállapított szöveg.
-[^6]: A 9. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (2) bekezdésével megállapított szöveg.
-[^7]: A 9. § (6) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (3) bekezdésével megállapított szöveg.
-[^8]: A 9. § (7) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (3) bekezdésével megállapított szöveg.
-[^9]: A 9. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 105. §-a iktatta be.
+[^9]: A 9. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (1) bekezdésével megállapított szöveg.
+[^10]: A 9. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (2) bekezdésével megállapított szöveg.
+[^11]: A 9. § (6) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (3) bekezdésével megállapított szöveg.
+[^12]: A 9. § (7) bekezdése a 30/2015. (II. 25.) Korm. rendelet 94. § (3) bekezdésével megállapított szöveg.
+[^13]: A 9. § (11) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 105. §-a iktatta be.
