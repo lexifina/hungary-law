@@ -14,7 +14,7 @@ c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatároz
 
 (5) A földhasználó a 94. § (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett, az e törvény végrehajtására kiadott rendeletben meghatározott változásokat – ideértve a használat megszűnését is – 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: változás-bejelentési adatlap).
 
-(6) A földhasználati nyilvántartási eljárás a (2) és az (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg. A földhasználati nyilvántartási eljárásban az ügyintézési határidő 30 nap.
+(6) A földhasználati nyilvántartási eljárás a (2) és az (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg.
 
 (7) A Ket.-ben meghatározott közreműködő hatóság az eljárásban nem vehet részt.
 

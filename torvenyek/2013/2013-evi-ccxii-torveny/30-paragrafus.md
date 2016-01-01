@@ -1,4 +1,4 @@
-30. § (1) Az eljárás ügyintézési határideje 60 nap, amely kivételesen indokolt esetben, egy alkalommal, legfeljebb 30 nappal hosszabbítható meg.
+30. § (1) Az eljárás ügyintézési határideje 60 nap.
 
 (2) A Ket.-ben meghatározott eseteken túl az ügyintézési határidőbe nem számít be:
 

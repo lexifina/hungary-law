@@ -1,6 +1,6 @@
 36. § (1) Az eljárás felfüggesztésének nincs helye:
 
-a) az ügyfél erre irányuló kérelme alapján,
+a)
 
 b) ha a jogügyletben résztvevő természetes személy, gazdálkodó szervezet jogutódjának kiléte vitás.
 
