@@ -16,7 +16,7 @@ e) az egészségi állapot meghatározásának módszerére vonatkozó szabályo
 
 eléri vagy meghaladja a 40%-ot, közlekedési képessége a d4452, d4500, d4501 vagy d4702 FNO kódok szerint legalább súlyosan nehezített, és ezen állapota várhatóan legalább három éven keresztül fennáll.
 
-(3)[^43] Az (1) bekezdés szerinti szakkérdés vizsgálatában rehabilitációs szakértői szervként eljáró hivatal egyéb támogatás, mentesség, kedvezmény igénylése céljából, erre irányuló kérelem esetén szakvéleményt ad a közlekedőképességről is. Ha a rehabilitációs szakértői szerv a közlekedőképesség vizsgálatát más szerv megkeresésére végzi, szakvéleményét 60 napon belül adja ki. A szakvélemény a jogszabályban meghatározottakon túl tartalmazza
+(3)[^43] Az (1) bekezdés szerinti szakkérdés vizsgálatában rehabilitációs szakértői szervként eljáró hivatal egyéb támogatás, mentesség, kedvezmény igénylése céljából, erre irányuló kérelem esetén szakvéleményt ad a közlekedőképességről is. A szakvélemény a jogszabályban meghatározottakon túl tartalmazza
 
 a) a közlekedőképesség súlyos akadályozottságának fennállását vagy fenn nem állását,
 
@@ -31,6 +31,6 @@ b) a következő felülvizsgálat időpontját.
 [^40]: A 4/A. alcímet (8/A. §) a 61/2012. (III. 30.) Korm. rendelet 13. §-a iktatta be.
 [^41]: A 8/A. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (3) bekezdésével megállapított szöveg.
 [^42]: A 8/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (4) bekezdésével megállapított szöveg.
-[^43]: A 8/A. § (3) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 172. § (5) bekezdése szerint módosított szöveg.
+[^43]: A 8/A. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 139. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^44]: A 8/A. § (3a) bekezdését a 247/2015. (IX. 8.) Korm. rendelet 6. §-a iktatta be.
 [^45]: A 8/A. § (5) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
