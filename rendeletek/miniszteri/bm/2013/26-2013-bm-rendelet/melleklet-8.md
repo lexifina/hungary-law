@@ -1,6 +1,6 @@
-8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^44]
+8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^64]
 
-## Szervezeti működés teljesítménymutatói
+Szervezeti működés teljesítménymutatói
 
 I. A rendvédelmi feladatokat ellátó szervek vezetői tevékenységét értékelő teljesítménymutatók
 
@@ -14,19 +14,29 @@ I. A rendvédelmi feladatokat ellátó szervek vezetői tevékenységét érték
 
 5. az irányított szerv és a társszervek, együttműködő szervek, szervezetek, települési önkormányzatok kapcsolatának színvonala, eredményessége
 
-II. rendvédelmi feladatokat ellátó szervek funkcionális területeit értékelő teljesítménymutatók
+II. A rendvédelmi feladatokat ellátó szervek funkcionális területeit értékelő teljesítménymutatók
 
 1. humánerőforrás-gazdálkodás
 
 1.1. a szervezet fluktuációs helyzetének általános értékelése
 
-1.2. az állomány képesítési követelményeknek való megfelelése
+1.2. az állománytáblázattal összefüggő fegyelem megtartása
 
-1.3. a képzési terv végrehajtásának szintje
+1.3. a humán adminisztrációs feladatok teljesülésének szintje
 
-1.4. a humán adminisztrációs feladatok teljesülésének szintje, a munkáltatói intézkedések jogszerűsége, szakszerűsége
+1.4. a munkáltatói intézkedések jogszerűsége, szakszerűsége
 
-1.5. a foglalkozás-egészségügyi, munkavédelmi és higiénés tevékenység színvonala, eredményessége
+1.5. az egyéni teljesítményértékeléssel kapcsolatos szakirányítói tevékenység színvonala
+
+1.6. a fegyelmi eljárások, méltatlansági eljárások lefolytatásának törvényes rendje, a fegyelmi helyzet javítására tett intézkedések eredményessége, színvonala
+
+1.7. a foglalkozás-egészségügyi és pszichológiai szakterület jogszerű működésének biztosítása
+
+1.8. a foglalkozás-egészségügyi, higiénés tevékenység színvonala, eredményessége
+
+1.9. a személyi állomány egészségi és pszichológiai állapotának megőrzése, javítására irányuló intézkedések megtétele
+
+1.10. a munkavédelmi tevékenység színvonala, eredményessége
 
 2. általános igazgatási, hivatali, vezetést támogató tevékenység
 
@@ -44,11 +54,13 @@ II. rendvédelmi feladatokat ellátó szervek funkcionális területeit értéke
 
 2.7. ellenőrzési szolgálati tevékenység színvonala, eredményessége
 
+2.8. védelmi igazgatási tevékenység színvonala, eredményessége
+
 3. gazdálkodás, infrastruktúra
 
 3.1. költségvetési keretek betartása, likviditási egyensúly fenntartása
 
-3.2. jogszabályok betartásának ellenőrzése
+3.2. gazdálkodással kapcsolatos szabályzók betartásának ellenőrzése
 
 3.3. kiadások csökkentésére tett intézkedések, követelések behajtásának hatékonysága
 
@@ -57,6 +69,20 @@ II. rendvédelmi feladatokat ellátó szervek funkcionális területeit értéke
 3.5. személyi állomány foglalkoztatási feltételeinek állapota/fejlesztése
 
 3.6. informatikai szolgáltatás biztonsága és színvonala
+
+3.7. szolgálati célú szállítási szolgáltatások biztonsága és színvonala
+
+3.8. a kijelölt létesítmények őrzésével és a védett személy biztosításával kapcsolatos biztonságtechnikai háttérszolgáltatás biztonsága és színvonala
+
+4. oktatás-képzés
+
+4.1. az állomány képesítési követelményeknek való megfelelése
+
+4.2. a képzési terv végrehajtásának szintje
+
+4.3. az oktatások, képzések szervezése, színvonala, eredményessége
+
+4.4. a képzési dokumentációk összeállításának igényessége, hasznosíthatósága
 
 III. Az általános rendőrségi feladatok ellátására létrehozott szerv szakmai tevékenységét értékelő teljesítménymutatók
 
@@ -74,19 +100,33 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 1.6. csapaterős alkalmazás hatékonysága, reagáló képessége
 
-1.7.csapaterős alkalmazás jogszerűsége és szakszerűsége
+1.7. csapaterős alkalmazás jogszerűsége és szakszerűsége
 
-1.8. légi/vízi rendészeti tevékenység hatékonysága, szakszerűsége
+1.8. a biztosítási feladatok végrehajtásának szakmai színvonala
 
-1.9. tűzszerészeti terület tevékenységének szakszerűsége, biztonsági színvonala
+1.9. a szolgálatparancsnoki rendszer szervezettsége, működésének szakszerűsége, eredményessége
 
 2. közlekedésrendészeti terület
 
 2.1. közlekedési járőr szolgálat intenzitása és hatékonysága
 
-2.2. közlekedésrendészeti járőr-intézkedések eredményessége2.3 baleseti helyszínelési és vizsgálati tevékenység színvonala és eredményessége
+2.2. közlekedésrendészeti járőr-intézkedések eredményessége
 
-2.3. balesetmegelőzési-közlekedésbiztonsági szervező tevékenység színvonala
+2.3. baleseti helyszínelési és vizsgálati tevékenység színvonala és eredményessége
+
+2.4. balesetmegelőzési-közlekedésbiztonsági szervező tevékenység színvonala
+
+2.5. légi rendészeti tevékenység hatékonysága, szakszerűsége
+
+2.6. vízirendészeti járőrszolgálat intenzitása
+
+2.7. vízirendészeti intézkedések hatékonysága
+
+2.8. víziközlekedési balesetek száma, kimenetele
+
+2.9. víziközlekedési baleset megelőzési tevékenység hatékonysága, színvonala
+
+2.10. víziközlekedési ellenőrzések hatékonysága, intenzitása
 
 3. bűnügyi terület
 
@@ -104,11 +144,15 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 3.7. bűnmegelőzési tevékenység színvonala
 
-3.8. titkos együttműködőkkel összefüggő szakmai tevékenységek eredményessége
+3.8. titkos együttműködőkkel összefüggő szakmai tevékenységek eredménye
 
 3.9. műveleti feldolgozások eredményessége
 
 3.10. a keletkezett bűnügyi információk operatív értéke, hasznosulása
+
+3.11. a gazdaságvédelmi tevékenység szakszerűsége és hatékonysága
+
+3.12. a bűnügyi szakirányítási tevékenység színvonala, valamint a helyszíni bűnügyi tevékenység irányítása
 
 4. igazgatásrendészeti terület
 
@@ -118,9 +162,11 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 4.3. egyéb rendészeti, igazgatási ügyfeldolgozás hatékonysága, eredményessége
 
-4.4. hatósági ellenőrzési tevékenység intenzitása, eredményessége
+4.4. a hatósági ellenőrzési tevékenység intenzitása, eredményessége, előírás szerinti végrehajtása
 
 4.5. határidők betartása
+
+4.6. a szakirányítói tevékenység megfelelősége
 
 5. határrendészeti terület
 
@@ -134,6 +180,10 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 5.5. szolgálatszervezés színvonala
 
+5.6. az útlevélkezelői tevékenység színvonala, eredményessége
+
+5.7. idegenrendészeti intézkedések jogszerűsége, szakszerűsége, eredményessége
+
 6. személyvédelmi és objektumvédelmi terület
 
 6.1. személybiztosítás, lakásbiztosítás és helyszínbiztosítás színvonala és eredményessége
@@ -141,6 +191,14 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 6.2. a kijelölt létesítmények őrzésével és a védett személy biztosításával kapcsolatos rendkívüli események során alkalmazott intézkedések jogszerűsége, szakszerűsége
 
 6.3. a riasztás során tett intézkedések hatékonysága, szakszerűsége
+
+7. ügyeleti terület
+
+7.1. az ügyeleti jelentőszolgálat működtetésének színvonala
+
+7.2. az irányítási képesség szakszerűsége, színvonala
+
+7.3. az állampolgárokkal történő kommunikáció színvonala és az intézkedések szakszerűsége
 
 IV. A Terrorelhárítási Központ szakmai tevékenységét értékelő teljesítménymutatók
 
@@ -216,11 +274,9 @@ VI. A büntetés-végrehajtási szervezet szakmai tevékenységét értékelő t
 
 1.4. a rendkívüli eseményekkel összefüggő intézkedések eredményessége
 
-1.5. a tiltott tárgyak előtalálása érdekében tett intézkedések eredményessége
+1.5. a fogvatartottak fegyelmi helyzetének általános értékelése
 
-1.6. a fogvatartottak fegyelmi helyzetének általános értékelése
-
-2. reintegrációs tevékenység, komplex fogvatartotti foglalkoztatás, fejlesztés
+2. reintegrációs tevékenység, komplex fogvatartotti foglalkoztatás, fejlesztés, egészségügyi ellátás
 
 2.1. munkáltatás hatékonysága, eredményessége
 
@@ -230,15 +286,17 @@ VI. A büntetés-végrehajtási szervezet szakmai tevékenységét értékelő t
 
 2.4. társadalmi szerepvállalás értékelése
 
+2.5. a fogvatartottak egészségügyi ellátásának színvonala
+
 3. gazdasági társaságok
 
 3.1. a fogvatartottak teljes körű foglalkoztatásának érdekében tett intézkedések megvalósulásának szintje
 
-3.2 a gazdasági társaság biztonsági rendszere működtetésének hatékonysága
+3.2. a gazdasági társaság biztonsági rendszere működtetésének hatékonysága
 
-3.3. az értékesítés jövedelmezősége fokozásának eredményessége
+3.3. az értékesítés jövedelmezőségének alakulása
 
-3.4. az Európai Uniós pályázati lehetőségek kihasználásának eredményessége
+3.4. a társaság szakmunkás képzésben, OKJ-s képzésben való részvételének eredményessége
 
 VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékelő teljesítménymutatók
 
@@ -278,4 +336,4 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 5.3. ideiglenes intézkedések, felhívások, kötelezések, bírságok szakszerűsége, jogszerűsége
 
-[^44]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja szerint módosított szöveg.
+[^64]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja szerint módosított szöveg.

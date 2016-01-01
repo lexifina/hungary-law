@@ -1,6 +1,6 @@
 9. § (1) Amennyiben az ajánlott elemek alkalmazásának mellőzéséről döntöttek, a kötelező elemek és a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszintet az egyéni teljesítményszint meghatározásakor a (2)–(5) bekezdés szerinti súlyozott értékekkel kell figyelembe venni.
 
-(2)[^20] Az országos parancsnok, a területi és a helyi szerv vezetője, valamint az ezek szervezetszerű helyettesi beosztását ellátó értékelt személy esetén az egyes elemek súlyozása:
+(2)[^26] Az országos parancsnok, a területi és a helyi szerv vezetője, valamint az ezek szervezetszerű helyettesi beosztását ellátó értékelt személy esetén az egyes elemek súlyozása:
 
 a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 25%,
 
@@ -16,7 +16,7 @@ b) a teljesítményértékelés kötelező elemeként meghatározott kompetencia
 
 c) a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszint: 40%.
 
-(4) Az I. besorolási osztályba tartozó beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
+(4)[^27] A tiszti besorolási osztályba tartozó szolgálati beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
 
 a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 40%,
 
@@ -24,7 +24,7 @@ b) a teljesítményértékelés kötelező elemeként meghatározott kompetencia
 
 c) a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszint: 25%.
 
-(5) A II. besorolási osztályba tartozó beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
+(5)[^28] A tiszthelyettesi besorolási osztályba tartozó szolgálati beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
 
 a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 40%,
 
@@ -36,4 +36,6 @@ c) a szervezeti teljesítményértékelés eredményeként megállapított telje
 
 (7) A vezényelt vonatkozásában végrehajtott teljesítményértékelés során a szervezeti teljesítmény értékét – súlyszám hiányában – egyenlő arányban el kell osztani a munkaköri egyéni teljesítménykövetelmények és a kompetencia alapú munkamagatartás értékelése között.
 
-[^20]: A 9. § (2) bekezdés nyitó szövegrésze a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^26]: A 9. § (2) bekezdés nyitó szövegrésze a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^27]: A 9. § (4) bekezdés nyitó szövegrésze a 76/2015. (XII. 22.) BM rendelet 18. § h) pontja szerint módosított szöveg.
+[^28]: A 9. § (5) bekezdés nyitó szövegrésze a 76/2015. (XII. 22.) BM rendelet 18. § i) pontja szerint módosított szöveg.
