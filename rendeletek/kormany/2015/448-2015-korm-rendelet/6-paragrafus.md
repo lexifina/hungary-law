@@ -1,0 +1,1 @@
+## „(5) Az észrevételt a nemzetiségpolitikáért felelős miniszter (a továbbiakban: miniszter) megvizsgálja és a megalapozott észrevételeknek megfelelően dönt az (1) bekezdés szerinti pontszámokról. A támogató a módosított pontszámokat április 15-éig a honlapján közzéteszi.”
