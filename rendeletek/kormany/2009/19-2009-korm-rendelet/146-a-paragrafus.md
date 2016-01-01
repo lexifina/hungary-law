@@ -1,4 +1,4 @@
-146/A. §[^489] (1) A kiszervezés előzetes jóváhagyása iránti kérelemnek tartalmaznia kell:
+146/A. §[^490] (1) A kiszervezés előzetes jóváhagyása iránti kérelemnek tartalmaznia kell:
 
 a) a kiszervezendő tevékenységet és annak személyi, eszköz oldali feltételeit,
 
@@ -12,4 +12,4 @@ e) a tevékenység engedélyesen belüli végzésének a szerződés megszűnés
 
 (2) A kiszervezéssel érintett tevékenységek indokolt költségeinek hatósági árban történő figyelembevételénél a bemutatott költséghatékonyságot figyelembe kell venni.
 
-[^489]: A Vhr. 146/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^490]: A Vhr. 146/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 15. §-a iktatta be.
