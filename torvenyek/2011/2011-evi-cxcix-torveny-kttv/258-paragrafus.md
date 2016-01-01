@@ -21,3 +21,5 @@ c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielé
 (6) A munkavállaló a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
 
 (7) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény 71–76. §-a, 82–84. §-a, 158. § (1) és (3) bekezdése, valamint 159. §-a nem alkalmazható. Esetükben e törvény 67. §-át, 143. §-át, 146. §-át és 193–194. §-át kell alkalmazni.
+
+(8) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a 20. § (3)–(8) bekezdését, valamint 21. § (2a) bekezdését kell alkalmazni.

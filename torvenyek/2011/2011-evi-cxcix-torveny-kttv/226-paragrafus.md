@@ -28,7 +28,9 @@ d) a kormányzati érdekből történő kirendelés (55. §),
 
 e) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §),
 
-f) az összeférhetetlenségre vonatkozó 85. § (1) és (1a) bekezdés
+f) az összeférhetetlenségre vonatkozó 85. § (1) és (1a) bekezdés,
+
+g) az írásbeli jognyilatkozatok esetében a 20. § (8) bekezdése
 
 nem alkalmazható(k).
 
