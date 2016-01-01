@@ -4,6 +4,6 @@
 
 (2) A 9. § b) pontja 2010. szeptember 1-jén lép hatályba.
 
-(3)[^30]
+(3)[^31]
 
-[^30]: A 11. § (3) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése hatályon kívül helyezte.
+[^31]: A 11. § (3) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése hatályon kívül helyezte.

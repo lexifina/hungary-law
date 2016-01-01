@@ -32,13 +32,13 @@ m) az eljárás megindítására irányuló kérelemhez csatolandó mellékletek
 
 n) az eljárás során megfizetendő illetékek és igazgatási szolgáltatási díjak összegét, valamint a megfizetés módjait,
 
-o) az eljárás során az ügyfélre, az eljáró hatóságra és egyéb közreműködőkre vonatkozó határidőket és meghosszabbításuk jogszabályban biztosított eseteit,
+o)[^24] az eljárás során az ügyfélre, az eljáró hatóságra és egyéb közreműködőkre vonatkozó határidőket,
 
 p) az eljáráshoz kapcsolódó jogorvoslati, döntés felülvizsgálati lehetőségeket, kezdeményezésük módját, az azokban illetékes hatóságok megnevezését, és
 
 q) az eljárás során alkalmazott jogszabályok felsorolását.
 
-(2)[^24] A szabályozott szolgáltatási tevékenységek esetében a szabályozásért felelős miniszter az (1) bekezdésben foglaltakon túl, az (1) bekezdés szerinti feltételekkel készíti el, tartja naprakészen és az elektronikus tájékoztatásra vonatkozó szabályok szerint teszi közzé:
+(2)[^25] A szabályozott szolgáltatási tevékenységek esetében a szabályozásért felelős miniszter az (1) bekezdésben foglaltakon túl, az (1) bekezdés szerinti feltételekkel készíti el, tartja naprakészen és az elektronikus tájékoztatásra vonatkozó szabályok szerint teszi közzé:
 
 a) a szabályozott szolgáltatási tevékenység jogszabály szerinti megnevezését,
 
@@ -57,4 +57,5 @@ f) a szolgáltatási tevékenységet szabályozó jogszabályok felsorolását.
 [^21]: A 7. § (1) bekezdés g) pontja a 82/2012. (IV. 21.) Korm. rendelet 28. §-a szerint módosított szöveg.
 [^22]: A 7. § (1) bekezdés i) pontja a 82/2012. (IV. 21.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
 [^23]: A 7. § (1) bekezdés l) pontja a 82/2012. (IV. 21.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^24]: A 7. § (2) bekezdés nyitó szövegrésze a 82/2012. (IV. 21.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^24]: A 7. § (1) bekezdés o) pontja a 441/2015. (XII. 28.) Korm. rendelet 132. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^25]: A 7. § (2) bekezdés nyitó szövegrésze a 82/2012. (IV. 21.) Korm. rendelet 28. §-a szerint módosított szöveg.
