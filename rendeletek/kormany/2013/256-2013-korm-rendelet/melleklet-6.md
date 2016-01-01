@@ -52,7 +52,7 @@
 
 1.7. KSH kódja,
 
-1.8. pénzügyi körzet,
+1.8.[^41]
 
 1.9. OEP finanszírozási kód,
 
@@ -89,3 +89,5 @@
 4.3. a támogatási igény bejelentésére jogosult neve, aláírása,
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáért.
+
+[^41]: A 6. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § d) pontja hatályon kívül helyezte.

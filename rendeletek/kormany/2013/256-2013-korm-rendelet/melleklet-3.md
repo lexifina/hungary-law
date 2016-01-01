@@ -504,6 +504,8 @@
 
 | 252. | Kumánia Gyógyfürdő Kft. | Kisújszállás |
 
+| 253. | Szegedi Sport és Fürdők Kft. | Szeged |
+
 3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
 ## Igénylő lap az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz
@@ -524,7 +526,7 @@
 
 1.7. KSH kódja,
 
-1.8. pénzügyi körzet,
+1.8.[^39]
 
 1.9. OEP finanszírozási kód,
 
@@ -573,3 +575,5 @@
 4.3. a támogatási igény bejelentésére jogosult neve, aláírása,
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáért.
+
+[^39]: A 3. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § c) pontja hatályon kívül helyezte.
