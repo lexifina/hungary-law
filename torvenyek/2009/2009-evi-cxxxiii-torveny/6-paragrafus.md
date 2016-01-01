@@ -13,3 +13,5 @@ b) a Kormány rendeletében meghatározott dokumentumok
 csatolásával kell igazolni.
 
 (4) A kijelölési eljárásért – az e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak szerint – igazgatási szolgáltatási díjat kell fizetni.
+
+(5) A kijelölési eljárásban az ügyintézési határidő 30 nap.
