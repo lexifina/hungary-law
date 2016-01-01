@@ -2,7 +2,7 @@
 
 a) akinek táppénzt, baleseti táppénzt, csecsemőgondozási díjat, gyermekgondozási díjat folyósítanak, ennek időtartama alatt,
 
-b) akinek gyermekgondozási segélyt folyósítanak, ennek időtartama alatt, kivéve, ha a folyósításban részesülő az ellátás folyósítása alatt munkát végez,
+b) akinek gyermekgondozást segítő ellátást folyósítanak, ennek időtartama alatt, kivéve, ha a folyósításban részesülő az ellátás folyósítása alatt munkát végez,
 
 c) aki keresőképtelen,
 

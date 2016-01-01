@@ -1,4 +1,4 @@
-14. § (1) Ismertetés keretében a gyógyszerek, illetve gyógyászati segédeszközök rendelésére és forgalmazására jogosultnak ajándék, anyagi előny vagy más természetbeni juttatás nem adható, nem ajánlható fel és nem ígérhető, kivéve, ha a felsoroltak csekély értékűek és összefüggenek a gyógyszerek rendelésére vagy forgalmazására jogosult által folytatott egészségügyi tevékenységgel. Ismertetés keretében pénzbeli juttatás vagy előny semmilyen módon nem adható, nem ajánlható fel és nem ígérhető.
+14. § (1) Ismertetés keretében a gyógyszerek, illetve gyógyászati segédeszközök rendelésére és forgalmazására jogosultnak ajándék, anyagi előny vagy más természetbeni juttatás nem adható, nem ajánlható fel és nem ígérhető, kivéve, ha a felsoroltak csekély értékűek és összefüggenek a gyógyszerek rendelésére vagy forgalmazására jogosult által folytatott egészségügyi tevékenységgel, továbbá éves szinten összértékük nem haladja meg a mindenkori minimálbér havi összegének 60%-át. Ismertetés keretében pénzbeli juttatás vagy előny nem adható, nem ajánlható fel és nem ígérhető.
 
 (2) A gyógyszerek és gyógyászati segédeszközök ismertetését segítő rendezvények kizárólag szakmai, tudományos vagy oktatási céllal szervezhetőek. A rendezvényen az ismertetési tevékenységet folytató és az ismertető személy által biztosított egy napra eső vendéglátás összege nem haladhatja meg a 3. § 8. pontjában meghatározott összeget és a rendezvény fő céljához képest másodlagosnak kell lennie. A rendezvényre az egészségügyben, illetve a gyógyszerellátásban vagy a gyógyászatisegédeszköz-ellátásban közreműködő szakembereken kívül más személy nem hívható meg.
 
@@ -16,7 +16,7 @@
 
 (9) A 12. § (3) bekezdése szerinti ismertetési tevékenységet folytató a gyógyszerek vagy gyógyászati segédeszközök rendelésére és forgalmazására jogosult személy részére, a hatályos adójogszabályokban foglalt kötelezettség teljesítése érdekében, a hatályos adójogszabályoknak megfelelő igazolást köteles küldeni, ha ennek feltételei fennállnak.
 
-(10) Az ismertetési tevékenységet folytató köteles a szakmai rendezvénnyel, tanfolyammal összefüggésben a (4)–(6) bekezdés szerint általa nyújtott támogatással vagy az általa szervezett rendezvénnyel kapcsolatban a szakmai rendezvény, tanfolyam kezdő időpontját megelőzően 10 nappal korábban a (11) bekezdésben foglaltakat a gyógyszerészeti államigazgatási szervnek bejelenteni.
+(10) Az ismertetési tevékenységet folytató köteles a szakmai rendezvénnyel, tanfolyammal összefüggésben a (4)–(6) bekezdés szerint általa nyújtott támogatással vagy az általa szervezett rendezvénnyel kapcsolatban a szakmai rendezvény, tanfolyam kezdő időpontját megelőzően 15 nappal korábban a (11) bekezdésben foglaltakat a gyógyszerészeti államigazgatási szervnek bejelenteni.
 
 (11) A bejelentésnek tartalmaznia kell:
 
@@ -38,6 +38,6 @@ b) a rendezvénnyel összefüggésben kötött szerződések másolatát;
 
 c) a rendezvényhez nyújtott támogatás összegét, a szervezés költségét igazoló dokumentumok másolatát.
 
-(13) Az ismertetési tevékenységet folytató a (11) bekezdésen túl köteles a gyógyszerészeti államigazgatási szervnek bejelenteni az általa szervezett vagy az általa juttatott forrásból támogatott szakmai rendezvény, tanfolyam megnevezését, helyszínét, időpontját, programját, valamint a szervező nevét, székhelyét, a rendezvény vagy tanfolyam kezdő időpontját megelőzően 30 nappal.
+(13) Az ismertetési tevékenységet folytató a (11) bekezdésen túl köteles a gyógyszerészeti államigazgatási szervnek bejelenteni az általa szervezett vagy az általa juttatott forrásból támogatott szakmai rendezvény, tanfolyam megnevezését, helyszínét, időpontját, programját, valamint a szervező nevét, székhelyét, a rendezvény vagy tanfolyam kezdő időpontját megelőzően 15 nappal.
 
 (14) A gyógyszerek, illetve gyógyászati segédeszközök rendelésére és forgalmazására jogosult az ismertetési tevékenységet megelőzően a 16. § (2) bekezdés szerint közzétett adatok alapján megbizonyosodik arról, hogy az ismertetést végző személy a tevékenység végzésére jogosult.

@@ -8,7 +8,7 @@ a) az adott gyógyszer az adott betegség kizárólagos, első vonalbeli (elsőd
 
 b) a gyártó vagy a forgalmazó bizonyítja, hogy az adott gyógyszer előállításának költsége az (1) bekezdés alkalmazása esetén érvényes legmagasabb árnál magasabb.
 
-(4) A (3) bekezdés szerinti kérelemről kilencven napon belül kell döntést hozni. Indokolt esetben ez a határidő egy ízben további hatvan nappal meghosszabbítható. Az egészségbiztosítási szerv a (3) bekezdés szerinti hozzájárulásról haladéktalanul közleményt tesz közzé.
+(4) A (3) bekezdés szerinti kérelemről kilencven napon belül kell döntést hozni. Az egészségbiztosítási szerv a (3) bekezdés szerinti hozzájárulásról haladéktalanul közleményt tesz közzé.
 
 (5) Az (1) bekezdés szerinti időszak alatt kereskedelmi kapcsolatokban a Kormány által meghatározott, vagy elfogadott legmagasabb árnál magasabb árat érvényesen nem lehet kikötni.
 

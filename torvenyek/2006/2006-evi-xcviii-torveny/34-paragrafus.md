@@ -14,4 +14,6 @@
 
 (8) Az egészségbiztosítási szerv a költségvetési keretek betarthatósága érdekében, a már támogatott, illetve az újonnan befogadott gyógyászati segédeszközökre támogatásvolumen-szerződést köthet.
 
+(8a) A (2) és (4) bekezdés alapján megnyitott új funkcionális csoportba gyógyászati segédeszköz kizárólag akkor fogadható be, ha az eszköz támogatása támogatásvolumen-szerződés keretében történik.
+
 (9) A befizetés részletes szabályait a gyártó vagy annak meghatalmazott képviselője és az egészségbiztosítási szerv között létrejött támogatásvolumen-szerződés tartalmazza.

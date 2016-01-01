@@ -12,6 +12,8 @@ d) egy eszköz minőségével, rendeltetésének való megfelelésével kapcsola
 
 (3) Az egészségbiztosítási szerv az (1) bekezdés szerinti felülvizsgálat során a külön jogszabály alapján a támogatott gyógyászati segédeszközök támogatásból való kizárásáról, támogatási mértékének módosításáról, támogatási listán szereplő nevének pontosításáról, kihordási idejének, kihordási időre felírható mennyiségének, a rendelhetőségi feltételek módosításáról és más funkcionális csoportba (alcsoportba) történő átsorolásáról dönthet.
 
+(3a) Az egészségbiztosítási szerv e § szerinti eljárásokban 90 napon belül dönt.
+
 (4) Amennyiben a 34. § (2) bekezdése szerinti eljárás alapján új funkcionális csoport (alcsoport) nyitására, vagy egyéb okból új funkcionális csoport (alcsoport) nyitására vagy megszüntetésére kerül sor, az egészségbiztosítási szervnek le kell folytatnia az (1) bekezdés szerinti eljárást.
 
 (4a) Amennyiben az egészségbiztosítási szerv a (4) bekezdés alapján azért indít hivatalból eljárást, mert új funkcionális csoport nem a 34. § (2) bekezdésében foglaltak szerint került létrehozásra, és a (3) bekezdés szerinti módosítások mellett az új csoportba átsorolt termék közfinanszírozás alapjául elfogadott árának módosítása is szükséges, arról az egészségbiztosítási szerv az egészségügyért felelős miniszter rendeletében foglaltak szerint dönt.

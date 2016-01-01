@@ -36,9 +36,9 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 15. referencia gyógyászati segédeszköz: az a meghatározott (fix) támogatási csoportba tartozó gyógyászati segédeszköz, amely a közfinanszírozás alapjául elfogadott ára, kölcsönzési díja, illetve forgalmi részesedése alapján az adott támogatási csoportra meghatározott, a külön jogszabály szerinti százalékos támogatásban részesül;
 
-16. közforgalmú gyógyszertár: a lakosság közvetlen és teljes körű gyógyszerellátását biztosító olyan egészségügyi intézmény, amely a teljes körű gyógyszerellátás keretében magisztrális gyógyszerkészítést is végez;
+16. közforgalmú gyógyszertár: teljes körű közvetlen lakossági gyógyszerellátást biztosító egészségügyi intézmény;
 
-17. fiókgyógyszertár: a közforgalmú gyógyszertár részeként működő, de azzal nem azonos telephelyű, vagy mozgó egységként működtetett, a lakosság közvetlen gyógyszerellátását biztosító egészségügyi intézmény;
+17. fiókgyógyszertár: a közforgalmú gyógyszertár részeként működő, de azzal nem azonos telephelyű, vagy mozgó egységként működtetett, közvetlen lakossági gyógyszerellátást biztosító egészségügyi intézmény;
 
 18. intézeti gyógyszertár: a fekvőbeteg-ellátást végző intézmény részeként működő, annak teljes körű gyógyszerellátását végző egészségügyi intézmény, mely szaktevékenységként közvetlen lakossági gyógyszerellátási feladatokat is végezhet;
 
@@ -46,7 +46,7 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 20. személyes gyógyszertár működtetési jog: szakmai gyakorlattal rendelkező gyógyszerész részére, adott közforgalmú gyógyszertár vezetésére és működtetésére szóló engedély (a továbbiakban: személyi jog);
 
-21. közvetlen lakossági gyógyszerellátás: azon egészségügyi szolgáltatási tevékenységek összessége, amelyek során a gyógyszertár a gyógyszert beszerzi, készletezi, kiszolgáltatja és az alkalmazásával összefüggő szakmai információt közvetlenül vagy házhoz szállítás útján közvetetten a lakosság részére biztosítja, továbbá az interneten igényelt gyógyszerek kiszolgáltatása;
+21. közvetlen lakossági gyógyszerellátás: azon egészségügyi szolgáltatási tevékenységek összessége, amelyek során a gyógyszertár gyógyszerkészítési tevékenységet végez, a gyógyszert beszerzi, készletezi, kiszolgáltatja és az alkalmazásával összefüggő szakmai információt közvetlenül vagy házhoz szállítás útján közvetetten, a lakosság részére biztosítja, továbbá az interneten igényelt gyógyszerek kiszolgáltatása;
 
 22. gyógyszer házhoz szállítás: a csomagküldést ide nem értve a megrendelt gyógyszernek a megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás keretében;
 
@@ -88,4 +88,10 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 41. munkavégzésre irányuló jogviszony: a munka törvénykönyvéről szóló törvény szerinti munkaviszony, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei;
 
-42. gyógyászati segédeszköz házhoz szállítása: a gyógyászati segédeszköznek – a forgalmazás részeként – az eszköz megrendelését vagy megvásárlását követően a megrendelő által megjelölt címre történő eljuttatása.
+42. gyógyászati segédeszköz házhoz szállítása: a gyógyászati segédeszköznek – a forgalmazás részeként – az eszköz megrendelését vagy megvásárlását követően a megrendelő által megjelölt címre történő eljuttatása;
+
+43. szolgálati rend: az az időtartam, amely alatt a gyógyszertár közvetlen lakossági gyógyszerellátást végez, ideértve a nyitvatartási, ügyeleti és készenléti időt;
+
+44. gyógyszertári ügyelet: a gyógyszertár által gyógyszerész jelenléte mellett a gyógyszertár nyitvatartási idején túl – ideértve a heti pihenőnapot vagy munkaszüneti napot is – nyújtott közvetlen lakossági gyógyszerellátás;
+
+45. gyógyszertári készenlét: a gyógyszertár nyitvatartási idején túl – ideértve a heti pihenőnapot vagy munkaszüneti napot is – nyújtott közvetlen lakossági gyógyszerellátás biztosítása olyan módon, hogy a készenlétet teljesítő gyógyszerész az ellátást telefonhívást követően 30 perces várakozási időn belül kezdi meg.

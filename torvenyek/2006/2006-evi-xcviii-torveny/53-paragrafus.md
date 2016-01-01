@@ -18,7 +18,7 @@ e) az, hogy a gyógyszertár a miniszteri rendeletben, az építészeti követel
 
 (4) A működési engedélyt a működés tervezett megkezdését legalább 30 nappal megelőzően az egészségügyi államigazgatási szervtől kell kérni.
 
-(5) Az egészségügyi államigazgatási szerv a működési engedély kiadásáról a kérelem benyújtását követő 30 napon belül dönt.
+(5) Az egészségügyi államigazgatási szerv a működési engedély kiadásáról a kérelem benyújtását követő 21 napon belül dönt.
 
 (6) A működési engedély tartalmazza:
 
@@ -37,5 +37,7 @@ f) fiók-és kézigyógyszertár esetén az a), c)–e) pontokban foglaltakon t�
 g) mozgó egységként működtetett fiókgyógyszertár esetén az a), d)–f) pontokban foglaltakon túl a mozgó egység működtetését kérő közforgalmú gyógyszertár székhelye szerinti megyehatáron belül ellátható települések körét;
 
 h) intézeti gyógyszertár esetén az intézeti vezető főgyógyszerész nevét.
+
+(6a) A közforgalmú és fiókgyógyszertár szolgálati rendjét a létesítés feltételeire is tekintettel a gyógyszertár működtetője és a személyi joggal rendelkező gyógyszertárvezető javaslata alapján az egészségügyi államigazgatási szerv a gyógyszertár működési engedélyében határozza meg. Az egészségügyi államigazgatási szerv a nyitvatartási idő megállapítása során figyelembe veszi az adott településen vagy településrészen működő egészségügyi szolgáltatók szolgálati rendjét is. Készenlét és ügyelet teljesítésére valamennyi működési engedéllyel rendelkező közforgalmú gyógyszertár és közvetlen lakossági gyógyszerellátást is biztosító intézeti gyógyszertár kötelezhető. A gyógyszertári ügyelet és gyógyszertári készenlét megállapítása során az egészségügyi államigazgatási szerv figyelembe veszi adott településen vagy településrészen működő egészségügyi szolgáltatók elérhetőségét, az orvosi ügyelet helyét és idejét, az ellátandó lakosságszámot, továbbá a gyógyszertár közfinanszírozott gyógyszerek forgalmazásából származó árréstömegét. A folyamatos lakossági gyógyszerellátás érdekében a gyógyszertár ügyeleti, készenléti idejének megállapítására irányuló eljárás hivatalból is indulhat. Az egészségügyi államigazgatási szerv gyógyszertári ügyelet és készenlét megállapításáról rendelkező határozata fellebbezésre tekintet nélkül végrehajtható.
 
 (7) Az egészségügyi államigazgatási szerv a gyógyszertár működtetésére vonatkozó jogerős döntését megküldi az egészségbiztosítási szerv, illetve a települési önkormányzat jegyzője részére is.

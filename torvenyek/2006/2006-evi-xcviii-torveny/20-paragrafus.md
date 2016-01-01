@@ -34,4 +34,4 @@ jogviszonyt és a ténylegesen megvalósuló tevékenységet vizsgálni.
 
 (10) A gyógyszerészeti államigazgatási szerv – amennyiben a tényállás tisztázása érdekében szükségesnek tartja – elrendelheti az általa meghallgatott tanú adatainak zártan kezelését.
 
-(11) A 14. §-ban és a 15. § szerinti jogszabályban foglaltak végrehajtásának ellenőrzésével összefüggésben indított eljárások során az ügyintézési határidő 60 nap, amely indokolt esetben egy alkalommal legfeljebb 21 nappal meghosszabbítható.
+(11) A 14. §-ban és a 15. § szerinti jogszabályban foglaltak végrehajtásának ellenőrzésével összefüggésben indított eljárások során az ügyintézési határidő 60 nap.
