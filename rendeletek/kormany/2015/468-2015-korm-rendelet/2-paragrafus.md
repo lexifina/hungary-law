@@ -1,31 +1,31 @@
-## 1. § Az egyes értékpapírok előállításának, kezelésének és fizikai megsemmisítésének biztonsági szabályairól szóló 98/1995. (VIII. 24.) Korm. rendelet 8. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+## 1. §[^1]
 
-## „(1) Az értékpapírok fizikai megsemmisítése – égetéssel, bezúzással vagy ezekkel biztonságilag egyenértékű más módszerrel – bizottság jelenlétében történik, a megsemmisítés megtörténtét pedig – a 8/A. §-ban foglalt esetkör kivételével – közjegyző tanúsítja.
+## 2. A befektetési és az árutőzsdei szolgáltatási tevékenység, az értékpapír letéti őrzés, az értékpapír letétkezelés, valamint az elszámolóházi tevékenység végzéséhez szükséges személyi, tárgyi, technikai és biztonsági feltételekről szóló 283/2001. (XII. 26.) Korm. rendelet módosítása
 
-## A bizottság tagjai:
+## 2. § A befektetési és az árutőzsdei szolgáltatási tevékenység, az értékpapír letéti őrzés, az értékpapír letétkezelés, valamint az elszámolóházi tevékenység végzéséhez szükséges személyi, tárgyi, technikai és biztonsági feltételekről szóló 283/2001. (XII. 26.) Korm. rendelet
 
-## a) a kibocsátó cégjegyzésre jogosult vagy írásban meghatalmazott képviselője;
+a) 1. § (1) és (2) bekezdésében az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## b) a megsemmisítéssel megbízott szervezet képviselője;
+b) 3. § (1) bekezdésében az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## c) a megsemmisítést végrehajtó szervezet képviselője;
+c) 3. § (3) és (4) bekezdésében az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## d) az engedéllyel rendelkező letéti hely képviselője, ha a kibocsátó az értékpapírt vagy értékpapírszerű okiratot letétben tartja.
+d) 8. § (1) bekezdésében az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## (2) A megsemmisítési eljárásról a közjegyző a közjegyzőkről szóló 1991. évi XLI. törvény 144. § (1) bekezdése alapján jegyzőkönyvet készít, amely tartalmazza az alábbiakat:
+e) 10. § (2)–(4) bekezdésében az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## a) a megsemmisített értékpapírok megnevezése, darabszáma, névértéke, sorozat- és sorszáma, névértékének összesítése, a kibocsátó neve,
+f) 10. § (5) bekezdésében az „Az elszámolóházi tevékenységet” szövegrész helyébe az „A központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## b) a megsemmisítés ideje és a megsemmisítés megrendelésének száma és kelte,
+g) 11. § (1) és (2) bekezdésében az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## c) a megsemmisítési eljárásnál jelenlévők neve, beosztása,
+h) 12. §-ában az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## d) a megsemmisítés helye és az alkalmazott technológiai eljárás,
+i) Mellékletének 2. pontjában az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## e) a bizottság tagjainak hitelesítő aláírása,
+j) Mellékletének 6. pontjában az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## f) a megsemmisített értékpapírok ISIN azonosítója.”
+k) Mellékletének 8. pontjában az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg,
 
-## 2.[^1]
+l) Mellékletének 12–14. pontjában az „az elszámolóházi tevékenységet” szövegrész helyébe az „a központi értéktári, illetve központi szerződő fél tevékenységet” szöveg
 
-[^1]: A 2. alcím a 28. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

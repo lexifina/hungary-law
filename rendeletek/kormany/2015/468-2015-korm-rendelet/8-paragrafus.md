@@ -1,5 +1,5 @@
 ## 5–7. §
 
-## 5.[^3]
+## 5.[^4]
 
-[^3]: Az 5. alcím a 28. § (3) bekezdése alapján 2016. március 21-én lép hatályba.
+[^4]: Az 5. alcím a 28. § (3) bekezdése alapján 2016. március 21-én lép hatályba.

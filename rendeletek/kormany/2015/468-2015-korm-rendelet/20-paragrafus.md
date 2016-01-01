@@ -1,9 +1,0 @@
-## 19. § Az R3. 13. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A felsőoktatási intézmény a hallgatói hitel folyósításának jogszerűsége érdekében a hitelfelvevők hallgatói jogviszonyával kapcsolatos adatokat a Diákhitel szervezet számára adja meg. A Diákhitel szervezet minden tanulmányi hónapban – az első tanulmányi hónapban a folyósításra jogosult teljes hitelfelvevői körre, azt követően pedig az új igénylést benyújtók, illetve az előző adategyeztetés keretében érdemlegesen vissza nem igazolt hitelfelvevői körre – elektronikus adathordozó megküldése vagy közvetlen elektronikus kapcsolat útján megkeresi a felsőoktatási intézményt annak érdekében, hogy a hallgatói hitelre jogosult hitelfelvevők hallgatói jogviszonya fennállására és képzésére vonatkozó adatokat beszerezze. A felsőoktatási intézmény a Diákhitel szervezet által megküldött adatokat köteles a nyilvántartásában tárolt adatokkal összevetni, ellenőrizni, és ennek eredményéről a Diákhitel szervezetet elektronikus adathordozó megküldése vagy közvetlen elektronikus kapcsolat útján tájékoztatni.”
-
-20. § (1) Az R3. 16. §-a a következő (2a) bekezdéssel egészül ki:
-
-## „(2a) A hitelfelvevő – a Diákhitel szervezet által e célra rendszeresített nyomtatványon – kérelmet nyújthat be a Diákhitel szervezethez törlesztési kötelezettsége szüneteltetése iránt akkor is, ha egészségi állapota 60%-os vagy kisebb mértékű, a (2) bekezdés b) pont szerinti pénzbeli ellátásokra azonban azért nem vált jogosulttá, mert a társadalombiztosítás ellátásaira való jogosultságról szóló jogszabály alapján az ezen pénzbeli ellátásokhoz szükséges időtartamban nem volt biztosított. Ebben az esetben a Diákhitel szervezet az egészségkárosodást igazoló jogerős határozat időpontjától – de legfeljebb a kérelem benyújtása évének első napjától – a következő orvosi felülvizsgálat időpontjáig biztosítja a törlesztési kötelezettség szüneteltetését.”
-
-(2) Az R3. 16. §-a a következő (8a) bekezdéssel egészül ki:

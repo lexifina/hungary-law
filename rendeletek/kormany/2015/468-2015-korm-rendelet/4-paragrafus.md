@@ -1,3 +1,3 @@
-## 2–3. §
+## 3. § Hatályát veszti a befektetési és az árutőzsdei szolgáltatási tevékenység, az értékpapír letéti őrzés, az értékpapír letétkezelés, valamint az elszámolóházi tevékenység végzéséhez szükséges személyi, tárgyi, technikai és biztonsági feltételekről szóló 283/2001. (XII. 26.) Korm. rendelet 2. §-a, 4–6. §-a és 9. § (5) bekezdése.
 
 ## 3. A dematerializált értékpapír előállításának és továbbításának módjáról és biztonsági szabályairól, valamint az értékpapír-számla, központi értékpapír-számla és az ügyfélszámla megnyitásának és vezetésének szabályairól szóló 284/2001. (XII. 26.) Korm. rendelet módosítása
