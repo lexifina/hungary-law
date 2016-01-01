@@ -6,7 +6,7 @@ a) ahol a Vht. ingóságot említ, azon járművet, illetőleg a járműben tal�
 
 b) az árverési hirdetményt a jármű őrzési helyén és a Vht. 122. §-a (1) bekezdésének c) pontjában meghatározott helyen kell kifüggeszteni;
 
-c)[^5] az árverési hirdetményt (Vht. 121. §), valamint az árverési jegyzőkönyv másolatát [Vht. 128. § (2) bek.] kézbesíteni kell – külföldi rendszámú, hatósági jelzés nélküli külföldi államjelzésű jármű értékesítése esetén – a Nemzeti Adó- és Vámhivatal területileg illetékes megyei (fővárosi) vám- és pénzügyőri igazgatóságának is;
+c)[^5] az árverési hirdetményt (Vht. 121. §), valamint az árverési jegyzőkönyv másolatát [Vht. 128. § (2) bek.] kézbesíteni kell – külföldi rendszámú, hatósági jelzés nélküli külföldi államjelzésű jármű értékesítése esetén – a Nemzeti Adó- és Vámhivatal területileg illetékes megyei (fővárosi) adó- és vámigazgatóságának is;
 
 d)[^6] a Vht. 123. §-ának (2) bekezdése alkalmazásában nem lehet árverező a rendőrség személyi állományába tartozó személy és annak közeli hozzátartozója [Ptk. 685. § b) pont].
 
@@ -14,5 +14,5 @@ d)[^6] a Vht. 123. §-ának (2) bekezdése alkalmazásában nem lehet árverező
 
 (4) A második árverésen el nem adott jármű értékesítés céljából a használt autókereskedelmi tevékenység végzésére jogosult gazdálkodó szervezet részére is átadható. Az ily módon sem értékesíthető jármű alkatrészként is értékesíthető.
 
-[^5]: A 17. § (2) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
+[^5]: A 17. § (2) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 78. § (2) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^6]: [A 17. § (2) bekezdés d) pontjának a 13/2014. (I. 29.) Korm. rendelet 1. § (2) bekezdésével elrendelt módosítása, amely szerint a „közeli hozzátartozója [685. § b) pont]” szövegrész helyébe az „a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pont szerinti közeli hozzátartozója, valamint élettársa” szöveg lép, nem vezethető át.]
