@@ -1,0 +1,1 @@
+## „(6) A kihelyezett sajátos nevelési igényű gyermeke különleges gondozás keretében történő pedagógiai, gyógypedagógiai és konduktív pedagógiai ellátásának költségeit a kihelyező szerv (2) és (3) bekezdésben foglaltak szerint téríti.”
