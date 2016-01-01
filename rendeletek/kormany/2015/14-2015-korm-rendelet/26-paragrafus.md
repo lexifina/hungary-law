@@ -1,6 +1,6 @@
 ## 19. F-ÜHG-val kapcsolatos tevékenységek
 
-26. §[^15] (1) Természetes személy az alábbi, F-ÜHG-t tartalmazó termékek és azzal üzemelő berendezések esetében kizárólag az 517/2014/EU európai parlamenti és tanácsi rendelet 10. cikk (4) és (7) bekezdése szerinti képesítéssel, az adatbázisban való regisztrációt követően, a 4. melléklet szerinti képesítésének megfelelő kategóriájú képesített vállalkozás alkalmazottjaként végezheti az alábbi feladatokat:
+26. §[^17] (1) Természetes személy az alábbi, F-ÜHG-t tartalmazó termékek és azzal üzemelő berendezések esetében kizárólag az 517/2014/EU európai parlamenti és tanácsi rendelet 10. cikk (4) és (7) bekezdése szerinti képesítéssel, az adatbázisban való regisztrációt követően, a 4. melléklet szerinti képesítésének megfelelő kategóriájú képesített vállalkozás alkalmazottjaként végezheti az alábbi feladatokat:
 
 a) a HR szektor berendezéseinek és az MR szektor hűtőegységeinek telepítése, beüzemelése, szervizelése, karbantartása, javítása vagy használaton kívül helyezése,
 
@@ -70,4 +70,4 @@ g) az MR-III képesítési kategóriában meghatározott tevékenységek végzé
 
 h) VE és NK kategóriában meghatározott klímagázzal való tevékenység végzésére H-I, H-II, H-III, M-V, M-VI és M-VII képesítéssel rendelkező természetes személy jogosult.
 
-[^15]: A 26. § a 389/2015. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^17]: A 26. § a 389/2015. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.

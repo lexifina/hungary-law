@@ -26,4 +26,6 @@
 
 (13) Az 1005/2009/EK rendelet 26. cikk (1) bekezdés b) és c) pontjában található tagállami jelentéstételi kötelezettségért a környezetvédelemért felelős miniszter felel a honvédelemért felelős miniszter, a BM OKF és a Nemzeti Adó- és Vámhivatal közreműködésével, és jelentését feltölti a Hatóság adatbázisába.
 
-(14) Az 1005/2009/EK parlamenti és tanácsi rendeletben meghatározott, az ORLA gyártói és importőrei számára az Európai Bizottság által kiadott engedélyt a gyártó és az importőr köteles a szállítást megelőző nyolc napon belül az illetékes alsó fokú vámszervnek és a Hatóságnak megküldeni és tájékoztatni a szállítás időpontjáról.
+(14)[^20] Az 1005/2009/EK parlamenti és tanácsi rendeletben meghatározott, az ORLA gyártói és importőrei számára az Európai Bizottság által kiadott engedélyt a gyártó és az importőr köteles a szállítást megelőző nyolc napon belül az illetékes vámszervnek és a Hatóságnak megküldeni és tájékoztatni a szállítás időpontjáról.
+
+[^20]: A 28. § (14) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
