@@ -2,7 +2,7 @@
 
 ## Vámtitok
 
-16. § (1) Vámtitok minden, a vámigazgatási eljárással kapcsolatos tény, adat, körülmény, igazolás vagy információ.
+16. § (1) Vámtitok minden, a vámigazgatási eljárással kapcsolatos tény, adat, körülmény, igazolás vagy információ. E törvény alkalmazásában vámtitoknak minősül az adószámlán nyilvántartott információ is.
 
 (2) A vámhatóság az eljárása során birtokába kerülő adatokat – a személyes adatok, a vámtitok és adótitok védelmére vonatkozó szabályokat betartva – kezeli és az elévülési idő elteltéig megőrzi. A vámhatóság alkalmazottja, volt alkalmazottja, az ellenőrzésbe vagy az eljárásba bevont szakértő és minden más személy, akinek feladataival összefüggésben vámtitok vagy más titok jut a tudomására, köteles azt megőrizni. A vámhatóságot a hivatali eljárása során tudomására jutott minden irat, adat, tény, körülmény tekintetében titoktartási kötelezettség terheli.
 

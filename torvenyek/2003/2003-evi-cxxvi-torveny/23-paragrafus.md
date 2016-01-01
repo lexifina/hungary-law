@@ -8,7 +8,7 @@ b) megsemmisítése, illetve alaktalanítása
 
 érdekében.
 
-(2) Az áru értékesítését a vámhatóság kereskedő közreműködésével, árverés útján vagy elektronikus árverés útján végezheti. Az elektronikus árverés útján történő értékesítést a vámhatóság az adózás rendjéről szóló törvény vonatkozó rendelkezésének értelemszerű alkalmazásával végzi.
+(2) Az áru értékesítését a vámhatóság kereskedő közreműködésével, árverés útján vagy elektronikus árverés útján végezheti. Az elektronikus árverés útján történő értékesítést a vámhatóság az Art. vonatkozó rendelkezésének értelemszerű alkalmazásával végzi.
 
 (3) Abban az esetben, ha az áru értékesítése nem lehetséges, de az forgalomképes, megsemmisítés helyett – a jövedéki termék kivételével – karitatív célra felhasználható.
 

@@ -2,4 +2,4 @@
 
 (2) Az utólagos ellenőrzés hatékonyságának növelése és ezzel együtt az ügyfelek adminisztrációs terheinek mérséklése érdekében a vámhatóság a hatáskörébe tartozó ügyekben más hatóságokkal együttesen, egyidejűleg is folytathat ellenőrzést.
 
-(3) Az állami adó- és vámhatóság vezetőjének rendelkezése szerint a vámhatóság az állami adóhatóságot az utólagos ellenőrzési tevékenységébe bevonhatja.
+(3)

@@ -42,4 +42,4 @@ b) a (6) bekezdés a)–b) pontja szerint kiadni rendelt nem közösségi árut 
 
 (13) Az (1) és (3) bekezdés szerint lefoglalt, felhasználásra, tárolásra és szállításra használt eszközt el kell kobozni, ha azon a 61/A. § (1) bekezdésének b) pontjában meghatározott kötelezettség megszegését lehetővé tevő átalakítást végeztek. Az ilyen eszközt – az 57/A. §-ban foglaltak sérelme nélkül – értékesíteni kell.
 
-(14) Az elkobzott közúti, vízi és légi járművek értékesítés helyett a NAV szervei részére, feladatuk ellátáshoz történő használatra – a Nemzeti Adó- és Vámhivatal vezetőjének jóváhagyásával – átadhatók.
+(14) Az elkobzott közúti, vízi és légi járművek értékesítés helyett a NAV szervei részére, feladatuk ellátáshoz történő használatra – az állami adó- és vámhatóság vezetőjének jóváhagyásával – átadhatók.

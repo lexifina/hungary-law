@@ -50,10 +50,10 @@ p) az energiaadó összege;
 
 q)–s)
 
-Az adatszolgáltatás formáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatásban teszi közzé.
+Az adatszolgáltatás formáját az állami adó- és vámhatóság vezetője tájékoztatásban teszi közzé.
 
 (7) A vámhatóság a nem közösségi adókat és díjakat az adónyilatkozat alapján állapítja meg.
 
 (8) Amennyiben az adónyilatkozat alapján számított adó és díj és a kiegészítő vámáru-nyilatkozat vagy utólagos ellenőrzés alapján számított adó és díj összegének különbözete alapján további fizetési kötelezettség keletkezik, azt a vámhatóság a gazdálkodó terhére utólag kiszabja. Amennyiben a gazdálkodó a fizetési kötelezettséget határidőben nem teljesíti, a vámhatóság a követelését mindenekelőtt az – közvetlen igénybejelentést lehetővé tevő – adóbiztosíték terhére érvényesíti. Amennyiben a kiegészítő vámáru-nyilatkozat vagy az utólagos ellenőrzés alapján a gazdálkodó javára pozitív különbség mutatkozik, a vámhatóság kérelemre az összeget az 59. § (2)–(3) bekezdése szerint visszafizeti.
 
-(9) Az adós adó- és díjkötelezettségének teljesítéséhez az adózás rendjéről szóló törvény szerinti pénzügyi képviselőt vehet igénybe. Vámjogi képviselő az adó- és díjkötelezettségek teljesítésével kapcsolatban képviselőként kizárólag akkor járhat el, ha az engedélyező vámhatóság által lefolytatott vámeljárásban is vámjogi képviselőként jár el.
+(9) Az adós adó- és díjkötelezettségének teljesítéséhez az Art. szerinti pénzügyi képviselőt vehet igénybe. Vámjogi képviselő az adó- és díjkötelezettségek teljesítésével kapcsolatban képviselőként kizárólag akkor járhat el, ha az engedélyező vámhatóság által lefolytatott vámeljárásban is vámjogi képviselőként jár el.

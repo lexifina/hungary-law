@@ -1,10 +1,10 @@
-17. § (1) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásba vételre vonatkozó részletes szabályokat az adózás rendjéről szóló törvény (a továbbiakban: Art.) tartalmazza. Az Art. adózóra vonatkozó rendelkezéseit a VPID szám megállapításával összefüggő nyilvántartásba vétellel és nyilvántartással kapcsolatban az e törvény hatálya alá tartozó ügyfélre is alkalmazni kell. A vámjogszabályok hatálya alá tartozó tevékenységgel kapcsolatban a VPID számra történő hivatkozást EORI-számra történő hivatkozásként kell értelmezni.
+17. § (1) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásba vételre vonatkozó részletes szabályokat az Art. tartalmazza. Az Art. adózóra vonatkozó rendelkezéseit a VPID szám megállapításával összefüggő nyilvántartásba vétellel és nyilvántartással kapcsolatban az e törvény hatálya alá tartozó ügyfélre is alkalmazni kell. A vámjogszabályok hatálya alá tartozó tevékenységgel kapcsolatban a VPID számra történő hivatkozást EORI-számra történő hivatkozásként kell értelmezni.
 
 (2)
 
 (3)
 
-(4) A vámhatóság a vámmentességi rendelet 107. cikke alapján történő vámmentes üzemanyag-behozatal esetén a vámmentességi rendelet 110. cikk (1) bekezdése szerinti kötelezettség ellenőrzése, valamint a vámmentességi rendelet 110. cikkének (2) bekezdése szerinti vámfizetési kötelezettség teljesítésének biztosítása érdekében jogosult a szabad forgalomba bocsátás vámeljárás alanyának természetes személyazonosító adataira, továbbá a gépjármű belépésének és – ha történt ilyen – a kilépésének időpontjára, rendszámára, üzemmódjára, a kilométeróra állására, valamint a behozott üzemanyag mennyiségére vonatkozó adatokat kérni. Az EK végrehajtási rendelet 205. cikk (3) bekezdésének harmadik francia bekezdése alapján a vámáru-nyilatkozatként használandó különleges formanyomtatvány mintáját a Nemzeti Adó- és Vámhivatal elnöke tájékoztatásban teszi közzé.
+(4) A vámhatóság a vámmentességi rendelet 107. cikke alapján történő vámmentes üzemanyag-behozatal esetén a vámmentességi rendelet 110. cikk (1) bekezdése szerinti kötelezettség ellenőrzése, valamint a vámmentességi rendelet 110. cikkének (2) bekezdése szerinti vámfizetési kötelezettség teljesítésének biztosítása érdekében jogosult a szabad forgalomba bocsátás vámeljárás alanyának természetes személyazonosító adataira, továbbá a gépjármű belépésének és – ha történt ilyen – a kilépésének időpontjára, rendszámára, üzemmódjára, a kilométeróra állására, valamint a behozott üzemanyag mennyiségére vonatkozó adatokat kérni. Az EK végrehajtási rendelet 205. cikk (3) bekezdésének harmadik francia bekezdése alapján a vámáru-nyilatkozatként használandó különleges formanyomtatvány mintáját az állami adó- és vámhatóság vezetője tájékoztatásban teszi közzé.
 
 (5)
 
@@ -26,4 +26,4 @@ e) törvényi felhatalmazás alapján az abban meghatározott nyilvántartásokb
 
 (9) A vámhatóság a személyiadat- és lakcímnyilvántartás szervétől természetes személyazonosító adatokkal vagy a személyiadat- és lakcímnyilvántartás szerve által képzett kapcsolati kóddal vehet át adatokat.
 
-(10) A vámkódex 16. cikkében foglaltak az egyéb jogszabályokból – így különösen az adózás rendjéről, valamint a számvitelről szóló törvény rendelkezéseiből – eredő megőrzési kötelezettséget nem érintik.
+(10) A vámkódex 16. cikkében foglaltak az egyéb jogszabályokból – így különösen az Art., valamint a számvitelről szóló törvény rendelkezéseiből – eredő megőrzési kötelezettséget nem érintik.

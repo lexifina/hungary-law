@@ -4,9 +4,9 @@
 
 (2) Ha közigazgatási hatóság alkalmazásában álló személy hivatalos eljárása során vámjogszabályt sértő cselekményről szerez tudomást, köteles azt a legközelebbi vámhivatalnál vagy rendőri szervnél bejelenteni. A rendőri szervek a bejelentésről kötelesek a legközelebbi vámhivatalt tájékoztatni.
 
-(3) A vámszervezet szervei és más, a nemzetközi áruforgalom szabályozásának ellenőrzésében illetékes hatóságok, intézmények, valamint a polgári nemzetbiztonsági szolgálatok, a Magyar Honvédség és a rendvédelmi szervek a jogszabályban meghatározott feladataik ellátása érdekében az adatkezelési, adatvédelmi szabályok betartásával kötelesek hivatalos eljárásuk során együttműködni.
+(3) A vámhatóság és más, a nemzetközi áruforgalom szabályozásának ellenőrzésében illetékes hatóságok, intézmények, valamint a polgári nemzetbiztonsági szolgálatok, a Magyar Honvédség és a rendvédelmi szervek a jogszabályban meghatározott feladataik ellátása érdekében az adatkezelési, adatvédelmi szabályok betartásával kötelesek hivatalos eljárásuk során együttműködni.
 
-(4) Az együttműködési kötelezettség más hatóságokat és szerveket a vámellenőrzés végzésére nem jogosít fel, vámellenőrzést kizárólag a vámszervezet szervei végezhetnek.
+(4) Az együttműködési kötelezettség más hatóságokat és szerveket a vámellenőrzés végzésére nem jogosít fel, vámellenőrzést kizárólag a vámhatóság végezhet.
 
 (5) A Rendőrség a beutazási és tartózkodási tilalom megszegése miatt elfogott személyeknél talált árut – a vámhatóság nyomozati hatáskörébe nem tartozók kivételével – köteles átadni a vámhatóságnak további vizsgálat végett.
 

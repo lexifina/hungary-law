@@ -4,7 +4,7 @@
 
 a) aki megbízható vámadós, és
 
-b) akinek folyamatos működés mellett a tárgyévet megelőző kettő egymást követő naptári éven belül nem keletkezett az állami adóhatóságnál áfa jogcímen tartozása, illetőleg a vámhatóságnál tartozása.
+b) akinek folyamatos működés mellett a tárgyévet megelőző kettő egymást követő naptári éven belül nem keletkezett az állami adó- és vámhatóságnál áfa jogcímen tartozása, illetőleg a vámhatóságnál tartozása.
 
 (3) A vámhatóság kérelemre engedélyezi, hogy az áfa összegének ötven százalékát kell biztosítania a vámigazgatási eljárásban annak a saját nevében eljáró adóalanynak, akire folyamatos működés mellett csak a tárgyévet megelőző naptári évre teljesül a (2) bekezdésben előírt feltétel.
 
@@ -16,7 +16,7 @@ b) akinek folyamatos működés mellett a tárgyévet megelőző kettő egymást
 
 (7) A (2) bekezdés b) pontja alkalmazásában nem minősül tartozásnak, ha
 
-a) az állami adóhatóságnál a tárgyévet megelőző kettő egymást követő naptári éven belül az adóalany általános forgalmi adó jogcímen nyilvántartott késedelmesen megfizetett tartozása nem haladta meg az ezen időszakban e jogcímen keletkezett kötelezettségeinek három százalékát;
+a) az állami adó- és vámhatóságnál a tárgyévet megelőző kettő egymást követő naptári éven belül az adóalany általános forgalmi adó jogcímen nyilvántartott késedelmesen megfizetett tartozása nem haladta meg az ezen időszakban e jogcímen keletkezett kötelezettségeinek három százalékát;
 
 b) a vámhatóságnál a tárgyévet megelőző kettő egymást követő naptári éven belül az adóalany a vámhatóság hatáskörébe tartozó fizetési kötelezettségek tekintetében nyilvántartott késedelmesen megfizetett tartozásainak összege nem haladta meg az ezen időszakban e jogcímeken mindösszesen keletkezett és fel nem függesztett kötelezettségeinek három százalékát.
 

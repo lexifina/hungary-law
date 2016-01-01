@@ -4,7 +4,7 @@
 
 (2) Az áru azonosságának a biztosítására szolgáló zárat vagy jelet úgy kell elhelyezni, hogy az árut tartalmazó csomagot, tartályt vagy szállítóeszközt észrevehető nyom hátrahagyása nélkül felnyitni, tartalmukat megváltoztatni vagy kicserélni ne lehessen.
 
-(3) Az azonosság biztosítására elfogadható a külföldi vámhivatal, az engedélyezett feladó/címzett vagy a vasúti fuvarozó által alkalmazott zárjel. Az engedélyezett feladó/címzett – tevékenységének gyakorlása során – a vámhatóság által jóváhagyott típusú zárakat használhatja.
+(3) Az azonosság biztosítására elfogadható a külföldi vámhatóság, az engedélyezett feladó/címzett vagy a vasúti fuvarozó által alkalmazott zárjel. Az engedélyezett feladó/címzett – tevékenységének gyakorlása során – a vámhatóság által jóváhagyott típusú zárakat használhatja.
 
 (4) A vámkódex 72. cikkében foglaltak figyelembevételével, ha felmerül lezárt szállítóeszközzel kapcsolatban bűncselekmény elkövetésének gyanúja és a szállítóeszköz kinyitása a hivatalos eljárás lefolytatásához szükséges, továbbá a késedelem veszélye miatt a vámhatóság intézkedését nem lehet megvárni, a vámhatóság engedélye nélkül más rendvédelmi szerv is jogosult eltávolítani a vámzárat vagy más azonossági jelet.
 

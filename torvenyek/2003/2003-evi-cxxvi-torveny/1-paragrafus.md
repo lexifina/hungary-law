@@ -18,15 +18,21 @@ f) a Bizottság 80/2012/EU rendelete a vámmentességek közösségi rendszerén
 
 a módosításaikkal együtt.
 
+(2a) Magyarország tekintetében a vámkódex 4. Cikk
+
+a) 3. pontjában a „vámhatóságok” alatt a Nemzeti Adó- és Vámhivatalt (a továbbiakban: NAV),
+
+b) 4. pontjában a „vámhivatal” alatt a NAV megyei (fővárosi) adó- és vámigazgatóságait és azok kirendeltségeit, valamint a Kormány rendeletében meghatározott igazgatóságot kell érteni.
+
 (3) E törvény alkalmazásában
 
-1. 1/a. vámhatóság: a Nemzeti Adó- és Vámhivatal vámszerve,
+1. 1/a. vámszerv: a NAV vámigazgatási feladatot is ellátó szerve,
 
-1/b. állami adóhatóság: a Nemzeti Adó- és Vámhivatal adóztatási szerve,
+1b. állami adó- és vámhatóság: a NAV;
 
-1/c. vámhivatal: a Nemzeti Adó- és Vámhivatal alsó fokú vámszerve vagy annak kirendeltsége,
+1/c.
 
-1/d. állami adó- és vámhatóság: a Nemzeti Adó- és Vámhivatal adóztatási és vámszerve együtt;
+1/d.
 
 2. vámigazgatási eljárás: a vámhatóság által a vám- és egyéb jogszabályok rendelkezéseinek érvényesítése érdekében végzett cselekmények összessége;
 
@@ -44,7 +50,7 @@ b) nem áll csődeljárás, felszámolási eljárás, végelszámolási eljárá
 
 a) közvetlen vámfelügyelet: az áru őrzése – ideértve a vámhatóság által üzemeltetett közvámraktárat, és a hivatalból történő raktározást – vagy hivatalos kísérése,
 
-b) közvetett vámfelügyelet: a vámszervezet által gyakorolt minden egyéb felügyeleti forma;
+b) közvetett vámfelügyelet: a vámhatóság által gyakorolt minden egyéb felügyeleti forma;
 
 7.
 
@@ -82,6 +88,6 @@ a) ügyvezetésre vagy képviseletre feljogosított tagja vagy tisztségviselőj
 
 b) tagja vagy alkalmazottja az AEO-tanúsítvány iránti kérelmet benyújtó gazdasági szereplő tevékenységi körében követte el, és azt a vezető tisztségviselő felügyeleti vagy ellenőrzési kötelezettségének teljesítése megakadályozhatta volna.
 
-17. tartozás: a magyar állami adó-, illetve vámhatóságnál – engedély nélkül – az előírt vagy a fizetési felszólításban meghatározott időtartamon túl meg nem fizetett összeg megfizetésére való kötelezettség.
+17. tartozás: a magyar állami adó- és vámhatóságnál – engedély nélkül – az előírt vagy a fizetési felszólításban meghatározott időtartamon túl meg nem fizetett összeg megfizetésére való kötelezettség.
 
-(4) A (3) bekezdés 3. pont b) pontjában meghatározott adatot a vámhatóság közvetlenül kéri meg az ügyfél cégjegyzékadatairól nyilvántartást vezető cégbíróságtól. A felsorolt feltételek fennállását – a vámhatósági adatok és adóhatósági adatok, illetve a vámkódex 5a. cikke szerinti engedélyezett gazdálkodó státusszal rendelkezők kivételével – az illetékes vámszervnél a kérelmezőnek évente igazolnia kell. A vámhatóság a feltételek meglétét folyamatosan, illetve bármikor vizsgálhatja. A megbízható vámadós személyre vonatkozó feltételeket az EK végrehajtási rendelet 14a. cikk (1) bekezdésében meghatározott AEO-tanúsítvánnyal rendelkező személyeknél a tanúsítvány kiadása, illetve az EK végrehajtási rendelet 14q. cikk (5) bekezdése szerinti újbóli értékelése során együtt vizsgálja a vámhatóság. A feltételek fennállását az AEO-tanúsítványra vonatkozó szabályok szerint kell igazolni.
+(4) A (3) bekezdés 3. pont b) pontjában meghatározott adatot a vámhatóság közvetlenül kéri meg az ügyfél cégjegyzékadatairól nyilvántartást vezető cégbíróságtól. A felsorolt feltételek fennállását – az állami adó- és vámhatósági adatok, illetve a vámkódex 5a. cikke szerinti engedélyezett gazdálkodó státusszal rendelkezők kivételével – az illetékes vámszervnél a kérelmezőnek évente igazolnia kell. A vámhatóság a feltételek meglétét folyamatosan, illetve bármikor vizsgálhatja. A megbízható vámadós személyre vonatkozó feltételeket az EK végrehajtási rendelet 14a. cikk (1) bekezdésében meghatározott AEO-tanúsítvánnyal rendelkező személyeknél a tanúsítvány kiadása, illetve az EK végrehajtási rendelet 14q. cikk (5) bekezdése szerinti újbóli értékelése során együtt vizsgálja a vámhatóság. A feltételek fennállását az AEO-tanúsítványra vonatkozó szabályok szerint kell igazolni.

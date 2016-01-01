@@ -18,7 +18,7 @@ h) a vámhatóság hatáskörébe tartozó közvetlen közösségi bevételi sz�
 
 i) a hitelkamat felszámításának részletes szabályait,
 
-j) a szemledíjra és egyéb díjakra vonatkozó részletes – ideértve annak mértékét is, de kivéve a NAV Szakértői Intézeténél végzett laboratóriumi vizsgálatok díjának mértékét – szabályokat,
+j) a szemledíjra és egyéb díjakra vonatkozó részletes – ideértve annak mértékét is, de kivéve az állami adó- és vámhatóságnál végzett laboratóriumi vizsgálatok díjának mértékét – szabályokat,
 
 k) az egyszerűsített eljárásokra vonatkozó részletes szabályokat,
 

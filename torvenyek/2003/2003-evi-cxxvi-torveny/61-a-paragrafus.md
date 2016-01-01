@@ -44,7 +44,7 @@ meghatározott vámigazgatási bírságot köteles fizetni. Hosszú távú besz�
 
 (6c) Amennyiben az (1) bekezdés b) pontjában meghatározott kötelezettség megszegése esetén a vámhiány a 30 000 forintot nem haladja meg, az eljáró vámszerv gyorsított eljárás keretében a helyszínen vámigazgatási bírságot szabhat ki és szedhet be, amennyiben a nem közösségi áru birtokosa, szállítója a jogsértés tényét elismeri, továbbá a jogkövetkezményekről szóló tájékoztatást tudomásul veszi és jogorvoslati jogáról lemond. A gyorsított eljárás csak akkor alkalmazható, ha a kiszabott bírságot a helyszínen megfizetik. A (6)–(6a) bekezdésben foglaltaktól eltérően a vámigazgatási bírság összege ebben az esetben a vámhiány hetvenöt százaléka, de legalább 4000 forint, a jövedéki termékre elkövetett jogsértés esetén legalább 25 000 forint.
 
-(6d) A gyorsított eljárás során, a magyar nyelvet nem beszélő, külföldi állampolgár esetén a tolmács alkalmazása mellőzhető, ha az érintett a NAV elnöke által kiadott tájékoztatásban szereplő idegen nyelvű tájékoztató átvételét követően, írásban lemond a tolmács igénybevételéről.
+(6d) A gyorsított eljárás során, a magyar nyelvet nem beszélő, külföldi állampolgár esetén a tolmács alkalmazása mellőzhető, ha az érintett az állami adó- és vámhatóság vezetője által kiadott tájékoztatásban szereplő idegen nyelvű tájékoztató átvételét követően, írásban lemond a tolmács igénybevételéről.
 
 (6e) Amennyiben a vámáru-nyilatkozat benyújtási kötelezettség megszegése a (3) bekezdésben foglaltak szerint valósul meg, a (6b)–(6c) bekezdésben foglaltak nem alkalmazhatók.
 
