@@ -2,9 +2,17 @@
 
 (2)[^3] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak, valamint három példányát a haláleset helye szerint illetékes anyakönyvvezetőnek.
 
-(3) A haláleset helye szerint illetékes anyakönyvvezető a haláleset anyakönyvezése és a haláleset anyakönyvezése igazolásának a halottvizsgálati bizonyítványon történő feltünetése után a halottvizsgálati bizonyítvány egy-egy példányát megküldi a Központi Statisztikai Hivatalnak (a továbbiakban: KSH) és a hagyatéki eljárás megindítása érdekében a haláleset helye szerint illetékes jegyzőnek.
+(3)[^4] A haláleset helye szerint illetékes anyakönyvvezető a haláleset anyakönyvezése és a haláleset anyakönyvezése igazolásának a halottvizsgálati bizonyítványon történő feltüntetése után a halottvizsgálati bizonyítvány egy-egy példányát megküldi a Központi Statisztikai Hivatalnak (a továbbiakban: KSH) és a hagyatéki eljárás lefolytatására
 
-(4)[^4] Ha a halál okát megállapító orvos a perinatális halottvizsgálati bizonyítványt halva született magzatról állítja ki, annak egy-egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak és a KSH-nak. Egyéb perinatális halálozás esetén a perinatális halottvizsgálati bizonyítványt a halottvizsgálati bizonyítvánnyal megegyező módon kell továbbítani.
+a) az elhunyt utolsó belföldi lakóhelye,
+
+b) az a) pontban foglaltak hiányában az elhunyt utolsó belföldi tartózkodási helye,
+
+c) az a) és b) pontokban foglaltak hiányában az elhunyt belföldi elhalálozásának helye
+
+## szerint illetékes jegyző részére.
+
+(4)[^5] Ha a halál okát megállapító orvos a perinatális halottvizsgálati bizonyítványt halva született magzatról állítja ki, annak egy-egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak és a KSH-nak. Egyéb perinatális halálozás esetén a perinatális halottvizsgálati bizonyítványt a halottvizsgálati bizonyítvánnyal megegyező módon kell továbbítani.
 
 (5) A halottvizsgálati bizonyítványt legkésőbb a halálok megállapítása napját követő első munkanapon kell továbbítani.
 
@@ -17,4 +25,5 @@
 (9) A halottvizsgálati bizonyítványt úgy kell továbbítani, hogy az anyakönyvvezető és a jegyző – a (6) és a (7) bekezdésben foglaltak kivételével – az 1. melléklet 25–31. pontjában és a 2. melléklet 24–26. pontjában foglalt adatokat ne ismerhesse meg.
 
 [^3]: A 42. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
-[^4]: A 42. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
+[^4]: A 42. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 205. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^5]: A 42. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
