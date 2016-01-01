@@ -44,6 +44,12 @@ v) a határon átnyúló tartási ügyekben a tartási igénnyel kapcsolatos ké
 
 z) a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 6. § (5) bekezdése, 12. § (7) bekezdése, 16. § (2b) bekezdése és 16. § (10) bekezdése szerinti tanúsítvány kiállítása, valamint 17/A–17/B. §-a szerinti bírósági eljárás.
 
+zs) ha azt a cég tagja, vagy képviselője kéri
+
+zsa) a cég cégkivonatának, cégbizonyítványának és cégmásolatának kiállítása,
+
+zsb) a cég cégnyilvántartásban szereplő elektronikus okiratainak elektronikus úton történő megküldése.
+
 (2) Illetékmentes a büntető ügyekben:
 
 a) az 52. § (1) bekezdésében megjelölt eljárásban a terhelt és a védő fellebbezése, perújítási kérelme és felülvizsgálat iránti indítványa;

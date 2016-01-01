@@ -10,7 +10,11 @@
 
 a) az eljárás megindításakor az eljárást kezdeményező iraton illetékbélyeggel vagy
 
-b) az ügyszám megjelölésével, az eljáró hatóság felhívásában szereplő határidőn belül banki átutalással
+b) átutalással, az átutalás közleményrovatában az ügyfél neve, lakcíme vagy székhelye, valamint a bb) alpont esetén az ügyszám feltüntetésével
+
+ba) az eljárás kezdeményezését megelőzően vagy
+
+bb) az eljáró hatóság felhívására
 
 kell megfizetni a (2)–(4), a (4a), a (7) és (8), valamint a (11) bekezdésben foglaltak kivételével.
 

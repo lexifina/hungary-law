@@ -42,6 +42,8 @@ f) az elhunyt születési és házassági anyakönyvi kivonatának a haláleset 
 
 g) a nemzetiségek jogairól szóló törvény alapján kijavított anyakönyvi adatokról az érdekelt részére első ízben;
 
+h) az apa adatait a születés anyakönyvezése után jegyezték be, és e bejegyzést követően az érdekelt részére első alkalommal
+
 történik a kiállítása;
 
 5/A. a házassági név megváltoztatására irányuló eljárás;
@@ -128,4 +130,26 @@ történik a kiállítása;
 
 46. a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) való felvétel, az adatmódosítás, a szolgáltatói nyilvántartásból való törlés, a szolgáltatói nyilvántartással kapcsolatos bejelentések, a szolgáltatói nyilvántartás adatairól hatósági bizonyítvány kiállítása és a szolgáltatói nyilvántartásból teljesített egyéb adatszolgáltatás;
 
-47. a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás.
+47. a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás;
+
+48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése miatt kezdeményezett elsőfokú közigazgatási hatósági eljárás.
+
+49. a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal;
+
+50. a vállalkozói igazolvánnyal és az üzlet működési engedélyével kapcsolatos eljárás;
+
+51. az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiadására irányuló eljárás;
+
+52. a családi állapot változásból eredő névváltozás miatt indult eljárás;
+
+53. az eltulajdonított okmányok pótlására irányuló eljárás;
+
+54. a mozgásában korlátozott személy parkolási igazolványával kapcsolatos eljárás;
+
+55. az oktatási igazolvány kiállítása;
+
+56. a mezőgazdasági és erdészeti gépkezelői jogosítvány kiállítása;
+
+57. a népi iparművészeti igazolvánnyal kapcsolatos eljárás;
+
+58. jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás.

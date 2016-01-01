@@ -68,7 +68,7 @@ u) a magánszemély lakásvásárlása, amennyiben az a hitelszerződésből ere
 
 v) az egyéni cég egyszemélyes korlátolt felelősségű társasággá való átalakulása keretében történő vagyonszerzés;
 
-w) a kizárólag elektromos hajtómotorral ellátott gépjármű tulajdonjogának, illetve ilyen gépjárműre vonatkozó vagyoni értékű jognak a megszerzése;
+w) a gépjárműadóról szóló törvény szerinti környezetkímélő gépkocsi tulajdonjogának, valamint ilyen gépjárműre vonatkozó vagyoni értékű jognak a megszerzése;
 
 x) az ingatlannak a futamidő végén tulajdonjog átszállást eredményező lízingszerződés keretében történő megszerzése, ha az ingatlan a lízingszerződés megkötéséig a lízingbevevő tulajdona volt, és a tulajdonjog a lízingszerződés megkötése érdekében került a lízingbeadónak átadásra;
 
@@ -83,6 +83,16 @@ zb) házastársak egymás közötti vagyonátruházásából,
 zc) a házastársi vagyonközösség megszüntetéséből
 
 származik.
+
+(1a) Mentes a visszterhes vagyonátruházási illeték alól:
+
+a) a gépjárműadóról szóló törvény szerinti autóbusz, nyerges vontató és tehergépjármű, továbbá a pótkocsi gazdálkodó szervezet általi megszerzése;
+
+b) a lakástulajdon magánszemély bérlő vagy annak magánszemély örököse általi megvásárlása, ha a lakás a lakásbérleti szerződés megkötéséig a magánszemély bérlő tulajdonában állt, és a tulajdonjogot a lakásbérleti szerződés megkötése érdekében adták át a bérbeadónak;
+
+c) a lakástulajdon megszerzése, ha azt a vagyonszerző a lakásvásárlásról szóló adásvételi szerződésben határozott időre, de legalább 5 évre a vételár 7 százalékát meg nem haladó éves bérleti díj ellenében bérbe adja a lakás korábbi magánszemély tulajdonosának, feltéve, hogy a bérlő vagy annak magánszemély örököse számára a vagyonszerző a lakásvásárlásról szóló adásvételi szerződés hatályának beálltától számított 5 éven belül gyakorolható visszavásárlási jogot létesít, legfeljebb a bérbeadó által fizetett vételár 105 százalékának megfelelő vételáron;
+
+d) az ingatlan forgalmi értékéből az épület forgalmi értékének megfelelő rész, ha a telek tulajdonosával kötött megállapodásból és az építés költségeit, körülményeit tanúsító egyéb okiratokból egyértelműen kitűnik, hogy az épületet a vagyonszerző hozta létre.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -165,3 +175,7 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 (19) Az (1) bekezdés y) pontja szerinti illetékmentesség alkalmazása során, ha a magánszemély egy éven belül több lakástulajdont cserél, vásárol, illetve értékesít, minden egyes lakáscserével, lakásvásárlással szemben – a szerzést közvetlenül megelőző vagy követő, azonos jogcímű – egyetlen értékesítést lehet figyelembe venni. Az (1) bekezdés y) pontja szerinti illetékmentesség, valamint e bekezdés alkalmazása során nem minősül tehernek a lakástulajdonhoz kapcsolódó haszonélvezet, használat joga. Az (1) bekezdés y) pontjában meghatározott illetékmentességi rendelkezést lakástulajdonhoz kapcsolódó vagyoni értékű jog magánszemélyek általi megszerzésekor megfelelően kell alkalmazni.
 
 (20) Az (1) bekezdés g), h), q) és t) pontja szerinti mentesség a 17. § (4) bekezdésében említett feltételek fennállásakor vehető igénybe.
+
+(21) Az (1) bekezdés w) pontja szerinti mentesség csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
+
+(22) Az (1a) bekezdés c) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a felfüggesztett illetéket törli, ha az (1a) bekezdés c) pontja szerinti bérlő vagy annak magánszemély örököse az (1a) bekezdés c) pontja szerinti szerződés hatályának beálltától számított 5 éven belül a szerződés aláírását közvetlenül megelőző tulajdoni hányadának megfelelő tulajdoni hányadot visszavásárolja.

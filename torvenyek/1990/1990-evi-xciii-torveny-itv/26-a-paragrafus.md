@@ -6,4 +6,4 @@ b) a megsemmisült lakástulajdon pótlására 10 millió forintot meg nem halad
 
 (2) Az (1) bekezdés b) pontjában említett tulajdoni hányad megszerzése esetén az illetékmentesség csak akkor alkalmazható, ha annak aránya nem haladja meg a vagyonszerzőnek a megsemmisült lakástulajdonra vonatkozó tulajdoni hányadát.
 
-(3) A vagyonszerző a megsemmisült lakás tulajdoni viszonyait hiteles tulajdoni lap másolatával, az (1) bekezdés a) pontjában foglaltakat pedig a megsemmisült lakástulajdon fekvése szerint illetékes önkormányzat jegyzője által illetékmentesen kiállított hatósági bizonyítvánnyal köteles igazolni legkésőbb a fizetési meghagyás jogerőre emelkedéséig.
+(3) A vagyonszerző az (1) bekezdés a) pontjában foglaltakat a megsemmisült lakástulajdon fekvése szerint illetékes önkormányzat jegyzője által illetékmentesen kiállított hatósági bizonyítvánnyal köteles igazolni legkésőbb a fizetési meghagyás jogerőre emelkedéséig.

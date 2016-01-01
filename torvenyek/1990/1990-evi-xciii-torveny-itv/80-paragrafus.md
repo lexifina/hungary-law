@@ -20,8 +20,16 @@ i) mindazokban a bírósági eljárásokban, ahol az eljárás illetékmentes, v
 
 j) a hatóság visszatéríti a természetes személy ügyfél által lerótt illetéket, ha számára az eljárás során költségmentességet engedélyez, vagy ha hatásköre az ügy elbírálása alatt megszűnt, és az ügy elbírálására nincs hatáskörrel rendelkező más hatóság;
 
-k) ha a hatóság a kérelmet érdemi vizsgálat nélkül utasítja el, vagy ha az eljárás megszüntetésének oka, hogy a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye.
+k) ha a hatóság a kérelmet érdemi vizsgálat nélkül utasítja el, vagy ha az eljárás megszüntetésének oka az, hogy
+
+ka) a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, vagy
+
+kb) az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, és törvény nem biztosít lehetőséget az eljárás felfüggesztésére;
+
+l) ha a hatóság arról rendelkezik, hogy a kérelmező ügyfél mentesül az eljárási költségek megfizetése alól.
 
 (2) Az (1) bekezdés d)—e) pontjában meghatározott esetekben a vagyoni értékű jog tényleges ideje után számított illetéket meghaladó részt kell törölni, illetve visszatéríteni.
 
 (3) Ha az 5. § (1) bekezdése szerinti szervezet (alapítvány) közigazgatási hatósági vagy bírósági eljárás kezdeményezésekor, illetve gépjármű, pótkocsi szerzése esetén az illetékmentesség igénybevételére jogosult lett volna, a megfizetett illetéket az adózó kérelmére – az adóvisszatérítés szabályai szerint – az állami adóhatóság visszatéríti. Az eljárási illeték visszatérítése iránti kérelmet az állami adóhatósághoz címezve az eljáró közigazgatási hatóságnál vagy bíróságnál kell benyújtani, mely az eljárási illeték megfizetésének tényét igazolva a kérelmet továbbítja az állami adóhatósághoz.
+
+(4) A megfizetett visszterhes vagyonátruházási és öröklési illetéket – az adózó kérelmére – vissza kell téríteni, ha a műemlékvédelmi hatóság igazolja, hogy a vagyonszerző a műemléki értékként külön jogszabályban védetté nyilvánított vagy önkormányzati rendelet alapján helyi egyedi védelem alatt álló épület felújítását a vagyonszerzés illetékkiszabásra történő bejelentésétől számított 1 éven belül megkezdte és 5 éven belül befejezte. Felújítás alatt a műemléképület egészén, illetve homlokzatán és több főszerkezetén végzett olyan általános javítást kell érteni, amely teljesen visszaállítja az épület esztétikai állapotát, valamint legalább eredeti műszaki állapotát.

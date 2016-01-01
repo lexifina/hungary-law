@@ -28,6 +28,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5) Az 57. § (2) bekezdés f) pontja a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.
 
+(5) E törvény 26. § (1) bekezdés w) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
+
 ## Melléklet
 
 I. A szabálysértési eljárás illetéke
@@ -56,7 +58,7 @@ IV. A másolat és kivonat illetéke
 
 2. Illetékmentes – az elektronikus úton benyújtott adóbevallások kivételével – az adóbevallás másolata.
 
-3. Az illetéket a másolat átvételekor az eredeti iraton illetékbélyeggel kell megfizetni.
+3.
 
 4. Illetékmentes az a hitelesített vagy nem hitelesített másolat, amely illetékmentes eljáráshoz szükséges.
 
@@ -112,6 +114,12 @@ I. Az úti okmányok kiadásával kapcsolatos eljárás illetéke
 
 1. A magánútlevél, a szolgálati és hajós szolgálati útlevél kiadásának illetéke 7500 forint, ha a magánútlevél érvényességi ideje 10 év, 14 000 forint. A kérelem benyújtásának időpontjában 18. életévét be nem töltött személy és a 70. életévét betöltött személy magánútlevelének, az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, valamint a menekültként elismert személyek kétnyelvű úti okmánya kiadásának illetéke 2500 forint.
 
+1a. A kérelem benyújtásának időpontjában
+
+a) három vagy több kiskorú gyermeket háztartásában nevelő törvényes képviselő esetén a kiskorú gyermek magánútlevele kiadásának illetéke 500 forint;
+
+b) két kiskorú gyermeket háztartásában nevelő törvényes képviselő esetén a kiskorú gyermek magánútlevele kiadásának illetéke 1250 forint.
+
 2. A második magánútlevél kiadásának illetéke az 1. pontban meghatározott mértékek kétszerese.
 
 3. A magánútlevél, valamint a második magánútlevél soron kívüli kiállításáért az 1–2. pontban meghatározott mértékű illetéket, valamint jogszabályban meghatározott igazgatási szolgáltatási pótdíjat kell fizetni.
@@ -140,27 +148,7 @@ d) az úti okmány cseréje, amennyiben arra azért kerül sor, mert az úti okm
 
 11. Az útlevél kiállítására irányuló hatósági eljárásban benyújtott fellebbezés illetéke 5000 forint.
 
-II. Személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával kapcsolatos eljárás illetéke
-
-1. Az állandó személyazonosító igazolvány kiadására irányuló eljárás illetéke 1500 forint. Ha az eljárásban az állandó személyazonosító igazolvány átmenetileg nem adható ki és ezért ideiglenes személyazonosító igazolvány kiadása is szükséges, az eljárás illetéke összesen 3000 forint.
-
-2. Illetékmentes
-
-a) a 14. életévét be nem töltött polgár személyazonosító igazolványa iránti kérelme, kivéve az elveszett, megsemmisült, megrongálódott okmány cseréje esetén,
-
-b) a 65. életévét betöltött polgár személyazonosító igazolvány iránti kérelme, ha útlevéllel vagy kártyaformátumú vezetői engedéllyel nem rendelkezik.
-
-3. Illetékmentes
-
-a) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29. § (9) bekezdésében foglalt esetben a személyazonosító igazolvány eltulajdonítása miatt új személyazonosító igazolvány kiadására irányuló eljárás,
-
-b) a személyi azonosítót és lakcímet igazoló hatósági igazolvány eltulajdonítása miatt új, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadására irányuló eljárás.
-
-4. A személyi azonosítót és lakcímet igazoló hatósági igazolvány illetéke – ha az eljárás a személyi azonosítót vagy a lakcímet nem érintő adatváltozás miatt indult – 500 forint.
-
-5. Illetékmentes a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása, ha arra a személyazonosító igazolvány kiadása, lakcímváltozás, illetve – 14. életévét be nem töltött kiskorú esetén – a kérelemre feltüntethető adatok változása miatt kerül sor.
-
-6. Ha a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadására irányuló eljárásra az igazolvány elvesztése, megsemmisülése, megrongálódása miatt kerül sor, az eljárás illetéke 1000 forint.
+II.
 
 III. A gépjárművezetői engedély, a forgalmi engedély és a törzskönyv kiadásával kapcsolatos eljárás illetéke
 
@@ -170,23 +158,25 @@ III. A gépjárművezetői engedély, a forgalmi engedély és a törzskönyv ki
 
 3. A törzskönyv kiadására irányuló eljárás illetéke 6000 forint.
 
+4. A gépjárművezetői engedély kiadása első alkalommal illetékmentes.
+
 IV. Egyéb rendelkezések
 
 1. Az I–III. pontokban meghatározott okmányok egy eljárásban történő igénylése esetén is az eljárási illetéket az igényelt okmányonként külön-külön kell megfizetni.
 
 2. Illetékmentes:
 
-a) az e címben meghatározott okmány cseréje, ha a csere a hatóság téves bejegyzésén alapul vagy az okmány gyártáshibás;
+a) az e címben meghatározott okmány cseréje, ha az okmány gyártáshibás;
 
 b) a személyi azonosító képzése – ideértve a személyi azonosító megváltozását eredményező adatváltozást is – miatt kiállított hatósági igazolvány;
 
 c) az érintett polgár adatainak a polgárok személyi adatainak és lakcímének nyilvántartásából való törlésére irányuló eljárás;
 
-d) a személyi azonosítót és lakcímet igazoló hatósági igazolvány és a forgalmi engedély cseréjére irányuló eljárás, amennyiben arra a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása miatt kerül sor.
+d) a forgalmi engedély cseréjére irányuló eljárás, amennyiben arra a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása miatt kerül sor.
 
 X. Anyakönyvi és névváltoztatási eljárás
 
-1. A házassági névviselési forma módosítására irányuló kérelem illetéke 5000 forint.
+1.
 
 2. A születési név megváltoztatására irányuló kérelem illetéke 10 000 forint. Az egy családhoz tartozó nagykorúak közös kérelme esetében az illetéket minden nagykorúnak külön-külön kell megfizetni.
 
@@ -196,7 +186,7 @@ X. Anyakönyvi és névváltoztatási eljárás
 
 5. Nem magyar állampolgár Magyarországon történő házasságkötéséhez szükséges olyan igazolás alóli felmentésért, amely tanúsítja, hogy a házasságkötésnek a személyes joga szerint nincs akadálya, 5000 forint illetéket kell fizetni.
 
-6. A névváltoztatási okiratmásolat kiállítására irányuló kérelem illetéke 1000 forint.
+6.
 
 XI. A külön jogszabály szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő hatósági eljárások illetéke
 
@@ -290,13 +280,17 @@ II. Az építésfelügyeleti hatóságnál indított eljárás illetéke
 
 1. bontás tudomásul vételi eljárása esetén 5000 forint,
 
-2. építőipari kivitelezési tevékenység megkezdésének tudomásul vételi eljárása esetén 5000 forint,
+2.
 
 3. az építésrendészeti hatósági intézkedés kezdeményezése esetén 15 000 forint,
 
 III. Az építésügyi vagy építésfelügyeleti hatósági eljárásban hozott döntés elleni fellebbezés illetéke 30 000 forint.
 
-IV. Illetékmentes és igazgatási szolgáltatási díjmentes a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása.
+IV. Illetékmentes és igazgatási szolgáltatási díjmentes
+
+a) a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása,
+
+b) a 160 m2-nél kisebb hasznos alapterületű, más önálló rendeltetési egységet nem tartalmazó, egylakásos lakóépület bontási, építési (továbbépítési), módosított építési és használatbavételi engedélyezési, a használatbavétel tudomásulvételi és a bontási tevékenység megkezdésének tudomásulvételi eljárása, valamint az engedélyezési eljárásban közreműködő szakhatóság eljárása.
 
 V. Ha az építésügyi vagy az építésfelügyeleti hatósághoz egyszerre többféle eljárás lefolytatása iránti kérelem kerül beadásra és azok a külön jogszabály szerint összevonhatóak, vagy egy kérelemmel is benyújthatóak, az illetéket az összevonásra kerülő eljárásonként kell megfizetni.
 
@@ -304,19 +298,13 @@ VI. Az építésügyi hatóságnál indított eljárás illetéke antennák, ant
 
 XVI.
 
-XVII. A vállalkozói igazolvány és az üzlet működési engedélyének illetéke
-
-1. A vállalkozói igazolvány kiadása iránti eljárás illetéke 10 000 forint. A vállalkozói igazolványban feltüntetett adatok változása miatti igazolványcseréért – a módosítások számára tekintet nélkül – 3000 forint illetéket kell fizetni. Illetékmentes a módosítás, ha arra a vállalkozói igazolványban feltüntetett helységnév, utcanév, házszám állami vagy önkormányzati döntés alapján történő megváltoztatása miatt kerül sor. A megrongálódott, megsemmisült, elveszett vállalkozói igazolvány pótlása iránti eljárás illetéke 5000 forint.
-
-2. Üzlet működési engedélye iránti eljárás illetéke 10 000 forint. A működési engedélyben feltüntetett adatok módosításáért – a változtatások számára tekintet nélkül – 3000 forint illetéket kell fizetni. Illetékmentes a módosítás, ha arra a működési engedélyben feltüntetett helységnév, utcanév, házszám állami vagy önkormányzati döntés alapján történő megváltoztatása, illetve a vállalkozó székhelyének, telephelyének más megye illetékességi területéhez történő csatolása miatt kerül sor.
-
-3. A megrongálódott, megsemmisült, elveszett működési engedélyről kiállított – az eredetivel pontosan egyenlő és egyenlő értékű – másodlat illetéke 3000 forint.
+XVII.
 
 XVIII. A külkereskedelemmel kapcsolatos eljárások illetéke
 
 1. A felügyeleti okmány kiállítása illetékmentes.
 
-2. A kereskedelmi forgalomban áruk, szolgáltatások és anyagi értéket képviselő jogok behozatalának engedélyezését kezdeményező eljárás illetéke 15 000 forint, a kiadott engedély módosítása iránti eljárás illetéke 10 000 forint. Az engedélyező hatóság előtt indított minden további eljárásért 7000 forint illetéket kell fizetni. A fellebbezési eljárás illetéke az elsőfokú eljárás illetékének kétszerese. Az engedélyezési eljárás illetékét az eljárás kezdeményezésekor illetékbélyegben kell leróni.
+2. A kereskedelmi forgalomban áruk, szolgáltatások és anyagi értéket képviselő jogok behozatalának engedélyezését kezdeményező eljárás illetéke 15 000 forint, a kiadott engedély módosítása iránti eljárás illetéke 10 000 forint. Az engedélyező hatóság előtt indított minden további eljárásért 7000 forint illetéket kell fizetni. A fellebbezési eljárás illetéke az elsőfokú eljárás illetékének kétszerese.
 
 3. Az e törvény szerint teljes személyes illetékmentességben részesülő szerv megbízása alapján indított a 2. pontban említett eljárás illetékmentes. Az illetékmentességet a mentesség jogcímének megjelölésével és a megbízási szerződéssel kell igazolni.
 
@@ -348,7 +336,7 @@ XXI. A hatósági bizonyítvány kiállítása iránti eljárás illetéke
 
 3. Az anyakönyvi kivonat kiállítása iránti eljárás illetéke – kivonatonként – 2000 forint.
 
-4. Az adózás rendjéről szóló törvény 36/A. §-ának (1) bekezdésében meghatározott együttes adóigazolás illetékmentes. Az ilyen igazolás más eljárásban nem használható fel.
+4. Az adózás rendjéről szóló törvényben meghatározott adóhatósági igazolások illetékmentesek.
 
 XXII. A vízgazdálkodással kapcsolatos helyi önkormányzati hatósági eljárások illetéke
 

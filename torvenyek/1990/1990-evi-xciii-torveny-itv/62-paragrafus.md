@@ -36,7 +36,9 @@ r) a közigazgatási eljárás során hozott végzés felülvizsgálatára irán
 
 s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban,
 
-t) a szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban.
+t) a szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban;
+
+u) a hallgatói hitelből eredő követelés érvényesítése és behajtása iránti peres és nemperes eljárásban.
 
 (2) Az (1) bekezdés a)–c) és g)–h), továbbá l) pontjaiban említett perek esetén, ha az összegszerűség megállapítása a bíróság mérlegelésétől függ és a kereset nem volt nyilvánvalóan eltúlzott, részleges pervesztesség esetén a bíróság a fél illetékfizetésre való kötelezését mellőzheti.
 
