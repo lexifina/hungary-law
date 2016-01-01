@@ -16,10 +16,10 @@
 
 (6) A vállalkozás a Hatóság vagy a Nemzeti Adó- és Vámhivatal felhívására tájékoztatást ad a kivitt, behozott, Magyarországon átszállított vagy transzferált haditechnikai eszköz végfelhasználóiról és végfelhasználásról, valamint az elvégzett eljárások befejezéséről.
 
-(7)[^55] A haditechnikai eszközök behozatalára, kivitelére, újrakivitelére és tranzitjára irányuló vámhatósági eljárások kizárólag kérelemre, és az engedélyes, annak megbízottja vagy képviselője kezdeményezésre indulhatnak a Nemzeti Adó- és Vámhivatal alsó fokú vámszerveinél.
+(7)[^55] A haditechnikai eszközök behozatalára, kivitelére, újrakivitelére és tranzitjára irányuló vámhatósági eljárások kizárólag kérelemre, és az engedélyes, annak megbízottja vagy képviselője kezdeményezésre indulhatnak a Nemzeti Adó- és Vámhivatal vámszerveinél.
 
 [^51]: A 23. § a 221/2014. (IX. 4.) Korm. rendelet 571. § b) pontja szerint módosított szöveg.
 [^52]: A 24. § a 78/2013. (III. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^53]: A 24. § (4) bekezdése a 441/2013. (XI. 20.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
 [^54]: A 24. § (5) bekezdése a 80/2015. (III. 31.) Korm. rendelet 10. § c) pontja és 11. § (2) bekezdése szerint módosított szöveg. [A 24. § (5) bekezdés első mondatának a 441/2013. (XI. 20.) Korm. rendelet 14. § b) pontjával elrendelt módosítása, amely szerint a „globális és egyedi forgalmi engedély” szövegrész helyébe a „globális és egyedi forgalmi engedély, valamint a 258/2012/EU rendelet szerinti kiviteli engedély” szöveg lép, nem vezethető át.]
-[^55]: A 24. § (7) bekezdése a 80/2015. (III. 31.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^55]: A 24. § (7) bekezdése a 80/2015. (III. 31.) Korm. rendelet 10. § d) pontja, a 486/2015. (XII. 29.) Korm. rendelet 31. §-a szerint módosított szöveg.
