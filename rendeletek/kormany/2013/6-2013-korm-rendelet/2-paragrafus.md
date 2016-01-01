@@ -30,8 +30,9 @@ l) a BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF
 
 m) a Rendőrség szervei (a továbbiakban: Rendőrség).
 
-(2) A Nemzeti Adó- és Vámhivatal és területi szervei (a továbbiakban: vámhatóság) a III. Fejezetben foglaltak szerint részt vesznek az importtermékek ellenőrzésében.
+(2)[^2] A Nemzeti Adó- és Vámhivatal a III. Fejezetben foglaltak szerint részt vesz az importtermékek ellenőrzésében.
 
 (3) Az NFH feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
 
 [^1]: A 2. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 218. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a szerint módosított szöveg.
