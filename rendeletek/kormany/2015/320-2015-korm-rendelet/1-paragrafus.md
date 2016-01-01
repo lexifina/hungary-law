@@ -32,10 +32,10 @@ i) azon beszerzésekre, amelyek megvalósítása európai uniós alapokból, vag
 
 j) az i) pontban meghatározott beszerzéseken túlmenően azon beszerzésekre, amelyek fedezetét legalább 50%-ban nem az államháztartás alrendszereiből vagy az államháztartásról szóló 2011. évi CXCV. törvény 3/A. §-a szerinti közfeladat ellátásából származó pénzeszközök biztosítják;
 
-k)[^1]
+k)[^1] az állami felsőoktatási intézménynek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontjában meghatározott felsőoktatási kutatás-fejlesztési vállalkozási tevékenység érdekében, valamint 100. § (5) bekezdésében foglaltak érdekében történő beszerzéseire.
 
 (3) Az (1) bekezdésében meghatározott szervezetek (a továbbiakban együttesen: érintett szervezet) közül a közalapítványok, a nem kizárólagos állami tulajdonban álló gazdálkodó szervezetek, valamint az (1) bekezdés e) pontjában meghatározott alapítványok e rendelet előírásait kizárólag az államháztartás alrendszereiből származó pénzeszközök felhasználásával történő beszerzéseikre, szerződéskötéseikre kötelesek alkalmazni.
 
 (4) E rendelet 15–17. §-ának rendelkezéseit nem kell alkalmazni az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság által az államadósság-kezelés körében megkötésre kerülő azon szerződésekre, amelyekre közbeszerzési eljárást a közbeszerzési törvény 9. § (8) bekezdés e) pontja alapján nem kell lefolytatni, továbbá ezen eljárások eredményeként kötött szerződések módosítására.
 
-[^1]: Az 1. § (2) bekezdés k) pontja a 26. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^1]: Az 1. § (2) bekezdés k) pontja a 473/2015. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
