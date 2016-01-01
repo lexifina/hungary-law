@@ -14,7 +14,7 @@ ingatlan.
 
 (4) A közlekedési hatóság az egyéb kötöttpályás közlekedési rendszer építésével, korszerűsítésével, átalakításával és megszüntetésével kapcsolatos engedélyezési eljárásban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezését követő naptól számított harminc napon belül adja ki.
 
-(5) Az ügyintézési határidő a közlekedési hatóságnak az egyéb kötöttpályás közlekedési rendszer építésével, használatbavételével, korszerűsítésével, átalakításával és megszüntetésével kapcsolatos engedélyezési eljárásában, és az ellenőrzési eljárásban hat hónap. Az eljárás megindításáról az ügyfeleket és az érdekelteket a közlekedési hatóság a kérelem beérkezésétől számított tizenöt napon belül értesíti. A szakhatósági eljárás ügyintézési határideje harminc nap.
+(5) Az ügyintézési határidő a közlekedési hatóságnak az egyéb kötöttpályás közlekedési rendszer építésével, használatbavételével, korszerűsítésével, átalakításával és megszüntetésével kapcsolatos engedélyezési eljárásában, és az ellenőrzési eljárásban négy hónap. Az eljárás megindításáról az ügyfeleket és az érdekelteket a közlekedési hatóság a kérelem beérkezésétől számított tizenöt napon belül értesíti. A szakhatósági eljárás ügyintézési határideje huszonegy nap.
 
 (6) Az egyéb kötöttpályás közlekedési rendszer engedélyezésével kapcsolatos jogerős határozattal szemben újrafelvételi kérelem nem nyújtható be.
 
