@@ -12,7 +12,7 @@ d) az előírt monitoring végrehajtásának részleteit,
 
 e) a 4. § (3) bekezdés szerinti esetekben a beavatkozással felmerült költségek ismertetését.
 
-(3)[^23] A környezetvédelmi hatóság a beavatkozási záródokumentáció kézhezvételét követő két hónapon belül dönt:
+(3)[^23] A környezetvédelmi hatóság a beavatkozási záródokumentáció kézhezvételét követően dönt:
 
 a) a beavatkozás elégtelensége esetén annak folytatásáról,
 
@@ -25,4 +25,4 @@ d) a kármentesítési monitoringról, illetve
 e) a kármentesítés befejezéséről.
 
 [^22]: A 11. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 99. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^23]: A 11. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 10. pontja, a 182/2009. (IX. 10.) Korm. rendelet 541. §-a, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 99. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 11. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 10. pontja, a 182/2009. (IX. 10.) Korm. rendelet 541. §-a, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 99. § (2) bekezdés b) pontja, a 441/2015. (XII. 28.) Korm. rendelet 87. §-a szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
