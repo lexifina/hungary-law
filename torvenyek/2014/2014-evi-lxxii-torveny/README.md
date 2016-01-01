@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-72-00-00
 | 2015-04-02 | 2010. évi CXXX. törvény | 2014-72-00-00.5 |
 | 2015-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-72-00-00.6 |
 | 2015-07-02 | 2010. évi CXXX. törvény | 2014-72-00-00.7 |
+| 2016-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-72-00-00.8 |
