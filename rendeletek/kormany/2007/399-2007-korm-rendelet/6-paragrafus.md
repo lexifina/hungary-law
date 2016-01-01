@@ -6,8 +6,10 @@
 
 (4) A saját tőke az Szt. szerinti tartalommal az intézmény tulajdonosainak minősülő foglalkoztatók, illetve biztosítók, bankok, befektetési társaságok, valamint a belföldi fióktelepként működő intézmény külföldi központja által teljesített jegyzett tőke (működéshez tartósan rendelkezésre bocsátott tőke) és a jegyzett tőkén felüli saját tőke összegét tartalmazza.
 
-(5) Mérleg szerinti eredmény címén a mérlegbe a 2. számú melléklet szerinti működési tevékenység eredménylevezetésében szereplő mérleg szerinti eredményt kell beállítani.
+(5)[^2] Adózott eredmény címén a mérlegbe a 2. számú melléklet szerinti működési tevékenység eredménylevezetésében szereplő adózott eredményt kell beállítani.
 
 (6) Értékelési tartalék kizárólag az 5. § (1), (3) és (8) bekezdése szerinti immateriális javakkal, tárgyi eszközökkel és befektetett pénzügyi eszközökkel összefüggésben mutatható ki.
 
 (7) A befizetéssel meghatározott nyugdíjkonstrukciók fedezeti tartaléka összegszerűen meg kell egyezzen a hozzátartozó befektetések (piaci) értékével, továbbá a befektetési egységhez kötött nyugdíjkonstrukció tartaléka összegszerűen meg kell egyezzen a hozzátartozó befektetések együttes piaci értékével.
+
+[^2]: A 6. § (5) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 91. §-a szerint módosított szöveg.

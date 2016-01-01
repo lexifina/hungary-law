@@ -2,7 +2,7 @@
 
 ## 21. § Az intézmény az éves beszámoló kiegészítő mellékletében az Szt. szerinti adatokon túlmenően az alábbi információkat köteles bemutatni:
 
-1.[^5] a különböző típusú befektetések értékét, az egyes nyugdíjkonstrukciókhoz – szolgáltatási formánkénti részletezésben – tartozó tartalékok eszközfedezetéül, valamint az Fnytv. szerinti saját vagyon (tőke) befektetését szolgáló – beleértve a szavatoló tőke eszközfedezetét képező – befektetések bontásban, külön bemutatva, a befizetéssel meghatározott nyugdíjkonstrukcióhoz alkalmazott választható portfoliós rendszerben működtetett portfoliók típusait és összetételét, valamint a befektetési egységhez kötött nyugdíjkonstrukció esetében kialakított portfoliókat és azok összetételét, továbbá ez utóbbinál az egyes portfoliókhoz tartozó elszámoló egységek darabszámát és mérleg fordulónapi árfolyamát;
+1.[^6] a különböző típusú befektetések értékét, az egyes nyugdíjkonstrukciókhoz – szolgáltatási formánkénti részletezésben – tartozó tartalékok eszközfedezetéül, valamint az Fnytv. szerinti saját vagyon (tőke) befektetését szolgáló – beleértve a szavatoló tőke eszközfedezetét képező – befektetések bontásban, külön bemutatva, a befizetéssel meghatározott nyugdíjkonstrukcióhoz alkalmazott választható portfoliós rendszerben működtetett portfoliók típusait és összetételét, valamint a befektetési egységhez kötött nyugdíjkonstrukció esetében kialakított portfoliókat és azok összetételét, továbbá ez utóbbinál az egyes portfoliókhoz tartozó elszámoló egységek darabszámát és mérleg fordulónapi árfolyamát;
 
 2. a befektetési egységhez kötött nyugdíjkonstrukció eredménylevezetését a fedezeti tartalékot érintő eredménylevezetéshez hasonló szerkezetben a 3. számú mellékletben foglaltak szerint;
 
@@ -34,4 +34,4 @@
 
 16. a külföldi fióktelep és a határon átnyúló szolgáltatás esetében felmerülő követelések és kötelezettségek, tartalékok és befektetések, bevételek, valamint költségek és ráfordítások összegét, nyugdíjkonstrukciónkénti bontásban, főbb tételekre részletezve.
 
-[^5]: A 21. § 1. pontja a 331/2008. (XII. 30.) Korm. rendelet 38. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^6]: A 21. § 1. pontja a 331/2008. (XII. 30.) Korm. rendelet 38. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.

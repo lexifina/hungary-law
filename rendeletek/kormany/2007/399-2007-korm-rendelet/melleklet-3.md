@@ -344,27 +344,17 @@
 
 ## 18. Befektetési eredmény (13–17)
 
-## 19. Rendkívüli bevétel
+## 19.[^10] Működési tevékenység adózás előtti eredménye (9±18)
 
-## 20. Rendkívüli ráfordítás
+## 20.[^11] Nyugdíjkonstrukciók eredménye (A/I/19±A/II/17±B/21)
 
-## 21. Rendkívüli eredmény (19–20)
+## 21.[^12] Adózás előtti eredmény (19±20)
 
-## 22. Működési tevékenység adózás előtti eredménye (9±18±21)
+## 22.[^13] Adófizetési kötelezettség
 
-## 23. Nyugdíjkonstrukciók eredménye (A/I/19±A/II/17±B/21)
+## 23.[^14] Adózott eredmény (21-22)
 
-## 24. Adózás előtti eredmény (22±23)
-
-## 25. Adófizetési kötelezettség
-
-## 26. Adózott eredmény (24–25)
-
-## 27. Eredménytartalék igénybevétele osztalék kifizetésére
-
-## 28. Fizetett (jóváhagyott) osztalék
-
-## 29. Mérleg szerinti eredmény (26+27–28)
+## 24–29.[^15]
 
 3. számú melléklet a 399/2007. (XII. 27.) Korm. rendelethez
 
@@ -445,3 +435,10 @@ ba) nyugdíjszolgáltatások kifizetésére
 bc) nyugdíjtechnikai tartalékokba való átvezetésre
 
 20. Befektetési egységhez kötött nyugdíjkonstrukció tartalékát érintő eredmény (7–8–9±17–18+19)
+
+[^10]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 19. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 20. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 21. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 22. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^14]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 24–29. alpontját a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 23. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.

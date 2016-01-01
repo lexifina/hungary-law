@@ -20,7 +20,7 @@ ba) a swap ügylet azonnali ügyletrészének tárgyát és a határidős ügyle
 
 bb) a swap ügylet azonnali ügyletrészét és a határidős ügyletrészét összetett módon, együttesen értékeli és a két devizának a határidős szerződés megkötése napján érvényes keresztárfolyama (kötéskori spot keresztárfolyama) és a kötési keresztárfolyama közötti devizában fennálló árfolyamkülönbözet kötés napjától az értékelés napjáig eltelt időszakra jutó időarányos összegét, az értékelés napján érvényes, az Szt. 60. §-ának (4)–(6) bekezdése szerinti – számviteli politikában rögzített választott – árfolyamon átszámított forintértéken – jellegétől függően – a származékos ügyletek értékelési különbözetében számolja el a 7. § (4) bekezdése szerint, egyidejűleg megképezi annak (cél)tartalékát a 8. § (2) bekezdése szerint;
 
-c)[^4] a kamat swap ügylet esetében a változó kamatláb és a fix kamatláb névleges tőkeösszegre vetített
+c)[^5] a kamat swap ügylet esetében a változó kamatláb és a fix kamatláb névleges tőkeösszegre vetített
 
 ca) a hátralévő lejárati időre jutó összege értékelés napjára diszkontált értékének különbözete, és
 
@@ -62,4 +62,4 @@ b) a leszállítási vételi opciós ügylet esetén az opció vevője a kifizet
 
 (19) A hatékony portfolió kialakítása céljából kötött ügyleteket jellegüktől függően kell elszámolni a nem fedezeti célú határidős, opciós és swap ügyletekre vonatkozó szabályok szerint.
 
-[^4]: A 20. § (4) bekezdés c) pont záró szövegrésze a 331/2008. (XII. 30.) Korm. rendelet 38. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^5]: A 20. § (4) bekezdés c) pont záró szövegrésze a 331/2008. (XII. 30.) Korm. rendelet 38. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.

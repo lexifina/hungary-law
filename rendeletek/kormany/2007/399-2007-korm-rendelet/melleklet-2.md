@@ -158,7 +158,7 @@
 
 ## VI. Értékelési tartalék
 
-## VII. Mérleg szerinti eredmény
+## VII.[^9] Adózott eredmény
 
 ## E. Céltartalékok
 
@@ -253,3 +253,5 @@
 ## Források összesen
 
 2. számú melléklet a 399/2007. (XII. 27.) Korm. rendelethez
+
+[^9]: Az 1. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. SAJÁT TŐKE” pont VII. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (1) bekezdésével megállapított szöveg.
