@@ -12,4 +12,4 @@ b) a megyei, fővárosi illetékességgel működő területi szervek,
 
 c) helyi szervek a katasztrófavédelmi kirendeltségek és a hivatásos tűzoltóságok.
 
-(2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, kormánytisztviselők, köztisztviselők és közalkalmazottak.
+(2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, közszolgálati tisztviselők, közalkalmazottak és munkavállalók.
