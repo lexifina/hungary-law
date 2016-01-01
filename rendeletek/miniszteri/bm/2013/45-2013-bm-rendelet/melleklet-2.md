@@ -1,123 +1,139 @@
-|  | A | B | C |
+|  | A | B |
 
-| 1. | Szerv | Beosztási kategória | Beosztás |
+| 1. | besorolási kategória | szolgálati beosztás |
 
-| 2. | Központi | IV. | raktárvezető |
+| 2. | Tiszti besorolási osztályba tartozó szolgálati beosztások: |
 
-| 3. | III. | segédelőadó (nyilvántartási, foglalkoztatási, szállítási) |
+| 3. | D | kiemelt főelőadó |
 
-| 4. | Területi | IV. | főápoló |
+| 4. | D | szakpszichológus |
 
-| 5. | vezető szakasszisztens |
+| 5. | D | üzemvezető |
 
-| 6. | konyhavezető |
+| 6. | C | főelőadó |
 
-| 7. | élelmezésvezető |
+| 7. | C | pszichológus |
 
-| 8. | raktárvezető |
+| 8. | C | főművezető |
 
-| 9. | műhelyvezető |
+| 9. | B | előadó |
 
-| 10. | mosodavezető |
+| 10. | Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások: |
 
-| 11. | kiemelt művezető |
+| 11. | E | raktárvezető |
 
-| 12. | telepvezető |
+| 12. | E | élelmezésvezető |
 
-| 13. | III. | hír- és biztonságtechnikus |
+| 13. | D | konyhavezető |
 
-| 14. | fegyvermester |
+| 14. | D | mosodavezető |
 
-| 15. | szociális segédelőadó |
+| 15. | D | vezető szakasszisztens |
 
-| 16. | körletellátó segédelőadó |
+| 16. | D | főápoló |
 
-| 17. | szakasszisztens |
+| 17. | D | műhelyvezető |
 
-| 18. | szakápoló |
+| 18. | D | kiemelt művezető |
 
-| 19. | műszerész |
+| 19. | C | biztonságtechnikus |
 
-| 20. | művezető |
+| 20. | C | fegyvermester |
 
-| 21. | segédelőadó (foglalkoztatási, biztonsági, nyilvántartási, élelmezési, letétkezelő) |
+| 21. | C | szociális segédelőadó |
 
-| 22. | II. | felügyelő (biztonsági, körlet, foglalkoztatási) |
+| 22. | C | segédelőadó |
 
-| 23. | kutyavezető |
+| 23. | C | művezető |
 
-| 24. | technikairendszer-kezelő |
+| 24. | C | szakasszisztens |
 
-| 25. | gépjárművezető |
+| 25. | C | szakápoló |
 
-| 26. | raktáros |
+| 26. | B | felügyelő (körlet, foglalkoztatási, munkáltatási) |
 
-| 27. | ápoló |
+| 27. | B | kutyavezető |
 
-2. melléklet a 45/2013. (VIII. 15.) BM rendelethez
+| 28. | B | ápoló |
 
-## A hivatásos katasztrófavédelmi szervnél rendszeresített könnyített szolgálatban foglalkoztatottakkal betölthető hivatásos beosztások
+| 29. | A | gépjárművezető |
 
-I. Besorolási osztály
+2. melléklet a 45/2013. (VIII. 15.) BM rendelethez[^7]
 
-|  | A | B | C |
+## A hivatásos katasztrófavédelmi szervnél rendszeresített könnyített szolgálatban foglalkoztatottakkal betölthető szolgálati beosztások
 
-| 1. | Szerv | Beosztási kategória | Beosztás |
+I. A központi szervnél rendszeresített szolgálati beosztások
 
-| 2. | Központi | VI. | kiemelt főreferens |
+|  | A | B |
 
-| 3. | munkabiztonsági főfelügyelő |
+| 1. | besorolási kategória | szolgálati beosztás |
 
-| 4. | V. | kiemelt főelőadó |
+| 2. | Tiszti besorolási osztályba tartozó szolgálati beosztások: |
 
-| 5. | IV. | főelőadó |
+| 3. | E | kiemelt főreferens |
 
-| 6. | III. | előadó |
+| 4. | E | munkabiztonsági főfelügyelő |
 
-| 7. | Területi | VI. | kiemelt főreferens |
+| 5. | D | kiemelt főelőadó |
 
-| 8. | V. | kiemelt főtanár |
+| 6. | C | főelőadó |
 
-| 9. | kiemelt főelőadó |
+| 7. | Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások: |
 
-| 10. | kiemelt főellenőr |
+| 8. | D | referens |
 
-| 11. | IV. | főelőadó |
+| 9. | C | segédelőadó |
 
-| 12. | főtanár |
+II. A területi szervnél rendszeresített szolgálati beosztások
 
-| 13. | III. | előadó |
+|  | A | B |
 
-| 14. | tanár |
+| 1. | besorolási kategória | szolgálati beosztás |
 
-| 15. | oktató |
+| 2. | Tiszti besorolási osztályba tartozó szolgálati beosztások: |
 
-| 16. | Helyi | VI. | kiemelt főreferens |
+| 3. | D | kiemelt főtanár |
 
-| 17. | V. | kiemelt főelőadó |
+| 4. | D | kiemelt főelőadó |
 
-| 18. | IV. | főelőadó |
+| 5. | C | főelőadó |
 
-| 19. | III. | előadó |
+| 6. | C | főtanár |
 
-II. Besorolási osztály
+| 7. | B | előadó I. |
 
-|  | A | B | C |
+| 8. | B | tanár |
 
-| 1. | Szerv | Beosztási kategória | Beosztás |
+| 9. | A | előadó II. |
 
-| 2. | Központi | IV. | referens |
+| 10. | Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások: |
 
-| 3. | III. | segédelőadó |
+| 11. | D | referens |
 
-| 4. | Területi | IV. | referens |
+| 12. | C | segédelőadó |
 
-| 5. | III. | raktárvezető |
+| 13. | C | raktáros |
 
-| 6. | kiképző |
+| 14. | C | kiképző |
 
-| 7. | segédelőadó |
+| 15. | B | gépjárművezető |
 
-| 8. | II. | gépjárművezető |
+III. A helyi szervnél rendszeresített szolgálati beosztások
 
-| 9. | Helyi | IV. | referens |
+|  | A | B |
+
+| 1. | besorolási kategória | szolgálati beosztás |
+
+| 2. | Tiszti besorolási osztályba tartozó szolgálati beosztások: |
+
+| 3. | C | kiemelt főelőadó |
+
+| 4. | B | főelőadó |
+
+| 5. | A | előadó I. |
+
+| 6. | Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások: |
+
+| 7. | C | referens |
+
+[^7]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 23. §-ával megállapított szöveg.

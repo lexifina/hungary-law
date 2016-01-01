@@ -1,49 +1,98 @@
-## 9–13. §[^1]
+## 9–13. §[^5]
 
-1. melléklet a 45/2013. (VIII. 15.) BM rendelethez
+1. melléklet a 45/2013. (VIII. 15.) BM rendelethez[^6]
 
-## A büntetés-végrehajtási szervezetnél rendszeresített könnyített szolgálatban foglalkoztatottakkal betölthető hivatásos beosztások
+## A büntetés-végrehajtási szervezetnél rendszeresített könnyített szolgálatban foglalkoztatottakkal betölthető szolgálati beosztások
 
-I. Besorolási osztály
+I. A központi szervnél rendszeresített szolgálati beosztások
 
-|  | A | B | C |
+|  | A | B |
 
-| 1. | Szerv | Beosztási kategória | Beosztás |
+| 1. | besorolási kategória | szolgálati beosztás |
 
-| 2. | Központi | VI. | kiemelt főreferens |
+| 2. | Tiszti besorolási osztályba tartozó szolgálati beosztások: |
 
-| 3. | tűzvédelmi vezető |
+| 3. | E | kiemelt főreferens |
 
-| 4. | környezetvédelmi, energetikai vezető |
+| 4. | E | környezetvédelmi vezető |
 
-| 5. | V. | kiemelt főelőadó |
+| 5. | E | energetikai vezető |
 
-| 6. | Területi | VI. | főorvos |
+| 6. | E | tűzvédelmi vezető |
 
-| 7. | kiemelt főreferens |
+| 7. | D | kiemelt főelőadó |
 
-| 8. | V. | kiemelt főelőadó (biztonsági, fogvatartási, nyilvántartási, foglalkoztatási, élelmezési, oktatási, letétkezelő) |
+| 8. | Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások: |
 
-| 9. | szakorvos |
+| 9. | E | raktárvezető |
 
-| 10. | szakpszichológus |
+| 10. | C | segédelőadó |
 
-| 11. | üzemvezető |
+II. A területi szervnél rendszeresített szolgálati beosztások
 
-| 12. | IV. | főelőadó (biztonsági, fogvatartási, nyilvántartási, foglalkoztatási, élelmezési, oktatási, letétkezelő) |
+|  | A | B |
 
-| 13. | orvos |
+| 1. | besorolási kategória | szolgálati beosztás |
 
-| 14. | fogorvos |
+| 2. | Tiszti besorolási osztályba tartozó szolgálati beosztások: |
 
-| 15. | pszichológus |
+| 3. | E | szakorvos |
 
-| 16. | főművezető |
+| 4. | D | kiemelt főelőadó |
 
-| 17. | III. | előadó (biztonsági, fogvatartási, nyilvántartási, foglalkoztatási, élelmezési, oktatási, letétkezelő) |
+| 5. | D | szakpszichológus |
 
-| 18. | nevelő |
+| 6. | D | üzemvezető |
 
-II. Besorolási osztály
+| 7. | C | főelőadó |
 
-[^1]: A 9–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+| 8. | C | pszichológus |
+
+| 9. | C | főművezető |
+
+| 10. | B | előadó |
+
+| 11. | Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások: |
+
+| 12. | E | raktárvezető |
+
+| 13. | E | élelmezésvezető |
+
+| 14. | D | konyhavezető |
+
+| 15. | D | mosodavezető |
+
+| 16. | D | vezető szakasszisztens |
+
+| 17. | D | főápoló |
+
+| 18. | D | műhelyvezető |
+
+| 19. | D | kiemelt művezető |
+
+| 20. | C | biztonságtechnikus |
+
+| 21. | C | fegyvermester |
+
+| 22. | C | szociális segédelőadó |
+
+| 23. | C | segédelőadó |
+
+| 24. | C | művezető |
+
+| 25. | C | szakasszisztens |
+
+| 26. | C | szakápoló |
+
+| 27. | B | felügyelő (körlet, foglalkoztatási, munkáltatási) |
+
+| 28. | B | kutyavezető |
+
+| 29. | B | ápoló |
+
+| 30. | A | gépjárművezető |
+
+III. A helyi szervnél rendszeresített szolgálati beosztások
+
+[^5]: A 9–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 22. §-ával megállapított szöveg.
