@@ -152,9 +152,11 @@
 
 7. Közbeszerzési és Ellátási Főigazgatóság
 
-8. Nemzetgazdasági Minisztérium
+8. Külgazdasági és Külügyminisztérium
 
-9. Nemzeti Fejlesztési Minisztérium
+9. Nemzetgazdasági Minisztérium
+
+10. Nemzeti Fejlesztési Minisztérium
 
 [^17]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^18]: A 2. melléklet a 306/2015. (X. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 2. melléklet a 384/2015. (XII. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
