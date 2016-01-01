@@ -1,27 +1,3 @@
-## 1. osztályvezető,
-
-## 2. alosztályvezető,
-
-## 3. főorvos,
-
-## 4. szakorvos,
-
-## 5. kiemelt főreferens,
-
-## 6. segédelőadó,
-
-## amennyiben a beosztás betöltése az alábbi munkakör valamelyikének ellátását szolgálja:
-
-## 1. orvos,
-
-## 2. fogorvos,
-
-## 3. egészségügyi asszisztens,
-
-## 4. fogorvosi asszisztens,
-
-## 5. felcser.
-
 2. melléklet a 33/2015. (VI. 16.) BM rendelethez
 
 ## Ideiglenes külföldi kiküldetés során igénybe vehető szállások költségtérítési kategóriái
