@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-15-20-9
 | 2014-05-06 | 2001-15-20-93.18 | 29/2014. (V. 5.) NFM rendelet |
 | 2015-05-16 | 2001-15-20-93.19 | 23/2015. (V. 8.) NFM rendelet |
 | 2015-11-26 | 2001-15-20-93.20 | 66/2015. (XI. 18.) NFM rendelet |
+| 2016-01-01 | 2001-15-20-93.21 | 23/2015. (V. 8.) NFM rendelet |

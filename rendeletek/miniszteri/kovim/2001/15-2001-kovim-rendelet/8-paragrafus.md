@@ -6,9 +6,9 @@
 
 (3)[^49]
 
-(4)[^50] A nemzetközi kedvtelési célú hajóvezetői bizonyítvány a kiállításától számított tíz évig érvényes az egészségi alkalmasság hajózási hatóságnál történő igazolása esetén.
+(4)[^50] A nemzetközi kedvtelési célú hajóvezetői bizonyítvány és a tengeri kedvtelési célú hajóvezetői bizonyítvány a kiállításától számított tíz évig érvényes az egészségi alkalmasság hajózási hatóságnál történő igazolása esetén.
 
 [^47]: A 8. § (1) bekezdése a 29/2014. (V. 5.) NFM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^48]: A 8. § (2) bekezdése a 29/2014. (V. 5.) NFM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^49]: A 8. § (3) bekezdését a 23/2015. (V. 8.) NFM rendelet 7. § a) pontja hatályon kívül helyezte.
-[^50]: A 8. § (4) bekezdését a 29/2014. (V. 5.) NFM rendelet 16. § (2) bekezdése iktatta be.
+[^50]: A 8. § (4) bekezdését a 29/2014. (V. 5.) NFM rendelet 16. § (2) bekezdése iktatta be, szövege a 23/2015. (V. 8.) NFM rendelet 6. § a) pontja szerint módosított szöveg.

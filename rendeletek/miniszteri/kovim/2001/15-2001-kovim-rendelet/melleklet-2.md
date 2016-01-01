@@ -98,17 +98,19 @@
 
 ## k)[^123] szakács szakképesítés és az e rendeletben meghatározott feltételek megléte alapján „Hajószakács tengeri hajón bizonyítvány”,
 
+## k)[^124] Az I., a II., és a III. osztályú tengeri kishajó-vezetői vizsga alapján: „Tengeri kedvtelési célú hajóvezetői bizonyítvány”
+
 ## megnevezésű okmányt állít ki.
 
-## 2.[^124] A képesítő okmányba a megszerzett képesítés megnevezését, valamint annak korlátozásait be kell jegyezni. A vízterületi korlátozást folyó esetében a folyamkilométer (fkm) megjelölésével kell meghatározni, tó esetében csak a teljes vízterület jelölhető meg.
+## 2.[^125] A képesítő okmányba a megszerzett képesítés megnevezését, valamint annak korlátozásait be kell jegyezni. A vízterületi korlátozást folyó esetében a folyamkilométer (fkm) megjelölésével kell meghatározni, tó esetében csak a teljes vízterület jelölhető meg.
 
-## 3.[^125]
+## 3.[^126]
 
 ## 4. A hivatásos tengerész képesítő okmány tartalmazza továbbá
 
 ## a) a nemzetközi egyezmény képesítésre vonatkozó szabályának megjelölését,
 
-## b)[^126] a beosztást, a tevékenységi kört, a szintet, valamint a korlátozásokat (ha vannak ilyenek).
+## b)[^127] a beosztást, a tevékenységi kört, a szintet, valamint a korlátozásokat (ha vannak ilyenek).
 
 ## IV. Fejezet
 
@@ -118,21 +120,21 @@
 
 ## 2. Hajózási szakképesítéssel már rendelkező jelölt a megszerzendő képesítés vizsgatárgyai közül kérelemre azok alól kaphat felmentést, amelyekből az előző szakképesítés megszerzése alkalmával, illetve iskolarendszerű képzés keretében azonos vagy magasabb szinten sikeres vizsgát tett. A kérelemhez mellékelni kell a képesítő bizonyítványt.
 
-## 3.[^127] Belvízi kedvtelési célú kisgéphajó- vagy vitorlás kishajó-vezetői képesítéssel már rendelkező jelöltnek a további belvízi kedvtelési célú képesítés megszerzésekor hajózási szabályzat tantárgyból nem kell vizsgáznia.
+## 3.[^128] Belvízi kedvtelési célú kisgéphajó- vagy vitorlás kishajó-vezetői képesítéssel már rendelkező jelöltnek a további belvízi kedvtelési célú képesítés megszerzésekor hajózási szabályzat tantárgyból nem kell vizsgáznia.
 
-## 4–5.[^128]
+## 4–5.[^129]
 
-## 6.[^129] Fedélzeti tiszti képesítő vizsgán nem kell elméleti vizsgát tennie annak, aki olyan egyetem vagy főiskola hajózási szakán államvizsgázott, amelynek tananyagát a hajózási hatóság jóváhagyta. Az ilyen jóváhagyott oktatási programmal rendelkező intézményeket a hajózási hatóság a honlapján közzéteszi.
+## 6.[^130] Fedélzeti tiszti képesítő vizsgán nem kell elméleti vizsgát tennie annak, aki olyan egyetem vagy főiskola hajózási szakán államvizsgázott, amelynek tananyagát a hajózási hatóság jóváhagyta. Az ilyen jóváhagyott oktatási programmal rendelkező intézményeket a hajózási hatóság a honlapján közzéteszi.
 
 ## 7. Hajózási szakképzésben szerzett képesítő bizonyítvány alapján a jelölt kérelmére azokból a tantárgyakból kaphat felmentést, amelyekből tanulmányai során a megszerzendő képesítéssel azonos vagy magasabb szinten vizsgát tett. A kérelemhez csatolni kell a képesítő okmányt. Amennyiben a kérelem elbírálásához az okmány nem tartalmaz elegendő információt, a beadványhoz vizsgajegyzőkönyvet, leckekönyvet vagy tantervet is mellékelni kell.
 
-## 8.[^130]
+## 8.[^131]
 
-## 9.[^131] Fedélzeti tiszti képesítéssel rendelkező jelölteknek a „B” és „C” kategóriájú hajóvezetői vizsgán csak a vonalismeret tárgyból kell vizsgázniuk.
+## 9.[^132] Fedélzeti tiszti képesítéssel rendelkező jelölteknek a „B” és „C” kategóriájú hajóvezetői vizsgán csak a vonalismeret tárgyból kell vizsgázniuk.
 
-## 10.[^132] A tengeri rádiókezelő ROC vagy GOC képesítéssel rendelkező jelöltek a kedvtelési célú korlátozott GMDSS kezelő (SRC) képesítést vizsga nélkül megkapják, amennyiben sikeresen elvégzik a ROC vagy GOC ismeretfelújító vagy SRC tanfolyamot.
+## 10.[^133] A tengeri rádiókezelő ROC vagy GOC képesítéssel rendelkező jelöltek a kedvtelési célú korlátozott GMDSS kezelő (SRC) képesítést vizsga nélkül megkapják, amennyiben sikeresen elvégzik a ROC vagy GOC ismeretfelújító vagy SRC tanfolyamot.
 
-## 11.[^133] A tengeri rádiókezelő GOC képesítéssel rendelkező jelöltek a kedvtelési célú GMDSS kezelő (LRC) képesítést vizsga nélkül megkapják, amennyiben sikeresen elvégzik a GOC ismeretfelújító vagy LRC tanfolyamot.
+## 11.[^134] A tengeri rádiókezelő GOC képesítéssel rendelkező jelöltek a kedvtelési célú GMDSS kezelő (LRC) képesítést vizsga nélkül megkapják, amennyiben sikeresen elvégzik a GOC ismeretfelújító vagy LRC tanfolyamot.
 
 ## Vizsga alóli további mentességek, egyenértékű vizsgatárgyak, képesítések hivatásos tengerész vizsgák esetén
 
@@ -152,7 +154,7 @@
 
 ## a) elkészíti és a hatóságnak jóváhagyásra megküldi azon oktatási tervet, amely az előírt szakmai alkalmasságnak megfelelő oktatási követelményrendszert és képzési módszereket tartalmazza,
 
-## b)[^134] az oktatni kívánt tantárgyból olyan a hajózási hatóság által jóváhagyott oktatási segédlettel (tankönyv, jegyzet, CD-ROM, egyéb) rendelkezik, amelyet a hallgatónak a vizsgára történő felkészüléshez legalább a képesítés megszerzéséig tartó időszakra rendelkezésre tud bocsátani,
+## b)[^135] az oktatni kívánt tantárgyból olyan a hajózási hatóság által jóváhagyott oktatási segédlettel (tankönyv, jegyzet, CD-ROM, egyéb) rendelkezik, amelyet a hallgatónak a vizsgára történő felkészüléshez legalább a képesítés megszerzéséig tartó időszakra rendelkezésre tud bocsátani,
 
 ## c) a hallgató részére a hajózási hatóság által nyilvántartásba vett konzulenst biztosít, legalább heti egy napon történő elérhetőséggel, valamennyi oktatni kívánt tantárgyból,
 
@@ -160,11 +162,11 @@
 
 ## e) a gyakorlati vizsgával záruló képesítővizsgára való felkészítés esetén a hallgató számára biztosítani tudja a gyakorlati vizsga letételéhez szükséges gyakorlást.
 
-## 3.[^135] A távoktatás a jóváhagyott képzéssel azonos értékűnek tekintendő.
+## 3.[^136] A távoktatás a jóváhagyott képzéssel azonos értékűnek tekintendő.
 
 ## 4. Távoktatásban konzulensként az alkalmazható, aki megfelel az e rendeletben a hatósági vizsgabiztosra vonatkozóan megállapított követelményeknek.
 
-2. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^136]
+2. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^137]
 
 [^105]: Az 1. számú melléklet I. fejezet „Képzések és oktatók jóváhagyása” című része 1. pontjának a) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^106]: Az 1. számú melléklet I. Fejezet 1. pont c) alpontja a 29/2014. (V. 5.) NFM rendelet 18. § (1) bekezdésével megállapított szöveg.
@@ -185,16 +187,17 @@
 [^121]: Az 1. számú melléklet III. Fejezet 1. pont i) alpontját a 29/2014. (V. 5.) NFM rendelet 18. § (1) bekezdése iktatta be.
 [^122]: Az 1. számú melléklet III. Fejezet 1. pont j) alpontját a 29/2014. (V. 5.) NFM rendelet 18. § (1) bekezdése iktatta be.
 [^123]: Az 1. számú melléklet III. fejezet 1. pont § k) alpontját a 66/2015. (XI. 18.) NFM rendelet 11. § (1) bekezdése iktatta be.
-[^124]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című részének 2. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^125]: Az 1. számú melléklet III. Fejezet 3. pontját a 29/2014. (V. 5.) NFM rendelet 20. § c) pontja hatályon kívül helyezte.
-[^126]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című része 4. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^127]: Az 1. számú melléklet IV. Fejezet „Mentesítések, felmentések” rész 3. pontja a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.
-[^128]: Az 1. számú melléklet IV. fejezet „Mentesítések, felmentések” című részének 4–5. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének b) pontja hatályon kívül helyezte.
-[^129]: Az 1. számú melléklet IV. fejezet „Mentesítések, felmentések” című részének 6. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított, a 42/2013. (VII. 19.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
-[^130]: Az 1. számú melléklet IV. Fejezet 8. pontját a 29/2014. (V. 5.) NFM rendelet 20. § c) pontja hatályon kívül helyezte.
-[^131]: Az 1. számú melléklet IV. Fejezet 9. pontja a 29/2014. (V. 5.) NFM rendelet 19. § b) pontja szerint módosított szöveg.
-[^132]: Az 1. számú melléklet IV. Fejezet 10. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (1) bekezdése iktatta be.
-[^133]: Az 1. számú melléklet IV. Fejezet 11. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (1) bekezdése iktatta be.
-[^134]: Az 1. számú melléklet V. fejezet „Távoktatásos képzés” című része 2. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^135]: Az 1. számú melléklet V. fejezet „Távoktatásos képzés” című részének 3. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^136]: A 2. számú mellékletben a ,,veszélyes áru szállítási megbízott'' kifejezés helyébe a 76/2003. (XI. 24.) GKM rendelet 6. §-a értelmében a ,,veszélyes áru szállítási szakértő'' kifejezés lépett.
+[^124]: Az 1. számú melléklet III. Fejezet 1. pont újabb k) alpontját a 23/2015. (V. 8.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^125]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című részének 2. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^126]: Az 1. számú melléklet III. Fejezet 3. pontját a 29/2014. (V. 5.) NFM rendelet 20. § c) pontja hatályon kívül helyezte.
+[^127]: Az 1. számú melléklet III. fejezet „Képesítő okmányok” című része 4. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^128]: Az 1. számú melléklet IV. Fejezet „Mentesítések, felmentések” rész 3. pontja a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.
+[^129]: Az 1. számú melléklet IV. fejezet „Mentesítések, felmentések” című részének 4–5. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének b) pontja hatályon kívül helyezte.
+[^130]: Az 1. számú melléklet IV. fejezet „Mentesítések, felmentések” című részének 6. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított, a 42/2013. (VII. 19.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^131]: Az 1. számú melléklet IV. Fejezet 8. pontját a 29/2014. (V. 5.) NFM rendelet 20. § c) pontja hatályon kívül helyezte.
+[^132]: Az 1. számú melléklet IV. Fejezet 9. pontja a 29/2014. (V. 5.) NFM rendelet 19. § b) pontja szerint módosított szöveg.
+[^133]: Az 1. számú melléklet IV. Fejezet 10. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (1) bekezdése iktatta be.
+[^134]: Az 1. számú melléklet IV. Fejezet 11. pontját a 29/2014. (V. 5.) NFM rendelet 18. § (1) bekezdése iktatta be.
+[^135]: Az 1. számú melléklet V. fejezet „Távoktatásos képzés” című része 2. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^136]: Az 1. számú melléklet V. fejezet „Távoktatásos képzés” című részének 3. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^137]: A 2. számú mellékletben a ,,veszélyes áru szállítási megbízott'' kifejezés helyébe a 76/2003. (XI. 24.) GKM rendelet 6. §-a értelmében a ,,veszélyes áru szállítási szakértő'' kifejezés lépett.
