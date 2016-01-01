@@ -2,23 +2,19 @@
 
 ## A vizsgabizottság 5 tagú, amelynek elnökét és további 2 tagját a minisztérium, 1 tagját a földművelésügyért felelős minisztérium, további 1 tagot a minisztérium felkérésére a szakmai-tudományos fórumok és a solymászati célra alakult társadalmi szervezetek együttesen jelölnek.
 
-## A bizottság ügyrendjét maga állapítja meg.
+## A minisztérium évente legalább 1 vizsganapot ír ki, ennek időpontját és a vizsga díját az állami természetvédelem hivatalos honlapján, legalább 30 nappal a vizsgát megelőzően közzéteszi.
 
-## A minisztérium évente 1 vizsganapot ír ki, ennek időpontját és a vizsga díját hivatalos lapjában, legalább 30 nappal a vizsgát megelőzően közzéteszi.
-
-## A vizsgadíj összegét a minisztérium a Magyar Államkincstárnál vezetett 10032000-01468216-00000000 számú számlájára kell befizetni. A vizsga magyar nyelven folyik.
+## A vizsgadíj összegét a minisztérium a Magyar Államkincstárnál vezetett 10032000-01494549-00000000 számú számlájára kell befizetni. A vizsga magyar nyelven folyik.
 
 ## A vizsga tematikája:
 
-## – Ragadozómadárfaj-ismeret
+## – Ragadozómadárfaj-ismeret
 
-## – Természetvédelmi jogi ismeretek
+## – Természetvédelmi jogi ismeretek
 
-## – Egészség- és balesetvédelem
+## – Egészség- és balesetvédelem
 
-## A tananyag a minisztérium kiadványa, amely helyben megvásárolható.
-
-## A vizsgára jelentkezés előfeltétele a vad védelméről, vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 66. §-ának (2) bekezdése szerinti solymász-vadász vizsga elméleti részének eredményes letételéről szóló igazolás benyújtása.
+## A tananyag a minisztérium kiadványa, amely a minisztérium hivatalos honlapjáról letölthető.
 
 ## A solymászati tevékenységre jogosító eredményes természetvédelmi vizsgáról a vizsgabizottság bizonyítványt állít ki, amelynek mintája a következő:
 
@@ -26,21 +22,19 @@
 
 ## BIZONYÍTVÁNY
 
-|  | részére |
+| részére |
 
-| (aki | -án született |
+| (aki -án született |
 
 | anyja neve: |
 
-| személyi igazolvány száma: .............................................................................................................................................) |
+| személyi igazolvány száma: ) |
 
-| arról, hogy ......................................................................................................................................................................... |
+| arról, hogy |
 
 | sikeres solymászati tevékenységre jogosító természetvédelmi vizsgát tett. |
 
-| Korlátozások: |
-
-| Budapest, ........................................................... |
+| Budapest, ........................................................... |
 
 ## P. H.
 
@@ -56,11 +50,11 @@
 
 | a vizsgabizottság tagja | a vizsgabizottság tagja |
 
-4. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^48]
+4. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^66]
 
-## A védelemben részesülő állatfajok tartása, bemutatása, hasznosítása iránti kérelem tartalma
+## A védelemben részesülő állatfajok tartása, hasznosítása, bemutatása iránti kérelem tartalma
 
-| Tartási ⬜ | Hasznosítási ⬜ | Bemutatási ⬜ |
+| Tartási □ | Hasznosítási □ | Bemutatási □ |
 
 | ENGEDÉLYKÉRELEM |
 
@@ -68,57 +62,57 @@
 
 | Kérelmező személyére vonatkozó adatok |
 
-| 1. Kérelmező neve: |
+| 1. Kérelmező neve: |
 
-| 2. Címe (lakóhely, ennek hiányában tartózkodási hely, költségvetési szerv, illetve közhasznú szervezet esetében székhely): |
+| 2. Címe (lakóhely, ennek hiányában tartózkodási hely, költségvetési szerv, illetve közhasznú szervezet esetében székhely): |
 
-| 3. Költségvetési szerv, illetve közhasznú szervezet esetén a felelős személy neve: |
+| 3. Költségvetési szerv, illetve közhasznú szervezet esetén a felelős személy neve: |
 
-| 4. Költségvetési szerv, illetve közhasznú szervezet esetén a felelős személy címe (lakóhely, ennek hiányában tartózkodási hely): |
+| 4. Költségvetési szerv, illetve közhasznú szervezet esetén a felelős személy címe (lakóhely, ennek hiányában tartózkodási hely): |
 
-| 5. Természetes személy, illetve költségvetési szerv, közhasznú szervezet esetén a felelős személy vizsgabizonyítványának típusa és száma: |
+| 5. Természetes személy, illetve költségvetési szerv, közhasznú szervezet esetén a felelős személy vizsgabizonyítványának típusa és száma: |
 
-| 6. Természetes személy esetén a nagykorúságot igazoló dokumentum típusa és száma: |
+| 6. Természetes személy esetén a nagykorúságot igazoló dokumentum típusa és száma: |
 
 | A kérelem tárgyát képező állatra vonatkozó adatok |
 
-| 7. Tudományos fajnév: |
+| 7. Tudományos fajnév: |
 
-| 8. Magyar fajnév: |
+| 8. Magyar fajnév: |
 
-| 9. Egyedi azonosító száma (amennyiben már van): |
+| 9. Egyedi azonosító száma (amennyiben már van): |
 
-| 10. Ivar (amennyiben megállapítható): |
+| 10. Ivar (amennyiben megállapítható): |
 
-| 11. Az egyedek száma: |
+| 11. Az egyedek száma: |
 
 | Emlős-, madár-, illetve hüllőfajoknál tenyésztési kérelem esetén |
 
-| 12. Nőstény szülőállat egyedi azonosítója: |
+| 12. Nőstény szülőállat egyedi azonosítója: |
 
-| 13. Hím szülőállat egyedi azonosítója: |
+| 13. Hím szülőállat egyedi azonosítója: |
 
 | A kérelmezett tevékenység leírása |
 
 | 14.1. A tevékenység helye: |
 
-| 14.2. A tevékenység ideje: |
+| 14.2. A tevékenység ideje: |
 
-| 14.3. A tevékenység célja: |
+| 14.3. A tevékenység célja: |
 
-| 14.4. A tevékenység módszere: |
+| 14.4. A tevékenység módszere: |
 
-| 14.5. A természetvédelmi, illetve közérdek rövid kifejtése: |
+| 14.5. A természetvédelmi, illetve közérdek rövid kifejtése: |
 
-| 14.6. A tartási körülmények leírása: |
+| 14.6. A tartási körülmények leírása: |
 
-| 14.7. Tenyésztési kérelem esetén a várható szaporulat elhelyezése: |
+| 14.7. Tenyésztési kérelem esetén a várható szaporulat elhelyezése: |
 
 | Mellékelt dokumentumok |
 
 | 15. |
 
-| – | egyed származását igazoló dokumentumok (CITES származási bizonyítvány, a szülőpár tenyésztési engedélye,  vagy befogási engedély stb.), |
+| – | egyed származását igazoló dokumentumok (CITES származási bizonyítvány, a szülőpár tenyésztési engedélye, vagy befogási engedély stb.), |
 
 | – | a nagykorúságot igazoló dokumentum másolata, |
 
@@ -128,27 +122,21 @@
 
 | – | a tartás helye szerinti ingatlan tulajdonosának nyilatkozata a tartáshoz való hozzájárulásról, |
 
-| – | az illetékes megyei (fővárosi) állat-egészségügyi és élelmiszer-ellenőrző állomás engedélye (védelemben részesülő gerinces állatfajra vonatkozó, az állatkísérletekről szóló külön jogszabály szerinti kísérlet, kutatás esetén), |
-
-| – | solymászmadár vadászati célú tartása esetén az érvényes vadászjegy másolata, |
-
-| – | solymászmadár tenyésztési kérelem esetén a tartási gyakorlatot igazoló dokumentum (a tartási engedély másolata), |
-
 | – | a szaporulat elhelyezését biztosító szándéknyilatkozat, |
 
 | – | kutatási kérelem esetén a kutatási terv és az adatkezeléshez való hozzájáruló nyilatkozatok, |
 
 | – | a felsőfokú végzettséget igazoló dokumentum másolata. |
 
-| Büntetőjogi felelősségem tudatában kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek. |
+| 16. Büntetőjogi felelősségem tudatában kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek, továbbá velem szemben a Tvt. 78/B. § (2) és (3) bekezdésben meghatározott kizáró okok nem állnak fenn. |
 
 | Dátum: |
 
 | Aláírás: |
 
-## Kitöltési útmutató és magyarázat
+Kitöltési útmutató és magyarázat
 
-5. Madár- és denevérgyűrűzési engedélyezés, illetve solymászati engedélyezés esetén a 348/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdése, illetve 16. § (1) bekezdés a) pont alapján előírt vizsgabizonyítvány száma. Természetes személy esetén akkor kell kitölteni e pontot, ha solymászati tevékenységre jogosító természetvédelmi vagy gyűrűző szakképesítés megszerzését a 348/2006. (XII. 23.) Korm. rendelet előírja.
+5. Madár- és denevérgyűrűzési engedélyezés esetén a 348/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdése, illetve 16. § (1) bekezdés a) pont alapján előírt vizsgabizonyítvány száma. Természetes személy esetén akkor kell kitölteni e pontot, ha gyűrűző szakképesítés megszerzését a 348/2006. (XII. 23.) Korm. rendelet előírja.
 
 6. A nagykorúságot igazoló dokumentum fajtája (személyi igazolvány, útlevél, születési vagy házassági anyakönyvi kivonat) és száma.
 
@@ -164,4 +152,6 @@
 
 15. A külön jogszabály szerinti működési engedéllyel rendelkező állatkerteknek kizárólag az e melléklet 1., 2., 7–13., 14.2., 14.3., valamint a 15. pont első francia bekezdése szerinti adatokat és dokumentumokat kell megadni és becsatolni.
 
-[^48]: A 4. számú melléklet a 325/2007. (XII. 11.) Korm. rendelet 8. §-a, a 182/2009. (IX. 10.) Korm. rendelet 520. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+16. Kizáró okok: A kérelmező büntetőjogi felelősségét a bíróság tiltott állatviadal szervezése, állatkínzás, természetkárosítás, orvvadászat, orvhalászat bűncselekmény elkövetése miatt jogerősen megállapította, illetve a kérelmezőt a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vonták, a határozat jogerőre emelkedésétől számított három évig, vagy természetvédelmi, illetve állatvédelmi bírsággal sújtották, a határozat jogerőre emelkedésétől számított három évig.
+
+[^66]: A 4. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 85. § (1) bekezdés c) pontjával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

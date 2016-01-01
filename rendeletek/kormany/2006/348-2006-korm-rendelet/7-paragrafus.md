@@ -1,4 +1,4 @@
-7. §[^15] (1) Védelemben részesülő állatfaj egyedének mentési szállításáról annak megkezdése előtt a szállítás végzője – a megfelelő elhelyezés érdekében – tájékoztatja az egyed megtalálásának helye szerint illetékes természetvédelmi hatóságot. A természetvédelmi hatóság felvilágosítást ad arról a mentőközpontról, ahol az egyed elhelyezhető.
+7. §[^16] (1) Védelemben részesülő állatfaj egyedének mentési szállításáról annak megkezdése előtt a szállítás végzője – a megfelelő elhelyezés érdekében – tájékoztatja az egyed megtalálásának helye szerint illetékes természetvédelmi hatóságot. A természetvédelmi hatóság felvilágosítást ad arról a mentőközpontról, ahol az egyed elhelyezhető.
 
 (2) Ha az egyed szabad életre alkalmas, a természetvédelmi hatóság – engedély kiadása nélkül – dönt az egyed szabadba történő visszajuttatásának helyéről, idejéről és módjáról.
 
@@ -6,4 +6,4 @@
 
 (4) Ha a mentőközpont állatorvosának véleménye alapján az egyed stabil, fájdalommentes állapota nem érhető el, a természetvédelmi hatóság – engedély kiadása nélkül – megteszi az egyed életének fájdalommentes kioltásához szükséges intézkedéseket, továbbá dönt az elpusztult egyed elhelyezéséről.
 
-[^15]: A 7. § a 84/2010. (III. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^16]: A 7. § a 84/2010. (III. 25.) Korm. rendelet 6. §-ával megállapított szöveg.

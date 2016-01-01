@@ -6,6 +6,6 @@
 
 (4) Az e rendelet hatálybalépésekor felelős személy köteles az 1. számú melléklet szerinti szakképesítések valamelyikét a rendelet hatálybalépésétől számított 5 éven belül megszerezni. Azon felelős személy esetében, aki legalább 10 év igazolt szakmai gyakorlattal rendelkezik, a képesítés megszerzésétől a hatóság eltekinthet, amennyiben a felelős személy továbbra is azon állatfajok egyedeiért felel, amelyek mellett a szakmai gyakorlatot szerezte.
 
-(5)[^46] A 2008. január 1. napját megelőzően jogszerűen szerzett és tartott származékok tartására vonatkozó engedély – a 6. § (1) bekezdésére tekintet nélkül – határozatlan időre is megadható akkor, ha az e rendeletben foglalt feltételek nem teljesülnek.
+(5)[^62] A 2008. január 1. napját megelőzően jogszerűen szerzett és tartott származékok tartására vonatkozó engedély – a 6. § (1) bekezdésére tekintet nélkül – határozatlan időre is megadható akkor, ha az e rendeletben foglalt feltételek nem teljesülnek.
 
-[^46]: A 23. § (5) bekezdését a 325/2007. (XII. 11.) Korm. rendelet 7. §-a iktatta be.
+[^62]: A 23. § (5) bekezdését a 325/2007. (XII. 11.) Korm. rendelet 7. §-a iktatta be.
