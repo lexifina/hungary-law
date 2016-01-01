@@ -1,4 +1,4 @@
-6/F. §[^40] (1) A továbbképzésben közreműködő szervezet a továbbképzést – ha a továbbképzéshez vizsga kapcsolódik, a sikeres vizsgát – követő 30 naptári napon belül, de legkésőbb a tárgyév december 20-áig tanúsítványt állít ki a továbbképzésre kötelezett részére a szakmai továbbképzési kötelezettségének teljesítéséről.
+6/F. §[^36] (1) A továbbképzésben közreműködő szervezet a továbbképzést – ha a továbbképzéshez vizsga kapcsolódik, a sikeres vizsgát – követő 30 naptári napon belül, de legkésőbb a tárgyév december 20-áig tanúsítványt állít ki a továbbképzésre kötelezett részére a szakmai továbbképzési kötelezettségének teljesítéséről.
 
 (2) Az egyedi azonosítóval ellátott tanúsítvány tartalmazza
 
@@ -20,4 +20,4 @@ fb) kétfokozatú értékeléssel rendelkező program, esetén a „Teljesített
 
 g) a kiállítás dátumát.
 
-[^40]: A 6/F. § a 44/2014. (XII. 30.) NGM rendelet 6. §-ával megállapított szöveg.
+[^36]: A 6/F. § a 44/2014. (XII. 30.) NGM rendelet 6. §-ával megállapított szöveg.

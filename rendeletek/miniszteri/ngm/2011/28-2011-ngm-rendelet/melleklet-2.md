@@ -1,22 +1,22 @@
-## KÉRELEM
+## ADATLAP
 
-## a költségvetési szervnél végzett, az Áht. 70. §-ban meghatározott belső ellenőrzési tevékenységgel kapcsolatos eljárásokhoz
+## a költségvetési szervnél végzett, az Áht. 70. §-ában meghatározott belső ellenőrzési tevékenységgel kapcsolatos eljárásokhoz
 
-## A kérelem kötelező tartalmi elemei a következők:
+## A bejelentés kötelező tartalmi elemei a következők:
 
-## 1. A kérelemnek tartalmaznia kell annak megjelölését, hogy a kérelmezőnek a 28/2011. (VIII. 3.) NGM rendelet (a továbbiakban: rendelet) alapján költségvetési szervnél végzendő belső ellenőrzésével kapcsolatosan kérelme
+## 1. A bejelentésnek tartalmaznia kell annak megjelölését, hogy a bejelentő a 28/2011. (VIII. 3.) NGM rendelet (a továbbiakban: rendelet) alapján költségvetési szervnél végzendő belső ellenőrzésével kapcsolatosan bejelentése
 
-| A megfelelőt kérjük X-szel jelölni! |
+## A megfelelőt kérjük X-szel jelölni!
 
 ## □ a tevékenység folytatására,
 
 ## □ adatainak módosítására,
 
-## □ vagy törlésére
+## □ vagy a tevékenység megszüntetésére
 
 ## irányul.
 
-## 2. A tevékenység folytatására jogosító engedélyhez a kérelmen kötelezően szükséges megadni a következő adatokat:
+## 2. A bejelentéshez kötelezően szükséges megadni a következő adatokat:
 
 ## Név:
 
@@ -30,7 +30,7 @@
 
 ## Lakcím:
 
-## Értesítési cím (tartózkodási hely):
+## Értesítési cím:
 
 ## Telefonszám:
 
@@ -54,11 +54,11 @@
 
 ## □ elektronikus elérhetőség”
 
-| A megfelelőt kérjük X-szel jelölni! |
+## A megfelelőt kérjük X-szel jelölni!
 
 ## d) „Kijelentem, hogy a rendeletben meghatározott összegű igazgatási szolgáltatási díjat
 
-| A megfelelőt kérjük X-szel jelölni! |
+## A megfelelőt kérjük X-szel jelölni!
 
 ## □ magánszemélyként befizettem,
 
@@ -66,11 +66,11 @@
 
 ## Egyúttal kijelentem, hogy
 
-## – a ............. számú ..................................... típusú befizetést igazoló bizonylat másolatát,
+## - a ............. számú ..................................... típusú befizetést igazoló bizonylat másolatát,
 
-## – a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Bkr.) 24. § (2) bekezdés a)–b) pontjában meghatározott szakirányú és más felsőfokú iskolai végzettséget igazoló oklevél, bizonyítvány másolatát, illetve a Bkr. 24. § (3) bekezdésének alkalmazása esetén szakmai képesítés alóli felmentést igazoló dokumentumot;
+## - a költségvetési szervnél belső ellenőrzési tevékenységet végzők nyilvántartásáról és kötelező szakmai továbbképzéséről, valamint a költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú továbbképzéséről szóló 28/2011. (VIII. 3.) NGM rendelet (a továbbiakban: R.) 1/A. § (1) bekezdés a)–c) pontjában meghatározott szakirányú és más felsőfokú iskolai végzettséget igazoló oklevél, bizonyítvány másolatát;
 
-## – a Bkr. 24. § (2) bekezdése szerinti legalább kétéves szakmai gyakorlat bemutatását tartalmazó kérelmezői nyilatkozatot vagy a Bkr. 24. § (3) bekezdésének alkalmazása esetén a szakmai gyakorlat alóli felmentést igazoló dokumentumot;
+## - az R. 1/A. § (1) bekezdése szerinti kétéves, illetve ötéves szakmai gyakorlat bemutatását tartalmazó bejelentői nyilatkozatot vagy az R. 1/A. § (2) bekezdésének alkalmazása esetén a szakmai gyakorlat alóli felmentést igazoló dokumentumot
 
 ## csatolom.”
 
@@ -78,10 +78,8 @@
 
 ## Kelt: ............................................. (hely), ............. év ............................... hó .......... napján.
 
-## .............................................................
+## Bejelentő aláírása
 
-## Kérelmező aláírása
+2. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^61]
 
-2. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^65]
-
-[^65]: A 2. mellékletet a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 14. §-a iktatta be.
+[^61]: A 2. mellékletet a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 14. §-a iktatta be.

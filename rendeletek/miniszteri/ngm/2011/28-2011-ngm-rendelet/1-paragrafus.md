@@ -34,7 +34,7 @@ l)[^10] hatósági jellegű képzés: a felnőttképzésről szóló 2013. évi 
 
 m)[^11] szintvizsga: a továbbképzési kötelezettséget elmulasztók számára biztosított választható tudásszint felmérő vizsga, amelyen a továbbképzésre kötelezett az ÁBPE továbbképzés I. tananyag ismeretére vonatkozó teszt jellegű vizsga alapján bizonyítja szakmai tudását a nyilvántartásból való törlés elkerülése érdekében,
 
-n)[^12] továbbképzésre kötelezett: az a természetes személy, akinek a Bkr. 12. § (1)–(3) bekezdése és 24. § (7) bekezdése alapján továbbképzési kötelezettsége áll fenn.
+n)[^12] továbbképzésre kötelezett: az a természetes személy, akinek a 7. § és a Bkr. 12. § (1)–(3) bekezdése alapján továbbképzési kötelezettsége áll fenn.
 
 [^1]: Az 1. § a) pontja a 23/2012. (VIII. 6.) NGM rendelet 9. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § b) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -47,4 +47,4 @@ n)[^12] továbbképzésre kötelezett: az a természetes személy, akinek a Bkr.
 [^9]: Az 1. § k) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^10]: Az 1. § l) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
 [^11]: Az 1. § m) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
-[^12]: Az 1. § n) pontját a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
+[^12]: Az 1. § n) pontját a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be, szövege a 35/2015. (XII. 23.) NGM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.

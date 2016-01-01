@@ -42,6 +42,6 @@
 
 | 20 | ÁBPE-továbbképzés II. – Kockázatmendezsment - belső ellenőrök részére | Tréning | A képzés célja, hogy a résztvevők egy esettanulmány megoldásával szerezzenek elméleti és gyakorlati ismereteket a kockázatmenedzsmentről. | 16 tanóra |
 
-3. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^66]
+3. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^62]
 
-[^66]: A 3. mellékletet a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^62]: A 3. mellékletet a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.

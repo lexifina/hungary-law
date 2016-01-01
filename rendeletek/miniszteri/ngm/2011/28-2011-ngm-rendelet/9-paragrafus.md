@@ -1,6 +1,6 @@
 ## köteles a szakmai továbbképzésben közreműködő szervezet részére az Éves Továbbképzési Tájékoztatóban közzétett központi költségvetési támogatás összegét utólag megfizetni.
 
-9. §[^47] (1) Az ÁBPE-továbbképzés I. képzéshez vizsga kapcsolódik. Az ÁBPE-továbbképzés I. képzés programzáró vizsgájára az bocsátható, aki a képzés tananyagát teljes terjedelmében feldolgozta. A képzés tananyaga akkor tekinthető teljes terjedelmében feldolgozottnak, ha a továbbképzésre kötelezett
+9. §[^45] (1) Az ÁBPE-továbbképzés I. képzéshez vizsga kapcsolódik. Az ÁBPE-továbbképzés I. képzés programzáró vizsgájára az bocsátható, aki a képzés tananyagát teljes terjedelmében feldolgozta. A képzés tananyaga akkor tekinthető teljes terjedelmében feldolgozottnak, ha a továbbképzésre kötelezett
 
 a) kontakt képzés esetén részt vett a képzéshez kapcsolódó előadások óráin és aláírta a jelenléti ívet,
 
@@ -20,4 +20,4 @@ b) – e-learning képzési forma esetében – a programzáró önellenőrző t
 
 c) – tréning képzési forma esetében – a képzésen való részvétel.
 
-[^47]: A 9. § a 44/2014. (XII. 30.) NGM rendelet 9. §-ával megállapított szöveg.
+[^45]: A 9. § a 44/2014. (XII. 30.) NGM rendelet 9. §-ával megállapított szöveg.

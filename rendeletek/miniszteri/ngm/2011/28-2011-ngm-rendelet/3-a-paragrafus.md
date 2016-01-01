@@ -1,41 +1,24 @@
-## 3. §[^16] A belső ellenőr a költségvetési szervnél belső ellenőrzési tevékenységet végzőknek az Áht. 70. § (5) bekezdése szerinti nyilvántartásában (a továbbiakban: nyilvántartás) szereplő adataiban bekövetkezett változást az adatváltozást követő 30 napon belül az 1. melléklet szerinti kérelmen köteles írásban bejelenteni a miniszternek. A kérelemhez csatolni kell az adatváltozást igazoló dokumentum másolatát. Ha a miniszter az adatváltozás-bejelentés 30 napon túli elmulasztásának tényéről tudomást szerez, akkor a belső ellenőrt 30 napos hiánypótlási határidő megadásával adatváltozás-bejelentésre hívja fel.
+## 3. §[^15] A belső ellenőr a költségvetési szervnél belső ellenőrzési tevékenységet végzőknek az Áht. 70. § (5) bekezdése szerinti nyilvántartásában (a továbbiakban: nyilvántartás) szereplő adataiban bekövetkezett változást az adatváltozást követően haladéktalanul, de legkésőbb 8 napon belül az 1. melléklet szerinti adatlapon köteles írásban bejelenteni a miniszternek. A bejelentéshez csatolni kell az adatváltozást igazoló dokumentum másolatát.
 
-3/A. §[^17] (1) A nyilvántartásból törölni kell azt a természetes személyt,
+3/A. §[^16] (1) A miniszter azt a természetes személyt, aki
 
-a)[^18] akinek a Bkr. 24. § (7) bekezdés szerinti továbbképzésben való részvételét a Nemzeti Adó- és Vámhivatal Képzési, Egészségügyi és Kulturális Intézete (a továbbiakban: kötelező szakmai továbbképzésben közreműködő szervezet) nem igazolja, vagy aki nem tudja kimenteni a továbbképzésben való részvételének hiányát, vagy aki a rendeletben előírt vizsgakötelezettséget nem teljesíti,
+a) az 1/A. §-ban meghatározott követelményeknek nem felel meg,
 
-b) aki büntetett előéletű,
+b) a 7. § szerinti továbbképzési kötelezettséget nem teljesíti 1 évre,
 
-c) akit a bíróság a belső ellenőrzés körébe tartozó tevékenység vonatkozásában a foglalkozástól eltiltott,
+c) büntetett előéletű, a büntetett előélethez fűződő hátrányok alóli mentesítésig,
 
-d) aki a nyilvántartásba vételkor, illetve a nyilvántartásba vételt követően valótlan adatot közölt, a nyilvántartásból törlésre okot adó körülményt 30 napon belül nem jelentette be, a valótlan adatközlés, illetve a bejelentés elmulasztása utólagos megállapításakor,
+d) a belső ellenőrzés körébe tartozó tevékenység vonatkozásában foglalkozástól eltiltás hatálya alatt áll, a foglalkozástól való eltiltás alóli mentesítésig,
 
-e) aki kéri a nyilvántartásból való törlését,
+e) cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll, a cselekvőképességet korlátozó vagy kizáró gondokság megszüntetéséig,
 
-f) akit jogerős bírói ítélet a cselekvőképességet korlátozó vagy kizáró gondnokság alá helyezett, vagy
+f) a nyilvántartásba vételkor, illetve a nyilvántartásba vételt követően valótlan adatot közölt, a nyilvántartásból törlésre okot adó körülményt nem jelentette be, a valótlan adatközlés, illetve a bejelentés elmulasztása utólagos megállapításakor 3 évre,
 
-g) aki elhalálozott.
+## eltiltja a belső ellenőrzési tevékenység folytatásától.
 
-(2) A nyilvántartásból törölt természetes személy kérheti a belső ellenőrök nyilvántartásába újbóli felvételét:
+(2) Akinek a nyilvántartásból való törlésére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 28. § b) pontja alapján került sor, a nyilvántartásból való törlését követő 1 év után jelentheti be a tevékenység újbóli gyakorlását.
 
-a)[^19] a törlést követő 1 év után, ha a törlésre az (1) bekezdés a) pontja miatt,
+(3) Az (1) és (2) bekezdés esetén a tevékenység újbóli gyakorlására irányuló szándék bejelentésére a 2. §-t kell alkalmazni. A tevékenység újbóli gyakorlása esetén a továbbképzési kötelezettség tekintetében a 7. §-t kell alkalmazni.
 
-b) a büntetett előélethez fűződő hátrányok alóli mentesítést követően, ha a törlésre az (1) bekezdés b) pontja miatt,
-
-c) a belső ellenőrzés körébe tartozó tevékenység vonatkozásában a foglalkozástól való eltiltás alóli mentesítést követően, ha a törlésre az (1) bekezdés c) pontja miatt,
-
-d) a törlést követő 3 év után, ha a törlésre az (1) bekezdés d) pontja miatt,
-
-e)[^20] a törlést követő 1 év után, ha a törlésre az (1) bekezdés e) pontja miatt,
-
-f) a gondnokság alá helyezés megszüntetését követően, ha a törlésre az (1) bekezdés f) pontja miatt
-
-## került sor.
-
-(3) A belső ellenőri tevékenység engedélyezésére irányuló eljárásért, valamint a nyilvántartásba bejegyzett adatok törlése iránti eljárásért a 6. § (1) bekezdésében meghatározott igazgatási szolgáltatási díjat kell fizetni.
-
-[^16]: A 3. § a 23/2012. (VIII. 6.) NGM rendelet 9. § 10. pontja szerint módosított szöveg.
-[^17]: A 3/A. §-t a 23/2012. (VIII. 6.) NGM rendelet 3. §-a iktatta be.
-[^18]: A 3/A. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) NGM rendelet 2. §-ával megállapított szöveg.
-[^19]: A 3/A. § (2) bekezdés a) pontja a 26/2013. (VI. 28.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^20]: A 3/A. § (2) bekezdés e) pontja a 26/2013. (VI. 28.) NGM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^15]: A 3. § a 35/2015. (XII. 23.) NGM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^16]: A 3/A. §-t a 23/2012. (VIII. 6.) NGM rendelet 3. §-a iktatta be, szövege a 35/2015. (XII. 23.) NGM rendelet 8. § (4) bekezdésével megállapított szöveg.
