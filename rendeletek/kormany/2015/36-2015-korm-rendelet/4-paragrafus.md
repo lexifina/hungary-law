@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § Az R. 12. § (15) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 12. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+## „(15) Ha a tanuló a középiskola utolsó évfolyamán nem tudta befejezni a tanulmányait, az adott vizsgaidőszakban rendes, javító és pótló érettségi vizsgát nem tehet. A tanuló kérelmére a rendes érettségi vizsgajelentkezéseit előrehozott érettségi vizsgajelentkezésre kell változtatni bármely érettségi vizsgatárgyból, amelyből jogosult érettségi vizsgát tenni. Azokat a vizsgajelentkezéseket, amelyekre a tanuló nem jogosult, az igazgató törli.”
