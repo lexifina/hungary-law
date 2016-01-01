@@ -1,0 +1,1 @@
+## 29. § Az R4. 1. § (2) bekezdés b) pontjában a „vagy ezt követően került átsorolásra” szövegrész helyébe a „vagy akinek az átsorolására, fizetési fokozatban előrelépésére, áthelyezésére, továbbá a kinevezésének az illetményét is érintő egyéb módosítására ezt követően került sor” szöveg lép.
