@@ -4,9 +4,9 @@
 
 (3) A beszerzési eljárás eredményeként létrejött szerződés megkötését követően haladéktalanul
 
-a) az elnök rendszeresítési javaslatot terjeszt fel a miniszternek, vagy
+a)[^3] az állami adó- és vámhatóság vezetője rendszeresítési javaslatot terjeszt fel a miniszternek, vagy
 
-b) a rendszeresítést előkészítő szervezet – az e rendelet szerint meghatározott esetekben – a (4) bekezdés szerinti tartalmi előírás alapján alkalmazásba vételi javaslatot terjeszt fel az elnöknek.
+b)[^4] a rendszeresítést előkészítő szervezet – az e rendelet szerint meghatározott esetekben – a (4) bekezdés szerinti tartalmi előírás alapján alkalmazásba vételi javaslatot terjeszt fel az állami adó- és vámhatóság vezetőjének.
 
 (4) A rendszeresítési és az alkalmazásba vételi javaslat tartalma:
 
@@ -31,3 +31,6 @@ b) a rendszeresítést előkészítő szervezet – az e rendelet szerint meghat
 10. az állagmegóvásra, műszaki kiszolgálásra, javításra tett javaslatok;
 
 11. a pótlásra, illetve a mennyiségi bővítésére vonatkozó feladatok megjelölése.
+
+[^3]: A 7. § (3) bekezdés a) pontja a 47/2015. (XII. 30.) NGM rendelet 12. § c) pontja szerint módosított szöveg.
+[^4]: A 7. § (3) bekezdés b) pontja a 47/2015. (XII. 30.) NGM rendelet 12. § d) pontja szerint módosított szöveg.

@@ -26,7 +26,7 @@
 
 | Budapest, … év … hónap … nap |
 
-| ................................................ elnök (aláírása, bélyegzőlenyomat) |
+| ................................................ állami adó- és vámhatóság vezetője (aláírása, bélyegzőlenyomat) |
 
 6. melléklet a 16/2010. (XII. 28.) NGM rendelethez
 

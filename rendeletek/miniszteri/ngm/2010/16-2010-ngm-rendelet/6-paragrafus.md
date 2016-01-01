@@ -2,10 +2,13 @@
 
 ## 3. A rendszeresítési eljárás
 
-6. § (1) A rendszeresítési eljárást a NAV Központi Hivatala – Szervezeti és Működési Szabályzat szerinti – fegyverzeti szakmai szakterületet közvetlenül felügyelő szervezeti egység (a továbbiakban: rendszeresítést előkészítő szervezet) vezetője kezdeményezi.
+6. § (1)[^1] A rendszeresítési eljárást a NAV Központi Irányítás – Szervezeti és Működési Szabályzat szerinti – fegyverzeti szakmai szakterületet közvetlenül felügyelő szervezeti egység (a továbbiakban: rendszeresítést előkészítő szervezet) vezetője kezdeményezi.
 
-(2) A rendszeresítést kezdeményező vezető javaslatára a NAV elnöke (a továbbiakban: elnök) egyetértése esetén a nem rendszeresített kényszerítő eszköz beszerzésének szükségességéről – a beszerzési eljárás megindítását megelőzően – írásban tájékoztatja a rendszeresítésre jogosult minisztert, valamint értesítést küldhet a társszervek részére.
+(2)[^2] A rendszeresítést kezdeményező vezető javaslatára az állami adó- és vámhatóság vezetője (a továbbiakban: elnök) egyetértése esetén a nem rendszeresített kényszerítő eszköz beszerzésének szükségességéről – a beszerzési eljárás megindítását megelőzően – írásban tájékoztatja a rendszeresítésre jogosult minisztert, valamint értesítést küldhet a társszervek részére.
 
 (3) Ha nem rendszeresített kényszerítő eszköz beszerzése válik szükségessé, a rendszeresítési eljárás megindítását követően, annak lefolytatásával párhuzamosan a beszerzési eljárás lefolytatását is meg kell kezdeni.
 
 (4) A beszerzési eljárás alapján megkötött szerződés hatályának beállta a szerződéssel érintett kényszerítő eszköz rendszeresítésétől vagy alkalmazásba vételétől függ. E feltételt a beszerzési eljárást megindító felhívásban közölni kell.
+
+[^1]: A 6. § (1) bekezdése a 47/2015. (XII. 30.) NGM rendelet 12. § a) pontja szerint módosított szöveg.
+[^2]: A 6. § (2) bekezdése a 47/2015. (XII. 30.) NGM rendelet 12. § b) pontja szerint módosított szöveg.
