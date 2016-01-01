@@ -1,6 +1,6 @@
 ### 3:261. § [Részvényesek részére történő kifizetés feltételei]
 
-(1) A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára figyelemmel kifizetést a részvénytársaság fennállása során az e törvényben meghatározott esetekben és – az alaptőke leszállításának esetét kivéve – a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha a részvénytársaság saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a részvénytársaság alaptőkéjét, továbbá ha a kifizetés veszélyeztetné a társaság fizetőképességét.
+(1) A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára figyelemmel kifizetést a részvénytársaság fennállása során az e törvényben meghatározott esetekben és – az alaptőke leszállításának esetét kivéve – az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha a részvénytársaság saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a részvénytársaság alaptőkéjét, továbbá ha a kifizetés veszélyeztetné a társaság fizetőképességét.
 
 (2) Az (1) bekezdés alkalmazásában kifizetésnek minősül minden pénzbeli és nem pénzbeli vagyoni juttatás, kivéve az ingyenesen vagy kedvezményesen juttatott dolgozói részvény, valamint az alaptőkén felüli vagyon alaptőkévé alakításával felemelt alaptőkéből ellenérték nélkül juttatott részvény juttatása.
 

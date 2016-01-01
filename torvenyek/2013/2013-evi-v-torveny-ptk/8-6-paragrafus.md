@@ -41,5 +41,3 @@ p) a részvénytársaságok egyesüléséről szóló 2011. április 5-i 2011/35
 q) a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelvnek;
 
 r) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint tőkéjük fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében az Európai Unió működéséről szóló szerződés 54. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról szóló 2012. október 25-i 2012/30/EU európai parlamenti és tanácsi irányelvnek
-
-való megfelelést szolgálja.
