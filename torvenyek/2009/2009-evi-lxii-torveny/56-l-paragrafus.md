@@ -1,4 +1,4 @@
-56/L. § (1) A matematikai tartalékok fedezetéül szolgáló eszközöket az elkülönített szervezeti egység a Bit. 134. §-ában foglalt csoportosítás szerint külön eszköznyilvántartásba veszi.
+56/L. § (1) A matematikai tartalékok fedezetéül szolgáló eszközöket az elkülönített szervezeti egység a Bit. 6. mellékletében meghatározott csoportosítás szerint külön eszköznyilvántartásba veszi.
 
 (2) Az eszköznyilvántartásban feltüntetett eszközök értékének mindenkor el kell érnie a biztosítástechnikai tartalékok előírt nagyságát. A kötelezettségekre megképzett biztosítástechnikai tartalékok fedezetéül szolgáló eszközöket, azaz a befektetési állomány értékelését piaci értéken kell elvégezni annak érdekében, hogy a szervezet kötelezettségeinek minden pillanatban meg tudjon felelni.
 

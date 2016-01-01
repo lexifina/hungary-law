@@ -8,7 +8,7 @@
 
 (3) A MABISZ az (1) bekezdésben meghatározott feladatait az elkülönített szervezeti egység útján oly módon láthatja el, hogy a legfelsőbb szerv vagy az ellenőrző szerv elkülönített szervezeti egység működésével kapcsolatos döntésének meghozatalában azon kötelező gépjármű-felelősségbiztosítási tevékenységet végző biztosítók részt vehessenek, amelyek nem tagjai a MABISZ-nak.
 
-(4) A (2) bekezdésben meghatározott szervezeti egység a vezetésére a Bit. 83. § (3) és (5) bekezdésében meghatározott feltételeknek megfelelő, felelős vezetőt (a továbbiakban: felelős vezető) kell kijelölni, akit a MABISZ ügyvezető és képviseleti szerve jelölhet ki, továbbá aki e minőségében csak a jogszabályoknak, az alapszabálynak, valamint a MABISZ legfőbb szerve határozatainak van alávetve, és a MABISZ tagjai által nem utasítható.
+(4) A (2) bekezdésben meghatározott szervezeti egység a vezetésére a Bit. 53. § (4)–(5) bekezdésében és 54. §-ában meghatározott feltételeknek megfelelő, felelős vezetőt (a továbbiakban: felelős vezető) kell kijelölni, akit a MABISZ ügyvezető és képviseleti szerve jelölhet ki, továbbá aki e minőségében csak a jogszabályoknak, az alapszabálynak, valamint a MABISZ legfőbb szerve határozatainak van alávetve, és a MABISZ tagjai által nem utasítható.
 
 (5) A felelős vezető az elkülönített szervezeti egység vezetésével kapcsolatos feladatait – a MABISZ részére ellátott egyéb feladataitól elkülönítve – az alapszabály határozza meg.
 

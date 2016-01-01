@@ -6,7 +6,7 @@
 
 2. biztosítási időszak: a határozatlan tartamú szerződések esetében – a díjfizetés gyakoriságától függetlenül – az az időtartam, amelyre a megállapított díj vonatkozik;
 
-3. biztosító: a biztosítókról és biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és Magyarország területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
+3. biztosító: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és Magyarország területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
 
 4. biztosított: a gépjármű biztosítással rendelkező üzemben tartója és a gépjárművet vezető személy;
 
@@ -74,7 +74,7 @@ b) amelyben a tulajdont szerző szokásos tartózkodási helye van, vagy ha a sz
 
 30. súlyos személyi sérülés: a balesetből eredően legalább 25%-os össz-szervezeti egészségkárosodással járó maradandó fogyatékosságot okozó, vagy a balesetből eredő, legalább 6 hónapos gyógytartammal járó súlyos egészségromlást okozó sérülés;
 
-31. székhely szerinti tagállam: a Bit.-ben a székhely tagállamaként meghatározott fogalom;
+31. székhely szerinti tagállam: az a tagállam, ahol a kötelezettséget vállaló biztosító, biztosításközvetítő, valamint szaktanácsadó székhelye található;
 
 32. tagállam: az Európai Gazdasági Térségről szóló megállapodásban részes állam és Svájc;
 

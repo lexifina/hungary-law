@@ -20,6 +20,6 @@ e) az egyéb biztosítástechnikai tartalékok.
 
 (4) Az elkülönített szervezeti egység biztosítástechnikai tartalékait a Kártalanítási Számlát és a Kártalanítási Alapot terhelő kötelezettségek szerint – valamint a Kártalanítási Alap esetében felszámolás alatt álló biztosítónként is – külön-külön kell kimutatni.
 
-(5) A biztosítástechnikai tartalékok képzésére alkalmazni kell a Bit. 118. § (1) és (2) bekezdését, 119. § (2) és (3) bekezdését azzal, hogy ahol a Bit. biztosítót említ, azon az elkülönített szervezeti egységet kell érteni.
+(5) A biztosítástechnikai tartalékok képzésére alkalmazni kell a biztosítók és a viszontbiztosítók szavatoló tőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben a számviteli biztosítástechnikai tartalékokra vonatkozó rendelkezéseket, azzal, hogy ahol e rendelet biztosítót említ, azon az elkülönített szervezeti egységet kell érteni.
 
 (6) A vezető aktuárius köteles haladéktalanul értesíteni a felelős vezetőt és az ellenőrző szervet, amennyiben a biztosítástechnikai tartalékok nem érik el a szükséges mértéket.

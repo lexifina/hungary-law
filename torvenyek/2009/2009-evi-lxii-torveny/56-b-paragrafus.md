@@ -20,14 +20,14 @@ munkaviszony keretében, a MABISZ részére ellátott, az 56. § (1) bekezdésé
 
 (6) Az a személy foglalkoztatható
 
-a) vezető aktuáriusként, aki megfelel a Bit. 86. § (1) bekezdés a)–d) pontjában;
+a) vezető aktuáriusként, aki megfelel a Bit. 57. § (1) bekezdés a)–d) pontjában;
 
-b) vezető jogtanácsosként, aki megfelel a Bit 87. § (1) bekezdés a)–e) pontjában;
+b) vezető jogtanácsosként, aki megfelel a Bit. 59. § (1) bekezdés a)–e) pontjában;
 
-c) számviteli rendért felelős vezetőként, aki megfelel a Bit. 88. § (1) bekezdés a)–e) pontjában;
+c) számviteli rendért felelős vezetőként, aki megfelel a Bit. 61. § (1) bekezdés a)–e) pontjában;
 
-d) belső ellenőrzési vezetőként, aki megfelel a Bit. 89. § (2) bekezdés a)–d) pontjában
+d) belső ellenőrzési vezetőként, aki megfelel a Bit. 63. § (2) bekezdés a)–d) pontjában
 
 meghatározott feltételeknek, és vele szemben a Bit. 83. § (5) bekezdésében meghatározott kizáró ok nem áll fenn.
 
-(7) A Bit. 86. § (1) bekezdés b) pontjában, a Bit. 87. § (1) bekezdés c) pontjában, a Bit. 88. § (1) bekezdés c) pontjában és a Bit. 89. § (2) bekezdés b) pontjában előírt szakmai gyakorlat befejezése nem eshet az egyéb vezető alkalmazását tíz évvel megelőző időpontnál korábbi időpontra.
+(7) A Bit. 57. § (1) bekezdés b) pontjában, 59. § (1) bekezdés c) pontjában, 61. § (1) bekezdés c) pontjában és 63. § (2) bekezdés b) pontjában előírt szakmai gyakorlat befejezése nem eshet az egyéb vezető alkalmazását tíz évvel megelőző időpontnál korábbi időpontra.

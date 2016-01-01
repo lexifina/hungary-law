@@ -57,3 +57,7 @@ megillető minden jog és követelés.
 (9) A Kártalanítási Számla kezelője e törvény alapján feladatainak ellátása, illetve őt megillető igényének érvényesítése érdekében pert indíthat.
 
 (10) A Kártalanítási Számla kezelője nem érvényesíthet megtérítési igényt az elhunyt üzemben tartó, illetve vezető örököseivel szemben.
+
+(11) A Kártalanítási Számla kezelőjét a 33. §-ban és a (8) bekezdés a) pontjában meghatározott jogosultság – a (12) bekezdésben meghatározott időtartamban és feltételek szerint – nem illeti meg az olyan kötelező gépjármű-felelősségbiztosítási szerződés vonatkozásában, amely azért szűnt meg, mert a biztosító ellen felszámolási eljárás indult.
+
+(12) A (11) bekezdésben meghatározott jogosultság azon káreseményből eredő követelés vonatkozásában nem illeti meg a Kártalanítási Számla kezelőjét, amely a felszámolás kezdő időpontjának napjától az azt követő hatvanadik nap végéig bekövetkezett. Azon felszámolás alatt álló biztosító esetén, amely Magyarország területén székhellyel vagy fiókteleppel nem rendelkezik és Magyarország területén határon átnyúló szolgáltatás keretében végezte a tevékenységét, a hatvannapos időtartam a felszámolásról szóló döntés Európai Közösségek Hivatalos Lapjában a 11. melléklet A) részében meghatározott nyomtatványban megjelölt döntés jogerőre emelkedésének a napján kezdődik.

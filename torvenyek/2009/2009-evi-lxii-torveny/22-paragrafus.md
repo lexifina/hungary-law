@@ -15,3 +15,5 @@
 (7) A Kártalanítási Számla kezelője a fedezetlenségi díjnak – a díjhirdetést követő naptári évre vonatkozó, a Kártalanítási Számla általi kártérítések és a kártérítésekhez kapcsolódó eljárási költségek alapján egy naptári évre számított – tarifáját gépjármű-kategóriánként, legkésőbb a naptári év végét megelőző negyvenötödik napig a Magyar Nemzeti Bank elnökének rendeletében meghatározott módon a Felügyelet honlapján meghirdeti, továbbá ezzel egyidejűleg a MABISZ honlapján közzéteszi. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa az alkalmazandó.
 
 (8) A Kártalanítási Számla kezelője jogosult az érdekmúlás miatt vagy egyéb okból következően ki nem számlázott, illetve a biztosító által kiszámlázott és az üzemben tartó által részben vagy teljes mértékben ki nem fizetett fedezetlenségi díjat beszedni.
+
+(9) A Kártalanítási Számla kezelője a (7) bekezdésben meghatározottak szerint számított fedezetlenségi díj tarifájának a megállapítása során a 36. § (11)–(12) bekezdésben meghatározott esetre vonatkozóan méltányos mértékű külön tarifát állapít meg.

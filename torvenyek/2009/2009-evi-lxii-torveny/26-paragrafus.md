@@ -4,7 +4,7 @@
 
 (2) A biztosítót az (1) bekezdésben meghatározott ideiglenes kivonás tényéről, valamint annak kezdő és záró időpontjáról a kötvénynyilvántartó szerv elektronikus úton értesíti.
 
-(3) A szünetelés a (2) bekezdésben meghatározott időpontoknak megfelelően a kivonás napjától a szünetelés lejártának napjáig vagy a gépjármű ismételt forgalomba helyezésének napjáig, de legfeljebb hat hónapig tart.
+(3) A szünetelés a (2) bekezdésben meghatározott időpontoknak megfelelően a kivonás napjától a szünetelés lejártának napjáig vagy a gépjármű ismételt forgalomba helyezésének napjáig, de legfeljebb egy évig tart.
 
 (4) Ha az újbóli üzembe helyezés a kivonás napjától számított egy éven belül nem történik meg, a szerződés az egyéves időszak utolsó napját követő napon megszűnik.
 
