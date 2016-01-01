@@ -30,7 +30,7 @@ j) az a)–h) pontban foglalt tevékenység megkísérlése.
 
 (5) Kivételt képez a (4) bekezdés a) pontja alól, ha a miniszter egyenáramú elektromos eszköz használatával történő halfogási tevékenység végzésére engedélyt ad.
 
-(6) Az (5) bekezdés szerinti engedély kizárólag elektromos halászgépkezelő képesítéssel, valamint a mezőgazdasági és erdészeti gépkezelői jogosítvány bevezetéséről és kiadásának szabályairól szóló rendelet szerinti gépkezelői jogosítvánnyal rendelkező személynek adható meg.
+(6) Az (5) bekezdés szerinti engedély kizárólag elektromos halászgépkezelő képesítéssel rendelkező személynek adható meg.
 
 (7) Az (5)–(6) bekezdés szerint engedélyezett halfogási tevékenység a halgazdálkodási hatóságnál nyilvántartott, minősítési-üzembehelyezési vizsgával rendelkező és kétévenkénti elektromos érintésvédelmi felülvizsgálaton átesett elektromos eszközzel végezhető.
 

@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-102-00-00
 | 2014-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-102-00-00.6 |
 | 2015-05-05 | 2015. évi XLVIII. törvény | 2013-102-00-00.7 |
 | 2015-11-27 | 2015. évi CLXXXIV. törvény | 2013-102-00-00.8 |
+| 2016-01-01 | 2015. évi LXXII. törvény | 2013-102-00-00.9 |

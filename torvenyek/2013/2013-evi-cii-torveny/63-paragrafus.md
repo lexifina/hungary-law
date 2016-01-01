@@ -1,6 +1,6 @@
-## 20. A halgazdálkodással összefüggő állami bevételek felhasználása
+## 20. A halgazdálkodásból származó bevételek
 
-63. § (1) A halgazdálkodás fejlesztésére felhasználható bevételek:
+63. § (1) A halgazdálkodásból származó bevétel
 
 a) az állami halász- és horgászjegy díja,
 
@@ -10,49 +10,47 @@ c) a turista állami horgászjegy díja,
 
 d) a fogási tanúsítvány és a fogási napló díja.
 
-(2) Az (1) bekezdés a) és b) pontjában meghatározott bevételeket a miniszter a következőkre fordítja:
+(2) Az (1) bekezdés a) és b) pontja szerinti bevétel központosított bevétel.
 
-a)
+(3) A központi költségvetésről szóló törvényben, az állami halgazdálkodási feladatok támogatására évente meghatározott forrást a miniszter a következőkre fordítja:
 
-b) halpusztulás esetén őshonos fajok, fajták visszatelepítésének támogatása,
+a) halpusztulás esetén őshonos fajok, fajták visszatelepítésének támogatása,
 
-c) őshonos halállományt veszélyeztető, tájidegen vagy invazív halfajok és halfogyasztó gerinces állatfajok gyérítése, riasztása,
+b) őshonos halállományt veszélyeztető, tájidegen vagy invazív halfajok és halfogyasztó gerinces állatfajok gyérítése, riasztása,
 
-d) védett vagy veszélyeztetett hasznosítható őshonos halfajok szaporítása, visszatelepítése,
+c) védett vagy veszélyeztetett hasznosítható őshonos halfajok szaporítása, visszatelepítése,
 
-e) természetes ívóhelyek, vermelőhelyek megőrzése, rekonstrukciója,
+d) természetes ívóhelyek, vermelőhelyek megőrzése, rekonstrukciója,
 
-f) új ívó- és vermelőhelyek kialakítása,
+e) új ívó- és vermelőhelyek kialakítása,
 
-g) természetes partszakaszok megőrzése, helyreállítása,
+f) természetes partszakaszok megőrzése, helyreállítása,
 
-h) halgazdálkodási kíméleti területek kialakítása, illetve
+g) halgazdálkodási kíméleti területek kialakítása, illetve
 
-i) halászati őrzés támogatása, fejlesztése,
+h) halászati őrzés támogatása, fejlesztése,
 
-j) a halgazdálkodás hatósági, igazgatási, ellenőrzési és állami halőrzési feladatainak támogatása,
+i) a halgazdálkodás hatósági, igazgatási, ellenőrzési és állami halőrzési feladatainak támogatása,
 
-k) halgazdálkodási tárgyú tankönyv-, szakkönyv- és folyóirat-kiadás támogatása,
+j) halgazdálkodási tárgyú tankönyv-, szakkönyv- és folyóirat-kiadás támogatása,
 
-l) gyermek- és ifjúsági horgászok továbbképzése, iskolai horgászati szakkörök és táborok szervezése, iskolai horgászati képzési segédanyagok készítése,
+k) gyermek- és ifjúsági horgászok továbbképzése, iskolai horgászati szakkörök és táborok szervezése, iskolai horgászati képzési segédanyagok készítése,
 
-m) horgászturizmus fejlesztése,
+l) horgászturizmus fejlesztése,
 
-n) horgászat megismertetése, népszerűsítése érdekében tartandó rendezvények, illetve horgászversenyek és a versenysport támogatása,
+m) horgászat megismertetése, népszerűsítése érdekében tartandó rendezvények, illetve horgászversenyek és a versenysport támogatása,
 
-o) magyar halászati hagyományok és kultúra megismertetése, népszerűsítése érdekében tartandó rendezvények támogatása,
+n) magyar halászati hagyományok és kultúra megismertetése, népszerűsítése érdekében tartandó rendezvények támogatása,
 
-p) halételek és halfogyasztás népszerűsítése, az ezek érdekében tartott rendezvények és a tudatformálás támogatása,
+o) halételek és halfogyasztás népszerűsítése, az ezek érdekében tartott rendezvények és a tudatformálás támogatása,
 
-q) a 62. § szerinti testület működésének támogatása,
+p) a 62. § szerinti testület működésének támogatása,
 
-r) a halgazdálkodás és a horgászat miniszter által alapított kitüntetései adományozásának támogatása,
+q) a halgazdálkodás és a horgászat miniszter által alapított kitüntetései adományozásának támogatása,
 
-s) nyilvántartott halgazdálkodási vízterületeken a horgászati célú halgazdálkodási szaktanácsadás igénybevételének támogatása.
+r) nyilvántartott halgazdálkodási vízterületeken a horgászati célú halgazdálkodási szaktanácsadás igénybevételének támogatása.
 
-(3) Az (1) bekezdés a) és b) pontja alapján befolyt bevételt a halgazdálkodási hatóság negyedévente, a tárgynegyedévet követő hónap 20. napjáig átutalja a miniszter által megjelölt számlára.
-
-(4) Az (1) bekezdés c) és d) pontjában szereplő díjbevétel a halgazdálkodási hatóság országos illetékességű szervének bevételét képezi, amelyet a következőkre fordít:
+(4) Az (1) bekezdés c) és d) pontja szerinti bevétel a halgazdálkodási hatóság országos illetékességű szervének bevétele, amelyet a következőkre fordít:
 
 a) az e törvény szerinti halgazdálkodási nyilvántartások karbantartása, fejlesztése,
 
