@@ -1,6 +1,6 @@
 ## A klinikai vizsgálat engedélyezése
 
-32. § (1)[^65] A vizsgálatot az ENKK (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi, és nyilvántartásba veszi.
+32. § (1)[^66] A vizsgálatot az ENKK (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi, és nyilvántartásba veszi.
 
 (2) Az engedély iránti kérelmet a megbízónak, illetve a meghatalmazott képviselőnek (e cím alkalmazásában a továbbiakban együtt: kérelmező) két példányban, a mellékletben megjelölt dokumentumok kíséretében kell az engedélyezőhöz benyújtania a vizsgálatok megkezdése előtt legalább 60 nappal.
 
@@ -14,4 +14,4 @@ c) a kérelmező által meghatározott teljesítőképesség igazolása és a v�
 
 d) a kérelmező minden tőle elvárhatót megtett-e a váratlan események és balesetek elkerülésére.
 
-[^65]: A 32. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 41. § f) pontja szerint módosított szöveg.
+[^66]: A 32. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 41. § f) pontja szerint módosított szöveg.
