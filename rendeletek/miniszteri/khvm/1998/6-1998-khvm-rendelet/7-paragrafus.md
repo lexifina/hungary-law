@@ -328,7 +328,7 @@ A munkát első alkalommal április 30-ig, második alkalommal október 15-ig ke
 
 4.11. A közutak menti pihenő- és parkolóhelyeken a közút kezelője köteles a kezelésében lévő létesítmények üzemeltetését a parkolóhelyet megközelítő út osztályba sorolásának megfelelő szinten biztosítani.
 
-4.12.[^45] A teherforgalmat lebonyolító határátkelőhelyeken az utak védelme érdekében a Nemzeti Adó- és Vámhivatal Központi Hivatalával egyeztetett módon tengelysúly-ellenőrző állomásokat kell működtetni, amelyek üzemeltetési idejének igazodnia kell a határátkelőhely nyitvatartási idejéhez.
+4.12.[^45] A teherforgalmat lebonyolító határátkelőhelyeken az utak védelme érdekében a Nemzeti Adó- és Vámhivatal Központi Irányításával egyeztetett módon tengelysúly-ellenőrző állomásokat kell működtetni, amelyek üzemeltetési idejének igazodnia kell a határátkelőhely nyitvatartási idejéhez.
 
 4.13. A közforgalmú pontonhíd a hatályos jogszabályok előírásai és hatósági engedélyek alapján üzemeltethető, amennyiben az azon lebonyolódó forgalom az országos közúthálózat forgalmának része.
 
@@ -1097,7 +1097,7 @@ II.2. Szolgáltatási kategóriánként változó – a Szerződésben esetenké
 [^42]: A melléklet 4.5. pontja a 23/2002. (IV. 29.) KöViM rendelet 5. §-ával megállapított szöveg.
 [^43]: A melléklet 4.6. pontja a 23/2002. (IV. 29.) KöViM rendelet 5. §-ával megállapított szöveg.
 [^44]: A melléklet 4.8. pontja a 23/2002. (IV. 29.) KöViM rendelet 5. §-ával megállapított szöveg.
-[^45]: A melléklet 4.12. pontja a 73/2012. (XII. 20.) NFM rendelet 4. §-a szerint módosított szöveg.
+[^45]: A melléklet 4.12. pontja a 73/2012. (XII. 20.) NFM rendelet 4. §-a, a 75/2015. (XII. 29.) NFM rendelet 2. §-a szerint módosított szöveg.
 [^46]: A melléklet 4.14. pontja a 73/2012. (XII. 20.) NFM rendelet 4. §-ával megállapított, a 76/2012. (XII. 22.) NFM rendelet 4. §-a szerint módosított szöveg.
 [^47]: A melléklet 4.15.1. pontja a 23/2002. (IV. 29.) KöViM rendelet 5. §-ával megállapított szöveg.
 [^48]: A melléklet 4.15.2. pontja a 42/2004. (IV. 9.) GKM rendelet 5. §-ával megállapított szöveg.
