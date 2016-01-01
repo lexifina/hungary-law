@@ -1,4 +1,4 @@
-5. § (1)[^5] A díjat – ideértve a fellebbezés díját is – az adatszolgáltató által megjelölt előirányzat-felhasználási keretszámlára kell befizetni. A díjfizetési kötelezettség az eljárás megindításával egyidejűleg bankkártyával is teljesíthető, ha az adatszolgáltató hatóságnál az ehhez szükséges műszaki feltételek rendelkezésre állnak.
+5. § (1)[^6] A díjat – ideértve a fellebbezés díját is – az adatszolgáltató által megjelölt előirányzat-felhasználási keretszámlára kell befizetni. A díjfizetési kötelezettség az eljárás megindításával egyidejűleg bankkártyával is teljesíthető, ha az adatszolgáltató hatóságnál az ehhez szükséges műszaki feltételek rendelkezésre állnak.
 
 (2) Egyedi személy-, jármű-, okmányazonosító (a továbbiakban: egyedi azonosító), illetve csoportképző ismérvek alapján igényelt adatszolgáltatási kérelemhez csatolni kell a melléklet I., illetve II. pontja alapján számított díj megfizetését tanúsító igazolást.
 
@@ -12,4 +12,4 @@
 
 (7) A fellebbezés díját a jogorvoslati kérelem benyújtásakor kell megfizetni.
 
-[^5]: Az 5. § (1) bekezdése a 15/2007. (III. 13.) IRM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 12. § (2) bekezdése alapján a rendelkezést a 2007. május 1. napja után indult eljárásokban kell alkalmazni.
+[^6]: Az 5. § (1) bekezdése a 15/2007. (III. 13.) IRM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 12. § (2) bekezdése alapján a rendelkezést a 2007. május 1. napja után indult eljárásokban kell alkalmazni.
