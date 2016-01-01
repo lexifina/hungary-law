@@ -10,7 +10,7 @@ c) a megállapodás tartalmazza a 3. § (1) bekezdésében foglaltakat,
 
 d) a megállapodásban elszámoló félként rögzített résztvevő rendelkezik:
 
-da) a Tpt. 334. §-ában meghatározott elszámolóházi tevékenység végzése esetén a Tpt. 338. § (1) bekezdése szerinti tevékenységi engedéllyel, vagy
+da) a Tpt. szerinti központi szerződő fél tevékenység esetén a Tpt. szerinti tevékenységi engedéllyel, vagy
 
 db) a Hpt. 3. § (2) bekezdés b) pontja szerinti kiegészítő pénzügyi tevékenység (fizetési rendszer működtetése) végzése esetén a Hpt. 3. § (3) bekezdésében előírt tevékenységi engedéllyel, vagy
 
