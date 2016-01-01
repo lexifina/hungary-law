@@ -1,0 +1,3 @@
+50. § A Gyftv. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ismertetés keretében a gyógyszerek, illetve gyógyászati segédeszközök rendelésére és forgalmazására jogosultnak ajándék, anyagi előny vagy más természetbeni juttatás nem adható, nem ajánlható fel és nem ígérhető, kivéve, ha a felsoroltak csekély értékűek és összefüggenek a gyógyszerek rendelésére vagy forgalmazására jogosult által folytatott egészségügyi tevékenységgel, továbbá éves szinten összértékük nem haladja meg a mindenkori minimálbér havi összegének 60%-át. Ismertetés keretében pénzbeli juttatás vagy előny nem adható, nem ajánlható fel és nem ígérhető.”
