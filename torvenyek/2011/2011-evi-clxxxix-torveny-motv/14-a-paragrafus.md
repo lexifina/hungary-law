@@ -13,3 +13,7 @@ elnevezés.
 (3) Közterület élő személyről nem nevezhető el.
 
 (4) Települések egyesítése, területrész átadása, a kerület határainak megváltoztatása után szükség esetén átnevezéssel kell gondoskodni arról, hogy az új település közterületnevei megfeleljenek a (2) és (3) bekezdésben meghatározott követelményeknek.
+
+(5) Minden házszámmal ellátott épületen a tulajdonosnak fel kell tüntetnie a házszámot.
+
+(6) Minden, az (1) bekezdés szerint elnevezett közterületet az elnevezése feltüntetésével kell megjelölni.
