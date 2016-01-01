@@ -8,7 +8,7 @@ b)[^49] a 4. adatlapon a Bnytv. 16. § (1) bekezdés c), e) és g) pontjában me
 
 c)[^50] az 5. adatlapon a Bnytv. 16. § (1) bekezdés e)–h) pontjában meghatározott adatokat, ha egységes intézkedés alkalmazása során jogerős ítéletet hozott,
 
-d)[^51] az elismerésről, illetve a végrehajtás átvételéről szóló végzés megküldésével a 6. adatlapon a Bnytv. 16. § (1) bekezdés c), e)–g) és j) pontjában meghatározott adatokat, azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, annak tényét, ha a terhelt fiatalkorú, a külföldi határozatot hozó bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, ha a külföldi bíróság által hozott ítélet érvényét elismerte vagy a külföldi bíróság által kiszabott büntetés végrehajtását a magyar hatóság átvette, és az elítélt az ítélet jogerőre emelkedésének napján mentesült,
+d)[^51] az elismerésről, illetve a végrehajtás átvételéről szóló végzés megküldésével a 6. adatlapon a Bnytv. 16. § (1) bekezdés c), e)–g) és j) pontjában meghatározott adatokat, azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, annak tényét, ha a terhelt fiatalkorú, a külföldi határozatot hozó bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, ha a külföldi bíróság által hozott ítélet érvényét elismerte vagy a külföldi bíróság által kiszabott büntetés végrehajtását a magyar hatóság átvette, és az elítélt az elismerésről szóló végzés jogerőre emelkedésének napján már mentesült,
 
 e)[^52] az erről szóló külön értesítés megküldésével a Bnytv. 16. § (1) bekezdés i) pontjában meghatározott adatokat, az elévülés napját, az alapügyben eljárt bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, ha megállapította, hogy a kiszabott büntetés végrehajtását az elévülés kizárja, és az elítélt az ítélet jogerőre emelkedésének napján mentesült,
 
@@ -37,7 +37,7 @@ n)[^61] a 8. adatlapon az eljárt bíróság megnevezését, a Bnytv. 16. § (2)
 [^48]: A 16. § (1) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 73. § (5) bekezdésével megállapított, a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
 [^49]: A 16. § (1) bekezdés b) pontja a 60/2012. (XII. 28.) KIM rendelet 5. § (1) bekezdésével megállapított, a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
 [^50]: A 16. § (1) bekezdés c) pontja a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
-[^51]: A 16. § (1) bekezdés d) pontja a 35/2013. (XII. 23.) KIM rendelet 13. § (5) bekezdésével megállapított, a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
+[^51]: A 16. § (1) bekezdés c) pontja a 37/2015. (XII. 21.) IM rendelet 2. §-ával megállapított szöveg.
 [^52]: A 16. § (1) bekezdés e) pontja a 9/2013. (VI. 29.) KIM rendelet 74. § d) pontja, a 17/2014. (XII. 19.) IM rendelet 36. § 3. pontja szerint módosított szöveg.
 [^53]: A 16. § (1) bekezdés f) pontja a 35/2013. (XII. 23.) KIM rendelet 13. § (6) bekezdésével megállapított, a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
 [^54]: A 16. § (1) bekezdés g) pontja a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.

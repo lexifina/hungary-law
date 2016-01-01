@@ -12,43 +12,29 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 
 | 1.2. Családi és utónév: |
 
-| ............................................................................................................................................................…………………… |
-
 | 1.3. Születési családi és utónév: |
-
-| ............................................................................................................................................................…………………… |
 
 | 1.4. Előző születési családi és utónév: |
 
-| ............................................................................................................................................................…………………… |
-
-| 1.5. Születési hely: .............................................................................. idő: □□□□ év □□ hó □□ nap |
+| 1.5. Születési hely: idő: □□□□ év □□ hó □□ nap |
 
 | 1.6. Anyja születési családi és utóneve: |
 
-| ............................................................................................................................................................…………………… |
-
 | 1.7. Anyja előző születési családi és utóneve: |
-
-| ............................................................................................................................................................…………………… |
 
 | 1.8. Neme: □ férfi □ nő 1.9. Állampolgárság: ............................................. 1.10. Előző állampolgárság: .................................. |
 
 | 1.11. Lakóhely: |
 
-| ............................................................................................................................................................…………………… |
-
 | 1.12. Előző lakóhely: |
-
-| ............................................................................................................................................................…………………… |
 
 | 2. A terhelt érvényes úti okmánnyal rendelkezik (kitöltése kötelező): | □ IGEN □ NEM |
 
-| 3. A határozat és az eljáró szerv adatai:3.1. A külföldi ítélet jogerőre emelkedésének napja: □□□□ év □□ hó □□nap. 3.2. Külföldi bíróság(ok) adatai: megnevezése: ............................................................................................................................................................…………………… határozatának száma: ......................................................................... kelte: □□□□ év □□ hó □□ nap. megnevezése: ............................................................................................................................................................…………………… határozatának száma: ......................................................................... kelte: □□□□ év □□ hó □□ nap. megnevezése: ............................................................................................................................................................…………………… határozatának száma: ......................................................................... kelte: □□□□ év □□ hó □□ nap. |
+| 3. A határozat és az eljáró szerv adatai:3.1. A külföldi ítélet jogerőre emelkedésének napja: □□□□ év □□ hó □□nap. 3.2. Külföldi bíróság(ok) adatai: megnevezése: határozatának száma: kelte: □□□□ év □□ hó □□ nap. megnevezése: határozatának száma: kelte: □□□□ év □□ hó □□ nap. megnevezése: határozatának száma: kelte: □□□□ év □□ hó □□ nap. |
 
-| 3.3. Elismerési eljárásban első fokon eljárt bíróság megnevezése: határozatának száma: ......................................................................... kelte: □□□□ év □□ hó □□ nap. |
+| 3.3. Elismerési eljárásban első fokon eljárt bíróság megnevezése: határozatának száma: kelte: □□□□ év □□ hó □□ nap. |
 
-| 3.4. Elismerési eljárásban másodfokon eljárt bíróság megnevezése: határozatának száma: ......................................................................... kelte: □□□□ év □□ hó □□ nap. jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. |
+| 3.4. Elismerési eljárásban másodfokon eljárt bíróság megnevezése: határozatának száma: kelte: □□□□ év □□ hó □□ nap. jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. |
 
 | 3.5. A terhelt fiatalkorú □ igen □ nem (kitöltése kötelező) |
 
@@ -82,7 +68,7 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 
 | 7. A terhelt ideiglenes végrehajtási letartóztatást töltött az ítélet elismerésekor, amely az elismeréssel egyidejűleg megszűnik: □ IGEN □ NEM |
 
-| 7.1. A korábban elrendelt ideiglenes végrehajtási letartóztatást elrendelő bíróság megnevezése: ............................................................................................................................................................…………………… |
+| 7.1. A korábban elrendelt ideiglenes végrehajtási letartóztatást elrendelő bíróság megnevezése: |
 
 | 7.2. határozatának száma: ...................................................................... és kelte: | □□□□ év □□ hó □□ nap. |
 
@@ -110,11 +96,11 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 
 | 8.4 Felfüggesztett szabadságvesztés végrehajtásának elrendelése esetén a felfüggesztett büntetést jogerősen kiszabó bíróság megnevezése: |
 
-| ............................................................................................................................................................…………………… |
+| határozatának száma: .......................................................…………….. jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. |
 
-| határozatának száma: ......................................................... jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. |
+| 8.5. A mentesítésre vonatkozó adatok: 8.5.1. A mentesítés várható időpontja: □□□□ év □□ hó □□ nap 8.5.2. A mentesítés időpontja nem állapítható meg: □ |
 
-| 9. Az ítélettel kapcsolatos egyéb eljárási cselekmények: |  |
+| 9. Az ítélettel kapcsolatos egyéb eljárási cselekmények: |
 
 | Kelt: ................................, ........... év .......... hó ........ nap. |
 
@@ -138,4 +124,4 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 
 | Intézkedés nyilvántartási ideje: |  |
 
-[^100]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^100]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 37/2015. (XII. 21.) IM rendelet 3. §-ával megállapított szöveg.
