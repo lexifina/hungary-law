@@ -10,7 +10,7 @@ b) a betétesek megbízásából behajtandó követelések után a betéteseknek
 
 c) az állami garanciával biztosított betétek megbízásból történő kifizetése után felszámított díjbevétel összegét;
 
-d)[^2]
+d)[^5] a betétek kifizetésével kapcsolatban felmerült, hitelintézetekre, tagintézetekre vagy költségvetésre áthárított költségek miatti bevételek összegét.
 
 (3) A nem betétbiztosításból eredő bevételek között kell kimutatni:
 
@@ -38,12 +38,16 @@ f) egyéb, a betétbiztosítási tevékenységgel kapcsolatban felmerült, tová
 
 (5) A nem betétbiztosításból eredő ráfordítások között kell kimutatni a betétesek és más hitelezők egyezségi tárgyaláson, felszámolási eljárásban való képviseletével kapcsolatosan felmerült ráfordítások összegét is.
 
-(6) A működési költségek között ráfordításonkénti bontásban kell kimutatni az OBA működésével kapcsolatban felmerült általános igazgatási és fenntartási költségek összegét. Idetartoznak a betétek kifizetésével kapcsolatban felmerült költségeknek és a megelőzési költségeknek a tagintézetekre át nem hárított összegei is. A működési költségek nem tartalmazzák az OBA megbízásos ügyleteivel kapcsolatban felmerült, továbbszámlázott költségek összegét, valamint a betétbiztosításból és a nem betétbiztosításból eredő ráfordítások között kimutatott költségek összegét.
+(6)[^6] A működési költségek között ráfordításonkénti bontásban kell kimutatni az OBA működésével kapcsolatban felmerült általános igazgatási és fenntartási költségek összegét. Ide tartoznak a betétek kifizetésével kapcsolatban felmerült költségeknek és a megelőzési költségeknek a tagintézetekre át nem hárított összegei is. A működési költségek tartalmazzák az OBA megbízásos ügyleteivel kapcsolatban felmerült, továbbszámlázott költségek összegét. A működési költségek nem tartalmazzák a betétbiztosításból és a nem betétbiztosításból eredő ráfordítások között kimutatott költségek összegét.
 
-(7) Az OBA mérleg szerinti eredményeként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és az üzleti évi ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
+(7)[^7] Az OBA tárgyévi eredményeként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és az üzleti évi ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
 
-(8) Az OBA nyereségének teljes összegét a tartalék növekedéseként kell elszámolni az üzleti évet követő évben.
+(8)[^8] Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
 
-(9) Az OBA veszteségének teljes összegét a tartalék csökkenéseként kell elszámolni az üzleti évet követő évben.
+(9)[^9]
 
-[^2]: A 6. § (2) bekezdés d) pontját a 345/2013. (IX. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^5]: A 6. § (2) bekezdés d) pontját a 345/2013. (IX. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte, újonnan a 484/2015. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^6]: A 6. § (6) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^7]: A 6. § (7) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^8]: A 6. § (8) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^9]: A 6. § (9) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 17. § 1. pontja hatályon kívül helyezte.

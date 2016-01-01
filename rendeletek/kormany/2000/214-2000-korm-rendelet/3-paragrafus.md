@@ -12,7 +12,7 @@ b) a rendszeres éves befizetés miatt fennálló követelések összegét;
 
 c) a rendkívüli éves befizetés miatt fennálló követelések összegét;
 
-d) az OBA által a befagyott betétek után a betétesek részére kifizetett tőke és kamat összegében a tagintézetekkel szemben fennálló, de az OBA-ra átszállt követelések összegét;
+d)[^2] az OBA által a befagyott betétek után a betétesek részére fizetett és fizetendő tőke és kamat összegében a tagintézetekkel szemben fennálló, de az OBA-ra átszállt követelések összegét;
 
 e) az OBA által a tagintézettel szemben felszámított kezességvállalási és más visszterhes anyagi kötelezettségvállalási díjakból a még fennálló követelések összegét.
 
@@ -35,3 +35,5 @@ b) a betétesek és más hitelezők egyezségi tárgyaláson, felszámolási elj
 (8) Az állampapírok között kell kimutatni az OBA pénzeszközeiből a – készpénzben, valamint likviditási tartalékként az OBA pénzforgalmi számláján tartott, továbbá a kifizetések lebonyolítására átutalt összegeken felüli – szabad pénzösszegeknek állampapír-vásárlásra fordított összegét.
 
 (9) Az egyéb értékpapírok között kell kimutatni a tagintézet felszámolása során az OBA kezességvállalását fedező jogi biztosíték érvényesítése útján az OBA tulajdonába került kötvények, részvények és egyéb értékpapírok értékének összegét.
+
+[^2]: A 3. § (3) bekezdés d) pontja a 484/2015. (XII. 29.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.

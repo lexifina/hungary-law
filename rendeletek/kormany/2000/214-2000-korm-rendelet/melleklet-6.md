@@ -1,6 +1,6 @@
-## A. Mérleg szerinti eredmény (I+II+III+IV+V–VI–VII–VIII–IX–X–XI)
+## A. Tárgyévi eredmény (I+II+III+IV-V-VI-VII-VIII-IX)
 
-6. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^11]
+6. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^41]
 
 ## A Szanálási Alap mérlegének előírt tagolása
 
@@ -72,9 +72,9 @@ IV. Pénzeszközök
 
 C. Aktív időbeli elhatárolások
 
-D. FORRÁSOK (PASSZÍVÁK)
+FORRÁSOK (PASSZÍVÁK)
 
-E. Saját tőke
+D. Saját tőke
 
 I. Jegyzett tőke
 
@@ -82,11 +82,11 @@ II. Tartalék
 
 III. Értékelési tartalék
 
-IV. Mérleg szerinti eredmény
+IV. Tárgyévi eredmény
 
-## F. Céltartalék
+## E. Céltartalék
 
-## G. Kötelezettségek
+## F. Kötelezettségek
 
 I. Hosszú lejáratú kötelezettségek
 
@@ -112,6 +112,6 @@ c) egyéb szanálási tevékenységből származó költség, ráfordítás miat
 
 4. Egyéb rövid lejáratú kötelezettségek
 
-H. Passzív időbeli elhatárolások
+G. Passzív időbeli elhatárolások
 
-[^11]: A 6. számú mellékletet a 362/2014. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^41]: A 6. számú mellékletet a 362/2014. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 16. § (6) bekezdése szerint módosított szöveg.

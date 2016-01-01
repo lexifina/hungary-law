@@ -1,4 +1,4 @@
-2. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez
+2. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^36]
 
 ## Az Országos Betétbiztosítási Alap eredménykimutatásának előírt tagolása
 
@@ -8,9 +8,11 @@
 
 03. Állami garanciával biztosított betétek kifizetése utáni jutalékbevételek
 
-04. Egyéb betétbiztosítási bevételek
+04. Betétek kifizetésével kapcsolatban felmerült, hitelintézetekre, tagintézetekre vagy költségvetésre áthárított költségek miatti bevételek
 
-I. Betétbiztosításból eredő bevételek (01+02+03+04)
+05. Egyéb betétbiztosítási bevételek
+
+I. Betétbiztosításból eredő bevételek (01+02+03+04+05)
 
 II. Egyéb bevételek
 
@@ -18,30 +20,28 @@ III. Nem betétbiztosításból eredő bevételek
 
 IV. Pénzügyi műveletek bevételei
 
-V. Rendkívüli bevételek
+06. Befagyott betétek kifizetésével kapcsolatos ráfordítások
 
-05. Befagyott betétek kifizetésével kapcsolatos ráfordítások
+07. Betétesek megbízásából behajtott követelésekkel kapcsolatos ráfordítások
 
-06. Betétesek megbízásából behajtott követelésekkel kapcsolatos ráfordítások
+08. Állami garanciával biztosított betétek kifizetésével kapcsolatban felmerült ráfordítások
 
-07. Állami garanciával biztosított betétek kifizetésével kapcsolatban felmerült ráfordítások
+09. Egyéb betétbiztosítási ráfordítások
 
-08. Egyéb betétbiztosítási ráfordítások
+V. Betétbiztosításból eredő ráfordítások (06+07+08+09)
 
-VI. Betétbiztosításból eredő ráfordítások (05+06+07+08)
+VI. Egyéb ráfordítások
 
-VII. Egyéb ráfordítások
+VII. Nem betétbiztosításból eredő ráfordítások
 
-VIII. Nem betétbiztosításból eredő ráfordítások
+VIII. Pénzügyi műveletek ráfordításai
 
-IX. Pénzügyi műveletek ráfordításai
+10. Anyagjellegű ráfordítások
 
-X. Rendkívüli ráfordítások
+11. Személyi jellegű ráfordítások
 
-09. Anyagjellegű ráfordítások
+12. Értékcsökkenési leírás
 
-10. Személyi jellegű ráfordítások
+IX. Működési költségek (10+11+12)
 
-11. Értékcsökkenési leírás
-
-XI. Működési költségek (09+10+11)
+[^36]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.

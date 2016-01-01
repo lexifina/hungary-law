@@ -1,4 +1,4 @@
-5. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez
+5. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^40]
 
 ## A Befektető-védelmi Alap eredménykimutatásának előírt tagolása
 
@@ -16,23 +16,19 @@ III. Nem befektetővédelmi bevételek
 
 IV. Pénzügyi műveletek bevételei
 
-V. Rendkívüli bevételek
-
 04. Befagyott követelések kifizetésével kapcsolatos ráfordítások
 
 05. Befektetők megbízásából behajtott követelésekkel kapcsolatos ráfordítások
 
 06. Egyéb befektetővédelmi ráfordítások
 
-VI. Befektetővédelmi ráfordítások (04+05+06)
+V. Befektetővédelmi ráfordítások (04+05+06)
 
-VII. Egyéb ráfordítások
+VI. Egyéb ráfordítások
 
-VIII. Nem befektetővédelmi ráfordítások
+VII. Nem befektetővédelmi ráfordítások
 
-IX. Pénzügyi műveletek ráfordításai
-
-X. Rendkívüli ráfordítások
+VIII. Pénzügyi műveletek ráfordításai
 
 07. Anyagjellegű ráfordítások
 
@@ -40,4 +36,6 @@ X. Rendkívüli ráfordítások
 
 09. Értékcsökkenési leírás
 
-XI. Működési költségek (07+08+09)
+IX. Működési költségek (07+08+09)
+
+[^40]: Az 5. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.

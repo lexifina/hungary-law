@@ -1,6 +1,6 @@
-## A. Mérleg szerinti eredmény (I+II+III+IV+V–VI–VII–VIII–IX–X–XI)
+## A. Tárgyévi eredmény (I+II+III+IV-V-VI-VII-VIII-IX)
 
-3. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez
+3. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^37]
 
 ## Az önkéntes betétbiztosítási és intézményvédelmi alap eredménykimutatásának előírt tagolása
 
@@ -22,8 +22,6 @@ IV. Nem betétbiztosítási és intézményvédelmi bevételek
 
 V. Pénzügyi műveletek bevételei
 
-VI. Rendkívüli bevételek
-
 05. Befagyott betétek kifizetésével kapcsolatos ráfordítások
 
 06. Betétesek megbízásából behajtott követelésekkel kapcsolatos ráfordítások
@@ -32,17 +30,15 @@ VI. Rendkívüli bevételek
 
 08. Egyéb betétbiztosítási ráfordítások
 
-VII. Betétbiztosításból eredő ráfordítások (05+06+07+08)
+VI. Betétbiztosításból eredő ráfordítások (05+06+07+08)
 
-VIII. Intézményvédelmi ráfordítások
+VII. Intézményvédelmi ráfordítások
 
-IX. Egyéb ráfordítások
+VIII. Egyéb ráfordítások
 
-X. Nem betétbiztosítási és intézményvédelmi ráfordítások
+IX. Nem betétbiztosítási és intézményvédelmi ráfordítások
 
-XI. Pénzügyi műveletek ráfordításai
-
-XII. Rendkívüli ráfordítások
+X. Pénzügyi műveletek ráfordításai
 
 09. Anyagjellegű ráfordítások
 
@@ -50,4 +46,6 @@ XII. Rendkívüli ráfordítások
 
 11. Értékcsökkenési leírás
 
-XIII. Működési költségek (09+10+11)
+XI. Működési költségek (09+10+11)
+
+[^37]: A 3. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.

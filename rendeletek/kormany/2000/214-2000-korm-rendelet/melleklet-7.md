@@ -1,4 +1,4 @@
-7. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^12]
+7. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^42]
 
 ## A Szanálási Alap eredménykimutatásának előírt tagolása
 
@@ -8,15 +8,11 @@ II. Egyéb bevételek
 
 III. Pénzügyi műveletek bevételei
 
-IV. Rendkívüli bevételek
+IV. Szanálási tevékenységgel kapcsolatos ráfordítások
 
-V. Szanálási tevékenységgel kapcsolatos ráfordítások
+V. Egyéb ráfordítások
 
-VI. Egyéb ráfordítások
-
-VII. Pénzügyi műveletek ráfordításai
-
-VIII. Rendkívüli ráfordítások
+VI. Pénzügyi műveletek ráfordításai
 
 01. Anyagjellegű ráfordítások
 
@@ -24,8 +20,6 @@ VIII. Rendkívüli ráfordítások
 
 03. Értékcsökkenési leírás
 
-IX. Működési költségek (01+02+03)
+VII. Működési költségek (01+02+03)
 
-A. Mérleg szerinti eredmény (I+II+III+IV–V–VI–VII–VIII–IX)
-
-[^12]: A 7. számú mellékletet a 362/2014. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^42]: A 7. számú mellékletet a 362/2014. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 16. § (7) bekezdésével megállapított szöveg.

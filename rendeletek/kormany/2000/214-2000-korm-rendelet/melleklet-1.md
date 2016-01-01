@@ -1,5 +1,3 @@
-## 32. §[^9] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 362/2014. (XII. 30.) Korm. rendelet 2. §-ával megállapított IV. Fejezetet, 4. § (1) bekezdésével megállapított 6. számú mellékletet, a 4. § (2) bekezdésével megállapított 7. számú mellékletet először a 2015. évben induló üzleti évről készített beszámolóra kell alkalmazni, de azok már a 2014. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
-
 1. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez
 
 ## Az Országos Betétbiztosítási Alap és az önkéntes alapok mérlegének előírt tagolása
@@ -90,7 +88,7 @@ II. Tartalék
 
 III. Értékelési tartalék
 
-IV. Mérleg szerinti eredmény
+## IV.[^35] Tárgyévi eredmény
 
 ## E. Céltartalék
 
@@ -112,4 +110,4 @@ II. Rövid lejáratú kötelezettségek
 
 G. Passzív időbeli elhatárolások
 
-[^9]: A 32. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1130. pontja hatályon kívül helyezte, újonnan a 362/2014. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^35]: Az 1. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. Saját tőke” fősor IV. pontja a 484/2015. (XII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.

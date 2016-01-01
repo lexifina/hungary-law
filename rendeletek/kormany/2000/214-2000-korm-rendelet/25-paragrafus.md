@@ -26,8 +26,12 @@ d) egyéb, a befektetővédelmi tevékenységgel kapcsolatban felmerült, továb
 
 (6) A működési költségek között ráfordításonkénti bontásban kell kimutatni a Befektető-védelmi Alap működésével kapcsolatban felmerült általános igazgatási és fenntartási költségek összegét. Idetartoznak a követelések kifizetésével kapcsolatban felmerült költségeknek és a megelőzési költségeknek a tagokra át nem hárított összegei is. A működési költségek nem tartalmazzák a Befektető-védelmi Alap megbízásos ügyleteivel kapcsolatban felmerült, továbbszámlázott költségek összegét, valamint a befektetővédelmi és a nem befektetővédelmi ráfordítások között kimutatott költségek összegét.
 
-(7) A Befektető-védelmi Alap mérleg szerinti eredményeként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és az üzleti évi ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
+(7)[^22] A Befektető-védelmi Alap tárgyévi eredményeként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és az üzleti évi ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
 
-(8) A Befektető-védelmi Alap nyereségének teljes összegét tartalék növekedéseként kell elszámolni az üzleti évet követő évben.
+(8)[^23] Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
 
-(9) A Befektető-védelmi Alap veszteségének teljes összegét a tartalék csökkenéseként kell elszámolni az üzleti évet követő évben.
+(9)[^24]
+
+[^22]: A 25. § (7) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^23]: A 25. § (8) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^24]: A 25. § (9) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 17. § 3. pontja hatályon kívül helyezte.

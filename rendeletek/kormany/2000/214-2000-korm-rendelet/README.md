@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-214-20-
 | 2013-10-01 | 2000-214-20-22.4 | 345/2013. (IX. 30.) Korm. rendelet |
 | 2014-01-01 | 2000-214-20-22.5 | 288/2001. (XII. 26.) Korm. rendelet |
 | 2015-01-01 | 2000-214-20-22.6 | 362/2014. (XII. 30.) Korm. rendelet |
+| 2016-01-01 | 2000-214-20-22.7 | 484/2015. (XII. 29.) Korm. rendelet |
