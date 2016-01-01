@@ -22,8 +22,10 @@ ah) az adópolitikáért felelős miniszterhez beérkezett bejelentés, vagy ké
 
 b) kérelem esetén – az a) pontban meghatározottakon túl – tartalmazza továbbá
 
-ba) az eljárási határidő meghosszabbításáról, az eljárás felfüggesztéséről szóló végzést,
+ba)[^1]
 
 bb) a határozat számát és meghozatalának időpontját,
 
 bc) a kérelem visszavonásának időpontját.
+
+[^1]: A 8. § b) pont ba) alpontját a 441/2015. (XII. 28.) Korm. rendelet 229. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
