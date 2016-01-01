@@ -50,6 +50,6 @@
 
 | 24. | 100 °C feletti lobbanáspontú folyadékok, amelyek a gyártási folyamatban a gőzök lobbanáspontjánál 50 °C-kal alacsonyabb hőmérsékletig melegednek | 0,7 |
 
-6. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^13]
+6. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^14]
 
-[^13]: A 6. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.
+[^14]: A 6. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.

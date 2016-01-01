@@ -154,6 +154,6 @@
 
 | 76. |  | Bitumen | – | 1050 |
 
-5. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^12]
+5. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^13]
 
-[^12]: Az 5. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.
+[^13]: Az 5. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.

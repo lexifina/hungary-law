@@ -14,7 +14,7 @@
 
 ## – megtett km alapnorma, üzemóra Norma Üzemanyag, kenőanyag literben,
 
-## – az üzemanyag, kenőanyag APEH egységára a pótlás napján (Ft/liter),
+## – az üzemanyag, kenőanyag NAV egységára a pótlás napján (Ft/liter),
 
 ## – az üzemanyag-, kenőanyag-felhasználás költsége (Ft)
 
