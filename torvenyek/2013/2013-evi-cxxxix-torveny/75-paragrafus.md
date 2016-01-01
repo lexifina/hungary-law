@@ -44,6 +44,8 @@ h) az intézkedés alapjául szolgáló adatok, tények, információk eltitkol�
 
 i) a szabályok megsértésének ismétlődésére, és gyakoriságára.
 
-(5) Nem lehet intézkedést alkalmazni a mulasztásnak vagy kötelezettségszegésnek az MNB tudomására jutásától számított három év, illetve az elkövetésétől számított öt év elteltével. Ha a bíróság az MNB-t új eljárás lefolytatására utasítja, intézkedést a hároméves határidőre tekintet nélkül az elkövetéstől számított ötödik év utolsó napjáig lehet alkalmazni.
+(5) Nem lehet intézkedést alkalmazni a mulasztásnak vagy kötelezettségszegésnek az MNB tudomásszerzésétől számított három év, illetve az elkövetésétől számított öt év elteltével. Az elkövetésétől számított ötéves határidő kezdő napja az a nap, amikor a jogsértő magatartás megvalósul, vagy jogellenes állapot fenntartása esetén az a nap, amikor ez az állapot megszűnik.
 
 (6) Az (5) bekezdésben meghatározott határidőkön belül intézkedés akkor is alkalmazható, ha az intézkedéssel érintett természetes személy az intézkedés alkalmazásakor már nem áll az ellenőrzött személyek és szervezetek alkalmazásában, megbízatása megszűnt vagy az ellenőrzött tevékenységet már nem végzi.
+
+(7) Ha a bíróság az MNB-t új eljárás lefolytatására kötelezi, intézkedést – a tudomásszerzés időpontjára tekintet nélkül – az elkövetéstől számított öt évig lehet alkalmazni. Ha a megismételt eljárás megindításakor az elkövetéstől számított öt év már eltelt vagy abból egy évnél kevesebb van hátra, az MNB a megismételt eljárás megindításától számított egy évig alkalmazhat intézkedést.

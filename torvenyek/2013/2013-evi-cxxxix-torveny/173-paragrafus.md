@@ -22,7 +22,7 @@ ai) a független és függő közvetítő igénybevételéhez szükséges enged�
 
 aj) a sorozatban kibocsátott értékpapír forgalomba hozatalával kapcsolatos tájékoztatási kötelezettség megszüntetésére,
 
-ak) a sorozatban kibocsátott értékpapír szabályozott piacra történő bevezetésére vagy multilaterális kereskedési rendszerbe történő regisztrálására,
+ak) a sorozatban kibocsátott értékpapír forgalomba hozatalára és szabályozott piacra történő bevezetésére vagy multilaterális kereskedési rendszerbe történő regisztrálására,
 
 al) a nyilvánosan működő társaságban történő befolyásszerzésre
 

@@ -18,7 +18,7 @@ h) a 4. § (1), (4), (5) és (7) bekezdésében meghatározott feladatok ellát�
 
 i) külföldi jegybank, valamint a 4. § (1), (4), (5) és (7) bekezdésében meghatározott feladatok ellátásával összefüggésben, továbbá nemzetközi szerződésből eredő kötelezettségek ellátása érdekében bármely más külföldi szervezet,
 
-j) a Quaestor Károsultak Kárrendezési Alapja
+j) a Kárrendezési Alap
 
 részére forintban és külföldi pénznemben bankszámlát vezetni.
 

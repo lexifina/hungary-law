@@ -8,7 +8,7 @@ a) a tevékenységével összefüggésben létrehozott,
 
 b) a fizetési rendszer működtetése tevékenységet vagy
 
-c) tőzsdei, elszámolóházi, központi értéktári és központi szerződő fél tevékenységet végző
+c) tőzsdei, központi értéktári és központi szerződő fél tevékenységet végző
 
 szervezetben.
 

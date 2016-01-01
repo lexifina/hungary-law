@@ -19,3 +19,5 @@
 a) a fogyasztóvédelemről szóló törvényben meghatározott, fogyasztói érdekek képviseletét ellátó egyesületeket, továbbá
 
 b) azokat az EGT bármely államának joga alapján létrejött feljogosított egységeket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesített igény a 41. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésén alapul.
+
+(9) Az MNB a 4. § (9) bekezdésben meghatározott feladatkörében – a Ptk. 6:105. §-a alapján az abban foglalt szabályok szerint – közérdekű keresetet terjeszthet elő a fogyasztó és a pénzügyi intézmény közötti szerződés részévé váló tisztességtelen általános szerződési feltétel érvénytelenségének megállapítása iránt.

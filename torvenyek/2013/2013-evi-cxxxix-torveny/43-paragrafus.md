@@ -76,7 +76,7 @@ oe) azon EGT-államok és harmadik országok megnevezését, amelyek esetén az 
 
 p) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszerszinten jelentős intézmények nevének naprakész listáját és ez utóbbiak alkategóriákba való besorolását, valamint
 
-q) az irányadó pufferráta meghatározásának alapjául szolgáló módszertant.
+q)
 
 (2a) Az MNB a (2) bekezdés szerinti közzétételi kötelezettségének
 

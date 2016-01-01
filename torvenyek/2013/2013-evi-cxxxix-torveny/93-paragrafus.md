@@ -32,7 +32,7 @@ a) az engedély nélkül vagy bejelentés hiányában végzett tevékenység ese
 
 b) a bennfentes kereskedelemre, piacbefolyásolásra és a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
 
-c) a bennfentes személyre vonatkozó bejelentési kötelezettség megsértése esetén a piacfelügyeleti bírság összege százezer forinttól tízmillió forintig,
+c) a bennfentes személyre vonatkozó közzétételi és bejelentési kötelezettség megsértése esetén a piacfelügyeleti bírság összege százezer forinttól tízmillió forintig,
 
 d) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettség, valamint a 12–14. cikkében előírt fedezetlen ügyletkötési korlátozások megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig
 

@@ -18,7 +18,7 @@ b) a 4. § (7) bekezdésében meghatározott feladataira tekintettel az Európai
 
 c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai Bankhatósággal.
 
-(2) Az MNB teljesíti az (1) bekezdésben meghatározott hatóságok irányában fennálló bejelentési kötelezettségeket.
+(2) Az MNB teljesíti az (1) bekezdésben meghatározott hatóságok irányában fennálló, e hatóságok feladatainak az ellátásához szükséges bejelentési, adat- és információszolgáltatási kötelezettségeket.
 
 (3) Az MNB írásban bejelenti az Európai Bizottságnak
 
@@ -30,9 +30,9 @@ c) az olyan befektetési alapkezelő számára kiadott – átruházható érté
 
 d) harmadik országban bejegyzett hitelintézet által Magyarországon bejegyzett hitelintézetben történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett hitelintézet harmadik országbeli hitelintézet leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 
-e) harmadik országban bejegyzett biztosító által Magyarországon bejegyzett biztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett biztosító harmadik országbeli biztosító leányvállalatává válik, illetve az ilyen részesedés megszűnését,
+e) harmadik országban bejegyzett vállalkozás által Magyarországon bejegyzett biztosítóban vagy viszontbiztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett biztosító vagy viszontbiztosító harmadik országbeli vállalkozás leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 
-f) harmadik országban bejegyzett viszontbiztosító által Magyarországon bejegyzett viszontbiztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett viszontbiztosító harmadik országbeli viszontbiztosító leányvállalatává válik, illetve az ilyen részesedés megszűnését,
+f) azokat az általános problémákat, amelyeket a Magyarországon működő biztosítók vagy viszontbiztosítók tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
 
 g) pénzügyi holding társaság összevont alapú felügyelet alá tartozását, illetve annak megszűnését,
 
@@ -62,7 +62,9 @@ s) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszers
 
 t) a 35/A. § (1) bekezdésében, a Hpt. 92. § (1) bekezdésében és a Bszt. 110/G. § (1) bekezdésében meghatározott felülvizsgálatok eredményét,
 
-u) a Bszt. 110/A. § (4) bekezdése és 110/B. § (8) bekezdése szerinti mentesítést.
+u) a Bszt. 110/A. § (4) bekezdése és 110/B. § (8) bekezdése szerinti mentesítést,
+
+v) a Bit. 279. § (5) bekezdésében és a 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számát és típusát.
 
 (4) Az MNB tájékoztatja
 
@@ -136,13 +138,33 @@ bx) a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti e
 
 by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről,
 
-bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról.
+bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról,
+
+bzs) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 327. § (9) bekezdése szerinti határozatokról.
 
 c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
 
 ca) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
 
-cb) a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
+cb) a biztosító, a viszontbiztosító és a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
+
+cc) – az érintett csoport szerkezetének és a csoportfelügyelet terjedelmének egyidejű bemutatásával – az olyan biztosító vagy viszontbiztosító számára kiadott tevékenységi engedélyről és annak visszavonásáról, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
+
+cd) harmadik országban bejegyzett vállalkozás által Magyarországon bejegyzett biztosítóban vagy viszontbiztosítóban történő olyan részesedésszerzéséről, amelynek eredményeképpen a Magyarországon bejegyzett biztosító vagy viszontbiztosító harmadik országbeli vállalkozás leányvállalatává válik, illetve az ilyen részesedés megszűnéséről,
+
+ce) azokról az általános problémákról, amelyeket a Magyarországon működő biztosítók vagy viszontbiztosítók tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
+
+cf) a Bit. 327. § (9) bekezdése, 337. § (7) bekezdése, 342. § (4)–(5) bekezdése, 343. § (9) bekezdése, 344. § (11) bekezdése, 351. § (5) bekezdése és 363. § (3) bekezdése szerinti határozatról,
+
+cg) a Bit. 310. § (4)–(5) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
+
+ch) a Bit. 335. § (8)–(9) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
+
+ci) a Bit. 350. § (3) bekezdése szerinti közös határozatról,
+
+cj) a Bit. 351. § (9) bekezdése és 352. § (3) bekezdése szerinti információkról,
+
+ck) a Bit. 279. § (5) bekezdésében és a 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számáról és típusáról;
 
 d) az Európai Bankbizottságot a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepére kiadott tevékenységi engedélyről,
 
@@ -160,12 +182,12 @@ ee) a 35. § (1) bekezdésben, a Hpt. 89. § (9) bekezdésében, valamint a Bszt
 
 ef) a Szantv. 113. § (2) bekezdésében foglaltakról.
 
-(5) A (3) bekezdés a) pontja szerinti bejelentésben jelezni kell, ha a tevékenységi engedélyt olyan biztosítónak adták ki, amely közvetlenül vagy közvetve egy vagy több, harmadik országban bejegyzett vállalkozás leányvállalata, és részletesen be kell mutatni ebben az esetben a vállalatcsoport szerkezetét.
+(5) A (3) bekezdés a) pontja szerinti bejelentésben – az érintett csoport szerkezetének és a csoportfelügyelet terjedelmének egyidejű bemutatásával – jelezni kell azt is, ha a tevékenységi engedélyt olyan biztosítónak vagy viszontbiztosítónak adták ki vagy olyan biztosítótól vagy viszontbiztosítótól vonták vissza, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata.
 
 (6) A (3) bekezdés b) pontja szerinti hitelintézetre vonatkozó bejelentést az európai bankbizottság létrehozásáról szóló, 2003. november 5-i 2004/10/EK bizottsági határozattal létrehozott Európai Bankbizottságnak is meg kell küldeni.
 
 (7) A (3) bekezdés c) pontja szerinti bejelentésben részletesen be kell mutatni a vállalatcsoport szerkezetét.
 
-(8) Az MNB a (3) bekezdés g) és n) pontja szerinti bejelentést az EGT állama pénzügyi felügyeleti hatóságainak is megküldi.
+(8) Az MNB a (3) bekezdés a), e), g) és n) pontja szerinti bejelentést az EGT állama pénzügyi felügyeleti hatóságainak is megküldi.
 
 (9) A Pénzügyi Békéltető Testület tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást ad.

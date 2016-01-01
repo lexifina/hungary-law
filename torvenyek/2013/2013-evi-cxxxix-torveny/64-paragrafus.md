@@ -14,7 +14,7 @@ végez.
 
 (2) Az MNB
 
-a) fizetési rendszer működtetése tevékenységet végző szervezetnél, továbbá elszámolóházi tevékenységet végző szervezetnél legalább kétévente,
+a) fizetési rendszer működtetése tevékenységet végző szervezetnél, legalább kétévente,
 
 b) központi szerződő félnél, továbbá központi értéktárnál legalább évente,
 

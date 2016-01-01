@@ -1,4 +1,4 @@
-166. § (1) Az MNB a – 147. § (5) bekezdése alapján a kiegyenlítési tartalékok negatív összegének ellentételezésére fel nem használt – tárgyévi eredményéből vagy az eredménytartalékból az igazgatóság 12. § (4) bekezdés b) pontja alapján meghozott döntésében foglaltak szerint fizet osztalékot.
+166. § (1) Az MNB a 147. § (5) bekezdése alapján a kiegyenlítési tartalékok negatív összegének ellentételezésére fel nem használt előző évi eredménnyel kiegészített eredménytartalékból az igazgatóság 12. § (4) bekezdés b) pontja alapján meghozott döntésében foglaltak szerint fizet osztalékot.
 
 (2) Az MNB osztalékelőleget nem fizet.
 

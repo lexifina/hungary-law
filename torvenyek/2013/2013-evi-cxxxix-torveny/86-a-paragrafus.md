@@ -2,11 +2,15 @@
 
 (2) A vizsgálati jelentésnek tartalmaznia kell
 
-a) a vizsgálat tárgyának megjelölését,
+a) a hatóság megnevezését, a vizsgálatvezető nevét, a vizsgálat tárgyát és az ügyiratszámot,
 
-b) a megállapított tényállást és az azt alátámasztó bizonyítékokat,
+b) a vizsgált személy nevét és lakcímét, szervezet esetében nevét és székhelyét, a vizsgált személy vagy szervezet eljárásjogi helyzetét és – ha azt a hatóság tudomására hozta – egyéb elérési lehetőségét,
 
-c) a tényállás értékelését.
+c) az eljárási cselekményben érintett személy vagy szervezet jogaira és kötelességeire való figyelmeztetést,
+
+d) az MNB-nek az eljárás során tett megállapításait és az azokat alátámasztó bizonyítékokat, és
+
+e) a megállapítások értékelését.
 
 (3) Az eljárás alá vont szervezetek és személyek a vizsgálati jelentésre annak kézhezvételétől számított húsz napon belül írásban észrevételeket tehetnek. Ha ez az időtartam az intézkedés eredményességét veszélyeztetné, az MNB rövidebb határidőt is előírhat.
 

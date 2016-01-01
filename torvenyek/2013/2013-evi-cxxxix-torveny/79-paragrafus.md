@@ -16,7 +16,7 @@ bb) a 39. § (1) bekezdés c) pontjában foglalt törvényben meghatározott hit
 
 bc) a 39. § (1) bekezdés f) pontjában foglalt törvényben meghatározott pénztárnál,
 
-bd) a 39. § (1) bekezdés h) és m) pontjában foglalt törvényben meghatározott befektetési alapkezelőnél, a kockázati tőkealap-kezelőnél, a tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi értéktárnál, központi szerződő félnél,
+bd) a 39. § (1) bekezdés h) és m) pontjában foglalt törvényben meghatározott befektetési alapkezelőnél, a kockázati tőkealap-kezelőnél, a tőzsdénél, központi értéktárnál, központi szerződő félnél,
 
 be) a 39. § (1) bekezdés i) pontjában foglalt törvényben meghatározott biztosítónál,
 
@@ -24,15 +24,15 @@ bf) a 39. § (1) bekezdés k) pontjában foglalt törvényben meghatározott fog
 
 bg) a 39. § (1) bekezdés l) pontjában foglalt törvényben meghatározott befektetési vállalkozásnál,
 
-bh) a 39. § (1) bekezdés n) pontjában foglalt törvényben meghatározott viszontbiztosítónál
+bh)
 
 szerzett vezetői gyakorlattal rendelkezik.
 
-(4) A (3) bekezdés b) pontjának alkalmazásában szakirányú felsőfokú képzettséggel rendelkező személynek minősül, aki főiskolai vagy egyetemi szintű közgazdasági, jogi, pénzügyi és számviteli vagy külkereskedelmi szakképzettséggel, könyvvizsgálói vagy olyan felsőfokú szakképesítéssel rendelkezik, amely szükséges ahhoz, hogy a 39. § (1) bekezdés a), c), f), h), i), k), l), m) és n) pontjában meghatározott törvények által szabályozott szervezetekben ügyvezetőnek, illetve vezető állású személynek legyen kinevezhető, megválasztható.
+(4) A (3) bekezdés b) pontjának alkalmazásában szakirányú felsőfokú képzettséggel rendelkező személynek minősül, aki főiskolai vagy egyetemi szintű közgazdasági, jogi, pénzügyi és számviteli vagy külkereskedelmi szakképzettséggel, könyvvizsgálói vagy olyan felsőfokú szakképesítéssel rendelkezik, amely szükséges ahhoz, hogy a 39. § (1) bekezdés a), c), f), h), i), k), l) és m) pontjában meghatározott törvények által szabályozott szervezetekben ügyvezetőnek, illetve vezető állású személynek legyen kinevezhető, megválasztható.
 
 (5) Felügyeleti biztosnak nem lehet kirendelni azt, illetve e minőségében nem járhat el az,
 
-a) aki saját maga vagy közeli hozzátartozója a 39. § (1) bekezdés a), c), f), h), i), k), l), m) és n) pontjában meghatározott törvények által szabályozott, a felügyeleti biztosi tevékenységgel érintett szervezetekben a kirendelés időpontjában vagy a kirendelést követően érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szervezettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt,
+a) aki saját maga vagy közeli hozzátartozója a 39. § (1) bekezdés a), c), f), h), i), k), l) és m) pontjában meghatározott törvények által szabályozott, a felügyeleti biztosi tevékenységgel érintett szervezetekben a kirendelés időpontjában vagy a kirendelést követően érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szervezettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt,
 
 b) akitől a felügyeleti biztos feladatainak részrehajlásmentes megítélése és tárgyilagos elintézése egyéb okból nem várható el (elfogultság).
 

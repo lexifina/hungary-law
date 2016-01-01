@@ -18,6 +18,6 @@ d) a 4. § (2) bekezdésében meghatározott feladatkörében a forgalomban lév
 
 e) az e törvényben, az MNB elnöke rendeleteiben és az MNB határozataiban foglalt rendelkezések megtartásának ellenőrzése,
 
-f) a 4. § (7) bekezdésében meghatározott feladatkörében eljárva a Hpt. 89. és 90. §-ában, valamint a Bszt. 110/D. és 110/E. §-ában meghatározottak szerint a globálisan és egyéb rendszerszinten jelentős hitelintézetekre, befektetési vállalkozásokra vonatkozó tőkepuffer, a 35/A. § (1) bekezdésében meghatározott rendszerkockázati tőkepuffer képzésére való kötelezés
+f) a 4. § (7) bekezdésében meghatározott feladatkörében eljárva a Hpt. 90. §-ában, valamint a Bszt. 110/E. §-ában meghatározottak szerint a globálisan és egyéb rendszerszinten jelentős hitelintézetekre, befektetési vállalkozásokra vonatkozó tőkepuffer, a 35/A. § (1) bekezdésében meghatározott rendszerkockázati tőkepuffer képzésére való kötelezés
 
 során.

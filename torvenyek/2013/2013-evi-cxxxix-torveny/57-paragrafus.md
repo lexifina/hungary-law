@@ -1,12 +1,12 @@
 57. § (1) Az MNB a 4. § (9) bekezdésben meghatározott feladatkörében, nemzetközi együttműködés során külföldi pénzügyi felügyeleti hatóságtól kapott egyedi adatokat kizárólag az alábbi célokra használhatja fel, valamint külföldi pénzügyi felügyeleti és szanálási hatóságnak, továbbá a 140. § (1) bekezdés a) pontjában meghatározott szervezetnek az alábbi célokra adhat ki adatokat:
 
-a) az alapítás és a tevékenység engedélyezésére vonatkozó kérelmek elbírálásához az engedélyben foglaltak ellenőrzéséhez, a szervezetek prudens működésének megítéléséhez, valamint az MNB határozatával kapcsolatos bírósági eljáráshoz,
+a) az alapítás és a tevékenység engedélyezésére vonatkozó kérelmek elbírálásához az engedélyben foglaltak ellenőrzéséhez, a szervezetek prudens működésének megítéléséhez, valamint az MNB határozatával kapcsolatos bírósági vagy büntetőeljáráshoz,
 
-b) a pénzügyi felügyeleti és szanálási hatóság döntésének, így különösen az alkalmazott intézkedések és kiszabott szankciók megalapozásához, valamint
+b) a pénzügyi felügyeleti és szanálási hatóság döntésének, az ahhoz kapcsolódó bírósági vagy büntetőeljárásnak, így különösen az alkalmazott intézkedések és kiszabott szankciók megalapozásához, valamint
 
 c) a 140. § (1) bekezdés a) pontjában meghatározott szervezeteknek az Európai Unió jogi aktusa által meghatározott feladatainak az Európai Unió jogi aktusa által meghatározott körben történő ellátásához.
 
-(2) A felügyeleti együttműködés keretében nyújtott, illetve szerzett egyedi adatok harmadik fél részére – ha az adattovábbítás egyéb feltételei fennállnak – az adatszolgáltató hatóság előzetes írásos hozzájárulása alapján továbbíthatóak.
+(2) A felügyeleti együttműködés keretében nyújtott, illetve szerzett egyedi adatok harmadik fél részére – ha az adattovábbítás egyéb feltételei fennállnak – az adatszolgáltató hatóság előzetes írásos hozzájárulása alapján továbbíthatóak. Az adatszolgáltató hatóság előzetes írásos hozzájárulására nincs szükség, ha a kapott adatok továbbítása az MNB vagy a külföldi pénzügyi felügyeleti hatóság döntésével kapcsolatos bírósági vagy büntetőeljáráshoz közvetlenül szükséges.
 
 (3) Az MNB a hatósági eljárása során az e törvény, illetve a 39. §-ban meghatározott törvények alapján birtokába került személyes adatokat az adott személy utolsó engedélyezési, nyilvántartásba vételi kötelezettség alá eső jogviszonyának megszűnésétől számított legfeljebb öt évig kezelheti.
 
