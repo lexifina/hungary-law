@@ -1,9 +1,3 @@
-## III. Fejezet
-
-## A SZABÁLYSÉRTÉSI ELJÁRÁS SORÁN LEFOGLALT ÉS ELKOBZOTT DOLOGGAL KAPCSOLATOS RENDELKEZÉSEK
-
-## 5. A lefoglalás
-
 25. § (1) A lefoglalást, ha azt az előkészítő eljárást végző szerv rendelte el, az előkészítő eljárást végző szerv, egyéb esetben a lefoglalást elrendelő szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy hajtja végre (a továbbiakban együtt: lefoglalást végrehajtó szerv).
 
 (2) Ha a dolog biztonságos megőrzése indokolja, a dolog elvehető annak birtokosától.

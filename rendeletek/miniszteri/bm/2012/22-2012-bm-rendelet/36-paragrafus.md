@@ -1,4 +1,4 @@
-## 35. § A szabálysértési statisztikai adatgyűjtők a szabálysértési statisztikai adatokat a szabálysértési eljárás befejezését követően haladéktalanul, dokumentált adatátadást megvalósító informatikai alkalmazással megküldik a szabálysértési nyilvántartó szervnek, amely azt a szabálysértési szabályozásért felelős miniszter által vezetett minisztérium rendelkezésére bocsájtja.
+## dokumentált adatátadást megvalósító informatikai alkalmazással megküldi a szabálysértési nyilvántartó szervnek, amely azt a szabálysértési szabályozásért felelős miniszter által vezetett minisztérium rendelkezésére bocsátja.
 
 36. § (1) A szabálysértési szabályozásért felelős miniszter gondoskodik a szabálysértési statisztikai adatok feldolgozásáról.
 

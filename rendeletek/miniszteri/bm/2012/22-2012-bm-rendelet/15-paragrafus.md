@@ -1,3 +1,5 @@
-15. § (1) A közérdekű munka végrehajtása során a napi munkaidő legalább négy óra, legfeljebb nyolc óra, azzal, hogy a közérdekű munka tartama havonta nem lehet kevesebb huszonnégy óránál.
+15. § (1)[^23]
 
 (2) Az állami foglalkoztatási szerv a munkahely kijelölésénél lehetőség szerint figyelembe veszi az elkövetőnek a munkavégzésre vonatkozó igényét.
+
+[^23]: A 15. § (1) bekezdését a 81/2015. (XII. 23.) BM rendelet 20. § b) pontja hatályon kívül helyezte.

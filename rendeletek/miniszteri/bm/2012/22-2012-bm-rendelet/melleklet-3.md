@@ -42,7 +42,7 @@
 
 | A *-gal jelölt helyen a megfelelő rész kitöltendő. |
 
-3. melléklet a 22/2012. (IV. 13.) BM rendelethez[^31]
+3. melléklet a 22/2012. (IV. 13.) BM rendelethez[^48]
 
 A szabálysértési statisztikai adatgyűjtők az alábbi statisztikai adatokra kötelesek teljesíteni a szabálysértési statisztikai adatgyűjtési kötelezettségüket:
 
@@ -52,7 +52,7 @@ a) a feljelentés elutasításának ténye
 
 b) a feljelentés elutasításának oka
 
-c) a feljelentés elutasításáról szóló határozat jogerőre emelkedésének dátuma
+c) a feljelentés elutasításáról szóló határozat kelte
 
 2. Eljárással kapcsolatos adatok:
 
@@ -66,37 +66,13 @@ b) az eljárás alá vont személy:
 
 I. katona/nem katona
 
-II. nagykorú/fiatalkorú/gyermekkorú
+II. nagykorú/fiatalkorú
 
 ## III. állampolgárság: magyar, EGT állampolgár vagy harmadik országbeli állampolgár
 
-c) ügyintézés időtartamára vonatkozó adatok:
+c) ügyintézés időtartamára vonatkozó adatok: az iktatástól az első ügydöntő határozat meghozataláig eltelt idő
 
-I. az iktatástól az első ügydöntő határozat meghozataláig eltelt idő
-
-## II. határidő hosszabbítás ténye, a határozat kelte
-
-d) mulasztással kapcsolatos adatok:
-
-I. igazolási kérelem előterjesztésének ideje, oka
-
-## II. a kérelem alapján hozott döntés: elutasította/helyt adott, a döntés kelte
-
-e) az eljárás során felhasznált bizonyítékok megjelölése:
-
-I. szemle
-
-II. tanúmeghallgatás
-
-III. eljárás alá vont személy meghallgatása
-
-IV. szakértő kirendelése
-
-V. okirat
-
-## VI. tárgyi bizonyítási eszköz
-
-f) az eljárás felfüggesztése:
+d) az eljárás felfüggesztése:
 
 I. ismeretlen elkövetővel szemben indult eljárásokban: az eljárás felfüggesztésének időpontja
 
@@ -104,27 +80,39 @@ II. ismeretlen elkövetővel szemben felfüggesztett eljárás továbbfolytatás
 
 III. ismert elkövetővel szemben indult eljárásokban: a felfüggesztés oka és időpontja
 
-## IV. ismert elkövetővel szemben felfüggesztett eljárás továbbfolytatása esetén: a továbbfolytatás ténye és időpontja
+## IV. közvetítői eljárásra utalás esetén:
 
-g) az eljárás megszüntetése:
+1. a közvetítői eljárás alapját szabálysértési elzárással sújtható szabálysértés képezte, vagy
+
+2. a közvetítői eljárás alapját fiatalkorú által elkövetett, szabálysértési elzárással sújtható szabálysértés képezte, vagy
+
+3. a közvetítői eljárás alapját fiatalkorú által elkövetett, szabálysértési elzárással nem sújtható szabálysértés képezte, továbbá
+
+4. a közvetítői eljárásra utalás időpontja, és
+
+5. a közvetítői eljárást elrendelő szerv típusa, székhelye, és
+
+6. a közvetítői eljárás eredményességének ténye
+
+e) az eljárás megszüntetése:
 
 I. ismeretlen elkövetővel szemben indult eljárásokban: a megszüntetés időpontja, a megszüntetés oka
 
 ## II. ismert elkövetővel szemben indult eljárásokban: az eljárás megszüntetésének időpontja és oka
 
-h) kényszerintézkedések:
+f) kényszerintézkedések:
 
-I. lefoglalás esetén: a lefoglaló határozat ténye
+I. lefoglalás esetén: a lefoglaló határozat kelte
 
 II. rendbírság kiszabása esetén: a rendbírság összege, a rendbírsággal érintett személy eljárásjogi helyzete, a kiszabó határozat kelte
 
 III. eljárási esemény kapcsán elrendelt elővezetés esetén: az elrendelés időpontja, az elővezetéssel érintett személy eljárásjogi helyzete
 
-IV. elzárás végrehajtása kapcsán elrendelt elővezetés esetén az elővezetés ténye, az elrendelésének időpontja
+IV. elzárás végrehajtása kapcsán elrendelt elővezetés esetén: az elővezetés ténye, az elrendelésének időpontja
 
-## V. ruházat/csomag/jármű átvizsgálása esetén: érintett személy eljárásjogi helyzete, intézkedés ideje, helye
+## V. ruházat/csomag/jármű átvizsgálása esetén: az érintett személy eljárásjogi helyzete
 
-i) érdemi döntés meghozatalának módja:
+g) érdemi döntés meghozatalának módja:
 
 I. meghallgatás alapján lefolytatott/meghallgatás nélküli eljárásban
 
@@ -132,21 +120,19 @@ II. tárgyaláson/tárgyalás nélkül
 
 ## III. bíróság elé állítás esetén: a bíróság elé állítás időpontja, kezdeményezője
 
-j) jogorvoslatok:
+h) jogorvoslatok:
 
-I. panasz esetén: a panasz ténye, a panaszolt döntés típusa, a panasz elbírálásának eredményeként a panasznak helyt adott/ügyészhez továbbította, a panasz elbírálásának időpontja
+I. panasz esetén: a panasz ténye, a panaszolt döntés típusa, a panasz elbírálásának időpontja, a panasz elbírálásának eredményeként a panasznak helyt adott/ügyészhez továbbította
 
-II. kifogás esetén: a kifogás benyújtásának időpontja, a kifogás eredménye, bírósági elbírálás esetén megszüntető, helybenhagyó vagy megváltoztató döntés ténye
+II. kifogás esetén: a kifogás benyújtásának időpontja, a kifogás eredménye, bírósági elbírálás esetén megszüntető, hatályban tartó vagy megváltoztató döntés ténye
 
-III. ügyészi felhívás esetén: az ügyészi felhívás ténye, a felhívás időpontja, eredménye
+III. fellebbezés esetén: a fellebbezés ténye és hatása az első fokon eljárt bíróság határozatára
 
-IV. fellebbezés esetén: a fellebbezés ténye és hatása az első fokon eljárt bíróság határozatára
+IV. perújítás esetén: a perújítási eljárás kezdeményezője, a perújítási eljárás indításának alapja, a perújítás hatása a megtámadott döntésre nézve
 
-V. perújítás esetén: a perújítási eljárás kezdeményezője, az eljárás indításának alapja, a perújítás hatása a megtámadott döntésre nézve
+## V. helyszíni bírság felülvizsgálata esetén: a felülvizsgálat oka, eredménye, az eljáró szerv megnevezése, a felülvizsgálat eredményeként hozott döntés időpontja
 
-## VI. helyszíni bírság felülvizsgálata esetén: a felülvizsgálat kezdő időpontja, oka, eredménye, a döntés időpontja, az eljáró szerv megnevezése
-
-k) szabálysértéssel okozott kár:
+i) szabálysértéssel okozott kár:
 
 I. ténye
 
@@ -156,33 +142,17 @@ III. az eljárás alá vont személy megtérítette-e az eljárás során
 
 ## IV. a kár egyéb módon megtérült-e
 
-l) ismeretlen elkövetővel szemben indult eljárások esetén továbbá: az eljáró szerv megnevezése, az eljárás megindításának időpontja, a szabálysértés megnevezése, a szabálysértés elkövetésének helye, ideje
+j) ismeretlen elkövetővel szemben indult eljárások esetén továbbá: az eljáró szerv megnevezése, az eljárás megindításának időpontja, a szabálysértés megnevezése, a szabálysértés elkövetésének helye, ideje
 
 3. Szankciók:
 
-a) járművezetéstől eltiltás esetén:
+a) elzárás esetén:
 
-I. az eltiltás minden közúti járműre, bizonyos járműfajtára, bizonyos kategóriára vonatkozik-e
+I. az elzárás büntetés kiszabására ismételt elkövetés miatt került-e sor
 
-## II. kategória megjelölése
+## II. az elzárás büntetés végrehajtása felfüggesztésének ténye, a döntés időpontja, a felfüggesztett elzárás foganatosítása elrendelésének ideje és oka
 
-b) sportrendezvényről történő kitiltás esetén:
-
-I. a sportrendezvény megnevezése
-
-## II. a sportlétesítmény megnevezése
-
-c) kereskedelmi helyiségekből történő kitiltás esetén:
-
-I. a kereskedelmi létesítmény megnevezése
-
-## II. egyéb helyszín
-
-d) elzárás esetén: az elzárás büntetés kiszabására ismételt elkövetés miatt került-e sor
-
-e) elkobzás esetén:
-
-I. az elkobzás felelősségre vonás mellett történt-e
+b) elkobzás esetén: az elkobzás felelősségre vonás mellett történt-e
 
 4. Végrehajtás:
 
@@ -192,7 +162,7 @@ I. a közérdekű munkára történő jelentkezés ténye
 
 II. a közérdekű munka megkezdésének ténye
 
-## III. a közérdekű munka befejezésének ténye és időpontját
+## III. a közérdekű munka befejezésének ténye és időpontja
 
 b) elzárásra történt átváltoztatás mellőzése esetén:
 
@@ -202,31 +172,23 @@ II. időpontja
 
 ## III. az alapeljárás hatályon kívül helyezése és új eljárásra utasítás ténye
 
-c) elzárás esetén az azonnali szabadítás oka:
-
-d) pénzbírság/helyszíni bírság esetén a befizetés módja:
+c) pénzbírság/helyszíni bírság esetén a befizetés módja:
 
 I. készpénzátutalási megbízás (sárga csekk)
 
-II. banki átutalás
+II. belföldi postai átutalás (rózsaszín csekk)
 
-III. POS terminál a helyszínen
+III. banki átutalás
 
-## IV. belföldi postai átutalás (rózsaszín csekk)
+IV. POS terminál a helyszínen
 
-e) szabálysértési költség/rendbírság esetén:
+## V. Elektronikus Fizetési és Elszámoló Rendszer (EFER)
 
-I. befizetett összeg
-
-f) részletfizetéssel, halasztással kapcsolatos adatok:
-
-I. részletfizetést engedélyező határozat ténye
-
-II. halasztást engedélyező határozat ténye
+d) részletfizetéssel kapcsolatos adatok: részletfizetést engedélyező határozat ténye
 
 5. Egyéb adatok:
 
-a) magánindítvány előterjesztésének ténye:
+a) magánindítvány előterjesztésének ténye
 
 b) szabálysértési költség viselése:
 
@@ -234,20 +196,24 @@ I. állam által viselt szabálysértési költség összege
 
 ## II. elkövető által viselt szabálysértési költség összege
 
-c) költségmentesség:
+c) költségmentesség engedélyezésének ténye
 
-I. költségmentesség engedélyezése
+d) helyszíni idézés ténye
 
-d) helyszíni idézés esetén:
-
-I. a helyszíni idézés ténye
-
-e) az elkövetett szabálysértés kötelező mértékű bírsággal büntetendő-e, illetve közlekedési szabálysértés elkövetése esetén a szabálysértést engedélyhez kötött járművezetés szabályainak megszegésével követték-e el
-
-f) a helyszíni bírság:
+e) a helyszíni bírság:
 
 I. kiszabására jelenlévő vagy távollévő személlyel szemben került-e sor
 
-II. távollévővel szemben kiszabott helyszíni bírság esetén, ha a bírság megfizetésre került: a bírság összege, az elkövetett szabálysértés megnevezése, az elkövetés helye és időpontja, a megfizetés időpontja.
+II. kiszabásának időpontja
 
-[^31]: A 3. mellékletet a 80/2013. (XII. 23.) BM rendelet 19. §-a iktatta be.
+## III. távollévővel szemben kiszabott helyszíni bírság esetén, ha a bírság megfizetésre került: a bírság összege, az elkövetett szabálysértés megnevezése, az elkövetés helye és időpontja
+
+f) ügyészi felhívás esetén:
+
+I. az ügyészi felhívás ténye
+
+II. a felhívás időpontja
+
+III. a felhívás eredménye
+
+[^48]: A 3. mellékletet a 80/2013. (XII. 23.) BM rendelet 19. §-a iktatta be, szövege a 81/2015. (XII. 23.) BM rendelet 19. §-ával megállapított szöveg.
