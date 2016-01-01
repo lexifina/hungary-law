@@ -16,4 +16,4 @@ e) a tenyészállatokat egyedenként, a 8. §-ban foglaltak szerint tartósan ú
 
 f) a törzskönyvet vagy tenyésztési főkönyvet a tenyésztési program előírásainak megfelelően vezetik.
 
-(3) A tenyésztő szervezet elismerésére irányuló eljárás során az ügyintézési határidő 6 hónap, amely egy alkalommal 6 hónappal meghosszabbítható.
+(3) A tenyésztő szervezet elismerésére irányuló eljárás során az ügyintézési határidő 4 hónap.

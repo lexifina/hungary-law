@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-114-00-00
 | 2013-10-01 | 2013. évi CVIII. törvény | 1993-114-00-00.35 |
 | 2014-01-01 | 2013. évi CCL. törvény | 1993-114-00-00.36 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1993-114-00-00.37 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 1993-114-00-00.38 |
