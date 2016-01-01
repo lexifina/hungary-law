@@ -4,7 +4,7 @@ a) a szervezet létesítő okiratát és
 
 b) a székhelyhasználat jogcímét igazoló okirat másolatát.
 
-(2) Ha a szervezet alapításában jogi személy vesz részt, a kérelemhez csatolni kell a jogi személy alapító jogi személyiségét igazoló okiratot és a szervezet nevében eljáró képviselő képviseleti jogát igazoló okiratot is.
+(2) Ha a szervezet alapításában a nyilvántartásban vagy a cégnyilvántartásban szerepelő jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság vesz részt, a bíróság az informatikai rendszer alkalmazásával ellenőrzi, hogy a szervezet a kérelemben megjelölt adatokkal szerepel-e a nyilvántartásban vagy a cégnyilvántartásban.
 
 (3) Ha a szervezet neve jogi személy, más szervezet vagy természetes személy nevét tartalmazza, a kérelemhez csatolni kell a jogosultnak, illetve örökösének vagy jogutódjának a névhasználathoz hozzájáruló nyilatkozatát.
 

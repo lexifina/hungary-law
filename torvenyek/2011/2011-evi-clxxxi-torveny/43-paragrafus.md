@@ -1,6 +1,6 @@
 43. § (1) A bíróság a szervezetet hivatalból törli a nyilvántartásból
 
-a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló jogerős végzése vagy
+a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló, elektronikus úton megküldött jogerős végzése vagy
 
 b) a szervezet feloszlatásáról, megszüntetésről vagy megszűnése megállapításáról rendelkező jogerős ítélet vagy
 

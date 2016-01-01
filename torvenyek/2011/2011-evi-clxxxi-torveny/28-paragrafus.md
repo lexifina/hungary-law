@@ -14,4 +14,4 @@ c) hiánypótlásnak
 
 és a szükséges intézkedéseket megteszi.
 
-(2)
+(2) Ha az ügy áttételének azért van helye, mert az e törvény szerinti eljárás lefolytatására másik bíróság illetékes, a bíróság az iratokat az informatikai rendszer alkalmazásával adja át, egyúttal a papír alapon érkezett iratokat megküldi az eljárás lefolytatására illetékes bíróságnak.
