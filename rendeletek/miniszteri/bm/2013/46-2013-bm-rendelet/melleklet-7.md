@@ -42,7 +42,7 @@
 
 | ........................................................... értékelt személy | ........................................................... értékelő vezető |
 
-7. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^27]
+7. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^28]
 
 ## MINŐSÍTŐ LAP
 
@@ -92,4 +92,4 @@ A minősítésben foglaltakat megismertem, a tájékoztatás tudomásul vettem, 
 
 dátum, minősített aláírása
 
-[^27]: A 7. melléklet a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^28]: A 7. melléklet a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 17. pontja szerint módosított szöveg.

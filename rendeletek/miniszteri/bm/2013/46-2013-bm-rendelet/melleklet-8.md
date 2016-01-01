@@ -1,4 +1,4 @@
-8. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^28]
+8. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^29]
 
 ## Szervezeti működés teljesítmény-indikátorai
 
@@ -106,4 +106,4 @@ III. Az Országgyűlési Őrség szakmai tevékenységét értékelő teljesítm
 
 6.5. a személyvédelemhez kapcsolódó megelőző-védelmi tevékenység eredményességének értékelése
 
-[^28]: A 8. melléklet a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 18. pontja szerint módosított szöveg.
+[^29]: A 8. melléklet a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 18. pontja szerint módosított szöveg.

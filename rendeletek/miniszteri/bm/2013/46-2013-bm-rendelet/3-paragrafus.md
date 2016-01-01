@@ -2,7 +2,7 @@
 
 a) a vezető besorolású értékelt személy részére évente legalább egy, legfeljebb négy stratégiai egyéni teljesítménykövetelményt,
 
-b)[^7] beosztotti besorolású értékelt személy részére évente legalább egy, legfeljebb három – a munkavégzéshez kötődő vagy a munkavégzésen kívüli – fejlesztési célt
+b)[^8] beosztotti besorolású értékelt személy részére évente legalább egy, legfeljebb három – a munkavégzéshez kötődő vagy a munkavégzésen kívüli – fejlesztési célt
 
 határoz meg.
 
@@ -12,4 +12,4 @@ a) év közbeni többletfeladatokat, valamint
 
 b) az 1. melléklet szerinti kompetenciák közül legalább hat, legfeljebb kilenc kompetenciát
 
-[^7]: A 3. § (1) bekezdés b) pontja a 36/2015. (VI. 16.) BM rendelet 33. §-ával megállapított szöveg.
+[^8]: A 3. § (1) bekezdés b) pontja a 36/2015. (VI. 16.) BM rendelet 33. §-ával megállapított szöveg.
