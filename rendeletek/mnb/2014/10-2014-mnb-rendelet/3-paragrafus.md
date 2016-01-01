@@ -4,6 +4,9 @@
 
 a) 60%-át a 2015. január 1. és 2015. december 31. közötti időszakban,
 
-b) 40%-át a 2016. január 1. és 2016. december 31. közötti időszakban,
+b)[^4] 0%-át a 2016. január 1. és 2017. december 31. közötti időszakban
 
-c) 20%-át a 2017. január 1. és 2017. december 31. közötti időszakban
+c)[^5]
+
+[^4]: A 3. § b) pontja a 43/2015. (X. 15.) MNB rendelet 2. §-ával megállapított szöveg.
+[^5]: A 3. § c) pontját a 43/2015. (X. 15.) MNB rendelet 7. §-a hatályon kívül helyezte.
