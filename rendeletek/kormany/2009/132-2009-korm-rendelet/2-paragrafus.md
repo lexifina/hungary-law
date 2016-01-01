@@ -14,13 +14,13 @@ b) a programban történő részvétel kezdő időpontjában 25. életévüket b
 
 c) a programban történő részvétel kezdő időpontjában az ötvenedik életévüket betöltötték, vagy
 
-d)[^5] a programban történő részvétel kezdő időpontját megelőző 12 hónapon belül gyermekgondozási segélyben, gyermeknevelési támogatásban, csecsemőgondozási díjban, gyermekgondozási díjban vagy ápolási díjban részesültek, vagy
+d)[^5] a programban történő részvétel kezdő időpontját megelőző 12 hónapon belül gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, csecsemőgondozási díjban, gyermekgondozási díjban vagy ápolási díjban részesültek, vagy
 
 e)[^6] tartósan munkanélküliek vagy tartós munkanélküliséggel veszélyeztetettek, vagy
 
 f)[^7] foglalkoztatást helyettesítő támogatásban részesülnek.
 
-(2a)[^8] A (2) bekezdésben foglaltakon kívül – álláskeresőként való nyilvántartásba vétel hiányában is –, az 1.1.2. Programba bevonható az a személy is, aki a Programba való jelentkezéskor gyermekgondozási segélyben, gyermekgondozási díjban, gyermeknevelési támogatásban, valamint ápolási díjban részesül, feltéve, hogy kereső tevékenysége alapjául szolgáló jogviszonya az előzőekben felsorolt ellátások folyósításának megkezdését megelőzően, vagy az ellátás folyósítása alatt szűnt meg, és a Programba történő bevonásának időpontjában nem folytat kereső tevékenységet.
+(2a)[^8] A (2) bekezdésben foglaltakon kívül – álláskeresőként való nyilvántartásba vétel hiányában is –, az 1.1.2. Programba bevonható az a személy is, aki a Programba való jelentkezéskor gyermekgondozást segítő ellátásban, gyermekgondozási díjban, gyermeknevelési támogatásban, valamint ápolási díjban részesül, feltéve, hogy kereső tevékenysége alapjául szolgáló jogviszonya az előzőekben felsorolt ellátások folyósításának megkezdését megelőzően, vagy az ellátás folyósítása alatt szűnt meg, és a Programba történő bevonásának időpontjában nem folytat kereső tevékenységet.
 
 (3)[^9] A kormányhivatal a tartós munkanélküliséggel veszélyeztetett célcsoport meghatározásánál figyelembe veszi:
 
@@ -48,10 +48,10 @@ e)[^15] aki a Társadalmi Megújulás Operatív Program keretében szakképesít
 
 [^3]: Az 1/A. §-t a 332/2010. (XII. 27.) Korm. rendelet 32. § (1) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés nyitó szövegrésze a 272/2012. (IX. 28.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdés d) pontja a 364/2014. (XII. 30.) Korm. rendelet 127. §-a szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdés d) pontja a 364/2014. (XII. 30.) Korm. rendelet 127. §-a, a 417/2015. (XII. 23.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés e) pontja a 324/2011. (XII. 28.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdés f) pontját a 324/2011. (XII. 28.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^8]: A 2. § (2a) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^8]: A 2. § (2a) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be, szövege a 417/2015. (XII. 23.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 16. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 2. § (3a) bekezdését a 324/2011. (XII. 28.) Korm. rendelet 16. § (3) bekezdése iktatta be, szövege a 272/2012. (IX. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^11]: A 2. § (4) bekezdés a) pontja a 272/2012. (IX. 28.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.

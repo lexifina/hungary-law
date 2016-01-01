@@ -2,7 +2,7 @@
 
 18. § (1) Ez a rendelet a – (2) bekezdésben foglalt kivétellel – kihirdetést követő harmadik napon lép hatályba.
 
-(2)[^41]
+(2)[^41] Ahol e rendelet gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 
 (3)[^42] E rendelet
 
@@ -14,5 +14,5 @@ c) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kate
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^41]: A 18. § (2) bekezdését a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés b) pontja hatályon kívül helyezte.
+[^41]: A 18. § (2) bekezdését a 359/2009. (XII. 30.) Korm. rendelet 9. § (6) bekezdés b) pontja hatályon kívül helyezte, újonnan a 417/2015. (XII. 23.) Korm. rendelet 32. §-a iktatta be.
 [^42]: A 18. § (3) bekezdése a 354/2014. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
