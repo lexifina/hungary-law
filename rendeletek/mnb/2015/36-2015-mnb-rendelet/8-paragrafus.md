@@ -1,0 +1,5 @@
+## 8. § A számlavezető biztosítja, hogy a belépési azonosító és a jelszó az ügyféladatokra vonatkozóan a pénzügyi intézmények, a befektetési vállalkozások és az árutőzsdei szolgáltatók informatikai rendszerének védelmére vonatkozó jogszabályi rendelkezésekben előírtakkal legalább azonos adatbiztonsági védelemben részesüljön. Ennek érdekében a számlavezető
+
+a) a belépési azonosítónál és a jelszónál alkalmazott konkrét képzési és tárolási eljárásához kapcsolódóan meghatározza, és a szabályzatban rögzíti azon természetes személyek és technikai felhasználók körét, akik vagy amelyek a megképzett belépési azonosítókhoz és jelszavakhoz hozzáférhetnek, valamint
+
+b) kidolgozza, és a szabályzatban rögzíti azokat a hozzáférés-jogosultsági szabályokat (érintett erőforrások, felhasználók, csoportbeosztások, az erőforrásokhoz rendelt hozzáférési jogosultsági beállítások), amelyek biztosítják, hogy a belépési azonosítóhoz és a jelszóhoz csak azon felhasználók férhessenek hozzá, akiknek feltétlenül szükséges, és kizárólag olyan műveleti jogosultsággal, amely munkájuk elvégzéséhez elengedhetetlen.
