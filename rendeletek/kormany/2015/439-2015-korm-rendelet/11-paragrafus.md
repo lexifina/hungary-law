@@ -1,0 +1,3 @@
+11. § (1) Az OVSZ az általa gyűjtött ipari plazma alapanyagot a hazai stabil vérkészítmény szükséglet biztosítása érdekében – határozott időtartamra megkötött szerződés alapján – a gyártó részére feldolgozás céljából jogosult értékesíteni, ha gyártó vállalja a – miniszteri rendeletben meghatározott – plazma külön sarzson történő elkülönített frakcionálását, és az abból előállított stabil vérkészítményekkel az OEP közbeszerzési eljárásán történő indulást.
+
+(2) Az önkéntes teljes vér adásából származó ipari plazma a nemzeti önellátás szempontjából is értékelt, a versenyeztetéssel elért legmagasabb áron értékesíthető.
