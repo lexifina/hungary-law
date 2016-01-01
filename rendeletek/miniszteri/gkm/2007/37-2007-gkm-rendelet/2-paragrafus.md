@@ -10,11 +10,11 @@ ac) a 2. számú főút és a 11. számú főút közötti szakasza,
 
 b) az M31 autópálya,
 
-c) az M43 autópályának Makói csomópont és az országhatár közötti szakasza,
+c)[^3]
 
 d) az M60 autópályának a Pécs délnyugati elkerülő szakasza az 58. és 5826. számú utak között,
 
-e) az M85 autóút,
+e)[^4] M85 autóútnak a Csorna-kelet csomópontja és az M85-M86 elválási csomópontja közötti szakasza,
 
 f) az M86 autóút,
 
@@ -27,3 +27,5 @@ i) az M9 autóút (61. számú főút jelzés) Kaposvárt elkerülő szakasza,
 j) az M4 autóútnak (4. számú autóút jelzés) Vecsés–Budapest Liszt Ferenc Nemzetközi Repülőtérre vezető út közötti szakasza.
 
 [^2]: A 2. §-t a 25/2013. (V. 31.) NFM rendelet 14. § (2) bekezdése hatályon kívül helyezte, újonnan az 57/2014. (XII. 30.) NFM rendelet 8. §-a iktatta be, szövege a 42/2015. (VII. 10.) NFM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § c) pontját a 42/2015. (VII. 10.) NFM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § e) pontja a 75/2015. (XII. 29.) NFM rendelet 20. §-ával megállapított szöveg.
