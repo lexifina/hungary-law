@@ -1,22 +1,25 @@
-29. § (1)[^161] A gyermekjóléti szolgálat vagy központ családgondozója számára a munkavégzéshez biztosítani kell
+29. § (1) A javaslattétel során a gyermek bántalmazástól, elhanyagolástól való védelemhez való jogát, a saját családjában történő nevelkedéshez és családi kapcsolatainak megtartásához, ápolásához való jogát, valamint a gyermek véleményét kell elsősorban figyelembe venni.
 
-a)[^162] olyan önálló infrastruktúrával ellátott, akár több családgondozó elhelyezésére is alkalmas irodát, amely megfelel a személyes segítő munka követelményeinek,
+(2) A javaslat a gyermekvédelmi nyilvántartás megfelelő adatlapjain ismerteti a gyermek helyzetét, különösen
 
-b) a heti munkaidőkeretnek legalább a felét kötetlen munkaidő-beosztás keretében, a személyes segítő munka, illetve az adatgyűjtés helyszínen való elvégzéséhez,
+a) a veszélyeztető körülményeket, azoknak a gyermekre gyakorolt hatását,
 
-c) a rendszeres szakmai továbbképzést,
+b) a szülő vagy a gyermeket nevelő más személy nevelési tevékenységét,
 
-d)[^163] a munkavégzéshez szükséges közlekedési eszköz használatát,,
+c) a gyermeket nevelő család élethelyzetére vonatkozó, adatlapon szereplő adatokat,
 
-e)[^164] a személyes biztonságát szolgáló eszközöket, különösen a külterületen dolgozó családgondozó esetében,
+d) a javaslattétel elkészítéséig biztosított alapellátásokat, valamint az ügy szempontjából fontos más ellátásokat,
 
-f)[^165] lehetőség szerint szupervíziót, melynek célja a családgondozó mentálhigiénéjének karbantartása, a kiégés megelőzése.
+e) a gyermeknek és a szülőnek (törvényes képviselőnek) a javaslattétel elkészítéséig tanúsított együttműködési készségét, illetve annak hiányát,
 
-(2)[^166] A családgondozó a feladata ellátása során a gyermekkel vagy családjával kapcsolatos adatokat a Gyvt.-ben és az Ar.-ban meghatározottak szerint kezeli.
+f) azt, ha a gyermeket gondozó szülő együtt él a szülői felügyeleti jogától megfosztott másik szülővel, és emiatt a gyermek nem áll szülői felügyelet alatt, és
 
-[^161]: A 29. § (1) bekezdésének felvezető mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 25. §-ával megállapított szöveg.
-[^162]: A 29. § (1) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 25. §-ával megállapított szöveg.
-[^163]: A 29. § (1) bekezdésének d) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 25. §-a iktatta be.
-[^164]: A 29. § (1) bekezdésének e) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 25. §-a iktatta be.
-[^165]: A 29. § (1) bekezdésének f) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 25. §-a iktatta be.
-[^166]: A 29. § (2) bekezdése a 28/2010. (XII. 30.) NEFMI rendelet 25. § c) pontja szerint módosított szöveg.
+g) megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogás elrendelését, mellőzését, fenntartását vagy megszüntetését alátámasztó körülményeket.
+
+(3) A gyermeket fenyegető közvetlen és súlyos veszély esetén a veszély tényének és jellegének megnevezésével, a többi adat feltárásának mellőzésével, telefonon haladéktalanul, majd azt követően elektronikus formában kell javaslatot tenni a hatóság intézkedésére. A hiányzó adatokat utóbb a hatóság felhívásától függően kell beszerezni.
+
+(4) Ha a javaslattételre a család- és gyermekjóléti szolgálat kezdeményezése alapján kerül sor, a család- és gyermekjóléti központ
+
+a) javaslatában megjelöli a kezdeményező család- és gyermekjóléti szolgálat és a gyermeket gondozó családsegítő adatait, és
+
+b) védelembe vétel esetén a javaslatot mérlegelés nélkül, azonban szükség szerint kiegészítve továbbítja 3 munkanapon belül a gyámhivatal felé.

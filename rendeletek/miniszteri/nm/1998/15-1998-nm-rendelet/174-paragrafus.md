@@ -1,4 +1,0 @@
-## 173. §[^599] A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet módosításáról szóló 46/2015. (X. 12.) EMMI rendelet (a továbbiakban: Módr.) hatálybalépését[^600] megelőző napon hatályos rendelkezések szerint illetékes szakszolgálat legkésőbb a Módr. hatálybalépését követő harmincadik napon átadja a fővárosi területi gyermekvédelmi szakszolgálatnak a menekült státuszt kérelmező, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúak, valamint a menekültként elismert, nevelésbe vett gyermekek nála folyamatban lévő és lezárt ügyeinek iratanyagát.
-
-[^599]: A 173. §-t a 46/2015. (X. 12.) EMMI rendelet 5. §-a iktatta be.
-[^600]: A hatálybalépés időpontja 2015. október 15.

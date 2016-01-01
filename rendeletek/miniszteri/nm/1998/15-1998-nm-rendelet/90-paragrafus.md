@@ -1,12 +1,12 @@
 ## Az utógondozás
 
-90. § (1)[^313] A gyámhivatal határozata alapján a nevelésbe vétel megszűnését követően a fiatal felnőtt családjába való sikeres visszailleszkedését, illetve önálló életének megkezdését a Gyvt. 5. § zs) pontja szerinti utógondozással kell segíteni.
+90. § (1)[^210] A gyámhivatal határozata alapján a nevelésbe vétel megszűnését követően a fiatal felnőtt családjába való sikeres visszailleszkedését, illetve önálló életének megkezdését a Gyvt. 5. § zs) pontja szerinti utógondozással kell segíteni.
 
-(2)[^314] A gondozás folyamatosságának biztosítása érdekében a korábban nevelésbe vett gyermekkel, illetve fiatal felnőttel (a továbbiakban együtt: utógondozott) kapcsolatos család-, illetve utógondozási feladatokat lehetőség szerint ugyanannak a szakembernek (a továbbiakban: utógondozó) kell ellátnia.
+(2)[^211] A gondozás folyamatosságának biztosítása érdekében a korábban nevelésbe vett gyermekkel, illetve fiatal felnőttel (a továbbiakban együtt: utógondozott) kapcsolatos család-, illetve utógondozási feladatokat lehetőség szerint ugyanannak a szakembernek (a továbbiakban: utógondozó) kell ellátnia.
 
-(2a)[^315] Az utógondozási feladatok a nevelőszülői hálózatnál, a gyermekotthonnál, az utógondozó otthonnál és a külső férőhely működtetőjénél az 1. számú melléklet szerint létesített bármely felsőfokú képesítéshez kötött szakmai munkakörben elláthatók. A Gyvt. 92. § (1) bekezdés b) és c) pontja szerinti utógondozási feladatokat ellátó személy e tevékenységét egyidejűleg legfeljebb öt fiatal felnőtt vonatkozásában végezheti.
+(2a)[^212] Az utógondozási feladatok a nevelőszülői hálózatnál, a gyermekotthonnál, az utógondozó otthonnál és a külső férőhely működtetőjénél az 1. számú melléklet szerint létesített bármely felsőfokú képesítéshez kötött szakmai munkakörben elláthatók. A Gyvt. 92. § (1) bekezdés b) és c) pontja szerinti utógondozási feladatokat ellátó személy e tevékenységét egyidejűleg legfeljebb öt fiatal felnőtt vonatkozásában végezheti.
 
-(3)[^316] Az utógondozás során az utógondozó együttműködik az utógondozott lakóhelye szerinti gyermekjóléti szolgálattal, továbbá felkutatja és lehetőség szerint bevonja az utógondozásba azokat a civil szervezeteket, vallási közösségeket és önkéntes segítőket, amelyek, illetve akik az utógondozottat segíteni tudják.
+(3)[^213] Az utógondozás során az utógondozó együttműködik az utógondozott lakóhelye szerinti család- és gyermekjóléti központtal, továbbá felkutatja és lehetőség szerint bevonja az utógondozásba azokat a civil szervezeteket, vallási közösségeket és önkéntes segítőket, amelyek, illetve akik az utógondozottat segíteni tudják.
 
 (4) Az utógondozó feladatai különösen, ha az utógondozott
 
@@ -16,7 +16,7 @@ aa) a hazakerülést követően figyelemmel kíséri, illetve segíti az utógon
 
 ab) segítséget nyújt önálló életvitelének kialakításához, kiemelten kezelve az önálló lakhatásának megoldását,
 
-ac)[^317] segíti az utógondozottat a képességeinek, tehetségének megfelelő köznevelési, felsőoktatási, felnőttképzési intézmény vagy munkahely kiválasztásában, keresésében, valamint a tanulmányok végzésével és a munkahelykereséssel kapcsolatos teendők intézésében,
+ac)[^214] segíti az utógondozottat a képességeinek, tehetségének megfelelő köznevelési, felsőoktatási, felnőttképzési intézmény vagy munkahely kiválasztásában, keresésében, valamint a tanulmányok végzésével és a munkahelykereséssel kapcsolatos teendők intézésében,
 
 ad) a jogszabályok által biztosított támogatási lehetőségek ismertetésével segíti a fiatalt szociális gondjai megoldásában,
 
@@ -26,7 +26,7 @@ af) szükség szerinti rendszerességgel – de legalább havonta egyszer – fe
 
 ag) legalább heti egy fogadónapon lehetőséget biztosít arra, hogy az utógondozott problémái megbeszélésére felkereshesse;
 
-ah)[^318] a Gyer. 121. § (2) bekezdés b) pontja szerint tájékoztatást ad a gyámhivatalnak az utógondozás eredményéről,
+ah)[^215] a Gyer. 121. § (2) bekezdés b) pontja szerint tájékoztatást ad a gyámhivatalnak az utógondozás eredményéről,
 
 b) utógondozói ellátásban részesül,
 
@@ -38,9 +38,9 @@ bc) a jogszabályok által biztosított támogatási lehetőségek ismertetésé
 
 (5) A (4) bekezdés b) pontja esetén az utógondozó feladatait a gyermekotthon utógondozó részlegén, illetve az utógondozó otthonban dolgozó nevelő is elláthatja.
 
-[^313]: A 90. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^314]: A 90. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^315]: A 90. § (2a) bekezdését a 83/2013. (XII. 29.) EMMI rendelet 4. §-a iktatta be, szövege a 6/2015. (I. 28.) EMMI rendelet 14. §-ával megállapított szöveg.
-[^316]: A 90. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 18. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^317]: A 90. § (4) bekezdés a) pont ac) alpontja a 26/2013. (III. 29.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^318]: A 90. § (4) bekezdés a) pont ah) alpontját a 26/2013. (III. 29.) EMMI rendelet 7. § (2) bekezdése iktatta be.
+[^210]: A 90. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^211]: A 90. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^212]: A 90. § (2a) bekezdését a 83/2013. (XII. 29.) EMMI rendelet 4. §-a iktatta be, szövege a 6/2015. (I. 28.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^213]: A 90. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 18. § (1) bekezdés e) pontja, az 55/2015. (XI. 30.) EMMI rendelet 11. § h) pontja szerint módosított szöveg.
+[^214]: A 90. § (4) bekezdés a) pont ac) alpontja a 26/2013. (III. 29.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^215]: A 90. § (4) bekezdés a) pont ah) alpontját a 26/2013. (III. 29.) EMMI rendelet 7. § (2) bekezdése iktatta be.

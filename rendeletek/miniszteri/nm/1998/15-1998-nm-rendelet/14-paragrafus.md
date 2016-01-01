@@ -1,27 +1,15 @@
-## A gyermek veszélyeztetettségének megelőzése
+14. § (1) A család- és gyermekjóléti szolgálat a szociális segítőmunka keretében
 
-14. § (1) A települési önkormányzat a településen élő gyermekek veszélyeztetettségének megelőzését a gyermekjóléti szolgáltatás útján szervezi.
+a) segíti az igénybe vevőket a családban jelentkező működési zavarok ellensúlyozásában, a családban élő gyermek gondozásában, ellátásának megszervezésében,
 
-(2) A gyermekjóléti szolgáltatás olyan észlelő- és jelzőrendszert működtet, amely lehetővé teszi a gyermekeket általában veszélyeztető okok feltárását, valamint az egyes gyermek veszélyeztetettségének időben történő felismerését. Ennek keretében figyelemmel kíséri a településen élő gyermekek
+b) az igénybe vevő szükségleteinek kielégítése, problémájának megoldása, céljai elérése érdekében számba veszi és mozgósítja az igénybe vevő saját és környezetében jelentkező erőforrásait, továbbá azokat a szolgáltatásokat, amelyek bevonhatók a célok elérésébe, újabb problémák megelőzésébe,
 
-a) életkörülményeit és szociális helyzetét,
+c) koordinálja az esetkezelésben közreműködő szakemberek, valamint a közvetített ellátásban, szolgáltatásban dolgozók együttműködését,
 
-b) gyermekjóléti és egyéb szociális ellátások iránti szükségletét,
+d) az eset szerinti aktuális probléma megoldásában érintett összes szakember és a család- és gyermekjóléti központ bevonásával, a közös problémadefiniálás, a vállalt feladatok tisztázása, a segítő folyamat együttes megtervezése érdekében esetmegbeszélést, illetve – az előbbiek mellett – a család problémában, illetve a megoldásában érintett tagjainak, a lehetséges támaszt jelentő személyeknek, továbbá korától, érettségétől függően az érintett gyermeknek a részvételével esetkonferenciát szervez,
 
-c) gyermekvédelmi vagy egyéb hatósági beavatkozást igénylő helyzetét.
+e) a szolgáltatást igénybe vevő személy, család, illetve gyermek és szülő (törvényes képviselő) közreműködésével szükség szerint, de legalább hathavonta értékeli az esetkezelés eredményességét, és
 
-(3) A gyermekjóléti szolgálat
+f) közreműködik a válsághelyzetben lévő várandós anya problémáinak rendezésében.
 
-a) kezdeményezi, szervezi és összehangolja a Gyvt. 17. §-ában meghatározott, valamint más érintett személyek és szervezetek részvételét az észlelő- és jelzőrendszerben,
-
-b)[^76] felhívja a Gyvt. 17. §-ában meghatározott személyeket és szerveket (a továbbiakban: a jelzőrendszer tagjai) jelzési kötelezettségük írásban – krízishelyzet esetén utólagosan – történő teljesítésére,
-
-c)[^77] nyilvántartja, és a Gyvt.-ben és az Ar.-ban meghatározott módon felhasználja az általa kezelt adatokat.
-
-(4)[^78] A gyermekjóléti szolgálat az észlelő- és jelzőrendszer részét képező, a gyermekvédelmi rendszerhez kapcsolódó feladatot ellátó – így különösen a (3) bekezdés a) pontjában meghatározott – személyek és intézmények bármely gyermek veszélyeztetettségével kapcsolatos jelzését fogadja, és a probléma jellegéhez, a veszélyeztetettség mértékéhez, a család szükségleteihez igazodó intézkedést tesz a veszélyeztetettség kialakulásának megelőzése, illetve a veszélyeztetettség megszüntetése érdekében. A gyermekjóléti szolgálat az intézkedéséről tájékoztatja a jelzést tevőt.
-
-(5) A gyermekjóléti szolgálat fogadja a panaszával hozzá forduló gyermeket, és segíti őt problémája megoldásában.
-
-[^76]: A 14. § (3) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^77]: A 14. § (3) bekezdés c) pontja a 28/2010. (XII. 30.) NEFMI rendelet 25. § c) pontja szerint módosított szöveg.
-[^78]: A 14. § (4) bekezdésének második mondatát a 46/2003. (VIII. 8.) ESZCSM rendelet 12. § (2) bekezdése iktatta be.
+(2) A szociális segítőmunka során valamennyi család esetében legalább havi három személyes találkozást kell megszervezni és dokumentálni.

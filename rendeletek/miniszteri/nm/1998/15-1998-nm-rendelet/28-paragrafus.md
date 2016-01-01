@@ -1,16 +1,23 @@
-## Az önálló gyermekjóléti szolgálat vagy központ[^157]
+## Javaslattétel hatósági intézkedésre
 
-28. § (1)[^158] Az önálló gyermekjóléti szolgálat vagy központ olyan szolgáltató intézmény, amely az alapellátás keretében alaptevékenységként gyermekjóléti szolgáltatást nyújt.
+## 28. § A család- és gyermekjóléti központ javaslatot tesz a gyámhivatal részére a gyermek
 
-(2)[^159] Az önálló gyermekjóléti szolgálat vagy központ vezetőjének feladata különösen
+a) védelembe vételére,
 
-a) az esetek elosztása a családgondozók között,
+b) megelőző pártfogására,
 
-b)[^160] a családgondozók számára legalább havonta kétszer szakmai megbeszélések szervezése, melynek célja az esetmunka hatékonyságának elősegítése,
+c) ideiglenes hatályú elhelyezésére,
 
-c) a családgondozók rendszeres továbbképzésének és szakmai tapasztalatcseréjének megszervezése.
+d) nevelésbe vételére,
 
-[^157]: A 28. § előtti alcím a 46/2003. (VIII. 8.) ESZCSM rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^158]: A 28. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 24. § (2) bekezdésével megállapított szöveg.
-[^159]: A 28. § (2) bekezdésének felvezető mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 24. § (3) bekezdésével megállapított szöveg.
-[^160]: A 28. § (2) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 24. § (3) bekezdésével megállapított szöveg.
+e) családba fogadására,
+
+f) harmadik személynél történő elhelyezésének kezdeményezésére,
+
+g) családbafogadó gyám kirendelésére,
+
+h) tankötelezettsége teljesítésének előmozdítására,
+
+i) gondozási helyének megváltoztatására,
+
+j) után járó családi pótlék természetbeni formában történő nyújtására.

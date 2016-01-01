@@ -1,12 +1,11 @@
-## 13. § A hivatalos ügyek intézésében való közreműködés során a gyermekjóléti szolgálat
+## 12. § A család- és gyermekjóléti szolgálat ellátja a Gyvt. 39. § (2)–(4) bekezdése, 40. §-a, valamint az Szt. 64. §-a szerinti feladatokat.
 
-a) segítséget nyújt a gyermeknek, illetve a szülőnek ügyeik hatékony intézéséhez,
+## 13. § A család- és gyermekjóléti szolgálat tájékoztatási feladatai körében szociális és egyéb információs adatokat gyűjt, és tájékoztatja
 
-b) tájékoztatja a gyermeket, illetve a szülőt az igénybe vehető jogi képviselet lehetőségéről,
+a) a szülőt, illetve – ha azt a gyermek védelme szükségessé teszi önállóan, a törvényes képviselő tudomása nélkül is, fejlettségétől függően – az ítélőképessége birtokában lévő gyermeket mindazon jogokról, támogatásokról és ellátásokról, amelyek összefüggésben állnak a gyermek testi, lelki egészségének biztosításával, családban történő nevelkedésének, vagy a gyermek számára szükséges védelem biztosításának elősegítésével,
 
-c)[^74] a gyámhivatal felkérésére a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve környezettanulmányt készít,
+b) a válsághelyzetben lévő várandós anyát az őt, illetve a magzatot megillető jogokról, támogatásokról és ellátásokról,
 
-d)[^75] a gyámhivatal felkérésére a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 47/A. § (6) bekezdése alapján tájékoztatást nyújt az örökbefogadott gyermek fejlődéséről, körülményeiről és a családba való beilleszkedéséről.
+c) a születendő gyermeke felnevelését nem vállaló, válsághelyzetben lévő várandós anyát a nyílt és a titkos örökbefogadás lehetőségéről, joghatásairól, valamint a nyílt örökbefogadást elősegítő közhasznú szervezetek, illetve a nyílt örökbefogadást elősegítő és a titkos örökbefogadást előkészítő területi gyermekvédelmi szakszolgálatok tevékenységéről és elérhetőségéről, és
 
-[^74]: A 13. § c) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 11. §-a iktatta be, szövege a 11/2013. (II. 7.) EMMI rendelet 44. § c) pontja szerint módosított szöveg.
-[^75]: A 13. § d) pontját a 19/2014. (III. 13.) EMMI rendelet 6. §-a iktatta be.
+d) az örökbefogadó szülőt az örökbefogadás utánkövetése körében igénybe vehető szolgáltatásról, és segíti az utánkövetést végző szervezet felkeresését.

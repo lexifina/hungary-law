@@ -1,33 +1,7 @@
-21. § (1)[^114] A védelembe vétel és a megelőző pártfogás során a gyermekjóléti szolgálat vezetője, illetve a kirendelt családgondozó a gyámhivatal határozata alapján biztosítja a gyermekjóléti szolgáltatást.
+21. § (1) A család- és gyermekjóléti központ a járás területén működő család- és gyermekjóléti szolgálat feladatainak szakmai támogatása érdekében
 
-(2)[^115] A családgondozó az egyéni gondozási-nevelési tervet a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve, a Gyvt. 68. §-ának (4) bekezdésében meghatározott határidőre a szülő, a gyermek, az érintett személyek és – szükség esetén – szakemberek bevonásával készíti el. A terv elkészítésénél figyelembe kell venni az alapellátás során követett gondozási tervet és az alapellátás tapasztalatait.
+a) havi rendszerességgel esetmegbeszélést tart a szolgálatok számára és szükség szerint konzultációt biztosít, és
 
-(2a)[^116] Megelőző pártfogás alatt álló gyermek esetén a kirendelt családgondozó a megelőző pártfogó bevonásával, a megelőző pártfogás elrendeléséről szóló határozatban foglaltakra figyelemmel készíti el az egyéni gondozási-nevelési tervet és tervezi meg a gyermek, valamint a szülő feladatait.
+b) tájékoztatja a szolgálatokat az általa nyújtott szolgáltatásokról, az azt érintő változásokról, illetve a járás területén elérhető, más személy, illetve szervezet által nyújtott, közvetíthető szolgáltatásokról, ellátásokról.
 
-(3)[^117] Az egyéni gondozási-nevelési terv tartalmazza
-
-a) a veszélyeztető körülmények megjelölését,
-
-b)[^118] a védelembe vétel megszüntetéséhez szükséges változásokat, valamint ennek elérése érdekében a családgondozó, a szülő, továbbá a gyermek feladatait, határidők megállapításával,
-
-c) a család részére szükséges ellátásokat,
-
-d) a szükségesnek tartott hatósági, illetve bírósági eljárások kezdeményezésének megjelölését,
-
-e)[^119] a segítséget nyújtó intézmények, illetve személyek megjelölését, feladataik meghatározásával együtt,
-
-f) a szakmailag szükségesnek tartott egyéb rendelkezéseket,
-
-g)[^120] megelőző pártfogás alatt álló gyermek esetén
-
-ga) a családgondozó, a megelőző pártfogó felügyelő, a szülő és a gyermek közötti együttműködés részletes szabályait, megjelölve a megelőző pártfogó felügyelővel való együttműködés módját, gyakoriságát, és
-
-gb) a családgondozó és a megelőző pártfogó felügyelő közötti munkamegosztás szempontjait.
-
-[^114]: A 21. § (1) bekezdése a 6/2015. (I. 28.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^115]: A 21. § (2) bekezdésének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 18. § (1) bekezdésével megállapított, a 6/2015. (I. 28.) EMMI rendelet 20. § b) pontja szerint módosított szöveg.
-[^116]: A 21. § (2a) bekezdését a 6/2015. (I. 28.) EMMI rendelet 7. § (2) bekezdése iktatta be.
-[^117]: A 21. § (3) bekezdése nyitó szövegrésze a 6/2015. (I. 28.) EMMI rendelet 20. § c) pontja szerint módosított szöveg.
-[^118]: A 21. § (3) bekezdésének b) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^119]: A 21. § (3) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^120]: A 21. § (3) bekezdés g) pontját a 6/2015. (I. 28.) EMMI rendelet 7. § (3) bekezdése iktatta be.
+(2) Ha a család- és gyermekjóléti központ a család- és gyermekjóléti szolgálat feladatkörébe tartozó szolgáltatás szükségességét észleli, a Gyvt. 40/A. § (2) bekezdés b) pontja szerinti esetben bevonja a család- és gyermekjóléti szolgálatot a szolgáltatás nyújtásába, egyéb esetben felhívja a család- és gyermekjóléti szolgálatot a szolgáltatás nyújtására.

@@ -1,7 +1,33 @@
-## A gyermekjóléti szolgáltatás feladatai
+8. § (1) Amennyiben a szakmai tevékenység az első interjú kapcsán tett intézkedéssel nem zárható le,
 
-## A gyermek családban történő nevelkedésének elősegítése
+a) a szolgáltatást igénybe vevő nagykorú személlyel együttműködési megállapodást kell kötni, a cselekvőképességében a gyermekjóléti, szociális ellátások igénybevételével összefüggő jognyilatkozatok tekintetében részlegesen korlátozott nagykorú személy esetén a gondnoka hozzájárulásával, és
 
-8. § (1) A gyermeket, illetve szülőjét tájékoztatni kell mindazokról a jogokról, támogatásokról és ellátásokról, amelyek összefüggésben állnak a gyermek testi, lelki egészségének biztosításával, családban történő nevelkedésének elősegítésével.
+b) a 7. számú melléklet szerint esetnaplót kell vezetni,
 
-(2) A jogokról, támogatásokról és ellátásokról történő tájékoztatást úgy kell szervezni, hogy arról a gyermek – fejlettségétől függően – önállóan, törvényes képviselője nélkül is tudomást szerezhessen.
+ide nem értve a „Gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés alatt álló gyermek védelme” és a „Családból kiemelt gyermek visszahelyezésének, családbafogadásának elősegítése” alcím alá tartozó eseteket.
+
+(2) Az együttműködési megállapodás tartalmazza
+
+a) az igénybe vevő és törvényes képviselője nevét, elérhetőségét,
+
+b) az esetkezelést végző családsegítő nevét, elérhetőségét,
+
+c) az igénybe vevő nyilatkozatát arról, hogy tájékoztatást kapott
+
+ca) a szolgáltatás elemeiről, azok tartalmáról, feltételeiről,
+
+cb) az intézmény által vezetett, rá vonatkozó nyilvántartásokról,
+
+cc) panaszjoga gyakorlásának módjáról,
+
+d) az igénybe vevő nyilatkozatát együttműködésének szándékáról, és
+
+e) annak tudomásul vételét, hogy az igénybe vevő vagy törvényes képviselője köteles
+
+ea) a jogszabályban meghatározott intézményi nyilvántartásokhoz adatokat szolgáltatni, és
+
+eb) nyilatkozni a jogosultsági feltételekben, valamint a személyazonosító adatokban beállott változásokról.
+
+(3) Az együttműködési megállapodást az intézményvezető írásban köti meg a szolgáltatást igénybe vevővel azzal, hogy a megállapodást az Szt. 122/A. §-a alá tartozó szolgáltatás esetében a szolgáltatást nyújtónak is alá kell írnia.
+
+(4) Az együttműködési megállapodás megkötését követő 15 napon belül kell elkészíteni az esetnapló A) részét és B) részének 1. és 2. pontját.

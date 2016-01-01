@@ -1,10 +1,11 @@
-24. § (1) A gyermekjóléti szolgálat családgondozója a családjába visszahelyezett gyermek utógondozását a gyámhivatal határozata alapján látja el.
+## Kórházi szociális munka
 
-(2)[^148] Az utógondozás célja a gyermek családjába történő visszailleszkedésének, lakókörnyezetébe történő beilleszkedésének, tanulmányai folytatásának vagy az iskolai végzettségének, szakképzettségének megfelelő munkahely-felkutatás segítése.
+24. § (1) A kórházi szociális munka feladata
 
-(3)[^149] Az utógondozás során a gyermekjóléti szolgálat családgondozója együttműködik az otthont nyújtó ellátást, illetve a területi gyermekvédelmi szakszolgáltatást végző intézménnyel.
+a) a szülészeti-nőgyógyászati osztályon a kórházi védőnővel együttműködve a válsághelyzetben lévő anya és gyermekének segítése,
 
-(4) A gyermek visszahelyezését segítő családgondozásra, valamint az utógondozásra egyébként a 16. § szabályait kell megfelelően alkalmazni.
+b) a gyermekosztályon a gyermekelhanyagolás és bántalmazás észlelése esetén a Gyvt. 17. § (2) bekezdése szerinti intézkedések megtétele, és
 
-[^148]: A 24. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 21. §-ával megállapított szöveg.
-[^149]: A 24. § (3) bekezdése a 28/2010. (XII. 30.) NEFMI rendelet 5. §-ával megállapított szöveg.
+c) az illetékességi területén működő kórházak felnőtteket ellátó, főként a pszichiátriai és a rehabilitációt végző osztályaival való együttműködés.
+
+(2) A család- és gyermekjóléti központ szerződést köt az egészségügyi intézménnyel, amelyben rögzítik a kórházi szociális munka biztosításának kereteit, valamint az együttműködés módját.

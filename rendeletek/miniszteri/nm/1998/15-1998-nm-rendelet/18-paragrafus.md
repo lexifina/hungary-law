@@ -1,9 +1,3 @@
-18. § (1) Ha a gyermek veszélyeztetettségét a gyermek, illetve szülőjének vagy más hozzátartozójának egészségi állapota vagy fogyatékossága okozza, a gyermekjóléti szolgálat egészségügyi vagy gyógypedagógiai ellátás biztosítását kezdeményezi.
+18. § (1) Ha a család- és gyermekjóléti szolgálat a család- és gyermekjóléti központ szakmai támogatását igényli, vagy a család- és gyermekjóléti központ feladatkörébe tartozó szolgáltatás, intézkedés szükségessége merül fel, esetmegbeszélést kezdeményez.
 
-(2)[^99] Ha a veszélyeztetettség valamely más gyermekjóléti, szociális, egészségügyi vagy egyéb ellátás biztosításával előreláthatólag megszüntethető, illetőleg mérsékelhető, a szolgálat kezdeményezi az ellátás biztosítását.
-
-(3) Ha a gyermekjóléti szolgálat valamely ellátás biztosítását kezdeményezi, előzőleg kísérletet kell tennie arra, hogy megnyerje a gyermek, illetve szülője (törvényes képviselője) együttműködését, kivéve, ha elháríthatatlan akadály vagy sürgős szükség áll fenn.
-
-(4) A gyermekjóléti szolgálat az eset összes körülményeinek feltárása után mérlegeli, hogy a kialakult veszélyeztetettség megszüntethető-e az önként igénybe vehető alapellátásokkal, vagy a gyermekvédelmi gondoskodás körébe tartozó, illetve egyéb hatósági intézkedés kezdeményezésére van-e szükség.
-
-[^99]: A 18. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 15. §-ával megállapított szöveg.
+(2) A gyermeket fenyegető közvetlen és súlyos veszély esetén a család- és gyermekjóléti szolgálat haladéktalanul, a család- és gyermekjóléti központ értesítése mellett, közvetlenül tesz javaslatot a hatóság intézkedésére.

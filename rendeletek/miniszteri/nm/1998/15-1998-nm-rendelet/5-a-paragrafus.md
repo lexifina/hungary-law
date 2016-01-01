@@ -1,4 +1,4 @@
-## 1/A.[^47] Cím
+## 1/A.[^52] Cím
 
 ## BIZTOS KEZDET GYEREKHÁZ
 
@@ -24,7 +24,7 @@ e) a környező aprófalvakban, tanyás területen élő gyermekek és szüleik 
 
 f) biztosíthatja a környező aprófalvakban, tanyás területen élő, nem megfelelően fejlődő gyermekek számára a megfelelő szakemberhez való hozzáférést.
 
-(3) A Biztos Kezdet Gyerekház a gyermek és család sikeres társadalmi integrációja érdekében legalább havonta egy alkalommal csoportmegbeszélést szervez a gyermekjóléti szolgálat, a védőnői szolgálat, az óvoda, egyéb gyermekintézmény, valamint szükség esetén a gyermekvédelmi jelzőrendszer egyéb tagjának részvételével.
+(3)[^53] A Biztos Kezdet Gyerekház a gyermek és család sikeres társadalmi integrációja érdekében legalább havonta egy alkalommal csoportmegbeszélést szervez a család- és gyermekjóléti szolgálat, a védőnői szolgálat, az óvoda, egyéb gyermekintézmény, valamint szükség esetén a gyermekvédelmi jelzőrendszer egyéb tagjának részvételével.
 
 (4) A Biztos Kezdet Gyerekház minden munkanap 8 és 13 óra között, legalább négy óra időtartamban nyitva tart.
 
@@ -36,4 +36,5 @@ b) az a 2–5 éves, nem óvodás gyermek, aki legalább heti három alkalommal
 
 látogatja szülőjével a Gyerekházat.
 
-[^47]: A II. Fejezet 1/A. Címét (5/A–5/C. §) a 20/2013. (III. 5.) EMMI rendelet 1. §-a iktatta be.
+[^52]: A II. Fejezet 1/A. Címét (5/A–5/C. §) a 20/2013. (III. 5.) EMMI rendelet 1. §-a iktatta be.
+[^53]: Az 5/A. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § b) pontja szerint módosított szöveg.

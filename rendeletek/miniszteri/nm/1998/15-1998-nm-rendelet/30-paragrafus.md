@@ -1,11 +1,11 @@
-## A más intézmény keretében működő gyermekjóléti szolgálat vagy központ
+30. § (1) A család- és gyermekjóléti központ a családi pótlék természetbeni formában történő nyújtásának időtartama alatt együttműködik a család- és gyermekjóléti szolgálattal és a kirendelt eseti gyámmal. Az együttműködés keretében tájékoztatják egymást a gyermek elhanyagolásból származó veszélyeztetettség alakulásáról, a megszüntetése érdekében tett intézkedésekről és a természetbeni formában nyújtott családi pótlék felhasználásának tapasztalatairól.
 
-30. §[^167] (1) Ha a gyermekjóléti szolgálat vagy központ feladatait más intézmény (pl. családsegítő szolgálat) keretében látja el, az önálló gyermekjóléti szolgálatra vagy központra vonatkozó szabályokat a (2)–(3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+(2) A család- és gyermekjóléti központ figyelemmel kíséri a családi pótlék természetbeni formában történő nyújtásáról szóló határozatban foglalt rendelkezések megvalósulását és szükség esetén kezdeményezi a gyámhivatalnál a családi pótlék természetbeni formában történő nyújtásának felülvizsgálatát.
 
-(2) Az intézmény alapító okirata tartalmazza a gyermekjóléti szolgálat vagy központ feladatainak ellátását is.
+(3) A család- és gyermekjóléti központ a családi pótlék természetbeni formában történő nyújtása felülvizsgálata során
 
-(3) Az intézményben biztosítani kell a gyermekjóléti szolgálat vagy központ önálló szakmai egységként történő működtetését. Önálló szakmai egységet legalább három főállásban foglalkoztatott szakember alkot, akik közül egy elláthatja a szakmai egység vezetését is.
+a) a gyámhivatal megkeresésére tájékoztatást ad a családi pótlék természetbeni formában történő nyújtása eredményéről és a családi pótlék természetbeni formában történő további nyújtásának szükségességéről,
 
-(4) Ha a gyermekjóléti szolgálat vagy központ családsegítő szolgálat keretében működik a lakosságot megfelelően tájékoztatni kell arról, hogy az intézmény a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben (a továbbiakban: Szt.) meghatározott családsegítés feladatán túl a gyermekjóléti szolgálat feladatait is ellátja.
+b) ha a család helyzetében, illetve a gyermek szükségleteiben bekövetkezett változások indokolják, új pénzfelhasználási tervet készít, és azt megküldi a gyámhivatalnak, és
 
-[^167]: A 30. § és alcíme a 46/2003. (VIII. 8.) ESZCSM rendelet 26. §-ával megállapított szöveg.
+c) részt vesz a gyámhivatali tárgyaláson.

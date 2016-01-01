@@ -6,9 +6,9 @@
 
 (2) A bölcsőde feladata a három éven aluli gyermekek gondozása-nevelése, harmonikus testi-szellemi fejlődésének segítése az életkori és egyéni sajátosságok figyelembevételével.
 
-(3)[^171] A bölcsőde vállalhatja a hat éven aluli sajátos nevelési igényű gyermek nevelését, gondozását, amennyiben az ellátáshoz szükséges tárgyi feltételekkel rendelkezik.
+(3)[^55] A bölcsőde vállalhatja a hat éven aluli sajátos nevelési igényű gyermek nevelését, gondozását, amennyiben az ellátáshoz szükséges tárgyi feltételekkel rendelkezik.
 
-(4)[^172] A bölcsőde szervezetileg működhet
+(4)[^56] A bölcsőde szervezetileg működhet
 
 a) önálló bölcsődeként,
 
@@ -16,7 +16,7 @@ b) Bölcsődei Igazgatóság, illetve Egyesített Bölcsőde szervezeti formába
 
 c) többcélú, közös igazgatású intézmény önálló szervezeti és szakmai egységeként.
 
-(5)[^173] A bölcsőde a feladat jellegétől függően
+(5)[^57] A bölcsőde a feladat jellegétől függően
 
 a) napos bölcsőde,
 
@@ -24,9 +24,9 @@ b) hetes (5 napos) bölcsőde
 
 lehet.
 
-(6)[^174] Ha a bölcsőde más intézménnyel összevontan működik, biztosítani kell a bölcsőde önálló szakmai egységként történő működtetését.
+(6)[^58] Ha a bölcsőde más intézménnyel összevontan működik, biztosítani kell a bölcsőde önálló szakmai egységként történő működtetését.
 
-[^171]: A 35. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva. A 35. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^172]: A 35. § új (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatva.
-[^173]: A 35. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a.
-[^174]: A 35. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a.
+[^55]: A 35. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva. A 35. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^56]: A 35. § új (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatva.
+[^57]: A 35. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a.
+[^58]: A 35. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a.

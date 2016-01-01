@@ -6,13 +6,13 @@
 
 (3) A fiatal felnőtt befogadásáról az utógondozó otthon haladéktalanul értesíti a szakszolgálatot.
 
-(4)[^435] Az utógondozó otthon a fiatal felnőtt kérelmére befogadja annak gyermekét, feltéve, hogy a gyermek törvényes képviselője ehhez hozzájárult. A fiatal felnőtt gyermekével kapcsolatos teendőkre a 103. § (2)–(5) bekezdései az irányadók.
+(4)[^341] Az utógondozó otthon a fiatal felnőtt kérelmére befogadja annak gyermekét, feltéve, hogy a gyermek törvényes képviselője ehhez hozzájárult. A fiatal felnőtt gyermekével kapcsolatos teendőkre a 103. § (2)–(5) bekezdései az irányadók.
 
 (5) Az utógondozó otthon megszünteti a fiatal felnőtt utógondozói ellátását, ha
 
-a)[^436] a Gyvt. 93. §-ának (9) bekezdés szerint megszűnik az ellátás,
+a)[^342] a Gyvt. 93. §-ának (9) bekezdés szerint megszűnik az ellátás,
 
 b) a gyámhivatal határozatával megszünteti az ellátást.
 
-[^435]: A 129. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 20. pontja szerint módosított szöveg.
-[^436]: A 129. § (5) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 19. pontja szerint módosított szöveg.
+[^341]: A 129. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 20. pontja szerint módosított szöveg.
+[^342]: A 129. § (5) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 19. pontja szerint módosított szöveg.

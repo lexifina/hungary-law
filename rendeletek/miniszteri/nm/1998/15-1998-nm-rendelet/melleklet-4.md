@@ -32,6 +32,6 @@
 
 | 6. |  |  |  |  |  |
 
-4. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^606]
+4. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^516]
 
-[^606]: A 4. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a, a 26/2013. (III. 29.) EMMI rendelet 37. § 34. pontja szerint módosított szöveg.
+[^516]: A 4. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a, a 26/2013. (III. 29.) EMMI rendelet 37. § 34. pontja szerint módosított szöveg.

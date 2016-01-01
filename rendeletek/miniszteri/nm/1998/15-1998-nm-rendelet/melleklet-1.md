@@ -1,30 +1,30 @@
-## 174. §[^601] A Módr. hatálybalépését[^602] megelőző napon hatályos rendelkezések szerint illetékes szakszolgálat és a fővárosi területi gyermekvédelmi szakszolgálat együttesen, legkésőbb a Módr. hatálybalépését követő harmincadik napon kezdeményezik a menekült státuszt kérelmező, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúak, valamint a menekültként elismert, nevelésbe vett gyermekek gyermekvédelmi gyámjának felmentését és a fővárosi területi gyermekvédelmi szakszolgálat által foglalkoztatott gyermekvédelmi gyám kirendelését.
+## 174. §[^511] A Módr. hatálybalépését[^512] megelőző napon hatályos rendelkezések szerint illetékes szakszolgálat és a fővárosi területi gyermekvédelmi szakszolgálat együttesen, legkésőbb a Módr. hatálybalépését követő harmincadik napon kezdeményezik a menekült státuszt kérelmező, ideiglenes hatállyal elhelyezett kísérő nélküli kiskorúak, valamint a menekültként elismert, nevelésbe vett gyermekek gyermekvédelmi gyámjának felmentését és a fővárosi területi gyermekvédelmi szakszolgálat által foglalkoztatott gyermekvédelmi gyám kirendelését.
 
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^603]
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^513]
 
 A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
 I. Alapellátások
 
-## 5K20316M_0
+## 5K23025M_0
 
 | Ellátás | Munkakör/fő |
 
-| 1. | Gyermekjóléti szolgáltatás |  |  |
+| 1. Családsegítés és gyermekjóléti szolgáltatás |  |
 
-| a) | Gyermekjóléti szolgáltatási körzet (700 fő gyermek) | családgondozó 1 fő |
+| a) Család- és gyermekjóléti szolgálat |  |  |
 
-|  | – gondozotti létszám: a gondozási-nevelési terv szerint, adott időszakban egyidejűleg családgondozásban részesülő 45 gyermek vagy 25 család |  |
+| 4000 fő lakosságszámra (település/közös hivatalhoz tartozó települések) vetítve, vagy – ha ez magasabb létszámot eredményez – minden 25 ellátott családra 1 fő, de minimum 1 fő | családsegítő (3 fő családsegítő és a felett közülük intézményvezetőt kell kinevezni) | 1 fő |
 
-| b) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolgálat feladatait is ellátó családsegítő szolgálat, illetve több célú intézmény önálló szakmai egysége (3000 gyermek) | családgondozó* (általános gyermekjóléti szolgáltatások) 3 fő |
+| b) Család- és gyermekjóléti központ |  |  |
 
-|  | – gondozotti létszám: 45 gyermek vagy 25 család |  |
+|  | intézményvezető | 1 fő |
 
-| c) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolg. feladatait is ellátó családsegítő szolgálat, illetve többcélú intézmény önálló szakmai egysége (5000 gyermek) | intézményvezető/szakmai egységvezető családgondozó (általános gyermekjóléti szolgáltatások) - gondozotti létszám: 45 gyermek vagy 25 család tanácsadó: gyógypedagógiai vagy fejlesztő pedagógiai pszichológiai tanácsadó, jogász (az ellátottak szükségletei szerint, fenntartói döntés alapján) családgondozó asszisztens | 1 fő 4 fő összesen heti 45 óra 1 fő |
+| 4000 fő lakosságszámra (település/közös hivatalhoz tartozó települések) vetítve, vagy – ha ez magasabb létszámot eredményez – minden 25 ellátott családra 1 fő, de minimum 1 fő | családsegítő | 1 fő |
 
-| d) | Gyermekjóléti központ (40 ezer lakos) | intézményvezető/szakmai egységvezető családgondozó (ált. szolgáltatás) - gondozotti létszám: 45 gyermek vagy 25 család családgondozó (spec. szolgáltat. és programok) - utcai, lakótelepi szoc. munka - kapcsolattartási ügyelet - kórházi szoc. munka | 1 fő 5 fő 2 fő 2 fő/heti 10 óra 1 fő |
+| 7000 fő járási lakosságszámra vetítve, de minimum 3 fő, azzal, hogy esetmenedzser esetében – ha ez magasabb létszámot eredményez – minden 50 ellátott családra 1 fő | esetmenedzser/tanácsadó | 1 fő |
 
-|  | tanácsadó: gyógypedagógiai vagy fejlesztő pedagógiai, pszichológiai tanácsadó, jogász (az ellátottak szükségletei szerint, fenntartói döntés alapján) - családgondozó asszisztens | összesen heti 45 óra 2 fő |
+| 10 000 fő járási lakosságszámra vetítve | szociális asszisztens (ajánlott létszám) | 1 fő |
 
 | 2. Bölcsődei ellátás | kisgyermeknevelő | 2 fő |
 
@@ -74,6 +74,6 @@ I. Alapellátások
 
 II. Szakellátások
 
-[^601]: A 174. §-t a 46/2015. (X. 12.) EMMI rendelet 5. §-a iktatta be.
-[^602]: A hatálybalépés időpontja 2015. október 15.
-[^603]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^511]: A 174. §-t a 46/2015. (X. 12.) EMMI rendelet 5. §-a iktatta be.
+[^512]: A hatálybalépés időpontja 2015. október 15.
+[^513]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (1) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (1) bekezdése szerint módosított szöveg.

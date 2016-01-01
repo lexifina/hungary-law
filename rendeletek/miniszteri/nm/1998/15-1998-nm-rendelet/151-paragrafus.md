@@ -1,3 +1,3 @@
-151. §[^560]
+151. §[^467]
 
-[^560]: A 151. §-t a 26/2013. (III. 29.) EMMI rendelet 36. § j) pontja hatályon kívül helyezte.
+[^467]: A 151. §-t a 26/2013. (III. 29.) EMMI rendelet 36. § j) pontja hatályon kívül helyezte.

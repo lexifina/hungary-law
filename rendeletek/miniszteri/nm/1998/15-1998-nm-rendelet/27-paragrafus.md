@@ -1,24 +1,9 @@
-## A gyermekjóléti szolgáltatás biztosításának módja
+## 26. § Amennyiben a szociális munka helye és a lakóhely különböző család-és gyermekjóléti központok területén található, a 24–26. § szerinti család- és gyermekjóléti központ értesíti a lakóhely szerinti központot a veszélyeztetettségről.
 
-27. § (1)[^153] A gyermekjóléti szolgáltatás megszervezhető különösen
+## Készenléti szolgálat
 
-a) önálló gyermekjóléti szolgálat vagy központ működtetésével,
+27. § (1) A készenléti szolgálat célja a család- és gyermekjóléti központ nyitvatartási idején kívül felmerülő krízishelyzetekben történő azonnali segítség, tanácsadás vagy tájékoztatás nyújtása.
 
-b) közös igazgatású, többcélú intézményben önálló szakmai és szervezeti egységként működtetett gyermekjóléti szolgálat vagy központ működtetésével,
+(2) A készenléti szolgálatot állandóan hívható telefonszám biztosításával kell megszervezni oly módon, hogy a készenlétben lévő munkatárs szakszerű segítséget tudjon nyújtani vagy ilyen segítséget tudjon mozgósítani.
 
-c) önálló családgondozó alkalmazásával.
-
-(2)[^154] Az (1) bekezdésben meghatározott szolgáltatási formák mindegyike társulás keretében is megszervezhető.
-
-(3)[^155] Ha az (1) bekezdés a) és b) pontjában meghatározott szolgálat több telephellyel működik,
-
-a) ki kell jelölni az egyes szolgálatok működési területét, és arról a lakosságot tájékoztatni kell,
-
-b) meg kell határozni az egyes intézmények közötti feladatmegosztás és együttműködés szabályait.
-
-(4)[^156] Az a települési önkormányzat is szervezhet gyermekjóléti központot vagy speciális feladatokat részben ellátó gyermekjóléti szolgálatot, melynek területén 40 000-nél kevesebb állandó lakos él.
-
-[^153]: A 27. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^154]: A 27. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
-[^155]: A 27. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (2) bekezdése.
-[^156]: A 27. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 23. § (2) bekezdése, szövege a 23. § (3) bekezdésével megállapított szöveg.
+(3) A család- és gyermekjóléti központ tájékoztatást nyújt a lelkisegély-telefonvonal elérhetőségéről.

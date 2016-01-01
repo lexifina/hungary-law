@@ -1,14 +1,11 @@
-## A helyettes szülői hálózat szervezése
+## Iskolai szociális munka
 
-25. § (1) A gyermekjóléti szolgálat közreműködik a településen a gyermek átmeneti gondozását saját háztartásukban helyettes szülőként vállaló személyek, családok felkutatásában, továbbá tájékoztatást ad számukra az átmeneti gondozás keretében ellátandó feladatokról, illetve a helyettes szülői jogviszonyról. A gyermekjóléti szolgálat nyilvántartást vezet a helyettes szülői férőhelyekről.
+## 25. § Az iskolai szociális munka a köznevelési intézménybe járó gyermeknek, a gyermek családjának és a köznevelési intézmény pedagógusainak nyújt támogatást azáltal, hogy egyéni és csoportos formában segíti
 
-(2)[^150] A gyermekjóléti szolgálat szervezi és működteti a helyettes szülői hálózatot, vagy önálló helyettes szülőt foglalkoztat. Helyettes szülői tanácsadó alkalmazásával folyamatosan segíti a helyettes szülőt feladatai ellátásában, illetve ellenőrzi tevékenységét.
+a) a gyermeket a korának megfelelő, nevelésbe, oktatásba való beilleszkedéséhez, tanulmányi kötelezettségei teljesítéséhez szükséges kompetenciái fejlesztésében,
 
-(3) A gyermekjóléti szolgálatnak abban esetben is gondoskodnia kell a (2) bekezdés szerinti helyettes szülő szakmai segítéséről, illetve ellenőrzéséről, ha a helyettes szülői hálózat létszáma helyettes szülői tanácsadó alkalmazását nem indokolja.
+b) a gyermek tanulmányi kötelezettségeinek teljesítését akadályozó tényezők feltárását és megoldását,
 
-(4) A helyettes szülői tanácsadó feladataira a 100. § (2) bekezdésében foglaltakat értelemszerűen alkalmazni kell.
+c) a gyermeket a tanulmányi előmeneteléhez, későbbi munkavállalásához kapcsolódó lehetőségei kibontakozásában, és
 
-(5)[^151] A helyettes szülői tanácsadó jelzi a gyermekjóléti szolgálat vezetőjének, ha a helyettes szülő a gyermek teljes körű ellátását nem biztosítja megfelelően.
-
-[^150]: A 25. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^151]: A 25. § (5) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 22. § (2) bekezdésével megállapított szöveg.
+d) a gyermek családját a gyermek iskolai életét érintő kérdésekben, valamint nevelési problémák esetén a gyermeket és a családot a közöttük lévő konfliktus feloldásában.

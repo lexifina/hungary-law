@@ -1,4 +1,4 @@
-43. § (1)[^199] A bölcsődei ellátás megszűnik
+43. § (1)[^85] A bölcsődei ellátás megszűnik
 
 a) az óvodai nevelésre nem érett gyermek esetén a 36. § (2) bekezdésében meghatározott időpontban,
 
@@ -12,7 +12,7 @@ cb) ha szeptember 1-je és december 31-e között tölti be, a következő bölc
 
 (2) Meg kell szüntetni annak a gyermeknek az ellátását, aki a bölcsőde orvosának szakvéleménye szerint egészségi állapota miatt bölcsődében nem gondozható, illetőleg magatartászavara veszélyezteti a többi gyermek fejlődését.
 
-(3)[^200] A bölcsőde orvosa a (2) bekezdés szerinti szakvélemény kialakítása előtt más szakember (gyógypedagógus, pszichológus, kisgyermeknevelő stb.) véleményét is kikéri.
+(3)[^86] A bölcsőde orvosa a (2) bekezdés szerinti szakvélemény kialakítása előtt más szakember (gyógypedagógus, pszichológus, kisgyermeknevelő stb.) véleményét is kikéri.
 
-[^199]: A 43. § (1) bekezdése a 6/2015. (I. 28.) EMMI rendelet 11. §-ával megállapított szöveg.
-[^200]: A 43. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § f) pontja szerint módosított szöveg.
+[^85]: A 43. § (1) bekezdése a 6/2015. (I. 28.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^86]: A 43. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § f) pontja szerint módosított szöveg.
