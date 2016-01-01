@@ -1,0 +1,5 @@
+## 1. A törvény hatálya
+
+1. § (1) A törvény hatálya azokra az ügyletekre terjed ki, amelyeknél az ügyfél jognyilatkozata a kibocsátó – a társasági adóról és az osztalékadóról szóló törvény szerinti – kapcsolt vállalkozásának minősülő, e törvény hatálybalépésének napján felszámolás alatt álló befektetési szolgáltató által értékesített kötvény (a továbbiakban: kötvény) vásárlására irányult, és amelynél az ügyfél az ellenérték-fizetési kötelezettségének eleget tett, és értékpapírszámláján kötvény került jóváírásra, függetlenül attól, hogy a kibocsátás vagy a jogügylet érvényesen létrejött-e, illetve teljesedésbe ment-e. A törvény hatálya azon befektetési szolgáltatóval szemben fennálló követelésekre terjed ki, amely befektetési szolgáltató felszámolását a bíróság e törvény hatálybalépését megelőző évben jogerősen elrendelte, és a felszámolási eljárás 2016. február 15-ig jogerősen nem zárult le.
+
+(2) Az (1) bekezdésen túl e törvény hatálya kiterjed azokra az ügyletekre is, amelyeknél az ügyfél jognyilatkozata nem kötvény vásárlására irányult, de értékpapírszámláján kötvény került jóváírásra.

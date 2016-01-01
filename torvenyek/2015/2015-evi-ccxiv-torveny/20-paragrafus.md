@@ -1,0 +1,1 @@
+20. § Az Alap e törvény erejénél fogva a Quaestor károsultak kárrendezését biztosító követeléskezelő alap létrehozásáról szóló 2015. évi XXXIX. törvény (a továbbiakban: Quaestor törvény) 9. § (3) bekezdése szerinti kérelmek és annak mellékletei, valamint a kérelmek vizsgálatával összefüggő adatok kezelője.
