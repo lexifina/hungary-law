@@ -20,10 +20,12 @@ c) harmadik oszlopa pedig az első és második oszlop összevont adatát
 
 (6) A korrigált végelszámolási nyitó mérlegben a (4) bekezdés szerinti eltérések együttes adózás előtti eredményt érintő összegéből
 
-a) a mérleg szerinti eredmény sorba kell beállítani a számított (kalkulált) társasági adóval csökkentett részt, míg
+a)[^4] az adózott eredmény sorba kell beállítani a számított (kalkulált) társasági adóval csökkentett részt, míg
 
 b) a számított (kalkulált) társasági adó összegét a kötelezettségek között kell kimutatni.
 
 (7) A (4) bekezdés szerinti eltérésekkel a (2) bekezdés szerint megnyitott könyvviteli nyilvántartások adatait kell módosítani, a módosításokat az értékhelyesbítés és az értékelési tartalék összegét érintő tételek kivételével a megfelelő eredményszámlával szemben kell elszámolni. A korrigált végelszámolási nyitó mérleg készítésekor a könyvviteli nyilvántartásokat nem szabad lezárni.
 
 (8) A végelszámolónak a korrigált végelszámolási nyitó mérleget a végelszámolási nyitó mérleg elkészítését követően – a hitelezők igénybejelentésére nyitva álló határidő figyelembevételével – legfeljebb 75 napon belül kell elkészítenie és azt a gazdálkodó legfőbb szerve elé terjesztenie. A korrigált végelszámolási nyitó mérleg a végelszámoló döntésének megfelelő értéken tartalmazza a végelszámolásra átvett gazdálkodó eszközeit és kötelezettségeit, a végelszámolás kezdő időpontjában meglévő vagyonát.
+
+[^4]: A 4. § (6) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 89. § 1. pontja szerint módosított szöveg.
