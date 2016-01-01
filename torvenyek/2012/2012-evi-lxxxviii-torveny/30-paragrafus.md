@@ -12,7 +12,9 @@ b) az importtermékek ellenőrzésével kapcsolatos részletes szabályokat;
 
 c) a megjelenésükben másnak látszó és ezáltal a fogyasztó egészségét vagy biztonságát veszélyeztető termékek forgalmazására és ellenőrzésére, továbbá az alkalmazható jogkövetkezményekre vonatkozó részletes szabályokat, valamint
 
-d) a felvonók és mozgólépcsők létesítésével összefüggő engedélyezésre, üzemeltetésére, ellenőrzésére, az eljáró hatóság kijelölésére, feladataira és eljárására, a felvonó szakértői, tervezői és ellenőri tevékenységre, a felvonók és mozgólépcsők (mozgójárdák), valamint az ezekhez kapcsolódó intézkedések nyilvántartására vonatkozó részletes szabályokat
+d) a felvonók és mozgólépcsők létesítésével összefüggő engedélyezésre, üzemeltetésére, ellenőrzésére, az eljáró hatóság kijelölésére, feladataira és eljárására, a felvonó szakértői, tervezői és ellenőri tevékenységre, a felvonók és mozgólépcsők (mozgójárdák), valamint az ezekhez kapcsolódó intézkedések nyilvántartására vonatkozó részletes szabályokat,
+
+e) a műszaki-biztonsági hatósági felügyelet alatt álló berendezések létesítésének tervezésére, létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére vonatkozó műszaki-biztonsági irányítási rendszer követelményeit és a hatósági jóváhagyás és felügyelet feltételeit
 
 rendeletben határozza meg.
 

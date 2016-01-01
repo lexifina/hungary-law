@@ -24,6 +24,6 @@ j) a döntéssel szembeni jogorvoslati eljárás tényét.
 
 (3) A piacfelügyeleti hatóság az (1) bekezdés alapján közzétett kivonatot a közzétételtől számított hat hónap elteltével vagy annak okafogyottá válásakor honlapjáról eltávolítja.
 
-(4) A piacfelügyeleti hatóság piacfelügyeleti eljárásában az ügyintézési határidő 90 nap, amelyet az eljáró hatóság vezetője annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat. Az ügyintézési határidőbe nem számít bele a 18. § szerinti tárgyalás időtartama.
+(4) A piacfelügyeleti hatóság piacfelügyeleti eljárásában az ügyintézési határidő 70 nap. Az ügyintézési határidőbe nem számít bele a 18. § szerinti tárgyalás időtartama.
 
 (5) A piacfelügyeleti hatóság eljárása során – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.

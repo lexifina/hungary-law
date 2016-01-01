@@ -18,7 +18,7 @@ d) a már forgalomba hozott termék forgalomból való kivonását elrendelni, �
 
 e) elrendelni a termék visszahívását, vagy – ha ez indokolt – a gazdasági szereplőkkel együttműködve megszervezni a termék fogyasztóktól vagy felhasználóktól történő visszahívását és környezetvédelmi szempontok figyelembevételével történő megsemmisítését, valamint ellenőrizni ezek végrehajtását,
 
-f) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezni a gazdasági szereplőt azzal, hogy a gazdasági szereplő a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni a piacfelügyeleti hatóságot,
+f) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezni a gazdasági szereplőt,
 
 g) a jogszerű állapot helyreállításáig feltételhez kötni vagy megtiltani a termék forgalmazását, értékesítését,
 
@@ -27,3 +27,5 @@ h) bírságot kiszabni.
 (3) Jogszabály az abban meghatározott rendelkezés megsértése esetére további jogkövetkezményeket állapíthat meg.
 
 (4) A (2) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatóak.
+
+(5) A (2) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a piacfelügyeleti hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.

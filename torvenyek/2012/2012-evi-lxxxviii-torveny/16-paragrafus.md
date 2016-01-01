@@ -12,6 +12,8 @@ terjedhet.
 
 (4) Ha a laboratóriumi vizsgálat, a megfelelőségértékelő szervezet általi vizsgálat vagy hatóság mérése céljából mintavételezett termék nem megfelelőnek bizonyul, akkor a vizsgálat költségeit a gyártó, az importőr vagy az a forgalmazó, amelynél a terméket vizsgálat alá vonták, köteles megfizetni.
 
+(4a) A (4) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
+
 (5) A piacfelügyeleti hatóság együttműködik a gazdasági szereplőkkel annak érdekében, hogy megakadályozzák a veszélyes termékek használatából eredő károk bekövetkezését, valamint csökkentsék annak mértékét. A piacfelügyeleti hatóság hivatalból köteles minden olyan, a fogyasztók és felhasználók tájékoztatására és védelmére irányuló ideiglenes intézkedést megtenni, amely a fogyasztók és felhasználók életének, egészségének és biztonságának megóvásához szükséges.
 
 (6) Amennyiben a piacfelügyeleti hatóság az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban gyártott termék forgalomból történő kivonásáról dönt, úgy köteles a rendelkezésre álló elérhetőségen az eljárás során ismertté vált gyártót a döntés meghozatalát követő 3 napon belül írásban tájékoztatni.
