@@ -34,9 +34,9 @@ d) állattenyésztés és állatgondozás a felhasználni kívánt fajok vonatko
 
 (4) A projektértékelés folyamatának átláthatónak kell lennie. A projektértékelést a szellemi tulajdon és a bizalmas információk védelmére figyelemmel, részrehajlás nélkül kell végezni, és a független felek véleményét is magában foglalhatja.
 
-(5)[^29] A projektértékelés eredményéről az ÁTET a kérelem beérkezésétől számított 35 munkanapon belül értesíti az élelmiszerlánc-biztonsági és állategészségügyi hatóságot.
+(5)[^29]
 
 [^26]: A 42. § (2) bekezdés e) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
 [^27]: A 42. § (2) bekezdés f) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
 [^28]: A 42. § (2) bekezdés g) pontját a 98/2014. (III. 25.) Korm. rendelet 14. § (5) bekezdése iktatta be.
-[^29]: A 42. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § f) pontja szerint módosított szöveg.
+[^29]: A 42. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 189. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -6,12 +6,12 @@
 
 (4) 10 évnél régebbi keltezésű engedélyt és visszamenőleges értékelésre kijelölt projekt engedélyét meghosszabbítani nem lehet.
 
-(5)[^37] Az élelmiszerlánc-biztonsági és állategészségügyi hatóság az engedély módosításáról vagy meghosszabbításról szóló határozatot legkésőbb a befogadott kérelem kézhezvételétől számított 40 munkanapon belül meghozza, és azt a kérelmezővel közli. Az engedély módosítása nem változtatja meg az engedély hatályának lejáratát.
+(5)[^37] Az engedély módosítása nem változtatja meg az engedély hatályának lejártát.
 
 (6)[^38] Amennyiben az engedélyben meghatározott feltételekben bekövetkezett változás mértéke új engedély kiadását indokolja, a felhasználó kérelmezheti a projektengedély megújítását. A megújítási kérelem formai és tartalmi elemei megegyeznek a 41. és 45. §-ban leírtakkal. A megújítási kérelem elbírálásakor az élelmiszerlánc-biztonsági és állategészségügyi hatóság úgy jár el, mint az új engedélykérelmek esetében.
 
 (7) A projektengedély módosítását vagy megújítását kell kérelmezni a projektben bekövetkező, az állatok jólétét esetlegesen hátrányosan érintő bármely változás esetén.
 
 [^36]: A 47. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.
-[^37]: A 47. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.
+[^37]: A 47. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 188. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^38]: A 47. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.
