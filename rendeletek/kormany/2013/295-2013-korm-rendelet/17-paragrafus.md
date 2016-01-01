@@ -1,6 +1,6 @@
-## 16. §[^1] A központi költségvetésről szóló törvénynek a miniszter által vezetett minisztérium költségvetési fejezetében a 17. § (1) bekezdésében meghatározott olyan fejezeti kezelésű előirányzatok felhasználására, amelyek költségvetési támogatásként kerülnek az egyházi jogi személy részére rendelkezésre bocsátásra (a továbbiakban: egyházi céltámogatás), az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 66–70. §-át, 72. § (2) bekezdését, 75. § (3) bekezdését, 78. §-át, 87. § (2), (5) és (6) bekezdését, 90. §-át, 93. § (3) bekezdését nem kell alkalmazni.
+## 16. §[^5] A központi költségvetésről szóló törvénynek a miniszter által vezetett minisztérium költségvetési fejezetében a 17. § (1) bekezdésében meghatározott olyan fejezeti kezelésű előirányzatok felhasználására, amelyek költségvetési támogatásként kerülnek az egyházi jogi személy részére rendelkezésre bocsátásra (a továbbiakban: egyházi céltámogatás), az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 66–70. §-át, 72. § (2) bekezdését, 75. § (3) bekezdését, 78. §-át, 87. § (2), (5) és (6) bekezdését, 90. §-át, 93. § (3) bekezdését nem kell alkalmazni.
 
-17. § (1)[^2] Egyházi céltámogatásként kell tervezni
+17. § (1)[^6] Egyházi céltámogatásként kell tervezni
 
 a) az egyházi közgyűjtemények és közművelődési intézmények támogatását,
 
@@ -16,11 +16,11 @@ d) a határon túli magyar gyülekezetben magyar nyelven szolgálatot teljesít�
 
 (2) Az (1) bekezdés a) pontja szerinti támogatást a levéltárat, könyvtárat, múzeumot és más gyűjteményt fenntartó egyházi jogi személyek között az 1. mellékletben meghatározott arányban kell felosztani.
 
-(3)[^3] Az (1) bekezdés b) pontja szerinti támogatásra az egyházi jogi személy az általa szervezett fakultatív hitoktatás támogatásához a fakultatív hitoktatásban résztvevő tanulók száma alapján az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény (a továbbiakban: Eftv.) 7. §-a szerint jogosult. A támogatás mértéke az egyházi jogi személy jogszabályban meghatározott tartalmú adatszolgáltatása alapján úgy kerül meghatározásra, hogy a fejezeti kezelésű előirányzat 50%-a csoportszám, 50%-a létszám szerint, arányosan kerül felosztásra azzal, hogy egy csoport minimális létszáma a keretszámok kiszámítása szempontjából nem lehet kevesebb, mint 7 fő.
+(3)[^7] Az (1) bekezdés b) pontja szerinti támogatásra az egyházi jogi személy az általa szervezett fakultatív hitoktatás támogatásához a fakultatív hitoktatásban résztvevő tanulók száma alapján az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény (a továbbiakban: Eftv.) 7. §-a szerint jogosult. A támogatás mértéke az egyházi jogi személy jogszabályban meghatározott tartalmú adatszolgáltatása alapján úgy kerül meghatározásra, hogy a fejezeti kezelésű előirányzat 50%-a csoportszám, 50%-a létszám szerint, arányosan kerül felosztásra azzal, hogy egy csoport minimális létszáma a keretszámok kiszámítása szempontjából nem lehet kevesebb, mint 7 fő.
 
-(4)[^4] Az (1) bekezdés c) pontja szerinti támogatást a 2. mellékletben, az (1) bekezdés d) pontja szerinti támogatást a 3. mellékletben meghatározottak szerint kell felosztani.
+(4)[^8] Az (1) bekezdés c) pontja szerinti támogatást a 2. mellékletben, az (1) bekezdés d) pontja szerinti támogatást a 3. mellékletben meghatározottak szerint kell felosztani.
 
-[^1]: A 16. § a 24/2014. (II. 6.) Korm. rendelet 1. §-ával megállapított, a 20/2015. (II. 17.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^2]: A 17. § (1) bekezdése a 24/2014. (II. 6.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 17. § (3) bekezdése a 24/2014. (II. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^4]: A 17. § (4) bekezdése a 24/2014. (II. 6.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 16. § a 24/2014. (II. 6.) Korm. rendelet 1. §-ával megállapított, a 20/2015. (II. 17.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^6]: A 17. § (1) bekezdése a 24/2014. (II. 6.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 17. § (3) bekezdése a 24/2014. (II. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^8]: A 17. § (4) bekezdése a 24/2014. (II. 6.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

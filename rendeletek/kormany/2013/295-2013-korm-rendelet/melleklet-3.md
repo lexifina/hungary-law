@@ -24,7 +24,7 @@
 
 | 11 | Magyar Pünkösdi Egyház | 0,3220% |
 
-3. melléklet a 295/2013. (VII. 29.) Korm. rendelethez[^15]
+3. melléklet a 295/2013. (VII. 29.) Korm. rendelethez[^21]
 
 A határon túli magyar gyülekezetben magyar nyelven szolgálatot teljesítő egyházi személyek jövedelempótléka
 
@@ -82,4 +82,4 @@ A határon túli magyar gyülekezetben magyar nyelven szolgálatot teljesítő e
 
 | 25 | Szlovákiai Evangélikus Egyházközségek | 0,15% |
 
-[^15]: A 3. mellékletet a 24/2014. (II. 6.) Korm. rendelet 4. § b) pontja iktatta be.
+[^21]: A 3. mellékletet a 24/2014. (II. 6.) Korm. rendelet 4. § b) pontja iktatta be.

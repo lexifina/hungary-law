@@ -16,4 +16,6 @@ cb) a b) pontban foglalt eset kivételével a megszűnő belső egyházi jogi sz
 
 ## kell csatolni,
 
-d) a belső egyházi jogi személy nyilvántartásból való törlésére irányuló eljárás felfüggesztésére nincs lehetőség.
+d)[^15]
+
+[^15]: A 28. § d) pontját a 441/2015. (XII. 28.) Korm. rendelet 201. § c) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

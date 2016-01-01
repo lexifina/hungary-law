@@ -30,6 +30,8 @@ e) – ha azzal rendelkezik – címerének és logójának képi megjelenítés
 
 (5) A (4) bekezdés szerinti dokumentumokat nem kell benyújtani, ha a bevett egyház belső szabálya alapján az a bevett egyház tekintetében nem értelmezhető.
 
-(6) A bevett egyház nyilvántartásba vételére irányuló eljárás az ügyfél kérelmére nem függeszthető fel.
+(6)[^3]
 
 (7) A bevett egyház a nyilvántartásba vétel során kilencjegyű nyilvántartási számot kap, amelyben az első öt jegy a nyilvántartásba vétel sorszámát jelenti, amelyhez per jellel a nyilvántartásba vétel éve kapcsolódik.
+
+[^3]: A 10. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 201. § b) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

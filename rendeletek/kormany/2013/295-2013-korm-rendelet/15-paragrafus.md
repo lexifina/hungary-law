@@ -1,4 +1,4 @@
-## 14. § Ha a változás átvezetésére vonatkozó bejelentés, kérelem olyan adatot érint, amelyre vonatkozóan változásbejelentési eljárás van folyamatban, annak jogerős befejezéséig az újabb változásbejelentési eljárást a miniszter felfüggeszti.
+## 14. §[^4] Ha a változás átvezetésére vonatkozó bejelentés, kérelem olyan adatot érint, amelyre vonatkozóan változásbejelentési eljárás van folyamatban, annak jogerős befejezésekor kezdődik az újabb változásbejelentési eljárás ügyintézési határideje.
 
 ## 8. A nyilvántartásból történő adatszolgáltatás
 
@@ -15,3 +15,5 @@ c) a kivonat kiállításának helyét és idejét, a hatáskör gyakorlójának
 (3) A kivonatot a miniszter a nyilvántartásában szereplő adatok alapján, a kiállítás napján fennálló állapotnak megfelelő adattartalommal állítja ki.
 
 (4) Ha a miniszter a kivonat kiállítását követően megállapítja, hogy a kivonat tartalma valótlan, a kivonatot a Ket. kijavításra, visszavonásra vagy módosításra vonatkozó szabályai szerint kijavítja, visszavonja vagy módosítja.
+
+[^4]: A 14. § a 441/2015. (XII. 28.) Korm. rendelet 200. § (2) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
