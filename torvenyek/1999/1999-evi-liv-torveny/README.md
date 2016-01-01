@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-54-00-00
 | 2013-09-01 | 2010. évi XL. törvény | 1999-54-00-00.18 |
 | 2013-11-29 | 2013. évi CXCVIII. törvény | 1999-54-00-00.19 |
 | 2015-07-01 | 2015. évi XXXV. törvény | 1999-54-00-00.20 |
+| 2016-01-01 | 2015. évi CLXXIX. törvény | 1999-54-00-00.21 |

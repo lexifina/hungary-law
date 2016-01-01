@@ -1,3 +1,1 @@
-## II. Fejezet
-
-11–15. §
+11. § Az általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnüldözési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint a Nemzeti Adó- és Vámhivatal tekintetében az országos rendőrfőkapitány által kijelölt szervezeti egység ellátja az EURODAC-hoz a tagállamok kijelölt hatóságai, valamint az Europol számára a 603/2013/EU európai parlamenti és tanácsi rendelet 6. cikke alapján kijelölt ellenőrző hatóság feladatait.
