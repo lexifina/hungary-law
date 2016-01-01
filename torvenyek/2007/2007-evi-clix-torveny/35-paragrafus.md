@@ -1,1 +1,0 @@
-35. § A külföldi viszontbiztosító köteles a Felügyeletnek 30 napon belül bejelenteni magyarországi tartós képviseletének megnyitását, címének, fontosabb adatainak megváltozását vagy megszüntetését, illetve a vezető(k) személyének és adatainak megváltozását.

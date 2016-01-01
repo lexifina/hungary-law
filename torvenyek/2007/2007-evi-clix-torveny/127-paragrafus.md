@@ -1,7 +1,0 @@
-127. § (1) Ha a Felügyelet a rendelkezésére álló információk alapján úgy ítéli meg, hogy a másik tagállamban székhellyel rendelkező viszontbiztosító Magyarország területén fióktelepe útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenysége veszélyezteti a viszontbiztosító pénzügyi biztonságát, értesíti a viszontbiztosító székhelye szerinti tagállam illetékes felügyeleti hatóságát.
-
-(2) Ha a másik tagállamban székhellyel rendelkező viszontbiztosító fióktelepének székhely szerinti felügyeleti hatósága a viszontbiztosító tevékenységi engedélyét visszavonta és erről a Felügyeletet értesítette, a Felügyelet köteles megtenni a szükséges intézkedéseket, hogy megakadályozza az érintett viszontbiztosítót a további viszontbiztosítási tevékenység folytatásában.
-
-(3) Ha a fióktelep tevékenysége veszélyezteti a viszontbiztosító pénzügyi biztonságát, a székhely szerinti tagállam felügyeleti hatóságának kérésére a Felügyelet a fióktelep pénzügyi eszközök feletti szabad rendelkezését korlátozhatja, illetve megtilthatja. A székhely szerinti tagállam felügyeleti hatósága az intézkedés iránti kérelmében köteles megjelölni az intézkedéssel érinteni kívánt pénzügyi eszközöket.
-
-(4) Az illetékes felügyeleti hatóság kérelmére a Felügyelet jogosult a másik tagállamban székhellyel rendelkező viszontbiztosítónak a Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint a viszontbiztosítótól adatszolgáltatást kérni.

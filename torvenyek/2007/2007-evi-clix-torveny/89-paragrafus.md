@@ -1,1 +1,0 @@
-89. § A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásban kér biztosítási titoknak minősülő adatot a viszontbiztosítótól, amennyiben a megkeresés tartalmazza a külföldi adatkérő által aláírt titoktartási záradékot.

@@ -1,1 +1,0 @@
-19. § A Felügyelet eseti tájékoztatást kérhet a másik tagállamban székhellyel rendelkező viszontbiztosító magyarországi fióktelepétől a terjesztett biztosítási szerződési feltételekről és az ezzel összefüggő dokumentumokról annak igazolására, hogy azok megfelelnek a nemzeti jogszabályoknak.

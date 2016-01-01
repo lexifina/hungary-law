@@ -1,1 +1,0 @@
-36. § A viszontbiztosító köteles bejelenteni a Felügyeletnek, ha másik tagállamban fióktelepet kíván létesíteni, valamint legkésőbb 30 nappal a változást megelőzően írásban köteles bejelenteni a Felügyeletnek és a másik tagállam illetékes felügyeleti hatóságának, ha a működés során a 40. § (2) bekezdésének b)–f) pontjaiban meghatározott adatokban változás következik be.

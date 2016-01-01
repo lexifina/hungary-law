@@ -1,3 +1,0 @@
-34. § (1) A viszontbiztosító köteles haladéktalanul bejelenteni a Felügyeletnek, ha észleli, hogy a kiszervezett tevékenység végzése jogszabályba vagy a viszontbiztosított vállalkozások érdekeit veszélyeztető módon a kiszervezési szerződésbe ütközik.
-
-(2) A viszontbiztosító felügyelő bizottságának elnöke – a bizottsági ülést követő 10 munkanapon belül – a Felügyeletnek megküldi azon jegyzőkönyveket, előterjesztéseket, illetve jelentéseket, amelyek a felügyelő bizottság által tárgyalt olyan napirendi pontokra vonatkoznak, amelynek tárgya a viszontbiztosító belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.

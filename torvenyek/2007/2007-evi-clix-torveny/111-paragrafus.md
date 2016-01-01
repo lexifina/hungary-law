@@ -1,7 +1,0 @@
-## Biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalataként működő viszontbiztosító korrigált szavatoló tőke megfelelése
-
-111. § (1) A 101. § (1) bekezdés b) pontjában meghatározott viszontbiztosító korrigált szavatoló tőke megfelelésének számításába be kell vonni a biztosítói holdingtársaság, vegyes pénzügyi holding társaság, a viszontbiztosító, a harmadik országbeli biztosító, a harmadik országbeli viszontbiztosító valamennyi leányvállalatát vagy valamennyi vállalkozását, amelyben a viszontbiztosító részesedési viszonnyal rendelkezik.
-
-(2) A korrigált szavatoló tőke megfelelés számítása során az anyavállalatot úgy kell tekinteni, mintha viszontbiztosító lenne. A biztosítói holding társaság vagy vegyes pénzügyi holding társaság szavatoló tőke szükséglete nulla, a viszontbiztosító, a harmadik országbeli biztosító, harmadik országbeli viszontbiztosító esetében pedig a 109. § (2)–(7) bekezdéseiben foglaltakat kell értelemszerűen alkalmazni.
-
-(3) Az anyavállalat vagy részesedési viszonnyal rendelkező vállalkozás szavatoló tőkéjéből le kell vonni minden olyan leányvállalatában vagy minden olyan vállalkozásában, amelyben részesedési viszonnyal rendelkezik, fennálló részesedése könyv szerinti értékét, amely a korrigált szavatoló tőke megfelelés számításához szükséges információkat nem bocsátja a viszontbiztosító és a Felügyelet rendelkezésére.

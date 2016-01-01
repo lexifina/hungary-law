@@ -1,1 +1,0 @@
-73. § A matematikai tartalékon és a befektetési egységekhez kötött életbiztosítások tartalékán kívüli biztosítástechnikai tartalékok pénzeszközeinek befektetéseinél elsődlegesen a likviditás szempontját kell szem előtt tartani.

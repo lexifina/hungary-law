@@ -1,5 +1,0 @@
-86. § (1) A viszontbiztosító azon biztosítási titkokat jogosult kezelni, amelyek a viszontbiztosítási szerződéssel, annak létrejöttével, nyilvántartásával, a szolgáltatással összefüggnek. Az adatkezelés célja csak a viszontbiztosítási szerződés megkötéséhez, módosításához, állományban tartásához, a viszontbiztosítási szerződésből származó követelések megítéléséhez szükséges, vagy az e törvény által meghatározott egyéb cél lehet.
-
-(2) Az (1) bekezdésben meghatározott céltól eltérő célból végzett adatkezelést a viszontbiztosító csak az érintett előzetes hozzájárulásával végezhet. A hozzájárulás megtagadása miatt az érintettet nem érheti hátrány, és annak megadása esetén részére nem nyújtható előny.
-
-(3) A biztosítási titok tekintetében, időbeli korlátozás nélkül – ha törvény másként nem rendelkezik – titoktartási kötelezettség terheli a viszontbiztosító tulajdonosait, vezetőit, alkalmazottait és mindazokat, akik ahhoz a viszontbiztosítóval kapcsolatos tevékenységük során bármilyen módon hozzájutottak.

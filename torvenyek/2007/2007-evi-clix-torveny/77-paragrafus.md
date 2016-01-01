@@ -1,1 +1,0 @@
-77. § Hitelintézet által vállalt garanciával, biztosítással, jelzáloggal vagy egyéb biztosítékkal nem fedezett kötvény, vagy más hitelviszonyt megtestesítő értékpapír és kölcsön, valamint szabályozott piacra be nem vezetett részvény és kötvény együttesen a matematikai tartalékok fedezetéül szolgáló pénzeszközök legfeljebb 15 százalékát tehetik ki.
