@@ -10,6 +10,6 @@ c) a kérelmező nyilatkozatát arról, hogy mely adat, tény igazolása céljá
 
 d) a bizonyítvány kiállításáért az illetékekről szóló törvény alapján fizetendő illeték megfizetésének igazolását.
 
-(2)[^21] A hatósági bizonyítvány a kérelmező vagy a kérelmező által meghatározott címzett belföldi kézbesítési címére kerül kézbesítésre.
+(2)[^24] A hatósági bizonyítvány a kérelmező vagy a kérelmező által meghatározott címzett belföldi kézbesítési címére kerül kézbesítésre.
 
-[^21]: A 22. § (2) bekezdése a 80/2013. (XII. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^24]: A 22. § (2) bekezdése a 80/2013. (XII. 23.) BM rendelet 8. §-ával megállapított szöveg.
