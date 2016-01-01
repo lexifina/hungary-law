@@ -50,67 +50,7 @@ A) Nemzetgazdasági Minisztérium hivatali szervezete
 
 1.21. a minősített beszerzési eljárásban döntés-előkészítő vagy döntéshozó munkakör.
 
-B) Kormányhivatal
-
-1. A Nemzeti Adó- és Vámhivatalnál
-
-1.1. a gazdasági vezető,
-
-1.2. a személyi titkár, a tanácsadó, az integritás tanácsadó,
-
-1.3. a szakfőigazgató,
-
-1.4. a Központi Hivatal főosztályvezetője, főosztályvezető-helyettese,
-
-1.5. a főigazgató, a főigazgató-helyettes, az igazgató, az igazgató-helyettes,
-
-1.6. a különös hatásköri ügyekkel foglalkozó szervezeti egység valamennyi munkaköre,
-
-1.7. a belső adatvédelmi felelősi, adatvédelmi referensi és biztonsági megbízotti feladatokat ellátók munkaköre, a biztonsági referens és főreferens munkaköre, a biztonsági vezető, a Biztonsági Főosztály személyi állományába tartozó jogi szakreferens,
-
-1.8. a belső ellenőr,
-
-1.9. a dokumentációs, a szervezetbiztonsági, a beruházási, az ellátási, a folyószámla-felügyeleti feladatot ellátó szervezeti egység vezetője,
-
-1.10. a Központi Hivatal közbeszerzési feladatokat ellátó szervezeti egység, a pénzmosás elleni információs iroda, az OLAF koordinációs iroda valamennyi munkaköre,
-
-1.11. a Központi Hivatal azon foglalkoztatottja, aki munkaköri leírása alapján kockázatkezelési módszertanok, módszerek kidolgozásában közreműködik,
-
-1.12. a szerencsejáték felügyeletet ellátó szervezeti egység vezetője és azon ellenőrzési szakreferense, aki munkaköri leírása alapján a szerencsejáték felügyeleti kirendeltséget vezeti,
-
-1.13. a Központi Hivatal rendészeti feladatokat ellátó szervezeti egység vezetője és azon foglalkoztatottja, aki munkaköri leírása alapján ügyeletesi, védelemigazgatási vagy EDR diszpécserszolgálati feladatot lát el,
-
-1.14. az információvédelmi és folyamatszabályozási feladatokat, az adatvagyon-gazdálkodási tevékenységet ellátó szervezeti egységek vezetője és a kiemelt informatikai fejlesztések, valamint az egyéb informatikai tárgyú beszerzések előkészítését ellátó szervezeti egységek valamennyi munkaköre,
-
-1.15. az információvédelmi feladatokat ellátó szervezeti egység informatikai szakreferense, aki munkaköri leírása alapján részt vesz a Nemzeti Adó- és Vámhivatal informatikai hálózataival kapcsolatos biztonsági szempontú elemzésben, értékelésben,
-
-1.16. a Kiemelt Adó és Vám Főigazgatósága, a Kiemelt Adózók Adóigazgatósága és a Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága valamennyi vezetője, a Kiemelt Adózók Adóigazgatósága Különös Hatásköri Igazgatóhelyettesének közvetlen munkatársai, továbbá az Általános Főosztály, illetve a Különös Hatásköri Ellenőrzési Főosztály ellenőrzési, hatósági és adóügyi munkakörcsoportjaiból kijelölt foglalkoztatottak, a Kiemelt Adózók Adóigazgatóságának és a Kiemelt Adó és Vám Főigazgatóságának azon foglalkoztatottjai, akik munkaköri leírásuk alapján az Általános Főosztály különös illetékességi körébe tartozó adózók adatait tartalmazó adatállománnyal kapcsolatba kerülnek,
-
-1.17. a Nemzeti Adó- és Vámhivatal azon kijelölt adóigazgatóságokon eljáró ügyfélszolgálati foglalkoztatottja, aki munkaköri leírása alapján a Kiemelt Adózók Adóigazgatósága különös hatáskörébe tartozó egyes adózók ügyeit intézik,
-
-1.18. az informatikai feladatokat ellátó intézet alaptevékenységébe tartozó szervezeti egységek vezetői,
-
-1.19. a rendszerbiztonsági felügyelő, a rendszeradminisztrátor,
-
-1.20. a Nemzeti Adó- és Vámhivatal országos informatikai rendszereit tervező, fejlesztő vagy országos informatikai rendszerek által használt adatbázisokhoz hozzáféréssel rendelkező üzemeltetési, alkalmazástámogatói feladatokat ellátó foglalkoztatott,
-
-1.21. a Nemzeti Adó- és Vámhivatal országos adatátviteli hálózatának egészét tervező és üzemeltető foglalkoztatott,
-
-1.22. a Nemzeti Adó- és Vámhivatal kockázatkezelési, illetve ellenőrzési tevékenységéhez készített specifikációhoz és algoritmusokhoz teljes körűen hozzáférő foglalkoztatott,
-
-1.23. a Bevetési Főigazgatóság azon foglalkoztatottja, aki munkaköri leírása alapján speciális műveleti tevékenységet főtevékenységként végzi,
-
-1.24. a Bűnügyi Főigazgatóság alaptevékenységébe tartozó szervezeti egységek osztályvezetői és valamennyi foglalkoztatottja, valamint a Bűnügyi Főigazgatóságon bűnüldözési belső adatvédelmi felelősi, valamint bűnüldözési informatikai biztonsági feladatokat ellátó foglalkoztatott,
-
-1.25. a regionális bűnügyi igazgatóságok osztályvezetői és valamennyi foglalkoztatottja,
-
-1.26. az Áru- és Bűnjelkezelő Hivatal hivatalvezetője és helyettesei,
-
-1.27. a rejtjeltevékenységet ellátó foglalkoztatott munkaköre,
-
-1.28. a titkos ügykezelő,
-
-1.29. a Nemzeti Adó- és Vámhivatal azon foglalkoztatottja, akinek a munkaköri feladatainak ellátásához Személyi Biztonsági Tanúsítvány megléte szükséges.
+B)[^1]
 
 C) Központi hivatal
 
@@ -188,6 +128,64 @@ C) Központi hivatal
 
 4.7. a titkos ügykezelő.
 
+5.[^2] A Nemzeti Adó- és Vámhivatalnál
+
+5.1. a gazdasági vezető,
+
+5.2. a személyi titkár, a tanácsadó, az integritás tanácsadó,
+
+5.3. a szakfőigazgató,
+
+5.4. a Központi Irányítás főosztályvezetője, főosztályvezető-helyettese,
+
+5.5. a főigazgató, a főigazgató-helyettes, az igazgató, az igazgató-helyettes,
+
+5.6. a különös hatásköri ügyekkel foglalkozó szervezeti egység valamennyi munkaköre,
+
+5.7. a belső adatvédelmi felelősi, adatvédelmi referensi és biztonsági megbízotti feladatokat ellátók munkaköre, a biztonsági referens és főreferens munkaköre, a biztonsági vezető, a Biztonsági Főosztály személyi állományába tartozó jogi szakreferens,
+
+5.8. a belső ellenőr,
+
+5.9. a dokumentációs, a szervezetbiztonsági, a beruházási, az ellátási, a folyószámla-felügyeleti feladatot ellátó szervezeti egység vezetője,
+
+5.10. a Központi Irányítás közbeszerzési feladatokat ellátó szervezeti egység, a pénzmosás elleni információs iroda, az OLAF koordinációs iroda valamennyi munkaköre,
+
+5.11. a Központi Irányítás azon foglalkoztatottja, aki munkaköri leírása alapján kockázatkezelési módszertanok, módszerek kidolgozásában közreműködik,
+
+5.12. a szerencsejáték felügyeletet ellátó szervezeti egység vezetője és azon ellenőrzési szakreferense, aki munkaköri leírása alapján a szerencsejáték felügyeleti kirendeltséget vezeti,
+
+5.13. a Központi Irányítás rendészeti feladatokat ellátó szervezeti egység vezetője és azon foglalkoztatottja, aki munkaköri leírása alapján ügyeletesi, védelemigazgatási vagy EDR diszpécserszolgálati feladatot lát el,
+
+5.14. az információvédelmi és folyamatszabályozási feladatokat, az adatvagyon-gazdálkodási tevékenységet ellátó szervezeti egységek vezetője és a kiemelt informatikai fejlesztések, valamint az egyéb informatikai tárgyú beszerzések előkészítését ellátó szervezeti egységek valamennyi munkaköre,
+
+5.15. az információvédelmi feladatokat ellátó szervezeti egység informatikai szakreferense, aki munkaköri leírása alapján részt vesz a Nemzeti Adó- és Vámhivatal informatikai hálózataival kapcsolatos biztonsági szempontú elemzésben, értékelésben,
+
+5.16. a Kiemelt Adó- és Vámigazgatóság valamennyi vezetője, az igazgatóhelyettesek közvetlen munkatársai, továbbá az Általános Főosztály, illetve a Különös Hatásköri Ellenőrzési Főosztály ellenőrzési, hatósági és adóügyi munkakörcsoportjaiból kijelölt foglalkoztatottak, az igazgatóság azon foglalkoztatottjai, akik munkaköri leírásuk alapján az Általános Főosztály különös illetékességi körébe tartozó adózók adatait tartalmazó adatállománnyal kapcsolatba kerülnek,
+
+5.17. a Nemzeti Adó- és Vámhivatal azon kijelölt megyei (fővárosi) adó- és vámigazgatóságokon eljáró ügyfélszolgálati foglalkoztatottja, aki munkaköri leírása alapján a Kiemelt Adó- és Vámigazgatóság különös hatáskörébe tartozó egyes adózók ügyeit intézi,
+
+5.18. az informatikai feladatokat ellátó intézet alaptevékenységébe tartozó szervezeti egységek vezetői,
+
+5.19. a rendszerbiztonsági felügyelő, a rendszeradminisztrátor,
+
+5.20. a Nemzeti Adó- és Vámhivatal országos informatikai rendszereit tervező, fejlesztő vagy országos informatikai rendszerek által használt adatbázisokhoz hozzáféréssel rendelkező üzemeltetési, alkalmazástámogatói feladatokat ellátó foglalkoztatott,
+
+5.21. a Nemzeti Adó- és Vámhivatal országos adatátviteli hálózatának egészét tervező és üzemeltető foglalkoztatott,
+
+5.22. a Nemzeti Adó- és Vámhivatal kockázatkezelési, illetve ellenőrzési tevékenységéhez készített specifikációhoz és algoritmusokhoz teljes körűen hozzáférő foglalkoztatott,
+
+5.23. a Bevetési Igazgatóság azon foglalkoztatottja, aki munkaköri leírása alapján speciális műveleti tevékenységet főtevékenységként végzi,
+
+5.24. a Bűnügyi Főigazgatóság főosztályvezetője, főosztályvezető-helyettese, a Főigazgatóság alaptevékenységébe tartozó feladatokat ellátó szervezeti egységek osztályvezetői és valamennyi foglalkoztatottja, valamint a Bűnügyi Főigazgatóságon bűnüldözési belső adatvédelmi felelősi, valamint bűnüldözési informatikai biztonsági feladatokat ellátó foglalkoztatott,
+
+5.25. a területi bűnügyi igazgatóságok osztályvezetői és valamennyi foglalkoztatottja,
+
+5.26. a rejtjeltevékenységet ellátó foglalkoztatott, valamint a felügyeletét ellátó vezető munkaköre,
+
+5.27. a titkos ügykezelő,
+
+5.28. a Nemzeti Adó- és Vámhivatal azon foglalkoztatottja, akinek a munkaköri feladatainak ellátásához Személyi Biztonsági Tanúsítvány megléte szükséges.
+
 D) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 
 1. A Közbeszerzési és Ellátási Főigazgatóságnál
@@ -215,3 +213,6 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 1.11. a belső ellenőr,
 
 1.12. a titkos ügykezelő.
+
+[^1]: Az 1. melléklet B) részét a 47/2015. (XII. 30.) NGM rendelet 27. §-a hatályon kívül helyezte.
+[^2]: Az 1. melléklet C) rész 5. pontját a 47/2015. (XII. 30.) NGM rendelet 27. §-a iktatta be.
