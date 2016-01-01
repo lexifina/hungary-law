@@ -2,7 +2,7 @@
 
 a) a munkahelyek tekintetében a munkáltatót határozatban kötelezni, hogy írásban nyújtson tájékoztatást a megjelölt munkavédelmi követelmények teljesítéséről;
 
-b) valamennyi munkahelyen – külön engedély nélkül, az ellenőrzést végző kormánytisztviselő ellenőrzési jogosultságát az erre jogosító igazolványával (amely a sorszámot, az eljáró kormánytisztviselő nevét és a munkavédelmi hatóság megnevezését tartalmazza) igazolva – ellenőrzést tartani;
+b) valamennyi munkahelyen – külön engedély nélkül – ellenőrzést tartani;
 
 c) a munkabaleseteket – kivéve a közúti közlekedéssel kapcsolatosakat – és a fokozott expozíciós eseteket – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni;
 

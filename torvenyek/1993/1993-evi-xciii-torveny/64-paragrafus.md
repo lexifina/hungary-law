@@ -2,13 +2,13 @@
 
 ## A MUNKABALESETEK ÉS A FOGLALKOZÁSI MEGBETEGEDÉSEK BEJELENTÉSE, KIVIZSGÁLÁSA ÉS NYILVÁNTARTÁSA
 
-64. § (1) A munkabalesetet, a foglalkozási megbetegedést és a fokozott expozíciós esetet be kell jelenteni, ki kell vizsgálni, és nyilvántartásba kell venni.
+64. § (1) Azt a munkabalesetet, amely esetében a munkavállaló több mint három munkanapon át nem volt munkaképes, valamint a foglalkozási megbetegedést és a fokozott expozíciós esetet be kell jelenteni, ki kell vizsgálni és nyilvántartásba kell venni.
 
 (2) Az (1) bekezdésben foglaltakat a munkabaleset esetén – eltérő jogszabályi rendelkezés hiányában – a munkáltató, foglalkozási megbetegedés és fokozott expozíció esetén a foglalkoztatáspolitikáért felelős miniszternek az egészségügyért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott szerv (személy) teljesíti.
 
-(3) A munkáltató a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciók bejelentése, kivizsgálása és nyilvántartása során a sérült, megbetegedett, illetve fokozott expozícióban érintett következő személyes adatait rögzíti: név (ideértve a születési nevet is), anyja neve, társadalombiztosítási azonosító jele (taj-száma), születési hely és időpont, nem, állampolgárság, lakóhely (lakcím). A munkáltató esetében az adószámot kell feltüntetni, amennyiben adószámmal nem rendelkezik, személyes adataként saját adóazonosító jelét is rögzítenie kell.
+(3) A munkáltató a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciók esetén a sérült, megbetegedett, illetve fokozott expozícióban érintett következő személyes adatait rögzíti: név (ideértve a születési nevet is), anyja neve, társadalombiztosítási azonosító jele (taj-száma), születési hely és időpont, nem, állampolgárság, lakóhely (lakcím). A munkáltató esetében az adószámot kell feltüntetni, amennyiben adószámmal nem rendelkezik, személyes adataként saját adóazonosító jelét is rögzítenie kell.
 
-(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleseti jegyzőkönyvben kell rögzítenie. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell, és annak eredményét nyilvántartásba kell venni.
+(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleseti jegyzőkönyvben kell rögzítenie. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell.
 
 (5) A munkáltató köteles a súlyos munkabalesetet a munkavédelmi hatóságnak [84. § (2) bekezdés] azonnal bejelenteni.
 

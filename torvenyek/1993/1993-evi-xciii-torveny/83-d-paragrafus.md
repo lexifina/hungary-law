@@ -1,4 +1,4 @@
-83/D. § A munkavédelmi hatósági eljárás határideje az eljárás megindításától számított két hónap:
+83/D. § A munkavédelmi hatósági eljárás határideje az eljárás megindításától számított negyvenöt nap:
 
 a) a munkabalesetekkel, foglalkozási megbetegedésekkel és fokozott expozíciós esetekkel,
 
