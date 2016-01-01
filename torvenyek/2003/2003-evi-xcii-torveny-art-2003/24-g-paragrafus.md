@@ -4,10 +4,12 @@
 
 (2) A VPID szám kiadását az állami adó- és vámhatóság megtagadja, ha a bejelentett adatok valótlanok vagy hiányosak.
 
-(3) Az adózó a VPID számát a vámhatóság hatáskörébe tartozó eljárással összefüggő minden iraton fel kell tüntetnie.
+(3) Az adózó a VPID számát a jövedéki adóval, regisztrációs adóval, energiaadóval, fémkereskedelem és hulladékgazdálkodás ellenőrzésével összefüggő minden iraton feltünteti.
 
 (4) Az állami adó- és vámhatóság hivatalból állapítja meg a VPID számát annak az adózónak,
 
 a) aki bejelentési kötelezettségét elmulasztotta, vagy
 
 b) akinek az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához, végrehajtásához adó- és vámhatósági nyilvántartása szükséges.
+
+(5) A vámhatóság a magánfőzőt az (1)–(4) bekezdésben foglaltaktól eltérően a 24. § (3) bekezdése szerint tartja nyilván.

@@ -1,10 +1,10 @@
 ## Hatósági adómegállapítás bejelentés, bevallás alapján
 
-125. § (1) A vámhatóság határozattal állapítja meg (kivetéses adózás)
+125. § (1) Az állami adó- és vámhatóság határozattal állapítja meg (kivetéses adózás)
 
 a) az általános forgalmi adó kivételével a termékimportot terhelő adót,
 
-b) a termékimportot terhelő általános forgalmi adót, ha az adózó az általános forgalmi adóról szóló törvény szerint nem általános forgalmiadó-alany, alanyi adómentességet választó adóalany, kizárólag közérdekű vagy egyéb speciális jellegére tekintettel adómentes tevékenységet végző adóalany, mezőgazdasági tevékenységet folytató, különleges jogállást választó adóalany, a vámhatóság engedélyével nem rendelkező általános forgalmiadó-alany, vagy az egyszerűsített vállalkozói adó alanya,
+b) a termékimportot terhelő általános forgalmi adót, ha az adózó az általános forgalmi adóról szóló törvény szerint nem általános forgalmiadó-alany, alanyi adómentességet választó adóalany, kizárólag közérdekű vagy egyéb speciális jellegére tekintettel adómentes tevékenységet végző adóalany, mezőgazdasági tevékenységet folytató, különleges jogállást választó adóalany, az állami adó- és vámhatóság engedélyével nem rendelkező általános forgalmiadó-alany, vagy az egyszerűsített vállalkozói adó alanya,
 
 c) a regisztrációs adót,
 
@@ -12,7 +12,7 @@ d) új közlekedési eszköznek minősülő személygépkocsinak, illetőleg reg
 
 (2) Az adóhatóság állapítja meg – a helyi iparűzési adó és az adóbeszedéssel megállapított idegenforgalmi adó kivételével – a helyi adókat, továbbá – a föld bérbeadásából származó személyi jövedelemadó kivételével – az önkormányzat költségvetése javára más törvény alapján fizetendő adókat (kivetéses adózás).
 
-(3) A vagyonszerzési illetéket, továbbá az illetéktörvény szerint kiszabás alapján fizetendő eljárási illetéket az állami adóhatóság állapítja meg (kiszabás). A vagyonszerzési illeték kiszabására irányuló eljárás esetén a határozat meghozatalára nyitva álló határidő 60 nap.
+(3) A vagyonszerzési illetéket, továbbá az illetéktörvény szerint kiszabás alapján fizetendő eljárási illetéket az állami adó- és vámhatóság állapítja meg (kiszabás). A vagyonszerzési illeték kiszabására irányuló eljárás esetén a határozat meghozatalára nyitva álló határidő 60 nap.
 
 (4) Az adókivetés, -kiszabás az adózó bevallása, bejelentése, illetőleg adatszolgáltatás alapján történik.
 

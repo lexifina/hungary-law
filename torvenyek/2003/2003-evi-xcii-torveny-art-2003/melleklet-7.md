@@ -2,7 +2,7 @@
 
 Adatszolgáltatás a kamatjövedelemről
 
-1. A kifizető az adóévet követő év január 31-ig elektronikus úton az állami adóhatósághoz adatot szolgáltat
+1. A kifizető az adóévet követő év január 31-ig elektronikus úton az állami adó- és vámhatósághoz adatot szolgáltat
 
 a) saját cégnevéről (elnevezéséről), székhelyéről (telephelyéről),
 
@@ -22,7 +22,7 @@ dd) az 5. pont szerinti kamatjövedelem esetén a 3. pontban meghatározott szer
 
 2. E melléklet alkalmazásában kifizető az a gazdasági tevékenységet folytató jogi személy vagy egyéb szervezet, amely az Európai Közösség más tagállamában illetőséggel bíró haszonhúzónak közvetlenül kamatot fizet vagy jóváír.
 
-3. Adatszolgáltatásra kötelezett továbbá az a gazdasági tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező egyéb szervezet, amely bármely más közösségi tagállamban illetőséggel bíró szervezet útján a szervezet haszonhúzónak minősülő tagjainak juttat kamatjövedelmet. Az adatszolgáltatásra kötelezett az adóévet követő év március 20-ig elektronikus úton közli az állami adóhatósággal a szervezet nevét, címét és a részére kifizetett kamat összegét, kivéve, ha az hitelt érdemlően igazolja, hogy jogi személy, vagy az illetősége szerinti tagállamban a társasági adó alanya vagy ÁÉKBV-ként működik, illetve az illetősége szerinti tagállam hatósága által kiállított igazolás alapján ilyen alapnak minősül. E pont alkalmazásában nem minősül jogi személynek
+3. Adatszolgáltatásra kötelezett továbbá az a gazdasági tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező egyéb szervezet, amely bármely más közösségi tagállamban illetőséggel bíró szervezet útján a szervezet haszonhúzónak minősülő tagjainak juttat kamatjövedelmet. Az adatszolgáltatásra kötelezett az adóévet követő év március 20-ig elektronikus úton közli az állami adó- és vámhatósággal a szervezet nevét, címét és a részére kifizetett kamat összegét, kivéve, ha az hitelt érdemlően igazolja, hogy jogi személy, vagy az illetősége szerinti tagállamban a társasági adó alanya vagy ÁÉKBV-ként működik, illetve az illetősége szerinti tagállam hatósága által kiállított igazolás alapján ilyen alapnak minősül. E pont alkalmazásában nem minősül jogi személynek
 
 a) Finnországban: avion yhtiö (Ay) és kommandiittiyhtiö (Ky), valamint öppet bolag és kommanditbolag, illetőleg
 
@@ -52,7 +52,7 @@ d) az ÁÉKBV, a 3. pont szerinti igazolás alapján ÁÉKBV-nek minősülő sze
 
 a) kifizetőként jár el,
 
-b) jogi személy, az illetősége szerinti tagállam joga alapján a társasági adó alanya, ÁÉKBV-nek minősülő szervezet, vagy a 3. pontban meghatározott szervezet képviseletében jár el, feltéve, ha ez utóbbi esetben közli a részére kamatot juttató vagy jóváíró személlyel ezen szervezet nevét, címét és erről a kamatot juttató vagy jóváíró személy (adatszolgáltatásra kötelezett) adatot szolgáltat az állami adóhatóságnak,
+b) jogi személy, az illetősége szerinti tagállam joga alapján a társasági adó alanya, ÁÉKBV-nek minősülő szervezet, vagy a 3. pontban meghatározott szervezet képviseletében jár el, feltéve, ha ez utóbbi esetben közli a részére kamatot juttató vagy jóváíró személlyel ezen szervezet nevét, címét és erről a kamatot juttató vagy jóváíró személy (adatszolgáltatásra kötelezett) adatot szolgáltat az állami adó- és vámhatóságnak,
 
 c) a haszonhúzó képviseletében jár el és annak nevéről és címéről a kifizető részére adatot szolgáltat.
 
@@ -68,7 +68,7 @@ b) a 2004. január 1-jén, illetve azt követően létrejött vagy teljesült sz
 
 14. A melléklet alkalmazásában átmeneti időszaknak minősül a 2005. július 1-je és a 2010. december 31-e közötti időszak. Az adatszolgáltatási kötelezettséget első alkalommal 2006. március 20. napjáig kell teljesíteni a 2005. június 30-át követően keletkezett kamatjövedelmekről. Ha a 2005. június 30. napját követő kamatkifizetés, jóváírás 2005. július 1-jét megelőzően keletkezett kamatjövedelmet is tartalmaz, az adatszolgáltatásban csak a 2005. június 30-át követően keletkezett kamat-jövedelemrészt kell feltüntetni.
 
-15. Az állami adóhatóság az átmeneti időszak alatt a forrásadót alkalmazó tagállamokból a levont forrásadóból átutalt 75% adó fogadására euró devizanemben vezetett számlát nyit. A jóváírást követő 30 napon belül az adóhatóság az átutalt adót 25%-kal kiegészített összegben a jóváírás napján érvényes MNB által közzétett hivatalos devizaárfolyamon forintra átszámítva a haszonhúzó adószámláján jóváírja, feltéve, hogy az átutalást teljesítő illetékes tagállami hatóság az adózó azonosítására, illetve a levonás tényének és összegének megállapítására alkalmas adatokat közöl, vagy ezt a magánszemély más megfelelő módon hitelt érdemlően, hitelesen magyarra fordított okirattal igazolja. Az előző rendelkezésektől eltérően, a 2006. szeptember 1. napját követően megszerzett, belföldön adóköteles kamatjövedelem esetén a forrásadót alkalmazó tagállamból átutalt forrásadó elszámolása az adózó kérelmére történik. Az adózó kérelméhez csatolja az adózó azonosítására, a levonás tényének, összegének, a kamatjövedelem jogcímének és a kamatjövedelem megszerzése időpontjának megállapításához szükséges okiratok hiteles magyar fordítását. Az állami adóhatóság az adózó kérelmét abban az esetben teljesíti, ha az adózó a belföldön adóköteles kamatjövedelemről bevallási és adófizetési kötelezettségét teljesítette.
+15. Az állami adó- és vámhatóság az átmeneti időszak alatt a forrásadót alkalmazó tagállamokból a levont forrásadóból átutalt 75% adó fogadására euró devizanemben vezetett számlát nyit. A jóváírást követő 30 napon belül az adóhatóság az átutalt adót 25%-kal kiegészített összegben a jóváírás napján érvényes MNB által közzétett hivatalos devizaárfolyamon forintra átszámítva a haszonhúzó adószámláján jóváírja, feltéve, hogy az átutalást teljesítő illetékes tagállami hatóság az adózó azonosítására, illetve a levonás tényének és összegének megállapítására alkalmas adatokat közöl, vagy ezt a magánszemély más megfelelő módon hitelt érdemlően, hitelesen magyarra fordított okirattal igazolja. Az előző rendelkezésektől eltérően, a 2006. szeptember 1. napját követően megszerzett, belföldön adóköteles kamatjövedelem esetén a forrásadót alkalmazó tagállamból átutalt forrásadó elszámolása az adózó kérelmére történik. Az adózó kérelméhez csatolja az adózó azonosítására, a levonás tényének, összegének, a kamatjövedelem jogcímének és a kamatjövedelem megszerzése időpontjának megállapításához szükséges okiratok hiteles magyar fordítását. Az állami adó- és vámhatóság az adózó kérelmét abban az esetben teljesíti, ha az adózó a belföldön adóköteles kamatjövedelemről bevallási és adófizetési kötelezettségét teljesítette.
 
 16. Azok a kötvények, továbbá egyéb forgatható, hitelviszonyt megtestesítő értékpapírok, amelyeket 2001. február 28-ig bocsátottak ki, vagy amelyek kibocsátási tájékoztatóját a Pénzügyi Szervezetek Állami Felügyelete, a tagállamok, illetve harmadik országok illetékes hatósága ezen időpontig jóváhagyta, feltéve, hogy ilyen értékpapírok további kibocsátására 2002. február 28. után nem került sor, az átmeneti időszakban nem minősülnek a melléklet 4. a) pontja szerinti követelésnek.
 
@@ -78,4 +78,4 @@ a) bruttósításra, illetve lejárat előtti visszavásárlásra vonatkozó zá
 
 b) a kifizető forrásadót alkalmazó tagállamban bír illetőséggel és az értékpapírból származó kamatot más tagállamban illetőséggel bíró haszonhúzó részére fizeti ki vagy jóváírja.
 
-18. Az állami adóhatóság kormányrendeletben kijelölt szerve a kifizetőtől, illetve az ezzel összefüggésben adatot szolgáltató más személytől beérkező adóadatot a haszonhúzó illetősége szerinti tagállam illetékes hatóságának az adóévet követő év június 20. napjáig továbbítja.
+18. Az állami adó- és vámhatóság kormányrendeletben kijelölt szerve a kifizetőtől, illetve az ezzel összefüggésben adatot szolgáltató más személytől beérkező adóadatot a haszonhúzó illetősége szerinti tagállam illetékes hatóságának az adóévet követő év június 20. napjáig továbbítja.

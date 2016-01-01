@@ -1,4 +1,4 @@
-175/E. § (1) A nyilvántartásba vételt végző szervezet a tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet.
+175/E. § (1) A nyilvántartásba vételt végző szervezet vezeti az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását.
 
 (2) A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – a természetes személy következő adatait és az alábbi tényeket tartalmazza:
 

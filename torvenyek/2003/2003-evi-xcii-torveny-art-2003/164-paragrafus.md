@@ -28,7 +28,7 @@ b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. j
 
 (3) Ha az adómegállapításhoz való jog elévülését követően az adóhatóság vagy a felettes szerv megállapítja, hogy az adómegállapítás részben vagy egészben jogszabálysértő, akkor az adótartozás végrehajtásához való jog elévülési idején belül a jogszabálysértő adómegállapítás tekintetében az adóvégrehajtáshoz való jogot korlátozza vagy megszünteti.
 
-(4) A pénzügyi tranzakciós illeték kivételével az illeték megállapításához való jog annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amelyben a vagyonszerzést illetékkiszabásra az állami adóhatóságnál bejelentették, illetve az a körülmény, hogy az illeték megfizetését vagy a kiszabás céljából elrendelt bejelentést elmulasztották, az állami adóhatóság tudomására jutott.
+(4) A pénzügyi tranzakciós illeték kivételével az illeték megállapításához való jog annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amelyben a vagyonszerzést illetékkiszabásra az állami adó- és vámhatóságnál bejelentették, illetve az a körülmény, hogy az illeték megfizetését vagy a kiszabás céljából elrendelt bejelentést elmulasztották, az állami adó- és vámhatóság tudomására jutott.
 
 (5) Ha az adóhatóság határozatát a bíróság felülvizsgálja, a másodfokú adóhatósági határozat jogerőre emelkedésétől a bíróság határozatának jogerőre emelkedéséig, felülvizsgálati kérelem esetén a felülvizsgálati kérelem elbírálásáig az adó megállapításához való jog elévülése nyugszik.
 
@@ -50,7 +50,7 @@ b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. j
 
 a) egy alkalommal, ha a felettes adóhatóság a másodfokú eljárás keretében, vagy
 
-b) a felettes adóhatóság, az adópolitikáért felelős miniszter vagy a NAV felügyeletére kijelölt miniszter felügyeleti intézkedés keretében, illetve
+b) a felettes adóhatóság, az adópolitikáért felelős miniszter vagy a NAV-ot irányító miniszter felügyeleti intézkedés keretében, illetve
 
 c) az adóhatósági határozat bírósági felülvizsgálata során a bíróság
 

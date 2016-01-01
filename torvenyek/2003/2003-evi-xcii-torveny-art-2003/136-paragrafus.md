@@ -30,6 +30,8 @@ k) a kézbesítési vélelem megdöntése tárgyában hozott elutasító
 
 végzés ellen.
 
+(3a) Az automatikus részletfizetés iránti kérelemnek helyt adó határozat ellen fellebbezésnek helye nincs.
+
 (4) A fellebbezést a határozat (végzés) közlésétől számított 15 napon belül, utólagos adómegállapítás esetén 30 napon belül lehet előterjeszteni.
 
 (5) A fellebbezésre jogosult a fellebbezési határidőn belül a fellebbezési jogáról lemondhat. A fellebbezési jogról való lemondást tartalmazó nyilatkozat nem vonható vissza.

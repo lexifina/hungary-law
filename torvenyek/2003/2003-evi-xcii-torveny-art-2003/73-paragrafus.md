@@ -1,1 +1,1 @@
-73. § Az állami adóhatóság illetékessége tekintetében a külön jogszabályban foglalt rendelkezések az irányadók.
+73. § Az állami adó- és vámhatóság illetékessége tekintetében a külön jogszabályban foglalt rendelkezések az irányadók.

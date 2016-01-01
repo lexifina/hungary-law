@@ -12,4 +12,4 @@ b) az általános forgalmi adó alanya,
 
 c) a személyi jövedelemadóját nem a munkáltatója (kifizető) állapítja meg,
 
-d)
+d) személyi jövedelemadója tekintetében nem tesz bevallási nyilatkozatot.

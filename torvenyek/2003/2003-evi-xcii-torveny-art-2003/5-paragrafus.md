@@ -6,6 +6,8 @@ a) az eljárás megindítására, az újrafelvételi eljárásra, a hatósági s
 
 b) a kiskorú adózó esetében az ügyintézés soronkívüliségére és határidejére vonatkozó szabályait.
 
+c) függő hatályú döntésre vonatkozó rendelkezéseit.
+
 (2a) A kutatás-fejlesztési tevékenység minősítésével összefüggő eljárás lefolytatására hatáskörrel rendelkező szerv szakértői kirendelése során nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény
 
 a) ügyfél által javasolt szakértő kirendelésére,
@@ -21,3 +23,5 @@ vonatkozó szabályait.
 (4) Adóügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a kérelemre vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy – jogszabály eltérő rendelkezése hiányában – az adózó nem kérheti az adóhatóságnál, hogy az más szervet adatszolgáltatás iránt keressen meg.
 
 (5) E törvénytől eltérni az (1) bekezdésben foglaltakon túl az Európai Unió kötelező jogi aktusa, törvénnyel, kormányrendelettel kihirdetett nemzetközi szerződés vagy viszonosság alapján lehet. A viszonosság kérdésében az adópolitikáért felelős miniszter és a külpolitikáért felelős miniszter együttes állásfoglalása az irányadó.
+
+(6) A 4. § (4) bekezdés c) pontjában foglaltakra figyelemmel a jogszabályban ügyfélnek minősülő személyre a fizetési kötelezettségével kapcsolatban e törvény adózóra vonatkozó rendelkezései is megfelelően alkalmazandóak.

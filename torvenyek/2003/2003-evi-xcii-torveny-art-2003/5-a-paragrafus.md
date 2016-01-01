@@ -1,4 +1,6 @@
-5/A. § (1) Adóügyekben – ha e törvény eltérően nem rendelkezik – az ügyintézési határidő 30 nap, amely legfeljebb 30 nappal hosszabbítható meg.
+5/A. § (1) Adóügyekben – ha e törvény eltérően nem rendelkezik – az ügyintézési határidő 30 nap.
+
+(1a) Az eljáró adóhatóság vezetője az ügyintézési határidőt – a 120. § (1), (3) és (4) bekezdése szerinti eljárásokban – annak letelte előtt kivételesen indokolt esetben egy alkalommal, legfeljebb 30 nappal meghosszabbíthatja. A határidő meghosszabbításáról rendelkező végzésben a határidő-hosszabbítás indokait kifejezetten meg kell jelölni.
 
 (2) Ha e törvény valamely eljárási cselekmény teljesítésének határidejéről nem rendelkezik, az adóhatóság haladéktalanul, de legkésőbb 8 napon belül gondoskodik az eljárási cselekmény teljesítéséről.
 
@@ -34,6 +36,6 @@ i) az eljárási cselekményhez kapcsolódó igazolási kérelmet a mulasztásr�
 
 (4) A hiánypótlási felhívás kibocsátására nyitva álló határidőre vonatkozó, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben, valamint a (3) bekezdés g) pontjában foglalt rendelkezéseket a feltételes adómegállapításra, a szokásos piaci ár megállapítására, valamint a fejlesztési adókedvezmény iránti kérelem elbírálására irányuló eljárásokban nem kell alkalmazni.
 
-(5) Az adó-, együttes adó-, jövedelem- és illetőségigazolás kiállítására irányuló kérelmet a kérelem beérkezésétől számított 6 napon belül kell teljesíteni.
+(5) Az e törvényben meghatározott adóhatósági igazolás kiállítására irányuló kérelmet a kérelem beérkezésétől számított 6 napon belül kell teljesíteni.
 
 (6) Ha a fizetési könnyítés, adómérséklés iránti kérelmet benyújtó adózó a kérelem benyújtásakor minősített adózónak minősül, a kérelmével egyidejűleg annak sürgősségi eljárásban történő elbírálására irányuló kérelmet (sürgősségi kérelem) is előterjeszthet. Sürgősségi eljárásban az ügyintézési határidő 15 nap. A sürgősségi kérelem benyújtásának késedelme esetén igazolási kérelemnek nincs helye.

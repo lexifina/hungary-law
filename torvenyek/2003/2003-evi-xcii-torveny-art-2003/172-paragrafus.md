@@ -12,7 +12,7 @@ d) adószámhoz kötött tevékenységet vagy adóköteles tevékenységet adós
 
 e) a jogszabályokban előírt bizonylatok kiállítását, illetve könyvek, nyilvántartások vezetését elmulasztja, a bizonylatokat az előírásoktól eltérően állítja ki, a könyveket, nyilvántartásokat hiányosan vagy az előírásoktól eltérően vezeti, a számviteli törvény alapján összeállítandó szabályzataiban foglaltaktól eltérően jár el, a 174/A. §-ban meghatározott esetben, továbbá, ha a közzétett beszámolója a beszámoló szempontjából lényegesnek minősülő információkat nem tartalmaz vagy tévesen mutat be (lényegesnek minősül a beszámoló szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – az ésszerűség határain belül – befolyásolja a beszámoló adatait felhasználók döntéseit).
 
-f) a 24/F. § (1) bekezdése szerinti kérdőívet határidőn belül nem küldi vissza az állami adóhatóság részére, illetve a kérdőívvel kapcsolatos hiánypótlási felhívásnak határidőn belül nem tesz eleget,
+f) a 24/F. § (1) bekezdése szerinti kérdőívet határidőn belül nem küldi vissza az állami adó- és vámhatóság részére, illetve a kérdőívvel kapcsolatos hiánypótlási felhívásnak határidőn belül nem tesz eleget,
 
 g)
 
@@ -48,7 +48,7 @@ ny) az általános forgalmi adóról szóló törvény XV. fejezete alkalmazás�
 
 (7) A bejelentkezési, bejelentési, változásbejelentési, bevallási, adatszolgáltatási, pénzforgalmi számlanyitási kötelezettség elmulasztása, továbbá az (1) bekezdés f) pontja esetén a mulasztási bírság megállapításával egyidejűleg az adóhatóság az adózót – határidő tűzésével – teljesítésre hívja – bizonylatkiállítási kötelezettség elmulasztása esetén hívhatja – fel. Az (1) bekezdés f) pontja szerinti mulasztási bírságtól eltekintve a kiszabott bírság kétszeresét kell újabb határidő tűzésével megállapítani, ha a teljesítésre kötelező, előző határozatban előírt határidőt az adózó elmulasztotta. A kötelezettség teljesítése esetén az e bekezdés előző mondata alapján kiszabott bírság korlátlanul mérsékelhető. Ha az adózó felszámolás vagy végelszámolás, vagy kényszertörlési eljárás alatt áll és a mulasztási bírság megállapításakor már nincsen lehetősége a teljesítésre, az e bekezdés első mondata szerinti felhívást az adóhatóság mellőzi.
 
-(7a) Ha az adózó a számviteli törvény szerinti beszámoló letétbe helyezésére és közzétételére vonatkozó kötelezettségét az állami adóhatóság 174/A. § szerinti első felszólításában szereplő határidőn belül nem teljesíti, az állami adóhatóság 1 millió forintig terjedő mulasztási bírságot állapít meg az adózó terhére.
+(7a) Ha az adózó a számviteli törvény szerinti beszámoló letétbe helyezésére és közzétételére vonatkozó kötelezettségét az állami adó- és vámhatóság 174/A. § szerinti első felszólításában szereplő határidőn belül nem teljesíti, az állami adó- és vámhatóság 1 millió forintig terjedő mulasztási bírságot állapít meg az adózó terhére.
 
 (8) Adóköteles tevékenységet adószám nélkül folytatókra kiszabott mulasztási bírság esetén az adóhatóság a bírságot kiszabó, valamint az árukészlet lefoglalása tárgyában hozott határozatát az adózóval kihirdetés útján közli, és a határozat a közlés időpontjától kezdve a fellebbezésre tekintet nélkül végrehajtható. Amennyiben az adóhatóság nem él a lefoglalás lehetőségével, a határozatot az általános szabályok szerint közli az adózóval.
 

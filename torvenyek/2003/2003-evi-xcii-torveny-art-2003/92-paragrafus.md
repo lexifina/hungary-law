@@ -14,6 +14,8 @@ d) költségvetési támogatás kiutalását megelőző ellenőrzés esetében a
 
 (2a) Felszámolás alatt álló adózó esetében a költségvetési támogatás kiutalását megelőző ellenőrzés határideje 30 nap, ha a visszaigényelt általános forgalmi adó összege az 1 millió forintot meghaladja és az adózó a 37. § (4a) bekezdése szerinti nyilatkozatot tett, 45 nap, ha a költségvetési támogatás kiutalását megelőző ellenőrzés általános forgalmi adóra is kiterjed és az adózó a 37. § (4a) bekezdése szerinti nyilatkozatot nem tett, 75 nap.
 
+(2b) A bevallás utólagos ellenőrzésének időtartama cégbejegyzésre nem kötelezett adózó esetén nem haladhatja meg a 180 napot. Nem alkalmazható e rendelkezés, ha az adózó az ellenőrzést akadályozó módon nem tesz eleget együttműködési kötelezettségének. Az együttműködési kötelezettség megszegésének minősül különösen, ha az adózó az ellenőrzés időtartama alatt az adóhatóság számára nem elérhető, iratait teljes körűen az ellenőrzés 6 hónapon belüli lezárását biztosító időpontban nem bocsátja az adóhatóság rendelkezésére.
+
 (3) Az ellenőrzési határidő kezdő napja a megbízólevél kézbesítésének, a kézbesítés mellőzése esetén a megbízólevél átadásának a napja.
 
 (4) Amennyiben a felettes szerv, illetőleg a bíróság az ellenőrzés tekintetében új eljárást rendel el, az új eljárás ellenőrzési határidejének kezdő napja az új eljárás megkezdéséről szóló értesítés postára adásának, postai kézbesítés mellőzése esetén az értesítés átadásának a napja. Az új eljárást az azt elrendelő döntés vagy határozat jogerőre emelkedésének napjától számított 60 napon belül meg kell kezdeni.

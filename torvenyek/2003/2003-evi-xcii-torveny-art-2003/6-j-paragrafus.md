@@ -1,0 +1,3 @@
+## Az adózó minősítése
+
+6/J. § Az állami adó- és vámhatóság a cégjegyzékbe bejegyzett adózót vagy áfa-regisztrált adóalanyt negyedévente, a negyedév utolsó napján fennálló adatok alapulvételével a tárgynegyedévet követő 30 napon belül minősíti, melynek keretében a megbízható adózóra, illetve a kockázatos adózóra vonatkozó feltételek fennállását vizsgálja. A minősítés hatálya a minősítés hónapját követő hónap első napján áll be. A minősítés eredményéről az állami adó- és vámhatóság az adózót elektronikus úton értesíti. Ha az adózó minősítésében változás nem következik be, az állami adó- és vámhatóság az értesítést mellőzi. Az adózó a központi elektronikus szolgáltató rendszeren keresztül minősítését lekérdezheti.

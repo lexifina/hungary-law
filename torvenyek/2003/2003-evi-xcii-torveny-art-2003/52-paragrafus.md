@@ -6,9 +6,9 @@
 
 52. § (1) Az adóhatóság a tudomására jutott adatokat nyilvántartja és megőrzi. A magánszemély adózó azonosításával, adókötelezettségének keletkezésével és teljesítésének ellenőrzésével összefüggésben személyes adatokat tart nyilván és ellenőrizhet.
 
-(1a) Az adóhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg kivéve, ha e korlátozás alól a NAV felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
+(1a) Az adóhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg kivéve, ha e korlátozás alól a NAV-ot irányító miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
 
-(2) Más hatóság, közfeladatot ellátó adatkezelő szerv nyilvántartásában, vagy adózói nyilvántartásban szereplő adatot az adóhatóság az adózó és az adó megfizetésére kötelezett személy azonosításához, az adókötelezettség, a költségvetési támogatáshoz való jogosultság megállapításához, az adózók ellenőrzésre történő kiválasztásához, ellenőrzéséhez, végrehajtási eljárás lefolytatásához, az adózó kérelmére indult adóigazgatási eljárásban a tényállás tisztázásához használhatja fel. Amennyiben törvény megengedi az adóhatóságok vagy az állami adóhatóság és a társadalombiztosítás pénzügyi alapjainak kezelői között az adat átadását, illetve a hatósági nyilvántartásokból az adat átvételét, az adatszolgáltatást elektronikus úton is lehet teljesíteni.
+(2) Más hatóság, közfeladatot ellátó adatkezelő szerv nyilvántartásában, vagy adózói nyilvántartásban szereplő adatot az adóhatóság az adózó és az adó megfizetésére kötelezett személy azonosításához, az adókötelezettség, a költségvetési támogatáshoz való jogosultság megállapításához, az adózók ellenőrzésre történő kiválasztásához, ellenőrzéséhez, végrehajtási eljárás lefolytatásához, az adózó kérelmére indult adóigazgatási eljárásban a tényállás tisztázásához használhatja fel. Amennyiben törvény megengedi az adóhatóságok vagy az állami adó- és vámhatóság és a társadalombiztosítás pénzügyi alapjainak kezelői között az adat átadását, illetve a hatósági nyilvántartásokból az adat átvételét, az adatszolgáltatást elektronikus úton is lehet teljesíteni.
 
 (3) A (2) bekezdés alkalmazása során a személyiadat- és lakcímnyilvántartás, a cégnyilvántartás, az ingatlan-nyilvántartás, a közúti közlekedési nyilvántartás, az építésfelügyeleti nyilvántartás, illetve valamennyi más, jogszabály alapján közhiteles nyilvántartás térítés nélkül felhasználható. Az adóhatóság a személyiadat- és lakcímnyilvántartásból adatot természetes személyazonosító adattal, lakcímmel, illetőleg kapcsolati kódon igényelhet.
 
@@ -62,7 +62,7 @@ w) a Klebelsberg Intézményfenntartó Központ és a települési önkormányza
 
 (6) Ha törvény bíróságnak, államigazgatási vagy önkormányzati szervnek, köztestületnek az adózó adókötelezettségét érintő, az adóhatósághoz teljesítendő értesítési, tájékoztatási vagy adatszolgáltatási kötelezettséget ír elő, azt – eltérő rendelkezés hiányában – az engedély kiadását, a határozat (végzés) jogerőre emelkedését, illetőleg az adókötelezettséget érintő esemény bekövetkeztét követő 15 napon belül kell teljesíteni.
 
-(7) Az állami adóhatóság
+(7) Az állami adó- és vámhatóság
 
 a) megkeresésre adatot szolgáltat
 
@@ -96,7 +96,7 @@ i) elektronikus úton hivatalból haladéktalanul átadja az egyes gazdasági é
 
 ia) a munkaügyi hatóság részére ellenőrzésre történő kiválasztás céljából, valamint
 
-ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való jogszerzés érdekében köthető megállapodás jogalapjának kontrollja céljából.
+ib)
 
 j) megkeresésre elektronikus úton átadja a költségvetési támogatások kedvezményezettjének nevére (megnevezésére), lakhelyére (székhelyére), valamint az adatszolgáltatást megelőző hónap utolsó napjáig esedékessé vált és meg nem fizetett köztartozásuk jogcímére, összegére vonatkozó adatokat
 
@@ -106,23 +106,25 @@ jb) a költségvetési támogatásnak a köztartozás megfizetéséig történő
 
 k)
 
-l) megkeresésre adatot szolgáltat a helyi önkormányzatok törvényességi felügyeletéért felelős szerv részére a helyi önkormányzatokról szóló törvény 33/A. § (7) bekezdésében meghatározott feladatainak ellátásához,
+l)
 
 m) elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig hivatalból átadja a szociális szövetkezet által benyújtott, 31. § (2) bekezdése szerinti bevallásban szereplő adatok közül az egészségügyi szolgáltatási járulékkülönbözet összegére vonatkozó – negyedéves – adatokat a különbözetet az Egészségbiztosítási Alapnak megtérítő Nemzeti Foglalkoztatási Alap részére, az Egészségbiztosítási Alap részére megtérítendő járulékkülönbözet összegének meghatározása érdekében.
 
-(8) Ha az állami adóhatóság az elhunyt magánszemély adóügyével összefüggésben adóigazgatási eljárást folytat vagy azt kezdeményez, és ennek során az örökösök személyének ismerete szükséges, az adóhatóság megkeresésére a hagyatéki leltározásra illetékes önkormányzati jegyző adatot szolgáltat a hagyatéki leltár készítésének tényéről, a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről, valamint a rendelkezésére álló hozzátartozói adatokról (név, cím). Az állami adóhatóság a jegyző által megküldött hozzátartozói adatokat nyilvántartásából soron kívül törli, amennyiben az eljárás eredményeként nem állapít meg adót, költségvetési támogatást az elhunyt terhére vagy javára. Az állami adóhatóság megkeresésére a hagyatéki eljárást lefolytató közjegyző a megkereső adóhatóságot tájékoztatja az örökösökről az azonosításukhoz szükséges természetes személyazonosító adatok és lakcím feltüntetésével, valamint az örökrészük alapján örökölt vagyonról és annak értékéről, vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
+(7a) Az állami adó- és vámhatóság vezetője a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdésével összhangban a nemzetbiztonsági szolgálatok hivatásos állományának tagját érintő biztosítotti bejelentés szabályait, az adózással kapcsolatos bevallások, adatszolgáltatások rendjét és az azzal összefüggő eljárási szabályokat – a törvényi előírások keretei között – a nemzetbiztonsági szolgálattal külön megállapodásban rögzíti.
 
-(9) A területi ügyvédi kamara, illetőleg a Magyar Szabadalmi Ügyvivői Kamara az ügyvédi, szabadalmi ügyvivői tevékenység szünetelésének kezdő napjáról, valamint a szünetelés megszűnésének napjáról az ügyvéd, szabadalmi ügyvivő természetes személyazonosító adatainak, lakcímének feltüntetésével a bejegyzést követő hó 15. napjáig adatot szolgáltat az ügyvéd, szabadalmi ügyvivő illetékes állami adóhatóságához.
+(8) Ha az állami adó- és vámhatóság az elhunyt magánszemély adóügyével összefüggésben adóigazgatási eljárást folytat vagy azt kezdeményez, és ennek során az örökösök személyének ismerete szükséges, az adóhatóság megkeresésére a hagyatéki leltározásra illetékes önkormányzati jegyző adatot szolgáltat a hagyatéki leltár készítésének tényéről, a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről, valamint a rendelkezésére álló hozzátartozói adatokról (név, cím). Az állami adó- és vámhatóság a jegyző által megküldött hozzátartozói adatokat nyilvántartásából soron kívül törli, amennyiben az eljárás eredményeként nem állapít meg adót, költségvetési támogatást az elhunyt terhére vagy javára. Az állami adó- és vámhatóság megkeresésére a hagyatéki eljárást lefolytató közjegyző a megkereső adóhatóságot tájékoztatja az örökösökről az azonosításukhoz szükséges természetes személyazonosító adatok és lakcím feltüntetésével, valamint az örökrészük alapján örökölt vagyonról és annak értékéről, vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
 
-(10) A közjegyző székhelye szerint illetékes területi közjegyzői kamara a közjegyző szolgálata szünetelésének kezdő napjáról, valamint a szolgálat szünetelése megszűnésének napjáról a közjegyző természetes személyazonosító adatainak, lakcímének feltüntetésével, a szolgálat szünetelésének kezdő napját, illetőleg a szolgálat szünetelése megszűnésének napját követő hó 15. napjáig adatot szolgáltat a közjegyző illetékes állami adóhatóságához.
+(9) A területi ügyvédi kamara, illetőleg a Magyar Szabadalmi Ügyvivői Kamara az ügyvédi, szabadalmi ügyvivői tevékenység szünetelésének kezdő napjáról, valamint a szünetelés megszűnésének napjáról az ügyvéd, szabadalmi ügyvivő természetes személyazonosító adatainak, lakcímének feltüntetésével a bejegyzést követő hó 15. napjáig adatot szolgáltat az ügyvéd, szabadalmi ügyvivő illetékes állami adó- és vámhatóságához.
+
+(10) A közjegyző székhelye szerint illetékes területi közjegyzői kamara a közjegyző szolgálata szünetelésének kezdő napjáról, valamint a szolgálat szünetelése megszűnésének napjáról a közjegyző természetes személyazonosító adatainak, lakcímének feltüntetésével, a szolgálat szünetelésének kezdő napját, illetőleg a szolgálat szünetelése megszűnésének napját követő hó 15. napjáig adatot szolgáltat a közjegyző illetékes állami adó- és vámhatóságához.
 
 (11) Az állami adó- és vámhatóság vezetője a nemzetgazdaság aktuális állapotának, illetőleg az azt befolyásoló hatások, folyamatok elemzése, értékelése érdekében a 10 000 legnagyobb adóteljesítménnyel rendelkező adózót soron kívüli adatszolgáltatásra kötelezheti gazdasági tevékenységének olyan adatairól, amelyek a jogszabály alapján vezetett nyilvántartásaiból megállapíthatók és adókötelezettségeivel összefüggésben állnak.
 
-(12) E törvény 7. számú mellékletében meghatározott kamatjövedelem kifizetője, illetve az ezzel összefüggésben adatszolgáltatásra kötelezett más személy a 7. számú melléklet szerinti módon és tartalommal adatot szolgáltat az állami adóhatósághoz.
+(12) E törvény 7. számú mellékletében meghatározott kamatjövedelem kifizetője, illetve az ezzel összefüggésben adatszolgáltatásra kötelezett más személy a 7. számú melléklet szerinti módon és tartalommal adatot szolgáltat az állami adó- és vámhatósághoz.
 
-(12a) A nyugdíjat folyósító szerv az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 19/A. § (2) bekezdés d) pontjában meghatározott jövedelemkategóriát érintő automatikus információcsere teljesítése érdekében a rendelkezésre álló azonosító adatok alapján az Európai Unió más tagállamában illetőséggel rendelkező személy részére kifizetett nyugellátás adóévi összegéről az adóévet követő év január 31-ig az adózó azonosításához rendelkezésre álló adatok feltüntetésével elektronikus úton adatot szolgáltat az állami adóhatóságnak.
+(12a) A nyugdíjat folyósító szerv az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 19/A. § (2) bekezdés d) pontjában meghatározott jövedelemkategóriát érintő automatikus információcsere teljesítése érdekében a rendelkezésre álló azonosító adatok alapján az Európai Unió más tagállamában illetőséggel rendelkező személy részére kifizetett nyugellátás adóévi összegéről az adóévet követő év január 31-ig az adózó azonosításához rendelkezésre álló adatok feltüntetésével elektronikus úton adatot szolgáltat az állami adó- és vámhatóságnak.
 
-(13) A vámhatóság megkeresésére a jövedéki adó-visszaigénylés ellenőrzéséhez a nyilvántartásában szereplő adatok közül adatot szolgáltat
+(13) Az állami adó- és vámhatóság megkeresésére a jövedéki adó-visszaigénylés ellenőrzéséhez a nyilvántartásában szereplő adatok közül adatot szolgáltat
 
 a) a mezőgazdasági és vidékfejlesztési támogatási szerv az adózó használatában lévő földterület művelési ágáról és nagyságáról,
 
@@ -132,15 +134,15 @@ b) az erdészeti hatóság az adózó használatában lévő erdőterületen fol
 
 (13b) Az idegenrendészeti, menekültügyi, állampolgársági ügyekben eljáró hatóság az állami adó- és vámhatóság megkeresésére – az adózók ellenőrzésre történő kiválasztásához, ellenőrzéséhez, végrehajtási eljárás lefolytatásához – adatot szolgáltat a nyilvántartásában szereplő, az idegenrendészeti hatóság előtti engedélyezési eljárások során az engedélyek kiadásához szükséges feltételeket igazoló okiratokban szereplő, az adózó elérhetőségére, személyének azonosítására, valamint jövedelmi és vagyoni helyzetére vonatkozó adatokról.
 
-(14) A mezőgazdasági és vidékfejlesztési támogatási szerv az adóévet követő év január 31-éig adatot szolgáltat az állami adóhatósághoz az általa kifizetett támogatás jogcíméről, összegéről a magánszemély nevének, adóazonosító jelének feltüntetésével.
+(14) A mezőgazdasági és vidékfejlesztési támogatási szerv az adóévet követő év január 31-éig adatot szolgáltat az állami adó- és vámhatósághoz az általa kifizetett támogatás jogcíméről, összegéről a magánszemély nevének, adóazonosító jelének feltüntetésével.
 
-(15) Az állami adóhatóság nyilvántartja az adózó nevében eljáró állandó meghatalmazott, megbízott magánszemély adóazonosító jelét.
+(15) Az állami adó- és vámhatóság nyilvántartja az adózó nevében eljáró állandó meghatalmazott, megbízott magánszemély adóazonosító jelét.
 
-(16) Az állami adóhatóság hivatalból adatot szolgáltat – elektronikus úton, a 31. § (2) bekezdés szerinti bevallásra előírt határidőt követő hó utolsó napjáig – az állami foglalkoztatási szerv részére a Karrier Híd Igazolás alapján igénybe vett adókedvezmény alapjáról, összegéről, valamint a kedvezmény igénybevételével foglalkoztatott személy természetes személyazonosító adatairól, adóazonosító jeléről és lakcíméről.
+(16) Az állami adó- és vámhatóság hivatalból adatot szolgáltat – elektronikus úton, a 31. § (2) bekezdés szerinti bevallásra előírt határidőt követő hó utolsó napjáig – az állami foglalkoztatási szerv részére a Karrier Híd Igazolás alapján igénybe vett adókedvezmény alapjáról, összegéről, valamint a kedvezmény igénybevételével foglalkoztatott személy természetes személyazonosító adatairól, adóazonosító jeléről és lakcíméről.
 
 (17) Az adóhatóság a telefonos ügyféltájékoztató és ügyintéző rendszerben folytatott beszélgetést – a közösségi adószám érvényességéről történő meggyőződés ügytípus kivételével – elektronikusan adathordozóra rögzíti, és annak anyagát az adó megállapításához való jog, illetve ha az hosszabb, akkor az adó végrehajtásához való jog elévüléséig, illetőleg a folyamatban levő bírósági eljárás befejezéséig megőrzi. Az adózó vagy képviselője kérelme alapján az általa folytatott, e bekezdés szerint megőrzött telefonbeszélgetéseit meghallgathatja.
 
-(18) Az állami adóhatóság kérelemre adatot szolgáltat az európai uniós fejlesztési programok irányításáért felelős szervezet részére
+(18) Az állami adó- és vámhatóság kérelemre adatot szolgáltat az európai uniós fejlesztési programok irányításáért felelős szervezet részére
 
 a) az adózó által a társasági adóbevallásban megjelölt mikro-, kis-, vagy középvállalkozás meghatározására vonatkozó kódról;
 

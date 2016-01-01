@@ -6,7 +6,7 @@ b) az adózó közvetlenül az önkormányzati adóhatóságnak jelenti be a vá
 
 c) az adót az önkormányzatnál az e célra szolgáló külön számlára kell megfizetni.
 
-(2) Ha az adózó kizárólag a beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet, illetve építési telek (telekrész) értékesítése miatt válik az általános forgalmi adó alanyává, az állami adóhatóság határozattal állapítja meg az általános forgalmi adóról szóló törvény szerinti adókötelezettséget (kivetéses adózás). Az adózó az értékesítésről az adóhatóságnál e célra rendszeresített nyomtatványon az általános forgalmi adóról szóló törvény szerinti teljesítés időpontját követő 30 napon belül bejelentést tesz. A bejelentés a jogkövetkezmények szempontjából az adóbevallással egyenértékű.
+(2) Ha az adózó kizárólag a beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet, illetve építési telek (telekrész) értékesítése miatt válik az általános forgalmi adó alanyává, az állami adó- és vámhatóság határozattal állapítja meg az általános forgalmi adóról szóló törvény szerinti adókötelezettséget (kivetéses adózás). Az adózó az értékesítésről az adóhatóságnál e célra rendszeresített nyomtatványon az általános forgalmi adóról szóló törvény szerinti teljesítés időpontját követő 30 napon belül bejelentést tesz. A bejelentés a jogkövetkezmények szempontjából az adóbevallással egyenértékű.
 
 (3) A föld bérbeadásából származó jövedelem (ideértve a földjáradékot is) adóztatása a föld fekvése szerint illetékes önkormányzati adóhatóság feladata. Az ebből származó valamennyi bevétel az önkormányzat költségvetését illeti meg, és az az önkormányzattól nem vonható el.
 
@@ -26,7 +26,7 @@ c) az adót az önkormányzatnál az e célra szolgáló külön számlára kell
 
 (11) Az Áht. szerint a kincstári körbe, illetőleg a helyi önkormányzatok nettó finanszírozása hatálya alá tartozó, valamint a központosított illetményszámfejtésről szóló külön jogszabályban szabályozott illetményszámfejtési feladatokat ellátó munkáltatónak és a kifizetőnek az e törvényben a munkáltatóra, a kifizetőre előírt kötelezettségek közül az elszámolt összeget terhelő adó, adóelőleg levonását, befizetését, bevallását az Áht.-ben és a végrehajtására kiadott rendeletekben meghatározottak szerint kell teljesíteni.
 
-(12) A (11) bekezdésben említett munkáltató és a kifizető külön törvény alapján a kincstárral szembeni elszámolásában a kifizetést terhelő adóról (adóelőlegről) az elszámolt hónapot (kifizetést) követő hó 20-áig adatot szolgáltat az állami adóhatóságnak.
+(12) A (11) bekezdésben említett munkáltató és a kifizető külön törvény alapján a kincstárral szembeni elszámolásában a kifizetést terhelő adóról (adóelőlegről) az elszámolt hónapot (kifizetést) követő hó 20-áig adatot szolgáltat az állami adó- és vámhatóságának.
 
 (13) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény, valamint a 22/E. § kivételével az adótörvények alkalmazásában, az általános forgalmi adó esetében a hivatkozással meghatározott termékek (építmények) és szolgáltatások vonatkozásában
 

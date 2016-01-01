@@ -2,9 +2,9 @@
 
 10. § (1) Adóhatóságok:
 
-a) a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) adóztatási szerve, mint állami adóhatóság,
+a) a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV), mint állami adóhatóság és vámhatóság (a továbbiakban: állami adó- és vámhatóság),
 
-b) a NAV vámszerve, mint vámhatóság (az állami adóhatóság és a vámhatóság a továbbiakban együtt: állami adó- és vámhatóság),
+b)
 
 c) az önkormányzat jegyzője (a továbbiakban: önkormányzati adóhatóság),
 

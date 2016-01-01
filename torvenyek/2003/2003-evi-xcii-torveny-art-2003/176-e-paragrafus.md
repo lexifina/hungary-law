@@ -1,4 +1,4 @@
-176/E. § (1) A műszerészi igazolvány a pénztárgépek, taxaméterek szervizelésére jogosító, az állami adóhatóság által kiállított igazolvány.
+176/E. § (1) A műszerészi igazolvány a pénztárgépek, taxaméterek szervizelésére jogosító, az állami adó- és vámhatóság által kiállított igazolvány.
 
 (2) A műszerészi igazolvány
 
@@ -8,4 +8,4 @@ b) nyilvántartásba vett szerviz alkalmazásában álló vagy egyéni vállalko
 
 személy (műszerész) részére állítható ki, aki nem áll a kérelmezőn kívül más szerviz alkalmazásában.
 
-(3) A műszerészi igazolvány az állami adóhatóság tulajdona.
+(3) A műszerészi igazolvány az állami adó- és vámhatóság tulajdona.

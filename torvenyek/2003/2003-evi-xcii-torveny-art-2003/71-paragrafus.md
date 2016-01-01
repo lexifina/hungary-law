@@ -12,4 +12,4 @@
 
 (5) Az e §-ban foglaltakat a jogorvoslati eljárásra is alkalmazni kell.
 
-(6) Az állami adó- és vámhatóság központi szervei tekintetében felettes adóhatóság az állami adó- és vámhatóság vezetője.
+(6)

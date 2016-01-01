@@ -4,7 +4,7 @@ Az adók, a költségvetési támogatások esedékessége
 
 I.
 
-AZ ÁLLAMI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
+Az állami adó- és vámhatósághoz teljesítendő befizetések
 
 Általános rendelkezések
 
@@ -14,7 +14,7 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 
 2a. Az adózó a 33. § (12) bekezdésében meghatározott bevallási kötelezettség teljesítésének határidejéig az adót is köteles megfizetni.
 
-3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket, a cégautóadót és az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget kivéve – , a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. Az adózó a 100 forintot el nem érő adóját nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést, visszaigénylést nem utalja ki és nem tartja nyilván.
+3. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, az illetéket, a cégautó-adót, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. Az adózónak az 1000 forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az 1000 forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
 
 Határidők
 
@@ -222,7 +222,7 @@ Az önkormányzati adóhatósághoz teljesítendő befizetések
 
 Általános rendelkezések
 
-Az önkormányzati adóhatóság által nyilvántartott 100 forintot el nem érő adót az adózónak nem kell megfizetnie, és az önkormányzati adóhatóság a 100 forintot el nem érő adó-visszatérítést nem utalja ki, és nem tartja nyilván.
+Az önkormányzati adóhatóság által nyilvántartott 1000 forintot el nem érő adót – ide nem értve az idegenforgalmi adót – az adózónak nem kell megfizetnie, és az önkormányzati adóhatóság az 1000 forintot el nem érő adó-visszatérítést nem utalja ki, és nem tartja nyilván.
 
 A) Helyi adók
 
@@ -296,7 +296,7 @@ III.
 
 Költségvetési támogatások
 
-1. Az állami adóhatóságtól a költségvetési támogatást az adózó 1000 forintra kerekítve igényelheti.
+1. Az állami adó- és vámhatóságtól a költségvetési támogatást az adózó 1000 forintra kerekítve igényelheti.
 
 2. Ha a támogatást megállapító jogszabály eltérően nem rendelkezik,
 
@@ -338,11 +338,11 @@ A visszaigényelt általános forgalmi adó kiutalása az igény benyújtását 
 
 IV.
 
-A jövedéki adóval kapcsolatban a vámhatósághoz teljesítendő befizetések
+A jövedéki adóval kapcsolatban az állami adó- és vámhatósághoz teljesítendő befizetések
 
 Általános rendelkezések:
 
-A vámhatósághoz teljesítendő 1000 forintot el nem érő adókötelezettséget az adózónak nem kell megfizetnie, és a vámhatóság az 1000 forintot el nem érő adó-visszatérítést nem utalja ki, és nem tartja nyilván.
+A vámhatósághoz teljesítendő 1000 forintot el nem érő adókötelezettséget az adózónak nem kell megfizetnie, és az állami adó- és vámhatóság az 1000 forintot el nem érő adó-visszatérítést nem utalja ki, és nem tartja nyilván.
 
 Jövedéki adó befizetése
 

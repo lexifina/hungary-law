@@ -8,11 +8,11 @@ A naptári évtől eltérő üzleti évet választó adózó törvényben vagy m
 
 A naptári évtől eltérő üzleti évet választó adózónak a társasági adó, az osztalékadó és az iparűzési adó tekintetében az adómegállapítási, bevallási, adófizetési, adóelőleg-fizetési kötelezettségét az üzleti év első napján hatályos szabályok szerint kell teljesítenie.
 
-1. Az állami adóhatósághoz teljesítendő bevallási kötelezettségek
+1. Az állami adó- és vámhatósághoz teljesítendő bevallási kötelezettségek
 
 Az adózó az adóbevallási kötelezettségét a társasági adóról, és az osztalékadóról az adóév utolsó napját követő ötödik hónap utolsó napjáig teljesíti.
 
-2. Az állami adóhatósághoz teljesítendő adófizetési kötelezettségek
+2. Az állami adó- és vámhatósághoz teljesítendő adófizetési kötelezettségek
 
 a) Az adózó a társasági adót, a megfizetett adóelőleg és az adóévre megállapított társasági adó különbözetét az adóév utolsó napját követő ötödik hónap utolsó napjáig fizeti meg, illetőleg ettől az időponttól igényelheti vissza.
 

@@ -4,7 +4,7 @@ Az összesítő nyilatkozat
 
 1. A) Az általános forgalmiadó-alany nyilatkozik:
 
-a) az állami adóhatóság által megállapított közösségi adószámáról, valamint az általános forgalmi adóról szóló törvény 89. §-ának (4) bekezdése szerinti ügylet teljesítése esetén az általános forgalmiadó-alanynak azon, az Európai Közösség más tagállamának hatósága által megállapított adószámáról, ahol ezen ügylet tekintetében adófizetésre kötelezett,
+a) az állami adó- és vámhatóság által megállapított közösségi adószámáról, valamint az általános forgalmi adóról szóló törvény 89. §-ának (4) bekezdése szerinti ügylet teljesítése esetén az általános forgalmiadó-alanynak azon, az Európai Közösség más tagállamának hatósága által megállapított adószámáról, ahol ezen ügylet tekintetében adófizetésre kötelezett,
 
 b) a vevő és az eladó, illetve a szolgáltatást nyújtó és szolgáltatást igénybe vevő adószámáról,
 
@@ -22,7 +22,7 @@ h) az általános forgalmi adóról szóló törvény 77. §-a szerinti utólago
 
 B) Az összesítő nyilatkozatot a havi általános forgalmi adó bevallásra kötelezett adóalany havonta, a tárgyhónapot követő hónap 20. napjáig, a negyedéves általános forgalmi adó bevallásra kötelezett adóalany negyedévente,
 
-a tárgynegyedévet követő hónap 20. napjáig nyújtja be az állami adóhatósághoz.
+a tárgynegyedévet követő hónap 20. napjáig nyújtja be az állami adó- és vámhatósághoz.
 
 C) A rá irányadó általános forgalmiadó-bevallási gyakoriságtól függetlenül, az adóalanynak a negyedéves gyakoriságú összesítő nyilatkozatról havi gyakoriságú összesítő nyilatkozatra kell áttérnie, ha
 
@@ -44,6 +44,6 @@ B) Ha az 1. pontban meghatározott adóalany az 1. számú melléklet I./B/3. po
 
 B) Az összesítő nyilatkozat a jogkövetkezmények szempontjából bevallásnak minősül.
 
-C) Az összesítő nyilatkozatot az adózó az állami adóhatóság által rendszeresített elektronikus űrlapon, elektronikus úton terjeszti elő az állami adóhatósághoz.
+C) Az összesítő nyilatkozatot az adózó az állami adó- és vámhatóság által rendszeresített elektronikus űrlapon, elektronikus úton terjeszti elő az állami adó- és vámhatósághoz.
 
 5. E melléklet alkalmazásában az „adószám” kifejezés alatt – eltérően a 178. § 1. pontjában meghatározottaktól – az Európai Közösségnek Magyarországon kívüli tagállamai esetében az érintett tagállamban általános forgalmi adó fizetésére kötelezettként hatósági nyilvántartásba vett egyedi azonosítására szolgáló olyan betűből és/vagy számból álló jelet kell érteni, amely az érintett tagállam joga szerint tartalmában megfelel a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK tanácsi irányelv 215. cikkének.

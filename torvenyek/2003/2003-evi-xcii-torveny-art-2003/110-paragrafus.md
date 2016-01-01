@@ -1,4 +1,4 @@
-110. § Ha becslés alkalmazására az általános forgalmi adó megállapítása során kerül sor, bizonylatok hiányában az állami adóhatóság
+110. § Ha becslés alkalmazására az általános forgalmi adó megállapítása során kerül sor, bizonylatok hiányában az állami adó- és vámhatóság
 
 a) a fizetendő adót a tényleges eladási ár,
 

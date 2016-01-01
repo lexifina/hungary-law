@@ -2,7 +2,7 @@
 
 (2) Pénzügyi képviselő az a korlátolt felelősségű társaság, részvénytársaság lehet, melynek jegyzett tőkéje az 50 millió forintot eléri, vagy ennek megfelelő összegű bankgaranciával rendelkezik, továbbá az adóhatóságnál nyilvántartott adótartozása nincs. A pénzügyi képviselő a feltételek meglétét a képviselet elfogadásának bejelentésekor, illetve ezt követően a tevékenység folyamatos végzése alatt évente az adóhatóságnál igazolja.
 
-(3) A pénzügyi képviselő a külföldi vállalkozás képviseletére irányuló megbízás elfogadásától és a képviselet megszűnésétől számított 15 napon belül az állami adóhatósághoz bejelenti a képviselet elfogadását, illetőleg megszűnését, a külföldi vállalkozás adatait, továbbá a külföldi vállalkozás adóügyeivel összefüggésben nyitott belföldi pénzforgalmi számlaszámát.
+(3) A pénzügyi képviselő a külföldi vállalkozás képviseletére irányuló megbízás elfogadásától és a képviselet megszűnésétől számított 15 napon belül az állami adó- és vámhatósághoz bejelenti a képviselet elfogadását, illetőleg megszűnését, a külföldi vállalkozás adatait, továbbá a külföldi vállalkozás adóügyeivel összefüggésben nyitott belföldi pénzforgalmi számlaszámát.
 
 (4) Az adóhatóság a bejelentés alapján a külföldi vállalkozást és pénzügyi képviselőjét nyilvántartásba veszi és a külföldi vállalkozás számára adószámot állapít meg.
 

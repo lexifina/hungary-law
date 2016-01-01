@@ -24,4 +24,4 @@
 
 (13) A második sikertelen elektronikus árverést követően ingóság esetében 30 nap elteltével, ingatlan esetében hat hónap elteltével a végrehajtó, ha azt a körülmények indokolják, az árverést ismételten kitűzheti. Ha az ismételten kitűzött újabb elektronikus árverés is sikertelenül zárul, az árverés kitűzése az adó végrehajtásához való jog elévülési idejének lejártáig, legfeljebb hat hónaponként megismételhető. A Vht. folyamatos árverezésre vonatkozó szabályai az elektronikus árverés során nem alkalmazhatók.
 
-(14) Az elektronikus árverés technikai feltételeit és működtetésének részletszabályait az állami adóhatóság hivatalos internetes honlapján közzéteszi.
+(14) Az elektronikus árverés technikai feltételeit és működtetésének részletszabályait az állami adó- és vámhatóság hivatalos internetes honlapján közzéteszi.

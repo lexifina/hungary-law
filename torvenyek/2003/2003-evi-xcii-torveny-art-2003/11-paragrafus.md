@@ -1,8 +1,8 @@
-## Az adóhatóságok felügyelete
+## Az önkormányzati adóhatóságok felügyelete
 
-11. § (1) Az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter
+11. § (1) Az adópolitikáért felelős miniszter
 
-a) az állami adó- és vámhatóság felett gyakorolja felügyeleti jogkörét e törvényben és külön törvényben meghatározottak szerint,
+a)
 
 b) felügyeli az önkormányzati adóhatóság hatáskörébe tartozó adóztatás törvényességét, ellenőrzi az önkormányzati adóhatóságok irányítását, a törvények és más jogszabályok végrehajtását,
 

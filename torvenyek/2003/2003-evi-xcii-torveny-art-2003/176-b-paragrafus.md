@@ -4,7 +4,7 @@
 
 (2) A forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-(3) Az engedélyezési eljárás lefolytatásához szükséges, adótitoknak minősülő adatokról az állami adóhatóság tájékoztatja az engedélyező hatóságot.
+(3) Az engedélyezési eljárás lefolytatásához szükséges, adótitoknak minősülő adatokról az állami adó- és vámhatóság tájékoztatja az engedélyező hatóságot.
 
 (4) Az engedélyező hatóság honlapján folyamatosan nyilvánosságra hozza
 

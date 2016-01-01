@@ -2,11 +2,11 @@
 
 119/A. § (1) Az adóhatóság az adózónál, illetve az adózónak nem minősülő magánszemélynél – a vele szerződéses kapcsolatban állt vagy álló adózók adókötelezettségének, adóalapjának, adókedvezményének, adójának vagy költségvetési támogatásának megállapítása, ellenőrzése céljából – a szerződésben foglalt egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzést folytathat le.
 
-(2) Az adóhatóság az (1) bekezdés szerinti ellenőrzést folytat le akkor is, ha az állami adóhatóság a NAV nyomozóhatósági hatáskörrel felruházott szerve által feltárt adatok és bizonyítékok alapján bűncselekmény elkövetési értékének megállapítása céljából vizsgálja az egyes gazdasági események valódiságát.
+(2) Az adóhatóság az (1) bekezdés szerinti ellenőrzést folytat le akkor is, ha az állami adó- és vámhatóság a NAV nyomozóhatósági hatáskörrel felruházott szerve által feltárt adatok és bizonyítékok alapján bűncselekmény elkövetési értékének megállapítása céljából vizsgálja az egyes gazdasági események valódiságát.
 
 (3) Az egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés kiterjed a vizsgált gazdasági eseményekkel összefüggő adatok, tények, körülmények, iratok, nyilvántartások, így különösen a beszerzések és az értékesítések körülményeinek, a gazdasági esemény személyi és tárgyi feltételeinek, illetve a gazdasági esemény megtörténtét igazoló iratok valódiságának vizsgálatára.
 
-(4) Az adóhatóság a (2) bekezdés alapján lefolytatott ellenőrzésről készült jegyzőkönyv egy példányát átadja a NAV – az állami adóhatósági ellenőrzés alapjául szolgáló adatokat és bizonyítékokat feltáró – nyomozóhatósági hatáskörrel felruházott szerve részére.
+(4) Az adóhatóság a (2) bekezdés alapján lefolytatott ellenőrzésről készült jegyzőkönyv egy példányát átadja a NAV – az állami adó- és vámhatósági ellenőrzés alapjául szolgáló adatokat és bizonyítékokat feltáró – nyomozóhatósági hatáskörrel felruházott szerve részére.
 
 (5) Az egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés során tett megállapítások alapján az adóhatóság elrendelheti az adózó, illetve az adózónak nem minősülő magánszemély bevallásainak utólagos vizsgálatára irányuló ellenőrzését is.
 

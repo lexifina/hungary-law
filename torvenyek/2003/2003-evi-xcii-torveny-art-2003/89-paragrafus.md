@@ -2,7 +2,7 @@
 
 89. § (1) Kötelező az ellenőrzést lefolytatni
 
-a) a vállalkozónál, ha végelszámolását rendelték el
+a) a kockázatos adózónál, ha végelszámolását rendelték el,
 
 b) az Állami Számvevőszék elnökének felhívására,
 

@@ -1,0 +1,1 @@
+215. § A Módtv3.-mal megállapított 3. számú melléklet O) pont 3–5. alpontja szerinti adatszolgáltatást első alkalommal, az adatszolgáltatással érintett valamennyi személyről 2016. február 28-áig kell teljesíteni.

@@ -1,0 +1,7 @@
+6/D. § (1) A megbízható adózó részére az állami adó- és vámhatóság az általa nyilvántartott, 10 000 forint vagy azt meghaladó, de legfeljebb 500 000 forint összegű tartozásra – kivéve a 133. § (3) bekezdésében meghatározott tartozásokat – az adózó elektronikus úton benyújtott kérelmére vagy a (2) bekezdés szerinti ajánlat elfogadásáról szóló nyilatkozatára évente egy alkalommal legfeljebb 12 havi pótlékmentes részletfizetést engedélyez a 133. § (1)–(2) bekezdésében foglalt feltételek vizsgálata nélkül (a továbbiakban: automatikus részletfizetés).
+
+(2) Az állami adó- és vámhatóság az (1) bekezdésben meghatározott tartozással rendelkező megbízható adózó részére az automatikus részletfizetési kedvezmény lehetőségére vonatkozóan negyedévente elektronikus úton felhívást küld. Az adózó a kézbesítést követő 8 napon belül elektronikus úton nyilatkozhat a kiküldött felhívásban foglalt részletfizetés elfogadásáról. A nyilatkozat megtételére előírt határidő jogvesztő.
+
+(3) Az automatikus részletfizetési kedvezmény iránti kérelem, illetve a részletfizetésre vonatkozó felhívás elfogadásáról szóló nyilatkozat beérkezését követő 15 napon belül az állami adó- és vámhatóság az automatikus részletfizetésről határozatot hoz, melyet elektronikus úton kézbesít az adózó részére.
+
+(4) Ha az adózó az esedékes részlet befizetését nem teljesíti, az automatikus részletfizetési kedvezmény érvényét veszti, és a tartozás egy összegben esedékessé válik. Ez esetben az adóhatóság a fennmaradó tartozásra az eredeti esedékességtől késedelmi pótlékot számít fel.

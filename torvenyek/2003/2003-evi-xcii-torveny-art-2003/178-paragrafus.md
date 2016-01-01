@@ -8,11 +8,15 @@
 
 3. adókülönbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott vagy a bevallás (bejelentés) alapján kivetett, kiszabott és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete vagy a büntetőeljárás során jogerősen megállapított – és a bíróság vagy az ügyészség jogerős határozata alapján az adóhatóság által határozattal megfizetni rendelt – adóbevétel-csökkenés, vagyoni hátrány, és a jogosulatlanul igénybe vett költségvetési támogatás, ide nem értve a következő időszakra átvihető követelés különbözetét,
 
-4. adótartozás: az esedékességkor meg nem fizetett adó és a jogosulatlanul igénybe vett költségvetési támogatás; az adóhatóságnál nyilvántartott adótartozás összegét – nettó módon számítva – csökkenteni kell az ugyanazon adóhatóságnál nyilvántartott túlfizetés összegével az adóigazolás kiállítása iránti eljárásban vagy ha jogszabály valamely, az adózó által érvényesíthető kedvezmény igénybevételét adóhatóságnál nyilvántartott adótartozás hiányához köti,
+3a. adószámla: az állami adó- és vámhatóság, illetve az önkormányzati adóhatóság által vezetett, a fizetési kötelezettség, a költségvetési támogatás elszámolására szolgáló nyilvántartás.
+
+4. adótartozás: az esedékességkor meg nem fizetett adó és a jogosulatlanul igénybe vett költségvetési támogatás; az adóhatóságnál nyilvántartott adótartozás, vagy tartozás összegét – nettó módon számítva – csökkenteni kell az ugyanazon adóhatóságnál nyilvántartott túlfizetés összegével, ide nem értve a letétként nyilvántartott összeget az adóigazolás kiállítása iránti eljárásban vagy ha jogszabály valamely, az adózó által érvényesíthető kedvezmény igénybevételét adóhatóságnál nyilvántartott adótartozás, vagy tartozás hiányához köti,
 
 5. adóteljesítmény: az adózó bruttó módon számított (költségvetési támogatással, adókedvezménnyel, adómentességgel növelt) összes, elévülési időn belüli adókötelezettségének egy évre vetített átlaga, amelyben az általános forgalmi adó esetében a fizetendő, továbbá az előzetesen felszámított és levonható általános forgalmi adó értékei közül a nagyobb abszolút értéket kell figyelembe venni,
 
 6. adóügy: az adóval és a költségvetési támogatással összefüggő hatósági ügy,
+
+6a. áfa-regisztrált adóalany: olyan, belföldön gazdasági célú letelepedéssel, lakóhellyel vagy állandó tartózkodási hellyel nem rendelkező adóalany, aki (amely) belföldön általános forgalmi adó köteles tevékenységet folytat, amely tekintetében ő az adófizetésre kötelezett.
 
 7. állandó lakóhely: az olyan lakóhely, ahol a magánszemély tartós ott-lakásra rendezkedett be és ténylegesen ott lakik. Nem változik az állandó lakóhely, ha a magánszemély ideiglenes jelleggel huzamosabb ideig külföldön tartózkodik, illetve ha előzetes letartóztatásban van vagy szabadságvesztés büntetését tölti,
 
@@ -21,6 +25,8 @@
 9. egyéb szervezet: egyéni cég, szakcsoport, polgári jogi társaság, társasház, társasüdülő, társasgarázs, építőközösség és minden más, jogi személyiséggel nem rendelkező személyi egyesülés,
 
 10. előtársaság: a jogelőd nélkül létrehozni kívánt gazdasági társaság, fióktelep, egyesülés, szövetkezet, erdőbirtokossági társulat és vízgazdálkodási társulat társasági, társulati szerződése (alapító okirata, alapszabálya) ellenjegyzésének, illetve közokiratba foglalásának napjától létrejöttének (a cégjegyzékbe való bejegyzésének) napjáig, a cégbejegyzés iránti kérelem jogerős elutasításának vagy a cégbejegyzési eljárás megszüntetésének a napjáig, feltéve, hogy a cégbejegyzés iránti kérelmet a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény hatálybalépését követően nyújtották be,
+
+10a. elszámolás: a fizetési kötelezettség nyilvántartása, megfizetése, kiutalása, visszatérítése, visszaigénylése, átvezetése, behajthatatlansága miatti kezelése, illetve megállapításához vagy végrehajtásához való jog elévülése miatti törlése.
 
 11. fióktelep: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben meghatározott fióktelep,
 
@@ -58,7 +64,7 @@ f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tek
 
 19. közeli hozzátartozó: a Polgári Törvénykönyvben közeli hozzátartozóként megjelölt személy,
 
-20. köztartozás: törvényben meghatározott, az államháztartás alrendszereinek költségvetéseiből ellátandó feladatok fedezetére előírt fizetési kötelezettség, amelynek megállapítása, ellenőrzése, behajtása bíróság vagy közigazgatási szerv hatáskörébe tartozik, valamint a köztestület működésének fedezetére törvényben előírt fizetési kötelezettség, feltéve, hogy azt önkéntesen az esedékességkor nem teljesítették. Köztartozás az is, ha az államháztartás alrendszereinek költségvetése terhére jogosulatlanul igénybe vett vagy rendeltetésétől eltérően felhasznált támogatás és járulékai megfizetését az arra hatáskörrel rendelkező szerv elrendeli, és azt a kötelezett az előírt határidőig nem teljesíti. Az állami adóhatóság a támogatás visszafizetéséről rendelkező szerv megkeresésére a költségvetési támogatás visszatartási jogát e tartozások tekintetében is gyakorolja,
+20. köztartozás: törvényben meghatározott, az államháztartás alrendszereinek költségvetéseiből ellátandó feladatok fedezetére előírt fizetési kötelezettség, amelynek megállapítása, ellenőrzése, behajtása bíróság vagy közigazgatási szerv hatáskörébe tartozik, valamint a köztestület működésének fedezetére törvényben előírt fizetési kötelezettség, feltéve, hogy azt önkéntesen az esedékességkor nem teljesítették. Köztartozás az is, ha az államháztartás alrendszereinek költségvetése terhére jogosulatlanul igénybe vett vagy rendeltetésétől eltérően felhasznált támogatás és járulékai megfizetését az arra hatáskörrel rendelkező szerv elrendeli, és azt a kötelezett az előírt határidőig nem teljesíti. Az állami adó- és vámhatóság a támogatás visszafizetéséről rendelkező szerv megkeresésére a költségvetési támogatás visszatartási jogát e tartozások tekintetében is gyakorolja,
 
 21. lakóhely: minden olyan helyiség, amelyet valaki lakásként használ, vagy a körülmények arra utalnak, hogy azt lakásának tekinti,
 
@@ -74,19 +80,21 @@ f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tek
 
 27. telephely: az a hely, ahol az adóköteles tevékenységet folytatják, ideértve különösen a vállalkozó állandó üzleti (üzemi), termelő-, szolgáltatótevékenységének helyét függetlenül attól, hogy a telephely a vállalkozás székhelyétől különböző közigazgatási területen található,
 
+27a. tételes elszámolású fizetési kötelezettség: vám, importtermék általános forgalmi adó, regisztrációs adó, importtal kapcsolatos jövedéki adó.
+
 28. vállalkozási tevékenység: az a rendszeres gazdasági tevékenység, amelyet a magánszemély, illetve a jogi személy vagy egyéb szervezet saját nevében és kockázatára üzletszerűen végez,
 
 29. vállalkozó: a magánszemély, ha belföldön saját nevében és kockázatára az egyéni vállalkozóról szóló törvény szerinti egyéni vállalkozói tevékenységet végez és az egyéni vállalkozók nyilvántartásában szerepel, továbbá az az egyéb magánszemély, akinek a tevékenységét törvény vállalkozási tevékenységnek minősíti, valamint a jogi személy, egyéb szervezet, amely rendszeresen üzletszerű gazdasági tevékenységet folytat,
 
 30. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) alapján nyújtható támogatás,
 
-31. minősített adózó: az a vállalkozási tevékenységet folytató személy, aki (amely) legalább a minősített adózói nyilvántartásba való felvétel iránti kérelem előterjesztésének napját megelőző 3 éven át működött, és a kérelem benyújtását megelőző elévülési időn belül az állami adóhatóság nem állapított meg a terhére adóhiányt, nem indított ellene végrehajtási eljárást, nem állt vagy áll csőd-, felszámolási, kényszer-végelszámolási, illetve kényszertörlési eljárás alatt, illetve az adózó egy naptári éven belül legfeljebb két fizetési könnyítés (adómérséklés) iránti kérelmet terjesztett elő. Az állami adóhatóság a minősített adózót, kérelmére az erre a célra létrehozott és közzétett nyilvántartásában tünteti fel. Ha a nyilvántartásba vételt követően az adózó a feltételek bármelyikének nem felel meg, az adóhatóság az adózót a nyilvántartásból törli,
+31. minősített adózó: az a vállalkozási tevékenységet folytató személy, aki (amely) legalább a minősített adózói nyilvántartásba való felvétel iránti kérelem előterjesztésének napját megelőző 3 éven át működött, és a kérelem benyújtását megelőző elévülési időn belül az állami adó- és vámhatóság nem állapított meg a terhére adóhiányt, nem indított ellene végrehajtási eljárást, nem állt vagy áll csőd-, felszámolási, kényszer-végelszámolási, illetve kényszertörlési eljárás alatt, illetve az adózó egy naptári éven belül legfeljebb két fizetési könnyítés (adómérséklés) iránti kérelmet terjesztett elő. Az állami adó- és vámhatóság a minősített adózót, kérelmére az erre a célra létrehozott és közzétett nyilvántartásában tünteti fel. Ha a nyilvántartásba vételt követően az adózó a feltételek bármelyikének nem felel meg, az adóhatóság az adózót a nyilvántartásból törli,
 
-32. köztartozásmentes adózói adatbázis: az állami adóhatóság honlapján közzétett, az adózó nevét, elnevezését, adóazonosító számát tartalmazó nyilvántartás, amely azokat az adózókat tartalmazza, akiknek/amelyeknek az alábbi együttes feltételek szerint
+32. köztartozásmentes adózói adatbázis: az állami adó- és vámhatóság honlapján közzétett, az adózó nevét, elnevezését, adóazonosító számát tartalmazó nyilvántartás, amely azokat az adózókat tartalmazza, akiknek/amelyeknek az alábbi együttes feltételek szerint
 
-a) a közzétételt megelőző hónap utolsó napján nincs az állami adóhatóságnál és vámhatóságnál nyilvántartott nettó adótartozása, valamint köztartozása;
+a) a közzétételt megelőző hónap utolsó napján nincs az állami adó- és vámhatóságnál nyilvántartott nettó tartozása, valamint köztartozása;
 
-b) nincs behajthatatlanság címén nyilvántartott, de el nem évült adótartozása;
+b) nincs behajthatatlanság címén nyilvántartott, de el nem évült tartozása;
 
 c) nyilatkozata alapján a közzétételt megelőző hónap utolsó napjáig esedékes bevallási és befizetési kötelezettségének maradéktalanul eleget tesz/tett;
 

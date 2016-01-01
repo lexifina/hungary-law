@@ -4,4 +4,4 @@
 
 (3) A leletezés megtörténtét a leletezett iraton fel kell tüntetni.
 
-(4) A leletet esetleges mellékleteivel együtt az állami adóhatóságnak kell megküldeni az illeték kiszabása végett.
+(4) A leletet esetleges mellékleteivel együtt az állami adó- és vámhatóságnak kell megküldeni az illeték kiszabása végett.

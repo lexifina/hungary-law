@@ -18,10 +18,12 @@ b) az adó-visszaigénylés és az adó-visszatérítés tekintetében a költs�
 
 vonatkozó rendelkezéseket kell alkalmazni.
 
-(4) E törvény hatálya nem terjed ki a társadalombiztosítási ellátásokra, valamint a közösségi vámjog végrehajtásáról szóló törvény hatálya alá tartozó kötelező befizetésekre (adó, illeték, díj, hozzájárulás, költség, bírság, kamat), ha azok megállapítása, beszedése, végrehajtása, visszatérítése, kiutalása vagy ellenőrzése a vámhatóság hatáskörébe tartozik. E törvényt kell alkalmazni
+(4) E törvény hatálya nem terjed ki a társadalombiztosítási ellátásokra, valamint a közösségi vámjog végrehajtásáról szóló törvény hatálya alá tartozó kötelező befizetésekre. E törvényt kell alkalmazni
 
-a) a vámazonosító szám megállapításával és a külön jogszabály alapján a vámhatóság hatáskörébe tartozó személyek nyilvántartásba vételével összefüggő eljárásokra a külön jogszabályban meghatározott eltérésekkel, valamint
+a) a vámazonosító szám megállapításával és a jogszabály alapján a vámhatóság hatáskörébe tartozó személyek nyilvántartásba vételével összefüggő eljárásokra a jogszabályban meghatározott eltérésekkel,
 
-b) a vámtartozás esetén az adóhatóság által a költségvetési támogatás vonatkozásában gyakorolható visszatartási jog tekintetében.
+b) a közösségi vámjog végrehajtásáról szóló törvény, illetve a közösségi vámjog eltérő rendelkezése hiányában e jogszabályok hatálya alá tartozó kötelező befizetések (vám, adó, díj, költség, bírság, pótlék, kamat) elszámolására, valamint
 
-(4a) E törvény hatálya kiterjed a távolról is nyújtható szolgáltatás utáni, az Európai Közösség más tagállamát megillető hozzáadottértékadó-fizetési és -bevallási kötelezettségre, ha az adózó ezen kötelezettségének az állami adóhatóság útján tesz eleget.
+c) jogszabály eltérő rendelkezése hiányában azon fizetési kötelezettségek elszámolására, amelynek megállapítása, nyilvántartása, beszedése, végrehajtása, visszatérítése, kiutalása vagy ellenőrzése a vámhatóság hatáskörébe tartozik.
+
+(4a) E törvény hatálya kiterjed a távolról is nyújtható szolgáltatás utáni, az Európai Közösség más tagállamát megillető hozzáadottértékadó-fizetési és -bevallási kötelezettségre, ha az adózó ezen kötelezettségének az állami adó- és vámhatóság útján tesz eleget.

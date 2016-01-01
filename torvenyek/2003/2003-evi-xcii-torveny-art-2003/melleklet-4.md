@@ -16,7 +16,7 @@ A nemzetközi egyezmény szerinti adót vonja le a kifizető, ha a kifizetés id
 
 4.
 
-5. Ha a külföldi illetőségű magánszemélytől levont adó mértéke magasabb, mint a nemzetközi egyezmény alapján alkalmazandó adómérték, akkor a külföldi illetőségű magánszemély az illetőségigazolás és a kifizető igazolása benyújtásával az állami adóhatóságnál adó-visszatérítési igényt terjeszthet elő. Az adókülönbözetet az adóhatóság a külföldi illetőségű magánszemély által megjelölt fizetési számlára utalja át.
+5. Ha a külföldi illetőségű magánszemélytől levont adó mértéke magasabb, mint a nemzetközi egyezmény alapján alkalmazandó adómérték, akkor a külföldi illetőségű magánszemély az illetőségigazolás és a kifizető igazolása benyújtásával az állami adó- és vámhatóságnál adó-visszatérítési igényt terjeszthet elő. Az adókülönbözetet az adóhatóság a külföldi illetőségű magánszemély által megjelölt fizetési számlára utalja át.
 
 6. Az adó-visszatérítésre irányuló eljárásban a külföldi illetőségű magánszemélyt az adóhatóság előtti képviseleti jogosultságát igazoló letétkezelő, a kifizető részvénykönyvébe az osztalékfizetés időpontjában részvényesi meghatalmazottként bejegyzett személy is képviselheti. A letétkezelő, illetőleg a részvényesi meghatalmazott az erre jogosult személynek a képviseletre további meghatalmazást, megbízást adhat.
 
@@ -38,4 +38,4 @@ A nemzetközi egyezmény szerinti adót vonja le a kifizető, ha a kifizetés id
 
 15. Az ingatlannal rendelkező társasági tagot adóelőleg bevallási és fizetési kötelezettség nem terheli. Az ingatlannal rendelkező társaság tagja az adót a naptári évet követő év november 20-áig megállapítja, befizeti és az erre a célra rendszeresített nyomtatványon bevallja.
 
-16. Ha az ingatlannal rendelkező társaság tagja adókötelezettségét azért nem tudja megállapítani és bevallani, mert az ingatlannal rendelkező társaság e minőségét nem jelentette be az állami adóhatósághoz, az állami adóhatóság által megállapított, a tagot emiatt később terhelő adóért a társaságot korlátlan és egyetemleges kötelezettség terheli.
+16. Ha az ingatlannal rendelkező társaság tagja adókötelezettségét azért nem tudja megállapítani és bevallani, mert az ingatlannal rendelkező társaság e minőségét nem jelentette be az állami adó- és vámhatósághoz, az állami adó- és vámhatóság által megállapított, a tagot emiatt később terhelő adóért a társaságot korlátlan és egyetemleges kötelezettség terheli.

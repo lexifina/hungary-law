@@ -2,7 +2,7 @@
 
 I.
 
-AZ ÁLLAMI ADÓHATÓSÁGHOZ BENYÚJTANDÓ ADÓBEVALLÁS IDŐPONTJA
+AZ ÁLLAMI ADÓ- ÉS VÁMHATÓSÁGHOZ BENYÚJTANDÓ ADÓBEVALLÁS IDŐPONTJA
 
 A) Általános rendelkezések
 
@@ -122,7 +122,7 @@ an) havonként kell adóbevallást benyújtania a bejelentkezés évének, valam
 
 b) Az átalakulással, az egyesüléssel, a szétválással létrejövő adózó általános forgalmiadó-bevallási kötelezettségének ugyanolyan gyakorisággal tesz eleget, mint az a szervezet, amelyből átalakult, egyesült vagy szétválás útján létrejött. Az átalakulással, egyesüléssel vagy szétválással létrejövő adózó a gyakoribb bevallásra kötelezett jogelőd bevallási gyakoriságának megfelelően tesz eleget általános forgalmiadó-bevallási kötelezettségének.
 
-c) Az új közlekedési eszköznek – a személygépkocsi, illetőleg a regisztrációs adó köteles motorkerékpár kivételével – az Európai Közösség más tagállamából történő beszerzése esetén fizetendő általános forgalmi adót az általános forgalmiadó-alanynak nem minősülő magánszemély, illetve egyéb szervezet, az általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany, illetve az egyszerűsített vállalkozói adóalany vevő az adófizetési kötelezettség keletkezését követő hó 20. napjáig vallja be és fizeti meg az állami adóhatósághoz.
+c) Az új közlekedési eszköznek – a személygépkocsi, illetőleg a regisztrációs adó köteles motorkerékpár kivételével – az Európai Közösség más tagállamából történő beszerzése esetén fizetendő általános forgalmi adót az általános forgalmiadó-alanynak nem minősülő magánszemély, illetve egyéb szervezet, az általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany, illetve az egyszerűsített vállalkozói adóalany vevő az adófizetési kötelezettség keletkezését követő hó 20. napjáig vallja be és fizeti meg az állami adó- és vámhatósághoz.
 
 d) Az alanyi adómentességet választó adóalany, kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, valamint a kizárólag mezőgazdásági tevékenységet folytató különleges jogállású adóalany az általános forgalmi adó bevallási kötelezettségének minden esetben havi gyakorisággal tesz eleget.
 

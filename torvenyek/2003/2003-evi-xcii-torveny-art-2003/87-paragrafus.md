@@ -18,4 +18,4 @@ ellenőrzéssel valósítja meg.
 
 (2) Ellenőrzéssel lezárt időszakot az (1) bekezdés a) pontjában meghatározott ellenőrzés teremt.
 
-(3) A vállalkozási tevékenységet folytató magánszemély saját magára vonatkozóan benyújtott, a 31. § (2) bekezdése szerinti bevallásának a benyújtás adóévében történő utólagos ellenőrzése nem teremt ellenőrzéssel lezárt időszakot.
+(3)

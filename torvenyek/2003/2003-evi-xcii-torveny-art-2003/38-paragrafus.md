@@ -28,4 +28,4 @@ is teljesítheti.
 
 (5) Költségvetési támogatás, adó-visszaigénylés faktorálása esetén – amennyiben az adózó bevallásához az erről szóló szerződést mellékeli – az adóhatóság a költségvetési támogatás, adó-visszaigénylés összegét a faktorálási tevékenységet végző pénzügyi intézmény bankszámlájára átutalással teljesíti. Az adóhatóság visszatartási jogát az adózó tartozása tekintetében gyakorolhatja. Az adózó bevallásában nem rendelkezhet arról, hogy az igényelt költségvetési támogatást, adó-visszaigénylést az adóhatóság az általa megjelölt adó megfizetésére számolja el. Késedelmes kiutalás esetén a késedelmi kamat a faktorálási tevékenységet végző pénzügyi intézményt illeti meg.
 
-(6) Jogszabály az illeték és az önkormányzati adóhatóság hatáskörébe tartozó adó tekintetében más fizetési módot is megjelölhet.
+(6) Jogszabály az e §-ban meghatározott fizetési módoktól eltérő fizetési módot is megállapíthat.

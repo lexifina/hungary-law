@@ -5,3 +5,5 @@
 (3) Az adóhatóság összehasonlítja az adózó bevallását, igénylését, illetve a határozattal előírt kötelezettségét a befizetett, a visszaigényelt adóval, adóelőleggel, a kiutalt költségvetési támogatással, és ennek alapján a késedelmi pótlékot megállapítja. Az adózó a késedelmi pótlékot saját számítása szerint, az értesítéstől függetlenül is megfizetheti.
 
 (4) Az adóhatóság hivatalból vagy kérelemre törli a tévesen felszámított késedelmi pótlékot. Ha az adózó a pótlék összegét továbbra is vitatja, a felettes adóhatóság határozatban dönt.
+
+(5) E törvény nettó pótlékszámításra vonatkozó rendelkezései a fizetési kötelezettséget megállapító jogszabály eltérő rendelkezése hiányában alkalmazandóak.
