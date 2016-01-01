@@ -8,6 +8,8 @@
 
 (4) Az egypontos ügyfélkiszolgálásra kialakított munkahelyek esetében nyitott pultrendszer mellett olyan automatikus pénzkiadó berendezés, illetve időzáras kassza alkalmazható, amelynek működtetése az intézmény számítógépes rendszerével közvetlen kapcsolatban áll.
 
-(5) A (2) és (4) bekezdésben említett pénztárakba kizárólag a Magyar Biztosítók Szövetsége által minősített időzáras eszközöket lehet telepíteni. Az időzáras védelem alá vont rekeszek késleltetési ideje nem lehet öt percnél kevesebb.
+(5)[^12]
 
 (6) A pénztárt elektronikus támadásjelzővel kell felszerelni és össze kell kapcsolni az épület vagyonvédelmi jelzőrendszerével.
+
+[^12]: A 9. § (5) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 3. §-a hatályon kívül helyezte.

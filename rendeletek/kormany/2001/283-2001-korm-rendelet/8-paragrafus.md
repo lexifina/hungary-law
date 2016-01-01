@@ -1,8 +1,8 @@
-## 7. §[^6]
+## 7. §[^9]
 
 ## Őrzés-védelem
 
-8. § (1) A szolgáltató és az elszámolóházi tevékenységet végző szervezet üzleti célú létesítményeiben őrzés-védelmet köteles biztosítani. A megfelelő őrzés-védelmet a vezető
+8. § (1)[^10] A szolgáltató és a központi értéktári, illetve központi szerződő fél tevékenységet végző szervezet üzleti célú létesítményeiben őrzés-védelmet köteles biztosítani. A megfelelő őrzés-védelmet a vezető
 
 a) a tárolt érték,
 
@@ -16,9 +16,10 @@ a) üzemi idő alatt őrszolgálatról kell gondoskodni ott, ahol a készpénz v
 
 b) huszonnégyórás őrszolgálatot kell biztosítani a működés szempontjából a vezető által stratégiai fontosságúnak ítélt épületben vagy épületrészben.
 
-(3)[^7] Az őrszolgálatot az a külön jogszabályban előírt szakvizsgával rendelkező személy- és vagyonőr láthatja el, aki írásos nyilatkozatban titoktartási kötelezettséget vállal.
+(3)[^11] Az őrszolgálatot az a külön jogszabályban előírt szakvizsgával rendelkező személy- és vagyonőr láthatja el, aki írásos nyilatkozatban titoktartási kötelezettséget vállal.
 
 (4) Nem kötelező az őrszolgálat működtetése olyan vagyonvédelmi biztosítás fennállása esetén, amely biztosítja, hogy az okozható kár megtérül.
 
-[^6]: A 7. §-t az 537/2013. (XII. 30.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^7]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 14. pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 7. §-t az 537/2013. (XII. 30.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^10]: A 8. § (1) bekezdés nyitó szövegrésze a 468/2015. (XII. 29.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^11]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 14. pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
