@@ -1,1 +1,0 @@
-A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Tv.) 178. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján – a Magyar Nemzeti Bank (a továbbiakban: MNB) előzetes véleményének kikérésével – a Kormány a következőket rendeli el:

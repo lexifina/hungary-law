@@ -1,7 +1,0 @@
-## Eredménykimutatás
-
-13. § (1)[^10] A Tv. 2. számú melléklete szerinti eredménykimutatásban az „Értékesítés nettó árbevétele” helyett az „Elszámolóházi tevékenység bevétele”-ként kell kimutatni az elszámolóházi és értéktári szolgáltatásokért felszámított forgalmazási jutalékot, a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközökre kötött ügylet elszámolására szóló jogosultságért felszámított díjat, egyéb jutalékokat, a letétkezelési és őrzési díjakat, a letéti igazolások kiállításáért, valamint az értékpapírok be- és kiszállításáért, az értékpapír transzferekért, az értékpapírszámla vezetésért, a részvénykönyv vezetéséért, az elszámolóházi tevékenységet segítő, kiegészítő tevékenységért, továbbá az egyéb – a Felügyelet által jóváhagyott díjszabályzatban rögzített – szolgáltatásokért felszámított díjakat.
-
-(2) A Tv. 2. számú melléklete szerinti eredménykimutatásban, ha az összköltségeljárással készül, akkor a megfelelő költségeket tartalmazó ráfordítások között, ha az forgalmi költségeljárással készül, akkor az „Értékesítés közvetlen költségei”, illetve az „Értékesítés közvetett költségei” között kell kimutatni az (1) bekezdés szerinti szolgáltatásokkal összefüggésben felmerülő közvetlen, illetve közvetett költségeket.
-
-[^10]: A 13. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 39. § a) pontja, az 518/2013. (XII. 30.) Korm. rendelet 56. § 4. pontja szerint módosított szöveg.
