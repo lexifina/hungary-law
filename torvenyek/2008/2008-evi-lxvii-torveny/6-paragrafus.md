@@ -6,7 +6,7 @@
 
 a)
 
-b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az ellenérték nélkül átvállalt kötelezettség egyéb vagy rendkívüli ráfordításként az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ide nem értve az állam vagy a helyi önkormányzat részére történő, törvényben meghatározott kötelezettségen alapuló juttatást,
+b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az ellenérték nélkül átvállalt kötelezettség az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ide nem értve az állam vagy a helyi önkormányzat részére történő, törvényben meghatározott kötelezettségen alapuló juttatást,
 
 c) az adóalany jogutódlással (átalakulással, egyesüléssel, szétválással) történő megszűnése esetén a jogelődnél utolsó adóévében, az adóalanyból történő kiválás esetén a jogutódnál első adóévében, a végleges vagyonmérlegében kimutatott pozitív összevont átértékelési különbözet a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék felértékelésével növelt, valamint korábban az adózás előtti eredményt növelő tételként számításba vett céltartalék leértékelésével csökkentett összege, a (4) bekezdésben meghatározott kivétellel,
 
@@ -28,7 +28,7 @@ b) az adózás előtti eredmény javára elszámolt visszafizetési kötelezetts
 
 c) a kedvezményezett részesedéscsere alapján kivezetett részesedésre az adóévben elszámolt árfolyamnyereség a megszerzett társaság tagjánál (részvényesénél), ha a tag (a részvényes) alkalmazni kívánja e csökkentő tételt, feltéve, hogy a tag (a részvényes) a kedvezményezett részesedéscsere alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
 
-d) a kedvezményezett átalakulásban részt vevő társaság tagjánál (részvényesénél) az átalakulás, egyesülés, szétválás következtében kivezetett részesedés könyv szerinti értékét meghaladóan a társaság jogutódjában szerzett részesedés bekerülési értékeként az adóévben elszámolt bevétel, ha a tag (a részvényes) alkalmazni kívánja e csökkentő tételt, feltéve, hogy a tag (a részvényes) a kedvezményezett átalakulás alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
+d) a kedvezményezett átalakulásban részt vevő társaság tagjánál (részvényesénél) az átalakulás, egyesülés, szétválás következtében az adóévben elszámolt bevétel, ha a tag (a részvényes) alkalmazni kívánja e csökkentő tételt, feltéve, hogy a tag (a részvényes) a kedvezményezett átalakulás alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
 
 e) kedvezményezett eszközátruházás esetén az átruházó társaságnál – választása szerint, az átvevő társasággal írásban kötött szerződés alapján, az (5) bekezdésben meghatározott feltételekkel – az önálló szervezeti egység átruházása alapján elszámolt bevételnek az átadott eszközök könyv szerinti értékét meghaladó része,
 
