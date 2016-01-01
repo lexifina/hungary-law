@@ -1,33 +1,40 @@
-## 14. § A jelzéskezelő a tárgyakra vonatkozó figyelmeztető jelzések – ide nem értve az okmányokhoz kapcsolódó figyelmeztető jelzéseket – NS.CP-be történő továbbítása előtt a 13. § (1)–(2) és (4)–(6) bekezdésében foglaltak értelemszerű alkalmazásával jár el.
+## 14. §[^7] A jelzéskezelő a tárgyakra vonatkozó figyelmeztető jelzések – ide nem értve az okmányokhoz kapcsolódó figyelmeztető jelzéseket – NS.CP-be történő továbbítása előtt a 13. § (1)–(2) és (4)–(8) bekezdésében foglaltak értelemszerű alkalmazásával jár el.
 
-## 7. A figyelmeztető jelzések elsőbbségi szabályai
+## 7. [^8] A figyelmeztető jelzések elsőbbségi szabályai
 
-15. § (1) A személyre vonatkozó figyelmeztető jelzések prioritási sorrendje a következő:
+15. § (1) A személyekre vonatkozó figyelmeztető jelzések prioritási sorrendje a következő:
 
-a) átadási vagy kiadatási letartóztatásra irányuló figyelmeztető jelzés,
+a) az átadási vagy kiadatási letartóztatásra irányuló figyelmeztető jelzés,
 
 b) a schengeni államokba történő beutazás és tartózkodás megtagadására irányuló figyelmeztető jelzés,
 
-c) védelem alá helyezésre irányuló figyelmeztető jelzés,
+c) a védelem alá helyezésre irányuló figyelmeztető jelzés,
 
-d) célzott ellenőrzésre irányuló figyelmeztető jelzés,
+d) az azonnali intézkedést igénylő célzott ellenőrzésre irányuló figyelmeztető jelzés,
 
-e) rejtett ellenőrzésre irányuló figyelmeztető jelzés,
+e) az azonnali intézkedést nem igénylő célzott ellenőrzésre irányuló figyelmeztető jelzés,
 
-f) tartózkodási hely közlésére irányuló figyelmeztető jelzés.
+f) az azonnali intézkedést igénylő rejtett ellenőrzésre irányuló figyelmeztető jelzés,
+
+g) az azonnali intézkedést nem igénylő rejtett ellenőrzésre irányuló figyelmeztető jelzés, majd
+
+h) a tartózkodási hely közlésére irányuló figyelmeztető jelzés.
 
 (2) A tárgyakra vonatkozó figyelmeztető jelzések prioritási sorrendje a következő:
 
-a) büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés,
+a) a büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés,
 
-b) lefoglalásra irányuló figyelmeztető jelzés,
+b) az érvénytelenített úti okmány lefoglalására irányuló figyelmeztető jelzés,
 
-c) célzott ellenőrzésre irányuló figyelmeztető jelzés,
+c) a b) pontban meghatározottól eltérő lefoglalásra irányuló figyelmeztető jelzés,
 
-d) rejtett ellenőrzésre irányuló figyelmeztető jelzés.
+d) az azonnali intézkedést igénylő célzott ellenőrzésre irányuló figyelmeztető jelzés,
 
-(3) Ha a közrendet vagy a közbiztonságot fenyegető komoly veszély megelőzésének érdekében, vagy jelentős nemzetbiztonsági okból, illetve súlyos bűncselekmény megelőzése céljából szükséges az (1)–(2) bekezdésében meghatározott sorrendtől való eltérés,
+e) az azonnali intézkedést nem igénylő célzott ellenőrzésre irányuló figyelmeztető jelzés,
 
-a) a SIS II tv. 5. § (9)–(11) bekezdése szerinti esetben az érintett magyar jelzéskezelők a kijelölt kapcsolattartókon keresztül egymással írásban egyeztetnek,
+f) az azonnali intézkedést igénylő rejtett ellenőrzésre irányuló figyelmeztető jelzés, majd
 
-b) a SIS II tv. 5. § (6)–(8) bekezdése szerinti esetben az érintett jelzéskezelő indítványára a SIRENE Iroda egyeztetést kezdeményez a CS.SIS-ben tárolt figyelmeztető jelzést elhelyező állam SIRENE Irodájával.
+g) az azonnali intézkedést nem igénylő rejtett ellenőrzésre irányuló figyelmeztető jelzés.
+
+[^7]: A 14. § a 443/2015. (XII. 28.) Korm. rendelet 12. § b) pontja szerint módosított megállapított szöveg.
+[^8]: A 7. alcím (15. §) a 443/2015. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.

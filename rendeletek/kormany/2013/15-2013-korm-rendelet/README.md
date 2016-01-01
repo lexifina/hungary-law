@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-15-20-2
 | 2013-04-10 | 2013-15-20-22.4 | 2010: CXXX. törvény |
 | 2013-05-11 | 2013-15-20-22.5 | 2010: CXXX. törvény |
 | 2014-01-01 | 2013-15-20-22.6 | 447/2013. (XI. 28.) Korm. rendelet |
+| 2016-01-01 | 2013-15-20-22.7 | 443/2015. (XII. 28.) Korm. rendelet |

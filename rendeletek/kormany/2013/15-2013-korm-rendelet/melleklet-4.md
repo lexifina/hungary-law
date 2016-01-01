@@ -6,9 +6,9 @@
 
 ## [Rejtett ellenőrzésre irányuló figyelmeztető jelzés kivételével valamennyi külföldi figyelmeztető jelzés esetén elért találatnál alkalmazandó!]
 
-## Ügyszám
+## Ügyszám:
 
-## Schengeni azonosító kód
+## Schengeni azonosító kód:
 
 ## Az ellenőrzött személy azonosító adatai
 
@@ -24,6 +24,8 @@
 
 ## Egyéb ismert nevek (álnevek)
 
+## Lakóhelye, tartózkodási hely vagy elérhetősége
+
 ## Az ellenőrzött tárgy azonosító adatai
 
 ## Jármű típusa
@@ -37,6 +39,8 @@
 ## Sajátos tulajdonság, ismertetőjegy
 
 ## A gépjármű vezetőjének személyazonosító adatai
+
+## Lakóhelye, tartózkodási hely vagy elérhetősége
 
 ## Okirat fajtája
 
