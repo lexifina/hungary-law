@@ -88,17 +88,17 @@ b) napi 6 órában, amelynek magában kell foglalnia a 16.00–18.00 óra közö
 
 c) az IKSZT nyitvatartási ideje nem lehet rövidebb az ügyfél által a támogatási kérelemben vállalt nyitvatartási időnél, azonban az ügyfél ünnepnapokon a vállalt, vagy meghirdetett nyitva tartástól eltérhet.
 
-(7)[^20] A (2) bekezdés a) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább három alkalommal agrár-, vagy vidékfejlesztési területen tevékenykedő szakmai szervezet képviselője által lebonyolítandó előadás, képzés, tanfolyam, tréning, fogadóóra programlehetőségek közül legalább egyet megszervezni.
+(7)[^20] A (2) bekezdés a) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább hat alkalommal agrár-, vagy vidékfejlesztési területen tevékenykedő szakmai szervezet képviselője által lebonyolítandó előadás, képzés, tanfolyam, tréning, fogadóóra programlehetőségek közül legalább egyet megszervezni.
 
-(8)[^21] A (2) bekezdés b) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább három alkalommal a 12–29 éves korosztály számára az ő igényeikre alapozva, a fiatalok aktív részvételével kialakított programot szervezni az alkotótábor, diszkó, erdei iskolai programok, ifjúsági fesztivál, ifjúsági klub, ifjúsági tábor, ifjúsági találkozó, képzés, kirándulás, koncert, műhelymunka (workshop), művészeti programok, nyári egyetem, önismereti program, önkéntes programok, önsegítő csoport, sportprogramok, szakkör, tanfolyam, tréning, vetélkedő program, kézműves foglalkozások lehetőségek közül.
+(8)[^21] A (2) bekezdés b) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább hat alkalommal a 12–29 éves korosztály számára az ő igényeikre alapozva, a fiatalok aktív részvételével kialakított programot szervezni az alkotótábor, diszkó, erdei iskolai programok, ifjúsági fesztivál, ifjúsági klub, ifjúsági tábor, ifjúsági találkozó, képzés, kirándulás, koncert, műhelymunka (workshop), művészeti programok, nyári egyetem, önismereti program, önkéntes programok, önsegítő csoport, sportprogramok, szakkör, tanfolyam, tréning, vetélkedő program, kézműves foglalkozások lehetőségek közül.
 
-(9)[^22] A (2) bekezdés c) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább három alkalommal szabadidős, illetve közművelődési programot szervezni, amely lehet amatőr művészeti klub, alkotótábor, felnőttképzési program, fesztivál, filmvetítés, hagyományőrző program, ismeretterjesztő előadás, kiállítás, koncert, műhelymunka (workshop), művészeti programok, népfőiskola, önképzőkör, szakkör, színházi előadás, tanfolyam, tréning, színház-, mozi-, kiállítás-, illetve múzeumlátogatás.
+(9)[^22] A (2) bekezdés c) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább hat alkalommal szabadidős, illetve közművelődési programot szervezni, amely lehet amatőr művészeti klub, alkotótábor, felnőttképzési program, fesztivál, filmvetítés, hagyományőrző program, ismeretterjesztő előadás, kiállítás, koncert, műhelymunka (workshop), művészeti programok, népfőiskola, önképzőkör, szakkör, színházi előadás, tanfolyam, tréning, színház-, mozi-, kiállítás-, illetve múzeumlátogatás.
 
-(10)[^23] A (2) bekezdés d) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles két szakmai beszámolási időszak alatt legalább egy alkalommal a vállalkozások működtetéséhez kapcsolódó cégjogi, pénzügyi, számviteli, adózási és egyéb üzletviteli, gazdálkodási ismeretekről szóló tájékoztató programot előadás, képzés, tanfolyam, tréning, vállalkozói klub, fogadóóra keretében megszervezni.
+(10)[^23] A (2) bekezdés d) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább egy alkalommal a vállalkozások működtetéséhez kapcsolódó cégjogi, pénzügyi, számviteli, adózási és egyéb üzletviteli, gazdálkodási ismeretekről szóló tájékoztató programot előadás, képzés, tanfolyam, tréning, vállalkozói klub, fogadóóra keretében megszervezni.
 
-(11)[^24] A (2) bekezdés e) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább egy alkalommal könyvtári és információs szolgáltatások használatával, előnyeivel, lehetőségeivel, illetve a könyvtárban megtalálható szellemi – irodalmi, tudományos – értékek terjesztésével kapcsolatos tájékoztató programot, előadást, képzést, klubot, szakkört, tanfolyamot, valamint olvasókultúra fejlesztő programot szervezni.
+(11)[^24] A (2) bekezdés e) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább két alkalommal könyvtári és információs szolgáltatások használatával, előnyeivel, lehetőségeivel, illetve a könyvtárban megtalálható szellemi – irodalmi, tudományos – értékek terjesztésével kapcsolatos tájékoztató programot, előadást, képzést, klubot, szakkört, tanfolyamot, valamint olvasókultúra fejlesztő programot szervezni.
 
-(12)[^25] A (2) bekezdés f) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább egy alkalommal a digitális írástudás elterjesztésével, vagy az internet használatával kapcsolatos programot előadás, képzés, tanfolyam vagy klub keretében megszervezni.
+(12)[^25] A (2) bekezdés f) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az ügyfél köteles szakmai beszámolási időszakonként legalább két alkalommal a digitális írástudás elterjesztésével, vagy az internet használatával kapcsolatos programot előadás, képzés, tanfolyam vagy klub keretében megszervezni.
 
 (13) Egy program szervezése csak egy szolgáltatásnyújtáshoz kapcsolódhat.
 
@@ -115,12 +115,12 @@ c) az IKSZT nyitvatartási ideje nem lehet rövidebb az ügyfél által a támog
 [^17]: A 7. § (2) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^18]: A 7. § (2a) bekezdését a 84/2012. (VIII. 2.) VM rendelet 4. § (1) bekezdése iktatta be.
 [^19]: A 7. § (6) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^20]: A 7. § (7) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^21]: A 7. § (8) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^22]: A 7. § (9) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^23]: A 7. § (10) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^24]: A 7. § (11) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^25]: A 7. § (12) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^20]: A 7. § (7) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § c) pontja szerint módosított szöveg.
+[^21]: A 7. § (8) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § c) pontja szerint módosított szöveg.
+[^22]: A 7. § (9) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § c) pontja szerint módosított szöveg.
+[^23]: A 7. § (10) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § d) pontja szerint módosított szöveg.
+[^24]: A 7. § (11) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § e) pontja szerint módosított szöveg.
+[^25]: A 7. § (12) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított, az 53/2015. (XII. 1.) MvM rendelet 16. § e) pontja szerint módosított szöveg.
 [^26]: A 7. § (14) bekezdését a 84/2012. (VIII. 2.) VM rendelet 4. § (3) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § c) pontja szerint módosított szöveg.
 [^27]: A 7. § (15) bekezdését a 84/2012. (VIII. 2.) VM rendelet 4. § (3) bekezdése iktatta be.
 [^28]: A 7. § (16) bekezdését a 84/2012. (VIII. 2.) VM rendelet 4. § (3) bekezdése iktatta be.

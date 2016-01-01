@@ -38,9 +38,9 @@ p)[^8] IKSZT szolgáltatási- és programterv: az IKSZT kötelező és vállalt 
 
 q)[^9] IKSZT szolgáltatás-tervezési és beszámolási felület: a Herman Ottó Intézet által üzemeltetett, az IKSZT címbirtokos szervezet IKSZT szolgáltatási- és programtervének elkészítésére, feltöltésére, ellenőrzésére alkalmas online felület, amely egyben elsődleges kommunikációs csatorna az IH, a Herman Ottó Intézet és az IKSZT címbirtokosok között;
 
-r)[^10] szakmai beszámoló: az ügyfél által az üzemeltetési kötelezettség ideje alatt az IKSZT szolgáltatási- és programterv alapján megvalósított tevékenységéről a Herman Ottó Intézet részére a szakmai beszámolási időszakra vonatkozóan negyedévenként elkészített és elektronikus úton benyújtott beszámoló;
+r)[^10] szakmai beszámoló: az ügyfél által az üzemeltetési kötelezettség ideje alatt az IKSZT szolgáltatási- és programterv alapján megvalósított tevékenységéről a Herman Ottó Intézet részére a szakmai beszámolási időszakra vonatkozóan félévenként elkészített és elektronikus úton benyújtott beszámoló;
 
-s)[^11] szakmai beszámolási időszak: az a beszámolással érintett naptári negyedév, amely időszakról az ügyfél elkészíti a szakmai beszámolóját;
+s)[^11] szakmai beszámolási időszak: az a beszámolással érintett naptári félév, amely időszakról az ügyfél elkészíti a szakmai beszámolóját;
 
 t)[^12] teljesítésigazolás: a Herman Ottó Intézet által kiállított, a szakmai beszámoló értékeléséről szóló, az IKSZT címbirtokosság alapján az ügyfelet terhelő szakmai kötelezettségek teljesítését igazoló okirat.
 
@@ -55,6 +55,6 @@ t)[^12] teljesítésigazolás: a Herman Ottó Intézet által kiállított, a sz
 [^7]: A 2. § (1) bekezdés o) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
 [^8]: A 2. § (1) bekezdés p) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
 [^9]: A 2. § (1) bekezdés q) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 47/2013. (VI. 7.) VM rendelet 3. § (1) bekezdésével megállapított, a 33/2015. (VII. 13.) MvM rendelet 6. § a)–b) pontja szerint módosított szöveg.
-[^10]: A 2. § (1) bekezdés r) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
-[^11]: A 2. § (1) bekezdés s) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^10]: A 2. § (1) bekezdés r) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja, az 53/2015. (XII. 1.) MvM rendelet 16. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés s) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege az 53/2015. (XII. 1.) MvM rendelet 16. § b) pontja szerint módosított szöveg.
 [^12]: A 2. § (1) bekezdés t) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-112-20-
 | 2015-06-10 | 2009-112-20-82.11 | 8/2014. (XI. 19.) MvM rendelet |
 | 2015-07-14 | 2009-112-20-82.12 | 84/2012. (VIII. 2.) VM rendelet |
 | 2015-07-23 | 2009-112-20-82.13 | 34/2015. (VII. 22.) MvM rendelet |
+| 2016-01-01 | 2009-112-20-82.14 | 84/2012. (VIII. 2.) VM rendelet |
