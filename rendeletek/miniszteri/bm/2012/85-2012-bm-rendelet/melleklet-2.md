@@ -20,4 +20,4 @@ Az ideiglenes külföldi kiküldetést teljesítők szállásköltség-kerete f�
 
 | Ázsia | USD | 200 | 150 |
 
-[^33]: A 2. melléklet a 35/2015. (VI. 16.) BM rendelet 7. §-ával megállapított szöveg.
+[^33]: A 2. melléklet a 35/2015. (VI. 16.) BM rendelet 7. §-ával megállapított szöveg. A 2. melléklet megjelölése a 77/2015. (XII. 22.) BM rendelet 3. § (2) bekezdése szerint módosított szöveg.
