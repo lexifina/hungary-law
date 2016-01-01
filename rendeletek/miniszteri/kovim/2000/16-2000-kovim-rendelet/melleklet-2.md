@@ -2900,9 +2900,15 @@ a) bármely irányba mindaddig, amíg az érkező légijármű meg nem kezdte a 
 
 b) a megközelítés irányának reciprokától legalább 45 fokkal eltérő irányba: miután az érkező légijármű megkezdte a végső megközelítésre vezető eljárásfordulóját, vagy alapfordulóját, feltéve, hogy a felszállás azon időpont előtt legalább 3 perccel megtörténik, mielőtt még az érkező légijármű várhatóan át repüli a műszeres futópálya küszöbét (lásd az 5-38 ábrát).
 
-5.7.1.2 Ha az érkező légijármű közvetlen megközelítést végez, az induló légijármű felszállhat:
+5.7.1.2 Ha az érkező légijármű közvetlen megközelítést hajt végre, az induló légijármű felszállhat:
 
-a) bármely irányba feltéve, hogy a felszállás 5 perccel azon időpont előtt megtörténik, amikorra az érkező légijármű a műszeres futópálya küszöbe fölé várható,
+a) bármely irányba, feltéve, hogy a felszállás 5 perccel azon időpont előtt megtörténik, amikorra az érkező légijármű a műszeres futópálya küszöbe fölé várható,
+
+b) az érkező légijármű megközelítési irányának reciprokától legalább 45 fokkal eltérő irányba:
+
+ba) ha a felszállás legalább 3 perccel azon időpont előtt megtörténik, amikorra az érkező légijármű a műszeres futópálya küszöbe fölé várható (5–38 ábra), vagy
+
+bb) addig, amíg az érkező légijármű át nem repüli azt a végső megközelítési nyomvonalon lévő pontot, amelyet az adott repülőtéren az illetékes légiforgalmi szolgáltató határoz meg.
 
 a) a légijárműveket VOR/DME berendezéssel kijelölt ATS útvonalakon kell vezetni, vagy
 
@@ -3200,25 +3206,47 @@ Az ATC egységeknek a helyi előírásoknak megfelelően azonnal jelenteniük ke
 
 4.15 ADATKAPCSOLAT ÖSSZEKÖTTETÉST KEZDEMÉNYEZŐ ELJÁRÁSOK
 
-4.15.1 Egy olyan légtérbe történő belépést megelőzően, ahol az ATS egységek adatkapcsolat összeköttetést követelnek meg, adatkapcsolat összeköttetést kell kezdeményezni a légijármű és az ATS egység között abból a célból, hogy adott légijárművet a rendszerbe beírják, és ha szükséges, lehetővé tegyék az adatkapcsolat alkalmazásának indítását. Az adatkapcsolat összeköttetést a légijárműnek kell kezdeményeznie akár automatikusan, akár a légijárművezető által, vagy ha azt az ATS egység kezdeményezi, cím továbbítással.
+4.15.1 Általános rész
 
-Megjegyzés: Útmutató anyag az adatkapcsolat kezdeményezésének lehetőségéről (DLIC) a Kézikönyv az Adatkapcsolat Alkalmazásáról a Légiforgalmi Szolgálatoknál című kiadványban (ICAO Doc 9694) található.
+4.15.1.1 Egy olyan légtérbe történő belépést megelőzően, ahol az ATS egység adatkapcsolat összeköttetést követel meg, adatkapcsolat összeköttetést kell kezdeményezni a légijármű és az ATS egység között abból a célból, hogy a légijármű a rendszerben azonosítható legyen, és ha szükséges, lehetővé tegyék az adatkapcsolat alkalmazásának indítását. Az adatkapcsolat összeköttetést
 
-4.15.1.1 Az ATS egységek DLIC címeit AIP-ben kell közzétenni.
+a) a légijármű automatikusan,
 
-Megjegyzés: Egy adott FIR akár több DLIC címmel is rendelkezhet, illetve több FIR használhat egy ugyanazon DLIC címet.
+b) a légijármű-vezető manuálisan vagy
 
-4.15.2 Adatkapcsolat kezdeményezése légijárműről
+c) az ATS egység
 
-Amikor egy légijárművezető, vagy egy légijármű adatkapcsolatú összeköttetést kezdeményez, egy indító üzenetet kell küldenie. Az ATS egység csak az elrontott, hibás indító üzenetet utasíthatja vissza.
+cím továbbítással kezdeményezi.
 
-4.15.3 Adatkapcsolat kezdeményezése ATS egységtől
+4.15.1.2 Az ATS egység adatkapcsolat kezdeményező képességhez (DLIC) tartozó címét AIP-ben kell közzétenni.
 
-Ahol a légijárművel adatkapcsolatú összeköttetést tartó földi rendszer képes a légijármű szükséges cím információját valamely más ATS egység részére továbbítani, az adott légijármű számára az előzetesen koordinált címet kellő időben kell közölni, lehetővé téve az adatkapcsolat összeköttetés időben történő létrehozását.
+4.15.2 Légijármű adatkapcsolat kezdeményezése
+
+Légijármű adatkapcsolat összeköttetés kezdeményezése esetén indító üzenetet kell küldenie. Az ATS egység csak az elrontott, hibás indító üzenetet utasíthatja vissza.
+
+4.15.3 ATS egység adatkapcsolat továbbítása
+
+Ha a légijárművel adatkapcsolat összeköttetést tartó földi rendszer képes a légijármű címét más ATS egység részére továbbítani, a továbbító ATS egységnek az előzetesen koordinált földi címzési információt kellő időben kell továbbítania a légijármű számára az adatkapcsolat összeköttetés létrehozása érdekében.
 
 4.15.4 Hibás üzenet
 
-Hibás adatkapcsolat kezdeményezésekor tájékoztatni kell az adatkapcsolatot hibásan kezdeményező feladót.
+4.15.4.1 Hibás kezdeményezéskor az adatkapcsolat rendszer jelzi a hibát a légiforgalmi irányító és a légijármű felé.
+
+4.15.4.2 Az ATS egységnek eljárásokat kell kidolgoznia az adatkapcsolat kezdeményezési hibák megoldására. Az eljárásoknak legalább a következőket kell tartalmaznia:
+
+a) ha van repülési terv, meg kell bizonyosodni arról, hogy a légijármű azonosítója, lajstromjele és egyéb, az adatkapcsolat kezdeményezési kérésben található adatok megegyeznek a repülési tervben szereplő adatokkal, eltérés esetén végre kell hajtani a szükséges változtatásokat,
+
+b) ha nincs repülési terv, a repülési terv adatfeldolgozó rendszerben készíteni kell egy érvényes repülési tervet a szükséges adatokkal, a sikeres adatkapcsolati bejelentkezés érdekében, majd
+
+c) újra kell kezdeményezni a bejelentkezési eljárást.
+
+4.15.4.3 A légijármű üzembentartójának eljárásokat kell kidolgoznia az adatkapcsolat kezdeményezési hibák megoldására. Az eljárásoknak legalább a következőt kell előírnia a légijármű-vezető részére:
+
+a) meg kell bizonyosodnia, hogy a Fedélzeti Számítógépes Vezérlő Rendszerben (FMS) vagy a CPDLC bejelentkezésért felelős fedélzeti berendezésben szereplő adatok helyesek és megegyeznek a repülési tervben szereplő adatokkal, és eltérés esetén el kell végeznie a szükséges változtatásokat,
+
+b) ellenőriznie kell a légiforgalmi szolgálati egység címének helyességét, és
+
+c) újra kell kezdeményeznie a bejelentkezési eljárást.
 
 4.16 AZ EUR RVSM LÉGTÉRBE BELÉPŐ, ILLETVE EZEN LÉGTÉRBŐL KILÉPŐ LÉGIJÁR-MŰVEKRE VONATKOZÓ ELŐÍRÁSOK
 
@@ -3669,12 +3697,6 @@ g) a két futópálya meghosszabbított középvonalaitól egyenlő távolságra
 h) az egyes futópályákra végzett megközelítéseket külön radarirányítók ellenőrzik, és amikor az 1000 láb (300 m) függőleges elkülönítés lecsökken, biztosítják, hogy:
 
 1. a légijárművek ne sértsék meg a biztonsági zónát, és
-
-b) Az érkező légijármű megközelítési irányának reciprokától legalább 45 fokkal eltérő irányba:
-
-1. ha a felszállás legalább 3 perccel azon időpont előtt megtörténik, amikorra az érkező légijármű a műszeres futópálya küszöbe fölé várható (lásd az 5-38 ábrát), vagy
-
-2. mindaddig, míg az érkező légijármű át nem repüli a végső megközelítési nyomvonalán a földetérési ponttól számított 4 NM (7,4 km) távolságot.
 
 5-38. ábra. Induló és érkező légijárművek közötti elkülönítés (lásd 5.7.1.1 b) és 5.7.1.2 b))
 
@@ -4909,15 +4931,5 @@ c) értesítenie kell az „S” módot azonosítási célra felhasználó köve
 8.5.4 „C” mód alkalmazásán alapuló magassági tájékoztatás
 
 8.5.4.1 „C” módtól származó magasság tájékoztatás pontosságának ellenőrzése
-
-8.5.4.1.1 Budapest FIR ellenőrzött légtereiben az irányító számára megjelenített „C” módtól származó magasság tájékoztatás pontosságának megállapításához használatos tűréshatár érték ± 200 láb (± 60 m). Budapest FIR egyéb légtereiben ez a tűréshatár érték ± 300 láb (± 90 m).
-
-Ezen értékek elérésekor, vagy ezeket meghaladó eltérés esetén az irányítók kérhetik a „C” módú információ adásának megszüntetését.
-
-Megjegyzés: Amennyiben a transzponder műszaki sajátosságai következtében a „C” mód kikapcsolása az „A” módú üzemet is megszakítja, erre a légijármű vezetőjének figyelmeztetnie kell az irányítót.
-
-8.5.4.1.2 Az irányító számára megjelenített „C” módtól származó magasság tájékoztatás pontosságát minden megfelelően felszerelt ATC egység, legalább egyszer ellenőrizze az érintett légijárművel való első összeköttetés felvételekor, vagy ha ez nem megvalósítható, utána amilyen hamar csak lehetséges. Az ellenőrzés ugyanezen légijárműtől rádiótávbeszélőn kapott, magasságmérőtől származó magasság tájékoztatással való egyidejű összehasonlítás útján történjen. Azon légijármű vezetőjét, akinek „C” módtól származó magasság tájékoztatása a jóváhagyott tűrésértéken belül van, az ilyen ellenőrzés eredményéről nem kell tájékoztatni.
-
-8.5.4.1.3 Ha a megjelenített magasság tájékoztatás nincs a jóváhagyott tűrésértéken belül, vagy ha az ellenőrzés végrehajtása után a későbbiek során bármikor a jóváhagyott tűrésértéket meghaladó eltérést észlelnek, a légijárművezetőt erről értesíteni kell, és fel kell kérni, hogy ellenőrizze a nyomás beállítását és erősítse meg magasságát.
 
 [^7]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a, a 15/2014. (IV. 3.) NFM rendelet 2. §-a, a 4/2015. (II. 3.) NFM rendelet 2. § b) pontja, a 65/2015. (XI. 13.) NFM rendelet 4. § a) pontja szerint módosított szöveg.
