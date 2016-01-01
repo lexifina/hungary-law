@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-235-20-
 | 2014-10-01 | 1997-235-20-22.13 | 71/2014. (III. 13.) Korm. rendelet |
 | 2015-01-01 | 1997-235-20-22.14 | 251/2006. (XII. 6.) Korm. rendelet |
 | 2015-04-01 | 1997-235-20-22.15 | 173/2009. (VIII. 29.) Korm. rendelet |
+| 2016-01-01 | 1997-235-20-22.16 | 418/2015. (XII. 23.) Korm. rendelet |

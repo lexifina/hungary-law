@@ -1,3 +1,10 @@
-## 16. §[^23] A 2014. július 1-jén hatályos 2. számú melléket szerinti adatlap-rendszert a 2014. június 30-át követően gyermekvédelmi gondoskodásba kerülő gyermekek tekintetében, valamint a 2014. július 1-jét megelőző időponttól gyermekvédelmi gondoskodás alatt álló gyermekekkel kapcsolatos új esemény – ideértve a nevelésbe vétel felülvizsgálatát is – rögzítése esetén kell alkalmazni.
+## 16. §[^43] A 2014. július 1-jén hatályos 2. számú melléket szerinti adatlap-rendszert a 2014. június 30-át követően gyermekvédelmi gondoskodásba kerülő gyermekek tekintetében, valamint a 2014. július 1-jét megelőző időponttól gyermekvédelmi gondoskodás alatt álló gyermekekkel kapcsolatos új esemény – ideértve a nevelésbe vétel felülvizsgálatát is – rögzítése esetén kell alkalmazni.
 
-[^23]: A 16. §-t a 71/2014. (III. 13.) Korm. rendelet 6. §-a iktatta be.
+17. §[^44] (1) A 2016. január 1-jén szolgáltatói nyilvántartásban jogerősen bejegyzettként szereplő bölcsőde és fenntartója adatait – a Hivatal által 2016. január 8-áig átadott adatok alapján és szükség szerint a Hivatallal történt adategyeztetést követően, továbbá a fenntartó, illetve az intézmény (2) bekezdés szerinti adatszolgáltatása alapján – az Oktatási Hivatal a KIR honlapján legkésőbb 2016. január 31-éig hozzáférhetővé teszi, egyidejűleg elektronikus úton megküldi a hatjegyű köznevelési azonosítót az intézmény, a fenntartó és a Kincstár részére.
+
+(2) Az Oktatási Hivatal az (1) bekezdés szerinti intézményt, illetve fenntartót kapcsolattartója útján – a Hivatal által történő adatátadást követően nyolc napon belül – elektronikus úton megkeresi az intézményvezető nevének, elérhetőségének, illetve a fenntartó képviseletére jogosult személy nevének, beosztásának és elérhetőségének megkérése érdekében. Az intézmény, illetve a fenntartó kapcsolattartója az adatokat a megkeresést követő nyolc napon belül elektronikus úton megküldi az Oktatási Hivatal részére.
+
+(3) Az (1) bekezdés alapján a KIR honlapján szereplő bölcsőde intézményvezetője a pedagógus-munkakörben foglalkoztatottak létszámára és feladatellátásuk helyére vonatkozó adatokat a hatjegyű köznevelési azonosító megérkezését követően haladéktalanul megadja a KIR honlapján.
+
+[^43]: A 16. §-t a 71/2014. (III. 13.) Korm. rendelet 6. §-a iktatta be.
+[^44]: A 17. §-t a 71/2014. (III. 13.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 71/2014. (III. 13.) Korm. rendelet 10. § (2) bekezdés b) pontja, újonnan a 418/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
