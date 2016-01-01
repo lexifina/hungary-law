@@ -20,6 +20,8 @@ d) a szolgáltatás jellegét és mennyiségét.
 
 (7) A kérelemnek megfelelő ingatlanok és szolgáltatások az igénybevevő részére történő kijelölésére vonatkozó határozati javaslatot az ingatlan fekvése, vagy a szolgáltatás helye szerint illetékes katonai igazgatási szerv az illetékes megyei, fővárosi védelmi bizottság elé terjeszti.
 
-(8) A megyei, fővárosi védelmi bizottság a kérelem beérkezését követő naptól számított 90 napon belül határozatában kijelöli az igénynek megfelelő ingatlanokat, szolgáltatásokat.
+(8)[^53] A megyei, fővárosi védelmi bizottság határozatában kijelöli az igénynek megfelelő ingatlanokat, szolgáltatásokat.
 
 (9) A határozatot az (1) bekezdés szerinti katonai igazgatási szerv vezetője útján kézbesíteni kell az igénybevevőnek, az ingatlan fekvése szerinti, szolgáltatás esetén a szolgáltatásra kötelezett székhelye telephelye, fióktelepe szerint illetékes polgármesternek, az ingatlan, a szolgáltatás tulajdonosának, birtokosának, azzal rendelkezni jogosultnak, valamint a (6) bekezdésben foglalt esetben az igénybevevő székhelye szerint illetékes katonai igazgatási szervnek.
+
+[^53]: A 48. § (8) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 150. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
