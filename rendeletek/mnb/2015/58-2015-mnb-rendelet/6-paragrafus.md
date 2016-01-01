@@ -1,0 +1,7 @@
+6. § (1) Az MNB – a 3. § (6) bekezdésében foglaltak kivételével – a bejelentési kötelezettséget akkor tekinti teljesítettnek, ha az megfelel az 1–3. mellékletben meghatározott tartalmi követelményeknek.
+
+(2) Ha az MNB megállapítja, hogy a bejelentés módosítást vagy dokumentummal történő alátámasztást igényel, ennek teljesítésére a bejelentésre kötelezettet felszólítja. A bejelentésre kötelezett a módosított bejelentését, illetve az alátámasztó dokumentumok megküldését egy megismételt bejelentés formájában, az 1–3. melléklet szerinti elektronikus űrlap kitöltésével és benyújtásával, 2 munkanapon belül teljesíti. A megismételt bejelentésben hivatkozni kell a korábbi bejelentés számára és a megfelelő rovatban meg kell jelölni a bejelentés megismételt jellegét.
+
+(3) Ha a bejelentésre kötelezett önellenőrzése, belső ellenőrzése vagy egyéb lefolytatott ellenőrzése során megállapításra kerül, hogy a korábban megtett bejelentés módosítása szükséges, a bejelentésre kötelezettnek a tény feltárásától számítva haladéktalanul, de legkésőbb 2 munkanapon belül kell a (2) bekezdésben meghatározottak szerint a megismételt bejelentést megtennie.
+
+(4) A bejelentésre kötelezett az MNB felhívására a bejelentési kötelezettség teljesítéséhez szükséges iratokat és a számviteli, nyilvántartási, informatikai rendszerekben tárolt információkat a bejelentési kötelezettség esedékessége naptári évének utolsó napjától számított öt évig bármikor köteles az MNB rendelkezésére bocsátani.
