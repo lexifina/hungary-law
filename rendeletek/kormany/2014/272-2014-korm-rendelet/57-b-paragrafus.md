@@ -12,6 +12,6 @@
 
 (5)[^221] A (4) bekezdés szerinti esetben az e rendelet szerint elektronikus úton megküldött dokumentumokat és az azokról szóló értesítést a támogatást igénylő vagy a kedvezményezett ügyfélkapujára kell megküldeni. A kézbesítésre ez esetben is a XXIX. Fejezetben foglaltakat kell alkalmazni.
 
-[^219]: A XI/A. Fejezetet (57/B–57/J. §) a 144/2015. (VI. 12.) Korm. rendelet 30. §-a iktatta be.
+[^219]: A IX. Fejezet (54–55. §) a 144/2015. (VI. 12.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^220]: Az 57/B. § (4) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^221]: Az 57/B. § (5) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
