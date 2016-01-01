@@ -1,0 +1,1 @@
+A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 82. § g) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 1. melléklet H) pontjában foglalt táblázat 5. sorában meghatározott feladatkörömben eljárva a következőket rendelem el:

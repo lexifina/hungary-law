@@ -1,0 +1,11 @@
+## 1. § A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) törvényben meghatározott bűnmegelőzési, bűnüldözési és szabálysértési adatok kezelésére a 2. §-ban meghatározott informatikai rendszereket működteti.
+
+2. § (1) A RobotzsaruNeo rendszer bűnügyi modul (a továbbiakban: Neo) a folyamatban lévő és a lefolytatott büntetőeljárásokkal kapcsolatos, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (a továbbiakban: NAV tv.) 72. § (1) bekezdés a)–g) pontjában meghatározott adatok kezelésére szolgáló informatikai rendszer. A Neo rendszert kezelő szervek felsorolását és a hozzáférési jogosultságokat az 1. melléklet tartalmazza.
+
+(2) A RobotzsaruNeo rendszer a pénzmosásra és terrorizmus finanszírozására utaló adatot, tényt, körülményt tartalmazó modulja (a továbbiakban: RZSFIU) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 23. §-ában, 24. §-ában, valamint a Pmt.-ben meghatározott egyéb pénzmosásra és terrorizmus finanszírozására utaló adat, tény, körülmény kezelésére szolgáló informatikai rendszer. Az RZSFIU rendszert kezelő szervek felsorolását és a hozzáférési jogosultságokat a 2. melléklet tartalmazza.
+
+(3) A RobotzsaruNeo rendszer szabálysértési modul a szabálysértési eljárásokkal kapcsolatos, a NAV tv. 66. § (1) bekezdésében meghatározott adatok kezelésére szolgáló informatikai rendszer. A RobotzsaruNeo rendszer szabálysértési modulját kezelő szervek felsorolását és a hozzáférési jogosultságokat a 3. melléklet tartalmazza.
+
+(4) A Határon Átlépő Készpénzforgalom Nyilvántartás a Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény 4. §-a szerint nyilvántartásba vehető adatok kezelésére szolgáló informatikai rendszer. A Határon Átlépő Készpénzforgalom Nyilvántartást kezelő szervek felsorolását és a hozzáférési jogosultságokat a 4. melléklet tartalmazza.
+
+(5) A Netzsaru rendszer strukturált adatbázis formájában magába foglalja a RobotzsaruNeo rendszer használata során rögzített ügyek releváns adatait. A Netzsaru rendszert kezelő szervek köre és a hozzáférés a RobotzsaruNeo rendszerhez való hozzáférés által meghatározott.
