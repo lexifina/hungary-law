@@ -6,6 +6,6 @@
 
 (4) A (2) bekezdés szerint fennálló tartozás kiegyenlítéséig a visszatartásra a Kkt. 20. § (15) bekezdése alapján kerülhet sor.
 
-(5)[^14] A közterület-felügyelő a (4) bekezdés szerinti visszatartást akkor alkalmazhatja, ha az annak jogalapját képező bírságot az illetékes közterület-felügyelet szabta ki.
+(5)[^21] A közterület-felügyelő a (4) bekezdés szerinti visszatartást akkor alkalmazhatja, ha az annak jogalapját képező bírságot az illetékes közterület-felügyelet szabta ki.
 
-[^14]: A 9. § (5) bekezdését a 47/2012. (VIII. 23.) NFM rendelet 6. §-a iktatta be.
+[^21]: A 9. § (5) bekezdését a 47/2012. (VIII. 23.) NFM rendelet 6. §-a iktatta be.

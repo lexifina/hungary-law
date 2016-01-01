@@ -6,6 +6,13 @@ a) a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban:
 
 b) a Kkt. 20. § (1) bekezdésében meghatározott tevékenységek végzésére vonatkozó rendelkezések megsértése esetére a külön jogszabályban meghatározott bírság,
 
-c) a Kkt. 29/A. § (1) bekezdésében meghatározott tevékenység végzésére vonatkozóan a Kkt. 29/A. § (2) bekezdésében meghatározott bírság
+c) a Kkt. 29/A. § (1) bekezdésében meghatározott tevékenység végzésére vonatkozóan a Kkt. 29/A. § (2) bekezdésében meghatározott bírság,
+
+d)[^1] a Kkt. 12. § (3a) és (3c) bekezdéseiben meghatározott rendelkezések megsértése esetén a Kkt. 12. § (4) bekezdésében meghatározott bírság,
+
+e)[^2] a vizsgáló állomás által a közúti járművek időszakos vizsgálatával és rendszeres környezetvédelmi felülvizsgálatával kapcsolatos rendelkezések megsértése esetén a Kkt. 24/A. § (5a) bekezdésében meghatározott bírság
 
 kivetésére és felhasználásának rendjére, valamint a hozzá kapcsolódó hatósági intézkedések végrehajtásának módjára.
+
+[^1]: Az 1. § d) pontját a 75/2015. (XII. 29.) NFM rendelet 24. §-a iktatta be.
+[^2]: Az 1. § e) pontját a 75/2015. (XII. 29.) NFM rendelet 24. §-a iktatta be.
