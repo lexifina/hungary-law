@@ -10,6 +10,9 @@ a) a benyújtott dokumentumok, nyilatkozatok valóságtartalmát és
 
 b) a rehabilitációs akkreditációs tanúsítvány feltételeinek fennállását.
 
-(4) Ha a Hivatal a helyszíni szemle elrendelése során szakértőt rendel ki, a szakértő a helyszíni szemléről jegyzőkönyvet készít, és a jegyzőkönyvet a szakvéleményével együtt a kirendelés kézhezvételétől számított 15 munkanapon belül megküldi a Hivatal részére.
+(4)[^11] Ha a Hivatal a helyszíni szemle elrendelése során szakértőt rendel ki, a szakértő a helyszíni szemléről jegyzőkönyvet készít, és a jegyzőkönyvet a szakvéleményével együtt megküldi a Hivatal részére.
 
-(5) A rehabilitációs akkreditációs tanúsítvány kiadásának, valamint a korábban nem akkreditált telephely megjelölése iránti kérelem elbírálásának határideje 60 nap.
+(5)[^12]
+
+[^11]: A 4. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 184. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 184. § b) pontja hatályon kívül helyezte.

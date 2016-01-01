@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-327-20-
 | 2015-10-08 | 2012-327-20-22.18 | 288/2015. (X. 7.) Korm. rendelet |
 | 2015-12-24 | 2012-327-20-22.19 | 340/2014. (XII. 19.) Korm. rendelet |
 | 2015-12-29 | 2012-327-20-22.20 | 457/2015. (XII. 29.) Korm. rendelet |
+| 2016-01-01 | 2012-327-20-22.21 | 441/2015. (XII. 28.) Korm. rendelet |

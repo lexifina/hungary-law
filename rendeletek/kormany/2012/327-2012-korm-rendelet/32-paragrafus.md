@@ -6,15 +6,15 @@ a) a munkáltató részére nyújtandó egyéni támogatások együttes éves ke
 
 b) az egyéni támogatás éves keretösszegét,
 
-c)[^78] a tranzit foglalkoztatást és a tartós foglalkoztatást biztosító munkahelyek számát,
+c)[^80] a tranzit foglalkoztatást és a tartós foglalkoztatást biztosító munkahelyek számát,
 
 d) a támogatás folyósításának, felhasználásának, elszámolásának, a felhasználás ellenőrzésének szabályait,
 
 e) a munkáltató kötelezettségvállalását a (4)–(7) bekezdésben meghatározott feltételek teljesülése esetén az e rendelkezésekben előírt kötelezettségek teljesítésére,
 
-f)[^79] azokat a munkaköröket, amelyekre a munkáltató munkaidő-keretet kíván megállapítani,
+f)[^81] azokat a munkaköröket, amelyekre a munkáltató munkaidő-keretet kíván megállapítani,
 
-g)[^80] a következményeket arra az esetre, ha a munkáltató a c) pontban meghatározott számú munkahelyet nem tudja a szerződésben meghatározott mértékben betölteni.
+g)[^82] a következményeket arra az esetre, ha a munkáltató a c) pontban meghatározott számú munkahelyet nem tudja a szerződésben meghatározott mértékben betölteni.
 
 (3) Az éves támogatási szerződés megszűnésére, felmondására – a (4)–(7) bekezdésben foglaltak figyelembevételével – a keretszerződésre megállapított szabályokat alkalmazni kell.
 
@@ -36,6 +36,6 @@ b) olyan, legalább 250 fő megváltozott munkaképességű személyt foglalkozt
 
 (7) Ha a munkáltató a miniszter által megállapított határidőben nem gondoskodik arról, hogy a (4)–(6) bekezdésnek megfelelő változásokat a cégbíróság bejegyezze a cégjegyzékbe, a Hivatal a miniszter által meghatározott határidő lejártát követő hónap 1. napjával az éves támogatási szerződést felmondja.
 
-[^78]: A 32. § (2) bekezdés c) pontja a 285/2014. (XI. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^79]: A 32. § (2) bekezdés f) pontját a 335/2013. (IX. 20.) Korm. rendelet 18. §-a iktatta be.
-[^80]: A 32. § (2) bekezdés g) pontját a 285/2014. (XI. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^80]: A 32. § (2) bekezdés c) pontja a 285/2014. (XI. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^81]: A 32. § (2) bekezdés f) pontját a 335/2013. (IX. 20.) Korm. rendelet 18. §-a iktatta be.
+[^82]: A 32. § (2) bekezdés g) pontját a 285/2014. (XI. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.

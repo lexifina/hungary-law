@@ -4,7 +4,7 @@ a) a rehabilitációs akkreditációs tanúsítvány olyan adataiban következet
 
 b) a munkáltató korábban nem akkreditált telephelyének megjelölését kéri a rehabilitációs akkreditációs tanúsítványban,
 
-c)[^22]
+c)[^24]
 
 d) a munkáltató új tevékenység nyilvántartásba történő felvételét, vagy tevékenység törlését kérelmezi.
 
@@ -14,7 +14,7 @@ a) az adatváltozást tanúsító okirat másolatát,
 
 b) az akkreditációval érintett telephelyre vonatkozó akkreditációs feltételek fennállását igazoló iratok másolatát,
 
-c)[^23]
+c)[^25]
 
 d) a külön jogszabály szerinti egyszerűsített akkreditációs díj megfizetésének igazolását.
 
@@ -22,5 +22,5 @@ d) a külön jogszabály szerinti egyszerűsített akkreditációs díj megfizet
 
 (4) Az egyszerűsített akkreditációs eljárásban új rehabilitációs akkreditációs tanúsítványt kell kiállítani a módosítást nem érintő adatok változatlanul hagyásával. Az egyszerűsített akkreditációs eljárásban egyebekben az akkreditációs eljárás szabályait kell alkalmazni.
 
-[^22]: A 6. § (1) bekezdés c) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^23]: A 6. § (2) bekezdés c) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^24]: A 6. § (1) bekezdés c) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^25]: A 6. § (2) bekezdés c) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés d) pontja hatályon kívül helyezte.

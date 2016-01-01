@@ -1,6 +1,6 @@
 ## 21. Egyéni foglalkoztatási megállapodás
 
-33. § (1)[^81] A rehabilitációs hatóság munkavállalónként – rehabilitálható munkavállaló esetén a munkavállaló rehabilitációs terve alapján – megállapodást köt a munkáltatóval (a továbbiakban: egyéni foglalkoztatási megállapodás).
+33. § (1)[^83] A rehabilitációs hatóság munkavállalónként – rehabilitálható munkavállaló esetén a munkavállaló rehabilitációs terve alapján – megállapodást köt a munkáltatóval (a továbbiakban: egyéni foglalkoztatási megállapodás).
 
 (2) Az egyéni foglalkoztatási megállapodás tartalmazza
 
@@ -20,24 +20,24 @@ fa) a munkaidő-keretben meghatározott munkaórák számát,
 
 fb) az átlagos napi munkavégzés időtartamát.
 
-(2a)[^82] A munkáltató jogosult a (2) bekezdés e) és f) pontja szerinti adatok tekintetében az egyéni foglalkoztatási megállapodást egyoldalúan módosítani a megállapodásban meghatározott elektronikus felületen keresztül.
+(2a)[^84] A munkáltató jogosult a (2) bekezdés e) és f) pontja szerinti adatok tekintetében az egyéni foglalkoztatási megállapodást egyoldalúan módosítani a megállapodásban meghatározott elektronikus felületen keresztül.
 
 (3) Az egyéni foglalkoztatási megállapodás hatályát veszti, ha
 
-a)[^83] a rehabilitációs hatóság megállapítja, hogy a megállapodásban részes munkavállaló nem minősül az 1. § 6. pontjában meghatározott megváltozott munkaképességű munkavállalónak,
+a)[^85] a rehabilitációs hatóság megállapítja, hogy a megállapodásban részes munkavállaló nem minősül az 1. § 6. pontjában meghatározott megváltozott munkaképességű munkavállalónak,
 
 b) az egyéni támogatás időtartama letelik vagy
 
 c) az egyéni foglakoztatási megállapodással érintett munkavállaló munkaviszonya megszűnik vagy a munkaviszonyt megszüntetik.
 
-(4)[^84] A rehabilitációs hatóság a munkáltatót a (3) bekezdés a) pontja szerinti döntéséről a döntéssel egyidejűleg tájékoztatja.
+(4)[^86] A rehabilitációs hatóság a munkáltatót a (3) bekezdés a) pontja szerinti döntéséről a döntéssel egyidejűleg tájékoztatja.
 
-(5)[^85] A rehabilitációs hatóság az egyéni foglalkoztatási megállapodást azonnali hatállyal felmondja, ha az egyéni foglalkoztatási megállapodással érintett munkavállaló a rehabilitációs tervben foglalt kötelezettségét ismételten, súlyosan megszegi, és ezzel a rehabilitációs terv megvalósítását akadályozza.
+(5)[^87] A rehabilitációs hatóság az egyéni foglalkoztatási megállapodást azonnali hatállyal felmondja, ha az egyéni foglalkoztatási megállapodással érintett munkavállaló a rehabilitációs tervben foglalt kötelezettségét ismételten, súlyosan megszegi, és ezzel a rehabilitációs terv megvalósítását akadályozza.
 
 (6) Az egyéni foglalkoztatási megállapodás megszűnésére, felmondására a keretszerződésre megállapított szabályokat alkalmazni kell.
 
-[^81]: A 33. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
-[^82]: A 33. § (2a) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 19. §-a iktatta be.
-[^83]: A 33. § (3) bekezdés a) pontja az 500/2013. (XII. 29.) Korm. rendelet 14. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
-[^84]: A 33. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
-[^85]: A 33. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^83]: A 33. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^84]: A 33. § (2a) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 19. §-a iktatta be.
+[^85]: A 33. § (3) bekezdés a) pontja az 500/2013. (XII. 29.) Korm. rendelet 14. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^86]: A 33. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^87]: A 33. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.

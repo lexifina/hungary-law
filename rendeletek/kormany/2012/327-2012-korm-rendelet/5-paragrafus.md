@@ -1,4 +1,4 @@
-5. § (1)[^11] A rehabilitációs akkreditációs tanúsítvány iránti kérelmet és mellékleteit a Hivatal által erre a célra biztosított elektronikus felületen keresztül kell a Hivatalhoz benyújtani.
+5. § (1)[^13] A rehabilitációs akkreditációs tanúsítvány iránti kérelmet és mellékleteit a Hivatal által erre a célra biztosított elektronikus felületen keresztül kell a Hivatalhoz benyújtani.
 
 (2) A kérelemben
 
@@ -10,7 +10,7 @@ c) be kell mutatni a rehabilitációs célú munkavégzés körülményeit.
 
 (3) A kérelemhez csatolni kell
 
-a)[^12] cégjegyzékben nyilvántartott cég esetén a cég nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatot. A cégkivonatot a Hivatal a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg;
+a)[^14] cégjegyzékben nyilvántartott cég esetén a cég nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatot. A cégkivonatot a Hivatal a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg;
 
 b) egyéb kérelmező esetén
 
@@ -18,13 +18,13 @@ ba) a munkáltató egységes szerkezetbe foglalt, hatályos létesítő okirata 
 
 bb) egyéni vállalkozó esetén a vállalkozói igazolvány másolatát, illetve a nyilvántartásukra illetékes hatóság által kiállított, 30 napnál nem régebbi igazolás másolatát arra vonatkozóan, hogy a kérelmező a hatósági nyilvántartásban szerepel;
 
-c)[^13] az akkreditálni kívánt telephely
+c)[^15] az akkreditálni kívánt telephely
 
 ca) használatának jogcímét tanúsító okirat másolatát,
 
 cb) működéséhez szükséges engedélyek másolatát;
 
-d)[^14] cégjegyzékben nyilvántartott cég esetén a képviselőjének közjegyző által hitelesített aláírási címpéldányát, vagy eredeti vagy a bank által hitelesített banki aláírás-bejelentő kartonját, azzal, hogy ha a cég a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg;
+d)[^16] cégjegyzékben nyilvántartott cég esetén a képviselőjének közjegyző által hitelesített aláírási címpéldányát, vagy eredeti vagy a bank által hitelesített banki aláírás-bejelentő kartonját, azzal, hogy ha a cég a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta, és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg;
 
 e) a munkáltató tevékenységének, továbbá a rehabilitációs foglalkoztatás lehetőségeinek ismertetését, valamint az erre vonatkozó terveket;
 
@@ -36,15 +36,15 @@ ga) a kérelmezőnek nincs a telephely szerint illetékes önkormányzati adóha
 
 gb) hozzájárul ahhoz, hogy az állami adó- és vámhatóság, illetve a telephely szerinti illetékes önkormányzati adóhatóság a nála nyilvántartott, a kérelmezőt terhelő köztartozás tekintetében adatot szolgáltasson a Hivatal részére,
 
-gc)[^15]
+gc)[^17]
 
-gd)[^16] a munkáltató rendelkezik szervezeti és működési szabályzattal, munkavédelmi szabályzattal és tűzvédelmi szabályzattal, azzal, hogy a nyilatkozathoz mellékelni kell az e szabályzatok készítésének és legutóbbi módosításának időpontjáról szóló tájékoztatást,
+gd)[^18] a munkáltató rendelkezik szervezeti és működési szabályzattal, munkavédelmi szabályzattal és tűzvédelmi szabályzattal, azzal, hogy a nyilatkozathoz mellékelni kell az e szabályzatok készítésének és legutóbbi módosításának időpontjáról szóló tájékoztatást,
 
 ge) hozzájárul az akkreditációs eljárás lefolytatásához szükséges, e rendeletben meghatározott adatainak a kijelölt szakértők, valamint a Hivatal által történő kezeléséhez,
 
 gf) a rehabilitációs tanácsadó, a rehabilitációs mentor és a rehabilitációs foglalkoztatásban részt vevő munkavállaló hozzájárult az e rendeletben meghatározott adatainak a ge) alpont szerinti kezeléséhez,
 
-gg)[^17] a munkáltató üzemi megállapodás vagy kollektív szerződés hatálya alá tartozik-e;
+gg)[^19] a munkáltató üzemi megállapodás vagy kollektív szerződés hatálya alá tartozik-e;
 
 h) a külön rendeletben meghatározott akkreditációs díj megfizetésének igazolását;
 
@@ -54,7 +54,7 @@ j) a segítő szolgáltatások igénybevétele biztosításának módjáról sz�
 
 k) a rehabilitációs tanácsadó és a rehabilitációs mentor tekintetében a foglalkoztatásra irányuló jogviszony alapjául szolgáló okirat másolatát, a szakmai önéletrajzot, a végzettséget, a képzettséget és a gyakorlati időt igazoló dokumentumok másolatait, valamint munkaviszonyban történő foglalkoztatás esetén a munkaköri leírást;
 
-l)[^18] ha a munkáltató valamely vállalkozás részére a munka természetéből eredően szokásosan telephelyen kívül végzendő termelő vagy – üzembe helyezési, szavatossági, szervizelési és jótállási tevékenységnek nem tekinthető – szolgáltató tevékenységet folytat (a továbbiakban: más vállalkozás érdekkörében végzett tevékenység),
+l)[^20] ha a munkáltató valamely vállalkozás részére a munka természetéből eredően szokásosan telephelyen kívül végzendő termelő vagy – üzembe helyezési, szavatossági, szervizelési és jótállási tevékenységnek nem tekinthető – szolgáltató tevékenységet folytat (a továbbiakban: más vállalkozás érdekkörében végzett tevékenység),
 
 la) a termelő vagy szolgáltató tevékenység tárgyában megkötött szerződés másolatát,
 
@@ -70,22 +70,22 @@ ma) a munkáltató fő tevékenységeinek megnevezése és TEÁOR száma,
 
 mb) telephelyenként a ténylegesen végzett tevékenységek megnevezése és TEÁOR száma alágazati bontásban;
 
-mc)–md)[^19]
+mc)–md)[^21]
 
-n)[^20] a ténylegesen végzett vagy végezni kívánt tevékenységhez előírt hatósági engedélyek, igazolások másolatát;
+n)[^22] a ténylegesen végzett vagy végezni kívánt tevékenységhez előírt hatósági engedélyek, igazolások másolatát;
 
-o)[^21] ha a munkáltatónál üzemi tanács vagy üzemi megbízott működik, a legutóbbi választás időpontjáról szóló tájékoztatást.
+o)[^23] ha a munkáltatónál üzemi tanács vagy üzemi megbízott működik, a legutóbbi választás időpontjáról szóló tájékoztatást.
 
 (4) Ha a kérelmező a (3) bekezdés a) pontjában, b) pont bb) alpontjában és f) pontjában foglalt adatokat nem igazolja, a Hivatal a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz, az adatokról nyilvántartást vezető bírósághoz, illetve a köztartozás tekintetében megvizsgálja a köztartozásmentes adózói adatbázist.
 
-[^11]: Az 5. § (1) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
-[^12]: Az 5. § (3) bekezdés a) pontja a 44. § (1) bekezdésével megállapított szöveg.
-[^13]: Az 5. § (3) bekezdés c) pontja a 335/2013. (IX. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^14]: Az 5. § (3) bekezdés d) pontja a 44. § (2) bekezdésével megállapított szöveg.
-[^15]: Az 5. § (3) bekezdés g) pont gc) alpontját a 285/2014. (XI. 20.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
-[^16]: Az 5. § (3) bekezdés g) pont gd) alpontja a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^17]: Az 5. § (3) bekezdés g) pont gg) alpontja a 335/2013. (IX. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^18]: Az 5. § (3) bekezdés l) pontja a 335/2013. (IX. 20.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^19]: Az 5. § (3) bekezdés m) pont mc)–md) alpontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^20]: Az 5. § (3) bekezdés n) pontját a 335/2013. (IX. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be.
-[^21]: Az 5. § (3) bekezdés o) pontját a 335/2013. (IX. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^13]: Az 5. § (1) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^14]: Az 5. § (3) bekezdés a) pontja a 44. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (3) bekezdés c) pontja a 335/2013. (IX. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^16]: Az 5. § (3) bekezdés d) pontja a 44. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (3) bekezdés g) pont gc) alpontját a 285/2014. (XI. 20.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^18]: Az 5. § (3) bekezdés g) pont gd) alpontja a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^19]: Az 5. § (3) bekezdés g) pont gg) alpontja a 335/2013. (IX. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (3) bekezdés l) pontja a 335/2013. (IX. 20.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^21]: Az 5. § (3) bekezdés m) pont mc)–md) alpontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^22]: Az 5. § (3) bekezdés n) pontját a 335/2013. (IX. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^23]: Az 5. § (3) bekezdés o) pontját a 335/2013. (IX. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be.

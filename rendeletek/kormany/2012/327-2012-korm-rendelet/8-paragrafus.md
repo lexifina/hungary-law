@@ -16,9 +16,9 @@ g) az e rendelet szerinti ellenőrzések során 12 negatív értékelőpontot ö
 
 h) az akkreditációs eljárás, illetve ellenőrzés során olyan lényeges tényt vagy körülményt hallgatott el, vagy olyan tényről nyilatkozott valótlan tartalommal, amely a rehabilitációs akkreditációs tanúsítvány kiadását kizárja, illetve visszavonását megalapozza,
 
-i)[^24] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó valamely feltételt nem teljesíti, amennyiben a hiánypótlásra vagy a jogsértő állapot vagy magatartás megszüntetésére felhívó végzésben biztosított határidő eredménytelenül telt el.
+i)[^26] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó valamely feltételt nem teljesíti, amennyiben a hiánypótlásra vagy a jogsértő állapot vagy magatartás megszüntetésére felhívó végzésben biztosított határidő eredménytelenül telt el.
 
-(1a)[^25] A rehabilitációs akkreditációs tanúsítványt
+(1a)[^27] A rehabilitációs akkreditációs tanúsítványt
 
 a) az (1) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól,
 
@@ -32,9 +32,9 @@ e) az (1) bekezdés f) pontja szerinti esetben az állásidő időtartamát meg�
 
 f) az a)–e) pontban nem említett esetben a visszavonásáról rendelkező határozat jogerőre emelkedésének napjával
 
-kell visszavonni.
+## kell visszavonni.
 
 (2) Ha a rehabilitációs akkreditációs tanúsítvány visszavonására az (1) bekezdés h) pontjában megjelölt okból kerül sor, az érintett munkáltató, illetve jogutódja az új rehabilitációs akkreditációs tanúsítvány iránti kérelmet legkorábban a tanúsítvány visszavonásáról rendelkező határozat jogerőre emelkedésétől számított két év elteltével nyújthatja be. Az ezt megelőzően benyújtott rehabilitációs akkreditációs tanúsítvány iránti kérelmet érdemi vizsgálat nélkül el kell utasítani.
 
-[^24]: A 8. § (1) bekezdés i) pontját a 335/2013. (IX. 20.) Korm. rendelet 7. §-a iktatta be.
-[^25]: A 8. § (1a) bekezdését a 285/2014. (XI. 20.) Korm. rendelet 2. §-a iktatta be.
+[^26]: A 8. § (1) bekezdés i) pontját a 335/2013. (IX. 20.) Korm. rendelet 7. §-a iktatta be.
+[^27]: A 8. § (1a) bekezdését a 285/2014. (XI. 20.) Korm. rendelet 2. §-a iktatta be.

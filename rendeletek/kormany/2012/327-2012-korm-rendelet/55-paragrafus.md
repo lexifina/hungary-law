@@ -38,7 +38,7 @@ b) a 32. § (2) bekezdés b) pontjában,
 
 c) a 38. § (1) bekezdés d) pontjában
 
-az egyéni támogatás éves keretösszege alatt a (4) bekezdés b) pontja szerint meghatározott fél éves keretösszeget kell érteni.
+## az egyéni támogatás éves keretösszege alatt a (4) bekezdés b) pontja szerint meghatározott fél éves keretösszeget kell érteni.
 
 (8) A 2015. évi foglalkoztatáshoz nyújtott egyéni támogatások tekintetében a 32. § (2) bekezdés a) pontjában az egyéni támogatások együttes éves keretösszege alatt a (4) bekezdés c) pontjában meghatározott keretösszeget kell érteni.
 

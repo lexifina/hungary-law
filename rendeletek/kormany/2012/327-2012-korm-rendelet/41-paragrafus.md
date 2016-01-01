@@ -1,4 +1,4 @@
-## 40. §[^92] Az egyéni támogatásban részesülő munkáltató pénzügyi ellenőrzését – a Hivatallal kötött megállapodás szerint – a Magyar Államkincstár végzi.
+## 40. §[^94] Az egyéni támogatásban részesülő munkáltató pénzügyi ellenőrzését – a Hivatallal kötött megállapodás szerint – a Magyar Államkincstár végzi.
 
 ## 27. A támogatás visszafizetése
 
@@ -8,4 +8,4 @@
 
 (3) A Hivatal a visszafizetésre kötelezettnek a visszafizetési határidő lejárta előtt írásban benyújtott, részletes indokolást tartalmazó kérelmére részletfizetési kedvezményt vagy fizetési halasztást adhat.
 
-[^92]: A 40. § a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^94]: A 40. § a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés l) pontja szerint módosított szöveg.

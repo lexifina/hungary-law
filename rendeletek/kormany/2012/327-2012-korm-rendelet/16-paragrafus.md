@@ -2,7 +2,7 @@
 
 16. § (1) Az ellenőrzés a rehabilitációs akkreditációs tanúsítvány hatálya alatt az e rendeletben meghatározott munkáltatói kötelezettségek teljesítésének vizsgálatára, valamint a munkáltató által igénybe vett, e rendelet hatálya alá tartozó költségvetési támogatások felhasználásának vizsgálatára irányul.
 
-(2)[^35] A helyszíni ellenőrzés előre tervezetten, eseti ellenőrzés útján, illetve évente egyszer átfogó ellenőrzés keretében valósul meg.
+(2)[^37] A helyszíni ellenőrzés előre tervezetten, eseti ellenőrzés útján, illetve évente egyszer átfogó ellenőrzés keretében valósul meg.
 
 (3) Az ellenőrzés során a Hivatal a 40. § alapján lefolytatott pénzügyi ellenőrzés jegyzőkönyveit is alapul véve jár el.
 
@@ -18,11 +18,11 @@ d) az illetékes hatóság által kiszabott munkaügyi, munkavédelmi, illetve a
 
 e) ha a rehabilitációs akkreditációs tanúsítvány hatálya alatt az állami adó- és vámhatóság, illetve a telephely tekintetében illetékes önkormányzati adóhatóság által nyilvántartott, 60 napon túl folyamatosan fennálló, túlfizetéssel csökkentett adótartozással rendelkezik vagy rendelkezett, 1–3 pontig terjedő mértékben,
 
-f)[^36] ha a csődeljárással kapcsolatos bejelentési kötelezettségének határidőben nem tett eleget, 2 pont mértékben,
+f)[^38] ha a csődeljárással kapcsolatos bejelentési kötelezettségének határidőben nem tett eleget, 2 pont mértékben,
 
 g) a 3. melléklet szerinti esetekben az ott meghatározott keretek között,
 
-h)[^37] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó feltétel megsértése esetén 1–4 pontig terjedő mértékben.
+h)[^39] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó feltétel megsértése esetén 1–4 pontig terjedő mértékben.
 
 (5) A negatív értékelőpont megállapításának feltétele, hogy
 
@@ -44,13 +44,13 @@ b) a szabályszegés ismétlése,
 
 c) az ismételt szabályszegés gyakorisága.
 
-(7)[^38]
+(7)[^40]
 
 (8) A kiszabott negatív értékelőpontokat a Hivatal a munkáltatóval végzésben közli.
 
 (9) A negatív értékelőpontot a kiszabásáról rendelkező döntés jogerőre emelkedését követő 3 év elteltével az e rendelet szerinti valamennyi eljárásban figyelmen kívül kell hagyni.
 
-[^35]: A 16. § (2) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^36]: A 16. § (4) bekezdés f) pontja a 335/2013. (IX. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^37]: A 16. § (4) bekezdés h) pontját a 335/2013. (IX. 20.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^38]: A 16. § (7) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^37]: A 16. § (2) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^38]: A 16. § (4) bekezdés f) pontja a 335/2013. (IX. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^39]: A 16. § (4) bekezdés h) pontját a 335/2013. (IX. 20.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^40]: A 16. § (7) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés h) pontja hatályon kívül helyezte.

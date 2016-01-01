@@ -18,18 +18,18 @@ cd) tevékenységének, illetve a rehabilitációs foglalkoztatásra irányuló 
 
 ce) ha végelszámolását határozta el, vagy vele szemben csődeljárás, felszámolási eljárás, kényszer-végelszámolás vagy kényszer-törlési eljárás indul,
 
-cf)[^32] ha más vállalkozás érdekkörében végzett tevékenységet kíván folytatni,
+cf)[^34] ha más vállalkozás érdekkörében végzett tevékenységet kíván folytatni,
 
 d) az akkreditációs követelmények teljesítéséről, a támogatás felhasználásáról, illetve a foglalkozási rehabilitációs tevékenységéről minden év március 31-éig, a 2. mellékletben meghatározott szempontok szerint beszámolni a Hivatalnak,
 
-e)[^33]
+e)[^35]
 
 f) jogszabályi, illetve szerződéses nyilvántartási, adatszolgáltatási kötelezettségeit teljesíteni.
 
 (2) A más vállalkozás érdekkörében végzett tevékenység esetén a munkáltató köteles e tevékenységet megszakítani, ha tudomására jut, hogy a más vállalkozásnál nem teljesülnek a munkavállaló biztonságos munkavégzésének feltételei vagy az egyéni rehabilitációs tervben meghatározott egyéb feltételek.
 
-(3)[^34] A más vállalkozás érdekkörében végzett tevékenység bejelentésével egyidejűleg mellékelni kell az 5. § (3) bekezdés l) pontjában meghatározott dokumentumokat.
+(3)[^36] A más vállalkozás érdekkörében végzett tevékenység bejelentésével egyidejűleg mellékelni kell az 5. § (3) bekezdés l) pontjában meghatározott dokumentumokat.
 
-[^32]: A 15. § (1) bekezdés c) pont cf) alpontját a 335/2013. (IX. 20.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^33]: A 15. § (1) bekezdés e) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés g) pontja hatályon kívül helyezte.
-[^34]: A 15. § (3) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^34]: A 15. § (1) bekezdés c) pont cf) alpontját a 335/2013. (IX. 20.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^35]: A 15. § (1) bekezdés e) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés g) pontja hatályon kívül helyezte.
+[^36]: A 15. § (3) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 10. § (2) bekezdése iktatta be.

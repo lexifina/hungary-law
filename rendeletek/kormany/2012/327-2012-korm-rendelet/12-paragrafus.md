@@ -14,11 +14,11 @@ d) rendszeres fogadóórát biztosít a megváltozott munkaképességű munkavá
 
 e) gondoskodik a 15. § (1) bekezdés e) pontja szerinti adatszolgáltatásról,
 
-f)[^26] kapcsolatot tart a fővárosi és megyei kormányhivatallal (a továbbiakban: rehabilitációs hatóság).
+f)[^28] kapcsolatot tart a fővárosi és megyei kormányhivatallal (a továbbiakban: rehabilitációs hatóság).
 
-(3)[^27] Rehabilitációs akkreditációs tanúsítvány akkor adható, ha a munkáltató rehabilitációs tanácsadót legalább napi 4 órában – legfeljebb 20 fő megváltozott munkaképességű személy foglalkoztatása esetén legalább napi 2 órában – munkaviszonyban vagy megbízási jogviszonyban foglalkoztat.
+(3)[^29] Rehabilitációs akkreditációs tanúsítvány akkor adható, ha a munkáltató rehabilitációs tanácsadót legalább napi 4 órában – legfeljebb 20 fő megváltozott munkaképességű személy foglalkoztatása esetén legalább napi 2 órában – munkaviszonyban vagy megbízási jogviszonyban foglalkoztat.
 
 (4) Rehabilitációs tanácsadóként az 1. melléklet szerinti képesítéssel és gyakorlattal rendelkező személy foglalkoztatható.
 
-[^26]: A 12. § (2) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (1) bekezdésével megállapított szöveg.
-[^27]: A 12. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^28]: A 12. § (2) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (1) bekezdésével megállapított szöveg.
+[^29]: A 12. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
