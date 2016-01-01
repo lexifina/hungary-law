@@ -14,4 +14,4 @@
 
 (8) A beszámoló közzétételére a céginformációs szolgálat honlapján, napi feltöltéssel kerül sor.
 
-(9) A közzétételi költségtérítést külön jogszabályban meghatározott módon kell megfizetni az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára. A közzétételi költségtérítés befizetését a céginformációs szolgálat ellenőrzi. Ha a közzétételi költségtérítés befizetése nem történt meg, vagy a befizetési igazolás nem megfelelően került az elektronikus űrlaphoz csatolásra, a céginformációs szolgálat haladéktalanul elektronikus értesítést küld a beszámolót benyújtó személy részére. Ebben az esetben a céget úgy kell tekinteni, mint amely a letétbe helyezési és a közzétételi kötelezettségnek nem tett eleget.
+(9)

@@ -18,7 +18,7 @@ h) az e-közigazgatásért felelős miniszterrel és a közigazgatási informati
 
 i) az e-közigazgatásért felelős miniszterrel egyetértésben a cégjegyzésre jogosultak képviseleti jogának igazolására szolgáló kártyára,
 
-j) a számviteli szabályozásért felelős miniszterrel egyetértésben a számviteli törvény szerinti beszámoló elektronikus úton történő megküldése során csatolandó űrlap formai és tartalmi elemeire, a beszámoló elektronikus úton történő megküldésével kapcsolatos eljárásra, valamint az elektronikus úton megküldött beszámoló közzétételi díjának megfizetésével összefüggésben a számlakibocsátásra
+j) a számviteli szabályozásért felelős miniszterrel egyetértésben a számviteli törvény szerinti beszámoló elektronikus úton történő megküldése során csatolandó űrlap formai és tartalmi elemeire, a beszámoló elektronikus úton történő megküldésével kapcsolatos eljárásra,
 
 k) az államháztartásért felelős miniszterrel egyetértésben a céginformációs szolgálattal kapcsolatos bevételek beszedésére
 
