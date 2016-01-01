@@ -104,7 +104,7 @@
 
 |  |  | 14.3. Hitelviszonyt megtestesítő kamatozó értékpapírok vételárában lévő kamat (–) |  |  |  |  |  |  |
 
-|  | 15. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megteste- sítő értékpapírok nyereségjellegű különbözete (árfolyamnyereség) |  |  |  |  |  |  |
+|  | 15. Részesedésekből származó bevételek, árfolyamnyereségek |  |  |  |  |  |  |
 
 |  | 16. Befektetési jegyek realizált hozama |  |  |  |  |  |  |
 
@@ -136,7 +136,7 @@
 
 |  | 22. Fizetendő kamatok és kamatjellegű ráfordítások |  |  |  |  |  |  |
 
-|  | 23. Tulajdoni részesedést jelentő befektetések és hitelviszonyt megtestesítő értékpapírok veszteségjellegű különbözete (árfolyamveszteség) |  |  |  |  |  |  |
+|  | 23. Részesedésekből származó ráfordítások, árfolyamveszteségek |  |  |  |  |  |  |
 
 |  | 24. Befektetési jegyek realizált vesztesége |  |  |  |  |  |  |
 
@@ -166,11 +166,11 @@
 
 |  | 30. Befektetési tevékenység eredménye (21–29) (±) |  |  |  |  |  |  |
 
-|  | 31. Rendkívüli bevételek |  |  |  |  |  |  |
+|  | 31. |  |  |  |  |  |  |
 
-|  | 32. Rendkívüli ráfordítások |  |  |  |  |  |  |
+|  | 32. |  |  |  |  |  |  |
 
-|  | 33. Rendkívüli eredmény (31–32) (±) |  |  |  |  |  |  |
+|  | 33. |  |  |  |  |  |  |
 
 |  | 34. Kiegészítő vállalkozási tevékenység bevételei |  |  |  |  |  |  |
 
@@ -180,7 +180,7 @@
 
 |  | 37. Adófizetési kötelezettség (–) |  |  |  |  |  |  |
 
-|  | 38. Működés és kiegészítő vállalkozási tevékenység mérleg szerinti eredmé- nye (12±13±30±33±36–37) (±) |  |  |  |  |  |  |
+|  | 38. Működés és kiegészítő vállalkozási tevékenység tárgyévi eredménye (12±13±30±36-37) (±) |  |  |  |  |  |  |
 
 | B) Pénztári szolgáltatások fedezete |  |  |  |  |  |  |
 
@@ -424,6 +424,6 @@
 
 |  |  | 28.3. Azonosítatlan befizetések befektetési hozamára |  |  |  |  |  |  |
 
-4. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^206]
+4. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^220]
 
-[^206]: A 4. számú melléklet a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (1) bekezdésével megállapított és a 396/2007. (XII. 27.) Korm. rendelet 68. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
+[^220]: A 4. számú melléklet a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (1) bekezdésével megállapított és a 396/2007. (XII. 27.) Korm. rendelet 68. §-a, a 484/2015. (XII. 29.) Korm. rendelet 43. § (4) bekezdése szerint módosított szöveg.

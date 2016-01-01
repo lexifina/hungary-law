@@ -184,21 +184,15 @@
 
 |  | b) magánnyugdíjpénztár |  |  |
 
-| 32. Rendkívüli eredmény |  |  |
-
-|  | a) önkéntes nyugdíjpénztár |  |  |
-
-|  | b) magánnyugdíjpénztár |  |  |
+| 32. |  |  |
 
 | 33. Kiegészítő vállalkozási tevékenység adózás előtti eredménye |  |  |
 
 | 34. Adófizetési kötelezettség (–) |  |  |
 
-| 35. Működés és kiegészítő vállalkozási tevékenység mérleg szerinti eredmé- |  |  |
+| 35. Működés és kiegészítő vállalkozási tevékenység tárgyévi eredménye (önkéntes nyugdíjpénztár) |  |  |
 
-|  | nye (önkéntes nyugdíjpénztár) |  |  |
-
-| 36. Működés mérleg szerinti eredménye (magánnyugdíjpénztár) |  |  |
+| 36. Működés tárgyévi eredménye (magánnyugdíjpénztár) |  |  |
 
 | B) Pénztári szolgáltatások fedezete |  |  |
 
@@ -660,7 +654,7 @@
 
 ## Cash-flow kimutatás
 
-1. Működés és kiegészítő vállalkozási tevékenység mérleg szerinti eredménye (±)
+1.[^221] Működés és kiegészítő vállalkozási tevékenység tárgyévi eredménye (±)±
 
 2. Immateriális javak nettó értékében bekövetkezett állományváltozás (±)
 
@@ -743,3 +737,5 @@
 40.1. Készpénz állomány változása (forint- és valutapénztár)
 
 40.2. Számlapénz (pénztári elszámolási számla, éven belüli lejáratú forint és deviza betétszámlák, egyéb elkülönített betétszámlák) állomány változása
+
+[^221]: Az 5. számú melléklet 1. pontja a 484/2015. (XII. 29.) Korm. rendelet 43. § (5) bekezdésével megállapított szöveg.

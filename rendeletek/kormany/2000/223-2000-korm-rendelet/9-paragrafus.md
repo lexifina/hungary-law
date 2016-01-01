@@ -1,13 +1,13 @@
 9. § (1) Az éves pénztári beszámoló mérlegből, eredménykimutatásból és kiegészítő mellékletből áll. Az éves pénztári beszámolóval egyidejűleg üzleti jelentést is kell készíteni.
 
-(2)[^26]
+(2)[^27]
 
-(3)[^27] A magánnyugdíjpénztárat is működtető önkéntes nyugdíjpénztár az éves pénztári beszámoló egyesített (összesített) beszámoló formájában történő teljesítésekor a mérleget és az eredménykimutatást az önkéntes nyugdíjpénztárra és magánnyugdíjpénztárra vonatkozóan külön-külön, valamint egyesített (összesített) formában is köteles elkészíteni.
+(3)[^28] A magánnyugdíjpénztárat is működtető önkéntes nyugdíjpénztár az éves pénztári beszámoló egyesített (összesített) beszámoló formájában történő teljesítésekor a mérleget és az eredménykimutatást az önkéntes nyugdíjpénztárra és magánnyugdíjpénztárra vonatkozóan külön-külön, valamint egyesített (összesített) formában is köteles elkészíteni.
 
 (4) A mérlegben és az eredménykimutatásban minden tételnél fel kell tüntetni az előző üzleti év megfelelő adatát, és ha az adatok nem hasonlíthatók össze, akkor ezt a kiegészítő mellékletben indokolni kell. Amennyiben az ellenőrzés az előző üzleti év(ek) éves beszámolójában elkövetett jelentős összegű hibá(ka)t állapított meg, akkor az előző év(ek)re vonatkozó – a mérlegkészítés napjáig megismert és nem vitatott, nem fellebbezett, illetve jogerőssé vált megállapítások miatti – módosításokat a mérleg és az eredménykimutatás minden tételénél az előző üzleti év adatai mellett be kell mutatni, azok nem képezik részét a mérleg és az eredménykimutatás tárgyévi adatainak. Ez esetben a mérlegben is, az eredménykimutatásban is külön-külön oszlopban szerepelnek az előző üzleti év adatai, a lezárt üzleti év(ek)re vonatkozó módosítások, valamint a tárgyévi adatok.
 
-(5)[^28]
+(5)[^29]
 
-[^26]: A 9. § (2) bekezdését a 345/2010. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte.
-[^27]: A 9. § (3) bekezdése a 345/2010. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^28]: A 9. § (5) bekezdését a 293/2001. (XII. 26.) Korm. rendelet 11. §-ának (2) bekezdése iktatta be, a 345/2010. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte.
+[^27]: A 9. § (2) bekezdését a 345/2010. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte.
+[^28]: A 9. § (3) bekezdése a 345/2010. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^29]: A 9. § (5) bekezdését a 293/2001. (XII. 26.) Korm. rendelet 11. §-ának (2) bekezdése iktatta be, a 345/2010. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte.

@@ -138,9 +138,7 @@
 
 |  | III. | Tartaléktőke |  |  |
 
-|  | IV. | Működés és kiegészítő vállalkozási tevékenység mérleg szerinti ered- |  |  |
-
-|  |  | Ménye |  |  |
+|  | IV. | Működés és kiegészítő vállalkozási tevékenység tárgyévi eredménye |  |  |
 
 |  | V. | Értékelési tartalék |  |  |
 
@@ -262,6 +260,6 @@
 
 |  |  | 3. | Halasztott bevételek |  |  |
 
-2. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^204]
+2. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^218]
 
-[^204]: A 2. számú melléklet a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (1) bekezdésével megállapított és a 396/2007. (XII. 27.) Korm. rendelet 67. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
+[^218]: A 2. számú melléklet a 288/2002. (XII. 23.) Korm. rendelet 27. §-ának (1) bekezdésével megállapított és a 396/2007. (XII. 27.) Korm. rendelet 67. §-a, a 484/2015. (XII. 29.) Korm. rendelet 43. § (2) bekezdése szerint módosított szöveg.
