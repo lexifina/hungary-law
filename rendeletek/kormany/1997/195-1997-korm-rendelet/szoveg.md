@@ -402,7 +402,7 @@ b) az önálló vállalkozó belföldön elért bevétele eléri az összes vál
 
 (4)[^142] Ha a munkavállaló a koordinációs rendeletek hatálya alá tarozik, a (3) bekezdés akkor alkalmazható, ha a munkavállaló belföldön és a másik tagállamban egy olyan munkáltató javára végez munkát, amely az Európai Unió területén letelepedett.
 
-R. 27/A. §[^143] (1)[^144] Ha az egészségbiztosítási szerv alkalmazandó jogként a magyar jogot megállapítja, erről – az erre irányuló kérelem benyújtásától számított 30 napon belül – hatósági bizonyítványt (a továbbiakban: igazolás) állít ki, és meghatározza annak időbeli hatályát és feltételeit. Az igazolás tanúsítja, hogy a munkavállaló, önálló vállalkozó a másik államban történő munkavégzése idején is a magyar társadalombiztosítási jogszabályok hatálya alatt áll.
+R. 27/A. §[^143] (1)[^144] Ha az egészségbiztosítási szerv alkalmazandó jogként a magyar jogot megállapítja, erről hatósági bizonyítványt (a továbbiakban: igazolás) állít ki, és meghatározza annak időbeli hatályát és feltételeit. Az igazolás tanúsítja, hogy a munkavállaló, önálló vállalkozó a másik államban történő munkavégzése idején is a magyar társadalombiztosítási jogszabályok hatálya alatt áll.
 
 (2) Ha a korábbi kiküldetés lejártát követő 60 napon belül a munkáltató ugyanazon munkavállalóját ugyanazon államba kívánja kiküldeni, a magyar jog akkor alkalmazható az újabb kiküldetésre, ha annak időtartama a korábbi kiküldetéssel együtt sem haladja meg a koordinációs rendeletekben, illetve az egyezményben meghatározott leghosszabb időtartamot.
 
@@ -615,7 +615,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^141]: Az R. 27. § (3) bekezdés a) pontja a 334/2010. (XII. 27.) Korm. rendelet 10. § s) pontja szerint módosított szöveg.
 [^142]: Az R. 27. § (4) bekezdését a 334/2010. (XII. 27.) Korm. rendelet 9. §-a iktatta be.
 [^143]: Az R. 27/A. §-át a 107/2010. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
-[^144]: Az R. 27/A. § (1) bekezdése a 334/2010. (XII. 27.) Korm. rendelet 10. § t) pontja, a 70/2015. (III. 30.) Korm. rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^144]: Az R. 27/A. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 26. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^145]: Az R. 27/A. § (5) bekezdése a 334/2010. (XII. 27.) Korm. rendelet 10. § u) pontja, a 70/2015. (III. 30.) Korm. rendelet 27. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^146]: Az R. 27/A. § (6) bekezdése a 334/2010. (XII. 27.) Korm. rendelet 10. § v) pontja, a 70/2015. (III. 30.) Korm. rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^147]: Az R. 27/B. §-át a 107/2010. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
