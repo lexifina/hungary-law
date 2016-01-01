@@ -1,6 +1,6 @@
-18. § (1) A Hpt. 137. § (1) bekezdésében és a Bit. 83. §-ában meghatározott felügyeleti engedély nem szükséges az Eximbank és a Mehib Rt. vezető állású személyének megválasztásához vagy kinevezéséhez.
+18. § (1) A Hpt. 137. § (1) bekezdésében és a Bit. 53. §-ában meghatározott felügyeleti engedély nem szükséges az Eximbank és a Mehib Rt. vezető állású személyének megválasztásához vagy kinevezéséhez.
 
-(2) A Hpt. 137. §-ától és 155. §-ától, valamint a Bit. 83. és 91. §-ától eltérően az Eximbank vagy a Mehib Rt. vezető állású személyének választható meg vagy nevezhető ki az a személy, aki
+(2) A Hpt. 137. §-ától és 155. §-ától, valamint a Bit. 53. § (4)–(5) bekezdésétől, az 54. §-ától és a 69. §-ától eltérően az Eximbank vagy a Mehib Rt. vezető állású személyének választható meg vagy nevezhető ki az a személy, aki
 
 a) büntetlen előéletű,
 
