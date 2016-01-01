@@ -4,7 +4,7 @@
 
 ## 1. A földhasználó adatai:
 
-## 1.1.[^107] a természetes személy kérelmező
+## 1.1.[^110] a természetes személy kérelmező
 
 ## a) természetes személyazonosító adatai,
 
@@ -14,7 +14,7 @@
 
 ## d) lakcíme,
 
-## e)[^108]
+## e)[^111]
 
 ## 1.2. a gazdálkodó szervezet kérelmező
 
@@ -46,13 +46,13 @@
 
 ## c) cég esetében arról, hogy az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
 
-## 4. A használatba adó aláírása és az aláírás dátuma (kivéve, ha a használat tulajdonjogon, vagy az ingatlan-nyilvántartásba bejegyzett haszonélvezeti jogon alapul).
+## 4.[^112] A földhasználó természetes személynek, illetve a földhasználó gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
 
-## 5.[^109] A földhasználó természetes személynek, illetve a földhasználó gazdálkodó szervezet képviselőjének az aláírása és az aláírás dátuma.
+## 5.[^113]
 
-## II.[^110] A törlés-bejelentési adatlapon a járási hivatal által feltüntetendő tartalmi elemek:
+## II.[^114] A törlés-bejelentési adatlapon a járási hivatal által feltüntetendő tartalmi elemek:
 
-## 1.[^111] A járási hivatal bélyegzője.
+## 1.[^115] A járási hivatal bélyegzője.
 
 ## 2. A törlés-bejelentés érkezési ideje.
 
@@ -66,11 +66,12 @@
 
 ## 7. Az ügyintéző aláírása.
 
-5. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^112]
+5. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^116]
 
-[^107]: A 4. számú melléklet I. pont 1.1. alpontja a 473/2013. (XII. 12.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^108]: A 4. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § g) pontja hatályon kívül helyezte.
-[^109]: A 4. számú melléklet I. pont 5. alpontja a 473/2013. (XII. 12.) Korm. rendelet 14. § (3) bekezdsée szerint módosított szöveg.
-[^110]: A 4. számú melléklet II. pontja a 473/2013. (XII. 12.) Korm. rendelet 13. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
-[^111]: A 4. számú melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
-[^112]: Az 5. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte a 473/2013. (XII. 12.) Korm. rendelet 15. § d) pontja.
+[^110]: A 4. számú melléklet I. pont 1.1. alpontja a 473/2013. (XII. 12.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^111]: A 4. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § g) pontja hatályon kívül helyezte.
+[^112]: A 4. számú melléklet I. pont 4. alpontja a 441/2015. (XII. 28.) Korm. rendelet 96. § (3) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^113]: A 4. számú melléklet I. pont 5. alpontját a 441/2015. (XII. 28.) Korm. rendelet 98. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^114]: A 4. számú melléklet II. pontja a 473/2013. (XII. 12.) Korm. rendelet 13. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
+[^115]: A 4. számú melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
+[^116]: Az 5. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte a 473/2013. (XII. 12.) Korm. rendelet 15. § d) pontja.
