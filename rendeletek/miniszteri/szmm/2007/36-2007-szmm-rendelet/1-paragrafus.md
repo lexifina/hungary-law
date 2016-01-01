@@ -2,6 +2,6 @@
 
 a) 65. §-ának (6) bekezdése szerint a jelzőrendszeres házi segítségnyújtás esetében vizsgálandó szociális rászorultság igazolására,
 
-b)[^1] 63. §-ának (4)–(7) bekezdése szerint a házi segítségnyújtás, valamint 68/A. §-a szerint az idősotthoni ellátás esetében vizsgálandó gondozási szükséglet megállapítására
+b)[^1] 63. §-ának (5)–(7) bekezdése szerint a házi segítségnyújtás, valamint 68/A. §-a szerint az idősotthoni ellátás esetében vizsgálandó gondozási szükséglet megállapítására
 
-[^1]: Az 1. § b) pontja a 8/2010. (IX. 3.) NEFMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § b) pontja az 55/2015. (XI. 30.) EMMI rendelet 37. §-a szerint módosított szöveg.
