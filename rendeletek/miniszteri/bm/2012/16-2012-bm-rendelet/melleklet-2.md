@@ -4,7 +4,7 @@
 
 | 1. | Számítógépes szimulációs programmal végzett, egyedileg tervezett megoldás jóváhagyására indított eljárás | 50 000 |
 
-| 2. | Tűzvédelmi szakértői engedélyezési és nyilvántartásba vételi eljárás, a nyilvántartás vezetése | 10 000 |
+| 2. | Tűzvédelmi szakértői bejelentési és nyilvántartásba vételi eljárás, a nyilvántartás vezetése | 10 000 |
 
 | 3. | Polgári nemzetbiztonsági szolgálatok építésügyi hatósági eljárásában tűzvédelmi szakhatósági közreműködés | 13 000 |
 
