@@ -8,8 +8,8 @@
 
 (5) A Hivatal a nyelvvizsgáztatással kapcsolatosan befolyt saját tárgyévi bevételének legalább 10 és legfeljebb 25%-át, a tárgyévet követő évben, a nyelvoktatás, illetve nyelvvizsgáztatás fejlesztésével kapcsolatos feladatokra fordítja.
 
-(6)[^35] Az akkreditációs eljárás során a Hivatal a kérelem beérkezését követő naptól számított harminc napon belül dönt.
+(6)[^35]
 
 [^33]: A 11. § (1) bekezdése a 33/2014. (II. 18.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^34]: A 11. § (4) bekezdése a 33/2014. (II. 18.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^35]: A 11. § (6) bekezdését a 33/2014. (II. 18.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^35]: A 11. § (6) bekezdését a 33/2014. (II. 18.) Korm. rendelet 9. § (3) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 106. §-a. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
