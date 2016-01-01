@@ -1,3 +1,5 @@
+## 29–30. §[^10]
+
 ## V. Fejezet
 
 ## AZ ÚTDÍJJAL KAPCSOLATOS KÖZIGAZGATÁSI FELADATOK
@@ -9,3 +11,5 @@
 (2) Az állam a mindenkori éves központi költségvetésről szóló törvényben gondoskodik az egyeztető szerv működésének ügyszámarányos támogatásáról.
 
 (3) Az egyeztető szerv illetékessége az ország egész területére kiterjed, véleménye a felekre nézve kötelező erővel nem bír.
+
+[^10]: A 29–30. §-t a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte.
