@@ -4,7 +4,7 @@
 
 (3)[^140] Az európai lőfegyvertartási engedélybe bejegyzett „B”, „C” vagy „D” kategóriájú tűzfegyver és a hozzá tartozó lőszer önvédelmi célra történő behozatalát Magyarország területére a várható beutazás, illetve átutazás helye szerint illetékes megyei (fővárosi) rendőr-főkapitányság engedélyezheti. A behozatali engedély abban az esetben adható ki, ha a kérelmező bizonyítja, hogy tevékenysége vagy más ok miatt élete, testi épsége – tűzfegyverrel elhárítható veszélyhelyzet fennállása miatt – fokozott védelmet igényel, és rendelkezik a tűzfegyver tárolásának e rendeletben megállapított feltételeivel.
 
-(4)[^141] Az Európai Unió valamely tagállamában lakóhellyel nem rendelkező személy a Nemzeti Adó- és Vámhivatal területileg illetékes alsó fokú vámszervének a 13. számú melléklet szerinti igazolása alapján jogosult lőfegyverét, a hozzá tartozó lőszerrel együtt vadászatra, sportlövő versenyre behozni, kivinni, illetve az ország területén átszállítani, ha a Magyarország területén tartózkodás a 90 napot nem haladja meg.
+(4)[^141] Az Európai Unió valamely tagállamában lakóhellyel nem rendelkező személy a Nemzeti Adó- és Vámhivatal területileg illetékes vámszervének a 13. számú melléklet szerinti igazolása alapján jogosult lőfegyverét, a hozzá tartozó lőszerrel együtt vadászatra, sportlövő versenyre behozni, kivinni, illetve az ország területén átszállítani, ha a Magyarország területén tartózkodás a 90 napot nem haladja meg.
 
 (5) A sportlövészeten való részvételt a meghívó sportegyesület meghívólevelével kell igazolni.
 
@@ -12,14 +12,14 @@
 
 (7)[^143] A vadászaton való részvételt a Vtv.-ben foglaltak alapján a vadászati hatóság által Magyarország területére és az abban meghatározott vadászterület(ek)re kiállított hatályos vadászati engedély igazolja.
 
-(8)[^144] A Nemzeti Adó- és Vámhivatal területileg illetékes alsó fokú vámszerve (4) bekezdésben említett igazolásának formáját és tartalmát a 13. számú melléklet határozza meg. E nyomtatványt kell alkalmazni a lőszerre is.
+(8)[^144] A Nemzeti Adó- és Vámhivatal területileg illetékes vámszerve (4) bekezdésben említett igazolásának formáját és tartalmát a 13. számú melléklet határozza meg. E nyomtatványt kell alkalmazni a lőszerre is.
 
 (9)[^145] A Magyarország területére behozott színházi fegyvert az engedélyes köteles bemutatni a kereskedelemért felelős miniszter rendeletében a fegyverek és lőszerek vizsgálatára kijelölt szervezetnek. A 22. számú mellékletben meghatározott műszaki követelményeknek nem megfelelő fegyvert a behozataltól, illetve a megfelelőtlenség megállapításától számított 8 napon belül javításra át kell adni a színházi fegyver javítására engedéllyel rendelkező szervezetnek, vagy haladéktalanul gondoskodni kell az ország területéről történő kiviteléről.
 
 [^139]: A 48. § (2) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 20. pontja szerint módosított szöveg.
 [^140]: A 48. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. § m) pontja, a 221/2014. (IX. 4.) Korm. rendelet 282. § a) pontja szerint módosított szöveg.
-[^141]: A 48. § (4) bekezdése a 39/2012. (III. 12.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^141]: A 48. § (4) bekezdése a 39/2012. (III. 12.) Korm. rendelet 23. § (1) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^142]: A 48. § (6) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 67/2010. (III. 18.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
 [^143]: A 48. § (7) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 282. § a) pontja szerint módosított szöveg.
-[^144]: A 48. § (8) bekezdése a 334/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 21. pontja szerint módosított szöveg.
+[^144]: A 48. § (8) bekezdése a 334/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 21. pontja, a 486/2015. (XII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^145]: A 48. § (9) bekezdését a 39/2012. (III. 12.) Korm. rendelet 23. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-| Sorszám: | Kilépéskor, vámkezeléskor az illetékes alsó fokú vámszervnek kell leadni |
+| Sorszám: | Kilépéskor, vámkezeléskor az illetékes vámszervnek kell leadni |
 
 | Tőszelvény | Sorszám: |
 
