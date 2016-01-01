@@ -1,4 +1,4 @@
-## 11. § Ez a rendelet a kihirdetését követő második hónap első napján lép hatályba.
+## az MNB által 2015. december 31-ét követően kibocsátott emlékérme 2016. január 1-jét megelőzően készített utánzatára is alkalmazni kell azzal, hogy a 7. § (2) bekezdése szerinti engedélykérelem benyújtási kötelezettség a felhasználót a forint emlékérme utánzata 2016. január 1-jétől való felhasználása esetén terheli.
 
 ## 12. § E rendelet
 

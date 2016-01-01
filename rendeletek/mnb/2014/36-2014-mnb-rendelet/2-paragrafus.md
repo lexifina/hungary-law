@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. emlékérme tematika: az adott emlékérme kibocsátásának alapjául szolgáló történelmi, politikai, társadalmi esemény, személy, helyszín, műalkotás stb. vagy ezen tárgyköröket rendszerező gyűjtői sorozat;
+1.[^1] emlékérme tematika: az adott emlékérme kibocsátásának alapjául szolgáló történelmi, politikai, társadalmi esemény, személy, helyszín, műalkotás stb., ide nem értve az ezen tárgyköröket rendszerező gyűjtői sorozatot;
 
 2. emlékérem: törvényes fizetőeszköznek nem minősülő, fémből készült (többnyire) kerek, kisplasztikai alkotás, amelyet történelmi, politikai, társadalmi események vagy személyek tiszteletére, öntés vagy sajtolás, azaz verés alkalmazásával készítenek;
 
@@ -36,6 +36,9 @@ c) peremvastagság és -kialakítás,
 
 d) anyagösszetétel;
 
-8. nemesfém: aranyat, ezüstöt vagy platinát tartalmazó ötvözet, amelynek finomsági foka ezrelékben (‰) kifejezve az arany esetében legalább 375‰, az ezüst esetében legalább 500‰, a platina esetében pedig legalább 850‰;
+8.[^2]
 
 9. kereskedelmi kommunikáció: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény szerinti fogalom.
+
+[^1]: A 2. § 1. pontja a 47/2015. (XI. 18.) MNB rendelet 5. §-a szerint módosított szöveg.
+[^2]: A 2. § 8. pontját a 47/2015. (XI. 18.) MNB rendelet 6. §-a hatályon kívül helyezte.
