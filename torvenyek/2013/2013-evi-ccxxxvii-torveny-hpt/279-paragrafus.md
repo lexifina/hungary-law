@@ -1,6 +1,6 @@
 ## 121. Egyes szerződésekre vonatkozó különös rendelkezések
 
-279. § (1) A pénzügyi intézmény pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirat formát is – köthet. Az írásban kötött szerződés egy eredeti példányát a pénzügyi intézmény köteles az ügyfélnek átadni.
+279. § (1) A pénzügyi intézmény – az egyszeri fizetési megbízás kivételével, valamint a 285. §-ban meghatározott eltéréssel – pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirat formát is – köthet. Az írásban kötött szerződés egy eredeti példányát a pénzügyi intézmény köteles az ügyfélnek átadni.
 
 (2) A pénzügyi intézmény és az ügyfél az (1) bekezdés szerint megkötött szerződésben megállapodhat arról, hogy meghatározott körben azonosított elektronikus úton kötnek pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést. Az ilyen módon létrejött pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződés e törvény alkalmazásában írásbeli szerződésnek minősül.
 

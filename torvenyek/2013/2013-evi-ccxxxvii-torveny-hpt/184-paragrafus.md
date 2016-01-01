@@ -66,7 +66,7 @@ h) a szükséges számviteli, vezetői információs vagy belső ellenőrzési r
 
 i) forrásgyűjtési tevékenysége során a piaci kamat mértékétől jelentősen eltérő kamatmértéket állapít meg, amely fokozott kockázatot jelent a hitelintézet, illetve a betétesek számára,
 
-j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése vagy a mérleg szerinti eredmény, vagy a tőkekövetelmény módosítása céljából,
+j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése vagy a adózott eredmény, vagy a tőkekövetelmény módosítása céljából,
 
 k) könyvvizsgálója elmulasztja a Felügyelet, a pénzügyi intézmény igazgatóságának, illetve felügyelő bizottságának tájékoztatását a pénzügyi intézménynél tapasztalt súlyos jogszabálysértésekről, hiányosságokról és egyéb – a prudens működést veszélyeztető – problémákról,
 

@@ -1,6 +1,6 @@
 ## 38. Általános tartalékképzés
 
-83. § (1) A hitelintézet az adózott eredményéből az osztalék, illetve a részesedés kifizetése előtt általános tartalékot képez.
+83. § (1) A hitelintézet az adózott eredményéből általános tartalékot képez.
 
 (2) A hitelintézet a tárgyévi adózott eredmény tíz százalékát általános tartalékba helyezi.
 
@@ -11,3 +11,5 @@
 (5) A hitelintézet az általános tartalékot csak a tevékenységéből eredő veszteségek rendezésére használhatja fel.
 
 (6) A hitelintézet a rendelkezésre álló eredménytartalékot az általános tartalékba részben vagy egészben átcsoportosíthatja.
+
+(7) Amennyiben a hitelintézet az Szmt. 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze éves beszámolóját, a (2) bekezdés szerint meghatározott összeget az eredménytartalékból el kell különítenie és azt az Szmt. szerinti saját tőke megfeleltetési táblában, a 114/B. § (4) bekezdés h) pontja szerinti lekötött tartalékként kell kimutatnia.

@@ -410,7 +410,7 @@ f) a készpénzről készpénzre történő olyan pénzváltás, amelynél a pé
 
 g) a csekkel, a váltóval, a papír alapú utalvánnyal, az utazási csekkel és az Egyetemes Postaegyesület (UPU) által meghatározott papíralapú nemzetközi postautalvánnyal végzett fizetési művelet,
 
-h) a fizetési, illetve értékpapír-elszámolási rendszeren belül a teljesítő fél, a központi szerződő fél, az elszámolóház, a központi bank, a rendszer más résztvevői, valamint a pénzforgalmi szolgáltató közötti fizetési művelet,
+h) a fizetési, illetve értékpapír-elszámolási rendszeren belül a teljesítő fél, a központi szerződő fél, a központi bank, a rendszer más résztvevői, valamint a pénzforgalmi szolgáltató közötti fizetési művelet,
 
 i) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) szerinti értékpapír letétkezelésével összefüggő fizetési művelet,
 

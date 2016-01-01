@@ -68,8 +68,10 @@ l) 327. cikk (2) bekezdésének megfelelően az átváltható értékpapír és 
 
 m) 395. cikk (1) bekezdésének megfelelően a 150 millió eurónál alacsonyabb nagykockázat-vállalási határérték alkalmazását,
 
-n) 400. cikk (2) bekezdésének megfelelően a nagykockázat-vállalási korlát alól mentesített kitettségek körét,
-
-o) 416. cikk (5) bekezdésének megfelelően a magas és rendkívül magas likviditású és hitelminőségű eszközök körét.
+n)–o)
 
 (5) Felhatalmazást kap az MNB elnöke arra, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben állapítsa meg a teljesítmény-javadalmazás diszkontált értékének számításával, nyilvántartásával és közzétételével összefüggő szabályokat.
+
+(6) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.
+
+(7) Felhatalmazást kap az MNB elnöke, hogy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében eljárva rendeletben szabályozza az ügyfél- és partnerminősítés, valamint a fedezetértékelés prudenciális követelményeit.

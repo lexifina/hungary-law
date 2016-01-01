@@ -25,3 +25,5 @@ a) a különböző hitelezési kockázatokat hordozó portfóliókat és kitetts
 b) a hitelportfóliót az ügyfélköre és az átfogó stratégiája figyelembe vételével megosztja (diverzifikálja), valamint
 
 c) az értékpapírok vagy értékpapírosítási pozíciók hitelkockázatának, és a portfoliószintű hitelkockázatnak a mérésére hatékony és megbízható belső módszerekkel rendelkezik azzal, hogy a belső módszer esetében nem alkalmazhatja kizárólagosan a külső hitelminősítő által kiadott hitelminősítést.
+
+(4) Az MNB elnöke a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében a hatékony és eredményes kockázatkezelés elősegítése érdekében rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.

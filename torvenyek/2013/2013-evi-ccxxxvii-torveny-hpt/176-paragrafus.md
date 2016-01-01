@@ -1,6 +1,6 @@
 176. § (1) A Felügyelet az összevont alapú felügyeleti feladatok ellátása érdekében más EGT-állam illetékes felügyeleti hatóságával szorosan együttműködik.
 
-(2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam illetékes felügyeleti hatóságának átadhatja.
+(2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam illetékes felügyeleti hatóságának és szanálási hatóságának átadhatja.
 
 (3) Összevont alapú felügyeleti ellenőrzést a Felügyelet más EGT-állam illetékes felügyeleti hatóságának kérésére is végezhet, valamint hozzájárulhat, hogy az ellenőrzésben a hozzájárulást kérő illetékes felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő résztvegyen.
 

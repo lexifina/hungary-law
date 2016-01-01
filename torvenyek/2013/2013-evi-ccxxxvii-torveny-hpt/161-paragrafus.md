@@ -54,7 +54,7 @@ c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek 
 
 d) a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget,
 
-e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
+e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
 
 f) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől, vagy
 
@@ -70,4 +70,4 @@ g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghat
 
 (8) Az MNB jogszabályban, a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
 
-(9) Az adóhatóság a FATCA-törvényből fakadó kötelezettségek teljesítése céljából az Aktv. 43/B–43/C. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.
+(9) Az adóhatóság a FATCA-törvényből, valamint a pénzügyi számlákkal kapcsolatos egyéb adatszolgáltatási kötelezettség teljesítése céljából az Aktv. 43/B. és 43/C., továbbá 43/H. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.

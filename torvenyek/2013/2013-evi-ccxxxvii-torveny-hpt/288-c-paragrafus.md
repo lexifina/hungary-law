@@ -1,0 +1,3 @@
+## 126/B. A Pénzügyi Számlákkal kapcsolatos adatszolgáltatás és átvilágítás alapján fennálló kötelezettségek
+
+288/C. § Az Aktv. szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, az Aktv. 1. melléklet VIII/C. pontja szerinti Pénzügyi Számla (a továbbiakban: Pénzügyi Számla) vonatkozásában elvégzi az Aktv. szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: Számlatulajdonos) illetőségének az Aktv. 1. melléklet II–VII. pontja szerinti megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).

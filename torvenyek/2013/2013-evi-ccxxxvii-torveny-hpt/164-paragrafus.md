@@ -24,7 +24,7 @@ h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára
 
 i) a külföldi pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és a Felügyelet között együttműködési megállapodásban rögzített módon történő adattovábbítás, ha a megállapodás tartalmazza az adatok bizalmas kezelésére, felhasználására vonatkozó rendelkezést, továbbá a Felügyelet hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
 
-j) a hitelintézet által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
+j) a pénzügyi intézmény által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
 
 k) az összevont alapú felügyeleti megfelelés vonatkozásában történő, valamint a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás,
 
@@ -48,10 +48,12 @@ t) a jegybanki feladatkörében eljáró MNB által alapvető feladatai ellátá
 
 u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából pénzügyi intézmény által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzügyi intézmények és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltatók részére történő adattovábbítás,
 
-v) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás, valamint
+v) a központi szerződő fél, valamint a központi értéktári tevékenység végzésének érdekében szükséges, a központi értéktár és a központi szerződő fél közötti adattovábbítás,
 
 w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti,
 
 x) a szanálási feladatkörében eljáró MNB által a Szantv. szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
 
-y) az elhalálozott által felvett és még vissza nem fizetett kölcsönről, pénzügyi lízingről az örökhagyó hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásának napjáig.
+y) az elhalálozott által felvett és még vissza nem fizetett kölcsönhöz és le nem járt pénzügyi lízinghez kapcsolódóan a fennálló tartozás összegéről, a lejárt tartozás összegéről, az esedékes havi törlesztőrészletről, azon számlaszámról, amelyre a törlesztőrészletet fizetni kell (hitelszámla száma), valamint a hátralévő futamidőről az örökhagyó közeli hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig,
+
+z) a Felügyelet MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítása.

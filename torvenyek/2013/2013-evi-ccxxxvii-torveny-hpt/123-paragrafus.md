@@ -1,4 +1,4 @@
-123. § (1) A hitelintézet, ha az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozik, legalább évente egyszer nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonként és harmadik országonkénti bontásban)
+123. § (1) A hitelintézet, ha az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozik, legalább évente egyszer összevont alapon nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonként és harmadik országonkénti bontásban)
 
 a) a hitelintézet nevét, tevékenységek jellegét és földrajzi tagozódását,
 

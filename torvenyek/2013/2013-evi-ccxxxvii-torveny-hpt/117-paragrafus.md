@@ -2,7 +2,15 @@
 
 117. § (1) A hitelintézet az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységgel és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos, valamint megfelelő módon és mértékben belső szabályzatában meghatározott javadalmazási politikával rendelkezik.
 
-(2) A javadalmazási politika hatálya a hitelintézet vezető állású személyeire, a belső szabályzatban meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalókra – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – és az előzőekkel azonos javadalmazási kategóriába tartozó azon munkavállalókra terjed ki, akiknek a tevékenysége lényeges hatást gyakorol a hitelintézet kockázatvállalására.
+(2) A javadalmazási politika hatálya kiterjed a hitelintézet
+
+a) vezető állású személyeire,
+
+b) belső szabályzatában meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalóira – ideértve a belső kontroll feladatkört ellátó munkavállalókat is –,
+
+c) a) vagy b) pontba tartozó személyeivel azonos javadalmazási kategóriába tartozó munkavállalóira, akinek a tevékenysége lényeges hatást gyakorol a hitelintézet kockázati profiljára, valamint
+
+d) azon munkavállalóira, akiknek a tevékenysége lényeges hatást gyakorol a hitelintézet kockázati profiljára.
 
 (3) A javadalmazási politika összhangban áll a hatékony és eredményes kockázatkezeléssel, elősegíti annak alkalmazását, és nem ösztönözhet a hitelintézet kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politika a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban áll, valamint az érdekkonfliktus elkerülését célzó intézkedéseket tartalmaz.
 

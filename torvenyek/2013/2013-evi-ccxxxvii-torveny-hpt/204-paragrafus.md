@@ -8,9 +8,13 @@ c) a pénzügyi intézmény tulajdonosait,
 
 d) a pénzügyi intézmény, a független közvetítő vezető állású személyeit,
 
-e) a könyvvizsgálókat, és
+e) a könyvvizsgálókat,
 
-f) a kérelmezőket.
+f) a pénzügyi intézmény részére kiszervezett tevékenységet végzőket,
+
+g) a belső ellenőrt, illetve a belső ellenőrzési szervezet vezetőjét,
+
+h) a kérelmezőket.
 
 (2) A nyilvántartás a 2. mellékletben megjelölt azonosító adatokon túl a következőket tartalmazza:
 
@@ -18,7 +22,7 @@ a) a befolyásoló részesedéssel összefüggésben a befolyásoló részesedé
 
 b) a 200. § (3) bekezdés a)–b) pontja szerinti szoros kapcsolattal összefüggésben a szoros kapcsolat mértékét, valamint a szoros kapcsolat gyakorlását biztosító szerződést,
 
-c) a vezető állású személy tisztségét, a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá a Felügyelet által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
+c) a vezető állású személy tisztségét, elektronikus elérhetőségét (telefonszámát, illetve elektronikus levélcímét), a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá a Felügyelet által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
 
 d) az engedély kiadásával vagy visszaadásával kapcsolatos kérelem tartalmát, továbbá a kérelem elbírálásához csatolt dokumentum adatait,
 
@@ -36,7 +40,17 @@ j) a nagykockázat, belső hitel, kapcsolódó hitel, befektetési korlát és k
 
 k) a fióktelep formájában működő hitelintézet esetében az a)–j) ponton túl az eszközfenntartási mutató ellenőrzéséhez szükséges adatokat, valamint
 
-l) a 288. § (15) bekezdésében meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó nevét.
+l) a 288. § (15) bekezdésében meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó nevét,
+
+m) a Felügyelet részére történő adatszolgáltatásért felelős személy elektronikus elérhetőségét (telefonszámát, illetve elektronikus levélcímét),
+
+n) a könyvvizsgálóval kötött szerződést, a könyvvizsgálói megbízás időtartamát, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést, a könyvvizsgáló elektronikus elérhetőségét (telefonszámát vagy elektronikus levélcímét),
+
+o) a kiszervezésre vonatkozó szerződés keltét, a kiszervezés időtartamát, a kiszervezett tevékenységet, a kiszervezett tevékenységet végző elérhetőségét,
+
+p) belső ellenőr, belső ellenőrzési szervezet vezetője vonatkozásában a foglalkoztatási jogviszony jellegét, időtartamát,
+
+q) az l)–p) pontokban felsorolt adatokban bekövetkezett változásokat.
 
 (3) A (2) bekezdésben megjelölt adatokhoz kapcsolódóan a 2. mellékletben felsoroltakon kívül a Felügyelet a pénzügyi intézmény ügyfelének következő személyes adatait kezelheti:
 

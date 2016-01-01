@@ -64,6 +64,6 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 (9) A csoportszintű helyreállítási tervet a hitelintézet irányítási jogkörrel rendelkező vezető testülete által történt jóváhagyást követően benyújtja a Felügyeletnek.
 
-(10) A csoportszintű helyreállítási terv a csoport tagjainak helyreállítási tervén kívül minden olyan lépést tartalmaz, amelyet a csoport esetleges fizetésképtelenné válásának elkerülése érdekében alkalmaznának.
+(10) A csoportszintű helyreállítási terv a csoport tagjainak helyreállítási tervén kívül minden olyan lépést tartalmaz, amelyet a csoport esetleges fizetésképtelenné válásának elkerülése érdekében alkalmaznának azzal, hogy a csoport tagjainak szintjén szükséges – szavatoló tőkét is érintő – intézkedések konzisztenciájára is ki kell térni.
 
 (11) Az 575/2013/EU rendelet 113. cikk (7) bekezdése szerinti ugyanazon intézményvédelmi rendszerhez tartozó hitelintézetek helyreállítási tervét az intézményvédelmi rendszer készíti el.

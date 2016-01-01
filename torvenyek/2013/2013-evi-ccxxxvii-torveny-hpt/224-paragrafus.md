@@ -6,7 +6,7 @@ a) irányítja és ellenőrzi az OBA gazdálkodási és egyéb tevékenységét 
 
 b) elfogadja az OBA szabályzatait,
 
-c) meghatározza az OBA ügyvezetőjének és megbízottainak feladatait, valamint megállapítja díjazásukat,
+c) meghatározza az OBA ügyvezetőjének, megbízottainak, valamint – a Befektető-védelmi Alap igazgatósága javaslatára – az OBA ügyvezetője helyettesének feladatait, megállapítja díjazásukat,
 
 d) dönt az egyes feladatokra esetileg létrehozott különleges bizottságok összetételéről,
 

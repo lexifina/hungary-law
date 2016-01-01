@@ -8,7 +8,7 @@
 
 a) a 3. § (2) bekezdés a)–d) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységet,
 
-b) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) foglalt feltételekkel biztosításközvetítői tevékenységet,
+b) a biztosítási tevékenységről szóló törvényben foglalt feltételekkel biztosításközvetítői tevékenységet,
 
 c) Tpt.-ben meghatározott feltételekkel értékpapír-kölcsönzést, részvényesi meghatalmazotti (nominee) tevékenységet, Bszt.-ben meghatározott feltételekkel befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint a Bszt. 111–116. §-a szerinti közvetítői tevékenységet és árutőzsdei szolgáltató által végezhető tevékenységet,
 
@@ -20,7 +20,7 @@ f) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 6. § (1) b
 
 g) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezet hitelezési tevékenységének elősegítése érdekében végzett tevékenységet,
 
-h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 11/A. §-ában foglalt feltételekkel tagszervezési tevékenységet,
+h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 11/A. §-ában foglalt feltételekkel tagszervezési tevékenységet,
 
 i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében fedezet, illetve biztosíték hasznosítására vagy az értékesítésben való közreműködésre irányuló tevékenységet,
 

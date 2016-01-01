@@ -16,7 +16,7 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (3) Az (1) bekezdésben meghatározott kockázatvállalás nem történhet az (1) bekezdésben meghatározott személyekre nézve kedvezőbb feltételekkel, mint a hitelintézettel az (1) bekezdésben meghatározott kapcsolatban nem álló személyekkel szembeni kockázatvállalás.
 
-(4) Az egy személlyel vagy kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendeletet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
+(4) Az (1) bekezdésben meghatározott kockázatvállalásból fakadó egy személlyel vagy kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
 
 (5) A (2) bekezdésben meghatározott korlátozás nem vonatkozik
 
