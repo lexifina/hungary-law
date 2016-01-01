@@ -1,6 +1,6 @@
-## XVI.[^161] VÁMIGAZGATÁSI BÍRSÁGRA VONATKOZÓ RENDELKEZÉSEK
+## XVI.[^169] VÁMIGAZGATÁSI BÍRSÁGRA VONATKOZÓ RENDELKEZÉSEK
 
-72/C. §[^162] (1) Az esedékessé vált vámigazgatási bírságot a határozat jogerőre emelkedésének napjától számított tíz napon belül kell megfizetni.
+72/C. §[^170] (1) Az esedékessé vált vámigazgatási bírságot a határozat jogerőre emelkedésének napjától számított tíz napon belül kell megfizetni.
 
 (2) A Vtv. 61/A. § (5) bekezdésében meghatározott bírságot kell felszámítani, ha az exportőr vagy a beszállító a származást igazoló okmányokkal kapcsolatos benyújtási kötelezettségének a vámhatóság felszólításában megjelölt időpontig nem tesz eleget.
 
@@ -18,25 +18,25 @@ a) a (4) bekezdés a) pontja esetében a származási okmányt a vámhatóság n
 
 b) a (4) bekezdés b) pontja esetében a vámhatóság a Vtv. 61/A. § (5) bekezdése alapján származási okmányonként kiszabja a vámigazgatási bírságot, egyidejűleg – amennyiben a bírságot és a vámhiányt megfizetik – a származási okmányt megerősíti.
 
-(5a)[^163] A Vtv. 61/A. § (6a) bekezdésének alkalmazása során a vámigazgatási bírság kiszabásának napján érvényes, a Magyar Nemzeti Bank által közzétett deviza középárfolyamot kell figyelembe venni.
+(5a)[^171] A Vtv. 61/A. § (6a) bekezdésének alkalmazása során a vámigazgatási bírság kiszabásának napján érvényes, a Magyar Nemzeti Bank által közzétett deviza középárfolyamot kell figyelembe venni.
 
 (6) A vámigazgatási bírságnak – a Vtv. 61/A. § (10) bekezdése szerinti – elengedésével és mérséklésével összefüggésben az e rendelet 56. § (2)–(3) bekezdéseit alkalmazni kell.
 
-(7)[^164] A vámigazgatási bírság a Vtv. 61/A. § (6c) bekezdés szerinti gyorsított eljárásban (a továbbiakban: gyorsított eljárás) történő kiszabása feltételeinek megléte esetén, ha az ellenőrzést végző a gyorsított eljárás lefolytatása mellett dönt, ezt közli az ügyféllel és egyúttal tájékoztatja a gyorsított eljárás lefolytatásának törvényi feltételeiről és a jogkövetkezményekről.
+(7)[^172] A vámigazgatási bírság a Vtv. 61/A. § (6c) bekezdés szerinti gyorsított eljárásban (a továbbiakban: gyorsított eljárás) történő kiszabása feltételeinek megléte esetén, ha az ellenőrzést végző a gyorsított eljárás lefolytatása mellett dönt, ezt közli az ügyféllel és egyúttal tájékoztatja a gyorsított eljárás lefolytatásának törvényi feltételeiről és a jogkövetkezményekről.
 
-(8)[^165] A jogsértő személy a gyorsított eljárás lefolytatása és annak jogkövetkezményei tudomásul vételét külön nyilatkozat aláírásával ismeri el.
+(8)[^173] A jogsértő személy a gyorsított eljárás lefolytatása és annak jogkövetkezményei tudomásul vételét külön nyilatkozat aláírásával ismeri el.
 
-(9)[^166] A jogsértő személy beleegyező nyilatkozata esetén az ellenőrzést végző a felvett jegyzőkönyv alapján a helyszínen határozatot hoz.
+(9)[^174] A jogsértő személy beleegyező nyilatkozata esetén az ellenőrzést végző a felvett jegyzőkönyv alapján a helyszínen határozatot hoz.
 
-(10)[^167] A határozat eredeti példányát és a kiszabott bírság megfizetésének tényét igazoló nyugtát a jogsértő személy részére igazoltan át kell adni. Az átadott nyugta tartalmazza a határozatot hozó szerv megnevezését, a vámigazgatási bírság kiszabásáról rendelkező határozat számát, a jogsértő személy nevét, vámazonosító számát, adóazonosító számát, annak hiányában a személyazonosító okmány számát, a kiszabott vámigazgatási bírság összegét és az államháztartási számla számát.
+(10)[^175] A határozat eredeti példányát és a kiszabott bírság megfizetésének tényét igazoló nyugtát a jogsértő személy részére igazoltan át kell adni. Az átadott nyugta tartalmazza a határozatot hozó szerv megnevezését, a vámigazgatási bírság kiszabásáról rendelkező határozat számát, a jogsértő személy nevét, vámazonosító számát, adóazonosító számát, annak hiányában a személyazonosító okmány számát, a kiszabott vámigazgatási bírság összegét és az államháztartási számla számát.
 
-(11)[^168] Ha a gyorsított eljárás lefolytatásának feltételei, a magyar nyelvet nem beszélő, külföldi állampolgárral szemben állnak fenn, akkor az ellenőrzést végző gondoskodik arról, hogy a jogsértő személy az általa beszélt nyelven megismerje a Vtv. 61/A. § (6d) bekezdésének megfelelően a NAV elnöke által kiadott tájékoztatást és a szükséges nyilatkozatokat megtehesse. Ha a jogsértő személy a tájékoztatást nem értette meg, úgy tolmács kirendelésére kerül sor.
+(11)[^176] Ha a gyorsított eljárás lefolytatásának feltételei, a magyar nyelvet nem beszélő, külföldi állampolgárral szemben állnak fenn, akkor az ellenőrzést végző gondoskodik arról, hogy a jogsértő személy az általa beszélt nyelven megismerje a Vtv. 61/A. § (6d) bekezdésének megfelelően az állami adó- és vámhatóság vezetője által kiadott tájékoztatást és a szükséges nyilatkozatokat megtehesse. Ha a jogsértő személy a tájékoztatást nem értette meg, úgy tolmács kirendelésére kerül sor.
 
-[^161]: A 72/C. §-t megelőző XVI. címet a 48/2007. (XII. 29.) PM rendelet 9. § (2) bekezdése iktatta be, egyidejűleg az eredeti XVI. cím számozását XVIII. címre változtatva.
-[^162]: A 72/C. §-t a 48/2007. (XII. 29.) PM rendelet 9. § (2) bekezdése iktatta be, szövege a 28/2009. (XI. 30.) PM rendelet 5. §-ával megállapított szöveg.
-[^163]: A 72/C. § (5a) bekezdését az 57/2014. (XII. 31.) NGM rendelet 4. § (1) bekezdése iktatta be.
-[^164]: A 72/C. § (7) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be.
-[^165]: A 72/C. § (8) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be.
-[^166]: A 72/C. § (9) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be.
-[^167]: A 72/C. § (10) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be.
-[^168]: A 72/C. § (11) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be.
+[^169]: A 72/C. §-t megelőző XVI. címet a 48/2007. (XII. 29.) PM rendelet 9. § (2) bekezdése iktatta be, egyidejűleg az eredeti XVI. cím számozását XVIII. címre változtatva.
+[^170]: A 72/C. §-t a 48/2007. (XII. 29.) PM rendelet 9. § (2) bekezdése iktatta be, szövege a 28/2009. (XI. 30.) PM rendelet 5. §-ával megállapított szöveg.
+[^171]: A 72/C. § (5a) bekezdését az 57/2014. (XII. 31.) NGM rendelet 4. § (1) bekezdése iktatta be.
+[^172]: A 72/C. § (7) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be.
+[^173]: A 72/C. § (8) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be.
+[^174]: A 72/C. § (9) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be.
+[^175]: A 72/C. § (10) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be.
+[^176]: A 72/C. § (11) bekezdését az 57/2014. (XII. 31.) MGM rendelet 4. § (2) bekezdése iktatta be, szövege a 47/2015. (XII. 30.) NGM rendelet 2. § (4) bekezdés b) pontja szerint módosított szöveg.

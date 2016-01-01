@@ -1,10 +1,10 @@
-49. §[^59] (1)[^60]
+49. §[^66] (1)[^67]
 
-(2)[^61] Amennyiben az ügyfél a bankgaranciát, banki fedezetigazolást vagy a biztosítási kötelezvényt külföldi hitelintézet vagy biztosító által vállalt bankgarancia, banki fedezetigazolás vagy biztosítói kötelezvény formájában nyújtja, csatolnia kell annak hiteles magyar fordítását is. A bankgarancia, banki fedezetigazolás vagy a biztosítási kötelezvény hiteles magyar fordítása akkor is megkövetelhető, ha azt másik tagállamban kiadandó olyan egységes engedélyhez nyújtották be, melyek használatát ki kívánják terjeszteni Magyarországra.
+(2)[^68] Amennyiben az ügyfél a bankgaranciát, banki fedezetigazolást vagy a biztosítási kötelezvényt külföldi hitelintézet vagy biztosító által vállalt bankgarancia, banki fedezetigazolás vagy biztosítói kötelezvény formájában nyújtja, csatolnia kell annak hiteles magyar fordítását is. A bankgarancia, banki fedezetigazolás vagy a biztosítási kötelezvény hiteles magyar fordítása akkor is megkövetelhető, ha azt másik tagállamban kiadandó olyan egységes engedélyhez nyújtották be, melyek használatát ki kívánják terjeszteni Magyarországra.
 
-(3)[^62] A bankgaranciának a vámhatóság által elfogadható formáját a NAV a honlapján teszi közzé.
+(3)[^69] A bankgaranciának a vámhatóság által elfogadható formáját a NAV a honlapján teszi közzé.
 
-[^59]: A 49. § a 37/2004. (VIII. 11.) PM rendelet 3. §-ával megállapított szöveg.
-[^60]: A 49. § (1) bekezdését a 45/2004. (XII. 29.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte.
-[^61]: A 49. § (2) bekezdése a 13/2012. (VI. 25.) NGM rendelet 6. §-ával megállapított szöveg.
-[^62]: A 49. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 78. § (5) bekezdése szerint módosított szöveg.
+[^66]: A 49. § a 37/2004. (VIII. 11.) PM rendelet 3. §-ával megállapított szöveg.
+[^67]: A 49. § (1) bekezdését a 45/2004. (XII. 29.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte.
+[^68]: A 49. § (2) bekezdése a 13/2012. (VI. 25.) NGM rendelet 6. §-ával megállapított szöveg.
+[^69]: A 49. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 78. § (5) bekezdése szerint módosított szöveg.

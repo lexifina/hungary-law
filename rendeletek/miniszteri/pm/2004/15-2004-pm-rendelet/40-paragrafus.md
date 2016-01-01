@@ -12,11 +12,11 @@ d) a vámraktárakban végzett aktív feldolgozással vagy átalakítással kapc
 
 e) a pótolhatatlanul elvesztett vagy megsemmisült árumennyiségeket, hiányokat, többleteket, valamint a raktárkészlet csökkenésének vagy növekedésének egyéb eltéréseit,
 
-f)[^44] a vámraktározás vámeljárás alatt álló áruk után a vámraktározási vámeljárás alá vonás időpontjában érvényben lévő jogszabályok alapján fizetendő vámnak, továbbá a nem közösségi adóknak és díjaknak – a nem közösségi adókra és díjakra vonatkozó jogszabályoknak az áruk vámraktározás vámeljárás alatt tartásának időtartama alatt bekövetkező változásainak megfelelően korrigált – aktuális összegét, valamint a felhasznált, illetve felhasználható biztosíték összegét.
+f)[^47] a vámraktározás vámeljárás alatt álló áruk után a vámraktározási vámeljárás alá vonás időpontjában érvényben lévő jogszabályok alapján fizetendő vámnak, továbbá a nem közösségi adóknak és díjaknak – a nem közösségi adókra és díjakra vonatkozó jogszabályoknak az áruk vámraktározás vámeljárás alatt tartásának időtartama alatt bekövetkező változásainak megfelelően korrigált – aktuális összegét, valamint a felhasznált, illetve felhasználható biztosíték összegét.
 
 (3) A D és az E típusú vámraktárak esetében a raktárnyilvántartást a vámraktár üzemeltetésének engedélyezése során jóváhagyott, a vámellenőrzés céljára is megfelelő számítógépes nyilvántartással kell vezetni, amelyből megállapítható a vámraktározás vámeljárás alatt álló áruk pontos vámjogi helyzete.
 
-(4)[^45] Amennyiben közvetlen elektronikus kapcsolat biztosított a vámraktár nyilvántartásának vezetésére kötelezett és a nyilvántartás céljára szolgáló adatbázis között, az adatbázis az alsó fokú vámszerv illetékességi területén kívüli helyen is üzemeltethető.
+(4)[^48] Amennyiben közvetlen elektronikus kapcsolat biztosított a vámraktár nyilvántartásának vezetésére kötelezett és a nyilvántartás céljára szolgáló adatbázis között, az adatbázis a vámszerv illetékességi területén kívüli helyen is üzemeltethető.
 
-[^44]: A 40. § (2) bekezdésének f) pontját a 21/2006. (VIII. 30.) PM rendelet 1. §-a iktatta be.
-[^45]: A 40. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdése szerint módosított szöveg.
+[^47]: A 40. § (2) bekezdésének f) pontját a 21/2006. (VIII. 30.) PM rendelet 1. §-a iktatta be.
+[^48]: A 40. § (4) bekezdése a 47/2015. (XII. 30.) NGM rendelet 2. § (5) bekezdés e) pontja szerint módosított szöveg.

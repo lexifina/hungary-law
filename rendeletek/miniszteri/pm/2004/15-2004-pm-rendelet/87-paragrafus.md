@@ -1,3 +1,3 @@
-## 86. §[^195] A 2004. május 1-jéig forgalomban volt Vámjegy nyomtatvány legkésőbb 2010. december 31-ig használható.
+## 86. §[^204] A 2004. május 1-jéig forgalomban volt Vámjegy nyomtatvány legkésőbb 2010. december 31-ig használható.
 
-[^195]: A 86. § az 51/2005. (XII. 28.) PM rendelet 8. §-ával megállapított szöveg.
+[^204]: A 86. § az 51/2005. (XII. 28.) PM rendelet 8. §-ával megállapított szöveg.

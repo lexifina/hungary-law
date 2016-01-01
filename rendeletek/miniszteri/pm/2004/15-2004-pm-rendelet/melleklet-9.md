@@ -32,13 +32,13 @@
 
 | 10. Gazdasági feltételek |
 
-| 11. Alsó fokú vámszerv(ek) |
+| 11. Vámszerv(ek) |
 
 | a | Eljárás alá vonást végző alsó fokú vámszerv |
 
-| b | A lezáró alsó fokú vámszerv |
+| b | A lezáró vámszerv |
 
-| c | Felügyelő alsó fokú vámszerv(ek) |
+| c | Felügyelő vámszerv(ek) |
 
 | 12. Azonosítás | 13. A lezárás időtartama (hónapokban) | 14. Egyszerűsített eljárások | 15. Átszállítás |
 
@@ -190,7 +190,7 @@
 
 ## Írja be a kérelmező – vámhatóság által kiadott – egyedi ügyfél azonosító számát.
 
-|  | 3A Előzetes alsó fokú vámszerv általi engedély |
+|  | 3A Előzetes vámszerv általi engedély |
 
 ## Módosított vagy megújított engedély iránti kérelem esetén jelezze a vonatkozó előzetes engedély számát.
 

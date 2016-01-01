@@ -6,7 +6,7 @@
 
 | Befizetett összeg: ..........................................................................................................................................………………... Ft |
 
-| Alsó fokú vámszerv: | Sorszám: AA |
+| Vámszerv: | Sorszám: AA |
 
 | Nyilvántartási szám: |  |
 
@@ -42,6 +42,6 @@
 
 |  |  |  | Kelt: .................. 200 ......................... hó .......... nap” |
 
-7. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^206]
+7. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^215]
 
-[^206]: A 7. számú mellékletet a 8/2007. (V. 21.) PM rendelet 4. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^215]: A 7. számú mellékletet a 8/2007. (V. 21.) PM rendelet 4. § (2) bekezdésének b) pontja hatályon kívül helyezte.

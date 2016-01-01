@@ -16,11 +16,11 @@
 
 ## 3. Vámkontingens kérelmek benyújtása, elfogadása
 
-## 3.1.[^208] Normál eljárás
+## 3.1.[^217] Normál eljárás
 
 ## A Közösségi rendelkezés által megnyitott és az ún. automatikus vámkontingens kiosztási rendszerben kiosztásra kerülő vámkontingensekre vonatkozó kérelmet a vámkezelést kérő normál eljárásban a szabad forgalom számára történő vámkezelés céljából benyújtásra kerülő EV megfelelő módon történő kitöltésével nyújthat be, melyen kívül külön vámkontingens iránti kérelmet benyújtani nem kell.
 
-## Ezen eljárásban a vámkezelést végző alsó fokú vámszerv az EV-t egyidejűleg vámkontingens kérelemként kezeli.
+## Ezen eljárásban a vámkezelést végző vámszerv az EV-t egyidejűleg vámkontingens kérelemként kezeli.
 
 ## A vámkontingens kérelem csak az alábbi feltételek együttes teljesülése esetén fogadható el:
 
@@ -38,11 +38,11 @@
 
 ## Ha a vámkódex 76. cikk (1) bekezdés a) pontja szerinti egyszerűsített bejelentést engedélyeztek, a vámkontingens kérelem (megfelelő módon kitöltött hiányos adattartalmú EV okmány) akkor számít benyújtottnak, ha valamennyi a vámkontingens alkalmazásához szükséges okmány rendelkezésre áll. Ezzel az előfeltétellel megengedett az EV-n hiányos árunyilatkozattal tett vámkezelési kérelem útján történő vámkontingens kérelmezés.
 
-## 3.2.2.[^209] Egyszerűsített bejelentés egyszerűsített eljárással (adminisztratív vagy kereskedelmi okmánnyal) kért szabad forgalom számára történő vámkezelés
+## 3.2.2.[^218] Egyszerűsített bejelentés egyszerűsített eljárással (adminisztratív vagy kereskedelmi okmánnyal) kért szabad forgalom számára történő vámkezelés
 
 ## Ha a vámkódex 76. cikk (1) bekezdés b) pontja szerinti egyszerűsített bejelentést engedélyeztek, a vámkontingens kérelem akkor számít benyújtottnak, ha
 
-## – a vámkezelést kérő az 1. számú minta szerinti kérelmet kitöltötte és azt a vámkezelést végző alsó fokú vámszerv részére benyújtotta,
+## – a vámkezelést kérő az 1. számú minta szerinti kérelmet kitöltötte és azt a vámkezelést végző vámszerv részére benyújtotta,
 
 ## – valamennyi a vámkontingens alkalmazásához szükséges okmány rendelkezésre áll.
 
@@ -62,9 +62,9 @@
 
 ## A kérelem azonban csak akkor számít szabályszerűen benyújtottnak, ha rendelkezésre állnak a szükséges okmányok és az áru fizikailag a megengedett helyen található.
 
-## 4.[^210] Vámkontingens kérelmek továbbítása, a kérelmekre kapott válaszok fogadása
+## 4.[^219] Vámkontingens kérelmek továbbítása, a kérelmekre kapott válaszok fogadása
 
-## Az alsó fokú vámszerv a hozzá benyújtott és általa elfogadott vámkontingens kérelmeket megküldi a Nemzeti Kontingenskezelő Központba, mely azokat – ellenőrzést követően – a vámkontingensek kiosztását végző szervhez Brüsszelbe továbbítja. A kontingenskérelmekre adott válaszok közlését követően a Nemzeti Kontingenskezelő Központ értesíti a további intézkedések megtételére jogosult vámszervet.
+## A vámszerv a hozzá benyújtott és általa elfogadott vámkontingens kérelmeket megküldi a Nemzeti Kontingenskezelő Központba, mely azokat – ellenőrzést követően – a vámkontingensek kiosztását végző szervhez Brüsszelbe továbbítja. A kontingenskérelmekre adott válaszok közlését követően a Nemzeti Kontingenskezelő Központ értesíti a további intézkedések megtételére jogosult vámszervet.
 
 ## A 3.2.3. pont szerinti eljárás esetében a Nemzeti Kontingenskezelő Központ részére az engedélyes közvetlenül megküldi a vámkontingens kérelmet. Ezen kontingenskérelemre adott válasz közlését követően a Nemzeti Kontingenskezelő Központ a kérelmezőt közvetlenül értesíti a kérelme elbírálásának eredményéről.
 
@@ -76,13 +76,13 @@
 
 ## Azon vámkezelések esetében, ahol a kontingenskérelem a vámkezelés elvégzését követően kerül benyújtásra, a vámkezelési kérelem módosításának elfogadási dátuma alapján kerül a kérelem – kiosztási eljárás céljából – Brüsszelben besorolásra.
 
-## 7.[^211] Visszamenőleges hatállyal megnyitott vámkontingensek
+## 7.[^220] Visszamenőleges hatállyal megnyitott vámkontingensek
 
 ## Amennyiben egy közösségi szabályozás által visszamenőleges hatállyal kerül megnyitásra egy vámkontingens, úgy a vámkontingens igénybevételére lehetőség van mindazon áruk esetében, melynek szabad forgalom számára történő vámkezelése a vonatkozó vámkontingens érvényességének kezdő időpontját követően került elvégzésre. A vámkontingens megnyitását visszamenőleges hatállyal elrendelő jogszabály közzétételét követően van lehetőség áru szabad forgalom számára történő vámkezelését végző vám- és pénzügyőri hivatalnál a kérdéses vámkontingens igénylésére.
 
 ## A vámhatóság értesítheti a vámkezelést kérőt a visszamenőlegesen megnyitott vámkontingens igénylésének lehetőségéről.
 
-## Amennyiben az áru szabad forgalom számára történő vámkezelésének időpontjában érvényes vámkontingens nem áll rendelkezésre, azonban a vámkezelést kérő megalapozott információval bír ezen kontingens jövőbeni, visszamenőleges hatállyal történő megnyitásáról, úgy az EV kitöltésénél a megnyitásra kerülő vámkontingens rendelésszáma feltüntetésre kerülhet, ha azt az alsó fokú vámszerv – a Nemzeti Kontingenskezelő Központtól kapott jóváhagyást követően – engedélyezi. Ezen eljárás esetében a kérdéses vámkontingens megnyitását visszamenőleges hatállyal elrendelő jogszabály közzétételét követően a vámhatóság a kontingenskérelemnek megfelelő mennyiséget hivatalból megkéri, és a kapott válasznak megfelelően a vámterhet kiszabó határozat módosítása iránt intézkedik.
+## Amennyiben az áru szabad forgalom számára történő vámkezelésének időpontjában érvényes vámkontingens nem áll rendelkezésre, azonban a vámkezelést kérő megalapozott információval bír ezen kontingens jövőbeni, visszamenőleges hatállyal történő megnyitásáról, úgy az EV kitöltésénél a megnyitásra kerülő vámkontingens rendelésszáma feltüntetésre kerülhet, ha azt a vámszerv – a Nemzeti Kontingenskezelő Központtól kapott jóváhagyást követően – engedélyezi. Ezen eljárás esetében a kérdéses vámkontingens megnyitását visszamenőleges hatállyal elrendelő jogszabály közzétételét követően a vámhatóság a kontingenskérelemnek megfelelő mennyiséget hivatalból megkéri, és a kapott válasznak megfelelően a vámterhet kiszabó határozat módosítása iránt intézkedik.
 
 ## 8. Vámplafonok
 
@@ -96,15 +96,15 @@
 
 ## A vámplafont létrehozó közösségi jogszabályban meghatározott kedvezményes plafon vámtétel csak akkor alkalmazható, ha a vámkezelést kérő a kedvezményt kérelmezi, és valamennyi, a vámplafon alkalmazásához szükséges okmány rendelkezésre áll.
 
-## 8.2.1.[^212] Hiányos árunyilatkozattal kért szabad forgalom számára történő vámkezelés
+## 8.2.1.[^221] Hiányos árunyilatkozattal kért szabad forgalom számára történő vámkezelés
 
-## Ha a vámkódex 76. cikk (1) bekezdés a) pontja szerinti egyszerűsített árunyilatkozatot az alsó fokú vámszerv elfogadta, a közösségi rendelkezés által megnyitott vámplafonokra vonatkozó kérelem (megfelelő módon kitöltött hiányos adattartalmú EV okmány) akkor fogadható el, ha valamennyi, a vámplafon alkalmazásához szükséges okmány rendelkezésre áll.
+## Ha a vámkódex 76. cikk (1) bekezdés a) pontja szerinti egyszerűsített árunyilatkozatot a vámszerv elfogadta, a közösségi rendelkezés által megnyitott vámplafonokra vonatkozó kérelem (megfelelő módon kitöltött hiányos adattartalmú EV okmány) akkor fogadható el, ha valamennyi, a vámplafon alkalmazásához szükséges okmány rendelkezésre áll.
 
-## 8.2.2.[^213] Egyszerűsített bejelentéssel (adminisztratív vagy kereskedelmi okmánnyal) kért szabad forgalom számára történő vámkezelés
+## 8.2.2.[^222] Egyszerűsített bejelentéssel (adminisztratív vagy kereskedelmi okmánnyal) kért szabad forgalom számára történő vámkezelés
 
 ## Ha a vámkódex 76. cikk (1) bekezdés b) pontja szerinti egyszerűsített bejelentést engedélyeztek, a vámplafon kérelem akkor számít benyújtottnak, ha
 
-## – a vámkezelést kérő a 1. számú minta szerinti kérelmet kitöltötte és azt a vámkezelést végző alsó fokú vámszerv részére benyújtotta,
+## – a vámkezelést kérő a 1. számú minta szerinti kérelmet kitöltötte és azt a vámkezelést végző vámszerv részére benyújtotta,
 
 ## – valamennyi, a vámplafon alkalmazásához szükséges okmány rendelkezésre áll.
 
@@ -140,9 +140,9 @@
 
 ## 9.2.2. Egyszerűsített eljárás
 
-## 9.2.2.1.[^214] Hiányos árunyilatkozattal kért szabad forgalom számára történő vámkezelés
+## 9.2.2.1.[^223] Hiányos árunyilatkozattal kért szabad forgalom számára történő vámkezelés
 
-## Ha a vámkódex 76. cikk (1) bekezdés a) pontja szerinti egyszerűsített árunyilatkozatot az alsó fokú vámszerv elfogadta, a megfigyelés alá eső termékek szabad forgalom számára történő vámkezelése céljából benyújtott hiányos adattartalmú EV okmány 44. rovatában kell az importált áru megfigyelési rendelésszámát feltüntetni, illetve az EV okmánynak tartalmaznia kell az érintett áru nettó tömegére vonatkozó adatot a megfigyelést elrendelő közösségi jogszabályban meghatározott mennyiségi egységben.
+## Ha a vámkódex 76. cikk (1) bekezdés a) pontja szerinti egyszerűsített árunyilatkozatot a vámszerv elfogadta, a megfigyelés alá eső termékek szabad forgalom számára történő vámkezelése céljából benyújtott hiányos adattartalmú EV okmány 44. rovatában kell az importált áru megfigyelési rendelésszámát feltüntetni, illetve az EV okmánynak tartalmaznia kell az érintett áru nettó tömegére vonatkozó adatot a megfigyelést elrendelő közösségi jogszabályban meghatározott mennyiségi egységben.
 
 ## 9.2.2.2. Egyszerűsített bejelentéssel (adminisztratív vagy kereskedelmi okmánnyal) kért szabad forgalom számára történő vámkezelés
 
@@ -152,7 +152,7 @@
 
 ## Ha a vámkódex 76. cikk (1) bekezdés b) pontja szerinti egyszerűsített eljárást engedélyeztek, a megfigyelés alá eső termékek szabad forgalom számára történő vámkezelése céljából benyújtott kiegészítő árunyilatkozat 44. rovatában kell az importált áru megfigyelési rendelésszámát feltüntetni, illetve az EV okmánynak tartalmaznia kell az érintett áru nettó tömegére vonatkozó adatot a megfigyelést elrendelő közösségi jogszabályban meghatározott mennyiségi egységben.
 
-## 1. számú minta[^215]
+## 1. számú minta[^224]
 
 | Vámkontingenst/vámplafont kérelmező adatai: |
 
@@ -198,7 +198,7 @@
 
 |  | cégszerű aláírás |
 
-## 2. számú minta[^216]
+## 2. számú minta[^225]
 
 |  | Nemzeti Adó- és Vámhivatal Nemzeti Kontingenskezelő Központ | Vámkontingenst kérelmező adatai: VP ID: Név: Levelezési cím, telefon: Telefax: |
 
@@ -234,15 +234,15 @@
 
 |  | cégszerű aláírás |
 
-10. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^217]
+10. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^226]
 
-[^208]: A 9. számú melléklet 3.1. pontja a 13/2012. (VI. 25.) NGM rendelet 10. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^209]: A 9. számú melléklet 3.2.2. pontja a 13/2012. (VI. 25.) NGM rendelet 10. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^210]: A 9. számú melléklet 4. pontja a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése, továbbá 37. § (2) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdése szerint módosított szöveg.
-[^211]: A 9. számú melléklet 7. pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdése szerint módosított szöveg. [A 17/2011. (IV. 19.) NGM rendelet 78. § (1) bekezdésével elrendelt módosítás, amely szerint a „a vám- és pénzügyőri hivatalnál” szövegrész helyébe „az alsó fokú vámszervnél” szöveg lép, nem vezethető át.]
-[^212]: A 9. számú melléklet 8.2. pont 8.2.1. alpontja a 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdése szerint módosított szöveg.
-[^213]: A 9. számú melléklet 8.2.2. pontja a 13/2012. (VI. 25.) NGM rendelet 10. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^214]: A 9. számú melléklet 9.2.2. pont 9.2.2.1. alpontja a 17/2011. (IV. 19.) NGM rendelet 78. § (4) bekezdése szerint módosított szöveg.
-[^215]: A 9. számú melléklet 1. számú mintája a 17/2009. (IX. 29.) PM rendelet 36. § (5) bekezdése, a 67/2013. (XII. 23.) NGM rendelet 9. § 8. pontja szerint módosított szöveg.
-[^216]: A 9. számú melléklet 2. számú mintája a 17/2009. (IX. 29.) PM rendelet 36. § (5) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése, a 67/2013. (XII. 23.) NGM rendelet 9. § 8. pontja szerint módosított szöveg.
-[^217]: A 10. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 80. §-a hatályon kívül helyezte.
+[^217]: A 9. számú melléklet 3.1. pontja a 47/2015. (XII. 30.) NGM rendelet 2. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^218]: A 9. számú melléklet 3.2.2. pontja a 47/2015. (XII. 30.) NGM rendelet 2. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^219]: A 9. számú melléklet 4. pontja a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése, továbbá 37. § (2) bekezdése, a 47/2015. (XII. 30.) NGM rendelet 2. § (5) bekezdés o) pontja szerint módosított szöveg.
+[^220]: A 9. számú melléklet 7. pontja a 47/2015. (XII. 30.) NGM rendelet 2. § (5) bekezdés e) pontja szerint módosított szöveg. [A 17/2011. (IV. 19.) NGM rendelet 78. § (1) bekezdésével elrendelt módosítás, amely szerint a „a vám- és pénzügyőri hivatalnál” szövegrész helyébe „az alsó fokú vámszervnél” szöveg lép, nem vezethető át.][A 47/2015. (XII. 30.) NGM rendelet 2. § (5) bekezdés b) pontjával elrendelt módosítás, amely szerint az „alsó fokú vámszervnél” szövegrész helyébe a „vámszervnél” szöveg lép, nem vezethető át.]
+[^221]: A 9. számú melléklet 8.2. pont 8.2.1. alpontja a 47/2015. (XII. 30.) NGM rendelet 2. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^222]: A 9. számú melléklet 8.2.2. pontja a 47/2015. (XII. 30.) NGM rendelet 2. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^223]: A 9. számú melléklet 9.2.2. pont 9.2.2.1. alpontja a 47/2015. (XII. 30.) NGM rendelet 2. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^224]: A 9. számú melléklet 1. számú mintája a 17/2009. (IX. 29.) PM rendelet 36. § (5) bekezdése, a 67/2013. (XII. 23.) NGM rendelet 9. § 8. pontja szerint módosított szöveg.
+[^225]: A 9. számú melléklet 2. számú mintája a 17/2009. (IX. 29.) PM rendelet 36. § (5) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése, a 67/2013. (XII. 23.) NGM rendelet 9. § 8. pontja szerint módosított szöveg.
+[^226]: A 10. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 80. §-a hatályon kívül helyezte.

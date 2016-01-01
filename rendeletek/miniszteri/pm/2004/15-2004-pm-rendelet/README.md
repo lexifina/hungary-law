@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-15-20-5
 | 2014-01-01 | 2004-15-20-53.26 | 67/2013. (XII. 23.) NGM rendelet |
 | 2015-01-01 | 2004-15-20-53.27 | 57/2014. (XII. 31.) NGM rendelet |
 | 2015-09-05 | 2004-15-20-53.28 | 17/2011. (IV. 19.) NGM rendelet |
+| 2016-01-01 | 2004-15-20-53.29 | 47/2015. (XII. 30.) NGM rendelet |
