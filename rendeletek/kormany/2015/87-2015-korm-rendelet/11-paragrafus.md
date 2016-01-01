@@ -12,24 +12,24 @@ b) a külföldi felsőoktatási intézménnyel kapcsolatos adatok esetében anna
 
 c) a diákotthonnal kapcsolatos adatok esetében annak vezetője vagy fenntartója,
 
-d)[^7] az alapító okirattal, valamint a fenntartóval kapcsolatos adatok esetén a felsőoktatási intézmény vagy fenntartója, illetve a diákotthon vagy fenntartója,
+d)[^12] az alapító okirattal, valamint a fenntartóval kapcsolatos adatok esetén a felsőoktatási intézmény vagy fenntartója, illetve a diákotthon vagy fenntartója,
 
-e)[^8] a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, az Országos Doktori Tanács, a Doktoranduszok Országos Szövetsége (a továbbiakban együtt: felsőoktatási szervezetek) esetében az adott felsőoktatási szervezet vezetője,
+e)[^13] a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, az Országos Doktori Tanács, a Doktoranduszok Országos Szövetsége (a továbbiakban együtt: felsőoktatási szervezetek) esetében az adott felsőoktatási szervezet vezetője,
 
 f) a felsőoktatási intézmény keretében működő szakkollégium esetében a felsőoktatási intézmény vezetője, diákotthon keretében működő szakkollégium esetében a diákotthon fenntartója,
 
-g)[^9] a közösségi felsőoktatási képzési központ esetén annak képviselője
+g)[^14] a közösségi felsőoktatási képzési központ esetén annak képviselője
 
 ## jelenti be.
 
-(4)[^10] A kérelemhez mellékelni kell az adat vagy az adatváltozás tényét igazoló dokumentumokat. Nyilvántartásba vett szakirányú továbbképzés képzési és kimeneti követelményeinek módosítása esetén mellékelni kell a módosított képzési és kimeneti követelményeket, továbbá a képzést folytató többi felsőoktatási intézmény támogató véleményét a módosításról. A módosítás nem irányulhat a képzés nevének, szakképzettségének, képzési területének, képzési idejének vagy kreditszámának a változására. A módosítási kérelem benyújtására a 22. § (1) bekezdésében meghatározott határidők az irányadóak.
+(4)[^15] A kérelemhez mellékelni kell az adat vagy az adatváltozás tényét igazoló dokumentumokat. Nyilvántartásba vett szakirányú továbbképzés képzési és kimeneti követelményeinek módosítása esetén mellékelni kell a módosított képzési és kimeneti követelményeket, továbbá a képzést folytató többi felsőoktatási intézmény támogató véleményét a módosításról. A módosítás nem irányulhat a képzés nevének, szakképzettségének, képzési területének, képzési idejének vagy kreditszámának a változására. A módosítási kérelem benyújtására a 22. § (1) bekezdésében meghatározott határidők az irányadóak.
 
 (5) A Hivatal az alapító okiratban foglalt adatok vizsgálatával kapcsolatos eljárása során vizsgálja a magán és az egyházi felsőoktatási intézmény alapító okiratában foglaltak jogszerűségét. Ha a Hivatal megállapítja, hogy a felsőoktatási intézmény, diákotthon alapító okirata jogszabálysértő, megfelelő határidő tűzésével felhívja a fenntartót a jogszabálysértés orvoslására. Eredménytelen felhívás esetén a Hivatal kezdeményezi, hogy a miniszter az Nftv. 65. §-a alapján folytasson le törvényességi ellenőrzési eljárást.
 
-(6)[^11] A Hivatal a képzés duális formájának nyilvántartásba vételére irányuló eljárást – az (1)–(5) bekezdésben foglaltaktól eltérően – hivatalból, a Duális Képzési Tanács által megküldött támogató vélemény alapján folytatja le.
+(6)[^16] A Hivatal a képzés duális formájának nyilvántartásba vételére irányuló eljárást – az (1)–(5) bekezdésben foglaltaktól eltérően – hivatalból, a Duális Képzési Tanács által megküldött támogató vélemény alapján folytatja le.
 
-[^7]: A 11. § (3) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 2. pontja szerint módosított szöveg.
-[^8]: A 11. § (3) bekezdés e) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 3. pontja szerint módosított szöveg.
-[^9]: A 11. § (3) bekezdés g) pontját a 345/2015. (XI. 19.) Korm. rendelet 62. § (1) bekezdése iktatta be.
-[^10]: A 11. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 62. § (2) bekezdésével megállapított szöveg.
-[^11]: A 11. § (6) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 62. § (3) bekezdése iktatta be.
+[^12]: A 11. § (3) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 2. pontja szerint módosított szöveg.
+[^13]: A 11. § (3) bekezdés e) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 3. pontja szerint módosított szöveg.
+[^14]: A 11. § (3) bekezdés g) pontját a 345/2015. (XI. 19.) Korm. rendelet 62. § (1) bekezdése iktatta be.
+[^15]: A 11. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 62. § (2) bekezdésével megállapított szöveg.
+[^16]: A 11. § (6) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 62. § (3) bekezdése iktatta be.

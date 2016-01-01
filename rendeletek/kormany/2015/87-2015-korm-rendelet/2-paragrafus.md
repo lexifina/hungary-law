@@ -8,7 +8,7 @@ b) ha költségvetési szervként működik, a törzskönyvi nyilvántartásba v
 
 ## válik jogi személlyé.
 
-(3) A Hivatalnak a nyilvántartásba vételre irányuló eljárásra nyitva álló ügyintézési határideje két hónap.
+(3)[^1]
 
 (4) Ha a felsőoktatási intézményt nyilvántartásba vették, jogosulttá válik minden olyan nyilatkozat megtételére, minden olyan kötelezettség vállalására, amely ahhoz szükséges, hogy a működés megkezdéséhez az engedély kiadásának feltételei teljesüljenek. A nyilatkozattételre, a kötelezettségvállalásra, a felsőoktatási intézmény képviseletére a fenntartó által a szervezési feladatok ellátására megbízott, az intézményvezetői feladatokat ideiglenesen ellátó személy jogosult. Ilyen megbízást az kaphat, aki megfelel az Nftv.-ben a rektori megbízáshoz meghatározott feltételeknek. Az ideiglenes intézményvezetői megbízás a rektor kinevezéséig szól.
 
@@ -17,3 +17,5 @@ b) ha költségvetési szervként működik, a törzskönyvi nyilvántartásba v
 (6) A nyilvántartásba vett felsőoktatási intézmény elnevezésének más felsőoktatási intézmény elnevezésétől egyértelműen különböznie kell. A felsőoktatási intézmény elnevezése nem lehet megtévesztő, nem kelthet az intézményre, annak tevékenységére vonatkozó hamis látszatot. A felsőoktatási intézmény idegen nyelvű elnevezésének tartalmilag egyeznie kell a magyar nyelvű elnevezéssel. Két vagy több azonos nevű felsőoktatási intézmény esetén a név viselésének joga azt a felsőoktatási intézményt illeti meg, amelyik fenntartója a nyilvántartásba vételi kérelmet elsőként nyújtotta be. A felsőoktatási intézményt élő személyről elnevezni nem lehet. A történelem kiemelkedő személyiségeinek nevét a Magyar Tudományos Akadémia engedélyével, olyan nevet, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a felsőoktatási intézmény nevében feltüntetni.
 
 (7) A felsőoktatási intézményt a nyilvántartásból törölni kell, ha a nyilvántartásba vételétől számított öt éven belül nem kap állami elismerést.
+
+[^1]: A 2. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 251. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

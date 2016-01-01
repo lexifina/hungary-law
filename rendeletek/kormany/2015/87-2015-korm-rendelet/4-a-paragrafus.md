@@ -1,4 +1,4 @@
-4/A. §[^5] (1) Az Nftv. 108. § 23a. pontjában meghatározott szervezetnek a közösségi felsőoktatási képzési központként való nyilvántartásba vételét és működésének engedélyezését a szervezet és a vele együttműködő felsőoktatási intézmény együttesen, az egymással kötött megállapodás aláírását követő harminc napon belül kérheti a Hivataltól. A közösségi felsőoktatási képzési központ működési engedélyezési eljárásának részét képezi a vele együttműködő felsőoktatási intézménynek a közösségi felsőoktatási képzési központban indítandó képzése indításának nyilvántartásba vétele.
+4/A. §[^7] (1) Az Nftv. 108. § 23a. pontjában meghatározott szervezetnek a közösségi felsőoktatási képzési központként való nyilvántartásba vételét és működésének engedélyezését a szervezet és a vele együttműködő felsőoktatási intézmény együttesen, az egymással kötött megállapodás aláírását követő harminc napon belül kérheti a Hivataltól. A közösségi felsőoktatási képzési központ működési engedélyezési eljárásának részét képezi a vele együttműködő felsőoktatási intézménynek a közösségi felsőoktatási képzési központban indítandó képzése indításának nyilvántartásba vétele.
 
 (2) Az (1) bekezdés szerinti kérelemhez mellékelni kell
 
@@ -40,4 +40,4 @@ b) azt, hogy a közösségi felsőoktatási képzési központ – figyelemmel a
 
 (7) Az Nftv. 14. § (2a) bekezdés d) pontjában szabályozott megállapodás tartalmára a (3) bekezdést megfelelően alkalmazni kell.
 
-[^5]: A 4/A. §-t a 345/2015. (XI. 19.) Korm. rendelet 60. §-a iktatta be.
+[^7]: A 4/A. §-t a 345/2015. (XI. 19.) Korm. rendelet 60. §-a iktatta be.

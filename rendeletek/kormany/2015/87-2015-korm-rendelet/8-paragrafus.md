@@ -30,8 +30,9 @@ c) a működési engedélyt visszavonja, és kezdeményezi a miniszternél a fel
 
 (5) Ha a felsőoktatási intézmény a nyilvántartásban szereplő valamely szakját vagy felsőoktatási szakképzését – a szakirányú továbbképzések és a kis létszámú szakok kivételével – öt egymást követő évben nem indította, azt a Hivatal a működési engedély felülvizsgálata során hivatalból törli a nyilvántartásból.
 
-(6) A működési engedély felülvizsgálata eljárásának ügyintézési határideje hat hónap.
+(6)[^9]
 
-(7)[^6] A közösségi felsőoktatási képzési központ működési engedélyét a Hivatal legalább ötévente felülvizsgálja. A felülvizsgálat során az (1) bekezdést, a (2) bekezdés a) és b) pontját és a (4)–(6) bekezdést megfelelően alkalmazni kell.
+(7)[^10] A közösségi felsőoktatási képzési központ működési engedélyét a Hivatal legalább ötévente felülvizsgálja. A felülvizsgálat során az (1) bekezdést, a (2) bekezdés a) és b) pontját és a (4)–(6) bekezdést megfelelően alkalmazni kell.
 
-[^6]: A 8. § (7) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 61. §-a iktatta be.
+[^9]: A 8. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 251. § d) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^10]: A 8. § (7) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 61. §-a iktatta be.

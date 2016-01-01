@@ -6,7 +6,7 @@
 
 (3) A felsőoktatási intézmény a nyilvántartott adatokat hitelesített iratként állítja elő és tárolja.
 
-(4)[^52] A papír alapú irat hitelesítése a felsőoktatási intézmény szabályzatában meghatározott személy aláírásával, a felsőoktatási intézmény bélyegzőjének lenyomatával, valamint keltezéssel, az elektronikus irat hitelesítése időbélyegzővel és a felsőoktatási intézmény szabályzatában meghatározott személy elektronikus aláírásával, vagy a szervezet nevében történő elektronikus aláírással való ellátásával történik.
+(4)[^59] A papír alapú irat hitelesítése a felsőoktatási intézmény szabályzatában meghatározott személy aláírásával, a felsőoktatási intézmény bélyegzőjének lenyomatával, valamint keltezéssel, az elektronikus irat hitelesítése időbélyegzővel és a felsőoktatási intézmény szabályzatában meghatározott személy elektronikus aláírásával, vagy a szervezet nevében történő elektronikus aláírással való ellátásával történik.
 
 (5) A felsőoktatási intézménynek a hitelesített iratokat biztonságos helyen kell tárolnia oly módon, hogy ahhoz csak a felsőoktatási intézmény szabályzatában jogosultként megjelölt személyek férjenek hozzá.
 
@@ -30,11 +30,11 @@ g) az átvétel időpontját, és
 
 h) az átvevő nevét és aláírását.
 
-(8)[^53] Ha az átvétel során a (9) bekezdés szerinti képviselő jár el, a képviselő képviseletre jogosító okiratát az átadás-átvételi dokumentumhoz kell csatolni. Az átadás-átvételi dokumentum több irat átadását is tartalmazhatja. Ha az irat átadása nem személyesen történik, akkor azt az arra jogosult részére postai úton, az átvételt igazolható módon kell megküldeni. Ebben az esetben a küldemény átvételének igazolására szolgáló dokumentumot csatolni kell az átadás-átvételt igazoló dokumentumhoz. Az átadás-átvételi dokumentumot a felsőoktatási intézmény szabályzatában meghatározott módon őrzi.
+(8)[^60] Ha az átvétel során a (9) bekezdés szerinti képviselő jár el, a képviselő képviseletre jogosító okiratát az átadás-átvételi dokumentumhoz kell csatolni. Az átadás-átvételi dokumentum több irat átadását is tartalmazhatja. Ha az irat átadása nem személyesen történik, akkor azt az arra jogosult részére postai úton, az átvételt igazolható módon kell megküldeni. Ebben az esetben a küldemény átvételének igazolására szolgáló dokumentumot csatolni kell az átadás-átvételt igazoló dokumentumhoz. Az átadás-átvételi dokumentumot a felsőoktatási intézmény szabályzatában meghatározott módon őrzi.
 
 (9) A felvett jelentkező helyett, illetve a hallgató vagy volt hallgató helyett a Polgári perrendtartásról szóló 1952. évi III. törvényben meghatározott teljes bizonyító erejű magánokiratba vagy közokiratba foglalt meghatalmazással rendelkező képviselője, vagy törvényes képviselője (a továbbiakban együtt: képviselő) is eljárhat.
 
 (10) A felsőoktatási intézmény a kötelezően kezelt iratokon kívüli, a hallgatói jogviszonyhoz kapcsolódó egyéb iratokról a szabályzatában rendelkezik.
 
-[^52]: A 34. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^53]: A 34. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 89. § 8. pontja szerint módosított szöveg.
+[^59]: A 34. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^60]: A 34. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 89. § 8. pontja szerint módosított szöveg.

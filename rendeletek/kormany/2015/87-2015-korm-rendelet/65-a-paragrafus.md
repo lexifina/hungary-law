@@ -1,4 +1,4 @@
-## 21/A. [^76] A felsőoktatási intézmények működésére vonatkozó szabályok
+## 21/A. [^83] A felsőoktatási intézmények működésére vonatkozó szabályok
 
 65/A. § (1) A miniszter legalább 30 napos határidő tűzésével felhívja az Nftv. 13/B. § (2) bekezdése szerinti javaslattevő szerveket a konzisztóriumi tagok személyére történő javaslattételére.
 
@@ -40,4 +40,4 @@ k) hallgatói jogviszonnyal rendelkezik az adott felsőoktatási intézményben.
 
 (6) A tagságnak a megbízatási idő lejártát megelőző megszűnése esetén a miniszter az eredeti tag megbízatásából hátralévő időtartamra haladéktalanul új tagot delegál.
 
-[^76]: A 21/A. alcímet (65/A–65/C. §) a 345/2015. (XI. 19.) Korm. rendelet 83. §-a iktatta be.
+[^83]: A 21/A. alcímet (65/A–65/C. §) a 345/2015. (XI. 19.) Korm. rendelet 83. §-a iktatta be.

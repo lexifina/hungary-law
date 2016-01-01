@@ -224,7 +224,7 @@ Keltezés, bélyegző, aláírás, záradékok”
 
 5. Oklevél
 
-5.1.[^117] Felsőoktatási szakképzésben szerezhető oklevél
+5.1.[^124] Felsőoktatási szakképzésben szerezhető oklevél
 
 „Oklevél sorszáma:
 
@@ -242,7 +242,7 @@ Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, sz�
 
 keltezés, bélyegző, aláírás, záradék”
 
-5.2.[^118] Felsőoktatási szakképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
+5.2.[^125] Felsőoktatási szakképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
 
 „Oklevél sorszáma:
 
@@ -258,7 +258,7 @@ Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, sz�
 
 keltezés, bélyegzők, aláírások, záradék”
 
-5.3.[^119] Alapképzésben, osztatlan képzésben, mesterképzésben szerezhető oklevél
+5.3.[^126] Alapképzésben, osztatlan képzésben, mesterképzésben szerezhető oklevél
 
 „Oklevél sorszáma:
 
@@ -286,7 +286,7 @@ Az oklevél „Legum Magister” vagy „Master of Laws” címet (rövidítve: 
 
 keltezés, bélyegző, aláírás, záradék”
 
-5.4.[^120] Alapképzésben, osztatlan képzésben, mesterképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
+5.4.[^127] Alapképzésben, osztatlan képzésben, mesterképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
 
 „Oklevél sorszáma:
 
@@ -316,7 +316,7 @@ Az oklevél „Legum Magister” vagy „Master of Laws” címet (rövidítve: 
 
 keltezés, bélyegzők, aláírások, záradék”
 
-5.5.[^121] Alapképzésben, osztatlan képzésben, mesterképzésben többes oklevéllel megvalósuló magyar-külföldi közös képzést követően szerezhető, a magyar felsőoktatási intézmény által kiállított oklevél
+5.5.[^128] Alapképzésben, osztatlan képzésben, mesterképzésben többes oklevéllel megvalósuló magyar-külföldi közös képzést követően szerezhető, a magyar felsőoktatási intézmény által kiállított oklevél
 
 „Oklevél sorszáma:
 
@@ -346,7 +346,7 @@ Az oklevél „Legum Magister” vagy „Master of Laws” címet (rövidítve: 
 
 keltezés, bélyegzők, aláírás, záradék”
 
-5.6.[^122] Szakirányú továbbképzésben szerezhető oklevél
+5.6.[^129] Szakirányú továbbképzésben szerezhető oklevél
 
 „Oklevél sorszáma:
 
@@ -362,7 +362,7 @@ Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, sz�
 
 keltezés, bélyegző, aláírás, záradék”
 
-5.7.[^123] Szakirányú továbbképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
+5.7.[^130] Szakirányú továbbképzésben magyar-magyar közös képzést követően szerezhető közös oklevél
 
 „Oklevél sorszáma:
 
@@ -378,7 +378,7 @@ Ezen oklevél tanúsítja, hogy ... (név) született ... (születési név, sz�
 
 keltezés, bélyegző, aláírások, záradék”
 
-5.8.[^124] A felsőoktatásról szóló 1993. évi LXXX. törvény szerinti főiskolai, egyetemi szintű alapképzésben szerezhető oklevél
+5.8.[^131] A felsőoktatásról szóló 1993. évi LXXX. törvény szerinti főiskolai, egyetemi szintű alapképzésben szerezhető oklevél
 
 „Oklevél sorszáma:
 
@@ -394,7 +394,7 @@ Oklevelének minősítése: ...
 
 keltezés, bélyegző, aláírás, záradék
 
-5.9.[^125] A felsőoktatásról szóló 1993. évi LXXX. törvény szerinti szakirányú továbbképzésben szerezhető oklevél
+5.9.[^132] A felsőoktatásról szóló 1993. évi LXXX. törvény szerinti szakirányú továbbképzésben szerezhető oklevél
 
 „Oklevél sorszáma:
 
@@ -410,7 +410,7 @@ keltezés, bélyegző, aláírás, záradék”
 
 6. Az oklevelekben használható záradékok
 
-6.1.[^126] Jogelőd/nevet változtatott felsőoktatási intézmény(ek) megjelenítésére:
+6.1.[^133] Jogelőd/nevet változtatott felsőoktatási intézmény(ek) megjelenítésére:
 
 „Az oklevél tulajdonosa tanulmányait a kiállító intézmény jogelőd/nevet változtatott felsőoktatási intézményében/intézményeiben, a(z) ...... nevű felsőoktatási intézményben/intézményekben folytatta. A jogutódlásra/névváltozásra........... került sor.”
 
@@ -460,11 +460,11 @@ keltezés, bélyegző, aláírás”
 
 keltezés, bélyegző, aláírás”
 
-6.12.[^127] Jogutód/nevet változtatott felsőoktatási intézmény általi másodlat vagy születési anyakönyvi névváltozás kiadásakor:
+6.12.[^134] Jogutód/nevet változtatott felsőoktatási intézmény általi másodlat vagy születési anyakönyvi névváltozás kiadásakor:
 
 „Ezt az oklevelet a(z) ... számú törzslap alapján, a(z) ... oklevél sorszámon és ... formanyomtatvány számon a(z) ... nevű jogelőd/nevet változtatott felsőoktatási intézmény által kiállított oklevél másodlataként állítottam ki.
 
-6.13.[^128] Jogelőd/nevet változtatott felsőoktatási intézmény által kiállított oklevél jogutód/nevet változatott/átalakult felsőoktatási intézmény általi javításakor:
+6.13.[^135] Jogelőd/nevet változtatott felsőoktatási intézmény által kiállított oklevél jogutód/nevet változatott/átalakult felsőoktatási intézmény általi javításakor:
 
 „Ezt az oklevelet a(z) ... számú törzslap alapján, a .... év .... hó ... napján, ... oklevél sorszámon és ..... formanyomtatvány számon a(z) ... nevű jogelőd/nevet változtatott felsőoktatási intézmény által kiállított oklevél egyidejű visszavonásával állítottam ki.”
 
@@ -612,15 +612,15 @@ keltezés, bélyegző, aláírás, záradék”
 
 „Vállalom a magyar állami (rész)ösztöndíjjal támogatott képzésnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben rögzített feltételeit, és kijelentem, hogy a feltételeket megismertem.”
 
-[^117]: A 9. melléklet 5. pont 5.1. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17–18. pontja szerint módosított szöveg.
-[^118]: A 9. melléklet 5. pont 5.2. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17. és 19–20. pontja szerint módosított szöveg.
-[^119]: A 9. melléklet 5. pont 5.3. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17. és 21. pontja szerint módosított szöveg.
-[^120]: A 9. melléklet 5. pont 5.4. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17., 19 és 22. pontja szerint módosított szöveg.
-[^121]: A 9. melléklet 5. pont 5.5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17., 19 és 22–23. pontja szerint módosított szöveg.
-[^122]: A 9. melléklet 5. pont 5.6. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17. és 24. pontja szerint módosított szöveg.
-[^123]: A 9. melléklet 5. pont 5.7. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17., 19–20. és 25. pontja szerint módosított szöveg.
-[^124]: A 9. melléklet 5. pont 5.8. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
-[^125]: A 9. melléklet 5. pont 5.9. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
-[^126]: A 9. melléklet 6. pont 6.1. alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdésével megállapított szöveg.
-[^127]: A 9. melléklet 6. pont 6.12. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
-[^128]: A 9. melléklet 6. pont 6.13. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
+[^124]: A 9. melléklet 5. pont 5.1. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17–18. pontja szerint módosított szöveg.
+[^125]: A 9. melléklet 5. pont 5.2. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17. és 19–20. pontja szerint módosított szöveg.
+[^126]: A 9. melléklet 5. pont 5.3. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17. és 21. pontja szerint módosított szöveg.
+[^127]: A 9. melléklet 5. pont 5.4. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17., 19 és 22. pontja szerint módosított szöveg.
+[^128]: A 9. melléklet 5. pont 5.5. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17., 19 és 22–23. pontja szerint módosított szöveg.
+[^129]: A 9. melléklet 5. pont 5.6. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17. és 24. pontja szerint módosított szöveg.
+[^130]: A 9. melléklet 5. pont 5.7. alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 17., 19–20. és 25. pontja szerint módosított szöveg.
+[^131]: A 9. melléklet 5. pont 5.8. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
+[^132]: A 9. melléklet 5. pont 5.9. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
+[^133]: A 9. melléklet 6. pont 6.1. alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdésével megállapított szöveg.
+[^134]: A 9. melléklet 6. pont 6.12. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.
+[^135]: A 9. melléklet 6. pont 6.13. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be.

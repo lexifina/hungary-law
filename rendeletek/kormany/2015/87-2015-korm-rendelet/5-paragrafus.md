@@ -22,4 +22,6 @@ c) a 3. mellékletben meghatározott minimális (kötelező) feltételek meglét
 
 (6) A diákotthon és a kollégium elnevezésének szabályaira a felsőoktatási intézmények névviselésére vonatkozó rendelkezéseket kell alkalmazni.
 
-(7) A diákotthon nyilvántartásba vételi eljárásának ügyintézési határideje két hónap.
+(7)[^8]
+
+[^8]: Az 5. § (7) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 251. § c) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

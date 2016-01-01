@@ -4,7 +4,7 @@
 
 (2) Ha új hallgatói jogviszony keletkezik, az Nftv. 42. § (1) bekezdés b) pontja szerinti átvétel a fogadó felsőoktatási intézmény átvételről szóló döntését követően a beiratkozással jön létre. Ha új hallgatói jogviszony nem keletkezik, az Nftv. 42. § (1) bekezdés b) pontja szerinti átvétel a fogadó felsőoktatási intézmény átvételről szóló döntését követően a képzésre történő bejelentkezéssel jön létre. Átvétel esetén a fogadó felsőoktatási intézmény az átvett hallgató beiratkozása vagy bejelentkezése után az átvételről szóló határozatát és az átvételről szóló döntést követő beiratkozás vagy bejelentkezés dátumát megküldi az elbocsátó felsőoktatási intézmény és a hallgató részére. A fogadó felsőoktatási intézmény az átvétel napját és az elbocsátó intézmény nevét a FIR-be bejelenti, a hallgató az elbocsátó intézményben, az elbocsátó intézmény a FIR-ben a képzés megszűnése indokaként az átvételt jelöli meg.
 
-(3)[^63] Az átvételi eljárás alatt a hallgatónak az átvételi döntést követő beiratkozásig vagy bejelentkezésig folyamatos jogviszonnyal kell rendelkeznie, ellenkező esetben az átvételről szóló döntését a felsőoktatási intézmény az Nftv. 57. § (6) bekezdésének megfelelően visszavonja.
+(3)[^70] Az átvételi eljárás alatt a hallgatónak az átvételi döntést követő beiratkozásig vagy bejelentkezésig folyamatos jogviszonnyal kell rendelkeznie, ellenkező esetben az átvételről szóló döntését a felsőoktatási intézmény az Nftv. 57. § (6) bekezdésének megfelelően visszavonja.
 
 (4) Átvétel csak azonos szintű képzések között kérhető, kivéve
 
@@ -14,4 +14,4 @@ b) osztatlan képzésből alapképzésbe történő,
 
 c) alapképzésből, illetve osztatlan képzésből felsőoktatási szakképzésbe történő
 
-[^63]: Az 52. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^70]: Az 52. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 80. §-ával megállapított szöveg.

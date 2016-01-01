@@ -28,7 +28,7 @@ k) a képzés oktatási eszközigénye és a gyakorlati képzés feltételei biz
 
 l) az intézményi könyvtár állománya és szolgáltatásai biztosítják a tantárgyi programok kötelező irodalomjegyzékében felsorolt könyvek és szakirodalom elérhetőségét minden hallgató számára,
 
-m)[^97] a képzés során külföldi részképzés céljából a tantervbe épített, nemzetközi hallgatói mobilitásra felhasználható időszak (a továbbiakban: mobilitási ablak) áll rendelkezésre.
+m)[^104] a képzés során külföldi részképzés céljából a tantervbe épített, nemzetközi hallgatói mobilitásra felhasználható időszak (a továbbiakban: mobilitási ablak) áll rendelkezésre.
 
 2. Mesterképzési szak indításának feltételei:
 
@@ -64,4 +64,4 @@ a) minden hallgató számára (előzetes megállapodással) igazoltan biztosíto
 
 b) az egyes tanári szakképzettségeket adó képzésekre teljesülnek a mesterfokozatot adó szak indítására vonatkozó feltételek.
 
-[^97]: Az 5. melléklet 1. pont m) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 16. pontja szerint módosított szöveg.
+[^104]: Az 5. melléklet 1. pont m) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 16. pontja szerint módosított szöveg.

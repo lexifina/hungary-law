@@ -66,6 +66,6 @@ bk) az ismeretek, készségek és kompetenciák (attitűdök, nézetek, önáll�
 
 bl) az ajánlott irodalmat.
 
-(4)[^64] Az intézményi tájékoztatót a felsőoktatási intézmény honlapján, papíralapú formátumban vagy elektronikus adathordozón a felsőoktatási intézmény szabályzatában meghatározottak szerint is nyilvánosságra kell hozni oly módon, hogy annak valamennyi módosítása és a változás beállásának hatálya a hallgatók számára a jogviszonyuk fennállása alatt egyértelműen követhető legyen.
+(4)[^71] Az intézményi tájékoztatót a felsőoktatási intézmény honlapján, papíralapú formátumban vagy elektronikus adathordozón a felsőoktatási intézmény szabályzatában meghatározottak szerint is nyilvánosságra kell hozni oly módon, hogy annak valamennyi módosítása és a változás beállásának hatálya a hallgatók számára a jogviszonyuk fennállása alatt egyértelműen követhető legyen.
 
-[^64]: Az 53. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 90. § 5. pontja szerint módosított szöveg.
+[^71]: Az 53. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 90. § 5. pontja szerint módosított szöveg.
