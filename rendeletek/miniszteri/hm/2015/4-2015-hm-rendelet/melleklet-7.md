@@ -1,3 +1,5 @@
-7. melléklet a 4/2015. (VI. 22.) HM rendelethez[^6]
+7. melléklet a 4/2015. (VI. 22.) HM rendelethez
 
-[^6]: A 7. melléklet a 30. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+1. Az R. 15. melléklet 5. pont 5.8. alpontja helyébe a következő rendelkezés lép:
+
+„5.8. MH V4 EU Harccsoport”
