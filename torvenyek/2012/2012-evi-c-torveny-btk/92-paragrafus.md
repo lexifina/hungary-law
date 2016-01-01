@@ -1,4 +1,4 @@
-## Az előzetes fogvatartás és a házi őrizet beszámítása
+## Az előzetes fogvatartás, a házi őrizet és a szabálysértési büntetések beszámítása
 
 92. § (1) Az előzetes fogvatartás és a házi őrizet teljes idejét be kell számítani a kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába és pénzbüntetésbe.
 
