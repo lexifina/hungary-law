@@ -10,11 +10,11 @@
 
 | b) a külföldi vezetői engedély honosítása | 6 200 |
 
-| c) ideiglenes vezetői engedély kiadása | 2 300 |
+| c) |  |
 
 | d) nemzetközi vezetői engedély kiadása | 2 300 |
 
-| e) mozgásában korlátozott személy parkolási igazolványának pótlása | 3 100 |
+| e) |  |
 
 | 2. | A közúti járművek forgalomba helyezésével és okmányokkal történő ellátásával kapcsolatos igazgatási szolgáltatási díjak: |  |
 
@@ -24,7 +24,7 @@
 
 | c) a négykerekű segédmotoros kerékpár, a lassú jármű és a pótkocsi igazolólapjának kiadása, pótlása | 4 800 |
 
-| d) érvényesítő címke kiadása, pótlása | 585 |
+| d) |  |
 
 | e) járműkísérő lap kiadása | 1 600 |
 
@@ -48,6 +48,6 @@
 
 | c) az a) és b) pontban foglalt díj tartalmazza az ideiglenes forgalomban tartási engedély érvényességi idején belül a külön jogszabály alapján bejelentett járművet érintő változás indítási naplóba történő bejegyzését, illetve törlését. |  |
 
-2. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^10]
+2. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^12]
 
-[^10]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
+[^12]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított, a 75/2015. (XII. 29.) NFM rendelet 6. § c)–f) pontja szerint módosított szöveg.

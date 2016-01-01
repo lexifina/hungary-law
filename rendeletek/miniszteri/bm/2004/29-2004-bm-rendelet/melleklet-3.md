@@ -6,7 +6,7 @@
 
 |  | Ft |
 
-| 1. Általános rendszámtáblákért és a lassú járműhöz kiadott különleges rendszámtábláért fizetendő díj |  |
+| 1. Általános rendszámtáblákért és a környezetkímélő gépkocsihoz, valamint a lassú járműhöz kiadott különleges rendszámtábláért fizetendő díj |  |
 
 | 1.1. 1 pár rendszámtábla | 8 500 |
 
@@ -34,17 +34,17 @@
 
 | 7. Kísérlethez vagy a kipróbáláshoz szükséges próbarendszám engedélyezése és a hozzá tartozó ideiglenes forgalomban tartási engedély, indítási napló kiadása | 38 000 |
 
-| 8. Rendszámtábla utángyártásának és/vagy típusváltásának engedélyezése | 12 300 |
+| 8. Rendszámtábla utángyártásának és/vagy típusváltásának, valamint 2 db rendszámtáblának az eredeti karakterekkel azonos, eltérő színben történő legyártásának engedélyezése | 12 300 |
 
-| 9. Külön jogszabályban meghatározottak szerint az egyénileg kiválasztott és egyedi előállított rendszám európai uniós rendszámként való legyártása iránti kérelem engedélyezése, valamint a közúti közlekedési szolgáltatást végző üzembentartónak (tulajdonosnak) kiadott, különleges jellegű egyénileg kiválasztott, illetve egyedileg előállított rendszámtábla az MSZ 140 magyar szabványnak megfelelő színben történő utángyártása iránti kérelem engedélyezése | 23 500 |
+| 9. Külön jogszabályban meghatározottak szerint az egyénileg kiválasztott és egyedi előállított rendszám európai uniós rendszámként való legyártása iránti kérelem engedélyezése, valamint a közúti közlekedési szolgáltatást végző üzembentartónak (tulajdonosnak) kiadott, különleges jellegű egyénileg kiválasztott, illetve egyedileg előállított rendszámtábla fehér színben történő utángyártása iránti kérelem engedélyezése | 23 500 |
 
 | 10. Külön jogszabályban meghatározottak szerint a sorozatban előállított rendszám európai uniós rendszámként való legyártása iránti kérelem | 56 000 |
 
 | 11. Külön jogszabályban meghatározott regisztrációs matrica utángyártásának, valamint az egyénileg kiválasztott és az egyedileg előállított európai uniós rendszámtáblához tartozó regisztrációs matrica egyedi gyártásának, továbbá a H, az R és RR betűjelű európai uniós, különleges rendszámtáblához a regisztrációs matrica egyedi gyártásának engedélyezése | 1 550 |
 
-| Az egyénileg kiválasztott és az egyedileg előállított rendszámok, valamint a kísérlethez vagy kipróbáláshoz igényelt próbarendszámok, továbbá a rendszámtábla utángyártás és típusváltás engedélyezésének hatósági díja tartalmazza a hatósági jelzés kiadásával kapcsolatos eljárási díjat is. A közlekedési hatóság igazolásával engedélyezett rendszámtábla felszerelésekor a hatósági jelzés kiadásával kapcsolatos eljárási díj tartalmazza a regisztrációs matrica egyedi kiadásával kapcsolatos eljárási díjat is. |  |
+| Az egyénileg kiválasztott és az egyedileg előállított rendszámok, valamint a kísérlethez vagy kipróbáláshoz igényelt próbarendszámok, továbbá a rendszámtábla utángyártás, legyártás és típusváltás engedélyezésének hatósági díja tartalmazza a hatósági jelzés kiadásával kapcsolatos eljárási díjat is. A közlekedési hatóság igazolásával engedélyezett rendszámtábla felszerelésekor a hatósági jelzés kiadásával kapcsolatos eljárási díj tartalmazza a regisztrációs matrica egyedi kiadásával kapcsolatos eljárási díjat is. |  |
 
-3. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^11]
+3. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^13]
 
 Az előzetes eredetiségellenőrzés
 
@@ -94,4 +94,4 @@ Az előzetes eredetiségellenőrzés hatósági díjai
 
 | 7.3. Különleges pótkocsi (felépítménnyel ellátott) | 19 000 |
 
-[^11]: A 3. számú melléklet a 15/2007. (III. 13.) IRM rendelet 2. §-ával megállapított és a 6/2009. (III. 31.) IRM rendelet 41. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 42. § (1) bekezdése alapján rendelkezéseit a 2009. április 1-jét követően indult eljárásokban kell alkalmazni.
+[^13]: A 3. számú melléklet a 15/2007. (III. 13.) IRM rendelet 2. §-ával megállapított és a 6/2009. (III. 31.) IRM rendelet 41. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 42. § (1) bekezdése alapján rendelkezéseit a 2009. április 1-jét követően indult eljárásokban kell alkalmazni.
