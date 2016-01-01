@@ -1,6 +1,6 @@
-## 43–45. §[^58]
+## 43–45. §[^73]
 
-1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^59]
+1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^74]
 
 ## Nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok kategorizálása
 
@@ -30,7 +30,7 @@ a minden plutónium, kivéve amelyikben a Pu-238 izotópkoncentrációja eléri 
 
 b olyan anyag, amely nem volt reaktorban besugározva, vagy be lett sugározva, de a sugárzási szintje 1 m-es távolságban árnyékolás nélkül 1 Gy/h vagy alacsonyabb;
 
-c az olyan nukleáris üzemanyag kategóriája, amely eredeti hasadóanyag tartalma alapján I-es vagy II-es kategóriába volt sorolva besugárzás előtt, egy kategóriával csökkenthető, ha a sugárzási szintje 1 m-es körzetben árnyékolatlanul meghaladja az 1 Gy/h értéket.
+c Az olyan nukleáris üzemanyag kategóriája, amely eredeti hasadóanyag tartalma alapján I-es vagy II-es kategóriába volt sorolva besugárzás előtt, egy kategóriával növelhető (fizikai védelmi szintje csökkenthető), ha a sugárzási szintje 1 m-es körzetben árnyékolatlanul meghaladja az 1Gy/h értéket.
 
 2. táblázat
 
@@ -52,7 +52,7 @@ Radioaktív sugárforrások kategorizálása
 
 |  | Magas/közepes dózisú brachyterápia |  |
 
-| 3. | Ipari méréstechnika | 10 > R > 1 |
+| 3. | Ipari méréstechnika | 10 > R ≥ 1 |
 
 |  | – szintmérés |  |
 
@@ -100,7 +100,7 @@ Ai – a radioaktív hulladék i. izotópjának aktivitása;
 
 Di – a KHEM rendeletben az i. izotópra vonatkozó izotóp-specifikus normalizáló tényező;
 
-Si – a radioaktív hulladék aktivitáskoncentrációját, a hulladék szétszóródási képességét, a hulladéktároló edény robusztusságát és a hulladék hozzáférhetőségét figyelembe vevő tényező.
+S – a radioaktív hulladék aktivitáskoncentrációját, a hulladék szétszóródási képességét, a hulladéktároló edény robusztusságát és a hulladék hozzáférhetőségét figyelembe vevő tényező.
 
-[^58]: A 43–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^59]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^73]: A 43–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése, a 488/2015. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.

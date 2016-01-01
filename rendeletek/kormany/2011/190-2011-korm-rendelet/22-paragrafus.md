@@ -4,6 +4,6 @@
 
 a) a 23. §-ban meghatározott fizikai felmérésen értékelhető eredményt ért el, és
 
-b)[^33] az Országos Képzési Jegyzékről szóló kormányrendeletben szereplő fegyveres biztonsági őr szakképesítés-ráépüléssel vagy azzal egyenértékű szakképesítéssel rendelkezik.
+b)[^37] az Országos Képzési Jegyzékről szóló kormányrendeletben szereplő fegyveres biztonsági őr szakképesítés-ráépüléssel vagy azzal egyenértékű szakképesítéssel rendelkezik.
 
-[^33]: A 22. § b) pontja a 217/2013. (VI. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^37]: A 22. § b) pontja a 217/2013. (VI. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
