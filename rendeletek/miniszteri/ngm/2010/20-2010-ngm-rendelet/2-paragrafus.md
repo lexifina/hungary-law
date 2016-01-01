@@ -12,7 +12,7 @@ b) a hatósági eljárás megindítására irányuló kérelmének előterjeszt�
 
 (3) A számlát az adószám kiváltására kötelezettek számára a díjnak az (1) bekezdés szerinti fizetési számlán történő jóváírását követően, de legkésőbb az ügy érdemében hozott döntés meghozatalával egy időben kell kiállítani. A kérelemnek, vagy a kérelem külön mellékletének tartalmaznia kell az ügyfél nyilatkozatát a számla kiállításához szükséges adatokról: az adószám kiváltására kötelezett díjfizető neve, címe (székhelye, illetve telephelye), fizetési számla száma, valamint adószáma.
 
-(3a)[^2] Ha az ügyfél készpénzátutalási megbízással kívánja teljesíteni az igazgatási szolgáltatási díjat, az ügyben eljáró hatóság az ügyfél részére számlát állít ki, melynek melléklete a készpénzátutalási megbízás.
+(3a)[^3] Ha az ügyfél készpénzátutalási megbízással kívánja teljesíteni az igazgatási szolgáltatási díjat, az ügyben eljáró hatóság az ügyfél részére számlát állít ki, melynek melléklete a készpénzátutalási megbízás.
 
 (4) Ha a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél tévesen, vagy az e rendeletben meghatározott mértéket meghaladóan fizetett díjat, a Hivatal a téves befizetés, illetve a díjtöbblet visszatérítéséről az ügyfél számlavezető pénzforgalmi szolgáltatónál vezetett fizetési számlája javára, legkésőbb az önálló fellebbezéssel támadható döntést követő nyolc napon belül, átutalási megbízás útján intézkedik.
 
@@ -20,9 +20,9 @@ b) a hatósági eljárás megindítására irányuló kérelmének előterjeszt�
 
 (6) Amennyiben jogszabály a hatósági eljárás elektronikus úton történő kezdeményezését nem zárja ki, a díjat az eljárás kezdeményezését követően, átutalási megbízás útján kell megfizetni. Az ügyfélnek az átutalási megbízás „Közlemény” rovatában fel kell tüntetnie a központi elektronikus szolgáltató rendszer által adott 27 jegyű érkeztető számot. Ez esetben a díjat legkésőbb – a (2) bekezdés b) pontja szerinti – díjbekérőben foglaltak ügyfél általi megismerését követő három napon kell megfizetnie. Az elektronikus közszolgáltatás igénybevételével kezdeményezett eljárással kapcsolatos fizetési kötelezettségek teljesítésére egyebekben az elektronikus közszolgáltatásról és annak igénybevételéről szóló kormányrendeletben foglalt rendelkezéseket kell alkalmazni.
 
-(6a)[^3] Az országos nyilvántartás vezetéséért a Korm. rendelet hatálya alá tartozó berendezésenként az üzemeltetőnek igazgatási szolgáltatási díjat kell fizetni. A díj tartalmazza a Korm. rendelet hatálya alá tartozó berendezés egyszeri nyilvántartásba vételének költségét is. A nyilvántartott szervezet a díjat az üzemeltetőre egy összegben, a tárgyévi első műszaki biztonságtechnikai felülvizsgálat díjában hárítja át. A nyilvántartott szervezethez beérkezett nyilvántartási díjakat az évi első műszaki biztonságtechnikai felülvizsgálatot követő hónap 15. napjáig a Hivatal Magyar Államkincstárnál vezetett 10032000-00282448-00000000 számú számlájára át kell utalni.
+(6a)[^4] Az országos nyilvántartás vezetéséért a Korm. rendelet hatálya alá tartozó berendezésenként az üzemeltetőnek igazgatási szolgáltatási díjat kell fizetni. A díj tartalmazza a Korm. rendelet hatálya alá tartozó berendezés egyszeri nyilvántartásba vételének költségét is. A nyilvántartott szervezet a díjat az üzemeltetőre egy összegben, a tárgyévi első műszaki biztonságtechnikai felülvizsgálat díjában hárítja át. A nyilvántartott szervezet a nyilvántartás vezetéséért járó díjat az évi első műszaki biztonságtechnikai felülvizsgálatot követő hónap tizenötödik napjáig a Hivatal Magyar Államkincstárnál vezetett 10032000-00282448-00000000 számú számlájára átutalja.
 
 (7) A Hivatal a díjat egyéb bevételeitől elkülönítve tartja nyilván és kezeli.
 
-[^2]: A 2. § (3a) bekezdését a 21/2014. (V. 5.) NGM rendelet 2. § (1) bekezdése iktatta be.
-[^3]: A 2. § (6a) bekezdését a 21/2014. (V. 5.) NGM rendelet 2. § (2) bekezdése iktatta be.
+[^3]: A 2. § (3a) bekezdését a 21/2014. (V. 5.) NGM rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A 2. § (6a) bekezdését a 21/2014. (V. 5.) NGM rendelet 2. § (2) bekezdése iktatta be, szövege a 35/2015. (XII. 23.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.

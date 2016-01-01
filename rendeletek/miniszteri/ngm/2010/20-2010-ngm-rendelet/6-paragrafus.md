@@ -4,7 +4,7 @@
 
 (3) A Magyar Kereskedelmi Engedélyezési Hivatalnál az e rendelet hatálybalépésekor folyamatban lévő műszaki biztonsági, valamint hatáskörébe utalt építésügyi hatósági eljárásokra a Magyar Kereskedelmi Engedélyezési Hivatal egyes műszaki biztonsági közigazgatási eljárásainak és igazgatási jellegű szolgáltatásainak díjairól szóló 129/2005. (XII. 29.) GKM rendelet 2010. december 31-én hatályos szabályait kell alkalmazni.
 
-Melléklet a 20/2010. (XII. 31.) NGM rendelethez[^4]
+Melléklet a 20/2010. (XII. 31.) NGM rendelethez[^5]
 
 A műszaki biztonsági, valamint a műszaki biztonsági hatóság hatáskörébe utalt építésügyi hatósági eljárásokért fizetendő igazgatási szolgáltatási díj mértéke
 
@@ -708,19 +708,19 @@ B) Létesítési, használatbavételi eljárások
 
 |  | 2. Villamos összekötő vagy felhasználói berendezés üzembe helyezése esetén a balesetelhárítási, illetve az élet-, testi épség-, egészség- és vagyonvédelmet, valamint az üzembiztonságot szolgáló jogszabályi rendelkezések, valamint szabványelőírások megtartásának ellenőrzése a beépített teljesítmény alapján. A díjak a hatóság műszaki-biztonsági hatáskörébe tartozó összes villamos biztonságtechnikai engedélyezési és ellenőrzési eljárás díját tartalmazzák, és csak egy alkalommal, a használatba vételkor számlázandók. |
 
-|  | 2.1. | 51 kW-tól 0,1 MW-ig | 174 500 Ft |
+|  | 2.1. | 50 kW felett 0,1 MW-ig | 44 000 Ft |
 
-|  | 2.2. | 0,11 MW-tól 0,5 MW-ig | 436 500 Ft |
+|  | 2.2. | 0,1 MW felett 0,5 MW-ig | 88 000 Ft |
 
-|  | 2.3. | 0,51 MW-tól 1,0 MW-ig | 1 300 000 Ft |
+|  | 2.3. | 0,5 MW felett 1,0 MW-ig | 440 000 Ft |
 
-|  | 2.4. | 1,1 MW-tól 2,0 MW-ig | 2 600 000 Ft |
+|  | 2.4. | 1 MW felett 2,0 MW-ig | 880 000 Ft |
 
-|  | 2.5. | 2,1 MW-tól 4,0 MW-ig | 4 360 000 Ft |
+|  | 2.5. | 2 MW felett 4,0 MW-ig | 1 760 000 Ft |
 
-|  | 2.6. | 4,1 MW-tól 8,0 MW-ig | 7 800 000 Ft |
+|  | 2.6. | 4 MW felett 8,0 MW-ig | 3 520 000 Ft |
 
-|  | 2.7. | 8,1 MW felett | 9 900 000 Ft |
+|  | 2.7. | 8 MW felett | 4 840 000 Ft |
 
 7. Villamosenergia-ipari építésügyi hatósági engedélyezési eljárások díjai
 
@@ -980,7 +980,7 @@ Egyéb építményfajták építésének engedélyezése (a műszaki-biztonsági
 
 |  | 1. | Az alaptevékenységhez kapcsolódó egyes igazgatási jellegű szolgáltatások átalánydíja | naponta 88 000 Ft, illetőleg óránként 11 000 Ft |
 
-|  | 2. | Szakhatósági közreműködés | 11 000 Ft |
+|  | 2. |  |  |
 
 |  | 3. | Határidő hosszabbítása iránti eljárás díja | 28 000 Ft |
 
@@ -988,30 +988,16 @@ Egyéb építményfajták építésének engedélyezése (a műszaki-biztonsági
 
 11. A felvonók, mozgólépcsők és mozgójárdák engedélyezéséért és a nyilvántartásba vételért fizetendő igazgatási szolgáltatási díjak
 
-1. A nyilvántartott szervezetek engedélye – a nyilvántartásba vétellel egyidejű – kiadásának egyszeri díja 10 000 forint.
+1. a nyilvántartott szervezetek engedélye – a nyilvántartásba vétellel egyidejű – kiadásának egyszeri, valamint meghosszabbításának díja 10 000 forint,
 
-2. Az ellenőrök engedélyének
+2. az ellenőrök nyilvántartásba vételének díja 3 000 forint,
 
-2.1. a nyilvántartásba vétellel egyidejű kiadásának egyszeri díja 3000 forint,
+3. a berendezéseknél
 
-2.2. soron kívüli eljárásban történő kiadásának díja a 2.1. pont szerinti díj 200%-a.
+3.1. létesítés engedélyezésének, a használatbavétel engedélyezési eljárásának, az áthelyezés engedélyezésének, az átalakítás engedélyezésének, az ismételt üzemeltetés engedélyezésének díja 11 000 forint,
 
-3. A felvonó- és mozgólépcső ellenőri továbbképzés felkészítő tanfolyam és képzési program jóváhagyásának díja 11 000 forint.
+3.2. a nyilvántartás éves díja 5 000 forint,
 
-4. A Korm. rendelet hatálya alá tartozó berendezés
+4. a felvonó- és mozgólépcső ellenőri továbbképzés felkészítő tanfolyam és képzési program jóváhagyásának díja 11 000 forint.
 
-4.1. létesítése engedélyezésének díja 11 000 forint,
-
-4.2. használatbavétele engedélyezési eljárásának díja 22 000 forint,
-
-4.3. áthelyezése engedélyezésének díja 22 000 forint,
-
-4.4. átalakítása engedélyezésének díja 11 000 forint,
-
-4.5. bontása engedélyezésének díja 22 000 forint,
-
-4.6. ismételt üzemeltetése engedélyezésének díja 11 000 forint,
-
-4.7. nyilvántartásának éves díja 5000 forint.
-
-[^4]: A melléklet a 21/2014. (V. 5.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^5]: A melléklet a 21/2014. (V. 5.) NGM rendelet 3. §-a, a 35/2015. (XII. 23.) NGM rendelet 7. § (2) bekezdése szerint módosított szöveg.
