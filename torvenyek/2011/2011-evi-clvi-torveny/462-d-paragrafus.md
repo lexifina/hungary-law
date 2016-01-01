@@ -1,12 +1,12 @@
-## A gyermekgondozási díjban, gyermekgondozási segélyben vagy gyermeknevelési támogatásban részesülő munkavállaló után érvényesíthető adókedvezmény
+## A gyermekgondozási díjban, gyermekgondozást segítő ellátásban vagy gyermeknevelési támogatásban részesülő munkavállaló után érvényesíthető adókedvezmény
 
-462/D. § (1) A gyermekgondozási díj, gyermekgondozási segély vagy gyermeknevelési támogatás (e § alkalmazásában a továbbiakban együtt: anyasági ellátás) folyósítása alatt vagy folyósításának megszűnését követően adókötelezettséget eredményező munkaviszonyban álló személyt foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+462/D. § (1) A gyermekgondozási díj, gyermekgondozást segítő ellátás vagy gyermeknevelési támogatás (e § alkalmazásában a továbbiakban együtt: anyasági ellátás) folyósítása alatt vagy folyósításának megszűnését követően adókötelezettséget eredményező munkaviszonyban álló személyt foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
 
-(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott – gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesülő – természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében és 14,5 százalékával a foglalkoztatás harmadik évében.
+(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott – gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesült vagy részesülő – természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében és 14,5 százalékával a foglalkoztatás harmadik évében.
 
 (3) A (2) bekezdéstől eltérően a részkedvezmény egyenlő a természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első három évében és 14,5 százalékával a foglalkoztatás negyedik és ötödik évében, ha a foglalkoztatott
 
-a) a családok támogatásáról szóló törvény szerint legalább három gyermekre tekintettel családi pótlékra szülőként jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben részesült vagy részesül, vagy
+a) a családok támogatásáról szóló törvény szerint legalább három gyermekre tekintettel családi pótlékra szülőként jogosult és gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesült vagy részesül, vagy
 
 b) gyermeknevelési támogatásban részesült vagy részesül.
 
@@ -14,7 +14,7 @@ b) gyermeknevelési támogatásban részesült vagy részesül.
 
 (5) A kedvezményt a munkáltató a feltételek fennállását igazoló, az anyasági ellátást folyósító egészségbiztosítási szerv, társadalombiztosítási kifizetőhely, családtámogatási feladatokat ellátó fővárosi és megyei kormányhivatal, családtámogatási kifizetőhely, a társadalombiztosítási vagy családtámogatási kifizetőhely megszűnése esetén az egészségbiztosítási szerv, illetve a családtámogatási feladatokat ellátó fővárosi és megyei kormányhivatal által az ellátásban részesülő kérelmére kiállított igazolás birtokában érvényesítheti.
 
-(6) A (3) bekezdés szerinti kedvezmény igénybevételéhez gyermekgondozási díj és gyermekgondozási segély esetén – az (5) bekezdésben foglaltakon túl – szükséges a legalább három gyermek után a szülőnek járó családi pótlékra való jogosultságról szóló, családtámogatási feladatokat ellátó fővárosi és megyei kormányhivatal által kiadott igazolás.
+(6) A (3) bekezdés szerinti kedvezmény igénybevételéhez gyermekgondozási díj és gyermekgondozást segítő ellátás esetén – az (5) bekezdésben foglaltakon túl – szükséges a legalább három gyermek után a szülőnek járó családi pótlékra való jogosultságról szóló, családtámogatási feladatokat ellátó fővárosi és megyei kormányhivatal által kiadott igazolás.
 
 (7) A részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve, a (3) bekezdés szerinti kedvezmény esetén a foglalkoztatás harmadik, illetve ötödik éve véget ér.
 
