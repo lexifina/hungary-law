@@ -12,7 +12,7 @@
 
 | 3 | Baja | Bajatechnik Kft. | Baja Energetika Kft. | 0 | 3 612 |
 
-| 4 | Bokod | Vértesi Erőmű Zrt. | Oroszlányi Szolgáltató Zrt. | 2 746 | 2 169 |
+| 4 | Bokod | MVM Oroszlányi Erőműfejlesztő Zrt. | Oroszlányi Szolgáltató Zrt. | 14 832 | 2352 |
 
 | 5 | Bonyhád | Veolia Energia Magyarország Zrt. | „FŰTŐMŰ” Kft. | 0 | 3 882 |
 
@@ -90,7 +90,7 @@
 
 | 42 | Kapuvár | Zöld Láng Energetikai és Szolgáltató Kft. | Kapuvári Hőszolgáltató Kft. | 0 | 5 292 |
 
-| 43 | Kazincbarcika | Kazinc-Therm Fűtőerőmű Kft. | Barcika Szolg Kft. | 12 533 | 2 510 |
+| 43 | Kazincbarcika | Kazinc-Therm Fűtőerőmű Kft. | Barcika Szolg Kft. | 10 671 | 2 510 |
 
 | 44 | Kiskunfélegyháza | Veolia Energia Magyarország Zrt. | Perkons DHŐ Kft. | 0 | 4 034 |
 
@@ -98,7 +98,7 @@
 
 | 46 | Kisvárda | Veolia Energia Magyarország Zrt. | KISVÁRDAI KÖZMŰ Szolgáltató Kft. | 0 | 3 477 |
 
-| 47 | Kőszeg | Heat Invest Kft. | Kőszegi Távhőszolgáltató Kft. | 0 | 3 811 |
+| 47 | Kőszeg | Heat Invest Kft. | Cothec Kft. | 0 | 3 811 |
 
 | 48 | Makó | Materm Hőszolgáltató, Befektető Kft. | Makói Kommunális Nonprofit Kft. | 0 | 2 170 |
 
@@ -126,7 +126,7 @@
 
 | 60 | Nyíregyháza | Tiszántúli Hőtermelő Kft. | NYÍRTÁVHŐ Kft. | 13 865 | 2 792 |
 
-| 61 | Oroszlány | Vértesi Erőmű Zrt. | Oroszlányi Szolgáltató Zrt. | 2 841 | 1 520 |
+| 61 | Oroszlány | MVM Oroszlányi Erőműfejlesztő Zrt. | Oroszlányi Szolgáltató Zrt. | 14 832 | 2352 |
 
 | 62 | Ózd | Ózdi Erőmű Kft. | Ózdi Távhő Kft. | 0 | 3 526 |
 
@@ -138,9 +138,9 @@
 
 | 66 | Püspökladány | KISERŐMŰ PLD Kft. | Püspökladányi Városüzemeltető és Gyógyfürdő Kft. | 0 | 3 749 |
 
-| 67 | Salgótarján | Perkons Bio Kft. | Salgó Vagyon Kft. | 0 | 2 972 |
+| 67 | Salgótarján | Perkons Bio Kft. | Salgó Vagyon Kft. | 0 | 3 460 |
 
-| 68 | Salgótarján | Perkons Tarján Kft. | Salgó Vagyon Kft. | 0 | 3 159 |
+| 68 | Salgótarján | Perkons Tarján Kft. | Salgó Vagyon Kft. | 0 | 3 543 |
 
 | 69 | Sárbogárd | Perkons DHŐ Kft. | Cothec Kft. | 0 | 4 172 |
 
@@ -192,9 +192,9 @@
 
 | 93 | Veszprém | Veszprém-Kogeneráció Energiatermelő Zrt. | „VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 3 993 |
 
-2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^19]
+2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^15]
 
-## Az árelőkészítés módszertana
+## Az indokolt költségek figyelembevételének módszertana a távhőtermelők és távhőszolgáltatók vonatkozásában
 
 1. A költségek és az eszközérték figyelembevételének általános elvei
 
@@ -210,7 +210,7 @@ c) a vállalkozás tárgyévet megelőző évre vonatkozó, auditált eredményk
 
 1.3. A legkisebb költség elvének érvényre juttatása érdekében a legkisebb hőtermelői költséget jelentő hőelőállítást kell alapul venni, a kapacitások hatékony allokálásának és helyettesíthetőségének szempontja mellett.
 
-1.4. Kapcsolt hő- és villamosenergia-termelés esetében a megtermelt villamosenergia értékesítéséből és a rendszerszintű szolgáltatások nyújtásából származó összes bevételt a távhőtermelés negatív költségeként kell figyelembe venni.
+1.4. Azon értékesítő vagy távhőtermelő esetében, amely a hőt – részben vagy kizárólag – villamosenergia-termeléssel kapcsoltan állítja elő, és az általa termelt villamos energia támogatott áron kötelező átvétel alá esik, az ebből eredő árbevételét a Hivatal a távhőtermelés negatív költségeként figyelembe veszi.
 
 2. Egyes árképző elemek (költségelemek) figyelembevételének módja
 
@@ -222,27 +222,36 @@ Az anyagjellegű költségeken belül a földgáz alapú tüzelőanyag-költség
 
 2.1.2. A nem földgáz alapú (tüzelőolaj, megújuló energiaforrás stb.) hőtermelés esetén a tüzelőanyag-költség egyedi vizsgálat alapján kerül figyelembevételre.
 
-2.1.3. A hőtermelési üzem folyamatos biztonságos fenntartását szolgáló állandó költségeket összehasonlító gazdasági elemzéseken nyugvó fajlagosított értékek alapján kell figyelembe venni indokolt költségként.
+2.1.3. A hőtermelési üzem folyamatos biztonságos fenntartását szolgáló állandó költségeket összehasonlító gazdasági elemzéseken nyugvó fajlagosított értékek alapján, vagy a vállalkozás tárgyévet megelőző évre vonatkozó auditált eredménykimutatásában szereplő adatok vizsgálata alapján meghatározott értékben kell figyelembe venni indokolt költségként.
 
 2.1.4. Az igénybe vett szolgáltatások – különös tekintettel a tevékenység folytatásához nélkülözhetetlen feladatok kiszervezésére, a tanácsadási díjakra, kapcsolt vállalkozásokkal kötött szerződésekre – csak egyedi vizsgálat alapján minősülhetnek külön is elismerendő indokolt költségeknek.
 
-2.1.5. Pénzügyi ráfordítások/bevételek
+2.1.5. Pénzügyi ráfordítás, hiteltörlesztés
 
-A hitel tőketörlesztésére és a hitelkamatok, valamint az egyéb pénzügyi műveletek ráfordításai csak egyedi vizsgálat alapján minősülhetnek külön is elismerendő indokolt költségeknek.
-
-2.1.6.[^20] Támogatások
-
-Azon kamatmentes visszatérítendő beruházási támogatást, amelyet az államháztartás valamely alrendszeréből, bármely többségi állami tulajdonú gazdálkodó szervtől, európai uniós forrásból vagy más hasonló nemzetközi forrásból biztosítottak, annak visszatérítésére vonatkozó ütemezésével arányosan, a Hivatal indokolt költségként elismeri úgy, hogy a támogatásra a 2.3. pont szerinti megtérülést nem veszi figyelembe.
+A pénzügyi ráfordítás valamint a hiteltörlesztés – az alkalmazott finanszírozási megoldástól függetlenül – a 3. pont szerinti egyedi vizsgálat alapján ismerhető el indokolt költségként.
 
 2.2. Értékcsökkenés
 
-2.2.1. A hőtermelő engedélyesek vonatkozásában az eszközök hosszú távú folyamatos működőképesen tartása érdekében felmerülő szükséges karbantartási és felújítási munkák összehasonlító gazdasági elemzéseken nyugvó fajlagosított értékeit kell figyelembe venni az értékcsökkenés indokolt költségeként, a módszertan szerint elismert költség részeként.
+2.2.1. Az értékcsökkenést vagy a vállalkozás tárgyévet megelőző évre vonatkozó auditált eredménykimutatása alapján, vagy összehasonlító gazdasági elemzéseken alapuló, az eszközök hosszú távú folyamatos működőképesen tartása érdekében felmerülő mértékben kell figyelembe venni.
 
-2.2.2. A 2011. március 31. napját követően üzembe helyezett távhőtermelő létesítmény esetében az új beruházásban szereplő eszközök értékcsökkenése indokolt költségként elismerendő.
+2.2.2. Az értékcsökkenést a 3. pont szerint kell figyelembe venni abban az esetben, ha az egyedi vizsgálat eredményeként a pénzügyi ráfordítás valamint a hiteltörlesztés elismert költségnek tekintendő.
 
 2.3. Megtérülés
 
-2.3.1. Megtérülésként az 1. pont alapján figyelembe vett bruttó eszközérték és az 5. § (2) bekezdésében a távhőtermelőre vonatkozóan meghatározott nyereségtényező szorzatát kell alapul venni.
+2.3.1. Megtérülésként az 1. pont alapján figyelembe vett bruttó eszközérték és az 5. § (2) bekezdésében meghatározott nyereségtényező szorzatát kell elismerni indokolt költségként.
 
-[^19]: A 2. melléklet az 59/2012. (X. 31.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^20]: A 2. melléklet 2.1.6. pontját az 54/2015. (IX. 30.) NFM rendelet 7. § (2) bekezdése iktatta be.
+2.4. Támogatások
+
+2.4.1. A beruházások vissza nem térítendő támogatásból finanszírozott részére sem a 2.2. pont szerinti értékcsökkenés, sem a 2.3. pont szerinti megtérülés nem vehető figyelembe.
+
+2.4.2. A visszatérítendő támogatás a pénzügyi ráfordításokkal és a hiteltörlesztéssel azonos módon kezelve, a 3. pont szerinti vizsgálat pozitív eredménye esetén ismerhető el indokolt költségként.
+
+3. Egyedi vizsgálat
+
+A Hivatal azon beruházás esetében ismerheti el a beruházási hitel- valamint a visszatérítendő támogatás kamatát és törlesztő részletét indokolt költségként, amely teljesíti azt a feltételt, miszerint a beruházás számított tőkeköltségeként jelentkező elismert költségtöbblet kisebb, mint a beruházás eredményeként fellépő költségmegtakarítás.
+
+A Hivatal az egyedi vizsgálata során a beruházás számított tőkeköltsége részeként a hitel éves tőketörlesztését és kamatát, a visszatérítendő támogatás éves törlesztő részletét és esetlegesen felszámított kamatát, a beruházás sajáttőkéből finanszírozott részére számított értékcsökkenésének összegét, valamint szintén a beruházás sajáttőkéből finanszírozott részén alapuló – a 2.3. pont szerint számított – megtérülés összegét hasonlítja össze a beruházás eredményeként felmerülő költségcsökkenéssel. A Hivatal azt is vizsgálja, hogy a beruházás összértéke, továbbá a hitel kamata megfelel-e a legkisebb költség elvének, összhangban van-e az aktuális piaci viszonyokkal, és a számított tőkeköltség megállapítása során csak az ezen követelményeknek megfelelő beruházási értéket és hitelkamatot fogadja el.
+
+Abban az esetben, ha a beruházás hatására bekövetkező költségcsökkenés mértéke a beruházás számított tőkeköltségének összegét meghaladja, akkor a Hivatal a beruházás számított tőkeköltségét indokolt költségként elismeri.
+
+[^15]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
