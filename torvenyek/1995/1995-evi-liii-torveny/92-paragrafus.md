@@ -18,14 +18,4 @@ adja ki.
 
 (4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(5) A környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a (2) bekezdés szerinti hatóság vagy kamara részére – annak a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a (2) bekezdés szerinti hatóság vagy a kamara a (6) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(6) A (2) bekezdés szerinti hatóság vagy a kamara a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a környezetvédelmi, természetvédelmi és tájvédelmi szakértő büntetlen előéletű-e, és nem áll-e a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a (2) bekezdés szerinti hatóság vagy a kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a környezetvédelmi, természetvédelmi és tájvédelmi szakértő büntetlen előéletű-e, valamint, hogy a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(7) Az (5) és (6) bekezdés alapján megismert személyes adatokat a (2) bekezdés szerinti hatóság vagy a kamara
-
-a) a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-
-b) a környezetvédelmi, természetvédelmi és tájvédelmi szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
+(5)–(7)
