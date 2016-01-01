@@ -16,7 +16,7 @@ cc) az a hivatásos állományú, akinek tartalékállományba helyezéséről a
 
 cd)[^9] az a rendelkezési állományú katona, akinek adatait az MH központi személyügyi szervének vezetője a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény (a továbbiakban: Hatv.) 11. § (3) bekezdés a) pontja alapján megküldte,
 
-d)[^10] országos parancsnok: a Hszt. 2. § 18. és 19. pontja szerinti személyek, a Nemzeti Adó- és Vámhivatal elnöke, valamint az Országgyűlési Őrség parancsnoka,
+d)[^10] országos parancsnok: a Hszt. 2. § 18. és 19. pontja szerinti személyek, az állami adó- és vámhatóság vezetője, valamint az Országgyűlési Őrség parancsnoka,
 
 e) országos parancsnokság: az országos parancsnok által vezetett szerv,
 
@@ -29,4 +29,4 @@ h) irányított szerv: az irányító szerv irányítása alatt álló területi
 [^7]: A 2. § c) pontja a 237/2012. (VIII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^8]: A 2. § c) pont cb) alpontja a 157/2015. (VI. 25.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § c) pont cd) alpontja a 298/2013. (VII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 654. § c) pontja szerint módosított szöveg.
-[^10]: A 2. § d) pontja a 237/2012. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 157/2015. (VI. 25.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § d) pontja a 237/2012. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 157/2015. (VI. 25.) Korm. rendelet 30. § b) pontja, a 486/2015. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
