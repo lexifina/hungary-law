@@ -4,6 +4,6 @@
 
 20. § (1) A jelöltnek a szakvizsgára való felkészülését segíteni kötelesek azok a személyek és szervek, akiknél, illetőleg amelyeknél a jelölt a végrehajtási szakmai gyakorlat (a továbbiakban: szakmai gyakorlat) megszerzése céljából tevékenykedik.
 
-(2)[^53] A szakvizsgára való felkészülést elősegítő rendszeres oktatásról az igazságügyi alkalmazottak esetén a törvényszék elnöke, az önálló végrehajtójelöltek esetén a kamara gondoskodik.
+(2)[^53] A szakvizsgára való felkészülést elősegítő rendszeres oktatásról az igazságügyi alkalmazottak esetén a törvényszék elnöke, az önálló végrehajtójelöltek esetén az Igazságügyi Szolgálatok Jogakadémiája (a továbbiakban: Jogakadémia) gondoskodik.
 
-[^53]: A 20. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^53]: A 20. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 17. pontja, a 43/2015. (XII. 30.) IM rendelet 2. § (9) bekezdés a) pontja szerint módosított szöveg.

@@ -1,20 +1,20 @@
-## 27. §[^66] A minisztérium félévente egy alkalommal tűz ki szakvizsgát, kivéve ha a szakvizsgára bocsátásukat kérő jelöltek nagyobb száma további szakvizsga kitűzését indokolja.
+## 27. §[^69] A minisztérium félévente egy alkalommal tűz ki szakvizsgát, kivéve ha a szakvizsgára bocsátásukat kérő jelöltek nagyobb száma további szakvizsga kitűzését indokolja.
 
 ## A végrehajtói szakvizsga tárgyai
 
-## 28. § A végrehajtói szakvizsga tárgyai a következők:
+## 28. §[^70] A végrehajtói szakvizsga tárgyai a következők:
 
-a) a bírósági végrehajtásról szóló törvény (Vht.) és a bírósági végrehajtásra vonatkozó egyéb jogszabályok,
+a) a bírósági végrehajtásról szóló törvény és a bírósági végrehajtásra vonatkozó egyéb jogszabályok,
 
-b)[^67] a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól, valamint az adózás rendjéről szóló törvény végrehajtásra vonatkozó rendelkezései,
+b) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól, valamint az adózás rendjéről szóló törvény végrehajtásra vonatkozó rendelkezései,
 
 c) a zálogtárgyak értékesítésére vonatkozó jogszabályok,
 
 d) a bírósági végrehajtói ügyvitel és pénzkezelés,
 
-e) az Alkotmány főbb rendelkezései, továbbá az igazságügyi szervezetre és az igazságügyi dolgozók szolgálati viszonyára vonatkozó főbb szabályok,
+e) az Alaptörvény főbb rendelkezései, továbbá az igazságügyi szervezetre és az igazságügyi alkalmazottak szolgálati viszonyára vonatkozó főbb szabályok,
 
-f) a bírósági végrehajtói tevékenység ellátásához szükséges jogi alapismeretek (polgári jog, polgári eljárásjog, büntetőjog, büntető eljárásjog, a gazdasági társaságokról szóló törvény főbb rendelkezései, a csődeljárásról, felszámolási eljárásról és a végelszámolásról szóló törvény).
+f) a bírósági végrehajtói tevékenység ellátásához szükséges jogi alapismeretek (polgári jog, polgári eljárásjog, büntetőjog, büntető eljárásjog, a csődeljárásról és a felszámolási eljárásról szóló törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény).
 
-[^66]: A 27. § a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^67]: A 28. § b) pontja a 6/2008. (III. 1.) IRM rendelet 2. § (5) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^69]: A 27. § a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^70]: A 28. § a 43/2015. (XII. 30.) IM rendelet 2. § (5) bekezdésével megállapított szöveg.
