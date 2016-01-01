@@ -1,105 +1,49 @@
-| Energetikai minőségtanúsítvány alátámasztó munkarésze |
+3. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^60]
 
-| Megrendelő neve (elnevezése), címe (székhelye): |
+## Épületenergetikai minőség szerinti besorolás (az energetikai minőségi osztályok)
 
-| Az épület (önálló rendeltetési egység) címe, helyrajzi száma: |
+1. Az energetikai minőséget elsősorban a vizsgált épület, illetve önálló rendeltetési egység összesített energetikai mutatójának és a 4. § (7) bekezdése szerinti minimumkövetelményeknek éppen megfelelő, viszonyítási alapként szolgáló épület, illetve önálló rendeltetési egység összesített energetikai mutatójának százalékban kifejezett arányával kell jellemezni.
 
-| A tanúsító neve, címe, jogosultsági száma: |
+2. „BB” vagy annál jobb besorolás csak abban az esetben adható az épületre vagy a benne lévő önálló rendeltetési egységre, ha az épület egésze megfelel a Rend. 6. melléklet II. és IV. részében meghatározott követelményeknek is.
 
-| A tanúsítvány kiállításának időpontja: | Méretek | Rétegrend | Azonosítás módja | Hőátbocsátási tényező |
+3. „AA” vagy annál jobb besorolás csak a Rend. szerinti részletes módszerrel vagy dinamikus szimulációval alátámasztott módon adható. A dinamikus szimulációs esetén is a Rend.-ben meghatározott mértezési alapadatokkal egyenértékű adatokkal kell végezni a méretezést.
 
-| Hőhidak, csatlakozási élek |
+4. „AA” vagy annál jobb besorolás csak olyan esetben adható
 
-| Megnevezés | Méretek | Azonosítás | Azonosítás módja | Vonalmenti veszteség |
+4.1. ahol a hőtermelő időjárásfüggő szabályozása megoldott,
 
-| Nyílászárók |
+4.2. ahol a hűtési és fűtési rendszer helyiségenkénti szabályozhatósága megoldott,
 
-| Megnevezés, típus | Méretek | Tájolás, benapozás | Társított szerkezet | Hőátbocsátási tényező |
+4.3. ahol az önálló tulajdonú vagy külön bérbe adható épületrészek energiafogyasztásának mérése külön legalább költségosztók felszerelésével vagy egyedi mérőkkel megoldott.
 
-| Épület(rész) veszteségtényezője: |
+5. A vizsgált épület, illetve önálló rendeltetési egység összesített energetikai jellemzője és a viszonyítási alap arányának százalékban kifejezett értéke alapján az épület vagy önálló rendeltetési egység besorolásának betűjele és minőségi osztályának szöveges jellemzése az alábbi:
 
-| Belső hőforrások (előírt vagy számított adat – utóbbi esetben tételesen): |
+|  | A | B | C |
 
-| Becsült légcsereszám, a becslés módja: |
+| 1. | Besorolás | Az 1. pont szerinti százalékos viszony | Minőségi osztályának szöveges jellemzése |
 
-| Épület(rész) effektív fűtési hőigénye: |
+| 2. | AA++ | <40 | Minimális energiaigényű |
 
-| Épületgépészeti rendszerek |
+| 3. | AA+ | 40–60 | Kiemelkedően nagy energiahatékonyságú |
 
-| Rendszerelem megnevezése, típusa | Energiahordozó | Teljesítmény / jellemző méret | Jellemző adat | Veszteség | Teljesítmény- tényező | Önfogyasztás villamosenergia- igény | Megjegyzés | Azonosítás módja |
+| 4. | AA | 61–80 | Közel nulla energiaigényre vonatkozó követelménynél jobb |
 
-| Fűtési energia effektív igénye (épületrész minősítése esetén a közös rendszerekre a tulajdoni hányad alapján): |
+| 5. | BB | 81–100 | Közel nulla energiaigényre vonatkozó követelményeknek megfelelő |
 
-| Melegvízellátás effektív energiaigénye (épületrész minősítése esetén a közös rendszerekre a tulajdoni hányad alapján): |
+| 6. | CC | 101–130 | Korszerű |
 
-| Légtechnikai rendszer effektív energiaigénye (épületrész minősítése esetén a közös rendszerekre a tulajdoni hányad alapján): |
+| 7. | DD | 131–160 | Korszerűt megközelítő |
 
-| Mesterséges hűtés effektív energiaigénye (épületrész minősítése esetén a közös rendszerekre a tulajdoni hányad alapján): |
+| 8. | EE | 161–200 | Átlagosnál jobb |
 
-| Villamosenergia effektív igénye: |
+| 9. | FF | 201–250 | Átlagos |
 
-| Világítás (csak nem lakáscélú épületek esetében): |
+| 10. | GG | 251–310 | Átlagost megközelítő |
 
-| Rendszer, üzemórák száma, csatlakozási érték: |
+| 11. | HH | 311–400 | Gyenge |
 
-| Fényforrás típusa | Megvilágítás | Szabályozás | Azonosítás módja | Világítás villamosenergia igénye |
+| 12. | II | 401–500 | Rossz |
 
-| Világítás bruttó energiaigénye: |
+| 13. | JJ | >500 | Kiemelkedően rossz |
 
-| Aktív szoláris és fotovoltaikus rendszerből származó, az előzőekben figyelembe nem vett energia (épületrész minősítése esetén a közös rendszerekre a tulajdoni hányad alapján): |
-
-| Kapcsolt energiatermelésből származó, az előzőekben figyelembe nem vett energia (épületrész minősítése esetén a közös rendszerekre a tulajdoni hányad alapján): |
-
-| Az összesített energiamérleg: |
-
-| Az összesített energetikai mutató: |
-
-| Az épület felület/térfogat viszony: |
-
-| A fajlagos hőveszteségtényező: |
-
-| A fajlagos hőveszteségtényező követelményértéke: |
-
-| Az összesített energetikai jellemző követelményértéke: vagy A viszonyítási alap: |
-
-| Az épület(rész) minősítése: |
-
-| Javasolt korszerűsítési megoldás(ok)1: |
-
-| A javasolt megoldás rövid műszaki leírása: A javasolt megoldás hatása a bruttó energiafogyasztásra: A javasolt megoldás hatása az épület besorolására: Valamennyi javaslat egyidejű alkalmazásának hatása az épület besorolására: |
-
-## Mellékletek jegyzéke
-
-## (rajz, fénykép, infra felvétel, mérési jegyzőkönyv, iratmásolatok)
-
-## –––––––––––
-
-## 1 A helyszíni szemle alapján a tanúsító megállapítja, hogy az adott épület(rész) primer energiafogyasztásának csökkentésére milyen ésszerű lehetőség kínálkozik. A mérlegelendő lehetőségek körébe tartozik – a teljesség igénye nélkül – az utólagos hőszigetelés, a nyílászárók tömítése vagy cseréje, társított szerkezetek alkalmazása, a hőtermelő készülék vagy az ahhoz tartozó egyes elemek (égő, szabályozók) cseréje, elosztó hálózatok és szerelvények hőszigetelése, hőleadók, ventilátorok, szivattyúk, fényforrások cseréje, energiahordozók cseréje. A javasolt felújítás nem vezethet állagkárosodási és egészségkárosodási kockázathoz és az épület, valamint az épületgépészeti rendszerek várható élettartamának figyelembevételével kell ésszerűnek lennie.
-
-3. melléklet a 176/2008. (VI. 30.) Korm. rendelethez
-
-Az energetikai minősítési osztályok
-
-Az energetikai minőséget minden esetben a vizsgált épület, illetve önálló rendeltetési egység összesített energetikai mutatójának és a vizsgált épület geometriai méreteivel és rendeltetésével azonos, a minimumkövetelményeknek éppen megfelelő, viszonyítási alapként szolgáló épület, illetve önálló rendeltetési egység összesített energetikai mutatójának százalékban kifejezett arányával kell jellemezni.
-
-A vizsgált épület, illetve önálló rendeltetési egység összesített energetikai jellemzője és a viszonyítási alap arányának százalékban kifejezett értéke alapján az önálló rendeltetési egység minőségi osztályának betűjele és szöveges jellemzése a táblázat szerinti.
-
-| A+ | <55 | Fokozottan energiatakarékos |
-
-| A | 56 – 75 | Energiatakarékos |
-
-| B | 76 – 95 | Követelménynél jobb |
-
-| C | 96 – 100 | Követelménynek megfelelő |
-
-| D | 101 – 120 | Követelményt megközelítő |
-
-| E | 121 – 150 | Átlagosnál jobb |
-
-| F | 151 – 190 | Átlagos |
-
-| G | 191 – 250 | Átlagost megközelítő |
-
-| H | 251 – 340 | Gyenge |
-
-| I | 341< | Rossz |
+[^60]: A 3. melléklet a 261/2015. (IX. 14.) Korm. rendelet 6. § c) pontjával megállapított szöveg.

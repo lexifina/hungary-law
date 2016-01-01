@@ -1,8 +1,8 @@
 ## A tanúsítás szabályai
 
-3. § (1)[^14] Az 5. § (1) bekezdésében foglalt kivétellel az energetikai tanúsítványt (a továbbiakban: tanúsítvány) alátámasztó számítást az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet (a továbbiakban: Rend.) alapján kell elkészíteni.
+3. § (1)[^14] Az 5. § (1) bekezdésében foglalt kivétellel az energetikai tanúsítványt (a továbbiakban: tanúsítvány) alátámasztó számítást az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet (a továbbiakban: Rend.) alapján kell elkészíteni.
 
-(2)[^15] Új épület építése esetén a tanúsítvány elkészíttetéséről az építtető gondoskodik a használatbavételi engedély kiadását, vagy a használatbavétel tudomásulvételét követő 90 napon belül.
+(2)[^15] Új épület építése esetén a tanúsítvány elkészíttetéséről az építtető gondoskodik, a használatbavételi engedélyre vagy a használatbavétel tudomásulvételére irányuló kérelem benyújtását megelőzően, illetve az épített környezet alakításáról és védelméről szóló törvényben meghatározott egyszerű bejelentéshez kötött építési tevékenység esetén a megvalósulást igazoló hatósági bizonyítvány iránti kérelem benyújtását megelőzően.
 
 (2a)[^16] Az épület vagy önálló rendeltetési egység értékesítésre vagy bérbeadásra való kínálásakor a reklámban fel kell tüntetni az épület vagy önálló rendeltetési egység energetikai minőség szerinti besorolását, amennyiben a tanúsítvány rendelkezésre áll.
 
@@ -36,8 +36,8 @@ esetében.
 
 (6) A kifüggesztett tanúsítvány mellett feltüntethető az előírt vagy ajánlott belső hőmérséklet és a tényleges belső hőmérséklet értéke, illetve további energetikai adatok, így különösen a megújuló energia felhasználása.
 
-[^14]: A 3. § (1) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^15]: A 3. § (2) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 46/2013. (II. 19.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^14]: A 3. § (1) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 261/2015. (IX. 14.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^15]: A 3. § (2) bekezdése a 456/2015. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^16]: A 3. § (2a) bekezdését a 105/2012. (V. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^17]: A 3. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^18]: A 3. § (4) bekezdés c) pontját a 105/2012. (V. 30.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
