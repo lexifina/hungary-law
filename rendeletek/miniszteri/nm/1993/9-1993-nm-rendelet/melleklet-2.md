@@ -38,6 +38,8 @@
 
 | 0242 | Pécsi Tudományegyetem Klinikai Központ |
 
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 | 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
@@ -86,6 +88,8 @@
 
 | 0242 | Pécsi Tudományegyetem Klinikai Központ |
 
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
+
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
 | 0509 | MISEK, Miskolci Semmelweis Kórház és Egyetemi Oktatókórház |
@@ -125,6 +129,8 @@
 | 0116 | Péterfy Sándor Utcai Kórház-Rendelőintézet és Baleseti Központ, Budapest |
 
 | 0122 | Heim Pál Gyermekkórház, Budapest |
+
+| 0123 | Magyarországi Református Egyház Bethesda Gyermekkórháza, Budapest |
 
 | 0140 | Semmelweis Egyetem, Budapest |
 
@@ -227,6 +233,8 @@
 | 01E8 | Szent Margit Kórház-Rendelőintézet, Budapest |
 
 | 0242 | Pécsi Tudományegyetem Klinikai Központ |
+
+| 0301 | Bács-Kiskun Megyei Kórház, Kecskemét |
 
 | 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház |
 
@@ -586,7 +594,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Metotrexáttal (MTX) kombinálva olyan 2 éves vagy annál idősebb, poliartikuláris juvenilis idiopathiás arthritisben (pJIA) (reuma faktor pozitív vagy negatív és kiterjedt oligoarthritis) szenvedő betegek kezelésére javasolt, akik nem reagáltak megfelelő módon az előzőleg alkalmazott MTX-kezelésre. A RoActemra monoterápiaként adható, ha metotrexát intolerancia áll fenn vagy a tartós metotrexát-kezelés nem alkalmazható.
+## Metotrexáttal (MTX) kombinálva olyan 2 éves vagy annál idősebb, poliartikuláris juvenilis idiopathiás arthritisben (pJIA) (reuma faktor pozitív vagy negatív és kiterjedt oligoarthritis) szenvedő betegek kezelésére javasolt, akik nem reagáltak megfelelő módon az előzőleg alkalmazott MTX-kezelésre. A tocilizumab monoterápiaként adható, ha metotrexát intolerancia áll fenn vagy a tartós metotrexát-kezelés nem alkalmazható.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -1964,7 +1972,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinomaelsővonalbeli kezelésére, FOLFOX vagy FOLFIRI kemoterápiával kombinálva, azon egyszervi, illetve – a megfelelőkompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntésealapján – kétszervi parenchimás érintettséggel rendelkező betegeknél, akik a kezeléssel potenciálisan operábilissáválhatnak. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. Azelsővonalbeli kezelés az operálhatóság eléréséig vagy progresszióig folytatható.
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperálibilis – miután a véleményező team megbizonyosodott a daganat KRAS és NRAS státusáról – vad típusú metasztatikus colorectalis carcinoma elsővonalbeli kezelésére, FOLFOX vagy FOLFIRI kemoterápiával kombinálva, azon egyszervi, illetve – a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján – kétszervi parenchimás érintettséggel rendelkező betegeknél, akik a kezeléssel potenciálisan operábilissá válhatnak. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik, és aláírásukkal azt hitelesítik. Az elsővonalbeli kezelés az operálhatóság eléréséig folytatható, azonban resectiós műtét hiányában maximum 6 hónapig, ezt követően az operálhatóság újraértékelése szükséges, inoperabilitás esetén a 8/e3.1. pont szerint folytatható az ellátás.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -2076,7 +2084,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinoma első vonalbeli kombinációs kezelésére azon egyszervi, illetve – a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján – kétszervi parenchimás érintettséggel rendelkező betegeknél alkalmazható, akik a kezeléssel potenciálisan operábilissá válhatnak. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. Az első vonalbeli kezelés az operálhatóság eléréséig vagy progresszióig folytatható.
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperálibilis – miután a véleményező team megbizonyosodott a daganat KRAS és NRAS státusáról – vad típusú metasztatikus colorectalis carcinoma elsővonalbeli kombinációs kezelésére azon egyszervi, illetve – a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján – kétszervi parenchimás érintettséggel rendelkező betegeknél alkalmazható, akik a kezeléssel potenciálisan operábilissá válhatnak. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik, és aláírásukkal azt hitelesítik. Az elsővonalbeli kezelés az operálhatóság eléréséig folytatható, azonban resectiós műtét hiányában maximum 6 hónapig, ezt követően az operálhatóság újraértékelése szükséges, inoperabilitás esetén a 8/e3.2. pont szerint folytatható az ellátás.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -2186,7 +2194,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis metasztatikus colorectalis carcinoma elsővonalbeli kombinációs kezelésére az egyszervi, illetve – a megfelelő kompetenciájú azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján – kétszervi parenchimás érintettség esetén azon betegeknél alkalmazható, akik a kezeléssel potenciálisan operábilissá válhatnak. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. Az első vonalbeli kezelés az operálhatóság eléréséig vagy progresszióig folytatható.
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis metasztatikus colorectalis carcinoma elsővonalbeli kombinációs kezelésére az egyszervi, illetve – a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján – kétszervi parenchimás érintettség esetén azon betegeknél alkalmazható, akik a kezeléssel potenciálisan operábilissá válhatnak. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik, és aláírásukkal azt hitelesítik. Az elsővonalbeli kezelés az operálhatóság eléréséig folytatható, azonban resectiós műtét hiányában maximum 6 hónapig, ezt követően az operálhatóság újraértékelése szükséges, inoperabilitás esetén a 8/e3.3. pont szerint folytatható az ellátás.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -2312,7 +2320,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinomaelső, másod vagy harmad vonalú kezelésére a megfelelő kompetenciájú, azaz a döntéshez szükségesspecialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján, azon betegek részére, akiknél a megkezdett terápia 3 ciklust követően képalkotó eljárással dokumentált módon hatásosnak bizonyult, a daganat összes tömege nem növekedett a terápia megkezdése óta. Az onkoteamben részvevő szakorvosokvéleményüket írásban rögzítik és aláírásukkal azt hitelesítik. A kezelés progresszióig folytatható. Amennyiben a kezeléshatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezeléstfel kell függeszteni. Abban az esetben, ha a betegség a kezelés felfüggesztését követően újra progrediál, cetuximabismét alkalmazható.
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinomaelső, másod vagy harmad vonalú kezelésére a megfelelő kompetenciájú, azaz a döntéshez szükségesspecialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján, azon betegek részére, akiknél a megkezdett terápia 8 hét után elvégzett képalkotó eljárással dokumentált módon hatásosnak bizonyult, a daganat összes tömege nem növekedett a terápia megkezdése óta. Az onkoteamben részvevő szakorvosokvéleményüket írásban rögzítik és aláírásukkal azt hitelesítik. A kezelés progresszióig folytatható. Amennyiben a kezeléshatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezeléstfel kell függeszteni. Abban az esetben, ha a betegség a kezelés felfüggesztését követően újra progrediál, cetuximabismét alkalmazható.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -2424,7 +2432,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinoma első, másod vagy harmad vonalú kezelésére a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján, azon betegek részére, akiknél a megkezdett terápia 3 ciklust követően képalkotó eljárással dokumentált módon hatásosnak bizonyult, a daganat összes tömege nem növekedett a terápia megkezdése óta. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. A kezelés progresszióig folytatható, illetve amennyiben a kezelés hatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezelést fel kell függeszteni. Abban az esetben, ha a betegség a kezelés felfüggesztését követően újra progrediál, panitumumab ismét alkalmazható.
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis KRAS vad típusú metasztatikus colorectalis carcinoma első, másod vagy harmad vonalú kezelésére a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján, azon betegek részére, akiknél a megkezdett terápia 8 hét után elvégzett képalkotó eljárással dokumentált módon hatásosnak bizonyult, a daganat összes tömege nem növekedett a terápia megkezdése óta. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. A kezelés progresszióig folytatható, illetve amennyiben a kezelés hatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezelést fel kell függeszteni. Abban az esetben, ha a betegség a kezelés felfüggesztését követően újra progrediál, panitumumab ismét alkalmazható.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -2534,7 +2542,7 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis metasztatikus colorectalis carcinoma első, másod vagy harmad vonalú kezelésére a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján, azon betegek részére, akiknél a megkezdett terápia 3 ciklust követően képalkotó eljárással dokumentált módon hatásosnak bizonyult, a daganat összes tömege nem növekedett a terápia megkezdése óta. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. A kezelés a betegség progressziójáig folytatható. Amennyiben a kezelés hatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezelést fel kell függeszteni. Abban az esetben, ha a betegség a kezelés felfüggesztését követően újra progrediál, bevacizumab ismételten alkalmazható.
+## Onkológiai sebészeti szakvéleménnyel igazoltan inoperábilis metasztatikus colorectalis carcinoma első, másod vagy harmad vonalú kezelésére a megfelelő kompetenciájú, azaz a döntéshez szükséges specialitásokat képviselő szakorvosokból álló onkológiai team döntése alapján, azon betegek részére, akiknél a megkezdett terápia 8 hét után elvégzett képalkotó eljárással dokumentált módon hatásosnak bizonyult, a daganat összes tömege nem növekedett a terápia megkezdése óta. Az onkoteamben részvevő szakorvosok véleményüket írásban rögzítik és aláírásukkal azt hitelesítik. A kezelés a betegség progressziójáig folytatható. Amennyiben a kezelés hatására két egymást követő képalkotó diagnosztikai kontroll során komplett klinikai remisszió igazolódik, a kezelést fel kell függeszteni. Abban az esetben, ha a betegség a kezelés felfüggesztését követően újra progrediál, bevacizumab ismételten alkalmazható.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -2842,6 +2850,8 @@
 
 | 0122 | Heim Pál Gyermekkórház, Budapest |
 
+| 0123 | Magyarországi Református Egyház Bethesda Gyermekkórháza, Budapest |
+
 | 0140 | Semmelweis Egyetem, Budapest |
 
 | 0162 | Gottsegen György Országos Kardiológiai Intézet |
@@ -2914,8 +2924,8 @@
 
 | 1801 | Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^89]
+2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^90]
 
 A járóbeteg-szakellátás tevékenységi kódjai
 
-[^89]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^90]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése szerint módosított szöveg.
