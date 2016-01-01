@@ -28,11 +28,11 @@ a) érthető tájékoztatást nyújt a gyermek részére – figyelembe véve ko
 
 b) a megfelelő szolgáltatásnyújtáshoz való hozzájutás segítésében lehetőség szerint személyes részvétel mellett fogalmazza meg észrevételeit, megjegyzéseit,
 
-c)[^18] a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala kirendelésében foglaltak figyelembevételével személyesen képviseli a gyermeket, megismeri az eljárás során keletkezett dokumentáció tartalmát és folyamatosan figyelemmel kíséri a gyermek jogainak az eljárás során történő érvényesítését,
+c)[^19] a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala kirendelésében foglaltak figyelembevételével személyesen képviseli a gyermeket, megismeri az eljárás során keletkezett dokumentáció tartalmát és folyamatosan figyelemmel kíséri a gyermek jogainak az eljárás során történő érvényesítését,
 
 d) a gyermekvédelmi bírság kiszabására irányuló javaslattétele során figyelembe veszi a jogsértés jellegét, súlyát, az érintettek létszámának nagyságát a szolgáltatás jellegének arányában, javaslatát megfelelően indokolja.
 
-(4)[^19] A jogvédelmi képviselő feladatellátása során a betegek, az ellátottak és a gyermekek jogainak érvényesítésével összefüggésben felmerült és a részére megfogalmazott panaszok kezelése során elsődlegesen a beteg, az ellátott, a gyermek jogait és érdekeit képviselve, az érintett és a szolgáltató közötti megegyezés létrehozására törekszik, amely – ha a panasz megalapozott –,
+(4)[^20] A jogvédelmi képviselő feladatellátása során a betegek, az ellátottak és a gyermekek jogainak érvényesítésével összefüggésben felmerült és a részére megfogalmazott panaszok kezelése során elsődlegesen a beteg, az ellátott, a gyermek jogait és érdekeit képviselve, az érintett és a szolgáltató közötti megegyezés létrehozására törekszik, amely – ha a panasz megalapozott –,
 
 a) a jog gyakorlásának nem megfelelő biztosításakor a jogszabályokban megfogalmazott követelményeknek a szolgáltató részéről – a szolgáltatás, vagy a jog gyakorlásának jellegére figyelemmel – annak megfelelő biztosítását,
 
@@ -46,7 +46,7 @@ eredményezi.
 
 a) együttműködik a szolgáltatást nyújtókkal, azok fenntartóival és a szolgáltatást igénybe vevőkkel,
 
-b)[^20] a 9. § (1) bekezdésében, a 10. § (1) bekezdés b) pontjában és a 12. § d) pontjában foglaltakon túl meghatározott rendszerességgel és időpontban fogadóórát tart az OBDK által működtetett területi irodákban,
+b)[^21] a 9. § (1) bekezdésében, a 10. § (1) bekezdés b) pontjában és a 12. § d) pontjában foglaltakon túl meghatározott rendszerességgel és időpontban fogadóórát tart az OBDK által működtetett területi irodákban,
 
 c) a megkereséseket, valamint eljárását és intézkedéseit írásban dokumentálja, tevékenysége során az adatvédelemre vonatkozó jogszabályoknak megfelelően jár el,
 
@@ -54,6 +54,6 @@ d) eljárásáról és annak eredményéről írásban tájékoztatja a jogosult
 
 e) munkájáról, eljárásának tapasztalatairól, valamint a jogok gyakorlásával és a szolgáltatásnyújtással kapcsolatos tapasztalatairól – az OBDK által meghatározott formában – évente beszámolót készít.
 
-[^18]: A 7. § (3) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 203. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^19]: A 7. § (4) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 56. §-a szerint módosított szöveg.
-[^20]: A 7. § (5) bekezdés b) pontja az 520/2013. (XII. 30.) Korm. rendelet 100. § c) pontja szerint módosított szöveg.
+[^19]: A 7. § (3) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 203. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 7. § (4) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 56. §-a szerint módosított szöveg.
+[^21]: A 7. § (5) bekezdés b) pontja az 520/2013. (XII. 30.) Korm. rendelet 100. § c) pontja szerint módosított szöveg.

@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-214-20-
 | 2015-01-01 | 2012-214-20-22.11 | 364/2014. (XII. 30.) Korm. rendelet |
 | 2015-03-01 | 2012-214-20-22.12 | 30/2015. (II. 25.) Korm. rendelet |
 | 2015-04-01 | 2012-214-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-01-01 | 2012-214-20-22.14 | 413/2015. (XII. 23.) Korm. rendelet |
