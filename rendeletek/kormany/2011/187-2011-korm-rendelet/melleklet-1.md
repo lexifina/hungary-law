@@ -1,31 +1,35 @@
 ## 19. § Hatályát veszti a nemesfémtárgyak és termékek vizsgálatáról, hitelesítéséről és nemesfémtartalmuk tanúsításáról szóló 145/2004. (IV. 29.) Korm. rendelet.
 
-1. melléklet a 187/2011. (IX. 14.) Korm. rendelethez
+1. melléklet a 187/2011. (IX. 14.) Korm. rendelethez[^18]
 
 A nemesfém tárgyakra vonatkozó kötelező finomsági fokok
 
-|  | A | B | C |
+|  | A | B |
 
 |  | A) Nemesfém tárgy megnevezése | B) Finomsági fok |
 
-| 1. | platina tárgy | 1. számú finomsági fok | 950 ezrelék |
+| 1. | platina tárgy | 950 ezrelék |
 
-| 2. | platina tárgy | 2. számú finomsági fok | 900 ezrelék |
+| 2. | platina tárgy | 900 ezrelék |
 
-| 3. | arany tárgy | 1. számú finomsági fok | 916 ezrelék |
+| 3. | palládium tárgy | 950 ezrelék |
 
-| 4. | arany tárgy | 2. számú finomsági fok | 750 ezrelék |
+| 4. | palládium tárgy | 500 ezrelék |
 
-| 5. | arany tárgy | 3. számú finomsági fok | 585 ezrelék |
+| 5. | arany tárgy | 916 ezrelék |
 
-| 6. | arany tárgy | 4. számú finomsági fok | 375 ezrelék |
+| 6. | arany tárgy | 750 ezrelék |
 
-| 7. | ezüst tárgy | 1. számú finomsági fok | 925 ezrelék |
+| 7. | arany tárgy | 585 ezrelék |
 
-| 8. | ezüst tárgy | 2. számú finomsági fok | 900 ezrelék |
+| 8. | arany tárgy | 375 ezrelék |
 
-| 9. | ezüst tárgy | 3. számú finomsági fok | 835 ezrelék |
+| 9. | ezüst tárgy | 925 ezrelék |
 
-| 10. | ezüst tárgy | 4. számú finomsági fok | 800 ezrelék |
+| 10. | ezüst tárgy | 900 ezrelék |
 
-| 11. | palládium tárgy | 1. számú finomsági fok | 950 ezrelék |
+| 11. | ezüst tárgy | 835 ezrelék |
+
+| 12. | ezüst tárgy | 800 ezrelék |
+
+[^18]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 144. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-187-20-
 | 2011-09-29 | 2011-187-20-22.1 | 187/2011. (IX. 14.) Korm. rendelet |
 | 2012-07-04 | 2011-187-20-22.2 | 144/2012. (VII. 3.) Korm. rendelet |
 | 2013-08-01 | 2011-187-20-22.3 | 297/2013. (VII. 29.) Korm. rendelet |
+| 2016-01-01 | 2011-187-20-22.4 | 441/2015. (XII. 28.) Korm. rendelet |
