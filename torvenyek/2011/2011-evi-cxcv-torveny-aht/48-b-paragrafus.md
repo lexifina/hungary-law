@@ -1,1 +1,21 @@
-48/B. § A 14. § (3) bekezdése szerinti fejezet költségvetési kiadási előirányzatai terhére nyújtott költségvetési támogatások esetén a helyi önkormányzat a támogatóval szembeni kötelezettségeit a kincstár útján teljesíti a Kormány rendeletében meghatározottak szerint.
+48/B. § (1) Nem lehet a támogatási jogviszonyban kedvezményezett
+
+a) az, aki a támogatási döntést meghozta vagy aki a támogatási döntés meghozatalában döntés-előkészítőként részt vett,
+
+b) az, aki a támogatási döntés időpontjában a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, megyei közgyűlés elnöke, főpolgármester, polgármester, regionális fejlesztési ügynökség vezető tisztségviselője,
+
+c) az a) és b) pont szerinti személlyel közös háztartásban élő hozzátartozó,
+
+d) – a nyilvánosan működő részvénytársaság kivételével – az a) és b) pont szerinti személy tulajdonában álló gazdasági társaság,
+
+e) – az állam, a helyi önkormányzat, illetve a köztestület legalább 50%-os közvetlen vagy közvetett tulajdonában lévő gazdasági társaság, valamint a sportegyesület és a sportszövetség kivételével – az olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont szerinti személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
+
+(2) Az (1) bekezdést nem kell alkalmazni
+
+a) a társadalombiztosítás pénzbeli és természetbeni ellátásaira,
+
+b) a fogyatékos természetes személyeknek a fogyatékos élethelyzetre tekintettel nyújtott pénzbeli és természetbeni ellátásokra,
+
+c) a családtámogatásokra, és
+
+d) a természetes személyeknek a méltánylást igénylő élethelyzetükre figyelemmel, továbbá jövedelmük pótlása, illetve kiegészítése érdekében rászorultsági alapon nyújtott egyéb szociális pénzbeli, természetbeni és személyes jellegű ellátásokra.

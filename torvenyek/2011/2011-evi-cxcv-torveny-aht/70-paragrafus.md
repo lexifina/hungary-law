@@ -14,21 +14,13 @@ d) az irányítása alá tartozó bármely, a köztulajdonban álló gazdasági 
 
 (3) A belső ellenőrzést végző személy az ellenőrzött szervnél minősített adatot, üzleti titkot tartalmazó iratokba és más dokumentumokba is betekinthet, azokról másolatot, kivonatot kérhet, személyes adatokat kezelhet az adatvédelmi, illetve a minősített adat védelmére vonatkozó előírások betartásával.
 
-(4) A költségvetési szervnél belső ellenőrzési tevékenységet csak az államháztartásért felelős miniszter engedélyével rendelkező személy végezhet. E tevékenységek folytatását az államháztartásért felelős miniszter annak engedélyezi, aki cselekvőképes, büntetlen előéletű, és nem áll a belső ellenőrzés körébe tartozó tevékenység vonatkozásában a foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik a jogszabályban előírt végzettséggel és gyakorlattal.
+(4) Aki költségvetési szervnél belső ellenőrzési tevékenységet kíván végezni, köteles az erre irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint az államháztartásért felelős miniszter részére bejelenteni. Költségvetési szervnél belső ellenőrzési tevékenységet csak az végezhet, aki cselekvőképes, büntetlen előéletű, nem áll a belső ellenőrzés körébe tartozó tevékenység vonatkozásában a foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik a jogszabályban előírt végzettséggel és gyakorlattal.
 
-(4a) Az engedélyezési eljárás során a büntetlen előéletet igazoltnak kell tekinteni, ha a kérelmező munkáltatója igazolja, hogy a kérelmező jogszabály alapján büntetlen előélethez vagy nemzetbiztonsági ellenőrzéshez kötött munkakörben dolgozik. Ennek hiányában a belső ellenőrzési tevékenység folytatásának engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint, hogy nem áll a belső ellenőrzés körébe tartozó tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az államháztartásért felelős miniszter részére – a belső ellenőrzési tevékenység végzéséhez szükséges engedély kiadásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során az államháztartásért felelős miniszter arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a kérelmező büntetlen előéletű, valamint, hogy nem áll a belső ellenőrzés körébe tartozó tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
+(4a) Az ellenőrzés során a büntetlen előéletet igazoltnak kell tekinteni akkor is, ha a kérelmező munkáltatója igazolja, hogy a kérelmező jogszabály alapján büntetlen előélethez vagy nemzetbiztonsági ellenőrzéshez kötött munkakörben dolgozik.
 
-(4b) Az államháztartásért felelős miniszter a belső ellenőrzési tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a belső ellenőrzési tevékenységet végző személy büntetlen előéletű, valamint, hogy nem áll a belső ellenőrzési tevékenységet kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából az államháztartásért felelős miniszter adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azt tartalmazhatja, hogy belső ellenőrzési tevékenységet végző személy büntetlen előéletű-e, valamint, hogy belső ellenőrzés körébe tartozó tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+(4b)–(4c)
 
-(4c) A (4a) és (4b) bekezdés alapján megismert személyes adatokat az államháztartásért felelős miniszter
-
-a) a belső ellenőrzési tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
-
-b) a belső ellenőrzési tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
-
-(5) Az államháztartásért felelős miniszter a belső ellenőrzési tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza az érintett
+(5) Az államháztartásért felelős miniszter a belső ellenőrzési tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza az érintett
 
 a) természetes személyazonosító adatát,
 
@@ -56,4 +48,4 @@ j) a kötelező szakmai továbbképzésen történő részvétel idejét.
 
 (7) Törölni kell a nyilvántartásból, aki a (4) bekezdésben, az (5) bekezdés szerinti nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesíti. A nyilvántartásba vétel, valamint a nyilvántartásból való törlés szabályait az államháztartásért felelős miniszter rendeletben állapítja meg. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.
 
-(8) A belső ellenőri tevékenység engedélyezésére, a nyilvántartásba bejegyzett adatok módosítására és törlésére irányuló eljárásért az államháztartásért felelős miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni. A (4) bekezdés szerinti döntéssel kapcsolatos hatósági eljárás ügyintézési határideje hatvan nap. Ha a kérelmező a kérelmét hibásan vagy hiányosan terjeszti elő, a kérelmezőt az államháztartásért felelős miniszter a kérelem előterjesztését követő harminc napon belül hiánypótlásra hívja fel.
+(8) A belső ellenőri tevékenység bejelentésére a nyilvántartásba bejegyzett adatok módosítására és törlésére irányuló eljárásért az államháztartásért felelős miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.

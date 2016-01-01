@@ -1,11 +1,17 @@
 ## VI. Fejezet
 
-## A KÖLTSÉGVETÉSI TÁMOGATÁSOK
+## A TÁMOGATÁSOK
 
-## 34. A költségvetési támogatás általános szabályai
+## 34. A támogatási jogviszony
 
-48. § (1) Költségvetési támogatás törvény, kormányrendelet, a Kormány egyedi határozata vagy támogatási igény alapján nyújtható. A támogatási igény formája lehet pályázat vagy kérelem. Pályázatot pályázati kiírás alapján lehet benyújtani.
+48. § (1) Az államháztartás alrendszerei terhére támogatás
 
-(2) A támogatási igényről jogszabályban, ennek hiányában a fejezetet irányító szerv belső szabályzatában meghatározott személy, testület dönt.
+a) közigazgatási hatósági határozattal vagy hatósági szerződéssel,
 
-(3) A kincstár által működtetett monitoringrendszerben nem rögzített támogatási döntés alapján érvényesen költségvetési támogatás nem nyújtható.
+b) támogatói okirattal vagy támogatási szerződéssel
+
+jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapján, pályázati úton vagy pályázati rendszeren kívül nyújtható.
+
+(2) A támogatás nem minősül egyedi döntés alapján nyújtott támogatásnak, ha a támogatás nyújtásának minden feltételét jogszabály meghatározza, és a támogatási döntés meghozatala során a döntéshozónak mérlegelési joga nincs. Nem minősül mérlegelési jognak, ha a döntéshozó a támogatási keret kimerüléséig a jogszabályi feltételeknek megfelelő támogatási igényeket beérkezési sorrendben teljesíti.
+
+(3) Pályázat vagy kérelem (a továbbiakban együtt: támogatási igény) alapján nyújtott támogatás esetén a támogatási igényről jogszabályban, ennek hiányában az irányító szerv belső szabályzatában meghatározott személy, testület dönt.

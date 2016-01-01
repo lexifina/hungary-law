@@ -1,10 +1,10 @@
-## 37. A költségvetési támogatás felhasználásának ellenőrzése
+## 37.
 
 54. § (1) A támogató a költségvetési támogatás felhasználását
 
-a) a 48/A. § (1) bekezdés a) pontja szerinti támogatási jogviszony esetében a hatósági ellenőrzés szabályai,
+a) a 48. § (1) bekezdés a) pontja szerinti támogatási jogviszony esetében a hatósági ellenőrzés szabályai,
 
-b) a 48/A. § (1) bekezdés b) pontja szerinti támogatási jogviszony esetében a Kormány rendeletében meghatározott szabályok
+b) a 48. § (1) bekezdés b) pontja szerinti támogatási jogviszony esetében a Kormány rendeletében meghatározott szabályok
 
 szerint ellenőrzi.
 

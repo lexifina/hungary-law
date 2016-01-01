@@ -26,15 +26,15 @@ i) a helyi önkormányzatok által kibocsátott garanciák és kezességek állo
 
 j) az államháztartás központi alrendszerében és önkormányzati alrendszerében, valamint a kormányzati szektorba sorolt egyéb szervezeteknél a nem teljesítő hitelkövetelések állományát, és
 
-k) a központi költségvetés címrendjének évközi változásait.
+k) a központi költségvetés fejezet- és címrendjének évközi változásait.
 
 (3a)
 
-(4) A 21. § (6) bekezdésében, 29. § (1) bekezdésében és 33. § (1) bekezdésében meghatározott egyedi határozatot a Kormány a Magyar Közlönyben közzéteszi.
+(4)
 
-(5) A Kormány egyedi határozatának
+(5) A Kormány és az Országgyűlés egyedi határozatának
 
-a) a 21. § (6) bekezdésében és 33. § (1) bekezdésében meghatározottak szerint hozott,
+a) a 21. § (6) bekezdésében és 33. § (1)–(2) bekezdésében meghatározottak szerint hozott,
 
 b) kötelezettségvállalással nem terhelt költségvetési maradvány felhasználására vonatkozó,
 

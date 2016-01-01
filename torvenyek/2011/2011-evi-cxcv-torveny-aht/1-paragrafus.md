@@ -10,7 +10,7 @@
 
 2. állami támogatás: az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdése szerint vagy csekély összegű támogatásként az Európai Unió közvetlenül alkalmazandó jogi aktusa alapján nyújtott támogatás,
 
-3. átlagos statisztikai állományi létszám: a Központi Statisztikai Hivatal által közétett módszertan szerint a folyamatosan vezetett létszámnyilvántartás alapján számított mutató,
+3. átlagos statisztikai állományi létszám: a Központi Statisztikai Hivatal által közétett módszertan szerint a folyamatosan vezetett létszámnyilvántartás alapján számított mutató, azzal, hogy a közfoglalkoztatottak létszáma az átlagos statisztikai állományi létszámba nem számítható be,
 
 4. átlátható szervezet: a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 3. § (1) bekezdés 1. pontja szerinti fogalom,
 
@@ -68,6 +68,6 @@ m) a szomszédos államokban nyújtható oktatási támogatásokat,
 
 18. önkormányzati hivatal: a polgármesteri hivatal, a főpolgármesteri hivatal, a megyei önkormányzati hivatal és a közös önkormányzati hivatal,
 
-19.
+19. támogatás: az államháztartás központi vagy önkormányzati alrendszeréből, bármilyen formában, ellenérték nélkül nyújtott juttatás,
 
 20. zárolás: a költségvetési kiadási előirányzatok felhasználásának időlegesen, feltételhez kötötten történő korlátozása, felfüggesztése.
