@@ -1,5 +1,3 @@
-## adatszolgáltatásra.
-
 3. § (1) A 2. § a)–b) pontjai szerinti adatszolgáltatás iránti eljárás a 2. számú melléklet szerinti igénylőlap benyújtásával vagy elektronikus úton, az alábbi feltételek megjelölésével kezdeményezhető:
 
 a) kötelezően megjelölendő szempontok:

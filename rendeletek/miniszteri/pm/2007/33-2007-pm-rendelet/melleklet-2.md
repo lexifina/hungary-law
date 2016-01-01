@@ -16,7 +16,7 @@
 
 2. számú melléklet a 33/2007. (XII. 23.) PM rendelethez[^17]
 
-## Igénylőlap az állami adóhatóság összehasonlító értékadatbázisából történő adatszolgáltatáshoz
+Igénylőlap az állami adóhatóság összehasonlító értékadatbázisából történő adatszolgáltatáshoz
 
 I. Azonosítás
 

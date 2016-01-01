@@ -13,3 +13,5 @@ e) országos éves részletes tartalmú,
 f) visszamenőleges
 
 g) szakértői
+
+adatszolgáltatásra.

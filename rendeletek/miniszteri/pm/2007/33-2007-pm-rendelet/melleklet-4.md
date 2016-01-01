@@ -1,20 +1,48 @@
-| NAV adó főigazgatóság | számlaszám |
+| Számlaszám jogosultja | Számlaszám | Számlaszámhoz sorolt szervek |
 
-| Regionális adó főigazgatóságok |  |
+| Nemzeti Adó- és Vámhivatal | 10032000-00289995- 00000000 | Nemzeti Adó- és Vámhivatal Észak-budapesti Adó- és Vámigazgatósága |
 
-|  | 1. | NAV Közép-magyarországi Regionális Adó Főigazgatósága | 10032000-00289995-00000000 |
+| Nemzeti Adó- és Vámhivatal Kelet-budapesti Adó- és Vámigazgatósága |
 
-|  | 2. | NAV Észak-magyarországi Regionális Adó Főigazgatósága | 10027006-00289988-00000000 |
+| Nemzeti Adó- és Vámhivatal Dél-budapesti Adó- és Vámigazgatósága |
 
-|  | 3. | NAV Észak-alföldi Regionális Adó Főigazgatósága | 10034002-00319834-00000000 |
+| Nemzeti Adó- és Vámhivatal Pest Megyei Adó- és Vámigazgatósága |
 
-|  | 4. | NAV Dél-alföldi Regionális Adó Főigazgatósága | 10028007-00289964-00000000 |
+| 10027006-00289988- 00000000 | Nemzeti Adó- és Vámhivatal Borsod-Abaúj-Zemplén Megyei Adó- és Vámigazgatósága |
 
-|  | 5. | NAV Nyugat-dunántúli Regionális Adó Főigazgatósága | 10033001-00289957-00000000 |
+| Nemzeti Adó- és Vámhivatal Heves Megyei Adó- és Vámigazgatósága |
 
-|  | 6. | NAV Közép-dunántúli Regionális Adó Főigazgatósága | 10029008-00289940-00000000 |
+| Nemzeti Adó- és Vámhivatal Nógrád Megyei Adó- és Vámigazgatósága |
 
-|  | 7. | NAV Dél-dunántúli Regionális Adó Főigazgatósága | 10024003-00289971-00000000 |
+| 10034002-00319834- 00000000 | Nemzeti Adó- és Vámhivatal Hajdú-Bihar Megyei Adó- és Vámigazgatósága |
+
+| Nemzeti Adó- és Vámhivatal Jász-Nagykun-Szolnok Megyei Adó- és Vámigazgatósága |
+
+| Nemzeti Adó- és Vámhivatal Szabolcs-Szatmár-Bereg Megyei Adó- és Vámigazgatósága |
+
+| 10028007-00289964- 00000000 | Nemzeti Adó- és Vámhivatal Csongrád Megyei Adó- és Vámigazgatósága, Szeged |
+
+| Nemzeti Adó- és Vámhivatal Bács-Kiskun Megyei Adó- és Vámigazgatósága |
+
+| Nemzeti Adó- és Vámhivatal Békés Megyei Adó- és Vámigazgatósága |
+
+| 10033001-00289957- 00000000 | Nemzeti Adó- és Vámhivatal Győr-Moson-Sopron Megyei Adó- és Vámigazgatósága |
+
+| Nemzeti Adó- és Vámhivatal Vas Megyei Adó- és Vámigazgatósága |
+
+| Nemzeti Adó- és Vámhivatal Zala Megyei Adó- és Vámigazgatósága |
+
+| 10029008-00289940- 00000000 | Nemzeti Adó- és Vámhivatal Fejér Megyei Adó- és Vámigazgatósága |
+
+| Nemzeti Adó- és Vámhivatal Komárom-Esztergom Megyei Adó- és Vámigazgatósága |
+
+| Nemzeti Adó- és Vámhivatal Veszprém Megyei Adó- és Vámigazgatósága |
+
+| 10024003-00289971- 00000000 | Nemzeti Adó- és Vámhivatal Baranya Megyei Adó- és Vámigazgatósága |
+
+| Nemzeti Adó- és Vámhivatal Somogy Megyei Adó- és Vámigazgatósága |
+
+| Nemzeti Adó- és Vámhivatal Tolna Megyei Adó- és Vámigazgatósága |
 
 4. számú melléklet a 33/2007. (XII. 23.) PM rendelethez[^19]
 

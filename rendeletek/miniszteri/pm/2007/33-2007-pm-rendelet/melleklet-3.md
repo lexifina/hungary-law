@@ -16,6 +16,6 @@
 
 ## aláírás
 
-3. számú melléklet a 33/2007. (XII. 23.) PM rendelethez[^18]
+3. melléklet a 33/2007. (XII. 23.) PM rendelethez[^18]
 
-[^18]: A 3. számú melléklet a 46/2012. (XII. 27.) NGM rendelet 26. §-ával megállapított szöveg.
+[^18]: A 3. melléklet a 47/2015. (XII. 30.) NGM rendelet 9. § (2) bekezdésével megállapított szöveg.
