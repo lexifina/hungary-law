@@ -1,12 +1,12 @@
 ## 9. § E rendelet tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés hatodik francia bekezdése szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 14/2014. (V. 19.) MNB rendelethez
+1. melléklet a 14/2014. (V. 19.) MNB rendelethez[^6]
 
 ## A devizafinanszírozás megfelelési mutató számításának módja
 
-1. A devizafinanszírozás megfelelési mutató a devizaforrások és az 1 éven túli hátralévő lejáratú forinttal szembeni nettó devizaswap-állománynak, valamint a finanszírozott stabil devizaeszközök és mérlegen kívüli devizakötelezettségek nettó értékeinek a hányadosaként számítandó ki.
+1. A devizafinanszírozás megfelelési mutató a devizaforrások, valamint a finanszírozott stabil devizaeszközök és mérlegen kívüli devizakötelezettségek nettó értékeinek a hányadosaként számítandó ki.
 
-2. A devizafinanszírozás megfelelési mutató számlálója – a devizaforrások és az 1 éven túli hátralévő lejáratú forinttal szembeni nettó devizaswap-állomány – az alábbi táblázatban meghatározott beszámítandó elemek és a hozzájuk rendelt súlyok szorzata.
+2. A devizafinanszírozás megfelelési mutató számlálója – a devizaforrások – az alábbi táblázatban meghatározott beszámítandó elemek és a hozzájuk rendelt súlyok szorzata.
 
 |  | Beszámítandó elemek | Súlyok |
 
@@ -30,7 +30,7 @@
 
 | 10 | Pénzpiaci alapok 1 éven belüli hátralévő lejáratú devizabetétei | 50% |
 
-| 11 | 1 éven túli hátralévő lejáratú forinttal szembeni nettó devizaswap-állomány | 100% |
+| 11 |  |  |
 
 3. A devizafinanszírozás megfelelési mutató nevezője – a finanszírozott stabil devizaeszközök és mérlegen kívüli devizakötelezettségek nettó értéken – az alábbi táblázatban meghatározott beszámítandó elemek és a hozzájuk rendelt súlyok szorzata.
 
@@ -107,3 +107,5 @@
 | 15 | Le nem hívott deviza likviditási keret és deviza hitelkeret | 5% |
 
 | 16 | Változó devizás hitelkeret | 2,5% |
+
+[^6]: Az 1. melléklet a 26/2015. (VII. 30.) MNB rendelet 3. § (2) bekezdése szerint módosított szöveg.
