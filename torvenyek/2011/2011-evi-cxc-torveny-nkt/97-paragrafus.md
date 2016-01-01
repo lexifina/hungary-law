@@ -50,6 +50,24 @@ c) 179,6 százaléka mesterfokozat esetén.
 
 (21) Nem vonatkozik a minősítési kötelezettség arra a pedagógus-munkakörben, valamint pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra, aki a 2013. szeptember 1-jétől számított tizedik tanév végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
 
+(21a) A 2016. január 1-jével a pedagógusok előmeneteli rendszerének hatálya alá kerülő
+
+a) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődében pedagógus-munkakörben foglalkoztatott,
+
+b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermekvédelmi szakellátást nyújtó intézményben örökbefogadási tanácsadó munkakörben foglalkoztatott, továbbá
+
+c) az e törvény szerinti egységes óvoda-bölcsődében felsőfokú végzettséggel kisgyermeknevelő munkakörben foglalkoztatott
+
+közalkalmazott illetménye, munkavállaló munkabére az átsorolás eredményeként nem lehet kevesebb, mint a 2015. december hónapra járó – illetménykiegészítéssel, illetménynövekedéssel és rendszeres illetménypótlékokkal összeszámolt – kinevezésben rögzített illetménye, illetve munkaszerződésben rögzített munkabére.
+
+(21b) A 65. § (9a) bekezdésében foglaltakat a 2016. január 1-jét megelőzően keletkezett foglalkoztatási jogviszonyok esetében is alkalmazni kell azzal, hogy a 2016. január 1-jén
+
+a) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermekvédelmi szakellátást nyújtó intézményekben – az örökbefogadási tanácsadók kivételével – pedagógus-munkakörben foglalkoztatott, továbbá
+
+b) javítóintézeti nevelést nyújtó intézményekben pedagógus-munkakörben foglalkoztatott
+
+közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésének alkalmazása következtében nem lehet kevesebb, mint a 2015. december hónapra járó – illetménykiegészítéssel, illetménynövekedéssel és rendszeres illetménypótlékokkal összeszámolt – kinevezésben rögzített illetménye, illetve munkaszerződésben rögzített munkabére.
+
 (22) A 46. § (5) bekezdés szerinti térítésmentes tankönyvellátást első alkalommal a 2013/2014. tanévben az első évfolyamra beiratkozott tanulók számára, ezt követően felmenő rendszerben kell biztosítani.
 
 (23) A 76. § (1) bekezdés szerint a működtető tulajdonát azok a taneszközök képezik, amelyeket a 2013. január 1-jei leltár tartalmaz.

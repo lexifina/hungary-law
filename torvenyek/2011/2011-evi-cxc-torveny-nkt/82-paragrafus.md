@@ -52,14 +52,4 @@ f) vizsgaelnöki igazolásának hatályát.
 
 (9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység folytatásától vagy a vizsgaelnöki feladatok ellátásától és törli az Országos szakértői névjegyzékből, az Országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
 
-(10) A köznevelési szakértői tevékenység (1) bekezdés b) pontja szerinti engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a hivatal részére – annak a köznevelési szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a hivatal a (11) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(11) A hivatal az (1) bekezdés szerinti köznevelési szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a köznevelési szakértő büntetlen előéletű-e, és nem áll-e a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a hivatal adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a köznevelési szakértő büntetlen előéletű-e, valamint a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(12) A (10) és (11) bekezdés alapján megismert személyes adatokat a hivatal
-
-a) az (1) bekezdés b) pontja szerinti köznevelési szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig, vagy
-
-b) a (11) bekezdés szerinti hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
+(10)–(12)

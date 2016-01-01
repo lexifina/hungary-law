@@ -14,6 +14,8 @@ d) idegen nyelv – a nemzetiségi nevelés-oktatásban részt vevők számára 
 
 e) kötelezően választandó vizsgatárgy.
 
+(2a) Aki szakiskolában államilag elismert szakképesítést szerzett és a szakközépiskolában érettségi vizsgát kíván tenni, annak a (2) bekezdés e) pontjában foglalt tantárgyból nem kell számot adnia a tudásáról.
+
 (3) A kötelező és a kötelezően választandó mellett további vizsgatárgyakból is tehető érettségi vizsga.
 
 (4) A középiskola elvégzését közvetlenül követő érettségi vizsgaidőszakban az érettségi vizsgák megkezdésének feltétele ötven óra közösségi szolgálat elvégzésének igazolása, kivéve

@@ -24,6 +24,6 @@ g) a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével 
 
 h) országos feladatot ellátó intézménynek minősül,
 
-i) a 60. § (2) bekezdés b) pontja szerinti életkori határ a katonai szakképesítések esetén huszonnégy év.
+i)
 
 (5) A honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézménnyel altiszt-jelölti szolgálati viszonyban álló tanulók és a szolgálati viszonyban álló pedagógusok jogviszonyára, az intézményvezető megbízására, valamint a fenntartói irányítási jog gyakorlására a honvédek jogállásáról szóló törvény, valamint felhatalmazása alapján miniszteri rendelet e törvénytől eltérő rendelkezéseket állapíthat meg.

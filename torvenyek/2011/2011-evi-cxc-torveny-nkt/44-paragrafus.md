@@ -2,6 +2,8 @@
 
 (2) A köznevelési feladatokat ellátó intézmény, a jegyző, a közneveléssel összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, az intézmények és az intézményi tanácsok adatokat szolgáltatnak a KIR-be.
 
+(2a) A KIR központi nyilvántartás adataihoz a hivatal a kormányhivatal, valamint a járási hivatal részére – feladatellátásához szükséges adatok tekintetében – közvetlen hozzáférést biztosít.
+
 (3) A KIR adatkezelője oktatási azonosító számot ad ki annak,
 
 a) aki óvodai jogviszonyban áll,
