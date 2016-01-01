@@ -1,4 +1,4 @@
-43. § (1) A körzeti vadgazdálkodási terv az adott térségre vonatkozóan tartalmazza:
+43. § (1) A tájegységi vadgazdálkodási terv az adott térségre vonatkozóan tartalmazza:
 
 a) a vad élőhelyének általános jellemzését;
 
@@ -6,10 +6,12 @@ b) az egyes vadfajok állományának leírását;
 
 c) a vadállomány-szabályozás irányelveit, az egyes vadfajok szerint fenntartandó legkisebb vadlétszámot (törzsállomány), valamint az élőhelyet még nem veszélyeztető legmagasabb vadlétszámot;
 
-d) a körzeti trófeabírálat irányelveit;
+d) a tájegységi trófeabírálat irányelveit;
 
-e) a védett természeti területen a természet- és tájvédelmi előírásokat.
+e) a védett természeti területen a természet- és tájvédelmi előírásokat;
 
-(2) A körzeti vadgazdálkodási terv erdőre vonatkozó egyes adatait a körzeti erdőterv alapján kell megállapítani.
+f) a hosszú távú természetvédelmi célokat.
 
-(3) A körzeti vadgazdálkodási terv készítése során biztosítani kell, hogy a körzethez tartozó jogosultak a tervet még annak kiadása előtt – a rájuk vonatkozó adatok vonatkozásában – megismerhessék és ahhoz javaslatokat tegyenek. A körzeti vadgazdálkodási tervet az érintett jogosultak véleményének kikérése után kell elkészíteni.
+(2) A tájegységi vadgazdálkodási terv erdőre vonatkozó egyes adatait a tájegységi erdőterv alapján kell megállapítani.
+
+(3) A tájegységi vadgazdálkodási terv készítése során biztosítani kell, hogy a tájegységhez tartozó vadászatra jogosultak a tervet még annak kiadása előtt – a rájuk vonatkozó adatok vonatkozásában – megismerhessék és ahhoz javaslatokat tegyenek. A tájegységi vadgazdálkodási tervet az érintett vadászatra jogosultak véleményének kikérése után kell elkészíteni.

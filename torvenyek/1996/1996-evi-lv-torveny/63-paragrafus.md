@@ -1,4 +1,4 @@
-63. § (1) A vadászati engedély az abban megjelölt jogosult vadászterületén jogosít vadászatra.
+63. § (1) A vadászati engedély az abban megjelölt vadászatra jogosult vadászterületén jogosít vadászatra.
 
 (2) A vadászati engedélyt a vadászati hatóság legfeljebb egy évre állítja ki.
 

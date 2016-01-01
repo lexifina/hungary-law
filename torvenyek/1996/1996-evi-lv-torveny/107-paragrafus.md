@@ -1,0 +1,1 @@
+107. § A Módtv. hatálybalépését követően megállapított vadászterület tekintetében a vadászati jog haszonbérlője lehet a 16. § (1) bekezdésben meghatározottakon túl az a gazdasági társaság is, amely a Módtv. hatálybalépésekor a Módtv. hatálybalépése előtt megállapított vadászterület tekintetében a vadászterület használatára jogosult.

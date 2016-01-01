@@ -1,6 +1,6 @@
-58. § (1) A jogosult – a vadászat formájától függetlenül – köteles a vadászat lefolyásának utólagos ellenőrzésére alkalmas napló (a továbbiakban: vadászati napló) vezetéséről gondoskodni.
+58. § (1) A vadászatra jogosult – a vadászat formájától függetlenül – köteles a vadászat lefolyásának utólagos ellenőrzésére alkalmas napló (a továbbiakban: vadászati napló) vezetéséről gondoskodni.
 
-(2) A jogosult a vadászat befejezését követően köteles az elejtett vadról nyilvántartást vezetni (a továbbiakban: teríték-nyilvántartás).
+(2) A vadászatra jogosult a vadászat befejezését követően köteles az elejtett vadról nyilvántartást vezetni (a továbbiakban: teríték-nyilvántartás).
 
 (3) Az elfogott vad nyilvántartására a teríték-nyilvántartás szabályait kell alkalmazni.
 

@@ -2,7 +2,7 @@
 
 (2) A vadgazdálkodási tevékenység tervszerűségét:
 
-a) körzeti vadgazdálkodási terv;
+a) tájegységi vadgazdálkodási terv;
 
 b) hosszú távú vadgazdálkodási üzemterv;
 

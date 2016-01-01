@@ -1,1 +1,1 @@
-20/A. § A vadászterület határának megállapítására irányuló eljárásban hozott elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az eljárásban nem vett részt.
+### 20/A. §

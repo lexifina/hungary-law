@@ -1,4 +1,4 @@
-11. § (1) A Magyar Állam önálló vadászati jogát nyilvánosan meghirdetett pályázat útján haszonbérbe adással vagy vagyonkezelői szerződéssel hasznosítja. Ebben az esetben jogosultnak a haszonbérlőt, illetőleg a vagyonkezelőt kell tekinteni.
+11. § (1) A Magyar Állam önálló vadászati jogát nyilvánosan meghirdetett pályázat útján haszonbérbe adással vagy vagyonkezelői szerződéssel hasznosítja. Ebben az esetben vadászatra jogosultnak a haszonbérlőt, illetőleg a vagyonkezelőt kell tekinteni.
 
 (2) Az (1) bekezdés szerinti vagyonkezelő több, a Magyar Államot illető önálló vadászati jogot is hasznosíthat.
 

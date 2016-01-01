@@ -8,7 +8,7 @@ b) különleges
 
 rendeltetésű lehet.
 
-(2) A vadászterület különleges rendeltetését a jogosult kérelmére a vadászati hatóság határozatban állapítja meg, ha
+(2) A vadászterület különleges rendeltetését a vadászatra jogosult kérelmére a vadászati hatóság határozatban állapítja meg, ha
 
 a) azt a vad génállományának megőrzése szükségessé teszi;
 

@@ -8,4 +8,4 @@ c) a bérvadászat.
 
 (2) Társult vadászati jog esetén a vadászati jog hasznosításának minősül annak haszonbérbeadása.
 
-(3) A 12. § szerinti kérdésekben hozott határozatot írásba kell foglalni. A határozatról készült és két tanúval hitelesített okirat egy példányát a vadászati hatóságnak nyilvántartásba vétel céljából az aláírást követő tizenöt napon belül meg kell küldeni.
+(3) A 12. § szerinti kérdésekben hozott határozatot írásba kell foglalni. A határozatról készült és két tanúval hitelesített okirat egy példányát a vadászati hatóságnak nyilvántartásba vétel céljából a tulajdonosi közösség gyűlését követő tizenöt napon belül meg kell küldeni.

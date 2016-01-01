@@ -22,8 +22,10 @@ e) nem mező-, erdő- vagy vadgazdálkodási célból bekerített hely,
 
 f) repülőtér,
 
-g) közút, továbbá
+g) közút, valamint a közút és annak fel- és lehajtója által határolt, továbbá
 
 h) vasút
 
 területét.
+
+(3) A vadászterület határa nem terjedhet át a vadgazdálkodási tájegység határán.

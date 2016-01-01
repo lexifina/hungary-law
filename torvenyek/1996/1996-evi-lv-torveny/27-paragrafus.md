@@ -34,4 +34,4 @@ c) a haszonbérleti szerződés megkötésében eljáró vadászati hatóság mi
 
 (6) A vadászati jog gyakorlására vagy hasznosítására kötelező, valamint a vadászati jog kényszerhasznosítását elrendelő hatósági határozatot nyilvánosan is közzé kell tenni.
 
-(7) A hatósági vadászat során az elejtett vad, illetve annak trófeája értékesítéséről a vadászati hatóság gondoskodik, a föld tulajdonosa, illetve a jogosult csak a felmerült költségeket – ideértve a vadgazdálkodás költségeit – meghaladó részére tarthat igényt.
+(7) A hatósági vadászat során az elejtett vad, illetve annak trófeája értékesítéséről a vadászati hatóság gondoskodik, a föld tulajdonosa, illetve a vadászatra jogosult csak a felmerült költségeket – ideértve a vadgazdálkodás költségeit – meghaladó részére tarthat igényt.

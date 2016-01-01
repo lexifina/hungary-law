@@ -1,6 +1,6 @@
-## A vadászterület határának megállapítása
+## A vadászterület határának megállapítása, megváltoztatása
 
-19. § (1) A vadászterület határát a kialakítandó vadászterület tulajdonosának – társult vadászati jog esetén a kialakítandó vadászterület tulajdonosai képviselőjének – kérelmére a vadászati hatóság határozatban állapítja meg.
+19. § (1)
 
 (2) A vadászterület határának megállapításánál figyelemmel kell lenni:
 
@@ -24,7 +24,9 @@ i) zárványterület ne keletkezzen;
 
 j) a háromezer hektár vagy azt meghaladó természetvédelem alatt álló területek – a védelmükhöz szükséges övezettel együtt – lehetőleg önálló vadászterületet képezzenek;
 
-k) a háromezer hektárnál kisebb területű természetvédelem alatt álló területek lehetőleg egy vadászterületre essenek.
+k) a háromezer hektárnál kisebb területű természetvédelem alatt álló területek lehetőleg egy vadászterületre essenek;
+
+l) a vadászterület határának egyértelmű azonosíthatóságára, tartósságára és nyomon követhetőségére.
 
 (3) A vadászati hatóság a vadászterület legkisebb kiterjedésétől – a (4) bekezdésben foglalt eset kivételével – legfeljebb ötszáz hektárral eltérhet, amennyiben a kialakítandó vadászterületen a vadászati jog szakszerű gyakorlása, illetőleg hasznosítása egyébként biztosított.
 

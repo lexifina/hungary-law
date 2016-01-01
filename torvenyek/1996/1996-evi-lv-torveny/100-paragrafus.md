@@ -10,7 +10,7 @@ a) a természetvédelemért felelős miniszterrel egyetértésben rendeletben sz
 
 3. a vízivad vadászata rendjének szabályait, az ólomsörét használatának tilalma alá eső vizes területeket,
 
-4. a körzeti vadgazdálkodási terv védett természeti területekre vonatkozó kötelező előírásait;
+4. a tájegységi vadgazdálkodási terv védett természeti területekre vonatkozó előírásait;
 
 b) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
 
@@ -18,7 +18,7 @@ c) rendeletben szabályozza
 
 1. a vadászati és vadgazdálkodási rendeltetésű létesítményekre és berendezésekre vonatkozó szabályokat,
 
-2. a vadgazdálkodási üzemtervre, illetve az éves vadgazdálkodási tervre vonatkozó szabályokat, valamint a körzeti vadgazdálkodási terv védett természeti területekre nem vonatkozó kötelező előírásait,
+2. a vadgazdálkodási üzemtervre, illetve az éves vadgazdálkodási tervre vonatkozó szabályokat, továbbá a tájegységi vadgazdálkodási terv nem védett természeti területekre vonatkozó előírásait,
 
 3. a hivatásos vadász esküjének szövegét, a szolgálati jelvényének és a szolgálati naplójának mintáját, továbbá annak vezetési szabályait,
 
@@ -28,7 +28,7 @@ c) rendeletben szabályozza
 
 6. a vadászjegyre, az egyéni lőjegyzékre és a vadászati engedélyre vonatkozó szabályokat,
 
-7. a vadászkutya fajtacsoport tenyésztésének, nyilvántartásának, teljesítményvizsgálatának és használatának, valamint vizsgáztatásának szabályait,
+7. a vadászkutya használatának, valamint vizsgáztatásának szabályait,
 
 8. a vadkár, vadászati kár, valamint vadban okozott kár megállapításának szabályait,
 
@@ -46,7 +46,7 @@ c) rendeletben szabályozza
 
 15. a vad, vadhús felvásárlása, feldolgozása, forgalomba hozatala során vezetett nyilvántartásra vonatkozó szabályokat,
 
-16. a vadászterület határa megállapításának szabályait,
+16. a vadászterület kialakításának, valamint határa megállapításának részletes szabályait,
 
 17. a vadászterületek és a vadászatra jogosultak nyilvántartásának szabályait,
 
@@ -62,7 +62,7 @@ c) rendeletben szabályozza
 
 23. a mesterséges vadtenyésztés, továbbá a vad befogásának szabályait,
 
-24. a hivatásos vadász alkalmazásának, tevékenységének és nyilvántartásának szabályait,
+24. a hivatásos vadász alkalmazásának, tevékenységének, nyilvántartásának és kötelező felszerelésének szabályait,
 
 25. a vadászati jog gyakorlásának, hasznosításának módjáról és feltételeiről szóló működési szabályzatra vonatkozó szabályokat,
 
@@ -78,6 +78,20 @@ c) rendeletben szabályozza
 
 31. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét,
 
-32. a hivatásos vadász szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat.
+32. a hivatásos vadász szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat,
+
+33. a földhasználót érintő fokozott közreműködéssel járó eseteket, és az ilyenkor követendő eljárást,
+
+34. az egyes növénykultúrákban keletkezett vadkárra vonatkozó bejelentési időszakokat és határidőket,
+
+35. a tájegységi fővadász működésével és szakmai irányításával kapcsolatos feladatokat,
+
+36. a trófeabírálat részletes szabályait,
+
+37. a védett természeti területet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területet, továbbá az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területeket kivéve a vadászterületen a vad mozgását befolyásoló tartós telepítésű kerítés létesítésének feltételeit,
+
+38. a vadászati hatósági feladatokat ellátó személyek egyenruházatára, szolgálati felszerelésére, jelvényére és igazolványára vonatkozó részletes szabályokat.
+
+(1a) Felhatalmazást kap a miniszter, hogy rendeletben jelölje ki a vadgazdálkodási tájegységeket.
 
 (2) Felhatalmazást kap a Kormány arra, hogy a vadászati hatóságot vagy hatóságokat rendeletben jelölje ki.

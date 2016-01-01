@@ -1,6 +1,6 @@
-18. § (1) A vadászati jog haszonbérletére kötött szerződést annak aláírásától számított hatvan napon belül – a vadgazdálkodási üzemtervvel együtt – a haszonbérlőnek a vadászati hatósághoz jóváhagyásra be kell nyújtania. A kérelem benyújtása egyidejűleg a haszonbérlő jogosultként történő nyilvántartásbavételi kérelmének is minősül.
+18. § (1) A vadászati jog haszonbérletére kötött szerződést annak aláírásától számított hatvan napon belül a haszonbérlőnek a vadászati hatósághoz jóváhagyásra be kell nyújtania. A kérelem benyújtása egyidejűleg a haszonbérlő vadászatra jogosultként történő nyilvántartásbavételi kérelmének is minősül.
 
-(2) A vadászati jog haszonbérletére kötött szerződést a vadászati hatóság hagyja jóvá. A vadászati hatóság a szerződés jóváhagyásával egyidejűleg határoz a vadgazdálkodási üzemterv jóváhagyásáról, valamint a haszonbérlő jogosultként történő nyilvántartásba vételéről is.
+(2) A vadászati jog haszonbérletére kötött szerződést a vadászati hatóság hagyja jóvá. A vadászati hatóság a szerződés jóváhagyásával egyidejűleg határoz a vadgazdálkodási üzemterv jóváhagyásáról, valamint a haszonbérlő vadászatra jogosultként történő nyilvántartásba vételéről is.
 
 (3) A (2) bekezdésben foglaltakat kell alkalmazni a vadászati jog haszonbérletére kötött szerződés módosításakor is.
 

@@ -4,11 +4,11 @@
 
 (2) Az Adattár tartalmazza:
 
-a) a körzeti vadgazdálkodási tervek adatait;
+a) a tájegységi vadgazdálkodási tervek adatait;
 
 b) a vadászterületek azonosítására szolgáló adatokat;
 
-c) a jogosultak nevét (cégét), címét (székhelyét);
+c) a vadászatra jogosultak nevét (cégét), címét (székhelyét);
 
 d) a vadgazdálkodási üzemtervek adatait;
 

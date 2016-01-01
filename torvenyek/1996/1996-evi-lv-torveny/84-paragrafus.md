@@ -26,4 +26,4 @@ j) aki a vadászkutya vezetőjeként a vadászat megkezdésekor a jogszabályban
 
 (3) Az (1) bekezdés g) és h) pontjai szerinti esetben a vadvédelmi bírság mértéke esetenként és a cselekmény súlyától függően legalább ötvenezer és legfeljebb egymillió forint lehet.
 
-(4) A törvény alkalmazásában jogosulatlan vadászatnak minősül a 64. § (1) bekezdésében felsorolt igazolások hiányában történő, továbbá a jogosult hozzájárulása nélküli vadászat, valamint az, ha a vadász az általa elejtett vadat e törvénynek megfelelően nem jelöli meg.
+(4) A törvény alkalmazásában jogosulatlan vadászatnak minősül a 64. § (1) bekezdésében felsorolt igazolások hiányában történő, továbbá a vadászatra jogosult hozzájárulása nélküli vadászat, valamint az, ha a vadász az általa elejtett vadat e törvénynek megfelelően nem jelöli meg.

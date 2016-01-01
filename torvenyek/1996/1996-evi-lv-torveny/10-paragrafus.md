@@ -1,6 +1,6 @@
 ## A vadászati jog gyakorlása, hasznosítása
 
-10. § (1) Önálló vadászati jog esetén a vadászati jog gyakorlásának minősül, ha a jogosult:
+10. § (1) Önálló vadászati jog esetén a vadászati jog gyakorlásának minősül, ha a vadászatra jogosult:
 
 a) e törvényben előírt feltételek megléte esetén vadászterületén saját maga vadászik;
 

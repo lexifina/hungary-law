@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-55-00-00
 | 2013-12-31 | 2013. évi CCL. törvény | 1996-55-00-00.34 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1996-55-00-00.35 |
 | 2015-05-05 | 2015. évi L. törvény | 1996-55-00-00.36 |
+| 2016-01-01 | 2015. évi CLXXXIII. törvény | 1996-55-00-00.37 |
