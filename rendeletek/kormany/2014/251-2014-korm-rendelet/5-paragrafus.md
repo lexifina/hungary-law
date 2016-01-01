@@ -1,26 +1,22 @@
-5. § (1) Közérdek sérelmének minősül, ha a kérelmező természetes személy
+5. § (1)[^2] Közérdek sérelmének minősül, ha a kérelmező természetes személy
 
-a) kiutasítás,
+a) kiutasítás, vagy beutazási és tartózkodási tilalom hatálya alatt áll,
 
-b) beutazási és tartózkodási tilalom,
+b) elfogatóparancs hatálya alatt áll,
 
-c) elfogatóparancs, vagy
+c) büntetett előéletű,
 
-d) szabadságvesztés büntetés
+## vagy ha a közérdek sérelme egyéb közbiztonsági, közrendi vagy közegészségügyi okból megállapítható.
 
-## hatálya alatt áll, vagy ha a közérdek sérelme egyéb közbiztonsági, közrendi vagy közegészségügyi okból megállapítható.
+(2)[^3] A fővárosi és megyei kormányhivatal
 
-(2) A fővárosi és megyei kormányhivatal
+a) az (1) bekezdés a) pontjában foglaltakra vonatkozóan a Bevándorlási és Állampolgársági Hivatalt,
 
-a) az (1) bekezdés a) és b) pontjában foglaltakra vonatkozóan a Bevándorlási és Állampolgársági Hivatalt,
-
-b) az (1) bekezdés c) pontjában foglaltakra vonatkozóan az Országos Rendőr-főkapitányságot,
-
-c) az (1) bekezdés d) pontjában foglaltakra vonatkozóan a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát
+b) az (1) bekezdés b) pontjában foglaltakra vonatkozóan az Országos Rendőr-főkapitányságot,
 
 ## keresi meg.
 
-(3) Megvalósul a közérdek sérelme, amennyiben az illetékes szerv az (1) bekezdés a)–d) pontjaiban foglaltakkal összefüggésben azt a tájékoztatást nyújtja, hogy a kérelmező szerepel az információ alapjául szolgáló nyilvántartásban.
+(3)[^4] Megvalósul a közérdek sérelme, amennyiben a megkeresett szerv az (1) bekezdésben foglaltakkal összefüggésben azt a tájékoztatást nyújtja, hogy a kérelmező szerepel az információ alapjául szolgáló nyilvántartásban, vagy a meghatározott törvényi feltételeknek nem felel meg.
 
 (4) Jogi személy kérelmező esetén a közérdek sérelme különösen akkor valósul meg, ha a fióktelep vagy kereskedelmi képviselet
 
@@ -29,3 +25,7 @@ a) adószámát az állami adóhatóság felfüggesztette vagy törölte,
 b) a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerint alkalmazott tevékenység korlátozására vonatkozó intézkedés hatálya alatt áll,
 
 c) felszámolás, kényszertörlés, vagy a Fiókteleptv. szerinti megszüntetési eljárás alatt áll.
+
+[^2]: Az 5. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 232. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^3]: Az 5. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 232. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^4]: Az 5. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 232. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
