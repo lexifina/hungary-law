@@ -1,6 +1,5 @@
-125. § (1)[^646] Ha az elkobzás alá eső jövedéki terméket a rendőrség, a fogyasztóvédelmi hatóság vagy a közterületi felügyelet foglalja le – kivéve a büntető eljárás során történt lefoglalást –, arról haladéktalanul értesítenie kell a hatósági felügyeletet ellátó vámszervet.
+125. §[^560] (1) Ha az elkobzás alá eső jövedéki terméket a rendőrség, a fogyasztóvédelmi hatóság vagy a közterületi felügyelet foglalja le – kivéve a büntető eljárás során történt lefoglalást –, arról haladéktalanul értesítenie kell a vámhatóságot.
 
-(2)[^647] A hatósági felügyeletet ellátó vámszerv az értesítést követően haladéktalanul köteles a lefoglalt dolgot és a jegyzőkönyvi iratokat átvenni, és az eljárást a Jöt. és e rendelet rendelkezései szerint lefolytatni.
+(2) A vámhatóság az értesítést követően haladéktalanul köteles a lefoglalt dolgot és a jegyzőkönyvi iratokat átvenni, és az eljárást a Jöt. és e rendelet rendelkezései szerint lefolytatni.
 
-[^646]: A 125. § (1) bekezdése a 17/2009. (IX. 29.) PM rendelet 19. § (6) bekezdése, a 27/2010. (XII. 31.) NGM rendelet 36. §-a, a 17/2011. (IV. 19.) NGM rendelet 56. § (14) bekezdése szerint módosított szöveg.
-[^647]: A 125. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^560]: A 125. § a 41/2015. (XII. 30.) NGM rendelet 118. §-ával megállapított szöveg.

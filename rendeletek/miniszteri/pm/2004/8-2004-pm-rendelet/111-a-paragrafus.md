@@ -1,16 +1,16 @@
-## E85[^561]
+## E85[^490]
 
-111/A. §[^562] (1) Az E85 adómértékének megállapításához szükséges okmányok:
+111/A. §[^491] (1) Az E85 adómértékének megállapításához szükséges okmányok:
 
-a)[^563] a bioetanol gyártásához felhasznált 41/B. § (1) bekezdése szerinti alkoholtermék alapanyagának mezőgazdasági eredetéről és Közösségben történt előállításáról
+a)[^492] a bioetanol gyártásához felhasznált 41/B. § (1) bekezdése szerinti alkoholtermék alapanyagának mezőgazdasági eredetéről és Közösségben történt előállításáról
 
-aa)[^564] ásványolaj-adóraktár esetében a belföldről beszerzett 41/B. § (1) bekezdése szerinti alkoholtermékre és bioetanolra a szeszüzem 61/B. § (2) bekezdés szerinti nyilatkozata,
+aa)[^493] ásványolaj-adóraktár esetében a belföldről beszerzett 41/B. § (1) bekezdése szerinti alkoholtermékre és bioetanolra a szeszüzem 61/B. § (2) bekezdés szerinti nyilatkozata,
 
 ab) szeszüzem esetében a 61/B. § (3) bekezdése szerinti nyilvántartás,
 
 ac) egyéb esetben a bioetanol vagy az E85 gyártójának nyilatkozata;
 
-b)[^565] a 41/B. § (1) bekezdése szerinti alkoholtermék 61/A. § (1) bekezdés szerinti denaturálásáról a 61. § (5) bekezdés szerint készített jegyzőkönyv vagy annak másolata, illetve – ha a denaturálást nem belföldön végezték – a tagállam vagy a harmadik ország illetékes hatósága (szerve) által a denaturálásról készített, a 61. § (5) bekezdés szerinti adatokat tartalmazó jegyzőkönyv eredeti példánya vagy annak hiteles másolata;
+b)[^494] a 41/B. § (1) bekezdése szerinti alkoholtermék 61/A. § (1) bekezdés szerinti denaturálásáról a 61. § (5) bekezdés szerint készített jegyzőkönyv vagy annak másolata, illetve – ha a denaturálást nem belföldön végezték – a tagállam vagy a harmadik ország illetékes hatósága (szerve) által a denaturálásról készített, a 61. § (5) bekezdés szerinti adatokat tartalmazó jegyzőkönyv eredeti példánya vagy annak hiteles másolata;
 
 c) az E85 gyártmánylapja, vagy az E85 minőségi bizonyítványa, vagy az EN ISO/IEC 17025 szerint akkreditált laboratórium vagy az E85 előállítását végző, ISO 9001 minőségirányítási rendszerrel rendelkező gyártó laboratóriuma által kiállított olyan igazolás, amelyből megállapítható az E85-ben lévő bioetanol térfogatszázalékban vagy a külön jogszabály szerint meghatározott energiatartalom százalékában kifejezett aránya, és a bekevert bioetanol 15 °C hőmérséklethez tartozó sűrűsége és térfogata;
 
@@ -18,8 +18,8 @@ d) az E85 fenntarthatósági igazolása.
 
 (2) Az E85-öt szabadforgalomba bocsátó adóraktár-engedélyes a Jöt. 52. § (7) bekezdése szerinti nyilatkozatot adóbevallásában teszi meg.
 
-[^561]: A 111/A. §-t megelőző alcímet a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 18/2010. (XII. 30.) NGM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^562]: A 111/A. §-t a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 22/2013. (VI. 27.) NGM rendelet 9. §-ával megállapított szöveg.
-[^563]: A 111/A. § (1) bekezdés a) pontja a 45/2014. (XII. 30.) NGM rendelet 14. § 13. pontja szerint módosított szöveg.
-[^564]: A 111/A. § (1) bekezdés a) pont aa) alpontja a 45/2014. (XII. 30.) NGM rendelet 14. § 14. pontja szerint módosított szöveg.
-[^565]: A 111/A. § (1) bekezdés b) pontja a 45/2014. (XII. 30.) NGM rendelet 14. § 12. pontja szerint módosított szöveg.
+[^490]: A 111/A. §-t megelőző alcímet a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 18/2010. (XII. 30.) NGM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^491]: A 111/A. §-t a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 22/2013. (VI. 27.) NGM rendelet 9. §-ával megállapított szöveg.
+[^492]: A 111/A. § (1) bekezdés a) pontja a 45/2014. (XII. 30.) NGM rendelet 14. § 13. pontja szerint módosított szöveg.
+[^493]: A 111/A. § (1) bekezdés a) pont aa) alpontja a 45/2014. (XII. 30.) NGM rendelet 14. § 14. pontja szerint módosított szöveg.
+[^494]: A 111/A. § (1) bekezdés b) pontja a 45/2014. (XII. 30.) NGM rendelet 14. § 12. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Kérelem benyújtásának időpontja:
 
-## Kérelmet átvevő vámszerv megnevezése, aláírása:
+## Vámhatóság megnevezése, aláírása:
 
 ## KÉRELEM
 
@@ -158,6 +158,6 @@
 
 |  | ......................................................................... a kérelmező aláírása (bélyegzője) |
 
-5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^706]
+5. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^620]
 
-[^706]: Az 5. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (5) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a szerint módosított szöveg.
+[^620]: Az 5. számú melléklet a 44/2009. (XII. 29.) PM rendelet 41. § (5) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, a 41/2015. (XII. 30.) NGM rendelet 127. § (2) bekezdés 7. pontja szerint módosított szöveg.

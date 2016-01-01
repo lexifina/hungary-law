@@ -1,23 +1,19 @@
-105. § (1)[^520] Az adóraktár engedélyesének és az adómentes felhasználónak a jövedéki termék megsemmisítését a hatósági felügyeletet ellátó vámszervhez írásban előzetesen kell bejelentenie.
+105. §[^456] (1) Az adóraktár engedélyesének és az adómentes felhasználónak a jövedéki termék megsemmisítését a vámhatósághoz írásban előzetesen kell bejelentenie.
 
-(2)[^521] A hatósági felügyeletet ellátó vámszervnek – ha a megsemmisítés feltételei fennállnak – a megsemmisítésről jegyzőkönyvet kell készítenie.
+(2) A vámhatóságnak – ha a megsemmisítés feltételei fennállnak – a megsemmisítésről jegyzőkönyvet kell készítenie.
 
 (3) A megsemmisítési jegyzőkönyvnek tartalmaznia kell
 
-a)[^522] a megsemmisítést ellenőrző hatósági felügyeletet ellátó vámszerv megnevezését;
+a) a megsemmisítést ellenőrző vámhatóság megnevezését;
 
 b) a megsemmisítés helyét, idejét, módját és körülményeit;
 
-c)[^523] a megsemmisített jövedéki termék megnevezését, mennyiségét, származásának igazolását, továbbá az adójeggyel ellátott dohánygyártmány esetében a dohánygyártmánnyal együtt megsemmisített adójegyek darabszámát, valamint általános forgalmi adó és jövedéki adó értékének olyan levezetését is, amely kétséget kizáróan alátámasztja az adó-visszaigénylés jogszerűségét mind a jogalap, mind az összegszerűség tekintetében;
+c) a megsemmisített jövedéki termék megnevezését, mennyiségét, származásának igazolását, továbbá az adójeggyel ellátott dohánygyártmány esetében a dohánygyártmánnyal együtt megsemmisített adójegyek darabszámát, valamint általános forgalmi adó és jövedéki adó értékének olyan levezetését is, amely kétséget kizáróan alátámasztja az adó-visszaigénylés jogszerűségét mind a jogalap, mind az összegszerűség tekintetében;
 
 d) az adóraktár engedélyese, az adómentes felhasználó által tett intézkedéseket;
 
 e) a jelenlévők aláírását, bélyegzőlenyomatát.
 
-(4)[^524] A megsemmisítési jegyzőkönyvet 2 példányban kell elkészíteni, melynek eredeti példánya a termékmérleg nyilvántartás mellékletét képezi, másodpéldánya a hatósági felügyeletet ellátó vámszerv példánya. A megsemmisítési jegyzőkönyv a Jöt. 13. § (6) bekezdés szerinti vizsgálati jegyzőkönyvnek minősül.
+(4) A megsemmisítési jegyzőkönyvet 2 példányban kell elkészíteni, melynek eredeti példánya a termékmérleg nyilvántartás mellékletét képezi, másodpéldánya a vámhatóság példánya. A megsemmisítési jegyzőkönyv a Jöt. 13. § (6) bekezdés szerinti vizsgálati jegyzőkönyvnek minősül.
 
-[^520]: A 105. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
-[^521]: A 105. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (4) bekezdése szerint módosított szöveg.
-[^522]: A 105. § (3) bekezdés a) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^523]: A 105. § (3) bekezdésének c) pontja a 45/2005. (XII. 26.) PM rendelet 13. §-ával megállapított szöveg.
-[^524]: A 105. § (4) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^456]: A 105. § a 41/2015. (XII. 30.) NGM rendelet 104. §-ával megállapított szöveg.

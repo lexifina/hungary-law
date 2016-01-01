@@ -6,6 +6,6 @@
 
 (4) A terítőjárat tevékenységével kapcsolatban feltárt jogsértésért a felelősség a jövedéki engedélyes kereskedőt terheli.
 
-(5)[^655]
+(5)[^568]
 
-[^655]: A 129. § (5) bekezdését a 45/2014. (XII. 30.) NGM rendelet 15. § 5. pontja hatályon kívül helyezte.
+[^568]: A 129. § (5) bekezdését a 45/2014. (XII. 30.) NGM rendelet 15. § 5. pontja hatályon kívül helyezte.

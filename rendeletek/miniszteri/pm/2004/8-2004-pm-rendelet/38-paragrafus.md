@@ -1,23 +1,16 @@
-## 37/D. §[^239]
+## 37/D. §[^209]
 
 ## Adóraktárak működése
 
-38. § (1)[^240] Ha az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos, az adóraktár engedélyesének az adóraktári engedély átvételét követő 5 munkanapon belül a termelés megkezdésének időpontját a hatósági felügyeletet ellátó vámszervhez írásban kell bejelentenie.
+38. §[^210] (1) Az egyszerűsített adóraktárban, a kísérleti előállítást végző üzemben és a tiszta növényiolaj-gyártó adóraktárban folytatott tevékenység kivételével a jövedéki termékek termelésének, tárolásának befejezését, szüneteltetését és újbóli megkezdését – annak időpontját legalább 15 nappal megelőzően – a vámhatósághoz írásban be kell jelenteni. Szüneteltetésnek kell tekinteni, ha az adóraktárban 30 napot meghaladóan nem folytatnak termék-előállítást, illetve tárolást.
 
-(2)[^241] Az egyszerűsített adóraktárban, a kísérleti előállítást végző üzemben és a tiszta növényiolaj-gyártó adóraktárban folytatott tevékenység kivételével a jövedéki termékek termelésének, tárolásának befejezését, szüneteltetését és újbóli megkezdését – annak időpontját legalább 15 nappal megelőzően – a hatósági felügyeletet ellátó vámszervhez írásban be kell jelenteni. Szüneteltetésnek kell tekinteni, ha az adóraktárban 30 napot meghaladóan nem folytatnak termék-előállítást, illetve tárolást.
+(2) A jövedéki termék előállításának, illetve tárolásának szüneteltetése esetén a vámhatóság a jövedéki üzem berendezésein termelést akadályozó hivatalos zárat helyez el, amelyet a tevékenység újbóli megkezdésekor távolít el.
 
-(3)[^242] A jövedéki termék előállításának, illetve tárolásának szüneteltetése esetén a hatósági felügyeletet ellátó vámszerv a jövedéki üzem berendezésein termelést akadályozó hivatalos zárat helyez el, amelyet a tevékenység újbóli megkezdésekor távolít el.
+(3) Hivatalos zárnak e rendelet alkalmazásában a vámhatóság által a raktárhelyiségen, tárolótartályon, mérőműszeren, egyéb berendezésen, szállítóeszközön, csomagon, mintán elhelyezett ólomzár, műanyag biztonsági plomba, pecsétzár, szalagzár, függőpecsét minősül.
 
-(4)[^243] Hivatalos zárnak e rendelet alkalmazásában a vámhatóság által a raktárhelyiségen, tárolótartályon, mérőműszeren, egyéb berendezésen, szállítóeszközön, csomagon, mintán elhelyezett ólomzár, műanyag biztonsági plomba, pecsétzár, szalagzár, függőpecsét minősül.
+(4) Az adóraktár engedélyesének a székhelyén, illetve adóraktáranként ki kell jelölni azt a személyt, aki a vámhatósággal az együttműködésért és a hatósági felügyelet helyszíni feltételeinek biztosításáért felelős (a továbbiakban: felelős üzemvezető).
 
-(5)[^244] Az adóraktár engedélyesének a székhelyén, illetve adóraktáranként ki kell jelölni azt a személyt, aki a hatósági felügyeletet ellátó vámszervvel az együttműködésért és a hatósági felügyelet helyszíni feltételeinek biztosításáért felelős (a továbbiakban: felelős üzemvezető).
+(5) Az adóraktár engedélyesének a felelős üzemvezető kijelölését és az abban bekövetkező változást a vámhatóság felé írásban be kell jelentenie a kijelölést, illetve a változást követő 15 napon belül.
 
-(6)[^245] Az adóraktár engedélyesének a felelős üzemvezető kijelölését és az abban bekövetkező változást a vámszerv felé írásban be kell jelentenie a kijelölést, illetve a változást követő 15. napon belül.
-
-[^239]: A 37/D. §-t a 38/2008. (XII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte az 5/2009. (III. 27.) PM rendelet 2. § (2) bekezdése.
-[^240]: A 38. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 34. §-ával megállapított szöveg.
-[^241]: A 38. § (2) bekezdése az 52/2012. (XII. 29.) NGM rendelet 21. §-ával megállapított szöveg.
-[^242]: A 38. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^243]: A 38. § (4) bekezdése a 44/2009. (XII. 29.) PM rendelet 18. §-ával megállapított szöveg.
-[^244]: A 38. § (5) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
-[^245]: A 38. § (6) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^209]: A 37/D. §-t a 38/2008. (XII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte az 5/2009. (III. 27.) PM rendelet 2. § (2) bekezdése.
+[^210]: A 38. § a 41/2015. (XII. 30.) NGM rendelet 52. §-ával megállapított szöveg.

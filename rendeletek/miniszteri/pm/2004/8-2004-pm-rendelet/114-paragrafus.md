@@ -1,4 +1,4 @@
-114. § (1)[^585] A Jöt. 55. § (1)–(2) bekezdésében meghatározott esetben az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
+114. § (1)[^515] A Jöt. 55. § (1)–(2) bekezdésében meghatározott esetben az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
 a) a gázolaj jövedéki adóval növelt áron történt beszerzését igazoló olyan számla, amelyen a jövedéki adót külön feltüntették;
 
@@ -10,7 +10,7 @@ d) a tényleges vagy átlagfogyasztás, továbbá a megtett és felszámításra
 
 e) a felhasználásra kiadott, és az ebből ténylegesen visszaigénylésre is jogosító gázolaj mennyiségről szóló belső bizonylatok.
 
-(2)[^586] A Jöt. 55. § (3) bekezdésében meghatározott esetekben az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
+(2)[^516] A Jöt. 55. § (3) bekezdésében meghatározott esetekben az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
 a) a repülőgép üzemanyag jövedéki adóval növelt áron történt beszerzését igazoló olyan számla, amely tartalmazza a felszámított jövedéki adót;
 
@@ -20,7 +20,7 @@ c) a repülés adatait, időtartamát és célját tartalmazó, jogszabályban v
 
 d) – a Jöt. 55. § (3) bekezdés a) pontja szerinti repülés kivételével – a repülés teljesítésének a megrendelő, illetve – állami légi járművel állami feladatellátás keretében végzett repülés esetében – a repülést elrendelő általi igazolása.
 
-(3)[^587] A Jöt. 55. § (4)–(6) bekezdése szerinti adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
+(3)[^517] A Jöt. 55. § (4)–(6) bekezdése szerinti adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
 a) a biodízel adózott beszerzését igazoló, biodízeladóraktár-engedélyes által kiállított számla, illetve – ha a jogosult a Jöt. 55. § (5) bekezdése szerinti gépi bérmunka-szolgáltatást igénybe vevő bányavállalkozó – a gépi bérmunka-szolgáltatás nyújtója által a jogosult nevére kiállított számla, amelyhez mellékletként csatolják a b) pont szerinti adatok részletezését, valamint a biodízel adózott beszerzéséről a biodízeladóraktár-engedélyes által a gépi bérmunka-szolgáltatás nyújtója nevére kiállított számlák másolatát;
 
@@ -30,13 +30,13 @@ c) a felhasznált és ebből ténylegesen visszaigénylésre jogosító biodíze
 
 d) a fenntartható bioüzemanyag termelés követelményeiről és igazolásáról szóló kormányrendelet szerinti fenntarthatósági bizonyítvány.
 
-(4)[^588]
+(4)[^518]
 
-(5)[^589]
+(5)[^519]
 
-(6)[^590]
+(6)[^520]
 
-(7)[^591] A Jöt. 55. § (7) bekezdésében meghatározott esetben az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
+(7)[^521] A Jöt. 55. § (7) bekezdésében meghatározott esetben az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
 a) a sűrített gáz halmazállapotú szénhidrogén jövedéki adóval növelt áron történt beszerzését igazoló olyan számla, amelyen a jövedéki adót külön feltüntették;
 
@@ -44,10 +44,10 @@ b) a személyszállításhoz használt M2 és M3 járműkategóriába tartozó s
 
 c) telephelyi tankolás esetén a felhasználásra kiadott, és az ebből ténylegesen visszaigénylésre is jogosító sűrített halmazállapotú szénhidrogén mennyiségét, a kiadás dátumát, az autóbusz forgalmi rendszámát részletező kimutatás.
 
-[^585]: A 114. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^586]: A 114. § (2) bekezdése az 52/2012. (XII. 29.) NGM rendelet 38. § (2) bekezdésével megállapított szöveg.
-[^587]: A 114. § új (3) bekezdését a 16/2006. (VI. 26.) PM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva. A 114. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 38. § (3) bekezdésével megállapított szöveg.
-[^588]: A 114. § eredeti (3) bekezdésének számozását a 16/2006. (VI. 26.) PM rendelet 1. §-a (4) bekezdésre változtatta, hatályon kívül helyezte a 40/2007. (XII. 29.) PM rendelet 41. § (2) bekezdése.
-[^589]: A 114. § (4) bekezdését a 46/2004. (XII. 29.) PM rendelet 22. §-ának (2) bekezdése iktatta be. A 114. § eredeti (4) bekezdésének számozását a 16/2006. (VI. 26.) PM rendelet 1. §-a (5) bekezdésre változtatta, hatályon kívül helyezte a 40/2007. (XII. 29.) PM rendelet 41. § (2) bekezdése.
-[^590]: A 114. § (5) bekezdését a 46/2004. (XII. 29.) PM rendelet 22. §-ának (2) bekezdése iktatta be. A 114. § eredeti (5) bekezdésének számozását a 16/2006. (VI. 26.) PM rendelet 1. §-a (6) bekezdésre változtatta, hatályon kívül helyezte a 40/2007. (XII. 29.) PM rendelet 41. § (2) bekezdése.
-[^591]: A 114. § (7) bekezdését a 45/2014. (XII. 30.) NGM rendelet 9. §-a iktatta be.
+[^515]: A 114. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^516]: A 114. § (2) bekezdése az 52/2012. (XII. 29.) NGM rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^517]: A 114. § új (3) bekezdését a 16/2006. (VI. 26.) PM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva. A 114. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 38. § (3) bekezdésével megállapított szöveg.
+[^518]: A 114. § eredeti (3) bekezdésének számozását a 16/2006. (VI. 26.) PM rendelet 1. §-a (4) bekezdésre változtatta, hatályon kívül helyezte a 40/2007. (XII. 29.) PM rendelet 41. § (2) bekezdése.
+[^519]: A 114. § (4) bekezdését a 46/2004. (XII. 29.) PM rendelet 22. §-ának (2) bekezdése iktatta be. A 114. § eredeti (4) bekezdésének számozását a 16/2006. (VI. 26.) PM rendelet 1. §-a (5) bekezdésre változtatta, hatályon kívül helyezte a 40/2007. (XII. 29.) PM rendelet 41. § (2) bekezdése.
+[^520]: A 114. § (5) bekezdését a 46/2004. (XII. 29.) PM rendelet 22. §-ának (2) bekezdése iktatta be. A 114. § eredeti (5) bekezdésének számozását a 16/2006. (VI. 26.) PM rendelet 1. §-a (6) bekezdésre változtatta, hatályon kívül helyezte a 40/2007. (XII. 29.) PM rendelet 41. § (2) bekezdése.
+[^521]: A 114. § (7) bekezdését a 45/2014. (XII. 30.) NGM rendelet 9. §-a iktatta be.

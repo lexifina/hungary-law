@@ -1,14 +1,16 @@
+## szerinti adattartalmú, a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban kell a vámhatósághoz benyújtani.
+
 ## Adóraktári engedély iránti kérelem
 
-2. § (1)[^10] Az adóraktári engedély iránti kérelemhez – a 3. §-ban és a 3/A. §-ban foglalt eltéréssel – csatolni kell
+2. § (1)[^4] Az adóraktári engedély iránti kérelemhez – a 3. §-ban és a 3/A. §-ban foglalt eltéréssel – csatolni kell
 
-a)[^11] a társasági szerződést (alapító okiratot, alapszabályt), vagy – egyéni vállalkozó esetén – a tevékenység bejelentéséről az egyéni vállalkozóról szóló törvényben meghatározott igazolást vagy a vállalkozói igazolványt (a továbbiakban együtt: vállalkozói igazolvány), illetve az őstermelői igazolványt;
+a)[^5] a társasági szerződést (alapító okiratot, alapszabályt), vagy – egyéni vállalkozó esetén – a tevékenység bejelentéséről az egyéni vállalkozóról szóló törvényben meghatározott igazolást vagy a vállalkozói igazolványt (a továbbiakban együtt: vállalkozói igazolvány), illetve az őstermelői igazolványt;
 
-b)[^12]
+b)[^6]
 
-c)[^13]
+c)[^7]
 
-d)[^14]
+d)[^8]
 
 e) a jövedéki termék előállítására, a jövedéki termék előállításához szükséges anyagok és az előállított, a betárolt jövedéki termékek raktározására, tárolására, illetve szállítására adóraktárként működtetni kívánt, továbbá az előbbiekkel ajtó, ablak, csővezeték révén vagy más módon közvetlen összeköttetésben lévő helyiségek, illetve terméktávvezeték, hajó, vasúti iparvágányok (a továbbiakban: adóraktár) használati jogcímének megállapítására alkalmas okiratot;
 
@@ -18,9 +20,9 @@ g) az adóraktárban használt tárolótartályok, tárolóedények, mérőberen
 
 h) az alapanyag és a tárolt, a betárolt, az előállított jövedéki termék készletre vétele, adóraktáron belüli felhasználása, egyéb készletcsökkenése (készletváltozása) nyilvántartási és bizonylati rendszerének leírását;
 
-i)[^15] az adóraktárban folytatott tevékenységhez jogszabályban előírt engedélyek listáját, adóraktárankénti összeállításban (kiadó hatóság, engedély megnevezése, száma, kiadásának időpontja);
+i)[^9] az adóraktárban folytatott tevékenységhez jogszabályban előírt engedélyek listáját, adóraktárankénti összeállításban (kiadó hatóság, engedély megnevezése, száma, kiadásának időpontja);
 
-j)[^16] a 76. § (2)–(3) bekezdés szerinti termékkísérő okmány, az egyszerűsített kísérő okmány, a borkísérő okmány aláírására jogosult személyek közjegyző által hitelesített, eredeti aláírásmintáját, kivéve, ha az adóraktári engedély iránti kérelemmel egyidejűleg a 78. § (3) bekezdésében említett különleges bélyegző alkalmazásának engedélyezését is kérik;
+j)[^10] a 76. § (2)–(3) bekezdés szerinti termékkísérő okmány, az egyszerűsített kísérő okmány, a borkísérő okmány aláírására jogosult személyek közjegyző által hitelesített, eredeti aláírásmintáját, kivéve, ha az adóraktári engedély iránti kérelemmel egyidejűleg a 78. § (3) bekezdésében említett különleges bélyegző alkalmazásának engedélyezését is kérik;
 
 k) az adóraktár – kivéve a Jöt. 58. § (4) bekezdés d) pontjában említett vasúti tartálykocsiban tároló adóraktár – mintavételi szabályzatát;
 
@@ -28,36 +30,36 @@ l) a felajánlott jövedéki biztosíték számításának levezetését;
 
 m) a Jöt.-ben és az e rendeletben előírt nyilvántartások mintáját vagy az azokra vonatkozó számítógépes nyilvántartások leírását;
 
-n)[^17] – a kizárólag bérfőzést végző szeszfőzdére, valamint sörfőzdére engedélyt kérelmező kivételével – az adóraktár engedélyese vagy az adóraktár által jövedéki ügyintézőként foglalkoztatott vagy megbízott személy jövedéki ügyintézői szakképesítést igazoló bizonyítványának vagy a 28. § (1) bekezdés szerinti egyéb szakképesítést, szakmai végzettséget igazoló bizonyítványának hiteles másolatát, továbbá – megbízott személy esetén – a megbízó személy által a jövedéki ügyintézői tevékenység ellátásáról kiállított, a megbízó és a megbízott adatait (természetes személy esetén név, születési hely, idő, anyja neve, lakcím, gazdálkodó szerv esetén cégnév, székhely, cégjegyzék száma, illetve vállalkozói igazolvány száma), aláírását, valamint a megbízás ellátásának kezdő időpontját, időtartamát tartalmazó iratot;
+n)[^11] – a kizárólag bérfőzést végző szeszfőzdére, valamint sörfőzdére engedélyt kérelmező kivételével – az adóraktár engedélyese vagy az adóraktár által jövedéki ügyintézőként foglalkoztatott vagy megbízott személy jövedéki ügyintézői szakképesítést igazoló bizonyítványának vagy a 28. § (1) bekezdés szerinti egyéb szakképesítést, szakmai végzettséget igazoló bizonyítványának hiteles másolatát, továbbá – megbízott személy esetén – a megbízó személy által a jövedéki ügyintézői tevékenység ellátásáról kiállított, a megbízó és a megbízott adatait (természetes személy esetén név, születési hely, idő, anyja neve, lakcím, gazdálkodó szerv esetén cégnév, székhely, cégjegyzék száma, illetve vállalkozói igazolvány száma), aláírását, valamint a megbízás ellátásának kezdő időpontját, időtartamát tartalmazó iratot;
 
-o)[^18] a sörfőzde engedélyt kérelmező esetében a Jöt. 78. § (1) bekezdés a) pontjában foglaltak teljesítéséről szóló nyilatkozatot;
+o)[^12] a sörfőzde engedélyt kérelmező esetében a Jöt. 78. § (1) bekezdés a) pontjában foglaltak teljesítéséről szóló nyilatkozatot;
 
-p)[^19] a 61. § (1)–(2) bekezdésében vagy a 61/A. § (1) bekezdésében foglalttól eltérő denaturálási eljárás leírását.
+p)[^13] a 61. § (1)–(2) bekezdésében vagy a 61/A. § (1) bekezdésében foglalttól eltérő denaturálási eljárás leírását.
 
-q)[^20] szeszfőzde adóraktár esetében a közvetlen értékesítésre vonatkozó kérelmet.
+q)[^14] szeszfőzde adóraktár esetében a közvetlen értékesítésre vonatkozó kérelmet.
 
-(2)[^21] Az engedélyezési eljárás során az adóraktár helyszínrajzát, műszaki, technikai és építési dokumentumait, az (1) bekezdés i) pontja szerinti engedélyek, illetve – a boradóraktári engedély kérelmező kivételével – az adóraktárban használt tárolótartályokra, tárolóedényekre, mérőberendezésekre vonatkozó hitelesítési bizonylatok eredeti példányát, a műszaki, technológiai és üzemmód leírását, továbbá – a szőlőbor és az ásványolaj előállítására, valamint a jövedéki termék önálló tárolására, raktározására vagy önálló palackozására engedélyt kérelmező kivételével – a jövedéki termék gyártmánylapját a vámszerv kérésére kell a kérelmezőnek benyújtania, vagy a helyszínen bemutatnia.
+(2)[^15] Az engedélyezési eljárás során az adóraktár helyszínrajzát, műszaki, technikai és építési dokumentumait, az (1) bekezdés i) pontja szerinti engedélyek, illetve – a boradóraktári engedély kérelmező kivételével – az adóraktárban használt tárolótartályokra, tárolóedényekre, mérőberendezésekre vonatkozó hitelesítési bizonylatok eredeti példányát, a műszaki, technológiai és üzemmód leírását, továbbá – a szőlőbor és az ásványolaj előállítására, valamint a jövedéki termék önálló tárolására, raktározására vagy önálló palackozására engedélyt kérelmező kivételével – a jövedéki termék gyártmánylapját a vámhatóság kérésére kell a kérelmezőnek benyújtania, vagy a helyszínen bemutatnia.
 
-(3)[^22] Ha a dohánygyártmány adóraktári engedélyt kérelmező dohánygyártmány gyártására alkalmas gép előállítását és tesztelését végzi, az adóraktári engedélykérelemhez az (1) bekezdés f) pontjában foglalt dokumentumok helyett a tesztelni tervezett gépek általános műszaki leírását, technológiai rajzát és technológiai folyamatábráját kell csatolnia.
+(3)[^16] Ha a dohánygyártmány adóraktári engedélyt kérelmező dohánygyártmány gyártására alkalmas gép előállítását és tesztelését végzi, az adóraktári engedélykérelemhez az (1) bekezdés f) pontjában foglalt dokumentumok helyett a tesztelni tervezett gépek általános műszaki leírását, technológiai rajzát és technológiai folyamatábráját kell csatolnia.
 
 (4) A Jöt. 72. §-a (7) bekezdésének és 78. §-a (6) bekezdésének alkalmazásában összefüggő helyrajzi számokon szereplő üzemnek kell tekinteni azt a több helyrajzi számon elhelyezkedő üzemet is, amely helyrajzi számainak folytonosságát csak út, vasúti vágány vagy vízfolyás szakítja meg.
 
-(5)[^23] Amennyiben a Jöt. 48/D. § (1) bekezdésének alkalmazásában a kérelmező – választása szerint – úgy dönt, hogy az adóraktári engedély iránti kérelméhez nem csatolja a kérelmező természetes személyre vagy a kérelmező szervezet vezető tisztségviselőjére (tisztségviselőire) vonatkozó, a Jöt. 48/D. § (1) bekezdésében meghatározott feltételt igazoló hatósági bizonyítványt, vagy nem közvetlenül a bűnügyi nyilvántartó szervtől kéri a Jöt. 48/D. § (1) bekezdésében meghatározott feltétel fennállására vonatkozó adatoknak (a továbbiakban: személyes adatok) a vámhatósághoz történő továbbítását, akkor az érintett személy (személyek) személyes adatainak bűnügyi nyilvántartó szervtől történő, vámhatóság általi beszerzéséhez szükséges, a vámhatóságnak adott, az engedélykérelemhez csatolt felhatalmazó nyilatkozatban (nyilatkozatokban) az érintett személynek (személyeknek) a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 69. § (2) bekezdés a) pontja szerinti adatait kell feltüntetni.
+(5)[^17] Amennyiben a Jöt. 48/D. § (1) bekezdésének alkalmazásában a kérelmező – választása szerint – úgy dönt, hogy az adóraktári engedély iránti kérelméhez nem csatolja a kérelmező természetes személyre vagy a kérelmező szervezet vezető tisztségviselőjére (tisztségviselőire) vonatkozó, a Jöt. 48/D. § (1) bekezdésében meghatározott feltételt igazoló hatósági bizonyítványt, vagy nem közvetlenül a bűnügyi nyilvántartó szervtől kéri a Jöt. 48/D. § (1) bekezdésében meghatározott feltétel fennállására vonatkozó adatoknak (a továbbiakban: személyes adatok) a vámhatósághoz történő továbbítását, akkor az érintett személy (személyek) személyes adatainak bűnügyi nyilvántartó szervtől történő, vámhatóság általi beszerzéséhez szükséges, a vámhatóságnak adott, az engedélykérelemhez csatolt felhatalmazó nyilatkozatban (nyilatkozatokban) az érintett személynek (személyeknek) a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 69. § (2) bekezdés a) pontja szerinti adatait kell feltüntetni.
 
-(6)–(7)[^24]
+(6)–(7)[^18]
 
-[^10]: A 2. § (1) bekezdésének bevezető szövegrésze a 40/2007. (XII. 29.) PM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^11]: A 2. § (1) bekezdés a) pontja a 44/2009. (XII. 29.) PM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^12]: A 2. § (1) bekezdés b) pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
-[^13]: A 2. § (1) bekezdés c) pontját a 44/2009. (XII. 29.) PM rendelet 49. § (3) bekezdése hatályon kívül helyezte.
-[^14]: A 2. § (1) bekezdés d) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
-[^15]: A 2. § (1) bekezdés i) pontja a 17/2009. (IX. 29.) PM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^16]: A 2. § (1) bekezdés j) pontja az 54/2011. (XII. 29.) NGM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^17]: A 2. § (1) bekezdés n) pontja a 17/2009. (IX. 29.) PM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^18]: A 2. § (1) bekezdés o) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (1) bekezdése hatályon kívül helyezte, újonnan az 54/2011. (XII. 29.) NGM rendelet 16. § (2) bekezdése iktatta be.
-[^19]: A 2. § (1) bekezdésének p) pontját a 40/2007. (XII. 29.) PM rendelet 2. § (2) bekezdése iktatta be, szövege a 17/2009. (IX. 29.) PM rendelet 3. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
-[^20]: A 2. § (1) bekezdés q) pontját a 76/2013. (XII. 31.) NGM rendelet 3. §-a iktatta be.
-[^21]: A 2. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
-[^22]: A 2. § (3) bekezdését az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte, újonnan a 20/2015. (VII. 28.) NGM rendelet 1. §-a iktatta be.
-[^23]: A 2. § (5) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2009. (XII. 29.) PM rendelet 4. § (4) bekezdése iktatta be.
-[^24]: A 2. § (6)–(7) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdésének bevezető szövegrésze a 40/2007. (XII. 29.) PM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés a) pontja a 44/2009. (XII. 29.) PM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés b) pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés c) pontját a 44/2009. (XII. 29.) PM rendelet 49. § (3) bekezdése hatályon kívül helyezte.
+[^8]: A 2. § (1) bekezdés d) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^9]: A 2. § (1) bekezdés i) pontja a 17/2009. (IX. 29.) PM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^10]: A 2. § (1) bekezdés j) pontja az 54/2011. (XII. 29.) NGM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. § (1) bekezdés n) pontja a 17/2009. (IX. 29.) PM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^12]: A 2. § (1) bekezdés o) pontját a 17/2009. (IX. 29.) PM rendelet 20. § (1) bekezdése hatályon kívül helyezte, újonnan az 54/2011. (XII. 29.) NGM rendelet 16. § (2) bekezdése iktatta be.
+[^13]: A 2. § (1) bekezdésének p) pontját a 40/2007. (XII. 29.) PM rendelet 2. § (2) bekezdése iktatta be, szövege a 17/2009. (IX. 29.) PM rendelet 3. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^14]: A 2. § (1) bekezdés q) pontját a 76/2013. (XII. 31.) NGM rendelet 3. §-a iktatta be.
+[^15]: A 2. § (2) bekezdése a 41/2015. (XII. 30.) NGM rendelet 20. §-ával megállapított szöveg.
+[^16]: A 2. § (3) bekezdését az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte, újonnan a 20/2015. (VII. 28.) NGM rendelet 1. §-a iktatta be.
+[^17]: A 2. § (5) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2009. (XII. 29.) PM rendelet 4. § (4) bekezdése iktatta be.
+[^18]: A 2. § (6)–(7) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.

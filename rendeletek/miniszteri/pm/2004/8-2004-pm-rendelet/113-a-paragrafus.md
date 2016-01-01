@@ -1,4 +1,4 @@
-113/A. §[^581] (1)[^582] A Jöt. 72. § (10) bekezdése, 78. § (7) bekezdése, 84. § (10) bekezdése, 91. § (4) bekezdése és 94. §-a szerinti adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
+113/A. §[^511] (1)[^512] A Jöt. 72. § (10) bekezdése, 78. § (7) bekezdése, 84. § (10) bekezdése, 91. § (4) bekezdése és 94. §-a szerinti adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
 a) az adóraktár-engedélyes nevére kiállított, a jövedéki termék adóraktár-engedélyes által történt adózott beszerzését igazoló számla, vagy az adóraktár-engedélyes által a jövedéki termék adózottan történt értékesítéséről eredetileg kiállított számla és a szabadforgalomba bocsátást igazoló egyszerűsített kísérő okmány, valamint az adóraktár-engedélyes által kiállított helyesbítő számla, illetve – a 78. § (2) bekezdése szerinti esetet kivéve – stornó számla, vagy az adóraktár engedélyesének jövedéki engedélyes telephelyére a jövedéki termék adóraktárból történt kitárolását igazoló egyszerűsített kísérő okmány és a jövedéki engedélyes telephelyről történt visszaszállításról kiállított bizonylat;
 
@@ -8,9 +8,9 @@ c) a jövedéki termék megsemmisítéséről a 105. § rendelkezéseinek értel
 
 d) a bor újrafeldolgozása esetében a bor újrafeldolgozását igazoló termelési napló.
 
-(2)[^583] A Jöt. 99. § (7) bekezdése szerinti adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
+(2)[^513] A Jöt. 99. § (7) bekezdése szerinti adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
-a)[^584] az adó-visszaigénylésre jogosult
+a)[^514] az adó-visszaigénylésre jogosult
 
 aa) nevére kiállított, a dohánygyártmánynak az adó-visszaigénylésre jogosult által történt adózott beszerzését igazoló számla,
 
@@ -24,7 +24,7 @@ b) a dohánygyártmány megsemmisítése esetében a 105. § rendelkezéseinek �
 
 c) a dohánygyártmány újrafeldolgozása esetében a legkisebb fogyasztói csomagolás visszabontásáról a 105. § rendelkezéseinek értelemszerű alkalmazásával felvett jegyzőkönyv.
 
-[^581]: A 113/A. §-t a 45/2005. (XII. 26.) PM rendelet 17. §-a iktatta be.
-[^582]: A 113/A. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^583]: A 113/A. § (2) bekezdése az 52/2012. (XII. 29.) NGM rendelet 37. § (2) bekezdésével megállapított szöveg.
-[^584]: A 113/A. § (2) bekezdés a) pontja a 76/2013. (XII. 31.) NGM rendelet 17. §-ával megállapított szöveg.
+[^511]: A 113/A. §-t a 45/2005. (XII. 26.) PM rendelet 17. §-a iktatta be.
+[^512]: A 113/A. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^513]: A 113/A. § (2) bekezdése az 52/2012. (XII. 29.) NGM rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^514]: A 113/A. § (2) bekezdés a) pontja a 76/2013. (XII. 31.) NGM rendelet 17. §-ával megállapított szöveg.

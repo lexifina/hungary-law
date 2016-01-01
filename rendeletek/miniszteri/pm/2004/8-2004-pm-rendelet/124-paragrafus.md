@@ -1,6 +1,6 @@
-## 123. §[^636]
+## 123. §[^555]
 
-124. § (1)[^637] A lefoglalt termékről a hatósági felügyeletet ellátó vámszerv olyan nyilvántartást köteles vezetni, amelybe a lefoglalt termékkel kapcsolatos valamennyi adat, intézkedés bevezetésre kerül.
+124. § (1)[^556] A lefoglalt termékről a vámhatóság olyan nyilvántartást köteles vezetni, amelybe a lefoglalt termékkel kapcsolatos valamennyi adat, intézkedés bevezetésre kerül.
 
 (2) Az (1) bekezdés szerinti nyilvántartásnak tartalmaznia kell
 
@@ -12,11 +12,11 @@ c) a lefoglalás időpontját, helyét;
 
 d) a lefoglalt termék őrzési helyét, az azonosításához szükséges adatokat;
 
-e)[^638] a lefoglalás megszüntetését elrendelő végzés számát, keltét;
+e)[^557] a lefoglalás megszüntetését elrendelő végzés számát, keltét;
 
 f) a termék kiadásának időpontját, illetőleg ennek hiányában a részére kifizetett összeget;
 
-g)[^639] az elkobzást elrendelő jogerős döntés számát, keltét;
+g)[^558] az elkobzást elrendelő jogerős döntés számát, keltét;
 
 h) a megsemmisítés időpontját, helyét, módját;
 
@@ -26,7 +26,7 @@ j) az értékesítés időpontját, adatait;
 
 k) a lefoglalt termékkel kapcsolatban felmerült valamennyi költséget, bevételt és annak rendezettségét.
 
-[^636]: A 123. §-t a 33/2006. (XII. 25.) PM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^637]: A 124. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^638]: A 124. § (2) bekezdésének e) pontja a 34/2005. (X. 28.) PM rendelet 1. § (1) bekezdése szerint módosított szöveg.
-[^639]: A 124. § (2) bekezdésének g) pontja a 34/2005. (X. 28.) PM rendelet 1. § (1) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 21. § 20. pontja szerint módosított szöveg.
+[^555]: A 123. §-t a 33/2006. (XII. 25.) PM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^556]: A 124. § (1) bekezdése a 41/2015. (XII. 30.) NGM rendelet 117. §-ával megállapított szöveg.
+[^557]: A 124. § (2) bekezdésének e) pontja a 34/2005. (X. 28.) PM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^558]: A 124. § (2) bekezdésének g) pontja a 34/2005. (X. 28.) PM rendelet 1. § (1) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 21. § 20. pontja szerint módosított szöveg.

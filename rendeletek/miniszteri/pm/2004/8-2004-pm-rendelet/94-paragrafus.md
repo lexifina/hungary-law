@@ -1,11 +1,9 @@
 ## Üzemakadály
 
-94. § (1)[^487] A hivatalos zárral biztosított üzemi berendezést és a hivatalos zárat a műszaki leírásban rögzített állapotban kell tartani, azon változtatást – a kárt okozó üzemzavar, baleset megelőzésének vagy következménye elhárításának kivételével – a hatósági felügyeletet ellátó vámszervhez történt előzetes, írásban tett bejelentés után, a hatósági felügyeletet ellátó vámszerv kiküldöttje jelenlétében lehet végrehajtani.
+94. §[^431] (1) A hivatalos zárral biztosított üzemi berendezést és a hivatalos zárat a műszaki leírásban rögzített állapotban kell tartani, azon változtatást – a kárt okozó üzemzavar, baleset megelőzésének vagy következménye elhárításának kivételével – a vámhatósághoz történt előzetes, írásban tett bejelentés után, a vámhatóság kiküldöttje jelenlétében lehet végrehajtani.
 
-(2)[^488] Amennyiben az adóraktárban a termelés és tárolás során jövedéki termék megsemmisül vagy olyan üzemi berendezés működésében keletkezik zavar, rendellenesség, amelyen a hatósági felügyeletet ellátó vámszerv hivatalos zárat alkalmazott, akkor azt a hatósági felügyeletet ellátó vámszervnek – az észlelést követően haladéktalanul – be kell jelenteni.
+(2) Amennyiben az adóraktárban a termelés és tárolás során jövedéki termék megsemmisül vagy olyan üzemi berendezés működésében keletkezik zavar, rendellenesség, amelyen a vámhatóság hivatalos zárat alkalmazott, akkor azt a vámhatóságnak – az észlelést követően haladéktalanul – be kell jelenteni.
 
-(3)[^489] Az üzemakadály észlelése esetén a hatósági felügyeletet ellátó vámszervhez írásban, 2 példányban bejelentést kell benyújtani. A bejelentésnek tartalmaznia kell a meghibásodott üzemi berendezés megnevezését, a mérőberendezés esetén annak típusát, számát, számlálókészülékének állását, az üzemakadály bekövetkezésének idejét és okát.
+(3) Az üzemakadály észlelése esetén a vámhatósághoz írásban bejelentést kell benyújtani. A bejelentésnek tartalmaznia kell a meghibásodott üzemi berendezés megnevezését, a mérőberendezés esetén annak típusát, számát, számlálókészülékének állását, az üzemakadály bekövetkezésének idejét és okát.
 
-[^487]: A 94. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) és (10) bekezdése szerint módosított szöveg.
-[^488]: A 94. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) és (4) bekezdése szerint módosított szöveg.
-[^489]: A 94. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
+[^431]: A 94. § a 41/2015. (XII. 30.) NGM rendelet 95. §-ával megállapított szöveg.

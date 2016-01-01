@@ -1,6 +1,6 @@
 ## Egyszerűsített kísérő okmány
 
-77. § (1)[^427] A Jöt. 27. § (1) bekezdésében meghatározott egyszerűsített kísérő okmány szigorú számadású bizonylat, amelyet
+77. § (1)[^382] A Jöt. 27. § (1) bekezdésében meghatározott egyszerűsített kísérő okmány szigorú számadású bizonylat, amelyet
 
 a) a közösségen belüli termékforgalomban az adózott jövedéki termékek,
 
@@ -10,25 +10,23 @@ b) belföldi termékforgalomban az adóraktárból szabadforgalomba kitárolt j�
 
 (2) Az egyszerűsített kísérő okmányt magyar nyelven kell kitölteni.
 
-(3)[^428] Az egyszerűsített kísérő okmány előállítható
+(3)[^383] Az egyszerűsített kísérő okmány előállítható
 
-a)[^429] – a hatósági felügyeletet ellátó vámszerv engedélyével, az engedélyben meghatározott feltételek szerint – formanyomtatványként, vagy
+a) – a vámhatóság engedélyével, az engedélyben meghatározott feltételek szerint – formanyomtatványként, vagy
 
-b)[^430] az adóraktár engedélyese vagy a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő által – a vámszerv engedélye alapján – bizonylat-kiállító programmal.
+b) az adóraktár engedélyese vagy a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő által – a vámhatóság engedélye alapján – bizonylat-kiállító programmal.
 
-(4)[^431] A (3) bekezdés b) pontja szerinti esetben az adóraktár engedélyese, a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő az egyszerűsített kísérő okmányt a vámszerv által – kérelemre – kiadott sorszámtartományon belüli azonosító számok felhasználásával állíthatja elő. A tárgyhót követő hónap 10. napjáig az egyszerűsített adóraktár-engedélyes, a sörfőzde adóraktár-engedélyes és a kizárólag bérfőzést végző szeszfőzde adóraktár-engedélyes, valamint a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő a tárgyhóban felhasznált, számítógéppel előállított egyszerűsített kísérő okmányok azonosító számait megadja az engedélyt kiadó vámszervnek, vagy amennyiben a tárgyhóban nem állított ki egyszerűsített kísérő okmányt, erről tájékoztatja a vámszervet.
+(4)[^384] A (3) bekezdés b) pontja szerinti esetben az adóraktár engedélyese, a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő az egyszerűsített kísérő okmányt a vámhatóság által – kérelemre – kiadott sorszámtartományon belüli azonosító számok felhasználásával állíthatja elő. A tárgyhót követő hónap 10. napjáig az egyszerűsített adóraktár-engedélyes, a sörfőzde adóraktár-engedélyes és a kizárólag bérfőzést végző szeszfőzde adóraktár-engedélyes, valamint a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő a tárgyhóban felhasznált, számítógéppel előállított egyszerűsített kísérő okmányok azonosító számait megadja a vámhatóságnak, vagy amennyiben a tárgyhóban nem állított ki egyszerűsített kísérő okmányt, erről tájékoztatja a vámhatóságot.
 
-(5)[^432] Az egyszerűsített kísérő okmányként alkalmazott kereskedelmi okmányokra a (4) bekezdés rendelkezéseit kell értelemszerűen alkalmazni.
+(5)[^385] Az egyszerűsített kísérő okmányként alkalmazott kereskedelmi okmányokra a (4) bekezdés rendelkezéseit kell értelemszerűen alkalmazni.
 
-(6)[^433] Az egyszerűsített kísérő okmány 1. és 4. rovatában megnevezett szám alatt az állami adóhatóság által kiadott közösségi adószámot kell érteni.
+(6)[^386] Az egyszerűsített kísérő okmány 1. és 4. rovatában megnevezett szám alatt a vámhatóság által kiadott közösségi adószámot kell érteni.
 
-(7)[^434] Az aromák Jöt. 28. § (8) bekezdése szerinti szállítása esetén a (3)–(4) bekezdés rendelkezései értelemszerűen alkalmazandók.
+(7)[^387] Az aromák Jöt. 28. § (8) bekezdése szerinti szállítása esetén a (3)–(4) bekezdés rendelkezései értelemszerűen alkalmazandók.
 
-[^427]: A 77. § (1) bekezdése a 44/2009. (XII. 29.) PM rendelet 46. § (2) bekezdése szerint módosított szöveg.
-[^428]: A 77. § (3) bekezdése a 44/2009. (XII. 29.) PM rendelet 24. §-ával megállapított szöveg.
-[^429]: A 77. § (3) bekezdés a) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (11) bekezdése szerint módosított szöveg.
-[^430]: A 77. § (3) bekezdés b) pontja a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
-[^431]: A 77. § (4) bekezdése a 44/2009. (XII. 29.) PM rendelet 24. §-ával megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) és (8) bekezdése szerint módosított szöveg.
-[^432]: A 77. § (5) bekezdése a 44/2009. (XII. 29.) PM rendelet 24. §-ával megállapított szöveg.
-[^433]: A 77. § (6) bekezdését a 44/2009. (XII. 29.) PM rendelet 24. §-a iktatta be.
-[^434]: A 77. § (7) bekezdését a 18/2010. (XII. 30.) NGM rendelet 9. §-a iktatta be.
+[^382]: A 77. § (1) bekezdése a 44/2009. (XII. 29.) PM rendelet 46. § (2) bekezdése szerint módosított szöveg.
+[^383]: A 77. § (3) bekezdése a 41/2015. (XII. 30.) NGM rendelet 81. § (1) bekezdésével megállapított szöveg.
+[^384]: A 77. § (4) bekezdése a 41/2015. (XII. 30.) NGM rendelet 81. § (1) bekezdésével megállapított szöveg.
+[^385]: A 77. § (5) bekezdése a 44/2009. (XII. 29.) PM rendelet 24. §-ával megállapított szöveg.
+[^386]: A 77. § (6) bekezdését a 44/2009. (XII. 29.) PM rendelet 24. §-a iktatta be, szövege a 41/2015. (XII. 30.) NGM rendelet 81. § (2) bekezdésével megállapított szöveg.
+[^387]: A 77. § (7) bekezdését a 18/2010. (XII. 30.) NGM rendelet 9. §-a iktatta be.

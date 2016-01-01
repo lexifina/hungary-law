@@ -1,6 +1,6 @@
 ## Kérelem benyújtásának időpontja:
 
-## Kérelmet átvevő vámszerv megnevezése, aláírása:
+## Vámhatóság megnevezése, aláírása:
 
 ## KÉRELEM
 
@@ -62,7 +62,7 @@
 
 ## 2.15. Személyazonosító igazolvány (útlevél) száma:
 
-## 3.[^700]
+## 3.[^614]
 
 ## 4. Nyilatkozatok
 
@@ -118,7 +118,7 @@
 
 ## V. Egyéb
 
-## 1.[^701] Egyszerűsített kísérő okmány aláírására jogosultak
+## 1.[^615] Egyszerűsített kísérő okmány aláírására jogosultak
 
 ## 1.1. Neve:
 
@@ -142,8 +142,8 @@
 
 ## a kérelmező aláírása (bélyegzője)
 
-1/B. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^702]
+1/B. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^616]
 
-[^700]: Az 1/A. számú melléklet I.3. pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
-[^701]: Az 1/A. számú melléklet V. pont 1. alpontja a 44/2009. (XII. 29.) PM rendelet 41. § (2) bekezdése szerint módosított szöveg.
-[^702]: Az 1/B. számú mellékletet az 52/2012. (XII. 29.) NGM rendelet 46. § (6) bekezdése iktatta be.
+[^614]: Az 1/A. számú melléklet I.3. pontját a 17/2011. (IV. 19.) NGM rendelet 57. §-a hatályon kívül helyezte.
+[^615]: Az 1/A. számú melléklet V. pont 1. alpontja a 44/2009. (XII. 29.) PM rendelet 41. § (2) bekezdése szerint módosított szöveg.
+[^616]: Az 1/B. számú mellékletet az 52/2012. (XII. 29.) NGM rendelet 46. § (6) bekezdése iktatta be, szövege a 41/2015. (XII. 30.) NGM rendelet 127. § (2) bekezdés 3. pontja szerint módosított szöveg.
