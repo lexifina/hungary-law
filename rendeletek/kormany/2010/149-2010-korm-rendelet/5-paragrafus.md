@@ -10,6 +10,6 @@ c) az átállási költségek meghatározása során gazdaságossági szempontb�
 
 d) az átállási költségeket úgy kell meghatározni, hogy azok mértéke és hatása ne akadályozza a szabad piaci verseny bővülését, valamint új szereplők piacra lépését.
 
-(2)[^1] Az átállási költség 11. § szerinti beszámítása esetén az eladó a beszámítás időtartama alatt nem részesülhet megmentési és szerkezetátalakítási támogatásban, ha az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak minősül.
+(2)[^2] Az átállási költség 11. § szerinti beszámítása esetén az eladó a beszámítás időtartama alatt nem részesülhet megmentési és szerkezetátalakítási támogatásban, ha az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak minősül.
 
-[^1]: Az 5. § (2) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^2]: Az 5. § (2) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (3) bekezdésével megállapított szöveg.
