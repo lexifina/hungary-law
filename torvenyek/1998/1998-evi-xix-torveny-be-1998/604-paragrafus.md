@@ -36,6 +36,18 @@ k) a bírósági eljárásban az eljárási cselekmény jegyzőkönyv helyett m�
 
 l) a fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterek egyetértésével kiadott,
 
-m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter egyetértésével kiadott,
+m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatalt irányító miniszter egyetértésével kiadott,
 
 n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
+
+o) a bírósági ügyvitel szabályait,
+
+p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
+
+q) az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg,
+
+r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban való együttműködése, és az ennek kapcsán felmerült költségek viselése részletes szabályait,
+
+s) a tizennegyedik életévét be nem töltött személy, valamint a különleges bánásmódot igénylő sértett meghallgatására szolgáló rendőrségi helyiség kialakítására és ellenőrzésére vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
+
+rendeletben szabályozza.

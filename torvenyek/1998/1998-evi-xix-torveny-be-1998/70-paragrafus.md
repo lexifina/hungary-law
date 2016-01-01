@@ -12,7 +12,7 @@ d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője út
 
 e) nemzetközi jogsegély keretében,
 
-f) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján,
+f) a Ket. és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján,
 
 g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozásáról szóló határozat esetén az NMHH elektronikus kézbesítési rendszerén keresztül.
 
