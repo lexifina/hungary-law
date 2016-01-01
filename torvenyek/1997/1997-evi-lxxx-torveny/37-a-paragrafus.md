@@ -1,6 +1,6 @@
 Tbj. 37/A. § Nem kell egészségügyi szolgáltatási járulékot fizetni arra az időtartamra, amely alatt a kiegészítő tevékenységet folytató vállalkozó
 
-a) keresőképtelen, gyermekgondozási segélyben részesül,
+a) keresőképtelen, gyermekgondozást segítő ellátásban, gyermekgondozási segélyben részesül,
 
 b) fogvatartott,
 

@@ -32,7 +32,7 @@ a) 1998. évre, a gyermekgondozási segély idejével megegyező otthoni gondoz�
 
 b)
 
-(9) A (8) bekezdés a) pontja alkalmazásánál a járulékfizetést a megállapodás megkötése napján érvényes járulékmértékek figyelembevételével a megállapodás megkötését követő 30 napon belül egy összegben kell teljesíteni. A (8) bekezdés b) pontja szerint megkötött megállapodás esetén, ha változik a gyermekgondozási segély összege, vagy a nyugdíjjárulék mértéke, a megállapodás alapján fizetendő és nyugdíjjárulékot a változást követő hónap 12. napjáig kell a módosított összeg alapján megfizetni.
+(9) A (8) bekezdés a) pontja alkalmazásánál a járulékfizetést a megállapodás megkötése napján érvényes járulékmértékek figyelembevételével a megállapodás megkötését követő 30 napon belül egy összegben kell teljesíteni.
 
 (10) Az e törvény szerint nem biztosított és egészségügyi szolgáltatásra egyéb jogcímen sem jogosult természetes személy megállapodást köthet a saját, valamint a vele együtt élő gyermeke egészségügyi szolgáltatásának biztosítására.
 

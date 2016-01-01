@@ -12,7 +12,7 @@ b) az Szja tv. szerinti családi kedvezmény közös igénybevételére jogosult
 
 c) a biztosított és a családi kedvezményt megosztással érvényesítő biztosított házastársa, élettársa által együttesen
 
-ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 16 százaléka, de legfeljebb a (2) bekezdésben meghatározott járulékok együttes összege.
+ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 százaléka, de legfeljebb a (2) bekezdésben meghatározott járulékok együttes összege.
 
 (4) A családi járulékkedvezményt a (3) bekezdés b) és c) pontjában meghatározott személyek döntésük szerint együtt is, de csak egyszeresen érvényesíthetik. A családi járulékkedvezmény együttes igénybevételének feltétele az érintett magánszemélyek – adóbevallásban, munkáltatói adómegállapításban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza a kedvezmény összegének felosztására vonatkozó döntésüket.
 

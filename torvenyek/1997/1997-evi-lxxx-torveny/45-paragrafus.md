@@ -1,7 +1,1 @@
-Tbj. 45. § (1)
-
-(2)
-
-(3)
-
-(4)
+Tbj. 45. § A kisadózó vállalkozások tételes adójának alanya a kisadózóra vonatkozó bejelentési kötelezettségét a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint teljesíti.

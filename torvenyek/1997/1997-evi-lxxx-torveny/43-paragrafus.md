@@ -22,9 +22,13 @@ j) az állami foglalkoztatási szerv rehabilitációs szolgáltatás nyújtása 
 
 k) a munkavállalót munkaviszonyának fennállására tekintettel kamarai nyilvántartásba, névjegyzékbe vevő, illetve a munkavállaló munkaviszonyban töltött szakmai gyakorlatát kamarai eljárásban vizsgáló szakmai kamarák a munkaviszony fennállásának ellenőrzése érdekében az a) és d) pont
 
+l) az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 35/A. §-ában meghatározott Elektronikus Egészségügyi Szolgáltatási Tér működtetője az a) pontban foglaltak közül a születési név, születési hely, születési éve, hónapja, napja, valamint a g) pont
+
 szerinti adatok igénylésére jogosultak.
 
 (2) A 42. § (1) bekezdése szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+
+(2a) A 42. § (1) bekezdése szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra a Központi Statisztikai Hivatal részére személyazonosításra alkalmas módon átadhatók.
 
 (3) Az e törvényben nem szabályozott esetben adatok továbbításának csak akkor van helye, ha ahhoz az érintett írásban hozzájárult.
 

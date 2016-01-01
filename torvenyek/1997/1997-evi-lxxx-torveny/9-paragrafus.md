@@ -6,7 +6,7 @@ Tbj. 9. § (1) Az egyidejűleg több biztosítással járó jogviszonyban áll
 
 a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban,
 
-b) gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban
+b) gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban
 
 részesül, továbbá
 

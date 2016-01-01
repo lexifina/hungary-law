@@ -1,4 +1,4 @@
-Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban, munka-rehabilitációs díjban, rehabilitációs járadékban, a 2012. január 1-jét követően hatósági határozattal megállapított rehabilitációs ellátásban részesülő személy a díj, segély, támogatás, járadék, ellátás összege után nyugdíjjárulékot fizet. A saját jogú nyugdíjban, valamint a reá irányadó öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a gyermekgondozási segély, az ápolási díj, valamint a munka-rehabilitációs díj után nyugdíjjárulékot nem fizet. A reá irányadó öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a folyósító szervhez benyújtott nyilatkozatával azonban vállalhatja a nyugdíjjárulék fizetését.
+Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban, munka-rehabilitációs díjban, rehabilitációs járadékban, a 2012. január 1-jét követően hatósági határozattal megállapított rehabilitációs ellátásban részesülő személy a díj, segély, támogatás, járadék, ellátás összege után nyugdíjjárulékot fizet. A saját jogú nyugdíjban, valamint a reá irányadó öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a gyermekgondozást segítő ellátás, gyermekgondozási segély, az ápolási díj, valamint a munka-rehabilitációs díj után nyugdíjjárulékot nem fizet. A reá irányadó öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a folyósító szervhez benyújtott nyilatkozatával azonban vállalhatja a nyugdíjjárulék fizetését.
 
 (2) Az álláskeresési támogatásban részesülő személy az ellátás után nyugdíjjárulékot fizet.
 
@@ -16,6 +16,6 @@ Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozási segélyben, gye
 
 (9) Az egyszerűsített közteherviselési hozzájárulás (a továbbiakban: ekho) fizetését megalapozó jogviszonyból származó jövedelem után a biztosított az e törvény szerinti nyugdíjjárulék és egészségbiztosítási járulék fizetési kötelezettségét az egyszerűsített közteherviselési hozzájárulásról szóló törvényben meghatározottak szerint teljesíti.
 
-(10)
+(10) A kisadózóként bejelentett személyek után fizetendő, az egészségbiztosítási- és munkaerő-piaci-, valamint nyugdíjjárulék kötelezettséget is kiváltó közteherfizetést a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint kell teljesíteni.
 
 (11)

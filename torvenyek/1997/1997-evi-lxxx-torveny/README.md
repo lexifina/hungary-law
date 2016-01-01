@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2015-04-01 | 2015. évi VIII. törvény | 1997-80-00-00.75 |
 | 2015-06-19 | 2015. évi LXXIV. törvény | 1997-80-00-00.76 |
 | 2015-07-01 | 2015. évi XLII. törvény | 1997-80-00-00.77 |
+| 2016-01-01 | 2015. évi CCXXIII. törvény | 1997-80-00-00.78 |

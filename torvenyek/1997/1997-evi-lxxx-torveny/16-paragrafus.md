@@ -12,7 +12,7 @@ d) nemzeti gondozási díjban (pótlékban), hadigondozotti ellátásban,
 
 e) bányászati keresetkiegészítésben vagy átmeneti bányászjáradékban részesül,
 
-f) gyermekgondozási segélyben,
+f) gyermekgondozást segítő ellátásban, gyermekgondozási segélyben részesül,
 
 g) egyházi jogi személytől nyugdíjban vagy a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi vagy rokkantsági nyugdíjsegélyben (nyugdíjban) részesül,
 

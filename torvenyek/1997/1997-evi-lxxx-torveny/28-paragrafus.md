@@ -1,6 +1,6 @@
 Tbj. 28. § (1) A 27. §-ban meghatározott járulékalap alsó határát arányosan csökkenteni kell azon időszak figyelembevételével, amely alatt a társas vállalkozó
 
-a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül – kivéve, ha a gyermekgondozási segély, az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja –,
+a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül – kivéve, ha a gyermekgondozást segítő ellátás, gyermekgondozási segély, az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja –,
 
 b) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 
