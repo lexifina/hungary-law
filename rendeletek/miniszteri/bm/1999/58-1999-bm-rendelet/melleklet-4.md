@@ -2,7 +2,7 @@
 
 ## 1. E melléklet alkalmazásában:
 
-## a)[^24] Elfogadóhely: a járási hivatal részeként működtetett okmányirodák, illetve azok kirendeltségei, valamint a Központi Okmányiroda és kirendeltségei, amelyek POS-terminállal felszereltek,
+## a)[^22] Elfogadóhely: a járási hivatal részeként működtetett okmányirodák, illetve azok kirendeltségei, valamint a Központi Okmányiroda és kirendeltségei, amelyek POS-terminállal felszereltek,
 
 ## b) Szolgáltató: azon – közbeszerzési eljárás keretében központilag kiválasztott – hitelintézet, amely az elfogadóhelyeken fizetőkártya-elfogadó szolgáltatást nyújt,
 
@@ -16,7 +16,7 @@
 
 ## g) POS Kézikönyv: a szolgáltató által papíralapon, illetve elektronikus formában előállított és az elfogadóhelyek rendelkezésére bocsátott tájékoztató anyag, amely a fizetőkártya-elfogadás technikai és üzleti folyamatait szabályozza,
 
-## h)[^25] Elfogadó: az okmányirodát működtető járási hivatal vezetője, valamint a Központi Okmányiroda vezetője, amely a szolgáltató részére POS Végfelhasználói Nyilatkozatot tesz igazgatási szolgáltatási díjak és illetékek ellenértékének a szolgáltató elfogadási körébe tartozó fizetőkártyákkal történő kiegyenlítése céljából.
+## h)[^23] Elfogadó: az okmányirodát működtető járási hivatal vezetője, valamint a Központi Okmányiroda vezetője, amely a szolgáltató részére POS Végfelhasználói Nyilatkozatot tesz igazgatási szolgáltatási díjak és illetékek ellenértékének a szolgáltató elfogadási körébe tartozó fizetőkártyákkal történő kiegyenlítése céljából.
 
 ## 2. Az elfogadóhelyeken fizetőkártya-elfogadó szolgáltatás nyújtására – a Hivatal által jóváhagyott dokumentációban foglaltak betartása mellett – kizárólag a központilag közbeszerzési eljárás keretében kiválasztott hitelintézet jogosult. A szolgáltató személyét a Hivatal köteles az internetes honlapján és a kormányzati portálon, valamint az EFER rendszert működtető szervezetnél közzétenni.
 
@@ -36,59 +36,57 @@
 
 ## A szolgáltató által az elfogadóhelyek rendelkezésére bocsátott, a fizetőkártya-elfogadói szolgáltatás logóit, matricáit az elfogadóhelynek feltűnő, a kártyabirtokosok által jól látható módon kell elhelyezni, különös tekintettel arra az esetre, ha a kártyával történő fizetés nem minden munkaállomásnál biztosított.
 
-4. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^26]
+4. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^24]
 
-A központi bianco okmány ellátás rendje
+Biankó okmány-, PIN boríték- és rendszámellátás rendje és az elszámolás szabályai
 
-és az elszámolás szabályai
+1. Biankó okmányok, PIN borítékok és rendszámok kezelése
 
-1. Bianco okmányok kezelése
+1.1. Megrendelés
 
-1.1.[^27] Megrendelés
+A járási hivatal vezetője a Hivatal által biztosított biankó okmányok, PIN borítékok, tartozékok, kellékek és rendszámok (a továbbiakban együtt: termékek) kezelésére kijelölt ügyintéző, távolléte esetén a helyettesítésére kijelölt személy köteles figyelemmel kísérni a termékek okmányirodai készletét, és köteles elkészíteni a szükséges megrendeléseket.
 
-A járási hivatal vezetője által az okmányok kezelésére kijelölt ügyintéző köteles figyelemmel kísérni a bianco okmányok, tartozékok és kellékek okmányirodai készletét, és köteles elkészíteni a szükséges megrendeléseket.
+A Hivatal az okmányirodai ügyforgalom alapján biztosítja a biankó okmányokat, tartozékokat, valamint a PIN borítékokat.
 
-A Hivatal negyedévenként a megrendelések alapján biztosítja az igényelt bianco okmányokat.
+1.1.1. Kellékek megrendelésének időszaka:
 
-1.1.1. Okmányok, tartozékok és kellékek megrendelésének időszaka:
+I. negyedévre: megelőző év október 28–november 5.
 
-I. negyedévre: megelőző év október 28.–november 5.
+II. negyedévre: január 28–február 5.
 
-II. negyedévre: január 28.–február 5.
+III. negyedévre: április 29–május 7.
 
-III. negyedévre: április 29.–május 7.
-
-IV. negyedévre: július 29.–augusztus 5.
+IV. negyedévre: július 29–augusztus 5.
 
 1.1.2. Rendszám érvényesítő címkék megrendelésének időszaka:
 
-I. negyedévre: megelőző év október 28.–november 1.
+I. negyedévre: megelőző év október 28–november 1.
 
-II. negyedévre: január 28.–február 1.
+II. negyedévre: január 28–február 1.
 
-III. negyedévre: április 29.–május 3.
+III. negyedévre: április 29–május 3.
 
-IV. negyedévre: július 29.–augusztus 2.
+IV. negyedévre: július 29–augusztus 2.
 
 1.2. Bevételezés
 
-1.2.1. A Hivataltól kiadási jegyzőkönyvvel érkező bianco okmány küldeményt, iktatókönyvben történő (gyűjtőszámon) érkeztetés után a küldeményhez mellékelt kísérőjegyzék, valamint a központi okmánynyilvántartás alapján ellenőrizni kell:
+A Hivataltól szállítólevéllel érkező biankó okmányt, PIN boríték küldeményt, rendszámtáblát az iktatókönyvben történő (gyűjtőszámon) érkeztetés után a küldeményhez mellékelt szállítólevél, valamint a központi okmánynyilvántartás alapján ellenőrizni kell:
 
 a) típus,
 
-b) tartomány (első és utolsó nyomtatvány azonosítójának ellenőrzése),
+b) tartomány (első és utolsó nyomtatvány/rendszámtábla azonosítójának ellenőrzése),
 
-c) darabszám (a csomag leszámlálása és legalább szúrópróba szerinti ellenőrzése)
+c) darabszám (a csomag/szállítóegység leszámlálása és legalább szúrópróba szerinti ellenőrzése)
 
 alapján.
 
 1.2.2. Az ellenőrzés alapján feltárt eltérésekről (hiány vagy többlet) jegyzőkönyvet kell készíteni két példányban, aminek első példányát haladéktalanul meg kell küldeni a Hivatalnak, második példányát irattározni kell. Az eltérések rendezésére a Hivatal intézkedik.
 
-1.3. Felhasználás
+1.3. Biankó okmányok és PIN borítékok felhasználása
 
 1.3.1. Ügyintézői vételezés
 
-Az okmányirodai ügyintéző munkakezdéskor a napi feladatokhoz szükséges mennyiségben bianco okmányt vételez. A vételezett bianco okmányokról jegyzőkönyv készül, mely tartalmazza
+Az okmányirodai ügyintéző munkakezdéskor a napi feladatokhoz szükséges mennyiségben biankó okmányt és PIN borítékot vételez. A vételezett biankó okmányokról és PIN borítékokról jegyzőkönyv készül, mely tartalmazza
 
 a) az okmányiroda székhelyét,
 
@@ -104,27 +102,27 @@ cc) utolsó azonosítóját,
 
 cd) darabszámát,
 
-d) a kiadás dátumát,
+d) kiadásának dátumát,
 
-e) az ügyintéző aláírását,
+e) ügyintézőjének aláírását,
 
-f) a kiadó aláírását.
+f) kiadójának aláírását.
 
-Ha egy típusból nem zárt intervallum kerül kiadásra, a bejegyzést rész-intervallumonként kell megtenni. A vételezést aláhúzással kell lezárni, és mind az ügyintézőnek, mind pedig a bianco okmányok kezelésre kijelölt személynek alá kell írnia.
+Ha egy típusból nem zárt intervallum kerül kiadásra, a bejegyzést rész-intervallumonként kell megtenni. A vételezést aláhúzással kell lezárni, és mind az ügyintézőnek, mind pedig a termékek kezelésre, vagy távolléte esetén a helyettesítésére kijelölt személynek alá kell írnia.
 
-Abban az esetben, ha a vételezett okmánykontingens a nap folyamán kevésnek bizonyul, pótvételezést kell eszközölni a fentiekkel azonos módon.
+Abban az esetben, ha a vételezett okmány, vagy PIN boríték kontingens a nap folyamán kevésnek bizonyul, pótvételezést kell eszközölni a fentiekkel azonos módon.
 
 1.3.2. Ügyintézői napi elszámolás
 
-Az okmányirodai ügyintéző a munka befejezésekor elszámol a bianco okmányokkal. Az elszámolásról jegyzőkönyv készül, mely tartalmazza
+Az okmányirodai ügyintéző a munka befejezésekor elszámol a biankó okmányokkal és a PIN borítékokkal. Az elszámolásról jegyzőkönyv készül, mely tartalmazza
 
 a) az okmányiroda székhelyét,
 
 b) az ügyintéző nevét,
 
-c) az okmány típusát,
+c) az okmány és a PIN boríték típusát,
 
-d) a rendeltetésszerűen felhasznált bianco okmányok
+d) a rendeltetésszerűen felhasznált biankó okmányok és PIN borítékok
 
 da) kezdő azonosítóját,
 
@@ -132,9 +130,9 @@ db) utolsó azonosítóját,
 
 dc) darabszámát,
 
-e) a nyomdai hibás/gyártáshibás bianco okmányok azonosítóját,
+e) a nyomdai hibás, illetve gyártáshibás biankó okmányok és PIN borítékok azonosítóját
 
-f) a fel nem használt bianco okmányok
+f) a fel nem használt biankó okmányok, illetve PIN borítékok
 
 fa) kezdő azonosítóját,
 
@@ -148,15 +146,15 @@ h) az ügyintéző aláírását,
 
 i) a visszavételező aláírását.
 
-1.4. Hibás, selejtes okmányok kezelése
+1.4. Hibás, selejtes okmányok és PIN borítékok kezelése
 
-1.4.1. Okmányok érvénytelenítése
+1.4.1. Okmányok és PIN borítékok érvénytelenítése
 
-A hibás, selejtes okmányokat áthúzással, pecsételéssel vagy átlyukasztással érvényteleníteni kell.
+A hibás, selejtes okmányokat és PIN borítékokat áthúzással, pecsételéssel vagy a biankó okmányok esetében átlyukasztással érvényteleníteni kell.
 
-1.4.2. A Hivatalhoz felterjesztendő okmányok kezelése
+1.4.2. A Hivatalhoz felterjesztendő okmányok és PIN borítékok kezelése
 
-Abban az esetben, ha a nyomtatvány a gyártás során teljesen vagy beazonosíthatatlanságig sérült, az esetleges okmánymaradványokat is tartalmazó borítékot kell feliratozni, feltüntetve az
+Abban az esetben, ha a nyomtatvány a megszemélyesítés során teljesen vagy beazonosíthatatlanságig sérült, az esetleges okmánymaradványokat is tartalmazó borítékot kell feliratozni, feltüntetve az
 
 a) okmányiroda székhelyét,
 
@@ -166,7 +164,7 @@ c) a pontos időpontot,
 
 d) az okmány típusát és azonosítóját.
 
-A nyomdai hibás/gyártáshibás bianco okmányokról jegyzőkönyvet kell kiállítani, amelyhez mellékelni kell az okmányokat (illetve az azt helyettesítő borítékot) és azokat fajtánként és nyomdai hibás/gyártási hibás bontásban a Hivatalhoz történő visszaküldésig tárolni kell.
+A nyomdai hibás/gyártáshibás biankó okmányokról és PIN borítékokról jegyzőkönyvet kell kiállítani, amelyhez mellékelni kell az okmányokat (illetve az azt helyettesítő borítékot) és PIN borítékokat, továbbá azokat fajtánként és nyomdai hibás/gyártáshibás bontásban a Hivatalhoz történő visszaküldésig tárolni kell.
 
 A jegyzőkönyvnek a borítékon is feltüntetett adatokat kell tartalmaznia.
 
@@ -174,13 +172,12 @@ A Hivatalhoz felterjesztendő okmányokat érvénytelenítés után, típusonké
 
 1.4.3. Az okmányirodánál selejtezendő okmányok kezelése
 
-Az okmányok selejtezését az Okmányiroda vezetőjének engedélyével lehet megkezdeni. A selejtezés végrehajtásához bizottságot kell felállítani. A megsemmisítés megtörténtéről jegyzőkönyvet kell felvenni, amelyet az irattárba kell elhelyezni.
+Az okmányok selejtezését az okmányiroda vezetőjének engedélyével lehet megkezdeni. A selejtezés végrehajtásához bizottságot kell felállítani. A megsemmisítés megtörténtéről jegyzőkönyvet kell felvenni, amelyet az irattárba kell elhelyezni.
 
-1.5. Okmányok tárolása
+1.5. Okmányok és PIN borítékok tárolása
 
-Az okmányokat biztonságos körülmények között, típusonként elkülönítve, tűzvédelmi szempontokból is megfelelő helyen kell tárolni.
+Az okmányokat és PIN borítékokat biztonságos körülmények között, típusonként elkülönítve, tűzvédelmi szempontokból is megfelelő helyen kell tárolni.
 
-[^24]: A 3. számú melléklet 1. pont a) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § l) pontja szerint módosított szöveg.
-[^25]: A 3. számú melléklet 1. pont h) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § d) pontja szerint módosított szöveg.
-[^26]: A 4. számú melléklet a 38/2003. (VIII. 14.) BM rendelet 3. §-ával megállapított szöveg.
-[^27]: A 4. számú melléklet 1.1. pontja az 50/2012. (XII. 4.) KIM rendelet 10. § g) pontja szerint módosított szöveg.
+[^22]: A 3. számú melléklet 1. pont a) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § l) pontja szerint módosított szöveg.
+[^23]: A 3. számú melléklet 1. pont h) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § d) pontja szerint módosított szöveg.
+[^24]: A 4. számú melléklet a 75/2015. (XII. 22.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.

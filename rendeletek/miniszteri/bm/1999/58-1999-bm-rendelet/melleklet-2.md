@@ -1,3 +1,59 @@
 2. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^20]
 
-[^20]: A 2. számú melléklet a 48/2004. (VIII. 27.) BM rendelet 1. §-ával megállapított, a 8/2007. (III. 6.) IRM rendelet 2. § (4) bekezdése, a 36/2008. (XII. 31.) IRM rendelet 1. §-ának 4. pontja, az 50/2012. (XII. 4.) KIM rendelet 10. § j)–k) pontja szerint módosított szöveg.
+## Az okmányirodák üzemeltetéséhez biztosított eszközök
+
+## Hálózati eszközök
+
+## Min. 64 kb/sec adatátviteli összeköttetés titkosítással
+
+## (MLLN bérelt vonalon a fővárosi és megyei kormányhivatal, illetve Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala Balázs B. utca irányban)
+
+## Router
+
+## [helyi LAN hálózat (UTP/FTP ETHERNET) minimum CAT5 minőségi fokozat]
+
+## 10/100 SWITCH
+
+## (okmányirodai-járási hivatali rendszer leválasztására)
+
+## Zárt láncú telefon
+
+I. Konfiguráció (Photoshop)
+
+## Minimum Pentium III PC + (minimum 128 Mb RAM és 20 Gb HDD) + minimum 17” színes monitor
+
+## A4-es lapszkenner
+
+## Színes CCD kamera, ujjnyomatszkenner
+
+II. Konfiguráció (Munkaállomás 1.)
+
+## Minimum Pentium III PC + (minimum 128 Mb RAM és 20 Gb HDD) + minimum 17” színes monitor
+
+## Biztonsági rendszer elem
+
+## SMART kártyaolvasó
+
+## Laminálógép
+
+## Bárkódolvasó
+
+## Asztali UV lámpa, POS-terminál
+
+## Irodai felszerelés
+
+## Biztonsági nyomtatókhoz szükséges speciális festéket tartalmazó toner és tintapatron
+
+## Papírvágó (asztali)
+
+## Biztonsági nyomtatók
+
+## Okmánynyomtató(k)
+
+## Irodai nyomtatók
+
+## Irodai lézernyomtató (minimum 18 lap/perc)
+
+III. Konfiguráció (Munkaállomás 2.)
+
+[^20]: A 2. számú melléklet a 75/2015. (XII. 22.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.

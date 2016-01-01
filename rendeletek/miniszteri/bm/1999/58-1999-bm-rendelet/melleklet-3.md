@@ -1,32 +1,6 @@
-## Az okmányirodák üzemeltetéséhez biztosított eszközök
+## Minimum Pentium III PC + (minimum 128 Mb RAM és 20 Gb HDD) + minimum 17” színes monitor
 
-## Hálózati eszközök
-
-## Min. 64 kb/sec adatátviteli összeköttetés titkosítással
-
-## (MLLN bérelt vonalon a fővárosi és megyei kormányhivatal, illetve Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala Balázs B. utca irányban)
-
-## Router
-
-## [helyi LAN hálózat (UTP/FTP ETHERNET) minimum CAT5 minőségi fokozat]
-
-## 10/100 SWITCH
-
-## (okmányirodai-járási hivatali rendszer leválasztására)
-
-## Zárt láncú telefon
-
-## I.[^21] Konfiguráció (Photoshop)
-
-## Minimum Pentium III PC + (minimum 128 Mb RAM és 20 Gb HDD) + minimum 17'' színes monitor
-
-## A4-es lapszkenner
-
-## Színes CCD kamera, ujjnyomatszkenner
-
-## II.[^22] Konfiguráció (Munkaállomás)
-
-## Minimum Pentium III PC + (minimum 128 Mb RAM és 20 Gb HDD) + minimum 17'' színes monitor
+## RFID-kártyaolvasó
 
 ## Biztonsági rendszer elem
 
@@ -40,7 +14,7 @@
 
 ## Irodai felszerelés
 
-## Biztonsági nyomtatókhoz szükséges speciális festéket tartalmazó toner
+## Biztonsági nyomtatókhoz szükséges speciális festéket tartalmazó toner és tintapatron
 
 ## Papírvágó (asztali)
 
@@ -52,8 +26,6 @@
 
 ## Irodai lézernyomtató (minimum 18 lap/perc)
 
-3. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^23]
+3. számú melléklet az 58/1999. (XII. 30.) BM rendelethez[^21]
 
-[^21]: A 2. számú melléklet I. pontja a 41/2009. (IX. 15.) IRM rendelet 21. §-a szerint módosított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^22]: A 2. számú melléklet II. pontja a 41/2009. (IX. 15.) IRM rendelet 21. §-a szerint módosított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^23]: A 3. számú mellékletet a 38/2003. (VIII. 14.) BM rendelet 4. §-a hatályon kívül helyezte, újonnan a 41/2009. (IX. 15.) IRM rendelet 22. §-a iktatta be. Ez utóbbi módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^21]: A 3. számú mellékletet a 38/2003. (VIII. 14.) BM rendelet 4. §-a hatályon kívül helyezte, újonnan a 41/2009. (IX. 15.) IRM rendelet 22. §-a iktatta be. Ez utóbbi módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
