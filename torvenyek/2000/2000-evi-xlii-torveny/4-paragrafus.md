@@ -9,3 +9,5 @@
 (4) Az ország határain kívül Magyarország konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
 
 (5) A hajózási hatóságnál kezdeményezett eljárásokban a Kormány által rendeletben meghatározott dokumentum elektronikus úton nem terjeszthető elő.
+
+(6) A kikötő létesítésével, fennmaradásával, továbbá az úszólétesítmény építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával, valamint a komp- és révátkelőhely létesítésével és fennmaradásával, üzemben tartásával kapcsolatos ügyekben az ügyintézési határidő 30 nap.

@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2015-01-01 | 2014. évi XCIX. törvény | 2000-42-00-00.34 |
 | 2015-05-05 | 2015. évi XLVII. törvény | 2000-42-00-00.35 |
 | 2015-07-02 | 2015. évi LXXXVII. törvény | 2000-42-00-00.36 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 2000-42-00-00.37 |
