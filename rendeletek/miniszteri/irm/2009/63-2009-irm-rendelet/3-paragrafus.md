@@ -20,4 +20,6 @@ i) a közvetítői tevékenységre vonatkozó jogszabályi ismeretek.
 
 (2) Az elméleti képzési rész két, legalább 30 órás időtartamú modulra bontható.
 
-(3) Egy modul a képzés részét képező ismereti és készségelemek közül azoknak az együttese, amelyek a többi ismereti és készségelemhez képest önállóan kezelhetők, és a modul elsajátítását követően a kérelmező képes az abban foglalt ismereteket, készségeket egyénileg alkalmazni.
+(3)[^1] Egy modul a képzés részét képező ismereti és készségelemek közül azoknak az együttese, amelyek a többi ismereti és készségelemhez képest önállóan kezelhetők, és a modul elsajátítását követően a bejelentő képes az abban foglalt ismereteket, készségeket egyénileg alkalmazni.
+
+[^1]: A 3. § (3) bekezdése a 43/2015. (XII. 30.) IM rendelet 8. § a) pontja szerint módosított szöveg.
