@@ -4,10 +4,18 @@
 
 (2) A beszámoló jelentés termelői csoport általi benyújtásának elmulasztása esetén a termelői csoport elismerését a miniszter visszavonja.
 
-(3) Ha a termelői csoport tárgyévi árbevétele elháríthatatlan külső ok – különösen természeti katasztrófa, fagykár, jégkár, aszálykár, állatbetegség – következtében jelentős mértékben csökken, akkor köteles erről a kár bekövetkezésétől számított tizenöt napon belül az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet szerinti bejelentést megtenni. Az elháríthatatlan külső ok bekövetkezését és a kár mértékét igazoló döntés egy másolati példányát a 7. § (1) bekezdés szerinti éves beszámoló jelentés benyújtásával egyidejűleg kell benyújtani. Az adott évi tevékenység elbírálásánál a határozattal igazolt árbevétel-kieséseket figyelembe kell venni.
+(3)[^1] Ha a termelői csoport tárgyévi árbevétele a termelő tagnál bekövetkezett és
+
+a) az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról és a vis maiorral összefüggő egyes miniszteri rendeletek módosításáról szóló miniszteri rendelet, illetve
+
+b) az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint az Európai Tengerügyi és Halászati Alapból finanszírozott intézkedések megvalósulásának időtartama alatt, elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról szóló miniszteri rendelet
+
+alapján elismert elháríthatatlan külső ok következtében jelentős mértékben csökken, akkor a termelői csoport az elháríthatatlan külső ok elismerését és a kár mértékét megállapító döntés egy másolati példányát a 7. § (1) bekezdés szerinti éves beszámoló jelentéssel egyidejűleg nyújthatja be, amelynek biztosítása érdekében a tag a vis maior elismeréséről szóló döntésről haladéktalanul tájékoztatja a termelői csoportot. Az adott évi tevékenység elbírálásánál a döntéssel megállapított árbevétel-kieséseket figyelembe kell venni.
 
 (4) A termelői csoportok évenkénti adminisztratív ellenőrzéséről a beszámoló jelentések alapján a miniszter gondoskodik. Az adminisztratív ellenőrzés megállapításai alapján szükség szerint, de az üzleti terv végrehajtása során legalább – a (5) bekezdésben foglaltak kivételével – két alkalommal helyszíni szemlét kell lefolytatni, amelyből az egyik helyszíni szemlét az üzleti terv negyedik évének lezárása utáni időszakban kell elvégezni.
 
 (5) A 2014. január 1. előtt elismert termelői csoportok esetében az üzleti terv végrehajtása során háromévente legalább egy alkalommal szükséges helyszíni szemlét lefolytatni.
 
 (6) A termelői csoport köteles a cégadatokban bekövetkezett változásokról azok bekövetkezésétől számított tizenöt napon belül elektronikus úton – a minisztérium honlapján megadott elektronikus levélcímen – tájékoztatni a minisztert.
+
+[^1]: A 7. § (3) bekezdése a 94/2015. (XII. 23.) FM rendelet 10. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 8. § (1) bekezdését.
