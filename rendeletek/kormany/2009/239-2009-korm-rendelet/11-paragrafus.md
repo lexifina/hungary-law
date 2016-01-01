@@ -1,13 +1,13 @@
-11. § (1) A jegyző a szálláshely-üzemeltetési engedély kiadásával egyidejűleg a 2. melléklet szerinti igazolást ad ki.
+11. § (1)[^19]
 
-(2) A jegyző a szálláshely-üzemeltetési engedély megadásáról rendelkező határozatot közli
+(2)[^20] A jegyző a szálláshely-üzemeltetési tevékenység folytatására vonatkozó bejelentést közli
 
-a)[^9] fogyasztóvédelmi hatósággal,
+a) fogyasztóvédelmi hatósággal, és
 
-b)[^10] a területileg illetékes munkavédelmi hatósági és munkaügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal.
+b) a területileg illetékes munkavédelmi hatósági és munkaügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal.
 
-(3)[^11] Ha az egyéb szálláshelyen nyújtott szálláshely-szolgáltatás a 7. § (1) bekezdésben meghatározott valamely hatóság feladat- és hatáskörét az ott megjelölt szempontok szerint érinti, a jegyző az egyéb száláshely szálláshely-üzemeltetési engedély megadásáról szóló határozatát közli az érintett hatósággal. A hatóság a határozat kézhezvételétől számított harminc napon belül hatósági ellenőrzést folytat le, és az ellenőrzés eredményéről az ellenőrzés befejezését követő nyolc napon belül tájékoztatja a jegyzőt.
+(3)[^21] Ha a szálláshelyen nyújtott szálláshely-szolgáltatás a 7. § (1) bekezdésben meghatározott valamely hatóság feladat- és hatáskörét az ott megjelölt szempontok szerint érinti, a jegyző az egyéb szálláshelyen történő szálláshely-szolgáltatási tevékenység folytatására vonatkozó bejelentés megtörténtéről szóló igazolást megküldi az érintett hatóság részére. A hatóság ellenőrzés befejezését követő nyolc napon belül, annak eredményéről tájékoztatja a jegyzőt.
 
-[^9]: A 11. § (2) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 262. § (2) bekezdésével megállapított szöveg.
-[^10]: A 11. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 145. § (3) bekezdésével megállapított szöveg.
-[^11]: A 11. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (130) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^19]: A 11. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § b) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^20]: A 11. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 119. § (6) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^21]: A 11. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 119. § (6) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

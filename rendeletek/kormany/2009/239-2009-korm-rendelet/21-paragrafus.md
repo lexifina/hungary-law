@@ -1,3 +1,3 @@
-## 20. §[^20]
+## 20. §[^37]
 
-[^20]: A 20. § a (2) bekezdése alapján hatályát vesztette.
+[^37]: A 20. § a (2) bekezdése alapján hatályát vesztette.

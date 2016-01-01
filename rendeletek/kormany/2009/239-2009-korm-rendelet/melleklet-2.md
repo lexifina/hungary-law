@@ -2,7 +2,7 @@
 
 ## 1. Szálloda
 
-## 1/A. Engedélyezési követelmény
+## 1/A. Bejelentési követelmény
 
 ## 1. Fogadóhelyiség, közös tartózkodó helyiség, étkező, 30 ágy felett pedig recepció.
 
@@ -62,7 +62,7 @@
 
 ## 2. Panzió
 
-## 2/A. Engedélyezési követelmény
+## 2/A. Bejelentési követelmény
 
 ## 1. Közös helyiség.
 
@@ -100,7 +100,7 @@
 
 ## 3. Kemping
 
-## 3/A. Engedélyezési követelmény
+## 3/A. Bejelentési követelmény
 
 ## 1. A terület bekerített és pormentes, a csapadékvíz elvezetése megoldott, gépjárművel való közlekedésre alkalmas belső utak és az egész területen közvilágítás van.
 
@@ -156,7 +156,7 @@
 
 ## 4. Üdülőház
 
-## 4/A. Engedélyezési követelmény
+## 4/A. Bejelentési követelmény
 
 ## 1. Az üdülőház helyiségei:
 
@@ -180,7 +180,7 @@
 
 ## 5. Közösségi szálláshely
 
-## 5/A. Engedélyezési követelmény
+## 5/A. Bejelentési követelmény
 
 ## 1. Nemek szerint elkülönített hálóhelyiségek külön bejárattal.
 
@@ -208,7 +208,7 @@
 
 ## 6. Egyéb szálláshely
 
-## 6/A. Engedélyezési követelmény
+## 6/A. Bejelentési követelmény
 
 ## 1. A szoba nagysága:
 
@@ -234,6 +234,6 @@
 
 ## b) a közösen használt helyiségek takarítása mindennap.
 
-2. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^22]
+2. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^40]
 
-[^22]: A 2. melléklet a 281/2010. (XII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^40]: A 2. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 121. § f) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

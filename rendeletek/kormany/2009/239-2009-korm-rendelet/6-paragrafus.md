@@ -1,10 +1,10 @@
-6. § (1) A szálláshely-üzemeltetési engedély iránti kérelemben meg kell jelölni
+6. § (1)[^5] A bejelentés az alábbi adatokat tartalmazza
 
 a) a szálláshely-szolgáltató nevét, címét, illetve székhelyét,
 
-b)[^4]
+b)[^6]
 
-c)[^5] a szálláshely-szolgáltató adóazonosító számát, statisztikai számjelét,
+c)[^7] a szálláshely-szolgáltató adóazonosító számát, statisztikai számjelét,
 
 d) a szálláshely címét, helyrajzi számát, helyszínrajzát,
 
@@ -18,13 +18,13 @@ f) a szálláshely használatának jogcímét,
 
 g) a szálláshely elnevezését,
 
-h) azt, hogy a szálláshely-szolgáltató mely szálláshelytípusra kéri az üzemeltetési engedélyt,
+h)[^8] azt, hogy a szálláshely-szolgáltatási tevékenységet mely szálláshelytípus tekintetében kívánja folytatni,
 
 i) azt, hogy a szálláshely-szolgáltató a szálláshelyen kíván-e élelmiszert, élelmiszer-nyersanyagot előállítani, felhasználni vagy forgalomba hozni,
 
-j)[^6] azt, ha a szálláshely-szolgáltató helyszíni szemle tartását kéri.
+j)[^9] azt, ha a szálláshely-szolgáltató helyszíni szemle tartását kéri.
 
-(2) A szálláshely-üzemeltetési engedély iránti kérelemhez mellékelni kell
+(2)[^10] A bejelentéshez mellékelni kell
 
 a) nem a kérelmező tulajdonában lévő szálláshely esetében a szálláshely használatának jogcímére vonatkozó igazoló okiratot vagy annak másolatát a tulajdoni lap kivételével,
 
@@ -32,6 +32,9 @@ b) haszonélvezet esetében – ha nem a tulajdonos vagy a haszonélvező a szá
 
 c) közös tulajdonban álló szálláshely esetében, ha nem valamennyi tulajdonostárs a szálláshely-szolgáltató, a tulajdonostársak hozzájárulását igazoló okiratot.
 
-[^4]: A 6. § (1) bekezdés b) pontját a 281/2010. (XII. 15.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^5]: A 6. § (1) bekezdés c) pontja a 281/2010. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: A 6. § (1) bekezdés j) pontját a 281/2010. (XII. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 6. § (1) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 120. § (1) bekezdés a) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^6]: A 6. § (1) bekezdés b) pontját a 281/2010. (XII. 15.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^7]: A 6. § (1) bekezdés c) pontja a 281/2010. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (1) bekezdés h) pontja a 441/2015. (XII. 28.) Korm. rendelet 119. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^9]: A 6. § (1) bekezdés j) pontját a 281/2010. (XII. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 6. § (2) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 120. § (1) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
