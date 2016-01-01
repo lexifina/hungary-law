@@ -8,7 +8,7 @@ b) – ha e törvény kivételt nem tesz – rendelkezik az általa végezni kí
 
 (3) A vállalkozás köteles a tervező-szerelő vagy magánnyomozói tevékenység végzésére irányuló szándékát – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint – a rendőrségnek bejelenteni.
 
-(4) Az (1) bekezdés b) pontjában meghatározott adatot a bejelentést tevő igazolja. Az (1) bekezdés a) pontjában meghatározott adatokat a bejelentést tevő is igazolhatja a bejelentés megtételekor. Ha az adatokat a bejelentést tevő a bejelentés megtételekor nem igazolja, a rendőrség adatszolgáltatás iránti kérelemmel fordul az (1) bekezdés a) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
+(4) Az (1) bekezdés b) pontjában meghatározott adatot a bejelentést tevő igazolja.
 
 (5) Tervező-szerelő vagy magánnyomozói tevékenységet nem gyakorolhat az
 

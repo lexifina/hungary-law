@@ -8,7 +8,7 @@ b) a kérelmező – ha e törvény kivételt nem tesz – rendelkezik az által
 
 (2) A felelősségbiztosítási szerződéssel egyenértékű a más EGT-államban kötött, az (1) bekezdés b) pontjában meghatározott feltételeknek megfelelő felelősségbiztosítási szerződés.
 
-(3) Az (1) bekezdés b) pontjában meghatározott adatot a kérelmező igazolja. Az (1) bekezdés a) pontjában meghatározott adatokat a kérelmező is igazolhatja a kérelem benyújtásakor. Ha az adatokat a kérelmező a kérelem benyújtásakor nem igazolja, a rendőrség az igazolvány kiadása iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az (1) bekezdés a) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
+(3) Az (1) bekezdés b) pontjában meghatározott adatot a kérelmező igazolja.
 
 (4) Személy- és vagyonvédelmi tevékenység végzésére működési engedély nem adható annak
 
