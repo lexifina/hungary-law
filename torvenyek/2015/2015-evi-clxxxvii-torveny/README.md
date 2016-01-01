@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-187-00-00
 | 2015-11-28 | 2015. évi CLXXXVII. törvény | 2015-187-00-00.0 (közlönyállapot) |
 | 2015-11-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-187-00-00.1 |
 | 2015-11-29 | 2010. évi CXXX. törvény | 2015-187-00-00.2 |
+| 2016-01-01 | 2015. évi CXCI. törvény | 2015-187-00-00.3 |

@@ -1,0 +1,19 @@
+7. § (1) Az Art. 24/C. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az állami adó- és vámhatóság az adószám megállapítását megtagadja, ha az adózó vezető tisztségviselője, cégvezetője, képviseletre jogosult tagja, vagy korlátolt felelősségű társaság, zártkörűen működő részvénytársaság esetében az 50 százalékot meghaladó mértékű szavazati joggal, vagy minősített többségű befolyással rendelkező tagja, részvényese, ilyen mértékű szavazati joggal, vagy minősített többségű befolyással rendelkező tag, részvényes hiányában bármely tagja vagy részvényese, egyszemélyes gazdasági társaság esetében a tag vagy részvényes
+
+a) olyan, a 17. § (1) bekezdés b) pontja szerinti más adózó jelenlegi, vagy volt vezető tisztségviselője, cégvezetője, tagja, vagy részvényese, amely
+
+aa) az adószám megállapítása iránti kérelem benyújtásának napján az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, 180 napon keresztül folyamatosan fennálló, 5 millió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében 10 millió forintot meghaladó adótartozással rendelkezik, feltéve, hogy a más adózóban fennálló vezető tisztségviselői, cégvezetői, tagi, vagy részvényesi jogviszony az adótartozás folyamatos fennállásának 180. napját megelőző 360. napon, vagy azt követően bármelyik napon fennállt, vagy
+
+ab) az adószám megállapítása iránti kérelem benyújtásának napját megelőző 5 éven belül az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, 5 millió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében 10 millió forintot meghaladó adótartozással jogutód nélkül szűnt meg, feltéve, hogy a más adózóban fennálló vezető tisztségviselői, cégvezetői, tagi vagy részvényesi jogviszony a felszámolás vagy a kényszertörlési eljárás kezdő napját megelőző 360. napon, illetve azt követően bármelyik nap fennállt, vagy
+
+ac) adószámát az állami adó- és vámhatóság az adószám megállapítására irányuló kérelem benyújtásának napját megelőző 5 éven belül az adószám 24/A. § szerinti felfüggesztését követően, vagy a 24/B. § szerint, illetve a 24/D. § (2) bekezdésében, illetve a 24/F. § (6) bekezdésében felsorolt okból, az ott meghatározott eljárásban jogerősen törölte, feltéve, hogy a más adózóban fennálló vezető tisztségviselői, cégvezetői, tagi vagy részvényesi jogviszonya az adószám törlését kimondó jogerős határozat meghozatalának napján, vagy azt követően bármelyik nap fennállt,
+
+b) az adószám megállapítása iránti kérelem benyújtásának napján az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, 180 napon keresztül folyamatosan fennálló, 5 millió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében 10 millió forintot meghaladó adótartozással rendelkezik, vagy
+
+c) az adószám megállapítása iránti kérelem benyújtásának napján a vezető tisztségviselői pozíciótól, illetve e foglalkozástól jogerősen eltiltottnak minősül.”
+
+(2) Az Art. 24/C. § (13) bekezdése helyébe a következő rendelkezés lép:
+
+„(13) Ha az adózó vezető tisztségviselője, cégvezetője, tagja vagy részvényese olyan gazdasági társaság, vagy olyan gazdasági társaság jelenlegi vagy volt vezető tisztségviselője, cégvezetője, tagja, vagy részvényese, amelyben a Magyar Állam, vagy az államot megillető tulajdonosi jogokat gyakorló szervezet közvetlenül vagy közvetett módon 50 százalékot meghaladó mértékű szavazati joggal, vagy minősített többségű befolyással rendelkezik, az érintett személy az adószám megállapítását megtagadó határozat, vagy az állami adó- és vámhatóság 24/D. § (2) bekezdése szerinti felszólításának kézbesítését követő 8 napos jogvesztő határidőn belül az adóregisztrációs eljárás megszüntetése érdekében kérelmet nyújthat be az állami adó- és vámhatósághoz. A kérelem alapján az állami adó- és vámhatóság az adószám megállapítását megtagadó határozatot visszavonja, és az adószámot megállapítja, illetve az adóregisztrációs eljárást megszünteti.”

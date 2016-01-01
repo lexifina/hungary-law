@@ -1,0 +1,5 @@
+100. § A Vtv. 57/A. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) A vámkódex 233. cikke, valamint az EK végrehajtási rendelet 867. és 867a. cikke sérelme nélkül, a lefoglalt és kiadni rendelt, a lefoglalt és előzetesen értékesített, valamint az elkobzott nem közösségi áru vámjogi sorsának rendezésére – beleértve a vámtartozás keletkezését, valamint a vámadós személyének megállapítását – a közösségi vámjog, e törvény és végrehajtási rendeletének, továbbá az Art. előírásait kell alkalmazni, a vonatkozó büntetőeljárási és jövedéki jogszabályok figyelembevételével.
+
+(2) A nem közösségi áru értékesítéséből befolyt összeg és az elkobzott nem közösségi áru értékesítése esetén, valamint ha a lefoglalás hatálya alatt előzetesen értékesített nem közösségi áru helyébe lépő ellenérték elkobzásra kerül, az értékesítésből befolyt összeg elszámolására az uniós sajátforrás elszámolásra vonatkozó rendelkezéseket követően az Art. 43. § (3) bekezdése szerinti végrehajtott összeg elszámolására vonatkozó rendelkezéseket kell alkalmazni.”
