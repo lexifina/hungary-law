@@ -2,6 +2,6 @@
 
 ## AZ ÁLLAMHÁZTARTÁS ALRENDSZEREINEK FINANSZÍROZÁSI ÉS SZÁMLAVEZETÉSI RENDJE
 
-120. §[^295]
+120. §[^350]
 
-[^295]: Az Ávr. [Az Áht. 74. § (1) bekezdéséhez] alcímet (120. §-t) a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 12. pontja hatályon kívül helyezte.
+[^350]: Az Ávr. [Az Áht. 74. § (1) bekezdéséhez] alcímet (120. §-t) a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 12. pontja hatályon kívül helyezte.

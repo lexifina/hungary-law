@@ -1,4 +1,4 @@
-167/J. §[^452] (1) A törzskönyvi nyilvántartás fennálló és törölt adatai, az alapító okiratok és a megszüntető okiratok nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, továbbá azok adatai elektronikus úton is hozzáférhetők. A Kincstár a törzskönyvi nyilvántartás (2) bekezdés szerinti adatait honlapján keresztül is elérhetővé teszi.
+167/J. §[^514] (1) A törzskönyvi nyilvántartás fennálló és törölt adatai, az alapító okiratok és a megszüntető okiratok nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, továbbá azok adatai elektronikus úton is hozzáférhetők. A Kincstár a törzskönyvi nyilvántartás (2) bekezdés szerinti adatait honlapján keresztül is elérhetővé teszi.
 
 (2) A törzskönyvi jogi személynek a Kincstár honlapján közzéteendő, azon elérhető és kereshető adatai:
 
@@ -22,7 +22,7 @@ b) önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében
 
 8. a társulásban résztvevő, illetve közös önkormányzati hivatalt létrehozó települési önkormányzatok neve, székhelye, PIR száma,
 
-9.[^453] a költségvetési szerv alapító okirata, módosító okirata és az alapító okirat módosításokkal egységes szerkezetbe foglalt változata, továbbá megszüntető okirata digitalizált formában.
+9.[^515] a költségvetési szerv alapító okirata, módosító okirata és az alapító okirat módosításokkal egységes szerkezetbe foglalt változata, továbbá megszüntető okirata digitalizált formában.
 
-[^452]: Az Ávr. 167/J. §-a 175/2015. (VII. 7.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^453]: Az Ávr. 167/J. § (2) bekezdés 9. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 20. pontja szerint módosított szöveg.
+[^514]: Az Ávr. 167/J. §-a 175/2015. (VII. 7.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^515]: Az Ávr. 167/J. § (2) bekezdés 9. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 20. pontja szerint módosított szöveg.

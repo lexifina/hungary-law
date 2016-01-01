@@ -1,14 +1,14 @@
 ## [Az Áht. 60. §-ához]
 
-110. § (1)[^261] Ha a felülvizsgálat keretében végezett hatósági ellenőrzés során a Kincstár eltérést nem állapít meg, a hatósági ellenőrzést a Ket. 93. § (3) bekezdése szerinti egyszerűsített jegyzőkönyv felvételével és a helyi önkormányzatnak történő átadásával vagy megküldésével zárja le. Az egyszerűsített jegyzőkönyvre a 106. § (2) bekezdését alkalmazni kell.
+110. § (1)[^311] Ha a felülvizsgálat keretében végezett hatósági ellenőrzés során a Kincstár eltérést nem állapít meg, a hatósági ellenőrzést a Ket. 93. § (3) bekezdése szerinti egyszerűsített jegyzőkönyv felvételével és a helyi önkormányzatnak történő átadásával vagy megküldésével zárja le. Az egyszerűsített jegyzőkönyvre a 106. § (2) bekezdését alkalmazni kell.
 
-(2) A felülvizsgálat keretében végzett hatósági ellenőrzés során megállapított jogosulatlan igénybevétel esetén az Áht. 60. §-a szerinti határozat tartalmazza
+(2)[^312] Az Áht. 60. §-a szerinti határozat tartalmazza
 
 a) a rendelkező részben
 
-aa) jogcímenként a helyi önkormányzatot megillető és az általa visszafizetendő támogatások összegét,
+aa)[^313] jogcímenként a helyi önkormányzatot megillető és az általa visszafizetendő vagy számára pótlólagosan járó támogatások összegét,
 
-ab) a fizetendő ügyleti kamat összegét, késedelmi kamat mértékét és napi összegét,
+ab)[^314] a fizetendő vagy visszatérítendő ügyleti kamat összegét, a fizetendő vagy visszatérítendő késedelmi kamat mértékét és napi összegét,
 
 ac) az aa) és ab) alpontban meghatározott fizetési kötelezettségek teljesítésének határidejét,
 
@@ -20,6 +20,10 @@ bb) jogcímenként a ba) alpont szerinti eltérés indokait,
 
 bc) a helyi önkormányzat jegyzőkönyvre tett észrevételeiről kialakított véleményt, az észrevételek esetleges el nem fogadásának indokait, és
 
-bd) az ügyleti kamat, késedelmi kamat fizetésének jogalapját, az a) pont ab) alpontja szerinti kamatok alapját.
+bd)[^315] az ügyleti kamat, késedelmi kamat fizetésének vagy visszatérítésének jogalapját, az a) pont ab) alpontja szerinti kamatok alapját.
 
-[^261]: Az Ávr. 110. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 15. pontja szerint módosított szöveg.
+[^311]: Az Ávr. 110. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 15. pontja szerint módosított szöveg.
+[^312]: Az Ávr. 110. § (2) bekezdés nyitó szövegrésze a 465/2015. (XII. 29.) Korm. rendelet 24. § 25. pontja szerint módosított szöveg.
+[^313]: Az Ávr. 110. § (2) bekezdés a) pont aa) alpontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 26. pontja szerint módosított szöveg.
+[^314]: Az Ávr. 110. § (2) bekezdés a) pont ab) alpontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 27. pontja szerint módosított szöveg.
+[^315]: Az Ávr. 110. § (2) bekezdés b) pont bd) alpontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 28. pontja szerint módosított szöveg.

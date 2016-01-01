@@ -1,15 +1,5 @@
-74. § (1)[^226] A támogató a pályázati kiírásban meghatározott határidőn belül írásban tájékoztatja a pályázat benyújtóját a támogatási döntésről. A tájékoztatás tartalmazza a támogatási döntést, a pályázatban megjelöltnél alacsonyabb költségvetési támogatás biztosítása, a költségvetési támogatás feltételekhez kötése vagy elutasítása esetén ennek indokait, a kedvezményezett által teljesítendő feltételeket és annak határidejét, a támogatási szerződés megkötésére a támogató által megállapított ésszerű határidőre utalást és a kifogás benyújtásának lehetőségét és módját. Támogatói okirattal biztosított költségvetési támogatás esetén a tájékoztatás a támogatói okirat kiadásával valósul meg.
+74. §[^254] (1) A támogatási szerződés alapján létrejött támogatási jogviszonyra – ha e rendelet eltérően nem rendelkezik – az e rendeletben meghatározott feltételeket a közigazgatási hatósági határozattal, hatósági szerződéssel vagy támogatói okirattal létrejött támogatási jogviszonyra is alkalmazni kell.
 
-(2) Támogatási szerződés alkalmazása esetén, ha a kedvezményezett mulasztásából a támogató által meghatározott határidőtől számított további harminc napon belül nem kerül sor a szerződéskötésre, a támogatási döntés hatályát veszti. Ha a kedvezményezett mulasztása a támogató megítélése szerint méltányolható okból származik, a szerződéskötésre az általa megállapított határidőt követő harminc napon belül az eredeti határidőnél nem hosszabb időtartamú új határidőt állapíthat meg.
+(2) A támogatási kérelem alapján biztosított költségvetési támogatásra a 68–73. §-nak és a 75. § (3a) bekezdésének pályázatra vonatkozó rendelkezéseit alkalmazni kell, azzal, hogy a pályázat alatt a támogatási kérelmet, a pályázó alatt a támogatási igény benyújtóját kell érteni.
 
-(3) Ha a támogató a támogatási szerződés megkötésének feltételéül közbeszerzési eljárás megindítását vagy más egyéb feltétel teljesítését írta elő, a támogatási szerződés hatálya e feltétel teljesítésével áll be.
-
-(4) A támogató a támogatási döntés Áht. alapján közérdekből nyilvános adatait a támogatási döntést követő hét napon belül továbbítja a Kincstárnak. A támogató a Kincstárt hét napon belül értesíti, ha
-
-a) a Kincstár részére továbbított adatokban változás történik,
-
-b) a támogatási döntés hatályát veszti, vagy
-
-c) a támogató a támogatói okirat kiadásáról, módosításáról, visszavonásáról, vagy a támogatási szerződés megkötéséről, módosításáról, felbontásáról, megszüntetéséről dönt.
-
-[^226]: Az Ávr. 74. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 9. pontja szerint módosított szöveg.
+[^254]: Az Ávr. 74. §-a a 465/2015. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

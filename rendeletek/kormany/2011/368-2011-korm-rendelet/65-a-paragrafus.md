@@ -1,10 +1,10 @@
-## VI. Fejezet[^221]
+## [Az Áht. 48/A. §-ához][^240]
 
-## A KÖLTSÉGVETÉSI TÁMOGATÁSOK
+65/A. §[^241] (1) Ha jogszabály a támogatás biztosításának módjáról nem rendelkezik, arról hatósági szerződésnek nem minősülő támogatási szerződésben kell megállapodni a kedvezményezettel.
 
-## [Az Áht. 48. § (1) bekezdéséhez]
+(2) Ha a támogató a támogatási szerződés megkötésének feltételéül közbeszerzési eljárás megindítását vagy más egyéb feltétel teljesítését írta elő, a támogatási szerződés hatálya e feltétel teljesítésével áll be.
 
-65/A. §[^222]
+(3) Ha a támogatás biztosítására fejezetek közötti előirányzat-átcsoportosítással kerül sor, a támogatási szerződésre az Áht. 33. § (4) bekezdése szerinti megállapodás e rendeletben meghatározott tartalmi és formai követelményeit is alkalmazni kell.
 
-[^221]: Az Ávr. VI. fejezete (66–102/D. §) a 397/2014. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^222]: Az Ávr. 65/A. §-át a 497/2013. (XII. 29.) Korm. rendelet 25. §-a iktatta be, hatályát vesztette a 397/2014. (XII. 31.) Korm. rendelet 25. §-a alapján.
+[^240]: Az Ávr. 65/A. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^241]: Az Ávr. 65/A. §-át újonnan a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.

@@ -10,10 +10,12 @@
 
 (6) A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján.
 
-(7) Ha a naptári napokban megállapított határidő utolsó napja munkaszüneti nap, a határidő a következő munkanapon jár le.
+(7)[^291]
 
 (8) A postai úton küldött nyilatkozat esetén a postára adás, elektronikus úton előterjesztett nyilatkozat esetén az elküldés napját kell a nyilatkozat megtételének napjaként tekinteni. Az ezzel kapcsolatos válasz megtételére rendelkezésre álló határidő ilyen esetben a postai úton küldött nyilatkozat esetén azon a napon kezdődik, amely napon azt a részére kézbesítettnek kell tekinteni. Elektronikus úton előterjesztett nyilatkozat esetén a válaszra rendelkezésre álló határidő a következő munkanapon kezdődik.
 
 (9) A határidő elmulasztása vagy a késedelem jogkövetkezményei a határidő utolsó napjának elteltével állnak be.
 
 (10) A határidőt kétség esetén megtartottnak kell tekinteni.
+
+[^291]: Az Ávr. 102/C. § (7) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 25. § (2) bekezdés 10. pontja hatályon kívül helyezte.
