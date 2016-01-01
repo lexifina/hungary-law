@@ -1,3 +1,3 @@
-## 9–10. §[^4]
+## „c) a)–c) pontja szerinti képesítési feltételnek való megfelelést a szakmai vezető, illetve az oktató végzettségét bizonyító oklevéllel és a nyelvismeretét igazoló dokumentummal vagy azok másolatával”
 
-[^4]: A 9–10. § a 22. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## (igazolja.)

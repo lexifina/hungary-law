@@ -1,3 +1,3 @@
-## 16. §[^8]
+## 16. § A Korm. rendelet 27. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^8]: A 16. § a 22. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## „(2) A szakértői bizottság vezetője, vagy az általa kijelölt bizottsági tag (a továbbiakban: kijelölt bizottsági tag) a folyamatban lévő képzés ellenőrzése keretében elméleti órát, illetve gyakorlati képzési részt tartalmazó képzés esetén gyakorlati képzést látogat. A kijelölt bizottsági tag csak olyan elméleti órát, gyakorlati képzést látogathat, amelynek szakmai tartalmához a felnőttképzési szakértő vagy a felnőttképzési programszakértő nyilvántartásban szereplő szakterülete igazodik.”
