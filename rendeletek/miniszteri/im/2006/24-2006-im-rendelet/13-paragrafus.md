@@ -4,9 +4,9 @@
 
 (2) E rendelet 12. §-a 2007. január 1-jén lép hatályba.
 
-(3)[^33]
+(3)[^38]
 
-Melléklet a 24/2006. (V. 18.) IM rendelethez[^34]
+Melléklet a 24/2006. (V. 18.) IM rendelethez[^39]
 
-[^33]: A 13. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 3. pontja hatályon kívül helyezte.
-[^34]: A mellékletet a 9/2008. (IV. 29.) IRM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 9/2008. (IV. 29.) IRM rendelet 10. § (6) bekezdése.
+[^38]: A 13. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 3. pontja hatályon kívül helyezte.
+[^39]: A mellékletet a 9/2008. (IV. 29.) IRM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 9/2008. (IV. 29.) IRM rendelet 10. § (6) bekezdése.
