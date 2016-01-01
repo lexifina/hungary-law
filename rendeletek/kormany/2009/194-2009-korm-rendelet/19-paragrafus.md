@@ -12,13 +12,13 @@
 
 a) sajátos építményfajtákra és általános építményekre vonatkozó építésügyi hatósági engedélyezési eljárásokat integráló,
 
-b)[^18]
+b)[^19]
 
-c)[^19]
+c)[^20]
 
 d) csak sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárásokat integráló,
 
-e)[^20]
+e)[^21]
 
 eljárás.
 
@@ -26,7 +26,7 @@ eljárás.
 
 (4) Az integrált építésügyi hatósági eljárás esetén – az (5) bekezdésben foglalt kivétellel – az 1. mellékletben kijelölt építésügyi hatóság látja el a közreműködő hatóság feladatait.
 
-(5)[^21] Honvédelmi és katonai célú építmények
+(5)[^22] Honvédelmi és katonai célú építmények
 
 a) műtárgy építési vagy létesítési, illetve használatbavételi engedélyezési eljárása
 
@@ -50,18 +50,18 @@ ai) ipari és mezőgazdasági célú hőfejlesztő-hőhasznosító, gáz- és ol
 
 aj) a külön jogszabályban meghatározott villamosmű, a termelői vezeték, a magánvezeték és a közvetlen vezeték,
 
-b)[^22] általános építmény építési vagy használatbavételi engedélyezési eljárása,
+b)[^23] általános építmény építési vagy használatbavételi engedélyezési eljárása,
 
 c) közlekedési építmény (autópálya kivételével közút, járda, alagút, híd, vasút, hajózási és légiforgalmi építmény) elvi építési, építési vagy forgalomba (ideiglenes forgalomba) helyezési eljárása,
 
-d)[^23] vízi létesítmény elvi vízjogi, vízjogi létesítési vagy üzemeltetési engedélyezési eljárása,
+d)[^24] vízi létesítmény elvi vízjogi, vízjogi létesítési vagy üzemeltetési engedélyezési eljárása,
 
-e)[^24]
+e)[^25]
 
-[^18]: A 19. § (2) bekezdés b) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
-[^19]: A 19. § (2) bekezdés c) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
-[^20]: A 19. § (2) bekezdés e) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
-[^21]: A 19. § (5) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.
-[^22]: A 19. § (5) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
-[^23]: A 19. § (5) bekezdés d) pontja a 322/2012. (XI. 16.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.
-[^24]: A 19. § (5) bekezdés e) pontját a 322/2012. (XI. 16.) Korm. rendelet 103. § c) pontja hatályon kívül helyezte.
+[^19]: A 19. § (2) bekezdés b) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
+[^20]: A 19. § (2) bekezdés c) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
+[^21]: A 19. § (2) bekezdés e) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
+[^22]: A 19. § (5) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^23]: A 19. § (5) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^24]: A 19. § (5) bekezdés d) pontja a 322/2012. (XI. 16.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.
+[^25]: A 19. § (5) bekezdés e) pontját a 322/2012. (XI. 16.) Korm. rendelet 103. § c) pontja hatályon kívül helyezte.

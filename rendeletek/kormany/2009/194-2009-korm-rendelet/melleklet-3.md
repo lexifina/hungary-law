@@ -32,7 +32,7 @@
 
 | 2. | Az építményben vagy építményhez kapcsolódó berendezés vagy rendszer engedélyezési eljárása |  |
 
-3. melléklet a 194/2009. (IX. 15.) Korm. rendelethez.[^34]
+3. melléklet a 194/2009. (IX. 15.) Korm. rendelethez.[^35]
 
 Az integrált hatásvizsgálati eljárások fajtái
 
@@ -70,4 +70,4 @@ III. Építmények engedélyezését megelőző, követelményeket előzetesen t
 
 | 3. | Erdő igénybevételének engedélyezési eljárása |  |
 
-[^34]: A 3. melléklet a 322/2012. (XI. 16.) Korm. rendelet 103. § g) pontja szerint módosított szöveg.
+[^35]: A 3. melléklet a 322/2012. (XI. 16.) Korm. rendelet 103. § g) pontja szerint módosított szöveg.
