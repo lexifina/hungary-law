@@ -10,10 +10,10 @@
 
 (5)[^8] A túlélő házastársnak az átruházni kívánt kárpótlási jegyek saját jogúságát a kárpótlási hatóság által korábban kiadott határozattal és a pénzforgalmi szolgáltatói átvételt igazoló eredeti bizonylattal (címletjegyzék) kell igazolnia.
 
-(6)[^9] A kárpótlási hatóság a jegyek átruházásának megtörténtét követő 30 napon belül határozatban intézkedik az egyösszegű kárpótlás kifizetése iránt.
+(6)[^9] A kárpótlási hatóság határozatban intézkedik az egyösszegű kárpótlás kifizetése iránt.
 
 [^5]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: Az 5. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: Az 5. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a, a 221/2014. (IX. 4.) Korm. rendelet 173. § a) pontja szerint módosított szöveg.
 [^8]: Az 5. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^9]: Az 5. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: Az 5. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a, a 441/2015. (XII. 28.) Korm. rendelet 21. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
