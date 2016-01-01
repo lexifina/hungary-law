@@ -1,6 +1,6 @@
 ## 10. A kérelem tartalma
 
-## 26. §[^36] A repülőtér használatbavételi engedély iránti kérelemhez – a 4. § (2) bekezdés b)–c) pontjában foglaltakon túlmenően – mellékelni kell:
+## 26. §[^33] A repülőtér használatbavételi engedély iránti kérelemhez – a 4. § (2) bekezdés b)–c) pontjában foglaltakon túlmenően – mellékelni kell:
 
 a) a megvalósulási dokumentációt 12 példányban,
 
@@ -10,12 +10,12 @@ c) ha a repülőteret a jogerős és végrehajtható létesítési engedélytől
 
 d) az érintett közműszolgáltató nyilatkozatát arról, hogy az eljárással érintett repülőtér közműszolgáltatása biztosított,
 
-e)[^37]
+e)[^34]
 
 f) a létesítési engedélyben előírt mellékleteket,
 
-g)[^38]
+g)[^35]
 
-[^36]: A 26. § nyitó szövegrésze a 207/2014. (VIII. 15.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
-[^37]: A 26. § e) pontját a 207/2014. (VIII. 15.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.
-[^38]: A 26. § g) pontját a 207/2014. (VIII. 15.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.
+[^33]: A 26. § nyitó szövegrésze a 207/2014. (VIII. 15.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^34]: A 26. § e) pontját a 207/2014. (VIII. 15.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.
+[^35]: A 26. § g) pontját a 207/2014. (VIII. 15.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.

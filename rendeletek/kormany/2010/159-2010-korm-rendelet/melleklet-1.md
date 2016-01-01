@@ -1,6 +1,6 @@
-## 48. §[^74]
+## 48. §[^71]
 
-1. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^75]
+1. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^72]
 
 ## A repülőtér területén lévő általános építmények
 
@@ -10,5 +10,5 @@
 
 3. Irányítótorony épület
 
-[^74]: A 48. § a (3) bekezdés alapján hatályát vesztette.
-[^75]: Az 1. melléklet a 207/2014. (VIII. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^71]: A 48. § a (3) bekezdés alapján hatályát vesztette.
+[^72]: Az 1. melléklet a 207/2014. (VIII. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
