@@ -6,7 +6,7 @@ a) a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének megkez
 
 b) a foglalkoztatói nyugdíjszolgáltató intézmény ideiglenes tagfelvétel szüneteltetéséhez, tevékenységének szüneteltetéséhez;
 
-c) a foglalkoztatói nyugdíjszolgáltató intézmény – a Bit. 93–95. § szerinti – állomány-átruházásához;
+c) a foglalkoztatói nyugdíjszolgáltató intézmény – a Bit. 256. és 257. § szerinti – állomány-átruházásához;
 
 d) a foglalkoztatói nyugdíjszolgáltató intézmény átalakulásához, egyesüléséhez, szétválásához;
 

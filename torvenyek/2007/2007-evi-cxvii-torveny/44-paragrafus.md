@@ -16,6 +16,6 @@ d) a foglalkoztatói nyugdíjszolgáltatási szerződésből eredő kötelezetts
 
 (4) A Felügyelet a pénzügyi helyreállítási terv megérkezését követő naptól számított két hónapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a foglalkoztatói nyugdíjszolgáltató intézmény biztonságos működésének helyreállítására.
 
-(5) Ha a foglalkoztatói nyugdíjszolgáltató intézmény rosszabbodó pénzügyi helyzete a tagok érdekeit veszélyezteti, akkor a foglalkoztatói nyugdíjszolgáltató intézmény rövid távú fizetőképességének biztosítása érdekében – a pénzügyi helyreállítási terv alapján – a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény számára a Bit. 8. számú melléklete szerint számított minimális szavatoló tőke szükségletnél magasabb szavatoló tőke szükségletet is előírhat.
+(5) Ha a foglalkoztatói nyugdíjszolgáltató intézmény rosszabbodó pénzügyi helyzete a tagok érdekeit veszélyezteti, akkor a foglalkoztatói nyugdíjszolgáltató intézmény rövid távú fizetőképességének biztosítása érdekében – a pénzügyi helyreállítási terv alapján – a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény számára a foglalkoztatói nyugdíjszolgáltató intézmények szavatoló tőke szükségletének kiszámításáról szóló kormányrendelet szerint számított minimális szavatoló tőke szükségletnél magasabb szavatoló tőke szükségletet is előírhat.
 
 (6) A pénzügyi helyreállítási terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 65. §-ban foglalt intézkedések megtételére jogosult.

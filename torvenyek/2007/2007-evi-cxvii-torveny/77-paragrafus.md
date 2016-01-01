@@ -1,6 +1,6 @@
 77. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény felszámolójának vagy végelszámolójának kizárólag a Felügyelet által létrehozott közhasznú társaság jelölhető ki.
 
-(2) A felszámolót, végelszámolót titoktartási kötelezettség terheli. A titoktartási kötelezettségre vonatkozóan a Bit. 153–165. §-aiban foglaltakat kell alkalmazni.
+(2) A felszámolót, végelszámolót titoktartási kötelezettség terheli. A titoktartási kötelezettségre vonatkozóan a Bit. 135–148. §-aiban foglaltakat kell alkalmazni.
 
 (3) A végelszámoló vagy a felszámoló jogosult valamennyi államban e törvény és a Cstv. rendelkezései által meghatározott jogkörök ellátására, de ennek során köteles betartani azon állam jogát, amelynek területén eljárását foganatosítja.
 

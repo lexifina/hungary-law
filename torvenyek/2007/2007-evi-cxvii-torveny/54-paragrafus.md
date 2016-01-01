@@ -2,7 +2,7 @@
 
 54. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény üzemgazdasági szemléletű kettős könyvvitelt vezet. A foglalkoztatói nyugdíjszolgáltató intézmény könyvviteli nyilvántartása tartalmazza az eszközöket, az eszközök értékében bekövetkezett változásokat, a forrásokat és az azok értékében bekövetkező változásokat.
 
-(2) A foglalkoztatói nyugdíjszolgáltató intézmény fedezeti tartalékának és biztosítástechnikai tartalékának piaci értéken történő értékelését munkanaponként kell elvégezni. Az eszközök piaci értéken történő értékelésekor megállapított értékelési különbözetet a könyvviteli nyilvántartásokban csak az üzleti év mérleg fordulónapjára, illetve a negyedév utolsó napjára kell kimutatni.
+(2) A foglalkoztatói nyugdíjszolgáltató intézmény fedezeti tartalékának és nyugdíjtechnikai tartalékának piaci értéken történő értékelését munkanaponként kell elvégezni. Az eszközök piaci értéken történő értékelésekor megállapított értékelési különbözetet a könyvviteli nyilvántartásokban csak az üzleti év mérleg fordulónapjára, illetve a negyedév utolsó napjára kell kimutatni.
 
 (3) A fedezeti tartalék piaci értéken történő értékelése a könyvviteli nyilvántartásokban az eszközöknél értékelési különbözetként, illetve a forrásoknál értékelési különbözet tartalékaként jelenik meg. A piaci értéket felhalmozott kamattal együttes értéken kell bemutatni.
 

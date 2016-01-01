@@ -6,7 +6,7 @@
 
 (3) A nyugdíjkonstrukció leírásának tartalmaznia kell a cégvezető, a vezető jogtanácsos, és a vezető biztosításmatematikus aláírását.
 
-(4) A hozzájárulások mértékének kalkulációjánál, a tartalékolásnál és a járadékszámításoknál alkalmazható technikai kamatláb maximális mértéke megegyezik a Bit. 99. § (1) bekezdése szerint kiadott miniszteri rendeletben megállapított értékkel.
+(4) A hozzájárulások mértékének kalkulációjánál, a tartalékolásnál és a járadékszámításoknál alkalmazható technikai kamatláb maximális mértéke megegyezik a Bit. 133. § (1) bekezdése szerint kiadott miniszteri rendeletben megállapított értékkel.
 
 (5) A más államban székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény fióktelepe útján vagy határon átnyúló szolgáltatás keretében nyújtott nyugdíjkonstrukcióira a technikai kamatláb maximális mértékének tekintetében a székhely szerinti állam szabályozása az irányadó.
 

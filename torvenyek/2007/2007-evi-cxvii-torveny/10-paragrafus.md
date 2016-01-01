@@ -18,7 +18,7 @@ bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII. Fejez
 
 szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítéstől számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
 
-c) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 91. §-a szerinti szakmai alkalmassággal és üzleti megbízhatósággal nem rendelkezik,
+c) A Bit. 69. §-a, 253. §-a és 254. §-a szerinti szakmai alkalmassággal és üzleti megbízhatósággal nem rendelkezik,
 
 d) legalább ötéves biztosítási, pénztári vagy vállalatgazdálkodási, illetve az államigazgatás pénzügyi és gazdasági területén szerzett vezetői gyakorlattal nem rendelkezik, azzal, hogy az előírt vezetői gyakorlat befejezése nem eshet az engedély iránti kérelem benyújtását 10 évvel megelőző időpontnál korábbi időpontra,
 

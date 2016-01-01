@@ -13,3 +13,5 @@ d) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.
 e) a Tanács 2004. december 13-án kelt 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról,
 
 f) az Európai Parlament és a Tanács 2013/14/EU irányelve (2013. május 21.) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló 2003/41/EK irányelvnek, az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek és az alternatív befektetésialap-kezelőkről szóló 2011/61/EU irányelvnek a hitelminősítések túlzott figyelembevétele tekintetében történő módosításáról.
+
+g) az Európai Parlament és a Tanács 2009/138/EK irányelve (2009. november 25.) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II.).

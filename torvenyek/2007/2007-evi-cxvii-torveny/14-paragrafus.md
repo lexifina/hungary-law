@@ -1,11 +1,11 @@
 ## A belső ellenőr
 
-14. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény köteles a belső ellenőrzés vezetésével a felügyelőbizottság szakmai irányítása alá tartozó belső ellenőrt megbízni.
+14. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény köteles a belső ellenőrzés vezetésével a felügyelőbizottság szakmai irányítása alá tartozó belső ellenőrt alkalmazni.
 
-(2) Belső ellenőrként kizárólag a Bit. 89. § (2) bekezdés a)–d) pontjaiban meghatározott követelményeknek megfelelő személy alkalmazható.
+(2) Belső ellenőrként kizárólag a Bit. 63. § (2) bekezdés a)–d) pontjaiban és (4) bekezdésében meghatározott követelményeknek megfelelő személy alkalmazható azzal, hogy a szakmai gyakorlat megszerezhető magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, ezek érdekvédelmi szervénél vagy könyvvizsgálójánál is.
 
-(3) A belső ellenőr a Bit. 89. § (3), (4) és (5) bekezdésében meghatározott feladatokat látja el.
+(3) A belső ellenőr ellátja, illetve irányítja a belső ellenőrzés Bit. 85. § (1)–(3) bekezdésében meghatározott feladatköréhez tartozó feladatok teljesítését. A belső ellenőr felett a munkáltatói jogokat közvetlenül az első számú vezető gyakorolja.
 
-(4) A foglalkoztatói nyugdíjszolgáltató intézmény működésének ellenőrzésével kapcsolatban a felügyelőbizottság a Bit. 89. § (6) bekezdésben meghatározott feladatokat látja el.
+(4) A foglalkoztatói nyugdíjszolgáltató intézmény működésének ellenőrzésével kapcsolatban a felügyelőbizottság a Bit. 85. § (4) bekezdésében meghatározott feladatokat látja el.
 
 (5) Ahol a Bit. biztosítót említ, ott e törvény alkalmazásában foglalkoztatói nyugdíjszolgáltató intézményt kell érteni.
