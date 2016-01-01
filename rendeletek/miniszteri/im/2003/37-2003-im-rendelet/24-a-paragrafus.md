@@ -1,6 +1,6 @@
-## A teljesítési letéti eljárás során tárgyletét kezelés[^28]
+## A teljesítési letéti eljárás során tárgyletét kezelés[^29]
 
-24/A. §[^29] (1) A teljesítési letét kezelője az átvett tárgyletétről naplót és betűsoros névmutatót vezet úgy, hogy azokba utólagos bejegyzésre ne legyen lehetőség, az esetleges javítást a letét átvevőjének aláírásával és bélyegzőlenyomatával kell ellátni.
+24/A. §[^30] (1) A teljesítési letét kezelője az átvett tárgyletétről naplót és betűsoros névmutatót vezet úgy, hogy azokba utólagos bejegyzésre ne legyen lehetőség, az esetleges javítást a letét átvevőjének aláírásával és bélyegzőlenyomatával kell ellátni.
 
 (2) Ha a tárgyletétet a közjegyző őrzi, azt saját páncélszekrényében helyezi el. A tárgyletét őrzésének helyét és módját a közjegyzői iratokban fel kell tüntetni.
 
@@ -12,5 +12,5 @@
 
 (6) A (4) és (5) bekezdésben foglalt esetekben a tárgyletét feletti rendelkezési jog a közjegyző állására kirendelt vagy kinevezett közjegyzőt illeti meg, és őt terheli az őrzésből következő valamennyi kötelezettség.
 
-[^28]: A 24/A. §-t megelőző alcímet a 21/2014. (III. 13.) KIM rendelet 14. § (3) bekezdése iktatta be.
-[^29]: A 24/A. §-t a 21/2014. (III. 13.) KIM rendelet 14. § (3) bekezdése iktatta be.
+[^29]: A 24/A. §-t megelőző alcímet a 21/2014. (III. 13.) KIM rendelet 14. § (3) bekezdése iktatta be.
+[^30]: A 24/A. §-t a 21/2014. (III. 13.) KIM rendelet 14. § (3) bekezdése iktatta be.

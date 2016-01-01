@@ -502,7 +502,7 @@
 
 ## Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-6. melléklet a 37/2003. (X. 29.) IM rendelethez[^81]
+6. melléklet a 37/2003. (X. 29.) IM rendelethez[^95]
 
 A zálogtárgy egyszerűsített végrehajtási értékesítésére szolgáló, közjegyzői okirat végrehajtási záradékkal történő ellátása iránti kérelem űrlapjának adattartalma
 
@@ -978,4 +978,4 @@ A zálogtárgy egyszerűsített végrehajtási értékesítésére szolgáló, k
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^81]: A 6. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.
+[^95]: A 6. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.

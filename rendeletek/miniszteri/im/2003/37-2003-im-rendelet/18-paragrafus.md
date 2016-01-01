@@ -1,4 +1,4 @@
-## 17. §[^24]
+## 17. §[^25]
 
 ## Az intézkedés megszövegezése
 
@@ -8,4 +8,4 @@
 
 (3) Minden intézkedésen fel kell tüntetni az elintézés évét, hónapját, napját és az elintéző aláírását.
 
-[^24]: A 17. §-t a 24/2015. (IX. 21.) IM rendelet 2. § (10) bekezdés c) pontja hatályon kívül helyezte.
+[^25]: A 17. §-t a 24/2015. (IX. 21.) IM rendelet 2. § (10) bekezdés c) pontja hatályon kívül helyezte.
