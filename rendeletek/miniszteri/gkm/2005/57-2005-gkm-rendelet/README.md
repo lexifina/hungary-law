@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-57-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-07-19 | 2005-57-20-0L.4 | 57/2005. (VII. 7.) GKM rendelet |
+| 2016-01-01 | 2005-57-20-0L.5 | 78/2015. (XII. 30.) NFM rendelet |

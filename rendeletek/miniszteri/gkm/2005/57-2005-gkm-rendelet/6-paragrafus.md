@@ -1,4 +1,4 @@
-## foglalt rendelkezéseket is alkalmazni kell azzal, hogy ahol azok illetéket említenek, azon e rendelet tekintetében díjat kell érteni.
+## 3–5. §[^4]
 
 ## Záró rendelkezések
 
@@ -8,6 +8,7 @@
 
 (3) A 2005. évi felügyeleti díj a Bt. előírásai szerint számított díj 88,5%-a.
 
-(4)[^15]
+(4)[^5]
 
-[^15]: A 6. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 107. pontja hatályon kívül helyezte.
+[^4]: A 3–5. §-t a 78/2015. (XII. 30.) NFM rendelet 8. § (4) bekezdése hatályon kívül helyezte.
+[^5]: A 6. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 107. pontja hatályon kívül helyezte.

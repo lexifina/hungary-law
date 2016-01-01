@@ -1,32 +1,4 @@
-## A felügyeleti díj elszámolása
-
-| 1. Engedélyes megnevezése: |  |
-
-| 2. Engedélyes címe: |  |
-
-| 3. Tárgyév: |  |
-
-| 4. Engedélyes tevékenységek előző évi árbevétele: | E Ft |
-
-| a) |  |
-
-| b) |  |
-
-| c) összesen: |  |
-
-| 5. Tárgyévi felügyeleti díj: [4. c) sorban szereplő érték × 0,4%] | E Ft |
-
-| 6. Név, telefonszám: |  |
-
-| 7. Dátum: |  |
-
-## P. H.
-
-## ....................................................
-
-## cégszerű aláírás
-
-2. számú melléklet az 57/2005. (VII. 7.) GKM rendelethez[^17]
+2. számú melléklet az 57/2005. (VII. 7.) GKM rendelethez[^7]
 
 Igazgatási szolgáltatási díjak
 
@@ -276,4 +248,4 @@ besorolásának jóváhagyása (Ft-ban)
 
 | 3. | Tűzijáték testek besorolásának jóváhagyása | 20 000 | D030 |
 
-[^17]: A 2. számú melléklet a 12/2008. (VII. 11.) KHEM rendelet 5. § (2) bekezdésének d) pontja szerint módosított szöveg.
+[^7]: A 2. számú melléklet a 12/2008. (VII. 11.) KHEM rendelet 5. § (2) bekezdésének d) pontja szerint módosított szöveg.
