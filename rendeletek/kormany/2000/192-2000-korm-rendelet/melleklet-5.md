@@ -22,10 +22,6 @@
 
 ## ,,15/A) Konszolidálásból adódó (számított) társasági adókülönbözet (±)''
 
-5. Az ,,F. Adózott eredmény'' és a ,,G. Mérleg szerinti eredmény'' sorok és a köztük lévő sorok a következők szerint változnak:
+5.[^129]
 
-,,F. Adózott eredmény (±E–15±15/A)
-
-F/1. Jóváhagyott osztalék és részesedés
-
-G. Mérleg szerinti eredmény (F–F/1)''
+[^129]: Az 5. számú melléklet 5. pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (4) bekezdése hatályon kívül helyezte.

@@ -44,7 +44,7 @@
 
 ## C. A befektetési egységekhez kötött (unit-linked) életbiztosítások szerződői javára végrehajtott befektetések
 
-## D. Követelések[^112]
+## D. Követelések[^117]
 
 ## I. Közvetlen biztosítási tevékenységből származó követelések
 
@@ -54,7 +54,9 @@
 
 ## a) kapcsolt vállalkozástól
 
-## b) egyéb részesedési viszonyban lévő vállalkozástól
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozástól
+
+## c) egyéb részesedési viszonyban lévő vállalkozástól
 
 ## 2. Követelések a biztosítási közvetítőktől
 
@@ -62,7 +64,9 @@
 
 ## a) kapcsolt vállalkozástól
 
-## b) egyéb részesedési viszonyban lévő vállalkozástól
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozástól
+
+## c) egyéb részesedési viszonyban lévő vállalkozástól
 
 ## 3. Egyéb közvetlen biztosítási tevékenységből származó követelések
 
@@ -70,7 +74,9 @@
 
 ## a) kapcsolt vállalkozástól
 
-## b) egyéb részesedési viszonyban lévő vállalkozástól
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozástól
+
+## c) egyéb részesedési viszonyban lévő vállalkozástól
 
 ## II. Követelések viszontbiztosítói ügyletekből
 
@@ -78,7 +84,9 @@
 
 ## a) kapcsolt vállalkozástól
 
-## b) egyéb részesedési viszonyban lévő vállalkozástól
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozástól
+
+## c) egyéb részesedési viszonyban lévő vállalkozástól
 
 ## III. Viszontbiztosítóra jutó tartalékrész az életbiztosítási tartalékból
 
@@ -88,7 +96,9 @@
 
 ## a) kapcsolt vállalkozástól
 
-## b) egyéb részesedési viszonyban lévő vállalkozástól
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozástól
+
+## c) egyéb részesedési viszonyban lévő vállalkozástól
 
 ## V. Követelések értékelési különbözete
 
@@ -114,17 +124,17 @@
 
 ## FORRÁSOK (passzívák)
 
-## A. Saját tőke
+## A. Saját tőke[^118]
 
 ## I. Jegyzett tőke
 
 ## ebből: visszavásárolt tulajdoni részesedés névértéken
 
-## II. Jegyzett, de még be nem fizetett tőke (–)
+## II. Jegyzett, de még be nem fizetett tőke (-)
 
 ## III. Tőketartalék
 
-## IV. Eredménytartalék (±)
+## IV. Eredménytartalék
 
 ## V. Lekötött tartalék
 
@@ -136,11 +146,11 @@
 
 ## ebből: biztosítottakra jutó rész
 
-## VII. Mérleg szerinti eredmény (±)
+## VII. Adózott eredmény
 
 ## B. Alárendelt kölcsöntőke
 
-## C.[^113] Biztosítástechnikai tartalékok
+## C.[^119] Biztosítástechnikai tartalékok
 
 ## 1. Meg nem szolgált díjak tartaléka [a)+b)]
 
@@ -238,7 +248,7 @@
 
 ## F. Viszontbiztosítóval szembeni letéti kötelezettségek
 
-## G. Kötelezettségek[^114]
+## G. Kötelezettségek[^120]
 
 ## I. Kötelezettségek közvetlen biztosítási tevékenységből
 
@@ -246,7 +256,9 @@
 
 ## a) kapcsolt vállalkozással szemben
 
-## b) egyéb részesedési viszonyban lévő vállalkozással szemben
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
+## c) egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## II. Kötelezettségek viszontbiztosítási ügyletekből
 
@@ -254,7 +266,9 @@
 
 ## a) kapcsolt vállalkozással szemben
 
-## b) egyéb részesedési viszonyban lévő vállalkozással szemben
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
+## c) egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## III. Kötelezettségek kötvénykibocsátásból
 
@@ -262,7 +276,9 @@
 
 ## a) kapcsolt vállalkozással szemben
 
-## b) egyéb részesedési viszonyban lévő vállalkozással szemben
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
+## c) egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## IV. Hitelek
 
@@ -270,15 +286,17 @@
 
 ## a) kapcsolt vállalkozással szemben
 
-## b) egyéb részesedési viszonyban lévő vállalkozással szemben
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
-## V. Egyéb kötelezettségek
+## c) egyéb részesedési viszonyban lévő vállalkozással szemben
 
-## ebből:
+## V. Egyéb kötelezettségek ebből:
 
 ## a) kapcsolt vállalkozással szemben
 
-## b) egyéb részesedési viszonyban lévő vállalkozással szemben
+## b) jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
+## c) egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## VI. Kötelezettségek értékelési különbözete
 
@@ -292,9 +310,10 @@
 
 ## 3. Halasztott bevételek
 
-2. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^115]
+2. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^121]
 
-[^112]: Az 1. számú melléklet D . Követelések része a 382/2012. (XII. 19.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^113]: Az 1. számú melléklet FORRÁSOK (passzívák) részének C. főcsoportja a 334/2005. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^114]: Az 1. számú melléklet G. Kötelezettségek része a 382/2012. (XII. 19.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^115]: A 2. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a és 14. § (5) bekezdése, valamint a 334/2005. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1)–(2) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^117]: Az 1. számú melléklet „Eszközök (aktívák)” alcím „D. Követelések” pontja a 484/2015. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^118]: Az 1. számú melléklet „Források (passzívák)” alcím „A. Saját tőke” pontja a 484/2015. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^119]: Az 1. számú melléklet FORRÁSOK (passzívák) részének C. főcsoportja a 334/2005. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^120]: Az 1. számú melléklet „Források (passzívák)” alcím „G. Kötelezettségek” pontja a 484/2015. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^121]: A 2. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a és 14. § (5) bekezdése, valamint a 334/2005. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1)–(2) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.

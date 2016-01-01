@@ -312,11 +312,9 @@
 
 ## F) ADÓZOTT EREDMÉNY (±E–15)
 
-## 16. Eredménytartalék igénybevétele osztalékra, részesedésre
+## 16–17.[^122]
 
-## 17. Jóváhagyott osztalék és részesedés
-
-## G) MÉRLEG SZERINTI EREDMÉNY (±F+16–17)
+## G)[^123]
 
 ## Az eredménykimutatás egyes tételeire vonatkozó
 
@@ -342,7 +340,7 @@
 
 ## Ez a sor tartalmazza a nem-életbiztosítási ághoz kapcsolódó tartalékok fedezetéül szolgáló befektetések bevételéből átvezetett, a biztosítottaknak visszajuttatandó eredményt.
 
-## A/03. és B/04. sor[^116]: Egyéb biztosítástechnikai bevétel
+## A/03. és B/04. sor[^124]: Egyéb biztosítástechnikai bevétel
 
 ## Itt kell kimutatni a biztosítási tevékenységből eredő, az előbbiek közé nem tartozó egyéb biztosítási bevételek összegét.
 
@@ -426,7 +424,7 @@
 
 ## A c) pontban kell többek között kimutatni a külföldi pénzértékre szóló befektetések 6. § (2) bekezdése szerinti értékeléséből adódó árfolyamveszteséget.
 
-## A/10. és B/14. sor:[^117] Egyéb biztosítástechnikai ráfordítások
+## A/10. és B/14. sor:[^125] Egyéb biztosítástechnikai ráfordítások
 
 ## Itt kell kimutatni a biztosítási tevékenységből eredő és az előbbi sorok ráfordításai közé nem tartozó, biztosítási szerződésekhez közvetlenül kapcsolható egyéb biztosítási ráfordítások összegét. Ide kell elszámolni a Kártalanítási Számlával szemben elszámolt összeget is, ha az veszteségjellegű.
 
@@ -450,8 +448,10 @@
 
 ## Itt kell szerepeltetni – a 9. § (11) bekezdésének előírásait is figyelembe véve – a Tv. szerinti egyéb ráfordítások közé tartozó tételek összegét, továbbá a nem biztosítási tevékenységhez kapcsolódó ráfordításokat is (pl. iparűzési adó). Nem szabad ide beállítani a biztosítási állományhoz kapcsolódó ingatlanok értékesítésének ráfordításait (nettó értékét).
 
-3. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^118]
+3. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^126]
 
-[^116]: A 2. számú melléklet „Az eredménykimutatás egyes tételeire vonatkozó előírások” címének az „A/03. és B/04. sora a 347/2004. (XII. 22.) Korm. rendelet 18. §-a, a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^117]: A 2. számú melléklet A/10. és B/14. sor szövege a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^118]: A 3. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a, a 342/2011. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^122]: A 2. számú melléklet F) pont 16–17. alpontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^123]: A 2. számú melléklet G) pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^124]: A 2. számú melléklet „Az eredménykimutatás egyes tételeire vonatkozó előírások” címének az „A/03. és B/04. sora a 347/2004. (XII. 22.) Korm. rendelet 18. §-a, a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^125]: A 2. számú melléklet A/10. és B/14. sor szövege a 382/2012. (XII. 19.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^126]: A 3. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a, a 342/2011. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.

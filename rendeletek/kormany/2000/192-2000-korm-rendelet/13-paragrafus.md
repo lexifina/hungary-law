@@ -1,16 +1,16 @@
-13. § (1)[^63] A biztosító az 5. § (2) bekezdése szerinti biztosítástechnikai tartalékok változását a külön jogszabályban meghatározottak szerint, legalább a mérleg fordulónapjával köteles elszámolni a (2) bekezdésben foglaltak figyelembevételével.
+13. § (1)[^66] A biztosító az 5. § (2) bekezdése szerinti biztosítástechnikai tartalékok változását a külön jogszabályban meghatározottak szerint, legalább a mérleg fordulónapjával köteles elszámolni a (2) bekezdésben foglaltak figyelembevételével.
 
-(2)[^64] A biztosítástechnikai tartalékokat a mérleg fordulónapjával a külön jogszabályban meghatározott szükséges szintre kell módosítani.
+(2)[^67] A biztosítástechnikai tartalékokat a mérleg fordulónapjával a külön jogszabályban meghatározott szükséges szintre kell módosítani.
 
-(3)[^65] A biztosító az értékpapír kölcsönügylet, a repóügylet és a származékos ügylet elszámolására a Tv. előírásain túlmenően a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 250/2000. (XII. 24.) Korm. rendelet előírásait köteles értelemszerűen alkalmazni.
+(3)[^68] A biztosító az értékpapír kölcsönügylet, a repóügylet és a származékos ügylet elszámolására a Tv. előírásain túlmenően a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 250/2000. (XII. 24.) Korm. rendelet előírásait köteles értelemszerűen alkalmazni.
 
-(4)[^66] Az értékpapír kölcsönügyletből eredő követelést az egyéb befektetéseken belül egyéb kölcsönként, a kötelezettséget a hitelek között, a kapott, illetve fizetett kölcsönzési díjat az életbiztosítási ágnál a befektetésekből származó biztosítástechnikai bevételeken belül a kapott kamatok és kamatjellegű bevételek között, illetve a befektetésekből származó biztosítástechnikai ráfordításokon belül a fizetett kamatok és kamatjellegű ráfordítások között, a nem életbiztosítási ágnál a nem biztosítástechnikai elszámolásokon belül a kapott kamatok és kamatjellegű bevételek, illetve a fizetett kamatok és kamatjellegű ráfordítások között kell kimutatni.
+(4)[^69] Az értékpapír kölcsönügyletből eredő követelést az egyéb befektetéseken belül egyéb kölcsönként, a kötelezettséget a hitelek között, a kapott, illetve fizetett kölcsönzési díjat az életbiztosítási ágnál a befektetésekből származó biztosítástechnikai bevételeken belül a kapott kamatok és kamatjellegű bevételek között, illetve a befektetésekből származó biztosítástechnikai ráfordításokon belül a fizetett kamatok és kamatjellegű ráfordítások között, a nem életbiztosítási ágnál a nem biztosítástechnikai elszámolásokon belül a kapott kamatok és kamatjellegű bevételek, illetve a fizetett kamatok és kamatjellegű ráfordítások között kell kimutatni.
 
 A kölcsönbeadónál jelentkező árfolyamkülönbözetet az értékpapír értékesítés árfolyamnyereségének, illetve árfolyamveszteségének általános szabályai szerint kell elszámolni.
 
-(5)[^67] Az óvadéki repóügyletből eredő kötelezettséget a kötelezettségeken belül hitelként kell elszámolni. Az óvadéki repóügylet után fizetett kamatot életbiztosítási ágnál a befektetésekből származó biztosítástechnikai ráfordításokon belül a fizetett kamatok és kamatjellegű ráfordítások között, a nem életbiztosítási ágnál a nem biztosítástechnikai elszámolásokon belül a fizetett kamatok és kamatjellegű ráfordítások között kell kimutatni. A szállításos repóügylethez kapcsolódó árfolyamkülönbözetet az értékpapír értékesítés árfolyamnyereségének, illetve árfolyamveszteségének általános szabályai szerint kell elszámolni.
+(5)[^70] Az óvadéki repóügyletből eredő kötelezettséget a kötelezettségeken belül hitelként kell elszámolni. Az óvadéki repóügylet után fizetett kamatot életbiztosítási ágnál a befektetésekből származó biztosítástechnikai ráfordításokon belül a fizetett kamatok és kamatjellegű ráfordítások között, a nem életbiztosítási ágnál a nem biztosítástechnikai elszámolásokon belül a fizetett kamatok és kamatjellegű ráfordítások között kell kimutatni. A szállításos repóügylethez kapcsolódó árfolyamkülönbözetet az értékpapír értékesítés árfolyamnyereségének, illetve árfolyamveszteségének általános szabályai szerint kell elszámolni.
 
-(6)[^68] A valós értéken történő értékelés esetén:
+(6)[^71] A valós értéken történő értékelés esetén:
 
 a) a kereskedési célú származékos ügyletekhez kapcsolódó
 
@@ -88,7 +88,7 @@ g) a külföldi gazdálkodó szervezetben lévő nettó befektetés fedezeti üg
 
 ga) pozitív értékelési különbözetet életbiztosítási és nem életbiztosítási ágnál a da) pont szerint,
 
-gb) záráskor realizált árfolyamnyereséget[^69] életbiztosítási és nem életbiztosítási ágnál a cb) pont szerint,
+gb) záráskor realizált árfolyamnyereséget[^72] életbiztosítási és nem életbiztosítási ágnál a cb) pont szerint,
 
 gc) negatív értékelési különbözetet életbiztosítási és nem életbiztosítási ágnál a dc) szerint,
 
@@ -96,9 +96,9 @@ gd) záráskor realizált árfolyamveszteséget életbiztosítási és nem élet
 
 ## kell elszámolni.
 
-(7)[^70] A valós értéken történő értékelés esetén a saját tőkéhez (nem biztosítás-technikai tartalékokhoz) kapcsolódó befektetésként eszközölt származékos ügyletek értékeléskori és záráskori eredményének elszámolására a (6) bekezdésben meghatározott, a nem életbiztosítási ághoz kapcsolódó ügyletekre vonatkozó előírásokat kell alkalmazni.
+(7)[^73] A valós értéken történő értékelés esetén a saját tőkéhez (nem biztosítás-technikai tartalékokhoz) kapcsolódó befektetésként eszközölt származékos ügyletek értékeléskori és záráskori eredményének elszámolására a (6) bekezdésben meghatározott, a nem életbiztosítási ághoz kapcsolódó ügyletekre vonatkozó előírásokat kell alkalmazni.
 
-(8)[^71] Ha a biztosító nem alkalmazza a valós értéken történő értékelést, a határidős, az opciós és a swap ügyletek határidős ügyletrészének elszámolásakor a következők szerint kell eljárni:
+(8)[^74] Ha a biztosító nem alkalmazza a valós értéken történő értékelést, a határidős, az opciós és a swap ügyletek határidős ügyletrészének elszámolásakor a következők szerint kell eljárni:
 
 a) az ügyleteket a kötés napján a 0. Nyilvántartási számlák számlaosztályba kell felvenni a kötési árfolyamon;
 
@@ -118,15 +118,15 @@ h) a fedezeti ügyletek mérleg fordulónapján várható nyereségét, ha az ü
 
 i) a fedezeti ügyleteket azok megkötésekor megkülönböztetett jelzéssel kell ellátni és egyértelműen hozzá kell rendelni a fedezett alapügylethez, tételhez. A fedezeti ügyleteket kamatfedezeti, valamint egyéb fedezeti ügyletek közé kell sorolni, és azok mérleg fordulónapján várható, illetve a záráskor realizált eredményét minden esetben a tárgyévi eredményben kell elszámolni a c), g)–h) pontok szerint. A fedezeti ügyletek a fedezeti ügylet kötésekor már létező vagy azzal egyidejűleg kötött alapügyleteket fedezhetnek, előre jelzett ügyleteket nem.
 
-(9)[^72] A fedezeti ügyletekhez vezetett analitikus nyilvántartásban, illetve a fedezeti dokumentációban biztosítani kell annak lehetőségét, hogy a matematikai tartalékok, valamint az összes bruttó biztosítástechnikai tartalék fedezetét képező eszközökhöz kapcsolódó fedezeti ügyletek várható eredménye, illetve értékelési különbözete (az ügylet piaci értéke) az értékelés időpontjában, illetve a lejárati idő alatt bármikor megállapítható legyen függetlenül attól, hogy a biztosító alkalmazza-e a valós értéken történő értékelést.
+(9)[^75] A fedezeti ügyletekhez vezetett analitikus nyilvántartásban, illetve a fedezeti dokumentációban biztosítani kell annak lehetőségét, hogy a matematikai tartalékok, valamint az összes bruttó biztosítástechnikai tartalék fedezetét képező eszközökhöz kapcsolódó fedezeti ügyletek várható eredménye, illetve értékelési különbözete (az ügylet piaci értéke) az értékelés időpontjában, illetve a lejárati idő alatt bármikor megállapítható legyen függetlenül attól, hogy a biztosító alkalmazza-e a valós értéken történő értékelést.
 
-[^63]: A 13. § (1) bekezdése a 382/2012. (XII. 18.) Korm. rendeet 7. §-ával megállapított szöveg.
-[^64]: A 13. § (2) bekezdése a 382/2012. (XII. 18.) Korm. rendeet 7. §-ával megállapított szöveg.
-[^65]: A 13. § (3) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^66]: A 13. § (4) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^67]: A 13. § (5) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^68]: A 13. § (6) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^69]: A Magyar Közlöny 2004. évi 2. számában megjelent helyesbítésnek megfelelő szöveg.
-[^70]: A 13. § (7) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^71]: A 13. § (8) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^72]: A 13. § (9) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^66]: A 13. § (1) bekezdése a 382/2012. (XII. 18.) Korm. rendeet 7. §-ával megállapított szöveg.
+[^67]: A 13. § (2) bekezdése a 382/2012. (XII. 18.) Korm. rendeet 7. §-ával megállapított szöveg.
+[^68]: A 13. § (3) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^69]: A 13. § (4) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^70]: A 13. § (5) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^71]: A 13. § (6) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^72]: A Magyar Közlöny 2004. évi 2. számában megjelent helyesbítésnek megfelelő szöveg.
+[^73]: A 13. § (7) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^74]: A 13. § (8) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^75]: A 13. § (9) bekezdését a 235/2003. (XII. 17.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni.
