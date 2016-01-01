@@ -1,0 +1,1 @@
+## „(4) Sör előállítására alkalmas főzőüstöt és komlóforraló üstöt csak olyan személy állíthat elő, aki (amely) annak gyártására a vámhatóságtól engedélyt kapott. A gyártónak a főzőüst és a komlóforraló üst értékesítését – azt 15 nappal megelőzően – a készülék típusának, űrtartalmának megadásával a vámhatósághoz be kell jelentenie.”

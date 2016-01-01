@@ -1,0 +1,1 @@
+## „(8) Az adómentes felhasználónak a felelős üzemvezető kijelölését és az abban bekövetkező változást a vámhatóság felé írásban be kell jelentenie a kijelölést, illetve a változást követő 15. napig.”

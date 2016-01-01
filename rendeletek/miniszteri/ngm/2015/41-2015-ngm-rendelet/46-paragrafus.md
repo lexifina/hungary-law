@@ -1,0 +1,1 @@
+## „(3) A nyilvántartásba vett felhasználó köteles lehetővé tenni a vámhatóság ellenőrzéssel megbízott képviselőjének az üzem- és raktárhelyiségbe történő belépést, a termékkészlet és a felhasználási művelet, valamint az (1) bekezdés szerint nyilvántartás ellenőrzését.”

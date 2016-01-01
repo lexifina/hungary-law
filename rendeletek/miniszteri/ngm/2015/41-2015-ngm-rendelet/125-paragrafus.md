@@ -1,0 +1,1 @@
+## „(6) Új üzemanyagtöltő állomás a tartályok és a kútoszlop hitelesítéséhez a Kertv. szerint a kereskedelmi tevékenység folytatásáról tett bejelentés nyilvántartásba vételét megelőzően, a vámhatóság előzetes tájékoztatása és felügyelete mellett vásárolhat üzemanyagot adóraktárból, illetve jövedéki engedélyes kereskedőtől.”

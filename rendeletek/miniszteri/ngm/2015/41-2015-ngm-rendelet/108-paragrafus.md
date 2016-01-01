@@ -1,0 +1,5 @@
+## „(14) A felhasználói engedélyesnek a jövedéki termék megsemmisítését a vámhatósághoz írásban előzetesen kell bejelentenie.
+
+## (15) A szennyezetté, illetve az engedélyezett felhasználási célra alkalmatlanná vált jövedéki termék megsemmisítése a vámhatóság ellenőrzése mellett történik, amelyről a 105. § (3) bekezdése szerint jegyzőkönyvet kell felvenni.
+
+## (16) A szennyezetté, illetve az engedélyezett felhasználási célra alkalmatlanná vált jövedéki termék tisztításáról (regenerálásáról) a 34. számú melléklet szerinti tartalommal a vámhatóság által jóváhagyott és hitelesített regenerálási naplót kell folyamatosan vezetni. A nyilvántartás vezetésére a vámhatóság által előzetesen jóváhagyott számítógépes nyilvántartás is alkalmazható. A regenerálás a vámhatóság által engedélyezett és nyilvántartásba vett készüléken végezhető. A regenerálással visszanyert jövedéki termékre a felhasználói engedélyesnek a felhasználást 3 nappal megelőzően a vámhatósághoz be kell jelentenie a felhasználási arányszámot, illetve arányszámokat.”

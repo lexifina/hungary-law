@@ -1,0 +1,1 @@
+## „(5) A Jöt. 120. § (7) bekezdés c) pontja alá tartozó, megsemmisítésre kerülő termék, eszköz megsemmisítéséről készített jegyzőkönyvhöz a vámhatóságnak azokat az iratokat is csatolnia kell, amelyek az értékesítés eredménytelenségét bizonyítják.”

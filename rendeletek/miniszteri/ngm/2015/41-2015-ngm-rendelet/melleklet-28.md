@@ -1,0 +1,5 @@
+## A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény egyes rendelkezéseinek végrehajtásáról szóló 8/2004. (III. 10.) PM rendelet 51. számú melléklet 1. rovatában a „Vám- és Pénzügyőri Igazgatóság Adóigazgatósági száma: 15789934-2-51” szövegrész helyébe a „Vámhatóság” szöveg lép, valamint hatályát veszti 8. rovatában a „Rendfokozata:” szövegrész, 10. rovatában a „Szolgálati Parancs száma:” szövegrész és záró szövegrészében az „a vám- és pénzügyőri igazgatóság felügyeletét ellátó regionális főigazgatósághoz címzett, de a vám- és pénzügyőri igazgatóságnál előterjesztendő” szövegrész.
+
+28. melléklet a 41/2015. (XII. 30.) NGM rendelethez
+
+A zárjegy alkalmazásának, a zárjeggyel való elszámolásnak a részletes szabályairól szóló 43/2009. (XII. 29.) PM rendelet 3. melléklet IV. Zárjegykészlet-csökkenés részének 8. pontjának nyitó szövegrészében, valamint a 8. pont b) alpontjában a „KAVIG” szövegrészek helyébe a „vámhatóság” szöveg lép.
