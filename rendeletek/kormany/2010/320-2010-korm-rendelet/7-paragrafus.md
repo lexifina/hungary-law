@@ -6,7 +6,7 @@
 
 (3) A Hivatal kereskedelmi hatóságként jár el:
 
-a)[^11] az utazásszervező és -közvetítői tevékenység engedélyezésére, bejelentésére, nyilvántartásba vételére irányuló eljárásokban és az azokkal kapcsolatos ellenőrzési feladatokban,
+a)[^11] az utazásszervező és -közvetítői tevékenység bejelentésére, nyilvántartásba vételére irányuló eljárásokban és az azokkal kapcsolatos ellenőrzési feladatokban,
 
 b) az idegenvezetői tevékenység bejelentésére és nyilvántartásba vételére irányuló eljárásban,
 
@@ -37,7 +37,7 @@ b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeret�
 (7)[^14] A lovas szolgáltatók bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül a szolgáltatás igénybevevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén a szakmai tevékenységért felelős személy szakképesítését igazoló okirat.
 
 [^10]: A 7. § (2) bekezdése a 245/2012. (VIII. 31.) Korm. rendelet 16. §-ával megállapított, a 7/2013. (I. 18.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
-[^11]: A 7. § (3) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^11]: A 7. § (3) bekezdés a) pontja a 441/2015. (XII. 28.) Korm. rendelet 136. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^12]: A 7. § (3) bekezdés f) pontját az 55/2011. (IV. 12.) Korm. rendelet 21. §-a iktatta be, szövege a 7/2013. (I. 18.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^13]: A 7. § (6) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (1) bekezdése iktatta be.
 [^14]: A 7. § (7) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (1) bekezdése iktatta be.

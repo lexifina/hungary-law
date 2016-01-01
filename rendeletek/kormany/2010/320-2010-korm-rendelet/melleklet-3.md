@@ -14,6 +14,6 @@
 
 | 5. | Magyar Kereskedelmi Engedélyezési Hivatal Piacfelügyeleti és Műszaki Felügyeleti Hatóság | ország egész területe |
 
-3–4. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^66]
+3–4. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^67]
 
-[^66]: A 3–4. mellékletet a 31/2014. (II. 12.) Korm. rendelet 42. § (1) bekezdése hatályon kívül helyezte.
+[^67]: A 3–4. mellékletet a 31/2014. (II. 12.) Korm. rendelet 42. § (1) bekezdése hatályon kívül helyezte.
