@@ -46,7 +46,7 @@ d) a beavatkozás során működtetett monitoring bemutatását, továbbá a bea
 
 e) a Kvt. 56. §-ának (1) bekezdés c) pontja szerinti esetekben a beavatkozással felmerült költségek ismertetését.
 
-(11)[^174] A vízvédelmi hatóság a beavatkozási záródokumentáció kézhezvételét követő két hónapon belül dönt:
+(11)[^174] A vízvédelmi hatóság a beavatkozási záródokumentáció kézhezvételét követően:
 
 a) a beavatkozás elégtelensége esetén annak folytatásáról,
 
@@ -66,4 +66,4 @@ e) a kármentesítés befejezéséről.
 [^171]: A 39/D. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
 [^172]: A 39/D. § (8) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
 [^173]: A 39/D. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
-[^174]: A 39/D. § (11) bekezdés nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 361. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^174]: A 39/D. § (11) bekezdés nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 361. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 56. §-a szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
