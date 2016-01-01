@@ -1,4 +1,4 @@
-## 1/A. [^3] A joghatósággal kapcsolatos adatok beszerzése
+## 1/A. [^6] A joghatósággal kapcsolatos adatok beszerzése
 
 4/A. § (1) A jegyző beszerzi az örökhagyó elhalálozása időpontjában szokásos tartózkodási helyének megállapításához szükséges adatokat.
 
@@ -18,4 +18,4 @@ f) az örökhagyó tulajdonát képező jelentősebb vagyontárgyai helye.
 
 (3) A jegyző az (1) bekezdés szerinti adatokról a hagyatéki leltár megküldésével egyidejűleg tájékoztatja a közjegyzőt.
 
-[^3]: Az 1/A. alcímet (4/A. §) a 12/2015. (VII. 23.) IM rendelet 4. § (1) bekezdése iktatta be.
+[^6]: Az 1/A. alcímet (4/A. §) a 12/2015. (VII. 23.) IM rendelet 4. § (1) bekezdése iktatta be.

@@ -1,14 +1,14 @@
-## 5. [^4] A zárgondnok, az ügygondnok és az eseti gondnok, valamint az eseti gyám díjazása és költségei
+## 5. [^7] A zárgondnok, az ügygondnok és az eseti gondnok, valamint az eseti gyám díjazása és költségei
 
-22. § (1)[^5] A hagyatéki eljárásban kirendelt zárgondnok, ügygondnok és eseti gondnok (a továbbiakban: gondnok), valamint eseti gyám költségtérítésként – a (2) bekezdésben foglalt kivétellel – a készkiadásainak megtérítését indítványozhatja.
+22. § (1)[^8] A hagyatéki eljárásban kirendelt zárgondnok, ügygondnok és eseti gondnok (a továbbiakban: gondnok), valamint eseti gyám költségtérítésként – a (2) bekezdésben foglalt kivétellel – a készkiadásainak megtérítését indítványozhatja.
 
-(2)[^6] A gondnok és az eseti gyám kérelmére a munkaórák tételes kimutatása mellett a munkadíj 25%-ának megfelelő összegű költségátalány fizetésére kerül sor.
+(2)[^9] A gondnok és az eseti gyám kérelmére a munkaórák tételes kimutatása mellett a munkadíj 25%-ának megfelelő összegű költségátalány fizetésére kerül sor.
 
-(3)[^7] A gondnokot és az eseti gyámot a kirendelés teljesítésére fordított idő alapján, minden megkezdett óráért munkadíj illeti meg, amely nem lehet magasabb, mint a költségvetési törvényben megállapított kirendelt ügyvédi óradíj.
+(3)[^10] A gondnokot és az eseti gyámot a kirendelés teljesítésére fordított idő alapján, minden megkezdett óráért munkadíj illeti meg, amely nem lehet magasabb, mint a költségvetési törvényben megállapított kirendelt ügyvédi óradíj.
 
 (4) A költségtérítés és munkadíj megelőlegezése és viselése e rendeletnek a biztosítási intézkedés költségeire vonatkozó szabályai megfelelő alkalmazásával történik.
 
-[^4]: Az 5. alcím címe a 21/2014. (III. 13.) KIM rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^5]: A 22. § (1) bekezdése a 21/2014. (III. 13.) KIM rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^6]: A 22. § (2) bekezdése a 21/2014. (III. 13.) KIM rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^7]: A 22. § (3) bekezdése a 21/2014. (III. 13.) KIM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 5. alcím címe a 21/2014. (III. 13.) KIM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^8]: A 22. § (1) bekezdése a 21/2014. (III. 13.) KIM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^9]: A 22. § (2) bekezdése a 21/2014. (III. 13.) KIM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^10]: A 22. § (3) bekezdése a 21/2014. (III. 13.) KIM rendelet 25. § (2) bekezdésével megállapított szöveg.

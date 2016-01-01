@@ -1,6 +1,6 @@
-## 25. §[^10] E rendelet 1. §-a, 4/A. §-a, 1. mellékletének 2.2.4. pontja, valamint 2. melléklete az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 25. §[^13] E rendelet 1. §-a, 4/A. §-a, 1. mellékletének 2.2.4. pontja, valamint 2. melléklete az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^11]
+1. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^14]
 
 ## A hagyatéki leltár nyomtatványának adattartalma
 
@@ -144,5 +144,5 @@
 
 11. A leltár mellékleteinek felsorolása
 
-[^10]: A 25. §-t a 12/2015. (VII. 23.) IM rendelet 4. § (5) bekezdése iktatta be.
-[^11]: Az 1. melléklet a 12/2015. (VII. 23.) IM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^13]: A 25. §-t a 12/2015. (VII. 23.) IM rendelet 4. § (5) bekezdése iktatta be.
+[^14]: Az 1. melléklet a 12/2015. (VII. 23.) IM rendelet 4. § (2) bekezdésével megállapított szöveg.

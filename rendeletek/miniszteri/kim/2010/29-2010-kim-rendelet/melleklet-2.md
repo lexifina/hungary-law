@@ -1,4 +1,4 @@
-2. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^12]
+2. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^15]
 
 ## A hagyatéki eljárási igazolás adattartalma
 
@@ -56,4 +56,4 @@
 
 4. Tájékoztatás a hagyatéki eljárási igazolás Törvény szerinti joghatásairól
 
-[^12]: A 2. mellékletet a 12/2015. (VII. 23.) IM rendelet 4. § (3) bekezdése iktatta be.
+[^15]: A 2. mellékletet a 12/2015. (VII. 23.) IM rendelet 4. § (3) bekezdése iktatta be.
