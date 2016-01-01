@@ -1,0 +1,3 @@
+5. § (1) Bármely kategóriába tartozó nukleáris és más radioaktív anyag sikertelen felkutatása esetén az OAH az ellenőrzés eredményéről az okok megjelölését tartalmazó jegyzőkönyv megküldésével tájékoztatja az Országos Rendőr-főkapitányságot (a továbbiakban: ORFK), az Alkotmányvédelmi Hivatalt (a továbbiakban: AH) és a hivatásos katasztrófavédelmi szerv területileg illetékes szervét.
+
+(2) Az OAH a radioaktív és a nukleáris anyagok központi nyilvántartásáról szóló jogszabályok szerint határozatban módosítja a központi és az érintett helyi nyilvántartást és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendelet szerinti érvényesítési eljárást indít az engedélyessel szemben.
