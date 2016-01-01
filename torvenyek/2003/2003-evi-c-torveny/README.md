@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2015-06-16 | 18/2015. (VI. 15.) AB határozat | 2003-100-00-00.55 |
 | 2015-07-16 | 2015. évi CXXXVIII. törvény | 2003-100-00-00.56 |
 | 2015-11-28 | 2015. évi CLXXXVIII. törvény | 2003-100-00-00.57 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 2003-100-00-00.58 |

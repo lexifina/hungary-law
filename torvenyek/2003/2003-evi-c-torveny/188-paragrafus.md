@@ -275,7 +275,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 99. Segélyhívás: a rendőrség, a mentőszolgálat, a tűzoltóság sürgősségi hívása rövid hívószámmal vagy az európai harmonizált segélyhívószámmal.
 
 99/A. Sikertelen hívás: minden olyan telefonhívás (beleértve a beszédalapú – akár hagyományos, akár IP-alapú – telefonálást, az üzenetrögzítővel való kapcsolatot, a konferenciahívást és az adathívást) vagy kiegészítő szolgáltatás (beleértve a hívástovábbítást és hívásátirányítást), amelynél a hálózati kapcsolat sikeresen létrejött, de a hívás megválaszolatlan maradt (nem fogadott vagy elutasított hívás), illetőleg hálózatkezelői beavatkozás miatt a létrejött kapcsolat automatikusan azonnali bontásra került (foglalt, kikapcsolt vagy más okból nem elérhető állomás hívása).
-
-99/b. SMS: rövid, szöveges üzenetszolgáltatás.
-
-99/c. Segélyszolgálati állomás: azon területileg illetékes szervezeti egység, amely az illetékességi területéről segélyhívó számmal kezdeményezett hívás fogadásáért jogszabály rendelkezése, illetve megállapodás alapján felelős.
