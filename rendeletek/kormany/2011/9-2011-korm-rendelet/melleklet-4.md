@@ -12,7 +12,7 @@
 
 ## Jelen vannak
 
-| Önkormányzat részéről: |  | A helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal részéről: |  |
+| Önkormányzat részéről: |  | A helyi önkormányzat székhelye szerint illetékes fővárosi és megyei kormányhivatal részéről: |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -36,7 +36,7 @@
 
 | P. H. P. H. ......................................... ......................................... |
 
-| Közlekedésfejlesztési Koordinációs Központ részéről: |  | a fővárosi és megyei kormányhivatal (építésügyi és örökségvédelmi feladatkörében) |  |
+| Közlekedésfejlesztési Koordinációs Központ részéről: |  | a fővárosi és megyei kormányhivatal (építésügyi feladatkörében) |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -134,6 +134,6 @@
 
 | E-mail: |  |
 
-4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^121]
+4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^144]
 
-[^121]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja szerint módosított szöveg.
+[^144]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § s) pontja szerint módosított szöveg.

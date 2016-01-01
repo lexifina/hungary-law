@@ -112,7 +112,7 @@
 
 | 5. Számlaösszesítő a katasztrófavédelmi szúnyoggyérítésről |
 
-| Sor- szám | Munka- folyamat meg- nevezése | Számla kiállítója | Számla sorszáma/ egyéb bizony- latok | Számla/ egyéb bizony- latok kelte | Teljesítés dátuma | Nettó összeg (Ft) | Áfa (Ft) | Bruttó összeg (Ft) | A helyi önkormányzat székhelye szerinti területileg illetékes fővárosi és megyei kormányhivatal észrevétele |
+| Sor- szám | Munka- folyamat meg- nevezése | Számla kiállítója | Számla sorszáma/ egyéb bizony- latok | Számla/ egyéb bizony- latok kelte | Teljesítés dátuma | Nettó összeg (Ft) | Le nem vonható áfa (Ft) | Bruttó összeg (Ft) | A helyi önkormányzat székhelye szerinti illetékes fővárosi és megyei kormányhivatal észrevétele |
 
 | 1. |  |  |  |  |  |  |  |  |  |
 
@@ -178,7 +178,7 @@
 
 ## E) ADATLAP
 
-## a katasztrófavédelmi szúnyoggyérítésre vonatkozó beszámolóhoz
+## a katasztrófavédelmi szúnyoggyérítésre vonatkozó elszámoláshoz
 
 ## Igénylésazonosító
 
@@ -192,7 +192,7 @@
 
 ## Katasztrófavédelmi szúnyoggyérítéshez elszámolt költségek
 
-| Sor- szám | Számla kiállítója | Számla sorszáma/ egyéb bizonylatok | Termék/ szolgáltatás megnevezé- se | Számla/ egyéb bizonylatok kelte | Teljesítés dátuma | Nettó összeg | Áfa | Bruttó összeg |
+| Sor- szám | Számla kiállítója | Számla sorszáma/ egyéb bizonylatok | Termék/ szolgáltatás megnevezé- se | Számla/ egyéb bizonylatok kelte | Teljesítés dátuma | Nettó összeg | Le nem vonható áfa | Bruttó összeg |
 
 | 1. |  |  |  |  |  |  |  |  |
 
@@ -224,6 +224,6 @@
 
 | polgármester | jegyző |
 
-10. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^127]
+10. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^150]
 
-[^127]: A 10. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése.
+[^150]: A 10. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése.

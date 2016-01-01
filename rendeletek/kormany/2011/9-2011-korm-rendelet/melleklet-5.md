@@ -4,7 +4,7 @@
 
 | Az ellenőrzés tárgya: |  |
 
-| A vis maior bejelentésben, az előzetes helyszíni vizsgálat jegyzőkönyvében, a pályázatban szereplő utak, hidak, kompok megjelölése (lehetőség szerint hrsz. feltüntetésével) | Szakmai vélemény az érintett utak, hidak, kompok vis maior eseményt követő helyreállítási munka igényéről, illetve annak mértékével kapcsolatban |
+| A vis maior bejelentésben, az előzetes helyszíni vizsgálat jegyzőkönyvében, a pályázatban szereplő utak, hidak, komp- és révátkelőhelyek megjelölése (lehetőség szerint hrsz. feltüntetésével) | Szakmai vélemény az érintett utak, hidak, komp- és révátkelőhelyek vis maior eseményt követő helyreállítási munka igényéről, illetve annak mértékével kapcsolatban |
 
 | 1. |  |
 
@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^122]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^145]
 
 Igénylésazonosító:
 
@@ -62,11 +62,9 @@ Vis maior pályázati adatlap
 
 | 4.b. | A káresemény rövid leírása (maximum 200 karakter): |  |
 
-5. A káresemény helyszínének és mennyiségi mutatóinak ismertetése:
+5. A káresemény helyszínének és mennyiségi mutatóinak ismertetése: adatok forintban
 
-adatok forintban
-
-| Sorszám | Vis maior esemény megnevezése (az előre nem látható természeti vagy más eredetű veszély miatt szükségessé váló védekezés, önkormányzati épület, út, híd, komp, ár-, belvízvédelmi vízilétesítmény, pince-, partfal stb.) | Rövid leírás | Település | Utca, házszám | Hrsz. | Érintett alapterület (m2, fm) | A szakértői nyilatkozat szerinti megvalósítandó munkafeladat | Mennyiség | Egységár | Nettó | Bruttó | Számlával eddig alátámasztva összesen bruttó | Számla sorszáma | A helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal észrevétele |
+| Sor- szám | Vis maior esemény megnevezése (az előre nem látható természeti vagy más eredetű veszély miatt szükségessé váló védekezés, önkormányzati épület, út, híd, komp- és révátkelőhely, ár-, belvízvédelmi vízilétesítmény, pince-, partfal stb.) | Rövid leírás | Település | Utca, házszám | Hrsz. | Érintett alap- terület (m2, fm) | A szakértői nyilat- kozat szerinti megvaló- sítandó munka- feladat | Mennyiség | Egységár | Nettó | Bruttó | Számlával eddig alátá- masztva összesen bruttó | Számla sorszáma | A helyi önkor- mányzat székhelye szerint illetékes fővárosi és megyei kormány- hivatal észrevétele |
 
 |  | 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | 13. | 14. |
 
@@ -92,96 +90,86 @@ adatok forintban
 
 A táblázatban maximum 10 sor vehető fel. Azonos vis maior eseményekhez kapcsolódó költségek összevonhatók egy sorba.
 
-| 6. | Káresemény bejelentésének időpontja: |  |
+|  | 6. | Káresemény bejelentésének időpontja: |  |
 
-| 7. | A 3. § (6) bekezdése szerinti előzetes helyszíni vizsgálat időpontja: |  |
+|  | 7. | A 3. § (6) bekezdése szerinti előzetes helyszíni vizsgálat időpontja: |  |
 
-| 8. | A helyreállítás megkezdésének időpontja: |  |
+|  | 8. | A helyreállítás megkezdésének időpontja: |  |
 
-| 9. | A helyreállítás tervezett befejezési időpontja: |  |
+|  | 9. | A helyreállítás tervezett befejezési időpontja: |  |
 
-| 10. | Védekezési fokozat elrendelésének időpontja: |  |
+|  | 10. | Védekezési fokozat elrendelésének időpontja: |  |
 
-| 11. | Védekezési fokozat mértéke: |  |
+|  | 11. | Védekezési fokozat mértéke: |  |
 
-| 12. | Védekezés megszüntetésének időpontja: |  |
+|  | 12. | Védekezés megszüntetésének időpontja: |  |
 
-| A 10–12. pontok ár- vagy belvíz elleni védekezés esetén töltendők ki |
+|  | A 10–12. pontok ár- vagy belvíz elleni védekezés esetén töltendők ki |
 
-| 13. | Az 5. pontban bemutatott költségek részletezése, költségelőirányzata: |  |
+|  | 13. | Az 5. pontban bemutatott költségek részletezése, költségelőirányzata: |  |
 
-| 13.a. | Helyreállítási költség: |  |
+|  | 13.a. | Helyreállítási költség: |  |
 
-| 13.b. | Védekezési költség: |  |
+|  | 13.b. | Védekezési költség: |  |
 
-| 14. |  |  |
+|  | 14. | Az igényelt vis maior támogatás tekintetében általános forgalmi adó levonására jogosult-e (igen/nem) |  |
 
-| 14.a. |  |  |
+|  | 15. | Nettó költségek összesen: |  |
 
-| 14.b. |  |  |
+|  | 16. | Le nem vonható áfa: |  |
 
-| 14.c. |  |  |
+|  | 17. | Bruttó költségek összesen: |  |
 
-| 14.d. |  |  |
+|  | 18. | A helyreállítás/védekezés pénzügyi forrásösszetétele (vis maior támogatás nélkül) |  |
 
-| A káresemény helyszínének és mennyiségi mutatóinak ismertetése szerinti táblában (5. pont) vis maior eseményenként rögzített költségekből az egyéb költségeket a fenti bontásban szükséges megadni (Az 5. pontban valamennyi egyéb költséget is tartalmaznia kell a költségeknek!) |
+|  | 18.a. | Önerő: |  |
 
-| 15. | Nettó költségek összesen: |  |
+|  | 18.b. | Hitel: |  |
 
-| 16. | Vissza nem igényelhető áfa: |  |
+|  | 18.c. | Biztosító kártérítése: |  |
 
-| 17. | Bruttó költségek összesen: |  |
+|  | 18.d. | Egyéb támogatás: |  |
 
-| 18. | A helyreállítás/védekezés pénzügyi forrásösszetétele (vis maior támogatás nélkül) |  |
+|  | 18.e. | Források összesen (vis maior támogatás nélkül): |  |
 
-| 18.a. | Önerő: |  |
+|  | 19. | Vis maior támogatás igénylésének jogcímei |  |
 
-| 18.b. | Hitel: |  |
+|  | 20. | Az 5. § (2) bekezdése a) pontjának megfelel (igen/nem) |  |
 
-| 18.c. | Biztosító kártérítése: |  |
+|  | 21. |  |  |
 
-| 18.d. | Egyéb támogatás: |  |
+|  | 22. | Az 5. § (2) bekezdése c) pontjának megfelel (igen/nem) |  |
 
-| 18.e. | Források összesen (vis maior támogatás nélkül): |  |
+|  | 23. | Az önkormányzat adósságrendezési eljárás alatt áll (igen/nem) |  |
 
-| 19. | Vis maior támogatás igénylésének jogcímei |  |
+|  | 24. | Védekezési költséghez igényelt támogatás a Kormány által kihirdetett veszélyhelyzet kihirdetése esetén |  |
 
-| 20. | Az 5. § (2) bekezdése a) pontjának megfelel (igen/nem) |  |
+|  | 25. | Védekezési költséghez igényelt támogatás vészhelyzet kihirdetése nélkül |  |
 
-| 21. |  |  |
+|  | 26. | Védekezésre igényelt támogatás összesen (24+25. sorok összege): |  |
 
-| 22. | Az 5. § (2) bekezdése c) pontjának megfelel (igen/nem) |  |
+|  | 27. | Igényelt támogatás utak, hidak, komp- és révátkelőhelyek károsodása esetén: |  |
 
-| 23. | Az önkormányzat adósságrendezési eljárás alatt áll (igen/nem) |  |
+|  | 28. | Igényelt támogatás pince- vagy partfalomlás, földcsuszamlás esetén: |  |
 
-| 24. | Védekezési költséghez igényelt támogatás a Kormány által kihirdetett veszélyhelyzet kihirdetése esetén |  |
+|  | 29. | Igényelt támogatás oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek károsodása esetén: |  |
 
-| 25. | Védekezési költséghez igényelt támogatás vészhelyzet kihirdetése nélkül |  |
+|  | 30. | Igényelt támogatás igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló feladatot szolgáló épületek károsodása esetén: |  |
 
-| 26. | Védekezésre igényelt támogatás összesen (24.+25. sorok összege): |  |
+|  | 31. | Igényelt támogatás ár- és belvízvédelmi vízilétesítmények, közmű- és műtárgyai károsodása esetén: |  |
 
-| 27. | Igényelt támogatás utak, hidak, kompok károsodása esetén: |  |
+|  | 32. | Helyreállítási költségekhez igényelt támogatás összesen (27+28+29+30+31. sorok összege): |  |
 
-| 28. | Igényelt támogatás pince- vagy partfalomlás, földcsuszamlás esetén: |  |
+|  | 33. | Vis maior támogatási igény összesen (26+32. sorok összege): |  |
 
-| 29. | Igényelt támogatás oktatási, kulturális, szociális és egészségügyi feladatot szolgáló épületek károsodása esetén: |  |
-
-| 30. | Igényelt támogatás igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló feladatot szolgáló épületek károsodása esetén: |  |
-
-| 31. | Igényelt támogatás ár- és belvízvédelmi vízilétesítmények, közmű- és műtárgyai károsodása esetén: |  |
-
-| 32. | Helyreállítási költségekhez igényelt támogatás összesen (27.+28.+29.+30.+31. sorok összege): |  |
-
-| 33. | Vis maior támogatási igény összesen (26.+32. sorok összege): |  |
-
-Büntetőjogi felelősségem tudatában kijelentem, hogy a pályázatban foglaltak a valóságnak megfelelnek, teljeskörűek és hitelesek. Az adatokban bekövetkezett, a védekezési munkálatok, a tervezett helyreállítási munkálatok megvalósítását akadályozó változásokról a minisztert haladéktalanul értesítem. Tudomásul veszem, hogy a pályázat elfogadása esetén a támogatás tényét a miniszter nyilvánosságra hozza.
+Büntetőjogi felelősségem tudatában kijelentem, hogy a pályázatban foglaltak a valóságnak megfelelnek, teljes körűek és hitelesek. Az adatokban bekövetkezett, a védekezési munkálatok, a tervezett helyreállítási munkálatok megvalósítását akadályozó változásokról a minisztert haladéktalanul értesítem. Tudomásul veszem, hogy a pályázat elfogadása esetén a támogatás tényét a miniszter nyilvánosságra hozza.
 
 Kelt:
 
 P. H.
 
-| ........................................... | ................................................................ |
+| ................................................................ | ................................................................ |
 
 | polgármester/elnök | jegyző |
 
-[^122]: Az 5. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 30. pontja, a 397/2014. (XII. 31.) Korm. rendelet 68. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^145]: Az 5. melléklet a 383/2015. (XII. 8.) Korm. rendelet második 15. § a) pontjával megállapított szöveg.

@@ -1,3 +1,3 @@
-## 11. §[^116]
+## 11. §[^139]
 
-[^116]: A 11. §-t a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^139]: A 11. §-t a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.

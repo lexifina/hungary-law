@@ -14,7 +14,7 @@
 
 | 6. | Fax: |  |
 
-| 7. | Vis maior esemény megnevezése (több is választható): | (az előre nem látható természeti vagy más eredetű erők által fenyegető veszély bekövetkezésének lehetősége miatt szükségessé váló védekezés, önkormányzati épület helyreállítása, út helyreállítása, híd helyreállítása, komp helyreállítása, ár-, belvízvédelmi vízilétesítmény helyreállítása, közmű- és műtárgyainak helyreállítása, pince-, partfal helyreállítása, földcsuszamlás helyreállítása) |
+| 7. | Vis maior esemény megnevezése (több is választható): | (az előre nem látható természeti vagy más eredetű erők által fenyegető veszély bekövetkezésének lehetősége miatt szükségessé váló védekezés, önkormányzati épület helyreállítása, út helyreállítása, híd helyreállítása, komp- és révátkelőhelyek helyreállítása, ár-, belvízvédelmi vízilétesítmény helyreállítása, közmű- és műtárgyainak helyreállítása, pince-, partfal helyreállítása, földcsuszamlás helyreállítása) |
 
 | 8. | Vis maior esemény pontos időpontja: |  |
 
@@ -124,6 +124,6 @@
 
 ## Telefon:
 
-2. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^119]
+2. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^142]
 
-[^119]: A 2. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 27. pontja szerint módosított szöveg.
+[^142]: A 2. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 27. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3/A. §[^38] (1) A települést ért különösen súlyos természeti károk mérséklésére – a katasztrófavédelmi szúnyoggyérítés kivételével –
+3/A. §[^41] (1) A települést ért különösen súlyos természeti károk mérséklésére – a katasztrófavédelmi szúnyoggyérítés kivételével –
 
 a) a 2/A. § (1) bekezdés a) pontja szerinti támogatás az 1. melléklet B) része szerinti adatlapon feltüntetett előzetesen becsült védekezési költségek legfeljebb 50%-ának mértékéig,
 
@@ -6,27 +6,33 @@ b) a 2/A. § (1) bekezdés b) pontja szerinti támogatás az 1. melléklet B) r�
 
 ## támogatási előlegként is nyújtható.
 
-(2) A helyi önkormányzat a támogatási előleg iránti kérelmét – legfeljebb a 4. § (1) bekezdés szerinti pályázat lezárásáig – az ebr42 rendszerben az 1. melléklet B) része szerinti adatlapon rögzíti és azt telefaxon keresztül nyújtja be a miniszternek. A miniszter – a BM Országos Katasztrófavédelmi Főigazgatóság egyidejű értesítésével – haladéktalanul megkeresi a helyi önkormányzat székhelye szerint illetékes Katasztrófavédelmi Igazgatóságot, amely az ebr42 rendszerben az 1. melléklet C) része szerinti adatlap kitöltésével haladéktalanul, de legkésőbb a megkereséstől számított 3 napon belül javaslatot tesz a támogatási előleg összegére.
+(2)[^42] A helyi önkormányzat a támogatási előleg iránti kérelmét – legfeljebb a 4. § (1) bekezdés szerinti pályázat lezárásáig – az ebr42 rendszerben az 1. melléklet B) része szerinti adatlapon rögzíti. A miniszter – a BM Országos Katasztrófavédelmi Főigazgatóság egyidejű értesítésével – haladéktalanul megkeresi a helyi önkormányzat székhelye szerint illetékes Katasztrófavédelmi Igazgatóságot, amely az ebr42 rendszerben az 1. melléklet C) része szerinti adatlap kitöltésével haladéktalanul, de legkésőbb a megkereséstől számított 3 napon belül javaslatot tesz a támogatási előleg összegére.
 
-(3) A támogatási előlegről a miniszter támogatói okiratot állít ki.
+(3)[^43] A támogatási előlegről a miniszter az ebr42 rendszerben elektronikus támogatói okiratot állít ki.
 
-(4) A támogatási előleget a kincstár a miniszter utalványozása alapján folyósítja.
+(4)[^44] A támogatási előleget a Magyar Államkincstár (a továbbiakban: kincstár) a miniszter utalványozása alapján folyósítja.
 
 (5) A helyi önkormányzat a 2/A. § (1) bekezdés a) pontja szerinti támogatáshoz kapcsolódó támogatási előleggel a pályázat benyújtásával, a 2/A. § (1) bekezdés b) pontja szerinti támogatáshoz kapcsolódó támogatási előleggel a támogatás első teljesítésarányos lehívásával számol el.
 
-(6)[^39] Ha a helyi önkormányzat
+(6)[^45] Ha a helyi önkormányzat
 
-a) a 4. § (1) bekezdése szerinti határidőig
+a) a 4. § (1) bekezdés szerinti határidő lejártáig a pályázatot nem nyújtotta be vagy
 
-aa) a támogatási előlegről lemondott vagy
+b) a pályázat a 4. § (2) bekezdése szerinti vizsgálatot követően a kincstár által nem került továbbításra a miniszter részére
 
-ab) a pályázatot nem nyújtotta be vagy
+## a kincstár a folyósított előlegre vonatkozó visszafizetési kötelezettségről a 4. § (1) bekezdése szerinti határidő lejártától számított 14 napon belül értesíti a helyi önkormányzatot és a minisztert.
 
-b) a pályázat
+(6a)[^46] Ha a helyi önkormányzat a támogatási előlegről lemondott, a már folyósításra került támogatási előleget 4. § (1) bekezdése szerinti határidő lejártát követő 7 napon belül köteles visszafizetni.
 
-ba) a 4. § (2) bekezdése szerinti felülvizsgálatot követően a kincstár által nem került továbbításra a miniszter részére vagy
+(6b)[^47] Ha a pályázat a 7. § (1) bekezdés szerint a miniszter által elutasításra került, a támogatói okirat visszavonásáról szóló értesítést elektronikus úton küldi meg a helyi önkormányzatnak, a kincstár értesítésével egyidejűleg, mely alapján a kincstár az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 99. § (2) bekezdése szerinti fizetési felszólítást küld a helyi önkormányzatnak.
 
-bb) az elbírálásra jogosult szerv által elutasításra került,
+(7)[^48] A jogosulatlanul igénybe vett előlegről a helyi önkormányzat az Ávr. 78. § (2) bekezdés b) pontjának és az Ávr. 97–99. §-ainak a változás bejelentésének módjára és az ezt követő intézkedésekre, a visszafizetésre, valamint az ügyleti és a késedelmi kamat mértékére és számítására vonatkozó rendelkezései megfelelő alkalmazásával köteles lemondani és azt ügyleti kamattal, illetőleg késedelmi kamattal együtt visszafizetni. A jogosulatlanul igénybe vett előleg visszafizetésének elmulasztása esetén a kincstár beszedési megbízást nyújt be a kötelezett fizetési számlájára.
 
-[^38]: A 3/A. §-t a 129/2014. (IV. 10.) Korm. rendelet 4. §-a iktatta be.
-[^39]: A 3/A. § (6) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 63. §-ával megállapított szöveg.
+[^41]: A 3/A. §-t a 129/2014. (IV. 10.) Korm. rendelet 4. §-a iktatta be.
+[^42]: A 3/A. § (2) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^43]: A 3/A. § (3) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^44]: A 3/A. § (4) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^45]: A 3/A. § (6) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^46]: A 3/A. § (6a) bekezdését a 383/2015. (XII. 8.) Korm. rendelet 5. §-a iktatta be.
+[^47]: A 3/A. § (6b) bekezdését a 383/2015. (XII. 8.) Korm. rendelet 5. §-a iktatta be.
+[^48]: A 3/A. § (7) bekezdését a 383/2015. (XII. 8.) Korm. rendelet 6. §-a iktatta be.

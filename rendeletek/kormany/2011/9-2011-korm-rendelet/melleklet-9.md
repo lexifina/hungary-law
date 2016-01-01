@@ -1,6 +1,6 @@
 ## Igénylésazonosító:
 
-## A) Adatlap a vis maior támogatásra vonatkozó beszámolóhoz
+## A) Adatlap a vis maior támogatásra vonatkozó elszámoláshoz
 
 | 1. | Támogatott Önkormányzat |  |
 
@@ -22,7 +22,7 @@
 
 | 9.a. | Védekezés esetében |  |
 
-| 9.b. | Út, híd, komp esetében |  |
+| 9.b. | Út, híd, komp- és révátkelőhely esetében |  |
 
 | 9.c. | Pince-, partfalomlás, földcsuszamlás esetében |  |
 
@@ -36,7 +36,7 @@
 
 | 10.a. | Védekezés esetében |  |
 
-| 10.b. | Út, híd, komp esetében |  |
+| 10.b. | Út, híd, komp- és révátkelőhely esetében |  |
 
 | 10.c. | Pince-, partfalomlás, földcsuszamlás esetében |  |
 
@@ -50,7 +50,7 @@
 
 | 11.a. | Védekezés esetében |  |
 
-| 11.b. | Út, híd, komp esetében |  |
+| 11.b. | Út, híd, komp- és révátkelőhely esetében |  |
 
 | 11.c. | Pince-, partfalomlás, földcsuszamlás esetében |  |
 
@@ -64,7 +64,7 @@
 
 | 12.a. | Védekezés esetében |  |
 
-| 12.b. | Út, híd, komp esetében |  |
+| 12.b. | Út, híd, komp- és révátkelőhely esetében |  |
 
 | 12.c. | Pince-, partfalomlás, földcsuszamlás esetében |  |
 
@@ -78,9 +78,11 @@
 
 | 13. | Visszafizetendő támogatás (12. és 9. pontok szerinti vis maior eseményenként részletezettek alapján) |  |
 
+| 14. | A vis maior támogatás tekintetében általános forgalmi adó levonására jogosult-e (igen/nem) |  |
+
 |  |  | Számlaösszesítő a vis maior támogatásra vonatkozó beszámolóhoz |
 
-|  | Sor- szám | Vis maior esemény | Számla kiállítója | Számla sorszáma/ egyéb bizonylatok | Termék/ szolgáltatás megnevezése | Számla/ egyéb bizonylatok kelte | Teljesítés dátuma | Nettó összeg | Áfa | Bruttó összeg |
+|  | Sor- szám | Vis maior esemény | Számla kiállítója | Számla sorszáma/ egyéb bizonylatok | Termék/ szolgáltatás megnevezése | Számla/ egyéb bizonylatok kelte | Teljesítés dátuma | Nettó összeg | Le nem vonható áfa | Bruttó összeg |
 
 |  | 1. |  |  |  |  |  |  |  |  |  |
 
@@ -134,7 +136,7 @@
 
 ## Jelen vannak
 
-| Önkormányzat részéről: |  | A helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal részéről: |  |
+| Önkormányzat részéről: |  | A helyi önkormányzat székhelye szerint illetékes fővárosi és megyei kormányhivatal részéről: |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -158,7 +160,7 @@
 
 | P. H. ............................................... | P. H. ............................................... |
 
-| Közlekedésfejlesztési Koordinációs Központ részéről: |  | a fővárosi és megyei kormányhivatal (építésügyi és örökségvédelmi feladatkörében) |  |
+| Közlekedésfejlesztési Koordinációs Központ részéről: |  | a fővárosi és megyei kormányhivatal (építésügyi feladatkörében) |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -188,13 +190,13 @@
 
 | 6 | Helyreállítás tényleges befejezésének időpontja: |  |
 
-| 7 | Beszámoló benyújtásának időpontja: |  |
+| 7 | Az elszámolás benyújtásának időpontja: |  |
 
 | 8 | Vizsgált dokumentumok felsorolása: |  |
 
 | 9 | A helyreállítás a szakértői vélemény és a támogatói okirat alapján elkészült kiviteli terv és annak költségvetése alapján valósult meg (igen/nem) |  |
 
-| 10 | A beszámolóban szereplő dokumentáció és annak tartalma megfelel a helyszínen tapasztaltaknak (igen/nem) |  |
+| 10 | Az elszámolásban szereplő dokumentáció és annak tartalma megfelel a helyszínen tapasztaltaknak (igen/nem) |  |
 
 | 11 | Értékkövető biztosítás van/lett kötve az ingatlanra (igen/nem) |  |
 
@@ -210,6 +212,6 @@
 
 | 17 | Intézkedési javaslat: |  |
 
-9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^126]
+9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^149]
 
-[^126]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 10. § b) pontjával megállapított szöveg, a Magyar Közlöny 2014. évi 54. számában megjelent helyesbítésnek megfelelő szöveg.
+[^149]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 10. § b) pontjával megállapított, a Magyar Közlöny 2014. évi 54. számában megjelent helyesbítésnek megfelelő, a 383/2015. (XII. 8.) Korm. rendelet 15. § f), u) és v) pontja szerint módosított szöveg. A 15. § f) pontjában szereplő további módosítás – mely szerint a 9. melléklet „B) UTÓLAGOS HELYSZÍNI VIZSGÁLAT JEGYZŐKÖNYVE” alcímében a „területileg illetékes” szövegrész helyébe az „illetékes” szöveg lép – nem vezethető át.

@@ -4,7 +4,7 @@
 
 | 1. | Helyreállításra nyújtott támogatás összege vis maior eseményenként |  |
 
-| 1.a. | Út, híd, komp esetében (Ft) |  |
+| 1.a. | Út, híd, komp- és révátkelőhely esetében (Ft) |  |
 
 | 1.b. | Pince-, partfalomlás, földcsuszamlás esetében (Ft) |  |
 
@@ -18,7 +18,7 @@
 
 | 2. | Támogatási mérték a helyreállítási költségek esetében vis maior eseményenként |  |
 
-| 2.a. | Út, híd, komp esetében (%) |  |
+| 2.a. | Út, híd, komp- és révátkelőhely esetében (%) |  |
 
 | 2.b. | Pince-, partfalomlás, földcsuszamlás esetében (%) |  |
 
@@ -58,6 +58,6 @@
 
 |  |  | 7. | Utalást követően a helyreállítási költségekhez kapcsolódó – le nem hívott – vis maior támogatás összege (5.–6.) |  |
 
-8. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^125]
+8. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^148]
 
-[^125]: A 8. melléklet a 129/2014. (IV. 10.) Korm. rendelet 10. § a) pontjával megállapított, a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^148]: A 8. melléklet a 129/2014. (IV. 10.) Korm. rendelet 10. § a) pontjával megállapított, a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés c) pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § f), r), t), u), v), w) és x) pontja, és a második 15. § c) pontja szerint módosított szöveg.
