@@ -1,0 +1,5 @@
+115. § (1) A biztosító és a viszontbiztosító köteles a könyvvizsgálóval kötött azon szerződést, amely alapján a könyvvizsgáló az éves beszámoló könyvvizsgálatára köteles, és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
+
+(2) A Felügyelet jogosult a könyvvizsgáló jelentésének alapján a biztosító és a viszontbiztosító igazgatóságánál kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót vizsgáltassa felül, helyesbítse, gondoskodjon a helyesbített adatok könyvvizsgálóval történő hitelesítéséről.
+
+(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti az igazgatóságot az adatok módosítására, és a könyvvizsgálóval való felülvizsgálatára. A módosított, és a könyvvizsgáló által felülvizsgált adatot a közgyűlés elé történő beterjesztése előtt a biztosító és a viszontbiztosító köteles a Felügyeletnek bemutatni, és a közgyűlés által jóváhagyott beszámolót ismételten közzétenni.

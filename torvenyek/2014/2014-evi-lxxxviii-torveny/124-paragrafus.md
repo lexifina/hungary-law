@@ -1,0 +1,3 @@
+124. § (1) A biztosító a biztosítási szerződési feltételekben köteles meghatározni, hogy a biztosítási esemény bekövetkezése esetén milyen szolgáltatásokat és költségeket milyen okiratok bemutatása ellenében teljesít.
+
+(2) A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett biztosítási esemény tekintetében indult büntető- vagy szabálysértési eljárás jogerős befejezéséhez nem kötheti.

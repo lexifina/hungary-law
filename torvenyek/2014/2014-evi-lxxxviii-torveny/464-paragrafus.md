@@ -1,0 +1,1 @@
+464. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 62. § j) pontjában a „biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény Nyolcadik rész III. fejezetében” szövegrész helyébe a „biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény XXV. fejezetében” szöveg lép.

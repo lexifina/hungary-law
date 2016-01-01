@@ -1,5 +1,0 @@
-## XXIII. Fejezet
-
-## A FELÜGYELET ADATKEZELÉSE
-
-### 321–323. §

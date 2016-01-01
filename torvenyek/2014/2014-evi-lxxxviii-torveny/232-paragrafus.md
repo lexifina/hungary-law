@@ -1,0 +1,1 @@
+232. § A kisbiztosító-egyesület képviseletére – ideértve a pénzforgalmi számla feletti rendelkezést is – az ügyintéző és képviseleti szerv tagjai és az első számú vezető, vagy annak helyettesei önállóan vagy együttesen jogosultak.

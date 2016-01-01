@@ -1,0 +1,1 @@
+458. § A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 2. § (1) bekezdés c) pontjában az „a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.)” szövegrész helyébe az „a biztosítási tevékenységről szóló törvény” szöveg lép.

@@ -1,0 +1,3 @@
+205. § (1) Az elsőtől a negyedik részben meghatározott szabályokat az e részben foglalt eltérésekkel kell alkalmazni a 204. §-ban meghatározott kisbiztosítók esetében.
+
+(2) Az elsőtől a negyedik részben meghatározott szabályokat kell alkalmazni minden olyan biztosítási tevékenység folytatására engedélyt kérő vállalkozásra, amelynek a Felügyelet részére benyújtott öt évre szóló üzleti tervében foglaltak alapján megállapítható, hogy az éves bruttó díjbevétele, vagy a – viszontbiztosítási szerződések alapján és a különleges célú gazdasági egységektől megtérülő összegekkel együtt számított – bruttó biztosítástechnikai tartalékai várhatóan öt éven belül meghaladják az 204. § (1) bekezdésében meghatározott valamely küszöbértéket.

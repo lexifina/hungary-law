@@ -1,0 +1,1 @@
+242. § Az alapítási engedély birtokában az alapító a biztosító vagy a viszontbiztosító megalapításához, és a biztosítási, valamint az azzal közvetlenül összefüggő tevékenységének előkészítéséhez szükséges tevékenységet végezhet.

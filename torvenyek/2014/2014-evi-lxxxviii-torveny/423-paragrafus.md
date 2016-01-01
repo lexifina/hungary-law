@@ -1,3 +1,3 @@
 ## 184. Másik tagállamban székhellyel rendelkező biztosításközvetítő magyarországi tevékenységének megkezdésére vonatkozó szabályok
 
-### 423. §
+423. § Ha a Felügyeletet másik tagállam felügyeleti hatósága arról tájékoztatja, hogy a tagállam területén biztosításközvetítői tevékenységre jogosult első alkalommal kíván Magyarország területén biztosításközvetítői fióktelepet létesíteni, vagy határon átnyúló szolgáltatás keretében tevékenységet végezni, a Felügyelet a felügyeleti tájékoztatás kézhezvételétől számított egy hónapon belül tájékoztatja a biztosításközvetítőt a tevékenységvégzésre vonatkozó magyar szabályozásról.

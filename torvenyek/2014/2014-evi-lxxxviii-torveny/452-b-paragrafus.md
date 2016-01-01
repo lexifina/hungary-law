@@ -1,0 +1,1 @@
+452/B. § A 110. § (4) és (5) bekezdésének – az egyes tőkepiaci és biztosítási tárgyú törvények módosításáról szóló 2015. évi CLXII. törvénnyel megállapított – rendelkezéseit a 2017. január 1-jén vagy azt követően megkötött életbiztosítási szerződésekre kell alkalmazni.
