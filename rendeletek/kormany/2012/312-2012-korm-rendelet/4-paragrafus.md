@@ -4,7 +4,7 @@
 
 ## 4. Ügyféli kör
 
-4. § (1)[^8] Az építésügyi hatóság engedélyezési és tudomásulvételi eljárásában, az építésfelügyeleti hatóság építésrendészeti és a bontási tevékenység megkezdésének tudomásulvételi eljárásában külön vizsgálat nélkül ügyfélnek minősül az építtető és az építési tevékenységgel érintett telek – az országos településrendezési és építési követelményekről szóló kormányrendelet szerinti mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek, építmény, építményrész tulajdonosa.
+4. § (1)[^15] Az építésügyi hatóság engedélyezési és tudomásulvételi eljárásában, az építésfelügyeleti hatóság építésrendészeti és a bontási tevékenység megkezdésének tudomásulvételi eljárásában külön vizsgálat nélkül ügyfélnek minősül az építtető és az építési tevékenységgel érintett telek – az országos településrendezési és építési követelményekről szóló kormányrendelet szerinti mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek, építmény, építményrész tulajdonosa.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően az építésügyi és az építésfelügyeleti hatósági eljárásokban minden esetben vizsgálni kell az ügyféli jogállását annak, akinek az építési tevékenységgel érintett telekre, építményre vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
 
@@ -14,4 +14,4 @@
 
 (5) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 53/C. § (7) bekezdése alkalmazása során nyilatkozatnak kell tekinteni a tényállás tisztázására felhasználható tényekről, bizonyítékokról nyújtott ismereteket, vagy a tanúvallomással, a szakértői véleménnyel, a helyszíni szemlén vagy az ellenőrzés során tett megállapítással kapcsolatos észrevételt.
 
-[^8]: A 4. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (2) bekezdésével megállapított szöveg.
+[^15]: A 4. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (2) bekezdésével megállapított szöveg.

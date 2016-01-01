@@ -1,4 +1,4 @@
-## 24. [^55] Az összevont telepítési eljárás iránti kérelem és az eljárás megindulása
+## 24. [^76] Az összevont telepítési eljárás iránti kérelem és az eljárás megindulása
 
 31. § (1) Az összevont telepítési eljárás lefolytatására irányuló kérelemnek – a kérelmezett eljárásoktól függően – tartalmaznia kell
 
@@ -36,4 +36,4 @@ ba) az építtetőt és az építési tevékenységgel érintett telek – az or
 
 bb) az ismert ügyfelet.
 
-[^55]: A 24. alcím (31. §) a 70/2015. (III. 30.) Korm. rendelet 206. § (12) bekezdésével megállapított szöveg.
+[^76]: A 24. alcím (31. §) a 70/2015. (III. 30.) Korm. rendelet 206. § (12) bekezdésével megállapított szöveg.

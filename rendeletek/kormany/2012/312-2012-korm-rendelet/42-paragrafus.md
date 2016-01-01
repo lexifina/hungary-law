@@ -18,7 +18,7 @@ tudomásul veszi.
 
 a) az országos építési követelményektől eltérő műszaki megoldás engedélyezésére,
 
-b)[^72] nyilvántartott műemléki érték, műemlék esetén az örökségvédelmi engedélyre,
+b)[^104] nyilvántartott műemléki érték, műemlék esetén az örökségvédelmi engedélyre,
 
 c) az (1) bekezdés szerinti jogszerűtlenül vagy szakszerűtlenül megépített építmény
 
@@ -34,9 +34,9 @@ a) jogszabályban előírt esetekben
 
 aa) a települési önkormányzat polgármesterének településképi véleményét vagy
 
-ab)[^73] a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
+ab)[^105] a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
 
-b)[^74]
+b)[^106] az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot, ha az építési tevékenységet építési napló vezetése nélkül végezték,
 
 c) az eljárási illeték, igazgatási szolgáltatási díj befizetésének igazolását.
 
@@ -62,6 +62,6 @@ a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakh
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, és az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^72]: A 42. § (3) bekezdés b) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (8) bekezdésével megállapított szöveg.
-[^73]: A 42. § (4) bekezdés a) pont ab) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 7. pontja szerint módosított szöveg.
-[^74]: A 42. § (4) bekezdés b) pontját a 77. § hatályon kívül helyezte.
+[^104]: A 42. § (3) bekezdés b) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (8) bekezdésével megállapított szöveg.
+[^105]: A 42. § (4) bekezdés a) pont ab) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 7. pontja szerint módosított szöveg.
+[^106]: A 42. § (4) bekezdés b) pontját a 77. § hatályon kívül helyezte, újonnan a 441/2015. (XII. 28.) Korm. rendelet 179. § (13) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

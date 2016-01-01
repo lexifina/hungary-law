@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^146]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^207]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -42,7 +42,7 @@ f) újjáépíteni.
 
 7. A 14. pont e) alpontjában és a 30. pontban foglaltak figyelembevételével a kereskedelmi, vendéglátó rendeltetésű épület építése, bővítése, melynek mérete az építési tevékenység után sem haladja meg a nettó 20,0 m2 alapterületet.
 
-8. Nem emberi tartózkodásra szolgáló építmény építése, bővítése, melynek mérete az építési tevékenység után sem haladja meg a nettó 50 m3 térfogatot és 3,0 m gerincmagasságot.
+8. Nem emberi tartózkodásra szolgáló építmény építése, átalakítása, felújítása, valamint bővítése, melynek mérete az építési tevékenység után sem haladja meg a nettó 50 m3 térfogatot és 3,0 m gerincmagasságot.
 
 9. Önálló reklámtartó építmény építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése, megváltoztatása, melynek mérete az építési tevékenység után sem haladja meg
 
@@ -136,4 +136,4 @@ f) újjáépíteni.
 
 34. Közterületen, filmforgatáshoz kapcsolódó építmény létesítése.
 
-[^146]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 29. pontja, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 38/2015. (III. 11.) Korm. rendelet 18. § (12) bekezdés b) pontja, (13) bekezdés a) pontja szerint módosított szöveg.
+[^207]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 29. pontja, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 38/2015. (III. 11.) Korm. rendelet 18. § (12) bekezdés b) pontja, (13) bekezdés a) pontja, a 441/2015. (XII. 28.) Korm. rendelet 180. § 14. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

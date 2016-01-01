@@ -1,6 +1,6 @@
 ## 26. Integrált építési engedélyezési szakasz
 
-35. §[^62] (1) Az IÉSZ megindítását a telepítési engedély jogerőre emelkedésétől számított egy éven belül külön kérelem nélkül, a 29. § (1) bekezdés a) pontja szerinti esetben az érintett településrendezési eszköz hatálybalépését követően lehet kezdeményezni az előírt mellékletek benyújtásával.
+35. §[^83] (1) Az IÉSZ megindítását a telepítési engedély jogerőre emelkedésétől számított egy éven belül külön kérelem nélkül, a 29. § (1) bekezdés a) pontja szerinti esetben az érintett településrendezési eszköz hatálybalépését követően lehet kezdeményezni az előírt mellékletek benyújtásával.
 
 (2) Az IÉSZ megindításához – az IÉSZ-ben összevonható kérelmezett eljárástól függően – mellékelni kell
 
@@ -38,11 +38,7 @@ bb) az ismert ügyfelet.
 
 (8) Ha a THSZ kiváltotta a településrendezési eszköz egyeztetési eljárását, akkor az integrált építési engedély iránti kérelem csak a településrendezési eszköz elfogadását és hatálybalépését követően bírálható el.
 
-(9) Az építésügyi hatóság ügyintézési határideje az IÉSZ-ben
-
-a) a b) pont kivételével harminc nap,
-
-b) a 29. § (1) bekezdés c) pontjában meghatározott eljárás lefolytatása esetén száz nap.
+(9)[^84]
 
 (10) Az IÉSZ-ben hozott határozat rendelkező része, az építési engedélyezési eljárásban hozott döntés 19. § (4) bekezdésében meghatározott tartalmi elemein kívül – a döntés tárgyától függően – tartalmazza:
 
@@ -56,7 +52,9 @@ c) az egységes környezethasználati engedély feltételeit.
 
 a) a telepítési engedély megadásáról szóló végzés a határozat elleni jogorvoslati eljárásban támadható,
 
-b) a telekalakítási engedély alapján a változást az ingatlan-nyilvántartáson az integrált építési engedély végrehajthatóvá válása után, az építőipari kivitelezési tevékenység megkezdése előtt át kell vezetni, és annak megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor – az építési naplóban történő rögzítéssel – igazolni köteles.
+b) a telekalakítási engedély alapján a változást az ingatlan-nyilvántartáson az integrált építési engedély végrehajthatóvá válása után, az építőipari kivitelezési tevékenység megkezdése előtt át kell vezetni, és annak megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor – az építési naplóban történő rögzítéssel – igazolni köteles,
+
+c)[^85] a 19. § (4) bekezdés i) pontjában meghatározott épületet a határnapot követően az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerint közel nulla vagy annál kedvezőbb energiaigényű épületként kell kialakítani.
 
 (12) Az integrált építési engedélyről hozott, iratazonosítóval ellátott döntést közölni kell:
 
@@ -86,4 +84,6 @@ a) a jogerős döntést követően haladéktalanul tájékoztatást ad az ÉTDR 
 
 b) jogerőre emelkedésére tekintet nélkül a Ket. szabályai szerint nyilvánosan közzéteszi azt az integrált építési engedély tárgyában hozott határozatot a telepítési engedély tárgyában hozott végzéssel együtt, valamint a felfüggesztés tárgyában hozott végzést, amelyet olyan eljárásban hozott, ahol a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
-[^62]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 206. § (16) bekezdésével megállapított szöveg.
+[^83]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 206. § (16) bekezdésével megállapított szöveg.
+[^84]: A 35. § (9) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 8. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^85]: A 35. § (11) bekezdés c) pontját a 262/2015. (IX. 14.) Korm. rendelet 4. §-a iktatta be.

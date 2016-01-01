@@ -1,4 +1,4 @@
-5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^148]
+5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^209]
 
 ## Szakhatósági dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
@@ -168,4 +168,4 @@ A tűzvédelmi dokumentáció tartalma
 
 2.2. Helyszínrajz, melyen feltüntetik az engedélyezéssel érintett építményt és a szomszédos építményeket, valamint a közöttük lévő távolságot.
 
-[^148]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^209]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.

@@ -6,13 +6,7 @@
 
 (3) Az építésügyi hatóság a kérelem elbírálása során vizsgálja, hogy a tervezett eltérés, az érintett szakhatóság állásfoglalása, illetve a rendeltetésszerű és biztonságos használat követelményeinek figyelembevételével engedélyezhető-e.
 
-(4) Az építésügyi hatóság az építési engedély iránti kérelem tárgyában az érdemi döntést
-
-a) ha a kérelem hiánytalan és az eljárásba szakhatóságot nem kell bevonni, vagy a kérelem elbírálásához szükséges, hat hónapnál nem régebbi előzetes szakhatósági állásfoglalás rendelkezésre áll, az eljárás megindulásától,
-
-b) ha a kérelem hiányos vagy az eljárásba szakhatóságot kell bevonni, az utolsó pótolt dokumentum vagy szakhatósági állásfoglalás beérkezésétől
-
-számított tizenöt napon belül hozza meg.
+(4)[^87]
 
 (5) A határozat három fő részből áll:
 
@@ -47,3 +41,5 @@ d) a jogorvoslatra nyitva álló idő alatt az ügyfél az engedélyezés tárgy
 (9) Az építésügyi hatóság a határozaton feltünteti az értesítettek körét a 38. § (2) bekezdésében foglaltak szerint.
 
 (10) Az önállóan előterjesztett kérelemben hozott jogerős eltérési engedély egy évig hatályos és a hatálya nem hosszabbítható meg.
+
+[^87]: A 37. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 9. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

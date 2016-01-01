@@ -1,6 +1,6 @@
 ## 23. Építésügyi hatósági szolgáltatás igénybevétele az összevont telepítési eljárás megindítása előtt
 
-## 30. §[^54] Az építtető az építési beruházás helyétől, jellegétől függően a hatósági szolgáltatás keretében – elektronikus kérelem és gyűjtő tárhely igénybevétele esetén az elektronikus gyűjtő tárhelyen tárolt dokumentumaihoz való hozzáférés biztosításával – az eljáró építésügyi hatóságtól
+## 30. §[^75] Az építtető az építési beruházás helyétől, jellegétől függően a hatósági szolgáltatás keretében – elektronikus kérelem és gyűjtő tárhely igénybevétele esetén az elektronikus gyűjtő tárhelyen tárolt dokumentumaihoz való hozzáférés biztosításával – az eljáró építésügyi hatóságtól
 
 a) tájékoztatást kérhet
 
@@ -22,4 +22,4 @@ bc) tájékoztatását az összevont telepítési eljárás és a szakhatósági
 
 bd) tájékoztatását a leendő ügyféli körről és a várható hatásterületről.
 
-[^54]: A 30. § a 70/2015. (III. 30.) Korm. rendelet 206. § (11) bekezdésével megállapított szöveg.
+[^75]: A 30. § a 70/2015. (III. 30.) Korm. rendelet 206. § (11) bekezdésével megállapított szöveg.

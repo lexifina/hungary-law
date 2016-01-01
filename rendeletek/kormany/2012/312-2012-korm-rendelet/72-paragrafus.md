@@ -10,13 +10,13 @@
 
 (4) Az építészeti-műszaki dokumentációnak kötelező része a látványterv
 
-a)[^138] a műemléken, nyilvántartott műemléki értéken és más, jogszabállyal védett építményen vagy területen történő építési tevékenység esetén, vagy
+a)[^199] a műemléken, nyilvántartott műemléki értéken és más, jogszabállyal védett építményen vagy területen történő építési tevékenység esetén, vagy
 
 b) ha azt külön jogszabály előírja.
 
-(5)[^139] A dokumentációban az OTÉK 50. § (3) bekezdésében meghatározott követelmények teljesítését igazolni szükséges. Ez történhet vonatkozó szabványok alkalmazásával, vagy ezek hiányában más igazolt műszaki megoldás alkalmazásával.
+(5)[^200] A dokumentációban az OTÉK 50. § (3) bekezdésében meghatározott követelmények teljesítését igazolni szükséges. Ez történhet vonatkozó szabványok alkalmazásával, vagy ezek hiányában más igazolt műszaki megoldás alkalmazásával.
 
-(6)[^140] Az építészeti-műszaki dokumentációt aláírólappal kell ellátni. Az aláírólapot a 8. melléklet szerinti formátumban kell elkészíteni. A címlap az engedélyezés tárgyát képező építési, bontási tevékenység szabatos megnevezésén és a telek azonosító adatain túl tartalmazza az építtető nevét, cég megnevezését, a tervező nevét. Az aláírólap tartalmazza a tervezésben részt vett összes tervező nevét, a tervezési jogosultság számát és a tervező sajátkezű aláírását.
+(6)[^201] Az építészeti-műszaki dokumentációt aláírólappal kell ellátni. Az aláírólapot a 8. melléklet szerinti formátumban kell elkészíteni. A címlap az engedélyezés tárgyát képező építési, bontási tevékenység szabatos megnevezésén és a telek azonosító adatain túl tartalmazza az építtető nevét, cég megnevezését, a tervező nevét. Az aláírólap tartalmazza a tervezésben részt vett összes tervező nevét, a tervezési jogosultság számát és a tervező sajátkezű aláírását.
 
 (7) Az egyes különálló tervlapokon szerepeltetni kell:
 
@@ -24,6 +24,6 @@ a) az adott tervrajz szabatos megnevezését és méretarányát önálló ábr�
 
 b) a tervezés időpontját.
 
-[^138]: A 72. § (4) bekezdés a) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (10) bekezdésével megállapított szöveg.
-[^139]: A 72. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 28. pontja szerint módosított szöveg.
-[^140]: A 72. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés o) pontja szerint módosított szöveg.
+[^199]: A 72. § (4) bekezdés a) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (10) bekezdésével megállapított szöveg.
+[^200]: A 72. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 28. pontja szerint módosított szöveg.
+[^201]: A 72. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés o) pontja szerint módosított szöveg.

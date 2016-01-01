@@ -182,7 +182,7 @@
 
 ## A számítás szöveges és numerikus dokumentum, amelyben szükség szerint ábrák is szerepelhetnek. Az ábrák esetében törekedni kell a vektorgrafikus ábrák alkalmazására, amennyiben elkerülhetetlen, úgy a maximum 150 (szöveget vagy vékony vonalas részeket tartalmazó ábrák esetén 300) DPI felbontású ábrák is elfogadhatóak. A számítás fejezetekre bontva, több dokumentumban is benyújtható. Formátuma PDF/A, nyomtatási mérete A4 (szükség esetén egyes oldalak lehetnek A3 méretűek). A számításoknak szürkeárnyalatosan nyomtatva is értelmezhetőnek kell maradnia.
 
-## 4.1. Számított építményérték
+## 4.1. Az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerinti számított építményérték
 
 ## 4.2. Épületmagasság-számítás
 
@@ -190,7 +190,7 @@
 
 ## 4.4. Tartószerkezeti számítás szükség szerint
 
-## 4.5. Épületenergetikai számítás
+## 4.5. Az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet hatálya alá tartozó épületek esetében legalább az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet 2. melléklet 2. pontjában meghatározott részletezettséggel a követelményeknek való megfelelést igazoló épületenergetikai számítás
 
 ## 5. Igazolások
 
