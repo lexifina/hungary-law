@@ -19,3 +19,5 @@ e) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki e
 f) az államháztartásért felelős miniszterrel egyetértésben a hagyatéki eljárás iratainak nem hiteles másolatáért járó díj mértékét és megfizetésének módját,
 
 g) a hagyatéki eljárásban kibocsátott hirdetmények elektronikus nyilvántartásából történő felvilágosításadás részletes szabályait és az államháztartásért felelős miniszterrel egyetértésben a hirdetményi nyilvántartásba való rögzítés és közzététel költségtérítésének összegét, valamint megfizetésének módját.
+
+h) a hagyatéki leltár felvételével összefüggő részletes eljárási szabályokat;

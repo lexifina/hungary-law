@@ -23,3 +23,5 @@ ab) aki örökösként érdekelt (ha az intézkedés hivatalból történt);
 b) az viseli, aki örököl; ilyen személy hiányában az, aki a hagyatékra igényt terjesztett elő.
 
 (5) Ha a hagyatéki eljárás díjának előlegezésére, illetve viselésére többen kötelesek, e kötelezettség őket egyetemlegesen terheli.
+
+(6) A 21. § (3) bekezdésében meghatározott esetben a közjegyző a jegyző költségére végzi el a leltározást. Ebben az esetben a leltározással összefüggésben felmerülő hagyatéki költség megelőlegezésének nincs helye.

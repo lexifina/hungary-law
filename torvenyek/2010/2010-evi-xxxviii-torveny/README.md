@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-38-00-00
 | 2015-06-19 | 2015. évi LXXI. törvény | 2010-38-00-00.20 |
 | 2015-08-17 | 2015. évi LXXI. törvény | 2010-38-00-00.21 |
 | 2015-09-01 | 2015. évi CVII. törvény | 2010-38-00-00.22 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 2010-38-00-00.23 |
