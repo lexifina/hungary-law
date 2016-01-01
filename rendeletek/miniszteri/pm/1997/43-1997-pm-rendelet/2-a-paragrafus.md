@@ -1,6 +1,6 @@
 ## Megfigyelt termék veszteségnormája
 
-2/A. §[^10] (1) A megfigyelt termékek közül
+2/A. §[^11] (1) A megfigyelt termékek közül
 
 a) a Jöt. 50. §-a (4) bekezdésének a) és d) pontja szerinti megfigyelt termék raktározási, illetve szállítási veszteségére az 1. számú, illetve a 2. számú melléklet 2. sorában meghatározott veszteségnorma,
 
@@ -12,4 +12,4 @@ c) a Jöt. 50. §-a (4) bekezdésének e) pontja szerinti megfigyelt termék ese
 
 (2) A megfigyelt termékek kiszerelésénél figyelembe vehető veszteségnorma a kiszerelt mennyiség 1%-a.
 
-[^10]: A 2/A. §-t és az előtte lévő alcímet a 17/2004. (IV. 21.) PM rendelet 2. §-a iktatta a szövegbe.
+[^11]: A 2/A. §-t és az előtte lévő alcímet a 17/2004. (IV. 21.) PM rendelet 2. §-a iktatta a szövegbe.

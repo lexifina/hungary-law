@@ -1,6 +1,6 @@
 ## A köztes alkoholtermék veszteségnormája
 
-6. § (1)[^18] A raktározásnál figyelembe vehető veszteségnorma: a nem palackozott nem habzó köztes alkoholtermék esetén az elszámolási időszak nyitókészlete és az elszámolási időszakban bevételezett mennyiség együttes összegének elszámolási időszakonként 6,0%-a.
+6. § (1)[^19] A raktározásnál figyelembe vehető veszteségnorma: a nem palackozott nem habzó köztes alkoholtermék esetén az elszámolási időszak nyitókészlete és az elszámolási időszakban bevételezett mennyiség együttes összegének elszámolási időszakonként 6,0%-a.
 
 (2) A palackozásnál figyelembe vehető veszteségnorma: a palackba töltött mennyiségnek
 
@@ -14,4 +14,4 @@ a) a nem palackozott habzó köztes alkoholtermék esetén a 0,5%-a, a nem palac
 
 b) a palackozott köztes alkoholtermék esetén a 0,25%-a.
 
-[^18]: A 6. § (1) bekezdése a 13/2009. (VI. 12.) PM rendelet 21. § (5) bekezdése szerint módosított szöveg.
+[^19]: A 6. § (1) bekezdése a 13/2009. (VI. 12.) PM rendelet 21. § (5) bekezdése szerint módosított szöveg.

@@ -10,7 +10,7 @@
 
 | 3. | Gázolaj, petróleum, fűtőolaj, biodízel | 0,10 | 0,50 | 1,00 | 1,00 |
 
-3. számú melléklet a 43/1997. (XII. 30.) PM rendelethez[^28]
+3. számú melléklet a 43/1997. (XII. 30.) PM rendelethez[^29]
 
 A Jöt 52. § (1) bekezdésének f) pontja szerinti
 
@@ -30,4 +30,4 @@ Cseppfolyósított szénhidrogén (vámtarifaszámok szerint)
 
 3. 2901 10 1,50
 
-[^28]: A 3. számú mellékletet a 48/2004. (XII. 29.) PM rendelet 4. §-a iktatta a szövegbe.
+[^29]: A 3. számú mellékletet a 48/2004. (XII. 29.) PM rendelet 4. §-a iktatta a szövegbe.

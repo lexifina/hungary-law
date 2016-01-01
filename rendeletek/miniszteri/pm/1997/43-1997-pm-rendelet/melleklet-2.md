@@ -14,6 +14,6 @@
 
 | 3. | Gázolaj, petróleum, fűtőolaj, biodízel | 0,03 | 0,08 | 0,015 | 0,04 | 0,03 | 0,06 | 0,015 | 0,05 |
 
-2. számú melléklet a 43/1997. (XII. 30.) PM rendelethez[^27]
+2. számú melléklet a 43/1997. (XII. 30.) PM rendelethez[^28]
 
-[^27]: A 2. számú melléklet a 28/2007. (XII. 20.) PM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^28]: A 2. számú melléklet a 28/2007. (XII. 20.) PM rendelet 1. § (2) bekezdésével megállapított szöveg.
