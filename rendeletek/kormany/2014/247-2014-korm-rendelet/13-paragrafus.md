@@ -1,19 +1,23 @@
-13. § (1) Az érintett szervezet a saját hatáskörben megvalósított közbeszerzési eljárás esetén
+13. § (1)[^27] Az érintett szervezet a saját hatáskörben megvalósított közbeszerzési eljárás esetén
 
-a) a megkötött közbeszerzési szerződés tervezetét,
+a) a megkötött közbeszerzési szerződést,
 
 b) a közbeszerzési szerződés módosításainak tervezetét, a módosítás indokolását, az azt alátámasztó valamennyi dokumentumot, valamint
 
-c) a közbeszerzési szerződés teljesítésének elismeréséről szóló teljesítésigazolást, illetve az elismerés megtagadásáról szóló nyilatkozat tervezetét indokolással és az azt alátámasztó dokumentumokkal együtt
+c) az elismerés megtagadásáról szóló nyilatkozat tervezetét indokolással és az azt alátámasztó dokumentumokkal együtt
 
-a Hivatal számára a jóváhagyásra irányuló kérelemmel együtt a dokumentumok előkészítését követő 5 napon belül megküldi.
+## a Hivatal számára a dokumentumok előkészítését követő 5 napon belül megküldi.
 
-(2) A Hivatal legfeljebb 8 munkanapon belül elvégzi az (1) bekezdésben, valamint a 10–11. §-ban szabályozott közbeszerzési eljárás eredményeként kötött közbeszerzési szerződés teljesítésére vonatkozó – szakmai műszaki tartalommal való összhang tekintetében történő – ellenőrző vizsgálatot, és észrevételeit, kiegészítési, valamint módosítási javaslatait haladéktalanul megküldi az érintett szervezetnek.
+(2)[^28] A Hivatal, amennyiben a 12. § (3) bekezdés b) pontja alapján feltételként hivatali ellenőrzést kötött ki, legfeljebb 8 munkanapon belül tehet észrevételt, kiegészítést, valamint módosítási javaslatot az (1) bekezdés b) és c) pontjában foglalt, valamint a 10. és 11. §-ban szabályozott közbeszerzési eljárás eredményeként kötött közbeszerzési szerződés teljesítésére vonatkozó dokumentumokkal kapcsolatban.
 
-(3) Az érintett szervezet a Hivatal véleményének átvezetése után a közbeszerzési szerződés, a közbeszerzési szerződésmódosítás, valamint a teljesítésigazolás tervezetét – egyet nem értése esetén az észrevételek figyelmen kívül hagyásának részletes írásbeli indokolásával együtt – a Hivatal részére a módosított dokumentumok előkészítését követő 3 munkanapon belül megküldi. A Hivatal a dokumentumok beérkezését követő 2 munkanapon belül véleményével együtt a Hivatal vezetője elé terjeszti azokat ellenjegyzésre.
+(3)[^29]
 
-(4) A Hivatal vezetőjének hozzájárulása hiányában
+(4)[^30] A Hivatal vezetőjének hozzájárulása hiányában a szerződés a szolgáltatás tartalma és összegszerűsége tekintetében nem módosítható, a közbeszerzés a módosult feltételekkel csak új közbeszerzési eljárásban valósítható meg.
 
-a) a szerződés nem módosítható, a közbeszerzés a módosult feltételekkel csak új közbeszerzési eljárásban valósítható meg,
+(5)[^31] A szerződés érvényesen megköthető, amennyiben a Hivatal vezetője a döntést a 13. § (2) bekezdés szerinti határidőben nem hozza meg.
 
-b) a közbeszerzési szerződések teljesítése nem igazolható.
+[^27]: A 13. § (1) bekezdése a 475/2015. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^28]: A 13. § (2) bekezdése a 475/2015. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^29]: A 13. § (3) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^30]: A 13. § (4) bekezdése a 475/2015. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^31]: A 13. § (5) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.

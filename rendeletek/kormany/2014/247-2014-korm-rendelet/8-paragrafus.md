@@ -1,9 +1,15 @@
-## 8. § Az érintett szervezet – a Hivatal által a honlapján közzétett útmutató alapján – az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek közbeszerzésére vonatkozóan
+8. §[^10] (1) Az érintett szervezet – a Hivatal által meghatározott útmutató alapján – az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek közbeszerzésére vonatkozóan
 
-a) minden év május 15-éig a Kbt. szerinti éves összesített közbeszerzési tervét,
+a) a tárgyévet megelőző év december 15-ig a Kbt. szerinti éves összesített közbeszerzési tervét, illetve beszerzési tervét, valamint szponzorációs költségkeret-tervét,
 
-b) minden naptári negyedév utolsó napját követő 15. napig, a rendkívüli sürgősséget igénylő közbeszerzés esetén haladéktalanul a következő negyedévben megvalósítandó kommunikációs szolgáltatások és termékek közbeszerzésére vonatkozó – műszaki leírását is tartalmazó – igényeit,
+b) minden naptári negyedév utolsó napját megelőző 15. napig, a rendkívüli sürgősséget igénylő közbeszerzés esetén haladéktalanul a következő negyedévben megvalósítandó kommunikációs szolgáltatások és termékek közbeszerzésére vonatkozó – műszaki leírást is tartalmazó – igényeit,
 
-c) alkalmanként a Hivatal kérésére a kormányzati kommunikációs feladattal összefüggő megrendelésre vonatkozó dokumentumokat
+c) a Hivatal kérésére a kormányzati kommunikációs feladattal összefüggő megrendelésre vonatkozó dokumentumokat
 
-a Hivatalnak megküldi.
+## a Hivatalnak megküldi.
+
+(2) A Hivatal a beérkezett dokumentumok vizsgálatát követően határozhat arról is, hogy bejelentési kötelezettség előírása mellett az érintett szervezet esetében a tárgyévi közbeszerzések tekintetében felmentést ad a jóváhagyásra történő megküldés kötelezettsége alól.
+
+(3) A Hivatal a beérkezett dokumentumok vizsgálatát követően határozhat arról is, hogy az érintett szervezet tekintetében milyen egyedi összeget állapít meg. Az érintett szervezetet a megállapított összeg alatti közbeszerzések esetén bejelentési, míg a megállapított összeg feletti közbeszerzések esetén jóváhagyásra megküldési kötelezettség terheli.
+
+[^10]: A 8. § a 475/2015. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

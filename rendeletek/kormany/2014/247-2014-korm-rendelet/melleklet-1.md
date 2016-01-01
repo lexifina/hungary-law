@@ -1,4 +1,4 @@
-1. melléklet a 247/2014. (X. 1.) Korm. rendelethez
+1. melléklet a 247/2014. (X. 1.) Korm. rendelethez[^36]
 
 Kormányzati kommunikációs feladatokhoz tartozó szolgáltatások
 
@@ -19,3 +19,7 @@ Kormányzati kommunikációs feladatokhoz tartozó szolgáltatások
 | 7 | Gyártás | Valamennyi kommunikációs tevékenységhez kapcsolódó gyártási feladat kiemelten a film- és videóanyag gyártás, a nyomtatási anyagok, nyomdai tevékenység, a fotózás, a promóciós eszközök gyártása és az installációk legyártása területén |
 
 | 8 | Médiatervezés és vásárlás | Teljes körű médiatervezés és vásárlás |
+
+| 9 | Szponzorálás | Szponzorálásnak minősül, amennyiben az érintett szervezet kommunikációs célból, piaci helyzetének javítása, vagy társadalmi szerepvállalás érdekében rendezvényt, eseményt, szervezetet vagy személyt egy alkalommal vagy rendszeresen pénzbeli támogatásban részesít. |
+
+[^36]: Az 1. melléklet a 475/2015. (XII. 29.) Korm. rendelet 21. §-a szerint módosított szöveg.
