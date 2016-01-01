@@ -1,3 +1,9 @@
 ## 38. A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény módosítása
 
-70–71. §
+70. § A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény (a továbbiakban: Mnmktv.) 2/B. §-a helyébe a következő rendelkezés lép:
+
+„2/B. § (1) Ha jogszabály az élelmiszerlánc felügyeletért felelős miniszter rendeletében meghatározott szakterületen, növényvédelmi szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az olyan személy igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a növényvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik az élelmiszerlánc felügyeletért felelős miniszter által rendeletben meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
+
+(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni – az igazságügyi szakértő kivételével – köteles a Kamarának a tevékenység folytatására irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+
+(3) A Kamara által a szakértői tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.”
