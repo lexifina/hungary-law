@@ -162,6 +162,6 @@
 
 ## A jelzőtáblán meghatározott össztömeghatár feletti megkezdett tonnánként: legfeljebb 300 Ft/nap, vagy 6000 Ft/hónap, vagy 60 000 Ft/év.
 
-4. melléklet a 13/2010. (X. 5.) NFM rendelethez[^9]
+4. melléklet a 13/2010. (X. 5.) NFM rendelethez[^10]
 
-[^9]: A 4. melléklet a 37/2011. (VII. 19.) NFM rendelet 2. §-a szerint módosított szöveg. E módosító rendelet 4. §-a alapján a folyamatban lévő engedélyezési eljárásokban is alkalmazni kell.
+[^10]: A 4. melléklet a 37/2011. (VII. 19.) NFM rendelet 2. §-a szerint módosított szöveg. E módosító rendelet 4. §-a alapján a folyamatban lévő engedélyezési eljárásokban is alkalmazni kell.

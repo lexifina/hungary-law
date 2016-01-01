@@ -44,6 +44,6 @@
 
 | Kelt |  | Aláírás |
 
-2. melléklet a 13/2010. (X. 5.) NFM rendelethez[^8]
+2. melléklet a 13/2010. (X. 5.) NFM rendelethez[^9]
 
-[^8]: A 2. melléklet a 76/2012. (XII. 22.) NFM rendelet 18. § b) pontja szerint módosított szöveg.
+[^9]: A 2. melléklet a 76/2012. (XII. 22.) NFM rendelet 18. § b) pontja szerint módosított szöveg.
