@@ -112,7 +112,7 @@
 
 ## 2.5. Az elosztási díjak alkalmazásának egyéb különös szabályai
 
-## 2.5.1. A közép/kisfeszültségű csatlakozáshoz tartozó elosztási díjakkal – a közvilágítási célú vételezés kivételével – csak a legalább 3x80 A névleges csatlakozási teljesítménnyel rendelkező, nem profil elszámolású felhasználók számolhatók el, de ezen rendelkezés alól 2014. december 31-ig kivételt képeznek az ezen rendelet hatálybalépését megelőzően közép/kisfeszültségű csatlakozáshoz tartozó elosztási díjakkal elszámolt profil elszámolású felhasználók.
+## 2.5.1. A közép/kisfeszültségű csatlakozáshoz tartozó elosztási díjakkal – a közvilágítási célú vételezés kivételével – csak a legalább 3x80 A névleges csatlakozási teljesítménnyel rendelkező, nem profil elszámolású felhasználók számolhatók el.
 
 ## 2.5.2. A közvilágítási célú vételezést az 1. melléklet II. „Elosztási díjak” című táblázat 4.1. sora szerinti elosztási díjakkal kell elszámolni.
 
@@ -122,15 +122,17 @@
 
 ## b) a VET 170. § (1) bekezdés 19. pontja szerinti okos mérés bevezetését célzó mintaprojektben részt vevő, 3×80 A-t nem meghaladó névleges csatlakozási teljesítményű, kisfeszültségen csatlakozó felhasználó.
 
-## 2.5.4. Az 1. melléklet II. „Elosztási díjak” című táblázat 4.2. vagy 5.2. sora szerinti elosztási díjakat köteles megfizetni – figyelembe véve a csatlakozás feszültségszintjét és a 2.5.1. pontban leírtakat – a vezérelt elszámolású felhasználó (a közvilágítási célra vételező felhasználó kivételével), aki
+## 2.5.4. Az 1. melléklet II. „Elosztási díjak” című táblázat 5.2. sora szerinti elosztási díjakat köteles megfizetni – figyelembe véve a 2.5.1. pontban leírtakat – a felhasználó (a közvilágítási célra vételező felhasználó kivételével)
 
-## a) a villamos energia egyetemes szolgáltatás árképzéséről szóló 4/2011. (I. 31.) NFM rendelet szerinti időszakos vagy idényjellegű egy zónaidős árszabással,
+## a) a bármely, szakaszosan is biztonságosan üzemeltethető, külön mért – az elosztó vezérlőberendezésével vezérelt felhasználói áramkörre állandó jelleggel, megfelelő segédeszköz hiányában állagsérelem nélkül nem leválasztható módon, nem dugaszolhatóan csatlakoztatott – felhasználói berendezés fogyasztása,
 
-## b) nem egyetemes szolgáltatási villamosenergia-vásárlási szerződése alapján az ellátási szabályzatok szerinti vezérelt, külön mért villamos energia felhasználás szerint az elosztó vezérlési programjának megfelelően, vagy az adott felhasználási helyen kizárólag a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvételéről szóló külön jogszabály szerinti mélyvölgy időszakban
+## b) annak a +2 Celsius fok levegőhőmérsékletnél és +35 Celsius fok előremenő vízhőmérsékletnél mérve legalább 3 jósági fokú hőszivattyúnak, és a napenergiából és egyéb megújuló energiaforrásokból nyert hőt épület hőellátására hasznosító berendezésnek az üzemeltetését közvetlenül szolgáló – a külön mért felhasználói áramkörre állandó jelleggel, nem dugaszolással, arról kizárólag az állag sérelme nélkül megfelelő eszközzel leválasztható módon csatlakoztatott – készüléknek a központi fűtésről és melegvíz-szolgáltatásról szóló kormányrendelet szerinti fűtési idény alatti villamosenergia-fogyasztása,
 
-## vételez.
+## c) ha az adott felhasználási helyen kizárólag a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvételéről szóló külön jogszabály szerinti mélyvölgy időszakban használ fel villamos energiát, akkor ezen villamosenergia-fogyasztás
 
-## 2.5.5. Az 1. melléklet II. „Elosztási díjak” című táblázat 4.3. vagy 5.3. sora szerinti elosztási díjat köteles megfizetni – figyelembe véve a csatlakozás feszültségszintjét – a nem profil elszámolású felhasználó (a közvilágítási célra vételező felhasználó kivételével).
+## után.
+
+## 2.5.5. Az 1. melléklet II. „Elosztási díjak” című táblázat 5.3. sora szerinti elosztási díjat köteles megfizetni a kisfeszültségű csatlakozású nem profil elszámolású felhasználó.
 
 ## 2.6. A vezérelt felhasználók felhasználói berendezése a vezérelt felhasználói áramkörre csak állandó jelleggel, megfelelő segédeszköz (szerszám) hiányában állagsérelem nélkül nem leválasztható módon, nem dugaszolhatóan csatlakoztatható. A hálózati engedélyes jogosult ellenőrizni a vezérelt áramkör, valamint az arra kapcsolt felhasználói berendezések jogszabálynak való megfelelőségét. A jogszabályi rendelkezések be nem tartása a hálózathasználati szerződés megszegésének minősül.
 
