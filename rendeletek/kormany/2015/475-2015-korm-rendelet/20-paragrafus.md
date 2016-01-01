@@ -1,0 +1,3 @@
+## 19. § A Korm. rendelet 15. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) A Hivatal által megkötött és 2015. november 1-jén hatályban lévő olyan keret-megállapodások terhére igénybe vett beszerzések esetében, amelyekben az 1. mellékletben meghatározott kommunikációs szolgáltatások és azokhoz kapcsolódó termékek kerültek beszerzésre, a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet rendelkezéseit, míg a 2015. november 1. napját követően megkötött keretmegállapodások terhére igénybe vett beszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet rendelkezéseit nem kell alkalmazni.”
