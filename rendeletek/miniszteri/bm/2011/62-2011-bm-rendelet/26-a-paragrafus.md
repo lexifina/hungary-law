@@ -10,6 +10,7 @@ a) határozott időtartamú rendelkezésre állás esetén a polgármester a beo
 
 b) a határozatlan időtartamú rendelkezésre állás esetén az önkéntes írásban kérheti – a lakóhelye szerint illetékes polgármesternek címzett nyilatkozatban – a beosztás megszüntetését.
 
-(3) A polgármester a (2) bekezdés b) pontja szerinti kérelem benyújtásától számított 30 napon belül felmenti beosztásából az önkéntest.
+(3)[^13]
 
 [^12]: A 17/A. alcímet (26/A. §-t) a 61/2012. (XII. 11.) BM rendelet 2. §-a iktatta be.
+[^13]: A 26/A. § (3) bekezdését a 75/2015. (XII. 22.) BM rendelet 5. §-a hatályon kívül helyezte.

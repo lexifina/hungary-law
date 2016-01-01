@@ -1,3 +1,3 @@
-72–73. §[^14]
+72–73. §[^15]
 
-[^14]: A 72–73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 72–73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
