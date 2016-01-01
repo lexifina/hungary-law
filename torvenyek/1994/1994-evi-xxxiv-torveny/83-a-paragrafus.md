@@ -1,0 +1,1 @@
+83/A. § A rendőrség az erre vonatkozó törvényi rendelkezéseknek megfelelően a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
