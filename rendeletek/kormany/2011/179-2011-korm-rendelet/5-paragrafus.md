@@ -10,8 +10,8 @@
 
 (5)[^17] A gépjármű vezetésére jogosító vezetői engedély megszerzésére irányuló, a közúti közlekedésről szóló törvény szerinti vizsgaigazolás annak adható ki, aki a Kt. szerinti alapfokú iskolai végzettséget és az elsősegély-nyújtási ismeretek elsajátítását tanúsító igazolást megszerezte. Az alapfokú iskolai végzettség meglétét a képzési rendeletben meghatározott módon kell igazolni.
 
-(6)[^18] Az engedéllyel rendelkező, névjegyzékben szereplő vizsgabiztosok részére a közlekedési hatóság igazolványt állít ki. Az igazolvány megrongálódása, megsemmisülése vagy elvesztése esetén a közlekedési hatóság kérelemre új igazolványt állít ki.
+(6)[^18] A névjegyzékben szereplő vizsgabiztosok részére a közlekedési hatóság igazolványt állít ki. Az igazolvány megrongálódása, megsemmisülése vagy elvesztése esetén a közlekedési hatóság kérelemre új igazolványt állít ki.
 
 [^16]: Az 5. § (4) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
 [^17]: Az 5. § (5) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^18]: Az 5. § (6) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^18]: Az 5. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 143. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
