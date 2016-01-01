@@ -1,3 +1,3 @@
-## 16. §[^5]
+## 16. §[^6]
 
-[^5]: A 16. § a 249/2015. (IX. 8.) Korm. rendelet 19. § a) pontja alapján nem lép hatályba.
+[^6]: A 16. § a 249/2015. (IX. 8.) Korm. rendelet 19. § a) pontja alapján nem lép hatályba.
