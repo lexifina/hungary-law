@@ -56,7 +56,9 @@
 
 ## 2.7. Az elletőládát, és a benne levő szopósnyulakat rendszeresen ellenőrizni kell.
 
-## 2.8.[^118] A szoptató anyanyulak számára folyamatos takarmányellátást kell biztosítani.
+## 2.8. A szoptató anyanyulak számára folyamatos takarmányellátást kell biztosítani.
+
+## 2.9.[^118] Fémrács padozat alkalmazása esetén legalább 25×40 cm nagyságú, lehetőség szerint perforált pihenőlap biztosítása szükséges.
 
 ## 3. Baknyulak tartásának minimális követelményei
 
@@ -79,5 +81,5 @@
 9. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^119]
 
 [^117]: [A 8. számú melléklet 1.8. pontjának a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdés c) pontja alapján 2020. január 1-jétől hatályos szövege: „1.8. Lemezes, átláthatatlan oldalfalú ketrecben nyulat tartani – kivéve bakok fedezésekor és ondóvételekor – tilos. Amennyiben az alkalmazott ketrec- vagy fülketípus lehetővé teszi, biztosítani kell az állatok számára, hogy fajtársaikat láthassák.”.]
-[^118]: [A 8. számú melléklet 2.9. pontjának a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdés d) pontja alapján 2016. január 1-jétől hatályos szövege: „ 2.9. Fémrács padozat alkalmazása esetén legalább 25×40 cm nagyságú, lehetőség szerint perforált pihenőlap biztosítása szükséges.”.]
+[^118]: A 8. számú melléklet 2.9. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (2) bekezdés d) pontja iktatta be.
 [^119]: A 9. számú mellékletet a 178/2009. (XII. 29.) FVM rendelet 10. § (7) bekezdése iktatta be.

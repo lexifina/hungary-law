@@ -49,4 +49,4 @@
 [^91]: A 4. számú melléklet 6. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^92]: A 4. számú melléklet 9. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^93]: A 4. számú melléklet 12. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^94]: A 4. számú melléklet 13. pontját a 2/2014. (VIII. 29.) FM rendelet 2. §-a iktatta be.
+[^94]: A 4. számú melléklet 13. pontját a 2/2014. (VIII. 29.) FM rendelet 3. §-a iktatta be.
