@@ -1,16 +1,14 @@
 ## Jegyzőkönyv
 
-20. § (1) A vizsgáról jegyzőkönyvet kell készíteni és ebben fel kell tüntetni
+20. § (1)[^46] A vizsgáról a vizsgabizottság jegyzőkönyvet készít, amelyben fel kell tüntetni
 
-a)[^40] a jelölt természetes személyazonosító adatait és lakcímét,
+a) a jelölt természetes személyazonosító adatait és lakcímét,
 
 b) a vizsga helyét és időpontját,
 
-c) a vizsgára történő jelentkezést tartalmazó kérelem ügyszámát,
+c) azt, hogy a jelölt a vizsgán megfelelt vagy nem felelt meg.
 
-d)[^41] azt, hogy a jelölt a vizsgán megfelelt vagy nem felelt meg.
+(2)[^47] A jegyzőkönyvet a vizsgabizottság elnöke és tagjai aláírják.
 
-(2) A jegyzőkönyvet a vizsgabizottság elnöke és tagjai aláírják.
-
-[^40]: A 20. § (1) bekezdés a) pontja a 43/2009. (IX. 22.) IRM rendelet 13. §-ával megállapított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^41]: A 20. § (1) bekezdés d) pontja a 43/2009. (IX. 22.) IRM rendelet 37. § (1) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^46]: A 20. § (1) bekezdése a 43/2015. (XII. 30.) IM rendelet 5. § (12) bekezdésével megállapított szöveg.
+[^47]: [A 20. § (2) bekezdésében a 43/2015. (XII. 30.) IM rendelet 5. § (19) bekezdés e) pontjával elrendelt módosítás, amley szerint a „Vizsgabizottság” szövegrész helyébe a „vizsgabizottság” szöveg lép, nem vezethető át.]

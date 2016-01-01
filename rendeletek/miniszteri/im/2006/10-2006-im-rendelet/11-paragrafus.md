@@ -1,6 +1,5 @@
-11. §[^29] (1)[^30] A miniszter legkésőbb az első képzés befejezését követő öt napon belül kitűzi a vizsga helyét és időpontját és erről a vizsgára köteles szakértőnek (a továbbiakban: jelölt) írásban postai, vagy külön törvényben szabályozott elektronikus úton, továbbá – ha a vizsga időpontja miatt indokolt – telefaxon vagy személyesen átadott irat útján értesíti.
+11. §[^34] (1) A Jogakadémia legkésőbb az első képzés befejezését követő öt napon belül kitűzi a vizsga helyét és időpontját, és erről a vizsgára köteles szakértőnek (a továbbiakban: jelölt) írásban postai vagy az elektronikus aláírásról szóló törvényben szabályozott elektronikus úton, továbbá – ha a vizsga időpontja miatt indokolt – személyesen átadott irat útján értesíti.
 
-(2) A miniszter kéthavonta – kivéve ha a vizsgára nem volt jelentkező – a tanfolyamot követő három héten belül tűz ki vizsgát. Kivételes esetben vagy ha a jelöltek nagyobb száma azt indokolja, a miniszter további vizsgaidőpontot is kitűzhet.
+(2) A Jogakadémia kéthavonta – kivéve, ha a vizsgára nem volt jelentkező – a tanfolyamot követő három héten belül tűzi ki a vizsgát. Kivételes esetben, vagy ha a jelöltek nagyobb száma azt indokolja, a Jogakadémia további vizsgaidőpontokat is kitűzhet.
 
-[^29]: A 11. § a 43/2009. (IX. 22.) IRM rendelet 9. §-ával megállapított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^30]: A 11. § (1) bekezdése a 17/2010. (XII. 17.) KIM rendelet 2. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 4. §-a alapján a 2011. január 1-jét követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^34]: A 11. § a 43/2015. (XII. 30.) IM rendelet 5. § (9) bekezdésével megállapított szöveg.

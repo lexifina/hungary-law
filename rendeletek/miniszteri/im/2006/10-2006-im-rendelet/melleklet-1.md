@@ -1,3 +1,3 @@
-1. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^70]
+1. számú melléklet a 10/2006. (III. 7.) IM rendelethez[^78]
 
-[^70]: Az 1. számú melléklet a 9/2011. (III. 8.) KIM rendelet 8. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a folyamatban lévő közigazgatási hatósági eljárások során is alkalmazni kell.
+[^78]: Az 1. számú melléklet a 43/2015. (XII. 30.) IM rendelet 5. § (18) bekezdés a) pontjával megállapított szöveg.
