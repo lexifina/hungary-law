@@ -1,4 +1,4 @@
-13. § (1) A hatósági bizonyítvány kiállításának és a szakvélemény elkészítésének határideje komplex minősítés esetén hatvan nap, egyéb esetben harminc nap.
+13. § (1)[^14]
 
 (2) A rehabilitációs hatóság által kiadott szakvéleményben, illetve a szakkérdés vizsgálata során rögzíteni kell
 
@@ -17,3 +17,5 @@ f) a vizsgálat során felhasznált dokumentumok és az elvégzett vizsgálatok 
 g) a felülvizsgálat szükségességét, időpontját, valamint
 
 h) a szakvélemény időbeli hatályát.
+
+[^14]: A 13. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 250. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

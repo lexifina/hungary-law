@@ -14,7 +14,7 @@ b) legalább egy tagja foglalkozási rehabilitációs szakértő,
 
 c) legalább egy tagja szociális szakértő.
 
-(6)[^9] A rehabilitációs hatóság – a szakértői bizottság elnöke kivételével – kormányzati szolgálati jogviszonyban nem álló szakértőt is igénybe vehet.
+(6)[^11] A rehabilitációs hatóság – a szakértői bizottság elnöke kivételével – kormányzati szolgálati jogviszonyban nem álló szakértőt is igénybe vehet.
 
 (7) A szakértői bizottságnak nem lehet tagja, aki részt vett vagy részt vesz a hatósági vagy szakértői eljárásba vont személy (a továbbiakban: érintett személy) gyógykezelésében, szociális gondozásában.
 
@@ -24,4 +24,4 @@ a) 3. § (7) bekezdésében foglalt rendelkezéseit nem kell alkalmazni a fővá
 
 b) 3. § (6) és (7) bekezdésében foglalt rendelkezéseit nem kell alkalmazni a Hivatalnál orvosszakértői munkakörben foglalkoztatott kormánytisztviselők munkaköri pótlékának megállapításánál.
 
-[^9]: A 10. § (6) bekezdése a 247/2015. (IX. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 10. § (6) bekezdése a 247/2015. (IX. 8.) Korm. rendelet 1. §-ával megállapított szöveg.

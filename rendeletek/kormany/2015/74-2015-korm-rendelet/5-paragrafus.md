@@ -10,11 +10,11 @@ b) másodfokon eljáró rehabilitációs hatóságként, rehabilitációs szaké
 
 (2) A Kormány
 
-a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 20/C. §-a szerinti, a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából vezetett nyilvántartást vezető szociális hatóságként,
+a)[^6] a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 20/C. §-a szerinti, a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából vezetett nyilvántartást vezető, valamint az Szt. 20. § (2a) bekezdése szerinti szociális hatóságként,
 
 b) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 139. § (2) bekezdése szerinti, a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából vezetett nyilvántartást vezető szervként,
 
-c) a befogadás kérdésében elsőfokon az Szt. 58/A. § (2d) bekezdése szerinti szociális hatóságként, a Gyvt. 145. § (2d) bekezdése szerinti szervként, valamint a szolgáltatói nyilvántartásba történő bejegyzés és adatmódosítás iránti eljárásban szakhatóságként
+c)[^7] a befogadás kérdésében elsőfokon az Szt. 58/A. § (2d) és (2h)–(2j) bekezdése szerinti szociális hatóságként, a Gyvt. 145. § (2d) bekezdése szerinti szervként, valamint a szolgáltatói nyilvántartásba történő bejegyzés és adatmódosítás iránti eljárásban szakhatóságként
 
 ## a Hivatalt jelöli ki.
 
@@ -36,6 +36,8 @@ g) a foglalkozási rehabilitációs szakértők továbbképzésével
 
 ## összefüggő feladatok ellátására a Hivatalt jelöli ki.
 
-(4)[^6] A Kormány az Szt. 58. § (1) bekezdése szerinti és a Gyvt. 96. § (7) bekezdése szerinti módszertani feladatokat ellátó szervként a módszertani feladatokat ellátó szervezeti egységet jelöli ki.
+(4)[^8] A Kormány az Szt. 58. § (1) bekezdése szerinti és a Gyvt. 96. § (7) bekezdése szerinti módszertani feladatokat ellátó szervként a módszertani feladatokat ellátó szervezeti egységet jelöli ki.
 
-[^6]: Az 5. § (4) bekezdését a 221/2015. (VIII. 7.) Korm. rendelet 26. §-a iktatta be.
+[^6]: Az 5. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdés c) pontja a 419/2015. (XII. 23.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^8]: Az 5. § (4) bekezdését a 221/2015. (VIII. 7.) Korm. rendelet 26. §-a iktatta be.
