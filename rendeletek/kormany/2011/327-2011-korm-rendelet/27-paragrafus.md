@@ -1,0 +1,3 @@
+## 26. §[^55] Ha a rehabilitációs pénzbeli ellátás folyósítása a 2015. december 31-éig hatályos rendelkezések alapján a keresőképtelenségre tekintettel szüneteltetésre került, az első fokon eljáró rehabilitációs hatóság a rehabilitációs ellátás időtartamának leteltét megelőzően a rehabilitációs ellátás meghosszabbításról határozatban intézkedik, és a határozatát haladéktalanul közli a Nyugdíjfolyósító Igazgatósággal is.
+
+[^55]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 441/2015. (XII. 28.) Korm. rendelet 157. § (3) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
