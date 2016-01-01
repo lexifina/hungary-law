@@ -1,7 +1,0 @@
-116. § (1) A biztosító vezető állású személyei, egyéb vezetői (83. § és 85. §), valamint érdemi ügyintézői kötelesek a biztosítónak bejelenteni, ha ők vagy közeli hozzátartozójuk a biztosítóval szerződéses kapcsolatba lépni kívánó félnél minősített befolyással, a megkötendő szerződésben más érdekeltséggel rendelkeznek vagy a biztosítóval szerződéses kapcsolatba lépni kívánó félnél igazgatósági, illetve felügyelőbizottsági tisztséget viselnek. Ilyen esetben a nevezettek e döntés előkészítésében és meghozatalában nem vehetnek részt (összeférhetetlenség).
-
-(2) A biztosító vezető állású személyei, egyéb vezetői, valamint érdemi ügyintézői kinevezésükkor (megválasztásukkor) kötelesek írásbeli nyilatkozatot tenni a biztosító részére arról, hogy ők vagy közeli hozzátartozójuk a biztosítónál, más biztosítónál, biztosításközvetítői tevékenységet végző gazdálkodó szervezetnél, vagy biztosítási szaktanácsadással foglalkozó gazdálkodó szervezetnél rendelkeznek-e, illetve ha igen, mekkora és milyen névértékű közvetlen, vagy közvetett tulajdoni hányaddal, vagy ezek által kibocsátott értékpapírral.
-
-(3) A (2) bekezdésben foglalt személyek, a (2) bekezdésben foglalt helyzetek beálltáról, valamint az abban bekövetkezett változásokról 2 munkanapon belül írásbeli nyilatkozatot kötelesek tenni a biztosítónak.
-
-(4) Az (1)–(3) bekezdések alapján tett bejelentésekről és nyilatkozatokról a biztosító köteles nyilvántartást vezetni.

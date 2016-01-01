@@ -1,1 +1,0 @@
-25. § A tagdíjakat, a pótlólagos befizetések és a szolgáltatások csökkentésének lehetőségét, valamint esetköreit az alapszabályban kell meghatározni, azonos feltételek esetén azonos alapelvek szerint.

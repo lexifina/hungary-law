@@ -1,1 +1,0 @@
-23. § A tárgyévi nyereségnek az alapszabályban meghatározott része az alapszabályban meghatározott módon és mértékben visszajuttatható a tagoknak, abban az esetben, ha a visszajuttatást követően a szavatoló tőke összege meghaladja a minimális szavatoló tőke szükséglet kétszeresét, vagy – amennyiben magasabb – a minimális biztonsági tőke kétszeresét.

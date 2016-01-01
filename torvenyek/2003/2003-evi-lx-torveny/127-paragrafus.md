@@ -1,1 +1,0 @@
-127. § A biztosítási áganként meghatározott minimális biztonsági tőke szükségletek összeadódnak, ha a biztosító az élet- és nem életbiztosítási ág együttes művelésére vonatkozó engedéllyel rendelkezik.

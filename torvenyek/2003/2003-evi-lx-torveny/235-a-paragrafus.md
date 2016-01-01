@@ -1,1 +1,0 @@
-235/A. § Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.

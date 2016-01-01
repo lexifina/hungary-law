@@ -1,5 +1,0 @@
-42. § (1) A független biztosításközvetítő a tevékenysége során a biztosítási szakmai szabályokat mindenkor megtartva köteles eljárni. A független biztosításközvetítő e kötelezettsége elmulasztásáért (független biztosításközvetítői műhiba), így különösen a téves tanácsadásért, a szabálytalan díjkezelésért, a nyilatkozatok késedelmes továbbításáért felelős. Ezen felelőssége kiterjed a nevében eljáró személyek tevékenységére is.
-
-(2) A független biztosításközvetítő köteles az ügyfél által befizetett, a biztosítót megillető, illetve a biztosító által befizetett, az ügyfelet megillető összegeket elkülönített ügyfélszámlákon tartani. Az ügyfélszámlákon szereplő összegek más hitelezők kielégítésére csőd-, illetve felszámolási eljárás esetén sem használhatók fel.
-
-(3) A (2) bekezdés alkalmazásában ügyfélszámlának tekintendő az a letéti számla, amelyen a független biztosításközvetítő kizárólag az ügyfelek által befizetett, a biztosítókat megillető, illetve a biztosítók által befizetett, az ügyfeleket megillető összegeket tarthatja.

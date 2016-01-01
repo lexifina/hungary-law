@@ -1,3 +1,0 @@
-142. § (1) Ha a biztosító hitelviszonyból származó kötelezettségeinek értéke meghaladja a jegyzett tőkéjének 5 százalékát, akkor annak főbb jellemzőit köteles a Felügyeletnek 2 munkanapon belül bejelenteni.
-
-(2) A biztosító köteles a matematikai tartalékoknak, a függőkár tartalékoknak és a befektetési egységekhez kötött életbiztosítások tartalékának nagyságáról és azoknak befektetéséről év közben negyedévenként jelentést készíteni, és azt a tárgynegyedévet követő hónap 15. munkanapjáig, a 4. negyedévre vonatkozó jelentést pedig a tárgyévet követő év január 31-éig a Felügyelet részére megküldeni.

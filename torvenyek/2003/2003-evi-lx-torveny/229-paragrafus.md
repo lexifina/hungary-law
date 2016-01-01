@@ -1,7 +1,0 @@
-229. § (1) A felügyeleti nyilvántartási rendszer működése megkezdésének időpontjában a biztosításközvetítő – azon biztosítón, illetve független biztosításközvetítőn keresztül, akinek a biztosításközvetítést végzi – és a szaktanácsadó köteles a nyilvántartási rendszer működése megkezdésétől számított 3 hónapon belül nyilvántartásba vételét kérni, és a nyilvántartásba vételi feltételek meglétét – ide nem értve a szakmai képesítésre vonatkozó előírást, ha ezzel még nem rendelkezik – igazolni. A szakmai képesítésre vonatkozó nyilvántartásba vételi feltételek teljesítését a biztosításközvetítő és a szaktanácsadó a felügyeleti nyilvántartási rendszer működése megkezdésétől számított 48 hónapon belül köteles a Felügyeletnek igazolni.
-
-(2) Ha a biztosításközvetítő a külön jogszabályban meghatározott szakképesítést az (1) bekezdésben magállapított határidőn belül nem szerzi meg, a Felügyelet törli a 36. §-ban meghatározott felügyeleti nyilvántartásból.
-
-(3) Az e törvény hatálybalépésekor többes biztosítási ügynöki tevékenységre vonatkozó engedéllyel rendelkező személyek és szervezetek 2004. december 31-éig kötelesek megfelelni az e törvényben foglalt követelményeknek.
-
-(4) Az e törvény hatálybalépésének napján az 55. életévét már betöltött és legalább 5 év biztosításközvetítői gyakorlattal rendelkező természetes személy a szakmai képesítésre vonatkozó nyilvántartásba vételi feltételek teljesítését a felügyeleti nyilvántartási rendszer működése megkezdésétől számított 7 éven belül köteles a Felügyeletnek igazolni.

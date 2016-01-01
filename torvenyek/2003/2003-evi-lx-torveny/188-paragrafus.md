@@ -1,7 +1,0 @@
-## Biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalataként működő biztosító korrigált szavatoló tőke megfelelése
-
-188. § (1) A 178. § (1) bekezdés b) pontjában meghatározott biztosító korrigált szavatoló tőke megfelelésének számításába be kell vonni a biztosítói holdingtársaság, vegyes pénzügyi holding társaság, harmadik országbeli biztosító, viszontbiztosító, harmadik országbeli viszontbiztosító valamennyi leányvállalatát vagy valamennyi vállalkozását, amelyben a biztosító részesedési viszonnyal rendelkezik.
-
-(2) A korrigált szavatoló tőke megfelelés számítása során az anyavállalatot úgy kell tekinteni, mintha biztosító lenne. A biztosítói holding társaság vagy vegyes pénzügyi holding társaság szavatoló tőke szükséglete nulla, a viszontbiztosító, a harmadik országbeli biztosító, a harmadik országbeli viszontbiztosító esetében pedig a 187. § (2)–(7) bekezdésében foglaltakat kell értelemszerűen alkalmazni.
-
-(3) Az anyavállalat vagy részesedési viszonnyal rendelkező vállalkozás szavatoló tőkéjéből le kell vonni minden olyan leányvállalatában vagy minden olyan vállalkozásában, amelyben részesedési viszonnyal rendelkezik, fennálló részesedése könyv szerinti értékét, amely a korrigált szavatoló tőke megfelelés számításához szükséges információkat nem bocsátja a biztosító és a Felügyelet rendelkezésére.

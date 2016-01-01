@@ -1,1 +1,0 @@
-219. § A biztosító – 126. § (4) bekezdés b) pontjának eleget tevő kölcsönös biztosító egyesület kivételével – felszámolásával kapcsolatos eljárás lefolytatására a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik.
