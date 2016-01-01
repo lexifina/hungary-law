@@ -1,0 +1,1 @@
+## 2. § A biztosító biztosítottként egy fő, 35 éves személyt vesz figyelembe. Amennyiben a termék 35 éves személy számára nem elérhető, a biztosító a számítás során a legjobb közelítését használja (minimalizálja a termékben elérhető és az e rendeletben meghatározott életkor különbségének abszolút értékét).
