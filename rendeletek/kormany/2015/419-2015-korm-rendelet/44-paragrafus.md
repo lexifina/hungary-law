@@ -1,0 +1,3 @@
+## „(3) A támogatás folyósításának (2) bekezdés szerinti felfüggesztése arra az engedélyesre és szolgáltatásra terjedhet ki, amellyel kapcsolatban a büntetőeljárás folyik.
+
+## (4) Az igazgatóság a tárgyév november 15-én az (1) bekezdés alapján felfüggesztés alatt álló támogatások összegét tárgyév november 20-áig visszautalja a minisztériumnak. Ha az igazgatóság a visszautalást követően a felfüggesztést megszünteti, az erről szóló döntését a miniszterrel is közli, és egyidejűleg megigényli a szükséges támogatást. A miniszter az igényelt támogatást az igény beérkezésétől számított 25 napon belül utalja át az igazgatóságnak. Az igazgatóság a támogatást annak hozzá történő beérkezését követő 5 napon belül folyósítja a fenntartónak.”

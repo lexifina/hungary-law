@@ -1,0 +1,1 @@
+## „i) Biztos Kezdet Gyerekház esetén a pályázó nyilatkozatát, hogy vállalja a központi dokumentációs rendszer használatát, és a statisztikai célú adatszolgáltatást a Központi Statisztikai Hivatal felé.”
