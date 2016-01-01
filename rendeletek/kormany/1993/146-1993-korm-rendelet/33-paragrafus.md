@@ -1,6 +1,6 @@
 33. § (1) A lakcímbejelentési eljárásban a befogadott polgár tekintetében szállásadó
 
-a)[^201] a magánszemély tulajdonában lévő lakás tulajdonosa vagy haszonélvezője;
+a)[^203] a magánszemély tulajdonában lévő lakás tulajdonosa vagy haszonélvezője;
 
 b) az általa bérelt lakásra nézve a bérlő (bérlőtárs, társbérlő);
 
@@ -14,7 +14,10 @@ a) a kereskedelmi szálláshely (szálloda, fogadó, kemping, üdülőház, turi
 
 b) a csecsemőotthon, más egészségügyi intézmény, diákotthon, kollégium, bentlakásos szociális intézmény vezetője (gondnoka) az irányítása alá tartozó szálláshelyre vagy lakóhelyre befogadott polgár és az ott lakó alkalmazott vagy hozzátartozó esetében.
 
-(3)[^202] A tulajdonosnak, a haszonélvezőnek, a bérlőnek, valamint a bíróság vagy más hatóság jogerős és végrehajtható határozata alapján lakó- vagy tartózkodási helyet változtatónak a lakcímjelentőlapján a ,,tulajdonos'', ,,bérlő'', illetve értelemszerűen a megfelelő kifejezést kell feltüntetni.
+(3)[^204] A tulajdonosnak, a haszonélvezőnek, a bérlőnek, valamint a bíróság vagy más hatóság jogerős és végrehajtható határozata alapján lakó- vagy tartózkodási helyet változtatónak a lakcímjelentőlapján a ,,tulajdonos'', ,,bérlő'', illetve értelemszerűen a megfelelő kifejezést kell feltüntetni.
 
-[^201]: Az R. 33. § -a (1) bekezdésének a) pontja a 13/1999. ( II.1.) Korm. rendelet 28. §-ának (1) bekezdésével megállapított szöveg.
-[^202]: Az R. 33. § -ának (3) bekezdése a 13/1999. ( II.1.) Korm. rendelet 28. §-ának (2) bekezdésével megállapított szöveg.
+(4)[^205] Közös tulajdon esetén a tulajdonostársak hozzájárulását a lakcímbejelentés során eljáró szállásadó írásbeli nyilatkozatával igazolja.
+
+[^203]: Az R. 33. § -a (1) bekezdésének a) pontja a 13/1999. ( II.1.) Korm. rendelet 28. §-ának (1) bekezdésével megállapított szöveg.
+[^204]: Az R. 33. §-ának (3) bekezdése a 13/1999. (II. 1.) Korm. rendelet 28. §-ának (2) bekezdésével megállapított szöveg.
+[^205]: Az R. 33. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -12,7 +12,7 @@
 
 ## – telefonszám.
 
-5. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^251]
+5. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^255]
 
 Külföldi letelepedésre vonatkozó nyilatkozat adattartalma
 
@@ -46,8 +46,8 @@ Külföldi letelepedésre vonatkozó nyilatkozat adattartalma
 
 2. Az ügyintéző által a nyilatkozaton rögzített adatok:
 
-2.1. az érvénytelen hatósági igazolványok átvételének időpontja,
+2.1. az érvénytelen hatósági igazolvány átvételének időpontja,
 
 2.2. ügyintéző aláírása.
 
-[^251]: Az R. 5. számú mellékletét a 417/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdés a) pontja iktatta be.
+[^255]: Az R. 5. számú mellékletét a 417/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdés a) pontja iktatta be, szövege a 414/2015. (XII. 23.) Korm. rendelet 70. § (2) bekezdése szerint módosított szöveg.

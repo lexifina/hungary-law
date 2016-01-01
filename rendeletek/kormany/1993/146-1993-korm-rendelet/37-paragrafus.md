@@ -1,9 +1,9 @@
-37. §[^219] (1)[^220] A központi címregiszterbe bejegyzett címelemek megváltozása miatt költözéssel nem járó lakcímváltozásról vagy értesítésicím-változásról a polgárnak nem kell bejelentést tennie.
+37. §[^222] (1)[^223] A központi címregiszterbe bejegyzett címelemek megváltozása miatt költözéssel nem járó lakcímváltozásról vagy értesítésicím-változásról a polgárnak nem kell bejelentést tennie.
 
 (2) A lakcímadat (1) bekezdés szerinti megváltozása nem minősül adatváltozásnak, arról az eredeti bejegyzési időpont változatlanul hagyásával – az Nytv. 13/A. §-ban meghatározott kivétellel – a változással érintett lakcím szerint illetékes járási hivatalnál előterjesztett kérelemre a lakcím szerint illetékes járási hivatal a címváltozásnak megfelelő hatósági igazolványt állít ki és kézbesít a polgár részére.
 
-(3)[^221] A járási hivatal az (1) és (2) bekezdés szerinti címadatok módosulásához kapcsolódó változást hivatalból vezeti át a nyilvántartáson.
+(3)[^224] A járási hivatal az (1) és (2) bekezdés szerinti címadatok módosulásához kapcsolódó változást hivatalból vezeti át a nyilvántartáson.
 
-[^219]: Az R. 37. § a 417/2012. (XII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^220]: Az R. 37. § (1) bekezdése a 345/2014. (XII. 23.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^221]: Az R. 37. § (3) bekezdése a 345/2014. (XII. 23.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^222]: Az R. 37. § a 417/2012. (XII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^223]: Az R. 37. § (1) bekezdése a 345/2014. (XII. 23.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^224]: Az R. 37. § (3) bekezdése a 345/2014. (XII. 23.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
