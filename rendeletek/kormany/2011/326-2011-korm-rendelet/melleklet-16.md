@@ -1,4 +1,4 @@
-## I.[^162] A járműkísérő lap tartalmi elemei
+## I.[^229] A járműkísérő lap tartalmi elemei
 
 ## H
 
@@ -134,7 +134,7 @@
 
 ## a kiállítás helye, ideje, a kiállító közlekedési igazgatási hatóság megnevezése, bélyegzőlenyomat helye
 
-## II.[^163] A járműkísérő lap kitöltésének szabályai
+## II.[^230] A járműkísérő lap kitöltésének szabályai
 
 ## I. Új jármű forgalomba helyezése előtt;
 
@@ -188,5 +188,5 @@
 
 16. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-[^162]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
-[^163]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^229]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
+[^230]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.

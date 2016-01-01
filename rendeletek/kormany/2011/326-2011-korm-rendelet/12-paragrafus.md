@@ -1,4 +1,4 @@
-## 11. §[^18]
+## 11. §[^27]
 
 ## 5. A Magyar Honvédség, rendvédelmi szervek kezelésében lévő különleges járművek vezetésére
 
@@ -8,4 +8,4 @@
 
 (2) Az (1) bekezdés szerint kiadott okmány kizárólag az (1) bekezdésben meghatározott szervek kezelésében lévő járművek vezetésére jogosít.
 
-[^18]: A 11. §-t az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^27]: A 11. §-t az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés b) pontja hatályon kívül helyezte.

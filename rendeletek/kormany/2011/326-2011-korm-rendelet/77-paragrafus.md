@@ -1,7 +1,7 @@
-77. § (1) A címke kiadásával egy időben a jelzőcsíkot a forgalmi engedélybe kell beragasztani.
+77. §[^148] (1) A jármű műszaki alkalmassági idejének a forgalmi engedélybe történő bejegyzésekor a címkét a forgalmi engedélybe kell beragasztani.
 
-(2) A jelzőcsík forgalmi engedélybe történő beragasztásakor be kell jegyezni a lejárati hónapot, valamint napot, és a bejegyzést le kell bélyegezni.
+(2) A címke forgalmi engedélybe történő beragasztásakor be kell jegyezni a lejárati hónapot, valamint napot, és a bejegyzést le kell bélyegezni.
 
-(3)[^98] A közlekedési igazgatási hatóságok műszaki érvényességet igazoló címkével való ellátása a fővárosi és megyei kormányhivatal feladatkörébe tartozik. A Hivatal az általa lefolytatott eljárásokban felhasználásra kerülő műszaki érvényességet igazoló címke beszerzéséről saját hatáskörben gondoskodik.
+(3) A közlekedési igazgatási hatóságok műszaki érvényességet igazoló címkével való ellátása a fővárosi és megyei kormányhivatal feladatkörébe tartozik. A Hivatal az általa lefolytatott eljárásokban felhasználásra kerülő műszaki érvényességet igazoló címke beszerzéséről saját hatáskörben gondoskodik.
 
-[^98]: A 77. § (3) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^148]: A 77. § a 441/2015. (XII. 28.) Korm. rendelet 154. § (10) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

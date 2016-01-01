@@ -6,7 +6,7 @@
 
 2. A CK betűjelű rendszámtábla alapszíne fehér, karakterei és a keret színe piros, két betűjelet és kötőjellel elválasztott két-két (összesen 4) számjegyet tartalmaz.
 
-3.[^159] Az OT rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4) számjegyet tartalmaz
+3.[^223] Az OT rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4) számjegyet tartalmaz
 
 4. Az RR betűjelű rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4) számjegyet tartalmaz. A Büntetés Végrehajtás 1–4999-ig, a NAV 5000–9999-ig terjedő számjeleket alkalmazza.
 
@@ -20,12 +20,17 @@
 
 9. Az 1–8. pontban meghatározott rendszámtáblák számjegyei 1–9999-ig terjednek.
 
-10. A lassú jármű rendszámtáblájának alapszíne fehér, karakterei és a keret színe piros, három betűjelből és három számjegyből áll.
+10.[^224] A lassú járműre és a lassú jármú pótkocsijára kiadott rendszámtábla alapszíne fehér, karakterei és a keret színe piros, három betűjelből és három számjegyből áll.
 
-11. A közúti közlekedési szolgáltatást végző járműre kiadott rendszámtábla alapszíne sárga, karakterei és a keret színe fekete, három betűjelből és három számjegyből áll.
+11.[^225] A közúti közlekedési szolgáltatást végző járműre kiadott rendszámtábla alapszíne sárga, karakterei és a keret színe fekete, három betűjelből és három számjegyből, egyedileg előállított rendszámtábla használatának engedélyezése esetén, legalább 4, legfeljebb 5 folyamatos betűjelből és legalább 1, legfeljebb 2 folyamatos számjegyből, együttesen 6 jelből áll.
 
 12. A különleges rendszámtáblák B és C típusainak – kivéve a 7. és 8. pontok – karakterei között nincs kötőjel.
 
 13. A négykerekű segédmotoros kerékpárra kiadott S, vagy R kezdő betűjelű „E” típusú rendszámtábla összesen 4 betűjelet és 2 számjegyet tartalmaz, alapszíne fehér, a karakterei és a keret színe fekete.
 
-[^159]: A 13. melléklet 3. pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (19) bekezdésével megállapított szöveg.
+14.[^226] A környezetkímélő gépkocsira kiadott rendszámtábla alapszíne világoszöld, karakterei és a keret színe fekete, három betűjelből és három számjegyből, egyedileg előállított rendszámtábla használatának engedélyezése esetén, legalább 4, legfeljebb 5 folyamatos betűjelből és legalább 1, legfeljebb 2 folyamatos számjegyből, együttesen 6 jelből áll.
+
+[^223]: A 13. melléklet 3. pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (19) bekezdésével megállapított szöveg.
+[^224]: A 13. melléklet 10. pontja a 467/2015. (XII.29.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^225]: A 13. melléklet 11. pontja a 467/2015. (XII.29.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^226]: A 13. melléklet 14. pontját a 467/2015. (XII.29.) Korm. rendelet 28. § (2) bekezdése iktatta be.

@@ -1,25 +1,27 @@
-## 75/A. §[^95] A Hivatal az állandó rendszámtábla elvesztése, eltulajdonítása, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő elhelyezéséről vagy törléséről a 75. § (8)–(11) bekezdéseiben meghatározott esetekben. Ezen rendelkezések a négykerekű segédmotoros kerékpárokra nem vonatkoznak.
+## 75/A. §[^145] A Hivatal az állandó rendszámtábla elvesztése, eltulajdonítása, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő elhelyezéséről vagy törléséről a 75. § (8)–(11) bekezdéseiben meghatározott esetekben. Ezen rendelkezések a négykerekű segédmotoros kerékpárokra nem vonatkoznak.
 
-## 17. Érvényesítő címke
+## 17. [^146] A jármű műszaki alkalmasságának igazolása
 
-76. § (1)[^96] Az érvényesítő címke (a továbbiakban: címke) a rendszámtáblán elhelyezett hatósági igazolás, amely a jármű műszaki alkalmasságának érvényességét jelzi. A címkét – a CD, a P, az M és a Z betűjelű ideiglenes, valamint az E típusú különleges rendszámtábla kivételével – valamennyi rendszámtáblán el kell helyezni.
+76. §[^147] (1) A jármű műszaki alkalmasságának érvényességi idejét
 
-(2) A közlekedési igazgatási hatóság által kezelt címkekészlet kettő azonos sorszámú részből áll:
+a) a forgalmi engedély „Műszaki érvényessége” rovatba bejegyzett időpont és a berögzített – egyedi sorszámmal ellátott – jelzőcsík (a továbbiakban: címke), illetve a bejegyzett időpont és a (3) bekezdés alapján a forgalmi engedélybe a közlekedési igazgatási hatóság által hitelesítetten bejegyzett címke sorszáma,
 
-a) egy darab rendszámtábla érvényesítő címke,
+b) forgalomba nem helyezett jármű esetében – a jármű forgalomba helyezéséig – a közlekedési hatóság által kiadott „Műszaki Adatlap”, vagy
 
-b) egy darab műszaki érvényességet igazoló jelzőcsík.
+c) a forgalmi engedéllyel rendelkező jármű esetében – szabad érvényesítési hely hiányában – időszakos vizsgálat alapján a közlekedési hatóság által kiadott Műszaki vizsgálati bizonyítvány – a Műszaki vizsgálati bizonyítványban „Következő időszakos vizsgálat időpontja”-ként meghatározva –
 
-(3)[^97] A címkével a járművet
+## igazolja.
+
+(2) A címkével a jármű forgalmi engedélyét
 
 a) az időszakos vizsgálata során a közlekedési hatóság,
 
 b) egyéb esetekben a közlekedési igazgatási hatóság a közlekedési hatóság igazolása vagy a nyilvántartásban szereplő adatok alapján látja el.
 
-(4) A címkét a hátsó rendszámtáblára, az A típusú rendszámtáblán a kötőjel fölé, a B típusú rendszámtáblán a rendszámtábla jobb alsó sarkába, a C típusú rendszámtáblán a H jel alá kell elhelyezni. A címke sorszámát a forgalmi engedélybe be kell jegyezni.
+(3) A (2) bekezdés b) pontja esetében a címke sorszámát a forgalmi engedélybe be kell jegyezni.
 
-(5) A forgalmi engedély cseréjekor a közlekedési igazgatási hatóság az új típusú forgalmi engedélybe a címke sorszámát, a lejárati hónapot, valamint napot bejegyzi, és a bejegyzést lebélyegzi.
+(4) A forgalmi engedély cseréjekor a közlekedési igazgatási hatóság az új típusú forgalmi engedélybe a címke sorszámát, a lejárati hónapot, valamint napot bejegyzi, és a bejegyzést lebélyegzi.
 
-[^95]: A 75/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (4) bekezdése iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^96]: A 76. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (9) bekezdésével megállapított szöveg.
-[^97]: A 76. § (3) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^145]: A 75/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (4) bekezdése iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^146]: A 17. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 154. § (9) bekezdésével megállapított szöveg.
+[^147]: A 76. § a 441/2015. (XII. 28.) Korm. rendelet 154. § (10) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

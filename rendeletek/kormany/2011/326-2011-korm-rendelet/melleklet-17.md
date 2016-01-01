@@ -80,7 +80,7 @@
 
 ## 12. A törzskönyv nyomdai sorszámának vonalkódja
 
-17. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
+17. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^231]
 
 A.
 
@@ -308,7 +308,7 @@ C.1.1 – családi név vagy cégnév
 
 C.1.2 – utónév
 
-C.1.3 – címe
+C.1.3 – címe az okmány kiállításának időpontjában
 
 C.4 – utalás arra a tényre, hogy a forgalmi engedély jogosítottja:
 
@@ -405,3 +405,5 @@ A forgalmi engedély második oldalán (Az irányelvben külön nem nevesített 
 regisztrációs matrica rendszámot tartalmazó vonalkódja
 
 – A harmonizált közösségi kódok magyarázata
+
+[^231]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

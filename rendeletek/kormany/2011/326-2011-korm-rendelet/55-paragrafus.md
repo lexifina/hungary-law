@@ -1,4 +1,4 @@
-55. § (1) Az új típusú rendszámtáblához tartozó regisztrációs matrica személygépjármű, tehergépjármű, autóbusz és vontató járműnyilvántartásba történő vételét és a hatósági jelzés valódiságát igazolja. A Hivatal tulajdonát képező regisztrációs matrica gyártótól történő megrendelése és a közlekedési igazgatási hatóság matricával történő ellátása a Hivatal, az ügyfélnek történő kiadása a közlekedési igazgatási hatóság hatáskörébe tartozik.
+55. § (1)[^112] Az új típusú rendszámtáblához tartozó regisztrációs matrica személygépkocsi, tehergépkocsi, autóbusz és vontató járműnyilvántartásba történő vételét és a hatósági jelzés valódiságát igazolja. A Hivatal tulajdonát képező regisztrációs matrica gyártótól történő megrendelése és a közlekedési igazgatási hatóság matricával történő ellátása a Hivatal, az ügyfélnek történő kiadása a közlekedési igazgatási hatóság hatáskörébe tartozik.
 
 (2) Az (1) bekezdésben meghatározott új típusú rendszámtábla regisztrációs matrica nélkül érvénytelen.
 
@@ -7,3 +7,5 @@
 (4) A regisztrációs matricát az új típusú rendszámtábla kiadásával egyidejűleg a közlekedési igazgatási hatóság adja ki.
 
 (5) A regisztrációs matrica tartalmi elemeit a 12. melléklet határozza meg.
+
+[^112]: Az 55. § (1) bekezdése a 467/2015. (XII. 27.) Korm. rendelet 29. § j) pontja szerint módosított szöveg.

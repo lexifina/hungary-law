@@ -1,0 +1,9 @@
+31. §[^68] (1) Az elkészült vezetői engedélyt a Hivatal a kérelmező részére – a (4) bekezdésben meghatározott kivétellel – postai úton küldi meg. Az így át nem vett okmányt az értesítési cím szerint illetékes közlekedési igazgatási hatóságnak kell megküldeni, amely hatóság azt a kiállítástól számított egy évig őrzi meg, ezt követően a Hivatalnak megsemmisítésre megküldi.
+
+(2) Az elkészült vezetői engedély átvehető bármely közlekedési igazgatási hatóságnál vagy a Hivatalnál is, amely hatóság az okmányt a kiállítástól számított egy évig őrzi meg, és az ez idő alatt át nem vett okmányt a Hivatal részére megsemmisítésre megküldi.
+
+(3) Az átvétel módját és helyét az ügyfélnek – a (4) bekezdésben foglaltakra is figyelemmel – a kérelem benyújtásakor kell meghatároznia.
+
+(4) Az elkészült vezetői engedély postai úton történő megküldése nem kérhető abban az esetben, ha az ügyfél a vezetői engedély kiállítása alapjául szolgáló előző vezetői engedélyét az új okmány kézhezvételéig visszakapja. Ebben az esetben az okmány csak a közlekedési igazgatási hatóságnál vagy a Hivatalnál vehető át.
+
+[^68]: A 31. § a 467/2015. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

@@ -12,18 +12,20 @@ b) a 17. melléklet A. pontja szerinti forgalmi engedéllyel kapcsolatos közlek
 
 c) a 17. melléklet B. pontja szerinti forgalmi engedélyek esetében, a „Műszaki lap” első oldalán, az „Üzemben tartói lap” vagy a „Bejelentő lap” első oldalán szereplő adatok változása esetén az üzemben tartó (tulajdonos) lakcímének (székhelyének, telephelyének) változására vonatkozó adatai kivételével, továbbá a forgalmi engedély hátoldalán a címke vagy a hivatalos feljegyzések részére fenntartott hely betelte esetén.
 
-(5) A közlekedési hatóság a jármű műszaki érvényességének határidejét a forgalmi engedélybe a Hivatal egyidejű értesítése mellett bejegyezheti. A jármű azonosító- és műszaki adatainak, valamint motorjának egyedi azonosító jelében, illetve kódjában, és a műszaki vizsga záradék változásának esetén a közlekedési hatóság által kiadott „Műszaki adatlap” alapján végzi el a közlekedési igazgatási hatóság az adatváltozás járműnyilvántartásba történő bejegyzését.
+(5)[^159] A közlekedési hatóság a jármű műszaki érvényességének határidejét a forgalmi engedélybe a Hivatal elektronikus úton történő egyidejű értesítése mellett bejegyezheti. A jármű azonosító- és műszaki adatainak, valamint motorjának egyedi azonosító jelében, illetve kódjában, és a műszaki vizsga záradék változásának esetén a közlekedési hatóság által kiadott, elektronikus úton megküldött „Műszaki Adatlap” alapján végzi el a közlekedési igazgatási hatóság az adatváltozás járműnyilvántartásba történő bejegyzését.
 
 (6) Ha nem kerül sor új forgalmi engedély kiállítására, az adatváltozást a forgalmi engedély Hivatalos feljegyzések rovatába – a járműnyilvántartásba történő bejegyzéssel egyidejűleg – kell bejegyezni.
 
 (7) A forgalmi engedély elvesztése, eltulajdonítása, megsemmisülése esetén a közlekedési igazgatási hatóság a bejelentést követően haladéktalanul gondoskodik az okmány elvesztése, eltulajdonítása, valamint megsemmisülése tényének a nyilvántartáson történő átvezetéséről.
 
-(8) Ha a forgalmi engedély eltulajdonítása miatt a rendőrségnél feljelentést tettek, a rendőrség haladéktalanul, elektronikus úton értesíti a Hivatalt, amely haladéktalanul gondoskodik az okmány eltulajdonítása tényének a nyilvántartáson történő átvezetéséről.
+(8)[^160] A forgalmi engedély eltulajdonítása miatt tett feljelentésről a rendőrség haladéktalanul, elektronikus úton értesíti a Hivatalt, amely haladéktalanul gondoskodik az okmány eltulajdonítása tényének a nyilvántartáson történő átvezetéséről.
 
 (9) Ha a közlekedési igazgatási hatóság értesül az okmány megtalálásáról, úgy haladéktalanul gondoskodik a találás tényének a nyilvántartáson történő átvezetéséről.
 
 (10) Ha a rendőrség értesül az okmány megtalálásáról, úgy haladéktalanul értesíti bármely közlekedési igazgatási hatóságot, amely gondoskodik a találás tényének a nyilvántartáson történő átvezetéséről.
 
-(11)[^108] A forgalmi engedély elvesztéséről, eltulajdonításáról, megsemmisüléséről, illetve megtalálásáról felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton kérelmezett forgalmi engedély pótlás esetében az ügyfél elektronikus úton tett nyilatkozata kerül a Hivatalnak továbbításra.
+(11)[^161] A forgalmi engedély eltulajdonításának bejelentése esetén a rendőrségi feljelentést, az okmány elvesztésének, megsemmisülésének, vagy megtalálásának bejelentése esetén az erről felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton kérelmezett forgalmi engedély pótlás esetében az ügyfél elektronikus úton tett nyilatkozata kerül a Hivatalnak továbbításra.
 
-[^108]: A 89. § (11) bekezdése az 5/2013. (I. 16.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^159]: A 89. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 154. § (11) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^160]: A 89. § (8) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^161]: A 89. § (11) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
