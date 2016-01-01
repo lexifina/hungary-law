@@ -1,11 +1,14 @@
-## 9–10. §[^7]
+## 9–10. §[^2]
 
 ## 11. § Az R3.
 
-a)–b)[^8]
+a) 4. § (1) bekezdés a) pontjában a „3.6–3.8.” szövegrész helyébe a „3.6–3.7.” szöveg,
 
-c)[^9]
+b) 6. § b) pontjában a „(2) és (7) bekezdéseiben” szövegrész helyébe a „(2) bekezdésében” szöveg,
 
-[^7]: A 9–10. § a 31. § (3) bekezdése alapján 2016. március 2-án lép hatályba.
-[^8]: A 11. § a)–b) pontja a 31. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
-[^9]: A 11. § c) pontja a 31. § (3) bekezdése alapján 2016. március 2-án lép hatályba.
+c)[^3]
+
+lép
+
+[^2]: A 9–10. § a 31. § (3) bekezdése alapján 2016. március 2-án lép hatályba.
+[^3]: A 11. § c) pontja a 31. § (3) bekezdése alapján 2016. március 2-án lép hatályba.
