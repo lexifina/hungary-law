@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2015-04-22 | 2015. évi XXXV. törvény | 1995-97-00-00.49 |
 | 2015-11-15 | 2015. évi CLXX. törvény | 1995-97-00-00.50 |
 | 2015-12-14 | 2015. évi CLXX. törvény | 1995-97-00-00.51 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 1995-97-00-00.52 |
