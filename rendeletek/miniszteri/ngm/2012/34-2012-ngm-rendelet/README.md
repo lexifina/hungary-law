@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-34-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-01-10 | 2012-34-20-2X.1 | 34/2012. (XII. 10.) NGM rendelet |
+| 2016-01-01 | 2012-34-20-2X.2 | 47/2015. (XII. 30.) NGM rendelet |
