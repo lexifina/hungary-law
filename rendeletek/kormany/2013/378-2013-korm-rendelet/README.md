@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-378-20-
 | 2014-01-02 | 2013-378-20-22.4 | 2010: CXXX. törvény |
 | 2014-01-07 | 2013-378-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-01-08 | 2013-378-20-22.6 | 2010: CXXX. törvény |
+| 2016-01-01 | 2013-378-20-22.7 | 2010: CXXX. törvény |
