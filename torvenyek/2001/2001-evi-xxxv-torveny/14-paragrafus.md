@@ -1,6 +1,6 @@
 ## A tanúsítvány érvényességének felfüggesztése, illetve visszavonása a szolgáltató részéről
 
-14. § (1) A hitelesítés-szolgáltató felfüggeszti a tanúsítvány érvényességét és ezt nyilvántartásában haladéktalanul közzéteszi, ha
+14. § (1) Ha a hitelesítésszolgáltató a szolgáltatás kapcsán biztosítja a tanúsítvány felfüggesztésének lehetőségét, a tanúsítvány érvényességét felfüggeszti és ezt nyilvántartásában haladéktalanul közzéteszi, ha
 
 a) az aláíró, illetve a képviselt személy (szervezet) kéri;
 

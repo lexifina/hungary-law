@@ -16,7 +16,7 @@ d) nyilvántartásokat vezet, és ezeket közcélú távközlő hálózatok seg�
 
 (3)
 
-(4) A Hatóság ügyintézési határideje két hónap.
+(4) A Hatóság ügyintézési határideje negyvenöt nap.
 
 (5) A Hatóság Hivatalának első fokú határozata ellen a Hatóság elnökéhez lehet fellebbezni.
 

@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-35-00-00
 | 2013-10-01 | 2013. évi CXLIII. törvény | 2001-35-00-00.22 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2001-35-00-00.23 |
 | 2014-12-31 | 2014. évi XCIII. törvény | 2001-35-00-00.24 |
+| 2016-01-01 | 2015. évi CCXXII. törvény | 2001-35-00-00.25 |
