@@ -1,9 +1,11 @@
-## 2. § A sajtó részére a NAV nyomozó hatóságai (a továbbiakban: nyomozó hatóság) tekintetében a NAV
+## 2. §[^2] A sajtó részére a NAV nyomozó hatóságai (a továbbiakban: nyomozó hatóság) tekintetében
 
-a) elnöke,
+a) az állami adó- és vámhatóság vezetője,
 
-b) bűnügyi elnökhelyettese,
+b) az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatai ellátásáért felelős szakmai helyettese,
 
-c) bűnügyi szóvivője, valamint
+c) a NAV bűnügyi szóvivője, valamint
 
-d) bűnügyi elnökhelyettese által kijelölt személy
+d) a b) pont szerinti vezető által kijelölt személy
+
+[^2]: A 2. § a 47/2015. (XII. 30.) NGM rendelet 25. §-ával megállapított szöveg.
