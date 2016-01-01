@@ -1,3 +1,3 @@
-## 2–7. §[^4]
+## 2–7. §[^5]
 
-[^4]: A 2–7. § a 2010: CXXX. törvény alapján hatályát vesztette.
+[^5]: A 2–7. § a 2010: CXXX. törvény alapján hatályát vesztette.

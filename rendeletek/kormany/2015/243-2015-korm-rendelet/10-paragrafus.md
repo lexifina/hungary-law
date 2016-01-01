@@ -1,3 +1,3 @@
-## 9. §[^6]
+## 9. §[^7]
 
-[^6]: A 9. § a 2010: CXXX. törvény alapján hatályát vesztette.
+[^7]: A 9. § a 2010: CXXX. törvény alapján hatályát vesztette.
