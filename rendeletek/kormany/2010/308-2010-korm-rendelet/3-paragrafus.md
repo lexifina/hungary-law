@@ -6,7 +6,7 @@ b)[^12] ha a szervezet az évente frissített és érvényesített környezeti n
 
 c) ha a szervezet az 1221/2009/EK európai parlamenti és tanácsi rendelet 10. cikkében foglalt, az EMAS-logó használatára vonatkozó szabályokat megsérti;
 
-d)[^13] ha a hitelesített környezeti nyilatkozat érvényesítésével összefüggésben az 1. § (5)–(6) bekezdése szerinti felügyeleti vizsgálat alapján a NAT a hitelesítés megalapozatlanságáról értesíti az OKTF-et;
+d)[^13] ha a hitelesített környezeti nyilatkozat érvényesítésével összefüggésben az 1. § (5)–(6) bekezdése szerinti felügyeleti vizsgálat alapján az akkreditáló szerv a hitelesítés megalapozatlanságáról értesíti az OKTF-et;
 
 e) a 4. § (2) bekezdésében meghatározott esetben;
 
@@ -30,5 +30,5 @@ f) ha a szervezet az (1) bekezdés f) pontjában meghatározott felfüggesztés 
 
 [^11]: A 3. § (1) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^12]: A 3. § (1) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^13]: A 3. § (1) bekezdés d) pontja az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^13]: A 3. § (1) bekezdés d) pontja az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés c) pontja, a 425/2015. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^14]: A 3. § (2) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés a) pontja szerint módosított szöveg.

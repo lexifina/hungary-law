@@ -10,13 +10,13 @@ a)[^3] az OKTF tájékoztatást ad az 1221/2009/EK európai parlamenti és taná
 
 b)[^4] a környezetvédelmi hatóság tájékoztatást ad a szervezetekre vonatkozó környezetvédelmi jogszabályokról, valamint arról, hogy milyen módon bizonyíthatják az azoknak való megfelelést.
 
-(5)[^5] Ha az eljárás során kétség merül fel az érvényesített környezeti nyilatkozat megalapozottságával kapcsolatban, az OKTF az 1221/2009/EK európai parlamenti és tanácsi rendelet 15. cikk (7) bekezdése alapján ezt jelzi a Nemzeti Akkreditáló Testületnek (a továbbiakban: NAT).
+(5)[^5] Ha az eljárás során kétség merül fel az érvényesített környezeti nyilatkozat megalapozottságával kapcsolatban, az OKTF az 1221/2009/EK európai parlamenti és tanácsi rendelet 15. cikk (7) bekezdése alapján ezt jelzi az akkreditáló szervnek.
 
-(6)[^6] Ha a NAT a környezetvédelmi hitelesítő hitelesítési és érvényesítési tevékenységének megalapozottságával kapcsolatban felügyeleti vizsgálatot folytat le, és a vizsgálat során azt állapítja meg, hogy a környezetvédelmi hitelesítő tevékenysége nem felel meg az 1221/2009/EK európai parlamenti és tanácsi rendeletben meghatározott feltételeknek, a felügyeleti vizsgálat eredményét és az akkreditáló bizottság erre vonatkozó határozatát annak jogerőre emelkedését követően haladéktalanul közli az OKTF-fel.
+(6)[^6] Ha az akkreditáló szerv a környezetvédelmi hitelesítő hitelesítési és érvényesítési tevékenységének megalapozottságával kapcsolatban felügyeleti vizsgálatot folytat le, és a vizsgálat során azt állapítja meg, hogy a környezetvédelmi hitelesítő tevékenysége nem felel meg az 1221/2009/EK európai parlamenti és tanácsi rendeletben meghatározott feltételeknek, a felügyeleti vizsgálat eredményét és az akkreditáló bizottság erre vonatkozó határozatát annak jogerőre emelkedését követően haladéktalanul közli az OKTF-fel.
 
 [^1]: Az 1. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 93. § (1) bekezdés a) pontja és (2) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés a) pontja, a 70/2015. (III. 30.) Korm. rendelet 160. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (4) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
-[^5]: Az 1. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^6]: Az 1. § (6) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés a) pontja, a 425/2015. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (6) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 93. § (2) bekezdés b) pontja, a 425/2015. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
