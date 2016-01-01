@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-225-20-
 | --- | --- | --- |
 | 2015-08-15 | 2015-225-20-22.1 | 225/2015. (VIII. 7.) Korm. rendelet |
 | 2015-08-16 | 2015-225-20-22.2 | 2010: CXXX. törvény |
+| 2016-01-01 | 2015-225-20-22.3 | 441/2015. (XII. 28.) Korm. rendelet |

@@ -1,4 +1,4 @@
-## 22. §[^1]
+## 22. §[^2]
 
 1. melléklet a 225/2015. (VIII. 7.) Korm. rendelethez
 
@@ -214,4 +214,4 @@ e) a ”Gy” lap száma;
 
 f) a bizonylat kiállításának helye, időpontja, az eljáró felek aláírása.
 
-[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

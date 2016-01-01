@@ -6,7 +6,7 @@
 
 (4) Az OKTF a minősítési eljárás tárgyát képező hulladék veszélyes vagy nem veszélyes voltáról az 1357/2014/EU rendeletben, továbbá e rendelet 2. melléklet 3. pontjában foglaltak alapján dönt.
 
-(5) Az OKTF a minősítés tárgyában a döntését a kérelem benyújtását követő 60 napon belül hozza meg.
+(5)[^1]
 
 (6) Az OKTF döntése a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túlmenően legalább a következőket tartalmazza:
 
@@ -25,3 +25,5 @@ f) a minősítési eljárás során készített jegyzőkönyvek megállapítása
 (7) Az OKTF a minősítés eredményét a határozathozatalt követő 15 napon belül az Országos Környezetvédelmi Információs Rendszer publikus felületén közzéteszi.
 
 (8) A Hulladékminősítő Bizottság tagjai a minősítést megalapozó vizsgálatokban, továbbá a laboratórium vizsgálati jelentésének elkészítésében nem vehetnek részt.
+
+[^1]: A 18. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 259-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
