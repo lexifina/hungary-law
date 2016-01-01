@@ -1,3 +1,0 @@
-## 14/C. §[^13]
-
-[^13]: A 14/C. §-t a 12/2006. (III. 23.) IM rendelet 29. §-a iktatta be, hatályon kívül helyezte a 22/2010. (XII. 28.) KIM rendelet 11. §-a.
