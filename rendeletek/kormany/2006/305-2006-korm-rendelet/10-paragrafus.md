@@ -1,4 +1,4 @@
-## 9. §[^4]
+## 9. §[^5]
 
 ## A Központ működése
 
@@ -12,4 +12,4 @@ c) teljesíti az együttműködő szervek és a Legfőbb Ügyészség adatigény
 
 (2) A Központ közreműködik az együttműködő szervek vezetői által kijelölt központi szervek és a Központ közötti adatátviteli rendszer tervezésében, kialakításában.
 
-[^4]: A 9. §-t és az azt megelőző alcímet a 208/2009. (IX. 29.) Korm. rendelet 9. § (4) bekezdése hatályon kívül helyezte.
+[^5]: A 9. §-t és az azt megelőző alcímet a 208/2009. (IX. 29.) Korm. rendelet 9. § (4) bekezdése hatályon kívül helyezte.
