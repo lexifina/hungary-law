@@ -1,4 +1,4 @@
-14/A. §[^25] (1) A céginformációs szolgálat a Ctv. 38. § (1) bekezdésében foglalt adatellenőrzés során a cégbejegyzési és változásbejegyzési kérelemben – az informatikai ellenőrzéssel egyidejűleg – az alábbi adatok ellenőrzését végzi el:
+14/A. §[^32] (1) A céginformációs szolgálat a Ctv. 38. § (1) bekezdésében foglalt adatellenőrzés során a cégbejegyzési és változásbejegyzési kérelemben – az informatikai ellenőrzéssel egyidejűleg – az alábbi adatok ellenőrzését végzi el:
 
 a) székhely, telephely, fióktelep (e § alkalmazásában a továbbiakban együtt: székhely),
 
@@ -8,7 +8,7 @@ c) a tagok cégjegyzékbe bejegyzendő adatai, továbbá adóazonosító száma,
 
 d) főtevékenység és további tevékenységi kör(ök), valamint
 
-e)[^26] az áfa-alanyiságra, illetve az áfa-adózási módra vonatkozó, továbbá egyéb adóhatóság felé tett nyilatkozat.
+e)[^33] az áfa-alanyiságra, illetve az áfa-adózási módra vonatkozó, továbbá egyéb adóhatóság felé tett nyilatkozat.
 
 (2) A céginformációs szolgálat megvizsgálja
 
@@ -22,12 +22,12 @@ d) a képviseletre jogosult és a cégjegyzékbe bejegyzendő tagok tekintetébe
 
 e) a cég bejegyzendő főtevékenységének és további tevékenységi körének (köreinek) a gazdasági tevékenységek egységes ágazati osztályozási rendszeréről (TEÁOR) szóló tájékoztatóban foglaltaknak megfelelő megjelölését, valamint
 
-f)[^27] az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti nyilatkozat és a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. §-a szerinti bejelentés kitöltésének konzisztenciáját, valamint a kisadózóként bejelentett személy adatai és a cég tagja adatainak egyezőségét.
+f)[^34] az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti nyilatkozat és a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. §-a szerinti bejelentés kitöltésének konzisztenciáját, valamint a kisadózóként bejelentett személy adatai és a cég tagja adatainak egyezőségét.
 
 (3) Amennyiben a kérelem nem tartalmazza megfelelően a (2) bekezdés szerinti adatokat, a céginformációs szolgálat az iratokat a hiba vagy hiányosság megjelölésével küldi vissza a jogi képviselőnek.
 
 (4) A céginformációs szolgálat a (2) bekezdés szerinti ellenőrzési szempontokat, valamint az ellenőrzés alapjául szolgáló adatbázisok vagy algoritmusok elérhetőségét honlapján közzéteszi. Az adatbázisok vagy algoritmusok változásáról az azt megállapító szervezet haladéktalanul értesíti a céginformációs szolgálatot.
 
-[^25]: A 14/A. §-t a 33/2012. (VII. 13.) KIM rendelet 1. §-a iktatta be, szövege a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvény hatályba lépésének napján lép hatályba
-[^26]: A 14/A. § (1) bekezdés e) pontja a 49/2012. (XI. 29.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^27]: A 14/A. § (2) bekezdés f) pontja a 49/2012. (XI. 29.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^32]: A 14/A. §-t a 33/2012. (VII. 13.) KIM rendelet 1. §-a iktatta be, szövege a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvény hatályba lépésének napján lép hatályba
+[^33]: A 14/A. § (1) bekezdés e) pontja a 49/2012. (XI. 29.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^34]: A 14/A. § (2) bekezdés f) pontja a 49/2012. (XI. 29.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.

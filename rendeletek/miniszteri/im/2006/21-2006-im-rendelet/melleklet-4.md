@@ -4,7 +4,7 @@
 
 ## 8M24949
 
-4. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^39]
+4. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^45]
 
 ## A KÖZKERESETI TÁRSASÁG SZERZŐDÉSMINTÁJA
 
@@ -358,7 +358,7 @@ Ellenjegyezte/közokiratba foglalta:[^61.]
 
 ...........................................................................................................................................
 
-[^39]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be.
+[^45]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés c) pontja szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nincs szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -395,7 +395,7 @@ Ellenjegyezte/közokiratba foglalta:[^61.]
 [^34.]: Ptk. 3:20. §
 [^35.]: Aláhúzással jelölendő.
 [^36.]: Több tag esetén bővíthető.
-[^37.]: Aláhúzással jelölendő.
+[^37.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^38.]: Több ügyvezetésre és képviseletre jogosult tag esetén bővíthető.
 [^39.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja el, e jogi személy tag cégnevét kell megjelölni.
 [^40.]: Szükség esetén kitöltendő.

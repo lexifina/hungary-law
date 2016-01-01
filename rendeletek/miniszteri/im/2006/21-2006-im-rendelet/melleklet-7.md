@@ -430,13 +430,13 @@
 
 ## A megbízatás lejárta:
 
-## 18. A társaság megszűnése
+## 17. A társaság megszűnése
 
 ## A társaság jogutód nélküli megszűnése esetében a hitelezők kielégítése után fennmaradó vagyont a tagok között a vagyoni hozzájárulás arányában kell felosztani.
 
-## 19. Egyéb rendelkezések
+## 18. Egyéb rendelkezések
 
-## 19.1. Azokban az esetekben, amikor a Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.) a társaságot kötelezi arra, hogy közleményt tegyen közzé, a társaság e kötelezettségének[^83.]
+## 18.1. Azokban az esetekben, amikor a Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.) a társaságot kötelezi arra, hogy közleményt tegyen közzé, a társaság e kötelezettségének[^83.]
 
 ## a) a Cégközlönyben
 
@@ -444,9 +444,9 @@
 
 ## tesz eleget.
 
-## 19.2. Egyszemélyes társaság jön létre, ha egy többszemélyes korlátolt felelősségű társaság valamennyi üzletrészét ugyanaz a tag szerzi meg. A társaság egyszemélyessé válásától kezdődően az egyszemélyes társaságra vonatkozó szabályok szerint működik, de társasági szerződés helyett akkor kell alapító okiratot készíteni, ha az egyszemélyessé válásától számított egy éven belül nem jelent be újabb tagot.
+## 18.2. Egyszemélyes társaság jön létre, ha egy többszemélyes korlátolt felelősségű társaság valamennyi üzletrészét ugyanaz a tag szerzi meg. A társaság egyszemélyessé válásától kezdődően az egyszemélyes társaságra vonatkozó szabályok szerint működik, de társasági szerződés helyett akkor kell alapító okiratot készíteni, ha az egyszemélyessé válásától számított egy éven belül nem jelent be újabb tagot.
 
-## 19.3. A jelen társasági szerződésben nem szabályozott kérdésekben a Ptk. rendelkezéseit kell alkalmazni.
+## 18.3. A jelen társasági szerződésben nem szabályozott kérdésekben a Ptk. rendelkezéseit kell alkalmazni.
 
 ## Kelt: ..........................................................................
 
@@ -464,7 +464,7 @@
 
 ## ................................................................................................................................................
 
-7. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^42]
+7. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^48]
 
 ## AZ EGYSZEMÉLYES KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG ALAPÍTÓ OKIRAT MINTÁJA
 
@@ -831,7 +831,7 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^59.]: Aláhúzással jelölendő.
 [^60.]: Legfeljebb 5 évig (Ptk. 3:114.§).
 [^61.]: Az a) pont választása esetén kitöltendő.
-[^62.]: Aláhúzással jelölendő.
+[^62.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^63.]: Aláhúzással jelölendő.
 [^64.]: Kizárólag a 13.1. a) pont aláhúzása esetén tölthető ki.
 [^65Cégvezetőnek]: Több cégvezető esetén bővíthető.
@@ -856,7 +856,7 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^84.]: Amennyiben a társaság a közvetlen közzétételi kötelezettségének honlapján tesz eleget, a cégjegyzéknek tartalmaznia kell a társaság honlapjának címét.
 [^85Név:]: Bővíthető.
 [^86.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^42]: A 7. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés d) pontja iktatta be.
+[^48]: A 7. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés d) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés f) pontja szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -882,7 +882,7 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^23.]: Aláhúzással jelölendő.
 [^24.]: Legfeljebb 5 évre (Ptk. 3:114. §).
 [^25.]: Az a) pont választása esetén kitöltendő.
-[^26.]: Aláhúzással jelölendő.
+[^26.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^27.]: Aláhúzással jelölendő.
 [^28.]: Kizárólag a 12.1 a) pont aláhúzása esetén tölthető ki.
 [^29:]: Szükség esetén bővíthető.

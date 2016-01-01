@@ -6,4 +6,6 @@
 
 (3) Ha a cég az átalakulása során az átalakulás időpontját meghatározza [Ctv. 57. § (2) bekezdés], a jogelőd cég (cégek) cégjegyzékében is fel kell tüntetni azt az időpontot, amely a jogutód cég (cégek) cégjegyzékében az átalakulás időpontjaként szerepel.
 
-(4) Ha az egyéni cég egyszemélyes korlátolt felelősségű társasággá vagy egyszemélyes részvénytársasággá alakul át, a cégbíróság az átalakulás cégbejegyzését követően erről – a szükséges intézkedések megtétele céljából – elektronikus levélben értesíti az egyéni vállalkozás nyilvántartását vezető hatóságot.
+(4)[^30]
+
+[^30]: A 13. § (4) bekezdését a 39/2015. (XII. 21.) IM rendelet 1. § (12) bekezdés a) pontja hatályon kívül helyezte.

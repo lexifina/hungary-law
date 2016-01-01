@@ -1,4 +1,4 @@
-5. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^40]
+5. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^46]
 
 ## A BETÉTI TÁRSASÁG SZERZŐDÉSMINTÁJA
 
@@ -362,7 +362,7 @@ A társaság jogutód nélküli megszűnése esetén a tartozások kiegyenlíté
 
 17. Vegyes és záró rendelkezések, nyilatkozatok
 
-17.1. A természetes személy tagok kijelentik, hogy nagykorúak, továbbá nem tagjai olyan más gazdasági társaságnak, ahol felelősségük korlátlan, és nem egyéni vállalkozók. Kijelentik továbbá, hogy eltiltás hatálya alatt nem állnak.
+17.1. A természetes személy tagok kijelentik, hogy nagykorúak, továbbá a beltag(ok) kijelenti(k), hogy nem tagja(i) olyan más gazdasági társaságnak, ahol felelőssége (felelősségük) korlátlan, és nem egyéni vállalkozó(k). A tagok kijelentik továbbá, hogy eltiltás hatálya alatt nem állnak.
 
 17.2. Az ügyvezetésre és a képviseletre jogosult tagok kijelentik, hogy nem összeférhetetlenek, és nem állnak eltiltás hatálya alatt.
 
@@ -388,7 +388,7 @@ Ellenjegyezte/közokiratba foglalta:[^71.]
 
 …...........................................................................................................................................
 
-[^40]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be.
+[^46]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (7) bekezdése és (11) bekezdés d) pontja szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerinti kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -434,7 +434,7 @@ Ellenjegyezte/közokiratba foglalta:[^71.]
 [^43.]: Aláhúzással jelölendő.
 [^44Név]: Több tag esetén bővíthető.
 [^45.]: Aláhúzással jelölendő.
-[^46.]: Aláhúzással jelölendő.
+[^46.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^47.]: Több ügyvezetésre és képviseletre jogosult tag esetén bővíthető.
 [^48.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja e, e jogi személy tag nevét kell megjelölni.
 [^49.]: Szükség esetén kitöltendő.
