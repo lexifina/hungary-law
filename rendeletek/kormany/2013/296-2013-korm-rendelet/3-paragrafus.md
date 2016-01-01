@@ -1,4 +1,4 @@
-## 2. § A vállalkozási tevékenységet nem folytató egyházi jogi személynek az Szt. könyvvezetésre, bizonylatolásra vonatkozó előírásait – a bevett egyház belső szabályában a beszámolót alátámasztó sajátos nyilvántartási rendre meghatározott szabályokra tekintettel – kell figyelembe vennie.
+## 2. §[^1] A vállalkozási tevékenységet nem folytató egyházi jogi személynek az Szt. könyvvezetésre, bizonylatolásra vonatkozó előírásait – a belső szabályában a beszámolót alátámasztó sajátos nyilvántartási rendre meghatározott szabályokra tekintettel – kell figyelembe vennie.
 
 3. § (1) Az egyszeres könyvvitelt vezető egyházi jogi személy – saját elhatározása alapján – bármelyik naptári év első napjával áttérhet a kettős könyvvitelre.
 
@@ -9,3 +9,5 @@
 (4) Az a kettős könyvvitelt vezető egyházi jogi személy, amely saját elhatározása alapján választotta a kettős könyvvitelt, az egyszeres könyvvitel vezetésére a kettős könyvvitelre történő áttérés évét követő második év első napjával térhet át, ha megfelel az arra meghatározott feltételeknek.
 
 (5) Ha az egyházi jogi személy nyilvántartásba vételére a számviteli év során kerül sor, a könyvvezetési kötelezettség megállapításánál az éves szintre időarányosan átszámított bevételi értékeket kell figyelembe vennie.
+
+[^1]: A 2. § a 484/2015. (XII. 29.) Korm. rendelet 105. §-a szerint módosított szöveg.

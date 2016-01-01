@@ -1,4 +1,4 @@
-## 4. § A könyvvezetés során elkülönítetten kell kimutatni az alaptevékenységgel és a vállalkozási tevékenységgel kapcsolatos bevételeket és költségeket, ráfordításokat.
+## 4. §[^2] A könyvvezetés során elkülönítetten kell kimutatni az alaptevékenységgel és a vállalkozási tevékenységgel kapcsolatos bevételeket és költségeket, ráfordításokat, továbbá – ha a közcélú adományról a személyi jövedelemadóról szóló törvény, illetve az adományról a társasági adóról és osztalékadóról szóló törvény rendelkezései szerinti kedvezmény igénybevételére jogosító igazolást állít ki – a kapott adományt (közcélú adományt) és annak felhasználását.
 
 ## 3. Az egyházi jogi személy beszámolókészítésének sajátosságai
 
@@ -8,6 +8,9 @@
 
 (3) Az egyszerűsített éves beszámoló az 1. melléklet szerinti mérlegből és eredménykimutatásból, az egyszerűsített beszámoló a 2. melléklet szerinti egyszerűsített mérlegből és eredménylevezetésből áll.
 
-(4) Ha az egyházi jogi személy vállalkozási tevékenységet nem folytat, az egyszerűsített éves beszámoló és az egyszerűsített beszámoló formáját és tartalmát– a (3) bekezdéstől eltérően – a bevett egyház belső szabályában határozza meg.
+(4)[^3] Ha az egyházi jogi személy vállalkozási tevékenységet nem folytat, az egyszerűsített éves beszámoló és az egyszerűsített beszámoló formáját és tartalmát– a (3) bekezdéstől eltérően – a belső szabályában határozza meg.
 
 (5) Az egyházi jogi személy kiegészítő mellékletet és üzleti jelentést nem készít.
+
+[^2]: A 4. § a 484/2015. (XII. 29.) Korm. rendelet 100. §-ával megállapított szöveg.
+[^3]: Az 5. § (4) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 105. §-a szerint módosított szöveg.

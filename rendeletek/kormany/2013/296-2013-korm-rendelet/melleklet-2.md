@@ -34,7 +34,7 @@
 
 ## III. Értékelési tartalék
 
-## IV. Mérleg szerinti eredmény
+## IV. Adózott eredmény
 
 ## 1. Alaptevékenységből származó eredmény
 
@@ -54,9 +54,9 @@
 
 ## 2. Az egyszerűsített éves beszámoló eredménykimutatásának előírt tagolása
 
-|  | Alap- | Vállalkozási | Összesen |  |
+|  | Alap- |  | Vállalkozási |  | Összesen |
 
-|  | tevékenység | tevékenység |  |  |
+|  | tevékenység |  | tevékenység |  |  |
 
 ## 1. Értékesítés nettó árbevétele
 
@@ -78,43 +78,27 @@
 
 ## 4. Pénzügyi műveletek bevételei
 
-## 5. Rendkívüli bevételek
+## A. ÖSSZES BEVÉTEL (1-4.)
 
-## ebből:
+## 5. Anyagi jellegű ráfordítások
 
-## a) egyházi támogatások
+## 6. Személyi jellegű ráfordítások
 
-## b) központi költségvetési támogatások
+## 7. Értékcsökkenési leírás
 
-## c) helyi önkormányzati támogatások
+## 8. Egyéb ráfordítások
 
-## d) egyéb támogatások
+## 9. Pénzügyi műveletek ráfordításai
 
-## e) az a)–d) pont szerinti támogatásokból továbbutalási céllal kapott és továbbutalt támogatások
+## B. ÖSSZES RÁFORDÍTÁS (5-9.)
 
-## A. ÖSSZES BEVÉTEL (1–5.)
+## C. ADÓZÁS ELŐTTI EREDMÉNY (A-B)
 
-## 6. Anyagi jellegű ráfordítások
+## 10. Adófizetési kötelezettség
 
-## 7. Személyi jellegű ráfordítások
+## D. ADÓZOTT EREDMÉNY (C-10.)
 
-## 8. Értékcsökkenési leírás
-
-## 9. Egyéb ráfordítások
-
-## 10. Pénzügyi műveletek ráfordításai
-
-## 11. Rendkívüli ráfordítások
-
-## B. ÖSSZES RÁFORDÍTÁS (6–11.)
-
-## C. ADÓZÁS ELŐTTI EREDMÉNY (A–B).
-
-## 12. Adófizetési kötelezettség
-
-## D. MÉRLEG SZERINTI EREDMÉNY (C–12.)
-
-2. melléklet a 296/2013. (VII. 29.) Korm. rendelethez
+2. melléklet a 296/2013. (VII. 29.) Korm. rendelethez[^11]
 
 1. Az egyszerűsített beszámoló egyszerűsített mérlegének előírt tagolása
 
@@ -146,17 +130,13 @@ I. Induló tőke
 
 II. Tőkeváltozás
 
-III. Egyszerűsített mérleg szerinti eredmény
+III. Egyszerűsített beszámoló adózott eredménye
 
-1. Alaptevékenységből származó eredmény
+## D. Tartalék
 
-2. Vállalkozási tevékenységből származó eredmény
+## E. Céltartalékok
 
-D. Tartalék
-
-E. Céltartalékok
-
-F. Kötelezettségek
+## F. Kötelezettségek
 
 I. Hosszú lejáratú kötelezettségek
 
@@ -202,4 +182,6 @@ VI. Ráfordításként nem érvényesíthető kiadások
 
 VII. Fizetendő társasági adó
 
-F. Egyszerűsített mérleg szerinti eredmény (E-VII)
+F. Egyszerűsített beszámoló adózott eredménye (E-VII)
+
+[^11]: A 2. melléklet a 484/2015. (XII. 29.) Korm. rendelet 104. § (2) bekezdése szerint módosított szöveg.
