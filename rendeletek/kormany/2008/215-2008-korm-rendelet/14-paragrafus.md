@@ -1,6 +1,6 @@
-14. §[^35] (1) A testületi tag megbízatásának az Fgytv. 24. § (1) bekezdés b)–f) pontja alapján történő megszűnése esetén, a tag pótlására irányuló eljárásban,
+14. §[^38] (1) A testületi tag megbízatásának az Fgytv. 24. § (1) bekezdés b)–f) pontja alapján történő megszűnése esetén, a tag pótlására irányuló eljárásban,
 
-a)[^36] ha a tag a fogyasztóvédelmi egyesületek által kijelölt személy volt, a 3. § (2) és (4) bekezdését és a 4–10. §-t,
+a)[^39] ha a tag a fogyasztóvédelmi egyesületek által kijelölt személy volt, a 3. § (2) és (4) bekezdését és a 4–10. §-t,
 
 b) ha a tag a kamarák által kijelölt személy volt, a 3. § (3) és (4) bekezdését és a 11. §-t
 
@@ -10,5 +10,5 @@ kell alkalmazni azzal, hogy a 3. § (2), illetve (3) bekezdésének alkalmazás�
 
 (3) A tag pótlására irányuló eljárás során kijelölt személy megbízatása a békéltető testület megbízatásának lejártáig szól.
 
-[^35]: A 14. § a 131/2010. (IV. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^36]: A 14. § (1) bekezdés a) pontja a 182/2011. (IX. 2.) Korm. rendelet 9. § (2) bekezdés b) pontja, a 306/2012. (X. 29.) Korm. rendelet 3. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^38]: A 14. § a 131/2010. (IV. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^39]: A 14. § (1) bekezdés a) pontja a 182/2011. (IX. 2.) Korm. rendelet 9. § (2) bekezdés b) pontja, a 306/2012. (X. 29.) Korm. rendelet 3. § (8) bekezdés b) pontja szerint módosított szöveg.
