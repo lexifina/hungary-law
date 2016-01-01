@@ -4,7 +4,7 @@
 
 a) segít a gyermeknek panasza megfogalmazásában, kezdeményezheti annak kivizsgálását,
 
-b) segíti a gyermeket az állapotának megfelelő ellátáshoz való hozzájutásban, a gyermekjóléti szolgálat esetmegbeszélésén, illetve a gyámhatóság által tartott tárgyaláson az ezzel kapcsolatos megjegyzések, kérdések megfogalmazásában,
+b) segíti a gyermeket az állapotának megfelelő ellátáshoz való hozzájutásban, a gyermekjóléti szolgáltatást nyújtó szolgáltató esetmegbeszélésén, illetve a gyámhatóság által tartott tárgyaláson az ezzel kapcsolatos megjegyzések, kérdések megfogalmazásában,
 
 c) a 36. § (2) bekezdése szerinti esetben eljár a gyermek szülője vagy más törvényes képviselője, a gyermek, illetve fiatal felnőtt, valamint a gyermek-önkormányzat felkérése alapján,
 

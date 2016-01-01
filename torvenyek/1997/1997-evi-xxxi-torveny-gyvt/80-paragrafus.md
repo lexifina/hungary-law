@@ -1,6 +1,6 @@
 ## A nevelésbe vétel megvalósulása
 
-80. § (1) A nevelésbe vételhez kapcsolódó, a gyermek véleményét figyelembe vevő egyéni elhelyezési terv megvalósításában, a feladatok teljesítésében a gyermek gyermekvédelmi gyámja, gondozója, valamint – ha szülői felügyeleti joga nem szűnt meg – a szülője, a szülő lakóhelye szerint illetékes gyermekjóléti szolgálat és települési önkormányzat együttműködik.
+80. § (1) A nevelésbe vételhez kapcsolódó, a gyermek véleményét figyelembe vevő egyéni elhelyezési terv megvalósításában, a feladatok teljesítésében a gyermek gyermekvédelmi gyámja, gondozója, valamint – ha szülői felügyeleti joga nem szűnt meg – a szülője, a szülő lakóhelye szerint illetékes gyermekjóléti központ és települési önkormányzat együttműködik.
 
 (2) A gyámhatóság a nevelésbe vett gyermek és a kapcsolattartásra jogosult szülő, illetve más hozzátartozó kapcsolatát, a szülőnek, más hozzátartozónak a nevelőszülővel, a gyermekotthonnal, a fogyatékosok vagy pszichiátriai betegek otthonával és a gyermekvédelmi gyámmal való együttműködését, továbbá a szülő, más hozzátartozó magatartásában, életvitelében és körülményeiben beálló változásokat folyamatosan figyelemmel kíséri.
 

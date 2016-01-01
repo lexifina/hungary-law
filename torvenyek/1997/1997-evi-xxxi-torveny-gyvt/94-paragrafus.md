@@ -12,7 +12,7 @@
 
 (2) A települési önkormányzat az e törvényben foglaltak szerint, a (2a)–(4) bekezdésben meghatározottak figyelembevételével biztosítja a személyes gondoskodást nyújtó gyermekjóléti alapellátásokat, valamint, ha a (2a)–(4) bekezdés alapján nem köteles az ellátás biztosítására, szervezi és közvetíti a máshol igénybe vehető ellátásokhoz való hozzájutást.
 
-(2a) A települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat lakosságszámtól függetlenül köteles gyermekjóléti szolgálatot működtetni.
+(2a) Polgármesteri hivatalt működtető települési önkormányzat, a közös önkormányzati hivatal székhelye szerinti települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat lakosságszámtól függetlenül köteles gyermekjóléti szolgálatot működtetni. A közös önkormányzati hivatal székhelye szerinti települési önkormányzat által működtetett gyermekjóléti szolgálat ellátási területe a közös önkormányzati hivatalhoz tartozó települések lakosságára terjed ki.
 
 (3) Az a települési önkormányzat, fővárosban a kerületi önkormányzat, amelynek területén
 
@@ -22,11 +22,11 @@ b) húszezernél több állandó lakos él, az a) pontban meghatározottak melle
 
 c) harmincezernél több állandó lakos él, az a) és b) pontokban meghatározottak mellett családok átmeneti otthonát,
 
-d) negyvenezernél több állandó lakos él, az a)–c) pontokban meghatározottak mellett gyermekjóléti központot [40. § (3) bek.]
+d)
 
 köteles működtetni.
 
-(4) A megyei jogú város lakosságszámtól függetlenül köteles gyermekjóléti központot működtetni.
+(4) A járásszékhely település, a fővárosban a fővárosi kerületi önkormányzat és a megyei jogú város lakosságszámtól függetlenül köteles gyermekjóléti központot működtetni. A járásszékhely településen működő gyermekjóléti központ ellátási területe a járás lakosságára terjed ki.
 
 (5) A települési önkormányzat által fenntartott intézmények ellátási területe a település lakosságára terjed ki, kivéve, ha az intézményt társulás keretében közösen tartják fenn, vagy ha az ellátást szerződésben vállalta más önkormányzat lakosságára is kiterjedően.
 

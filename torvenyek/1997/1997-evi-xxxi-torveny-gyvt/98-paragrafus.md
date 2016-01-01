@@ -66,6 +66,14 @@ d) alkalmazhatja a kormányrendeletben meghatározott egyéb jogkövetkezmények
 
 (10) A szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a fenntartó a kérelmeket, a kérelemhez csatolandó iratokat és nyilatkozatokat, valamint a működést engedélyező szervnek benyújtandó más iratokat elektronikus úton nyújtja be, a működést engedélyező szerv felé fennálló, jogszabályban meghatározott bejelentési kötelezettségét elektronikus úton teljesíti, a működést engedélyező szerv a döntéseit és az ellenőrzés megindításáról szóló értesítéseit elektronikus úton közli. A fenntartó meghatalmazotti képviselőjének adott meghatalmazás papíralapon is benyújtható.
 
+(10a) Ha a bejegyzéshez vagy az adatmódosításhoz kormányrendeletben meghatározott szakkérdést is vizsgálni kell, és kormányrendelet rövidebb ügyintézési határidőt nem állapít meg, az elsőfokú eljárásban
+
+a) az ügyintézési határidő ötven nap, és
+
+b) a szakhatóság eljárásának és a szakértői vélemény elkészítésének időtartama beszámít az ügyintézési határidőbe.
+
+(10b) Ha a működést engedélyező szerv az ellenőrzés során a módszertani feladatokat ellátó szervet vagy a kijelölt egyházi módszertani intézményt szakértőként rendeli ki, a szakértő a szakvéleményét a kirendelő végzés vele való közlésétől számított negyvenöt napon belül készíti el, és küldi meg a működést engedélyező szervnek.
+
 (11) A Szociális Ágazati Portálon – a (12) és (13) bekezdésben meghatározottak szerint – közzé kell tenni
 
 a) a működést engedélyező szervnek a szolgáltató, intézmény, hálózat (székhely, telephely) ellenőrzése során hozott, fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát,

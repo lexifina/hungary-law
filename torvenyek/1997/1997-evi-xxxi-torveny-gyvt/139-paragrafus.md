@@ -54,6 +54,8 @@ d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és l
 
 e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban, a 62–65. §-ban, a 66. § (1) és (2) bekezdésében, a 66. § (3) bekezdés a) és d)–f) pontjaiban meghatározott szolgáltatások, ellátások esetén.
 
+(3a) Gyermekjóléti szolgáltatás esetében csak a (2) bekezdés a) pont aa) és ac) alpontja szerinti adatokat kell nyilvántartásba venni, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható.
+
 (4) A (2) bekezdés szerinti nyilvántartásból a személyes gondoskodást nyújtó gyermekjóléti alapellátás és gyermekvédelmi szakellátás igénybevételének megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat. A nyilvántartásból – ha törvény eltérően nem rendelkezik – adat nem továbbítható.
 
 (5) A (2) bekezdés szerinti nyilvántartás vezetése céljából a Kormány által kijelölt szerv a (2) bekezdés a)–d) pontjaiban meghatározott adatok szolgáltatását kérheti a személyes gondoskodást nyújtó gyermekjóléti alapellátást, gyermekvédelmi szakellátást nyújtó személyektől vagy intézményektől.

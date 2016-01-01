@@ -1,6 +1,6 @@
 ## A nevelésbe vétel felülvizsgálata
 
-80/A. § (1) A gyámhatóság a nevelésbe vétel fenntartásának szükségességét a gyermek gondozási helyét meghatározó döntés jogerőre emelkedését követő első két évben félévente felülvizsgálja, kivéve ha a gyermek nevelésbe vétele megszüntetésének, családbafogadásának vagy örökbefogadásának előkészítése zajlik, vagy a gyermek elhelyezése, illetve a szülői felügyeleti jog megszüntetése tárgyában per van folyamatban. A felülvizsgálat során a gyámhatóság értékeli
+80/A. § (1) A gyámhatóság a nevelésbe vétel fenntartásának szükségességét a gyermek gondozási helyét első alkalommal meghatározó döntés jogerőre emelkedését követő első két évben félévente felülvizsgálja, kivéve ha a gyermek nevelésbe vétele megszüntetésének, családbafogadásának vagy örökbefogadásának előkészítése zajlik, vagy a gyermek elhelyezése, illetve a szülői felügyeleti jog megszüntetése tárgyában per van folyamatban. A felülvizsgálat során a gyámhatóság értékeli
 
 a) a gondozási hely megfelelőségét a gyermek számára,
 
@@ -14,9 +14,9 @@ e) – különösen kilenc év alatti gyermek esetén – a gyermek örökbefoga
 
 f) örökbe fogadható gyermek esetén – kivéve ha az már folyamatban van – az örökbefogadása érdekében a területi gyermekvédelmi szakszolgálat által tett intézkedéseket.
 
-(2) A gyámhatóság a nevelésbe vétel fenntartásának szükségességét a gyermek gondozási helyét meghatározó döntés jogerőre emelkedését követő harmadik évtől kezdve – a (3) bekezdés szerinti kivétellel – évente felülvizsgálja, amelynek során értékeli az (1) bekezdésben foglaltakat.
+(2) A gyámhatóság a nevelésbe vétel fenntartásának szükségességét a gyermek gondozási helyét első alkalommal meghatározó döntés jogerőre emelkedését követő harmadik évtől kezdve – a (3) bekezdés szerinti kivétellel – évente felülvizsgálja, amelynek során értékeli az (1) bekezdésben foglaltakat.
 
-(3) A gyámhatóság a nevelésbe vétel fenntartásának szükségességét kilenc év fölötti gyermek esetében a gyermek gondozási helyét meghatározó döntés jogerőre emelkedését követő harmadik évtől kétévente felülvizsgálja. Ennek során értékeli
+(3) A gyámhatóság a nevelésbe vétel fenntartásának szükségességét kilenc év fölötti gyermek esetében a gyermek gondozási helyét első alkalommal meghatározó döntés jogerőre emelkedését követő harmadik évtől kétévente felülvizsgálja. Ennek során értékeli
 
 a) a gondozási hely megfelelőségét a gyermek számára,
 

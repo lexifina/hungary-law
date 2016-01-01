@@ -18,4 +18,4 @@ d) az intézményt fenntartó képviselői.
 
 (5) Az érdekképviseleti fórum az intézmény vezetőjénél véleményt nyilváníthat a gyermeket, fiatal felnőttet érintő ügyekben, valamint javaslatot tehet az intézmény alaptevékenységével összhangban végzett szolgáltatások tervezéséről, működtetéséről, valamint az ebből származó bevételek felhasználásáról. Az érdekképviseleti fórum egyetértési jogot gyakorol a házirend jóváhagyásánál.
 
-(6) A gyermekjóléti szolgálatban és a házi gyermekfelügyelet formájában biztosított napközbeni ellátásban részesülők érdekvédelmére a fenntartónak érdekképviseleti fórumot nem kell működtetnie. Panaszjoguk gyakorlására a 36. §-ban foglaltak az irányadók.
+(6) A gyermekjóléti szolgáltatásban és a házi gyermekfelügyelet formájában biztosított napközbeni ellátásban részesülők érdekvédelmére a fenntartónak érdekképviseleti fórumot nem kell működtetnie. Panaszjoguk gyakorlására a 36. §-ban foglaltak az irányadók.

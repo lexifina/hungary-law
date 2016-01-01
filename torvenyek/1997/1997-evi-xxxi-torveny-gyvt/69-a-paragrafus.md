@@ -8,7 +8,7 @@
 
 (2) A szolgáltatás körébe tartozik
 
-a) a gyermek saját családjában való nevelkedése érdekében a családgondozás keretében végzett tanácsadás és segítségnyújtás a válsághelyzetben lévő, különösen a terhességét eltitkolni szándékozó várandós anya számára,
+a) a gyermek saját családjában való nevelkedése érdekében a szociális segítőmunka keretében végzett tanácsadás és segítségnyújtás a válsághelyzetben lévő, különösen a terhességét eltitkolni szándékozó várandós anya számára,
 
 b) erre irányuló igény esetén a családok átmeneti otthonában biztosított ellátáshoz való hozzájutás szervezése,
 

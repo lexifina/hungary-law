@@ -30,7 +30,7 @@ a) alaptevékenysége keretében legfeljebb nyolc hét időtartamra
 
 aa) lakhatást biztosít és szükség esetén biztosítja az étkeztetést, a ruházattal való ellátást, a mentálhigiénés és egészségügyi ellátást,
 
-ab) közreműködik – a családsegítő, illetve a gyermekjóléti szolgálattal együttműködve – a krízisellátást szükségessé tevő okok megszüntetésében, a család, az egyén helyzetének rendezésében, otthontalanságának megszüntetésében,
+ab) közreműködik – a gyermekjóléti szolgálattal együttműködve – a krízisellátást szükségessé tevő okok megszüntetésében, a család, az egyén helyzetének rendezésében, otthontalanságának megszüntetésében,
 
 b) kiegészítő tevékenysége keretében a bántalmazott társadalmi reintegrációja érdekében legfeljebb öt év időtartamra félutasház-szolgáltatást nyújthat.
 
@@ -52,6 +52,6 @@ c) a bántalmazott vállalja a külön jogszabályban meghatározott társadalmi
 
 a) lakhatást biztosít, és szükség esetén biztosítja az étkeztetést, a ruházattal való ellátást, a mentálhigiénés ellátást, valamint segítséget nyújt az egészségügyi ellátáshoz való hozzáféréshez,
 
-b) közreműködik – a gyermekjóléti, illetve családsegítő szolgálattal együttműködve – a titkos menedékház szolgáltatást szükségessé tevő okok megszüntetésében, a család, az egyén helyzetének rendezésében, otthontalanságának megszüntetésében,
+b) közreműködik – a gyermekjóléti szolgálattal együttműködve – a titkos menedékház szolgáltatást szükségessé tevő okok megszüntetésében, a család, az egyén helyzetének rendezésében, otthontalanságának megszüntetésében,
 
 c) segítséget nyújt a bántalmazás következtében kialakult pszichés sérülések kezelésében és jogi tanácsadással segíti a (10) bekezdésben foglalt személy érdekeinek védelmét.

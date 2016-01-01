@@ -4,6 +4,6 @@ a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézm�
 
 b) jelzi a gyámhatóságnak, ha a gyermekvédelmi gyám vagy az egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő gyámi tisztségéből való felmentése vagy felfüggesztése indokolt,
 
-c) szervezi az elhelyezési terv végrehajtását, és ennek érdekében – a gyermekjóléti szolgálattal együttműködve – elősegíti a vér szerinti család és a gyermek közötti kapcsolat helyreállítását, fenntartását.
+c) szervezi az elhelyezési terv végrehajtását, és ennek érdekében – a gyermekjóléti központtal együttműködve – elősegíti a vér szerinti család és a gyermek közötti kapcsolat helyreállítását, fenntartását.
 
 (2) A gyermekvédelmi szakszolgáltatás a kapcsolattartást szabályozó jogszabályokban meghatározottak szerint elősegíti a gyermekvédelmi szakellátásban lévő gyermek és a kapcsolattartásra jogosult kapcsolattartását.

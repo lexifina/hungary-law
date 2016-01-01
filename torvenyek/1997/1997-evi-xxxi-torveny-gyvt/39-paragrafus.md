@@ -8,7 +8,7 @@ a) a gyermeki jogokról és a gyermek fejlődését biztosító támogatásokró
 
 b) a családtervezési, a pszichológiai, a nevelési, az egészségügyi, a mentálhigiénés és a káros szenvedélyek megelőzését célzó tanácsadás vagy az ezekhez való hozzájutás megszervezése,
 
-c) a válsághelyzetben lévő várandós anya támogatása, segítése, tanácsokkal való ellátása, valamint számára a családok átmeneti otthonában igénybe vehető ellátáshoz való hozzájutás szervezése,
+c) a válsághelyzetben lévő várandós anya támogatása, segítése, tanácsokkal való ellátása, valamint szociális szolgáltatásokhoz és gyermekjóléti alapellátásokhoz, különösen a családok átmeneti otthonában igénybe vehető ellátáshoz történő hozzájutásának szervezése,
 
 d) a szabadidős programok szervezése,
 
@@ -28,7 +28,7 @@ d) tájékoztatás az egészségügyi intézményeknél működő inkubátorokb�
 
 (4) A gyermekjóléti szolgáltatás feladata a kialakult veszélyeztetettség megszüntetése érdekében
 
-a) a gyermekkel és családjával végzett szociális munkával (a továbbiakban: családgondozás) elősegíteni a gyermek problémáinak rendezését, a családban jelentkező működési zavarok ellensúlyozását,
+a) a gyermekkel és családjával végzett szociális munkával (a továbbiakban: szociális segítőmunka) elősegíteni a gyermek problémáinak rendezését, a családban jelentkező működési zavarok ellensúlyozását,
 
 b) a családi konfliktusok megoldásának elősegítése, különösen a válás, a gyermekelhelyezés és a kapcsolattartás esetében,
 
@@ -36,28 +36,16 @@ c) kezdeményezni
 
 ca) egyéb gyermekjóléti alapellátások igénybevételét,
 
-cb) szociális alapszolgáltatások, különösen a családsegítés igénybevételét,
+cb) szociális alapszolgáltatások igénybevételét,
 
 cc) egészségügyi ellátások igénybevételét,
 
 cd) pedagógiai szakszolgálatok igénybevételét, vagy
 
-ce) a gyermek védelembe vételét vagy súlyosabb fokú veszélyeztetettség esetén a gyermek ideiglenes hatályú elhelyezését, nevelésbe vételét.
+ce)
 
-d) javaslat készítése a veszélyeztetettség mértékének megfelelően
+d)
 
-da) a gyermek védelembe vételére, illetve a családi pótlék természetbeni formában történő nyújtására,
+e)
 
-db) a gyermek tankötelezettsége teljesítésének előmozdítására,
-
-dc) a gyermek családjából történő kiemelésére, a leendő gondozási helyére vagy annak megváltoztatására,
-
-dd) a gyermek megelőző pártfogásának mellőzésére, elrendelésére, fenntartására, megszüntetésére.
-
-e) együttműködés a pártfogó felügyelői szolgálattal és a megelőző pártfogó felügyelővel a bűnismétlés megelőzése érdekében, ha a gyámhatóság elrendelte a gyermek megelőző pártfogását.
-
-(5) A gyermekjóléti szolgáltatás feladata a családjából kiemelt gyermek visszahelyezése érdekében
-
-a) a családgondozás biztosítása – az otthont nyújtó ellátást, illetve a területi gyermekvédelmi szakszolgáltatást végző intézménnyel együttműködve – a család gyermeknevelési körülményeinek megteremtéséhez, javításához, a szülő és a gyermek közötti kapcsolat helyreállításához,
-
-b) utógondozás biztosítása – az otthont nyújtó ellátást, illetve a területi gyermekvédelmi szakszolgáltatást végző intézménnyel együttműködve – a gyermek családjába történő visszailleszkedéséhez.
+(5)

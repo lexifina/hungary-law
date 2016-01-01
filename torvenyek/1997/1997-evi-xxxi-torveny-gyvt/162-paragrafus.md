@@ -24,15 +24,15 @@ j) az örökbefogadást elősegítő és az örökbefogadás utánkövetését v
 
 k) a gyermekvédelmi közvetítői eljárás és a támogatott közvetítői eljárás elrendelésének és alkalmazásának szabályait,
 
-l)
+l) a gyermekvédelmi szakellátási intézményekben, a javítóintézetben és a bölcsődében betölthető pedagógus munkaköröket, valamint a pedagógus munkakörben foglalkoztatottak munkaidejének beosztására vonatkozó részletes szabályokat,
 
-m) a gyámhatóság hatáskörébe utalt pénzbeli és természetbeni ellátások igénylésének, megállapításának és folyósításának részletes szabályait,
+m) a gyermekvédelmi pénzbeli és természetbeni ellátások igénylésének, megállapításának, nyújtásának, folyósításának és felhasználásának részletes szabályait,
 
 n) a gyámhatóság illetékességére vonatkozó szabályokat,
 
 o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését,
 
-p)
+p) a 15. § (10a) bekezdésében foglalt intézményeknek és fenntartójuknak, valamint a szolgáltatói nyilvántartást vezető szervnek a köznevelés információs rendszerével kapcsolatos feladatait, továbbá a köznevelés információs rendszere adatkezelőjének a 15. § (10a) bekezdés szerinti intézmények nyilvántartásával és hatjegyű köznevelési azonosítójával, valamint az ezen intézményekben pedagógus-munkakörben foglalkoztatottak nyilvántartásával és oktatási azonosító számával kapcsolatos feladatait,
 
 q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
 
@@ -82,7 +82,11 @@ j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályai
 
 k) a bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
 
-l) a Biztos Kezdet Gyerekház szakmai feladatait és működési feltételeit.
+l) a Biztos Kezdet Gyerekház szakmai feladatait és működési feltételeit,
+
+m) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
+
+n) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeit.
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 

@@ -1,6 +1,6 @@
 46. § (1) A gyermek átmeneti gondozása keretében ideiglenes jelleggel, állapotának megfelelő ellátást és éjszakai bentlakást (a továbbiakban: ideiglenes gondozást) kell biztosítani az olyan gyermek számára, aki lakóhelyéről önkényesen eltávozott, így ellátás és felügyelet nélkül maradt.
 
-(2) Az ideiglenes gondozás során fel kell tárni a gyermek felügyelet nélkül maradását előidéző okokat, és egyidejűleg haladéktalanul értesíteni kell a gyermek szülőjét vagy más törvényes képviselőjét, illetve a gyermekjóléti szolgálatot a további átmeneti gondozás vagy más gyámhatósági intézkedés megtétele céljából.
+(2) Az ideiglenes gondozás során fel kell tárni a gyermek felügyelet nélkül maradását előidéző okokat, és egyidejűleg haladéktalanul értesíteni kell a gyermek szülőjét vagy más törvényes képviselőjét, illetve a gyermekjóléti szolgálatot, ha az átmeneti gondozást hatósági intézkedés előzte meg, a gyermekjóléti központot a további átmeneti gondozás vagy más gyámhatósági intézkedés megtétele céljából.
 
 (3) A gyermek (2) bekezdésben meghatározott további átmeneti gondozásához minden esetben be kell szerezni a szülő vagy más törvényes képviselő beleegyező nyilatkozatát.
 

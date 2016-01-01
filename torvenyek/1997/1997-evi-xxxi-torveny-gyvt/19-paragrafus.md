@@ -2,7 +2,7 @@
 
 19. § (1) A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapításának célja annak igazolása, hogy a gyermek szociális helyzete alapján jogosult
 
-a) a 151. § (5) és (5a) bekezdésében meghatározott gyermekétkeztetés normatív kedvezményének,
+a) a 21/B. §-ban meghatározott ingyenes vagy kedvezményes intézményi gyermekétkeztetésnek és – ha megfelel a 21/C. §-ban foglalt feltételeknek – a szünidei gyermekétkeztetésnek,
 
 b) a 20/A. §-ban meghatározott természetbeni támogatásnak,
 

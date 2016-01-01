@@ -22,7 +22,7 @@ aa) ha a fiatalkorúval szemben pártfogó felügyelet intézkedés alkalmazás�
 
 ab) az (1) bekezdés a) vagy d) pontja szerinti esetben;
 
-b) megszüntetheti a megelőző pártfogó felügyelő vagy a gyermekjóléti szolgálat 68/D. § (9) bekezdése szerinti javaslatára.
+b) megszüntetheti a megelőző pártfogó felügyelő vagy a gyermekjóléti központ 68/D. § (9) bekezdése szerinti javaslatára.
 
 (5) Az (1) bekezdés b) pontja szerinti esetben a megelőző pártfogás indokolt esetben a gyermek érdekében fenntartható, függetlenül a védelembe vétel megszüntetésétől.
 

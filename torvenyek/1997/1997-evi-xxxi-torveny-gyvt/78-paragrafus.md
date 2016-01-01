@@ -44,9 +44,17 @@ b) az (1) bekezdés b) pont bb) alpontja szerinti esetben a gyermek hathetes él
 
 szünetel.
 
-(4) A gyámhatóság a gyermek nevelésbe vételéről soron kívül, fellebbezésre tekintet nélkül végrehajtható határozatban dönt.
+(4) A gyámhatóság
 
-(5) A gyermeknek az ideiglenes gondozási helyre viteléről a gyámhatóság rendelkezése alapján a gyermek szülője, gyámja, a gyermeket gondozó más személy, a nevelőszülői hálózatot működtető, a gyermekjóléti szolgálat vagy a gyámhatóság gondoskodik.
+a) az ideiglenes hatállyal elhelyezett gyermek nevelésbe vételéről és gondozási helyének meghatározásáról, valamint a 79. § (5) bekezdése szerinti járulékos kérdésekről lehetőség szerint,
+
+b) a gyermek nevelésbe vételéről és gondozási helyének meghatározásáról, valamint a 79. § (5) bekezdése szerinti járulékos kérdésekről lehetőség szerint,
+
+c) a nevelésbe vett gyermek gondozási helyének meghatározásáról és a 79. § (5) bekezdése szerinti járulékos kérdésekről
+
+egy eljárás keretében, harmincöt napon belül, fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatban dönt.
+
+(5) A gyermeknek az ideiglenes gondozási helyre viteléről a gyámhatóság rendelkezése alapján a gyermek szülője, gyámja, a gyermeket gondozó más személy, a nevelőszülői hálózatot működtető, a gyermekjóléti központ vagy a gyámhatóság gondoskodik.
 
 (6) Ha a gyámhatóság a nevelésbe vételi eljárás során vagy azt követően azt állapítja meg, hogy a szülői felügyelet megszüntetésének okai fennállnak, haladéktalanul pert indít a szülő ellen a szülői felügyeleti jog megszüntetése iránt.
 

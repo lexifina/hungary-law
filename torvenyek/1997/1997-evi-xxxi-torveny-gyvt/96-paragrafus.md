@@ -8,7 +8,7 @@
 
 (4) A közös igazgatású gyermekjóléti és/vagy gyermekvédelmi intézmény szervezeti és szakmai tekintetben önálló intézményegységek keretében különböző típusú intézmények feladatát látja el.
 
-(5) A (4) bekezdés szerinti intézményben a gyermek ellátásához és neveléséhez kapcsolódó nem gyermekjóléti és nem gyermekvédelmi tevékenységet ellátó intézményegység is működhet, különösen családsegítő szolgálat, illetve családvédelmi szolgálat, védőnői szolgálat, házi gyermekorvosi szolgálat, továbbá óvodai vagy általános iskolai nevelést, oktatást, kollégiumi ellátást, nevelési tanácsadást végző intézményegység.
+(5) A (4) bekezdés szerinti intézményben a gyermek ellátásához és neveléséhez kapcsolódó nem gyermekjóléti és nem gyermekvédelmi tevékenységet ellátó intézményegység is működhet, különösen családvédelmi szolgálat, védőnői szolgálat, házi gyermekorvosi szolgálat, továbbá óvodai vagy általános iskolai nevelést, oktatást, kollégiumi ellátást, nevelési tanácsadást végző intézményegység.
 
 (6) A települési önkormányzat és az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a gyermekjóléti és gyermekvédelmi feladatainak ellátásáról minden év május 31-éig – a külön jogszabályban meghatározott tartalommal – átfogó értékelést készít. Az értékelést – települési önkormányzat esetén a képviselő-testület általi megtárgyalást követően – meg kell küldeni a gyámhatóságnak. A gyámhatóság az értékelés kézhezvételétől számított harminc napon belül javaslattal élhet a települési önkormányzat, illetve az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv felé, amely hatvan napon belül érdemben megvizsgálja a gyámhatóság javaslatait és állásfoglalásáról, intézkedéséről tájékoztatja.
 

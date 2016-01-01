@@ -8,6 +8,6 @@
 
 (4) A gyermekek átmeneti gondozása során a gyermek iskolai oktatását – lehetőség szerint – iskolaváltás nélkül kell biztosítani.
 
-(5) A gyermek átmeneti gondozásának megkezdéséről a szülőjének lakóhelye – ennek hiányában a tartózkodási helye – szerinti gyermekjóléti szolgálatot értesíteni kell. A gyermek átmeneti gondozása megkezdésekor – ha az előreláthatólag harminc napnál hosszabb lesz – el kell készíteni a gyermekre vonatkozó egyéni gondozási nevelési tervet.
+(5) A gyermek átmeneti gondozásának megkezdéséről a szülőjének lakóhelye – ennek hiányában a tartózkodási helye – szerinti gyermekjóléti szolgálatot, ha az átmeneti gondozást hatósági intézkedés előzte meg, a gyermekjóléti központot értesíteni kell. A gyermek átmeneti gondozása megkezdésekor – ha az előreláthatólag harminc napnál hosszabb lesz – el kell készíteni a gyermekre vonatkozó egyéni gondozási nevelési tervet.
 
 (6) A gyermekek átmeneti gondozása az alapjául szolgáló ok fennállásáig, de legfeljebb tizenkettő hónapig tart, kivéve ha az utógondozói ellátásban részesülő szülő a gyermekével együtt veszi igénybe az ellátást. Ebben az esetben a gyermek átmeneti gondozása legfeljebb a szülő utógondozói ellátásának fennállásáig tartható fenn az utógondozói ellátás helyszínén.

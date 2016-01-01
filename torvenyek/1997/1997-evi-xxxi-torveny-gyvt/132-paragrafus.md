@@ -4,6 +4,8 @@ a) megkeresi a nevelési tanácsadót, szakértő és rehabilitációs bizottsá
 
 b) szakértőt rendel ki.
 
+(1a) A szakértői vélemény elkészítésének határideje harminc nap.
+
 (2) Az (1) bekezdésben meghatározott esetben a gyámhatóság arra kötelezi a szülőt, a törvényes képviselőt vagy az egyéb ügyfelet, hogy a gyermekkel keresse fel az (1) bekezdés szerinti szervet vagy személyt és közreműködésével, a vizsgálaton való részvételével járuljon hozzá a vizsgálat eredményességéhez.
 
 (3) Abban a kérdésben, hogy a gyermek testi, érzékszervi, értelmi, beszéd vagy más fogyatékosságban szenved, továbbá, hogy a gyermek beilleszkedési, tanulási, magatartási rendellenességgel küzd, az Nktv. szerinti szakértői bizottság, illetve nevelési tanácsadó ad véleményt.

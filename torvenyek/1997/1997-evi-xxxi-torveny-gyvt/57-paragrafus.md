@@ -22,9 +22,9 @@ d) az otthont nyújtó ellátás keretében – ideiglenes jelleggel – azon ne
 
 a) tájékoztatja
 
-aa) az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermek befogadásáról a gyámhatóságot, a gyermekvédelmi gyámot, a gyermekjóléti szolgálatot és a területi gyermekvédelmi szakszolgálatot,
+aa) az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermek befogadásáról a gyámhatóságot, a gyermekvédelmi gyámot, a gyermekjóléti központot és a területi gyermekvédelmi szakszolgálatot,
 
-ab) a 46. § alapján ellátott gyermek befogadásáról a szülőt vagy más törvényes képviselőt, a gyámhatóságot, a gyermekjóléti szolgálatot és a területi gyermekvédelmi szakszolgálatot,
+ab) a 46. § alapján ellátott gyermek befogadásáról a szülőt vagy más törvényes képviselőt, a gyámhatóságot, a gyermekjóléti szolgálatot, a gyermekjóléti központot és a területi gyermekvédelmi szakszolgálatot,
 
 ac) az utógondozói ellátott befogadásáról a gyámhatóságot és a területi gyermekvédelmi szakszolgálatot.
 
@@ -34,7 +34,7 @@ c) biztosítja az otthont nyújtó ellátást, a gyámhatóság által jóváhag
 
 d) együttműködik a gyámhatóság határozata alapján kirendelt gyermekvédelmi gyámmal, elősegíti a gyámi feladatok ellátását, az otthont nyújtó ellátás rendszeres felülvizsgálatának előkészítését, és ennek megfelelően
 
-da) elősegíti a gyermek és családja kapcsolattartását, a gyermek családjába történő visszatérését, ennek érdekében együttműködik a családdal, a gyermekjóléti szolgálattal, a területi gyermekvédelmi szakszolgálattal, valamint a gyámhatósággal,
+da) elősegíti a gyermek és családja kapcsolattartását, a gyermek családjába történő visszatérését, ennek érdekében együttműködik a családdal, a gyermekjóléti központtal, a területi gyermekvédelmi szakszolgálattal, valamint a gyámhatósággal,
 
 db) rendszeresen tájékoztatja a gyámhatóságot a gyermek és a szülő kapcsolattartásáról a gyermek örökbefogadhatónak nyilvánítása érdekében,
 

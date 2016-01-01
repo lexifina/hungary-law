@@ -1,14 +1,16 @@
-## Gyermekjóléti szolgálat
+## Család- és gyermekjóléti szolgálat
 
-40. § (1) A települési önkormányzat a 39. §-ban meghatározott gyermekjóléti szolgáltatás feladatait önálló intézményként, illetve családsegítő szolgálat, vagy a 96. § (4)–(5) bekezdései szerinti egészségügyi vagy nevelési-oktatási intézmény szervezeti és szakmai tekintetben önálló intézményegységként, illetve a külön jogszabályban meghatározott képesítési előírásoknak megfelelő személy foglalkoztatásával biztosítja (a továbbiakban együtt: gyermekjóléti szolgálat).
+40. § (1) Gyermekjóléti szolgáltatás a családsegítéssel egy szolgáltató – a család- és gyermekjóléti szolgálat (a továbbiakban: gyermekjóléti szolgálat) – keretében működtethető. A gyermekjóléti szolgálat ellátja a 39. § és a (2) bekezdés szerinti gyermekjóléti szolgáltatási feladatokat, valamint a családsegítés Szt. 64. § (4) bekezdése szerinti feladatait.
 
-(2) A gyermekjóléti szolgálat – összehangolva a gyermekeket ellátó egészségügyi és nevelési-oktatási intézményekkel, illetve szolgálatokkal – szervezési, szolgáltatási és gondozási feladatokat végez. Tevékenysége körében a 39. §-ban foglaltakon túl
+(1a) A települési önkormányzat a gyermekjóléti szolgálatot önálló intézményként, szolgáltatóként vagy más intézmény szervezeti és szakmai tekintetben önálló intézményegységeként működteti.
+
+(2) A gyermekjóléti szolgálat – összehangolva a gyermekeket ellátó egészségügyi és nevelési-oktatási intézményekkel, illetve szolgálatokkal – szervezési, szolgáltatási és gondozási feladatokat végez. Tevékenysége körében a 39. §-ban és az Szt. 64. § (4) bekezdésében foglaltakon túl
 
 a) folyamatosan figyelemmel kíséri a településen élő gyermekek szociális helyzetét, veszélyeztetettségét,
 
 b) meghallgatja a gyermek panaszát, és annak orvoslása érdekében megteszi a szükséges intézkedést,
 
-c) elkészíti a védelembe vett gyermek gondozási-nevelési tervét, illetve a gyámhatóság megkeresésére a családi pótlék természetbeni formában történő nyújtásához kapcsolódó pénzfelhasználási tervet (a továbbiakban: pénzfelhasználási terv),
+c)
 
 d) szervezi a – legalább három helyettes szülőt foglalkoztató – helyettes szülői hálózatot, illetve működtetheti azt, vagy önálló helyettes szülőket foglalkoztathat,
 
@@ -26,18 +28,8 @@ j) részt vesz a külön jogszabályban meghatározott Kábítószerügyi Egyezt
 
 k) nyilvántartást vezet a helyettes szülői férőhelyekről.
 
-(3) Gyermekjóléti központnak minősül az az önálló intézményként, illetve szervezeti és szakmai szempontból önálló intézményegységként működő gyermekjóléti szolgálat, amely az általános szolgáltatási feladatain túl a gyermek családban nevelkedésének elősegítése, a gyermek veszélyeztetettségének megelőzése érdekében a gyermek igényeinek és szükségleteinek megfelelő önálló egyéni és csoportos speciális szolgáltatásokat, programokat nyújt. Így
-
-a) utcai és lakótelepi szociális munkát,
-
-b) kapcsolattartási ügyeletet,
-
-c) kórházi szociális munkát,
-
-d) készenléti szolgálatot
-
-biztosít.
+(3)
 
 (4)
 
-(5) Gyermekjóléti szolgálatot, gyermekjóléti központot egyházi fenntartó és nem állami fenntartó is működtethet.
+(5)

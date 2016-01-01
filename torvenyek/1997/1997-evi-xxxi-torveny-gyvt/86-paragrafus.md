@@ -14,13 +14,13 @@ c) a szülőkkel, más hozzátartozókkal való kapcsolattartást figyelemmel k�
 
 d) a gyermek oktatását biztosító nevelési-oktatási intézményekkel kapcsolatot tart, figyelemmel kíséri a gyermek iskolai előmenetelét, magatartását,
 
-e) együttműködik a gyermekjóléti szolgálattal a gyermek vér szerinti családja helyzetének megismerése érdekében,
+e) együttműködik a gyermekjóléti központtal a gyermek vér szerinti családja helyzetének megismerése érdekében,
 
 f) a kirendelését követően harminc napon belül felveszi a kapcsolatot a gyermek szüleivel, és fenntartja azt a gyermekvédelmi gondoskodás időtartama alatt, továbbá a nevelésbe vétel megszüntetését követően három hónapig, kivéve ha a szülők hozzájárultak gyermekük örökbefogadásához vagy a bíróság megszüntette szülői felügyeleti jogukat, illetve a gyámhatóság örökbefogadhatóvá nyilvánította a gyermeket,
 
 g) a gondozási helyről történő engedély nélküli távozás esetén a gyermeket – ha ismert, hogy hova távozott – visszaviszi a gondozási helyére, ellenkező esetben megteszi a gyermek felkutatásához szükséges intézkedéseket,
 
-h) szükség szerint, de legalább félévente jelentést készít a gyámhatóságnak a gyermek helyzetéről,
+h) szükség szerint, de legalább félévente, kísérő nélküli kiskorú esetén legalább évente jelentést készít a gyámhatóságnak a gyermek helyzetéről,
 
 i) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározottak szerint részt vesz a gyermek egyéni gondozási-nevelési tervének elkészítésében,
 

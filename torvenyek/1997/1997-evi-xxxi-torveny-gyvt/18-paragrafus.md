@@ -14,6 +14,8 @@ b)
 
 állapít meg.
 
+(1a) A települési önkormányzat vagy a fenntartó az e törvényben meghatározott módon, természetbeni ellátásként biztosítja a gyermekétkeztetést.
+
 (2) A települési önkormányzat képviselő-testülete a rendeletében meghatározott módon és feltételek szerint a gyermek és fiatal felnőtt rászorultságára tekintettel pénzbeli támogatást állapíthat meg.
 
 (3) E törvény szerint a gyámhatóság a gyermek gondozó szülőjének vagy más törvényes képviselőjének a gyermektartásdíjat megelőlegezi, a jogosult fiatal felnőttnek otthonteremtési támogatást állapít meg, és ezen pénzbeli ellátások folyósításáról rendelkezik.
