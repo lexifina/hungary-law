@@ -1,10 +1,10 @@
-## Általános pályázat[^75]
+## Általános pályázat[^76]
 
-9. §[^76] (1) A pályázatot a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) írja ki.
+9. §[^77] (1) A pályázatot a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) írja ki.
 
 (2) A pályázatot a korábbi támogatási időszak utolsó évében, legkésőbb július 31-ig kell kiírni.
 
-(3)[^77] A pályázat elbírálását követően ellátatlanul vagy részben ellátatlanul maradt területekre külön is kiírható pályázat.
+(3)[^78] A pályázat elbírálását követően ellátatlanul vagy részben ellátatlanul maradt területekre külön is kiírható pályázat.
 
 (4) A pályázati kiírás tartalmazza
 
@@ -26,9 +26,9 @@ h) a támogatási szerződés megkötésének feltételeire, a szerződés alapj
 
 (5) A pályázat benyújtásának határidejét a pályázati kiírásban úgy kell meghatározni, hogy a pályázat beadására a pályázat közzétételét követően legalább 30 nap álljon rendelkezésre.
 
-(6)[^78] A pályázati kiírást közzé kell tenni a minisztérium, valamint a Hivatal honlapján.
+(6)[^79] A pályázati kiírást közzé kell tenni a minisztérium, valamint a Hivatal honlapján.
 
-[^75]: A 9. §-t megelőző alcímet a 279/2009. Korm. rendelet 6. §-a iktatta be.
-[^76]: A 9. § a 279/2009. (XII. 9.) Korm. rendelet 6. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 31. § (3) bekezdését.
-[^77]: A 279/2009. (XII. 9.) Korm. rendelet 31. § (7) bekezdése alapján a 2009. december 12-ét megelőző napon hatályos 9. § (3) bekezdése alapján benyújtott, 2010. évre irányuló éves összesített igénybejelentést el kell utasítani.
-[^78]: A 9. § (6) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja, a 357/2010. (XII. 30.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^76]: A 9. §-t megelőző alcímet a 279/2009. Korm. rendelet 6. §-a iktatta be.
+[^77]: A 9. § a 279/2009. (XII. 9.) Korm. rendelet 6. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 31. § (3) bekezdését.
+[^78]: A 279/2009. (XII. 9.) Korm. rendelet 31. § (7) bekezdése alapján a 2009. december 12-ét megelőző napon hatályos 9. § (3) bekezdése alapján benyújtott, 2010. évre irányuló éves összesített igénybejelentést el kell utasítani.
+[^79]: A 9. § (6) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja, a 357/2010. (XII. 30.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.

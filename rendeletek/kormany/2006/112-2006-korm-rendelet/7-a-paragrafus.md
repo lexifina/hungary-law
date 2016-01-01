@@ -1,8 +1,8 @@
 ## Szociális igazgatási bírság
 
-7/A. §[^70] (1) Az Szt. 92/L. § (2) bekezdése alapján kiszabott szociális igazgatási bírságot az első fokon eljárt szervnek kell megfizetni – ha fizetési kedvezményt nem engedélyeztek – a bírságot kiszabó határozat jogerőre emelkedését követő harminc napon belül.
+7/A. §[^71] (1) Az Szt. 92/L. § (2) bekezdése alapján kiszabott szociális igazgatási bírságot az első fokon eljárt szervnek kell megfizetni – ha fizetési kedvezményt nem engedélyeztek – a bírságot kiszabó határozat jogerőre emelkedését követő harminc napon belül.
 
-(2)[^71] A bírságból befolyt összeget az első fokon eljárt szerv negyedévente, a negyedévet követő hónap 20-áig a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) fejezeti kezelésű előirányzat-felhasználási keretszámlájára utalja át. Az első fokon eljárt szerv az átutalással egyidejűleg a bírságot kiszabó jogerős határozat másolatát megküldi a minisztériumnak, valamint – ha az eljáró szerv szociális hatóság – a Hivatalnak.
+(2)[^72] A bírságból befolyt összeget az első fokon eljárt szerv negyedévente, a negyedévet követő hónap 20-áig a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) fejezeti kezelésű előirányzat-felhasználási keretszámlájára utalja át. Az első fokon eljárt szerv az átutalással egyidejűleg a bírságot kiszabó jogerős határozat másolatát megküldi a minisztériumnak, valamint – ha az eljáró szerv szociális hatóság – a Hivatalnak.
 
-[^70]: A 7/A. §-t és az azt megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 4. §-a iktatta be. A 7/A. § a 357/2010. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^71]: A 7/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^71]: A 7/A. §-t és az azt megelőző alcímet a 279/2009. (XII. 9.) Korm. rendelet 4. §-a iktatta be. A 7/A. § a 357/2010. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^72]: A 7/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés c) pontja szerint módosított szöveg.
