@@ -1,0 +1,5 @@
+## 4. § A Kjtvhr. 7/A. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(3) A heti teljes munkaidőből a Gyvt. 15. § (11) bekezdése szerinti kötött munkaidőnek a neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidőn túl fennmaradó részében a gyermekvédelmi szakellátást nyújtó intézményben, valamint a javítóintézeti nevelést nyújtó intézményben pedagógus-munkakörben foglalkoztatott személyre vonatkozóan a Gyvt. 15. § (11) és (12) bekezdése szerinti feladatokat és a helyettesítést a munkáltató munkaköri leírásban vagy írásbeli vezetői rendelkezésben határozza meg.
+
+## (4) A nevelőszülői hálózat nevelőszülői tanácsadójának, valamint a területi gyermekvédelmi szakszolgáltatást nyújtó intézményben az örökbefogadási tanácsadónak és a gyermekvédelmi szakértői bizottság családgondozójának a heti teljes munkaidejéből a munkáltató által a munkaköri leírásban meghatározott időtartamot kell a munkáltató székhelyén, telephelyén, illetve az ellátottak számára nyitva álló egyéb helyiségben tartózkodnia.”

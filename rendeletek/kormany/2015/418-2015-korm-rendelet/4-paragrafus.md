@@ -1,0 +1,3 @@
+## 3. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet (a továbbiakban: Kjtvhr.) 7. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) A bölcsődében foglalkoztatottak az (1) bekezdés, a (2) bekezdés a) pontja, illetve a (3) bekezdés e) pontja szerinti, munkahelyen eltöltendő munkaidején felüli időtartam tekintetében a bölcsődei nevelést, gondozást előkészítő, illetve azzal összefüggő egyéb feladatok elvégzése, továbbá gyakornok szakmai segítése, eseti helyettesítés rendelhető el.”
