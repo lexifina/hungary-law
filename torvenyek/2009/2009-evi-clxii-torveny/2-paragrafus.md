@@ -7,3 +7,5 @@
 (4) A jelzáloghitelre és a pénzügyi lízingre a 4. § (1)–(2) bekezdését, a 6. §-t, a 8–11. §-t, a 16. § (1) bekezdés 9., 11., 19., 20. pontját és (4) bekezdését, a 17. § (1) bekezdését, a 19–20. §-t, a 21. és a 22. §-t, a 24. §-t és a 26. §-t nem kell alkalmazni.
 
 (5) E törvény rendelkezéseit az állami kamattámogatással nyújtott hitelekre külön jogszabályban meghatározott eltérésekkel kell alkalmazni.
+
+(6) Kézizálog fedezete mellett nyújtott hitelre a 4. § (3) bekezdését, az 5–17. §-t, a 17/A. § (1) és (3) bekezdését, a 17/B–26. §-t, a 28. § (1)–(4) és (6) bekezdését, a 29. § (2) bekezdését és a 29/A. §-t nem kell alkalmazni.
