@@ -9,11 +9,3 @@
 (4) A 30. § a Magyarország Kormánya és a Francia Köztársaság Kormánya közötti Filmkoprodukciós Megállapodás hatálybalépésével egyidejűleg lép hatályba.
 
 (5) A (4) bekezdésben meghatározott hatálybalépés és a 30. §-ban meghatározott hatályvesztés naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
