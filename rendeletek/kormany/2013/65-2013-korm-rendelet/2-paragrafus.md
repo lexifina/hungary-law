@@ -16,8 +16,10 @@ c) az azonosítási eljárás kezdő- és zárónapját.
 
 (5) A Kormány által rendeletben kijelölt ágazati javaslattevő hatóság (a továbbiakban: javaslattevő hatóság) részére a kijelölő hatóság köteles megküldeni véleményezés céljából az azonosítási jelentést. A javaslattevő hatóság az azonosítási jelentés beérkezésétől számított 30 napon belül megvizsgálja az azonosítási jelentést, és a kockázatelemzéssel kapcsolatos javaslatait megküldi a kijelölő hatóságnak.
 
-(6) A javaslattevő hatóság kezdeményezheti, hogy a kijelölő hatóság döntsön az üzemeltető (3) bekezdés szerinti kötelezéséről. A javaslattevő hatóság kezdeményezésétől számított 30 napon belül a kijelölő hatóság dönt az üzemeltető kötelezése kérdésében.
+(6)[^1] A javaslattevő hatóság kezdeményezheti, hogy a kijelölő hatóság döntsön az üzemeltető (3) bekezdés szerinti kötelezéséről.
 
 (7) Az üzemeltető 8 napon belül írásban értesíti a kijelölő hatóságot a tevékenységében bekövetkezett minden olyan változásról, amely érinti a létfontosságú rendszerelem azonosítását.
 
 (8) A kijelölt létfontosságú rendszerelem üzemeltetőjének új azonosítási jelentést kell készítenie a kijelölő hatóságnak a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) 2. § (3) bekezdése szerinti döntésének jogerőre emelkedésétől számított 5 év elteltével.
+
+[^1]: A 2. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 194. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
