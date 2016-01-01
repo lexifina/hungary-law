@@ -1,4 +1,4 @@
-1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^14]
+1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^17]
 
 I. FEJEZET
 
@@ -46,9 +46,9 @@ I. FEJEZET
 
 | 3.7. | A közúti jármű műszaki adatára, illetőleg műszaki alkalmasságára vonatkozó igazolás kiadása a közlekedési hatóság nyilvántartásába bejegyzett adatok alapján | 1 190 |
 
-| 3.8. | Érvényesítő címke pótlása | 585 |
+| 3.8. |  |  |
 
-| 3.9. | Plakett pótlása | 980 |
+| 3.9. |  |  |
 
 | 4. | A forgalomba helyezés előtti és az időszakos vizsgálat díja (alapdíj) |  |
 
@@ -148,4 +148,4 @@ III. FEJEZET
 
 IV. FEJEZET
 
-[^14]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (5) bekezdése alapján az 1. számú melléklet I. Fejezet 6. pontjában foglaltakat a 2010. február 19-én folyamatban lévő eljárásokban is alkalmazni kell. Az 1. számú melléklet a 27/2010. (III. 31.) KHEM rendelet 8. §-a szerint módosított szöveg.
+[^17]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (5) bekezdése alapján az 1. számú melléklet I. Fejezet 6. pontjában foglaltakat a 2010. február 19-én folyamatban lévő eljárásokban is alkalmazni kell. Az 1. számú melléklet a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja szerint módosított szöveg.

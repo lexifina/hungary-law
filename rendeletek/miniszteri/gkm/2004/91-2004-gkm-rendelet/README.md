@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-91-20-0
 | 2010-02-19 | 2004-91-20-0L.12 | 81/2009. (XII. 29.) KHEM rendelet |
 | 2010-04-01 | 2004-91-20-0L.13 | 81/2009. (XII. 29.) KHEM rendelet |
 | 2013-06-13 | 2004-91-20-0L.14 | 81/2009. (XII. 29.) KHEM rendelet |
+| 2016-01-01 | 2004-91-20-0L.15 | 75/2015. (XII. 29.) NFM rendelet |
