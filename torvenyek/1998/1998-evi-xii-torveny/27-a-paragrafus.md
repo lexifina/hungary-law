@@ -1,0 +1,1 @@
+27/A. § A központi adatkezelő szerv az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmását, valamint a 24. § (1) bekezdésének l) pontjában meghatározott adatot átadja.

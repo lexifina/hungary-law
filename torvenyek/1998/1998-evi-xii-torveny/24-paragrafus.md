@@ -24,6 +24,10 @@ i) a külföldre utazás korlátozásának tényét és a 16/B. § (3) bekezdés
 
 j) a külföldre utazás korlátozásának törlése esetén az ügyben eljáró útlevélhatóság megnevezését, a törlés időpontját, valamint a 16/B. § (3) bekezdés c) pontjában meghatározott adatokat, továbbá
 
-k) a hivatalos útlevél használatára jogosult személy diplomáciai rangját, az útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímeit.
+k) a hivatalos útlevél használatára jogosult személy diplomáciai rangját, az útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímeit,
+
+l) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (2) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(3) A központi adatkezelő szerv a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok (1) bekezdésben meghatározott adatait a központi útiokmány-nyilvántartásban elkülönülten kezeli.

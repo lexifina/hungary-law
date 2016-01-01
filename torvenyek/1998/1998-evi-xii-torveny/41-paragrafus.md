@@ -4,7 +4,9 @@ a) az útlevélhatóságokat, feladat- és hatáskörüket, továbbá az úti ok
 
 b) az útlevél kivételével az egyéb úti okmányok fajtáit;
 
-c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére vonatkozó rendelkezéseket.
+c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére vonatkozó rendelkezéseket;
+
+d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős központi államigazgatási szervet.
 
 (2) Felhatalmazást kap a külföldre utazás szabályozásáért felelős miniszter – a b) és a d) pont tekintetében a külpolitikáért felelős miniszterrel, a c) pont tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben – hogy rendeletben határozza meg
 
@@ -20,7 +22,9 @@ e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél k
 
 f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, valamint azonnali kiadásáért fizetendő igazgatási szolgáltatási pótdíj összegét és fizetendő igazgatási szolgáltatási pótdíj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 
-g) a 28. § (1), (2) és (2b) bekezdése szerinti adatszolgáltatás iránti kérelem benyújtására szolgáló formanyomtatvány adattartalmát.
+g) a 28. § (1), (2) és (2b) bekezdése szerinti adatszolgáltatás iránti kérelem benyújtására szolgáló formanyomtatvány adattartalmát;
+
+h) az adópolitikáért felelős miniszterrel egyetértésben a törvénnyel kihirdetett nemzetközi szerződés alapján kiállítandó közokirat kiadásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint megfizetésének szabályait.
 
 (3) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az általa kiadott útlevelek kezelésének részletes szabályait.
 
