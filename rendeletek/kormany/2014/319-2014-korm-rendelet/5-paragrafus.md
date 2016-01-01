@@ -38,7 +38,7 @@
 
 18. részt vesz az Európai Szakoktatási és Szakképzési Kreditrendszer alapján a felsőoktatásba átvihető kreditrendszer egységes alapelveinek kidolgozásában és gondozásában,
 
-19. ellátja a felnőttképzési szakértői tevékenység engedélyezésével és ellenőrzésével, a szakértők továbbképzésével, valamint a felnőttképzési szakértői névjegyzék vezetésével kapcsolatos feladatokat,
+19.[^1] ellátja a felnőttképzési szakértői tevékenységet végzők bejelentésével kapcsolatos feladatokat, a szakértők ellenőrzésével és továbbképzésével, valamint a felnőttképzési szakértői nyilvántartás vezetésével kapcsolatos feladatokat,
 
 20. ellátja a felnőttképzést folytató intézmények tevékenységének engedélyezésével és ellenőrzésével kapcsolatos feladatokat, vezeti a felnőttképzést folytató intézmények nyilvántartását,
 
@@ -101,3 +101,5 @@ h) koordinálja a törzslapnyilvántartással kapcsolatos feladatokat, továbbá
 (7) A Hivatal végzi a szakképzési tankönyvvé nyilvánítással és tankönyvjegyzékkel kapcsolatos döntés-előkészítő feladatokat.
 
 (8) A Hivatal végzi a szakképzés és felnőttképzés szakfolyóiratainak és egyéb kiadványainak a kiadását.
+
+[^1]: Az 5. § (1) bekezdés 19. pontja a 441/2015. (XII. 28.) Korm. rendelet 235. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
