@@ -1,0 +1,3 @@
+19. § (1) Az e törvény hatálybalépését követő 15 napon belül a központi útiokmány-nyilvántartást vezető szerv az e törvényben meghatározottak szerint a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok általa kezelt arcképmásához rendelten technikai kapcsoló számot képez.
+
+(2) A központi útiokmány-nyilvántartást vezető szerv a központi útiokmány-nyilvántartásban kezelt (1) bekezdés szerinti arcképmást és az ahhoz rendelt technikai kapcsoló számot az arckép profil létrehozása és az e törvény szerinti nyilvántartásba vétele céljából a központi szervnek az (1) bekezdés szerinti eljárást követő 30 napon belül továbbítja.
