@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-133-20-
 | 2015-09-25 | 2013-133-20-2Y.6 | 56/2015. (IX. 24.) FM rendelet |
 | 2015-10-25 | 2013-133-20-2Y.7 | 56/2015. (IX. 24.) FM rendelet |
 | 2015-12-22 | 2013-133-20-2Y.8 | 87/2015. (XII. 21.) FM rendelet |
+| 2016-01-01 | 2013-133-20-2Y.9 | 56/2015. (IX. 24.) FM rendelet |

@@ -1,4 +1,4 @@
-4. melléklet a 133/2013. (XII. 29.) VM rendelethez[^165]
+4. melléklet a 133/2013. (XII. 29.) VM rendelethez[^167]
 
 Állami horgászjegy adattartalma
 
@@ -32,4 +32,4 @@ e) horgászszervezeti tagsága (egyesület neve, címe)
 
 10. Kiállító halgazdálkodási hatóság vagy a forgalmazással megbízott aláírása, bélyegzője.
 
-[^165]: A 4. melléklet a 87/2015. (XII. 21.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^167]: A 4. melléklet a 87/2015. (XII. 21.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
