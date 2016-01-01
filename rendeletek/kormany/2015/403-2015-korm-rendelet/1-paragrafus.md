@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1. §) a 7. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## 1. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény végrehajtásáról szóló 146/1993. (X. 26.) Korm. rendelet módosítása
