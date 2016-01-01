@@ -34,7 +34,7 @@ c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójá
 
 a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a költség-különbözet 39 százalékát;
 
-b) a nyilatkozattételkor fennálló körülmények ellenére családi kedvezmény, adókedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, valamint az a) pontban említett esetben is, a befizetési különbözet 12 százalékát
+b) a nyilatkozattételkor fennálló körülmények ellenére családi kedvezmény, első házasok kedvezménye, adókedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, valamint az a) pontban említett esetben is, a befizetési különbözet 12 százalékát
 
 különbözeti-bírságként az adóévre vonatkozó bevallásban külön kötelezettségként kell feltüntetnie, és a személyi jövedelemadó-fizetési kötelezettség szerint kell megfizetnie. Nem kell e rendelkezést alkalmazni, ha a költség-különbözet az adóelőleg megállapításánál figyelembe vett költség összegének 5 százalékát, a befizetési különbözet a 10 ezer forintot nem haladja meg.
 

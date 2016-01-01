@@ -28,4 +28,4 @@ c)
 
 d) az adót a jövedelemből a járadékfolyósítást vállaló fél vonja le és fizeti be az adóhatóságnak, azzal, hogy ekkor a magánszemélynek ezt a jövedelmet és annak adóját nem kell bevallania.
 
-(7) Ellenszolgáltatás (ellenérték) nélkül vállalt tartási szerződés alapján nem pénzben juttatott vagyoni érték esetében a kifizető havonta köteles az adókötelezettség teljesítésére a juttatás értékének (szokásos piaci értékének) 1,19-szerese után.
+(7) Ellenszolgáltatás (ellenérték) nélkül vállalt tartási szerződés alapján nem pénzben juttatott vagyoni érték esetében a kifizető havonta köteles az adókötelezettség teljesítésére a juttatás értékének (szokásos piaci értékének) 1,18-szorosa után.

@@ -4,7 +4,7 @@
 
 a) egyéni vállalkozó volt, kivéve, ha az adóév egészében szüneteltette a vállalkozói tevékenységét;
 
-b) mezőgazdasági őstermelő volt, és e tevékenységéből adóköteles bevétele származott, kivéve, ha jövedelméről egyszerűsített bevallásban, munkáltatói elszámolásban nemleges nyilatkozatot adott vagy egyébként a bevételből nem kellett jövedelmet megállapítani;
+b) mezőgazdasági őstermelő volt, és e tevékenységéből adóköteles bevétele származott, kivéve, ha jövedelméről munkáltatói elszámolásban nemleges nyilatkozatot adott vagy egyébként a bevételből nem kellett jövedelmet megállapítani;
 
 c) fizető-vendéglátó tevékenységére tételes átalányadózást választott:
 

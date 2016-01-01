@@ -32,7 +32,7 @@ g) a törvény eltérő rendelkezésének hiányában a társas vállalkozás ta
 
 a) a vásárolt (engedményezett) követelésből származó bevételnek a követelés vásárlási (engedményezési) ellenértékét meghaladó része, kivéve, ha adókötelezettségének e törvény szerinti jogcíme egyébként megállapítható;
 
-b) az önálló orvosi tevékenységről szóló törvény szerinti működtetési jog átruházásából származó bevételnek a korábban értékcsökkenési leírás címén költségként el nem számolt szerzési értéket és a megfizetett illetéket meghaladó része.
+b) az önálló orvosi tevékenységről szóló törvény szerinti praxisjog átruházásából származó bevételnek a korábban értékcsökkenési leírás címén költségként el nem számolt szerzési értéket és a megfizetett illetéket meghaladó része.
 
 (6)
 

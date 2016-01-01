@@ -34,7 +34,7 @@ b) a terméket, a szolgáltatást elemi károk, katasztrófák esetén közadako
 
 – három éven túl nulla;
 
-8. az adó, a társadalombiztosítási járulék stb. különbözetének a visszatérítése, ha a befizetést a magánszemély költségként bármely évben elszámolta;
+8. az adó, a szociális hozzájárulási adó stb. különbözetének a visszatérítése, ha a befizetést a magánszemély költségként bármely évben elszámolta;
 
 9. a mezőgazdasági őstermelő esetében a káreseménnyel összefüggésben kapott kártalanítás, kártérítés, ideértve a felelősségbiztosítás alapján felvett összeget;
 

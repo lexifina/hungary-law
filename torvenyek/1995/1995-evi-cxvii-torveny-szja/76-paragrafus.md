@@ -4,7 +4,7 @@
 
 (2) Pénzbeli nyeremény esetén az adót a magánszemélyeknek kiosztandó teljes nyereményösszegből egy tételben kell a kifizetőnek levonnia, és befizetnie.
 
-(3) Ha a nyeremény nem pénz, hanem más vagyoni érték, a kifizetőt terhelő adó alapja a nyeremény szokásos piaci értékének 1,19-szerese.
+(3) Ha a nyeremény nem pénz, hanem más vagyoni érték, a kifizetőt terhelő adó alapja a nyeremény szokásos piaci értékének 1,18-szorosa.
 
 (4) Nem számít jövedelemnek a jogszerűen szervezett, a szerencsejáték szervezéséről szóló törvény 16. §-a alapján engedélyhez nem kötött sorsolásos játékból, a sorsjátékból, a játékkaszinóból, a bukmékeri rendszerű fogadásból, a lóversenyfogadásból, bingójátékból, a kártyateremben szervezett kártyajátékból, valamint a távszerencsejátékból származó nyeremény.
 

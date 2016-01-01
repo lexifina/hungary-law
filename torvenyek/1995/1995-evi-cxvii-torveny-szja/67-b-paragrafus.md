@@ -34,7 +34,7 @@ bb) a lekötést a lekötött pénzösszegnek egy részére nem hosszabbítja me
 
 bc) a lekötést a kétéves lekötési időszakban szakítja meg, a megszakítás napjára,
 
-c) 16 százalék, ha a magánszemély a lekötést az elhelyezést követően a hároméves lekötési időszak vége előtt szakítja meg, a megszakítás napjára
+c) 15 százalék, ha a magánszemély a lekötést az elhelyezést követően a hároméves lekötési időszak vége előtt szakítja meg, a megszakítás napjára
 
 megállapított lekötési hozam után.
 

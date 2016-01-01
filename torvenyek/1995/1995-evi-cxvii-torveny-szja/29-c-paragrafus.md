@@ -4,7 +4,7 @@
 
 (2) Az első házasok kedvezményét az a házaspár érvényesítheti, amely esetében legalább az egyik házastárs első házasságát köti.
 
-(3) A házastársak által együttesen érvényesíthető kedvezmény jogosultági hónaponként 31 250 forint.
+(3) A házastársak által együttesen érvényesíthető kedvezmény jogosultsági hónaponként 33 335 forint.
 
 (4) Jogosultsági hónapként a házassági életközösség fennállása alatt a házasságkötést követő hónaptól (azt első jogosultsági hónapnak tekintve) legfeljebb 24 hónap vehető figyelembe, de az említett időtartamon belül utoljára az a hónap, amelyet követően a magánszemély magzatra vagy gyermekre (ide nem értve a nevelt gyermeket) tekintettel családi kedvezményre válik jogosulttá.
 

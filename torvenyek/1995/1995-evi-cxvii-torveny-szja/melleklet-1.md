@@ -20,7 +20,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.6. a fogvatartottnak a fogvatartás ideje alatt a büntetés-végrehajtási szervezetről szóló törvény szerint a büntetés-végrehajtási szerv által biztosított foglalkoztatásából származó bevétele, továbbá a büntetés-végrehajtási szerv által – szakfeladatai körében – a fogvatartott részére adott juttatás, valamint a szociálisan rászoruló szabadult részére nyújtott szociális segély.
 
-1.7. a családok támogatásáról szóló törvényben meghatározott gyermekgondozási segély, anyasági támogatás és gyermeknevelési támogatás;
+1.7. a családok támogatásáról szóló törvényben meghatározott gyermekgondozást segítő ellátás, gyermekgondozási segély, anyasági támogatás és gyermeknevelési támogatás;
 
 1.8. a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott ápolási díj;
 
@@ -223,6 +223,8 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 4.27. a kifizető által független félnek biztosított olyan szolgáltatás, amelynek forrása az Európai Unió intézménye által meghirdetett pályázat alapján az Európai Unió valamely pénzügyi alapja vagy az Európai Unió valamely pénzügyi alapja és az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatás, feltéve, hogy a szolgáltatás nem minősül a magánszemély tevékenysége ellenértékének;
 
 4.28. A Nemzet Művésze-díj tárgyiasult formája és a díjjal járó életjáradék.
+
+4.29. a Nemzeti Tehetség Program keretében a kiemelkedően tehetséges fiatalok és a kiemelkedő tehetséggondozó magánszemélyek számára pályázatban meghatározott feltételekkel és módon folyósított ösztöndíj.
 
 5.
 

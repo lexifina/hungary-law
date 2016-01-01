@@ -28,8 +28,8 @@ b) Az adó és a késedelmi pótlék együttes összegét meg kell szorozni a sz
 
 (5) Ha a települési önkormányzat a szerződés tárgya szerinti lakást a bérleti szerződés időtartamán belül nem a feltételül szabott célra hasznosítja vagy nem hasznosítja
 
-a) 16 százalék adó fizetésére köteles, ha a bérleti szerződést magánszeméllyel kötötte, illetve
+a) 15 százalék adó fizetésére köteles, ha a bérleti szerződést magánszeméllyel kötötte, illetve
 
 b) 8 százalék adó fizetésére köteles, ha a bérleti szerződést a társasági adóról és az osztalékadóról szóló törvény szerinti társasági adóalannyal kötötte.
 
-Az a)–b) pont szerinti adót minden olyan hónap bérleti díja 1,19-szerese után az adózás rendjéről szóló törvénynek a kifizetőre vonatkozó szabályai szerint kell megfizetni, amely hónapban nem valósult meg a hasznosítás. Nem kell ezt a rendelkezést alkalmazni mindaddig, amíg a hasznosításon kívüli időszak az adóév elejétől számítva a 30 napot nem haladja meg.
+Az a)–b) pont szerinti adót minden olyan hónap bérleti díja 1,18-szorosa után az adózás rendjéről szóló törvénynek a kifizetőre vonatkozó szabályai szerint kell megfizetni, amely hónapban nem valósult meg a hasznosítás. Nem kell ezt a rendelkezést alkalmazni mindaddig, amíg a hasznosításon kívüli időszak az adóév elejétől számítva a 30 napot nem haladja meg.

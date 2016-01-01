@@ -32,7 +32,7 @@ ja) a magánnyugdíjpénztár, az önkéntes kölcsönös biztosító pénztár 
 
 jb) az önkéntes kölcsönös biztosító pénztár a kedvezményezett rendelkezése alapján annak egyéni számlája javára vagy kedvezményezett hiányában a pénztár tagjainak egyéni számlái javára jóváír;
 
-jc)
+jc) a magánnyugdíjpénztár tagja a társadalombiztosítási nyugdíjrendszerbe történő visszalépése esetén a magánnyugdíjpénztártól visszalépő tagi kifizetésként kap;
 
 jd) a magánszemély kérelmére, munkaviszonyának megszűnése esetén a foglalkoztatói nyugdíjszolgáltató intézményben fennálló követelésének terhére az intézmény más ilyen intézménybe utal át;
 

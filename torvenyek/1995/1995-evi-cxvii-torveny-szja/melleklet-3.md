@@ -26,7 +26,7 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 4. a mezőgazdasági őstermelőnél a 16. életévét betöltött segítő családtag részére kifizetett – de legfeljebb a mindenkori minimálbért meg nem haladó – összeg és annak közterhei, feltéve, hogy a segítő családtag legalább heti 40 órában közreműködik (főállású segítő családtag) vagy, ha a közreműködés ideje ennél kevesebb, akkor ezzel arányos rész, azzal, hogy egyebekben a főállású segítő családtag kizárólag a 3. pont vonatkozásában alkalmazottnak minősül;
 
-5. a nem megállapodás alapján befizetett saját társadalombiztosítási járulék;
+5. a nem megállapodás alapján befizetett saját szociális hozzájárulási adó;
 
 6. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az önálló tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
@@ -84,7 +84,7 @@ Az e törvényben elismert költségek esetében, ha törvény vagy kormányrend
 
 2. a Magyar Honvédség állományában lévő, nem katonadiplomáciai tevékenységet végző magánszemély műveleti területen teljesített külföldi szolgálatára tekintettel megszerzett bevételének – ide nem értve a szállás (lakás) bérleti díjának, az utazási kiadásnak a megtérítését – 50 százalékát meg nem haladó összeg;
 
-3.
+3. a belföldi közúti árufuvarozásban és személyszállításban gépkocsivezetőként és árukísérőként foglalkoztatott (a közúti közlekedési szolgáltatásokról és közúti járművek üzemben tartásáról szóló külön jogszabály, vagy más, erről szóló jogszabály rendelkezései szerint engedélyhez kötött belföldi közúti közlekedési szolgáltatást végző, illetőleg abban árukísérőként közreműködő), belföldi kiküldetés címén bevételt szerző magánszemélynél – kizárólag e tevékenysége tekintetében – a belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítéséről szóló kormányrendelet szerint naponta elszámolható összeg, feltéve, hogy a magánszemély ezen kívül kizárólag a gépjármű belföldön történő üzemeltetéséhez közvetlenül kapcsolódó és számlával, más bizonylattal igazolt költségek elszámolására jogosult, és ezt az elszámolási módszert alkalmazza;
 
 4. a közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag és kenőanyag fogyasztásának igazolás nélkül elszámolható mértékéről szóló kormányrendelet szerint meghatározott üzemanyag fogyasztási norma;
 

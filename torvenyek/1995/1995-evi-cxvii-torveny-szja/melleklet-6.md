@@ -120,7 +120,7 @@ szójabab, földimogyoró, lenmag, repce, napraforgó, ricinus, mustármag, sáf
 
 23. Szerves trágya 3101
 
-24. Szőlővenyige 4401-ből
+24. Szőlővenyige, fás szárú energetikai ültetvényről lekerülő tűzifa, faforgács, fűrészpor és fahulladék 4401-ből
 
 25. Fából kizárólag hasítással készített karó, cölöp, cövek, pózna, bot stb. 4404-ből
 

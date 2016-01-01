@@ -146,7 +146,7 @@ af) kortárs képzőművészeti alkotás: a naptári év első napján élő mű
 
 b) A nem anyagi javak fogalma
 
-A nem anyagi javak közé azok a forgalomképes vagy egyébként értékkel bíró jogok tartoznak, amelyek közvetlenül és tartósan (egy évet meghaladó időtartamban) szolgálják a vállalkozási tevékenységet. Ilyennek minősül különösen az említett feltételeknek megfelelő vagyoni értékű jog, az önálló orvosi tevékenységről szóló törvény szerinti működtetési jog, szellemi termék, valamint a kísérleti fejlesztés aktivált értéke. A kísérleti fejlesztés aktivált értéke a kísérleti fejlesztés folytatása érdekében közvetlenül felmerült, vagy egyébként jellemző mértékegység (pl. nap, m2, m3, munkaóra) segítségével a tevékenységre arányosan felosztható, beruházási kiadásként elszámolt és nyilvántartásba vett költség(ek) összege, ha a kísérleti fejlesztés eredménye várhatóan tartósan szolgálja a vállalkozási tevékenységet.
+A nem anyagi javak közé azok a forgalomképes vagy egyébként értékkel bíró jogok tartoznak, amelyek közvetlenül és tartósan (egy évet meghaladó időtartamban) szolgálják a vállalkozási tevékenységet. Ilyennek minősül különösen az említett feltételeknek megfelelő vagyoni értékű jog, az önálló orvosi tevékenységről szóló törvény szerinti praxisjog, szellemi termék, valamint a kísérleti fejlesztés aktivált értéke. A kísérleti fejlesztés aktivált értéke a kísérleti fejlesztés folytatása érdekében közvetlenül felmerült, vagy egyébként jellemző mértékegység (pl. nap, m2, m3, munkaóra) segítségével a tevékenységre arányosan felosztható, beruházási kiadásként elszámolt és nyilvántartásba vett költség(ek) összege, ha a kísérleti fejlesztés eredménye várhatóan tartósan szolgálja a vállalkozási tevékenységet.
 
 A szellemi termékek közé tartoznak a vállalkozási tevékenységet tartósan szolgáló szellemi alkotások, mint
 
@@ -629,3 +629,9 @@ azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév els�
 3.
 
 4.
+
+5. A saját tulajdonú nem kizárólag üzemi célú jármű – kivéve a személygépkocsit – beszerzési árával szemben a II. fejezet szerint átalányban érvényesíthető értékcsökkenési leírás. Az 1. pontban nem említett személygépkocsi esetén az átalány szerinti elszámolás a következő módon érvényesíthető: a II. fejezetben említett nyilvántartás vezetése mellett az éves bevételnek 1 százaléka, de legfeljebb egy személygépkocsi beszerzési árának a 10 százaléka vehető figyelembe, illetőleg a hivatkozott pontban meghatározott átalány címén egyébként elszámolt költség ezzel az összeggel növelhető. Egy adott személygépkocsi értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány. Más költségek az üzemi használattal arányosan számolhatók el az 1. pont vonatkozó rendelkezése szerint.
+
+6. Saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül az 5. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 9 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
+
+7. A nem saját tulajdonú kizárólag üzemi célra használt jármű (kivéve a személygépkocsit) esetében elszámolható az üzemi használatra eső

@@ -36,7 +36,7 @@ b) a terméket, a szolgáltatást elemi károk, katasztrófák esetén közadako
 
 – három éven túl nulla;
 
-8. az adó, a társadalombiztosítási járulék stb. különbözetének a visszatérítése, ha a befizetést az egyéni vállalkozó költségként bármely évben elszámolta;
+8. az adó, a szociális hozzájárulási adó stb. különbözetének a visszatérítése, ha a befizetést az egyéni vállalkozó költségként bármely évben elszámolta;
 
 9. a káreseménnyel összefüggésben kapott kártalanítás, kártérítés, ideértve a felelősségbiztosítás alapján felvett összeget;
 
