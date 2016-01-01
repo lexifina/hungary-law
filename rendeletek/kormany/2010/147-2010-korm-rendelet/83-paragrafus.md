@@ -1,3 +1,3 @@
-## 80–82. §[^46]
+## 80–82. §[^48]
 
-[^46]: A 80–82. §-t a 83. § (1) bekezdése hatályon kívül helyezte.
+[^48]: A 80–82. §-t a 83. § (1) bekezdése hatályon kívül helyezte.

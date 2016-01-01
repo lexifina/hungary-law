@@ -36,6 +36,14 @@
 
 16. karsztvíz: a karsztosodott kőzetek (mészkő, dolomit) pórusaiban, hasadékaiban, üregeiben elhelyezkedő felszín alatti víz,
 
+16a.[^3] kivitelező: az a természetes személy, jogi személy, jogi személy önálló jogi személyiséggel nem rendelkező szervezeti egysége, amely
+
+a) a vízilétesítmény létesítését, átépítését, átalakítását, felújítását, korszerűsítését, karbantartását, javítását, szerelését, megszüntetését vagy
+
+b) a vízimunka megvalósítását
+
+## nem saját tulajdonú ingatlanon végzi.
+
 17. közös érdekű árvízvédelmi mű: árvízvédelmi műnek a szomszédos országokkal, a vízgazdálkodási feladatok rendezésére kötött kétoldalú nemzetközi szerződésben szelvényszámmal rögzített szakasza,
 
 18. magaspart: az észlelt legnagyobb vízszintnél, vagy a mértékadó árvízszintnél az előírt biztonsággal magasabb, az árteret természetes módon határoló, a védvonal részét képező partalakulat,
@@ -46,7 +54,7 @@
 
 21. mederelfajulás: folyó, vízfolyás mederalakító munkája következtében kialakult káros mederáthelyeződés,
 
-22.[^3] mikroöntözés: olyan öntözés, melynek során a víz közvetlenül a talaj vagy termesztő közeg felszínére, illetve a talajba vagy termesztő közegbe jut a párolgási veszteségek lehető legkisebb szinten való tartása érdekében,
+22.[^4] mikroöntözés: olyan öntözés, melynek során a víz közvetlenül a talaj vagy termesztő közeg felszínére, illetve a talajba vagy termesztő közegbe jut a párolgási veszteségek lehető legkisebb szinten való tartása érdekében,
 
 23. nyersvízvezeték: az ivóvízellátás céljára kitermelt, az elosztóhálózatba táplálást megelőzően kezelést igénylő vizet szállító vezeték,
 
@@ -86,4 +94,5 @@
 
 [^1]: A 2. § 9. pontja a 441/2012. (XII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § 10a. pontját a 290/2012. (X. 15.) Korm. rendelet 2. §-a iktatta be.
-[^3]: A 2. § 22. pontja a 348/2012. (XII. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 16a. pontját a 438/2015. (XII. 28.) Korm. rendelet 6. §-a iktatta be.
+[^4]: A 2. § 22. pontja a 348/2012. (XII. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
