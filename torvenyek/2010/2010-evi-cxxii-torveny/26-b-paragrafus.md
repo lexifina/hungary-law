@@ -6,7 +6,7 @@
 
 (4) Gépjárművezetői pótlékra az jogosult, aki a NAV jelzésével és megkülönböztető jelzéssel ellátott gépjárművet rendszeresen, legalább havonta négy alkalommal vezet, és rendelkezik a megkülönböztető jelzés használatához szükséges pályaalkalmassági vizsgával. A pótlék mértéke az illetményalap 13%-a.
 
-(5) A (2) és (3) bekezdés szerinti pótlékra jogosító munkaköröket a NAV elnöke határozza meg.
+(5) A (2) és (3) bekezdés szerinti pótlékra jogosító munkaköröket az állami adó- és vámhatóság vezetője határozza meg.
 
 (6) A kormánytisztviselő, a pénzügyőr, az ügykezelő a napi munkaidőn túl teljesített készenlét esetén a készenlét időtartamára készenléti pótlékra jogosult. A készenléti pótlék mértéke teljesített óránként az illetményalap 0,25%-a.
 

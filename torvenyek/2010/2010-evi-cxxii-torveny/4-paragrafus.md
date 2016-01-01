@@ -1,9 +1,15 @@
-4. § (1) A NAV állami adóhatósági feladatokat ellátó szerve az állami adó- és vámhatóság adóztatási szerve. A NAV adóztatási szerve a Központi Hivatal, a közép- és alsó fokú adóztatási szervek, valamint a (2a) bekezdés szerinti szerv.
+4. § (1) A NAV központi szerve a Központi Irányítás és a Bűnügyi Főigazgatóság.
 
-(2) A NAV vámhatósági feladatokat ellátó szerve az állami adó- és vámhatóság vámszerve. A NAV vámszerve a Központi Hivatal, a közép- és alsó fokú vámszervek, valamint a (2a) bekezdés szerinti szerv.
+(2) A NAV területi szervei
 
-(2a) A NAV állami adóhatósági és vámhatósági feladatokat is ellátó szerve a NAV középfokú adó- és vámszerve. Ahol e törvény középfokú adóztatási szervet, illetve középfokú vámszervet említ, azon – eltérő rendelkezés hiányában – a NAV középfokú adó- és vámszervét is érteni kell.
+a) a megyei (fővárosi) adó- és vámigazgatóságok (a továbbiakban: megyei igazgatóságok),
 
-(3) A NAV bűnügyi főigazgatósága középfokú szervekkel és alsó fokú szervvel rendelkezik. A NAV nyomozó hatósága a bűnügyi főigazgatóság és annak középfokú szervei.
+b) a Fellebbviteli Igazgatóság,
 
-(4) A NAV alsó fokú vámszervei hatásköri önállósággal rendelkező kirendeltségeket működtethetnek. A NAV alsó fokú adóztatási szervei hatásköri és szervezeti önállósággal nem rendelkező kirendeltségeket működtethetnek.
+c) a NAV nyomozóhatósági feladatait ellátó területi szervei és
+
+d) a Kormány rendeletében meghatározott igazgatóságok, illetve intézetek.
+
+(3) A NAV nyomozóhatósági feladatait a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szervei látják el.
+
+(4) A megyei igazgatóságok kirendeltségeket működtethetnek.

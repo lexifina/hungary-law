@@ -4,4 +4,4 @@
 
 (3) A NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény gyanúja esetén az (1) bekezdés szerinti jogosultság és kötelezettség a szolgálaton kívül levő pénzügyőrre is vonatkozik akkor, ha a szolgálatban levő pénzügyőrt az intézkedésben segíteni kell, feltéve, hogy az intézkedés szükségességének időpontjában a szolgálaton kívül lévő pénzügyőr intézkedésre alkalmas állapotban van.
 
-(4) A NAV vámszerve hatáskörébe tartozó szabálysértés esetén a pénzügyőr lefoglalást a Szabs. tv. szerint alkalmazhat. A lefoglalás ellen a Szabs. tv. szerinti panasznak van helye.
+(4) A NAV hatáskörébe tartozó szabálysértés esetén a pénzügyőr lefoglalást a Szabs. tv. szerint alkalmazhat. A lefoglalás ellen a Szabs. tv. szerinti panasznak van helye.

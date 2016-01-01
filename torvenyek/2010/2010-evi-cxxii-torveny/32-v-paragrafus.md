@@ -1,6 +1,6 @@
 32/V. § (1) A kormánytisztviselőnek, a pénzügyőrnek, az ügykezelőnek – a 32/U. §-ban foglaltakon túl – kérelmére illetmény nélküli szabadság jár
 
-a) gyermeke személyes gondozása érdekében a gyermek legfeljebb tizedik életéve betöltéséig a gyermekgondozási segély folyósításának időtartama alatt,
+a) gyermeke személyes gondozása érdekében a gyermek legfeljebb tizedik életéve betöltéséig a gyermekgondozást segítő ellátás folyósításának időtartama alatt,
 
 b) hozzátartozója tartós – előreláthatólag 30 napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre,
 

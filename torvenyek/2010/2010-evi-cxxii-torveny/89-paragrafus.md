@@ -1,1 +1,1 @@
-89. § A Nemzeti Adó- és Vámhivatal, illetve központi szervei – ide nem értve az informatikai feladatokat ellátó intézeteket – Szervezeti és Működési Szabályzatát úgy kell kiadni, hogy 2011. május 2-áig; az informatikai feladatokat ellátó intézetek, a bűnügyi főigazgatóság középfokú szervei, a bűnügyi főigazgatóság alsó fokú szerve, valamint a középfokú adóztatási szervek és a középfokú vámszervek, illetve az alsó fokú adóztatási szervek és az alsó fokú vámszervek ügyrendjét úgy kell kiadni, hogy 2011. június 1-jéig hatályba lépjen.
+### 89. §

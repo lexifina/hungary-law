@@ -1,6 +1,6 @@
 ## Összeférhetetlenség
 
-33/B. § (1) A kormánytisztviselő, a pénzügyőr, az ügykezelő a NAV adott központi, középfokú, illetve alsó fokú szervénél
+33/B. § (1) A kormánytisztviselő, a pénzügyőr, az ügykezelő
 
 a) nem tölthet be olyan munkakört, amelyben a hozzátartozójával az adott szerven belül irányítási (felügyeleti), szolgálati elöljárói-alárendelti viszonyba, ellenőrzési vagy elszámolási kapcsolatba kerülne;
 
@@ -24,7 +24,7 @@ d) nemzetiségi önkormányzat képviselője.
 
 (5) A kormánytisztviselő nem lehet helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja annál az önkormányzatnál, amely a NAV őt alkalmazó szerve szervezetszerű működési területén működik.
 
-(6) Az informatikai intézet és a humánerőforrás-fejlesztési feladatokat ellátó intézet esetében a kormánytisztviselő annál az önkormányzatnál nem lehet helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja, amely a munkavégzési helye szerinti régió közigazgatási határain belül van.
+(6)
 
 (6a) A pénzügyőr nem lehet helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja.
 

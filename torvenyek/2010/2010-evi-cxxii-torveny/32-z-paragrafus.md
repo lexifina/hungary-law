@@ -24,7 +24,7 @@ b) nem a NAV állományába tartozó oktató igénybevételével biztosított k�
 
 költségeit.
 
-(5a) Az (5) bekezdés b) pontja szerinti költséget akkor kell megtéríteni, ha a képzés költségei meghaladják a NAV elnöke által a foglalkoztatási szabályzatban meghatározott összeget.
+(5a) Az (5) bekezdés b) pontja szerinti költséget akkor kell megtéríteni, ha a képzés költségei meghaladják az állami adó- és vámhatóság vezetője által a foglalkoztatási szabályzatban meghatározott összeget.
 
 (6) A (4) bekezdés szerinti megtérítési kötelezettség alapja:
 

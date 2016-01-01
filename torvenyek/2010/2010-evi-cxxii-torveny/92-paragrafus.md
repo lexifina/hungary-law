@@ -1,3 +1,0 @@
-92. § (1) A munkáltatói jogkör gyakorlója 2011. január 21-ig – 2011. január 1-jei hatállyal – köteles e törvény szabályai szerint a 2010. december 31-én az Adó- és Pénzügyi Ellenőrzési Hivatal személyi állományába tartozó kormánytisztviselőt, ügykezelőt, munkaviszonyban állókat besorolni, illetményüket, munkabérüket megállapítani.
-
-(2) A munkáltatói jogkör gyakorlója 2011. január 21-ig – 2011. január 1-jei hatállyal – köteles e törvény szabályai szerint a 2010. december 31-én a Vám- és Pénzügyőrség személyi állományába tartozó pénzügyőrt és közalkalmazottat besorolni, illetményét, munkabérét megállapítani.

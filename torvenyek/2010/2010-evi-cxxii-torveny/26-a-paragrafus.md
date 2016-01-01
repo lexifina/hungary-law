@@ -2,7 +2,7 @@
 
 (2) Az idegennyelv-tudást az államilag elismert nyelvvizsga eredményét igazoló bizonyítvánnyal vagy azzal egyenértékű okirattal kell igazolni.
 
-(3) Az idegennyelv-tudási pótlékra jogosító nyelveket és munkaköröket a NAV elnöke állapítja meg.
+(3) Az idegennyelv-tudási pótlékra jogosító nyelveket és munkaköröket az állami adó- és vámhatóság vezetője állapítja meg.
 
 (4) A pótlék mértéke nyelvvizsgánként
 

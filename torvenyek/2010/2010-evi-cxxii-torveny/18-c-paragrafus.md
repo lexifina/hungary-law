@@ -4,7 +4,7 @@
 
 (2) Amennyiben a munkáltató szervezetszerű működési területe a főváros vagy annak egyes kerületei, illetve Pest megye területére terjed ki, kiküldetésnek – az (1) bekezdés második mondatában foglalt feltétel megvalósulása esetén – az minősül, ha a kormánytisztviselőt, a pénzügyőrt, az ügykezelőt a munkáltató a közép-magyarországi régió közigazgatási határain kívüli munkavégzésre kötelezi.
 
-(3) Amennyiben a munkáltató szervezetszerű működési területe az ország egész területére kiterjed, továbbá az informatikai intézet és a humánerőforrás-fejlesztési feladatokat ellátó intézet esetében, kiküldetésnek – az (1) bekezdés második mondatában foglalt feltétel megvalósulása esetén – az minősül, ha a kormánytisztviselőt, a pénzügyőrt, az ügykezelőt a munkáltató a munkavégzési, illetve szolgálatteljesítési hely szerinti régió közigazgatási határain kívüli munkavégzésre kötelezi.
+(3) Amennyiben a munkáltató szervezetszerű működési területe az ország egész területére kiterjed, kiküldetésnek – az (1) bekezdés második mondatában foglalt feltétel megvalósulása esetén – az minősül, ha a kormánytisztviselőt, a pénzügyőrt, az ügykezelőt a munkáltató a munkavégzési, illetve szolgálatteljesítési hely szerinti régió közigazgatási határain kívüli munkavégzésre kötelezi.
 
 (4) A kiküldetésben lévő kormánytisztviselőnek, pénzügyőrnek, ügykezelőnek az élelmezésével kapcsolatos többletköltségei fedezetére a kiküldetés tartamára élelmezési költségtérítés (napidíj) jár.
 

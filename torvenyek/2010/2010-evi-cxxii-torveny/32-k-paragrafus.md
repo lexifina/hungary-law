@@ -36,14 +36,14 @@ d) 30 éves jogviszony felett 5 munkanap.
 
 (5) Figyelemmel a 32/Q. § (3) bekezdésben foglaltakra is, a hosszabb tartamú pótszabadság a kormánytisztviselőnek, illetve a pénzügyőrnek abban az évben jár először, amelyben a (2), illetve (3) bekezdésben meghatározott besorolást eléri; az ügykezelőnek, illetve a munkavállalónak pedig abban az évben jár először, amelyben a (4) bekezdésben meghatározott időtartamú jogviszonyt betölti.
 
-(6) Vezetők esetében a pótszabadság mértéke évente:
+(6) A vezetői pótszabadság mértéke évente
 
-a) osztályvezető, alsó fokú szerv főosztályvezető-helyettese 12 munkanap,
+a) az osztályvezető és a területi szerv főosztályvezető-helyettese esetében 12 munkanap,
 
-b) igazgatóhelyettes, középfokú és központi szerv főosztályvezető-helyettese, alsó fokú szerv főosztályvezetője 13 munkanap,
+b) az igazgatóhelyettes, a központi szerv főosztályvezető-helyettese és a területi szerv főosztályvezetője esetében 13 munkanap,
 
-c) igazgató, főigazgató-helyettes, középfokú és központi szerv főosztályvezetője 14 munkanap,
+c) az igazgató, a központi szerv főosztályvezetője és a Bűnügyi Főigazgatóság főigazgató-helyettese esetében 14 munkanap,
 
-d) főigazgató, szakfőigazgató 15 munkanap,
+d) a szakfőigazgató, a Központi Irányítás főigazgató-helyettese és a Bűnügyi Főigazgatóság főigazgatója esetében 15 munkanap,
 
-e) elnök, elnökhelyettes 16 munkanap.
+e) a Központi Irányítás főigazgatója esetében 16 munkanap.

@@ -4,9 +4,9 @@
 
 a) az ott említett fegyelmi fenyítéseken a rendfokozatban való visszavetés, illetve a hivatásos szolgálati jogviszony megszüntetése fenyítést kell érteni,
 
-b) az a) pont szerinti fegyelmi fenyítést eredményező – a kijelölt miniszter javaslatát megelőző – fegyelmi eljárást a NAV elnöke által vezetett fegyelmi tanács folytatja le.
+b) az a) pont szerinti fegyelmi fenyítést eredményező – a kijelölt miniszter javaslatát megelőző – fegyelmi eljárást az állami adó- és vámhatóság vezetője által vezetett fegyelmi tanács folytatja le.
 
-(3) A Hszt. 134. § (2) bekezdése alkalmazásában folyamatos ügyeleti szolgálatnak minősül a NAV bűnügyi és vámszerveinél, továbbá az állandó ügyeletet ellátó szerveknél a váltószolgálat. A szolgálatteljesítési időt e szerveknél negyedéves keretekben kell meghatározni.
+(3) A Hszt. 134. § (2) bekezdése alkalmazásában folyamatos ügyeleti szolgálatnak minősül a NAV Központi Irányításánál, Bűnügyi Főigazgatóságnál és a NAV területi szerveinél, továbbá az állandó ügyeletet ellátó szerveknél a váltószolgálat. A szolgálatteljesítési időt e szerveknél negyedéves keretekben kell meghatározni.
 
 (4) Az Mt.-ben meghatározott munkaszüneti napokon túl a pénzügyőrök tekintetében munkaszüneti nap január 26-a, a nemzetközi vámnap, a NAV hivatásos állományú tagjainak ünnepnapja.
 

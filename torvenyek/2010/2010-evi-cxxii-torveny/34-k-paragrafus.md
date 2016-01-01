@@ -34,6 +34,6 @@ d) nem alkalmazhatók a fegyelmi eljárásnak az egyszerűsített eljárásra, a
 
 (10) A (7) bekezdés szerinti értesítésben a károkozót a (7)–(9) bekezdésben foglaltakról tájékoztatni kell.
 
-(11) A károkozó a (7) bekezdés szerinti esetben is kérheti a munkáltatói jogkör gyakorlójától, illetve a 34/M. § szerinti esetben a NAV elnökétől a 34/L. § szerinti méltányosság gyakorlását, fizetési könnyítés engedélyezését. Ilyen esetben a kérelem elbírálására a 34/L. § (5)–(7) bekezdését kell megfelelően alkalmazni.
+(11) A károkozó a (7) bekezdés szerinti esetben is kérheti a munkáltatói jogkör gyakorlójától, illetve a 34/M. § szerinti esetben az állami adó- és vámhatóság vezetőjétől a 34/L. § szerinti méltányosság gyakorlását, fizetési könnyítés engedélyezését. Ilyen esetben a kérelem elbírálására a 34/L. § (5)–(7) bekezdését kell megfelelően alkalmazni.
 
 (12) Nem alkalmazható a (7)–(11) bekezdés, ha a kárt többen együttesen okozták, vagy ha a kártérítési felelősség leltárhiány alapján áll fenn.

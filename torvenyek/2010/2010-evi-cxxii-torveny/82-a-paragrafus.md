@@ -24,4 +24,4 @@ k) a technikai ellenőrzés alkalmazásának feltételeit, az alkalmazható eszk
 
 l) a könnyített szolgálatban foglalkoztatottak által betölthető munkaköröket, valamint az e körből kizárt tevékenységeket és kapcsolódó mentesítéseket.
 
-(2) Felhatalmazást kap a kijelölt miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg azon fertőző betegségek körét, amelyek esetében – egyes szolgálati feladatokhoz kapcsolódóan – védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait.
+(2)

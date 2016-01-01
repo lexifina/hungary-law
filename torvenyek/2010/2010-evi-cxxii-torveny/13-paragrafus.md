@@ -1,5 +1,3 @@
-## A Nemzeti Adó- és Vámhivatal feladatai
-
 13. § (1) A NAV feladata:
 
 a) a részben vagy egészben a központi költségvetés, a Nyugdíjbiztosítási Alap, az Egészségbiztosítási Alap vagy az elkülönített állami pénzalap javára teljesítendő kötelező befizetés,
@@ -18,9 +16,9 @@ b) végzi az adó-, vám- és pénzforgalmi adatoknak, az ellenőrzések megáll
 
 c) feldolgozza az államháztartás működéséhez szükséges és rendelkezésre álló adatokat és az adópolitikáért felelős miniszternek átadja,
 
-d) Központi Hivatala, illetve az informatikai feladatokat ellátó intézete összegyűjti és tárolja az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással, valamint a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó hatósági felügyeleti tevékenységgel kapcsolatos eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
+d) Központi Irányítása és a feladat- és hatáskörrel rendelkező területi szerve összegyűjti és tárolja az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással, valamint a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó hatósági felügyeleti tevékenységgel kapcsolatos eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
 
-e) adóztatási szerve, illetve vámszerve előterjeszti a hatáskörébe tartozó kötelező befizetésekkel vagy költségvetési támogatással kapcsolatban elkövetett bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igényt,
+e) előterjeszti a hatáskörébe tartozó kötelező befizetésekkel vagy költségvetési támogatással kapcsolatban elkövetett bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igényt,
 
 f) lefolytatja az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti központosított ellenőrzést, valamint a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény (a továbbiakban: Vtv.) szerinti központosított utólagos ellenőrzést,
 
@@ -28,7 +26,7 @@ g) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állomány
 
 h) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
 
-i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja,
+i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat az állami adó- és vámhatóság vezetője gyakorolja,
 
 j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, hatósági felügyeleti feladatokat,
 
@@ -46,9 +44,9 @@ d) végzi az Európai Csalásellenes Hivatallal (OLAF) történő együttműköd
 
 (4) A NAV adóigazgatási jogkörében
 
-a) eljáró adóztatási szervei – feladataik ellátása során – együttműködnek az illetékességi területükön lévő helyi, illetve helyi kisebbségi önkormányzatokkal,
+a) eljáró szervei – feladataik ellátása során – együttműködnek az illetékességi területükön lévő helyi, illetve helyi kisebbségi önkormányzatokkal,
 
-b) a helyi, illetve helyi nemzetiségi önkormányzat költségvetését érintő, szükséges és rendelkezésre álló bevételi adatokról az illetékes adóztatási szerve útján évente tájékoztatást ad az önkormányzat részére; az adatszolgáltatás tartalmát a helyi önkormányzatokért felelős miniszter bevonásával az adópolitikáért felelős miniszter határozza meg,
+b) a helyi, illetve helyi nemzetiségi önkormányzat költségvetését érintő, szükséges és rendelkezésre álló bevételi adatokról a feladat- és hatáskörrel rendelkező szerve útján évente tájékoztatást ad az önkormányzat részére; az adatszolgáltatás tartalmát a helyi önkormányzatokért felelős miniszter bevonásával az adópolitikáért felelős miniszter határozza meg,
 
 c) ellátja az adók módjára behajtandó köztartozás végrehajtásával kapcsolatos, illetve az egyéb kötelező befizetésekkel kapcsolatos, az állami adó- és vámhatóság hatáskörébe utalt feladatokat,
 

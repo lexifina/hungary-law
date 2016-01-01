@@ -20,7 +20,7 @@ b) a munkakör az e törvény szerinti előmenetel alapján a NAV-val kormányza
 
 (9) A Hszt. 68. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Nemzeti Közszolgálati Egyetemre vezényelt pénzügyőr az e törvény szerinti illetményre, pótlékokra, juttatásokra, támogatásokra és költségtérítésre jogosult. Egyebekben a Hszt. 68. § (3) bekezdése az irányadó.
 
-(10) A Hszt. 69. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőrt – tábornok kivételével – a NAV elnöke vezényli a külföldi szolgálati tevékenység időtartamára.
+(10) A Hszt. 69. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőrt – tábornok kivételével – az állami adó- és vámhatóság vezetője vezényli a külföldi szolgálati tevékenység időtartamára.
 
 (11) A Hszt. 82. § (1) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy a hivatásos szolgálati jogviszony a törvény erejénél fogva megszűnik, ha a pénzügyőr e törvényben és végrehajtási rendeleteiben meghatározott, a hivatásos szolgálati jogviszony fenntartásához szükséges, és a munkáltató által részére előírt képzési és vizsgakötelezettség teljesítését önhibájából elmulasztotta.
 
@@ -28,7 +28,7 @@ b) a munkakör az e törvény szerinti előmenetel alapján a NAV-val kormányza
 
 (13) A Hszt. 107. § (7) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a szolgálati jogviszony létesítésére nem kerül sor, a szolgálati jogviszony létesítését célzó alkalmassági vizsgálat során az egészségi, pszichikai és fizikai állapotra vonatkozóan keletkezett vizsgálati adatot vagy egészségügyi adatot a vizsgálattól számított 1 éven belül meg kell semmisíteni.
 
-(14) A NAV tekintetében a NAV elnöke a foglalkoztatási szabályzatban határozza meg
+(14) A NAV tekintetében az állami adó- és vámhatóság vezetője a foglalkoztatási szabályzatban határozza meg
 
 a) az alkalmazható szolgálati időrendszereket és azok kereteit,
 

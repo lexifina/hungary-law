@@ -1,6 +1,6 @@
 36/N. § (1) Ha gyanú merül fel arra, hogy az ellenőrzés alá vont személy testében, testüregében kábítószert vagy kábítószernek minősülő anyagot szállít, a pénzügyőr jogosult az ilyen személy beleegyezésével vizeletvétel és orvosi vizsgálat elrendelésére.
 
-(2) A beleegyezés megtagadása esetén a NAV illetékes vámszervének vezetője felhatalmazó kérelmet terjeszt elő az illetékes ügyészséghez. Ilyen esetben a vizeletvétel és az orvosi vizsgálat csak az ügyész felhatalmazásával rendelhető el.
+(2) A beleegyezés megtagadása esetén a NAV feladat- és hatáskörrel rendelkező szervének vezetője felhatalmazó kérelmet terjeszt elő az illetékes ügyészséghez. Ilyen esetben a vizeletvétel és az orvosi vizsgálat csak az ügyész felhatalmazásával rendelhető el.
 
 (3) A feltartóztatás és az orvosi vizsgálat időtartama a 8 órát nem haladhatja meg.
 

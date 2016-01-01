@@ -1,6 +1,22 @@
 ## Vezetői munkakörök, vezetői kinevezés, vezetői kinevezés módosítása
 
-19. § (1) A NAV vezetői munkakörei: elnök, elnökhelyettes, szakfőigazgató, főigazgató, főigazgató-helyettes, igazgató, igazgatóhelyettes, főosztályvezető, főosztályvezető-helyettes, osztályvezető.
+19. § (1) A NAV vezetői munkakörei:
+
+a) főigazgató,
+
+b) főigazgató-helyettes,
+
+c) szakfőigazgató,
+
+d) igazgató,
+
+e) igazgatóhelyettes,
+
+f) főosztályvezető,
+
+g) főosztályvezető-helyettes és
+
+h) osztályvezető.
 
 (2) A vezetői munkakört betöltő személy szolgálati elöljárója az általa vezetett szervezet, szerv, szervezeti egység állományába tartozó pénzügyőrnek.
 

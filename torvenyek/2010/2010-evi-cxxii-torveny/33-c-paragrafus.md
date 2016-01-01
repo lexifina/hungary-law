@@ -20,7 +20,7 @@ g) folytathat tanszékvezetői tevékenységet,
 
 h) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső szervezeti egységének vezetője.
 
-(3) A kormánytisztviselő, a pénzügyőr, az ügykezelő – ideértve a vezetői munkakört betöltő kormánytisztviselőt is – a NAV elnökének előzetes engedélyével gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag lehet, feltéve, ha
+(3) A kormánytisztviselő, a pénzügyőr, az ügykezelő – ideértve a vezetői munkakört betöltő kormánytisztviselőt is – az állami adó- és vámhatóság vezetőjének előzetes engedélyével gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag lehet, feltéve, ha
 
 a) a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban van,
 

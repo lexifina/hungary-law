@@ -4,7 +4,7 @@ a) évi 150 óráig terjedő túlmunka teljesítéséért szabadidő,
 
 b) évi 150 órát meghaladó túlmunkáért – az érintettnek a túlmunka teljesítésekori illetményének a teljesített túlmunka idejére járó arányos összegének megfelelő – díjazás
 
-illeti meg. A NAV elnöke a 150 órát meg nem haladó túlmunka teljesítésének díjazását is engedélyezheti, ha a szabadidő kiadása a NAV alaptevékenységének ellátását veszélyeztetné.
+illeti meg. Az állami adó- és vámhatóság vezetője a 150 órát meg nem haladó túlmunka teljesítésének díjazását is engedélyezheti, ha a szabadidő kiadása a NAV alaptevékenységének ellátását veszélyeztetné.
 
 (2) A kormánytisztviselőt, a pénzügyőrt, az ügykezelőt a túlmunka teljesítése esetén annak időtartamával azonos mértékű, a heti pihenőnapon és a munkaszüneti napon teljesített túlmunka esetén a munkaidő időtartama kétszeresének megfelelő mértékű szabadidő, illetve díjazás illeti meg.
 

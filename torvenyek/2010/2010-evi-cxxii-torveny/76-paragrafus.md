@@ -1,16 +1,16 @@
 76. § (1) A NAV bűnüldözési célú adatkezelési rendszereibe csak
 
-a) a NAV elnöke,
+a) az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatai ellátásáért felelős szakmai helyettese,
 
-b) a NAV bűnüldözési tevékenységét felügyelő elnökhelyettese,
+b) a Központi Irányítás állományába tartozó, az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatai ellátásáért felelős szakmai helyettese által erre eseti jelleggel vagy tartósan felhatalmazott személy,
 
-c) a NAV Központi Hivatala állományába tartozó, az elnök, illetve a bűnüldözési tevékenységét felügyelő elnökhelyettes által erre eseti jelleggel vagy tartósan felhatalmazott személy,
+c) a Bűnügyi Főigazgatóság és a NAV nyomozóhatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői,
 
-d) a NAV bűnügyi főigazgatóságának és a bűnügyi főigazgatóság középfokú szerveinek a bűnüldözési feladatokat irányító vezetői,
+d) a pénzügyi nyomozók,
 
-e) a pénzügyi nyomozók,
+e) a Bűnügyi Főigazgatóság és a NAV nyomozóhatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői által kijelölt, e szervek állományába tartozó más személy,
 
-f) a bűnügyi főigazgatóság és a bűnügyi főigazgatóság középfokú szerveinek bűnüldözési feladatokat irányító vezetői által kijelölt, e szervek állományába tartozó más személy,
+f)
 
 g)
 
@@ -38,7 +38,7 @@ e) a külpolitikáért felelős miniszter által irányított minisztérium ille
 
 f) a honvédelmi igazgatás illetékes szerve,
 
-g) a NAV-nak az adóztatási szerve és vámszerve az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
+g) a NAV feladat- és hatáskörrel rendelkező szerve az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
 
 h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv,
 

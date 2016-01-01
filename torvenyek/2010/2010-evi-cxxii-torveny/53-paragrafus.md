@@ -22,7 +22,7 @@ h) hírközlési rendszerekből és egyéb adattároló eszközökből informác
 
 (3) Az e törvényben meghatározott feladatok ellátása érdekében a NAV – külön megállapodás alapján meghatározott időtartamra – a (2) bekezdés szerinti jogviszony létesítését kezdeményezheti a (2) bekezdés hatálya alá tartozó szervezeteknél.
 
-(4) A NAV nem kezdeményezheti a (2) bekezdés szerinti jogviszony létesítését bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosának Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
+(4) A NAV nem kezdeményezheti a (2) bekezdés szerinti jogviszony létesítését bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosának Hivatalánál, a Köztársasági Elnöki Hivatalnál és az Országgyűlés Hivatalánál.
 
 (5) A foglalkoztatás pénzügyi nyomozói jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a NAV és az érintett szervezet külön megállapodása tartalmazza.
 

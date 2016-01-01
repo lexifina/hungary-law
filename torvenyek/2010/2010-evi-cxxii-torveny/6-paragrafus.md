@@ -1,9 +1,7 @@
 ## A Nemzeti Adó- és Vámhivatal vezetői
 
-6. § (1) A NAV vezetője az elnök. Az elnök képviseli a NAV-ot, közvetlenül vezeti a NAV Központi Hivatalát, továbbá ellátja mindazon feladatokat, amelyeket jogszabály a hatáskörébe utal.
+6. § (1) A NAV vezetőjének feladat- és hatáskörét a kijelölt miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár (a továbbiakban: állami adó- és vámhatóság vezetője) gyakorolja. Az állami adó- és vámhatóság vezetője képviseli a NAV-ot, közvetlenül vezeti a Központi Irányítást, továbbá ellátja mindazokat a feladatokat, amelyeket jogszabály a NAV vezetőjének feladat- és hatáskörébe utal.
 
-(2) A NAV elnökét határozatlan időtartamra a kijelölt miniszter javaslatára a miniszterelnök nevezi ki, és menti fel.
+(2) Az állami adó- és vámhatóság vezetőjének szakmai helyettesei a kijelölt miniszter által irányított minisztérium szervezeti és működési szabályzatában meghatározott, az állami adó- és vámhatóság vezetője által irányított helyettes államtitkárok.
 
-(3) A NAV elnökévé jogi vagy közgazdasági felsőfokú iskolai végzettséggel rendelkező magyar állampolgár nevezhető ki.
-
-(4) A NAV elnöke szolgálati elöljárója a NAV hivatásos állományú tagjainak.
+(3) Az állami adó- és vámhatóság vezetője és szakmai helyettesei szolgálati elöljárója a NAV hivatásos állományú tagjainak.

@@ -4,7 +4,7 @@
 
 (2) A kormánytisztviselő, a pénzügyőr, az ügykezelő a készenlét tartama alatt köteles munkára képes állapotát megőrizni.
 
-(3) A készenlétet a munkáltatónak írásban kell elrendelnie. A készenlét elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV elnöke határozza meg.
+(3) A készenlétet a munkáltatónak írásban kell elrendelnie. A készenlét elrendelésének, nyilvántartásának és elszámolásának rendjét az állami adó- és vámhatóság vezetője határozza meg.
 
 (4) A készenlét időtartamát legalább egy héttel korábban, egy hónapra előre közölni kell. Ettől a munkáltató – különösen indokolt esetben – eltérhet. Az eltérés során az egészséges és biztonságos munkavégzés követelményeire figyelemmel kell lenni.
 

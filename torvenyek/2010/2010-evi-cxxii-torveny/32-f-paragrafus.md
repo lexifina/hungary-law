@@ -12,9 +12,9 @@ c) a készenlét alatt elrendelt munkavégzés esetén a munkahelyre érkezést�
 
 (3) Nem minősül túlmunkának, ha a kormánytisztviselő, a pénzügyőr, az ügykezelő az engedélyezett távollét idejét a munkáltatóval történt megállapodás alapján ledolgozza.
 
-(4) A túlmunkát a munkáltatónak írásban kell elrendelnie. A túlmunka elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV elnöke határozza meg.
+(4) A túlmunkát a munkáltatónak írásban kell elrendelnie. A túlmunka elrendelésének, nyilvántartásának és elszámolásának rendjét az állami adó- és vámhatóság vezetője határozza meg.
 
-(5) Teljes napi munkaidő esetén naptári évenként háromszáz óra túlmunka rendelhető el. Az elrendelhető túlmunka mértékét a NAV elnöke a NAV alaptevékenysége zavartalanságának biztosítása érdekében a kormánytisztviselők, az ügykezelők tekintetében legfeljebb 20%-kal, a pénzügyőrök tekintetében pedig legfeljebb 50%-kal növelheti.
+(5) Teljes napi munkaidő esetén naptári évenként háromszáz óra túlmunka rendelhető el. Az elrendelhető túlmunka mértékét az állami adó- és vámhatóság vezetője a NAV alaptevékenysége zavartalanságának biztosítása érdekében a kormánytisztviselők, az ügykezelők tekintetében legfeljebb 20%-kal, a pénzügyőrök tekintetében pedig legfeljebb 50%-kal növelheti.
 
 (6) Az (5) bekezdésben foglaltakat arányosan kell alkalmazni, ha a kormányzati szolgálati jogviszony, a hivatásos szolgálati jogviszony
 

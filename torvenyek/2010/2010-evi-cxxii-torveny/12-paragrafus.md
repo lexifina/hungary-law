@@ -1,13 +1,15 @@
 ## A Nemzeti Adó- és Vámhivatal szerveinek irányítása és felügyelete
 
-12. § (1) Az alsó fokú adóztatási szervek, illetve az alsó fokú vámszervek felettes szervei a középfokú adóztatási szervek, illetve a középfokú vámszervek.
+12. § (1) A területi szerv felettes szerve – a (2) és (3) bekezdésben meghatározottak kivételével – a Központi Irányítás.
 
-(2) A középfokú adóztatási szervek, illetve a középfokú vámszervek felettes szerve – a (6) bekezdésben foglalt eltéréssel – az elnök.
+(2) A NAV nyomozóhatósági feladatait ellátó területi szervének felettes szerve a Bűnügyi Főigazgatóság.
 
-(3) A Központi Hivatal eljárása tekintetében felettes szerv az elnök.
+(3) A Kormány rendeletében megjelölt területi szervek által első fokon hozott döntésekkel (intézkedésekkel) szemben induló jogorvoslati eljárásokban felettes szervként a Fellebbviteli Igazgatóság jár el.
 
-(4) A bűnügyi főigazgatóság alsó és középfokú szerveinek felettes szerve a bűnügyi főigazgatóság, illetve a bűnügyi főigazgatóság felettes szerve az elnök.
+(4) A Központi Irányítás felettes szerve a kijelölt miniszter.
 
-(5) Az informatikai feladatokat ellátó intézet és a humánerőforrás-fejlesztési feladatokat ellátó intézet a Központi Hivatal irányítása alatt áll.
+(5) A Bűnügyi Főigazgatóság felettes szerve – a (6) bekezdésben meghatározott kivétellel – a Központi Irányítás.
 
-(6) A Kormány rendeletében a középfokú adóztatási szervek, illetve a középfokú vámszervek intézkedései, illetve az általuk hozott elsőfokú döntések ellen benyújtott jogorvoslati kérelmek elbírálására – meghatározott ügycsoportokban – kijelölhet más középfokú adóztatási szervet, illetve középfokú vámszervet.
+(6) A Bűnügyi Főigazgatóság – a büntetőeljárásról szóló törvény szerinti – felettes szerve az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatai ellátásáért felelős szakmai helyettese.
+
+(7) A kijelölt miniszter és az állami adó- és vámhatóság vezetője az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatainak ellátásáért felelős szakmai helyettesét, valamint a kijelölt miniszter, az állami adó- és vámhatóság vezetője és az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatainak ellátásáért felelős szakmai helyettese a Bűnügyi Főigazgatóság főigazgatóját a NAV bűnüldözési és nyomozóhatósági feladatainak ellátása körében, egyedi ügyben nem utasíthatja.

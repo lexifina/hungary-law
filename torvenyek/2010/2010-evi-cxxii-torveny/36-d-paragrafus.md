@@ -18,7 +18,7 @@ b) aki a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elköve
 
 (3) A pénzügyőr jogosult a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözött személyek nyilvántartásában szereplő, a körözés alapján előállítandó személyt az intézkedés helye szerint illetékes rendőrkapitányságra előállítani. Az előállított személy átszállításáról, az intézkedést elrendelő vagy az intézkedésben megjelölt hatóság elé állításáról az előállítást elrendelő hatóság gondoskodik.
 
-(4) Az előállítással a személyi szabadság csak a szükséges ideig, de legfeljebb 8 órán át korlátozható. Ha az előállítás célja még nem valósult meg, indokolt esetben ezt az időtartamot a NAV előállítást foganatosító vámszervének, illetve nyomozó szervének vezetője egy alkalommal 4 órával meghosszabbíthatja. Az előállítás időtartamát az intézkedés kezdetétől kell számítani.
+(4) Az előállítással a személyi szabadság csak a szükséges ideig, de legfeljebb 8 órán át korlátozható. Ha az előállítás célja még nem valósult meg, indokolt esetben ezt az időtartamot a NAV előállítást foganatosító szervének, illetve nyomozó szervének vezetője egy alkalommal 4 órával meghosszabbíthatja. Az előállítás időtartamát az intézkedés kezdetétől kell számítani.
 
 (5) Az előállítottat szóban vagy írásban az előállítás okáról tájékoztatni kell, és az előállítás időtartamáról részére igazolást kell kiállítani.
 

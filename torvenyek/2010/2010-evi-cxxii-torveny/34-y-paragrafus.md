@@ -2,7 +2,7 @@
 
 34/Y. § (1) E fejezet, valamint a NAV személyi állományának jogviszonyát szabályozó más jogszabályok alkalmazásában:
 
-a) állományilletékes parancsnok: az elnök, az informatikai feladatokat ellátó intézet, a humánerőforrás-fejlesztési feladatokat ellátó intézet, a bűnügyi főigazgatóság, a középfokú vámszervek főigazgatója, és a regionális bűnügyi igazgatóság, valamint az alsó fokú vámszervek igazgatója;
+a) állományilletékes parancsnok: a központi szerv vezetője és a területi szerv igazgatója;
 
 b) áthelyezés: a (2) bekezdés b) pontja szerinti külső áthelyezés;
 
@@ -16,7 +16,7 @@ f) munkavégzési hely/szolgálatteljesítési hely: a munkáltató székhelye, 
 
 g) a munkáltató szervezetszerű működési területe: az a földrajzilag körülhatárolt területrész, ahol az adott NAV szerv a hatáskörét és illetékességét megállapító jogszabály alapján a hatáskörébe utalt feladatokat jogosult, illetve köteles ellátni, és ahol a szerv állományába tartozó kormánytisztviselő, pénzügyőr, ügykezelő a munkaköri kötelezettségét köteles ellátni;
 
-h) munkáltató: a NAV-nak az a központi, középfokú, illetve alsófokú szerve, amelynek állományába a kormánytisztviselő, a pénzügyőr, az ügykezelő, munkavállaló tartozik;
+h) munkáltató: a NAV-nak az a központi szerve, illetve az a területi szerve, amelynek állományába a kormánytisztviselő, a pénzügyőr, az ügykezelő, munkavállaló tartozik;
 
 i) szervezeti egység: a szerv azon szervezeti eleme, amelyet osztályvezető (ideértve az osztályt vezető főosztályvezető-helyettest is), illetve főosztályvezető vezet, valamint a kirendeltség;
 
@@ -32,19 +32,19 @@ b) a NAV állományában lévő azon személy, aki az a) pont szerinti feladatok
 
 a) belső áthelyezés: a NAV szervei közötti áthelyezés; a belső áthelyezés nem eredményezi a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony megszűnését;
 
-b) külső áthelyezés: a kormánytisztviselők, ügykezelők tekintetében a közigazgatási szervek közötti áthelyezés, a hivatásos állományúak tekintetében a NAV elnöke és az érintett miniszter megállapodása alapján a NAV és a Hszt. szerinti valamely rendvédelmi szerv között történő áthelyezés, továbbá kormányzati szolgálati jogviszonyba, közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés.
+b) külső áthelyezés: a kormánytisztviselők, ügykezelők tekintetében a közigazgatási szervek közötti áthelyezés, a hivatásos állományúak tekintetében az állami adó- és vámhatóság vezetője és az érintett miniszter megállapodása alapján a NAV és a Hszt. szerinti valamely rendvédelmi szerv között történő áthelyezés, továbbá kormányzati szolgálati jogviszonyba, közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés.
 
 (3) A belső áthelyezés esetén követendő eljárás rendjét a foglalkoztatási szabályzat állapítja meg.
 
-(4) Az országos parancsnok részére biztosított jogköröket a NAV tekintetében a NAV elnöke gyakorolja.
+(4) Az országos parancsnok részére biztosított jogköröket a NAV tekintetében az állami adó- és vámhatóság vezetője gyakorolja.
 
 (4a) A Hszt.-ben és a Hszt. felhatalmazása alapján kiadott kormányrendeletben a miniszter részére biztosított jogköröket a NAV tekintetében a kijelölt miniszter gyakorolja.
 
 (5) Ahol a Hszt.
 
-a) országos parancsnokságot említ, azon a NAV tekintetében a NAV Központi Hivatalát;
+a) országos parancsnokságot említ, azon a NAV tekintetében a Központi Irányítást;
 
-b) szervezeti egységet említ, azon a NAV tekintetében a központi szerveket, a középfokú szerveket és az alsó fokú szerveket;
+b) szervezeti egységet említ, azon a NAV tekintetében a központi szerveket, illetve a területi szerveket;
 
 c) beosztási illetményt említ, azon a NAV tekintetében az e törvény szerinti alapilletményt;
 

@@ -8,19 +8,17 @@
 
 a) a NAV szervezeti felépítésére vonatkozó részletes szabályokat,
 
-b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes alsó fokú vámszervek kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
+b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes megyei adó- és vámigazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
 
 c) a NAV állományába tartozó kormánytisztviselők, pénzügyőrök tekintetében a képesítésre vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
-a) a közép- és alsó fokú adóztatási szerveket,
+a) a Központi Irányítást és a területi szerveket,
 
-b) a közép- és alsó fokú vámszerveket,
+b)–c)
 
-c) az informatikai feladatokat ellátó intézetet, valamint a humánerőforrás-fejlesztési feladatokat ellátó intézetet,
-
-d) a NAV bűnügyi főigazgatóságát, illetve a bűnügyi főigazgatóság középfokú szerveit és alsó fokú szervét,
+d) a Bűnügyi Főigazgatóságot és a NAV nyomozóhatósági feladatait ellátó területi szerveit,
 
 e) az Art. 7. számú melléklet 18. pontja szerinti szervet,
 
