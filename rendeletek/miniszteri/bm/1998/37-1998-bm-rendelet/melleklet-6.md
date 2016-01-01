@@ -30,7 +30,7 @@
 
 | FIGYELEM! A vastagon bekeretezett részeket az igénylő tölti ki írógéppel vagy nyomtatott betűkkel! Kérjük, hogy úti okmány igényének kitöltése és benyújtása előtt olvassa el hátoldali TÁJÉKOZTATÓnkat ügyének gyors és pontos intézése érdekében. |  | * A megfelelő rész aláhúzandó. | Az igénylő – illetve írni nem tudó gyermek esetén a törvényes képviselő – saját kezű aláírását a fenti keretbe kérjük. |
 
-6. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^23]
+6. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^25]
 
 |  | IDEIGLENES MAGÁNÚTLEVÉL-IGÉNYLŐLAP |
 
@@ -46,4 +46,4 @@
 
 A vastagon bekeretezett részt a Kérelmező tölti ki.
 
-[^23]: A 6. számú mellékletet a 23/2006. (IX. 27.) IRM rendelet 4. § (3) bekezdése iktatta be.
+[^25]: A 6. számú mellékletet a 23/2006. (IX. 27.) IRM rendelet 4. § (3) bekezdése iktatta be.

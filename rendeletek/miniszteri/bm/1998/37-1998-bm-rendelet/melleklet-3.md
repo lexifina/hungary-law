@@ -1,4 +1,4 @@
-3. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^20]
+3. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^22]
 
 ## Az adatszolgáltatás iránti kérelem adattartalma
 
@@ -72,4 +72,4 @@ i) megkerülésének tényéről.
 
 XI. Tájékoztatás az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj megfizetését és mértékét meghatározó jogszabályi rendelkezésekről, illetve az igazgatási szolgáltatási díj teljesítésének a módjáról és helyéről.
 
-[^20]: A 3. számú mellékletet a 23/2006. (IX. 27.) IRM rendelet 5. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 82/2012. (XII. 28.) BM rendelet 2. §-a iktatta be.
+[^22]: A 3. számú mellékletet a 23/2006. (IX. 27.) IRM rendelet 5. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 82/2012. (XII. 28.) BM rendelet 2. §-a iktatta be.
