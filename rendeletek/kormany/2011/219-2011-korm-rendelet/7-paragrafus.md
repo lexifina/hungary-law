@@ -10,7 +10,7 @@ b) olyan veszélyes anyagokkal foglalkozó üzem esetében, amely a veszélyes t
 
 küldi meg.
 
-(2)[^18] Az üzemazonosítási eljárásra vonatkozó ügyintézési határidő az elsőfokú eljárásban és a másodfokú eljárásban is 30 nap.
+(2)[^18]
 
 [^17]: A 7. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^18]: A 7. § (2) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 34/2015. (II. 27.) Korm. rendelet 4. §-a iktatta be.
+[^18]: A 7. § (2) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 34/2015. (II. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 147. § a) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

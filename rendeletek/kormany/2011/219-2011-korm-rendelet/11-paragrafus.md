@@ -14,9 +14,9 @@ d)[^29] veszélyes anyagokkal kapcsolatos súlyos baleset bekövetkezése eseté
 
 (3)[^31] Az ötévenkénti (a továbbiakban: soros), vagy soron kívüli felülvizsgálatról készült jegyzőkönyvet az üzemeltető a hatóság területi szervének soros felülvizsgálat, vagy az általa kezdeményezett soron kívüli felülvizsgálat esetében haladéktalanul, a hatóság által kezdeményezett soron kívül felülvizsgálat esetében a hatóság határozatában meghatározott határidőn belül megküldi. Ha a felülvizsgálat eredményeképpen a hatóság döntése szerint a biztonsági jelentést, a biztonsági elemzést módosítani szükséges, akkor annak módosítással érintett részét, jelentős tartalmi módosítás esetében a módosításokkal egységes szerkezetbe foglalt biztonsági jelentést, biztonsági elemzést az üzemeltető a hatóság határozatában meghatározott határidőn belül megküldi a hatóság területi szervének.
 
-(4)[^32] A felülvizsgálatról készült jegyzőkönyv elbírálására vonatkozó ügyintézési határidő az elsőfokú és másodfokú eljárás során 30 nap.
+(4)[^32]
 
 [^29]: A 11. § (2) bekezdés d) pontját a 34/2015. (II. 27.) Korm. rendelet 7. § (1) bekezdése iktatta be.
 [^30]: A 11. § (2a) bekezdését a 34/2015. (II. 27.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^31]: A 11. § (3) bekezdés a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^32]: A 11. § (4) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^32]: A 11. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 147. § c) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -1,6 +1,6 @@
 ## 21. Hozzáférés üzemeltetői adatokhoz
 
-## 45. §[^116] A hatóság honlapján keresztül a nyilvánosság részére az alábbiakhoz biztosít hozzáférést:
+## 45. §[^115] A hatóság honlapján keresztül a nyilvánosság részére az alábbiakhoz biztosít hozzáférést:
 
 a) üzem neve,
 
@@ -20,4 +20,4 @@ h) a 16/A. § szerinti ellenőrzési terv,
 
 i) veszélyes anyagokkal kapcsolatos üzemzavarok, súlyos balesetek megelőzése érdekében tett javaslatok, ajánlások.
 
-[^116]: A 45. § a 34/2015. (II. 27.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^115]: A 45. § a 34/2015. (II. 27.) Korm. rendelet 27. §-ával megállapított szöveg.

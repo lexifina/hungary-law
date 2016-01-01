@@ -1,5 +1,3 @@
-## 9. §[^21] A veszélyes anyagokkal foglalkozó üzemek 10. § (1) bekezdés szerinti elsőfokú engedélyezési eljárásának ügyintézési határideje 90 nap, az ezzel kapcsolatos másodfokú eljárás ügyintézési határideje 90 nap.
-
 10. § (1) Az üzemeltető a biztonsági jelentés vagy a biztonsági elemzés benyújtásával egyidejűleg katasztrófavédelmi engedély iránti kérelmet terjeszt elő.
 
 (2) A katasztrófavédelmi engedély iránti kérelemnek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben meghatározottakon túl az alábbiakat is tartalmaznia kell:
@@ -26,7 +24,6 @@ d) az igazgatási szolgáltatási díj megfizetését hitelt érdemlően bizony�
 
 (4)[^28] Ha az üzemeltető a (3) bekezdésben meghatározott védendő adatot nem tartalmazó dokumentációt nem nyújt be, akkor csatolja a nyilatkozatát arról, hogy a beküldött dokumentáció nem tartalmaz védendő adatot.
 
-[^21]: A 9. § a 476/2013. (XII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^22]: A 10. § (2) bekezdés b) pontja a 476/2013. (XII. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^23]: A 10. § (2) bekezdés c) pontja a 476/2013. (XII. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^24]: A 10. § (2) bekezdés d) pontját a 476/2013. (XII. 17.) Korm. rendelet 6. § (2) bekezdése iktatta be.
