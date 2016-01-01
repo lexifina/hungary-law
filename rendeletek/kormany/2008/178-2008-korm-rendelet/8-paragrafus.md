@@ -1,4 +1,4 @@
-8. §[^13] (1) Az építésügyi szempontú vizsgálat kiterjed arra, hogy
+8. §[^14] (1) Az építésügyi szempontú vizsgálat kiterjed arra, hogy
 
 a) a záradékolási kérelemben megjelölt kisajátítási cél összhangban van-e a területfelhasználásra vonatkozó építésjogi követelményekkel,
 
@@ -22,4 +22,4 @@ b) a 3. § (2) bekezdés szerinti esetben az ingatlan-nyilvántartási térképe
 
 (6) A záradékoló szerv a záradékolás lefolytatása mellett tájékoztatást ad a kisajátítást kérő részére továbbá arról, hogy a visszamaradó ingatlan a telekalakítás általános követelményeinek – a telekméretet ide nem értve – megfelel-e.
 
-[^13]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg.
+[^14]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg.

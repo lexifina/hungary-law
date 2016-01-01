@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-178-20-
 | 2014-03-15 | 2008-178-20-22.11 | 68/2014. (III. 13.) Korm. rendelet |
 | 2015-01-01 | 2008-178-20-22.12 | 373/2014. (XII. 31.) Korm. rendelet |
 | 2015-04-01 | 2008-178-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-01-01 | 2008-178-20-22.14 | 441/2015. (XII. 28.) Korm. rendelet |

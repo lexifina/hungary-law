@@ -22,10 +22,11 @@ b) egyszeri vizsgálatú kisajátítási terv esetében az építésügyi szempo
 
 (7) Az ügyintézési határidő
 
-a) az (1) bekezdés szerinti esetben 25 nap,
+a)[^12]
 
 b) a (2) bekezdés a) pont aa) alpontja szerinti esetben 15 nap, az ab) alpontja szerinti esetben 10 nap,
 
 c) a (2) bekezdés b) pontja szerinti esetben 10 nap.
 
 [^11]: A 6. § a 70/2015. (III. 30.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg.
+[^12]: A 6. § (7) bekezdés a) pontját a 441/2015. (XII. 28.) Korm. rendelet 107. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
