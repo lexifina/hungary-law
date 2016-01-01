@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-41-20-5
 | 2010-04-01 | 2002-41-20-53.7 | 18/2004. (IV. 21.) PM rendelet |
 | 2011-04-20 | 2002-41-20-53.8 | 17/2011. (IV. 19.) NGM rendelet |
 | 2014-01-01 | 2002-41-20-53.9 | 76/2013. (XII. 31.) NGM rendelet |
+| 2016-01-01 | 2002-41-20-53.10 | 41/2015. (XII. 30.) NGM rendelet |

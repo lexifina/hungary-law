@@ -8,6 +8,6 @@ b) a papír alapú eszköz esetében egyedi azonosító jellel és sorszámmal, 
 
 c) a nem papír alapú eszköz esetében egyedi azonosító jelet és sorszámot tartalmazó, el nem távolítható, át nem javítható feliratozással ellátott;
 
-d)[^1] az alsó fokú vámszerv (a továbbiakban: vámszerv) által kiadott a 3. § (6) bekezdése szerinti engedéllyel került előállításra.
+d)[^2] a vámhatóság által kiadott, 3. § (6) bekezdése szerinti engedéllyel került előállításra.
 
-[^1]: Az 1. § d) pontja a 17/2011. (IV. 19.) NGM rendelet 14. §-ával megállapított szöveg.
+[^2]: Az 1. § d) pontja a 41/2015. (XII. 30.) NGM rendelet 14. §-ával megállapított szöveg.
