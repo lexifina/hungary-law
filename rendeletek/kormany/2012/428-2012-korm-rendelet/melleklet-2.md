@@ -40,7 +40,7 @@
 
 ## c. társadalmi felzárkózással, közfoglalkoztatással kapcsolatosan más szervekkel való együttműködés.
 
-2. melléklet a 428/2012. (XII. 29.) Korm. rendelethez[^46]
+2. melléklet a 428/2012. (XII. 29.) Korm. rendelethez[^52]
 
 A feladatalapú költségvetési támogatás elbírálásának szempontrendszere
 
@@ -64,4 +64,4 @@ A feladatalapú költségvetési támogatás elbírálásának szempontrendszere
 
 | ELÉRHETŐ ÖSSZES PONTSZÁM: 100 pont |
 
-[^46]: A 2. mellékletet a 448/2015. (XII. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^52]: A 2. mellékletet a 448/2015. (XII. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be.

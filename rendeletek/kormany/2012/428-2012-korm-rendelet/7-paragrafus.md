@@ -1,3 +1,3 @@
-## 4.[^24]
+## 4.[^30]
 
-[^24]: A 4. alcímet (7. §) a 397/2014. (XII. 31.) Korm. rendelet 86. § 2. pontja hatályon kívül helyezte.
+[^30]: A 4. alcímet (7. §) a 397/2014. (XII. 31.) Korm. rendelet 86. § 2. pontja hatályon kívül helyezte.

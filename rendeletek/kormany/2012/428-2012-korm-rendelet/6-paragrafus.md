@@ -1,9 +1,9 @@
-6. § (1)[^21] A támogató a feladatalapú költségvetési támogatásról támogatói okiratot ad ki. A támogatói okiratnak az államháztartásról szóló 2011. évi CXCV. törvény 48/A. § (3) bekezdése szerinti közlése a nemzetiségpolitikáért felelős miniszter által vezetett minisztérium honlapján történő közzététellel valósul meg.
+6. § (1)[^27] A támogató a miniszter 5. § (5) bekezdése szerinti döntésének megfelelő támogatói okiratot ad ki a feladatalapú költségvetési támogatásról. A támogatói okiratnak az Áht. 48/A. § (3) bekezdése szerinti közlése a támogató honlapján történő közzététellel valósul meg. Ha a támogatói okirat közzétételét követő nyolc napon belül a helyi nemzetiségi önkormányzat nem tesz észrevételt, a támogatói okiratban foglalt nyilatkozatok a helyi nemzetiségi önkormányzat által megtettnek minősülnek.
 
-(2)[^22] A támogató a feladatalapú támogatást támogatási előlegként két egyenlő részletben a kincstár útján folyósítja, a költségvetési év április 15-éig és augusztus 15-éig.
+(2)[^28] A támogató a feladatalapú költségvetési támogatás két egyenlő részletben történő folyósítása iránt a költségvetési év április 30-áig és augusztus 15-éig intézkedik a kincstár útján.
 
-(3)[^23]
+(3)[^29]
 
-[^21]: A 6. § (1) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 84. §-ával megállapított szöveg.
-[^22]: A 6. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 84. §-ával megállapított szöveg.
-[^23]: A 6. § (3) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 86. § 1. pontja hatályon kívül helyezte.
+[^27]: A 6. § (1) bekezdése a 448/2015. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^28]: A 6. § (2) bekezdése a 448/2015. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^29]: A 6. § (3) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 86. § 1. pontja hatályon kívül helyezte.
