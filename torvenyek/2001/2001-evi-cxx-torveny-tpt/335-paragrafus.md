@@ -1,53 +1,37 @@
-## Elszámolóházi tevékenység végzésére jogosult szervezet
+335. § Központi értéktár szolgáltatást nyújthat
 
-335. § (1) Az elszámolóházi tevékenységek közül
+a) tőzsdének,
 
-a) a 334. §-ban meghatározott valamennyi tevékenységet kizárólagos tevékenységként szakosított hitelintézet (a továbbiakban: elszámolóház);
+b) külföldi elszámolóháznak,
 
-b) a 334. § a), c) és d) pontjaiban meghatározott tevékenységet tőzsdei tevékenységet végző társaság végezheti.
+c) központi értéktárnak,
 
-(2) Külföldi szervezet elszámolóházi tevékenységet Magyarországon fióktelepe útján folytathat.
+d) központi szerződő félnek,
 
-(2a) E törvény alkalmazásában az elszámolóházi tevékenységet végző szervezet az (1) és (2) bekezdésben felsorolt intézmény.
+e) befektetési vállalkozásnak,
 
-(3) Az elszámolóház elszámolóházi tevékenységen kívül kizárólag
+f) hitelintézetnek,
 
-a)
+g) árutőzsdei szolgáltatónak,
 
-b) a Bszt. 5. §-a (2) bekezdésének a) és b) pontjaiban meghatározott kiegészítő szolgáltatást,
+h) befektetési alapkezelőnek,
 
-c)
+i) törvény által meghatározott szervezett piac szereplőjének,
 
-d)
+j) értékpapír-kibocsátónak,
 
-e) a Hpt. 3. §-a (1) bekezdésének b) és d) pontjában meghatározott pénzügyi szolgáltatási tevékenységet,
+k) a magyar állam számára,
 
-f) értékpapír-kölcsönzést,
+l) az állam vagyonát kezelő szervezetek számára,
 
-g) nemesfém letéti őrzését és letétkezelését,
+m) az MNB számára,
 
-h) tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura kötött ügyletek elszámolására irányuló,
+n) betétbiztosítási rendszer számára,
 
-i) az elszámolóházi tevékenységet segítő kiegészítő tevékenységként:
+o) befektető-védelmi rendszer számára,
 
-ia) informatikai,
+p) szanálásfinanszírozási rendszer számára,
 
-ib) adatszolgáltatási,
+q) pénzforgalmi intézménynek és
 
-ic) részvénykönyv-vezetési,
-
-id) oktatási,
-
-ie) közgyűlés szervezésére és lebonyolítására kiterjedő,
-
-if) részvényesi meghatalmazotti (nominee),
-
-j) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 9. cikke szerinti bejelentési kötelezettség átruházása esetén a származtatott ügyletek adatainak a kereskedési adattár felé történő bejelentésével kapcsolatos,
-
-k) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti valamennyi kereskedési adattári,
-
-tevékenységet végezhet.
-
-(4)
-
-(5) Az elszámolóház jogosult továbbá a központi szerződő fél által kiszervezett tevékenységek végzésére.
+r) elektronikuspénz-kibocsátó intézménynek.

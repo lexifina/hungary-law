@@ -50,7 +50,7 @@ b) a XIX/A. és XIX/B. Fejezet alkalmazásában minden olyan vállalkozás, amel
 
 22. befolyásszerzés: a céltársaság szavazati jogot megtestesítő részvényének, illetőleg szavazati jognak a megszerzése, ideértve a szavazati jogot biztosító részvényre vonatkozó vételi jog, visszavásárlási jog, határidős vételi megállapodás érvényesítését vagy a szavazati jog használati, haszonélvezeti jog alapján történő gyakorlását, valamint azt, ha a befolyás nem a befolyásszerző közvetlenül erre irányuló magatartása révén, hanem egyéb körülmények – így különösen jogutódlás vagy a részvénytársaságnak a részvényesek szavazati jogát érintő, a szavazati arányokat módosító határozata vagy a szavazati jogok feléledése – következtében, illetve összehangoltan eljáró személyek e célból megvalósított együttműködésének eredményeképpen jön létre,
 
-23. biztosító: a Bit. 3. §-a (1) bekezdésének 10. pontja szerinti biztosító, a XIX/B. Fejezet alkalmazásában biztosítónak tekintendő a Bit. 3. §-a (1) bekezdésének 23. pontja szerinti harmadik országbeli biztosító is,
+23. biztosító: a Bit.-ben meghatározott fogalom, továbbá a XIX/B. Fejezet alkalmazásában biztosítónak tekintendő a Bit.-ben meghatározott harmadik országbeli biztosító is,
 
 24.
 
@@ -98,7 +98,7 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 36. elszámolási rendszer: pénzügyi eszközre kötött ügyletekre vonatkozó megbízások egységes rend és közös szabályok szerinti feldolgozására, elszámolására, illetve teljesítésére vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
 
-37. elszámolóház: a tőzsdén, a tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügyletek elszámolásával és teljesítésével kapcsolatos szolgáltatásokat végző szakosított hitelintézet,
+37. külföldi elszámolóház: pénzügyi eszközre kötött ügyletek elszámolását végző olyan nem magyarországi székhelyű vállalkozás, amely nem tartozik sem a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet), sem az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról szóló, 2014. július 23-i 909/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 909/2014/EU rendelet) hatálya alá,
 
 38–39.
 
@@ -120,7 +120,7 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 47.
 
-48. felügyeleti hatóság: a külföldi befektetési vállalkozás, árutőzsdei szolgáltató, pénzügyi intézmény, befektetési alapkezelő, szabályozott piac, tőzsde, központi értéktár, elszámolóházi tevékenységet végző szervezet, központi szerződő fél tevékenységi felügyeletét ellátó külföldi szervezet,
+48. felügyeleti hatóság: a külföldi befektetési vállalkozás, árutőzsdei szolgáltató, pénzügyi intézmény, befektetési alapkezelő, szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységi felügyeletét ellátó külföldi szervezet,
 
 49.
 
@@ -132,7 +132,7 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 53. független pénzügyi szakértő: olyan könyvvizsgáló, befektetési tanácsadási tevékenység végzésére jogosult személy vagy forgalmazó, aki a vételi ajánlat közzétételének időpontját megelőző három éven belül nem állt megbízásos jogviszonyban sem az ajánlattevővel, sem a vételi ajánlattal érintett részvénytársasággal, sem az ebben, illetve az ajánlattevőben befolyással rendelkező személlyel,
 
-54. garanciaalap: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, a földgázellátásról szóló 2008. évi XL. törvényben meghatározott egyensúlyozó platformon (a továbbiakban: egyensúlyozó platform) árura, illetve pénzügyi eszközre kötött ügyletek elszámolásának a biztosítékaként az elszámolóház, illetve a központi szerződő fél által kezelt olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
+54. garanciaalap: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletek elszámolásának a biztosítékaként a központi szerződő fél által létrehozott olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
 
 55. harmadik ország: az az ország, amely nem tagja az Európai Uniónak,
 
@@ -152,7 +152,7 @@ b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 
 61. ISIN azonosító: a központi értéktár által kiadott, az azonos jogokat megtestesítő értékpapírok, illetőleg tőzsdei termékek azonosítására szolgáló betű vagy számjel összessége, illetve ezek kombinációja,
 
-62. járulékos vállalkozás: olyan vállalkozás, amely kizárólagosan vagy elsődlegesen egy vagy több befektetési vállalkozás, elszámolóházi tevékenységet végző szervezet, központi értéktár, központi szerződő fél vagy befektetési alapkezelő üzletszerű tevékenységét kiegészítő tevékenységet, így különösen ingatlankezelést, adatfeldolgozást, pénzszállítást, biztonsági, illetőleg kommunikációs szolgáltatást végez,
+62. járulékos vállalkozás: olyan vállalkozás, amely kizárólagosan vagy elsődlegesen egy vagy több befektetési vállalkozás, központi értéktár, központi szerződő fél vagy befektetési alapkezelő üzletszerű tevékenységét kiegészítő tevékenységet, így különösen ingatlankezelést, adatfeldolgozást, pénzszállítást, biztonsági, illetőleg kommunikációs szolgáltatást végez,
 
 63. jegyzés: az értékpapír forgalomba hozatala során az értékpapírt megszerezni szándékozó befektetőnek az értékpapír megszerzésére irányuló, feltétetlen és visszavonhatatlan nyilatkozata, amellyel az ajánlatot elfogadja és kötelezettséget vállal az ellenszolgáltatás teljesítésére,
 
@@ -164,7 +164,7 @@ b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 
 67. kibocsátó: az a személy, aki az értékpapírban megtestesített kötelezettség teljesítését a maga nevében vállalja,
 
-68. kiszervezés: olyan megállapodás a tőzsde, az elszámolóház, a központi értéktár, a központi szerződő fél vagy egy harmadik személy között, amelynek keretében a kiszervezett tevékenységet végző olyan tevékenységet folytat, amelyet egyébként a tőzsde, az elszámolóház, a központi értéktár, a központi szerződő fél maga végezne,
+68. kiszervezés: olyan megállapodás a tőzsde, a központi értéktár, a központi szerződő fél és egy más személy között, amelynek keretében a kiszervezett tevékenységet végző olyan tevékenységet folytat, amelyet egyébként a tőzsde, a központi értéktár, a központi szerződő fél maga végezne,
 
 69. kis- és középvállalkozás: olyan vállalkozás, amely utolsó éves vagy konszolidált beszámolója szerint legalább két feltételnek megfelel az alábbiak közül:
 
@@ -192,11 +192,11 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 80. központi értékpapírszámla: a központi értéktár által a dematerializált értékpapírról sorozatonként vezetett összesített nyilvántartás,
 
-80a. központi értéktár: az Európai Parlament és a Tanács 909/2014/EU rendelete (2014. július 23.) az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról (a továbbiakban: 909/2014/EU rendelet) 2. cikk (1) bekezdés 1. pontjában meghatározott fogalom,
+80a. központi értéktár: a 909/2014/EU rendelet 2. cikk (1) bekezdés 1. pontjában meghatározott fogalom,
 
 81. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer,
 
-82. központi szerződő fél: a központi szerződő fél tevékenység végzésére jogosító engedéllyel rendelkező gazdasági társaság,
+82. központi szerződő fél: a 648/2012/EU rendelet 2. cikk 1. pontjában meghatározott fogalom,
 
 83. központi szerződő fél tevékenység: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügylet elszámolása és az elszámolt ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás, amelynél a központi szerződő fél a szerződésben érintett ügyfelek helyébe lépve vevőként lép fel valamennyi eladóval szemben és eladóként valamennyi vevővel szemben,
 
@@ -250,7 +250,7 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 108. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 
-109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
+109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
 
 110. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, illetve viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
 
@@ -284,7 +284,9 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 
 119. tagsági jogokat megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzben meghatározott nem pénzbeli vagyoni érték tulajdonba vételét elismerve arra kötelezi magát, hogy az értékpapír birtokosának meghatározott szavazati, vagyoni és egyéb jogokat biztosít,
 
-120. teljesítés: az elszámolóházi tevékenységet végző szervezet ügyfelei, a központi értéktár ügyfelei, valamint a központi szerződő fél ügyfelei között, valamint a központi szerződő fél kötelezettségvállalása mellett kötött ügylet esetében a központi szerződő fél ügyfelei és a központi szerződő fél között fennálló pénzben, illetve nem pénzben meghatározott követelések (pozíciók) kiegyenlítése,
+119a. társasági esemény: az az alkalom, amikor az értékpapír tulajdonosa jogosult az értékpapírhoz kapcsolódó jogok kibocsátóval szembeni gyakorlására,
+
+120. teljesítés: a központi értéktár ügyfelei és a központi szerződő fél ügyfelei között, a központi szerződő fél kötelezettségvállalása mellett kötött ügylet esetében a központi szerződő fél ügyfelei és a központi szerződő fél között fennálló pénzben, illetve nem pénzben meghatározott követelések (pozíciók) kiegyenlítése,
 
 121. termékcsoport: olyan termékek köre, amelyekkel a tőzsdén annak szabályzata alapján azonos feltételek mellett lehet kereskedni,
 

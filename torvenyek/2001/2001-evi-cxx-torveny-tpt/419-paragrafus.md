@@ -1,8 +1,6 @@
 419. § (1)–(2)
 
-(3) Az az elszámolóház, amelyet a központi értéktári feladatok ellátására az Épt. alapján kijelöltek, e tevékenységét a kijelölésben foglaltaknak megfelelően változatlanul folytatja.
-
-(4) A törvény hatálybalépésekor már működő és e törvény előírásai szerint szakosított hitelintézetté átalakuló elszámolóház esetében a Hpt. alapításra, alapítási engedély kiadására, valamint a már engedélyezett tevékenységek vonatkozásában a tevékenység engedélyezésére vonatkozó szabályait nem kell alkalmazni.
+(3)–(4)
 
 (5)
 

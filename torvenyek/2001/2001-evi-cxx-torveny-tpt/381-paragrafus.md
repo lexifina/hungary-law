@@ -8,4 +8,4 @@
 
 (5) Ha az Európai Unió másik tagállamában székhellyel rendelkező központi értéktár, szabályozott piac, tőzsde magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,1 ezreléke.
 
-(6) Ha elszámolóház központi értéktári, tevékenységet is végez, akkor a központi értéktárra, vonatkozó díjfizetés alól mentesül.
+(6)

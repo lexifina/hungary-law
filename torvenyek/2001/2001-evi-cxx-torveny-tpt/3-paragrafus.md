@@ -1,3 +1,3 @@
-3. § (1) Fióktelep formájában működő tőzsde tekintetében a 307–310. §, a 355–357. §, fióktelep formájában működő elszámolóházi tevékenységet végző szervezet, központi szerződő fél tekintetében a 355–357. §, fióktelep formájában működő központi értéktár esetén a 342. §, 355–357. § rendelkezéseit nem kell alkalmazni.
+3. § (1) Fióktelep formájában működő tőzsde tekintetében a 307–310. §, a 355–357. §, fióktelep formájában működő központi szerződő fél tekintetében a 355–357. §, fióktelep formájában működő központi értéktár esetén a 355–357. § rendelkezéseit nem kell alkalmazni.
 
 (2) A Hatodik részt nem kell alkalmazni azokra az ügyletekre, amelyeket az állam, az MNB, az ÁKK Zrt., a Központi Bankok Európai Rendszere vagy bármely más, erre feljogosított szerv, illetve a képviseletükben eljáró bármely személy devizatartalék-kezelés, monetáris, árfolyam- vagy államadósság-kezelési politikája következtében hajt végre.

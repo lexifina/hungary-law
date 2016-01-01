@@ -13,3 +13,5 @@
 (6) Az (5) bekezdésben meghatározott, befektető személy által adott hozzájárulás nem lehet része az értékpapír megszerzésére vonatkozó nyilatkozatnak.
 
 (7) Amennyiben a forgalomba hozatali eljárás során a kibocsátó, az ajánlattevő, illetve a forgalmazó ellenértéket vesz át a befektetőtől, a forgalomba hozatali eljárás során befizetett összeget hitelintézetnél letéti számlán köteles tartani. A forgalomba hozatalban közreműködők haladéktalanul kötelesek gondoskodni az általuk átvett pénz letéti számlára történő befizetéséről. A letéti számlán elhelyezett összeg a 33. § (2) bekezdésében meghatározott visszafizetési kötelezettség teljesítéséig, illetve a visszafizetési kötelezettség hiányának megállapításáig nem használható fel.
+
+(8) A kibocsátó, illetve ajánlattevő jogosult a nyilvános forgalomba hozatal részvényértékesítés nélküli lezárásáról (az ajánlattétel visszavonásáról) rendelkezni a részvényeknek a befektetők értékpapírszámláján történő jóváírásáig. Ebben az esetben a tájékoztatónak tartalmaznia kell, hogy az ajánlattétel mikor és milyen körülmények között vonható vissza vagy függeszthető fel.

@@ -8,7 +8,7 @@ a) biztosított a kereskedési rendszerhez való megkülönböztetésmentes hozz
 
 b) rendelkezik a tevékenység folytatásához szükséges személyi, tárgyi és biztonsági feltételekkel;
 
-c) a tőzsdei kereskedelem elszámolása biztosított;
+c) a tőzsdei kereskedelem elszámolása biztosított, amelyet központi szerződő féllel, illetve központi értéktárral kötött megállapodás igazol;
 
 d) rendelkezik olyan, legalább hároméves üzleti tervvel, mely alapján stabil, megbízható működése vélelmezhető;
 

@@ -12,7 +12,7 @@ b) megfelel a tőzsde szabályzataiban foglalt feltételeknek;
 
 c) a tőzsdével megköti a szerződést, melyben vállalja a tőzsde szabályzataiban előírt feltételek teljesítését, betartását;
 
-d) a tőzsdei ügyletek elszámolására szerződést kötött a tőzsdei ügyletek elszámolását végző szervezettel vagy olyan klíringtaggal, melyen keresztül az elszámolás teljesíthető.
+d) a tőzsdei ügyletek elszámolására szerződést kötött központi szerződő féllel, illetve központi értéktárral vagy olyan klíringtaggal, melyen keresztül az elszámolás teljesíthető.
 
 (2) A tőzsde a szerződéskötésre irányuló ajánlatot harminc napon belül elbírálja és a döntésének megfelelően a kérelmezővel szerződést köt.
 

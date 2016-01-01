@@ -4,9 +4,9 @@
 
 a) elfogadja az Alap szabályzatait;
 
-b) kinevezi és felmenti az Alap ügyvezető igazgatóját, meghatározza feladatait és díjazását;
+b) javaslatot tesz az Országos Betétbiztosítási Alap ügyvezető igazgató helyettesének kinevezésére és felmentésére, valamint díjazására;
 
-c) meghatározza a munkaszervezet feladatait;
+c)
 
 d) meghatározza a tagsági viszonyból eredő kötelezettségek teljesítése érdekében az Alap tagjai által nyújtandó jelentések tartalmát és gyakoriságát;
 
@@ -20,4 +20,4 @@ h) éves tevékenységéről a tárgyévet követő május 31. napjáig jelenté
 
 i) ellátja az e törvényben meghatározott egyéb feladatokat.
 
-(2) Az Alap munkaszervezetét az ügyvezető igazgató irányítja. Az ügyvezető igazgató felett a munkáltatói jogokat – az (1) bekezdés b) pontban írottak kivételével – az igazgatóság elnöke gyakorolja.
+(2)

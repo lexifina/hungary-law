@@ -1,17 +1,19 @@
 ## TIZEDIK RÉSZ
 
-## AZ ELSZÁMOLÓHÁZI, KÖZPONTI ÉRTÉKTÁRI ÉS KÖZPONTI SZERZŐDŐ FÉL TEVÉKENYSÉG
+## KÖZPONTI ÉRTÉKTÁRI ÉS KÖZPONTI SZERZŐDŐ FÉL TEVÉKENYSÉG
 
-## XLII. Fejezet
+## Központi értéktári tevékenység
 
-## ELSZÁMOLÓHÁZI TEVÉKENYSÉG
+334. § (1) Központi értéktár a központi értéktári tevékenység végzésére a 909/2014/EU rendeletben meghatározott feltételekkel jogosult.
 
-334. § Elszámolóházi tevékenység az alábbi tevékenységek végzése:
+(2) Központi értéktári tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza a 909/2014/EU rendeletben foglalt követelményeknek és e törvény rendelkezéseinek megfelelően.
 
-a) a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközökre kötött ügylet elszámolása,
+(3) Központi értéktári tevékenység végzésére jogosító engedélyt a Felügyelet a Magyarország területén székhellyel rendelkező legalább egymilliárd forint jegyzett tőkével rendelkező részvénytársaságnak adja meg.
 
-b) az a) pont szerint elszámolt ügylet pénzügyi teljesítése,
+(4) Központi értéktár a 909/2014/EU rendelet C szakasza szerinti tevékenység végzésére szakosított hitelintézetként jogosult.
 
-c) az a) pont szerint elszámolt ügylet nem pénzbeli (termékkel történő) teljesítése, ide nem értve az értékpapírral történő teljesítést,
+(5) A szakosított hitelintézetként működő központi értéktár
 
-d) az értékpapír-kölcsönzési rendszer működtetése.
+a) legalább kettőmilliárd forint induló tőkével működhet,
+
+b) nem kaphat engedélyt a 909/2014/EU rendelet C szakasza szerinti tevékenységen kívül más pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenység végzésére.

@@ -1,29 +1,21 @@
-339. § Az elszámolóházi tevékenység végzésére szóló engedély iránti kérelemhez mellékelni kell:
+## Központi szerződő fél tevékenység
 
-a) a részvénytársaság hatályos alapító okiratát, alapszabályát, három hónapnál nem régebbi cégkivonatát;
+339. § (1) Központi szerződő fél a 648/2012/EU rendeletben meghatározott tevékenység végzésére az ott meghatározott feltételekkel jogosult.
 
-b) igazolást az alaptőke befizetéséről;
+(2) Központi szerződő fél az (1) bekezdésben meghatározott tevékenységen kívül jogosult
 
-c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval kötött, a részükre nyújtott szolgáltatásokra vonatkozó, valamint – ha tőzsdei tevékenységet nem végez – tőzsdei tevékenységet végző szervezettel kötött előszerződést;
+a) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon kötött ügyletek teljesítéséhez kapcsolódóan kötelezettséget vállalni,
 
-d) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket a létesítő okirat nem tartalmazza;
+b) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezet piacon, egyensúlyozó platformon kötött ügyletet elszámolni,
 
-e) a végezni kívánt elszámolóházi tevékenység részletes bemutatását, különösen az elszámolási technikát, módszereket, adatrögzítési, adatmentési, adatvédelmi megoldásokat;
+c) az általa elszámolt, illetve az általa elszámolásra közvetített ügyletek vonatkozásában teljesítést végezni,
 
-f) a 338. § (5) bekezdés d) pontja elbírálhatósága érdekében rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök részletes leírását, melyből megállapítható, hogy a kérelmező
+d) a Hpt. 3. § (1) bekezdés b) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylet teljesítése érdekében, kizárólag likvid eszközben történő, legalább teljes mértékű fedezettséget biztosító biztosítéknyújtás mellett végezni,
 
-1. által üzemeltetett elszámolási rendszer biztosítja a pontos, megbízható és átlátható elszámolási rendet,
+e) a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylettel kapcsolatos teljesítés lebonyolítása érdekében végezni.
 
-2. adatkezelése megfelel a biztonságos adatvédelem (tárolás, mentés, visszakereshetőség) feltételeinek;
+(3) Központi szerződő fél a (2) bekezdés c)–e) pontjában meghatározott tevékenység végzésére szakosított hitelintézetként jogosult. A szakosított hitelintézetként működő központi szerződő fél legalább kettőmilliárd forint induló tőkével működhet.
 
-g) a belső szabályzatokat;
+(4) Központi szerződő fél tevékenységi engedély iránti kérelmének benyújtási időpontjára vonatkozó – a 648/2012/EU rendelet 16. cikk (1) bekezdésében meghatározott – indulótőke összegét a tevékenységi engedély iránti kérelem benyújtását megelőző naptári hónap utolsó napján érvényes MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
 
-h) a működés első három évére vonatkozó üzleti tervet;
-
-i) a felelősségbiztosításról szóló szerződést;
-
-j) a kérelmező nyilatkozatát arra vonatkozóan, hogy az elszámolóházi tevékenységét mikor kívánja megkezdeni;
-
-k) a vezető állású személyek megnevezését;
-
-l)
+(5) A Felügyelet központi szerződő fél kérelmére indult eljárásban központi szerződő fél tevékenység végzésére jogosító engedélyt akkor vonja vissza, ha központi szerződő fél ügyfele felé vállalt összes kötelezettségének eleget tett, a pénzügyi eszközben megkötött ügyletek elszámolását és az ügyletek teljesítésének garantálását más központi szerződő fél átvette.

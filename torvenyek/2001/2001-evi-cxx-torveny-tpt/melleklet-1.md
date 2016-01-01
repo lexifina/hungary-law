@@ -6,7 +6,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 2. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 
-3. Bit.: a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény,
+3. Bit.: a biztosítási tevékenységről szóló törvény,
 
 4. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
 

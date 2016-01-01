@@ -1,23 +1,9 @@
-## XLV. Fejezet
+## Központi értéktárra és központi szerződő félre vonatkozó közös rendelkezések
 
-## A KÖZPONTI ÉRTÉKTÁRBAN TÖRTÉNŐ TULAJDONSZERZÉS SZABÁLYAI
+341. § (1) Központi értéktárral, valamint központi szerződő féllel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy – kivéve a vezető állású személyként megbízási jogviszonyban álló személyt – befektetési vállalkozásnál, hitelintézetnél – kivéve a szakosított hitelintézetként működő értéktárat –, központi értéktár, továbbá központi szerződő fél ügyfelénél, szabályozott piacra bevezetett értékpapír kibocsátójánál és szabályozott piac működtetőjénél – ide nem értve központi értéktárban, valamint központi szerződő félben tulajdonosi részesedéssel rendelkező pénzügyi holding társaságot –
 
-341. § (1) A központi értéktárban – a (2) bekezdésben meghatározott eltéréssel – tulajdoni részesedést szerezhet:
+a) nem állhat munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban; és
 
-a) az MNB;
+b) nem lehet vezető állású személy.
 
-b) központi értéktári tevékenységet végző szervezet, ideértve a külföldi központi értéktári tevékenységet végző szervezetet;
-
-c) tőzsdei tevékenységet végző szervezet, ideértve a külföldi tőzsdei tevékenységet végző szervezetet;
-
-d) hitelintézet, ideértve a külföldi hitelintézetet;
-
-e) befektetési vállalkozás, ideértve a külföldi befektetési vállalkozást;
-
-f) elszámolóházi tevékenységet végző szervezet, ideértve a külföldi elszámolóházi tevékenységet végző szervezetet;
-
-g) Hpt. szerinti pénzügyi holding társaság;
-
-h) a központi szerződő fél.
-
-(2) A központi értéktárban a Magyar Állam, illetőleg a Magyar Állam többségi tulajdonában lévő vállalkozás közvetlen tulajdoni részesedésének mértéke legalább ötven százalék és egy szavazat.
+(2) Központi értéktárnál, valamint központi szerződő félnél munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban álló személy befektetési vállalkozásban, hitelintézetben, központi szerződő félben, központi értéktárban közvetlen tulajdont nem szerezhet, kivéve a szabályozott piacra bevezetett részvény tulajdonjogának megszerzését.

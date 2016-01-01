@@ -4,7 +4,7 @@
 
 a)–b)
 
-c) az elszámolóház tevékenységének részletes személyi, tárgyi és biztonsági feltételeit;
+c)
 
 d) az egyes értékpapírok tartalmi kellékeit és kibocsátásuk feltételeit;
 
@@ -48,7 +48,7 @@ i)
 
 j)
 
-k) az elszámolóháznak nem minősülő elszámolóházi tevékenységet végző szervezet tartalékképzésének módját és mértékét;
+k)
 
 l)
 
@@ -68,14 +68,16 @@ s) a bennfentes információ nyilvánosságra hozatalának kibocsátó általi k
 
 t) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
 
-u) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmára vonatkozó részletszabályokat.
+u) a szabályozott piac és a tőzsde tájékoztatási kötelezettségének tartalmára vonatkozó részletszabályokat.
 
 (3) Felhatalmazást kap az MNB elnöke arra, hogy rendeletben állapítsa meg:
 
 a) az ISIN azonosítóra vonatkozó részletes szabályokat;
 
-b) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének módjára és gyakoriságára vonatkozó részletszabályokat;
+b) a szabályozott piac és a tőzsde tájékoztatási kötelezettségének módjára és gyakoriságára vonatkozó részletszabályokat;
 
 c) a 388. § (1) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletszabályokat;
 
-d) az információterjesztésre, az információtárolási rendszerre, továbbá az MNB felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat.
+d) az információterjesztésre, az információtárolási rendszerre, továbbá az MNB felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat;
+
+e) a Tpt. 142/A. §-ában foglalt belépési azonosító és jelszó megképzésének módszertanát, a számlavezető által a Felügyelet részére átadott értékpapírszámla és ügyfélszámla egyenleget és adatokat tartalmazó adatszolgáltatás struktúráját, valamint az adatbiztonsági követelményeket rögzítő szabályzat kötelező tartalmi elemeit.

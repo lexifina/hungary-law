@@ -14,7 +14,7 @@ c) a 303. § (2) bekezdés b) és c) pontjai elbírálhatósága érdekében ren
 
 4. adatkezelése megfelel a biztonságos adatvédelem feltételeinek;
 
-5. informatikai rendszere alkalmas a tőzsdei ügyletek elszámolására (amennyiben a tőzsdei ügyletek elszámolása nem a tőzsde által történik, az elszámolóházi tevékenységet végző szervezettel, illetve a központi szerződő féllel kötött megállapodást kell benyújtani);
+5.
 
 d) szabályzatait;
 

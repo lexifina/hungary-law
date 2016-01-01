@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2015-01-01 | 2014. évi CIV. törvény | 2001-120-00-00.55 |
 | 2015-07-07 | 2015. évi LXXXV. törvény | 2001-120-00-00.56 |
 | 2015-11-26 | 2015. évi CLXII. törvény | 2001-120-00-00.57 |
+| 2016-01-01 | 2015. évi LXXXV. törvény | 2001-120-00-00.58 |

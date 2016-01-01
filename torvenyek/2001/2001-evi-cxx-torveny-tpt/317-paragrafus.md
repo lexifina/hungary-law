@@ -26,7 +26,7 @@ f) az árfolyam és az egyéb tőzsdei információ nyilvánosságra hozatalána
 
 g) a tőzsdei kereskedők, a tőzsdére bevezetett értékpapírok kibocsátói adatszolgáltatásának tartalmát, módját és ellenőrzésének rendjét;
 
-h) a tőzsdei forgalom elszámolásának rendjét (ha a tőzsde maga végzi ezt a tevékenységet);
+h)
 
 i) a tőzsde, a tőzsde tulajdonosai vagy működtetője érdekei és a tőzsde stabil működése között potenciálisan felmerülő összeférhetetlenség kezelésére vonatkozó szabályokat, továbbá a tőzsde vezető állású személyeire és alkalmazottaira vonatkozó összeférhetetlenségi szabályokat;
 

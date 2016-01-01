@@ -8,4 +8,4 @@ b) olyan ügylet kötése vagy ügylet kötésére való megbízásadás, amely 
 
 c) olyan ügylet kötése vagy ügylet kötésére megbízásadás, amely színlelt, illetve amelyben bármilyen más formájú megtévesztéshez, manipulációhoz folyamodnak; vagy
 
-d) megalapozatlan, félrevezető, hamis információ közlése, híresztelése, nyilvánosságra hozása vagy nyilvános közlése, feltéve, hogy az információt terjesztő személy az információ hamis vagy félrevezető mivoltának tudatában van vagy az adott helyzetben elvárható gondossággal eljárva tudatában kellett volna lennie.
+d) megalapozatlan, félrevezető, hamis információ közlése, híresztelése, nyilvánosságra hozása vagy nyilvános közlése, feltéve, hogy az információt terjesztő személy az információ megalapozatlan, félrevezető, hamis mivoltának tudatában van vagy az adott helyzetben elvárható gondossággal eljárva tudatában kellett volna lennie.

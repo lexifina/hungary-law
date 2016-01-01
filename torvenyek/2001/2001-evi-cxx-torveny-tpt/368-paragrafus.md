@@ -4,7 +4,7 @@
 
 368. § (1) E törvény alkalmazásában üzleti titok alatt a Ptk.-ban meghatározott fogalmat kell érteni.
 
-(2) A tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél tulajdonosa, az e szervezetekben részesedést szerezni kívánó személy, a vezető állású személy, valamint e szervezetek alkalmazottja köteles az e szervezetek működésével kapcsolatban tudomására jutott üzleti titkot időbeli korlátozás nélkül megtartani.
+(2) A tőzsde, a központi értéktár, a központi szerződő fél tulajdonosa, az e szervezetekben részesedést szerezni kívánó személy, a vezető állású személy, valamint e szervezetek alkalmazottja köteles az e szervezetek működésével kapcsolatban tudomására jutott üzleti titkot időbeli korlátozás nélkül megtartani.
 
 (3) A (2) bekezdésben meghatározott személyeknek és szervezeteknek a Bszt. üzleti titokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 

@@ -1,6 +1,6 @@
 ## Vezető állású személyekre és minősített befolyással rendelkezőkre vonatkozó feltételek
 
-356. § (1) Szabályozott piacnál, tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi szerződő félnél, illetve központi értéktárnál vezető állású személynek az választható meg, illetve az nevezhető ki,
+356. § (1) Szabályozott piacnál, tőzsdénél, központi szerződő félnél, illetve központi értéktárnál vezető állású személynek az választható meg, illetve az nevezhető ki,
 
 a) aki felsőfokú végzettséggel rendelkezik;
 

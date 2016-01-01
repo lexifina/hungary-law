@@ -1,11 +1,7 @@
-## XLVI. Fejezet
+343. § (1) Központi értéktár és központi szerződő fél az e törvényben szabályozott feladata ellátásához azon ügyletek tekintetében, amelyeknél szerződő félként szerepel, személyes adatot kezelhet.
 
-## ÖSSZEFÉRHETETLENSÉG
+(2) Központi értéktár és központi szerződő fél az e törvényben szabályozott feladata ellátása érdekében jogosult az e § alapján kezelt személyes adatokat külön felhatalmazás nélkül egymásnak átadni.
 
-343. § (1) A központi értéktárral, az elszámolóházi tevékenységet végző szervezettel, valamint a központi szerződő féllel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy – kivéve a vezető állású személyként megbízási jogviszonyban álló személyt – befektetési vállalkozásnál, hitelintézetnél [kivéve a 335. § (1) bekezdés a) pontjában meghatározott szakosított hitelintézetet], a központi értéktár, az elszámolóházi tevékenységet végző szervezet, továbbá a központi szerződő fél ügyfelénél, szabályozott piacra bevezetett értékpapír kibocsátójánál és szabályozott piac működtetőjénél – ide nem értve a központi értéktárban, az elszámolóházi tevékenységet végző szervezetben, valamint a központi szerződő félben tulajdonosi részesedéssel rendelkező pénzügyi holding társaságot –
+(3) Központi értéktár, központi szerződő fél működése során az üzleti titokra, a banktitokra, fizetési titokra, az értékpapírtitokra és a bennfentes kereskedelem és a piacbefolyásolás tilalmára vonatkozó rendelkezések szerint jár el.
 
-a) nem állhat munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban; és
-
-b) nem lehet vezető állású személy.
-
-(2) A központi értéktárnál, az elszámolóházi tevékenységet végző szervezetnél, valamint a központi szerződő félnél munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban álló személy befektetési vállalkozásban, hitelintézetben, elszámolóházi tevékenységet végző szervezetben, központi szerződő félben közvetlen tulajdont nem szerezhet, kivéve a szabályozott piacra bevezetett részvény tulajdonjogának megszerzését.
+(4) Ha központi értéktár, központi szerződő fél feladatkörében eljárva e törvény, illetőleg e törvény felhatalmazása alapján kiadott jogszabály megsértését észleli, arról haladéktalanul értesíti a Felügyeletet.

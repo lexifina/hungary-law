@@ -1,16 +1,18 @@
 ## Az Alap szervezete
 
-223. § (1) Az Alapot héttagú igazgatóság irányítja.
+223. § (1) Az Alapot kilenctagú igazgatóság irányítja.
 
 (2) Az igazgatóság tagja:
 
-a) a tőzsde és a központi értéktár által kijelölt egy-egy személy;
+a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt két személy;
 
-b) az Alap tagjainak – szakmai érdek-képviseleti szervezetei által kijelölt – két képviselője;
+b) tőzsde és központi értéktár által kijelölt egy-egy személy;
 
-c) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNBtv. 4. § (7) bekezdésében, a másik az MNBtv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatokat ellátó vezető;
+c) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNBtv. 4. § (8) bekezdésében, a másik az MNBtv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatokat ellátó vezető;
 
-d) az Alap ügyvezető igazgatója.
+d) az Alap tagjainak – szakmai érdek-képviseleti szervezetei által kijelölt – két képviselője;
+
+e) az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese.
 
 (2a) Az igazgatóság tagja – az igazgatóság jóváhagyásával – írásban állandó helyettest nevezhet ki, aki a tag távollétében teljes döntési joggal vesz részt az igazgatóság ülésein.
 
@@ -30,8 +32,12 @@ c) a tag halálával; vagy
 
 d) az ügyvezető igazgató kivételével lemondással.
 
-(7) Az igazgatóság a tagjai közül évente elnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
+(7) Az igazgatóság a tagjai közül évente elnököt választ. Az Országos Betétbiztosítási Alap ügyvezető igazgató helyettese nem választható meg elnöknek.
 
 (8) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére kifizetési kötelezettséggel járó helyzet bekövetkezése várható, illetve, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 
-(9) Az igazgatóság ülése akkor határozatképes, ha az ülésen legalább öt tag jelen van. Az igazgatóság a határozatokat egyszerű szótöbbséggel hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
+(9) Az igazgatóság ülése akkor határozatképes, ha az ülésen legalább hét tag jelen van. Az igazgatóság a határozatokat egyszerű szótöbbséggel hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(10) Az igazgatóság az Alappal kapcsolatos feladatainak végrehajtása során igénybe veheti az Országos Betétbiztosítási Alap szolgáltatásait.
+
+(11) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat elkülönítetten az Országos Betétbiztosítási Alap munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató helyettesének irányításával.

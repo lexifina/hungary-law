@@ -14,9 +14,9 @@ b) a Magyarország területén székhellyel rendelkező vagy magyarországi szab
 
 c)–e)
 
-f) a Magyarország területén székhellyel rendelkező tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységére,
+f) a Magyarország területén székhellyel rendelkező tőzsde, központi értéktár, központi szerződő fél tevékenységére
 
-g) a Magyarország területén székhellyel rendelkező szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységet végző szervezet által végzett határon átnyúló szolgáltatásra,
+g) a Magyarország területén székhellyel rendelkező szabályozott piac, tőzsde, központi értéktár, központi szerződő fél tevékenységet végző szervezet által végzett határon átnyúló szolgáltatásra,
 
 h) a Befektető-védelmi Alapra, illetőleg az Alap által nyújtott biztosításra,
 
@@ -32,4 +32,4 @@ m) a Magyarország területén lakóhellyel vagy székhellyel rendelkező szemé
 
 n)–p)
 
-q) Magyarország területén a befektetési alapkezelő, kollektív befektetési forma, befektetési vállalkozás, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott érték-papírkölcsönzésre.
+q) Magyarország területén a befektetési alapkezelő, kollektív befektetési forma, befektetési vállalkozás, a központi értéktár, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott értékpapír-kölcsönzésre.

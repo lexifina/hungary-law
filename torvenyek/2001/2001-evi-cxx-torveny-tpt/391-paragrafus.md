@@ -2,23 +2,23 @@
 
 391. § (1) A Felügyelet nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:
 
-a) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár neve, székhelye;
+a) a tőzsde, a központi szerződő fél és a központi értéktár neve, székhelye;
 
-b) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár alapításának időpontja;
+b) a tőzsde, a központi szerződő fél és a központi értéktár alapításának időpontja;
 
-c) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tevékenységi köre;
+c) a tőzsde, a központi szerződő fél és a központi értéktár tevékenységi köre;
 
-d) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár jegyzett tőkéjének mértéke;
+d) a tőzsde, a központi szerződő fél és a központi értéktár jegyzett tőkéjének mértéke;
 
-e) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
+e) a tőzsde, a központi szerződő fél és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
 
-f) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár vezető állású személyei;
+f) a tőzsde, a központi szerződő fél és a központi értéktár vezető állású személyei;
 
-g) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tevékenysége megkezdésének időpontja;
+g) a tőzsde, a központi szerződő fél és a központi értéktár tevékenysége megkezdésének időpontja;
 
-h) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
+h) a tőzsde, a központi szerződő fél és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
 
-i) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár fióktelepe létesítésének időpontja és helye;
+i) a tőzsde, a központi szerződő fél és a központi értéktár fióktelepe létesítésének időpontja és helye;
 
 j)
 
