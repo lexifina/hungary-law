@@ -10,8 +10,9 @@ c) az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség k
 
 (2) A honvéd tisztjelölt és a honvéd altiszt-jelölt az állomány tagjára vonatkozó szabályok szerint jogosult tanévindítási hozzájárulásra, azzal az eltéréssel, hogy ennek összege az állomány tagja részére meghatározott összeg 50%-a.
 
-(3) A tanévindítási hozzájárulás a honvédelmi szervezet által biztosított elektronikus utalványkártya univerzális utalványaként kerül kiadásra. A tanévindítási hozzájárulás mértéke gyermekenként a honvédelemért felelős miniszter által évente meghatározott összeg.
+(3)[^4] A tanévindítási hozzájárulás gyermekenkénti összegét a honvédelemért felelős miniszter évente határozza meg.
 
-(4) A (3) bekezdés szerinti elektronikus utalványkártyát a jogosult részére történő átadásig a számvitelről szóló 2000. évi C. törvény 168. §-a szerinti szigorú számadási kötelezettség alá vont (a továbbiakban: számadásköteles) kártyaként kell kezelni, és a jogosult részére aláírás ellenében kell átadni. Az átadásról készült dokumentumot a számadásköteles nyomtatványok nyilvántartásához kell csatolni és azzal együtt kell megőrizni.
+(4)–(5)[^5]
 
-(5) A főkártya jogosult részére első alkalommal történő biztosítása, valamint lejárat miatti cseréje ingyenes. A társkártya első alkalommal történő biztosítása, lejárat miatti cseréje, valamint a főkártya és a társkártya elvesztése, eltulajdonítása, megrongálódása vagy más okból szükséges cseréje esetén az új kártya igénylésével kapcsolatban a szállító által kiszámlázott költség a jogosult részére felszámításra kerül.
+[^4]: A 9. § (3) bekezdése a 20/2015. (XII. 22.) HM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 9. § (4)–(5) bekezdését a 20/2015. (XII. 22.) HM rendelet 4. §-a hatályon kívül helyezte.

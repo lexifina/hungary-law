@@ -1,12 +1,12 @@
 ## 4. Nevelési támogatás
 
-10. § (1)[^4] Évente egy alkalommal gyermekenként a gyermekes családok élethelyzetének javítása érdekében a felszámítási alap 60%-ának megfelelő összegű nevelési támogatásban kell részesíteni az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagját, és a tárgyév augusztus 1-jén jogviszonyban álló közalkalmazottat,
+10. § (1)[^6] Évente egy alkalommal gyermekenként a gyermekes családok élethelyzetének javítása érdekében a felszámítási alap 60%-ának megfelelő összegű nevelési támogatásban kell részesíteni az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagját, és a tárgyév augusztus 1-jén jogviszonyban álló közalkalmazottat,
 
 a) ha a vele közös háztartásban élő vérszerinti, örökbefogadott, mostoha- vagy nevelt gyermekére tekintettel az állomány tagja és a közalkalmazott vagy a vele közös háztartásban élő házastársa vagy élettársa
 
 aa) családi pótlékra jogosult,
 
-ab)[^5] családi pótlékra nem jogosult, de gyermeke tárgyév szeptember 1-jén a 25. életévét még nem töltötte be, a családok támogatásáról szóló törvény szerinti, rendszeres jövedelemmel nem rendelkezik, és felsőfokú oktatási intézmény alapképzésében vagy mesterképzésében vesz részt, vagy az egységes, osztatlan képzésben első oklevelet szerző nappali tagozatos hallgató,
+ab)[^7] családi pótlékra nem jogosult, de gyermeke tárgyév szeptember 1-jén a 25. életévét még nem töltötte be, a családok támogatásáról szóló törvény szerinti, rendszeres jövedelemmel nem rendelkezik, és felsőfokú oktatási intézmény alapképzésében vagy mesterképzésében vesz részt, vagy az egységes, osztatlan képzésben első oklevelet szerző nappali tagozatos hallgató,
 
 ac) családi pótlékra nem jogosult, de gyermeke tárgyév szeptember 1-jén a 23. életévét még nem töltötte be, és köznevelési intézményben nappali tagozaton folytat tanulmányokat,
 
@@ -22,5 +22,5 @@ b) ha gyermeke saját jogán családi pótlékban részesül.
 
 (5) A honvéd tisztjelölt és a honvéd altiszt-jelölt az állomány tagjára vonatkozó szabályok szerint jogosult nevelési támogatásra, azzal az eltéréssel, hogy ennek összege az állomány tagja részére meghatározott összeg 50%-a.
 
-[^4]: A 10. § (1) bekezdés nyitó szövegrésze a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja szerint módosított szöveg.
-[^5]: A 10. § (1) bekezdés a) pont ab) alpontja a 6/2014. (IV. 14.) HM rendelet 16. § a) pontja szerint módosított szöveg.
+[^6]: A 10. § (1) bekezdés nyitó szövegrésze a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja szerint módosított szöveg.
+[^7]: A 10. § (1) bekezdés a) pont ab) alpontja a 6/2014. (IV. 14.) HM rendelet 16. § a) pontja szerint módosított szöveg.
