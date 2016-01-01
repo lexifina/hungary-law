@@ -1,31 +1,30 @@
-## 4. §[^2] A nyilvántartásban szereplő adatokban történt változást a gázszerelő 15 napon belül köteles bejelenteni és igazolni a Hatóságnál.
+## 4. §[^4] A nyilvántartásban szereplő adatokban történt változást a gázszerelő köteles bejelenteni és igazolni a Hatóságnál.
 
-5. § (1)[^3] A Hatóság törli a nyilvántartásból a gázszerelőt, ha a gázszerelő
+5. §[^5] (1) A Hatóság megtiltja a tevékenység végzését, ha
 
-a) engedélyének hatálya lejárt és nem hosszabbították meg,
+a) a gázszerelő nem felel meg az e rendeletben meghatározott feltételeknek,
 
-b) bejelenti, hogy a tevékenységet nem kívánja tovább folytatni,
+b) a gázszerelő jogerős bírósági határozat megállapítása szerint közreműködött a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet 1. számú melléklet 18.3. pont b), e), h) vagy j) alpontjában meghatározott valamely felhasználói szerződésszegés megvalósításában,
 
-c) engedélye kiadásának feltételei már nem állnak fenn,
+c) a gázszerelő megsértette a gázszerelői tevékenység végzésére vonatkozó – jogszabályban előírt – szakmai szabályokat, és ezt a Hatóság megállapította,
 
-d) elhalálozik,
+d) a földgázelosztó kezdeményezésére indult eljárásban azt állapítja meg, hogy a gázszerelő nem a felülvizsgált tervdokumentációnak, illetve nem az előírásoknak megfelelően végezte el a gázszerelést.
 
-e) jogerős bírósági határozat megállapítása szerint közreműködött a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet 2. számú melléklet 13. § (1) bekezdés 3., 4., illetve 7. pontjában meghatározott valamely felhasználói szerződésszegés megvalósításában,
+(2) A Hatóság törli a nyilvántartásból a gázszerelőt, ha
 
-f)[^4] megsértette a gázszerelésre vonatkozó – jogszabályban előírt – szakmai szabályokat, s ezt a Hatóság megállapította,
+a) a tevékenység végzését az (1) bekezdésben foglaltak szerint megtiltotta,
 
-g)[^5] a földgázelosztó kezdeményezésére indult eljárásban azt állapítja meg, hogy a gázszerelő nem a felülvizsgált tervdokumentációnak, illetve nem az érvényes előírásoknak megfelelően végezte el a gázszerelést.
+b) a gázszerelő bejelenti, hogy a tevékenységet nem kívánja tovább folytatni,
 
-(2)[^6] A Hatóság az 5. § (1) e) és f) pontok fennállása esetén intézkedik a gázszerelői igazolvány bevonása iránt.
+c) a gázszerelő elhalálozik.
 
-(3) A gázszerelő, akinek az engedélyét a Hatóság visszavonta, akkor kaphat új engedélyt, ha
+(3) A Hatóság a tevékenység megtiltása esetén intézkedik a gázszerelői igazolvány bevonása iránt.
 
-a) – az (1) bekezdés a) pontja esetén – a továbbképzési kötelezettsége teljesítését igazolja,
+(4) A gázszerelő, akinek a tevékenység végzését a Hatóság megtiltotta, akkor jelentheti be a tevékenység újbóli gyakorlását, ha a
 
-b) – az (1) bekezdés e) pontja esetén – a Hatóság az engedélyt visszavonó határozatának jogerőre emelkedésétől számított 1 év eltelt, és a gázszerelő eleget tett az engedély 3. § (2) bekezdés szerinti meghosszabbításához szükséges továbbképzési kötelezettségének.
+a) továbbképzési kötelezettsége teljesítését igazolja, amennyiben a tevékenység végzésnek megtiltására a továbbképzési kötelezettség elmulasztása miatt került sor,
 
-[^2]: A 4. § a 26/2010. (XII. 31.) NGM rendelet 12. §-a szerint módosított szöveg. E módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^3]: Az 5. § (1) bekezdés nyitó szövegrésze a 27/2010. (XII. 31.) NGM rendelet 75. § l) pontja szerint módosított szöveg.
-[^4]: Az 5. § (1) bekezdés f) pontját a 27/2010. (XII. 31.) NGM rendelet 67. § (3) bekezdése iktatta be.
-[^5]: Az 5. § (1) bekezdés g) pontját a 27/2010. (XII. 31.) NGM rendelet 67. § (3) bekezdése iktatta be.
-[^6]: Az 5. § (2) bekezdése a 27/2010. (XII. 31.) NGM rendelet 67. § (4) bekezdésével megállapított szöveg.
+b) tevékenységet megtiltó határozat jogerőre emelkedésétől számított egy év eltelt, és a gázszerelő eleget tett továbbképzési kötelezettségének, amennyiben a tevékenység megtiltására az a) pontban meghatározotthoz képest egyéb okból került sor.
+
+[^4]: A 4. § a 35/2015. (XII. 23.) NGM rendelet 6. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 5. § a 35/2015. (XII. 23.) NGM rendelet 6. § (3) bekezdésével megállapított szöveg.

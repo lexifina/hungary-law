@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-30-20-2
 | 2011-01-01 | 2009-30-20-2K.3 | 27/2010. (XII. 31.) NGM rendelet |
 | 2012-09-01 | 2009-30-20-2K.4 | 19/2012. (VII. 20.) NGM rendelet |
 | 2015-04-01 | 2009-30-20-2K.5 | 27/2010. (XII. 31.) NGM rendelet |
+| 2016-01-01 | 2009-30-20-2K.6 | 35/2015. (XII. 23.) NGM rendelet |

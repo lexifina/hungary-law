@@ -1,9 +1,10 @@
 ## 1. § E rendelet hatálya arra a személyre terjed ki, aki a földgázellátásról szóló törvény szerinti csatlakozóvezeték- és felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységet folytat.
 
-2. § (1)[^1] A mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: Hatóság) annak a személynek (a továbbiakban: gázszerelő) ad az 1. §-ban meghatározott tevékenységek végzésére engedélyt, aki az engedély kiadására irányuló, az 1. mellékletben meghatározott adattartalmú, a Hatóság által rendszeresített nyomtatványon benyújtott kérelméhez eredetiben bemutatja vagy másolatban mellékeli a 2. mellékletben meghatározott képesítés és gyakorlati idő meglétét igazoló okiratokat. Amennyiben a kérelem benyújtása a végzettség/képesítés megszerzésétől számított 5 év után történik, akkor az engedély megadásának további feltétele a 6. § szerinti továbbképzés elvégzése és a teljesítés igazolása.
+2. § (1)[^1] Az 1. §-ban meghatározott tevékenység végzésére irányuló szándékot az 1. mellékletben meghatározott adattartalmú, a mérésügyi és műszaki biztonsági hatóság (a továbbiakban: Hatóság) által rendszeresített nyomtatvánnyal kell bejelenteni. A bejelentéshez eredetiben be kell mutatni, vagy másolatban mellékelni kell a 2. mellékletben meghatározott képesítés és gyakorlati idő meglétét igazoló okiratokat. Amennyiben a bejelentés a végzettség, illetve képesítés megszerzésétől számított öt év után történik, a bejelentéshez a 6. § szerinti továbbképzés elvégzését igazoló okiratokat is be kell mutatni, vagy másolatban mellékelni kell.
 
-(2) A gázszerelő az engedélyben meghatározott, a 2. melléklet szerinti tevékenységek végzésére jogosult.
+(2)[^2] Az 1. §-ban meghatározott tevékenységet az a személy (a továbbiakban: gázszerelő) végezheti, aki rendelkezik a 2. mellékletben meghatározott képesítéssel és gyakorlati idővel. Amennyiben a bejelentésre a végzettség, illetve képesítés megszerzésétől számított öt év letelte után kerül sor, a tevékenység végzésének feltétele a 6. § szerinti továbbképzés elvégzése.
 
 (3) A gázszerelőknek a földgázellátásról szóló törvény szerinti jegyzékét a Hatóság honlapján, valamint a kormányzati portálon megyénkénti bontásban közzé kell tenni.
 
-[^1]: A 2. § (1) bekezdése a 27/2010. (XII. 31.) NGM rendelet 67. § (1) bekezdés a)–b) pontja és (2) bekezdése, a 9/2015. (III. 31.) NGM rendelet 44. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdése a 35/2015. (XII. 23.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdése a 35/2015. (XII. 23.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
