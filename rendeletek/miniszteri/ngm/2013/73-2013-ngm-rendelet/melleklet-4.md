@@ -60,7 +60,7 @@
 
 ## 8. Értékelhetetlen teszteredmény.
 
-4. melléklet a 73/2013. (XII. 30.) NGM rendelethez[^20]
+4. melléklet a 73/2013. (XII. 30.) NGM rendelethez[^23]
 
 I.
 
@@ -460,4 +460,4 @@ d) értékelés: a célvonalon való áthaladás zárja az időmérést (perc, m
 
 e) eszközfelhasználás: futópálya vagy kijelölt sík terep, minimum 60 memóriás stopperóra, rajtszámok, síp
 
-[^20]: A 4. melléklet a 14/2015. (V. 4.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^23]: A 4. melléklet a 14/2015. (V. 4.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.

@@ -2,7 +2,7 @@
 
 17. § (1) A fizikai alkalmassági vizsgálat célja a 8. § (2) bekezdés c) pontjában meghatározott foglalkoztatottak fizikai erőnlétének és állóképességének felmérése.
 
-(2)[^10] A fizikai alkalmassági vizsgálaton résztvevőket nemenként öt csoportba kell sorolni a következők szerint:
+(2)[^13] A fizikai alkalmassági vizsgálaton résztvevőket nemenként öt csoportba kell sorolni a következők szerint:
 
 a) I. csoport: 29 éves korig,
 
@@ -16,9 +16,9 @@ e) V. csoport: speciális bevetési egység tagjai, egységhez jelentkezők.
 
 (3) A (2) bekezdés a)–d) pontjában meghatározott csoportok esetében a besorolás alapja a tárgyévben betöltött életkor.
 
-(4)[^11] A fizikai alkalmassági vizsgálaton az vehet részt, aki hat hónapnál nem régebbi egészségi alkalmassági vizsgálaton „Egészségileg alkalmas” minősítést kapott, vagy aki érvényes sportorvosi engedéllyel rendelkezik.
+(4)[^14] A fizikai alkalmassági vizsgálaton az vehet részt, aki hat hónapnál nem régebbi egészségi alkalmassági vizsgálaton „Egészségileg alkalmas” minősítést kapott, vagy aki érvényes sportorvosi engedéllyel rendelkezik.
 
-(5)[^12] A (2) bekezdés a)–d) pontjában meghatározott csoportok esetén a fizikai alkalmasság vizsgálatára szolgáló mozgásformák a következők:
+(5)[^15] A (2) bekezdés a)–d) pontjában meghatározott csoportok esetén a fizikai alkalmasság vizsgálatára szolgáló mozgásformák a következők:
 
 a) mellső fekvőtámaszban karhajlítás-nyújtás,
 
@@ -34,9 +34,9 @@ f) hanyattfekvésből felülés,
 
 g) 2000 m futás.
 
-(6)[^13] A fizikai alkalmasság minősítése az (5) bekezdésben meghatározott mozgásformák közül négy – a kötelezően előírt 2000 m-es futás és a foglalkoztatott által az (5) bekezdés a)–f) pontjából választott három mozgásforma – kondicionális gyakorlat végrehajtásának eredménye alapján történik. Az egyes kondicionális gyakorlatokért legfeljebb 25 pont, a négy gyakorlat végrehajtása esetén összesen 100 pont adható, azzal, hogy egyes gyakorlatonként többletpont nem adható.
+(6)[^16] A fizikai alkalmasság minősítése az (5) bekezdésben meghatározott mozgásformák közül négy – a kötelezően előírt 2000 m-es futás és a foglalkoztatott által az (5) bekezdés a)–f) pontjából választott három mozgásforma – kondicionális gyakorlat végrehajtásának eredménye alapján történik. Az egyes kondicionális gyakorlatokért legfeljebb 25 pont, a négy gyakorlat végrehajtása esetén összesen 100 pont adható, azzal, hogy egyes gyakorlatonként többletpont nem adható.
 
-[^10]: A 17. § (2) bekezdése a 14/2015. (V. 4.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^11]: A 17. § (4) bekezdése a 14/2015. (V. 4.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^12]: A 17. § (5) bekezdése a 14/2015. (V. 4.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^13]: A 17. § (6) bekezdése a 14/2015. (V. 4.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^13]: A 17. § (2) bekezdése a 14/2015. (V. 4.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^14]: A 17. § (4) bekezdése a 14/2015. (V. 4.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^15]: A 17. § (5) bekezdése a 14/2015. (V. 4.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^16]: A 17. § (6) bekezdése a 14/2015. (V. 4.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
