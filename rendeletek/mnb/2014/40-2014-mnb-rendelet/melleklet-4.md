@@ -480,7 +480,7 @@
 
 ## aláírás/cégszerű aláírás
 
-4. melléklet a 40/2014. (X. 29.) MNB rendelethez[^6]
+4. melléklet a 40/2014. (X. 29.) MNB rendelethez[^8]
 
 A Bszt., Kbftv. és a Tpt. hatálya alá tartozó, a befektetési vállalkozást, az árutőzsdei szolgáltatót, az ÁÉKBV-alapkezelőt, az alternatív befektetési alapkezelőt (ABAK), a tőzsdét, az elszámolóházi, az értéktári tevékenységet végző szervezetet érintő, a rendelet 2. §-ában meghatározott engedélyezési, jóváhagyási és nyilvántartásba vételi kérelmek, valamint bejelentések formanyomtatványa
 
@@ -1310,4 +1310,18 @@ II. Kérelem
 
 2.2. befektetési tanácsadás,
 
-[^6]: A 4. melléklet a 28/2015. (VIII. 12.) MNB rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 12. §-a alapján a 2015. augusztus 20-át követően indult eljárásokban kell alkalmazni.
+2.3. kollektív befektetési értékpapírok letéti őrzése, letétkezelése, amely dematerializált értékpapírok esetében az értékpapírszámla vezetését is tartalmazza, valamint a végzett tevékenység jellegétől függően ügyfélszámla vezetését is magában foglalja, továbbá a kollektív befektetési értékpapírokkal kapcsolatos adminisztratív szolgáltatások.
+
+3. Kérem, hogy az MNB a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 6. §-ában meghatározott alábbi pénzügyi eszközök vonatkozásában engedélyezze a társaság részére a II. 2. pontban megjelölt portfóliókezelési, befektetési tanácsadási, letéti őrzési és letétkezelési tevékenységek végzését:
+
+3.1. az átruházható értékpapír,
+
+3.2. a pénzpiaci eszköz,
+
+3.3. a kollektív befektetési forma által kibocsátott értékpapír,
+
+3.4. az értékpapírhoz, devizához, kamatlábhoz vagy hozamhoz kapcsolódó opció, határidős ügylet, csereügylet, határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, eszköz, pénzügyi index vagy intézkedés, amely fizikai leszállítással teljesíthető vagy pénzben kiegyenlíthető,
+
+3.5. az áruhoz kapcsolódó opció, határidős ügylet, csereügylet, határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, eszköz, amelyet pénzben kell kiegyenlíteni vagy az ügyletben résztvevő felek valamelyikének választása szerint pénzben kiegyenlíthető, ide nem értve a teljesítési határidő lejártát vagy más megszűnési okot,
+
+[^8]: A 4. melléklet a 28/2015. (VIII. 12.) MNB rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 12. §-a alapján a 2015. augusztus 20-át követően indult eljárásokban kell alkalmazni.

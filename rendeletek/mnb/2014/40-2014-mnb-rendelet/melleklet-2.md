@@ -3678,6 +3678,6 @@
 
 ## aláírás/cégszerű aláírás
 
-2. melléklet a 40/2014. (X. 29.) MNB rendelethez[^4]
+2. melléklet a 40/2014. (X. 29.) MNB rendelethez[^6]
 
-[^4]: A 2. melléklet a 28/2015. (VIII. 12.) MNB rendelet 3. §-a szerint módosított szöveg. E módosító rendelet 12. §-a alapján a 2015. augusztus 20-át követően indult eljárásokban kell alkalmazni.
+[^6]: A 2. melléklet a 28/2015. (VIII. 12.) MNB rendelet 3. §-a szerint módosított szöveg. E módosító rendelet 12. §-a alapján a 2015. augusztus 20-át követően indult eljárásokban kell alkalmazni.
