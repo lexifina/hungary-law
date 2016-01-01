@@ -16,6 +16,6 @@ c) egy személy részére ugyanazon kifejtett teljesítményért, tevékenység�
 
 d) a teljesítményjuttatás megállapítására jogosult vezető önmagát teljesítményjuttatásban nem részesítheti.
 
-(3)–(4)[^9]
+(3)–(4)[^14]
 
-[^9]: A 81. § (3)–(4) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^14]: A 81. § (3)–(4) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte.
