@@ -4,7 +4,7 @@
 
 Melléklet a 154/2009. (VII. 23.) Korm. rendelethez[^2]
 
-Igénylőlap az állami készfizető kezesség beváltásához (a Kiemelt Adózók Adóigazgatósága részére küldendő)
+Igénylőlap az állami készfizető kezesség beváltásához (a Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága részére küldendő)
 
 1. A természetes személy adatai
 
@@ -62,4 +62,4 @@ Kelt:
 
 cégszerű aláírás
 
-[^2]: A melléklet a 366/2012. (XII. 17.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^2]: A melléklet a 366/2012. (XII. 17.) Korm. rendelet 37. §-a, a 486/2015. (XII. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.
