@@ -16,7 +16,7 @@ e) az iskola-egészségügyi ellátás részletes szakmai szabályait,
 
 f) a foglalkozás-egészségügyi alapellátás körében végezhető megelőző ellátásokat,
 
-g)
+g) a kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos, valamint a szakmai vezető védőnők választására, jogállására, feladataira, juttatásaira vonatkozó részletes szabályokat,
 
 h) az otthoni szakápolás és otthoni hospice ellátás részletes szakmai szabályait
 
