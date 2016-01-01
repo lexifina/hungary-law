@@ -2,7 +2,7 @@
 
 (2) A rendelet hatálya kiterjed
 
-a)[^1] Magyarország területén levő közutakra és a közforgalom elől el nem zárt magánutakra[^2] (e rendelet alkalmazásában a továbbiakban együtt: út),
+a)[^2] Magyarország területén levő közutakra és a közforgalom elől el nem zárt magánutakra[^3] (e rendelet alkalmazásában a továbbiakban együtt: út),
 
 b) az a) pontban felsorolt utak kezelőire, tulajdonosaira, valamint az úton munkát végzőkre.
 
@@ -12,5 +12,5 @@ b) az a) pontban felsorolt utak kezelőire, tulajdonosaira, valamint az úton mu
 
 (5) Az egyes elkorlátozó elemeket és eszközöket úgy kell elkészíteni, hogy azok alakja, mérete, színezése, jelképeinek alakja, belső méretének aránya, feliratainak betűi, számjegyei és írásjelei feleljenek meg az EFSZ szerinti követelményrendszernek.
 
-[^1]: Az 1. § (2) bekezdés a) pontja a 91/2011. (XII. 30.) NFM rendelet 11. §-a szerint módosított szöveg.
-[^2]: 1988. évi I. törvény.
+[^2]: Az 1. § (2) bekezdés a) pontja a 91/2011. (XII. 30.) NFM rendelet 11. §-a szerint módosított szöveg.
+[^3]: 1988. évi I. törvény.
