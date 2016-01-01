@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-424-20-
 | 2014-01-01 | 2012-424-20-22.2 | 538/2013. (XII. 30.) Korm. rendelet |
 | 2015-03-25 | 2012-424-20-22.3 | 59/2015. (III. 24.) Korm. rendelet |
 | 2015-07-01 | 2012-424-20-22.4 | 59/2015. (III. 24.) Korm. rendelet |
+| 2016-01-01 | 2012-424-20-22.5 | 538/2013. (XII. 30.) Korm. rendelet |

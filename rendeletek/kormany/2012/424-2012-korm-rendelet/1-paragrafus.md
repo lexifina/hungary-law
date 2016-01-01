@@ -4,7 +4,7 @@ a)[^2] a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultak
 
 b)[^3] a magánszemély természetes személyazonosító adatait (ideértve az előző nevet és a titulust is), nemét, állampolgárságát, adóazonosító jelét, társadalombiztosítási azonosító jelét,
 
-c)[^4] a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, a gyermekgondozási díj (a továbbiakban: gyed) és a gyermekgondozási segély (a továbbiakban: gyes) folyósítása melletti munkavégzés tényét, és azt az adatot, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességét,
+c)[^4] a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, a gyermekgondozási díj (a továbbiakban: gyed) és a gyermekgondozást segítő ellátás (a továbbiakban: gyes) folyósítása melletti munkavégzés tényét, és azt az adatot, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességét,
 
 d)[^5]
 
@@ -33,7 +33,7 @@ o) a felszolgálási díj után fizetett nyugdíjjárulék alapját és összeg�
 [^1]: Az 1. § nyitó szövegrésze az 59/2015. (III. 24.) Korm. rendelet 5. § a) pontja szerint módosítot szöveg.
 [^2]: Az 1. § a) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § b) pontja szerint módosítot szöveg.
 [^3]: Az 1. § b) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § c) pontja szerint módosítot szöveg.
-[^4]: Az 1. § c) pontja az 538/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított, az 59/2015. (III. 24.) Korm. rendelet 5. § d) pontja szerint módosítot szöveg.
+[^4]: Az 1. § c) pontja az 538/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított, az 59/2015. (III. 24.) Korm. rendelet 5. § d) pontja, a 417/2015. (XII. 23.) Korm. rendelet 44. §-a szerint módosítot szöveg.
 [^5]: Az 1. § d) pontját az 59/2015. (III. 24.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
 [^6]: Az 1. § e) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § e) pontja szerint módosítot szöveg.
 [^7]: Az 1. § f) pontját az 59/2015. (III. 24.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
