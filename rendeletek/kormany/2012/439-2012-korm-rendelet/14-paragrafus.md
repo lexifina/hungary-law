@@ -2,7 +2,7 @@
 
 ## 7. Az engedélyezésre vonatkozó közös szabályok
 
-14. § (1)[^44] Ha a hulladékgazdálkodási engedély vagy a minősítési engedély (a továbbiakban együtt: engedély) jogosultjának – a hulladékgazdálkodási tevékenységét nem érintő – adataiban az engedélyben meghatározottakhoz képest változás következik be, az engedély jogosultja a változást – annak bekövetkezésétől számított 15 napon belül – a környezetvédelmi hatóságnak bejelenti. A hulladékgazdálkodási tevékenységet érintő változást az engedély jogosultja előzetesen köteles bejelenteni. A bejelentés alapján a környezetvédelmi hatóság az engedélyt 30 napon belül módosítja.
+14. § (1)[^44] Ha a hulladékgazdálkodási engedély vagy a minősítési engedély (a továbbiakban együtt: engedély) jogosultjának – a hulladékgazdálkodási tevékenységét nem érintő – adataiban az engedélyben meghatározottakhoz képest változás következik be, az engedély jogosultja a változást – annak bekövetkezésétől számított 15 napon belül – a környezetvédelmi hatóságnak bejelenti. A hulladékgazdálkodási tevékenységet érintő változást az engedély jogosultja előzetesen köteles bejelenteni. A bejelentés alapján a környezetvédelmi hatóság az engedélyt módosítja.
 
 (2) Az engedély jogosultja a hulladékgazdálkodási tevékenység folytatásának megszüntetését, befejezését – a megszüntetést, befejezést megelőzően legalább 30 nappal – a környezetvédelmi hatóságnak bejelenti.
 
@@ -15,7 +15,7 @@
 (6)[^48] A környezetvédelmi hatóság a szakhatóság megkeresése során a kérelmet és mellékleteit kizárólag elektronikus úton bocsátja a szakhatóság rendelkezésére.
 
 [^43]: A 13. §-t a 368/2014. (XII. 30.) Korm. rendelet 3. § (4) bekezdése hatályon kívül helyezte.
-[^44]: A 14. § (1) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^44]: A 14. § (1) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 441/2015. (XII. 28.) Korm. rendelet 187. §-a szerint módosított szöveg.
 [^45]: A 14. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 12. § 24. pontja szerint módosított szöveg.
 [^46]: A 14. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 12. § 25. pontja szerint módosított szöveg.
 [^47]: A 14. § (5) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 12. § 26. pontja szerint módosított szöveg.
