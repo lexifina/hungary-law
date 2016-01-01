@@ -6,13 +6,13 @@
 
 (3) Az egyszerűsített nyilvántartásba vételi eljárást az NKE folytatja le, a nyilvántartásba vételről a KTK dönt.
 
-(4)[^29] A továbbképzési program akkor vehető nyilvántartásba, ha
+(4)[^30] A továbbképzési program akkor vehető nyilvántartásba, ha
 
 a) a nyilvántartásba vételt az arra jogosult intézmény kezdeményezi és
 
 b) a nyilvántartásba vételi kérelem megfelel a minőségirányítási szabályzat vonatkozó rendelkezéseinek.
 
-(5)[^30] Ha a belső továbbképzési program nyilvántartásba vételére irányuló eljárásban a KTK megállapítja, hogy a továbbképzési program nem felel meg a (4) bekezdésben foglaltaknak, a nyilvántartásba vételt elutasítja.
+(5)[^31] Ha a belső továbbképzési program nyilvántartásba vételére irányuló eljárásban a KTK megállapítja, hogy a továbbképzési program nem felel meg a (4) bekezdésben foglaltaknak, a nyilvántartásba vételt elutasítja.
 
 (6) Ha a belső továbbképzésnek minősülő továbbképzési program adataiban változás áll be, a kérelmező köteles az NKE részére 15 napon belül a változás bejelentésére.
 
@@ -20,5 +20,5 @@ b) a nyilvántartásba vételi kérelem megfelel a minőségirányítási szabá
 
 (8) Az egyszerűsített nyilvántartásba vételi eljárás esetén nem kerül sor minősítési eljárásra, a nyilvántartásba vételt kérelmező szervezetet nem terheli díjfizetési kötelezettség.
 
-[^29]: A 15. § (4) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^30]: A 15. § (5) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^30]: A 15. § (4) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^31]: A 15. § (5) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
