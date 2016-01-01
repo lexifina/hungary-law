@@ -14,7 +14,7 @@
 
 | 6. | ELMŰ-ÉMÁSZ Energiaszolgáltató Zrt. | 0,986 |
 
-4. melléklet a 4/2011. (I. 31.) NFM rendelethez[^16]
+4. melléklet a 4/2011. (I. 31.) NFM rendelethez[^20]
 
 ## Az egyetemes szolgáltatási ár képzésére vonatkozó általános szabályok
 
@@ -80,4 +80,4 @@ M: az egyetemes szolgáltatás 8. § (6) bekezdés szerinti (átlagos) kereskede
 
 D: a 8. § (9) bekezdése szerinti eltérésnek megfelelő összeg; Ft.
 
-[^16]: A 4. melléklet a 64/2013. (X. 30.) NFM rendelet 12. § d) pontja, a 37/2014. (VIII. 26.) NFM rendelet 3. §-a szerint módosított szöveg.
+[^20]: A 4. melléklet a 64/2013. (X. 30.) NFM rendelet 12. § d) pontja, a 37/2014. (VIII. 26.) NFM rendelet 3. §-a szerint módosított szöveg.

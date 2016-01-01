@@ -1,5 +1,5 @@
-## 8/A. §[^10] Az egyetemes szolgáltató által alkalmazandó díjak változása esetén az egyetemes szolgáltató köteles az új díjak megállapítását követő időszakra előzetesen kibocsátott számlákat az új díjak megállapítását követő 30 napon belül helyesbíteni az új díjak alkalmazásával.
+## 8/A. §[^14] Az egyetemes szolgáltató által alkalmazandó díjak változása esetén az egyetemes szolgáltató köteles az új díjak megállapítását követő időszakra előzetesen kibocsátott számlákat az új díjak megállapítását követő 30 napon belül helyesbíteni az új díjak alkalmazásával.
 
 ## 6. Záró rendelkezések
 
-[^10]: A 8/A. §-t az 1/2013. (I. 7.) NFM rendelet 1. §-a iktatta be.
+[^14]: A 8/A. §-t az 1/2013. (I. 7.) NFM rendelet 1. §-a iktatta be.

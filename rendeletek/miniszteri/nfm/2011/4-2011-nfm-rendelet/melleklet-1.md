@@ -1,4 +1,4 @@
-## 11. §[^13]
+## 11. §[^17]
 
 1. melléklet a 4/2011. (I. 31.) NFM rendelethez
 
@@ -20,4 +20,4 @@
 
 2. Nem munkanapnak számító napokon a csúcsidőszak is völgyidőszaknak minősül.
 
-[^13]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
