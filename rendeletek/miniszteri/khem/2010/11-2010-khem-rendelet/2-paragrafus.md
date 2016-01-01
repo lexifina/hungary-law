@@ -18,9 +18,9 @@ cd) közepes aktivitású radioaktív hulladék: az a radioaktív hulladék, ame
 
 d) nagy aktivitású radioaktív hulladék: az a radioaktív hulladék, amelynek hőtermelését a tárolás és elhelyezés tervezése és üzemeltetés során figyelembe kell venni;
 
-e) nem mentes használati cikk: a Korm. rendelet 3. § (1) bekezdés a)–d) pontjában felsorolt, de az ott meghatározott dóziskorlát túllépése miatt mentességet nem élvező, vagy a nem rendeltetésszerűen használt és ezáltal az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) hatálya alá tartozó radioaktív anyagot tartalmazó használati cikk;
+e)[^4] nem mentes fogyasztási cikk: a Korm. rendelet 3. § (1) bekezdés a)–d) pontjában felsorolt, de az ott meghatározott dóziskorlát túllépése miatt mentességet nem élvező, vagy a nem rendeltetésszerűen használt és ezáltal az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) hatálya alá tartozó radioaktív anyagot tartalmazó használati cikk;
 
-f) nagy aktivitású zárt sugárforrás: olyan radioaktív anyagot tartalmazó zárt sugárforrás, amelynek – a 10 napnál rövidebb felezési idejű származék nuklidok aktivitását is magában foglaló – aktivitása előállítása idején, vagy ha az nem ismert, első alkalommal való forgalomba hozatala idején a Cf-252 esetében nem kisebb, mint 0,5 GBq, egyéb nuklidok esetében nem kisebb, mint az ADR rendeletben megadott megfelelő A1 érték századrésze, és amely adott esetben a sugárforrás szerves részeként tartalmazza a radioaktív anyagot magában foglaló tokot is;
+f)[^5] nagy aktivitású zárt sugárforrás: olyan radioaktív anyagot tartalmazó zárt sugárforrás, amelynek – a 10 napnál rövidebb felezési idejű származék nuklidok aktivitását is magában foglaló – aktivitása előállítása idején, vagy ha az nem ismert, első alkalommal való forgalomba hozatala idején a Cf-252 esetében nem kisebb, mint 0,5 GBq, egyéb nuklidok esetében nem kisebb, mint az ADR rendeletben megadott megfelelő D érték, és amely adott esetben a sugárforrás szerves részeként tartalmazza a radioaktív anyagot magában foglaló tokot is;
 
 g) D aktivitás: a sugárforrások veszélyességének meghatározásához használt, izotóponként eltérő értékű normalizáló tényező;
 
@@ -30,4 +30,8 @@ i) forgalmazó: az, aki sugárforrást – ingyenesen vagy ellenérték fejében
 
 (2) E rendelet szerinti jogok és kötelezettségek a Magyar Honvédség bármely szervezeti egységének tulajdonában lévő radioaktív anyag tekintetében a Magyar Honvédséget illetik meg, illetve terhelik.
 
-(3) Az (1) bekezdésben nem szabályozott fogalmakat az Atv. 2. §-a, az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet 1. számú mellékletének II. fejezete, valamint a radioaktív hulladékok és a kiégett fűtőelemek országhatáron át történő szállításának engedélyezéséről szóló 34/2009. (II. 20.) Korm. rendelet 2. § 1. és 4. pontja szerint kell értelmezni.
+(3)[^6] Az (1) bekezdésben nem szabályozott fogalmakat az Atv. 2. §-a, az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet 4. §-a, valamint a radioaktív hulladékok és a kiégett fűtőelemek országhatáron át történő szállításának engedélyezéséről szóló 34/2009. (II. 20.) Korm. rendelet 2. § 1. és 4. pontja szerint kell értelmezni.
+
+[^4]: A 2. § (1) bekezdés e) pontja a 77/2015. (XII. 30.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés f) pontja a 77/2015. (XII. 30.) NFM rendelet 3. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdése a 77/2015. (XII. 30.) NFM rendelet 3. § c) pontja szerint módosított szöveg.

@@ -8,8 +8,10 @@
 
 a) minden naptári évben egyszer úgy, hogy a két leltárfelvétel között eltelt idő ne haladja meg a 12 hónapot;
 
-b) a Hivatal, vagy a Sugáregészségügyi Decentrum felszólítására;
+b)[^12] a Hivatal felszólítására;
 
 c) a tevékenység megszűnésekor a 7. § (11)–(12) bekezdése szerint.
 
 (2) A tulajdonos és a birtokos – a nyilvántartás felelőse útján – a leltározás eredményéről a felvételét követő 15 napon belül adatot szolgáltat a Hivatalnak, a központi nyilvántartás által támogatott elektronikus formában.
+
+[^12]: A 10. § (1) bekezdése 77/2015. (XII. 30.) NFM rendelet 4. § a) pontja szerint módosított szöveg.

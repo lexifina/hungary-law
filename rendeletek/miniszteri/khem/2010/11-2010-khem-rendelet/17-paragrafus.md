@@ -4,9 +4,7 @@
 
 17. § (1) Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
 
-(2) A Hivatal a nagy aktivitású zárt radioaktív sugárforrások és a gazdátlan sugárforrások ellenőrzéséről szóló, 2003. december 22-i 2003/122/Euratom tanácsi irányelv végrehajtásának tapasztalatairól 2010. december 31-ig jelentést tesz az Európai Bizottságnak. A jelentés elkészítésében a Sugáregészségügyi Decentrum és az OTH közreműködnek.
-
-(3) E rendelet hatálybalépésével egyidejűleg hatályát veszti a radioaktív anyagok központi és helyi nyilvántartásának rendjéről szóló 33/2004. (VI. 28.) BM rendelet.
+(2)–(3)[^18]
 
 (4) Ez a rendelet a nagy aktivitású zárt radioaktív sugárforrások és a gazdátlan sugárforrások ellenőrzéséről szóló, 2003. december 22-i 2003/122/Euratom tanácsi irányelv 2. cikk b), g), h), l), m) és n) pontjának, 4. cikkének, 5. cikk (1)–(4) bekezdésének, 6. cikk b) és d) pontjának, 7. cikk (1)–(2) bekezdésének, 13. cikk (1) bekezdésének, 14. cikkének, valamint 16. cikk (1) bekezdésének való megfelelést szolgálja.
 
@@ -769,3 +767,5 @@ Magyarázatok:
 – Amennyiben a radioaktív anyag egynél több radionuklidot tartalmaz, minden egyes radionuklid aktivitása és a hozzá tartozó D aktivitás hányadosaiból képzett összeg adja meg az adott anyag aktivitásának D-ben kifejezett értékét.
 
 – Pu-239/Be-9 és Am-241/Be-9 neutronforrások esetében az aktivitás alatt a Pu-239, illetve Am-241 alfa aktivitása értendő.
+
+[^18]: A 17. § (2)–(3) bekezdését 77/2015. (XII. 30.) NFM rendelet 4. § f) pontja hatályon kívül helyezte.

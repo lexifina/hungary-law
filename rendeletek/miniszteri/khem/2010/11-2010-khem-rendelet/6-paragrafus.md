@@ -6,6 +6,6 @@
 
 (3) A radioaktív anyagok nyilvántartásával kapcsolatos hatósági ellenőrzés műszaki feltételeinek megteremtésében (adatszolgáltatás fogadása, értékelése, gépi adatfeldolgozás) a Magyar Tudományos Akadémia Izotópkutató Intézet támogatást nyújt a Hivatal részére.
 
-(4)[^2]
+(4)[^8]
 
-[^2]: A 6. § (4) bekezdését a 38/2013. (VII. 12.) NFM rendelet 1. § a) pontja hatályon kívül helyezte.
+[^8]: A 6. § (4) bekezdését a 38/2013. (VII. 12.) NFM rendelet 1. § a) pontja hatályon kívül helyezte.

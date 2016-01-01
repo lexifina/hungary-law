@@ -1,5 +1,6 @@
-15. § (1) A Hivatal a Sugáregészségügyi Decentrummal történt egyeztetést követően, a leltározás eredményeként mutatkozó hiány vagy többlet esetében haladéktalanul értesíti az Országos Rendőr-főkapitányságot (a továbbiakban: ORFK), a polgári nemzetbiztonsági szolgálatokat és az Országos Sugáregészségügyi Készenléti Szolgálatot. Az e bekezdésben felsorolt szervek a bejelentés ügyében hozott – a Hivatal vagy a Sugáregészségügyi Decentrum hatáskörét érintő – intézkedéseikről tájékoztatják a Hivatalt, valamint a Sugáregészségügyi Decentrumot.
+15. § (1)[^14] A Hivatal a leltározás eredményeként mutatkozó hiány vagy többlet esetében haladéktalanul értesíti az Országos Rendőr-főkapitányságot (a továbbiakban: ORFK), a polgári nemzetbiztonsági szolgálatokat és az Országos Sugáregészségügyi Készenléti Szolgálatot. Az e bekezdésben felsorolt szervek a bejelentés ügyében hozott – a Hivatal hatáskörét érintő – intézkedéseikről tájékoztatják a Hivatalt.
 
-(2) Amennyiben a Hivatal a tulajdonosnál vagy a birtokosnál végzett helyszíni ellenőrzés során az engedélyekben foglaltak vagy a radioaktív anyagok nyilvántartásával kapcsolatos előírások megsértését észleli, erről haladéktalanul tájékoztatja az illetékes Sugáregészségügyi Decentrumot és az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalát (a továbbiakban: OTH). A Hivatal Sugáregészségügyi Decentrum számára javaslatot tehet az engedély visszavonására.
+(2)–(3)[^15]
 
-(3) A Sugáregészségügyi Decentrum kérésére, az inaktívvá nyilvánítást megelőzően a Hivatal a központi nyilvántartásban szereplő adatok alapján a központi nyilvántartásban szereplő bármely adatról rendszeres és rendkívüli adatszolgáltatást teljesít.
+[^14]: A 15. § (1) bekezdése a 77/2015. (XII. 30.) NFM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^15]: A 15. § (2)–(3) bekezdését 77/2015. (XII. 30.) NFM rendelet 4. § c) pontja hatályon kívül helyezte.
