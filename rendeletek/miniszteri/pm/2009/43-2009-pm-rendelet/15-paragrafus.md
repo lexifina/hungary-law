@@ -1,6 +1,5 @@
-15. § (1)[^42] A zárjegyeknek a zárjegyfelhasználó érdekkörébe nem tartozó okból bekövetkező használhatatlanná válását, megsemmisülését az eseményt követően a zárjegyfelhasználó köteles jegyzőkönyvben rögzíteni, a kivizsgálást megkezdeni és a hatósági felügyeletet ellátó vámszervhez azonnal bejelenteni.
+15. §[^44] (1) A zárjegyeknek a zárjegyfelhasználó érdekkörébe nem tartozó okból bekövetkező használhatatlanná válását, megsemmisülését az eseményt követően a zárjegyfelhasználó köteles jegyzőkönyvben rögzíteni, a kivizsgálást megkezdeni és a vámhatósághoz azonnal bejelenteni.
 
-(2)[^43] A hatósági felügyeletet ellátó vámszervnek készletfelvétellel, illetve a rendelkezésére álló adatokból kell megállapítania a csökkenésként figyelembe vehető mennyiséget, és azt az eseményről felvett jegyzőkönyvben kell rögzítenie.
+(2) A vámhatóság készletfelvétellel, illetve a rendelkezésére álló adatokból állapítja meg a csökkenésként figyelembe vehető mennyiséget, és azt az eseményről felvett jegyzőkönyvben rögzíti.
 
-[^42]: A 15. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (5) bekezdése szerint módosított szöveg.
-[^43]: A 15. § (2) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (5) bekezdése szerint módosított szöveg.
+[^44]: A 15. § a 41/2015. (XII. 30.) NGM rendelet 144. §-ával megállapított szöveg.

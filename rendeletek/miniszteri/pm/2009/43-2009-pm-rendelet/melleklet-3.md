@@ -28,4 +28,4 @@
 
 3. melléklet a 43/2009. (XII. 29.) PM rendelethez[^74]
 
-[^74]: A 3. melléklet az 52/2012. (XII. 29.) NGM rendelet 65. § (2) bekezdése szerint módosított szöveg.
+[^74]: A 3. melléklet az 52/2012. (XII. 29.) NGM rendelet 65. § (2) bekezdése, a 41/2015. (XII. 30.) NGM rendelet 150. §-a szerint módosított szöveg.

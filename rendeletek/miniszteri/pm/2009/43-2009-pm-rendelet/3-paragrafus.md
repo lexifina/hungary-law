@@ -6,8 +6,8 @@
 
 (4)[^9] Az eseti bejegyzett kereskedő és a jövedéki engedélyes kereskedő beszerzésenként, az importőr zárjegyfelhasználó importügyletenként nyújthatja be a zárjegy megrendelését.
 
-(5)[^10] A KAVIG, illetve a KAVIG alkalmazottja a megrendelés, illetve az ellenőrzés során megadott adatok kezelése tekintetében az adótitok szabályai szerint köteles eljárni.
+(5)[^10] A vámhatóság a megrendelés, illetve az ellenőrzés során megadott adatok kezelése tekintetében az adótitok szabályai szerint köteles eljárni.
 
 [^8]: A 3. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 54. §-ával megállapított szöveg.
 [^9]: A 3. § (4) bekezdése az 52/2012. (XII. 29.) NGM rendelet 54. §-ával megállapított szöveg.
-[^10]: A 3. § (5) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (1) bekezdése szerint módosított szöveg.
+[^10]: A 3. § (5) bekezdése a 41/2015. (XII. 30.) NGM rendelet 132. §-ával megállapított szöveg.

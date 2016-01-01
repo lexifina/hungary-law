@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-43-20-5
 | 2013-01-01 | 2009-43-20-53.7 | 52/2012. (XII. 29.) NGM rendelet |
 | 2014-07-01 | 2009-43-20-53.8 | 52/2012. (XII. 29.) NGM rendelet |
 | 2015-01-01 | 2009-43-20-53.9 | 45/2014. (XII. 30.) NGM rendelet |
+| 2016-01-01 | 2009-43-20-53.10 | 41/2015. (XII. 30.) NGM rendelet |

@@ -162,11 +162,11 @@
 
 | c) | a megsemmisítésről felvett vámhatósági jegyzőkönyv száma: |
 
-| 8. | KAVIG általi visszavétel |
+| 8. | vámhatóság általi visszavétel |
 
 | a) | visszavett zárjegy darabszáma: ............. és sorszáma (sorszámtartománya): |
 
-| b) | KAVIG visszavételt igazoló bizonylatának száma: |
+| b) | vámhatóság visszavételt igazoló bizonylatának száma: |
 
 | 9. | Gyártás közben megsérült, a 14. § (2) bekezdés szerinti elszámolásra nem kerülő zárjegyek darabszáma |
 

@@ -10,9 +10,9 @@ a) 0,5%, az 5000 db/óra kapacitás alatti csomagológéppel történő zárjegy
 
 b) 0,75%, az 5000 db/óra vagy annál nagyobb kapacitású csomagológéppel történő zárjegyfelhelyezés esetén.
 
-(5)[^40] Az alkoholtermék gyártása közben megsérült és összegyűjtött, a (2) bekezdésben meghatározott elszámolás esetén a felragasztott, sérült zárjegyeket, valamint azokat a sérülésmentes feleslegessé vált zárjegyeket, amelyek nem kerülnek a KAVIG-hoz visszaküldésre, a hatósági felügyeletet ellátó vámszerv a zárjegyfelhasználó jelenlétében megsemmisíti.
+(5)[^42] Az alkoholtermék gyártása közben megsérült és összegyűjtött, a (2) bekezdésben meghatározott elszámolás esetén a felragasztott, sérült zárjegyeket, valamint azokat a sérülésmentes feleslegessé vált zárjegyeket, amelyek nem kerülnek a vámhatósághoz visszaküldésre, a vámhatóság a zárjegyfelhasználó jelenlétében megsemmisíti.
 
-(6)[^41] A megsemmisítésről a hatósági felügyeletet ellátó vámszerv jegyzőkönyvet vesz fel, és annak 1 példányát közvetlenül a KAVIG-nak megküldi.
+(6)[^43]
 
-[^40]: A 14. § (5) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (3) és (5) bekezdése szerint módosított szöveg.
-[^41]: A 14. § (6) bekezdése a 17/2011. (IV. 19.) NGM rendelet 96. § (1) és (5) bekezdése szerint módosított szöveg.
+[^42]: A 14. § (5) bekezdése a 41/2015. (XII. 30.) NGM rendelet 143. §-ával megállapított szöveg.
+[^43]: A 14. § (6) bekezdését a 41/2015. (XII. 30.) NGM rendelet 151. § b) pontja hatályon kívül helyezte.
