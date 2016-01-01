@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-221-20-
 | 2014-09-05 | 2000-221-20-22.10 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2000-221-20-22.11 | 362/2014. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2000-221-20-22.12 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2016-01-01 | 2000-221-20-22.13 | 484/2015. (XII. 29.) Korm. rendelet |
