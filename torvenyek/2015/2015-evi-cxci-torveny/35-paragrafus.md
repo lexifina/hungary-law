@@ -1,0 +1,3 @@
+35. § Az Art. 109. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha az adóhatóság megállapítása szerint – kizárólag a Btk. XXXVI., XXXVIII., XXXIX., XL. és XLI. Fejezetében szabályozott bűncselekmény nyomozó hatóság részéről fennálló gyanúja esetén – az adózó vagyongyarapodásával vagy az életvitelére fordított kiadásokkal nincs arányban az adómentes, a bevallott és a bevallási kötelezettség alá nem eső, de megszerzett jövedelmének együttes összege, az adóhatóság az adó alapját is becsléssel állapítja meg. Ez esetben – figyelemmel az ismert és adóztatott jövedelmekre is – az adóhatóságnak azt kell megbecsülnie, hogy a vagyongyarapodás és az életvitel fedezetéül a magánszemélynek milyen összegű jövedelemre volt szüksége.”
