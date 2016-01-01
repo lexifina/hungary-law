@@ -4,7 +4,7 @@
 
 (2a)[^7] Az igazolvány kiadására irányuló eljárás ügyintézési határideje – ide nem értve az esetlegesen szükséges szakértői vagy szakhatósági állásfoglalás kialakításának idejét – 15 nap.
 
-(3)[^8] Ha a kérelem benyújtásakor az 1. számú melléklet szerinti szakvélemény, szakhatósági állásfoglalás nem áll rendelkezésre, a kérelemhez mellékelni kell a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat. Ebben az esetben a járási hivatal a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi a rehabilitációs szakértői szervet a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a Kr. szabályait kell alkalmazni.
+(3)[^8] Ha a kérelem benyújtásakor az 1. számú melléklet szerinti szakvélemény, szakhatósági állásfoglalás nem áll rendelkezésre, a kérelemhez mellékelni kell a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat. Ebben az esetben a járási hivatal a közlekedőképességet szakkérdésként vizsgálja. A közlekedőképesség vizsgálatára egyebekben a Kr. szabályait kell alkalmazni.
 
 (4)[^9] Az igazolvány kiadására irányuló kérelem a lakóhely vagy tartózkodási hely szerint illetékes települési önkormányzat jegyzőjénél is előterjeszthető, aki azt megvizsgálja, és az ügyfelet szükség esetén hiánypótlásra szólítja fel. Ezt követően a kérelmet haladéktalanul megküldi a jogosult lakóhelye szerint illetékes járási hivatalnak.
 
@@ -19,7 +19,7 @@
 [^5]: A 3. § (1) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^6]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A 3. § (2a) bekezdését a 20/2013. (I. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^8]: A 3. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 314. §-a hatályon kívül helyezte, újonnan a 61/2012. (III. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 95/2012. (V. 15.) Korm. rendelet 34. §-a, a 174/2012. (VII. 26.) Korm. rendelet 35. § (2) bekezdés a) pontja, a 70/2015. (III. 30.) Korm. rendelet 63. §-a szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 314. §-a hatályon kívül helyezte, újonnan a 61/2012. (III. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 50. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^9]: A 3. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 312. § (2) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^10]: A 3. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 314. §-a hatályon kívül helyezte, újonnan a 20/2013. (I. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^11]: A 3. § (6) bekezdése a 20/2013. (I. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
