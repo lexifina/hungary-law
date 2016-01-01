@@ -1,0 +1,1 @@
+68/A. § E törvénynek az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított 67. § (7) bekezdésében meghatározott tájékoztatást első alkalommal 2016. január 18-ig kell az Európai Bizottságnak megadni.

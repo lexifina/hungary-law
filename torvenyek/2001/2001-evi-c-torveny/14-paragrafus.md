@@ -8,7 +8,7 @@
 
 (4) A határozatban rendelkezni kell arról is, hogy a kérelmező milyen formában használhatja a külföldi felsőoktatási intézmény által adományozott címét. Ha a kérelmező címe összetéveszthető valamely hazai címmel, az eljáró hatóság előírja, hogy a külföldi cím csak az oklevelet kiállító intézmény vagy hatóság megnevezésével együtt használható.
 
-(5) Ha külföldi felsőoktatási intézmény Magyarországon rendszeres alapképzést, szakirányú vagy doktori képzést (önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében vagy más hasonló módon) folytat, akkor oklevelét akkor lehet elismerni, ha hazai működését az oktatásért felelős miniszter engedélyezte.
+(5) Ha külföldi felsőoktatási intézmény Magyarországon rendszeres alapképzést, mesterképzést, szakirányú vagy doktori képzést (önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében vagy más hasonló módon) folytat, akkor oklevelét akkor lehet elismerni, ha hazai működését az oktatási hivatal engedélyezte.
 
 (6) Ha külföldi felsőoktatási intézmény rendszeres alapképzést, szakirányú vagy doktori képzést (önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében vagy más hasonló módon) a székhelyétől eltérő államban folytat, oklevelét akkor lehet elismerni, ha a képzést mindkét államban elismerik.
 

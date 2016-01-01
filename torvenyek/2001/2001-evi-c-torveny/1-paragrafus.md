@@ -8,7 +8,7 @@
 
 ## A törvény hatálya
 
-1. § (1) E törvény hatálya a 4. § szerinti eljáró hatóságra, a 4/A. § szerinti információs szolgálatra, a 41. § szerinti előzetes ellenőrzést végző eljáró hatóságra, továbbá, állampolgárságra való tekintet nélkül, azon természetes személyekre terjed ki, akik külföldön vagy Magyarországon működő külföldi közoktatási vagy felsőoktatási intézményben, vagy képzést folytató más intézményben (a továbbiakban: külföldi oktatási intézményben) bizonyítványt vagy oklevelet szereztek.
+1. § (1) E törvény hatálya a 4. § szerinti eljáró hatóságra, a 4/A. § szerinti segítségnyújtó központra, a 41. § szerinti előzetes ellenőrzést végző eljáró hatóságra, továbbá, állampolgárságra való tekintet nélkül, azon természetes személyekre terjed ki, akik külföldön vagy Magyarországon működő külföldi közoktatási vagy felsőoktatási intézményben, vagy képzést folytató más intézményben (a továbbiakban: külföldi oktatási intézményben) bizonyítványt vagy oklevelet szereztek.
 
 (2) E törvényt kell alkalmazni valamely külföldi állam joga szerint kiállított bizonyítványnak és oklevélnek a Magyarországon megszerezhető bizonyítvánnyal és oklevéllel egyenértékűként történő elismerésére és honosítására, valamint a résztanulmányok beszámítására. E törvényt kell alkalmazni akkor is, ha az elismerés a szakmai gyakorlaton alapul.
 

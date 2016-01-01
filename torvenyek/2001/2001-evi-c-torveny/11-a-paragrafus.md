@@ -1,0 +1,1 @@
+11/A. § Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.

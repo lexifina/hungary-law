@@ -6,7 +6,7 @@
 
 (3) Ha a származási tagállam nem írja elő a szakmát gyakorolni szándékozó személynek a (2) bekezdés szerinti követelmény teljesítését, az eljáró hatóság elfogadja a származási tagállam illetékes hatósága által kiállított, a kérelmező egészségi állapotára vonatkozó, a Magyarországon előírt tartalmú igazolást.
 
-(4)
+(4) Ha valamely szabályozott szakmát Magyarországon csak büntetlen előéletű személy gyakorolhat, a kérelmező ezt a körülményt igazolja.
 
 (5) Ha valamely szabályozott szakmát Magyarországon csak megfelelő pénzügyi helyzet igazolása vagy megfelelő felelősségbiztosítással rendelkezés esetén lehet gyakorolni, az eljáró hatóság ennek igazolásaként elfogadja a más tagállam biztosítóintézetének vagy hitelintézetének az igazolását is, ha az – felelősségbiztosítás esetén a fedezett kockázatok, a kockázatok fedezésére meghatározott összeg vagy annak felső határa, illetve a kockázatviselés esetleges korlátai alapján – a célja és a tartalma tekintetében megfelel a magyar jogszabályok által előírtaknak.
 
@@ -23,3 +23,5 @@ a) a kihelyezett képzést folytató oktatási intézmény elismert oktatási in
 b) a kihelyezett képzést folytató oktatási intézmény ugyanolyan képzést nyújt-e valamely más tagállamban, mint amilyet ez az oktatási intézmény a származási tagállamban nyújt,
 
 c) a kihelyezett képzést folytató oktatási intézmény által kiállított, képzés sikeres elvégzését tanúsító okirat ugyanazokat a szakmai jogosultságokat ruházza-e át, mint amelyeket a teljes egészében a származási tagállam területén folytatott képzés sikeres elvégzéséről kiállított okirat révén szerzett volna a kérelmező.
+
+(10) Megalapozott kétség esetén az eljáró hatóság megkeresi a származási tagállam illetékes hatóságát annak tisztázása érdekében, hogy a kérelmezővel szemben a szakmagyakorlásával összefüggésben fegyelmi büntetést szabtak-e ki, hoztak-e rá nézve a büntetőjogi felelősségét megállapító jogerős ítéletet, vagy hogy tudomást szerezzen bármely egyéb olyan körülményről, amely az e törvény alapján gyakorolt tevékenységek tekintetében következményekkel járhat.

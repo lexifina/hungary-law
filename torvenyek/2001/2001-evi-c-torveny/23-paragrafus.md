@@ -1,4 +1,4 @@
-## Az európai közösségi jog hatálya alá tartozó elismerés különös eljárási szabályai
+## Az európai uniós jog hatálya alá tartozó elismerés különös eljárási szabályai
 
 23. § (1) Az eljárás megindítására irányuló, az eljáró hatósághoz benyújtandó kérelemhez a kérelmezőnek mellékelnie kell
 
@@ -18,4 +18,6 @@ b) a kutatási célú tartózkodási engedély másolatát,
 
 c) a bevándorlási engedély, illetve a letelepedett jogállást igazoló okmány másolatát.
 
-(3) Az eljáró hatóság előírhatja, hogy a kérelmező a szükséges mértékben szolgáltasson információt tanulmányairól azzal a céllal, hogy meg lehessen állapítani, van-e lényeges eltérés a kérelmező képzése és az előírt hazai képzés között. Amennyiben a kérelmező nem rendelkezik ezekkel az információkkal, az eljáró hatóság megkeresi a származási tagállam információs szolgálatát, illetékes hatóságát vagy más illetékes testületét.
+(3) Az eljáró hatóság előírhatja, hogy a kérelmező a szükséges mértékben szolgáltasson információt tanulmányairól azzal a céllal, hogy meg lehessen állapítani, van-e lényeges eltérés a kérelmező képzése és az előírt hazai képzés között. Amennyiben a kérelmező nem rendelkezik ezekkel az információkkal, az eljáró hatóság megkeresi a származási tagállam segítségnyújtó központját, illetékes hatóságát vagy más illetékes testületét.
+
+(4) E rész hatálya alá tartozó elismerési eljárásra irányuló kérelemnek minősül az európai szakmai kártya létrehozására irányuló kérelem is.

@@ -1,18 +1,24 @@
-67. § (1) Felhatalmazást kap a Kormány, hogy a külföldi bizonyítványok és oklevelek elismeréséért, valamint a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, valamint a 4/A. §-ban meghatározott információs szolgálatot vagy szolgálatokat rendeletben kijelölje, továbbá rendeletben állapítsa meg azon szabályozott szakmák körét, amelyek esetében Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve amelyek előzetes ellenőrzés alá esnek, valamint az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, valamint a bejelentéssel együtt benyújtandó iratok körét.
+67. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) jelölje ki a külföldi bizonyítványok és oklevelek elismeréséért, a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, a 4/A. §-ban meghatározott segítségnyújtó központot, a riasztási mechanizmusban közreműködő hatóságokat és az európai szakmai kártya létrehozásáért felelős hatóságokat, továbbá
+
+b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették.
 
 (2) Felhatalmazást kap az oktatásért felelős miniszter, hogy rendeletben hirdesse ki
 
-a) a végbizonyítvánnyal egyenértékű képzések felsorolását,
+a)
 
 b) azon hazai szakmai képesítések felsorolását, amelyek esetében az eljáró hatóság maga dönthet arról, hogy a kérelmezőnek alkalmassági vizsgát vagy alkalmazkodási időszakot kell-e teljesítenie,
 
-c) a közös követelményrendszer hatálya alá tartozó szakmák felsorolását,
+c) a közös képzési keret hatálya alá tartozó szakmák, valamint azon szakmák felsorolását, amelyek esetében közös alkalmassági vizsgát lehet tenni,
 
 d) a 34. §-ban, a 35. §-ban és a 36. §-ban meghatározott, a szakmai tapasztalat elismerésének szabályai alá tartozó egyes szakmai tevékenységek felsorolását,
 
-e)
+e) a közös képzési keret hatálya alá tartozó azon szakmák felsorolását, amelyek nem esnek a feltétel nélküli elismerésre irányuló eljárás hatálya alá,
 
-f) azon szervezetek felsorolását, amely tagjai által gyakorolt szakmák az európai közösségi jog alapján szabályozott szakmáknak minősülnek.
+f) azon szervezetek felsorolását, amely tagjai által gyakorolt szakmák az európai uniós jog alapján szabályozott szakmáknak minősülnek,
+
+g) azon szakmák felsorolását, amelyek esetében közös alkalmassági vizsgát lehet tenni, de nem tartoznak a feltétel nélküli elismerésre irányuló eljárás hatálya alá.
 
 (3) Felhatalmazást kap
 
@@ -22,7 +28,7 @@ b) az élelmiszerlánc-felügyeletért felelős miniszter, hogy rendeletben hird
 
 c) az építésügyért felelős miniszter, hogy rendeletben hirdesse ki az okleveles építészmérnöki oklevelek megnevezését, az előző okirat birtokosaival azonos jogállás alá tartozó személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait.
 
-(4)
+(4) A hatáskörébe tartozó szabályozott szakmák esetében felhatalmazást kap a miniszter, hogy meghatározza az elismerhető vagy figyelembe vehető szakmai gyakornoki időszak időtartamát és az elismerés vagy figyelembevétel feltételeit.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben meghatározza az 53/A. § (5) bekezdése szerinti nagyon mérgező termékek, illetve irtószerek körét.
 
@@ -34,4 +40,6 @@ b) kijelölje azt a hatóságot, amelynek feladatkörébe tartozik a Magyarorsz�
 
 c) megállapítsa a mérgező termékekkel kapcsolatos szakmai tevékenységek szakmai gyakorlaton alapuló elismerésének részletes eljárási szabályait.
 
-(7) Az oktatásért felelős miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak Interneten való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi az oktatásért felelős miniszternél a jegyzék módosítását.
+(7) Az oktatásért felelős miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak interneten való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi az oktatásért felelős miniszternél a jegyzék módosítását. A miniszter tájékoztatja az Európai Bizottságot a hatáskörébe tartozó szabályozott szakmákról, a szabályozott szakmákhoz tartozó szabályozott szakmai tevékenységekről, a szakma szabályozottságának indokairól, valamint az előzetes ellenőrzés alá tartozó szakmákról és ennek indokairól.
+
+(8) Az eljáró hatóság a honlapján közzéteszi és naprakészen tartja a határon átnyúló szolgáltatásnyújtó bejelentésére és előzetes ellenőrzésére, a szakmai képesítések elismerésére, a kérelemmel együtt benyújtandó okiratokra, a nyelvismeretre, az eljárás határidejére, az eljárás díjára, valamint a jogorvoslatra vonatkozó részletes tájékoztatását.

@@ -37,3 +37,5 @@ b) az eljáró hatóság által az eredeti okiratról készített másolat, tov�
 c) az a másolat, amely hitelesnek minősül valamely tagállam joga szerint.
 
 (9) A kérelmező a hazai bizonyítványról, oklevélről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállítására irányuló kérelmét írásbelinek nem minősülő elektronikus levél útján is benyújthatja.
+
+(10) A kérelmező a Harmadik rész hatálya alá tartozó kérelmét szabályozott elektronikus ügyintézési szolgáltatás igénybevételével is benyújthatja. Az eljáró hatóság azonban lehetővé teheti, hogy a kérelem szabályozott elektronikus ügyintézési szolgáltatás helyett elektronikus aláírással ellátott elektronikus levélben is benyújtható legyen.

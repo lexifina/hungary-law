@@ -8,6 +8,8 @@
 
 (4) A kérelmező valamely külföldi képzés sikeres elvégzését tanúsító okiratának hazai felsőoktatási intézményben foglalkoztatott oktató vagy tudományos kutató képesítésként történő, a Harmadik rész szerinti elismerése azon hazai felsőoktatási intézmény feladata, amely a külföldi képzés sikeres elvégzését tanúsító okirattal rendelkező kérelmezőt foglalkoztatni kívánja.
 
+(4a) A kérelmező külföldi oklevelének hazai felsőoktatási intézmény oktatói vagy tudományos kutatói munkakörének betöltése céljából a 14/A. § (2) bekezdése szerint hazai mesterfokozatként történő elismerése azon hazai felsőoktatási intézmény feladata, amely a külföldi oklevéllel rendelkező kérelmezőt foglalkoztatni kívánja.
+
 (5) A külföldi oklevelek által tanúsított tudományos fokozatnak az adott munkakör betöltése céljából, a III. fejezet rendelkezéseinek megfelelő alkalmazásával történő honosítása a Magyar Tudományos Akadémia feladata, amennyiben a külföldi tudományos fokozattal rendelkező személyt a Magyar Tudományos Akadémia irányítása alá tartozó, az adott szakterületen kutatást közfeladatként végző költségvetési szerv közalkalmazottként tudományos munkakörben kívánja foglalkoztatni.
 
 (6) A külföldi oklevelek által tanúsított hitéleti képzés szakképzettségének elismerése az olyan hazai vallási közösség által fenntartott felsőoktatási intézmény hatásköre, amely a megfelelő hazai oklevél kiállítására jogosult.

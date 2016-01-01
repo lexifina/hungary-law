@@ -1,6 +1,6 @@
 ## A szolgáltatás igénybe vevőjének tájékoztatása
 
-42. § Ha a szolgáltatásnyújtás a letelepedés szerinti tagállam szakmai címének vagy a képzés sikeres elvégzését tanúsító okirat által tanúsított címnek a használatával történik, a magyar és az európai közösségi jogban foglalt egyéb tájékoztatási követelmények teljesítésén kívül a szolgáltatásnyújtó a szolgáltatás igénybe vevőjét tájékoztatja a következő adatokról is:
+42. § Ha a szolgáltatásnyújtás a letelepedés szerinti tagállam szakmai címének vagy a képzés sikeres elvégzését tanúsító okirat által tanúsított címnek a használatával történik, a magyar és az európai uniós jogban foglalt egyéb tájékoztatási követelmények teljesítésén kívül a szolgáltatásnyújtó a szolgáltatás igénybe vevőjét tájékoztatja a következő adatokról is:
 
 a) ha a szolgáltatásnyújtó szerepel cégnyilvántartásban vagy hasonló nyilvános jegyzékben, annak a nyilvántartásnak a neve, amelybe bejegyezték, a bejegyzés száma vagy az adott nyilvántartásban szereplő azonosító,
 
