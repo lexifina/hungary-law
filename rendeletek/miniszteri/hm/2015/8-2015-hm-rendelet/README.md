@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-8-20-15
 | --- | --- | --- |
 | 2015-07-01 | 2015-8-20-15.1 | 8/2015. (VI. 29.) HM rendelet |
 | 2015-07-02 | 2015-8-20-15.2 | 2010: CXXX. törvény |
+| 2016-01-01 | 2015-8-20-15.3 | 2010: CXXX. törvény |
