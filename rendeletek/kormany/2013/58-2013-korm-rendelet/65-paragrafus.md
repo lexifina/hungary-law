@@ -1,6 +1,6 @@
 ## 23. Elszámolás, számlázás és díjfizetés
 
-65. §[^125] (1) A víziközmű-szolgáltató a szolgáltatási díjról felhasználási helyenként a leolvasott fogyasztási adatok szerint legalább évente egy alkalommal elszámoló számlát bocsát ki.
+65. §[^127] (1) A víziközmű-szolgáltató a szolgáltatási díjról felhasználási helyenként a leolvasott fogyasztási adatok szerint legalább évente egy alkalommal elszámoló számlát bocsát ki.
 
 (2) A víziközmű-szolgáltató az évi egy elszámoló számla mellett évi legalább 3, de legfeljebb 11 részszámlát bocsát ki.
 
@@ -26,4 +26,4 @@
 
 (13) Bekötési vízmérővel nem rendelkező felhasználási helyen az átalánydíjas elszámolásra irányadó ivóvíz mennyiséget a 8. melléklet tartalmazza. A víziközmű-szolgáltató indokolni köteles, ha az ott meghatározott mennyiségeknél többet tekint az elszámolás alapjának. Lakossági felhasználó kizárólagos használatában álló nyaralók, üdülők, esetében az 8. mellékletben található táblázat 1–2. sorában megállapított átalánymennyiségek alapján évente legalább 5 hónap időtartamra (május-szeptember hónapokra) kell a víziközmű-szolgáltatás díját felszámítani.
 
-[^125]: A 65. § a 367/2015. (XII. 2.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^127]: A 65. § a 367/2015. (XII. 2.) Korm. rendelet 14. §-ával megállapított szöveg.

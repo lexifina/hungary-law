@@ -1,20 +1,20 @@
 ## 17. A víziközmű-szolgáltató és a felhasználó közötti jogviszony szabályai
 
-57. § (1)[^87] A víziközmű-szolgáltató szolgáltatási kötelezettsége a közműves ivóvízellátás esetében a szolgáltatási pontig, közműves szennyvízelvezetés és -tisztítás esetében a szolgáltatási ponttól a tisztítottszennyvíz-befogadóba, illetve az átvevő rendszerébe történő bevezetéséig áll fenn. A víziközmű-szolgáltató felel azért, hogy a szolgáltatott ivóvíz minősége az ivóvízvételi helyen biztosított legyen.
+57. § (1)[^89] A víziközmű-szolgáltató szolgáltatási kötelezettsége a közműves ivóvízellátás esetében a szolgáltatási pontig, közműves szennyvízelvezetés és -tisztítás esetében a szolgáltatási ponttól a tisztítottszennyvíz-befogadóba, illetve az átvevő rendszerébe történő bevezetéséig áll fenn. A víziközmű-szolgáltató felel azért, hogy a szolgáltatott ivóvíz minősége az ivóvízvételi helyen biztosított legyen.
 
-(1a)[^88] Nem állapítható meg a víziközmű-szolgáltatónak a szolgáltatás minőségéért való felelőssége akkor, ha a szolgáltatási ponton az ivóvíz minősége megfelel a jogszabályi előírásoknak, és az ivóvízvételi helyen tapasztalt minőségromlás a házi ivóvízhálózat vagy a csatlakozó ivóvízhálózat nem megfelelő állapota vagy anyaga miatt következik be, és ezt az illetékes népegészségügyi szerv vizsgálata hivatalból vagy a víziközmű-szolgáltató kérelmére megállapította.
+(1a)[^90] Nem állapítható meg a víziközmű-szolgáltatónak a szolgáltatás minőségéért való felelőssége akkor, ha a szolgáltatási ponton az ivóvíz minősége megfelel a jogszabályi előírásoknak, és az ivóvízvételi helyen tapasztalt minőségromlás a házi ivóvízhálózat vagy a csatlakozó ivóvízhálózat nem megfelelő állapota vagy anyaga miatt következik be, és ezt az illetékes népegészségügyi szerv vizsgálata hivatalból vagy a víziközmű-szolgáltató kérelmére megállapította.
 
-(2)[^89]
+(2)[^91]
 
-(3)[^90] A felhasználó a tulajdonában lévő házi ivóvíz- és szennyvízhálózatot, illetve a csatlakozó hálózat műszaki állapotát rendszeresen ellenőrzi és az észlelt hibák kijavításáról haladéktalanul gondoskodik.
+(3)[^92] A felhasználó a tulajdonában lévő házi ivóvíz- és szennyvízhálózatot, illetve a csatlakozó hálózat műszaki állapotát rendszeresen ellenőrzi és az észlelt hibák kijavításáról haladéktalanul gondoskodik.
 
-(4)[^91]
+(4)[^93]
 
-(5)[^92] A víziközmű-szolgáltató a csatlakozó ivóvízhálózat, a házi ivóvízhálózat és a házi szennyvízhálózat rendszeres ellenőrzésének és karbantartásának részletes szabályait üzletszabályzatában rögzíti.
+(5)[^94] A víziközmű-szolgáltató a csatlakozó ivóvízhálózat, a házi ivóvízhálózat és a házi szennyvízhálózat rendszeres ellenőrzésének és karbantartásának részletes szabályait üzletszabályzatában rögzíti.
 
-[^87]: Az 57. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^88]: Az 57. § (1a) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^89]: Az 57. § (2) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 6. pontja hatályon kívül helyezte.
-[^90]: Az 57. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^91]: Az 57. § (4) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 6. pontja hatályon kívül helyezte.
-[^92]: Az 57. § (5) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 19. pontja szerint módosított szöveg.
+[^89]: Az 57. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^90]: Az 57. § (1a) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^91]: Az 57. § (2) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^92]: Az 57. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^93]: Az 57. § (4) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^94]: Az 57. § (5) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 19. pontja szerint módosított szöveg.

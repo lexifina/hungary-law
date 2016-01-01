@@ -1,4 +1,4 @@
-## 48. §[^64]
+## 48. §[^66]
 
 ## 49. § A Vksztv. 45. § (4) bekezdésében foglalt tevékenységeken túlmenően a Hivatal előzetes engedélye szükséges az ellátási területre vonatkozó, víziközmű-üzemeltetés alábbi tevékenységeinek részben vagy egészben történő kiszervezéséhez:
 
@@ -24,4 +24,4 @@
 
 11. üzemirányítás informatikai megoldásokkal történő ellátása.
 
-[^64]: A 48. §-t a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^66]: A 48. §-t a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 3. pontja hatályon kívül helyezte.

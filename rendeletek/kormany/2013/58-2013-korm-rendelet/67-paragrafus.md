@@ -1,6 +1,6 @@
 ## 25. Elszámolás meghibásodás, hibás mérés és mérési eredmények hiánya esetén
 
-67. §[^131] (1) Ha a fogyasztásmérő rendellenesen működik, nem mér, nem lehet leolvasni vagy a hitelesítés ideje lejárt (a továbbiakban együtt: hibás mérés) a mérőeszköz adatai a számlázás alapjául nem szolgálhatnak.
+67. §[^133] (1) Ha a fogyasztásmérő rendellenesen működik, nem mér, nem lehet leolvasni vagy a hitelesítés ideje lejárt (a továbbiakban együtt: hibás mérés) a mérőeszköz adatai a számlázás alapjául nem szolgálhatnak.
 
 (2) A hibás mérés időtartama:
 
@@ -34,4 +34,4 @@ b) a felhasználó észlelte, köteles a víziközmű-szolgáltatónak az aktuá
 
 (12) A felek a vizsgálat lezárását követő 15 napon belül kötelesek egymással elszámolni.
 
-[^131]: A 67. § a 367/2015. (XII. 2.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^133]: A 67. § a 367/2015. (XII. 2.) Korm. rendelet 16. §-ával megállapított szöveg.

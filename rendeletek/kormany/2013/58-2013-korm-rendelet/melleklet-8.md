@@ -132,6 +132,6 @@
 
 ## 8. E rendeletben meghatározott más követelmények.
 
-8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^233]
+8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^236]
 
-[^233]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.
+[^236]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.

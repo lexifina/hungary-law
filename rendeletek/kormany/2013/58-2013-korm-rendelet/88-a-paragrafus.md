@@ -1,4 +1,4 @@
-## VI/A. Fejezet[^195]
+## VI/A. Fejezet[^197]
 
 ## A VÉDENDŐ FELHASZNÁLÓKRA VONATKOZÓ SZABÁLYOK
 
@@ -8,4 +8,4 @@
 
 (3) A víziközmű-szolgáltató által nyújtott kedvezményért és különleges bánásmódért ellenérték kikötése semmis.
 
-[^195]: A VI/A. fejezetet (88/A–88/E. §) a 292/2014. (XI. 26.) Korm. rendelet 29. §-a iktatta be.
+[^197]: A VI/A. fejezetet (88/A–88/E. §) a 292/2014. (XI. 26.) Korm. rendelet 29. §-a iktatta be.

@@ -90,7 +90,7 @@
 
 ## b) a megépülő vagyontárgyak (vízilétesítmények) tulajdonjogára, az állami tulajdonba, illetve önkormányzati törzsvagyonba történő átadás-átvételre vonatkozó szándéknyilatkozatokat.
 
-2. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^228]
+2. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^230]
 
 ## A működési engedélykérelem formanyomtatványa és mellékletei
 
@@ -218,7 +218,7 @@ e) a víziközmű-rendszer üzemeltetését és az ellátás minőségének jav�
 
 18. számviteli politikát, amely tartalmazza azt a számviteli szétválasztási szabályzatot, ami biztosítja a víziközmű-szolgáltató üzletágai közötti keresztfinanszírozás-mentességet, továbbá a másodlagos tevékenységek elkülönített nyilvántartását,
 
-19. a Nemzeti Akkreditáló Testület által általános kémiai és részletes bakteriológiai vizsgálatok elvégzésére akkreditált laboratóriummal rendelkező víziközmű-szolgáltató esetében az akkreditációs okirat másolatát vagy ilyen laboratóriummal kötött szerződés bemutatását,
+19.[^231] az akkreditáló szerv által általános kémiai és részletes bakteriológiai vizsgálatok elvégzésére akkreditált laboratóriummal rendelkező víziközmű-szolgáltató esetében az akkreditálási okirat másolatát vagy ilyen laboratóriummal kötött szerződés bemutatását,
 
 20. a feladatellátás egyes résztevékenységeihez szükséges műszaki eszközök rendelkezésére állását, azok avultságát jellemző paramétereket,
 
@@ -236,4 +236,5 @@ e) a víziközmű-rendszer üzemeltetését és az ellátás minőségének jav�
 
 27. a megfelelő létszámú és szakképzettségű személyzet rendelkezésre állásának bemutatását.
 
-[^228]: A 2. melléklet a 367/2015. (XII. 2.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^230]: A 2. melléklet a 367/2015. (XII. 2.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^231]: A 2. melléklet 19. pontja a 425/2015. (XII. 23.) Korm. rendelet 7. §-a szerint módosított szöveg.

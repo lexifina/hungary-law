@@ -2,11 +2,11 @@
 
 ## A VÍZIKÖZMŰ-FEJLESZTÉSI HOZZÁJÁRULÁS ALKALMAZÁSÁNAK SZABÁLYAI
 
-90. § (1)–(2)[^204]
+90. § (1)–(2)[^206]
 
 (3) A hozzájárulás mértéke az igényelt víziközmű-szolgáltatáshoz szükséges fejlesztés költségeinek arányos része.
 
-(4)[^205]
+(4)[^207]
 
 (5) A víziközmű-fejlesztési hozzájárulás befizetését követően a víziközmű-szolgáltató megállapítja a szolgáltatási kapacitást (kvótát vagy kontingenst), amely alapján, és amelynek mértékéig a felhasználó jogosulttá válik a szolgáltatás igénybevételére.
 
@@ -24,5 +24,5 @@ d) a befizetett víziközmű-fejlesztési hozzájárulás összege.
 
 (8) A víziközmű-szolgáltatónak olyan nyilvántartást kell vezetnie, amelyből egyértelműen megállapítható, hogy adott évben mely víziközmű-fejlesztésekre használt fel befizetett víziközmű-fejlesztési hozzájárulást az összeg megjelölésével.
 
-[^204]: A 90. § (1)–(2) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 6. pontja hatályon kívül helyezte.
-[^205]: A 90. § (4) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^206]: A 90. § (1)–(2) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^207]: A 90. § (4) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 6. pontja hatályon kívül helyezte.

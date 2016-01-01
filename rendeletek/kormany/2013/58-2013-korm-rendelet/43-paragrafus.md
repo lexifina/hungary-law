@@ -18,7 +18,7 @@
 
 7. annak leírását, hogy a kiszervezés hogyan fog hatni a víziközmű-szolgáltatás minőségére, az ellátás biztonságára,
 
-8.[^60] a meglévő és a tevékenység ellátásához szükséges többlet saját kapacitásokra és a kiszervezésre alapozott megoldásoknak a víziközmű-szolgáltató gazdálkodására gyakorolt hatásai várható részletes, költségnemekre bontott összehasonlító elemzését, valamint megtérülési számításokat,
+8.[^62] a meglévő és a tevékenység ellátásához szükséges többlet saját kapacitásokra és a kiszervezésre alapozott megoldásoknak a víziközmű-szolgáltató gazdálkodására gyakorolt hatásai várható részletes, költségnemekre bontott összehasonlító elemzését, valamint megtérülési számításokat,
 
 9. arra vonatkozó kalkulációt, hogy a kiszervezés eredményeként hogyan csökken a díjakban megképzett költségfedezeti igény,
 
@@ -26,12 +26,12 @@
 
 11. annak leírását, hogy a kiszervezés mely személyi, tárgyi, szervezeti kapacitások leépítésével jár együtt,
 
-12.[^61] annak leírását, hogy a kérelmezett engedélyezési idő lejártát követően a saját szervezeten belüli feladatellátás milyen beruházások mellett, mennyi idő alatt lenne megoldható,
+12.[^63] annak leírását, hogy a kérelmezett engedélyezési idő lejártát követően a saját szervezeten belüli feladatellátás milyen beruházások mellett, mennyi idő alatt lenne megoldható,
 
 13. annak bemutatását, hogy a kérelemben foglalt kiszervezni kívánt tevékenység, és a már kiszervezett tevékenységek szerződései várhatóan meg fognak felelni a Vksztv. 45. § (2) bekezdésében foglalt követelménynek,
 
-14.[^62] annak megjelölését, hogy az engedély hatálybalépését követően mely időponttól kívánja a kérelmező kiszervezésben ellátni a tevékenységet.
+14.[^64] annak megjelölését, hogy az engedély hatálybalépését követően mely időponttól kívánja a kérelmező kiszervezésben ellátni a tevékenységet.
 
-[^60]: A 43. § (2) bekezdés 8. pontja a 367/2015. (XII. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^61]: A 43. § (2) bekezdés 12. pontja a 367/2015. (XII. 2.) Korm. rendelet 27. § 6. pontja szerint módosított szöveg.
-[^62]: A 43. § (2) bekezdés 14. pontja a 367/2015. (XII. 2.) Korm. rendelet 27. § 7. pontja szerint módosított szöveg.
+[^62]: A 43. § (2) bekezdés 8. pontja a 367/2015. (XII. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^63]: A 43. § (2) bekezdés 12. pontja a 367/2015. (XII. 2.) Korm. rendelet 27. § 6. pontja szerint módosított szöveg.
+[^64]: A 43. § (2) bekezdés 14. pontja a 367/2015. (XII. 2.) Korm. rendelet 27. § 7. pontja szerint módosított szöveg.

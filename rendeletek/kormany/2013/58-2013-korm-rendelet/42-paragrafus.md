@@ -1,6 +1,6 @@
 ## 41. § A Hivatal a Vksztv. 42. § (1) és (2) bekezdéseiben meghatározott hozzájárulását határozatba foglalja.
 
-42. § (1) A 41. §-ban meghatározott hozzájárulás során az ügyintézési határidő 30 nap.
+42. § (1)[^60]
 
 (2) A 41. § szerinti hozzájárulás kiadása iránti kérelemnek tartalmaznia kell:
 
@@ -12,4 +12,7 @@ c) a cégjogi esemény alapjául szolgáló döntést,
 
 d) a cégjogi eseményt alátámasztó írásbeli indokolást.
 
-(3) Ha a kérelmező a (2) bekezdésben meghatározott kérelmet hiányosan nyújtotta be, a Hivatal a kérelmezőt egy alkalommal, a kérelem beérkezésétől számított 15 napon belül hiánypótlásra hívja fel.
+(3)[^61]
+
+[^60]: A 42. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 193. §-a hatályon kívül helyezte.
+[^61]: A 42. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 193. §-a hatályon kívül helyezte.

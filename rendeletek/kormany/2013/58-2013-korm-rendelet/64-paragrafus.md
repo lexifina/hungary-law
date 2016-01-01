@@ -1,6 +1,6 @@
 ## 22. Fogyasztásmérők hitelesítése, kalibrálása és cseréje
 
-64. §[^123] (1) A mérésügyi hatóság által hitelesített fogyasztásmérő beépítéséről, cseréjéről, időszakos hitelesítéséről, kalibrálásáról a mérőeszköz tulajdonosa saját költségén köteles gondoskodni.
+64. §[^125] (1) A mérésügyi hatóság által hitelesített fogyasztásmérő beépítéséről, cseréjéről, időszakos hitelesítéséről, kalibrálásáról a mérőeszköz tulajdonosa saját költségén köteles gondoskodni.
 
 (2) Az üzemeltetési szerződés a bekötési vízmérő tekintetében az (1) bekezdésben meghatározott feladat ellátásáról eltérően rendelkezhet.
 
@@ -34,4 +34,4 @@ e) a felhasználó vagy a képviselője, illetve a víziközmű-szolgáltató k�
 
 (12) A mellékvízmérők cseréje vagy újrahitelesítése alkalmával a víziközmű-szolgáltató által felszámítható díjtételeket a víziközmű-szolgáltató üzletszabályzata tartalmazza.
 
-[^123]: A 64. § a 367/2015. (XII. 2.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^125]: A 64. § a 367/2015. (XII. 2.) Korm. rendelet 13. §-ával megállapított szöveg.
