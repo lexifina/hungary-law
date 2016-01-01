@@ -1,5 +1,3 @@
-## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a partvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, országos vízügyi hatóságot szakhatóságként jelöli ki.
-
 31. § (1) A Kormány honvédelmi rendeltetésű erdő esetén
 
 a) az erdőterv megállapítási és módosítási másodfokú eljárásban,
@@ -16,9 +14,12 @@ f) az elsődleges rendeltetés megváltoztatására vonatkozó másodfokú eljá
 
 ## – annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e – a honvédelemért felelős minisztert szakhatóságként jelöli ki.
 
-(2)[^92] A Kormány az erdőterületen található védett növénytársulásokkal kapcsolatos másodfokú erdészeti hatósági eljárásban – a védett és fokozottan védett életközösségekre vonatkozó korlátozásokról és tilalmakról szóló jogszabályban foglalt előírásoknak való megfelelés kérdésében – az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+(1a)[^95] Amennyiben az erdőterv megállapítása honvédelmi rendeltetésű erdő esetén az Evt. alapján készített körzeti erdőtervben meghatározott, vagy a körzeti erdőtervezést követően kizárólag az Evt. 40. § (2) bekezdésében foglaltak szerint módosított erdőgazdálkodási jogok és kötelezettségek alapján, hivatalból történik, akkor a szakhatóság (1) bekezdés szerinti bevonása mellőzhető.
 
-(3)[^93] A Kormány – a növényi, állati vagy fertőzést okozó egyéb szervezetek országos jelentőségű védett természeti területen található erdőterületen történő tömeges elszaporodása esetén – az erdőgazdálkodó szükséges védekezés elvégzésére kötelezése iránti másodfokú eljárásban – annak elbírálása kérdésében, hogy az elvégeztetni kívánt védekezés a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki. A szakhatóság az állásfoglalását – az eljáró hatóság kérésére – haladéktalanul, de legkésőbb egy munkanapon belül adja meg.
+(2)[^96] A Kormány az erdőterületen található védett növénytársulásokkal kapcsolatos másodfokú erdészeti hatósági eljárásban – a védett és fokozottan védett életközösségekre vonatkozó korlátozásokról és tilalmakról szóló jogszabályban foglalt előírásoknak való megfelelés kérdésében – az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-[^92]: A 31. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^93]: A 31. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+(3)[^97] A Kormány – a növényi, állati vagy fertőzést okozó egyéb szervezetek országos jelentőségű védett természeti területen található erdőterületen történő tömeges elszaporodása esetén – az erdőgazdálkodó szükséges védekezés elvégzésére kötelezése iránti másodfokú eljárásban – annak elbírálása kérdésében, hogy az elvégeztetni kívánt védekezés a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki. A szakhatóság az állásfoglalását – az eljáró hatóság kérésére – haladéktalanul, de legkésőbb egy munkanapon belül adja meg.
+
+[^95]: A 31. § (1a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 169. § (4) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^96]: A 31. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^97]: A 31. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
