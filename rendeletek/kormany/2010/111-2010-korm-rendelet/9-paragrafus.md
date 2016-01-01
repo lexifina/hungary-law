@@ -1,6 +1,6 @@
 ## 4. Törlés a nyilvántartásból
 
-9. §[^36] (1) A vizsgaszervező intézmény székhelye szerint illetékes kormányhivatal törli a nyilvántartásba vett intézményt a nyilvántartásból, továbbá – a b) pont kivételével – az engedélyét visszavonja, ha az intézmény
+9. §[^37] (1) A vizsgaszervező intézmény székhelye szerint illetékes kormányhivatal törli a nyilvántartásba vett intézményt a nyilvántartásból, továbbá – a b) pont kivételével – az engedélyét visszavonja, ha az intézmény
 
 a) azt kéri,
 
@@ -16,4 +16,4 @@ b) felnőttképzési tevékenység folytatására jogosító engedélye az adott
 
 (3) A vizsgaszervező intézmény székhelye szerint illetékes kormányhivatal az engedély visszavonásáról tizenöt napon belül írásban tájékoztatja az állami szakképzési és felnőttképzési szervet.
 
-[^36]: A 9. § a 136/2014. (IV. 24.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^37]: A 9. § a 136/2014. (IV. 24.) Korm. rendelet 8. §-ával megállapított szöveg.

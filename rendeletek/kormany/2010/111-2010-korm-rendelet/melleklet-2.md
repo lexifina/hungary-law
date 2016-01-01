@@ -40,6 +40,6 @@
 
 ## 2.2.4.1. a komplex szakmai vizsgáztatás szabályairól szóló kormányrendeletben meghatározott lebonyolítási rend szerint a szóbeli vizsgatevékenységre meghatározott vizsgamenet jogszerű, szakszerű és zavartalan lebonyolítását biztosító vizsgaterem.
 
-2. melléklet a 111/2010. (IV. 9.) Korm. rendelethez[^50]
+2. melléklet a 111/2010. (IV. 9.) Korm. rendelethez[^51]
 
-[^50]: A 2. mellékletet a 16. § (2) bekezdése hatályon kívül helyezte.
+[^51]: A 2. mellékletet a 16. § (2) bekezdése hatályon kívül helyezte.

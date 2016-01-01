@@ -36,11 +36,11 @@ f) nem saját tulajdonú tárgyi eszközök esetén annak okirattal történő b
 
 g)[^7] a kérelmező intézmény arra vonatkozó nyilatkozatát, hogy az OKJ szerinti szakmacsoportonkénti bontásban mely tervezési statisztikai régiókban kíván szakmai vizsgát szervezni;
 
-h) ha a kérelmező intézmény nem szerepel a köztartozásmentes adózói adatbázisban, a köztartozás-mentességét igazoló 30 napnál nem régebbi közokiratot.
+h)[^8]
 
-(3)[^8] Az (1) bekezdés e) pontjában meghatározott szakképesítés esetén a kérelemben nem kell megjelölni azt a részszakképesítést, amely esetén a kérelmező a részszakképesítés szakmai és vizsgakövetelményében meghatározott kapcsolódó szakképesítés tekintetében is engedélyt kíván szerezni. A szakképesítés tekintetében kiadott engedély a szakképesítés szakmai és vizsgakövetelményében kapcsolódó részszakképesítésként megjelölt részszakképesítésre is kiterjed.
+(3)[^9] Az (1) bekezdés e) pontjában meghatározott szakképesítés esetén a kérelemben nem kell megjelölni azt a részszakképesítést, amely esetén a kérelmező a részszakképesítés szakmai és vizsgakövetelményében meghatározott kapcsolódó szakképesítés tekintetében is engedélyt kíván szerezni. A szakképesítés tekintetében kiadott engedély a szakképesítés szakmai és vizsgakövetelményében kapcsolódó részszakképesítésként megjelölt részszakképesítésre is kiterjed.
 
-(4)[^9] A kérelmező intézmény az engedély kiadása iránti kérelmet a székhelye szerint illetékes, fővárosi és megyei kormányhivatalhoz (a továbbiakban: kormányhivatal) nyújtja be.
+(4)[^10] A kérelmező intézmény az engedély kiadása iránti kérelmet a székhelye szerint illetékes, fővárosi és megyei kormányhivatalhoz (a továbbiakban: kormányhivatal) nyújtja be.
 
 [^2]: A 2. § a 11. § (2) bekezdése alapján 2010. május 25. napján lép hatályba.
 [^3]: A 2. § (1) bekezdés nyitó szövegrésze a 136/2014. (IV. 24.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
@@ -48,5 +48,6 @@ h) ha a kérelmező intézmény nem szerepel a köztartozásmentes adózói adat
 [^5]: A 2. § (1) bekezdés e) pontja a 136/2014. (IV. 24.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (2) bekezdés c) pontja a 136/2014. (IV. 24.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés g) pontja a 136/2014. (IV. 24.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
-[^8]: A 2. § (3) bekezdését a 136/2014. (IV. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^9]: A 2. § (4) bekezdését a 136/2014. (IV. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
+[^8]: A 2. § (2) bekezdés h) pontját a 441/2015. (XII. 28.) Korm. rendelet 128. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^9]: A 2. § (3) bekezdését a 136/2014. (IV. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^10]: A 2. § (4) bekezdését a 136/2014. (IV. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
