@@ -18,7 +18,7 @@ a) a képesítési feltételek teljesítésének igazolását,
 
 b) a tolmácsolási gyakorlat meglétének igazolását,
 
-c) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást.
+c)
 
 (3) A Névjegyzéket vezető hatóság a jelnyelvi tolmácsolási tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet.
 
@@ -70,4 +70,4 @@ g) tevékenységének szüneteltetése esetén annak tényét, valamint időtart
 
 (9) A Névjegyzéket vezető hatóság az adatokat a Névjegyzékből való törlést követő 5 évig kezeli, ezt követően az adatokat törli. A Névjegyzékből való törlést követően a Névjegyzéket vezető hatóság – adatigénylésre – a jelnyelvi tolmács tevékenységével összefüggő büntetőeljárásban az eljárás lefolytatásához a nyomozó hatóságnak, az ügyészségnek és a bíróságnak szolgáltat adatot.
 
-(10) A Névjegyzékbe történő felvételért a külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(10)
