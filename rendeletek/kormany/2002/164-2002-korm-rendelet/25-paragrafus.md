@@ -1,3 +1,3 @@
-## 24. §[^58]
+## 24. §[^56]
 
-[^58]: A 24. §-t a 117/2007. (V. 31.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^56]: A 24. §-t a 117/2007. (V. 31.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.

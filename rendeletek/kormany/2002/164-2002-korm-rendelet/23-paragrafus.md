@@ -1,4 +1,4 @@
-23. §[^57] (1) A honvédelemért felelős miniszter nyilvántartást vezet a „NATO Beszállításra Alkalmas” határozattal, a NATO minősített adatok kezelésére jogosító telephely biztonsági tanúsítvánnyal, valamint az azok alapján kiállított megfelelőségi tanúsítvánnyal (Declaration of Eligibility) rendelkező gazdálkodó szervezetekről.
+23. §[^55] (1) A honvédelemért felelős miniszter nyilvántartást vezet a „NATO Beszállításra Alkalmas” határozattal, a NATO minősített adatok kezelésére jogosító telephely biztonsági tanúsítvánnyal, valamint az azok alapján kiállított megfelelőségi tanúsítvánnyal (Declaration of Eligibility) rendelkező gazdálkodó szervezetekről.
 
 (2) A nyilvántartás tartalmazza
 
@@ -16,4 +16,4 @@ e) a telephely biztonsági tanúsítvány kiadásának időpontját, időbeli ha
 
 (4) A nyilvántartásban szereplő gazdálkodó szervezetek jegyzékét a honvédelemért felelős miniszter a nyilvántartás adataiban bekövetkezett változás esetén, de évente legalább egy alkalommal megküldi a NATO, valamint a NATO-tagállamok érintett szervezeteinek.
 
-[^57]: A 23. § a 8/2011. (II. 11.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^55]: A 23. § a 8/2011. (II. 11.) Korm. rendelet 17. §-ával megállapított szöveg.
