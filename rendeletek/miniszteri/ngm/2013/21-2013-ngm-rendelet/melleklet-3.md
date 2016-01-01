@@ -32,7 +32,7 @@
 
 ## ab) az aa) pont hatálya alá nem tartozó, támogatott egyéb szakmai képzés (TESZ),
 
-## ac) általános nyelvi képzés és támogatott egyéb nyelvi képzés (NY),
+## ac) támogatott általános nyelvi képzés (TÁNY), támogatott egyéb nyelvi képzés (TENY) és támogatott kombinált nyelvi képzés (TKNY),
 
 ## ad) az aa)–ac) pont hatálya alá nem tartozó, támogatott egyéb képzés (TE),
 
@@ -74,7 +74,7 @@
 
 ## a hozzájárulásra kötelezett cégszerű aláírása
 
-3. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^49]
+3. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^50]
 
 | Nyilvántartás a szakképzési hozzájárulási kötelezettséget saját munkavállalóik képzésére fordító kötelezettek által benyújtott elszámolásokról ………………………………………. Megye |
 
@@ -84,7 +84,7 @@
 
 | tárgyévben igénybe vett támogatás összege | előző években igénybe vett támogatás összege | következő években igénybe venni kívánt támogatás összege |
 
-|  |  | Megnevezése, címe | Cégjegyzék száma | Adószáma | Statisztika számjele | Mikro- kis- vagy középvállalkozás M/Ki/Kö/E | Ft | Fő | Ft | Ft | db |  | OKJ / nem OKJ | I/N | év hó | év hó | Megnevezése | Nyilvánta rtási száma | B/K | OKJ / TESZ / NY / TE / K | Fő | Fő | Fő | óra | óra | Ft | % | Ft | Ft/fő/óra | Ft/fő/képzés | Ft | Ft | Ft |
+|  |  | Megnevezése, címe | Cégjegyzék száma | Adószáma | Statisztika számjele | Mikro- kis- vagy középvállalkozás M/Ki/Kö/E | Ft | Fő | Ft | Ft | db |  | OKJ / nem OKJ | I/N | év hó | év hó | Megnevezése | Nyilvánta rtási száma | B/K | OKJ / TESZ / TÁNY / TENY / TKNY / TE / K | Fő | Fő | Fő | óra | óra | Ft | % | Ft | Ft/fő/óra | Ft/fő/képzés | Ft | Ft | Ft |
 
 | 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -96,4 +96,4 @@
 
 | Kelt: …………………………...…., 20.. . év ………………………… hó ……………………….. nap |
 
-[^49]: A 3. melléklet a 32/2015. (XII. 4.) NGM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^50]: A 3. melléklet a 32/2015. (XII. 4.) NGM rendelet 8. § (2) bekezdésével megállapított, a 9. § (2) bekezdése szerint módosított szöveg.

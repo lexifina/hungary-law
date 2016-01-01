@@ -62,6 +62,6 @@
 
 ## * A megfelelő válasz aláhúzandó!
 
-2. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^48]
+2. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^49]
 
-[^48]: A 2. melléklet a 32/2015. (XII. 4.) NGM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^49]: A 2. melléklet a 32/2015. (XII. 4.) NGM rendelet 8. § (1) bekezdésével megállapított, a 8. § (3) bekezdése szerint módosított szöveg.
