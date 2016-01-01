@@ -1,0 +1,1 @@
+## 4. § Az 59/2008. (IV. 29.) FVM rendelet 10. § (1) bekezdésében a „gazdálkodási évre vonatkozóan (szeptember 1. és az azt követő év augusztus 31. között)” szövegrész helyébe a „naptári évre vonatkozóan” szöveg lép.
