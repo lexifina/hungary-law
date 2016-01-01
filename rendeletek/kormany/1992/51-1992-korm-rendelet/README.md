@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-51-20-2
 | 2011-01-01 | 1992-51-20-22.4 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-01-01 | 1992-51-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-12-13 | 1992-51-20-22.6 | 316/2014. (XII. 12.) Korm. rendelet |
+| 2016-01-01 | 1992-51-20-22.7 | 441/2015. (XII. 28.) Korm. rendelet |

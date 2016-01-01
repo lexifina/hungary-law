@@ -4,7 +4,7 @@
 
 (3) Az igénybejelentéshez az utalványok banki átvételi elismervényét is csatolni kell. Ennek hiányában — és vita esetén — a Pénzintézeti Központ[^2] (a továbbiakban: PK) letéti nyilvántartását kell irányadónak tekinteni.
 
-(4)[^3] A kérelemről a kárpótlási hatóság három hónapon belül határozatttal dönt. Az elintézési határidőt a kárpótlási hatóság elnöke egy alkalommal legfeljebb három hónappal meghosszabbíthatja.
+(4)[^3]
 
 (5)[^4] A kárpótlási hatóság a kérelemnek helyt adó jogerős határozatot a jogerőre emelkedést követő harminc napon belül megküldi a PK-nak.
 
@@ -12,6 +12,6 @@
 
 [^1]: A 2. § (1) bekezdése a 349/2011. (XII. 30.) 3. § (1) bekezdésével megállapított szöveg.
 [^2]: A Pénzintézeti Központ megszünt.
-[^3]: A 2. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 7. §-a hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^4]: A 2. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^5]: A 2. § (6) bekezdését a 349/2011. (XII. 30.) 3. § (2) bekezdése iktatta be.
