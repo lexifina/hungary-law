@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-392-20-
 | --- | --- | --- |
 | 2015-12-12 | 2015-392-20-22.1 | 392/2015. (XII. 11.) Korm. rendelet |
 | 2015-12-13 | 2015-392-20-22.2 | 2010: CXXX. törvény |
+| 2016-01-01 | 2015-392-20-22.3 | 2010: CXXX. törvény |
