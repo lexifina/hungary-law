@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-114-20-
 | 2014-09-05 | 2006-114-20-22.19 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2014-12-15 | 2006-114-20-22.20 | 318/2014. (XII. 13.) Korm. rendelet |
 | 2015-11-14 | 2006-114-20-22.21 | 343/2015. (XI. 13.) Korm. rendelet |
+| 2016-01-01 | 2006-114-20-22.22 | 343/2015. (XI. 13.) Korm. rendelet |
