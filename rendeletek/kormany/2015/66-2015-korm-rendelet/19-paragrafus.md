@@ -19,3 +19,7 @@ f) gondoskodik a gazdaságos, egymást kiegészítő ellenőrzési módok kialak
 (3) A fővárosi és megyei kormányhivatal az ellenőrzések tapasztalatairól tájékoztatja a felügyeleti szervet, illetve az ágazati minisztert, szükség esetén – különösen, ha jogszabálysértést tapasztal – kezdeményezi intézkedését, gyakorolja a 27. §-ban meghatározott jogait.
 
 (4) A közigazgatás-szervezésért felelős miniszter gondoskodik az ellenőrzések tervezésének és végrehajtásának egységes rendjéről.
+
+(5)[^5] A közigazgatás-szervezésért felelős miniszter – a rendészetért felelős miniszter minden év december 1-ig tett javaslata alapján – a következő évre vonatkozóan minden év december 31-ig ellenőrzési tervet ad ki a jogorvoslattal nem érintett, azon jegyzői hatáskörbe tartozó államigazgatási ügyek felülvizsgálata érdekében, amelyekben nincs ellenérdekű fél.
+
+[^5]: A 19. § (5) bekezdését a 474/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
