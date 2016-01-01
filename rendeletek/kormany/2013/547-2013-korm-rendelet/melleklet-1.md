@@ -1338,7 +1338,7 @@ d) egyház esetén a támogatást igénylő egyházi szerv hivatalos képviselő
 
 58. A biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény
 
-132.1. Biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény alatt a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény hatálya alá tartozó intézmények által kiállított kötelezvény értendő.
+132.1. Biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény alatt a biztosítási tevékenységről szóló törvény hatálya alá tartozó intézmények által kiállított kötelezvény értendő.
 
 132.2. A kötelezvény formai és tartalmi követelményeire vonatkozóan a 126–127.8. pontokat kell alkalmazni azzal az eltéréssel, hogy ahol a 126–127.8. pont garanciavállaló nyilatkozatot említ, azon kötelezvényt, ahol hitelintézetet említ, azon a 132.1. pont szerinti intézményt, ahol garanciát, azon kötelezvényt kell érteni.
 
@@ -4876,5 +4876,7 @@ Szabálytalanságkezelés
 
 209. Értelmező rendelkezések
 
+470. E fejezet alkalmazásában szabálytalansági gyanú: szabálytalanság elkövetésére megalapozottan utaló tények, körülmények, vagy dokumentumok, amelyből alappal lehet következtetni a szabálytalanság tényállási elemeinek fennállására.
+
 [^5]: A 6. §-t a 69/2015. (III. 30.) Korm. rendelet 12. §-a iktatta be.
-[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 17. §-a alapján a 2015. november 1-től megkezdett közbeszerzési eljárásokra kell alkalmazni.
+[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a szerint módosított szöveg.
