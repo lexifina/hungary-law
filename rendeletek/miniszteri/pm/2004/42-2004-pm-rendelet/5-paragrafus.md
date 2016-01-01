@@ -1,4 +1,4 @@
-5. § (1)[^14] A katonai vámügyi szerv, valamint a nemzetközi katonai szervezet a vámjogszabályokban foglalt feltételek megléte esetén rendelkezhet:
+5. § (1)[^15] A katonai vámügyi szerv, valamint a nemzetközi katonai szervezet a vámjogszabályokban foglalt feltételek megléte esetén rendelkezhet:
 
 a) egyszerűsített eljárásra vonatkozó,
 
@@ -14,7 +14,7 @@ e) engedélyezett címzetti, valamint a TIR eljáráshoz kapcsolódó engedélye
 
 (2) Az (1) bekezdésben meghatározott engedélyek kiadásánál az alábbiakra kell figyelemmel lenni:
 
-a)[^15]
+a)[^16]
 
 b) az egyszerűsített, illetve a vámraktározási eljárás iránti kérelemhez a kérelmezőnek az eljárás alá vont nem közösségi áruk vámtarifaszáma helyett a Korm. rendelet hatálya alá tartozó azon termék jegyzékét kell becsatolnia, amelyre a tevékenységi engedélyt kéri,
 
@@ -24,11 +24,11 @@ d) a vámraktározásra vonatkozóan a kérelem elbírálásához nem kell beny�
 
 e) a NATO okmányok fedezetével érkezett és vámraktárba betárolt katonai és egyéb árukról csak készletnyilvántartást kell vezetni,
 
-f)[^16] az engedélyezett feladó és engedélyezett címzetti, valamint a TIR eljáráshoz kapcsolódó engedélyezett címzetti kérelemhez a cégkivonat és az aláírási címpéldány helyett a közhivatal jogállásra vonatkozó nyilatkozatot, nemzetközi katonai szervezet esetén a Magyarországon történő településről és működésről szóló megállapodást, vagy erről külön jogszabály alapján kiállított közhiteles igazolást kell elfogadni.
+f)[^17] az engedélyezett feladó és engedélyezett címzetti, valamint a TIR eljáráshoz kapcsolódó engedélyezett címzetti kérelemhez a cégkivonat és az aláírási címpéldány helyett a közhivatal jogállásra vonatkozó nyilatkozatot, nemzetközi katonai szervezet esetén a Magyarországon történő településről és működésről szóló megállapodást, vagy erről külön jogszabály alapján kiállított közhiteles igazolást kell elfogadni.
 
-(3)[^17] Az illetékes vám- és pénzügyőri igazgatóság a védelmi érdekek zavartalan ellátása érdekében a katonai vámügyi szerv és a nemzetközi katonai szervezet indokolt kérelmére a nem közösségi katonai áru szállítóeszközről történő kirakását soron kívül engedélyezi.
+(3)[^18] Az adó- és vámigazgatóság a védelmi érdekek zavartalan ellátása érdekében a katonai vámügyi szerv és a nemzetközi katonai szervezet indokolt kérelmére a nem közösségi katonai áru szállítóeszközről történő kirakását soron kívül engedélyezi.
 
-[^14]: Az 5. § (1) bekezdése a 32/2013. (VIII. 14.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^15]: Az 5. § (2) bekezdés a) pontját a 32/2013. (VIII. 14.) NGM rendelet 11. §-a hatályon kívül helyezte.
-[^16]: Az 5. § (2) bekezdés f) pontja a 32/2013. (VIII. 14.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (3) bekezdése a 32/2013. (VIII. 14.) NGM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (1) bekezdése a 32/2013. (VIII. 14.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^16]: Az 5. § (2) bekezdés a) pontját a 32/2013. (VIII. 14.) NGM rendelet 11. §-a hatályon kívül helyezte.
+[^17]: Az 5. § (2) bekezdés f) pontja a 32/2013. (VIII. 14.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (3) bekezdése a 32/2013. (VIII. 14.) NGM rendelet 7. § (3) bekezdésével megállapított, a 47/2015. (XII. 30.) NGM rendelet 3. § b) pontja szerint módosított szöveg.
