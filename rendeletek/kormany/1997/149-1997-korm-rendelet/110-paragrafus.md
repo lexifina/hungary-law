@@ -1,6 +1,6 @@
-## A nevelésbe vétel megszüntetése és megszűnése[^707]
+## A nevelésbe vétel megszüntetése és megszűnése[^740]
 
-110. §[^708] (1) A nevelésbe vételt megszüntető, illetve a megszűnést megállapító határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+110. §[^741] (1) A nevelésbe vételt megszüntető, illetve a megszűnést megállapító határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) az arra jogosult szülő vagy családbafogadó gyám felhívását a gyermek gondozására,
 
@@ -14,7 +14,7 @@ e) az otthont nyújtó ellátást biztosító nevelőszülői hálózat vezetőj
 
 f) a nevelésbe vétel megszűnésének megállapítása esetén annak okát,
 
-g) az utógondozás elrendelését és ennek érdekében a gyermekjóléti szolgálat, a nevelőszülői hálózat vezetője, a gyermekotthon vagy a gyermekvédelmi szakszolgálat felhívását a feladat ellátására,
+g)[^742] az utógondozás elrendelését és ennek érdekében a család- és gyermekjóléti központ, a nevelőszülői hálózat vezetője, a gyermekotthon vagy a gyermekvédelmi szakszolgálat felhívását a feladat ellátására,
 
 h) a fiatal felnőtt kérelmére az utógondozói ellátás elrendelését,
 
@@ -22,7 +22,7 @@ i) a gondozásidíj-fizetési kötelezettség megszüntetését,
 
 j) az illetékes járási hivatal felhívását a közgyógyellátási igazolvány visszavonása érdekében,
 
-k)[^709] megelőző pártfogás alatt álló gyermek esetén – az ok megjelölésével – a megelőző pártfogás megszüntetését vagy megszűnését.
+k)[^743] megelőző pártfogás alatt álló gyermek esetén – az ok megjelölésével – a megelőző pártfogás megszüntetését vagy megszűnését.
 
 (2) Ha a nevelésbe vétel a gyermek nagykorúvá válása miatt szűnik meg, a gyámhivatal a 143. § szerint jár el.
 
@@ -30,6 +30,7 @@ k)[^709] megelőző pártfogás alatt álló gyermek esetén – az ok megjelöl
 
 (4) Ha a nevelésbe vétel a gyermek családbafogadásával szűnik meg, a gyámhivatal a 92. § és a 146. § (5) bekezdése alapján jár el.
 
-[^707]: A 110. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^708]: A 110. § a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^709]: A 110. § (1) bekezdés k) pontját a 353/2014. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^740]: A 110. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^741]: A 110. § a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^742]: A 110. § (1) bekezdés g) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.
+[^743]: A 110. § (1) bekezdés k) pontját a 353/2014. (XII. 29.) Korm. rendelet 19. §-a iktatta be.

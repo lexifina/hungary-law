@@ -1,10 +1,10 @@
-## A származás megismerésével kapcsolatos eljárás általános szabályai[^342]
+## A származás megismerésével kapcsolatos eljárás általános szabályai[^355]
 
-53. §[^343] (1)[^344] A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Ptk. 4:135. § (1) bekezdésében meghatározott, a származásával kapcsolatos tényekről.
+53. §[^356] (1)[^357] A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Ptk. 4:135. § (1) bekezdésében meghatározott, a származásával kapcsolatos tényekről.
 
-(2)[^345] A tizennegyedik életévét betöltött örökbefogadott gyermek és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Ptk. 4:135. § (1) bekezdésében meghatározott vér szerinti hozzátartozóinak adatairól.
+(2)[^358] A tizennegyedik életévét betöltött örökbefogadott gyermek és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Ptk. 4:135. § (1) bekezdésében meghatározott vér szerinti hozzátartozóinak adatairól.
 
-(3)[^346] A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával, a tizennegyedik életévét betöltött örökbefogadott gyermek törvényes képviselője és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Ptk. 4:136. §-ában meghatározott egészségügyi adatokról.
+(3)[^359] A tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője, a tizennegyedik életévét betöltött örökbefogadott gyermek önállóan vagy törvényes képviselője hozzájárulásával, a tizennegyedik életévét betöltött örökbefogadott gyermek törvényes képviselője és a nagykorú örökbefogadott tájékoztatást kérhet a kijelölt gyámhivataltól a Ptk. 4:136. §-ában meghatározott egészségügyi adatokról.
 
 (4) A származás megismerésével kapcsolatos eljárás megindítására vonatkozó kérelem személyesen, az örökbefogadott lakóhelye szerinti kijelölt gyámhivatalnál terjeszthető elő. A származás megismerésével kapcsolatban kérhető adatok köréről a gyámhivatal tájékoztatja a kérelmezőt, amelyet jegyzőkönyvben rögzít. Írásbeli megkeresés esetén a gyámhivatal a kérelem személyes előterjesztésének szükségességéről és a kérhető adatok köréről írásban tájékoztatást nyújt.
 
@@ -12,8 +12,8 @@
 
 (6) A gyámhivatal a származás megismerésére vonatkozó tájékoztatást személyes meghallgatás keretében adja meg, amelyet jegyzőkönyvben rögzít. Ha az ügyfél számára aránytalan nehézséggel járna a személyes megjelenés, kérelmére a gyámhivatal írásban ad tájékoztatást.
 
-[^342]: Az 53. §-t megelőző alcím a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^343]: Az 53. § a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^344]: Az 53. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 40. pontja szerint módosított szöveg.
-[^345]: Az 53. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 41. pontja szerint módosított szöveg.
-[^346]: Az 53. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 42. pontja szerint módosított szöveg.
+[^355]: Az 53. §-t megelőző alcím a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^356]: Az 53. § a 349/2012. (XII. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^357]: Az 53. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 40. pontja szerint módosított szöveg.
+[^358]: Az 53. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 41. pontja szerint módosított szöveg.
+[^359]: Az 53. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 42. pontja szerint módosított szöveg.

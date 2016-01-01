@@ -4,9 +4,9 @@
 
 ## Az eljárás megindítása
 
-84. §[^519] (1)[^520] A gyámhivatal a Gyvt. 17. §-ának (1)–(2) bekezdésében és a Gyvt. 68/D. § (1) bekezdésében foglalt szervek, személyek jelzése, kezdeményezése, javaslata alapján köteles a védelembe vétel iránti eljárást hivatalból lefolytatni.
+84. §[^533] (1)[^534] A gyámhivatal a Gyvt. 17. §-ának (1)–(2) bekezdésében és a Gyvt. 68/D. § (1) bekezdésében foglalt szervek, személyek jelzése, kezdeményezése, javaslata alapján köteles a védelembe vétel iránti eljárást hivatalból lefolytatni.
 
-(2) A gyermekjóléti szolgálat a javaslatára indult védelembe vétel iránti eljárás során
+(2)[^535] A család- és gyermekjóléti központ a javaslatára indult védelembe vétel iránti eljárás során
 
 a) nyilatkozik az alapellátás eredménytelenségének okáról, a gyermek és a szülő együttműködési készségéről,
 
@@ -14,16 +14,18 @@ b) megküldi a gyermekjóléti alapellátás során felvett adatlapot, környeze
 
 c) véleményt nyilvánít a gyermek veszélyeztetettségének okáról,
 
-d) javaslatot tesz a kirendelhető családgondozó személyére,
+d)[^536]
 
-e)[^521] javaslatot tesz a Gyvt. 68. § (3) bekezdése alapján szükséges intézkedésekre.
+e)[^537] javaslatot tesz a Gyvt. 68. § (3) bekezdése alapján szükséges intézkedésekre.
 
-(3)[^522] Ha a védelembe vétel iránti eljárás nem a gyermekjóléti szolgálat javaslatára indult, a gyámhivatal megkeresi a gyermekjóléti szolgálatot a (2) bekezdés szerinti javaslat tizenöt napon belül történő megtételére.
+(3)[^538] Ha a védelembe vétel iránti eljárás nem a család- és gyermekjóléti központ javaslatára indult, a gyámhivatal megkeresi a család- és gyermekjóléti központot a (2) bekezdés szerinti javaslat tizenöt napon belül történő megtételére.
 
-(4)[^523] A tartózkodási hely szerint illetékes gyámhivatal a védelembe vétel iránti eljárás során köteles beszerezni a lakóhely szerint illetékes gyámhivataltól a gyermekre vonatkozó, korábban keletkezett iratokat.
+(4)[^539] A tartózkodási hely szerint illetékes gyámhivatal a védelembe vétel iránti eljárás során köteles beszerezni a lakóhely szerint illetékes gyámhivataltól a gyermekre vonatkozó, korábban keletkezett iratokat.
 
-[^519]: A 84. § a 14/2003. (II. 12.) Korm. rendelet 46. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^520]: A 84. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés l) pontja, a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja, a 353/2014. (XII. 29.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
-[^521]: A 84. § (2) bekezdés e) pontja a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés m) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^522]: A 84. § (3) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja, a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^523]: A 84. § (4) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^533]: A 84. § a 14/2003. (II. 12.) Korm. rendelet 46. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^534]: A 84. § (1) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés l) pontja, a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja, a 353/2014. (XII. 29.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^535]: A 84. § (2) bekezdés nyitó szövegrésze a 419/2015. (XII. 23.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.
+[^536]: A 84. § (2) bekezdés d) pontját a 419/2015. (XII. 23.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^537]: A 84. § (2) bekezdés e) pontja a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés m) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^538]: A 84. § (3) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 10. pontja, a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja, a 419/2015. (XII. 23.) Korm. rendelet 14. § 15. pontja szerint módosított szöveg.
+[^539]: A 84. § (4) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.

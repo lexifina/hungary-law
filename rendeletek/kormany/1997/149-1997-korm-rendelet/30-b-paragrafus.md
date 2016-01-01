@@ -1,4 +1,4 @@
-30/B. §[^113] (1) Ha a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek a 29/A. § (1) bekezdésében felsorolt kérdésekben nem tudnak egyezségre jutni, vagy a kapcsolattartás végrehajtása során keletkezik vita a felek között, a gyámhivatal
+30/B. §[^118] (1) Ha a szülők vagy a kapcsolattartásra a 28. § (1)–(4a) bekezdése szerint jogosult más személyek a 29/A. § (1) bekezdésében felsorolt kérdésekben nem tudnak egyezségre jutni, vagy a kapcsolattartás végrehajtása során keletkezik vita a felek között, a gyámhivatal
 
 a) tájékoztatja a feleket a közvetítői eljárás igénybevételének a lehetőségéről, vagy
 
@@ -18,7 +18,7 @@ c) és – ha az eljárásba a gyermeket is bevonta – a gyermeket a közvetít
 
 (3) A kiválasztott közvetítőt a gyámhivatal kéri fel a közvetítői tevékenység ellátására. A közvetítő a felkérés elfogadásáról vagy annak elutasításáról a gyámhivatal és a felek felé nyilatkozik.
 
-(4) A közvetítői eljárás lefolytatása érdekében a gyámhivatal az előtte folyamatban lévő gyámhatósági eljárást felfüggeszti és – a fél kérelmére vagy a közvetítő jelzése alapján – a közvetítői eljárás befejeződésekor, de legkésőbb két hónap, vagy – a 30/C. § c) pont cb) alpontja szerinti esetben – négy hónap múlva folytatja.
+(4)[^119]
 
 (5) A közvetítő a felkérés elfogadásáról szóló nyilatkozatában a felkérés elfogadásától számított tizenöt napon belül a feleket meghívja az első közvetítői megbeszélésre.
 
@@ -30,4 +30,5 @@ b) az ítélőképessége birtokában lévő cselekvőképtelen gyermeket a fele
 
 bevonhatja a közvetítői eljárásba, feltéve, hogy ez a gyermek számára nem jelent túl nagy megterhelést, valamint érzelmi fejlődését a felek által elmondottak, illetve a felek magatartása várhatóan nem veszélyezteti.
 
-[^113]: A 30/B. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^118]: A 30/B. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^119]: A 30/B. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

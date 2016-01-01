@@ -1,6 +1,6 @@
-## Közvetítői eljárás a gyámhatósági eljárásban[^110]
+## Közvetítői eljárás a gyámhatósági eljárásban[^113]
 
-30/A. §[^111] (1) A kapcsolattartás rendezésével, a kapcsolattartás végrehajtásával és a szülői felügyeleti jog gyakorlásával összefüggő gyámhatósági eljárásban – az ezen alcímben meghatározott eltérésekkel – a közvetítői tevékenységről szóló 2002. évi LV. törvény (a továbbiakban: Kvtv.) rendelkezései szerinti közvetítői eljárás folytatható le. A közvetítői eljárásban a közvetítő a gyermek érdekének megfelelően működik közre a felek közötti vitát lezáró megállapodás létrehozásában.
+30/A. §[^114] (1) A kapcsolattartás rendezésével, a kapcsolattartás végrehajtásával és a szülői felügyeleti jog gyakorlásával összefüggő gyámhatósági eljárásban – az ezen alcímben meghatározott eltérésekkel – a közvetítői tevékenységről szóló 2002. évi LV. törvény (a továbbiakban: Kvtv.) rendelkezései szerinti közvetítői eljárás folytatható le. A közvetítői eljárásban a közvetítő a gyermek érdekének megfelelően működik közre a felek közötti vitát lezáró megállapodás létrehozásában.
 
 (2) A gyámhatósági eljárásban alkalmazott közvetítői eljárás lehet
 
@@ -16,9 +16,9 @@ ba) kötelező gyermekvédelmi közvetítői eljárás, vagy
 
 bb) kötelező támogatott közvetítői eljárás.
 
-(3)[^112] A gyermekvédelmi közvetítői eljárás és a kötelező gyermekvédelmi közvetítői eljárás során a felek választása alapján a Nemzeti Rehabilitációs és Szociális Hivatal Országos Gyermekvédelmi Szakértői Névjegyzékébe vagy a közvetítői névjegyzékbe (a továbbiakban együtt: névjegyzékek) felvett közvetítő nyújt közvetítői szolgáltatást a felek számára. A támogatott közvetítői eljárás és a kötelező támogatott közvetítői eljárás során a felek lakóhelye szerinti területi gyermekvédelmi szakszolgálat közvetítője nyújt közvetítői szolgáltatást a felek számára.
+(3)[^115] A gyermekvédelmi közvetítői eljárás és a kötelező gyermekvédelmi közvetítői eljárás során a felek választása alapján a Nemzeti Rehabilitációs és Szociális Hivatal Országos Gyermekvédelmi Szakértői Névjegyzékébe vagy a közvetítői névjegyzékbe (a továbbiakban együtt: névjegyzékek) felvett közvetítő nyújt közvetítői szolgáltatást a felek számára. A támogatott közvetítői eljárás és a kötelező támogatott közvetítői eljárás során a felek lakóhelye szerinti területi gyermekvédelmi szakszolgálat közvetítője nyújt közvetítői szolgáltatást a felek számára.
 
-(4) A névjegyzékek a gyámhivatal és a gyermekjóléti szolgálat hivatali helyiségében is megtekinthetők.
+(4)[^116] A névjegyzékek a gyámhivatal és a család- és gyermekjóléti szolgálat, valamint a család- és gyermekjóléti központ hivatali helyiségében is megtekinthetők.
 
 (5) A közvetítő
 
@@ -34,7 +34,7 @@ meghatározott díjazás mellett biztosítja a közvetítői eljárás lefolytat
 
 a) gyermekvédelmi közvetítői eljárás vagy kötelező gyermekvédelmi közvetítői eljárás esetén a közvetítő által, a felek igényei alapján meghatározott helyszín,
 
-b) támogatott közvetítői eljárás vagy kötelező támogatott közvetítői eljárás esetén a területi gyermekvédelmi szakszolgálat, a gyámhivatal vagy a gyermekjóléti szolgálat székhelye.
+b)[^117] támogatott közvetítői eljárás vagy kötelező támogatott közvetítői eljárás esetén a területi gyermekvédelmi szakszolgálat, a gyámhivatal vagy a család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ székhelye.
 
 (8) A felek szabadon döntenek és döntésüknek megfelelően a gyámhivatal előtt nyilatkoznak arról, hogy
 
@@ -46,6 +46,8 @@ c) – gyermekvédelmi közvetítői eljárás vagy kötelező gyermekvédelmi k
 
 (9) Ha a felek a (8) bekezdés b) pontja szerinti esetben nem nyilatkoznak, a gyámhivatal kötelező támogatott közvetítői eljárás igénybevételét rendeli el és kiválasztja a közvetítőt.
 
-[^110]: A 30/A. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^111]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^112]: A 30/A. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 174. §-a szerint módosított szöveg.
+[^113]: A 30/A. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^114]: A 30/A. §-t és a 30/A. § előtti alcímet a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^115]: A 30/A. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 174. §-a szerint módosított szöveg.
+[^116]: A 30/A. § (4) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 5. pontja szerint módosított szöveg.
+[^117]: A 30/A. § (7) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 10. pontja szerint módosított szöveg.

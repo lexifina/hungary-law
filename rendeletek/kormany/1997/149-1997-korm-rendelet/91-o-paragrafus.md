@@ -10,7 +10,7 @@ aa) az elrendelő határozatban foglalt időpontban,
 
 ab) ha a gyámhivatalnak hivatalos tudomása van a felülvizsgálat szükségességéről,
 
-ac) a gyermekjóléti szolgálat javaslatára,
+ac)[^645] a család- és gyermekjóléti központ javaslatára,
 
 ad) a megelőző pártfogó felügyelő javaslatára;
 
@@ -25,3 +25,5 @@ a) a megelőző pártfogás fenntartásáról vagy megszüntetéséről,
 b) a következő felülvizsgálat határidejéről, és
 
 c) szükség esetén a megelőző pártfogás eredményességét szolgáló új magatartási szabályokról.
+
+[^645]: A 91/O. § (2) bekezdés a) pont ac) alpontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.

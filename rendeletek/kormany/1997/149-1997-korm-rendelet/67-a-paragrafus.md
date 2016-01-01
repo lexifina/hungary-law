@@ -1,4 +1,4 @@
-67/A. §[^413] (1) Ha a települési önkormányzat jegyzője kérelemre vagy – a gyámhivatal 130. § (4) bekezdése szerinti intézkedése, illetve egyéb hivatalos úton rendelkezésére álló gyámrendelő határozat alapján – hivatalból indult eljárása során megállapítja, hogy a rendszeres kedvezményre jogosult gyermek részére
+67/A. §[^426] (1) Ha a települési önkormányzat jegyzője kérelemre vagy – a gyámhivatal 130. § (4) bekezdése szerinti intézkedése, illetve egyéb hivatalos úton rendelkezésére álló gyámrendelő határozat alapján – hivatalból indult eljárása során megállapítja, hogy a rendszeres kedvezményre jogosult gyermek részére
 
 a) családbafogadó gyámot rendeltek,
 
@@ -26,4 +26,4 @@ a) a (4) bekezdés szerinti időpontot megelőző nappal megszünteti a korábba
 
 b) a (4) bekezdés szerinti időponttól kezdődően egy év időtartamra ismételten megállapítja a rendszeres kedvezményre és ahhoz kapcsolódóan a pénzbeli ellátásra való jogosultságot.
 
-[^413]: A 67/A. §-t a 98/2013. (III. 29.) Korm. rendelet 7. §-a iktatta be.
+[^426]: A 67/A. §-t a 98/2013. (III. 29.) Korm. rendelet 7. §-a iktatta be.

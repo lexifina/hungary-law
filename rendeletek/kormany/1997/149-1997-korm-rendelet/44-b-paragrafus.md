@@ -1,6 +1,6 @@
-## Az örökbefogadáshoz tett szülői hozzájáruló nyilatkozat visszavonása[^251]
+## Az örökbefogadáshoz tett szülői hozzájáruló nyilatkozat visszavonása[^261]
 
-44/B. §[^252] (1) A szülő, ha a gyermek örökbefogadásának engedélyezése iránt
+44/B. §[^262] (1) A szülő, ha a gyermek örökbefogadásának engedélyezése iránt
 
 a) eljárás van folyamatban, a gyermek örökbefogadása ügyében eljáró gyámhivatal előtt, vagy
 
@@ -10,7 +10,7 @@ személyesen nyilatkozhat arról, hogy az örökbefogadáshoz tett hozzájárul�
 
 (2) A gyámhivatal a szülő nyilatkozata alapján haladéktalanul
 
-a) megkeresi a gyermek nevelését vállaló szülő vagy más hozzátartozó tartózkodási helye szerinti gyermekjóléti szolgálatot, védőnőt, szükség esetén más szervet vagy személyt, hogy tájékozódjon a gyermek nevelésének körülményeiről és a szülőnek vagy más hozzátartozónak a gyermek nevelésére irányuló vállalásának megalapozottságáról,
+a)[^263] megkeresi a gyermek nevelését vállaló szülő vagy más hozzátartozó tartózkodási helye szerinti család- és gyermekjóléti szolgálatot, védőnőt, szükség esetén más szervet vagy személyt, hogy tájékozódjon a gyermek nevelésének körülményeiről és a szülőnek vagy más hozzátartozónak a gyermek nevelésére irányuló vállalásának megalapozottságáról,
 
 b) környezettanulmányt készít vagy szerez be a gyermek nevelését vállaló szülő vagy más hozzátartozó tartózkodási helyéről, és
 
@@ -30,5 +30,6 @@ a) a szülőnek vagy más hozzátartozónak a gyermek családban való nevelked�
 
 b) az örökbe fogadni szándékozó személynek ahhoz, hogy együtt tudjon működni a gyermek sorsának rendezésében.
 
-[^251]: A 44/B. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 31. §-a iktatta be.
-[^252]: A 44/B. §-t a 70/2014. (III. 13.) Korm. rendelet 31. §-a iktatta be.
+[^261]: A 44/B. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 31. §-a iktatta be.
+[^262]: A 44/B. §-t a 70/2014. (III. 13.) Korm. rendelet 31. §-a iktatta be.
+[^263]: A 44/B. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.

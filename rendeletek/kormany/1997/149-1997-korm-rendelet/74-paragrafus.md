@@ -1,15 +1,15 @@
-## 73/A. §[^481] A gyámhivatal a Gyvt. 24. § (9) bekezdése szerinti méltányossági eljárás keretében hozott döntését megküldi a folyósító szerv részére, amely arról tájékoztatja az adóhatóságot.
+## 73/A. §[^494] A gyámhivatal a Gyvt. 24. § (9) bekezdése szerinti méltányossági eljárás keretében hozott döntését megküldi a folyósító szerv részére, amely arról tájékoztatja az adóhatóságot.
 
-74. § (1)[^482] A tárgyhónapra esedékes megelőlegezett gyermektartásdíjat december hónap kivételével a tárgyhónapot követő hónap 5. napjáig kell folyósítani, ideértve a jogosultság megszűnésének hónapjára a Gyvt. 24. § (7) bekezdése alapján járó megelőlegezett gyermektartásdíjat is. A december hónapra esedékes megelőlegezett gyermektartásdíj folyósításáról december 30-áig kell gondoskodni.
+74. § (1)[^495] A tárgyhónapra esedékes megelőlegezett gyermektartásdíjat december hónap kivételével a tárgyhónapot követő hónap 5. napjáig kell folyósítani, ideértve a jogosultság megszűnésének hónapjára a Gyvt. 24. § (7) bekezdése alapján járó megelőlegezett gyermektartásdíjat is. A december hónapra esedékes megelőlegezett gyermektartásdíj folyósításáról december 30-áig kell gondoskodni.
 
-(2)[^483] A gyámhivatal a megelőlegezett gyermektartásdíjjal kapcsolatban hozott valamennyi határozatát közli a 73. § (2) bekezdésében felsoroltakkal.
+(2)[^496] A gyámhivatal a megelőlegezett gyermektartásdíjjal kapcsolatban hozott valamennyi határozatát közli a 73. § (2) bekezdésében felsoroltakkal.
 
-(3)[^484] Amennyiben a gyermektartásdíj megelőlegezésének időtartama alatt a gyámhivatal illetékessége megváltozik, a jogosult új lakóhelye szerint illetékes gyámhivatal a megelőlegezett gyermektartásdíj folyósításához szükséges intézkedéseket az illetékességváltozásról szóló határozatban foglalt időponttól kezdődően végzi el.
+(3)[^497] Amennyiben a gyermektartásdíj megelőlegezésének időtartama alatt a gyámhivatal illetékessége megváltozik, a jogosult új lakóhelye szerint illetékes gyámhivatal a megelőlegezett gyermektartásdíj folyósításához szükséges intézkedéseket az illetékességváltozásról szóló határozatban foglalt időponttól kezdődően végzi el.
 
-(4)[^485]
+(4)[^498]
 
-[^481]: A 73/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^482]: A 74. § (1) bekezdése a 392/2013. (XI. 12.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^483]: A 74. § (2) bekezdése a 14/2003. (II. 12.) Korm. rendelet 37. §-ával megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 42. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^484]: A 74. § (3) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^485]: A 74. § (4) bekezdését a 14/2003. (II. 12.) Korm. rendelet 99. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^494]: A 73/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^495]: A 74. § (1) bekezdése a 392/2013. (XI. 12.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^496]: A 74. § (2) bekezdése a 14/2003. (II. 12.) Korm. rendelet 37. §-ával megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 42. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^497]: A 74. § (3) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^498]: A 74. § (4) bekezdését a 14/2003. (II. 12.) Korm. rendelet 99. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
