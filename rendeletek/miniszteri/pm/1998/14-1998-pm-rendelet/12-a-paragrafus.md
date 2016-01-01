@@ -1,6 +1,6 @@
-## Napi adatszolgáltatás az adójegyek készletváltozásáról[^64]
+## Napi adatszolgáltatás az adójegyek készletváltozásáról[^62]
 
-12/A. §[^65] (1) Az adójegyfelhelyezésre vonatkozó adatokat az adójegy-felhasználó a napi adatszolgáltatásban dohánygyártmányonként,
+12/A. §[^63] (1) Az adójegyfelhelyezésre vonatkozó adatokat az adójegy-felhasználó a napi adatszolgáltatásban dohánygyártmányonként,
 
 a) a dohánygyártmányaira általa alkalmazott globális áruazonosító szám (a továbbiakban: GTIN szám), vagy
 
@@ -24,5 +24,5 @@ az e célra rendszeresített, a vámhatóság internetes honlapján közzétett,
 
 (6) A vámhatóság ellenőrzését megelőzően észlelt, hibásan teljesített GTIN szám bejelentést az adójegy-felhasználó a (2) bekezdés szerinti nyomtatvány felhasználásával helyesbítheti.
 
-[^64]: A 12/A. §-t megelőző alcímet az 54/2011. (XII. 29.) NGM rendelet 11. § (1) bekezdése iktatta be.
-[^65]: A 12/A. §-t az 54/2011. (XII. 29.) NGM rendelet 11. § (1) bekezdése iktatta be.
+[^62]: A 12/A. §-t megelőző alcímet az 54/2011. (XII. 29.) NGM rendelet 11. § (1) bekezdése iktatta be.
+[^63]: A 12/A. §-t az 54/2011. (XII. 29.) NGM rendelet 11. § (1) bekezdése iktatta be.

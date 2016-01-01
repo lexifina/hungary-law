@@ -30,6 +30,6 @@
 
 ## 2.6. Csomagolási egység: 50 darab ív, ívenként 30 darab adójegy, dobozba rakva.
 
-4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^73]
+4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^71]
 
-[^73]: A 4. számú melléklet a 37/1998. ( XII. 21.) PM rendelet 4. §-ával, 2. számú mellékletével, valamint a 42/2002. (XII. 20.) PM rendelet 3. §-ának (2) bekezdésével módosított szöveg.
+[^71]: A 4. számú melléklet a 37/1998. ( XII. 21.) PM rendelet 4. §-ával, 2. számú mellékletével, valamint a 42/2002. (XII. 20.) PM rendelet 3. §-ának (2) bekezdésével módosított szöveg.

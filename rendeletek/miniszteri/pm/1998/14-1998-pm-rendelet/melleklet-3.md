@@ -40,6 +40,6 @@
 
 ## 2.6. Adójegy mennyisége;
 
-3. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^72]
+3. számú melléklet a 14/1998. (IV. 30.) PM rendelethez[^70]
 
-[^72]: A 3. számú melléklet az 52/2012. (XII. 29.) NGM rendelet 6. §-ával megállapított szöveg.
+[^70]: A 3. számú melléklet az 52/2012. (XII. 29.) NGM rendelet 6. §-ával megállapított szöveg.
