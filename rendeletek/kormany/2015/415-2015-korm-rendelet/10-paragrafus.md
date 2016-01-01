@@ -1,0 +1,5 @@
+10. § (1) A Hivatal folyamatosan ellenőrzi, hogy az igénybevevő adott napon nem kerül-e egyidejűleg több olyan engedélyessel vagy szolgáltatással kapcsolatos napi jelentésben is feltüntetésre, amelyek esetében az állami támogatás szempontjából történő figyelembevételt jogszabály kizárja.
+
+(2) Ha a Hivatal megállapítja az (1) bekezdés szerinti adatrögzítést, az igénybevevői nyilvántartás rendszerén keresztül felhívja az érintett adatszolgáltatásra jogosultakat az időszakos jelentés adatainak módosítására, szükség esetén a szolgáltatás megszüntetésére.
+
+(3) Ha az adatszolgáltatásra jogosultak önellenőrzéssel, valamint szükség esetén a szolgáltatás megszüntetésével az (1) bekezdés szerinti adatrögzítést a felhívást követő három munkanapon belül nem szüntetik meg, a Hivatal az állami támogatás szempontjából figyelembe nem vehető időszakos jelentést erre vonatkozó megjegyzéssel látja el, és erről értesíti a Magyar Államkincstár illetékes igazgatóságát, valamint az igénybevevői nyilvántartás rendszerén keresztül az adatszolgáltatásra jogosultakat.
