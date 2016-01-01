@@ -1,5 +1,5 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-7–8. §[^1]
+7–8. §[^2]
 
-[^1]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

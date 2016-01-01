@@ -12,6 +12,8 @@ d) az uniós rendelet 3. cikk 2. pont b) alpontjában a c) pontnál említett sz
 
 kell érteni.
 
-(2) Az uniós rendelet 2. cikk 9. pontja szerinti, a feltehetően szellemi tulajdonjogot sértő árukkal kapcsolatos vámhatósági intézkedés megtételére irányuló kérelmet, továbbá az uniós rendelet 12. cikke szerinti meghosszabbítás iránti, valamint 13. cikke szerinti módosítás iránti kérelmet Magyarországon a Nemzeti Adó- és Vámhivatal Észak-budapesti Vám- és Pénzügyőr Igazgatóságához (a továbbiakban: Igazgatóság) kell benyújtani.
+(2)[^1] Az uniós rendelet 2. cikk 9. pontja szerinti, a feltehetően szellemi tulajdonjogot sértő árukkal kapcsolatos vámhatósági intézkedés megtételére irányuló kérelmet, továbbá az uniós rendelet 12. cikke szerinti meghosszabbítás iránti, valamint 13. cikke szerinti módosítás iránti kérelmet Magyarországon a Nemzeti Adó- és Vámhivatal Észak-budapesti Adó- és Vámigazgatóságához (a továbbiakban: Igazgatóság) kell benyújtani.
 
 (3) Az uniós rendelet 18. cikk (3) bekezdés negyedik francia bekezdése alapján a kérelem benyújtására jogosult személyek vagy szervezetek azonosítása céljából a vámhatóság iparjogvédelmi jogok esetében a Szellemi Tulajdon Nemzeti Hivatalát, szerzői vagy szerzői joghoz kapcsolódó jogok esetében a közös jogkezelést végző szervezetet keresi meg konzultációs célból.
+
+[^1]: Az 1. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 45. §-a szerint módosított szöveg.
