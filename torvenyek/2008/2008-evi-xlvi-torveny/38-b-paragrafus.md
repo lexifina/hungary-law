@@ -8,6 +8,8 @@ aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek 
 
 (2) Az élelmiszerlánc-felügyeleti szerv az ügyfél bejelentése alapján veszi nyilvántartásba az (1) bekezdés szerinti adatokat, és egyidejűleg FELIR azonosító számot (a továbbiakban: FELIR azonosító) állapít meg a nyilvántartásba vétel igazolására. Amennyiben a FELIR azonosítóval rendelkező ügyfél a továbbiakban nem végez a 47/B. § (2) bekezdése szerinti tevékenységet, vagy a 47/B. § (8) bekezdése szerinti bevallási kötelezettségének nem tesz eleget, vagy hivatalbóli intézkedés alapján a FELIR azonosítóra való jogosultságát elveszti, akkor a FELIR azonosító egyidejű visszavonásával a nyilvántartásból törölni kell. A nyilvántartásból törölt élelmiszerlánc-szereplő adatait az élelmiszerlánc-felügyeleti szerv élelmiszerlánc-biztonsági célból 10 évig köteles megőrizni.
 
+(2a) E törvény hatálya alá tartozó tevékenységet csak FELIR azonosítóval rendelkező ügyfél folytathat.
+
 (3) A FELIR azonosítóval rendelkező ügyfél köteles bejelenteni az élelmiszerlánc-felügyeleti szervnek, ha csődeljárás, felszámolás vagy végelszámolás alatt áll, valamint a jogutódlással történő vagy jogutód nélküli megszűnését is.
 
 (4) A regisztrált élelmiszerlánc-szereplő köteles az élelmiszerlánc-felügyeleti szervnek bejelenteni az (1) és a (3) bekezdés szerinti adataiban bekövetkezett változást, annak bekövetkezésétől számított tizenöt napon belül.
@@ -16,7 +18,7 @@ aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek 
 
 (6) A FELIR azonosítóhoz tartozó, nyilvántartásba vett adatokat az élelmiszerlánc-felügyeleti szerv a következők szerint igazolja:
 
-a) igazolást állít ki, melyen szerepel a FELIR azonosító, az ügyfélnyilvántartási szám vagy technikai azonosító, valamint
+a) igazolást állít ki, melyen szerepel a FELIR azonosító, az ügyfél-azonosító szám, valamint
 
 aa) természetes személy esetében az ügyfél neve és születési dátuma,
 

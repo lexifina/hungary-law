@@ -28,9 +28,9 @@ g) a 47/A. § (5) bekezdés szerinti intelligens élelmiszerlánc-elemzési rend
 
 (3) A FELIR kialakításához és működtetéséhez az élelmiszerlánc-felügyeleti szerv kezeli
 
-a) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, elérhetőségét, adóazonosító jelét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosítóját, bankszámlaszámát;
+a) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, elérhetőségét, adóazonosító jelét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számát, bankszámlaszámát;
 
-b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevét, adószámát, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosítóját, bankszámlaszámát.
+b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevét, adószámát, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számát, bankszámlaszámát.
 
 (3a) Az erdészeti hatóság az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 18. § (6) bekezdés a) pont aa)–af) és ah) alpontjában, valamint a b) pont ba)–bf) alpontjában levő adatokat a FELIR segítségével kezeli.
 
@@ -69,3 +69,5 @@ k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, i
 (8) Az élelmiszerlánc-felügyeleti hatóság és a mezőgazdasági és vidékfejlesztési támogatási szerv a közös ügyfél törzsadat-kezelő rendszer működtetéséről írásban állapodnak meg, melynek ki kell terjednie a közös ügyfél törzsadatok körének meghatározására, működtetéssel kapcsolatos feladatok elvégzésének, valamint a költségek viselésének megosztására.
 
 (9) Az élelmiszerlánc-felügyeleti szerv részére e törvényben meghatározott feladatai ellátása – különösen az e törvény hatálya alá tartozó termékek nyomon követhetősége – érdekében az elektronikus útdíjszolgáltatók nyilvántartásából folyamatosan, elektronikus úton adatokat kell átadni.
+
+(10) Az élelmiszerlánc-felügyeleti szervtől az adatok meghatározott szempontú csoportosítása is igényelhető.

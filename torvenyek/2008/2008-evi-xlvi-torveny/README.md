@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-46-00-00
 | 2015-05-05 | 2015. évi XLVI. törvény | 2008-46-00-00.26 |
 | 2015-06-19 | 2015. évi LXXVIII. törvény | 2008-46-00-00.27 |
 | 2015-12-27 | 2015. évi CLXXXII. törvény | 2008-46-00-00.28 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 2008-46-00-00.29 |

@@ -6,7 +6,7 @@ a) ellátja a növényi károsítók előfordulásának, járványos fellépés�
 
 b) az Európai Unió Bizottságánál kezdeményezi az állat- és növény-egészségügyi határállomások kijelölését;
 
-c) kezdeményezheti rendkívüli élelmiszerlánc-események esetén a térítés ellenében történő közcélú munkavégzés, a létesítmény, a szállító-, növényvédő és más eszközök, valamint anyagok igénybevételének, továbbá a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal vámszerve közreműködésének elrendelését;
+c) kezdeményezheti rendkívüli élelmiszerlánc-események esetén a térítés ellenében történő közcélú munkavégzés, a létesítmény, a szállító-, növényvédő és más eszközök, valamint anyagok igénybevételének, továbbá a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal közreműködésének elrendelését;
 
 d) nagy nemzetgazdasági kárral fenyegető vagy közegészségügyi szempontból veszélyes állatbetegségek felszámolására állami pénzeszközökkel támogatott, az állatállományoknak a betegségtől való mentesítésére országos programot, valamint a betegség előfordulásának felmérésére ellenőrző, illetve monitoring-vizsgálati programot rendelhet el;
 

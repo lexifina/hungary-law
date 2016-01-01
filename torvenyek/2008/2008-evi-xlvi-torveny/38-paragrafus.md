@@ -46,7 +46,7 @@ v) a növényorvosokról és a növényvédelmi szolgáltatási tevékenységet 
 
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
-a) a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számot, illetve technikai azonosítót,
+a) a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számot,
 
 b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát, továbbá
 

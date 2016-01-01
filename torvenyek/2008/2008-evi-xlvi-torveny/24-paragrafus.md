@@ -12,7 +12,9 @@ b) működteti az élelmiszerek és takarmányok vonatkozásában hatékony gyor
 
 c) az e törvény szerinti hatósági intézkedések megalapozása céljából állami laboratóriumokat működtet;
 
-d) a költségvetési törvényben külön alcímen az állami kártalanítás, az állami, valamint a közérdekű védekezés céljára, továbbá a járványügyi intézkedés során keletkezett állati vagy növényi eredetű melléktermékek szállításának és ártalmatlanításának, valamint a rendkívüli élelmiszerlánc-esemény elhárítása során a hatóságnál felmerülő költségek fedezetére, továbbá az egyéb jogszabályban állami feladatként meghatározott vizsgálatok fedezetére célelőirányzatot biztosít.
+d) a költségvetési törvényben külön alcímen az állami kártalanítás, az állami, valamint a közérdekű védekezés céljára, továbbá a járványügyi intézkedés során keletkezett állati vagy növényi eredetű melléktermékek szállításának és ártalmatlanításának, valamint a rendkívüli élelmiszerlánc-esemény elhárítása során a hatóságnál felmerülő költségek fedezetére, továbbá az egyéb jogszabályban állami feladatként meghatározott vizsgálatok fedezetére célelőirányzatot biztosít;
+
+e) működteti a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, az Európai Parlament és a Tanács 2004. április 29-i 882/2004/EK rendelet 4. cikk (6) bekezdése szerinti audit rendszert.
 
 (2) Az állam az (1) bekezdésben foglaltak figyelembevételével – az éves költségvetési törvényben meghatározott módon – a központi költségvetésben biztosítja az élelmiszerlánc-felügyeleti szerv nemzeti és nemzetközi követelményeknek megfelelő szintű működésének fedezetét.
 
