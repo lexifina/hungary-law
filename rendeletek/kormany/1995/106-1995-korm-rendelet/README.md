@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-106-20-
 | 2014-09-10 | 1995-106-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 1995-106-20-22.8 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-06-03 | 1995-106-20-22.9 | 136/2015. (VI. 2.) Korm. rendelet |
+| 2016-01-01 | 1995-106-20-22.10 | 441/2015. (XII. 28.) Korm. rendelet |

@@ -1,4 +1,4 @@
-## 7. §[^11] Az állapotvizsgálat eredményének elbírálására irányuló eljárás ügyintézési határideje 45 nap. A környezetvédelmi hatóság a felszíni vizekre és a felszín alatti vizekre gyakorolt környezeti hatások megállapítása érdekében az eljárásba a területi vízügyi hatóságot szakhatóságként bevonja.
+## 7. §[^11] Az állapotvizsgálat eredményének elbírálására irányuló eljárás során a környezetvédelmi hatóság a felszíni vizekre és a felszín alatti vizekre gyakorolt környezeti hatások megállapítása érdekében az eljárásba a vízvédelmi hatóságot szakhatóságként bevonja.
 
 ## A környezeti károsodások, környezeti terhek rendezésének módja és követelményei
 
@@ -22,7 +22,7 @@ c) vagyontárgyakhoz fűződő környezeti teher esetén — szerződéses form�
 
 (7)[^16] A környezeti kárral vagy környezeti teherrel érintett vagyontárgy értékesítésekor a felszámoló az értékesítési hirdetmény közzétételét megelőzően az értékesítési feltételeket tartalmazó dokumentumok, így különösen a pályázati felhívás, valamint az árverési hirdetmény tervezetének megküldésével köteles beszerezni az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulását, és az értékesítési hirdetményben a környezeti teherre történő utalás mellett a hozzájárulás megadására vonatkozó tájékoztatást is közzé kell tenni. Az állami vagyon felügyeletéért felelős miniszter az előzetes hozzájárulásról szóló döntése előtt beszerzi a környezetvédelemért felelős miniszter szakmai állásfoglalását.
 
-[^11]: A 7. § a 221/2014. (IX. 4.) Korm. rendelet 159. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^11]: A 7. § a 441/2015. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^12]: A 8. § (1) bekezdése a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 16. § d) és e) pontja szerint módosított szöveg.
 [^13]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
 [^14]: A 8. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
