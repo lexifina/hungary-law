@@ -1,4 +1,4 @@
-8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított két hónap a 3. § (1) bekezdésének a), f), g) és k) pontjában meghatározott szabályok megsértése miatt folytatott eljárásokban.
+8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított negyvenöt nap a 3. § (1) bekezdésének a), f), g) és k) pontjában meghatározott szabályok megsértése miatt folytatott eljárásokban.
 
 (2) A munkaügyi ellenőrzés alapján indult eljárásokban vélelmezni kell a tanúnak a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az adatok zárt kezelésére vonatkozó szabályai szerinti olyan helyzetét, amely alapján őt tanúvallomása miatt súlyosan hátrányos következmény érheti. E rendelkezés megfelelően irányadó arra a természetes személyre is, akinek bejelentése alapján a hatóság az eljárást hivatalból megindította.
 
