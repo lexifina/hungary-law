@@ -1,3 +1,0 @@
-6. § (1) A szolgálat azon hivatásos állományú tagja, aki az uniós intézmény által kiírt nemzeti szakértői, vagy nemzetközi szervezet által – a nemzetközi szervezettel való jogviszony létesítése érdekében – kiírt pályázatot elnyer és attól nem kíván visszalépni, köteles a pályázati eredményről való tudomásszerzését követően haladéktalanul az állományilletékes parancsnoknak a pályázat elnyerését írásban bejelenteni.
-
-(2) A szolgálat főigazgatója a Hszt. 49. §-a (4) bekezdésében foglaltaktól eltérő esetekben is dönthet úgy, hogy a nemzetközi szervezet által kiírt pályázat elnyerése a szolgálat érdekével egybeesik.
