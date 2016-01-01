@@ -14,15 +14,25 @@
 
 | 1.6. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés. | Annak elbírálása, hogy az Időszakos Biztonsági Jelentésnek a nukleáris létesítmény által a környezetben keltett hatásoknak vizsgálata vonatkozásában a hosszú távú környezeti tendenciák bemutatását, továbbá a környezeti sugárzás ellenőrző rendszer és program megfelelőségét, valamint a környezetnek a létesítmény üzemeltetéséből adódó sugárterhelését, a környezet-ellenőrző rendszer mért adatainak elemzését, az eredmények értékelését, a környezeti sugárzás-ellenőrző rendszer és a környezet-ellenőrzési program megfelelőségének értékelését tartalmazó részek megfelelnek-e a külön jogszabályban meghatározott vízvédelmi követelményeknek. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | Környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
 
-| 2.1. | A nukleáris létesítmény létesítési eljárásában. | A lakosságnak és az üzemeltető személyzetnek a nukleáris létesítmény üzemeltetéséből adódó sugárterheléssel szembeni védelme sugár-egészségügyi és sugárvédelmi követelményeinek való megfelelés. | a) létesítési engedély, b) leszerelési engedély | Állami Népegészség- ügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 2.1. |  |  |  |  |
 
-| 2.2. | A nukleáris létesítmény építményeire vonatkozó eljárásokban. | A közegészségügyi követelményeknek való megfelelés. | építési (bontási) és használatbavételi engedély | Területileg illetékes egészségügyi államigazga- tási szerv |
+| 2.2. |  |  |  |  |
 
-| 2.3. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés. | A sugár-egészségügyi, sugárvédelmi követelményeknek való megfelelés, annak feltételei. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | Állami Népegészség- ügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 2.3. |  |  |  |  |
 
-| 2.4. | A radioaktív hulladékoknak és kiégett fűtőelemeknek a Magyarország országhatárán át történő szállításának engedélyezésére irányuló eljárásában. | Annak elbírálása, hogy a nukleáris és más radioaktív anyagok, valamint a radioaktív hulladékok szállításakor a sugár-egészségügy és a sugárvédelem követelményei teljesülnek-e. | szállítás engedélyezése | Állami Népegészség- ügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 2.4. |  |  |  |  |
 
-| 2.5. | A nukleáris létesítmények biztonsági övezetének kijelölésére irányuló eljárásában. | Annak elbírálása, hogy a nukleáris létesítmény biztonsági övezete határának kijelölésével a sugár- egészségügy és sugárvédelem követelményei teljesülnek-e. | biztonsági övezet kijelölése | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 2.5. |  |  |  |  |
+
+| 2.6. | Kiemelt létesítmények esetén. | Kiemelt létesítmények üzemeltetéséből adódó lakossági dózismegszorítás sugár-egészségügyi vizsgálata. | lakossági dózismegszorítás jóváhagyása | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+
+| 2.7. | Kiemelt létesítmények esetén. | Az üzemeltető személyzetnek a kiemelt létesítmény üzemeltetéséből adódó sugárterheléssel szembeni védelme sugár-egészségügyi követelményeinek való megfelelés vizsgálata. | létesítményi MSSZ jóváhagyása | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+
+| 2.8. | Minden esetben. | Az éves effektívdózis-korlát meghaladásának sugár-egészségügyi követelményeknek való megfelelés vizsgálata. | éves effektívdózis-korlát meghaladásának jóváhagyása | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+
+| 2.9 | Minden esetben. | A radioaktív anyagot tartalmazó fogyasztási cikk előállításának, forgalomba hozatalának és felhasználásának sugár-egészségügyi követelményeknek való megfelelés vizsgálata. | fogyasztási cikk előállításának, forgalomba hozatalának, felhasználásának engedélyezése, amelynek rendeltetésszerű használatára az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet hatálya kiterjed | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+
+| 2.10. | Tartós maradékszennyezettségű területeken. | A tartós szennyezettség fennállása sugáregészségügyi következményeinek vizsgálata. | radioaktívan szennyezett terület kezelésének,, az életvitelszerű tartózkodásnak, a társadalmi és gazdasági tevékenység folytatásának egedélyezése | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
 
 | 3.1. | A nukleáris létesítmény telephelyének vizsgálatára és értékelésére, telephelye jellemzőinek és alkalmasságának megállapítására, a nukleáris létesítmény létesítésére, végleges leállítására irányuló eljárásban. | A nukleáris létesítmény telephelyének vizsgálatára és értékelésére, a telephelye jellemzőinek és alkalmasságának megállapítására, valamint tervezésére vonatkozó, földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A nukleáris létesítmény építése során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. Nukleáris létesítmény végleges leállítása esetén a földtani és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | a) telephely vizsgálati és értékelési engedély, b) telephely engedély, c) létesítési engedély, d) végleges leállítási engedély | bányafelügyeleti hatáskörben eljáró megyei kormányhivatal |
 
@@ -46,11 +56,11 @@
 
 | 6.2. | Az atomenergiáról szóló törvény szerinti balesetelhárítási és intézkedési terv. | A terv katasztrófa- és polgári védelmi vizsgálata a veszélyhelyzet megelőzése, következmények elhárítása vagy enyhítése, a hatékony beavatkozás személyi és tárgyi feltételeinek megléte, biztosítása tekintetében. | balesetelhárítási és intézkedési terv engedélyezése | Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6.3. | A radioaktív anyagok 14/1997. (IX. 3.) KHVM rendelet szerinti szállításának balesetelhárítási intézkedési terve. | A terv katasztrófa- és polgári védelmi vizsgálata a veszélyhelyzet megelőzése, következmények elhárítása vagy enyhítése, a hatékony beavatkozás személyi és tárgyi feltételeinek megléte, biztosítása tekintetében. | balesetelhárítási és intézkedési terv jóváhagyása | Országos Katasztrófavédelmi Főigazgatóság területi szervei |
+| 6.3. | A radioaktív anyagok 51/2013. (IX. 6.) NFM rendelet szerinti szállításának balesetelhárítási intézkedési terve. | A terv katasztrófa- és polgári védelmi vizsgálata a veszélyhelyzet megelőzése, következmények elhárítása vagy enyhítése, a hatékony beavatkozás személyi és tárgyi feltételeinek megléte, biztosítása tekintetében. | balesetelhárítási és intézkedési terv jóváhagyása | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 6.4. | Ha a nukleáris létesítmény telepítése, létesítése termőföldön valósul meg. | Termőföld mennyiségi védelme követelményeinek kérdésében. | létesítési engedély | földügyért felelős miniszter |
 
-2. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^22]
+2. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^25]
 
 Az OAH radioaktívhulladék-tárolókhoz kapcsolódó hatósági eljárásaiban közreműködő szakhatóságok
 
@@ -62,15 +72,15 @@ Az OAH radioaktívhulladék-tárolókhoz kapcsolódó hatósági eljárásaiban 
 
 | 3. | Radioaktívhulladék-tároló létesítmény esetében, ha az engedélyezett tevékenység megváltoztathatja a létesítmény vonatkozásában a kibocsátásokat, a kibocsátási határértékeket, a kibocsátási határértékek számításául szolgáló adatokat, a kibocsátások ellenőrzését, a környezetellenőrzést, a hőterhelést; a kibocsátásra kerülő radioaktív izotópok, illetve radioaktív anyagok vonatkozásában megváltoztatja a keletkezés helyét, módját, a keletkező aktivitásokat, a kibocsátás módját, útvonalát, a kibocsátott radioaktív anyag aktivitását, aktivitás-koncentrációját, fizikai-kémiai jellemzőit, a kibocsátás időbeli alakulását, a kibocsátás tömeg- és térfogatáramát vagy a tervezett kibocsátási szinteket és az üzemeltetési engedély megváltoztatásával jár. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a levegő radioaktív szennyezés elleni védelmének, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi és természetvédelmi felügyelőség részére adandó jelentések rendszerének a meghatározása. | radioaktívhulladék-tároló létesítmény átalakításának engedélyezése | természetvédelmi hatáskörében eljáró Baranya Megye Kormányhivatal |
 
-| 4. | Radioaktívhulladék-tároló létesítmény esetében. | A lakosságnak és az üzemeltető személyzetnek a nukleáris létesítmény üzemeltetéséből adódó sugárterheléssel szembeni védelme sugár-egészségügyi és sugárvédelmi követelményeinek való megfelelés. | a) telepítési engedély, b) létesítési engedély, c) üzemeltetési engedély d) átalakítási engedély e) lezárási engedély | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 4. |  |  |  |  |
 
-| 5. | A radioaktívhulladék-tároló létesítmény átalakítása esetén, ha annak közegészségügyi vonatkozása is van. | A közegészségügyi jogszabályokban meghatározott követelményeknek való megfelelés. | radioaktívhulladék-tároló létesítmény átalakításának engedélyezése | Területileg illetékes egészségügyi államigazgatási szerv |
+| 5. |  |  |  |  |
 
-| 6. | A 155/2014. (VI. 30.) Korm. rendelet szerinti Időszakos Biztonsági Jelentés. | A sugár-egészségügyi, sugárvédelmi követelményeknek való megfelelés, annak feltételei. | Időszakos Biztonsági Jelentés hatósági felülvizsgálata | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 6. |  |  |  |  |
 
-| 7. | A radioaktívhulladék-tároló létesítmény építményeire vonatkozó eljárásokban, ha annak közegészségügyi vonatkozása is van. | A közegészségügyi jogszabályokban meghatározott követelményeknek való megfelelés. | építési (bontási) és használatbavételi engedély | Területileg illetékes egészségügyi államigazgatási szerv |
+| 7. |  |  |  |  |
 
-| 8. | A radioaktívhulladék-tároló létesítmények biztonsági övezetének kijelölésére irányuló eljárásában. | Annak elbírálása, hogy a nukleáris létesítmény biztonsági övezete határának kijelölésével a sugáregészségügy és sugárvédelem követelményei teljesülnek-e. | biztonsági övezet kijelölése | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 8. |  |  |  |  |
 
 | 9. | A radioaktívhulladék-tároló létesítmény esetén. | A radioaktívhulladék-tároló létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A radioaktívhulladék-tároló létesítmények építése során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. | a) telephely kutatási keretprogram engedély, b) (fázisonkénti) telephelykutatási engedély c) telepítési engedély d) létesítési engedély, e) üzemeltetési engedély, f) lezárási engedély | bányafelügyeleti hatáskörben eljáró megyei kormányhivatal |
 
@@ -94,4 +104,4 @@ Az OAH radioaktívhulladék-tárolókhoz kapcsolódó hatósági eljárásaiban 
 
 | 19. | Radioaktívhulladék-tároló létesítmény telepítése, létesítése termőföldön. | Termőföld mennyiségi védelme követelményeinek kérdésében. | telepítési engedély | ingatlanügyi hatáskörben eljáró járási (fővárosi kerületi) hivatal; több, ingatlanügyi hatáskörben eljáró járási hivatal illetékességi területét érintő esetben az ingatlanügyi hatáskörben eljáró fővárosi és megyei kormányhivatal |
 
-[^22]: A 2. mellékletet a 156/2014. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 33. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 175. § (3)–(5) bekezdése szerint módosított szöveg.
+[^25]: A 2. mellékletet a 156/2014. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 33. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 175. § (3)–(5) bekezdése, a 488/2015. (XII. 30.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.

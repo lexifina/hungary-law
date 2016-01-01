@@ -1,4 +1,4 @@
-5/B. §[^14] (1) A szakhatóság eljárására irányadó ügyintézési határidő a radioaktívhulladék-tárolók és radioaktív hulladék átmeneti tárolók (a továbbiakban: radioaktívhulladék-tárolók) tekintetében
+5/B. §[^16] (1) A szakhatóság eljárására irányadó ügyintézési határidő a radioaktívhulladék-tárolók és radioaktív hulladék átmeneti tárolók (a továbbiakban: radioaktívhulladék-tárolók) tekintetében
 
 a) negyvenöt nap
 
@@ -20,4 +20,4 @@ be) a radioaktívhulladék-tárolók nukleárisbaleset-elhárítási intézkedé
 
 (2) A szakhatóság vezetője indokolt esetben a szakhatósági eljárásra irányadó ügyintézési határidőt egy alkalommal, tíz nappal meghosszabbíthatja. Az ügyintézési határidő meghosszabbításáról a szakhatóság értesíti az ügyfelet és az OAH-t.
 
-[^14]: Az 5/B. §-t a 156/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^16]: Az 5/B. §-t a 156/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be.
