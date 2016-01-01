@@ -32,7 +32,7 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 
 (4) A követelés érvényesítésére külön végzés nélkül – a harmadik személyeknek a fémkereskedelmi tevékenység során okozott kár tekintetében jogerős bírósági ítélet alapján, ennek hiányában az engedélyes által írásban elismert kárösszeg erejéig – a fémkereskedelmi hatóság jogosult. A tevékenységi biztosítékot annak részben vagy egészben történő felhasználása esetén a fémkereskedő – a fémkereskedelmi hatóság erre vonatkozó felhívásának kézhezvételétől számított 15 napon belül – az engedélyben meghatározott összegig kiegészíteni köteles.
 
-(5) Az engedélykérelemhez csatolni kell az előírt feltételek teljesítését igazoló, közigazgatási hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara nyilvántartásában nem szereplő eredeti okmányokat, iratokat, nyilatkozatokat, dokumentációkat vagy azok hitelesített másolatát.
+(5) Az engedélykérelemhez a fémkereskedelmi tevékenységről szóló kormányrendeletben meghatározottak szerint csatolni kell az előírt feltételek teljesítését igazoló közigazgatási hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara nyilvántartásában nem szereplő eredeti okmányokat, iratokat, nyilatkozatokat, dokumentációkat vagy azok hitelesített másolatát.
 
 (6) Ha az engedélykérelem az e törvényben foglaltaknak megfelel, a fémkereskedelmi hatóság az engedélyt a tevékenységi biztosíték nyújtásának igazolását követő tíz munkanapon belül kiadja.
 

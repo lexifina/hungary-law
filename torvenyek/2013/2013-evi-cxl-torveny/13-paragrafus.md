@@ -28,4 +28,4 @@ b) az elkobzott fémkereskedelmi engedélyköteles anyagok, eszközök árverés
 
 c) minden egyéb költség, amely az adott fémkereskedelmi jogsértési eljárással összefüggésben a fémkereskedelmi hatóságnál mint kiadás merült fel, és amelynek kiadásként történő elszámolását jogszabály nem tiltja.
 
-(13) Az értékesítésből, illetve a költségtérítés címén befolyt bevételeket a Nemzeti Adó- és Vámhivatal illetékes regionális vám- és pénzügyőri főigazgatósága előirányzat-felhasználási keretszámlájára kell megfizetni.
+(13) Az értékesítésből, illetve a költségtérítés címén befolyt bevételeket a Nemzeti Adó- és Vámhivatal fizetési számlájára kell megfizetni.

@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-140-00-00
 | 2014-03-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-140-00-00.3 |
 | 2014-03-02 | 2010. évi CXXX. törvény | 2013-140-00-00.4 |
 | 2015-11-28 | 2015. évi CLXXXVII. törvény | 2013-140-00-00.5 |
+| 2016-01-01 | 2015. évi CXCI. törvény | 2013-140-00-00.6 |
