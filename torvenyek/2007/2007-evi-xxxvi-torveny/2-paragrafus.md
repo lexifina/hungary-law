@@ -6,4 +6,4 @@ b) a pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtá
 
 (2) Eljárási jogsegély valamennyi szabálysértési eljárásban előterjeszthető, illetve teljesíthető.
 
-(3) Pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átadására a mellékletben meghatározott szabálysértések miatt hozott határozatok esetén kerülhet sor.
+(3)
