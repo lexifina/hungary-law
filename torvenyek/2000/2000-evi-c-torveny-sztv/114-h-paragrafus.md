@@ -1,0 +1,7 @@
+## Egyéb speciális rendelkezések
+
+114/H. § (1) Az IFRS-ek szerinti éves beszámolót készítő pénzügyi intézmény és befektetési vállalkozás minden hónap utolsó napjára vonatkozóan, továbbá a biztosító minden negyedév utolsó napjára vonatkozóan – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank részére készített évközi jelentések (adatszolgáltatások) elkészítése céljából – köteles eszköz- és forrásszámláit, valamint költség- és eredményszámláit lezárni, azok egyenlegét megállapítani, főkönyvi kivonatot, továbbá a 0. Nyilvántartási számlák számlaosztályban kimutatott mérlegen kívüli tételekről összesítést készíteni, valamint biztosítani, hogy a kapcsolódó analitikus nyilvántartások rendelkezésre álljanak.
+
+(2) Az IFRS-ek szerinti éves beszámolót készítő hitelintézet és a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a devizaeszközeit és a devizakötelezettségeit a Magyar Nemzeti Bank által közzétett, a hónap utolsó napján és az év utolsó napján érvényes hivatalos devizaárfolyamon köteles értékelni minden hónap utolsó napján és a mérlegfordulónapi értékelés során.
+
+(3) Az IFRS-ek szerinti éves beszámolót készítő pénzügyi vállalkozás és biztosító a devizaeszközeit és a devizakötelezettségeit a Magyar Nemzeti Bank által közzétett, a negyedév utolsó napján és az év utolsó napján érvényes hivatalos devizaárfolyamon köteles értékelni minden negyedév utolsó napján és a mérlegfordulónapi értékelés során.

@@ -7,3 +7,5 @@
 (4) A gazdálkodónak a könyvvezetés és a beszámolókészítés során alkalmaznia kell a külön rendelettel kihirdetett, hatályos magyar számviteli standardokat.
 
 (5) A mikrogazdálkodói egyszerűsített éves beszámoló készítésének sajátosságait e törvény alapján kormányrendelet szabályozza.
+
+(6) Az (1)–(2) bekezdés szerinti kormányrendeletek előírásait az éves beszámolóját az IFRS-ek szerint összeállító gazdálkodónak nem kell alkalmaznia.

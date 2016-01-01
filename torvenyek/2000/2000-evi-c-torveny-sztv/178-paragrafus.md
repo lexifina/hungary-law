@@ -4,7 +4,7 @@
 
 a) az államháztartás szervezetei beszámoló készítését, könyvvezetési kötelezettségét, a beszámolás és a könyvvezetés során érvényesítendő sajátos fogalmi meghatározásokat, figyelemmel az államháztartásról szóló törvényben foglaltakra;
 
-b) a Magyar Nemzeti Bank, a hitelintézetek, a pénzügyi vállalkozások, a befektetési vállalkozások, a biztosítók (ideértve a viszontbiztosítókat is), a tőzsde, az elszámolóházi tevékenységet végző szervezet, a befektetési alapok, az egyéb alapok, a foglalkoztatói nyugdíjszolgáltató intézmények éves beszámoló készítésének és könyvvezetésének sajátosságait a Magyar Nemzeti Bank előzetes véleményének kikérésével;
+b) a Magyar Nemzeti Bank, a hitelintézetek, a pénzügyi vállalkozások, a befektetési vállalkozások, a biztosítók (ideértve a viszontbiztosítókat is), a tőzsde, a központi értéktári, a központi szerződő fél tevékenységet végző szervezet, a befektetési alapok, az egyéb alapok, a foglalkoztatói nyugdíjszolgáltató intézmények éves beszámoló készítésének és könyvvezetésének sajátosságait a Magyar Nemzeti Bank előzetes véleményének kikérésével;
 
 c) a 3. § (1) bekezdésének 4. pontja szerinti – a b) pont alá nem tartozó – egyéb szervezetek beszámoló készítésének és könyvvezetésének sajátosságait;
 

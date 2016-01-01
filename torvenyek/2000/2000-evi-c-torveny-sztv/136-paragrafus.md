@@ -36,6 +36,6 @@ b) különválás esetében a különválással létrejövő gazdasági társas�
 
 (8) A (4) bekezdés a) pontja szerinti könyv szerinti értéket az átalakuló gazdasági társaság e törvény szerinti beszámolója mérlegére vonatkozó előírásoknak megfelelően kell meghatározni, azzal, hogy a vagyonmérlegben az értékhelyesbítés és az értékhelyesbítés értékelési tartaléka, valamint az értékelési különbözet és a valós értékelés értékelési tartaléka nem szerepelhet, továbbá az adózott eredményt az eredménytartalékba át kell vezetni.
 
-(9) A vagyonmérleget (mind a vagyonmérleg-tervezetet, mind a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (mind a vagyonleltár-tervezetet, mind a végleges vagyonleltárt) könyvvizsgálóval kell ellenőriztetni. Az átalakulás számviteli bizonylata a könyvvizsgáló által hitelesített vagyonmérleg.
+(9) A vagyonmérleget (mind a vagyonmérleg-tervezetet, mind a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (mind a vagyonleltár-tervezetet, mind a végleges vagyonleltárt) könyvvizsgálóval kell ellenőriztetni. A könyvvizsgálat célja annak megállapítása, hogy a vagyonmérleg-tervezetet és vagyonmérleget, valamint az azt alátámasztó vagyonleltár-tervezetet és vagyonleltárt a 136–143. § szerint állították-e össze. Az átalakulás számviteli bizonylata a könyvvizsgáló által hitelesített vagyonmérleg.
 
 (10) Beolvadásos kiválás és beolvadásos különválás esetén a vagyonmérlegek (az azokat alátámasztó vagyonleltárak) elkészítése során a kiválás és a különválás szabályai mellett a beolvadás szabályait is megfelelően alkalmazni kell.

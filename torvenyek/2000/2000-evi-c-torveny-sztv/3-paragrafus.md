@@ -32,7 +32,7 @@ j) a víziközmű társulat,
 
 k) a befektetési alap, az egyéb alapok,
 
-l) a tőzsde, az elszámolóházi tevékenységet végző szervezet,
+l) a tőzsde, a központi értéktári, a központi szerződő fél tevékenységet végző szervezet,
 
 m) a magánnyugdíjpénztár,
 
@@ -164,7 +164,7 @@ A behajthatatlanság tényét és mértékét bizonyítani kell.
 
 (8) E törvény alkalmazásában
 
-1. tőzsde, tőzsdei határidős, opciós és azonnali ügylet, elszámolóház, elszámolóházi tevékenységet végző szervezet, központi értékpapírszámla, értékpapírszámla, ügyfélszámla, dematerializált értékpapír, másodlagos értékpapír, értékpapír kölcsönzés: a tőkepiacról szóló törvényben meghatározott fogalom;
+1. tőzsde, tőzsdei határidős, opciós és azonnali ügylet, elszámolóház, központi értéktár, központi szerződő fél, központi értéktári tevékenység, központi szerződő fél tevékenység, központi értékpapírszámla, értékpapírszámla, ügyfélszámla, dematerializált értékpapír, másodlagos értékpapír, értékpapír kölcsönzés: a tőkepiacról szóló törvényben meghatározott fogalom;
 
 2. repó-, fordított repóügylet: minden olyan megállapodás, amely értékpapír tulajdonjogának átruházásáról rendelkezik a szerződéskötéssel egyidejűleg meghatározott vagy meghatározandó jövőbeli időpontban történő visszavásárlási kötelezettség mellett, meghatározott visszavásárlási áron, függetlenül attól, hogy az ügylet futamideje alatt a vevő az ügylet tárgyát képező értékpapírt megszerzi és azzal szabadon rendelkezhet (szállításos repóügylet) vagy nem szerzi meg az értékpapírt, azzal szabadon nem rendelkezhet, hanem óvadékként kerül elhelyezésre a vevő javára a futamidő alatt (óvadéki repóügylet). Az óvadéki repóügylet a valódi penziós ügyletek szabályai szerint, a szállításos repóügylet a nem valódi penziós ügyletek szabályai szerint kerül elszámolásra, melynek során értelemszerűen alkalmazhatók a törvény felhatalmazása alapján kiadott, a hitelintézetek és a pénzügyi vállalkozások éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet ezen ügyletekre vonatkozó előírásai;
 
@@ -286,9 +286,13 @@ d) a fedezeti ügylet lejárati ideje ugyanolyan vagy legfeljebb olyan hosszú, 
 
 A fedezeti hatékonyság mérésének (vizsgálatának) módszerét és időpontjait a kockázatkezelési és fedezeti politikával összhangban a számviteli politika részeként rögzíteni kell.
 
-(10) E törvény alkalmazásában
+(10) E törvény alkalmazásában:
 
-nemzetközi számviteli standardok: a Nemzetközi Számviteli Standardok Testülete [International Accounting Standards Board (IASB)] által elfogadott vagy kibocsátott Nemzetközi Számviteli Standardok [International Accounting Standards (IAS)], Nemzetközi Pénzügyi Beszámolási Standardok [International Financial Reporting Standards (IFRS)] és a kapcsolódó Értelmezések (SIC, IFRIC interpretations), ezen standardok módosításai és az azokhoz kapcsolódó értelmezések.
+1. nemzetközi számviteli standardok: a Nemzetközi Számviteli Standardok Testülete [International Accounting Standards Board (IASB)] által elfogadott vagy kibocsátott Keretelvek (Framework for the Preparation and Presentation of Financial Statements), Nemzetközi Számviteli Standardok [International Accounting Standards (IAS)], Nemzetközi Pénzügyi Beszámolási Standardok [International Financial Reporting Standards (IFRS)], és a kapcsolódó Értelmezések (SIC, IFRIC interpretations), ezen standardok módosításai és az azokhoz kapcsolódó értelmezések.
+
+2. IFRS-ek: a nemzetközi számviteli standardok alkalmazásáról szóló, 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendeletben foglalt eljárás alapján az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardok.
+
+3. kisebb méretű hitelintézet: az a hitelintézet, amelynek a 2015. évben induló üzleti évről készített, könyvvizsgáló által felülvizsgált éves beszámolója mérlegének mérlegfőösszege nem éri el az 5 milliárd forintot, kivéve a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján összevont alapú felügyelet alá tartozó csoportba tartozó hitelintézetet.
 
 (11) E törvény exportra, importra vonatkozó rendelkezéseinek alkalmazásában:
 

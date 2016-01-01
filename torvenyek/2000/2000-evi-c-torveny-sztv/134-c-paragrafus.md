@@ -14,7 +14,7 @@ b) közérdeklődésre számot tartó gazdálkodónak minősül.
 
 (3) Az (1) bekezdés alkalmazásában bármely anyavállalat nyersanyag-kitermelő iparágban működő vagy természetes erdők fakitermelésével foglalkozó anyavállalatnak minősül, ha bármely leányvállalata a nyersanyag-kitermelő iparágban működik vagy a természetes erdők fakitermelésével foglalkozik. Az ilyen anyavállalatnak az (1) bekezdés szerinti jelentésében csak a kitermelési tevékenységével, illetve a természetes erdők fakitermelési tevékenységével összefüggő összegeket kell bemutatnia.
 
-(4) Mentesül az (1) bekezdés szerinti kötelezettség alól az az anyavállalatnak minősülő vállalkozás, amelynek összevont (konszolidált) adatai két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő meghaladja az alábbi határértéket:
+(4) Mentesül az (1) bekezdés szerinti kötelezettség alól az az anyavállalatnak minősülő vállalkozás, amelynek összevont (konszolidált) adatai két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
 a) a mérlegfőösszeg a 6000 millió forintot,
 

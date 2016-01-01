@@ -26,7 +26,7 @@ c)
 
 d) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) követelésnek az engedményes által elismert értékét a követelés átruházásakor;
 
-e) az immateriális jószág, a tárgyi eszköz közvetlen értékesítéséből, továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdésének a) és c) pontja szerinti jogcímen történő átadásából származó bevételt az értékesítéskor, az átadáskor;
+e) az immateriális jószág, a tárgyi eszköz értékesítéséből (ide értve azt is, ha az immateriális jószág, a tárgyi eszköz a mérlegben, a könyvekben nincs kimutatva), továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdésének a) és c) pontja szerinti jogcímen történő átadásából származó bevételt az értékesítéskor, az átadáskor;
 
 f) a biztosító által fizetett, illetve a mérlegkészítés időpontjáig elfogadott, visszaigazolt – tárgyévi, illetve a tárgyévet megelőző üzleti évi káreseményhez kapcsolódó – összeget;
 

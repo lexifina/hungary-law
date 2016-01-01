@@ -46,11 +46,11 @@ j) az anyavállalat vagy a konszolidálásba bevont más vállalkozás által ka
 
 (6) Az összevont (konszolidált) kiegészítő melléklet készítése során nem kötelező alkalmazni a 91. § b) és c) pontjában, a 92. § (2) bekezdésében rögzített előírásokat.
 
-(7) Az összevont (konszolidált) éves beszámolót a 10. § (2)–(3) bekezdése alapján a nemzetközi számviteli standardok szerint készítő vállalkozó köteles az összevont (konszolidált) éves beszámoló
+(7) Az összevont (konszolidált) éves beszámolót a 10. § (2)–(3) bekezdése alapján az IFRS-ek szerint készítő vállalkozó köteles az összevont (konszolidált) éves beszámoló
 
-a) kiegészítő mellékletében bemutatni a nemzetközi számviteli standardok alkalmazásának első üzleti évében a bázis évi összevont (konszolidált) éves beszámoló adatainak a nemzetközi számviteli standardok szerinti mérlegbe és eredménykimutatásba való átrendezését, valamint annak az eredményre gyakorolt hatását;
+a) kiegészítő mellékletében bemutatni az IFRS-ek alkalmazásának első üzleti évében a bázis évi összevont (konszolidált) éves beszámoló adatainak az IFRS-ek szerinti mérlegbe és eredménykimutatásba való átrendezését, valamint annak az eredményre gyakorolt hatását;
 
-b) kiegészítő mellékletében vagy az összevont (konszolidált) éves beszámoló önálló részeként bemutatni számviteli politikájának a nemzetközi számviteli standardok szerint készített összevont (konszolidált) éves beszámolójára vonatkozó főbb szabályait, így különösen:
+b) kiegészítő mellékletében vagy az összevont (konszolidált) éves beszámoló önálló részeként bemutatni számviteli politikájának az IFRS-ek szerint készített összevont (konszolidált) éves beszámolójára vonatkozó főbb szabályait, így különösen:
 
 ba) az összevont (konszolidált) éves beszámoló részeit,
 
@@ -62,6 +62,6 @@ bd) az alkalmazott konszolidációs módszereket,
 
 be) az alkalmazott értékelési eljárásokat és azok feltételeit,
 
-bf) a nemzetközi számviteli standardok által adott választási lehetőségek közül alkalmazott szabályokat,
+bf) az IFRS-ek által adott választási lehetőségek közül alkalmazott szabályokat,
 
 bg) a konszolidációnál alkalmazott mentesítéseket.

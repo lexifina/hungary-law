@@ -1,6 +1,6 @@
 158. § (1)–(4)
 
-(5) Amennyiben az összevont (konszolidált) éves beszámolót a 10. § (2) vagy (3) bekezdése alapján, a nemzetközi számviteli standardoknak megfelelően állították össze, úgy erre a könyvvizsgálói záradékban is megfelelően utalni kell.
+(5) Amennyiben az éves beszámolót, az összevont (konszolidált) éves beszámolót – a 9/A. §, valamint a 10. § (2) és (3) bekezdése alapján – az IFRS-ek szerint állították össze, úgy erre a könyvvizsgálói záradékban is megfelelően utalni kell.
 
 (6) Kötelező könyvvizsgálat esetén a könyvvizsgáló által ellenőrzött éves beszámoló, egyszerűsített éves beszámoló, összevont (konszolidált) éves beszámoló a független könyvvizsgálói jelentéssel együtt terjeszthető a legfőbb szerv (a részvénytársaság közgyűlése, a korlátolt felelősségű társaság taggyűlése) elé.
 

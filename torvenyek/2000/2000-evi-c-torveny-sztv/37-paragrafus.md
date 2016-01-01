@@ -20,7 +20,7 @@ b) a jegyzett tőke emelését a rendelkezésre álló szabad eredménytartalék
 
 c) az eredménytartalék lekötött tartalékba átvezetett összegét,
 
-d) az osztalékra, részesedésre, kamatozó részvény kamatára, továbbá az eredménytartalékot terhelő adóra igénybe vett összeget,
+d) az osztalékra, részesedésre, a kamatozó részvény kamatára (ide értve az azt terhelő adót is) felhasznált összeget,
 
 e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 
