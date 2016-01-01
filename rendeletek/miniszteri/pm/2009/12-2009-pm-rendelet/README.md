@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-12-20-5
 | 2012-01-01 | 2009-12-20-53.8 | 44/2009. (XII. 29.) PM rendelet |
 | 2013-11-08 | 2009-12-20-53.9 | 47/2013. (XI. 7.) NGM rendelet |
 | 2014-01-01 | 2009-12-20-53.10 | 44/2009. (XII. 29.) PM rendelet |
+| 2016-01-01 | 2009-12-20-53.11 | 48/2017. (XII. 29.) NGM rendelet |

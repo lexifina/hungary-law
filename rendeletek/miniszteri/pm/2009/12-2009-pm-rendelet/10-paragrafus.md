@@ -4,9 +4,9 @@
 
 (2) A (3) bekezdés 2009. október 1-jén lép hatályba.
 
-(3)–(4)[^21]
+(3)–(4)[^22]
 
-(5)[^22]
+(5)[^23]
 
-[^21]: A 10. § (3)–(4) bekezdése az (5) bekezdés alapján hatályát vesztette.
-[^22]: A 10. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^22]: A 10. § (3)–(4) bekezdése az (5) bekezdés alapján hatályát vesztette.
+[^23]: A 10. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
