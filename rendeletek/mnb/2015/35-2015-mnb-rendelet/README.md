@@ -1,0 +1,9 @@
+# 35/2015. (IX. 24.) MNB rendelet
+
+a hitelintézetek likviditásfedezeti rátájának minimum szintjéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-35-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-01-01 | 2015-35-20-2C.1 | 35/2015. (IX. 24.) MNB rendelet |
