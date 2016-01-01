@@ -35,3 +35,9 @@
 16. gazdasági akta: a 479/2008/EK tanácsi rendeletnek a szőlőkataszter, a kötelező bejelentések, a piaci felügyelethez szükséges információgyűjtés, a borászati termékek fuvarozásához szükséges kísérőokmányok, valamint a borágazatban vezetendő nyilvántartás tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2009. május 26-i 436/2009/EK rendelet I. melléklet 1. pontja szerinti adattartalmú, egy természetes személyre, jogi személyre vagy jogi személyiség nélküli szervezetre vonatkozó, azonosító számmal ellátott nyilvántartás.
 
 17. telepítési jog: olyan vagyoni értékű jog, amely az 1234/2007/EK tanácsi rendelet 85h–85i. cikke szerint új telepítési jog vagy újratelepítési jog.
+
+18. új telepítési engedély: az 1308/2013/EU rendelet 64. cikke szerinti új szőlőtelepítésekre vonatkozó telepítési engedély.
+
+19. újratelepítési engedély: az 1308/2013/EU rendelet 66. cikke szerinti engedély.
+
+20. átváltott telepítési engedély: az 1308/2013/EU rendelet 68. cikke szerint a telepítési jog átváltása alapján adott engedély.

@@ -1,5 +1,1 @@
-43/C. § (1) Azt a személyt, aki engedély nélkül végzett telepítést vagy borszőlőültetvényt engedély nélkül vágott ki (a továbbiakban: mulasztó) a növénytermesztési hatóság ötszázezer forintig terjedő mulasztási bírság megfizetésére kötelezi.
-
-(2) Amennyiben a mulasztó a 43. § (1) bekezdésében, a 43/A. § (1) bekezdésében vagy a 43/B. § (1) bekezdésében foglalt kérelem benyújtására vonatkozó felszólításnak határidőben nem tesz eleget, úgy a növénytermesztési hatóság a mulasztót ötventől – ötszázezer forintig terjedő mulasztási bírság megfizetésére, és a nem engedélyezett művelet vonatkozásában a művelési ág szerinti állapot helyreállítására kötelezi.
-
-(3) A mulasztási bírság kiszabása során figyelembe kell venni az engedély nélkül végzett művelettel érintett terület nagyságát, valamint a mulasztó által engedély nélkül végzett műveletek gyakoriságát.
+43/C. § Azt a személyt, aki borszőlőültetvényt engedély nélkül vágott ki vagy a telepítési engedélyben foglaltaktól eltérően telepített a növénytermesztési hatóság ötvenezer forint mulasztási bírság megfizetésére kötelezi.

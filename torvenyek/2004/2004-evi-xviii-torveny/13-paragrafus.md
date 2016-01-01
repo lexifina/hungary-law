@@ -10,4 +10,4 @@
 
 (7) Amennyiben az ültetvény használója kivágási kötelezettségének nem tesz eleget a hegybíró az ültetvény használójának a költségére az ültetvényt kivágattatja.
 
-(8) A kivágás után keletkezett újratelepítési jogot telepítési jogtartalékba kell helyezni.
+(8)

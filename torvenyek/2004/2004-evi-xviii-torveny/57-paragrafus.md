@@ -10,7 +10,7 @@ b) a borvidékeket és a hozzájuk tartozó települések listáját, a borrégi
 
 c) a borkészítésre alkalmas szőlőfajtákat és a borkészítésre alkalmas szőlőfajták osztályba sorolásának rendjét;
 
-d) a termelési potenciálra (újratelepítési jog, új telepítési jog, valamint telepítési jogtartalék) vonatkozó szabályokat, valamint a telepítés és kivágás engedélyezésének, utólagos engedélyezésének és ellenőrzésének eljárási rendjét;
+d) a termelési potenciálra, valamint a kivágási engedély feltételeire és az engedélyezési eljárásra vonatkozó részletes szabályokat;
 
 e) a borászati termékek, valamint a bortípusok meghatározását, az előállításukra és kezelésükre, kiszerelésükre, minősítésükre, jelölésükre, forgalomba hozatalukra és ellenőrzésükre vonatkozó előírásokat, a borászati termékek megsemmisítésének rendjét;
 
@@ -22,7 +22,7 @@ h) az adatszolgáltatás rendjét;
 
 i) a VINGIS részletes tartalmát, valamint a szőlészeti borászati szakigazgatás szerveinek a VINGIS adataihoz való hozzáférési jogosultságát;
 
-j)
+j) az új telepítés engedély, az újratelepítési engedély és az átváltott telepítési engedély feltételeire és az engedélyezési eljárásra vonatkozó részletes szabályokat;
 
 k) a pince- és borhigiéniai követelményeket, a borászati üzemek működését, illetve a borászati üzemek működésének és a borászati termékek kiszerelésének engedélyezési rendjét;
 
