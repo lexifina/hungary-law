@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2036-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-31 | 2015-2036-30-22.1 | 2036/2015. (XII. 30.) Korm. határozat |
+| 2016-01-01 | 2015-2036-30-22.2 | 1171/2023. (IV. 28.) Korm. határozat |
