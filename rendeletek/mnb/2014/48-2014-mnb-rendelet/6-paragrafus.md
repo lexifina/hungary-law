@@ -1,3 +1,0 @@
-## 5. §[^2] Az I. melléklet I. pontjában foglalt táblázatnak – a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 48/2014. (XI. 27.) MNB rendelet módosításáról szóló 4/2015. (III. 6.) MNB rendelet 1. mellékletével megállapított – 64a sorában meghatározott L70 MNB azonosító kódú adatszolgáltatást az MNB által kijelölt adatszolgáltató első alkalommal 2014. harmadik és negyedik negyedévre mint tárgyidőszakra vonatkozóan egyidejűleg teljesíti, az adatszolgáltatás teljesítési határideje: 2015. március 31.
-
-[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 4/2015. (III. 6.) MNB rendelet 1. §-a iktatta be.
