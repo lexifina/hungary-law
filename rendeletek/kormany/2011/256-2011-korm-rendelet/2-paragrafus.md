@@ -1,14 +1,12 @@
-## 2. [^15] A családok otthonteremtési kedvezménye igénybevételének feltételei
+## 2. [^20] A családok otthonteremtési kedvezménye igénybevételének feltételei
 
-2. § (1)[^16] Az e rendeletben meghatározott feltételekkel a központi költségvetésből vissza nem térítendő állami támogatás (a továbbiakban: családok otthonteremtési kedvezménye) vehető igénybe Magyarország területén,
+2. § (1)[^21] Az e rendeletben meghatározott feltételekkel a központi költségvetésből vissza nem térítendő állami támogatás (a továbbiakban: családok otthonteremtési kedvezménye) vehető igénybe Magyarország területén,
 
-a) 2008. július 1-jén vagy azt követően kiadott
+a)[^22] 2008. július 1-jén vagy azt követően kiadott
 
 aa) építési engedéllyel rendelkező új, összkomfortos lakás építéséhez, vagy
 
-ab) – a kérelem benyújtásának időpontjában – használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal rendelkező, új lakás vásárlásához,
-
-amennyiben építés esetén az általános forgalmi adó nélkül, a lakóépület nettó alapterületére számított, egy négyzetméterre jutó bekerülési költség vagy vásárlás esetén az általános forgalmi adó és telekár nélkül meghatározott, a lakás teljes nettó alapterületére számított, egy négyzetméterre jutó vételár nem haladja meg a 300 000 Ft-ot, alacsony energiafogyasztású lakás esetében a 350 000 Ft-ot,
+ab) – a kérelem benyújtásának időpontjában – használatbavételi engedéllyel vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal rendelkező, összkomfortos új lakás vásárlásához,
 
 b) legfeljebb 350 000 Ft/m2 – a lakás nettó alapterülete alapján számított – vételárú, legalább komfortos, használt lakás vásárlásához vagy
 
@@ -18,7 +16,7 @@ ca) a bővíteni kívánt lakás legalább komfortos vagy a bővítéssel egyide
 
 cb) a bővíteni kívánt lakás a kérelem benyújtásának időpontjában az igénylő és mindazon személyek lakóhelye, hontalan esetében szálláshelye, akiknek együttköltözésére tekintettel az igénylő a családok otthonteremtési kedvezményére jogosult.
 
-(1a)[^17] Az (1) bekezdés b) pontja szerinti családok otthonteremtési kedvezménye abban az esetben igényelhető, ha a családok otthonteremtési kedvezménye igénybevételével vásárolt lakás vételára nem haladja meg a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 2003. május 26-i 1059/2003/EK európai parlamenti és tanácsi rendelet által meghatározott Magyarország 1. NUTS-szintű
+(1a)[^23] Az (1) bekezdés b) pontja szerinti családok otthonteremtési kedvezménye abban az esetben igényelhető, ha a családok otthonteremtési kedvezménye igénybevételével vásárolt lakás vételára nem haladja meg a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 2003. május 26-i 1059/2003/EK európai parlamenti és tanácsi rendelet által meghatározott Magyarország 1. NUTS-szintű
 
 a) Közép-Magyarország területi egysége esetén
 
@@ -44,9 +42,11 @@ cb) városokban a 19 millió Ft-ot,
 
 cc) egyéb településeken a 16 millió Ft-ot.
 
-(1b)[^18] Egylakásos „C” (követelménynek megfelelő) energetikai minősítési osztálynál kedvezőtlenebb energetikai minősítési osztályú lakóépület az (1) bekezdés b) pontja szerinti vásárlása, vagy (1) bekezdés c) pontja szerinti bővítése esetén a családok otthonteremtési kedvezményének igényléséhez, a hitelintézet részére az igénylőnek csatolni kell a lakóépület fekvése szerinti építésfelügyeleti hatóság által kiállított, 30 napnál nem régebbi hatósági bizonyítványt arról, hogy 2013. január 1-jét követően a lakóépület életveszélyes állapota miatt kötelezés volt-e és a kötelezettség teljesítése megtörtént-e.
+(1b)[^24]
 
-(2)[^19] A családok otthonteremtési kedvezményét igényelheti:
+(1c)[^25] A lakás (1a) bekezdés szerinti vételára legfeljebb 20%-kal haladhatja meg a hitelintézet által megállapított forgalmi értéket.
+
+(2)[^26] A családok otthonteremtési kedvezményét igényelheti:
 
 a) a magyar állampolgár és az a személy, akit a magyar állampolgárságról szóló törvény alapján a magyar állampolgár jogai illetnek meg,
 
@@ -58,21 +58,15 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkezik.
 
-(3)[^20] A családok otthonteremtési kedvezményét igényelheti
+(3)[^27] A családok otthonteremtési kedvezményét igényelheti
 
-a)[^21] a (2) bekezdés szerinti személy a vele közös háztartásban élő, általa eltartott és a felépített, bővített vagy megvásárolt lakásba vele együtt beköltöző
+a) a (2) bekezdés szerinti személy a vele közös háztartásban élő, általa eltartott és a felépített, bővített vagy megvásárolt lakásba vele együtt beköltöző vér szerinti és örökbe fogadott gyermeke után, vagy
 
-aa) vér szerinti és örökbe fogadott gyermeke után, vagy
+b) a (2) bekezdés szerinti személyekből álló fiatal házaspár – a meglévő gyermekei számától függetlenül – legfeljebb két vagy a 7/B. § (1) bekezdése esetén legfeljebb három születendő gyermekvállalása esetén
 
-ab)[^22] gyámsága alatt álló, legalább egy éve vele együttélő és általa eltartott gyermek után, ha az igénylő vállalja, hogy a gyámság három éven belüli megszűnése esetén a családok otthonteremtési kedvezményét visszafizeti,
+a bekerülési költség vagy vételár megfizetéséhez.
 
-vagy
-
-b) a (2) bekezdés szerinti személyekből álló fiatal házaspár – a meglévő gyermekei számától függetlenül – legfeljebb két születendő gyermek vállalása esetén
-
-## a bekerülési költség vagy vételár megfizetéséhez.
-
-(3a)[^23] Az 1. § (1) bekezdés 4. pont a) alpontja szerinti gyermek után igényelt családok otthonteremtési kedvezménye esetén a kedvezmény igénybevételére irányuló szerződés tartalmazza a támogatott személy
+(3a)[^28] Az 1. § (1) bekezdés 4. pont a) alpontja szerinti gyermek után igényelt családok otthonteremtési kedvezménye esetén a kedvezmény igénybevételére irányuló szerződés tartalmazza a támogatott személy
 
 a) hozzájárulását ahhoz, hogy az 1. § (1) bekezdés 4. pont a) alpontja szerinti gyermek születését a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) – a családtámogatási adatbázist magában foglaló egységes szociális nyilvántartásban már rendelkezésre álló, és a hitelintézet által szolgáltatott adatokat összevetve – megállapítsa,
 
@@ -84,32 +78,32 @@ bb) a gyermek halva születése esetén annak tényét igazoló dokumentumot
 
 a gyermek születését követő legfeljebb 60 napon belül a hitelintézet részére bemutatja.
 
-(3b)[^24] Amennyiben a támogatott személy a (3a) bekezdés b) pontjában foglalt kötelezettségének nem tesz eleget, az 1. § (1) bekezdés 4. pont a) alpontja szerinti gyermek után igénybe vett családok otthonteremtési kedvezménye összegét a határidő lejártát követő 60 napon belül a hitelintézeten keresztül a Kincstár részére visszafizeti.
+(3b)[^29] Amennyiben a támogatott személy a (3a) bekezdés b) pontjában foglalt kötelezettségének nem tesz eleget, az 1. § (1) bekezdés 4. pont a) alpontja szerinti gyermek után igénybe vett családok otthonteremtési kedvezménye összegét a határidő lejártát követő 60 napon belül a hitelintézeten keresztül a Kincstár részére visszafizeti.
 
-(4)[^25] A családok otthonteremtési kedvezményét ugyanazon gyermek után csak egy alkalommal lehet igénybe venni, ideértve az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett vissza nem térítendő lakáscélú állami támogatást is.
+(4)[^30] A családok otthonteremtési kedvezményét ugyanazon gyermek után – a 7/B. § (2) bekezdés a) pontja szerinti eltéréssel – csak egy alkalommal lehet igénybe venni, ideértve az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett vissza nem térítendő lakáscélú állami támogatást vagy ezt megelőlegező kölcsönt is.
 
 (5) A gyermeket – a teljes ellátást biztosító intézetben tanuló gyermek kivételével – az igénylővel közös háztartásban élőnek kell tekinteni akkor is, ha tanulmányai folytatása miatt átmenetileg nem a támogatott személy lakásában lakik.
 
-(6)[^26] A családok otthonteremtési kedvezménye kizárólag a támogatott személy és a (3) bekezdés szerinti gyermeke lakásigényének kielégítése céljából nyújtható.
+(6)[^31] A családok otthonteremtési kedvezménye kizárólag a támogatott személy és a (3) bekezdés szerinti gyermeke lakásigényének kielégítése céljából nyújtható.
 
-(7)[^27] Az (1) bekezdés a) pont ab) alpontja és b) pontja szerinti családok otthonteremtési kedvezménye abban az esetben igényelhető, ha az eladó az igénylőnek nem közeli hozzátartozója vagy élettársa. Ha az eladó jogi személy, jogi személyiség nélküli társaság vagy egyéni vállalkozó az igénylő nem lehet vele tulajdonosi kapcsolatban álló magánszemély.
+(7)[^32] Az (1) bekezdés a) pont ab) alpontja és b) pontja szerinti családok otthonteremtési kedvezménye abban az esetben igényelhető, ha az eladó az igénylőnek nem közeli hozzátartozója vagy élettársa. Ha az eladó jogi személy, jogi személyiség nélküli társaság vagy egyéni vállalkozó az igénylő nem lehet vele tulajdonosi kapcsolatban álló magánszemély.
 
-(8)[^28] A családok otthonteremtési kedvezményével érintett lakásban az igénylőknek vagy támogatott személyeknek legalább 50%-os tulajdoni hányaddal kell rendelkezniük. Házaspár és élettársak esetén a lakásban mindkét félnek az ingatlan-nyilvántartásba bejegyzett tulajdonjoggal kell rendelkeznie. A lakásban az igénylőn vagy támogatott személyen kívül csak az általa eltartott gyermek szerezhet tulajdont.
+(8)[^33] A családok otthonteremtési kedvezményével érintett lakásban az igénylőknek vagy támogatott személyeknek legalább 50%-os tulajdoni hányaddal kell rendelkezniük. Házaspár és élettársak esetén a lakásban mindkét félnek az ingatlan-nyilvántartásba bejegyzett tulajdonjoggal kell rendelkeznie. A lakásban az igénylőn vagy támogatott személyen kívül csak az általa eltartott gyermek szerezhet tulajdont.
 
-(9)[^29] A családok otthonteremtési kedvezményének igénybevételéről szóló szerződés megkötésének feltétele, hogy – új lakás építése vagy bővítés esetén – az igénylő által benyújtott bekerülési költséget tartalmazó költségvetést a hitelintézet elfogadja.
+(9)[^34] A családok otthonteremtési kedvezményének igénybevételéről szóló szerződés megkötésének feltétele, hogy – új lakás építése vagy bővítés esetén – az igénylő által benyújtott bekerülési költséget tartalmazó költségvetést a hitelintézet elfogadja.
 
-[^15]: A 2. alcím címe a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^16]: A 2. § (1) bekezdése a 79/2015. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^17]: A 2. § (1a) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 18. § (2) bekezdése iktatta be.
-[^18]: A 2. § (1b) bekezdését a 168/2015. (VI. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^19]: A 2. § (2) bekezdés nyitó szövegrésze a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés c) pontjával megállapított szöveg.
-[^20]: A 2. § (3) bekezdés nyitó szövegrésze a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés c) pontjával megállapított szöveg.
-[^21]: A 2. § (3) bekezdés a) pont nyitó szövegrésze a 79/2015. (III. 31.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^22]: A 2. § (3) bekezdés a) pont ab) alpontja a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^23]: A 2. § (3a) bekezdését a 79/2015. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^24]: A 2. § (3b) bekezdését a 79/2015. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^25]: A 2. § (4) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg.
-[^26]: A 2. § (6) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^27]: A 2. § (7) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 19. §-ával megállapított, a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^28]: A 2. § (8) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 66. § c) pontja, a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^29]: A 2. § (9) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 18. § (5) bekezdése iktatta be.
+[^20]: A 2. alcím címe a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 2. § (1) bekezdése a 79/2015. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^22]: A 2. § (1) bekezdés a) pontja a 455/2015. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^23]: A 2. § (1a) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^24]: A 2. § (1b) bekezdését a 168/2015. (VI. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 455/2015. (XII. 29.) Korm. rendelet 18. § c) pontja.
+[^25]: A 2. § (1c) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^26]: A 2. § (2) bekezdés nyitó szövegrésze a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés c) pontjával megállapított szöveg.
+[^27]: A 2. § (3) bekezdése a 455/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^28]: A 2. § (3a) bekezdését a 79/2015. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^29]: A 2. § (3b) bekezdését a 79/2015. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^30]: A 2. § (4) bekezdése a 455/2015. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^31]: A 2. § (6) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^32]: A 2. § (7) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 19. §-ával megállapított, a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^33]: A 2. § (8) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 66. § c) pontja, a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^34]: A 2. § (9) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 18. § (5) bekezdése iktatta be.

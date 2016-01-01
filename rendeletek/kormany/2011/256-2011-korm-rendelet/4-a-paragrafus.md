@@ -1,0 +1,9 @@
+4/A. §[^76] (1) A családok otthonteremtési kedvezménye 4. § (1) és (2) bekezdése szerinti összege számításánál a gyermekek számának meghatározásához a 2. § (3) bekezdés a) pontja szerinti meglévő – ideértve a terhesség 24. hetét betöltött magzatot és ikermagzatot is – és a 2. § (3) bekezdés b) pontja szerinti vállalt gyermekeket együttesen kell figyelembe venni. Nem vehető figyelembe – kivéve, ha a 4. § (1) bekezdés c) pontja szerinti összeget igénylik – azon gyermek, aki után az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint vissza nem térítendő lakáscélú állami támogatást vagy ezt megelőlegező kölcsönt már igénybe vettek.
+
+(2) A 4. § (2) bekezdése esetén a lakás hasznos alapterülete legkisebb mértékének számításánál az igénylő által eltartott és vállalt valamennyi gyermeket figyelembe kell venni, ideértve azon gyermekeket is, akik után az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint vissza nem térítendő lakáscélú állami támogatást vagy ezt megelőlegező kölcsönt már igénybe vettek. Az e bekezdés szerint figyelembe veendő hasznos alapterületet a 4. § (2) bekezdése szerint megállapított családok otthonteremtési kedvezménye összegének számításánál nem kell figyelembe venni.
+
+(3) A 4. § (2) bekezdése esetén nem jogosult a családok otthonteremtési kedvezménye igénybevételére a támogatott személy, ha az (1) bekezdés szerint számított gyermekei száma alapján a támogatással érintett ingatlan alapterülete nem éri el az (1) bekezdés szerinti gyermekek együttes száma alapján figyelembe veendő hasznos alapterület legkisebb mértékét.
+
+(4) Használt lakás vásárlása esetén, ha 5 éven belül lakást vagy lakásban lévő tulajdoni hányadot értékesítettek, a családok otthonteremtési kedvezményének a 4. § (2) bekezdése szerinti összege nem haladhatja meg a 3. § (1) bekezdés c) pontja figyelembevételével számított vételár-különbözet mértékét.
+
+[^76]: A 4/A. §-t a 455/2015. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
