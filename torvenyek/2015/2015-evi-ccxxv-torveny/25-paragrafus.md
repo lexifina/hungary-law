@@ -2,7 +2,7 @@
 
 a–c)
 
-d)
+d) 18. § (1) bekezdésében az „A járművezetői vizsgabiztosok,” szövegrész helyébe az „A járművezetői vizsgabiztosok, a műszaki vizsgabiztosok,” szöveg,
 
 e–f)
 
@@ -10,6 +10,12 @@ g)
 
 h)
 
-i) 33/B. § (4) bekezdésében a „pótdíjjal összefüggő jármű-azonosító adatokat és a természetes személy üzemben tartó személyes adatait” szövegrész helyébe a „pótdíjjal összefüggő valamennyi adatait, különös tekintettel a jármű-azonosító adatokra és a természetes személy üzemben tartó személyes adataira” szöveg,
+i)
 
-j)–l)
+j) 44/A. § (2) bekezdés nyitó mondatában és (3) bekezdésében a „közösségi rendeletben” szövegrész helyébe az „uniós rendeletben” szöveg,
+
+k) 44/A. § (7) bekezdésében a „közösségi rendelet” szövegrész helyébe az „uniós rendelet” szöveg,
+
+l) 47. § 18.1. pontjában a „lakóhelye” szövegrész helyébe a „lakcíme” szöveg
+
+lép.
