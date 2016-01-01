@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében, a 2011. évi fejezetek közötti előirányzat-átcsoportosításokról szóló megállapodások 2012. évi hatásainak érvényesítése érdekében 235,9 millió forint átcsoportosítását rendeli el a Magyarország 2012. évi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 1. melléklet
