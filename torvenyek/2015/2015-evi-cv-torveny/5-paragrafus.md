@@ -58,7 +58,7 @@ c) az adós mint kötelezett vagyontárgyán vagy vagyoni értékű jogán bizto
 
 13. bírósági adósságrendezés időtartama: a bírósági adósságrendezés kezdő időpontjától a bírósági adósságrendezés záró időpontjáig tartó időszak, e két időpontot is beleértve,
 
-14. Családi Csődvédelmi Szolgálat: az Igazságügyi Hivatalnál és a kormányhivatalnál az e törvényben és végrehajtási rendeleteiben meghatározott feladatok ellátására felállításra kerülő szervezeti egység,
+14. Családi Csődvédelmi Szolgálat: az Igazságügyi Hivatalnál és a fővárosi és megyei kormányhivataloknál (a továbbiakban: kormányhivatal) az e törvényben és végrehajtási rendeleteiben meghatározott feladatokat ellátó szervezeti egység,
 
 15. családi vagyonfelügyelő: az adósságrendezési eljárásban közreműködő fizetésképtelenségi szakértő, aki a Családi Csődvédelmi Szolgálatot magában foglaló kormányhivatallal áll munkavégzésre irányuló tartós jogviszonyban,
 
