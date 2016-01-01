@@ -1,3 +1,0 @@
-## 20. §[^64] Ha a közreműködő idegenrendészeti hatóság, illetve a közreműködő menekültügyi hatóság eljárásában a 17. § (1) bekezdése szerint a kérelmező arcképmás-felvétele nem készíthető el, a kérelmező által csatolt fénykép hátoldalán a közreműködő hatóság feltünteti a kérelmező letelepedett jogállást igazoló okmányának, illetve a menekültkénti vagy az oltalmazottkénti elismerésről szóló hatósági határozatának számát, továbbá a fényképnek a letelepedett, illetve a menekültként vagy oltalmazottként elismert személlyel való azonosságát bélyegzőlenyomattal és aláírással igazolja.
-
-[^64]: A 20. § a 417/2012. (XII. 29.) Korm. rendelet 53. §-ával megállapított, az 56/2014. (III. 4.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
