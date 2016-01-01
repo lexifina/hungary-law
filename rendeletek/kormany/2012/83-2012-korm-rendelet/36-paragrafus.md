@@ -1,4 +1,4 @@
-36. §[^17] (1) Az EASZ olyan azonosítási szolgáltatás, amelynek keretében az azonosítási szolgáltató az azonosítást kérő szervezet számára – más, azonosítási szolgáltatónak nem minősülő, azonosítási megoldásokat biztosító szolgáltatók szolgáltatásait igénybe véve – elvégzi az azonosítást.
+36. §[^19] (1) Az EASZ olyan azonosítási szolgáltatás, amelynek keretében az azonosítási szolgáltató az azonosítást kérő szervezet számára – más, azonosítási szolgáltatónak nem minősülő, azonosítási megoldásokat biztosító szolgáltatók szolgáltatásait igénybe véve – elvégzi az azonosítást.
 
 (2) Az ügyfél rendelkezése és az elektronikus ügyintézés sajátosságai szerint az EASZ-t biztosító azonosítási szolgáltató – kivéve ha az EASZ-t a hatóság saját működési körében biztosítja – az azonosítási szolgáltatás keretében az azonosítást kérő szervezet számára
 
@@ -34,4 +34,4 @@ d) mi jelenti az ellenőrzés sikeres és sikertelen lefolytatását.
 
 (7) A (6) bekezdés alá nem tartozó esetekben az EASZ igénybevételével történő azonosítás akkor alkalmazható, ha a címzett ügyintézési rendelkezésében vagy külön nyilatkozatában az ilyen módon történő azonosításhoz hozzájárult.
 
-[^17]: A 36. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.
+[^19]: A 36. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.

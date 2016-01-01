@@ -1,4 +1,4 @@
-## 47/F. [^93] Elektronikus űrlap
+## 47/F. [^94] Elektronikus űrlap
 
 170/H. § (1) Az elektronikus űrlap SZEÜSZ keretében a SZEÜSZ szolgáltató valamely hatóság részére
 
@@ -14,4 +14,4 @@ c) a létrehozott elektronikus űrlaphoz kapcsolódó kiegészítő szolgáltat�
 
 (4) A SZEÜSZ szolgáltató köteles az (1) bekezdés a) pontja szerinti informatikai eszköz olyan mélységű dokumentációját a hatóság rendelkezésére bocsátani, amely tartalmazza az informatikai eszközzel létrehozásra kerülő elektronikus űrlapok adatszerkezetének képzési szabályait.
 
-[^93]: A 47/F. alcímet (170/H. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (18) bekezdése iktatta be.
+[^94]: A 47/F. alcímet (170/H. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (18) bekezdése iktatta be.

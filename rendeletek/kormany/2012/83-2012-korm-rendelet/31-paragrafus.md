@@ -1,4 +1,4 @@
-## 30. §[^12]
+## 30. §[^14]
 
 31. § (1) A természetes személyek összerendelési nyilvántartásából az arra jogosult személy részére az általa jogszerűen kezelt, természetes személyre vonatkozó titkosított kapcsolati kód alapján a kérelemben megjelölt nyilvántartásban szereplő ugyanazon természetes személy titkosított kapcsolati kódja szolgáltatható.
 
@@ -8,4 +8,4 @@ a) az arra jogosult személy részére az általa jogszerűen kezelt, természet
 
 b) egy egyedi azonosítóhoz tartozó más nyilvántartásban alkalmazott egyedi azonosító vagy a természetes személyazonosító adatok szolgáltatása, a természetes személy egyedi vagy az ügyintézési rendelkezések nyilvántartásában rögzített hozzájárulása alapján.
 
-[^12]: A 30. §-t a 169/2015. (VI. 30.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.
+[^14]: A 30. §-t a 169/2015. (VI. 30.) Korm. rendelet 1. § (13) bekezdése hatályon kívül helyezte.

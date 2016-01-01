@@ -32,14 +32,15 @@ e) hitelesítés-szolgáltatás,
 
 f) személyre szabott ügyintézési felület,
 
-g) ÁNYK űrlap benyújtás támogatási szolgáltatás részeként működő ügyfélkapu.
+g)[^4] törvényben meghatározott kivétellel a Kormány által kötelezően nyújtandó azonosítási szolgáltatás (a továbbiakban: KASZ).
 
-(5)[^4] A (4) bekezdés szerinti ügyfél-regisztráció elektronikus úton is megtehető
+(5)[^5] A (4) bekezdés szerinti ügyfél-regisztráció elektronikus úton is megtehető
 
-a) természetes személy ügyfél esetében, ha rendelkezik ügyfélkapuval,
+a) természetes személy ügyfél esetében, ha rendelkezik 47/A. § (3) bekezdés a) vagy c) pontja szerinti KASZ-szal,
 
-b) gazdálkodó szervezet és egyéb nem természetes személy esetében, ha az önálló képviseletre jogosult képviselője rendelkezik ügyfélkapuval,
+b) gazdálkodó szervezet és egyéb nem természetes személy esetében, ha az önálló képviseletre jogosult képviselője rendelkezik 47/A. § (3) bekezdés a) vagy c) pontja szerinti KASZ-szal,
 
 [^2]: A 3. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 657. §-ával megállapított szöveg.
 [^3]: A 3. § (4) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 30. § (1) bekezdése iktatta be.
-[^4]: A 3. § (5) bekezdését a 169/2015. (VI. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 3. § (4) bekezdés g) pontja a 414/2015. (XII. 23.) Korm. rendelet 73. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (5) bekezdését a 169/2015. (VI. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 414/2015. (XII. 23.) Korm. rendelet 73. § (2) bekezdésével megállapított szöveg.

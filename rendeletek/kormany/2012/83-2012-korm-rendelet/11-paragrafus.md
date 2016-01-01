@@ -1,4 +1,4 @@
-## 10. §[^8] A SZEÜSZ-t – az adott SZEÜSZ-re vonatkozó eltérő rendelkezés hiányában – legalább félévente a biztonsági felelős útján, évente pedig az ellenőr útján az általános szerződési feltételeknek vagy szolgáltatási szabályzatnak megfelelés szempontjából ellenőrizni kell. Az ellenőrzés tényét és eredményét jegyzőkönyvben kell rögzíteni.
+## 10. §[^9] A SZEÜSZ-t – az adott SZEÜSZ-re vonatkozó eltérő rendelkezés hiányában – legalább félévente a biztonsági felelős útján, évente pedig az ellenőr útján az általános szerződési feltételeknek vagy szolgáltatási szabályzatnak megfelelés szempontjából ellenőrizni kell. Az ellenőrzés tényét és eredményét jegyzőkönyvben kell rögzíteni.
 
 ## 7. A szolgáltatásnyújtásra vonatkozó biztonsági követelmények
 
@@ -34,7 +34,7 @@ h) mentési renddel és biztonsági mentésekkel kell rendelkeznie,
 
 i) rendelkeznie kell a rendkívüli üzemeltetési helyzetekre kidolgozott eljárásrenddel, és rendkívüli helyzetekben folyamatos üzemelést biztosító tartalékberendezésekkel.
 
-(3)[^9]
+(3)[^10]
 
-[^8]: A 10. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (20) bekezdés b) pontja szerint módosított szöveg.
-[^9]: A 11. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 662. §-a hatályon kívül helyezte.
+[^9]: A 10. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (20) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 11. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 662. §-a hatályon kívül helyezte.

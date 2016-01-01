@@ -1,1 +1,1 @@
-## és ügyfélkapu segítségével azonosítja magát.
+## és e KASZ segítségével azonosítja magát.
