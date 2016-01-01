@@ -1,0 +1,9 @@
+A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (2) bekezdés a) pontjában, valamint a szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény 40. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 23. pontjában meghatározott feladatkörömben eljárva,
+
+a 2. alcím tekintetében a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (2) bekezdés b) és c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 23. pontjában meghatározott feladatkörömben eljárva,
+
+a 3. alcím és a 2. melléklet tekintetében a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (2) bekezdés a), g) és h) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 23. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 2. és 6. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
+
+a 4. alcím tekintetében a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 434. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 4., 22. és 23. pontjában meghatározott feladatkörömben eljárva – a legfőbb ügyész véleményének kikérésével –
+
+a következőket rendelem el:

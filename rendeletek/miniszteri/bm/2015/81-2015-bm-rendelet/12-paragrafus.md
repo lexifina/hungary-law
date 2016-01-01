@@ -1,0 +1,1 @@
+## „16. § A bíróság a perújítás elrendeléséről szóló végzésében tájékoztatja az elkövetőt arról, hogy a perújításról való tudomásszerzést követő nyolc napon belül kérheti a tárgyalás tartását, és arról, hogy erre irányuló kérelem hiányában – ha a bíróság tárgyalás tartását nem tartja szükségesnek – a perújítás során tárgyalás tartása nélkül jár el.”
