@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-23-20-2
 | 2015-03-01 | 2014-23-20-2X.5 | 45/2014. (XII. 30.) NGM rendelet |
 | 2015-07-01 | 2014-23-20-2X.6 | 2010: CXXX. törvény |
 | 2015-07-02 | 2014-23-20-2X.7 | 2010: CXXX. törvény |
+| 2016-01-01 | 2014-23-20-2X.8 | 2/2015. (II. 3.) NGM rendelet |
