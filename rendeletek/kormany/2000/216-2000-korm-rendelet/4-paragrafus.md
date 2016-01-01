@@ -12,9 +12,10 @@ a) jegyzett tőkeként köteles kimutatni a kibocsátott kockázati tőkealap-je
 
 b) jegyzett, de még be nem fizetett tőkeként – negatív előjellel – köteles kimutatni a kibocsátott kockázati tőkealap-jegyek névértékének még be nem fizetett összegét.
 
-(5) A kockázati tőkealap a saját tőkén belül, tartalékként (tartalékot növelő, illetve csökkentő tételként) köteles kimutatni a tárgyévet megelőző üzleti évek mérleg szerinti eredményének összegét, továbbá a jogszabály alapján tőkejuttatásként véglegesen kapott, illetve átadott eszközök értékét és pénzeszközök összegét.
+(5)[^10] A kockázati tőkealap a saját tőkén belül, tartalékként (tartalékot növelő, illetve csökkentő tételként) köteles kimutatni a tárgyévet megelőző üzleti évek adózott eredményének összegét, továbbá a jogszabály alapján tőkejuttatásként véglegesen kapott, illetve átadott eszközök értékét és pénzeszközök összegét.
 
 [^6]: A 4. § (1) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^7]: A 4. § (2) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^8]: A 4. § (3) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^9]: A 4. § (4) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 34. §-ával megállapított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^10]: A 4. § (5) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 22. §-a szerint módosított szöveg.

@@ -18,6 +18,6 @@ b) a céltársaság – amelybe a kockázati tőkebefektetés irányult – tár
 
 c) a céltársaság jelentős és fenntartható nyereséget ér el, és a nyereségek diszkontált értéke (jelenértéke) jól mutatja a kockázati tőkebefektetés piaci értékének növekedését.
 
-(4)[^13] A (2) és (3) bekezdés alkalmazása helyett a kockázati tőkebefektetéseket a Tv. 3. §-a (9) bekezdésének 7. pontja szerinti, az értékesíthető pénzügyi eszközökre vonatkozó előírásai alkalmazásával – a Tv. 59/A. §-a (7) bekezdésének c) pontjában foglaltak figyelembevételével – valós értéken is lehet értékelni. A valós értéken történő értékelést ez esetben negyedévente végre kell hajtani, és annak során a (3) bekezdés a)–c) pontjaiban foglaltakat is figyelembe kell venni.
+(4)[^14] A (2) és (3) bekezdés alkalmazása helyett a kockázati tőkebefektetéseket a Tv. 3. §-a (9) bekezdésének 7. pontja szerinti, az értékesíthető pénzügyi eszközökre vonatkozó előírásai alkalmazásával – a Tv. 59/A. §-a (7) bekezdésének c) pontjában foglaltak figyelembevételével – valós értéken is lehet értékelni. A valós értéken történő értékelést ez esetben negyedévente végre kell hajtani, és annak során a (3) bekezdés a)–c) pontjaiban foglaltakat is figyelembe kell venni.
 
-[^13]: A 6. § (4) bekezdését a 239/2003. (XII. 17.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.
+[^14]: A 6. § (4) bekezdését a 239/2003. (XII. 17.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.

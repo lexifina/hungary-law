@@ -1,0 +1,1 @@
+## 10. § A kockázati tőkebefektetések minősítése alapján képzett céltartalék 2000. december 31-i állományát 2001. január 1-jével – a nyitó tételek könyvelését követően – az egyéb bevételekkel szemben ki kell vezetni, majd annak összegét a kockázati tőkebefektetések értékvesztéseként kell – egyedileg – elszámolni az egyéb bevételeket csökkentő tételként.
