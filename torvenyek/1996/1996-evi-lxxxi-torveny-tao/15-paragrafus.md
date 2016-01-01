@@ -24,4 +24,4 @@ b) a főtevékenységként épületépítési projekt szervezésével (TEÁOR 41
 
 ba) értékesítésének adóévi árfolyamnyereségére, és
 
-bb) nem pénzbeli vagyoni hozzájárulásként történő kivezetése következtében elszámolt bevételnek az elszámolt ráfordítást meghaladó részére.
+bb) nem pénzbeli vagyoni hozzájárulásként történő kivezetése következtében elszámolt árfolyamnyereségére.

@@ -1,4 +1,6 @@
-29/D. § (1)–(2)
+29/D. § (1) Az az adózó, amely az IFRS-eket a 2016. évben kezdődő adóévről készített beszámolójára alkalmazza először, a 18/D. § (6) bekezdése szerinti adatszolgáltatást külön nyomtatványon, elektronikus úton a számvitelről szóló törvényben meghatározott határidőben teljesíti.
+
+(2)
 
 (3) Ha az adózó a 21. § (7), (10)–(11) bekezdése, a 29. § (5) bekezdés d) pontja vagy az 1999. évi CXXV. törvény 93. §-a szerinti adókedvezményre jogosító beruházást megkezdte, akkor 2002. december 31-ig – 2002. december 1-jét követően megkezdett beruházás esetén a beruházás megkezdését követő 45 napon belül – bejelenti a miniszternek a beruházáshoz kapcsolódó, az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott adatokat. E bejelentési kötelezettség elmulasztása esetére – a 2003. évi uniós csatlakozási szerződést kihirdető törvény végrehajtása érdekében – törvény az adókedvezmény igénybevételét érintő, nem eljárási jogkövetkezményt is megállapíthat.
 

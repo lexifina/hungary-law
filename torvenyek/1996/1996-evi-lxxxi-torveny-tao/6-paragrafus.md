@@ -4,6 +4,8 @@
 
 (2) A belföldi illetőségű adózó és a külföldi vállalkozó az adózás előtti eredményt a beszámoló, ha az adóévre vonatkozó beszámoló készítésére az adóévről készítendő bevallás határidejéig nem kötelezett, könyvviteli zárlat alapján állapítja meg.
 
+(2a) Az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózó az (1)–(2) bekezdés rendelkezéseit a II/A. fejezetben foglaltak figyelembevételével alkalmazza.
+
 (3) A társasági adóalapja a szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság esetén a 15. §-ban, az ingatlannal rendelkező társaság tagja esetében a 15/A. §-ban meghatározott jövedelem.
 
 (4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
@@ -30,7 +32,7 @@ d) ha a 2. § (6) bekezdése alapján adóalany.
 
 a)
 
-b) a jogelőd tagjánál, részvényesénél – a kedvezményezett átalakulással létrejött adózóban szerzett részesedés bekerülési értékeként – az adóévben elszámolt bevétel;
+b) a jogelőd tagjánál, részvényesénél az adóévben elszámolt bevétel;
 
 c) az átruházó társaságnál kedvezményezett eszközátruházás esetén az önálló szervezeti egységének átruházása alapján az adóévben elszámolt bevétel;
 

@@ -20,9 +20,11 @@ c) biztosítónál a biztosítástechnikai eredmény növelve a nettó működé
 
 d) befektetési vállalkozásnál a befektetési szolgáltatási tevékenység bevételei növelve a nem befektetési szolgáltatási tevékenység bevételeivel, valamint a kapott kamatokkal és kamatjellegű bevételekkel, csökkentve a kamatozó értékpapírok vételárában érvényesített kamat ráfordításként elszámolt összegével,
 
-e)
+e) az a) alpontban foglaltaktól eltérően az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál a helyi adókról szóló törvény „Az éves beszámolóját az IFRS-ek szerint elkészítő vállalkozóra vonatkozó sajátos rendelkezések” című alcíme alatt meghatározott nettó árbevétel csökkentve a termeléshez, a tevékenységhez, a szolgáltatáshoz, az értékesítéshez kapcsolódó – a saját termelésű készlet költségei között el nem számolt – fogyasztási adó, jövedéki adó összegével, növelve az e törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel,
 
-4/a. behajthatatlan követelés: a számvitelről szóló törvény szerinti behajthatatlan követelés, valamint azon követelés bekerülési értékének 20 százaléka, amelyet a fizetési határidőt követő 365 napon belül nem egyenlítettek ki, kivéve, ha a követelés elévült vagy bíróság előtt nem érvényesíthető;
+f) a b)–d) alpontokban foglaltaktól eltérően az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál a helyi adókról szóló törvény „Az éves beszámolóját az IFRS-ek szerint elkészítő vállalkozóra vonatkozó sajátos rendelkezések” című alcíme alatt meghatározott nettó árbevétel;
+
+4/a. behajthatatlan követelés: az a követelés, amely megfelel a számvitelről szóló törvény szerinti behajthatatlan követelés fogalmának, valamint azon követelés bekerülési értékének 20 százaléka, amelyet a fizetési határidőt követő 365 napon belül nem egyenlítettek ki, kivéve, ha a követelés elévült vagy bíróság előtt nem érvényesíthető;
 
 5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett legalább 10 százalék mértékű, valamint minden további megszerzett részesedés (részesedés értékének a növekedése), feltéve, hogy az adózó a részesedés megszerzését (ide nem értve a részesedés értékének a növekedését) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; a 10 százalékot meghaladóan szerzett részesedés bejelentésének feltétele, hogy az adózó a legalább 10 százalékos mértékű részesedését bejelentette az adóhatósághoz; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
 
@@ -174,9 +176,9 @@ c) az egyszemélyes társaság egyedüli tagjába, részvényesébe olvad be;
 
 28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 
-28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja az adózás előtti eredmény terhére ráfordításként;
+28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott vagy az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az ennek megfeleltethető összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja az adózás előtti eredmény terhére ráfordításként;
 
-29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei és rendkívüli bevételek;
+29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek és pénzügyi műveletek bevételei, továbbá az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az adóévre vonatkozó beszámolóban az adózás előtti eredmény javára (bevételként, nyereségjellegű különbözetként) elszámolt összeg, ideértve a megszűnt tevékenységek eredmény javára elszámolt összegét is;
 
 30.
 
@@ -238,11 +240,11 @@ h) a külföldi személyt telephellyel rendelkezőnek kell tekinteni, ha fiókte
 
 36. új gazdasági tevékenység végzésére irányuló induló beruházás: az az induló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének új tevékenységgel történő kibővítését eredményezi, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
 
-37. előadó-művészeti szervezet: az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény szerint nyilvántartásba vett szervezet.
+37. előadó-művészeti szervezet: az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény szerint nyilvántartásba vett olyan szervezet, amely nem minősül az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-ában meghatározott vállalkozásnak, és nem folytat a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) 1. cikk (2) és (3) bekezdésében meghatározott tevékenységet;
 
 38.
 
-39. előadó-művészeti szervezet jegybevétele: e törvény alkalmazásában az a TESZOR 90.01. Előadóművészet, a TESZOR 93.2. Egyéb szórakoztatás, szabadidős tevékenységből a bábszínházi előadás általános forgalmi adóval csökkentett tényleges jegy- és bérletbevétele.
+39. előadó-művészeti szervezet jegybevétele: az előadó-művészeti szervezetnek a tárgyévet megelőző évben EGT tagállamban szerzett, a TESZOR 90.01. Előadó-művészet körébe sorolt tevékenységgel elért, általános forgalmi adóval csökkentett tényleges jegy- és bérletbevétele;
 
 40. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló törvényben egyéni cégként meghatározott jogalany.
 

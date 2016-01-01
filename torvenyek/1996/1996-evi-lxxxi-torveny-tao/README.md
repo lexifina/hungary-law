@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2015-10-05 | 2015. évi CXLV. törvény | 1996-81-00-00.95 |
 | 2015-11-28 | 2015. évi CLXXXVII. törvény | 1996-81-00-00.96 |
 | 2015-12-17 | 2015. évi CCXIII. törvény | 1996-81-00-00.97 |
+| 2016-01-01 | 2015. évi CLXXVIII. törvény | 1996-81-00-00.98 |

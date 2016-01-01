@@ -2,7 +2,7 @@
 
 (2) Az alapkutatás, az alkalmazott kutatás vagy a kísérleti fejlesztés közvetlen költségei között, továbbá a szoftverfejlesztő alkalmazására tekintettel 2011. december 31-ig elszámolt bérköltség után az e törvény 22. § (9)–(10) bekezdésének 2011. december 31-én hatályos szövege szerint meghatározott adókedvezmény utoljára a 2014. évi adóalap utáni adóból vehető igénybe.
 
-(3) Csökkenti a társasági adó alapját a megállapított, ki nem fizetett osztalék elengedésére tekintettel elszámolt rendkívüli bevétel összege, nem növeli az osztalékot megállapító társaság tagjánál az elengedett követelésre tekintettel elszámolt rendkívüli ráfordítás összege (kivéve, ha a követelést ellenőrzött külföldi társasággal szemben engedte el), függetlenül attól, hogy az osztalékot megállapító társasággal kapcsolt vállalkozási viszonyban áll.
+(3) Csökkenti a társasági adó alapját a megállapított, ki nem fizetett osztalék elengedésére tekintettel elszámolt bevétel összege, nem növeli az osztalékot megállapító társaság tagjánál az elengedett követelésre tekintettel elszámolt ráfordítás összege (kivéve, ha a követelést ellenőrzött külföldi társasággal szemben engedte el), függetlenül attól, hogy az osztalékot megállapító társasággal kapcsolt vállalkozási viszonyban áll.
 
 (4) A 8. § (1) bekezdés k) és 1) pontja, valamint 8. § (2) bekezdése rendelkezéseit – az eltérő üzleti évet alkalmazó adózókra is kiterjedően – a hatálybalépésüket követően értékesített (kivezetett) részesedés, illetve termőföldből átminősített ingatlan adókötelezettségére kell alkalmazni.
 
