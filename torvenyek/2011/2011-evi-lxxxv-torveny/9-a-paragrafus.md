@@ -1,18 +1,18 @@
 ## 7/A. Termékdíj raktár
 
-9/A. § (1) Termékdíj raktár üzemeltetése kérelemre annak a gazdálkodó szervezetnek, egyéni vállalkozónak engedélyezhető
+9/A. § (1) Termékdíj raktár üzemeltetése kérelemre annak a gazdálkodó szervezetnek engedélyezhető
 
-a) aki vagy amely a termékdíj raktár működésére szolgáló ingatlan jogszerű használója,
+a) amely a termékdíj raktár működésére szolgáló ingatlan jogszerű használója,
 
-b) aki vagy amely olyan nyilvántartási, bizonylati rendszert alkalmaz, amelynek alapján a felhasznált, előállított, feldolgozott, újbóli felhasználásra előkészített, raktározott termékdíjköteles termék mennyiségi számbavétele ellenőrizhető,
+b) amely olyan nyilvántartási, bizonylati rendszert alkalmaz, amelynek alapján a felhasznált, előállított, feldolgozott, alkotórészként, tartozékként más termékbe beépített, újbóli felhasználásra előkészített, raktározott termékdíjköteles termék mennyiségi számbavétele ellenőrizhető,
 
-c) akinek vagy amelynek az állami adó- és vámhatóság felé nincs meg nem fizetett vám- vagy adótartozása – kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek –, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn,
+c) amely az állami adó- és vámhatóságnál nyilvántartott vám- vagy adótartozással nem rendelkezik kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek,
 
 d) amely nem áll csőd-, felszámolási vagy végelszámolási, valamint kényszertörlési eljárás alatt,
 
 e) amely – ipari termékdíj raktár esetében – a termékdíj raktári engedély kiadásának évét követő évtől vállalja, hogy független könyvvizsgáló által hitelesített (auditált) mérleggel rendelkezik,
 
-f) aki vagy amely termékdíj ügyintéző szakképesítéssel rendelkezik vagy ilyen szakképesítéssel rendelkező ügyintézőt foglalkoztat, képviselőt alkalmaz a termékdíj raktár ügyeinek intézésére, és
+f) amely termékdíj ügyintéző szakképesítéssel rendelkezik vagy ilyen szakképesítéssel rendelkező ügyintézőt foglalkoztat, képviselőt alkalmaz a termékdíj raktár ügyeinek intézésére, és
 
 g) amelynek vezetője, vezető tisztségviselője, egyéni vállalkozó esetében az egyéni vállalkozó
 
@@ -32,7 +32,7 @@ bűncselekmény elkövetése miatt nem áll jogerős ítélet hatálya alatt vag
 
 (6) A termékdíj raktárban
 
-a) nem termékdíjköteles termék tárolása, előállítása, feldolgozása, ha az elkülönítés a nyilvántartások alapján biztosított, és
+a) nem termékdíjköteles termék tárolása, előállítása, feldolgozása, alkotórészként, tartozékként más termékbe beépítése, ha az elkülönítés a nyilvántartások alapján biztosított, és
 
 b) a termékdíjköteles termék kereskedelmi termékdíj raktárban történő, e törvény végrehajtási rendeletében meghatározott kezelése
 

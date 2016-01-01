@@ -1,6 +1,6 @@
 ## 3. A termékdíj-kötelezettség általános szabályai
 
-3. § (1) A környezetvédelmi termékdíj-fizetési kötelezettség a termékdíjköteles termék forgalomba hozatala vagy saját célú felhasználása esetén keletkezik.
+3. § (1) A környezetvédelmi termékdíj-kötelezettség a termékdíjköteles termék forgalomba hozatala, saját célú felhasználása vagy készletre vétele esetén keletkezik.
 
 (2) A termékdíj-kötelezettség
 
@@ -8,7 +8,11 @@ a) az első belföldi forgalomba hozót vagy első saját célú felhasználót,
 
 b) belföldi előállítású egyéb kőolajtermék esetében az első belföldi forgalomba hozó első vevőjét, vagy a saját célú felhasználót,
 
-c) bérgyártás esetén a bérgyártatót [a továbbiakban a)–c) pontok együtt: kötelezett]
+c) bérgyártás esetén a bérgyártatót,
+
+d) a külföldi előállítású csomagolást alkotó termékdíjköteles csomagolószer első belföldi forgalomba hozóját vagy a lebontott csomagolásból képződő csomagolási hulladék első belföldi birtokosát,
+
+e) a 6. § (1) bekezdés alapján készletre vételt végzőt [a továbbiakban a)–e) pontok együtt: kötelezett]
 
 terheli.
 
@@ -42,7 +46,7 @@ d) minden más, az a)–c) pontokban nem említett használata, ideértve a szol
 
 (3b) Nem minősül a (3) bekezdés d) pontja szerinti saját célú felhasználásnak, ha az újrahasználható raklapot a tulajdonos a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetője számára – az engedélyezett bérleti rendszer keretén belül történő használat céljából – rendelkezésre bocsátja.
 
-(4) A külföldön előállított csomagolás esetén a csomagolószer saját célú felhasználásának minősül a csomagolás végleges elválasztása a termékről, kivéve a belföldi gazdálkodó tulajdonában lévő újrahasználható csomagolószer elválasztását.
+(4) A csomagolószer saját célú felhasználásának minősül a csomagolás végleges elválasztása a terméktől – kivéve a belföldi gazdálkodó szervezet tulajdonában lévő külföldről visszahozott újrahasználható csomagolószer elválasztását –, amennyiben a csomagolást alkotó csomagolószer után a termékdíj-kötelezettség nem került korábban teljesítésre vagy a csomagolószer termékdíja visszatérítésre került.
 
 (5) Saját célú felhasználás címén keletkezik termékdíj-kötelezettség:
 

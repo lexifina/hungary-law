@@ -62,9 +62,9 @@ f) utalást arra, hogy a jegyzőkönyvben foglaltakra az ellenőrzött a törvé
 
 g) az ellenőrzést végzők aláírását.
 
-(21) Az ellenőrzési határidő kezdő napja a megbízólevél kézbesítésének, a kézbesítés mellőzése esetén a megbízólevél átadásának napja. Az ellenőrzés befejezésének határideje – beleértve az ellenőrzés megkezdésének és befejezésének napját – 60 nap. Indokolt esetben az ellenőrzést lefolytató vámszerv vezetője – az ellenőrzött személy vagy szervezet értesítésével – a határidőt egy alkalommal, 30 nappal meghosszabbíthatja.
+(21) A termékdíjköteles termékekből képződött hulladékokkal kapcsolatos ellenőrzések során a határidők tekintetében az Art. vonatkozó rendelkezései irányadóak.
 
-(22) A meghosszabbított ellenőrzési határidőt, ha a tényállás további tisztázása szükségessé teszi, a vámhatóság másodfokú szerve egyszer, legfeljebb további 30 napig terjedő időtartammal meghosszabbíthatja.
+(22)
 
 (23) Az elrendelt ellenőrzéssel összefüggésben a vámhatóság kapcsolódó vizsgálatot végezhet olyan személynél, amely az ellenőrzés alanyával közvetett vagy közvetlen kapcsolatban áll vagy állt, feltéve, hogy az elrendelt ellenőrzés tényállásának teljes körű tisztázása érdekében e vizsgálat lefolytatása szükséges. A kapcsolódó ellenőrzés határideje 60 nap. Indokolt esetben az ellenőrzést lefolytató vámszerv vezetője – az ellenőrzött személy vagy szervezet értesítésével – a határidőt egy alkalommal 30 nappal meghosszabbíthatja.
 
@@ -74,4 +74,6 @@ g) az ellenőrzést végzők aláírását.
 
 (26) Amennyiben a vámhatóság megállapítja, hogy az ellenőrzött személy vagy szervezet a támogatást jogosulatlanul vette igénybe, úgy a határozatban jogosulatlanul igénybe vett támogatás összege kétszeresének megfizetését rendeli el. A támogatási összeg kétszeresének megfizetésére a támogatást igénylő a határozat jogerőre emelkedésétől számított 15 napon belül köteles.
 
-(27) Jogosulatlanul igénybe vett támogatás esetén a vámhatóság az ellenőrzött személy vagy szervezet terhére a támogatási összeg kétszerese megfizetésének előírása mellett 100 ezer forinttól 1 millió forintig terjedő bírságot szab ki.
+(27) A vámhatóság az ellenőrzött személy vagy szervezet terhére a jogosulatlanul igénybe vett támogatási összeg kétszerese megfizetésének előírása mellett 100 ezer forinttól 1 millió forintig terjedő bírságot szab ki.
+
+(28) A (26) és (27) bekezdésben meghatározott jogkövetkezmények tekintetében fizetési könnyítés, mérséklés vagy elengedés nem alkalmazható.

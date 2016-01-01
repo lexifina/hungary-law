@@ -1,33 +1,15 @@
 ## 13. Termékdíjátalány
 
-15. § (1) E törvény II. Fejezete szerinti termékdíj-kötelezettség teljesítését e §-ban foglalt eltérésekkel kell alkalmazni.
+15. § (1) E törvény II. Fejezete szerinti termékdíj-kötelezettség teljesítését ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
-(2) A csekély mennyiségű kibocsátó, továbbá a (4) bekezdésben foglalt éves értékesítési nettó árbevétellel rendelkező, valamint a tárgyévben kötelezetté váló, 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő kötelezett termékdíjátalány fizetésére jogosult.
+(2) A
 
-(3) A csekély mennyiségű kibocsátó kötelezett termékdíj átalánya:
+a) csekély mennyiségű kibocsátó,
 
-a) akkumulátor termékáram esetén 2 000 Ft/év;
+b) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet szerinti mezőgazdasági termelő, és
 
-b) csomagolószer termékáram esetén 12 000 Ft/év;
+c) a gépjármű alkotórészeként, tartozékaként termékdíjköteles terméket belföldi forgalomba hozó, saját célra felhasználó vagy készletre vevő
 
-c) egyéb kőolajtermék termékáram esetén 4 000 Ft/év;
+kötelezett termékdíjátalány fizetésére jogosult.
 
-d) elektromos, elektronikai berendezés termékáram esetén 10 000 Ft/év;
-
-e) gumiabroncs termékáram esetén 3 000 Ft/év;
-
-f) reklámhordozó papír termékáram esetén 8 000 Ft/év;
-
-g) egyéb műanyag termék termékáram esetén 4000 Ft/év;
-
-h) egyéb vegyipari termék termékáram esetén 4000 Ft/év;
-
-i) irodai papír termékáram esetén 4000 Ft/év.
-
-(4) A tárgyévet megelőző évben legfeljebb évi tíz millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 2000 Ft/év. A tárgyévet megelőző évben évi tíz millió forintot meghaladó, azonban legfeljebb évi ötven millió forintos értékesítési nettó árbevételt elérő mezőgazdasági termelő termékdíjátalánya 7000 Ft/év, a tárgyévben kötelezetté váló mezőgazdasági termelő termékdíjátalánya 5000 Ft/év.
-
-(5) A kötelezett a termékdíjátalány-fizetési kötelezettségre vonatkozó választását – a (7) bekezdésben meghatározott kivétellel – nem változtathatja meg a tárgyéven belül.
-
-(6)
-
-(7) Ha a termékdíjátalány-fizetést választó kötelezett – a mezőgazdasági termelő kivételével – a 2. § 6. pontjában meghatározott mennyiségi határt, vagy határokat túllépte, termékdíjátalány-fizetésre már nem jogosult. A túllépés időpontját követően termékdíj-kötelezettségének az általános szabályok szerint tesz eleget.
+(3) A kötelezett a termékdíjátalány-fizetési kötelezettségre vonatkozó választását – a 15/B. § (2) bekezdésben meghatározott kivétellel – nem változtathatja meg a tárgyéven belül.

@@ -20,7 +20,7 @@ b) természetes személy esetén a termékdíjköteles termék személyes szüks
 
 c) a technológiai folyamatba visszavezetett maradék anyag vagy a selejt felhasználása esetén;
 
-d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontja szerinti termékdíj-megállapítási időszakban közvetlenül külföldre vagy ipari termékdíj raktárba visszaszállították;
+d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontját követő 365 napon belül közvetlenül külföldre vagy ipari termékdíj raktárba visszaszállították;
 
 e) az újrahasználható csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha az újrahasználható csomagolószer az e törvény végrehajtási rendeletében meghatározott újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvételre került, és a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben használják fel;
 
@@ -28,7 +28,9 @@ f) az újrahasználható csomagolószerek nyilvántartásába a felhasználó k�
 
 g) a termékdíjköteles termék nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzletben, végső úti céllal külföldre utazó utasok részére történő értékesítése esetén; vagy
 
-h) belföldön lévő termékdíjköteles termék tulajdonjogának belföldön gazdasági céllal letelepedett, vagy belföldön nyilvántartásba vett gazdálkodó részére történő átruházása esetén, ha a tulajdonjog átruházója a termékdíjköteles terméket külföldi rendeletetési helyre fuvarozásra vagy küldeményként feladja, és a termék igazolt módon külföldre kiszállításra került.
+h) belföldön lévő termékdíjköteles termék tulajdonjogának belföldön gazdasági céllal letelepedett, vagy belföldön nyilvántartásba vett gazdálkodó szervezet részére történő átruházása esetén, ha külföldi rendeletetési helyre fuvarozásra vagy küldeményként feladott termékdíjköteles termék igazolt módon külföldre kiszállításra került.
+
+(2a) A 4. § (2) bekezdés d) pontjában meghatározott feltételek teljesítésének hiányában a 366. napon saját célú felhasználással termékdíj kötelezettség keletkezik.
 
 (3) Az állami adó- és vámhatóság és a környezetvédelmi hatóság
 

@@ -29,3 +29,5 @@ h) a mintavevők aláírását és bélyegzőlenyomatát.
 (7) Az (1) bekezdés szerinti ellenőrzések során a 29/A. § (6) bekezdése, és (8)–(24) bekezdése alkalmazandó.
 
 (8) Ha a vámhatóság megállapítja, hogy az egyéni hulladékkezelést teljesítő kötelezett vagy az ennek érdekében vele szerződött hulladékkezelő által teljesített ügylet ténylegesen nem valósult meg vagy nem szabályszerűen valósult meg, úgy a kötelezett terhére 100 ezer forinttól 1 millió forintig terjedő bírságot szab ki.
+
+(9) A (8) bekezdésben meghatározott jogkövetkezmény tekintetében fizetési könnyítés, mérséklés vagy elengedés nem alkalmazható.

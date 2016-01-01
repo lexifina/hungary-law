@@ -2,7 +2,7 @@
 
 ## A TERMÉKDÍJ VISSZAIGÉNYLÉSE
 
-25. § (1) A befizetett termékdíj, az átalány-termékdíj kivételével
+25. § (1) A befizetett termékdíj, a 15/A. és 15/B. §-ban meghatározott termékdíjátalány kivételével
 
 a) a termékdíjköteles termék külföldre történő igazolt kiszállítása;
 
@@ -14,9 +14,11 @@ d) az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja m
 
 e) a termékdíjköteles termék gyártásához közvetlen anyagként (alapanyag) felhasznált termékdíjköteles termék felhasználása;
 
-f) a 4. § (2) bekezdés d) pontjában meghatározott csomagolószer termékdíj-megállapítási időszakon túli külföldre történő igazolt visszaszállítása,
+f) a 4. § (2) bekezdés d) pontjában meghatározott csomagolószer termékdíj-megállapítási időszakon túli külföldre történő igazolt visszaszállítása;
 
-g) egyéb csomagolószer esetében, annak – a továbbforgalmazás kivételével – nem csomagolás előállítására való felhasználása,
+g) egyéb csomagolószer esetében, annak – a továbbforgalmazás kivételével – nem csomagolás előállítására való felhasználása;
+
+h) a csomagolás alkotórészeként forgalomba hozott záróelem kereskedelmi csomagolószerként megfizetett termékdíja
 
 esetén visszaigényelhető.
 

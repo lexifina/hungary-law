@@ -28,6 +28,6 @@ h) az egyéb vegyipari termék;
 
 i) az irodai papír.
 
-(4) A (3) bekezdés szerinti termékdíjköteles termékek vámtarifaszámok alá osztályozott körét a 2010. január 1-jén hatályos Kombinált Nomenklatúra szerint az 1. melléklet határozza meg. A termékdíjköteles termékek az e törvény végrehajtására kiadott kormányrendeletben szereplő kódszámokkal kerülnek azonosításra.
+(4) A (3) bekezdés szerinti termékdíjköteles termékek vámtarifaszámok alá osztályozott körét az 1. melléklet határozza meg. A termékdíjköteles termékek az e törvény végrehajtására kiadott kormányrendeletben szereplő kódszámokkal kerülnek azonosításra.
 
 (5) Új termékdíjköteles termék jön létre, ha a feldolgozás, megmunkálás következtében a termék 1. mellékletben meghatározott vámtarifaszáma, az e törvény végrehajtására kiadott kormányrendeletben meghatározott környezetvédelmi termékdíjkódjának vagy csomagolószer esetében a csomagolószer-katalógus szerinti kódszámának első három jegye megváltozik.

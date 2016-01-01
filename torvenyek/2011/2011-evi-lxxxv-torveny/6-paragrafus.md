@@ -1,4 +1,4 @@
-6. § (1) A kötelezett ilyen tartalmú bejelentése esetén a tárgyévtől fennálló termékdíj-kötelezettsége a termékdíjköteles termék készletre történő felvételének napján keletkezik (a továbbiakban: készletre vétel). A készletre történő felvétel napja
+6. § (1) A kötelezett ilyen tartalmú bejelentése esetén a tárgyévtől fennálló termékdíj-kötelezettsége a termékdíjköteles termék készletre vételének napján keletkezik (a továbbiakban: készletre vétel). A készletre vétel napja
 
 a) termékbeszerzés esetén a termék beszerzéséről kiállított számlán, számlakibocsátás hiányában az ügylet teljesítését tanúsító egyéb bizonylaton feltüntetett teljesítés napja vagy ennek hiányában
 
