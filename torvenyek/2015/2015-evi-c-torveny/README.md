@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-100-00-00
 | --- | --- | --- |
 | 2015-07-04 | 2015. évi C. törvény | 2015-100-00-00.0 (közlönyállapot) |
 | 2015-07-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-100-00-00.1 |
+| 2016-01-01 | 1210/2016. (IV. 25.) Korm. határozat | 2015-100-00-00.2 |
