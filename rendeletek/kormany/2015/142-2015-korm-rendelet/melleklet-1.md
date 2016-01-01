@@ -1,4 +1,4 @@
-## 14. §[^1]
+## 14. §[^4]
 
 1. melléklet a 142/2015. (VI. 12.) Korm. rendelethez
 
@@ -18,4 +18,4 @@ Az elsődleges adatnak minősülő adatok és az azokat elsődleges adatként ta
 
 | 4. | Egészségbiztosítási nyilvántartás | A társadalombiztosítási azonosító jel (TAJ) |
 
-[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

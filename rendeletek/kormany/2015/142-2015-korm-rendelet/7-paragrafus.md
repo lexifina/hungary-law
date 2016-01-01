@@ -14,4 +14,6 @@ b) egyet nem értése esetén részletesen indokolt álláspontjáról.
 
 (4) A Felügyelet a (3) bekezdés b) pontja esetén kötelezheti a nyilvántartót intézkedési terv elkészítésére, amelyet a kötelezés közlésétől számított 60 napon belül be kell nyújtani a Felügyeletnek.
 
-(5) Ha a Felügyelet álláspontja szerint az intézkedési terv alkalmas az Iop tv. szerinti állapot létrehozására, akkor az intézkedési tervet jóváhagyja, ellenkező esetben a nyilvántartót kötelezi a jogszerű állapot megteremtésére. A Felügyelet ügyintézési határideje 60 nap.
+(5)[^3] Ha a Felügyelet álláspontja szerint az intézkedési terv alkalmas az Iop tv. szerinti állapot létrehozására, akkor az intézkedési tervet jóváhagyja, ellenkező esetben a nyilvántartót kötelezi a jogszerű állapot megteremtésére.
+
+[^3]: A 7. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 253. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
