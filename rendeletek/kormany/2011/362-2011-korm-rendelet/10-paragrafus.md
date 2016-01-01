@@ -8,10 +8,10 @@ a) az oktatási igazolványra jogosító jogviszony fennállásának ideje alatt
 
 b) az elveszett, megsemmisült, megrongálódott oktatási igazolvány helyett,
 
-c)[^15] a 23. § c) pontban meghatározott személy által időbeli korlátozás nélkül
+c)[^25] a 23. § c) pontban meghatározott személy által időbeli korlátozás nélkül
 
 igényelhető.
 
 (2) Amennyiben a közreműködő intézmény adataiban változás következik be, és ez a változás az oktatási igazolványokhoz kapcsolódó jogokat és kedvezményeket nem érinti, a jogosult nem köteles új oktatási igazolványt igényelni.
 
-[^15]: A 10. § (1) bekezdés c) pontja a 74/2014. (III. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^25]: A 10. § (1) bekezdés c) pontja a 74/2014. (III. 13.) Korm. rendelet 4. §-ával megállapított szöveg.

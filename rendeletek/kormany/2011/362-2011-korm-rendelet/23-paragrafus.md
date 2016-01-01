@@ -1,8 +1,8 @@
-## 22. § Amennyiben a jogosult egyidejűleg több oktatási intézménnyel áll tanulói, hallgatói jogviszonyban, és ezen intézmények nevét és székhelyét a 2. § (2) bekezdése szerint fel kívánja tüntetni a diákigazolványán, erre irányuló kérelmét a közreműködő intézménynél a diákigazolvány igénylésével egyidejűleg bemutatott tanulói, hallgatói jogviszony igazolással kezdeményezheti.
+## 22. §[^49] Amennyiben a jogosult egyidejűleg több oktatási intézménnyel áll tanulói, hallgatói jogviszonyban, és ezen intézmények nevét és székhelyét fel kívánja tüntetni a diákigazolványán, erre irányuló kérelmét a közreműködő intézménynél a diákigazolvány igénylésével egyidejűleg bemutatott tanulói, hallgatói jogviszony igazolással kezdeményezheti.
 
 ## 9. A pedagógusigazolvány
 
-## 23. §[^31] Pedagógusigazolványra jogosult
+## 23. §[^50] Pedagógusigazolványra jogosult
 
 a) az Nktv. 63. § (3) bekezdésében meghatározott munkakört betöltő,
 
@@ -10,4 +10,5 @@ b) az Nktv. 96. § (1) bekezdésében meghatározott intézményben pedagógus-m
 
 c) az a) vagy b) pontban meghatározott munkakörből korhatár előtti ellátásba vagy nyugállományba helyezett
 
-[^31]: A 23. § a 74/2014. (III. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^49]: A 22. § a 441/2015. (XII. 28.) Korm. rendelet 162. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^50]: A 23. § a 74/2014. (III. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

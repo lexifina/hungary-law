@@ -1,13 +1,14 @@
 18. § (1) A nem magyar oktatási intézménnyel jogviszonyban álló jogosult a diákigazolvány iránti igényét az adatkezelőnek mint közreműködő intézménynek jelenti be. A diákigazolvány igényléséhez be kell nyújtani a tanulói, hallgatói jogviszony kezdetét és az oktatás, képzés munkarendjét igazoló dokumentumot.
 
-(2) A jogosult az oktatási intézmény által meghatározott módon megfizeti a 39. §-ban meghatározott díjat a közreműködő intézmény részére.
+(2)[^43]
 
-(3) A közreműködő intézmény ellenőrzi az (1)–(2) bekezdésben foglaltak teljesítését, szükség esetén felhívja a tanulót a hiányok pótlására. A közreműködő intézmény az igényléstől – hiánypótlás esetén a hiánypótlás teljesítésétől – számított 8 napon belül
+(3)[^44] A közreműködő intézmény ellenőrzi az (1) bekezdésben foglaltak teljesítését, szükség esetén felhívja a tanulót a hiányok pótlására. A közreműködő intézmény az igényléstől – hiánypótlás esetén a hiánypótlás teljesítésétől – számított 8 napon belül
 
-a) az igénylő felület használatával a személyi okmányok adatai és a benyújtott dokumentumok alapján a diákigazolvány-igénylést és a díj befizetésének tényét rögzíti,
+a) az igénylő felület használatával a személyi okmányok adatai és a benyújtott dokumentumok alapján a diákigazolvány-igénylés tényét rögzíti,
 
 b) az elektronikusan rögzített igénylésről ellenőrző adatlapot nyomtat, melyet a jogosulttal aláírat,
 
-c)[^27] az intézmény képviseletére jogosult személy a 20. § (1) bekezdés rendelkezései szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.
+c) az intézmény képviseletére jogosult személy a 20. § (1) bekezdés rendelkezései szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.
 
-[^27]: A 18. § (3) bekezdés c) pontja 43. § (2) bekezdésével megállapított szöveg.
+[^43]: A 18. § (2) bekezdését a 392/2015. (XII. 11.) Korm. rendelet 2. § i) pontja hatályon kívül helyezte.
+[^44]: A 18. § (3) bekezdése a 392/2015. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

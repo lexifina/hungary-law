@@ -1,12 +1,12 @@
 ## 3. Az adatkezelő és a közreműködő intézmény által vezetett nyilvántartás
 
-8. § (1)[^11] Az adatkezelő az oktatási igazolvány tekintetében a (3) bekezdésben meghatározott nyilvántartást vezet az Nktv., valamint az Nftv. által meghatározott adatokról.
+8. § (1)[^18] Az adatkezelő az oktatási igazolvány tekintetében a (3) bekezdésben meghatározott nyilvántartást vezet az Nktv., valamint az Nftv. által meghatározott adatokról.
 
-(2)[^12]
+(2)[^19]
 
-(3)[^13] Az (1) bekezdésben meghatározott nyilvántartás
+(3)[^20] Az (1) bekezdésben meghatározott nyilvántartás
 
-a)[^14] az oktatási igazolvány igényléséhez szükséges, az Nktv.-ben és az Nftv.-ben meghatározott személyes adatokat,
+a)[^21] az oktatási igazolvány igényléséhez szükséges, az Nktv.-ben és az Nftv.-ben meghatározott személyes adatokat,
 
 b) a közreműködő intézmények adatait,
 
@@ -20,11 +20,12 @@ f) az érvényesítő matricák megrendelésére és a megrendelések teljesít�
 
 g) a közreműködő intézmények által megküldött jelentés alapján a kiadott, bevont és érvénytelenített oktatási igazolványok egyedi azonosítóját,
 
-h) a 39. § alapján megfizetett díjakat,
+h)[^22]
 
 i) a közreműködő intézmény által a 12. § szerint kiadott igazoláson szereplő adatokat
 
-[^11]: A 8. § (1) bekezdése a 74/2014. (III. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^12]: A 8. § (2) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
-[^13]: A 8. § (3) bekezdés nyitó szövegrésze a 74/2014. (III. 13.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
-[^14]: A 8. § (3) bekezdés a) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
+[^18]: A 8. § (1) bekezdése a 74/2014. (III. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^19]: A 8. § (2) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^20]: A 8. § (3) bekezdés nyitó szövegrésze a 74/2014. (III. 13.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^21]: A 8. § (3) bekezdés a) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
+[^22]: A 8. § (3) bekezdés h) pontját a 392/2015. (XII. 11.) Korm. rendelet 2. § c) pontja hatályon kívül helyezte.
