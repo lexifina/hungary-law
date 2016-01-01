@@ -638,6 +638,42 @@ Háziasított kecskehús, fagyasztva, rövid elülső negyed
 
 0204 50 53-ból
 
+|
+
+49.
+
+|
+
+Házi sertéshús frissen, hűtve vagy fagyasztva
+
+|
+
+0203-ból
+
+(kivéve: 0203
+
+1110, 0203 2110)
+
+|
+
+50.
+
+|
+
+A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg a 150 négyzetmétert
+
+|
+
+|
+
+51.
+
+|
+
+A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert
+
+|
+
 I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
 |

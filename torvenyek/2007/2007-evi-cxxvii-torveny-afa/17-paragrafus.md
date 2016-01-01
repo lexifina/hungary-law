@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdésben említett jogutódlással történő megszűnésnek kell tekinteni e törvény alkalmazásában:
 
-a) jogi személynek a Polgári Törvénykönyv (a továbbiakban: Ptk.) jogi személyekre vonatkozó rendelkezései szerinti átalakulását, egyesülését és szétválását;
+a) jogi személynek a Ptk. jogi személyekre vonatkozó rendelkezései szerinti átalakulását, egyesülését és szétválását;
 
 b)
 

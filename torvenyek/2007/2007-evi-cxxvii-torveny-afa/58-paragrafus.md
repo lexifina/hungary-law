@@ -1,10 +1,14 @@
-58. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha a felek részletfizetésben vagy határozott időre szóló elszámolásban állapodtak meg, teljesítés az ellenérték megtérítésének esedékessége, amelyre az adott részlet vagy elszámolás vonatkozik.
+58. § (1) Amennyiben a felek a termékértékesítés, szolgáltatásnyújtás során időszakonkénti elszámolásban vagy fizetésben állapodnak meg, vagy a termékértékesítés, szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, teljesítés az elszámolással vagy fizetéssel érintett időszak utolsó napja.
 
-(1a)
+(1a) Az (1) bekezdéstől eltérően teljesítés
+
+a) a számla vagy a nyugta kibocsátásának időpontja, amennyiben az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége és a számla vagy a nyugta kibocsátása az elszámolással vagy fizetéssel érintett időszak utolsó napját megelőzi,
+
+b) az elszámolással vagy fizetéssel érintett időszakra vonatkozó ellenérték megtérítésének esedékessége, de legfeljebb az elszámolással vagy fizetéssel érintett időszak utolsó napját követő hatvanadik nap, amennyiben az ellenérték megtérítésének esedékessége az elszámolással vagy fizetéssel érintett időszak utolsó napját követő időpontra esik.
 
 (2) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja az egy naptári hónapot, az (1) bekezdéstől függetlenül – időarányos részteljesítésként – teljesítés történik a naptári hónap utolsó napján is, feltéve, hogy a termékértékesítésre a 89. § alkalmazandó.
 
-(3) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja a 12 hónapot, az (1) bekezdéstől és az 58/A. §-tól függetlenül – időarányos részteljesítésként – teljesítés történik
+(3) Abban az esetben, ha az az időszak, amelyre az adott részlet vagy elszámolás vonatkozik, tartamában meghaladja a 12 hónapot, az (1) és (1a) bekezdéstől függetlenül – időarányos részteljesítésként – teljesítés történik
 
 a) a naptári év utolsó napján is, feltéve, hogy az adót a 140. § a) pontja szerint a szolgáltatás igénybevevője fizeti, vagy
 
