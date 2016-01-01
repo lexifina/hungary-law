@@ -1,18 +1,18 @@
 4. § (1) A Szabályzat mellékleteként Tűzriadó Tervet kell készíteni:
 
-a)[^4]
+a)[^5]
 
-b)[^5] a művelődési, oktatási, kulturális, sport, egészségügyi és szociális építményrészre, építményre, létesítményekre;
+b)[^6] a művelődési, oktatási, kulturális, sport, egészségügyi és szociális építményrészre, építményre, létesítményekre;
 
 c) azokra a létesítményekre, amelyekben egy tűzszakaszon belül több, mint 300 fő tartózkodhat;
 
-d)[^6] kereskedelmi szálláshelyre;
+d)[^7] kereskedelmi szálláshelyre;
 
 e) az olyan időszakos vagy állandó jelleggel üzemelő zenés szórakozóhelyekre, ahol egy időben 50 főnél több személy tartózkodhat;
 
-f)[^7] a robbanásveszélyes osztályba tartozó anyag előállítására, feldolgozására, tárolására szolgáló építményre és szabadtérre, ahol az anyag robbanásveszélyes állapotban fordulhat elő;
+f)[^8] a robbanásveszélyes osztályba tartozó anyag előállítására, feldolgozására, tárolására szolgáló építményre és szabadtérre, ahol az anyag robbanásveszélyes állapotban fordulhat elő;
 
-g)[^8] tűzveszélyes osztályba tartozó anyag előállítására, feldolgozására, tárolására szolgáló 3000 m2-nél nagyobb alapterületű építményre és szabadtérre.
+g)[^9] tűzveszélyes osztályba tartozó anyag előállítására, feldolgozására, tárolására szolgáló 3000 m2-nél nagyobb alapterületű építményre és szabadtérre.
 
 (2) A Tűzriadó Tervnek tartalmaznia kell:
 
@@ -24,20 +24,20 @@ c) a tűz esetén a munkavállalók szükséges tennivalóit (tűzvédelmi beren
 
 d) a főbb veszélyforrások megnevezését (utalással a védekezési szabályokra);
 
-e)[^9] a létesítmény helyszínrajzát, szükség szerint az építmény, építményrész szintenkénti alaprajzait a tűzvédelmi szempontból fontos berendezések (eszközök), központi elzárók (kapcsolók) és a vízszerzési helyek, a kiürítési útvonalak és a 3. § i) pont szerinti esetekben a helyiségek megengedett maximális befogadóképességének megjelölésével.
+e)[^10] a létesítmény helyszínrajzát, szükség szerint az építmény, építményrész szintenkénti alaprajzait a tűzvédelmi szempontból fontos berendezések (eszközök), központi elzárók (kapcsolók) és a vízszerzési helyek, a kiürítési útvonalak és a 3. § i) pont szerinti esetekben a helyiségek megengedett maximális befogadóképességének megjelölésével.
 
-(3)[^10] A Tűzriadó Tervben foglaltak végrehajtását szükség szerint, de legalább évente az érintettekkel gyakoroltatni és annak eredményét írásban rögzíteni kell.
+(3)[^11] A Tűzriadó Tervben foglaltak végrehajtását szükség szerint, de legalább évente az érintettekkel gyakoroltatni és annak eredményét írásban rögzíteni kell.
 
-(4)[^11] A Tűzriadó Tervet állandóan hozzáférhető helyen kell elhelyezni.
+(4)[^12] A Tűzriadó Tervet állandóan hozzáférhető helyen kell elhelyezni.
 
-(5)[^12] Az (1) bekezdés b)–e) pontjában felsoroltak közösségi terein, továbbá szálláshelyeken a szobákban is el kell helyezni az épület elhagyásának lehetőségét (menekülési útvonal) tartalmazó alaprajzot és annak szöveges leírását vagy olyan kivonatát, amely az adott helyiség, épület biztonságos elhagyásának irányáról, módjáról tájékoztatást ad. A tájékoztatást a külföldiek elhelyezésére is szolgáló kereskedelmi szálláshelyeken angol és német nyelven is kötelező elhelyezni.
+(5)[^13] Az (1) bekezdés b)–e) pontjában felsoroltak közösségi terein, továbbá szálláshelyeken a szobákban is el kell helyezni az épület elhagyásának lehetőségét (menekülési útvonal) tartalmazó alaprajzot és annak szöveges leírását vagy olyan kivonatát, amely az adott helyiség, épület biztonságos elhagyásának irányáról, módjáról tájékoztatást ad. A tájékoztatást a külföldiek elhelyezésére is szolgáló kereskedelmi szálláshelyeken angol és német nyelven is kötelező elhelyezni.
 
-[^4]: A 4. § (1) bekezdés a) pontját a 4/2015. (II. 27.) BM rendelet 2. §-a hatályon kívül helyezte.
-[^5]: A 4. § (1) bekezdés b) pontja a 10/2011. (III. 28.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 4. § (1) bekezdésének d) és e) pontját a 33/1999. (IX. 24.) BM rendelet 1. §-a iktatta a szövegbe.
-[^7]: A 4. § (1) bekezdés f) pontját a 4/2015. (II. 27.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^8]: A 4. § (1) bekezdés g) pontját a 4/2015. (II. 27.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A 4. § (2) bekezdés e) pontja a 10/2011. (III. 28.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^10]: A 4. § (3) bekezdése a 33/1999. (IX. 24.) BM rendelet 2. §-ával megállapított szöveg.
-[^11]: A 4. § (4) és (5) bekezdését a 33/1999. (IX. 24.) BM rendelet 3. §-a iktatta a szövegbe.
-[^12]: A 4. § (5) bekezdése a 10/2011. (III. 28.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^5]: A 4. § (1) bekezdés a) pontját a 4/2015. (II. 27.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^6]: A 4. § (1) bekezdés b) pontja a 10/2011. (III. 28.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (1) bekezdésének d) és e) pontját a 33/1999. (IX. 24.) BM rendelet 1. §-a iktatta a szövegbe.
+[^8]: A 4. § (1) bekezdés f) pontját a 4/2015. (II. 27.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 4. § (1) bekezdés g) pontját a 4/2015. (II. 27.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 4. § (2) bekezdés e) pontja a 10/2011. (III. 28.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^11]: A 4. § (3) bekezdése a 33/1999. (IX. 24.) BM rendelet 2. §-ával megállapított szöveg.
+[^12]: A 4. § (4) és (5) bekezdését a 33/1999. (IX. 24.) BM rendelet 3. §-a iktatta a szövegbe.
+[^13]: A 4. § (5) bekezdése a 10/2011. (III. 28.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.

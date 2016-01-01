@@ -18,8 +18,11 @@ h) a létesítményi tűzoltóság működésének, szolgálatellátásának, ta
 
 i)[^2] a tevékenység helyszínét képező és 50 főnél nagyobb befogadóképességű helyiséget tartalmazó önálló rendeltetési egység vagy önálló rendeltetési egységen belüli, helyiségcsoport (építményrész) esetében a – kiürítési számítással vagy azzal egyenértékű módon igazolt – megengedett maximális befogadóképességet;
 
-j)[^3] az i) pont szerinti esetekben a megengedett maximális befogadóképességnek megfelelő helyiséghasználat módját és felelősét.
+j)[^3] az i) pont szerinti esetekben a megengedett maximális befogadóképességnek megfelelő helyiséghasználat módját és felelősét;
+
+k)[^4] a készítője nevét és elérhetőségét, valamint a készítő aláírását.
 
 [^1]: A 3. § c) pontja a 4/2015. (II. 27.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 3. § i) pontját a 10/2011. (III. 28.) BM rendelet 1. § (1) bekezdése iktatta be.
 [^3]: A 3. § j) pontját a 10/2011. (III. 28.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 3. § k) pontját a 74/2015. (XII. 21.) BM rendelet 1. §-a iktatta be.
