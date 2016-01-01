@@ -1,10 +1,16 @@
-10. § (1) A rehabilitációs ellátás az ellátott halála esetén a halál bekövetkezését követő hónap első napjától megszűnik.
+10. § (1) A rehabilitációs ellátás
+
+a) az ellátás időtartamának leteltével, valamint
+
+b) az ellátott halála esetén a halál bekövetkezését követő hónap első napjától
+
+megszűnik.
 
 (2) A rehabilitációs ellátást meg kell szüntetni, ha a rehabilitációs ellátásban részesülő
 
 a) kérte,
 
-b) ellátásának időtartama eltelt,
+b)
 
 c) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt, valamint az Ebtv. 42/C. § (1) bekezdés b) pontjában foglaltakra tekintettel megállapított gyermekgondozási díjat,
 
