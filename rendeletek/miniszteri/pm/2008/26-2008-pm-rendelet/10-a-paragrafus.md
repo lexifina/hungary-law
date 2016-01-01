@@ -1,4 +1,4 @@
-10/A. §[^61] (1) Amennyiben a 10. § (10) bekezdése szerinti kreditpont-minősítési kérelemben foglalt képzés elektronikus képzési formában valósul meg, a továbbképzési program akkor minősíthető kreditpontra, továbbá a megvalósított képzésért akkor adható ki a meghatározott kreditpont, ha a továbbképző szervezet elektronikus képzési rendszere által biztosítottan az elektronikus naplóban rögzíthető, valamint a továbbképzésen való részvételkor és azt követő 5 évig ellenőrizhető, hogy a továbbképzésre kötelezett személy
+10/A. §[^62] (1) Amennyiben a 10. § (10) bekezdése szerinti kreditpont-minősítési kérelemben foglalt képzés elektronikus képzési formában valósul meg, a továbbképzési program akkor minősíthető kreditpontra, továbbá a megvalósított képzésért akkor adható ki a meghatározott kreditpont, ha a továbbképző szervezet elektronikus képzési rendszere által biztosítottan az elektronikus naplóban rögzíthető, valamint a továbbképzésen való részvételkor és azt követő 5 évig ellenőrizhető, hogy a továbbképzésre kötelezett személy
 
 a) az elektronikus felületre bejelentkezve a továbbképzési programot (több oktatási egység, modul esetén az egyes egységeket, modulokat) megkezdte és a továbbképzési program (több oktatási egység, modul esetén az egyes egységek, modulok) befejezéséig a képzésben kijelentkezés nélkül részt vett (ideértve a program kezdeti és befejezési időpontjának perc pontosságú rögzítését, valamint a jelenlét ellenőrzését),
 
@@ -12,4 +12,4 @@ d) részére a továbbképzés teljesítéséről szóló igazolás a továbbké
 
 (3) Az (1) bekezdés szerinti elektronikus képzés formája e-learning vagy online képzés lehet.
 
-[^61]: A 10/A. §-t a 70/2013. (XII. 30.) NGM rendelet 6. §-a iktatta be, szövege a 46/2014. (XII. 30.) NGM rendelet 2. §-ával megállapított szöveg.
+[^62]: A 10/A. §-t a 70/2013. (XII. 30.) NGM rendelet 6. §-a iktatta be, szövege a 46/2014. (XII. 30.) NGM rendelet 2. §-ával megállapított szöveg.

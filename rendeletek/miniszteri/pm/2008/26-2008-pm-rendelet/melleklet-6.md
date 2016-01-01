@@ -92,7 +92,7 @@
 
 ## f) a Rendelet 10. § (11a) és (11b) bekezdésben meghatározott követelménynek való megfelelésről szóló írásbeli nyilatkozat,
 
-## g) a továbbképző szervezet 30 napnál nem régebben kiállított közokirattal való igazolása arról, hogy az adózás rendjéről szóló 2003. évi XCII. törvény 178. §-ának 32. pontja szerint köztartozásmentes adózónak minősül, vagy adóazonosítójának megadása, amellyel a nyilvántartásba vételt végző szervezettől kéri ezen adatok köztartozásmentes adózói adatbázisból való bekérését,
+## g)
 
 ## h) az eljárás igazgatási szolgáltatási díjának befizetését igazoló dokumentum másolata.
 
@@ -102,6 +102,6 @@
 
 ## 8. Cégszerű aláírás
 
-6. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^85]
+6. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^87]
 
-[^85]: A 6. számú mellékletet a 46/2014. (XII. 30.) NGM rendelet 5. § (3) bekezdése iktatta be.
+[^87]: A 6. számú mellékletet a 46/2014. (XII. 30.) NGM rendelet 5. § (3) bekezdése iktatta be.

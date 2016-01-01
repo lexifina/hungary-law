@@ -1,4 +1,4 @@
-## 10/B. §[^62] A kreditpont-minősítési kérelmet benyújtó továbbképző szervezet a továbbképzés szervezésével és lebonyolításával összefüggésben köteles:
+## 10/B. §[^63] A kreditpont-minősítési kérelmet benyújtó továbbképző szervezet a továbbképzés szervezésével és lebonyolításával összefüggésben köteles:
 
 a) az e rendelet, valamint a kreditpont-minősítési kérelemben foglaltak szerint, oktatásra alkalmas körülmények között, szakirányú felsőfokú végzettséggel rendelkező oktatókkal, a saját neve alatt szervezni és lebonyolítani a továbbképzési programot,
 
@@ -14,4 +14,4 @@ f) a jelenléti ívet a továbbképzés lebonyolítását követően lezárni, �
 
 g) az elszámolhatóság időszakában lebonyolított továbbképzések vonatkozásában a továbbképzésen való részvételről, a továbbképzés időpontjáról és a megszerzett kreditpontokról igazolást kiadni a képzés befejezését követő 30 napon belül a továbbképzés teljes időtartamán résztvevők részére a 8. számú mellékletben meghatározott adattartalommal, elektronikus képzés esetén az elektronikus képzési rendszeren keresztül, utólag nem szerkeszthető formátumban.
 
-[^62]: A 10/B. §-t a 46/2014. (XII. 30.) NGM rendelet 2. §-a iktatta be.
+[^63]: A 10/B. §-t a 46/2014. (XII. 30.) NGM rendelet 2. §-a iktatta be.

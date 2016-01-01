@@ -1,4 +1,4 @@
-## 9. §[^27] Az a természetes személy, akinek engedélyét a hatóság visszavonta, amennyiben a visszavonásra a
+## 9. §[^28] Az a természetes személy, akinek engedélyét a hatóság visszavonta, amennyiben a visszavonásra a
 
 a) 8. § (1) bekezdés a)–b) pontja alapján került sor, a visszavonást követően,
 
@@ -12,4 +12,4 @@ e) 8. § (1) bekezdés g) pontja alapján került sor, a gondnokság alá helyez
 
 kérheti az engedély, illetve az igazolvány újbóli kiadását és a nyilvántartásba történő ismételt felvételét, feltéve, hogy teljesítette a visszavonást megelőző továbbképzési időszak minden megkezdett évére vonatkozó, 10. § szerinti továbbképzési kötelezettség arányos részét.
 
-[^27]: A 9. § a 17/2009. (IX. 29.) PM rendelet 78. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^28]: A 9. § a 17/2009. (IX. 29.) PM rendelet 78. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.

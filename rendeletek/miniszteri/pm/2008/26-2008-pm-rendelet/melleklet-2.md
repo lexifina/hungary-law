@@ -12,6 +12,6 @@
 
 |  | Fénykép helye |  |
 
-2. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^77]
+2. számú melléklet a 26/2008. (VIII. 30.) PM rendelethez[^79]
 
-[^77]: A 2. számú melléklet a 70/2013. (XII. 30.) NGM rendelet 8. § 18–19. pontja szerint módosított szöveg.
+[^79]: A 2. számú melléklet a 70/2013. (XII. 30.) NGM rendelet 8. § 18–19. pontja szerint módosított szöveg.
