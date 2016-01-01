@@ -8,7 +8,7 @@ b) a fizetési művelet összege meghaladta azt az összeget, amely a fizető f�
 
 (3) Az (1) bekezdésben foglalt feltételek fennállása tekintetében a bizonyítás a fizető felet terheli.
 
-(4) A fizető fél nem hivatkozhat az (1) bekezdés b) pontjára a pénznemek közötti átváltással kapcsolatosan, ha az átváltás során a 31. § (1) bekezdésének d) pontjában vagy a 10. § (2) bekezdése c) pontjának cb) alpontjában foglaltak szerint referencia-árfolyam alkalmazására került sor.
+(4) A fizető fél nem hivatkozhat az (1) bekezdés b) pontjára a pénznemek közötti átváltással kapcsolatosan, ha az átváltás során a 31. § (1) bekezdésének d) pontjában vagy a 10. § (1) bekezdés c) pontjának cb) alpontjában foglaltak szerint referencia-árfolyam alkalmazására került sor.
 
 (5) A felek a keretszerződésben megállapodhatnak arról, hogy a beszedés visszatérítése esetében az (1) bekezdésben meghatározott feltételeknek nem kell fennállniuk. Ilyen megállapodás esetén a pénzforgalmi szolgáltató a fizető fél visszatérítésre vonatkozó igényét nem utasíthatja vissza.
 
