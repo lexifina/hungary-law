@@ -15,3 +15,5 @@
 (7)
 
 (8) A klinikai vizsgálat kezdeményezője az azt végző egészségügyi szolgáltatóval, illetve a klinikai vizsgálat vezetőjével a klinikai vizsgálat végzésére írásban szerződést köt. A szerződés érvényességéhez a gyógyszerészeti államigazgatási szervnek az Egészségügyi Tudományos Tanács bizottságának kutatásetikai szakkérdésben kiadott szakhatósági vagy az ügyfélnek az eljárás megindítását megelőzően benyújtott kérelme alapján előzetes szakhatósági állásfoglalása alapján kialakított egyetértése szükséges.
+
+(9) A klinikai vizsgálat engedélyének jogerőre emelkedését követően módosított vizsgálati terv tekintetében az Egészségügyi Tudományos Tanács bizottsága a módosítási kérelemről annak kézhezvételétől számított harminc napon belül állást foglal. Ha a lényeges módosítás a szakhatóság állásfoglalás nélkül eldönthető vagy gyógyszerminőségi jellegű, annak engedélyezéséről az engedélyező a szakhatósági állásfoglalás kikérése nélkül, saját hatáskörében dönt.

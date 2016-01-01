@@ -12,4 +12,4 @@
 
 (7) A gyógyszerészeti államigazgatási szerv – amennyiben a tényállás tisztázása érdekében szükségesnek tartja – hivatalból elrendelheti az általa meghallgatott tanú adatainak zártan kezelését.
 
-(8) A hatósági ellenőrzés keretében folytatott eljárások esetén az ügyintézési határidő 90 nap, amelyet az eljáró hatóság vezetője annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.
+(8) A hatósági ellenőrzés keretében folytatott eljárások esetén az ügyintézési határidő 90 nap.

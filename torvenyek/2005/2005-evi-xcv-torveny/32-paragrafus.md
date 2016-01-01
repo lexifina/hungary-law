@@ -78,7 +78,9 @@ v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
 
 w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait,
 
-x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat
+x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
+
+y) az engedélyezés előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
 
 rendeletben szabályozza.
 

@@ -44,7 +44,7 @@ g) a raktári ügyrend elkészítéséről.
 
 (10) A gyógyszergyártási engedély jogosultja a gyógyszergyártási tevékenység hat hónapon túli szüneteltetéséről – a tervezett szüneteltetés időtartamának megjelölésével – legalább a tervezett szünetelést megelőző három hónappal a gyógyszerészeti államigazgatási szervet értesíteni köteles.
 
-(11) A gyógyszergyártási engedély jogosultja haladéktalanul köteles bejelenteni a gyógyszerészeti államigazgatási szervnek, ha tevékenysége folytatása során a (2) bekezdésében felsorolt körülményeiben változás következik be. A bejelentés alapján az (1) bekezdés szerinti engedély módosításáról a gyógyszerészeti államigazgatási szerv harminc napon belül dönt. A bejelentés alapján indult eljárás során az ügyintézési határidő egy ízben legfeljebb hatvan nappal meghosszabbítható.
+(11) A gyógyszergyártási engedély jogosultja haladéktalanul köteles bejelenteni a gyógyszerészeti államigazgatási szervnek, ha tevékenysége folytatása során a (2) bekezdésében felsorolt körülményeiben változás következik be. A bejelentés alapján az (1) bekezdés szerinti engedély módosításáról a gyógyszerészeti államigazgatási szerv harminc napon belül dönt.
 
 (12) A gyógyszerészeti államigazgatási szerv – a gyógyszergyártó kérelmére – a helyszíni gyártásellenőrzés során felvett jegyzőkönyv alapján hatósági bizonyítványt állít ki. A hatósági bizonyítvány tartalmazza:
 
