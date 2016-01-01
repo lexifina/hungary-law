@@ -2,8 +2,8 @@
 
 (1a) Az (1) bekezdés alkalmazásánál az egészségügyi ellátóhálózaton belüli egészségügyi és személyazonosító adatok továbbítására és összekapcsolására – a 4. § (1) és (3) bekezdésében foglaltakon túl – a 4. § (2) bekezdésében meghatározott célok esetén csak akkor kerülhet sor, ha azok az egészségügyi és betegellátó rendszer működésével közvetlenül összefüggnek.
 
-(2) A 4. § (1) bekezdése szerinti adatkezelés és adatfeldolgozás esetén az érintett betegségével kapcsolatba hozható minden olyan egészségügyi adat továbbítható, amely a gyógykezelés érdekében fontos, kivéve, ha ezt az érintett írásban kifejezetten megtiltja. Ennek lehetőségéről a továbbítás előtt az érintettet tájékoztatni kell. A 13. § szerinti esetekben az érintett tiltása ellenére is továbbítani kell az egészségügyi és személyazonosító adatot.
+(2) A 4. § (1) bekezdése szerinti adatkezelés és adatfeldolgozás esetén az érintett betegségével kapcsolatba hozható minden olyan egészségügyi adat továbbítható, amely a kezelőorvos vagy a háziorvos döntése alapján a gyógykezelés érdekében fontos, kivéve, ha ezt az érintett írásban vagy önrendelkezési nyilvántartásba vett nyilatkozatában megtiltja. Ennek lehetőségéről a továbbítás előtt az érintettet tájékoztatni kell. A 13. § szerinti esetekben az érintett tiltása ellenére is továbbítani kell az egészségügyi és személyazonosító adatot.
 
 (3) A (2) bekezdés szerinti adattovábbítás esetén sem lehet – a 11. § (3) bekezdésében és a 13. §-ban foglaltak kivételével – az érintett hozzájárulása nélkül továbbítani a továbbítás idején fennálló betegséggel össze nem függő, korábbi betegségre vonatkozó egészségügyi adatokat.
 
-(4) Sürgős szükség esetén a kezelést végző orvos által ismert, a gyógykezeléssel összefüggésbe hozható minden egészségügyi és személyazonosító adat továbbítható az érintett hozzájárulása nélkül is.
+(4) Sürgős szükség esetén a kezelést végző orvos által ismert, a gyógykezeléssel összefüggésbe hozható minden egészségügyi és személyazonosító adat továbbítható.

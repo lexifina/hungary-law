@@ -16,7 +16,7 @@ f) a gyógykezelés során alkalmazandó egészségügyi dokumentáció jellegé
 
 g) az egyes daganatos megbetegedések bejelentési módját, valamint a bejelentési kötelezettség teljesítésének és a bejelentendő adatok gyűjtésének és kezelésének szabályait,
 
-h) az elektronikus vényre vonatkozó részletszabályokat,
+h) az EESZT útján kiállított vényen rendelhető gyógyszerek és gyógyászati segédeszközök meghatározására, a vény elektronikus úton történő kiállítására, módosítására, visszavonására, az EESZT útján történő továbbítására és az EESZT útján továbbított vény felhasználására, valamint e vények nyilvántartására vonatkozó részletes szabályokat,
 
 i) a Betegségregiszterre vonatkozó részletes szabályokat,
 
@@ -24,7 +24,27 @@ j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körén
 
 k) a térségi betegút-szervezésért felelős szerv által a 4. § (2) bekezdés w) pontja szerinti célból, a 19. § (1) bekezdése szerint kezelt egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására vonatkozó részletes szabályokat,
 
-l) a Nemzeti Szívinfarktus Regisztert vezető szervet kijelölje, valamint a szívinfarktussal kapcsolatos megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat
+l) a Nemzeti Szívinfarktus Regisztert vezető szervet kijelölje, valamint a szívinfarktussal kapcsolatos megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat,
+
+m) a Protézis Regisztert vezető szervet kijelölje, valamint a Protézis Regiszterbe történő bejelentésre és a nyilvántartásra vonatkozó részletes szabályokat
+
+n) az EESZT műszaki követelményeit,
+
+o) az egészségügyi ellátóhálózatba tartozó, a 35/B. § (2) bekezdése alapján csatlakozó adatkezelők EESZT-hez csatlakozásának feltételeit, az EESZT-hez való csatlakozáshoz szükséges informatikai rendszer követelményeit, valamint az EESZT-hez csatlakozásra kötelezett államigazgatási szervek és egyéb szervezetek körét, a csatlakozás rendjét, a csatlakozás ütemezését, az EESZT bevezetési időszakának szabályait, valamint az EESZT-hez való közvetlen hozzáférés feltételeit és a szolgáltatások igénybevételéhez szükséges azonosítás követelményeit,
+
+p) az ellátási eseménynek a csatlakozott adatkezelő által a nyilvántartó rendelkezésére bocsátandó adatait, valamint a központi eseménykatalógusra vonatkozó részletes szabályokat,
+
+q) a 35/G. § szerinti nyilvántartásokat vagy adatokat, valamint az EESZT-n keresztüli hozzáférhetővé tételük rendjét,
+
+r) az önrendelkezési nyilatkozatra és önrendelkezési nyilvántartásra vonatkozó eljárási szabályokat,
+
+s) az egészségügyi profilra vonatkozó részletes szabályokat,
+
+t) az EESZT útján a működtető részére megküldendő egészségügyi dokumentumok körét, az egészségügyi dokumentumok nyilvántartása részletes szabályait, az egészségügyi dokumentum elérési útjának biztosítása esetén a műszaki követelményeknek való megfelelés tanúsítatásának szabályait,
+
+u) az EESZT útján elektronikus úton működtetendő betegségregiszterek körét, a kapcsolati kód képzésére és az elektronikus betegségregiszterekre vonatkozó részletes szabályokat,
+
+v) az elektronikus konzílium és digitális képtovábbítás részletes szabályait, valamint a 35/N. § szerinti jelentéstételi és adatszolgáltatási kötelezettségeket és azok teljesítésének rendjét
 
 rendeletben állapítsa meg.
 
@@ -33,6 +53,12 @@ rendeletben állapítsa meg.
 a) a 30. § (4) bekezdés b) pontja szerinti adatkezelőt,
 
 b) a 30. § (9) bekezdése szerinti adatfeldolgozót
+
+c) az EESZT működtetőjét,
+
+d) az önrendelkezési nyilvántartást vezető szervet,
+
+e) a 35/L. § szerinti kapcsolati kódot kezelő szervet
 
 rendeletben jelölje ki.
 

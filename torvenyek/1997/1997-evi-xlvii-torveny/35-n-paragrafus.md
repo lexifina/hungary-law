@@ -1,0 +1,1 @@
+35/N. § A jogszabályban meghatározott jelentéstételre vagy adatszolgáltatásra kötelezett csatlakozott adatkezelő vagy az EESZT felhasználó a jelentéstételt vagy adatszolgáltatást az EESZT útján miniszteri rendeletben meghatározottak szerint teljesíti.
