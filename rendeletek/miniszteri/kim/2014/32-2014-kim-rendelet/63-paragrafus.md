@@ -6,7 +6,7 @@ a) az anyakönyvvezetők és a fővárosi és megyei kormányhivatal bejegyzésr
 
 b) a hazai anyakönyvezést végző hatóság esetében a szerv vezetője,
 
-c)[^78] a központi anyakönyvi szerv erre feljogosított kormánytisztviselője esetében a központi anyakönyvi szerv
+c)[^81] a központi anyakönyvi szerv erre feljogosított kormánytisztviselője esetében a központi anyakönyvi szerv
 
 ## számára, az igénylés beérkezésétől számított öt napon belül küldi meg.
 
@@ -16,4 +16,4 @@ a) az anyakönyvvezető és a fővárosi és megyei kormányhivatal bejegyzésre
 
 b) az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult más személy a szerv székhelyén
 
-[^78]: A 63. § (2) bekezdés c) pontja a 38/2014. (VII. 16.) BM rendelet 3. § k) és l) pontja szerint módosított szöveg.
+[^81]: A 63. § (2) bekezdés c) pontja a 38/2014. (VII. 16.) BM rendelet 3. § k) és l) pontja szerint módosított szöveg.
