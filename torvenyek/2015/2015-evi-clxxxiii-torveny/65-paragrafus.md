@@ -19,11 +19,3 @@ való megfelelést szolgálja.
 (2) E törvény 20. §-a és 36. §-a a lábfogó csapóvasak Közösségen belüli használatának tilalmáról, valamint a lábfogó csapóvassal, vagy a kíméletes csapdázási szabványoknak nem megfelelő módszerekkel való elejtést alkalmazó országokból származó egyes vadon élő állatfajok prémjének és belőlük előállított árunak a Közösségbe történő behozatala tilalmáról szóló, 1991. november 4-i 3254/91/EGK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3) E törvény 17. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
