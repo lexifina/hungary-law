@@ -12,4 +12,4 @@ c) jogorvoslati eljárásban,
 
 d) a gépjárműflotta-üzemeltető által bérbe adott személygépkocsikkal kapcsolatos adóigazgatási eljárásban.
 
-(3) Elektronikus eljárást az kezdeményezhet, aki – az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében – a vámhatóság által üzemeltetett informatikai rendszer igénybevétele esetén a vámhatóságnál, az ügyfélkapu igénybevétele esetén az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál és a vámhatóságnál regisztráltatta magát. Az elektronikus RAA-t a regisztrált személy a vámhatóság általfővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál közzétett tájékoztatás szerint küldi be.
+(3) Elektronikus eljárást az kezdeményezhet, aki – az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében – a vámhatóság által üzemeltetett informatikai rendszer igénybevétele esetén a vámhatóságnál, az ügyfélkapu igénybevétele esetén az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál és a vámhatóságnál regisztráltatta magát. Az elektronikus RAA-t a regisztrált személy a vámhatóság által közzétett tájékoztatás szerint küldi be.
