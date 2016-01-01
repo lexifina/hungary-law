@@ -10,4 +10,6 @@
 
 (5) Az 1000 eurónak megfelelő – a Vtv. 21. §-a szerinti árfolyam szerint számított – forintösszeg érték alatti küldemények esetében – az EGK végrehajtási rendelet 237. cikk (3) bekezdés b) pontjában írtaknak megfelelően – a küldemény postai szállításra történő felvétele a kiléptetés igazolásául is szolgál.
 
-(6) Az 1000 vagy azt meghaladó összegű eurónak megfelelő – a Vtv. 21. §-a szerinti árfolyam szerint számított – forintösszeg értékű küldemények kiléptetését a kiléptető alsó fokú vámszerv igazolja.
+(6)[^10] Az 1000 vagy azt meghaladó összegű eurónak megfelelő – a Vtv. 21. §-a szerinti árfolyam szerint számított – forintösszeg értékű küldemények kiléptetését a kiléptető vámszerv igazolja.
+
+[^10]: A 11. § (6) bekezdése a 47/2015. (XII. 30.) NGM rendelet 20. § a) pontja szerint módosított szöveg.

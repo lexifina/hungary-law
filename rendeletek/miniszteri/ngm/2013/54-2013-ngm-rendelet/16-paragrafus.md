@@ -1,4 +1,4 @@
-## 15. § Az alsó fokú vámszerv az engedélyes forgalmában beérkezett küldeményekről vezetett vállalati nyilvántartást rendszeresen ellenőrzi. A nyilvántartásnak tartalmaznia kell a küldemény kísérőokmányának számát, címzettjét, a vámszerv által adott nyilvántartási tételszámot, valamint a küldemény vámjogi sorsának rendezését igazoló elintézési tételszámot.
+## 15. §[^16] A vámszerv az engedélyes forgalmában beérkezett küldeményekről vezetett vállalati nyilvántartást rendszeresen ellenőrzi. A nyilvántartásnak tartalmaznia kell a küldemény kísérőokmányának számát, címzettjét, a vámszerv által adott nyilvántartási tételszámot, valamint a küldemény vámjogi sorsának rendezését igazoló elintézési tételszámot.
 
 ## 7. Záró rendelkezések
 
@@ -6,6 +6,7 @@
 
 (2) A 2. § 1. és 2. pontja, valamint a 12–15. § 2014. január 1-jén lép hatályba.
 
-(3)[^1]
+(3)[^17]
 
-[^1]: A 16. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 15. § a 47/2015. (XII. 30.) NGM rendelet 20. § b) pontja szerint módosított szöveg.
+[^17]: A 16. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
