@@ -60,4 +60,6 @@
 
 29. viszonteladó: az egyetemes útdíjszolgáltató által az útdíjszedési feladatainak teljesítéséhez egységes feltételek szerint bevont, szerződött közreműködő;
 
-30. viszonylati jegy: az útdíjköteles úthálózat előre meghatározott, legalább egy útdíjköteles elemi útszakaszának egy előre meghatározott útdíjköteles gépjárművel történő használatára vonatkozó, előre megváltott úthasználati jogosultság.
+30. viszonylati jegy: az útdíjköteles úthálózat előre meghatározott, legalább egy útdíjköteles elemi útszakaszának egy előre meghatározott útdíjköteles gépjárművel történő használatára vonatkozó, előre megváltott úthasználati jogosultság;
+
+31. útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: a közúti közlekedési nyilvántartásról szóló törvény szerinti közúti közlekedési nyilvántartás.

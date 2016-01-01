@@ -8,13 +8,7 @@ c) a 6. § (6) bekezdés b) pontja szerint létrehozott szervezeti egység
 
 látja el (a továbbiakban együtt: útdíj-ellenőrzésre jogosult szervezetek).
 
-(2) Az útdíjszedő az útdíj-ellenőrzésre jogosult szervezetek útdíj-ellenőrzési tevékenységének támogatása érdekében:
-
-a) adatgyűjtést végez a díjköteles útszakaszon közlekedő gépjárművekről, telepített fix vagy mobil eszközök felhasználásával,
-
-b) az a) pont szerinti eszközök útján felvételezett, valamint az útdíjszolgáltató, továbbá az útdíj-ellenőrzésre jogosult szervezetek észlelése alapján tudomására jutott, azonosításra alkalmas adatokat és – amennyiben rendelkezésre áll – a rendszámadatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal, az érvénytelenített fedélzeti eszközök nyilvántartásával, valamint az útdíj köteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokkal,
-
-c) a b) pont szerinti összevetés alapján összeállított adatállományt – az úthasználatra jogosultakra vonatkozó adatokat kivéve – átadja az útdíj-ellenőrzésre jogosult szervezetek számára.
+(2) A Rendőrség az (1) bekezdés c) pontja szerinti adatok alapján a vélelmezett szabályszegések esetében hivatalból megindítja a külön törvényben meghatározott hatósági eljárást.
 
 (3) Az (1) bekezdés a) és b) pontjában meghatározott útdíj-ellenőrzésre jogosult szervezet a (2) bekezdés c) pontja szerinti adatállomány alapján a vélelmezett szabályszegések esetében – feladatkörébe tartozóan – hivatalból megindítja a külön törvényben meghatározott hatósági eljárást.
 

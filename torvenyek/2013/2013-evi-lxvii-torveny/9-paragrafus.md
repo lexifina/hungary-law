@@ -32,18 +32,4 @@ k) az államhatárról szóló törvényben meghatározott tömeges bevándorlá
 
 (3) A miniszter a közúti forgalom biztonságát veszélyeztető módon vesztegelő gépjárművek elszállításának szabályairól szóló miniszteri rendeletben a közlekedés biztonsága érdekében pihenőhelyre szállított autók vonatkozásában az (1) bekezdéstől eltérő szabályokat állapíthat meg az útdíjköteles gépjárművek vonatkozásában.
 
-(4) Az útdíjköteles elemi útszakaszok díjmentes használatára jogosultak nyilvántartását a Kormány által rendeletben kijelölt hatóság vezeti (a továbbiakban: nyilvántartó).
-
-(5) Az útdíjköteles elemi útszakaszok díjmentes használatára jogosultak nyilvántartása tartalmazza
-
-a) a jármű forgalmi rendszámát,
-
-b) a jármű azonosító és műszaki adatait,
-
-c) a járműokmány eltulajdonítására, megsemmisülésére, elvesztésére, találására, megkerülésére vonatkozó adatokat,
-
-d) a díjmentes használat jogcímének megjelölését, továbbá
-
-e) a díjmentes használati jogosultság kezdő időpontját és annak időtartamát.
-
-(6) A nyilvántartás személyes adatokat nem tartalmaz.
+(4)–(6)
