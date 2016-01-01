@@ -1,4 +1,4 @@
-13. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^185]
+13. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^182]
 
 ADATLAP
 
@@ -38,12 +38,10 @@ k) a kiadvány terjedelme (ív, oldalszám).
 
 ## „Kijelentem, hogy a fenti adatok a valóságnak megfelelnek.”
 
-## Csatolandó melléklet: Az 1. pont g)–k) pontjában meghatározott szakmai kiadvány 2 példányban, illetve elektronikus kiadvány esetében a hozzáférési jog biztosítása.
-
 3. Dátum
 
 4. Bélyegző
 
 5. Cégszerű aláírás
 
-[^185]: A 13. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be.
+[^182]: A 13. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 85. § (5) bekezdése szerint módosított szöveg.

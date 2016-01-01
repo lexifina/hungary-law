@@ -1,6 +1,6 @@
-## 9. §[^67]
+## 9. §[^70]
 
-9/A. §[^68] (1) A számviteli törvény 152. § (1) bekezdése szerinti szakmai továbbképzési kötelezettség alóli kimentési kérelem (a továbbiakban: kimentési kérelem) akkor fogadható el, ha a kérelmező nyilatkozik arról, hogy
+9/A. §[^71] (1) A számviteli törvény 152. § (1) bekezdése szerinti szakmai továbbképzési kötelezettség alóli kimentési kérelem (a továbbiakban: kimentési kérelem) akkor fogadható el, ha a kérelmező nyilatkozik arról, hogy
 
 a) minden tőle elvárható lépést megtett a szakmai továbbképzési kötelezettség teljesítése érdekében és csatolja a kimentési kérelmet megalapozó dokumentumokat, továbbá
 
@@ -12,5 +12,5 @@ b) a kérelmével érintett továbbképzési időszakban, a kimentésre okot ad�
 
 (4) Egy kimentési kérelem alapján legfeljebb egy továbbképzési évre lehet felmentést adni.
 
-[^67]: A 9. §-t a 357/2012. (XII. 13.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
-[^68]: A 9/A. §-t a 357/2012. (XII. 13.) Korm. rendelet 8. §-a iktatta be.
+[^70]: A 9. §-t a 357/2012. (XII. 13.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
+[^71]: A 9/A. §-t a 357/2012. (XII. 13.) Korm. rendelet 8. §-a iktatta be.

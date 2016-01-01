@@ -1,4 +1,4 @@
-10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^180]
+10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^177]
 
 ADATLAP
 
@@ -16,7 +16,7 @@ c) akkreditált szervezet levelezési címe,
 
 d) akkreditált szervezet akkreditációs száma,
 
-e) akkreditált szervezet cégjegyzékszáma vagy egyenértékű hivatalos nyilvántartási száma,
+e) akkreditált szervezet cégjegyzékszáma, a szervezet adószáma,
 
 f) akkreditált szervezet honlapjának címe,
 
@@ -66,6 +66,6 @@ e) „Kijelentem továbbá, hogy akkreditált szervezetünk
 
 5. Cégszerű aláírás
 
-[^180]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 11. § c) pontja, a 362/2014. (XII. 30.) Korm. rendelet 49. § (6) bekezdése szerint módosított szöveg.
+[^177]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 11. § c) pontja, a 362/2014. (XII. 30.) Korm. rendelet 49. § (6) bekezdése, a 484/2015. (XII. 29.) Korm. rendelet 85. § (3) bekezdése szerint módosított szöveg.
 [^1.]: Kreditpont-minősítési eljárás esetén kell megadni.
 [^2”]: Egyszerűsített kreditpont-minősítési eljárás során kell megadni.
