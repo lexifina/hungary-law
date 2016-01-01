@@ -14,6 +14,6 @@ d) a közcélú, illetőleg közérdekű munkát végző személynek az a balese
 
 (2) Az (1) bekezdés d) pontja alkalmazásában közcélú munka a Tbj. 15. § (2) bekezdésének d) pontjában foglaltakon túl az állami szerv vagy önkormányzat, illetőleg a munkáltató által kezdeményezett, irányított vagy jóváhagyott társadalmi munka.
 
-(3)[^434] Az Ebtv. 53. § (1) bekezdés a) pontjának alkalmazásában az alkohol vagy kábítószer általi befolyásoltság akkor tekinthető igazoltnak, ha a baleset kivizsgálásában, illetve a sérült ellátásában résztvevő, az alkohol vagy kábítószer általi befolyásoltság vizsgálatára feljogosított szervnek a vizsgáló egyedi mérlegelése által nem befolyásolható módszerrel végrehajtott mérése ezt alátámasztotta.
+(3)[^444] Az Ebtv. 53. § (1) bekezdés a) pontjának alkalmazásában az alkohol vagy kábítószer általi befolyásoltság akkor tekinthető igazoltnak, ha a baleset kivizsgálásában, illetve a sérült ellátásában résztvevő, az alkohol vagy kábítószer általi befolyásoltság vizsgálatára feljogosított szervnek a vizsgáló egyedi mérlegelése által nem befolyásolható módszerrel végrehajtott mérése ezt alátámasztotta.
 
-[^434]: A Vhr 32. § (3) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte, újonnan a 192/2015. (VII. 21.) Korm. rendelet 10. §-a iktatta be.
+[^444]: A Vhr 32. § (3) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte, újonnan a 192/2015. (VII. 21.) Korm. rendelet 10. §-a iktatta be.
