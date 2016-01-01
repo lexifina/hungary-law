@@ -1,4 +1,4 @@
-2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^23]
+2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^24]
 
 | A | B |
 
@@ -128,7 +128,7 @@
 
 |  |  |  | cb) | időszakos vizsgálat | 16 100 Ft |
 
-| 14. | Az a mellkas-szűrővizsgálat (tüdőszűrés), melynek igénybevételére nem az egészségügyi hatóság által a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendelet szerint kötelezően elrendelt szűrővizsgálat keretében, vagy nem a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet szerinti korhoz kötött szűrővizsgálat keretében, vagy nem jogszabály által előírt, a szakképzésről szóló 2011. évi CLXXXVII. törvény 4. § (1) bekezdés a)–b) pontja szerinti szakképzési intézményekben és felsőoktatási intézményben oktatásban részesülők szakmai alkalmassági vizsgálatai keretében kerül sor. | 1 700 Ft |
+| 14. | Az a mellkas-szűrővizsgálat (tüdőszűrés), melynek igénybevételére nem az egészségügyi hatóság által a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendelet szerint kötelezően elrendelt szűrővizsgálat keretében, vagy nem a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet szerinti korhoz kötött szűrővizsgálat keretében, vagy nem jogszabály által előírt, a szakképzésről szóló 2011. évi CLXXXVII. törvény 4. § (1) bekezdése szerinti szakképzési intézményekben és felsőoktatási intézményben oktatásban részesülők szakmai alkalmassági vizsgálatai keretében kerül sor. | 1 700 Ft |
 
 | 15. | A foglalkoztathatóság szakvéleményezése |  |
 
@@ -140,4 +140,4 @@
 
 | 16. | Járványügyi érdekből nem kötelező védőoltással történő immunizálás, kivéve a) a térítésmentes védőoltással történő immunizálást és b) – az a) pont hatálya alá nem tartozó körben is – a pneumococcus baktérium, a human papilloma vírus és az influenza megbetegedés elleni immunizálást | 2 000 Ft |
 
-[^23]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a, a 192/2015. (VII. 21.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^24]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a, a 192/2015. (VII. 21.) Korm. rendelet 17. §-a, a 413/2015. (XII. 23.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
