@@ -1,4 +1,4 @@
-## 51–52. §[^22]
+## lép.
 
 ## 22. Záró rendelkezések
 
@@ -7,5 +7,3 @@
 (2) Az 1–22. §, a 23. § (1) bekezdése, a 24–49. §, az 51. § és az 52. § 2016. január 1-jén lép hatályba.
 
 (3) A 23. § (2) bekezdése 2016. július 1-jén lép hatályba.
-
-[^22]: Az 51–52. § az 53. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

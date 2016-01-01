@@ -1,0 +1,3 @@
+## 9. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 41/A. §-a helyébe a következő rendelkezés lép:
+
+## „41/A. § A gyermekgondozási díjat írásban, az OEP főigazgatója által rendszeresített nyomtatványon kell kérelmezni. A kérelmet két példányban kell a foglalkoztatóhoz benyújtani, abban az esetben is, ha a kérelmező a biztosítás megszűnését követően igényel gyermekgondozási díjat, kivéve, ha az igénylő az Ebtv. 42/E. §-a alapján kéri a gyermekgondozási díjat és a szülés napján nem biztosított. A foglalkoztató megbízottja a kérelem másolatán az átvételt igazolja.”

@@ -1,5 +1,3 @@
-## 40. §[^16]
+## 40. § A közszolgálati tisztviselők továbbképzéséről szóló 273/2012. (IX. 28.) Korm. rendelet 11. § (2) bekezdésében a „gyermekgondozási segély” szövegrész helyébe a „gyermekgondozást segítő ellátás” szöveg lép.
 
 ## 15. A felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet módosítása
-
-[^16]: A 40. § az 53. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

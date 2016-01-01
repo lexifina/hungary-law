@@ -1,5 +1,3 @@
-## 26–27. §[^8]
+## 27. § A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 7. § (7) bekezdésében a „gyermekgondozási segélyen, díjon” szövegrész helyébe a „gyermekgondozást segítő ellátáson, gyermekgondozási díjon” szöveg lép.
 
 ## 7. A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosítása
-
-[^8]: A 26–27. § az 53. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
