@@ -28,7 +28,7 @@
 
 | 13. | területrendezési eljárások | Hajdú-Bihar Megyei Kormányhivatal | nincs |
 
-2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^8]
+2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^9]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -56,4 +56,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 11. | rendészet | Hajdú-Bihar Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-[^8]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 67. § (2) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 67. § (2) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
