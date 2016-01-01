@@ -40,7 +40,7 @@
 
 18. erdővédelmi hatósági eljárások,
 
-19. a bányakapitányságok hatáskörébe tartozó hatósági eljárások,
+19.[^4] a bányafelügyelet hatáskörébe tartozó hatósági eljárások,
 
 20. tűzvédelmi hatósági eljárások,
 
@@ -57,3 +57,5 @@
 26. a honvédelmi vagy katonai célú létesítmény működési vagy védőterületén építmény vagy egyéb műtárgy elhelyezésével kapcsolatos eljárások,
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^4]: Az 1. melléket 19. pontja a 441/2015. (XII. 28.) Korm. rendelet 238. §-a szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
