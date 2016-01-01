@@ -1,4 +1,4 @@
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^139]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^141]
 
 ## A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások listája
 
@@ -286,4 +286,4 @@
 
 4.5. Vízi úti információs rendszer kiépítése.
 
-[^139]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be.
+[^141]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be.
