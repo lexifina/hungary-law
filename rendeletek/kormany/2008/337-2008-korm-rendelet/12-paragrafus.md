@@ -1,6 +1,6 @@
 ## Az előzetes többletkapacitás-befogadási eljárás
 
-12. §[^169] (1)[^170] Többletkapacitás a Tv. 11/A. §-a alapján előzetesen akkor fogadható be, ha
+12. §[^171] (1)[^172] Többletkapacitás a Tv. 11/A. §-a alapján előzetesen akkor fogadható be, ha
 
 a) központi költségvetésből támogatott népegészségügyi fejlesztés, illetve program,
 
@@ -20,7 +20,7 @@ c) a finanszírozási szabályok módosításának eredményeként felszabaduló
 
 együttes összegét.
 
-(3)[^171] Ha az (1) bekezdésben foglaltaknak megfelelő többletkapacitás-befogadási igény merül fel, az előzetes befogadásra a kérelmet a támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal, amennyiben a pályázat kiírása és határideje közötti idő ennél rövidebb, akkor a pályázat kiírását követő 8 napon belül kell elektronikusan és nyomtatott formában benyújtani az egészségügyért felelős miniszterhez. A kérelem az alábbiakat tartalmazza:
+(3)[^173] Ha az (1) bekezdésben foglaltaknak megfelelő többletkapacitás-befogadási igény merül fel, az előzetes befogadásra a kérelmet a támogatásra kiírt pályázat határidejének letelte előtt legalább 75 nappal, amennyiben a pályázat kiírása és határideje közötti idő ennél rövidebb, akkor a pályázat kiírását követő 8 napon belül kell elektronikusan és nyomtatott formában benyújtani az egészségügyért felelős miniszterhez. A kérelem az alábbiakat tartalmazza:
 
 a) a pályázat részét képező és a kérelmezett kapacitásbefogadással összefüggő orvos-szakmai programot,
 
@@ -38,7 +38,7 @@ fa) az ellátandó feladatra vonatkozó várható éves bevételeket és kiadás
 
 fb) a tervezett kapacitásbővítésnek az egészségügyi szolgáltató egészére gyakorolt hatásának bemutatását, tekintettel a más szervezeti egységeknél megjelenő többletköltségekre, illetve a más egységeknél elérhető megtakarításokra, méretgazdaságossági szempontokra.
 
-(3a)[^172] Ha a többletkapacitás előzetes befogadása iránti igény az (1) bekezdés a) vagy c) pontjában foglaltak megvalósításához kötődik, a többletkapacitás előzetes befogadására irányuló kérelmet elektronikusan és nyomtatott formában kell benyújtani az egészségügyért felelős miniszterhez. A kérelemnek tartalmaznia kell:
+(3a)[^174] Ha a többletkapacitás előzetes befogadása iránti igény az (1) bekezdés a) vagy c) pontjában foglaltak megvalósításához kötődik, a többletkapacitás előzetes befogadására irányuló kérelmet elektronikusan és nyomtatott formában kell benyújtani az egészségügyért felelős miniszterhez. A kérelemnek tartalmaznia kell:
 
 a) a kérelmezett kapacitásbefogadással összefüggő orvos-szakmai programot,
 
@@ -64,7 +64,7 @@ c) történt-e rendkívüli intézkedés az ellátás biztosítása érdekében.
 
 (6) Az OEP (4) bekezdés szerinti véleménye a (3) bekezdés szerinti kérelem finanszírozási szempontú véleményezésén túlmenően a többletkapacitás-befogadás mértékére és feltételeire vonatkozó javaslatát is tartalmazza.
 
-[^169]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^170]: A 12. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
-[^171]: A 12. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
-[^172]: A 12. § (3a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 51. § (2) bekezdése iktatta be.
+[^171]: A 12. § a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^172]: A 12. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
+[^173]: A 12. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
+[^174]: A 12. § (3a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 51. § (2) bekezdése iktatta be.

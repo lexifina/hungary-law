@@ -1,24 +1,24 @@
-## Az egészségügyi szakellátási kapacitások és ellátási területek nyilvántartása[^90]
+## Az egészségügyi szakellátási kapacitások és ellátási területek nyilvántartása[^92]
 
-5/B. §[^91] (1)[^92] A kapacitás-nyilvántartást az OTH a fekvőbeteg-szakellátások és a járóbeteg-szakellátások tekintetében külön-külön vezeti.
+5/B. §[^93] (1)[^94] A kapacitás-nyilvántartást az OTH a fekvőbeteg-szakellátások és a járóbeteg-szakellátások tekintetében külön-külön vezeti.
 
-(2)[^93]
+(2)[^95]
 
-(2a)[^94]
+(2a)[^96]
 
 (3) Az OTH a szakellátási kapacitásokat érintő változást az erről szóló döntés jogerőre emelkedésével vezeti át a nyilvántartáson, azzal, hogy a szünetelésre vonatkozó adatokat a bejelentés tudomásul vételével rögzíti.
 
-(4)[^95]
+(4)[^97]
 
 (5) Az OTH az ellátási területet, illetve annak változását az erről rendelkező döntés jogerőre emelkedésével vezeti át a nyilvántartáson.
 
-(5a)[^96] Amennyiben nem kerül megállapításra ellátási terület, a 2. számú melléklet A) rész 53. és 57. pontja szerinti ellátások esetében a nyilvántartásban az adott egészségügyi szolgáltató számára az aktív fekvőbeteg-szakellátásban megállapított ellátási területek összességét kell az adott kapacitáshoz tartozó ellátási területként rögzíteni azzal, hogy az átfedésmentesség követelményét és a térséghatárt nem kell figyelembe venni.
+(5a)[^98] Amennyiben nem kerül megállapításra ellátási terület, a 2. számú melléklet A) rész 53. és 57. pontja szerinti ellátások esetében a nyilvántartásban az adott egészségügyi szolgáltató számára az aktív fekvőbeteg-szakellátásban megállapított ellátási területek összességét kell az adott kapacitáshoz tartozó ellátási területként rögzíteni azzal, hogy az átfedésmentesség követelményét és a térséghatárt nem kell figyelembe venni.
 
-(6)[^97]
+(6)[^99]
 
-(6a)[^98] Abban az esetben, ha jogszabályi változás érinti a Tv. 5/A. § (8b) bekezdés d) pontjában, illetve (8c) bekezdés d) pontjában meghatározott adatokat, a változást – a kapacitás-nyilvántartásnak a (3), illetve az (5) bekezdés szerinti módosulásáig – az egészségbiztosításért felelős miniszter által vezetett minisztérium honlapján közzétett tájékoztatóban meghatározottak szerint kell figyelembe venni azzal, hogy ennek tényét – a tájékoztató elérhetőségének biztosításával egyidejűleg – a kapacitás-nyilvántartásban is közölni kell.
+(6a)[^100] Abban az esetben, ha jogszabályi változás érinti a Tv. 5/A. § (8b) bekezdés d) pontjában, illetve (8c) bekezdés d) pontjában meghatározott adatokat, a változást – a kapacitás-nyilvántartásnak a (3), illetve az (5) bekezdés szerinti módosulásáig – az egészségbiztosításért felelős miniszter által vezetett minisztérium honlapján közzétett tájékoztatóban meghatározottak szerint kell figyelembe venni azzal, hogy ennek tényét – a tájékoztató elérhetőségének biztosításával egyidejűleg – a kapacitás-nyilvántartásban is közölni kell.
 
-(7)[^99] A Tv. 11/A. § (4) bekezdése szerinti nyilvántartásban az előzetesen befogadott többletkapacitások ellátási formánként és szakmánként szerepelnek. A nyilvántartás tartalmazza
+(7)[^101] A Tv. 11/A. § (4) bekezdése szerinti nyilvántartásban az előzetesen befogadott többletkapacitások ellátási formánként és szakmánként szerepelnek. A nyilvántartás tartalmazza
 
 a) annak a pályázónak, illetve egészségügyi szolgáltatónak a nevét, székhelyét és egészségügyi szolgáltató esetén egyedi azonosítóját, aki számára a többletkapacitás előzetesen befogadásra került,
 
@@ -26,7 +26,7 @@ b) a pályázat szerinti projekt azonosító számát,
 
 c) a támogatási szerződés számát,
 
-d)[^100] a Tv. 11/A. § (2) bekezdése szerinti esetben az előzetes befogadás tárgyában közzétett kormányhatározat számát,
+d)[^102] a Tv. 11/A. § (2) bekezdése szerinti esetben az előzetes befogadás tárgyában közzétett kormányhatározat számát,
 
 e) az előzetesen befogadott kapacitáshoz kapcsolódó fejlesztés szerinti térség megnevezését,
 
@@ -36,27 +36,27 @@ g) az előzetesen befogadott kapacitás mennyiségét,
 
 h) az előzetesen befogadott kapacitás tekintetében a finanszírozási szerződés megkötésének várható időpontját.
 
-(8)[^101] Abban az esetben, ha a finanszírozási szerződés megkötésre kerül a Tv. 11/A. § (4) bekezdése szerinti nyilvántartásban szereplő kapacitás tárgyában, azt át kell tenni a kapacitás-nyilvántartásba.
+(8)[^103] Abban az esetben, ha a finanszírozási szerződés megkötésre kerül a Tv. 11/A. § (4) bekezdése szerinti nyilvántartásban szereplő kapacitás tárgyában, azt át kell tenni a kapacitás-nyilvántartásba.
 
-(9)[^102] Törölni kell a Tv. 11/A. § (4) bekezdése szerinti nyilvántartásból a kapacitást
+(9)[^104] Törölni kell a Tv. 11/A. § (4) bekezdése szerinti nyilvántartásból a kapacitást
 
 a) a (8) bekezdés szerinti esetben,
 
 b) a 12/C. § (4) és (6) bekezdése szerinti esetben.
 
-(10)[^103] Abban az esetben, ha az előzetes befogadást követően olyan jogszabályi változás következett be, amely érinti az előzetesen befogadott kapacitás tekintetében a (7) bekezdésben meghatározott adatokat, a változást – a pályázó szükség szerinti megkeresését követően – a Tv. 11/A. § (4) bekezdése szerinti nyilvántartásban át kell vezetni azzal, hogy a 12/C. § (7) bekezdés a), illetve b) pontjában foglaltakat megfelelően alkalmazni kell.
+(10)[^105] Abban az esetben, ha az előzetes befogadást követően olyan jogszabályi változás következett be, amely érinti az előzetesen befogadott kapacitás tekintetében a (7) bekezdésben meghatározott adatokat, a változást – a pályázó szükség szerinti megkeresését követően – a Tv. 11/A. § (4) bekezdése szerinti nyilvántartásban át kell vezetni azzal, hogy a 12/C. § (7) bekezdés a), illetve b) pontjában foglaltakat megfelelően alkalmazni kell.
 
-[^90]: Az 5/B. §-t megelőző alcímet a 325/2011. (XII. 28.) Korm. rendelet 65. §-a iktatta be.
-[^91]: Az 5/B. §-t a 325/2011. (XII. 28.) Korm. rendelet – a 107/2012. (VI. 1.) Korm. rendelet 14. §-a szerint módosított – 65. §-a iktatta be.
-[^92]: Az 5/B. § (1) bekezdése a 125/2013. (IV. 26.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
-[^93]: Az 5/B. § (2) bekezdését a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése hatályon kívül helyezte.
-[^94]: Az 5/B. § (2a) bekezdését a 125/2013. (IV. 26.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése.
-[^95]: Az 5/B. § (4) bekezdését a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése hatályon kívül helyezte.
-[^96]: Az 5/B. § (5a) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 14. §-a iktatta be.
-[^97]: Az 5/B. § (6) bekezdését a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése hatályon kívül helyezte.
-[^98]: Az 5/B. § (6a) bekezdését a 164/2012. (VII. 19.) Korm. rendelet 2. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^99]: Az 5/B. § (7) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be, nyitó szövegrésze az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^100]: Az 5/B. § (7) bekezdés d) pontja az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^101]: Az 5/B. § (8) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 12. § g) pontja, az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^102]: Az 5/B. § (9) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be, nyitó szövegrésze az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^103]: Az 5/B. § (10) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^92]: Az 5/B. §-t megelőző alcímet a 325/2011. (XII. 28.) Korm. rendelet 65. §-a iktatta be.
+[^93]: Az 5/B. §-t a 325/2011. (XII. 28.) Korm. rendelet – a 107/2012. (VI. 1.) Korm. rendelet 14. §-a szerint módosított – 65. §-a iktatta be.
+[^94]: Az 5/B. § (1) bekezdése a 125/2013. (IV. 26.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^95]: Az 5/B. § (2) bekezdését a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése hatályon kívül helyezte.
+[^96]: Az 5/B. § (2a) bekezdését a 125/2013. (IV. 26.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése.
+[^97]: Az 5/B. § (4) bekezdését a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése hatályon kívül helyezte.
+[^98]: Az 5/B. § (5a) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 14. §-a iktatta be.
+[^99]: Az 5/B. § (6) bekezdését a 254/2013. (VII. 5.) korm. rendelet 38. § (2) bekezdése hatályon kívül helyezte.
+[^100]: Az 5/B. § (6a) bekezdését a 164/2012. (VII. 19.) Korm. rendelet 2. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^101]: Az 5/B. § (7) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be, nyitó szövegrésze az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^102]: Az 5/B. § (7) bekezdés d) pontja az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^103]: Az 5/B. § (8) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 12. § g) pontja, az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^104]: Az 5/B. § (9) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be, nyitó szövegrésze az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^105]: Az 5/B. § (10) bekezdését a 137/2012. (VII. 29.) Korm. rendelet 38. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 57. § (1) bekezdés g) pontja szerint módosított szöveg.
