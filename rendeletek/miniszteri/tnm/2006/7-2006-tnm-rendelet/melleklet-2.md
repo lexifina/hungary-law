@@ -216,7 +216,7 @@
 
 ## 1. A belső hőmérsékletre vonatkozó előírások
 
-## Ha jogszabály eltérően nem rendelkezik, a tervezésnél a belső hőmérsékletre vonatkozóan az alábbi táblázatban levő hőmérsékleteket kell figyelembe venni. Megfelelő megoldás az MSZ EN 15251 szabványban levő légállapot követelmények alkalmazása is.
+## 1.1. Ha jogszabály eltérően nem rendelkezik, a tervezésnél a belső hőmérsékletre vonatkozóan az alábbi táblázatban levő hőmérsékleteket kell figyelembe venni. Megfelelő megoldás az MSZ EN 15251 szabványban levő légállapot követelmények alkalmazása is.
 
 ## Általános esetben az alábbi 1. táblázat tartalmazza a hőmérsékletet és a beszabályozási tartományt.
 
@@ -235,6 +235,16 @@
 | Áruház | 16 | 16-22 | 25 | 21-25 |
 
 ## Megjegyzés: A táblázatban levő hőmérsékletek operatív hőmérsékletet jelentenek.
+
+## 1.2. A fűtés üzemideje alatt, ha jogszabály másképp nem rendelkezik:
+
+## 1.2.1. huzamos tartózkodásra szolgáló helyiségekben és az azokkal egy rendeltetési egységben lévő helyiségekben a fűtési energiaigény meghatározását 20 °C parancsolt levegő hőmérsékletre kell végezni;
+
+## 1.2.2. azokban a közlekedőkben és mellékhelyiségekben, amelyek egy épületben vannak a huzamos tartózkodásra szolgáló helyiségekkel, de nincsenek velük egy rendeltetési egységben és azoktól U < 0,8 W/m2K szerkezetek határolják, 17 °C parancsolt levegő hőmérsékletétre lehet végezni a méretezést;
+
+## 1.2.3. azokban a helyiségekben, amelyekben hőleadó kerül kiépítésre, azt kell feltételezni, hogy a fűtés üzemideje alatt kifűtésre kerülnek, a lakó-, szállás, iroda, oktatási, kereskedelmi, egészségügyi rendeltetéstől eltérő egyéb rendeltetésűként számított épületek vagy épületrészek kivételével;
+
+## 1.3. Amennyiben kiépítésre kerül hűtési rendszer, akkor a hűtés üzemideje alatt, ha jogszabály másképp nem rendelkezik, az energiaigény meghatározását 26 °C parancsolt levegő hőmérsékletre kell végezni.
 
 ## 2. Az épület szellőző levegő igénye
 
@@ -286,6 +296,8 @@
 
 ## A friss levegő mennyiséget ki kell számítani az (1.) oszlop szerint a lakás hasznos alapterülete alapján, a (2.) oszlop szerint a lakást használó személyek száma alapján és a (3.) oszlop szerint a nappali és a hálószoba alapterülete alapján. A három térfogatáram közül a legnagyobbat kell figyelembe venni.
 
+## 2.3. Az energiaigény meghatározásánál figyelembe vett szellőzési levegő mennyisége nem lehet kevesebb, mint a 3. melléklet IV.1. táblázatban megadott érték.
+
 ## 3. A hőtermelőre vonatkozó előírások
 
 ## 3.1. Hőtermelő
@@ -316,17 +328,17 @@
 
 ## 5.1. A cirkulációs szivattyú működtetése
 
-## Amennyiben a használati melegvíz rendszerhez cirkulációs rendszer tartozik, akkor lehetőséget kell biztosítani a cirkulációs szivattyú időprogram szerinti működtetésére.
+## Amennyiben a használati melegvíz rendszerhez cirkulációs rendszer tartozik, akkor biztosítani kell a cirkulációs szivattyú időprogram szerinti működtetését.
 
 ## 5.2. Beszabályozás, próbaüzem, átadás
 
-## A cirkulációs vezetékkel rendelkező használati melegvíz rendszereket a beszabályozási terv alapján javasolt beszabályozni és a beszabályozást dokumentálni. A mérés után szúrópróbával a szelepek min. 10%-át kötelező ellenőrizni.
+## A cirkulációs vezetékkel rendelkező használati melegvíz rendszereket a beszabályozási terv alapján kell beszabályozni és a beszabályozást dokumentálni. A mérés után szúrópróbával a szelepek min. 10%-át kötelező ellenőrizni.
 
 ## 6. A légtechnikai rendszerre vonatkozó előírások
 
 ## 6.1. Hővisszanyerő
 
-## A légtechnikai rendszer levegőjének fűtése esetén legalább 70%-os hővisszanyerő beépítése javasolt.
+## Lakótól eltérő rendeltetésű épületek esetén, amennyiben a légtechnikai rendszerben elszívásra és befújásra is légvezeték kiépítése történik, vagy amennyiben a légtechnikai rendszerben a levegő fűtésre kerül, akkor a légtechnikai rendszert úgy kell kialakítani, hogy a szellőző rendszerbe épített hővisszanyerés működési hatásfoka legalább 65% legyen.
 
 ## 6.2. Ventilátorok energiafogyasztása
 
@@ -378,7 +390,7 @@
 
 ## 4. táblázat: Légcsatornák megengedett maximális levegő vesztesége
 
-## 2K18385M_12
+## 5K19585M_12
 
 | Statikus nyomás[Pa] | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000 | 1200 | 1500 | 1800 | 2000 |
 
@@ -400,6 +412,8 @@
 
 ## A hűtési rendszereket a beszabályozási terv alapján kötelező beszabályozni és a beszabályozást dokumentálni. A mérés után szúrópróbával a szelepek min. 10%-át ellenőrizni kell. Tartós próbaüzemet kell tartani, mely során a rendszerek megkövetelt működését, az üzemelési paraméterek teljesülését ellenőrizni és dokumentálni kell.
 
-2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^20]
+## Olyan helyiségek esetén, amelyeknek a bevilágító felületei 45°-foknál alacsonyabb szögben vannak, vagy 45°-on vagy annál magasabb szögben vannak és az északi tájolástól legalább 30°-kal eltérnek, hűtési rendszert kiépíteni csak abban az esetben szabad, ha bevilágító felületeken a hűtési üzemideje alatt gnyár<0,3 napsugárzás elleni hővédelem van biztosítva.
 
-[^20]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^19]
+
+[^19]: A 2. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (2) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (2) bekezdése szerint módosított szöveg.

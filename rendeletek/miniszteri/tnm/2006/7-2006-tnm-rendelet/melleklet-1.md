@@ -1,3 +1,3 @@
-1. melléklet a 7/2006. (V. 24.) TNM rendelethez[^19]
+1. melléklet a 7/2006. (V. 24.) TNM rendelethez[^18]
 
-[^19]: Az 1. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^18]: Az 1. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (1) bekezdése, a 39/2015. (IX. 14.) MvM rendelet 5. § a) pontja szerint módosított szöveg.

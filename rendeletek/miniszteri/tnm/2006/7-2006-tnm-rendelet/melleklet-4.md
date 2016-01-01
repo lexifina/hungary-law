@@ -2,13 +2,13 @@
 
 ## I. Jelölések és mértékegységek
 
-## 4K03449N_0
+## 5K19585N_0
 
 | Sorszám | 1.Jelölés | 2.A mennyiség megnevezése | 3.Mértékegység |
 
 | 1. | A | felület, a belméretek alapján számolva | m2 |
 
-| 2. | AN | nettó fűtött szintterület | m2 |
+| 2. | AN | (fűtőtt) hasznos alapterület | m2 |
 
 | 3. | AÜ | az üvegezés felülete, az üvegezés mérete alapján számolva | m2 |
 
@@ -44,9 +44,9 @@
 
 | 19. | Evil,n | a beépített világítás fajlagos éves nettó villamos energia igénye | kWh/m2/a |
 
-| 20. | H | az éves fűtési hőfokhíd ezredrésze | hK/1000a |
+| 20. | H | az éves fűtési hőfokhíd ezredrésze | khK/a |
 
-| 20a. | Hd | a deresedés szempontjából kritikus órákban az éves fűtési hőfokhíd ezredrésze | hK/1000a |
+| 20a. | Hd | a deresedés szempontjából kritikus órákban az éves fűtési hőfokhíd ezredrésze | khK/a |
 
 | 21. | Ib | a napsugárzás intenzitása egyensúlyi hőmérséklet számításához | W/m2 |
 
@@ -54,7 +54,7 @@
 
 | 23. | M | hőtároló tömeg | kg |
 
-| 24. | QF | éves nettó fűtési energiaigény | kWh/a |
+| 24. | QF | éves nettó fűtési energiaigény, ami nulla vagy annál nagyobb érték lehet | kWh/a |
 
 | 25. | Qhű | a gépi hűtés éves nettó energiaigénye | kWh/a |
 
@@ -82,11 +82,11 @@
 
 | 37. | VLT | a levegő térfogatárama | m3/h |
 
-| 38. | Za,LT | a légtechnikai rendszer egész évi működési idejének ezredrésze | h/1000a |
+| 38. | Za,LT | a légtechnikai rendszer egész évi működési idejének ezredrésze | kh/a |
 
-| 39. | ZLT | a légtechnikai rendszer működési idejének ezredrésze a fűtési idényben | h/1000a |
+| 39. | ZLT | a légtechnikai rendszer működési idejének ezredrésze a fűtési idényben | kh/a |
 
-| 40. | ZF | a fűtési idény hosszának ezredrésze | h/1000a |
+| 40. | ZF | a fűtési idény hosszának ezredrésze | kh/a |
 
 | 41. | a és b | a négyszög keresztmetszetű légcsatorna belső élméretei | m |
 
@@ -218,7 +218,7 @@
 
 ## I.1. táblázat: Hőfokhíd és fűtési idény hossza 20 °C belső hőmérséklet esetén az egyensúlyi hőmérsékletkülönbség függvényében
 
-| Δtb [K] egyensúlyi hőmérséklet-különbség | tfh [°C] fűtési határhőmérséklet, napi középhőmérséklet | ZF 1000 szerese [h/a] idény hossz, tfh-nál alacsonyabb átlaghőmérsékletű órák száma | H20 1000 szerese [hK/a] hőfokhíd |
+| Δtb [K] egyensúlyi hőmérséklet-különbség | tfh [°C] fűtési határhőmérséklet, napi középhőmérséklet | ZF [h/a] idény hossz, tfh-nál alacsonyabb átlaghőmérsékletű órák száma | H20 [hK/a] hőfokhíd |
 
 | 39 | -19 | 1 | 31 |
 
@@ -378,7 +378,7 @@
 
 ## II.1. táblázat: Légcsereszám tervezési adatok a nyári túlmelegedés kockázatának megítéléséhez természetes szellőztetés esetén
 
-## 4K03449N_8
+## 5K19585N_8
 
 | A légcsereszám tervezési értékei nyáron, természetes szellőztetéssel | Nyitható nyílások |
 
@@ -394,7 +394,7 @@
 
 ## III.1. táblázat: A talajon fekvő padlók vonalmenti hőátbocsátási tényezői a kerület hosszegységére vonatkoztatva
 
-## 4K03449N_9
+## 5K19585N_9
 
 |  | A padlószint és a talajszint közötti magasság- | A padlószerkezet hővezetési ellenállása a kerület mentén legalább 1,5 m szélességű sávban1) |
 
@@ -458,11 +458,11 @@
 
 ## IV.1. táblázat: Tervezési adatok
 
-| Az épület rendeltetése | Légcsere- szám fűtési idényben n [1/h] | Használati melegvíz nettó hőenergia Igénye qHMV [kWh/m2/a ] | Világítás energia igénye qvil [kWh/m2/a] | Világítási energia Igény korrekciós szorzó υ4) | Szakaszos üzem korrekciós szorzó σ5) | Belső hő- nyereség átlagos értéke qb [W/m2] |
+| Az épület rendeltetése | Légcsere- szám fűtési idényben n [1/h] | Használati melegvíz nettó hőenergia Igénye qHMV [kWh/m2/a ] | Világítás energia igénye qvil [kWh/m2/a] | Világítási energia Igény korrekciós szorzó υ4) | Szakaszos üzem korrekciós szorzó σ5) | Belső hő- nyereség átlagos értéke qb11)[W/m2] |
 
 | 1) | 2) | 3) |
 
-| Lakóépületek 6) | 0,5 | 30 | (4) 9) | - | 0,9 | 5 |
+| Lakóépületek 6) | 0,5 | 3010) | (4) 9) | - | 0,9 | 5 |
 
 | Irodaépületek 7) | 2 | 0,3 | 0,8 | 9 | 11 | 0,7 | 0,8 | 7 |
 
@@ -487,6 +487,10 @@
 ## 8) Napi és heti szakaszosságú használat két hónap nyári szünet feltételezésével
 
 ## 9) Lakóépületek esetében nem kell az összevont jellemzőben szerepeltetni.
+
+## 10) A lakóegységenként a lakóegység 80 m2 hasznos alapterület feletti hányadát 15 kWh/m2a-el kell figyelembe venni.
+
+## 11) A fűtési energia igény számításánál a belső hő nyereség hasznosult hányadát fajlagos hőtároló tömeg függvényében le kell csökkenteni.
 
 ## A tervezési alapadatok szempontjából:
 
@@ -576,7 +580,7 @@
 
 4. melléklet a 7/2006. (V. 24.) TNM rendelethez
 
-Új épületek alternatív rendszereinek vizsgálata[^22]
+Új épületek alternatív rendszereinek vizsgálata[^21]
 
 I. Általános rendelkezések
 
@@ -720,4 +724,4 @@ III. Gazdaságossági vizsgálat
 
 IV. Mintalap a megvalósíthatósági elemzés eredményeinek dokumentálásához
 
-[^22]: A 4. melléklet címe a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^21]: A 4. melléklet címe a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
