@@ -1,0 +1,9 @@
+29. § A Hszt. 358. §-a helyébe a következő rendelkezés lép:
+
+„358. § (1) Abban az esetben, ha a hivatásos állomány 2015. július 1. napján szolgálati viszonyban álló tagja által betöltött szolgálati beosztás besorolási kategóriájához a hivatásos állomány tagja részére megállapított fizetési fokozatban szorzószám nem került rendszeresítésre, akkor a hivatásos állomány tagjának illetményét az adott besorolási kategóriához rendszeresített legelső fizetési fokozat alapján kell folyósítani azzal, hogy megállapított fizetési fokozata ezzel nem változik. A fizetési fokozatban előmenetelre, valamint a szolgálati beosztás módosítása esetén a megállapított fizetési fokozat irányadó.
+
+(2) A 2015. július 1. és 2015. december 31. között a hivatásos állomány (1) bekezdés alapján besorolt tagjának illetményét a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény és más kapcsolódó törvények módosításáról szóló 2015. évi CCIII. törvény (a továbbiakban: Módtv.) hatálybalépésével bevezetésre kerülő új, besorolási kategóriához rendszeresített első fizetési fokozatok nem érintik, illetményét – amennyiben szolgálati beosztása nem változik – továbbra is a 2015. július 1. és 2015. december 31. között hatályos szabályok szerint az adott besorolási kategóriához rendszeresített első fizetési fokozat alapján kell megállapítani.
+
+(3) A 2016. január 1-jét megelőzően a 119. § (2) bekezdése alapján besoroltak esetében a Módtv.-nyel megállapított 119. § (3) bekezdését nem kell alkalmazni.
+
+(4) Ha a Módtv.-nyel megállapított 5–8. melléklet a besorolási kategória valamely fizetési fokozatához magasabb rendfokozatot rendszeresített, az azon besorolási kategória érintett fizetési fokozatába besoroltak esetében 2016. január 1-jén a hivatásos állomány tagját a rendfokozati vizsga teljesítése nélkül a Módtv.-ben megállapított rendfokozatba ki kell nevezni vagy elő kell léptetni.”
