@@ -8,24 +8,25 @@
 
 (3) Az egyes értékelési szempontokhoz rendelt százalékos értékek együttes számtani átlaga adja a teljesítményszintet, ami a teljesítményértékelés eredménye.
 
-(4) A százalékos értéksávok, a hozzá kapcsolódó teljesítményfokozatok és teljesítményszintek a következők:
+(4)[^12] A százalékos értéksávok, a hozzá kapcsolódó teljesítményfokozatok és teljesítményszintek a következők:
 
 | Teljesítményszint | Teljesítményfokozat | Százalékos értéksávok |
 
-| A szint | kivételes teljesítmény | 100–91% |
+| A szint | kivételes teljesítmény | 100–90% |
 
-| B szint | jó teljesítmény | 90–71% |
+| B szint | jó teljesítmény | 89,99–70% |
 
-| C szint | megfelelő teljesítmény | 70–51% |
+| C szint | megfelelő teljesítmény | 69,99–50% |
 
-| D szint | átlag alatti teljesítmény | 50–41% |
+| D szint | átlag alatti teljesítmény | 49,99–40% |
 
-| E szint | elfogadhatatlan teljesítmény | 40–0% |
+| E szint | elfogadhatatlan teljesítmény | 39,99–0% |
 
-(5)[^12] Az igazságügyért felelős miniszter, a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve a honvédelemért felelős miniszter rendelkezhet úgy, hogy a teljesítményértékelés kötelező, illetve ajánlott elemei teljesítményértékelésének az eredményeit – az általa meghatározottak szerint – súlyozott értékkel kell figyelembe venni.
+(5)[^13] Az igazságügyért felelős miniszter, a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve a honvédelemért felelős miniszter rendelkezhet úgy, hogy a teljesítményértékelés kötelező, illetve ajánlott elemei teljesítményértékelésének az eredményeit – az általa meghatározottak szerint – súlyozott értékkel kell figyelembe venni.
 
 (6) A teljesítményértékelésnek tartalmaznia kell az értékelt személy észrevételeit a teljesítményértékelésével kapcsolatban, valamint javaslatait, elképzeléseit életpályájával kapcsolatban.
 
 (7) A közszolgálati tisztviselő, illetve a hivatásos állomány tagjának kérésére a munkavállalói érdekképviseleti szerv, illetve a területi szinten működő Magyar Kormánytisztviselői Kar (a továbbiakban: MKK) vagy a Magyar Rendvédelmi Kar (a továbbiakban: MRK) a teljesítményértékelésre írásban észrevételt tehet, melyet a teljesítményértékelésen fel kell tüntetni.
 
-[^12]: A 11. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 713. § b) pontja, a 157/2015. (VI. 25.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^12]: A 11. § (4) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^13]: A 11. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 713. § b) pontja, a 157/2015. (VI. 25.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
