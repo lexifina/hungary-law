@@ -1,0 +1,3 @@
+## 4. § A Korm. rendelet 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A pénzügyi intézménytől az Are. tv. 17. § (7) bekezdése alapján kapott adatot, illetve a CsSz területi szervétől a 9/C. § (1) bekezdésében meghatározott módon kapott adatot a CsSz referenciaadat-szolgáltatói feladatokat ellátó központi szerve elektronikus úton, az adat beérkezésétől számított három munkanapon belül továbbítja a KHR-t működtető pénzügyi vállalkozás részére, a KHR tv.-ben meghatározott adattartalommal, a (2) bekezdésben említett formanyomtatványon és a KHR-t működtető pénzügyi vállalkozás által megállapított adatszerkezetben.”
