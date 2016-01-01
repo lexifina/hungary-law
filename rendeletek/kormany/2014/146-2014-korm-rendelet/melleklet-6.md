@@ -36,9 +36,9 @@
 
 |  | Neve: |
 
-|  | Ellenőri engedélyének száma: |
+|  | Ellenőri nyilvántartási száma: |
 
-|  | Ellenőri engedélyének érvényességi ideje: |
+|  | Ellenőri tevékenység gyakorlásának jogosultsági ideje: |
 
 | 4. | A szervezet rendelkezik-e a tevékenysége során esetlegesen okozott kár pénzügyi fedezetére a várható kockázattal, valamint árbevételével arányos összegű felelősségbiztosítással hazai biztosítónál |
 

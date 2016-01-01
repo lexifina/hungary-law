@@ -1,8 +1,8 @@
-13. § (1) Az ellenőri jogosultság a megadásától számított öt évig hatályos.
+13. § (1)[^25] Az ellenőri jogosultság a bejelentéstől számított öt évig hatályos.
 
-(2) A jogosultság hatálya – az ellenőr kérelmére – öt évenként meghosszabbítható. Az engedély hatálya meghosszabbításának feltétele a (4) bekezdés szerinti továbbképzés elvégzése és a teljesítés igazolása.
+(2)[^26] A jogosultság hatálya – az ellenőr bejelentésére – öt évenként meghosszabbodik. A jogosultság hatálya meghosszabbodásának feltétele a (4) bekezdés szerinti továbbképzés elvégzése és a teljesítés igazolása.
 
-(3) Az engedély hatályának meghosszabbítása iránti kérelmet a 4. melléklet szerinti adattartalommal kell benyújtani.
+(3)[^27] A jogosultság hatályának meghosszabbítása iránti kérelmet a 4. melléklet szerinti adattartalommal kell benyújtani.
 
 (4) A szakmai követelmények változásait figyelembe véve a felvonó és mozgólépcső ellenőri munkakörök betöltése továbbképzéshez kötött, amelyről továbbképzési igazolást kell kiállítani. Továbbképzési igazolást az kaphat, aki a szervezett továbbképzésen részt vett és eredményes vizsgát tett.
 
@@ -21,3 +21,7 @@ b) a konstrukció, az üzemvitel, a karbantartás, a műszaki biztonságtechnika
 (9) A továbbképzés időtartama naptári évenként legalább 16 óra.
 
 (10) Az összeférhetetlenségre vonatkozó szabályokat alkalmazni kell a nyilvántartott szervezet ellenőre és az ellenőr – Polgári Törvénykönyv szerinti – közeli hozzátartozója berendezésekkel kapcsolatos további tevékenysége tekintetében.
+
+[^25]: A 13. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 227. § c) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^26]: A 13. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 226. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^27]: A 13. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 227. § d) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
