@@ -20,10 +20,11 @@ h)[^32] engedély nélküli használat esetén a sajátos építmény vagy sajá
 
 de legalább ötszázezer forint, legfeljebb tízmillió forint.
 
-(2) Ha a sajátos építmény vagy sajátos építményrész kivitelezését az építési vagy a bontási engedély közlését követően, de annak jogerőre emelkedése előtt kezdték meg, kivéve, ha az engedély fellebbezésre tekintet nélkül végrehajtható, és később az építési vagy a bontási engedély változatlan tartalommal jogerőre emelkedik, akkor a bírság mértéke az (1) bekezdésben meghatározott mérték 50%-a. Ebben az esetben a bírság megállapítására vonatkozó eljárást az építési vagy bontási engedély jogerőssé és végrehajthatóvá válásáig fel kell függeszteni.
+(2)[^33] Ha a sajátos építmény vagy sajátos építményrész kivitelezését az építési vagy a bontási engedély közlését követően, de annak jogerőre emelkedése előtt kezdték meg, kivéve, ha az engedély fellebbezésre tekintet nélkül végrehajtható, és később az építési vagy a bontási engedély változatlan tartalommal jogerőre emelkedik, akkor a bírság mértéke az (1) bekezdésben meghatározott mérték 50%-a.
 
 (3) A bírság mértékét – a kerekítés általános szabályai szerint – ezer forintra való kerekítéssel kell megállapítani.
 
 [^30]: A 39. § (1) bekezdés f) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított szöveg.
 [^31]: A 39. § (1) bekezdés g) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított, a 311/2014. (XII. 11.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
 [^32]: A 39. § (1) bekezdés h) pontját az 559/2013. (XII. 31.) Korm. rendelet 67. §-a iktatta be.
+[^33]: A 39. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 172. §-a szerint módosított szöveg.
