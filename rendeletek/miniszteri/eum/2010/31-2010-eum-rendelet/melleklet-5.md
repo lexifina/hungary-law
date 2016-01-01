@@ -8,29 +8,35 @@
 
 ## 2. Kórkép leírása
 
-## A daganatos betegek körében gyakori kísérő tünet az anémia, melynek oka részben az alapbetegség, részben az arra alkalmazott terápia. A vérszegénység egyfelől a betegek életminőségét ronthatja jelentősen, másrészről befolyásolja a daganatellenes kezelés eredményességét.
+## A daganatos betegek körében 30-90%-os gyakoriságú kísérő tünet az anémia. Az ok részben a betegség jellege, részben az alapbetegségre alkalmazott terápia. A vérszegénység egyfelől a betegek életminőségét ronthatja jelentősen, másrészről befolyásolja a daganatellenes kezelés eredményességét.
 
 ## 2.1. Onkológiai kórképek során kialakult anémia etiológiája
 
-## 2.1.1. A következő kórfolyamatok válthatják ki:
+## 2.1.1. A daganatos betegségek során kialakult anémia számos kórfolyamatra vezethető vissza:
 
 ## 2.1.1.1. daganatsejtek által kiváltott fokozott makrofág-aktiváció és következményes vörösvértest pusztulás,
 
 ## 2.1.1.2. bizonyos citokinek gátolják a vesében az eritropoetin termelést,
 
-## 2.1.1.3. a csontvelő tumoros infiltrációja (NICE),
+## 2.1.1.3. a csontvelő tumoros infiltrációja (NICHE),
 
-## 2.1.1.4. a beteg étvágyának csökkenése, emiatt bizonyos anyagok csökkent bevitele (például: vas, folsav hiány),
+## 2.1.1.4. a daganatsejtekből vasraktározást fokozó, csökkent vörösvérsejt termelést és rövidülő vörösvérsejt élettartamot okozó citokinek kibocsátása,
 
-## 2.1.1.5. vérvesztés, mely akár a tumorból, akár pedig a tumorba irányulhat.
+## 2.1.1.5. a beteg étvágyának csökkenése, emiatt bizonyos anyagok csökkent bevitele (pl: vas, folsav hiány),
+
+## 2.1.1.6. vérvesztés, mely akár a tumorból, akár pedig a tumorba irányulhat,
+
+## 2.1.1.7. hemolízis mechanikus (pl. DIC: fragmentációs) vagy immunológiai tényezők miatt.
 
 ## 2.1.2. A kemoterápiás készítmények a következő mechanizmuson keresztül okozhatnak anémiát:
 
 ## 2.1.2.1. direkt myeloszupresszív hatás a vörösvértest termelés gátláson keresztül,
 
-## 2.1.2.2. a vesetubulusok direkt szövet károsodása során, ami az EPO termelést tovább csökkenti.
+## 2.1.2.2. a vesetubulusok direkt szövet károsodása során, ami az EPO termelést tovább csökkenti,
 
-## 2.1.3. Egyes kemoterápiás készítmények anémiát okozó hatása még kifejezettebb, ezek a platina-tartalmú kemoterápiák, melyeket leginkább ovarium, tüdő, fej-nyaki daganatokban alkalmaznak. Feltehetően az ezen tumorokban nagyobb arányban előforduló anémia is a betegségre adott kemoterápia platina tartalmával függ össze. Az anémia objektív tünete lehet a szédülés, nehézlégzés, fejfájás, depresszió. A súlyos kimerültség talán a legjellemzőbb és leggyakrabban előforduló szubjektív tünet, bár ennek egyéb okai is lehetnek: radioterápia, alapbetegség, szorongás, depresszió. Az alacsony haemoglobinszint az alkalmazott kemoterápia hatékonyságát csökkenti, így a várható túlélésre is kihat. Az anémia kezelése az onkológiai terápia fontos része. Korábban csak vörösvérsejt-transzfúzióra volt lehetőség, napjainkban a rekombináns DNS technológiával előállított ESA készítmények is rendelkezésre állnak.
+## 2.1.2.3. gyógyszer okozta hemolízis.
+
+## 2.1.3. Egyes kemoterápiás készítmények anémiát okozó hatása még kifejezettebb. Ezek a platina-tartalmú kemoterápiák, melyeket leginkább ovarium, tüdő, fej-nyaki daganatokban alkalmaznak. Valószínűleg a tüdő és nőgyógyászati tumorokban nagyobb arányban előforduló anémia is a betegségre adott kemoterápia platina tartalmával függ össze. Az anémia objektív tünete lehet a tartós gyors szívverés, szédülés, gyors, felületes, nehézlégzés, fejfájás, személyiségváltozás, depresszió. A súlyos, pihenésre nem javuló kimerültség talán a legjellemzőbb és leggyakrabban elforduló szubjektív tünet, mely a betegek mindennapi életvitelét a leginkább ronthatja. A kimerültségnek egyéb okai is lehetnek: radioterápia, alapbetegség, szorongás, depresszió. Az alacsony haemoglobin szint az alkalmazott kemoterápia hatékonyságát csökkenti, így a várható túlélésre is kihat. Az anémia kezelése az onkológiai terápia fontos része. A daganatos betegségek okozta vérszegénység kezelésében a vörösvérsejt transzfúzió és a rekombináns DNS technológiával előállított ESA készítmények állnak rendelkezésre.
 
 ## 2.2. A kezelés megválasztásánál mérlegelendő szempontok
 
@@ -42,9 +48,9 @@
 
 ## 2.2.1.3. vércsoport tévesztés veszélye,
 
-## 2.2.1.4. vérátömlesztéssel átvihető betegségek potenciális veszélye (például: hepatits, HIV), bár már a donorok szűrésére nagy gondot fordítanak.
+## 2.2.1.4. vérátömlesztéssel átvihető betegségek potenciális veszélye.
 
-## 2.2.2. A transzfúziós kezelés előnyei és hátrányai
+## 2.2.2. A transzfúziós kezelés előny és hátrány mérlegelése
 
 |  | A | B |
 
@@ -52,17 +58,21 @@
 
 | 2 | gyors haemoglobin emelkedés | transzfúziós reakciók |
 
-| 3 | gyors haematokrit emelkedés | pangásos szívelégtelenség |
+| 3 | gyorsan csökken a beteg kimerültség érzése | kongesztív szívelégtelenség |
 
-|  | gyorsan csökken a beteg kimerültség érzése | fertőzött vérkészítmények |
+| 4 |  | fertőzések átvitele |
 
-| 4 |  | vastúlterhelés |
+| 5 |  | vastúlterhelés |
+
+| 6 |  | fokozott thromboemboliás készség |
+
+| 7 |  | csökkenő túlélés |
 
 ## 2.2.3. Eritropoetin készítmények
 
-## Az eritropoetin glikoprotein típusú differenciáló, mitózis-stimuláló hormon. 2-3 hét késés tapasztalható az eritropoetin alkalmazása és az eritropoetin-indukálta vörösvérsejtek megjelenése között!
+## Az eritropoetin glikoprotein típusú differenciáló, mitózis-stimuláló hormon. 2-3 hét késés tapasztalható az eritropoetin alkalmazása és az eritropoetin-indukálta vörösvérsejtek megjelenése között.
 
-## 2.2.4. Eritropoetin alkalmazásának előnyei és hátrányai
+## 2.2.4. Eritropoetin alkalmazásának előnyei és lehetséges hátrányai
 
 |  | A | B |
 
@@ -74,67 +84,75 @@
 
 | 4 |  | a tumor progressziójáig eltelt idő csökken |
 
-## Az eritropoetin készítmények alkalmazása során multicentrikus vizsgálatok súlyos, az életet megrövidítő és kevésbé súlyos mellékhatásokról számoltak be. Nem bizonyított, de kizárni sem lehet biztonsággal, hogy az ESA készítmények gyorsíthatják a tumorok progresszióját. Egyéb mellékhatásokat is okozhat az eritropoetin kezelés, mint a hányinger, hasmenés, hányás; influenzaszerű tüneteket szintén leírtak. A törzskönyvi indikációs feltételek szigorú betartása, a betegek szoros monitorozása a mellékhatások előfordulásának csökkentése miatt elengedhetetlen!
+| 5 |  | hipertenzió/zavartság |
+
+| 6 |  | tiszta vörösvérsejt aplázia (PRCA) |
+
+## Az eritropoetin készítmények alkalmazása során multicentrikus vizsgálatok súlyos, az életet megrövidítő és kevésbé súlyos mellékhatásokról számoltak be. Nem bizonyított, de kizárni sem lehet biztonsággal, hogy az ESA készítmények a kissejtes tüdőrák kivételével gyorsíthatják a tumorok progresszióját. Egyéb mellékhatásokat is okozhat az eritropoetin kezelés, mint a hányinger, hasmenés, hányás; influenzaszerű tüneteket szintén leírtak. A törzskönyvi indikációs feltételek szigorú betartása, a betegek szoros monitorozása a mellékhatások előfordulásának csökkentése miatt elengedhetetlen.
+
+## 3. Finanszírozás rendje, finanszírozási algoritmus
 
 ## 3.1. A finanszírozási algoritmus részletezése
 
-## 1: Az ESA terápia a következő tumoros kórképek kezelése során alkalmazható: BNO: C62, C50, C34, C82-85, 88, 90-91, C56-57.
+## (1): Az ESA terápia az alábbi tumoros kórképek kezelése során alkalmazható: BNO: C62, C50, C34, C82-85, 88, 90-91, C56-57.
 
-## 2: A beteg szérum Hgb szintje 10 g/dl vagy ez alatt kell, hogy legyen az ESA terápia megkezdése előtt.
+## (2): A beteg szérum Hgb szintje 10 g/dl vagy ez alatt kell, hogy legyen az ESA terápia megkezdése előtt.
 
-## 3.1.1. A kezelés megkezdése előtt az anémia etiológiájának vizsgálata szükséges
-
-## Az ESA készítmények kizárólag kemoterápia okozta anémia (4) kezelésére használhatók. Egyéb okok: daganat okozta (3) és egyéb más ok, például sugárterápia (5) miatti anémia kezelésére nincs törzskönyvezve.
+## 3.1.1. A kezelés megkezdése előtt az anémia etiológiájának vizsgálata szükséges. Ennek során első lépésben a vérszegénység jellemzésére (retikulocitaszám és átlagos vörösvérsejt térfogat: MCV), majd a potenciálisan korrigálható etiológia tisztázására kerül sor. Az ESA készítmények kizárólag kemoterápia okozta anémia (4) kezelésére használhatók. Egyéb okok: daganat okozta (3) és egyéb más ok, pl. sugárterápia (5) miatti anémia kezelésére nincs törzskönyvezve.
 
 ## 3.1.2. Az alkalmazott kemoterápia célja
 
-## 6: Az ESA terápia kizárólag nem kuratív (7) céllal alkalmazott kemoterápia mellett adható. Kuratív (8) célú kemoterápia mellett nem finanszírozott az ESA terápia. A kemoterápia célját a kezelőorvos dönti el.
+## (6): Az ESA terápia kizárólag nem kuratív (7) céllal alkalmazott kemoterápia mellett adható.
+
+## Kuratív (8) célú kemoterápia mellett nem finanszírozott az ESA terápia. A kemoterápia célját a kezelőorvos dönti el, azonban a hererák, korai emlőtumor, a korai nem kissejtes tüdőrák primer és adjuváns kemoterápiája, a Hodgkin kór és agresszív non-Hodgkin lymphomák kezelése kuratív célúnak tekintendő, amíg az ellenkezője nem bizonyosodik be. Az ESA kezelés független indikációja a krónikus veseelégtelenség, melynek jelenléte esetén a kuratív kemoterápia időszakában is indikált lehet a szigorúan monitorozott ESA alkalmazás. Ilyenkor a kezelés beadását követően, a vesebetegség esetére vonatkozó alkalmazási előirat szerint használandó.
 
 ## 3.1.3. Tünetek vizsgálata
 
-## 9: Amennyiben a betegnél még nem jelentkeznek tünetek, obszerváció és szükség szerint vaspótlás (10) javasolt.
+## ESA kezelés során tünetekkel járó vérszegénység esetében a hemoglobin érték 8-10 g/dl, tünetmentes, stabil állapotú betegek esetében 7-9 g/dl szinten tartandó (11).
 
-## 11: Az ESA terápia a tünetekkel járó anémia kezelésében alkalmazható. Objektív tünetek lehetnek: perifériás ödéma, tachycardia, tachypnoe. Szubjektív tünetek: mellkasi fájdalom, terhelésre jelentkező dyspnoe, fáradtság érzés, szédülés, gyengeség, fülzúgás.
+## Objektív tünetek lehetnek: perifériás ödéma, tachycardia, tachypnoe. Szubjektív tünetek: mellkasi fájdalom, terhelésre jelentkező dyspnoe, fáradtság érzés, szédülés, gyengeség, fülzúgás.
+
+## (9): Amennyiben a betegnél még nem jelentkeznek tünetek és a vérszegénység nem éri el a 7 g/dl hemoglobin szintet, obszerváció és szükség szerint vaspótlás (10) javasolt.
 
 ## 3.1.4. Vasháztartás rendezése
 
-## 12: Az ESA terápia bevezetése előtt a beteg vasháztartását rendezni kell, és ezt a betegdokumentációban is rögzíteni kell. Ez történhet orális vagy parenterális vaskészítményekkel egyaránt. Akkor fontos vasat vizsgálni és pótolni, ha az anaemia mikrocytás.
+## (12): Az ESA terápia bevezetése előtt a beteg vasháztartását rendezni kell, és ezt a betegdokumentációban is rögzíteni szükséges. Ez történhet orális vagy parenterális vaskészítményekkel egyaránt. Mikrocitás anémia (MCV< 80 fl) esetén kötelező, egyébként ajánlott a vasháztartás vizsgálata (ferritin, transzferrin szaturáció). Abszolút vashiányra utal, ha a szérum ferritin koncentráció <30 ng/ml, transzferrin szaturáció <15%. Funkcionális vashiányra utal, ha a ferritin koncentráció ≤ 800 ng/ml és a transzferrin szaturáció <50%. Abszolút vashiányban intravénás vaskezelés szükséges, funkcionálisban az ESA kezelés mellett a vaspótlás megfontolandó. Elvethető a vashiány, ha a ferritin > 800 ng/ml vagy a transzferrin szaturáció ≥ 20%.
 
 ## 3.1.5. Előny és kockázat (risk/benefit) mérlegelése
 
-## 13: Az ESA terápia megkezdése csak a beteggel való közös döntés eredménye lehet. A beteget teljeskörűen tájékoztatni kell a kezelés céljáról, a várható eredményekről és a kockázatokról. Az általános betegtájékoztatás során ki kell térni az ESA kezelés lehetséges mellékhatásaira. Figyelembe kell venni, hogy a gyorsan osztódó lymphomák (kuratív esetek) terápiájában alkalmazott ESA hatása a beteg túlélése szempontjából kérdéses.
+## (13): Az ESA terápia megkezdése csak a beteggel való közös döntés eredménye lehet. A beteget teljes körűen tájékoztatni kell a kezelés céljáról, a várható eredményekről és a kockázatokról. Általános beteg tájékoztatás során ki kell térni az ESA kezelés lehetséges mellékhatásaira. Fontos mérlegelési szempont a vérszegénység rendezésére rendelkezésre álló idő (gyorsan rendezendő esetben transzfúzió, megfelelő kritériumok esetében lassan is rendezhető esetben ESA adása jön szóba) és a transzfúzió adásával járó volumenterhelés.
 
 ## 3.1.6. ESA terápia megkezdése
 
-## 14: a fenti feltételek szerint az ESA terápia elkezdhető a készítmények alkalmazási előirataiban foglalt dozírozás szerint.
+## (14): A fenti feltételek szerint az ESA terápia elkezdhető a készítmények alkalmazási előirataiban foglalt dozírozás szerint.
 
 ## 3.1.7. ESA terápia eredményességének megítélése a haematológiai paraméterek mentén
 
-## 15: Reagál: a Szérum Hgb szint változás nagyobb, mint 1 g/dl vagy a retikulocitaszám nagyobb, mint 40.000 sejt/µl 4-6 hetes ESA terápiát követően. A 4 hét az epoetin készítményekre, a 6 hét a darbepoetin alfa készítményre vonatkozik. A dózistitrálás alapja a Hgb célérték fenntartása, vagyis a lehető legalacsonyabb dózisra kell a beteget beállítani, amivel még a célérték fenntartható (16-17).
+## (15): Reagál: a szérum Hgb szint változás nagyobb, mint 1 g/dl vagy a retikulocitaszám nagyobb, mint 40 000 sejt/µl 4-6 hetes ESA terápiát követően. A 4 hét az epoetin alfa, a 6 hét a darbepoetin alfa készítményre vonatkozik. A dózistitrálás alapja a Hgb célérték fenntartása, vagyis a lehető legalacsonyabb dózisra kell a beteget beállítani, amivel még a célérték fenntartható (16-17).
 
-## 18: Nem reagál: a fenti paraméterek nem teljesülnek 4-6 hét kezelést követően. Ebben az esetben dózisemelés/dózisismétlés lehetséges (19) a gyógyszerek alkalmazási leiratai szerint, majd a hematológiai paraméterek újraértékelése következik a 8-9. héten.
+## (18): Nem reagál: a fenti paraméterek nem teljesülnek 4-6 hét kezelést követően. Ebben az esetben dózisemelés/dózisismétlés lehetséges (19) a gyógyszerek alkalmazási leiratai szerint, majd a hematológiai paraméterek újraértékelése következik a 8-9. héten.
 
 ## 3.1.8. Terápia befejezése
 
-## 20: Amennyiben az emelt dózissal 8-9 héten belül reagál (fenti kritériumok szerint), dózistitrálás (23), amennyiben szükséges, majd a célérték elérésekor (17), illetve a terápiás idő leteltével a kezelés befejezése.
+## (20): Amennyiben az emelt dózissal 8-9 héten belül reagál (fenti kritériumok szerint), dózistitrálás (23), amennyiben szükséges, majd a célérték elérésekor (17), illetve a terápiás idő leteltével a kezelés befejezése.
 
-## 21: Amennyiben a dózisemeléssel/ismétléssel stabilan tartható a beteg haemoglobin szintje, a gyógyszeres terápia folytatható az algoritmusban meghatározott feltételekig.
+## (21): Amennyiben a dózisemeléssel/ismétléssel stabilan tartható a beteg haemoglobin szintje, a gyógyszeres terápia folytatható az algoritmusban meghatározott feltételekig.
 
-## 22: Amennyiben 8-9 hetes kezelést követően, dózisemelés/ismétlés mellett sem történt haematológiai válaszreakció, a kezelés felfüggesztése indokolt. [Lymphomák esetében a stabil Hgb szint (még 1g/dl-nél kisebb emelkedés esetén is) eredményként fogadható el.]
+## (22): Amennyiben 8-9 hetes kezelést követően, dózisemelés/ismétlés mellett sem történt haematológiai válaszreakció, a kezelés felfüggesztése indokolt.
 
-## 3.1.9. Az ESA kezelés befejezése: a kemoterápiás kezelést követő maximum 4. hétig; a célérték elérésekor (célérték tartása), illetve az anémia oldódásakor. A célérték elérésekor vagy annak közelében a szerek törzskönyvében előírt dózis redukcióra, a célérték meghaladásakor a kezelés felfüggesztésére lehet szükség.
+## 3.1.9. Az ESA kezelés befejezése: a kemoterápiás kezelést követő maximum 4. hétig; a célérték elérésekor (célérték tartása), illetve az anémia oldódásakor. A célérték elérésekor vagy annak közelében a szerek törzskönyvében előírt dózisredukcióra, a célérték meghaladásakor a kezelés felfüggesztésére lehet szükség.
 
 ## 4. A finanszírozás szakmai ellenőrzésének alapját képező ellenőrzési sarokpontok
 
 ## 4.1. Az adott indikációs körben és feltételek mellett alkalmazták-e az ESA készítményeket?
 
-## 4.2. A szérum Hgb szint 10 g/dl vagy ez alatti volt-e a terápia megkezdésekor?
+## 4.2. A szérum Hgb szint 10 g/dl vagy ez alatti volt a terápia megkezdésekor?
 
-## 4.3. A terápia megkezdése előtt a beteg vasháztartását rendezték-e? (A vaspótlás szükségességét a microcytás anémia támasztja alá).
+## 4.3. A terápia megkezdése előtt a beteg vasháztartását rendezték? (A vaspótlás szükségességét a microcytás anémia kifejezetten valószínűsíti.)
 
-## 4.4. Nem kuratív céllal alkalmazott kemoterápia mellett adták-e a készítményeket? (Erről a kezelőorvos nyilatkozata szükséges).
+## 4.4. Nem kuratív céllal alkalmazott kemoterápia mellett adták-e a készítményeket? (Erről a kezelőorvos nyilatkozata szükséges.)
 
-## 4.5. Az ESA terápia felfüggesztése a protokoll szerint, a hematológiai paraméterek mentén történt-e?
+## 4.5. Az ESA terápia felfüggesztése az eljárásrend szerint, a hematológiai paraméterek mentén történt?
 
 ## 5. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
@@ -182,43 +200,59 @@
 
 | 7 | 3523B | Áttekintő csontszcintigráfia |
 
-| 8 | 2640N | CD sejtszám meghatározása, antigénenként, áramlási citométerrel, egyéb fluorophorral jelölt antitesttel |
+| 8 | 2640N | CD sejtszám meghatározása, antigénenként, áramlási citométerrel, egyéb fluorop |
 
-| 9 | 2640L | CD sejtszám meghatározása, antigénenként, áramlási citométerrel, FITC-el jelölt antitesttel |
+| 9 | 2640L | CD sejtszám meghatározása, antigénenként, áramlási citométerrel, FITC-el jelöl |
 
-| 10 | 2640M | CD pozitív sejtszám meghatározása, antigénenként, áramlási citométerrel, phycoerithreinnel jelölt antitesttel |
+| 10 | 2640M | CD sejtszám meghatározása, antigénenként, áramlási citométerrel, phycoerithrei |
 
 | 11 | 66343 | Vörösvérsejt koncentrátum, zárt rendszerben, szűrt, adenin tartalmú oldatban reszuszpenzió |
 
 | 12 | 66290 | Vörösvérsejt koncentrátum határréteg szegény, reszuszpendált, szerelékkel |
 
-| 13 | 28242 | Coombs-teszt-indirekt-minőségi, polivalens savóval |
+| 13 | 64125 | Vörösvérsejt koncentrátum zárt rendszerben mosott, fiziológiás sóban vagy adenin tartalmú oldatban reszuszpendált, szerelékkel |
 
-| 14 | 66347 | Trombocita koncentrátum, zárt rendszerben, poolozott, szűrt, 1E teljes vérből, szerelés |
+| 14 | 66290 | Vörösvérsejt koncentrátum határréteg szegény, reszuszpendált, szerelékkel |
 
-| 15 | 37008 | Konformális besugárzás kiegészítő pontja |
+| 15 | 66343 | Vörösvérsejt koncentrátum, zárt rendszerben, szűrt és mosott kb. 50 ml, adenin tartalmú oldatban, reszuszpendált, szerelékkel |
 
-| 16 | 37220 | Lineáris accelerátor, foton 16 MV és afelett, egy mező |
+| 16 | 66344 | Vörösvérsejt koncentrátum, zárt rendszerben, szűrt, kb. 50 ml, adenin tartalmú oldatban, reszuszpendált, szerelékkel |
 
-| 17 | 37210 | Lineáris accelerátor, foton 7-15 MV és afelett, egy mező |
+| 17 | 66348 | Vörösvérsejt koncentrátum, 1 E gépi aferezis, adenin tartalmú oldatban reszuszpendált, szerelékkel |
 
-| 18 | 37200 | Lineáris accelerátor, foton 6 MV-ig, egy mező |
+| 18 | 66992 | Vörösvérsejt koncentrátum, zárt rendszerben, szűrt, mosott fiziológiás sóban vagy adenin tartalmú oldatban reszuszpendált, szerelékkel |
 
-| 19 | 37007 | Irreguláris mezős besugárzás kiegészítő pontja, egy mező |
+| 19 | 66993 | Vörösvérsejt koncentrátum, fagyasztott, -196 °C, felolvasztott, szerelékkel |
 
-| 20 | 3586A | Pótlék: egy testtájék kiegészítő SPECT vizsgálat |
+| 20 | 69971 | Vörösvérsejt koncentrátum, szűrt, fagyasztott, -196 °C, szerelékkel |
 
-| 21 | 28939 | Fluoreszcencia insitu hibridizáció (FISH) humán betegségekben |
+| 21 | 69972 | Vörösvérsejt koncentrátum, zárt rendszerben, szűrt, adenin tartalmú oldatban reszuszpendált, szerelékkel |
 
-| 22 | 26625 | CA 125 |
+| 22 | 64125 | Vörösvérsejt koncentrátum, zárt rendszerben mosott, fiziológiás sóban vagy adenin tartalmú oldatban reszuszpendált, szerelékkel |
 
-| 23 | 29400 | Diagnosztikus aspirációs/exfoliatív citológiai vizsgálat a szokásos feldolgozási módszerrel |
+| 23 | 37008 | Konformális besugárzás kiegészítő pontja |
 
-| 24 | 36130 | Hasi (áttekintő, komplex) UH vizsgálat |
+| 24 | 37220 | Lineáris accelerátor, foton 16 MV és a felett, egy mező |
 
-| 25 | 31312 | Mellkasfelvétel, kétirányú |
+| 25 | 37210 | Lineáris accelerátor, foton 7-15 MV és a felett, egy mező |
 
-| 26 | 31310 | Mellkasfelvétel, AP/PA |
+| 26 | 37200 | Lineáris accelerátor, foton 6 MV-ig, egy mező |
+
+| 27 | 37007 | Irreguláris mezős besugárzás kiegészítő pontja, egy mező |
+
+| 28 | 3586A | Pótlék: egy testtájék kiegészítő SPECT vizsgálat |
+
+| 29 | 28939 | Fluoreszcencia insitu hibridizáció (FISH) humán betegségekben |
+
+| 30 | 26625 | CA 125 |
+
+| 31 | 29400 | Diagnosztikus aspirációs/exfoliatív citológiai vizsgálat a szokásos feldolgozási módszerrel |
+
+| 32 | 36130 | Hasi (áttekintő, komplex) UH vizsgálat |
+
+| 33 | 31312 | Mellkasfelvétel, kétirányú |
+
+| 34 | 31310 | Mellkasfelvétel, AP/PA |
 
 ## 6.3. A releváns HBCS kódok
 
@@ -248,7 +282,7 @@
 
 | 12 | 944C | Hodgkin-kór, Non-Hogdkin lymphoma, nem akut leukémia kemoterápiája 18 év felett, legalább 14E szűrt és besugárzott vérkészítmény adás |
 
-| 13 | 6420 | Uterus, -adnex műtétei malignitás miatt |
+| 13 | 6420 | Uterus, adnex műtétei malignitás miatt |
 
 | 14 | 657A | Női reproduktív rendszer rosszindulatú daganatai társult betegséggel |
 
@@ -264,9 +298,7 @@
 
 | 1 | ATC | ATC megnevezés |
 
-| 2 | B03XA01 | epoetin alfa, epoetin béta, epoetin zéta |
-
-| 3 | B03XA02 | Darbepoetin alfa |
+| 2 | B03XA01 | Eritropoietin, epoetin alfa, epoetin theta, epoetin zéta |
 
 ## 7. Rövidítések
 
@@ -274,119 +306,175 @@
 
 ## BNO: Betegségek nemzetközi osztályozása
 
+## ESA: Erythropoesis stimulating agens (EPO készítmények gyűjtőfogalom)
+
 ## HBCS: Homogén betegségcsoport
 
 ## OENO: Orvosi eljárások nemzetközi osztályozása
 
-## ESA: Erythropoesis stimulating agens (EPO készítmények gyűjtőfogalom)
-
-5. melléklet a 31/2010. (V. 13.) EüM rendelethez
+5. melléklet a 31/2010. (V. 13.) EüM rendelethez[^11]
 
 ## A Parkinson betegségcsoport diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
 1. Az eljárásrend tárgyát képező betegség, betegcsoport megnevezése
 
-Neurodegeneratív megbetegedések
+Neurodegeneratív megbetegedések:
 
-G20H0 Parkinson-kór
+1.1. G20HO Parkinson-kór
 
-G2110 Egyéb, gyógyszer-indukálta másodlagos parkinsonismus
+1.2. G2110 Egyéb, gyógyszer-indukálta másodlagos parkinsonismus
 
-G2120 Más külső tényezők okozta másodlagos parkinsonismus
+1.3. G2120 Más külső tényező okozta másodlagos parkinsonismus
 
-G2130 Agyvelőgyulladás utáni parkinsonismus
+1.4. G2130 Agyvelőgyulladás utáni parkinsonismus
 
-G2180 Egyéb másodlagos parkinsonismus
+1.5. G2180 Egyéb másodlagos parkinsonismus
 
-G2190 Másodlagos parkinsonismus k.m.n.
+1.6. G2190 Másodlagos parkinsonizmus k.m.n.
 
 2. Fogalmak
 
-2.1. A szintű bizonyíték: (alátámasztottan hatásos/nem hatásos/káros) legalább 1 db I. osztályú bizonyíték támasztja alá, vagy legalább 2 db konzisztens II. osztályú bizonyíték.
+2.1. A szintű bizonyíték: Az adott beavatkozás hatásossága egyértelműen bizonyított („hatásos”). Azaz: legalább egy I. szintű vagy legalább két II. szintű vizsgálat egybehangzó eredménye támasztja alá.
 
-2.2. B szintű bizonyíték: (valószínűleg hatásos/nem hatásos/káros) legalább 1db II. osztályú bizonyíték, vagy nagyszámú III. osztályú bizonyíték.
+2.2. B szintű bizonyíték: Az adott beavatkozás hatásossága valószínűen hatásos. Azaz: legalább egy II. szintű vagy legalább három III. szintű vizsgálat egybehangzó eredménye támasztja alá.
 
-2.3. Bradi/hipokinézis: a mozgás sebességének, amplitúdójának csökkenése, a mozgás indítás és leállítás megnehezülése. A Parkinson-kór diagnózisának egyik alappillére.
+2.3. C szintű bizonyíték: Az adott beavatkozás hatásossága/nem hatásossága lehetséges. Azaz legalább két III. szintű vizsgálat meggyőző és egybehangzó eredménye támasztja alá.
 
-2.4. C szintű bizonyíték: (lehet, hogy hatásos/nem hatásos/káros) legalább 2 db, meggyőző III. osztályú bizonyíték.
+2.4. Bradykinézia/hypokinézia: A mozgás sebességének, amplitúdójának csökkenése, a mozgás indítás és leállítás és a program váltás megnehezülése. A Parkinson-kór diagnózisának egyik alappillére.
 
-2.5. Diszkinézis: akarattól független, ismétlődő, irreguláris ízületi mozgást létrehozó izommozgás, (például a végtagokban korea, a törzsön atetózis formájában, rendszerint disztóniával ötvöződik).
+2.5. Disztónia: Akarattól független izom összehúzódás, amely tartászavart hoz létre (pl. tortikollis, OFF-disztónia: az öregujj dorzalflexiója, stb.), gyakran komoly fájdalommal jár, diszkinézissel ötvöződhet.
 
-2.6. Disztónia: akarattól független izom összehúzódás, amely tartászavart hoz létre (például tortikollis, OFF-disztónia: az öregujj dorzalflexiója, stb.), diszkinézissel ötvöződhet.
+2.6. Diszkinézis: akarattól független, ismétlődő, irreguláris izommozgás (pl. a végtagokban korea, a törzsön atetózis formájában, disztóniával ötvöződhet).
 
-2.7. Ergot derivátum: növényből kivont dopamin agonista hatású gyógyszerkészítmény. Retroperitoneális és valvuláris fibrózist okozhat. Alkalmazása során fél évenként transztorakalis szív ultrahang vizsgálat kötelező.
+2.7. Életminőség: A beteg utóbbi 3 életévére vonatkozóan, a személyére szabott kezelés megítélésére kialakított fogalom. A beteg állapotának önértékelő teszt segítségével való értékelését teszi lehetővé, értékes módon kiterjeszti a célzott anamnézis felvételének értelmét, célszerűen egészíti ki az UPDRS, illetve az MDS-UPDRS skálákat. Hazánkban több teszt is validált, alkalmazható (pl. PDQ-39).
 
-2.8. Fluktuáció: a betegség súlyosbodása során a korábban egész nap hatásos gyógyszeres kezelés hatása egyenetlenné válik. Az egyik típusa a hatás csökkenés-dózis lecsengés (Wearing-off, WO, OFF), a másik a dózis időbeli csúcshatásához kapcsolódó akarattól független mozgás (csúcsdózis diszkinézis, ON-diszkinézis). Az előző általában megelőzi a második jelentkezését. A fluktuáció kialakulásában a kezelés egyértelmű szerepe nem bizonyított.
+2.8. Ergot derivátum: Növényből kivont dopamin agonista hatású gyógyszerkészítmény. Retroperitoneális, pleuropulmonális és kardiális valvuláris fibrózist okozhat. Alkalmazása során félévenként transztorakális szív ultrahang vizsgálat kötelező.
 
-2.9. Freezing („lefagyás”): a mozgás, a mozgáskoordináció hirtelen, váratlan zavara, leállása.
+2.9. Fluktuáció: A betegség súlyosbodása során a korábban egész nap hatásos gyógyszeres kezelés hatása egyenetlenné válik. Az egyik típusa a hatáscsökkenés-dózis lecsengés (Wearing-off, WO) és a rossz mozgásteljesítménnyel járó állapot (OFF), melyhez disztónia kapcsolódhat, a másik a dózis időbeli csúcshatásához kapcsolódó, akarattól független mozgások (csúcsdózis diszkinézia, ON-diszkinézia). A kórlefolyás során a WO és az OFF általában megelőzi a csúcsdózis diszkinézia jelentkezését. A fluktuáció a kétféle állapot egymást követő váltakozását jelenti. A fluktuáció kialakulásában a kezelés kizárólagos szerepe egyértelműen nem bizonyított.
 
-2.10. Komorbid betegségek: a Parkinson-kórhoz kapcsolódó bármely betegség. A betegség lefolyása során bármikor fontos ezek felismerése és mérlegelésük a terápiában. Különösen fontos a psychiátriai betegségek elkülönítése és kezelése.
+2.10. Freezing: „Lefagyás”. A mozgás, a mozgáskoordináció hirtelen, váratlan zavara, leállása.
 
-2.11. Komplex nem-motoros tüneti szindróma: a motoros tüneteket több évvel megelőző tünetegyüttes, amely a betegség megjelenését jelenti/prognosztizálja: székrekedés, szaglászavar, hangulati élet elcsendesedése-hangulatzavar, alvászavar, nyálfolyás, vizelettartás nehezítettsége, egyoldali vállfájdalom.
+2.11. Késői Parkinson-kór/betegség: Késői Parkinson-kórról a motoros komplikációk megjelenése után beszélünk.
 
-2.12. Motoros komplikációk: a levodopa kezelés hosszú távon motoros komplikációkhoz vezet. A gyógyszeres kezelés egyre kevésbé tudja kontroll alatt tartani a parkinsonos tüneteket. A motoros komplikációk megjelenésétől kezdve késői Parkinson-kórról beszélünk. Motoros komplikációk: wearing off, on-off jelenség, kiszámíthatatlan off-time, dyskinéziák, disztóniák, freezing.
+2.12. Komorbid betegségek: A Parkinson-kórhoz kapcsolódó bármely betegség. A betegség lefolyása során bármikor fontos ezek felismerése és mérlegelésük a terápiában. Különösen fontos a pszichiátriai betegségek elkülönítése és kezelése.
 
-2.13. Motoros tünetek: a bazalis ganglionok működészavara által kiváltott mozgató rendszeri tünetek. Ezek a Brit Agybank kritériumrendszere alapján meghatározott fő mozgás zavar típusok és a hozzájuk kapcsolódó másodlagos mozgatórendszeri tünetek együttesen.
+2.13. Komplex nem-motoros tüneti szindróma: A motoros tüneteket több évvel megelőző tünetegyüttes, amely a betegség megjelenésére utal/prognosztizálja: székrekedés, szaglászavar, hangulati élet elcsendesedése - hangulatzavar, alvászavar, nyálfolyás, vizelettartási zavar, egyoldali vállfájdalom, szürkületi látás problémák.
 
-2.14. Nem-motoros tünetek: a beteg életminőségét a motoros tüneteknél is markánsabban meghatározó összes eltérés: kognitív, hangulati, magatartási, érzőrendszeri, fájdalmi, autonóm idegrendszeri, gasztrointesztinális jellegű panasz és vizsgálható eltérés. Ezek egy része megelőzi a motoros tüneteket. Számuk szaporodik a betegség lefolyása során és a motoros fluktuációkhoz kapcsolódva még erőteljesebbek lesznek.
+2.14. Motoros tünetek: A bazális ganglionok működészavara által kiváltott mozgató rendszeri tünetek. Ezek a Brit Agybank kritériumrendszere alapján meghatározott fő mozgás zavar típusok és a hozzájuk kapcsolódó másodlagos mozgatórendszeri tünetek együttesen.
 
-2.15. Nyugalmi tremor: a végtagok, az ajak, a nyelv, a szempilla oszcilláló, ritmusos, akarattól független mozgása, amely a testrész akaratlagos innervációtól mentes állapotában észlelhető, és akaratlagos mozgás során megszűnik. A Parkinson-kór diagnózisának egyik alappillére. A betegek egy részében mozgásra aktiválódó végtag komponensek lehetnek.
+2.15. Nem motoros tünetek: A beteg életminőségét a motoros tüneteknél is markánsabban meghatározó összes eltérés: kognitív, hangulati, magatartási, érzőrendszeri, fájdalmi, autonóm idegrendszeri, gasztrointesztinális jellegű panaszcsoportok és vizsgálható eltérések. Ezek egy része megelőzi a motoros tüneteket. Számuk szaporodik a betegség lefolyása során, és a motoros fluktuációkhoz kapcsolódva még erőteljesebbek lesznek.
 
-2.16. On-off jelenség: motoros komplikáció. A gyógyszeres kezelés hatására csökkennek a Parkinson-kór tünetei, azonban a hatóanyag koncentrációja az agyban nem állandó. Amikor a szint alacsony, a tünetek erősebbek (off fázis). Az off és on fázis váltakozása jelenleg együtt jár a Parkinson-kórral, és a hosszú távú levodopa kezelés után az ingadozás kiszámíthatatlanabbá válik.
+2.16. Nyugalmi tremor: A végtagok, az ajak, a nyelv, a szempilla oszcilláló, ritmusos, akarattól független mozgása, amely a testrész akaratlagos innervációtól mentes állapotában észlelhető, és akaratlagos mozgás során megszűnik. A Parkinson-kór diagnózisának másik, lehetséges motoros alappillére. A betegek egy részében mozgásra aktiválódó végtag komponensek lehetnek.
 
-2.17. Parkinsonizmusok, Parkinson szindrómák: a Parkinson-kórra jellemző neurológiai gócjelekhez egyéb panaszok és neurológiai eltérések kapcsolódnak a betegség kezdetétől, máskor későbbi szakaszában. Ezek a tünetek kevésbé vagy nem reagálnak a klasszikus Dopamin visszahelyező terápiára.
+2.17. On-off jelenség: Motoros komplikáció. A gyógyszeres kezelés hatására csökkennek a Parkinson-kór tünetei, azonban a hatóanyag koncentrációja az agyban nem állandó. Amikor a szint alacsony, a tünetek erősebbek (off fázis). Az off és on fázis váltakozása jelenleg együtt jár a Parkinson-kórral, és a hosszú távú levodopa kezelés után az ingadozás kiszámíthatatlanabbá válik.
 
-2.18. Parkinson-kór előrehaladott szakasza: a motoros fluktuációk kezdetétől a beteg haláláig tartó szakasz.
+2.18. Parkinsonizmusok: A Parkinson-kórtól (betegségtől) elkülöníthető, de hasonló tünetekkel rendelkező kórismék.
 
-2.19. Parkinson-kór korai szakasza: a motoros tünetek megjelenésétől a motoros fluktuációk megjelenéséig (diagnosztikus kritériumok alapján felállított diagnózis).
+2.19. Parkinson-kór (PK): A hazai szakmai nyelvhasználat alapján az (Idiopátiás) Parkinson-szindróma, amely az eljárásrendben részletesen leírásra került, amely a leírásra kerülő terápiákkal tünetileg egyértelműen kezelhető (angolszász forrásokban: Parkinson’s Disease).
 
-2.20. Rigor: az izomzat nyugalomban is fennálló, sokszor fájdalmas feszülése, amely egyaránt érinti az végtagok agonista és antagonista izmait. A Parkinson-kór diagnózisának egyik alappillére.
+2.20. Parkinson-kór előrehaladott szakasza: A motoros komplikációk azon szakasza, mely során a beteg életminősége nem tartható fenn a komplex gyógyszeradagolás egyénre szabott módszereivel, a súlyos tünetek és az állapot kifejezett, permanens változékonysága csak speciális kezelési eljárások alkalmazásával biztosítható. Ez a szakasz a beteg haláláig tart. A kezelés indikációja, esetleges leállítása a beteg belegyezése és neurológus által vezetett munkacsoport döntésén alapszik.
 
-2.21. Wearing-off, OFF állapot: a dopamin visszahelyező/pótló gyógyszerhatás (levodopa, dopamin agonista) visszatérő, gyógyszerbevételektől függő formája és a hatástalanság megjelenését jelenti: a már hatékonyan kezelt motoros és nem-motoros tünetek igen kifejezetten visszatérnek. Hatáscsökkenés esetén egyenletesen, míg dózisvégi csökkenés esetén a következő bevett gyógyszer adag hatása jelentkezéséig. Különleges OFF-állapotok vannak: a hatás késés (Delayed-ON): a „szokásos” idő elmúltával nem jelentkezik a hatás, csak később, hatás elmaradás (No-ON): a gyógyszerbevétel ellenére nincs hatás és eljön ilyen állapotban a következő bevétel ideje.
+2.21. Parkinson-kór korai szakasza: A motoros tünetek megjelenésétől a motoros fluktuációk megjelenéséig (diagnosztikus kritériumok alapján felállított diagnózis).
 
-2.22. „Red Flag”: olyan panasz és neuropsychiátriai jelenség, gócjel, amely a betegség korai szakaszában jelzi a vizsgálónak, hogy Parkinson szindróma valószínű és nem Parkinson-kór.
+2.22. Parkinson-kór motoros komplikációk szakasza: A motoros fluktuációk kezdetétől a betegség előrehaladott fázisán át a beteg haláláig tartó szakasz.
+
+2.23. Parkinson-szindrómák (PSZ): Ezen betegségekben a Parkinson-kórra jellemző neurológiai gócjelekhez (parkinzonizmus tünetei) egyéb, a beteg sorsát döntően meghatározó neurológiai eltérések kapcsolódnak a betegség kezdetétől, máskor későbbi szakaszában. Ezen betegségek patomechanizmusa egyes esetekben teljesen eltér a Parkinson-kórban ismertektől. Ezen betegségek tünetei kismértékben vagy nem reagálnak a klasszikus dopaminerg terápiára.
+
+2.24. RBD (REM alvás magatartás zavar): Az alvás REM fázisát nem a szokásos tónustalanság jellemzi, hanem folyamatos mozgások, testhelyzetváltozások, hangadás, kiabálás, ágyról való leesés, ágynemű összegyűrése és az ezzel járó kellemetlen tartalmú álmok.
+
+2.25. Rigor: Az izomzat nyugalomban is fennálló, sokszor fájdalmas feszülése, amely egyaránt érinti a végtagok agonista és antagonista izmait. A Parkinson-kór diagnózisának másik alappillére lehet.
+
+2.26. Tremor: Nyugalmi remegés. A Parkinson-kór motoros alaptünete.
+
+2.27. Wearing-off állapot: A dopaminerg gyógyszerhatás (levodopa, dopamin agonista) visszatérő, gyógyszerbevételektől függő formája és a hatástalanság megjelenését jelenti: a már hatékonyan kezelt motoros és nem-motoros tünetek igen kifejezetten visszatérnek. Hatáscsökkenés esetén egyenletesen, míg dózisvégi csökkenés esetén a következő bevett gyógyszer adag hatása jelentkezéséig. Különleges OFF-állapotok is vannak: a hatáskésés (Delayed-ON): a „szokásos” idő elmúltával nem jelentkezik a hatás, csak később; hatás elmaradás (No-ON): a gyógyszerbevétel ellenére nincs hatás.
+
+2.28. „Red Flag”: Olyan panasz és neuropsychiátriai jelenség, gócjel, amely a betegség korai szakaszában jelzi a vizsgálónak, hogy Parkinson-szindróma valószínű és nem Parkinson-kór.
 
 3. Kórkép leírása
 
-3.1. A Parkinson-kór progresszív, neurodegeneratív, betegség, amelyben kóros fehérje képződés kapcsán a szervezet kitüntetett helyein egyre fokozódó sejtpusztulás figyelhető meg. A legérzékenyebb terület a substantia nigra az agytörzsben. Az innen kiinduló, dopamin átvivő anyagot tartalmazó sejtek több, mint 60%-os pusztulása hozza létre a célállomás területén, a striatumban a 70%-s dopamin tartalom csökkenést és így a motoros tüneteket. Mivel más, nem dopaminerg sejtek is károsodnak, ezért minden átvivő anyag rendszer érintetté válik. Ezért észlelhetők a betegség úgynevezett premotoros fázisában, illetve a motoros fázis bármely szakaszában például a nem-motoros tünetek.
+3.1. A Parkinson-kór gyakori, progresszív neurodegeneratív betegség, amelyben az idegrendszerben a substantia nigra dopaminerg neuronjainak degenerációja miatt a dopamin-szint leesik. A dopamin a szervezetben a neuronok közötti ingerület-átvitelért felelős, így a szint csökkenése az idegsejtek közötti kommunikációt akadályozza.
 
-3.2. A Parkinson-kór alapvetően mozgási rendellenesség, de más jellegű károsodással társul: pszichológiai problémák, demencia, a későbbiekben autonóm zavarok. A betegség előrehaladott fázisban komoly fogyatékossághoz, rokkantsághoz vezet, nagymértékű életminőség-csökkenést okoz.
+3.2. A Parkinson-kór a mozgászavarokhoz tartozó neuropsychiátriai betegség. A betegség diagnózisa ma is klinikai és két ún. pillértüneten nyugszik: az egyik mindenképpen a bradykiézia/hypokinézia (a mozgás program lassúsága), míg a másik pillértünet lehet a rigor (merevség) vagy a nyugalmi tremor (végtag, ajak, pilla akarattól független, azaz nyugalmi ritmikus mozgása), vagy mind a kettő. A negyedik főtünet a betegség előrehaladott szakaszában jelentkezik, ez a tartási instabilitás. Előfordulhat a betegség kezdetén tremor domináns klinikai forma, ennek diagnózisa nehezebb.
 
-3.3. A kórkép diagnózisa a motoros főtünetek alapján klinikai, azaz a beteg fizikális vizsgálatán alapul. A Brit Agybank Kritériumai alapján a rigor, a hipo/bradikinézis, a nyugalmi tremor alapjelenségeiből legalább kettőnek jelen kell lennie. Így a jellemző tünettan alapján több klinikai altípus különböztethető meg. A klinikai diagnózis feltétele, hogy a bevezetett kezelésre tartósan, jól reagáljon a tünettan (3 hónap, majd egy év). Ezen ún. vezető motoros tünetek mellé az előrehaladott betegség fázisban társul a tartási instabilitás. A betegség biztos diagnózisa szövettani, élő személyben egyelőre nem lehetséges, de törekedni kell a dopamin anyagcsere zavarának bizonyítására receptor specifikus SPECT vizsgálatok elérhetővé tételével.
+3.3. Parkinson-kórban a motoros tüneteken kívül nagy jelentőségük van a nem-motoros tüneteknek is: pszichológiai problémák, demencia, a későbbiekben autonóm zavarok. A betegség előrehaladott fázisban komoly fogyatékossághoz, rokkantsághoz vezet, nagymértékű életminőség-csökkenést okoz.
 
-3.4. A kórlefolyást a sikeres és hatásos kezelés ellenére folyamatos, nem lineáris és minden egyes betegben más sebességű rosszabbodás jellemzi. Ezért a panaszok visszatérnek, erősbödnek és fluktuációk jelentkeznek a motoros és nem-motoros tünetekben. A fluktuáció előtti szakaszt a betegség korai szakaszának tekintjük. A fluktuáció időszakát a beteg haláláig a betegség előrehaladott szakaszának tekintjük. A fluktuáció Wearing-off/OFF állapot és diszkinézisekkel tarkított ON állapot lehet. Ez a betegek többségében mindvégig a gyógyszer bevételtől egyértelműen függ. Néhány betegben szabálytalan, gyógyszer dózis független fluktuáció alakul ki, ez az ON-OFF.
+3.4. A Parkinson-kór prevalenciája 200-400 fő/100 000 lakosra, Magyarországon a betegszám megközelítőleg 20 000 fő, a betegek 50-70%-a áll kezelés alatt. Jelenleg az évi incidencia 8-10/100 000 lakos, de az arány folyamatosan növekszik.
 
-3.5. A Parkinson-kór prevalenciája 100-200 fő 100 000 lakosra, Magyarországon a betegszám megközelítőleg 20 000 fő, a betegek 50-70%-a áll kezelés alatt. Jelenleg az évi incidencia 8-10/ 100 000, de az arány folyamatosan növekszik.
+4. Finanszírozás rendje, finanszírozási algoritmus
 
-5. A finanszírozás szakmai ellenőrzésének alapját képező ellenőrzési sarokpontok
+5. A Parkinson betegség ellátására vonatkozó emelt, indikációhoz kötött támogatás:
 
-5.1. A beteg vizsgálata, ellenőrzése és a terápia követése rendszeres időközönként, legalább fél-egy évente történik.
+5.1. EÜ90 6/a. Támogatott indikációk:
 
-5.2. A diagnózis klinikai szempontrendszer szerint történik, PET és CT Parkinson szindróma differenciál diagnózisában nem indokolt.
+Parkinson-kór és Parkinson-szindróma (másodlagos parkinsonismus) kezelésére – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend alapján
 
-5.3. Indokolt esetben koponya MRI, 123I-FP-CIT-SPECT végzendő, illetve TSH labor vizsgálat végezhető.
+5.1.1. amantadine
 
-5.4. A gyógyszeres kezelés akkor kezdődhet meg, ha a betegnél funkcionális fogyatékosság alakul ki, illetve a Parkinson betegség hatással van az életminőségére. A Parkinsonos tünetek egységes rendszer alapján értékelhetőek. Az UPDRS (Unified Parkinson’s Disease Rating Scale) skála lehetőséget ad erre.
+5.1.2. biperiden
 
-5.5. COMT gátló csak előrehaladott Parkinson-kórban adható.
+5.1.3. levodopa, benserazide hydrochloride
 
-5.6. Neuroprotektív céllal csak klinikai vizsgálat keretében kezelhetők a betegek.
+5.1.4. procyclidine
 
-5.7. A motoros komplikációk klinikai megállapítása után (Parkinson-skálák), a beteg adjuváns terápiában részesül. Az adjuváns terápia a motoros komplikációk jellegétől és mértékétől függ.
+5.1.5. selegiline
 
-5.8. Műtéti beavatkozás csak speciális (fent meghatározott) esetekben indokolt.
+5.2. EÜ90 6/b. Támogatott indikációk:
 
-5.9. Minden beteg számára hozzáférhető kell, hogy legyen a fizioterápia, a pszichológiai és szociális kezelés/gondozás.
+Parkinson-kór esetén, az alkalmazási előírásban szereplő monoterápiában, L-DOPA és selegilinnel, illetve amantadinnal való kombinált kezelésben kiegészítő kezelésként is, ha súlyos motoros fluktuáció jelentkezik – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend alapján
 
-6. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
+5.2.1. pramipexole
 
-6.1. A területre fordított közkiadások alakulása.
+5.2.2. rasagiline
 
-6.2. A helyes, finanszírozott algoritmus szerint kezelt betegek aránya.
+5.2.3. ropinirole
 
-7. A finanszírozás szempontjából lényeges kódok
+5.2.4. rotigotine
 
-7.1. A releváns BNO kódok
+5.3. EÜ90 6/c. Támogatott indikációk:
+
+Parkinson-kórban kialakuló motoros fluktuáció minden esetében – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend alapján
+
+5.3.1. entacapone
+
+5.3.2. levodopa, carbidopa, entacapone
+
+6. Adminisztratív ellenőrzési pontok (folyamatba épített ellenőrzés)
+
+6.1. Kompetencia szint: kijelölt intézmény, szakorvosi kompetencia ellenőrzése
+
+6.2. Betegadatok (online TAJ ellenőrzés)
+
+6.3. Jogszabályban rögzített indikációs terület BNO ellenőrzése
+
+7. Szakmai ellenőrzési pontok
+
+7.1. A klinikai diagnózis felülvizsgálata rendszeres időközönként, fél-egyévente történik.
+
+7.2. A diagnózis klinikai szempontrendszer szerint történik, MRI, PET-CT és CT Parkinson-szindróma differenciál diagnózisában nem kötelező, de indokolt lehet, agyi SPECT csak indokolt esetben (fent meghatározott) végzendő.
+
+7.3. A gyógyszeres kezelés akkor kezdődhet, ha a klinikai diagnózis megszületett. A Parkinsonos tünetek egységes rendszer alapján értékelhetőek. Az UPDRS (Unified Parkinson’s Disease Rating Scale) vagy az ebből továbbfejlesztett MDS-UPDRS (Movement Disorders Society Unified Parkinson’s Disease Rating Scale) skála lehetőséget ad erre.
+
+7.4. Anticholinerg és amantadin korai Parkinson-kórban első választású terápiaként nem alkalmazható, kivéve, ha a beteg egyéb, gyógyszer-indukálta másodlagos parkinsonismusban szenved. Ekkor anticholinerg szer adható. COMT gátló csak a fluktuációk kezdetétől adható.
+
+7.5. Neuroprotektív céllal csak klinikai vizsgálat keretében kezelhetők a betegek.
+
+7.6. A motoros komplikációk klinikai megállapítása után (Parkinson skálák) a beteg adjuváns terápiában részesül. Az adjuváns terápia a motoros komplikációk jellegétől és mértékétől függ.
+
+7.7. Az ún. előrehaladott kezelési lehetőségek, mint műtéti beavatkozás csak speciális (fent meghatározott) esetekben indokolt.
+
+7.8. Minden beteg számára hozzáférhető kell, hogy legyen a fizioterápiás kezelés, a pszichológiai és szociális kezelés/gondozás.
+
+7.9. A Parkinson-kór diagnózisának felállításától kezdve a betegek kezelésben részesülnek a nem-motoros tünetek kontrollálására.
+
+8. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
+
+8.1. A területre fordított közkiadások alakulása.
+
+8.2. A helyes, finanszírozott algoritmus szerint kezelt betegek aránya.
+
+9. A finanszírozás szempontjából lényeges finanszírozási kódok
+
+9.1. A releváns BNO kódok
 
 |  | A | B |
 
@@ -402,11 +490,11 @@ G2190 Másodlagos parkinsonismus k.m.n.
 
 | 6 | G2180 | Egyéb másodlagos parkinsonismus |
 
-| 7 | G2190 | Másodlagos parkinsonismus k.m.n |
+| 7 | G2190 | Másodlagos parkinsonismus k.m.n. |
 
 | 8 | Y4670 | Antiparkinson gyógyszerek |
 
-7.2. A releváns ATC kódok
+9.2. Releváns ATC kódok
 
 |  | A | B |
 
@@ -416,52 +504,52 @@ G2190 Másodlagos parkinsonismus k.m.n.
 
 | 3 | N04A* | Anticholinergek |
 
-| 4 | N04B* | Dopaminergek |
+| 4 | N04AA | Tercier aminok |
 
-| 5 | N04BA | Dopa és dopa derivátumok |
+| 5 | N04B* | Dopaminergek |
 
-| 6 | N04BB | Adamantane derivátumok |
+| 6 | N04BA | Dopa és dopa derivátumok |
 
-| 7 | N04BC | Dopamin agonisták |
+| 7 | N04BB | Adamantane derivátumok |
 
-| 8 | N04BD | MAO-B gátlók |
+| 8 | N04BC | Dopamin agonisták |
 
-| 9 | N04BX | Egyéb dopaminergek |
+| 9 | N04BD | MAO-B gátlók |
 
-7.3. Finanszírozott hatóanyagok
+| 10 | N04BX | Egyéb dopaminergek (COMT-gátlók) |
+
+9.3. Finanszírozott hatóanyagok Magyarországon
 
 |  | A | B |
 
 | 1 | ATC | Hatóanyag |
 
-| 2 | N04AA02 | Biperiden |
+| 2 | N04AA02 | biperiden |
 
-| 3 | N04AA03 | Metixen |
+| 3 | N04AA04 | prociklidin |
 
-| 4 | N04AA04 | Prociklidin |
+| 4 | N04BA02 | levodopa és decarboxylase gátló |
 
-| 5 | N04BA02 | Levodopa és decarboxylase gátló |
+| 5 | N04BA03 | levodopa, decarboxylase gátló és comt gátló |
 
-| 6 | N04BA03 | Levodopa, decarboxylase gátló és comt gátló |
+| 6 | N04BB01 | amantadin |
 
-| 7 | N04BB01 | Amantadin |
+| 7 | N04BC04 | ropinirol |
 
-| 8 | N04BC04 | Ropinirol |
+| 8 | N04BC05 | pramipexol |
 
-| 9 | N04BC05 | Pramipexol |
+| 9 | N04BC09 | rotigotine |
 
-| 10 | N04BD01 | Selegilin |
+| 10 | N04BD01 | selegilin |
 
-| 11 | N04BD02 | Rasagiline |
+| 11 | N04BD02 | rasagiline |
 
-| 12 | N04BX01 | Tolcapone |
+| 12 | N04BX02 | entacapone |
 
-| 13 | N04BX02 | Entacapon |
+10. Rövidítések
 
-8. Rövidítések:
+ATC Gyógyszerek anatómiai, terápiás, illetve kémiai osztályozása
 
-ATC: Anatomical Therapeutic Chemical klasszifikáció
+BNO Betegségek nemzetközi osztályozása
 
-BNO: Betegségek nemzetközi osztályozása
-
-OENO: Orvosi eljárások nemzetközi osztályozása
+[^11]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított szöveg.

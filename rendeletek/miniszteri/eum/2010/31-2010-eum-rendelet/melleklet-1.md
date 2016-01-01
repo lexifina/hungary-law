@@ -1,6 +1,6 @@
-## 13. §[^3]
+## 13. §[^6]
 
-1. melléklet a 31/2010. (V. 13.) EüM rendelethez[^4]
+1. melléklet a 31/2010. (V. 13.) EüM rendelethez[^7]
 
 ## A krónikus myeloid leukémia kezelésének finanszírozási eljárásrendje
 
@@ -200,5 +200,5 @@ Philadelphia kromoszóma pozitivitás (Ph+), vagy BCR/ABL pozitivitás igazolás
 
 6.14. TKI: Tirozin kináz inhibítor
 
-[^3]: A 13. § a (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet a 10/2015. (II. 23.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^6]: A 13. § a (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 10/2015. (II. 23.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.

@@ -2,139 +2,133 @@
 
 ## 1. Az eljárásrend tárgyát képező betegség, betegcsoport megnevezése
 
-## Daganatos megbetegedések (C00-C97)
+## 1.1. Daganatos megbetegedések (C00-C97)
 
-## Vese rosszindulatú daganatai:
+## 1.1.1. Vese rosszindulatú daganatai
 
-## Nem világossejtes daganatok
+## 1.1.1.1. Nem világossejtes daganatok
 
-## 2. Kórkép leírása
+## 2. A kórkép leírása
 
-## A vese rosszindulatú daganatainak előfordulási gyakorisága az utóbbi évtizedekben lassan emelkedik. A malignus vesedaganatok között a leggyakoribb a világossejtes carcinoma (RCC), az esetek 75-80%-a. A papilláris carcinoma 12-14%-ban, a cromophob carcinoma 4-6%-ban, az oncocyter típusú vesesejtes rák 2-4%-ban, míg a Bellini-féle carcinoma 1%-ban figyelhető meg. A szövettani diagnózis ismerete mindig kötelező. A betegség etiológiája pontosan még nem ismert, de mind a hazai, mind a jelentősebb nemzetközi szakmai társaságok kiemelik a dohányzás szerepét az RCC kialakulásában (2A evidencia szint). A szakmai evidenciák alapján az elhízást, kávéfogyasztást, állati zsiradékok fogyasztását is komoly rizikófaktornak tekinthetjük. Felfedezéskor 60-70%-ban szervre lokalizált, 5-10%-ban lokálisan előrehaladott, 15-20%-ban távoli áttétet képez. Relapszus a korai I-II klinikai stádiumban is előfordul. A vesedaganatok stádium beosztása során a következő TNM klasszifikáció kerül alkalmazásra (forrás: UICC):
+## 2.1. A vese rosszindulatú daganatainak előfordulási gyakorisága az utóbbi évtizedekben lassan emelkedik. A Magyar Rákregiszter adatai alapján 2012-ben 1384 új megbetegedés fordult elő. Leggyakrabban 45-70 éves életkor között jelentkezik, de egyre gyakoribb fiatalabb életkorban is.
 
-## 2.1. TNM klinikai klasszifikáció, primer tumor
+## A malignus vesedaganatok között a leggyakoribb a vesesejtes carcinoma (RCC), mely a vesekéregben alakul ki, a proximális kanyarulatos csatornákat bélelő sejtekből. A vesesejtes ráknak 5 fő altípusa különböztethető meg, amelyek közül a leggyakoribb a világos sejtes veserák (az esetek 75-80%-a). A papilláris carcinoma I-II 12-14%-ban, a cromophob carcinoma 4-6%-ban, az oncocyter típusú vesesejtes rák 2-4%-ban, míg a Bellini-féle carcinoma 1%-ban figyelhető meg. A szövettani diagnózis ismerete mindig kötelező. A tumor terjedése részben lokálisan, részben pedig a nyirok- és vérerek útján történik.
 
-|  | A | B | C |
+## A betegség etiológiája pontosan még nem ismert, de mind a hazai, mind a jelentősebb nemzetközi szakmai társaságok kiemelik a dohányzás szerepét az RCC kialakulásában (2A evidencia szint). A szakmai evidenciák alapján az elhízás, a kávéfogyasztás és az állati zsiradékok fogyasztása is komoly rizikófaktornak tekinthető. Felfedezéskor 60-70%-ban szervre lokalizált, 5-10%-ban lokálisan előrehaladott, 15-20%-ban távoli áttétet képez. Relapszus a korai I-II klinikai stádiumban is előfordul.
 
-| 1 | T |  | Primer tumor |
+## 2.2. A vesedaganatok stádium beosztása során a következő TNM klasszifikációt alkalmazzuk:
 
-| 2 |  | TX | Primer tumor nem ítélhető meg |
+## 2.2.1. TNM klinikai klasszifikáció, primer tumor
 
-| 3 |  | T0 | Primer tumor nem mutatható ki |
+| T | Primer tumor |
 
-| 4 |  | T1 | A tumor a vese anatómiai határain belül helyezkedik el, a legnagyobb dimenziójában maximum 7 cm |
+| TX | Primer tumor nem ítélhető meg |
 
-| 5 |  | T1a | 4 cm-es vagy kisebb tumor |
+| T0 | Primer tumor nem mutatható ki |
 
-| 6 |  | T1b | 4 cm-nél nagyobb, 7 cm-nél nem nagyobb tumor |
+| T1 | A tumor a vese anatómiai határain belül helyezkedik el, a legnagyobb dimenziójában maximum 7 cm |
 
-| 7 |  | T2 | A tumor a vese anatómiai határain belül helyezkedik el, a legnagyobb dimenziójában meghaladja a 7 cm-t |
+| T1a | 4 cm-es vagy kisebb tumor |
 
-| 8 |  | T3 | A tumor ráterjed a nagyobb vénákra [vena renális (renálisok)], vagy közvetlenül infiltrálja a mellékvesét vagy a perirenalis (más szóval perinephricus) szöveteket, de nem terjed túl a Gerota-fascián |
+| T1b | 4 cm-nél nagyobb, 7 cm-nél nem nagyobb tumor |
 
-| 9 |  | T3a | A tumor ráterjed a mellékvesére, vagy a perirenalis zsírszövetekre*, de nem terjed túl a Gerota-fascián |
+| T2 | A tumor a vese anatómiai határain belül helyezkedik el, a legnagyobb dimenziójában meghaladja a 7 cm-t |
 
-| 10 |  | T3b | A tumor nagy tömegben ráterjed a vena renálisra (renálisokra)**, vagy vena cavára, vagy annak falára a rekeszizom alatt |
+| T2a | A tumor a vese anatómiai határain belül helyezkedik el, a legnagyobb dimenziójában meghaladja a 7 cm-t, de 10 cm-nél nem nagyobb |
 
-| 11 |  | T3c | A tumortömeg ráterjed vena cavára, vagy annak falára a rekeszizom felett |
+| T2b | A tumor 10 cm-nél nagyobb, de a vese anatómai határait nem haladja meg |
 
-| 12 |  | T4 | A tumor ráterjed a Gerota-fascián túli területekre |
+| T3 | A tumor ráterjed a nagyobb vénákra [vena renalis(ok)], infiltrálja a perirenalis (más szóval perinephricus) szöveteket, de nem terjed túl a Gerota-fascián és nem infiltrálja a mellékvesét |
 
-## *Beleértve: vesesinus (peripelvicus) zsír.
+| pT3a | A daganat szabad szemmel látható módon a v. renalis-ban, vagy annak nagy szegmentális ágaiban terjed (szövettan: a venának van izmos fala), vagy a perinephricus, illetve a vesemedencei zsírszövetbe terjed |
 
-## **Beleértve a szegmentális (musculáris réteget is tartalmazó) ágakat.
+| pT3b | A daganat szabad szemmel észlelhetően beterjed a v. cava-ba, de a növedék nem haladja meg a rekeszizom szintjét |
 
-## 2.2. TNM klinikai klasszifikáció, regionális nyirokcsomó
+| pT3c | A daganat szabad szemmel észlehetően beterjed a v. cava-ba, és a növedék a rekeszizom vonalát meghaladja, vagy a tumor beszűri a v. cava falát |
 
-|  | A | B | C |
+| pT4 | A tumor túlterjed a Gerota-fascián (ideértve, ha közvetlen terjedés révén beszűri a mellékvesét) |
 
-| 1 | N |  | Regionális nyirokcsomó |
+## 2.2.2. TNM klinikai klasszifikáció, Regionális nyirokcsomó
 
-| 2 |  | NX | Regionális nyirokcsomóáttét nem igazolható |
+| N | Regionális nyirokcsomók |
 
-| 3 |  | N0 | Nincs regionális nyirokcsomóáttét |
+| NX | Regionális nyirokcsomóáttét nem igazolható |
 
-| 4 |  | N1 | Metastasis szoliter regionális nyirokcsomóban |
+| N0 | Nincs regionális nyirokcsomóáttét |
 
-| 5 |  | N2 | Metastasis egynél több regionális nyirokcsomóban |
+| N1 | Metastasis szoliter regionális nyirokcsomóban |
 
-## 2.3. TNM klinikai klasszifikáció, távoli áttétek
+| N2 | Metastasis egynél több regionális nyirokcsomóban |
 
-|  | A | B | C |
+## 2.2.3. TNM klinikai klasszifikáció, Távoli áttétek
 
-| 1 | M |  | Távoli áttétek |
+| M | Távoli áttétek |
 
-| 2 |  | MX | Távoli áttét nem igazolható |
+| M0 | Távoli áttét nincs |
 
-| 3 |  | M0 | Távoli áttét nincs |
+| M1 | Távoli áttét(ek) |
 
-| 4 |  | M1 | Távoli áttét (áttétek) |
+## 2.2.4. G Szövettani grading
 
-## 2.4. pTNM patológiai klasszifikáció
+| G | Szövettani grading |
 
-|  | A | B | C |
+|  | Fuhrmann Grádus | Sejtmag mérete | Sejtmag alakja | Nucleolus |
 
-| 1 | pTNM |  | Patológiai klasszifikáció |
+| G1 | Jól differenciált | Kicsi (10 um) | Szabályos | Nem észlelhető |
 
-| 2 |  | pN0 | A regionális lymphadenectomia útján nyert szövetmintából lehetőség szerint 8 vagy több nyirokcsomó szövettani vizsgálatát kell elvégezni. Amennyiben a vizsgált nyirokcsomók negatívnak bizonyulnak, de a megkívánt nyirokcsomószám nem áll rendelkezésre, a besorolás pN0. |
+| G2 | Mérsékelten differenciált | Kicsi; valamivel nagyobb (15 um) | Szabálytalan | 40x nagyításnál megfigyelhető |
 
-## 2.5. G Szövettani grading
+| G3 | Gyengén differenciált | Közepesen nagy (20 um) | Szabálytalan | 10x nagyításnál megfigyelhető |
 
-|  | A | B | C |
+| G4 | Differenciálatlan | IV Nagy | Bizarr | Feltűnő |
 
-| 1 | G |  | Szövettani grading |
+## 3. Finanszírozás rendje, finanszírozási algoritmus
 
-| 2 |  | GX | A differenciáltság foka nem állapítható meg |
+## 3.1. (4, 5): IV. stádiumban nephrectomia, ha a beteg jó általános állapotú.
 
-| 3 |  | G1 | Jól differenciált |
+## 3.2. (5, 6): pT3-pT4 indokolt eseteiben (tumor műtéti sérülése) posztoperatív irradiatió; nem műthető csontáttét esetén RANK ligand gátló vagy bisfosfonat kezelés, indokolt esetben irradiatió javasolt.
 
-| 4 |  | G2 | Mérsékelten differenciált |
+## 3.3. (7, 10): Kontroll vizsgálat az I-II stádiumban az első két évben legalább 6 havonta, majd a 3-5. évig legalább évente esedékes. A kontroll vizsgálat során fizikális vizsgálat, teljes labor, mellkas RTG, hasi-kismedencei UH vizsgálat végzendő. Amennyiben indokolt, mellkas CT, hasi, kismedencei CT/MR javasolt.
 
-| 5 |  | G3-4 | Gyengén differenciált/differenciálatlan |
+## 3.4. (8): A relapszust minden esetben igazolni kell (valamely képalkotó eljárással) és dokumentálni szükséges.
 
-## 3.1. A finanszírozási algoritmus részletezése
-
-## 3.1.1. (4,5): IV stádiumban nephrectomia, ha nincs csontáttét és a beteg jó általános állapotú.
-
-## 3.1.2. (5,6): pT3-pT4 indokolt eseteiben (pozitív rezekciós szél, tumor műtéti sérülése) posztoperatív irradiatió; nem műthető csontáttét esetén irradiatió.
-
-## 3.1.3. (7): Kontroll vizsgálat az I-II stádiumban az első két évben legalább 6 havonta, majd a 3-5. évig legalább évente esedékes. A kontroll vizsgálat során fizikális vizsgálatot, teljes labort, mellkas rtg, hasi-kismedencei UH vizsgálatot kell végezni. Amennyiben indokolt, mellkas CT, hasi, kismedencei CT/MR javasolt.
-
-## 3.1.4. (8): A relapszust minden esetben igazolni kell (valamely képalkotó eljárással) és dokumentálni szükséges.
-
-## 3.1.5. (9): Lokális recidíva esetén, amennyiben technikailag lehetséges, sebészi eltávolítás.
+## 3.5. (9): Lokális recidíva esetén, amennyiben technikailag lehetséges, sebészi eltávolítás javasolt.
 
 ## Irrezekábilis esetekben, ha korábban nem volt sugárkezelés, irradiatió szóba jön.
 
-## A radioterápia a rá vonatkozó szakmai szabályok szerint történik.
+## A radioterápia a szakma szabályai szerint történik.
 
-## 3.1.6. (10): Az utánkövetés a 3.1.3. (7) pontban leírtak szerint történik.
+## 3.6. (10): Az utánkövetés a 3.3. pontban leírtak szerint történik.
 
-## 4. A finanszírozás szakmai ellenőrzésének alapját képező ellenőrzési sarokpontok
+## 4. A finanszírozási szakmai ellenőrzés alapját képező ellenőrzési sarokpontok
 
-## 4.1. A szövettani típus megfelelő dokumentáltsága.
+## 4.1. A finanszírozási ellenőrzés során elsődlegesen azt vizsgáljuk, hogy a kezelő orvosok betartják-e a kihirdetett finanszírozási rendet, különös tekintettel a következő főbb sarokpontokra:
 
-## 4.2. Stádiumbeosztásra vonatkozó adatok megtalálhatósága.
+## 4.1.1. A szövettani típus megfelelően dokumentált?
 
-## 4.3. A relapszus/progresszió igazoltsága és megfelelő dokumentáltsága.
+## 4.1.2. Stádiumbeosztásra vonatkozó adatok megtalálhatóak-e?
+
+## 4.1.3. A relapszus/progesszió igazolt és megfelelően dokumentált?
 
 ## 5. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
-## 5.1. A területre fordított közkiadások alakulása.
+## 5.1. A finanszírozási eljárásrend hatását a következő indikátorokkal kívánjuk mérni:
 
-## 5.2. A helyes, finanszírozott algoritmus szerint kezelt betegek aránya.
+## 5.1.1. A területre fordított közkiadások alakulása.
+
+## 5.1.2. A helyes, finanszírozott algoritmus szerint kezelt betegek aránya.
 
 ## 6. A finanszírozás szempontjából lényeges finanszírozási kódok
 
-## 6.1. A releváns BNO kódok
+## 6.1. Releváns BNO kódok
 
 |  | A | B |
 
-| 1 | BNO | BNO megnevezés |
+| 1 | BNO | BNO megnevezése |
 
 | 2 | C64H0 | A vese rosszindulatú daganata, kivéve a vesemedencét |
 
-## 6.2. A releváns OENO kódok
+## 6.2. Releváns OENO kódok
 
 |  | A | B |
 
@@ -168,44 +162,108 @@
 
 | 15 | 3533A | 3 fázisú csontszcintigráfia (indokolt esetben) |
 
-| 16 | 14810 | Biopsia parietis abdominis |
+| 16 | 34410 | Agykoponya natív CT vizsgálata |
 
-| 17 |  | Laborvizsgálatok |
+| 17 | 34411 | Agykoponya CT vizsgálat iv. kontrasztanyag adását követőleg |
 
-## 6 3. A releváns HBCS kódok
+| 18 | 34412 | Agykoponya CT vizsgálat natív plusz iv. kontrasztanyag adását követőleg |
+
+| 19 | 14810 | Biopsia parietis abdominis |
+
+| 20 |  | Laborvizsgálatok |
+
+## 6.3. Releváns kemoterápiás protokollok
 
 |  | A | B |
 
-| 1 | HBCS | HBCS megnevezés |
+| 1 | Kód | Kemoterápiás protokoll megnevezése |
 
-| 2 | 566C | Vese, ureter, húgyhólyag jelentős műtétei daganat miatt |
+| 2 | 7051 | Kemoterápia, GEM+CDDP I. protokoll szerint |
 
-| 3 | 577B | Vese-, húgyúti daganatok |
+| 3 | 7316 | Kemoterápia, VIP/J Carboplatinnal protokoll szerint |
 
-| 4 | 9430 | Sugárterápia |
+| 4 | 7317 | Kemoterápia, CMV protokoll szerint |
 
-| 5 | 608Z | Vese-, húgyutak műtétei (kivéve: jelentős műtétek) súlyos társult betegséggel |
+| 5 | 7318 | Kemoterápia, INF-alfa+IL2+5FU protokoll szerint |
 
-## 7. Rövidítések:
+| 6 | 7320 | Kemoterápia, GEM+CBP/C protokoll szerint |
 
-## ATC: Anatomical Therapeutic Chemical klasszifikáció
+| 7 | 7727 | Kemoterápia, SIVD2+dexrazoxane protokoll szerint 18 év alatt |
 
-## BNO: Betegségek nemzetközi osztályozása
+| 8 | 7728 | Kemoterápia, SCErV+dexrazoxane protokoll szerint 18 év alatt |
 
-## BSC: Best supportive care
+| 9 | 7729 | Kemoterápia, WTVAER+dexrazoxane protokoll szerint 18 év alatt |
 
-## HBCs: Homogén betegségcsoport
+| 10 | 7744 | Kemoterápia, WTVER+dexrazoxane protokoll szerint 18 év alatt |
 
-## EAU: European Association of Urology
+| 11 | 7913 | Immunterápia, VBL+interferon protokoll szerint |
 
-## OENO: Orvosi eljárások nemzetközi osztályozása
+| 12 | 7948 | Kemoterápia, SV protokoll szerint 18 év alatt |
 
-## NCCN: National Comprehensive Cancer Network
+| 13 | 7949 | Kemoterápia, SVA protokoll szerint 18 év alatt |
 
-## RCC: Vesesejtes carcinoma
+| 14 | 7950 | Kemoterápia, SIVA2 protokoll szerint 18 év alatt |
 
-## UICC: International Union Against Cancer
+| 15 | 7951 | Kemoterápia, SIVD2 protokoll szerint 18 év alatt |
 
-## TNM: Tumor, node, metastasis (tumor, nyirokcsomó, metasztázis)
+| 16 | 7952 | Kemoterápia, SIVA3 protokoll szerint 18 év alatt |
 
-4. melléklet a 31/2010. (V. 13.) EüM rendelethez
+| 17 | 7953 | Kemoterápia, SCErV protokoll szerint 18 év alatt |
+
+| 18 | 7954 | Kemoterápia, SI3VE protokoll szerint 18 év alatt |
+
+| 19 | 7955 | Kemoterápia, SICARE5 protokoll szerint 18 év alatt |
+
+| 20 | 7956 | Kemoterápia, WV protokoll szerint 18 év alatt |
+
+| 21 | 7957 | Kemoterápia, WVAct protokoll szerint 18 év alatt |
+
+| 22 | 7958 | Kemoterápia, WTVA5 protokoll szerint 18 év alatt |
+
+| 23 | 7959 | Kemoterápia, WTVA5V protokoll szerint 18 év alatt |
+
+| 24 | 7960 | Kemoterápia, WTVER protokoll szerint 18 év alatt |
+
+| 25 | 7961 | Kemoterápia, WTVAER protokoll szerint 18 év alatt |
+
+## 6.4. Releváns HBCS kódok
+
+|  | A | B |
+
+| 1 | HBCS | HBCS megnevezése |
+
+| 2 | 566B | Vese, ureter, húgyhólyag jelentős műtétei daganat miatt, cystectomiaval és hó-lyagpótlással |
+
+| 3 | 566C | Vese, ureter, húgyhólyag jelentős műtétei daganat miatt |
+
+| 4 | 577B | Vese-, húgyúti daganatok |
+
+| 5 | 9430 | Sugárterápia |
+
+| 6 | 608Z | Vese-, húgyutak műtétei (kivéve: jelentős műtétek) súlyos társult betegséggel |
+
+| 7 | 610Z | Vese-, húgyúti betegségek (kivéve: veseelégtelenség, a vese, húgyutak egyéb belgyógyászati betegségei cytostatikus vagy cyclosporin kezeléssel) |
+
+| 8 | 959A-959H, 959 J | Rosszindulatú daganat kemoterápiája "A"-"H" és "J" |
+
+## 7. Rövidítések
+
+## BNO Betegségek nemzetközi osztályozása
+
+## BSC Best supportive care
+
+## HBCS Homogén betegségcsoport
+
+## EAU European Association of Urology
+
+## OENO Orvosi eljárások nemzetközi osztályzása
+
+## RCC Vesesejtes rák
+
+## RTG Röntgen
+
+## TNM Tumor, node, metastasis (tumor, nyirokcsomó, metasztázis)
+
+4. melléklet a 31/2010. (V. 13.) EüM rendelethez[^10]
+
+[^10]: A 4. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (2) bekezdésével megállapított szöveg.

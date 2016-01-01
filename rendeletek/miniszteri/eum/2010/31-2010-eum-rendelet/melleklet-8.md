@@ -1,4 +1,4 @@
-8. melléklet a 31/2010. (V. 13.) EüM rendelethez[^7]
+8. melléklet a 31/2010. (V. 13.) EüM rendelethez[^15]
 
 ## A felnőttkori fisztulázó Crohn-betegség diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -8,17 +8,19 @@ Felnőttkori fisztulázó Crohn-betegség
 
 2. Kórkép leírása
 
-A gyulladásos bélbetegségek (IBD), azaz a colitis ulcerosa és a Crohn-betegség (CD) a fejlettebb országokban a rheumatoid arthritis után a második leggyakoribb idült gyulladásos betegségcsoportot képezik. A Crohn-betegség krónikus gyulladásos betegség, amely a gasztrointesztinális traktus bármely területét érintheti. A betegségre a bél transzmurális gyulladása jellemző, gyakori a lefolyás során az intesztinális – köztük szűkület és fisztula – és extraintesztinális szövődmények megjelenése. A Crohn-betegség természetes lefolyása az esetek döntő többségében különböző súlyosságú fellángolások (relapsusok) és nyugalmi időszakok (remissziók) különböző időtartamú váltakozásából áll, az esetek kis részében az aktivitás folyamatos. A hagyományos terápiás lehetőségek hosszú távú klinikai eredménye a betegek jelentős részében nem megfelelő, a betegség egyes esetekben csak nagy dózisú és elhúzódó szteroid kezelésre reagál annak minden ismert mellékhatásával. A hatás időtartama azonban rövid, és a betegek kb. egyharmada már kezdettől fogva rezisztens a kezelésre, vagy később szteroid dependencia alakul ki. Hagyományosan a kezelés célja a remisszió elérése és fenntartása, lehetőleg a műtét elkerülése. A betegség természetes lefolyását a hagyományos gyógyszeres kezeléssel bizonyosan nem tudjuk megváltoztatni. Crohn-betegségben az évek során 70-80%-ban szűkület, fisztula, tályog alakul ki, reszekciós műtét válik szükségessé. Bár a betegség pontos oka nem tisztázott, a patogenezis megismert tényezői az utóbbi években lehetővé tették új típusú, úgynevezett biológiai gyógyszerek kifejlesztését. Az új terápiás lehetőségek birtokában a terápiás célok is módosulnak. Ma a terápiás cél a klinikai, endoszkópos és szövettani remisszió (nyálkahártya-gyógyulás) elérése, a szteroid mentes remisszió fenntartása, a szövődmények megelőzése, a kórházi kezelések és sebészi kezelés szükségességének mérséklése, az életminőség javítása, a betegség természetes lefolyásának kedvező irányú megváltoztatása.
+A gyulladásos bélbetegségek (IBD), azaz a colitis ulcerosa és a Crohn-betegség a fejlettebb országokban a rheumatoid arthritis után a második leggyakoribb idült gyulladásos betegségcsoportot képezik. A Crohn-betegség krónikus gyulladásos betegség, amely a gasztrointesztinális traktus bármely területét érintheti, gyakori az intesztinális (pl.: szűkület vagy fisztula) és extraintesztinális szövődmények megjelenése. A betegség természetes lefolyása az esetek döntő többségében különböző súlyosságú fellángolások (relapsusok) és nyugalmi időszakok (remissziók) különböző időtartamú váltakozásából áll. A hagyományos terápiás lehetőségek hosszú távú klinikai eredménye a betegek jelentős részében nem megfelelő, a betegség egyes esetekben csak nagy dózisú és elhúzódó szteroid kezelésre reagál, mely a jelen eljárásrendben nem részletezett, akár súlyos mellékhatásokhoz is vezethet. A szteroid hatás időtartama azonban viszonylag rövid és a betegek kb. egyharmada már kezdettől fogva rezisztens a kezelésre, vagy később szteroid dependencia alakul ki. Perianalis fistulák kezelésében a szisztémás szteroid kezelés nem indokolt. Hagyományosan a kezelés célja a remisszió elérése és fenntartása, lehetőleg a műtét elkerülése. A betegség természetes lefolyását a hagyományos gyógyszeres kezeléssel bizonyosan nem tudjuk megváltoztatni. Crohn-betegségben az évek során 70-80%-ban szűkület, fisztula, tályog alakul ki, reszekciós műtét válik szükségessé. Bár a betegség pontos oka nem tisztázott, a patogenezis megismert tényezői az utóbbi években lehetővé tették új típusú, úgynevezett biológiai gyógyszerek kifejlesztését. Ma a terápiás cél a fisztulázó Crohn-betegség esetén a fistulák záródása, párhuzamos luminalis érintettség esetén a klinikai és endoszkópos remisszió (nyálkahártya-gyógyulás) elérése, a szteroid mentes remisszió fenntartása, a szövődmények megelőzése, a kórházi kezelések és sebészi kezelés szükségességének mérséklése, az életminőség javítása, a betegség természetes lefolyásának kedvező irányú megváltoztatása.
 
 2.1. A felnőttkori fisztulázó Crohn-betegség aktivitása
 
-A perianalis sipollyal járó betegségformák súlyosságának meghatározására a PDAI (Perianal disease Activity Index) alkalmas (EL5, RG D). PDAI 3 pontos csökkenésekor hatékonynak tartjuk a kezelést (klinikai választ), a remissziót a PDAI alapján a szakirodalom nem definiálja, azonban a sipolyváladékozás teljes megszűnése remissziónak tekinthető (EL2b, RG D). Crohn-betegséghez kapcsolt enterocutan sipoly kezelését sikeresnek tekintjük.
+A perianalis sipollyal járó betegségformák súlyosságának meghatározására a PDAI (Perianal disease Activity Index) alkalmas (EL5, RG D). PDAI 3 pontos csökkenésekor hatékonynak tartjuk a kezelést (klinikai választ), a remissziót a PDAI alapján a szakirodalom nem definiálja, azonban a sipolyváladékozás teljes megszűnése remissziónak tekinthető (EL2b, RG D). Crohn-betegséghez kapcsolt enterocutan vagy rectovaginalis sipolyok esetén részleges remissziónak tekinthető, ha a kezelés kezdetén aktív fisztulák váladékozása 3 hétnél hosszabb kezelést követően több, mint 50%-kal csökken két egymást követő kontroll vizsgálat során. A sipolyváladékozás teljes megszűnése 2 egymást követő kontroll vizsgálat alkalmával remissziónak tekinthető.
+
+3. Az ellátás igénybevételének finanszírozott szakmai rendje, finanszírozási algoritmusa
 
 4. A felnőttkori fisztulázó Crohn-betegség biológiai kezelése
 
 4.1. Indukciós kezelés sipolyozó Crohn-betegségben
 
-Komplex perianális (több sipolynyílású, magas transsphinctericus vagy tályoggal szövődött, gyulladt rectum nyálkahártya mellett kialakuló, vagy rectovaginalis helyzetű), vagy abdominális fisztula esetén második vonalban [antibiotikum és azathioprin kezelés elégtelensége (PDAI >4) vagy intoleranciája esetén] indikált az anti-TNF-α kezelés (EL1a, RGB). Fisztulázó betegségtípusban az első vonalbeli kezelésnek nem része a szisztémás szteroidok alkalmazása. A tályogot drenáló fisztula anti-TNF-α kezelése csak a tályog drenálása (seton behelyezése) után kezdhető meg.
+Komplex perianális (több sipolynyílású, magas transphinctericus vagy tályoggal szövődött, gyulladt rectum nyálkahártya mellett kialakuló, vagy rectovaginalis helyzetű) vagy enterocutan fisztula esetén második vonalban [antibiotikum és azathioprin kezelés elégtelensége (PDAI >4) vagy intoleranciája esetén] indikált az anti-TNF-α kezelés (EL1a, RGB). Fisztulázó betegségtípusban az első vonalbeli kezelésnek nem része a szisztémás szteroidok alkalmazása. A tályogot drenáló fisztula anti-TNF-α kezelése csak a tályog drenálása (seton behelyezése) után kezdhető meg.
 
 4.2. A Magyarországon jelenleg engedélyezett készítmények közül:
 
@@ -28,15 +30,15 @@ Komplex perianális (több sipolynyílású, magas transsphinctericus vagy tály
 
 4.3. Az anti-TNF-α indukciós kezelés hatékonyságának ellenőrzése fisztulázó Crohn-betegségben
 
-Fisztulázó kórforma esetében hatékony a kezelés, ha megfelelő fisztula-gyógyulás (PDAI csökkenés >3 pont, vagy a drenáló fisztulák számának, illetve a váladékozás mennyiségének legalább 50%-os csökkenése) igazolható.
+Fisztulázó kórforma esetében hatékony a kezelés, ha megfelelő fisztula-gyógyulás (PDAI csökkenés>3 pont, vagy ha a drenáló fisztulák számának, illetve a váladékozás mennyiségének legalább 50%-os csökkenése) igazolható.
 
 5. Fenntartó kezelés fisztulázó Crohn-betegségben
 
-5.1. Megfelelő válaszkészség (3 hónap alatt a drenáló fisztulák számának, illetve a váladékozás mennyiségének legalább 50%-os csökkenése vagy a PDAI >3 pontos csökkenése) esetén fenntartó kezelés folytatása javasolt önmagában vagy immunszuppresszív terápiával együtt.
+5.1. Megfelelő válaszkészség (3 hónap alatt a drenáló fisztulák számának, illetve a váladékozás mennyiségének legalább 50%-os csökkenése vagy a PDAI>3 pontos csökkenése) esetén fenntartó kezelés folytatása javasolt önmagában vagy immunszuppresszív terápiával együtt.
 
-5.2. Infliximab esetében: hatékony indukciós kezelést követően 8 hetente 5 mg/ttkg dózisban.
+5.2. Infliximab esetében: Hatékony indukciós kezelést követően 8 hetente 5 mg/ttkg dózisban.
 
-5.3. Adalimumab esetében: hatékony indukciós kezelést követően 2 hetente alkalmazott 40 mg dózisban. Reagáló esetekben a kezelés maximális időtartamára, elhagyására vonatkozó ajánlás nem fogalmazható meg (EL3, RG C).
+5.3. Adalimumab esetében: Hatékony indukciós kezelést követően 2 hetente alkalmazott 40 mg dózisban. Reagáló esetekben a kezelés maximális időtartamára, elhagyására vonatkozó ajánlás nem fogalmazható meg (EL3, RG C).
 
 6. Különleges megfontolások az anti-TNF-α kezeléshez
 
@@ -46,13 +48,13 @@ Luminalis Crohn-betegség esetén a két hasonló támadáspontú szer összehas
 
 6.2. Dózismódosítás
 
-6.2.1. Infliximab: fisztula-képződéssel járó aktív Crohn-betegség esetén alkalmazott IFX kezelés esetében hatékony indukciós kezelést követően 8 hetente 5 mg/ttkg dózisban, a kezdetben reagáló-remisszióba kerülő betegekben hatáscsökkenés-vesztés esetén a dózis 10 mg/ttkg-ra emelhető 8 hetente. Ilyenkor fontos azonban a hatásvesztés okának tisztázása, elsősorban abscessus, műtétet igénylő szűkület kizárása.
+6.2.1. Infliximab: Fisztula-képződéssel járó aktív Crohn-betegség esetén alkalmazott IFX kezelés esetében hatékony indukciós kezelést követően 8 hetente 5 mg/ttkg dózisban, a kezdetben reagáló-remisszióba kerülő betegekben hatáscsökkenés-vesztés esetén a dózis 10 mg/ttkg-ra emelhető 8 hetente. Ilyenkor fontos azonban a hatásvesztés okának tisztázása abscessus, műtétet igénylő szűkület kizárása.
 
-6.2.2. Adalimumab: a javasolt adag 40 mg minden 2. héten, szubkután injekcióban a kezdetben reagáló-remisszióba kerülő betegekben hatáscsökkenés-vesztés esetén a 40 mg-os injekciók adása közötti időintervallum egy hétre csökkenthető. Ilyenkor fontos azonban a hatásvesztés okának tisztázása, elsősorban abscessus, műtétet igénylő szűkület kizárása.
+6.2.2. Adalimumab: A javasolt adag 40 mg minden 2. héten, szubkután injekcióban a kezdetben reagáló-remisszióba kerülő betegekben hatáscsökkenés-vesztés esetén a 40 mg-os injekciók adása közötti időintervallum egy hétre csökkenthető. Ilyenkor fontos azonban a hatásvesztés okának tisztázása, abscessus, műtétet igénylő szűkület kizárása.
 
 6.3. Készítményváltás
 
-Anti-TNF-α kezelés során a terápiás válasz elvesztése után, vagy intolerancia esetén egy másik szerre való váltás megengedett. Jelenleg két anti-TNF-α készítmény áll rendelkezésre hazánkban, közöttük egy váltás javasolt. A váltás előtt szükséges az aktivitás felmérése, szövődmények kizárása (elsősorban abscessus, műtétet igénylő szűkület).
+Anti-TNF-α kezelés során a terápiás válasz elvesztése után, vagy intolerancia esetén egy másik szerre való váltás megengedett. Jelenleg két anti-TNF-α készítmény áll rendelkezésre ebben az indikációban, közöttük főszabályként váltás csak egy alkalommal javasolt. A váltás előtt szükséges az aktivitás felmérése, szövődmények (abscessus, műtétet igénylő szűkület) kizárása.
 
 7. Szövődmények monitorozása, ellenőrzése
 
@@ -61,6 +63,8 @@ Anti-TNF-α kezelés során a terápiás válasz elvesztése után, vagy intoler
 7.2. Malignus betegségek
 
 7.3. Neurológiai eltérések
+
+7.4. Secunder autoimmun betegségek
 
 8. Evidencia szintek és az ajánlások foka (Oxford Centre for Evidence Based Medicine)
 
@@ -76,7 +80,7 @@ EL: 2a SR (cohort tanulmányok homogének)
 
 EL: 2b Individuális cohort tanulmány (low qualitiy RCT)
 
-EL: 2c “Outcomes” research
+EL: 2c „Outcomes” research
 
 EL: 3a SR eset-kontrollált tanulmányok homogenitásával
 
@@ -86,7 +90,7 @@ EL: 4 Eset-sorozatok (rossz minőségű cohort és eset-kontrollált tanulmány)
 
 EL: 5 Szakértői vélemény
 
-* terápiás tanulmány alapja
+* Terápiás tanulmány alapja
 
 8.2. Ajánlás foka (RG):
 
@@ -102,15 +106,25 @@ RG: D 5. szintű evidenciák, zavarosan inkonzisztens vagy inkonkluzív tanulmá
 
 (9F) 1. perianalis tályog = sebészi megoldás (EL5, RG D)
 
-9.1. Egyszerű fisztula
+9.1. Fisztula jellege szerint:
 
-(9G) a fisztula csak panaszok esetén kezelendő
+9.1.1. Egyszerű fisztula
+
+9.1.2. Összetett fisztula rendszer
+
+9.1.3. Kimenetel-fisztula
+
+9.1.4. Rectovaginalis fisztula
+
+9.2. Egyszerű fisztula
+
+(9G) A fisztula csak panaszok esetén kezelendő
 
 Panaszok esetén seton vagy fistulotomia (EL3, RG D)
 
 Metronidazol és ciprofloxacin kezelés (EL3, RG D)
 
-9.2. Összetett fisztularendszer
+9.3. Összetett fisztularendszer
 
 (9H) Összetett (komplex fisztula)
 
@@ -134,15 +148,15 @@ Adalimumab (EL1b, RG B)
 
 Mindkét szer a második vonalban (EL1b, RG B)
 
-9.3. Kimenetel-fisztula
+9.4. Kimenetel-fisztula
 
 (9L) Terápiás hatékonyság és mérése
 
 Váladékozás csökkenése (50%) (EL2b, RG D)
 
-Quantitatív – PDAI (EL5, RG D)
+Quantitatív - PDAI (EL5, RG D)
 
-Kismedence MRI vizsgálat (EL2b, RG D)
+Váladékozás csökkenése (50%) és kismedence MRI vizsgálat (EL2b, RG D)
 
 (9M) Terápia vezetése
 
@@ -152,15 +166,15 @@ Infliximab (EL1b, RG A)
 
 Adalimumab (EL1b, RG B)
 
-Seton drain (EL4, RG D)
+Seton drain (EL4 RG D)
 
-Drainage és gyógyszeres kombináció (EL3, RG C)
+Drainage és gyógyszeres kombináció (EL3 RG C)
 
 Bármelyik fenntartó kezelés legalább 1 évig szükséges (EL1b, RG A)
 
 (9N) Hatástalanság
 
-Hatástalan anti-TNF-α esetén tacrolimus (EL1b, RG B) vagy AZA/MTX és
+Hatástalan anti-TNF-α esetén tacrolimus vagy (EL1b, RG B) AZA/MTX és
 
 antibiotikum (EL5, RG D)
 
@@ -172,19 +186,17 @@ Proctectomia az utolsó lépés (EL5, RG D)
 
 Egyszerű anal-introital, tünet nélküli fistula nem kíván kezelést (EL5, RG D)
 
-9.4. Rectovaginalis
+9.5. Rectovaginalis
 
 (9P) Rectovaginalis fisztula
 
-Tünettel járó esetben sebészet, aktív Crohn-betegségben különösen a rectumban,
+Tünettel járó esetben sebészeti kezelés előtt, aktív Crohn-betegségben (különösen a rectalis), előtte kezelendő (EL5, RG D)
 
-előtte kezelendő (EL5, RG D)
+9.6. Fisztula aktivitásának mérése szerint
 
-9.5. Fisztula aktivitásának mérése szerint
+9.6.1. Váladékozás mértéke alapján: Fisztula hozamának csökkenése 50%-kal
 
-9.5.1. Váladékozás mértéke alapján: fisztula hozamának csökkenése 50%-kal
-
-9.5.2. Összetett pontszám alapján: Perianal Disease Activity Index (PDAI)
+9.6.2. Összetett pontszám alapján: Perianal Disease Activity Index (PDAI)
 
 10. Aktivitási score fisztulázó Crohn-betegségben
 
@@ -232,7 +244,7 @@ előtte kezelendő (EL5, RG D)
 
 | 20 | nincs perianális megjelenés/skin tag | 0 |
 
-| 21 | fissura vagy “mucosal tear” | 1 |
+| 21 | fissura vagy „mucosal tear” | 1 |
 
 | 22 | kevesebb, mint 3 fisztula | 2 |
 
@@ -258,13 +270,13 @@ előtte kezelendő (EL5, RG D)
 
 11.2. Laza, hasmenéses székletek számának napi bontásban és összesítve, 7 napra történő feltüntetése
 
-11.3. A hasi fájdalom mértékének napi bontásban és összesítve, 7 napra történő feltüntetése (0 = nincs, 1 = enyhe, 2 = tűrhető, 3 = erős)
+11.3. A hasi fájdalom mértékének napi bontásban és összesítve, 7 napra történő feltüntetése (0=nincs, 1=enyhe, 2=tűrhető, 3=erős)
 
-11.4. Általános állapot napi feltüntetése (0 = jó, 1 = megfelelő, 2 = rossz, 3 = nagyon rossz, 4 = tűrhetetlen)
+11.4. Általános állapot napi feltüntetése (0=jó, 1=megfelelő, 2=rossz, 3=nagyon rossz, 4=tűrhetetlen)
 
-11.5. A héten észlelt tünetek feltüntetése (0 = nem volt/nincs, 1 = volt/van): szem tünet; bőr tünet; belső sipoly; láz 37,5 fok felett; ízületi fájdalom; száj-garat fekély; végbél fisszúra, fisztula, tályog; egyéb tünet; megjegyzés.
+11.5. A héten észlelt tünetek feltüntetése (0=nem volt/nincs, 1=volt/van): szem tünet; bőr tünet; belső sipoly; láz 37,5 fok felett; ízületi fájdalom; száj-garat fekély; végbél fisszúra, fisztula, tályog; egyéb tünet; megjegyzés
 
-11.6. A hasmenés miatt gyógyszer (bélmozgást csökkentő szerek) bevételére vonatkozó adat (0 = nem, 1 = igen)
+11.6. A hasmenés miatt gyógyszer (bélmozgást csökkentő szerek) bevételére vonatkozó heti adat (0=nem, 1=igen)
 
 11.7. Aktuális testsúly (kg)
 
@@ -284,9 +296,9 @@ előtte kezelendő (EL5, RG D)
 
 12.2.1.1. A fisztula típusának meghatározása a fizikális status, endoszkópos lelet és a kismedencei képalkotók (MR vagy rectalis UH) vagy EUA (anesztéziában végzett rectalis vizsgálat) alapján
 
-12.2.1.2. Súlyosság meghatározása a következő kritériumok alapján (PDAI: perianalis betegség aktivitási index, 0-12)
+12.2.1.2. Súlyosság meghatározása az alábbi kritériumok alapján (PDAI: perianalis betegség aktivitási index, 0-12)
 
-12.2.1.3. Az indukciós kezelés hatásosságának rögzítése (PDAI csökkenés >3)
+12.2.1.3. Az indukciós kezelés hatásosságának rögzítése (PDAI csökkenés>3)
 
 12.2.1.4. A 12.2.1.1. pontban felsorolt diagnosztikai módszerekkel igazolt remisszióig
 
@@ -294,13 +306,13 @@ előtte kezelendő (EL5, RG D)
 
 12.2.2.1. TBC kizárása (mellkas RTG)
 
-12.2.2.2. Fertőzések kizárása
+12.2.2.2. Egyéb akut és krónikus fertőzések kizárása (pl.: hepatitis B és C szűrés)
 
 12.2.2.3. Demyelinizációs betegség, SLE kizárása (anamnesztikus adatok alapján)
 
-12.2.2.4. Terhesség kizárása
+12.2.2.4. Terhesség kizárása az indukciós kezelés előtt, majd rendszeres ellenőrzés az anamnesztikus adatok alapján, terhesség gyanúja esetén laboratóriumi vizsgálattal
 
-12.2.2.5. Életvitel módja (fertőzésveszély)
+12.2.2.5. Életvitel módja (fertőzésveszély, tájékoztatás a fertőzés megelőzés módjairól)
 
 12.2.2.6. Labor: rutin
 
@@ -312,13 +324,15 @@ előtte kezelendő (EL5, RG D)
 
 12.2.3.3. 6 havonta: mellkas RTG (tüdőgyulladás, TBC kizárása céljából)
 
-12.2.4. Megjegyzés
+A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazási előírásában és az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 1/A. számú mellékletének vonatkozó indikációs pontjaiban foglaltakat egyaránt szükséges figyelembe venni.
 
-12.2.4.1. Immunszuppresszív, immunmoduláns terápia: legalább 2 mg/ttkg, vagy intolerancia esetén a legmagasabb tolerálható dózisú azathioprin (AZA) kezelés 3 hónapon át.
+Megjegyzés
 
-12.2.4.2. TNF alfa gátlók: adalimumab, infliximab.
+12.2.3.4. Immunszuppresszív, immunmoduláns terápia: legalább 2 mg/ttkg, vagy intolerancia esetén a legmagasabb tolerálható dózisú AZA kezelés 3 hónapon át.
 
-12.2.4.3. Egy éven túli fenntartó kezelés feltétele az MR vagy rectalis UH vagy EUA vizsgálattal igazolt komplett fisztula-záródás.
+12.2.3.5. TNF alfa gátlók: adalimumab, infliximab (az alkalmazott támogatási kategória figyelembevételével).
+
+12.2.3.6. Egy éven túli fenntartó kezelés feltétele az MR vagy rectalis UH vagy EUA vizsgálattal igazolt komplett fisztula-záródás.
 
 13. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
@@ -352,23 +366,23 @@ előtte kezelendő (EL5, RG D)
 
 | 2 | A07EC01 | sulfasalazin | DMARD | Betegségmódosító szerek |
 
-| 3 | L04AX01 | azathioprin | DMARD | Betegségmódosító szerek |
+| 3 | A07EC02 | mesalazin | DMARD | Betegségmódosító szerek |
 
-| 4 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
+| 4 | L04AX01 | azathioprin | DMARD | Betegségmódosító szerek |
 
-| 5 |  |  |  |  |
+| 5 | L04AB02 | infliximab | BRMD | Biológiai terápia eszközei |
 
 | 6 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
 
-| 7 |  |  |  |  |
+| 7 | H02AB01 | betamethason | Szteroid | Szteroid gyógyszerek |
 
-| 8 | H02AB01 | betamethason | Szteroid | Szteroid gyógyszerek |
+| 8 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
 
-| 9 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
+| 9 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
 
-| 10 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+| 10 | H02AB09 | hidrokortizon | Szteroid | Szteroid gyógyszerek |
 
-| 11 | H02AB09 | hidrokortizon | Szteroid | Szteroid gyógyszerek |
+| 10 | A07EA06 | budesonid | Szteroid | Szteroid gyógyszerek |
 
 15. Rövidítések:
 
@@ -376,6 +390,4 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
 
-ECCO: European Crohn’s and Colitis Organisation
-
-[^7]: A 8. melléklet a 24/2013. (III. 29.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^15]: A 8. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (6) bekezdésével megállapított szöveg.
