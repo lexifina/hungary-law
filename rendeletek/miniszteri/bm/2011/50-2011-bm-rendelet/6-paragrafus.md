@@ -1,3 +1,3 @@
-## 4.[^22]
+## 4.[^23]
 
-[^22]: A 4. alcímet (6–8. §) a 64/2013. (XII. 4.) BM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^23]: A 4. alcímet (6–8. §) a 64/2013. (XII. 4.) BM rendelet 12. § b) pontja hatályon kívül helyezte.

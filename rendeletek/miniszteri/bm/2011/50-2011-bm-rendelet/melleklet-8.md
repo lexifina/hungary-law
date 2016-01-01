@@ -22,6 +22,6 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-8. melléklet az 50/2011. (XII. 20.) BM rendelethez[^35]
+8. melléklet az 50/2011. (XII. 20.) BM rendelethez[^36]
 
-[^35]: A 8. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (7) bekezdésével megállapított szöveg.
+[^36]: A 8. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (7) bekezdésével megállapított szöveg.

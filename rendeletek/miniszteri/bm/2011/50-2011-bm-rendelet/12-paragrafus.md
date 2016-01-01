@@ -6,7 +6,7 @@ b) amennyiben a szakvizsgabizottság elnöke, tagja felkérése nem a szakvizsga
 
 c) amennyiben a vizsgabizottság elnöke egyben az oktatásszervező, vagy az oktatásszervező hozzátartozója, vagy az oktatásszervezővel folyamatos munkaviszonyban álló személy,
 
-d)[^24] amennyiben az oktatásról, a szakvizsgáról vagy a sikeres szakvizsgát tett személyekről a tűzvédelmi hatóság értesítése nem történt meg, vagy olyan tartalommal és módon történt meg, amely a szakvizsga rendelet előírásainak nem felel meg,
+d)[^25] amennyiben az oktatásról, a szakvizsgáról vagy a sikeres szakvizsgát tett személyekről a tűzvédelmi hatóság értesítése nem történt meg, vagy olyan tartalommal és módon történt meg, amely a szakvizsga rendelet előírásainak nem felel meg,
 
 e) amennyiben az oktatásszervező által kiállított szakvizsga bizonyítvány vagy a szakvizsgáról felvett jegyzőkönyv nem felel meg a szakvizsga rendelet előírásainak,
 
@@ -18,4 +18,4 @@ h) amennyiben az oktatásszervező az érvénytelen szakvizsga bizonyítványt n
 
 i) amennyiben olyan személyt engedett szakvizsgára, aki a szakvizsga rendelet képzettségre vagy gyakorlatra vonatkozó előírásainak nem felelt meg.
 
-[^24]: A 12. § d) pontja a 67/2012. (XII. 14.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^25]: A 12. § d) pontja a 67/2012. (XII. 14.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.

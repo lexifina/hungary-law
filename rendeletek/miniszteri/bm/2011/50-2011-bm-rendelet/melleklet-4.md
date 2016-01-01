@@ -1,3 +1,3 @@
-4. melléklet az 50/2011. (XII. 20.) BM rendelethez[^32]
+4. melléklet az 50/2011. (XII. 20.) BM rendelethez[^33]
 
-[^32]: A 4. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^33]: A 4. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (3) bekezdésével megállapított szöveg.
