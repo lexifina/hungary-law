@@ -12,7 +12,7 @@ is közli.
 
 (4) Az első- és másodfokon eljáró etikai bizottságok eljárásában – amennyiben az adott etikai bizottságban bizottsági tagként ilyen személy megválasztásra került – az ügy tárgya szerinti szakterületen jártas tag részt vesz. Ennek hiányában szakértőt kell kirendelni.
 
-(5) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell megfelelően alkalmazni azzal, hogy a törvény
+(5) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell megfelelően alkalmazni azzal, hogy
 
 a) nem alkalmazhatók a törvénynek
 
@@ -26,4 +26,4 @@ ad)
 
 vonatkozó rendelkezései, továbbá
 
-b) az ügyintézési határidő hatvan nap, amelyet az eljáró etikai bizottság elnöke annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.
+b) az ügyintézési határidő negyvenöt nap.
