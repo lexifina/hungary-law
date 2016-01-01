@@ -11,3 +11,5 @@ a 10. § (2) és (3) bekezdése szerinti bevallási időszakra (a továbbiakban:
 (2) Az adó alanya az (1) bekezdésben meghatározott adómegállapítási időszakra önadózással állapítja meg adóját.
 
 (3) Ha az adómegállapítási időszakban értékesített adóköteles termék mennyisége a bevallás benyújtását követően csökken, az adó alanya az adó összegét abban az adómegállapítási időszakban jogosult csökkenteni, amelyben a helyesbítésről, érvénytelenítésről szóló számlát, számviteli bizonylatot vagy más okiratot kiállították.
+
+(4) Az adó alanya az adó összegét csökkentheti az adómegállapítási időszakban egészségmegőrző programokkal kapcsolatban felmerült költségeivel, ráfordításaival, azzal, hogy a csökkentés összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.

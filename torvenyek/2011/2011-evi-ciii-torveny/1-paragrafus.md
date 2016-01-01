@@ -55,3 +55,5 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 17. méz: az Apis mellifera méhek által a növényi nektárból vagy élőnövényi részek nedvéből, illetve növényi nedveket szívó rovarok által az élő növényi részek kiválasztott anyagából gyűjtött természetes édes anyag, amelyet a méhek begyűjtenek, saját anyagaik hozzáadásával átalakítanak, raktároznak, dehidrálnak és lépekben érlelnek,
 
 18. gyümölcspárlat: a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: EK rendelet) II. számú melléklete 6. vagy 9. kategóriája szerint készített, EK rendelet szerinti szeszes ital.
+
+19. Egészségmegőrző program: az adóalany – erőforrás-kiáramlással (költségekkel) járó – vagy a népegészségügyi szerv egészséges étkezésre, életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden olyan tevékenysége, akciója, programja, amely bármely magánszemély által, ingyenesen elérhető.
