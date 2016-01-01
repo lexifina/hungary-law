@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti rezidens felett a közalkalmazotti jogviszony létesítésére és megszüntetésére, az illetmény és a munkakör megállapítására, valamint a munkarend meghatározására irányuló munkáltatói jogköröket a szakorvosképzésért felelős egészségügyi államigazgatási szerv vezetője gyakorolja. A rezidens felett az egyéb munkáltatói jogokat – e törvény vagy a felek eltérő rendelkezése hiányában – a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a rezidens részére a munkavégzés helyeként kijelölt egészségügyi szolgáltató vezetője gyakorolja a (3) bekezdésben foglaltakra figyelemmel.
 
-(3) Ahol a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) vagy a Kjt. munkáltatóról rendelkezik, azon a (2) bekezdés szerinti egészségügyi szolgáltatót is érteni kell, figyelembe véve az intézményvezető munkáltatói jogainak e törvény szerinti korlátozását.
+(3) Ahol jogszabály munkáltatóról rendelkezik, azon a (2) bekezdés szerinti egészségügyi szolgáltatót is érteni kell, figyelembe véve az intézményvezető munkáltatói jogainak e törvény szerinti korlátozását.
 
 (4) A Kormány a rezidensek foglalkoztatása tekintetében a III. Fejezetben foglaltaktól a rezidensek számára kedvezőbb szabályokat rendeletben megállapíthat. Ebben az esetben e törvénytől eltérően a Kormány rendeletében megállapított kedvezőbb rendelkezést kell alkalmazni.
 

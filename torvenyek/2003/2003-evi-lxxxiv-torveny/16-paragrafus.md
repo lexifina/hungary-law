@@ -8,9 +8,9 @@
 
 (4) Az (1)–(2) bekezdés szerinti jogviszonyban álló egészségügyi dolgozó által végzett egészségügyi tevékenységre a 4. § e) pontjában, valamint a 12–13. §-ban foglaltakat, illetve továbbképzésére a 15. §-ban foglaltakat, továbbá a 15/B–15/C. §-t értelemszerűen alkalmazni kell.
 
-(5) A 11/A. § alkalmazásában a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozók esetében, ahol e törvény
+(5) A 11/A. § alkalmazásában a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozók esetében, ahol e törvény
 
-a) „Kjt. szerinti besorolási illetményt” vagy „alapbért (illetményt)” említ, ott „távolléti díjat”,
+a) „a Kjt. szerinti besorolási illetményt” vagy „alapbért (illetményt)” említ, ott a 11/A. § (4) és (5) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek együttes összegét”, a 11/A. § (6) és (6a) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek egészségügyi dolgozók kiegészítő illetménye nélkül számított együttes összegét”, valamint
 
 b) ahol „egyösszegű illetmény- vagy bérnövelést” említ, ott „egészségügyi dolgozók kiegészítő illetményét”
 
