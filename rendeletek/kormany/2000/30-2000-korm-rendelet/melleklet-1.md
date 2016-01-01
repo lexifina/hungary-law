@@ -30,7 +30,7 @@
 
 A fentiek alapján ...... évben .......... Ft összegű kibontakozási támogatás igénybevételére jogosult.
 
-A támogatás az illetékes adóhatóságtól igényelhető, és azt az .......... APEH .............. folyósítási számláról kell teljesíteni.
+A támogatás az illetékes adóhatóságtól igényelhető, és azt az .......... NAV .............. folyósítási számláról kell teljesíteni.
 
 Felhívom a figyelmét, hogy a kibontakozási támogatás folyósítását követő 15 napon belül eleget kell tennie a 3. pont szerinti hiteltörlesztési kötelezettségének. Ennek elmulasztása esetén a hitelintézet a kibontakozási hitelszerződést felmondhatja, melynek következtében a vizsgált évben folyósított támogatások jogtalan felhasználásnak minősülnek, azok visszavonásra kerülnek, a minisztérium a pályázót a kibontakozási hitelkonstrukciós programból kizárja, a beváltott kezesség állammal szembeni kötelezettséggé válik.
 
@@ -40,4 +40,4 @@ Budapest, ..... év ..... hó ..... nap.
 
 Vidékfejlesztési Minisztérium
 
-[^50]: Az 1. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 171/2010. (V. 13.) Korm. rendelet 1. § 12. pontja, a 221/2014. (IX. 4.) Korm. rendelet 200. § b) pontja szerint módosított szöveg.
+[^50]: Az 1. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 171/2010. (V. 13.) Korm. rendelet 1. § 12. pontja, a 221/2014. (IX. 4.) Korm. rendelet 200. § b) pontja, a 486/2015. (XII. 29.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
