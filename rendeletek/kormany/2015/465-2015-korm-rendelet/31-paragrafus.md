@@ -1,0 +1,3 @@
+## 30. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 16. §-a a következő (8) bekezdéssel egészül ki:
+
+## „(8) Ha a minisztériumi belső ellenőrzéseket külső szolgáltató bevonásával végzik, az ezzel kapcsolatos szerződés megkötéséhez ki kell kérni a Hivatal elnökének előzetes véleményét. A Hivatal elnöke a szerződéstervezet kézhezvételét követő 8 napon belül értesíti álláspontjáról a minisztériumot. Ha a Hivatal elnökétől a fenti határidő alatt nem érkezik észrevétel, ezt akként kell tekinteni, hogy a Hivatal elnöke a szerződés megkötésével egyetért.”
