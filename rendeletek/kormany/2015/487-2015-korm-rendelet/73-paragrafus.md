@@ -1,0 +1,1 @@
+## 72. § Hatályát veszti az atomenergiáról szóló 1996. évi CXVI. törvény hatálya alá nem tartozó radioaktív anyagok, valamint ionizáló sugárzást létrehozó berendezések köréről szóló 124/1997. (VII. 18.) Korm. rendelet.

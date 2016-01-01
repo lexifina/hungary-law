@@ -1,0 +1,1 @@
+## 71. § Hatályát veszti az atomenergia alkalmazási körébe tartozó egyes anyagok, berendezések és létesítmények tulajdonjoga megszerzésének speciális feltételeiről, valamint birtoklásuk, üzemben tartásuk bejelentésének rendjéről szóló 72/2000. (V. 19.) Korm. rendelet.
