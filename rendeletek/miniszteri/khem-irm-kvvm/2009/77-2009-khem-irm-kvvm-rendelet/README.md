@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-77-20-2
 | 2013-01-01 | 2009-77-20-2M.3 | 76/2012. (XII. 22.) NFM rendelet |
 | 2013-07-01 | 2009-77-20-2M.4 | 18/2013. (V. 9.) NFM rendelet |
 | 2015-04-01 | 2009-77-20-2M.5 | 15/2015. (III. 31.) NFM rendelet |
+| 2016-01-01 | 2009-77-20-2M.6 | 72/2015. (XII. 29.) NFM rendelet |

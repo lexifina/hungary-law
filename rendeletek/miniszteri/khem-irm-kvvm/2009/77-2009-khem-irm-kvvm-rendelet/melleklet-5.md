@@ -122,8 +122,6 @@
 
 ## Jármű minősítése.
 
-## Kiadandó plakett színe.
-
 ## Dátum.
 
 ## Aláírás
@@ -160,7 +158,7 @@
 
 3.2.4. a vizsgabiztos által a felülvizsgálat időpontjában használt eszközök megfelelőségét (hitelesítés, pontosságellenőrzés, adatbázis stb.), és azok szakszerű kezelését,
 
-3.2.5. a műszaki adatlapok, környezetvédelmi adatlapok, plakettek kezelésére vonatkozó ügyviteli szabályok megtartását,
+3.2.5.[^7] a műszaki adatlapok, környezetvédelmi adatlapok, kezelésére vonatkozó ügyviteli szabályok megtartását,
 
 3.2.6. a hatósági díj alkalmazásának szabályszerűségét, a díj és az elvégzett felülvizsgálat összhangját.
 
@@ -182,10 +180,11 @@ c) a környezetvédelmi felülvizsgálaton minősített járművek esetenkénti 
 
 d) a környezetvédelmi felülvizsgálat során végrehajtott technológiai folyamatokra kiterjedő ellenőrzésként,
 
-e)[^4] a felkért állampolgárok vagy társhatóságok (különösen a környezetvédelmi hatóságok és a fogyasztóvédelmi hatóságok) közreműködésével a járműnek mesterségesen előidézett hibával (hibákkal) környezetvédelmi felülvizsgálatra állítása révén,
+e)[^8] a felkért állampolgárok vagy társhatóságok (különösen a környezetvédelmi hatóságok és a fogyasztóvédelmi hatóságok) közreműködésével a járműnek mesterségesen előidézett hibával (hibákkal) környezetvédelmi felülvizsgálatra állítása révén,
 
 f) a felülvizsgáló állomás nem megfelelő munkavégzésének alapos gyanúja esetén a kiállított műszaki adatlapok, környezetvédelmi adatlapok és a forgalmi engedély alapján a felülvizsgált járművek a felülvizsgálattól számított egy héten belüli utóellenőrzésével a külön jogszabály szerinti vizsgára rendelés, vagy a jármű tulajdonosával (üzemben tartójával) folytatott előzetes egyeztetés utáni, mozgó mérőegységgel végzett mérésekkel.
 
 4.1.3. A közlekedési hatóság az éves ellenőrzés eredményéről és javaslatairól összefoglaló értékelést készít. Az ellenőrzés során megállapított hiányosságok felszámolása, a jelentésben foglalt javaslatok megvalósítása érdekében tett intézkedésekről a felülvizsgáló helynek 30 napon belül tájékoztatni kell az ellenőrzést végző a közlekedési hatóságot.
 
-[^4]: Az 5. melléklet 4.1.2. pont e) alpontja a 15/2015. (III. 31.) NFM rendelet 17. §-a szerint módosított szöveg.
+[^7]: Az 5. melléklet 3.2.5. pontja a 72/2015. (XII. 29.) NFM rendelet 15. § d) pontja szerint módosított szöveg.
+[^8]: Az 5. melléklet 4.1.2. pont e) alpontja a 15/2015. (III. 31.) NFM rendelet 17. §-a szerint módosított szöveg.

@@ -8,6 +8,6 @@ c) rendelkezik a jármű kategória környezetvédelmi felülvizsgálatához sz�
 
 d) a közlekedési hatóság által vezetett környezetvédelmi vizsgabiztosi nyilvántartásban szereplő környezetvédelmi vizsgabiztost alkalmaz,
 
-e)[^1]
+e)[^2]
 
-[^1]: A 6. § e) pontját a 62/2011. (XI. 29.) NFM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^2]: A 6. § e) pontját a 62/2011. (XI. 29.) NFM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
