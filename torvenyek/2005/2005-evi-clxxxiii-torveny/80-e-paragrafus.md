@@ -1,10 +1,10 @@
-80/E. § (1) A vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban az ügyintézési határidő az ÁME-knek megfelelő vasúti jármű esetében a kérelem beérkezését követő naptól számított két hónap.
+80/E. § (1) A vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban az ügyintézési határidő az ÁME-knek megfelelő vasúti jármű esetében a kérelem beérkezését követő naptól számított negyvenöt nap.
 
 (2) A vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban az ügyintézési határidő az ÁME-knek nem megfelelő vasúti jármű esetében
 
-a) négy hónap a műszaki dokumentáció beérkezését követően,
+a) három hónap a műszaki dokumentáció beérkezését követően,
 
-b) két hónap a – a vasúti járművek üzembe helyezése engedélyezéséről, időszakos hatósági vizsgálatáról és hatósági nyilvántartásáról szóló rendelet szerint a hatóság által kért – kiegészítő információk vagy kockázatelemzés kézhezvételét követően.
+b) negyvenöt nap a – a vasúti járművek üzembe helyezése engedélyezéséről, időszakos hatósági vizsgálatáról és hatósági nyilvántartásáról szóló rendelet szerint a hatóság által kért – kiegészítő információk vagy kockázatelemzés kézhezvételét követően.
 
 (3) A közlekedési hatóság a vasúti jármű üzembe helyezése tárgyában hozott döntéssel szemben a fellebbezést a döntés kézhezvételét követő egy hónapon belül lehet előterjeszteni.
 

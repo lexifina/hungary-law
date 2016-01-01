@@ -8,7 +8,7 @@ a) a műszaki engedély kiadása,
 
 b) a vasútbiztonsági tanúsítvány, kiegészítő tanúsítvány és a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása és visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése,
 
-c) a képzési engedély kiadása, az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
+c) a képzési tevékenység folytatására irányuló bejelentések nyilvántartásba vétele, az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
 
 d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak,
 

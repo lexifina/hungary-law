@@ -22,7 +22,7 @@ b) a vasúti pálya, a vasúti jármű, illetve a vasúti járműre szerelt nyom
 
 (7) Ha a közlekedési hatóság a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzésére és vizsgáztatására vonatkozó rendelkezések megsértését állapítja meg,
 
-a) a képzési engedélyt vagy az időszakos oktatásra vonatkozó regisztrációt
+a) a képzési tevékenységet vagy az időszakos oktatásra vonatkozó regisztrációt
 
 aa) teljes egészében, vagy
 
@@ -30,7 +30,7 @@ ab) egyes munkakörökre vonatkozóan, vagy
 
 ac) egyes képzési helyek vonatkozásában
 
-felfüggesztheti vagy visszavonhatja,
+felfüggesztheti, megtilthatja vagy visszavonhatja,
 
 b) a képzőszervezettel vagy a vasúti társasággal szemben bírságot szabhat ki, és
 
