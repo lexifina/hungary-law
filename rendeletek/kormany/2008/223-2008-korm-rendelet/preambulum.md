@@ -1,1 +1,0 @@
-A Kormány a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi LXXVIII. törvény (a továbbiakban: Tv.) 28. §-ának (1) bekezdésében foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt jogkörében eljárva a következőket rendeli el:
