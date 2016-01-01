@@ -45,3 +45,9 @@ a) a 83. § (1) bekezdés a) pontjában meghatározott adatok közül az e törv
 b) a 83. § (1) bekezdés f), valamint j)–l) pontjában meghatározott adatok.
 
 (5) A 83. § (1) bekezdés m) pontjában meghatározott adat csak a nyomozó hatóság és az ügyészség, továbbá törvényben meghatározottak szerint a bíróság és a nemzetbiztonsági szolgálat részére adható át.
+
+(6) A menekültügyi hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
+
+(7) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek – az e törvényben meghatározott feltételekkel – az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám közlésével is igényelhetnek adatot a nyilvántartásból.
+
+(8) A menekültügyi hatóság – az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a menekültügyi nyilvántartásban kezelt arcképmás adat nyilvántartásba vételéről, valamint az arcképmás adat változásáról.

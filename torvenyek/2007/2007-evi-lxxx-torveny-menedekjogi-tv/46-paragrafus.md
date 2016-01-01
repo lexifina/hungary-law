@@ -16,4 +16,6 @@ f) tömeges bevándorlás okozta válsághelyzet idején
 
 fa) ügygondnok kirendelése kezdeményezésének, illetve kirendelésének,
 
-fb) kézbesítési meghatalmazott megjelölésének.
+fb) kézbesítési meghatalmazott megjelölésének;
+
+g) sommás eljárásnak.

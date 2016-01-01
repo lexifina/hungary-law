@@ -12,6 +12,8 @@
 
 (7) A felülvizsgálati kérelmet a végzés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
 
+(7a) Az e törvény szerinti, határon lefolytatott eljárás során benyújtott bírósági felülvizsgálat iránti kérelmet, valamint az ügy iratait és az ellenkérelmet a menekültügyi hatóság elektronikus úton továbbítja a bíróság számára.
+
 (8) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
 (9) A bírósági felülvizsgálat során az átadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek a végzés végrehajtására nincs halasztó hatálya.

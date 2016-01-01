@@ -40,7 +40,9 @@ s) az elismerését kérővel szemben elrendelt menekültügyi őrizet jogalapj�
 
 t) az elismerését kérő számára kijelölt tartózkodási helyet elrendelő határozat jogalapját, számát, az elrendelő szerv megnevezését, valamint a kijelölt tartózkodási hely megjelölését; valamint
 
-u) a menekültügyi óvadék összegét, valamint letételének, visszaadásának és államra szállásának időpontját.
+u) a menekültügyi óvadék összegét, valamint letételének, visszaadásának és államra szállásának időpontját;
+
+v) az arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c), f)–i), n), q) és r) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 

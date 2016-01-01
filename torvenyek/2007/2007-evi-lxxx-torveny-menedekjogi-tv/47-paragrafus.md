@@ -7,3 +7,5 @@
 (2) Az elfogadhatatlan vagy gyorsított eljárásban elbírált kérelmek ügyében a döntést az elfogadhatatlansági- vagy gyorsított eljárást megalapozó ok megállapításától számított tizenöt napon belül kell meghozni.
 
 (3) Amennyiben a (2) bekezdésben foglaltak alapján rövidebb időtartamú eljárásnak nincs helye, azt a kérelem benyújtásától számított hatvan napon belül kell lefolytatni.
+
+(4) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
