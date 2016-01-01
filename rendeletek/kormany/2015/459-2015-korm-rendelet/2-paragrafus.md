@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) hatálya alá tartozó tőzsdék, a központi értéktári és a központi szerződő fél tevékenységet végző szervezetek beszámoló készítési és könyvvezetési kötelezettségére terjed ki.

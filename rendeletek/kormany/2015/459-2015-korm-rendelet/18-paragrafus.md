@@ -1,0 +1,1 @@
+## 17. § Ez a rendelet a bankok és más pénzügyi intézmények éves és összevont (konszolidált) éves beszámolójáról szóló, 1986. december 8-i 86/635/EGK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
