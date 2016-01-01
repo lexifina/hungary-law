@@ -10,8 +10,9 @@
 
 (3) E rendeletben foglaltakat kell alkalmazni a Baross Imre Artistaképző Szakközépiskola és Szakiskola pedagógus-munkakörben foglalkoztatott dolgozóira is.
 
-(4) A II. fejezet hatálya – a 6–8. alcím kivételével – a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) hatálya alá tartozó intézményben pedagógus-munkakörben foglalkoztatottakra is kiterjed.
+(4)[^2] A II. Fejezet hatálya – a 16., 17., 18. és 19. § kivételével – fenntartótól függetlenül kiterjed a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) hatálya alá tartozó intézményben pedagógus-munkakörben, továbbá az egységes óvoda-bölcsődében felsőfokú végzettséggel kisgyermeknevelő munkakörben foglalkoztatottakra is.
 
 (5) Az Európai Iskolák Statútumáról szóló, Luxemburgban, 1994. június 21-én aláírt Egyezmény kihirdetéséről szóló 322/2004. (XII. 6.) Korm. rendelet alapján az Európai Iskolában pedagógus-munkakörben foglalkoztatott munkavállalókra a külföldi munkavégzésük időtartama alatt e rendelet besorolási szabályait nem kell alkalmazni.
 
 [^1]: Az I. fejezet (1–1/A. §) a 249/2015. (IX. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (4) bekezdése a 418/2015. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.

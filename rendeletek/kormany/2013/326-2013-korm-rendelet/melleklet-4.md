@@ -46,7 +46,7 @@
 
 | 7 | gyakorlati oktatásvezető | tagintézményenként 200-nál több tanuló | 1 |
 
-4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez
+4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^95]
 
 A nevelő és oktató munkát közvetlenül segítő alkalmazottak finanszírozott létszáma
 
@@ -74,9 +74,9 @@ A nevelő és oktató munkát közvetlenül segítő alkalmazottak finanszírozo
 
 | 11 | gyermek- és ifjúságvédelmi felügyelő vagy gyógypedagógiai asszisztens | a siket, a vak, a középsúlyos értelmi fogyatékos, az önálló helyváltoztatásra képtelen testi fogyatékos, az autista és a halmozottan fogyatékos tanulókat nevelő és oktató iskolában és kollégiumban hat tanulónként | 1 |
 
-| 12 | szabadidő-szervező | amennyiben a halmozottan hátrányos helyzetű tanulók aránya eléri az iskola, a kollégium létszámának legalább huszonöt százalékát és az érintettek létszám meghaladja a 100, de nem éri el az 500 főt | 0,5 |
+| 12 | szabadidő-szervező vagy iskolai szociális munkás vagy gyermek- és ifjúságvédelmi felelős | amennyiben a hátrányos helyzetű tanulók aránya eléri az iskola, a kollégium létszámának legalább huszonöt százalékát és az érintettek létszáma meghaladja a 100, de nem éri el az 500 főt | 0,5 |
 
-| 13 | szabadidő-szervező | amennyiben a halmozottan hátrányos helyzetű tanulók aránya eléri az iskola, a kollégium létszámának legalább huszonöt százalékát és az érintettek létszáma meghaladja az 500 főt | 1 |
+| 13 | szabadidő-szervező vagy iskolai szociális munkás vagy gyermek- és ifjúságvédelmi felelős | amennyiben a hátrányos helyzetű tanulók aránya eléri az iskola, a kollégium létszámának legalább huszonöt százalékát és az érintettek létszáma eléri vagy meghaladja az 500 főt | 1 |
 
 | 14 | pszichopedagógus | amennyiben a halmozottan hátrányos helyzetű tanulók aránya eléri az iskola, a kollégium létszámának legalább huszonöt százalékát, 100 főig | a feladatot az utazó szakember hálózaton keresztül kell ellátni |
 
@@ -111,3 +111,5 @@ A nevelő és oktató munkát közvetlenül segítő alkalmazottak finanszírozo
 | 29 | rendszergazda | általános, középfokú iskolánként 750 tanuló felett | 2 |
 
 | 30 | pedagógiai felügyelő | amennyiben a kollégium nevelőtestülete e rendelet hatálybalépését megelőzően döntött a munkakör bevezetéséről, kollégiumban nemenként és épületenként 100 tanulóra számítva, de legalább | 1 |
+
+[^95]: A 4. melléklet a 89/2015. (IV. 9.) Korm. rendelet 22. §-a szerint módosított szöveg.

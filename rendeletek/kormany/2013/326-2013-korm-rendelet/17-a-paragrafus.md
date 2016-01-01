@@ -1,4 +1,4 @@
-17/A. §[^34] (1) Ha a Mesterpedagógus fokozatba besorolt pedagógus országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként vesz részt vagy szaktanácsadói feladatokat lát el, munkaidő-kedvezményben részesül. A neveléssel-oktatással lekötött munkaideje nem lehet több
+17/A. §[^36] (1) Ha a Mesterpedagógus fokozatba besorolt pedagógus országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként vesz részt vagy szaktanácsadói feladatokat lát el, munkaidő-kedvezményben részesül. A neveléssel-oktatással lekötött munkaideje nem lehet több
 
 a) heti tizennyolc óránál,
 
@@ -14,7 +14,15 @@ a) a gyermekotthoni, utógondozó otthoni, javítóintézeti nevelő, pszicholó
 
 b) gyermekotthoni gyógypedagógus, fejlesztő pedagógus, javítóintézeti gyógypedagógus esetén tizenkilenc óránál,
 
-c) nevelőszülői tanácsadó, területi gyermekvédelmi szakszolgálati családgondozó esetén harminckét óránál.
+c)[^37] nevelőszülői tanácsadó, területi gyermekvédelmi szakszolgálati családgondozó, örökbefogadási tanácsadó esetén harminckét óránál.
+
+(2a)[^38] Az (1) bekezdés szerinti szakértői, szaktanácsadói tevékenységet végző, Mesterpedagógus fokozatba besorolt
+
+a) bölcsődei kisgyermeknevelő, gyógypedagógus, pszichológus, szaktanácsadó, továbbá
+
+b) egységes óvoda-bölcsődei kisgyermeknevelő
+
+tekintetében a kötött munkaidőből számítandó munkaidő-kedvezmény napi hat órás kötött munkaidő esetén heti hat óra, napi hét órás kötött munkaidő esetén heti hét óra.
 
 (3) Az (1) bekezdés szerinti szakértői, szaktanácsadói tevékenységet végző Mesterpedagógus fokozatba besorolt nevelőszülői hálózat szakmai vezetője, gyermekotthon vezető, javítóintézeti otthonvezető esetében a munkaidő-kedvezmény nyolc óra.
 
@@ -44,7 +52,7 @@ b) közreműködik az országos pedagógiai-szakmai ellenőrzés részét képez
 
 c) az OH kijelölése alapján közreműködik a minősítő vizsgát, minősítési eljárást követően benyújtott panaszok elbírálásában.
 
-(8) Az a Mesterpedagógus fokozatba besorolt pedagógus, aki az (1)–(3) bekezdésben meghatározott feladatok ellátásában nem vesz részt, a kötött munkaidőnek neveléssel-oktatással – vagy a Gyvt. hatálya alá tartozó intézmény esetén a neveléssel, fejlesztéssel és vizsgálattal – le nem kötött részében heti két órában
+(8)[^39] Az a Mesterpedagógus fokozatba besorolt pedagógus, aki az (1)–(3) bekezdésben meghatározott feladatok ellátásában nem vesz részt, a kötött munkaidőnek neveléssel-oktatással le nem kötött részében – a Gyvt. hatálya alá tartozó gyermekvédelmi szakellátást nyújtó intézmény, javítóintézeti nevelést nyújtó intézmény esetén a kötött munkaidőnek a neveléssel, fejlesztéssel és vizsgálattal le nem kötött részében, a Gyvt. hatálya alá tartozó bölcsőde, valamint az Nkt. hatálya alá tartozó egységes óvoda-bölcsőde esetén a teljes munkaidő kötött munkaidőn felüli részében – heti két órában
 
 a) ellátja a pedagógusjelölt, gyakornok szakmai segítését,
 
@@ -60,4 +68,7 @@ c) részt vesz – a Gyvt. hatálya alá tartozó intézményben foglalkoztatott
 
 (12) A (11) bekezdés alkalmazásában a pedagógusnak felróható ok minden olyan esemény, körülmény, amelynek bekövetkezése a pedagógus szándékos vagy gondatlan magatartásával áll közvetlen okozati összefüggésben. A besorolás visszavonásakor a pedagógust Mesterpedagógus fokozatba történt besorolását megelőzően elért legmagasabb fokozatba és a fizetési kategória megállapításához figyelembe vehető jogviszonyának megfelelő kategóriába kell besorolni.
 
-[^34]: A 17/A. §-t a 249/2015. (IX. 8.) Korm. rendelet 12. §-a iktatta be.
+[^36]: A 17/A. §-t a 249/2015. (IX. 8.) Korm. rendelet 12. §-a iktatta be.
+[^37]: A 17/A. § (2) bekezdés c) pontja a 418/2015. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^38]: A 17/A. § (2a) bekezdését a 418/2015. (XII. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^39]: A 17/A. § (8) bekezdése a 418/2015. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.

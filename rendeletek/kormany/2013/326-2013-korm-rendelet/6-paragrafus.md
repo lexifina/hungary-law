@@ -1,6 +1,6 @@
 ## foglalkoztatottak legfeljebb egy-egy százaléka sorolható be.
 
-## 2. [^3] A szakmai gyakorlat
+## 2. [^4] A szakmai gyakorlat
 
 6. § (1) A magasabb fokozatba történő előrelépéshez és a gyakornoki idő teljesítéséhez szükséges szakmai gyakorlatnak kell elfogadni
 
@@ -36,4 +36,4 @@ c) a gyermekek és az ifjúság védelméért felelős miniszter igazolása alap
 
 (5) Ha a pedagógus-munkakörben foglalkoztatott személy korábbi munkáltatója a besoroláskor szakmai gyakorlatként vette figyelembe a (2) bekezdésben szereplő időt, és a pedagógus-munkakörben foglalkoztatott személy ezt követően nem a Gyvt. hatálya alá tartozó intézményben létesít foglalkoztatási jogviszonyt, a korábban figyelembe vett szakmai gyakorlat időtartama emiatt utóbb nem csökkenthető.
 
-[^3]: A 2. alcím (6–6/A. §) a 249/2015. (IX. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 2. alcím (6–6/A. §) a 249/2015. (IX. 8.) Korm. rendelet 3. §-ával megállapított szöveg.

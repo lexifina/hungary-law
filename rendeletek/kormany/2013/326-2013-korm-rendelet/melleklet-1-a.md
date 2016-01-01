@@ -8,6 +8,6 @@
 
 | 3 | Ha a munkakör részét képezi foglalkozás, tanóra megtartása, a pedagógus által vezetett foglalkozás értékelése. Ha a munkakör részét nem képezi foglalkozás, tanóra megtartása, a munkakör ellátása során keletkezett dokumentum elemzése. Ettől eltérően, a Gyvt. hatálya alá tartozó intézmény pedagógusa esetében az értékelés az OH által kidolgozott, a miniszter által jóváhagyott és az OH honlapján közzétettek szerint történik. | 40 |
 
-1/A. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^85]
+1/A. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^92]
 
-[^85]: Az 1/A. mellékletet a 89/2015. (IV. 9.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 249/2015. (IX. 8.) Korm. rendelet 17. § l) pontja.
+[^92]: Az 1/A. mellékletet a 89/2015. (IV. 9.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 249/2015. (IX. 8.) Korm. rendelet 17. § l) pontja.

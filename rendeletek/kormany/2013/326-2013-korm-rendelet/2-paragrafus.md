@@ -2,7 +2,7 @@
 
 ## A PEDAGÓGUSOK ELŐMENETELI ÉS ILLETMÉNYRENDSZERE
 
-## 1/B. [^2] A köznevelési intézményben pedagógus-munkakörben foglalkoztatottak fokozatokba történő besorolásához szükséges követelmények
+## 1/B. [^3] A köznevelési intézményben pedagógus-munkakörben foglalkoztatottak fokozatokba történő besorolásához szükséges követelmények
 
 2. § (1) A köznevelési intézményben a pedagógus előmeneteli rendszer hatálya alá tartozó munkakör betöltéséhez előírt végzettséggel és szakképzettséggel, valamint két évnél kevesebb szakmai gyakorlattal rendelkező pedagógust, továbbá a (3) és (4) bekezdés szerinti esetben a pedagógust Gyakornok fokozatba kell besorolni. A gyakornok számára a foglalkoztatási jogviszony létesítésekor, a kinevezésben, munkaszerződésben két év gyakornoki idő kikötése kötelező.
 
@@ -32,4 +32,4 @@ tesz minősítő vizsgát.
 
 (11) A munkáltató a foglalkoztatási jogviszony létesítésekor köteles írásban tájékoztatni a gyakornokot a minősítő vizsga esedékességének időpontjáról. Ha a minősítő vizsga időpontja – különösen a foglalkoztatási jogviszony szünetelése miatt – módosul, erről a gyakornokot írásban tájékoztatni kell.
 
-[^2]: Az 1/B. alcímet (2–5. §-t) a 249/2015. (IX. 8.) Korm. rendelet 2. §-a iktatta be. A II. fejezet eredeti 1. alcímét a 249/2015. (IX. 8.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1/B. alcímet (2–5. §-t) a 249/2015. (IX. 8.) Korm. rendelet 2. §-a iktatta be. A II. fejezet eredeti 1. alcímét a 249/2015. (IX. 8.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
