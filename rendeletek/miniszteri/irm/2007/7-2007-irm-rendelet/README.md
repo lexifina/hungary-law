@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-7-20-1U
 | 2012-01-01 | 2007-7-20-1U.5 | 91/2011. (XII. 30.) NFM rendelet |
 | 2013-07-13 | 2007-7-20-1U.6 | 38/2013. (VII. 12.) NFM rendelet |
 | 2014-03-15 | 2007-7-20-1U.7 | 91/2011. (XII. 30.) NFM rendelet |
+| 2016-01-01 | 2007-7-20-1U.8 | 77/2015. (XII. 30.) NFM rendelet |

@@ -1,4 +1,4 @@
-## 23. §[^22] Amennyiben Magyarország által a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben vállalt, illetve az Euratom Szerződésben és az Euratom rendeletben előírt kötelezettségek maradéktalan teljesítése szükségessé teszi, a nukleáris és radioaktív anyagok hatósága a nukleáris anyaggal rendelkező, illetve adatszolgáltatásra kötelezett szervezeteket a 14–22. § szerinti jelentéseken túlmenően eseti adat-, illetve információszolgáltatásra és jelentéstételre is kötelezheti.
+## 23. §[^25] Amennyiben Magyarország által a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben vállalt, illetve az Euratom Szerződésben és az Euratom rendeletben előírt kötelezettségek maradéktalan teljesítése szükségessé teszi, a nukleáris és radioaktív anyagok hatósága a nukleáris anyaggal rendelkező, illetve adatszolgáltatásra kötelezett szervezeteket a 14–22. § szerinti jelentéseken túlmenően eseti adat-, illetve információszolgáltatásra és jelentéstételre is kötelezheti.
 
 24. § (1) Az a nukleáris anyaggal rendelkező szervezet, amely az Euratom rendelet 19. cikke alapján az Euratom rendelet 10–18. cikke bármelyike alól az Európai Bizottságtól átmeneti mentességet kapott, erről, illetve az átmeneti mentesség megszűnéséről a nukleáris és radioaktív anyagok hatóságát haladéktalanul írásban kell, hogy tájékoztassa. A tájékoztatáshoz mellékelni kell az átmeneti mentességet, illetve annak megszűnését igazoló dokumentumok másolatát.
 
@@ -8,4 +8,4 @@
 
 (4) A nemzetközi ellenőrzés alól mentesített nukleáris anyagról a nukleáris anyaggal rendelkező szervezet az e rendelet 2. melléklet 6. sz. adatlapját állítja ki és küldi meg a nukleáris és radioaktív anyagok hatóságának minden év február 15-éig.
 
-[^22]: A 23. § a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
+[^25]: A 23. § a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.

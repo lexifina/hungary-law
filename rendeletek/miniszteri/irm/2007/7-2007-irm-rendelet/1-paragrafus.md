@@ -6,9 +6,9 @@
 
 1. § (1) A rendelet hatálya kiterjed
 
-a)[^1] valamennyi természetes vagy jogi személyre, amely Magyarország területén, illetve joghatósága alatt vagy ellenőrzése mellett nukleáris anyagot birtokol, illetve azzal kapcsolatos bármely békés célú tevékenységet folytat (a továbbiakban: nukleáris anyaggal rendelkező szervezet);
+a)[^1] valamennyi természetes vagy jogi személyre, amely Magyarország területén, illetve joghatósága alatt vagy ellenőrzése mellett nukleáris anyagot birtokol, illetve azzal kapcsolatos bármely békés célú tevékenységet folytat beleértve a nukleáris anyagok gyártására, szétválasztására, újrafeldolgozására, tárolására vagy egyéb felhasználására szolgáló létesítmény vagy létesítményen kívüli helyszín létesítését (a továbbiakban: nukleáris anyaggal rendelkező szervezet);
 
-b)[^2] valamennyi természetes vagy jogi személyre, amely Magyarország területén, illetve joghatósága alatt vagy ellenőrzése mellett a nukleáris üzemanyagciklussal összefüggő bármilyen tevékenységet folytat (a továbbiakban: adatszolgáltatásra kötelezett szervezet);
+b)[^2] valamennyi természetes vagy jogi személyre, valamint jogi személyiség nélküli gazdasági társaságra, amely Magyarország területén, illetve joghatósága alatt vagy ellenőrzése mellett a nukleáris üzemanyagciklussal összefüggő bármilyen tevékenységet folytat (a továbbiakban: adatszolgáltatásra kötelezett szervezet);
 
 c) minden békés célú nukleáris tevékenységben alkalmazott nukleáris anyagra;
 
@@ -20,5 +20,5 @@ a) az ország területén átszállított, továbbá a magyar tulajdonban lévő
 
 b) a közúti, vasúti, vízi és légi fuvarozást végző egyéni vállalkozókra és gazdálkodó szervezetekre a nukleáris anyagok szállítása vonatkozásában.
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja, a 13/2014. (III. 14.) NFM rendelet 1. §-a szerint módosított szöveg.
-[^2]: Az 1. § (1) bekezdés b) pontja a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja, a 13/2014. (III. 14.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés a) pontja a 77/2015. (XII. 30.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 77/2015. (XII. 30.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.

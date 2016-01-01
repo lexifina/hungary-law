@@ -1,3 +1,10 @@
-## 30. §[^24] Az e rendeletben foglalt kötelezettségek, valamint a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben Magyarország által vállalt, illetve az Euratom Szerződésben és az Euratom rendeletben előírt kötelezettségek teljesítését a nukleáris és radioaktív anyagok hatósága jogosult a nukleáris anyaggal rendelkező, illetve az adatszolgáltatásra kötelezett szervezetnél, valamint a telephely bármely részén ellenőrizni.
+## 30. §[^31] Az e rendeletben foglalt kötelezettségek, valamint a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben Magyarország által vállalt, illetve az Euratom Szerződésben és az Euratom rendeletben előírt kötelezettségek teljesítését a nukleáris és radioaktív anyagok hatósága jogosult a nukleáris anyaggal rendelkező, illetve az adatszolgáltatásra kötelezett szervezetnél, valamint a telephely bármely részén ellenőrizni.
 
-[^24]: A 30. § a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
+## 31. §[^32] A nukleáris és radioaktív anyagok hatósága által végzett helyszíni ellenőrzések célja
+
+a) annak megállapítása, hogy a jelentéstételi kötelezettség teljesítése során a nukleáris és radioaktív anyagok hatóságához benyújtott információk megfelelnek-e a valós helyzetnek, valamint
+
+b) a szervezet minden nukleáris biztosítékokat érintő folyamatainak és tevékenységének vizsgálata az érvényes hazai és nemzetközi jogi szabályozások és ajánlások alapján.
+
+[^31]: A 30. § a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
+[^32]: A 31. § a 77/2015. (XII. 30.) NFM rendelet 1. § (9) bekezdésével megállapított szöveg.

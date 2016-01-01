@@ -14,17 +14,11 @@
 
 (7)[^11] A nukleáris anyagokról évente, a nukleáris és radioaktív anyagok hatósága által meghatározott időpontban fizikai leltárt kell felvenni. A leltár felvétel dátumáról a nukleáris és radioaktív anyagok hatósága 15 nappal a leltárfelvételt megelőzően írásban értesíti a nukleáris anyaggal rendelkező szervezetet.
 
-(8)[^12] A készletváltozásokról legkésőbb a változást követő hónap 10. napjáig készletváltozási jelentést, a fizikai leltár eredményéről a leltár felvételét követő 30 napon belül leltár, illetve anyagmérleg-jelentést kell küldeni a nukleáris és radioaktív anyagok hatósága részére.
-
-a) A jelentésekhez csatoltan meg kell küldeni az azok elkészítéséhez használt dokumentumok másolatát;
-
-b) a készletváltozási jelentéshez a Biztosítéki Egyezmény szerinti magyarázó megjegyzést kell fűzni;
-
-c) amennyiben az anyagmérleg-jelentés leltárkülönbözetet mutat ki, meg kell határozni annak okát, és az eltérésről jelentést kell tenni a nukleáris és radioaktív anyagok hatóságának.
+(8)[^12] A készletváltozásokról legkésőbb a változást követő hónap 8. napjáig készletváltozási jelentést, a fizikai leltár eredményéről a leltár felvételét követő 15 munkanapon belül leltár- és anyagmérleg-jelentést kell küldeni a nukleáris és radioaktív anyagok hatósága részére.
 
 (9) A nukleáris és radioaktív anyagok hatósága eseti, különleges jelentés megküldésére is kötelezheti a nukleáris anyaggal rendelkező szervezetet.
 
 [^9]: Az 5. § (2) bekezdése a 40/2010. (XII. 31.) NFM rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^10]: Az 5. § (6) bekezdése a 40/2010. (XII. 31.) NFM rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^11]: Az 5. § (7) bekezdése a 40/2010. (XII. 31.) NFM rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^12]: Az 5. § (8) bekezdése a 40/2010. (XII. 31.) NFM rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^12]: Az 5. § (8) bekezdése a 77/2015. (XII. 30.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.

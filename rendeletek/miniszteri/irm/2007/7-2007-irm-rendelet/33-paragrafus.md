@@ -2,9 +2,9 @@
 
 ## Nemzetközi helyszíni ellenőrzés
 
-33. § (1)[^25] A Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben Magyarország által vállalt kötelezettségek teljesítésének igazolására a Nemzetközi Atomenergia Ügynökség ellenőrei jogosultak a nukleáris anyaggal rendelkező, illetve az adatszolgáltatásra kötelezett szervezetnél, valamint a telephely bármely részén helyszíni ellenőrzést tartani.
+33. § (1)[^33] A Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben Magyarország által vállalt kötelezettségek teljesítésének igazolására a Nemzetközi Atomenergia Ügynökség ellenőrei jogosultak a nukleáris anyaggal rendelkező, illetve az adatszolgáltatásra kötelezett szervezetnél, valamint a telephely bármely részén helyszíni ellenőrzést tartani.
 
-(2)[^26] Az Euratom Szerződésben és az Euratom rendeletben előírt, valamint a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben a nukleáris anyagok vonatkozásában Magyarország által vállalt kötelezettségek teljesítésének igazolására az Európai Bizottság ellenőrei jogosultak a nukleáris anyaggal rendelkező szervezetnél helyszíni ellenőrzést tartani.
+(2)[^34] Az Euratom Szerződésben és az Euratom rendeletben előírt, valamint a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben a nukleáris anyagok vonatkozásában Magyarország által vállalt kötelezettségek teljesítésének igazolására az Európai Bizottság ellenőrei jogosultak a nukleáris anyaggal rendelkező szervezetnél helyszíni ellenőrzést tartani.
 
 (3) Az (1) és (2) bekezdés szerinti nemzetközi helyszíni ellenőrzések terjedelmét és szabályait az Euratom Szerződés 77–85. cikke, a Biztosítéki Egyezmény 48., valamint 70–84. cikke, továbbá a Kiegészítő Jegyzőkönyv 4–9. cikke tartalmazza.
 
@@ -18,5 +18,5 @@ b) amennyiben a nemzetközi ellenőrzést a Nemzetközi Atomenergia Ügynökség
 
 (6) A nemzetközi ellenőrzésről jegyzőkönyvet kell felvenni. A jegyzőkönyvnek tartalmaznia kell az ellenőrzés helyét és időpontját, az ellenőrzésen részt vevők nevét, az ellenőrzési tevékenység leírását és eredményét, az észlelt hiányosságokat és az azok megszüntetésére tett intézkedéseket. Az ellenőrzési jegyzőkönyvet az ellenőrzött szervezet üzemeltetési feljegyzései részének kell tekinteni. Az ellenőrzési jegyzőkönyvek másolatát nukleáris és radioaktív anyagok hatósága részére haladéktalanul meg kell küldeni.
 
-[^25]: A 33. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
-[^26]: A 33. § (2) bekezdése a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
+[^33]: A 33. § (1) bekezdése a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
+[^34]: A 33. § (2) bekezdése a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
