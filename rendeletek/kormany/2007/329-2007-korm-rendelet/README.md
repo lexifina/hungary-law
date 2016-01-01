@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2015-07-01 | 2007-329-20-22.30 | 157/2015. (VI. 25.) Korm. rendelet |
 | 2015-07-02 | 2007-329-20-22.31 | 157/2015. (VI. 25.) Korm. rendelet |
 | 2015-08-01 | 2007-329-20-22.32 | 157/2015. (VI. 25.) Korm. rendelet |
+| 2016-01-01 | 2007-329-20-22.33 | 273/2010. (XII. 9.) Korm. rendelet |

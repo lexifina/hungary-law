@@ -50,7 +50,7 @@ t)[^58] a titkos információgyűjtésre feljogosított bűnüldöző szervek fe
 
 u)[^59] ellátja a büntetőeljárásról szóló törvényben meghatározott vagyon-visszaszerzési hatósági feladatokat, ennek keretében feladataival összefüggésben titkos információgyűjtő tevékenységet végez,
 
-v)[^60] a p)–r) pontban meghatározott feladataival kapcsolatban végzi a körözési eljárással összefüggő feladatokat.
+v)[^60] a p)–r) pontban meghatározott feladataival kapcsolatban végrehajtja a körözési eljárással összefüggő feladatokat, illetve a jogszabályban meghatározottak szerint körözési tevékenységet végez.
 
 [^48]: A 9. § nyitó szövegrésze a 227/2012. (VIII. 23.) Korm. rendelet 4. §-a, a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^49]: A 9. § b) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 83/2015. (III. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
@@ -64,4 +64,4 @@ v)[^60] a p)–r) pontban meghatározott feladataival kapcsolatban végzi a kör
 [^57]: A 9. § s) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^58]: A 9. § t) pontját a 416/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be, szövege a 286/2013. (VII. 26.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^59]: A 9. § u) pontját a 286/2013. (VII. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^60]: A 9. § v) pontját a 447/2013. (XI. 28.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^60]: A 9. § v) pontját a 447/2013. (XI. 28.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 443/2015. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
