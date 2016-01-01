@@ -22,6 +22,6 @@ c) a kérelemben megjelölt tevékenység irányítására kijelölt felelős ve
 
 d) megfelel az e törvény vagy a felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
 
-(5)
+(5) Az engedélyezési eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-(6) Az engedélyezési eljárás ügyintézési határideje hatvan nap.
+(6) Az engedélyezési eljárás ügyintézési határideje negyvenöt nap.
