@@ -1,3 +1,3 @@
-## Jogutódlás[^26]
+## Jogutódlás[^28]
 
-[^26]: A 33/A. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 577. § (3) bekezdése iktatta be.
+[^28]: A 33/A. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 577. § (3) bekezdése iktatta be.

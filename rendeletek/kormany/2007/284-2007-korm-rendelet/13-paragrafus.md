@@ -12,6 +12,6 @@ b) építkezés közben előforduló, előre nem tervezhető, határérték fele
 
 (3) A környezetvédelmi hatóság a zajterhelési határérték alóli felmentésről szóló határozatában az építőipari tevékenység napi, heti időbeosztására és a munkavégzés teljesítményére vonatkozóan is előírhat korlátozást.
 
-(4)[^8] Az e § szerinti eljárás ügyintézési határideje 30 nap.
+(4)[^10]
 
-[^8]: A 13. § (4) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 5. pontja hatályon kívül helyezte, újonnan a 70/2015. (III. 30.) Korm. rendelet 108. § (1) bekezdése iktatta be.
+[^10]: A 13. § (4) bekezdését újonnan a 441/2015. (XII. 28.) Korm. rendelet 94. §-a hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

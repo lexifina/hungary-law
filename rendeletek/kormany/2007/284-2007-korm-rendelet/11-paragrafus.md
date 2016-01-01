@@ -12,4 +12,6 @@ b) rezgésterhelés okozója részére előírja a rezgésterhelési határért�
 
 (5) A környezeti zajforrást üzemeltető (a környezeti zajforrásnak minősülő tevékenységet végző) a környezeti zajforrás területén és hatásterületén bekövetkező minden olyan változást, amely határérték-túllépést okozhat, 30 napon belül, külön jogszabályban foglalt eljárás szerint (bejelentő lapon) köteles bejelenteni a környezetvédelmi hatóságnak. A környezetvédelmi hatóság a változásjelentés alapján, amennyiben szükséges, a meglévő határozatot módosítja vagy visszavonja, illetve új kibocsátási határértéket állapít meg.
 
-(6) Az üzemeltető tevékenységének megszüntetését, az új üzemeltető tevékenységének megkezdését köteles bejelenteni a környezetvédelmi hatóságnak a változást követő 30 napon belül.
+(6)[^9] Amennyiben környezeti zajt előidéző üzemi vagy szabadidős zajforrásnak minősülő tevékenység végzése bejelentés- vagy engedélyköteles, a hatóság, amely a bejelentéssel kapcsolatosan vagy az engedély kiadására hatáskörrel és illetékességgel rendelkezik, a tevékenység megszűnéséről történő értesülést követően haladéktalanul értesíti a környezetvédelmi hatóságot.
+
+[^9]: A 11. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 93. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

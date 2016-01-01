@@ -16,4 +16,7 @@ b) a tervezett környezeti zajforrás hatásterületének határvonala a számí
 
 (5) Ha a kérelmező a zajkibocsátási határérték megállapítására vonatkozó – az (1) bekezdés szerinti – kérelmét visszavonja, a környezetvédelmi hatóság a határérték megállapítására vonatkozó eljárást hivatalból folytatja, kivéve, ha a kérelmező a létesítésre irányuló kérelmét is visszavonta.
 
+(6)[^8] A kereskedelemről szóló törvény szerinti vendéglátás folytatása esetén az eljárást – amennyiben a kereskedelmi hatósági, valamint a zaj- és rezgésvédelmi ügyben nem ugyanaz a hatóság jár el, a kereskedelmi hatóság értesítése alapján – a környezetvédelmi hatóság hivatalból indítja meg, és az üzemeltetőt az eljárás lefolytatásához szükséges adatok szolgáltatására kötelezheti.
+
 [^7]: A 10. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 577. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 10. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 92. §-a iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

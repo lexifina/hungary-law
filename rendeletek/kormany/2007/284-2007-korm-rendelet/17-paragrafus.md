@@ -1,8 +1,8 @@
 ## Intézkedési terv
 
-17. § (1)[^13] Ha a környezetvédelmi hatóság azt állapítja meg, hogy a szabadidős vagy üzemi zajforrás által okozott zaj a zajkibocsátási határértéket túllépi, akkor a zajforrás üzemeltetőjét intézkedési terv benyújtására kötelezi.
+17. § (1)[^15] Ha a környezetvédelmi hatóság azt állapítja meg, hogy a szabadidős vagy üzemi zajforrás által okozott zaj a zajkibocsátási határértéket túllépi, akkor a zajforrás üzemeltetőjét intézkedési terv benyújtására kötelezi.
 
-(2)[^14]
+(2)[^16]
 
 (3) Ha a környezetvédelmi hatóság az intézkedési tervet jóváhagyja, az üzemeltetőt határidő kitűzésével a benne szereplő intézkedések megvalósítására kötelezi.
 
@@ -16,5 +16,5 @@ b) azok várható eredményét,
 
 c) az intézkedések végrehajtásának tervezett időpontját.
 
-[^13]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § i) pontját.
-[^14]: A 17. § (2) bekezdését a 210/2009. (IX. 29.) Korm. rendelet 31. § (1) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 29. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^15]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § i) pontját.
+[^16]: A 17. § (2) bekezdését a 210/2009. (IX. 29.) Korm. rendelet 31. § (1) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 29. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
