@@ -1,4 +1,4 @@
-30. § (1)[^26] A fejlesztési feladatok lebonyolítása során a kedvezményezettek a tapasztalt szabálytalanságról, valamint az Európai Közösségek pénzügyi érdekeit hátrányosan érintő egyéb jogellenes tevékenységről, vagy azok alapos gyanújáról haladéktalanul kötelesek tájékoztatni a végrehajtó hatóság vezetőjét és a Nemzeti Adó- és Vámhivatal Központi Hivatala OLAF Koordinációs Irodáját (a továbbiakban: OLAF Koordinációs Iroda), továbbá – a végrehajtó hatóság szabálytalanságról kialakított álláspontjának megfelelően – intézkednek
+30. § (1)[^26] A fejlesztési feladatok lebonyolítása során a kedvezményezettek a tapasztalt szabálytalanságról, valamint az Európai Közösségek pénzügyi érdekeit hátrányosan érintő egyéb jogellenes tevékenységről, vagy azok alapos gyanújáról haladéktalanul kötelesek tájékoztatni a végrehajtó hatóság vezetőjét és a Nemzeti Adó- és Vámhivatal Központi Irányítása OLAF Koordinációs Irodáját (a továbbiakban: OLAF Koordinációs Iroda), továbbá – a végrehajtó hatóság szabálytalanságról kialakított álláspontjának megfelelően – intézkednek
 
 a) a fejlesztési feladatok előírásai szerinti, illetve a szabályszerű lebonyolítás érdekében szükséges kiigazításokról,
 
@@ -16,5 +16,5 @@ c) a szabálytalansággal érintett összegnek a szabálytalanság felfedezésé
 
 (6) A kedvezményezett vezetője negyedévente tájékoztatja a végrehajtó hatóság vezetőjét a behajtott összegek újrafelhasználásának módjáról.
 
-[^26]: A 30. § (1) bekezdés nyitó szövegrésze a 273/2010. (XII. 9.) Korm. rendelet 107. § (1) bekezdésével megállapított szöveg.
+[^26]: A 30. § (1) bekezdés nyitó szövegrésze a 273/2010. (XII. 9.) Korm. rendelet 107. § (1) bekezdésével megállapított, nyitó szövegrésze a 467/2015. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^27]: A 30. § (2) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 107. § (2) bekezdésével megállapított szöveg.
