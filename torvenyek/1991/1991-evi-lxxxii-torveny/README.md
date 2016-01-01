@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-82-00-00
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 1991-82-00-00.32 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1991-82-00-00.33 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 1991-82-00-00.34 |
+| 2016-01-01 | 2015. évi CLXXXVII. törvény | 1991-82-00-00.35 |

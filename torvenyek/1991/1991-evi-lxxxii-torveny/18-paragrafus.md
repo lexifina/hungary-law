@@ -8,7 +8,7 @@
 
 1. gépjármű: az olyan szállító vagy vontató eszköz, amelyet beépített erőgép hajt, használata közben közutat vesz igénybe és rendszámtáblával ellátott,
 
-2. pótkocsi: a gépjármű által vontatható teher- és sátras utánfutó, félpótkocsi, lakópótkocsi, műhelykocsi vagy hasonló jellegű más nem önjáró jármű, amelyet rendszámtáblával láttak el,
+2. pótkocsi: a gépjármű által vontatható teher- és sátras utánfutó, lakópótkocsi, műhelykocsi vagy hasonló jellegű más nem önjáró jármű, amelyet rendszámtáblával láttak el,
 
 3. személygépkocsi: személyszállítás céljára készült olyan gépkocsi, amelyben – a vezető ülését is beleértve – legfeljebb kilenc állandó ülőhely van, ide nem értve az e törvény szerinti autóbuszt, valamint motorkerékpárt,
 
@@ -22,7 +22,7 @@
 
 8. külföldön nyilvántartott az a gépjármű, amelynek forgalmi engedélyét és hatósági jelzését (rendszámát) nem magyar hatóság adta ki, kizárólag külföldön nyilvántartott gépjárművekből álló gépjárműszerelvény esetén az adó megállapítása a vontató honossága szerint történik, feltéve, ha nemzetközi egyezmény e kérdésben másként nem rendelkezik,
 
-9.
+9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2015. július 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül,
 
 10. költségvetési szerv az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 
