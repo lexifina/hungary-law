@@ -8,7 +8,7 @@
 
 (3) A 16. § (1) bekezdése 2014. március 1-jén lép hatályba.
 
-(4)[^14]
+(4)[^17]
 
 (5) Amennyiben jogszabály – a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet kivételével – kormányablakról rendelkezik, ott ezen rendelet szerinti kormányablakot kell érteni.
 
@@ -16,7 +16,7 @@
 
 (7) E rendelet 27. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(8)[^15]
+(8)[^18]
 
-[^14]: A 15. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 240. § (8) bekezdése hatályon kívül helyezte.
-[^15]: A 15. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 15. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 240. § (8) bekezdése hatályon kívül helyezte.
+[^18]: A 15. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
