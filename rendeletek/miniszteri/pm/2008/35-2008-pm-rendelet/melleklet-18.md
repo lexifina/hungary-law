@@ -82,4 +82,4 @@
 
 18. melléklet a 35/2008. (XII. 31.) PM rendelethez[^23]
 
-[^23]: A 18. mellékletet a 21/2010. (XII. 31.) NGM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 77/2013. (XII. 31.) NGM rendelet 11. § e) pontja.
+[^23]: A 18. mellékletet újonnan a 48/2015. (XII. 30.) NGM rendelet 6. § (3) bekezdése iktatta be.

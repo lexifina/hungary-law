@@ -56,4 +56,4 @@
 
 11. melléklet a 35/2008. (XII. 31.) PM rendelethez[^17]
 
-[^17]: A 11. mellékletet az 54/2011. (XII. 29.) NGM rendelet 34. § 1. pontja hatályon kívül helyezte, újonnan az 54/2014. (XII. 31.) NGM rendelet 17. § (1) bekezdése iktatta be.
+[^17]: A 11. mellékletet az 54/2011. (XII. 29.) NGM rendelet 34. § 1. pontja hatályon kívül helyezte, újonnan az 54/2014. (XII. 31.) NGM rendelet 17. § (1) bekezdése iktatta be, szövege a 48/2015. (XII. 30.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
