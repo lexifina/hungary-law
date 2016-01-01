@@ -5,3 +5,7 @@
 64. § (1) A hivatásos állományba történő kinevezéssel, a szolgálati beosztásba való kinevezéssel, a szolgálati beosztás módosításával, a magasabb szolgálati beosztásba helyezéssel, az alacsonyabb beosztásba helyezéssel és a vezetői kinevezéssel egy időben a hivatásos állomány tagját az adott szolgálati beosztás besorolási osztálya és besorolási kategóriája szerint, az elért fizetési fokozata alapján kell besorolni, egyidejűleg a besorolás alapján viselhető rendfokozatát megállapítani.
 
 (2) Az (1) bekezdésben meghatározottakkal egyidejűleg az állományilletékes parancsnok a hivatásos állomány tagjának beosztási illetményét, szolgálati időpótlékát, hivatásos pótlékát, valamint az egyéb pótlékra való jogosultágát is megállapítja.
+
+(3)[^7] A Hszt. 353/A. § (2) bekezdésében foglaltakra tekintettel, ha 2016. január 1. és 2016. december 31. között a hivatásos állomány tagja vonatkozásában a szolgálati időpótlék jogosultsági feltételeinek vagy a magasabb összegű szolgálati időpótlékhoz szükséges feltételeknek a megállapítására kerül sor, a szolgálati időpótlék kifizetése iránt csak a Hszt. 353/A. §-ában foglalt rendelkezések figyelembevételével lehet intézkedni.
+
+[^7]: A 64. § (3) bekezdését a 76/2015. (XII. 22.) BM rendelet 34. §-a iktatta be.

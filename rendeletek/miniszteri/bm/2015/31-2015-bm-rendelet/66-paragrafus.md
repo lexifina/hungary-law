@@ -2,6 +2,9 @@
 
 a) az osztályvezető 2, osztályvezető 1 és főosztályvezető-helyettes 2 besorolási kategóriába tartozó vezető esetében az illetményalap 7-szerese, vagy annál magasabb illetmény besorolású vezetői beosztásban,
 
-b) a főosztályvezető-helyettes 1 és főosztályvezető 2 besorolási kategóriába tartozó vezető esetében az illetményalap 7,5-szerese, vagy annál magasabb illetmény besorolású vezetői beosztásban,
+b)[^9] a főosztályvezető 1, a főosztályvezető-helyettes 1 és főosztályvezető 2 besorolási kategóriába tartozó vezető esetében az illetményalap 7,5-szerese, vagy annál magasabb illetmény besorolású vezetői beosztásban,
 
-c) a főosztályvezető 1, szakirányító 2 és szakirányító 1 besorolási kategóriába tartozó vezető esetében az illetményalap 8-szorosa, vagy annál magasabb illetmény besorolású vezetői beosztásban
+c)[^10] a szakirányító 2 és szakirányító 1 besorolási kategóriába tartozó vezető esetében az illetményalap 8-szorosa, vagy annál magasabb illetmény besorolású vezetői beosztásban
+
+[^9]: A 66. § b) pontja a 76/2015. (XII. 22.) BM rendelet 36. § b) pontja szerint módosított szöveg.
+[^10]: A 66. § c) pontja a 76/2015. (XII. 22.) BM rendelet 37. § b) pontja szerint módosított szöveg.

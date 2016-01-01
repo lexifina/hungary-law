@@ -8,13 +8,13 @@ b) – a rendvédelmi szerv vezetőinek bevonásával előzetesen meghatározott
 
 veti össze, majd az így kapott eredményeket összehasonlítja.
 
-(3) A KSZF a rendelkezésére álló húsz napon belül elvégzi a 2/2013. BM rendelet 28. § (1) bekezdése vagy 39. § (1) bekezdése szerinti felmérést, és a KSZF az így elvégzett felmérés során beszerzett kompetencia-profil adatok felhasználásával alakítja ki az előzetes véleményt, ha
+(3)[^1] A KSZF a rendelkezésére álló húsz napon belül elvégzi a 2/2013. BM rendelet 28. § (1) bekezdése szerinti felmérést, és a KSZF az így elvégzett felmérés során beszerzett kompetencia-profil adatok felhasználásával alakítja ki az előzetes véleményt, ha
 
 a) a vezetői beosztásba kinevezni tervezett személyről a rendészeti vezetővé képző tanfolyam és a rendészeti mestervezetővé képző tanfolyam teljesítésének kötelezettsége alóli mentesítés következtében a KSZF a (2) bekezdés a) pontja szerinti kompetencia-profil adatokkal nem rendelkezik, vagy
 
 b) a KSZF rendelkezésére álló, a (2) bekezdés a) pontja szerinti kompetencia-profil adatok öt évnél régebbiek.
 
-(4) A kinevezésre jogosult vezető a vezetői beosztásba kinevezni tervezett személy beleegyezésével kezdeményezheti, hogy a KSZF a 2/2013. BM rendelet 28. § (1) bekezdése vagy 39. § (1) bekezdése szerinti felmérést ismételten végezze el, ebben az esetben a KSZF az ismételt felmérés során beszerzett kompetencia-profil adatok felhasználásával alakítja ki az előzetes véleményt, a rendelkezésére álló húsz napon belül.
+(4)[^2] A kinevezésre jogosult vezető a vezetői beosztásba kinevezni tervezett személy beleegyezésével kezdeményezheti, hogy a KSZF a 2/2013. BM rendelet 28. § (1) bekezdése szerinti felmérést ismételten végezze el, ebben az esetben a KSZF az ismételt felmérés során beszerzett kompetencia-profil adatok felhasználásával alakítja ki az előzetes véleményt, a rendelkezésére álló húsz napon belül.
 
 (5) A KSZF az előzetes véleményében sorrendet állít fel a vezetői beosztásba kinevezni tervezett személyek között aszerint, hogy az egyes, vezetői beosztásba kinevezni tervezett személyek kompetencia-profilja milyen mértékben illeszkedik az adott vezetői beosztáshoz meghatározott elvárt vezetői kompetenciaprofil-összefüggésekhez.
 
@@ -23,3 +23,6 @@ b) a KSZF rendelkezésére álló, a (2) bekezdés a) pontja szerinti kompetenci
 (7) A miniszter kinevezési hatáskörébe tartozók kinevezésekor az (1)–(6) bekezdés, valamint a 25. § alkalmazásától el lehet tekinteni.
 
 (8) A miniszter hozzájárulásával vezetői beosztásba a 24. § (1) bekezdés c) és e) pontjában foglalt feltételeknek meg nem felelő személy is kinevezhető.
+
+[^1]: A 26. § (3) bekezdés nyitó szövegrésze a 76/2015. (XII. 22.) BM rendelet 37. § a) pontja szerint módosított szöveg.
+[^2]: A 26. § (4) bekezdése a 76/2015. (XII. 22.) BM rendelet 37. § a) pontja szerint módosított szöveg.
