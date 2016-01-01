@@ -1,4 +1,4 @@
-## 6/B. §[^36] Amennyiben az eljárási illetéket az ügyfél az EFER-en keresztül fizeti meg, az elektronikus fizetésre, elszámolásra és ellenőrzésre az elektronikus ügyintézés részletes szabályairól szóló Korm. rendeletben foglaltakat kell alkalmazni.
+## 6/B. §[^36] Az Elektronikus Fizetési és Elszámolási Rendszeren keresztül történő illetékfizetésre az elektronikus ügyintézés részletes szabályairól szóló Korm. rendeletben foglaltakat kell alkalmazni.
 
 ## Az illetékbevételi számlára fizetett összegek
 
@@ -14,12 +14,15 @@
 
 (5)[^41] Ha a fizetési meghagyásos eljárásban előterjesztett fellebbezést a közjegyző elutasítja, az erről szóló végzés egy példányát az állami adóhatóságnak is megküldi. Az állami adóhatóság megkeresi azt a törvényszéket, amelynek számlájára az illetéket meg kellett fizetni; a megkeresésben meg kell jelölni az átutalás közlemény rovatában feltüntetett ügyszámot, a befizető nevét (elnevezését) és lakóhelyét (székhelyét), adóazonosító számát, az illeték-bevételi számla számát, az átutalással megterhelt számla számát, és a terhelés napját. Amennyiben a törvényszék arról tájékoztatja az állami adóhatóságot, hogy a befizetés a megkeresésben foglaltak szerint megtörtént, az állami adóhatóság intézkedik az illeték, vagy meghatározott részének ügyfél részére történő kiutalásáról. Amennyiben a törvényszék tájékoztatása szerint az illetéket nem, vagy nem megfelelő összegben fizették meg, az illeték, vagy meghatározott részének behajtása iránt az állami adóhatóság intézkedik.
 
-(6)[^42] Amennyiben az (1)–(5) bekezdések alapján visszatérítésnek van helye, az állami adóhatóság azt postai átutalás, ha pedig az ügyfél (kérelmező) számlaszáma ismert, akkor banki átutalás útján fizeti vissza.
+(5a)[^42] Ha az egyes elektronikus úton kezdeményezhető eljárásokhoz kapcsolódó, EFER rendszeren keresztül megfizetett eljárási illetékek esetén szükségessé válik az (1) bekezdésben foglalttól eltérő okból az illeték visszatérítése, akkor az eljáró hatóság az eljárás hatósági ügyintézési szakrendszere hatósági felhasználói felületén elektronikus úton lekérdezi az eljárási illeték megfizetés tényét, és a lekérdezés eredményét megküldi a megyei (fővárosi) adó- és vámigazgatóság részére. Ez szolgál az illeték megfizetésének igazolására, valamint annak igazolására, hogy azt más szerv megkeresésére még nem igazolta vissza. Az eljáró hatóság az ügyfél lakóhelye (székhelye) szerint illetékes megyei (fővárosi) adó- és vámigazgatóság részére továbbítja az igazolásokat. A megyei (fővárosi) adó- és vámigazgatóság az említett igazolások alapján jár el az illeték törlése/visszatérítése ügyében.
 
-[^36]: A 6/B. §-t az 52/2011. (XII. 29.) NGM rendelet 2. §-a iktatta be, szövege az 54/2014. (XII. 31.) NGM rendelet 13. § 2. pontja szerint módosított szöveg.
+(6)[^43] Amennyiben az (1)–(5a) bekezdés alapján visszatérítésnek van helye, az állami adóhatóság azt postai átutalás, ha pedig az ügyfél (kérelmező) számlaszáma ismert, akkor banki átutalás útján fizeti vissza.
+
+[^36]: A 6/B. §-t az 52/2011. (XII. 29.) NGM rendelet 2. §-a iktatta be, szövege a 48/2015. (XII. 30.) NGM rendelet 2. §-ával megállapított szöveg.
 [^37]: A 7. § (1) bekezdése a 40/2006. (XII. 25.) PM rendelet 10. § (1) bekezdése, a 17/2009. (IX. 29.) PM rendelet 95. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^38]: A 7. § (2) bekezdése a 40/2006. (XII. 25.) PM rendelet 10. § (1) bekezdése, a 17/2009. (IX. 29.) PM rendelet 95. §-a, a 31/2009. (XII. 18.) PM rendelet 10. § d) pontja, a 26/2010. (XII. 31.) NGM rendelet 3. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^39]: A 7. § (3) bekezdése a 40/2006. (XII. 25.) PM rendelet 10. § (1) bekezdése, a 17/2009. (IX. 29.) PM rendelet 95. §-a, a 26/2010. (XII. 31.) NGM rendelet 3. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^40]: A 7. § (4) bekezdése az 5/2011. (II. 11.) NGM rendelet 3. §-ával megállapított, az 52/2011. (XII. 29.) NGM. rendelet 6. §-a, a 46/2012. (XII. 27.) NGM rendelet 8. §-a szerint módosított szöveg.
 [^41]: A 7. § (5) bekezdését az 5/2011. (II. 11.) NGM rendelet 3. §-a iktatta be, szövege a 46/2012. (XII. 27.) NGM rendelet 5. §.-ával megállapított szöveg.
-[^42]: A 7. § (6) bekezdését a 46/2012. (XII. 27.) NGM rendelet 5. §-a iktatta be.
+[^42]: A 7. § (5a) bekezdését a 47/2015. (XII. 30.) NGM rendelet 4. §-a iktatta be.
+[^43]: A 7. § (6) bekezdését a 46/2012. (XII. 27.) NGM rendelet 5. §-a iktatta be, szövege a 47/2015. (XII. 30.) NGM rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.

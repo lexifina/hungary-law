@@ -4,7 +4,7 @@
 
 a)[^1] a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalára (a továbbiakban: járási hivatal), illetve a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: Központi Hivatal) által működtetett Központi Okmányirodára (a továbbiakban: okmányiroda),
 
-b)[^2] a Nemzeti Adó- és Vámhivatal Központi Hivatalára, az Informatikai Intézetre, az Integrált Informatikai és Telekommunikációs Intézetre, az alsó és középfokú adóztatási és vámszerveire, az önkormányzat jegyzőjére (a továbbiakban: adóhatóság),
+b)[^2] Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerveire, az önkormányzat jegyzőjére (a továbbiakban: adóhatóság),
 
 c) a Magyar Államkincstárra (a továbbiakban: Kincstár),
 
@@ -22,7 +22,7 @@ h)[^6] továbbá az Elektronikus Fizetési és Elszámolási Rendszerhez csatlak
 
 (2) E rendeletet
 
-a)[^7] az okmányirodánál, járási hivatalnál kezdeményezett első fokú, illetékköteles eljárások,
+a)[^7] az okmányirodánál, járási hivatalnál kezdeményezett illetékköteles eljárások,
 
 b) az első fokú adóhatóságnál kezdeményezett olyan első fokú illetékköteles eljárások, amelyeknél az illetéket nem illetékbélyegben kell leróni,
 
@@ -35,12 +35,12 @@ e)[^10] a közjegyző által a fizetési meghagyásos eljárásban, és a fizet�
 f)[^11] továbbá az Elektronikus Fizetési és Elszámolási Rendszer igénybevétele mellett kezdeményezett illetékköteles eljárások
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 77/2013. (XII. 31.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés b) pontja az 5/2011. (II. 11.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja az 5/2011. (II. 11.) NGM rendelet 1. § (1) bekezdésével megállapított, a 47/2015. (XII. 30.) NGM rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg. [Az 1. § (1) bekezdés b) pontjának a 48/2015. (XII. 30.) NGM rendelet 3. §-a szerint elrendelt módosítása, amely szerint „Nemzeti Adó- és Vámhivatal Központi Hivatalára, az Informatikai Intézetre, az Integrált Informatikai és Telekommunikációs Intézetre, az alsó és középfokú adóztatási és vámszerveire” szövegrész helyébe a „Nemzeti Adó- és Vámhivatalra” szöveg lép, nem vezethető át.]
 [^3]: Az 1. § (1) bekezdés d) pontja az 54/2014. (XII. 31.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés f) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege az 52/2011. (XII. 29.) NGM rendelet 6. §-a szerint módosított szöveg.
 [^5]: Az 1. § (1) bekezdés g) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege a 46/2012. (XII. 27.) NGM rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés h) pontját a 52/2011. (XII. 29.) NGM rendelet 1. § (1) bekezdése iktatta be.
-[^7]: Az 1. § (2) bekezdés a) pontja a 77/2013. (XII. 31.) NGM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (2) bekezdés a) pontja a 77/2013. (XII. 31.) NGM rendelet 3. § (2) bekezdés a) pontja, a 48/2015. (XII. 30.) NGM rendelet 4. §-a szerint módosított szöveg.
 [^8]: Az 1. § (2) bekezdés c) pontja a 17/2009. (IX. 29.) PM rendelet 39. §-ával megállapított szöveg. E módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^9]: Az 1. § (2) bekezdés d) pontja az 54/2014. (XII. 31.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^10]: Az 1. § (2) bekezdés e) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (3) bekezdése iktatta be, szövege a 46/2012. (XII. 27.) NGM rendelet 2. §-ával megállapított szöveg.
