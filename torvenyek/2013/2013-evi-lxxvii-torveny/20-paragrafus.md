@@ -12,7 +12,9 @@ b) felnőttképzési tevékenysége – a (2) bekezdésben foglalt eltéréssel 
 
 (3) A vallási közösség által fenntartott intézmény e törvény hatálya alá tartozó felnőttképzési tevékenységének ellenőrzése során a hittudományokra és kizárólag a hitélet gyakorlására vonatkozó tárgyak, ismeretek tartalma nem vizsgálható.
 
-(4) A hatóság a felnőttképzési tevékenység folytatására vonatkozó jogszabályi előírások megtartását felnőttképzési szakértő és felnőttképzési programszakértő bevonásával ellenőrzi, és eljár ezek megsértése esetén. A hatóság az ellenőrzést szükség szerint, de kétévenként legalább egy alkalommal, az engedély megszerzését megelőzően képzési tevékenységet nem folytató intézmények esetén az engedély első két évében évente legalább egy alkalommal – az 1. § (2) bekezdés a)–b) pontja szerinti képzések esetén felnőttképzési programszakértő bevonásával – köteles lefolytatni. A hatóság ellenőrzési tevékenysége során képzési tevékenységet nem folytató intézménynek tekinti azokat az intézményeket, amelyek az engedély megszerzését megelőző két évben az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást (a továbbiakban: OSAP) nem teljesítettek.
+(4) A hatóság a felnőttképzési tevékenység folytatására vonatkozó jogszabályi előírások megtartását – szakértői bizottság bevonásával – ellenőrzi, és eljár ezek megsértése esetén. A hatóság az ellenőrzést szükség szerint, de kétévenként legalább egy alkalommal, az engedély megszerzését megelőzően képzési tevékenységet nem folytató intézmények esetén az engedély első két évében évente legalább egy alkalommal köteles lefolytatni. A hatóság ellenőrzési tevékenysége során képzési tevékenységet nem folytató intézménynek tekinti azokat az intézményeket, amelyek az engedély megszerzését megelőző két évben az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást (a továbbiakban: OSAP) nem teljesítettek.
+
+(4a) A (4) bekezdés szerinti szakértői bizottság tagjait a hatóság által vezetett felnőttképzési szakértői és a kamara által vezetett felnőttképzési programszakértői nyilvántartásban szereplő szakértők közül rendeli ki a hatóság, azzal, hogy az 1. § (2) bekezdés a) és b) pontja szerinti képzések ellenőrzése során felnőttképzési programszakértő, az 1. § (2) bekezdés c) pontjában meghatározott képzések ellenőrzése során felnőttképzési szakértő rendelhető ki. Ha a kamara által vezetett felnőttképzési programszakértői nyilvántartásban nincs olyan szakértő, aki a felnőttképzési szakterülete szerint az engedélyezési eljárás során kirendelhető, vagy a kirendelhető szakértők tekintetében miniszteri rendeletben meghatározott összeférhetetlenség áll fenn, a hatóság a szakértői bizottság tagjait kizárólag a felnőttképzési szakértői nyilvántartásban szereplő szakértők közül rendeli ki.
 
 (5) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany
 
@@ -44,9 +46,9 @@ b) nem rendelkezik a 12. § (1) bekezdésében meghatározott tartalmú képzés
 
 c) felnőttképzési tevékenységét nem a képzési programnak megfelelően folytatja,
 
-d) a 17. §-ban foglalt tájékoztatási kötelezettségeinek nem tesz eleget,
+d) a 17. §-ban és a 17/A. §-ban foglalt tájékoztatási kötelezettségeinek nem tesz eleget,
 
-e) a 15. §-ban foglalt adatszolgáltatási kötelezettségét nem teljesíti,
+e) a 15. § (1) bekezdés b)–e) pontjában és (1a)–(3) bekezdésében foglalt adatszolgáltatási kötelezettségét nem teljesíti,
 
 f) a képzést – a hatóság tájékoztatásának elmulasztása mellett – nem valósítja meg, vagy a képzés megvalósítása a 15. § (1) bekezdés c) pont cb) alpontja szerinti ütemezéshez képest húsz százaléknál nagyobb mértékű elmaradást mutat,
 

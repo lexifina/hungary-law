@@ -1,10 +1,10 @@
-19. § (1) A felnőttképzési nyelvi programkövetelmények nyilvántartásának célja e törvény 1. § (2) bekezdés c) pontja szerinti, általános nyelvi és támogatott egyéb nyelvi képzésekre vonatkozó egységes követelményrendszer kialakítása.
+19. § (1) A felnőttképzési nyelvi programkövetelmények nyilvántartásának célja e törvény 1. § (2) bekezdés c) pontja szerinti nyelvi képzésekre vonatkozó egységes követelményrendszer kialakítása.
 
 (2) A felnőttképzési nyelvi programkövetelmények elektronikus nyilvántartását a hatóság vezeti. A hatóság nyilvántartásba vételre irányuló eljárása a felnőttképzési nyelvi programkövetelmények (3) bekezdésben meghatározott tartalmi elemeinek vizsgálatára irányul.
 
 (3) Felnőttképzési nyelvi programkövetelmények nyilvántartásba vételére vonatkozó javaslatot bármely jogi személy, egyéni cég, egyéni vállalkozó benyújthat – kizárólag elektronikus formában – a nyilvántartást vezető szervhez. A javaslatnak tartalmaznia kell
 
-a) a nyelv, valamint a nyelvi programkövetelménynek a megszerezhető nyelvi képzés szintjének, fajtájának, típusának megfelelő megnevezését,
+a) a nyelv, valamint a nyelvi programkövetelménynek a megszerezhető nyelvi képzés szintjének, fajtájának, típusának, formájának megfelelő megnevezését,
 
 b) a nyelvi képzés szintjének megfelelően a képzés megkezdéséhez szükséges bemeneti kompetenciákat,
 

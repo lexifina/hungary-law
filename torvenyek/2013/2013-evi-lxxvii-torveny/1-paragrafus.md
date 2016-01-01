@@ -38,7 +38,7 @@ a) a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: s
 
 b) az a) pont hatálya alá nem tartozó, támogatott egyéb szakmai képzés,
 
-c) általános nyelvi képzés és támogatott egyéb nyelvi képzés,
+c) támogatott általános nyelvi képzés, támogatott egyéb nyelvi képzés és támogatott kombinált nyelvi képzés,
 
 d) az a)–c) pont hatálya alá nem tartozó, támogatott egyéb képzés
 

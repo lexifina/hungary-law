@@ -18,7 +18,7 @@ b) az engedéllyel rendelkező képző intézmény nyilvántartásba-vételi sz�
 
 c) a felnőttképzési tevékenység 1. § (2) bekezdése szerinti besorolását, a képzés pontos megnevezését
 
-ca) OKJ szerinti szakképesítés megszerzésére felkészítő képzés esetén a szakképesítés azonosítási számával,
+ca) OKJ szerinti szakképesítés megszerzésére felkészítő képzés esetén a szakképesítés azonosító számával, részszakképesítést is tartalmazó szakképesítés esetén a részszakképesítés azonosító számával,
 
 cb) nyelvi képzés esetén a nyelv megjelölésével,
 

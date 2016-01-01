@@ -4,9 +4,9 @@
 
 ## 5. Az engedély feltételei
 
-10. § (1) Engedély – a (2) bekezdésben foglalt eltéréssel – annak az 1. § (1) bekezdés c) pontjában meghatározott jogalanynak adható, amely
+10. § (1) Engedély – a (2) bekezdésben foglalt eltéréssel – annak az 1. § (1) bekezdés c) pontjában meghatározott jogalanynak adható,
 
-a) rendelkezik
+a) amely rendelkezik
 
 aa) a 12. §-ban meghatározott tartalmú, a kérelmében szereplő képzésekhez kidolgozott és felnőttképzési szakértő vagy felnőttképzési programszakértő által előzetesen minősített képzési programmal,
 
@@ -14,13 +14,15 @@ ab) a kérelmében szereplő képzés megvalósításához szükséges, valamint
 
 ac) a miniszter rendeletében meghatározott minőségbiztosítási keretrendszernek megfelelő minőségbiztosítási rendszerrel,
 
-ad) felnőttképzési információs rendszer működtetéséhez szükséges feltételekkel,
+ad) felnőttképzési információs rendszer működtetéséhez szükséges feltételekkel, és
 
 ae) ügyfélszolgálati és panaszkezelési rendszer működtetéséhez szükséges feltételekkel,
 
-b) tartalmilag ellenőrizhető, számszerűsíthető minőségcélokat határoz meg,
+b) amely tartalmilag ellenőrizhető, számszerűsíthető minőségcélokat határoz meg,
 
-c) igazolja, hogy kormányrendeletben meghatározott vagyoni biztosítékkal rendelkezik.
+c) amely igazolja, hogy kormányrendeletben meghatározott vagyoni biztosítékkal rendelkezik, és
+
+d) amelynek létesítő okiratában, működési engedélyében vagy az egyéni vállalkozói nyilvántartásban a tevékenységei között az oktatás vagy képzés szerepel.
 
 (2) Az (1) bekezdés a) pont ac), ae) alpontjában, valamint b) és c) pontjában foglalt feltételeket az 1. § (2) bekezdés d) pontja szerinti képzések esetén a felnőttképzést folytató intézménynek nem kell teljesítenie.
 
