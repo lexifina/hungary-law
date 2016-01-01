@@ -1,5 +1,7 @@
-## 7–11. §
+## 11. § A támogatott a tárgyévet követő év június 30-áig fel nem használt vagy nem rendeltetésszerűen felhasznált Tao. támogatást köteles a kijelölt szerv által kiadott, a beszámoló elfogadásáról vagy elutasításáról szóló határozat jogerőre emelkedésétől számított 30 napon belül a minisztérium kincstárnál vezetett 10032000-01220328-50000885 számú, EMMI Fejezeti kezelésű EFK alszámla – NKAI (művészeti és működési előirányzatok) elnevezésű számlájára átutalással vagy e fizetési számlára történő készpénzátutalási megbízással megfizetni, valamint az átutalás megtörténtét igazoló bizonylatot vagy annak hiteles másolatát a kijelölt szerv részére megküldeni.
 
-## 7. [^7] Ellenőrzés
+## 7. Ellenőrzés
 
-[^7]: A 7. alcím a 14. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+12. § (1) A kijelölt szerv az előadó-művészeti szervezet támogatását követő 5 éven belül hatósági ellenőrzést folytat le, amelynek során vizsgálja a társaságiadó-kedvezmény, illetve jóváírás igénybevételének alapjául szolgáló, a Tao. tv.-ben meghatározott jegybevételt, valamint a Tao. tv. 22. § (4) bekezdése szerint kapott támogatás, kiegészítő támogatás és a Tao. tv. 24/A. §-a szerint kapott adófelajánlás rendeltetésszerű felhasználását.
+
+(2) A támogatás nyújtásának és igénybevételének az uniós szabályok alapján történő ellenőrzése érdekében a társasági adó-kedvezményre vagy adójóváírásra jogosító támogatással kapcsolatban keletkezett iratokat az előadó-művészeti szervezet, valamint a társasági adó-kedvezményt vagy adójóváírást igénybe vevő támogató a támogatás felhasználás évét követő 10 évig köteles megőrizni.
