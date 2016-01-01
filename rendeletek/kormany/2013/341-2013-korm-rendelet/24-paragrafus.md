@@ -1,4 +1,4 @@
-24. § (1) A hatóság a felügyeleti eljárást a megindításától számított 30 napon belül határozattal zárja le. A hatóság főigazgatója egy alkalommal jogosult a felügyeleti eljárás időtartamát 30 nappal meghosszabbítani.
+24. § (1)[^6]
 
 (2) A felügyeleti eljárás keretében a hatóság egy alkalommal jogosult a beruházótól adatokat és információkat bekérni. A beruházó a hatóság kérésének 15 napon belül köteles eleget tenni.
 
@@ -9,3 +9,5 @@
 (5) Ha a felügyeleti eljárás lefolytatása során, a felügyeleti eljárást lezáró határozat meghozatalát megelőzően, a beruházó nyilatkozatban vállalja, hogy a hatóság által ésszerűnek tartott határidőn belül megteszi a jogszabályokban és az Európai Bizottság határozataiban foglaltaknak történő megfelelés érdekében szükséges lépéseket, akkor a hatóság a szabályszegést nem állapítja meg és a felügyeleti eljárás lefolytatásának megszüntetéséről rendelkezik. A felügyeleti eljárás megszüntetése nem zárja ki egy újabb felügyeleti eljárás lefolytatását. Ha a beruházó nem tesz eleget a nyilatkozatában foglalt kötelezettségeinek, a hatóság a (3) és (4) bekezdés szerint jár el, azzal, hogy a (3) bekezdés esetén a bírság kiszabása kötelező.
 
 (6) A hatóság a felügyeleti eljárás során elfogadott, jogerőssé vált határozatokat a jogerőssé válást követő 15 napon belül a honlapján közzéteszi.
+
+[^6]: A 24. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 204. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
