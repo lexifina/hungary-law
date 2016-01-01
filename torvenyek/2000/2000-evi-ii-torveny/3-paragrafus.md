@@ -32,4 +32,6 @@ ac) a praxiskezelő által nyújtott kamatmentes visszatérítendő támogatásr
 
 ad) a feladat-ellátási szerződés formai követelményeit rendeletben meghatározza,
 
+ae) a praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam által biztosított kamattámogatásra vonatkozó részletes szabályokat meghatározza,
+
 b) az egészségügyért felelős miniszter, hogy a praxisjog alapján végzett tevékenység gyakorlásának és ellenőrzésének részletes szakmai szabályait, továbbá a helyettesítésre, a tevékenység végzéséhez szükséges szakképesítésre és az alkalmassági vizsgálatra vonatkozó szabályokat rendeletben meghatározza.

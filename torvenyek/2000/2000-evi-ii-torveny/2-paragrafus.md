@@ -29,3 +29,5 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 (9a) Az Egészségbiztosítási Alapból a finanszírozás keretében folyósított összeg a praxisjog megszerzése érdekében felhasználható.
 
 (10) A tartósan betöltetlen háziorvosi körzetek miatti ellátási különbségek kiegyenlítésére, a hátrányos helyzetű települési önkormányzatok egészségügyi alapellátási feladatai megszervezésének segítésére külön jogszabály szerint működtetett Praxisprogram szolgál.
+
+(11) A praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam – kormányrendeletben meghatározott módon – kamattámogatást biztosít.
