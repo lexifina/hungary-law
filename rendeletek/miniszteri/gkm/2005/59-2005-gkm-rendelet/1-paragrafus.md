@@ -1,6 +1,6 @@
 1. § (1) A gazdasági és közlekedési miniszter (a továbbiakban: miniszter) a hatáskörébe tartozó, katasztrófavédelemmel kapcsolatos kommunikációs és információs feladatainak ellátására főügyeleti rendszert hoz létre.
 
-(2) A főügyeleti rendszer a Gazdasági és Közlekedési Főügyeletből (a továbbiakban: GKM Főügyelet), valamint – ennek alárendelten – a Közlekedési Főügyeletből, az Ipari Főügyeletből, valamint az Energetikai Főügyeletből (a továbbiakban együtt: Ágazati Főügyelet) áll.
+(2)[^1] A főügyeleti rendszer a Gazdasági és Közlekedési Főügyeletből (a továbbiakban: GKM Főügyelet), valamint – ennek alárendelten – a Közlekedési Főügyeletből, valamint az Energetikai Főügyeletből (a továbbiakban együtt: Ágazati Főügyelet) áll.
 
 (3) A főügyeleti rendszer folyamatosan, napi 24 órában működik, munkaszüneti napokon is.
 
@@ -8,9 +8,10 @@
 
 a) a GKM Főügyelet feladatait, továbbá a Közlekedési Főügyelet feladatait az Állami Közúti Műszaki és Információs Közhasznú Társaság (e célra kijelölt szervezeti egysége: ÚTINFORM),
 
-b)[^1] az Ipari Főügyelet feladatait a Magyar Kereskedelmi Engedélyezési Hivatal és a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal,
+b)[^2]
 
-c)[^2] az Energetikai Főügyelet feladatait a bányafelügyelet műszaki-biztonsági, munkavédelmi hatáskörébe tartozó ügyekben a Magyar Bányászati és Földtani Hivatal, a villamosenergetikai ügyekben a MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság
+c)[^3] az Energetikai Főügyelet feladatait a bányafelügyelet műszaki-biztonsági, munkavédelmi hatáskörébe tartozó ügyekben a Magyar Bányászati és Földtani Hivatal, a villamosenergetikai ügyekben a MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság
 
-[^1]: Az 1. § (4) bekezdés b) pontja a 9/2015. (III. 31.) NGM rendelet 36. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (4) bekezdésének c) pontja a 86/2006. (XII. 26.) GKM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (2) bekezdése a 35/2015. (XII. 23.) NGM rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (4) bekezdés b) pontját a 35/2015. (XII. 23.) NGM rendelet 2. § b) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (4) bekezdésének c) pontja a 86/2006. (XII. 26.) GKM rendelet 17. § (1) bekezdésével megállapított szöveg.
