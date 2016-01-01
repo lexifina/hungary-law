@@ -1,0 +1,1 @@
+## „(5) A termékdíj raktár engedélyese a termék- és anyagáram bővítését vagy szűkítését, a termékdíj raktár címén, helyrajzi számán belüli termékdíj raktár területének megváltoztatását, továbbá az ideiglenes kiadás alkalmazására irányuló nyilatkozat módosítását az engedély módosítására irányuló kérelem útján, a (2) bekezdésben meghatározott módon kezdeményezheti.”
