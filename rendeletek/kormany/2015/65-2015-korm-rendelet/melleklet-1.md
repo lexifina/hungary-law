@@ -1,10 +1,8 @@
 ## 6. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-1. melléklet a 65/2015. (III. 25.) Korm. rendelethez
+1. melléklet a 65/2015. (III. 25.) Korm. rendelethez[^1]
 
-A Tv. 3. § (1) bekezdésében felsorolt adatkörök adattartalma
-
-A Tv. 3. § (1) bekezdésében felsorolt adatkörök adattartalma
+A Tv. 3. § (1) bekezdés a)-c) pontjában felsorolt adatkörök adattartalma
 
 | Adatkör | Adattartalom |
 
@@ -16,7 +14,7 @@ A Tv. 3. § (1) bekezdésében felsorolt adatkörök adattartalma
 
 | állampolgárság | állampolgárság |
 
-| lakóhely | tényleges (életvitelszerűen használt) lakóhely települése, bejelentett lakóhely, tartózkodási hely települése (ha az nem egyezik meg a tényleges lakóhely címével), külföld esetén országa, EU-tagországban és Magyarországgal szomszédos országban települése, születéskori tényleges lakóhely települése, külföld esetén országa, EU-tagországban és Magyarországgal szomszédos országban települése, előző tényleges lakóhely települése, külföld esetén országa, EU-tagországban és Magyarországgal szomszédos országban települése, a jelenlegi tényleges lakóhelyre költözés ideje, utolsó olyan külföldi tényleges lakóhely országa, EU-tagországban és Magyarországgal szomszédos országban települése, ahol legalább egy évig élt, a költözés ideje |
+| lakóhely | tényleges (életvitelszerűen használt) lakóhely települése, bejelentett lakóhely, tartózkodási hely, nem bejelentett lakcím települése (ha az nem egyezik meg a tényleges lakóhely címével), külföld esetén országa, EU-tagországban és Magyarországgal szomszédos országban települése, születéskori tényleges lakóhely települése, külföld esetén országa, EU-tagországban és Magyarországgal szomszédos országban települése, előző tényleges lakóhely települése, külföld esetén országa, EU-tagországban és Magyarországgal szomszédos országban települése, a jelenlegi tényleges lakóhelyre költözés ideje, korábbi külföldi tényleges lakóhely országa, EU-tagországban és Magyarországgal szomszédos országban települése, a költözés ideje |
 
 | a lakáshasználat jogcíme | lakáshasználat jogcíme (tulajdonos vagy rokona, bérlő vagy rokona, albérlő stb.) |
 
@@ -26,7 +24,7 @@ A Tv. 3. § (1) bekezdésében felsorolt adatkörök adattartalma
 
 | élve született gyermekek | élve született gyermekek száma, élve született gyermekek születési éve, hónapja |
 
-| iskolába járás | iskolába, óvodába, bölcsődébe járás, az iskola típusa, képzés formája, bölcsőde, óvoda, iskola települése, külföld esetén országa |
+| iskolába járás | iskolába, óvodába, bölcsődébe járás, az iskola típusa, képzés formája, bölcsőde, óvoda, iskola települése, külföld esetén országa, EU-tagországban és Magyarországgal szomszédos országban települése |
 
 | iskolai és szakmai végzettség | az egyes iskolatípusokban elvégzett évfolyamok száma, legmagasabb befejezett iskolai végzettség szintje, megszerzett képzettségek, megszerzés éve, formája |
 
@@ -36,7 +34,7 @@ A Tv. 3. § (1) bekezdésében felsorolt adatkörök adattartalma
 
 | foglalkozás | foglalkozás, munkakör, foglalkoztatási forma, beosztottak, alkalmazottak száma (létszám-kategóriák szerint) |
 
-| munkáltató és munkahely | munkáltató/vállalkozás megnevezése vagy tevékenységének részletes leírása, munkáltató/vállalkozás jellemző tevékenysége, munkahely települése, külföld esetén országa |
+| munkáltató és munkahely | munkáltató/vállalkozás megnevezése vagy tevékenységének részletes leírása, munkáltató/vállalkozás jellemző tevékenysége, munkahely települése, külföld esetén országa, EU-tagországban és Magyarországgal szomszédos országban települése |
 
 | nemzetiség | nemzetiséghez tartozás |
 
@@ -50,7 +48,7 @@ A Tv. 3. § (1) bekezdésében felsorolt adatkörök adattartalma
 
 | A lakásokra vonatkozóan |
 
-| cím | a lakás pontos címe (irányítószám, település, közterület neve, jellege, lépcsőház száma, emelet, ajtószám) |
+| cím | a lakás pontos címe (irányítószám, település, közterület neve, jellege, házszám/helyrajzi szám, épület, lépcsőház, emelet, ajtószám) |
 
 | rendeltetés (típus) | a lakóegységet magában foglaló épület típusa (családi ház, négy- vagy többlakásos lakóépület, üdülőépület, egyéb), lakóegység típusa (lakás, üdülő, egyéb), lakáshasználat formája, rendszeressége, a lakásban lakó személyek, háztartások száma |
 
@@ -62,7 +60,7 @@ A Tv. 3. § (1) bekezdésében felsorolt adatkörök adattartalma
 
 | tulajdoni jelleg | tulajdonosi forma |
 
-| helyiségek száma | helyiségek típusa, száma |
+| helyiségeik száma | helyiségek típusa, száma |
 
 | alapterület | lakás teljes alapterülete |
 
@@ -77,3 +75,5 @@ A Tv. 3. § (1) bekezdésében felsorolt adatkörök adattartalma
 | rendeltetés | rendeltetés (pl. gyermekotthon, idősek otthona) |
 
 | a férőhelyek száma | engedélyezett férőhelyek száma, működő férőhelyek száma, igénybe vett férőhelyek száma |
+
+[^1]: Az 1. melléklet a 375/2015. (XII. 3.) Korm. rendelet 6. §-ával megállapított szöveg.
