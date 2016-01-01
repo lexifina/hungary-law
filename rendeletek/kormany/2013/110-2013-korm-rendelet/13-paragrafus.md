@@ -6,7 +6,7 @@
 
 a) a kibocsátó szervek vagy megbízottaik,
 
-b)[^6] az élelmiszerlánc-biztonsági és állategészségügyi hatóság,
+b)[^7] az élelmiszerlánc-biztonsági és állategészségügyi hatóság,
 
 c) a Mezőgazdasági és Vidékfejlesztési Hivatal
 
@@ -30,4 +30,4 @@ e) az 5. § (6) bekezdése szerinti adatokat.
 
 (6) A kibocsátó szervek, valamint a NÉBIH biztosítják, hogy a kibocsátó szervek adatbázisa és a központi adatbázis lehetővé tegye a lófélék eredete, tartási helye, állattartója, tulajdonosa, illetve az ezen adatokban bekövetkezett változás nyomonkövetését.
 
-[^6]: A 13. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § b) pontja szerint módosított szöveg.
+[^7]: A 13. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § b) pontja szerint módosított szöveg.
