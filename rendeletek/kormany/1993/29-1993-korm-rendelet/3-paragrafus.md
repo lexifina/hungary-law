@@ -4,7 +4,7 @@
 
 a) étkeztetés esetén ellátási napra,
 
-b) házi segítségnyújtás esetén gondozási órára,
+b)[^13] házi segítségnyújtás esetén – szociális segítésre vagy személyi gondozásra vonatkozó – gondozási órára,
 
 c) jelzőrendszeres házi segítségnyújtás esetén ellátási napra,
 
@@ -29,3 +29,4 @@ a hónapok naptári napjainak számától függetlenül.
 (4) A intézményi térítési díjat és a személyi térítési díjat az 1 és 2 forintos címletű érmék bevonása következtében szükséges kerekítés szabályairól szóló 2008. évi III. törvény 2. §-ának megfelelő módon kerekítve kell meghatározni.
 
 [^12]: A 3. § a 357/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 3. § (1) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
