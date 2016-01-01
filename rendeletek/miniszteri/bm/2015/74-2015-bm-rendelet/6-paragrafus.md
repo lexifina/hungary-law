@@ -1,0 +1,9 @@
+## „(6) A nyomozás során az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (1) bekezdése alapján elrendelt európai elfogatóparancs, valamint a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény 32. § (1) bekezdése alapján elrendelt nemzetközi elfogatóparancs kapcsán a körözési eljárás lefolytatására a körözés alapját képező bűncselekmény nyomozására hatáskörrel és illetékességgel rendelkező rendőri szerv az illetékes.
+
+## (7) Az országos rendőrfőkapitány egyedi ügyekben – különösen, ha ez a hatékonyabb bűnüldözés érdekében szükséges vagy ezt a körözési érdek indokolja – hivatalból vagy a körözési eljárást lefolytató rendőri szerv előterjesztése alapján a Készenléti Rendőrség Nemzeti Nyomozó Iroda (a továbbiakban: KR NNI) hatáskörébe utalhatja a bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) VII. Fejezete szerinti intézkedések végrehajtását.
+
+## (8) A KR NNI vezetője – különösen, ha ez a hatékonyabb bűnüldözés érdekében szükséges vagy ezt a körözési érdek indokolja – rövid úton előterjesztést tehet az országos rendőrfőkapitány felé, ha bűncselekménnyel összefüggésben vagy az eltűnés miatt elrendelt körözés végrehajtása során alkalmazható, az Rtv. VII. Fejezete szerinti intézkedések végrehajtásának hatáskörébe utalását indokoltnak tartja. Az országos rendőrfőkapitány a döntését szóban közli a KR NNI vezetőjével, aki erről feljegyzést készít.
+
+## (9) A (7) és a (8) bekezdésben meghatározott döntést haladéktalanul írásba kell foglalni és a KR NNI vezetője, valamint a körözési eljárást lefolytató rendőri szerv vezetője részére meg kell küldeni.
+
+## (10) A (7) és a (8) bekezdés rendelkezései a körözési eljárás lefolytatására való illetékességet nem érintik.”
