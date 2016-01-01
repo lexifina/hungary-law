@@ -1,4 +1,4 @@
-5. §[^21] (1) A tevékenységért felelős személynek:
+5. §[^24] (1) A tevékenységért felelős személynek:
 
 a) turisztikai szervező, értékesítő szakképesítéssel,
 
@@ -84,4 +84,4 @@ b) a (6) bekezdéssel összefüggő kötelezettségét nem teljesíti.
 
 (8) Az a tevékenységért felelős személy, akit a Hivatal a (7) bekezdés a) vagy b) pontjában meghatározott okok valamelyike miatt jogerősen törölt a hatósági nyilvántartásból, öt évig nem láthatja el utazási vállalkozásnál a tevékenységért felelős tisztséget.
 
-[^21]: Az 5. §-t a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte, újonnan a 140/2015. (VI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^24]: Az 5. §-t a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte, újonnan a 140/2015. (VI. 9.) Korm. rendelet 2. §-a iktatta be.

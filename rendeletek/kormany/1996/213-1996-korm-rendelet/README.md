@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-213-20-
 | 2014-03-15 | 1996-213-20-22.23 | 20/2007. (II. 20.) Korm. rendelet |
 | 2014-09-05 | 1996-213-20-22.24 | 78/2005. (IV. 28.) Korm. rendelet |
 | 2015-09-02 | 1996-213-20-22.25 | 140/2015. (VI. 9.) Korm. rendelet |
+| 2016-01-01 | 1996-213-20-22.26 | 441/2015. (XII. 28.) Korm. rendelet |
