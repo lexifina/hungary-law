@@ -8,8 +8,10 @@ b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény,
 
 c) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény,
 
-d) a biztosítókról és a biztosítási tevékenységről szóló törvény,
+d)[^1] a biztosítási tevékenységről szóló törvény,
 
 e) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény,
 
 f) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény
+
+[^1]: A 2. § (2) bekezdés d) pontja a 46/2015. (III. 12.) Korm. rendelet 5. §-a szerint módosított szöveg.
