@@ -1,6 +1,6 @@
 ## Ingatlanközvetítés, ingatlanvagyon-értékelés és közvetítés
 
-64/A. § (1) Az üzletszerű ingatlanközvetítői tevékenység folytatásához az ingatlanvállalkozás-felügyeleti hatóság engedélye szükséges.
+64/A. § (1) Az üzletszerű ingatlanközvetítői tevékenység az ingatlanvállalkozás-felügyeleti hatósághoz benyújtott, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján folytatható.
 
 (2) Az ingatlanközvetítő a tevékenységi körén belül:
 

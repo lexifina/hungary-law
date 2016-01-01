@@ -1,4 +1,4 @@
-64/B. § (1) Az üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység folytatásához az ingatlanvállalkozás-felügyeleti hatóság engedélye szükséges.
+64/B. § (1) Az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység az ingatlanvállalkozás-felügyeleti hatósághoz benyújtott, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján folytatható.
 
 (2) Az ingatlanvagyon-értékelő és közvetítő a tevékenységi körén belül:
 
