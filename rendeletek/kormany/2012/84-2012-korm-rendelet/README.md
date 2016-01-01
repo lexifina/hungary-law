@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-84-20-2
 | 2015-02-28 | 2012-84-20-22.11 | 323/2014. (XII. 15.) Korm. rendelet |
 | 2015-04-01 | 2012-84-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-07-01 | 2012-84-20-22.13 | 169/2015. (VI. 30.) Korm. rendelet |
+| 2016-01-01 | 2012-84-20-22.14 | 414/2015. (XII. 23.) Korm. rendelet |
