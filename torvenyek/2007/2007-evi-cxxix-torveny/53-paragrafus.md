@@ -2,7 +2,7 @@
 
 a) az e törvényben meghatározott talajvédelmi kötelezettségek teljesítését,
 
-b) a talajvédelmi, valamint egyéb, talajvédelmi előírásokat tartalmazó engedély meglétét,
+b) a talajvédelmi, valamint egyéb, talajvédelmi előírásokat tartalmazó engedély meglétét, bejelentés megtörténtét,
 
 c) a talajvédelmi, valamint más engedélyekben foglalt talajvédelmi követelmények betartását,
 

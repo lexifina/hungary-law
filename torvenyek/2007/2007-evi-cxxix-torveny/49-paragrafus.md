@@ -8,7 +8,7 @@ b) mezőgazdasági célú tereprendezéshez,
 
 c) a 36. § (2) bekezdés c) pontjában meghatározott talajvédelmi műszaki beavatkozásokhoz, létesítmények megvalósításához, amennyiben az engedélyezés nem tartozik más hatóság hatáskörébe,
 
-d) hígtrágya termőföldön történő felhasználásához az állattartás során keletkező egyéb szervestrágya kivételével,
+d)
 
 e) szennyvíz, szennyvíziszap és szennyvíziszap komposzt mezőgazdasági felhasználásához,
 

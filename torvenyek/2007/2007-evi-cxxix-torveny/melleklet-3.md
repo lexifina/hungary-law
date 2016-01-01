@@ -16,7 +16,7 @@ A talajvédelmi bírság mértéke
 
 7. A 49. § (1) bekezdés a) és g) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása esetén a talajvédelmi bírság mértéke 50 000 forint.
 
-8. A 49. § (1) bekezdés b)–d) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 100 000 forint.
+8. A 49. § (1) bekezdés b)–d) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása, illetve az 50/A. § (1) bekezdése szerinti tevékenység bejelentés nélküli folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 100 000 forint.
 
 9. A 49. § (1) bekezdés e)–f) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 200 000 forint.
 
