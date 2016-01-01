@@ -18,11 +18,11 @@
 
 (9)[^79] Ha a közjegyzői okiratkészítés előtt vagy az utólagos ellenőrzés alapján, a Ktv. 122. § (6) bekezdése szerint a közreműködés megtagadásának van helye, a közjegyző a korábban iktatott ügyszámon – törve a következő sorszámmal – a közreműködés megtagadására vonatkozó végzést hoz.
 
-(10)[^80] A (9) bekezdésben foglalt esetekben a közjegyző a közjegyzői ügyek nyilvántartásának megjegyzés rovatában a „meghiúsult” jelzést tünteti fel.
+(10)[^80] A (9) bekezdésben foglalt esetekben a közjegyző a közjegyzői ügyek nyilvántartásában a közreműködés megtagadásának a tényét tünteti fel.
 
 [^75]: A Vhr. 27. §-ának (3) bekezdése az 55/2007. (XII. 21.) IRM rendelet 1. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. § (3) bekezdését és 7. §-át.
 [^76]: A Vhr. 27. § (4) bekezdése a 6/2010. (III. 12.) IRM rendelet 2. § f) pontja szerint módosított szöveg.
 [^77]: A Vhr. 27. §-ának (5)–(7) bekezdését az 55/2007. (XII. 21.) IRM rendelet 1. § (6) bekezdése iktatta be, hatályon kívül helyezte a 33/2008. (XII. 31.) IRM rendelet 21. § (4) bekezdése.
 [^78]: A Vhr. 27. §-ának (8) bekezdését az 55/2007. (XII. 21.) IRM rendelet 1. § (6) bekezdése iktatta be, szövege a 83/2009. (XII. 30.) IRM rendelet 20. §-a szerint módosított szöveg.
 [^79]: A Vhr. 27. § (9) bekezdését a 33/2008. (XII. 31.) IRM rendelet 3. §-a iktatta be.
-[^80]: A Vhr. 27. § (10) bekezdését a 33/2008. (XII. 31.) IRM rendelet 3. §-a iktatta be.
+[^80]: A Vhr. 27. § (10) bekezdését a 33/2008. (XII. 31.) IRM rendelet 3. §-a iktatta be, szövege a 40/2015. (XII. 22.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
