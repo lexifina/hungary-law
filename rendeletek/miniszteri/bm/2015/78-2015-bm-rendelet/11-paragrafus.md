@@ -1,0 +1,23 @@
+## 10. § Az igénybevételre jogosult szerv jogosultság nyilvántartásban rögzítendő adatait tartalmazó adatlapot az 1. melléklet, az arcképelemző tevékenység igénybevételéhez szükséges egyedi azonosító iránti kérelem adattartalmát, az arcképelemző tevékenység igénybevételére adott felhatalmazás megszűnéséről szóló értesítés adattartalmát, valamint a hozzáférésre felhatalmazott személy jogosultság nyilvántartásban kezelt adatainak változásáról szóló értesítés adattartalmát a 2. melléklet, az arcképelemző rendszer kezelésére jogosult személy jogosultság nyilvántartásban rögzítendő adatait tartalmazó adatlapot a 3. melléklet tartalmazza.
+
+## 5. A biztonsági intézkedések
+
+11. § (1) A központi szerv az információs önrendelkezési jogról és az információszabadságról szóló törvényben, az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvényben, valamint a minősített adat védelméről szóló törvényben foglalt követelmények érvényre juttatása – így különösen a jogosulatlan hozzáférés és az adatok jogosulatlan nyilvánosságra hozatalának megakadályozás – érdekében intézkedni köteles.
+
+(2) A központi szerv az elemzői és kiértékelési tevékenységet támogató informatikai eszközöket kizárólag csak a központi szerv egyéb rendszereitől elkülönítetten, megfelelő információbiztonsági védelemmel ellátott zárt hálózati szegmensben működtetheti.
+
+(3) Az elemzői és kiértékelési tevékenységet támogató valamennyi informatikai eszköz kizárólag egyedi jogosultságkezelés és megfelelő szintű azonosítás mellett használható.
+
+(4) Az arcképelemző rendszer elhelyezésére szolgáló helyiségekbe történő beléptetés tekintetében a központi szerv köteles elkülönített elektronikus beléptető rendszert működtetni, továbbá köteles gondoskodni az objektumvédelemről.
+
+(5) Az elemző személy köteles minden gyanús, így különösen az elemzői tevékenység befolyásolás-mentességét vagy az adatbiztonságot veszélyeztető eseményt soron kívül jelenteni a szervezeti egységét vezető személynek (a továbbiakban: közvetlen felettes), aki köteles megtenni a szükséges intézkedéseket az ügy kivizsgálása érdekében.
+
+(6) Az elemző személyek által folytatott kiértékelési tevékenység során – a Nemzeti Adatvédelmi és Információszabadság Hatóság vizsgálata kivételével – az elemzői helyiségben kizárólag az elemző személy, a központi szerv feladat- és hatáskörrel rendelkező vezető beosztású tisztviselője és azon személy tartózkodhat, akinek azt a központi szerv vezetője engedélyezte.
+
+(7) Az egymástól függetlenül végzett párhuzamos kiértékelési tevékenység kizárólag külön elemzői helyiségekben végezhető el.
+
+(8) Ha az elemző személy azt észleli, hogy olyan személlyel összefüggésben végez kiértékelési tevékenységet, akinek személyazonossága előtte ismert, köteles a kiértékelési tevékenységét haladéktalanul félbeszakítani és a közvetlen felettest ezen körülményről értesíteni. Az érintettséget jelző elemző személy az adott ügyben kiértékelési tevékenységet ezt követően nem végezhet. A közvetlen felettes haladéktalanul gondoskodik új elemző személy kijelöléséről, egyúttal intézkedik az elemzői és a kiértékelési tevékenység ismételt elvégzéséről.
+
+(9) A (8) bekezdés szerinti eseményről az abban érintett elemző személy feljegyzést készít. A feljegyzésben meg kell jelölni az adott kiértékelés alapjául szolgáló kérelmet azonosító adatokat. A feljegyzés nem tartalmazhat személyes adatot.
+
+(10) A központi szerv az igénybevételre jogosult szervek részére történő adattovábbítással összefüggő belső ügyviteli folyamatait a nemzetbiztonsági szolgálatokról szóló törvény, valamint a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény rendelkezései figyelembevételével alakítja ki.
