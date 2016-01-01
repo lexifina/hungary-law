@@ -1,4 +1,4 @@
-8/D. §[^96] (1) Jogszabály eltérő rendelkezése hiányában a viszontgarancia-vállalásból származó beváltás esetén a jogosult – az e rendelet 3. számú melléklet szerinti igénylőlap felhasználásával – érvényesítheti az állami kötelezettségvállalásból eredő jogait az állami adóhatóságnál.
+8/D. §[^97] (1) Jogszabály eltérő rendelkezése hiányában a viszontgarancia-vállalásból származó beváltás esetén a jogosult – az e rendelet 3. számú melléklet szerinti igénylőlap felhasználásával – érvényesítheti az állami kötelezettségvállalásból eredő jogait az állami adóhatóságnál.
 
 (2) A viszontgarancia érvényesítésének feltétele, hogy a jogosult az általa megkötött kezesség- vagy garanciavállalási szerződésből eredő fizetési kötelezettségének jogszerűen eleget tett.
 
@@ -6,7 +6,7 @@
 
 (4) A (3) bekezdés szerinti behajtás során befolyt összegből először a jogosultnál ténylegesen felmerült, e követelés behajtásával közvetlenül összefüggő, igazolt behajtási költségeket kell elszámolni.
 
-(5) A behajtás során befolyt összegből a központi költségvetést megillető összeget a jogosult 15 munkanapon belül utalja át a 10032000-01907003 APEH állami kezességbeváltás folyósítási számlára.
+(5)[^98] A behajtás során befolyt összegből a központi költségvetést megillető összeget a jogosult 15 munkanapon belül utalja át a 10032000-01907003 NAV állami kezességbeváltás folyósítási számlára.
 
 (6) A jogosult a központi költségvetés által kifizetett összeg behajtásáról elszámolást készít, amelyben feltünteti a behajtás során befolyt összeget, a ténylegesen felmerült és elszámolt behajtási költségeket és az átutalandó összeget. Az elszámolást az átutalás időpontjában meg kell küldeni az állami adóhatóságnak.
 
@@ -14,4 +14,5 @@
 
 (8) Az állami viszontgaranciák beváltásánál, valamint az állami viszontgarancia-érvényesítésből keletkezett, az állami viszontgarancia jogosultja által behajtott, de a központi költségvetésbe be nem fizetett követelés behajtásánál az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény szerint jár el.
 
-[^96]: A 8/D. §-t a 40/2007. (III. 13.) Korm. rendelet 12. §-a iktatta be.
+[^97]: A 8/D. §-t a 40/2007. (III. 13.) Korm. rendelet 12. §-a iktatta be.
+[^98]: A 8/D. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.

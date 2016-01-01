@@ -6,7 +6,7 @@ a) a kötelezettel fennálló szerződésben, vagy értékpapírban meghatározo
 
 b) ennek sikertelensége esetén követelését fizetési meghagyással vagy végrehajtási záradékkal ellátott közjegyzői okirattal érvényesíteni a kötelezettel szemben.
 
-(3) Egyszerű kezesség esetén a kezesség érvényesítésének feltétele, hogy a jogosult igazolja a kötelezettel szembeni igényérvényesítéssel kapcsolatban tett, a (2) bekezdésben foglaltak szerinti jogcselekményeit. A kezesség beváltását ezen igazolás benyújtásának elmulasztása esetén a kezes vagy az Adó- és Pénzügyi Ellenőrzési Hivatal (a továbbiakban: állami adóhatóság) megtagadja.
+(3)[^89] Egyszerű kezesség esetén a kezesség érvényesítésének feltétele, hogy a jogosult igazolja a kötelezettel szembeni igényérvényesítéssel kapcsolatban tett, a (2) bekezdésben foglaltak szerinti jogcselekményeit. A kezesség beváltását ezen igazolás benyújtásának elmulasztása esetén a kezes vagy a Nemzeti Adó és Vámhivatal (a továbbiakban: állami adóhatóság) megtagadja.
 
 (4) A (3) bekezdés szempontjából igazolásnak a jogerős fizetési meghagyás, illetve ellentmondás esetén a jogerős ítélet, továbbá a végrehajtási záradékkal ellátott közjegyzői okirat minősül.
 
@@ -14,3 +14,4 @@ b) ennek sikertelensége esetén követelését fizetési meghagyással vagy vé
 
 [^87]: A 8/A. §-t a 40/2007. (III. 13.) Korm. rendelet 9. §-a iktatta be.
 [^88]: A 8/A. § (1) bekezdését a 40/2007. (III. 13.) Korm. rendelet 19. § (12) bekezdése alapján csak a 2007. március 28. napja után vállalt kezességek esetében kell alkalmazni.
+[^89]: A 8/A. § (3) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.

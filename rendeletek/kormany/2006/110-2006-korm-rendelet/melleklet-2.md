@@ -30,7 +30,7 @@
 
 ## 2 Az egyedi viszontgarancia-vállalás esetén nem kell kitölteni!
 
-2. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^138]
+2. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^140]
 
 ...... számú Állami Kezességi Szerződés
 
@@ -76,7 +76,7 @@ A Kezes kijelenti, hogy a fenti hitelszerződést és az abból származó jogok
 
 7.1. A 7. pont szerinti kimutatás mellé csatolni kell a Korm. rendelet 3. számú mellékletében szereplő igénylőlap szerinti adatokat és dokumentumokat, továbbá a Jogosult behajtásra irányuló – esetleg korábban megtett – lépéseire vonatkozó adatokat.
 
-7.2. A Jogosult a 7. és a 7.1. pontokban megjelölt jogcselekményeket követően – a Kezes értesítése mellett – az Adó- és Pénzügyi Ellenőrzési Hivatalnál kezdeményezheti a kezesség beváltását a 10032000-01907003 számú, APEH Állami kezességbeváltás elnevezésű folyósítási számla terhére.
+7.2. A Jogosult a 7. és a 7.1. pontokban megjelölt jogcselekményeket követően – a Kezes értesítése mellett – a Nemzeti Adó- és Vámhivatalnál kezdeményezheti a kezesség beváltását a 10032000-01907003 számú, NAV Állami kezességbeváltás elnevezésű folyósítási számla terhére.
 
 8. A Kötelezett szerződésszerű teljesítése következtében a Hitelszerződés megszűnéséről a Jogosult köteles a Kezest haladéktalanul, de legkésőbb 3 munkanapon belül írásban értesíteni.
 
@@ -94,4 +94,4 @@ Budapest, [dátum] ..............................................
 
 Jogosult cégszerű aláírása Kezes
 
-[^138]: A 2. számú melléklet a 68/2010. (III. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 322. § h) pontja szerint módosított szöveg.
+[^140]: A 2. számú melléklet a 68/2010. (III. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 322. § h) pontja, a 486/2015. (XII. 29.) Korm. rendelet 16. § b) és d) pontja szerint módosított szöveg.

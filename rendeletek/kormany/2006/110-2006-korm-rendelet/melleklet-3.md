@@ -1,4 +1,4 @@
-3. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^139]
+3. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^141]
 
 Igénylőlap az egyedi állami kezesség, garancia és viszontgarancia beváltásához
 
@@ -82,4 +82,4 @@ aláírás
 
 1 Csak a megfelelő kötelezettségvállalási típust kell szerepeltetni!
 
-[^139]: A 3. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 18. § (1) bekezdésével megállapított, a 68/2010. (III. 19.) Korm. rendelet 14. § (3) bekezdése szerint módosított szöveg.
+[^141]: A 3. számú melléklet a 40/2007. (III. 13.) Korm. rendelet 18. § (1) bekezdésével megállapított, a 68/2010. (III. 19.) Korm. rendelet 14. § (3) bekezdése szerint módosított szöveg.

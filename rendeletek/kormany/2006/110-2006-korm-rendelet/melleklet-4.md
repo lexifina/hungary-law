@@ -1,4 +1,4 @@
-4. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^140]
+4. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^142]
 
 Igénylőlap a lakáscélú állami kezesség beváltásához
 
@@ -104,4 +104,4 @@ P. H.
 
 igénylő
 
-[^140]: A 4. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^142]: A 4. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
