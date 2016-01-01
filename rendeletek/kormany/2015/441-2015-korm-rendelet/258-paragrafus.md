@@ -1,0 +1,3 @@
+## 257. § A Paksi Atomerőmű kapacitásának fenntartására irányuló és az azzal kapcsolatos beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 208/2015. (VII. 23.) Korm. rendelet [a továbbiakban: 208/2015. (VII. 23.) Korm. rendelet] 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban – amennyiben a Ket. szerinti szakhatósági eljárásokra vonatkozó ügyintézési határidőhöz képest jogszabály eltérő határidőt nem állapít meg – a szakhatósági eljárásokra vonatkozó ügyintézési határidő tíz nap.”

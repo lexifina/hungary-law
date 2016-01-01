@@ -1,7 +1,9 @@
-## 47–48. §[^35]
-
 ## 36. A nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásról szóló
 
 ## 173/2003. (X. 28.) Korm. rendelet módosítása
 
-[^35]: A 47–48. § a 262. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## 49. § Hatályát veszti a nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásról szóló 173/2003. (X. 28.) Korm. rendelet
+
+a) 14/A. § (4) bekezdése,
+
+b) 14/A. § (5) bekezdésében az „Az ellenőrzést a hatóság az értesítés kézhezvételét követő két hónapon belül folytatja le.” szövegrész.

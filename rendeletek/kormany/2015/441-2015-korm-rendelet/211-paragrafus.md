@@ -1,3 +1,5 @@
-## 210. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény végrehajtásáról szóló 145/1999. (X. 1.) Korm. rendelet, valamint az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 379/2013. (X. 25.) Korm. rendelet 33. § (2) bekezdésében a „2016. január 1-jén” szövegrész helyébe a „2017. január 1-jén” szöveg lép.
+## 210. §[^3]
 
 ## 127. A Szigetszentmiklósi Járási Hivatal és egyéb állami szervek elhelyezésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 380/2013. (X. 25.) Korm. rendelet módosítása
+
+[^3]: A 210. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,0 +1,1 @@
+## 170. § A 22/2012. (II. 29.) Korm. rendelet 13. § (7) bekezdésében az „Az igazolást 90 napon belül kell kiállítani, amely határidő egy alkalommal további 90 nappal meghosszabbítható.” szövegrész helyébe az „A NÉBIH az igazolást 90 napon belül hatósági bizonyítvány formájában adja ki.” szöveg lép.

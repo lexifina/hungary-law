@@ -1,5 +1,3 @@
-## 226–228. §[^143]
+## 228. § A 146/2014. (V. 5.) Korm. rendelet 4. melléklete helyébe a 26. melléklet lép.
 
 ## 137. A fejlesztési adókedvezményről szóló 165/2014. (VII. 17.) Korm. rendelet módosítása
-
-[^143]: A 226–228. § a 262. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

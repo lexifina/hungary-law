@@ -1,5 +1,7 @@
-## 160–162. §[^101]
-
 ## 97. A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet módosítása
 
-[^101]: A 160–162. § a 262. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+163. § (1) A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet [a továbbiakban: 370/2011. (XII. 31.) Korm. rendelet] 15. §-a a következő (9) bekezdéssel egészül ki:
+
+## „(9) Költségvetési szervnél belső ellenőrzési vezetőnek az nevezhető ki, aki jogszabályban meghatározott, legalább ötéves szakmai gyakorlattal rendelkezik.”
+
+(2) A 370/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése helyébe a következő rendelkezés lép:

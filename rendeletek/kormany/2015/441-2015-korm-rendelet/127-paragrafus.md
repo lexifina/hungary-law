@@ -1,5 +1,9 @@
-## 126. §[^79]
+## 126. § Hatályát veszti a típusvizsgáló engedélyezésének részletes eljárási szabályairól és a típusvizsgálóval kötendő hatósági szerződés tartalmáról szóló 303/2009. (XII. 22.) Korm. rendelet 2. § (1) bekezdése.
 
 ## 75. A megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet módosítása
 
-[^79]: A 126. § a 262. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## 127. § Hatályát veszti a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet
+
+a) 13. §-a,
+
+b) 15. § b) pontjában a „ , felfüggeszti az eljárást és” szövegrész.

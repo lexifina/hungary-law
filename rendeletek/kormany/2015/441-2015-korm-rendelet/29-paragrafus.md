@@ -1,5 +1,3 @@
-## 28. §[^20]
+## 28. § A gyámhatóságok, a területi gyermekvédelmi szolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet 9. § (3) bekezdésében a „negyedévente tájékoztatja” szövegrész helyébe a „negyedévente elektronikus úton tájékoztatja” szöveg lép.
 
 ## 21. A pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendelet módosítása
-
-[^20]: A 28. § a 262. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

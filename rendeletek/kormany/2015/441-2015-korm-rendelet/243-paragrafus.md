@@ -1,5 +1,3 @@
-## 241–242. §[^152]
+## 242. § Hatályát veszti a 39/2015. (III. 11.) Korm. rendelet 43. § (3) bekezdése.
 
 ## 146. A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 66/2015. (III. 30.) Korm. rendelet módosítása
-
-[^152]: A 241–242. § a 262. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
