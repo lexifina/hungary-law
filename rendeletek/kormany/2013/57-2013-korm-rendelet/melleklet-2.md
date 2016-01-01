@@ -1,142 +1,69 @@
-2. melléklet az 57/2013. (II. 27.) Korm. rendelethez
+2. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^13]
 
 ## Telepengedély-köteles tevékenységek
 
 1. acélcsőgyártás
 
-2. acél tárolóeszköz gyártása
+2. alumínium gyártása, kivéve a timföld (alumínium-oxid) gyártása
 
-3. alumínium gyártása, kivéve a timföld (alumínium- oxid) gyártása
+3. dohánytermék gyártása
 
-4. bányászati, építőipari gép gyártása
+4. egyéb gumitermék gyártása
 
-5. dohánytermék gyártása
+5. égetett agyag építőanyag gyártása
 
-6. egyéb gumitermék gyártása
+6. festék, bevonóanyag gyártása
 
-7. előre kevert beton gyártása
+7. fémalakítás, porkohászat
 
-8. égetett agyag építőanyag gyártása
+8. fémfelület-kezelés
 
-9. festék, bevonóanyag gyártása
+9. fémöntés alágazatba tartozó tevékenységek
 
-10. fémalakítás, porkohászat
+10. gumiabroncs, gumitömlő gyártása
 
-11. fém épületelem gyártása
+11. habarcsgyártás
 
-12. fémfelület-kezelés
+12. kőolaj-feldolgozás
 
-13. fémmegmunkálás
+13. máshová nem sorolt egyéb vegyi termék gyártása
 
-14. fémöntés alágazatba tartozó tevékenységek
+14. mezőgazdasági vegyi termék gyártása, raktározása, tárolás
 
-15. fémszerkezet gyártása
+15. mész-, gipszgyártás
 
-16. fémtartály gyártása
+16. műanyag építőanyag gyártása
 
-17. fűrészárugyártás
+17. műanyag lap, lemez, fólia, cső, profil gyártása
 
-18. gépjármű-karosszéria, pótkocsi gyártása
+18. műtrágya, nitrogénvegyület gyártása, raktározása, tárolása
 
-19. gőzkazán gyártása
+19. nemesfémgyártás
 
-20. gumiabroncs, gumitömlő gyártása
+20. papír csomagolóeszköz gyártása
 
-21. habarcsgyártás
+21. papírgyártás
 
-22. háztartási, egészségügyi papírtermék gyártása
+22. ólom, cink, ón gyártása
 
-23. hidegen hajlított acélidom gyártása
+23. ragasztószergyártás
 
-24. hidegen hengerelt keskeny acélszalag gyártása
+24. rézgyártás
 
-25. hidegen húzott acélhuzal gyártása
+25. szálerősítésű cement gyártása
 
-26. hidegen húzott acélrúd gyártása
+26. szintetikus kaucsuk alapanyag gyártása
 
-27. hidraulikus, pneumatikus berendezés gyártása
+27. tapétagyártás
 
-28. huzaltermék gyártása
+28. tisztítószer gyártása
 
-29. kohászati gép gyártása
+29. vas-, acél-, vasötvözet-alapanyag gyártása
 
-30. könnyűfém csomagolóeszköz gyártása
+30. vegyi szál gyártása
 
-31. kötőelem, csavar gyártása
+31. nem veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
 
-32. központi fűtési kazán, radiátor gyártása
+32. veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
 
-33. közúti jármű, járműmotor alkatrészeinek gyártása
-
-34. kőolaj-feldolgozás
-
-35. máshová nem sorolt egyéb általános rendeltetésű gép gyártása
-
-36. máshová nem sorolt egyéb fémfeldolgozási termék gyártása
-
-37. máshová nem sorolt egyéb jármű gyártása
-
-38. máshová nem sorolt egyéb nemfém ásványi termék gyártása
-
-39. máshová nem sorolt egyéb speciális gép gyártása
-
-40. máshová nem sorolt egyéb vegyi termék gyártása
-
-41. mezőgazdasági vegyi termék gyártása, raktározása, tárolás
-
-42. mezőgazdasági, erdészeti gép gyártása
-
-43. mész-, gipszgyártás
-
-44. motorkerékpár gyártása
-
-45. motor, turbina gyártása (kivéve: légi, közútijármű-motor)
-
-46. műanyag csomagolóeszköz gyártása
-
-47. műanyag építőanyag gyártása
-
-48. műanyag lap, lemez, fólia, cső, profil gyártása
-
-49. műanyag-, gumifeldolgozó gép gyártása
-
-50. műtrágya, nitrogénvegyület gyártása, raktározása, tárolása
-
-51. nem háztartási hűtő, légállapot-szabályozó gyártása
-
-52. nemesfémgyártás
-
-53. ólom, cink, ón gyártása
-
-54. papírgyártás
-
-55. papíripari gép gyártása
-
-56. ragasztószergyártás
-
-57. rézgyártás
-
-58. szálerősítésű cement gyártása
-
-59. száloptikai kábel gyártása
-
-60. szintetikus kaucsuk alapanyag gyártása
-
-61. szőnyeggyártás
-
-62. tapétagyártás
-
-63. tisztítószer gyártása
-
-64. vas-, acél-, vasötvözet-alapanyag gyártása
-
-65. vegyi szál gyártása
-
-66. villamos motor, áramfejlesztő gyártása
-
-67.[^10] nem veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
-
-68.[^11] veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
-
-[^10]: A 2. melléklet 67. pontja a 248/2013. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^11]: A 2. melléklet 68. pontja a 248/2013. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 2. melléklet a 441/2015. (XII. 28.) Korm. rendelet 192. § b) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

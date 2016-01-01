@@ -1,4 +1,4 @@
-## 4. §[^2] A Kormány a telepengedély kiadása iránti eljárásban
+## 4. §[^3] A Kormány a telepengedély kiadása iránti eljárásban
 
 a) a higiénés és egészségvédelmi, az ivóvíz-minőségi, a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások érvényesítésével kapcsolatos, jogszabály által az egészségügyi hatóság jogkörébe utalt szakkérdésben első fokon a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalt;
 
@@ -28,4 +28,4 @@ g) annak elbírálása kérdésében, hogy a vizek védelme érdekében megfelel
 
 szakhatóságként jelöli ki.
 
-[^2]: A 4. § a 70/2015. (III. 30.) Korm. rendelet 222. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § a 70/2015. (III. 30.) Korm. rendelet 222. § (1) bekezdésével megállapított szöveg.

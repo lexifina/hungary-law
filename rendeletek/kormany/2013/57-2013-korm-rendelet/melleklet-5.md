@@ -1,4 +1,4 @@
-5. melléklet az 57/2013. (II. 27.) Korm. rendelethez
+5. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^14]
 
 ## Tűzvédelmi hatóság ellenőrzéséhez, illetve szakhatósági állásfoglalásához kötött tevékenységek
 
@@ -8,45 +8,31 @@ I. Szakhatósági állásfoglaláshoz kötött tevékenységek
 
 2. festék, bevonóanyag gyártása
 
-3. fűrészárugyártás
+3. gumiabroncs, gumitömlő gyártása, kivéve gumiabroncs újrafutózása, felújítása
 
-4. gépjármű-karosszéria, pótkocsi gyártása
+4. kőolaj-feldolgozás
 
-5. gumiabroncs, gumitömlő gyártása, kivéve gumiabroncs újrafutózása, felújítása
+5. máshová nem sorolt egyéb vegyi termék gyártása
 
-6. háztartási, egészségügyi papírtermék gyártása
+6. mezőgazdasági vegyi termék gyártása, raktározása, tárolása
 
-7. közúti jármű, járműmotor alkatrészeinek gyártása
+7. műanyag építőanyag gyártása
 
-8. kőolaj-feldolgozás
+8. műanyag lap, lemez, fólia, cső, profil gyártása
 
-9. máshová nem sorolt egyéb vegyi termék gyártása
+9. műtrágya, nitrogénvegyület gyártása, raktározása, tárolása
 
-10. mezőgazdasági vegyi termék gyártása, raktározása, tárolása
+10. papírgyártás
 
-11. motorkerékpár gyártása
+11. ragasztószergyártás
 
-12. műanyag csomagolóeszköz gyártása
+12. tapétagyártás
 
-13. műanyag építőanyag gyártása
+13. tisztítószer gyártása
 
-14. műanyag lap, lemez, fólia, cső, profil gyártása
+14. szintetikus kaucsuk alapanyag gyártása
 
-15. műtrágya, nitrogénvegyület gyártása, raktározása, tárolása
-
-16. papírgyártás
-
-17. ragasztószergyártás
-
-18. szőnyeggyártás
-
-19. tapétagyártás
-
-20. tisztítószer gyártása
-
-21. szintetikus kaucsuk alapanyag gyártása
-
-22. vegyi szál gyártása
+15. vegyi szál gyártása
 
 II. Ellenőrzéshez kötött tevékenységek
 
@@ -60,36 +46,52 @@ II. Ellenőrzéshez kötött tevékenységek
 
 5. falemezgyártás
 
-6. gépjárműjavítás, karbantartás
+6. fűrészárugyártás
 
-7. hangszergyártás
+7. gépjárműjavítás, karbantartás
 
-8. illóolajgyártás
+8. gépjármű-karosszéria, pótkocsi gyártása
 
-9. irodabútor gyártása
+9. hangszergyártás
 
-10. irodai papíráru gyártása
+10. háztartási, egészségügyi papírtermék gyártása
 
-11. játékgyártás
+11. közúti jármű, járműmotor alkatrészeinek gyártása
 
-12. konfekcionált textiláru gyártása (kivéve: ruházat)
+12. illóolajgyártás
 
-13. konyhabútorgyártás
+13. irodabútor gyártása
 
-14. kötött, hurkolt kelme gyártása
+14. irodai papíráru gyártása
 
-15. nyomdai tevékenység alágazatba tartozó tevékenységek
+15. játékgyártás
 
-16. papír csomagolóeszköz gyártása
+16. konfekcionált textiláru gyártása (kivéve: ruházat)
 
-17. sportszergyártás, kivéve úszómedence gyártása
+17. konyhabútorgyártás
 
-18. tároló fatermék gyártása
+18. kötött, hurkolt kelme gyártása
 
-19. testápolási cikk gyártása
+19. motorkerékpár gyártása
 
-20. textilszálak fonása
+20. műanyag csomagolóeszköz gyártása
 
-21. textilszövés
+21. nyomdai tevékenység alágazatba tartozó tevékenységek
 
-22. textil, szőrme mosása, tisztítása
+22. papír csomagolóeszköz gyártása
+
+23. sportszergyártás, kivéve úszómedence gyártása
+
+24. szőnyeggyártás
+
+25. tároló fatermék gyártása
+
+26. testápolási cikk gyártása
+
+27. textilszálak fonása
+
+28. textilszövés
+
+29. textil, szőrme mosása, tisztítása
+
+[^14]: Az 5. melléklet a 441/2015. (XII. 28.) Korm. rendelet 192. § c) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
