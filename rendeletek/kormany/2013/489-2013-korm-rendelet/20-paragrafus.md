@@ -1,11 +1,11 @@
 20. § (1) Ha a fenntartó, a szolgáltató vagy az engedélyes az ellenőrzést akadályozza, az igazgatóság a támogatás folyósítását hivatalból felfüggeszti, és – ha az akadályoztatás tizenöt napon belül nem szűnik meg – a rendelkezésre álló adatok alapján dönt. Az igazgatóság az ellenőrzés akadályozása miatt a támogatás folyósítását az akadályozás megszűnéséig, illetve ha az igazgatóság az akadályoztatás miatt a rendelkezésre álló adatok alapján dönt, a döntés jogerőre emelkedéséig függeszti fel.
 
-(2) Az igazgatóság a lefolytatott ellenőrzés során tett megállapításokra figyelemmel, a közérdek védelmében a támogatás folyósítását a büntetőeljárás jogerős befejezéséig hivatalból felfüggesztheti, ha tudomására jut, hogy
+(2)[^13] Az igazgatóság a lefolytatott ellenőrzés során tett megállapításokra figyelemmel, a közérdek védelmében a támogatás folyósítását a büntetőeljárás jogerős befejezéséig hivatalból felfüggesztheti, ha tudomására jut, hogy a fenntartó tevékenységével vagy a szolgáltató működésével összefüggő ügyben büntetőeljárás folyik.
 
-a) a fenntartóval szemben,
+(3)[^14] A támogatás folyósításának (2) bekezdés szerinti felfüggesztése arra az engedélyesre és szolgáltatásra terjedhet ki, amellyel kapcsolatban a büntetőeljárás folyik.
 
-b) a szolgáltatóval szemben vagy
+(4)[^15] Az igazgatóság a tárgyév november 15-én az (1) bekezdés alapján felfüggesztés alatt álló támogatások összegét tárgyév november 20-áig visszautalja a minisztériumnak. Ha az igazgatóság a visszautalást követően a felfüggesztést megszünteti, az erről szóló döntését a miniszterrel is közli, és egyidejűleg megigényli a szükséges támogatást. A miniszter az igényelt támogatást az igény beérkezésétől számított 25 napon belül utalja át az igazgatóságnak. Az igazgatóság a támogatást annak hozzá történő beérkezését követő 5 napon belül folyósítja a fenntartónak.
 
-c) a fenntartó, illetve a szolgáltató tisztségviselőjével, vezető tisztségviselőjével, ügyintéző és képviseleti szervének tagjával vagy vezetőjével, kezelő szervével, kezelő szervének tagjával vagy vezetőjével, vezető állású munkavállalójával, illetve a fenntartó tevékenységét egyéb módon meghatározó munkavállalójával szemben,
-
-a fenntartó jogszabályszerű tevékenységével vagy a szolgáltató működésével összefüggő ügyben büntetőeljárás folyik.
+[^13]: A 20. § (2) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^14]: A 20. § (3) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^15]: A 20. § (4) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 43. § (2) bekezdése iktatta be.

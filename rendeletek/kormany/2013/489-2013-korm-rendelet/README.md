@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-489-20-
 | 2014-11-02 | 2013-489-20-22.5 | 2010: CXXX. törvény |
 | 2015-01-01 | 2013-489-20-22.6 | 353/2014. (XII. 29.) Korm. rendelet |
 | 2015-01-02 | 2013-489-20-22.7 | 353/2014. (XII. 29.) Korm. rendelet |
+| 2016-01-01 | 2013-489-20-22.8 | 419/2015. (XII. 23.) Korm. rendelet |

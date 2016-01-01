@@ -8,6 +8,6 @@
 
 (5) Az e rendelet szerinti, hivatalból indult eljárásokban a fenntartó, a szolgáltató és az engedélyes köteles átadni, illetve megküldeni az érdemi döntéshez szükséges adatokat és iratokat az igazgatóságnak.
 
-(6)[^1] Az e rendelet szerinti másodfokú közigazgatási hatósági eljárásokban az ügyintézési határidő hatvan nap.
+(6)[^1]
 
-[^1]: A 4. § (6) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 78. §-a iktatta be.
+[^1]: A 4. § (6) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 78. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 220. § a) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
