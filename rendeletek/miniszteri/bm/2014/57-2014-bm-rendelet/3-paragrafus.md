@@ -1,4 +1,8 @@
-3. § (1) Ha az elkövető a szabálysértési elzárást kiszabó határozat jogerőre emelkedésekor nincs őrizetben, a szabálysértési hatóság a bírósági határozat egyidejű kézbesítése mellett felhívja, hogy a szabálysértési elzárás végrehajtása végett a megjelölt napon, a felhívásban meghatározott bv. intézetben jelentkezzék. Egyidejűleg a bírósági határozat egy példányát megküldi a bv. intézetnek, fiatalkorú elkövető esetén az elkövető törvényes képviselőjének és a lakóhely szerint illetékes gyámhatóságnak, továbbá közli a szabálysértési elzárás megkezdésének és végrehajthatósága elévülésének időpontját.
+3. § (1)[^3] Ha az elkövető a végrehajtásában fel nem függesztett szabálysértési elzárást kiszabó határozat jogerőre emelkedésekor nincs őrizetben, a szabálysértési hatóság a bírósági határozat egyidejű kézbesítése mellett felhívja az elkövetőt, hogy a szabálysértési elzárás végrehajtása végett a megjelölt napon, a felhívásban meghatározott bv. intézetben jelentkezzék. A szabálysértési hatóság ezzel egyidejűleg
+
+a) a bírósági határozat egy példányát megküldi a bv. intézetnek, fiatalkorú elkövető esetén az elkövető törvényes képviselőjének és a fiatalkorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságnak, továbbá közli a szabálysértési elzárás megkezdésének és végrehajthatósága elévülésének időpontját, valamint
+
+b) a tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben elrendelt elzárás esetén értesíti a tizennegyedik életévét betöltött kiskorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságot.
 
 (2) A felhívást úgy kell kiadni, hogy azt az elkövető a bv. intézetben való jelentkezésre meghatározott időpont előtt legalább nyolc nappal megkapja.
 
@@ -17,3 +21,5 @@ a) a személyazonossága igazolására alkalmas hatósági igazolványát, valam
 b) aktuálisan fennálló megbetegedéseire kezelőorvosa által rendelt, folyamatosan alkalmazott gyógyszeres kezelésére, gyógyászati segédeszközeire vonatkozó, rendelkezésére álló dokumentumokat – így különösen házi/szakorvosi ambuláns vizsgálati lap, lelet, kórházi zárójelentés, szakorvosi javaslat a támogatással történő gyógyszerrendeléshez, előjegyzés járóbeteg szakvizsgálatokra, fekvőbeteg intézeti gyógykezelésre –, illetve aktuális egészségi állapotának megfelelő, dokumentummal igazoltan a kezelőorvos által rendelt gyógyszereit, gyógyászati segédeszközeit,
 
 c) a legmagasabb iskolai végzettségéről, szakképzettségéről szóló bizonyítványát, oklevelét, vagy azok fénymásolatát
+
+[^3]: A 3. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 22. §-ával megállapított szöveg.

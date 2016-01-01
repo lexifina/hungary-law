@@ -1,6 +1,6 @@
 ## 2. A büntetésként kiszabott szabálysértési elzárás végrehajtása
 
-2. § (1) Ha az elkövető a szabálysértési elzárást kiszabó határozat jogerőre emelkedésekor szabálysértési őrizetben van, őt a rendőrség – a (2) bekezdés kivételével – a bíróság jogerős, végrehajthatósági záradékkal, valamint eredeti bírói, vagy bírósági titkár aláírással ellátott határozatával (a továbbiakban: bírósági határozat) átadja a bv. intézetnek, ezzel egyidejűleg közli a szabálysértési elzárás végrehajthatósága elévülésének időpontját.
+2. § (1)[^1] Ha az elkövető a végrehajtásában fel nem függesztett szabálysértési elzárást kiszabó határozat jogerőre emelkedésekor szabálysértési őrizetben van, őt a rendőrség – a (2) bekezdés kivételével – a bíróság jogerős, végrehajthatósági záradékkal, valamint eredeti bírói, vagy bírósági titkár aláírással ellátott határozatával (a továbbiakban: bírósági határozat) átadja a bv. intézetnek, ezzel egyidejűleg közli a szabálysértési elzárás végrehajthatósága elévülésének időpontját.
 
 (2) A Szabs. tv. 139. § (1a) bekezdés első fordulatában meghatározott esetben az elkövetőt a bírósági határozattal, a rendelvénynek megfelelően rendőrségi fogdába kell szállítani. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában nincs lehetőség, erről a rendőrségi fogda igazolást állít ki. Az elkövetőt az igazolással együtt bv. intézetbe kell szállítani.
 
@@ -13,3 +13,8 @@ b) a bv. intézetnek, ahol a szabadságvesztést, elzárást, illetve a más üg
 c) a javítóintézetnek, ahol a javítóintézeti nevelést végrehajtják.
 
 (4) Ha az elkövetőt az előzetes letartóztatásból szabadlábra helyezték, illetve a szabadságvesztésből, az elzárásból vagy a szabálysértési elzárásból szabadították, illetve a javítóintézeti nevelésből elbocsátották, a bv. intézet, a javítóintézet, vagy a rendőrségi fogda a bírósági határozatot – a szabadulás napjának megjelölésével – haladéktalanul visszaküldi az azt megküldő szabálysértési hatóságnak.
+
+(5)[^2] A szabálysértési hatóság a tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben elrendelt elzárást kiszabó határozat kézhezvételét követően haladéktalanul értesíti a tizennegyedik életévét betöltött kiskorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságot.
+
+[^1]: A 2. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 27. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (5) bekezdését a 81/2015. (XII. 23.) BM rendelet 21. §-a iktatta be.
