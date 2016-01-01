@@ -4,7 +4,7 @@
 
 (2)
 
-(3) A vezetőség az állat-egészségügyi szolgáltató praxisengedély kiadása iránti kérelméről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezésétől számított harminc napon belül dönt. Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
+(3) A vezetőség az állat-egészségügyi szolgáltató praxisengedély kiadása iránti kérelméről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezésétől számított huszonegy napon belül dönt. Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
 
 (4) A praxisengedély kiadása iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító határozat ellen az elnökséghez fellebbezhet.
 
