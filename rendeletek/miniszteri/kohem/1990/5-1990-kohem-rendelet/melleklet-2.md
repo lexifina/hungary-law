@@ -118,7 +118,7 @@
 
 ## A forgalmi engedély időbeni hatályának (Műszaki érvényesség) vége:
 
-## Érvényesítő címke sorszáma:
+## Időszakos/forgalomba helyezés előtti vizsgálat azonosítója:
 
 ## Km számláló állása:
 
@@ -244,7 +244,7 @@
 
 ## A forgalmi engedély időbeni hatályának (Műszaki érvényesség) vége:
 
-## Érvényesítő címke sorszáma:
+## Időszakos/forgalomba helyezés előtti vizsgálat azonosítója:
 
 ## Km számláló állása:
 
@@ -426,6 +426,6 @@
 
 ## Aláírás:
 
-2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^349]
+2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^352]
 
-[^349]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^352]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
