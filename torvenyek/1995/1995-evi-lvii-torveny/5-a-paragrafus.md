@@ -6,14 +6,4 @@
 
 (3a) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4) Az (1) bekezdés szerinti szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a vízgazdálkodási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a kamara részére – annak a szakértői tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a Kamara az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
-
-(5) A Kamara a vízgazdálkodási szakértői tevékenység időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a vízgazdálkodási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A kamara a hatósági ellenőrzés céljából adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a vízgazdálkodási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(6) A (4) és (5) bekezdés alapján megismert személyes adatokat a kamara
-
-a) a vízgazdálkodási szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-
-b) a vízgazdálkodási szakértői tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
+(4)–(6)

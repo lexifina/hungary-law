@@ -68,6 +68,8 @@ z) a mezőgazdasági vízszolgáltatási díj megállapítása részletes szabá
 
 rendeletben történő megállapítására.
 
+(7a) Felhatalmazást kap a Kormány a vízgazdálkodási bírság mértéke megállapításának szempontrendszere és a bírság megfizetési módja részletszabályainak rendeletben történő megállapítására.
+
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
