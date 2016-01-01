@@ -1,1 +1,0 @@
-A Kormány a munka törvénykönyvéről szóló 2012. évi I. törvény 153. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
