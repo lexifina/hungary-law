@@ -1,6 +1,6 @@
-## 6/B. [^28] A szakképzési grémium
+## 6/B. [^37] A szakképzési grémium
 
-9. §[^29] (1) Az egyetemen belül a szakképzés szakmai irányítását a szakképzési grémium látja el.
+9. §[^38] (1) Az egyetemen belül a szakképzés szakmai irányítását a szakképzési grémium látja el.
 
 (2) A szakképzés vonatkozásában a szakképzési grémiumok felsorolását, az egyes szakképzési grémiumokhoz tartozó alap szakképesítéseket, valamint az egyes szakképzési grémiumok legkisebb létszámát a 4. melléklet tartalmazza.
 
@@ -42,5 +42,5 @@ d) képviseleti jogosultsága, jogviszonya, tagsága megszűnik az általa képv
 
 (8) Az országos szakképzési grémium elnöke az egészségügyi szakmai kollégium képviselője.
 
-[^28]: A 6/B. alcímet a 34/2015. (VI. 30.) EMMI rendelet 11. §-a iktatta be.
-[^29]: A 9. §-t a 14/2014. (III. 10.) EMMI rendelet 12. § b) pontja hatályon kívül helyezte, újonnan a 34/2015. (VI. 30.) EMMI rendelet 11. §-a iktatta be.
+[^37]: A 6/B. alcímet a 34/2015. (VI. 30.) EMMI rendelet 11. §-a iktatta be.
+[^38]: A 9. §-t a 14/2014. (III. 10.) EMMI rendelet 12. § b) pontja hatályon kívül helyezte, újonnan a 34/2015. (VI. 30.) EMMI rendelet 11. §-a iktatta be.

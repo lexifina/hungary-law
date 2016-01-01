@@ -1,4 +1,4 @@
-4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^82]
+4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^91]
 
 A támogatott szakképzés szakképzési grémiumai
 
@@ -104,4 +104,4 @@ A támogatott szakképzés szakképzési grémiumai
 
 * A honvédorvostan és a plasztikai és égés-sebészet szakképzési grémium esetében a táblázat az országos grémium létszámát tartalmazza.
 
-[^82]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be.
+[^91]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be.

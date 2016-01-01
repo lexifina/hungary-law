@@ -1,8 +1,8 @@
 ## IV. Fejezet
 
-## A SZAKKÉPZÉS[^26]
+## A SZAKKÉPZÉS[^35]
 
-## 6/A. [^27] A szakképzés minőségének biztosítása és a tutori tevékenység
+## 6/A. [^36] A szakképzés minőségének biztosítása és a tutori tevékenység
 
 8/A. § (1) A támogatott szakképzés során teljesítendő gyakorlati idő eltöltését, beavatkozások, vizsgálatok elvégzését a tutor havonta, de legkésőbb az adott képzési elem teljesítését követő két héten belül igazolja az ENKK és a szakképzésért felelős egyetem irányába.
 
@@ -20,5 +20,5 @@ az ENKK a tutort a mulasztására írásban figyelmezteti és határidő megjel�
 
 (4) Ha a tutor a figyelmeztetés ellenére a (2) bekezdés szerinti minősítés alapján a (4) bekezdés szerinti határidőt követően is a (3) bekezdés a)–c) pontja szerinti magatartás valamelyikét tanúsítja, az ENKK a tutort a névjegyzékből törli.
 
-[^26]: A IV. Fejezet címe a 14/2014. (III. 10.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
-[^27]: A 6/A. alcímet (8/A. §) a 34/2015. (VI. 30.) EMMI rendelet 10. §-a iktatta be.
+[^35]: A IV. Fejezet címe a 14/2014. (III. 10.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
+[^36]: A 6/A. alcímet (8/A. §) a 34/2015. (VI. 30.) EMMI rendelet 10. §-a iktatta be.

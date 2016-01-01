@@ -1,4 +1,4 @@
-3. melléklet a 16/2010. (IV. 15. EüM rendelethez[^81]
+3. melléklet a 16/2010. (IV. 15. EüM rendelethez[^90]
 
 ## A szakképző hellyé minősítés feltételei
 
@@ -52,4 +52,4 @@ rendelkezik;
 
 Az 1.1. és 1.2. alpontban, a 2.1.1. alpontban, valamint a 2.2.1. alpontban foglalt rendelkezéseket a szakképzés bevezetésétől számított 8. év elteltét követően kell alkalmazni, azzal, hogy ezen időpontig is a szakképzést vezető és végző oktatónak megfelelő szakképesítéssel rendelkeznie kell.
 
-[^81]: A 3. melléklet a 34/2015. (VI. 30.) EMMI rendelet 18. § 3. pontja szerint módosított szöveg.
+[^90]: A 3. melléklet a 34/2015. (VI. 30.) EMMI rendelet 18. § 3. pontja szerint módosított szöveg.
