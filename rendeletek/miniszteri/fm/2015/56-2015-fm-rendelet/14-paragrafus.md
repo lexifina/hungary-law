@@ -1,3 +1,3 @@
-## 13. §[^6]
+## 13. § A Vhr. 31. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^6]: A 13. § a 25. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## „(3a) Ha a halgazdálkodási vízterület jó ökológiai állapotának fenntartása vagy annak javítása érdekében ökológiai célú, szelektív halászat alkalmazása szükséges, a halgazdálkodási tervnek tartalmaznia kell az ökológiai célú, szelektív halászattal elérni kívánt célállapotot, az érintett halfajokat és kifogásra tervezett mennyiségüket, továbbá szükség szerint az ökológiai célú, szelektív halászat végzésével kapcsolatos egyéb lényeges feltételeket.”
