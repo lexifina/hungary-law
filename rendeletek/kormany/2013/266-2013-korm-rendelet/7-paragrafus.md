@@ -24,7 +24,7 @@ c) a szakmai gyakorlat igazolását a 12. § szerint,
 
 d) a jogosultsági vizsga eredményes letételének az igazolását,
 
-e)[^6] a bejelentésben közölteket igazoló iratok másolatát, a bejelentést tevő nyilatkozatát a bejelentés tartalmának hitelességéről, ezzel a jogszabályban előírt feltételek és az iratmásolatok hitelességét is igazolja.
+e)[^6] a bejelentésben közölteket igazoló iratok másolatát a hatósági erkölcsi bizonyítvány kivételével, a bejelentést tevő nyilatkozatát a bejelentés tartalmának hitelességéről, ezzel a jogszabályban előírt feltételek és az iratmásolatok hitelességét is igazolja.
 
 (3) A (2) bekezdés e) pontjában foglaltakon túlmenően további hitelesítés nem követelhető meg.
 
@@ -38,4 +38,4 @@ c) a minimális képesítési követelményt szakterületi bontásban,
 
 d) az előírt szakmai gyakorlati időt.
 
-[^6]: A 7. § (2) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 2. pontja szerint módosított szöveg.
+[^6]: A 7. § (2) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 2. pontja, a 441/2015. (XII. 28.) Korm. rendelet 198. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
