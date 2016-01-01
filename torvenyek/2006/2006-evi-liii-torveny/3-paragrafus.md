@@ -18,4 +18,4 @@ c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósá
 
 d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap.
 
-(6) A hatóság vezetője indokolt esetben az ügyintézési határidőt egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.
+(6)
