@@ -1,4 +1,4 @@
-5. §[^23] (1) Az OEP – a 4. § (2) bekezdés szerinti egészségbiztosítási pénztári feladatok vonatkozásában – szervezi
+5. §[^25] (1) Az OEP – a 4. § (2) bekezdés szerinti egészségbiztosítási pénztári feladatok vonatkozásában – szervezi
 
 a) az E. Alap ellátási költségvetésére vonatkozó gazdálkodási, beszámolási, valamint adatszolgáltatási feladatok ellátását, az E. Alap ellátási költségvetéséhez kötődő rendszeres és eseti adatszolgáltatások ütemezését, teljesítésének határidőit, tartalmi és formai elemeit,
 
@@ -36,4 +36,4 @@ c) meghatározza a szakmai informatikai rendszerek követelményeit.
 
 (4) Egészségbiztosítási feladataival összefüggésben a kormányhivatalok, mint foglalkoztatók, és mint kifizetőhelyek felügyeletét az OEP látja el.
 
-[^23]: Az 5. § a 70/2015. (III. 30.) Korm. rendelet 161. § (11) bekezdésével megállapított szöveg.
+[^25]: Az 5. § a 70/2015. (III. 30.) Korm. rendelet 161. § (11) bekezdésével megállapított szöveg.

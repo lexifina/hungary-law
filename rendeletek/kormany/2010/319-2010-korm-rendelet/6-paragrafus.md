@@ -1,8 +1,8 @@
-6. § (1)[^24] Az E. Alap javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvény vagy üzletrész, ingatlan, egyéb vagyon értékesítését és az értékesítésig történő vagyonkezelést – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján kizárólag a Magyar Nemzeti Vagyonkezelő Zrt. végezheti.
+6. § (1)[^26] Az E. Alap javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvény vagy üzletrész, ingatlan, egyéb vagyon értékesítését és az értékesítésig történő vagyonkezelést – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján kizárólag a Magyar Nemzeti Vagyonkezelő Zrt. végezheti.
 
 (2) A Kormány egészségbiztosítási szervként – ha kormányrendelet eltérően nem rendelkezik – az OEP-et jelöli ki.
 
-(3)[^25] A Kormány egészségbiztosítási szervként a kormányhivatalt jelöli ki
+(3)[^27] A Kormány egészségbiztosítási szervként a kormányhivatalt jelöli ki
 
 a) a Polgári Perrendtartásról szóló 1952. évi III. törvény 341. § c) pontjában,
 
@@ -10,15 +10,15 @@ b) az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 5.
 
 c) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény
 
-ca)[^26]
+ca)[^28]
 
 cb) 52. § (2) bekezdésében,
 
-d)[^27]
+d)[^29]
 
 ## foglalt feladatok ellátására.
 
-(4)[^28] A Kormány egészségbiztosítási szervként az OEP-et és a kormányhivatalt jelöli ki
+(4)[^30] A Kormány egészségbiztosítási szervként az OEP-et és a kormányhivatalt jelöli ki
 
 a) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/A. § (3) bekezdés a) pontjában,
 
@@ -60,14 +60,14 @@ i) az egészségügyről szóló 1997. évi CLIV. törvény 147. § (2) bekezdé
 
 ## foglalt feladatok ellátására.
 
-(5)[^29]
+(5)[^31]
 
-(6)[^30] Az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés h) pontja szerinti egészségbiztosítási szerv alatt az OEP és a kormányhivatal is értendő.
+(6)[^32] Az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés h) pontja szerinti egészségbiztosítási szerv alatt az OEP és a kormányhivatal is értendő.
 
-[^24]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 511. §-ával megállapított szöveg.
-[^25]: A 6. § (3) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés b) pontja szerint módosított szöveg.
-[^26]: A 6. § (3) bekezdés c) pont ca) alpontját a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés b) pontja hatályon kívül helyezte.
-[^27]: A 6. § (3) bekezdés d) pontját a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés b) pontja hatályon kívül helyezte.
-[^28]: A 6. § (4) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés b) pontja szerint módosított szöveg.
-[^29]: A 6. § (5) bekezdését a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés c) pontja hatályon kívül helyezte.
-[^30]: A 6. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés c) pontja szerint módosított szöveg.
+[^26]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 511. §-ával megállapított szöveg.
+[^27]: A 6. § (3) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 6. § (3) bekezdés c) pont ca) alpontját a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés b) pontja hatályon kívül helyezte.
+[^29]: A 6. § (3) bekezdés d) pontját a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés b) pontja hatályon kívül helyezte.
+[^30]: A 6. § (4) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés b) pontja szerint módosított szöveg.
+[^31]: A 6. § (5) bekezdését a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés c) pontja hatályon kívül helyezte.
+[^32]: A 6. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés c) pontja szerint módosított szöveg.
