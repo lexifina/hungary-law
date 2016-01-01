@@ -24,6 +24,6 @@ c) átvételi elismervénnyel átveszi az SZSZB-től a szavazóurnákat, a szava
 
 d) a beérkező szavazóköri jegyzőkönyveket jogi és számszaki szempontból ellenőrzi,
 
-e)–f)[^3]
+e) haladéktalanul elvégzi az adatbeviteli teendőket úgy, hogy a számítógépes adatfeldolgozásra a jegyzőkönyvek első példánya szolgál és
 
-[^3]: A 8. § (2) bekezdés e)–f) pontja a 20. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+f) a hibásan vagy hiányosan kitöltött jegyzőkönyvre felhívja az SZSZB figyelmét, és a jegyzőkönyv javítását követően intézkedik az adatok informatikai rendszerbeli javításáról.

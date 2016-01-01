@@ -4,6 +4,10 @@
 
 14. § (1) Az SZSZB mellett működő jegyzőkönyvvezető 7.00, 9.00, 11.00, 13.00, 15.00 és 17.30 órakor adatot szolgáltat a HVI részére a szavazókörben megjelent választópolgárok számáról.
 
-(2)[^5]
+(2) A HVI
 
-[^5]: A 14. § (2) bekezdése a 20. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+a) az informatikai rendszerben – ellenőrzést követően – haladéktalanul rögzíti a szavazókörökből érkezett napközbeni részvételi adatokat, a szavazás közben történt rendkívüli eseményekről kiállított jegyzőkönyveket,
+
+b) az informatikai rendszerben – ellenőrzést követően – haladéktalanul rögzíti a szavazóköri jegyzőkönyvek adatait és
+
+c) az SZSZB mellett működő jegyzőkönyvvezető útján azonnal tájékoztatja az SZSZB-t, ha adathiány van a szavazóköri jegyzőkönyvben, vagy az adatrögzítés során az informatikai rendszer összefüggés-hibát vagy egyéb hibát jelzett.

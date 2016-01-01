@@ -14,6 +14,10 @@ f) a logisztikai feladatok ellátásához,
 
 g) a szavazóhelyiségekbe kerülő szavazóköri névjegyzékek, valamint a mozgóurnát igénylő választópolgárok jegyzékeinek kinyomtatásáról és hitelesítésének megtörténtéről szóló értesítés továbbításához,
 
-h)–k)[^1]
+h) a szavazóköri jegyzőkönyvek előállításához, a jegyzőkönyvek adatainak rögzítéséhez és ellenőrzéséhez,
 
-[^1]: Az 5. § h)–k) pontja a 20. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+i) a népszavazás eredménye előzetes tájékoztató adatainak előállításához,
+
+j) a népszavazás eredménye megállapításának támogatásához és
+
+k) a bírságokkal kapcsolatos feladatok támogatásához.

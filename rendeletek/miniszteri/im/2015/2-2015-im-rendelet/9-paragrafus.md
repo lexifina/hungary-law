@@ -6,10 +6,10 @@ a) gondoskodik az SZSZB-ktől átvett szavazási iratok biztonságos tárolásá
 
 b) a szavazást követő három napon keresztül biztosítja a szavazóköri jegyzőkönyvek második példánya, valamint a határozatok nyilvánosságát, majd azokat irattározza,
 
-c)–d)[^4]
+c) a HVB döntésének előkészítéseként tételesen ellenőrzi a szavazóköri jegyzőkönyvek és a számítógépes adatok azonosságát, és annak eredményéről jelentést tesz a HVB-nek,
+
+d) a népszavazás eredményét a HVB jegyzőkönyve alapján rögzíti az informatikai rendszerben,
 
 e) három napon keresztül biztosítja a HVB eredménymegállapító jegyzőkönyvei második példánya, valamint a határozatok nyilvánosságát, majd azokat irattározza és
 
 f) a szavazóköri jegyzőkönyvek és a HVB eredménymegállapító jegyzőkönyve első példányait továbbítja az NVI-nek.
-
-[^4]: A 9. § c)–d) pontja a 20. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

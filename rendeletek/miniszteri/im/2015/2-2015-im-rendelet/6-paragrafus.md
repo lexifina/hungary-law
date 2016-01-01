@@ -28,10 +28,10 @@ a) közreműködés a szavazólap jóváhagyási folyamatában,
 
 b) a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének kinyomtatása,
 
-c)–d)[^2]
+c) a szavazóköri jegyzőkönyvek adatainak rögzítése,
+
+d) a népszavazás eredményét megállapító jegyzőkönyv összeállításához szükséges ellenőrzési feladatok ellátása és
 
 e) a választások pénzügyi és logisztikai elszámolási feladatai informatikai támogatása.
 
 (6) A választási iroda és a kormányhivatal együttműködik a népszavazási feladatok határidőre történő elvégzése érdekében. A népszavazási feladatok határidőre történő elvégzése elsőbbséget élvez a kormányhivatal egyéb feladataival szemben.
-
-[^2]: A 6. § (5) bekezdés c)–d) pontja a 20. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
