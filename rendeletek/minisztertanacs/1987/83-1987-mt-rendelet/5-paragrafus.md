@@ -1,1 +1,0 @@
-5. § Ez a rendelet 1988. január 1-jén lép hatályba; rendelkezései alapján rokkantsági járadék – az egyéb feltételek megléte esetén – legkorábban ettől az időponttól állapítható meg, illetve folyósítható.
