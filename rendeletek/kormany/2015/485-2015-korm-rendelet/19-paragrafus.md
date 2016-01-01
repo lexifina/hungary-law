@@ -1,0 +1,11 @@
+## 18. § Ha a felettes szerv vagy a bíróság új eljárásra utasítja az elsőfokú adó- és vámhatóságot, az új eljárást – a 65. § (4) bekezdésében foglalt kivétellel – az első fokon eljáró megyei igazgatóság, illetve a Repülőtéri Igazgatóság folytatja le.
+
+19. § (1) A megyei igazgatóság, illetve a Repülőtéri Igazgatóság illetékességi területén kívül az állami adó- és vámhatóság vezetője adott ügyre vonatkozó engedélyével végezhet – a mélységi ellenőrzés és az EMGA utólagos ellenőrzés kivételével – ellenőrzést. Ilyen esetben az ellenőrzést követő elsőfokú hatósági eljárást is ez a megyei igazgatóság folytatja le. Az EMGA utólagos ellenőrzés esetén a Különleges Szolgálat vezetője jelöli ki az EMGA utólagos ellenőrzést, illetve az ehhez kötődő Vtv. 7/Q. §-a szerinti kapcsolódó vizsgálatot lefolytató megyei igazgatóságot.
+
+(2) Az illetékességi területen kívül elvégzendő ellenőrzést a vizsgálattal érintett adózó székhelyén, a központi ügyintézés helyén, telephelyén, illetve a lakóhelyéhez, székhelyéhez, a központi ügyintézés helyéhez, telephelyéhez legközelebb eső hivatali helyiségben, illetve egyéni vállalkozónak nem minősülő magánszemély adózó esetében – kérelmére – a bejelentett tartózkodási helyéhez legközelebb eső hivatali helyiségben kell lefolytatni.
+
+(3) Ha a (2) bekezdés szerinti esetben az adóhatóság az adózót a lakóhelyéhez, székhelyéhez, a központi ügyintézés helyéhez, telephelyéhez legközelebb eső hivatali helyiségébe idézi, és az adózó az adóhatóság idézésében megjelölt helyen és időpontban nem jelent meg, és távolmaradását előzetesen, alapos okkal nem mentette ki vagy nyolc napon belül megfelelően nem igazolta, a továbbiakban az ellenőrzést az ellenőrzést végző adóhatóság a székhelye szerinti hivatali helyiségében folytatja le.
+
+(4) A megyei igazgatóságok az állami adó- és vámhatóság vezetője engedélyével jogosultak végrehajtási eljárás lefolytatására az illetékességi területükön kívül.
+
+(5) Végrehajtási cselekmények foganatosítására a végrehajtást lefolytató megyei igazgatóság az illetékességi területével határos megyei igazgatóság területén az állami adó- és vámhatóság vezetője engedélye nélkül jogosult.

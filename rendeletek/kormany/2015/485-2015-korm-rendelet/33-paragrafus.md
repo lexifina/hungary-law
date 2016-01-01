@@ -1,0 +1,1 @@
+## 32. § Az illetékfizetési kötelezettségre vonatkozó fizetési könnyítés, mérséklés iránti ügyben, illetve végrehajtási ügyekben – ideértve az Art. 151. §-a szerinti visszatartási jog gyakorlását is – az adózó adóügyeiben eljáró megyei igazgatóság jár el.

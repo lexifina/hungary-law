@@ -1,0 +1,1 @@
+## 41. § Az AEO tanúsítvány kiadása, felügyelete, újbóli értékelése, illetve az egyszerűsített engedélyezési eljárás során az AEO tanúsítvány feltételek vizsgálatakor a megyei igazgatóság illetékességi területén kívül is eljárhat.

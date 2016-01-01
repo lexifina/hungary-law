@@ -1,0 +1,1 @@
+## 84. § A Bűnügyi Főigazgatóság főigazgatója egyedi ügyekben a 83. § a) és b) pontjában meghatározott nyomozóhatósági jogkörét a bűnügyi igazgatóságra ruházhatja át, ha ezt a nyomozási cselekmények hatékonyabb elvégzése indokolja.

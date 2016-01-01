@@ -1,0 +1,1 @@
+## 69. § Az AEO tanúsítvány kiadását, felügyeletét, újbóli értékelését, illetve az egyszerűsített engedélyezési eljárás során az AEO tanúsítvány feltételek vizsgálatát azon kiemelt adózók tekintetében, amelyeknek a székhelye Budapest, illetve Pest megye közigazgatási területén található, a KAVIG végzi.

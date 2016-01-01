@@ -1,0 +1,1 @@
+## 42. § A TIR rendelet 4. §-a szerinti feladat ellátására a nemzetközi áruforgalom számára megnyitott határátkelőhelyeken, illetve az ország belterületén működő valamennyi megyei igazgatóság, illetve a Repülőtéri Igazgatóság jogosult.

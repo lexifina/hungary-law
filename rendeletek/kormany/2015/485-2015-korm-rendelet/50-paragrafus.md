@@ -1,0 +1,1 @@
+## 49. § A NAV hatáskörébe tartozó szabálysértések miatt Budapesten az Észak-budapesti Adó- és Vámigazgatóság jár el azzal, hogy a Repülőtéri Igazgatóság illetékességi területén elkövetett szabálysértés esetén az eljárás lefolytatására – ha a szabálysértési eljárás gyorsabb és eredményesebb lefolytatása indokolja – a Repülőtéri Igazgatóság is jogosult.

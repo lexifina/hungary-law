@@ -1,0 +1,1 @@
+## 31. § A megyei igazgatóságoknál indított eljárás tekintetében az Itv. 73. § (3) bekezdése szerinti, az esedékességkor meg nem fizetett eljárási illeték és a mulasztási bírság összegét előíró határozat meghozatalára irányuló eljárásban az a megyei igazgatóság jár el, amelyiknél az eljárás indult, illetve folyamatban van.

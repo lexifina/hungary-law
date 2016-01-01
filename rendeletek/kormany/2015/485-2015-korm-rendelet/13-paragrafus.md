@@ -1,0 +1,1 @@
+## 12. § A jogszabályban meghatározott állami adóhatósági, vámhatósági, valamint állami adó- és vámhatósági hatáskörébe tartozó hatósági ügyekben – a Központi Irányítás, a KAVIG, a Repülőtéri Igazgatóság, valamint a Szakértői Intézet kizárólagos hatáskörébe utalt ügyek kivételével – első fokon a megyei igazgatóságok járnak el.

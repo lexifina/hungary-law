@@ -1,0 +1,1 @@
+## 33. § Az Art. 131. § (1)–(3) bekezdése szerinti soron kívüli adómegállapítás során az illetéket is az adó soron kívüli megállapítására hatáskörrel és illetékességgel rendelkező megyei igazgatóság állapítja meg.

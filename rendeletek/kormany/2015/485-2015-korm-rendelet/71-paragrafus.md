@@ -1,0 +1,1 @@
+## 70. § A Rega. tv.-ben meghatározott adóztatási feladatok végrehajtására elsőfokú adóhatósági jogkörben a KAVIG jár el azon kiemelt adózók tekintetében, amelyeknek a székhelye Budapest, illetve Pest megye közigazgatási területén található.
