@@ -41,3 +41,19 @@ a) az (1) bekezdés a) pontjában meghatározott esetben az ország alkalmankén
 b) az (1) bekezdés b) pontjában meghatározott esetben az Európai Unió tagállamai területének alkalmanként tizenkét hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások együttes időtartama öt év alatt nem haladja meg a tizennyolc hónapot.
 
 (7) Amennyiben a harmadik országbeli állampolgár az Európai Unió más tagállamában kiállított huzamos tartózkodási engedéllyel rendelkezik, az idegenrendészeti hatóság az EK letelepedési engedély kiadásáról az érintett tagállamot értesíti.
+
+(8) Az EK letelepedési engedély iránti kérelmet
+
+a) az első fokon eljáró hatóság hetven,
+
+b) a másodfokon eljáró hatóság harminc
+
+napon belül bírálja el.
+
+(9) Az EK letelepedési engedély kiadása iránti eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+
+a) az elsőfokú eljárásban harminc,
+
+b) a másodfokú eljárásban húsz,
+
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az ügyintézési határidőbe beleszámít.

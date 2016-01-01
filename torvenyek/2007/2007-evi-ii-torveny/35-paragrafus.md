@@ -25,3 +25,19 @@ g) bevándorolt, letelepedett, illetve menekültként elismert harmadik országb
 (4) A menekültügyi hatóság által menekültként elismert harmadik országbeli állampolgár a nemzeti letelepedési engedélyt tartózkodási vízum vagy tartózkodási engedély hiányában is kérelmezheti.
 
 (5) Nem kaphat nemzeti letelepedési engedélyt az a harmadik országbeli állampolgár, aki büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült.
+
+(6) A nemzeti letelepedési engedély iránti kérelmet
+
+a) az első fokon eljáró hatóság hetven,
+
+b) a másodfokon eljáró hatóság harminc
+
+napon belül bírálja el.
+
+(7) A nemzeti letelepedési engedély kiadása iránti eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+
+a) az elsőfokú eljárásban harminc,
+
+b) a másodfokú eljárásban húsz
+
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az ügyintézési határidőbe beleszámít.

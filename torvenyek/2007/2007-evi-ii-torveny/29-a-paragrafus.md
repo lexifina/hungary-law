@@ -46,7 +46,7 @@ j) arra a harmadik országbeli állampolgárra, akinek tartózkodási célja tan
 
 k) arra a harmadik országbeli állampolgárra, aki a 7/A. § alapján keresőtevékenységet folytathat.
 
-(5) Ha a tartózkodási engedély kiadása és meghosszabbítása összevont kérelmezési eljárás keretében történik, az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított kilencven napon belül hozza meg.
+(5) Ha a tartózkodási engedély kiadása és meghosszabbítása összevont kérelmezési eljárás keretében történik, az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított hetven napon belül hozza meg.
 
 (6) Az idegenrendészeti hatóság az (1)–(3) bekezdés szerinti eljárásban a tartózkodási engedélyt összevont engedélyként állítja ki.
 

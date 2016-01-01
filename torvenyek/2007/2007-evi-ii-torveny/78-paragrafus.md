@@ -13,3 +13,5 @@ b) kérelmét írásban visszavonja;
 c) a személyes meghallgatáson ismételt írásbeli felhívásra nem jelenik meg, és távolmaradását kimenteni nem tudja;
 
 d) ismeretlen helyre távozott, és ezzel az eljárás lefolytatását meghiúsította.
+
+(3) A hontalanság elismerésére irányuló kérelem tárgyában az eljáró hatóság negyvenöt napon belül dönt.

@@ -18,7 +18,9 @@ g) a kiadott (meghosszabbított) vízum száma, érvényességi ideje, valamint 
 
 h) a be- és kiutazás ideje, a határátlépés helye, következő szokásos tartózkodási hely szerinti országa;
 
-i) a szálláshely címe.
+i) a szálláshely címe;
+
+j) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság vízumkérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) vízum esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
 

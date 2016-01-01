@@ -12,6 +12,8 @@ e) az ideiglenes tartózkodásra jogosító igazolás meghosszabbítása, valami
 
 f) a kiadott (meghosszabbított) ideiglenes tartózkodásra jogosító igazolás száma, sorozatszáma, érvényességi ideje;
 
-g) a szálláshely címe.
+g) a szálláshely címe;
+
+h) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a kiadott (meghosszabbított) ideiglenes tartózkodásra jogosító igazolás érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
