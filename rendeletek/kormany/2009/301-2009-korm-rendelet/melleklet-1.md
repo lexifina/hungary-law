@@ -1,4 +1,4 @@
-## 20. §[^11]
+## 20. §[^12]
 
 1. melléklet a 301/2009. (XII. 22.) Korm. rendelethez
 
@@ -72,7 +72,7 @@ Ismernie kell:
 
 – az iratkezelés, irattározás szabályait,
 
-–[^12] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
+–[^13] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
 
 – az okmányokkal kapcsolatos jogosultságokat.
 
@@ -154,5 +154,5 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
 
-[^11]: A 20. §-t a (4) bekezdés hatályon kívül helyezte.
-[^12]: Az 1. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
+[^12]: A 20. §-t a (4) bekezdés hatályon kívül helyezte.
+[^13]: Az 1. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
