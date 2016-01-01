@@ -1,3 +1,3 @@
-## 9. §[^1]
+10. §[^4]
 
-[^1]: A 9. §-t és az azt megelőző alcímet a 6/2007. (III. 2.) IRM rendelet 1. §-a hatályon kívül helyezte.
+[^4]: A 10. §-t és az azt megelőző alcímet a 6/2007. (III. 2.) IRM rendelet 1. §-a hatályon kívül helyezte.

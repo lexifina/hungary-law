@@ -10,7 +10,7 @@
 
 (5) Az alárendelt a parancs tudomásulvételét és megértését ,,értettem'' szóval jelenti. Indokolt esetben az elöljáró köteles meggyőződni arról, hogy az alárendelt pontosan megértette a parancsot. Távbeszélőn adott parancsnál a parancsadó jogosultságáról kétség esetén visszahívással kell meggyőződni.
 
-(6) A parancsot – a fegyveres szervek hivatásos állományának szolgálati viszonyáról szóló 1996. évi XLIII. törvény 68. és 69. §-aiban foglaltak megtartásával – ellentmondás és feltétel nélkül, szakszerűen, kellő időben, pontosan kell végrehajtani. A parancs teljesítését a parancsot adó elöljárónak jelenteni kell.
+(6)[^2] A parancsot – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 103. §-ában foglaltak megtartásával – ellentmondás és feltétel nélkül, szakszerűen, kellő időben, pontosan kell végrehajtani. A parancs teljesítését a parancsot adó elöljárónak jelenteni kell.
 
 (7) Ha a parancs teljesítésének az elöljáró előtt ismeretlen akadálya van, az alárendelt köteles ezt a parancsot adó elöljárónak haladéktalanul jelenteni. Ha az elöljáró a parancsot a jelentés után megismétli, azt vonakodás nélkül végre kell hajtani, illetve, ha az akadály nem hárítható el, haladék nélkül jelenteni kell az elöljárónak.
 
@@ -19,3 +19,5 @@
 (9) Ha a parancs végrehajtását másik elöljáró parancsa akadályozná, az alárendelt az előzőleg kapott parancsot köteles jelenteni. Ha az elöljáró ennek ellenére parancsát fenntartja, azt teljesíteni kell. Az utóbbi parancs teljesítését követően az első parancs végrehajtását meg kell kezdeni, illetve folytatni kell.
 
 (10) Az első parancs teljesítésének elmulasztásáért, késedelmes teljesítéséért az új parancsot adó elöljárót terheli a felelősség. Az, aki az újabb parancsot adta, értesítse erről az előző parancsot adó elöljárót. A parancs végrehajtását mindkét elöljárónak jelenteni kell.
+
+[^2]: A 8. § (6) bekezdése a 76/2015. (XII. 22.) BM rendelet 2. § a) pontja szerint módosított szöveg.

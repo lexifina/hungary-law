@@ -14,4 +14,6 @@
 
 (7) A bv. szerv területére idegen lőfegyvert bevinni tilos, azt az erre kijelölt tároló helyiségben le kell adni, nyilvántartásba vételéről és biztonságos tárolásáról gondoskodni kell.
 
-(8) A (7) bekezdés tekintetében nem minősül idegen lőfegyvernek a védett személyek biztosítását ellátó, valamint a rendkívüli esemény felszámolásában közreműködő más fegyveres szerv hivatásos állományú tagja által viselt fegyver.
+(8)[^5] A (7) bekezdés tekintetében nem minősül idegen lőfegyvernek a védett személyek biztosítását ellátó, valamint a rendkívüli esemény felszámolásában közreműködő Magyar Honvédség vagy más rendvédelmi feladatokat ellátó szerv hivatásos állományú tagja által viselt fegyver.
+
+[^5]: A 12. § (8) bekezdése a 76/2015. (XII. 22.) BM rendelet 2. § b) pontja szerint módosított szöveg.
