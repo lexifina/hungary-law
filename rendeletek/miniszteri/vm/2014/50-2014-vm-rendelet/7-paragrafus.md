@@ -2,7 +2,7 @@
 
 7. § (1) A szalmonellózis tekintetében a pénzügyi hozzájárulás a 2013/722/EU bizottsági végrehajtási határozat 6. cikkével elfogadott nemzeti program szerinti baromfiállományokból történő hatósági mintavétel költségeire, az ennek keretében elvégzett bakteriológiai vizsgálatok, antimikrobiális gátló hatásra irányuló vizsgálatok és a szerotipizálás költségeire, a felszámolásra került állatok értékéért az állattartó részére fizetendő kárenyhítésre, az oltóanyagok beszerzésére, valamint a fertőtlenítés hatékonyságának ellenőrzésére végzett hatósági laboratóriumi vizsgálatok költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra összesen 3 880 000 EUR-nak megfelelő forintösszeg.
 
-(2)[^5] A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult 75 500 EUR-nak megfelelő forint keretösszegig:
+(2)[^6] A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult 75 500 EUR-nak megfelelő forint keretösszegig:
 
 a) a hatósági mintavétel keretében végzett bakteriológiai vizsgálatok és szerotipizálások;
 
@@ -24,7 +24,7 @@ d) a szalmonellafertőzöttség szempontjából vizsgált állományokból szár
 
 megfelelő forintösszeget.
 
-(4)[^6] A pénzügyi hozzájárulás igénybevételére az a) és b) pont esetében a megyei kormányhivatal, a c) pont esetében a megyei kormányhivatal és a NÉBIH jogosult 3 804 500 EUR-nak megfelelő forint keretösszegig:
+(4)[^7] A pénzügyi hozzájárulás igénybevételére az a) és b) pont esetében a megyei kormányhivatal, a c) pont esetében a megyei kormányhivatal és a NÉBIH jogosult 3 804 500 EUR-nak megfelelő forint keretösszegig:
 
 a) az állattartónak a megyei kormányhivatal által a fertőzött tojó- vagy tenyészállomány felszámolása érdekében elrendelt állatleölés (leöletés) vagy elkülönített vágás, tojásártalmatlanítás vagy nem keltetett tenyésztojás hőkezelése következtében keletkezett kára enyhítéséhez,
 
@@ -32,7 +32,7 @@ b) az állattartónak a tenyész- és tojóállományokban a hatóság által j�
 
 c) a baromfiállományból való hatósági mintavételhez.
 
-(5)[^7] A megyei kormányhivatalok a (4) bekezdés a) és b) pontja szerinti pénzügyi hozzájárulást csak olyan állattartónak történt kifizetést követően igényelhetik, aki a NÉBIH által rendszeresített és a honlapján közzétett, az 1. melléklet szerinti adattartalmú kérelmet benyújtja a telephely szerint illetékes megyei kormányhivatalhoz, és
+(5)[^8] A megyei kormányhivatalok a (4) bekezdés a) és b) pontja szerinti pénzügyi hozzájárulást csak olyan állattartónak történt kifizetést követően igényelhetik, aki a NÉBIH által rendszeresített és a honlapján közzétett, az 1. melléklet szerinti adattartalmú kérelmet benyújtja a telephely szerint illetékes megyei kormányhivatalhoz, és
 
 a) eleget tett
 
@@ -86,6 +86,6 @@ h) baromfiállományokból való mintavétel esetén állományonként, mintavé
 
 (11) E § alkalmazásában a számlák teljesítési dátuma a (9) bekezdés g) pontja esetében a vakcina beadásának, illetve felhasználásának időpontja, a (9) bekezdés a)-f) pontja tekintetében pedig a felszámolás, illetve ártalmatlanítás időpontja.
 
-[^5]: A 7. § (2) bekezdése az 50/2015. (VIII. 17.) FM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^6]: A 7. § (4) bekezdése az 50/2015. (VIII. 17.) FM rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^7]: A 7. § (5) bekezdés nyitó szövegrésze az 50/2015. (VIII. 17.) FM rendelet 15. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 7. § (2) bekezdése az 50/2015. (VIII. 17.) FM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^7]: A 7. § (4) bekezdése az 50/2015. (VIII. 17.) FM rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^8]: A 7. § (5) bekezdés nyitó szövegrésze az 50/2015. (VIII. 17.) FM rendelet 15. § (6) bekezdés c) pontja szerint módosított szöveg.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-50-20-2
 | 2014-08-01 | 2014-50-20-2Y.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-08-02 | 2014-50-20-2Y.4 | 2010: CXXX. törvény |
 | 2015-08-20 | 2014-50-20-2Y.5 | 50/2015. (VIII. 17.) FM rendelet |
+| 2016-01-01 | 2014-50-20-2Y.6 | 95/2015. (XII. 23.) FM rendelet |

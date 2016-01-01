@@ -1,8 +1,8 @@
 10. § (1) A TSE (BSE és súrlókór) tekintetében a pénzügyi hozzájárulás a 2013/722/EU bizottsági végrehajtási határozat 10. cikkével elfogadott nemzeti programok szerinti gyorstesztek, a megerősítő- és diszkriminatív elsődleges molekuláris vizsgálatok költségeire, valamint a genotípus vizsgálatok költségére vehető igénybe. A keretösszeg a végrehajtási időszakra 660 000 EUR-nak megfelelő forintösszeg.
 
-(2) A genotípus vizsgálatok esetében a pénzügyi hozzájárulás igénybevételére a Magyar Juh- és Kecsketenyésztő Szövetség jogosult 105 000 EUR-nak megfelelő forint keretösszegig.
+(2)[^11] A genotípus vizsgálatok esetében a pénzügyi hozzájárulás igénybevételére a Magyar Juh- és Kecsketenyésztő Szövetség jogosult 131 175 EUR-nak megfelelő forint keretösszegig.
 
-(3) A gyorstesztek, a megerősítő- és a diszkriminatív elsődleges molekuláris vizsgálatok esetében a pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult, 555 000 EUR-nak megfelelő forint keretösszegig.
+(3)[^12] A gyorstesztek, a megerősítő- és a diszkriminatív elsődleges molekuláris vizsgálatok esetében a pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult, 528 825 EUR-nak megfelelő forint keretösszegig.
 
 (4) A pénzügyi hozzájárulás mértéke az igazolt költségek 100%-a, de a maximális átalányösszeg nem haladhatja meg:
 
@@ -21,3 +21,6 @@ f) genotipizálási vizsgálatokra vizsgálatonként átlagosan legfeljebb a 15 
 megfelelő forintösszeget.
 
 (5) A pénzügyi hozzájárulás kifizetését igénylő kérelemhez csatolni kell a tárgyidőszakban a kapcsolódó költségeket igazoló számlákról készült, a 3. melléklet szerinti adattartalmú összesítő kimutatást.
+
+[^11]: A 10. § (2) bekezdése a 95/2015. (XII. 23.) FM rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 10. § (3) bekezdése a 95/2015. (XII. 23.) FM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
