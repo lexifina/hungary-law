@@ -1,30 +1,20 @@
-## Rendőrség szakhatósági eljárása[^232]
+## Rendőrség szakhatósági eljárása[^235]
 
-97/A. §[^233] (1)[^234] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország közbiztonságát – elsőfokon a megyei rendőr-főkapitányságot, másodfokon az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
+97/A. §[^236] (1)[^237] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország közbiztonságát – elsőfokon a megyei rendőr-főkapitányságot, másodfokon az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
 
 (2) A regionális igazgatóság az ideiglenes letelepedési engedély első ízben történő kiadása, a nemzeti letelepedési engedély vagy az EK letelepedési engedély iránti kérelmet benyújtó harmadik országbeli állampolgár központi idegenrendészeti nyilvántartásban kezelt adatait továbbítja a jövőbeni lakóhely szerint illetékes megyei rendőr-főkapitányság részére. Az illetékes megyei rendőr-főkapitányság megkeresésére a regionális igazgatóság a kérelemhez csatolt okiratokba betekintést biztosít, illetve azokról másolatot készít.
 
-(3) A megyei rendőr-főkapitányság a szakhatósági állásfoglalását
-
-a) ideiglenes letelepedési engedély iránti kérelem esetén húsz napon belül,
-
-b) nemzeti letelepedési engedély vagy EK letelepedési engedély iránti kérelem esetén negyvenöt napon belül
-
-adja meg a regionális igazgatóságnak.
+(3)[^238]
 
 (4) Ha a szakhatósági állásfoglalás megküldését követően a harmadik országbeli állampolgárra vonatkozóan a szakhatóság érdekkörében olyan adat merül fel, amely a korábbi szakhatósági hozzájárulás visszavonását indokolja, a szakhatóság új szakhatósági állásfoglalását a regionális igazgatóságnak haladéktalanul megküldi.
 
-(5) A fellebbezéssel megtámadott szakhatósági vélemény tekintetében másodfokon az Országos Rendőr-főkapitányság jár el. A szakhatósági állásfoglalását
+(5)[^239]
 
-a) ideiglenes letelepedési engedély iránti kérelem esetén tizenöt napon belül,
+(6)[^240]
 
-b) nemzeti letelepedési engedély vagy EK letelepedési engedély iránti kérelem esetén húsz napon belül
-
-## adja meg a Hivatalnak.
-
-(6)[^235] Az e § szerinti szakhatóság eljárásának időtartama az ügyintézési határidőbe beleszámít.
-
-[^232]: A 97/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
-[^233]: A 97/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
-[^234]: A 97/A. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^235]: A 97/A. § (6) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 18. §-a iktatta be.
+[^235]: A 97/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
+[^236]: A 97/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
+[^237]: A 97/A. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^238]: A 97/A. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^239]: A 97/A. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^240]: A 97/A. § (6) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 18. §-a iktatta be, , hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 91. § d) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

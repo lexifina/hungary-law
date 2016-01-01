@@ -6,7 +6,7 @@
 
 (2)[^190] A Kormány az összevont kérelmezési eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár magyarországi munkavállalását támogatja-e – elsőfokú eljárásban a munkavégzés helye szerint illetékes kormányhivatalt, másodfokú eljárásban a foglalkoztatáspolitikáért felelős minisztert szakhatóságként jelöli ki.
 
-(3)[^191] A kormányhivatal a harmadik országbeli állampolgár magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a kormányhivatalnak az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgár magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló kormányrendelet szerint kialakított szakhatósági állásfoglalását – a (4) bekezdésben meghatározott kivétellel – huszonegy napon belül adja meg a regionális igazgatóságnak.
+(3)[^191]
 
 (4)[^192] Amennyiben a harmadik országbeli állampolgár Magyarország területén foglalkoztatásra irányuló jogviszony keretében történő foglalkoztatása engedélyezési kötelezettség alól mentes, vagy a foglalkoztatásához nem kerül sor munkaerőpiaci helyzet vizsgálatára, a kormányhivatal a szakhatósági állásfoglalását tíz napon belül adja meg a regionális igazgatóságnak.
 
@@ -24,5 +24,5 @@
 [^188]: A 72/H. §-t megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
 [^189]: A 72/H. §-t a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
 [^190]: A 72/H. § (2) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 7. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 101. § e) pontja szerint módosított szöveg.
-[^191]: A 72/H. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 101. § d) és f) pontja szerint módosított szöveg.
+[^191]: A 72/H. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^192]: A 72/H. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 101. § d) pontja szerint módosított szöveg.
