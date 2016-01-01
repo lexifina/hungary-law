@@ -14,7 +14,7 @@ c) kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más 
 
 (4) Az EU ETS hitelesítő szakértő egyidejűleg csak egyetlen hitelesítő szervezettel létesíthet munkaviszonyt vagy foglalkoztatásra irányuló egyéb jogviszonyt.
 
-(5) A (2)–(4) bekezdésben meghatározott összeférhetetlenséget annak felmerülésétől számított 25 napon belül be kell jelenteni a Testületnek, és a felmerüléstől számított 45 napon belül meg kell szüntetni és a megszüntetésről a Testületet egyidejűleg tájékoztatni kell.
+(5)[^12] A (2)–(4) bekezdésben meghatározott összeférhetetlenséget annak felmerülésétől számított 25 napon belül be kell jelenteni az akkreditáló szervnek, és a felmerüléstől számított 45 napon belül meg kell szüntetni és a megszüntetésről az akkreditáló szervet egyidejűleg tájékoztatni kell.
 
 (6) A (2) bekezdés a) pontja szerinti összeférhetetlen üzleti kapcsolatnak minősül, ha
 
@@ -35,3 +35,5 @@ b) a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági 
 c) a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója vagy az EU ETS hitelesítő szakértő és a más hitelesítő szervezet, nyilvántartásba vett más tagállamban akkreditált hitelesítő szervezet vagy kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezet és azok vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója között a hitelesítési tevékenység függetlenségének befolyásolására alkalmas egyéb jogviszony áll fenn.
 
 (8) Hitelesítő szervezet hitelesítési tevékenységet legalább két, a hitelesítő szakterületére vonatkozó szaktudással rendelkező, a hitelesítővel munkaviszonyban vagy egyéb foglalkoztatási jogviszonyban álló EU ETS hitelesítő szakértő útján végezhet.
+
+[^12]: A 7. § (5) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § i) és j) pontja szerint módosított szöveg.
