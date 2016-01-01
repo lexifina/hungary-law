@@ -1,3 +1,3 @@
 8. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^22]
 
-[^22]: A 8. melléklet a 305/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 149. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^22]: A 8. melléklet a 375/2015. (XII. 3.) Korm. rendelet 5. § (8) bekezdésével megállapított, a 417/2015. (XII. 23.) Korm. rendelet 36. § b–c) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 36. § c) pontjával elrendelt módosítás, amely szerint a 8. melléklet „Országos Statisztikai Adatgyűjtési Program Adatkörök” rész 1915. pontjában a „Gyermekgondozási segélyen lévők” szövegrész helyébe a „Gyermekgondozást segítő ellátásban részesülők” szöveg lép, nem vezethető át.]
