@@ -1,0 +1,3 @@
+14. § (1) A biztosító vagy a viszontbiztosító a biztosítástechnikai tartalék számításánál köteles megfelelő mennyiségű és minőségű adatot használni. Ennek érdekében a biztosító belső folyamatokat és eljárásokat működtet.
+
+(2) Ha egyedi körülményei miatt a biztosító vagy viszontbiztosító biztosítási és viszontbiztosítási kötelezettségeinek egy csoportja vagy részcsoportja, vagy a viszontbiztosítási szerződésekből és különleges célú gazdasági egységekből eredő megtérüléseinek tekintetében nem rendelkezik megfelelő mennyiségű és minőségű adattal megbízható aktuáriusi módszerek alkalmazásához, akkor a legjobb becslés számításához megfelelő közelítés – beleértve a tételes tartalékképzést, mint megközelítést – alkalmazható.

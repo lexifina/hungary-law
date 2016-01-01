@@ -1,5 +1,3 @@
-## 54. §[^10]
-
 ## IV. Fejezet
 
 ## A BIZTOSÍTÁSTECHNIKAI TARTALÉKOKKAL, A SZAVATOLÓTŐKÉVEL, A MINIMÁLIS TŐKESZÜKSÉGLETTEL ÉS A TÖBBLETTŐKE-KÖVETELMÉNNYEL KAPCSOLATOS FELÜGYELETI SZABÁLYOK
@@ -13,5 +11,3 @@
 (3) A Felügyelet csak abban az esetben hagyja jóvá a kérelmet, ha meggyőződik arról, hogy a biztosító vagy viszontbiztosító kockázatazonosítási, kockázatmérési, kockázatfelügyeleti, kockázatkezelési és kockázatjelentési rendszerei megfelelőek, különös tekintettel a belső modellekre vonatkozó, az (1) és (2) bekezdésben meghatározott követelményekre.
 
 (4) Ha a belső modell alkalmazását a Felügyelet már engedélyezte, az nem zárja ki annak a lehetőségét, hogy a Felügyelet kötelezze a biztosítót vagy viszontbiztosítót, hogy a szavatolótőke-szükségletének standard formulával számított becslését is bocsássa rendelkezésére.
-
-[^10]: Az 54. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.

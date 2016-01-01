@@ -1,5 +1,7 @@
-## 90. §[^21]
-
 ## 34. A kockázatmentes hozamgörbére és a biztosítástechnikai tartalékokra vonatkozó átmeneti rendelkezésekkel kapcsolatos fokozatos bevezetési terv
 
-[^21]: A 90. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+91. § (1) A 87–88. §-ban megállapított átmeneti rendelkezéseket alkalmazó biztosító és viszontbiztosító amint észleli, hogy az átmeneti rendelkezések alkalmazása nélkül nem fog tudni eleget tenni a szavatolótőke-szükségletnek, tájékoztatja a Felügyeletet. A Felügyelet előírja a biztosítónak vagy viszontbiztosítónak, hogy tegye meg a szükséges intézkedéseket a szavatolótőke-szükségletnek való megfelelés átmeneti időszak végén történő biztosítása érdekében.
+
+(2) A szavatolótőke-szükségletnek a 87–88. §-ban megállapított átmeneti rendelkezések alkalmazása nélkül történő nem megfelelés észlelésétől számított két hónapon belül a biztosító vagy viszontbiztosító fokozatos bevezetési tervet nyújt be a Felügyelet részére, amelyben ismerteti a szavatolótőke-szükséglet fedezésére szolgáló figyelembe vehető szavatolótőke szintjének létrehozására vagy kockázati profiljának csökkentésére irányuló tervezett intézkedéseket a szavatolótőke-szükségletnek az átmeneti időszak végére történő megfelelés biztosítása érdekében. A biztosító vagy viszontbiztosító az átmeneti időszak során frissítheti a fokozatos bevezetési tervet.
+
+(3) A biztosító vagy viszontbiztosító évente jelentést nyújt be a Felügyelet részére a szavatolótőke-szükségletnek az átmeneti időszak végére történő megfelelés biztosítása érdekében tett intézkedésekről és az ez irányba történő előrelépésről. A Felügyelet visszavonja a 87–88. §-ban megállapított átmeneti rendelkezések alkalmazására vonatkozó jóváhagyást, amennyiben az eredményjelentés alapján a szavatolótőke-szükséglet átmeneti időszak végére történő megfelelésének megvalósulása nem realisztikus.

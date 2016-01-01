@@ -1,8 +1,8 @@
-92/B. §[^25] (1) Az illeszkedési kiigazítás számítása valamennyi pénznem esetében a következő alapelvekkel összhangban történik:
+10. §[^6] (1) Az illeszkedési kiigazítás számítása valamennyi pénznem esetében a következő alapelvekkel összhangban történik:
 
 a) az illeszkedési kiigazítás az alábbiak különbözetével egyenlő:
 
-aa) az egyetlen diszkontrátaként kiszámított éves effektív kamatláb, amely a biztosítási vagy viszontbiztosítási szerződésből eredő kötelezettségek pénzáramaira alkalmazva a hozzárendelt eszközportfóliónak a 92/C. §-a szerinti értékével megegyező értéket eredményez,
+aa) az egyetlen diszkontrátaként kiszámított éves effektív kamatláb, amely a biztosítási vagy viszontbiztosítási szerződésből eredő kötelezettségek pénzáramaira alkalmazva a hozzárendelt eszközportfóliónak a Bit. 96. §-a szerinti értékével megegyező értéket eredményez,
 
 ab) az egyetlen diszkontrátaként kiszámított éves effektív kamatláb, amely a biztosítási vagy viszontbiztosítási szerződésből eredő kötelezettségek pénzáramaira alkalmazva a biztosítási vagy viszontbiztosítási szerződésből eredő kötelezettségek legjobb becslés szerinti értékével megegyező értéket eredményez, figyelembe véve – az alapvető kockázatmentes hozamgörbe alkalmazásával – az időértéket is,
 
@@ -28,4 +28,4 @@ c) a tagállamok központi kormányaival vagy központi bankjaival szembeni kite
 
 (4) Amennyiben a nemteljesítési statisztika alapján nem számolható ki megbízható kamatkülönbözet, a kamatkülönbözet a (2) bekezdés b) és c) pontjai szerinti kockázatmentes kamatláb fölötti kamatkülönbözet hosszú távon vett átlagának részösszegével egyenlő.
 
-[^25]: A 92/B. §-t a 346/2015. (XI. 19.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 10. § a 295/2015. (X. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
