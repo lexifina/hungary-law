@@ -1,0 +1,3 @@
+A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 81. § d) pontjában kapott felhatalmazás alapján,
+
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 10. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
