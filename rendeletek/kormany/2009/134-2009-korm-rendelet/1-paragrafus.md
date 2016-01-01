@@ -18,7 +18,7 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 3. emeletráépítés: meglévő épület – belső falsíkon mért legalább 1,90 métert elérő – épületmagasítással járó, függőleges irányú bővítése új építményszint létesítése érdekében,
 
-4.[^3] hitelintézet: magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet, valamint a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.) foglaltaknak megfelelően, vagy jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvényben foglaltaknak megfelelően, illetve a biztosítóintézet a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben foglaltaknak megfelelően,
+4.[^3] hitelintézet: magyarországi székhellyel vagy fiókteleppel rendelkező hitelintézet, valamint a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.) foglaltaknak megfelelően, vagy jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvényben foglaltaknak megfelelően,
 
 5.[^4] támogatott személy: aki
 
@@ -40,9 +40,21 @@ e) özvegy bejegyzett élettárs vagy
 
 f) elvált bejegyzett élettárs,
 
-7. komfortos lakás: a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. § 3. pontjában meghatározott lakás,
+7.[^6] komfortos lakás: az a lakás, amely legalább
 
-8.[^6] korszerűsítés: a lakás használatának javítása céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, illetve belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, központosított fűtés kialakítása vagy cseréje, beleértve a megújítható energiaforrások (pl. napenergia) alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, illetve vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos nyílászárókra való cseréje, tető cseréje, felújítása, szigetelése, a korszerűsítés része az ehhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20%-áig,
+a) egy 12 négyzetmétert meghaladó alapterületű lakószobával,
+
+b) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 8. § (2) bekezdése szerinti teljes vagy részleges közművesítettséggel,
+
+c) közüzemi vagy közcélú szolgáltatással igénybe vehető ivóvízellátással,
+
+d) melegvíz-ellátással, és
+
+e) egyedi fűtési móddal
+
+## rendelkezik,
+
+8.[^7] korszerűsítés: a lakás használatának javítása céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, illetve belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, központosított fűtés kialakítása vagy cseréje, beleértve a megújítható energiaforrások (pl. napenergia) alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, illetve vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos nyílászárókra való cseréje, tető cseréje, felújítása, szigetelése, a korszerűsítés része az ehhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20%-áig,
 
 9. fiatal: az a háztartásában legfeljebb egy gyermeket nevelő személy, aki
 
@@ -62,9 +74,9 @@ a) a 16. életévét még nem töltötte be,
 
 b) a 16. életévét már betöltötte, de oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem érte el,
 
-c)[^7] a 16. életévét már betöltötte, de megváltozott munkaképességű személy, és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg,
+c)[^8] a 16. életévét már betöltötte, de megváltozott munkaképességű személy, és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg,
 
-12.[^8] eltartott: az építtető, vásárló eltartottjának minősül
+12.[^9] eltartott: az építtető, vásárló eltartottjának minősül
 
 a) a gyermek,
 
@@ -86,9 +98,9 @@ c) az építtetőnek (vásárlónak) vagy házastársának, illetve bejegyzett �
 
 14. állampapírhozam:
 
-a)[^9] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+a)[^10] a változó vagy a legfeljebb egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
-b)[^10] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
+b)[^11] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott ötéves névleges futamidejű államkötvény aukcióin kialakult – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga,
 
 15. referenciahozam: az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga,
 
@@ -118,29 +130,47 @@ j) a telek ára,
 
 18. ügyleti kamat: a támogatott által fizetendő, a kamattámogatással csökkentett ellenszolgáltatás,
 
-19.[^11] megváltozott munkaképességű személy: az a személy, aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket,
+19.[^12] megváltozott munkaképességű személy: az a személy, aki munkaképességét legalább 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket,
 
-20.[^12] nem támogatott személy hiteladós: az e rendelet szerinti kamattámogatással érintett kölcsönszerződés olyan adóstársa, aki a támogatott személyek legalább egyikének a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozója és a (7) bekezdés szerinti feltételeket teljesíti,
+20.[^13] nem támogatott személy hiteladós: az e rendelet szerinti kamattámogatással érintett kölcsönszerződés olyan adóstársa, aki a támogatott személyek legalább egyikének a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozója és a (7) bekezdés szerinti feltételeket teljesíti,
 
-21.[^13] igénylő: olyan támogatott személy, aki az e rendelet szerinti kamattámogatás igénybevétele iránt kérelmet nyújtott be a hitelintézethez, azonban a kamattámogatással érintett kölcsönszerződésének megkötésére még nem került sor,
+21.[^14] igénylő: olyan támogatott személy, aki az e rendelet szerinti kamattámogatás igénybevétele iránt kérelmet nyújtott be a hitelintézethez, azonban a kamattámogatással érintett kölcsönszerződésének megkötésére még nem került sor,
 
-22.[^14] lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel,
+22.[^15] lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel,
 
-23.[^15] kormányhivatal: amennyiben e rendelet eltérően nem rendelkezik, a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes megyei kormányhivatal, Pest megye vagy a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala.
+23.[^16] kormányhivatal: amennyiben e rendelet eltérően nem rendelkezik, a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes megyei kormányhivatal, Pest megye vagy a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala,
 
-(3) Az e rendeletben meg nem határozott fogalmakat a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvényben, illetve az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottak szerint kell értelmezni.
+24.[^17] összkomfortos lakás: az a lakás, amely legalább
+
+a) egy 12 négyzetmétert meghaladó alapterületű lakószobával,
+
+b) az OTÉK 8. § (2) bekezdése szerinti teljes közművesítettséggel,
+
+c) közüzemi vagy közcélú szolgáltatással igénybe vehető ivóvízellátással,
+
+d) melegvíz-ellátással, és
+
+e) központi fűtési móddal
+
+## rendelkezik.
+
+25.[^18] építési engedély: új lakás építése esetén az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti építési engedély vagy az építésügyi hatóság által kiállított dokumentum arról, hogy az egyszerű bejelentéshez kötött építési tevékenység bejelentése megtörtént, valamint építési engedélyköteles bővítés esetén az építési engedély;
+
+26.[^19] használatbavétel tudomásulvétele: a használatbavétel tudomásulvétele vagy a felépítés megtörténtének hatósági bizonyítvánnyal való tanúsítása.
+
+(3)[^20] Az e rendeletben meg nem határozott fogalmakat a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvényben, az Étv.-ben, illetve az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottak szerint kell értelmezni.
 
 (4) A kamattámogatások igénybevételének jogszerűségét
 
 a) a 7. § (1) bekezdés b) pont bb) alpontjában, (7) és (9) bekezdésében meghatározott esetben az adózás rendjéről szóló törvény rendelkezései alapján az állami adóhatóság,
 
-b)[^16] az a) pont hatálya alá nem tartozó esetekben a kormányhivatal
+b)[^21] az a) pont hatálya alá nem tartozó esetekben a kormányhivatal
 
 ## ellenőrzi.
 
 (5) Nem minősül új lakás felépítésének meglévő épület, épületrész vagy építmény átalakítása.
 
-(6)[^17] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
+(6)[^22] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
 
 a) a magyar állampolgár,
 
@@ -152,7 +182,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkezik.
 
-(7)[^18] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
+(7)[^23] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
 
 a) nyilatkozik és vállalja az 5. § (1) bekezdésben foglaltakat és
 
@@ -162,21 +192,29 @@ ba) a kölcsönszerződés lejártáig nem támogatott személy hiteladósként 
 
 bb) az e rendelet szerinti kamattámogatásos kölcsönnel érintett lakásban lakóhelyet nem létesít.
 
+c)[^24] hozzájárul ahhoz, hogy természetes személyazonosító adatait, adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a kormányhivatal és a Magyar Államkincstár (a továbbiakban: Kincstár) részére
+
 [^1]: Az 1. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés 1. pont a) alpontja a 128/2013. (IV. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdés 4. pontja az 537/2013. (XII. 30.) Korm. rendelet 51. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés 4. pontja az 537/2013. (XII. 30.) Korm. rendelet 51. § a) pontja, a 46/2015. (III. 12.) Korm. rendelet 8. § b) pont ba) alpontja szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés 5. pontja a 128/2013. (IV. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (2) bekezdés 5. pont a) alpontja az 537/2013. (XII. 30.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
-[^6]: Az 1. § (2) bekezdés 8. pontja az 537/2013. (XII. 30.) Korm. rendelet 51. § c) pontja szerint módosított szöveg.
-[^7]: A 1. § (2) bekezdés 11. pont c) alpontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^8]: A 1. § (2) bekezdés 12. pontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^10]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^11]: A 1. § (2) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^12]: Az 1. § (2) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
-[^13]: Az 1. § (2) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
-[^14]: Az 1. § (2) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
-[^15]: Az 1. § (2) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 136. § (1) bekezdése iktatta be.
-[^16]: Az 1. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 136. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^17]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^18]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (2) bekezdés 7. pontja a 455/2015. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (2) bekezdés 8. pontja az 537/2013. (XII. 30.) Korm. rendelet 51. § c) pontja szerint módosított szöveg.
+[^8]: A 1. § (2) bekezdés 11. pont c) alpontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^9]: A 1. § (2) bekezdés 12. pontja a 379/2012. (XII. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 1. § (2) bekezdés 14. pont a) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^11]: Az 1. § (2) bekezdés 14. pont b) alpontja a 82/2010. (III. 25.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^12]: A 1. § (2) bekezdés 19. pontját a 379/2012. (XII. 19.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^13]: Az 1. § (2) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
+[^14]: Az 1. § (2) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
+[^15]: Az 1. § (2) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
+[^16]: Az 1. § (2) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 136. § (1) bekezdése iktatta be.
+[^17]: Az 1. § (2) bekezdés 24. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^18]: Az 1. § (2) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^19]: Az 1. § (2) bekezdés 26. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^20]: Az 1. § (3) bekezdése a 455/2015. (XII. 29.) Korm. rendelet 2. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^21]: Az 1. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 136. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^22]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^23]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^24]: Az 1. § (7) bekezdés c) pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
