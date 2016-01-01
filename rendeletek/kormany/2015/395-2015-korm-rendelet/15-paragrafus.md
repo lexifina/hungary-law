@@ -1,3 +1,1 @@
-## 14. §[^10]
-
-[^10]: A 14. § a 10. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## 14. § Hatályát veszti a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény felsőoktatásban való végrehajtásáról és a felsőoktatási intézményekben történő foglalkoztatás egyes kérdéseiről szóló 53/2006. (III. 14.) Korm. rendelet.

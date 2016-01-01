@@ -1,3 +1,5 @@
-## 11. §[^7]
+## 11. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet 1. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
 
-[^7]: A 11. § a 10. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
+## (Az Etv. Harmadik részének hatálya alá tartozó hatósági eljárásokban a Kormány a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként)
+
+## „g) a településrendezésért felelős miniszter és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői tevékenység, energetikai tanúsítói tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,”
