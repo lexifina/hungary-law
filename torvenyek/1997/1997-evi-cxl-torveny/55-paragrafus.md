@@ -16,7 +16,7 @@ g) a könyvtárhasználókat segíti a digitális írástudás, az információs
 
 h) segíti az oktatásban, képzésben részt vevők információellátását, a tudományos kutatás és az adatbázisokból történő információkérés lehetőségét,
 
-i) kulturális, közösségi, közművelődési rendezvényeket és egyéb programokat szervez,
+i) kulturális, közösségi és egyéb könyvtári programokat szervez,
 
 j) tudás-, információ- és kultúraközvetítő tevékenységével hozzájárul az életminőség javításához, az ország versenyképességének növeléséhez,
 

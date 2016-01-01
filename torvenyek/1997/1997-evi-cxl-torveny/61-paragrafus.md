@@ -26,12 +26,14 @@ g) tevékenységi körébe tartozó kutatások végzése,
 
 h) részvétel a 60. § (1), (2) és (3) bekezdésében felsorolt központi szolgáltatások megvalósításában,
 
-i) a kulturális örökség részét képező könyvtári dokumentumok és könyvtárak védetté nyilvánításával, nyilvántartásával és külföldre vitelének engedélyezésével kapcsolatos feladatok e törvény erre vonatkozó szabályai szerint,
+i) a kulturális örökség részét képező könyvtári dokumentumok és könyvtárak védetté nyilvánításával, nyilvántartásával és külföldre vitelének engedélyezésével kapcsolatos, a kulturális örökség védelmével kapcsolatos jogszabályokban meghatározott feladatok ellátása,
 
 j) könyvtári dokumentumokról hitelesített másolatok készítése,
 
 k) a miniszter által megállapított további feladatok végzése,
 
-l) a Magyar Országos Közös Katalógus adatbázis működtetése és fejlesztése.
+l) a Magyar Országos Közös Katalógus adatbázis működtetése és fejlesztése,
+
+m) a könyvtárakban őrzött kulturális javak digitalizálása az Országos Könyvtári Digitalizálási Stratégia szerint.
 
 (5) A nemzeti könyvtárt nyilvános könyvárveréseken – a védett kulturális javak kivételével – elővásárlási jog illeti meg.

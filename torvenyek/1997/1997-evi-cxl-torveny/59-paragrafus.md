@@ -14,6 +14,26 @@ c) a könyvtárak gyűjteményéből kivont dokumentumok hasznosítását a kön
 
 (2a) Kormányrendelet a kötelespéldányok számát a (2) bekezdésben meghatározottnál kisebb számban is megállapíthatja, valamint meghatározhatja a kötelespéldány-szolgáltatás teljesítése alóli mentességek eseteit.
 
+(2b) A Kormány rendeletben szabályozza
+
+a) a kiadványok kötelespéldányainak szolgáltatására kötelezettek körét,
+
+b) a kötelespéldány-szolgáltatással összefüggő jelentés szabályait,
+
+c) a helyi vonatkozással bíró kiadványok kötelespéldányainak szolgáltatására vonatkozó külön szabályokat,
+
+d) a kötelespéldány-szolgáltatás határidejét, módját,
+
+e) a kötelespéldányra jogosult szervezetek körét,
+
+f) a kötelespéldányok szétosztásának módját,
+
+g) a kötelespéldányok megőrzésének és használatának szabályait, valamint
+
+h) a kötelespéldány-szolgáltatás jogszabálynak nem megfelelő teljesítése esetén követendő eljárást.
+
+(2c) A kötelespéldány-szolgáltatás elmulasztása vagy nem a jogszabálynak megfelelő teljesítése esetén a kötelespéldányra jogosult beszerezheti a kiadványt, vagy a kiadványról archiválás céljából, a szerzői jogról szóló törvény szabályainak megfelelően másolatot készíthet. A kötelespéldányra jogosult a kötelespéldány pótlásával kapcsolatosan felmerült költségeit a kötelespéldány-szolgáltatás kötelezettjére terhelheti.
+
 (3) Az országos dokumentumellátási rendszerről szóló jogszabályban meghatározott könyvtár vezetőjének kinevezése előtt a miniszter véleményét kell kérni.
 
 (4) A miniszter kialakítja a nemzeti kulturális örökség részét képező kép- és hangrögzítés országos nyilvántartási rendszerét.

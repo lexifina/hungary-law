@@ -38,7 +38,7 @@ b) a múzeum, valamint az országos szakkönyvtár és a megyei könyvtár éves
 
 c) a közművelődési intézmények működésének szakmai, személyi és infrastrukturális feltételeit,
 
-d) a muzeális intézmények működési engedélyeivel kapcsolatos kérdéseket,
+d) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) benyújtásának feltételeit, a kérelem elbírálásának eljárásrendjét, a kérelem és a működési engedély adattartalmát, a kérelemhez csatolandó mellékletek körét, a működési engedély visszavonása esetén követendő eljárást, továbbá a muzeális intézmény elnevezésével kapcsolatos kérdéseket,
 
 e)
 
@@ -56,7 +56,7 @@ k) a muzeális intézményben őrzött kulturális javak elidegenítésére, cse
 
 l) a muzeális intézményekre, továbbá a könyvtárakra vonatkozó szakfelügyelet rendjét,
 
-m) a különböző típusú könyvtárak működését, szakmai követelményeit,
+m) a különböző típusú könyvtárak működését, továbbá a városi könyvtárak és a települési nyilvános könyvtárak szakmai követelményeit,
 
 n) a Könyvtárellátási Szolgáltató Rendszer működését,
 
@@ -86,7 +86,13 @@ z) a közművelődési feladatellátás szakfelügyelete szervezésének rendjé
 
 (4)
 
-(5) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a könyvtári dokumentumok védelmét és nyilvántartását.
+(5) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
+
+a) a könyvtári dokumentumok nyilvántartásának vezetésére vonatkozó szabályokat, a nyilvántartás tartalmát és a könyvtári dokumentumok állományból történő kivezetésének szabályait,
+
+b) a könyvtári állomány ellenőrzésének szabályait, valamint
+
+c) a könyvtári dokumentumok selejtezésének szabályait.
 
 (6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza
 

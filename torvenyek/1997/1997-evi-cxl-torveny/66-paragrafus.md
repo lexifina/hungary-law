@@ -16,8 +16,12 @@ g) működteti a Könyvtárellátási Szolgáltató Rendszert,
 
 h) megállapodás alapján igénybe vehető szolgáltatásokat nyújt a 64. § (3) bekezdésében megjelölt könyvtári szolgáltató helyen nyújtott könyvtári szolgáltatások megszervezéséhez a települési önkormányzatok számára,
 
-i) koordinálja a települési könyvtárak fejlesztését,
+i) koordinálja a települési könyvtárak fejlesztését, ennek keretében javaslatot tesz a megyében működő városi könyvtárak és a települési nyilvános könyvtárak fenntartóinak a könyvtár fejlesztésére a miniszter rendeletében meghatározott szakmai követelmények érvényesítése érdekében,
 
 j) koordinálja a települési könyvtárak minősítésének előkészítését,
 
-k) ellátja az Országos Dokumentumellátási Rendszerről szóló kormányrendeletben a szolgáltató könyvtár számára meghatározott feladatokat.
+k) ellátja az Országos Dokumentumellátási Rendszerről szóló kormányrendeletben a szolgáltató könyvtár számára meghatározott feladatokat,
+
+l) évente egy alkalommal a könyvtári szolgáltatások megvalósításával kapcsolatos információs szakmai műhelynapot szervez a megye könyvtárosai számára,
+
+m) ellátja a helyismereti dokumentumok elektronikus hozzáférhetővé tételével kapcsolatos feladatokat.

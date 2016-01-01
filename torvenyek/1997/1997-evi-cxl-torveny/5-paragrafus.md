@@ -8,7 +8,7 @@ b) a könyvtári dokumentumokra, a könyvtárhasználókra, a nyilvános könyvt
 
 c) a közművelődési tevékenység megvalósulásában résztvevőkre, a közösségi színterek, közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira.
 
-(2) A könyvtári dokumentumok védelmével és nyilvántartásával kapcsolatosan e törvény hatálya kiterjed azokra a nem nyilvános könyvtárakra is, amelyeknek állománya a nemzeti és egyetemes kulturális örökség része.
+(2) A könyvtári dokumentumok védelmére és nyilvántartására vonatkozó szabályok tekintetében e törvény hatálya kiterjed a nem nyilvános könyvtárakra is.
 
 (3) A könyvtári tevékenységről és a könyvtári alkalmazottakról szóló szabályok vonatkoznak a nem nyilvános könyvtárakra is.
 

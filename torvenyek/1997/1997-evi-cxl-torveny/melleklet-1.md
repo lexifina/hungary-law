@@ -6,7 +6,7 @@ E törvény alkalmazásában:
 
 a) Állami egyetemek könyvtárai: a felsőoktatásról szóló törvény 1. számú mellékletében felsorolt állami egyetemek központi könyvtárai.
 
-b) Állomány: a könyvtár által tartós megőrzésre nyilvántartásba vett dokumentumok összessége.
+b) Archiválás: a könyvtár gyűjtőköri szabályzatában meghatározott könyvtári dokumentumoknak a könyvtár állományában való végleges megtartása érdekében a könyvtár által folytatott megőrző tevékenység, beleértve az elektronikus dokumentumok olyan módon történő megőrzését, ami kizárja az utólagos tartalmi módosítás lehetőségét, valamint védi az elektronikus dokumentumokat a törlés, a megsemmisítés, a véletlen megsemmisülés, sérülés és a jogosulatlan hozzáférés ellen, továbbá biztosítja, hogy az elektronikus dokumentumok értelmezhetősége, olvashatósága – a dokumentumok megjeleníthetőségét lehetővé tevő technikai megoldások alkalmazásával – megmaradjon.
 
 c) Elektronikus dokumentum: a csak számítógéppel olvasható dokumentum.
 
@@ -20,7 +20,7 @@ g) Könyvtárhasználati jog: a könyvtárak szolgáltatásainak igénybevétel�
 
 h) Könyvtárhasználó: a könyvtár szolgáltatásait igénybe vevő személy vagy szervezet.
 
-i) Könyvtári dokumentum: a könyvtár által állományba vett, alap- és kiegészítő feladatai ellátásához szükséges tudományos, oktatási, művészeti, közművelődési vagy történeti értékű könyv, időszaki kiadvány, egyéb kiadvány, illetőleg minden szöveg-, kép-, adat- és hangrögzítés, beleértve a könyvtár állományába vett elektronikus dokumentumot is, kivéve az Ltv. hatálya alá tartozó, irattári jellegű levéltári anyagnak minősülő dokumentumot.
+i) Könyvtári dokumentum: a könyvtár által állományba vett, alap- és kiegészítő feladatai ellátásához szükséges könyv, időszaki kiadvány, egyéb kiadvány, valamint minden szöveg-, kép-, adat- és hangrögzítés – beleértve a könyvtár állományába vett elektronikus dokumentumot is –, kivéve az Ltv. hatálya alá tartozó, irattári jellegű levéltári anyagnak minősülő dokumentumot.
 
 j) Könyvtári dokumentum feltárása: az a folyamat, amelyben a könyvtári dokumentumokat a bennük lévő tartalmi és az őket jellemző formai jegyek alapján nyilvántartják, annak érdekében, hogy a könyvtárhasználó minél több szempont szerint tájékozódhasson a gyűjteményben.
 
@@ -62,6 +62,6 @@ x) Nyilvános könyvtári ellátás: a nyilvános könyvtárak által nyújtott 
 
 y) Tagintézmény: muzeális intézmény szervezeti egységeként működő, önálló működési engedéllyel rendelkező muzeális intézmény.
 
-z)
+z) Kiadvány: a médiaszolgáltatásokról és a tömegkommunikációról szóló törvényben meghatározott kiadvány, továbbá a dia, a diafilm, a földgömb és az éggömb.
 
-zs)
+zs) Múzeumi digitalizálási stratégia: a múzeumok digitalizálási tevékenységét megalapozó írott dokumentum, amely az e törvényben meghatározott feladatok teljesítése érdekében rögzíti a múzeumokban őrzött kulturális javak digitalizálásának céljait és prioritásait, a digitalizálással létrehozott digitális adatvagyon hosszú távú tárolásának feltételeit, valamint a közzététel, a felhasználás és a hasznosítás szabályait, beleértve a köznevelési célú hasznosítást is.

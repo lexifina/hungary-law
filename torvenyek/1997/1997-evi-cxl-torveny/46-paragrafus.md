@@ -4,7 +4,7 @@
 
 (2) A területi múzeum gyűjtőterülete
 
-a) egy települési önkormányzat (városi, települési múzeum), vagy
+a) egy települési önkormányzat (városi, települési múzeum),
 
 b) több települési önkormányzat (tájmúzeum), vagy
 

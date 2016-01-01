@@ -12,7 +12,21 @@ c) a kölcsönvevő által nyújtandó vagyonbiztonsági feltételeket, beleért
 
 (4) A kölcsönzési szerződésben kölcsönzési díj és pénzügyi biztosíték köthető ki. A muzeális intézmény nyilvántartásában szereplő kulturális javak nem muzeális intézmény számára, továbbá külföldre történő kölcsönzése esetén, a (7) bekezdésben meghatározott kivétellel a kölcsönzött kulturális javak értékéhez igazodó pénzügyi biztosítékot kell kikötni.
 
-(5) A miniszter állami tulajdonú kulturális javak muzeális intézmények közötti kölcsönzése esetén a kölcsönvevő indokolt kérelmére, nemzeti kulturális érdekre figyelemmel mentesítést adhat a kölcsönzési díj és a pénzügyi biztosíték megfizetése alól, kivéve a (6) bekezdésben meghatározott kölcsönzés esetét.
+(4a) Pénzügyi biztosítékként
+
+a) a kulturális javak biztosítási értékével arányos, elkülönítetten kezelt, lekötött pénzösszeg,
+
+b) az államháztartásról szóló törvény alapján az államháztartásért felelős miniszter által vállalt kiállítási garancia vagy kiállítási viszontgarancia,
+
+c) nem költségvetési szervként működő kölcsönvevő esetén a kulturális javakban esetlegesen bekövetkező valamennyi kár megtérítésének vállalására irányuló garancianyilatkozat vagy garanciaszerződés,
+
+d) biztosítási szerződés, vagy
+
+e) egyéb szerződéses biztosíték nyújtása
+
+alkalmazható.
+
+(5) A miniszter állami tulajdonú kulturális javak muzeális intézmények közötti kölcsönzése esetén a kölcsönvevő indokolt kérelmére, nemzeti kulturális érdekre figyelemmel mentesítést adhat a kölcsönzési díj és a pénzügyi biztosíték megfizetése alól,.
 
 (6) A muzeális intézmény nyilvántartásában szereplő kulturális javak nem muzeális intézmény számára, továbbá külföldre történő kölcsönzéséhez a miniszter hozzájárulása szükséges. A hozzájárulás megadása során a miniszter vizsgálja a kölcsönzéshez fűződő nemzeti kulturális érdek, valamint a (2)–(4) bekezdésben rögzített feltételek meglétét.
 
