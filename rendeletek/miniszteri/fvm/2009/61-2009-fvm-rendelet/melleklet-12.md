@@ -1,3 +1,5 @@
+## A támogatásra jogosult ültetvények köre, valamint a támogatási összegek megállapításához az egyes ültetvény fajok ültetvénycsoportonkénti besorolása
+
 | „Almatermésűek” | „Csonthéjas és héjas” | „Bogyós” | „Szőlő” | „Vegyes” |
 
 | Alma | Cseresznye | Fekete Ribiszke | Szőlőültetvények | Vegyes gyümölcsös |
@@ -19,5 +21,3 @@
 | Szilva |  |
 
 12. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
-
-Kultúrtörténeti és genetikai szempontból kiemelkedő jelentőségű, veszélyeztetett ritka szántóföldi növényfajták listája

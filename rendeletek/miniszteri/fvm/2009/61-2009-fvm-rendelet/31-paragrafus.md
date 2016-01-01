@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-31. § (1)[^68] A támogatási kérelmeket elektronikus úton kell benyújtani 2009. június 1. és július 25. között.
+31. § (1)[^69] A támogatási kérelmeket elektronikus úton kell benyújtani 2009. június 1. és július 25. között.
 
 (2) Az (1) bekezdés szerinti határidő elmulasztása jogvesztő.
 
@@ -34,7 +34,7 @@ c) támogatás igényléséhez szükséges nyilatkozatok.
 
 (9) A támogatási kérelem benyújtása során:
 
-a)[^69] mellékelni kell a 3. számú melléklet szerinti, a támogatási kérelem pontozásához szükséges dokumentumokat, illetve ahol a rendelet lehetővé teszi, másolat esetén a kérelmező aláírásával hitelesített másolati példányt;
+a)[^70] mellékelni kell a 3. számú melléklet szerinti, a támogatási kérelem pontozásához szükséges dokumentumokat, illetve ahol a rendelet lehetővé teszi, másolat esetén a kérelmező aláírásával hitelesített másolati példányt;
 
 b) a 3. § (1) bekezdés a) pont ab) alpontja szerinti tanyás célprogram esetében mellékelni kell az 59. § (6) bekezdése szerinti dokumentumot;
 
@@ -42,7 +42,7 @@ c) a 3. § (1) bekezdés c) pont ca)–cc) alpontjaiban szereplő célprogramok 
 
 d) a 3. § (1) bekezdés a) pont ac) alpontjában, illetve a 3. § (1) bekezdés c) pont cb) alpontjában szereplő célprogramok esetében a kérelemben meg kell jelölni, hogy a kérelmezett területnagyságon belül az első gazdálkodási év tekintetében mekkora az átállt és az átállás alatti területek nagysága;
 
-e)[^70] 3. § (1) bekezdés d) pont da) alpontjaiban szereplő célprogram esetében a területileg illetékes járási földhivatal által kiadott harminc napnál nem régebbi földhasználati lap másolatot, amely szerint a terület nádas művelési ágba van bejegyezve.
+e)[^71] 3. § (1) bekezdés d) pont da) alpontjaiban szereplő célprogram esetében a területileg illetékes járási földhivatal által kiadott harminc napnál nem régebbi földhasználati lap másolatot, amely szerint a terület nádas művelési ágba van bejegyezve.
 
 (10) A támogatási kérelemben fizikai blokkonként kell feltüntetni az adott célprogramban igényelt terület nagyságát.
 
@@ -56,6 +56,6 @@ b) támogatási jogosultságra vonatkozó adatok, különösen a fizikai blokkaz
 
 c) a támogatási kérelem pontozásához szükséges dokumentumok.
 
-[^68]: A 31. § (1) bekezdése a 77/2009. (VI. 30.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^69]: A 31. § (9) bekezdés a) pontja a 77/2009. (VI. 30.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^70]: A 31. § (9) bekezdés e) pontja a 151/2012. (XII. 29.) VM rendelet 34. §-a szerint módosított szöveg.
+[^69]: A 31. § (1) bekezdése a 77/2009. (VI. 30.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^70]: A 31. § (9) bekezdés a) pontja a 77/2009. (VI. 30.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^71]: A 31. § (9) bekezdés e) pontja a 151/2012. (XII. 29.) VM rendelet 34. §-a szerint módosított szöveg.

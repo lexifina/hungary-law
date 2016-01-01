@@ -1,10 +1,10 @@
 ## Kifizetési kérelem benyújtása
 
-42. §[^92] (1) Kifizetési kérelmet az nyújthat be, aki a 39. § (1) bekezdése alapján területazonosítási kérelmet nyújtott be.
+42. §[^93] (1) Kifizetési kérelmet az nyújthat be, aki a 39. § (1) bekezdése alapján területazonosítási kérelmet nyújtott be.
 
-(2)[^93] A kifizetési kérelmet a támogatott területekre kell benyújtani. Amennyiben a kötelezettségvállalással érintett egybefüggő területre vonatkozóan az igényelt vagy az ellenőrzéseket követően megállapított terület kisebb, mint a támogatott terület, akkor a kifizetés a támogatásra jogosultság mértéke és a támogatott terület arányában kerül teljesítésre.
+(2)[^94] A kifizetési kérelmet a támogatott területekre kell benyújtani. Amennyiben a kötelezettségvállalással érintett egybefüggő területre vonatkozóan az igényelt vagy az ellenőrzéseket követően megállapított terület kisebb, mint a támogatott terület, akkor a kifizetés a támogatásra jogosultság mértéke és a támogatott terület arányában kerül teljesítésre.
 
-(3)[^94] A kifizetési kérelmet 2010-től évente az egységes kérelemről szóló rendelet szerinti egységes kérelem részeként az annak benyújtására meghatározott határidőben kell elektronikusan benyújtani.
+(3)[^95] A kifizetési kérelmet 2010-től évente az egységes kérelemről szóló rendelet szerinti egységes kérelem részeként az annak benyújtására meghatározott határidőben kell elektronikusan benyújtani.
 
 (4) A 3. § (1) bekezdés b) pont bd) alpontjában, valamint a 3. § (1) bekezdés d) pont dc) alpontjában meghatározott célprogramok esetén a gyeptelepítésekhez, a vizes élőhely kialakításához nyújtott támogatás abban az esetben állapítható meg, ha az adott földterület gyep, legelő vagy rét művelési ágba történő átvezetését a támogatásra jogosult az ingatlanügyi hatóságnak a földterület elhelyezkedése szerint illetékes szervénél kezdeményezi, és
 
@@ -22,6 +22,6 @@ b) a 3. § (1) bekezdés b) pont bd) alpontjának 2. pontja szerinti természetv
 
 (7) Az egyes célprogramokban támogatásra jogosult a 9. számú mellékletben felsorolt növényfajok és növényfajták hasznosítási kódját az IH a Tv. 14. § (1) bekezdés c) pontjának cf) alpontja alapján minden évben április 1-jéig közleményben teszi közzé.
 
-[^92]: A 42. § a 35/2010. (XI. 30.) VM rendelet 9. §-ával megállapított szöveg.
-[^93]: A 42. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 7. §-ával megállapított szöveg.
-[^94]: A 42. § (3) bekezdése a 28/2015. (VI. 9.) MvM rendelet 23. §-a szerint módosított szöveg.
+[^93]: A 42. § a 35/2010. (XI. 30.) VM rendelet 9. §-ával megállapított szöveg.
+[^94]: A 42. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 7. §-ával megállapított szöveg.
+[^95]: A 42. § (3) bekezdése a 28/2015. (VI. 9.) MvM rendelet 23. §-a szerint módosított szöveg.

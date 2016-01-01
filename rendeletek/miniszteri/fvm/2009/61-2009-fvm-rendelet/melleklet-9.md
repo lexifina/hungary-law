@@ -1,3 +1,5 @@
+## Vásárhelyi Terv Továbbfejlesztésében érintett mintaterületek
+
 ## 1.) Cigándi tározó: Cigánd, Nagyrozvágy, Pácin, Ricse települések
 
 ## – fizikai blokkok átlagos magassága szerint mélyártér 95 méter alatt
@@ -17,7 +19,5 @@
 ## A MePAR fizikai blokklistát az IH a Tv. 14. § (1) bekezdés c) pontjának cg) alpontja alapján közleményben adja ki.
 
 9. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^216]
-
-Termeszthető növények és hasznosítások listája célprogramonként
 
 [^216]: A 9. számú melléklet a 92/2011. (X. 5.) VM rendelet 26. § (2) bekezdésével megállapított szöveg.

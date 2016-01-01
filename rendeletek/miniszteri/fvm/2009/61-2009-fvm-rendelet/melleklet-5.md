@@ -1,3 +1,5 @@
+## A támogatási kérelem pontozása során elfogadható felsőfokú agrár végzettségekről
+
 ## Felsőfokú agrárgazdasági végzettséget adó szakok a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet alapján:
 
 | Képzési terület | Korábbi főiskolai (F) és egyetemi (E) szakok | Többciklusú felsőoktatási képzési rendszer szerinti |

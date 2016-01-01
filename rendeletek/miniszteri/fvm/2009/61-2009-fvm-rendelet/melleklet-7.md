@@ -1,3 +1,5 @@
+## Természetvédelmi zonális célprogramok támogatására jogosult Magas Természeti Értékű Terület egységek és a jogosult természetvédelmi zonális célprogramok
+
 | Jogosult MTÉT-k megnevezése | Zónák | Jogosult természetvédelmi zonális célprogramok |
 
 | 1.) Baranya megye fás legelői | A | 1. szántóföldi növénytermesztés vadlúd- és daruvédelmi előírásokkal célprogram 2. szántóföldi növénytermesztés madár- és apróvad élőhely- fejlesztési előírásokkal célprogram 3. gyepgazdálkodás élőhely-fejlesztési előírásokkal célprogram 4. természetvédelmi célú gyeptelepítés célprogram |
@@ -165,5 +167,3 @@
 | C | 1. szántóföldi növénytermesztés vadlúd- és daruvédelmi előírásokkal célprogram 2. szántóföldi növénytermesztés madár- és apróvad élőhely- fejlesztési előírásokkal célprogram 3. gyepgazdálkodás élőhely-fejlesztési előírásokkal célprogram 4. természetvédelmi célú gyeptelepítés célprogram |
 
 7. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
-
-A szélerózió elleni célprogram mintaterületei

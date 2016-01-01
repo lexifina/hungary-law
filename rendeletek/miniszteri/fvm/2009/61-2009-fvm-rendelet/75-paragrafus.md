@@ -6,7 +6,7 @@
 
 a) a legkisebb támogatható terület 0,5 ha;
 
-b)[^184] jogosult gyümölcs fajok: alma, körte, birs, naspolya, szilva, cseresznye, meggy, kajszi, őszibarack, dió, mogyoró, mandula, szelídgesztenye homogén vagy vegyes állományban a 9. számú mellékletben meghatározottak szerint, kivéve faiskola, csemetekert.
+b)[^185] jogosult gyümölcs fajok: alma, körte, birs, naspolya, szilva, cseresznye, meggy, kajszi, őszibarack, dió, mogyoró, mandula, szelídgesztenye homogén vagy vegyes állományban a 9. számú mellékletben meghatározottak szerint, kivéve faiskola, csemetekert.
 
 (3) Adott gazdálkodási évi kifizetés jogosultsági feltétele, hogy egy tábla területe legalább 0,3 hektár.
 
@@ -20,7 +20,7 @@ c) a fák tápanyagpótlása során kizárólag szerves trágya és komposzt has
 
 d) szennyvíziszap és szennyvíziszapot tartalmazó komposzt az ültetvényben nem juttatható ki;
 
-e)[^185] ha az ültetvény talaját gyep borítja, évente legeltetéssel, illetve kizárólag június 15. után kaszálással hasznosítható a gyep azzal a feltétellel, hogy a levágott növedéket el kell távolítani;
+e)[^186] ha az ültetvény talaját gyep borítja, évente legeltetéssel, illetve kizárólag június 15. után kaszálással hasznosítható a gyep azzal a feltétellel, hogy a levágott növedéket el kell távolítani;
 
 f) az ültetvényben legalább két különböző méretben hektáronként legalább 3 db madárodút kell elhelyezni a 33/2008. (III. 27.) FVM rendelet 2. számú melléklete szerinti leírásnak megfelelően;
 
@@ -30,7 +30,7 @@ h) a gyümölcsfák esetében a koronaalakító metszést követően csak ritkí
 
 i) gondoskodni kell a kiöregedett, kipusztult fák pótlásáról;
 
-j)[^186] a célprogramba bevont területen a gyümölcsfák sűrűsége 30–150 db/ha, kivéve a dióültetvényeket, ahol 30–80 db/ha, amelybe a területen elhelyezkedő szőlőtőkéket nem kell beszámítani
+j)[^187] a célprogramba bevont területen a gyümölcsfák sűrűsége 30–150 db/ha, kivéve a dióültetvényeket, ahol 30–80 db/ha, amelybe a területen elhelyezkedő szőlőtőkéket nem kell beszámítani
 
 (5) A támogatás mértéke a célprogramba bevitt terület után a 11. számú mellékletben meghatározott ültetvénycsoportok szerint
 
@@ -40,6 +40,6 @@ b) csonthéjas és héjas ültetvénycsoportba tartozó fajok esetén 355 euró/
 
 c) vegyes ültetvénycsoport esetén 478 euró/ha-nak megfelelő forintösszeg.
 
-[^184]: A 75. § (2) bekezdés b) pontja a 77/2009. (VI. 30.) FVM rendelet 17. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^185]: A 75. § (4) bekezdés e) pontja a 31/2010. (III. 30.) FVM rendelet 21. §-ával megállapított szöveg.
-[^186]: A 75. § (4) bekezdés j) pontja a 35/2010. (XI. 30.) VM rendelet 23. §-ával megállapított szöveg.
+[^185]: A 75. § (2) bekezdés b) pontja a 77/2009. (VI. 30.) FVM rendelet 17. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^186]: A 75. § (4) bekezdés e) pontja a 31/2010. (III. 30.) FVM rendelet 21. §-ával megállapított szöveg.
+[^187]: A 75. § (4) bekezdés j) pontja a 35/2010. (XI. 30.) VM rendelet 23. §-ával megállapított szöveg.

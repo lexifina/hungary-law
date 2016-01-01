@@ -17,5 +17,3 @@
 | Forrás megoszlása | 75% | 25% |
 
 6. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
-
-Természetvédelmi zonális célprogramok támogatására jogosult Magas Természeti Értékű Terület egységek és a jogosult természetvédelmi zonális célprogramok

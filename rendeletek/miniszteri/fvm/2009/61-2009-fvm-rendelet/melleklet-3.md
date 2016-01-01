@@ -1,3 +1,5 @@
+## A támogatási összegek mértéke célprogramonként
+
 ## A.) Szántóföldi agrár-környezetgazdálkodási célprogram csoport:
 
 | Támo- gatási rend- szer | célprog- ram azono- sító | Célprogram megnevezése | Támogatás mértéke euró/ha-nak megfelelő forintösszeg |
@@ -154,11 +156,9 @@
 
 3. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^213]
 
-A támogatási kérelmek részletes pontozási szempontrendszere
+## A támogatási kérelmek részletes pontozási szempontrendszere
 
 I. Szántóföldi agrár-környezetgazdálkodási célprogram csoport
-
-## 9M22851_0
 
 | Pontozási szempontok szántóföldi célprogramok esetén |  | Célprogramok |
 
@@ -217,8 +217,6 @@ I. Szántóföldi agrár-környezetgazdálkodási célprogram csoport
 ## *** csőd-, felszámolási és végelszámolási eljárás alatt nem álló termelői csoport, illetve termelő szervezet
 
 II. Gyepgazdálkodási agrár-környezetgazdálkodási célprogram csoport
-
-## 9M22851_1
 
 | Pontozási szempontok gyepgazdálkodási célprogramok esetén |  | Célprogramok |
 
@@ -279,8 +277,6 @@ II. Gyepgazdálkodási agrár-környezetgazdálkodási célprogram csoport
 ## *** csőd-, felszámolási és végelszámolási eljárás alatt nem álló termelői csoport
 
 III. Ültetvényekre vonatkozó agrár-környezetgazdálkodási célprogram csoport
-
-## 9M22851_2
 
 | Pontozási szempontok ültetvényekre vonatkozó célprogramok esetén |  | Célprogramok |
 
