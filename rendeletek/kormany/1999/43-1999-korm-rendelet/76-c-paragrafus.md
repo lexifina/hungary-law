@@ -1,8 +1,8 @@
-## 76/B. §[^547]
+## 76/B. §[^554]
 
-76/C. §[^548] (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 519/2013. (XII. 30.) Korm. rendelettel megállapított 28. § (1a) bekezdését a 2014. január havi kifizetéseknél kell első ízben alkalmazni.
+76/C. §[^555] (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 519/2013. (XII. 30.) Korm. rendelettel megállapított 28. § (1a) bekezdését a 2014. január havi kifizetéseknél kell első ízben alkalmazni.
 
 (2) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 519/2013. (XII. 30.) Korm. rendelettel megállapított 28/A. számú melléklet alapján módosított finanszírozási szerződésekben meghatározott TVK az e rendeletben foglalt esetekben az általános szabályok szerint módosítható.
 
-[^547]: A 76/B. §-t a 438/2013. (XI. 19.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § l) pontja.
-[^548]: A 76/C. §-t az 519/2013. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
+[^554]: A 76/B. §-t a 438/2013. (XI. 19.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § l) pontja.
+[^555]: A 76/C. §-t az 519/2013. (XII. 30.) Korm. rendelet 9. §-a iktatta be.

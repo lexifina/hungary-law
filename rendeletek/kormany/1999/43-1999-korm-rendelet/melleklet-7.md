@@ -8,13 +8,9 @@
 
 ## 1 = magyar biztosítás alapján végzett térítésmentes ellátás
 
-## 2 = magyar biztosítással nem rendelkező menekült ellátása
-
 ## 3 = államközi szerződés alapján végzett sürgős ellátás
 
 ## 4 = egyéb, magyar biztosítással nem rendelkező vagy más hatályos rendelkezés alapján az egészségbiztosítás terhére el nem számolható ellátást igénybe vevő személyek térítésköteles ellátása
-
-## 5 = magyar biztosítással nem rendelkező menedékes ellátása
 
 ## 6 = fekvőbeteg részére végzett ellátás
 
@@ -154,9 +150,9 @@ A finanszírozás módja szerint aktív ellátásnak minősül az az ellátás, 
 
 A finanszírozás módja szerint krónikus ellátásnak minősül az, amelynek célja az egészségi állapot stabilizálása, fenntartása, illetve helyreállítása. Az ellátás időtartama, illetve befejezése általában nem tervezhető, és jellemzően hosszú időtartamú.
 
-3.[^564] Mátrix kórházi ellátás
+3.[^572] Mátrix kórházi ellátás
 
-A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^565]
+A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^573]
 
-[^564]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^565]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.
+[^572]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^573]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.

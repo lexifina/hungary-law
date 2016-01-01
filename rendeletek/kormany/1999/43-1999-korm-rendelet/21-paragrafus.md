@@ -52,7 +52,7 @@ b)[^195] a körzet 0–7 éves korú lakosságának számát és az oktatási in
 
 c)[^196] a várandós anyák számát a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának igazolása alapján.
 
-(13a)[^197] A méhnyakszűréssel kiegészített ellátásra szóló finanszírozási szerződéssel rendelkező területi védőnői szolgáltatók az ellátott esetekről havonta a tárgyhónapot követő hónap 5. munkanapjáig – az OEP honlapján található rekordkép szerinti adattartalommal – jelentést küldenek az OEP-nek. Az egy esetre járó díj mértéke 2000 forint, amely a tárgyhónapot követő második hónapban kerül kifizetésre.
+(13a)[^197] A méhnyakszűréssel kiegészített ellátásra szóló finanszírozási szerződéssel rendelkező területi védőnői szolgáltatók az ellátott esetekről havonta a tárgyhónapot követő hónap 5. munkanapjáig – az OEP honlapján található rekordkép szerinti adattartalommal – jelentést küldenek az OEP-nek. Az egy esetre járó díj mértéke 2000 forint, amelyből a védőnői szolgáltató a szűrést végző védőnő díjazására szűrési esetenként 900 forintot – amely a kifizetőt terhelő adó- és járulékterheket is tartalmazza – köteles fordítani. Az eseti díjazás kifizetésére a tárgyhónapot követő második hónapban kerül sor. A díjazás fedezetére az 5. számú melléklet szerinti Védőnő, anya-, gyermek- és ifjúságvédelem előirányzata szolgál.
 
 (13b)[^198] A védőnői szolgáltató a 33. számú melléklet szerinti adattartalommal nyilvántartást vezet a védőnői méhnyakszűrésen résztvevő biztosítottak ellátásáról.
 
@@ -81,7 +81,7 @@ c)[^196] a várandós anyák számát a fővárosi és megyei kormányhivatal n�
 [^194]: A 21. § (11) bekezdése a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (2) bekezdésével megállapított szöveg, számozását (13) bekezdésre változtatta a 79/2008. (IV. 3.) 1. § (2) bekezdése, nyitó szövegrésze a 365/2010. (XII. 30.) Korm. rendelet 18. § 18. pontja szerint módosított szöveg.
 [^195]: A 21. § (13) bekezdés b) pontja a 73/2011. (IV. 29.) Korm. rendelet 5. § c) pont ca) alpontja szerint módosított szöveg.
 [^196]: A 21. § (13) bekezdés c) pontja a 73/2011. (IV. 29.) Korm. rendelet 5. § c) pont cb) alpontja, a 174/2012. (VII. 26.) Korm. rendelet 20. §-a, a 70/2015. (III. 30.) Korm. rendelet 38. §-a szerint módosított szöveg.
-[^197]: A 21. § (13a) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 20. §-a iktatta be.
+[^197]: A 21. § (13a) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 20. §-a iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^198]: A 21. § (13b) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 20. §-a iktatta be.
 [^199]: A 21. § új (12) bekezdését a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (12) bekezdés számozását (13) bekezdésre változtatva. A (12) bekezdés számozását (14) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése.
 [^200]: A 21. § eredeti (12) bekezdésének számozását a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (3) bekezdése (13) bekezdésre változtatta, szövege a 318/2006. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg. A (13) bekezdés számozását (15) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, szövege a 447/2012. (XII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
