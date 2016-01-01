@@ -1,0 +1,1 @@
+## „(3b) Az aktív fekvőbeteg-szakellátás esetében a (2a) bekezdés szerinti elvi egynapos teljesítménymennyiség keretét az egyes egészségügyi szolgáltatóknak a 28/A. számú mellékletben foglalt táblázat „C” megjelölésű oszlop szerinti TVK-ja tartalmazza.”
