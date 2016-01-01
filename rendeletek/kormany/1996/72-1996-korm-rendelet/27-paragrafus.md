@@ -2,7 +2,7 @@
 
 ## Vegyes és záró rendelkezések
 
-27. § (1)[^133] E rendelet 2–11. §-ában, valamint 12–16. §-ában meghatározott vízügyi hatósági eljárásokban a döntést a kérelem megérkezését követő naptól számított 2 hónapon belül kell meghozni úgy, hogy az eljárásba bevont szakhatóságok a megkeresést követő harminc napon belül adják meg állásfoglalásukat. A hiányosan benyújtott kérelem esetében a vízügyi hatóság az ügyfelet a kérelem beérkezésétől számított tizenöt napon belül hívja fel hiánypótlásra.
+27. § (1)[^133]
 
 (1a)[^134] A 11/A. §-ban meghatározott vízügyi hatósági eljárásokban a döntést a kérelem beérkezését követő naptól számított öt napon belül kell meghozni úgy, hogy a hiányosan benyújtott kérelem esetében a vízügyi hatóság az ügyfelet a kérelem beérkezésétől számított öt napon belül hívja fel hiánypótlásra.
 
@@ -47,7 +47,7 @@ b) hatályon kívül helyezett 18. § (8) és (9) bekezdését a folyamatban lé
 (13)[^155] E rendeletnek a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv környezeti célkitűzéseinek teljes körű átültetésével összefüggésben egyes kormányrendeletek módosításáról szóló 100/2014. (III. 25.) Korm. rendelettel (a továbbiakban: Mód Kr. 6.) megállapított rendelkezéseit a Mód Kr. 6. hatálybalépését[^156] követően indult ügyekben, továbbá a megismételt eljárásokban kell alkalmazni.
 
 [^132]: A 26. §-t és az azt megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^133]: A 27. § (1) bekezdése a 228/2005. (X. 13.) Korm. rendelet 7. §-ával megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 73. pontja, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (10) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontja, a 344/2014. (XII. 22.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^133]: A 27. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^134]: A 27. § (1a) bekezdését a 344/2014. (XII. 22.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^135]: A 27. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. [A 27. § (2) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
 [^136]: A 27. § (3) bekezdése a 123/1997. (VII. 18.) Korm. rendelet 22. §-a (3) bekezdésének g) pontjával megállapított szöveg.

@@ -18,7 +18,7 @@ d) azoknak a jogszabályoknak, jogszabállyal kötelezővé tett szabványoknak 
 
 (5)[^6] Az elvi vízjogi engedélyben meghatározott vízmennyiséget, illetőleg a befogadóba elvezethető víz mennyiségét és minőségét – az engedély hatálya alatt – bejegyzett igényként (lekötött vízkészletként) kell nyilvántartani, és ezt a későbbi vízjogi engedélyek kiadásánál a vízkészletekkel való gazdálkodásnál figyelembe kell venni.
 
-(6)[^7] Az elvi vízjogi engedély az abban meghatározott vízimunka vagy vízilétesítmény vízjogi létesítési engedélyének jogerőre emelkedéséig, de legfeljebb az elvi vízjogi engedély jogerőre emelkedésétől számított 1 évig hatályos, amely egy esetben, legfeljebb egy évvel meghosszabbítható, ha a kiadásának alapjául szolgáló körülmények (feltételek) változatlanok.
+(6)[^7] Az elvi vízjogi engedély az abban meghatározott vízimunka vagy vízilétesítmény vízjogi létesítési engedélyének jogerőre emelkedéséig, de az elvi vízjogi engedély jogerőre emelkedésétől számított legfeljebb 2 évig hatályos, amely egy esetben, legfeljebb egy évvel meghosszabbítható, ha a kiadásának alapjául szolgáló körülmények (feltételek) változatlanok.
 
 (7)[^8] Ha az építtető az elvi vízjogi engedélyben meghatározott vízgazdálkodási cél megvalósításától eláll, az erre irányuló döntését 15 napon belül köteles bejelenteni a vízügyi hatóságnak. Ennek elmulasztása esetén megszűnik a (4) és (5) bekezdésben meghatározott – a vízügyi hatóságot terhelő – kötelezettség.
 
@@ -29,6 +29,6 @@ d) azoknak a jogszabályoknak, jogszabállyal kötelezővé tett szabványoknak 
 [^4]: A 2. § (3) bekezdés c) pontja a 42/2014. (II. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 83. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés a) pontja szerint módosított szöveg.
 [^6]: A 2. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: A 2. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 2. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^8]: [A 2. § (7) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés a) pontjával elrendelt módosítás, amely szerint a „felügyelőséget” szövegrész helyébe a „vízügyi hatóságot” lép, nem vezethető át. A 2. § (7) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés b) pontjával elrendelt módosítás, amely szerint a „felügyelőségnek” szövegrész helyébe a „vízügyi hatóságnak” lép, nem vezethető át.]
 [^9]: A 2. § (8) bekezdését a 100/2014. (III. 25.) Korm. rendelet 1. § (1) bekezdése iktatta be.
