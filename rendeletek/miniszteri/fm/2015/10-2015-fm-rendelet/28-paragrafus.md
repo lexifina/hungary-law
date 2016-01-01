@@ -1,4 +1,4 @@
-## 27/C. §[^32] E rendeletnek az egyes közvetlen támogatásokkal kapcsolatos, valamint egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 52/2015. (IX. 7.) FM rendelettel [a továbbiakban: 52/2015. (IX. 7.) FM rendelet] megállapított 3. § (2), (3), (4) és (7) bekezdését, 17. § (1) bekezdését és 26. §-át az 52/2015. (IX. 7.) FM rendelet hatálybalépésekor[^33] folyamatban lévő ügyekben is alkalmazni kell.
+## 27/C. §[^33] E rendeletnek az egyes közvetlen támogatásokkal kapcsolatos, valamint egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 52/2015. (IX. 7.) FM rendelettel [a továbbiakban: 52/2015. (IX. 7.) FM rendelet] megállapított 3. § (2), (3), (4) és (7) bekezdését, 17. § (1) bekezdését és 26. §-át az 52/2015. (IX. 7.) FM rendelet hatálybalépésekor[^34] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 27. Az Európai Unió jogának való megfelelés
 
@@ -16,5 +16,5 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^32]: A 27/C. §-t az 52/2015. (IX. 7.) FM rendelet 32. §-a iktatta be.
-[^33]: A hatálybalépés időpontja 2015. szeptember 8.
+[^33]: A 27/C. §-t az 52/2015. (IX. 7.) FM rendelet 32. §-a iktatta be.
+[^34]: A hatálybalépés időpontja 2015. szeptember 8.

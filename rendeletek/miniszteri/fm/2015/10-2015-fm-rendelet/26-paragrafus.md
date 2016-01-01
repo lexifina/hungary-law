@@ -1,6 +1,6 @@
-## 25.[^27]
+## 25.[^28]
 
-26. §[^28] (1) Amennyiben az adminisztratív vagy a helyszíni ellenőrzés során megállapításra kerül, hogy az ökológiai jelentőségű területekre vonatkozóan előírt követelmények alól a 25. § alapján nem mentesülő mezőgazdasági termelő nem rendelkezik az 1307/2013/EU rendelet 46. cikk (1) bekezdése szerinti, az általa bejelentett szántóterület legalább 5%-ának megfelelő ökológiai jelentőségű területtel, úgy az egységes kérelem beadására nyitva álló időszak utolsó napjáig bejelentett ökológiai jelentőségű területe mértékéig a (2)–(9) bekezdés szerinti kompenzációban (a továbbiakban: kompenzáció) részesül.
+26. §[^29] (1) Amennyiben az adminisztratív vagy a helyszíni ellenőrzés során megállapításra kerül, hogy az ökológiai jelentőségű területekre vonatkozóan előírt követelmények alól a 25. § alapján nem mentesülő mezőgazdasági termelő nem rendelkezik az 1307/2013/EU rendelet 46. cikk (1) bekezdése szerinti, az általa bejelentett szántóterület legalább 5%-ának megfelelő ökológiai jelentőségű területtel, úgy az egységes kérelem beadására nyitva álló időszak utolsó napjáig bejelentett ökológiai jelentőségű területe mértékéig a (2)–(9) bekezdés szerinti kompenzációban (a továbbiakban: kompenzáció) részesül.
 
 (2) Kompenzációra jogosult az a mezőgazdasági termelő, akinél az ellenőrzés folyamán megállapításra kerül, hogy
 
@@ -30,5 +30,5 @@ c) amelyet a mezőgazdasági termelő az egységes kérelem benyújtására rend
 
 (10) A bejelentett ökológiai jelentőségű területekkel kapcsolatosan tárgyév szeptember 20-a után megállapított nem megfelelésekről az MVH nem köteles a mezőgazdasági termelőt külön értesíteni.
 
-[^27]: A 25. alcímet (26. §) a 12/2015. (III. 30.) FM rendelet 32. § (4) bekezdése hatályon kívül helyezte.
-[^28]: A 26. §-t a 12/2015. (III. 30.) FM rendelet 32. § (4) bekezdése hatályon kívül helyezte, újonnan az 52/2015. (IX. 7.) FM rendelet 31. §-a iktatta be.
+[^28]: A 25. alcímet (26. §) a 12/2015. (III. 30.) FM rendelet 32. § (4) bekezdése hatályon kívül helyezte.
+[^29]: A 26. §-t a 12/2015. (III. 30.) FM rendelet 32. § (4) bekezdése hatályon kívül helyezte, újonnan az 52/2015. (IX. 7.) FM rendelet 31. §-a iktatta be.
