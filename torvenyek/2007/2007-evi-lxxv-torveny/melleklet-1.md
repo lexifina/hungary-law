@@ -1,6 +1,6 @@
 1. melléklet a 2007. évi LXXV. törvényhez
 
-„1. MELLÉKLET
+1. MELLÉKLET
 
 MÍNŐSÍTÉS IRÁNTI KÉRELEM
 
@@ -58,7 +58,9 @@ b) eredménye,
 
 7. A kérelemnek tartalmaznia kell az alábbi nyilatkozatot:
 
-„Fegyelmi felelősségem tudatában kijelentem, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek és bizonyítékokkal alátámaszthatók. Tudomásul veszem, hogy a könyvvizsgálói közfelügyeleti hatóság jogosult a kérelemben feltüntetett adatok ellenőrzésére, illetve azok alátámasztására további bizonyítékokat kérni, amennyiben azok valódiságával kapcsolatban kétely merül fel.”
+„Fegyelmi felelősségem tudatában kijelentem, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek és bizonyítékokkal alátámaszthatók. Tudomásul veszem, hogy a könyvvizsgálói közfelügyeleti hatóság jogosult a kérelemben feltüntetett adatok ellenőrzésére, illetve azok alátámasztására további bizonyítékokat kérni, amennyiben azok valódiságával kapcsolatban kétely merül fel.
+
+Nyilatkozom, hogy a kérelem benyújtásával egyidejűleg az igazgatási szolgáltatási díjat megfizettem.”
 
 8. Dátum
 
@@ -88,4 +90,6 @@ Az 50. § (2) bekezdés b) pontra alapozott kérelem esetén alábbiaknak megfel
 
 Az 50. § (2) bekezdés c) pontra alapozott kérelem esetén a kamara oktatási bizottsága által kiállított, a szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás.
 
-II. A pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyelete alá tartozó gazdálkodóknál külön jogszabályban meghatározott könyvvizsgálói minősítések esetén a kamara oktatási bizottsága által kiállított, a szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás szükséges.”
+II. A pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyelete alá tartozó gazdálkodóknál külön jogszabályban meghatározott könyvvizsgálói minősítések esetén a kamara oktatási bizottsága által kiállított, a szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás szükséges.
+
+III. A kérelemhez csatolni kell az eljárás igazgatási szolgáltatási díjának befizetését igazoló fizetési számlák közötti átutalási megbízás, illetve fizetési számlára postai úton történő készpénz-átutalási megbízás másolatát.

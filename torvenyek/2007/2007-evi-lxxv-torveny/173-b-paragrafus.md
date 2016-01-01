@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben meghatározott időtartamba nem számít bele az az időszak, amelyben a kamarai tag könyvvizsgáló szüneteltette a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását.
 
-(3) A minőségellenőrzés tekintetében a közfelügyeleti hatóság jár el.
+(3) A minőségellenőrzés tekintetében a közfelügyeleti hatóság jár el. A közfelügyeleti hatóság a minőségellenőrzés lefolytatására a közérdeklődésre számot tartó gazdálkodó éves beszámolójáról szóló könyvvizsgálói jelentés kibocsátását követő 3 naptári éven belül jogosult, azzal, hogy a minőségellenőrzés azt az időszakot fedi le, amely időszakban a kamarai tag könyvvizsgáló, könyvvizsgáló cég rendelkezett közérdeklődésre számot tartó gazdálkodóval megkötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására irányuló megbízással.
 
 (4) Rendkívüli minőségellenőrzést kell lefolytatni, ha azt
 

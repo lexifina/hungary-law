@@ -12,7 +12,7 @@ e) vállalja, hogy más kamarai tag könyvvizsgálónál, könyvvizsgáló cégn
 
 f) vállalja, hogy könyvvizsgáló cégen kívül más gazdálkodó szervezetben (szervezetben) személyes közreműködésre tagként, vezető tisztségviselőként a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megkezdésének időpontjától nem lesz kötelezett [ide nem értve a (2) bekezdés szerinti jogviszonyt],
 
-g) a kamara alapszabályában meghatározott mértékű, Magyarország területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
+g) – a 22/A. §-ban foglaltak kivételével – a kamara alapszabályában meghatározott mértékű, Magyarország területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
 
 h) a kamara alapszabályában és a kamara önkormányzati szabályzataiban foglaltakat magára kötelezőnek ismeri el,
 

@@ -12,7 +12,7 @@ e) a gazdálkodó szervezet (szervezet) jó üzleti hírnévvel rendelkezik,
 
 f) nem végez olyan tevékenységet, amely akadályozná a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátásában,
 
-g) a kamara alapszabályában meghatározott mértékű, Magyarország területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
+g) – a 40/A. §-ban foglaltak kivételével – a kamara alapszabályában meghatározott mértékű, Magyarország területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
 
 h) a kamara alapszabályában és a kamara önkormányzati szabályzataiban foglaltakat magára kötelezőnek ismeri el,
 

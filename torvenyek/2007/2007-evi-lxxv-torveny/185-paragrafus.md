@@ -4,9 +4,9 @@
 
 (3) Az (1) és (2) bekezdésben foglaltak érdekében az éves állami központi költségvetésben – a miniszter által vezetett minisztérium költségvetési fejezetén belül – biztosítani kell a könyvvizsgálói közfelügyeleti rendszer megfelelő működéséhez szükséges költségvetési hozzájárulást.
 
-(4) A közfelügyeleti hatóságnak a közfelügyeleti feladatok ellátásáért a kamara közfelügyeleti díjat fizet.
+(4) A közfelügyeleti hatóságnak a közfelügyeleti feladatok ellátásáért a kamara közfelügyeleti díjat fizet. A közfelügyeleti hatóság a kamarától kapott közfelügyeleti díjat a közfelügyeleti feladatok ellátására fordítja.
 
-(5) A közfelügyeleti díj mértéke a kamara tagdíjakból, hozzájárulási díjakból származó tárgyévi bevételének öt százaléka.
+(5) A közfelügyeleti díj mértéke a kamara tagdíjakból, hozzájárulási díjakból származó tárgyévi bevételének tíz százaléka.
 
 (6) Az (5) bekezdés szerinti közfelügyeleti díjat a kamara tárgyév december 31-ig fizeti meg a közfelügyeleti hatóság fizetési számlájára.
 
