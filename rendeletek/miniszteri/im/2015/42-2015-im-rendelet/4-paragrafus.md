@@ -1,0 +1,3 @@
+## 3. § A természetes személyek bíróságon kívüli adósságrendezési eljárásában a résztvevők közötti kapcsolattartásról, valamint a főhitelező feladatairól szóló 16/2015. (VIII. 28.) IM rendelet [a továbbiakban: 16/2015. (VIII. 28.) IM rendelet] 1. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) A hitelezők díjmentesen adnak tájékoztatást az adós tartozásállományára vonatkozóan az adósságrendezési eljárás kezdeményezéséhez és az adósságrendezés lefolytatásához. Az adósságrendezés kezdeményezését megelőzően igényelt tájékoztatás esetén az adós nyilatkozik arról, hogy a tájékoztatást az adósságrendezési eljárás kezdeményezése céljából igényli.”

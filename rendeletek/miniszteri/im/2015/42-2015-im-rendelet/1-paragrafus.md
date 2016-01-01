@@ -1,0 +1,1 @@
+## 1. A természetes személyek adósságrendezési eljárása kezdeményezéséhez benyújtandó kérelemről és az ahhoz csatolandó űrlapokról, dokumentumokról és nyilatkozatokról szóló 15/2015. (VIII. 28.) IM rendelet módosítása

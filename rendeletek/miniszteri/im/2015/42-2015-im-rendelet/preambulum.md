@@ -1,0 +1,5 @@
+A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 106. § (2) bekezdés b) pontjában kapott felhatalmazás alapján,
+
+a 2. alcím tekintetében a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 106. § (2) bekezdés a) pontjában kapott felhatalmazás alapján
+
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
