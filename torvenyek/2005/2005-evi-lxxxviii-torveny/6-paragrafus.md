@@ -31,3 +31,5 @@ f) bármelyik fél azonnali hatályú felmondáshoz való jogát korlátozzák,
 g) az önkéntes kéri, vagy
 
 h) ezt jogszabály elrendeli.
+
+(6) A fogadó szervezet az írásba foglalt önkéntes szerződést annak megszűnésétől számított öt évig megőrzi.
