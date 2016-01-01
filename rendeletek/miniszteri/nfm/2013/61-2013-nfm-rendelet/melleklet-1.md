@@ -280,15 +280,15 @@ c)[^17]
 
 „1. Az 1 osztály anyagai és tárgyai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát.
 
-2. A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
+2.[^18] A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
 
 3. Tartányos szakosító vizsgára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát, legalább két éve, C kategóriára érvényes vezetői engedéllyel rendelkezik, és a 18. pontban előírt vezetési gyakorlatról szóló igazolását bemutatta.
 
 4. Ismeretfelújító vizsgára az a hallgató bocsátható, aki az adott osztályra és szállítási módra a vizsga időpontjában érvényes ADR oktatási bizonyítvánnyal rendelkezik.”
 
-24.[^18] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
+24.[^19] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
 
-„A járművezetők ezt a képzést az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet szerinti, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja.”
+„A járművezetők ezt a képzést az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja.”
 
 [^7]: Az 1. melléklet 4a. pontját az 52/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
 [^8]: Az 1. melléklet 5. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
@@ -301,4 +301,5 @@ c)[^17]
 [^15]: Az 1. melléklet 16. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
 [^16]: Az 1. melléklet 17. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
 [^17]: Az 1. melléklet 20. pont c) alpontját az 52/2015. (IX. 18.) NFM rendelet 4. §-a hatályon kívül helyezte.
-[^18]: Az 1. melléklet 24. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
+[^18]: A 1. melléklet 23. pont 2. alpontja a 77/2015. (XII. 30.) NFM rendelet 8. § szerint módosított szöveg.
+[^19]: Az 1. melléklet 24. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított, a 77/2015. (XII. 30.) NFM rendelet 8. §-a szerint módosított szöveg.
