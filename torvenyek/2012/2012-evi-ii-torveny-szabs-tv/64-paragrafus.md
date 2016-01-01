@@ -10,6 +10,6 @@
 
 (5) Az eljárás alá vont személy és a sértett – a műtét és a műtétnek minősülő vizsgálati eljárás kivételével – köteles alávetni magát a szakértői vizsgálatnak, illetve beavatkozásnak.
 
-(6) Ha a szakvélemény hiányos, önmagával ellentmondó megállapításokat tartalmaz, a kirendelő hatóság felhívására a szakértő köteles a kért felvilágosítást megadni, a szakvéleményt kiegészíteni. Ha a szakvélemény hiányossága így sem pótolható, illetve ellentmondásai nem oldhatók fel, kérelemre vagy hivatalból más szakértő is kirendelhető.
+(6) Ha a szakvélemény hiányos, önmagával ellentmondó megállapításokat tartalmaz, a kirendelő hatóság felhívására a szakértő köteles a kért felvilágosítást megadni, a szakvéleményt kiegészíteni. Ha a szakvélemény hiányossága így sem pótolható, illetve ellentmondásai nem oldhatók fel, kérelemre vagy hivatalból más szakértő is kirendelhető; e döntés ellen nincs helye jogorvoslatnak.
 
 (7) Az e törvényben nem szabályozott kérdésekben a szakértőkre az igazságügyi szakértői tevékenységről szóló törvény rendelkezései irányadók.

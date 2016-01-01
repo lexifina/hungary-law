@@ -1,4 +1,4 @@
-132. § (1) Ha a bíróság – a tárgyalás eredményétől függően – megállapítja, hogy a perújítás alapos, az alapügyben hozott végzést egészben vagy részben hatályon kívül helyezi és új végzést hoz, ha pedig a perújítási kérelmet alaptalannak találja, azt végzéssel elutasítja.
+132. § (1) Ha a bíróság megállapítja, hogy a perújítási kérelem alapos, az alapügyben hozott végzést egészben vagy részben hatályon kívül helyezi és új végzést hoz, ha pedig a perújítási kérelmet alaptalannak találja, azt végzéssel elutasítja.
 
 (2) Az elkövető javára előterjesztett perújítás alapján az alapügyben hozott jogerős végzést nem lehet az elkövető terhére megváltoztatni.
 

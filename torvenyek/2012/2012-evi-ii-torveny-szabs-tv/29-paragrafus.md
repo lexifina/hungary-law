@@ -2,7 +2,29 @@
 
 ## 19. Értelmező rendelkezések
 
-29. § (1) A szándékosság és a gondatlanság, a kísérlet, a társtettes, a közvetett tettes, a felbujtó, a bűnsegéd, a hozzátartozó, a csoportos elkövetés, a nagy nyilvánosság fogalmára, valamint a büntethetőséget kizáró okokra a Büntető Törvénykönyvről szóló törvény által meghatározottakat a szabálysértésekre is alkalmazni kell.
+29. § (1) E törvény eltérő rendelkezésének hiányában
+
+a) a szándékosság és a gondatlanság,
+
+b) a kísérlet,
+
+c) a társtettes és a közvetett tettes,
+
+d) a felbujtó és a bűnsegéd,
+
+e) a hozzátartozó,
+
+f) a csoportos elkövetés,
+
+g) a nagy nyilvánosság fogalmára,
+
+h) a büntethetőséget kizáró okokra,
+
+i) a magánindítványra, valamint
+
+j) a Büntető Törvénykönyvről szóló törvény (a továbbiakban: Btk.) 370. § Lopás, Btk. 371. § Rongálás, Btk. 372. § Sikkasztás, Btk. 373. § Csalás, Btk. 376. § Hűtlen kezelés, Btk. 378. § Jogtalan elsajátítás és a Btk. 379. § Orgazdaság tényállásoknak megfelelő szabálysértési tényállásokra
+
+a Btk. által – az a)–d), h) és i) pont esetén az általános részben, az e)–g) pont esetén a záró részben, valamint a j) pont esetén a különös részi tényállásokban – meghatározottakat a szabálysértések tekintetében is alkalmazni kell.
 
 (2) E törvény alkalmazásában:
 
@@ -13,3 +35,5 @@ b) nyilvános hely a közterületnek nem tekinthető, mindenki számára nyitva 
 c) helyszínről elmenekültnek minősül az a személy is, aki a szabálysértés helyszínét a rendőrség kiérkezése előtt elhagyja, feltéve, hogy a rendőrség által a szabálysértés helyszínén beszerzett bizonyítékok alapján a személyazonossága és a holléte valószínűsíthető,
 
 d) médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
+
+e) nyilvános rendezvény a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett látogatható.

@@ -1,16 +1,32 @@
 ## 105. A pénzbírság, a helyszíni bírság, a szabálysértési költség, a rendbírság valamint az okozott kár végrehajtása
 
-141. § (1) A pénzbírságot, a helyszíni bírságot, a rendbírságot, a szabálysértési költséget és az okozott kárt a határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni.
+141. § (1) A pénzbírságot, a helyszíni bírságot, a rendbírságot, a szabálysértési költséget és az okozott kárt a határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni. A pénzbírság, a helyszíni bírság, a rendbírság, valamint a szabálysértési költség befizetéséből származó bevétel az államháztartás központi alrendszerének bevételét képezi.
 
-(2) A szabálysértési hatóságok által kiszabott pénzbírság, valamint a rendőrség, a járási hivatal arra felhatalmazott ügyintézője, a Nemzeti Adó- és Vámhivatal vámszerve által kiszabott helyszíni bírság végrehajtásáról a kiszabó szerv szabálysértési hatósága gondoskodik.
+(2) Az általános szabálysértési hatóság által kiszabott helyszíni bírság, valamint pénzbírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
-(3) A bíróság által kiszabott pénzbírság, szabálysértési költség, rendbírság befizetésének ellenőrzéséről és végrehajtásáról, a 39. § (2) bekezdés c)–i) pontjában meghatározottak által kiszabott helyszíni bírság végrehajtásáról az elkövető lakóhelye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
+(2a) A szabálysértési hatóság jogkörében eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott rendőri szerv szabálysértési hatósága által kiszabott pénzbírság, valamint helyszíni bírság végrehajtásáról a szabálysértési jogkörben eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott szabálysértési hatósági jogkörben eljáró rendőri szerv gondoskodik.
+
+(2b) A Nemzeti Adó- és Vámhivatal vámszerve által kiszabott pénzbírság, valamint helyszíni bírság végrehajtásáról a Nemzeti Adó- és Vámhivatal vámszerve gondoskodik.
+
+(2c) A (2a) és (2b) bekezdés szerinti esetben a helyszíni bírság és a pénzbírság végrehajtásáról azon szerv gondoskodik, amelyik
+
+a) az elkövető lakóhelye,
+
+b) tartózkodási helye,
+
+c) a végrehajtás gyorsabb és eredményesebb lefolytatása érdekében az elkövetés helye, valamint
+
+d) a felderítés helye
+
+szerint illetékes.
+
+(3) A bíróság által kiszabott pénzbírság, szabálysértési költség, rendbírság befizetésének ellenőrzéséről és végrehajtásáról, a 39. § (2) bekezdés c)–i) pontjában meghatározottak által kiszabott helyszíni bírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
 (4) A bíróság az alkalmazott joghátrányokról, a jogerős határozat kiadmányának megküldésével értesíti a (3) bekezdésben meghatározott általános szabálysértési hatóságot.
 
-(5) A helyszíni bírságot kiszabó szerv a nála keletkezett iratok megküldésével – a (2) bekezdésben meghatározottak kivételével – akkor értesíti az elkövető lakóhelye szerinti általános szabálysértési hatóságot, ha a helyszíni bírság a kiszabását követő harmincötödik napon sem folyt be.
+(5) A 39. § (2) bekezdés c)–i) pontjában meghatározott helyszíni bírságot kiszabó személy a nála keletkezett iratok megküldésével – a (2) bekezdésben meghatározottak kivételével – akkor értesíti az elkövető lakóhelye szerinti általános szabálysértési hatóságot, ha a helyszíni bírság a kiszabását követő harmincötödik napon sem folyt be.
 
-(6) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított határidőn belül nem fizeti meg, a szabálysértési hatóság a meg nem fizetett bírság szabálysértési elzárásra átváltoztatásának szükségessége esetén az ügy iratait haladéktalanul megküldi
+(6) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított határidőn belül nem fizeti meg, a végrehajtást foganatosító szabálysértési hatóság a meg nem fizetett bírság szabálysértési elzárásra átváltoztatásának szükségessége esetén az ügy iratait haladéktalanul megküldi
 
 a) bíróság által kiszabott pénzbírság esetén annak a járásbíróságnak, amelyik az ügyben érdemi határozatot hozott,
 
@@ -54,7 +70,7 @@ g) a szabálysértési elzárásra átváltoztatás tárgyában hozott határoza
 
 h) a bíróság az ügy elbírálását követően az ügy iratait és indokolt határozatának egy kiadmányát visszaküldi a szabálysértési hatóságnak.
 
-(14) Ha az elkövető vagy helyette más a pénzbírságot, illetve a szabálysértési elzárásra átváltoztatott pénzbírságnak a még le nem töltött napoknak megfelelő összegét igazoltan megfizeti,
+(14) Ha az elkövető vagy helyette más a pénzbírságot, a helyszíni bírságot, illetve a szabálysértési elzárásra átváltoztatott pénzbírságnak vagy helyszíni bírságnak a még le nem töltött napoknak megfelelő összegét igazoltan megfizeti,
 
 a) a szabálysértési elzárás nem foganatosítható, illetve
 
@@ -62,6 +78,6 @@ b) a szabálysértési elzárás foganatosítását követően az elkövetőt ny
 
 (15) A szabálysértési elzárás letöltéséről, illetőleg az azonnali szabadításról a büntetés-végrehajtási intézet a szabálysértési hatóságot haladéktalanul értesíti.
 
-(16) Ha a szabálysértési költséget, a rendbírságot az arra kötelezett határidőn belül nem fizeti meg, azt adók módjára kell behajtani, az okozott kár értékének megtérítését pedig a bírósági végrehajtásról szóló törvény szabályai szerint kérelmezheti a károsult.
+(16) Ha a szabálysértési költséget, a rendbírságot, az elővezetési költséget az arra kötelezett határidőn belül nem fizeti meg, azt adók módjára kell behajtani, az okozott kár értékének megtérítését pedig a bírósági végrehajtásról szóló törvény szabályai szerint kérelmezheti a károsult.
 
 (17) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított harminc napon belül nem fizeti meg, azt adók módjára kell behajtani, ha nincs helye elzárásra történő átváltoztatásnak, valamint közérdekű munkával sem váltotta azt meg.

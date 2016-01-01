@@ -18,12 +18,14 @@ szabálysértést követ el.
 
 (2) Aki
 
-a) a légfegyver, gáz- és riasztófegyver, muzeális fegyver, színházi fegyver, illetve hatástalanított lőfegyver gyártására, kereskedelmére, megszerzésére, birtoklására, viselésére, tartására vagy használatára vonatkozó szabályokat megszegi,
+a) a légfegyver, a gáz- és riasztófegyver, a muzeális fegyver, a színházi fegyver, a festéklövő fegyver, illetve a hatástalanított lőfegyver, a flóberttöltény, a gáztöltény, a riasztótöltény, illetve a vaktöltény gyártására, forgalmazására, javítására, megszerzésére, birtoklására, viselésére, tartására vagy használatára vonatkozó szabályokat megszegi,
 
 b) a lőtér üzemeltetésére vonatkozó rendelkezéseket megszegi,
 
 szabálysértést követ el.
 
-(2a) E § alkalmazásában csekély mennyiség a legfeljebb tíz darab lőszer.
+(2a) Aki a visszavont hatósági engedélyben meghatározott lőfegyveréhez tartozó, gondatlanságból hatósági engedély nélkül továbbtartott csekély mennyiségű lőszer szabályszerű elidegenítéséről vagy hatósági tárolásba vételéről a hatóság felhívása ellenére három munkanapon belül nem gondoskodik, szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2b) E § alkalmazásában csekély mennyiség a legfeljebb tíz darab lőszer.
+
+(3) Az (1)–(2a) bekezdésben meghatározott szabálysértések miatt az eljárás a rendőrség hatáskörébe tartozik.

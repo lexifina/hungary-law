@@ -4,4 +4,4 @@
 
 (2) Ha a tárgyi bizonyítási eszköz nem alkalmas lefoglalásra, akkor a szabálysértéssel kapcsolatos egyedi tulajdonságainak leírását rögzítő iratot, fényképet vagy más felvételt kell az iratokhoz csatolni.
 
-(3) A bíróság, illetve a szabálysértési hatóság elrendelheti annak az ismeretlen helyen lévő egyedi azonosításra alkalmas tárgynak a körözését, amely a törvény értelmében lefoglalható.
+(3) A bíróság, illetve a szabálysértési hatóság elrendelheti annak az ismeretlen helyen lévő, egyedi azonosításra alkalmas tárgynak a körözését, amely a törvény értelmében lefoglalható. Az így elrendelt körözést legkésőbb az ügy érdemi lezárásakor vissza kell vonni.

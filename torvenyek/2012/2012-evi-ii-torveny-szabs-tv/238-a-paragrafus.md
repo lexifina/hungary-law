@@ -12,7 +12,7 @@ b) a szerzői jogról szóló törvény szerint a magáncélú másolásra tekin
 
 szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal hatáskörébe tartozik.
 
 (3) Nem valósítja meg az (1) bekezdés a) pontja szerinti szabálysértést, aki másnak vagy másoknak a szerzői jogról szóló törvény alapján fennálló szerzői vagy ahhoz kapcsolódó jogát vagy jogait többszörözéssel vagy lehívásra történő hozzáférhetővé tétellel sérti meg, feltéve, hogy a cselekmény jövedelemszerzés célját közvetve sem szolgálja.
 

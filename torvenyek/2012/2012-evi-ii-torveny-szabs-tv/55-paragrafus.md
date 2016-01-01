@@ -2,4 +2,6 @@
 
 55. § (1) A sértett érdekében a szabálysértési eljárás bármely szakaszában törvényes képviselője vagy az általa vagy törvényes képviselője által írásban meghatalmazott nagykorú személy (a továbbiakban együtt: a sértett képviselője) járhat el.
 
+(1a) Nem járhat el a sértett képviselőjeként az, aki az ügyben, mint eljárás alá vont személy, tanú vesz vagy vett részt.
+
 (2) A sértett képviselőjének kérdezési, indítványtételi és irat megtekintési jogaira az 54. § (2) bekezdése az irányadó.

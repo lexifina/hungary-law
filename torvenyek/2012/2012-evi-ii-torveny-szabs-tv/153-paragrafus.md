@@ -10,7 +10,7 @@ b) a szabálysértési hatóság vagy a bíróság jogerős döntésében megál
 
 c) az eljárt szabálysértési hatóság, első- és másodfokon eljárt bíróság, valamint perújítás során eljáró bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját,
 
-d) a kiszabott büntetés nemét és mértékét, valamint beszámításokkal csökkentett mértékét,
+d) a kiszabott büntetés nemét és mértékét, valamint beszámításokkal csökkentett mértékét, illetve a szabálysértési elzárás büntetés végrehajtásának próbaidőre való felfüggesztése tényét
 
 e) az alkalmazott intézkedés nemét és mértékét, járművezetéstől eltiltás esetén a járműkategóriát és járműfajtát, sportrendezvények látogatásától történő kitiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését, kereskedelmi helyiségek látogatásától történő kitiltás esetén a kereskedelmi létesítmény megnevezését, vagy egyéb helyszínt,
 
@@ -26,7 +26,7 @@ j) a kiszabott büntetés, alkalmazott intézkedés elengedésének, illetve mé
 
 k) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás elhalasztásának vagy félbeszakításának tényét, az erről szóló határozat számát és keltét,
 
-l) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás előjegyzett kezdő és utolsó napját, tényleges kezdő és utolsó napját, illetve az azonnali szabadítás elrendelésének az időpontját,
+l) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás előjegyzett kezdő és utolsó napját, tényleges kezdő és utolsó napját, az azonnali szabadítás elrendelésének az időpontját, az elzárás felfüggesztésének tényét és a próbaidő tartamát.
 
 m) a közérdekű munka büntetésre jelentkezés időpontját, teljesítésének kezdő és befejező időpontját, vagy nem teljesítésének tényét,
 
@@ -54,11 +54,13 @@ c) a (2) bekezdés j) pontja esetén a szabálysértési szabályozásért felel
 
 d) a (2) bekezdés k) pontja esetén az engedélyező szerv,
 
-e) a (2) bekezdés l) pontja esetén a büntetés-végrehajtási intézet, valamint a szabálysértési elzárás rendőrségi fogdán történő végrehajtása esetén az előkészítő eljárást lefolytató szerv,
+e) a (2) bekezdés l) pontja esetén – kivéve a (3a) bekezdésben foglaltakat – a büntetés-végrehajtási intézet, valamint a szabálysértési elzárás rendőrségi fogdán történő végrehajtása esetén az előkészítő eljárást lefolytató szerv,
 
 f) a (2) bekezdés o) pontja esetén az a szerv vagy személy, amelyik vagy aki a helyszíni bírságot kiszabta,
 
 g) a (2) bekezdés g), h) és m) pontja esetén az állami foglalkoztatási szerv.
+
+(3a) A (2) bekezdés l) pontjában az elzárás felfüggesztésének tényére és a próbaidő tartamára vonatkozó adatot a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában – jogszabályban meghatározott módon és formában – a bíróság rögzíti.
 
 (4) Ha
 

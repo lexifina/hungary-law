@@ -8,6 +8,8 @@ b) az elkövető képviselője, kivéve, ha az elkövető ezt megtiltja,
 
 c) a fiatalkorú elkövető törvényes képviselője, gondozója.
 
+d) az ügyész, a 127. § (1a) bekezdésében meghatározott esetben.
+
 (2) Az (1) bekezdésben meghatározott személyek által előterjesztett perújítási kérelem alapján a határozatot az elkövető hátrányára nem lehet megváltoztatni.
 
 (3) Az ügyész terjeszthet elő perújítási kérelmet, ha az elkövető által elkövetett bűncselekményt e törvény szerinti eljárásban, szabálysértésként bírálták el.

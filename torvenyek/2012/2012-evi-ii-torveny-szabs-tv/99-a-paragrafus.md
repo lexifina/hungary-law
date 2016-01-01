@@ -6,7 +6,7 @@
 
 (3) Az (1) bekezdés szerinti eljárás lefolytatására – az Alkotmánybíróság határozata alapján indított eljárás kivételével – a helyszíni bírságot kiszabó szerv vagy személy csak egy ízben, a döntés közlésétől számított hat hónapon belül jogosult, ha döntése
 
-a) a 2. § (4), (5), (7) és (8) bekezdésébe, a 27. § (2) bekezdés c) pontjába vagy második fordulatába, a 27. § (3) bekezdésébe, a 39. § (2) bekezdésébe, a 83. § (1) bekezdés a), c) és e) pontjába, valamint a 99. § (2) és (7)–(9) bekezdésébe ütközik,
+a) a 2. § (4), (5), (7) és (8) bekezdésébe, a 27. § (2) bekezdés c) pontjába vagy a (2a) bekezdésébe, a 27. § (3) bekezdésébe, a 39. § (2) bekezdésébe, a 83. § (1) bekezdés a), c) és e) pontjába, valamint a 99. § (2) és (7)–(9) bekezdésébe ütközik,
 
 b) kormányrendeletben meghatározott, a helyszíni bírság kötelező mértékére vonatkozó rendelkezésbe ütközik, feltéve, hogy a kiszabott bírság a kormányrendeletben meghatározottnál magasabb összegben került megállapításra.
 

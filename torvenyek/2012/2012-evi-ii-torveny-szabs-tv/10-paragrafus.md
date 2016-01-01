@@ -4,6 +4,6 @@ a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításár�
 
 b) a várandósság tizenkettedik hetét elérő nő,
 
-c) tizennegyedik életévét be nem töltött gyermekét egyedül nevelő szülő,
+c) tizennegyedik életévét be nem töltött gyermekét egyedül nevelő szülő, gyám,
 
 d) fogyatékos, vagy folyamatos ápolást, felügyeletet, gondozást igénylő hozzátartozójáról egyedül gondoskodik.

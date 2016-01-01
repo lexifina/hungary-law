@@ -20,4 +20,4 @@
 
 (7) Az előkészítő eljárás során az eljárás megszüntetésére a 83. §-ban, valamint a panasszal kapcsolatban a 98. §-ban foglaltakat kell alkalmazni.
 
-(8) Ha a tulajdon elleni szabálysértés elkövetésével gyanúsítható személy lakóhelye, illetve tartózkodási helye ismeretlen, lakóhelyének, illetve tartózkodási helyének megállapítása, valamint előállítása érdekében a bíróság vagy az előkészítő eljárást folytató szerv a körözését rendelheti el. A körözést vissza kell vonni, ha az elrendelésének oka megszűnt. A körözés elrendeléséről szóló határozat ellen nincs helye jogorvoslatnak.
+(8) Ha a szabálysértési elzárással is büntethető szabálysértés elkövetésével gyanúsítható személy lakóhelye, illetve tartózkodási helye ismeretlen, lakóhelyének, illetve tartózkodási helyének megállapítása, valamint előállítása érdekében a bíróság vagy az előkészítő eljárást folytató szerv a körözését rendelheti el. A körözést vissza kell vonni, ha az elrendelésének oka megszűnt. A körözés elrendeléséről szóló határozat ellen nincs helye jogorvoslatnak.

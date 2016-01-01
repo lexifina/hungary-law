@@ -1,6 +1,6 @@
 ## 45. A tanúvallomás
 
-58. § (1) A tényállás tanú vallomásával is bizonyítható.
+58. § (1) A tényállás tanú vallomásával is bizonyítható. Tanúként az hallgatható meg, akinek a bizonyítandó tényről tudomása lehet.
 
 (2) A tanú idézésre köteles megjelenni és – ha e törvény másképp nem rendelkezik – vallomást tenni.
 

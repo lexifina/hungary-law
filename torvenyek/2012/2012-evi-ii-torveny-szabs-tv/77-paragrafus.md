@@ -1,6 +1,6 @@
 ## 63. A rendbírság
 
-77. § (1) A szabálysértési hatóság, illetve a bíróság e törvény által előírt eljárási kötelességek teljesítése érdekében, továbbá az eljárás rendjének megzavarása miatt rendbírsággal sújthatja különösen
+77. § (1) A szabálysértési hatóság, az előkészítő eljárást lefolytató szerv, illetve a bíróság az e törvény által előírt eljárási kötelességek teljesítése érdekében, továbbá az eljárás rendjének megzavarása miatt rendbírsággal sújthatja különösen
 
 a) a szemle tárgyának birtokosát, ha nem teszi lehetővé a tárgy, illetve helyszín megtekintését, megfigyelését,
 
@@ -14,9 +14,11 @@ e) az eljárás alá vont személy kivételével azt, aki a lefoglalást, a ruh�
 
 f) azt, aki a meghallgatás, illetve tárgyalás rendjét megzavarja,
 
-g) a tanút vagy a szakértőt, ha szabályszerű idézés ellenére nem jelenik meg és ezt előzetesen, vagy mihelyt az akadály a tudomására jut, haladéktalanul, vagy ha ez már nem lehetséges, az akadály megszűnése után nyomban, alapos okkal nem igazolja, illetve az eljárási cselekményről engedély nélkül eltávozik,
+g) a tanút, a kiskorú tanú törvényes képviselőjét, vagy a szakértőt, ha szabályszerű idézés ellenére nem jelenik meg és ezt előzetesen, vagy mihelyt az akadály a tudomására jut, haladéktalanul, vagy ha ez már nem lehetséges, az akadály megszűnése után nyomban, alapos okkal nem igazolja, illetve az eljárási cselekményről engedély nélkül eltávozik,
 
-h) a kiskorú gondozóját, ha a 62. § (8) bekezdése szerint idézett kiskorú nem jelenik meg és gondozója nem igazolja, hogy a kiskorú távolmaradásában vétlen.
+h) a kiskorú törvényes képviselőjét, ha a 62. § (8) bekezdése szerint idézett kiskorú nem jelenik meg és törvényes képviselője nem igazolja, hogy a kiskorú távolmaradásában vétlen.
+
+i) az e törvény rendelkezései szerint az előkészítő eljárást lefolytató szerv, szabálysértési hatóság illetve a bíróság által megkeresett szervet vagy személyt, ha a megkeresés teljesítésével kapcsolatos kötelezettségeit nem teljesíti.
 
 (2) A rendbírság legalacsonyabb összege ötezer, legmagasabb összege százezer – ha a rendbírság kiszabására ugyanabban az eljárásban ismételten kerül sor, százötvenezer – forint. Bírósági eljárásban a legmagasabb rendbírság százötvenezer, ismételt esetben kétszázezer forint.
 

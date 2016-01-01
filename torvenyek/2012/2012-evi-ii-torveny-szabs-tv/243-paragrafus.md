@@ -8,4 +8,6 @@ b) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló t�
 
 szabálysértést követ el.
 
+(1a) Az (1) bekezdés a) pontjában meghatározott szabálysértés miatt kiszabott pénzbírságról, helyszíni bírságról a szabálysértési hatóság, valamint a helyszíni bírságolásra jogosult szerv vagy személy haladéktalanul értesíti az erdészeti hatóságot.
+
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az erdészeti hatóság arra felhatalmazott ügyintézője, a természeti, védett természeti és Natura 2000 területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.

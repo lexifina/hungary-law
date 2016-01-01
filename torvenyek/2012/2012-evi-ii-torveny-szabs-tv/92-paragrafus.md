@@ -4,9 +4,9 @@
 
 a) mindaz a költség, amelyet az állam a szabálysértés bizonyítása érdekében a büntetés, illetve az intézkedés végrehajtásának befejezéséig, továbbá a perújítási eljárás során előlegezett,
 
-b) az eljárás alá vont személynek, a sértettnek, továbbá az eljárás alá vont személy, illetve a sértett képviselőjének az ügyben felmerült indokolt készkiadása, akkor is, ha azt az állam nem előlegezte,
+b) az eljárás alá vont személynek, a sértettnek, továbbá az eljárás alá vont személy, illetve a sértett képviselőjének az ügyben felmerült indokolt készkiadása és díja, akkor is, ha azt az állam nem előlegezte,
 
-c) a sértett képviselőjének az indokolt készkiadása és díja, akkor is, ha azt az állam nem előlegezte,
+c)
 
 d) a meg nem fizetett pénzbírság vagy helyszíni bírság közérdekű munkával történő megváltása esetén a közérdekű munka végzéséhez beszerzett foglalkoztathatósági szakvélemény költsége.
 
@@ -20,7 +20,7 @@ téríti meg.
 
 (2) A (3) bekezdésben meghatározott kivétellel az eljárás alá vont személy viseli a szabálysértési költséget, ha vele szemben szabálysértés elkövetése miatt joghátrányt alkalmaztak.
 
-(3) Az állam viseli azt a költséget, amely annak következtében merült fel, hogy az eljárás alá vont személy a magyar nyelvet nem ismeri.
+(3) Az állam viseli azt a költséget, amely annak következtében merült fel, hogy az eljárás alá vont személy a magyar nyelvet nem ismeri, hallássérült, siketvak, beszédfogyatékos.
 
 (4) A feljelentés elutasítása és a szabálysértési eljárás megszüntetése esetén a szabálysértési költség az államot terheli, az eljárás alá vont személyt kötelezni kell annak a költségnek viselésére, amely a mulasztása folytán merült fel.
 

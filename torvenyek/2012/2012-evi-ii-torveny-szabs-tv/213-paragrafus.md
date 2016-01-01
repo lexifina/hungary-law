@@ -4,7 +4,7 @@
 
 (2) Aki az utánzatok nyilvántartására, őrzésére, megsemmisítésére vagy bejelentésére vonatkozó előírásokat megsérti, szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt a Nemzeti Adó- és Vámhivatal vámszerve is szabhat ki helyszíni bírságot.
+(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve is szabhat ki helyszíni bírságot.
 
 (4) Az (1) és (2) bekezdés szempontjából utánzatnak minősül:
 

@@ -1,6 +1,6 @@
 ## 87. Meghallgatás
 
-104. § (1) Ha nincs helye a 102. § (1) bekezdése szerinti határozat meghozatalának, a szabálysértési hatóság a tényállás tisztázása érdekében bizonyítást folytat le, valamint felhívja a feljelentőt további adatok közlésére.
+104. § (1) Ha nincs helye a 102. § (1) bekezdése szerinti határozat meghozatalának, a szabálysértési hatóság a tényállás tisztázása érdekében bizonyítást folytat le, valamint szükség esetén felhívja a feljelentőt további adatok közlésére.
 
 (2) Ha a szabálysértési hatóság a 102. § (1) bekezdése szerinti határozat ellen előterjesztett kérelem alapján tart meghallgatást, a szabálysértési hatóság a 102. § (1) bekezdése szerinti határozatát visszavonja és a megállapított tényállás alapján meghozza a határozatát azzal, hogy a meghallgatás nélküli eljárásban hozott határozatban megállapított rendelkezéseknél hátrányosabb rendelkezést akkor hozhat, ha a meghallgatáson új bizonyíték merül fel.
 

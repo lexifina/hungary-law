@@ -1,10 +1,12 @@
 ## 62. A lefoglalás
 
-75. § (1) A szabálysértési hatóság, valamint – azon szabálysértés vonatkozásában, amely miatt törvény rendelkezése alapján helyszíni bírságot kiszabhat – a helyszíni bírság kiszabására jogosult lefoglalhatja azt a dolgot,
+75. § (1) A szabálysértési hatóság, az előkészítő eljárást lefolytató szerv, valamint – azon szabálysértés vonatkozásában, amely miatt törvény rendelkezése alapján helyszíni bírságot kiszabhat – a helyszíni bírság kiszabására jogosult lefoglalhatja azt a dolgot,
 
 a) amely tárgyi bizonyítási eszköz,
 
 b) amelynek elkobzását e törvény elrendeli.
+
+(1a) A helyszíni bírság kiszabására jogosult személy a feladatának teljesítése során azt a dolgot, amely e törvény alapján általa lefoglalható, a szabálysértési vagy előkészítő eljárás lefolytatására jogosult hatóságnak történő átadásáig átvételi elismervény ellenében ideiglenesen elveheti.
 
 (2) Ha a nem magyar állampolgárságú eljárás alá vont személy nem helyezi letétbe az előreláthatólag kiszabásra kerülő pénzbírság, illetve a szabálysértési költség fedezetéhez szükséges összeget, a bíróság vagy a szabálysértési hatóság az összeg erejéig az eljárás alá vont személy vagyontárgyait – a nélkülözhetetlen vagyontárgyak kivételével – lefoglalhatja. A meghallgatás során tájékoztatni kell a letétbe helyezés, illetve ennek elmulasztása esetén a lefoglalás lehetőségéről.
 

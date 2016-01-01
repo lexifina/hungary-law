@@ -30,6 +30,10 @@ i) elkobzás alkalmazása szükséges az eljárás alá vont személy felelőss�
 
 j) a közvetítő a közvetítői eljárás eredményes lefolytatásáról tájékoztatta a szabálysértési hatóságot vagy a bíróságot.
 
+k) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik és az már nem pótolható, illetve az illetékekről szóló törvényben meghatározott szabálysértési eljárási illeték megfizetésére felhívás ellenére nem került sor,
+
+l) megállapítható, hogy e törvény rendelkezései szerint a feljelentés elutasításának lett volna helye.
+
 (2) Az elkobzás alkalmazásáról szóló megszüntető határozatban a szabálysértési hatóság szabálysértési költséget állapíthat meg.
 
-(3) Az (1) bekezdés a)–c), e), f) és h) pontja alapján a szabálysértési hatóság által hozott határozat egy példányát egyidejűleg elektronikus úton – amennyiben ennek technikai feltételei nem állnak fenn, a kézbesítés szabályai szerint – az ügyésznek is meg kell küldeni.
+(3) Az (1) bekezdés a)–c), e), f), h) és k) pontja alapján a szabálysértési hatóság által hozott határozat egy példányát egyidejűleg elektronikus úton – amennyiben ennek technikai feltételei nem állnak fenn, a kézbesítés szabályai szerint – az ügyésznek is meg kell küldeni.

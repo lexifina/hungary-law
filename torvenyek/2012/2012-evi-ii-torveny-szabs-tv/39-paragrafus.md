@@ -6,7 +6,7 @@
 
 a) a járási hivatal arra felhatalmazott ügyintézője,
 
-b) a Nemzeti Adó- és Vámhivatal vámszerve,
+b) a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve,
 
 c) a hivatásos katasztrófavédelmi szerv arra felhatalmazott ügyintézője,
 

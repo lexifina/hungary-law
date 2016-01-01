@@ -6,6 +6,8 @@
 
 133/A. § (1) A bíróság jogerős döntése alapján letöltött szabálysértési elzárás büntetésért, a bíróság vagy a szabálysértési hatóság jogerős döntése alapján elvégzett közérdekű munka büntetésért, valamint a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatás esetén annak végrehajtásáért, illetve közérdekű munkával történő megváltásáért az elkövetőnek kártalanítás jár, ha az Alkotmánybíróság határozata, a perújítás, az ügyészi felhívás, illetve indítvány, valamint a helyszíni bírságolás felülvizsgálata (a továbbiakban együtt: jogerős döntést követő felülvizsgálat) folytán az eljárást vele szemben megszüntették.
 
+(1a) Az elkövetőnek nem jár kártalanítás, ha a bíróság a szabálysértési eljárást a 127. § (1) bekezdés e) pontja szerinti perújítás folytán a 83. § (1) bekezdés a) pontja szerint szünteti meg és az elkövető büntetőjogi felelősségét jogerősen megállapítják, továbbá ha a szabálysértési büntetés a Btk. alapján beszámítható.
+
 (2) A kártalanítás módjára és mértékére a Polgári Törvénykönyvnek a szerződésen kívül okozott kárért való felelősségre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A kártalanítás a jogerős döntést követő felülvizsgálat eredményeképpen hozott határozat jogerőre emelkedésével válik esedékessé.

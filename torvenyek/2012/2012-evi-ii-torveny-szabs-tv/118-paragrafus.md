@@ -6,6 +6,6 @@
 
 (3) Ha az eljárás alá vont személy őrizetbe vételére került sor, az (1) bekezdés szerinti döntés meghozatalának nincs helye.
 
-(4) Az (1) bekezdés alapján a bíróság nem szabhat ki közérdekű munka és szabálysértési elzárás büntetést.
+(4) Az (1) bekezdésben foglalt esetben a bíróság nem szabhat ki közérdekű munka és szabálysértési elzárás büntetést.
 
 (5) Az áttételről, az eljárás felfüggesztéséről, illetve az eljárás megszüntetéséről a bíróság a rendelkezésére álló iratok alapján tárgyalás tartása nélkül is határozhat.

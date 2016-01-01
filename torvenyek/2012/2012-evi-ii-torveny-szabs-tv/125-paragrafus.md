@@ -1,6 +1,6 @@
 125. § (1) A tárgyaláson a rendőrség képviselője az iratokat és a tárgyi bizonyítási eszközöket a bíróságnak átadja, ezt követően a feljelentést szóban terjeszti elő, valamint javaslatot tesz a büntetés mértékére.
 
-(2) A bíróság nem tart tárgyalást, ha megállapítja, hogy az őrizetbe vétel feltételei nem álltak fenn, vagy az őrizetbe vételtől több mint hetvenkét óra telt el.
+(2) A bíróság nem tart tárgyalást, ha megállapítja, hogy az őrizetbe vétel feltételei nem álltak fenn, a 124. § (3) bekezdése szerinti ügyvéd a bíróságon nem jelent meg, vagy az őrizetbe vételtől több mint hetvenkét óra telt el.
 
 (3) Ha a tárgyalás megtartásának nincs akadálya, a bíróság a feljelentés előterjesztése után meghallgatja az eljárás alá vont személyt, szükség esetén a sértettet, illetve a tanúkat. Ezt követően végzéssel megszünteti a szabálysértési eljárást, vagy megállapítja az eljárás alá vont személy felelősségét és büntetést szab ki, illetve intézkedést alkalmaz, rendelkezik a szabálysértési költség viseléséről és – ha annak e törvényben meghatározott feltételei fennállnak – az eljárás alá vont személyt a szabálysértéssel okozott kár megtérítésére kötelezi.
 

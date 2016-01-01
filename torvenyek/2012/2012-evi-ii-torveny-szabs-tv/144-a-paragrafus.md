@@ -2,7 +2,7 @@
 
 144/A. § (1) Az állami foglalkoztatási szerv a közérdekű munka végzésére kijelölhető foglalkoztatókról, valamint a közérdekű munkával sújtott és a 142. § (1) bekezdése alapján közérdekű munkát vállalt elkövetőkről, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján a közösségellenes magatartás miatt kiszabott, meg nem fizetett közigazgatási bírságot közérdekű munkával megváltó természetes személy elkövetőkről a közérdekű munka megszervezése és a végrehajtás feltételeinek biztosítása, valamint a közérdekű munka végrehajtásának ellenőrzése céljából nyilvántartást vezet (a továbbiakban: foglalkoztatói nyilvántartás).
 
-(2) A foglalkoztatói nyilvántartás tartalmazza
+(2) A foglalkoztatói nyilvántartás a közérdekű munka végzésére kijelölhető foglalkoztatók vonatkozásában tartalmazza
 
 a) a foglalkoztató megnevezésére, elérhetőségére,
 
@@ -28,7 +28,7 @@ vonatkozó adatokat.
 
 a) az elkövető 151. § (2) bekezdés a) pontjában meghatározott személyazonosítására,
 
-b) a kiszabott vagy a 142. § (1) bekezdése szerint vállalt közérdekű munka órákban meghatározott mértékére,
+b) az elvégzendő közérdekű munka órákban meghatározott mértékére,
 
 c) a (2) bekezdés e)–g) pontokban foglaltak meghatározására,
 
@@ -44,9 +44,9 @@ h) a félbeszakítás kezdetére és végére
 
 vonatkozó adatokat.
 
-(3) Az állami foglalkoztatási szerv a (2) bekezdés a)–i) pontjában foglalt adatokat a honlapján közzéteszi.
+(3) Az állami foglalkoztatási szerv a közérdekű munka végzésére kijelölhető foglalkoztatókra vonatkozó, foglalkoztatói nyilvántartásban rögzített adatokat a honlapján közzéteszi.
 
-(4) Az állami foglalkoztatási szerv a (2) és (2a) bekezdésben foglalt adatokat a határozat és a helyszíni bírság jogerőre emelkedésétől számított két évig kezeli.
+(4) Az állami foglalkoztatási szerv a (2a) bekezdésben foglalt adatokat és a kijelölt foglalkoztató (2) bekezdés szerinti adatait a határozat, illetve végzés vagy a helyszíni bírság jogerőre emelkedésétől számított két évig kezeli.
 
 (5) A foglalkoztatói nyilvántartásba közérdekű munka végzésére kijelölhető foglalkoztatóként
 
@@ -62,7 +62,7 @@ e) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint
 
 vehető nyilvántartásba.
 
-(6) Az (5) bekezdés a) és c) pontjában meghatározott foglalkoztatók kötelesek bejelenteni, az (5) bekezdés b), d) és e) pontjában meghatározott foglalkoztatók bejelenthetik az állami foglalkoztatási szerv részére a (2) bekezdés a)–i) pontjaiban foglalt adatokat.
+(6) Az (5) bekezdés a) és c) pontjában meghatározott foglalkoztatók kötelesek bejelenteni, az (5) bekezdés b), d) és e) pontjában meghatározott foglalkoztatók bejelenthetik az állami foglalkoztatási szerv részére a (2) bekezdésben foglalt adatokat. Az adatszolgáltatást a közérdekű munkalehetőség megteremtésével egyidejűleg kell teljesíteni.
 
 (6a) Az állami foglalkoztatási szerv a pártfogó felügyelő Bv. tvr. 64. § (1) bekezdése szerinti értesítése alapján, a munkahely kijelölésének megfelelően haladéktalanul módosítja a foglalkoztatói nyilvántartásban nyilvántartott adatokat.
 

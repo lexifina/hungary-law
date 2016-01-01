@@ -14,13 +14,13 @@ a) a törvényes képviselő a szabálysértést a fiatalkorúval együtt követ
 
 b) a törvényes képviselő a jogainak gyakorlásában akadályozva van,
 
-c) a fiatalkorúnak nincs törvényes képviselője, vagy nem állapítható meg, hogy ki a törvényes képviselője. Ezekben az esetekben a gyámhatóság eseti gondnokot rendel ki. A tárgyaláson megjelent gondozót a fiatalkorú életviszonyaira nézve minden esetben meg kell hallgatni, aki ezekre a körülményekre nézve a nyilatkozatot nem tagadhatja meg.
+c) a fiatalkorúnak nincs törvényes képviselője, vagy nem állapítható meg, hogy ki a törvényes képviselője. Ezekben az esetekben a gyámhatóság eseti gyámot rendel ki. A tárgyaláson megjelent gondozót a fiatalkorú életviszonyaira nézve minden esetben meg kell hallgatni, aki ezekre a körülményekre nézve a nyilatkozatot nem tagadhatja meg.
 
 (5) A fiatalkorú törvényes képviselője vagy gondozója részére a végzést, illetve határozatot kézbesíteni kell azzal, hogy a határozattal szemben jogorvoslattal élhet.
 
 (6) Ha az eljárás alapján a szabálysértési hatóság indokoltnak tartja, a fiatalkorú védelembe vételét kezdeményezheti az erre hatáskörrel rendelkező szervnél.
 
-(6a) Elzárással is sújtható szabálysértés elkövetése miatt eljárás alá vont fiatalkorú, vagy elzárással is sújtható szabálysértési tényállást megvalósított gyermekkorú esetében a szabálysértési hatóság a fiatalkorú, illetve gyermekkorú védelembe vételét kezdeményezi az erre hatáskörrel rendelkező szervnél.
+(6a) Elzárással is sújtható szabálysértés elkövetése miatt eljárás alá vont fiatalkorú, vagy elzárással is sújtható szabálysértési tényállást megvalósított gyermekkorú esetében a szabálysértési hatóság, az előkészítő eljárást lefolytató szerv, vagy a bíróság a fiatalkorú, illetve gyermekkorú védelembe vételét kezdeményezi az erre hatáskörrel rendelkező szervnél.
 
 (7) Fiatalkorúval szemben a 102. § (1) bekezdése, valamint a 118. § (1) bekezdése szerinti eljárás alapján csak intézkedés alkalmazható.
 

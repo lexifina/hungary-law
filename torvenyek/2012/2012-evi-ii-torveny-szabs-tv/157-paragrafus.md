@@ -8,7 +8,7 @@ b) az ügyészség, az ügyész szabálysértési eljárásban történő részv
 
 c) a rendőrség, az e törvényben foglalt feladatai ellátása, valamint törvényben meghatározott engedélyezési eljárás során az engedély kiadása feltételeinek a megállapítása, továbbá a megbízhatósági vizsgálat lefolytatása céljából,
 
-d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy, az állami foglalkoztatási szerv, valamint a büntetés-végrehajtási szerv az e törvényben foglalt feladataik ellátása céljából,
+d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy, az állami foglalkoztatási szerv, a büntetés-végrehajtási szerv, valamint a szabálysértési szabályozásért felelős miniszter a szabálysértési méltányossági eljárás során az e törvényben foglalt feladataik ellátása céljából,
 
 e) a nyomozó hatóság, az ügyészség és a bíróság büntetőeljárás lefolytatása céljából,
 
@@ -33,6 +33,24 @@ a sportról szóló törvényben meghatározott sportrendészeti nyilvántartás
 a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés a) pontjában szereplő adatok közül az aa)–ae) és ag)–ah) alpontban szereplő, az érintett személyre vonatkozó adatokat,
 
 b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából a 153. § (2) bekezdés b) pontjában szereplő, a szabálysértés megnevezésének, valamint az elkövetés helyének, idejének adatai közül az arra vonatkozó adatokat, hogy az érintett személyt a 247. § c) pontjában meghatározott szabálysértés miatt az adatátvételt megelőző három hónapon belül jogerősen elmarasztalták-e.
+
+(2b) Az erdészeti hatóság jogszabályban meghatározott feladata ellátása céljából közvetlen hozzáféréssel jogosult átvenni
+
+a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés a) pontjában szereplő adatok közül az aa)–ae) és ag)–ah) alpontban szereplő, az érintett személyre vonatkozó adatokat,
+
+b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából a 153. § (2) bekezdés b) pontjában a szabálysértés megnevezésére, c) pontjában a döntés jogerőre emelkedésének időpontjára, d) pontjában a szabálysértés miatt kiszabott büntetés nemére, o) pont ob) és oc) alpontjában a helyszíni bírság kiszabására vonatkozó adatok közül az arra vonatkozó adatokat, hogy az érintett személyt a 243. § (1) bekezdés a) pontjában meghatározott szabálysértés miatt az adatátvételt megelőző három éven belül szabálysértési bírsággal sújtották-e.
+
+(2c) A természetvédelmi hatóság jogszabályban meghatározott feladata ellátása céljából közvetlen hozzáféréssel jogosult átvenni
+
+a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés a) pontjában szereplő adatok közül az aa)–ae) és ag)–ah) alpontban szereplő, az érintett személyre vonatkozó adatokat,
+
+b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából a 153. § (2) bekezdés b) pontjában a szabálysértés megnevezésére, c) pontjában a döntés jogerőre emelkedésének időpontjára, d) pontjában a szabálysértés miatt kiszabott büntetés nemére, o) pont ob) és oc) alpontjában a helyszíni bírság kiszabására vonatkozó adatok közül az arra vonatkozó adatokat, hogy az érintett személyt a 187. § (1) bekezdésben meghatározott szabálysértés miatt az adatátvételt megelőző három éven belül szabálysértési bírsággal sújtották-e.
+
+(2d) Az állami adóhatóság jogszabályban meghatározott feladata ellátása céljából közvetlen hozzáféréssel jogosult átvenni
+
+a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés a) pontjában szereplő adatok közül az aa)–ae) és ag)–ah) alpontban szereplő, az érintett személyre vonatkozó adatokat,
+
+b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából a 153. § (2) bekezdés b) pontjában a szabálysértés megnevezésére, c) pontjában a döntés jogerőre emelkedésének időpontjára, d) pontjában a szabálysértés miatt kiszabott büntetés nemére, o) pont ob) és oc) alpontjában a helyszíni bírság kiszabására vonatkozó adatok közül az arra vonatkozó adatokat, hogy az érintett személyt a 177. §-ban meghatározott, a 191. §-ban meghatározott, vagy pénzügyi vagy kereskedelmi szabálysértés miatt az adatátvételt megelőző három éven belül szabálysértési bírsággal sújtották-e.
 
 (3) A szabálysértési nyilvántartó szerv
 

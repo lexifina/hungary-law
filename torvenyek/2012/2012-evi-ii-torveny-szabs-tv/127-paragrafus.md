@@ -20,7 +20,9 @@ d) az alapügyben a szabálysértési hatóság valamely tagja, illetve a bíró
 
 e) az elkövető által elkövetett bűncselekményt e törvény szerinti eljárásban, szabálysértésként bírálták el;
 
-f) a bíróság szabálysértési elzárásra történt átváltoztató döntése jogszabályt sért.
+f)
+
+(1a) A bíróság szabálysértési elzárásra történő átváltoztató döntése ellen perújításnak van helye, ha az jogszabályt sért.
 
 (2) Az (1) bekezdés c)–d) pontja esetében perújításnak csak akkor van helye, ha
 
@@ -28,4 +30,4 @@ a) a perújítási okként megjelölt bűncselekmény elkövetését jogerős í
 
 b) e bűncselekmény a szabálysértési hatóság, illetve a bíróság határozatát befolyásolta.
 
-(3) Nincs helye perújításnak, ha a bírósági határozat jogerőre emelkedését követően egy év eltelt.
+(3) Az (1) bekezdés e) pontjában meghatározott eset kivételével nincs helye perújításnak, ha a bírósági határozat jogerőre emelkedését követően egy év eltelt.

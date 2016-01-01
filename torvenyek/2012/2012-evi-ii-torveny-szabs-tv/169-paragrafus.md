@@ -18,4 +18,4 @@ b) a rendező szerv, illetve a rendőrség biztonságra vonatkozó felhívásán
 
 szabálysértést követ el.
 
-(3) E § alkalmazásában nyilvános rendezvény: a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll.
+(3)

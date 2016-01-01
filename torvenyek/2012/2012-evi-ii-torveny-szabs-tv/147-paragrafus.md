@@ -2,7 +2,7 @@
 
 147. § (1) Az elkövető – beleegyezése esetében képviselője is – méltányossági kérelmet nyújthat be a szabálysértési hatóság, illetve a bíróság által kiszabott büntetés, illetve alkalmazott intézkedés elengedése, illetve mérséklése iránt. Az elkobzott dolog visszaadása érdekében az elkobzást elszenvedő is előterjeszthet méltányossági kérelmet.
 
-(2) A kérelmet a pénzbírság megfizetésére nyitva álló határidőig, egyéb jogkövetkezmény esetén a végrehajtás megkezdéséig lehet előterjeszteni. Méltányossági kérelmet egy alkalommal lehet előterjeszteni.
+(2) A kérelmet a pénzbírságot kiszabó határozat, illetve végzés jogerőre emelkedésétől számított harminc napon belül, egyéb jogkövetkezmény esetén a végrehajtás megkezdéséig lehet előterjeszteni. Méltányossági kérelmet egy alkalommal lehet előterjeszteni.
 
 (3) A méltányossági kérelem elbírálása – a bíróság által kiszabott büntetés kivételével – a szabálysértési szabályozásért felelős miniszter hatáskörébe tartozik.
 
@@ -18,7 +18,7 @@
 
 (7) A méltányossági kérelmet a szabálysértési szabályozásért felelős miniszter – a (7a) bekezdésben foglalt kivétellel – a köztársasági elnökhöz akkor is felterjeszti, ha annak tartalmával nem ért egyet.
 
-(7a) A határidőn túl benyújtott méltányossági kérelem esetében az előterjesztett igazolási kérelemről, továbbá az elkésett kérelem elutasításáról a szabálysértési szabályozásért felelős miniszter dönt, amely ellen nincs helye jogorvoslatnak.
+(7a) A nem az (1) bekezdésben foglaltaknak megfelelően előterjesztett, valamint az elkésett, a nem a jogosult által előterjesztett, vagy az egyazon ügyben ismételten előterjesztett méltányossági kérelem érdemi vizsgálat nélküli elutasításáról, továbbá a határidőn túl előterjesztett méltányossági kérelem esetében az igazolási kérelemről a szabálysértési szabályozásért felelős miniszter dönt, amely ellen nincs helye jogorvoslatnak.
 
 (8) A méltányossági döntésről az értesítést az elkövetőnek az (5) bekezdésben meghatározott szabálysértési hatóság, illetve bíróság kézbesíti.
 
