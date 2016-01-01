@@ -54,7 +54,7 @@ ab) a személyazonosításra alkalmas, bemutatott okmány számát, típusát é
 
 ac) arcképmását,
 
-ad) – ha 14. életévét betöltötte – aláírását,
+ad) – ha 12. életévét betöltötte – aláírását,
 
 b) kártyával rendelkező kártyafelhasználó esetében – az a) pontban meghatározottakon túl – elsődleges kártyák tekintetében kártyánként elkülönítetten
 

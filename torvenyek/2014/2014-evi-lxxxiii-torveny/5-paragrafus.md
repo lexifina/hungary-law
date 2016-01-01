@@ -20,7 +20,7 @@ bb) a kártyakibocsátó egyedi azonosítóját.
 
 a) – ha ágazati törvény így rendelkezik – a kártyán megjelenített módon tartalmazhatja
 
-aa) a kártyafelhasználó születési helyét és idejét, lakó- vagy tartózkodási helyének településnevét, 14. életévét betöltött kártyafelhasználó esetében az aláírását,
+aa) a kártyafelhasználó születési helyét és idejét, lakó- vagy tartózkodási helyének településnevét, 12. életévét betöltött kártyafelhasználó esetében az aláírását,
 
 ab) – ha a kártyakibocsátót ágazati törvény, vagy ágazati törvény felhatalmazása alapján jogszabály jelöli ki – az ágazati törvény által meghatározott kibocsátási célra vonatkozó jogosultsági vagy tényadatokat,
 
