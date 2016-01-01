@@ -8,26 +8,26 @@
 
 ## 18. Külső tagok (más tulajdonosok) részesedése''
 
-5. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez
+5. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^316]
 
 ## Az összevont (konszolidált) éves beszámolót készítő pénzügyi intézmény konszolidált eredménykimutatásának tagolása a következő kiegészítésekkel tér el a 2. számú melléklet szerinti eredménykimutatás tagolásától
 
-1. Az I. eredménykimutatás Bevételeinek ,,3. b) bevételek kapcsolt vállalkozásban lévő részesedésekből (osztalék, részesedés)'' és a ,,3. c) bevételek egyéb részesedésekből (osztalék, részesedés)'', valamint a II. eredménykimutatás Bevételeinek ,,2. b) bevételek kapcsolt vállalkozásban lévő részesedésekből (osztalék, részesedés)'' és a ,,2. c) bevételek egyéb részesedésekből (osztalék, részesedés)'' sora helyett a következő pontokat kell felvenni:
+1. Az eredménykimutatás bevételeinek „3. b) bevételek kapcsolt vállalkozásban lévő részesedésekből (osztalék, részesedés)”, „3. c) bevételek jelentős tulajdoni részesedési viszonyban lévő vállalkozástól (osztalék, részesedés)”, és „3. d) bevételek egyéb részesedésekből (osztalék, részesedés)” sora helyett a következő sorokat kell felvenni:
 
-## ,,b) bevételek társult vállalkozásban való részesedésekből (osztalék, részesedés)
+## „b) bevételek társult vállalkozásban való részesedésekből (osztalék, részesedés)
 
-## c) bevételek egyéb részesedésekből (osztalék, részesedés)''
+## c) bevételek jelentős tulajdoni részesedési viszonyban lévő vállalkozástól (osztalék, részesedés)
 
-2. Az I. eredménykimutatás és a II. eredménykimutatás Bevételeinek ,,7. b) egyéb bevételek'' sora kiegészül az alábbi ba) ponttal:
+## d) bevételek egyéb részesedésekből (osztalék, részesedés)”
 
-## ,,ba) adósságkonszolidálás miatt keletkező – eredményt növelő – konszolidációs különbözet''
+2. Az eredménykimutatás bevételeinek „7. b) egyéb bevételek” sora kiegészül a következő ba) ponttal:
 
-3. Az I. eredménykimutatás ,,10. b) egyéb ráfordítások'' és a II. eredménykimutatás Ráfordításainak ,,6. b) egyéb ráfordítások'' sora kiegészül az alábbi ba) ponttal:
+## „ba) adósságkonszolidálás miatt keletkező – eredményt növelő – konszolidációs különbözet”
 
-## ,,ba) adósságkonszolidálás miatt keletkező – eredményt csökkentő – konszolidációs különbözet''
+3. Az eredménykimutatás „10. b) egyéb ráfordítások” sora kiegészül a következő ba) ponttal:
 
-4. Az I. eredménykimutatás ,,20. Adófizetési kötelezettség'' és II. eredménykimutatás Ráfordításainak ,,11. Adófizetési kötelezettség'' sora a kiegészül az alábbi a) ponttal:
+## „ba) adósságkonszolidálás miatt keletkező – eredményt csökkentő – konszolidációs különbözet”
 
-## ,,a) konszolidálásból adódó (számított) társasági adókülönbözet (±)''
+4. Az eredménykimutatás „20. Adófizetési kötelezettség” sora kiegészül a következő a) ponttal:
 
-5. Az I. eredménykimutatás ,,23. Eredménytartalék igénybevétele osztalékra, részesedésre'' és a II. eredménykimutatás Bevételeinek ,,12. Eredménytartalék igénybevétele osztalékra, részesedésre'' sora a konszolidált eredménykimutatásba nem állítható be.
+[^316]: Az 5. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (3) bekezdésével megállapított szöveg.

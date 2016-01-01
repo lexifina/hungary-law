@@ -4,7 +4,7 @@
 
 1. látra szóló követelések és tartozások: a pénzügyi intézmény által elhelyezett, illetve a hitelintézetnél vezetett nem lekötött betétekből származó követelések, illetve kötelezettségek;
 
-2.[^2] alárendelt kölcsöntőke: a a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU rendelet (a továbbiakban: 575/2013/EU rendelet) szerinti fogalom;
+2.[^2] alárendelt kölcsöntőke: a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU rendelet (a továbbiakban: 575/2013/EU rendelet) szerinti fogalom;
 
 3. pénzeszközök: az MNB-nél elhelyezett, forintban és devizában vezetett pénzforgalmi számlák, és éven belüli lejáratú betétszámlák, a külön jogszabály alapján más hitelintézetnél forintban vezetett pénzforgalmi betétszámla, az előbbi számlákhoz kapcsolódó – a pénztár és a pénzforgalmi számla, illetve a fiókok egymás és a központ közötti pénzmozgásánál használt – átvezetési számlák, a készpénz (ideértve a valutát is), az elektronikus pénzeszköz, a csekk és a törvényes fizetési eszköznek minősülő nemesfémérmék, bankjegyek (emlékbankjegyek);
 
@@ -30,7 +30,7 @@ d) a forintban kifizetett beszerzési értéknek a beszerzés napján, a hitelin
 
 7. devizakötelezettség: a 9. § (2)–(8) bekezdésének alkalmazása szempontjából devizakötelezettségnek minősül a külföldi pénznemre szóló hitelfelvételből, kölcsönfelvételből, betételfogadásból, importbeszerzésből vagy importszolgáltatás igénybevételéből, hitelviszonyt megtestesítő értékpapír kibocsátásából, illetve egyéb szerződés vagy jogszabály alapján – jogszerűen – fennálló kötelezettség;
 
-8.[^3] befektetési szolgáltatás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) szerint meghatározott befektetési szolgáltatási tevékenységek, kiegészítő szolgáltatások, árutőzsdei szolgáltatások, valamint az elszámolóház esetében a Bszt. szerinti központi értéktári tevékenységek;
+8.[^3] befektetési szolgáltatás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) szerint meghatározott befektetési szolgáltatási tevékenységek, kiegészítő szolgáltatások, árutőzsdei szolgáltatások;
 
 9. közvetített szolgáltatási díj a 11. § (1) bekezdésének alkalmazása szempontjából: a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint meghatározott fogalom;
 
@@ -68,9 +68,9 @@ b) valamely meglévő deviza más devizában történő kihelyezése érdekében
 
 24.[^7]
 
-25.[^8] értékpapír-kölcsönügylet, másodlagos értékpapír, garanciaalap, elszámolóházi tevékenységet végző szervezet: a Tpt. szerint meghatározott fogalom;
+25.[^8] értékpapír-kölcsönügylet, másodlagos értékpapír, garanciaalap, központi értéktár: a Tpt. szerint meghatározott fogalom;
 
-26.[^9] tőzsdeforgalmi számla: a szakosított hitelintézetként működő elszámolóháznál (a továbbiakban: elszámolóház) befektetési szolgáltatásokkal összefüggő fizetési forgalom lebonyolítása céljából nyitott pénzforgalmi számla;
+26.[^9] tőzsdeforgalmi számla: a szakosított hitelintézetként működő központi értéktárnál, központi szerződő félnél befektetési szolgáltatásokkal összefüggő fizetési forgalom lebonyolítása céljából nyitott pénzforgalmi számla;
 
 27.[^10] kölcsönbe adott értékpapír szerződés szerinti értéke: a felek által a kölcsönszerződésben rögzített érték, amely legalább a kölcsönbeadott értékpapír kölcsönbeadó által közölt könyv szerinti értéke és legfeljebb a kölcsönbeadáskor érvényes piaci értéke; ha a felek a szerződésben nem rendelkeznek róla, akkor a kölcsönbeadó által közölt könyv szerinti érték; befektetési célú értékpapír kölcsönbeadásakor minden esetben a kölcsönbeadó által közölt könyv szerinti érték;
 
@@ -146,14 +146,14 @@ c) sor kerülhet a felek, vagy az adós és az eredeti hitelező kapcsolt válla
 
 55.[^38] szakosított hitelintézetként működő központi szerződő fél: a Tpt.-ben meghatározott tevékenységek végzésére jogosult szakosított hitelintézetként való működésre jogosító engedéllyel rendelkező központi szerződő fél.
 
-[^2]: A 2. § 2. pontja a 331/2008. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, az 518/2013. (XII. 30.) Korm. rendelet 34. § 2. pontja szerint módosított szöveg.
-[^3]: A 2. § 8. pontja a 331/2008. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^2]: A 2. § 2. pontja a 331/2008. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, az 518/2013. (XII. 30.) Korm. rendelet 34. § 2. pontja, a 484/2015. (XII. 29.) Korm. rendelet 69. § 1. pontja szerint módosított szöveg.
+[^3]: A 2. § 8. pontja a 484/2015. (XII. 29.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 13. pontja a 291/2001. (XII. 26.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
 [^5]: A 2. § 21. pontját a 397/2007. (XII. 27.) Korm. rendelet 9. § (3) bekezdése hatályon kívül helyezte.
 [^6]: A 2. § 22. pontja a 291/2001. (XII. 26.) Korm. rendelet 1. § (3) bekezdésével megállapított, az 518/2013. (XII. 30.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
 [^7]: A 2. § 24. pontját a 291/2001. (XII. 26.) Korm. rendelet 22. §-ának (3) bekezdése hatályon kívül helyezte.
-[^8]: A 2. § 25. pontját a 291/2001. (XII. 26.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 331/2008. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^9]: A 2. § 26. pontját a 291/2001. (XII. 26.) Korm. rendelet 1. § (4) bekezdése iktatta be, e módosító rendelet 22. § (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+[^8]: A 2. § 25. pontját a 291/2001. (XII. 26.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § 26. pontját a 291/2001. (XII. 26.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
 [^10]: A 2. § 27. pontját a 291/2001. (XII. 26.) Korm. rendelet 1. § (4) bekezdése iktatta be, e módosító rendelet 22. § (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^11]: A 2. § 28. pontját a 238/2003. (XII. 17.) Korm. rendelet 1. §-a iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^12]: A 2. § 29. pontját a 334/2005. (XII. 29.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.

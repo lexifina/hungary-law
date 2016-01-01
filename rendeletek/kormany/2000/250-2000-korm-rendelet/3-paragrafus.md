@@ -1,6 +1,6 @@
 ## Beszámolási és könyvvezetési kötelezettség
 
-3. § (1)[^39] A pénzügyi intézmény [ideértve a Hpt. szerint alapítványként működő pénzügyi vállalkozást is] az 1. számú melléklet szerinti mérlegből, a 2. számú melléklet szerinti eredménykimutatásból és a 25. § szerinti kiegészítő mellékletből álló éves beszámolót, valamint a Tv. szerinti üzleti jelentést köteles készíteni. Az elszámolóháznak az 1. számú melléklet szerinti mérlegét a 6. számú melléklet szerint kell továbbrészleteznie.
+3. § (1)[^39] A pénzügyi intézmény [ideértve a Hpt. szerint alapítványként működő pénzügyi vállalkozást is] az 1. számú melléklet szerinti mérlegből, a 2. számú melléklet szerinti eredménykimutatásból és a 25. § szerinti kiegészítő mellékletből álló éves beszámolót, valamint a Tv. szerinti üzleti jelentést köteles készíteni. A központi értéktárnak, a központi szerződő félnek az 1. számú melléklet szerinti mérlegét a 6. számú melléklet szerint kell továbbrészleteznie.
 
 (2)[^40] A pénzügyi intézménynek a belső számviteli rendjét oly módon kell kialakítani, hogy annak adataiból év közben is kielégíthesse az MNB információs igényeit.
 
@@ -46,7 +46,7 @@ i) milyen tételeket kell a fióktelepnek, illetve a központnak az éves beszá
 
 (14)[^50] Ha az MNB a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozássá való minősítésről rendelkező határozatot visszavonja, akkor a visszavonás hatálybalépésének időpontjával meg kell szüntetni a hitelintézeti szabályok alkalmazását és el kell számolni a visszatéréssel kapcsolatos rendező tételeket.
 
-[^39]: A 3. § (1) bekezdése a 196/2007. (VII. 30.) Korm. rendelet 166. § (1) bekezdésével megállapított, a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^39]: A 3. § (1) bekezdése a 196/2007. (VII. 30.) Korm. rendelet 166. § (1) bekezdésével megállapított, a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése, a 484/2015. (XII. 29.) Korm. rendelet 69. § 2. pontja szerint módosított szöveg.
 [^40]: A 3. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 24. §-a szerint módosított szöveg.
 [^41]: A 3. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^42]: A 3. § (4) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.

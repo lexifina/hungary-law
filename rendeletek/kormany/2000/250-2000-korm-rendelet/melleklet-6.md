@@ -1,3 +1,5 @@
-6. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^296]
+## „a) konszolidálásból adódó (számított) társasági adókülönbözet (±)”
 
-[^296]: A 6. számú mellékletet a 291/2001. (XII. 26.) Korm. rendelet 21. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+6. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^317]
+
+[^317]: A 6. számú mellékletet a 291/2001. (XII. 26.) Korm. rendelet 21. §-ának (2) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 70. § (4) bekezdésével megállapított szöveg.

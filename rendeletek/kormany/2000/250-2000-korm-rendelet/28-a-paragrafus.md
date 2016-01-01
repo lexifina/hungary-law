@@ -2,14 +2,22 @@
 
 ## nyilvántartási kötelezettsége
 
-28/A. §[^269] (1) Az a pénzügyi intézmény, amely év közben szerzi meg pénzügyi szolgáltatás végzésére vonatkozó engedélyét és kezdi meg pénzügyi szolgáltatási tevékenységét, azonban megalakulása óta pénzügyi szolgáltatástól eltérő tevékenységet végzett, a pénzügyi szolgáltatás végzésére jogosító engedély hatálybalépésének időpontjára vonatkozóan köteles főkönyvi számláit lezárni, leltárt és főkönyvi kivonatot készíteni.
+28/A. §[^279] (1) Az a pénzügyi intézmény, amely év közben szerzi meg pénzügyi szolgáltatás végzésére vonatkozó engedélyét és kezdi meg pénzügyi szolgáltatási tevékenységét, azonban megalakulása óta pénzügyi szolgáltatástól eltérő tevékenységet végzett, a pénzügyi szolgáltatás végzésére jogosító engedély hatálybalépésének időpontjára vonatkozóan köteles főkönyvi számláit lezárni, leltárt és főkönyvi kivonatot készíteni.
 
 (2) Az (1) bekezdés szerinti pénzügyi intézmény főkönyvi kivonata alapján egyidejűleg köteles az e rendelet 1. számú melléklete szerinti mérleget és 2. számú melléklete szerinti eredménykimutatást alátámasztó főkönyvi számláit megnyitni e rendelet szerinti nyilvántartások folyamatos vezetése céljára.
 
 (3) Az (1) bekezdés szerinti pénzügyi intézmény a pénzügyi szolgáltatás végzésére jogosító engedély hatálybalépése évének mérlegfordulónapján e rendelet szerint elkészített éves beszámolója kiegészítő mellékletében köteles bemutatni, hogy a bázisadatokat hogyan rendezte át az 1. számú melléklet szerinti mérlegbe, illetve a 2. számú melléklet szerinti eredménykimutatásba.
 
-(4) Az a pénzügyi intézmény, amely év közben szünteti meg pénzügyi szolgáltatási tevékenységét és a továbbiakban pénzügyi szolgáltatástól eltérő tevékenységet folytat, a pénzügyi szolgáltatás végzésére jogosító engedély visszavonásának időpontjára vonatkozóan köteles főkönyvi számláit lezárni, leltárt és főkönyvi kivonatot készíteni.
+(4)[^280] Az év közben pénzügyi szolgáltatási tevékenységét megszüntető pénzügyi intézménynek tevékenységi engedélye visszavonásának jogerőre emelkedése napjával e rendelet (5)–(7) bekezdései szerint kell tevékenységet lezáró beszámolóját elkészítenie.
 
-(5) A tevékenységét megszüntető pénzügyi intézmény egyidejűleg köteles a (4) bekezdés szerinti főkönyvi kivonata alapján a Tv. vagy az általa meghatározott és felhatalmazása alapján kiadott kormányrendelet szerinti mérleget és eredménykimutatást alátámasztó főkönyvi számláit megnyitni és számviteli nyilvántartásait ennek megfelelően folyamatosan vezetni.
+(5)[^281] Ha a pénzügyi intézmény tevékenységi engedélye visszavonásának jogerőre emelkedése és végelszámolásának kezdő időpontja megegyezik – azaz a végelszámolás kezdő napját megelőző napon a pénzügyi intézmény még tevékenységi engedéllyel rendelkezik – úgy a tevékenységet lezáró beszámolóját e rendelet szerint kell elkészítenie.
 
-[^269]: A 28/A. §-t és alcímét a 238/2003. (XII. 17.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+(6)[^282] Ha a pénzügyi intézmény tevékenységi engedélye visszavonásának jogerőre emelkedése a végelszámolás, vagy a felszámolás kezdő napját megelőzően történt – azaz a tevékenységet lezáró beszámoló mérlegfordulónapján a pénzügyi intézmény már nem rendelkezik tevékenységi engedéllyel – akkor a tevékenységet lezáró beszámolóját a Tv. rendelkezései alapján kell elkészítenie.
+
+(7)[^283] A pénzügyi intézmény tevékenységi engedélye visszavonásának jogerőre emelkedése után (végelszámolásának, felszámolásának ideje alatt) a felszámolás számviteli feladatairól szóló kormányrendelet, vagy a végelszámolás számviteli feladatairól szóló kormányrendelet előírásait köteles alkalmazni.
+
+[^279]: A 28/A. §-t és alcímét a 238/2003. (XII. 17.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^280]: A 28/A. § (4) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^281]: A 28/A. § (5) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^282]: A 28/A. § (6) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 66. § (2) bekezdése iktatta be.
+[^283]: A 28/A. § (7) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 66. § (2) bekezdése iktatta be.

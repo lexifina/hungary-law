@@ -14,7 +14,7 @@
 
 ## 3. Hitelintézetekkel szembeni követelések
 
-## a) látraszóló
+## a) látra szóló
 
 ## b) egyéb követelés pénzügyi szolgáltatásból
 
@@ -22,33 +22,35 @@
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## – MNB-vel szemben
 
-## – elszámolóházzal szemben
+## – központi értéktárral, központi szerződő féllel szemben
 
 ## bb) éven túli lejáratú
 
-## Ebből:
+## Ebből: – kapcsolt vállalkozással szemben
 
-## – kapcsolt vállalkozással szemben
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## – MNB-vel szemben
 
-## – elszámolóházzal szemben
+## – központi értéktárral, központi szerződő féllel szemben
 
 ## c) befektetési szolgáltatásból
 
-## Ebből:
+## Ebből: – kapcsolt vállalkozással szemben
 
-## – kapcsolt vállalkozással szemben
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
-## – elszámolóházzal szemben
+## – központi értéktárral, központi szerződő féllel szemben
 
 ## 3/A. Hitelintézetekkel szembeni követelések értékelési különbözete
 
@@ -60,17 +62,23 @@
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## ab) éven túli lejáratú
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## b) befektetési szolgáltatásból
 
 ## Ebből: – kapcsolt vállalkozással szemben
+
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
@@ -80,7 +88,7 @@
 
 ## bc) befektetési szolgáltatási tevékenységből eredő, ügyfelekkel szembeni követelés
 
-## bd) elszámolóházi tevékenységet végző szervezettel, központi szerződő féllel szembeni követelés
+## bd) központi értéktárral, központi szerződő féllel szembeni követelés
 
 ## be) egyéb befektetési szolgáltatásból adódó követelés
 
@@ -100,6 +108,8 @@
 
 ## Ebből: – kapcsolt vállalkozás által kibocsátott
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozás által kibocsátott
+
 ## – egyéb részesedési viszonyban lévő vállalkozás által kibocsátott
 
 ## – visszavásárolt saját kibocsátású
@@ -107,6 +117,8 @@
 ## bb) befektetési célú
 
 ## Ebből: – kapcsolt vállalkozás által kibocsátott
+
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozás által kibocsátott
 
 ## – egyéb részesedési viszonyban lévő vállalkozás által kibocsátott
 
@@ -117,6 +129,8 @@
 ## a) részvények, részesedések forgatási célra
 
 ## Ebből: – kapcsolt vállalkozás által kibocsátott
+
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozás által kibocsátott
 
 ## – egyéb részesedési viszonyban lévő vállalkozás által kibocsátott
 
@@ -190,6 +204,8 @@
 
 ## Ebből: – kapcsolt vállalkozással szembeni követelés
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szembeni követelés
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szembeni követelés
 
 ## 12/A. Egyéb követelések értékelési különbözete
@@ -206,53 +222,57 @@
 
 ## Eszközök összesen
 
-## Ebből: – FORGÓESZKÖZÖK
+## Ebből:
 
-## [1+2.a)+3.a)+3.ba)+3.c)+4.aa)+4.b)+5.aa)+5.ba)+6.a)+6.ba)+11+12+ a 2/A, 3/A, 4/A, 5/A, 6/A, 12/A és 12/B tételek előbbi altételekhez kapcsolódó értékei]
+## – FORGÓESZKÖZÖK
 
-## – BEFEKTETETT ESZKÖZÖK [2.b)+3.bb)+4.ab)+5.ab)+5.bb)+6.bb)+7+8+9+10+ a 2/A, 3/A, 4/A, 5/A, 6/A, 7/A, 12/A és a 12/B tételek előbbi altételekhez, illetve tételhez kapcsolódó értékei]
+## [1 + 2.a) + 3.a) + 3.ba) + 3.c) + 4.aa) + 4.b) + 5.aa) + 5.ba) + 6.a) + 6.ba) + 11 + 12+ a 2/A, 3/A, 4/A, 5/A, 6/A, 12/A és 12/B tételek előbbi altételekhez kapcsolódó értékei]
+
+## – BEFEKTETETT ESZKÖZÖK
+
+## [2.b) + 3.bb) + 4.ab) + 5.ab) + 5.bb) + 6.bb) + 7 + 8 + 9 + 10 + a 2/A, 3/A, 4/A, 5/A, 6/A, 7/A, 12/A és a 12/B tételek előbbi altételekhez, illetve tételhez kapcsolódó értékei]
 
 ## FORRÁSOK (passzívák)
 
 ## 1. Hitelintézetekkel szembeni kötelezettségek
 
-## a) látraszóló
+## a) látra szóló
 
 ## b) meghatározott időre lekötött, pénzügyi szolgáltatásból adódó kötelezettség
 
 ## ba) éven belüli lejáratú
 
-## Ebből:
+## Ebből: – kapcsolt vállalkozással szemben
 
-## – kapcsolt vállalkozással szemben
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## – MNB-vel szemben
 
-## – elszámolóházzal szemben
+## – központi értéktárral, központi szerződő féllel szemben
 
 ## bb) éven túli lejáratú
 
-## Ebből:
+## Ebből: – kapcsolt vállalkozással szemben
 
-## – kapcsolt vállalkozással szemben
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## – MNB-vel szemben
 
-## – elszámolóházzal szemben
+## – központi értéktárral, központi szerződő féllel szemben
 
 ## c) befektetési szolgáltatásból
 
-## Ebből:
+## Ebből: – kapcsolt vállalkozással szemben
 
-## – kapcsolt vállalkozással szemben
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
-## – elszámolóházzal szemben
+## – központi értéktárral, központi szerződő féllel szemben
 
 ## 1/A. Hitelintézetekkel szembeni kötelezettségek értékelési különbözete
 
@@ -260,7 +280,7 @@
 
 ## a) takarékbetétek
 
-## aa) látraszóló
+## aa) látra szóló
 
 ## ab) éven belüli lejáratú
 
@@ -268,9 +288,11 @@
 
 ## b) egyéb kötelezettségek pénzügyi szolgáltatásból
 
-## ba) látraszóló
+## ba) látra szóló
 
 ## Ebből: – kapcsolt vállalkozással szemben
+
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
@@ -278,17 +300,23 @@
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## bc) éven túli lejáratú
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## c) befektetési szolgáltatásból
 
 ## Ebből: – kapcsolt vállalkozással szemben
+
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
@@ -298,7 +326,7 @@
 
 ## cc) befektetési szolgáltatási tevékenységből adódó, ügyfelekkel szembeni kötelezettség
 
-## cd) elszámolóházi tevékenységet végző szervezettel, központi szerződő féllel szembeni kötelezettség
+## cd) központi értéktárral, központi szerződő féllel szembeni kötelezettség
 
 ## ce) egyéb befektetési szolgáltatásból adódó kötelezettség
 
@@ -312,11 +340,15 @@
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## ab) éven túli lejáratú
 
 ## Ebből: – kapcsolt vállalkozással szemben
+
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
@@ -326,11 +358,15 @@
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## bb) éven túli lejáratú
 
 ## Ebből: – kapcsolt vállalkozással szemben
+
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
@@ -340,11 +376,15 @@
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## cb) éven túli lejáratú
 
 ## Ebből: – kapcsolt vállalkozással szemben
+
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
@@ -354,6 +394,8 @@
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## – szövetkezeti formában működő hitelintézetnél tagok más vagyoni hozzájárulása
@@ -361,6 +403,8 @@
 ## b) éven túli lejáratú
 
 ## Ebből: – kapcsolt vállalkozással szemben
+
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
@@ -390,6 +434,8 @@
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
 
 ## b) szövetkezeti formában működő hitelintézetnél a tagok más vagyoni hozzájárulása
@@ -398,17 +444,21 @@
 
 ## Ebből: – kapcsolt vállalkozással szemben
 
+## – jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
+
 ## – egyéb részesedési viszonyban lévő vállalkozással szemben
+
+## – egyéb gazdálkodóval szemben
 
 ## 8. Jegyzett tőke
 
 ## Ebből: – visszavásárolt tulajdoni részesedés névértéken
 
-## 9. Jegyzett, de még be nem fizetett tőke (–)
+## 9. Jegyzett, de még be nem fizetett tőke (-)
 
 ## 10. Tőketartalék
 
-## a) a részvény, részesedés névértéke és kibocsátási értéke közötti különbözet (ázsió)
+## a) részvény, részesedés névértéke és kibocsátási értéke közötti különbözet (ázsió)
 
 ## b) egyéb
 
@@ -424,16 +474,24 @@
 
 ## b) valós értékelés értékelési tartaléka
 
-## 15. Mérleg szerinti eredmény (±)
+## 15. Tárgyévi eredmény (±)
 
 ## Források összesen
 
-## Ebből: – RÖVID LEJÁRATÚ KÖTELEZETTSÉGEK [1.a)+1.ba)+1.c)+1/A+2.aa)+2.ab)+2.ba)+2.bb)+2.c)+2/A+3.aa)+3.ba)+3.ca)+4.a)+4/A]
+## Ebből:
 
-## – HOSSZÚ LEJÁRATÚ KÖTELEZETTSÉGEK [1.bb)+2.ac)+2.bc)+3.ab)+3.bb)+3.cb)+4.b)+7]
+## – RÖVID LEJÁRATÚ KÖTELEZETTSÉGEK
 
-## – SAJÁT TŐKE [8–9+10+11±12+13+14±15]
+## [1.a) + 1.ba) + 1.c) + 1/A + 2.aa) +2.ab) + 2.ba) + 2.bb) + 2.c) + 2/A + 3.aa) +3.ba) + 3.ca) + 4.a) + 4/A]
 
-2. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^294]
+## – HOSSZÚ LEJÁRATÚ KÖTELEZETTSÉGEK
 
-[^294]: A 2. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a, az 518/2013. (XII. 30.) Korm. rendelet 33. § (2) bekezdése szerint módosított szöveg.
+## [1.bb) + 2.ac) + 2.bc) + 3.ab) + 3.bb) + 3.cb) + 4.b) + 7]
+
+## – SAJÁT TŐKE
+
+## [8-9+10+11±12+13+14 ±15]
+
+2. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^314]
+
+[^314]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (2) bekezdésével megállapított szöveg.
