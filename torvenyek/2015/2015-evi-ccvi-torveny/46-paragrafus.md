@@ -2,11 +2,7 @@
 
 a) 41/G. § (1) bekezdésében az „A besorolási” szövegrész helyébe az „Az elsőfokú”, az „elektronikus úton” szövegrész helyébe az „elektronikus vagy postai úton”,
 
-b) 47. § (2) bekezdésében a „hat” szövegrész helyébe a „nyolc”,
-
-c) 53. § (5) bekezdés b) pontjában a „siket doktorjelölt” szövegrész helyébe a „siketek”,
-
-d) 53/A. § (3) bekezdésében az „a doktorjelölt” szövegrész helyébe az „az értekezést benyújtó”,
+b)–d)
 
 e) 79. § (6) bekezdésében a „(2)–(3)” szövegrész helyébe a „(3)”,
 

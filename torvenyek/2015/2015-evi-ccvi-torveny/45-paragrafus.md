@@ -1,6 +1,6 @@
 45. § (1) Az Nftv. 1. melléklete helyébe a 2. melléklet lép.
 
-(2) Az Nftv. 1. melléklete helyébe a 3. melléklet lép.
+(2)
 
 (3) Az Nftv. 3. melléklete a 4. melléklet szerint módosul.
 

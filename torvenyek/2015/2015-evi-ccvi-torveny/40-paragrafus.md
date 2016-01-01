@@ -1,3 +1,1 @@
-40. § Az Nftv. 114. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2015. évi CCVI. törvénnyel megállapított – 16. § (1) bekezdését, 47. § (2) bekezdését, 48. § (2a) bekezdését, 53. § (1)–(4a) bekezdését és (5) bekezdés a) és b) pontját, 53/A. § (3) bekezdését, 59. § (1) bekezdés j)–l) pontját, 72. § (5) bekezdését, 84/A. § (4) bekezdését, 108. § 1., 1a. pontját, 114/D. § (1) bekezdés b) pontját először a 2016/2017. tanév első félévében doktori képzésben hallgatói jogviszonyt létesítő hallgatókra kell alkalmazni.”
+40–41. §
