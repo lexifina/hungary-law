@@ -50,4 +50,6 @@
 
 ## A DNS-mintát a Bűnügyi Szakértői és Kutató Intézet részére kell megküldeni.
 
-3. melléklet a 21/2009. (VI. 19.) IRM rendelethez
+3. melléklet a 21/2009. (VI. 19.) IRM rendelethez[^23]
+
+[^23]: A 3. melléklet a 37/2015. (XII. 21.) IM rendelet 5. §-ával megállapított szöveg.
