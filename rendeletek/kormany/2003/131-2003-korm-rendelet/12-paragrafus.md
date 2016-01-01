@@ -18,9 +18,9 @@ f) pénzeszközök.
 
 (3) A tartalékok – rendeltetésük, illetve összetételük szerinti – csoportosítása:
 
-a)[^43] Gazdaságbiztonsági Tartalék (a továbbiakban: GT): jogszabályban[^44] meghatározott védelmi célú hányadában a nemzetgazdaság vagy egy ágazat gazdaságmozgósítási helyzeti működését, a lakosság alapvető ellátását és védelmét, valamint a mozgósított Magyar Honvédség, a rendvédelmi szervek (ideértve a NAV vámszerveit és nyomozóhatósági szerveit is) feladatai végrehajtását szolgáló, lehetőleg több felhasználói igény kielégítésére alkalmas áruk – elsősorban ipari termékek, félkész termékek, alapanyagok – és pénzeszköz,
+a)[^43]
 
-b) Állami Egészségügyi Tartalék (a továbbiakban: ÁEüT): a külön jogszabályban[^45] meghatározott rendeltetésű orvostechnikai eszközök, műszerek, gyógyszer, kötszer, egyéb egészségügyi fogyóanyagok, szükséggyógyintézetek működtetéséhez szükséges felszerelések,
+b) Állami Egészségügyi Tartalék (a továbbiakban: ÁEüT): a külön jogszabályban[^44] meghatározott rendeltetésű orvostechnikai eszközök, műszerek, gyógyszer, kötszer, egyéb egészségügyi fogyóanyagok, szükséggyógyintézetek működtetéséhez szükséges felszerelések,
 
 c) Állami Céltartalék (a továbbiakban: ÁC): az érintett miniszterek gazdaságfelkészítési és -mozgósítási feladataiban meghatározott fontosabb termelési, szolgáltatási, védelmi és helyreállítási tevékenységek végrehajtásához nélkülözhetetlen anyagok, alkatrészek, félkész és késztermékek, tárgyi eszközök, valamint a speciális célú termékek minősített időszaki beszerzését szolgáló nemesfém tartalék,
 
@@ -28,9 +28,9 @@ d) Pénztartalékkészlet (a továbbiakban: PT): az ország pénzforgalmának mi
 
 (4) A tartalékok tekintetében az állam tulajdonosi jogait a felelős vezető gyakorolja:
 
-a) a GT tekintetében a külön jogszabályban[^46] kijelölt miniszter,
+a)[^45]
 
-b)[^47] az ÁEüT tekintetében – külön jogszabály[^48] alapján – az egészségügyért felelős miniszter,
+b)[^46] az ÁEüT tekintetében – külön jogszabály[^47] alapján – az egészségügyért felelős miniszter,
 
 c) az ÁC tekintetében az a miniszter, akinek védelmi felkészüléssel összefüggő feladatai végrehajtásának biztonságát szolgálja a tartalék,
 
@@ -40,7 +40,7 @@ d) a PT tekintetében az MNB elnöke.
 
 (6) A felelős vezető köteles rendszeresen ellenőrizni, illetve ellenőriztetni a kezelésében lévő tartalék minőségét, mennyiségét, továbbá a tartalék kezelésére vonatkozó előírások megtartását. A tartalék kezelésével és nyilvántartásával összefüggő tevékenységek végrehajtásáról a felelős vezető – az (5) bekezdésben meghatározott tartalékkezelő útján, az 5. § (5) bekezdésében megjelölt önálló szervezeti egységek szakmai felügyelete révén – gondoskodik.
 
-(7) Az egyes tartalékok kapacitástartalmát vagy összes vagyonértékét a Kormány határozza meg, kivéve a PT-t, amelynek nagyságát az MNB elnöke állapítja meg. Az egyes tartalékok összetételét, a törzskészlet szintjét a felelős vezetők – a GT és az ÁEüT esetében a feladatban érintett miniszterek egyetértésével – állapítják meg.
+(7)[^48] Az egyes tartalékok kapacitástartalmát vagy összes vagyonértékét a Kormány határozza meg, kivéve a PT-t, amelynek nagyságát az MNB elnöke állapítja meg. Az egyes tartalékok összetételét, a törzskészlet szintjét a felelős vezetők – az ÁEüT esetében a feladatban érintett miniszterek egyetértésével – állapítják meg.
 
 (8) A tartalékok készletfejlesztésével, -átstrukturálásával kapcsolatos költségeket – egyedi kormánydöntés alapján – a központi költségvetés külön jogszabály[^49] szerint biztosítja. A frissítő cserék tervezett lebonyolításához a követelménytámasztó szervek biztosítják a tartalékelemek – jóváhagyott terv szerinti – kivásárlását. A tartalékok rendszeres minőségmegóvó cseréje érdekében a követelménytámasztó szervek békeidei szükségletük beszerzésénél – egyéb feltételek teljesülése esetén – kizárólag a tartalékkezelőtől vásárolnak.
 
@@ -50,12 +50,12 @@ d) a PT tekintetében az MNB elnöke.
 
 (11)[^51] A tartalékokkal való gazdálkodás, a bevételek és ráfordítások elszámolása, a vállalkozásból származó bevételek felhasználása az államháztartásról szóló törvény és végrehajtási rendeletei[^52] által szabályozott módon történhet. A tartalékkezelő a pénzügyi beszámolási kötelezettségének a számvitelről szóló törvényben és a végrehajtására kiadott rendeletekben[^53] foglalt módon és határidőre köteles eleget tenni.
 
-[^43]: A 12. § (3) bekezdés a) pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (3) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^44]: A Gazdaságbiztonsági Tartalékról szóló 84/1994. (V. 27.) Korm. rendelet.
-[^45]: Az Állami Egészségügyi Tartalékkal való gazdálkodás szabályairól szóló 17/2001. (IV. 28.) EüM rendelet.
-[^46]: A Gazdaságbiztonsági Tartalékról szóló 84/1994. (V. 27.) Korm. rendelet.
-[^47]: A 12. § (4) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^48]: A katasztrófa-egészségügyi ellátásról szóló 158/1999. (XI. 19.) Korm. rendelet.
+[^43]: A 12. § (3) bekezdés a) pontját a 336/2015. (XI. 10.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^44]: Az Állami Egészségügyi Tartalékkal való gazdálkodás szabályairól szóló 17/2001. (IV. 28.) EüM rendelet.
+[^45]: A 12. § (4) bekezdés a) pontját a 336/2015. (XI. 10.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^46]: A 12. § (4) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^47]: A katasztrófa-egészségügyi ellátásról szóló 158/1999. (XI. 19.) Korm. rendelet.
+[^48]: A 12. § (7) bekezdése a 336/2015. (XI. 10.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
 [^49]: A Vhr. 2. §-a.
 [^50]: A Vhr. 6. §-a.
 [^51]: A 12. § (11) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés i) pontja szerint módosított szöveg.

@@ -88,7 +88,7 @@
 
 ## A rendvédelmi szervek gazdaságmozgósítási helyzetre vonatkozó igényei tervezésének ki kell terjednie az egyéb gazdaságmozgósítási helyzetre vonatkozó – központi beavatkozást igénylő – tárcaszintű tervkivonat elkészítésére is. Az egyéb gazdaságmozgósítási helyzetre vonatkozó tárcaszintű tervkivonatot csak a központi tervező szerv részére kell megküldeni.
 
-## 3.[^65] Az egyéb rendvédelmi szervek (ideértve a NAV-ot is) irányítását (a NAV esetében felügyeletét) ellátó miniszterek, a központi államigazgatási szervek vezetőinek feladatai
+## 3.[^65] Az egyéb rendvédelmi szervek (ideértve a NAV-ot is) irányítását ellátó miniszterek, a központi államigazgatási szervek vezetőinek feladatai
 
 ## Az alárendelt rendvédelmi szervek (ideértve a NAV vámszerveit és nyomozóhatósági szerveit is) nemzetgazdasággal szemben támasztott, gazdaságmozgósítási helyzetre vonatkozó igényeinek tervezése, a részigénytervek összesítésének elvégzése. Az összesített igénytervet az illetékes ágazati tervező szervek részére kell megküldeni.
 
@@ -400,7 +400,7 @@
 
 ## A jelen módszertani szabályok a tervezési segédletek papíralapú kitöltését tekintik alapértelmezésnek. Amikor a tervezés számítógépes támogatásának folyamatos bevezetésével megteremtődnek a feltételek a teljes folyamat elektronikus úton történő végrehajtására, kiváltjuk a hagyományos iratokat; addig a papíralapú dokumentumok tekintendők elsődlegesnek.
 
-## 1.[^86] A Magyar Honvédség, illetve a rendvédelmi szervek irányításáért felelős miniszterek és a NAV felügyeletét ellátó miniszter
+## 1.[^86] A Magyar Honvédség, illetve a rendvédelmi szervek irányításáért felelős miniszterek
 
 ## az erőforrás igényeket (3. számú táblázat) igénykielégítési módonként, ágazati besorolás szerinti felelős teljesítő szervenként és a javasolt igénykielégítők székhelye szerinti megyei bontásban 3 példányban küldik meg az illetékes felelős teljesítő szervek részére. A felelős teljesítő szerv a visszaigazolt tervlap egy példányát a követelmény támasztó és egy példányát az államháztartásért felelős miniszter részére küldi meg. A Magyar Honvédség és a rendvédelmi szervek (ideértve a NAV vámszerveit és nyomozóhatósági szerveit is) a költségvetési többletigényt az igénybejelentési táblázaton feltüntetett módon tervezik.
 
@@ -1108,7 +1108,7 @@
 
 |  |  | a felelős teljesítő szerv illetékes vezetője |
 
-## 7a. számú táblázat
+## 7a. számú táblázat[^103]
 
 ## A minősített időszaki igények kielégítési módjai
 
@@ -1136,9 +1136,7 @@
 
 | Információ gm célú adatgyűjtésből | IGM |
 
-| Védelmi célú tartalék | Termék a Gazdaságbiztonsági Tartalékból | TGT |
-
-| Termék az Állami Egészségügyi Tartalékból | TÁE |
+| Védelmi célú tartalék | Termék az Állami Egészségügyi Tartalékból | TÁE |
 
 | Termék az Állami Céltartalékokból | TÁC |
 
@@ -1166,7 +1164,7 @@
 
 | Szövetségesi támogatás, segélynyújtás | Nemzetközi segélyek, adományok fogadása | NSA |
 
-## 8. számú táblázat[^103]
+## 8. számú táblázat[^104]
 
 ## K02. A lakosság minősített időszaki igényének
 
@@ -1228,7 +1226,7 @@
 
 ## a Védemi Bizottság elnöke
 
-## 9. számú táblázat[^104]
+## 9. számú táblázat[^105]
 
 ## P.01. A gazdaságmozgósítás finanszírozásához szükséges költségvetési többletigények,
 
@@ -1254,7 +1252,7 @@
 
 ## a tervező szerv vezetője
 
-## 10. számú táblázat[^105]
+## 10. számú táblázat[^106]
 
 ## B.01. Összesítő
 
@@ -1282,7 +1280,7 @@
 
 ## Kapja: gazdaságpolitikáért felelős miniszter.
 
-## 11. számú táblázat[^106]
+## 11. számú táblázat[^107]
 
 ## J.01. Jegyzék
 
@@ -1310,7 +1308,7 @@
 
 ## a felelős teljesítő szerv illetékes vezetője
 
-## 12. számú táblázat[^107]
+## 12. számú táblázat[^108]
 
 ## J.02. Jegyzék
 
@@ -1338,7 +1336,7 @@
 
 ## a felelős teljesítő szerv illetékes vezetője
 
-## 13. számú táblázat[^108]
+## 13. számú táblázat[^109]
 
 ## T.01. Terv kivonat az egyéb gazdaságmozgósítási helyzetek gazdaságfelkészítési
 
@@ -1404,7 +1402,7 @@
 
 | KüM | Külügyminisztérium |  |  |
 
-2. számú melléklet a 131/2003. (VIII. 22.) Korm. rendelethez[^109]
+2. számú melléklet a 131/2003. (VIII. 22.) Korm. rendelethez[^110]
 
 [^59]: Az 1. számú melléklet I. alcíme a 221/2014. (IX. 4.) Korm. rendelet 252. § a) pontja szerint módosított szöveg.
 [^60]: Az 1. számú melléklet I. alcím 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 250. §-ával megállapított szöveg.
@@ -1412,7 +1410,7 @@
 [^62]: Az 1. számú melléklet I. alcím 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^63]: Az 1. számú melléklet II. alcím 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (2) bekezdés b) és c) pontja szerint módosított szöveg.
 [^64]: Az 1. számú melléklet II. alcím 2. pontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 17. pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 164. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^65]: Az 1. számú melléklet II. alcím 3. pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (4) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 251. § (2) bekezdés e) és f) pontja szerint módosított szöveg.
+[^65]: Az 1. számú melléklet II. alcím 3. pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (4) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 251. § (2) bekezdés e) és f) pontja, a 486/2015. (XII. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^66]: Az 1. számú melléklet II. alcím 4. pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (2) bekezdés g) pontja szerint módosított szöveg.
 [^67]: Az 1. számú melléklet (A védelemgazdasági alapterv elkészítésének módszertani szabályai) II. (A TERVEZŐ SZERVEK TERVEZÉSI FELADATAI) 5. pontja a 335/2004. (XII. 15.) Korm. rendelet 9. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 251. § (2) bekezdés b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (2) bekezdés h), i) és j) pontja szerint módosított szöveg.
 [^68]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) II. (A TERVEZŐ SZERVEK TERVEZÉSI FELADATAI) 6. pontját a 335/2004. (XII. 15.) Korm. rendelet 12. § (1) bekezdés c) pontjának cb) alpontja hatályon kívül helyezte.
@@ -1433,7 +1431,7 @@
 [^83]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) V. (A TERVEZÉS FOLYAMATA) pontja a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (3) bekezdésével megállapított, e módosító rendelet 12. § (1) bekezdés c) pontjának cd) alpontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 144/2012. (VII. 3.) Korm. rendelet 4. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés g), i)–k) pontja szerint módosított szöveg.
 [^84]: Az V. Fejezet első franciabekezdése a 273/2010. (XII. 9.) Korm. rendelet 99. § (8) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^85]: Az 1. számú melléklet VI. alcíme a 221/2014. (IX. 4.) Korm. rendelet 252. § b) pontja szerint módosított szöveg.
-[^86]: Az 1. számú melléklet VII. Fejezet 1. pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (9) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a), l) és m) pontja szerint módosított szöveg.
+[^86]: Az 1. számú melléklet VII. Fejezet 1. pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (9) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a), l) és m) pontja, a 486/2015. (XII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^87]: Az 1. számú melléklet VII. fejezetének 2. pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 47. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a) és j) pontja szerint módosított szöveg.
 [^88]: Az 1. számú mellékletének (A védelemgazdasági alapterv elkészítésének módszertani szabályai) VII. (A TERVEZÉSI SEGÉDLETEK KITÖLTÉSE) 2. pontja (Az ágazati minisztériumok) negyedik francia bekezdésének második szövegbekezdése a 335/2004. (XII. 15.) Korm. rendelet 9. §-ának (4) bekezdésével megállapított szöveg.
 [^89]: A 7. számú táblázat értelmezéséhez szükséges magyarázatok című táblázat alatti szövegrész a 273/2010. (XII. 9.) Korm. rendelet 99. § (10) bekezdése szerint módosított szöveg.
@@ -1450,10 +1448,11 @@
 [^100]: Az 1. számú melléklet VIII. alcímének 5. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
 [^101]: Az 1. számú melléklet VIII. alcímének 6. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés r) pontja szerint módosított szöveg.
 [^102]: Az 1. számú melléklet VIII. alcímének 7. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^103]: Az 1. számú melléklet VIII. alcímének 8. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^104]: Az 1. számú melléklet VIII. alcímének 9. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés s) pontja szerint módosított szöveg.
-[^105]: Az 1. számú melléklet VIII. alcímének 10. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^106]: Az 1. számú melléklet VIII. alcímének 11. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^107]: Az 1. számú melléklet VIII. alcímének 12. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^108]: Az 1. számú melléklet VIII. alcímének 13. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^109]: A 2. számú mellékletet a 201/2003. (XII. 10.) Korm. rendelet 2. számú melléklete iktatta a szövegbe.
+[^103]: Az 1. számú melléklet VIII. alcímének 7a. számú táblázata a 336/2015. (XI. 10.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^104]: Az 1. számú melléklet VIII. alcímének 8. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^105]: Az 1. számú melléklet VIII. alcímének 9. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés s) pontja szerint módosított szöveg.
+[^106]: Az 1. számú melléklet VIII. alcímének 10. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^107]: Az 1. számú melléklet VIII. alcímének 11. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^108]: Az 1. számú melléklet VIII. alcímének 12. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^109]: Az 1. számú melléklet VIII. alcímének 13. számú táblázata a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^110]: A 2. számú mellékletet a 201/2003. (XII. 10.) Korm. rendelet 2. számú melléklete iktatta a szövegbe.

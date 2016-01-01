@@ -30,7 +30,7 @@ i) gazdaságmozgósítási előszerződés: a gazdaságmozgósítási feladatok 
 
 j) gazdaságmozgósítási szerződés: a gazdaságmozgósítási feladatok ellátására vonatkozó szerződés;
 
-k)[^14] követelménytámasztó szervek: a Magyar Honvédség esetében a honvédelemért felelős miniszter, a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a NAV-ot felügyelő miniszter, a rendvédelmi szervek esetében a rendvédelmi szerv irányításáért felelős miniszter; a szövetséges fegyveres erők tekintetében a Kormány; a közigazgatási rendszer, a nemzetgazdaság és a társadalom működése tekintetében az ágazati miniszterek; a bíróságok tekintetében az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke; a lakosság ellátása tekintetében az illetékes megyei védelmi bizottság elnöke;
+k)[^14] követelménytámasztó szervek: a Magyar Honvédség esetében a honvédelemért felelős miniszter, a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a NAV-ot irányító miniszter, a rendvédelmi szervek esetében a rendvédelmi szerv irányításáért felelős miniszter; a szövetséges fegyveres erők tekintetében a Kormány; a közigazgatási rendszer, a nemzetgazdaság és a társadalom működése tekintetében az ágazati miniszterek; a bíróságok tekintetében az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke; a lakosság ellátása tekintetében az illetékes megyei védelmi bizottság elnöke;
 
 l)[^15] minősített időszak: az Alaptörvény 48. cikk (1) bekezdés a) pontja alapján rendkívüli állapotnak, illetve a 48. cikk (1) bekezdés b) pontja alapján szükségállapotnak kihirdetett időszak vagy az 53. cikk (1) bekezdése alapján veszélyhelyzetnek minősített, illetve az 52. cikk (1) bekezdése alapján meghatározott esemény;
 
@@ -55,6 +55,6 @@ r) védelmi célú hányad: az egyes állami tartalékok gazdaságmozgósítási
 [^11]: A Magyar Köztársaságnak az Észak-atlanti Szerződéshez történő csatlakozásáról és a Szerződés szövegének kihirdetéséről szóló 1999. évi I. törvény 5. cikk.
 [^12]: Az Egyesült Nemzetek Szövetsége Alapokmányának törvénybe iktatásáról szóló 1956. évi I. törvény VI. fejezet, az 1999. évi I. törvény nem 5. cikk hatálya alá eső béketámogató műveletek.
 [^13]: A katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 3. § d) pontja.
-[^14]: A 2. § k) pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (1) bekezdésével megállapított, a 314/2011. (XII. 23.) Korm. rendelet 8. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 2. § k) pontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (1) bekezdésével megállapított, a 314/2011. (XII. 23.) Korm. rendelet 8. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (1) bekezdés b) pontja, a 486/2015. (XII. 29.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^15]: A 2. § l) pontja a 144/2012. (VII. 3.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^16]: A Hvt. 69. § (3) bekezdése és a 191. § (1) bekezdés a)–d) pontjai.
