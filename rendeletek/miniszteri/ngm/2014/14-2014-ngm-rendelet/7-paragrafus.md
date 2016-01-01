@@ -1,6 +1,8 @@
+## 6. §[^21]
+
 ## 4. A felnőttképzési szakértői és a felnőttképzési programszakértői nyilvántartás
 
-7. § (1) A felnőttképzési szakértők és a felnőttképzési programszakértők közhiteles hatósági nyilvántartása (a továbbiakban: nyilvántartás) – az Fktv.-ben, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben foglaltakon túl – tartalmazza a szakértő
+7. § (1)[^22] A nyilvántartás – az Fktv.-ben, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben foglaltakon túl – tartalmazza a szakértő
 
 a) 1. § (2) bekezdése szerinti rész-szakterületének megnevezését,
 
@@ -8,16 +10,15 @@ b) továbbképzése teljesítésének tényét a teljesítést igazoló tanúsí
 
 c) tevékenysége felfüggesztésének vagy szünetelésének tényét, és annak kezdő és befejező időpontját.
 
-(2)[^5] A szakértő a névjegyzékben szereplő adataiban bekövetkezett változást, valamint a tevékenysége végzéséhez az Fktv.-ben és e rendeletben meghatározott feltételek hiányát az adatváltozás keletkezésétől számított nyolc napon belül köteles bejelenteni a nyilvántartást vezető NSZFH-hoz vagy a Kamarához, amely a bejelentéstől számított öt munkanapon belül intézkedik
+(2)[^23] A szakértő a nyilvántartásban szereplő adataiban bekövetkezett változást, valamint a tevékenysége végzéséhez az Fktv.-ben és e rendeletben meghatározott feltételek hiányát az adatváltozás keletkezésétől számított nyolc napon belül köteles bejelenteni a nyilvántartást vezető hatósághoz, amely a bejelentéstől számított öt munkanapon belül intézkedik
 
 a) a nyilvántartás adatainak bejelentés szerinti módosításáról, vagy
 
-b) ha a bejelentés érinti a szakértői tevékenységre való jogosultságot
-
-ba) a szakértői engedély módosításáról,
-
-bb) a szakértői engedély visszavonásáról és a szakértő névjegyzékből való törléséről.
+b)[^24] a szakértői tevékenység folytatásának megtiltásáról és a szakértő nyilvántartásból való törléséről, ha a bejelentés érinti a szakértői tevékenységre való jogosultságot.
 
 (3) A felnőttképzési programszakértő – a (2) bekezdésben foglaltakon túlmenően – a 3. § (1) bekezdésben előírt továbbképzési kötelezettsége teljesítését a továbbképzést záró vizsga időpontjától számított nyolc napon belül köteles bejelenteni a Kamarának.
 
-[^5]: A 7. § (2) bekezdése az 55/2014. (XII. 31.) NGM rendelet 18. § c) pontja szerint módosított szöveg.
+[^21]: A 6. §-t a 42/2015. (XII. 30.) NGM rendelet 16. § c) pontja hatályon kívül helyezte.
+[^22]: A 7. § (1) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § h) pontja szerint módosított szöveg.
+[^23]: A 7. § (2) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § i) pontja szerint módosított szöveg.
+[^24]: A 7. § (2) bekezdés b) pontja a 42/2015. (XII. 30.) NGM rendelet 13. §-ával megállapított szöveg.

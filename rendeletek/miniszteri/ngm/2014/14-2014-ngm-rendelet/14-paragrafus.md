@@ -1,8 +1,8 @@
-## 13. §[^8]
+## 13. §[^33]
 
-14–15. §[^9]
+14–15. §[^34]
 
-Melléklet a 14/2014. (III. 31.) NGM rendelethez
+Melléklet a 14/2014. (III. 31.) NGM rendelethez[^35]
 
 A szakértői továbbképzés témakörei
 
@@ -20,7 +20,7 @@ I. Felnőttképzési szakértő – felnőttképzési igazgatás szakterület
 
 1.1.4. A tényállás tisztázása
 
-1.1.5. Az egyes szakmagyakorlási tevékenységek közötti kapcsolatrendszer
+1.1.5.
 
 1.1.6. A határozat tartalma és közlése
 
@@ -264,5 +264,6 @@ III. Felnőttképzési programszakértők
 
 4.4. Konfliktuskezelés
 
-[^8]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A Melléklet a 42/2015. (XII. 30.) NGM rendelet 16. § d) pontja szerint módosított szöveg.

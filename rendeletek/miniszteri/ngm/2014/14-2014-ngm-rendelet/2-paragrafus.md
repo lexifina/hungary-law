@@ -2,7 +2,7 @@
 
 ## 2. A felnőttképzési szakértői és a felnőttképzési programszakértői tevékenység folytatásának feltételei
 
-2. § (1) Felnőttképzési szakértői vagy felnőttképzési programszakértői tevékenység folytatása – a felnőttképzésről szóló 2013. évi LXXVII. törvényben (a továbbiakban: Fktv.) meghatározott feltételeken túl – annak engedélyezhető, aki rendelkezik a kérelmében szereplő szakterülethez
+2. § (1)[^1] Felnőttképzési szakértői vagy felnőttképzési programszakértői tevékenység folytatására – a felnőttképzésről szóló 2013. évi LXXVII. törvényben (a továbbiakban: Fktv.) meghatározott feltételeken túl – az jogosult, aki rendelkezik a bejelentésében, aki rendelkezik a kérelmében szereplő szakterülethez
 
 a) felnőttképzési szakértői tevékenység esetén a (2) vagy (3) bekezdésben,
 
@@ -26,7 +26,7 @@ ad) felsőfokú végzettségi szint,
 
 b) szakmai gyakorlat, amely
 
-ba) az a) pont aa)–ac) alpontja szerinti szakmai képesítés esetén legalább négyéves, a kérelemben megjelölt felnőttképzési szakértői szakterületen,
+ba)[^2] az a) pont aa)–ac) alpontja szerinti szakmai képesítés esetén legalább négyéves, a bejelentésben megjelölt felnőttképzési szakértői szakterületen,
 
 bb) az a) pont ad) alpontja szerinti szakmai képesítés esetén legalább hatéves felnőttképzési irányítási, oktatási, minőségbiztosítási, oktatásszervezési vagy mérési-értékelési területen
 
@@ -36,11 +36,11 @@ megszerzett gyakorlat lehet.
 
 a) szakmai képesítés
 
-aa) a kérelemben megjelölt felnőttképzési szakterület rész-szakterületével azonos nyelvből szerzett nyelvtanári végzettség,
+aa)[^3] a bejelentésben megjelölt felnőttképzési szakterület rész-szakterületével azonos nyelvből szerzett nyelvtanári végzettség,
 
-ab) nyelvtanári végzettség és a kérelemben megjelölt felnőttképzési szakterület rész-szakterületével azonos nyelvből „KER-C1” szintű, okirattal igazolt nyelvismeret, vagy
+ab)[^4] nyelvtanári végzettség és a bejelentésben megjelölt felnőttképzési szakterület rész-szakterületével azonos nyelvből „KER-C1” szintű, okirattal igazolt nyelvismeret, vagy
 
-ac) pedagógus szakképzettség és – ha a kérelemben megjelölt rész-szakterület nyelvéből nincs felsőfokú végzettségi szintű nyelvtanári vagy nyelv és irodalom tanári képzés – a felnőttképzési szakterület rész-szakterületével azonos nyelvből „KER-C1” szintű, okirattal igazolt nyelvismeret,
+ac)[^5] pedagógus szakképzettség és – ha a bejelentésben megjelölt rész-szakterület nyelvéből nincs felsőfokú végzettségi szintű nyelvtanári vagy nyelv és irodalom tanári képzés – a felnőttképzési szakterület rész-szakterületével azonos nyelvből „KER-C1” szintű, okirattal igazolt nyelvismeret,
 
 ## és
 
@@ -50,10 +50,17 @@ b) legalább négyéves nyelvoktatási, nyelvi programkészítési, nyelvi mér�
 
 a) pedagógiai felsőfokú végzettségi szint vagy andragógiai – így különösen andragógus, emberi erőforrás tanácsadó, művelődésszervező, személyügyi szervező, humán szervező közművelődési szakember – felsőfokú végzettségi szint, vagy két éves felnőttképzési oktatási gyakorlat,
 
-b) a kérelemben megjelölt felnőttképzési programszakértői szakterülethez igazodó szakirányú felsőfokú végzettség, és
+b)[^6] a bejelentésben megjelölt felnőttképzési programszakértői szakterülethez igazodó szakirányú felsőfokú végzettség, és
 
 c) felnőttképzési programkészítési, oktatási, gyakorlatvezetési, oktatásszervezési, tananyag fejlesztési, mérési-értékelési, kutatási vagy lektorálási területen szerzett legalább két éves szakmai gyakorlat.
 
 (5) E rendelet alkalmazásában szakmai gyakorlatnak minősül a felnőttképzés területén munkavégzésre irányuló bármely jogviszony keretében, vagy egyéni vállalkozóként folytatott, a (2) bekezdés b) pontjában, a (3) bekezdés b) pontjában vagy a (4) bekezdés c) pontjában meghatározott tevékenység.
 
 (6) A (4) bekezdés a) pontjának alkalmazásában felnőttképzési oktatási gyakorlatnak minősül a köznevelési, felsőoktatási vagy felnőttképzési területen munkaviszony, vagy közalkalmazotti jogviszony keretében folytatott oktatási tevékenység, vagy a felsorolt területeken munkavégzésre irányuló egyéb jogviszony keretében két éven belül legalább kétszáz igazolt órában folytatott oktatási tevékenység.
+
+[^1]: A 2. § (1) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § a)–b) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés b) pont ba) alpontja a 42/2015. (XII. 30.) NGM rendelet 15. § c) pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdés a) pont aa) alpontja a 42/2015. (XII. 30.) NGM rendelet 15. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdés a) pont ab) alpontja a 42/2015. (XII. 30.) NGM rendelet 15. § c) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdés a) pont ac) alpontja a 42/2015. (XII. 30.) NGM rendelet 15. § c) pontja szerint módosított szöveg.
+[^6]: A 2. § (4) bekezdés b) pontja a 42/2015. (XII. 30.) NGM rendelet 15. § c) pontja szerint módosított szöveg.
