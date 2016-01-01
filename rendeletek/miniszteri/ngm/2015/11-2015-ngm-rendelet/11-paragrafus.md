@@ -1,5 +1,5 @@
 ## 10. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-11. § (1) A KEKI főigazgatója által e rendelet hatálybalépését megelőzően jóváhagyott képzési programokat 2015. december 31-ig kell a 6. § (1) és (3) bekezdésében meghatározott adattartalomnak megfelelően módosítani.
+11. §[^6]
 
-(2) A Minőségirányítási Kézikönyvet e rendelet hatálybalépését követő 6 hónapon belül kell kiadni.
+[^6]: A 11. §-t a 47/2015. (XII. 30.) NGM rendelet 26. § (2) bekezdése hatályon kívül helyezte.

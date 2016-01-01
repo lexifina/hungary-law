@@ -8,7 +8,7 @@
 
 2. hatósági jellegű képzés: a NAV hivatásos állományába felvett személyek számára szervezett, a felnőttképzésről szóló 2013. évi LXXVII. törvény 2. § 16. pontjának megfelelő képzések, amelyek:
 
-a) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 41. § (2) bekezdése alapján a NAV hivatásos állományába felvett személy részére meghatározott előképző tanfolyam,
+a)[^2] a NAV foglalkoztatási szabályzata alapján a NAV hivatásos állományába felvett személy részére meghatározott előképző tanfolyam,
 
 b) a NAV tv. 17/A. § (1) bekezdése alapján a NAV hivatásos állományába felvett személy részére meghatározott alapfokú szaktanfolyam,
 
@@ -39,3 +39,5 @@ c) a NAV tv. 17/A. § (1) bekezdése alapján a tiszti vagy főtiszti állomány
 14. trénerképzés és tréner továbbképzés: a NAV trénerei készség- és képességfejlesztési ismereteinek megalapozását, bővítését biztosító, háromfázisú (azaz saját élményen, pedagógiai-pszichológiai elméleti-módszertani ismeretbővítésen és szupervízión/esetmegbeszélésen alapuló) képzés;
 
 15. vezetőképzés: a vezetői munkakör ellátásához szükséges kompetenciákat fejlesztő képzés.
+
+[^2]: A 2. § 2. pont a) alpontja a 47/2015. (XII. 30.) NGM rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.

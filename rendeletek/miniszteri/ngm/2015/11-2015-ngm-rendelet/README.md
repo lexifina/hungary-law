@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-11-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-04-10 | 2015-11-20-2X.1 | 11/2015. (IV. 9.) NGM rendelet |
+| 2016-01-01 | 2015-11-20-2X.2 | 47/2015. (XII. 30.) NGM rendelet |

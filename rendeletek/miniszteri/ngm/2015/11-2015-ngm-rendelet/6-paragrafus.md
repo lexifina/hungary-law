@@ -1,4 +1,4 @@
-## 5. § A KEKI a képzéseit a 4. § (1) bekezdésében meghatározott módon a képzési programok alapján valósítja meg. A képzési programokat a KEKI főigazgatója hagyja jóvá.
+## 5. §[^4] A KEKI a képzéseit a 4. § (1) bekezdésében meghatározott módon a képzési programok alapján valósítja meg. A képzési programokat a KEKI igazgatója hagyja jóvá.
 
 6. § (1) A képzési program az alábbiakat tartalmazza:
 
@@ -33,3 +33,5 @@ m) a képzési program végrehajtásához szükséges személyi és tárgyi felt
 (3) A képzési program mellékletét képezi a tematika, amelyben az (1) bekezdés g) pontja szerinti tananyagegységeket kell részletezni.
 
 (4) A képzés eredményes elvégzéséről a KEKI tanúsítványt vagy – jogszabályban meghatározott esetben – igazolást ad ki a foglalkoztatott részre.
+
+[^4]: Az 5. § a 47/2015. (XII. 30.) NGM rendelet 26. § (1) bekezdés c) pontja szerint módosított szöveg.
