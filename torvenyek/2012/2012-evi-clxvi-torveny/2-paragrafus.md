@@ -11,3 +11,5 @@ kezdeményezheti az 1–3. mellékletben meghatározott ágazatokhoz tartozás a
 (2) Az ágazati kijelölő hatóság a kijelölés visszavonásáról hivatalból is dönthet.
 
 (3) Az ágazati kijelölő hatóság az ágazati és horizontális kritériumok alapján a közigazgatási hatósági eljárás szabályainak megfelelően határozatban dönt a nemzeti létfontosságú rendszerelem kijelöléséről vagy a kijelölés visszavonásáról, meghatározza az üzemeltetői biztonsági terv kidolgozásának határidejét, valamint a létfontosságú rendszerelem védelmével összefüggő, a rendszerelem egyedi sajátosságaihoz, környezetéhez, a rendszerelem által potenciálisan előidézhető veszély mértékéhez igazodó feltételeket írhat elő az üzemeltető részére.
+
+(4) Az ágazati kijelölő hatóság a (3) bekezdés szerinti döntését az azonosítási jelentés kézhezvételétől számított 70 napon belül hozza meg.

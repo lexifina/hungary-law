@@ -38,11 +38,15 @@ mezőgazdaság
 
 |
 
+|
+
 élelmiszeripar
 
 |
 
 11
+
+|
 
 |
 
@@ -66,11 +70,15 @@ aktív fekvőbeteg-ellátás
 
 |
 
+|
+
 mentésirányítás
 
 |
 
 14
+
+|
 
 |
 
@@ -82,6 +90,8 @@ egészségügyi tartalékok és vérkészletek
 
 |
 
+|
+
 magas biztonsági szintű biológiai laboratóriumok
 
 |
@@ -90,11 +100,15 @@ magas biztonsági szintű biológiai laboratóriumok
 
 |
 
+|
+
 egészségbiztosítás informatikai rendszere
 
 |
 
 16a
+
+|
 
 |
 
@@ -110,11 +124,13 @@ Pénzügy
 
 |
 
-pénzeszközök, pénzügyi eszközök kereskedési, elszámolási, fizetési és teljesítést végző infrastruktúrái és rendszerei
+pénzügyi eszközök kereskedelmi, fizetési, valamint klíring- és elszámolási infrastruktúrái és rendszerei
 
 |
 
 18
+
+|
 
 |
 
@@ -126,40 +142,6 @@ bank- és hitelintézeti biztonság
 
 |
 
+|
+
 készpénzellátás
-
-|
-
-20
-
-|
-
-Ipar
-
-|
-
-veszélyes anyagok előállítása, tárolása és feldolgozása
-
-|
-
-21
-
-|
-
-veszélyes hulladékok kezelése és tárolása (kivéve radioaktív hulladékok kezelése és tárolása)
-
-|
-
-22
-
-|
-
-hadiipari termelés
-
-|
-
-23
-
-|
-
-oltóanyag- és gyógyszergyártás (kivéve nukleáris létesítmények)
