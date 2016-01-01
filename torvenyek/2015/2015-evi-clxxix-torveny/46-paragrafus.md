@@ -7,11 +7,3 @@ b) a harmadik országbeli állampolgár vagy hontalan személy által a tagálla
 c) az egyes adatoknak az Interpollal történő cseréjéről szóló, 2005. január 24-i, 2005/69/IB tanácsi közös álláspont
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
