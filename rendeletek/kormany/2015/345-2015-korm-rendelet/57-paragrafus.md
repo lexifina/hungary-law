@@ -1,3 +1,3 @@
-## 56. §[^32]
+## 56. §[^29]
 
-[^32]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

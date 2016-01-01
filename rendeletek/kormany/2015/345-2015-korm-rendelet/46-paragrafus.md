@@ -1,14 +1,15 @@
 ## 46. § A 423/2012. (XII. 29.) Korm. rendelet
 
-1–17.[^20]
+1–17.[^19]
 
-18.[^21]
+18.[^20]
 
-19–20.[^22]
+19. 28/A. § (1) és (2) bekezdésében, valamint a 29. § (3) bekezdésében az „Az adatfeldolgozó” szövegrész helyébe az „A Hivatal”,
 
-21–22.[^23]
+20. 29. § (2) bekezdésében és 30. § (1) bekezdésében az „az adatfeldolgozó” szövegrész helyébe az „a Hivatal”,
 
-[^20]: A 46. § 1–17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 46. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 46. § 19–20. pontja a 97. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
-[^23]: A 46. § 21–22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+21–22.[^21]
+
+[^19]: A 46. § 1–17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 46. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 46. § 21–22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
