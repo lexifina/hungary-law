@@ -8,7 +8,7 @@ a) az érintett országos nemzetiségi önkormányzat véleményét, amennyiben 
 
 b) az igazgatási szolgáltatási díj befizetésének igazolását.
 
-(2a)[^31] A Hivatal a pedagógus-továbbképzési program engedélyezési eljárásában közreműködő hatóságként – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 32. § (1) bekezdése és 58. § (1) bekezdése alapján – az eljárást felfüggeszti, valamint szakértőt rendel ki.
+(2a)[^31] A Hivatal a pedagógus-továbbképzési program engedélyezési eljárásában közreműködő hatóságként – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 58. § (1) bekezdése alapján – szakértőt rendel ki.
 
 (3) Ha a továbbképzési program teljes egészében a szakvizsgára történő felkészítés oktatási és tanulmányi követelményeire épül úgy, hogy a továbbképzés követelményeinek teljesítése a szakvizsgára történő felkészülésbe beszámít, a kérelemhez a következőket kell csatolni:
 
@@ -52,7 +52,7 @@ b)[^34] a továbbképzési program nem felel meg az e rendeletben megállapítot
 [^28]: A 7. § a 3/2010. (I. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^29]: A 7. § (1) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
 [^30]: A 7. § (2) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^31]: A 7. § (2a) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^31]: A 7. § (2a) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^32]: A 7. § (3) bekezdés c) pontját a 346/2013. (IX. 30.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
 [^33]: A 7. § (6) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^34]: A 7. § (10) bekezdés b) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
