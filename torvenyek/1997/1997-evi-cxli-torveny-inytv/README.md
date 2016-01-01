@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2015-05-02 | 2015. évi XLIV. törvény | 1997-141-00-00.58 |
 | 2015-08-17 | 2015. évi LXXI. törvény | 1997-141-00-00.59 |
 | 2015-09-01 | 2015. évi CV. törvény | 1997-141-00-00.60 |
+| 2016-01-01 | 2015. évi CLXXXVI. törvény | 1997-141-00-00.61 |
