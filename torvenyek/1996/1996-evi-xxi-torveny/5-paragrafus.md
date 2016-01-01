@@ -46,7 +46,7 @@ n) területfejlesztési program: a területfejlesztési koncepció alapján kido
 
 o) operatív program: az Európai Unió pénzügyi tervezési időszakaihoz kapcsolódó, összefüggő prioritások mentén fejlesztési stratégiát meghatározó, strukturális és kohéziós alapok felhasználásával ágazati vagy területi szempontú fejlesztéseket megvalósító terv, amelyet a Kormány döntése alapján, a tagállami benyújtást követően az Európai Bizottság hagy jóvá,
 
-p) ipari park: általános ipar- és területfejlesztéssel foglalkozó, infrastruktúrával ellátott területtel rendelkező, fejlesztő, termelő és szolgáltató tevékenységet folytató működésre és innovációra törekvő, „Ipari Park” címmel rendelkező szervezet,
+p) ipari park: infrastruktúrával ellátott olyan terület, ahol elsősorban termelő és feldolgozóipari tevékenységet végző, valamint innovációra törekvő vállalkozások találhatóak;
 
 r) innovációs központok: azon megfelelő termelési és szellemi háttérrel, illetve kapcsolatrendszerrel rendelkező települések, amelyek a gazdaság növekedését, szerkezetváltását és megújulását, illetve a társadalmi fejlődést nagyobb térségben segítik elő, vagy mindezek elérése érdekében tudatos fejlesztési politika érvényesül;
 
