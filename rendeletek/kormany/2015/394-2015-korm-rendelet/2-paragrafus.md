@@ -1,0 +1,1 @@
+## „(2a) A rendészeti szakvizsga kötelező vizsgatárgyának Közigazgatási ismeretek ismeretrésze vonatkozásában az (1a) bekezdés szerinti ismeretanyaghoz, valamint a (2) bekezdés szerinti tananyaghoz a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jóváhagyása is szükséges.”

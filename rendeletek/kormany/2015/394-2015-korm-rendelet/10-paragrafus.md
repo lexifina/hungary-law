@@ -1,0 +1,1 @@
+## 4. A polgári nemzetbiztonsági szolgálatoknak az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatott, továbbá a nemzetközi szervezetekben pályázat útján elnyert jogviszonyban alkalmazott hivatásos állományú tagjainak jogviszonyáról, a velük kapcsolatos személyzeti eljárás rendjéről szóló 3/2005. (V. 31.) MeHVM rendelet hatályon kívül helyezése
