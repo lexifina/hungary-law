@@ -1,3 +1,3 @@
-## 21. §[^37]
+## 21. §[^36]
 
-[^37]: A 21. §-t a 27/2014. (IV. 8.) EMMI rendelet 4. §-a hatályon kívül helyezte.
+[^36]: A 21. §-t a 27/2014. (IV. 8.) EMMI rendelet 4. §-a hatályon kívül helyezte.

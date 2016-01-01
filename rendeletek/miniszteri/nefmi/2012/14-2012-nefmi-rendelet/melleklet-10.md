@@ -40,7 +40,7 @@
 
 | Dátum: ……………………… A Támogató szervezet képviselőjének A Támogatott szervezet képviselőjének cégszerű aláírása cégszerű aláírása Melléklet: Az előadó-művészeti államigazgatási szerv által végzett egyes közigazgatási hatósági eljárásokért fizetendő igazgatási szolgáltatási díjról szóló 13/2012. (III. 6.) NEFMI rendelet szerint meghatározott igazgatási szolgáltatási díj megfizetését igazoló banki bizonylat másolati példánya |
 
-10. melléklet a 14/2012. (III. 6.) NEFMI rendelethez[^43]
+10. melléklet a 14/2012. (III. 6.) NEFMI rendelethez[^42]
 
 |  | Figyelem! Ezt a részt az NKA Igazgatósága tölti ki! A módosító kérelem érkezésének napja: A módosító kérelem iktatószáma: Ügyintéző neve: |  |
 
@@ -90,4 +90,4 @@
 
 | Dátum: ……………………… A Támogató szervezet képviselőjének A Támogatott szervezet képviselőjének cégszerű aláírása cégszerű aláírása |
 
-[^43]: A 10. mellékletet a 29/2015. (V. 28.) EMMI rendelet 8. §-a iktatta be.
+[^42]: A 10. mellékletet a 29/2015. (V. 28.) EMMI rendelet 8. §-a iktatta be.

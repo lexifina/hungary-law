@@ -172,6 +172,6 @@
 
 ## IV. A fenntartó (támogató) által tárgyévben biztosított támogatás mértéke
 
-9. melléklet a 14/2012. (III. 6.) NEFMI rendelethez[^42]
+9. melléklet a 14/2012. (III. 6.) NEFMI rendelethez[^41]
 
-[^42]: A 9. mellékletet a 29/2015. (V. 28.) EMMI rendelet 8. §-a iktatta be.
+[^41]: A 9. mellékletet a 29/2015. (V. 28.) EMMI rendelet 8. §-a iktatta be.

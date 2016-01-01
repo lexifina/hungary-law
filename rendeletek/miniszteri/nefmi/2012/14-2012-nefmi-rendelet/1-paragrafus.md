@@ -14,4 +14,6 @@
 
 6. koprodukciós bemutató: az olyan előadás, amelyet két vagy több, nyilvántartásba vett előadó-művészeti szervezet költségvetési forrásából hoztak létre, s amelyet valamennyi létrehozó előadó-művészeti szervezet – amennyiben rendelkezik az alapító okiratában feltüntetett állandó játszóhellyel – valamely játszóhelyén bemutattak (a koprodukciós bemutatót a létrehozó valamennyi előadó-művészeti szervezet saját bemutatónak tekintheti),
 
-7. társasági adókedvezmény igénybevételére jogosító támogatás: az adóévben az előadó-művészeti szervezet tevékenységéhez visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, a térítés nélkül nyújtott szolgáltatás bekerülési értéke.
+7.[^2]
+
+[^2]: Az 1. § 7. pontját a 440/2015. (XII. 28.) Korm. rendelet 15. § (3) bekezdés b) pontja hatályon kívül helyezte.
