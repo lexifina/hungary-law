@@ -12,20 +12,7 @@ d) az Fktv. 19. § (3) bekezdésében meghatározott jogalanyra (a továbbiakban
 
 e)[^1] a Nemzeti Szakképzési és Felnőttképzési Hivatalra (a továbbiakban: NSZFH).
 
-(2) E rendelet alkalmazásában:
-
-1. egyéb nyelvi képzés: bármely szakterületre kiterjedő szaknyelvi képzés;
-
-2. kombinált nyelvi képzés: az Fktv. szerinti általános nyelvi képzés és az egyéb nyelvi képzés egyidejű, egy képzésen belül történő megvalósítása;
-
-3. kontaktóra: a képzésben résztvevő személyes jelenlétét igénylő tanóra, távoktatás esetén olyan interaktív tanóra, amely elektronikus úton is megvalósulhat;
-
-4. nyelvi képzettségi szint: a nyelvi készségek, képességek és ismeretek felnőttképzési nyelvi programkövetelményben meghatározott szintje;
-
-5. nyelvi képzés fajtái: általános nyelvi képzés, egyéb nyelvi képzés és kombinált nyelvi képzés;
-
-6. nyelvi képzés szintjei: az Fktv. szerinti általános nyelvi képzés esetén az Európa Tanács Közös Európai Referenciakeretében (a továbbiakban: „KER”) ajánlott hatfokozatú rendszer szintjei, melyek további bemeneti és kimeneti követelmények által meghatározott képzési szintekre bonthatóak, egyéb nyelvi képzés esetén a nyelvi készségek, képességek és ismeretek programkövetelményben meghatározott, „KER” szintekhez köthető szintjei;
-
-7. nyelvi képzés típusa: kontaktórás képzés vagy távoktatás.
+(2)[^2]
 
 [^1]: Az 1. § (1) bekezdés e) pontja a 4/2015. (II. 19.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdését a 42/2015. (XII. 30.) NGM rendelet 20. §-a hatályon kívül helyezte.
