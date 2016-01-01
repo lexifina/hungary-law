@@ -8,13 +8,15 @@ c) a diplomáciai kiváltságokkal és mentességekkel kapcsolatos eljárásra, 
 
 d) a konzuli védelemre, valamint a tiszteletbeli konzulok megbízásának és fogadásának rendjére,
 
-e)[^66] a humanitárius segítségnyújtásra
+e)[^71] a nemzetközi fejlesztési együttműködésre,
+
+f)[^72] a nemzetközi humanitárius segítségnyújtásra
 
 vonatkozó jogszabályokat.
 
 (2) A miniszter a külpolitikáért való felelőssége keretében
 
-a)[^67] felel a kül-, biztonság- és védelempolitikáért, e tekintetben
+a)[^73] felel a kül-, biztonság- és védelempolitikáért, e tekintetben
 
 aa) javaslatot készít a Kormány kül-, biztonság és védelempolitikai tevékenységére és irányítja az ebből eredő kormányzati feladatok előkészítését, koordinálja és ellenőrzi annak végrehajtását,
 
@@ -50,7 +52,7 @@ cc) javaslatot tesz az államok elismerésére, a diplomáciai és konzuli kapcs
 
 cd) javaslatot tesz a diplomáciai és hivatásos konzuli képviselet létesítésére, illetve megszüntetésére, gondoskodik a tiszteletbeli konzuli képviselet létesítéséről, illetve megszüntetéséről,
 
-ce)[^68] – az Állandó Képviselet kivételével – javaslatot tesz a magyar külképviseletek vezetőinek kinevezésére és felmentésére, kinevezi és felmenti a főkonzulokat, kinevezi a tiszteletbeli konzuli képviselet vezetőjét és dönt a kinevezés visszavonásáról, kinevezi és felmenti a diplomáciai és konzuli személyzetet,
+ce)[^74] – az Állandó Képviselet kivételével – javaslatot tesz a magyar külképviseletek vezetőinek kinevezésére és felmentésére, kinevezi és felmenti a főkonzulokat, kinevezi a tiszteletbeli konzuli képviselet vezetőjét és dönt a kinevezés visszavonásáról, kinevezi és felmenti a diplomáciai és konzuli személyzetet,
 
 cf) együttműködik a diplomáciai és konzuli képviseletekkel, továbbá más államoknak és nemzetközi szervezeteknek Magyarországon hivatalosan tartózkodó képviselőivel, valamint
 
@@ -64,7 +66,7 @@ db) javaslatot tesz a Kormánynak a magyar állampolgárok hazatérésének elő
 
 dc) felhatalmazást ad a konzuli tisztviselőknek egyes közjegyzői feladatok végzésére, gondoskodik e konzuli tisztviselők jegyzékének közzétételéről,
 
-e)[^69] felel a külföldre utazásról, valamint a külföldiek beutazásáról és tartózkodásáról szóló jogszabályokban meghatározott egyes feladatok, továbbá az ehhez kapcsolódó egyes európai uniós feladatok ellátásáért, e tekintetben
+e)[^75] felel a külföldre utazásról, valamint a külföldiek beutazásáról és tartózkodásáról szóló jogszabályokban meghatározott egyes feladatok, továbbá az ehhez kapcsolódó egyes európai uniós feladatok ellátásáért, e tekintetben
 
 ea) ellátja a hatáskörébe utalt feladatokat a diplomata- és a külügyi szolgálati útlevelek vonatkozásában, valamint a magánútlevelek tekintetében a konzuli szolgálat, mint útlevélhatóság által hatáskörébe utalt feladatokat,
 
@@ -92,7 +94,7 @@ ff) megállapítja a nemzetközi szerződések hatálybalépésének, valamint m
 
 fg) működteti Magyarország szerződéstárát,
 
-g)[^70] felel a diplomáciai protokollért, valamint a külföldi államfők és kormányfők fogadásáért,
+g)[^76] felel a diplomáciai protokollért, valamint a külföldi államfők és kormányfők fogadásáért,
 
 h) felel a nemzetközi jogon alapuló viszonosság megállapításáért, valamint egyes jogsegélyügyekért, e tekintetben állást foglal a nemzetközi viszonosság fennállásának kérdésében,
 
@@ -104,16 +106,25 @@ ib) gondoskodik a közigazgatási szervek határon átnyúló együttműködéss
 
 ic) ellátja a közigazgatási szervek nemzetközi együttműködésének koordinálását, részt vesz a közigazgatási szervek nemzetközi képviseletében, elősegíti azok fejlesztését,
 
-id) elősegíti a területi közigazgatási szervek részvételét a nemzetközi fejlesztési együttműködésben,
+id)[^77]
 
-j)[^71] koordinálja és irányítja a nemzetközi humanitárius segítségnyújtást,
+j)[^78] koordinálja és irányítja a kormányzati nemzetközi humanitárius segítségnyújtást,
 
-k)[^72] kialakítja az Állandó Képviselet működésére vonatkozó szabályokat.
+k)[^79] kialakítja az Állandó Képviselet működésére vonatkozó szabályokat,
 
-[^66]: A 89. § (1) bekezdés e) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^67]: A 89. § (2) bekezdés a) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^68]: A 89. § (2) bekezdés c) pont ce) alpontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^69]: A 89. § (2) bekezdés e) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^70]: A 89. § (2) bekezdés g) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^71]: A 89. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^72]: A 89. § (2) bekezdés k) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+l)[^80] felel a nemzetközi fejlesztési együttműködésért, ennek keretében
+
+la) kidolgozza és végrehajtja a Kormány nemzetközi fejlesztési együttműködési politikáját, meghatározza a partnerországok körét a szakpolitikai stratégia alapján, valamint
+
+lb) koordinálja és irányítja a kormányzati nemzetközi fejlesztési együttműködési tevékenységet.
+
+[^71]: A 89. § (1) bekezdés e) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 353/2015. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^72]: A 89. § (1) bekezdés f) pontját a 353/2015. (XI. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^73]: A 89. § (2) bekezdés a) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^74]: A 89. § (2) bekezdés c) pont ce) alpontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^75]: A 89. § (2) bekezdés e) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^76]: A 89. § (2) bekezdés g) pontja a 303/2014. (XII. 5.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^77]: A 89. § (2) bekezdés i) pont id) alpontját a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^78]: A 89. § (2) bekezdés j) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (6) bekezdése iktatta be, szövege a 353/2015. (XI. 26.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^79]: A 89. § (2) bekezdés k) pontját a 303/2014. (XII. 5.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^80]: A 89. § (2) bekezdés l) pontját a 353/2015. (XI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be.

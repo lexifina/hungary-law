@@ -1,6 +1,6 @@
-88. § (1) A miniszter a külgazdasági ügyekért való felelőssége keretében előkészíti a nemzetközi fejlesztési együttműködésre vonatkozó jogszabályokat.
+88. § (1)[^68]
 
-(2)[^65] A miniszter a külgazdasági ügyekért való felelőssége keretében
+(2)[^69] A miniszter a külgazdasági ügyekért való felelőssége keretében
 
 a) kialakítja a Kormány külgazdasági politikáját,
 
@@ -18,14 +18,12 @@ fa) a Kormány feladatkörében érintett tagjával együttműködve kialakítja
 
 fb) gondoskodik a nemzetközi kereskedelempolitikai kötelezettségek és a hazai jogi szabályozás összhangjának megőrzéséről,
 
-g) felel a nemzetközi fejlesztési együttműködésért, ennek keretében
-
-ga) kidolgozza és végrehajtja a Kormány nemzetközi fejlesztési együttműködési politikáját, meghatározza a támogatandó partnerországok körét és kijelöli az ágazati prioritásokat, valamint
-
-gb) koordinálja és irányítja a nemzetközi fejlesztési együttműködési tevékenységet,
+g)[^70]
 
 h) koordinálja az Európai Duna Stratégiával kapcsolatos kormányzati feladatokat, ellátja a Régiók Bizottsága tevékenységével kapcsolatos koordinációs feladatokat,
 
 i) felel a külgazdasági diplomata hálózat irányításáért, kezdeményezi a szakdiplomaták kinevezését és felmentését.
 
-[^65]: A 88. § (2) bekezdése az 1/2015. (I. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^68]: A 88. § (1) bekezdését a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^69]: A 88. § (2) bekezdése az 1/2015. (I. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^70]: A 88. § (2) bekezdés g) pontját a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.

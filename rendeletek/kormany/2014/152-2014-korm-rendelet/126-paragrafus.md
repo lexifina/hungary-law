@@ -1,4 +1,4 @@
-## 126. §[^86] A miniszterek helyettesítése a Ksztv. 37. § (2) bekezdésében meghatározott esetekben a következő rend szerint történik:
+## 126. §[^99] A miniszterek helyettesítése a Ksztv. 37. § (2) bekezdésében meghatározott esetekben a következő rend szerint történik:
 
 a) a miniszterelnök általános helyettesét a Miniszterelnökséget vezető miniszter,
 
@@ -24,4 +24,4 @@ k) a nemzeti fejlesztési minisztert a nemzetgazdasági miniszter
 
 helyettesíti.
 
-[^86]: A 126. § a 306/2015. (X. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^99]: A 126. § a 306/2015. (X. 26.) Korm. rendelet 10. §-ával megállapított szöveg.

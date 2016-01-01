@@ -160,7 +160,7 @@
 
 |  | 4 | Magyar Kereskedelmi Engedélyezési Hivatal | irányítás |
 
-|  | 5 | Nemzeti Adó- és Vámhivatal | felügyelet |
+|  | 5 | Nemzeti Adó- és Vámhivatal | irányítás |
 
 |  | 6 |  |  |
 
