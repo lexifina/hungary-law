@@ -150,7 +150,7 @@ b) amelyet az éves jelentésében vagy más hivatalos dokumentumban bizonyítot
 
 54. jogi képviselő: az a természetes személy, akinek lakóhelye az Európai Unióban van, illetve az a jogi személy, amelynek székhelye az Európai Unióban van, és akit vagy amelyet egy nem uniós ABAK jelölt ki arra, hogy a hatóságok, ügyfelek, szervezetek és nem uniós ABAK üzletfelei felé az Európai Unióban a nevében eljárjon ezen törvény szerinti kötelezettségei tekintetében;
 
-54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
+54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, teljes tevékenységet irányító személyének, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
 
 55. kereskedelmi kommunikáció: a tájékoztató, a kezelési szabályzat, a kiemelt befektetői információ és a hirdetmény kivételével minden, a befektetők tájékoztatását szolgáló, a kollektív befektetési értékpapír nyilvános forgalomba hozatalával és forgalmazásával összefüggésbe hozható, reklámban vagy egyéb módon közölt információ;
 

@@ -6,7 +6,7 @@ a) aki mentes a befektetési alapkezelő óvatos, körültekintő és megbízhat
 
 b) akinek üzleti kapcsolatrendszere és tulajdonosi szerkezete átlátható és ezáltal nem zárja ki a befektetési alapkezelő feletti hatékony felügyelet gyakorlását.
 
-(2) A befektetési alapkezelő vezető tisztségviselőjének, teljes tevékenységet irányító személyének, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, üzleti tevékenységét irányító személyeinek jó üzleti hírnévvel kell rendelkezniük.
+(2) A befektetési alapkezelő vezető állású személyeinek, teljes tevékenységet irányító személyének, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, üzleti tevékenységét irányító személyeinek jó üzleti hírnévvel kell rendelkezniük.
 
 (3) A jó üzleti hírnevet a kérelmezőnek, illetve annak kell bizonyítania, akinek érdekében áll, hogy azt a Felügyelet elfogadja. A jó üzleti hírnév igazolásának módját a kérelmező megválaszthatja, azonban a Felügyelet egyéb, pontosan meghatározott iratok (okmányok) benyújtását írhatja elő. A Felügyelet a jó üzleti hírnév fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.
 

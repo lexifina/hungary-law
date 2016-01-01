@@ -34,7 +34,7 @@ d) nem áll a tevékenységének megfelelő foglalkozástól eltiltó jogerős b
 
 a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, pénzügyi intézménynél, biztosítónál, önkéntes, kölcsönös biztosító pénztárnál, magánnyugdíjpénztárnál, foglalkoztatói nyugdíj szolgáltató intézménynél,
 
-b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
+b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
 
 c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél,
 
@@ -60,6 +60,6 @@ c) lakóhelye (tartózkodási helye) vagy székhelye szerinti ország hatósága
 
 (11) A (10) bekezdés szerinti kizáró okokat a kérelmező külföldi tevékenysége tekintetében is vizsgálni kell.
 
-(12) A befektetési alapkezelő az (1) és (5)–(7) bekezdésben meghatározott személyek kinevezését, a személyükben bekövetkezett változást a kinevezést vagy a változást követően haladéktalanul, de legkésőbb a kinevezést vagy a változást követő 5 napon belül a Felügyeletnek köteles bejelenteni.
+(12) A befektetési alapkezelő az (1) és (2), valamint az (5)–(7) bekezdésben meghatározott személyek kinevezését, a személyükben bekövetkezett változást a kinevezést vagy a változást követően haladéktalanul, de legkésőbb a kinevezést vagy a változást követő 5 napon belül a Felügyeletnek köteles bejelenteni.
 
 (13) A 2. § (2) bekezdés szerinti kockázati tőkealap-kezelő felügyelő-bizottságának elnökére és tagjára a (2) bekezdés c) pontja nem alkalmazandó.

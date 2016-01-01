@@ -2,7 +2,7 @@
 
 a) az MNB-vel, a Befektető-védelmi Alappal, az Országos Betétbiztosítási Alappal, az Állami Számvevőszékkel, a Gazdasági Versenyhivatallal,
 
-b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, a Kormány által kijelölt kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző OLAF-fal,
+b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, a központi szerződő féllel, a központi értéktárral, a Kormány által kijelölt kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző OLAF-fal,
 
 c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 

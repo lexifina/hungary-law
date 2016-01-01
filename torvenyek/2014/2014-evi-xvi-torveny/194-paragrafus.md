@@ -4,7 +4,7 @@ a) korlátozott vagy elutasító könyvvizsgálói záradék, illetve a záradé
 
 b) bűncselekmény elkövetésére vagy a befektetési alap kezelési szabályzatának súlyos megsértésére, illetve az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
 
-c) e törvény vagy más jogszabályok, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
+c) e törvény vagy más jogszabályok, a tőzsde, a központi szerződő fél, illetve a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
 
 d) úgy ítéli meg, hogy a befektetési alapot kezelő befektetési alapkezelő tevékenysége folytán a befektetők érdekei veszélyben forognak;
 
