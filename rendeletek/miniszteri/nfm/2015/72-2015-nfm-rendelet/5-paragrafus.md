@@ -1,7 +1,0 @@
-## 4. § Az ER. 13/A. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(2) Az engedély első alkalommal történő kiadására irányuló eljárásban a kérelemhez csatolni kell valamely EGT tagállam által feljogosított szakértő intézmény által – két évnél nem régebben – kiállított szakvéleményt, amely igazolja, hogy az autóbusz megfelel az MR.-ben az emelt sebességgel közlekedéshez meghatározott műszaki feltételeknek. A jármű-honosítási eljárás, a forgalomba helyezés előtti vizsgálat, vagy a jármű időszakos vizsgálata során annak igazolásául, hogy a jármű megfelel az MR.-ben az emelt sebességgel közlekedéshez meghatározottal egyenértékű műszaki feltételeknek, el kell fogadni a származási országban kiadott forgalmi engedélybe tett, a 100 km/óra sebességgel való közlekedésre jogosító bejegyzést is.
-
-## (3) Az engedély időbeli hatályát az időszakos vizsgálat határidejével megegyezően kell megállapítani.
-
-## (4) Az engedély időbeli hatályának meghosszabbítását – az időszakos vizsgálathoz a 12. § (6) bekezdésében meghatározott követelményeken túl – az MR. 112/A. §-ában és 15. számú melléklet 6. és 8. pontjában foglalt üzemeltetési műszaki feltételek vizsgálata alapján kell végezni. Az autóbusz gyártási évét tizenkét naptári évvel meghaladó korú autóbusz esetében az engedély időbeli hatálya meghosszabbításának további feltétele a nemzetközi közúti áru- és személyszállítás végzésének egyes feltételeiről szóló miniszteri rendelet 2. számú mellékletében előírt további műszaki feltételeknek való megfelelőség is.”
