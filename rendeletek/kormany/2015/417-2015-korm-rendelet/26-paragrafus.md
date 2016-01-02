@@ -1,3 +1,5 @@
-## 25. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 14. § (9) bekezdésében a „gyermekgondozási segélyt” szövegrész helyébe a „gyermekgondozást segítő ellátást” szöveg lép.
+## 24–25. §[^7]
 
 ## 6. A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosítása
+
+[^7]: A 24–25. § a 2010: CXXX törvény 12. § (2) bekezdése alapján hatályát vesztette.

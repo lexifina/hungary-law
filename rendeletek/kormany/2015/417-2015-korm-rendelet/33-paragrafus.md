@@ -1,3 +1,0 @@
-## 32. § A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció: „Decentralizált programok a hátrányos helyzetűek foglalkoztatásáért”, valamint a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1. konstrukció: „Megváltozott munkaképességű emberek rehabilitációjának és foglalkoztatásának segítése” keretében nyújtható támogatásokról szóló 132/2009. (VI. 19.) Korm. rendelet 18. §-a a következő (2) bekezdéssel egészül ki:
-
-## „(2) Ahol e rendelet gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.”
