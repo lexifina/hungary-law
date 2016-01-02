@@ -10,10 +10,10 @@
 
 (3) Központi értéktári tevékenység végzésére jogosító engedélyt a Felügyelet a Magyarország területén székhellyel rendelkező legalább egymilliárd forint jegyzett tőkével rendelkező részvénytársaságnak adja meg.
 
-(4) Központi értéktár a 909/2014/EU rendelet C szakasza szerinti tevékenység végzésére szakosított hitelintézetként jogosult.
+(4) Központi értéktár a 909/2014/EU rendelet mellékletének C. szakasza szerinti tevékenység végzésére szakosított hitelintézetként jogosult.
 
 (5) A szakosított hitelintézetként működő központi értéktár
 
 a) legalább kettőmilliárd forint induló tőkével működhet,
 
-b) nem kaphat engedélyt a 909/2014/EU rendelet C szakasza szerinti tevékenységen kívül más pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenység végzésére.
+b) nem kaphat engedélyt a 909/2014/EU rendelet mellékletének C. szakasza szerinti tevékenységen kívül más pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenység végzésére.
