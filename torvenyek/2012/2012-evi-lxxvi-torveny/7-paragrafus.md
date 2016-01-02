@@ -18,7 +18,7 @@
 
 7.
 
-8. egyes adótörvények módosításáról szóló 2008. évi VII. törvény,
+8.
 
 9.
 
