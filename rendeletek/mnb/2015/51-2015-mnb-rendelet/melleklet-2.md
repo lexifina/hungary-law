@@ -788,6 +788,6 @@
 
 ## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-2. melléklet az 51/2015. (XII. 9.) MNB rendelethez[^3]
+2. melléklet az 51/2015. (XII. 9.) MNB rendelethez[^4]
 
-[^3]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA KONSZOLIDÁLT JELENTÉSEK – HITELINTÉZETEK” megnevezésű táblázat 14–49. sora a 13. § (2) bekezdése alapján 2016. április 1-jén lép hatályba.
+[^4]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA KONSZOLIDÁLT JELENTÉSEK – HITELINTÉZETEK” megnevezésű táblázat 14–49. sora a 13. § (2) bekezdése alapján 2016. április 1-jén lép hatályba.
