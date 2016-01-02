@@ -1,4 +1,4 @@
-## 54–55. §[^28]
+## 54–55. §[^31]
 
 ## 12. A pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi
 
@@ -6,4 +6,4 @@
 
 ## 326/2013. (VIII. 30.) Korm. rendelet módosítása
 
-[^28]: Az 54–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: Az 54–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
