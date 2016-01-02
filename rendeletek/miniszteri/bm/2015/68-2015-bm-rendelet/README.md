@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-68-20-0
 | --- | --- | --- |
 | 2015-12-17 | 2015-68-20-0A.1 | 68/2015. (XII. 16.) BM rendelet |
 | 2015-12-18 | 2015-68-20-0A.2 | 2010: CXXX. törvény |
+| 2016-01-02 | 2015-68-20-0A.3 | 2010: CXXX. törvény |
