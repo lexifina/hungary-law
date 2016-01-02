@@ -1,3 +1,0 @@
-5. § A Hszt. 37. alcíme a következő 64/A. §-sal egészül ki:
-
-„64/A. § A más szervhez vezényelt foglalkoztatása során a foglalkoztatási jogviszonnyal kapcsolatos összeférhetetlenségi szabályokra a 108. § és a 109. § (2)–(6) bekezdése, a Nemzeti Adó- és Vámhivatal hivatásos állománya tekintetében a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 33/B. §-a és 33/C. §-a, az ellátott munkakörrel kapcsolatos összeférhetetlenségre a fogadó szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó rendelkezéseit kell alkalmazni.”

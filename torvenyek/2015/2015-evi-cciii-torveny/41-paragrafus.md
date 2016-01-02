@@ -1,7 +1,3 @@
-41. § (1) A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 9. §-a a következő f) ponttal egészül ki:
-
-(A központi államigazgatási szerv vezetője felelős az ágazati feladatkörébe tartozó terület katasztrófavédelmével kapcsolatos tervező, szervező, irányító tevékenységéért. Ennek keretében:)
-
-„f) a területi szerv vezetőjének javaslatára kinevezi és felmenti a helyi szervek vezetőit, gyakorolja a velük kapcsolatos – jogszabályban meghatározott – munkáltatói jogköröket.”
+41. § (1)
 
 (2)

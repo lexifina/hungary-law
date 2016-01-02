@@ -1,3 +1,0 @@
-13. § A Hszt. 119. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A hivatásos állomány 46. § (2) bekezdése szerint besorolt nem pályakezdő tagjának a fizetési fokozatát a fizetési várakozási időben eltöltött szolgálati idő figyelembevételével kell megállapítani. Ha az így megállapított fizetési fokozatához az adott besorolási kategóriában nincs szorzószám rendelve, az illetményét az adott besorolási kategóriához rendszeresített legelső fizetési fokozat alapján kell folyósítani. A fizetési fokozatban való előmenetelre, valamint a szolgálati beosztás módosításakor a megállapított fizetési fokozat irányadó.”
