@@ -1,4 +1,4 @@
-## 9. § Hatályát veszti a pénzügyi közvetítőrendszer felügyelete alá tartozó személyek és szervezetek törzsadat-bejelentési kötelezettségéről szóló 39/2013. (XII. 29.) MNB rendelet.
+## 9. §[^1]
 
 1. melléklet az 58/2015. (XII. 22.) MNB rendelethez
 
@@ -857,3 +857,5 @@ A II. pontban előforduló rövidítések magyarázata
 | Önkéntes nyugdíjpénztár | OP |
 
 | Foglalkoztatói nyugdíjszolgáltató intézmény | FNYSZI |
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (3) bekezdése alapján hatályát vesztette.
