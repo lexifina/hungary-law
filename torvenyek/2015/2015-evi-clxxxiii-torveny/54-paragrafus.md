@@ -2,7 +2,7 @@
 
 1.
 
-2. 18. § (1) bekezdésében a „– a vadgazdálkodási üzemtervvel együtt –”,
+2.
 
 3.
 
@@ -10,7 +10,7 @@
 
 5–6.
 
-7. 100. § (1) bekezdés c) pont 7. alpontjában a „fajtacsoport tenyésztésének, nyilvántartásának, teljesítményvizsgálatának és”
+7.
 
 szövegrész.
 
@@ -20,13 +20,11 @@ szövegrész.
 
 4–5.
 
-6. 19. § (1) bekezdése,
-
-7. 20/A. §-a,
+6–7.
 
 8–11.
 
-12. 44. § (2) bekezdés második mondata,
+12.
 
 13–14.
 
