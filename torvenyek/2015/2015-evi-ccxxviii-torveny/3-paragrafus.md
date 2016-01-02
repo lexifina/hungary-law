@@ -1,3 +1,0 @@
-3. § A Natv. 7. §-a a következő szöveggel lép hatályba:
-
-„7. § Az akkreditálási eljárásáért, az akkreditált státusz területének bővítési eljárásáért, a kérelemre indult felügyeleti vizsgálati eljárásért, továbbá a külföldi akkreditált státusz elismerési eljárásáért igazgatási szolgáltatási díjat kell fizetni.”
