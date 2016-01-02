@@ -1,3 +1,0 @@
-## 72. § A Befkr. 5. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-## „(11) A központi értéktárral, központi szerződő féllel szembeni kötelezettségként kell kimutatni, a határidős tőzsdei ügyletekhez kapcsolódó, árkülönbözet címén, a központi értéktár, központi szerződő fél által a befektetési vállalkozás tőzsdeforgalmi számlájára átutalt pénzösszeget. A hó végi záráskor, illetve a mérleg fordulónapján – a 11. § (6) bekezdésének megfelelően – ilyen címen csak saját számlás határidős ügyletből adódóan mutatható ki kötelezettség, illetve olyan határidős bizományi ügyletek esetében, amelyeknél a befektetési vállalkozás a lejárati idő előtt nem fizeti ki az ügyfelet megillető árkülönbözet összegét és nem használja azt fel az ügyfél más ügyletének teljesítésére.”

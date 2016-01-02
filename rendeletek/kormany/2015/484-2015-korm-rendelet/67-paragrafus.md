@@ -1,3 +1,0 @@
-## „(6) Ha a pénzügyi intézmény tevékenységi engedélye visszavonásának jogerőre emelkedése a végelszámolás, vagy a felszámolás kezdő napját megelőzően történt – azaz a tevékenységet lezáró beszámoló mérlegfordulónapján a pénzügyi intézmény már nem rendelkezik tevékenységi engedéllyel – akkor a tevékenységet lezáró beszámolóját a Tv. rendelkezései alapján kell elkészítenie.
-
-## (7) A pénzügyi intézmény tevékenységi engedélye visszavonásának jogerőre emelkedése után (végelszámolásának, felszámolásának ideje alatt) a felszámolás számviteli feladatairól szóló kormányrendelet, vagy a végelszámolás számviteli feladatairól szóló kormányrendelet előírásait köteles alkalmazni.”

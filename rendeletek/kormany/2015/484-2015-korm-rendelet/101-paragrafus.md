@@ -1,3 +1,0 @@
-## 100. § Az egyházi jogi személyek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 296/2013. (VII. 29.) Korm. rendelet (a továbbiakban: Ekr.) 4. §-a helyébe a következő rendelkezés lép:
-
-## „4. § A könyvvezetés során elkülönítetten kell kimutatni az alaptevékenységgel és a vállalkozási tevékenységgel kapcsolatos bevételeket és költségeket, ráfordításokat, továbbá – ha a közcélú adományról a személyi jövedelemadóról szóló törvény, illetve az adományról a társasági adóról és osztalékadóról szóló törvény rendelkezései szerinti kedvezmény igénybevételére jogosító igazolást állít ki – a kapott adományt (közcélú adományt) és annak felhasználását.”
