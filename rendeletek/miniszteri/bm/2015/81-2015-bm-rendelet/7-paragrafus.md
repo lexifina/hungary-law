@@ -1,3 +1,0 @@
-## 6. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet (a továbbiakban: 22/2012. BM rendelet) 4. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) Az engedélyhez kötött járművezetés szabályainak megszegésével elkövetett szabálysértés miatt indult szabálysértési eljárás során, a járművezetéstől eltiltás intézkedést megelőzően a szabálysértési hatóságnál leadott vezetői engedélyt a szabálysértési hatóság öt napon belül – az elvétel okának megjelölésével – megküldi az engedélyt kiállító hatóságnak.”

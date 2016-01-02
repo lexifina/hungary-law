@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-81-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-01-01 | 2015-81-20-0A.1 | 81/2015. (XII. 23.) BM rendelet |
+| 2016-01-02 | 2015-81-20-0A.2 | 2010: CXXX. törvény |

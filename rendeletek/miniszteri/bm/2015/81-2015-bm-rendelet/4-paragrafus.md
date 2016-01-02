@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti a 36/2007. IRM rendelet 3. § (5) bekezdés f) pontja.
+## 1–3. §[^1]
 
 ## 2. A szabálysértési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés formájáról, módjáról és rendjéről, a szabálysértési nyilvántartó szerv által teljesített adatközlés rendjéről, valamint az egyes szabálysértési nyilvántartásokban kezelt adatokra tekintettel kiállított hatósági bizonyítvány kiadásának eljárási rendjéről szóló 21/2012. (IV. 13.) BM rendelet módosítása
+
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
