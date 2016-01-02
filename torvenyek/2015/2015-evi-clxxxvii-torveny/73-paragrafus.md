@@ -2,6 +2,6 @@
 
 a)
 
-b) 3. számú melléklete e törvény 4. melléklete
+b)
 
 szerint módosul.
