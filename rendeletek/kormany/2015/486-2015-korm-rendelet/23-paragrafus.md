@@ -1,3 +1,0 @@
-## 22. § A családi gazdálkodók és más mezőgazdasági kis- és középüzemek kedvezményes hitelezéséhez kapcsolódó kamattámogatásról és állami kezességvállalásról szóló 317/2001. (XII. 29.) Korm. rendelet alapján felvett hitelhez kapcsolódó hiteldíj meghatározásáról és az állami kezességvállalásról szóló 52/2008. (III. 14.) Korm. rendelet 2. § (2) bekezdésében az „APEH Agrárgazdasági kezességbeváltás folyósítási” szövegrész helyébe a „NAV Agrárgazdasági kezességbeváltás lebonyolítási” szöveg lép.
-
-## 22. A radioaktív hulladékok és a kiégett fűtőelemek országhatáron át történő szállításának engedélyezéséről szóló 34/2009. (II. 20.) Korm. rendelet módosítása
