@@ -22,6 +22,7 @@ a) a névjegyzéket az Országgyűlési Őrségnél üzemeltetett intranetes por
 
 b) a névjegyzékről, illetve az abban történt változásról tájékoztatja a Magyar Rendvédelmi Kar elnökét.
 
-(7) Az Országgyűlési Őrség parancsnoka a Becsületbíróság működési feltételeit a Becsületbíróság összehívását kezdeményező személy igazgatója útján biztosítja.
+(7)[^169] Az Országgyűlési Őrség parancsnoka a Becsületbíróság működési feltételeit a Becsületbíróság összehívását kezdeményező személy (a 108/D–108/G. § alkalmazásában a továbbiakban: kérelmező) igazgatója útján biztosítja.
 
 [^168]: A 108/C. §-t a 67/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
+[^169]: A 108/C. § (7) bekezdése a 67/2015. (XII. 16.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.

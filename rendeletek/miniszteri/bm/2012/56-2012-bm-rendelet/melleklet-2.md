@@ -30,6 +30,6 @@
 
 | 15. |  | beosztott tűzoltó II. | 350 |  | rendőr szakképesítés |
 
-2. melléklet az 56/2012. (XI. 22.) BM rendelethez[^208]
+2. melléklet az 56/2012. (XI. 22.) BM rendelethez[^213]
 
-[^208]: A 2. melléklet a 34/2015. (VI. 16.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^213]: A 2. melléklet a 34/2015. (VI. 16.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
