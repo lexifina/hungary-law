@@ -1,1 +1,3 @@
-## 76. § Hatályát veszti a személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló 168/1999. (XI. 24.) Korm. rendelet.
+77. §[^9]
+
+[^9]: A 76–77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

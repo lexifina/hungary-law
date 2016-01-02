@@ -22,6 +22,6 @@ d) a 11. § (4) bekezdése alapján, vagy
 
 e) a 12. § (2) bekezdése alapján
 
-## került sor.
+került sor.
 
 (4) Ha annak műszaki és technikai feltételei adottak, a szolgáltatási szerződés megkötése és az e-aláírás funkcióhoz kapcsolódó tanúsítvány igénylése a szolgáltatást igénybe vevő által on-line felületen is megtehető.

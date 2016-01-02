@@ -34,7 +34,7 @@ eh) ideiglenesen kényszergyógykezelt és
 
 ei) a szabálysértési elzárást, valamint a pénzbírság, a helyszíni bírság és a közérdekű munka helyébe lépő szabálysértési elzárást töltő
 
-## polgár;
+polgár;
 
 f) gyártáshiba: a kártyatestnek a kártya megszemélyesítése során keletkező hibája;
 

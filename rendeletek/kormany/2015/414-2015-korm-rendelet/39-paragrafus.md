@@ -8,7 +8,7 @@ a) a bevándorolt és a letelepedett a lakóhelye szerint illetékes idegenrend�
 
 b) a menekült és az oltalmazott a menekültügyi hatóságnál
 
-## adja le, amely azt a lakóhely szerint illetékes járási hivatalnak küldi meg.
+adja le, amely azt a lakóhely szerint illetékes járási hivatalnak küldi meg.
 
 (4) Le kell adni az ideiglenes személyazonosító igazolványt az igazolványt kiadó eljáró hatóságnak, ha érvényességi ideje lejárt. Le kell adni az ideiglenes személyazonosító igazolványt az állandó személyazonosító igazolványt kiadó eljáró hatóságnak, ha a jogosult állandó személyazonosító igazolványt kapott.
 

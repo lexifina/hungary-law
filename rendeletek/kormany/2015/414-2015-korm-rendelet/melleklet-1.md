@@ -1,5 +1,3 @@
-## 77. § Hatályát veszti a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 91. §-t megelőző alcímében az „és személyazonosító igazolványa kiállítása” szövegrész.
-
 1. melléklet a 414/2015. (XII. 23.) Korm. rendelethez
 
 Az állandó személyazonosító igazolvány iránti kérelem a kérelmező következő adatait tartalmazza:

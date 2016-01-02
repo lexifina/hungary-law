@@ -1,3 +1,5 @@
-## 75. § A kormányablakokról szóló 515/2013. (XII. 30.) Korm. rendelet 1. melléklete a 3. melléklet szerint módosul.
-
 ## 23. Hatályon kívül helyező rendelkezések
+
+76. §[^8]
+
+[^8]: A 76–77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
