@@ -1,4 +1,4 @@
-## 5. § Hatályát veszti az államháztartás számvitelének változásaival kapcsolatos feladatokról, az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolási módjáról szóló 38/2013. (IX. 19.) NGM rendelet módosításáról és az államháztartás számvitelének 2014. évi megváltozásával kapcsolatos feladatokról szóló 36/2013. (IX. 13.) NGM rendelet hatályon kívül helyezéséről szóló 37/2014. (XII. 10.) NGM rendelet.
+## 3–5. §[^2]
 
 1. melléklet a 34/2015. (XII. 16.) NGM rendelethez
 
@@ -1025,3 +1025,5 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 | 2. A fejezeti kezelésű előirányzat, központi kezelésű előirányzat könyvviteli számlái nyitó adatainak átvétele: e fejezet D) cím 1–5., 7., 9–16., 18–20., 22–24. és 26. pontjában szereplő tételek fordítottjaként |
 
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján]” |
+
+[^2]: A 3–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
