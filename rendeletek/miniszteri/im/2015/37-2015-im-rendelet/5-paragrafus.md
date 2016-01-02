@@ -1,3 +1,0 @@
-## 4. § A bűnügyi és rendészeti biometrikus adatok nyilvántartása részére történő adatközlés, valamint az ujj- és tenyérnyomatvétel és a szájnyálkahártya-törlet levételének részletes technikai szabályairól szóló 21/2009. (VI. 19.) IRM rendelet [a továbbiakban: 21/2009. (VI. 19.) IRM rendelet] a következő 12. §-sal egészül ki:
-
-## „12. § E rendeletnek a bűnügyi nyilvántartási rendszerrel, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásával kapcsolatos egyes igazságügyi miniszteri rendeletek módosításáról szóló 37/2015. (XII. 21.) IM rendelettel megállapított 3. mellékletét a 2016. január 1-jét követően elrendelt mintavételek esetében kell alkalmazni.”
