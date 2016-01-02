@@ -1,5 +1,0 @@
-## I. Fejezet
-
-## AZ ÁLLAMHÁZTARTÁSRA VONATKOZÓ JOGANYAG MÓDOSÍTÁSA
-
-## 1. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosítása
