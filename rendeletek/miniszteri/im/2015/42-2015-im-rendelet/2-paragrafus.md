@@ -1,3 +1,0 @@
-## 1. § A természetes személyek adósságrendezési eljárása kezdeményezéséhez benyújtandó kérelemről és az ahhoz csatolandó űrlapokról, dokumentumokról és nyilatkozatokról szóló 15/2015. (VIII. 28.) IM rendelet [a továbbiakban: 15/2015. (VIII. 28.) IM rendelet] 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A kérelmet írásban, az Are. tv. 5. § 24. pont szerinti főhitelezőnél vagy a Családi Csődvédelmi Szolgálatnak (a továbbiakban: CsSz) az adós lakóhelye szerint illetékes területi szervénél kell előterjeszteni. A kitöltött, az 5. § (4) bekezdése szerint aláírt és két tanú aláírásával is ellátott kérelmet – az elektronikus űrlapot kinyomtatva – személyesen vagy postai úton, három példányban kell benyújtani, további egy példányt a kérelmező magánál tart.”
