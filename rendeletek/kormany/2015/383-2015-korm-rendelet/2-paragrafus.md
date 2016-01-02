@@ -1,1 +1,0 @@
-## „16. építmény: a helyi önkormányzat tulajdonában lévő, kötelező önkormányzati feladatok ellátását szolgáló vagy helyi önkormányzat által törvény alapján kötelezően működtetett út, híd, komp- és révátkelőhely, ár- és belvízvédelmi vízi létesítmény, közmű és annak műtárgyai, pince, amennyiben megfelel az Étv. 2. § 8. pontjában meghatározottaknak.”

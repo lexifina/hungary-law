@@ -1,3 +1,0 @@
-## 6. § Az R. 3/A. §-a a következő (7) bekezdéssel egészül ki:
-
-## „(7) A jogosulatlanul igénybe vett előlegről a helyi önkormányzat az Ávr. 78. § (2) bekezdés b) pontjának és az Ávr. 97–99. §-ainak a változás bejelentésének módjára és az ezt követő intézkedésekre, a visszafizetésre, valamint az ügyleti és a késedelmi kamat mértékére és számítására vonatkozó rendelkezései megfelelő alkalmazásával köteles lemondani és azt ügyleti kamattal, illetőleg késedelmi kamattal együtt visszafizetni. A jogosulatlanul igénybe vett előleg visszafizetésének elmulasztása esetén a kincstár beszedési megbízást nyújt be a kötelezett fizetési számlájára.”
