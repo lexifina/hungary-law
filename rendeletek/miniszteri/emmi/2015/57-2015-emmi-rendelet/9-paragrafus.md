@@ -1,7 +1,0 @@
-## 8. § Az R. 29. §-a következő (4)–(6) bekezdéssel egészül ki:
-
-## „(4) A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény végrehajtásáról szóló 9/2006. (V. 9.) NKÖM rendelet módosításáról szóló 57/2015. (XII. 29.) EMMI rendelet (a továbbiakban: Módr.) hatálybalépésével megszűnő állandó kollégiumi tagsági jogviszony nem érinti az állandó kollégiumi tag (a továbbiakban: volt tag) feladat- és hatáskörébe tartozó, 2015. december 31-én folyamatban levő ügyek lezárási kötelezettségét.
-
-## (5) A benyújtott szakmai beszámolóknak az állandó kollégium által a 13. § f) pontja alapján történő elbírálása, valamint a 13. § g) pontja szerinti beszámoló állandó kollégium általi, illetve a 2. § (2) bekezdés szerinti 2015. évi beszámoló Bizottság általi elfogadása a 2016. június 30-ig megvalósuló pályázatok tekintetében feltétele a volt tagnak 2015. évre megállapított tiszteletdíja a Módr. hatálybalépéséig ki nem fizetett összege kifizetésének. A 2016. június 30-át követően megvalósuló pályázatok elbírálását az állandó kollégium Módr. hatálybalépését követően kinevezett tagjai végzik el.
-
-## (6) A Bizottság Módr. hatálybalépése napján megbízásukat töltő tagjainak tagsági jogviszonya – a Bizottság elnökének és alelnökének megbízatása kivételével – 2016. március 31-én megszűnik. A Bizottság új tagjait – a Módr. által megállapított 3. § szerinti felkérési és jelölési rend szerint – a miniszter 2016. április 1-jével nevezi ki.”
