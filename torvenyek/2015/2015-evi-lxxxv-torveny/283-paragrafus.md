@@ -1,0 +1,7 @@
+283. § A Bit. 94. §-a a következő (4)–(6) bekezdéssel egészül ki:
+
+„(4) A biztosítónak és a viszontbiztosítónak a tevékenysége végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a biztosítónak és a viszontbiztosítónak adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
+
+(5) A (4) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel és a tanúsítással szemben támasztott követelményeket külön jogszabály határozza meg.
+
+(6) Az (5) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a biztosító és a viszontbiztosító informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a biztosító és a viszontbiztosító folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a biztosító és a viszontbiztosító belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.”

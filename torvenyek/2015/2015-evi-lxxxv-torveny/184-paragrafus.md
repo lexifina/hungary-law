@@ -1,9 +1,3 @@
 ## 14. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
-184. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fszt.) a következő 12/A. §-sal egészül ki:
-
-„12/A. § (1) A fizetési számlavezetésre engedéllyel rendelkező pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek a tevékenysége végzésére csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. Az informatikai rendszernek meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a pénzforgalmi intézménynek és elektronikuspénz-kibocsátó intézménynek adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.
-
-(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést külső szakértő (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó tanúsítással kell igazolni. A tanúsító szervezettel és a tanúsítással szemben támasztott követelményeket külön jogszabály határozza meg.
-
-(3) A (2) bekezdés szerinti tanúsító szervezet írásban haladéktalanul tájékoztatja a Felügyeletet, ha a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény folyamatos működését kedvezőtlenül érinti, vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy a pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény belső szabályzatának súlyos megsértésére vagy ezek veszélyére utaló körülményeket észlel.”
+184. §
