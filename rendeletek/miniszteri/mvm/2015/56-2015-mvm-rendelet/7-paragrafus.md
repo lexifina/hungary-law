@@ -1,5 +1,3 @@
-## 7. § Hatályát veszti a 61/2009. (V. 14.) FVM rendelet
+7. §[^7]
 
-a) 18. § (1) bekezdésében az „a 21. számú melléklet szerinti” szövegrész,
-
-b) 18. § (5) bekezdése.
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
