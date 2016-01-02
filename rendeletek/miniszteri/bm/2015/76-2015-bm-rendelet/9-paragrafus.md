@@ -1,5 +1,0 @@
-## 8. § A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjai teljesítményértékelésének ajánlott elemeiről, az ajánlott elemek alkalmazásához kapcsolódó eljárási szabályokról, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 26/2013. (VI. 26.) BM rendelet (a továbbiakban: R2.) 12. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-## „(3) Új rendvédelmi feladatokat ellátó szerv vagy új szervezeti egység létrejöttekor a szervezeti teljesítményértékelést az új szerv, szervezeti egység tárgyévi legalább hat hónapos működését követően kell elvégezni. Ha a tárgyévben az új szerv, szervezeti egység ennél kevesebb ideig működött, az első szervezeti teljesítményértékelést a létrehozást követő évre vonatkozóan kell először elvégezni.
-
-## (4) A rendvédelmi feladatokat ellátó szerv vagy szervezeti egységének megszűnése esetén akkor kell a megszűnéskor szervezeti teljesítményértékelést végezni, ha a tárgyévben a szerv, szervezeti egység legalább hat hónapot működött.”
