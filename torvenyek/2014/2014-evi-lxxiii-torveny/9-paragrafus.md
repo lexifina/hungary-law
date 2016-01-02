@@ -12,9 +12,7 @@
 
 „(2) A bíróság az állami adóhatósággal és a Központi Statisztikai Hivatallal a kapcsolatot az informatikai rendszer alkalmazásával elektronikus úton tartja.”
 
-(4) A Cnytv. 16. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A bíróság az állami adóhatósággal, a Központi Statisztikai Hivatallal, más hatósággal és a cégbírósággal a kapcsolatot az informatikai rendszer alkalmazásával elektronikus úton tartja.”
+(4)
 
 (5)–(9)
 
@@ -54,7 +52,7 @@ p) a szervezet külön törvényben meghatározott adatait.”
 
 (16) A Cnytv.
 
-a) 19. § (1) bekezdésében az „is előállíthatja” szövegrész helyébe az „állítja elő” szöveg,
+a)
 
 b)–d)
 

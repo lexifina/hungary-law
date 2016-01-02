@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-73-00-00
 | 2015-03-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-73-00-00.8 |
 | 2015-03-02 | 2010. évi CXXX. törvény | 2014-73-00-00.9 |
 | 2016-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-73-00-00.10 |
+| 2016-01-02 | 2010. évi CXXX. törvény | 2014-73-00-00.11 |
