@@ -10,7 +10,7 @@ d) a hivatásos állomány azon tagjától, akinek szünetel a szolgálati jogvi
 
 e) ha elveszett, de később megkerült, és az illetéktelen által történt hozzáférés nem zárható ki,
 
-## a szolgálati igazolványt visszavonja.
+a szolgálati igazolványt visszavonja.
 
 (2) A hivatásos állomány felfüggesztett, valamint a szolgálati jogviszonyát szüneteltető tagjának visszavont szolgálati igazolványát a személyügyi szerv a visszavonás idejére elhelyezi a hivatásos állomány tagjának személyi anyagában. A felfüggesztést, illetve a szolgálati jogviszony szünetelésének megszüntetését követő első munkanapon a személyügyi szerv visszaszolgáltatja a visszavont szolgálati igazolványt a hivatásos állomány tagjának, vagy – ha a visszavonás ideje alatt bekövetkezett ok miatt a szolgálati igazolvány cseréje válik szükségessé – gondoskodik a cseréről.
 

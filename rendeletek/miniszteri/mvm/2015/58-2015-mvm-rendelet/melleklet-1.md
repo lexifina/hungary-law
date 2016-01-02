@@ -1,6 +1,6 @@
 1. melléklet az 58/2015. (XII. 28.) MvM rendelethez
 
-## Az Információs Hivatal hivatásos állományú tagjai szolgálati igazolványának leírása
+Az Információs Hivatal hivatásos állományú tagjai szolgálati igazolványának leírása
 
 1. Az igazolvány felépítése:
 
