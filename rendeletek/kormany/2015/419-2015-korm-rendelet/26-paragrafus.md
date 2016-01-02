@@ -1,5 +1,5 @@
-## 25. § A személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet 3. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Ha az (1) bekezdés szerinti intézmény ellátási területe több megyére vagy az ország egész területére kiterjed, az óvodában, nyári napközis otthonban, az általános és középiskolai kollégiumban, az itt szervezett externátusi ellátásban, valamint az általános iskolai és középfokú iskolai menzai ellátás keretében biztosított gyermekétkeztetés esetén az intézmény fenntartója gondoskodik az intézményi térítési díj összegének a Szociális Ágazati Portálon való közzétételéről. Önkormányzati társulás által fenntartott intézmény, szolgáltató esetében a tájékoztatási kötelezettséget a társulás székhelye szerinti jegyző teljesíti.”
+## 25. §[^7]
 
 ## 7. A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet módosítása
+
+[^7]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
