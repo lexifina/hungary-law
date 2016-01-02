@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-53-20-2
 | 2014-12-22 | 2014-53-20-2W.2 | 2010: CXXX. törvény |
 | 2015-04-01 | 2014-53-20-2W.3 | 12/2015. (III. 31.) NFM rendelet |
 | 2016-01-01 | 2014-53-20-2W.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2016-01-02 | 2014-53-20-2W.5 | 2010: CXXX. törvény |
