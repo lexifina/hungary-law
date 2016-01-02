@@ -1,3 +1,3 @@
-4. § A 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+4. §[^3]
 
-„(2) A munkáltatói jogkör gyakorlója a közalkalmazott részére köteles úgy megállapítani a polgári hírszerzési ágazati pótlék összegét, hogy az megfeleljen a közalkalmazott havi illetménye 10%-ának megfelelő összegnek.”
+[^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

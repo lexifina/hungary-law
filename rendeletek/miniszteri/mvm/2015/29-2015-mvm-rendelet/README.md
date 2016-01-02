@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-29-20-6
 | --- | --- | --- |
 | 2015-07-01 | 2015-29-20-6N.1 | 29/2015. (VI. 18.) MvM rendelet |
 | 2016-01-01 | 2015-29-20-6N.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2016-01-02 | 2015-29-20-6N.3 | 2/2019. (V. 17.) KKM rendelet |
