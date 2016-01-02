@@ -1,1 +1,0 @@
-## „i) a (4) bekezdés i) pontjában meghatározott épületek esetén figyelmeztetést arra, hogy az ott meghatározott határnapot követően az épületet az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti közel nulla energiaigényű épületként kell kialakítani.”
