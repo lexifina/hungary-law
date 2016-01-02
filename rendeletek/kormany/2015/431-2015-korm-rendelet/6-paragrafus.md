@@ -1,1 +1,0 @@
-## „(5a) A fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó fogyatékosok nappali intézményében elhelyezett gyermek ingyenes és kedvezményes intézményi gyermekétkeztetésének igénybevételéhez a kötelezettnek a gyermek fogyatékosságáról külön igazolást nem kell benyújtania.”
