@@ -52,9 +52,9 @@ b) a polgár ujjnyomatát a (9) bekezdésben meghatározott kivételekkel,
 
 c) az elektronikus aláírás létrehozásához szükséges adatot,
 
-d) a polgár társadalombiztosítási azonosító jelét, ha a személyazonosító igazolvány iránti kérelem benyújtásakor társadalombiztosítási azonosító jellel rendelkezik,
+d) a polgár társadalombiztosítási azonosító jelét,
 
-e) a polgár adóazonosító jelét, ha a személyazonosító igazolvány iránti kérelem benyújtásakor adóazonosító jellel rendelkezik,
+e) a polgár adóazonosító jelét,
 
 f) a személyazonosító igazolvány elektronikus egyedi azonosítóját.
 
@@ -81,3 +81,11 @@ b) a polgár annak rögzítését visszautasította, vagy annak adására fizika
 (16) A polgár a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus úton történő kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a vezetői engedélye pótlását, ha az adataiban nem következett be változás, és ideiglenes okmány kiadására nincs szükség. Ezen, és jogszabályban meghatározott más eseteket kivéve a személyazonosság igazolására alkalmas hatósági igazolványok kiadásával összefüggő eljárásokban a hatóság nem tart elektronikusan kapcsolatot az ügyféllel.
 
 (17) Ha a személyazonosító igazolvány igénylésére – 12. életévét be nem töltött polgár kivételével – annak eltulajdonítása miatt, a (2) bekezdés a)–i) és m) pontja szerinti adatok változatlansága mellett kerül sor, a személyazonosító igazolványt a (2) bekezdés a)–i), l) és m) pontja szerinti adatok tekintetében a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni azzal, hogy az így kiadott személyazonosító igazolvány érvényességi ideje nem haladhatja meg a 29/E. §-ban meghatározott érvényességi időt.
+
+(18) Ha az állandó személyazonosító igazolvány tároló eleme nem vagy nem helyesen tartalmazza a polgár társadalombiztosítási azonosító jelét, illetve az adóazonosító jelét, abban az esetben a polgár kérelmére
+
+a) az egészségbiztosítási szerv a polgár társadalombiztosítási azonosító jelét, valamint
+
+b) a Nemzeti Adó- és Vámhivatal a polgár adóazonosító jelét
+
+a tároló elemen elhelyezi.

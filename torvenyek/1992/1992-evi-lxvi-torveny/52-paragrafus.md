@@ -11,3 +11,5 @@
 (6) 2016. január 1-jén folyamatban lévő jogorvoslati eljárásokat követően kiállított állandó személyazonosító igazolványra a Módtv1. szabályait kell alkalmazni.
 
 (7) Érvénytelen a könyv formátumú állandó személyazonosító igazolvány a 29/F. §-ban meghatározott eseteken túl akkor is, ha a könyv formátumú állandó személyazonosító igazolványba bejegyzett lakcímadat érvénytelen, ezért a személyiadat- és lakcímnyilvántartásban érvénytelen vagy fiktív jelzéssel szerepel.
+
+(8) A tároló elemmel rendelkező személyazonosító igazolvány – amennyiben a polgár kérelmére elektronikus aláírási funkcióval is rendelkezik – a tároló elem biztonságos aláírás-létrehozó eszközként történő tanúsításáig minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírás létrehozására alkalmas.

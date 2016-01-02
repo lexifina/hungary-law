@@ -4,6 +4,8 @@
 
 (3) Az állandó személyazonosító igazolvány a Nektv. szerinti elsődleges kártyaként nem igényelhető.
 
+(3a) Az állandó személyazonosító igazolvány kiadására irányuló kérelem nem minősül a Nektv. szerinti kártyafelhasználói regisztrációnak.
+
 (4) Az állandó személyazonosító igazolványra a Nektv.
 
 a) 5. § (1) bekezdés a) pont ac) alpontját,

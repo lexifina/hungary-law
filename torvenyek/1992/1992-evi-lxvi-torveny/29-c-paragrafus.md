@@ -2,13 +2,13 @@
 
 (2) A korlátozottan cselekvőképes kiskorú, a cselekvőképességében részlegesen korlátozott és a cselekvőképes nagykorú polgár kérelmére
 
-a) a központi szerv a tároló elemen aláírás-létrehozó adatot helyez el,
+a) a központi szerv a b) pont szerinti szolgáltató megbízásából az állandó személyazonosító igazolvány tároló elemén aláírás létrehozó adatot helyez el,
 
-b) a Kormány által kijelölt szolgáltató az a) pontban foglaltak, valamint az azonosítás kivételével az Eat. szerinti elektronikus aláírás hitelesítési szolgáltatást nyújt.
+b) a Kormány által kijelölt szolgáltató az Eat. szerinti elektronikus aláírás-hitelesítési szolgáltatást nyújt.
 
 (3) Az állandó személyazonosító igazolvány tároló elemének (1) bekezdés szerinti funkciója (a továbbiakban: e-aláírási funkció) vonatkozásában az Eat. rendelkezéseit az e §-ban, valamint e törvény felhatalmazása alapján kiadott kormányrendeletben foglalt eltérésekkel kell alkalmazni.
 
-(4) Az állandó személyazonosító igazolvány jogosultja a (2) bekezdés szerinti kérelem előterjesztésekor elfogadja az e-aláírási funkcióval kapcsolatos szolgáltatási szabályzatot, kezdeményezi a szolgáltatási szerződés megkötését, valamint megteszi a szolgáltatás igénybevételéhez szükséges nyilatkozatokat.
+(4) Az állandó személyazonosító igazolvány jogosultja a (2) bekezdés b) pontja szerinti kérelem előterjesztésekor elfogadja az e-aláírási funkcióval kapcsolatos szolgáltatási szabályzatot, kezdeményezi a szolgáltatási szerződés megkötését, valamint megteszi a szolgáltatás igénybevételéhez szükséges nyilatkozatokat.
 
 (5) A személyazonosító igazolványra irányuló kérelem ügyében eljáró szerv az e-aláírási funkció biztosítása érdekében felveszi a polgár elektronikus levélcímét. A központi szerv a (2) bekezdés szerinti szolgáltató részére a (2) bekezdésben megjelölt feladatok ellátása érdekében a 29. § (2) bekezdés a)–c), e), i) és j) pontjában megjelölt adatokról, a polgár által megadott elektronikus levélcímről, valamint az állandó személyazonosító igazolvány érvénytelenné válásáról adatot szolgáltat. A (2) bekezdés szerinti szolgáltató – feladatainak ellátása érdekében – a szolgáltatásra való jogosultság megszűnésétől számított 10 évig kezelheti ezen adatokat.
 

@@ -42,6 +42,8 @@ b) személyazonosító igazolvány esetén a jogosult hatósági igazolványon s
 
 c) vezetői engedély és útlevél esetén a jogosult hatósági igazolványon szereplő családi és utónevét, születési helyét és születési idejét.
 
-(11) A (8)–(10) bekezdés szerinti adatigénylés alapján az okmánynyilvántartó szerv az adatigénylőnek arról ad tájékoztatást, hogy a személyazonosság igazolására alkalmas hatósági igazolvány a megadott adatokkal érvényes vagy a megadott adatokkal nincs érvényes személyazonosság igazolására alkalmas hatósági igazolvány.
+(10a) A személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartása a személyazonosító igazolvány esetén a (10) bekezdéstől eltérően az Nytv. 29. § (3) bekezdése szerinti gépi olvasásra alkalmas adatsor alapján is megadja a tájékoztatást.
+
+(11) A (8)–(10a) bekezdés szerinti adatigénylés alapján az okmánynyilvántartó szerv az adatigénylőnek arról ad tájékoztatást, hogy a személyazonosság igazolására alkalmas hatósági igazolvány a megadott adatokkal érvényes vagy a megadott adatokkal nincs érvényes személyazonosság igazolására alkalmas hatósági igazolvány.
 
 (12) A (8) bekezdés szerinti adatigénylésről és az ahhoz kapcsolódó tájékoztatásról az okmánynyilvántartó szerv nyilvántartást nem vezet.
