@@ -1,5 +1,0 @@
-## 5. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet IV. Fejezete a következő alcímmel egészül ki:
-
-## „[Az Áht. 43. §-ához]
-
-## 61/D. § A Kormány irányítása vagy felügyelete alá tartozó fejezetet irányító szerv a fejezetbe sorolt költségvetési szervek elemi költségvetésében meghatározott, a költségvetési szervnél foglalkoztatottak létszámából be nem töltött álláshelyekről és a be nem töltött álláshelyekhez kapcsolódó személyi juttatások mértékéről a tárgynegyedévet követő hónap tizedik napjáig adatot szolgáltat az államháztartásért felelős miniszternek. A költségvetési szerv az elemi költségvetésében meghatározott létszámát az államháztartásért felelős miniszter adatszolgáltatás alapján hozott döntésének megfelelően csökkenti. Az államháztartásért felelős miniszter a személyi juttatások kiemelt előirányzaton keletkezett megtakarítás más célra való felhasználására, zárolásra, csökkentésre, törlésre vagy befizetési kötelezettség előírására vonatkozó előterjesztést nyújthat be a Kormány számára.”

@@ -1,9 +1,0 @@
-## 8. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 73. §-a és 74. §-a helyébe a következő rendelkezések lépnek:
-
-## „73. § (1) A támogató a pályázati kiírásban meghatározott határidőn belül írásban tájékoztatja a pályázat benyújtóját a támogatási döntésről. A tájékoztatás tartalmazza a támogatási döntést, a pályázatban megjelöltnél alacsonyabb költségvetési támogatás biztosítása, a költségvetési támogatás feltételekhez kötése vagy elutasítása esetén ennek indokait, a kedvezményezett által teljesítendő feltételeket és annak határidejét, a támogatási szerződés megkötésére a támogató által megállapított ésszerű határidőre utalást és a kifogás benyújtásának lehetőségét és módját. Támogatói okirattal biztosított költségvetési támogatás esetén a tájékoztatás a támogatói okirat kiadásával valósul meg.
-
-## (2) Támogatási szerződés alkalmazása esetén, ha a kedvezményezett mulasztásából a támogató által meghatározott határidőtől számított további harminc napon belül nem kerül sor a szerződéskötésre, a támogatási döntés hatályát veszti. Ha a kedvezményezett mulasztása a támogató megítélése szerint méltányolható okból származik, a szerződéskötésre az általa megállapított határidőt követő harminc napon belül az eredeti határidőnél nem hosszabb időtartamú új határidőt állapíthat meg.
-
-## 74. § (1) A támogatási szerződés alapján létrejött támogatási jogviszonyra – ha e rendelet eltérően nem rendelkezik – az e rendeletben meghatározott feltételeket a közigazgatási hatósági határozattal, hatósági szerződéssel vagy támogatói okirattal létrejött támogatási jogviszonyra is alkalmazni kell.
-
-## (2) A támogatási kérelem alapján biztosított költségvetési támogatásra a 68–73. §-nak és a 75. § (3a) bekezdésének pályázatra vonatkozó rendelkezéseit alkalmazni kell, azzal, hogy a pályázat alatt a támogatási kérelmet, a pályázó alatt a támogatási igény benyújtóját kell érteni.”

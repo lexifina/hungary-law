@@ -1,3 +1,3 @@
-## 9. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 75. §-a a következő (4a) bekezdéssel egészül ki:
+## 2–9. §[^2]
 
-## „(4a) Ha a támogató a költségvetési támogatás feltételeként előírja, hogy a támogatás igénylőjének meghatározott nagyságrendű saját forrással kell rendelkeznie, nem tekinthető saját forrásnak az államháztartás központi alrendszeréből kapott más költségvetési támogatás, kivéve az EU Önerő Alapból és a Kbt. alapján ajánlatkérőnek minősülő szervezetnek a részben európai uniós forrásból finanszírozott projektek megvalósításához európai uniós versenyjogi értelemben vett állami támogatási szabályokkal összhangban nyújtott önerő támogatást.”
+[^2]: A 2–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
