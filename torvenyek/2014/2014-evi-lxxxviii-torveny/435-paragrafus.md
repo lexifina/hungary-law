@@ -10,6 +10,12 @@ c) ellenőrzése során bebizonyosodik, hogy a működésére vonatkozó jogszab
 
 d) az engedély megadásától számított egy éven belül a többes ügynök vagy az alkusz tevékenységét nem kezdte meg, vagy a biztosításközvetítői tevékenységet engedély nélkül hat hónapon túl felfüggeszti,
 
-e) a többes ügynök vagy az alkusz tevékenysége felfüggesztésének időtartama alatt a jogsértő helyzet megszüntetése érdekében tett felügyeleti intézkedések nem vezettek eredményre.
+e) a többes ügynök vagy az alkusz tevékenysége felfüggesztésének időtartama alatt a jogsértő helyzet megszüntetése érdekében tett felügyeleti intézkedések nem vezettek eredményre,
+
+f) megállapítja, hogy a többes ügynök vagy az alkusz tevékenységi engedély nélkül vagy bejelentés hiányában végez pénzügyi szervezet által végezhető tevékenységet és
+
+fa) e tevékenységével előidézett jogsértés súlya indokolja, vagy
+
+fb) azon személyek érdekeinek a megóvása indokolja, amelyek számára e tevékenységet végezte.
 
 (2) A harmadik országbeli független biztosításközvetítő fióktelep engedélyét a Felügyelet – az (1) bekezdésben foglaltakon túlmenően – akkor is visszavonja, ha a biztosításközvetítő székhelye szerinti ország jogszabályai alapján már nem jogosult független biztosításközvetítői tevékenység végzésére.

@@ -39,11 +39,3 @@
 ## (lv) «Uzaicinājums iesniegt prasïjumu. Termini, kas jāievēro»
 
 ## (It) «Kvietimas pateikti reikalavimą. Privalomieji terminai»
-
-## (hu) «Felhívás követelés bejelentésére. Betartandó határidők»
-
-## (mt) «Stedina għal preżentazzjoni ta’ talba. Limiti taż-żmien li għandhom jiġu osservati»
-
-## (nl) «Oproep tot indiening van schuldvorderingen. In acht te nemen termijnen»
-
-## (pl) «Wezwanie do zgłoszenia wierzytelności. Przestrzegać terminów»

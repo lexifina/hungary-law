@@ -1,6 +1,6 @@
 ## 60. A FATCA-törvény alapján fennálló kötelezettségek
 
-148. § (1) A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla (a továbbiakban: pénzügyi számla) vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: számlatulajdonos) FATCA-törvényben foglalt Megállapodás I. számú Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
+148. § (1) A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban ezen alcím tekintetében együtt: Számlatulajdonos) FATCA-törvényben foglalt Megállapodás 1. Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban ezen alcím tekintetében: illetőségvizsgálat).
 
 (2) Az intézmény a számlatulajdonost az illetőségvizsgálat elvégzésével egyidejűleg írásban tájékoztatja
 

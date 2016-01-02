@@ -1,4 +1,4 @@
-## 40. A fizetőképességgel és a pénzügyi helyzettel kapcsolatos közzétételi szabályok
+## 40. A fizetőképességgel és a pénzügyi helyzettel kapcsolatos, továbbá egyéb közzétételi szabályok
 
 108. § (1) A biztosító és a viszontbiztosító köteles évente jelentést közzétenni fizetőképességéről és pénzügyi helyzetéről.
 

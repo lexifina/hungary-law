@@ -16,6 +16,8 @@
 
 7. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelvnek,
 
-8. a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014. április 16-i 2014/51/EU európai parlamenti és tanácsi irányelvnek
+8. a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014. április 16-i 2014/51/EU európai parlamenti és tanácsi irányelvnek,
+
+9. a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek
 
 való megfelelést szolgálja.

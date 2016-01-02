@@ -1,3 +1,0 @@
-463. § (1) Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 4. § (5) bekezdés 1. pont b) alpontjában a „biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 167/C. §-a szerinti” szövegrész helyébe a „biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 148. §-a szerinti” szöveg lép.
-
-(2) A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 1. számú melléklet 4. pontjában a „2003. évi LX. törvény a biztosítókról és biztosítási tevékenységről” szövegrész helyébe a „a biztosítási tevékenységről szóló törvény” szöveg lép.

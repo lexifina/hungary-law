@@ -182,7 +182,7 @@ bd) minden egyéb olyan esetben, amely nem tartozik kifejezetten a ba)–bc) alp
 
 64. közeli hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) meghatározott fogalom és az élettárs;
 
-65. közérdeklődésre számot tartó biztosító és viszontbiztosító: a nyilvánosan működő biztosító vagy viszontbiztosító részvénytársaság és az a biztosító vagy viszontbiztosító, amelynél a tárgyévet megelőző két egymást követő üzleti évben az éves bruttó díjbevétel elérte az egymilliárd-ötszázmillió forintot;
+65. közérdeklődésre számot tartó biztosító és viszontbiztosító: az e törvény szerinti biztosító és viszontbiztosító, kivéve a hatodik rész hatálya alá tartozó kisbiztosító és a kölcsönös biztosító egyesület;
 
 66. közvetett tulajdon: egy vállalkozás (a továbbiakban: eredeti vállalkozás) tulajdoni hányadainak, illetve szavazatainak a vállalkozásban tulajdoni részesedéssel, illetve szavazati joggal rendelkező más vállalkozás (a továbbiakban: köztes vállalkozás) tulajdoni hányadain, illetve szavazati jogán keresztül történő – az 5. melléklet szerint figyelembe vett – birtoklása vagy gyakorlása;
 
