@@ -1,1 +1,0 @@
-43. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 26. § (2) bekezdés a) pontjában a „32. §, 35/A. §,” szövegrész helyébe a „32. §, 33. §, 35/A. §,” szöveg lép.

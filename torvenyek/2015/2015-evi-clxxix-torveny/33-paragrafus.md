@@ -1,9 +1,3 @@
 ## 9. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-33. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 4. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A nyilvántartó a jogszabályban meghatározott, lefoglalásra vagy – a körözési nyilvántartási rendszert vezető szerv által az okmány adatainak a körözési nyilvántartási rendszerbe rögzítéséről küldött elektronikus értesítés alapján – büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe (a továbbiakban: SIS II) továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének a törvényben meghatározott adatait, amelynek elvesztését, eltulajdonítását vagy az egyéb jogszabályban meghatározott okból történő érvénytelenítését az engedély-, illetve a járműnyilvántartásba bejegyezték, ha az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
-
-(3) Ha a (2) bekezdés szerinti okmány, illetve hatósági jelzés időközben megkerült és az okmány, illetve a hatósági jelzés megkerülésének tényét az engedély-, illetve a járműnyilvántartásba bejegyezték, vagy a körözési nyilvántartási rendszert vezető szerv által az okmánykörözés visszavonásáról, törléséről elektronikus úton küldött értesítést, a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelmeztető jelzés törléséről.
-
-(4) Ha a vezetői engedély megszemélyesítését végző adatfeldolgozó szerv kitöltetlen vezetői engedély eltűnéséről (elvesztéséről, eltulajdonításáról) vagy az eltűnt kitöltetlen okmány megkerüléséről értesíti a nyilvántartót, a nyilvántartó a jogszabályban meghatározott NS.CP Portál felületen keresztül gondoskodik a schengeni figyelmeztető jelzés beviteléről, illetve törléséről.”
+33. §
