@@ -34,7 +34,9 @@ o) a sugársérültek vagy arra gyanús személyek egészségügyi ellátásána
 
 p) a radioaktív hulladékok átmeneti tárolásának és végleges elhelyezésének sugáregészségügyi szabályait;
 
-q) bányászati ügyekért felelős miniszterrel egyetértésben a bányászati és földtani környezettel kapcsolatos sugáregészségügyi előírásokat.
+q) bányászati ügyekért felelős miniszterrel egyetértésben a bányászati és földtani környezettel kapcsolatos sugáregészségügyi előírásokat;
+
+r) az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének szabályait.
 
 (3) Felhatalmazást kap a környezetvédelmért felelős miniszter, hogy rendeletben állapítsa meg a miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben
 

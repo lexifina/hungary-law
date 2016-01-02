@@ -14,4 +14,6 @@ e) a sugársérültek vagy arra gyanús személyek egészségügyi ellátását;
 
 f) a kötelező sugárorvostani továbbképzésben részesítendők körének meghatározását, a továbbképzés tartására kötelezett intézet kijelölését, a továbbképzés tematikája jóváhagyását;
 
-g) a nukleáris veszélyhelyzetben való közreműködést a döntések sugáregészségügyi megalapozásában.
+g) a nukleáris veszélyhelyzetben való közreműködést a döntések sugáregészségügyi megalapozásában;
+
+h) az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének felügyeletét.
