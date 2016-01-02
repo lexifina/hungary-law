@@ -308,6 +308,6 @@
 
 | 6 | Z06 | Természetes személyek anonimizált egészségügyi adatai | OEP | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint | MNB Statisztikai igazgatóság |
 
-2. melléklet a 50/2015. (XII. 9.) MNB rendelethez[^3]
+2. melléklet a 50/2015. (XII. 9.) MNB rendelethez[^4]
 
-[^3]: A 2. melléklet II. pontjában a „Negyedéves jelentés a jelzáloghitel-finanszírozás megfelelési mutatóról” (MNB azonosító kód: L72) megnevezésű adatszolgáltatás táblái és kitöltési előírásai a 3. § (2) bekezdése alapján 2016. július 1-jén, a 2. melléklet I. B. pontja a 3. § (3) bekezedése alapján 2016. július 4-én lép hatályba.
+[^4]: A 2. melléklet II. pontjában a „Negyedéves jelentés a jelzáloghitel-finanszírozás megfelelési mutatóról” (MNB azonosító kód: L72) megnevezésű adatszolgáltatás táblái és kitöltési előírásai a 3. § (2) bekezdése alapján 2016. július 1-jén, a 2. melléklet I. B. pontja a 3. § (3) bekezedése alapján 2016. július 4-én lép hatályba.
