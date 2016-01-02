@@ -1,1 +1,0 @@
-## „(11) Ha a (2) bekezdés d) pontjában meghatározott gazdálkodási napló vonatkozó betétlapján rögzített adatai nem támasztják alá az adott támogatás igénybevételére vonatkozó feltételek teljesülését, akkor az adott terület vonatkozásában a mezőgazdasági termelő támogatási jogosultsága nem állapítható meg.”
