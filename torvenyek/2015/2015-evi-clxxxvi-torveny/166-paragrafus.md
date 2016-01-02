@@ -1,1 +1,0 @@
-166. § Hatályát veszti a Htv. 16. § (3) bekezdésében az „A megkeresett szerv vezetője ezt a határidőt annak letelte előtt indokolt esetben egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.” szövegrész.

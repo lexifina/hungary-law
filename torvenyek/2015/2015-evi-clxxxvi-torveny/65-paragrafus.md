@@ -1,1 +1,0 @@
-65. § A Ttv. 21. § (5) bekezdésében az „az elhunyt közeli hozzátartozói” szövegrész helyébe az „az elhunytnak a Polgári Törvénykönyv szerinti hozzátartozói, valamint a végrendeleti juttatásban részesített személyek” szöveg lép.

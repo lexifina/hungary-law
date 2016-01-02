@@ -1,6 +1,6 @@
 ## 44. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
 
-79. § (1) A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Etv.) 9. § (1) bekezdésében a „harminc” szövegrész helyébe a „húsz” szöveg lép.
+79. § (1)
 
 (2) Az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvény 15. §-ának az Etv.
 
