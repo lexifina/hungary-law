@@ -1,3 +1,3 @@
-## 3. §[^1]
+## 3. §[^2]
 
-[^1]: A 3. § a 32. § (2) bekezdése alapján 2016. július 1. napján lép hatályba.
+[^2]: A 3. § a 32. § (2) bekezdése alapján 2016. július 1. napján lép hatályba.
