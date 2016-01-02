@@ -1,3 +1,0 @@
-## 3. § A tenyésztésszervezési feladatok támogatása igénybevételének részletes feltételeiről szóló 43/2014. (XII. 29.) FM rendelet 1. § a) pontjában az „a Mezőhegyesi Állami Ménes Lótenyésztő és Értékesítő Korlátolt Felelősségű Társaság és a Bábolna Nemzeti Ménesbirtok Korlátolt Felelősségű Társaság” szövegrész helyébe az „a Mezőhegyesi Állami Ménes és a Bábolna Nemzeti Ménesbirtok” szöveg lép.
-
-## 3. Az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti támogatás igénybevételével kapcsolatos egyes kérdésekről szóló 5/2015. (II. 19.) FM rendelet módosítása
