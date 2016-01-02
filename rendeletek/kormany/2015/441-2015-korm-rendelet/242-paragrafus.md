@@ -1,1 +1,0 @@
-## 241. § A régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet [a továbbiakban: 39/2015. (III. 11.) Korm. rendelet] 31. §-ában a „45” szövegrész helyébe a „harminc” szöveg lép.

@@ -1,1 +1,0 @@
-## „23/D. § E rendeletnek a közigazgatási bürokráciacsökkentéssel összefüggésben egyes kormányrendeletek módosításáról szóló 441/2015. (XII. 28.) Korm. rendelettel (a továbbiakban: Mód. rendelet) megállapított rendelkezéseit a Mód. rendelet hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.”

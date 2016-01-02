@@ -1,1 +1,0 @@
-## 30. § A munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló 39/1998. (III. 4.) Korm. rendelet [a továbbiakban: 39/1998. (III. 4.) Korm. rendelet] 6. § (4) bekezdés a) és b) pontjában a „30 napon belül” szövegrész helyébe a „10 napon belül” szöveg lép.

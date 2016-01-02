@@ -1,1 +1,0 @@
-## 87. § A természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló 91/2007. (IV. 26.) Korm. rendelet [a továbbiakban: 91/2007. (IV. 26.) Korm. rendelet] 11. § (3) bekezdésében a „követő két hónapon belül” szövegrész helyébe a „követően” szöveg lép.

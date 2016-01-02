@@ -1,3 +1,5 @@
-## 195. § Hatályát veszti a 65/2013. (III. 8.) Korm. rendelet 4. § (1) bekezdése.
+## 194–195. §[^122]
 
 ## 117. A lófélék egyedeinek azonosításáról szóló 110/2013. (IV. 9.) Korm. rendelet módosítása
+
+[^122]: A 194–195. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

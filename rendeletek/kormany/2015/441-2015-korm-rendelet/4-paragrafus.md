@@ -1,3 +1,0 @@
-## 3. § Az egyes bányászati dolgozók társadalombiztosítási kedvezményeiről szóló 23/1991. (II. 9.) Korm. rendelet [a továbbiakban: 23/1991. (II. 9.) Korm. rendelet] 5/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A keresetkiegészítés iránti kérelem elbírálása során a kérelmező egészségkárosodásának mértékét és a föld alatti bányamunkára való alkalmatlanságát szakkérdésként vizsgálni kell. A szakkérdést nem kell vizsgálni, ha a kérelmező egészségkárosodásának mértékét és a föld alatti bányamunkára való alkalmatlanságát hatályos határozat, szakhatósági állásfoglalás vagy szakvélemény állapítja meg.”

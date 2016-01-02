@@ -1,3 +1,0 @@
-## 130. § A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet [a továbbiakban: 159/2010. (V. 6.) Korm. rendelet] 11/A. §-a helyébe a következő rendelkezés lép:
-
-## „11/A. § A légközlekedési hatóság a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint nyilvánosan közzéteszi azt a határozatot és a szakhatósági állásfoglalást, amit olyan eljárásban hozott, amelyben a környezetvédelmi és természetvédelmi hatáskörében szakhatóságként eljáró megyei kormányhivatal a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.”

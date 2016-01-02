@@ -1,1 +1,0 @@
-## 198. § Az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet [a továbbiakban: 266/2013. (VII. 11.) Korm. rendelet] 7. § (2) bekezdés e) pontjában a „másolatát,” szövegrész helyébe a „másolatát a hatósági erkölcsi bizonyítvány kivételével,” szöveg lép.

@@ -1,5 +1,7 @@
-## 123. § Hatályát veszti a 282/2009. (XII. 11.) Korm. rendelet 5. § (2) bekezdésében a „(a főváros esetében harminc napon)” szövegrész.
+## 122–123. §[^77]
 
 ## 73. Az előzetes eredetiségvizsgálati eljárás részletes szabályairól szóló 301/2009. (XII. 22.)
 
 ## Korm. rendelet módosítása
+
+[^77]: A 122–123. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

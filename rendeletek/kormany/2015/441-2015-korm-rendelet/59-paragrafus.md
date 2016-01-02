@@ -1,9 +1,11 @@
-## 58. § A környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet 7. § (5) bekezdésében a „2 hónapon” szövegrész helyébe a „30 napon” szöveg lép.
+## 58. §[^41]
 
 ## 42. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet módosítása
 
-59. § (1)[^1]
+59. § (1)[^42]
 
-(2) A 157/2005. (VIII. 15.) Korm. rendelet a következő 23/D. §-sal egészül ki:
+(2)[^43]
 
-[^1]: Az 59. § (1) bekezdése a 262. § (3) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^41]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: Az 59. § (1) bekezdése a 262. § (3) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^43]: Az 59. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
