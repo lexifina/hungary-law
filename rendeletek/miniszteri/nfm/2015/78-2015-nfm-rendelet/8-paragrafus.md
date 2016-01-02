@@ -8,8 +8,9 @@
 
 (3) A 6. § (5) és (6) bekezdése 2017. január 1-jén lép hatályba.
 
-(4) A bányafelügyelet részére fizetendő igazgatási szolgáltatási díjakról, valamint a felügyeleti díj fizetésének részletes szabályairól szóló 57/2005. (VII. 7.) GKM rendelet (a továbbiakban: GKM rendelet) 1. §-a, 3–5. §-a és 1. számú melléklete hatályát veszti.
+(4)[^3]
 
-(5)[^3]
+(5)[^4]
 
-[^3]: A 8. § (5) bekezdése a 8. § (2) bekezdése alapján 2016. január 30-án lép hatályba.
+[^3]: A 8. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8. § (5) bekezdése a 8. § (2) bekezdése alapján 2016. január 30-án lép hatályba.
