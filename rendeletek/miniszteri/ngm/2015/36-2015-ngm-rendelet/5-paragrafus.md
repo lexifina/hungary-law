@@ -1,1 +1,0 @@
-## 4. § Az 1. §-ban a „Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény” szövegrész helyébe a „Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény” szöveg lép.
