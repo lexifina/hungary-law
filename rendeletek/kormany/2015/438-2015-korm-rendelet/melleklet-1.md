@@ -1,8 +1,4 @@
-## 7. § Az R. a következő 4/A. §-sal egészül ki:
-
-## „4/A. § (1) A kivitelező a kivitelezést kizárólag akkor kezdheti meg, ha a jogerős vízjogi engedélyt részére átadták.
-
-## (2) A kivitelező a kivitelezést a jogerős vízjogi engedélyben foglaltak szerint köteles elvégezni.”
+## 6–7. §[^1]
 
 1. melléklet a 438/2015. (XII. 28.) Korm. rendelethez
 
@@ -49,3 +45,5 @@ VGB= A*ENG*ERT*HAT
 5. Jogszabályban, hatósági határozatban, közvetlenül alkalmazandó közösségi jogi aktusban megállapított adatszolgáltatásra, nyilvántartásra vonatkozó vízgazdálkodási előírás megsértése esetén a vízgazdálkodási bírság mértékét a következő számítási mód alapján kell megállapítani:
 
 VGB= A*ANY*HAT
+
+[^1]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
