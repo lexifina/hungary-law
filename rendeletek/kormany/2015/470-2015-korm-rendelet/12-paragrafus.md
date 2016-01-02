@@ -1,7 +1,3 @@
-## „(10) A pénztár aktuális befektetési politikáját
+12. §[^13]
 
-## a) a pénztárba belépni kívánó magánszeméllyel meg kell ismertetni,
-
-## b) a pénztártaggal kérésére, a pénztár alapszabályában szabályozott módon ismertetni kell, és
-
-## c) a (8) bekezdés szerinti döntést követő 8 munkanapon belül a Felügyelet által üzemeltetett közzétételi helyen közzé kell tenni.”
+[^13]: A 8–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

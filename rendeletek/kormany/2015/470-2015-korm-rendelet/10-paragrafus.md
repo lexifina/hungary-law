@@ -1,1 +1,3 @@
-## „(6) A pénztár könyvvizsgálója a pénztár eszközeit tartalmazó negyedév végi letétkezelői nyilvántartást köteles összevetni a pénztár analitikus nyilvántartásaival. Az egyezőség vizsgálata a befektetési instrumentumok piaci értékére, darabszámára és névértékére vonatkozik. Egyezőség hiányában a könyvvizsgáló köteles a pénztárat és a Felügyeletet az eltérésről az érintett befektetési eszközök megjelölésével – egyidejűleg – írásban tájékoztatni.”
+10. §[^11]
+
+[^11]: A 8–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

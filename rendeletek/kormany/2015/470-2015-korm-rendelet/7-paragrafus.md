@@ -1,5 +1,3 @@
-## 7. § Hatályát veszti
+7. §[^8]
 
-a) az Ebr. 8. §-ában az „és 7. §-ban” szövegrész,
-
-b) az Ebr. 23. § (1)–(3) bekezdése.
+[^8]: Az 1–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
