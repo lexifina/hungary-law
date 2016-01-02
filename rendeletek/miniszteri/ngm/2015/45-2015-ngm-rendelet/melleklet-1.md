@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti a Nemzeti Akkreditáló Testület eljárásaiért fizetendő igazgatási szolgáltatási díjakról szóló 4/2006. (II. 16.) GKM rendelet.
+## 6. §[^1]
 
 1. melléklet a 45/2015. (XII. 30.) NGM rendelethez
 
@@ -301,3 +301,5 @@
 11.2. A terület a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről, valamint a hitelesítők akkreditációjáról szóló, 2012. június 21-i 600/2012/EU bizottsági rendelet I. mellékletében felsorolt tevékenységcsoportokat jelenti, a tevékenységi csoportokon belül találhatóak az egyes alkalmazási körök.
 
 11.3. A díjat minden egyes tevékenységcsoportra és alkalmazási körre külön-külön meg kell fizetni. Azon tevékenységcsoportok száma alapján, amely alá a kérelmezett akkreditációs alkalmazási körök tartoznak, 5-5% kedvezményre jogosult a hitelesítő szervezet. Ezek a százalékos kedvezmények összeadódnak, és az így kiszámolt %-os kedvezmény az egyes tevékenységcsoporton belüli első akkreditációs alkalmazási körök díjaiból kerül levonásra. Az egyes tevékenységi csoportokon belüli további akkreditációs alkalmazási körök díja az ugyanazon csoport első tevékenységi körére vonatkozóan a fenti számításnak megfelelően meghatározott díjtétel 50%-ában határozandó meg.
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
