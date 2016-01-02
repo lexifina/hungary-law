@@ -1,3 +1,5 @@
+## 12. §[^1]
+
 1. melléklet a 379/2015. (XII. 8.) Korm. rendelethez
 
 ## A települési szennyvízelvezetési agglomeráció lehatárolásának szempontjai és módszertana
@@ -149,3 +151,5 @@ c) vizsgálni kell a reális műszaki megoldásokat,
 d) a gazdaságossági számítást a teljes életciklus-szemlélet érvényesítésével kell elvégezni.
 
 5.8. Az előnyök és hátrányok értékelésénél az 5.3–5.7. pontokban leírt feltételek teljesülése a meghatározó.
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
