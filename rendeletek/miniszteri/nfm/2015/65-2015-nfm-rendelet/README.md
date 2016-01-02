@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-65-20-2
 | 2015-11-16 | 2015-65-20-2W.2 | 2010: CXXX. törvény |
 | 2015-12-23 | 2015-65-20-2W.3 | 71/2015. (XII. 22.) NFM rendelet |
 | 2016-01-01 | 2015-65-20-2W.4 | 71/2015. (XII. 22.) NFM rendelet |
+| 2016-01-02 | 2015-65-20-2W.5 | 71/2015. (XII. 22.) NFM rendelet |
