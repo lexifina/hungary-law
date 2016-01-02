@@ -1,10 +1,11 @@
-## 11–15. §[^5]
+## 11–15. §[^7]
 
 ## 16. § Az Ép.r.
 
-a) 8. § (1) bekezdés d) pontjában a „hét nappal” szövegrész helyébe az „öt nappal”,
+a)[^8]
 
-b)–i)[^6]
+b)–i)[^9]
 
-[^5]: A 11–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 16. § b)–i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 11–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 16. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 16. § b)–i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

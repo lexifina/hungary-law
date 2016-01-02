@@ -1,3 +1,3 @@
-## 6. §[^2]
+## 6. §[^3]
 
-[^2]: A 6. § a 345/2015. (XI. 19.) Korm. rendelet 95. §-a alapján nem lép hatályba.
+[^3]: A 6. § a 345/2015. (XI. 19.) Korm. rendelet 95. §-a alapján nem lép hatályba.
