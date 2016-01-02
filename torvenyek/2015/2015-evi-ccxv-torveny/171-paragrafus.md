@@ -1,3 +1,0 @@
-171. § A Szantv. 47. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha az áthidaló intézmény nem felel meg az adott fizetési, elszámolási és kiegyenlítési rendszer, szabályozott piac, OBA, Beva vagy Szanálási Alap tagsági vagy részvételi kritériumainak, a szanálási feladatkörében eljáró MNB meghatározza az (1) bekezdésben említett jogok gyakorlásának időtartamát, és egyidejűleg határidőt szab a szükséges engedélyek megszerzésére. E határidő az áthidaló intézmény kérelmére meghosszabbítható, azonban az engedély megszerzésére biztosított határidő összességében legfeljebb huszonnégy hónap lehet.”

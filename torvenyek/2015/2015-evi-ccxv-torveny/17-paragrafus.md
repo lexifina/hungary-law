@@ -1,3 +1,0 @@
-17. § Az Öpt. 49/C. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szabályzatban meghatározott időszakokban jelentkező portfólióváltási igényeket a pénztár szintjén összegezni kell. Az igények teljesítéséhez kapcsolódó költségeket az érintett pénztártagok viselik. Az egyedi portfólióváltással összefüggő, pénztártagra terhelt költségek nem haladhatják meg az egyéni számlakövetelés egy ezrelékét, és nem lehetnek magasabbak 2000 forintnál. Az egyéni számlakövetelésnek a pénztár által kialakított portfóliók közötti megosztásának egyszeri díja nem haladhatja meg a portfólióváltással érintett egyéni számlakövetelés egy ezrelékét, és nem lehet magasabb 2000 forintnál.”
