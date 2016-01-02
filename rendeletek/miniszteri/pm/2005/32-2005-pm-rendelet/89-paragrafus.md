@@ -1,4 +1,4 @@
-89. § (1)[^196]
+89. § (1)[^207]
 
 (2) E rendelet 54. §-ának (2)–(4) bekezdésében foglalt képesítésre és szakmai gyakorlatra vonatkozó előírásokat az e rendelet hatálybalépése előtt kiadott engedély alapján működő játékkaszinóban az e rendelet hatálybalépésekor már fennálló munkaviszonyra az engedély érvényességének lejártáig nem kell alkalmazni.
 
@@ -10,15 +10,15 @@
 
 (6) Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 25/1991. (X. 16.) PM rendelet 5. és 6. számú melléklete szerinti engedélyek érvényességi idejük végéig használhatók az e rendeletben foglaltak megfelelő alkalmazásával.
 
-(7)[^197]
+(7)[^208]
 
 (8) A sorsolásos játékra – a sorsjáték (kaparós sorsjegy) kivételével – továbbá a fogadásra a 18. § (1) bekezdésének f) pontjában és a 72. § (4) bekezdésének h) pontjában foglaltakat 2006. május 1-jétől kell alkalmazni.
 
 (9) E rendelet hatálybalépése előtt kiadott engedélyek alapján kibocsátott sorsjegyre (kaparós sorsjegyre) a 18. § (1) bekezdésének f) pontjában foglaltakat nem kell alkalmazni.
 
-(10)[^198] A rendeletnek az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 31/2015. (XI. 24.) NGM rendelettel (a továbbiakban: Mód1.) megállapított 77. § (5a) bekezdését a Mód1. hatálybalépésekor[^199] folyamatban lévő ügyekben is alkalmazni kell.
+(10)[^209] A rendeletnek az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 31/2015. (XI. 24.) NGM rendelettel (a továbbiakban: Mód1.) megállapított 77. § (5a) bekezdését a Mód1. hatálybalépésekor[^210] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^196]: A 89. § (1) bekezdését a 36/2006. (XII. 25.) PM rendelet 7. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^197]: A 89. § (7) bekezdését e rendelet 90. § (2) bekezdése hatályon kívül helyezte.
-[^198]: A 89. § (10) bekezdését a 31/2015. (XI. 24.) NGM rendelet 2. §-a iktatta be.
-[^199]: A hatálybalépés időpontja 2015. december 25.
+[^207]: A 89. § (1) bekezdését a 36/2006. (XII. 25.) PM rendelet 7. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^208]: A 89. § (7) bekezdését e rendelet 90. § (2) bekezdése hatályon kívül helyezte.
+[^209]: A 89. § (10) bekezdését a 31/2015. (XI. 24.) NGM rendelet 2. §-a iktatta be.
+[^210]: A hatálybalépés időpontja 2015. december 25.

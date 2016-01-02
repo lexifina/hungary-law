@@ -4,7 +4,7 @@
 
 ## Engedélyezés
 
-70. § (1)[^138] A fogadás szervezésére jogosult kérelmező tevékenységének engedélyezése iránt kérelmet nyújt be a NAV Központi Irányításának címezve postai úton, vagy a NAV Központi Irányítás által működtetett Szerencsejáték Felügyeleti Központi Ügyfélszolgálati Irodán. Az állami adóhatóság folyamatosan szervezett totalizatőri, illetve bukmékeri rendszerű fogadás (a továbbiakban együtt: fogadási formák) szervezésére adhat engedélyt.
+70. § (1)[^146] A fogadás szervezésére jogosult kérelmező tevékenységének engedélyezése iránt kérelmet nyújt be a NAV Központi Irányításának címezve postai úton, vagy a NAV Központi Irányítás által működtetett Szerencsejáték Felügyeleti Központi Ügyfélszolgálati Irodán. Az állami adóhatóság folyamatosan szervezett totalizatőri, illetve bukmékeri rendszerű fogadás (a továbbiakban együtt: fogadási formák) szervezésére adhat engedélyt.
 
 (2) Az engedély iránti kérelemhez a 2. § (3) bekezdésében foglaltakon túl csatolni kell:
 
@@ -20,7 +20,7 @@ e) az engedélyezési eljárásért fizetendő igazgatási-szolgáltatási díj,
 
 f) a hírközlő eszközök és rendszerek igénybevételével szervezett fogadások engedélyezése esetén az Szjtv. 2. §-ának (6) bekezdésében foglalt követelmények teljesítését igazoló, az e rendelet 18. §-ának (4) bekezdésében előírt okiratot.
 
-(3)[^139] A fogadási hálózatban történő változtatásról a szervező köteles bejelentést tenni az állami adóhatóságnak a fogadóiroda megnyitását megelőző nyolcadik napig, illetve legkésőbb a bezárás napjáig.
+(3)[^147] A fogadási hálózatban történő változtatásról a szervező köteles bejelentést tenni az állami adóhatóságnak a fogadóiroda megnyitását megelőző nyolcadik napig, illetve legkésőbb a bezárás napjáig.
 
 (4) A szervezőt megilleti a fogadás törlésének joga
 
@@ -34,5 +34,5 @@ b) a fogadási esemény megkezdése után, ha a fogadási esemény a lebonyolít
 
 (7) Az egyes fogadások esetén a legmagasabb tét értéke a 100 ezer forintot nem haladhatja meg.
 
-[^138]: A 70. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése, a 17/2009. (IX. 29.) PM rendelet 66. § (6) bekezdése, a 15/2012. (VI. 28.) NGM rendelet 14. § 32. pontja, a 47/2015. (XII. 30.) NGM rendelet 6. § c) és d) pontja szerint módosított szöveg.
-[^139]: A 70. § (3) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^146]: A 70. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése, a 17/2009. (IX. 29.) PM rendelet 66. § (6) bekezdése, a 15/2012. (VI. 28.) NGM rendelet 14. § 32. pontja, a 47/2015. (XII. 30.) NGM rendelet 6. § c) és d) pontja szerint módosított szöveg.
+[^147]: A 70. § (3) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.

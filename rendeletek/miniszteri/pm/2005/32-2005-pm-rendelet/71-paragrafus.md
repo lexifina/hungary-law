@@ -30,9 +30,9 @@ h) a nyertes fogadási ajánlat nyereményének képzési módját,
 
 i) az egyes nyertes fogadások nyereményeinek megállapítása során alkalmazott kerekítési szabályokat.
 
-(4)[^140] Bukmékeri rendszerű fogadásban nem vehetnek részt a szervező alkalmazottai közül a fogadási események nyereményszorzóinak meghatározására befolyással bíró személyek, és ezek közeli hozzátartozói.
+(4)[^148] Bukmékeri rendszerű fogadásban nem vehetnek részt a szervező alkalmazottai közül a fogadási események nyereményszorzóinak meghatározására befolyással bíró személyek, és ezek közeli hozzátartozói.
 
-(5)[^141] A szervező a játékosok részére kölcsönt (hitelt) nem nyújthat.
+(5)[^149] A szervező a játékosok részére kölcsönt (hitelt) nem nyújthat.
 
-[^140]: A 71. § (4) bekezdését a 32/2007. (XII. 21.) PM rendelet 22. §-a iktatta be.
-[^141]: A 71. § (5) bekezdését a 32/2007. (XII. 21.) PM rendelet 22. §-a iktatta be.
+[^148]: A 71. § (4) bekezdését a 32/2007. (XII. 21.) PM rendelet 22. §-a iktatta be.
+[^149]: A 71. § (5) bekezdését a 32/2007. (XII. 21.) PM rendelet 22. §-a iktatta be.

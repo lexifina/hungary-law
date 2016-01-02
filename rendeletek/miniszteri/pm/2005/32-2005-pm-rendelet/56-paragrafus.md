@@ -2,6 +2,9 @@
 
 56. § (1) A játékkaszinóban játék legfeljebb két pénznemben folytatható.
 
-(2) A játékkaszinó nyitvatartása alatt a játékosok igényeinek megfelelően valamennyi játékasztalon és pénznyerő automatán lehetővé kell tenni a játékot.
+(2)[^101]
 
-(3) A játékkaszinó a részvételi szabályzatában meghatározott időponton túl is nyitva tarthat, ha a még játszani kívánó játékosok száma ezt indokolja.
+(3)[^102] A játékkaszinó a hét minden napján 0 és 24 óra között tarthat nyitva.
+
+[^101]: Az 56. § (2) bekezdését a 49/2015. (XII. 30.) NGM rendelet 14. §-a hatályon kívül helyezte.
+[^102]: Az 56. § (3) bekezdése a 49/2015. (XII. 30.) NGM rendelet 4. §-ával megállapított szöveg.

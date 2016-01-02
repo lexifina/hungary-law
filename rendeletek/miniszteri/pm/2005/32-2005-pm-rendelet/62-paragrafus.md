@@ -1,4 +1,4 @@
-## 61. § A játékkaszinónak lehetősége van előzetes bejelentés alapján a játékkaszinóban folyó játék zavarása nélkül a játékkaszinóban használatostól eltérő, érték nélküli zsetonkészlettel az alkalmazottak játéktechnikai, valamint a játékosok játékszabály ismertető oktatására irányuló tevékenységet folytatni.
+## 61. §[^117] A játékkaszinónak lehetősége van a játékkaszinóban folyó játék zavarása nélkül a játékkaszinóban használatostól eltérő, érték nélküli zsetonkészlettel az alkalmazottak játéktechnikai, valamint a játékosok játékszabály ismertető oktatására irányuló tevékenységet folytatni.
 
 ## A gazdátlan zsetonok (árvák)
 
@@ -10,4 +10,10 @@
 
 (4) A visszafizetett pénzösszeget fel kell jegyezni az árvák nyilvántartásába. Ennek tartalmaznia kell a visszafizetés időpontját, a tulajdonos nevét, lakóhelyét, valamint ahhoz csatolni kell az eseménnyel kapcsolatos vizsgálat eredményét tartalmazó jegyzőkönyvet.
 
-(5) A visszafizetésre nem került árvákat a megtalálásuk időpontját követő egy év elteltével a játékkaszinó egyéb bevételei között kell szerepeltetni.
+(5)[^118] A visszafizetésre nem került árvákat – ide nem értve a kis értékű árvákat – a megtalálásuk időpontját követő egy év elteltével a játékkaszinó egyéb bevételei között kell szerepeltetni. E szabály alkalmazása szempontjából kis értékű árvának minősül a 100 Ft értéket el nem érő gazdátlan zseton.
+
+(6)[^119] A kis értékű árvákat a megtalálásuk időpontját követő záráskor a játékkaszinó egyéb bevételei között kell nyilvántartani.
+
+[^117]: A 61. § a 49/2015. (XII. 30.) NGM rendelet 13. § e) pontja szerint módosított szöveg.
+[^118]: A 62. § (5) bekezdése a 49/2015. (XII. 30.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^119]: A 62. § (6) bekezdését a 49/2015. (XII. 30.) NGM rendelet 5. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 24–52/A. §
+## 44–52/A. §
 
 ## III. Fejezet
 
@@ -24,12 +24,13 @@ f) az igazgatási-szolgáltatási díj befizetését tanúsító igazolást (cse
 
 g)[^90] az Szjtv. 3. §-a (1) bekezdésének a) pontja szerinti kérelmező esetén a miniszter nyilatkozatát arról, hogy a játékkaszinó üzemeltetéséhez – az abban meghatározott időszakra, helyszínre, valamint egyéb feltételekkel – hozzájárul,
 
-h) az Szjtv. 3. §-a (1) bekezdésének b) pontja szerinti kérelmező esetén a koncessziós szerződés egy eredeti példányát és a koncessziós díj befizetéséről szóló igazolást.
+h)[^91] az Szjtv. 3. § (1) bekezdés b) pontja szerinti kérelmező esetén a koncessziós szerződés egy eredeti példányát és az esedékes koncessziós díj befizetéséről szóló igazolást.
 
-(3)[^91] Az állami adóhatóság játékkaszinó üzemeltetésére vonatkozó engedélyező határozatának mellékletét képezi a 10. számú melléklet szerinti működési engedély, amelyet a kaszinó bejáratánál jól látható módon ki kell függeszteni. A működési engedélyt, annak bármely okból történő megszűnésétől számított 8 napon belül, az állami adóhatóság részére le kell adni.
+(3)[^92] Az állami adóhatóság játékkaszinó üzemeltetésére vonatkozó engedélyező határozatának mellékletét képezi a 10. számú melléklet szerinti működési engedély, amelyet a kaszinó bejáratánál jól látható módon ki kell függeszteni. A működési engedélyt, annak bármely okból történő megszűnésétől számított 8 napon belül, az állami adóhatóság részére le kell adni.
 
 [^87]: Az 53. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^88]: Az 53. § (2) bekezdés a) pontja a 6/2014. (II. 12.) NGM rendelet 4. §-a szerint módosított szöveg.
 [^89]: Az 53. § (2) bekezdésének d) pontja a 19/2006. (VII. 31.) PM rendelet 24. § (1) bekezdésével megállapított, a 16/2010. (IV. 28.) PM rendelet 18. § (9) bekezdése szerint módosított szöveg.
 [^90]: Az 53. § (2) bekezdés g) pontja a 7/2013. (III. 1.) NGM rendelet 3. § c) pontja szerint módosított szöveg.
-[^91]: Az 53. § (3) bekezdése a 19/2006. (VII. 31.) PM rendelet 24. § (2) bekezdésével megállapított, a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^91]: Az 53. § (2) bekezdés h) pontja a 49/2015. (XII. 30.) NGM rendelet 2. §-ával megállapított szöveg.
+[^92]: Az 53. § (3) bekezdése a 19/2006. (VII. 31.) PM rendelet 24. § (2) bekezdésével megállapított, a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.

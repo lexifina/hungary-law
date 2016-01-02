@@ -2,10 +2,10 @@
 
 ## rendelkezések
 
-65. § (1)[^117] A kaszinójáték tekintetében játékeszköznek minősül a mérésügyi szerv által szerencsejáték céljára – a mérésügyi jogszabályok alapján – hitelesített és egyedi azonosításra alkalmas jelzéssel ellátott, a szerencsejáték nyerési esélyeit befolyásoló eszköz, valamint a játékasztal és a teremjáték céljára szolgáló eszköz.
+65. § (1)[^125] A kaszinójáték tekintetében játékeszköznek minősül a mérésügyi szerv által szerencsejáték céljára – a mérésügyi jogszabályok alapján – hitelesített és egyedi azonosításra alkalmas jelzéssel ellátott, a szerencsejáték nyerési esélyeit befolyásoló eszköz, valamint a játékasztal és a teremjáték céljára szolgáló eszköz.
 
 (2) Egy játékasztalon, illetve teremjáték céljára szolgáló eszközön egyidejűleg csak egy játékfajta és ugyanazon játékszabállyal játszható.
 
 (3) Egy játékeszközön egyidejűleg csak egy pénznemben, illetve minimum és maximum téttel folyhat a játék.
 
-[^117]: A 65. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^125]: A 65. § (1) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (3) bekezdése szerint módosított szöveg.
