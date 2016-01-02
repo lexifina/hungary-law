@@ -1,4 +1,4 @@
-68. § (1) A befektetési vállalkozás, amely a befektetési szolgáltatási tevékenysége keretében portfóliókezelési tevékenységet végez, az ügyfél számára havonta jelentést készít a tárgyhónap utolsó napjára vonatkozóan, és azt írásban vagy más tartós adathordozón az ügyfél rendelkezésére bocsátja.
+68. § (1) A befektetési vállalkozás, amely a befektetési szolgáltatási tevékenysége keretében portfóliókezelési tevékenységet végez, az ügyfél számára havonta jelentést készít a tárgyhónap utolsó napjára vonatkozóan, és azt írásban vagy más tartós adathordozón az ügyfél rendelkezésére bocsátja a tárgyhónapot követő hónap 10. munkanapjáig.
 
 (2) A befektetési vállalkozás, amely a befektetési szolgáltatási tevékenysége keretében portfóliókezelési tevékenységet végez, a végrehajtott ügylettel kapcsolatos tájékoztatását – az ügyfél rendelkezése szerint –
 
