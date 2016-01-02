@@ -22,4 +22,6 @@ a) a névjegyzéket a rendvédelmi szervnél üzemeltetett intranetes portálon 
 
 b) a névjegyzékről, illetve az abban történt változásról tájékoztatja a Magyar Rendvédelmi Kar elnökét.
 
-(7) A névjegyzéket vezető országos parancsnok a Becsületbíróság működési feltételeit a Becsületbíróság összehívását kezdeményező személy állományilletékes parancsnoka útján biztosítja.
+(7)[^92] A névjegyzéket vezető országos parancsnok a Becsületbíróság működési feltételeit a Becsületbíróság összehívását kezdeményező személy (a 47/D–47/G. § alkalmazásában a továbbiakban: kérelmező) állományilletékes parancsnoka útján biztosítja.
+
+[^92]: A 47/C. § (7) bekezdése a 68/2015. (XII. 16.) BM rendelet 2. §-ával megállapított szöveg.
