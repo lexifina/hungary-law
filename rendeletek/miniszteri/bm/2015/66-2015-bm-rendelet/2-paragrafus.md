@@ -1,1 +1,0 @@
-## 1. § A települések katasztrófavédelmi besorolásáról, valamint a katasztrófák elleni védekezés egyes szabályairól szóló 62/2011. (XII. 29.) BM rendelet módosításáról szóló 61/2012. (XII. 11.) BM rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
