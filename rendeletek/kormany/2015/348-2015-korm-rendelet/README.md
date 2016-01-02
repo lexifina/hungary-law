@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-348-20-
 | 2015-12-09 | 2015-348-20-22.1 | 348/2015. (XI. 24.) Korm. rendelet |
 | 2015-12-10 | 2015-348-20-22.2 | 2010: CXXX. törvény |
 | 2016-01-01 | 2015-348-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2016-01-02 | 2015-348-20-22.4 | 2010: CXXX. törvény |
