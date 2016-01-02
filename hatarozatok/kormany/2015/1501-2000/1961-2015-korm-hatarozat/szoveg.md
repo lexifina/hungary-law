@@ -44,4 +44,6 @@ Határidő: 2016. július 1.
 
 8. A 9. pont 2016. január 1-jén lép hatályba.
 
-9. Hatályát veszti az új közszolgálati életpálya bevezetéséről szóló 1846/2014. (XII. 30.) Korm. határozat.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
