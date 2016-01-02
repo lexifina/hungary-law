@@ -1,3 +1,3 @@
-## 2. § Az R. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „(1) Épületet úgy kell tervezni, kialakítani, megépíteni, hogy annak energetikai jellemzői megfeleljenek e rendelet előírásainak, a 6. §-ra tekintettel.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 3. § Az R. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## „(1) Az összesített energetikai jellemző követelményértékét az épület rendeltetésétől függően kell megállapítani, aminek felső értékét a 6. § szerint kell meghatározni rendeltetésmódonként, a (2) bekezdés figyelembevételével.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

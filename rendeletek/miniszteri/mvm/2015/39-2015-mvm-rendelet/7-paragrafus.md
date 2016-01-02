@@ -1,14 +1,12 @@
-## lép.
+## 6. §[^6]
 
-7. § (1) Hatályát veszti az R.
+7. § (1)[^7]
 
-a) 4. § (3) bekezdés b) pontjában az „a felület-térfogat arány megállapítása mellett,” szövegrész,
+(2)[^8]
 
-b) 6/A. §-a.
+(3)[^9]
 
-(2)[^1]
-
-(3)[^2]
-
-[^1]: A 7. § (2) bekezdése a 9. § (2) bekezdés a) pontja alapján 2018. január 1-jén lép hatályba.
-[^2]: A 7. § (3) bekezdése a 9. § (2) bekezdés b) pontja alapján 2021. január 1-jén lép hatályba.
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § (2) bekezdése a 9. § (2) bekezdés a) pontja alapján 2018. január 1-jén lép hatályba.
+[^9]: A 7. § (3) bekezdése a 9. § (2) bekezdés b) pontja alapján 2021. január 1-jén lép hatályba.
