@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2015-09-02 | 2015. évi LXVI. törvény | 2005-164-00-00.25 |
 | 2015-12-12 | 2015. évi CXCV. törvény | 2005-164-00-00.26 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2005-164-00-00.27 |
+| 2016-01-02 | 2014. évi CXII. törvény | 2005-164-00-00.28 |
