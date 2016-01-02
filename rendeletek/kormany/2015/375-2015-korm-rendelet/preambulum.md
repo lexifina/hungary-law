@@ -1,1 +1,0 @@
-A Kormány a statisztikáról szóló 1993. évi XLVI. törvény 26. § (3) bekezdés c) pontjában, valamint a népesség személyi, családi és lakásviszonyainak minta alapján történő 2016. évi felméréséről szóló 2015. évi X. törvény 6. § a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
