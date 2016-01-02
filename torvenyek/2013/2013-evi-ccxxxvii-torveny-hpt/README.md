@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2015-12-12 | 2015. évi CXCV. törvény | 2013-237-00-00.20 |
 | 2015-12-31 | 2015. évi CCXV. törvény | 2013-237-00-00.21 |
 | 2016-01-01 | 2015. évi CCXV. törvény | 2013-237-00-00.22 |
+| 2016-01-02 | 2015. évi CCXV. törvény | 2013-237-00-00.23 |

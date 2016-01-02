@@ -46,8 +46,10 @@ e) a személyi kódját; és
 
 f) vizsgabiztos esetén a nyilvántartási számát, a kijelölés visszavonásának a tényét és időpontját.
 
-(8) A Felügyelet a nyilvántartásba vételről szóló döntésben az (1) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
+(8) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
+
+(9a) A Felügyelet a (7) bekezdésben meghatározott adatokat az adott személlyel kapcsolatos utolsó adat keletkezését követő öt év elteltével törli a nyilvántartásból.
 
 (10) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést és vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.
