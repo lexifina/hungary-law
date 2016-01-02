@@ -1,1 +1,0 @@
-## „(7) A képzést záró vizsga, valamint a nyelvi képzésen való részvétel (1)–(6) bekezdésben nem szabályozott további követelményeit a felnőttképzést folytató intézmény a képzési programban határozza meg.”

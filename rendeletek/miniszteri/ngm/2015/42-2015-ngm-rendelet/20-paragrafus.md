@@ -1,1 +1,0 @@
-## 19. § Az R5. 2. § (1) bekezdés g) pontjában az „a nyelvi képzettségi szint megszerzését igazoló” szövegrész helyébe az „az Fktv. szerinti támogatott képzések esetén a nyelvi képzettségi szint megszerzését igazoló” szöveg lép.

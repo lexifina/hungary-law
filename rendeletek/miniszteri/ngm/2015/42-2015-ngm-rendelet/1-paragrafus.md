@@ -1,1 +1,0 @@
-## 1. A felnőttképzési tevékenység folytatásának engedélyezési eljárása során fizetendő igazgatási szolgáltatási díj mértékéről, befizetésének és felhasználásának szabályairól, valamint a felnőttképzést folytató intézmények ellenőrzése során kiszabott bírság befizetésének rendjéről szóló 56/2013. (XII. 4.) NGM rendelet módosítása
