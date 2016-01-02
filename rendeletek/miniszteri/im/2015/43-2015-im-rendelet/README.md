@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-43-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-01-01 | 2015-43-20-06.1 | 43/2015. (XII. 30.) IM rendelet |
+| 2016-01-02 | 2015-43-20-06.2 | 2010: CXXX. törvény |
