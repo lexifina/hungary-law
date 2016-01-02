@@ -1,3 +1,3 @@
-## 1. § A központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet 1. §-a a következő (2) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(2) Nem kell alkalmazni e rendelet előírásait az állami felsőoktatási intézmény nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontja szerinti felsőoktatási kutatás-fejlesztési vállalkozási tevékenységének keretében megvalósított közbeszerzései tekintetében.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
