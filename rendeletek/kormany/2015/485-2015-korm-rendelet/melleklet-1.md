@@ -1,4 +1,4 @@
-## 99. § Hatályát veszti a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet.
+## 99. §[^1]
 
 1. melléklet a 485/2015. (XII. 29.) Korm. rendelethez
 
@@ -89,3 +89,5 @@ g) a Nemzeti Adó- és Vámhivatal Nyugat-dunántúli Bűnügyi Igazgatósága, 
 9. A Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
 10. A Nemzeti Adó- és Vámhivatal Gazdasági Ellátó Igazgatósága, székhelye Budapest.
+
+[^1]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
