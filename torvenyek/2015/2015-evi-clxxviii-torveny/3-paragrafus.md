@@ -1,3 +1,0 @@
-3. § Az Szt. 8. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A gazdálkodó legfőbb irányító (vezető) szervén, ügyvezető szervén és felügyelő testületén belül a tagok együttes kötelezettsége – a jogszabályban meghatározott hatáskörükben eljárva – annak biztosítása, hogy az éves beszámoló, az egyszerűsített éves beszámoló és az összevont (konszolidált) éves beszámoló (ideértve a 9/A. § és a 10. § (2) és (3) bekezdés alapján az IFRS-ek szerint elkészített éves beszámolót és összevont (konszolidált) éves beszámolót is), valamint a kapcsolódó üzleti jelentés összeállítása és nyilvánosságra hozatala e törvény előírásainak megfelelően történjen.”

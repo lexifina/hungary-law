@@ -1,3 +1,0 @@
-10. § Az Szt. 141. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A jegyzett tőkét le kell szállítani az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 11. § (2) bekezdésének megfelelően, ha az átalakulással létrejövő gazdasági társaság végleges vagyonmérlege szerinti saját tőkéjének – a 140. § (3) bekezdése szerinti lekötött tartalékkal csökkentett, illetve a (7) bekezdés szerinti jegyzett, de még be nem fizetett tőkeként kimutatott összeggel növelt – összege nem éri el a vagyonmérleg-tervezete szerinti (a cégbíróságon bejegyzett) jegyzett tőke összegét.”
