@@ -1,4 +1,4 @@
-## 18. § Hatályát veszti a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 348/2004. (XII. 22.) Korm. rendelet.
+## 18. §[^1]
 
 1. melléklet a 459/2015. (XII. 29.) Korm. rendelethez
 
@@ -53,3 +53,5 @@ I. Hátrasorolt kötelezettségek
 II. Hosszú lejáratú kötelezettségek
 
 III. Rövid lejáratú kötelezettségek
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
