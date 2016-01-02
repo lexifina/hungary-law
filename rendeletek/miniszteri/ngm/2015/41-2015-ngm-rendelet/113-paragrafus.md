@@ -1,1 +1,0 @@
-## „(4) A vámhatóság a lefoglalt terméket, zárjegyet (adójegyet) és eszközt (a továbbiakban: lefoglalt termék) – a jövedéki eljárás lefolytatása során történő azonosításra alkalmas módon – azonosító jellel, jelzéssel látja el.”

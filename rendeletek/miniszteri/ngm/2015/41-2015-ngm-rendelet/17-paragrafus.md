@@ -1,7 +1,0 @@
-## „(6) A vámhatóság szakértőként köteles bevonni az eszköz hivatalos zárként történő elfogadására és a hivatalos zár előállításának engedélyezésére irányuló eljárásba a Bizottságot. A vámhatóság – a Bizottság javaslatának figyelembevételével, a Bizottság javaslattételét követő 5 napon belül – dönt az eszköz hivatalos zárként való felhasználásának, alkalmazási körének és felhelyezési módjának, valamint az eszköz kérelmező általi gyártásának engedélyezéséről.
-
-## (7) A vámhatóság a (6) bekezdés szerinti engedély kiadásával egyidejűleg, illetve újabb gyártani kívánt mennyiségre benyújtott kérelem esetén a kérelem benyújtását követő 15 napon belül külön határozatban rendelkezik a kérelemben megjelölt – legalább 6 hónapos, de legfeljebb 12 hónapos – időszakban gyártható mennyiségről és a hivatalos zárak sorszámtartományáról. A gyártható mennyiségre és a hivatalos zárak sorszámtartományára újabb kérelmet csak a (6) bekezdés szerinti engedéllyel rendelkező előállító nyújthat be.
-
-## (8) A vámhatóság a hivatalos zár előállítójának a (6) bekezdés szerint kiadott engedélyét visszavonja, ha az engedély kiadásánál figyelembe vett, az 1. § a)–c) pontja és az e paragrafus (2) bekezdése szerinti feltételek nem állnak fenn, és azt a Bizottság megállapította.
-
-## (9) A vámhatóság a (6) bekezdés szerinti engedély kiadásáról az erre vonatkozó határozat egy példányának megküldésével – a határozat kiadásával egyidejűleg – tájékoztatja a Hegyközségek Nemzeti Tanácsát.”

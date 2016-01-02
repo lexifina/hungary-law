@@ -1,3 +1,0 @@
-## „(5) Amennyiben a kötelező érvényű vámtarifa-besorolás meghatározásához termékminta szükséges, a vámhatóság által elvégzett vizsgálat költségei azt az adóraktár-engedélyest, adómentes felhasználót, bejegyzett kereskedőt, felhasználói engedélyest terhelik, aki a termékére kéri, vagy akinek a termékére a vámhatóság kezdeményezi a kötelező érvényű vámtarifa-besorolást.
-
-## (6) A vámhatóság által vagy annak megbízása alapján elvégzett vizsgálatért fizetendő költségtérítés összegét a közösségi vámjog végrehajtásának részletes szabályairól szóló 15/2004. (IV. 5.) PM rendelet 13. számú mellékletében foglalt díjjegyzék alapján állapítja meg a vámhatóság. A költségeket az érintettnek a vámhatóság végzése alapján kell megfizetnie.”

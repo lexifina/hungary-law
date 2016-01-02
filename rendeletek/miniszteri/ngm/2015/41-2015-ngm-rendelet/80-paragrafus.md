@@ -1,3 +1,0 @@
-## 79. § A Vhr. 73. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) Az egyszerűsített adóraktár – valamint a Jöt. 80. § (2a) bekezdése szerinti terméket előállító más adóraktár – engedélyesének a szőlő, a szőlőbor, a sűrített must, a töményített must, a tartósított must, a borászati melléktermék, a Jöt. 80. § (2a) bekezdése szerinti termék és a Jöt. 82. § (1) bekezdése szerinti pezsgő készletének alakulásáról, a szőlőbor palackozását végző más adóraktár engedélyesének pedig kizárólag a hordós szőlőbor készletének alakulásáról a 35. számú melléklet szerinti adattartalommal elszámolást kell készítenie. Az elszámolást a vámhatósághoz a Jöt. szerinti tárgyidőszakot követő hó 15. napjáig kell benyújtani.”

@@ -1,1 +1,0 @@
-## „(5) A 7. § (3a) bekezdés szerinti zárjegymegrendelés alapján a vámhatóság a forgalmazói zárjegyfelhasználót tájékoztatja a megrendelt zárjegyek rendelkezésre bocsátásának – a forgalmazói zárjegyfelhasználóval előre egyeztetett – időpontjáról és helyszínéről.”
