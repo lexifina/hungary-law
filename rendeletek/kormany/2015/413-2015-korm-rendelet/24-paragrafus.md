@@ -1,3 +1,3 @@
-## 23. § A Vr. 13/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 23. §[^5]
 
-## „(5) A betegfogadási listán a várható ellátás időpontját a szolgáltató legalább naptári nap és – ha ez lehetséges – óra szerinti pontossággal állapítja meg.”
+[^5]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

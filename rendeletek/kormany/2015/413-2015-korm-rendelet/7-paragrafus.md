@@ -1,3 +1,0 @@
-## 6. § A Vhr. 38/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A társadalombiztosítási kifizetőhelyet fenntartó foglalkoztató a kifizetett pénzbeli ellátásokról, baleseti táppénzről, továbbá a kifizetőhelyet megillető egyszázalékos mértékű költségtérítés összegéről havonta – az erre rendszeresített nyomtatványon – elszámolást nyújt be a kormányhivatalhoz. Az elszámolást a kormányhivatal, mint kifizetőhely az OEP-hez nyújtja be. Az elszámoláson kell feltüntetni a táppénz-hozzájárulás összegét is. A kormányhivatal és az OEP az elszámolást – a beérkezésétől számított nyolc napon belül – felülvizsgálja és az elszámolt táppénz-hozzájárulással csökkentett összegre vonatkozóan intézkedik a Magyar Államkincstáron keresztül az átutalásról.”

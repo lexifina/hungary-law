@@ -1,10 +1,4 @@
-## 75. § Az Állami Egészségügyi Ellátó Központról szóló 27/2015. (II. 25.) Korm. rendelet 6. §-a a következő (4)–(6) bekezdéssel egészül ki:
-
-## „(4) A Kormány az ÁEEK-et jelöli ki az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 35/A. §-a szerinti Elektronikus Egészségügyi Szolgáltatási Tér működtetőjeként.
-
-## (5) A Kormány az ÁEEK-et jelöli ki az Eüak. 35/H. §-a szerinti önrendelkezési nyilvántartást vezető szervként.
-
-## (6) A Kormány az ÁEEK-et jelöli ki az Eüak. 35/L. §-a szerinti feladatok ellátására kapcsolati kódot kezelő szervként.”
+## 75. §[^26]
 
 ## 18. Záró rendelkezések
 
@@ -15,3 +9,5 @@
 (3) A 48–53. §, a 77. § b) és c) pontja, valamint a 9. és 10. melléklet 2016. május 20-án lép hatályba.
 
 (4) A 21. §, a 22. §, a 24. § és a 26. § b) pontja 2016. július 1-jén lép hatályba.
+
+[^26]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
