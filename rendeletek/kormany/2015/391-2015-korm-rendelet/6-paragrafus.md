@@ -1,4 +1,4 @@
-## 4–5. §[^6]
+## 4–5. §[^8]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. alcím, a 2. § (1), (2), (4), (6) és (7) bekezdése, továbbá a 3. §-a 2016. április 1-jén lép hatályba.
 
-[^6]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
