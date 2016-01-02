@@ -1,1 +1,0 @@
-## 3. § A PM1. rendelet 1. § (1) bekezdés b) pontjában a „Nemzeti Adó- és Vámhivatal Központi Hivatalára, az Informatikai Intézetre, az Integrált Informatikai és Telekommunikációs Intézetre, az alsó és középfokú adóztatási és vámszerveire” szövegrész helyébe a „Nemzeti Adó- és Vámhivatalra” szöveg lép.
