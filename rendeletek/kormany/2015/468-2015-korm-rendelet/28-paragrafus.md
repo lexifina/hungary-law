@@ -1,4 +1,4 @@
-## 27. §[^6]
+## 27. §[^7]
 
 ## 8. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 4. és 5. alcím 2016. március 21-én lép hatályba.
 
-[^6]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
