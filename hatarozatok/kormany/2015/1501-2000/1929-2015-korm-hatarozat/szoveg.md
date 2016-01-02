@@ -32,4 +32,6 @@ Határidő: a források 75%-ának lekötését követő harminc napon belül
 
 6. Ez a határozat 2016. január 1-jén lép hatályba.
 
-7. Hatályát veszti a Széchenyi Kártya Program egyes konstrukciói támogatásának folytatásáról szóló 1637/2012. (XII. 19.) Korm. határozat.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
