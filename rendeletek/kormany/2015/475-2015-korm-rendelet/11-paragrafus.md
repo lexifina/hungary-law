@@ -1,3 +1,3 @@
-## 10. § A Korm. rendelet 10. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 5–10. §[^3]
 
-## „(6) A szállító köteles a Hivatal kérésére a megrendelésekre és a szállításokra vonatkozó dokumentumok megküldésével a keretmegállapodások alapján teljesített megrendelésekről, a szállított kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek mennyiségéről és értékéről a Hivatalt értesíteni.”
+[^3]: Az 5–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

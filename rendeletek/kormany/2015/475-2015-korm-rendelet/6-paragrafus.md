@@ -1,3 +1,0 @@
-## 5. § A Korm. rendelet 7. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az érintett szervezet a Hivatal által közzétett formanyomtatvány használatával köteles e rendelet hatálybalépését követő, vagy az érintett szervezetté válástól számított 30 napon belül a központosított közbeszerzési rendszerbe bejelentkezni és az érintett szervezet kormányzati kommunikációs tevékenységével, valamint a kommunikációs szolgáltatások és termékek beszerzésének lebonyolítására kötött, hatályos szerződésekkel kapcsolatos, a Hivatal által kért adatokat szolgáltatni. A Hivatal a bejelentkezést 15 napon belül visszaigazolja.”

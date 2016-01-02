@@ -1,5 +1,3 @@
-## 3. § A Korm. rendelet 4. § (1) bekezdése a következő g) ponttal egészül ki:
+## 1–4. §[^1]
 
-## (A Hivatal)
-
-## „g) jóváhagyja az érintett szervezetek éves szponzorációs költségkeret-tervét és tervezett szponzorációját.”
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

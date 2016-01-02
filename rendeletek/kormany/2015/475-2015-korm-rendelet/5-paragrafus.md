@@ -1,3 +1,3 @@
-## 4. §[^1]
+## 4. §[^2]
 
-[^1]: A 4. § a 23. § (2) bekezdése alapján 2016. február 1-jén lép hatályba.
+[^2]: A 4. § a 23. § (2) bekezdése alapján 2016. február 1-jén lép hatályba.
