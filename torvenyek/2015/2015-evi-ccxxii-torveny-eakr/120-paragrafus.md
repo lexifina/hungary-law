@@ -1,1 +1,0 @@
-120. § Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény 13. § (4) bekezdésében az „A kártyakibocsátót” szövegrész helyébe az „Az 1. § (4) bekezdés b) pontja szerinti kártyakibocsátót” szöveg lép.
