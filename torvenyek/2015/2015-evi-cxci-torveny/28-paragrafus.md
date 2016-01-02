@@ -1,5 +1,0 @@
-28. § A Tao. törvény 29/A. §-a a következő (16) és (17) bekezdéssel egészül ki:
-
-„(16) E törvénynek az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvénnyel megállapított 22/C. § (3d) bekezdését első alkalommal a 2015–2016-os támogatási időszakra 2016. január 1-jét követően benyújtott új sportfejlesztési programok támogatásával (juttatásával) összefüggésben kell alkalmazni.
-
-(17) Az adózó a 2015. adóévi társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig az adóhatósághoz benyújtott kérelme alapján mentesül e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22/C. § (3d) bekezdése szerinti, a támogatás, kiegészítő támogatás bejelentésére nyitva álló 8 napos határidő elmulasztásával összefüggő, az adózás rendjéről szóló törvény szerinti jogkövetkezmények és a 22/C. § szerinti adókedvezményre vonatkozó jogosultság elvesztése alól.”

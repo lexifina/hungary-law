@@ -1,3 +1,0 @@
-33. § Az Art. 36/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha az állami adó- és vámhatóság a közbeszerzéshez kapcsolódó kifizetés céljából igényelt adóigazolásban általa nyilvántartott köztartozást mutat ki, az adóigazolás kiállításával egyidejűleg a végrehajtás szabályai szerint intézkedik a követelés lefoglalásáról. A kifizetést teljesítő a visszatartás és követelés lefoglalását követően mentesül az egyetemleges felelősség alól. A kifizetést teljesítő az állami adó- és vámhatóság által nyilvántartott köztartozást meghaladó összegű kifizetést a rá egyébként kötelező fizetési határidőben teljesíti az adóhatóság végrehajtási cselekménye előtt.”
