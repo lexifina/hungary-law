@@ -1,4 +1,4 @@
-## 10. § Hatályát veszti a Quaestor Károsultak Kárrendezési Alapjának kárrendezése során a csekély összegű támogatások szabályainak alkalmazásáról szóló 163/2015. (VI. 30.) Korm. rendelet.
+## 10. §[^1]
 
 1. melléklet a 460/2015. (XII. 29.) Korm. rendelethez
 
@@ -105,3 +105,5 @@ _____________________________________________
 4 Amennyiben a támogatásról még nem született döntés.
 
 5 Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. melléklete alapján.
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
