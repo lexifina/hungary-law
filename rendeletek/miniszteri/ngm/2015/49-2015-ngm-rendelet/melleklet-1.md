@@ -1,3 +1,0 @@
-## 17. § A rendelet tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
-
-1. melléklet a 49/2015. (XII. 30.) NGM rendelethez
