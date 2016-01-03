@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-178-00-00
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 2015-178-00-00.0 (közlönyállapot) |
 | 2016-01-01 | 2015. évi CXCI. törvény | 2015-178-00-00.1 |
 | 2016-01-02 | 2010. évi CXXX. törvény | 2015-178-00-00.2 |
+| 2016-01-03 | 2010. évi CXXX. törvény | 2015-178-00-00.3 |
