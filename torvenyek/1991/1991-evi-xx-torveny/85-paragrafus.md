@@ -4,11 +4,7 @@ a)
 
 b)
 
-c) területek zajvédelmi szempontból fokozottan védetté nyilvánítása;
-
-d) csendes övezet kialakításának elrendelése a zaj ellen fokozott védelmet igénylő létesítmény körül;
-
-e) helyi zaj- és rezgésvédelmi szabályok megállapítása;
+c)–e)
 
 f)
 
