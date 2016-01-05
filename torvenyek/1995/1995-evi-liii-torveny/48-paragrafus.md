@@ -1,4 +1,4 @@
-48. § (1) A települési önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat esetén a környezeti zajjal összefüggő szabályozás tekintetében a kerületi önkormányzat képviselő testülete, egyéb környezetvédelmi előírásokkal összefüggésben a fővárosi közgyűlés önkormányzati rendeletben – törvényben vagy kormányrendeletben meghatározott módon és mértékben – illetékességi területére a más jogszabályokban előírtaknál kizárólag nagyobb mértékben korlátozó környezetvédelmi előírásokat határozhat meg.
+48. § (1) A települési önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat esetén a fővárosi közgyűlés önkormányzati rendeletben – törvényben vagy kormányrendeletben meghatározott módon és mértékben – illetékességi területére a más jogszabályokban előírtaknál kizárólag nagyobb mértékben korlátozó környezetvédelmi előírásokat határozhat meg.
 
 (2) A települési önkormányzat képviselőtestülete önkormányzati rendeletben más törvény hatálya alá nem tartozó egyes fás szárú növények védelme érdekében tulajdonjogot korlátozó előírásokat határozhat meg.
 
@@ -8,11 +8,27 @@
 
 a) a füstködriadó terv,
 
-b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sajátos, valamint az avar és kerti hulladék égetésére vonatkozó szabályok rendelettel történő megállapítása, valamint
+b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sajátos, valamint az avar és kerti hulladék égetésére vonatkozó szabályok rendelettel történő megállapítása,
 
-c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével kapcsolatos eljárásban való közreműködés.
+c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével kapcsolatos eljárásban való közreműködés,
 
-(5) A (4) bekezdés a)–b) pontjában meghatározottak rendelettel történő megállapítása Budapesten a Fővárosi Közgyűlés hatáskörébe tartozik.
+d) területek zajvédelmi szempontból fokozottan védetté nyilvánítása,
+
+e) csendes övezet kijelölése, valamint
+
+f) a helyi zajvédelmi szabályok megállapítása.
+
+(5) A (4) bekezdésben meghatározott feladatok végrehajtására a fővárosban
+
+a) az a) és a b) pont tekintetében a fővárosi közgyűlés,
+
+b) a d)–f) pont tekintetében
+
+ba) a fővárosi kerületi képviselő-testület,
+
+bb) a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi közgyűlés
+
+alkothat rendeletet.
 
 (6) A polgármester (főpolgármester) levegőtisztaságvédelmi feladatkörébe, illetőleg államigazgatási, hatósági hatáskörébe tartozik:
 

@@ -10,7 +10,9 @@ ac) a környezetvédelmi igazgatási szervet,
 
 ad) a vízvédelmi igazgatási szervet,
 
-ae) a környezetvédelmi és természetvédelmi hatósági eljárásban szakértőként kirendelhető szerveket, továbbá
+ae) a környezetvédelmi és természetvédelmi hatósági eljárásban szakértőként kirendelhető szerveket,
+
+af) a meteorológiai tevékenységgel összefüggő állami feladatokat ellátó szerveket, továbbá
 
 b) határozza meg
 

@@ -88,7 +88,11 @@
 
 35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait;
 
-36. a szakértőként eljáró környezetvédelmi és természetvédelmi hatóság szakértői díját.
+36. a szakértőként eljáró környezetvédelmi és természetvédelmi hatóság szakértői díját;
+
+37. a meteorológiai tevékenységgel kapcsolatos részletes szabályokat;
+
+38. a meteorológiai tevékenységgel összefüggő állami feladatokat ellátó szervek feladat- és hatáskörét.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
@@ -100,15 +104,21 @@ c) az elérhető legjobb technika alkalmazására vonatkozó szabályokat;
 
 d) a környezetvédelmi megbízott alkalmazási és képesítési feltételeit;
 
-e) a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák minősítésének részletes szabályait, valamint a minősítő hatóságok és intézmények kijelölésének szabályait, a minősítés rendjét.
+e) a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák minősítésének részletes szabályait, valamint a minősítő hatóságok és intézmények kijelölésének szabályait, a minősítés rendjét;
+
+f) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével összefüggő szabályokat;
+
+g) a légszennyező anyagok terjedésének vizsgálatával, a helyhez kötött légszennyező források kibocsátásának mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint a helyhez kötött légszennyező források üzemeltetésének levegőtisztaság-védelmi követelményeivel kapcsolatos szabályokat;
+
+h) a légszennyezettség szempontjából ökológiailag sérülékeny területeket, valamint az ország területének a légszennyezettség alapján zónákba történő besorolását.
 
 (8a) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben, rendeletben állapítsa meg
 
-a) a légszennyezettség mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint annak mérésére szolgáló mérőhálózat telepítésével, üzemeltetésével és működésével, továbbá a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével összefüggő szabályokat;
+a) a légszennyezettség mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint annak mérésére szolgáló mérőhálózat telepítésével, üzemeltetésével és működésével összefüggő szabályokat;
 
-b) a légszennyező anyagok terjedése, az időjárási tényezőknek a légszennyezettségre gyakorolt hatása, valamint a helyhez kötött légszennyező források kibocsátása mérésével, vizsgálatával, ellenőrzésével és értékelésével, valamint a helyhez kötött légszennyező források üzemeltetésének levegőtisztaság-védelmi követelményeivel kapcsolatos szabályokat;
+b) a légszennyező anyagok veszélyességi fokozatba sorolását.
 
-c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölését, valamint az ország területének a légszennyezettség alapján zónákba történő besorolását.
+c)
 
 (8b) Felhatalmazást kap a miniszter, hogy a vízvédelemért felelős miniszterrel egyetértésben, rendeletben állapítsa meg
 
@@ -122,11 +132,9 @@ b) a kármentesítési tényfeltárással kapcsolatos részletes szabályokat.
 
 (8e) Felhatalmazást kap a miniszter, hogy
 
-a) a levegő és a zaj vonatkozásában az egészségügyért felelős miniszter egyetértésével kiadott,
+a) a földtani közeg érintettsége esetén a vízvédelemért felelős miniszter egyetértésével kiadott,
 
-b) a földtani közeg érintettsége esetén a vízvédelemért felelős miniszter egyetértésével kiadott,
-
-c) az a) és b) pont alá nem tartozó esetekben önállóan kiadott
+b) az a) pont és a (8a) bekezdés a) pontja alá nem tartozó esetekben
 
 rendeletben állapítsa meg a környezeti elemek – ide nem értve a vizeket – védelmére, a szennyező forrásokra, illetve a környezeti elemek terhelésének, szennyezettségének mérésére, ellenőrzésére, továbbá a környezetet veszélyeztető hatások elleni védelemre vonatkozó részletes szakmai szabályokat.
 
@@ -176,16 +184,16 @@ a) a külön jogszabály szerinti nitrátérzékeny területeket a MePAR szerint
 
 b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez szükséges cselekvési program részletes szabályait és az ezzel összefüggő adatszolgáltatás és nyilvántartás rendjét meghatározza.
 
-(15) Felhatalmazást kap a miniszter, hogy – a vizekre vonatkozó határértékek kivételével – az igénybevételi, kibocsátási és szennyezettségi határértékeket
+(15) Felhatalmazást kap a miniszter, hogy
 
-a) levegő és zaj vonatkozásában az egészségügyért felelős miniszter egyetértésével kiadott,
+a) a levegő, a környezeti zaj és környezeti rezgés vonatkozásában a szennyezettségi határértéket az egészségügyért felelős miniszter egyetértésével kiadott,
 
-b) földtani közeg vonatkozásában a vízvédelemért felelős miniszter egyetértésével kiadott,
+b) a földtani közeg vonatkozásában az igénybevételi, kibocsátási és szennyezettségi határértékeket a vízvédelemért felelős miniszter egyetértésével kiadott,
 
-c) az a) és b)pont alá nem tartozó esetekben önállóan kiadott
+c) az a) és b) pont alá nem tartozó esetekben a határértéket – a vizekre vonatkozó határértékek kivételével –
 
 rendeletben határozza meg.
 
 (15a) Felhatalmazást kap a vízvédelemért felelős miniszter, hogy a miniszterrel, az egészségügyért felelős miniszterrel, valamint talajvédelem érintettsége esetén a földügyért felelős miniszterrel egyetértésben kiadott rendeletben határozza meg a vizekre vonatkozó igénybevételi, kibocsátási és szennyezettségi határértékeket.
 
-(16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni, továbbá a feladatok során alkalmazható környezetvédelmi eljárások, technológiák, anyagok, készletek fajtáját és mennyiségét.
+(16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni.
