@@ -6,6 +6,6 @@
 
 (3) Az ingatlan-nyilvántartási bejegyzés jogcímeként az eredeti jogcímet kell feltüntetni.
 
-(4)[^51] Az ingatlan-nyilvántartási bejegyzésről szóló határozatot és a változási vázrajz másolatát a járási hivatal a jogi szolgáltató útján közli az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 52. § (3) bekezdése szerint.
+(4)[^76] Az ingatlan-nyilvántartási bejegyzésről szóló határozatot és a változási vázrajz másolatát a járási hivatal az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 52. § (1) bekezdése szerint közli, kivéve teljes körű egyezség, egyezség és sorsolási megállapodás esetén, amikor az Inytv. 52. § (3) bekezdése szerint közli azt.
 
-[^51]: A 23. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^76]: A 23. § (4) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.

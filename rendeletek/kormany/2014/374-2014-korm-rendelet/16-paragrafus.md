@@ -2,8 +2,13 @@
 
 (2) Ha a tulajdonostársak között használati megosztásról szóló megállapodás fennáll, akkor, az Fkbt. 12/J. §-ában foglaltak szerint kell eljárni.
 
-(3)[^38] Teljes körű egyezség esetén a járási hivatal a 11. § (1) bekezdés szerinti határozatot hatályon kívül helyezi.
+(3)[^59] Teljes körű egyezség esetén a járási hivatal
 
-(4) Ha a teljes körű egyezség a 9. § (1) és (3) bekezdésben meghatározott földrészletek tulajdonjogának változását érintő megállapodást is tartalmaz, azt – ha más jogszabályi előírásba nem ütközik – a teljes körű egyezségnek megfelelően kell az ingatlan-nyilvántartásba bejegyezni.
+a) nem hoz a 11. § (1) bekezdés szerinti határozatot, vagy
 
-[^38]: A 16. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+b) a 11. § (1) bekezdés szerinti határozatát hatályon kívül helyezi.
+
+(4)[^60] Ha a teljes körű egyezség földrészlet tulajdonjogának változását érintő megállapodást is tartalmaz, azt – ha jogszabályi előírásba nem ütközik, figyelemmel a mező- és erdőgazdasági földek forgalmáról szóló törvény rendelkezéseire – a teljes körű egyezségnek megfelelően kell az ingatlan-nyilvántartásba bejegyezni.
+
+[^59]: A 16. § (3) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^60]: A 16. § (4) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
