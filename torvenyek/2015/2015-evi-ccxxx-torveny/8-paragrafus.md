@@ -1,1 +1,0 @@
-8. § Hatályát veszti a helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény 85. § (1) bekezdés c)–e) pontja.
