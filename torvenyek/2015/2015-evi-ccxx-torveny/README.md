@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-220-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2016-01-06 | 2015. évi CCXX. törvény | 2015-220-00-00.0 (közlönyállapot) |
+| 2016-01-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-220-00-00.1 |
