@@ -4,6 +4,28 @@ Az e törvény hatálya alá tartozó gyorsforgalmi utak
 
 |
 
+|
+
+A
+
+|
+
+B
+
+|
+
+C
+
+|
+
+D
+
+|
+
+1.
+
+|
+
 Út betű- és számjele
 
 |
@@ -12,11 +34,17 @@ Hosszú távú úttípus
 
 |
 
-Szakasz (beruházás jellege)
+Szakasz
+
+(beruházás jellege)
 
 |
 
 Nagytávú úttípus
+
+|
+
+2.
 
 |
 
@@ -32,7 +60,11 @@ teljes útgyűrű (új út építése, kapacitásbővítés)
 
 |
 
-autóút
+autópálya
+
+|
+
+3.
 
 |
 
@@ -52,6 +84,10 @@ autópálya
 
 |
 
+4.
+
+|
+
 M1
 
 |
@@ -68,6 +104,10 @@ autópálya
 
 |
 
+5.
+
+|
+
 M2
 
 |
@@ -80,7 +120,11 @@ M0 – országhatár (új út építése, kapacitásbővítés)
 
 |
 
-autóút
+autópálya
+
+|
+
+6.
 
 |
 
@@ -92,11 +136,15 @@ autópálya
 
 |
 
-M0 – országhatár (új út építése, kapacitásbővítés)
+Vásárosnamény – Beregdaróc, országhatár (új út építése)
 
 |
 
 autópálya
+
+|
+
+7.
 
 |
 
@@ -104,7 +152,7 @@ M4
 
 |
 
-autópálya
+autóút/autópálya
 
 |
 
@@ -116,19 +164,7 @@ autópálya
 
 |
 
-M5
-
-|
-
-autópálya
-
-|
-
-M0 – Újhartyán (kapacitásbővítés)
-
-|
-
-autópálya
+8.
 
 |
 
@@ -136,15 +172,19 @@ M6
 
 |
 
-autóút
+autópálya
 
 |
 
-Boly – országhatár (új út építése)
+Bóly – Ivándárda, országhatár (új út építése)
 
 |
 
 autópálya
+
+|
+
+9.
 
 |
 
@@ -164,11 +204,15 @@ autópálya
 
 |
 
+10.
+
+|
+
 M8
 
 |
 
-autóút/autópálya
+autóút
 
 |
 
@@ -176,7 +220,11 @@ országhatár – Vasvár és Veszprém – Jászalsószentgyörgy (új út ép�
 
 |
 
-autóút/autópálya
+autóút
+
+|
+
+11.
 
 |
 
@@ -196,6 +244,10 @@ autóút
 
 |
 
+12.
+
+|
+
 M10
 
 |
@@ -209,6 +261,30 @@ Budapest – Kesztölc (új út építése)
 |
 
 autóút
+
+|
+
+13.
+
+|
+
+R11
+
+|
+
+gyorsút
+
+|
+
+M1 – Esztergom (új út építése)
+
+|
+
+autóút
+
+|
+
+14.
 
 |
 
@@ -228,11 +304,75 @@ autópálya
 
 |
 
-M30
+15.
+
+|
+
+R21
+
+|
+
+gyorsút
+
+|
+
+Hatvan – Salgótarján – Somoskőújfalu (új út építése, kapacitásbővítés)
 
 |
 
 autóút
+
+|
+
+16.
+
+|
+
+R23
+
+|
+
+gyorsút
+
+|
+
+Bátonyterenye – Fedémes – Ózd (új út építése, kapacitásbővítés)
+
+|
+
+autóút
+
+|
+
+17.
+
+|
+
+M25
+
+|
+
+autóút
+
+|
+
+M3 – Füzesabony – Eger (új út építése, kapacitásbővítés)
+
+|
+
+autópálya
+
+|
+
+18.
+
+|
+
+M30
+
+|
+
+autópálya
 
 |
 
@@ -240,7 +380,11 @@ Miskolc – országhatár (új út építése, kapacitásbővítés)
 
 |
 
-autóút
+autópálya
+
+|
+
+19.
 
 |
 
@@ -252,11 +396,15 @@ autóút
 
 |
 
-Vásárosnamény (M3) – Kisvárda kelet (autóút) és Jéke – 4. sz. főút közötti bekötés, Kisvárda és Jéke elkerülővel (összekötő út) (új út építése)
+Vásárosnamény (M3) – Záhony, Kisvárda kelet (autóút) és Jéke – 4. sz. főút közötti bekötés, Kisvárda és Jéke elkerülővel (összekötő út) (új út építése)
 
 |
 
-autóút
+autópálya
+
+|
+
+20.
 
 |
 
@@ -268,9 +416,7 @@ autópálya
 
 |
 
-Debrecen – Berettyóújfalu (a Debrecen déli elkerülővel M35 – 47. sz. főút között – 2x1 főút)
-
-(új út építése)
+Debrecen – Berettyóújfalu (a Debrecen déli elkerülővel M35 – 47. sz. főút között – 2x1 főút) (új út építése)
 
 |
 
@@ -278,19 +424,7 @@ autópálya
 
 |
 
-M43
-
-|
-
-autópálya
-
-|
-
-Makó – országhatár (új út építése)
-
-|
-
-autópálya
+21.
 
 |
 
@@ -298,7 +432,7 @@ M44
 
 |
 
-autóút
+gyorsút/autóút
 
 |
 
@@ -306,15 +440,19 @@ Kecskemét térsége (M8) – Békéscsaba (új út építése)
 
 |
 
-autóút
+autópálya
 
 |
 
-M49
+22.
 
 |
 
-autóút
+R49
+
+|
+
+gyorsút
 
 |
 
@@ -326,7 +464,39 @@ autóút
 
 |
 
+23.
+
+|
+
 M60
+
+|
+
+gyorsút/autóút
+
+|
+
+Pécs – Barcs, országhatár (új út építése)
+
+|
+
+autópálya
+
+|
+
+24.
+
+|
+
+R67
+
+|
+
+gyorsút
+
+|
+
+M7 – Balatonlelle – Kaposvár (új út építése, kapacitásbővítés)
 
 |
 
@@ -334,13 +504,7 @@ autóút
 
 |
 
-58. sz. főút – Pellérd délkelet és főúti visszakötés
-
-a 6. sz. főútig (új út építése)
-
-|
-
-autópálya
+25.
 
 |
 
@@ -360,7 +524,19 @@ autópálya
 
 |
 
-M75
+26.
+
+|
+
+R76
+
+|
+
+gyorsút
+
+|
+
+M7 – Balatonszentgyörgy – Keszthely – Zalaegerszeg (új út építése, kapacitásbővítés)
 
 |
 
@@ -368,11 +544,27 @@ autóút
 
 |
 
-Pacsa – Fenékpuszta – M7 (új út építése)
+27.
+
+|
+
+R83
+
+|
+
+gyorsút
+
+|
+
+M1 – Pápa (új út építése, kapacitásbővítés)
 
 |
 
 autóút
+
+|
+
+28.
 
 |
 
@@ -384,11 +576,15 @@ autóút
 
 |
 
-Győr – országhatár (új út építése)
+Csorna – Sopron, országhatár (új út építése)
 
 |
 
-autóút
+autópálya
+
+|
+
+29.
 
 |
 
@@ -396,11 +592,11 @@ M86
 
 |
 
-főút/autóút
+autóút
 
 |
 
-M1 – Szombathely (új út építése, kapacitásbővítés)
+Csorna – Szombathely (új út építése, kapacitásbővítés)
 
 |
 

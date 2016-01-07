@@ -44,6 +44,6 @@ a)–b)
 
 c)
 
-(8) A gyorsforgalmi közúthálózat megvalósításáról, a megvalósítás aktuális helyzetéről a közvéleményt tájékoztatni kell.
+(8) A gyorsforgalmi közúthálózat megvalósításáról és a megvalósítás aktuális helyzetéről a közvéleményt tájékoztatni kell.
 
 (9)
