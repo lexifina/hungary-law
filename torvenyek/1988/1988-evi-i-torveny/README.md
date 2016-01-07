@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2015-12-31 | 2015. évi CCXXV. törvény | 1988-1-00-00.80 |
 | 2016-01-01 | 2015. évi CCXXV. törvény | 1988-1-00-00.81 |
 | 2016-01-02 | 2015. évi CCXXV. törvény | 1988-1-00-00.82 |
+| 2016-01-07 | 2015. évi CCXXV. törvény | 1988-1-00-00.83 |

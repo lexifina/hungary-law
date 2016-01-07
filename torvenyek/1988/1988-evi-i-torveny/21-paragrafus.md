@@ -8,7 +8,7 @@ c) a járműforgalom irányítására szolgáló fényjelző készülék jelzés
 
 d)
 
-e) az autópálya leálló sávjának igénybevételére,
+e) a gyorsforgalmi út leálló sávjának, leállóöblének igénybevételére,
 
 f) a behajtási tilalomra, a korlátozott övezetre (zóna), a kötelező haladási irányra,
 
