@@ -6,7 +6,7 @@
 
 a) a közútnak a közúti járművek közlekedésére szolgáló területe;
 
-b) az autópályától, az autóúttól, illetve lakott területen kívül az egy-, illetve kétszámjegyű főútvonaltól számított 100 méteren belüli terület;
+b) az autópályától, az autóúttól, a gyorsúttól, illetve lakott területen kívül az egy-, illetve kétszámjegyű főútvonaltól számított 100 méteren belüli terület;
 
 c) lakott területen a főútvonaltól számított 50 méteren belüli terület;
 
