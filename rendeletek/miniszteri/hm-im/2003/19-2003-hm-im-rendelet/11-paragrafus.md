@@ -1,5 +1,3 @@
-## 10. §[^21]
-
 11. § (1) A nyomozás során kizárólag a parancsnok döntési hatáskörébe tartozik:
 
 a) a nyomozótiszt kizárása [Be. 39. § (2) bekezdés];
@@ -60,7 +58,6 @@ l) ideiglenes kényszergyógykezelés elrendelésének indítványozására [Be.
 
 m)[^34] katonai szolgálatot teljesítő tanú védelme érdekében annak más szolgálati helyre történő vezénylésére vagy áthelyezésére [Be. 478. § (1) bekezdés].
 
-[^21]: A 10. §-t a 24/2006. (IX. 7.) HM–IRM együttes rendelet 12. § (2) bekezdése hatályon kívül helyezte.
 [^22]: A 11. § (1) bekezdésének b) pontja a 24/2006. (IX. 7.) HM–IRM együttes rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^23]: A 11. § (1) bekezdésének e) pontja a 24/2006. (IX. 7.) HM–IRM együttes rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^24]: A 11. § (1) bekezdésének g) pontja a 24/2006. (IX. 7.) HM–IRM együttes rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
