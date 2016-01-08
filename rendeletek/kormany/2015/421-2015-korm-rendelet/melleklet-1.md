@@ -1,4 +1,4 @@
-## 8. §[^2]
+## 8. §[^1]
 
 1. melléklet a 421/2015. (XII. 23.) Korm. rendelethez
 
@@ -10,4 +10,4 @@ b) az a) pontban foglaltakon kívül, egyéb települések esetében: 50 Ft/táb
 
 A meghatározott díjak a mindenkori általános forgalmi adót nem tartalmazzák.
 
-[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
