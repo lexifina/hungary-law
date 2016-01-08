@@ -1,3 +1,0 @@
-3. § (1) A tej- és tejtermék-ágazati termelői szervezetként csak az e rendeletben, valamint a tanácsi rendeletben meghatározott feltételeket teljesítő jogi személy ismerhető el. Az elismerés iránti kérelemről a vidékfejlesztési miniszter (a továbbiakban: miniszter) dönt.
-
-(2) A termelő által közös ártárgyalásra felajánlott tej mennyiségére vonatkozó elismerési feltétel szempontjából az elháríthatatlan külső ok (vis maior) miatt elszenvedett, az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló miniszteri rendelet szerint megállapított kiesett nyerstej mennyiségét az elismert jogi személy tej- és tejtermék-ágazati termelői szervezet javára figyelembe kell venni.
