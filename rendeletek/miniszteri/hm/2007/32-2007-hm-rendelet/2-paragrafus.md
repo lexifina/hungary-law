@@ -12,14 +12,17 @@
 
 6. kiadmányozó szervek:
 
-a)[^3] a HM protokoll és rendezvényszervezésért felelős szervezete,
+a)[^4] a HM protokoll és rendezvényszervezésért felelős szervezete,
 
-b)[^4] az MH Összhaderőnemi Parancsnokság, ha a kiutazást a parancsnoka hagyja jóvá vagy engedélyezi,
+b)[^5] az MH Összhaderőnemi Parancsnokság, ha a kiutazást a parancsnoka hagyja jóvá vagy engedélyezi,
 
 c) a honvédelmi miniszter erre irányuló felhatalmazása esetén a tárca külföldi képviseletét ellátó szervezet vezetője vagy a külföldi magyar katonai képviselet vezetője,
 
-d)[^5] a Honvéd Vezérkar főnöke erre irányuló felhatalmazása esetén a tartósan külföldön állomásozó MH csapat (kontingens) parancsnoka, a csapat (kontingens) állományába tartozó személyek határátlépése esetén.
+d)[^6] a Honvéd Vezérkar főnöke erre irányuló felhatalmazása esetén a tartósan külföldön állomásozó MH csapat (kontingens) parancsnoka, a csapat (kontingens) állományába tartozó személyek határátlépése esetén,
 
-[^3]: A 2. § 6. pont a) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § 6. pont b) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
-[^5]: A 2. § 6. pont d) alpontja a 23/2012. (XII. 18.) Hm rendelet 59. § b) pontja szerint módosított szöveg.
+e)[^7] az MH Pápa Bázisrepülőtér parancsnoka, a Nehéz Légiszállító Ezred állományában szolgálatot teljesítő magyar személyi állomány vonatkozásában, az alakulat feladatainak végrehajtása esetén.
+
+[^4]: A 2. § 6. pont a) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § 6. pont b) alpontja a 11/2011. (X. 5.) HM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 2. § 6. pont d) alpontja a 23/2012. (XII. 18.) Hm rendelet 59. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § 6. pont e) alpontját a 2/2016. (I. 7.) HM rendelet 1. §-a iktatta be.

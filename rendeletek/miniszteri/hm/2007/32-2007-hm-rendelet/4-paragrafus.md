@@ -1,10 +1,10 @@
-4. § (1)[^7] A kiadmányozó szerv vezetője vagy parancsnoka az alárendeltségébe tartozó szerv állományából legfeljebb 3–3 fő felelős beosztású személyt (a továbbiakban: kiadmányozó) jelöl ki a kiadmányozási feladatok ellátására, és a kiadmányozók aláírás-mintáit, valamint a személyekhez kijelölt sorszámozott parancsnoki körbélyegzők lenyomatmintáit négy példányban haladéktalanul megküldi a HM katonai vámügyi és határforgalmi feladatokért felelős szervezetének. A HM katonai vámügyi és határforgalmi feladatokért felelős szervezete a megküldött minták egyik példányát irattározza, a többi példányt haladéktalanul továbbítja a feladat- és hatáskörrel rendelkező magyar és külföldi hatóságok, valamint a HM informatikai és információvédelmi feladatokért felelős szervezete részére.
+4. § (1)[^9] A kiadmányozó szerv vezetője vagy parancsnoka az alárendeltségébe tartozó szerv állományából legfeljebb 3–3 fő felelős beosztású személyt (a továbbiakban: kiadmányozó) jelöl ki a kiadmányozási feladatok ellátására, és a kiadmányozók aláírás-mintáit, valamint a személyekhez kijelölt sorszámozott parancsnoki körbélyegzők lenyomatmintáit négy példányban haladéktalanul megküldi a HM katonai vámügyi és határforgalmi feladatokért felelős szervezetének. A HM katonai vámügyi és határforgalmi feladatokért felelős szervezete a megküldött minták egyik példányát irattározza, a többi példányt haladéktalanul továbbítja a feladat- és hatáskörrel rendelkező magyar és külföldi hatóságok, valamint a HM informatikai és információvédelmi feladatokért felelős szervezete részére.
 
-(2)[^8] A kiadmányozók személyében bekövetkezett változásról a kiadmányozó szerv vezetője haladéktalanul, az (1) bekezdésben meghatározott minták megküldésével egyidejűleg tájékoztatja a HM katonai vámügyi és határforgalmi feladatokért felelős szervezetét.
+(2)[^10] A kiadmányozók személyében bekövetkezett változásról a kiadmányozó szerv vezetője haladéktalanul, az (1) bekezdésben meghatározott minták megküldésével egyidejűleg tájékoztatja a HM katonai vámügyi és határforgalmi feladatokért felelős szervezetét.
 
 (3) A kiadmányozó szervek a NATO menetparancs kiadmányozása és kezelése során a szigorú számadás szabályai szerint (sorszámozás, nyilvántartás és elszámolási kötelezettség) kötelesek eljárni.
 
-(4)[^9] A kiadmányozó szervek vezetői a Magyar Honvédség Titokvédelmi Szabályzata (a továbbiakban: MH TSZ) szerint kötelesek megtenni a szükséges intézkedéseket a NATO menetparancs jogszerű kiadmányozásáért, valamint a menetparancs és a sorszámos körbélyegző megfelelő tárolásáért, kezeléséért és elszámolásáért.
+(4)[^11] A kiadmányozó szervek vezetői a Magyar Honvédség Titokvédelmi Szabályzata (a továbbiakban: MH TSZ) szerint kötelesek megtenni a szükséges intézkedéseket a NATO menetparancs jogszerű kiadmányozásáért, valamint a menetparancs és a sorszámos körbélyegző megfelelő tárolásáért, kezeléséért és elszámolásáért.
 
 (5) A kiadmányozó szervek kötelesek elkészíteni:
 
@@ -34,6 +34,6 @@ h) a menetparancs visszavételének ideje;
 
 i) megjegyzés.
 
-[^7]: A 4. § (1) bekezdése a 11/2011. (X. 5.) HM rendelet 3. §-ával megállapított szöveg.
-[^8]: A 4. § (2) bekezdése a 11/2011. (X. 5.) HM rendelet 3. §-ával megállapított szöveg.
-[^9]: A 4. § (4) bekezdése a 11/2010. (V. 12.) HM rendelet 4. § a) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdése a 11/2011. (X. 5.) HM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 4. § (2) bekezdése a 11/2011. (X. 5.) HM rendelet 3. §-ával megállapított szöveg.
+[^11]: A 4. § (4) bekezdése a 11/2010. (V. 12.) HM rendelet 4. § a) pontja szerint módosított szöveg.
