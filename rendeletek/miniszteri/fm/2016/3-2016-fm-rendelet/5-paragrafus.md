@@ -1,0 +1,3 @@
+5. § (1) Az elismert tej- és tejtermék-ágazati termelői szervezet köteles a 3. § (2) és (3) bekezdésében meghatározott dokumentumokban bekövetkezett változásról szóló értesítést, valamint elismerési feltételt érintő változás bekövetkezése esetén az elismerés módosítása iránti kérelmet – a változás bekövetkezésétől számított tizenöt munkanapon belül – papír alapon és a minisztérium számítástechnikai rendszerével kompatibilis elektronikus adathordozón benyújtani a minisztériumhoz. Az elismerés módosítása iránti kérelemről a miniszter döntést hoz.
+
+(2) A tej- és tejtermék-ágazati termelői szervezetnek minden év március 1-jéig beszámolót kell küldenie a miniszter részére az elismerés hatálya alá tartozó tevékenységének előző naptári évi végrehajtásáról.

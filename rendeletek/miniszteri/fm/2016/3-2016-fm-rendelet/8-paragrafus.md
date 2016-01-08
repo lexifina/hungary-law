@@ -1,0 +1,15 @@
+## 5. Ártárgyalás, adatszolgáltatás
+
+8. § (1) A tej- és tejtermék-ágazati termelői szervezet, valamint a tej- és tejtermék-ágazati termelői szervezetek társulása a közös piacszervezési rendelet 149. cikkében meghatározott ártárgyalás megkezdése előtt legalább húsz munkanappal köteles írásban értesíteni a minisztert az ártárgyalás tárgyát képező, a tej- és tejtermék-ágazati termelői szervezet vagy a tej- és tejtermék-ágazati termelői szervezetek társulása tagjai által előállított, becsült tejtermelési mennyiségről, valamint a szállítás várható időszakáról.
+
+(2) Az (1) bekezdésben meghatározott ártárgyalás sikertelensége esetén a tej- és tejtermék-ágazati termelői szervezet, valamint a tej- és tejtermék-ágazati termelői szervezetek társulása nem köteles megküldeni az értesítést, ha a korábbi értesítéshez képest változatlan feltételekkel – úgy, mint becsült tejtermelési mennyiség, a szállítás időszaka, az ártárgyalás által érintett tagállamok – kezdeményez újabb ártárgyalást.
+
+(3) A tej- és tejtermék-ágazati termelői szervezet értékesíthető termelési mennyiségének összegébe csak az a tag által biztosított termelési mennyiség számítható be, amelyre vonatkozóan a tag a tej- és tejtermék-ágazati termelői szervezet által lefolytatott ártárgyalások eredményeként létrejött értékesítésre irányuló szerződés esetén vállalja a szerződéses kötelezettség teljesítését.
+
+(4) A (3) bekezdésében foglaltak alapján a tag köteles az elismerési kérelem benyújtását megelőző év április 1-jével kezdődő tizenkét hónapos időszak – juh- és kecsketej értékesítése esetén az elismerési kérelem benyújtását megelőző naptári év – alatt értékesített tej legalább 70%-át közös ártárgyalásra felajánlani a tej- és tejtermék-ágazati termelői szervezetnek.
+
+(5) A tag által közös ártárgyalásra felajánlott tej mennyiségére vonatkozó elismerési feltétel szempontjából az elháríthatatlan külső ok (vis maior) miatt – az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló miniszteri rendelet szerint megállapított – kiesett tej mennyiségét az elismert tej- és tejtermék-ágazati termelői szervezet javára figyelembe kell venni.
+
+(6) A közös piacszervezési rendeletben és a végrehajtási rendeletben foglaltak megvalósulása érdekében a tej- és tejtermék-ágazati termelői szervezet, valamint a tej- és tejtermék-ágazati termelői szervezetek társulása köteles a tagok tejtermelésének értékesítésére a közös ártárgyalások eredményeként létrejött szerződésekről és az ezen szerződések alapján ténylegesen leszállított tej mennyiségéről nyilvántartást vezetni és havi kimutatást készíteni.
+
+(7) A tej- és tejtermék-ágazati termelői szervezet, valamint a tej- és tejtermék-ágazati termelői szervezetek társulása az előző naptári év viszonylatában a (6) bekezdésben részletezett szempontok szerinti nyilvántartás alapján készített kimutatás-összesítőt minden év január 31-ig köteles a miniszter részére írásban és elektronikus formában is megküldeni.
