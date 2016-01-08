@@ -6,14 +6,15 @@
 
 a) az MH katonai szervezeteire és intézményeire (a továbbiakban együtt: honvédségi szervezet), a katonai nemzetbiztonsági szolgálatokra, valamint
 
-b)[^1] az MH hivatásos, szerződéses katonaállományára, önkéntes tartalékos állományára, köztisztviselőire, közalkalmazottaira és munkavállalóira, valamint a katonai oktatási intézmények hallgatóira (a továbbiakban együtt: személyi állomány),
+b)[^1] az MH hivatásos, szerződéses katonaállományára, önkéntes tartalékos állományára, kormánytisztviselőire és kormányzati ügykezelőire, közalkalmazottaira és munkavállalóira, valamint a honvéd tisztjelöltekre és honvéd altiszt-jelöltekre (a továbbiakban együtt: személyi állomány),
 
-c) a Magyar Köztársaság területén tartózkodó külföldi fegyveres erőkre.
+c)[^2] a Magyarország területén tartózkodó külföldi fegyveres erőkre.
 
-(2)–(3)[^2]
+(2)–(3)[^3]
 
-(4)[^3] E rendelet szabályait a külföldön teljesített szolgálat közegészségügyi felügyelete során is alkalmazni kell.
+(4)[^4] E rendelet szabályait a külföldön teljesített szolgálat közegészségügyi felügyelete során is alkalmazni kell.
 
-[^1]: A 2. § (1) bekezdésének b) pontja a 19/2006. (VII. 24.) HM–EüM együttes rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (2)–(3) bekezdését a 19/2006. (VII. 24.) HM–EüM együttes rendelet 10. §-a hatályon kívül helyezte.
-[^3]: A 2. § (4) bekezdését a 19/2006. (VII. 24.) HM–EüM együttes rendelet 1. § (2) bekezdése iktatta be.
+[^1]: A 2. § (1) bekezdésének b) pontja a 19/2006. (VII. 24.) HM–EüM együttes rendelet 1. § (1) bekezdésével megállapított, az 1/2016. (I. 7.) HM rendelet 1. § a) és b) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés c) pontja az 1/2016. (I. 7.) HM rendelet 1. § c) pontja szerint módosított szöveg.
+[^3]: A 2. § (2)–(3) bekezdését a 19/2006. (VII. 24.) HM–EüM együttes rendelet 10. §-a hatályon kívül helyezte.
+[^4]: A 2. § (4) bekezdését a 19/2006. (VII. 24.) HM–EüM együttes rendelet 1. § (2) bekezdése iktatta be.
