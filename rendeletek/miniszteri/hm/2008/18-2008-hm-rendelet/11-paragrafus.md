@@ -2,7 +2,7 @@
 
 11. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg hatályát veszti a tűzvédelem és a műszaki mentés honvédelmi ágazatra vonatkozó különös szabályairól szóló 31/2001. (XII. 28.) HM rendelet.
 
-Melléklet a 18/2008. (VIII. 6.) HM rendelethez
+Melléklet a 18/2008. (VIII. 6.) HM rendelethez[^18]
 
 Jelentés tűzesetről
 
@@ -22,7 +22,7 @@ Egyéb helyen:
 
 | 4. A tűzriadó elrendelésének ideje: | 20.... év .... hó ..... nap .... óra .... perc |
 
-| 5. Az önkormányzati tűzoltóság értesítésének ideje: | 20.... év .... hó ..... nap .... óra .... perc |
+| 5. A hivatásos tűzoltóság értesítésének ideje: | 20.... év .... hó ..... nap .... óra .... perc |
 
 | 6. A tűz eloltásának ideje: | 20.... év .... hó ..... nap .... óra .... perc |
 
@@ -30,7 +30,7 @@ Egyéb helyen:
 
 rendfokozata) elérhetősége:
 
-8. Az önkormányzati tűzoltóság riasztási fokozata:
+8. A hivatásos tűzoltóság riasztási fokozata:
 
 9. A tűzeset rövid leírása: (Vélelmezhető keletkezési ok, mi égett, hogyan oltották el):
 
@@ -61,3 +61,5 @@ Kelt ...............
 ......................................................................
 
 a jelentést teljesítő olvasható aláírása
+
+[^18]: A melléklet a 2/2016. (I. 7.) HM rendelet 5. § g) pontja szerint módosított szöveg.
