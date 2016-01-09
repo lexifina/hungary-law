@@ -1,1 +1,0 @@
-## „cd) azon MH létesítményekben, amelyekben robbanásveszélyes osztályba tartozó anyagok előállítását, tárolását, feldolgozását 1000 kg vagy 1000 liter mennyiséget meghaladó, de 5000 kg vagy 5000 liter mennyiséget el nem érő mértékben végzik.”
