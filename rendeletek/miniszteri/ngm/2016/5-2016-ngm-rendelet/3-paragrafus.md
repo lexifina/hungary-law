@@ -1,0 +1,1 @@
+## 2. § Ha az e rendelet alapján kijelölt kezelő szerv az e rendelet hatálya alá tartozó központi kezelésű előirányzatok vonatkozásában e rendelet hatálybalépését megelőzően tett kötelezettségvállalást és teljesített kifizetést, azt az arra jogosult kezelő szerv által tett kötelezettségvállalásnak és kifizetésnek kell tekintetni.

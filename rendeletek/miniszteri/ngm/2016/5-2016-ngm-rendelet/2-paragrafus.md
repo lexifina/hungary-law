@@ -1,0 +1,1 @@
+## 1. § A Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. mellékletébe sorolt olyan központi kezelésű előirányzatok felhasználási szabályait, amelyek a nemzetgazdasági miniszter irányítása alá tartoznak, az 1–7. melléklet tartalmazza.
