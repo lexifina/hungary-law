@@ -1,1 +1,0 @@
-## 1. § A Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. mellékletébe sorolt olyan központi kezelésű előirányzatok felhasználási szabályait, amelyek a nemzetgazdasági miniszter irányítása alá tartoznak, az 1–7. melléklet tartalmazza.
