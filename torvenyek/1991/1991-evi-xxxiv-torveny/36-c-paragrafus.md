@@ -12,7 +12,7 @@ c) ajándéksorsolás esetén a kisorsolásra kerülő nyeremények forgalmi ér
 
 d) a bukmékeri rendszerű fogadás esetén a negyedévi tiszta játékbevétel 4 ezreléke, de legalább 5 ezer forint, legfeljebb 10 millió forint,
 
-e) a játékkaszinó üzemeltetése esetén a negyedévi tiszta játékbevétel 2,5%-a, de legalább 5 ezer forint és legfeljebb I. kategóriájú játékkaszinó esetén 20 millió forint, illetve II. kategóriájú játékkaszinó esetén 5 millió forint,
+e) a játékkaszinó üzemeltetése esetén a negyedévi tiszta játékbevétel 2,5%-a, de legalább 5 ezer forint és legfeljebb I. kategóriájú játékkaszinó esetén 20 millió forint, illetve II. kategóriájú játékkaszinó esetén 5 millió forint, online kaszinó üzemeltetése esetén 5 millió forint,
 
 f) kártyaterem üzemeltetése esetén a negyedévi tiszta játékbevétel 5 ezreléke, de legalább 5 ezer forint, legfeljebb 1 millió forint,
 
