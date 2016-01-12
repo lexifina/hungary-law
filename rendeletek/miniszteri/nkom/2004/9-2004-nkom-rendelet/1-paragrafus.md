@@ -4,6 +4,7 @@
 
 (3) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket III. kategóriába sorolom.
 
-(4) A védetté nyilvánítás célja a XIX. század közepén emelt, paplakból, gazdasági épületből álló, településképi szempontból meghatározó szerepű együttes építészeti értékeinek védelme.
+(4)[^2] A védetté nyilvánítás célja a XIX. század közepén emelt, paplakból, kántorlakból álló, településképi szempontból meghatározó szerepű együttes építészeti értékeinek védelme.
 
 [^1]: Az 1. § (1) bekezdése a 21/2004. (X. 12.) NKÖM rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (4) bekezdése a 4/2016. (I. 11.) MvM rendelet 88. § b) pontja szerint módosított szöveg.
