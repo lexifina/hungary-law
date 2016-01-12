@@ -1,0 +1,3 @@
+7. § (1) Az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 9/2004. (IV. 13.) NKÖM rendelet (a továbbiakban: R2.) 1. § (1) bekezdésében védetté nyilvánított, Körösladány (Békés megye) 1876 helyrajzi számon nyilvántartott földrészleten álló gazdasági melléképület műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit helyreállíthatatlanul elvesztette – megszüntetem.
+
+(2) A Körösladány 1876 helyrajzi számon nyilvántartott ingatlan műemléki védettségét fenntartom, tekintettel a földrészleten álló kántorlak műemléki értékeire.

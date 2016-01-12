@@ -1,0 +1,1 @@
+## 58. § Az Országos Műemléki Felügyelőség 14944/1987. számú határozatával védetté nyilvánított, Buzsák (Somogy megye) 1450 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékét (présház) helyreállíthatatlanul elvesztette – megszüntetem.

@@ -1,0 +1,1 @@
+## 69. § Az Országos Műemléki Felügyelőség 3.457/1989. számú határozatával védetté nyilvánított, Csehimindszent (Vas megye) 0207 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (magtár, istálló) helyreállíthatatlanul elvesztette – megszüntetem.

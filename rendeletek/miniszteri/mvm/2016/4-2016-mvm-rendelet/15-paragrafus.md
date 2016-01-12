@@ -1,0 +1,1 @@
+## 14. § Az Országos Műemléki Felügyelőség 01905/1967. számú határozatával védetté nyilvánított, Miskolc (Borsod-Abaúj-Zemplén megye) 32821 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értéket (népi lakóház) helyreállíthatatlanul elvesztette – megszüntetem.

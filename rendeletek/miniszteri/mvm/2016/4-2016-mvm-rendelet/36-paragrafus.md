@@ -1,0 +1,1 @@
+## 35. § Az Országos Műemléki Felügyelőség 4162/1990. számú határozatával védetté nyilvánított, Kunhegyes (Jász-Nagykun-Szolnok megye), a telekalakítást követően a 2031/1 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (zsinagóga) megsemmisülésére tekintettel – megszüntetem.

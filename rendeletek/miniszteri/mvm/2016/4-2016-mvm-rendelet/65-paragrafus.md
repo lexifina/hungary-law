@@ -1,0 +1,1 @@
+## 64. § A Nyíregyháza (Szabolcs-Szatmár-Bereg megye) 5471/1 és 5471/2 helyrajzi számú ingatlanok (Szamuely Tibor szülőháza) műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.

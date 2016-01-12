@@ -1,0 +1,1 @@
+## 31. § Az Országos Műemléki Felügyelőség 9952/1985. számú határozatával védetté nyilvánított, Hortobágy (Hajdú-Bihar megye), a telekalakításokat követően a 02821/2 helyrajzi számú ingatlan (Sárkány pásztor-kunyhó) műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.

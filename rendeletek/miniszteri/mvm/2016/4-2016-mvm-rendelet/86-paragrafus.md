@@ -1,0 +1,1 @@
+## 85. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Gyenesdiás (Zala megye), a telekalakítást követően az 537/10 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értéket (népi lakóház) helyreállíthatatlanul elvesztette – megszüntetem.

@@ -1,0 +1,1 @@
+## 46. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Dabas (Pest megye) 4432 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értéket (volt kúria) helyreállíthatatlanul elvesztette – megszüntetem.

@@ -1,0 +1,1 @@
+## 71. § Az Országos Műemléki Felügyelőség 776/1975. számú határozatával védetté nyilvánított, Meggyeskovácsi (Vas megye) 150 helyrajzi számú ingatlan (népi lakóház) műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.

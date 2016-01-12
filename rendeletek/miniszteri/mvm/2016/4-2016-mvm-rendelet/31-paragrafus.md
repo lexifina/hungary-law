@@ -1,0 +1,1 @@
+## 30. § Az R5. 8. § (1) bekezdésében védetté nyilvánított Esztár (Hajdú-Bihar megye) 259 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (lakóépület, melléképület, ólasgóré) helyreállíthatatlanul elvesztette – megszüntetem.

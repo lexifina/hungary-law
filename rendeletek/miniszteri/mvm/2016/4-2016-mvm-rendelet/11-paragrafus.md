@@ -1,0 +1,1 @@
+## 10. § Az Országos Műemléki Felügyelőség 14443/14/1987. számú határozatával védetté nyilvánított, Boldogkőváralja (Borsod-Abaúj-Zemplén megye) 141 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értéket (népi lakóház) helyreállíthatatlanul elvesztette – megszüntetem.

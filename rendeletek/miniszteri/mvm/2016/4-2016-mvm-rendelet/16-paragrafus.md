@@ -1,0 +1,1 @@
+## 15. § Az Országos Műemléki Felügyelőség 01905/1967. számú határozatával védetté nyilvánított, Miskolc (Borsod-Abaúj-Zemplén megye) 32822 helyrajzi számon nyilvántartott ingatlan (népi lakóház) műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.

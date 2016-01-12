@@ -1,0 +1,1 @@
+## 20. § A 0004/3/1954. ÉM számú miniszteri döntéssel, az Országos Műemléki Felügyelőség 1426/1973. számú határozatával védetté nyilvánított, Ópusztaszer (Csongrád megye) 055/10 helyrajzi számú földrészleten álló szélmalom és aprószélmalom műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felelnek meg – megszüntetem.

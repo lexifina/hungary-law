@@ -1,0 +1,1 @@
+## 72. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Petőmihályfa (Vas megye) 1225 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (Gombás Gyula pincéje) megsemmisülésére tekintettel – megszüntetem.

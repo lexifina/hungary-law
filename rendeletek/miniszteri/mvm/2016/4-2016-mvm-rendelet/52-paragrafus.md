@@ -1,0 +1,1 @@
+## 51. § Az Országos Műemléki Felügyelőség 18333/1977. számú határozatával védetté nyilvánított, Nagykőrös (Pest megye) 4594/1 és 4594/2 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – a műemléki érték (kékfestőműhely) megsemmisülésére tekintettel – megszüntetem.

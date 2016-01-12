@@ -1,0 +1,1 @@
+## 36. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Szolnok (Jász-Nagykun-Szolnok megye), a telekalakítást követően a 1368 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (népi lakóház) megsemmisülésére tekintettel – megszüntetem.

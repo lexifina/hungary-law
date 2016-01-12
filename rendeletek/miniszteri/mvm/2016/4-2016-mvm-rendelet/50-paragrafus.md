@@ -1,0 +1,3 @@
+50. § (1) Az Országos Műemléki Felügyelőség 381/1991. számú határozatával védetté nyilvánított, Leányfalu (Pest megye) 1586 helyrajzi számú ingatlanból telekalakítást követően létrejött 1586/6 és 1586/7 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – tekintettel arra, hogy azokon műemléki érték nem található – megszüntetem.
+
+(2) Műemléki környezetként jelölöm ki a Leányfalu 1577, 1578, 1579, 1580, 1581, 1584, 1586/6, 1586/7, 1589, 1590, 1591, 1594, 1595, 1599, 1600, 1601/1, 2619, 2620, 2623, 2624, 2625, 2628/1, 2631, 2633, 2634, 2638 helyrajzi számon nyilvántartott ingatlanokat, a 1585 helyrajzi számú közterületet, a 1562 helyrajzi számú, valamint a 2523 helyrajzi számú közterületnek a fenti ingatlanokkal határolt szakaszát.

@@ -1,0 +1,1 @@
+## 77. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Csopak (Veszprém megye) 1010 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékét (népi lakóház) helyreállíthatatlanul elvesztette – megszüntetem.

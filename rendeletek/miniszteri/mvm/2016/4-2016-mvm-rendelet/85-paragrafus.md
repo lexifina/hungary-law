@@ -1,0 +1,1 @@
+## 84. § Az Országos Műemléki Felügyelőség 11171/1980. számú határozatával védetté nyilvánított Dobri (Zala megye) 1860 és 1861 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értéket (présház) helyreállíthatatlanul elvesztette – megszüntetem.

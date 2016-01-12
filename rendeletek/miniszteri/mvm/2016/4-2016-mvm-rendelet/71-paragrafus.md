@@ -1,0 +1,1 @@
+## 70. § A Kőszegszerdahely (Vas megye) 398 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (népi pince-présház) helyreállíthatatlanul elvesztette – megszüntetem.

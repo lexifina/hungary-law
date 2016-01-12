@@ -1,0 +1,1 @@
+## továbbra is fennáll.

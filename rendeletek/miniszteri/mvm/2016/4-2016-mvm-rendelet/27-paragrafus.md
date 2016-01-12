@@ -1,0 +1,1 @@
+## 26. § Az 5730/1965. ÉM számú miniszteri döntéssel védetté nyilvánított, Szilsárkány (Győr-Moson-Sopron megye) 110 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy azon műemléki érték (kovácsműhely) nem található, mivel azt szabadtéri néprajzi múzeumba szállították – megszüntetem.

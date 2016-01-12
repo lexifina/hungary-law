@@ -1,0 +1,3 @@
+82. § (1) Az egyes műemlékek védetté nyilvánításáról, illetőleg műemléki védettség megszüntetéséről szóló 10/2000. (V. 26.) NKÖM-rendelet 18. § (1) bekezdésében védetté nyilvánított Veszprém (Veszprém megye) 4815 helyrajzi számú ingatlanból a telekalakítást követően az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 19/2003. (XII. 19.) NKÖM rendelet (a továbbiakban: R9.) 21. § (2) bekezdésében védetté nyilvánított és 4815/4 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy azokon műemléki érték nem található – megszüntetem.
+
+(2) Műemléki környezetként jelölöm ki a Veszprém 4813, 4815/4 helyrajzi számon nyilvántartott ingatlanokat.
