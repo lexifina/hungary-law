@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-9-20-1W
 | 2009-03-14 | 2009-9-20-1W.1 | 9/2009. (III. 6.) OKM rendelet |
 | 2011-09-02 | 2009-9-20-1W.2 | 53/2011. (VIII. 25.) NEFMI rendelet |
 | 2015-02-10 | 2009-9-20-1W.3 | 5/2015. (II. 2.) MvM rendelet |
+| 2016-01-12 | 2009-9-20-1W.4 | 4/2016. (I. 11.) MvM rendelet |
