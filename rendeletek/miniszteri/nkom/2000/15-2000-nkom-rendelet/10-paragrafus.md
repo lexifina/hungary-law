@@ -6,6 +6,6 @@
 
 (4) A műemlékvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket III. kategóriába sorolom.
 
-(5)[^3] A védetté nyilvánítás célja az 1920 körül épült lakóház és kukoricagóré építészeti, faluképi értékeinek, valamint az eredeti belső megmaradt emlékeinek (tüzelőberendezés, falitéka) megőrzése.
+(5)[^4] A védetté nyilvánítás célja az 1920 körül épült lakóház és kukoricagóré építészeti, faluképi értékeinek, valamint az eredeti belső megmaradt emlékeinek (tüzelőberendezés, falitéka) megőrzése.
 
-[^3]: A 10. § (5) bekezdése a 30/2015. (VI. 19.) MvM rendelet 78. § (4) bekezdése szerint módosított szöveg.
+[^4]: A 10. § (5) bekezdése a 30/2015. (VI. 19.) MvM rendelet 78. § (4) bekezdése szerint módosított szöveg.
