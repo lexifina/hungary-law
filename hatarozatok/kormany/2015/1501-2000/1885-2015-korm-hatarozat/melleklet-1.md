@@ -18,33 +18,11 @@
 
 ## 3. egyetért azzal, hogy az 1. pont szerinti jogcímből a Modern Városok Program megvalósítására
 
-## a) Békéscsaba Megyei Jogú Város Önkormányzat 2000,0 millió forint,
-
-## b) Debrecen Megyei Jogú Város Önkormányzat 2000,0 millió forint,
-
-## c) Eger Megyei Jogú Város Önkormányzat 500,0 millió forint,
-
-## d) Érd Megyei Jogú Város Önkormányzat 4000,0 millió forint,
-
-## e) Kaposvár Megyei Jogú Város Önkormányzat 2000,0 millió forint,
-
-## f) Kecskemét Megyei Jogú Város Önkormányzat 4000,0 millió forint,
+## a)–f)[^1]
 
 ## g) Miskolc Megyei Jogú Város Önkormányzat 500,0 millió forint,
 
-## h) Nagykanizsa Megyei Jogú Város Önkormányzat 500,0 millió forint,
-
-## i) Nyíregyháza Megyei Jogú Város Önkormányzat 500,0 millió forint,
-
-## j) Pécs Megyei Jogú Város Önkormányzat 500,0 millió forint,
-
-## k) Sopron Megyei Jogú Város Önkormányzat 500,0 millió forint,
-
-## l) Szekszárd Megyei Jogú Város Önkormányzat 3000,0 millió forint,
-
-## m) Szolnok Megyei Jogú Város Önkormányzat 4000,0 millió forint,
-
-## n) Tatabánya Megyei Jogú Város Önkormányzat 500,0 millió forint,
+## h)–n)[^2]
 
 ## o) Zalaegerszeg Megyei Jogú Város Önkormányzat 500,0 millió forint
 
@@ -133,3 +111,6 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont a)–f) alpontját az 1003/2016. (I. 13.) Korm. határozat 6. pontja visszavonta.
+[^2]: A 3. pont h)–n) alpontját az 1003/2016. (I. 13.) Korm. határozat 6. pontja visszavonta.
