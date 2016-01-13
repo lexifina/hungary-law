@@ -16,7 +16,9 @@ g)[^3] az ipari termelés közösségi felmérésének létrehozásáról szól�
 
 h)[^4] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista 2013. évre történő megállapításáról szóló, 2013. szeptember 12-i 936/2013/EU bizottsági rendelet;
 
-i)[^5] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista 2014. évre történő megállapításáról szóló, 2014. július 4-i 842/2014/EU bizottsági rendelet
+i)[^5] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista 2014. évre történő megállapításáról szóló, 2014. július 4-i 842/2014/EU bizottsági rendelet;
+
+j)[^6] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista 2016. évre történő megállapításáról szóló, 2016. szeptember 17-i 2016/1711 bizottsági (EU) rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -25,3 +27,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^3]: A 4. § g) pontját a 15/2013. (VII. 9.) KIM rendelet 2. §-a iktatta be.
 [^4]: A 4. § h) pontját a 11/2014. (II. 26.) KIM rendelet 2. §-a iktatta be.
 [^5]: A 4. § i) pontját a 15/2014. (XII. 31.) MvM rendelet 1. §-a iktatta be.
+[^6]: A 4. § j) pontját az 1/2016. (I. 5.) MvM rendelet 2. §-a iktatta be.

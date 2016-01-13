@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-16-20-2
 | 2013-07-17 | 2011-16-20-2T.3 | 15/2013. (VII. 9.) KIM rendelet |
 | 2014-03-06 | 2011-16-20-2T.4 | 11/2014. (II. 26.) KIM rendelet |
 | 2015-01-08 | 2011-16-20-2T.5 | 15/2014. (XII. 31.) MvM rendelet |
+| 2016-01-13 | 2011-16-20-2T.6 | 1/2016. (I. 5.) MvM rendelet |
