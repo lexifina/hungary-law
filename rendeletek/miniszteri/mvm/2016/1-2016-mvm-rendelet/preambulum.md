@@ -1,0 +1,1 @@
+A statisztikáról szóló 1993. évi XLVI. törvény 26. § (4) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 4. pontja szerinti feladatkörömben eljárva a következőket rendelem el:
