@@ -28,23 +28,25 @@ f) a tartályok, tároló létesítmények és berendezéseik gyártását és a
 
 g) az üzemanyag töltőállomásokon szénhidrogén emisszió mérését, a pisztolygáz visszavezető és gázinga rendszerek beállítását végző szervezetek kijelölésével és felügyeletével,
 
-h)[^26] a nyomástartó berendezés kezelője, a nyomástartó berendezés vizsgálója és a nyomástartó edény gépész (ha a munkáltató nem elosztói, szállítói vagy tárolói engedélyes), a tartályvizsgáló, a tartálytisztító, valamint a felvonó- és mozgólépcső ellenőr, továbbá a földgázellátásban műszaki biztonsági szempontból jelentős munkakörök esetében szükséges felkészítő tanfolyam és továbbképzés képzési programjának jóváhagyásával,
+h) a nyomástartó berendezés kezelője, a nyomástartó berendezés vizsgálója és a nyomástartó edény gépész (ha a munkáltató nem elosztói, szállítói vagy tárolói engedélyes), a tartályvizsgáló, a tartálytisztító, valamint a felvonó- és mozgólépcső ellenőr, továbbá a földgázellátásban műszaki biztonsági szempontból jelentős munkakörök esetében szükséges felkészítő tanfolyam és továbbképzés képzési programjának jóváhagyásával,
 
-i)[^27] a felvonó- és mozgólépcső ellenőrök bejelentés alapján történő nyilvántartásba vételével, a nyilvántartott szervezetekkel, valamint a felvonók, mozgólépcsők és mozgójárdák országos nyilvántartásának vezetésével
+i) a felvonó- és mozgólépcső ellenőrök nyilvántartásba vételével, a nyilvántartott szervezetekkel, valamint a felvonók, mozgólépcsők és mozgójárdák országos nyilvántartásának vezetésével,
+
+j) a műszaki-biztonsági hatósági felügyelet alatt álló, cseppfolyós propán-, butángázok és ezek elegyei tárolására szolgáló, legfeljebb 13 000 l össztérfogatú nyomástartó berendezések és kriogén tartályok létesítésének tervezésére, létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére vonatkozó műszaki-biztonsági irányítási rendszert működtető ellenőrző szervezet nyilvántartásba vételével és felügyeletével,
+
+k) a műszaki biztonsági szempontból jelentős ipari szakképesítés (nyomástartó berendezés kezelője, nyomástartó berendezés vizsgálója, tartálytisztító, tartályvizsgáló) megszerzéséhez szükséges vizsgakötelezettség teljesítéséhez igénybe vehető hatósági jellegű képzés programjának jóváhagyásával és a képzési tevékenység felügyeletével
 
 ## kapcsolatos eljárásokban.
 
-(3a)[^28] A (3) bekezdés a)–b) pontjában foglalt nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3a)[^26] A (3) bekezdés a)–b) pontjában foglalt nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4)[^29] A Kormány a (3) bekezdés a)–c) és i) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki.
+(4)[^27] A Kormány a (3) bekezdés a)–c) és i) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki.
 
-(5)[^30] A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
+(5)[^28] A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
 
 [^23]: A 12. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 162. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^24]: A 12. § (2) bekezdése az 524/2013. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^25]: A 12. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^26]: A 12. § (3) bekezdés h) pontja a 146/2014. (V. 5.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
-[^27]: A 12. § (3) bekezdés i) pontját a 146/2014. (V. 5.) Korm. rendelet 32. § (3) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 137. § szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^28]: A 12. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (2) bekezdése iktatta be.
-[^29]: A 12. § (4) bekezdése a 146/2014. (V. 5.) Korm. rendelet 32. § (4) bekezdésével megállapított szöveg.
-[^30]: A 12. § (5) bekezdését a 7/2013. (I. 18.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^25]: A 12. § (3) bekezdése a 405/2015. (XII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^26]: A 12. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^27]: A 12. § (4) bekezdése a 146/2014. (V. 5.) Korm. rendelet 32. § (4) bekezdésével megállapított szöveg.
+[^28]: A 12. § (5) bekezdését a 7/2013. (I. 18.) Korm. rendelet 5. § (7) bekezdése iktatta be.

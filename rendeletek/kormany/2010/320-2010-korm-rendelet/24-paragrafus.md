@@ -6,18 +6,21 @@
 
 (2) E rendelet hatálybalépésével egyidejűleg hatályát veszti a Magyar Kereskedelmi Engedélyezési Hivatalról szóló 260/2006. (XII. 20.) Korm. rendelet.
 
-(3)[^55]
+(3)[^54]
 
-(4)[^56] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^57] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+(4)[^55] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^56] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-(5)[^58] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 308/2011. (XII. 23.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) megállapított rendelkezéseit a Mód. Kr2. hatálybalépését[^59] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+(5)[^57] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 308/2011. (XII. 23.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) megállapított rendelkezéseit a Mód. Kr2. hatálybalépését[^58] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-(6)[^60] E rendelet 2. § (6) bekezdésének a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet, valamint a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet, továbbá az energetikai létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 360/2013. (X. 11.) Korm. rendelet módosításáról szóló 524/2013. (XII. 30.) Korm. rendelettel (a továbbiakban: Mód Kr3.) megállapított rendelkezéseit a Mód Kr3. hatálybalépését[^61] követően a 2014. január 1-jétől kibocsátott számlák alapján beérkezett díjbevételek megosztásánál kell alkalmazni.
+(6)[^59] E rendelet 2. § (6) bekezdésének a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet, valamint a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet, továbbá az energetikai létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 360/2013. (X. 11.) Korm. rendelet módosításáról szóló 524/2013. (XII. 30.) Korm. rendelettel (a továbbiakban: Mód Kr3.) megállapított rendelkezéseit a Mód Kr3. hatálybalépését[^60] követően a 2014. január 1-jétől kibocsátott számlák alapján beérkezett díjbevételek megosztásánál kell alkalmazni.
 
-[^55]: A 24. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 162. § (4) bekezdése hatályon kívül helyezte.
-[^56]: A 24. § (4) bekezdését a 82/2011. (V. 18.) Korm. rendelet 57. §-a iktatta be.
-[^57]: A hatálybalépés napja: 2011. szeptember 15.
-[^58]: A 24. § (5) bekezdését a 308/2011. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
-[^59]: A hatálybalépés időpontja 2012. január 7.
-[^60]: A 24. § (6) bekezdését az 524/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
-[^61]: A hatálybalépés napja: 2013. december 31.
+(7)[^61] A 18. §-nak az egyes iparszabályozási tárgyú kormányrendeletek módosításáról szóló 405/2015. (XII. 15.) Korm. rendelettel (a továbbiakban: Mód Kr4.) megállapított rendelkezéseit a Mód Kr4. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+[^54]: A 24. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 162. § (4) bekezdése hatályon kívül helyezte.
+[^55]: A 24. § (4) bekezdését a 82/2011. (V. 18.) Korm. rendelet 57. §-a iktatta be.
+[^56]: A hatálybalépés napja: 2011. szeptember 15.
+[^57]: A 24. § (5) bekezdését a 308/2011. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^58]: A hatálybalépés időpontja 2012. január 7.
+[^59]: A 24. § (6) bekezdését az 524/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^60]: A hatálybalépés napja: 2013. december 31.
+[^61]: A 24. § (7) bekezdését a 405/2015. (XII. 15.) Korm. rendelet 4. §-a iktatta be.
