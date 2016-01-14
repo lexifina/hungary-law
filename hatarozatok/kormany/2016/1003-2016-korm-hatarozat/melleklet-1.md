@@ -32,10 +32,12 @@
 
 ## Határidő: a beszámoló benyújtását követő 60 napon belül
 
-## 6. a Modern Városok Program végrehajtása érdekében szükséges forrás biztosításáról szóló 1885/2015. (XII. 3.) Korm. határozat 3. pont a)–f) és h)–n) alpontját visszavonja.
+## 6.[^1]
 
 1. melléklet az 1003/2016. (I. 13.) Korm. határozathoz
 
 IX. Helyi önkormányzatok támogatásai
 
 XI. Miniszterelnökség
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
