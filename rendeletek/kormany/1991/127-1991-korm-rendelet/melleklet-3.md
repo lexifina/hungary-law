@@ -1,4 +1,4 @@
-## 2K19478M_0
+## 5K26257M_0
 
 | Sor- szám | Megnevezés | A hitelesítés hatálya (év) |
 
@@ -28,7 +28,7 @@
 
 |  | a) ásványolajtermék, sör, pezsgő és köztes termék, LPG, alkoholtermék, tej | 1 |
 
-|  | b) egyéb folyadék | 5 |
+|  | b) |  |
 
 | 6. | Automatikus mérlegek | 2 |
 
@@ -84,13 +84,13 @@
 
 | 20. | Áram- és feszültség mérőváltók 0,5 pontossági osztályba tartozók, vagy pontosabbak | korlátlan |
 
-| 21. | Külön jogszabály4 végrehajtásához használt és az I/5. pontban nem szereplő mérőeszközök |  |
+| 21. | a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló jogszabály végrehajtását biztosító, folyékony halmazállapotú jövedéki termékek raktározási és tárolási folyamatai során a minőség és mennyiség megállapítását adóügyi ellenőrzés céljából szolgáló I/5 pontban nem szereplő eszközök |  |
 
 |  | a) tartály első hitelesítés | 5 |
 
 |  | b) tartály további hitelesítés | 15 |
 
-|  | c) tartályszintmérő készülék | 2 |
+|  | c) tároló- és szállítótartályban használt tartályszintmérő készülék | 2 |
 
 |  | d) szeszmérőgép | 10 |
 
@@ -98,7 +98,7 @@
 
 | 22. | Légzési alkoholmérők | 1 |
 
-| 23. | Mérőperemes földgázmennyiség-mérő rendszerek | 2 |
+| 23. |  | 2 |
 
 ## 4 A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény.
 
