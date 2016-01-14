@@ -1,4 +1,4 @@
-6. §[^22] (1) A piacfelügyeleti hatóság a piacfelügyeleti ellenőrzés során jogosult:
+6. §[^24] (1) A piacfelügyeleti hatóság a piacfelügyeleti ellenőrzés során jogosult:
 
 a) tájékoztatást kérni a gyártótól, a forgalmazótól és egyes esetekben az üzemeltetőtől,
 
@@ -28,4 +28,4 @@ g) a biztonságossági és más megfelelőségi vizsgálathoz szükséges időta
 
 (8) Ha próbavásárlásra elektronikus kereskedelmi szolgáltatást nyújtó, vagy egyéb megrendelésen alapuló termékértékesítést folytató gazdasági szereplőnél kerül sor, a piacfelügyeleti hatóság az ellenőrzés megállapításairól szóló jegyzőkönyvet minden esetben a gazdasági szereplő részére kézbesíti.
 
-[^22]: A 6. § a 7/2013. (I. 18.) Korm. rendelet 6. § (15) bekezdésével megállapított szöveg.
+[^24]: A 6. § a 7/2013. (I. 18.) Korm. rendelet 6. § (15) bekezdésével megállapított szöveg.

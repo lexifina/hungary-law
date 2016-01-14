@@ -1,6 +1,6 @@
 ## 1. Műszaki biztonsági hatósági tevékenység
 
-1. § (1)[^1] A Kormány által jogszabályban kijelölt műszaki biztonsági hatóság (a továbbiakban: műszaki biztonsági hatóság) műszaki biztonsági hatósági tevékenységének keretében ellenőrzi a (2) bekezdésben meghatározott létesítmények, berendezések:
+1. § (1)[^2] A Kormány által jogszabályban kijelölt műszaki biztonsági hatóság (a továbbiakban: műszaki biztonsági hatóság) műszaki biztonsági hatósági tevékenységének keretében ellenőrzi a (2) bekezdésben meghatározott létesítmények, berendezések:
 
 a) létesítésére, kivitelezésére, felállítására,
 
@@ -22,7 +22,7 @@ i) alkalmazásával szolgáltatást végző szervezetek tevékenységére
 
 vonatkozó jogszabályi rendelkezések megtartását és érvényesülését.
 
-(2)[^2] Törvény vagy kormányrendelet eltérő rendelkezése hiányában a műszaki biztonsági hatóság jár el a következő berendezések, létesítmények tekintetében:
+(2)[^3] Törvény vagy kormányrendelet eltérő rendelkezése hiányában a műszaki biztonsági hatóság jár el a következő berendezések, létesítmények tekintetében:
 
 a) a földgáz csatlakozóvezetékei, felhasználói berendezései és telephelyi vezetékei, ezek tartozékai,
 
@@ -48,18 +48,18 @@ k) a távhőszolgáltatásról szóló törvény szerinti műszaki biztonsági h
 
 l) a villamos energiáról szóló törvény szerinti csatlakozó-, összekötő és felhasználói berendezések, villamosművek, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezések és védelmi rendszerek,
 
-m)[^3] a felvonókról, mozgólépcsőkről és mozgójárdákról szóló kormányrendeletben meghatározott felvonók, mozgólépcsők és mozgójárdák.
+m)[^4] a felvonókról, mozgólépcsőkről és mozgójárdákról szóló kormányrendeletben meghatározott felvonók, mozgólépcsők és mozgójárdák.
 
-(3)[^4] A műszaki biztonsági hatóság a (2) bekezdés szerinti létesítmények, berendezések, valamint az (1) bekezdés szerinti szervezetek vonatkozásában:
+(3)[^5] A műszaki biztonsági hatóság a (2) bekezdés szerinti létesítmények, berendezések, valamint az (1) bekezdés szerinti szervezetek vonatkozásában:
 
 a) engedélyezési és hatósági ellenőrzési jogkört gyakorol, a villamos összekötő vagy felhasználói berendezés üzembe helyezése esetén a balesetelhárítási, illetve az élet-, testi épség-, egészség- és vagyonvédelmet, valamint az üzembiztonságot szolgáló jogszabályi rendelkezések megtartásának vizsgálata céljából villamos biztonságtechnikai ellenőrzést folytat le a külön jogszabályban meghatározott igazgatási szolgáltatási díj ellenében,
 
 b) bejelentés alapján kivizsgálja a hatáskörébe tartozó rendkívüli események okait és következményeit.
 
-(4)[^5] A műszaki biztonsági hatóság a műszaki biztonsági felügyeleti feladat- és hatáskörében a műszaki biztonsági követelmények megtartása érdekében ellátja mindazokat a feladatokat, amelyeket a jogszabályok a hatáskörébe utalnak.
+(4)[^6] A műszaki biztonsági hatóság a műszaki biztonsági felügyeleti feladat- és hatáskörében a műszaki biztonsági követelmények megtartása érdekében ellátja mindazokat a feladatokat, amelyeket a jogszabályok a hatáskörébe utalnak.
 
-[^1]: Az 1. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
-[^2]: Az 1. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
-[^3]: Az 1. § (2) bekezdés m) pontját a 146/2014. (V. 5.) Korm. rendelet 33. §-a iktatta be.
-[^4]: Az 1. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 163. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (4) bekezdését a 7/2013. (I. 18.) Korm. rendelet 6. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.
+[^2]: Az 1. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
+[^3]: Az 1. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
+[^4]: Az 1. § (2) bekezdés m) pontját a 146/2014. (V. 5.) Korm. rendelet 33. §-a iktatta be.
+[^5]: Az 1. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 163. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (4) bekezdését a 7/2013. (I. 18.) Korm. rendelet 6. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.

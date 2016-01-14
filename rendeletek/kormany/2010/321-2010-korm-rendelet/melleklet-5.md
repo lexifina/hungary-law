@@ -10,6 +10,6 @@
 
 | 3. | A kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén megvalósuló létesítési vagy használatbavételi eljárás vagy műemléki területen megvalósuló vagy nyilvántartott műemléki értéket vagy műemlék telkét érintő tevékenység engedélyezésére irányuló eljárás. | Annak elbírálása kérdésében, hogy a tervezett tárolótartály a régészeti örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Budapest Főváros Kormányhivatala; kizárási feltétel fennállása esetén a kulturális örökség védelméért felelős miniszter |
 
-5. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^35]
+5. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^40]
 
-[^35]: Az 5. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (24) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 163. § (5) bekezdésével megállapított szöveg.
+[^40]: Az 5. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (24) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 163. § (5) bekezdésével megállapított szöveg.

@@ -36,6 +36,6 @@
 
 ## e) rendelkezésre áll a gazdálkodó szervezet írásbeli nyilatkozata arról, hogy vizsgálataiknál az ellenőrzést végző hatósággal egyeztetett időpontban és módon járnak el.
 
-4. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^33]
+4. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^38]
 
-[^33]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 163. § (3) bekezdésével megállapított szöveg.
+[^38]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 163. § (3) bekezdésével megállapított szöveg.

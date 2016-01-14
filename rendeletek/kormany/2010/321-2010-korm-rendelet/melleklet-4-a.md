@@ -16,6 +16,6 @@
 
 | 6. | Tárolótartály létesítése, használatbavétele és átalakítása esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | 1. Minden esetben annak elbírálása kérdésében, hogy a tervezett tárolótartály a) a felszíni vizek és a felszín alatti vizek védelme követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e, b) a vízbázis-védelem követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. | a) területi vízvédelmi hatóság b) területi vízügyi hatóság | a) országos vízvédelmi hatóság b) országos vízügyi hatóság |
 
-4/a. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^34]
+4/a. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^39]
 
-[^34]: A 4/a. mellékletet a 70/2015. (III. 30.) Korm. rendelet 163. § (4) bekezdése iktatta be.
+[^39]: A 4/a. mellékletet a 70/2015. (III. 30.) Korm. rendelet 163. § (4) bekezdése iktatta be.
