@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2015-09-01 | 2015. évi CV. törvény | 1992-66-00-00.76 |
 | 2016-01-01 | 2015. évi CXXX. törvény | 1992-66-00-00.77 |
 | 2016-01-02 | 2015. évi CCXXII. törvény | 1992-66-00-00.78 |
+| 2016-01-15 | 2015. évi CCXIX. törvény | 1992-66-00-00.79 |
