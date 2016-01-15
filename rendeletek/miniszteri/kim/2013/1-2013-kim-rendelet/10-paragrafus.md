@@ -1,0 +1,8 @@
+## 9/A. §[^20] A bűnügyi igazgatási alapképzési szak bűnügyi nyomozó, gazdaságvédelmi nyomozó, pénzügyi nyomozó, illetve a rendészeti igazgatási alapképzési szak biztonsági, határrendészeti, igazgatásrendészeti, közlekedésrendészeti, közrendvédelmi, migrációs, vám- és jövedéki igazgatási, valamint a katasztrófavédelem alapképzési szak katasztrófavédelmi műveleti, iparbiztonsági szakirány nappali munkarendű képzései esetében a jelentkezés feltétele az Európai Unióban hivatalos nyelvek egyikéből vagy ukrán, szerb, beás, lovári, orosz, illetve kínai nyelvből államilag elismert, B2 (korábban középfokú) komplex (korábban C típusú) nyelvvizsga-bizonyítvány vagy ezzel egyenértékű okirat.
+
+10. §[^21] (1) Rendészeti vezető mesterképzés esetén a jelentkezés feltétele rendvédelmi szervnél fennálló hivatásos szolgálati viszony, a tiszti rendfokozat és a jelentkezéshez szükséges felsőfokú végzettség megszerzését követő, legalább kétéves, rendvédelmi szervnél szerzett szakmai gyakorlat. Nappali munkarendű képzés esetén további feltétel a rendvédelmi szerv országos parancsnokának támogató nyilatkozata és a rendvédelmi szerv utánpótlási vezetői adatbankjába való felvétel.
+
+(2) A katasztrófavédelem mesterképzési szak levelező munkarendben folyó, az NKEtv. 21/A. § (1) bekezdés a) és b) pontja hatálya alá tartozó képzésére csak a hivatásos katasztrófavédelmi szervek állományából lehet jelentkezni. A jelentkezéshez rendelkezni kell a BM OKF humán szolgálatvezető támogató nyilatkozatával.
+
+[^20]: A 9/A. §-t a 2/2016. (I. 7.) MvM rendelet 5. §-a iktatta be.
+[^21]: A 10. § a 2/2016. (I. 7.) MvM rendelet 6. §-ával megállapított szöveg.
