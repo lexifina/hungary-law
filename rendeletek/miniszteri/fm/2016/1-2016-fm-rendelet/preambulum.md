@@ -1,0 +1,1 @@
+A hegyközségekről szóló 2012. évi CCXIX. törvény 61. § (2) bekezdés d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
