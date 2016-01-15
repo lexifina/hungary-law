@@ -12,6 +12,8 @@ ad) anyjának születési családi és utónevét,
 
 ae) lakcímét,
 
+af) személyi azonosítóját.
+
 b) a gondnokság alá helyezésről, annak módosításáról, felülvizsgálatáról, megszüntetéséről jogerős határozatot hozó bíróság megnevezését és ügyszámát,
 
 c) a gondnokság alá helyezés, annak módosítása, felülvizsgálata, megszüntetése tárgyában hozott határozat jogerőre emelkedésének napját,

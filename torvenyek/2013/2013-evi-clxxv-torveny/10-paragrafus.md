@@ -12,6 +12,8 @@ ad) anyjának születési családi és utónevét,
 
 ae) lakcímét,
 
+af) személyi azonosítóját.
+
 b) az előzetes jognyilatkozatot (visszavonását, módosítását) bejegyző bíróság megnevezését és ügyszámát,
 
 c) az előzetes jognyilatkozatot (visszavonását, módosítását) okiratba foglaló szerv (személy) megnevezését, székhelyét,
