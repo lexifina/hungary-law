@@ -84,8 +84,8 @@
 
 ## 42. Hajós szolgálati útlevél kiadása, cseréje iránti kérelem soron kívüli eljárásban
 
-## 43.[^27]
+## 43.[^28]
 
 3. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^27]: A 2. melléklet 43. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^28]: A 2. melléklet 43. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
