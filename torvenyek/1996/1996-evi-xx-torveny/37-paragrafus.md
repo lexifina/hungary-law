@@ -38,4 +38,8 @@ d) a központi közúti közlekedési nyilvántartó szervnek a központi közú
 
 e) a központi menekültügyi szervnek a menekült és oltalmazott jogállású személyek családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről.
 
+f) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szervnek a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
+
+g) a választójoggal nem rendelkező polgárok nyilvántartását vezető szervnek a választójoggal nem rendelkező polgárok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
+
 (3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.

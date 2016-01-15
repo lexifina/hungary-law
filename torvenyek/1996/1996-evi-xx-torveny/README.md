@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2015-08-01 | 2015. évi CXXX. törvény | 1996-20-00-00.49 |
 | 2015-09-01 | 2015. évi CV. törvény | 1996-20-00-00.50 |
 | 2016-01-01 | 2015. évi CCXXIV. törvény | 1996-20-00-00.51 |
+| 2016-01-15 | 2015. évi CCXIX. törvény | 1996-20-00-00.52 |

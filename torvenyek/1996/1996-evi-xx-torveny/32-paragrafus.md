@@ -40,4 +40,6 @@ r) a szabálysértési hatóság, valamint a szabálysértési nyilvántartó sz
 
 s) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott földhasználati összesítő igénylése céljából az ingatlanügyi hatóság, az ügyész, a mezőgazdasági igazgatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv;
 
-t) a mezőgazdasági igazgatási szerv a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartásának vezetéséhez belső azonosítóként, törvényben meghatározottak szerint a polgár azonosításához.
+t) a mezőgazdasági igazgatási szerv a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartásának vezetéséhez belső azonosítóként, törvényben meghatározottak szerint a polgár azonosításához;
+
+u) a gondnokoltak nyilvántartását és az előzetes jognyilatkozatok nyilvántartását vezető szerv a nyilvántartás vezetéséhez.
