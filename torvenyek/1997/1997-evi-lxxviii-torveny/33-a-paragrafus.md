@@ -13,3 +13,5 @@ d) az egyszerű bejelentési dokumentációtól való eltérést be kell jelente
 (2) Az (1) bekezdés szerinti épületet a bejelentéstől számított tíz éven belül fel kell építeni és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
 
 (3) Ha a bejelentéstől számított tíz éven belül nem építették fel az (1) bekezdés szerinti épületet, az elkészült építményt le kell bontani.
+
+(4) A (2) bekezdés szerinti hatósági bizonyítványért az 1. mellékletben meghatározott igazgatási szolgáltatási díjat kell fizetni.
