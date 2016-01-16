@@ -1,1 +1,0 @@
-## 5. § A 4. § (1) bekezdés szerinti tartások eseteiben, ha a tartó természetes személy, 5 év folyamatos tartás alapján a 3. §-ban meghatározott képesítések hiányában is az engedélyező hatóságnak a szakismeretet biztosítottnak kell tekintenie a tartott egyedek tekintetében. Gazdálkodó szervezet esetében a 2. § (2) bekezdésének rendelkezését kell alkalmazni.
