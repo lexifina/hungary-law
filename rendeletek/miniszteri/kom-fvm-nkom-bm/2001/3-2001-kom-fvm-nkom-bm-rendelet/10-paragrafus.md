@@ -1,4 +1,4 @@
-## 9. §[^16] Az engedélyező hatóság köteles ötévenként – a szakhatóságok részvételével – az állatkert működését a helyszínen ellenőrizni. Ennek eredményétől függően a működési engedélyt módosíthatja, az állatkertet bezárathatja, vagy azonnali bezárást nem indokoló hiányosságok esetén a 7. § (1)–(4) bekezdés szerint jár el.
+## 9/A. §[^19] Állatkertben létesített állatsimogatóban kizárólag háziasított fajok, illetve olyan fajok egyedei helyezhetőek el, amelyek számára nem jelent fizikai és pszichikai megterhelést az emberekkel való napi érintkezés. Állatsimogatóban veszélyes állat, illetve nem ivarérett, a szülőállattól elválasztott egyed nem helyezhető el.
 
 ## Állatotthon létesítése, működtetése és fenntartása
 
@@ -6,4 +6,4 @@
 
 (2) Az állatpanzió olyan intézmény, amely díjazás ellenében vállalja állat meghatározott időre szóló megőrzését, felelősséget vállalva annak jó gazda gondosságával történő tartásáért, egészségéért, valamint az állatok és a környezetükben levő emberek és a lakókörnyezet biztonságáért.
 
-[^16]: A 9. § a 15/2010. (V. 11.) KvVM–FVM–IRM együttes rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a 2010. május 19-ét követően indult eljárásokban kell alkalmazni.
+[^19]: A 9/A. §-t a 85/2015. (XII. 17.) FM rendelet 27. § (4) bekezdése iktatta be.

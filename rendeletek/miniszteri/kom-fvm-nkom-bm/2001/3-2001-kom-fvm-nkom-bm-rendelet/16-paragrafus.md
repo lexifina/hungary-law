@@ -1,3 +1,4 @@
-16. §[^23]
+## 15. §[^25] A veszélyes állatfajokról és egyedeik tartásának szabályairól szóló 85/2015. (XII. 17.) FM rendelettel (a továbbiakban: MódR.) megállapított 4. §-ban meghatározott szakképesítések egyikét a MódR. hatálybalépésekor[^26] állatkerti ápolóként foglalkoztatott személyek 2020. augusztus 31-ig kötelesek megszerezni. A legalább 10 év igazolt gyakorlattal rendelkező személyek esetében a képesítés megszerzése alól az intézmény vezetője felmentést adhat, ha az alkalmazása továbbra is azon állatfajok (csoportok) gondozására irányul, amelyek mellett az érintett gondozó a gyakorlatot szerezte.
 
-[^23]: A 15–16. §-t a 118/2008. (V. 8.) Korm. rendelet 26. §-ának 17. pontja hatályon kívül helyezte.
+[^25]: A 15. §-t a 118/2008. (V. 8.) Korm. rendelet 26. §-ának 17. pontja hatályon kívül helyezte, újonnan a 85/2015. (XII. 17.) FM rendelet 27. § (5) bekezdése iktatta be.
+[^26]: A hatálybalépés időpontja 2016. január 16.
