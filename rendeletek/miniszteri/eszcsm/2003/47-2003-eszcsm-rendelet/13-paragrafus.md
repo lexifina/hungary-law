@@ -1,3 +1,3 @@
-13. § (1) A végleges hulladéktároló átalakításának engedélyezése iránti kérelemben indokolni kell az átalakítás, módosítás szükségességét.
+## 12/A. §[^7]
 
-(2) Amennyiben az átalakítás a tároló biztonságát befolyásolja, úgy az érvényes biztonsági jelentés kiegészítése vagy új biztonsági jelentés készítése szükséges.
+[^7]: A 12/A. §-t a 65/2013. (IX. 19.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 2/2016. (I. 15.) EMMI rendelet 3. § a) pontja.
