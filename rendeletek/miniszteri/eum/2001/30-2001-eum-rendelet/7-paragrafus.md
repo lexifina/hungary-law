@@ -1,1 +1,0 @@
-## Dozimetriai ellenőrzés
