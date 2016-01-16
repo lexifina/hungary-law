@@ -1,3 +1,0 @@
-## 5. § Az R. a következő 9/A. §-sal egészül ki:
-
-## „9/A. § A bűnügyi igazgatási alapképzési szak bűnügyi nyomozó, gazdaságvédelmi nyomozó, pénzügyi nyomozó, illetve a rendészeti igazgatási alapképzési szak biztonsági, határrendészeti, igazgatásrendészeti, közlekedésrendészeti, közrendvédelmi, migrációs, vám- és jövedéki igazgatási, valamint a katasztrófavédelem alapképzési szak katasztrófavédelmi műveleti, iparbiztonsági szakirány nappali munkarendű képzései esetében a jelentkezés feltétele az Európai Unióban hivatalos nyelvek egyikéből vagy ukrán, szerb, beás, lovári, orosz, illetve kínai nyelvből államilag elismert, B2 (korábban középfokú) komplex (korábban C típusú) nyelvvizsga-bizonyítvány vagy ezzel egyenértékű okirat.”
