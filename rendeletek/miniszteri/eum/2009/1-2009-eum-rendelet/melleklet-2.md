@@ -266,71 +266,71 @@
 
 | VIII. | Atomenergia alkalmazásával kapcsolatos igazgatási szolgáltatások |  |
 
-| VIII.1. | A radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendelet 3. §-a szerint radioaktív anyagok közúti szállításának engedélyezése: |  |
+| VIII.1. |  |  |
 
-| VIII.1.1. | megye területén belül | 22 200 Ft |
+| VIII.1.1. |  |  |
 
-| VIII.1.2. | megyék közötti viszonylatban | 22 200 Ft |
+| VIII.1.2. |  |  |
 
-| VIII.1.3. | nemzetközi viszonylatban | 22 200 Ft |
+| VIII.1.3. |  |  |
 
-| VIII.2. | Gépjármű használatának engedélyezése az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM r. 12. § (2) bekezdése alapján | 34 200 Ft |
+| VIII.2. |  |  |
 
-| VIII.3. | Gépjármű használatának felülvizsgálata az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM r. 12. § (3) bekezdése alapján | 32 100 Ft |
+| VIII.3. |  |  |
 
-| VIII.4. | Az atomenergiáról szóló 1996. évi CXVI. törvény hatálya alá nem tartozó radioaktív anyagok, valamint ionizáló sugárzást létrehozó berendezések köréről szóló 124/1997. (VII. 18.) Korm. rendelet 2. § (2) bekezdése szerinti mentességi igazolási eljárás | 15 800 Ft |
+| VIII.4. |  |  |
 
-| VIII.5. | Létesítmény létesítésének, berendezés üzembe helyezésének engedélye | 36 800 Ft |
+| VIII.5. |  |  |
 
-| VIII.6. | Létesítmény üzemeltetési, átalakítási engedélye | 17 300 Ft |
+| VIII.6. |  |  |
 
-| VIII.7. | Létesítmény üzemeltetése megszüntetésének engedélyezése | 30 100 Ft |
+| VIII.7. |  |  |
 
-| VIII.8. | Berendezés előállításának engedélyezése | 32 000 Ft |
+| VIII.8. |  |  |
 
-| VIII.9. | Radioaktív anyaggal, ionizáló sugárzást kibocsátó berendezéssel végzett tevékenység engedélyezése | 38 800 Ft |
+| VIII.9. |  |  |
 
-| VIII.10. | Tevékenységek megszüntetésének engedélyezése | 29 500 Ft |
+| VIII.10. |  |  |
 
-| VIII.11. | Inaktívvá nyilvánítási eljárás | 34 000 Ft |
+| VIII.11. |  |  |
 
-| VIII.12. | Radionuklidot tartalmazó szilárd anyag hatósági felügyelet alóli felszabadítása | 18 200 Ft |
+| VIII.12. |  |  |
 
-| VIII.13. | Radioaktív anyag előállításának, termelésének, forgalmazásának engedélyezése | 67 200 Ft |
+| VIII.13. |  |  |
 
-| VIII.14. | Radioaktív hulladék átmeneti, végleges elhelyezésére szolgáló létesítmény: |  |
+| VIII.14. |  |  |
 
-| VIII.14.1. | Létesítésének, telepítésének engedélyezése | 84 100 Ft |
+| VIII.14.1. |  |  |
 
-| VIII.14.2. | Üzembe helyezésének, átalakításának engedélyezése | 83 600 Ft |
+| VIII.14.2. |  |  |
 
-| VIII.14.3. | Üzemeltetésének engedélyezése | 220 100 Ft |
+| VIII.14.3. |  |  |
 
-| VIII.14.4. | Lezárásának engedélyezése | 238 400 Ft |
+| VIII.14.4. |  |  |
 
-| VIII.15. | Eszköz, berendezés vagy az ionizáló sugárzás elleni védőeszköz sugárvédelmi minősítési eljárása | 29 500 Ft |
+| VIII.15. |  |  |
 
-| VIII.16. | Sugárvédelmi képzés jóváhagyása: |  |
+| VIII.16. |  |  |
 
-| VIII.16.1. | Bővített, átfogó | 19 900 Ft |
+| VIII.16.1. |  |  |
 
-| VIII.16.2. | Alapfokú | 10 600 Ft |
+| VIII.16.2. |  |  |
 
-| VIII.17. | Sugáregészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által adott tevékenységi engedély területi hatályának kiterjesztése | 29 100 Ft |
+| VIII.17. |  |  |
 
-| VIII.18. | Hatósági személyi dózismérővel végzett vizsgálat | 2070 Ft/eset |
+| VIII.18. |  |  |
 
-| VIII.19. | Munkahelyi sugárvédelmi szabályzat jóváhagyása | 10 500 Ft |
+| VIII.19. |  |  |
 
-| VIII.20. | A radioaktív anyagok, valamint az ionizáló sugárzást létrehozó létesítmények, berendezések tulajdonjogának átruházására irányuló szerződés jóváhagyása | 10 000 Ft |
+| VIII.20. |  |  |
 
-| VIII.21. | Külső munkavállaló sugárvédelmi képzettsége megfelelőségének elbírálása | 10 000 Ft |
+| VIII.21. |  |  |
 
-| VIII.22. | Zárt sugárforrás első felhasználási idejének meghatározása | 10 000 Ft |
+| VIII.22. |  |  |
 
-| VIII.23. | Zárt sugárforrás felhasználási idejének meghosszabbítása | 10 000 Ft |
+| VIII.23. |  |  |
 
-| VIII.24. | Különleges sugárterhelés engedélyezése munkavállalók részére | 10 000 Ft/munkavállalónként |
+| VIII.24. |  |  |
 
 | IX. | Közegészségügyi-járványügyi igazgatási szolgáltatások |  |
 
