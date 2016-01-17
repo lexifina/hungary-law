@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-160-00-00
 | --- | --- | --- |
 | 2015-10-22 | 2015. évi CLX. törvény | 2015-160-00-00.0 (közlönyállapot) |
 | 2015-10-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-160-00-00.1 |
+| 2016-01-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-160-00-00.2 |
