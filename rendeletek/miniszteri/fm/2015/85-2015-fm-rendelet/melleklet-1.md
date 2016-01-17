@@ -1,4 +1,4 @@
-## 28. § Hatályát veszti a veszélyes állatokról és tartásuk engedélyezésének részletes szabályairól szóló 8/1999. (VIII. 13.) KöM–FVM–NKÖM–BM együttes rendelet.
+## 27–28. §[^1]
 
 1. melléklet a 85/2015. (XII. 17.) FM rendelethez
 
@@ -157,3 +157,5 @@
 7.34. takin (Budorcas taxicolor)
 
 7.35. pézsmatulok (Ovibos moschatus)
+
+[^1]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
