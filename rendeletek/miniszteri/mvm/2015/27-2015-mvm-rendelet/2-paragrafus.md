@@ -2,7 +2,7 @@
 
 2. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-Melléklet a 27/2015. (VI. 2.) MVM rendelethez
+Melléklet a 27/2015. (VI. 2.) MVM rendelethez[^1]
 
 A Világörökségi Várományos Helyszínek Jegyzéke
 
@@ -252,7 +252,7 @@ A Világörökségi Várományos Helyszínek Jegyzéke
 
 | 24. | Dunaharaszti | Német Nemzetiségi Tájház - Ungarndeutsches Heimatmuseum | 1001 | 652385 222444 | 47.346027 N 19.07904 E |
 
-| 25. | Dunapataj | Dunapataji Helytörténeti és Néprajzi Gyűjtemény | 1792, 1804 | 646299 144286 | 46.642935 N 18.99914 E |
+| 25. | Dunapataj | Dunapataji Helytörténeti és Néprajzi Gyűjtemény | 1792 | 646299 144286 | 46.642935 N 18.99914 E |
 
 | 26. | Dunavecse | Dunavecsei Helytörténeti Kiállítás | 64 | 644209 174713 | 46.916632 N 18.97145 E |
 
@@ -555,3 +555,5 @@ A Világörökségi Várományos Helyszínek Jegyzéke
 | EOV koordináta | WGS84 koordináta |
 
 | 1. | Ipolytarnóci ősélőhely | Ipolytarnóc | 015/1, 015/3-6, 016, 018, 019, 022, 029, 032/3-5, 039, 041/1-2, 043, 048, 049/1-2, 051, 053, 054, 055, 056, 057/2, 058, 059, 060/3, 061, 062, 063, 064/2, 065/2, 066, 067, 068, 069, 070, 071, 077, 080, 081 | X: 320948,82837 Y: 695258,509558 | N: 46.0754531990 E: 19.6565594947 |
+
+[^1]: A melléklet az 5/2016. (I. 11.) MvM rendelet 2. §-a szerint módosított szöveg.
