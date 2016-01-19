@@ -36,6 +36,6 @@
 
 | 3.3. |  | a világörökségről szóló 2011. évi LXXVII. törvény 7. § (2) bekezdés szerinti kezelés körébe tartozó feladatokat ellátó személyek létszámára és képzettségére vonatkozó adatok |  |
 
-2. melléklet a 32/2012. (V. 8.) NEFMI rendelethez[^13]
+2. melléklet a 32/2012. (V. 8.) NEFMI rendelethez[^15]
 
-[^13]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,7 +2,7 @@
 
 9. § (1) A világörökségi gondnokság kijelölése megszűnik, ha
 
-a)[^6] a megbízás időtartama lejárt,
+a)[^8] a megbízás időtartama lejárt,
 
 b) a kijelölt szervezet jogutód nélkül megszűnik,
 
@@ -14,21 +14,21 @@ d) a kijelölt szervezet a kijelölésről lemond.
 
 a) a világörökségi gondnokság a pályázati eljárás során szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a kijelölésre nem került volna sor,
 
-b)[^7] a kijelölt szervezet jogszabályból vagy a támogatási szerződésből eredő kötelezettségeit súlyosan megszegi.
+b)[^9] a kijelölt szervezet jogszabályból vagy a támogatási szerződésből eredő kötelezettségeit súlyosan megszegi.
 
 (3) A miniszter a kijelölést 60 napos határidővel írásban visszavonja, ha
 
-a)[^8] a kijelölt szervezet jogszabályból vagy a támogatási szerződésből eredő kötelezettségeit nem a kiemelkedő egyetemes érték és az azt hordozó valamennyi anyagi és nem anyagi tényező megőrzését biztosító módon látja el,
+a)[^10] a kijelölt szervezet jogszabályból vagy a támogatási szerződésből eredő kötelezettségeit nem a kiemelkedő egyetemes érték és az azt hordozó valamennyi anyagi és nem anyagi tényező megőrzését biztosító módon látja el,
 
 b) a megváltozott tények, körülmények miatt a kijelölt szervezet nem felel meg a Vötv. 10. § (2) bekezdésében meghatározott feltételeknek,
 
-c)[^9] a (2) bekezdés a) pontja kivételével a világörökségi gondnokság szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott a jogszabályból vagy a támogatási szerződésből eredő kötelezettségei teljesítése során,
+c)[^11] a (2) bekezdés a) pontja kivételével a világörökségi gondnokság szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott a jogszabályból vagy a támogatási szerződésből eredő kötelezettségei teljesítése során,
 
 d) a kijelölés alapjául szolgáló jelentős tények, körülmények megváltozásának 8. § szerinti bejelentését a világörökségi gondnokság elmulasztja.
 
 (4) A kijelölt szervezet a kijelölésről írásban lemondhat, amennyiben a Vötv. 7. § (2) bekezdés szerinti kezelés körébe tartozó feladatokat személyi, tárgyi vagy anyagi feltételek hiányában nem tudja ellátni. A lemondási idő három hónap.
 
-(5)[^10] A miniszter a világörökségi gondnokság kijelölésének (1) bekezdés b)–d) pontjai szerint történő megszűnése esetén haladéktalanul, az (1) bekezdés a) pontja szerint történő megszűnése esetén a megbízás időtartamának lejártát megelőző két hónapon belül gondoskodik új világörökségi gondnokság kijelölésének előkészítéséről.
+(5)[^12] A miniszter a világörökségi gondnokság kijelölésének (1) bekezdés b)–d) pontjai szerint történő megszűnése esetén haladéktalanul, az (1) bekezdés a) pontja szerint történő megszűnése esetén a megbízás időtartamának lejártát megelőző két hónapon belül gondoskodik új világörökségi gondnokság kijelölésének előkészítéséről.
 
 (6) A világörökségi gondnokság kijelölésének (1) bekezdés a) pontja szerint történő megszűnése esetén a miniszter a világörökségi gondnokság kijelölését – a világörökségi testület véleményének figyelembevételével – legfeljebb hat hónappal meghosszabbíthatja.
 
@@ -36,8 +36,8 @@ d) a kijelölés alapjául szolgáló jelentős tények, körülmények megvált
 
 (8) A miniszter – a világörökségi testület véleményének figyelembevételével – dönthet a világörökségi gondnokság megbízási időtartamának a Vötv. 10. § (3) bekezdés szerinti meghosszabbításáról, amennyiben a világörökségi gondnokság a korábbi tevékenységét megfelelő szakmai színvonalon látta el.
 
-[^6]: A 9. § (1) bekezdés a) pontja az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^7]: A 9. § (2) bekezdés b) pontja az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^8]: A 9. § (3) bekezdés a) pontja az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^9]: A 9. § (3) bekezdés c) pontja az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^10]: A 9. § (5) bekezdése az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^8]: A 9. § (1) bekezdés a) pontja az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 9. § (2) bekezdés b) pontja az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 9. § (3) bekezdés a) pontja az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 9. § (3) bekezdés c) pontja az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^12]: A 9. § (5) bekezdése az 57/2013. (VIII. 7.) EMMI rendelet 6. § (3) bekezdés d) pontja szerint módosított szöveg.
