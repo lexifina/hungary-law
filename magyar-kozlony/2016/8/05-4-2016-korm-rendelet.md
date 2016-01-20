@@ -1,0 +1,333 @@
+# A Kormány 4/2016. (I. 20.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 8. szám, 2016. január 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1cb9e0a2a80cc9d4f707ccb19f0f31a1dda22230/dokumentumok/3d39a5376f5e2af5a6f10b0da88b800496442de5/letoltes)
+
+---
+
+A Kormány 4/2016. (I. 20.) Korm. rendelete
+a fejlesztéspolitikai döntéshozatal egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról
+A Kormány
+az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. pontjában kapott felhatalmazás alapján,
+az 5. alcím tekintetében a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 143. § (1) bekezdés
+d) pontjában kapott felhatalmazás alapján,
+a 22. § tekintetében az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredetei jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai
+Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló
+4/2011. (I. 28.) Korm. rendelet módosítása
+1. §
+A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból
+és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet
+[a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 3. §-a helyébe a következő rendelkezés lép:
+„3. § (1) A Kormány dönt a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási
+rendszerének kialakításáról.
+(2) A Kormány
+a) dönt az operatív programok tartalmára és azok módosítására vonatkozóan az Európai Bizottság számára
+benyújtandó javaslatokról,
+b) elfogadja a nagyprojektekre vonatkozóan az Európai Bizottság számára benyújtandó javaslatot,
+c) elfogadja az akciótervet,
+d) nevesíti a kiemelt projekteket,
+e) előzetesen állást foglal az egymilliárd forintot meghaladó támogatási igényű projektjavaslatok támogatásáról,
+f) jóváhagyja a projekt szakaszolását,
+g) kijelöli a közreműködő szervezetet, a forráskezelő szervezetet és az alapkezelő szervezetet,
+h) dönt az 56/A. §-ban meghatározott esetben,
+i) ellátja a 2007–2013 programozási időszak zárásával összefüggő egyes, a feladat- és hatáskörébe tartozó
+feladatokat.
+(3) A Kormány a (2) bekezdés
+a) a), b), d)–i) pontjában meghatározott esetben egyedi ügyben hozott nyilvános határozatot,
+b) c) pontjában meghatározott esetben normatív határozatot
+tesz közzé.
+(4) A (2) bekezdés d) és e) pontja alapján kiadott határozat legalább
+a) a projekt azonosító számát, a konstrukció azonosító számát vagy a kapcsolódó operatív program megjelölését,
+b) a projekt megnevezését,
+c) a támogatást igénylő vagy a kedvezményezett nevét,
+d) a támogatás vagy az elszámolható közkiadás összegét,
+e) a projekt rövid bemutatását és
+f) – feltételhez kötött támogatás esetén – a támogathatóság feltételeit
+tartalmazza.”
+2. §
+A 4/2011. (I. 28.) Korm. rendelet 5. § h) pont hg) alpontja helyébe a következő rendelkezés lép és a h) pont
+a következő hh) alponttal egészül ki:
+[Az európai uniós források felhasználásáért felelős miniszter
+központi koordinációs szervezeti egysége (a továbbiakban: központi koordinációs szerv) útján központi koordinációs
+funkciót lát el az operatív programok összehangolt végrehajtása, valamint a fejlesztéspolitikai jogszabályok egységes
+alkalmazásának biztosítása érdekében, melynek keretében]
+„hg) figyelemmel kíséri az operatív programok keretében kiírt pályázati felhívás előkészítésének folyamatát,
+az egységes formai és tartalmi követelmények, valamint az operatív programok támogatási konstrukciói közötti
+összhang biztosítása céljából megvizsgálja és e szempontok tekintetében jóváhagyja a pályázati felhívásokat,
+valamint azokkal kapcsolatos változtatásokat,
+
+hh) nyomon követi, értékeli a komplex programokat, – a Kormány eltérő döntése hiányában – koordinálja azok
+megvalósítását,”
+3. §
+A 4/2011. (I. 28.) Korm. rendelet 28. § (7) bekezdése helyébe a következő rendelkezés lép és a § a következő (8) és
+(9) bekezdéssel egészül ki:
+„(7) A kiemelt projektjavaslat beérkezésétől számított 30 napon belül meg kell hozni a támogatói döntést és meg
+kell kötni a támogatási szerződést. A határidőbe
+a) a projektgazda hiánypótlási és tisztázó kérdésre adott válaszadási ideje,
+b) a támogatási szerződés megkötéséhez szükséges idő,
+c) a projektgazdától vagy harmadik féltől függő támogatási szerződési feltételek teljesítési ideje,
+d) a kifogás elbírálásának időtartama, valamint
+e) a Kormány döntéshozatali ideje
+nem számít bele.
+(8) A (7) bekezdés e) pontja szerinti időtartam a kapcsolódó előterjesztésnek a Kormány által tárgyalt
+fejlesztéspolitikai ügyek tekintetében a titkársági feladatokat ellátó szervezeti egységhez történő beérkezéstől
+számítandó.
+(9) Hiánypótlásra a szerződéskötési szakaszban egy alkalommal van lehetőség.”
+4. §
+A 4/2011. (I. 28.) Korm. rendelet 61/A. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek és a §
+a következő (6a) bekezdéssel egészül ki:
+„(6) Az irányító hatóság dönt az (1) bekezdés szerinti esetben a támogatás növeléséről.
+(6a) Az irányító hatóság a (6) bekezdés szerinti döntése meghozatalát megelőzően kezdeményezi, hogy a Kormány
+állást foglaljon a projekt összköltségének emelkedéséről
+a) nagyprojekt esetén, vagy
+b) ha a projekt elszámolható összköltsége a költségnövekménnyel együtt az egymilliárd forintot meghaladná.
+(7) A Kormány dönt a (2) bekezdés szerinti esetben a támogatás növeléséről.”
+5. §
+A 4/2011. (I. 28.) Korm. rendelet
+1. 2. § (1) bekezdés 6. pontjában a„Program, 2.”szövegrész helyébe a„Program 2.”szöveg,
+2. 2. § (1) bekezdés 12. pontjában a „Nemzeti Fejlesztési Kormánybizottság” szövegrész helyébe a „Kormány”
+szöveg,
+3. 5. § b) pontjában a„Nemzeti Fejlesztési Kormánybizottságot”szövegrész helyébe a„Kormányt”szöveg,
+4. 5. § c) pontjában a„Nemzeti Fejlesztési Kormánybizottság”szövegrész helyébe a„Kormány”szöveg,
+5. 5. § d) pontjában a„Nemzeti Fejlesztési Kormánybizottság”szövegrész helyébe a„Kormány”szöveg,
+6. 5. § e) pontjában a„Nemzeti Fejlesztési Kormánybizottság”szövegrész helyébe a„Kormány”szöveg,
+7. 5. § h) pont hi) alpontjában a„Nemzeti Fejlesztési Kormánybizottság”szövegrész helyébe a„Kormány”szöveg,
+8. 5. § h) pont hj) alpontjában a„Nemzeti Fejlesztési Kormánybizottság”szövegrész helyébe a„Kormány”szöveg,
+9. 5. § h) pont hq) alpontjában a „Nemzeti Fejlesztési Kormánybizottság” szövegrész helyébe a „Kormány”
+szöveg,
+10. 5/A. § (1) bekezdés l) pontjában a „Nemzeti Fejlesztési Kormánybizottság” szövegrész helyébe a „Kormány”
+szöveg,
+11. 5/A. § (1) bekezdés o) pontjában a „Nemzeti Fejlesztési Kormánybizottság” szövegrész helyébe a „Kormány”
+szöveg,
+12. 7. § (2) bekezdés i) pontjában a „Nemzeti Fejlesztési Kormánybizottság” szövegrész helyébe a „Kormány”
+szöveg,
+13. 26. § (2) bekezdésében a „Nemzeti Fejlesztési Kormánybizottság dönt” szövegrész helyébe a „Kormány
+előzetesen állást foglal”szöveg,
+14. 28. § (1) bekezdésében a„Nemzeti Fejlesztési Kormánybizottság”szövegrész helyébe a„Kormány”szöveg,
+15. 28. § (2) bekezdésében a „Nemzeti Fejlesztési Kormánybizottság” szövegrész helyébe a „Kormány” szöveg,
+a„4/A. § (2)”szövegrész helyébe a„3. § (4)”szöveg,
+16. 35/A. § (4) bekezdésében a„Nemzeti Fejlesztési Kormánybizottság”szövegrész helyébe a„Kormány”szöveg,
+17. 36. § (9) bekezdésében a„Nemzeti Fejlesztési Kormánybizottság”szövegrész helyébe a„Kormány”szöveg,
+18. 56/A. § (1) bekezdés nyitó szövegrészében a „Nemzeti Fejlesztési Kormánybizottság” szövegrész helyébe
+a„Kormány”szöveg,
+
+19. 61. § (5) bekezdésében a „Nemzeti Fejlesztési Kormánybizottság jogosult dönteni” szövegrész helyébe
+a„Kormány dönt”szöveg
+lép.
+6. §
+Hatályát veszti a 4/2011. (I. 28.) Korm. rendelet
+a) 3. alcím címében az„és a Nemzeti Fejlesztési Kormánybizottság”szövegrész,
+b) 4. és 4/A. §-a,
+c) 23/A. § (2) bekezdésében a„vagy a Nemzeti Fejlesztési Kormánybizottság”szövegrész.
+2. Az egységes működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet módosítása
+7. §
+Az egységes működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 547/2013. (XII. 30.)
+Korm. rendelet] 1. melléklete az 1. melléklet szerint módosul.
+8. §
+Az 547/2013. (XII. 30.) Korm. rendelet 1. melléklet
+1. 76.5. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+2. 105.4. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+3. 106.2. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+4. 106.4. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+5. 107.4. pontjában az „az NFK” szövegrész helyébe az „a Kormány” szöveg, az „Az NFK” szövegrész helyébe
+az„A Kormány”szöveg,
+6. 111.5. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+7. 397.2. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+8. 397.3. pontjában az „az NFK a projektet jóváhagyja, az NFK” szövegrész helyébe az „a Kormány a projektet
+jóváhagyja, a Kormány”szöveg, az„az NFK által”szövegrész helyébe az„a Kormány által”szöveg,
+9. 398.2. pontjában a„4/A. § (2)”szövegrész helyébe a„3. § (4)”szöveg,
+10. 399.1. pontjában az„az NFK-nak”szövegrész helyébe az„a Kormánynak”szöveg,
+11. 399.2. pontjában az„az NFK”szövegrészek helyébe az„a Kormány”szöveg,
+12. 401.1. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+13. 401.2. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+14. 402.2. pont a) alpontjában az„az NFK-nak”szövegrész helyébe az„a Kormánynak”szöveg,
+15. 402.2. pont b) alpontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+16. 402.2. pont c) alpontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+17. 406.2. pontjában „az NFK döntési ideje, ami a kapcsolódó előterjesztésnek az NFK titkárságára” szövegrész
+helyébe az „a Kormány döntési ideje, amely a kapcsolódó előterjesztésnek a Kormány által tárgyalt
+fejlesztéspolitikai ügyek tekintetében a titkársági feladatokat ellátó szervezeti egységhez”szöveg,
+18. 416.5. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+19. 416.6. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+20. 416.7. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg
+lép.
+3. A támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló
+60/2014. (III. 6.) Korm. rendelet módosítása
+9. §
+A támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.)
+Korm. rendelet [a továbbiakban: 60/2014. (III. 6.) Korm. rendelet] 3. §-a helyébe a következő rendelkezés lép:
+„3. § (1) A Kormány
+a) meghatározza a fejlesztési forrásokkal összefüggő monitoring tevékenység átfogó szabályait,
+b) meghatározza a fejlesztési forrásokkal összefüggő monitoring tevékenység célrendszerét,
+c) évente beszámoltatja a monitoring intézményrendszert a fejlesztési forrásokkal összefüggő monitoring
+tevékenységéről,
+d) véleményezi az Európai Bizottság számára benyújtandó nemzeti stratégiai és előrehaladási jelentést.
+(2) Az (1) bekezdés d) pontjában meghatározott tevékenység során a Kormány figyelemmel kíséri a Partnerségi
+Megállapodás keretében elérhető fejlesztési források felhasználásával végrehajtott programok előrehaladását,
+
+vizsgálja célkitűzéseik megvalósítását a teljesítmény-keretrendszer indikátorai és az abszorpciós célok teljesülése
+szempontjából. A megfelelő előrehaladás és a célkitűzések teljesítése érdekében általános és egyedi intézkedéseket
+tesz, illetve kezdeményez.”
+10. §
+A 60/2014. (III. 6.) Korm. rendelet 5. § (1) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+(A miniszter)
+„c) ellátja a fejlesztési források felhasználásának jogszerűségi és eredményességi szempontú nyomon követését, és
+nem megfelelő teljesítés esetén szankciók alkalmazását kezdeményezheti,
+d) meghatározza a monitoring szervezetrendszer működésének módszertanát, kidolgozza a monitoring
+szervezetrendszer működésének szabályait és célrendszerét,”
+11. §
+A 60/2014. (III. 6.) Korm. rendelet 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ha az adatrögzítésért felelős személy az adatrögzítési kötelezettségének nem, vagy nem teljes körűen tesz
+eleget, – a (2) bekezdésben meghatározott kivétellel – a miniszter az érintett személy, illetve projekt valamennyi
+támogatásának kifizetését felfüggesztheti vagy felfüggesztését kezdeményezheti, amíg a felelős e rendelet szerinti
+kötelezettségének eleget nem tesz.”
+12. §
+A 60/2014. (III. 6.) Korm. rendelet
+a) 1. § (2) bekezdésében az„Informatikai”szövegrész helyébe az„Információs”szöveg,
+b) 6. § (1) bekezdés f) pontjában az„az NFK-t”szövegrész helyébe az„a minisztert”szöveg,
+c) 9. alcím címében az„Informatikai”szövegrész helyébe az„Információs”szöveg,
+d) 14. §-ában az„Informatikai”szövegrész helyébe az„Információs”szöveg,
+e) 10. alcím címében az„Informatikai”szövegrész helyébe az„Információs”szöveg,
+f) 17. §-ában az„Informatikai”szövegrész helyébe az„Információs”szöveg,
+g) 25. § (2) bekezdés g) pont 2. alpontjában az„az NFK-t”szövegrész helyébe az„a Kormányt”szöveg
+lép.
+13. §
+Hatályát veszti a 60/2014. (III. 6.) Korm. rendelet
+a) 4. alcíme,
+b) 18. §-a,
+c) 21. § (1) bekezdése.
+4. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
+14. §
+A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának
+rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 4. §-a helyébe
+a következő rendelkezés lép:
+„4. § (1) A Kormány
+a) kialakítja a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerét,
+b) jóváhagyja azoknak a programoknak a tartalmát és azok elfogadására irányuló javaslatot, amelyek elfogadása
+az Európai Bizottság hatáskörébe tartozik,
+c) elfogadja az éves fejlesztési keretet,
+d) elfogadja az ITP-ket,
+e) a 65. § (2a) bekezdésében meghatározott kivétellel előzetesen állást foglal annak a projektjavaslatnak
+a tekintetében, amelynek támogatását az irányító hatóság egymilliárd forintot meghaladó összegben javasolja
+megállapítani,
+f) előzetesen állást foglal a projektek többlettámogatása tekintetében a 87. § (1) bekezdés c) pontja szerint,
+g) külön jogszabályban kijelöli a Környezeti és Energiahatékonysági Operatív Program terhére finanszírozott,
+szennyvízelvezetési és -tisztítási, hulladékgazdálkodási és az ivóvízminőség-javító projektek határidőben történő
+megvalósításáért felelős minisztert, valamint ezen projektek menedzsment feladatait ellátó, továbbá a projektek
+keretében megvalósuló közbeszerzési eljárásokat lebonyolító – a miniszter irányítása alá tartozó – szervezetet,
+meghatározza annak feladat- és hatáskörét,
+h) nyomon követi a kijelölt szervek tevékenységét, dönt a 34. és 35. § szerinti próbaidőről,
+
+i) előzetesen állást foglal a pénzügyi közvetítői felhívás tervezete tekintetében, valamint ha a pénzügyi közvetítő
+kiválasztására közbeszerzési eljárásban kerül sor, az alapok alapját végrehajtó szervezet javaslata alapján
+– a XVI. Fejezet szerinti ellenőrzést követően – állást foglalt az ajánlati, ajánlattételi, illetve a részvételi felhívás és
+az ezekhez kapcsolódó dokumentáció tekintetében,
+j) jóváhagyja az Európai Bizottság számára benyújtandó, az Európai Hálózatfinanszírozási Eszközből finanszírozandó
+projektjavaslatokat és a nagyprojekt-javaslatokat.
+(2) Az (1) bekezdés e) pontja szerinti határozat tartalmazza
+a) a kapcsolódó program megjelölését vagy a projekt azonosító számát,
+b) a projekt megnevezését,
+c) a támogatást igénylő vagy a kedvezményezett nevét,
+d) a támogatás összegét és
+e) a projekt rövid bemutatását.
+(3) Az (1) bekezdés f) pontja szerinti határozat tartalmazza a (2) bekezdés a)–c) és e) pontjában foglaltakat, valamint
+a) a támogatás eredeti összegét,
+b) a többlettámogatás jóváhagyott összegét és
+c) a támogatás b) pontban megjelölt összeggel megnövelt összegét.”
+15. §
+A 272/2014. (XI. 5.) Korm. rendelet 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) előkészíti a Kormány e rendelet szerinti
+fejlesztéspolitikai döntéseit.”
+16. §
+A 272/2014. (XI. 5.) Korm. rendelet 6. alcíme a következő 7/A. §-sal egészül ki:
+„7/A. § Az európai uniós források felhasználásáért felelős miniszter feladata az európai uniós forrásokból
+megvalósuló programok összhangjának biztosítása és a Kormány fejlesztéspolitikai döntéseinek előkészítése.”
+17. § (1) A 272/2014. (XI. 5.) Korm. rendelet
+1. 7. § (2) bekezdés a) pontjában az „az NFK” szövegrész helyébe az „a Kormány” szöveg, az „az 5. § (2)”
+szövegrész helyébe az„a 4. § (1)”szöveg,
+2. 7. § (3) bekezdésében az „Az 5. § (2)” szövegrész helyébe az „A 4. § (1)” szöveg, az „az NFK” szövegrészek
+helyébe az„a Kormány”szöveg,
+3. 8. § (3) bekezdés 2. pontjában a „melynek” szövegrész helyébe az „amelynek” szöveg, az „az NFK részére
+az éves nemzeti keretre”szövegrész helyébe az„az éves fejlesztési keretről a Kormány részére”szöveg,
+4. 9. § a) pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+5. 10. § (1) bekezdés 11. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+6. 15. § (2) bekezdés h) pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+7. 20. § 10. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+8. 20. § 25. pontjában a „ha indokolt, javaslatot tesz az NFK-nak a források átcsoportosítására” szövegrész
+helyébe a„– ha indokolt – a források átcsoportosítására vonatkozó javaslatot tesz a Kormány részére”szöveg,
+9. 43. § (1) bekezdésében az„az NFK”szövegrészek helyébe az„a Kormány”szöveg,
+10. 44. § (6) bekezdésében az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+11. 45. § (1) bekezdésében az„NFK”szövegrész helyébe a„Kormány”szöveg,
+12. 54/B. § a) pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+13. 57. § (2) bekezdésében az„az NFK-nak”szövegrész helyébe az„a Kormány részére”szöveg,
+14. 57. § (3) bekezdés nyitó szövegrészében az „Az NFK határozatban dönt” szövegrész helyébe az „A Kormány
+egyedi ügyben hozott nyilvános határozatot tesz közzé”szöveg,
+15. 65. § (2) bekezdésében az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+16. 74. § (2) bekezdésében az„az NFK-nak” szövegrész helyébe az„a Kormánynak” szöveg, az„az NFK” szövegrész
+helyébe az„a Kormány”szöveg, az„az NFK-t”szövegrész helyébe az„a Kormányt”szöveg,
+17. 74. § (3) bekezdésében az„az NFK”szövegrészek helyébe az„a Kormány”szöveg,
+18. 74. § (4) bekezdésében az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+19. 87. § (1) bekezdés c) pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+20. 192/A. § (1) bekezdésében a„4. § g) pont”szövegrész helyébe a„4. § (1) bekezdés g) pontja”szöveg,
+21. 192/E. §-ban a„4. § g) pontja”szövegrész helyébe a„4. § (1) bekezdés g) pontja”szöveg
+lép.
+
+(2) A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
+1. 48.3. pontjában az „előterjesztést az FKB javaslatára az NFK hagyja jóvá” szövegrész helyébe
+az„előterjesztésről az FKB javaslatára a Kormány dönt”szöveg,
+2. 48.4. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg,
+3. 92.2. pontjában a„készít az NFK”szövegrész helyébe a„tesz a Kormány”szöveg,
+4. 92.3. pontjában az „Az NFK döntést, a nagyprojekt” szövegrész helyébe az „A Kormány döntését,
+a nagyprojekt Európai”szöveg, az„a Bizottsági döntést”szövegrész helyébe az„az Európai Bizottság döntését”
+szöveg,
+5. 92.4. pontjában a „megkötésére illetve” szövegrész helyébe a „megkötésére, illetve” szöveg, az „az NFK”
+szövegrész helyébe az„a Kormány”szöveg,
+6. 93. pontjában az „az NFK” szövegrész helyébe az „a Kormány” szöveg, az „EU” szövegrész helyébe „uniós”
+szöveg,
+7. 94.4. pontjában az „az NFK” szövegrész helyébe az „a Kormány” szöveg, az „Az NFK” szövegrész helyébe az
+„A Kormány”szöveg,
+8. 96.5. pontjában az„az NFK”szövegrész helyébe az„a Kormány”szöveg
+lép.
+18. §
+Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet
+a) 4. alcíme,
+b) 201. § (2) bekezdése.
+5. Az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő,
+a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe
+utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és tisztítási,
+a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014.
+(XII. 19.) Korm. rendelet módosítása
+19. §
+Az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási
+időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020
+programozási időszakban a szennyvízelvezetési és tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító
+beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet [a továbbiakban: 339/2014. (XII. 19.)
+Korm. rendelet] 4. § (1) bekezdés c) pontjában a „Nemzeti Fejlesztési Kormánybizottságot (a továbbiakban: NFK)”
+szövegrész helyébe a„Kormányt”szöveg lép.
+20. §
+Hatályát veszti a 339/2014. (XII. 19.) Korm. rendelet 4. § (1) bekezdés d) pontjában az„az NFK útján”szövegrész.
+6. Záró rendelkezések
+21. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+22. §
+Hatályát veszti a Nemzeti Fejlesztési Kormánybizottságról szóló 140/2012. (VII. 2.) Korm. rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 4/2016. (I. 20.) Korm. rendelethez
+1. Az 547/2013. (XII. 30.) Korm. rendelet 1. melléklet 4.3. pontja helyébe a következő rendelkezés lép:
+„4.3. A központi koordinációs szerv a 4.2. pont szerinti előterjesztést a Fejlesztéspolitikai Koordinációs Bizottság
+(a továbbiakban: FKB) elé terjeszti. Az előterjesztésről az FKB javaslatára a Kormány dönt.”
+2. Az 547/2013. (XII. 30.) Korm. rendelet 1. melléklet 8.2. pont d) alpontja helyébe a következő rendelkezés lép:
+(A többlet-kötelezettségvállalás felhasználásának lépései, figyelemmel a Rendelet 29/A. §-ára:)
+„d) az előterjesztésről az FKB javaslatára a Kormány dönt,”
+3. Az 547/2013. (XII. 30.) Korm. rendelet 1. melléklet 76.3. és 76.4. pontja helyébe a következő rendelkezések lépnek:
+„76.3. Az FKB javaslatára a Kormány dönt a projektjavaslatot tartalmazó előterjesztésről.
+76.4. Az IH haladéktalanul értesíti a Kormány döntéséről a KSZ-t.”
+4. Az 547/2013. (XII. 30.) Korm. rendelet 1. melléklet 105.3. pontja helyébe a következő rendelkezés lép:
+„105.3. Az FKB javaslatára a Kormány dönt a nagyprojektre vonatkozóan az Európai Bizottság számára benyújtandó
+javaslat elfogadásáról és a támogatási kérelem Európai Bizottság számára történő megküldéséről.”
+5. Hatályát veszti az 547/2013. (XII. 30.) Korm. rendelet 1. melléklet 394.7. pontjában a„vagy az NFK”szövegrész.
+
+V. A Kormány tagjainak rendeletei
