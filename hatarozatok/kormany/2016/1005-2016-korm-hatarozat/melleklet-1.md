@@ -2,7 +2,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Terület- és Településfejlesztési Operatív Program 2015. évre szóló éves fejlesztési keretének megállapításáról szóló 1811/2015. (XI. 10.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1005/2016. (I. 18.) Korm. határozathoz
 
@@ -179,3 +179,5 @@
 | 34. | TOP-6.9.1-16 | A társadalmi együttműködés erősítését szolgáló helyi szintű komplex programok | 4,788 | területi | 2016. augusztus |
 
 | 35. | TOP-6.9.2-16 | A helyi identitás és kohézió erősítése | területi | 2016. augusztus |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
