@@ -18,7 +18,7 @@
 
 ## 2. egyetért azzal, hogy a belügyminiszter az 1. b) alpont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében és egy összegben 800,0 millió forint támogatást nyújtson Szombathely Megyei Jogú Város Önkormányzata részére, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön Szombathely Megyei Jogú Város Önkormányzatával;
 
-## 3. egyetért azzal, hogy a belügyminiszter az 1. b) alpont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében és egy összegben 900,0 millió forint támogatást nyújtson Székesfehérvár Megyei Jogú Város Önkormányzata részére az id. Mezővári József Sporttelepen szabványméretű műfüves pályaépítésre, a MÁV Előre sporttelepen két nagy füves, illetve egy 20x40 méteres műfüves pálya megépítésére és öltözőblokkok kialakítására, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön Székesfehérvár Megyei Jogú Város Önkormányzatával;
+## 3.[^1] egyetért azzal, hogy a belügyminiszter az 1. b) alpont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében és egy összegben 900,0 millió forint támogatást nyújtson Székesfehérvár Megyei Jogú Város Önkormányzata részére az id. Mezővári József Sporttelepen szabványméretű műfüves pályaépítésre, a MÁV Előre sporttelepen két nagy füves, illetve egy 20×40 méteres műfüves pálya megépítésére és öltözőblokkok kialakítására, a Homoksoron létesült utánpótlás-nevelési sporttelep megvásárlására, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön Székesfehérvár Megyei Jogú Város Önkormányzatával;
 
 ## 4. egyetért azzal, hogy ha a 2. és 3. pont szerinti támogatások az Önkormányzatok számára 2015. évben nem, vagy nem teljes összegben kerül folyósításra, a 2016. évben a IX. Helyi önkormányzatok támogatásai fejezetben azonos néven létrehozott címre e határozat rendelkezéseit kell alkalmazni.
 
@@ -79,3 +79,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1009/2016. (I. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
