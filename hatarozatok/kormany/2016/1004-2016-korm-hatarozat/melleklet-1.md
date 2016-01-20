@@ -40,7 +40,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program 2015. évre szóló éves fejlesztési keretének megállapításáról szóló 1561/2015. (VIII. 12.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1004/2016. (I. 18.) Korm. határozathoz
 
@@ -187,3 +187,5 @@
 | 14. | KÖFOP-3.3.2-16 | Az e-kohéziós irányelv átültetése | 9,89 | kiemelt | 2016. január |
 
 | 15. | KÖFOP-3.3.3-15 | A pályázók és kedvezményezettek kapacitásainak támogatása | 18,43 | kiemelt | Meghirdetve: 2015. december |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
