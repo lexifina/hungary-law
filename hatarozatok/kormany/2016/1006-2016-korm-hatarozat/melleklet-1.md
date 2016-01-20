@@ -6,7 +6,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Gazdaságfejlesztési és Innovációs Operatív Program 2015. évre szóló éves fejlesztési keretének megállapításáról szóló 1173/2015. (III. 24.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz
 
@@ -247,3 +247,5 @@
 | 17. | GINOP-8.6.4-16-KEHOP-5.1.2-16 | Megújuló alapú zöldáram-termelés elősegítése pénzügyi eszközök révén finanszírozott kombinált hitel | 10,66 | KEHOP-5.1.2-16 | 18,97 | alapok alapját végrehajtó szervezet jár el pénzügyi közvetítőként | 2016. december |
 
 | 18. | GINOP-8.8.1-16 | Foglalkoztatás ösztönzése célú hitel | 15,00 | – | – | alapok alapját végrehajtó szervezet jár el pénzügyi közvetítőként | 2016. szeptember |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
