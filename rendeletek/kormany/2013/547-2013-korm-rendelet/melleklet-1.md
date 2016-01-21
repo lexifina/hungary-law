@@ -40,7 +40,7 @@ b) jóváhagyja a kiválasztási szempontrendszert.
 
 4.2. Az IH összeállítja az akciótervet tartalmazó előterjesztést és megküldi a központi koordinációs szerv részére.
 
-4.3. A központi koordinációs szerv a 4.2. pont szerinti előterjesztést a Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban FKB) elé terjeszti. Az előterjesztést az FKB javaslatára a Nemzeti Fejlesztési Kormánybizottság (a továbbiakban: NFK) hagyja jóvá.
+4.3. A központi koordinációs szerv a 4.2. pont szerinti előterjesztést a Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) elé terjeszti. Az előterjesztésről az FKB javaslatára a Kormány dönt.
 
 4.4. A központi koordinációs szerv gondoskodik a megfelelő tartalmú, egységes szerkezetű akcióterveknek a www.szechenyi2020.hu honlapon való közzétételéről és folyamatos aktualizálásáról.
 
@@ -84,7 +84,7 @@ b) az IH az előterjesztést megküldi a központi koordinációs szerv részér
 
 c) a központi koordinációs szerv – egyetértése esetén – az előterjesztést az FKB elé terjeszti,
 
-d) az előterjesztést az FKB javaslatára az NFK jóváhagyja,
+d) az előterjesztésről az FKB javaslatára a Kormány dönt,
 
 e) a központi koordinációs szerv a javaslattal kapcsolatos jóváhagyásról vagy elutasításról haladéktalanul értesíti az IH-t.
 
@@ -746,11 +746,11 @@ dönt.
 
 76.2. A központi koordinációs szerv az előterjesztést megküldi az FKB részére.
 
-76.3. A projektjavaslatot tartalmazó előterjesztésről az FKB javaslatára az NFK dönt.
+76.3. Az FKB javaslatára a Kormány dönt a projektjavaslatot tartalmazó előterjesztésről.
 
-76.4. Az NFK döntéséről az IH haladéktalanul értesíti a KSZ-t.
+76.4. Az IH haladéktalanul értesíti a Kormány döntéséről a KSZ-t.
 
-76.5. A Rendelet 27. §-a szerinti döntési határidőbe az előterjesztésnek a központi koordinációs szerv részére történő megküldésétől az NFK döntésének meghozataláig terjedő időtartam nem számít bele.
+76.5. A Rendelet 27. §-a szerinti döntési határidőbe az előterjesztésnek a központi koordinációs szerv részére történő megküldésétől a Kormány döntésének meghozataláig terjedő időtartam nem számít bele.
 
 43. Az újraértékelés
 
@@ -1008,19 +1008,19 @@ A nagyprojektek
 
 105.2. A központi koordinációs szerv az előterjesztést az FKB részére előterjeszti.
 
-105.3. A nagyprojekt elfogadásáról, valamint a támogatási kérelem Európai Bizottság számára történő megküldéséről az FKB javaslatára az NFK dönt.
+105.3. Az FKB javaslatára a Kormány dönt a nagyprojektre vonatkozóan az Európai Bizottság számára benyújtandó javaslat elfogadásáról és a támogatási kérelem Európai Bizottság számára történő megküldéséről.
 
-105.4. Nagyprojekt esetében a támogatási szerződés megkötésére az NFK döntését követően kerül sor.
+105.4. Nagyprojekt esetében a támogatási szerződés megkötésére a Kormány döntését követően kerül sor.
 
 105.5. A 105.1. pont szerinti értékhatár megállapításának módszeréről az IH dönt. A választott módszert az IH minden érintett projektje esetében egységesen kell alkalmazni.
 
 106.1. A támogatási szerződés megkötését követően az IH jóváhagyás céljából elektronikus formában megküldi az Európai Bizottságnak a kedvezményezett által összeállított támogatási kérelmet és annak mellékleteit.
 
-106.2. Kivételes esetben az IH a támogatási szerződés megkötését megelőzően – de az NFK döntését követően – is megküldheti az Európai Bizottságnak a támogatási kérelmet.
+106.2. Kivételes esetben az IH a támogatási szerződés megkötését megelőzően – de a Kormány döntését követően – is megküldheti az Európai Bizottságnak a támogatási kérelmet.
 
 106.3. A 106.2. pontban meghatározott esetben, ha a támogatási szerződés megkötésére a támogatási kérelem megküldését követő 40 napon belül nem kerül sor, az IH kezdeményezi az Európai Bizottságnál a jóváhagyás folyamatának felfüggesztését.
 
-106.4. A támogatási kérelemben – az NFK eltérő döntése hiányában – a maximális EU támogatási arányt kell kérni az Európai Bizottságtól.
+106.4. A támogatási kérelemben – a Kormány eltérő döntése hiányában – a maximális EU támogatási arányt kell kérni az Európai Bizottságtól.
 
 106.5. Ha az Európai Bizottság befogadja az IH által küldött támogatási kérelmet, az IH a támogatási kérelem Európai Bizottság általi befogadásának tényéről írásban tájékoztatja a KSZ-t, a központi koordinációs szervet, az ágazati fejlesztésért felelős minisztert, a kedvezményezettet és az Igazoló Hatóságot. Az érintett miniszter tájékoztatásáról – ha szükséges – az ágazati fejlesztésért felelős miniszter gondoskodik.
 
@@ -1030,7 +1030,7 @@ A nagyprojektek
 
 107.3. A KSZ a javaslatok és az egyeztetés alapján ellenőrzi a módosított támogatási kérelmet, melyet a KSZ vezetőjének jóváhagyását követően megküld az IH részére.
 
-107.4. Az IH egyetértése esetén előterjesztést készít az FKB és az NFK részére a módosított támogatási kérelemről. Az NFK döntését követően az IH megküldi a módosított támogatási kérelmet az Európai Bizottság részére.
+107.4. Az IH egyetértése esetén előterjesztést készít az FKB és a Kormány részére a módosított támogatási kérelemről. A Kormány döntését követően az IH megküldi a módosított támogatási kérelmet az Európai Bizottság részére.
 
 108. Ha az Európai Bizottság a projektjavaslat jóváhagyása előtt értékelő látogatást, helyszíni szemlét tesz a projekt megismerése céljából, az erről szóló értesítést az IH haladéktalanul megküldi a KSZ-nek, aki a helyszíni szemle eljárásrendje alapján jár el.
 
@@ -1050,7 +1050,7 @@ A nagyprojektek
 
 111.4. A központi koordinációs szerv az előterjesztést az FKB részére előterjeszti.
 
-111.5. A módosítási kérelem elfogadásáról, valamint a kérelem Európai Bizottság számára történő megküldéséről az FKB javaslatára az NFK dönt.
+111.5. A módosítási kérelem elfogadásáról, valamint a kérelem Európai Bizottság számára történő megküldéséről az FKB javaslatára a Kormány dönt.
 
 111.6. A bizottsági határozat módosításáról az IH értesíti a KSZ-t, az ágazati fejlesztési minisztert, a kedvezményezettet és az Igazoló Hatóságot. Az érintett miniszter tájékoztatásáról – ha szükséges – az ágazati fejlesztésért felelős miniszter gondoskodik.
 
@@ -4030,7 +4030,7 @@ e) a javasolt támogatási összeget.
 
 394.6. A felhívásban a nevesítési feltételek között szerepelnie kell a Rendelet 28. § (2) bekezdése szerinti feltételeknek.
 
-394.7. Kiemelt projektek esetében a miniszter írásos támogatása befogadási kritérium, kivéve, ha a kiemelt projekt támogatásáról a Kormány vagy az NFK már döntött.
+394.7. Kiemelt projektek esetében a miniszter írásos támogatása befogadási kritérium, kivéve, ha a kiemelt projekt támogatásáról a Kormány már döntött.
 
 395.1. Ha a felhívás kizárólag projektötlet benyújtására irányul, a kiemelt projektek benyújtását követően az IH a felhívásban meghatározott módon értékeli a benyújtott projektötleteket legalább a következő szempontok figyelembevételével:
 
@@ -4052,25 +4052,25 @@ d) megfelelően előkészített.
 
 397.1. Ha a felhívást a Rendelet 28. § (3) bekezdése szerint hirdették meg, az IH a projektkiválasztás általános szabályai szerint gondoskodik a projektjavaslatok elbírálásáról.
 
-397.2. A 397.1. pont szerinti projekt esetében az akciótervi nevesítést követően csak akkor köthető támogatási szerződés, ha az IH a projektjavaslatot támogatásra, illetve feltételekkel vagy csökkentett összköltséggel történő támogatásra javasolja és a projektjavaslatot az NFK is jóváhagyja.
+397.2. A 397.1. pont szerinti projekt esetében az akciótervi nevesítést követően csak akkor köthető támogatási szerződés, ha az IH a projektjavaslatot támogatásra, illetve feltételekkel vagy csökkentett összköltséggel történő támogatásra javasolja és a projektjavaslatot a Kormány is jóváhagyja.
 
-397.3. Ha a 397.1. pont szerinti projektjavaslatot az IH elutasításra javasolja, de az NFK a projektet jóváhagyja, az NFK döntését nevesítésnek kell tekinteni és a részletesen kidolgozott projektjavaslatot az erre irányuló felhívásra ismét be kell nyújtani a Rendelet 28. § (5) bekezdése szerinti határidőn belül. Támogatási szerződés a felhívásban, valamint az NFK által meghatározott feltételek teljesülése után köthető.
+397.3. Ha a 397.1. pont szerinti projektjavaslatot az IH elutasításra javasolja, de a Kormány a projektet jóváhagyja, a Kormány döntését nevesítésnek kell tekinteni és a részletesen kidolgozott projektjavaslatot az erre irányuló felhívásra ismét be kell nyújtani a Rendelet 28. § (5) bekezdése szerinti határidőn belül. Támogatási szerződés a felhívásban, valamint a Kormány által meghatározott feltételek teljesülése után köthető.
 
 398.1. A kiemelt projekt akciótervi nevesítéséről szóló előterjesztés tervezetét a projektötletek vagy projektjavaslatok IH részére történő beérkezését követő 30 napon belül az IH megküldi a központi koordinációs szerv részére.
 
-398.2. A 398.1. pont szerinti előterjesztésnek tartalmaznia kell legalább a Rendelet 4/A. § (2) bekezdése szerinti információkat.
+398.2. A 398.1. pont szerinti előterjesztésnek tartalmaznia kell legalább a Rendelet 3. § (4) bekezdése szerinti információkat.
 
 398.3. A 398.1. pont szerinti határidőbe a hiánypótlás, a tisztázó kérdésre adott válaszadási határidő, valamint a kifogás elbírálásának időtartama nem számít bele.
 
-399.1. Ha a felhívást a Rendelet 28. § (3) bekezdése szerint hirdették meg és a beérkezett projektjavaslat a Rendelet 23/A-27. §-a szerinti elbírálás alapján támogatásra nem javasolt, de az IH a projektjavaslatot projektötletként továbbfejlesztésre alkalmasnak tartja, a projektötlet akciótervi nevesítésére kell javaslatot tenni az NFK-nak.
+399.1. Ha a felhívást a Rendelet 28. § (3) bekezdése szerint hirdették meg és a beérkezett projektjavaslat a Rendelet 23/A-27. §-a szerinti elbírálás alapján támogatásra nem javasolt, de az IH a projektjavaslatot projektötletként továbbfejlesztésre alkalmasnak tartja, a projektötlet akciótervi nevesítésére kell javaslatot tenni a Kormánynak.
 
-399.2. Ha az NFK a projektjavaslatot az akciótervben nevesíti, a részletesen kidolgozott projektjavaslatot az erre irányuló felhívásra ismét be kell nyújtani a Rendelet 28. § (5) bekezdése szerinti határidőn belül. Támogatási szerződés a felhívásban, valamint az NFK által meghatározott feltételek teljesülése után köthető.
+399.2. Ha a Kormány a projektjavaslatot az akciótervben nevesíti, a részletesen kidolgozott projektjavaslatot az erre irányuló felhívásra ismét be kell nyújtani a Rendelet 28. § (5) bekezdése szerinti határidőn belül. Támogatási szerződés a felhívásban, valamint a Kormány által meghatározott feltételek teljesülése után köthető.
 
 400. A kiemelt projekt nevesítésére irányuló előterjesztést a hatályos akcióterv módosításaként kell benyújtani. Az előterjesztés kizárólag a projektötlet nevesítésére irányulhat.
 
-401.1. A kiemelt projekt akciótervi nevesítéséről szóló kormányhatározat közzétételét követő 7 napon belül az IH értesíti a projektgazdát, az azonosításra javaslatot tevő szervezetet és az illetékes KSZ-t az NFK döntéséről és – ha ezt a felhívás nem tartalmazza és a részletes projektjavaslat kidolgozásához új pályázati felhívás közzétételére kerül sor – tájékoztatja a Rendelet 21. § (1) bekezdése szerinti, a részletes projektjavaslat benyújtására vonatkozó felhívás közzétételének időpontjáról, valamint a Rendelet 28. § (5) bekezdése szerinti határidőről.
+401.1. A kiemelt projekt akciótervi nevesítéséről szóló kormányhatározat közzétételét követő 7 napon belül az IH értesíti a projektgazdát, az azonosításra javaslatot tevő szervezetet és az illetékes KSZ-t a Kormány döntéséről és – ha ezt a felhívás nem tartalmazza és a részletes projektjavaslat kidolgozásához új pályázati felhívás közzétételére kerül sor – tájékoztatja a Rendelet 21. § (1) bekezdése szerinti, a részletes projektjavaslat benyújtására vonatkozó felhívás közzétételének időpontjáról, valamint a Rendelet 28. § (5) bekezdése szerinti határidőről.
 
-401.2. Ha a felhívás tartalmazza az NFK általi nevesítést követő részletes projektjavaslat kidolgozásának és értékelésének feltételrendszerét, a projektgazdát a határidőkről tájékoztatni kell.
+401.2. Ha a felhívás tartalmazza a Kormány általi nevesítést követő részletes projektjavaslat kidolgozásának és értékelésének feltételrendszerét, a projektgazdát a határidőkről tájékoztatni kell.
 
 401.3. A projektgazdát tájékoztatni kell arról, hogy az akciótervben történő előzetes nevesítés szükséges, de nem elégséges előfeltétele a kiemelt projekt támogatásának. Az előzetes nevesítés nem eredményezi a támogatási szerződés megkötésének kötelezettségét, erről az IH dönt.
 
@@ -4078,11 +4078,11 @@ d) megfelelően előkészített.
 
 402.2. A projekt akciótervi nevesítése érdekében a 398.1.-401.3. pontban foglaltaknak megfelelően kell eljárni a következő eltérésekkel:
 
-a) ha az IH a projektjavaslatot projektötletként továbbfejlesztésre alkalmasnak tartja, a projektötlet akciótervi nevesítésére kell javaslatot tenni az NFK-nak,
+a) ha az IH a projektjavaslatot projektötletként továbbfejlesztésre alkalmasnak tartja, a projektötlet akciótervi nevesítésére kell javaslatot tenni a Kormány-nak,
 
-b) ha az NFK a projektötletet az akciótervben nevesíti, a részletesen kidolgozott projektjavaslatot az akciótervi nevesítéséről szóló értesítésben foglalt határidőn belül be kell nyújtani,
+b) ha a Kormány a projektötletet az akciótervben nevesíti, a részletesen kidolgozott projektjavaslatot az akciótervi nevesítéséről szóló értesítésben foglalt határidőn belül be kell nyújtani,
 
-c) ha a projektötletet az IH elutasításra javasolja, de az NFK a projektötletet nevesíti, a részletesen kidolgozott projektjavaslatot az akciótervi nevesítéséről szóló értesítésben foglalt határidőn belül át kell dolgozni.
+c) ha a projektötletet az IH elutasításra javasolja, de a Kormány a projektötletet nevesíti, a részletesen kidolgozott projektjavaslatot az akciótervi nevesítéséről szóló értesítésben foglalt határidőn belül át kell dolgozni.
 
 403.1. A nevesítést követően, a részletes projektjavaslat benyújtásáig a KSZ az IH útmutatása alapján projektfejlesztési szolgáltatásokat nyújt az akciótervben nevesített projektgazdák részére.
 
@@ -4098,7 +4098,7 @@ c) ha a projektötletet az IH elutasításra javasolja, de az NFK a projektötle
 
 406.1. A támogatói döntés meghozatalát és a támogatási szerződés megkötését a kiemelt projektjavaslat beérkezésétől számított 30 napon belül kell elvégezni.
 
-406.2. A 30 napos határidőbe nem számít bele a projektgazdától vagy harmadik féltől függő támogatási szerződési feltételek teljesítési ideje, a projektgazda hiánypótlási és tisztázó kérdésekre adott válaszadási ideje, a kifogás elbírálásának időtartama, továbbá az NFK döntési ideje, ami a kapcsolódó előterjesztésnek az NFK titkárságára történő beérkezéstől a projektről szóló határozat közzétételéig terjedő időszakot jelenti.
+406.2. A 30 napos határidőbe nem számít bele a projektgazdától vagy harmadik féltől függő támogatási szerződési feltételek teljesítési ideje, a projektgazda hiánypótlási és tisztázó kérdésekre adott válaszadási ideje, a kifogás elbírálásának időtartama, továbbá a Kormány döntési ideje, amely a kapcsolódó előterjesztésnek a Kormány által tárgyalt fejlesztéspolitikai ügyek tekintetében a titkársági feladatokat ellátó szervezeti egységhez történő beérkezéstől a projektről szóló határozat közzétételéig terjedő időszakot jelenti.
 
 406.3. A 406.1. és 406.2. pont szerinti kivétellel a szerződéskötési és szerződésmódosítási folyamatokra a IV. Fejezetben foglalt szabályokat kell alkalmazni.
 
@@ -4234,11 +4234,11 @@ c) egyéb esetekben akkor, ha nem változik negatív irányba a pályázat beny�
 
 416.4. Az eltérő intenzitású projektelemek közötti átcsoportosítás esetében, ha magasabb támogatási intenzitású projektelemről alacsonyabb támogatási intenzitású projektelemre történik az átcsoportosítás, az IH jóváhagyhatja a projekt elszámolható összköltségének növelését.
 
-416.5. A projekt támogatásának növeléséről nagyprojekt és kiemelt projekt esetében – a Rendelet 36. § (4) bekezdés c) pontja kivételével – az NFK dönt.
+416.5. A projekt támogatásának növeléséről nagyprojekt és kiemelt projekt esetében – a Rendelet 36. § (4) bekezdés c) pontja kivételével – a Kormány dönt.
 
-416.6. Ha a közszféra szervezet kedvezményezett által megvalósított projekt, kiemelt projekt, nagyprojekt összköltsége az eredeti elszámolható összköltség 15%-át meg nem haladó mértékben megemelkedik, a támogatás növeléséről az érintett IH-vezető, nagyprojekt esetében az NFK dönt.
+416.6. Ha a közszféra szervezet kedvezményezett által megvalósított projekt, kiemelt projekt, nagyprojekt összköltsége az eredeti elszámolható összköltség 15%-át meg nem haladó mértékben megemelkedik, a támogatás növeléséről az érintett IH-vezető, nagyprojekt esetében a Kormány dönt.
 
-416.7. Ha a közszféra szervezet kedvezményezett által megvalósított kiemelt projekt, nagyprojekt vagy uniós jogszabályból levezethető, tagállami kötelezettség teljesítését szolgáló projekt összköltsége az eredeti elszámolható összköltség 15%-át meghaladó mértékben megemelkedik, a támogatás növeléséről az NFK dönt.
+416.7. Ha a közszféra szervezet kedvezményezett által megvalósított kiemelt projekt, nagyprojekt vagy uniós jogszabályból levezethető, tagállami kötelezettség teljesítését szolgáló projekt összköltsége az eredeti elszámolható összköltség 15%-át meghaladó mértékben megemelkedik, a támogatás növeléséről a Kormány dönt.
 
 416.8. A Rendelet 36. § (4) bekezdés c) pontja, 61/B. § (2) bekezdése, valamint 116/A. §-a szerinti költségnövekményről az érintett IH-vezető dönt.
 
@@ -4876,7 +4876,5 @@ Szabálytalanságkezelés
 
 209. Értelmező rendelkezések
 
-470. E fejezet alkalmazásában szabálytalansági gyanú: szabálytalanság elkövetésére megalapozottan utaló tények, körülmények, vagy dokumentumok, amelyből alappal lehet következtetni a szabálytalanság tényállási elemeinek fennállására.
-
 [^5]: A 6. §-t a 69/2015. (III. 30.) Korm. rendelet 12. §-a iktatta be.
-[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a szerint módosított szöveg.
