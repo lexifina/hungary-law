@@ -1,0 +1,1 @@
+## 7. § A havi díjat az 5. § (1) bekezdése szerinti keretszámlára, banki átutalással vagy készpénz-átutalási megbízással lehet teljesíteni azzal, hogy a díjfizetési kötelezettségről a kártyakibocsátóval kötött hatósági szerződés részletesen rendelkezik. A hatósági szerződés tartalmazza a havi díj összegénél magasabb díj fizetése esetén alkalmazandó visszatérítés szabályozását is.
