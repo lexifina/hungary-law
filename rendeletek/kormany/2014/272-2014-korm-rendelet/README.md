@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2015-11-21 | 2014-272-20-22.13 | 347/2015. (XI. 20.) Korm. rendelet |
 | 2015-12-30 | 2014-272-20-22.14 | 466/2015. (XII. 29.) Korm. rendelet |
 | 2016-01-01 | 2014-272-20-22.15 | 358/2014. (XII. 29.) Korm. rendelet |
+| 2016-01-21 | 2014-272-20-22.16 | 4/2016. (I. 20.) Korm. rendelet |

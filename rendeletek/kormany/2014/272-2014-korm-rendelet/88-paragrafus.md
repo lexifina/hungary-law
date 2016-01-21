@@ -10,6 +10,6 @@ Visszaköveteléssel érintett támogatási arány = 75–(teljesített indikát
 
 (5) Az (1)–(4) bekezdés nem alkalmazható a szakpolitikai mutatók vonatkozásában.
 
-(6)[^328] Ha az indikátor egyben a műszaki-szakmai tartalom részét képezi, a támogatási szerződésben szereplő tervérték csökkenése esetén a műszaki-szakmai tartalom csökkenésére vonatkozó, az 1. melléklet 65.4. pont c) alpontját szükséges alkalmazni.
+(6)[^333] Ha az indikátor egyben a műszaki-szakmai tartalom részét képezi, a támogatási szerződésben szereplő tervérték csökkenése esetén a műszaki-szakmai tartalom csökkenésére vonatkozó, az 1. melléklet 65.4. pont c) alpontját szükséges alkalmazni.
 
-[^328]: A 88. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 53. §-a iktatta be.
+[^333]: A 88. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 53. §-a iktatta be.

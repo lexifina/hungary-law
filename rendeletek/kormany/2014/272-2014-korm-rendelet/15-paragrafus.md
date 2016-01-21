@@ -22,4 +22,6 @@ f) az Európai Bizottság által végzett ellenőrzésekre adandó tagállami v�
 
 g) minőségértékelés keretében a folyamatba épített ellenőrzéseket, továbbá a rendszer- és mintavételes ellenőrzéseket végző szervezetek tekintetében a jogszabályok, a módszertani útmutatók, a nemzetközi ellenőrzési standardok alkalmazásának és végrehajtásának figyelemmel kíséréséről, vizsgálatáról,
 
-h) az e rendelet hatálya alá tartozó támogatások ellenőrzésének helyzetére vonatkozó beszámoló készítéséről az NFK számára.
+h)[^67] az e rendelet hatálya alá tartozó támogatások ellenőrzésének helyzetére vonatkozó beszámoló készítéséről a Kormány számára.
+
+[^67]: A 15. § (2) bekezdés h) pontja a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 6. pontja szerint módosított szöveg.

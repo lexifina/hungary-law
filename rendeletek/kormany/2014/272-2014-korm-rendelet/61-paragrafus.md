@@ -1,6 +1,6 @@
 ## 26. A támogatási kérelem tartalmi értékelése
 
-61. §[^237] (1) A jogosultsági kritériumoknak megfelelő támogatási kérelmeket pontozással kell értékelni.
+61. §[^240] (1) A jogosultsági kritériumoknak megfelelő támogatási kérelmeket pontozással kell értékelni.
 
 (2) Az (1) bekezdést
 
@@ -24,7 +24,7 @@ c) az egységes kérelemben benyújtott vagy egyéb terület-, illetve állatlé
 
 (5) Kiemelt kiválasztási eljárásrend esetén a támogatási kérelmek tartalmi értékelése során azt kell vizsgálni, hogy a határidőig benyújtott támogatási kérelmek megfelelnek-e a felhívásban előírt értékelési szempontoknak. A 102. § (2) bekezdése kivételével, ha a Kbt. 53. § (6) bekezdése szerinti feltételes közbeszerzési eljárás dokumentációjának műszaki tartalmát az irányító hatóság előzetesen jóváhagyta, az értékelés során kizárólag a projekt e rendelet hatálya alá tartozó forrásból való támogathatósága vizsgálható. Ha a 62. § (2) bekezdése szerinti tartalmi értékelési szempontok alapján megállapítható, hogy a kérelem nem támogatható, az iránytó hatóság a kérelmet elutasíthatja azzal, hogy a támogatást igénylőnek új kérelmet kell benyújtania.
 
-(6)[^238] Az egységes kérelem értékeléséhez a KAP rendelet 74. cikke szerinti ellenőrzéseket kell lefolytatni. Az egységes kérelem értékelése során az abban szereplő egyes intézkedésekkel kapcsolatban végzett ellenőrzések eredményét az egységes kérelemben szereplő minden érintett intézkedés vonatkozásában figyelembe kell venni.
+(6)[^241] Az egységes kérelem értékeléséhez a KAP rendelet 74. cikke szerinti ellenőrzéseket kell lefolytatni. Az egységes kérelem értékelése során az abban szereplő egyes intézkedésekkel kapcsolatban végzett ellenőrzések eredményét az egységes kérelemben szereplő minden érintett intézkedés vonatkozásában figyelembe kell venni.
 
-[^237]: A 61. § a 347/2015. (XI. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^238]: A 61. § (6) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 17. §-a iktatta be.
+[^240]: A 61. § a 347/2015. (XI. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^241]: A 61. § (6) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 17. §-a iktatta be.

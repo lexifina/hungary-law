@@ -4,22 +4,46 @@
 
 ## 3. A Kormány feladatai
 
-## 4. § A Kormány:
+4. §[^41] (1) A Kormány
 
 a) kialakítja a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerét,
 
-b)[^41]
+b) jóváhagyja azoknak a programoknak a tartalmát és azok elfogadására irányuló javaslatot, amelyek elfogadása az Európai Bizottság hatáskörébe tartozik,
 
-c)[^42] nyomon követi a kijelölt szervek tevékenységét, dönt a 34. § szerinti próbaidőről,
+c) elfogadja az éves fejlesztési keretet,
 
-d)–e)[^43]
+d) elfogadja az ITP-ket,
 
-f)[^44]
+e) a 65. § (2a) bekezdésében meghatározott kivétellel előzetesen állást foglal annak a projektjavaslatnak a tekintetében, amelynek támogatását az irányító hatóság egymilliárd forintot meghaladó összegben javasolja megállapítani,
 
-g)[^45] külön jogszabályban kijelöli a Környezeti és Energiahatékonysági Operatív Program terhére finanszírozott, szennyvízelvezetési és -tisztítási, hulladékgazdálkodási és az ivóvízminőség-javító projektek határidőben történő megvalósításáért felelős minisztert, valamint ezen projektek menedzsment feladatait ellátó, továbbá a projektek keretében megvalósuló közbeszerzési eljárásokat lebonyolító – a miniszter irányítása alá tartozó – szervezetet, meghatározza annak feladat- és hatáskörét.
+f) előzetesen állást foglal a projektek többlettámogatása tekintetében a 87. § (1) bekezdés c) pontja szerint,
 
-[^41]: A 4. § b) pontját a 347/2015. (XI. 20.) Korm. rendelet 50. § 1. pontja hatályon kívül helyezte.
-[^42]: A 4. § c) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 2. pontja szerint módosított szöveg.
-[^43]: A 4. § d)–e) pontját a 347/2015. (XI. 20.) Korm. rendelet 50. § 3. pontja hatályon kívül helyezte.
-[^44]: A 4. § f) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 1. pontja hatályon kívül helyezte.
-[^45]: A 4. § g) pontját a 339/2014. (XII. 19.) Korm. rendelet 18. §-a iktatta be.
+g) külön jogszabályban kijelöli a Környezeti és Energiahatékonysági Operatív Program terhére finanszírozott, szennyvízelvezetési és -tisztítási, hulladékgazdálkodási és az ivóvízminőség-javító projektek határidőben történő megvalósításáért felelős minisztert, valamint ezen projektek menedzsment feladatait ellátó, továbbá a projektek keretében megvalósuló közbeszerzési eljárásokat lebonyolító – a miniszter irányítása alá tartozó – szervezetet, meghatározza annak feladat- és hatáskörét,
+
+h) nyomon követi a kijelölt szervek tevékenységét, dönt a 34. és 35. § szerinti próbaidőről,
+
+i) előzetesen állást foglal a pénzügyi közvetítői felhívás tervezete tekintetében, valamint ha a pénzügyi közvetítő kiválasztására közbeszerzési eljárásban kerül sor, az alapok alapját végrehajtó szervezet javaslata alapján – a XVI. Fejezet szerinti ellenőrzést követően – állást foglalt az ajánlati, ajánlattételi, illetve a részvételi felhívás és az ezekhez kapcsolódó dokumentáció tekintetében,
+
+j) jóváhagyja az Európai Bizottság számára benyújtandó, az Európai Hálózatfinanszírozási Eszközből finanszírozandó projektjavaslatokat és a nagyprojekt-javaslatokat.
+
+(2) Az (1) bekezdés e) pontja szerinti határozat tartalmazza
+
+a) a kapcsolódó program megjelölését vagy a projekt azonosító számát,
+
+b) a projekt megnevezését,
+
+c) a támogatást igénylő vagy a kedvezményezett nevét,
+
+d) a támogatás összegét és
+
+e) a projekt rövid bemutatását.
+
+(3) Az (1) bekezdés f) pontja szerinti határozat tartalmazza a (2) bekezdés a)–c) és e) pontjában foglaltakat, valamint
+
+a) a támogatás eredeti összegét,
+
+b) a többlettámogatás jóváhagyott összegét és
+
+c) a támogatás b) pontban megjelölt összeggel megnövelt összegét.
+
+[^41]: A 4. § a 4/2016. (I. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
