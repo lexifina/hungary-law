@@ -8,9 +8,9 @@
 
 | 4. | A002 | Szarvasmarha-brucellózis | szarvasmarha, bivaly | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
-| 5. | A003 | Enzootiás szarvasmarha- leukózis | szarvasmarha | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
+| 5. | A003 | Enzootiás szarvasmarha-leukózis | szarvasmarha | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
-| 6. | B002 | IBR/IPV | szarvasmarha | Immunizálás: Kislétszámú állattartó telep: 1400 Ft/egyed/alkalom Nagylétszámú állattartó telep: 400 Ft/egyed/alkalom Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa, VN: 1120 Ft PCR: 5500 Ft |
+| 6. | B002 | IBR/IPV | szarvasmarha | Immunizálás: Kis létszámú állattartó telep: 1400 Ft/egyed/alkalom Nagylétszámú állattartó telep: 400 Ft/egyed/alkalom Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa, VN: 1120 Ft PCR: 5500 Ft |
 
 | 7. | A004 | Juh/Kecske Brucellózis (Brucella melitensis) | juh, kecske | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
@@ -66,19 +66,23 @@
 
 | 33. | F006 | Lépfene | ló, szarvasmarha, juh, kecske | Immunizálás: Kislétszámú állattartó telep: 1400 Ft/egyed/alkalom Nagylétszámú állattartó telep: 400 Ft/egyed/alkalom |
 
+| 34. | D001 | Koi Herpes Virus (KHV) | közönséges ponty, koi ponty | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–30. egyed: 100 Ft Laboratóriumi diagnosztikai vizsgálat: 5500 Ft/pool (1 pool=5 egyed) |
+
+| 35. | D002 | Pontyfélék tavaszi virémiája (SVC) | közönséges ponty, koi ponty, fehér busa, pettyes busa, ezüstkárász, kárász, amur, szürke harcsa, compó | Mintavétel: Gazdaságonkénti első egyed: 1500 Ft 2–30. egyed: 100 Ft Laboratóriumi diagnosztikai vizsgálat: 2300 Ft/pool (1 pool=5 egyed) |
+
 ## * Egy vizsgálatnak 1 minta vagy gyűjtőminta vizsgálata számít, ahány szalmonella dúsítás történik, annyiszor 6300 Ft számolható el a szalmonella kimutatásra (napos állatokból 5 állat vizsgálata=1 minta=6300 Ft).
 
 ## ** Állategység:
 
 ## – Szarvasmarha esetében az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1974/2006/EK bizottsági rendelet V. melléklete szerint: 6 hónapos kor alatt 0,4 ÁE, 6–24 hó között 0,6 ÁE, illetve 24 hónap felett 1 ÁE.
 
-## – Baromfi esetében (kivéve: pulyka) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1974/2006/EK bizottsági rendelet V. melléklete szerinti felhatalmazás alapján egyéb baromfi: 0,003 ÁE
+## – Baromfi esetében (kivéve: pulyka) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1974/2006/EK bizottsági rendelet V. melléklete szerinti felhatalmazás alapján egyéb baromfi: 0,003 ÁE.
 
 ## – A pulyka esetében a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet 1. számú melléklete szerint: 0,0067 ÁE.
 
 ## Mintavételi eljárások esetében, amennyiben az állatokat többféle betegség kapcsán szeretnék bevizsgálni, azt csak egyszeri vérvétellel lehet megtenni (többszörös vérvétel nem számolható el).
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^75]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^80]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -138,6 +142,16 @@
 
 4.6. arról, hogy az állat-egészségügyi szaktanácsadási tevékenységre vonatkozó támogatás igényelése esetén rendelkezik az állatállomány állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel.
 
+4.7.[^81] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
+
+4.8.[^82] arról, hogy a mezőgazdasági csekély összegű támogatás igénylése esetén a kérelmező nem minősül a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak;
+
+4.9.[^83] arról, hogy ha a 3. pont 3. és 4. alpontjában a D001 és D002 technikai kódú betegség került megjelölésre, akkor
+
+a) a kérelmező a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-ei 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk b) pontja szerinti terméket előállító vállalkozásnak minősül, és
+
+b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módosított szervezetek tartására végezteti el.
+
 5. Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét az MVH erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
 
 6. Keltezés, az ügyfél cégszerű aláírása
@@ -146,4 +160,7 @@
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^75]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
+[^80]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
+[^81]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^82]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^83]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
