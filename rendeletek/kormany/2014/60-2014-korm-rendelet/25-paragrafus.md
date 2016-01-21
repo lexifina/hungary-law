@@ -30,7 +30,7 @@ g) véglegesíti a Partnerségi Megállapodás szinten készülő munkaterveket,
 
 1. figyelemmel kíséri a támogatási konstrukciók meghirdetésének ütemét,
 
-2. a prioritásszintű kifizetési tervektől és indikátor célértékektől történő esetleges elmaradások esetén tájékoztatja az érintett irányító hatóságok vezetését és a monitoring egységet vezető állami vezető útján az NFK-t,
+2.[^24] a prioritásszintű kifizetési tervektől és indikátor célértékektől történő esetleges elmaradások esetén tájékoztatja az érintett irányító hatóságok vezetését és a monitoring egységet vezető állami vezető útján a Kormányt,
 
 3. operatív program és fejlesztési alap szintjén nyomon követi az éves kötelezettségvállalások telesülését,
 
@@ -57,3 +57,5 @@ m) nyomon követi és előrejelzi a fejlesztési programok makrogazdasági hatá
 n) módszertani kérdésekben képviseli az irányító hatóságok és a nemzeti hatóságok álláspontját az Európai Bizottság szakértői egyeztetésein,
 
 o) együttműködik a hazai, külföldi és nemzetközi, monitoringgal foglalkozó intézményekkel és szervezetekkel.
+
+[^24]: A 25. § (2) bekezdés g) pont 2. alpontja a 4/2016. (I. 20.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.

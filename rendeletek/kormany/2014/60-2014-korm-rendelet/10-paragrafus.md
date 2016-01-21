@@ -4,4 +4,6 @@
 
 (2) Az adatrögzítésben, adattovábbításban résztvevő szervezetek felelősek a FAIR alrendszereibe történő hibátlan adatrögzítés, vagy adattovábbítás feltételeinek megteremtéséért, és ezen szervezetek tevékenysége során keletkezett, illetve rögzített, vagy továbbított adatok helyességéért és valódiságáért.
 
-(3) Ha az adatrögzítésért felelős személy az adatrögzítési kötelezettségének nem, vagy nem teljes körűen tesz eleget, – a 18. §-ban és a 21. §-ban meghatározott kivétellel – a monitoring egység az érintett személy, illetve projekt valamennyi támogatásának kifizetését felfüggesztheti, amíg a felelős e rendelet szerinti kötelezettségének eleget nem tesz.
+(3)[^14] Ha az adatrögzítésért felelős személy az adatrögzítési kötelezettségének nem, vagy nem teljes körűen tesz eleget, – a (2) bekezdésben meghatározott kivétellel – a miniszter az érintett személy, illetve projekt valamennyi támogatásának kifizetését felfüggesztheti vagy felfüggesztését kezdeményezheti, amíg a felelős e rendelet szerinti kötelezettségének eleget nem tesz.
+
+[^14]: A 10. § (3) bekezdése a 4/2016. (I. 20.) Korm. rendelet 11. §-ával megállapított szöveg.

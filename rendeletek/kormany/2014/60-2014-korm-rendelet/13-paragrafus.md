@@ -8,7 +8,7 @@ a) támogatja a fejlesztési forrásokból finanszírozott programok és támoga
 
 b) biztosítja a támogató és a pályázók, illetve kedvezményezettek közötti elektronikus kapcsolattartást,
 
-c)[^8] a támogatáskezeléshez szükséges adatokat az ingatlan-nyilvántartási informatikai rendszerből, a cégnyilvántartási és céginformációs rendszerből, valamint a civil szervezetek nyilvántartására szolgáló informatikai rendszerből átveszi és biztosítja az érintett szervezetek számára,
+c)[^15] a támogatáskezeléshez szükséges adatokat az ingatlan-nyilvántartási informatikai rendszerből, a cégnyilvántartási és céginformációs rendszerből, valamint a civil szervezetek nyilvántartására szolgáló informatikai rendszerből átveszi és biztosítja az érintett szervezetek számára,
 
 d) a támogatásokkal kapcsolatos nyilvános adatokat szolgáltat,
 
@@ -18,4 +18,4 @@ e) adatot szolgáltat a támogatástervezéshez.
 
 (4) A fejlesztési források felhasználásáért felelős szervezet gondoskodik a FAIR KR-ben történő rögzítés és feldolgozás céljából naprakész adatok szolgáltatásáról a monitoring egység részére a monitoring egység által meghatározott adattartalommal, gyakorisággal és formátumban.
 
-[^8]: A 13. § (2) bekezdés c) pontja a 28. §-sal megállapított szöveg.
+[^15]: A 13. § (2) bekezdés c) pontja a 28. §-sal megállapított szöveg.

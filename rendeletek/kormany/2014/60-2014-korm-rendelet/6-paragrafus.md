@@ -12,6 +12,8 @@ d) pénzügyi monitoring tevékenységének keretében vizsgálja a rendelkezés
 
 e) szakmai monitoring tevékenységének keretében nyomon követi a támogatások felhasználásával megvalósuló projektek vagy programok – az azok célkitűzéseinek megfelelő – eredményes végrehajtását, különös tekintettel a terveknek való megfelelés követelményeire,
 
-f) a monitoring egységet vezető állami vezető útján tájékoztatja az NFK-t a tervektől való eltérésről, a projektek vagy fejlesztési programok végrehajtása tekintetében korrekciós javaslatokat kezdeményez.
+f)[^12] a monitoring egységet vezető állami vezető útján tájékoztatja a minisztert a tervektől való eltérésről, a projektek vagy fejlesztési programok végrehajtása tekintetében korrekciós javaslatokat kezdeményez.
 
 (2) A monitoring egység végzi az uniós támogatások vonatkozásában a Partnerségi Megállapodás szintű monitoring tevékenységet.
+
+[^12]: A 6. § (1) bekezdés f) pontja a 4/2016. (I. 20.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.

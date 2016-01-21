@@ -22,10 +22,10 @@
 
 10. Fejlesztéspolitikai Adatbázis és Információs Rendszer Nemzeti Pályázatkezelő Rendszere: a FAIR a hazai fejlesztési források kezelését támogató pályázatkezelő alrendszere,
 
-10a.[^2] IMIR 2014–2020: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi együttműködéshez kapcsolódó egyes programjainak támogatásával megvalósuló programok és az azok keretében megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló informatikai rendszer,
+10a.[^3] IMIR 2014–2020: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi együttműködéshez kapcsolódó egyes programjainak támogatásával megvalósuló programok és az azok keretében megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló informatikai rendszer,
 
 11. monitoring: a források pénzügyi felhasználásának, valamint a beavatkozások eredményeinek és a kitűzött célokhoz viszonyított teljesítményének átfogó, különösen hatékonysági, eredményességi és célszerűségi szempontokra kiterjedő vizsgálata rendszeres jelleggel projekt, illetve program szinten,
 
 12. projekt: olyan gazdaságilag oszthatatlan munkafázisok sora, amely pontos technikai funkciót lát el, és világosan meghatározott célokkal rendelkezik.
 
-[^2]: A 2. § 10a. pontját a 351/2015. (XI. 24.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § 10a. pontját a 351/2015. (XI. 24.) Korm. rendelet 1. §-a iktatta be.
