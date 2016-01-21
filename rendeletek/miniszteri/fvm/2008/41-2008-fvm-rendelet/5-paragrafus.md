@@ -20,7 +20,7 @@ termeltetését végzi;
 
 ce)[^14] 0,3 ezer tonna élő testtömegben számított házinyúl
 
-d)[^15] megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek;
+d)[^15] megfelel az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek;
 
 e) nyilatkozik arról, hogy a támogatási kérelem benyújtásának időpontjában
 
@@ -53,7 +53,7 @@ d) a vételárat olyan módon határozzák meg, ami a szerződés egész időtar
 [^12]: Az 5. § (1) bekezdés a) pontját a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés c) pontja hatályon kívül helyezte.
 [^13]: Az 5. § (1) bekezdés c) pontja a 60/2011. (VI. 30.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^14]: Az 5. § (1) bekezdés c) pont ce) alpontját a 36/2014. (IV. 4.) VM rendelet 25. § (1) bekezdése iktatta be.
-[^15]: Az 5. § (1) bekezdés d) pontja a 36/2014. (IV. 4.) VM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (1) bekezdés d) pontja a 36/2014. (IV. 4.) VM rendelet 25. § (2) bekezdésével megállapított, a 4/2016. (I. 20.) FM rendelet 11. § a) pontja szerint módosított szöveg.
 [^16]: Az 5. § (1) bekezdés e) pont ec) alpontját a 36/2014. (IV. 4.) VM rendelet 29. §-a hatályon kívül helyezte.
 [^17]: Az 5. § (2) bekezdése a 60/2011. (VI. 30.) VM rendelet 4. § (2) bekezdésével megállapított, a 70/2012. (VII. 31.) VM rendelet 91. § a) pontja szerint módosított szöveg.
 [^18]: Az 5. § (4) bekezdés a) pontja a 36/2014. (IV. 4.) VM rendelet 25. § (3) bekezdésével megállapított szöveg.
