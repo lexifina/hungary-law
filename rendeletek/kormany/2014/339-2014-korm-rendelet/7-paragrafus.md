@@ -36,11 +36,11 @@ a) kidolgozza a közbeszerzések egységes lebonyolításának rendszerét,
 
 b) konzorciumvezetőként
 
-ba)[^6] előkészíti a projekteket,
+ba)[^8] előkészíti a projekteket,
 
 bb) ellátja a projektek megvalósításával kapcsolatos projektmenedzsment feladatokat és lebonyolítja a közbeszerzési eljárásokat,
 
-bc)[^7] ellátja a projektek megvalósításával kapcsolatos műszaki ellenőri feladatokat.
+bc)[^9] ellátja a projektek megvalósításával kapcsolatos műszaki ellenőri feladatokat.
 
-[^6]: A 7. § (3) bekezdés b) pont ba) alpontja a 303/2015. (X. 16.) Korm. rendelet 15. §-a szerint módosított szöveg.
-[^7]: A 7. § (3) bekezdés b) pont bc) alpontját a 303/2015. (X. 16.) Korm. rendelet 11. §-a iktatta be.
+[^8]: A 7. § (3) bekezdés b) pont ba) alpontja a 303/2015. (X. 16.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^9]: A 7. § (3) bekezdés b) pont bc) alpontját a 303/2015. (X. 16.) Korm. rendelet 11. §-a iktatta be.
