@@ -16,13 +16,13 @@ cc) ültetvény esetében 85%-os tőszámbeállottság, és
 
 d) a b–c) pontban foglalt feltételek teljesítéséről nyilatkozik.
 
-(2)[^33] A területileg illetékes földművelésügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) a mezőgazdasági termelő megkeresésére, vagy a mezőgazdasági termelő kérelme alapján az MVH megkeresésére, a megkereséstől számított kilencven napon belül az (1) bekezdés b)–c) pontjában foglalt feltételek mezőgazdasági termelő általi teljesítéséről hatósági bizonyítványt állít ki, és egyidejűleg megküld a mezőgazdasági termelő és az MVH részére.
+(2)[^34] A területileg illetékes földművelésügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) a mezőgazdasági termelő megkeresésére, vagy a mezőgazdasági termelő kérelme alapján az MVH megkeresésére, a megkereséstől számított kilencven napon belül az (1) bekezdés b)–c) pontjában foglalt feltételek mezőgazdasági termelő általi teljesítéséről hatósági bizonyítványt állít ki, és egyidejűleg megküld a mezőgazdasági termelő és az MVH részére.
 
 (3) A (2) bekezdésben foglalt megkeresést legkésőbb tárgyév június 30-áig lehet megtenni.
 
-(4)[^34] A (2) bekezdés szerinti hatósági bizonyítványnak tartalmaznia kell a terület azonosító adatait a tárgyévi egységes kérelemben meghatározottak szerint (blokkazonosító, parcella sorszám, helyrajzi szám, területnagyság, ültevény fajának, tőszám meghatározása, ültetvény korának megnevezése, tőszámbeállottság mértékének meghatározása, fix, telepített öntözés meglétének meghatározása).
+(4)[^35] A (2) bekezdés szerinti hatósági bizonyítványnak tartalmaznia kell a terület azonosító adatait a tárgyévi egységes kérelemben meghatározottak szerint (blokkazonosító, parcella sorszám, helyrajzi szám, területnagyság, ültevény fajának, tőszám meghatározása, ültetvény korának megnevezése, tőszámbeállottság mértékének meghatározása, fix, telepített öntözés meglétének meghatározása).
 
-(5)[^35] A megyei kormányhivatal a hatósági bizonyítvány kiállítása során megkereséssel fordulhat az MVH-hoz, a fővárosi és megyei kormányhivatal ingatlanügyi hatósági hatáskörében eljáró, területileg illetékes járási (fővárosi kerületi) hivatalához, valamint a NÉBIH-hez, továbbá figyelembe veheti
+(5)[^36] A megyei kormányhivatal a hatósági bizonyítvány kiállítása során megkereséssel fordulhat az MVH-hoz, a fővárosi és megyei kormányhivatal ingatlanügyi hatósági hatáskörében eljáró, területileg illetékes járási (fővárosi kerületi) hivatalához, valamint a NÉBIH-hez, továbbá figyelembe veheti
 
 a) a (4) bekezdés szerinti adatok esetében a TakarNet Földhivatali Információs Rendszerben szereplő adatokat;
 
@@ -30,16 +30,16 @@ b) az ültetvényről készített egy éven belüli ápolási jegyzőkönyvet, v
 
 c) az (1) bekezdés c) pont cb) alpontjában meghatározott feltétel vonatkozásában a támogatás évére érvényes vízjogi üzemeltetési engedélyt, a létesítményre vonatkozó vízjogi létesítési engedélyt, vagy a műszaki átadás dokumentációját;
 
-d)[^36] a kötelezően elvégzendő helyszíni szemle adatait, ha a szükséges adatok nem állnak a megyei kormányhivatal rendelkezésére, vagy a hatósági bizonyítvány kiállítását megelőző egy éven belül az adott táblán nem folytattak le hatósági helyszíni szemlét.
+d)[^37] a kötelezően elvégzendő helyszíni szemle adatait, ha a szükséges adatok nem állnak a megyei kormányhivatal rendelkezésére, vagy a hatósági bizonyítvány kiállítását megelőző egy éven belül az adott táblán nem folytattak le hatósági helyszíni szemlét.
 
-(6)[^37] A megyei kormányhivatal az (5) bekezdés d) pontjában meghatározott helyszíni szemle lefolytatásához a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara agrárigazgatási hatósági feladatai körében a falugazdász-hálózatának közreműködését is igénybe veheti.
+(6)[^38] A megyei kormányhivatal az (5) bekezdés d) pontjában meghatározott helyszíni szemle lefolytatásához a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara agrárigazgatási hatósági feladatai körében a falugazdász-hálózatának közreműködését is igénybe veheti.
 
 (7) A hatósági bizonyítvány kiállítása során megkeresett hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 26. §-a alapján jár el.
 
 (8) A hektáronkénti minimális tőszám meghatározásánál a telepítési engedélyben meghatározott tőszámot kell figyelembe venni. Ha ez az adat nem áll rendelkezésre, akkor a (2) bekezdés szerinti hatósági bizonyítvány kiállításakor a területen meghatározó térállás szerint számított tőszámot kell figyelembe venni.
 
-[^33]: A 19. § (2) bekezdése az 52/2015. (IX. 7.) FM rendelet 27. § a) pontja szerint módosított szöveg.
-[^34]: A 19. § (4) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (5) bekezdése szerint módosított szöveg.
-[^35]: A 19. § (5) bekezdés nyitó szövegrésze az 52/2015. (IX. 7.) FM rendelet 27. § b)–c) pontja szerint módosított szöveg.
-[^36]: A 19. § (5) bekezdés d) pontja az 52/2015. (IX. 7.) FM rendelet 27. § b) pontja szerint módosított szöveg.
-[^37]: A 19. § (6) bekezdése az 52/2015. (IX. 7.) FM rendelet 27. § b) pontja szerint módosított szöveg.
+[^34]: A 19. § (2) bekezdése az 52/2015. (IX. 7.) FM rendelet 27. § a) pontja szerint módosított szöveg.
+[^35]: A 19. § (4) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (5) bekezdése szerint módosított szöveg.
+[^36]: A 19. § (5) bekezdés nyitó szövegrésze az 52/2015. (IX. 7.) FM rendelet 27. § b)–c) pontja szerint módosított szöveg.
+[^37]: A 19. § (5) bekezdés d) pontja az 52/2015. (IX. 7.) FM rendelet 27. § b) pontja szerint módosított szöveg.
+[^38]: A 19. § (6) bekezdése az 52/2015. (IX. 7.) FM rendelet 27. § b) pontja szerint módosított szöveg.

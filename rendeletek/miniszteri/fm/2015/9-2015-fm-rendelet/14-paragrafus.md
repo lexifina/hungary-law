@@ -22,19 +22,19 @@ g) szálas fehérjetakarmány-növény termesztés támogatása.
 
 (2) Az (1) bekezdés szerinti termeléshez kötött közvetlen támogatások igénybevételének feltétele, hogy
 
-a)[^23] a mezőgazdasági termelő a támogatás alapjául szolgáló terület vonatkozásában tárgyévi egységes területalapú támogatási kérelmet nyújtott be az MVH-hoz,
+a)[^24] a mezőgazdasági termelő a támogatás alapjául szolgáló terület vonatkozásában tárgyévi egységes területalapú támogatási kérelmet nyújtott be az MVH-hoz,
 
 b) az (1) bekezdés a), b), d), f) és g) pontja szerinti támogatási jogcímek esetén a támogatható terület nagysága elérje az egy hektárt,
 
 c) az (1) bekezdés c) pontja szerinti támogatási jogcímre vonatkozóan a 3. mellékletben nevesített, az (1) bekezdés e) pontja szerinti támogatási jogcímre vonatkozóan az 5. mellékletben nevesített kultúránként a támogatható terület nagysága elérje a 0,3 hektárt, és
 
-d)[^24] az (1) bekezdés a), b) és e) pontja szerinti támogatási jogcímeket kivéve, a mezőgazdasági termelő a gazdálkodási napló vonatkozó betétlapjait naprakészen vezesse.
+d)[^25] az (1) bekezdés a), b) és e) pontja szerinti támogatási jogcímeket kivéve, a mezőgazdasági termelő a gazdálkodási napló vonatkozó betétlapjait naprakészen vezesse.
 
 (3) Az (1) bekezdés szerinti támogatási jogcímek esetében, ha a támogatható terület (2) bekezdés b) és c) pontjában meghatározott nagysága több bejelentett tábla alapján kerül meghatározásra, akkor a táblák támogatható területének el kell érnie a 0,25 hektárt.
 
 (4) Az (1) bekezdésben felsorolt támogatási jogcímek esetében a támogatási kérelmet ügyfélkapun keresztül, elektronikus úton, az egységes kérelem rendeletben foglaltaknak megfelelően, az egységes kérelem részeként lehet benyújtani.
 
-(5)[^25] A mezőgazdasági termelő minősített szaporítóanyag felhasználását
+(5)[^26] A mezőgazdasági termelő minősített szaporítóanyag felhasználását
 
 a) saját beszerzés esetén
 
@@ -64,11 +64,11 @@ dc) a termeltető vagy termelői csoport által a mezőgazdasági termelő rész
 
 ## igazolja.
 
-(6)[^26] Az (1) bekezdés c), d), f) és g) pontja szerinti támogatási jogcímek esetén a támogatási kérelemhez csatolni kell az (5) bekezdésben felsorolt dokumentumok másolatát.
+(6)[^27] Az (1) bekezdés c), d), f) és g) pontja szerinti támogatási jogcímek esetén a támogatási kérelemhez csatolni kell az (5) bekezdésben felsorolt dokumentumok másolatát.
 
-(6a)[^27] Amennyiben az (5) bekezdésben felsorolt és határidőben benyújtott dokumentum nem magyar nyelvű, akkor az MVH hiánypótlás keretében felhívja a mezőgazdasági termelőt a dokumentum szakfordítói fordításának csatolására. Több, csak számjegyek vonatkozásában eltérő, de a fordítás szempontjából azonos szövegtartalmú dokumentum csatolása esetén egy dokumentum fordítása mellett a szövegazonosságról a termelő nyilatkozik.
+(6a)[^28] Amennyiben az (5) bekezdésben felsorolt és határidőben benyújtott dokumentum nem magyar nyelvű, akkor az MVH hiánypótlás keretében felhívja a mezőgazdasági termelőt a dokumentum szakfordítói fordításának csatolására. Több, csak számjegyek vonatkozásában eltérő, de a fordítás szempontjából azonos szövegtartalmú dokumentum csatolása esetén egy dokumentum fordítása mellett a szövegazonosságról a termelő nyilatkozik.
 
-(7)[^28] Az (1) bekezdés c) és d) pontja szerinti támogatási jogcímek vonatkozásában, ha a (6) bekezdés alapján csatolt számla, vetőmagcímke, csomagolás, szállítólevél, a termeltető vagy a termelői csoport által kiállított dokumentum, vagy minősítő bizonyítvány másolatában csak a felhasznált vetőmag tömege szerepel, a felhasznált vetőmagszám megállapításához a 3. és a 4. melléklet „C” oszlopában található átváltási tényezőt kell alkalmazni.
+(7)[^29] Az (1) bekezdés c) és d) pontja szerinti támogatási jogcímek vonatkozásában, ha a (6) bekezdés alapján csatolt számla, vetőmagcímke, csomagolás, szállítólevél, a termeltető vagy a termelői csoport által kiállított dokumentum, vagy minősítő bizonyítvány másolatában csak a felhasznált vetőmag tömege szerepel, a felhasznált vetőmagszám megállapításához a 3. és a 4. melléklet „C” oszlopában található átváltási tényezőt kell alkalmazni.
 
 (8) Az (5) és (6) bekezdésben foglaltakat nem kell alkalmazni a torma- és spárga dugvány, valamint a mezei borsó szaporítóanyag felhasználásának igazolása esetén.
 
@@ -76,14 +76,14 @@ dc) a termeltető vagy termelői csoport által a mezőgazdasági termelő rész
 
 (10) Ha a mezőgazdasági termelő adott tárgyévben egyidejűleg egy parcella vonatkozásában több típusú termeléshez kötött közvetlen támogatást kíván igénybe venni, akkor a támogatási kérelmei elutasításra kerülnek.
 
-(11)[^29] Ha a (2) bekezdés d) pontjában meghatározott gazdálkodási napló vonatkozó betétlapján rögzített adatai nem támasztják alá az adott támogatás igénybevételére vonatkozó feltételek teljesülését, akkor az adott terület vonatkozásában a mezőgazdasági termelő támogatási jogosultsága nem állapítható meg.
+(11)[^30] Ha a (2) bekezdés d) pontjában meghatározott gazdálkodási napló vonatkozó betétlapján rögzített adatai nem támasztják alá az adott támogatás igénybevételére vonatkozó feltételek teljesülését, akkor az adott terület vonatkozásában a mezőgazdasági termelő támogatási jogosultsága nem állapítható meg.
 
 (12) Ha a mezőgazdasági termelő az adott támogatás igénybevételéhez szükséges minimális minősített szaporítóanyagnál kisebb mennyiség felhasználását a 14. § (5)–(6) bekezdése, torma- és spárga dugvány termesztése esetén a 17. § (1) bekezdés c) pontja, mezei borsó termesztése esetén a 20. § (1) bekezdés d) pontja szerint igazolja, úgy az egyéb feltételek teljesülése esetén, az adott támogatási jogcím vonatkozásában igényelt terület azon részére állapítható meg támogatás, amelyen az előírt mennyiségű minősített szaporítóanyag felhasználása igazolt.
 
-[^23]: A 14. § (2) bekezdés a) pontja a 74/2015. (XI. 10.) FM rendelet 13. §-ával megállapított szöveg.
-[^24]: A 14. § (2) bekezdés d) pontja a 97/2015. (XII. 23.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^25]: A 14. § (5) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^26]: A 14. § (6) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^27]: A 14. § (6) bekezdését a 40/2015. (VII. 13.) FM rendelet 10. § (3) bekezdése iktatta be.
-[^28]: A 14. § (7) bekezdése a 40/2015. (VII. 13.) FM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^29]: A 14. § (11) bekezdése a 97/2015. (XII. 23.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^24]: A 14. § (2) bekezdés a) pontja a 74/2015. (XI. 10.) FM rendelet 13. §-ával megállapított szöveg.
+[^25]: A 14. § (2) bekezdés d) pontja a 97/2015. (XII. 23.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^26]: A 14. § (5) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^27]: A 14. § (6) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^28]: A 14. § (6) bekezdését a 40/2015. (VII. 13.) FM rendelet 10. § (3) bekezdése iktatta be.
+[^29]: A 14. § (7) bekezdése a 40/2015. (VII. 13.) FM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^30]: A 14. § (11) bekezdése a 97/2015. (XII. 23.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
