@@ -6,7 +6,7 @@ a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 
 b) a támogatási kérelem benyújtásának időpontjában:
 
-ba) nem rendelkezik adók módjára behajtható köztartozással vagy lejárt esedékességű adótartozással, kivéve, ha az adóhatóság számára fizetési halasztást vagy részletfizetést engedélyezett,
+ba)[^3]
 
 bb) nem áll felszámolási, végelszámolási eljárás, csődeljárás alatt, és
 
@@ -14,6 +14,9 @@ bc) megfelel a rendezett munkaügyi kapcsolatok feltétel követelményeinek,
 
 c) a b) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik,
 
-d) nyilatkozik, hogy megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek, valamint
+d)[^4] nyilatkozik, hogy megfelel az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek, valamint
 
 e) nyilatkozik, hogy a támogatási időszakban vásárolt vagy termeltetőtől, termelői csoporttól átvett fémzárolt vetőmagot teljes egészében saját használatában lévő földterületen fűszerpaprika termesztése céljából felhasználta.
+
+[^3]: A 4. § b) pont ba) alpontját a 4/2016. (I. 20.) FM rendelet 18. §-a hatályon kívül helyezte.
+[^4]: A 4. § d) pontja a 4/2016. (I. 20.) FM rendelet 17. §-a szerint módosított szöveg.
