@@ -34,7 +34,7 @@ tevékenység végzése;
 
 13. felhasznált tüzelőanyag és villamos energia mennyiség: a dohányszárító által a tárgyévben dohánylevél szárításra, előállításra felhasznált és dokumentált tüzelőanyag és villamos energia mennyisége;
 
-14. jogosult település: az a település, amelynek közigazgatási területén a referenciaterület megállapításánál figyelembe vett mezőgazdasági földterület található, valamint az azzal szomszédos település közigazgatási területe;
+14.[^1] jogosult település: az a település, amelynek közigazgatási területén a referenciaterület megállapításánál figyelembe vett mezőgazdasági földterület található, valamint az azzal szomszédos település, továbbá ezekkel azonos járáshoz tartozó település közigazgatási területe;
 
 15. mezőgazdasági csekély összegű támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU rendelet) szerinti támogatás;
 
@@ -55,3 +55,5 @@ tevékenység végzése;
 23. Virginia dohány referenciaterület: az a hektárban megállapított területnagyság, amelynek alapján a Virginia dohánytermelő részére a 2009. támogatási évre vonatkozóan a 37/2009. (IV. 3.) FVM rendelet alapján Virginia dohány termeléséhez kötött támogatást állapítottak meg;
 
 24. Virginia dohány szerkezetátalakítási támogatási jogosultság: a dohány szerkezetátalakítási nemzeti programban történő részvétel alapján, a Virginia dohány referenciaterület figyelembevételével megállapított mezőgazdasági vagyoni értékű jog.
+
+[^1]: Az 1. § 14. pontja a 4/2016. (I. 20.) FM rendelet 26. §-ával megállapított szöveg.
