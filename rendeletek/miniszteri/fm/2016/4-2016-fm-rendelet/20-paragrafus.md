@@ -1,0 +1,3 @@
+## 19. § A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet [a továbbiakban: 27/2014. (XI. 25.) FM rendelet] 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A használatban lévő termőföldön az (1) bekezdés szerinti kárbejelentést legkésőbb a tervezett betakarítás vagy a károsodással érintett terület más növénykultúrával való hasznosítását megelőző talaj előkészítés előtt tíz nappal kell megtenni. Téli fagy esetén az (1) bekezdés szerinti kárbejelentést legkésőbb tárgyév április 15-éig, aszály esetén legkésőbb tárgyév szeptember 30-ig kell megtenni.”
