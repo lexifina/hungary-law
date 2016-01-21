@@ -1,5 +1,5 @@
 ## 31. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-## 13. [^22] Átmeneti rendelkezések
+## 13. [^23] Átmeneti rendelkezések
 
-[^22]: A 13. alcímet (31/A. §) a 40/2015. (VII. 13.) FM rendelet 8. § (2) bekezdése iktatta be.
+[^23]: A 13. alcímet (31/A. §) a 40/2015. (VII. 13.) FM rendelet 8. § (2) bekezdése iktatta be.
