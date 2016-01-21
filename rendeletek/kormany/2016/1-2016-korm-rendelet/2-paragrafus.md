@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Francia Köztársaság Kormánya közötti Filmkoprodukciós Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
