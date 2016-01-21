@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és az Iráni Iszlám Köztársaság Kormánya közötti gazdasági együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
