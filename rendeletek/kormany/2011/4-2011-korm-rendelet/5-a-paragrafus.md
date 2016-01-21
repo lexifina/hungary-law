@@ -1,4 +1,4 @@
-## 4/A. [^52] Az irányító hatóság vezetőjének feladatai
+## 4/A. [^54] Az irányító hatóság vezetőjének feladatai
 
 5/A. § (1) Az irányító hatóság
 
@@ -24,13 +24,13 @@ j) közreműködik a támogatások igénylésével és felhasználásával kapcs
 
 k) az ágazati fejlesztésért felelős miniszter véleményének kikérésével dönt a projektjavaslatok támogatásáról vagy elutasításáról, megköti a kedvezményezettel a támogatási szerződést, kibocsátja a támogatási okiratot, gondoskodik a támogatások kifizetéséről és szabályszerű felhasználásáról, amely feladatok ellátásához közreműködő szervezetet vehet igénybe,
 
-l) javaslatot tesz – a központi koordinációs szervvel egyetértésben – a közreműködő, alapkezelő és forráskezelő szervezet kijelölésére a Nemzeti Fejlesztési Kormánybizottság részére,
+l)[^55] javaslatot tesz – a központi koordinációs szervvel egyetértésben – a közreműködő, alapkezelő és forráskezelő szervezet kijelölésére a Kormány részére,
 
 m) közreműködik az irányító hatósági feladatatok delegálására a közreműködő szervezetekkel kötendő szerződések egységes tartalmának meghatározásában, javaslatot tesz a szerződések szükséges korrekciójára a központi koordinációs szerv részére,
 
 n) jóváhagyja a közreműködő szervezetek éves munkatervét, valamint az éves munkaterv megvalósítására vonatkozó beszámolót, a közreműködő szervezetekkel kötött szerződésekben foglalt feladatok teljesítését,
 
-o) közkiadás alapú elszámolás alkalmazása esetén betartja az operatív programok prioritásonként előírt uniós és nemzeti társfinanszírozás keretét és arányát az elszámolás alapjaként megjelölt elismerhető közkiadáson belül úgy, hogy a nemzeti társfinanszírozási rész kizárólag a Nemzeti Fejlesztési Kormánybizottság egyetértésével haladhatja meg az elismerhető közkiadás 15%-át,
+o)[^56] közkiadás alapú elszámolás alkalmazása esetén betartja az operatív programok prioritásonként előírt uniós és nemzeti társfinanszírozás keretét és arányát az elszámolás alapjaként megjelölt elismerhető közkiadáson belül úgy, hogy a nemzeti társfinanszírozási rész kizárólag a Kormány egyetértésével haladhatja meg az elismerhető közkiadás 15%-át,
 
 p) nyomon követi az operatív programok pénzügyi és szakmai előrehaladását, különös tekintettel az indikátorok teljesítésére, aminek eredményeit megküldi a központi koordinációs szerv részére,
 
@@ -48,4 +48,6 @@ v) felelős az operatív program éves és záró jelentésének elkészítésé
 
 (2) Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátásra kijelölt miniszter az általa vezetett minisztérium, a Kormány európai uniós források felhasználásáért felelős tagja a Miniszterelnökség szervezeti és működési szabályzatában meghatározza a 6. § szerinti ágazati feladatainak ellátása tekintetében feladatkörrel rendelkező szervezeti egységeknek az irányító hatósággal való kapcsolattartásának rendjét.
 
-[^52]: A 4/A. alcímet (5/A. §) a 302/2013. (VII. 29.) Korm. rendelet 1. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^54]: A 4/A. alcímet (5/A. §) a 302/2013. (VII. 29.) Korm. rendelet 1. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^55]: Az 5/A. § (1) bekezdés l) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 10. pontja szerint módosított szöveg.
+[^56]: Az 5/A. § (1) bekezdés o) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 114/I. §[^508] Nem kell alkalmazni e rendelet 44. §-át, amennyiben kizárólag az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 37. § (2) bekezdésére tekintettel szükséges a közbeszerzési eljárás alapján megkötött szerződés módosítása.
+## 114/I. §[^517] Nem kell alkalmazni e rendelet 44. §-át, amennyiben kizárólag az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 37. § (2) bekezdésére tekintettel szükséges a közbeszerzési eljárás alapján megkötött szerződés módosítása.
 
-## 44/C. [^509] A közbeszerzések ellenőrzésével összefüggő, az operatív programok zárása során alkalmazandó eltérő szabályok
+## 44/C. [^518] A közbeszerzések ellenőrzésével összefüggő, az operatív programok zárása során alkalmazandó eltérő szabályok
 
 114/J. § (1) A 39/B–45. §-t ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
@@ -16,5 +16,5 @@
 
 (7) A (2), (3) és (5) bekezdés szerinti esetben a központi koordinációs szerv az ellenőrzést a 45. § megfelelő alkalmazásával is lefolytathatja. A központi koordinációs szerv egyet nem értése esetén dönt a szabálytalansági eljárás lefolytatásáról, illetve jogorvoslati eljárás kezdeményezéséről. Ha a központi koordinációs szerv az ellenőrzés eredményéről nem támogató tartalmú dokumentumot állít ki, a támogatást vissza kell vonni.
 
-[^508]: A 114/I. §-t a 323/2015. (X. 30.) Korm. rendelet 6. § (5) bekezdése iktatta be.
-[^509]: A 44/C. alcímet (114/J.–114/K. §) a 428/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^517]: A 114/I. §-t a 323/2015. (X. 30.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^518]: A 44/C. alcímet (114/J.–114/K. §) a 428/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

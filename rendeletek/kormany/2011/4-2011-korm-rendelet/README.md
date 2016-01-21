@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2015-12-13 | 2011-4-20-22.34 | 397/2015. (XII. 12.) Korm. rendelet |
 | 2015-12-23 | 2011-4-20-22.35 | 428/2015. (XII. 23.) Korm. rendelet |
 | 2015-12-30 | 2011-4-20-22.36 | 466/2015. (XII. 29.) Korm. rendelet |
+| 2016-01-21 | 2011-4-20-22.37 | 4/2016. (I. 20.) Korm. rendelet |
