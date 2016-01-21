@@ -6,7 +6,7 @@
 
 (3)[^8] A károsodást kiváltó aszály, belvíz, téli fagy, vagy mezőgazdasági árvíz esetén a mezőgazdasági káresemény bekövetkezésének – a bekövetkezés tényleges időpontjától függetlenül – azt az időpontot kell tekinteni, amikor a károsodással érintett területen termesztett növénykultúra vonatkozásában a károsodás első alkalommal észlelhetővé válik. A károsodást kiváltó felhőszakadás, jégeső, tavaszi fagy, őszi fagy, vagy vihar esetén a mezőgazdasági káresemény bekövetkezésének azt az időpontot kell tekinteni, amikor a károsodással érintett területen termesztett növénykultúra vonatkozásában a mezőgazdasági káresemény első alkalommal észlelhető.
 
-(4)[^9] A használatban lévő termőföldön az (1) bekezdés szerinti kárbejelentést legkésőbb a tervezett betakarítás, vagy a károsodással érintett terület más növénykultúrával való hasznosítását megelőző talaj előkészítés előtt tíz nappal kell megtenni. Téli fagy esetén az (1) bekezdés szerinti kárbejelentést legkésőbb tárgyév április 15-éig kell megtenni.
+(4)[^9] A használatban lévő termőföldön az (1) bekezdés szerinti kárbejelentést legkésőbb a tervezett betakarítás vagy a károsodással érintett terület más növénykultúrával való hasznosítását megelőző talaj előkészítés előtt tíz nappal kell megtenni. Téli fagy esetén az (1) bekezdés szerinti kárbejelentést legkésőbb tárgyév április 15-éig, aszály esetén legkésőbb tárgyév szeptember 30-ig kell megtenni.
 
 (5) Az (1) bekezdés szerinti kárbejelentés a növénykultúra teljes vagy részterületére is megtehető.
 
@@ -24,6 +24,6 @@ b) az aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, ősz
 
 [^7]: A 4. § (2) bekezdése az 54/2015. (IX. 16.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^8]: A 4. § (3) bekezdése az 54/2015. (IX. 16.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^9]: A 4. § (4) bekezdése az 54/2015. (IX. 16.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (4) bekezdése a 4/2016. (I. 20.) FM rendelet 19. §-ával megállapított szöveg.
 [^10]: A 4. § (8) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (2) bekezdése iktatta be.
 [^11]: A 4. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (2) bekezdése iktatta be.
