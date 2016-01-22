@@ -92,8 +92,6 @@
 
 20. Ez a határozat a közzétételét követő napon lép hatályba.
 
-21. Hatályát veszti
+21.[^1]
 
-21.1. a Nemzeti Fejlesztési Kormánybizottság létrehozásáról és a Nemzeti Fejlesztési Kormánybizottság létrehozásával összefüggésben egyes kormányhatározatok módosításáról szóló 1221/2012. (VII. 2.) Korm. határozat,
-
-21.2. a Fejlesztéspolitikai Koordinációs Bizottságról szóló 1012/2014. (I. 17.) Korm. határozat.
+[^1]: A 21. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
