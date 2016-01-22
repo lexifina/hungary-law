@@ -1,4 +1,4 @@
-## 13. § Hatályát veszti az Állami Egészségügyi Tartalékkal való gazdálkodás szabályairól szóló 17/2001. (IV. 28.) EüM rendelet.
+## 13. §[^1]
 
 1. melléklet az 1/2016. (I. 13.) EMMI rendelethez
 
@@ -37,3 +37,5 @@ A tartalék normaelemei
 | 15. | Rendvédelmi csapat-egészségügyi készlet (RCSK)* | – | – |
 
 * Önálló normaelemet nem alkotnak.
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
