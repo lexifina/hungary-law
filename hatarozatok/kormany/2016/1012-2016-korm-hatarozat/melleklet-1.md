@@ -2,7 +2,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Vidékfejlesztési Program 2015. évre szóló éves fejlesztési keretének megállapításáról szóló 1721/2015. (X. 6.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1012/2016. (I. 20.) Korm. határozathoz
 
@@ -145,3 +145,5 @@ A Vidékfejlesztési Program éves fejlesztési kerete
 | 67. | VP6-19.3.1-16 | LEADER – Helyi akciócsoportok együttműködési tevékenységeinek előkészítése és megvalósítása | 1,92 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 1,92 | standard | 2016. november |
 
 | 68. | VP6-19.4.1-16 | LEADER – Működési és animációs költségek támogatása | 8,92 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 8,92 | standard | 2016. február |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
