@@ -6,7 +6,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Versenyképes Közép-Magyarország Operatív Program 2015. évre szóló éves fejlesztési keretének megállapításáról szóló 1786/2015. (X. 30.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1011/2016. (I. 20.) Korm. határozathoz
 
@@ -327,3 +327,5 @@
 | 48. | KÖFOP-2.3.4.-VEKOP-15 | Önkormányzati fejlesztések figyelemmel kísérése II. | 0,23 |
 
 | 49. | KÖFOP-2.3.5.-VEKOP-16 | A vállalati szektorhoz kapcsolódó közigazgatási bürokrácia csökkentési program kidolgozása | 0,25 |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
