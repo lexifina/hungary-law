@@ -1,0 +1,1 @@
+A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 35. § (2) bekezdés h) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
