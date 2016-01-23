@@ -2,19 +2,11 @@
 
 ## 2. A KKB szervezeti és működési rendjét az 1. melléklet határozza meg.
 
-## 3. A Kormány
-
-## a) felkéri a Magyar Tudományos Akadémia elnökét, hogy az akadémikusok, továbbá akadémiai kutatóintézetek, jelentős ipari létesítmények és központi államigazgatási szervek szakértői köréből tegyen javaslatot a KKB elnöke részére a KKB Tudományos Tanácsának elnöke és tagjai személyére;
-
-## b) felkéri a Nemzeti Média- és Hírközlési Hatóság elnökét, hogy a KKB elnökének meghívása esetén tanácskozási joggal vegyen részt a KKB munkájában;
-
-## c) felhívja a KKB elnökét, hogy 2012. június 15-ig hívja össze a KKB alakuló ülését;
-
-## d) felhívja a KKB elnökét, hogy a KKB alakuló üléséig, az azon történő elfogadás érdekében dolgozza ki a KKB ügyrendjének tervezetét.
+## 3.[^1]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5.[^1]
+## 5.[^2]
 
 1. melléklet az 1150/2012. (V. 15.) Korm. határozathoz
 
@@ -30,7 +22,7 @@ A KKB összetétele
 
 3. A KKB elnök-helyettese az elnök által kijelölt tag.
 
-4. A KKB tagjai a honvédelmi miniszter, a közigazgatási és igazságügyi miniszter, a külügyminiszter, a nemzetgazdasági miniszter, a nemzeti erőforrás miniszter, a nemzeti fejlesztési miniszter és a vidékfejlesztési miniszter által kijelölt állami vezető. A KKB tagjai díjazásban nem részesülnek.
+4.[^3] A KKB tagjai az emberi erőforrások minisztere, a földművelésügyi miniszter, a honvédelmi miniszter, az igazságügyi miniszter, a külgazdasági és külügyminiszter, a nemzetgazdasági miniszter, a nemzeti fejlesztési miniszter, a Miniszterelnökséget vezető miniszter és a miniszterelnök kabinetfőnöke által kijelölt állami vezető, valamint a Belügyminisztérium rendészeti államtitkára. A KKB tagjai díjazásban nem részesülnek.
 
 5. A KKB ülésén állandó jelleggel tanácskozási joggal részt vesz
 
@@ -44,7 +36,9 @@ d) a KKB Tudományos Tanácsának elnöke,
 
 e) a KKB Nemzeti Veszélyhelyzet-kezelési Központjának (a továbbiakban: KKB NVK) vezetője, valamint
 
-f) a KKB adminisztratív feladatait ellátó szervezeti egység vezetője.
+f) a KKB adminisztratív feladatait ellátó szervezeti egység vezetője,
+
+g)[^4] a Belügyminisztérium rendészeti államtitkára által kijelölt, a Belügyminisztérium állományába tartozó vezetői munkakört betöltő személy.
 
 6. A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt
 
@@ -70,13 +64,17 @@ j) az országos tisztifőorvos,
 
 k) a Nemzeti Adó- és Vámhivatal elnöke,
 
-l) a Nemzeti Környezetügyi Intézet főigazgatója,
+l)[^5] a Herman Ottó Intézet főigazgatója,
 
 m) az Országos Vízügyi Főigazgatóság főigazgatója,
 
-n) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség főigazgatója, valamint
+n)[^6] az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség főigazgatója,
 
-o) azon megyei, fővárosi védelmi bizottság elnöke, akit a KKB napirendjén szereplő kérdés érint.
+o)[^7] azon megyei, fővárosi védelmi bizottság elnöke, akit a KKB napirendjén szereplő kérdés érint,
+
+p)[^8] a Nemzeti Média- és Hírközlési Hatóság elnöke, valamint
+
+q)[^9] az Egészségügyi Készletgazdálkodási Intézet főigazgatója.
 
 7. A KKB elnöke a KKB ülésére más személyt is meghívhat. A 6. és e pont szerinti meghívásra a napirend által érintett KKB-tag kezdeményezése alapján is sor kerülhet.
 
@@ -96,7 +94,11 @@ Operatív munkaszerv
 
 12. A KKB, a katasztrófák elleni védekezéssel kapcsolatos feladatok összehangolt végrehajtásának támogatása érdekében operatív munkaszervként KKB NVK-t működtet. A KKB NVK ügyrendjét a BM OKF főigazgatójának javaslatára a KKB hagyja jóvá.
 
-13. A KKB NVK a katasztrófák elleni védekezésben részt vevő központi államigazgatási szervek állományából a KKB elnöke, illetve a KKB tagjai által kijelölt szakemberekkel, valamint meghívott szakértőkkel látja el feladatát.
+13.[^10] A KKB NVK a katasztrófák elleni védekezésben részt vevő központi államigazgatási szervek állományából a KKB elnöke, illetve a KKB tagjai által kijelölt szakemberekkel, valamint meghívott szakértőkkel látja el feladatát. A kijelölés feltételei:
+
+a) a KKB tagja által képviselt szervezet részéről a KKB NVK ügyrendjében meghatározott beosztási, képesítési, valamint általános és szakmai kompetenciák megléte, és
+
+b) részvétel a KKB NVK által szervezett, kijelölést megelőző alapfelkészítésen.
 
 14. A KKB NVK a vezetőjéből, az általános munkacsoportból és szakmai feladatokat ellátó védekezési munkabizottságokból áll. A KKB NVK az általános munkacsoport részeként Lakossági Tájékoztatási Munkacsoportot működtet.
 
@@ -136,7 +138,7 @@ f) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módos
 
 g) a Kat. 3. § 28. pontja hatálya alá nem tartozó ipari üzemekkel kapcsolatos, szénhidrogén-kitermelés során bekövetkező, veszélyhelyzeti szintet elérő esemény következményei felszámolásának irányítására a bányászati ügyekért,
 
-h) a humán járványok megelőzésének és felszámolásának irányítására az egészségügyért,
+h)[^11] humán járványok, határon átnyúló egészségügyi veszélyek megelőzésének és felszámolásának irányítására az egészségügyért,
 
 i) a veszélyhelyzeti szintű hőhullám időszakára az egészségügyért,
 
@@ -148,7 +150,7 @@ l) a kormányzati, közigazgatási és lakosságellátási informatikai rendszer
 
 m) az elektronikus hírközlési infrastruktúrát ért károk felszámolására az elektronikus hírközlésért, valamint
 
-n) a külföldi állampolgárok tömeges méretű migrációja miatt bekövetkező események kezelésére az idegenrendészetért és menekültügyért
+n)[^12] a külföldiek tömeges méretű migrációja miatt bekövetkező események kezelésére az idegenrendészetért és menekültügyért
 
 felelős központi államigazgatási szervet képviselő KKB-tag által kijelölt személy, aki egyben ellátja a 22. pontban meghatározott védekezési munkabizottság vezetői feladatait.
 
@@ -172,4 +174,15 @@ A KKB összehívásának és működésének rendje
 
 30. A KKB működésének részletes szabályait a KKB az ügyrendjében állapítja meg.
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pontot az 1019/2016. (I. 22.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet 4. pontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 1. melléklet 5. pont g) alpontját az 1019/2016. (I. 22.) Korm. határozat 1. pontja iktatta be.
+[^5]: Az 1. melléklet 6. pont l) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: Az 1. melléklet 6. pont n) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 6. pont o) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: Az 1. melléklet 6. pont p) alpontját az 1019/2016. (I. 22.) Korm. határozat 1. pontja iktatta be.
+[^9]: Az 1. melléklet 6. pont q) alpontját az 1019/2016. (I. 22.) Korm. határozat 1. pontja iktatta be.
+[^10]: Az 1. melléklet 13. pontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^11]: Az 1. melléklet 21. pont h) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^12]: Az 1. melléklet 21. pont n) alpontja az 1019/2016. (I. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
