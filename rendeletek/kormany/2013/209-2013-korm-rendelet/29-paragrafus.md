@@ -1,3 +1,3 @@
-## 16.[^9]
+## 16.[^14]
 
-[^9]: A 16. alcímet a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte.
+[^14]: A 16. alcímet a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte.
