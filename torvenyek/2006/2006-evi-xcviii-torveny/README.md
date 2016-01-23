@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2015-07-01 | 2015. évi LXXVII. törvény | 2006-98-00-00.36 |
 | 2015-10-01 | 2015. évi LXXVII. törvény | 2006-98-00-00.37 |
 | 2016-01-01 | 2015. évi CCXXIV. törvény | 2006-98-00-00.38 |
+| 2016-01-23 | 2015. évi CCXXIV. törvény | 2006-98-00-00.39 |
