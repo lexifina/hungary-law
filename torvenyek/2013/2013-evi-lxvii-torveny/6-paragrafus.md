@@ -6,7 +6,7 @@
 
 a) az úthasználat megkezdését megelőzően váltott viszonylati jegy alapján annak feltételei szerint, vagy
 
-b) valamely útdíjszolgáltatóval az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó szerződés hatálya idején, ha bevallással összefüggő, e törvény felhatalmazása alapján kiadott rendeletben meghatározott kötelezettségének az úthasználó eleget tesz.
+b) valamely útdíjszolgáltatóval az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó szerződés hatálya idején, ha bevallással és a díjfizetéssel összefüggő, e törvény felhatalmazása alapján kiadott rendeletben meghatározott kötelezettségének az úthasználó eleget tesz.
 
 (3) Nem alapozza meg az úthasználati jogosultságot, ha a fedélzeti eszközt az úthasználó nem az arra vonatkozó szabályoknak megfelelően használja, vagy olyan fedélzeti eszköz útján teljesít bevallást, amelyet a fedélzeti eszközt regisztráló útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek szerint érvénytelenítette.
 
