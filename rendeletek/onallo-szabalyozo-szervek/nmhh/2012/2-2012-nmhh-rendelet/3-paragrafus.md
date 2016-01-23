@@ -14,7 +14,7 @@ a) saját hálózatában díjmentesen hívható ügyfélszolgálati, illetve egy
 
 b) előre beállított, megszakítható automatikus jelzés és azt követő – legalább a hívást végződtető szolgáltatót és a hívás tarifájának részletes elérhetőségét tartalmazó – a hívó fél által manuálisan bármikor megszakítható automatikus tájékoztatás útján tehet eleget.
 
-(3) A szolgáltatónak biztosítania kell a kedvezményes díjazású szolgáltatás, a díjmentes szolgáltatás, az emelt díjas, díjkorlátos szolgáltatás, az emelt díjas, díjkorlátmentes szolgáltatás, valamint a nomadikus beszédcélú szolgáltatás előfizetői számainak hordozhatóságát, e rendeletnek megfelelően.
+(3)[^4] A szolgáltatónak biztosítania kell a kedvezményes díjazású szolgáltatás, a díjmentes szolgáltatás, az emelt díjas szolgáltatás (SHS = 90, 91), valamint a nomadikus telefonszolgáltatás előfizetői számainak hordozhatóságát, e rendeletnek megfelelően.
 
 (4) A helyhez kötött telefonszolgáltatást nyújtó szolgáltató lehetővé teheti az előfizetői szám megtartását előfizetője kérésére a számozási körzeten belül az igénybevétel helyének megváltoztatása illetve a szolgáltatás nyújtás technológiájának megváltozása esetén.
 
@@ -24,7 +24,7 @@ b) előre beállított, megszakítható automatikus jelzés és azt követő –
 
 (7) A számhordozás megvalósítása során biztosítani kell a hordozott számokra mindazokat a szolgáltatásokat, ideértve a jelzésirányítással megvalósuló elektronikus hírközlési szolgáltatásokat (a továbbiakban: szolgáltatások) is, amelyek mind az átadó, mind az átvevő szolgáltató hálózatában egyenértékű alkalmazásként rendelkezésre állnak, továbbá amelyeket mind az átadó, mind az átvevő szolgáltató nyújt előfizetői számára, és amelyek fenntartásához az átadó és az átvevő szolgáltató együttműködése szükséges.
 
-(8)[^3] A többféle szolgáltatást tartalmazó (multi-play) szolgáltatás csomagok egyidejű átadásával, az előfizetői hurok átengedésével, vagy országos bitfolyam hozzáféréssel együtt megvalósuló számhordozás, a kedvezményes díjazású szolgáltatás, a díjmentes szolgáltatás, az emelt díjas, díjkorlátos szolgáltatás, az emelt díjas, díjkorlátmentes szolgáltatás és a tízet meghaladó számot magában foglaló üzleti előfizetés számainak hordozása, valamint egybefüggő számtartomány részleges hordozása esetében a számhordozás időzítése és végrehajtása érdekében – az átadó szolgáltató indoklással ellátott kérése esetén – az átvevő szolgáltató köteles az átadó szolgáltatóval egyeztetni.
+(8)[^5] A többféle szolgáltatást tartalmazó (multi-play) szolgáltatás csomagok egyidejű átadásával, az előfizetői hurok átengedésével, vagy országos bitfolyam hozzáféréssel együtt megvalósuló számhordozás, a kedvezményes díjazású szolgáltatás, a díjmentes szolgáltatás, az emelt díjas, díjkorlátos szolgáltatás, az emelt díjas, díjkorlátmentes szolgáltatás és a tízet meghaladó számot magában foglaló üzleti előfizetés számainak hordozása, valamint egybefüggő számtartomány részleges hordozása esetében a számhordozás időzítése és végrehajtása érdekében – az átadó szolgáltató indoklással ellátott kérése esetén – az átvevő szolgáltató köteles az átadó szolgáltatóval egyeztetni.
 
 (9) A szolgáltatók a számhordozási eljárással kapcsolatos valamennyi adatcserét, ideértve a számhordozás kezdeményezését is, elektronikus formában kötelesek biztosítani. A szolgáltatók az elektronikus formán kívül más, kiegészítő adatcsere formában is megállapodhatnak.
 
@@ -42,4 +42,5 @@ c) postai cím.
 
 (13) Az átvevő szolgáltató a számhordozás kezdeményezésekor az előfizető részére ideiglenes számot biztosíthat.
 
-[^3]: A 3. § (8) bekezdése a 13/2012. (IX. 28.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (3) bekezdése az 1/2016. (I. 15.) NMHH rendelet 11. §-ával megállapított szöveg.
+[^5]: A 3. § (8) bekezdése a 13/2012. (IX. 28.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.

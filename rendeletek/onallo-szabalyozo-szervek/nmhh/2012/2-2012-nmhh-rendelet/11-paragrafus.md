@@ -10,8 +10,8 @@ b) következő időablakra vonatkozó irányítási lista: időablakonként egys
 
 c) teljes irányítási lista: időablakonként egyszer létrehozott lista, amely a létrehozás időpontjában érvényes és elfogadott tranzakciók irányítási információit tartalmazza.
 
-(3)[^11] A (2) bekezdés b)–c) pontja szerinti listákat a KRA a számhordozási időablakra vonatkozó tranzakciózárás után hozza létre. A (2) bekezdés b) pontja szerinti lista, létrehozását követően a következő időablak kezdetéig érhető el. A (2) bekezdés c) pontja szerinti aktuális lista folyamatosan elérhető.
+(3)[^16] A (2) bekezdés b)–c) pontja szerinti listákat a KRA a számhordozási időablakra vonatkozó tranzakciózárás után hozza létre. A (2) bekezdés b) pontja szerinti lista, létrehozását követően a következő időablak kezdetéig érhető el. A (2) bekezdés c) pontja szerinti aktuális lista folyamatosan elérhető.
 
 (4) A szolgáltatói felhasználók az adott szolgáltató részére készített általános és jóváhagyást kérő üzeneteket tetszőleges időpontban letölthetik.
 
-[^11]: A 11. § (3) bekezdése a 13/2012. (IX. 28.) NMHH rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 11. § (3) bekezdése a 13/2012. (IX. 28.) NMHH rendelet 2. § (2) bekezdése szerint módosított szöveg.

@@ -36,7 +36,7 @@
 
 16. lekérdezés minden hívásnál (All Call Query): olyan eljárás, amelyben az irányítási információt tartalmazó adatbázis lekérdezését minden hívás során végrehajtják;
 
-17. nomadikus beszédcélú szolgáltatás: az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervében meghatározott olyan beszédcélú elektronikus hírközlési szolgáltatás, amely a hívások kezdeményezése és fogadása céljából a szolgáltatást nyújtó hálózatok tetszőleges hozzáférési pontján elérhető, azaz a szolgáltatáshoz való hozzáférés nincs egy adott hozzáférési ponthoz rendelve, azonban a szolgáltatás igénybevétele közben a hozzáférési pont nem változtatható;
+17.[^2]
 
 18. számátadási időablak: minden munkanap 20 óra 00 perctől kezdődő 4 óra hosszúságú időtartomány, amelyben a számhordozás és számmező átadás érvényesítéséhez szükséges műszaki intézkedéseket a szolgáltatók végrehajtják, és amely időtartam alatt a számátadással érintett számokon a szolgáltatás részben vagy egészben szünetelhet;
 
@@ -52,7 +52,8 @@
 
 24. tranzakció zárás: a számhordozási időablak kezdetét 8 órával megelőző időpont, amely után a KRA az adott számátadási időablakra vonatkozó tranzakciót – letöltési művelet kivételével – nem fogad el;
 
-25.[^2] üzenet: a KRA-ból a szolgáltató, által letöltendő, a KRA által elektronikus formában tárolt, a szolgáltatót érintő, számhordozással kapcsolatos információ.
+25.[^3] üzenet: a KRA-ból a szolgáltató, által letöltendő, a KRA által elektronikus formában tárolt, a szolgáltatót érintő, számhordozással kapcsolatos információ.
 
 [^1]: A 2. § 13. pontja a 13/2012. (IX. 28.) NMHH rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^2]: A 2. § 25. pontja a 13/2012. (IX. 28.) NMHH rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § 17. pontját az 1/2016. (I. 15.) NMHH rendelet 19. § (1) bekezdése hatályon kívül helyezte.
+[^3]: A 2. § 25. pontja a 13/2012. (IX. 28.) NMHH rendelet 2. § (2) bekezdése szerint módosított szöveg.

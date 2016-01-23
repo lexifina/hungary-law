@@ -24,6 +24,6 @@ b) amely a szolgáltatás kezdeményezését a nemzetközi hálózatból fogadja
 
 (7) A hordozott számot tartalmazó számmező használatára jogosult szolgáltató (számmező szolgáltató) a hordozott számokra köteles a hordozott szám beállítást a számhordozás illetve a számmező átadás számátadási időablakában elvégezni.
 
-(8)[^4] Egybefüggő számtartomány számainak részleges hordozása esetén az egybefüggő számmező feloldását, hordozott és nem hordozott számok beállítását az átadó szolgáltató köteles a számhordozás illetve a számtartomány átadás számátadási időablakában elvégezni.
+(8)[^6] Egybefüggő számtartomány számainak részleges hordozása esetén az egybefüggő számmező feloldását, hordozott és nem hordozott számok beállítását az átadó szolgáltató köteles a számhordozás illetve a számtartomány átadás számátadási időablakában elvégezni.
 
-[^4]: A 4. § (8) bekezdését a 13/2012. (IX. 28.) NMHH rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 4. § (8) bekezdését a 13/2012. (IX. 28.) NMHH rendelet 1. § (2) bekezdése iktatta be.

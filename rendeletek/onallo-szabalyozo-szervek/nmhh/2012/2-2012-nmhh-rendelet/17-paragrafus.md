@@ -30,7 +30,7 @@ f) a bejelentés időpontja.
 
 (9) A hatóság a hiba bejelentéséről hibajegyet készít, továbbá a hibaelhárítási folyamat lezárásakor telefonon, illetve e-mailben tájékoztatást ad az érintett szolgáltatóknak a hiba megszüntetéséről.
 
-(10) A szolgáltató mentesül a számhordozás hibás teljesítésének felelőssége alól, ha azt a KRA meghibásodása okozta. Ennek igazolására a szolgáltató a hibajegyről másolatot kérhet.
+(10)[^21] A szolgáltató mentesül a számhordozás hibás teljesítésének felelőssége alól, a kötbérfizetési kötelezettséget is beleértve, ha azt a KRA meghibásodása okozta. Ennek igazolására a szolgáltató a hibajegyről másolatot kérhet.
 
 (11) A hibajegynek tartalmaznia kell:
 
@@ -41,3 +41,5 @@ b) a hibabejelentés (3) bekezdés szerinti adatait;
 c) a hiba megszüntetésének módját és időpontját;
 
 d) egyéb esetleges megjegyzést, kiegészítést.
+
+[^21]: A 17. § (10) bekezdése az 1/2016. (I. 15.) NMHH rendelet 15. §-ával megállapított szöveg.
