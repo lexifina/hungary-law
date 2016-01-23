@@ -1,6 +1,6 @@
 ## Az érettségi vizsga iratai és záradékai
 
-## I.[^367] Nyomtatványok
+## I.[^377] Nyomtatványok
 
 ## 1. Érettségi bizonyítvány*
 
@@ -10,11 +10,11 @@
 
 ## 4. Jelentkezés érettségi vizsgára
 
-## 5.[^368]
+## 5.[^378]
 
 ## 6. Jegyzőkönyv az írásbeli, szóbeli vizsgáról és a vizsgabizottság üléseiről, illetve a tantárgyi vizsgabizottság üléseiről
 
-## 7.[^369] Tanúsítvány az érettségi vizsgáról*
+## 7.[^379] Tanúsítvány az érettségi vizsgáról*
 
 ## 8. Jelentés a vizsgaeredményekről
 
@@ -28,7 +28,7 @@
 
 ## A *-gal jelölt nyomtatványok gyártásához és forgalmazásához az oktatásért felelős miniszter által vezetett minisztérium engedélye szükséges.
 
-## II*[^370]
+## II*[^380]
 
 ## Záradékok
 
@@ -50,7 +50,7 @@
 
 ## 9. A(z) ........................................... vizsgatárgy(ak) minősítését a 2005. év előtt hatályos vizsgarendszer szabályai szerint kapta.
 
-## 10. A magyar nyelv és irodalom vizsgatárgy helyett – az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 6. § (6) bekezdése alapján - magyar nyelvből, mint idegen nyelvből tett érettségi vizsgát.
+## 10. A magyar nyelv és irodalom vizsgatárgy helyett – az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 6. § (5)-(6) bekezdése alapján – magyar mint idegen nyelv vizsgatárgyból tett érettségi vizsgát.
 
 ## 11. Az érettségi vizsgát fel nem róható okból nem kezdte meg, .............................................. vizsgatárgyból pótló vizsgát tehet.
 
@@ -64,9 +64,11 @@
 
 ## 15. A vizsgabizottság szükség szerint döntéseihez megfelelő további záradékot alakíthat ki.
 
-2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^371]
+## 16. Jelen érettségi bizonyítványt a vizsgázó által bemutatott, iskolai rendszerű nevelésben-oktatásban szerzett, államilag elismert szakképesítésről kiadott bizonyítvány figyelembevételével állították ki.
 
-ELSŐ RÉSZ[^372]
+2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^381]
+
+ELSŐ RÉSZ[^382]
 
 AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
@@ -184,7 +186,7 @@ AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
 | 21. Élelmiszeripari alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-MÁSODIK RÉSZ[^373]
+MÁSODIK RÉSZ[^383]
 
 AZ ÉRETTSÉGI VIZSGATÁRGYAK ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -2758,10 +2760,10 @@ KÖZÉPSZINT
 
 EMELT SZINT
 
-[^367]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
-[^368]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
-[^369]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^370]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított szöveg.
-[^371]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^372]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, a 172/2011. (VIII. 24.) Korm. rendelet 4. §-a, a 106/2012. (VI. 1.) Korm. rendelet 6–7. §-a szerint módosított szöveg.
-[^373]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja szerint módosított szöveg.
+[^377]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
+[^378]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
+[^379]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^380]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^381]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^382]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, a 172/2011. (VIII. 24.) Korm. rendelet 4. §-a, a 106/2012. (VI. 1.) Korm. rendelet 6–7. §-a szerint módosított szöveg.
+[^383]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja szerint módosított szöveg.
