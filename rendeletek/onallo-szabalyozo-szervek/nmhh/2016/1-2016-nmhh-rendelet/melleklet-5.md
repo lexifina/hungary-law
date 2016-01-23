@@ -1,0 +1,43 @@
+## „2. melléklet a 3/2011. (IX. 26.) NMHH rendelethez
+
+## Nemzetközi mobil előfizető azonosítók felosztási terve
+
+## A nemzetközi mobil előfizető azonosítót az ITU E.212 Ajánlása és az ETSI TS 100 927 műszaki előírás írja le.
+
+## „1. Leírás
+
+## A nemzetközi mobil előfizető azonosító (International Mobile Subscriber Identifier, IMSI) a mobil rádiótelefon hálózat elektronikus hírközlő végberendezései és előfizetői számára biztosít egyedi azonosítót.
+
+## A nemzetközi mobil előfizető azonosító a helyhez kötött telefonhálózat előfizetőit kizárólag SMS szolgáltatás esetén – az elektronikus hírközlő hálózatok azonosítóival kapcsolatos gazdálkodás rendjéről szóló NMHH rendeletben meghatározott feltételek mellett – azonosítja.
+
+## 2. Az azonosító felépítése
+
+## Nemzetközi mobil előfizető azonosító (IMSI) három részből áll:
+
+|  |  | MCC + MNC + MSIN |
+
+| ahol: | MCC | (Mobile Country Code) mobil országkód, melynek hossza 3 számjegy, és egyértelműen meghatározza a mobil előfizető hálózata szerinti országot. A mobil országkódokat az ITU jelöli ki. Magyarország mobil országkódja: 216. |
+
+|  | MNC | (Mobile Network Code) mobil hálózati kód, melynek hossza két számjegy. Az MNC az MCC-vel együtt egyértelműen meghatározza a mobil rádiótelefon szolgáltatást igénybe vevő végberendezés vagy előfizető honos mobil rádiótelefon hálózatát, vagy a helyhez kötött telefonhálózatban SMS szolgáltatást igénybevevő végberendezés vagy előfizető helyhez kötött telefonhálózatát. A mobil hálózati kódot a hatóság jelöli ki. A kijelölés feltételeit az elektronikus hírközlő hálózatok azonosítóival kapcsolatos gazdálkodás rendjéről szóló NMHH rendelet tartalmazza. |
+
+|  | MSIN | (Mobile Subscriber Identification Number) mobil előfizetői azonosító szám, mely egy MCC és MNC-vel meghatározott hálózaton belül azonosít egy előfizetőt. A mobil előfizetői azonosító számot a szolgáltató jelöli ki. |
+
+## Az IMSI 0–9 számjegyekből állhat, maximális hossza 15 számjegy lehet.”
+
+## ”
+
+5. melléklet az 1/2016. (I. 15.) NMHH rendelethez
+
+1. Az R4 1. mellékletébe foglalt táblázat A:7 mezője helyébe a következő mező lép:
+
+|  | (A) | (B) |
+
+| (7) | díjmentes szolgáltatás szám (SHS = 40) | (180) |
+
+1.1. Az R4 1. mellékletébe foglalt táblázat A:19 és A:20 mezője helyébe a következő mezők lépnek:
+
+|  | (A) | (B) |
+
+| (19) | díjmentes szolgáltatás 4-jegyű rövid szám (14cd) | (900 000) |
+
+| (20) | díjmentes szolgáltatás 5-jegyű rövid szám (14cde) | (600 000) |
