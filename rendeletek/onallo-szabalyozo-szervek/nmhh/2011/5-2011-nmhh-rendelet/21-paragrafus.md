@@ -2,11 +2,11 @@
 
 ## Záró rendelkezés
 
-21. §[^51] (1) Ez a rendelet 2011. november 1. napján lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
+21. §[^52] (1) Ez a rendelet 2011. november 1. napján lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (2) Amennyiben a Kulturális Örökségvédelmi Hivatal vagy a Hivatal 2012. január 1-jét megelőzően indult eljárásban hozta meg a filmalkotás támogatásra jogosultságának igazolása és megállapítása tárgyában a határozatot, akkor ezen filmalkotás tekintetében a Hivatal támogatási igazolás kiállítása tárgyában 2012. szeptember 1-jét követően indult eljárásának, illetve eljárásainak díja 0 Ft.
 
-(3)[^52] Amennyiben a költségellenőrzési eljárás tárgya olyan filmalkotás, amely vonatkozásában 2012. január 1. és 2012. december 16. között támogatási igazolás kiállítására irányuló eljárás indult a Hivatalnál, és az eljárás nem az ügyfélnek felróható okból került megszüntetésre, vagy ha az ügyfél az eljárásért fizetendő igazgatási szolgáltatási díjat megfizette, az ugyanazon filmalkotás vonatkozásában megindított költségellenőrzési eljárás díja 10 000 Ft.
+(3)[^53] Amennyiben a költségellenőrzési eljárás tárgya olyan filmalkotás, amely vonatkozásában 2012. január 1. és 2012. december 16. között támogatási igazolás kiállítására irányuló eljárás indult a Hivatalnál, és az eljárás nem az ügyfélnek felróható okból került megszüntetésre, vagy ha az ügyfél az eljárásért fizetendő igazgatási szolgáltatási díjat megfizette, az ugyanazon filmalkotás vonatkozásában megindított költségellenőrzési eljárás díja 10 000 Ft.
 
-[^51]: A 21. § a 12/2012. (VIII. 9.) NMHH rendelet 9. §-ával megállapított szöveg.
-[^52]: A 21. § (3) bekezdését a 16/2013. (IX. 25.) NMHH rendelet 10. §-a iktatta be.
+[^52]: A 21. § a 12/2012. (VIII. 9.) NMHH rendelet 9. §-ával megállapított szöveg.
+[^53]: A 21. § (3) bekezdését a 16/2013. (IX. 25.) NMHH rendelet 10. §-a iktatta be.
