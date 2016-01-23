@@ -1,0 +1,57 @@
+## 1. A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság létrehozásáról, valamint szervezeti és működési rendjének meghatározásáról szóló 1150/2012. (V. 15.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete az 1. melléklet szerint módosul.
+
+## 2. Hatályát veszti a Határozat 3. pontja.
+
+## 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+1. melléklet az 1019/2016. (I. 22.) Korm. határozathoz
+
+1. A Határozat 1. melléklet 4. pontja helyébe a következő rendelkezés lép:
+
+„4. A KKB tagjai az emberi erőforrások minisztere, a földművelésügyi miniszter, a honvédelmi miniszter, az igazságügyi miniszter, a külgazdasági és külügyminiszter, a nemzetgazdasági miniszter, a nemzeti fejlesztési miniszter, a Miniszterelnökséget vezető miniszter és a miniszterelnök kabinetfőnöke által kijelölt állami vezető, valamint a Belügyminisztérium rendészeti államtitkára. A KKB tagjai díjazásban nem részesülnek.”
+
+2. A Határozat 1. melléklet 5. pontja a következő g) alponttal egészül ki:
+
+(A KKB ülésén állandó jelleggel tanácskozási joggal részt vesz)
+
+„g) a Belügyminisztérium rendészeti államtitkára által kijelölt, a Belügyminisztérium állományába tartozó vezetői munkakört betöltő személy.”
+
+3. A Határozat 1. melléklet 6. pont l) alpontja helyébe a következő rendelkezés lép:
+
+(A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt)
+
+„l) a Herman Ottó Intézet főigazgatója,”
+
+4. A Határozat 1. melléklet 6. pont n) és o) alpontja helyébe a következő rendelkezések lépnek:
+
+(A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt)
+
+„n) az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség főigazgatója,
+
+o) azon megyei, fővárosi védelmi bizottság elnöke, akit a KKB napirendjén szereplő kérdés érint,”
+
+5. A Határozat 1. melléklet 6. pontja a következő p) és q) alponttal egészül ki:
+
+(A KKB ülésén a KKB elnökének döntése és meghívása alapján tanácskozási joggal vesz részt)
+
+„p) a Nemzeti Média- és Hírközlési Hatóság elnöke, valamint
+
+q) az Egészségügyi Készletgazdálkodási Intézet főigazgatója.”
+
+6. A Határozat 1. melléklet 13. pontja helyébe a következő rendelkezés lép:
+
+„13. A KKB NVK a katasztrófák elleni védekezésben részt vevő központi államigazgatási szervek állományából a KKB elnöke, illetve a KKB tagjai által kijelölt szakemberekkel, valamint meghívott szakértőkkel látja el feladatát. A kijelölés feltételei:
+
+a) a KKB tagja által képviselt szervezet részéről a KKB NVK ügyrendjében meghatározott beosztási, képesítési, valamint általános és szakmai kompetenciák megléte, és
+
+b) részvétel a KKB NVK által szervezett, kijelölést megelőző alapfelkészítésen.”
+
+7. A Határozat 1. melléklet 21. pont h) alpontja helyébe a következő rendelkezés lép:
+
+(A KKB NVK vezetőjének szakmai helyettese minden esetben annak a központi államigazgatási szervnek az állományába tartozó, a szakmai feladatok ellátásáért felelős vezető beosztású személy, melynek az adott katasztrófatípus kezelése, elhárítása a jogszabályban meghatározott alapvető feladatait, felelősségi körét elsődlegesen érinti. Ennek megfelelően a KKB NVK vezetőjének szakmai helyettese)
+
+„h) humán járványok, határon átnyúló egészségügyi veszélyek megelőzésének és felszámolásának irányítására az egészségügyért,”
+
+(felelős központi államigazgatási szervet képviselő KKB-tag által kijelölt személy, aki egyben ellátja a 22. pontban meghatározott védekezési munkabizottság vezetői feladatait.)
+
+8. A Határozat 1. melléklet 21. pont n) alpontjában a „külföldi állampolgárok” szövegrész helyébe a „külföldiek” szöveg lép.
