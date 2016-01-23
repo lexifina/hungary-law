@@ -36,8 +36,6 @@ Nem hasonszenvi (allopátiás) készítmények
 
 |
 
-|
-
 I.A.
 
 |
@@ -58,7 +56,7 @@ I.A.1.
 
 |
 
-Új forgalomba hozatali engedély
+Új forgalombahozatali engedély
 
 |
 
@@ -100,7 +98,7 @@ I.A.1.1.a.
 
 |
 
-Originális vagy originális családbővítés
+Originális, vagy originális családbővítés
 
 |
 
@@ -120,7 +118,7 @@ I.A.1.1.b.
 
 |
 
-Generikus vagy generikus családbővítése
+Generikus, vagy generikus családbővítése
 
 |
 
@@ -140,7 +138,7 @@ I.A.1.1.c.
 
 |
 
-Egyéb vagy egyéb családbővítés
+Egyéb, vagy egyéb családbővítés
 
 |
 
@@ -176,7 +174,7 @@ I.A.1.2.a.
 
 |
 
-Originális vagy originális családbővítés
+Originális, vagy originális családbővítés
 
 |
 
@@ -242,7 +240,7 @@ I.A.1.2.b.
 
 |
 
-Generikus vagy generikus családbővítése
+Generikus, vagy generikus családbővítése
 
 |
 
@@ -308,7 +306,7 @@ I.A.1.2.c.
 
 |
 
-Egyéb vagy egyéb családbővítés
+Egyéb, vagy egyéb családbővítés
 
 |
 
@@ -370,7 +368,7 @@ I.A.2.
 
 |
 
-Forgalomba hozatali engedély módosítása
+Forgalombahozatali engedély módosítása
 
 |
 
@@ -412,7 +410,7 @@ I.A.2.1.a.
 
 |
 
-Type IA–IB
+Type IA-IB
 
 |
 
@@ -420,7 +418,7 @@ Type IA–IB
 
 |
 
-180 000
+234 000
 
 |
 
@@ -444,7 +442,7 @@ Type II
 
 |
 
-270 000
+351 000
 
 |
 
@@ -476,7 +474,7 @@ I.A.2.2.a.
 
 |
 
-Type IA–IB
+Type IA-IB
 
 |
 
@@ -506,7 +504,7 @@ RMS
 
 |
 
-250 000
+325 000
 
 |
 
@@ -530,7 +528,7 @@ CMS
 
 |
 
-180 000
+234 000
 
 |
 
@@ -576,7 +574,7 @@ RMS
 
 |
 
-350 000
+455 000
 
 |
 
@@ -600,7 +598,7 @@ CMS
 
 |
 
-270 000
+351 000
 
 |
 
@@ -618,7 +616,7 @@ Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájéko
 
 |
 
-20 000
+26 000
 
 |
 
@@ -634,11 +632,13 @@ I.A.2.3.a.
 
 |
 
-Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok
+Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. §
+
+(4) bekezdésnek megfelelő beadványok
 
 |
 
-100 000
+130 000
 
 |
 
@@ -658,7 +658,7 @@ Egyéb beadványok
 
 |
 
-20 000
+26 000
 
 |
 
@@ -672,11 +672,11 @@ I.A.2.4.
 
 |
 
-A forgalomba hozatali engedély jogosultság átruházása (jogutódlás)
+A forgalombahozatali engedély jogosultság átruházása (jogutódlás)
 
 |
 
-180 000
+234 000
 
 |
 
@@ -690,11 +690,11 @@ I.A.2.5.
 
 |
 
-A magyar forgalomba hozatali engedélyben olyan kiszerelési egységek hozzáadása/törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek
+A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek
 
 |
 
-100 000
+130 000
 
 |
 
@@ -712,7 +712,7 @@ Globál számozásra történő változtatás
 
 |
 
-100 000
+130 000
 
 |
 
@@ -730,7 +730,7 @@ A készítmény osztályozási besorolásának változása
 
 |
 
-270 000
+351 000
 
 |
 
@@ -742,7 +742,7 @@ I.A.3.
 
 |
 
-Forgalomba hozatali engedély megújítása
+Forgalombahozatali engedély megújítása
 
 |
 
@@ -1078,7 +1078,7 @@ I.A.4.
 
 |
 
-Forgalomba hozatali engedély visszavonása
+Forgalombahozatali engedély visszavonása
 
 |
 
@@ -1094,11 +1094,11 @@ I.A.5.
 
 |
 
-Forgalomba hozatali engedély éves fenntartása
+Forgalombahozatali engedély éves fenntartása
 
 |
 
-180 000
+270 000
 
 |
 
@@ -1130,7 +1130,7 @@ I.B.1.
 
 |
 
-Új forgalomba hozatali engedély
+Új forgalombahozatali engedély
 
 |
 
@@ -1452,7 +1452,7 @@ I.B.2.
 
 |
 
-Forgalomba hozatali engedély módosítása
+Forgalombahozatali engedély módosítása
 
 |
 
@@ -1494,7 +1494,7 @@ I.B.2.1.a.
 
 |
 
-Type IA–IB
+Type IA-IB
 
 |
 
@@ -1522,7 +1522,7 @@ Kiindulási csoportonként (egy komponens)
 
 |
 
-9 000
+11 700
 
 |
 
@@ -1544,7 +1544,7 @@ Kevert allergének (több komponens)
 
 |
 
-45 000
+58 500
 
 |
 
@@ -1568,7 +1568,7 @@ Egyéb
 
 |
 
-45 000
+58 500
 
 |
 
@@ -1612,7 +1612,7 @@ Kiindulási csoportonként (egy komponens)
 
 |
 
-20 000
+26 000
 
 |
 
@@ -1634,7 +1634,7 @@ Kevert allergének (több komponens)
 
 |
 
-100 000
+130 000
 
 |
 
@@ -1658,7 +1658,7 @@ Egyéb
 
 |
 
-100 000
+130 000
 
 |
 
@@ -1690,7 +1690,7 @@ I.B.2.2.a.
 
 |
 
-Type IA–IB
+Type IA-IB
 
 |
 
@@ -1738,13 +1738,11 @@ I.B.2.2.a.1.1.
 
 |
 
-Kiindulási csoportonként (egy kompo-
-
-nens)
+Kiindulási csoportonként (egy komponens)
 
 |
 
-9 000
+11 700
 
 |
 
@@ -1764,13 +1762,11 @@ I.B.2.2.a.1.2.
 
 |
 
-Kevert allergének (több kompo-
-
-nens)
+Kevert allergének (több komponens)
 
 |
 
-45 000
+58 500
 
 |
 
@@ -1794,7 +1790,7 @@ Egyéb
 
 |
 
-45 000
+58 500
 
 |
 
@@ -1836,13 +1832,11 @@ I.B.2.2.a.2.1.
 
 |
 
-Kiindulási csoportonként (egy kompo-
-
-nens)
+Kiindulási csoportonként (egy komponens)
 
 |
 
-9 000
+11 700
 
 |
 
@@ -1866,7 +1860,7 @@ Kevert allergének (több komponens)
 
 |
 
-45 000
+58 500
 
 |
 
@@ -1890,7 +1884,7 @@ Egyéb
 
 |
 
-45 000
+58 500
 
 |
 
@@ -1954,13 +1948,11 @@ I.B.2.2.b.1.1.
 
 |
 
-Kiindulási csoportonként (egy kompo-
-
-nens)
+Kiindulási csoportonként (egy komponens)
 
 |
 
-30 000
+39 000
 
 |
 
@@ -1984,7 +1976,7 @@ Kevert allergének (több komponens)
 
 |
 
-200 000
+260 000
 
 |
 
@@ -2008,7 +2000,7 @@ Egyéb
 
 |
 
-200 000
+260 000
 
 |
 
@@ -2050,13 +2042,11 @@ I.B.2.2.b.2.1.
 
 |
 
-Kiindulási csoportonként (egy kompo-
-
-nens)
+Kiindulási csoportonként (egy komponens)
 
 |
 
-20 000
+26 000
 
 |
 
@@ -2080,7 +2070,7 @@ Kevert allergének (több komponens)
 
 |
 
-100 000
+130 000
 
 |
 
@@ -2104,7 +2094,7 @@ Egyéb
 
 |
 
-100 000
+130 000
 
 |
 
@@ -2122,7 +2112,7 @@ Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájéko
 
 |
 
-20 000
+26 000
 
 |
 
@@ -2138,13 +2128,13 @@ I.B.2.3.a.
 
 |
 
-Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet
+Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. §
 
-3. § (4) bekezdésnek megfelelő beadványok
+(4) bekezdésnek megfelelő beadványok
 
 |
 
-100 000
+130 000
 
 |
 
@@ -2164,7 +2154,7 @@ Egyéb beadványok
 
 |
 
-20 000
+26 000
 
 |
 
@@ -2178,11 +2168,11 @@ I.B.2.4.
 
 |
 
-A forgalomba hozatali engedély jogosultság átruházása (jogutódlás)
+A forgalombahozatali engedély jogosultság átruházása (jogutódlás)
 
 |
 
-180 000
+234 000
 
 |
 
@@ -2196,11 +2186,11 @@ I.B.2.5.
 
 |
 
-A magyar forgalomba hozatali engedélyben olyan kiszerelési egységek hozzáadása/törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek
+A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek
 
 |
 
-100 000
+130 000
 
 |
 
@@ -2218,7 +2208,7 @@ Globál számozásra történő változtatás
 
 |
 
-100 000
+130 000
 
 |
 
@@ -2236,7 +2226,7 @@ A készítmény osztályozási besorolásának változása
 
 |
 
-270 000
+351 000
 
 |
 
@@ -2248,7 +2238,7 @@ I.B.3.
 
 |
 
-Forgalomba hozatali engedély megújítása
+Forgalombahozatali engedély megújítása
 
 |
 
@@ -2396,9 +2386,7 @@ I.B.3.2.a.1.
 
 |
 
-Kiindulási csoportonként (egy kompo-
-
-nens)
+Kiindulási csoportonként (egy komponens)
 
 |
 
@@ -2492,9 +2480,7 @@ I.B.3.2.b.1.
 
 |
 
-Kiindulási csoportonként (egy kompo-
-
-nens)
+Kiindulási csoportonként (egy komponens)
 
 |
 
@@ -2558,7 +2544,7 @@ I.B.4.
 
 |
 
-Forgalomba hozatali engedély visszavonása
+Forgalombahozatali engedély visszavonása
 
 |
 
@@ -2574,7 +2560,7 @@ I.B.5.
 
 |
 
-Forgalomba hozatali engedély éves fenntartása
+Forgalombahozatali engedély éves fenntartása
 
 |
 
@@ -2594,7 +2580,7 @@ Kiindulási csoportonként (egy komponens)
 
 |
 
-9 000
+90 000
 
 |
 
@@ -2612,7 +2598,7 @@ Kevert allergének (több komponens)
 
 |
 
-45 000
+135 000
 
 |
 
@@ -2636,7 +2622,7 @@ Egyéb
 
 |
 
-45 000
+135 000
 
 |
 
@@ -2663,6 +2649,8 @@ II.A.
 |
 
 Új engedélyezések
+
+|
 
 |
 
@@ -2828,7 +2816,7 @@ II.B.
 
 |
 
-Forgalomba hozatali engedély módosítása
+Forgalombahozatali engedély módosítása
 
 |
 
@@ -2846,7 +2834,7 @@ II.B.1.
 
 |
 
-Type IA–IB
+Type IA-IB
 
 |
 
@@ -2894,7 +2882,7 @@ Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az 
 
 |
 
-9 000
+11 700
 
 |
 
@@ -2916,7 +2904,7 @@ Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az 
 
 |
 
-9 000
+11 700
 
 |
 
@@ -2956,7 +2944,7 @@ Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az 
 
 |
 
-90 000
+117 000
 
 |
 
@@ -2978,7 +2966,7 @@ Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az 
 
 |
 
-90 000
+117 000
 
 |
 
@@ -3002,7 +2990,7 @@ Egyéb
 
 |
 
-90 000
+117 000
 
 |
 
@@ -3064,7 +3052,7 @@ Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az 
 
 |
 
-18 000
+23 400
 
 |
 
@@ -3086,7 +3074,7 @@ Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az 
 
 |
 
-18 000
+23 400
 
 |
 
@@ -3126,7 +3114,7 @@ Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az 
 
 |
 
-180 000
+234 000
 
 |
 
@@ -3148,7 +3136,7 @@ Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az 
 
 |
 
-180 000
+234 000
 
 |
 
@@ -3172,7 +3160,7 @@ Egyéb
 
 |
 
-180 000
+234 000
 
 |
 
@@ -3188,13 +3176,11 @@ II.B.2.3.a.
 
 |
 
-|
-
 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok
 
 |
 
-100 000
+130 000
 
 |
 
@@ -3210,13 +3196,11 @@ II.B.2.3.b.
 
 |
 
-|
-
 Egyéb beadványok
 
 |
 
-20 000
+26 000
 
 |
 
@@ -3234,7 +3218,7 @@ Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájéko
 
 |
 
-20 000
+26 000
 
 |
 
@@ -3248,11 +3232,11 @@ II.B.4.
 
 |
 
-A forgalomba hozatali engedély jogosultság átruházása (jogutódlás)
+A forgalombahozatali engedély jogosultság átruházása (jogutódlás)
 
 |
 
-180 000
+234 000
 
 |
 
@@ -3266,11 +3250,11 @@ II.B.5.
 
 |
 
-A magyar forgalomba hozatali engedélyben olyan kiszerelési egységek hozzáadása/törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek
+A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek
 
 |
 
-100 000
+130 000
 
 |
 
@@ -3288,7 +3272,7 @@ Globál számozásra történő változtatás
 
 |
 
-100 000
+130 000
 
 |
 
@@ -3306,7 +3290,7 @@ A készítmény osztályozási besorolásának változása
 
 |
 
-270 000
+351 000
 
 |
 
@@ -3318,7 +3302,7 @@ II.C.
 
 |
 
-Forgalomba hozatali engedély megújítása
+Forgalombahozatali engedély megújítása
 
 |
 
@@ -3480,7 +3464,7 @@ II.D.
 
 |
 
-Forgalomba hozatali engedély éves fenntartása
+Forgalombahozatali engedély éves fenntartása
 
 |
 
@@ -3500,7 +3484,7 @@ Egykomponensű gyógyszer
 
 |
 
-9 000
+90 000
 
 |
 
@@ -3518,7 +3502,7 @@ Többkomponensű gyógyszer
 
 |
 
-45 000
+135 000
 
 |
 
@@ -3530,7 +3514,7 @@ II.E.
 
 |
 
-Forgalomba hozatali engedély visszavonása
+Forgalombahozatali engedély visszavonása
 
 |
 
@@ -3560,7 +3544,9 @@ III.A.
 
 |
 
-Párhuzamos Import engedély kiadása
+Párhuzamos Importengedély kiadása
+
+|
 
 |
 
@@ -3576,17 +3562,13 @@ III.B.
 
 |
 
-Párhuzamos Import engedély módosítása
+Párhuzamos Importengedély módosítása
 
 |
 
 |
 
 |
-
-|
-
-180 000
 
 |
 
@@ -3596,7 +3578,7 @@ III.B.1.
 
 |
 
-Type IA–IB
+Type IA-IB
 
 |
 
@@ -3608,7 +3590,7 @@ Type IA–IB
 
 |
 
-180 000
+234 000
 
 |
 
@@ -3630,13 +3612,15 @@ Type II
 
 |
 
+234 000
+
 |
 
 III.C.
 
 |
 
-Párhuzamos Import engedély megújítása újabb öt évre
+Párhuzamos Importengedély megújítása újabb öt évre
 
 |
 
@@ -3652,7 +3636,7 @@ III.D.
 
 |
 
-Párhuzamos Import engedély fenntartása
+Párhuzamos Importengedély fenntartása
 
 |
 
@@ -3662,7 +3646,7 @@ Párhuzamos Import engedély fenntartása
 
 |
 
-180 000
+234 000
 
 |
 
@@ -3684,7 +3668,7 @@ III.F.
 
 |
 
-A forgalomba hozatali engedélytől való eltérés engedélyezése egyes gyártási tételek esetén
+A forgalombahozatali engedélytől való eltérés engedélyezése egyes gyártási tételek esetén
 
 |
 
@@ -3832,7 +3816,7 @@ Helyszíni ellenőrzése (telephelyenként)
 
 |
 
-III.I.2.
+III.I.2
 
 |
 
@@ -3866,9 +3850,7 @@ III.I.4.
 
 |
 
-|
-
-Gyógyszerközvetítői tevékenység regisztrációja
+Gyógyszer-közvetítői tevékenység regisztrációja
 
 |
 
@@ -3880,9 +3862,7 @@ III.I.5.
 
 |
 
-|
-
-Gyógyszerközvetítői tevékenység regisztrációjának módosítása
+Gyógyszer-közvetítői tevékenység regisztrációjának módosítása
 
 |
 
@@ -3894,7 +3874,7 @@ III.J.
 
 |
 
-Vizsgálati készítmények biztonsági vizsgálatait ellátó laboratóriumok helyszíni ellenőrzése a Helyes Laboratóriumi Gyakorlat szempontjából és az erre vonatkozó bizonylat kiadás
+Vizsgálati készítmények biztonsági vizsgálatait ellátó laboratóriumok helyszíni ellenőrzése a Helyes Laboratóriumi Gyakorlat szempontjából és az erre vonatkozó bizonylatkiadás
 
 |
 
@@ -3906,7 +3886,7 @@ III.K.
 
 |
 
-Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylat kiadása, készítményenként és bizonylatonként
+Magyarországon forgalombahozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylatkiadása, készítményenként és bizonylatonként
 
 |
 
@@ -4000,7 +3980,7 @@ III.N.5.
 
 |
 
-A géntechnológiával módosított szervezetek és az azokból előállított termékek forgalomba hozatala: géntechnológiai módosításonként
+A géntechnológiával módosított szervezetek és az azokból előállított termékek forgalombahozatala: géntechnológiai módosításonként
 
 |
 
@@ -4058,7 +4038,7 @@ III.P.1.
 
 |
 
-A forgalomba hozatali engedély módosítása
+A forgalombahozatali engedély módosítása
 
 |
 
@@ -4070,7 +4050,7 @@ III.P.2.
 
 |
 
-A forgalomba hozatali engedély meghosszabbítása
+A forgalombahozatali engedély meghosszabbítása
 
 |
 
@@ -4082,7 +4062,7 @@ III.Q.
 
 |
 
-Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztrációja
+Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja
 
 |
 
@@ -4092,7 +4072,7 @@ III.Q.1.
 
 |
 
-Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztrációja, korábban ilyen tartalmú gyártási engedéllyel rendelkezők számára
+Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja, korábban ilyen tartalmú gyártási engedéllyel rendelkezők számára
 
 |
 
@@ -4160,7 +4140,7 @@ III.Q.3.2.
 
 |
 
-Gyártott hatóanyagonként és telephelyenként
+Importált hatóanyagonként és telephelyenként
 
 |
 
@@ -4194,7 +4174,7 @@ III.Q.4.2.
 
 |
 
-Gyártott hatóanyagonként és telephelyenként
+Forgalmazott hatóanyagonként és telephelyenként
 
 |
 
@@ -4202,11 +4182,11 @@ Gyártott hatóanyagonként és telephelyenként
 
 |
 
-III.Q.5.
+III.Q.5
 
 |
 
-Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztráció új hatóanyaggal, hatóanyagonként és telephelyenként
+Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció új hatóanyaggal, hatóanyagonként és telephelyenként
 
 |
 
@@ -4218,7 +4198,7 @@ III.Q.6.
 
 |
 
-Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztráció módosítása minden egyéb esetben bejelentésenként
+Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció módosítása minden egyéb esetben bejelentésenként
 
 |
 
@@ -4230,7 +4210,7 @@ III.R.
 
 |
 
-Gyógyszerhatóanyag-gyártási tevékenység helyszíni ellenőrzése kérelemre, GMP megfelelőség igazolása céljából (telephelyenként)
+Gyógyszerhatóanyag-gyártási tevékenység helyszíni ellenőrzése kérelemre, GMP- megfelelőség igazolása céljából (telephelyenként)
 
 |
 
@@ -4242,7 +4222,7 @@ III.S.
 
 |
 
-Hatósági bizonyítvány kiállítása a vámhatóság részére gyógyszer-nagykereskedelmi és gyógyszergyártási engedélyről illetve a belföldi forgalomba hozatal céljára behozni kívánt gyógyszer engedélyéről
+Hatósági bizonyítvány kiállítása a vámhatóság részére gyógyszer-nagykereskedelmi és gyógyszergyártási engedélyről, illetve a belföldi forgalombahozatal céljára behozni kívánt gyógyszer engedélyéről
 
 |
 

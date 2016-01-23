@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-95-00-00
 | 2015-01-30 | 2014. évi CXI. törvény | 2005-95-00-00.27 |
 | 2015-07-01 | 2015. évi LXXVII. törvény | 2005-95-00-00.28 |
 | 2016-01-01 | 2015. évi CCXXIV. törvény | 2005-95-00-00.29 |
+| 2016-01-23 | 2015. évi CCXXIV. törvény | 2005-95-00-00.30 |
