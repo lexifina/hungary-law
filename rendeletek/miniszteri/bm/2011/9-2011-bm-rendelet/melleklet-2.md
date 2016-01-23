@@ -14,7 +14,7 @@
 
 ## Kenyér, péksütemény, finom pékáru.
 
-## 2. 13.92 Konfekcionált textiláru gyártása (kivéve: ruházat)
+## 2.[^6] 13.92 Konfekcionált textiláru gyártása (kivéve: ruházat)
 
 ## Ágynemű, asztalnemű, fürdőszobai és konyhai textíliák.
 
@@ -22,7 +22,7 @@
 
 ## Fogvatartotti ágytextília.
 
-## Zászló, juta zsák, pénzeszsák, bűnjelzsák, szagmintavevő.
+## Juta zsák, pénzeszsák, bűnjelzsák, szagminta-vevő.
 
 ## Vászon szatyor.
 
@@ -30,9 +30,9 @@
 
 ## Kalocsai hímzett terítő, gépi hímzett termékek, hímzett rendfokozati jelzés, karjelvények, hímzett azonosítók.
 
-## 4. 14.12 Munkaruházat gyártása
+## 4.[^7] 14.12 Munkaruházat gyártása
 
-## Egyenruházati termékek: nadrág, szoknya, ing/blúz, dzseki, zubbony, gyakorló ruházat, vászon sapka. Kivéve: speciális ruházat.
+## Egyenruházati termékek: nadrág, szoknya, ing/blúz, dzseki, zubbony, télikabát, gyakorló ruházat, vászon sapka (kivéve: speciális ruházat).
 
 ## Fogvatartotti ruházat.
 
@@ -40,7 +40,7 @@
 
 ## Közfoglalkoztatotti ruházat.
 
-## Kétrészes munkaruha, dzseki, derekas nadrág, mellesnadrág, téli kabát, munkakabát, téli mellény, overáll, vattakabát, vattamellény.
+## Kétrészes munkaruha, dzseki, derekas nadrág, melles nadrág, télikabát, munkakabát, téli mellény, overáll, vattakabát, vattamellény.
 
 ## Köpeny, tunika, nadrág, kötény, ing, orvosi blúz.
 
@@ -56,13 +56,15 @@
 
 ## Munkavédelmi kesztyűk (kivéve: lángálló, vágásbiztos, bélelt, és cérnakesztyű).
 
-## 7. 15.12 Táskafélék, szíjazat gyártása
+## 7.[^8] 15.12 Táskafélék, szíjazat gyártása
 
-## Egyenruházati kiegészítők: övek bőrből, taktikai öv, tonfatartó, bilincstartó tok, gyorstok (P9-RC), könnyfakasztó tartó tok, merev bilincstartó (bőr), gyorskötöző tartó, kulcstartó, rádiótartó tok, riasztó tok, honvédségi hevederöv, katasztrófavédelmi öv.
+## Egyenruházati kiegészítők: övek bőrből, taktikai öv, tonfatartó, bilincstartó tok, könnyfakasztó tartó tok, merev bilincstartó (bőr), gyorskötöző tartó, kulcstartó, rádiótartó tok, riasztó tok, honvédségi hevederöv, katasztrófavédelmi öv.
 
 ## Málhazsák.
 
 ## Szolgálati igazolvány tok.
+
+## Pisztolytáska.
 
 ## 8. 15.20 Lábbeligyártás
 
@@ -90,13 +92,13 @@
 
 ## Háztartási toalettpapír, közületi toalettpapír, háztartási kéztörlő, közületi kéztörlő, papír zsebkendő, szalvéta, orvosi lepedő.
 
-## 10. 17.23 Irodai papíráru gyártása
+## 10.[^9] 17.23 Irodai papíráru gyártása
 
-## Egyedi spirálfüzet, konferenciamappa, jegyzettömb, kockatömb, felírótömb, átírótömb, dosszié (pólyás, fűzős, szalagos), mappa, futárboríték, talpas boríték, papírtasak.
+## Egyedi spirálfüzet, konferenciamappa, jegyzettömb, kockatömb, dosszié (pólyás, fűzős, szalagos), mappa, talpas boríték, papírtasak, karton iratpapucs, gyűrűs és emelőkaros iratrendező, talpas tasak.
 
-## 11. 18.12 Nyomás (kivéve: napilap)
+## 11.[^10] 18.12 Nyomás (kivéve: napilap)
 
-## Könyv, évkönyv, meghívók, céglogós borítékok, egyedi- és, formanyomtatványok (kivéve: hatósági, szigorú számadású, engedélyköteles nyomtatványok), névjegykártya, B2 méretnél nem nagyobb plakátok, naptárak, tértivevény (kivéve: külföldi tértivevény), iratborító.
+## Könyv, évkönyv, meghívók, céglogós borítékok [kivéve: hatósági szürke borítékok, tasakok és egyéb speciális borítékok/tasakok (pl. légpárnás, kraft papír alapanyagú)], névjegykártya, B2 méretnél nem nagyobb egyedi- és formanyomtatványok (kivéve: hatósági, szigorú számadású, engedélyköteles nyomtatványok) plakátok (pl. lőlapok), TA24 naptárak, emblémázott egyedi asztali és falinaptár, tértivevény (kivéve: külföldi tértivevény), iratborító.
 
 ## 12. 18.13 Nyomdai előkészítő tevékenység
 
@@ -137,6 +139,10 @@
 ## Büntetés-végrehajtási ajtózár-szerkezet (3 ponton záródó).
 
 ## Elektromos ajtózár (szigonyzár).
+
+## 20/A.[^11] 25.93 Huzaltermék gyártása
+
+## Huzalból készült áruk: pengés (NATO) drót, huzalkerítés (3000 mm × 15 m × 2,5 mm paraméterű huzal) gyártása.
 
 ## 21. 25.99 M.n.s. egyéb fémfeldolgozási termék gyártása
 
@@ -208,7 +214,7 @@
 
 ## k) Kórházi textíliák.
 
-## l)[^6] Egyszer használatos nem szőtt termékek: kabátok, műtős sapkák, zsilipruhák, lepedők, védőruhák, műtéti szettek.
+## l)[^12] Egyszer használatos nem szőtt termékek: kabátok, műtős sapkák, zsilipruhák, lepedők, védőruhák, műtéti szettek.
 
 ## 28. 38 Hulladékgazdálkodás
 
@@ -232,6 +238,10 @@
 
 ## 24 órás mosás, textíliák javítása, textíliák kézi vasalása, szennyes és tiszta textíliák szállítása, textília csomagolása, élő kártevőkkel szennyezett textília fertőtlenítése.
 
+## 32.[^13] 33.11 Fémfeldolgozási termék javítása
+
+## Határőrizeti célú ideiglenes biztonsági határzár elemeinek [fémfeldolgozási termékek, huzalból készült termékek, pengés (NATO) drót, huzalkerítés, drótkerítés, kerítésfonat, drótháló] javítása.
+
 2. melléklet a 9/2011. (III. 23.) BM rendelethez
 
 ## A Kedvezményezettek köre
@@ -244,7 +254,7 @@
 
 4. Rendészeti Szakközépiskolák
 
-5.[^7] Közszolgálati Személyzetfejlesztési Főigazgatóság
+5.[^14] Közszolgálati Személyzetfejlesztési Főigazgatóság
 
 6. Nemzetbiztonsági Szakszolgálat
 
@@ -258,23 +268,30 @@
 
 11. Nemzeti Védelmi Szolgálat
 
-12.[^8] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
+12.[^15] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
 
-13.[^9] Bevándorlási és Állampolgársági Hivatal
+13.[^16] Bevándorlási és Állampolgársági Hivatal
 
-14.[^10] Bevándorlási és Állampolgársági Hivatal Menekültügyi Őrzött Befogadó Központ, Békéscsaba
+14.[^17] Bevándorlási és Állampolgársági Hivatal Menekültügyi Őrzött Befogadó Központ, Békéscsaba
 
-15.[^11] Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske
+15.[^18] Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske
 
-16.[^12] Belügyminisztérium Nemzetközi Oktatási Központ
+16.[^19] Belügyminisztérium Nemzetközi Oktatási Központ
 
-17.[^13] Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
+17.[^20] Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
 
-[^6]: Az 1. melléklet 27. pont l) pontját a 61/2014. (XII. 12.) BM rendelet 3. §-a iktatta be.
-[^7]: A 2. melléklet 5. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^8]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^9]: A 2. melléklet 13. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^10]: A 2. melléklet 14. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^11]: A 2. melléklet 15. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^12]: A 2. melléklet 16. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^13]: A 2. melléklet 17. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet 2. pontja a 4/2016. (I. 22.) BM rendelet 1. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 4. pontja a 4/2016. (I. 22.) BM rendelet 1. pontjával megállapított szöveg.
+[^8]: Az 1. melléklet 7. pontja a 4/2016. (I. 22.) BM rendelet 1. pontjával megállapított szöveg.
+[^9]: Az 1. melléklet 10. pontja a 4/2016. (I. 22.) BM rendelet 1. pontjával megállapított szöveg.
+[^10]: Az 1. melléklet 11. pontja a 4/2016. (I. 22.) BM rendelet 1. pontjával megállapított szöveg.
+[^11]: Az 1. melléklet 20/A. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be.
+[^12]: Az 1. melléklet 27. pont l) pontját a 61/2014. (XII. 12.) BM rendelet 3. §-a iktatta be.
+[^13]: Az 1. melléklet 32. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be.
+[^14]: A 2. melléklet 5. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^15]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^16]: A 2. melléklet 13. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet 14. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^18]: A 2. melléklet 15. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet 16. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^20]: A 2. melléklet 17. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
