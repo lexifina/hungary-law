@@ -236,7 +236,7 @@
 
 |  | 9 | 51 | Internet-hozzáférési szolgáltatás |
 
-|  | 10 | 60 | Mobil rádiótelefon szolgáltatás |
+|  | 10 |  |  |
 
 |  | 11 | 70 | Mobil rádiótelefon szolgáltatás |
 
@@ -284,15 +284,15 @@
 
 ## 2.2.3. A használat feltételei
 
-## A földrajzi szám csak a körzetszámhoz tartozó földrajzi számozási területen elhelyezett előfizetői hozzáférési ponthoz rendelhető.
+## Elsődleges számhasználat: a földrajzi szám csak a körzetszámhoz tartozó földrajzi számozási területen elhelyezett előfizetői hozzáférési ponthoz rendelhető, amelyen keresztül a helyhez kötött telefonszolgáltatás folyamatosan biztosított. Másodlagos számhasználat: a földrajzi számon az elsődleges számhasználat mellett, az elsődleges számhasználatra feljogosított szolgáltató lehetővé teheti a telefonszolgáltatás igénybevételét IP alapú adatátvitelt biztosító előfizetői hozzáférési ponton is.
 
-## Földrajzi számon különleges díjazású (a díjmentes, a kedvezményes díjazású, az emelt díjas) szolgáltatás, valamint nomadikus telefonszolgáltatás nem nyújtható.
+## Földrajzi számon díjmentes, kedvezményes díjazású és emelt díjas szolgáltatás, valamint nomadikus telefonszolgáltatás nem nyújtható.
 
-## 2.3. Mobil számok (SHS = 20, 30, 31, 50, 60, 70)
+## 2.3. Mobil számok (SHS = 20, 30, 31, 50, 70)
 
 ## 2.3.1. Leírás
 
-## A mobil számok a mobil rádiótelefon hálózathoz csatlakozó előfizetők azonosítását és elérését teszik lehetővé mobil rádiótelefon illetőleg mobil internet hozzáférési szolgáltatás igénybevételéhez.
+## A mobil számok a mobil rádiótelefon hálózathoz csatlakozó előfizetők azonosítását és elérését teszik lehetővé mobil rádiótelefon vagy mobil internet hozzáférési szolgáltatás igénybevételéhez. A mobil szám a szolgáltatás igénybevételéhez szükséges olyan előfizetői azonosító modulhoz (SIM) van rendelve, amelynek az e rendelet 2. mellékletében meghatározott mobil országkód (MCC) paramétere 216.
 
 ## 2.3.2. A számok felépítése
 
@@ -312,7 +312,7 @@
 
 ## 2.4.1. Leírás
 
-## A nomadikus számok a nyilvános elektronikus hírközlő hálózathoz – általában helyhez kötött vagy mobil internet hozzáférésen – csatlakozó nomadikus telefonszolgáltatás előfizetők azonosítását és elérését teszik lehetővé.
+## A nomadikus számok a nomadikus telefonszolgáltatás előfizetőinek azonosítását és elérését teszik lehetővé.
 
 ## 2.4.2. A számok felépítése
 
@@ -432,23 +432,25 @@
 
 ## Az emelt díjas szolgáltatás szám használatára feljogosított számhasználó által kezdeményezett hívásoknál az emelt díjas szolgáltatás szám a hívottnál hívószám kijelzés szolgáltatással a hívó telefonszámaként nem jeleníthető meg.
 
-## 2.9. Üzleti hálózatok számai (SHS=38)
+## 2.9. Üzleti hálózatok számai (SHS = 38)
 
 ## 2.9.1. Leírás
 
-## Az előfizetők egy meghatározott csoportját – jellemzően egy céget, vagy egyéb szervezetet – kiszolgáló hálózat, azaz üzleti hálózat (Corporate Network) tagjainak elérését biztosítja a telefonhálózatból. Az üzleti hálózat összekapcsolja az adott szervezet magánhálózati és/vagy virtuális magánhálózati elemeit, ezen kívül lehetőséget biztosít az elektronikus hírközlő hálózat elérésére. Egy üzleti hálózat egyaránt tartalmazhat elektronikus hírközlési szolgáltatói és saját hálózati elemeket.
+## Az üzleti hálózat számai – a GSM-R rendszer üzleti hálózatának számai kivételével – az előfizetők egy meghatározott csoportját kiszolgáló hálózat (Corporate Network) tagjainak elérését biztosítják a nyilvános telefonhálózatból. Az üzleti hálózat összekapcsolja az adott szervezet székhelyét és telephelyeit, különböző telephelyeit, magánhálózati és virtuális magánhálózati elemeit, ezen kívül a nyilvános helyhez kötött telefonhálózat megadott összekapcsolási pontjain lehetőséget biztosít a nyilvános telefonhálózat elérésére.
+
+## A GSM-R rendszer üzleti hálózatának számai a páneurópai vasúti digitális nyalábolt rendszer tagjainak elérését teszik lehetővé a nyilvános telefonhálózatból.
 
 ## 2.9.2. A számok felépítése
 
-|  |  | 38 abc defg |
+|  |  |  | 38 abc defg |
 
-| ahol: | 38 | az üzleti hálózatot jelölő SHS |
+|  | ahol: | 38 | az üzleti hálózatot jelölő SHS |
 
-|  | abc defg | előfizetői szám 200 0000-999 9999 között. |
+|  |  | abc defg | előfizetői szám, melynek résztartományai: 200 0000-799 9999 üzleti hálózatok számai, a GSM-R rendszer üzleti hálózatának kivételével 880 0000-899 9999 GSM-R rendszer üzleti hálózatának számai. |
 
 ## 2.9.3. A használat feltételei
 
-## Az SHS=38 számtartomány számain nyilvánosan elérhető elektronikus hírközlési szolgáltatást üzleti hálózaton kívüli előfizetők részére nem nyújtható.
+## Az SHS = 38 számtartomány számain nyilvánosan elérhető elektronikus hírközlési szolgáltatás nem nyújtható, kizárólag a kijelölési engedélyben meghatározott vállalkozás vagy intézmény üzleti hálózata tagjainak, vagy a GSM-R rendszer tagjainak nyilvános telefonhálózatból való elérésére, az engedélyben meghatározott feltételekkel alkalmazható.
 
 ## 2.10. Gépek közötti kommunikáció számai (ún. M2M számok) (SHS=71)
 
@@ -672,7 +674,7 @@
 
 ## A 13600-13609 számokon az a szervezet jogosult adományok közvetítésére közhasznú, vagy kiemelten közhasznú szervezetek felé, amellyel a hatóság által kijelölt előfizetői számok 60%-ával együttesen rendelkező hírközlési szolgáltatók megállapodást kötöttek a hívószámok elérhetőségének biztosításáról.
 
-## A 13610-13699 számokon az a közhasznú, vagy kiemelten közhasznú szervezet jogosult adománygyűjtésre, amely legalább egy elektronikus hírközlési szolgáltatóval az adománygyűjtésről megállapodást kötött.
+## A 13610-13699 számokon az a közhasznú, vagy kiemelten közhasznú szervezet jogosult adománygyűjtésre, amely az adománygyűjtésről megállapodást kötött egy vagy több elektronikus hírközlési szolgáltatóval, amely rendelkezik, vagy amelyek együttesen rendelkeznek a hatóság által kijelölt előfizetői számok legalább 5%-ával.
 
 ## A hatóság internetes honlapján közzéteszi az adománygyűjtő számokat, a számokhoz tartozó adománygyűjtő, illetve közvetítő szervezet adatait és honlapjának elérhetőségét.
 
@@ -884,6 +886,6 @@
 
 ## A KEE vagy a KTE előtétet a tárcsázási folyamat elején kell tárcsázni.
 
-2. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^16]
+2. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^17]
 
-[^16]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^17]: A 2. melléklet az 1/2016. (I. 15.) NMHH rendelet 9. § b) pontjával megállapított szöveg.

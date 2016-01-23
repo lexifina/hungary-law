@@ -1,6 +1,6 @@
-3. § (1) Az 1. § d) pontjában meghatározott – az Eht. 188. §-ának 3. pontja szerint az azonosító gazdálkodás körébe eső – azonosítókat a hatóság köti le, illetőleg jelöli ki külön jogszabályban meghatározott eljárás szerint.
+3. § (1)[^11] Az 1. § e) pontjában meghatározott – az Eht. 188. § 3. pontja szerint az azonosítógazdálkodás körébe eső – azonosítókat a hatóság köti le és jelöli ki az elektronikus hírközlő hálózatok azonosítóival kapcsolatos gazdálkodás rendjéről szóló NMHH rendeletben meghatározott eljárás szerint.
 
-(2)[^11]
+(2)[^12]
 
 (3) Az azonosítók kijelölési engedély nélkül, valamint a kijelölési engedélyben meghatározottaktól eltérő módon nem használhatók.
 
@@ -12,4 +12,5 @@
 
 (7) Az elektronikus hírközlő hálózatokban alkalmazott jelzéspont kódok felosztási tervét e rendelet 4. melléklete tartalmazza.
 
-[^11]: A 3. § (2) bekezdését az 1/2012. (I. 3.) NMHH rendelet 10. §-a hatályon kívül helyezte.
+[^11]: A 3. § (1) bekezdése az 1/2016. (I. 15.) NMHH rendelet 8. §-ával megállapított szöveg.
+[^12]: A 3. § (2) bekezdését az 1/2012. (I. 3.) NMHH rendelet 10. §-a hatályon kívül helyezte.
