@@ -20,23 +20,45 @@
 
 ## Az előfizetői szolgáltatást tartalmazó számmezők használati jogát a hatóság a 12. § (2) bekezdésben foglalt esetben számmező átadás hatósági eljárás keretében hivatalból átadja, vagy kérelemre induló eljárásban átadhatja.
 
-## A kijelölési engedély jogosultja jogosult a számára kijelölt számmezőből – a hordozott számok kivételével – előfizetői számot meghatározni, és a szám használatára az előfizetőt az előfizetői szerződés keretében feljogosítani.
+## A kijelölési engedély jogosultja jogosult a számára kijelölt számmezőből – a hordozott számok kivételével – előfizetői számot meghatározni, és a szám használatára – az adott földrajzi területen előfizetői hozzáférési ponttal ténylegesen rendelkező előfizetőt az előfizetői szerződés keretében feljogosítani.
 
-## 1.2. Mobil számok (SHS = 20, 30, 31, 50, 60, 70)
+## 1.2. Mobil számok (SHS = 20, 30, 31, 50, 70)
 
 ## 1.2.1. A gazdálkodás rendje
 
 ## A mobil számokat a hatóság 1000-es számmezőkben köti le, jelöli ki és vonja vissza.
 
-## 1.2.2. Számmező használat
+## 1.2.2. A mobil számozási tartományok felosztása
 
-## Mobil számmező köthető le és jelölhető ki azon szolgáltató számára, amelyet mobil rádiótelefon-szolgáltatás vagy mobil internet hozzáférési (elérési) szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## Az SHS = 20, 30 és 70 számozási tartomány, valamint az SHS = 50 számozási tartomány 1. táblázatban meghatározott résztartományai hatósági szerződés keretében a táblázatban szereplő mobil rádiótelefon szolgáltatókhoz vannak rendelve.
 
-## Az 50-es és a 60-as szolgáltatás- vagy hálózatkijelölő számok számozási tartományában előfizetői számmezők olyan, a hatóság által ezen rendelet hatálybalépését követően mobil rádiótelefon-szolgáltatás nyújtására bejegyzett szolgáltatók kérelmére köthetők le és jelölhetők ki, amelyek jogerős frekvenciahasználati engedéllyel rendelkeznek.
+## 1. táblázat
 
-## A hatóság a frekvenciahasználati engedéllyel rendelkező mobil rádiótelefon-szolgáltatók részére a hálózatukhoz eredetileg hozzárendelt SHS-hez tartozó előfizetői számmezőket köti le és jelöli ki. Amennyiben az adott számozási tartományban nincs kijelölhető számmező, a szolgáltató részére a 31-es SHS számozási tartományból jelölhető ki számmező.
+|  |  | A | B |
 
-## Frekvenciahasználati engedéllyel nem rendelkező mobil szolgáltatónak számmező köthető le és jelölhető ki – legalább egy frekvenciahasználati engedéllyel rendelkező szolgáltató hozzájárulásával – az SHS=31 számozási tartományból, valamint a – tartományhoz hozzárendelt frekvenciahasználati engedéllyel rendelkező szolgáltató hozzájárulásával – az SHS= 20, 30, 50, 60 és 70 számozási tartományból.
+|  | 1 | SZÁMOZÁSI TARTOMÁNY VAGY RÉSZTARTOMÁNY | SZOLGÁLTATÓ |
+
+|  | 2 | 20 abc defg | Telenor Magyarország Zrt. |
+
+|  | 3 | 30 abc defg | Magyar Telekom Nyrt. |
+
+|  | 4 | 50 1bc defg és 50 2bc defg | DIGI Kft. |
+
+|  | 5 | 50 9bc defg és 50 8bc defg | MVM NET Zrt. |
+
+|  | 6 | 70 abc defg | Vodafone Magyarország Zrt. |
+
+## Az SHS = 31 számozási tartomány nincsen mobil rádiótelefon szolgáltatóhoz rendelve.
+
+## 1.2.3. Számmező használat
+
+## Mobil számmező köthető le és jelölhető ki azon szolgáltató számára, amelyet mobil rádiótelefon szolgáltatás vagy mobil internet hozzáférési (elérési) szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+
+## A hatóság az 1.2.2. pontban felsorolt valamely mobil rádiótelefon szolgáltató részére az adott szolgáltatóhoz hozzárendelt számozási tartományhoz vagy résztartományhoz tartozó előfizetői számmezőket köti le és jelöli ki. Amennyiben az SHS = 20, 30 és 70 számozási tartományban nincs kijelölhető számmező, a szolgáltató részére az SHS = 31 számozási tartományból jelölhető ki számmező.
+
+## Az 1.2.2. pontban fel nem sorolt mobil szolgáltatónak számmező abban az esetben köthető le és jelölhető ki, ha a kérelmező benyújtja legalább egy, az 1.2.2. pontban felsorolt és mobil rádiótelefon szolgáltatást nyújtó szolgáltató nyilatkozatát a szolgáltatás nyújtásához szükséges hálózati együttműködésről.
+
+## Az SHS = 20, 30, 50 és 70 számozási tartományhoz tartozó számmező lekötéshez és kijelöléshez a tartományhoz vagy résztartományhoz hozzárendelt, és mobil rádiótelefon szolgáltatást nyújtó szolgáltatónak a számok használatára vonatkozó hozzájárulása is szükséges. Az SHS = 31 számozási tartományban a számok használatához hozzájárulás nem szükséges.
 
 ## Kijelölt számmezőre a hatóságtól számmező átadás a 13. §-ban foglalt esetekben akkor kérhető, ha a fenti feltételek a számmező átadás után is teljesülnek.
 
@@ -84,9 +106,13 @@
 
 ## 1.6.2. Számmező használat
 
-## Üzleti hálózati számmező azon szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett, valamint azon vállalkozás számára, amelyet a Kormány GSM-R rendszer működtetésére és a szolgáltatás nyújtására kijelölt.
+## Üzleti hálózat részére – a GSM-R rendszer üzleti hálózata kivételével – számmező azon szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-## A kijelölési engedély jogosultja – a GSM-R rendszer részére kijelölt számok kivételével – az adott üzleti hálózat eléréséhez kijelölt számmezőkben szereplő számok használatára az üzleti hálózat üzemeltetőjét számhasználati jogviszony keretében jogosíthatja fel.
+## A szolgáltató kérelmében meghatározott üzleti hálózathoz a számok kijelölhetőségét a hatóság állapítja meg. A hatóság a számmező kijelölési határozatában a számhasználati feltételeket a kérelemben meghatározott hálózati alkalmazásra vonatkozóan állapítja meg.
+
+## A kijelölési engedély jogosultja az adott üzleti hálózat eléréséhez kijelölt számmezőkben szereplő számok használatára az üzleti hálózat üzemeltetőjét számhasználati jogviszony keretében jogosíthatja fel.
+
+## A GSM-R rendszer üzleti hálózata részére fenntartott résztartományban számmező azon vállalkozás számára jelölhető ki, amelyet a Kormány a GSM-R rendszer üzleti hálózata működtetésére és a szolgáltatás nyújtására kijelölt.
 
 ## 1.7. Gépek közötti kommunikáció (M2M) számai (SHS = 71)
 
@@ -186,6 +212,6 @@
 
 ## Egy emelt díjas rövid szám több szolgáltatónak is kijelölhető, ha a rövid számon emelt díjas szolgáltatást nyújtó számhasználó a kijelölési engedélyben meghatározott szolgáltatás nyújtására több elektronikus hírközlési szolgáltatóval számhasználati jogviszonyt létesít.
 
-2. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^68]
+2. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^71]
 
-[^68]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdése szerint módosított szöveg.
+[^71]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdése szerint módosított szöveg.
