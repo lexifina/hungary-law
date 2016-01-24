@@ -1,1 +1,0 @@
-## „(15a) Ha a tanuló a középiskola elvégzését követő érettségi vizsgaidőszakban az írásbeli érettségi vizsgaidőszak kezdetéig nem rendelkezik az Nkt. 6. § (4) bekezdésében a közösségi szolgálat teljesítésére meghatározott feltétellel, érettségi vizsgáit nem kezdheti meg, az adott vizsgaidőszakra vonatkozó összes érettségi jelentkezését az igazgató törli.”
