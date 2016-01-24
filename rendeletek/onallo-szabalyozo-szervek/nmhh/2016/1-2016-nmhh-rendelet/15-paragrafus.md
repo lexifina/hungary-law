@@ -1,1 +1,0 @@
-## „(2a) A hatóság kezdeményezi az (1) bekezdés szerinti kijelölési engedélyek visszavonását abban az esetben is, ha a szolgáltató a KRA rendszerrel való kapcsolattartásban nem biztosítja a tranzakciók végrehajtásának feltételeit.”
