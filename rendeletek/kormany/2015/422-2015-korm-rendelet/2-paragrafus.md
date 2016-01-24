@@ -1,5 +1,0 @@
-## 1. § Az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet (a továbbiakban: Vhr.) 11. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
-
-## „(3a) Az útdíjszolgáltató az útdíjszedő egyidejű tájékoztatása mellett felveszi a (2) bekezdés szerinti nyilvántartásba a fedélzeti eszközt, amennyiben az útdíj előre történő megfizetésére köteles szerződött díjfizetőnek nem áll rendelkezésére az úthasználattal érintett útdíjköteles elemi útszakasz vonatkozásában előre feltöltött egyenleg az útdíjszolgáltatónál.
-
-## (3b) Az útdíszolgáltató az útdíjszedő egyidejű tájékoztatása mellett törli a (2) bekezdés szerinti nyilvántartásból az oda a (3a) bekezdés alapján felvett fedélzeti eszközt, amennyiben a díjfizetésre kötelezett egyenlege feltöltésre kerül olyan módon, hogy az úthasználattal érintett útdíjköteles úthasználat vonatkozásában az útdíj megfizetése biztosított, és az útdíj megfizetésre is kerül.”

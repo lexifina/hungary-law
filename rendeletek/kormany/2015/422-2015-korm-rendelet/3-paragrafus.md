@@ -1,5 +1,0 @@
-## 2. § A Vhr. 23. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-## „(1a) Amennyiben az (1) bekezdés szerinti szolgáltatást az útdíjszolgáltató nem utólagos fizetés keretében nyújtja, az (1b) bekezdésben foglalt kivétellel az úthasználati jogosultság az útdíjnak az úthasználat megkezdését megelőző megfizetésével állhat fenn.
-
-## (1b) Amennyiben az útdíjköteles gépjármű vonatkozásában az úthasználati jogosultság keletkezéséhez szükséges kötelezettséget a díjfizetésre kötelezett a vele szerződésben álló bevallási közreműködő útján teljesíti, az útdíj mértékének megállapításához szükséges adatokat a bevallási közreműködő az útdíjszolgáltatóval kötött szerződésben meghatározott határidőn belül nyújtja be. Úthasználati jogosultság ezen a módon akkor keletkezik, ha a bevallási közreműködő által benyújtott adatszolgáltatás útdíjszolgáltatóhoz történő teljesítése időpontjában az adatszolgáltatás felhasználásával megállapított bevallás alapján megállapított útdíj megfizetése a szerződés szerint biztosított.”
