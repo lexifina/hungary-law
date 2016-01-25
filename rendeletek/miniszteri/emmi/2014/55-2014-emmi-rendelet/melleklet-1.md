@@ -234,8 +234,12 @@ tartalmazhat.
 
 | 47. | 25I-NBF | 2-(4-iodo-2,5-dimethoxyphenyl)– N-[(2-fluorophenyl)methyl]ethanamine |
 
+| 48. | Mexedrone, 4-MMC-oMe, ’MEX’ | 3-methoxy-2-(methylamino)-1-(4- methylphenyl)propan-1-one |
+
+| 49. | TH-PVP | 2-(pyrrolidin-1-yl)-1-(5,6,7,8- tetrahydronaphthalen-2-yl)pentan-1-one |
+
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
-[^1]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a szerint módosított szöveg.
