@@ -1,0 +1,1 @@
+5/D. § Az árubemutatóval egybekötött termékértékesítést végző kereskedő az értékesítés helyszínéről való visszaszállítást – különösen a személyi kör és a díjazás tekintetében – ugyanolyan feltételekkel, ugyanarra a helyszínre köteles biztosítani, mint az árubemutató, illetve termékértékesítés helyszínére való szállítást.

@@ -2,7 +2,7 @@
 
 9. § (1) A kereskedelmi tevékenységre, a kereskedelmet kiszolgáló szolgáltató tevékenységekre, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységekre vonatkozó jogszabályi és hatósági előírások megtartását a kereskedelmi hatóság ellenőrzi, és – a (2) és a (3) bekezdésben foglalt kivétellel, továbbá törvény vagy kormányrendelet eltérő rendelkezése hiányában – eljár ezek megsértése esetén.
 
-(2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+(2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, az 5/C. §-ban, a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
 (3) A jelentős piaci erővel rendelkező kereskedő felett a 7. § szerinti visszaéléssel kapcsolatos felügyeletet a Gazdasági Versenyhivatal a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvényben (a továbbiakban: Tpvt.) foglalt eljárási szabályok alkalmazásával végzi oly módon, hogy eljárásaiban a Tpvt. 21. §-ának megsértése esetén irányadó rendelkezéseket alkalmazza.
 
