@@ -1,6 +1,6 @@
-## 14. §[^10] Az e rendelet alapján 2014. július 1. és az 1. mellékletnek az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (X. 27.) EMMI rendelettel (a továbbiakban: Módr.) történő módosítása hatálybalépésének időpontja között kiállított várandósgondozási könyvvel rendelkező várandósok esetében is alkalmazni kell az 1. melléklet Módr. által megállapított rendelkezéseit.
+## 14. §[^11] Az e rendelet alapján 2014. július 1. és az 1. mellékletnek az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (X. 27.) EMMI rendelettel (a továbbiakban: Módr.) történő módosítása hatálybalépésének időpontja között kiállított várandósgondozási könyvvel rendelkező várandósok esetében is alkalmazni kell az 1. melléklet Módr. által megállapított rendelkezéseit.
 
-1. melléklet a 26/2014. (IV. 8.) EMMI rendelethez[^11]
+1. melléklet a 26/2014. (IV. 8.) EMMI rendelethez[^12]
 
 ## A várandós anya gondozási könyve
 
@@ -14,7 +14,7 @@
 
 1.4. a várandósgondozást végző védőnő neve, elérhetősége, tanácsadási ideje
 
-1.5. a választott vagy a területi ellátási kötelezettséget vállalt házi gyermekorvos neve, elérhetősége
+1.5. a választani tervezett és a területi ellátási kötelezettséget vállalt házi gyermekorvos neve, elérhetősége
 
 1.6. a gondozásba vételkor rögzített rizikó-besorolás és a várandóssági hét (gesztációs hét)
 
@@ -30,7 +30,7 @@
 
 1.12. szakellátásba utalás ideje, indoka
 
-1.13. egyéb igazolások, megállapítások, csatolt leletek
+1.13. egyéb igazolások, megállapítások
 
 2. Beutaló térítésmentes, kötelező vizsgálatokra
 
@@ -56,7 +56,7 @@ Naplószám: ……………
 
 | 1. A várandósság első harmadában végzendő vizsgálatok |  |
 
-| vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejt szám, vérlemezke szám), Se kreatinin, KN, eGFR, SGOT, SGPT, SeBi |  |  |  |
+| vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejt szám, vérlemezke szám), Se kreatinin, KN, eGFR, SGOT, SGPT, SeBi; vércukor |  |  |  |
 
 | vizelet (fehérje, genny, cukor, aceton, UBG, üledék) |  |  |
 
@@ -74,7 +74,7 @@ Naplószám: ……………
 
 | 2. A várandósság második harmadában végzendő vizsgálatok |  |
 
-| ultrahang szűrővizsgálat | 18-20. hét |  |  |
+| ultrahang szűrővizsgálat | 18–22. hét |  |  |
 
 | terheléses vércukor vizsgálat (éhomi és 75 g glukóz fogyasztás után 120 perccel) | 24-28. hét |  |  |
 
@@ -100,5 +100,5 @@ PH.
 
 háziorvos aláírása
 
-[^10]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 44/2014. (X. 27.) EMMI rendelet 10. §-a iktatta be.
-[^11]: Az 1. melléklet a 7/2015. (II. 2.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^11]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 44/2014. (X. 27.) EMMI rendelet 10. §-a iktatta be.
+[^12]: Az 1. melléklet a 7/2015. (II. 2.) EMMI rendelet 18. §-ával megállapított, a 3/2016. (I. 22.) EMMI rendelet 3. §-a szerint módosított szöveg.
