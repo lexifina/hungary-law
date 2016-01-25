@@ -1,0 +1,1 @@
+## 2. § A várandósgondozásról szóló 26/2014. (IV. 8.) EMMI rendelet (a továbbiakban: R2.) 5. § (1) bekezdésében az „Az 1. § (2) bekezdése szerinti igazolás kiadását követően” szövegrész helyébe az „A méhen belüli várandósság megállapításáról szóló igazolás benyújtásával egyidejűleg” szöveg lép.
