@@ -1,1 +1,0 @@
-## 16. § A Hatóság érvényteleníti annak a vizsgázónak a vizsgáját, aki a hatósági vizsgát a Hatóság félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Amennyiben a tanúsítványt a Hatóság már kiadta, úgy intézkedik annak visszavonásáról.
