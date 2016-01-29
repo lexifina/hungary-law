@@ -1,1 +1,0 @@
-A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 235. § b) pontjában foglalt felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § g) pontjában foglalt feladatkörömben a következőket rendelem el:
