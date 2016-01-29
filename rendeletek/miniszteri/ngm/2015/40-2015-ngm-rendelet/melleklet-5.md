@@ -1,0 +1,1 @@
+5. melléklet a 40/2015. (XII. 30.) NGM rendelethez
