@@ -1,1 +1,0 @@
-A bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 50/A. § (3) bekezdésében és az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. § (2) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
