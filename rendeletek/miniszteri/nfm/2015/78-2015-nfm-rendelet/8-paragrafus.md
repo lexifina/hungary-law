@@ -8,9 +8,8 @@
 
 (3) A 6. § (5) és (6) bekezdése 2017. január 1-jén lép hatályba.
 
-(4)[^3]
+(4)[^2]
 
-(5)[^4]
+(5) Hatályát veszti a GKM rendelet.
 
-[^3]: A 8. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 8. § (5) bekezdése a 8. § (2) bekezdése alapján 2016. január 30-án lép hatályba.
+[^2]: A 8. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

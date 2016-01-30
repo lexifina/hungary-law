@@ -14,6 +14,6 @@ b) a földgáztárolói, -szállítói és elosztói, PB-gáz forgalmazói enged
 
 (4) Az MBFH a befizetett felügyeleti díjról számviteli bizonylatot bocsát ki.
 
-(5)–(6)[^2]
+(5)–(6)[^1]
 
-[^2]: A 6. § (5)–(6) bekezdése a 8. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^1]: A 6. § (5)–(6) bekezdése a 8. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
