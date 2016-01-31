@@ -10,6 +10,7 @@
 
 (4)[^2]
 
-(5) Hatályát veszti a GKM rendelet.
+(5)[^3]
 
 [^2]: A 8. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
