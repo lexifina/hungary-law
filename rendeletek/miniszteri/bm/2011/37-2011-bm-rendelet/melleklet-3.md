@@ -118,670 +118,578 @@
 
 ## * Azon munkakörök, melyek nem tartoznak a büntetés-végrehajtási szervnél rendszeresített hivatásos szolgálati beosztásokat és az azok betöltéséhez szükséges képesítési követelményeket meghatározó miniszteri rendeletben meghatározott szolgálati tevékenységek közé.
 
-3. melléklet a 37/2011. (X. 28.) BM rendelethez[^14]
+3. melléklet a 37/2011. (X. 28.) BM rendelethez[^16]
 
 A betölthető munkakörök és beosztások, az azokhoz tartozó fizetési osztályok, a közalkalmazotti munkakörök osztályba sorolása, megnevezése, továbbá a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési többletkövetelmények a vízügyi igazgatási szerveknél
 
+|  | A | B | C | D | E | F | G | H | I | J | K | L |
+
 | 1. | A magasabb vezetői beosztás, vezetői beosztás, munkakörök megnevezése | Fizetési osztályok |  |
 
-| 2. |  | A | B | C | D | E | F | G | H | I | J | vezetői pótlék |
+| 2. |  | A | B | C | D | E | F | G | H | I | J | vezetői pótlék %-os mértéke |
 
-| 3. | magasabb vezető beosztások |  |  |  |  |  |  |  |  |  |  |  |
+| 3. | magasabb vezetői beosztások |
 
 | 4. | Főigazgató |  |  |  |  |  | * | * | * | * | * | 300% |
 
 | 5. | Gazdasági főigazgató-helyettes |  |  |  |  |  | * | * | * | * | * | 300% |
 
-| 6. | Gazdasági igazgató-helyettes |  |  |  |  |  | * | * | * | * | * | 300% |
+| 6. | Műszaki főigazgató-helyettes (főmérnök) |  |  |  |  |  | * | * | * | * | * | 300% |
 
 | 7. | Igazgató |  |  |  |  |  | * | * | * | * | * | 300% |
 
-| 8. | Műszaki főigazgató-helyettes (főmérnök) |  |  |  |  |  | * | * | * | * | * | 300% |
+| 8. | Gazdasági igazgató-helyettes |  |  |  |  |  | * | * | * | * | * | 300% |
 
 | 9. | Műszaki igazgató-helyettes |  |  |  |  |  | * | * | * | * | * | 300% |
 
 | 10. | vezetői beosztások |
 
-| 11. | Csoportvezető |  |  |  |  | * | * | * | * | * |  | 100% |
+| 11. | Főosztályvezető |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| 12. | Főosztályvezető |  |  |  |  |  | * | * | * | * | * | 200% |
+| 12. | Főosztályvezető-helyettes |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| 13. | Főosztályvezető-helyettes |  |  |  |  |  | * | * | * | * | * | 200% |
+| 13. | Laborvezető |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| 14. | Kirendeltségvezető |  |  |  |  |  | * | * | * | * | * | 100% |
+| 14. | Osztályvezető |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| 15. | Laborvezető |  |  |  |  |  | * | * | * | * | * | 200% |
+| 15. | Osztályvezető-helyettes |  |  |  |  |  | * | * | * | * |  | 100% |
 
-| 16. | Osztályvezető |  |  |  |  |  | * | * | * | * | * | 200% |
+| 16. | Szakaszmérnökség-vezető |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| 17. | Osztályvezető-helyettes |  |  |  |  |  | * | * | * | * |  | 100% |
+| 17. | Szakaszmérnökség-vezetőhelyettes |  |  |  |  |  | * | * | * | * | * | 100% |
 
-| 18. | Szakaszmérnökség-vezető |  |  |  |  |  | * | * | * | * | * | 200% |
+| 18. | Hivatalvezető |  |  |  |  |  |  |  | * | * | * | 200% |
 
-| 19. | Szakaszmérnökség- vezetőhelyettes |  |  |  |  |  | * | * | * | * | * | 100% |
+| 19. | Csoportvezető |  |  |  |  | * | * | * | * | * |  | 100% |
 
 | 20. | Szolgálatvezető |  |  |  |  |  | * | * | * | * | * | 200% |
 
 | 21. | Szolgálatvezető-helyettes |  |  |  |  |  | * | * | * | * | * | 100% |
 
-| 22. | Üzemvezető |  |  |  |  |  | * | * | * | * | * | 100% |
+| 22. | Múzeumvezető |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| 23. | munkakörök |  |  |  |  |  |  |  |  |  |  |  |
+| 23. | Levéltárvezető |  |  |  |  |  | * | * | * | * | * | 200% |
 
-| 24. | Pályáztatásra nem kötelezett munkakörök |  |  |  |  |  |  |  |  |  |  | többlet képesítés |
+| 24. | munkakörök |  |  |  |  |  |  |  |  |  |  |  |
 
-| 25. | Adatbázis-felelős |  |  |  | * | * | * | * | * |  |  |  |
+| 25. | Pályáztatásra nem kötelezett munkakörök | többlet képesítés |
 
-| 26. | Adatrögzítő |  | * | * | * |  |  |  |  |  |  |  |
+| 26. | Adatbázis-felelős |  |  | * | * | * |  |  |  |  |  |  |
 
-| 27. | Adatrögzítő-kezelő |  |  | * | * |  |  |  |  |  |  |  |
+| 27. | Adatbázis felelős referens |  |  |  |  |  | * | * | * | * |  |  |
 
-| 28. | Adattári rendszerfelelős |  |  |  |  | * | * | * | * |  |  |  |
+| 28. | Adatrögzítő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 29. | Adminisztrátor |  |  | * | * | * |  |  |  |  |  |  |
+| 29. | Adattári rendszerfelelős |  |  |  |  | * | * | * | * |  |  |  |
 
-| 30. | Anyagbeszerző |  | * | * | * |  |  |  |  |  |  |  |
+| 30. | Adminisztrátor |  |  | * | * | * |  |  |  |  |  |  |
 
-| 31. | Anyag-fogyóeszköz-gazdálkodó |  |  | * | * |  |  |  |  |  |  |  |
+| 31. | Anyagbeszerző |  | * | * | * |  |  |  |  |  |  |  |
 
-| 32. | Anyagkiadó |  | * | * | * | * |  |  |  |  |  |  |
+| 32. | Anyag-fogyóeszköz-gazdálkodó |  |  | * | * |  |  |  |  |  |  |  |
 
-| 33. | Anyagkönyvelő |  |  | * | * |  |  |  |  |  |  |  |
+| 33. | Anyagkönyvelő |  |  | * | * | * |  |  |  |  |  |  |
 
-| 34. | Anyagmozgató | * | * | * |  |  |  |  |  |  |  |  |
+| 34. | Árszakértő |  |  |  |  | * | * | * |  |  |  |  |
 
-| 35. | Árszakértő |  |  |  |  | * | * | * |  |  |  |  |
+| 35. | Árvízvédelmi referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 36. | Árvízvédelmi referens |  |  |  |  |  | * | * | * | * | * |  |
+| 36. | Árvízvédelmi ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 37. | Árvízvédelmi ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
+| 37. | Asztalos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 38. | Asztalos |  | * | * | * |  |  |  |  |  |  |  |
+| 38. | Autószerelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 39. | Autóbuszvezető |  | * | * | * |  |  |  |  |  |  |  |
+| 39. | Belső ellenőr |  |  |  |  |  | * | * | * | * |  |  |
 
-| 40. | Autószerelő |  | * | * | * |  |  |  |  |  |  |  |
+| 40. | Belvízvédelmi referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 41. | Belső ellenőr |  |  |  |  |  | * | * | * | * |  |  |
+| 41. | Belvízvédelmi ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
 
-| 42. | Belvízvédelmi referens |  |  |  |  |  | * | * | * | * | * |  |
+| 42. | Bér és TB referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 43. | Belvízvédelmi ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
+| 43. | Bér és TB ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 44. | Bér és TB referens |  |  |  |  |  | * | * | * | * | * |  |
+| 44. | Bérelszámoló |  |  | * | * | * | * |  |  |  |  |  |
 
-| 45. | Bér és TB ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
+| 45. | Beruházási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 46. | Bérelszámoló |  |  | * | * | * | * |  |  |  |  |  |
+| 46. | Beruházási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 47. | Beruházási ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
+| 47. | Beruházó mérnök |  |  |  |  |  | * | * | * | * |  |  |
 
-| 48. | Beruházó mérnök |  |  |  |  |  | * | * | * | * |  |  |
+| 48. | Betanított munkás | * | * |  |  |  |  |  |  |  |  |  |
 
-| 49. | Betanított munkás | * | * |  |  |  |  |  |  |  |  |  |
+| 49. | Biológus |  |  |  |  |  | * | * | * | * | * |  |
 
-| 50. | Biológus |  |  |  |  |  | * | * | * | * |  |  |
+| 50. | Csatornabiztos |  | * | * | * | * |  |  |  |  |  |  |
 
 | 51. | Csatornaőr |  | * | * | * | * |  |  |  |  |  |  |
 
-| 52. | Duzzasztó gépész |  | * | * | * |  |  |  |  |  |  |  |
+| 52. | Duzzasztó gépész |  | * | * | * | * |  |  |  |  |  |  |
 
 | 53. | Duzzasztó gépkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
 | 54. | Duzzasztó karbantartó |  | * | * | * |  |  |  |  |  |  |  |
 
-| 55. | Éjjeliőr, telepőr | * | * |  |  |  |  |  |  |  |  |  |
+| 55. | Éjjeliőr, telepőr | * | * | * |  |  |  |  |  |  |  |  |
 
-| 56. | Elemző közgazdász |  |  |  |  |  |  |  | * | * |  |  |
+| 56. | Elemző közgazdász |  |  |  |  |  | * | * | * | * |  |  |
 
-| 57. | Emelőgép ügyintéző |  |  | * | * | * | * | * |  |  |  |  |
+| 57. | Elektrikus |  |  |  |  | * | * | * | * | * | * |  |
 
-| 58. | Energetikus, energetikai ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 58. | Energetikus, energetikai ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
 
 | 59. | Építésvezető |  |  |  |  | * | * | * | * | * |  |  |
 
-| 60. | Erdészeti ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
+| 60. | Erdészeti ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 61. | Erdőőr | * | * | * | * |  |  |  |  |  |  |  |
+| 61. | Erdészeti referens |  |  |  |  |  | * | * | * | * | * |  |
 
 | 62. | Esztergályos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 63. | EU integrációs ügyintéző |  |  |  |  | * | * | * | * | * |  | középfokú nyelvvizsga |
+| 63. | Felszínalatti vízgazdálkodási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 64. | EU projekt ügyintéző |  |  |  |  | * | * | * | * | * |  | középfokú nyelvvizsga |
+| 64. | Felszínalatti vízgazdálkodási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 65. | Fedélzetmester |  |  | * | * |  |  |  |  |  |  |  |
+| 65. | Felszíni vízgazdálkodási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 66. | Felszínalatti vízgazdálkodási ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
+| 66. | Felszíni vízgazdálkodási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 67. | Felszíni vízgazdálkodási ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
+| 67. | Felügyelőségi technikus |  |  |  | * | * | * | * |  |  |  |  |
 
-| 68. | Felügyelőségi technikus |  |  |  | * | * | * |  |  |  |  |  |
+| 68. | Fenntartó munkás | * | * | * |  |  |  |  |  |  |  |  |
 
-| 69. | Fenntartó munkás | * | * | * |  |  |  |  |  |  |  |  |
+| 69. | Fenntartó-gépkezelő |  | * | * |  |  |  |  |  |  |  |  |
 
-| 70. | Fenntartógép-kezelő |  | * | * |  |  |  |  |  |  |  |  |
+| 70. | Folyami felmérő |  | * | * | * | * | * |  |  |  |  |  |
 
-| 71. | Folyamatszervező-programozó |  |  |  |  | * | * | * | * |  |  |  |
+| 71. | Folyamszabályozási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 72. | Folyamfelvigyázó |  | * | * | * | * |  |  |  |  |  |  |
+| 72. | Folyamszabályozási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 73. | Folyami felmérő |  | * | * | * | * | * | * | * |  |  |  |
+| 73. | Folyószabályozási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 74. | Folyamszabályozási ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
+| 74. | Folyószabályozási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 75. | Folyó és tógazdálkodási referens |  |  |  |  |  | * | * | * | * | * |  |
+| 75. | Folyógazdálkodási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 76. | Folyó és tógazdálkodási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
+| 76. | Folyógazdálkodási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 77. | Forgácsoló |  | * | * | * |  |  |  |  |  |  |  |
+| 77. | Főenergetikus |  |  |  |  | * | * | * | * |  |  |  |
 
-| 78. | Főenergetikus |  |  |  |  | * | * | * |  |  |  |  |
+| 78. | Fűtő | * | * | * |  |  |  |  |  |  |  |  |
 
-| 79. | Fűtő | * | * | * |  |  |  |  |  |  |  |  |
+| 79. | Gazdasági referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 80. | Gazdasági referens |  |  |  |  |  | * | * | * | * | * |  |
+| 80. | Gazdasági ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 81. | Gazdasági ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
+| 81. | Gát és meder segédfelvigyázó | * | * | * |  |  |  |  |  |  |  |  |
 
-| 82. | Gát és meder segédfelvigyázó | * | * | * |  |  |  |  |  |  |  |  |
+| 82. | Gát- és mederfelvigyázó | * | * | * | * |  |  |  |  |  |  |  |
 
-| 83. | Gát- és mederfelvigyázó |  | * | * | * |  |  |  |  |  |  |  |
+| 83. | Gátbiztos |  | * | * | * | * |  |  |  |  |  |  |
 
-| 84. | Gátbiztos |  | * | * | * |  |  |  |  |  |  |  |
+| 84. | Gátfelügyelő |  |  | * | * | * | * |  |  |  |  |  |
 
-| 85. | Gátfelügyelő |  |  | * | * | * | * | * |  |  |  |  |
+| 85. | Gát- és csatornaőr |  | * | * | * | * |  |  |  |  |  |  |
 
-| 86. | Gát- és csatornaőr |  | * | * | * | * |  |  |  |  |  |  |
+| 86. | Gátőr |  | * | * | * | * |  |  |  |  |  |  |
 
-| 87. | Gátőr |  | * | * | * |  |  |  |  |  |  |  |
+| 87. | Geodéta |  |  |  | * | * | * | * | * | * |  |  |
 
-| 88. | Geodéta |  |  |  | * | * | * | * | * | * |  |  |
+| 88. | Geológus |  |  |  | * | * | * | * | * | * |  |  |
 
-| 89. | Geológus |  |  |  | * | * | * | * | * | * |  |  |
+| 89. | Gépészeti referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 90. | Gépészeti ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 90. | Gépészeti ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 91. | Gépészeti vezető |  |  |  |  |  | * | * | * | * |  |  |
+| 91. | Gépészeti vezető |  |  |  |  |  | * | * | * | * | * |  |
 
-| 92. | Gépíró |  | * | * |  |  |  |  |  |  |  |  |
+| 92. | Gépjármű ügyintéző |  |  | * | * | * | * |  |  |  |  |  |
 
-| 93. | Gépjármű ügyintéző |  |  | * | * | * |  |  |  |  |  |  |
+| 93. | Gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
 
-| 94. | Gépjárművezető |  | * | * | * |  |  |  |  |  |  |  |
+| 94. | Gépkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 95. | Gépkezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 95. | Gépszerelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 96. | Gépszerelő |  | * | * | * |  |  |  |  |  |  |  |
+| 96. | Géptiszt (hajós) |  |  |  | * | * |  |  |  |  |  |  |
 
-| 97. | Géptiszt (hajós) |  |  |  | * | * |  |  |  |  |  |  |
+| 97. | Gépüzemvezető (hajós) |  |  |  | * | * |  |  |  |  |  |  |
 
-| 98. | Gépüzemvezető (hajós) |  |  |  | * | * |  |  |  |  |  |  |
+| 98. | Gondnok |  | * | * | * |  |  |  |  |  |  |  |
 
-| 99. | Gondnok |  | * | * | * | * |  |  |  |  |  |  |
+| 99. | Gondnoksági ügyintéző |  |  | * | * | * | * |  |  |  |  |  |
 
-| 100. | Gondnoksági ügyintéző |  |  | * | * | * | * | * | * |  |  |  |
+| 100. | Gyártástechnológus |  |  |  |  | * | * | * | * |  |  |  |
 
 | 101. | Hajógépkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
 | 102. | Hajógépmester |  | * | * | * |  |  |  |  |  |  |  |
 
-| 103. | Hajós |  |  | * | * |  |  |  |  |  |  |  |
+| 103. | Hajóskapitány |  |  | * | * | * | * | * |  |  |  |  |
 
-| 104. | Hajóskapitány |  |  | * | * | * | * | * | * | * |  |  |
+| 104. | Hajóvezető |  | * | * | * | * | * |  |  |  |  |  |
 
-| 105. | Hajóvezető |  | * | * | * | * | * | * | * |  |  |  |
+| 105. | Hajózási felelős |  |  |  | * | * | * | * |  |  |  |  |
 
-| 106. | Hajózási felelős |  |  |  | * | * | * | * | * |  |  |  |
+| 106. | Hegesztő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 107. | Hajózási felügyelő |  |  |  |  |  | * | * | * |  |  |  |
+| 107. | Hidrobiológus |  |  |  |  |  | * | * | * | * | * |  |
 
-| 108. | Hajózási rádiókezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 108. | Hidrológiai észlelő | * | * | * | * |  |  |  |  |  |  |  |
 
-| 109. | Hajózsilipgépész |  |  | * | * |  |  |  |  |  |  |  |
+| 109. | Hidrológus |  |  |  |  |  | * | * | * | * | * |  |
 
-| 110. | Hálózatszerelő |  | * | * | * |  |  |  |  |  |  |  |
+| 110. | Hírközlési szerelő |  | * | * | * | * |  |  |  |  |  |  |
 
-| 111. | Hegesztő |  | * | * | * |  |  |  |  |  |  |  |
+| 111. | Hírközlési referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 112. | Hidrobiológus |  |  |  |  |  | * | * | * | * | * |  |
+| 112. | Hírközlési ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 113. | Hidrogeológus |  |  |  |  |  |  | * | * | * | * |  |
+| 113. | Hivatalsegéd | * |  |  |  |  |  |  |  |  |  |  |
 
-| 114. | Hidrológiai észlelő | * | * | * |  |  |  |  |  |  |  |  |
+| 114. | Hulladékgazdálkodó |  |  |  |  |  | * | * | * |  |  |  |
 
-| 115. | Hidrológus |  |  |  |  |  | * | * | * | * | * |  |
+| 115. | Humánpolitikai ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 116. | Hidrometeorológiai állomásvezető |  |  |  | * | * | * | * | * | * | * |  |
+| 116. | Humánpolitikai referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 117. | Hidrometeorológiai észlelő |  | * | * | * |  |  |  |  |  |  |  |
+| 117. | Igazgatási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 118. | Hidrometeorológus |  |  |  | * |  | * | * | * | * | * |  |
+| 118. | Igazgatási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 119. | Hírközlési szerelő |  | * | * | * | * | * |  |  |  |  |  |
+| 119. | Iktató |  | * | * | * |  |  |  |  |  |  |  |
 
-| 120. | Hírközlési ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 120. | IT biztonságtechnikai felelős |  |  |  |  |  | * | * | * | * | * |  |
 
-| 121. | Hivatalsegéd | * |  |  |  |  |  |  |  |  |  |  |
+| 121. | Informatikai rendszer-üzemeltető |  |  |  | * | * | * | * | * |  |  |  |
 
-| 122. | Hulladékgazdálkodó |  |  |  |  |  | * | * | * |  |  |  |
+| 122. | Informatikai referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 123. | Humánpolitikai ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 123. | Informatikai ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 124. | Humánpolitikus |  |  |  |  | * | * | * | * | * |  |  |
+| 124. | Informatikus |  |  | * | * | * |  |  |  |  |  |  |
 
-| 125. | Igazgatási ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 125. | Ingatlan-nyilvántartási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 126. | Igazgatósági szóvivő |  |  |  | * | * | * | * | * |  |  |  |
+| 126. | Ingatlanrendezési ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 127. | Iktató |  |  | * | * |  |  |  |  |  |  |  |
+| 127. | Iratkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 128. | Informatikai rendszergazda |  |  |  |  | * | * | * | * |  |  |  |
+| 128. | Irattáros |  | * | * | * |  |  |  |  |  |  |  |
 
-| 129. | Informatikai rendszer-üzemeltető |  |  |  | * | * | * | * | * |  |  |  |
+| 129. | Iratkezelő-kézbesítő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 130. | Informatikai ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 130. | Irodavezető |  |  |  |  | * | * | * | * |  |  |  |
 
-| 131. | Informatikus |  |  |  |  |  | * | * | * | * |  |  |
+| 131. | Jogász |  |  |  |  |  |  |  | * | * |  |  |
 
-| 132. | Ingatlan-hasznosítási ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 132. | Jogi és közbeszerzési referens |  |  |  |  |  |  |  | * | * | * |  |
 
-| 133. | Ingatlan nyilvántartási ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 133. | Jogtanácsos |  |  |  |  |  |  |  |  | * | * | jogi szakvizsga |
 
-| 134. | Ingatlanrendezési ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 134. | Karbantartó |  | * | * | * |  |  |  |  |  |  |  |
 
-| 135. | Iratkezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 135. | Kazánfűtő | * | * | * |  |  |  |  |  |  |  |  |
 
-| 136. | Irattáros |  | * | * | * |  |  |  |  |  |  |  |
+| 136. | Kerületi felügyelő |  |  |  | * | * | * | * | * |  |  |  |
 
-| 137. | Iratkezelő-kézbesítő |  | * | * | * | * |  |  |  |  |  |  |
+| 137. | Kézbesítő | * | * |  |  |  |  |  |  |  |  |  |
 
-| 138. | Irodavezető |  |  |  |  | * | * | * | * |  |  |  |
+| 138. | Kirendeltségvezető |  |  |  |  |  | * | * | * | * | * |  |
 
-| 139. | Jogász |  |  |  |  |  |  |  | * | * |  |  |
+| 139. | Kikötőmester |  |  | * | * | * |  |  |  |  |  |  |
 
-| 140. | Jogi ügyintéző |  |  |  |  |  |  |  | * | * |  |  |
+| 140. | Kishajó-vezető |  |  | * | * | * |  |  |  |  |  |  |
 
-| 141. | Jogi és közbeszerzési vezető referens |  |  |  |  |  | * | * | * | * | * |  |
+| 141. | Kitűzőmester |  |  | * | * | * |  |  |  |  |  |  |
 
-| 142. | Jogtanácsos |  |  |  |  |  |  |  |  | * | * | jogi szakvizsga |
+| 142. | Kommunikációs referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 143. | Kalkulátor, árelemző |  |  |  | * | * |  |  |  |  |  |  |
+| 143. | Kommunikációs ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 144. | Karbantartó |  | * | * | * |  |  |  |  |  |  |  |
+| 144. | Konyhai kisegítő | * |  |  |  |  |  |  |  |  |  |  |
 
-| 145. | Kazánfűtő | * | * | * |  |  |  |  |  |  |  |  |
+| 145. | Kormányos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 146. | Kerületi felügyelő |  |  |  |  |  | * | * | * |  |  |  |
+| 146. | Kotrókezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 147. | Kertész |  | * | * | * |  |  |  |  |  |  |  |
+| 147. | Kőműves | * | * | * | * |  |  |  |  |  |  |  |
 
-| 148. | Készletnyilvántartó |  |  | * | * |  |  |  |  |  |  |  |
+| 148. | Könyvelő |  |  |  | * | * | * | * |  |  |  |  |
 
-| 149. | Kézbesítő | * | * |  |  |  |  |  |  |  |  |  |
+| 149. | Könnyűgépkezelő |  | * | * |  |  |  |  |  |  |  |  |
 
-| 150. | Kirendeltségvezető |  |  |  |  |  | * | * | * | * | * |  |
+| 150. | Környezetvédelmi referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 151. | Kikötőmester |  |  | * | * | * | * |  |  |  |  |  |
+| 151. | Környezetvédelmi ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 152. | Kishajó-vezető |  | * | * | * |  |  |  |  |  |  |  |
+| 152. | Közbeszerzési referens |  |  |  |  |  | * | * | * | * | * | felsőfokú szakirányú képzettség |
 
-| 153. | Kitűzőmester |  |  |  | * |  |  |  |  |  |  |  |
+| 153. | Közbeszerzési ügyintéző |  |  |  | * | * | * |  |  |  |  | középfokú szakirányú képzettség |
 
-| 154. | Kommunikációs referens |  |  |  |  |  | * | * | * | * | * |  |
+| 154. | Közfoglalkoztatási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 155. | Kommunikációs ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
+| 155. | Közfoglalkoztatási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 156. | Konyhai kisegítő | * |  |  |  |  |  |  |  |  |  |  |
+| 156. | Kontroller |  |  |  |  | * | * | * | * | * |  |  |
 
-| 157. | Kormányos |  | * | * | * | * |  |  |  |  |  |  |
+| 157. | Közgazdász |  |  |  |  |  | * | * | * | * |  |  |
 
-| 158. | Kotrókezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 158. | Laboráns |  |  | * | * | * | * | * | * |  |  |  |
 
-| 159. | Költségelemző |  |  | * | * | * |  |  |  |  |  |  |
+| 159. | Laborvezető-helyettes |  |  |  |  |  | * | * | * | * | * |  |
 
-| 160. | Költségnyilvántartó |  |  | * | * |  |  |  |  |  |  |  |
+| 160. | Lakatos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 161. | Kőműves | * | * | * | * |  |  |  |  |  |  |  |
+| 161. | Magasépítési ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 162. | Könnyűgépkezelő |  | * |  |  |  |  |  |  |  |  |  |
+| 162. | Matróz | * | * | * | * |  |  |  |  |  |  |  |
 
-| 163. | Könyvelő |  |  |  | * | * | * | * |  |  |  |  |
+| 163. | Műszaki biztonsági szolgálati munkatárs | * | * | * | * |  |  |  |  |  |  |  |
 
-| 164. | Környezetvédelmi megbízott |  |  |  |  | * | * | * | * |  |  |  |
+| 164. | Műszaki biztonsági szolgálati részlegvezető |  |  |  |  | * | * | * | * | * |  |  |
 
-| 165. | Környezetvédelmi referens |  |  |  |  |  | * | * | * | * | * |  |
+| 165. | Műszaki biztonsági szolgálati ügyintéző |  |  |  |  | * | * | * | * |  |  |  |
 
-| 166. | Környezetvédelmi ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
+| 166. | Mederőr | * | * | * | * | * |  |  |  |  |  |  |
 
-| 167. | Közbeszerzési referens |  |  |  |  |  | * | * | * | * |  |  |
+| 167. | Minőségirányítási szakmai vezető |  |  |  | * | * | * | * | * | * |  |  |
 
-| 168. | Közbeszerzési szakértő |  |  |  |  |  | * | * | * | * |  |  |
+| 168. | Monitoring referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 169. | Közbeszerzési ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
+| 169. | Motorszerelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 170. | Közfoglalkoztatási referens |  |  |  |  |  | * | * | * | * | * |  |
+| 170. | Munkaügyi referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 171. | Közfoglalkoztatási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
+| 171. | Munkaügyi ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 172. | Közgazdász |  |  |  |  |  | * | * | * | * |  |  |
+| 172. | Munkavédelmi ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
 
-| 173. | Laboráns |  |  | * | * | * | * | * | * |  |  |  |
+| 173. | Munkavédelmi vezető |  |  |  |  | * | * | * | * |  |  |  |
 
-| 174. | Laborvezető-helyettes |  |  |  |  |  | * | * | * | * | * |  |
+| 174. | Műszaki referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 175. | Lakatos | * | * | * | * |  |  |  |  |  |  |  |
+| 175. | Műszaki titkár |  |  |  |  |  | * | * | * | * |  |  |
 
-| 176. | Magasépítési ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 176. | Műszaki ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 177. | Matróz | * | * |  |  |  |  |  |  |  |  |  |
+| 177. | Műszakvezető |  |  |  | * | * | * | * | * |  |  |  |
 
-| 178. | Műszaki biztonsági szolgálati munkatárs | * | * | * | * |  |  |  |  |  |  |  |
+| 178. | Műszerész |  | * | * | * |  |  |  |  |  |  |  |
 
-| 179. | Műszaki biztonsági szolgálati részlegvezető |  |  |  | * |  | * | * | * | * |  |  |
+| 179. | Művezető |  |  |  | * | * | * | * | * |  |  |  |
 
-| 180. | Műszaki biztonsági szolgálati ügyintéző |  |  |  |  |  | * | * | * |  |  |  |
+| 180. | Nehézgépkezelő |  | * | * |  |  |  |  |  |  |  |  |
 
-| 181. | Mederőr |  | * | * | * |  |  |  |  |  |  |  |
+| 181. | Nemzetközi koordinátor |  |  |  |  |  | * | * | * | * |  | középfokú nyelvvizsga |
 
-| 182. | Minőségirányítási szakmai vezető |  |  |  | * | * | * | * | * | * |  |  |
+| 182. | Nemzetközi referens |  |  |  |  |  | * | * | * | * | * | középfokú nyelvvizsga |
 
-| 183. | Modellező |  | * | * | * | * | * | * | * | * |  |  |
+| 183. | Nemzetközi ügyintéző |  |  |  | * | * | * |  |  |  |  | középfokú nyelvvizsga |
 
-| 184. | Monitoring referens |  |  |  |  |  | * | * | * | * | * |  |
+| 184. | Oktatási ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
 
-| 185. | Motorszerelő |  | * | * | * | * |  |  |  |  |  |  |
+| 185. | Operátor |  |  | * | * | * | * |  |  |  |  |  |
 
-| 186. | Munkaügyi referens |  |  |  |  |  | * | * | * | * | * |  |
+| 186. | Öntözési referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 187. | Munkaügyi ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
+| 187. | Öntözési ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 188. | Munkavédelmi ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
+| 188. | Pályázati ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 189. | Munkavédelmi vezető |  |  |  | * | * | * | * | * |  |  |  |
+| 189. | Pénztáros |  | * | * | * | * |  |  |  |  |  |  |
 
-| 190. | Műszaki biztonsági szolgálatvezető |  |  |  |  | * | * | * | * | * |  |  |
+| 190. | Pénzügyi referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 191. | Műszaki biztonsági szolgálatvezető helyettes |  |  |  |  | * | * | * | * | * |  |  |
+| 191. | Pénzügyi ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 192. | Műszaki rajzoló |  | * | * | * |  |  |  |  |  |  |  |
+| 192. | Pályázati referens |  |  |  |  |  | * | * | * |  |  |  |
 
-| 193. | Műszaki referens |  |  |  |  |  | * | * | * | * | * |  |
+| 193. | Portás | * | * | * |  |  |  |  |  |  |  |  |
 
-| 194. | Műszaki titkár |  |  |  |  |  | * | * | * | * |  |  |
+| 194. | PR munkatárs (főszerkesztő, szerkesztő, újságíró, manager) |  |  |  | * | * | * | * | * |  |  |  |
 
-| 195. | Műszaki ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 195. | Programozó |  |  |  |  |  | * | * | * | * |  |  |
 
-| 196. | Műszakvezető |  | * | * | * | * | * | * | * |  |  |  |
+| 196. | Projekt referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 197. | Műszerész |  | * | * | * |  |  |  |  |  |  |  |
+| 197. | Projekt ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 198. | Művezető |  |  | * | * | * | * | * | * |  |  |  |
+| 198. | Projektkoordinátor referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 199. | Nehézgépkezelő |  | * | * |  |  |  |  |  |  |  |  |
+| 199. | Projektvezető referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 200. | Nemzetközi koordinátor |  |  |  |  |  | * | * | * | * |  | középfokú nyelvvizsga |
+| 200. | Raktárkezelő, raktáros |  |  | * | * |  |  |  |  |  |  |  |
 
-| 201. | Nemzetközi referens |  |  |  |  |  | * | * | * | * | * | középfokú nyelvvizsga |
+| 201. | Raktárvezető |  |  | * | * | * |  |  |  |  |  |  |
 
-| 202. | Nemzetközi ügyintéző |  |  |  | * | * | * |  |  |  |  | középfokú nyelvvizsga |
+| 202. | Referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 203. | Oktatási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
+| 203. | Rendszergazda |  |  |  | * | * | * | * | * | * |  |  |
 
-| 204. | Operátor |  |  | * | * | * | * |  |  |  |  |  |
+| 204. | Revizor |  |  |  |  |  | * | * | * | * |  |  |
 
-| 205. | Pályázati ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 205. | Főrevizor |  |  |  |  |  | * | * | * | * |  |  |
 
-| 206. | Pénztáros |  | * | * | * |  |  |  |  |  |  |  |
+| 206. | Segédmunkás | * | * | * |  |  |  |  |  |  |  |  |
 
-| 207. | Pénzügyi elemző/tervező |  |  |  |  |  | * | * | * | * |  |  |
+| 207. | Speciális feladatok referense |  |  |  |  | * | * | * | * | * | * |  |
 
-| 208. | Pénzügyi referens |  |  |  |  |  | * | * | * | * | * |  |
+| 208. | Szakaszmérnök-helyettes |  |  |  |  |  | * | * | * | * | * |  |
 
-| 209. | Pénzügyi ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
+| 209. | Szakmai főtanácsadó |  |  |  |  |  |  |  | * | * | * |  |
 
-| 210. | Pénzügyi vezető referens |  |  |  |  |  | * | * | * | * | * |  |
+| 210. | Szakmunkás |  | * | * | * |  |  |  |  |  |  |  |
 
-| 211. | Portás | * | * | * |  |  |  |  |  |  |  |  |
+| 211. | Szállítási ügyintéző |  |  | * | * |  |  |  |  |  |  |  |
 
-| 212. | PR munkatárs (főszerkesztő, szerkesztő, újságíró, manager) |  |  |  | * | * | * | * | * |  |  |  |
+| 212. | Számítógéphálózat-üzemeltető |  |  |  | * | * | * | * | * |  |  | szakirányú középfokú vagy felsőfokú képesítés |
 
-| 213. | Programozó |  |  |  |  |  | * | * | * | * |  |  |
+| 213. | Számlázási ügyintéző |  |  | * | * | * |  |  |  |  |  |  |
 
-| 214. | Projekt irodavezető |  |  |  |  |  | * | * | * | * | * |  |
+| 214. | Számviteli referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 215. | Projekt irodavezető-helyettes |  |  |  |  |  | * | * | * | * | * |  |
+| 215. | Számviteli ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 216. | Projekt referens |  |  |  |  |  | * | * | * | * | * |  |
+| 216. | Szivattyútelep-kezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 217. | Projekt ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
+| 217. | Szivattyútelepi gépkarbantartó |  | * | * | * |  |  |  |  |  |  |  |
 
-| 218. | Projektkoordinátor referens |  |  |  |  |  | * | * | * | * | * |  |
+| 218. | Szivattyútelepi vezető gépész |  |  | * | * | * |  |  |  |  |  |  |
 
-| 219. | Projektvezető referens |  |  |  |  |  | * | * | * | * | * |  |
+| 219. | Szoftverfejlesztő |  |  |  |  |  | * | * | * | * |  |  |
 
-| 220. | Raktári kiadó | * | * | * | * |  |  |  |  |  |  |  |
+| 220. | Szóvivő |  |  |  |  |  | * | * | * | * | * |  |
 
-| 221. | Raktári könyvelő |  |  | * | * |  |  |  |  |  |  |  |
+| 221. | Takarító | * | * |  |  |  |  |  |  |  |  |  |
 
-| 222. | Raktárkezelő, raktáros |  |  | * | * |  |  |  |  |  |  |  |
+| 222. | Tárgyi eszköz-nyilvántartó |  |  | * | * |  |  |  |  |  |  |  |
 
-| 223. | Raktárvezető |  |  | * | * | * |  |  |  |  |  |  |
+| 223. | Tározóőr |  | * | * | * | * |  |  |  |  |  |  |
 
-| 224. | Raktárvezető-helyettes |  |  | * | * | * |  |  |  |  |  |  |
+| 224. | Társulati feladatok referense |  |  |  |  |  | * | * | * | * | * |  |
 
-| 225. | Referens-biológus |  |  |  |  |  | * | * | * | * |  |  |
+| 225. | Társulati ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 226. | Referens-vegyész |  |  |  |  |  | * | * | * | * |  |  |
+| 226. | Technikus |  | * | * | * | * |  |  |  |  |  |  |
 
-| 227. | Rendész, vagyonőr |  | * | * | * | * |  |  |  |  |  |  |
+| 227. | Telefonkezelő | * | * | * | * |  |  |  |  |  |  |  |
 
-| 228. | Rendszergazda |  |  |  | * | * | * | * | * | * |  |  |
+| 228. | Település vízellátási és csatornázási ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
 
-| 229. | Rendszerszervező, rendszertervező |  |  |  |  |  | * | * | * | * |  |  |
+| 229. | Térinformatikus |  |  |  | * | * | * | * | * | * |  |  |
 
-| 230. | Revizor |  |  |  |  |  | * | * | * | * |  |  |
+| 230. | Területi felügyelő |  |  |  |  | * | * | * | * | * |  |  |
 
-| 231. | Segédmunkás | * | * | * |  |  |  |  |  |  |  |  |
+| 231. | Területi ügyintéző |  |  | * | * | * | * |  |  |  |  |  |
 
-| 232. | Segédőr | * | * | * |  |  |  |  |  |  |  |  |
+| 232. | Területrendezési ügyintéző |  |  |  |  |  | * | * | * | * |  |  |
 
-| 233. | Statisztikus |  |  |  | * | * | * | * | * | * |  |  |
+| 233. | Titkárnő |  |  | * | * | * |  |  |  |  |  |  |
 
-| 234. | Szakaszmérnök |  |  |  |  |  | * | * | * | * | * |  |
+| 234. | Titkárságvezető |  |  |  |  | * | * | * | * | * |  |  |
 
-| 235. | Szakaszmérnök-helyettes |  |  |  |  |  | * | * | * | * | * |  |
+| 235. | Tószabályozási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 236. | Szakértő-biológus |  |  |  |  |  | * | * | * | * | * |  |
+| 236. | Tószabályozási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 237. | Szakértő-vegyész |  |  |  |  |  | * | * | * | * | * |  |
+| 237. | Tűzvédelmi ügyintéző |  |  | * | * | * | * |  |  |  |  |  |
 
-| 238. | Szakmunkás |  | * | * | * |  |  |  |  |  |  |  |
+| 238. | Tűzvédelmi vezető |  |  |  | * | * | * | * |  |  |  |  |
 
-| 239. | Szakszolgálat vezető |  |  |  |  |  | * | * | * | * | * |  |
+| 239. | Uszálykormányos |  | * | * | * |  |  |  |  |  |  |  |
 
-| 240. | Szállítási ügyintéző |  |  | * | * |  |  |  |  |  |  |  |
+| 240. | Úszókotrómester |  | * | * | * |  |  |  |  |  |  |  |
 
-| 241. | Számítógéphálózat-üzemeltető |  |  |  | * | * |  |  |  |  |  | szakirányú közép- vagy felsőfokú képesítés |
+| 241. | Ügyintéző |  |  | * | * | * | * |  |  |  |  |  |
 
-| 242. | Számítástechnikai operátor |  |  |  | * | * | * |  |  |  |  |  |
+| 242. | Üzemfenntartási ügyintéző |  |  | * | * | * | * |  |  |  |  |  |
 
-| 243. | Számítástechnikai szervező |  |  |  | * | * | * | * | * |  |  |  |
+| 243. | Üzemvezető |  |  |  |  | * | * | * | * | * | * |  |
 
-| 244. | Számítástechnikai ügyintéző |  |  |  | * | * | * | * | * |  |  |  |
+| 244. | Vadőr, vadász |  | * | * | * | * |  |  |  |  |  |  |
 
-| 245. | Számítógép-üzemeltető |  |  |  | * | * | * | * | * |  |  |  |
+| 245. | Vagyongazdálkodási ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
 
-| 246. | Számlázási ügyintéző |  |  | * | * | * |  |  |  |  |  |  |
+| 246. | Vegyész |  |  |  |  |  | * | * | * | * |  |  |
 
-| 247. | Számviteli elszámoló |  |  | * | * | * |  |  |  |  |  |  |
+| 247. | Vegyésztechnikus |  |  |  | * | * |  |  |  |  |  |  |
 
-| 248. | Számviteli referens |  |  |  |  |  | * | * | * | * | * |  |
+| 248. | Vezető gépkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 249. | Számviteli ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
+| 249. | Vezető jogtanácsos |  |  |  |  |  |  |  |  | * | * | jogi szakvizsga |
 
-| 250. | Szerkesztő-rajzoló |  |  | * |  |  |  |  |  |  |  |  |
+| 250. | Vezető tanácsadó |  |  |  |  |  | * | * | * | * | * |  |
 
-| 251. | Szivattyúkezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 251. | Villanyszerelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 252. | Szivattyútelep- kezelő |  | * | * | * |  |  |  |  |  |  |  |
+| 252. | Vízellátási és csatornázási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 253. | Szivattyútelepi gépkarbantartó |  | * | * | * |  |  |  |  |  |  |  |
+| 253. | Vízellátási és csatornázási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 254. | Szivattyútelepi ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
+| 254. | Vízépítési műtárgyépítő | * |  |  |  |  |  |  |  |  |  |  |
 
-| 255. | Szivattyútelepi vezető gépész |  |  |  | * | * |  |  |  |  |  |  |
+| 255. | Vízépítő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 256. | Szoftverfejlesztő |  |  |  |  |  | * | * | * | * |  |  |
+| 256. | Vízépítő technikus |  |  |  | * | * | * |  |  |  |  |  |
 
-| 257. | Takarító | * | * |  |  |  |  |  |  |  |  |  |
+| 257. | Vízépítő szakmunkás | * | * | * |  |  |  |  |  |  |  |  |
 
-| 258. | Targoncavezető |  | * |  |  |  |  |  |  |  |  |  |
+| 258. | Vízgazdálkodási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 259. | Tárgyi eszköz-nyilvántartó |  |  | * | * |  |  |  |  |  |  |  |
+| 259. | Vízgazdálkodási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 260. | Tározóőr |  | * | * | * |  |  |  |  |  |  |  |
+| 260. | Vízgépészeti technikus |  |  |  | * | * | * |  |  |  |  |  |
 
-| 261. | Társulati feladatok referense |  |  |  |  |  | * | * | * | * | * |  |
+| 261. | Vízgépészeti ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 262. | Társulati ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
+| 262. | Vízgyűjtőgazdálkodási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 263. | Technikus |  | * | * | * | * |  |  |  |  |  |  |
+| 263. | Vízgyűjtőgazdálkodási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 264. | Telefonkezelő | * | * | * |  |  |  |  |  |  |  |  |
+| 264. | Vízhasznosítási referens |  |  |  |  | * | * | * | * | * | * |  |
 
-| 265. | Település vízellátási és csatornázási ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
+| 265. | Vízhasznosítási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 266. | Település vízgazdálkodási ügyintéző |  |  |  | * |  | * | * | * | * |  |  |
+| 266. | Vízhozammérő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 267. | Térinformatikus |  |  |  | * | * | * | * | * |  |  |  |
+| 267. | Víziközmű referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 268. | Területi felügyelő |  |  |  |  | * | * | * | * | * |  |  |
+| 268. | Víziközmű ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 269. | Területi ügyintéző |  |  |  |  | * | * | * | * | * |  |  |
+| 269. | Vízjelző ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 270. | Területrendezési ügyintéző |  |  |  |  |  | * | * | * |  |  |  |
+| 270. | Vízjelző referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 271. | Titkárnő |  | * | * | * | * |  |  |  |  |  |  |
+| 271. | Vízkárelhárítási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 272. | Titkárságvezető |  |  |  | * | * | * | * | * | * |  |  |
+| 272. | Vízkárelhárítási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 273. | Tószabályozási ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
+| 273. | Vízkészlet-gazdálkodási referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 274. | Tűzrendész |  |  | * | * |  |  |  |  |  |  |  |
+| 274. | Vízkészlet-gazdálkodási ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 275. | Tűzvédelmi ügyintéző |  |  | * | * | * | * |  |  |  |  |  |
+| 275. | Vízminőség védelmi ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 276. | Tűzvédelmi vezető |  |  | * | * | * | * |  |  |  |  |  |
+| 276. | Vízminőség védelmi referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 277. | Uszálykormányos |  | * | * | * |  |  |  |  |  |  |  |
+| 277. | Vízrajzi adatfeldolgozó |  | * | * | * |  |  |  |  |  |  |  |
 
-| 278. | Úszókotrómester |  | * | * | * |  |  |  |  |  |  |  |
+| 278. | Vízrajzi mérő (területfelelős technikus) |  | * | * | * | * |  |  |  |  |  |  |
 
-| 279. | Üdülőgondnok |  |  |  | * | * |  |  |  |  |  |  |
+| 279. | Vízrajzi referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 280. | Ügyintéző |  |  | * | * | * | * | * |  |  |  |  |
+| 280. | Vízrajzi ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 281. | Üzemfenntartási ügyintéző |  |  | * | * | * | * |  |  |  |  |  |
+| 281. | Vízrendezési referens |  |  |  |  |  | * | * | * | * | * |  |
 
-| 282. | Üzemgazdász |  |  |  |  | * | * | * |  |  |  |  |
+| 282. | Vízrendezési ügyintéző |  |  |  | * | * | * |  |  |  |  |  |
 
-| 283. | Vadőr, vadász |  | * | * | * | * |  |  |  |  |  |  |
+| 283. | Zsilipkezelő |  | * | * | * |  |  |  |  |  |  |  |
 
-| 284. | Vagyongazdálkodási ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
+| 284. | Zsilipőr | * | * |  |  |  |  |  |  |  |  |  |
 
-| 285. | Vagyonkezelő |  |  |  |  | * | * | * | * | * |  |  |
-
-| 286. | Vegyész |  |  |  |  |  | * | * | * | * |  |  |
-
-| 287. | Vegyésztechnikus |  |  |  | * | * |  |  |  |  |  |  |
-
-| 288. | Vezető gépkezelő |  | * | * | * |  |  |  |  |  |  |  |
-
-| 289. | Vezető jogtanácsos |  |  |  |  |  |  |  |  | * | * | jogi szakvizsga |
-
-| 290. | Villanyszerelő |  | * | * | * |  |  |  |  |  |  |  |
-
-| 291. | Vízellátási és csatornázási referens |  |  |  |  |  | * | * | * | * | * |  |
-
-| 292. | Vízellátási és csatornázási ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 293. | Vízépítési műtárgyépítő | * |  |  |  |  |  |  |  |  |  |  |
-
-| 294. | Vízépítő | * | * | * | * |  |  |  |  |  |  |  |
-
-| 295. | Vízépítő szakmunkás | * | * | * |  |  |  |  |  |  |  |  |
-
-| 296. | Vízföldtani adattáros |  | * | * | * |  |  |  |  |  |  |  |
-
-| 297. | Vízföldtani ügyintéző |  |  |  |  |  |  |  | * | * |  |  |
-
-| 298. | Vízgazdálkodási adattáros |  |  |  | * | * | * | * | * |  |  |  |
-
-| 299. | Vízgazdálkodási referens |  |  |  |  |  | * | * | * | * | * |  |
-
-| 300. | Vízgazdálkodási szakértő |  |  |  |  |  | * | * | * | * | * |  |
-
-| 301. | Vízgazdálkodási ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 302. | Vízgépészeti szerelő |  | * | * | * | * | * |  |  |  |  |  |
-
-| 303. | Vízgépészeti ügyintéző |  |  |  | * | * | * | * | * | * |  |  |
-
-| 304. | Vízhasznosítási referens |  |  |  |  | * | * | * | * | * |  |  |
-
-| 305. | Vízhasznosítási ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 306. | Vízhozammérő |  | * | * | * |  |  |  |  |  |  |  |
-
-| 307. | Víziközmű referens |  |  |  |  |  | * | * | * | * | * |  |
-
-| 308. | Víziközmű ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 309. | Vízkárelhárítási referens |  |  |  |  |  | * | * | * | * | * |  |
-
-| 310. | Vízkárelhárítási szakmunkás |  | * | * | * |  |  |  |  |  |  |  |
-
-| 311. | Vízkárelhárítási ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 312. | Vízkészlet-gazdálkodási referens |  |  |  |  |  | * | * | * | * | * |  |
-
-| 313. | Vízkészlet-gazdálkodási ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 314. | Vízmérő-karbantartó |  | * | * | * |  |  |  |  |  |  |  |
-
-| 315. | Vízminőség biztosítási referens |  |  |  |  |  | * | * | * | * | * |  |
-
-| 316. | Vízminőség védelmi ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 317. | Vízminőség védelmi referens |  |  |  |  |  | * | * | * | * | * |  |
-
-| 318. | Vízminőségvédelmi ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 319. | Vízmintavevő |  | * | * | * |  |  |  |  |  |  |  |
-
-| 320. | Vízrajzi adatfeldolgozó |  | * | * | * |  |  |  |  |  |  |  |
-
-| 321. | Vízrajzi adatforgalmazó |  |  | * | * |  |  |  |  |  |  |  |
-
-| 322. | Vízrajzi mérő (területfelelős technikus) |  | * | * | * | * |  |  |  |  |  |  |
-
-| 323. | Vízrajzi referens |  |  |  |  |  | * | * | * | * | * |  |
-
-| 324. | Vízrajzi területfelelős |  |  | * | * | * |  |  |  |  |  |  |
-
-| 325. | Vízrajzi ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 326. | Vízrendezési referens |  |  |  |  |  | * | * | * | * | * |  |
-
-| 327. | Vízrendezési ügyintéző |  |  |  | * | * | * | * |  |  |  |  |
-
-| 328. | Vonalfelvigyázó hálózatszerelő |  | * | * | * |  |  |  |  |  |  |  |
-
-| 329. | Zsilipkezelő |  | * | * | * |  |  |  |  |  |  |  |
-
-| 330. | Zsilipkezelő – üzemviteli irányító |  | * | * | * | * |  |  |  |  |  |  |
-
-| 331. | Zsilipőr | * |  |  |  |  |  |  |  |  |  |  |
-
-[^14]: A 3. mellékletet a 46/2012. (IX. 20.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^16]: A 3. mellékletet a 46/2012. (IX. 20.) BM rendelet 6. § (2) bekezdése iktatta be, szövege az 1/2016. (I. 7.) BM rendelet 3. §-ával megállapított szöveg.

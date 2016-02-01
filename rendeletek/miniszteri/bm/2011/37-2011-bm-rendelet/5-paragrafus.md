@@ -30,7 +30,7 @@ c) a gazdasági igazgató-helyettes,
 
 d) az igazgató,
 
-e) a műszaki főigazgató-helyettes, valamint
+e)[^7] a műszaki főigazgató-helyettes (főmérnök), valamint
 
 f) a műszaki igazgató-helyettes.
 
@@ -44,15 +44,15 @@ c) a gazdasági osztályvezető, valamint
 
 d) a büntetés-végrehajtási szerv kivételével az osztályvezető-helyettes.
 
-(4) Az 1. § g) pontjában meghatározott munkáltatóknál vezető:
+(4)[^8] Az 1. § g) pontjában meghatározott munkáltatóknál vezető:
 
 a) a főosztályvezető,
 
 b) a főosztályvezető-helyettes,
 
-c) a laborvezető,
+c) a hivatalvezető,
 
-d) a kirendeltségvezető,
+d) a laborvezető,
 
 e) az osztályvezető,
 
@@ -66,9 +66,11 @@ i) a szolgálatvezető,
 
 j) a szolgálatvezető-helyettes,
 
-k) a csoportvezető, valamint
+k) a csoportvezető,
 
-l) az üzemvezető.
+l) a múzeumvezető, valamint
+
+m) a levéltárvezető.
 
 (5) Az 1. § a)–f) pontjában meghatározott munkáltatóknál a magasabb vezetői és a vezetői (a továbbiakban együtt: vezetői) megbízás feltétele a szakirányú felsőfokú végzettség, valamint legalább öt év szakmai gyakorlat.
 
@@ -79,3 +81,5 @@ l) az üzemvezető.
 (8) A vezetői megbízás legfeljebb öt évig terjedő időtartamra adható. A határozott idő lejártát követően a közalkalmazott ismételten megbízható a vezetői beosztás ellátásával.
 
 [^6]: Az 5. § a 46/2012. (IX. 20.) BM rendelet 3. §-ával megállapított szöveg.
+[^7]: Az 5. § (2) bekezdés e) pontja az 1/2016. (I. 7.) BM rendelet 4. §-a szerint módosított szöveg.
+[^8]: Az 5. § (4) bekezdése az 1/2016. (I. 7.) BM rendelet 2. §-ával megállapított szöveg.

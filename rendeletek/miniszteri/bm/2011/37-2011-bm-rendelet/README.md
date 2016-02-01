@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-0
 | 2012-09-21 | 2011-37-20-0A.3 | 46/2012. (IX. 20.) BM rendelet |
 | 2015-04-18 | 2011-37-20-0A.4 | 46/2012. (IX. 20.) BM rendelet |
 | 2015-07-01 | 2011-37-20-0A.5 | 37/2015. (VI. 16.) BM rendelet |
+| 2016-02-01 | 2011-37-20-0A.6 | 1/2016. (I. 7.) BM rendelet |
