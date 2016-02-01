@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-280-20-
 | 2014-09-05 | 2004-280-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 2004-280-20-22.8 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2004-280-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-02-01 | 2004-280-20-22.10 | 427/2015. (XII. 23.) Korm. rendelet |

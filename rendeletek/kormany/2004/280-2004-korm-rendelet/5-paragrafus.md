@@ -1,6 +1,6 @@
-5. § (1)[^7] Stratégiai zajtérképet az a természetes személy, illetőleg az a gazdálkodó szervezet és más jogi személy készíthet, aki a külön jogszabály[^8] szerint környezeti zaj- és rezgésvédelem területén szakértői tevékenység folytatására jogosult, vagy ilyen szakértőt foglalkoztat.
+5. § (1)[^8] Stratégiai zajtérképet az a természetes személy, illetőleg az a gazdálkodó szervezet és más jogi személy készíthet, aki a külön jogszabály[^9] szerint környezeti zaj- és rezgésvédelem területén szakértői tevékenység folytatására jogosult, vagy ilyen szakértőt foglalkoztat.
 
-(2)[^9] A stratégiai zajtérképen fel kell tüntetni a szakértői vizsgálatot végző szakértő nevét, a szakértői engedélye számát.
+(2)[^10] A stratégiai zajtérképen fel kell tüntetni a szakértői vizsgálatot végző szakértő nevét, a szakértői engedélye számát.
 
 (3) A káros hatások értékelésével kapcsolatos szempontokat az e rendelet 2. számú melléklete tartalmazza.
 
@@ -16,6 +16,6 @@ b) a 14. § (2) és (4) bekezdéseiben megjelölt határidőt megelőző naptár
 
 (7) A stratégiai zajtérkép eredményeit a külön jogszabály szerinti szöveges értékelésben kell összefoglalni.
 
-[^7]: Az 5. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 380. §-a, az 57/2014. (III. 4.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^8]: A környezet- és természetvédelem egyes szakterületein szakértői működés engedélyezéséről szóló 6/1985. (XII. 28.) OKTH rendelkezés.
-[^9]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 379. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: Az 5. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 380. §-a, az 57/2014. (III. 4.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^9]: A környezet- és természetvédelem egyes szakterületein szakértői működés engedélyezéséről szóló 6/1985. (XII. 28.) OKTH rendelkezés.
+[^10]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 379. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

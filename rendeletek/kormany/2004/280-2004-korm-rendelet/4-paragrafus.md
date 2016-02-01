@@ -10,7 +10,7 @@ b) konfliktustérkép
 
 (2) A stratégiai zajtérképet a kötelezett önkormányzat a közigazgatási területén található
 
-a) nagyforgalmú közutak, valamint a külön jogszabály[^6] szerinti kiszolgáló utak és átmenő forgalom nélküli utak kivételével a közutakra,
+a) nagyforgalmú közutak, valamint a külön jogszabály[^7] szerinti kiszolgáló utak és átmenő forgalom nélküli utak kivételével a közutakra,
 
 b) nagyforgalmú vasutak kivételével a vasutakra,
 
@@ -24,4 +24,4 @@ vonatkozóan külön-külön készíti el.
 
 (4) A stratégiai zajtérkép minimális tartalmi követelményeit e rendelet 1. számú melléklete tartalmazza.
 
-[^6]: A zaj- és rezgésterhelési határértékek megállapításáról szóló 8/2002. (III. 22.) KöM–EüM együttes rendelet.
+[^7]: A zaj- és rezgésterhelési határértékek megállapításáról szóló 8/2002. (III. 22.) KöM–EüM együttes rendelet.
