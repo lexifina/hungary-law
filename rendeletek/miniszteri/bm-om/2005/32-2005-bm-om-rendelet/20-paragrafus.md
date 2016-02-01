@@ -1,12 +1,12 @@
-20. § (1)[^35] A gyakorlati képzés a szakközépiskola igazgatója és az érintett rendőri szerv vezetője által, legkésőbb a gyakorlati képzés megkezdése előtt 60 nappal megelőzően írásba foglalt együttműködési megállapodás alapján kerül végrehajtásra. A működési költségek biztosítása érdekében a megállapodást az ORFK vezetőjének jóvá kell hagynia. Az együttműködési megállapodást évente felül kell vizsgálni.
+20. § (1)[^36] A gyakorlati képzés a szakközépiskola igazgatója és az érintett rendőri szerv vezetője által, legkésőbb a gyakorlati képzés megkezdése előtt 60 nappal megelőzően írásba foglalt együttműködési megállapodás alapján kerül végrehajtásra. A működési költségek biztosítása érdekében a megállapodást az ORFK vezetőjének jóvá kell hagynia. Az együttműködési megállapodást évente felül kell vizsgálni.
 
 (2) Az együttműködési megállapodás tartalmazza:
 
 a) az együttműködés célját és a szakmai gyakorlat megszervezésének, végrehajtásának jogszabályi és pedagógiai alapjait;
 
-b)[^36] a szakközépiskolák és a gyakorlati képzés végrehajtásában részt vevő rendőri szervek közötti konkrét feladat- és munkamegosztást, felelősséget, a gyakorlati képzés szervezésének ütemezett feladatait;
+b)[^37] a szakközépiskolák és a gyakorlati képzés végrehajtásában részt vevő rendőri szervek közötti konkrét feladat- és munkamegosztást, felelősséget, a gyakorlati képzés szervezésének ütemezett feladatait;
 
-c)[^37] a szakközépiskola és a rendőri szerv közötti kapcsolattartás módját, a kapcsolattartók megnevezését, a tanulók foglalkoztatásának és szakmai fejlődésének figyelemmel kísérésével megbízott felelős személyek jogait és kötelességeit, valamint a mentorok feladatait, felelősségét, jogait, kötelességeit;
+c)[^38] a szakközépiskola és a rendőri szerv közötti kapcsolattartás módját, a kapcsolattartók megnevezését, a tanulók foglalkoztatásának és szakmai fejlődésének figyelemmel kísérésével megbízott felelős személyek jogait és kötelességeit, valamint a mentorok feladatait, felelősségét, jogait, kötelességeit;
 
 d) a gyakorlati képzésre kijelölt szolgálati helyeket, az anyagi-technikai feltételek biztosításának módját;
 
@@ -20,6 +20,6 @@ h) a gyakorlati képzés ellenőrzésének elveit;
 
 i) az együttműködési megállapodás felülvizsgálatával kapcsolatos feladatokat.
 
-[^35]: A 20. § (1) bekezdése a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^36]: A 20. § (2) bekezdésének b) pontja a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^37]: A 20. § (2) bekezdésének c) pontja a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^36]: A 20. § (1) bekezdése a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^37]: A 20. § (2) bekezdésének b) pontja a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^38]: A 20. § (2) bekezdésének c) pontja a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.

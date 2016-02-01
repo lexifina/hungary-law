@@ -1,10 +1,10 @@
-18. § (1)[^30] A rendőri szervek vezetői a gyakorlati képzésben részt vevő tanulók oktatására, közvetlen irányítására, felügyeletére hivatásos állományú – a szakközépiskolák által külön felkészített –, elsősorban zászlósi, tiszthelyettesi állomány kategóriába tartozó mentorokat jelölnek ki.
+18. § (1)[^31] A rendőri szervek vezetői a gyakorlati képzésben részt vevő tanulók oktatására, közvetlen irányítására, felügyeletére hivatásos állományú – a szakközépiskolák által külön felkészített –, elsősorban zászlósi, tiszthelyettesi állomány kategóriába tartozó mentorokat jelölnek ki.
 
 (2) A mentorok számát úgy kell meghatározni, hogy a mentor egy időben legfeljebb két tanuló irányítását láthatja el.
 
 (3) Mentori feladatok ellátásával az bízható meg, aki
 
-a)[^31] szakirányú szakképesítéssel és legalább kétéves szakmai gyakorlattal rendelkezik, továbbá büntetlen előéletű;
+a)[^32] szakirányú szakképesítéssel és legalább kétéves szakmai gyakorlattal rendelkezik, továbbá büntetlen előéletű;
 
 b) írásos nyilatkozatban vállalja a mentori feladatok ellátását;
 
@@ -36,8 +36,8 @@ j) a tanuló részére a szolgálattal összefüggésben utasítást adhat.
 
 (5) A mentor a napi szolgálati teendői ellátása közben végzi a tanulókkal kapcsolatos feladatait, a szakközépiskolával kötött megbízási szerződés alapján.
 
-(6)[^32] A mentor egy tanulóval történő foglalkozás esetén a mindenkori köztisztviselői illetményalap 30%-át, két tanulóval történő egyidejű foglalkozás esetén az illetményalap 40%-át alapul véve – a ténylegesen ledolgozott munkaórák, valamint a külön jogszabályban meghatározott havi kötelező munkaóraszám hányadosának szorzatával számított – díjazásra jogosult. A ténylegesen ledolgozott munkaórák számát a rendőri szerv vezetője igazolja.
+(6)[^33] A mentor egy tanulóval történő foglalkozás esetén a mindenkori köztisztviselői illetményalap 30%-át, két tanulóval történő egyidejű foglalkozás esetén az illetményalap 40%-át alapul véve – a ténylegesen ledolgozott munkaórák, valamint a külön jogszabályban meghatározott havi kötelező munkaóraszám hányadosának szorzatával számított – díjazásra jogosult. A ténylegesen ledolgozott munkaórák számát a rendőri szerv vezetője igazolja.
 
-[^30]: A 18. § (1) bekezdése a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^31]: A 18. § (3) bekezdés a) pontja a 81/2012. (XII. 28.) BM rendelet 13. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^32]: A 18. § (6) bekezdése a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^31]: A 18. § (1) bekezdése a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^32]: A 18. § (3) bekezdés a) pontja a 81/2012. (XII. 28.) BM rendelet 13. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^33]: A 18. § (6) bekezdése a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.

@@ -2,9 +2,9 @@
 
 ## 24. § A rendészeti szakközépiskolai képzéssel összefüggő, valamint a tanulói ellátás biztosítására vonatkozó költségek fedezetét – az e rendeletben foglaltak kivételével – a szakközépiskola költségvetésében kell biztosítani, melyek különösen:
 
-a)[^42] a tanulói pénzbeli juttatás költsége (alapösztöndíj, alapösztöndíj-kiegészítés, tanulmányi pótlék, valamint egyéb pótlékok);
+a)[^43] a tanulói pénzbeli juttatás költsége (alapösztöndíj, alapösztöndíj-kiegészítés, tanulmányi pótlék, valamint egyéb pótlékok);
 
-b)[^43] a tanulók (szakközépiskolai, szakmai gyakorlat alatti – nem a lakóhely szerint illetékes szolgálati hely esetén napi háromszori (reggeli, ebéd, vacsora), lakóhely szerint illetékes szolgálati hely kijelölése esetén a napszaknak megfelelő egyszeri) – természetben nyújtott élelmezési költsége;
+b)[^44] a tanulók (szakközépiskolai, szakmai gyakorlat alatti – nem a lakóhely szerint illetékes szolgálati hely esetén napi háromszori (reggeli, ebéd, vacsora), lakóhely szerint illetékes szolgálati hely kijelölése esetén a napszaknak megfelelő egyszeri) – természetben nyújtott élelmezési költsége;
 
 c) a formaruházat és alapfelszerelés költsége;
 
@@ -28,5 +28,5 @@ l) nyelvvizsga díj támogatás;
 
 m) utazás költsége.
 
-[^42]: A 24. § a) pontja a 37/2015. (VI. 16.) BM rendelet 24. §-ával megállapított szöveg.
-[^43]: A 24. § b) pontja a 37/2015. (VI. 16.) BM rendelet 24. §-ával megállapított szöveg.
+[^43]: A 24. § a) pontja a 37/2015. (VI. 16.) BM rendelet 24. §-ával megállapított szöveg.
+[^44]: A 24. § b) pontja a 37/2015. (VI. 16.) BM rendelet 24. §-ával megállapított szöveg.
