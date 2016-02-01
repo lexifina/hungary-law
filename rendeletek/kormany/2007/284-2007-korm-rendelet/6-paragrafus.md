@@ -17,3 +17,7 @@ a) beépítetlen területen a számítást, illetve a mérést másfél méteres
 b) beépített területen a számítást, illetve a mérést arra a magasságra kell elvégezni, ahol a legnagyobb hatásterület mérhető, illetve számítható, és van zajtól védendő homlokzat.
 
 (3) A környezeti zajforrás hatásterületének lehatárolásakor azt a napszakot kell figyelembe venni, amely alapján a legnagyobb hatásterület mérhető, illetve számítható.
+
+(4)[^11] Azoknál a környezeti zajforrásoknál, amelyeknél a környezeti zajforrás üzemeltetője a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló miniszteri rendelet alapján felmentést kaphatnak a környezetvédelmi hatóság által határozatban megállapított zajkibocsátási határérték betartása alól, hatásterületnek a felmentéssel nem érintett napokra vonatkozó zajterhelési határérték alapján megállapított hatásterületet kell tekinteni.
+
+[^11]: A 6. § (4) bekezdését a 427/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.

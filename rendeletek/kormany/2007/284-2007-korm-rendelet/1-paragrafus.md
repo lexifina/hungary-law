@@ -4,7 +4,7 @@
 
 (2) Nem terjed ki a rendelet hatálya:
 
-a) közterületi rendezvényre,
+a)[^1] a kizárólag közterületen megtartott, alkalmi rendezvényekre,
 
 b) a munkahelyi zaj és rezgés által okozott foglalkoztatási veszélyre,
 
@@ -14,4 +14,9 @@ d) közlekedési járműveken belüli zajra és rezgésre,
 
 e) az egészségügyi mentési tevékenység, a tűzoltási feladatok, a műszaki mentés és bűnüldözési tevékenység által keltett zajra és rezgésre, valamint
 
-f) a vallási tevékenység végzésére.
+f) a vallási tevékenység végzésére,
+
+g)[^2] a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényekre.
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 427/2015. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^2]: Az 1. § (2) bekezdés g) pontját a 427/2015. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.

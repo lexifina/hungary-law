@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-284-20-
 | 2014-01-01 | 2007-284-20-22.8 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2007-284-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2007-284-20-22.10 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2016-02-01 | 2007-284-20-22.11 | 427/2015. (XII. 23.) Korm. rendelet |

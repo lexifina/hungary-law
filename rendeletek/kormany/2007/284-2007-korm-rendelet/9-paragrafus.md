@@ -12,9 +12,9 @@
 
 (5) A létesítésére irányuló engedélyezési tervben szereplő zaj- és rezgésvédelmi intézkedéseket és a rezgéscsökkentő műszaki megoldásokat a zaj- és rezgésforrás üzembe helyezésének, illetve használatbavételének időpontjára meg kell valósítani.
 
-(6)[^5] Azokban a zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban, amelyekben a környezetvédelmi hatóság – a tevékenység környezeti zaj és rezgés elleni védelem követelményeinek való megfelelősége kérdésében – szakhatóságként jár el vagy szakkérdést vizsgál, az eljáráshoz benyújtott dokumentációnak zaj elleni védelemről szóló munkarészt kell tartalmaznia. A munkarész tartalmi követelményeit a 2. számú melléklet tartalmazza.
+(6)[^12] Azokban a zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban, amelyekben a környezetvédelmi hatóság – a tevékenység környezeti zaj és rezgés elleni védelem követelményeinek való megfelelősége kérdésében – szakhatóságként jár el vagy szakkérdést vizsgál, az eljáráshoz benyújtott dokumentációnak zaj elleni védelemről szóló munkarészt kell tartalmaznia. A munkarész tartalmi követelményeit a 2. számú melléklet tartalmazza.
 
-(7)[^6] A környezeti hatásvizsgálat vagy egységes környezethasználati engedélyköteles tevékenységek létesítéséhez és megvalósításához kapcsolódó szállítási, fuvarozási útvonalakat úgy kell megválasztani, hogy hatásterületük a lehető legkisebb legyen. A kapcsolódó szállítás, fuvarozás zajterhelésére tekintettel a közlekedési hatáskörében eljáró fővárosi és megyei kormányhivatal megvizsgálja a meghatározott útvonal előírásának lehetőségét.
+(7)[^13] A környezeti hatásvizsgálat vagy egységes környezethasználati engedélyköteles tevékenységek létesítéséhez és megvalósításához kapcsolódó szállítási, fuvarozási útvonalakat úgy kell megválasztani, hogy hatásterületük a lehető legkisebb legyen. A kapcsolódó szállítás, fuvarozás zajterhelésére tekintettel a közlekedési hatáskörében eljáró fővárosi és megyei kormányhivatal megvizsgálja a meghatározott útvonal előírásának lehetőségét.
 
-[^5]: A 9. § (6) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdésének 3. pontja, a 70/2015. (III. 30.) Korm. rendelet 108. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^6]: A 9. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 108. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^12]: A 9. § (6) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdésének 3. pontja, a 70/2015. (III. 30.) Korm. rendelet 108. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^13]: A 9. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 108. § (2) bekezdés e) pontja szerint módosított szöveg.

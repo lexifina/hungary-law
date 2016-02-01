@@ -4,15 +4,15 @@
 
 a) egységes környezethasználati engedély iránti kérelem zajvédelemi munkarészének kidolgozásához,
 
-b)[^26] előzetes vizsgálati dokumentáció, előzetes konzultációra irányuló kezdeményezéshez csatolt dokumentáció és környezeti hatástanulmány zajvédelmi munkarészének elkészítéséhez,
+b)[^38] előzetes vizsgálati dokumentáció, előzetes konzultációra irányuló kezdeményezéshez csatolt dokumentáció és környezeti hatástanulmány zajvédelmi munkarészének elkészítéséhez,
 
 c) zaj és rezgés elleni védelemről szóló intézkedési terv készítéséhez,
 
 d) megfelelő passzív akusztikai védelem tervezéséhez,
 
-e) csendes terület, zajvédelmi szempontból fokozottan védett területek kijelölésének előkészítéséhez, ha a kijelölésre szánt területre nem készült külön jogszabály[^27] szerinti zajterhelési zajtérkép,
+e) csendes terület, zajvédelmi szempontból fokozottan védett területek kijelölésének előkészítéséhez, ha a kijelölésre szánt területre nem készült külön jogszabály[^39] szerinti zajterhelési zajtérkép,
 
 f) önkormányzati/helyi zajvédelmi rendelettervezet műszaki előkészítéséhez.
 
-[^26]: A 33. § b) pontja a 182/2009. (IX. 10.) Korm. rendelet 577. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^27]: A környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet.
+[^38]: A 33. § b) pontja a 182/2009. (IX. 10.) Korm. rendelet 577. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^39]: A környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet.
