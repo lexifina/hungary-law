@@ -1,4 +1,4 @@
-1. melléklet a 247/2014. (X. 1.) Korm. rendelethez[^36]
+1. melléklet a 247/2014. (X. 1.) Korm. rendelethez[^39]
 
 Kormányzati kommunikációs feladatokhoz tartozó szolgáltatások
 
@@ -22,4 +22,4 @@ Kormányzati kommunikációs feladatokhoz tartozó szolgáltatások
 
 | 9 | Szponzorálás | Szponzorálásnak minősül, amennyiben az érintett szervezet kommunikációs célból, piaci helyzetének javítása, vagy társadalmi szerepvállalás érdekében rendezvényt, eseményt, szervezetet vagy személyt egy alkalommal vagy rendszeresen pénzbeli támogatásban részesít. |
 
-[^36]: Az 1. melléklet a 475/2015. (XII. 29.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^39]: Az 1. melléklet a 475/2015. (XII. 29.) Korm. rendelet 21. §-a szerint módosított szöveg.

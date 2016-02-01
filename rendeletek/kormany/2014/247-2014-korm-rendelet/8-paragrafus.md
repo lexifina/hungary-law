@@ -1,4 +1,4 @@
-8. §[^10] (1) Az érintett szervezet – a Hivatal által meghatározott útmutató alapján – az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek közbeszerzésére vonatkozóan
+8. §[^11] (1) Az érintett szervezet – a Hivatal által meghatározott útmutató alapján – az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek közbeszerzésére vonatkozóan
 
 a) a tárgyévet megelőző év december 15-ig a Kbt. szerinti éves összesített közbeszerzési tervét, illetve beszerzési tervét, valamint szponzorációs költségkeret-tervét,
 
@@ -12,4 +12,4 @@ c) a Hivatal kérésére a kormányzati kommunikációs feladattal összefüggő
 
 (3) A Hivatal a beérkezett dokumentumok vizsgálatát követően határozhat arról is, hogy az érintett szervezet tekintetében milyen egyedi összeget állapít meg. Az érintett szervezetet a megállapított összeg alatti közbeszerzések esetén bejelentési, míg a megállapított összeg feletti közbeszerzések esetén jóváhagyásra megküldési kötelezettség terheli.
 
-[^10]: A 8. § a 475/2015. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^11]: A 8. § a 475/2015. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

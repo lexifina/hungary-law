@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-247-20-
 | 2015-10-27 | 2014-247-20-22.2 | 306/2015. (X. 26.) Korm. rendelet |
 | 2015-11-01 | 2014-247-20-22.3 | 323/2015. (X. 30.) Korm. rendelet |
 | 2016-01-01 | 2014-247-20-22.4 | 475/2015. (XII. 29.) Korm. rendelet |
+| 2016-02-01 | 2014-247-20-22.5 | 475/2015. (XII. 29.) Korm. rendelet |
