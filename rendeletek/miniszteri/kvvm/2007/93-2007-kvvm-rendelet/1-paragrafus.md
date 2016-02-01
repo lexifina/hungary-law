@@ -14,8 +14,15 @@ ab) a zajforrás közvetlen hatásterületén elhelyezkedő, zajtól védendő t
 
 ac) a zajkibocsátási határérték teljesülésének pontos helyét;
 
+ad)[^1] a zajforrás üzemeltetésére vonatkozó korlátozásokat;
+
+ae)[^2] a zajkibocsátás csökkentése érdekében tervezett intézkedések végrehajtására vonatkozó kötelezést, az egyes intézkedések végrehajtásának határidejét.
+
 b) az indoklásban:
 
 ba) a zajforrás hatásterületén található védendő területek településrendezési terv szerinti besorolását, valamint
 
 bb) a zajforrás hatásterületén elhelyezkedő épületek Építményjegyzék szerinti besorolását.
+
+[^1]: Az 1. § (4) bekezdés a) pont ad) alpontját a 91/2015. (XII. 23.) FM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (4) bekezdés a) pont ae) alpontját a 91/2015. (XII. 23.) FM rendelet 1. §-a iktatta be.
