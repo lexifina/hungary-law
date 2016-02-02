@@ -1,0 +1,1 @@
+## 5. § Az informatikai rendszernek elkülönítetten kell kezelnie a Hivatal, az érintett szervezet és a szállító szerepköreit. Az egyes szerepkörökön belül elkülönítetten kell kezelni az engedélyező, az adminisztrátor és a felhasználói jogosultsági szinteket.
