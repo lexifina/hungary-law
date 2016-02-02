@@ -1,9 +1,3 @@
-## „(5) Az (1) bekezdés szerinti intézkedési terv tartalmazza:
+7. §[^8]
 
-## a) a zajkibocsátás csökkentésére tervezett intézkedéseket,
-
-## b) a tervezett intézkedések várható eredményét,
-
-## c) az intézkedések műszaki és adminisztratív megvalósításához, valamint a hatósági engedélyek beszerzéséhez szükséges időtartamot és annak indoklását, valamint
-
-## d) a zajkibocsátási határértékre nem csökkenthető zajkibocsátású közüzemi létesítmények esetén annak részlétes indoklását, hogy a zajkibocsátás további csökkentése miért nem valósítható meg.”
+[^8]: Az 1–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
