@@ -1,1 +1,0 @@
-A Magyar Műszaki Biztonsági Hivatal szervezetéről, feladat- és hatásköréről szóló 110/2003. (VII. 24.) Korm. rendelet (a továbbiakban: R.) 15. §-ának d) és e) pontjában kapott felhatalmazás alapján a következőket rendelem el:
