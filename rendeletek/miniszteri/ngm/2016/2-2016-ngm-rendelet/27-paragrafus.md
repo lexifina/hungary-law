@@ -1,0 +1,1 @@
+## 26. § A határozatlan időre üzemen kívül helyezett nyomástartó berendezés üzembevételi engedélyét a Hatóság az üzemeltető bejelentése alapján felfüggeszti. Az üzembevételt megelőzően az üzemeltetőnek a nyomástartó berendezés állapotának értékelésére alkalmas vizsgálati tervet kell jóváhagyatnia a Hatósággal, és a vizsgálatokat végre kell hajtania.
