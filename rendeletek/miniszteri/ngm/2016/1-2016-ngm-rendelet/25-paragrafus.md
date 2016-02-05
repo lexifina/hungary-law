@@ -1,0 +1,1 @@
+## 24. § Az éghető folyadékok és olvadékok tárolótartályairól szóló 11/1994. (III. 25.) IKM rendelet által vezetett nyilvántartás adatait a Hatóság – az e rendelet hatálybalépését követő 60 napon belül – a 3. § (3) bekezdése szerinti nyilvántartásba átvezeti.

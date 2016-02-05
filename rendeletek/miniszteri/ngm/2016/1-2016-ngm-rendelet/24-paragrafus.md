@@ -1,0 +1,1 @@
+## 23. § A Hatóság által e rendelet hatálybalépését megelőzően – az éghető folyadékok és olvadékok tárolótartályairól szóló 11/1994. (III. 25.) IKM rendelet szerint – kiadott hatósági bizonyítványokkal, engedélyekkel megszerzett jogosultság az e rendelet szerinti nyilvántartásba vételi eljárás lefolytatása nélkül gyakorolható.

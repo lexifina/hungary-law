@@ -1,0 +1,1 @@
+## 25. § E rendelet a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti bejelentése megtörtént.
