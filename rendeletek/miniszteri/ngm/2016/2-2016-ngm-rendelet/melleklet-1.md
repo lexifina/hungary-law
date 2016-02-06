@@ -1,4 +1,4 @@
-## 38. § Hatályát veszti a nyomástartó és töltőlétesítmények műszaki-biztonsági hatósági felügyeletéről szóló 63/2004. (IV. 27.) GKM rendelet, az autógáz töltőállomás építésének és üzemeltetésének szabályairól szóló 26/2006. (V. 5.) GKM rendelet, valamint az autógáz tartályok időszakos ellenőrzéséről szóló 30/2006. (VI. 1.) GKM rendelet.
+## 38. §[^1]
 
 1. melléklet a 2/2016. (I. 5.) NGM rendelethez
 
@@ -35,3 +35,5 @@ g) Gáz töltetű csővezeték, azzal jellemezve, hogy töltete nem tartozik a v
 h) Folyadék töltetű csővezeték, azzal jellemezve, hogy töltete a veszélyes anyagok csoportjába tartozik: ha a nyomása (PS) nagyobb, mint 10 bar és DN értéke nagyobb, mint 200.
 
 i) Folyadék töltetű csővezeték, azzal jellemezve, hogy töltete nem tartozik a veszélyes anyagok csoportjába: ha a nyomása (PS) nagyobb, mint 10 bar, DN értéke nagyobb, mint 200 és a PS × DN szorzat nagyobb, mint 10 000 bar.
+
+[^1]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
