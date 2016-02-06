@@ -1,1 +1,3 @@
-## 28. § Hatályát veszti az éghető folyadékok és olvadékok tárolótartályairól szóló 11/1994. (III. 25.) IKM rendelet.
+## 28. §[^1]
+
+[^1]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
