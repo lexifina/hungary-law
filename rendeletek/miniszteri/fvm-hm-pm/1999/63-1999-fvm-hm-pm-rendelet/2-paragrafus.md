@@ -1,4 +1,4 @@
-## 1. § E rendelet szabályozza a földmérési és térképészeti állami alapadatok (a továbbiakban: állami alapadat) kezelését, szolgáltatásának rendjét és az adatszolgáltatással, a sajátos célú földmérési munkák vizsgálatával és záradékolásával, valamint az egyéb hatósági eljárásokkal kapcsolatos igazgatási szolgáltatási díjakat.
+## 1. §[^1] E rendelet szabályozza a földmérési és térképészeti állami alapadatok (a továbbiakban: állami alapadat) kezelését, szolgáltatásának rendjét és az adatszolgáltatással, az ingatlan-nyilvántartási célú földmérési és térképészeti munkák vizsgálatával és záradékolásával, valamint az egyéb hatósági eljárásokkal kapcsolatos igazgatási szolgáltatási díjakat.
 
 2. § (1) A rendelet a következő állami alapadatokra és tevékenységekre terjed ki:
 
@@ -16,7 +16,7 @@ f) az állami alapadatok előállításakor készült mérési és számítási 
 
 g) a forgalomból kivont állami alapadatokra;
 
-h) az ország teljes területére kiterjedően az állami átvételt követően a sajátos célú földmérési és térképészeti tevékenység végzése során előállított adatokra és munkarészekre.
+h)[^2] az ország teljes területére kiterjedően az állami átvételt követően az ingatlan-nyilvántartási és egyéb célú földmérési és térképészeti tevékenység végzése során előállított adatokra és munkarészekre.
 
 (2) A rendelet előírásai vonatkoznak továbbá
 
@@ -26,14 +26,24 @@ b) a földminősítés során készült térképi és leíró adatokra, valamint
 
 c) a Földrajzinév-tár adataira.
 
-(3) E rendelet tartalmazza
+(3)[^3] E rendelet tartalmazza
 
-a) az ingatlanrendező földmérői minősítés,
+a) az ingatlanrendező földmérői minősítés igazgatási szolgáltatási díjait,
 
-b) a földmérő igazolvány kiadásával kapcsolatos eljárás,
+b) a földmérő igazolvány kiadásával kapcsolatos eljárás igazgatási szolgáltatási díjait,
 
-c) a mérőkamarás légifényképezéssel kapcsolatos egyes eljárások,
+c) a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Földmérési törvény) 25/A. § (1) bekezdése szerinti nyilvántartásba vétel igazgatási szolgáltatási díját,
 
-d) a sajátos célú földmérési és térképészeti munkák hatósági vizsgálatának igazgatási szolgáltatási díjait, valamint
+d) a geodéziai tervezői, valamint a geodéziai szakértői minősítési eljárással kapcsolatos igazgatási szolgáltatási díját,
 
-e) a térképi alapú nyilvántartási és térinformatikai rendszerek, valamint a sokszorosított térképek kiadásához felhasznált állami alapadatok adatfelhasználási díját.
+e) az alaphálózati pontok pótlása vagy áthelyezése állami átvételének igazgatási szolgáltatási díjait,
+
+f) a levegőből végzett távérzékeléssel kapcsolatos egyes eljárások igazgatási szolgáltatási díjait,
+
+g) az ingatlan-nyilvántartási és egyéb célú földmérési és térképészeti munkák hatósági vizsgálatának igazgatási szolgáltatási díjait, valamint
+
+h) a térképi alapú nyilvántartási és térinformatikai rendszerek, valamint a sokszorosított térképek kiadásához felhasznált állami alapadatok adatfelhasználási díját.
+
+[^1]: Az 1. § a 2/2016. (I. 7.) FM rendelet 6. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés h) pontja a 2/2016. (I. 7.) FM rendelet 6. § 2. pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdése a 2/2016. (I. 7.) FM rendelet 1. §-ával megállapított szöveg.

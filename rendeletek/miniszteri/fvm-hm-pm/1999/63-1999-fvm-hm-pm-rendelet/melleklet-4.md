@@ -52,7 +52,7 @@
 
 ## * A megfelelő rész aláhúzandó vagy kitöltendő!
 
-4. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^41]
+4. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^53]
 
 |  | A | B |
 
@@ -104,4 +104,4 @@
 
 | 23. | Nemzeti Kataszteri Program Nonprofit Korlátolt Felelősségű Társaság | 10032000-00286576-00000017 |
 
-[^41]: A 4. számú mellékletet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. § (2) bekezdése iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^53]: A 4. számú mellékletet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. § (2) bekezdése iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 2. § (4) bekezdésével megállapított szöveg.

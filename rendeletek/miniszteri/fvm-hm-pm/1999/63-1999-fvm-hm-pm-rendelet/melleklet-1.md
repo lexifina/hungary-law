@@ -1,4 +1,4 @@
-1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^38]
+1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^47]
 
 ## Igazgatási szolgáltatási díjak
 
@@ -110,7 +110,7 @@ földmérési munkarészekről
 
 | 36–2. | Forgalomból kivont földmérési alaptérkép munkarészeiről | A/4 lap | 200 |
 
-| 37. | Záradékolt sajátos célú földmérési munkarészekről | A/4 lap | 200 |
+| 37. | Záradékolt ingatlan-nyilvántartási célú földmérési munkarészekről | A/4 lap | 200 |
 
 | 38. | Egyéb földmérési munkarészek | A/4 lap | 200 |
 
@@ -130,7 +130,7 @@ e) A 32–33. és a 34–1. tételszámok esetében egy térképszelvényen bel�
 
 f) Az adatszolgáltatás papír adathordozóra történik. Ettől eltérő adathordozóra történő adatszolgáltatás esetében a díjtételt 50%-kal növelni lehet.
 
-4. A földrészletek méréséhez, kitűzéséhez és megosztásához szükséges adatok összevont díjtételei
+4. A földrészletek méréséhez, kitűzéséhez és megosztásához, valamint egyéb önálló ingatlanok alaprajzainak készítéséhez, módosításához szükséges adatok összevont díjtételei
 
 | Tételszám | Az adat megnevezése | A földrészlet területe | Díjtétel (Ft/földrészlet) |
 
@@ -142,7 +142,7 @@ f) Az adatszolgáltatás papír adathordozóra történik. Ettől eltérő adath
 
 | 41–13. |  | 50 ha felett– 100 ha-ig | 9 000 |
 
-| 41–2. | Földrészlet(ek)en belüli mérések (épületfeltüntetési vázrajz, művelési ág változás, szolgalmi jog stb.) elvégzéséhez szükséges valamennyi adat |  |  |
+| 41–2. | Földrészlet(ek)en belüli mérések (épületfeltüntetési vázrajz, művelési ág változás, szolgalmi jog, egyéb önálló ingatlanok alaprajzai, stb.) elvégzéséhez szükséges valamennyi adat |  |  |
 
 | 41–21. |  | 0–10 ha-ig | 2 000 |
 
@@ -209,6 +209,74 @@ b) 52–2. pont szerinti ellenőrzés során visszatartandó légifilm-negatívo
 c) Az igénylő a költségére beszerzett adatoknak az adatszolgáltató által harmadik félnek való forgalmazásából – előzetes megegyezés esetén – részesedhet.
 
 d) A nagyfelbontású űrfelvételek, valamint távérzékelt adatok szolgáltatásáért fizetendő díjat a FÖMI Távérzékelési Központja, illetve a HM Zrínyi Nonprofit Kft. állapítja meg.
+
+5a. Digitális légi távérzékelési adatbázisok igazgatási szolgáltatási díjai
+
+| Tételszám | A szolgáltatott adat (termék) megnevezése | Egység | Díjtétel (Ft) |
+
+| 53-1. | Légi távérzékeléssel készített légifelvételek, ha a felvétel az adatszolgáltatás évében vagy azt megelőző évben készült. | db | 21 200 Ft |
+
+| 53-2. | Légi távérzékeléssel készített légifelvételek, ha a felvétel az adatszolgáltatást megelőző másodiktól ötödik évben készült. | db | 11 000 Ft |
+
+| 53-3. | Légi távérzékeléssel készített légifelvételek, ha a felvétel az adatszolgáltatást megelőző ötödik éven túl, de tizedik éven belül készült. | db | 5 600 Ft |
+
+| 53-4. | Légi távérzékeléssel készített fekete-fehér légifelvételek, ha a felvétel az adatszolgáltatást megelőző tizedik éven túl készült. | db | 4 300 Ft |
+
+| 53-5. | Légi távérzékeléssel készített színes légifelvételek, ha a felvétel az adatszolgáltatást megelőző tizedik éven túl készült. | db | 5 900 Ft |
+
+| 53-6. | Légi távérzékeléssel készített légifelvételek nagyításának szolgáltatása papír hordozóra | db | 8 000 Ft |
+
+| 54-1. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatás évében vagy azt megelőző évben készült és az adatszolgáltatás kevesebb, mint 10 000 km2 területről történik | km2 | 4 000 Ft |
+
+| 54-2. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatás évében vagy azt megelőző évben készült és az adatszolgáltatás legalább 10 000 km2, de kevesebb, mint 30 000 km2 területről történik | km2 | 3 600 Ft |
+
+| 54-3. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatás évében vagy azt megelőző évben készült és az adatszolgáltatás legalább 30 000 km2, de kevesebb, mint 50 000 km2 területről történik | km2 | 3 200 Ft |
+
+| 54-4. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatás évében vagy azt megelőző évben készült és az adatszolgáltatás legalább 50 000 km2, de kevesebb, mint 70 000 km2 területről történik | km2 | 2 800 Ft |
+
+| 54-5. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatás évében vagy azt megelőző évben készült és az adatszolgáltatás legalább 70 000 km2 területről történik | km2 | 2 400 Ft |
+
+| 54-6. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző második évben készült és az adatszolgáltatás kevesebb, mint 10 000 km2 területről történik | km2 | 3 500 Ft |
+
+| 54-7. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző második évben készült és az adatszolgáltatás legalább 10 000 km2, de kevesebb, mint 30 000 km2 területről történik | km2 | 3 200 Ft |
+
+| 54-8. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző második évben készült és az adatszolgáltatás legalább 30 000 km2, de kevesebb, mint 50 000 km2 területről történik | km2 | 2 800 Ft |
+
+| 54-9. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző második évben készült és az adatszolgáltatás legalább 50 000 km2, de kevesebb mint 70 000 km2 területről történik | km2 | 2 400 Ft |
+
+| 54-10. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző második évben készült és az adatszolgáltatás legalább 70 000 km2 területről történik | km2 | 2 100 Ft |
+
+| 54-11. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző harmadik évben készült és az adatszolgáltatás kevesebb, mint 10 000 km2 területről történik | km2 | 3 000 Ft |
+
+| 54-12. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző harmadik évben készült és az adatszolgáltatás legalább 10 000 km2, de kevesebb, mint 30 000 km2 területről történik | km2 | 2 700 Ft |
+
+| 54-13. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző harmadik évben készült és az adatszolgáltatás legalább 30 000 km2, de kevesebb, mint 50 000 km2 területről történik | km2 | 2 400 Ft |
+
+| 54-14. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző harmadik évben készült és az adatszolgáltatás legalább 50 000 km2, de kevesebb, mint 70 000 km2 területről történik | km2 | 2 100 Ft |
+
+| 54-15. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző harmadik évben készült és az adatszolgáltatás legalább 70 000 km2 területről történik | km2 | 1 800 Ft |
+
+| 54-16. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző negyedik évben készült és az adatszolgáltatás kevesebb, mint 10 000 km2 területről történik | km2 | 2 500 Ft |
+
+| 54-17. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző negyedik évben készült és az adatszolgáltatás legalább 10 000 km2, de kevesebb, mint 30 000 km2 területről történik | km2 | 2 200 Ft |
+
+| 54-18. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző negyedik évben készült és az adatszolgáltatás legalább 30 000 km2, de kevesebb, mint 50 000 km2 területről történik | km2 | 2 000 Ft |
+
+| 54-19. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző negyedik évben készült és az adatszolgáltatás legalább 50 000 km2, de kevesebb, mint 70 000 km2 területről történik | km2 | 1 700 Ft |
+
+| 54-20. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző negyedik évben készült és az adatszolgáltatás legalább 70 000 km2 területről történik | km2 | 1 500 Ft |
+
+| 54-21. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző ötödik éven túl, de tizedik éven belül készült és az adatszolgáltatás kevesebb, mint 10 000 km2 területről történik | km2 | 1 100 Ft |
+
+| 54-22. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző ötödik éven túl, de tizedik éven belül készült és az adatszolgáltatás legalább 10 000 km2, de kevesebb, mint 30 000 km2 területről történik | km2 | 900 Ft |
+
+| 54-23. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző ötödik éven túl, de tizedik éven belül készült és az adatszolgáltatás legalább 30 000 km2, de kevesebb, mint 50 000 km2 területről történik | km2 | 800 Ft |
+
+| 54-24. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző ötödik éven túl, de tizedik éven belül készült és az adatszolgáltatás legalább 50 000 km2, de kevesebb, mint 70 000 km2 területről történik | km2 | 700 Ft |
+
+| 54-25. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző ötödik éven túl, de tizedik éven belül készült és az adatszolgáltatás legalább 70 000 km2 területről történik | km2 | 600 Ft |
+
+Megjegyzés: Az 54-1–54-25. sorokban szereplőektől eltérő műszaki paraméterekkel rendelkező vagy eltérő fájl formátumban szolgáltatandó, az adatbázisban szereplő adatok nem szolgáltathatóak állami alapadatként.
 
 6. Adatfelhasználási díj a nyilvántartási, térinformatikai és tervezési rendszerek állami alapadat tartalmáért
 
@@ -282,7 +350,7 @@ e) A korábban megvásárolt teljes adatállomány időközi változásokkal val
 
 f) A 74. tételszám szerint szolgáltatott transzformációs együtthatót az adatigénylő az adott területen (egy körzeten belül egy településre) minden további munkájához felhasználhatja.
 
-g) Sajátos célú földmérési és térképészeti tevékenység végzéséhez a rendelkezésre álló vektoros adatállományokat kell felhasználni és ezen táblázat díjtételeit kell alkalmazni.
+g) Az ingatlan-nyilvántartási és egyéb célú földmérési és térképészeti tevékenység végzéséhez a rendelkezésre álló vektoros adatállományokat kell felhasználni és ezen táblázat díjtételeit kell alkalmazni.
 
 h) A Magyar Közigazgatási Határok adatbázisából történő, cm élességű koordináták szolgáltatása esetén a jelen táblázat díjtételeit kell alkalmazni.
 
@@ -378,4 +446,4 @@ f) Domborzatrajzot tartalmazó kiadvány esetén a vonatkozó díjtételt 20%-ka
 
 g) Digitális formában történő forgalmazásért a vonatkozó díjtételt 50%-kal növelni kell.
 
-[^38]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^47]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés k) pontja, a 2/2016. (I. 7.) FM rendelet 5. § (1) bekezdése és a 6. § 4., 8–10. pontja szerint módosított szöveg.
