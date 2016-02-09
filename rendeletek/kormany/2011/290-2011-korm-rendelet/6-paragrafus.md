@@ -64,13 +64,7 @@
 
 32. a nemzetgazdaság védelmi felkészítésének minisztériumi feladait,
 
-33.[^17] a nemzeti rendezvények koncepciójának kidolgozásával és végrehajtásával kapcsolatos feladatokat,
-
-34.[^18] a társadalmi kapcsolattartással, így különösen a Honvédség érdekképviseleti szerveivel történő együttműködéssel, a magyarországi vallási felekezetekkel történő kapcsolattartással, a katonai hagyományőrzéssel, továbbá a kulturális és katonai pályára-irányítással összefüggő feladatokat ellátó a felsőoktatási és köznevelési intézmény tevékenységével kapcsolatos feladatokat,
-
-35.[^19] a HM Tábori Lelkészi Szolgálat hivatali működésének felügyeletével kapcsolatos tevékenységet, és
-
-36.[^20] az ifjúságpolitika és az esélyegyenlőség Honvédséget érintő felső szintű feladatainak végrehajtását.
+33–36.[^17]
 
 (2) A közigazgatási államtitkár a minisztérium hivatali szervezetének vezetőjeként
 
@@ -98,7 +92,4 @@ f) gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközök
 [^14]: A 6. § (1) bekezdés 29. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^15]: A 6. § (1) bekezdés 30. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^16]: A 6. § (1) bekezdés 31. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^17]: A 6. § (1) bekezdés 33. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^18]: A 6. § (1) bekezdés 34. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^19]: A 6. § (1) bekezdés 35. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^20]: A 6. § (1) bekezdés 36. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^17]: A 6. § (1) bekezdés 33–36. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be, a 6/2016. (II. 8.) Korm. rendelet 3. §-a hatályon kívül helyezte.
