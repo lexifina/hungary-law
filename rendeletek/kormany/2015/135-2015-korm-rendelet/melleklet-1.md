@@ -1,4 +1,4 @@
-1. melléklet a 135/2015. (VI. 2.) Korm. rendelethez
+1. melléklet a 135/2015. (VI. 2.) Korm. rendelethez[^5]
 
 ÚTMUTATÓ AZ ELSZÁMOLHATÓ KÖLTSÉGEKRŐL
 
@@ -6,107 +6,101 @@
 
 Bevezetés
 
-Jelen Útmutató (a továbbiakban: Útmutató) a rendelet 1. §-a hatálya alá tartozó európai uniós források felhasználása kapcsán felmerülő költségek elszámolhatóságának szabályait határozza meg, a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelettel összhangban.
-
-A költségek a Belügyi Alapokra vonatkozóan meghatározott el nem számolható költségek kivételével a tagállam döntésétől függően számolhatók el, ezáltal az Európai Bizottság a tagállamok számára nagy mozgásteret biztosít a költségek elszámolhatósága kapcsán. Ugyanakkor ez nem jelenti azt, hogy minden, a „negatív listába” nem tartozó költség elszámolható lenne.
-
-Az Útmutató célja az elszámolhatósági elvek rögzítése, konkrétan meghatározva az el nem számolható költségek körét, valamint azt, hogy egyes költségek milyen feltételek mellett számolhatóak el.
-
-Az elszámolható költségek meghatározásakor a cél az, hogy az Útmutató azonos támogatási terület tekintetében azonos elszámolhatósági kritériumokat adjon meg.
+Jelen útmutató (a továbbiakban: Útmutató) a rendelet 1. §-a hatálya alá tartozó európai uniós források felhasználása kapcsán felmerülő költségek elszámolhatóságának szabályait határozza meg a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelettel összhangban. A költségek a Belügyi Alapokra vonatkozóan meghatározott el nem számolható költségek kivételével a tagállam döntésétől függően számolhatók el, ezáltal az Európai Bizottság a tagállamok számára nagy mozgásteret biztosít a költségek elszámolhatósága kapcsán. Ugyanakkor ez nem jelenti azt, hogy minden, a „negatív listába” nem tartozó költség elszámolható lenne. Az Útmutató célja az elszámolhatósági elvek rögzítése, konkrétan meghatározva az el nem számolható költségek körét, valamint azt, hogy egyes költségek milyen feltételek mellett számolhatóak el. Az elszámolható költségek meghatározásakor a cél az, hogy az Útmutató azonos támogatási terület tekintetében azonos elszámolhatósági kritériumokat adjon meg.
 
 1. Az elszámolhatóság általános szabályai
 
 1.1. Fogalom-meghatározások
 
-Beruházási jellegű projekt: azon projekt, amelynek fő célja eszközbeszerzés, ingatlan-beruházás vagy informatikai fejlesztés.
+1. Beruházási jellegű projekt: azon projekt, amelynek fő célja eszközbeszerzés, ingatlan-beruházás vagy informatikai fejlesztés.
 
-Bevétel: a projekt által a projekt támogathatósági időszaka során elért jövedelem.
+2. Bevétel: a projekt által a projekt támogathatósági időszaka során elért jövedelem.
 
-Célcsoport: a projekt eredményeiben részesülők személyi köre.
+3. Célcsoport: azon személyek, akik a projekt megvalósítása során létrejött terméket vagy szolgáltatást közvetlenül használják (közvetlen célcsoport), továbbá akik a projekt megvalósítása során létrejött termékből vagy szolgáltatásból közvetlenül nem részesülnek, azonban a projekt eredményei és hatásai helyzetüket befolyásolják (közvetett célcsoport).
 
-Egyszerűsített elszámolási módok: a horizontális rendelet 18. cikk (1) bekezdés b)–d) pontjai szerinti támogatási formák (egységköltség-alapú térítés, egyösszegű átalány, százalékban meghatározott átalányalapú finanszírozás).
+4. Egyéb közreműködő: a kedvezményezett alkalmazásában nem álló szakmai megvalósításban közreműködők, önkéntesek.
 
-Elszámolható költség: az Útmutató által elszámolhatónak minősített költség, amely
+5. Egyszerűsített elszámolási módok: a horizontális rendelet 18. cikk (1) bekezdés b)–d) pontjai szerinti támogatási formák (egységköltség-alapú térítés, egyösszegű átalány, százalékban meghatározott átalányalapú finanszírozás).
 
-– a támogatási szerződésben rögzítésre került, és közvetlenül a támogatás céljával összefüggésben merült fel;
+6. Elszámolható költség: az Útmutató által elszámolhatónak minősített költség, amely
 
-– az Útmutató 1.2. pontja szerinti elszámolhatósági időszakban ténylegesen felmerült és a támogatási szerződés (pályázati kiírás) szerinti elszámoló bizonylattal alátámasztott;
+a) a támogatási szerződésben rögzítésre került és közvetlenül a támogatás céljával összefüggésben merült fel;
 
-– a horizontális rendelet nem nevesíti, mint nem elszámolható költséget;
+b) az Útmutató 1.2. pontja szerinti elszámolhatósági időszakban ténylegesen felmerült és elszámoló bizonylattal alátámasztott;
 
-– megfelel az Útmutatóban rögzített feltételeknek, és
+c) megfelel az Útmutatóban rögzített feltételeknek és a pályázati kiírás elszámolható költségként nevesíti;
 
-– a pályázati kiírás elszámolható költségként nevesíti.
+d) nem kerül nevesítésre, mint nem elszámolható költség.
 
-Költség: az Útmutató értelmezésében minden olyan tétel, ami a megvalósítani kívánt/megvalósuló projekt költségvetésében megjelenik, beleértve a projektvégrehajtás során felmerült változásokat is.
+7. Költség: az Útmutató értelmezésében minden olyan tétel, ami a projekt költségvetésében megjelenik, beleértve a projektvégrehajtás során felmerült változásokat is.
 
-Összköltség: a támogatott projekt összes felmerülő, a Felelős Hatóság felé elszámolható és el nem számolható költsége.
+8. Mérföldkő: a projekt megvalósítása szempontjából jelentős időpont, esemény vagy a projekt megvalósítása révén elért szakmai vagy műszaki eredmény.
 
-Technikai Segítségnyújtás: a Felelős Hatóság vagy az audit hatóság által az intézményrendszer működtetése érdekében felhasznált forráskeret.
+9. Működési célú támogatás: a Belső Biztonsági Alap részét képező, a külső határok és a vízumügy pénzügyi támogatására szolgáló eszköz létrehozásáról és az 574/2007/EK határozat hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 515/2014/EU Rendeletének III. mellékletében meghatározott célkitűzésekre irányuló tevékenységek.
 
-Valós költségek: magukban foglalják a tételes költségelszámolással és az egyszerűsített elszámolási módok valamelyikével (elszámoló bizonylatok nélkül) elszámolt költségeket is.
+10. Összköltség: a támogatott projekt összes felmerülő, a Felelős Hatóság felé elszámolható és el nem számolható költsége.
 
-Tételes, dokumentum alapú elszámolás: a költségek teljesülésének és jogalapjuknak elszámoló bizonylattal történő elszámolása.
+11. Technikai Segítségnyújtás: a Felelős Hatóság vagy az audit hatóság által az intézményrendszer működtetése érdekében felhasznált forráskeret.
 
-Üzemeltetési kötelezettség időtartama: a projektmegvalósítási és a projektfenntartási időszak együttes időtartama.
+12. Tételes, dokumentum alapú elszámolás: a kedvezményezetteknél ténylegesen felmerült, teljesített, tehát valós munkára alapozott költségek esetén alkalmazott elszámolás, amelynek során a teljesítés elszámoló bizonylattal, míg jogalapja szerződéssel, írásbeli megrendelővel, közigazgatási határozattal vagy ezekkel azonos bizonyító erejű dokumentummal igazolható.
+
+13. Üzemeltetési kötelezettség időtartama: a projektmegvalósítási és a projektfenntartási időszak együttes időtartama.
+
+14. Valós költségek: magukban foglalják a tételes költségelszámolással és az egyszerűsített elszámolási módok valamelyikével (elszámoló bizonylatok nélkül) elszámolt költségeket is.
 
 1.2. Elszámolhatósági időszak
 
-A horizontális rendelet 17. cikkének (3) bekezdése értelmében a projekttel kapcsolatos költségeknek 2014. január 1. és 2022. december 31. között kell felmerülniük.
-
-A fenti hivatkozás alapján a költségek csakis abban az esetben finanszírozhatók az alapokból, ha a Felelős Hatóság 2014. január 1. és 2023. június 30. között meg is téríti azokat a kedvezményezettek felé.
-
-Megkezdett projekt abban az esetben részesülhet támogatásban, ha a támogatási kérelem benyújtásakor nem minősül fizikailag befejezettnek, továbbá a jelen jogszabályban és a pályázati kiírásban meghatározott feltételeknek megfelel.
+A horizontális rendelet 17. cikk (3) bekezdése értelmében a projekttel kapcsolatos költségeknek 2014. január 1. és 2022. december 31. között kell felmerülniük. A fenti hivatkozás alapján a költségek csakis abban az esetben finanszírozhatók az alapokból, ha a Felelős Hatóság 2014. január 1. és 2023. június 30. között meg is téríti azokat a kedvezményezettek felé. Megkezdett projekt abban az esetben részesülhet támogatásban, ha a támogatási kérelem benyújtásakor nem minősül fizikailag befejezettnek, továbbá a jelen jogszabályban és a pályázati kiírásban meghatározott feltételeknek megfelel.
 
 A támogatott projektek esetében a pályázati kiírások a jelen pont szerinti általános elszámolhatósági időszakon belül szűkebb időtartamot is meghatározhatnak.
 
 1.3. Az elszámolhatóság alapelvei és feltételei
 
-1.3.1. Alapelvek:
+1.3.1. Alapelvek
 
-A pályázati kiírásokban az Útmutatóban foglaltakat kell alkalmazni. Ha a hatékony forrásfelhasználás megköveteli, a Felelős Hatóság az elszámolhatósági szabályokat az adott pályázati kiírás céljához testre szabva szűkítheti, a fejlesztés céljától függően részletezheti, specifikálhatja a keret jellegű szabályozáshoz képest (pl. a fejlesztés jellegéhez igazodva kizárhat egyes költségtételeket, vagy feltételhez kötheti azok elszámolását). Az egyszerűsített elszámolási módok alapján történő elszámolás alkalmazásának lehetőségét a Felelős Hatóság eseti jelleggel, pályázati kiírásonként állapítja meg. Így előfordulhat, hogy az Útmutatóban felsorolt költség adott projekt esetében egyáltalán nem számolható el, vagy csak bizonyos felső korlátig számolható el.
+A pályázati kiírásokban az Útmutatóban foglaltakat kell alkalmazni. Ha a hatékony forrásfelhasználás megköveteli, a Felelős Hatóság az elszámolhatósági szabályokat az adott pályázati kiírás céljához testre szabva szűkítheti, a fejlesztés céljától függően részletezheti, specifikálhatja a keret jellegű szabályozáshoz képest (pl. a fejlesztés jellegéhez igazodva kizárhat egyes költségtételeket, vagy feltételhez kötheti azok elszámolását). Az Útmutató egyes költségtípusok tekintetében meghatározza azoknak a projektek keretében maximálisan elszámolható arányát az összes elszámolható közvetlen költséghez viszonyítva. Ezen arányokat növelni nem lehet, kivéve, ahol azt az Útmutató kifejezetten megengedi. Ezen túlmenően a pályázati kiírás határozhat meg további korlátozásokat.
 
-Az Útmutató egyes költségtípusok tekintetében meghatározza azoknak a projektek keretében maximálisan elszámolható arányát az összes elszámolható költséghez viszonyítva. Ezen arányokat növelni – kivéve, ahol azt az Útmutató kifejezetten megengedi – nem lehet. Ezen túlmenően a pályázati kiírás határozhat meg további korlátozásokat.
-
-Kötelező az egyszerűsített költség elszámolási módok alkalmazása azon költségtípusoknál, amelyeknél a pályázati kiírás erre vonatkozó szabályozást tartalmaz.
+Az egyszerűsített elszámolási módok alapján történő elszámolás alkalmazásának lehetőségét a Felelős Hatóság eseti jelleggel, pályázati kiírásonként állapítja meg. Így előfordulhat, hogy az Útmutatóban felsorolt költség adott projekt esetében egyáltalán nem számolható el vagy csak bizonyos felső korlátig számolható el. Kötelező az egyszerűsített költségelszámolási módok alkalmazása azon költségtípusoknál, amelyeknél a pályázati kiírás erre vonatkozó szabályozást tartalmaz.
 
 Az értékcsökkenés és az önköltség alapú elszámolás kivételével a kifizetést banki átutalással, kivételes esetben készpénzben kell lebonyolítani.
 
 Közbeszerzés útján beszerzett eszközök és szolgáltatások költségei csak tételes, dokumentumon alapuló elszámolással finanszírozhatóak.
 
-1.3.2. Az elszámolhatóság általános feltételei:
+Az uniós támogatásból beszerzett tárgyi eszközök után, valamint a beruházások esetében értékcsökkenés nem számolható el a projekt keretében.
 
-Csak olyan költségek számolhatóak el, és csak olyan költségekre fizethető ki támogatás, amelyek megfelelnek a következő feltételeknek:
+1.3.2. Az elszámolhatóság általános feltételei
 
-– a Nemzeti Program keretében rögzített egyedi és nemzeti célkitűzések megvalósítása érdekében merülnek fel;
+A kedvezményezett köteles a projekt megvalósítása során az Európai Unió Alapjogi Chartájában rögzített jogokat és alapvető elveket, továbbá az Európai Unió horizontális politikáinak szempontjait, különösen a fenntartható fejlődés, az esélyegyenlőség, a környezetvédelem, közbeszerzési és versenyjogi szabályokat érvényesítve eljárni.
 
-– az alapok specifikus rendeleteiben felsorolt támogatható intézkedések[^1] megvalósítása érdekében merülnek fel;
+Csak olyan költségek számolhatóak el és csak olyan költségekre fizethető ki támogatás, amelyek megfelelnek a következő feltételeknek:
 
-– főszabály szerint a kedvezményezetteknél ténylegesen felmerültek, teljesítettek, tehát valós munkára alapozottak, és teljesülésük elszámoló bizonylattal, míg jogalapjuk szerződéssel, írásbeli megrendelővel, közigazgatási határozattal, vagy ezekkel azonos bizonyító erejű dokumentummal igazolhatók (tételes, dokumentum alapú elszámolás). Előlegek esetében nincs szükség a teljesítés igazolására. Az egyszerűsített elszámolási módok alapján történő támogatás kifizetése teljesíthető, ha az így elszámolt költségek az Európai Bizottság által – vagy szükség szerint nemzeti szinten – elfogadott módszertant és a számviteli szabályozást is magukban foglaló nemzeti szabályokkal összhangban merültek fel;
+a) a Nemzeti Program keretében rögzített egyedi és nemzeti célkitűzések megvalósítása érdekében merülnek fel;
 
-– teljes összegben az 1.2. pontban rögzített elszámolhatósági időszak során kerültek kifizetésre. Kifizetett költségnek minősül a 2.2.8. alpontja szerinti értékcsökkenési leírás, valamint az állammal vagy önkormányzattal szemben adó- vagy járulék-elszámolás keretében beszámításra került kötelezettség. Kifizetett költségnek minősül továbbá a szállítói finanszírozású számlának a projekt megvalósításához igénybe vett harmadik személlyel kötött szerződés alapján a megrendelőnek járó kötbér vagy késedelmi kamat beszámítása miatt pénzügyileg nem rendezett része. A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:49. §-a szerinti beszámítás alapján történő kompenzáció kizárólag e nevesített esetekben fogadható el;
+b) az alapok specifikus rendeleteiben felsorolt támogatható intézkedések[^6] megvalósítása érdekében merülnek fel;
 
-– a támogatott projekt kapcsán merültek fel, a projekt céljainak eléréséhez, illetve végrehajtásához szükséges, és a projekt elfogadott költségvetésében, valamint annak hatályos módosításában betervezésre kerültek. A költségek csak olyan mértékben számolhatók el, amilyen mértékben a támogatott projekthez kapcsolódnak, ill. amilyen mértékben annak célját szolgálják, ennek alátámasztása a kedvezményezett kötelezettsége;
+c) főszabály szerint a kedvezményezetteknél ténylegesen felmerültek, teljesítettek, tehát valós munkára alapozottak és teljesülésük elszámoló bizonylattal, míg jogalapjuk szerződéssel, írásbeli megrendelővel, közigazgatási határozattal vagy ezekkel azonos bizonyító erejű dokumentummal igazolhatók (tételes, dokumentum alapú elszámolás). Előlegek esetében nincs szükség a teljesítés igazolására. Az egyszerűsített elszámolási módok alapján történő támogatás kifizetése teljesíthető, ha az így elszámolt költségek az Európai Bizottság által – vagy Felelős Hatóság szintjén – elfogadott módszertannal összhangban merültek fel;
 
-– ésszerűek, és megfelelnek a hatékony és eredményes pénzgazdálkodás elvének, különös tekintettel az ár-érték arányra és a költséghatékonyságra;
+d) teljes összegben az 1.2. pontban rögzített elszámolhatósági időszak során merültek fel. Kifizetett költségnek minősül a 2.2.5. alpontja szerinti értékcsökkenési leírás, valamint az állammal vagy önkormányzattal szemben adó- vagy járulék-elszámolás keretében beszámításra került kötelezettség. Kifizetett költségnek minősül továbbá a szállítói finanszírozású számlának a projekt megvalósításához igénybe vett harmadik személlyel kötött szerződés alapján a megrendelőnek járó kötbér vagy késedelmi kamat beszámítása miatt pénzügyileg nem rendezett része. A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti beszámítás alapján történő kompenzáció kizárólag e nevesített esetekben fogadható el;
 
-– a költségszámítás alapjául szolgáló egységárak nem haladják meg a szokásos piaci árat (pl. a közbeszerzési eljárás alapján megkötött szerződésben rögzített árat, több potenciális ajánlattevőtől történő ajánlatkérés keretében beérkezett ajánlatok alapján kialakult árat, vagy a Felelős Hatóság által előzetesen meghatározott fajlagos mutatókat). A projekt költségvetésének megfelelően részletezettnek és ily módon ellenőrizhetőnek kell lennie ahhoz, hogy meghatározható legyen az elszámolható költség beazonosítása. Az egyes költségek elszámolása alkalmával nem kerülhet sor kettős finanszírozásra;
+e) a támogatott projekt kapcsán merültek fel, a projekt céljainak eléréséhez, illetve végrehajtásához szükséges, és a projekt elfogadott költségvetésében, valamint annak hatályos módosításában betervezésre kerültek. A költségek csak olyan mértékben számolhatók el, amilyen mértékben a támogatott projekthez kapcsolódnak, illetve amilyen mértékben annak célját szolgálják, ennek alátámasztása a kedvezményezett kötelezettsége;
 
-– a projekt előkészítése, végrehajtása érdekében merültek fel;
+f) ésszerűek és megfelelnek a hatékony és eredményes pénzgazdálkodás elvének, különös tekintettel az ár-érték arányra és a költséghatékonyságra;
 
-– az adott projektben elszámolható költségek körét a pályázati kiírás tartalmazza, és a költségek nem szerepelnek az Útmutató, valamint a pályázati kiírás által nem elszámolhatónak minősített költségek között;
+g) a költségszámítás alapjául szolgáló egységárak nem haladják meg a szokásos piaci árat (például a közbeszerzési eljárás alapján megkötött szerződésben rögzített árat, több potenciális ajánlattevőtől történő ajánlatkérés keretében beérkezett ajánlatok alapján kialakult árat vagy a Felelős Hatóság által előzetesen meghatározott egység árat). A projekt költségvetésének megfelelően részletezettnek és ily módon ellenőrizhetőnek kell lennie ahhoz, hogy meghatározható legyen az elszámolható költség beazonosítása. Az egyes költségek elszámolása alkalmával nem kerülhet sor kettős finanszírozásra;
 
-– az elszámolhatóság időszakában, ezen belül a támogatási szerződésben rögzített projekt fizikai befejezés határidejéig merültek fel. Ha a felek részletfizetésben vagy határozott időre szóló elszámolásban állapodtak meg, és az általános forgalmi adóról szóló 2007. évi CXXVII. törvény alapján a teljesítés napja későbbi, mint a projekt fizikai befejezése, a számla kiállítási dátumának a támogatási szerződés szerinti projekt megvalósítás időszakán belül kell lennie;
+h) a projekt előkészítése, végrehajtása érdekében merültek fel;
 
-– a kiadás az alapok specifikus rendeleteiben meghatározott célcsoporthoz kapcsolódik;
+i) az adott projektben elszámolható költségek körét a pályázati kiírás tartalmazza és a költségek nem szerepelnek az Útmutató, valamint a pályázati kiírás által nem elszámolhatónak minősített költségek között;
 
-– a pályázati kiírásban meghatározott földrajzi területen a projekt előkészítése, végrehajtása érdekében merültek fel;
+j) az elszámolhatóság időszakában, ezen belül a támogatási szerződésben rögzített projekt fizikai befejezés határidejéig merültek fel;
 
-– egyéb uniós szintű horizontális politikák feltételeit teljesítik, tehát a projekt végrehajtása során a kedvezményezett betartotta pl. a közbeszerzési, versenyjogi, környezetvédelmi, esélyegyenlőségi szabályokat.
+k) a kiadás az alapok specifikus rendeleteiben meghatározott célcsoporthoz kapcsolódik;
+
+l) a pályázati kiírásban meghatározott földrajzi területen a projekt előkészítése, végrehajtása érdekében merültek fel.
 
 1.3.3. A projektek finanszírozási forrásai
 
-A támogatott projektek finanszírozása uniós hozzájárulás, nemzeti költségvetési forrásból nyújtott támogatás (együtt: nyújtott támogatás), a kedvezményezett elszámolható és nem elszámolható hozzájárulásai, valamint a projekt keretében keletkezett – tervezett és nem tervezett – bevételek által történik.
+A támogatott projektek finanszírozása az uniós hozzájárulás, a nemzeti költségvetési forrásból nyújtott támogatás (együtt: nyújtott támogatás), a kedvezményezett elszámolható és nem elszámolható hozzájárulásai, valamint a projekt keretében keletkezett – tervezett és nem tervezett – bevételek által történik.
 
 1.3.4. A bevétel és a nonprofit elv
 
@@ -116,23 +110,19 @@ A projekt jóváhagyásának időpontjában figyelembe nem vett, a projekt végr
 
 Az elszámolásra kerülő egységárak nem haladhatják meg a szokásos piaci árat. A piaci ár bizonyítása a kedvezményezett feladata és felelőssége.
 
-A piaci ár igazolására főszabály szerint közbeszerzési eljárásban, vagy más eljárástípus keretében beszerzett javak és szolgáltatások esetén maga az eljárás dokumentumai szolgálnak.
+Közbeszerzési eljárásban, valamint a hatályos közbeszerzésekről szóló törvény felhatalmazása alapján kiadott jogszabályban meghatározott eljárás keretében történő beszerzés esetén a piaci ár igazolására főszabály szerint maga az eljárás dokumentumai szolgálnak.
 
-Közbeszerzési kötelezettség hiányában nettó 1 000 000 Ft feletti beszerzés esetén a vállalkozó kiválasztásához, a piaci árnak való megfelelés biztosításához a kedvezményezettnek legalább három, azonos tárgyú, és azonos igényeket/feltételeket megszabó, írásos ajánlatot kell kérnie. Az ajánlatok nem lehetnek a szerződéskötés időpontjához képest hat hónapnál régebbiek. A beérkezett ajánlatok alapján azt a gazdasági szereplőt kell nyertesnek nyilvánítani, aki az ajánlattételi pályázati kiírásban feltüntetett értékelési szempont szerint a legkedvezőbb érvényes ajánlatot nyújtotta be.
+Közbeszerzési kötelezettség hiányában a nettó 1 000 000 Ft feletti értékű beszerzés esetén a piaci árnak való megfelelés biztosításához a kedvezményezettnek a beszerzés tárgyának értékére vonatkozó piackutatást kell elvégeznie vagy legalább három, azonos tárgyú és azonos igényeket/feltételeket megszabó, független gazdasági szereplőktől származó írásos ajánlatot kell bekérnie. Az ajánlatok nem lehetnek a szerződéskötés időpontjához képest hat hónapnál régebbiek. A beérkezett ajánlatok alapján azt a gazdasági szereplőt kell nyertesnek nyilvánítani, aki az eljárást megindító felhívásban feltüntetett értékelési szempont szerint a legkedvezőbb érvényes ajánlatot nyújtotta be.
 
-A kiválasztás során a kedvezményezettnek a versenyt és a költséghatékonysági szempontokat megfelelően biztosítania kell.
+A nyertes ajánlattevő kiválasztása során a kedvezményezettnek a versenyt és a költséghatékonysági szempontokat megfelelően biztosítania kell.
 
-A fenti összeghatár alatti beszerzés esetén a Felelős Hatóság részére csupán egy árajánlat bemutatása szükséges. A nyílt kereskedelmi forgalomban kapható eszközök esetén az írásos ajánlat kiváltható a beszerzés időpontjában fél évnél nem régebbi árlista bemutatásával (pl. forgalmazó cégek honlapja).
+A nettó 1 000 000 Ft alatti beszerzés esetén elegendő csupán egy ajánlat bekérése, amelyet a Felelős Hatóság részére be kell mutatni. A nyílt kereskedelmi forgalomban kapható eszközök beszerzése esetén az írásos ajánlat kiváltható a beszerzés időpontjában fél évnél nem régebbi árlista bemutatásával (pl. forgalmazó cégek honlapja).
 
-A piaci árat megfelelően támasztja alá különösen
+A piaci ár alátámasztásaként nem fogadható el nem valódi verseny eredményeként született ajánlat, amely esetében pl. az ajánlattevő és a kedvezményezett, valamint azok tagjai között függőségi viszony áll fent (például rokoni kapcsolat mutatható ki az ajánlatkérő és az ajánlattevő között, tulajdonosi viszonyok összefonódása) vagy nem potenciális ajánlattevőktől kér a kedvezményezett ajánlatot.
 
-a) közbeszerzési eljárásban vagy a hatályos közbeszerzésekről szóló törvény felhatalmazása alapján kiadott jogszabályban meghatározott eljárás keretében történő beszerzés esetén az eljárás dokumentációja;
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet előírásaival összhangban a kedvezményezettnek nem szükséges írásbeli ajánlatot bekérnie a 100 000 Ft értéket el nem érő értékű beszerzéseit illetően. Ettől a kivételtől eltekintve azonban az ajánlatok benyújtásától eltérni csak a Felelős Hatóság egyedi engedélye alapján, a beszerzendő eszköz vagy szolgáltatás egyedi jellegének alátámasztásával lehet (például hatósági monopólium, közüzemi szolgáltatás).
 
-b) közbeszerzési értékhatár alatti eljárások esetén írásos ajánlat bekérése legalább három független gazdasági szereplőtől, piackutatás a beszerzés tárgyának értékére vonatkozóan.
-
-A piaci ár alátámasztásaként nem fogadható el nem valódi verseny eredményeként született árajánlat, amely esetében pl. az ajánlattevő és a kedvezményezett, valamint azok tagjai között függőségi viszony áll fent (pl. rokoni kapcsolat mutatható ki az ajánlatkérő és az ajánlattevő között, tulajdonosi viszonyok összefonódása) vagy nem potenciális ajánlattevőktől kér a kedvezményezett ajánlatot.
-
-Az árajánlatok benyújtásától eltérni csak a Felelős Hatóság egyedi engedélye alapján, a beszerzendő eszköz vagy szolgáltatás egyedi jellegének alátámasztásával lehet (pl. hatósági monopólium, közüzemi szolgáltatás).
+A kedvezményezett a beszerzés értékének – így az alkalmazandó kiválasztási eljárás – meghatározása során minden esetben köteles a részekre bontás tilalmára tekintettel eljárni.
 
 Az elszámolható személyi jellegű költség mértéke nem haladhatja meg az adott intézményben – a kedvezményezett nyilatkozata alapján – szokásos mértéket, valamint igazodnia kell az alkalmazásban állók esetén a szokásos jövedelmi viszonyokhoz.
 
@@ -142,9 +132,9 @@ A számviteli nyilvántartásokat zárt informatikai rendszerben, kettős könyv
 
 A kiadásnak azonosíthatónak és ellenőrizhetőnek kell lennie. Különösen
 
-a) meg kell felelnie a hatályos számviteli, adó és társadalombiztosítási szabályoknak;
+a) meg kell felelnie a hatályos számviteli, adó és társadalombiztosítási szabályoknak, továbbá
 
-b) továbbá a kedvezményezett szokásos költségszámítási módszereivel összhangban kell lennie.
+b) a kedvezményezett szokásos költségszámítási módszereivel összhangban kell lennie.
 
 Ha az egyszerűsített elszámolásra a Felelős Hatóság lehetőséget biztosít, azt a kedvezményezett a saját számviteli szabályozásának megfelelően köteles könyvelni, azonban elkülönített számviteli nyilvántartás vezetése ezen tételek esetén nem előírás.
 
@@ -156,15 +146,11 @@ Devizában megvalósuló kifizetések esetében devizaanalitika vezetése szüks
 
 1.4.1. Általános tartalék képzése
 
-Az építési beruházások (ideértve a felújítást is), működési célú támogatások és a Belső Biztonsági Alap szerinti közös műveletek vonatkozásában a projektben általános tartalék képezhető.
+A működési célú támogatások és a közös műveletek vonatkozásában a projektben általános tartalék képezhető.
 
-A tervezett általános tartalék az előre nem látható, elvárható gondos tervezés mellett nem tervezhető, de elszámolható költséget jelentő kiadások fedezetére szolgál. Az előre nem látható, és elvárható gondos tervezés mellett nem tervezhető kiadások fedezetén túlmenően csak abban az esetben használható fel a tartalék, ha a projekt alapvető céljainak teljesülését elősegítő, ésszerűsítést célzó, valós igényeken alapuló módosítások miatt pótlólagos műszaki tartalom megvalósítása válik szükségessé, melynek eredményeként a projekt keretében létrehozott szakmai tartalom kedvezőbb paraméterekkel bír (pl. tartósság, funkció, élettartam, terhelhetőség, kapacitás), ezáltal működtetése, fenntartása hatékonyabbá, költségtakarékosabbá válik.
+A tervezett általános tartalék az előre nem látható, elvárható gondos tervezés mellett nem tervezhető, de elszámolható költséget jelentő kiadások fedezetére szolgál.
 
-Nem számolhatóak el a projekt céljához nem kapcsolódó a kivitelezés során felmerülő túlzott többletigények, melyek nem elengedhetetlenül szükségesek a projekt megvalósításához és nem járulnak hozzá a pályázati kiírás céljainak megvalósításához.
-
-A tartaléknak a projekt összes elszámolható költségéhez viszonyított maximális arányát a pályázati kiírásban kell meghatározni, de az nem lehet több mint a projekt támogatási szerződésben meghatározott összes elszámolható költségének 10%-a.
-
-Ha a kedvezményezett kétséget kizáróan bizonyítani tudja, hogy a projekt biztonságos megvalósítása szükségessé teszi a magasabb tartalékösszeg képzését, a Felelős Hatóság egyedileg engedélyezheti.
+A tartaléknak a projekt összes elszámolható közvetlen költségéhez viszonyított maximális arányát – amely nem lehet több mint 10% – a pályázati kiírásban kell meghatározni.
 
 A tartalék csak a Felelős Hatóság előzetes engedélyével a projekt költségvetésén belül átcsoportosítással használható fel, a felhasználásra vonatkozó igényt a költségvetés módosítására vonatkozó bejelentéssel kell kezdeményezni.
 
@@ -174,59 +160,47 @@ A módosítás következtében a támogatási szerződésben rögzített támoga
 
 1.4.2. Előre nem tervezett többletköltségek finanszírozása
 
-Ha a projekt megvalósítása során olyan előre nem tervezett, és a kedvezményezett, valamint a vele szerződő, a projekt megvalósításához igénybe vett harmadik személy által előre nem látható – a szerződéskötés alapjául szolgáló dokumentációban nem szereplő – tevékenység (pl. pótmunka) költsége merül fel, amely megfelel az elszámolhatóság feltételeinek, a projekt eredeti célkitűzésének végrehajtásához és fenntarthatóságához elengedhetetlen, akkor ez a tevékenység támogatható.
+Az előre nem látható és a kedvezményezettnek fel nem róható okból szükséges többletköltségek csak előzetes bejelentéssel (a kedvezményezett kérelmére) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben rögzített feltételek teljesülése mellett számolhatók el (többlettámogatás), ha – a tervezés, pályáztatás vagy a támogatási szerződés megkötésének időpontjában előre nem látható ok miatt bekövetkező – változásból fakad, továbbá ha a projekt keretében lefolytatott közbeszerzési eljárás eredményeként válik szükségessé.
 
-Pótmunkaként[^2] csak olyan munkák költsége számolható el, amelyek nélkül a létesítmény rendeltetésszerűen nem használható, és amelyek az építési naplóban rögzítésre kerülnek.
+Többlettámogatás nyújtásáról, valamint annak összegéről – az esélyegyenlőség biztosítása mellett – a Felelős Hatóság ellenőrzését követően a Felelős Személy dönt. Az így megítélt többlettámogatás nem haladhatja meg a projekt teljes támogatási összegének 25%-át.
 
-Az előre nem tervezett többletköltségek csak előzetes bejelentéssel, az az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben rögzített feltételek teljesülése mellett számolhatók el, ha a támogatási szerződésben meghatározott műszaki, szakmai tartalom változásából fakad, továbbá ha a projekt keretében lefolytatott közbeszerzési eljárás eredményeként válik szükségessé.
-
-Közbeszerzési eljárás eredményeként létrejött szerződések esetében a szerződés módosításának szabályait – a műszaki tartalmat érintő (pl. pótmunka miatti) módosításokat is beleértve – a közbeszerzésekről szóló törvény, valamint – építési beruházások esetében – az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet 7. §-a határozza meg.
+Nem nyújtható többlettámogatás az adott projekt végrehajtásához, amennyiben a költségvetési törvényben, illetve a nemzeti programban rögzített források kimerülése alapján már nincs lehetőség, kivételt képez ez alól az államháztartásról szóló 2011. évi CXCV. törvényben meghatározott felhatalmazás.
 
 2. Az elszámolható közvetlen költségek részletes ismertetése
 
-Elszámolható közvetlen költség minden olyan, a Belügyi Alapok hozzájárulásából finanszírozható kiadás, amely a projekt végrehajtásához közvetlenül kapcsolódó sajátos költségként azonosítható.
-
-A közvetlen költségek esetében egyszerűsített elszámolási módon történő elszámolás alkalmazható, feltéve, hogy az adott költség nem közbeszerzés-köteles tevékenységből származik és ha azt a pályázati kiírás előírja.
-
-Ha a közvetlen költséghez közbeszerzési eljárás kapcsolódik, egyszerűsített elszámolási módon történő elszámolás nem alkalmazható, ugyanakkor a projekt terhére ebben az esetben sem számolható el közvetlen költség az összes elszámolható költséghez viszonyítva meghatározott százalékos korlátot meghaladóan. A kedvezményezett köteles a közvetlen költséghez kapcsolódó közbeszerzési eljárás dokumentumait ellenőrzés céljából benyújtani a Felelős Hatóság részére.
-
-A projekt összes elszámolható költségének csökkentése esetén az adott projektre megállapított flat rate is arányosan csökken.
-
 2.1. Előkészítés költségei
 
-Projekt előkészítés jogcímén az alábbi költségek számolhatók el:
+Előkészítés jogcímén a pályázati kiírásban meghatározott elszámolhatósági időszakban felmerülő, a projekt megvalósítása érdekében tervezett tevékenységek előkészítéséhez kapcsolódó költségek számolhatók el. Így különösen:
 
-– Jogszabály, hatóság, pályázati kiírás által előírt kötelező előzetes tanulmányok elkészítése:
+a) jogszabály, hatóság, pályázati kiírás által előírt kötelező előzetes tanulmányok elkészítése,
 
-= megvalósíthatósági tanulmány,
+b) megvalósíthatósági tanulmány,
 
-= környezeti hatásvizsgálat, előzetes vizsgálat, egységes környezethasználati engedélyhez kapcsolódó vizsgálat,
+c) környezeti hatásvizsgálat, előzetes vizsgálat, egységes környezethasználati engedélyhez kapcsolódó vizsgálat,
 
-= egyéb szükséges háttértanulmányok, szakvélemények.
+d) egyéb szükséges háttértanulmányok, szakvélemények,
 
-– Szükséges engedélyezési dokumentumok, műszaki tervek, kiviteli és tendertervek és ezek hatósági díjának (illeték, igazgatási szolgáltatási díj, egyéb eljárási költség) költségei (ideértve a művelési ág váltását, művelési ágból való kivétel adminisztratív költségét is).
+e) szükséges engedélyezési dokumentumok, műszaki tervek, kiviteli és tendertervek és ezek hatósági díjának (illeték, igazgatási szolgáltatási díj, egyéb eljárási költség) költségei (ideértve a művelési ág váltását, művelési ágból való kivétel adminisztratív költségét is),
 
-– Tervellenőr költsége, ha alkalmazása jogszabály alapján kötelező.
+f) tervellenőr költsége, ha alkalmazása jogszabály alapján kötelező,
 
-– Közbeszerzési költségek (ideértve a közbeszerzési szakértő díját is), mely nem lehet több a projekt összes elszámolható költségének 1%-ánál.
+g) közbeszerzési költségek (ideértve a közbeszerzési szakértő díját is), mely nem lehet több a projekt összes közvetlen elszámolható költségének 1%-ánál,
 
-– Előzetes igényfelmérés, célcsoport elemzése, piackutatás, szakértői hálózatépítés, szakértői műhelymunkák.
+h) előzetes igényfelmérés, célcsoport elemzése, piackutatás, szakértői hálózatépítés, szakértői műhelymunkák,
 
-– Szükségletfelmérés, helyzetfeltárás.
+i) szükségletfelmérés, helyzetfeltárás,
 
-– Társadalmi partnerek, érintettek bevonásával kapcsolatos költségek (ha a beruházás problémamentes megkezdéséhez indokolt, pl. helyi népszavazás, közmeghallgatás).
+j) társadalmi partnerek, érintettek bevonásával kapcsolatos költségek (ha a beruházás problémamentes megkezdéséhez indokolt, pl. helyi népszavazás, közmeghallgatás),
 
-– Előkészítéshez kapcsolódó egyéb szakértői tanácsadás.
+k) előkészítéshez kapcsolódó egyéb szakértői tanácsadás.
 
-Az előkészítés közbeszerzési költségeken kívüli összes elszámolható költsége nem haladhatja meg a projekt összes elszámolható költségének 5%-át.
+Az előkészítés közbeszerzési költségeken kívüli összes elszámolható költsége nem haladhatja meg a projekt összes elszámolható közvetlen költségének 5%-át.
 
 2.2. Beruházások
 
 Az Útmutató értelmezésében beruházás a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: Sztv.) meghatározottaknak megfelelő tevékenység.
 
-Beruházás költségei alatt az Útmutató a Sztv. hatálya alá tartozó kedvezményezettek esetében az Sztv. 47., 48. és 51. §-a által meghatározottakat, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. törvény) hatálya alá tartozó kedvezményezettek esetében az Szja. törvény 3. § 54. pontjában meghatározottakat érti a következő eltéréssel. Az Útmutató 6. címében a nem elszámolható költségek között felsorolt, egyébként az Sztv. szerint a beruházás bekerülési értékébe, illetve az Szja. törvény szerint a beruházási költségbe beletartozó költségek nem elszámolhatóak.
-
-Az Útmutató alapján elszámolhatósági szempontból a beruházás költségei között kell tervezni, és a monitoring és információs rendszerben nyilvántartani azokat az Sztv. 47., 48. és 51. §-a szerinti költségeket is, amelyek az államháztartás számviteléről szóló 4/2013. (I. 11.) számú Korm. rendelet (a továbbiakban: Áhsz.) hatálya alá tartozó szervezetek esetén az Áhsz. alapján nem képezi a beruházás bekerülési értékének részét.
+Beruházás költségei alatt az Útmutató a Sztv. hatálya alá tartozó kedvezményezettek esetében az Sztv. 47., 48. és 51. §-a által meghatározottakat, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. törvény) hatálya alá tartozó kedvezményezettek esetében az Szja. törvény 3. § 54. pontjában meghatározottakat, az államháztartási számvitel hatálya alá tartozó kedvezményezettek esetén az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet (a továbbiakban: Áhsz.) 15. és 16. §-a által meghatározottakat érti, azzal az eltéréssel, hogy az Útmutató 6. címében a nem elszámolható költségek között felsorolt, egyébként a jogszabályok szerint a beruházás bekerülési értékébe, illetve a beruházási költségbe beletartozó költségek nem elszámolhatóak.
 
 Beruházási költség idegen tulajdonban lévő tárgyi eszközön (ideértve a földterületet, ingatlant) is elszámolható lehet, ha a kedvezményezett az idegen tulajdon használatára vonatkozóan jogalappal rendelkezik, és megfelel a pályázati kiírásban megfogalmazott feltételeknek.
 
@@ -234,117 +208,97 @@ A projekt fenntartási kötelezettséget bérelt vagy idegen tulajdonban lévő 
 
 A beruházáshoz (beszerzett eszközhöz stb.) kapcsolódó képzés, betanítás költsége a beruházás bekerülési értékeként számolandó el.
 
-A lízing, a bérlet és a vásárlás közül mindig a legolcsóbb megoldást kell választani.
+A lízing, a bérlet és a vásárlás közül mindig az adott Alapot létrehozó specifikus rendelet céljainak leginkább megfelelő és költséghatékony megoldást kell választani.
 
-2.2.1. Ingatlanvásárlás
-
-Ingatlanvásárlás alatt jelen Útmutatóban az Sztv. szerinti ingatlanok és kapcsolódó vagyoni értékű jogok számlacsoportba tartozó tételek értendőek[^3].
-
-Ha a projekt megvalósítása olyan ingatlanokat érint, amelyekhez vagyoni értékű jogok kapcsolódnak (a földhasználat, az ingatlanon fennálló haszonélvezet és használat, a telki szolgalom, valamint az ingatlan bérleti joga[^4]) és a projekt nem megvalósítható a vagyoni értékű jogok megváltása nélkül, ezen költségek elszámolhatóak.
-
-Az ingatlan értéke, valamint az ingatlanhoz kapcsolódó vagyoni értékű jogok megváltásának költsége kizárólag független árszakértői vagy értékbecslői határozat/szakvélemény vagy jogszabályban meghatalmazott hivatalos szerv által megállapított összeg erejéig lehet elszámolható. Az adásvétellel kapcsolatos valamennyi költség – pl. ügyvédi díjak, értékbecslés, kisajátítási terv, kártalanítási költségek – elszámolható.
+2.2.1. Ingatlannal kapcsolatos költségek
 
 Az ingatlan vásárlása, építése, felújítása vagy bérlése is elszámolható abban az esetben, ha az ingatlan rendelkezik a projekthez szükséges műszaki tulajdonságokkal, és megfelel a hatályos jogszabályoknak és előírásoknak.
 
-Ha az ingatlanszerzés elengedhetetlen a projekt végrehajtása szempontjából, és egyértelműen kapcsolódik annak célkitűzéseihez, már megépített épületek vásárlása vagy ingatlan építése az alább meghatározott feltételekkel támogatható:
+2.2.1.1. Ingatlanvásárlás
 
-– Az ingatlant nem a projekt végrehajtását megelőzően nyújtott uniós támogatásból vásárolták/építették.
+Ingatlanvásárlás alatt jelen Útmutatóban az Sztv. szerinti ingatlanok és kapcsolódó vagyoni értékű jogok számlacsoportba tartozó tételek értendőek[^7].
 
-– Az ingatlant kizárólag a projektben megnevezett célra használják. Ha ez csak részben teljesül, a felmerülő költségek csak a projektcélú használat arányában támogathatóak.
+Ha a projekt megvalósítása olyan ingatlanokat érint, amelyekhez vagyoni értékű jogok kapcsolódnak (a földhasználat, az ingatlanon fennálló haszonélvezet és használat, a telki szolgalom, valamint az ingatlan bérleti joga[^8]) és a projekt nem megvalósítható a vagyoni értékű jogok megváltása nélkül, ezen költségek elszámolhatóak.
 
-Értékcsökkenés alapján történő társfinanszírozás esetén e vagyontárgyak értékcsökkenésének csak a projekt számára történő felhasználás időtartamának és a tényleges felhasználás arányának megfelelő része jogosult támogatásra. Az értékcsökkenési leírást a nemzeti számviteli szabályokat[^5] betartva kell kiszámítani.
+Az ingatlan értéke, valamint az ingatlanhoz kapcsolódó vagyoni értékű jogok megváltásának költsége kizárólag független árszakértői vagy értékbecslői határozat/szakvélemény vagy jogszabályban meghatalmazott hivatalos szerv által megállapított összeg erejéig lehet elszámolható. Az adásvétellel kapcsolatos valamennyi költség – pl. ügyvédi díjak, értékbecslés, kisajátítási terv, kártalanítási költségek – elszámolható.
 
-Ingatlanbérlet
+Ha az ingatlanszerzés elengedhetetlen a projekt végrehajtása szempontjából, és egyértelműen kapcsolódik annak célkitűzéseihez, a már megépített épületek vásárlása vagy ingatlan építése az alább meghatározott feltételekkel támogatható:
+
+a) Az ingatlant nem a projekt végrehajtását megelőzően nyújtott uniós támogatásból vásárolták/építették.
+
+b) Az ingatlant kizárólag a projektben megnevezett célra használják. Ha ez csak részben teljesül, a felmerülő költségek csak a projektcélú használat arányában támogathatóak.
+
+Értékcsökkenés alapján történő társfinanszírozás esetén e vagyontárgyak értékcsökkenésének csak a projekt számára történő felhasználás időtartamának és a tényleges felhasználás arányának megfelelő része jogosult támogatásra. Az értékcsökkenési leírást a nemzeti számviteli szabályokat[^9] betartva kell kiszámítani.
+
+Az ingatlanvásárlás összes elszámolható költsége nem haladhatja meg a projekt összes elszámolható közvetlen költségének 10%-át.
+
+2.2.1.2. Ingatlanbérlet
 
 Akkor támogatható, ha közvetlen kapcsolat áll fenn a bérlet és az érintett projekt célkitűzései között:
 
-– Az ingatlant nem uniós támogatásból vásárolták/építették.
+a) Az ingatlant nem uniós támogatásból vásárolták/építették.
 
-– Az ingatlant csak a projekt végrehajtására használják. Ha ez nem teljesül, a költségek csak a projekt céljára történő felhasználás arányában támogathatók.
+b) Az ingatlant csak a projekt végrehajtására használják. Ha ez nem teljesül, a költségek csak a projekt céljára történő felhasználás arányában támogathatók.
 
-Az ingatlanvásárlás összes elszámolható költsége nem haladhatja meg a projekt összes elszámolható költségének 10%-át.
+2.2.1.3. Építés (kivitelezés, átalakítás, bővítés, felújítás)
 
-2.2.2. Egyéb, ingatlanhoz kapcsolódó kártalanítási költségek
-
-Egyéb, ingatlanhoz kapcsolódó, tulajdonszerzéssel nem járó kártalanítási költségek, pénzbeli térítések (pl. vezetékjogi kártalanítás, fennálló bérleti jog és a beruházással érintett ingatlan használatára vonatkozó jogviszony megszüntetésének költségei) elszámolhatóak, ha a projekt megvalósításához közvetlenül és elengedhetetlenül kapcsolódnak.
-
-Mivel e költségek nem ingatlan tulajdonszerzéshez kapcsolódnak, ezért ezeket nem kell figyelembe venni az ingatlanvásárlásra vonatkozó %-os korlát számítása során.
-
-2.2.3. Terület-előkészítés
-
-Elszámolhatók a projekt célkitűzéseihez illeszkedő terület-beruházásra alkalmassá tétele érdekében végzett előkészítő munkák költségei.
-
-A terület-előkészítés összes elszámolható költsége nem haladhatja meg a projekt összes elszámolható költségének 2%-át.
-
-Kizárólag terület-előkészítési tevékenységet támogató projektekre a százalékos korlátozást nem kell érvényesíteni.
-
-2.2.4. Építés (kivitelezés, átalakítás, bővítés, felújítás)
-
-Építési költség akkor számolható el, ha a projekt végrehajtásához szükséges, vagyis olyan építmények építési és értéknövelő felújítási, bővítési költségei számolhatók el, amelyhez támogatott tevékenységek köthetők.
+Építési költség akkor számolható el, ha a projekt végrehajtásához szükséges.
 
 Az építési költségek alatt kell érteni az új építésen túl minden, az építmény rendeltetésszerű hasznosítását lehetővé tevő átalakítást, felújítást, bővítést.
 
-Építési költség idegen tulajdonban lévő ingatlanon is elszámolható lehet, ha a kedvezményezett az idegen tulajdon használatára vonatkozóan jogalappal rendelkezik, és megfelel a pályázati kiírásban megfogalmazott feltételeknek.
-
 Az akadálymentes hozzáférést biztosító átalakítási költségek elszámolhatóak, ha az akadálymentesítés végrehajtása nélkül az épület nem lenne alkalmas a feladat ellátására. Az akadálymentesítés szükségességét és az átalakítási terv megfelelőségét szakvéleménnyel kell alátámasztani. A projekt nem irányulhat kizárólag akadálymentesítési tevékenységre.
 
-2.2.5. Eszközbeszerzések
+2.2.1.4. Terület-előkészítés
 
-A beszerzett eszközt a projekt időtartama alatt fizikailag használatba kell venni, és számvitelileg aktiválni kell. Tárgyi eszközkartont kell vezetni róla, amiről egyértelműen megállapíthatóak a használatbavétel adatai és az eszközre elszámolt értékcsökkenési leírás összege. Az eszköz használatba vételét követően felmerült, a megvalósítási időszakon belüli eszköz-biztosítási díj elszámolható a számviteli törvényben és az Áhsz.-ben foglaltak szerint.
+Elszámolhatók a projekt célkitűzéseihez illeszkedő terület-beruházásra alkalmassá tétele érdekében végzett előkészítő munkák költségei.
 
-A projekt céljához kapcsolódó, a piacon elérhető, a projektcélok megvalósításához szükséges technológiát használó eszközök beszerzése elszámolható. A projekt céljaival közvetlen összefüggésben, indokolt esetben elszámolható meglévő eszköz átalakításának, bővítésének, korszerűsítésének, zavartalan és biztonságos üzemeltetését szolgáló munka költsége is, ha az felújításnak minősül.
+A terület-előkészítés összes elszámolható költsége nem haladhatja meg a projekt összes elszámolható közvetlen költségének 2%-át.
 
-Az eszköznek meg kell felelnie a hatályos szabványoknak és normáknak.
+2.2.2. Eszközbeszerzések
 
-Az uniós támogatásból beszerzett tárgyi eszközök után értékcsökkenés nem számolható el a projekt keretében.
+A beszerzett eszközt a projekt fizikai befejezéséig fizikailag használatba kell venni és számvitelileg aktiválni kell. Tárgyi eszközkartont kell vezetni róla, amiről egyértelműen megállapíthatóak a használatbavétel adatai és az eszközre elszámolt értékcsökkenési leírás összege. Az eszköz használatbavételét követően felmerült, a megvalósítási időszakon belüli eszköz-biztosítási díj elszámolható az Sztv.-ben és az Áhsz.-ben foglaltak szerint.
 
-Próbaüzem költségei elszámolhatóak, az ez alatt keletkező bevételek kezelésére a projekt-bevételek kezelésére vonatkozó szabályokat kell alkalmazni (az Útmutató 4.2. pontja).
+A projekt céljához kapcsolódó, a piacon elérhető, a projektcélok megvalósításához szükséges technológiát használó eszközök beszerzése elszámolható. Az eszköznek meg kell felelnie a hatályos szabványoknak és normáknak.
 
-Főszabály szerint új, kereskedelmi forgalomban, vagy gyártótól beszerezhető, első üzembehelyezésű gépek, berendezések, eszközök, anyagok beszerzése és beépítése támogatható. Az új jelző csak olyan beruházási jellegű termékeket illet meg, amelyeknél a kedvezményezett rendelkezik a vétel (a számlakiállítás dátuma) időpontjában kezdődő termékfelelősségi, garanciális és szavatossági jogainak érvényesíthetőségéhez szükséges, a gyártó és a forgalmazó által kibocsátott, hiteles dokumentumokkal.
+Főszabály szerint új, kereskedelmi forgalomban vagy gyártótól beszerezhető, első üzembehelyezésű gépek, berendezések, eszközök, anyagok beszerzése és beépítése támogatható. Az új jelző csak olyan beruházási jellegű termékeket illet meg, amelyeknél a kedvezményezett rendelkezik a vétel (a számlakiállítás dátuma) időpontjában kezdődő termékfelelősségi, garanciális és szavatossági jogainak érvényesíthetőségéhez szükséges, a gyártó és a forgalmazó által kibocsátott, hiteles dokumentumokkal.
 
-Az üzemeltetési kötelezettség időtartama alatt használatból kivont tárgyi eszközt azonos rendeltetésű, azonos vagy jobb paraméterekkel rendelkező tárgyi eszközzel a kedvezményezett saját költségen, a Felelős Hatóságnak történő bejelentéssel kicserélheti. Ha a tárgyi eszköz az üzemeltetési kötelezettség időtartama alatt megrongálódik vagy megsemmisül, a kedvezményezett köteles azt saját forrásból pótolni, vagy a célhoz kötött üzemeltetést a tárgyi eszközt helyettesítő más eszközzel biztosítani.
+Az üzemeltetési kötelezettség időtartama alatt használatból kivont tárgyi eszközt azonos rendeltetésű, azonos vagy jobb paraméterekkel rendelkező tárgyi eszközzel a kedvezményezett saját költségen, a Felelős Hatóságnak történő bejelentéssel kicserélheti. Ha a tárgyi eszköz az üzemeltetési kötelezettség időtartama alatt megrongálódik vagy megsemmisül, a kedvezményezett köteles azt saját forrásból pótolni vagy a célhoz kötött üzemeltetést a tárgyi eszközt helyettesítő más eszközzel biztosítani.
 
-Használt eszköz beszerzése
+2.2.2.1. Használt eszköz beszerzése
 
 A főszabálytól eltérően az alábbi feltételek teljesülése esetén elszámolható a használt eszköz beszerzése:
 
-– Adott eszközt a megelőző hét évben nem EU támogatásból szerezték be vagy állították elő, amit az eladó igazolni tud, és más megoldás (új eszköz beszerzése, lízing stb.) igénybevétele nem indokolt.
+a) Adott eszközt a megelőző hét évben nem EU támogatásból szerezték be vagy állították elő, amit az eladó igazolni tud és más megoldás (új eszköz beszerzése, lízing stb.) igénybevétele nem indokolt.
 
-– Az eszköz eladója igazolja az eszköz eredetét.
+b) Az eszköz eladója igazolja az eszköz eredetét.
 
-– Értéke nem érheti el a hasonló rendeltetésű, azzal azonos, vagy közel azonos műszaki paraméterekkel rendelkező új eszköz piaci értékét, kivéve, ha a pályázati kiírás alapján kifejezetten cél a használt (korhű) eszközök beszerzése. A használt eszköz ára nem haladhatja meg a piaci árat.
+c) Értéke nem érheti el a hasonló rendeltetésű, azzal azonos vagy közel azonos műszaki paraméterekkel rendelkező új eszköz piaci értékét, kivéve, ha a pályázati kiírás alapján kifejezetten cél a használt (korhű) eszközök beszerzése. A használt eszköz ára nem haladhatja meg a piaci árat.
 
-– A használt eszköznek is meg kell felelnie a hatályos szabványoknak, normáknak, technológiai és egyéb műszaki feltételeknek.
+d) A használt eszköznek is meg kell felelnie a hatályos szabványoknak, normáknak, technológiai és egyéb műszaki feltételeknek.
 
-2.2.6. Immateriális javak beszerzése
+2.2.3. Immateriális javak beszerzése
 
 A projekt megvalósításához szükséges immateriális javak (pl. szellemi termékek felhasználásának joga,licencek) bekerülési értéke elszámolható.
 
-Az üzemeltetési kötelezettség időszakában érvényesülő, a 2.2.5. alpontban rögzített kicserélési és pótlási kötelezettség az immateriális javak tekintetében megfelelően alkalmazandó.
+Az üzemeltetési kötelezettség időszakában érvényesülő, a 2.2.2. alpontban rögzített kicserélési és pótlási kötelezettség az immateriális javak tekintetében megfelelően alkalmazandó.
 
-2.2.7. Lízing
+2.2.4. Lízing
 
-Kizárólag az Sztv. 3. § (8) bekezdés 13. pontja szerinti pénzügyi lízing számolható el.
-
-Támogatott lízingügylet esetén kizárólag a lízingbe vevőnek nyújtható támogatás, a támogatás kedvezményezettje tehát közvetlenül a lízingbe vevő.
+Kizárólag az Sztv. 3. § (8) bekezdés 13. pontja szerinti pénzügyi lízing számolható el. Támogatott lízingügylet esetén kizárólag a lízingbe vevőnek nyújtható támogatás, a támogatás kedvezményezettje tehát közvetlenül a lízingbe vevő.
 
 A számlával vagy egyéb, azonos bizonyító erejű számviteli bizonylattal igazolt lízingdíj tőkerésze elszámolható, ha a lízing az eszköz használatának legkedvezőbb módja, ellenkező esetben a többletköltségeket le kell vonni az elszámolható költségekből.
 
 Zártvégű pénzügyi lízing esetén, ha a legrövidebb lízingelési időszak egyenlő az eszköz hasznos élettartamával, a támogatás alapjául szolgáló elszámolható költség nem haladhatja meg az eszköz piaci értékét.
 
-Nyíltvégű pénzügyi lízing esetén, ha a legrövidebb lízingelési időszak nem egyenlő az eszköz hasznos élettartalmával, a lízing díjakra a támogatható projekt megvalósítási időszakának arányában nyújtható uniós társfinanszírozásával támogatás. Ebben az esetben a lízingbe vevőnek bizonyítania kell, hogy a lízing volt a legköltséghatékonyabb módszer a berendezés használatának megszerzésére. Ha a költségek egyéb módszer alkalmazása (például a berendezés bérbevétele) esetén alacsonyabbak lettek volna, a többletköltséget le kell vonni a támogatható kiadásokból.
+Nyíltvégű pénzügyi lízing esetén, ha a legrövidebb lízingelési időszak nem egyenlő az eszköz hasznos élettartamával, a lízingdíjakra a támogatható projekt megvalósítási időszakának arányában nyújtható uniós társfinanszírozásával támogatás. Ebben az esetben a lízingbe vevőnek bizonyítania kell, hogy a lízing volt a legköltséghatékonyabb módszer a berendezés használatának megszerzésére. Ha a költségek egyéb módszer alkalmazása (például a berendezés bérbevétele) esetén alacsonyabbak lettek volna, a többletköltséget le kell vonni a támogatható kiadásokból.
 
-A lízingszerződéssel összefüggő egyéb költségek nem elszámolhatók (pl. kamat, árfolyam-különbözet). Az elszámolás alapját kizárólag a projekt megvalósítás során ténylegesen kifizetett lízing költségek jelentik, tehát a megvalósítási időszakon túlnyúlóan felmerülő lízingdíjak nem elszámolhatók.
+A lízingszerződéssel összefüggő egyéb költségek nem elszámolhatók (pl. kamat, árfolyam-különbözet). Az elszámolás alapját kizárólag a projekt megvalósítás során ténylegesen kifizetett lízingköltségek jelentik, tehát a megvalósítási időszakon túlnyúlóan felmerülő lízingdíjak nem elszámolhatók.
 
 A lízing futamidő azzal a feltétellel áthúzódhat a projekt-fenntartási időszakra, ha a lízingdíj támogatásból finanszírozott hányada a projekt megvalósítás időszakában teljes egészében (mintegy előtörlesztésként) kifizetésre kerül, a tulajdonjog átszállása a lízingbe vevőre pedig a fenntartási időszak során megtörténik.
 
-Visszlízing
+2.2.5. Értékcsökkenés
 
-Az elszámolható költség meghatározása a lízingbe vevőnek nyújtott támogatással kapcsolatban meghatározott feltételekkel összhangban történik.
-
-2.2.8. Értékcsökkenés
-
-Értékcsökkenés a számviteli szabályozásnak megfelelően, a használatba vett tárgyi eszköz után elszámolható, ha az eszköz beszerzése a projekt keretében nem indokolt, vagy nem minősül elszámolható költségnek. Értékcsökkenést kizárólag a nem uniós támogatásból beszerzett, de a projekt megvalósításához közvetlenül igénybevett eszközökre lehet elszámolni. Értékcsökkenés kizárólag az eszköznek a projekt megvalósítási időszakára eső tényleges használatának arányában, és a projektre fordított idő arányában számolható el.
+Értékcsökkenés a számviteli szabályozásnak megfelelően, a használatba vett tárgyi eszköz után elszámolható, ha az eszköz beszerzése a projekt keretében nem indokolt, vagy nem minősül elszámolható költségnek. Értékcsökkenést kizárólag a nem uniós támogatásból beszerzett, de a projekt megvalósításához közvetlenül igénybe vett eszközökre lehet elszámolni. Értékcsökkenés kizárólag az eszköznek a projekt megvalósítási időszakára eső tényleges használatának arányában, és a projektre fordított idő arányában számolható el.
 
 Az eszköz hasznos élettartamát, az értékcsökkenés számítási módszerét és az éves értékcsökkenés mértékét az elszámolás során jelezni kell. Az elszámolható értékcsökkenési leírás nem haladhatja meg a társasági adóról és az osztalékadóról szóló törvényben meghatározott mértéket.
 
@@ -354,95 +308,91 @@ A fogyóeszközök, készletek költségei elszámolhatóak, feltéve, hogy azon
 
 2.4. Szolgáltatásvásárlások költsége
 
-Harmadik féltől megrendelt, a támogatott tevékenységhez közvetlenül kapcsolódó, Sztv. 3. § (7) bekezdés 1–2. pontja szerinti igénybe vett szolgáltatások és egyéb szolgáltatások költsége számolható el. Ezen rész szerint kerülnek elszámolásra azok a szolgáltatások, amelyek nem tartoznak a 2.8. pont szerinti szolgáltatások körébe.
-
-Szolgáltatás költségei alatt az Útmutató az Sztv. 51. § (2) és (3) bekezdése által meghatározottakat érti a következő eltéréssel: az Útmutató 6. címben a nem elszámolható költségek között felsorolt, egyébként az Sztv. szerint a szolgáltatás bekerülési értékébe beletartozó költségek nem elszámolhatóak.
+Harmadik féltől megrendelt, a támogatott tevékenységhez közvetlenül kapcsolódó, Sztv. 3. § (7) bekezdés 1–2. pontja szerinti igénybe vett szolgáltatások és egyéb szolgáltatások költsége számolható el. Szolgáltatás költségei alatt az Útmutató az Sztv. 51. § (2) és (3) bekezdése által meghatározottakat érti a következő eltéréssel: az Útmutató 6. címében a nem elszámolható költségek között felsorolt, egyébként az Sztv. szerint a szolgáltatás bekerülési értékébe beletartozó költségek nem elszámolhatóak.
 
 Különösen a következő szolgáltatási tevékenységek számolhatók el:
 
-– Felmérések, kimutatások, adatbázisok, kutatások, tanulmányok készítésének költsége.
+a) Felmérések, kimutatások, adatbázisok, kutatások, tanulmányok készítésének költsége.
 
-– Műszaki ellenőri szolgáltatás, melynek az összes elszámolható költséghez viszonyított aránya nem lehet több mint 1%.
+b) Műszaki ellenőri szolgáltatás, melynek az összes elszámolható közvetlen költséghez viszonyított aránya nem lehet több mint 1%.
 
-– Egyéb, mérnöki, szakértői díjak, tanácsadás (pl. fordítás, tolmácsolás, lektorálás).
+c) Egyéb, a célcsoport számára közvetlenül nyújtott speciális szolgáltatások megvásárlásának költségei, mérnöki, szakértői díjak, tanácsadás (pl. fordítás, tolmácsolás, lektorálás, szociális munka, pszichológiai segítségnyújtás).
 
-– Képzéshez kapcsolódó költségek (részletesen lásd a 2.4.1. alpont alatt).
+d) Képzéshez kapcsolódó költségek (részletesen lásd a 2.4.1. alpont alatt).
 
-– Projekttevékenységek hatékonyságának és eredményeinek vizsgálata.
+e) Projekttevékenységek hatékonyságának és eredményeinek vizsgálata.
 
-– Marketingeszközök fejlesztése.
+f) Marketingeszközök fejlesztése.
 
-– Piackutatás.
+g) Piackutatás.
 
-– K+F+I szolgáltatások díja.
+h) K+F+I szolgáltatások díja.
 
-– Minőség-, környezet- és egyéb irányítási rendszerekhez kapcsolódó költségek (pl. minőség- ellenőrzéssel és tanúsítással kapcsolatos szolgáltatások költsége, minőséget tanúsító címkék használatával kapcsolatos költségek).
+i) Minőség-, környezet- és egyéb irányítási rendszerekhez kapcsolódó költségek (pl. minőség-ellenőrzéssel és tanúsítással kapcsolatos szolgáltatások költsége, minőséget tanúsító címkék használatával kapcsolatos költségek).
 
-– Rendezvényszervezés, kapcsolódó ellátási, ún. catering költségek, reprezentációs költségek kapcsolódó járulékokkal együtt.
+j) Rendezvényszervezés, kapcsolódó ellátási, ún. catering költségek, reprezentációs költségek kapcsolódó járulékokkal együtt.
 
-– A projekttevékenységhez kapcsolódó, nem a pályázati kiírás keretében kötelezőként meghatározott kommunikációs tevékenységek (pl. kiadványok, információs füzetek készítése, elektronikus megjelenés, képzések meghirdetése, tudatosság növelése, tájékoztatás, kommunikációs kampányok).
+k) A projekttevékenységhez kapcsolódó, nem a pályázati kiírás keretében kötelezőként meghatározott kommunikációs tevékenységek (pl. kiadványok, információs füzetek készítése, elektronikus megjelenés, képzések meghirdetése, tudatosság növelése, tájékoztatás, kommunikációs kampányok).
 
-– A megvalósításhoz kötődő és indokolt bérleti díjak.
+l) A megvalósításhoz kötődő és indokolt bérleti díjak.
 
-– Biztosítékok jogi, közjegyzői, bankköltségei, ha a támogatás folyósításához a biztosítéknyújtás kötelező (pl. bankgarancia költsége, ingatlan jelzáloghoz kötődő értékbecslés díja).
+m) Biztosítékok jogi, közjegyzői, bankköltségei, ha a támogatás folyósításához a biztosítéknyújtás kötelező (pl. bankgarancia költsége, ingatlan jelzáloghoz kötődő értékbecslés díja).
 
-– A fejlesztés tárgyára vonatkozó, az üzembe helyezést követően felmerülő vagyonbiztosítás díja (pl. a projekt keretében beszerzett és használt nagy értékű eszközök külön biztosítása). A biztosítás díja a megvalósítási időszak végéig számolható el. Az üzembe helyezést megelőzően felmerülő, a beszerzett tárgyi eszközhöz kötődő, a bekerülési érték részét képező biztosítási díj az eszközbeszerzések között elszámolandó.
+n) A fejlesztés tárgyára vonatkozó, az üzembe helyezést követően felmerülő vagyonbiztosítás díja (pl. a projekt keretében beszerzett és használt nagy értékű eszközök külön biztosítása). A biztosítás díja a megvalósítási időszak végéig számolható el. Az üzembe helyezést megelőzően felmerülő, a beszerzett tárgyi eszközhöz kötődő, a bekerülési érték részét képező biztosítási díj az eszközbeszerzések között elszámolandó.
 
-– A javítás, karbantartás költségei, ha az nem minősül felújítási költségnek.
+o) A javítás, karbantartás költségei, ha az nem minősül felújítási költségnek.
 
-A projekt megvalósításával kapcsolatban közvetve felmerülő, általános szolgáltatások:
+p) A projekt megvalósításával kapcsolatban közvetve felmerülő, általános szolgáltatások:
 
-– A pályázati kiírás által előírt nyilvánosság biztosításának költségei, melynek az összes elszámolható költséghez viszonyított aránya nem lehet több mint 0,5%.
+pa) A pályázati kiírás által előírt nyilvánosság biztosításának költségei, melynek az összes elszámolható közvetlen költséghez viszonyított aránya nem lehet több, mint 0,5%.
 
-– A projekt vonatkozásában végzett könyvvizsgálói szolgáltatás, az összes elszámolható költséghez viszonyított aránya nem lehet több mint 0,5%. A pályázati kiírásban projektszintű könyvvizsgálat előírása kizárólag az arra vonatkozó elvárás-rendszer jogszabályokkal összhangban történő meghatározása esetén lehetséges.
+pb) A projekt vonatkozásában végzett könyvvizsgálói szolgáltatás, az összes elszámolható közvetlen költséghez viszonyított aránya nem lehet több, mint 0,5%. A pályázati kiírásban projektszintű könyvvizsgálat előírása kizárólag az arra vonatkozó elvárás-rendszer jogszabályokkal összhangban történő meghatározása esetén lehetséges.
 
-– Hatósági igazgatási, szolgáltatási díjak, illetékek.
+pc) Hatósági igazgatási, szolgáltatási díjak, illetékek.
 
-– Jogi, közjegyzői költségek.
+pd) Jogi, közjegyzői szolgáltatások költségei.
 
 2.4.1. Képzés és képzési anyagok elszámolható költségeire vonatkozó részletes szabályok
 
 A képzési tevékenységek vonatkozásában az elszámolható költségek a következők lehetnek:
 
-– Az oktatók költségei (szakértői díj, az előadói, illetve szerzői díj).
+a) Az oktatók költségei (szakértői díj, az előadói, illetve szerzői díj).
 
-– Az oktatók és a képzésben résztvevők utazási és szállásköltségei (tekintettel a 2.7. pontban foglalt feltételekre).
+b) Az oktatók és a képzésben résztvevők utazási és szállásköltségei (tekintettel a 2.7. pontban foglalt feltételekre).
 
-– A képzési projekttel kapcsolatos tanácsadói szolgáltatások költségei.
+c) A képzési projekttel kapcsolatos tanácsadói szolgáltatások költségei.
 
-– Képzés megszervezése, lebonyolítása.
+d) Képzés megszervezése, lebonyolítása.
 
-– Tananyag fejlesztése, kivitelezése (pl. tankönyv, munkafüzet, CD), segédanyagok bérlése, beszerzése.
+e) Tananyag fejlesztése, kivitelezése, így különösen tankönyv, munkafüzet, CD, segédanyagok bérlése, beszerzése.
 
-– A projekt keretében végrehajtott (tananyag) fejlesztéshez és képzéshez kapcsolódó minősítési, értékelési, regisztrációs díjak.
+f) A projekt keretében végrehajtott (tananyag) fejlesztéshez és képzéshez kapcsolódó minősítési, értékelési, regisztrációs díjak.
 
-– A résztvevők (célcsoport) alkalmassági vizsgálata.
+g) A résztvevők (célcsoport) alkalmassági vizsgálata.
 
-– A résztvevők (célcsoport) biztosításának díja a projekt megvalósítás időszakában.
+h) A résztvevők (célcsoport) biztosításának díja a projekt megvalósítás időszakában.
 
-– A célcsoport tagjainak fizetett képzési támogatás, illetve egyéb, a képzésük idejére fizetett díjazás (pl. megélhetési támogatás), képzés ideje alatti munkaidőre fizetendő munkabére, vagy kereset-kiegészítés (legfeljebb a képzést megelőzően és az alatt elért átlagkereset különbözete), a vonatkozó hazai jogszabályok alapján ezen kifizetések után fizetendő adókkal, járulékokkal együtt elszámolható. A vonatkozó számításoknak tartalmazniuk kell a résztvevők létszámát, a juttatás egy főre és egy képzési időegységre vonatkozó összegét, és az időtartamot (órákban).
+i) A célcsoport tagjainak fizetett képzési támogatás, illetve egyéb, a képzésük idejére fizetett díjazás (például megélhetési támogatás), képzés ideje alatti munkaidőre fizetendő munkabére vagy keresetkiegészítés, legfeljebb a képzést megelőzően és az alatt elért átlagkereset különbözete mértékéig, a vonatkozó hazai jogszabályok alapján ezen kifizetések után fizetendő adókkal, járulékokkal együtt elszámolható. A vonatkozó számításoknak tartalmazniuk kell a résztvevők létszámát, a juttatás egy főre és egy képzési időegységre vonatkozó összegét és az időtartamot (órákban).
 
-– Képzési, oktatási, kutatás-fejlesztési projektek esetén a résztvevők, illetve a kutatás-fejlesztésben közreműködő hallgatók, doktorandusok számára ösztöndíj is elszámolható. Az ösztöndíjra való jogosultság feltételeit (pl. meghatározott tanulmányi eredmény elérése) a pályázati kiírás vagy a támogatási kérelem tartalmazza. Ösztöndíj a képzés eredményességét nem befolyásoló, igazolt betegség idejére is kifizethető és elszámolható.
+j) Képzési, oktatási, kutatás-fejlesztési projektek esetén a résztvevők, illetve a kutatás-fejlesztésben közreműködő hallgatók, doktorandusok számára ösztöndíj is elszámolható. Az ösztöndíjra való jogosultság feltételeit, így különösen meghatározott tanulmányi eredmény elérése, a pályázati kiírás vagy a támogatási kérelem tartalmazza. Ösztöndíj a képzés eredményességét nem befolyásoló, igazolt betegség idejére is kifizethető és elszámolható.
 
-– A célcsoport tagjai közül a képzésben részt vevők körében a képzés ideje alatt jelentkező azon költségek, amelyek gyermekeik vagy más, tőlük függő hozzátartozó gondozása miatt merülnek fel.
+k) A célcsoport tagjai közül a képzésben részt vevők körében a képzés ideje alatt jelentkező azon költségek, amelyek gyermekeik vagy más, tőlük függő hozzátartozó gondozása miatt merülnek fel.
 
 Egyéb kiadások
 
-– a képzés céljára használt helyiségek, illetve eszközök bérleti díja,
+a) a képzés céljára használt helyiségek, illetve eszközök bérleti díja,
 
-– képzés részvételi díja,
+b) képzés részvételi díja,
 
-– vizsgadíj, kivéve a pótvizsga díja,
+c) vizsgadíj, kivéve a pótvizsga díja,
 
-– bizonyítvány kiállításának díja,
+d) bizonyítvány kiállításának díja,
 
-– képzés eredményességének nyomon-követéséhez kapcsolódó költségek,
+e) képzés eredményességének nyomon-követéséhez kapcsolódó költségek,
 
-– képzők kiválasztásához kapcsolódó költségek,
+f) képzők kiválasztásához kapcsolódó költségek,
 
-– képzési helyszín akadálymentesítése, ha ez kisebb költségű megoldást eredményez, mint eleve akadálymentesített képzési helyszín választása,
-
-– képzéshez kapcsolódó egyéb költségek.
+g) képzéshez kapcsolódó egyéb költségek.
 
 Csak a ténylegesen képzésben eltöltött idő vehető számításba. A költségeket résztvevőnként és alkalmanként vagy időszakonként (óránként, naponként, hetenként) az adott időszakban, adott helyen szokásos díjtételek figyelembevételével kell tervezni és elszámolni.
 
@@ -450,43 +400,37 @@ A beruházáshoz (beszerzett eszközhöz stb.) kapcsolódó képzés, betanítá
 
 2.5. Saját teljesítés
 
-Saját teljesítés alatt értendő, ha a kedvezményezett bizonyos beruházásokat vagy szolgáltatásokat nem harmadik személyektől szerez be, hanem saját maga végez. Nem számít saját teljesítésnek a kedvezményezett kapcsolt vállalkozása által, vagy nem gazdasági társaság kedvezményezett esetén a részben vagy egészben tulajdonában lévő gazdasági társaság által végzett teljesítés.
+Saját teljesítés alatt értendő, ha a kedvezményezett bizonyos beruházásokat vagy szolgáltatásokat nem harmadik személyektől szerez be, hanem saját maga végez. Nem számít saját teljesítésnek a kedvezményezett kapcsolt vállalkozása által vagy nem gazdasági társaság kedvezményezett esetén a részben vagy egészben tulajdonában lévő gazdasági társaság által végzett teljesítés (lásd. 2.6 pont).
 
-E tevékenység elszámolható értéke nem haladhatja meg a szokásos piaci értéket, nem haladhatja meg a pénzügyileg rendezett tételek alapján kimutatott közvetlen önköltséget, valamint az értékesítés közvetett költségeit, utóbbiakat kizárólag abban az esetben, ha azok valós költségeken alapulnak, és megfelelően igazolt, igazságos és méltányos módszer szerint, arányosan történik a tevékenységhez való hozzárendelésük. Az alátámasztás a kedvezményezett kötelezettsége.
+E tevékenység elszámolható értéke nem haladhatja meg a szokásos piaci értéket, nem haladhatja meg a pénzügyileg rendezett tételek alapján kimutatott közvetlen önköltséget. Az alátámasztás a kedvezményezett kötelezettsége.
 
-Saját teljesítés vagy saját vállalkozásban végzett beruházás esetében a támogatási kérelem keretében benyújtott költségvetésnek olyan részletezettségűnek kell lenni, amelyből az önköltség egyértelműen megállapítható, és ami összhangban van a támogatási kérelem benyújtójának önköltség számítási szabályzatával.
+Saját teljesítés esetében a támogatási kérelem keretében benyújtott költségvetésnek olyan részletezettségűnek kell lenni, amelyből az önköltség egyértelműen megállapítható, és ami összhangban van az önköltségre vonatkozó jogszabályokkal, szabályzatokkal.
 
 2.5.1. Projekt szakmai megvalósításában közreműködő munkatársak személyi jellegű ráfordításai
 
 A projekt céljának megvalósításában, illetve szakmai felügyeletében közvetlenül közreműködő személyzet
 
-– bruttó munkabére,
+a) bruttó munkabére,
 
-– személyi jellegű egyéb kifizetései (bérjellegű juttatások, pl. utazási költségtérítés, cafeteria),
+b) személyi jellegű egyéb kifizetései, ilyenek különösen a bérjellegű juttatások, az utazási költségtérítés, cafeteria,
 
-– munkaköri alkalmassági vizsgálat díja [a 33/1998. (VI. 24.) NM rendelet alapján] és
+c) munkaköri alkalmassági vizsgálat díja[^10] és
 
-– bérjárulékai
+d) bérjárulékai
 
 elszámolhatók.
 
 Bérként, bérjellegű juttatásként kizárólag a projekt céljainak megvalósításával összefüggésben, a munkaviszony, kinevezés alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatások számolhatók el. A személyi jellegű egyéb kifizetések és bérjárulékok olyan mértékben elszámolhatóak, amilyen mértékben a támogatott projekthez kapcsolódnak.
 
-Bérköltség elszámolása két módszerrel történhet:
+A bérköltség csak a ténylegesen kifizetett munkabér alapján a projekt keretében való foglalkoztatás arányában számolható el munkaidő-kimutatás alapján.
 
-a) A bérköltség csak a ténylegesen kifizetett munkabér alapján a projekt keretében való foglalkoztatás arányában számolható el munkaidő-kimutatás alapján.
-
-b) Egységköltség-alapú térítés esetén évi legfeljebb 1720, ténylegesen ledolgozott munkaóra elszámolása, amely a legutóbb dokumentált éves bruttó foglalkoztatási költségek alapján kerül meghatározásra.
-
-Bérköltségek között elszámolható költség a megbízási szerződés keretében történő munkavégzés, valamint a szellemi alkotásra kötött felhasználási szerződésben rögzített személyes közreműködés díja.
-
-Szintén ebbe a kategóriába tartozik a projekt végrehajtásában közreműködő azon személyek bére, akik számára a projekt keretében nem kerül munkabér elszámolásra, hanem a munka elvégzése célfeladatok kiírásával vagy túlszolgálat elrendelésével, illetve többletfeladatot elrendelő megállapodás keretében oldható meg.
+Ha a projekt végrehajtásához szükséges, többletfeladat, túlóra, túlszolgálat elrendelése célfeladatok kiírásával, többletfeladatot elrendelő megállapodás vagy megbízási szerződés keretében elszámolható.
 
 Munkaviszony megszűnése vagy megszüntetése esetében a munkaviszonyra, közalkalmazotti jogviszonyra és a közszolgálati tisztviselői jogviszony megszűnésére/megszüntetésére vonatkozó jogszabályok által előírt, kötelezően fizetendő juttatások költsége olyan mértékben elszámolható, amilyen mértékben az a támogatott projekthez kapcsolódik függetlenül attól, hogy a munkavégzésre vonatkozó szerződés, illetve a kollektív szerződés az elszámolás arányára vonatkozóan eltérő rendelkezéseket tartalmaz.
 
 Nem elszámolható a jutalom, illetve az olyan jutalom jellegű kifizetés, amely mögött a teljesítés nem igazolható.
 
-2.6. Ún. In-house beszerzések
+2.6. In-house beszerzések
 
 A közbeszerzésekről szóló törvényben meghatározott in-house beszerzések eredményeként kötött szerződések alapján felmerült költségek elszámolhatóak, ha azok nem haladják meg a szokásos piaci értéket, valamint a pénzügyileg rendezett tételek alapján kimutatott közvetlen és közvetett önköltségértékét.
 
@@ -496,287 +440,257 @@ Ezen beszerzéseket olyan részletes, tételes egységárakat is tartalmazó kal
 
 A projektben részt vevő célcsoportnak, illetve a projekt szakmai megvalósításában közreműködő munkatársaknak a projekt megvalósításához közvetlenül köthető, a támogatott tevékenységekhez kapcsolódó, külső helyszínen történő munkavégzése, a projekt megvalósításával összefüggő képzése miatt felmerülő utazási és szállásköltségei elszámolhatóak. Az utazási és napidíj költségek a magyar jogszabályok szerint járulékokkal együtt számolhatóak el.
 
-A napi utazási idő és a bekerülési költségek alapján kell dönteni a naponta való utaztatás, az egyszeri (több hetes távollét esetén, hetente egyszeri) utaztatás és a helyszínen való elszállásolás között. Ha a napi utazási idő meghaladja a három órát, akkor célszerű az utóbbit választani, egyéb esetekben a költségek felmérését követően az alacsonyabb költséggel járó megoldást kell választani. A fogyatékkal élők utazása ez alól kivételt képezhet, a számukra legalkalmasabb (pl. külön busz) és megfelelően kialakított eszközöket kell igénybe venni.
+A napi utazási idő és a bekerülési költségek alapján kell dönteni a naponta való utaztatás, az egyszeri (több hetes távollét esetén, hetente egyszeri) utaztatás és a helyszínen való elszállásolás között. Ha a napi utazási idő meghaladja a három órát, akkor célszerű az utóbbit választani, egyéb esetekben a költségek felmérését követően az alacsonyabb költséggel járó megoldást kell választani. A fogyatékkal élők utazása ez alól kivételt képezhet, a számukra legalkalmasabb (például külön busz) és megfelelően kialakított eszközöket kell igénybe venni.
 
 A következő költségek számolhatóak el:
 
 a) Utazás költségei
 
+A költségtérítések alapja a tömegközlekedés legolcsóbb formája, a repülőutak főszabályként csak az oda-vissza 800 km-nél hosszabb utaknál engedélyezettek vagy amikor a földrajzi rendeltetési hely légi úton történő közlekedést indokol.
+
 Az útiköltségek (utazás és helybiztosítás költsége) a 2. osztályú tömegközlekedési eszközök, külföldre repülőgéppel történő utazás esetén turista osztályú repülőjegy igénybevétele alapján számolható el.
 
-Ettől eltérő költség elszámolását – különösen biztonsági szempontból – a Felelős Hatóság egyedileg engedélyezheti, ha az adott projekt sajátosságaira, vagy a projektmegvalósítás egyedi körülményeire tekintettel indokolt.
+Ettől eltérő költség elszámolását – különösen biztonsági szempontból – a Felelős Hatóság egyedileg engedélyezheti, ha az adott projekt sajátosságaira vagy a projektmegvalósítás egyedi körülményeire tekintettel indokolt.
 
-Útiköltségek elszámolása tekintetében a kedvezményezettnek a külön jogszabályokban, közjogi szervezetszabályozó eszközökben[^6] szereplő, valamint saját belső szabályzatában rögzített vonatkozó előírásokra is tekintettel kell lennie.
+Útiköltségek elszámolása tekintetében a kedvezményezettnek a külön jogszabályokban[^11], közjogi szervezetszabályozó eszközökben[^12] szereplő, valamint saját belső szabályzatában rögzített vonatkozó előírásokra is tekintettel kell lennie.
 
-Hivatali vagy saját gépjármű (ideértve a közeli hozzátartozó tulajdonában álló gépjárművet is) használata esetén a megtett kilométerek alapján a tényleges üzemanyag-költség vagy az adóhatóság által közzétett elszámolható üzemanyag-költség és a kilométerenkénti adómentes térítés figyelembe vételével számolhatók el. Hivatali vagy saját gépkocsi használata esetén elszámolható a parkolási díj és a kiküldetés időtartamára eső autópálya használati díj.
+Hivatali vagy saját gépjármű (ideértve a közeli hozzátartozó tulajdonában álló gépjárművet is) használata esetén a megtett kilométerek alapján a tényleges üzemanyag-költség vagy az adóhatóság által közzétett elszámolható üzemanyag-költség és a kilométerenkénti adómentes térítés figyelembevételével számolhatók el. Hivatali vagy saját gépkocsi használata esetén elszámolható a parkolási díj és a kiküldetés időtartamára eső autópálya használati díj.
 
-Repülőgéppel történő utazás esetén elszámolható a reptéri illeték. Az utasbiztosítás költsége elszámolható.
-
-Utazási bérlet költségét olyan arányban lehet figyelembe venni, amilyen arányban az a projekt tevékenységet szolgálja (pl. ha a képzés két hétig tart, akkor a havi bérlet árának felét).
+Repülőgéppel történő utazás esetén elszámolható a reptéri illeték. Az utasbiztosítás költsége elszámolható. Utazási bérlet költségét olyan arányban lehet figyelembe venni, amilyen arányban az a projekt tevékenységet szolgálja, például amennyiben a képzés két hétig tart, akkor a havi bérlet árának felét.
 
 b) Szállásköltségek
 
-A szállásköltségek elszámolása esetén vendég-éjszakánként, belföldi szállás esetében legfeljebb – áfa nélkül számított – 15 000 Ft/éj, külföldi szállás esetében bruttó 150 euró/éj mértékű költség számolható el.
+A szállásköltségek elszámolása esetén vendég-éjszakánként, belföldi szállás esetében legfeljebb – áfa nélkül számított – 15 000 Ft/fő/éj, külföldi szállás esetében bruttó 150 euró/fő/éj mértékű költség számolható el.
 
 c) Helyi közlekedés költségei
 
-A kiküldetés helyszínén igénybe vett tömegközlekedési eszközökön történő közlekedés költsége bizonylat alapján elszámolható. Indokolt taxi költség (pl. a szálláshely és a projekt megvalósításának helye, vagy a konferencia helye, vagy a projekttel közvetlenül összefüggésbe hozható helyszínek közötti út taxiköltsége) – ha tömegközlekedési eszköz igénybe vétele nem lehetséges, vagy csak indokolatlanul nagyobb időráfordítással – szintén elszámolható. Az indokoltság alátámasztása a kedvezményezett kötelezettsége.
+A kiküldetés helyszínén igénybe vett tömegközlekedési eszközökön történő közlekedés költsége bizonylat alapján elszámolható. Indokolt taxi költség (pl. a szálláshely és a projekt megvalósításának helye, a konferencia helye vagy a projekttel közvetlenül összefüggésbe hozható helyszínek közötti út taxiköltsége) – ha tömegközlekedési eszköz igénybevétele nem lehetséges vagy csak indokolatlanul nagyobb időráfordítással – szintén elszámolható. Az indokoltság alátámasztása a kedvezményezett kötelezettsége.
 
 d) Napidíj
 
-Célcsoport ellátmány-/napidíj- és szállásköltsége keretében a figyelembe vett létszám projekthez kapcsolódó ellátmánya, napidíja és szállásköltsége számolható el a vonatkozó hazai jogszabályok alapján.
+A napidíj a pályázati kiírásban meghatározott mértékben számolható el.
 
-A b), c) és d) pontok szerinti költségek elszámolása egységköltségek alkalmazásával történik, ha a módszertant a pályázati kiírás biztosítja.
+A b), c) és d) pontok szerinti költségek elszámolása egységköltségek alkalmazásával történhet a pályázati kiírásban.
 
 2.8. Célcsoportot érintő speciális költségek
 
 A Menekültügyi, Migrációs és Integrációs Alapra vonatkozó speciális rendeletekben rögzített személyi kör tekintetében az alábbi költségek számolhatóak el:
 
-– A célcsoport számára közvetlenül nyújtott speciális szolgáltatások megvásárlásának költségei (pl. szociális munka, pszichológia segítségnyújtás, tanácsadás, fordítás, tolmácsolás).
+a) Kisösszegű ösztönző.
 
-– Kisösszegű ösztönző.
+b) Képzés:
 
-– Képzés:
+ba) A célcsoport tagjai közül a képzésben részt vevők körében a képzés ideje alatt jelentkező azon költségek, amelyek a tőlük függő, a Ptk. szerinti hozzátartozó gondozása miatt merülnek fel.
 
-= A célcsoport tagjai közül a képzésben részt vevők körében a képzés ideje alatt jelentkező azon költségek, amelyek a tőlük függő, a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozó gondozása miatt merülnek fel.
+bb) A célcsoport tagjainak fizetett képzési támogatás – célcsoporthoz kapcsolódó speciális költségekhez, illetve egyéb a képzésük idejére fizetett díjazás –, így különösen megélhetési támogatás, a képzés ideje alatti munkaidőre fizetendő munkabér vagy kereset-kiegészítés (legfeljebb a képzést megelőzően és az alatt elért átlagkereset különbözete), a vonatkozó hazai jogszabályok alapján ezen kifizetések után fizetendő adókkal, járulékokkal együtt elszámolható. A vonatkozó számításoknak tartalmazniuk kell a résztvevők létszámát, a juttatás egy főre és egy képzési időegységre vonatkozó összegét és az időtartamot (órákban).
 
-= A célcsoport tagjainak fizetett képzési támogatás – célcsoporthoz kapcsolódó speciális költségekhez, illetve egyéb, a képzésük idejére fizetett díjazás (pl. megélhetési támogatás), a képzés ideje alatti munkaidőre fizetendő munkabér vagy kereset-kiegészítés (legfeljebb a képzést megelőzően és az alatt elért átlagkereset különbözete), a vonatkozó hazai jogszabályok alapján ezen kifizetések után fizetendő adókkal, járulékokkal együtt elszámolható. A vonatkozó számításoknak tartalmazniuk kell a résztvevők létszámát, a juttatás egy főre és egy képzési időegységre vonatkozó összegét, és az időtartamot (órákban).
+c) Beszerzés: a célcsoport számára a projekt keretében célzottan beszerzett és kiosztott, illetve a célcsoport számára megtartott foglalkozásokon felhasznált termékek.
 
-– Beszerzés: a célcsoport számára a projekt keretében célzottan beszerzett és kiosztott, illetve a célcsoport számára megtartott foglalkozásokon felhasznált termékek.
-
-– A célcsoport számára a projekt keretében célzottan beszerzett egyéb termékek és szolgáltatások (belépőjegyek, kirándulások költsége, szállás- és ellátási költségek).
+d) A célcsoport számára a projekt keretében célzottan beszerzett egyéb termékek és szolgáltatások, így különösen belépőjegyek, kirándulások költsége és az ahhoz kapcsolódó szállás- és ellátási költségek, lakhatási célú projekt esetében a bérleti díj és a kapcsolódó rezsiköltség.
 
 2.9. Projektmenedzsment költségek
 
 A projektmenedzsment költségek mértéke, elszámolható költségek
 
-A projektmenedzsment költségek mértéke együttesen nem haladhatja meg
+A projektmenedzsment költségek mértéke együttesen nem haladhatja meg:
 
-– beruházási jellegű projekt esetében a projekt összes elszámolható költségének 2,5%-át,
+a) beruházási jellegű projekt esetében a projekt összes elszámolható közvetlen költségének 2,5%-át,
 
-– nem beruházási jellegű projekt esetében a projekt összes elszámolható költségének 8%-át.
+b) nem beruházási jellegű projekt esetében a projekt összes elszámolható közvetlen költségének 8%-át.
 
 A projektmenedzsment költségeken belül kizárólag a következő tételek számolhatóak el:
 
 a) bármely kedvezményezett esetén
 
-aa) a projektjavaslat kidolgozása és a projektmegvalósítás alatti projektmenedzsment személyi jellegű ráfordításai a 2.5.1. alpontban foglaltaknak megfelelően,
+aa) a projektjavaslat kidolgozása és a projekt fizikai befejezéséig a projektmenedzsment személyi jellegű ráfordításai,
 
-ab) kifejezetten a projektmenedzsment tevékenységhez kötődő iroda- és eszközbérlet,
+ab) a kiküldetéshez kapcsolódó utazási költség a 2.7. pontban foglaltaknak megfelelően;
 
-ac) a menedzsment tevékenységhez kapcsolódó anyag – és az Sztv. 80. § (2) bekezdésében, illetve az Áhsz. hatálya alá tartozó szervezetek esetén az Áhsz. 1. § (4) bekezdése alapján meghatározott értékhatár alatti, egy összegben leírható tárgyi eszközök – költsége (pl. nyomtató, számológép, papír, írószer),
+b) a %-os korláttól, illetve a közszféra szervezetekre vonatkozó szűkített elszámolhatósági költségkörtől kizárólag technikai segítségnyújtás keretében támogatott azon projektek esetén lehet eltérni, amelyeknél a projekt fő tevékenysége a személyi jellegű ráfordítások támogatása.
 
-ad) a kiküldetéshez kapcsolódó utazási költség a 2.7. pontban foglaltaknak megfelelően;
-
-b) kizárólag nem közszféra kedvezményezettek esetén az a) pontban foglaltakon túlmenően a projektjavaslat kidolgozásához és a projektmegvalósítás alatti projektmenedzsmenthez igénybevett szakértői szolgáltatás díja;
-
-c) a %-os korláttól, illetve a közszféra szervezetekre vonatkozó szűkített elszámolhatósági költségkörtől kizárólag technikai segítségnyújtás keretében támogatott azon projektek esetén lehet eltérni, amelyeknél a projekt fő tevékenysége a személyi jellegű ráfordítások támogatása.
+A projektmenedzsment költségek tekintetében a százalékban meghatározott átalány alapú elszámolásra a pályázati kiírásban foglaltak alapján van lehetőség.
 
 2.10. Adók és közterhek, le nem vonható általános forgalmi adó
 
-A visszaigényelhető adók, közterhek nem számolhatóak el. Ha a kedvezményezettnek lenne rá lehetősége, azonban nem él a visszaigénylés lehetőségével, a visszaigényelhető adók, közterhek nem számolhatóak el.
+Ha a kedvezményezettnek lenne rá lehetősége, azonban nem él a visszaigénylés lehetőségével, a visszaigényelhető adók, közterhek nem számolhatóak el.
 
-A le nem vonható áfa elszámolható a projekt keretében, kivéve, ha a kedvezményezett az egyszerűsített vállalkozói adó (EVA) hatálya alá tartozik, ekkor az áfa nem elszámolható költség.
+A le nem vonható áfa elszámolható a projekt keretében, kivéve, ha a kedvezményezett az egyszerűsített vállalkozói adó hatálya alá tartozik, ekkor az áfa nem elszámolható költség.
 
-2.11. Elszámolható költségekre vonatkozó százalékos korlátok
-
-A jelen Útmutató hatálya alá tartozó projektek vonatkozásában egyes költségeknek a projekt összes elszámolható költségére vetített százalékos arányára a következő táblázatban összefoglalt korlátozásokat szükséges betartani.
-
-A Felelős Hatóság a pályázati kiírás keretében további korlátokat határozhat meg, vagy a táblázatban meghatározott százalékos mértékeket szűkítheti a felhívás céljának figyelembevételével.
-
-| Költségtípus | Mértéke %-ban |
-
-| Projekt-előkészítés, tervezés (jogszabályban, illetve pályázati kiírásban megkövetelt környezeti, fenntarthatósági hatástanulmányok, megvalósíthatósági tanulmányok elkészítésének költsége, beruházást tartalmazó projekteknél műszaki, kivitelezési tervek elkészítése, hatósági engedélyek megszerzésének költségei stb.) A közbeszerzési eljárások lefolytatásának költségét a százalékos korlátnak való megfelelés ellenőrzésekor nem kell figyelembe venni. | 5% |
-
-| Közbeszerzési eljárások lefolytatása | 1% |
-
-| Ingatlanvásárlás (föld, épület stb.) | 10% |
-
-| Terület-előkészítés (régészeti feltárás, lőszermentesítés, földmunkák stb.) | 2% |
-
-| Műszaki ellenőri szolgáltatás | 1% |
-
-| Projektmenedzsment | beruházási jellegű projekt esetében | 2,5% |
-
-| nem beruházási jellegű projekt esetében | 8% |
-
-| Tájékoztatás, nyilvánosság biztosítás | 0,5% |
-
-| Könyvvizsgálat | 0,5% |
-
-| Közvetett költség | beruházási jellegű projekt esetében | 1% |
-
-| nem beruházási jellegű projekt esetében | 7% |
-
-A táblázatban szereplő százalékos korlát a projekt megvalósításakor – projektszintű megtakarítás eredményeként – sem léphető át. Uniós jogszabályban vagy az Útmutatóban nem szabályozott százalékos korlát túllépésének engedélyezése (pl. projektszintű megtakarítás esetén) a Felelős Hatóság hatásköre.
-
-A táblázatban szereplő, százalékos korláttal korlátozott elszámolható költségek százalékban meghatározott átalányalapú módszerrel számolhatók el, ha a pályázati kiírás azt előírja, vagy lehetővé teszi.
-
-Kizárólag technikai segítségnyújtás keretében támogatott projektek esetén, ha a projekt fő tevékenysége a fenti táblázatban foglalt költségek elszámolása, a táblázatban foglalt, illetve az egyes címeknél is jelzett százalékos korlátoktól a Felelős Hatóság eltérhet.
-
-3. Általános (közvetett) költségek
-
-Az általános (közvetett) költségek nem kapcsolhatók teljes mértékben egy adott folyamathoz, vagy tevékenységhez, azonban elengedhetetlenek a projekt keretében támogatott tevékenység végzéséhez.
-
-Ilyen költségek a következők:
-
-– közüzemi díjak és szolgáltatások (pl. víz, gáz, elektromos áram, távhő, hulladékgazdálkodási közszolgáltatás, telefon, fax, internet, telekommunikációs költségek),
-
-– postaköltségek, ideértve az elektronikus kommunikáció működtetéséhez kapcsolódó költségeket is (pl. e-aláírás alkalmazásához kapcsolódó tanúsítvány, kriptográfiai eszközök, időbélyegzés költségei),
-
-– takarítás, hulladékgazdálkodás egyéb, nem közszolgáltatási díja, költsége,
-
-– őrzés,
-
-– állagmegóvás/karbantartás, ideértve az irodatechnikai és informatikai eszközök karbantartását is, kivéve a működési célú támogatások esetében,
-
-– biztosítási költség (pl. a kedvezményezett irodájának biztosítása),
-
-– bankszámlanyitás költsége (ha a pályázati kiírás értelmében kötelező önálló bankszámlát nyitni a projektre), rendes havi adminisztratív (kezelési) költség és tranzakciós költségek,
-
-– dokumentációs, irattárazási, archiválási költségek,
-
-– a vállalatirányítási tevékenységek (úgymint: jogi, adminisztratív, igazgatási, könyvelési, bérszámfejtési, ellenőrzési, kontrolling és egyéb a projekt megvalósítását közvetetten szolgáló tevékenységek ráfordításai).
-
-A közvetett költségek mértéke együttesen nem haladhatja meg
-
-– beruházási jellegű projekt esetében a projekt összes elszámolható költségének 1%-át,
-
-– nem beruházási jellegű projekt esetében a projekt összes elszámolható költségének 7%-át.
-
-Ezek a költségek csak a közvetett költségeken belül számolhatóak el, más költségkategóriákban nincs erre lehetőség.
-
-4. Elszámolhatósághoz kapcsolódó korlátozások
-
-4.1. Szállítói előleg
-
-A szállítói finanszírozás keretében – a kivitelezés, beszerzés, szolgáltatás keretében – fizetett előleg elszámolható, a támogatási szerződésben foglalt feltételeknek megfelelően. Szállítói finanszírozású szerződés keretében is csak olyan tételek támogathatóak, melyek közvetlen kifizetés esetén is elszámolhatóak lennének.
-
-4.2. Bevételek
-
-Annak érdekében, hogy a támogatott projektek a közgazdasági megvalósíthatóság szempontjából szükséges mértékű társfinanszírozásban részesüljenek, a projektek támogatásának kiszámításakor figyelembe kell venni mindazon bevételeket, amelyek közvetve vagy közvetlenül a támogatott projekt révén, annak megvalósítása, illetve fenntartása során keletkeznek, ezáltal a projekt külső finanszírozási igényét csökkentik.
-
-4.2.1. Bevétel, nettó bevétel fogalmának elkülönítése
-
-Jelen Útmutató szóhasználatában a következőképpen határoljuk el e fogalmakat:
-
-Bevétel a projekt megvalósítása és fenntartása során, a projekttevékenységgel összefüggésben keletkezett vagyoni érték.
-
-Nettó bevétel: a projekt keretében kínált vagy eredményeként létrejövő árukért, szolgáltatásokért közvetlenül a felhasználók által fizetett ellentételezés (pl. infrastruktúra használatáért közvetlenül a felhasználókat terhelő díj, a föld vagy épületek eladásából vagy bérbeadásából származó bevétel vagy a szolgáltatásokért kapott ellentételezés) és működési költségek, valamint az adott időszakban a rövid élettartamú eszközök cseréjére fordított költségek különbsége. Nettó bevételnek minősül a működési költség-megtakarítás is, ha azt a működtetésre irányuló támogatások ugyanolyan mértékű csökkentése nem ellentételezi.
-
-4.2.2. Bevételi kategóriák
-
-Különösen az alábbi tételek minősülhetnek bevételnek:
-
-– támogatásból beszerzett eszköz hasznosításából származó bevétel,
-
-– támogatásból fejlesztett ingatlan hasznosításából származó bevétel,
-
-– támogatással kiváltott ingatlan hasznosításából származó bevétel,
-
-– különböző tagdíjak, regisztrációs díjak befizetéseiből származó bevétel,
-
-– támogatott képzési díjak megfizetéséből származó bevétel,
-
-– tanulmányi szerződés keretében támogatott tanulmányok képzési díjának visszafizetéséből származó bevétel,
-
-– támogatott rendezvény belépő díjaiból származó bevétel,
-
-– egyéb támogatott tevékenységből származó bevételek (kivéve a 6. címben jelzett kategóriák),
-
-– működési költség-csökkenés.
-
-4.2.3. Levonásra nem kerülő bevételek
-
-Az alábbi, számviteli szempontból bevételként könyvelendő tételek, a jelen szabályozás értelmében nem képezik a nettó bevétel részét, így nem kerülnek levonásra:
-
-– kötbér,
-
-– támogatási előlegen realizált kamat,
-
-– a közbeszerzési dokumentáció eladásából származó bevétel, ha a dokumentáció ellenértéke megfelel a közbeszerzésekről szóló törvényben leírtaknak,
-
-– a foglalkoztatást célzó programok esetében a támogatott célcsoport foglalkoztatása során előállított termék, szolgáltatás értékesítéséből származó bevétel, ha a kedvezményezett e bevételeket a projekt céljaival összhangban a projekt megvalósítási időszakában a projekt megvalósításával szoros összefüggésben felmerült, a projekt költségvetésén kívüli kiadások finanszírozására fordítja, és a projekt céljainak megfelelő felhasználást igazolja.
-
-4.2.4. Bevételek levonása
-
-A nettó bevételeket teljes összegükben vagy arányosan kell levonni a projekt elszámolható költségéből, attól függően, hogy
-
-– a nettó bevétel teljes egészében vagy csak részben származott a támogatott projektből,
-
-– a támogatott projekt összes költsége vagy csak egy része kerül-e a projekt keretében elszámolásra.
-
-A keletkezett nettó bevétel miatti levonás mértéke az alábbi módon kerül meghatározásra:
-
-1. A nettó bevétel teljes egészében vagy csak részben származott a támogatott projektből:
-
-a) ha a teljes nettó bevétel a támogatott projektből származik, a teljes nettó bevétel figyelembevételre kerül, a 2. pontban foglaltak szerint;
-
-b) ha csak a nettó bevétel egy része származik a támogatott projektből, akkor az a támogatott projekthez és az egyéb releváns tevékenységekhez kapcsolódó összes – beruházási és működési – költség alapján kerül arányosításra.
-
-2. A támogatott tevékenység összes költsége vagy csak egy része kerül a projekt keretében elszámolásra:
-
-a) ha a támogatott tevékenység összes költsége elszámolásra kerül a projekt keretében (tehát a projekt összköltsége azonos a projekt keretében elszámolható költségek összegével), akkor az 1. pont szerint nettó bevétel teljes összegében beszámításra kerül;
-
-b) ha a támogatott tevékenység költségeinek csak egy része kerül a projekt keretében elszámolásra (a kedvezményezett által biztosított nem elszámolható hozzájárulás következtében), akkor az 1. pont szerinti nettó bevétel a projekt elszámolható költsége és az összes – beruházási és működési – költsége alapján kerül arányosításra.
-
-A projekt összköltségének részét képezik a pályázati kiírás szerint nem elszámolható költségek és a pályázati kiírásban meghatározott korlát (fajlagos mutató, belső korlát stb.) miatt teljes mértékben nem elszámolható költségek is.
-
-A bevételek kezelésekor is biztosítani kell a kettős finanszírozás elkerülését.
-
-Bevételek figyelembevételének időtartama
-
-Bevételként legkésőbb a projekt fizikai befejezéséig számlázott bevételeket kell figyelembe venni. (A fizikai befejezés időpontja megegyezik az üzembe helyezés időpontjával). Ha a projekt projektelemekre bontható, amelyek üzembe helyezési időpontja egymástól független, akkor a projektelemek által termelt bevétel csak az adott projektelem üzembe helyezéséig felmerülten kerül figyelembevételre.
-
-4.3. Jólteljesítési garancia és garanciális visszatartás
-
-A jólteljesítési vagy visszatartási garanciával érintett számla teljes összegben akkor elszámolható, ha a garanciális időszak teljes egészében a projektmegvalósítási időszakra esik. A visszatartott összeg csak a garanciális időszakot követően számolható el.
-
-Ha a garanciális időszak a projektmegvalósítási időszakot meghaladja, a Kedvezményezett a garanciával érintett, visszatartott összeget nem tudja elszámolni. Ilyenkor célszerű más teljesítési biztosítékot kikötni (pl. közös rendelkezési jog egy elkülönített bankszámlán, bankgarancia, bizonyos összeg vállalkozó általi letétbe helyezése), mely esetben a garanciával érintett összeg elszámolhatóvá válik.
-
-5. Speciális elszámolhatósági szabályok
-
-5.1. Kutatás-fejlesztés és innováció
+2.11. Kutatás-fejlesztés és innováció
 
 A kutatás-fejlesztési és innovációs támogatás csak abban az esetben nyújtható, ha az a normál működésen túlmutató kutatás-fejlesztési és innovációs tevékenységre ösztönöz.
 
-Elszámolható költség a programban részt vevő kutatók, fejlesztők, mérnökök, technikusok és egyéb kisegítő személyzet személyi jellegű ráfordításai, a kutatás-fejlesztési és innovációs célra használt eszközök és immateriális javak bekerülési értéke, a kizárólag az adott kutatás-fejlesztéshez, innovációhoz igénybe vett anyagfelhasználás és szolgáltatások költségei, ill. megbízási díj.
+Elszámolható költség a programban részt vevő kutatók, fejlesztők, mérnökök, technikusok és egyéb kisegítő személyzet személyi jellegű ráfordításai, a kutatás-fejlesztési és innovációs célra használt eszközök és immateriális javak bekerülési értéke, a kizárólag az adott kutatás-fejlesztéshez, innovációhoz igénybe vett anyagfelhasználás és szolgáltatások költségei, illetve megbízási díj.
 
-A K+F+I tevékenységekkel kapcsolatban felmerülő speciális – az Útmutató 2. címében nem említett – elszámolható költségek az alábbiak:
+A K+F+I tevékenységekkel kapcsolatban felmerülő speciális elszámolható költségek az alábbiak:
 
-– Eljárási és szervezési innovációhoz nyújtott támogatás esetében a szervezési innováció tekintetében a költségek kizárólag az infokommunikációs technológia eszközei és felszerelése beszerzési költségeit jelenthetik.
+a) Eljárási és szervezési innovációhoz nyújtott támogatás esetében a szervezési innováció tekintetében a költségek kizárólag az infokommunikációs technológia eszközei és felszerelése beszerzési költségeit jelenthetik.
 
-– A magasan képzett munkaerő kölcsönzéséhez nyújtott támogatás alkalmazása esetén az elszámolható költségek körébe tartozik minden, a magasan képzett munkaerő kölcsönzésével és foglalkoztatásával járó, a KKV-knál felmerülő költség, ideértve a közvetítő ügynökség igénybevételének költségeit, a munkaerő-kölcsönzés díját, valamint a kölcsönzött munkaerő mobilitási juttatásaként jelentkező ráfordításokat az Sztv. szerint, ha e költségek nem haladják meg a piaci árat. A tanácsadás költségei nem számolhatóak el.
+b) A magasan képzett munkaerő kölcsönzéséhez nyújtott támogatás alkalmazása esetén az elszámolható költségek körébe tartozik minden, a magasan képzett munkaerő kölcsönzésével és foglalkoztatásával járó, a KKV-knál felmerülő költség, ideértve a közvetítő ügynökség igénybevételének költségeit, a munkaerő-kölcsönzés díját, valamint a kölcsönzött munkaerő mobilitási juttatásaként jelentkező ráfordításokat az Sztv. szerint, ha e költségek nem haladják meg a piaci árat. A tanácsadás költségei nem számolhatóak el.
+
+3. Általános (közvetett) költségek
+
+Az általános (közvetett) költségek nem kapcsolhatók teljes mértékben egy adott folyamathoz vagy tevékenységhez, azonban elengedhetetlenek a projekt keretében támogatott tevékenység végzéséhez.
+
+Ilyen költségek a következők:
+
+a) közüzemi díjak és szolgáltatások (például víz, gáz, elektromos áram, távhő, hulladékkezelési közszolgáltatás, telefon, fax, internet, telekommunikációs költségek),
+
+b) postaköltségek, ideértve az elektronikus kommunikáció működtetéséhez kapcsolódó költségeket is (például e-aláírás alkalmazásához kapcsolódó tanúsítvány, kriptográfiai eszközök, időbélyegzés költségei),
+
+c) takarítás,
+
+d) őrzés,
+
+e) állagmegóvás/karbantartás, ideértve az irodatechnikai és informatikai eszközök karbantartását is, kivéve a működési célú támogatások esetében,
+
+f) biztosítási költség, így különösen a kedvezményezett irodájának biztosítása,
+
+g) bankszámlanyitás költsége (ha a pályázati kiírás értelmében kötelező önálló bankszámlát nyitni a projektre), rendes havi adminisztratív (kezelési) költség és tranzakciós költségek,
+
+h) dokumentációs, irattárazási, archiválási költségek,
+
+i) a vállalatirányítási tevékenységek így különösen jogi, adminisztratív, igazgatási, könyvelési, bérszámfejtési, ellenőrzési, kontrolling és egyéb, a projekt megvalósítását közvetetten szolgáló tevékenységek ráfordításai,
+
+j) a kapcsolódó anyag – és az Sztv. 80. § (2) bekezdésében, illetve az Áhsz. hatálya alá tartozó szervezetek esetén az Áhsz. 1. § (1) bekezdés 4. pontja alapján meghatározott értékhatár alatti, egy összegben leírható tárgyi eszközök – költsége, így különösen nyomtató, számológép, papír, írószer,
+
+k) kifejezetten a projektmenedzsment tevékenységhez kötődő irodabérlet.
+
+A közvetett költségek mértéke együttesen nem haladhatja meg
+
+a) beruházási jellegű projekt esetében a projekt összes elszámolható közvetlen költségének 1%-át,
+
+b) nem beruházási jellegű projekt esetében a projekt összes elszámolható közvetlen költségének 7%-át.
+
+Ezek a költségek csak a közvetett költségeken belül számolhatóak el, más költségkategóriákban nincs erre lehetőség.
+
+Közvetett költség a kizárólag működési célú támogatásra irányuló projektek keretében nem számolható el. A közvetett költség további korlátozására a pályázati kiírásban a Felelős Hatóság jogosult. A saját teljesítésben megvalósuló tevékenység esetén az önköltségi ár kalkulálásakor figyelembe vett, az útmutató által közvetett költségként definiált kiadások esetében az önköltségi áras költségtételekre vonatkozóan közvetett költség – a kettős finanszírozás elkerülése érdekében – a projekt keretében már nem tervezhető.
+
+4. Elszámolható költségekre vonatkozó százalékos korlátok
+
+A jelen Útmutató hatálya alá tartozó projektek vonatkozásában egyes költségeknek a projekt összes elszámolható közvetlen költségére vetített százalékos arányára a következő táblázatban összefoglalt korlátozásokat szükséges betartani.
+
+A Felelős Hatóság a pályázati kiírás keretében további korlátokat határozhat meg, vagy a táblázatban meghatározott százalékos mértékeket szűkítheti a kiírás céljának figyelembevételével.
+
+|  | A | B |
+
+| 1. | Költségtípus | Mértéke %-ban |
+
+| 2. | Projekt-előkészítés, tervezés (jogszabályban, illetve pályázati kiírásban megkövetelt megvalósíthatósági tanulmányok elkészítésének költsége, beruházást tartalmazó projekteknél műszaki, kivitelezési tervek elkészítése, hatósági engedélyek megszerzésének költségei stb.). A közbeszerzési eljárások lefolytatásának költségét a százalékos korlátnak való megfelelés ellenőrzésekor nem kell figyelembe venni. | 5% |
+
+| 3. | Közbeszerzési eljárások lefolytatása | 1% |
+
+| 4. | Ingatlanvásárlás (föld, épület stb.) | 10% |
+
+| 5. | Terület-előkészítés (régészeti feltárás, lőszermentesítés, földmunkák stb.) | 2% |
+
+| 6. | Műszaki ellenőri szolgáltatás | 1% |
+
+| 7. | Projektmenedzsment | beruházási jellegű projekt esetében | 2,5% |
+
+| 8. |  | nem beruházási jellegű projekt esetében | 8% |
+
+| 9. | Tájékoztatás, nyilvánosság biztosítás | 0,5% |
+
+| 10. | Könyvvizsgálat | 0,5% |
+
+| 11. | Közvetett költség | beruházási jellegű projekt esetében | 1% |
+
+| 12. |  | nem beruházási jellegű projekt esetében | 7% |
+
+A táblázatban szereplő százalékos korlát a projekt megvalósításakor – projektszintű megtakarítás eredményeként – sem léphető át. A kiírásban meghatározott, de uniós jogszabályban vagy az Útmutatóban nem szabályozott százalékos korlát túllépésének engedélyezése, így különösen projektszintű megtakarítás esetén a Felelős Hatóság hatásköre.
+
+A táblázatban szereplő, százalékos korláttal korlátozott elszámolható költségek százalékban meghatározott átalányalapú módszerrel számolhatók el, ha a pályázati kiírás azt előírja vagy lehetővé teszi.
+
+Kizárólag technikai segítségnyújtás keretében támogatott projektek esetén, ha a projekt fő tevékenysége a fenti táblázatban foglalt költségek elszámolása, a táblázatban foglalt, illetve az egyes címeknél is jelzett százalékos korlátoktól a Felelős Hatóság eltérhet.
+
+5. Bevételek
+
+Bevétel a projekt megvalósítása során, a projekttevékenységgel összefüggésben keletkezett – különösen az alábbi – tételek:
+
+a) különböző tagdíjak, regisztrációs díjak befizetéseiből származó bevétel,
+
+b) támogatott képzési díjak megfizetéséből származó bevétel,
+
+c) tanulmányi szerződés keretében támogatott tanulmányok képzési díjának visszafizetéséből származó bevétel,
+
+d) támogatott rendezvény belépődíjaiból származó bevétel,
+
+e) egyéb támogatott tevékenységből származó bevételek, kivéve a 2.11. pontban jelzett kategóriák.
+
+Levonásra nem kerülő tételek
+
+Az alábbi, számviteli szempontból bevételként könyvelendő tételek, a jelen szabályozás értelmében nem képezik a bevétel részét, így nem kerülnek levonásra:
+
+a) kötbér;
+
+b) a támogatási előlegen realizált kamat;
+
+c) foglalkoztatást célzó programok esetében a támogatott célcsoport foglalkoztatása során előállított termék, szolgáltatás értékesítéséből származó bevétel, ha a kedvezményezett e bevételeket a projekt céljaival összhangban a projekt megvalósítási időszakában a projekt megvalósításával szoros összefüggésben felmerült, a projekt költségvetésén kívüli kiadások finanszírozására fordítja és a projekt céljainak megfelelő felhasználást igazolja.
+
+5.1. Bevételek levonása
+
+A bevételeket teljes összegükben vagy arányosan kell levonni a projekt elszámolható költségéből, attól függően, hogy
+
+a) a bevétel teljes egészében vagy csak részben származott a támogatott projektből, illetve
+
+b) a támogatott projekt összes költsége vagy csak egy része kerül-e a projekt keretében elszámolásra.
+
+A keletkezett bevétel miatti levonás mértéke az alábbi módon kerül meghatározásra:
+
+1. A bevétel teljes egészében vagy csak részben származott a támogatott projektből:
+
+a) ha a teljes bevétel a támogatott projektből származik, a teljes bevétel figyelembevételre kerül, a 2. pontban foglaltak szerint;
+
+b) ha csak a bevétel egy része származik a támogatott projektből, akkor az a támogatott projekthez és az egyéb releváns tevékenységekhez kapcsolódó összes – beruházási és működési – költség alapján kerül arányosításra.
+
+2. A támogatott tevékenység összes költsége vagy csak egy része kerül a projekt keretében elszámolásra:
+
+a) ha a támogatott tevékenység összes költsége elszámolásra kerül a projekt keretében (tehát a projekt összköltsége azonos a projekt keretében elszámolható költségek összegével), akkor az 1. pont szerint a bevétel teljes összegében beszámításra kerül;
+
+b) ha a támogatott tevékenység költségeinek csak egy része kerül a projekt keretében elszámolásra (a kedvezményezett által biztosított nem elszámolható hozzájárulás következtében, osztott finanszírozás esetén), akkor az 1. pont szerinti bevétel a projekt elszámolható költsége és az összes – beruházási és működési – költsége alapján kerül arányosításra.
+
+A bevételek kezelésekor is biztosítani kell a kettős finanszírozás elkerülését.
+
+5.2. Bevételek figyelembevételének időtartama
+
+Bevételként legkésőbb a projekt fizikai befejezéséig számlázott bevételeket kell figyelembe venni. Az üzembe helyezésnek a fizikai befejezés időpontjáig meg kell történnie. Ha a projekt projektelemekre bontható, amelyek üzembe helyezési időpontja egymástól független, akkor a projektelemek által termelt bevétel csak az adott projektelem üzembe helyezéséig felmerülten kerül figyelembevételre.
 
 6. Nem elszámolható költségek
 
-Bármely alap keretében támogatott projekt esetén nem elszámolható költség
+Bármely alap keretében támogatott projekt esetén nem elszámolható költség:
 
-– levonható áfa;
+a) levonható áfa, adó és közterhek;
 
-– hitelkamat;
+b) hitelkamat;
 
-– pénzügyi, finanszírozási tranzakciókon realizált árfolyamveszteség;
+c) pénzügyi, finanszírozási tranzakciókon realizált árfolyamveszteség;
 
-– bírságok és perköltségek[^7];
+d) bírságok és perköltségek[^13];
 
-– beépített föld vásárlása a projekt összes elszámolható költségének 10%-át meghaladó mértékben;
+e) beépített föld vásárlása a projekt összes elszámolható közvetlen költségének 10%-át meghaladó mértékben;
 
-– beépítetlen földterület vásárlása;
+f) beépítetlen földterület vásárlása;
 
-– személyi költségek keretében a jutalom és a sikerdíj összege;
+g) személyi költségek keretében a jutalom és a sikerdíj összege;
 
-– olyan alvállalkozásba adott tevékenységek, amelyek anélkül emelik a végrehajtás költségeit, hogy hozzáadott értékkel rendelkeznének a projekt szempontjából;
+h) szakképzési hozzájárulás[^14];
 
-– kormánytisztviselők, közalkalmazottak, a kedvezményezettnél alkalmazásban álló egyéb személyek elszámolt béren felüli díjazása, ha szokásos napi közigazgatási feladataikhoz és munkakörükhöz kapcsolódik;
+i) olyan alvállalkozásba adott tevékenységek, amelyek anélkül emelik a végrehajtás költségeit, hogy hozzáadott értékkel rendelkeznének a projekt szempontjából;
 
-– projektszemélyzetre költött ajándék és reprezentációs költségek, harmadik félnek továbbszámlázott költség;
+j) kormánytisztviselők, közalkalmazottak, a kedvezményezettnél alkalmazásban álló egyéb személyek elszámolt béren felüli díjazása, ha szokásos napi közigazgatási feladataikhoz és munkakörükhöz kapcsolódik;
 
-– a számviteli nyilvántartásban nem aktivált, valamint a fel nem használt tárgyi eszköz és készlet beszerzési költsége;
+k) projektszemélyzetre költött ajándék és reprezentációs költségek, harmadik félnek továbbszámlázott költség;
 
-– az eszközbeszerzésekhez kapcsolódó, a projektmegvalósítás határidejét követően felmerült support költségek;
+l) a számviteli nyilvántartásban nem aktivált, valamint a fel nem használt tárgyi eszköz és készlet beszerzési költsége;
 
-– a valuta átváltásokból származó árfolyamveszteségek, illetve díjak, valamint a kamattartozás kiegyenlítése, hitelkeret-túllépés költsége, egyéb pénzügyforgalmi költségek stb.
+m) az eszközbeszerzésekhez kapcsolódó, a projekt fizikai befejezését követően felmerült support költségek;
+
+n) a valuta átváltásokból származó árfolyamveszteségek, illetve díjak, valamint a kamattartozás kiegyenlítése, hitelkeret-túllépés költsége, egyéb pénzügyforgalmi költségek stb.;
+
+o) rendelkezésre állási díj szolgáltatásvásárlás keretében;
+
+p) a projektmegvalósítási időszakot meghaladó garanciális időszak esetében, a jólteljesítési és visszatartási garanciával érintett, visszatartott összeg.
 
 7. Egyszerűsített elszámolási mód
 
@@ -784,11 +698,11 @@ A horizontális rendelet 18. cikke értelmében a 2014–2020-as időszakban fel
 
 A tételes, dokumentum alapú elszámoláson túl alkalmazható – átalány alapú – elszámolási módok a következők:
 
-– százalékban meghatározott átalány (flat rate),
+a) százalékban meghatározott átalány (flat rate),
 
-– átalányalapú egységköltség (standard scale of unit cost),
+b) átalányalapú egységköltség (standard scale of unit cost),
 
-– egyösszegű átalány (lump sum).
+c) egyösszegű átalány (lump sum).
 
 A felsorolt elszámolási módok lehetőséget adnak a költségek elszámolására anélkül, hogy a kedvezményezett a felmerült költségeket a kifizetési igénylésében részletesen bemutatná, alátámasztó dokumentumok bemutatásával igazolná. A támogatást nyújtó és ellenőrző szervezetek nem kérik sem a dokumentum alapú, sem a helyszíni ellenőrzés során a felmerülést igazoló dokumentumokat, elszámoló bizonylatokat, könyvelési nyilvántartást.
 
@@ -796,7 +710,9 @@ Az alkalmazható elszámolási módok kombinálhatók, de egy elszámolható kö
 
 Az egyszerűsített elszámolási módok bevezetése módszertani megalapozáshoz kötött, kivéve, ahol a horizontális rendelet az ettől való eltekintésre lehetőséget ad. A javasolt elszámolási módok bevezetését megalapozó módszertant, alkalmazási feltételeit, korlátait előzetesen, tisztességes, méltányos és ellenőrizhető számítás alapján kell megállapítani.
 
-Ha egyszerűsített elszámolási módszertan valamely költségtípus esetén biztosított, és az Útmutató az adott költségtípus elszámolása során átalány alapú elszámolást ír elő, úgy kötelező a pályázati kiírásban, illetve a projektmegvalósítás során – a pályázati kiírásban érintett valamennyi kedvezményezettre vonatkozóan – az átalány alapú elszámolás használata.
+Ha egyszerűsített elszámolási módszertan valamely költségtípus esetén biztosított és az Útmutató az adott költségtípus elszámolása során átalány alapú elszámolást ír elő, úgy kötelező a pályázati kiírásban, illetve a projektmegvalósítás során – a pályázati kiírásban érintett valamennyi kedvezményezettre vonatkozóan – az átalány alapú elszámolás használata.
+
+A közvetlen költségek esetében egyszerűsített elszámolási módon történő elszámolás akkor alkalmazható, ha az adott költség nem közbeszerzés-köteles tevékenységhez kapcsolódik és ha azt a pályázati kiírás előírja.
 
 7.1. Százalékban meghatározott átalány
 
@@ -806,37 +722,37 @@ A Felelős Hatóság a pályázati kiírás keretében bizonyos elszámolható k
 
 7.1.2. Az Európai Bizottság által előírt százalékos átalány mértékek alkalmazása – módszertani megalapozás nélkül
 
-A Felelős Hatóság a pályázati kiírás keretében alkalmazhatja az Európai Bizottság által előírt százalékos átalánymértékeket, anélkül, hogy módszertani előkészítést kellene készítenie.
+A Felelős Hatóság a pályázati kiírás keretében alkalmazhatja az Európai Bizottság által előírt százalékos átalánymértékeket anélkül, hogy módszertani előkészítést kellene készítenie.
 
 7.2. Átalány alapú egységköltség
 
-Az átalány alapú elszámolás olyan változata, amellyel az eddigi input-orientált rendszer helyett, egy output-, illetve folyamatelem-orientált rendszer felé lehet elmozdulni. A módszer szerint a mérhető outputhoz, folyamatelemhez egységköltségeket kell meghatározni, és az elszámolható költség a teljesített output darabszámának és a kapcsolódó egységköltségnek a szorzatával egyenlő.
+Az átalány alapú elszámolás olyan változata, amellyel az eddigi input-orientált rendszer helyett egy output-, illetve folyamatelem-orientált rendszer felé lehet elmozdulni. A módszer szerint a mérhető outputhoz, folyamatelemhez egységköltségeket kell meghatározni, és az elszámolható költség a teljesített output darabszámának és a kapcsolódó egységköltségnek a szorzatával egyenlő.
 
-Az átalány alapú egységköltség szerinti elszámolás során kizárólag a mennyiséget kell igazolni, és nem az egységköltség ténylegesen felmerült költségösszegének alátámasztottságát.
+Az átalány alapú egységköltség szerinti elszámolás során kizárólag a mennyiséget kell igazolni és nem az egységköltség ténylegesen felmerült költségösszegének alátámasztottságát.
 
 7.2.1. Átalány alapú egységköltség megállapítása – módszertani megalapozással
 
 Az egységköltség megállapításnak lehetséges módszerei:
 
-– korábbi pénzügyi adatok, kimutatások, statisztikai analízis, tanulmány stb.,
+a) korábbi pénzügyi adatok, kimutatások, statisztikai analízis, tanulmány stb.,
 
-– nemzeti hatóságok által alkalmazott egységárak (pl. üzemanyag norma),
+b) nemzeti hatóságok által alkalmazott egységárak (pl. üzemanyag norma),
 
-– piaci ár.
+c) piaci ár.
 
-Az átalány alapú egység költség értékét a Felelős Hatóság adott pályázati kiírás keretében határozza meg, ez esetben a módszertani megalapozás a Felelős Hatóság felelőssége.
+Az átalány alapú egységköltség értékét a Felelős Hatóság adott pályázati kiírás keretében határozza meg, ez esetben a módszertani megalapozás a Felelős Hatóság felelőssége.
 
 7.2.2. Az Európai Bizottság által előírt átalány alapú egységköltség – módszertani megalapozás nélkül
 
-A projekt szakmai megvalósításában közvetlenül közreműködő munkatársak személyi jellegű ráfordításainak egységköltségére az Európai Bizottsági ajánlás szerint az éves bruttó személy jellegű ráfordítást osztani kell 1720 órával.
+A projekt szakmai megvalósításában közvetlenül közreműködő munkatársak személyi jellegű ráfordításainak egységköltségére az európai bizottsági ajánlás szerint az éves bruttó személy jellegű ráfordítást osztani kell 1720 órával.
 
 7.3. Egyösszegű átalány
 
 Az átalány alapú elszámolás egy változata, amikor a projekt támogatási összege vagy annak egy része előre rögzített egy összegben és előre rögzített feltételek teljesülése esetén kerül folyósításra a kedvezményezett számára.
 
-Olyan projekteknél érdemes alkalmazni, ahol az output kevésbé számszerűsíthető, vagy kevésbé részekre bontható, azaz output helyett inkább eredmény-orientált megközelítést hordoz magában (teljesült/nem teljesült megközelítés).
+Olyan projekteknél érdemes alkalmazni, ahol az output kevésbé számszerűsíthető vagy kevésbé részekre bontható, azaz output helyett inkább eredmény-orientált megközelítést hordoz magában (teljesült/nem teljesült megközelítés).
 
-A módszer szerint az előre pontosan definiált eredmény egy előzetes valós költségbecslésén alapszik. Az ellenőrzés a támogatás igazolásához a projekt előrehaladását/teljesülését fogja vizsgálni, és nem a valós költségeket. Az egyösszegű átalány alapú elszámolás lefedheti a projekt egészét, illetve annak egy részét (egy vagy több tevékenységét).
+A módszer szerint az előre pontosan definiált eredmény egy előzetes valós költségbecslésen alapszik. Az ellenőrzés a támogatás igazolásához a projekt előrehaladását/teljesülését fogja vizsgálni, és nem a valós költségeket. Az egyösszegű átalány alapú elszámolás lefedheti a projekt egészét, illetve annak egy részét (egy vagy több tevékenységét).
 
 Az egyösszegű átalány alapú támogatás kifizetése során nincs lehetőség arányosításra. Ha a teljesítés nem 100%-os, nincs lehetőség támogatás kifizetésére, kivéve ha a támogatási szerződésben a közbenső lépések arányos kifizetéssel rögzítésre kerültek.
 
@@ -844,10 +760,13 @@ Az egyösszegű átalány alapú támogatás kifizetése során nincs lehetősé
 
 Az egyösszegű átalány összegét a Felelős Hatóság az adott pályázati kiírás keretében határozza meg, ez esetben a módszertani megalapozás a Felelős Hatóság felelőssége.
 
-[^1]: Jogszabályi hivatkozások: 513/2014/EU rendelet (BBA rendőri együttműködés) 4. cikke, 515/2014/EU (BBA külső határok és vízumügy) 4. cikke, 516/2014/EU (MMIA) II., III. és IV. fejezete cikkei.
-[^2]: A pótmunka jogi szabályozására: Ptk. 6:244. § (2) bekezdését, az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendeletet.
-[^3]: A számviteli törvény 26. § (2) és (3) bekezdése.
-[^4]: A számviteli törvény 26. § (3) bekezdése alapján.
-[^5]: 2000. évi C. törvény 52–53. §-a alapján.
-[^6]: Például: 60/1992. (IV. 1.) Korm. rendelet, 15/2011. (V. 23.) BM utasítás.
-[^7]: A polgári perrendtartásról szóló 1952. évi III. törvény 75. § (1) bekezdés szerinti perköltség fogalom alapján, függetlenül attól, hogy bíróság által megítélésre került-e.
+[^5]: Az 1. melléklet a 11/2016. (II. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^6]: Jogszabályi hivatkozások: 513/2014/EU rendelet (BBA rendőri együttműködés) 4. cikke, 515/2014/EU (BBA külső határok és vízumügy) 4. cikke, 516/2014/EU (MMIA) II., III. és IV. fejezete cikkei.
+[^7]: Az Sztv. 26. § (2) és (3) bekezdése.
+[^8]: Az Sztv. 26. § (3) bekezdése alapján.
+[^9]: Sztv. 52–53. §-a alapján.
+[^10]: A 33/1998. (VI. 24.) NM rendelet alapján.
+[^11]: Például: 60/1992. (IV. 1.) Korm. rendelet.
+[^12]: Például: 20/2015. (VII. 31.) BM utasítás.
+[^13]: A polgári perrendtartásról szóló 1952. évi III. törvény 75. § (1) bekezdése szerinti perköltség fogalom alapján, függetlenül attól, hogy bíróság által megítélésre került-e.
+[^14]: a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáró1 szóló 2011. évi CLV. törvény szerinti

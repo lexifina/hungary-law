@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-135-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-06-03 | 2015-135-20-22.1 | 135/2015. (VI. 2.) Korm. rendelet |
+| 2016-02-10 | 2015-135-20-22.2 | 11/2016. (II. 9.) Korm. rendelet |
