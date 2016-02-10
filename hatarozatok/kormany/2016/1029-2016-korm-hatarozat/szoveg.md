@@ -30,4 +30,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-7. visszavonja a Lendvai Konzuli Iroda nyitásához kapcsolódó feladatokról szóló 1945/2013. (XII. 17.) Korm. határozatot.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
