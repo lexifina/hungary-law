@@ -1,0 +1,3 @@
+## 1. § A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 24/A. §-a alapján a Fonciere Polygone Hungária Kft. (székhely: 1101 Budapest, Albertirsai út 10., cégjegyzékszám: 01-09-734453, a továbbiakban: Társaság) 99,9934169% társasági részesedésének az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság általi megszerzését – a Társaság tulajdonában álló Hungexpo Budapesti Vásárváros ingatlan feletti állami kontroll biztosítása érdekében – közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
