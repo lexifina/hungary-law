@@ -24,6 +24,8 @@ d) megállapítja
 
 da) az ösztöndíjprogramba felvehető ösztöndíjasok számát,
 
-db) az ösztöndíj havi összegét és az elszámolható havi költségkeretet,
+db)[^1] az ösztöndíj havi összegét,
 
 e) dönt a pályázat eredményéről.
+
+[^1]: A 3. § d) pont db) alpontja a 12/2016. (II. 9.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
