@@ -8,7 +8,7 @@
 
 (3)[^4] E rendelet hatálya nem terjed ki azokra a szervekre, amelyek ellátása a BM rendelet alapján valósul meg.
 
-(3a)[^5] E rendelet hatálya nem terjed ki azokra az európai uniós támogatással megvalósuló beszerzésekre, amelyek értéke meghaladja a közbeszerzésekről szóló 2011. évi CVIII. törvényben (a továbbiakban: Kbt.) meghatározott közbeszerzési értékhatárt.
+(3a)[^5] E rendelet hatálya nem terjed ki azokra az európai uniós támogatással megvalósuló beszerzésekre, amelyek értéke meghaladja a központi költségvetésről szóló törvényben meghatározott közbeszerzési értékhatárt.
 
 (4) A Kedvezményezett által igényelt termékek és szolgáltatások kapcsán vizsgálni kell, hogy annak előállítása a fogvatartottak kötelező foglalkoztatása keretében történő előállítás keretei között biztosítható minőségi és mennyiségi korlátok mellett megvalósítható-e. Amennyiben a Központi Ellátó Szerv nyilatkozata alapján valamely oknál fogva a kötelezettségét nem vagy csak részben képes teljesíteni, a Kedvezményezett jogosult a termékek és szolgáltatások egészének vagy a Központi Ellátó Szerv által nem biztosított részének beszerzésére.
 
@@ -22,5 +22,5 @@
 [^2]: Az 1. § (2) bekezdése a 286/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2a) bekezdését a 286/2011. (XII. 22.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^4]: Az 1. § (3) bekezdése a 17/2013. (I. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (3a) bekezdését a 17/2013. (I. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^5]: Az 1. § (3a) bekezdését a 17/2013. (I. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 9/2016. (II. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (6) bekezdése a 73/2012. (IV. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
