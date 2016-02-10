@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-199-00-00
 | --- | --- | --- |
 | 2015-12-13 | 2015. évi CXCIX. törvény | 2015-199-00-00.0 (közlönyállapot) |
 | 2015-12-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-199-00-00.1 |
+| 2016-02-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-199-00-00.2 |
