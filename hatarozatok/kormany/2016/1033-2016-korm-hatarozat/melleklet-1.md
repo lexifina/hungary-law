@@ -18,6 +18,8 @@
 
 ## Határidő: 2017. január 31.
 
-## 2. visszavonja a kéményseprő-ipari ellátás folyamatos biztosítása érdekében szükséges intézkedésekről szóló 1152/2015. (III. 17.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1033/2016. (II. 9.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
