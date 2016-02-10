@@ -68,7 +68,9 @@ b)[^42] szabálysértési ügyek
 
 8. szabálysértési perújítási ügy,
 
-9. bíróság kijelölése szabálysértési ügyben;
+9. szabálysértési perújítási fellebbezett ügy,
+
+10. bíróság kijelölése szabálysértési ügyben;
 
 c)[^43] polgári ügyszakban
 
@@ -133,7 +135,7 @@ f)[^48] valamennyi ügyszakban a jogegységi határozat hozatalára irányuló k
 [^39]: A 29. § a) pontjának 21. alpontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba. A 29. § a) pontjának 21. alpontját újonnan a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^40]: A 29. § a) pontjának 22. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^41]: A 29. § a) pontjának 23. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^42]: A 29. § b) pontja a 21/2014. (III. 13.) KIM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^42]: A 29. § b) pontja az 1/2016. (II. 9.) IM rendelet 1. §-ával megállapított szöveg.
 [^43]: A 29. § c) pontja a 21/2014. (III. 13.) KIM rendelet 12. § (3) bekezdésével megállapított szöveg.
 [^44]: A 29. § d) pont 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (4) bekezdése iktatta be, szövege a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdésével megállapított szöveg.
 [^45]: A 29. § d) pont 8. alpontját a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdése iktatta be.
