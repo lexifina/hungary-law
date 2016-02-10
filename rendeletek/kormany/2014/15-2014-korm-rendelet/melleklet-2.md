@@ -28,6 +28,10 @@
 
 | 13. | Budapest Bozsik Stadion labdarúgó sportlétesítmény-fejlesztése | Nemzeti Sportközpontok | Budapest közigazgatási területén fekvő, 168207 helyrajzi számú ingatlan |
 
+| 14. | Budapest Illovszky Rudolf Stadion labdarúgó sportlétesítmény-fejlesztése | Vasas Sport Club | Budapest XIII. kerület közigazgatási területén fekvő, 26085/1123 helyrajzi számú ingatlan |
+
+| 15. | Paks labdarúgó sportlétesítmény-fejlesztése | Paks Város Önkormányzata | Paks közigazgatási területén fekvő, 2132 és 2133 helyrajzi számú ingatlanok |
+
 2. melléklet a 15/2014. (I. 30.) Korm. rendelethez
 
 ## Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
@@ -52,7 +56,7 @@
 
 10. útügyi hatósági eljárások,
 
-11.[^6] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+11.[^10] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 12. műszaki biztonsági engedélyezési eljárások,
 
@@ -72,6 +76,9 @@
 
 20. közegészségügyi hatósági eljárások,
 
+20a.[^11] azok az 1–20. pontban nem szereplő hatósági engedélyezési és tudomásulvételi eljárások, amelyek az 1. § (1) bekezdése szerinti beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: A 2. melléklet 11. pontja a 72/2015. (III. 30.) Korm. rendelet 74. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^10]: A 2. melléklet 11. pontja a 72/2015. (III. 30.) Korm. rendelet 74. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^11]: A 2. melléklet 20a. pontját a 15/2016. (II. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
