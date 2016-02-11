@@ -1,0 +1,1 @@
+## 20. § A családi otthonteremtési kedvezménnyel felépített vagy megvásárolt új lakásban csak a támogatott személyek szerezhetnek tulajdont. Házastársak, fiatal házaspár és élettársak esetén az új lakásban mindkét félnek az ingatlan-nyilvántartásba bejegyzett tulajdonnal kell rendelkeznie.

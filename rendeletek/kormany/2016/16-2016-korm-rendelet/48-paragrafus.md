@@ -1,0 +1,3 @@
+48. § (1) A családi otthonteremtési kedvezmény összegének folyósítása új lakás vásárlása esetén a támogatási szerződés megkötését követően, egy összegben történik.
+
+(2) Új lakás vásárlása esetén a támogatott személy a telekárat is tartalmazó vételárat, lakáscsere esetén a vételár-különbözetet az eladó által megjelölt – a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott – fizetési számlára vagy pénzügyi intézmény által vezetett, kölcsöntartozást nyilvántartó technikai számlára teljesíti. Ha az eladó és a vevő előleg vagy foglaló megfizetéséről állapodik meg, az az új lakás vásárlása esetén a telekárat is tartalmazó vételár, lakáscsere esetén a vételár-különbözet legfeljebb 10%-áig készpénzben is teljesíthető.

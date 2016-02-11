@@ -1,0 +1,1 @@
+## 32. § A megelőlegezett családi otthonteremtési kedvezményt igénylő fiatal házaspár a támogatás iránti kérelem benyújtásával egyidejűleg teljes bizonyító erejű magánokiratban nyilatkozik a gyermekvállalásról.

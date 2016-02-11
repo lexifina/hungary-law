@@ -1,0 +1,1 @@
+## 54. § Ha a kormányhivatal a hatósági ellenőrzés során megállapítja, hogy a támogatott személy jogosulatlanul vette igénybe a családi otthonteremtési kedvezményt, akkor határozatban intézkedik a családi otthonteremtési kedvezmény – a folyósítás napjától számított, a Ptk. szerinti késedelmi kamattal növelt összegének – visszatérítése iránt.

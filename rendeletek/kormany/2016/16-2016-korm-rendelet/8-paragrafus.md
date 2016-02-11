@@ -1,0 +1,7 @@
+## 7. § A családi otthonteremtési kedvezményt házastársak, fiatal házaspárok és élettársak együttes igénylőként igényelhetik. A támogatási szerződés megkötése esetén az együttes igénylők mindketten támogatott személlyé válnak.
+
+8. § (1) A családi otthonteremtési kedvezmény az e rendeletben meghatározott feltételek szerint az igénylővel közös háztartásban élő és a felépített vagy megvásárolt új lakásba vele együtt beköltöző gyermeke után és az igénylő által vállalt gyermek után igényelhető.
+
+(2) Gyermekvállalásra tekintettel családi otthonteremtési kedvezményt csak az 5. § a)–e) pontja szerinti személyekből álló fiatal házaspár igényelhet. Gyermektelen fiatal házaspár legfeljebb három, egygyermekes fiatal házaspár legfeljebb kettő, kétgyermekes fiatal házaspár egy gyermek születését vállalhatja a családi otthonteremtési kedvezménnyel összefüggésben.
+
+(3) Nem veheti igénybe a családi otthonteremtési kedvezményt az, akit a támogatás igénylését megelőző öt évben az e rendelet vagy az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön vonatkozásában a kormányhivatal, a Kincstár vagy bíróság jogerősen visszafizetésre kötelezett.

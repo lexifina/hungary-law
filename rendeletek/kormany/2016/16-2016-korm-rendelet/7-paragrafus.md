@@ -1,0 +1,1 @@
+## 6. § A nem magyar állampolgár támogatott személy részére a családi otthonteremtési kedvezmény a három hónapot meghaladó tartózkodási jogosultság fennállásának időtartama alatt nyújtható, ha Magyarország területén bejelentett lakóhellyel rendelkezik.

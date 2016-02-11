@@ -1,0 +1,5 @@
+23. § (1) Új lakás építése esetén a támogatott személy és azon gyermek, akire tekintettel a családi otthonteremtési kedvezmény folyósításra került, a családi otthonteremtési kedvezmény utolsó részfolyósítását követően 10 évig életvitelszerűen az új lakásban kell, hogy lakjon.
+
+(2) A támogatott személy a családi otthonteremtési kedvezmény utolsó részfolyósítását követő 30 napon belül bemutatja a hitelintézet számára a lakcímet igazoló hatósági igazolványt, hontalan támogatott személy esetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti ideiglenes tartózkodásra jogosító igazolást, mely igazolja, hogy a családi otthonteremtési kedvezménnyel épített új lakás mindazon személyek lakóhelye, hontalan esetében szálláshelye, akiknek együttköltözésére tekintettel a családi otthonteremtési kedvezmény folyósítása történt.
+
+(3) Amennyiben az (1) és (2) bekezdésben meghatározott kötelezettség nem teljesül, a hitelintézet tájékoztatja erről a kormányhivatalt és megküldi az ügy iratait.

@@ -1,0 +1,1 @@
+## 55. § Ha a támogatott fiatal házaspár a 45. § (2) bekezdés szerinti dokumentumokra vonatkozó bemutatási kötelezettségének a hitelintézet felszólítását követően sem tesz eleget, úgy a családi otthonteremtési kedvezmény összegét a folyósítás napjától számított, a Ptk. szerinti késedelmi kamattal növelten vissza kell fizetnie.

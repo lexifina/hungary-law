@@ -1,0 +1,1 @@
+## 65. § A hitelintézet évente, a tárgyévet követő év június 30. napjáig a 64. §-ban meghatározott módon, elektronikus úton, szerződésenként adatot szolgáltat a Kincstárnak a családi otthonteremtési kedvezmény központi költségvetés által megtérített összegéről.
