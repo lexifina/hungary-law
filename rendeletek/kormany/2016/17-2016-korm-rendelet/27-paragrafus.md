@@ -1,0 +1,3 @@
+27. § (1) A családi otthonteremtési kedvezményre való jogosultságot és a kedvezmény mértékét a kérelem benyújtásakor hatályos jogszabályok alapján kell megállapítani. A jogosultság feltételeinek meglétét az igénylő a 30. § (1) bekezdése szerinti dokumentumokkal igazolja a hitelintézet számára.
+
+(2) Ha a lakás vásárlása vagy bővítése családi otthonteremtési kedvezménnyel is megvalósítható, a hitelintézet átadja az igénylőnek a miniszter által vezetett minisztérium honlapján elérhető, és a hitelintézetek részére elektronikus úton megküldött tájékoztatót a családi otthonteremtési kedvezmény igénybevételének feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.

@@ -1,0 +1,11 @@
+## 22. § A hitelintézet a 20. és 21. § szerinti okirat és igazolás benyújtásáról, valamint a nyilatkozat megtételéről a havi adatszolgáltatással egyidejűleg tájékoztatja a Kincstárt.
+
+## 9. A családi otthonteremtési kedvezmény során figyelembe nem vett, utóbb született gyermek esetén alkalmazandó szabályok
+
+23. § (1) Lakáscélú hitelintézeti kölcsönszerződéssel rendelkező támogatott személy esetén a családi otthonteremtési kedvezmény azon utóbb született gyermek után is igényelhető, akire tekintettel a támogatott személy nem részesült a családi otthonteremtési kedvezményben. Az utóbb született gyermek után igényelhető családi otthonteremtési kedvezmény gyermekenként 400 000 forint, azzal, hogy lakás bővítése esetén a családi otthonteremtési kedvezmény nem haladhatja meg a 19. § (3) bekezdésében meghatározott bekerülési költséget.
+
+(2) Az (1) bekezdés szerinti családi otthonteremtési kedvezmény lakáscélú hitelintézeti kölcsönszerződésből eredő tartozás törlesztésére vehető igénybe az utóbb született gyermek után, – a születés időpontjában, örökbefogadásnál az örökbefogadás időpontjában már meglévő gyermekek számától és a lakás hasznos alapterületétől eltekintve – a lakáscélú hitelintézeti kölcsönszerződés megkötésének időpontjában hatályos jogszabályi feltételek mellett.
+
+(3) Ha az utóbb született gyermek után igényelhető családi otthonteremtési kedvezmény igénylése a 26. § (1) bekezdésében meghatározott határidőn belül történik, – a kedvezmény első igénybevételének időpontja szerinti feltételek szerint és összegeket figyelembe véve – a családi otthonteremtési kedvezmény a bekerülési költség megfizetésére is felhasználható.
+
+(4) Az (1) bekezdés szerinti családi otthonteremtési kedvezmény kizárólag a vételár megfizetéséhez, bővítés esetén a bekerülési költségek fedezetére a hitelintézet által az adásvételt vagy a használatbavételt megelőzően nyújtott és folyósított, a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában fennálló kölcsönszerződésből a családi otthonteremtési kedvezmény iránti (1) bekezdés szerinti kérelem benyújtásának időpontjában még fennálló tartozás csökkentésére használható fel.
