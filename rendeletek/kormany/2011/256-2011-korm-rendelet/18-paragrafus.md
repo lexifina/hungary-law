@@ -1,3 +1,0 @@
-## 17/A. §[^207] Ha az igénylő a lakáscélját a saját erőn és a családok otthonteremtési kedvezményén felül hitelintézeti kölcsön igénybevételével valósítja meg és a családok otthonteremtési kedvezményét és a hitelintézeti kölcsönt két különböző hitelintézettől igényli, úgy az igénylő a családok otthonteremtési kedvezményét nyújtó hitelintézetnek bemutatja a kölcsönt nyújtó hitelintézet által kiadott hitelígérvényt. A kölcsön folyósítása a családok otthonteremtési kedvezménye folyósítását megelőzően történik.
-
-[^207]: A 17/A. §-t a 379/2012. (XII. 19.) Korm. rendelet 28. §-a iktatta be, szövege a 278/2015. (IX. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
