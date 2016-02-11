@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti az Emberi Erőforrás Fejlesztési Operatív Program 2015. évre szóló éves fejlesztési keretének megállapításáról szóló 1210/2015. (IV. 24.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1037/2016. (II. 9.) Korm. határozathoz
 
@@ -245,3 +245,5 @@
 | 10. | EFOP-4.1.9 | Kulturális intézmények tanulást segítő infrastrukturális fejlesztései | 5,00 | standard | 2016. szeptember |
 
 | 11. | EFOP-4.2.1 | Felsőoktatási infrastruktúra fejlesztési program | 29,00 | standard | 2016. március |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
