@@ -58,96 +58,96 @@
 
 | Svájc | Eidgenössisches Tierarztdiplom Diplome fédéral de vétérinaire Diploma federale di veterinario | Eidgenössisches Departement des Innern Département fédéral de l’intérieur Dipartimento federale dell’interno |  | 2002. június 1. |
 
-2. számú melléklet a 37/2008. (III. 27.) FVM rendelethez
+2. számú melléklet a 37/2008. (III. 27.) FVM rendelethez[^9]
 
-Az elismerési hatóság által
-
-az elismerési eljárás során feltételként vizsgált
-
-képzési minimumkövetelmények
+Az elismerési hatóság által az elismerési eljárás során feltételként vizsgált képzési minimumkövetelmények
 
 A. Alaptantárgyak:
 
-– Fizika
+1. Fizika
 
-– Kémia
+2. Kémia
 
-– Állatélettan
+3. Állatélettan
 
-– Növényélettan
+4. Növényélettan
 
-– Biomatematika
+5. Biomatematika
 
 B. Szaktantárgyak:
 
-a) Alaptudományok:
+1. Alaptudományok:
 
-– anatómia (beleértve a szövettant és a fejlődéstant)
+1.1. anatómia (beleértve a szövettant és a fejlődéstant)
 
-– élettan
+1.2. élettan
 
-– biokémia
+1.3. biokémia
 
-– genetika
+1.4. genetika
 
-– gyógyszertan
+1.5. gyógyszertan
 
-– gyógyszerészet
+1.6. gyógyszerészet
 
-– toxikológia
+1.7. toxikológia
 
-– mikrobiológia
+1.8. mikrobiológia
 
-– immunológia
+1.9. immunológia
 
-– járványtan
+1.10. járványtan
 
-– szakmai etika
+1.11. szakmai etika
 
-b) Klinikai tudományok:
+2. Klinikai tudományok:
 
-– szülészet és szaporodásbiológia
+2.1. szülészet
 
-– patológia (beleértve a patológiai anatómiát is)
+2.2. kórbonctan
 
-– parazitológia
+2.3. parazitológia
 
-– belgyógyászat és sebészet (beleértve az aneszteziológiát is)
+2.4. belgyógyászat és sebészet (beleértve az aneszteziológiát is)
 
-– klinikai előadások a különböző háziállatokról, szárnyasokról és más állatfajokról
+2.5. klinikai előadások a különböző háziállatokról, és más állatfajokról
 
-– megelőző orvostudomány
+2.6. megelőző gyógyászat
 
-– radiológia
+2.7. radiológia
 
-– állatjárványtani előírások
+2.8. szaporodásbiológia és szaporodásbiológiai rendellenességek
 
-– állatorvosi jog és igazságügyi állatorvostan
+2.9. állatorvosi járványtan és közegészségügy
 
-– terapeutika
+2.10. állatorvosi igazgatástan és igazságügyi állatorvostan
 
-– propaedeutika
+2.11. terapeutika
 
-c) Állattartás:
+2.12. propaedeutika
 
-– állattartás
+3. Állattartás:
 
-– takarmányozástan
+3.1. állattartás
 
-– agronómia
+3.2. takarmányozástan
 
-– agrárgazdaságtan
+3.3. mezőgazdaságtan
 
-– állattenyésztés
+3.4. agrárgazdaságtan
 
-– állatorvosi higiénia (állathigiénia)
+3.5. állattenyésztés
 
-– állatetológia és -védelem
+3.6. állatorvosi higiénia (állathigiénia)
 
-d) Élelmiszerhigiénia:
+3.7. állatetológia és -védelem
 
-– állati takarmányok vagy állati eredetű élelmiszerek vizsgálata és ellenőrzése
+4. Élelmiszerhigiénia:
 
-– élelmiszerhigiénia és -technológia
+4.1. állati takarmányok vagy állati eredetű élelmiszerek vizsgálata és ellenőrzése
 
-– gyakorlati munka (beleértve a vágóhidakon és az élelmiszer-feldolgozó helyeken végzett gyakorlati munkát)
+4.2. élelmiszerhigiénia és -technológia
+
+4.3. gyakorlati munka (beleértve a vágóhidakon és az élelmiszer-feldolgozó helyeken végzett gyakorlati munkát)
+
+[^9]: A 2. számú melléklet a 7/2016. (II. 9.) FM rendelet 2. §-ával megállapított szöveg.
