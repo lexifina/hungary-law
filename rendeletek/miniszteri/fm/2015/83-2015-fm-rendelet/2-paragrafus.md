@@ -14,4 +14,4 @@ d) tenyészkocasüldő és tenyészkan esetében az első vemhesítést, illetve
 
 (2)[^1]
 
-[^1]: A 2. § (2) bekezdése a 28. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^1]: A 2. § (2) bekezdése a 28. § (2) bekezdése alapján 2016. február 15-én lép hatályba.
