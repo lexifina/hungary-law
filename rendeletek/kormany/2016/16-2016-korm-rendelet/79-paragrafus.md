@@ -4,6 +4,6 @@
 
 79. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti a lakásépítési támogatásról szóló 256/2011. (XII. 6.) Korm. rendelet.
+(2)–(3)[^1]
 
-(3) Hatályát veszti az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet 4. alcíme.
+[^1]: A 79. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
