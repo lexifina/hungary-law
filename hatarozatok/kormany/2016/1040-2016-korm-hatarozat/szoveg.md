@@ -62,8 +62,8 @@ Határidő: 2016. március 15.
 
 3. A Kormány a közfoglalkoztatás szempontjából kiemelt településeknek minősíti a kedvezményezett települések besorolásáról és a besorolás feltételrendszeréről szóló 105/2015. (IV. 23.) Korm. rendelet 2. mellékletében szereplő településeket és a kedvezményezett járások besorolásáról szóló 290/2014. (XI. 26.) Korm. rendelet 3. és 6. mellékletében szereplő, valamint a regionális szempontból kedvezményezett járások településeit.
 
-4. Hatályát veszti a közfoglalkoztatással összefüggő, egyes döntést igénylő kérdésekről szóló 1044/2013. (II. 5.) Korm. határozat.
-
-5. Hatályát veszti a közfoglalkoztatás 2015. évi céljairól és a közfoglalkoztatással összefüggő, egyes döntést igénylő kérdésekről szóló 1044/2013. (II. 5.) Korm. határozat módosításáról szóló 1082/2015. (III. 3.) Korm. határozat.
+4–5.[^2]
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
