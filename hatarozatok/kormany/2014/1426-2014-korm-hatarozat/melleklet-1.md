@@ -16,7 +16,7 @@
 
 ## Felelős: Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, nemzetgazdasági miniszter a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. június 30., a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ részére átcsoportosított 580,0 millió forint összeg tekintetében 2015. december 31., a celldömölki bencés kolostor felújításához az Egyházi épített örökség védelme és egyéb beruházások jogcímcsoportra átcsoportosított 200,0 millió forint tekintetében 2016. január 31., a Római Katolikus Egyház Kaposvári Egyház Megye által építendő egyházi idősek otthona építéséhez az Egyházi épített örökség védelme és egyéb beruházások jogcímcsoportra átcsoportosított 1468,3 millió forint, a Külgazdasági és Külügyminisztérium részére átcsoportosított összeg tekintetében 2016. június 30.
+## Határidő: 2015. június 30., a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ részére átcsoportosított 580,0 millió forint összeg tekintetében 2015. december 31., a celldömölki bencés kolostor felújításához az Egyházi épített örökség védelme és egyéb beruházások jogcímcsoportra átcsoportosított 200,0 millió forint tekintetében 2016. május 31., a Római Katolikus Egyház Kaposvári Egyház Megye által építendő egyházi idősek otthona építéséhez az Egyházi épített örökség védelme és egyéb beruházások jogcímcsoportra átcsoportosított 1468,3 millió forint, a Külgazdasági és Külügyminisztérium részére átcsoportosított összeg tekintetében 2016. június 30.
 
 ## 3. A Kormány az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva engedélyezi
 
@@ -180,5 +180,5 @@ Költségvetési év: 2014.
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont az 1681/2015. (IX. 24.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1681/2015. (IX. 24.) Korm. határozat 4. pontja, az 1049/2016. (II. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 4–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
