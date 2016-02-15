@@ -12,6 +12,4 @@ d) tenyészkocasüldő és tenyészkan esetében az első vemhesítést, illetve
 
 ## az 1. mellékletben meghatározott módon füljelzővel, vagy az 5. §-ban meghatározott esetben jelölőkalapáccsal meg kell jelölni.
 
-(2)[^1]
-
-[^1]: A 2. § (2) bekezdése a 28. § (2) bekezdése alapján 2016. február 15-én lép hatályba.
+(2) Élő sertéseket kizárólag ENAR-füljelzővel vagy jelölőkalapáccsal megjelölve lehet szállítani.

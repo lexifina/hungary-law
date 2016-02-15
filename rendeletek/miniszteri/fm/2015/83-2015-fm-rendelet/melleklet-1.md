@@ -1,4 +1,4 @@
-## 31. §[^3]
+## 31. §[^2]
 
 1. melléklet a 83/2015. (XII. 16.) FM rendelethez
 
@@ -32,4 +32,4 @@ II. A jelölésnél alkalmazott füljelzők és feliratok:
 
 3.3. tenyészsertések esetében tizenegy jegyű szám, amelynek első számjegye 1, öt számjegyű előtaggal, négy számjegyű használati számmal és az egyjegyű ellenőrző számmal.
 
-[^3]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
