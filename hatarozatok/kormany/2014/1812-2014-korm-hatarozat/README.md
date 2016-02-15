@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1812-30
 | 2015-09-24 | 2014-1812-30-22.7 | 1681/2015. (IX. 24.) Korm. határozat |
 | 2015-10-13 | 2014-1812-30-22.8 | 1520/2015. (VII. 27.) Korm. határozat |
 | 2015-10-27 | 2014-1812-30-22.9 | 1779/2015. (X. 27.) Korm. határozat |
+| 2016-02-15 | 2014-1812-30-22.10 | 1779/2015. (X. 27.) Korm. határozat |

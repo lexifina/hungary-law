@@ -38,7 +38,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, belügyminiszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere
 
-## Határidő: 2015. június 30., a Nemzetgazdasági Minisztérium fejezet, Turisztikai célelőirányzat alcím részére átcsoportosított 405,0 millió forintból a Kína és a kelet-közép-európai államok turisztikai szövetségei regionális központjának budapesti székhellyel történő felállítása céljára átcsoportosított 55,0 millió forint és a Kulturális örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaság részére jogcímcsoportra átcsoportosított 300,0 millió forint tekintetében 2015. december 31., a Magyar Nemzeti Múzeum részére átcsoportosított 434,3 millió forint tekintetében 2016. június 30., a Bethlen Gábor Alapba átcsoportosított 1828,2 millió forint tekintetében 2017. március 31.
+## Határidő: 2015. június 30., a Nemzetgazdasági Minisztérium fejezet, Turisztikai célelőirányzat alcím részére átcsoportosított 405,0 millió forintból a Kína és a kelet-közép-európai államok turisztikai szövetségei regionális központjának budapesti székhellyel történő felállítása céljára átcsoportosított 55,0 millió forint és a Kulturális örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaság részére jogcímcsoportra átcsoportosított 300,0 millió forint tekintetében 2015. december 31., a Magyar Nemzeti Múzeum részére átcsoportosított 434,3 millió forint tekintetében 2016. június 30., a Magán és egyéb jogi személyek kártérítése jogcímcsoportra átcsoportosított 400,0 millió forint tekintetében 2016. december 31., a Bethlen Gábor Alapba átcsoportosított 1828,2 millió forint tekintetében 2017. március 31.
 
 ## 5.[^4] A Kormány a Kvtv. 23. § (6) bekezdésében és az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva 42 284,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 18. Országvédelmi Alap cím terhére, a 2. melléklet szerint.
 
@@ -108,7 +108,7 @@
 
 [^1]: Az 1. pont az 1870/2014. (XII. 31.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^2]: A 3. pont a) alpontját az 1870/2014. (XII. 31.) Korm. határozat 2. pontja visszavonta.
-[^3]: A 4. pont az 1779/2015. (X. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 4. pont az 1779/2015. (X. 27.) Korm. határozat 2. pontja, az 1049/2016. (II. 15.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^4]: Az 5. pont az 1520/2015. (VII. 27.) Korm. határozat 28. pont b) alpontja, az 1741/2015. (X. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^5]: A 6. pont az 1870/2014. (XII. 31.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
 [^6]: A 7. pont az 1870/2014. (XII. 31.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
