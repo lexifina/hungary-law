@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. március 1.
+## Határidő: 2016. augusztus 29.
 
 ## 2–4.[^2]
 
@@ -86,5 +86,5 @@
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1520/2015. (VII. 27.) Korm. határozat 12. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1049/2016. (II. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
