@@ -1,0 +1,72 @@
+# A Kormány 21/2016. (II. 15.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 18. szám, 2016. február 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ab7ea0f046bfc5df1ff9ad0f66450438e57cb6e1/dokumentumok/ca6a991947d48b3164967d3ae63afe1eb1e57396/letoltes)
+
+---
+
+A Kormány 21/2016. (II. 15.) Korm. rendelete
+a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását célzó beruházással
+összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 228/2015. (VIII. 7.)
+Korm. rendelet módosításáról
+A Kormány az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 5., 6., 17. és
+24. pontjában,
+a 2. §, a 4. § és az 1. melléklet tekintetében a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának
+gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), e) és f) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+A Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását célzó beruházással
+összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 228/2015. (VIII. 7.)
+Korm. rendelet (a továbbiakban: R.) a következő 2/A. §-sal egészül ki:
+„2/A. § (1) Az 1. § szerinti építésügyi hatósági eljárásokban – a (2) bekezdésben foglaltak figyelembevételével –
+a Budapest X. kerület 38920 helyrajzi számú ingatlant rendezettnek kell tekinteni abban az esetben is, ha
+a telekalakítás, illetve a telekhatár-rendezés a kerületi szabályozási terv szerint még nem történt meg.
+(2) A használatbavételi engedély kiadásának feltétele az (1) bekezdésben megjelölt ingatlan tekintetében a kerületi
+szabályozási tervben előírt telekhatár-rendezés végrehajtása, valamint annak az ingatlan-nyilvántartásba történő
+bejegyzése.”
+2. §
+Az R. 3. §-a a következő (7) bekezdéssel egészül ki:
+„(7) Az 1. § szerinti közigazgatási hatósági ügyekben hirdetményi úton történő közlés esetén a döntés közlésének
+napja a hirdetmény kifüggesztését követő nap.”
+3. §
+Az R. a következő 6. §-sal egészül ki:
+„6. § E rendeletnek a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma megvalósításával
+összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok
+kijelöléséről szóló 228/2015. (VIII. 7.) Korm. rendelet módosításáról szóló 21/2016. (II. 15.) Korm. rendelettel
+(a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor folyamatban lévő ügyekben is
+alkalmazni kell.”
+4. §
+Az R. 1. melléklete helyébe az 1. melléklet lép.
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 21/2016. (II. 15.) Korm. rendelethez
+„1. melléklet a 228/2015. (VII. 7.) Korm. rendelethez
+Az 1. §-ban foglalt beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások:
+ 1. környezetvédelmi hatósági eljárások,
+ 2. természetvédelmi hatósági eljárások,
+ 3. építésügyi hatósági eljárások,
+ 4. építésfelügyeleti hatósági eljárások,
+ 5. területrendezési hatósági eljárások,
+ 6. örökségvédelmi hatósági eljárások,
+ 7. vízügyi és vízvédelmi hatósági eljárások,
+ 8. tűzvédelmi hatósági eljárások,
+ 9. katasztrófavédelmi hatósági eljárások,
+10. útügyi hatósági eljárások,
+11. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és
+hatáskörébe tartozó sajátos építményfajták építésügyi hatósági engedélyezési eljárásai,
+12. műszaki biztonsági engedélyezési eljárások,
+13. hírközlési hatósági eljárások,
+14. telekalakításra irányuló hatósági eljárások,
+15. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+16. földmérési hatósági eljárások,
+17. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+18. élelmiszerlánc-felügyeleti hatósági eljárások,
+19. közegészségügyi hatósági eljárások,
+20. azok a további hatósági engedélyezési eljárások, melyek az 1. § szerinti beruházás megvalósításához és
+használatbavételéhez (üzemeltetéséhez, működéséhez) közvetlenül szükségesek,
+21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.”
+
+V. A Kormány tagjainak rendeletei
