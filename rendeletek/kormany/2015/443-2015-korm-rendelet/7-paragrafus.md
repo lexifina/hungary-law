@@ -1,3 +1,1 @@
-## 6. §[^4]
-
-[^4]: A 6. § a 13. § (2) bekezdése alapján 2016. február 15-én lép hatályba.
+## 6. § A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglakozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
