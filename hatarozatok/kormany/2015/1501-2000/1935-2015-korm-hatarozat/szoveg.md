@@ -50,6 +50,14 @@ s) különös figyelmet fordít a Tisza ETT hatókörében élő határon túli 
 
 6. A kormánybiztos tevékenységét a Miniszterelnökség szervezetében működő titkárság segíti.
 
+6/A.[^*] A kormánybiztos közvetlenül irányítja a Miniszterelnökségen
+
+a) a Kormánybiztosi Stratégiai és Koordinációs Főosztály és
+
+b) a Kormánybiztosi Kirendeltségi Főosztály
+
+vezetője tevékenységét.
+
 7. A kormánybiztos összehangolja a Kormány irányítása alatt álló szerveknek, intézményeknek a kormánybiztos feladatai ellátásával összefüggő tevékenységét.
 
 8. A Kormány felhívja valamennyi minisztert, továbbá a Kormány irányítása alatt álló szervek, intézmények vezetőit, hogy
@@ -77,3 +85,5 @@ Felelős: külgazdasági és külügyminiszter
 Határidő: folyamatos
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^*]: A 6/A. pontot az 1050/2016. (II. 15.) Korm. határozat 1. pontja iktatta be.
