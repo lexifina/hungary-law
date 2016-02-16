@@ -1,1 +1,0 @@
-## 6. § A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglakozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
