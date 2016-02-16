@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-228-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-08-08 | 2015-228-20-22.1 | 228/2015. (VIII. 7.) Korm. rendelet |
+| 2016-02-16 | 2015-228-20-22.2 | 21/2016. (II. 15.) Korm. rendelet |

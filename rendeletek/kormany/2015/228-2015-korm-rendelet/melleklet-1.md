@@ -1,6 +1,6 @@
-## 5. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+## 6. §[^3] E rendeletnek a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 228/2015. (VIII. 7.) Korm. rendelet módosításáról szóló 21/2016. (II. 15.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 228/2015. (VIII. 7.) Korm. rendelethez
+1. melléklet a 228/2015. (VIII. 7.) Korm. rendelethez[^5]
 
 ## Az 1. §-ban foglalt beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások:
 
@@ -8,38 +8,44 @@
 
 2. természetvédelmi hatósági eljárások,
 
-3. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+3. építésügyi hatósági eljárások,
 
-4. területrendezési hatósági eljárások,
+4. építésfelügyeleti hatósági eljárások,
 
-5. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások, régészeti feltárásokkal kapcsolatos hatósági eljárások,
+5. területrendezési hatósági eljárások,
 
-6. vízügyi és vízvédelmi hatósági eljárások,
+6. örökségvédelmi hatósági eljárások,
 
-7. tűzvédelmi hatósági eljárások,
+7. vízügyi és vízvédelmi hatósági eljárások,
 
-8. katasztrófavédelmi hatósági eljárások,
+8. tűzvédelmi hatósági eljárások,
 
-9. útügyi hatósági eljárások,
+9. katasztrófavédelmi hatósági eljárások,
 
-10. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi hatósági engedélyezési eljárásai,
+10. útügyi hatósági eljárások,
 
-11. műszaki biztonsági engedélyezési eljárások,
+11. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi hatósági engedélyezési eljárásai,
 
-12. hírközlési hatósági eljárások,
+12. műszaki biztonsági engedélyezési eljárások,
 
-13. telekalakításra irányuló hatósági eljárások,
+13. hírközlési hatósági eljárások,
 
-14. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+14. telekalakításra irányuló hatósági eljárások,
 
-15. földmérési hatósági eljárások,
+15. ingatlan-nyilvántartással összefüggő hatósági eljárások,
 
-16. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+16. földmérési hatósági eljárások,
 
-17. élelmiszerlánc-felügyeleti hatósági eljárások,
+17. talajvédelmi engedélyezésre irányuló hatósági eljárások,
 
-18. közegészségügyi hatósági eljárások,
+18. élelmiszerlánc-felügyeleti hatósági eljárások,
 
-19. azok a további hatósági engedélyezési eljárások, melyek az 1. § szerinti beruházás megvalósításához és használatbavételéhez (üzemeltetéséhez, működéséhez) közvetlenül szükségesek,
+19. közegészségügyi hatósági eljárások,
 
-20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+20. azok a további hatósági engedélyezési eljárások, melyek az 1. § szerinti beruházás megvalósításához és használatbavételéhez (üzemeltetéséhez, működéséhez) közvetlenül szükségesek,
+
+21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 6. §-t a 21/2016. (II. 15.) Korm. rendelet 3. §-a iktatta be.
+[^4]: A hatálybalépés napja 2016. február 16.
+[^5]: Az 1. melléklet a 21/2016. (II. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
