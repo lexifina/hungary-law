@@ -28,13 +28,7 @@
 
 ## 9.2. az „A” kategóriába tartozó motorkerékpár vezetésére, előzetes motorkerékpár vezetési gyakorlat hiányában.
 
-## 10. A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható kizárólag az alábbi járművek vonatkozásában:
-
-## a) a tűzoltóság által, illetve a közrend fenntartására használt járművek;
-
-## b) javítási vagy karbantartási célú közúti vizsgálatoknak alávetett járművek vezetésére.
-
-## A 8., valamint a 9. pont szerinti életkor betöltéséig a kizárólag az a) és b) pontban meghatározott járművek vezetésére jogosító „C” és/vagy „D” kategória csak Magyarország területén jogosít vezetésre.
+## 10.[^219] A „C” , a „CE”, a „D1” és a „D1E” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” és a „DE” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható, azonban ezen gépjármű vezetésére jogosító engedélyek – a 8. és a 9. pontban meghatározott életév betöltéséig – kizárólag Magyarország területén jogosítanak vezetésre.
 
 ## II. Jártassági feltételek
 
@@ -62,7 +56,7 @@
 
 ## 10. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^219]
+8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^220]
 
 ## A kártya formátumú vezetői engedélybe bejegyezhető kódok jegyzéke
 
@@ -376,4 +370,5 @@
 
 270 A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
 
-[^219]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 41. § (2) bekezdése és a 43. § b) pontja, a 90/2015. (IV. 9.) Korm. rendelet 14. § (6) bekezdése és 16. § f) pontja szerint módosított szöveg.
+[^219]: A 7. melléklet I. pont 10. alpontja a 8/2016. (II. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^220]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 41. § (2) bekezdése és a 43. § b) pontja, a 90/2015. (IV. 9.) Korm. rendelet 14. § (6) bekezdése és 16. § f) pontja szerint módosított szöveg.
