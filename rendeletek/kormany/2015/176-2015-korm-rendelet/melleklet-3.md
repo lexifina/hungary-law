@@ -1,4 +1,4 @@
-3. melléklet a 176/2015. (VII. 7.) Korm. rendelethez
+3. melléklet a 176/2015. (VII. 7.) Korm. rendelethez[^12]
 
 ## A személyszállító szolgáltatáshoz használt személygépkocsira vonatkozó követelmények
 
@@ -22,7 +22,7 @@
 
 1.7. a személygépkocsi kormányberendezése a menetirány szerinti baloldalon elhelyezett,
 
-1.8. a személygépkocsi a jobb- és a baloldalán legalább 2-2 utastérbe nyíló ajtóval rendelkezik,
+1.8. a személygépkocsi vezetőjén kívül négynél több utas szállítására nem alkalmas személygépkocsi a jobb- és a baloldalán legalább 2-2 utastérbe nyíló ajtóval rendelkezik,
 
 1.9. a személygépkocsiban légkondicionáló berendezés működik.
 
@@ -37,3 +37,5 @@
 2.4. a személygépkocsis személyszállító szolgáltatáshoz használt személygépkocsi jobb oldali első ajtajának külső részén – legalább 4 cm magas karakterek alkalmazásával- fel kell tüntetni a tevékenységi engedély sorszámát,
 
 2.5. a személygépkocsi tetején rögzített, TAXI szót tartalmazó „taxi szabadjelző” berendezés, amelynek megvilágítása – eltérő színű vészvillogtatást kivéve – a viteldíjjelző készülék „foglalt” állásában nem működtethető.
+
+[^12]: A 3. melléklet a 8/2016. (II. 9.) Korm. rendelet 16. §-a szerint módosított szöveg.

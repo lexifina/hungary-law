@@ -10,30 +10,6 @@
 
 (3) A diszpécserszolgálat rögzíti a telefonon, faxon, e-mailben, vagy on-line érkező megrendeléseket, és továbbítja azokat a belföldön szolgáltatást teljesítő személygépkocsi vezetőjének. A diszpécserszolgálatnak hangfelvétellel vagy írásban rögzítenie kell a megrendeléseket függetlenül azok formájától, valamint azt, hogy a diszpécserszolgálat a megrendelést továbbította a feladatot teljesítő személygépkocsi vezetője részére, és azokat legalább három hónapig meg kell őrizni. Az adatok kezelése és továbbítása az adatszolgáltatók hozzájárulása alapján, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvényben foglalt rendelkezések szerint történik.
 
-(4) A diszpécserszolgálattal rendelkező vállalkozás, valamint az önálló diszpécserszolgálati tevékenységet végző vállalkozás köteles nyilvánosan elérhető honlapot üzemeltetni. A honlap nyitóoldalán köteles a következő információkat hozzáférhetővé tenni:
+(4)[^5]
 
-a) a vállalkozás neve, rövidített cégneve, telefonszáma, védjegyoltalom alatt álló céglogója,
-
-b) a vállalkozás adószáma,
-
-c) a vállalkozás székhelyének (telephelyének, telephelyeinek) címe, elérhetősége,
-
-d) a vállalkozás szakmai irányítójának neve, elérhetősége,
-
-e) a vállalkozás ügyvezetőjének neve, elérhetősége,
-
-f) a bejelentéshez kapcsolódó regisztráció száma és annak megjelenítése,
-
-g) a bejelentéshez kapcsolódó regisztráció időbeli hatályának megjelenítése,
-
-h) a bejelentéshez kapcsolódó regisztráció területi kiterjesztésének meghatározása,
-
-i) a szerződött gépkocsik száma,
-
-j) a tevékenységi engedélyhez kapcsolódó felelősségbiztosítás mértékének meghatározása,
-
-k) a felügyeleti szervek megjelölése,
-
-l) észrevételek, panaszok fogadásával kapcsolatos tájékoztatás, és
-
-m) az általános szerződési és üzleti feltételek.
+[^5]: A 16. § (4) bekezdését a 8/2016. (II. 9.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.

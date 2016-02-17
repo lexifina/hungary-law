@@ -8,7 +8,7 @@ c) megfelelő pénzügyi teljesítőképességét,
 
 ## továbbá – ha a helyi önkormányzat a közigazgatási területén rendeletében meghatározott feltételekhez kötötte a személytaxi-szolgáltatatást folytató vállalkozások működését – a kérelemhez csatolja a helyi önkormányzat vagy az általa megbízott közlekedésszervező előzetes igazolását e feltételek teljesüléséről.
 
-(2) A vállalkozásnak a tevékenységi engedély megszerzéséhez – az (1) bekezdésben meghatározottakon kívül – rendelkeznie kell:
+(2)[^4] A vállalkozásnak – az (1) bekezdésben meghatározottakon kívül – rendelkeznie kell:
 
 a) olyan személygépkocsival, amelyet a közlekedési hatóság a 10. §-ban meghatározottak szerint elvégzett műszaki alkalmassági vizsgálaton a személyszállító szolgáltatás végzésére alkalmasnak minősített; és
 
@@ -19,3 +19,5 @@ ba) legalább két éve „B” kategóriára érvényesített vezetői engedél
 bb) az e rendeletben előírt vizsgakötelezettségének eleget tett, valamint
 
 bc) betöltötte a huszonegyedik életévét.
+
+[^4]: Az 5. § (2) bekezdés nyitó szövegrésze a 8/2016. (II. 9.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.

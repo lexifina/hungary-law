@@ -1,10 +1,10 @@
 ## 15. Az önálló diszpécserszolgálati tevékenység engedélyezése
 
-17. § (1) Önálló diszpécserszolgálati tevékenységet vállalkozás a közlekedési hatóság által kiadott engedély birtokában végezhet. Az engedélyt a közlekedési hatóság – erre irányuló kérelemre – annak a kérelmezőnek adja meg, amely megfelel az 5. §-ban és a 6. §-ban a személyszállító szolgáltatást végző vállalkozásra meghatározott személyes megbízhatósági és szakmai alkalmassági feltételeknek, továbbá a (3) és (4) bekezdésben meghatározott pénzügyi teljesítőképességi feltételeknek. Az engedély iránti kérelem elektronikus úton is benyújtható. Az engedély iránti kérelemhez mellékelni kell a feltételeknek történő megfelelést igazoló okiratokat.
+17. § (1)[^6] Önálló diszpécserszolgálati tevékenységet vállalkozás a közlekedési hatóság által kiadott engedély birtokában végezhet. Az engedélyt a közlekedési hatóság – erre irányuló kérelemre – annak a kérelmezőnek adja meg, amely megfelel a 6. §-ban és a 7. §-ban a személyszállító szolgáltatást végző vállalkozásra meghatározott személyes megbízhatósági és szakmai alkalmassági feltételeknek, továbbá a (3) és (4) bekezdésben meghatározott pénzügyi teljesítőképességi feltételeknek. Az engedély iránti kérelem elektronikus úton is benyújtható. Az engedély iránti kérelemhez mellékelni kell a feltételeknek történő megfelelést igazoló okiratokat.
 
 (2) A közlekedési hatóság által kiadott engedélyeket a hatóság a honlapján közzéteszi, és azokat negyedévente aktualizálja.
 
-(3) Az önálló diszpécserszolgálati tevékenységet végző vállalkozás pénzügyi teljesítőképessége abban az esetben megfelelő, ha megfelel a 8. § (1) bekezdés a) pontjában meghatározott feltételeknek.
+(3)[^7] Az önálló diszpécserszolgálati tevékenységet végző vállalkozás pénzügyi teljesítőképessége abban az esetben megfelelő, ha megfelel a 8. § (1) bekezdés a) és b) pontjában meghatározott feltételeknek.
 
 (4) A vagyoni biztosíték mértékét az önálló diszpécserszolgálattal szerződött – személyszállító szolgáltatást folytató – vállalkozások által működtetett személygépkocsik száma határozza meg. A vagyoni biztosíték mértéke, ha az önálló diszpécserszolgálat működési területén illetékes helyi önkormányzat – rendeletében – eltérően nem rendelkezik,
 
@@ -28,7 +28,7 @@ a) csökkenés következik be, akkor a (4) bekezdésben meghatározott biztosít
 
 b) növekedés következik be, akkor a biztosítékot azzal arányosan fel kell emelni.
 
-(7) Az önálló diszpécserszolgálati tevékenységet végző vállalkozás alapító okiratának tartalmaznia kell az önálló diszpécserszolgálati tevékenységet.
+(7)[^8]
 
 (8) Ha a helyi önkormányzat az önálló diszpécserszolgáltatási tevékenység végzésére az e szakaszban foglaltaktól eltérő feltételeket állapít meg, akkor
 
@@ -37,3 +37,7 @@ a) azoknak az önálló diszpécserszolgálati tevékenységet végző vállalko
 b) az önálló diszpécserszolgálati tevékenységet végző vállalkozásoknak azokkal a más vállalkozásokkal kötött szerződései tekintetében, amelyek e település területén folytatnak személyszállító szolgáltatást,
 
 e szakasz rendelkezéseit az eltérő feltételek figyelembevétele mellett kell alkalmazni.
+
+[^6]: A 17. § (1) bekezdése a 8/2016. (II. 9.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^7]: A 17. § (3) bekezdése a 8/2016. (II. 9.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^8]: A 17. § (7) bekezdését a 8/2016. (II. 9.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.

@@ -6,7 +6,7 @@
 
 ## 3. A személyszállító szolgáltatás engedélyezésére vonatkozó rendelkezések
 
-4. § (1) Személyszállító szolgáltatás a szolgáltatás folytatására jogosító hatósági engedély (a továbbiakban: tevékenységi engedély) birtokában végezhető. A tevékenységi engedély személytaxi-szolgáltatásra vagy személygépkocsis személyszállító szolgáltatásra vonatkozhat.
+4. § (1)[^1] Személyszállító szolgáltatás – a (14) bekezdésben meghatározott személyszállító szolgáltatást kivéve – csak az e rendeletben meghatározott hatósági engedély (a továbbiakban: tevékenységi engedély) birtokában végezhető. A tevékenységi engedély személytaxi-szolgáltatásra vagy személygépkocsis személyszállító szolgáltatásra jogosít.
 
 (2) A tevékenységi engedélyt – kérelemre – a vállalkozás székhelye szerint illetékes közlekedési hatóság adja ki. A közlekedési hatóság kérelemre – a tevékenységi engedélyen kívül – a vállalkozás által személyszállító szolgáltatás végzése céljából üzemben tartott személygépkocsikra személygépkocsinként engedélykivonatot is kiállít. Ugyanarra a személygépkocsira csak egyféle – tehát vagy személytaxi-szolgáltatásra vagy személygépkocsis személyszállító szolgáltatásra vonatkozó – engedélykivonat állítható ki.
 
@@ -14,7 +14,7 @@
 
 (4) Engedélykivonatot a közlekedési hatóság a tevékenységi engedéllyel rendelkező vállalkozás által üzemben tartott személygépkocsira abban az esetben ad ki, ha a személygépkocsi megfelel az e rendeletben – továbbá, ha a vállalkozás olyan területen kívánja folytatni a tevékenységét, amelyre a helyi önkormányzat (a fővárosban a fővárosi önkormányzat) e tevékenység végzését rendeletében meghatározott feltételekhez kötötte, a helyi önkormányzat rendeletében – meghatározott feltételeknek.
 
-(5) A személytaxi-szolgáltatás sárga alapszínű állandó rendszámtáblával ellátott személygépkocsival végezhető.
+(5)[^2] A személytaxi-szolgáltatás sárga alapszínű állandó rendszámtáblával ellátott személygépkocsival végezhető. E rendelkezést nem kell alkalmazni, ha a személytaxi-szolgáltatást olyan környezetkímélő gépkocsival végzik, amelyhez világoszöld alapszínű különleges rendszámtáblát adtak ki.
 
 (6) A személygépkocsis személyszállító szolgáltatás fehér alapszínű, sorozatban előállított, állandó rendszámtáblával és regisztrációs matricával ellátott személygépkocsival végezhető.
 
@@ -41,3 +41,9 @@ e) meghatározott település, vagy települések területe.
 (12) Ha a vállalkozás a működési területének valamely részén már nem felel meg a jogszabályi rendelkezéseknek, a tevékenységi engedélyt kiadó közlekedési hatóság a tevékenységi engedélyben, illetve az engedélykivonatban meghatározott működési területet módosítja.
 
 (13) A személygépkocsis személyszállító szolgáltatásra kiadott tevékenységi engedély alapján e szolgáltatás az ország egész területén végezhető.
+
+(14)[^3] Személyszállító szolgáltatásra vonatkozó tevékenységi engedély nélkül végezhet személygépkocsis személyszállító szolgáltatást az a vállalkozás, amely rendelkezik autóbusszal díj ellenében végzett személyszállítási tevékenységre vonatkozó érvényes közúti személyszállítási engedéllyel, amennyiben kizárólag az autóbusszal általa nyújtott közúti közlekedési szolgáltatáshoz közvetlenül kapcsolódóan nyújtja a személygépkocsis személyszállító szolgáltatást. Az ilyen vállalkozásra, a tevékenységi engedélyre, továbbá a tevékenységi engedély kiadásának feltételeire, kiadására és visszavonására a 4. § (2)–(13) bekezdésében, az 5. § (1) bekezdésében, a 6–8. §-ban, a 12. §-ban, a 13. §-ban, a 15. § (1)–(6) bekezdésében, az 1. és a 2. mellékletben meghatározott rendelkezések helyett a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendelet rendelkezéseit kell megfelelően alkalmazni.
+
+[^1]: A 4. § (1) bekezdése a 8/2016. (II. 9.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (5) bekezdése a 8/2016. (II. 9.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^3]: A 4. § (14) bekezdését a 8/2016. (II. 9.) Korm. rendelet 14. § (3) bekezdése iktatta be.
