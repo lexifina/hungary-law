@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-161-00-00
 | --- | --- | --- |
 | 2015-10-28 | 2015. évi CLXI. törvény | 2015-161-00-00.0 (közlönyállapot) |
 | 2015-10-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-161-00-00.1 |
+| 2016-02-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-161-00-00.2 |
