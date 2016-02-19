@@ -1,0 +1,3 @@
+## 21. § A helyi önkormányzati képviselők és polgármesterek választásán a megismételt szavazás, a helyi önkormányzati képviselők és a polgármesterek időközi választása, a nemzetiségi önkormányzati képviselők választásán a megismételt szavazás és a nemzetiségi önkormányzati képviselők időközi választása költségeinek normatíváiról, tételeiről, elszámolási és belső ellenőrzési rendjéről szóló 7/2014. (XI. 6.) IM rendelet (a továbbiakban: R4.) 2. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Az (1) bekezdés szerinti megállapodásokat az érintettek kötelesek az államháztartásról szóló törvény rendelkezéseinek megfelelően, de legkésőbb a szavazás napját megelőző harmincadik napig megkötni.”

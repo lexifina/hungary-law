@@ -1,0 +1,1 @@
+## „(5) A TVI és az NVI az ellenőrzés során a támogatás rendeltetésszerű felhasználását és a felhasználás választási eljárásról szóló törvénynek és a végrehajtására kiadott rendeleteknek való megfelelőségét vizsgálja, az ellenőrzés során a költségvetési támogatások ellenőrzésére vonatkozó szabályokat kell alkalmazni.”
