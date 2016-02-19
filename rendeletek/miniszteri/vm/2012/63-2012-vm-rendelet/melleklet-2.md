@@ -940,11 +940,7 @@
 
 | 12.1.3. | Talajvédelmi műszaki beavatkozások, létesítmények megvalósításának engedélyezése | 73 000 |
 
-| 12.1.4. | Hígtrágya termőföldön történő felhasználásának engedélyezése |  |
-
-| 12.1.4.1. | Hígtrágya termőföldön történő felhasználásának engedélyezése 100 ha és az alatti nagyságú területen | 30 000 |
-
-| 12.1.4.2. | Hígtrágya termőföldön történő felhasználásának engedélyezése 100 ha nagyságú terület felett | 50 000 |
+| 12.1.4. |  |  |
 
 | 12.1.5. | Szennyvíz, szennyvíziszap mezőgazdasági felhasználásának engedélyezése | 144 000 |
 
@@ -1314,7 +1310,7 @@
 
 | 15.4.1. | Nyilvántartásba vétel, átminősítés | 3000 |
 
-| 15.4.2. | Rendészeti feladatok ellátására nem jogosult szakszemélyzet részére szolgálati igazolvány kiadása, pótlása, cseréje | 5500 |
+| 15.4.2. | Rendészeti feladatok ellátására nem jogosult szakszemélyzet részére szolgálati igazolvány kiadása, pótlása, cseréje, kivéve ha a szolgálati igazolvány az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény hatálybalépése miatt vált érvénytelenné | 5500 |
 
 | 15.5. | Egyedi adatszolgáltatási eljárások |  |
 
@@ -2906,154 +2902,6 @@
 
 | Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
 
-3. Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságok bankszámlaszámai:
+3–6.
 
-| Igazgatóság | Számlaszám |
-
-| Baranya Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10024003-00304294-00000000 |
-
-| Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
-
-| Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
-
-| Borsod-Abaúj-Zemplén Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10027006-00302924-00000000 |
-
-| Csongrád Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10028007-00302498-00000000 |
-
-| Fejér Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10029008-00302625-00000000 |
-
-| Győr-Moson-Sopron Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10033001-00301552-00000000 |
-
-| Hajdú-Bihar Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10034002-00301741-00000000 |
-
-| Heves Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10035003-00302003-00000000 |
-
-| Komárom-Esztergom Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10036004-00301363-00000000 |
-
-| Nógrád Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10037005-00302034-00000000 |
-
-| Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10023002-00302175-00000000 |
-
-| Somogy Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10039007-00301064-00000000 |
-
-| Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10044001-00302199-00000000 |
-
-| Jász-Nagykun-Szolnok Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10045002-00301772-00000000 |
-
-| Tolna Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10046003-00302364-00000000 |
-
-| Vas Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10047004-00301521-00000000 |
-
-| Veszprém Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10048005-00301514-00000000 |
-
-| Zala Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10049006-00302962-00000000 |
-
-4. Növény- és Talajvédelmi Igazgatóságok bankszámlaszámai:
-
-| Igazgatóság | Számlaszám |
-
-| Baranya Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10024003-00304304-00000000 |
-
-| Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
-
-| Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
-
-| Borsod-Abaúj-Zemplén Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10027006-00302759-00000000 |
-
-| Csongrád Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10028007-00302508-00000000 |
-
-| Fejér Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10029008-00302632-00000000 |
-
-| Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
-
-| Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10034002-00301758-00000000 |
-
-| Heves Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10035003-00302027-00000000 |
-
-| Komárom-Esztergom Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10036004-00301387-00000000 |
-
-| Nógrád Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10037005-00302058-00000000 |
-
-| Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10023002-00302216-00000000 |
-
-| Somogy Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10039007-00301088-00000000 |
-
-| Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10044001-00302209-00000000 |
-
-| Jász-Nagykun-Szolnok Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10045002-00301796-00000000 |
-
-| Tolna Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10046003-00302395-00000000 |
-
-| Vas Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10047004-00301411-00000000 |
-
-| Veszprém Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10048005-00301538-00000000 |
-
-| Zala Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10049006-00302979-00000000 |
-
-5. Földművelésügyi Igazgatóságok bankszámlaszámai:
-
-| Igazgatóság | Számlaszám |
-
-| Baranya Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10024003-00300953-00000000 |
-
-| Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
-
-| Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
-
-| Borsod-Abaúj-Zemplén Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10027006-00302797-00000000 |
-
-| Csongrád Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10028007-00302618-00000000 |
-
-| Fejér Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10029008-00302694-00000000 |
-
-| Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
-
-| Hajdú-Bihar Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10034002-00301789-00000000 |
-
-| Heves Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10035003-00302065-00000000 |
-
-| Komárom-Esztergom Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10036004-00301404-00000000 |
-
-| Nógrád Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10037005-00302072-00000000 |
-
-| Pest Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10023002-00302223-00000000 |
-
-| Somogy Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10039007-00301105-00000000 |
-
-| Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10044001-00302230-00000000 |
-
-| Jász-Nagykun-Szolnok Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10045002-00301806-00000000 |
-
-| Tolna Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10046003-00302412-00000000 |
-
-| Vas Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10047004-00301370-00000000 |
-
-| Veszprém Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10048005-00301545-00000000 |
-
-| Zala Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10049006-00302993-00000000 |
-
-6. Erdészeti Igazgatóságok bankszámlaszámai:
-
-| Igazgatóság | Számlaszám |
-
-| Baranya Megyei Kormányhivatal Erdészeti Igazgatóság | 10024003-00304287-00000000 |
-
-| Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
-
-| Borsod-Abaúj-Zemplén Megyei Kormányhivatal Erdészeti Igazgatóság | 10027006-00302773-00000000 |
-
-| Hajdú-Bihar Megyei Kormányhivatal Erdészeti Igazgatóság | 10034002-00301765-00000000 |
-
-| Heves Megyei Kormányhivatal Erdészeti Igazgatóság | 10035003-00302041-00000000 |
-
-| Pest Megyei Kormányhivatal Erdészeti Igazgatóság | 10023002-00302371-00000000 |
-
-| Somogy Megyei Kormányhivatal Erdészeti Igazgatóság | 10039007-00301143-00000000 |
-
-| Vas Megyei Kormányhivatal Erdészeti Igazgatóság | 10047004-00301466-00000000 |
-
-| Veszprém Megyei Kormányhivatal Erdészeti Igazgatóság | 10048005-00301662-00000000 |
-
-| Zala Megyei Kormányhivatal Erdészeti Igazgatóság | 10049006-00302986-00000000 |
-
-[^17]: A 2. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 2. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (2) bekezdése, a 8/2016. (II. 11.) FM rendelet 11. § b) pontja szerint módosított szöveg.
