@@ -194,6 +194,6 @@
 
 | 33102 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség megyénél, TVI tagok és vezetők díja után. |  |  |
 
-2–68. melléklet a 6/2014. (IX. 19.) IM rendelethez[^2]
+2–68. melléklet a 6/2014. (IX. 19.) IM rendelethez[^16]
 
-[^2]: A 2–68. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 2–68. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

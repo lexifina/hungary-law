@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-6-20-06
 | --- | --- | --- |
 | 2014-09-20 | 2014-6-20-06.1 | 6/2014. (IX. 19.) IM rendelet |
 | 2014-09-21 | 2014-6-20-06.2 | 2010: CXXX. törvény |
+| 2016-02-19 | 2014-6-20-06.3 | 2/2016. (II. 18.) IM rendelet |
