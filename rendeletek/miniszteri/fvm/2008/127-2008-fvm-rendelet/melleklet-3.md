@@ -58,7 +58,7 @@
 
 | Alacsony | Négyévente 1 | Négyévente 1 |
 
-## * Megjegyzés: Az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által végzett vizsgálatok célja a 7. §-sal összhangban e rendelet betartásának ellenőrzése. Az állat-egészségügyi felügyeleti rendszer keretében végzett vizsgálatok célja az állatok egészségügyi állapotának ellenőrzése, víziállat-egészségügyi tanácsadás a víziállat-tenyésztő vállalkozások üzemeltetői számára és szükség esetén a szükséges állatorvosi intézkedések megtétele.
+## * Megjegyzés: Az illetékes megyei kormányhivatal által végzett vizsgálatok célja a 7. §-sal összhangban e rendelet betartásának ellenőrzése. Az állat-egészségügyi felügyeleti rendszer keretében végzett vizsgálatok célja az állatok egészségügyi állapotának ellenőrzése, víziállat-egészségügyi tanácsadás a víziállat-tenyésztő vállalkozások üzemeltetői számára és szükség esetén a szükséges állatorvosi intézkedések megtétele.
 
 ## Kockázati szintek
 
