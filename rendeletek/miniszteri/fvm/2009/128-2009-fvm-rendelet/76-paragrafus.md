@@ -26,6 +26,6 @@ c) a kezelt állatok faját, számát és azonosító adatait,
 
 d) az állat tulajdonosának adatait.
 
-(6)[^177] Az e § szerinti nyilvántartásokat, illetve vényeket a járási hivatal ellenőrzi. A nyilvántartást vezető, illetve a vényt megőrző köteles az ellenőrzést lehetővé tenni.
+(6)[^178] Az e § szerinti nyilvántartásokat, illetve vényeket a járási hivatal ellenőrzi. A nyilvántartást vezető, illetve a vényt megőrző köteles az ellenőrzést lehetővé tenni.
 
-[^177]: A 76. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
+[^178]: A 76. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.

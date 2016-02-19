@@ -24,7 +24,7 @@ e) elszappanosítás 12 M NaOH-dal.
 
 5. Az anyagok, illetve az anyagok forrásául szolgáló állatok származási országa.
 
-6.[^344] Az alap-, segéd- és vivőanyagok forrásául szolgáló állatok származási helyét képező gazdaság TSE státusának hatósági igazolása az alábbi adatok alapján:
+6.[^346] Az alap-, segéd- és vivőanyagok forrásául szolgáló állatok származási helyét képező gazdaság TSE státusának hatósági igazolása az alábbi adatok alapján:
 
 a) TSE előfordulása,
 
@@ -40,4 +40,4 @@ Mindezen adatok alapján a NÉBIH igazolja a készítmény előállításához f
 
 II. A fenti nyilatkozatot pótolja az Európai Gyógyszerkönyv Bizottság (European Pharmacopoeia Comission) által kibocsátott TSE Bizonylat (TSE certificate), amely igazolja, hogy a gyártó vállalat termékeinek előállításához felhasznált állati eredetű anyagok megfelelnek a TSE ártalmatlansági követelményeknek.
 
-[^344]: A 6. számú melléklet I. fejezet 6. pont záró szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^346]: A 6. számú melléklet I. fejezet 6. pont záró szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

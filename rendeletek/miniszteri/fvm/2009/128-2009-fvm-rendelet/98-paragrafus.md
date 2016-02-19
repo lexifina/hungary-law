@@ -1,6 +1,6 @@
 98. § (1) A törzskönyvezett állatgyógyászati készítményt kizárólag a forgalomba hozatali engedélyben foglaltakkal összhangban szabad reklámozni.
 
-(2)[^246] A kábítószer R. és a prekurzor R. alapján kábítószerként kezelendő készítménynek, illetve kábítószer-prekurzornak minősülő hatóanyagokat tartalmazó állatgyógyászati készítményeket kizárólag csak állatorvos vagy gyógyszerész számára lehet reklámozni.
+(2)[^248] A kábítószer R. és a prekurzor R. alapján kábítószerként kezelendő készítménynek, illetve kábítószer-prekurzornak minősülő hatóanyagokat tartalmazó állatgyógyászati készítményeket kizárólag csak állatorvos vagy gyógyszerész számára lehet reklámozni.
 
 (3) Azokat az állatgyógyászati készítményeket, amelyek csak állatorvosi rendelvényre kaphatók:
 
@@ -18,17 +18,17 @@ bb) nyomtatott állategészségügyi és gyógyszerészeti szaksajtóban, valami
 
 (6) Kábítószert, kábítószer-prekurzort vagy pszichotróp anyagot tartalmazó állatgyógyászati készítményből minta nem adható.
 
-(7)[^247] Az (1)–(6) bekezdésben foglaltak betartását a járási hivatal, illetve a NÉBIH ellenőrzi. Amennyiben a járási hivatal az (1)–(6) bekezdésben foglalt rendelkezések sérelméről tudomást szerez, erről – a megyei kormányhivatal útján – haladéktalanul értesíti a NÉBIH-et.
+(7)[^249] Az (1)–(6) bekezdésben foglaltak betartását a járási hivatal, illetve a NÉBIH ellenőrzi. Amennyiben a járási hivatal az (1)–(6) bekezdésben foglalt rendelkezések sérelméről tudomást szerez, erről – a megyei kormányhivatal útján – haladéktalanul értesíti a NÉBIH-et.
 
-(8)[^248] Amennyiben a forgalmazó a (2), illetve (6) bekezdés szerinti tilalmat megszegi, a járási hivatal, illetve a NÉBIH haladéktalanul kezdeményezi a működési engedély visszavonását.
+(8)[^250] Amennyiben a forgalmazó a (2), illetve (6) bekezdés szerinti tilalmat megszegi, a járási hivatal, illetve a NÉBIH haladéktalanul kezdeményezi a működési engedély visszavonását.
 
-(9)[^249] Azt a természetes vagy jogi személyt, illetve jogi személyiséggel nem rendelkező szervezetet, aki az (1), illetve (3)–(5) bekezdés előírásait megszegi, a járási hivatal, illetve a NÉBIH:
+(9)[^251] Azt a természetes vagy jogi személyt, illetve jogi személyiséggel nem rendelkező szervezetet, aki az (1), illetve (3)–(5) bekezdés előírásait megszegi, a járási hivatal, illetve a NÉBIH:
 
 a) első kötelezettségszegés esetén figyelmezteti,
 
 b) két éven belüli második, illetve két kötelezettségszegés egyidejű elkövetése esetén a működési engedély visszavonását kezdeményezi.
 
-[^246]: A 98. § (2) bekezdése a 77/2013. (IX. 10.) VM rendelet 13. § 3. pontja szerint módosított szöveg.
-[^247]: A 98. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2. és 5. pontja szerint módosított szöveg.
-[^248]: A 98. § (8) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
-[^249]: A 98. § (9) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 22/2014. (III. 14.) VM rendelet 71. § (2) bekezdés b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
+[^248]: A 98. § (2) bekezdése a 77/2013. (IX. 10.) VM rendelet 13. § 3. pontja szerint módosított szöveg.
+[^249]: A 98. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2. és 5. pontja szerint módosított szöveg.
+[^250]: A 98. § (8) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
+[^251]: A 98. § (9) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 22/2014. (III. 14.) VM rendelet 71. § (2) bekezdés b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.

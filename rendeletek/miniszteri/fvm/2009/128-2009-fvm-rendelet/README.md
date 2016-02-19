@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-128-20-
 | 2013-09-11 | 2009-128-20-82.5 | 77/2013. (IX. 10.) VM rendelet |
 | 2014-03-15 | 2009-128-20-82.6 | 22/2014. (III. 14.) VM rendelet |
 | 2015-08-15 | 2009-128-20-82.7 | 151/2012. (XII. 29.) VM rendelet |
+| 2016-02-19 | 2009-128-20-82.8 | 8/2016. (II. 11.) FM rendelet |
