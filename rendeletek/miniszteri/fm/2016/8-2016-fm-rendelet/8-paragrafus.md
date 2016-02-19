@@ -1,0 +1,1 @@
+## 7. § A 128/2009. (X. 6.) FVM rendelet 96. § (6) bekezdésében az „a kiskereskedő, illetve a közforgalmú gyógyszertár állatgyógyászati készítmény forgalmazására jogosító működési engedélyének visszavonását,” szövegrész helyébe az „a kiskereskedő működési engedélyének visszavonását,” szöveg lép.
