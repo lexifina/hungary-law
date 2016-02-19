@@ -1,6 +1,6 @@
 110. § (1) A közlekedési igazgatási hatóság az ügyfél kérelmére véglegesen vonja ki a járművet a forgalomból:
 
-a)[^192] a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M1, N1 kategóriájú, valamint a motoros triciklinek nem minősülő háromkerekű gépjármű esetében bontási átvételi igazolás alapján;
+a)[^194] a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M1, N1 kategóriájú, valamint a motoros triciklinek nem minősülő háromkerekű gépjármű esetében bontási átvételi igazolás alapján;
 
 b) egyéb jármű esetében, ha annak ismételt belföldi forgalomba helyezési szándéka nem áll fenn.
 
@@ -14,7 +14,7 @@ b) egyéb jármű esetében, ha annak ismételt belföldi forgalomba helyezési 
 
 (6) Amennyiben az (1) bekezdés b) pontja alapján kerül sor a jármű forgalomból történő végleges kivonására a hatósági jelzés visszavonásával, valamint a járműnyilvántartásba történő bejegyzéssel egyidejűleg a forgalmi engedélyt és a törzskönyvet érvénytelenítve vissza kell adni.
 
-(7)[^193] Az ügyfél kérelmére, valamint a 49. § (1) bekezdése, a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés k) pontja, a 102. § (5) bekezdése, valamint a 109. § (3) bekezdése szerint hivatalból indult eljárást követően a jármű átmeneti időszakra történő forgalomból kivonása esetén, a forgalomból történő kivonás járműnyilvántartásba bejegyzésétől számított öt év elteltével a járművet véglegesen forgalomból kivontnak kell tekinteni.
+(7)[^195] Az ügyfél kérelmére, valamint a 49. § (1) bekezdése, a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés k) pontja, a 102. § (5) bekezdése, valamint a 109. § (3) bekezdése szerint hivatalból indult eljárást követően a jármű átmeneti időszakra történő forgalomból kivonása esetén, a forgalomból történő kivonás járműnyilvántartásba bejegyzésétől számított öt év elteltével a járművet véglegesen forgalomból kivontnak kell tekinteni.
 
-[^192]: A 110. § (1) bekezdés a) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § q) pontja szerint módosított szöveg.
-[^193]: A 110. § (7) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 154. § (19) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^194]: A 110. § (1) bekezdés a) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § q) pontja szerint módosított szöveg.
+[^195]: A 110. § (7) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 154. § (19) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

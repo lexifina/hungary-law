@@ -6,8 +6,12 @@ b) érvénytelen külföldi hatósági engedéllyel és jelzéssel vettek részt
 
 c) azért érvénytelen a hatósági engedély és jelzés, mert a járművet a forgalomból korábban végleg kivonták, vagy
 
-d) a járművet a forgalomból hivatalból ideiglenesen kivonták, de a jármű hatósági engedélye és jelzése nem került leadásra.
+d) a járművet a forgalomból hivatalból ideiglenesen kivonták, de a jármű hatósági engedélye és jelzése nem került leadásra,
+
+e)[^171] a járművel a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott tevékenységi engedély nélkül végeztek személytaxi-szolgáltatást.
 
 (2) Az ellenőrző hatóság által a 96. § (6) bekezdése alapján megküldött hatósági engedélyt, jelzést a közlekedési igazgatási hatóság bevonja, illetve visszavonja.
 
 (3) A közlekedési igazgatási hatóság az (1) bekezdés b) pontjában meghatározott külföldi hatósági engedélyt és jelzést a határozat egy példányával a Hivatalnak megküldi. A Hivatal viszonosság esetén megküldi azt a kiadó külföldi hatóságnak.
+
+[^171]: A 97. § (1) bekezdés e) pontját a 20/2016. (II. 11.) Korm. rendelet 1. §-a iktatta be.

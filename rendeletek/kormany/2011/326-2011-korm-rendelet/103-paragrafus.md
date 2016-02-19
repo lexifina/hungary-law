@@ -1,4 +1,4 @@
-103. § (1)[^179] A járművet a hivatalból indult eljárás során a forgalmi engedély és a hatósági jelzés bevonásával – az f) pontban és a (2) bekezdésben foglaltak kivételével – a következő időtartamra kell ideiglenesen a forgalomból kivonni:
+103. § (1)[^180] A járművet a hivatalból indult eljárás során a forgalmi engedély és a hatósági jelzés bevonásával – az f) pontban és a (2) bekezdésben foglaltak kivételével – a következő időtartamra kell ideiglenesen a forgalomból kivonni:
 
 a) a 96. § (1) bekezdés a)–c) és f) pontja és a 101. § (1) bekezdés e), f) és h) pontja esetén a jármű műszaki alkalmasságának igazolásáig,
 
@@ -10,9 +10,11 @@ d) a 96. § (1) bekezdés d) pontja esetén a büntetőeljárás jogerős befeje
 
 e) a 101. § (1) bekezdés c) pontja és 102. § (4) bekezdése esetén hat hónapra,
 
-f)[^180] a 49. § (1) bekezdése, a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés k) pontja és a 102. § (5) bekezdése esetén átmeneti időszakra,
+f)[^181] a 49. § (1) bekezdése, a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés k) pontja és a 102. § (5) bekezdése esetén átmeneti időszakra,
 
-g) a 101. § (1) bekezdés j) pontja esetén a kivonást kezdeményező hatóság értesítéséig.
+g) a 101. § (1) bekezdés j) pontja esetén a kivonást kezdeményező hatóság értesítéséig,
+
+h)[^182] a 97. § (1) bekezdés e) pontjában foglaltak esetében a kiszabott közigazgatási bírság megfizetéséig, de legfeljebb a jogsértés miatt indult közigazgatási bírságolási eljárás befejezéséig.
 
 (2) A 87. § (4) bekezdés a) pontja esetén a kivonás időtartama, ha a mulasztás a közlekedési igazgatási hatósági eljárás megindításának napjáig
 
@@ -30,5 +32,6 @@ d) 180 napot meghaladja, egy év.
 
 (5) A forgalomból – a 101. § (1) bekezdés i) pontja alapján – kivont jármű ismételten nem helyezhető forgalomba.
 
-[^179]: A 103. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.
-[^180]: A 103. § (1) bekezdés f) pontja a 441/2015. (XII. 28.) Korm. rendelet 154. § (15) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^180]: A 103. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.
+[^181]: A 103. § (1) bekezdés f) pontja a 441/2015. (XII. 28.) Korm. rendelet 154. § (15) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^182]: A 103. § (1) bekezdés h) pontját a 20/2016. (II. 11.) Korm. rendelet 2. §-a iktatta be.

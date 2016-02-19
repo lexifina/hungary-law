@@ -1,3 +1,3 @@
-11. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^223]
+11. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^225]
 
-[^223]: A 11. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (7) bekezdése szerint módosított szöveg.
+[^225]: A 11. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (7) bekezdése szerint módosított szöveg.
