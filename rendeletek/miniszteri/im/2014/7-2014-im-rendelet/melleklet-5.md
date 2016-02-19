@@ -10,7 +10,9 @@
 
 | 101 | Kiadások a szavazás napját megelőzően |  |  |
 
-| 10101 | Hirdetmény és tájékoztató nyomtatvány költségei szavazókörönként. Hirdetmény plakát közzététele, lakossági tájékoztatók, hirdetmények (szavazókörök helye, címe, szavazás napja) nyomtatása, sokszorosítása, kiragasztása. | 1 | 2 000 |
+| 1010101 | Hirdetmény és tájékoztató nyomtatvány költségei szavazókörönként. Hirdetmény plakát közzététele a települési nemzetiségi önkormányzati választás kitűzésekor, lakossági tájékoztatók, hirdetmények (szavazókörök helye, címe, szavazás napja) nyomtatása, sokszorosítása, kiragasztása nemzetiségi szavazókörönként számolva. | 1 | 500 |
+
+| 1010102 | Hirdetmény és tájékoztató nyomtatvány költségei. Hirdetmény plakát közzététele a területi és országos nemzetiségi választás kitűzésekor, lakossági tájékoztatók, hirdetmények (szavazókörök helye, címe, szavazás napja) nyomtatása, sokszorosítása, kiragasztása érintett településenként számolva. | 1 | 500 |
 
 | 10102 | Választópolgárok értesítésével kapcsolatos feladatok |  |  |
 
@@ -24,47 +26,45 @@
 
 | 10201 | A szavazóhelyiség kialakításával, működtetésével kapcsolatos költségek. |  |  |
 
-| 1020101 | A szavazóhelyiség kialakításával, működtetésével kapcsolatos költségek, szavazókörönként. Szavazókörökkel való kapcsolattartás költségei. | 1 | 4 000 |
+| 1020101 | A települési nemzetiségi önkormányzati képviselők időközi választásán a szavazóhelyiség kialakításával, működtetésével kapcsolatos költségek, szavazókörönként. Szavazókörökkel való kapcsolattartás költségei. | 1 | 4 000 |
 
-| 1020102 | A HVB előtt történő szavazással kapcsolatos költségek területi és országos nemzetiségi választáson, azokon a településeken, ahol nincs nemzetiségi szavazókör. | 1 | 4 000 |
+| 1020102 | A HVB előtt történő szavazással kapcsolatos költségek területi és országos nemzetiségi választáson, azokon a településeken, ahol egyidejűleg települési nemzetiségi önkormányzati képviselők időközi választására nem kerül sor azonos napon. | 1 | 4 000 |
 
 | 10202 | A HVI-k kiadásai az önálló településeken és a közös önkormányzati hivatali székhelyeken. Az iroda szavazásnapi működéssel összefüggő kiadásai. | 1 | 10 000 |
 
-| 10204 | Nem állami, nem önkormányzati tulajdonú szavazóhelyiségek bérlete utólagos igényléssel. | 1 | 10 000 |
+| 10203 | Nem állami, nem önkormányzati tulajdonú szavazóhelyiségek bérlete utólagos igényléssel. | 1 | 10 000 |
 
 | 2. SZEMÉLYI JUTTATÁSOK |  |  |
 
 | 201 | Az SZSZB tagjainak tiszteletdíja |  |  |
 
-| 20101 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) 5 választott tagjának díja szavazókörökben. A szavazás napján 5 órától 24 óráig a szavazás lebonyolításával és a szavazatszámlálással kapcsolatos feladatok ellátása, hétvégi munkavégzés. | 5 | 20 000 |
+| 20101 | Az SZSZB 3 választott tagjának díja szavazókörönként települési nemzetiségi önkormányzati választáson. | 3 | 20 000 |
 
-| 20104 | HVB előtt történő szavazással kapcsolatos költségek területi és országos nemzetiségi választáson, azokon a településeken, ahol nincs nemzetiségi szavazókör. HVB 3 választott tagjának díja szavazókörökben. A szavazás napján 5 órától 24 óráig a szavazás lebonyolításával és a szavazatszámlálással kapcsolatos többletfeladatok ellátása, hétvégi munkavégzés. | 3 | 20 000 |
+| 20102 | A HVB 3 tagjának díja területi és országos nemzetiségi önkormányzati választáson (kivéve akkor, ha egyidejűleg települési nemzetiségi önkormányzati választást is tartanak azonos napon). | 3 | 20 000 |
 
-| 20105 | A választási bizottságba a szavazás napján szükség szerint bevont póttag tiszteletdíja, utólagos igényléssel, tényleges igénybevétel alapján, ahol nincs nemzetiségi szavazókör. | 1 | 20 000 |
+| 20103 | A választási bizottságba a szavazás napján szükség szerint bevont legfeljebb 2 fő póttag tiszteletdíja, utólagos igényléssel, tényleges igénybevétel alapján. | 1 | 20 000 |
 
-| 20106 | A választási bizottságok tagjainak távolléti díja [Ve. 15. §], utólagos igény szerint. |  |  |
+| 20104 | A választási bizottságok tagjainak távolléti díja [Ve. 15. §], utólagos igény szerint. |  |  |
 
-| 202 | Az SZSZB mellett működő jegyzőkönyvvezető díja |  |  |
+| 20105 | HVB előtt történő szavazás esetén a HVB tagjainak távolléti díja területi és országos nemzetiségi önkormányzati választáson |  |  |
 
-| 20201 | Az SZSZB mellett működő jegyzőkönyvvezető díja. A szavazás napján 5 órától 24 óráig az SZSZB mellett elvégzendő adminisztratív feladatok. | 1 | 20 000 |
+| 202 | A jegyzőkönyvvezető díja |  |  |
+
+| 20201 | A jegyzőkönyvvezető díja a szavazás napján a szavazóhelyiségben elvégzendő adminisztratív feladatokra. | 1 | 20 000 |
 
 | 203 | A HVI tagjainak személyi normatívája. A normatíva a HVI alábbi számú tagjai tekintetében vehető figyelembe: |  |  |
 
 | 20301 | HVI 3 tagjának díja. | 3 | 15 000 |
 
-| 205 | HVB választott tagjainak személyi normatívája |  |  |
+| 204 | HVB választott tagjainak személyi normatívája települési nemzetiségi önkormányzati képviselők időközi választásán |  |  |
 
-| 20501 | HVB tagjainak személyi normatívája egy szavazókörös településen. | 5 | 20 000 |
+| 20401 | A HVB tagjainak személyi normatívája. | 3 | 20 000 |
 
-| 20502 | HVB tagjainak személyi normatívája több szavazókörös településen. | 3 | 20 000 |
+| 205 | Választási bizottságok ellátási költsége |  |  |
 
-| 206 | Választási bizottságok ellátási költsége |  |  |
+| 20501 | A szavazást lebonyolító SZSZB vagy HVB szavazásnapi ellátási költsége szavazóhelyiségenként. | 1 | 8 000 |
 
-| 20601 | Szavazásnapi ellátás költsége szavazókörönként. Az SZSZB (egy szavazókörrel rendelkező településen a HVB) tagjainak napközbeni étkezési költsége. | 1 | 8 000 |
-
-| 20602 | Szavazásnapi ellátás költsége érintett HVB-nként területi és országos nemzetiségi választáson, azokon a településeken, ahol nincs nemzetiségi szavazókör. | 1 | 8 000 |
-
-| 20603 | Választási ellátás költsége HVB-nként. A HVB tagjainak étkezési költsége a választási időszakban. |  | 20 000 |
+| 20502 | Választási ellátás költsége települési nemzetiségi önkormányzati képviselők időközi választásán. A HVB tagjainak étkezési költsége a választási időszakban. |  | 20 000 |
 
 | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |  |  |
 
@@ -78,9 +78,9 @@
 
 | 1. DOLOGI KIADÁSOK |  |  |
 
-| 133 | Szavazással, eredmény-megállapítással összefüggő kiadások |  |  |
+| 131 | Szavazással, eredmény-megállapítással összefüggő kiadások |  |  |
 
-| 13301 | A TVI és a TVB kiadásai területi és országos nemzetiségi választáson. | 1 | 20 000 |
+| 13101 | A TVI és a TVB kiadásai területi és országos nemzetiségi választáson. | 1 | 20 000 |
 
 | 2. SZEMÉLYI JUTTATÁSOK |  |  |
 
@@ -88,15 +88,21 @@
 
 | 23101 | HVI vezető díja. | 1 | 20 000 |
 
-| 234 | TVI tagok díja megyénként és választási naponként. |  |  |
+| 232 | TVI tagok és vezető díja megyénként és választási naponként. |  |  |
 
-| 23403 | TVI pénzügyi felelősének díja. | 1 | 15 000 |
+| 23201 | TVI vezető díja területi és országos nemzetiségi önkormányzati képviselők időközi választásán | 1 | 80 000 |
 
-| 236 | TVB 3 választott tagjának személyi juttatásai, jogorvoslat esetén, utólagos igényléssel, választási naponként. |  |  |
+| 23202 | TVI pénzügyi felelősének díja területi és országos nemzetiségi önkormányzati képviselők időközi választásán | 1 | 60 000 |
 
-| 23601 | TVB 3 választott tagjának díja. | 3 | 15 000 |
+| 23203 | TVI pénzügyi felelősének díja települési nemzetiségi önkormányzati képviselők időközi választásán. | 1 | 15 000 |
 
-| 23602 | TVB választási ellátás költsége megyénként. TVB választott és megbízott tagjainak étkezési költsége a választási időszakban. | 1 | 15 000 |
+| 23204 | TVI további 4 tagjának díja területi és országos nemzetiségi önkormányzati képviselők időközi választásán | 4 | 30 000 |
+
+| 233 | TVB 3 választott tagjának személyi juttatásai, települési nemzetiségi önkormányzati képviselők időközi választásán jogorvoslat esetén, utólagos igényléssel, vagy területi és országos nemzetiségi önkormányzati képviselők időközi választásán,választásonként. |  |  |
+
+| 23301 | TVB 3 választott tagjának díja. | 3 | 15 000 |
+
+| 23302 | TVB választási ellátás költsége megyénként. TVB választott és megbízott tagjainak étkezési költsége a választási időszakban. | 1 | 15 000 |
 
 | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |  |  |
 
@@ -108,7 +114,7 @@
 
 | 33103 | Választási bizottság ellátása után fizetendő munkáltatói teher megyénél. |  |  |
 
-5. melléklet a 7/2014. (XI. 6.) IM rendelethez
+5. melléklet a 7/2014. (XI. 6.) IM rendelethez[^14]
 
 Tételek és normatívák a helyi önkormányzati képviselők és a polgármesterek, valamint a nemzetiségi önkormányzati képviselők 4. § (4) bekezdése szerinti időközi választásán
 
@@ -138,7 +144,11 @@ Tételek és normatívák a helyi önkormányzati képviselők és a polgármest
 
 | 1520101 | Urnacsomagok előállítása, összeállítása, szállítása; szavazókörönként. | 1 | 3 497,00 |
 
-| 15202 | Szavazólapok és borítékok, választópolgáronként. | 1 | 22,51 |
+| 15202 | Szavazólapok és borítékok |  |  |
+
+| 1520201 | Szavazólapok, választópolgáronként és szavazólap fajtánként | 1 | 19,10 |
+
+| 1520202 | Borítékok, választópolgáronként | 1 | 3,41 |
 
 | 15203 | Szavazóköri szállítódoboz biztosítása. |  |  |
 
@@ -151,3 +161,5 @@ Tételek és normatívák a helyi önkormányzati képviselők és a polgármest
 | 1520401 | Braille-írással készült értesítő borítékkal. | 1 | 2 290,00 |
 
 | 1520402 | Braille szavazósablon és tájékoztató szavazáshoz. | 1 | 2 420,00 |
+
+[^14]: Az 5. melléklet a 2/2016. (II. 18.) IM rendelet 25. § (2) bekezdése szerint módosított szöveg.

@@ -6,6 +6,8 @@ a) felelős a választás pénzügyi tervezéséért, lebonyolításáért, elsz
 
 b) felelős a pénzeszközök célhoz kötött felhasználásáért és ellenőrzéséért,
 
-c) gyakorolja a választás pénzeszközei feletti kötelezettségvállalási és utalványozási jogot, valamint – szervezeti és működési szabályzatának megfelelően – felhatalmazást ad az ellenjegyzési jog gyakorlására és
+c)[^1] gyakorolja a választás pénzeszközei feletti kötelezettségvállalási és utalványozási jogot, és
 
 d) gondoskodik a választás céljára szolgáló pénzeszközök elkülönített számviteli kezeléséről.
+
+[^1]: Az 1. § (2) bekezdés c) pontja a 2/2016. (II. 18.) IM rendelet 27. § (2) bekezdése szerint módosított szöveg.

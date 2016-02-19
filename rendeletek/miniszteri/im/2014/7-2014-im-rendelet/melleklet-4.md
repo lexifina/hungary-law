@@ -122,4 +122,6 @@
 
 | 33103 | Választási bizottság ellátása után fizetendő munkáltatói teher megyénél. |  |  |
 
-4. melléklet a 7/2014. (XI. 6.) IM rendelethez
+4. melléklet a 7/2014. (XI. 6.) IM rendelethez[^13]
+
+[^13]: A 4. melléklet a 2/2016. (II. 18.) IM rendelet 25. § (1) bekezdésével megállapított szöveg.

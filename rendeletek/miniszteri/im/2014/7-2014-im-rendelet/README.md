@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-7-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-11-07 | 2014-7-20-06.1 | 7/2014. (XI. 6.) IM rendelet |
+| 2016-02-19 | 2014-7-20-06.2 | 2/2016. (II. 18.) IM rendelet |
