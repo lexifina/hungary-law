@@ -1,4 +1,4 @@
-7. § (1) A HVI vezetője feladattípusú elszámolást készít a TVI vezetője részére a szavazás napját követő tizenöt napon belül.
+7. § (1)[^13] A HVI vezetője feladattípusú elszámolást készít a TVI vezetője részére a szavazás napját követő húsz napon belül.
 
 (2) A TVI vezetője az NVI elnöke részére a szavazás napját követő ötven napon belül
 
@@ -8,4 +8,7 @@ b) összesítő elszámolást készít a HVI vezetők és a saját elszámolása
 
 (3) Az egyéb szerv vezetője elszámolást készít az NVI elnöke részére a szavazás napját követő ötven napon belül.
 
-(4) Az NVI az (1)–(3) bekezdésben foglalt elszámolások alapján, a szavazás napját követő kilencven napon belül összesítő elszámolást készít.
+(4)[^14] Az NVI az (1)–(3) bekezdésben foglalt elszámolások alapján, a szavazás napját követő százhúsz napon belül összesítő elszámolást készít.
+
+[^13]: A 7. § (1) bekezdése a 2/2016. (II. 18.) IM rendelet 13. § d) pontja szerint módosított szöveg.
+[^14]: A 7. § (4) bekezdése a 2/2016. (II. 18.) IM rendelet 13. § e) pontja szerint módosított szöveg.
