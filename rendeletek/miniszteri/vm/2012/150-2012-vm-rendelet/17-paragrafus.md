@@ -2,7 +2,7 @@
 
 ## 11. Promóció és kommunikáció a válságmegelőzés és -kezelés érdekében
 
-17. § (1)[^24] A bizottsági rendelet 86. cikke alkalmazásában a folyamatban lévő promóciós és kommunikációs intézkedések kiegészítéseként alkalmazható promóciós és kommunikációs intézkedések a következők:
+17. § (1)[^30] A bizottsági rendelet 86. cikke alkalmazásában a folyamatban lévő promóciós és kommunikációs intézkedések kiegészítéseként alkalmazható promóciós és kommunikációs intézkedések a következők:
 
 a) kiadványok szerkesztése, készíttetése, terjesztése,
 
@@ -22,7 +22,7 @@ E bekezdés vonatkozásában kiegészítésként való alkalmazásnak akkor teki
 
 (5) Az (1) bekezdésben meghatározott intézkedésekhez kapcsolódóan az intézkedések megvalósítása érdekében kötött szerződések keretében felmerülő, a (3) bekezdésnek megfelelően elfogadott költségtípusok támogathatóak.
 
-(6)[^25] Amennyiben a válságmegelőzés és -kezelés érdekében alkalmazott fogyasztásösztönző marketing és promóciós intézkedés keretében, egy legalább három, de legfeljebb kilenc napos időszakban, a termelői szervezet által friss fogyasztásra értékesített termék vagy terméktípus mennyisége legalább huszonöt százalékkal meghaladja az intézkedést közvetlenül megelőzően, azzal megegyező időtartam alatt friss fogyasztásra értékesített termékmennyiséget, úgy az intézkedés keretében a legalább három, de legfeljebb kilenc napos időszakban értékesített termék vagy terméktípus értékesítési átlagára és a megelőző, megegyező időtartam alatt értékesített termékmennyiség értékesítési átlagára közötti árkülönbözet és az intézkedés által érintett időszakban értékesített mennyiség szorzata az intézkedés végrehajtása tekintetében jogosult költségként elszámolható kiadásnak minősül.
+(6)[^31] Amennyiben a válságmegelőzés és -kezelés érdekében alkalmazott fogyasztásösztönző marketing és promóciós intézkedés keretében, egy legalább három, de legfeljebb kilenc napos időszakban, a termelői szervezet által friss fogyasztásra értékesített termék vagy terméktípus mennyisége legalább huszonöt százalékkal meghaladja az intézkedést közvetlenül megelőzően, azzal megegyező időtartam alatt friss fogyasztásra értékesített termékmennyiséget, úgy az intézkedés keretében a legalább három, de legfeljebb kilenc napos időszakban értékesített termék vagy terméktípus értékesítési átlagára és a megelőző, megegyező időtartam alatt értékesített termékmennyiség értékesítési átlagára közötti árkülönbözet és az intézkedés által érintett időszakban értékesített mennyiség szorzata az intézkedés végrehajtása tekintetében jogosult költségként elszámolható kiadásnak minősül.
 
-[^24]: A 17. § (1) bekezdése a 65/2013. (VII. 29.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^25]: A 17. § (6) bekezdése a 65/2013. (VII. 29.) VM rendelet 24. § (2) bekezdésével megállapított szöveg.
+[^30]: A 17. § (1) bekezdése a 65/2013. (VII. 29.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^31]: A 17. § (6) bekezdése a 65/2013. (VII. 29.) VM rendelet 24. § (2) bekezdésével megállapított szöveg.

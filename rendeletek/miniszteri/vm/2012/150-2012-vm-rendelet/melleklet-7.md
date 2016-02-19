@@ -406,7 +406,7 @@
 
 ## A hulladékgazdálkodás a hulladékkal összefüggő tevékenységek rendszere, beleértve a hulladék keletkezésének megelőzését, mennyiségének és veszélyességének csökkentését, kezelését, ezek tervezését és ellenőrzését, a kezelő berendezések és létesítmények üzemeltetését, bezárását, utógondozását, a működés felhagyását követő vizsgálatokat, valamint az ezekhez kapcsolódó szaktanácsadást és oktatást. A hulladékgazdálkodás alapvető célja az emberi egészség védelme, a természeti környezet megóvása, a fenntartható fejlődés biztosítása és a környezettudatos magatartás kialakítása. A célok között említhető továbbá a természeti erőforrásokkal való takarékoskodás, a környezet hulladék által okozott terhelésének minimalizálása, szennyezésének elkerülése érdekében a hulladékkeletkezés megelőzése (a természettől elsajátított anyag minél teljesebb felhasználása, hosszú élettartamú és újrahasználható termékek kialakítása), a képződő hulladék mennyiségének és veszélyességének csökkentése, a keletkező hulladék minél nagyobb arányú hasznosítása, a fogyasztás-termelés körforgásban tartása, a nem hasznosuló, vissza nem forgatható hulladék környezetkímélő ártalmatlanítása.
 
-## A hasznosítás a hulladéknak vagy valamely összetevőjének a termelésben vagy a szolgáltatásban – a hulladékról szóló 2012. évi CLXXXV.. törvény[^62] 3. mellékletben felsorolt eljárások valamelyikének alkalmazásával – történő felhasználását jelenti. Így a hulladék anyagának termelésben, szolgáltatásban történő ismételt felhasználásával (újrafeldolgozásával), a hulladék valamely újrafeldolgozható összetevőjének leválasztásával és alapanyaggá alakításával (visszanyerésével), a hulladék energiatartalmának kinyerésével (energetikai hasznosítással), valamint a biológiailag lebomló szerves anyagok aerob vagy anaerob lebontásával és további felhasználásra alkalmassá tételével (pl. komposztálás) a környezetterhelés mérsékelhető.
+## A hasznosítás a hulladéknak vagy valamely összetevőjének a termelésben vagy a szolgáltatásban – a hulladékról szóló 2012. évi CLXXXV.. törvény[^68] 3. mellékletben felsorolt eljárások valamelyikének alkalmazásával – történő felhasználását jelenti. Így a hulladék anyagának termelésben, szolgáltatásban történő ismételt felhasználásával (újrafeldolgozásával), a hulladék valamely újrafeldolgozható összetevőjének leválasztásával és alapanyaggá alakításával (visszanyerésével), a hulladék energiatartalmának kinyerésével (energetikai hasznosítással), valamint a biológiailag lebomló szerves anyagok aerob vagy anaerob lebontásával és további felhasználásra alkalmassá tételével (pl. komposztálás) a környezetterhelés mérsékelhető.
 
 ## 2.4.1. A biológiailag lebomló szerves anyagok aerob lebontása és további felhasználásra alkalmassá tétele (Komposztkészítés)
 
@@ -1086,7 +1086,7 @@
 
 ## A támogatás ÚMVP keretében történik. Az intézkedés – a kettős finanszírozás elkerülése érdekében – nem támogatható a működési alapból.
 
-7. melléklet a 150/2012. (XII. 28.) VM rendelethez
+7. melléklet a 150/2012. (XII. 28.) VM rendelethez[^69]
 
 | Termelői szervezet neve: |  |
 
@@ -1180,7 +1180,7 @@ A kiindulási mutatókat hároméves átlagként kell kiszámítani. Adatok hiá
 
 | 3 | A termelői szervezeti tagság vonzerejének növelése |
 
-| 4 | A TSZ-ben/TSZT-ben aktív tagsággal1 (1) rendelkező gyümölcs- és zöldségtermelők száma |  |
+| 4 | A TSZ-ben/TSZT-ben aktív tagsággal70 (1) rendelkező gyümölcs- és zöldségtermelők száma |  |
 
 | 5 | A TSZ/TSZT tagjai által megművelt teljes gyümölcs- és zöldségtermelő terület (ha) |  |
 
@@ -1192,7 +1192,7 @@ A kiindulási mutatókat hároméves átlagként kell kiszámítani. Adatok hiá
 
 | 9 |  | A forgalomba hozott termékek teljes mennyisége (tonna) |  |
 
-| 10 | A valamely „minőségbiztosítási rendszer” követelményeinek megfelelő értékesített termékek mennyisége a „minőségbiztosítási rendszerek” főbb típusaira lebontva2 (tonna) |
+| 10 | A valamely „minőségbiztosítási rendszer” követelményeinek megfelelő értékesített termékek mennyisége a „minőségbiztosítási rendszerek” főbb típusaira lebontva71 (tonna) |
 
 | 11 |  | Igazolt ökológiai termelés |  |
 
@@ -1210,7 +1210,7 @@ A kiindulási mutatókat hároméves átlagként kell kiszámítani. Adatok hiá
 
 | 18 | A termelői árak stabilizálása |
 
-| 19 |  | A TSZ/TSZT értékesítési átlagárának 80%-ánál alacsonyabb áron értékesített termékek mennyisége (tonna)3 |  |
+| 19 |  | A TSZ/TSZT értékesítési átlagárának 80%-ánál alacsonyabb áron értékesített termékek mennyisége (tonna)72 |  |
 
 | 20 | Az ismeretek bővítése és a humán tartalékok fejlesztése |
 
@@ -1224,7 +1224,7 @@ A kiindulási mutatókat hároméves átlagként kell kiszámítani. Adatok hiá
 
 | 25 | Hozzájárulás a talajvédelemhez |
 
-| 26 |  | Talajeróziós kockázatnak kitett gyümölcs- és zöldségtermelő terület,4 ahol erózió elleni intézkedéseket hajtanak végre (ha) |  |
+| 26 |  | Talajeróziós kockázatnak kitett gyümölcs- és zöldségtermelő terület,73 ahol erózió elleni intézkedéseket hajtanak végre (ha) |  |
 
 | 27 | Hozzájárulás a vízminőség fenntartásához és javításához |
 
@@ -1254,19 +1254,19 @@ A kiindulási mutatókat hároméves átlagként kell kiszámítani. Adatok hiá
 
 | 40 |  | Szállítás |
 
-| 41 |  | Belső szállításra5 (5) fordított becsült éves energiafogyasztás, tüzelőanyag típusokra lebontva |  |
+| 41 |  | Belső szállításra74 (5) fordított becsült éves energiafogyasztás, tüzelőanyag típusokra lebontva |  |
 
 | 42 | A keletkező hulladékmennyiség csökkentése |
 
-1 Aktív tagnak az olyan tag számít, amely termékeket szállít a TSZ-nek/TSZT-nek.
+70 Aktív tagnak az olyan tag számít, amely termékeket szállít a TSZ-nek/TSZT-nek.
 
-2 A „minőségbiztosítási” követelmények célja ez esetben az, hogy részletes kötelezettségeket határozzanak meg azon termelési eljárásokra, a) amelyek betartására független ellenőrzéssel ügyelnek és b) amelyek végtermékének minősége i. közegészségügy, növény-egészségügy és környezetvédelem tekintetében jelentősen meghaladja a szokványos kereskedelmi előírásokat és ii. jelenlegi és előre látható piaci igényt elégít ki. A „minőségbiztosítási rendszerek” fő típusai a következőkre terjednek ki: (a) igazolt ökológiai termelés; (b) oltalom alatt álló földrajzi jelzések és eredetmegjelölések; c) igazolt integrált termelés; d)termékminőségbiztosítási magánrendszerek.
+71 A „minőségbiztosítási” követelmények célja ez esetben az, hogy részletes kötelezettségeket határozzanak meg azon termelési eljárásokra, a) amelyek betartására független ellenőrzéssel ügyelnek és b) amelyek végtermékének minősége i. közegészségügy, növény-egészségügy és környezetvédelem tekintetében jelentősen meghaladja a szokványos kereskedelmi előírásokat és ii. jelenlegi és előre látható piaci igényt elégít ki. A „minőségbiztosítási rendszerek” fő típusai a következőkre terjednek ki: (a) igazolt ökológiai termelés; (b) oltalom alatt álló földrajzi jelzések és eredetmegjelölések; c) igazolt integrált termelés; d)termékminőségbiztosítási magánrendszerek.
 
-3 Évenként kell kiszámítani az értékesített termékek értéke szerinti fő termékekre.
+72 Évenként kell kiszámítani az értékesített termékek értéke szerinti fő termékekre.
 
-4 „Talajeróziós kockázatnak kitett” terület: bármely lejtős terület, amelynek dőlésszöge 10%-nál nagyobb, függetlenül attól, hogy történtek-e erózió elleni intézkedések (például talajtakaró, vetésforgó stb.). Ha rendelkezésre áll a szükséges információ, a tagállam ehelyett a következő meghatározást is használhatja: „Talajeróziós kockázatnak kitett” terület: bármely terület, amelynek előre jelzett talajvesztesége meghaladja a természetes talajképződés mértékét, függetlenül attól, hogy történtek-e erózió elleni intézkedések (például talajtakaró vagy vetésforgó).
+73 „Talajeróziós kockázatnak kitett” terület: bármely lejtős terület, amelynek dőlésszöge 10%-nál nagyobb, függetlenül attól, hogy történtek-e erózió elleni intézkedések (például talajtakaró, vetésforgó stb.). Ha rendelkezésre áll a szükséges információ, a tagállam ehelyett a következő meghatározást is használhatja: „Talajeróziós kockázatnak kitett” terület: bármely terület, amelynek előre jelzett talajvesztesége meghaladja a természetes talajképződés mértékét, függetlenül attól, hogy történtek-e erózió elleni intézkedések (például talajtakaró vagy vetésforgó).
 
-5Belső szállítás: a tagüzemektől a TSZ-hez/TSZT-hez történő termékszállítás.
+74Belső szállítás: a tagüzemektől a TSZ-hez/TSZT-hez történő termékszállítás.
 
 2. A MŰKÖDÉSI ALAP TERVEZETT ALAKULÁSA
 
@@ -1908,4 +1908,5 @@ Képzési terv:
 
 A 4/B 3 és 4/B 4 pontok alapján kell kitölteni ezt a táblázatot!
 
-[^62]: A 2000. évi XLIII. törvény 2012. december 31-ig hatályos.
+[^68]: A 2000. évi XLIII. törvény 2012. december 31-ig hatályos.
+[^69]: A 7. melléklet a 8/2016. (II. 11.) FM rendelet 15. §-a szerint módosított szöveg.
