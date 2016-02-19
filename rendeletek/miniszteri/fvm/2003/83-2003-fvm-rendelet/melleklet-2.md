@@ -26,7 +26,7 @@
 
 | 6. | Keltetőgép | 8436.21 | Állattenyésztési gépkezelő (Keltetőgép-kezelő) 21 6280 04 | Keltetőgép (gépcsoport) üzemeltetése (indítás, működtetés, leállítás stb.), karban-tartása** | Állattenyésztő és állat-egészségügyi technikus, Állattenyésztő szakmunkás, Állattenyésztő (baromfi- és kisállattenyésztő). |
 
-| 7. | Elektromos halászgép | 8543 | Elektromos halászgépkezelő 32 6280 01 |  | Halász, Halász szaktechnikus. |
+| 7. |  |  |  |  |  |
 
 | 8. | Mezőgazdasági rakodógép | 8428.90.71 | Mezőgazdasági gépkezelő (Mező- és erdőgazdasági rakodógép) 31 6280 10 | Rakodási tevékenység (fel- vagy leterhelés), gépek karbantartása | Okleveles mezőgazdasági gépészmérnök, Mezőgazdasági gépészmérnök, Okleveles erdőmérnök, Erdőmérnök, Mezőgazdasági technikus, Mezőgazdasági gépésztechnikus, Erdészeti gépésztechnikus, Mezőgazdasági gépész, Erdészeti gépész, Növénytermesztő gépész, Állattartó-telepi gépész. |
 
@@ -58,7 +58,7 @@
 
 ## ** Nem tekinthető gépkezelőnek a kizárólagosan részfeladatot ellátó betanított-, vagy segédmunkát végző személy.
 
-2. számú melléklet a 83/2003. (VII. 16.) FVM rendelethez[^14]
+2. számú melléklet a 83/2003. (VII. 16.) FVM rendelethez[^16]
 
 Mezőgazdasági és erdészeti gépkezelői jogosítvány
 
@@ -144,4 +144,4 @@ e) A jogosítvány 11–12. oldala
 
 C) EGYÉB BEJEGYZÉSEK
 
-[^14]: A 2. számú melléklet a 36/2015. (VI. 30.) FM rendelet 3. § d) pontja szerint módosított szöveg.
+[^16]: A 2. számú melléklet a 36/2015. (VI. 30.) FM rendelet 3. § d) pontja szerint módosított szöveg.

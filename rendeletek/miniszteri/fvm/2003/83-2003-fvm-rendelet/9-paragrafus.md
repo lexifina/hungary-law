@@ -2,6 +2,6 @@
 
 9. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)–(3)[^12]
+(2)–(3)[^14]
 
-[^12]: A 9. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 269. pontja hatályon kívül helyezte.
+[^14]: A 9. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 269. pontja hatályon kívül helyezte.
