@@ -24,7 +24,7 @@
 
 | 10203 | Közös hivatalok csatolt települései utáni pótelőirányzat kapcsolódó településenként. A hivatal és a csatolt települések szavazásnapi kapcsolattartással összefüggő telefon, fax, villamos energia, gépkocsi használat, takarítás, portaszolgálat kiadásai. | 1 | 4 000 |
 
-| 10204 | Választásnapi ellátás költsége szavazókörönként. Szavazatszámláló bizottságok választott és megbízott tagjainak napközbeni ellátása, kávé, ásványvíz, pogácsa, szendvics, stb. | 1 | 8 000 |
+| 10204 |  |  |  |
 
 | 2. SZEMÉLYI JUTTATÁSOK |  |  |
 
@@ -54,6 +54,10 @@
 
 | 20401 | HVI tag személyi normatívája közös önkormányzati hivatalok esetében. Közös önkormányzati hivatalok esetében a helyi választási irodának a normatíva tekintetében figyelembe vehető tagjainak száma minden kapcsolt település után 1 fővel növekszik. | 1 | 30 000 |
 
+| 205 | Szavazásnapi ellátás költségei. |  |  |
+
+| 20501 | Szavazásnapi ellátás költsége szavazókörönként. Az SZSZB választott és megbízott tagjainak napközbeni étkezési ellátása. | 1 | 8 000 |
+
 | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |  |  |
 
 | 301 | Munkaadókat terhelő fizetési kötelezettség településnél, hatályos jogszabályok szerint. |  |  |
@@ -80,7 +84,7 @@
 
 | 11302 | Átjelentkezéssel, KÜVI szavazással, levélszavazással kapcsolatos költségek OEVI részére OEVK-nként. Külképviseleti szavazatok és átjelentkezők szavazatai megszámlálására kijelölt szavazókörök urnáinak őrzése, az átjelentkezők szavazatainak továbbítása és fogadása, a KÜVI szavazatok fogadása és a levélszavazatok továbbítása. | 1 | 60 000 |
 
-| 11303 | Szavazatszámlálással összefüggő kiadások, a külképviseleteken leadott szavazatok, az átjelentkezéssel szavazó választópolgárok által leadott szavazatok megszámlálására kijelölt szavazókörökben, OEVK-nként, OEVK székhely településre. Szavazatszámláló bizottságok tagjainak napközbeni ellátása. | 1 | 4 000 |
+| 11303 |  |  |  |
 
 | 2. SZEMÉLYI JUTTATÁSOK |  |  |
 
@@ -93,6 +97,10 @@
 | 21201 | OEVI tagjának személyi normatívája. E normatíva az OEVI 10 tagja tekintetében vehető figyelembe. Feladatait a Ve. határozza meg. Tevékenysége a választás kitűzésétől a választási eredmény jogerőre emelkedéséig tart. | 10 | 40 000 |
 
 | 21202 | Ha az OEVI több OEVB mellett működik, úgy az OEVI-nek a normatíva tekintetében figyelembe vehető tagjainak száma minden további OEVB után 5 fővel növekszik. | 5 | 40 000 |
+
+| 213 | Szavazásnapi ellátás költségei. |  |  |
+
+| 21301 | Szavazatszámlálással összefüggő kiadások, a külképviseleteken leadott szavazatok, az átjelentkezéssel szavazó választópolgárok által leadott szavazatok megszámlálására kijelölt szavazókörökben, OEVK-nként, OEVK székhely településre. Az SZSZB tagjainak napközbeni étkezési ellátása. | 1 | 4 000 |
 
 | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |  |  |
 
@@ -248,6 +256,6 @@
 
 | 35104 | Külképviseleti feladatokkal összefüggő átadott járulék |  |  |
 
-2. melléklet a 38/2013. (XII. 30.) KIM rendelethez[^5]
+2. melléklet a 38/2013. (XII. 30.) KIM rendelethez[^23]
 
-[^5]: A 2. melléklet a 7/2014. (II. 11.) KIM rendelet 2. § (2) bekezdése, 3. § c)–e) pontja és 4. §-a szerint módosított szöveg.
+[^23]: A 2. melléklet a 7/2014. (II. 11.) KIM rendelet 2. § (2) bekezdése, 3. § c)–e) pontja és 4. §-a, a 2/2016. (II. 18.) IM rendelet 6. § (2) bekezdése szerint módosított szöveg.

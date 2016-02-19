@@ -1,13 +1,26 @@
-## 3. § Az NVI elnöke a választás lebonyolítására rendelkezésre álló összegből megállapodás alapján biztosítja a külpolitikáért felelős miniszter által kijelölt szerv, illetve az egyéb szerv részére a feladatai végrehajtásának pénzügyi fedezetét.
+## 3. §[^5]
 
-4. § (1) Az NVI a választások pénzügyi fedezetének a HVI-t, az OEVI-t és a TVI-t megillető részét a TVI részére az illetékes fővárosi, megyei önkormányzat hivatalának fizetési számlájára folyósítja. A TVI a választások pénzügyi fedezetének a HVI-t és az OEVI-t megillető részét a települési önkormányzat polgármesteri hivatala (közös önkormányzati hivatal esetén a közös önkormányzati hivatal) fizetési számlájára folyósítja.
+4. § (1)[^6] Az NVI a választások pénzügyi fedezetét a HVI (közös önkormányzati hivatal esetén a közös önkormányzati hivatal), az OEVI és a TVI fizetési számlájára utalja át.
 
-(2) A választás kiadásainak fedezetére rendelkezésre álló normatívák szerinti összeg a választás napját megelőző harmincadik napig előlegként kerül folyósításra a TVI részére. A TVI a választások pénzügyi fedezetének a HVI-t és az OEVI-t megillető részét a választás napját megelőző huszadik napig folyósítja.
+(2)[^7] Az NVI a választás
 
-(3) A választás alábbi személyi juttatásainak folyósítására csak a pénzügyi elszámolás elfogadását követően kerül sor az alábbiak szerint:
+a) dologi kiadásainak fedezetére rendelkezésre álló, normatívák szerinti összeget a választási feladatoknak megfelelő ütemezésben, legkésőbb az adott választási feladatra meghatározott határidőt megelőző harmincadik napig,
 
-a) a HVI és OEVI vezetők személyi juttatásainak kifizetéséről a TVI vezetője a HVI és az OEVI pénzügyi elszámolásának elfogadásával dönt, és haladéktalanul intézkedik a folyósításról,
+b) személyi juttatásai, valamint a munkaadókat terhelő járulékok és szociális hozzájárulási adó fedezetére rendelkezésre álló, normatívák szerinti összeget a választás napját megelőző ötödik napig
+
+## előlegként utalja át a HVI, az OEVI és a TVI részére.
+
+(3)[^8] A választás alábbi személyi juttatásainak kifizetésére a pénzügyi elszámolás elfogadását követően kerül sor az alábbiak szerint:
+
+a)[^9] a HVI és OEVI vezetők személyi juttatásainak kifizetéséről a TVI vezetője a HVI és az OEVI pénzügyi elszámolásának elfogadásával dönt, és haladéktalanul intézkedik a kifizetésről,
 
 b) a TVI vezetők és tagok, valamint a külképviseleti választási irodák (a továbbiakban: KÜVI) vezetői és tagjai személyi juttatásainak kifizetéséről az NVI elnöke dönt.
 
-(4) A (3) bekezdés b) pontjában meghatározott személyi juttatások fedezetét az NVI a döntést követő 8 munkanapon belül folyósítja.
+(4)[^10] A (3) bekezdés b) pontjában meghatározott személyi juttatások fedezetét az NVI a döntést követő 8 munkanapon belül utalja át.
+
+[^5]: A 3. §-t a 2/2016. (II. 18.) IM rendelet 8. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 4. § (1) bekezdése a 2/2016. (II. 18.) IM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 4. § (2) bekezdése a 2/2016. (II. 18.) IM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. § (3) bekezdés nyitó szövegrésze a 2/2016. (II. 18.) IM rendelet 7. § b) pontja és 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdés a) pontja a 2/2016. (II. 18.) IM rendelet 7. § c) pontja szerint módosított szöveg.
+[^10]: A 4. § (4) bekezdése a 2/2016. (II. 18.) IM rendelet 7. § d) pontja szerint módosított szöveg.

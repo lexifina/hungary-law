@@ -24,7 +24,7 @@
 
 | 10203 | Közös hivatalok csatolt települései utáni pótelőirányzat kapcsolódó településenként. A hivatal és a csatolt települések szavazásnapi kapcsolattartással összefüggő telefon, fax, villamos energia, gépkocsi használat, takarítás, portaszolgálat kiadásai. | 1 | 4 000 |
 
-| 10204 | Választásnapi ellátás költsége szavazókörönként. Szavazatszámláló bizottságok választott és megbízott tagjainak napközbeni ellátása, kávé, ásványvíz, pogácsa, szendvics, stb. | 1 | 8 000 |
+| 10204 |  |  |  |
 
 | 2. SZEMÉLYI JUTTATÁSOK |  |  |
 
@@ -49,6 +49,10 @@
 | 204 | HVI tag személyi normatívája közös önkormányzati hivatalok esetében |  |  |
 
 | 20401 | HVI tag személyi normatívája közös önkormányzati hivatalok esetében. Közös önkormányzati hivatalok esetében a helyi választási irodának a normatíva tekintetében figyelembe vehető tagjainak száma minden kapcsolt település után 1 fővel növekszik. | 1 | 30 000 |
+
+| 205 | Szavazásnapi ellátás költségei. |  |  |
+
+| 20501 | Szavazásnapi ellátás költsége szavazókörönként. Az SZSZB választott és megbízott tagjainak napközbeni étkezési ellátása. | 1 | 8 000 |
 
 | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |  |  |
 
@@ -218,6 +222,6 @@
 
 | 35104 | Külképviseleti feladatokkal összefüggő átadott járulék |  |  |
 
-3. melléklet a 38/2013. (XII. 30.) KIM rendelethez[^6]
+3. melléklet a 38/2013. (XII. 30.) KIM rendelethez[^24]
 
-[^6]: A 3. mellékletet a 7/2014. (II. 11.) KIM rendelet 4. §-a hatályon kívül helyezte.
+[^24]: A 3. mellékletet a 7/2014. (II. 11.) KIM rendelet 4. §-a hatályon kívül helyezte.
