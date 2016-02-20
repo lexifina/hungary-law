@@ -1,7 +1,0 @@
-## 7. A zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló 150/2012. (XII. 28.) VM rendelet módosítása
-
-12. § (1) A zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló 150/2012. (XII. 28.) VM rendelet [a továbbiakban: 150/2012. (XII. 28.) VM rendelet] 13. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A zöldség-gyümölcs termelői csoport – a módosítások bemutatását, indokolását és a módosításoknak az elismerési terv végrehajtására, valamint az elismerési feltételeknek való megfelelésre gyakorolt hatását bemutató kérelem egy eredeti példányban papír alapon, valamint elektronikus adathordozón a minisztériumhoz történő benyújtásával – kérelmezheti a miniszter által elfogadott elismerési terv és az abban szereplő intézkedések módosítását. A kérelemhez csatolni kell az elismerési terv „Az elismerés megszerzése érdekében végrehajtandó intézkedések, a fejlesztési terv” alcímű részének módosítással érintett fejezeteit, valamint az elismerési terv módosítással érintett táblázatait, a módosításhoz kapcsolódó szerződéseket. A módosítás eredményeképpen a jóváhagyott kiadások összege legfeljebb negyven százalékkal csökkenhet. Folyamatban lévő végrehajtási szakasz tekintetében a kérelmet legkésőbb harminc nappal az éves vagy a féléves szakasz befejezése előtt kell benyújtani. A miniszter a módosítási kérelmekről a bizottsági rendelet 47. cikk (4) bekezdése szerint rendelkezésre álló összegre figyelemmel dönt.”
-
-(2) A 150/2012. (XII. 28. ) VM rendelet 13. § (5) bekezdése helyébe a következő rendelkezés lép:
