@@ -1,1 +1,0 @@
-## 2. A helyi önkormányzati képviselők és a polgármesterek választása, valamint a nemzetiségi önkormányzati képviselők választása költségeinek normatíváiról, tételeiről, elszámolási és belső ellenőrzési rendjéről szóló 3/2014. (VII. 24.) IM rendelet módosítása
