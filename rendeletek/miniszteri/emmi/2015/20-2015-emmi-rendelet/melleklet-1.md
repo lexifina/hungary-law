@@ -38,13 +38,17 @@ A) Az Emberi Erőforrások Minisztériuma hivatali szervezete
 
 B) Központi hivatalok
 
-1. Az Egészségügyi Engedélyezési és Közigazgatási Hivatalnál
+1.[^1] Az Egészségügyi Nyilvántartási és Képzési Központnál
 
-1.1. a kábítószerügyi feladatokat ellátó főosztály vezetője és ügyintézője
+1.1. a gazdasági vezető
 
-1.2. a közbeszerzési eljárásban résztvevő munkakör
+1.2. a főosztályvezető
 
-1.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+1.3. a kábítószerügyi feladatokat ellátó szervezeti egység valamennyi munkaköre
+
+1.4. a közbeszerzési eljárásban résztvevő munkakör
+
+1.5. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
 2. Az Emberi Erőforrás Támogatáskezelőnél
 
@@ -54,25 +58,29 @@ B) Központi hivatalok
 
 2.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-3. A Klebelsberg Intézményfenntartó Központnál
+3.[^2] A Klebelsberg Intézményfenntartó Központnál
 
-3.1. a főosztályvezetők
+3.1. a főosztályvezető
 
-3.2. a tankerületi igazgatók
+3.2. a tankerületi igazgató
 
-3.3. a kiadmányozási joggal rendelkező főosztályvezető-helyettesek és osztályvezetők
+3.3. a kiadmányozási joggal rendelkező főosztályvezető-helyettes és osztályvezető
 
-3.4. a belső adatvédelmi felelős
+3.4. az elnöki kabinet valamennyi munkaköre
 
-3.5. az informatikai biztonsági felelős
+3.5. a belső adatvédelmi felelős
 
-3.6. a jogi, a személyügyi, a fejlesztési, a vagyonkezelési és a közbeszerzési feladatok ellátó szervezeti egység valamennyi munkaköre
+3.6. a központi szerv, valamint a megyeközponti és a fővárosi tankerület jogi, személyügyi, pénzügyi, számviteli, fejlesztési, vagyongazdálkodási, üzemeltetési, beszerzési és közbeszerzési feladatokat ellátó szervezeti egységének valamennyi munkaköre
 
-3.7. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+3.7. a központi szerv, valamint a megyeközponti és a fővárosi tankerület pályázatkezelő feladatokat ellátó szervezeti egységének projektmenedzseri, projektasszisztensi, modulvezetői munkaköre
+
+3.8. a biztonságszervezési, védelmi feladatokat ellátó, az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+
+3.9. a járási és a budapesti kerületi tankerület személyügyi, gazdálkodási, pénzügyi és számviteli feladatokat ellátó munkaköre
 
 4. A Nemzeti Rehabilitációs és Szociális Hivatalnál
 
-4.1. a gazdasági vezető
+4.1.[^3] a gazdasági igazgató
 
 4.2. a közbeszerzési eljárásban résztvevő munkakör
 
@@ -96,29 +104,33 @@ B) Központi hivatalok
 
 6.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-7. Az Országos Egészségbiztosítási Pénztárnál
+7.[^4] Az Országos Egészségbiztosítási Pénztárnál
 
-7.1. a főosztályvezető és a helyettesítésére kijelölt főosztályvezető-helyettes, osztályvezető
+7.1. a gazdasági vezető
 
-7.2. a közbeszerzési eljárásban résztvevő munkakör
+7.2. a főosztályvezető és a főosztályvezető-helyettes
 
-7.3. a polgári védelmet ellátó foglalkoztatottak
+7.3. a közbeszerzési eljárásban résztvevő munkakör
 
-7.4. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+7.4. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-8. Az Országos Nyugdíjbiztosítási Főigazgatóságnál
+8.[^5] Az Országos Nyugdíjbiztosítási Főigazgatóságnál
 
-8.1. az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonsági Szolgálat ügyeiben másodfokon vagy felügyeleti hatáskörben eljáró ügyintézők és ügykezelők, valamint a döntéseket kiadmányozó vezetők
+8.1. az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonsági Szolgálat ügyeiben az Országos Nyugdíjbiztosítási Főigazgatóság Nyugdíjfolyósító Igazgatóságánál első fokon eljáró ügyintéző és ügykezelő, valamint a döntést kiadmányozó vezető
 
-8.2. a közbeszerzési eljárásban résztvevő munkakör
+8.2. az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonsági Szolgálat ügyeiben másodfokon vagy felügyeleti hatáskörben eljáró ügyintéző és ügykezelő, valamint a döntést kiadmányozó vezető
 
-8.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+8.3. az Országos Nyugdíjbiztosítási Főigazgatóság Nyugdíjfolyósító Igazgatóságának igazgatója és helyettese
+
+8.4. a közbeszerzési eljárásban résztvevő munkakör
+
+8.5. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
 9. Az Országos Tisztifőorvosi Hivatalnál
 
 9.1. a közbeszerzési eljárásban résztvevő munkakör
 
-9.2. főosztályvezető és a helyettesítésére kijelölt főosztályvezető-helyettes, osztályvezető
+9.2.[^6] a gyorsreagálási, a humánpolitikai, az igazgatási és a járványügyi feladatokat ellátó szervezeti egység vezetője
 
 9.3. a gazdasági vezető
 
@@ -134,13 +146,27 @@ B) Központi hivatalok
 
 10.4. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-11. A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetnél
+11.[^7] Az Állami Egészségügyi Ellátó Központnál
 
-11.1. a közbeszerzési eljárásban résztvevő munkakör
+11.1. a gazdasági vezető
 
-11.2. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+11.2. az igazgatók
 
-C) Központi államigazgatási szervnek nem minősülő költségvetési szerv
+11.3. a főigazgatói titkárság főosztályvezetője
+
+11.4. a közbeszerzési feladatokat ellátó szervezeti egység vezetője
+
+11.5. a humánerőforrás feladatokat ellátó szervezeti egység vezetője
+
+11.6. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+
+12.[^8] Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél
+
+12.1. a közbeszerzési eljárásban résztvevő munkakör
+
+12.2. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+
+C)[^9] Központi államigazgatási szervnek nem minősülő költségvetési szerv
 
 1. Az Egészségügyi Készletgazdálkodási Intézetnél
 
@@ -166,98 +192,68 @@ C) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 
 2.5. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-3. Az Országos Egészségfejlesztési Intézetnél
+2.6. a vezető projektmenedzser munkakör
+
+3. A Nemzeti Egészségfejlesztési Intézetnél
 
 3.1. a főigazgató és helyettese
 
-3.2. a közbeszerzési eljárásban résztvevő munkakör
+3.2. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-3.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
-
-4. Az Országos Élelmezés és Táplálkozástudományi Intézetnél
+4. Az Országos Epidemiológiai Központnál
 
 4.1. a főigazgató és helyettese
 
-4.2. a közbeszerzési eljárásban résztvevő munkakör
+4.2. a Nemzeti Biztonsági Laboratórium vezetője és helyettese
 
-4.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
-
-5. Az Országos Epidemiológiai Központnál
+5. Az Országos Közegészségügyi Központnál
 
 5.1. a főigazgató és helyettese
 
-5.2. a Nemzeti Biztonsági Laboratórium valamennyi munkaköre
+5.2. az igazgató
 
 5.3. a közbeszerzési eljárásban résztvevő munkakör
 
-5.4. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+5.4. a biztonságszervezési, védelmi feladatokat ellátó munkakör
 
-6. Az Országos Frédéric Joliot-Curie Sugárbiológiai és Sugáregészségügyi Kutató Intézetnél
+5.5. az Országos Sugáregészségügyi Készenléti Szolgálattal kapcsolatos munkakör
 
-6.1. a főigazgató és helyettese
+6. Az Országos Mentőszolgálatnál
 
-6.2. a gazdasági vezető
+6.1. a főigazgató
 
-6.3. az Országos Sugáregészségügyi Szolgálattal kapcsolatos munkakör
+6.2. az igazgatók
 
-6.4. a közbeszerzési eljárásban résztvevő munkakör
+6.3. a regionális mentőszervezet regionális igazgatója, regionális gazdasági vezetője, vezető mentőtisztje
 
-6.5. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+6.4. a főigazgató és az igazgatók személyi titkára, vezetői asszisztense
 
-7. Az Országos Gyermekegészségügyi Intézetnél
+6.5. a főigazgatói kabinetvezető
+
+6.6. a főosztályvezető és a helyettesítésére kijelölt személy
+
+6.7. a közbeszerzési eljárásban résztvevő munkakör
+
+6.8. a biztonságszervezési feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért felelős munkakör
+
+7. Az Országos Vérellátó Szolgálatnál
 
 7.1. a főigazgató és helyettese
 
-7.2. a közbeszerzési eljárásban résztvevő munkakör
+7.2. a gazdasági vezető
 
-7.3. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+7.3. a szervkoordinációs iroda vezetője
 
-8. Az Országos Kémiai Biztonsági Intézetnél
+7.4. a közbeszerzési eljárásban résztvevő munkakör
 
-8.1. a főigazgató és helyettese
+7.5. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
 
-8.2. a közbeszerzési eljárásban résztvevő munkakör
-
-8.3. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért felelős munkakör
-
-9. Az Országos Környezetegészségügyi Intézetnél
-
-9.1. a főigazgató és helyettese
-
-9.2. a főosztályvezető és a helyettesítésére kijelölt főosztályvezető-helyettes, osztályvezetők
-
-9.3. a közbeszerzési eljárásban résztvevő munkakör
-
-9.4. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
-
-10. Az Országos Alapellátási Intézetnél
-
-10.1. a főigazgató és helyettese
-
-10.2. a közbeszerzési eljárásban résztvevő munkakör
-
-10.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
-
-11. Az Országos Mentőszolgálatnál
-
-11.1. a főigazgató és helyettese
-
-11.2. a gazdasági vezető
-
-11.3. a közbeszerzési eljárásban résztvevő munkakör
-
-11.4. az orvos igazgató
-
-11.5. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
-
-12. Az Országos Vérellátó Központnál
-
-12.1. a főigazgató és helyettese
-
-12.2. a gazdasági vezető
-
-12.3. a szervkoordinációs iroda vezetője
-
-12.4. a közbeszerzési eljárásban résztvevő munkakör
-
-12.5. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+[^1]: Az 1. melléklet B) alcím 1. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet B) alcím 3. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet B) alcím 4. pont 4.1. alpontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet B) alcím 7. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet B) alcím 8. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet B) alcím 9. pont 9.2. alpontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet B) alcím 11. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet B) alcím 12. pontját a 4/2016. (II. 22.) EMMI rendelet 1. §-a iktatta be.
+[^9]: Az 1. melléklet C) alcíme a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
