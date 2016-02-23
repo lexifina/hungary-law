@@ -212,9 +212,9 @@
 
 |  |  |  |  |  |  |  |  | Irányító szerv egyoldalú nyilatkozata alapján történő előirányzat-átcsoportosítás |  |  |  |  |  |
 
-| 66 | 343906 |  |  | Diósgyőri Stadion fejlesztésének támogatása | Az előirányzat finanszírozza a diósgyőri DVTK Stadion fejlesztésével összefüggő feladatokat. Az előirányzat biztosítja az előirányzat kezelésével kapcsolatban az NFM igazgatásánál felmerülő feladatok és a projekt megvalósításához kapcsolódóan a minisztérium által szükség esetén kötendő szakértői szerződések fedezetét, amelyeknek az összege mindösszesen legfeljebb az előirányzat 2 ezreléke lehet. Az előirányzat fedezetet nyújt továbbá a felhasználással kapcsolatban az NFM-et terhelő pénzügyi tranzakciós illetékre és Kincstári díjakra. | Diósgyőri Stadionrekonstrukciós Kft, Nemzeti Sportlétesítmény-fejlesztési Beruházási Korlátolt Felelősségű Társaság, NFM Igazgatás, Kincstár | Egyedi döntéssel a kijelölt kedvezményezettel kötött támogatási szerződés útján. | előleg folyósítható | egyösszegű kifizetéssel vagy részletekben történő kifizetéssel - időarányosan vagy teljesítésarányosan | - | beszedési megbízás | - | - | - |
+| 66 | 343906 |  |  | Diósgyőri Stadion fejlesztésének támogatása | Az előirányzat finanszírozza a diósgyőri DVTK Stadion fejlesztésével, valamint a miskolci MVSC Sporttelep fejlesztésével összefüggő feladatokat. Az előirányzat biztosítja az előirányzat kezelésével kapcsolatban az NFM igazgatásánál felmerülő feladatok és a projekt megvalósításához kapcsolódóan a minisztérium által szükség esetén kötendő szakértői szerződések fedezetét, amelyeknek az összege mindösszesen legfeljebb az előirányzat 2 ezreléke lehet. Az előirányzat fedezetet nyújt továbbá a felhasználással kapcsolatban az NFM-et terhelő pénzügyi tranzakciós illetékre és Kincstári díjakra. | Diósgyőri Stadionrekonstrukciós Kft, KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Korlátolt Felelősségű Társaság, Nemzeti Sportközpontok, NFM Igazgatás, Kincstár | Egyedi döntéssel, a kijelölt kedvezményezettel kötött támogatási szerződés útján. | előleg folyósítható | egyösszegű kifizetéssel vagy részletekben történő kifizetéssel – időarányosan vagy teljesítésarányosan | – | beszedési megbízás | – | – | – |
 
-|  |  |  |  |  |  |  |  | Irányító szerv egyoldalú nyilatkozata alapján történő előirányzat-átcsoportosítás |  |  |  |  |  |
+| Irányító szerv egyoldalú nyilatkozata alapján történő előirányzat-átcsoportosítás |  |
 
 | 67 | 343973 |  |  | Tornaterem-építési program | Az előirányzat finanszírozza a mindennapos testnevelés feltételeit biztosító új tornatermek építésével, vagy a meglévő tornatermek bővítésével, felújításával kapcsolatos költségeket, beleértve a Nemzeti Sportközpontoknak a projekt megvalósításával kapcsolatban felmerülő költségeit. Az előirányzat biztosítja továbbá az előirányzat kezelésével kapcsolatban az NFM igazgatásánál felmerülő feladatok és a projekt megvalósításához kapcsolódóan a minisztérium által szükség esetén kötendő szakértői szerződések fedezetét, amelyeknek az összege mindösszesen legfeljebb az előirányzat 2 ezreléke lehet. | NFM Igazgatás, Nemzeti Sportközpontok | Kormányhatározat alapján, pályázat alapján, kérelem alapján, egyedi döntés alapján, a kijelölt kedvezményezettel kötött támogatási szerződés útján. | előleg folyósítható | egyösszegű kifizetéssel vagy részletekben történő kifizetéssel - időarányosan vagy teljesítésarányosan | - | beszedési megbízás | - | - | - |
 
@@ -344,7 +344,7 @@
 
 | 108 | 345017 |  | Szigetszentmiklós labdarúgó sportlétesítmény-fejlesztése | Az előirányzat támogatást nyújt a Nemzeti Stadionfejlesztési Programmal összhangban az Erima Utánpótlás Centrum fejlesztésével összefüggő feladatok ellátásához. | Szigetszentmiklós Város Önkormányzata | Egyedi döntéssel, a kijelölt kedvezményezettel kötött támogatási szeződés útján. | előleg folyósítható | egyösszegű kifizetéssel vagy részletekben történő kifizetéssel - időarányosan vagy teljesítésarányosan | - | beszedési megbízás | - | - | - |
 
-2. melléklet a 28/2015. (VI. 3.) NFM rendelethez[^9]
+2. melléklet a 28/2015. (VI. 3.) NFM rendelethez[^10]
 
 A XVII. Nemzeti Fejlesztési Minisztérium fejezet 2015. évi, 26. címe alá tartozó központi kezelésű előirányzatainak feladatterve
 
@@ -356,4 +356,4 @@ A XVII. Nemzeti Fejlesztési Minisztérium fejezet 2015. évi, 26. címe alá ta
 
 | 3 | 357195 |  |  | Tőkeemelés | Az előirányzat célja az „ANTENNA HUNGÁRIA” Magyar Műsorszóró és Rádióhírközlési Zártkörűen Működő Részvénytársaság (a továbbiakban: ANTENNA HUNGÁRIA Zrt.) tőkeemelésének rendezése. | ANTENNA HUNGÁRIA Zrt. | tőkeemelés | - | tulajdonosi joggyakorló határozata | - | - | - | - | -” |
 
-[^9]: A 2. mellékletet a 79/2015. (XII. 30.) NFM rendelet 5. §-a iktatta be.
+[^10]: A 2. mellékletet a 79/2015. (XII. 30.) NFM rendelet 5. §-a iktatta be.

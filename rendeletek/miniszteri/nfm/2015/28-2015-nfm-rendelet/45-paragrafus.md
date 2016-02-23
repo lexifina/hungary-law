@@ -1,4 +1,4 @@
-## 44/A. §[^5] E rendeletnek a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 28/2015. (VI. 3.) NFM rendelet módosításáról szóló 68/2015. (XI. 30.) NFM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^6] megelőzően megkötött szerződésekre is alkalmazni kell.
+## 44/A. §[^6] E rendeletnek a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 28/2015. (VI. 3.) NFM rendelet módosításáról szóló 68/2015. (XI. 30.) NFM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^7] megelőzően megkötött szerződésekre is alkalmazni kell.
 
 ## 45. § A 3. §
 
@@ -18,5 +18,5 @@ g) n) és q) pontja az SA.34770 (2012/N-2) sz. bizottsági határozat,
 
 h) a) és q) pontja az SA.38478 (2014/N) sz. bizottsági határozat
 
-[^5]: A 44/A. §-t a 68/2015. (XI. 30.) NFM rendelet 1. § (2) bekezdése iktatta be.
-[^6]: A hatálybalépés napja 2015. december 1.
+[^6]: A 44/A. §-t a 68/2015. (XI. 30.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A hatálybalépés napja 2015. december 1.

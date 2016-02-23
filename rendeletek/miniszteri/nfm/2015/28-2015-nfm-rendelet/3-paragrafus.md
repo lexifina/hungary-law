@@ -90,7 +90,7 @@ lj) 2. pont g) alpontja alapján személyszállítási közszolgáltatásért j�
 
 lk) 2. pont e) alpontja alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett a k) pontban meghatározott valamennyi támogatási kategória,
 
-m)[^3] 45–62., 64–66., 72–74a. és 103–108. sora alapján
+m)[^4] 45–62., 64–66., 72–74a. és 103–108. sora alapján
 
 ma) csekély összegű támogatás,
 
@@ -122,4 +122,4 @@ pc) csekély összegű támogatás,
 
 q) 102. sora alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett az a)–p) pontban meghatározott valamennyi támogatási kategória
 
-[^3]: A 3. § m) pont nyitó szövegrésze az 51/2015. (IX. 18.) NFM rendelet 2. § 1. pontja szerint módosított szöveg.
+[^4]: A 3. § m) pont nyitó szövegrésze az 51/2015. (IX. 18.) NFM rendelet 2. § 1. pontja szerint módosított szöveg.

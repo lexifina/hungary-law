@@ -4,7 +4,7 @@
 
 ## 1. Általános rendelkezések
 
-## 1. §[^1] E rendelet hatálya
+## 1. §[^2] E rendelet hatálya
 
 a) a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet 20. címébe sorolt fejezeti kezelésű előirányzatokra,
 
@@ -18,4 +18,4 @@ e) az előző évekről áthúzódó, a miniszter irányítása alá tartozó fe
 
 [az a)–d) pont a továbbiakban együtt: előirányzatok] terjed ki.
 
-[^1]: Az 1. § a 79/2015. (XII. 30.) NFM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 79/2015. (XII. 30.) NFM rendelet 1. §-ával megállapított szöveg.
