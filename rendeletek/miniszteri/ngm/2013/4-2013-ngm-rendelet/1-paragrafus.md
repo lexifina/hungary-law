@@ -2,6 +2,7 @@
 
 (2) Az államkötvény 50 000 euró névértékű államkötvényekből álló sorozatként kerül forgalomba hozatalra.
 
-(3) Az államkötvényből egy naptári évben egy sorozat kerül forgalomba hozatalra.
+(3)[^2] Az államkötvényből egy naptári évben négy – naptári negyedévenként egy – sorozat kerül forgalomba hozatalra.
 
 [^1]: Az 1. § a 49/2014. NGM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 8/2016. (II. 23.) NGM rendelet 1. §-ával megállapított szöveg.
