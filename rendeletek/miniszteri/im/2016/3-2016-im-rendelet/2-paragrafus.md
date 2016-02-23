@@ -1,0 +1,13 @@
+## 1. § E rendelet hatálya a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) alapján a tárgyalás valamint a személyes meghallgatás (a továbbiakban együtt: tárgyalás) zártcélú távközlő hálózat útján történő megtartásának részletes szabályaira terjed ki.
+
+2. § (1) A zártcélú távközlő hálózat működésének biztosításához szükséges feltételekkel rendelkező bíróság vagy egyéb – a zártcélú távközlő hálózat működésének biztosításához szükséges feltételekkel rendelkező – szerv elkülönített helyiséget biztosít a zártcélú távközlő hálózat útján történő meghallgatáshoz vagy kihallgatáshoz (a továbbiakban együtt: meghallgatás).
+
+(2) Az elkülönített helyiségben a mozgóképet és a hangot egyidejűleg továbbító berendezést (a továbbiakban: kamera) úgy kell elhelyezni, hogy a továbbított felvételen egyidejűleg látható legyen az elkülönített helyiségben tartózkodó valamennyi személy. A kamera látószögét úgy kell beállítani, hogy az elkülönített helyiség minden pontja látható legyen a tárgyalás kitűzött helyszínén jelen lévő, a tárgyalást vezető elnök (bíró), illetve a személyes meghallgatást lefolytató elnök (bíró) – ha a személyes meghallgatást bírósági titkár folytatja le úgy – a bírósági titkár (a továbbiakban együtt: a tárgyalás kitűzött helyszínén jelen lévő bíró, illetve bírósági titkár) számára. A kamerát mozgatni és a látószögét változtatni a meghallgatás során nem lehet. A kép és a hang egyidejű továbbítása során folyamatosan fel kell tüntetni a közvetítés pontos idejét.
+
+(3) Az elkülönített helyiségben további kamera(ák) helyezhető(ek) el, amelyet a tárgyalás kitűzött helyszínén jelenlévő bíró, illetve bírósági titkár közvetlenül vagy közvetve irányíthat. A további kamera(ák) biztosítja(ák) a meghallgatandó fél és más perbeli személy, valamint a szakértő, illetve a kihallgatandó tanú (a továbbiakban együtt: meghallgatásra kerülő személy), továbbá azon személyek közvetlen figyelemmel kísérését, akiknek jelenlétét a meghallgatásra kerülő személyhez kapcsolódóan a tárgyaláson a törvény lehetővé, illetve kötelezővé teszi.
+
+(4) Az elkülönített helyiségben a dokumentum képét továbbító önálló kamera is alkalmazható.
+
+(5) Az elkülönített helyiségben önálló hangfelvevő berendezést (a továbbiakban: mikrofon) kell biztosítani a meghallgatásra kerülő személy részére, valamint további külön mikrofont(okat) a helyiségben tartózkodó más személyek számára.
+
+(6) Az elkülönített helyiségben önálló közvetítő készülék biztosítja, hogy az elkülönített helyiségben meghallgatásra kerülő személy, valamint az elkülönített helyiségben jelen lévők követhessék a tárgyalás kitűzött helyszínén történteket.

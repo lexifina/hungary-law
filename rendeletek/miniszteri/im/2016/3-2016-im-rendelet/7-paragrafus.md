@@ -1,0 +1,1 @@
+## 6. § A tanú elkülönített helyiségben való kihallgatása esetén, ha a bíróság a tanú adatait zártan kezeli, a tanú személyi adatainak kamerába történő bemutatása alatt biztosítani kell, hogy azokat kizárólag a tárgyalás kitűzött helyszínén jelen lévő bíró, illetve bírósági titkár tekinthesse meg.
