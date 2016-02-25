@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-187-20-
 | 2015-07-17 | 2015-187-20-22.2 | 2010: CXXX. törvény |
 | 2016-01-01 | 2015-187-20-22.3 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-01-02 | 2015-187-20-22.4 | 2010: CXXX. törvény |
+| 2016-02-25 | 2015-187-20-22.5 | 22/2016. (II. 17.) Korm. rendelet |
