@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-39-20-2
 | 2013-11-27 | 2004-39-20-22.3 | 436/2013. (XI. 19.) Korm. rendelet |
 | 2014-03-15 | 2004-39-20-22.4 | 46/2014. (II. 26.) Korm. rendelet |
 | 2014-04-27 | 2004-39-20-22.5 | 137/2014. (IV. 24.) Korm. rendelet |
+| 2016-02-26 | 2004-39-20-22.6 | 33/2016. (II. 25.) Korm. rendelet |

@@ -12,6 +12,8 @@ c) az indokolásban az eljárás alapjául szolgáló kötelességszegés leír�
 
 d) a határozat meghozatalának helyét és időpontját, valamint a határozat kiadmányozójának nevét.
 
-(3) A sportfegyelmi bizottság a versenyzőre és a sportszakemberre szóbeli figyelmeztetés és írásbeli megrovás, a sportszervezetre írásbeli figyelmeztetés sportfegyelmi büntetést tárgyalás tartása nélkül is kiszabhat, ha a tényállás megítélése egyszerű és a kötelezettségszegést az eljárás alá vont elismeri.
+(3)[^16] A sportszövetség sportfegyelmi bizottsága a sportszövetség fegyelmi szabályzatában foglalt rendelkezések szerint tárgyalás tartásának mellőzésével is hozhat sportfegyelmi büntetést tartalmazó határozatot, ha a sportszövetség fegyelmi szabályzata az érintett felek részére lehetővé teszi, hogy térítésmentesen, írásbeli indokolással kérhessék tárgyalás tartását, ha a tárgyalás tartásának mellőzésével hozott határozatban foglaltakkal nem értenek egyet.
 
 (4) Ha az eljárás alá vont a sportfegyelmi büntetés hatálya alatt újabb sportfegyelmi eljárás megindítására alapul szolgáló kötelezettségszegést követ el, ugyanaz a sportfegyelmi büntetés ismételten kiszabható.
+
+[^16]: A 10. § (3) bekezdése a 33/2016. (II. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
