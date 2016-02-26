@@ -18,22 +18,20 @@ c) beruházáslebonyolítója, hivatalos közbeszerzési tanácsadója és épí
 
 legyen;
 
-4.[^4] egyetért azzal, hogy a Program első ütemének megvalósítására a 2013. és 2015. évek között összesen 9600 millió forint összegben kerüljön sor, és felhívja
+4.[^4] egyetért azzal, hogy a Program első ütemének megvalósítására a 2013. és 2017. évek között összesen 15 200,0 millió forint összegben kerüljön sor, és felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy – az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos bevonásával – gondoskodjanak a források ütemezett rendelkezésre állásáról az egyes költségvetési években;
 
-a) az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy – a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos bevonásával – gondoskodjanak a források ütemezett rendelkezésre állásáról az egyes költségvetési években;
-
-Felelős: emberi erőforrások minisztere
+Felelős: nemzeti fejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos
+egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos
 
-Határidő: folyamatos, illetve a 2015. évi központi költségvetés tervezésével összhangban
+Határidő: a felmerülés ütemében, illetve a 2017. évi központi költségvetés tervezése keretében
 
-b)[^5]
+5.[^5] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4a) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a nemzeti fejlesztési miniszter a Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Sportlétesítmények fejlesztése és kezelése alcím, Szombathelyi sportcélú beruházások támogatása (Szombathelyi Haladás Stadion fejlesztésének támogatása) jogcímcsoport terhére a 2017. év tekintetében legfeljebb 5580,5 millió forint összegben kötelezettséget vállaljon;
 
 [^1]: A 2. pont az 1346/2015. (V. 27.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 3. pont a) alpontja az 1346/2015. (V. 27.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: A 3. pont b) alpontját az 1346/2015. (V. 27.) Korm. határozat 3. pontja visszavonta.
-[^4]: A 4. pont nyitó szövegrésze az 1980/2013. (XII. 29.) Korm. határozat 3. pont b) pontja szerint módosított szöveg.
-[^5]: A 4. pont b) alpontját az 1980/2013. (XII. 29.) Korm. rendelet 3. pont b) pontja hatályon kívül helyezte.
+[^4]: A 4. pont az 1071/2016. (II. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: Az 5. pontot az 1071/2016. (II. 25.) Korm. határozat 2. pontja iktatta be.
