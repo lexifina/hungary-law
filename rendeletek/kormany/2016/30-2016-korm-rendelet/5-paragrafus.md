@@ -1,0 +1,1 @@
+## 4. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyek koordinációjára feladat- és hatáskörrel rendelkező kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
