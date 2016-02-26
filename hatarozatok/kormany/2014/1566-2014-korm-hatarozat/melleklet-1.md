@@ -20,7 +20,7 @@
 
 ## Határidő: 2014. október 31.
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Beruházáshoz szükséges előkészítő feladatokhoz és a tervpályázathoz 2014. évben szükséges 36,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, az 1. melléklet szerint;
+## 4.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Beruházáshoz szükséges előkészítő feladatokhoz és a tervpályázathoz 2014. évben szükséges 36,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -32,7 +32,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2015. június 30.
+## Határidő: 2016. június 30.
 
 ## 5. felhívja a nemzetgazdasági minisztert, hogy a Beruházáshoz szükséges előkészítő feladatokhoz és a tervpályázathoz 2015. évben szükséges 300,0 millió forint biztosításához szükséges intézkedéseket tegye meg;
 
@@ -111,3 +111,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont az 1071/2016. (II. 25.) Korm. határozat 22. pontja szerint módosított szöveg.
