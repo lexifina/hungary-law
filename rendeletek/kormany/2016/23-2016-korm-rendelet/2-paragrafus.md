@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad Magyarország Kormánya és a Ghánai Köztársaság Kormánya között létrejövő gazdasági és műszaki együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
