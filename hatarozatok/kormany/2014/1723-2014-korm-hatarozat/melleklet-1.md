@@ -2,15 +2,11 @@
 
 ## a) építtetője a Nemzeti Sportközpontok (a továbbiakban: NSK),
 
-## b)[^1] a dunakeszi iskola beruházás Dunakeszi közigazgatási területén fekvő, – 2952 helyrajzi számú ingatlanból kiszabályozásra kerülő 2,5 hektár nagyságú területen, míg az izsáki iskola beruházás az Izsák közigazgatási területén fekvő 1817, 1818, 1819, 1920 helyrajzi számú ingatlanon valósul meg,
+## b)[^1] a dunakeszi iskola beruházás a Dunakeszi közigazgatási területén fekvő 2952/1 helyrajzi számú ingatlanon, míg az izsáki iskola beruházás az Izsák közigazgatási területén fekvő 1817, 1818, 1819, 1820 helyrajzi számú ingatlanon valósul meg,
 
 ## c) a dunakeszi iskola beruházás 4698 millió forint keretösszegű, míg az izsáki iskola beruházás 4479 millió forint keretösszegű központi költségvetési forrásból valósul meg;
 
-## 2.[^2] felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján tegye meg a szükséges intézkedéseket a Dunakeszi közigazgatási területén fekvő, – 2952 helyrajzi számú ingatlanból kiszabályozásra kerülő 2,5 hektár nagyságú terület NSK vagyonkezelésébe kerülése érdekében;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 2.[^2] felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján tegye meg a szükséges intézkedéseket a Dunakeszi közigazgatási területén fekvő 2952/1 helyrajzi számú terület NSK vagyonkezelésébe kerülése érdekében;
 
 ## 3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében eljárva az ORFK Dunakeszi Oktatási Központ előző pontban részletezett ingatlanon lévő kutyavezető-képzéssel összefüggő funkcióinak kiváltása és áthelyezése érdekében 50,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 7. Rendőrség cím javára az 1. melléklet szerint;
 
@@ -26,7 +22,7 @@
 
 ## Határidő: 2015. június 30.
 
-## 4. az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva a Beruházásokhoz kapcsolódó előkészítő feladatok megvalósításához szükséges 25,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére a 2. melléklet szerint;
+## 4.[^3] az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva a Beruházásokhoz kapcsolódó előkészítő feladatok megvalósításához szükséges 25,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -38,7 +34,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2015. június 30.
+## Határidő: 2016. június 30.
 
 ## 5. felhívja az emberi erőforrások miniszterét, hogy a Nemzeti Sportközpontok közalkalmazotti létszámának kettő státusszal történő – a Beruházások megvalósításáig tartó, határozott idejű – bővítése érdekében tegye meg a szükséges intézkedéseket a központi költségvetés emberi erőforrások minisztere irányítása alá tartozó fejezetben rendelkezésre álló előirányzatból;
 
@@ -58,5 +54,6 @@
 
 1. melléklet az 1723/2014. (XII. 5.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1768/2014. (XII. 18.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^2]: A 2. pont az 1768/2014. (XII. 18.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1071/2016. (II. 25.) Korm. határozat 13. pontjával megállapított szöveg.
+[^2]: A 2. pont az 1071/2016. (II. 25.) Korm. határozat 14. pontjával megállapított szöveg.
+[^3]: A 4. pont az 1071/2016. (II. 25.) Korm. határozat 15. pontja szerint módosított szöveg.

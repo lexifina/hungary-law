@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1723-30
 | --- | --- | --- |
 | 2014-12-05 | 2014-1723-30-22.1 | 1723/2014. (XII. 5.) Korm. határozat |
 | 2014-12-19 | 2014-1723-30-22.2 | 1768/2014. (XII. 18.) Korm. határozat |
+| 2016-02-26 | 2014-1723-30-22.3 | 1071/2016. (II. 25.) Korm. határozat |
