@@ -24,14 +24,15 @@ nemzeti fejlesztési miniszter
 
 Határidő: a Program I. ütemének végrehajtásához, illetve az érintett operatív programok 2015–2016. évi tervezéséhez igazodva
 
-5. egyetért azzal, hogy a Téry Ödön Nemzeti Turistaház-fejlesztési Program keretében megvalósuló infrastruktúra-fejlesztésekről, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1220/2014. (IV. 8.) Korm. határozat 4. pontjában átcsoportosított 150,0 millió forint
+5.[^1] egyetért azzal, hogy a Téry Ödön Nemzeti Turistaház-fejlesztési Program keretében megvalósuló infrastruktúra-fejlesztésekről, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1220/2014. (IV. 8.) Korm. határozat 4. pontjában átcsoportosított 150,0 millió forint
 
-2015. december 31-ig kerüljön felhasználásra és elszámolásra;
+2016. június 30-ig kerüljön felhasználásra és elszámolásra;
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2015. december 31.
+Határidő: 2016. június 30.
 
-6.[^1]
+6.[^2]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont az 1071/2016. (II. 25.) Korm. határozat 23. pontja szerint módosított szöveg.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
