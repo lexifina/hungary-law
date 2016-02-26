@@ -8,9 +8,15 @@
 
 | 3 | Algéria | EUR | 1373 |
 
+| 3a | Angola | EUR | 1453 |
+
 | 4 | Dél-afrikai Köztársaság | EUR | 1181 |
 
 | 5 | Egyiptom | EUR | 1059 |
+
+| 5a | Etiópia | EUR | 1146 |
+
+| 5b | Ghána | EUR | 1108 |
 
 | 6 | Kenya | EUR | 1117 |
 
@@ -44,6 +50,8 @@
 
 | 21 | Ausztrália | EUR | 1293 |
 
+| 21a | Új-Zéland | EUR | 1328 |
+
 | 22 | ÁZSIA |
 
 | 23 | Afganisztán | EUR | 1400 |
@@ -51,6 +59,8 @@
 | 24 | Azerbajdzsán | EUR | 1341 |
 
 | 25 | Egyesült Arab Emirátusok | EUR | 1284 |
+
+| 25a | Fülöp-szigetek | EUR | 1132 |
 
 | 26 | Grúzia | EUR | 1293 |
 
@@ -99,6 +109,8 @@
 | 48 | Thaiföld | EUR | 1091 |
 
 | 49 | Törökország | EUR | 1222 |
+
+| 49a | Üzbegisztán | EUR | 1170 |
 
 | 50 | Vietnam | EUR | 1072 |
 
@@ -186,11 +198,13 @@ A kiegészítő pótlék bruttó havi összege
 
 |  | A | B | C |
 
-| 1 | Ország (állomáshely) | Pénznem | Alapellátmányok bruttó havi összege |
+| 1 | Ország (állomáshely) | Pénznem | A kiegészítő pótlék bruttó havi összege |
 
 | 2 | I. kategória (10%) |
 
 | 3 | Albánia | EUR | 128 |
+
+| 3a | Angola | EUR | 145 |
 
 | 4 | Azerbajdzsán | EUR | 134 |
 
@@ -198,7 +212,13 @@ A kiegészítő pótlék bruttó havi összege
 
 | 6 | Egyiptom | EUR | 106 |
 
+| 6a | Etiópia | EUR | 115 |
+
 | 7 | Fehéroroszország | EUR | 118 |
+
+| 7a | Fülöp-szigetek | EUR | 113 |
+
+| 7b | Ghána | EUR | 111 |
 
 | 8 | Grúzia | EUR | 129 |
 
@@ -234,6 +254,8 @@ A kiegészítő pótlék bruttó havi összege
 
 | 24 | Ukrajna | EUR | 117 |
 
+| 24a | Üzbegisztán | EUR | 117 |
+
 | 25 | Vietnam | EUR | 107 |
 
 | 26 | II. kategória (15%) |
@@ -264,4 +286,4 @@ A kiegészítő pótlék bruttó havi összege
 
 | 39 | Pakisztán | EUR | 225 |
 
-[^4]: A 2. melléklet a 3/2013. (X. 25.) KÜM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. melléklet a 3/2013. (X. 25.) KÜM rendelet 1. § (2) bekezdésével megállapított, az 1/2016. (II. 25.) KKM rendelet 1. § b) pontja szerint módosított szöveg.
