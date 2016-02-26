@@ -10,7 +10,7 @@
 
 ## Határidő: 2014. december 31.
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Beruházáshoz szükséges előkészítő feladatokhoz 2014. évben szükséges 25,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, az 1. melléklet szerint;
+## 4.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Beruházáshoz szükséges előkészítő feladatokhoz 2014. évben szükséges 25,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -22,7 +22,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2015. június 30.
+## Határidő: 2016. június 30.
 
 ## 5. egyetért azzal, hogy a Beruházás előkészítésével kapcsolatos szakmai feladatok ellátását az NSK alkalmazásban álló szakemberek végezzék el, egyúttal felhívja az emberi erőforrások miniszterét, hogy tegye meg a szükséges intézkedéseket az NSK közalkalmazotti létszámának négy státusszal történő bővítésére a központi költségvetés emberi erőforrások minisztere irányítása alá tartozó fejezetben rendelkezésre álló előirányzatból.
 
@@ -95,3 +95,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: A 4. pont az 1071/2016. (II. 25.) Korm. határozat 21. pontja szerint módosított szöveg.
