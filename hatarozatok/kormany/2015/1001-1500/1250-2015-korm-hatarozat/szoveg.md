@@ -27,3 +27,11 @@ Határidő: a 2. pont teljesülését követően azonnal
 4. egyetért azzal, hogy az 1. pontban foglalt beruházások beruházáslebonyolítója, hivatalos közbeszerzési tanácsadója és építési műszaki ellenőre a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt. legyen;
 
 5. egyetért azzal, hogy az 1. pont szerinti ingatlanokon a 2–3. pontban foglalt támogatásból megvalósuló létesítmények elsődleges sportcélú – kiemelten atlétikai célú – fenntartását, üzemeltetését tizenöt évig biztosítani kell.
+
+6.[^1] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 1. pont b) alpontja szerinti beruházáshoz a 2016. költségvetési évben további 90,0 millió forint költségvetési forrás biztosításáról.
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: 2016. május 31.
+
+[^1]: A 6. pontot az 1071/2016. (II. 25.) Korm. határozat 18. pontja iktatta be.
