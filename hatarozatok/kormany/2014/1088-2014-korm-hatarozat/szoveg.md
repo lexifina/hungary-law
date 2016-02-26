@@ -16,20 +16,21 @@ Határidő: folyamatos, a Program lezárásáig
 
 4. egyetért azzal, hogy a Program megvalósításához szükséges, Pécs közigazgatási területén fekvő, 23998/2 és 23998/5 helyrajzi számú ingatlanok a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
-5. egyetért azzal, hogy a Program megvalósítására a 2014. és 2015. évek között összesen 1900,0 millió forint összegben kerüljön sor, és felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy – a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos bevonásával – gondoskodjanak a források ütemezett rendelkezésre állásáról az egyes költségvetési években;
+5.[^1] egyetért azzal, hogy a Program megvalósítására a 2014. és 2017. évek között összesen 2200,0 millió forint összegben kerüljön sor, és felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak a források ütemezett rendelkezésre állásáról az egyes költségvetési években;
 
-Felelős: emberi erőforrások minisztere
+Felelős: nemzetgazdasági miniszter
 
-nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
 
-a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos
-
-Határidő: folyamatos, illetve 2015. évi központi költségvetési tervezésével összhangban
+Határidő: a 2016. évben a felmerülés ütemében, illetve a 2017. évi központi költségvetés tervezése keretében
 
 6. jóváhagyja, hogy az 5. pont szerint biztosított előirányzat terhére megvalósuló, a Nemzeti Sportközpontok által lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni;
 
-7. felhívja a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztost, hogy dolgozza ki az Akadémia üzemeltetési koncepcióját.
+7.[^2] felhívja a nemzeti fejlesztési minisztert, hogy dolgozza ki az Akadémia üzemeltetési koncepcióját.
 
-Felelős: a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos
+Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2014. május 31.
+Határidő: 2016. május 31.
+
+[^1]: Az 5. pont az 1071/2016. (II. 25.) Korm. határozat 10. pontjával megállapított szöveg.
+[^2]: A 7. pont az 1071/2016. (II. 25.) Korm. határozat 11. pontjával megállapított szöveg.
