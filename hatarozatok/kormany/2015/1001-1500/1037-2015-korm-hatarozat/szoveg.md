@@ -22,23 +22,23 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-6.[^1] egyetért azzal, hogy a Program és a 3. pont szerinti beruházás megvalósítására összesen 8000 millió forint összegben kerüljön sor és felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy az 1. pont a) és b) alpontja, illetve a 3. pont szerinti beruházások megvalósításának ütemezéséhez igazodva gondoskodjon
+6.[^1] egyetért azzal, hogy a Program és a 3. pont szerinti beruházás megvalósítására összesen 10 915 millió forint összegben kerüljön sor és felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy az 1. pont a) és b) alpontja, illetve a 3. pont szerinti beruházások megvalósításának ütemezéséhez igazodva gondoskodjon
 
-a) a 2016. évben 2700,0 millió forint,
+a) a 2016. évben 2646,0 millió forint ütemezett rendelkezésre állásáról, azzal, hogy ezen forrásból 900 millió forint az MVSC pálya felújítására, a Nemzeti Sportközpontok mint építtető részére támogatási szerződés megkötése érdekében kerüljön biztosításra,
 
-b) a 2017. évben 800,0 millió forint
-
-forrás ütemezett rendelkezésre állásáról az egyes költségvetési években;
+b) a 2017. évben 3769,0 millió forint forrás ütemezett rendelkezésre állásáról;
 
 Felelős: nemzeti fejlesztési miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: az a) alpont tekintetében a 2016. évi központi költségvetés tervezésével összhangban,
+egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos
 
-a b) alpont tekintetében a 2017. évi központi költségvetés tervezésével összhangban
+Határidő: az a) alpont tekintetében azonnal,
 
-7.[^2]
+a b) alpont tekintetében a 2017. évi központi költségvetés tervezése keretében
 
-[^1]: A 6. pont az 1298/2015. (V. 13.) Korm. határozat 15. pontjával megállapított szöveg.
-[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+7.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4a) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a nemzeti fejlesztési miniszter a Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Sportlétesítmények fejlesztése és kezelése alcím, Diósgyőri Stadionfejlesztésének támogatása jogcímcsoport terhére a 2016–2017. évek tekintetében összesen legfeljebb 5495,7 millió forint összegben kötelezettséget vállaljon, azzal, hogy a 2016. évi költségvetési kiadási előirányzat terhére vállalt kötelezettségvállalás mértéke nem haladhatja meg az előirányzatnak a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvényben meghatározott összegét.
+
+[^1]: A 6. pont az 1071/2016. (II. 25.) Korm. határozat 16. pontjával megállapított szöveg.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1071/2016. (II. 25.) Korm. határozat 17. pontja iktatta be.
