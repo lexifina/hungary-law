@@ -1,0 +1,1 @@
+A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (4) bekezdésében, valamint a munka törvénykönyvéről szóló 2012. évi I. törvény 298. § (6) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 85. § 3. pontjában meghatározott feladatkörömben eljárva következőket rendelem el:
