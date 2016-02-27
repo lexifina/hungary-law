@@ -1,1 +1,3 @@
-5. § Hatályát veszti a Magyar Köztársaság Kormánya és a Laoszi Népi Demokratikus Köztársaság Kormánya között pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás kihirdetéséről szóló 115/2009. (VI. 3.) Korm. rendelet.
+5. §[^3]
+
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
