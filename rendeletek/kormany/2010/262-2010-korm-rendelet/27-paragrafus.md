@@ -1,3 +1,3 @@
-## Az elővásárlási jog gyakorlása[^65]
+## Az elővásárlási jog gyakorlása[^66]
 
-[^65]: A 27. §-t megelőző alcím a 161/2011. (VIII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^66]: A 27. §-t megelőző alcím a 161/2011. (VIII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.

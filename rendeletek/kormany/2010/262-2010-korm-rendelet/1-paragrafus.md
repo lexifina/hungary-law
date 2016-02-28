@@ -22,7 +22,9 @@ g)[^7]
 
 h) versenyeztetés: nyilvános pályázati eljárás vagy nyilvános árverés;
 
-i) vízvédelmi terület: a nagyvízi meder, valamint a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló 123/1997. (VII. 18.) Korm. rendeletben meghatározott védőterület és védősáv.
+i) vízvédelmi terület: a nagyvízi meder, valamint a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló 123/1997. (VII. 18.) Korm. rendeletben meghatározott védőterület és védősáv;
+
+j)[^8] halastó: az ingatlan-nyilvántartásban halastóként nyilvántartott terület, ide értve a halgazdálkodási tevékenységet szolgáló, az Nfatv. 1. § (1) bekezdés c) pontja szerinti területeket is (így különösen: a vízi létesítményt, amelyet a vízügyi hatóság engedélyével haltenyésztésre használnak, a teleltető és ivadéknevelő tavakat, valamint ezek tartozékaiként a védtöltés, a táp- és lecsapoló csatorna és a kiszolgáló épületek által elfoglalt területet is).
 
 [^1]: Az 1. § (1) bekezdése a 153/2013. (V. 24.) Korm. rendelet 1. §-ával megállapított, a 91/2014. (III. 20.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés a) pontja a 161/2011. (VIII. 18.) Korm. rendelet 17. §-a, a 91/2014. (III. 20.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
@@ -31,3 +33,4 @@ i) vízvédelmi terület: a nagyvízi meder, valamint a vízbázisok, a távlati
 [^5]: Az 1. § (2) bekezdés d) pontját a 161/2011. (VIII. 18.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
 [^6]: Az 1. § (2) bekezdés e) pontja a 91/2014. (III. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (2) bekezdés g) pontját a 91/2014. (III. 20.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (2) bekezdés j) pontját a 29/2016. (II. 25.) Korm. rendelet 1. §-a iktatta be.

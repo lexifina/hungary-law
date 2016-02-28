@@ -1,4 +1,4 @@
-32/C. §[^86] (1) Az árverésről készített jegyzőkönyv (a továbbiakban: árverési jegyzőkönyv) tartalmazza:
+32/C. §[^89] (1) Az árverésről készített jegyzőkönyv (a továbbiakban: árverési jegyzőkönyv) tartalmazza:
 
 a) az NFA megnevezését, címét, telefonszámát, számlájának számát, és a részéről eljáró nevét,
 
@@ -28,9 +28,9 @@ i) a jelenlevők kérelmét és észrevételét, az észrevételekre adott vála
 
 j) a jogszabályban meghatározott egyéb adatokat és körülményeket.
 
-(2)[^87] Az árverési jegyzőkönyvet az árverésvezető és az árverési vevő aláírásával látja el. A közjegyző az árverésről tanúsítványt állít ki, amely a jegyzőkönyv elválaszthatatlan részét képezi. A jegyzőkönyv és mellékletei eredeti példányát az NFA köteles megőrizni, a kormányhivatal és a nyertes árverező a jegyzőkönyvről másolati példányt kap. További másolatokat az árverés kapcsán keletkezett iratokról nem lehet kiállítani.
+(2)[^90] Az árverési jegyzőkönyvet az árverésvezető és az árverési vevő aláírásával látja el. A közjegyző az árverésről tanúsítványt állít ki, amely a jegyzőkönyv elválaszthatatlan részét képezi. A jegyzőkönyv és mellékletei eredeti példányát az NFA köteles megőrizni, a kormányhivatal és a nyertes árverező a jegyzőkönyvről másolati példányt kap. További másolatokat az árverés kapcsán keletkezett iratokról nem lehet kiállítani.
 
 (3) A licitálók személyes adatait az (1) bekezdés f) pontja szerint tartalmazó mellékletet az NFA köteles az árverésre bocsátott földrészlet tulajdonjogának ingatlan-nyilvántartási bejegyzéséig megőrizni és az arról történt tudomásszerzést követően haladéktalanul megsemmisíteni. A licitálók személyes adatait az NFA köteles zártan kezelni, azokat kizárólag a soron következő legmagasabb ajánlatot tevő licitáló személyének megállapítása érdekében használhatja fel.
 
-[^86]: A 32/C. §-t a 285/2015. (X. 5.) Korm. rendelet 10. §-a iktatta be.
-[^87]: A 32/C. § (2) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^89]: A 32/C. §-t a 285/2015. (X. 5.) Korm. rendelet 10. §-a iktatta be.
+[^90]: A 32/C. § (2) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 3. §-ával megállapított szöveg.

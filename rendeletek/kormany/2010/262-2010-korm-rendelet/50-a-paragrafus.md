@@ -1,6 +1,6 @@
 ## 50. § Ha a tulajdonosi ellenőrzés eredményeként az NFA megállapítja a földrészlet adatainak változását, a hatósági nyilvántartásokkal összefüggő eljárást kezdeményez, illetve a Nemzeti Földalap vagyonnyilvántartásában a változás átvezetéséről intézkedik.
 
-50/A. §[^123] (1)[^124] A használót – a Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése és az NFA beszámoló-készítési kötelezettségének megalapozottsága érdekében – e rendelet,, valamint a szerződés szerinti adatszolgáltatási kötelezettség terheli a szerződés tartama alatt.
+50/A. §[^126] (1)[^127] A használót – a Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése és az NFA beszámoló-készítési kötelezettségének megalapozottsága érdekében – e rendelet,, valamint a szerződés szerinti adatszolgáltatási kötelezettség terheli a szerződés tartama alatt.
 
 (2) A használó e rendelet szerinti adatszolgáltatási kötelezettsége az NFA felé akkor is fennáll, ha az NFA-val vagy az NFA jogelődjével kötött szerződés az adatszolgáltatási kötelezettségről nem rendelkezik.
 
@@ -10,7 +10,7 @@ a) a földrészlet az állam tulajdonából vagy a Nemzeti Földalapból bármel
 
 b) a földrészlet művelési ágát megváltoztatatja;
 
-c)[^125] a földrészletnek a Tfvt. szerinti más célú hasznosítását megkezdi, valamint megvalósítja, illetve megszünteti;
+c)[^128] a földrészletnek a Tfvt. szerinti más célú hasznosítását megkezdi, valamint megvalósítja, illetve megszünteti;
 
 d) a földrészleten a rendes gazdálkodás körét meghaladó beruházást valósít meg;
 
@@ -42,6 +42,6 @@ e) az (5) bekezdés a) pontjában meghatározott esetben a forgalmi értékbecsl
 
 f) az (5) bekezdés b) pontjában meghatározott esetben a szerződés létrejöttét, vagy megszűnését
 
-[^123]: Az 50/A. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
-[^124]: Az 50/A. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
-[^125]: Az 50/A. § (3) bekezdés c) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § r) pontja szerint módosított szöveg.
+[^126]: Az 50/A. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
+[^127]: Az 50/A. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^128]: Az 50/A. § (3) bekezdés c) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § r) pontja szerint módosított szöveg.

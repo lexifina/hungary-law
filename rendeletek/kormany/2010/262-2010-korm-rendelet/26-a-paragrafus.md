@@ -1,4 +1,4 @@
-26/A. §[^62] (1)[^63] Ha a pályázati felhívás tárgyát a 26. § (1a) bekezdésében meghatározott birtoktest képezi, a 18. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pályázatok közül az összességében legkedvezőbb ajánlatokat kínáló, megalapozott és érvényes pályázat (a továbbiakban: legjobb pályázat) mellett olyan pályázat is nyertessé nyilvánítható, amely a legjobb pályázathoz képest legfeljebb 10%-kal alacsonyabb pontszámot ér el.
+26/A. §[^63] (1)[^64] Ha a pályázati felhívás tárgyát a 26. § (1a) bekezdésében meghatározott birtoktest képezi, a 18. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pályázatok közül az összességében legkedvezőbb ajánlatokat kínáló, megalapozott és érvényes pályázat (a továbbiakban: legjobb pályázat) mellett olyan pályázat is nyertessé nyilvánítható, amely a legjobb pályázathoz képest legfeljebb 10%-kal alacsonyabb pontszámot ér el.
 
 (2) Az (1) bekezdés esetén a nyertessé nyilvánítható pályázatok száma az alábbiak szerint alakul:
 
@@ -18,5 +18,5 @@ d) 250 hektárt meghaladó térmértékű birtoktest esetén a legjobb pályáza
 
 (6) E § alkalmazására akkor kerülhet sor, ha a legjobb pályázat mellett az alacsonyabb pontszámú pályázat vagy pályázatok figyelembevétele az Nfatv. szerinti földbirtok-politikai irányelvek célkitűzéseinek hatékonyabb érvényesülése érdekében indokolt. A földbirtok-politikai irányelvek célkitűzéseinek hatékonyabb érvényesülése érdekében a döntéshozatali eljárás értékelési szakaszában vizsgálandó szempontokat és körülményeket az NFA elnöke az agrárpolitikáért felelős miniszter által jóváhagyott utasításban határozza meg.
 
-[^62]: A 26/A. §-t a 306/2013. (VIII. 1.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2)–(4) bekezdését.
-[^63]: A 26/A. § (1) bekezdése a 320/2013. (VIII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^63]: A 26/A. §-t a 306/2013. (VIII. 1.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2)–(4) bekezdését.
+[^64]: A 26/A. § (1) bekezdése a 320/2013. (VIII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

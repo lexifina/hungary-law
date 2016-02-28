@@ -1,8 +1,8 @@
-32. §[^79] (1) Árverést megyei jogú városban lehet tartani. Az árverést az NFA részéről eljáró személy és közjegyző jelenlétében a kormányhivatal részéről eljáró személy (a továbbiakban: árverezésvezető) bonyolítja le. A közjegyző árverésen történő közreműködéséért járó díjat a kormányhivatal viseli.
+32. §[^81] (1) Árverést megyei jogú városban lehet tartani. Az árverést az NFA részéről eljáró személy és közjegyző jelenlétében a kormányhivatal részéről eljáró személy (a továbbiakban: árverezésvezető) bonyolítja le. A közjegyző árverésen történő közreműködéséért járó díjat a kormányhivatal viseli.
 
 (2) Az árverésről az árverezésvezető – a licitálás során kialakult végső sorrendet is tartalmazó – jegyzőkönyvet készít.
 
-(3)[^80] A jegyzőkönyv személyes adatokat tartalmazó mellékletét kizárólag az NFA kezeli.
+(3)[^82] A jegyzőkönyv személyes adatokat tartalmazó mellékletét kizárólag az NFA kezeli.
 
 (4) Árverésen részt venni és vételi ajánlatot tenni személyesen vagy meghatalmazott jogi képviselő útján lehet. Az árverésen árverezőként történő személyes részvétel esetén a jogi képviselet kötelező. A jogi képviselőre a polgári perrendtartásról szóló törvény szerinti jogi képviseletre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -28,7 +28,7 @@ da) a lakóhely tekintetében a jegyző által kiállított, az életvitelszerű
 
 db) a mezőgazdasági üzemközpont tekintetében a földművesek, a mezőgazdasági termelőszervezetek és a mezőgazdasági üzemközpontok nyilvántartása alapján kiállított igazolással
 
-e)[^81] a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti legfeljebb 20 km-es távolságot a föld fekvése szerint illetékes mezőgazdasági igazgatási szervi hatáskörében eljáró kormányhivatal által kiállított igazolással
+e)[^83] a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti legfeljebb 20 km-es távolságot a föld fekvése szerint illetékes mezőgazdasági igazgatási szervi hatáskörében eljáró kormányhivatal által kiállított igazolással
 
 igazolja.
 
@@ -36,7 +36,7 @@ igazolja.
 
 (8) A (6) bekezdés c) és d) pontjában meghatározott okiratok csak eredetiben, vagy közjegyző által hitelesített másolatban fogadhatóak el.
 
-(8a)[^82] A (8) bekezdés szerint átadott okiratokat az árverést követően az árverező kérésére vissza kell adni. A visszaadott okiratról a kormányhivatal másolatot készít. Az okiratokat, illetve az azokról készített másolatokat a jegyzőkönyvhöz kell mellékelni.
+(8a)[^84] A (8) bekezdés szerint átadott okiratokat az árverést követően az árverező kérésére vissza kell adni. A visszaadott okiratról a kormányhivatal másolatot készít. Az okiratokat, illetve az azokról készített másolatokat a jegyzőkönyvhöz kell mellékelni.
 
 (9) Az árverésen az árverést lebonyolító kormányhivatal és az NFA részéről eljáró személyek, a közjegyző és a járási hivatalvezető, valamint a (6) bekezdés szerinti árverezők vesznek részt.
 
@@ -46,14 +46,17 @@ igazolja.
 
 (12) Az árverések során alkalmazandó licitküszöb összege 5 millió forintot nem meghaladó kikiáltási ár esetén 50 000 forint, 5 millió forintot meghaladó kikiáltási ár esetén 100 000 forint, 10 millió forintot meghaladó kikiáltási ár esetén 200 000 forint, 50 millió forintot meghaladó kikiáltási ár esetén 500 000 forint. A licitküszöböktől az árverezők nem térhetnek el.
 
+(12a)[^85] A (12) bekezdésben alkalmazott licitküszöbökkel történő licitálásra az árverésen egyedül résztvevő licitálónak is biztosítani kell a lehetőséget.
+
 (13) Az a vételi ajánlat érvényes, amelynek összege – a licitküszöb összegével – meghaladja az előzőleg tett érvényes vételi ajánlat összegét.
 
-(13a)[^83] Ha az azonos licitösszeggel vételi ajánlatot tevő árverezők közül nem lehet megállapítani a sorrendet (egyidejű licit), és nem tesznek magasabb összegű érvényes vételi ajánlatot, akkor annak az árverezőnek az ajánlatát kell elfogadni, aki az árverés során az egyidejű licitet megelőzően a legmagasabb összegű ajánlatot tette. Ennek hiányában az árverést eredménytelennek kell tekinteni.
+(13a)[^86] Ha az azonos licitösszeggel vételi ajánlatot tevő árverezők közül nem lehet megállapítani a sorrendet (egyidejű licit), és nem tesznek magasabb összegű érvényes vételi ajánlatot, akkor annak az árverezőnek az ajánlatát kell elfogadni, aki az árverés során az egyidejű licitet megelőzően a legmagasabb összegű ajánlatot tette. Ennek hiányában az árverést eredménytelennek kell tekinteni.
 
 (14) Az árverező a vételi ajánlatát nem vonhatja vissza.
 
-[^79]: A 32. § a 285/2015. (X. 5.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^80]: A 32. § (3) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^81]: A 32. § (6) bekezdés e) pontját a 325/2015. (XI. 10.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^82]: A 32. § (8a) bekezdését a 325/2015. (XI. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^83]: A 32. § (13a) bekezdését a 325/2015. (XI. 10.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^81]: A 32. § a 285/2015. (X. 5.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^82]: A 32. § (3) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^83]: A 32. § (6) bekezdés e) pontját a 325/2015. (XI. 10.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^84]: A 32. § (8a) bekezdését a 325/2015. (XI. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^85]: A 32. § (12a) bekezdését a 29/2016. (II. 25.) Korm. rendelet 3. §-a iktatta be.
+[^86]: A 32. § (13a) bekezdését a 325/2015. (XI. 10.) Korm. rendelet 2. § (3) bekezdése iktatta be.
