@@ -1,0 +1,1 @@
+## 4. § A 2. és 3. mellékletben szabályozott szakokon szerezhető szakképzettségek a Magyar Képesítési Keretrendszer (a továbbiakban: MKKR) szintjeire besorolt képesítések, megfeleltetve az Európai Képesítési Keretrendszer (a továbbiakban: EKKR) szintjeivel. A besorolást a 2. és a 3. melléklet tartalmazza.
