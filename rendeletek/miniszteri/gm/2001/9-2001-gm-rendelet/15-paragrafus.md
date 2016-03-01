@@ -1,5 +1,5 @@
-## 14. §[^23] A rendeletben szereplő, nemzetközi együttműködést igénylő tevékenységek részletes szabályait külön jogszabály állapítja meg.
+## 14. §[^24] A rendeletben szereplő, nemzetközi együttműködést igénylő tevékenységek részletes szabályait külön jogszabály állapítja meg.
 
 ## Szankciók
 
-[^23]: A 14. § a 4/2002. (VI. 21.) GKM rendelet 10. §-ával megállapított szöveg.
+[^24]: A 14. § a 4/2002. (VI. 21.) GKM rendelet 10. §-ával megállapított szöveg.

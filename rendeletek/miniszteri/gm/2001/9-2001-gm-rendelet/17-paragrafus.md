@@ -1,6 +1,6 @@
 ## A nyomástartó berendezések besorolása
 
-17. §[^25] (1) A 16. § (1) bekezdésében meghatározott nyomástartó berendezéseket a 7. számú melléklet szerint – a növekvő veszélyszintnek megfelelően – kategóriákba kell sorolni.
+17. §[^26] (1) A 16. § (1) bekezdésében meghatározott nyomástartó berendezéseket a 7. számú melléklet szerint – a növekvő veszélyszintnek megfelelően – kategóriákba kell sorolni.
 
 (2) A tölteteket a (3) bekezdés szerinti 1. csoportba vagy a (4) bekezdés szerinti 2. csoportba kell sorolni.
 
@@ -48,4 +48,4 @@ b) a nyomástartó berendezésekben található olyan anyag vagy keverék, amely
 
 (5) Ha az edény több nyomással igénybe vett térből áll, az edényt az egyes terekhez rendelt kategóriák közül a legnagyobb sorszámúba kell sorolni. Ha egy tér többféle töltetet tartalmaz, a besorolás alapja az a töltet, amelyhez a legnagyobb sorszámú kategória tartozik.
 
-[^25]: A 17. § a 15/2015. (V. 22.) NGM rendelet 1. §-ával megállapított szöveg.
+[^26]: A 17. § a 15/2015. (V. 22.) NGM rendelet 1. §-ával megállapított szöveg.

@@ -1,3 +1,5 @@
-## 20. § Ha a külön jogszabályban meghatározott hatóság úgy ítéli meg, hogy a 8. § (3) bekezdésben hivatkozott szabványok nem felelnek meg teljes mértékben a 16. §-ban hivatkozott követelményeknek, akkor e hatóság a 14. § (1) bekezdés szerinti jogszabálynak megfelelően köteles megindokolva, az illetékes szakbizottság elé terjeszteni az ügyet.
+## 20. §[^28] A piacfelügyeleti hatóság a harmonizált szabványokkal szembeni kifogásokról az 1025/2012/EU európai parlamenti és tanácsi rendelet 11. cikke alapján értesíteni köteles az Európai Bizottságot.
 
 ## Nyomástartó berendezés szakbizottság
+
+[^28]: A 20. § a 7/2016. (II. 22.) NGM rendelet 1. §-ával megállapított szöveg.

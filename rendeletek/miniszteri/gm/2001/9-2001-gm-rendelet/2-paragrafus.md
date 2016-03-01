@@ -1,8 +1,8 @@
-## 1. §[^1] E rendelet hatálya kiterjed olyan nyomástartó berendezés és rendszer, valamint az egyszerű nyomástartó edény[^2] tervezésére, gyártására, megfelelőségének értékelésére, amelyben a legnagyobb megengedhető nyomás (PS) 0,5 bart meghaladja, valamint az ezeket tervező, gyártó, forgalmazó és importáló természetes személyre, jogi személyre és jogi személyiség nélküli gazdasági társaságra.
+## 1. §[^2] E rendelet hatálya kiterjed olyan nyomástartó berendezés és rendszer, valamint az egyszerű nyomástartó edény[^3] tervezésére, gyártására, megfelelőségének értékelésére, amelyben a legnagyobb megengedhető nyomás (PS) 0,5 bart meghaladja, valamint az ezeket tervező, gyártó, forgalmazó és importáló természetes személyre, jogi személyre és jogi személyiség nélküli gazdasági társaságra.
 
 2. § (1) A III. fejezet rendelkezik a nyomástartó berendezések és a nyomástartó rendszerek tervezéséről, gyártásáról és megfelelőség-értékeléséről.
 
-(2)[^3] Nem vonatkoznak a III. fejezet rendelkezései
+(2)[^4] Nem vonatkoznak a III. fejezet rendelkezései
 
 a) a létesítményhez csatlakozó – töltet vagy egyéb anyag szállítására tervezett – távvezetékre, a létesítmény határain belül lévő utolsó zárószerelvénytől számítva. Ez a kivétel nem vonatkozik az olyan szabványos nyomástartó berendezésre, amely például nyomáscsökkentő vagy kompresszor állomásokon található;
 
@@ -62,6 +62,6 @@ t) a melegvíz fűtőrendszerhez tartozó fűtőtestre és csővezetékre;
 
 u) a folyadék töltetű edényre, ha gázterének nyomása legfeljebb 0,5 bar.
 
-[^1]: Az 1. § a 4/2002. (VI. 21.) GKM rendelet 1. §-ával megállapított szöveg.
-[^2]: A rendeletben az „egyszerű edény” kifejezést a 4/2002. (VI. 21.) GKM rendelet 15. § a) pontja „egyszerű nyomástartó edény” kifejezésre változtatta.
-[^3]: A 2. § (2) bekezdése a 4/2002. (VI. 21.) GKM rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § a 4/2002. (VI. 21.) GKM rendelet 1. §-ával megállapított szöveg.
+[^3]: A rendeletben az „egyszerű edény” kifejezést a 4/2002. (VI. 21.) GKM rendelet 15. § a) pontja „egyszerű nyomástartó edény” kifejezésre változtatta.
+[^4]: A 2. § (2) bekezdése a 4/2002. (VI. 21.) GKM rendelet 2. §-ával megállapított szöveg.

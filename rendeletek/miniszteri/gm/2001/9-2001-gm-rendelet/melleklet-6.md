@@ -22,6 +22,6 @@
 
 ## – a gyártó vagy az Európai Közösségben letelepedett meghatalmazott képviselője nevében a nyilatkozatok aláírására jogosultak aláírásainak azonosítása, hitelesítése.
 
-6. számú melléklet a 9/2001. (IV. 5.) GM rendelethez[^42]
+6. számú melléklet a 9/2001. (IV. 5.) GM rendelethez[^44]
 
-[^42]: A 6. számú melléklet a 48/2002. (XII. 28.) GKM rendelet 6. §-a szerint módosított szöveg.
+[^44]: A 6. számú melléklet a 48/2002. (XII. 28.) GKM rendelet 6. §-a szerint módosított szöveg.

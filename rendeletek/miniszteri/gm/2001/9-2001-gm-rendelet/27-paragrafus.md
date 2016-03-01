@@ -1,4 +1,4 @@
-27. § (1)[^32] Ha a gyártó a 25. § szerinti eljárást követi, akkor az EK-típustanúsítványt vagy a terv megfelelőség igazolást kiállító bejelentett szervezet részére a gyártás megkezdése előtt olyan dokumentációt köteles átadni, amely tartalmazza a gyártási eljárást, valamint minden előzetesen meghatározott intézkedést, amely szükséges ahhoz, hogy az edények a 8. § (3) bekezdése szerinti szabványoknak vagy a jóváhagyott típusnak megfeleljenek.
+27. § (1)[^34] Ha a gyártó a 25. § szerinti eljárást követi, akkor az EK-típustanúsítványt vagy a terv megfelelőség igazolást kiállító bejelentett szervezet részére a gyártás megkezdése előtt olyan dokumentációt köteles átadni, amely tartalmazza a gyártási eljárást, valamint minden előzetesen meghatározott intézkedést, amely szükséges ahhoz, hogy az edények a 8. § (3) bekezdése szerinti szabványoknak vagy a jóváhagyott típusnak megfeleljenek.
 
 E dokumentáció tartalmazza:
 
@@ -22,4 +22,4 @@ c) adott esetben az EK-típustanúsítványt vagy a megfelelőségi tanúsítvá
 
 d) az elvégzett vizsgálatokról és tesztekről készült jegyzőkönyvet.
 
-[^32]: A 27. § (1) bekezdése a 4/2002 (VI. 21.) GKM rendelet 15. § d) pontja szerint módosított szöveg.
+[^34]: A 27. § (1) bekezdése a 4/2002 (VI. 21.) GKM rendelet 15. § d) pontja szerint módosított szöveg.

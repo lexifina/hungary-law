@@ -184,7 +184,7 @@ Az egyszerű nyomástartó edényen vagy az adattáblán legalább a következő
 
 Ha adattáblát használnak, az kialakításánál fogva ne legyen újra felhasználható. Az adattáblán helyet kell hagyni további adatoknak.
 
-2.[^47] Üzemeltetési útmutató
+2.[^49] Üzemeltetési útmutató
 
 Az üzemeltetési útmutatóban a következő adatok szerepeljenek:
 
@@ -294,4 +294,4 @@ _______
 
 * A felső folyáshatár olyan anyagra, amelynek van alsó és felső folyáshatára.
 
-[^47]: A 10. számú melléklet 2. pontja a 25/2012. (VIII. 23.) NGM rendelet 4. §–a szerint módosított szöveg.
+[^49]: A 10. számú melléklet 2. pontja a 25/2012. (VIII. 23.) NGM rendelet 4. §–a szerint módosított szöveg.

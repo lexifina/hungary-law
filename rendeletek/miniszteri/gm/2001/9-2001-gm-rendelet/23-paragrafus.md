@@ -1,4 +1,4 @@
-## Megfelelőség-értékelés[^27]
+## Megfelelőség-értékelés[^29]
 
 23. § (1) Az olyan egyszerű nyomástartó edények gyártása előtt, amelyeknek a PS x V szorzata nagyobb, mint 50 bar x liter,
 
@@ -22,4 +22,4 @@ bb) a 25. § szerinti EK-ellenőrzés.
 
 (3) Az (1) és (2) bekezdés eljárásainak jegyzőkönyveit és levelezését el kell fogadni, ha annak a Tagállamnak a hivatalos nyelvén készült, amelyben a bejelentett szervezet működik, vagy amely nyelvet e szervezet elfogad.
 
-[^27]: A 23. §-t megelőző cím a 4/2002. (VI. 21.) GKM rendelet 12. §-ával megállapított szöveg.
+[^29]: A 23. §-t megelőző cím a 4/2002. (VI. 21.) GKM rendelet 12. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Fogalommeghatározások
 
-## 4. §[^5] E rendelet alkalmazásában:
+## 4. §[^6] E rendelet alkalmazásában:
 
 1. Nyomástartó berendezés: az edény, a csővezeték, a biztonsági szerelvény és a nyomással igénybe vett tartozék. A nyomástartó berendezéshez tartoznak a nyomással igénybe vett részekhez közvetlenül kapcsolódó elemek (pl. karimák, csonkok, csatlakozó elemek, alátámasztások, emelőfülek).
 
@@ -54,16 +54,16 @@ d) Nyomástartó tartozék: üzemeltetési feladattal és nyomástartó házzal 
 
 14. Megfelelőség-értékelés: a 23. §-ban és a 8. számú mellékletben rögzített eljárásokat jelenti.
 
-15.[^6] Bejelentett szervezet: a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: kijelölő) által, jogszabály alapján kijelölt és a 10. § (3) bekezdés szerint bejelentett szervezet, amely kielégíti az 1. és 2. számú mellékletben foglalt feltételeket.
+15.[^7] Bejelentett szervezet: a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: kijelölő) által, jogszabály alapján kijelölt és a 10. § (3) bekezdés szerint bejelentett szervezet, amely kielégíti az 1. és 2. számú mellékletben foglalt feltételeket.
 
-16.[^7] Elismert harmadik félként működő szervezet: a kijelölő által, jogszabály alapján kijelölt és a 10. § (4) bekezdés szerint bejelentett szervezet, amely kielégíti az 1. és 2. számú mellékletben foglalt feltételeket.
+16.[^8] Elismert harmadik félként működő szervezet: a kijelölő által, jogszabály alapján kijelölt és a 10. § (4) bekezdés szerint bejelentett szervezet, amely kielégíti az 1. és 2. számú mellékletben foglalt feltételeket.
 
-17.[^8] Üzemeltetői ellenőrző szervezet: a kijelölő által, jogszabály alapján kijelölt és a 11. § szerint bejelentett szervezet, amely kielégíti az 1. és 3. számú mellékletben foglalt feltételeket.
+17.[^9] Üzemeltetői ellenőrző szervezet: a kijelölő által, jogszabály alapján kijelölt és a 11. § szerint bejelentett szervezet, amely kielégíti az 1. és 3. számú mellékletben foglalt feltételeket.
 
-18.[^9]
+18.[^10]
 
-[^5]: A 4. § a 4/2002. (VI. 21.) GKM rendelet 4. §-ával megállapított szöveg.
-[^6]: A 4. § 15. pontja a 10/2012. (V. 18.) NGM rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^7]: A 4. § 16. pontja a 10/2012. (V. 18.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^8]: A 4. § 17. pontja a 10/2012. (V. 18.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^9]: A 4. § 18. pontját a 48/2002. (XII. 28.) GKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 15/2015. (V. 22.) NGM rendelet 3. §-a.
+[^6]: A 4. § a 4/2002. (VI. 21.) GKM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 4. § 15. pontja a 10/2012. (V. 18.) NGM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 4. § 16. pontja a 10/2012. (V. 18.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 4. § 17. pontja a 10/2012. (V. 18.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^10]: A 4. § 18. pontját a 48/2002. (XII. 28.) GKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 15/2015. (V. 22.) NGM rendelet 3. §-a.
