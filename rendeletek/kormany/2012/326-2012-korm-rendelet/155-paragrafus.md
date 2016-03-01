@@ -1,17 +1,17 @@
-## 60. Kutatás-fejlesztési és innovációs támogatások
+## 154. §
 
-## 155. § Kutatás-fejlesztési és innovációs támogatás a következő kategóriák szerint nyújtható:
+## 60. [^147] A kis- és középvállalkozásoknak nyújtott innovációs támogatás
 
-a) K+F projekttámogatás,
+155. § (1) A kis- és középvállalkozásoknak nyújtott innovációs támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében elszámolható
 
-b) műszaki megvalósíthatósági tanulmányokhoz nyújtott támogatás,
+a) a szabadalmak és egyéb immateriális javak megszerzésének, érvényesítésének és védelmének költsége,
 
-c) mezőgazdasági és halászati ágazatban nyújtott kutatási és fejlesztési támogatás,
+b) olyan, kutatási és tudásközvetítő szervezettől vagy nagyvállalkozástól kirendelt, magasan képzett munkaerő költsége, aki kutatás-fejlesztési és innovációs tevékenységen, a kedvezményezettnél újonnan létrehozott, nem helyettesítő munkakörben dolgozik,
 
-d) fiatal innovatív vállalkozások részére nyújtott támogatás,
+c) innovációs tanácsadás és innovációs támogató szolgáltatás költsége.
 
-e) innovációs tanácsadási szolgáltatásokhoz és az innovációs támogató szolgáltatásokhoz nyújtott támogatás,
+(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
-f) magasan képzett munkaerő kölcsönzéséhez nyújtott támogatás,
+(3) Az (1) bekezdés c) pontja szerinti esetben a támogatási intenzitás az elszámolható költségek 100%-áig növelhető, ha a támogatás összege nem haladja meg három év alatt a 200 000 eurót.
 
-g) kis- és középvállalkozások részére szabadalmak, iparjogvédelmi jogok megszerzéséhez és érvényesítéséhez nyújtott támogatás.
+[^147]: A 60. alcím (155. §) a 35/2016. (II. 29.) Korm. rendelet 43. §-ával megállapított szöveg.

@@ -1,16 +1,14 @@
-## 32. § A támogatást igénylő a pályázat benyújtásával egyidejűleg hozzájárulását adja ahhoz, hogy a támogató a támogatás elnyerése esetén a kedvezményezett nevét, a projekt tárgyát, a döntés időpontját az év és a hónap megjelölésével nyilvánosságra hozza, valamint a támogatást igénylő által rendelkezésre bocsátott adatokat a vonatkozó jogszabályok figyelembevételével nyilvántartsa és kezelje.
-
-33. § (1) A támogatást igénylő a pályázatában projekt partnereket nevezhet meg. A pályázathoz a projekt partnerek partnerségi szándéknyilatkozatot mellékelni kell.
+33. § (1)[^31] A támogatást igénylő a pályázatában projekt partnereket nevezhet meg.
 
 (2) Projekt partner csak olyan szervezet lehet, amely a pályázati felhívásban meghatározott követelményeknek megfelel és támogatásban részesülhet.
 
-(3) A projekt partnerek támogató döntés esetén partnerségi megállapodást kötnek, melyben kötelezettséget vállalnak a projekt pályázatban meghatározott módon történő közös megvalósítására. A partnerségi megállapodás tartalmazza legalább:
+(3)[^32] A projektgazda támogató döntés esetén partnerségi megállapodást köt az egyes projekt partnerekkel, melyben a felek kötelezettséget vállalnak a projekt pályázatban meghatározott módon történő közös megvalósítására. A partnerségi megállapodás tartalmazza legalább:
 
 a) a projektgazda felelősségét viselő szervezet megnevezését,
 
-b) a projektgazda és a projekt partnerek szerepét és felelősségét,
+b)[^33] a projektgazda és a projekt partner szerepét és felelősségét,
 
-c) a projektgazda és a projekt partnerek pénzügyi hozzájárulását és a támogatásból való részesedésük feltételeit, ideértve a projekt részletes költségvetését és a projekt partner költségeinek elszámolhatóságára vonatkozó szabályokat,
+c)[^34] a projektgazda és a projekt partner pénzügyi hozzájárulását és a támogatásból való részesedésük feltételeit, ideértve a projekt részletes költségvetését és a projekt partner költségeinek elszámolhatóságára vonatkozó szabályokat,
 
 d) a projekt partner adatszolgáltatási és ellenőrzések keretében történő együttműködési kötelezettségét,
 
@@ -25,3 +23,8 @@ g) a pályázati felhívásban vagy jogszabályban előírt releváns feltétele
 (5) Donor partnerségi projekt esetén a partnerségi megállapodás hivatalos nyelve az angol.
 
 (6) A megkötött partnerségi megállapodást a támogatási szerződés megkötését megelőzően kell a végrehajtó ügynökség – ösztöndíj program esetén a program operátor – részére benyújtani, aki ellenőrzi a partnerségi megállapodás megfelelőségét.
+
+[^31]: A 33. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^32]: A 33. § (3) bekezdés nyitó szövegrésze a 35/2016. (II. 29.) Korm. rendelet 49. § 11. pontja szerint módosított szöveg.
+[^33]: A 33. § (3) bekezdés b) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 12. pontja szerint módosított szöveg.
+[^34]: A 33. § (3) bekezdés c) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 13. pontja szerint módosított szöveg.

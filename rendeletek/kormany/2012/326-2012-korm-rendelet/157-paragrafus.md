@@ -1,23 +1,15 @@
-157. § (1) A K+F projekttámogatás vonatkozásában az elszámolható költségek a következők:
+157. § (1) Az elszámolható költségeket a kutatás-fejlesztés valamely meghatározott kategóriájához kell rendelni.
 
-a) a projekttel összefüggésben közvetlenül felmerült személyi jellegű ráfordítások az Sztv. szerint, ideértve kizárólag a kutatók, fejlesztők, technikusok és egyéb kisegítő személyzet foglalkoztatásához kapcsolódóan felmerült személyi jellegű ráfordításokat a támogatott projektben való foglalkoztatásuk arányában,
+(2) A 156. § (2) bekezdés a)–c) pontja esetén a támogatás keretében elszámolható
 
-b) a projekttel összefüggésben közvetlenül felmerült anyagjellegű ráfordítások, ideértve
+a) a kutatók, technikusok és egyéb kisegítő személyzet személyi jellegű ráfordítása a projektben való foglalkoztatásuk mértékéig,
 
-ba) az anyagköltséget,
+b) az eszközök, berendezések költsége a projekt céljaira való használatuk mértékéig és idejére azzal, hogy ahol ezeket az eszközöket és felszereléseket nem a teljes élettartamuk alatt használják a projekthez, csak az általános számviteli elvek alapján elfogadott, a projekt idejére számított amortizációs költségek számolhatóak el,
 
-bb) az igénybe vett szolgáltatásokat (beleértve a szerződéses kutatás-fejlesztés és innováció költségét, a tanácsadás és hasonló szolgáltatások igénybevétele költségét, valamint az épület- és földhasználattal összefüggésben igénybe vett szolgáltatások miatti költségeket), és
+c) az épületek és a földterület költsége a projekt céljaira való használatuk mértékéig és idejére azzal, hogy az épületek esetén csak az általános számviteli elvek alapján elfogadott, a projekt idejére számított amortizációs költségek, földterület esetén a kereskedelmi, illetve a ténylegesen felmerülő beruházási költségek számolhatóak el,
 
-bc) az egyéb szolgáltatásokat,
+d) a szerződéses kutatás, a külső forrásokból szokásos piaci feltételek mellett megvásárolt vagy licencia tárgyát képező műszaki ismeretek és szabadalmak költsége, valamint a tanácsadás és hasonló szolgáltatások költsége, ha azokat kizárólag a projekthez veszik igénybe,
 
-c) az általános költségeknek a projekthez – a kutatás-fejlesztés és innovációt megfelelően jellemző – vetítési alap arányában, a számviteli politikában meghatározott módon hozzárendelt összege,
+e) a további általános és egyéb működési költség, beleértve az anyagok, a fogyóeszközök és hasonló termékek költségeit, amelyek közvetlenül a projekt folyamán merülnek fel.
 
-d) projekttel összefüggésben használt épület Sztv. szerinti értékcsökkenési leírásának a támogatott projektben való használat mértékében meghatározott összege, a projekttel összefüggésben használt földterület beszerzése esetén annak bekerülési értéke, valamint az adásvétellel összefüggésben felmerülő egyéb költségei,
-
-e) műszaki berendezések, gépek és egyéb berendezések, felszerelések Sztv. szerinti bekerülési értéke a támogatott projektben való használatuk mértékéig, és
-
-f) harmadik féltől piaci áron megvásárolt, pénzügyi lízingbe vett tudás és szabadalmak Sztv. szerinti bekerülési értéke, illetve a lízingdíjak tőketörlesztő része.
-
-(2) Az (1) bekezdés b) pont bb) alpontja szerinti szerződéses kutatás-fejlesztés és innováció költsége, valamint az (1) bekezdés f) pontja szerint vásárolt, pénzügyi lízingbe vett tudás és szabadalom bekerülési értéke, illetve lízingdíjának tőketörlesztő összege abban az esetben vehető figyelembe az elszámolható költségek között, ha a szerződéskötésre a piaci feltételeknek megfelelően került sor.
-
-(3) A K+F projekttámogatás esetén valamennyi elszámolható költségnek a kutatás-fejlesztés adott fajtájához kell kapcsolódnia.
+(3) A 156. § (2) bekezdés d) pontja esetén a támogatás keretében a megvalósíthatósági tanulmány költsége számolható el.

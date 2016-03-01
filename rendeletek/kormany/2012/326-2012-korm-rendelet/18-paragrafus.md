@@ -8,7 +8,7 @@ c) ezen szervezet tagja vagy abban közvetlen vagy közvetett tulajdoni részese
 
 d) az értékelésre, a minőség-ellenőrzésre vagy a bírálatra benyújtott dokumentumok előkészítésében vagy kidolgozásában bármilyen formában részt vett,
 
-e) az a)–d) pont szerinti személynek a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti közeli hozzátartozója,
+e)[^17] az a)–d) pont szerinti személynek Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója,
 
 f) tekintetében a folyamatban érintett nemzeti szintű szervhez vagy program szintű szervhez érkezett bejelentés alapján vagy hivatalból a nemzeti szintű szerv vagy a program szintű szerv megállapítja, hogy a pártatlan és objektív közreműködése nem biztosítható,
 
@@ -21,3 +21,8 @@ h) elfogultságát bejelenti.
 (3) Ha az összeférhetetlenség fennállásáról a nemzeti szintű szerv vagy a program szintű szerv az (1) bekezdés szerinti bármely folyamatot követően szerez tudomást, úgy köteles a lefolytatott eljárás teljes körű ellenőrzésére és a szükséges intézkedések megtételére.
 
 (4) A kiválasztási, szerződéskötési, hitelesítési, elszámolási, szabálytalansági és ellenőrzési folyamatban részt vevő személy vagy szervezet a feladat ellátására vonatkozó jogviszonyban alkalmazandó felelősségi szabályok szerint felelősséggel tartozik a pártatlan, semleges és szakmai követelményeknek megfelelő feladatellátásáért.
+
+(5)[^18] Az (1)–(4) bekezdés szerinti összeférhetetlenségi szabályok alól részben vagy egészben mentesítés adható, ha a donor országok döntése értelmében egy szervezeten belül kerülnek ellátásra a nemzeti szintű szerv, a program szintű szerv és a kedvezményezett egyes feladatai. Ebben az esetben a szervezeten belüli funkcionális és személyi elkülönítés biztosítása módját belső szabályzatban, valamint ennek alapján az irányítási és kontrollrendszer leírásában, továbbá az ellenőrzési nyomvonalban szükséges rögzíteni.
+
+[^17]: A 18. § (1) bekezdés e) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 8. pontja szerint módosított szöveg.
+[^18]: A 18. § (5) bekezdését a 35/2016. (II. 29.) Korm. rendelet 6. §-a iktatta be.

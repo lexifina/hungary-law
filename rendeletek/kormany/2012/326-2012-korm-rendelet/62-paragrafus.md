@@ -26,6 +26,9 @@ l) a horizontális szempontok érvényesülése érdekében megtett intézkedés
 
 m) a kétoldalú kapcsolatok előmozdítása érdekében megtett intézkedések.
 
-(2) A monitoring látogatás megállapításait a program operátor jegyzőkönyvben rögzíti. A jegyzőkönyv tartalmazza a program operátor javaslatait, ajánlásait, a projektgazda részére előírt esetleges intézkedési tervet a projekt eredményes végrehajtása érdekében.
+(2)[^75] A monitoring látogatás megállapításait a program operátor vagy a nemzeti kapcsolattartó jegyzőkönyvben rögzíti. A jegyzőkönyv tartalmazza a program operátor vagy a nemzeti kapcsolattartó javaslatait, ajánlásait, a kedvezményezett részére előírt esetleges intézkedési tervet a projekt eredményes végrehajtása érdekében.
 
-(3) A monitoring látogatás kedvezőtlen megállapításai esetén a program operátor megteszi a 61. § (6) bekezdés szerint szükséges intézkedést.
+(3)[^76] A monitoring látogatás kedvezőtlen megállapításai esetén a program operátor vagy a nemzeti kapcsolattartó megteszi a 61. § (6) bekezdés szerint szükséges intézkedést.
+
+[^75]: A 62. § (2) bekezdése a 35/2016. (II. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^76]: A 62. § (3) bekezdése a 35/2016. (II. 29.) Korm. rendelet 31. pontja szerint módosított szöveg.

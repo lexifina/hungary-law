@@ -1,11 +1,21 @@
-## 69. A csekély összegű támogatásokra vonatkozó szabályok
+## kell levonni az elszámolható költségekből.
 
-165. § (1) A csekély összegű támogatás odaítélésének feltétele, hogy a kedvezményezett nyilatkozik, hogy az előző három pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak, közúti szállítási ágazatban a 100 000 eurónak megfelelő forintösszeget.
+## 69. [^156] A csekély összegű támogatás
 
-(2) Minden egyes új csekély összegű támogatás odaítélésekor az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatás teljes összegét figyelembe kell venni.
+165. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(3) Az 1998/2006/EK bizottsági rendelet 3. cikk 1. pontja szerinti kötelezettséget a támogatást nyújtó köteles teljesíteni.
+(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
-(4) Nem ítélhető meg csekély összegű támogatás az 1998/2006/EK bizottsági rendelet 1. cikkében meghatározottakhoz.
+(3) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
-(5) Csekély összegű támogatás azonos elszámolható költségek vonatkozásában nem halmozható állami támogatással, ha az így halmozott összeg támogatási intenzitása meghaladná az irányadó uniós állami támogatási szabályban meghatározott támogatási intenzitást.
+(4) Hitel vagy kezességvállalás formájában nyújtott támogatás esetén nem lehet kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
+
+(5) Nem nyújtható támogatás a közúti kereskedelmi árufuvarozást ellenszolgáltatásért végző vállalkozás részére teherszállító jármű vásárlására.
+
+(6) A támogatás a csekély összegű közszolgáltatási támogatással az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott felső határig halmozható.
+
+(7) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(8) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+
+[^156]: A 69. alcím (165. §) a 35/2016. (II. 29.) Korm. rendelet 44. §-ával megállapított szöveg.

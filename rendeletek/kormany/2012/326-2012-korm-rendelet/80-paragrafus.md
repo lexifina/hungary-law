@@ -6,7 +6,7 @@
 
 ## 26. A költségvetési tervezésre vonatkozó szabályok
 
-80. § (1) A finanszírozási mechanizmusok támogatásait az NFÜ az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) előírásaival összhangban tervezi meg.
+80. § (1)[^91] A finanszírozási mechanizmusok támogatásait a Miniszterelnökség az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), valamint az Ávr. előírásaival összhangban tervezi meg.
 
 (2) A finanszírozási mechanizmusok támogatásaival összefüggésben tervezett donor hozzájárulást és a kapcsolódó nemzeti társfinanszírozást ugyanazon az előirányzaton kell megjeleníteni.
 
@@ -20,4 +20,7 @@ c) a donor hozzájárulás egyéb tételeit, így a technikai segítségnyújtá
 
 (4) A finanszírozási mechanizmusok támogatásával megvalósuló program nemzeti társfinanszírozási kötelezettségét kiemelten kell kezelni, amely nem jelenthet az érintett fejezet számára a költségvetési tervezés során meghatározott kereten túl pótlólagos finanszírozási igényt.
 
-(5) A donor országokkal való elszámolásokból adódó árfolyam-különbözet elszámolására szolgáló fedezet európai uniós tartalékként történő költségvetési tervezése az NFÜ feladata a tervezési tájékoztató és a költségvetési törvény előírásaival összhangban.
+(5)[^92] A donor országokkal való elszámolásokból adódó árfolyam-különbözet elszámolására szolgáló fedezet európai uniós tartalékként történő költségvetési tervezése a Miniszterelnökség feladata a tervezési tájékoztató és a költségvetési törvény előírásaival összhangban.
+
+[^91]: A 80. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^92]: A 80. § (5) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 37. pontja szerint módosított szöveg.

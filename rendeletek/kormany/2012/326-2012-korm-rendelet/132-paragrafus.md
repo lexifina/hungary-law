@@ -1,15 +1,17 @@
-132. § (1) A 800/2008/EK bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett még a projekt megkezdése előtt a támogatásigénylést benyújtja.
+132. § (1) A 651/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
-(2) Nagyvállalkozás esetében a kedvezményezett köteles igazolni, hogy
+(2) A beruházás megkezdésének napja
 
-a) a támogatás segítségével lényegesen megnövekszik a projekt mérete,
+a) építési munka esetén az építési naplóba történő első bejegyzés vagy az építésre vonatkozó első visszavonhatatlan kötelezettségvállalás időpontja,
 
-b) kiszélesedik a tevékenység köre,
+b) tárgyi eszköz és immateriális javak beszerzése esetén
 
-c) növekszik a kedvezményezett által a projektre fordítandó összeg,
+ba) a vállalkozás általi első jogilag kötelező érvényűnek tekintett megrendelés napja,
 
-d) lényegesen felgyorsul a projekt végrehajtási üteme, vagy
+bb) – a ba) alpont szerinti megrendelés hiányában – az arra vonatkozóan megkötött, jogilag kötelező érvényűnek tekintett szerződés létrejöttének a napja,
 
-e) regionális beruházási és foglalkoztatási támogatás esetében a projekt a támogatás hiányában nem az érintett támogatott régióban valósult volna meg.
+bc) – a ba) alpont szerinti megrendelés és a bb) alpont szerinti szerződés hiányában – a beruházó által aláírással igazolt átvételi nap az első beszerzett gép, berendezés, anyag vagy termék szállítását igazoló okmányon,
 
-(3) A (2) bekezdés szerinti igazolás tényeket összevető elemzés útján kell, hogy történjen, amely a célzott tevékenység támogatással és támogatás nélkül megvalósuló szintjét hasonlítja össze. A kedvezményezettnek belső dokumentumában elemeznie kell a támogatott projekt vagy tevékenység támogatás melletti és támogatás nélküli életképességét.
+c) létesítmény felvásárlása esetén a felvásárlás időpontja vagy
+
+d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkorábbi időpont

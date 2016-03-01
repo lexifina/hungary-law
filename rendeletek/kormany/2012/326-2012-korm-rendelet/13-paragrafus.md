@@ -6,7 +6,7 @@
 
 (3) Az együttműködési bizottságba tagot delegál a program operátor, a donor program partnerek, továbbá az együttműködési megállapodásokban esetlegesen meghatározott vagy a program operátor által felkért további szervezetek.
 
-(4)[^4] Az együttműködési bizottság munkájában tanácskozási joggal vesznek részt a donor országok, a nemzeti kapcsolattartó, az európai uniós források felhasználásáért felelős miniszter, a végrehajtó ügynökség, valamint a program operátor által felkért további szervezetek képviselői.
+(4)[^15] Az együttműködési bizottság munkájában tanácskozási joggal vesznek részt a donor országok, a nemzeti kapcsolattartó, a végrehajtó ügynökség, valamint a program operátor által felkért további szervezetek képviselői.
 
 (5) Az együttműködési bizottság ülését a program operátor vezeti.
 
@@ -26,4 +26,4 @@ e) megvitatja az éves program jelentéseket,
 
 f) javaslatot tesz a program operátor részére a program módosítására a program eredményeinek fokozása érdekében.
 
-[^4]: A 13. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 704. § b) pontja szerint módosított szöveg.
+[^15]: A 13. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 704. § b) pontja, a 35/2016. (II. 29.) Korm. rendelet 50. § 2. pontja szerint módosított szöveg.

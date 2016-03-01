@@ -1,17 +1,5 @@
-## 53. Az energia-megtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatás
+## 147. §
 
-148. § (1) Az energia-megtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) célja, hogy a vállalkozások energia-megtakarítást érjenek el.
+## 53.[^140]
 
-(2) Elszámolható költségnek minősül a vállalkozás energia-megtakarítását növelő
-
-a) beruházás többletköltsége, vagy
-
-b) olyan beruházás többletköltsége, amely a közösségi szabványok által előírtnál magasabb szintű energia-megtakarítás megvalósításához szükséges.
-
-(3) Az elszámolható költségek kiszámításához a 800/2008/EK bizottsági rendelet 18. cikk (6) bekezdésében meghatározott módszert kell alkalmazni, valamint a (2) bekezdés b) pontja szerinti esetben a 800/2008/EK bizottsági rendelet 21. cikk (3) bekezdését kell figyelembe venni.
-
-(4) A támogatás támogatási intenzitása a (2) bekezdés a) pontja szerinti esetben nem haladhatja meg az elszámolható költségek 20%-át.
-
-(5) A támogatás támogatási intenzitása a (2) bekezdés b) pontja szerinti esetben nem haladhatja meg az elszámolható költségek 60%-át.
-
-(6) A (4) és (5) bekezdésben meghatározott támogatási intenzitás kisvállalkozások esetében 20 százalékponttal, középvállalkozások esetében 10 százalékponttal növelhető.
+[^140]: Az 53. alcímet (148. §) a 35/2016. (II. 29.) Korm. rendelet 50. § 12. pontja hatályon kívül helyezte.

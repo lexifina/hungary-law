@@ -1,4 +1,4 @@
-61. § (1) A projektgazda a projekt támogatási szerződésben foglaltakkal összhangban történő, szabályszerű és eredményes végrehajtásának nyomon követése érdekében a támogatási szerződésben meghatározott ütemezésnek megfelelően időközi, illetve záró szakmai előrehaladási jelentéseket köteles benyújtani elektronikus úton és – ha a támogatási szerződés úgy rendelkezik – papír alapon is. A kétféle módon benyújtott szakmai előrehaladási jelentésben mutatkozó eltérés esetén a papír alapú és aláírt jelentést kell hitelesnek tekinteni azzal, hogy a papír alapú és az elektronikus jelentés egyezőségéről a projektgazda köteles gondoskodni.
+61. § (1)[^70] A kedvezményezett a projekt támogatási szerződésben foglaltakkal összhangban történő, szabályszerű és eredményes végrehajtásának nyomon követése érdekében a támogatási szerződésben meghatározott ütemezésnek megfelelően időközi, illetve záró szakmai előrehaladási jelentéseket köteles benyújtani elektronikus úton és – ha a támogatási szerződés úgy rendelkezik – papír alapon is. A kétféle módon benyújtott szakmai előrehaladási jelentésben mutatkozó eltérés esetén a papír alapú és aláírt jelentést kell hitelesnek tekinteni azzal, hogy a papír alapú és az elektronikus jelentés egyezőségéről a kedvezményezett köteles gondoskodni.
 
 (2) Az időközi, illetve záró szakmai előrehaladási jelentésnek tartalmaznia kell legalább:
 
@@ -18,7 +18,7 @@ g) beszámolót a horizontális szempontok érvényesülése érdekében megtett
 
 h) beszámolót az esetleges korábbi monitoring látogatások, illetve helyszíni ellenőrzések megállapításai alapján előírt intézkedési terv, illetve a támogató által egyéb okból kért, a kedvezményezett által készített cselekvési terv teljesüléséről és a megtett intézkedésekről.
 
-(3) A projektgazda köteles gondoskodni arról, hogy a szakmai előrehaladási jelentés a projekt partnerek által vállalt tevékenységek tekintetében is tartalmazza a (2) bekezdés szerinti információkat.
+(3)[^71] Partnerségi projekt esetén a projektgazda köteles gondoskodni arról, hogy a szakmai előrehaladási jelentés a projekt partnerek által vállalt tevékenységek tekintetében is tartalmazza a (2) bekezdés szerinti információkat.
 
 (4) A szakmai előrehaladási jelentéseket a végrehajtó ügynökség – ösztöndíj program esetén a program operátor – részére kell benyújtani, aki a jelentést formai megfelelőségi szempontból ellenőrzi és szükség esetén írásban hiánypótlásra szólítja fel a projektgazdát.
 
@@ -34,7 +34,7 @@ c) a jelentést elutasítja és megteszi a (6) bekezdés szerint szükséges int
 
 a) monitoring látogatás lefolytatása,
 
-b) helyszíni ellenőrzés lefolytatása,
+b)[^72] helyszíni ellenőrzés lefolytatásának elrendelése,
 
 c) az 59. § (2) bekezdése szerinti cselekvési terv kidolgozásának elrendelése,
 
@@ -46,4 +46,12 @@ f) a támogatási szerződés módosítására vonatkozó javaslattétel, vagy
 
 g) az 59. § (1) bekezdése szerinti esetben a támogatási szerződéstől történő elállás.
 
-(7) A program operátor a (6) bekezdés szerinti intézkedés foganatosítására jogosult akkor is, ha a projektgazda a szakmai előrehaladási jelentés benyújtása tekintetében a támogatási szerződésben meghatározott ütemezéshez képest 30 napot meghaladó késedelembe esik.
+(7)[^73] A program operátor az (5) és (6) bekezdés szerinti intézkedés foganatosítására jogosult akkor is, ha a projektgazda a szakmai előrehaladási jelentés benyújtása tekintetében a támogatási szerződésben meghatározott ütemezéshez képest 30 napot meghaladó késedelembe esik.
+
+(8)[^74] A program szintű szervek szakmai beszámolási kötelezettségét a program végrehajtási megállapodásban kell meghatározni. A nemzeti kapcsolattartó jogosult az (5)–(7) bekezdés szerint eljárni.
+
+[^70]: A 61. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 27. pontja szerint módosított szöveg.
+[^71]: A 61. § (3) bekezdése a 35/2016. (II. 29.) Korm. rendelet 28. pontja szerint módosított szöveg.
+[^72]: A 61. § (6) bekezdés b) pontja a 35/2016. (II. 29.) Korm. rendelet 29. pontja szerint módosított szöveg.
+[^73]: A 61. § (7) bekezdése a 35/2016. (II. 29.) Korm. rendelet 30. pontja szerint módosított szöveg.
+[^74]: A 62. § (1) bekezdését a 35/2016. (II. 29.) Korm. rendelet 25. §-a iktatta be.

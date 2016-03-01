@@ -1,17 +1,19 @@
-## 47. A beruházási és foglalkoztatási támogatásokra vonatkozó szabályok
+## 47. [^133] A regionális beruházási támogatás
 
-137. § (1) E rendelet alapján beruházási és foglalkoztatási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) csak abban az esetben nyújtható, ha a beruházás költségei a következő költségekből tevődnek össze:
+137. § (1) A regionális beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás
 
-a) tárgyi eszközbe vagy immateriális javakba történő beruházás, amely új létesítmény létrehozásához, meglévő létesítmény bővítéséhez, egy létesítmény termelésének további új termékekkel történő diverzifikációjához vagy egy meglévő létesítmény termelési folyamatának alapvető megváltoztatásához kapcsolódik, vagy
+a) olyan induló beruházásnak minősüljön, amelyet
 
-b) egy létesítményhez közvetlenül kapcsolódó befektetett eszközök beszerzése, ha a létesítmény bezárásra került vagy felvásárlás hiányában bezárásra került volna, és az eszközöket független beruházó vásárolja meg.
+aa) az Atr. 25. § (1) bekezdés a)–c) pontja szerinti régióban kis- és középvállalkozás vagy nagyvállalkozás, vagy
 
-(2) A támogatási intenzitást a tárgyi eszközökbe és immateriális javakba történő beruházás elszámolható költségeinek hányadaként vagy közvetlenül a beruházási projekttel létrehozott munkahelyek esetén az új munkavállaló két éves becsült bérköltségének hányadaként vagy a két módszer együttes alkalmazásával kell kiszámítani, feltéve, hogy a támogatás nem lépi túl a kétfajta számítás külön-külön történő alkalmazásából eredő kedvezőbb értéket.
+ab) az Atr. 25. § (1) bekezdés d) pontja szerinti településen kis- és középvállalkozás, vagy
 
-(3) Az egyes, azonos elszámolható költségekkel rendelkező projektekhez nyújtható, bármely államháztartási forrásból származó összes támogatás – ideértve a projekthez nyújtott csekély összegű támogatásokat is – támogatási intenzitása nem haladhatja meg az Atr. 25. §-ában meghatározott mértékeket.
+b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdés d) pontja szerinti településen nagyvállalkozás
 
-(4) A mezőgazdasági termék feldolgozásához, illetve forgalmazásához kapcsolódó beruházás esetén a maximális támogatási intenzitás a következő:
+## valósít meg.
 
-a) ha a projektgazda, illetve a végső kedvezményezett kis- és középvállalkozás, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében az elszámolható költségek 50%-a, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében az elszámolható költségek 40%-a,
+(2) A termelési folyamat alapvető megváltozását eredményező beruházás esetén a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja az alapvetően megváltoztatandó eredeti termelési folyamathoz kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
 
-b) ha a projektgazda, illetve a végső kedvezményezett 800/2008/EK bizottsági rendelet I. mellékletének megfelelően számított foglalkoztatottainak száma kevesebb, mint 750 fő és árbevétele kevesebb, mint 200 millió eurónak megfelelő forintösszeg, az EUMSz 107. cikk (3) bekezdés a) pontja alapján támogatott területek esetében az elszámolható költségek 25%-a, az EUMSz 107. cikk (3) bekezdés c) pontja alapján támogatott területek esetében az elszámolható költségek 20%-a.
+(3) Meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező induló beruházás, valamint meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező, új gazdasági tevékenység végzésére irányuló induló beruházás esetén az elszámolható költségeknek legalább 200%-kal meg kell haladniuk az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
+
+[^133]: A 47. alcím (137–140/A. §) a 35/2016. (II. 29.) Korm. rendelet 41. §-ával megállapított szöveg.

@@ -14,4 +14,6 @@ b) a nemzeti kapcsolattartó gondoskodik, ha a szabálytalansági gyanú bejelen
 
 (5) A nemzeti kapcsolattartó az (1) bekezdés b) pontja szerinti esetben dönthet a szabálytalansági eljárás lefolytatásának program operátorra vagy végrehajtó ügynökségre történő delegálásáról a program operátor, illetve a végrehajtó ügynökség vezetőjének és szabálytalanság-felelősének írásbeli értesítése mellett.
 
-(6) Az (1) bekezdés b) pontja szerinti esetben, ha a nemzeti kapcsolattartó függetlensége és pártatlansága nem biztosítható, a nemzeti kapcsolattartó köteles gondoskodni a szabálytalansági eljárás NFÜ általi lefolytatásáról.
+(6)[^117] Az (1) bekezdés b) pontja szerinti esetben, ha a nemzeti kapcsolattartó függetlensége és pártatlansága nem biztosítható, a nemzeti kapcsolattartó köteles gondoskodni a szabálytalansági eljárás Miniszterelnökség általi lefolytatásáról.
+
+[^117]: A 117. § (6) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 52. pontja szerint módosított szöveg.

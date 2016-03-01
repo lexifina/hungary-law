@@ -6,6 +6,9 @@
 
 (3) A hitelesítést végző szerv a benyújtott dokumentumok alapján utóellenőrzést folytat le. A hitelesítést végző szerv a dokumentumok beérkezését követő 7 napon belül az ellenőrzés eredményéről a kedvezményezettet értesíti. A fenti határidőn belül a hitelesítést végző szerv a kedvezményezettet hiánypótlásra szólíthatja fel. A hitelesítést végző szerv az ellenőrzés eredményétől függően szabálytalansági eljárást kezdeményezhet.
 
-(4) Ha a támogatást igénylő a támogatói döntést megelőzően folytat le a Kbt. szerinti uniós értékhatárt, illetve építési beruházás, építési koncesszió esetén a háromszázmillió forintot el nem érő értékű közbeszerzési eljárást, úgy a hitelesítést végző szerv az (1)–(3) bekezdés szerinti utóellenőrzést a támogatási szerződés megkötését megelőzően végzi el.
+(4)[^84] Ha a támogatást igénylő a támogatási döntést megelőzően folytat le a Kbt. szerinti uniós értékhatárt, illetve építési beruházás, építési koncesszió esetén a háromszázmillió forintot el nem érő értékű közbeszerzési eljárást, úgy a hitelesítést végző szerv az (1)–(3) bekezdés szerinti utóellenőrzést a támogatási szerződés megkötését megelőzően végzi el.
 
-(5) A támogatást igénylő, illetve a kedvezményezett a szerződés-módosítást, valamint az azt alátámasztó valamennyi dokumentumot a szerződés-módosítást követő 7 napon belül utóellenőrzés céljából megküldi a hitelesítést végző szerv részére. A hitelesítést végző szerv a dokumentumok beérkezését követő 7 napon belül elvégzi azok ellenőrzést.
+(5)[^85] A támogatást igénylő, illetve a kedvezményezett a szerződés-módosítást, valamint az azt alátámasztó valamennyi dokumentumot megküldi a hitelesítést végző szerv részére utóellenőrzés céljából a szerződés-módosítást követő 7 napon belül. A hitelesítést végző szerv a dokumentumok beérkezését követő 7 napon belül elvégzi azok ellenőrzését. A kedvezményezett részére csak a hitelesítést végző szerv jóváhagyó minőségellenőrzési jelentésének megléte esetén folyósítható támogatás.
+
+[^84]: A 75. § (4) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 34. pontja szerint módosított szöveg.
+[^85]: A 75. § (5) bekezdése a 35/2016. (II. 29.) Korm. rendelet 31. §-ával megállapított szöveg.

@@ -14,6 +14,8 @@ c) azonnali fenyegetést jelent a projekt sikeres befejezésére a projekt telje
 
 (3) Ha az adott naptári negyedévben nem történt szabálytalanság, illetve a korábban jelentett szabálytalansági eseteket érintő változás, úgy a nemzeti kapcsolattartó erről értesíti a donor országokat.
 
+(3a)[^121] A nemzeti kapcsolattartó az (1)–(3) bekezdés szerinti jelentéseket megküldi az igazoló hatóság részére tájékoztatás céljából.
+
 (4) A (2) bekezdés szerinti jelentésben nem kell szerepeltetni a következő szabálytalansági eseteket:
 
 a) kizárólag a kedvezményezett csőd-, felszámolási vagy végelszámolási eljárása miatt a projekt megvalósításának részben vagy egészben történő meghiúsulása kerül szabálytalanságként megállapításra,
@@ -29,3 +31,5 @@ c) a szabálytalanságot a program operátor, a nemzeti kapcsolattartó vagy az 
 (7) A nemzeti kapcsolattartó a (4) bekezdés szerinti szabálytalansági esetekről is köteles nyilvántartást vezetni.
 
 (8) A nemzeti kapcsolattartó e § szerinti jelentéstételi kötelezettségeinek teljesítése érdekében a nemzeti szintű szervek és program szintű szervek egyaránt kötelesek a nemzeti kapcsolattartóval együttműködni és a nemzeti kapcsolattartó részére a donor országok felé teljesítendő adatszolgáltatáshoz szükséges információkat haladéktalanul megadni.
+
+[^121]: A 125. § (3a) bekezdését a 35/2016. (II. 29.) Korm. rendelet 39. §-a iktatta be.

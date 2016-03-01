@@ -38,8 +38,11 @@
 
 18. közreműködik a program kommunikációs tervének kidolgozásában és a program nyilvánosságának biztosításában,
 
-19. közreműködik a kétoldalú kapcsolatok nemzeti alapja pályázatinak lebonyolításában,
+19.[^11] közreműködik a kétoldalú kapcsolatok nemzeti alapja pályázatainak lebonyolításában,
 
 20. működteti az ügyfélszolgálatot.
 
-(2) Az (1) bekezdéstől eltérően az ösztöndíj program esetén az (1) bekezdés 4–9. és 11. pontjai szerinti feladatokat a program operátor látja el.
+(2)[^12] Az ösztöndíj program esetén az (1) bekezdés 1., 2. és 4–20. pontja szerinti feladatot a program operátor látja el.
+
+[^11]: A 11. § (1) bekezdés 19. pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 5. pontja szerint módosított szöveg.
+[^12]: A 11. § (2) bekezdése a 35/2016. (II. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

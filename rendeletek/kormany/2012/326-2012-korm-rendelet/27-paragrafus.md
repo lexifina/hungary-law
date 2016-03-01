@@ -1,10 +1,10 @@
 27. § (1) A pályázati felhívást a program operátor dolgozza ki a végrehajtó ügynökséggel, valamint donor partnerségi program esetén a donor program partnerrel együttműködve.
 
-(2)[^5] A program operátor a jogszabályi követelményeknek megfelelően megküldi a pályázati felhívást előzetes állami támogatási szempontú vizsgálatra az európai uniós források felhasználásáért felelős miniszter részére.
+(2)[^21] A program operátor a jogszabályi követelményeknek megfelelően megküldi a pályázati felhívást előzetes állami támogatási szempontú vizsgálatra az európai uniós források felhasználásáért felelős miniszter részére.
 
-(3) A program operátor 30 nappal a pályázati felhívás tervezett megjelentetése előtt véleményezésre megküldi a pályázati felhívást a nemzeti kapcsolattartó részére. A nemzeti kapcsolattartó a kézhezvételt követő 10 napon belül észrevételt tehet, melyet a program operátor köteles figyelembe venni.
+(3)[^22] A program operátor a pályázati felhívás tervezett megjelentetése előtt legalább 30 nappal – határidő megjelölésével – véleményezésre megküldi a pályázati felhívást a nemzeti kapcsolattartó, valamint annak angol nyelvű fordítását a donor országok részére. A donor országok és a nemzeti kapcsolattartó által határidőben tett észrevételeket a program operátor köteles figyelembe venni.
 
-(4) A program operátor 15 nappal a pályázati felhívás tervezett megjelentetése előtt tájékoztatásul megküldi a végrehajtó ügynökséggel egyeztetett tartalmú végleges pályázati felhívást a nemzeti kapcsolattartó és a donor országok részére, angol nyelvű fordítással.
+(4)[^23] A program operátor a véglegesített, közzétételre alkalmas pályázati felhívást, valamint annak angol nyelvű fordítását megküldi a nemzeti kapcsolattartó részére.
 
 (5) A pályázati felhívást a program operátor és a végrehajtó ügynökség a honlapján magyar és angol nyelven közzéteszi, valamint gondoskodik annak a nyilvánosság számára történő megfelelő eléréséről.
 
@@ -34,14 +34,24 @@ k) a támogatási szerződés tervezetét és a támogatási szerződés megköt
 
 l) hivatkozást a szabályzatokra, jogszabályokra, valamint a pályázati felhívás szempontjából releváns egyéb útmutatókra,
 
-m) a további részletes információk és kapcsolattartók elérhetőségét,
+m)[^24] a további részletes információk és a kapcsolattartók elérhetőségét,
 
 n) a pályázati felhívással kapcsolatos kérdések megküldésére és megválaszolására rendelkezésére álló határidőt,
 
-o) a projektek megvalósításával összefüggésben alkalmazandó összeférhetetlenségi szabályokat,
+o)[^25] a projektek megvalósításával, így különösen az azok keretében lefolytatandó beszerzésekkel összefüggésben alkalmazandó összeférhetetlenségi szabályokat,
 
-p) a biztosíték nyújtásával kapcsolatos kötelezettségeket.
+p) a biztosíték nyújtásával kapcsolatos kötelezettségeket,
+
+q)[^26] azt, hogy a támogatás folyósítása forintban vagy euróban történik a támogatási szerződés megkötését követően.
 
 (7) A kutatási program keretében meghirdetett pályázati felhívásnak a (6) bekezdéstől eltérően a szabályzatok 12. számú mellékletének 2. fejezetében foglalt előírásoknak kell megfelelnie.
 
-[^5]: A 27. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 704. § b) pontja szerint módosított szöveg.
+(8)[^27] A kétoldalú kapcsolatok program szintű alapjának pályázati felhívásai vonatkozásában a (3) bekezdés szerinti véleményezést nem kell lefolytatni.
+
+[^21]: A 27. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 704. § b) pontja szerint módosított szöveg.
+[^22]: A 27. § (3) bekezdése a 35/2016. (II. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^23]: A 27. § (4) bekezdése a 35/2016. (II. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^24]: A 27. § (6) bekezdés m) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 9. pontja szerint módosított szöveg.
+[^25]: A 27. § (6) bekezdés o) pontja a 35/2016. (II. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^26]: A 27. § (6) bekezdés q) pontját a 35/2016. (II. 29.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^27]: A 27. § (8) bekezdését a 35/2016. (II. 29.) Korm. rendelet 9. § (4) bekezdése iktatta be.

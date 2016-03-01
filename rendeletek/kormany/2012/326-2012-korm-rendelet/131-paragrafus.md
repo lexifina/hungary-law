@@ -1,15 +1,23 @@
-## 130. § A finanszírozási mechanizmusok keretében megvalósuló projektekhez állami támogatás az Atr.-rel, valamint az agrár- és vidékfejlesztési állami támogatások Európai Bizottság részére történő bejelentési rendjéről szóló 4/2009. (I. 10.) Korm. rendelet előírásaival összhangban nyújtható.
+## 130. § A 651/2014/EU bizottsági rendelet és az 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtott támogatásként nyújtható.
 
-131. § (1) Nem ítélhető meg támogatás
+## 131. § Nem ítélhető meg támogatás
 
-a) azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget,
+a) azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
-b) – a közszolgáltatás ellentételezése kivételével – a nehéz helyzetben lévő vállalkozás részére,
+b) – a csekély összegű támogatás kivételével – a nehéz helyzetben lévő vállalkozás részére,
 
-c) a pályázati felhívás által meghatározott kizáró ok fennállása esetén.
+c) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez,
 
-(2) Nem ítélhető meg a 800/2008/EK bizottsági rendelet szerinti támogatás
+d) elsődleges mezőgazdasági termeléshez,
 
-a) a 800/2008/EK bizottsági rendelet 1. cikk (2) és (3) bekezdése szerinti tevékenységhez,
+e) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére, ha
 
-b) a 800/2008/EK bizottsági rendelet 1. cikk (4) bekezdésében meghatározott célra.
+ea) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, vagy
+
+eb) a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ,
+
+f) exporttal kapcsolatos tevékenységhez, ha az az exportált mennyiségekhez, értékesítési hálózat kialakításához és működtetéséhez vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokhoz közvetlenül kapcsolódik,
+
+g) ha azt import áru helyett hazai áru használatától teszik függővé,
+
+h) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.

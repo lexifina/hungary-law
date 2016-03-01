@@ -1,37 +1,23 @@
-## 68. A képzési támogatásra vonatkozó szabályok
+## 163. §
 
-164. § (1) Képzési támogatást a kedvezményezettel munkaviszonyban álló munkavállaló általános és speciális képzéséhez lehet nyújtani.
+## 68. [^155] A helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
 
-(2) A képzési támogatás keretében elszámolható költségek:
+164. § (1) Helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható, ha ezen infrastruktúra helyi szinten hozzájárul az üzleti és a fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez.
 
-a) az oktatók személyi jellegű költségei,
+(2) A támogatás olyan infrastruktúra-fejlesztésre nyújtható, amelyre – a regionális beruházási támogatás kivételével – nem nyújtható támogatás a 651/2014/EU bizottsági rendelet egyéb cikke alapján. Nem nyújtható támogatás repülőtéri infrastruktúra, kikötői infrastruktúra, valamint dedikált infrastruktúra fejlesztéséhez.
 
-b) az oktatók és a képzésben résztvevők utazási költségei, ideértve a szállásköltségeket is,
+(3) A támogatás nyújtásának feltétele, hogy a megvalósuló infrastruktúrát nyílt, átlátható és megkülönböztetés-mentes alapon kell a felhasználók rendelkezésére bocsátani. Az infrastruktúra használatáért felszámított vagy eladása során meghatározott árnak szokásos piaci árnak kell lennie.
 
-c) egyéb költségek (pl. a projekthez közvetlenül kapcsolódó anyagok, fogyóeszközök),
+(4) Az infrastruktúra működtetését koncesszióba adni vagy azzal harmadik felet megbízni csak nyílt, átlátható és megkülönböztetés-mentes módon, a vonatkozó jogszabályok betartásával lehet.
 
-d) az eszközök és felszerelések amortizációja olyan mértékben, amilyen mértékben azokat kizárólag a képzési projekt céljaira használják,
+(5) A támogatás keretében a beruházáshoz kapcsolódó tárgyi eszköz és immateriális javak beruházási költsége számolható el.
 
-e) a képzési projekttel kapcsolatos tanácsadói szolgáltatások költségei,
+(6) A támogatás összege nem haladhatja meg az elszámolható költségek és a működési eredmény közötti különbséget.
 
-f) a képzésben részt vevők személyes költségei az a)–e) pontban felsorolt egyéb elszámolható költségek összegével egyező összegig.
+(7) A működési eredmény mértékét
 
-(3) A képzésben részt vevők személyes költségei csak a képzésben ténylegesen eltöltött idő mértékéig – a termelésben töltött idő levonása után – vehetők számításba.
+a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vagy
 
-(4) Az elszámolható költségeket dokumentált bizonyítékokkal kell alátámasztani, áttekinthetően és tételesen részletezve.
+b) visszafizetési mechanizmus alkalmazásával utólag
 
-(5) Az egyes – azonos elszámolható költségekkel rendelkező – projektekhez nyújtható, bármely támogatás támogatási intenzitása nem haladhatja meg a (6)–(8) bekezdésben meghatározott mértékeket.
-
-(6) A támogatási intenzitás nem haladhatja meg
-
-a) általános képzés esetén az elszámolható költségek 60%-át,
-
-b) speciális képzés esetén az elszámolható költségek 25%-át.
-
-(7) A (6) bekezdés szerinti támogatási intenzitás legfeljebb az elszámolható költségek 80%-ának megfelelő támogatási intenzitásig növelhető a következők szerint:
-
-a) 10 százalékponttal a fogyatékkal élő vagy hátrányos helyzetű munkavállalók képzéséhez nyújtott támogatás esetén,
-
-b) 10 százalékponttal, ha a támogatást középvállalkozásnak, és 20 százalékponttal, ha a támogatást kisvállalkozásnak nyújtják.
-
-(8) Ha valamely projektben speciális és általános képzési elemek szerepelnek, amelyek a képzés támogatási intenzitásának kiszámítása szempontjából egymástól nem választhatók el, vagy ha a projektben szereplő képzés speciális vagy általános jellege nem állapítható meg, a (6) bekezdés b) pontja szerinti támogatási intenzitást kell alkalmazni.
+[^155]: A 68. alcím (164. §) a 35/2016. (II. 29.) Korm. rendelet 44. §-ával megállapított szöveg.

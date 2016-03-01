@@ -28,4 +28,8 @@
 
 13. megszervezi az éves ülést,
 
-14. gondoskodik a tájékoztatási és nyilvánossági kötelezettségek teljesítéséről.
+14. gondoskodik a tájékoztatási és nyilvánossági kötelezettségek teljesítéséről,
+
+15.[^7] a hitelesítést végző szerv által szolgáltatott adatok alapján benyújtja az igazoló hatóság részére a kifizetési ütemterveket.
+
+[^7]: A 6. § 15. pontját a 35/2016. (II. 29.) Korm. rendelet 3. §-a iktatta be.
