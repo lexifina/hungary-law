@@ -1,0 +1,1 @@
+## „(6) A fizetési kötelezettségek késedelmes teljesítése esetén a késedelembe eső fél a késedelembe esés napjától a kifizetés napjáig terjedő időszakra a Polgári Törvénykönyv által előírt mértékű késedelmi kamatot és behajtási költségátalányt köteles fizetni a másik fél részére.”
