@@ -8,5 +8,19 @@
 
 (3) Ez a rendelet az Európai Atomenergia-közösség létrehozásáról szóló szerződés III. fejezet 33. cikkének való megfelelést szolgálja.
 
+(4)[^5] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete C. függelékének a TCEP, a TCPP és a TDCP tekintetében történő módosításáról szóló, 2014. június 20-i 2014/79/EU bizottsági irányelvnek való megfelelést szolgálja.
+
+(5)[^6] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete C. függelékének a biszfenol-A tekintetében történő módosításáról szóló, 2014. június 23-i 2014/81/EU bizottsági irányelvnek való megfelelést szolgálja.
+
+(6)[^7] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete A. függelékének a nikkel tekintetében történő módosításáról szóló, 2014. június 30-i 2014/84/EU bizottsági irányelvnek való megfelelést szolgálja.
+
+(7)[^8] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete III. részének módosításáról szóló, 2013. július 17-i 681/2013/EU bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^3]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 25. § a 26/2012. (VIII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 25. § (4) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
+[^6]: A 25. § (5) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
+[^7]: A 25. § (6) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
+[^8]: A 25. § (7) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.

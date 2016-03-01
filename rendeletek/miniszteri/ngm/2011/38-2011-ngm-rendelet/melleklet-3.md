@@ -264,7 +264,7 @@
 
 |  | Arzén | 3,8 | 0,9 | 47 |
 
-|  | Bárium | 4 500 | 1125 | 56 000 |
+|  | Bárium | 1 500 | 375 | 18 750 |
 
 |  | Bór | 1 200 | 300 | 15 000 |
 
@@ -415,6 +415,20 @@
 ## 2011. július 20-tól 2015. május 31-ig a Bizottság határozatával, a veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló 44/2000. (XII. 27.) EüM rendelet vonatkozó rendelkezéseivel összhangban 1. vagy 2. kategóriájú CMR-anyagként meghatározott keverékeket érinti.
 
 ## 2015. június 1-jétől a Bizottság határozatával, az 1272/2008/EK európai parlamenti és tanácsi rendelettel összhangban 1A., 1B. és 2. kategóriájú CMR-anyagként meghatározott keverékeket érinti.
+
+## C. függelék
+
+## Egyedi határértékek a 36 hónaposnál fiatalabb gyermekek általi használatra szánt játékokban vagy más szájba vehető játékokban használt vegyi anyagok tekintetében
+
+| Anyag | CAS-szám | Határérték |
+
+| TCEP | 115-96-8 | 5 mg/kg (tartalomra vonatkozó határérték) |
+
+| TCPP | 13674-84-5 | 5 mg/kg (tartalomra vonatkozó határérték) |
+
+| TDCP | 13674-87-8 | 5 mg/kg (tartalomra vonatkozó határérték) ” |
+
+| Biszfenol-A | 80-05-7 0,1 mg/l (kioldódási határérték) | az EN 71-10:2005 és az EN 71-11:2005 szabványban meghatározott módszereknek megfelelően |
 
 3. melléklet a 38/2011. (X. 5.) NGM rendelethez
 
