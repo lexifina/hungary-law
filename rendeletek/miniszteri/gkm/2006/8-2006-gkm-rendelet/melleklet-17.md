@@ -116,6 +116,6 @@
 
 ## 10. Biztosítani kell, hogy a forgalmazó vagy a vízmérő felszerelésére jogszabály alapján kijelölt személy úgy határozza meg az 1., 2. és 3. pont szerinti követelményeket, hogy a mérő az előirányzott vagy előrelátható fogyasztást pontosan tudja mérni.
 
-17. melléklet a 8/2006. (II. 27.) GKM rendelethez[^10]
+17. melléklet a 8/2006. (II. 27.) GKM rendelethez[^13]
 
-[^10]: A 17. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (6) bekezdése szerint módosított szöveg.
+[^13]: A 17. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (6) bekezdése szerint módosított szöveg.

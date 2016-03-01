@@ -164,6 +164,6 @@
 
 ## c) Az 1.2. és 1.3. pont követelményei tekintetében biztosítani kell, hogy a forgalmazó vagy a mérő felszerelésére jogszabály alapján kijelölt személy úgy határozza meg a jellemzőket, hogy a mérő az előirányzott vagy előrelátható fogyasztást pontosan tudja mérni.
 
-18. melléklet a 8/2006. (II. 27.) GKM rendelethez[^11]
+18. melléklet a 8/2006. (II. 27.) GKM rendelethez[^14]
 
-[^11]: A 18. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (7) bekezdése szerint módosított szöveg.
+[^14]: A 18. melléklet a 16/2010. (IV. 28.) NFGM rendelet 20. § (7) bekezdése szerint módosított szöveg.
