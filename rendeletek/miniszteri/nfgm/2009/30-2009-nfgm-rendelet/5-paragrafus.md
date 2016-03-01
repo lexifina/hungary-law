@@ -1,6 +1,6 @@
-## 4. §[^4] A nyilvántartásban szereplő adatokban történt változást a gázszerelő köteles bejelenteni és igazolni a Hatóságnál.
+## 4. §[^9]
 
-5. §[^5] (1) A Hatóság megtiltja a tevékenység végzését, ha
+5. §[^10] (1) A Hatóság megtiltja a tevékenység végzését, ha
 
 a) a gázszerelő nem felel meg az e rendeletben meghatározott feltételeknek,
 
@@ -26,5 +26,5 @@ a) továbbképzési kötelezettsége teljesítését igazolja, amennyiben a tev�
 
 b) tevékenységet megtiltó határozat jogerőre emelkedésétől számított egy év eltelt, és a gázszerelő eleget tett továbbképzési kötelezettségének, amennyiben a tevékenység megtiltására az a) pontban meghatározotthoz képest egyéb okból került sor.
 
-[^4]: A 4. § a 35/2015. (XII. 23.) NGM rendelet 6. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^5]: Az 5. § a 35/2015. (XII. 23.) NGM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^9]: A 4. §-t a 7/2016. (II. 22.) NGM rendelet 8. § (8) bekezdése hatályon kívül helyezte.
+[^10]: Az 5. § a 35/2015. (XII. 23.) NGM rendelet 6. § (3) bekezdésével megállapított szöveg.

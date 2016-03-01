@@ -1,8 +1,8 @@
-## A gázszerelői bejelentés adattartalma
+## A gázszerelői nyilvántartásba vételre irányuló kérelem adattartalma
 
 | I. | Tevékenység megnevezése: Gázszerelés |
 
-| II. | Bejelentő |
+| II. | Kérelmező |
 
 | 1. | Neve: |
 
@@ -22,11 +22,13 @@
 
 | 9. | Telefonszáma: | Elektronikus levélcíme: | Faxszáma: |
 
-| 10. | Díjfizető neve: |
+| 10. | Gázszerelői igazolvány száma (módosítás vagy hosszabbítás esetén töltendő ki): |
 
-| 11. | Számlázási címe: |
+| 11. | Díjfizető neve: |
 
-| 12. | A díjfizető adószáma vagy adóazonosító jele: |
+| 12. | Számlázási címe: |
+
+| 13. | A díjfizető adószáma vagy adóazonosító jele: |
 
 | III. | Nyilatkozat |
 
@@ -40,43 +42,43 @@
 
 |  | ...................................................... száma | ......................................................kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | ................................................................................................................................................................................ kiállító intézmény megnevezése |
 
 | 2. | Gáz- és olajtüzelőberendezés-szerelő, üzembe helyező vagy gáz- és tüzeléstechnikai műszerész mestervizsga |
 
 |  | ...................................................... száma | ......................................................kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | ............................................................................................................................................................................... kiállító intézmény megnevezése |
 
 | 3. | Épületgépész mérnök, gázipari mérnök, vegyipari gépészmérnök, gázipari szakmérnök, épületgépész üzemmérnök, gázszolgáltatói szak-üzemmérnök szakképzettség |
 
 |  | ...................................................... száma | ......................................................kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | ................................................................................................................................................................................ kiállító intézmény megnevezése |
 
 | 4. | Épületgépész technikus, gázipari technikus szakképesítés |
 
 |  | ...................................................... száma | ......................................................kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | ................................................................................................................................................................................ kiállító intézmény megnevezése |
 
-| 5. | Gázvezeték és -készülékszerelő, gázfogyasztó-berendezés- és csőhálózat-szerelő, központifűtés- és gázhálózat rendszerszerelő szakképesítés |
+| 5. | Gázvezeték és -készülékszerelő, gázfogyasztóberendezés- és csőhálózat-szerelő, központifűtés- és gázhálózat rendszerszerelő szakképesítés |
 
 |  | ...................................................... száma | ......................................................kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | ............................................................................................................................................................................... kiállító intézmény megnevezése |
 
 | 6. | Gáz- és tüzeléstechnikai műszerész, gáz- és hőtermelő berendezés-szerelő szakképesítés, |
 
 |  | ...................................................... száma | ...................................................... kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | .............................................................................................................................................................................................. kiállító intézmény megnevezése |
 
 | 7. | Gázipari műszaki-biztonsági felülvizsgáló szakképesítés |
 
 |  | ...................................................... száma | ...................................................... kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | .............................................................................................................................................................................................. kiállító intézmény megnevezése |
 
 | Egyéb szakmai képzettség (a tevékenységhez kapcsolódó szakképesítések, tanfolyamok) |
 
@@ -84,19 +86,19 @@
 
 |  | ...................................................... száma | ...................................................... kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | .............................................................................................................................................................................................. kiállító intézmény megnevezése |
 
 | 9. |  |
 
 |  | ...................................................... száma | ...................................................... kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | .............................................................................................................................................................................................. kiállító intézmény megnevezése |
 
 | 10. |  |
 
 |  | ...................................................... száma | ...................................................... kelte |
 
-|  | kiállító intézmény megnevezése |
+|  | .............................................................................................................................................................................................. kiállító intézmény megnevezése |
 
 | V. | E rendeletben előírt, a kérelemhez mellékletben csatolt igazolások, minősítések, nyilatkozatok felsorolása |
 
@@ -106,6 +108,8 @@
 
 | 3. | Igazolványkép (2 db, egy évnél nem régebbi) |  |
 
-2. melléklet a 30/2009. (XI. 26.) NFGM rendelethez[^9]
+| 4. | A legalább 10 óra személyes jelenléti továbbképzés teljesítését igazoló okirat |  |
 
-[^9]: A 2. melléklet a 19/2012. (VII. 20.) NGM rendelet 5. §-ával megállapított, a 35/2015. (XII. 23.) NGM rendelet 6. § (6) bekezdése szerint módosított szöveg.
+2. melléklet a 30/2009. (XI. 26.) NFGM rendelethez[^15]
+
+[^15]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 8. § (7) bekezdésével megállapított szöveg.
