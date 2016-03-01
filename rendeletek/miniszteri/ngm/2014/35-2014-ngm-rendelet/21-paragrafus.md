@@ -1,8 +1,8 @@
 ## 9. Javítás utáni biztonságtechnikai ellenőrzés
 
-21. § (1) A gázpalackon végzett minden engedélyköteles javítás vagy átalakítás után a 17. § (1) bekezdésében megjelölt szervezet – függetlenül az időszakos biztonságtechnikai ellenőrzés időszerűségétől – ellenőrzést végez.
+21. §[^10] (1) A gázpalackon végzett minden bejelentés-köteles javítás vagy átalakítás után a 17. § (1) bekezdésében megjelölt szervezet – függetlenül az időszakos biztonságtechnikai ellenőrzés időszerűségétől – ellenőrzést végez.
 
-(2) Az ellenőrzés során a 17. § (1) bekezdésében megjelölt szervezet megállapítja, hogy a gázpalack megfelel-e a javítási vagy átalakítási engedélyben foglaltaknak és a (3) bekezdésben foglalt követelményeknek. Megfelelőség esetén a gázpalackra maradandóan el kell helyezni
+(2) Az ellenőrzés során a 17. § (1) bekezdésében megjelölt szervezet megállapítja, hogy a gázpalack megfelel-e a javítási vagy átalakítási a 7. §-ban meghatározott műszaki dokumentációban foglaltaknak, a Hatóság által tett egyedi előírásoknak és a (3) bekezdésben foglalt követelményeknek. Megfelelőség esetén a gázpalackra maradandóan el kell helyezni
 
 a) az ellenőrzés időpontját (az év utolsó két számjegye/hó/nap);
 
@@ -17,3 +17,5 @@ c) a következő időszakos biztonságtechnikai ellenőrzés évének két utols
 (5) Alumíniumötvözetű gázpalackok kivételével a talpgyűrű cseréjénél a töltő vagy karbantartó gazdálkodó szervezetnek dokumentálnia kell a gázpalack talpgyűrű csere előtti és utáni tömegét.
 
 (6) A szerelvények és tartozékok javításának megfelelőségét a töltő vagy karbantartó gazdálkodó szervezet ellenőrzi.
+
+[^10]: A 21. § a 7/2016. (II. 22.) NGM rendelet 12. § (6) bekezdésével megállapított szöveg.

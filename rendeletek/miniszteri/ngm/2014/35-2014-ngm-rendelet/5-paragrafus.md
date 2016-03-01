@@ -2,6 +2,8 @@
 
 a) a gázpalack töltetét megváltoztatni;
 
-b) a gázpalack, a palackszelep és a hozzá csatlakozó nyomáscsökkentő javítását, átalakítását elvégezni; vagy
+b)[^4]
 
 c) a gázpalackba beütött megjelölést, színjelzést módosítani.
+
+[^4]: Az 5. § b) pontját a 7/2016. (II. 22.) NGM rendelet 12. § (8) bekezdése hatályon kívül helyezte.
