@@ -1,7 +1,11 @@
-6. § (1) A Befogadó a kereskedelmi szabályzatban meghatározottak szerint állapítja meg a következő havi összesített KÁT átadási menetrend mennyiségi értékét. A megállapított mennyiségi értéknek alacsonyabbnak kell lennie az Értékesítők által megadott havi menetrendek alapján meghatározott villamos energia mennyiségek összegénél.
+## arányában állapítja meg.
 
-(2) A Befogadó az összesített KÁT átadási menetrend mennyiségi értéke és a szétosztási aránytényezők alapján tervezi az egyes átvételre kötelezett mérlegkör felelősök következő havi, átadási profil szerinti KÁT átadási menetrendjeit.
+## 6. §[^12] A Befogadó az átvételre kötelezett mérlegkör-felelős által kötelezően fizetendő korrekciós hozzájárulás ráeső összegét
 
-(3) A Befogadó az átvételre kötelezett mérlegkör felelős által kötelezően átveendő havi villamos energia mennyiséget az átvételre kötelezett mérlegkör felelősre vonatkozó, 5. § (1) bekezdés alapján meghatározott szétosztási aránytényező és az összesített KÁT átadási menetrend mennyiségi értékének szorzataként állapítja meg.
+a) az átvételre kötelezett mérlegkör-felelősre vonatkozó, 5. § (1) bekezdése alapján meghatározott szétosztási aránytényező és a 8. § (2) bekezdése szerinti tételek előjelhelyes összege szorzatának és
 
-(4) A Befogadó minden naptári hónap 10. munkanapjáig meghatározza, és az átvételre kötelezett mérlegkör felelős részére a Befogadó üzletszabályzata szerinti formában megadja a havi KÁT átadási menetrendet.
+b) a 2016. február tárgyhóig terjedő termelési időszakban az átvételre kötelezett mérlegkör-felelős tervezett és tény értékesítési adatainak eltérése, illetve a korábbi tény értékesítési adatainak módosulása miatti, az adott átvételre kötelezett mérlegkör-felelős által korábban, kötelező átvétellel kapcsolatban megfizetett összegeinek még figyelembe nem vett módosulásainak, továbbá
+
+c) a b) pont szerinti módosulásokhoz tartozó korrekciós kamatoknak
+
+[^12]: A 6. § a 2/2016. (I. 27.) NFM rendelet 5. §-ával megállapított szöveg.

@@ -20,7 +20,7 @@
 
 9. kereskedelmi menetrend: a kereskedelmi szabályzatban meghatározott jellemzőkkel rendelkező menetrend, amely két magyarországi bejegyzésű mérlegkör közötti szállítás elszámolására szolgál;
 
-10. korrekciós kamat: a tervezett és a tény fogyasztási adat közötti eltérés után számított, az adott havi KÁT átadási menetrend meghatározásának napján érvényes jegybanki alapkamat az eltérés minden napjára;
+10.[^1] korrekciós kamat: a tervezett és a tény értékesítési adat közötti eltérés után számított, az adott havi KÁT átadási menetrend utolsó szállítási napján érvényes jegybanki alapkamat az eltérés minden napjára;
 
 11. összesített KÁT termelés: a havi termelési menetrendek alapján meghatározott összesített villamosenergia-mennyiség;
 
@@ -28,8 +28,21 @@
 
 13. technikai költség: a szervezett villamosenergia-piacon történő értékesítés költségei;
 
-14. tervezett fogyasztási adat: az átvételre kötelezett mérlegkör felelős által megadott, a mérlegkörére vonatkozó, a következő hónapra prognosztizált fogyasztási adat, amely a VET 13. §-a szerinti mennyiségeket és a hálózati engedélyesek hálózati veszteségét nem tartalmazza;
+14.[^2] tervezett értékesítési adat: az átvételre kötelezett mérlegkör felelős által megadott, a mérlegkörére vonatkozó, a következő hónapra prognosztizált értékesítési adat, amely a VET 13. §-a szerinti mennyiségeket és a hálózati engedélyesek hálózati veszteségét nem tartalmazza;
 
-15. tény fogyasztási adat: az átvételre kötelezett mérlegkör felelős mérlegkörének a kereskedelmi szabályzat szerint, az átviteli rendszerirányítónál a kiegyenlítő energia elszámolásához rendelkezésre álló összesített fogyasztási adata az adott hónapban, amely a VET 13. §-a szerinti mennyiségeket és a hálózati engedélyesek hálózati veszteségét nem tartalmazza.
+15.[^3] tény értékesítési adat: az átvételre kötelezett mérlegkör-felelős mérlegkörének a kereskedelmi szabályzat szerint, az átviteli rendszerirányítónál a kiegyenlítő energia elszámolásához rendelkezésre álló összesített fogyasztási adata az adott hónapban, amely a VET 13. § (2) bekezdése szerinti mennyiségeket, valamint a kereskedelmi szabályzat szerinti termelői saját felhasználást és a hálózati engedélyesek hálózati veszteségét nem tartalmazza;
+
+16.[^4] KÁT pénzeszköz: a VET 9. § (2) bekezdése szerinti kötelező átvételi rendszer működtetéséhez szükséges, mérlegkör-felelősök által viselendő költségek összege;
+
+17.[^5] napi termelési menetrend: az Értékesítő által a Befogadó részére előzetesen megadott, az Értékesítőnek a nap minden elszámolási mérési időintervallumára vonatkozó tervezett termelési adatait tartalmazó menetrend;
+
+18.[^6] tárgyhónap: az a havi elszámolási időszak, melyre a számla vagy számviteli bizonylat vonatkozik.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, valamint annak felhatalmazása alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdés 10. pontja a 2/2016. (I. 27.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 14. pontja a 2/2016. (I. 27.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés 15. pontja a 2/2016. (I. 27.) NFM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés 16. pontját a 2/2016. (I. 27.) NFM rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (1) bekezdés 17. pontját a 2/2016. (I. 27.) NFM rendelet 1. §-a iktatta be.
+[^6]: Az 1. § (1) bekezdés 18. pontját a 2/2016. (I. 27.) NFM rendelet 1. §-a iktatta be.

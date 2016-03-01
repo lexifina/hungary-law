@@ -6,4 +6,6 @@
 
 (4) A KÁT hatálya alá tartozó villamos energia szervezett villamosenergia-piacon történő értékesítésének részletes szabályait a kereskedelmi szabályzat tartalmazza.
 
-(5) Amennyiben a szervezett villamosenergia-piacon történő kereskedés felfüggesztésre kerül, a Befogadó jogosult a felfüggesztés időszakára vonatkozóan a 7. § (4) bekezdés szerint megállapított tervezett havi KÁT átadási menetrend és a napi KÁT átadási menetrendek mennyiségi értékét a szervezett villamosenergia-piacon értékesíteni tervezett mennyiség értékével megnövelni.
+(5)[^18]
+
+[^18]: A 10. § (5) bekezdését a 2/2016. (I. 27.) NFM rendelet 11. § d) pontja hatályon kívül helyezte.
