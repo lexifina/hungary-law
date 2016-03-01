@@ -1,0 +1,1 @@
+## „(5) Partnerségi projekt esetén a projektgazda köteles gondoskodni arról, hogy a kifizetés igénylés a projekt partnerek által igényelt támogatáshoz kapcsolódó adatokat és dokumentumokat is tartalmazza.”

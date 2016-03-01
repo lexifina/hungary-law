@@ -1,0 +1,3 @@
+## 6. § A 326/2012. (XI. 16.) Korm. rendelet 18. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) Az (1)–(4) bekezdés szerinti összeférhetetlenségi szabályok alól részben vagy egészben mentesítés adható, ha a donor országok döntése értelmében egy szervezeten belül kerülnek ellátásra a nemzeti szintű szerv, a program szintű szerv és a kedvezményezett egyes feladatai. Ebben az esetben a szervezeten belüli funkcionális és személyi elkülönítés biztosítása módját belső szabályzatban, valamint ennek alapján az irányítási és kontrollrendszer leírásában, továbbá az ellenőrzési nyomvonalban szükséges rögzíteni.”

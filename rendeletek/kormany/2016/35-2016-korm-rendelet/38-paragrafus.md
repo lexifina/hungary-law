@@ -1,0 +1,1 @@
+## „(4) Az igazoló hatóság nem rendezheti azon támogatási összeg donor hozzájárulás részét, amely olyan költséget tartalmaz, amelyre vonatkozóan szabálytalansági eljárás van folyamatban vagy amelyre vonatkozóan szabálytalanságot állapítottak meg.”
