@@ -1,1 +1,0 @@
-A mérésügyről szóló 1991. évi XLV. törvény végrehajtásáról rendelkező 127/1991. (X. 9.) Korm. rendelet 15. §-ában kapott felhatalmazás alapján a következőket rendelem el:
