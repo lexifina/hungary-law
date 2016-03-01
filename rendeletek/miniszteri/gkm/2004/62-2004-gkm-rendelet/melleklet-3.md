@@ -4,7 +4,7 @@
 
 ## 1.1. A mérlegeken a következő feliratokat és jelöléseket kell feltüntetni:
 
-## a)[^19] a 3. számú melléklet szerinti CE jelölést,
+## a)[^22] a 3. számú melléklet szerinti CE jelölést,
 
 ## b) legalább 12,5 mm x 12,5 mm-es méretű négyszög alakú, zöld címke, amelyben fekete színű nyomtatott ,,M'' nagybetű áll,
 
@@ -62,7 +62,7 @@
 
 ## 25 mm x 25 mm méretű, négyszög alakú címke, amelyben piros mezőben egymást keresztező átlóval fekete színű nyomtatott ,,M'' nagybetű áll.
 
-3. számú melléklet a 62/2004. (IV. 24.) GKM rendelethez[^20]
+3. számú melléklet a 62/2004. (IV. 24.) GKM rendelethez[^23]
 
 CE megfelelőségi jelölés
 
@@ -72,5 +72,5 @@ CE megfelelőségi jelölés
 
 3. A CE jelölés különböző elemeinek magassága azonos, de 5 mm-nél kisebb nem lehet.
 
-[^19]: A 2. számú melléklet 1.1. pontjának a) alpontja a 20/2005. (IV. 12.) GKM rendelet 6. §-a szerint módosított szöveg.
-[^20]: A 3. számú melléklet a 20/2005. (IV. 12.) GKM rendelet 7. §-ával megállapított szöveg.
+[^22]: A 2. számú melléklet 1.1. pontjának a) alpontja a 20/2005. (IV. 12.) GKM rendelet 6. §-a szerint módosított szöveg.
+[^23]: A 3. számú melléklet a 20/2005. (IV. 12.) GKM rendelet 7. §-ával megállapított szöveg.
