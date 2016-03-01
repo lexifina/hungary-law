@@ -26,7 +26,7 @@ i) az eljárás alá vont személlyel
 
 összefüggő személyazonosításra nem alkalmas tény, valamint az e tényből levont következtetés.
 
-2.[^34] szabálysértési statisztikai adatgyűjtők:
+2.[^35] szabálysértési statisztikai adatgyűjtők:
 
 a) a szabálysértés miatt eljáró hatóságok,
 
@@ -36,6 +36,9 @@ c) a helyszíni bírság kiszabására jogosult szervek és személyek,
 
 d) a szabálysértési elzárást, a felfüggesztett szabálysértési elzárást, a meg nem fizetett pénzbírság helyébe lépő szabálysértési elzárást, illetve a nem teljesített közérdekű munka helyébe lépő szabálysértési elzárást végrehajtó büntetés-végrehajtási intézetek,
 
-e) a közérdekű munka végrehajtásában közreműködő állami foglalkoztatási szerv a 3. melléklet 4. pont a) alpontjában meghatározott adatok tekintetében.
+e) a közérdekű munka végrehajtásában közreműködő állami foglalkoztatási szerv a 3. melléklet 4. pont a) alpontjában meghatározott adatok tekintetében,
 
-[^34]: A 32. § 2. pontja a 81/2015. (XII. 23.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
+f)[^36] az általános rendőrségi feladatokat ellátó szerv központi szerve a pénzbírság vagy a helyszíni bírság végrehajtása keretében a befizetések Szabs. tv. 141. § (2d) bekezdése szerinti ellenőrzése során a 3. melléklet 4. pont c) alpontjában meghatározott adatok tekintetében.
+
+[^35]: A 32. § 2. pontja a 81/2015. (XII. 23.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^36]: A 33. § 2. pont f) alpontját a 81/2015. (XII. 23.) BM rendelet 13. § (2) bekezdése iktatta be.

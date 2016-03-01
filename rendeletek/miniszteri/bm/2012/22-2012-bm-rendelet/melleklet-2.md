@@ -46,6 +46,6 @@
 
 | * Az eljáró szabálysértési hatóság állapítja meg. |
 
-2. melléklet a 22/2012. (IV. 13.) BM rendelethez[^47]
+2. melléklet a 22/2012. (IV. 13.) BM rendelethez[^50]
 
-[^47]: A 2. mellékletet a 21/2013. (VI. 7.) BM rendelet 3. § (4) bekezdése iktatta be.
+[^50]: A 2. mellékletet a 21/2013. (VI. 7.) BM rendelet 3. § (4) bekezdése iktatta be.

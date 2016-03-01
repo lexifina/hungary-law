@@ -20,7 +20,7 @@ h) a lefoglalt dolog ismertetőjeleit,
 
 i) az azonosításra alkalmas jel (pl. pecsét, ólomzár) alkalmazását,
 
-j)[^33] a lefoglalt dologra vonatkozó elismervény átadásának tényét, ideértve az ideiglenesen elvett dologról átadott átvételi elismervény tényét is,
+j)[^34] a lefoglalt dologra vonatkozó elismervény átadásának tényét, ideértve az ideiglenesen elvett dologról átadott átvételi elismervény tényét is,
 
 k) azt a tényt, hogy a dolgot a lefoglalást végrehajtó szerv elszállítja-e vagy birtokban hagyja, valamint
 
@@ -34,4 +34,4 @@ l) a lefoglalást elszenvedő személy lefoglalás elleni panasz kérdésében t
 
 (5) A lefoglalt dolgot állagsérelem nélkül, azonosításra alkalmas jellel (így különösen lefoglalt dologcímke, pecsét, ólomzár) kell ellátni.
 
-[^33]: A 27. § (1) bekezdés j) pontja a 81/2015. (XII. 23.) BM rendelet 18. § 5. pontja szerint módosított szöveg.
+[^34]: A 27. § (1) bekezdés j) pontja a 81/2015. (XII. 23.) BM rendelet 18. § 5. pontja szerint módosított szöveg.
