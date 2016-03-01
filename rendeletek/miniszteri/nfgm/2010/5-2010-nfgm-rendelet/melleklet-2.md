@@ -226,44 +226,52 @@
 
 ## 3 Ennek kitöltése a kérelem papíralapú beküldése esetén szükséges.
 
-2. melléklet az 5/2010. (I. 14.) NFGM rendelethez
+2. melléklet az 5/2010. (I. 14.) NFGM rendelethez[^5]
 
-A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mértéke
+| A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mértéke |
 
-| Sor- szám | A megfelelőségértékelési területet szabályozó jogszabály | A felelősségbiztosítás legalább az alábbi összeghatárig nyújtson fedezetet (forint) |
+|  | A | B |
 
-| 1. | 7/2007. (I. 22.) GKM rendelet a mutatványos berendezések biztonságosságáról | 10 000 000 |
+| 1. | A megfelelőségértékelési területet szabályozó jogszabály | A felelősségbiztosítás legalább az alábbi összeghatárig nyújtson fedezetet (forint) |
 
-| 2. | 91/2006. (XII. 26.) GKM rendelet a csomagolás környezetvédelmi követelményeknek való megfelelősége igazolásának részletes szabályairól | 5 000 000 |
+| 2. | a mutatványos berendezések biztonságosságáról szóló jogszabály | 10 000 000 |
 
-| 3. | 62/2006. (VIII. 30.) GKM rendelet az elektromágneses összeférhetőségről | 10 000 000 |
+| 3. | a csomagolás környezetvédelmi követelményeknek való megfelelősége igazolásának részletes szabályairól szóló jogszabály | 5 000 000 |
 
-| 4. | 155/2003. (X. 1.) Korm. rendelet a polgári célú pirotechnikai tevékenységek felügyeletéről | 50 000 000 |
+| 4. | az elektromágneses összeférhetőségről szóló jogszabály | 10 000 000 |
 
-| 5. | 78/2003. (XI. 27.) GKM rendelet a játszótéri eszközök biztonságosságáról | 10 000 000 |
+| 5. | a játszótéri eszközök biztonságosságáról szóló jogszabály | 10 000 000 |
 
-| 6. | 8/2003. (II. 19.) GKM rendelet a szállítható nyomástartó berendezések biztonsági követelményeiről és megfelelőség-tanúsításáról | 50 000 000 |
+| 6. | a szállítható nyomástartó berendezések biztonsági követelményeiről és megfelelőség-tanúsításáról szóló jogszabály | 50 000 000 |
 
-| 7. | 3/2003. (I. 25.) BM–GKM–KvVM együttes rendelet az építési termékek műszaki követelményeinek, megfelelőség igazolásának, valamint forgalomba hozatalának és felhasználásának részletes szabályairól | 10 000 000–50 000 000 |
+| 7. | Az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 305/2011/EU (2011. március 9.) európai parlamenti és tanácsi irányelv | 10 000 000-50 000 000 |
 
-| 8. | 191/2002. (IX. 4.) Korm. rendelet a polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről | 50 000 000 |
+| 8. | a polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló jogszabály | 50 000 000 |
 
-| 9. | 8/2002. (II. 16.) GM rendelet a potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések, védelmi rendszerek vizsgálatáról és tanúsításáról | 50 000 000 |
+| 9. | a potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések, védelmi rendszerek vizsgálatáról és tanúsításáról szóló jogszabály | 50 000 000 |
 
-| 10. | 140/2001. (VIII. 8.) Korm. rendelet az egyes kültéri berendezések zajkibocsátási követelményeiről és megfelelőségük tanúsításáról | 10 000 000 |
+| 10. | az egyes kültéri berendezések zajkibocsátási követelményeiről és megfelelőségük tanúsításáról szóló jogszabály | 10 000 000 |
 
-| 11. | 108/2001. (XII. 23.) FVM–GM együttes rendelet a felvonók biztonsági követelményeiről és megfelelőségének tanúsításáról | 30 000 000 |
+| 11. | a felvonók biztonsági követelményeiről és megfelelőségének tanúsításáról szóló jogszabály | 30 000 000 |
 
-| 12. | 9/2001. (IV. 5.) GM rendelet a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról | 50 000 000 |
+| 12. | a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló jogszabály | 50 000 000 |
 
-| 13. | 24/1998. (IV. 29.) IKIM–NM együttes rendelet a gyermekjátékszerek biztonságossági követelményeiről, vizsgálatáról és tanúsításáról | 10 000 000 |
+| 13. | a gyermekjátékok biztonságáról szóló jogszabály | 10 000 000 |
 
-| 14. | 22/1998. (IV. 17.) IKIM rendelet egyes gázfogyasztó készülékek kialakításáról és megfelelőségének tanúsításáról | 30 000 000 |
+| 14. | az egyes gázfogyasztó készülékek kialakításáról és megfelelőségének tanúsításáról szóló jogszabály | 30 000 000 |
 
-| 15. | 16/2008. (VIII. 30.) NFGM rendelet a gépek biztonsági követelményeiről és megfelelőségének tanúsításáról | 20 000 000 |
+| 15. | a gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló jogszabály | 20 000 000 |
 
-| 16. | 20/1998. (IV. 17.) IKIM rendelet a gáznemű vagy folyékony tüzelőanyaggal üzemelő melegvízkazánok hatásfok követelményeiről és megfelelőségének tanúsításáról | 10 000 000 |
+| 16. | a gáznemű vagy folyékony tüzelőanyaggal üzemelő melegvízkazánok hatásfok követelményeiről és megfelelőségének tanúsításáról szóló jogszabály | 10 000 000 |
 
-| 17. | 14/1998. (XI. 27.) GM rendelet a Gázpalack Biztonsági Szabályzatról | 50 000 000 |
+| 17. | az egyes villamossági termékek biztonsági követelményeiről és az azoknak való megfelelőség értékeléséről szóló jogszabály | 20 000 000 |
 
-| 18. | 79/1997. (XII. 31.) IKIM rendelet az egyes villamossági termékek biztonsági követelményeiről és az azoknak való megfelelőség értékeléséről | 20 000 000 |
+| 18. | a mérőeszközökre vonatkozó egyedi előírásokról szóló jogszabály | 30 000 000 |
+
+| 19. | a nem automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló jogszabály | 5 000 000 |
+
+| 20. | az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló jogszabály | 10 000 000-50 000 000 |
+
+| 21. | az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló jogszabály | 50 000 000 |
+
+[^5]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 9. §-ával megállapított szöveg.
