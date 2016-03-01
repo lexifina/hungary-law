@@ -1,8 +1,8 @@
 ## Egyedi ellenőrzés (G modul)
 
-## 1.[^77] Az egyedi ellenőrzés az az eljárás, amellyel a gyártó biztosítja és kijelenti, hogy a 2. pontban hivatkozott tanúsítvánnyal kibocsátott berendezés vagy védelmi rendszer megfelel e rendelet rá vonatkozó előírásainak. A gyártó vagy Európai Közösségben letelepedett meghatalmazott képviselője felerősíti a megjelölést a berendezésre vagy védelmi rendszerre, és kiállítja az EK megfelelőségi nyilatkozatot.
+## 1.[^79] Az egyedi ellenőrzés az az eljárás, amellyel a gyártó biztosítja és kijelenti, hogy a 2. pontban hivatkozott tanúsítvánnyal kibocsátott berendezés vagy védelmi rendszer megfelel e rendelet rá vonatkozó előírásainak. A gyártó vagy Európai Közösségben letelepedett meghatalmazott képviselője felerősíti a megjelölést a berendezésre vagy védelmi rendszerre, és kiállítja az EK megfelelőségi nyilatkozatot.
 
-## 2.[^78] A bejelentett szervezet megvizsgálja az egyedi terméket vagy védelmi rendszert és elvégzi a 8. § (2) bekezdésben hivatkozott vonatkozó szabvány(ok) szerinti megfelelő vizsgálatokat vagy egyenértékű vizsgálatokat, hogy ellenőrizze e rendelet vonatkozó követelményeinek való megfelelőséget. A bejelentett szervezet az elfogadott berendezésen vagy védelmi rendszeren rögzíti, vagy rögzítteti a saját azonosító számát, és kiállítja az elvégzett vizsgálatokra vonatkozó EK megfelelőségi tanúsítványt.
+## 2.[^80] A bejelentett szervezet megvizsgálja az egyedi terméket vagy védelmi rendszert és elvégzi a 8. § (2) bekezdésben hivatkozott vonatkozó szabvány(ok) szerinti megfelelő vizsgálatokat vagy egyenértékű vizsgálatokat, hogy ellenőrizze e rendelet vonatkozó követelményeinek való megfelelőséget. A bejelentett szervezet az elfogadott berendezésen vagy védelmi rendszeren rögzíti, vagy rögzítteti a saját azonosító számát, és kiállítja az elvégzett vizsgálatokra vonatkozó EK megfelelőségi tanúsítványt.
 
 ## 3. A műszaki dokumentációnak lehetővé kell tennie a termék jelen rendelet előírásainak való megfelelőségének értékelését és a termék vagy védelmi rendszer tervezésének, gyártásának és üzemelésének megértését.
 
@@ -20,7 +20,7 @@
 
 ## – vizsgálati jegyzőkönyvek.
 
-10. számú melléklet a 8/2002. (II. 16.) GM rendelethez[^79]
+10. számú melléklet a 8/2002. (II. 16.) GM rendelethez[^81]
 
 A CE megfelelőségi jelölés és az EK megfelelőségi nyilatkozat tartalma
 
@@ -34,7 +34,7 @@ A CE megfelelőségi jelölés az alábbi szimbólumokból áll, a következő f
 
 – ezt a minimális méretet nem kell tekintetbe venni az 1. § (2) bekezdésében hivatkozott kisméretű berendezések, védelmi rendszerek vagy készülékek esetében.
 
-2.[^80] Az EK megfelelőségi nyilatkozatnak tartalmaznia kell:
+2.[^82] Az EK megfelelőségi nyilatkozatnak tartalmaznia kell:
 
 2.1. a gyártó vagy Európai Unióban letelepedett meghatalmazott képviselőjének nevét, illetve azonosító jelét és címét,
 
@@ -52,7 +52,7 @@ A CE megfelelőségi jelölés az alábbi szimbólumokból áll, a következő f
 
 2.8. azon személy megnevezését, akinek jogában áll a gyártó vagy az Európai Unióban letelepedett meghatalmazott képviselője nevében aláírásával kötelezettséget vállalni.
 
-[^77]: A 9. számú melléklet 1. pontja a 49/2004. (IV. 22.) GKM rendelet 11. § (2) bekezdésének e) és g) pontja szerint módosított szöveg.
-[^78]: A 9. számú melléklet 2. pontja a 49/2004. (IV. 22.) GKM rendelet 11. § (2) bekezdésének f) pontja, a 16/2010. (IV. 28.) NFGM rendelet 13. § (2) bekezdése szerint módosított szöveg.
-[^79]: A 10. számú melléklet a 49/2004. (IV. 22.) GKM rendelet 10. §-ával megállapított szöveg.
-[^80]: A 10. számú melléklet 2. pontja a 16/2010. (IV. 28.) NFGM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^79]: A 9. számú melléklet 1. pontja a 49/2004. (IV. 22.) GKM rendelet 11. § (2) bekezdésének e) és g) pontja szerint módosított szöveg.
+[^80]: A 9. számú melléklet 2. pontja a 49/2004. (IV. 22.) GKM rendelet 11. § (2) bekezdésének f) pontja, a 16/2010. (IV. 28.) NFGM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^81]: A 10. számú melléklet a 49/2004. (IV. 22.) GKM rendelet 10. §-ával megállapított szöveg.
+[^82]: A 10. számú melléklet 2. pontja a 16/2010. (IV. 28.) NFGM rendelet 12. § (3) bekezdésével megállapított szöveg.

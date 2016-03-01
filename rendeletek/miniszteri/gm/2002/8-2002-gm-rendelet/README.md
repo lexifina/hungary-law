@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-8-20-83
 | --- | --- | --- |
 | 2008-05-16 | 2002-8-20-83.3 | 8/2002. (II. 16.) GM rendelet |
 | 2010-05-01 | 2002-8-20-83.4 | 16/2010. (IV. 28.) NFGM rendelet |
+| 2016-03-01 | 2002-8-20-83.5 | 7/2016. (II. 22.) NGM rendelet |
