@@ -1,0 +1,1 @@
+## 7. § A működtető szerv az információs önrendelkezési jogról szóló törvényben foglaltak szerint az érintett beteg kérelmére tájékoztatást ad a Protézis Regiszterben az érintettel kapcsolatban tárolt adatokról.

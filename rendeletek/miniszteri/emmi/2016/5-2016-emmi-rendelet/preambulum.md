@@ -1,0 +1,1 @@
+Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 38. § (2) bekezdés m) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
