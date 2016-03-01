@@ -20,6 +20,14 @@ d) a felderítés helye
 
 szerint illetékes.
 
+(2d) Ha a pénzbírság vagy a helyszíni bírság végrehajtására az általános szabálysértési hatóság rendelkezik feladat- és hatáskörrel, azok befizetésének ellenőrzésére az általános rendőrségi feladatokat ellátó szerv központi szerve is feladat- és hatáskörrel rendelkezik.
+
+(2e) A (2d) bekezdésben meghatározott feladat ellátása érdekében az általános szabálysértési hatóság elektronikus hozzáférést biztosít a beszedési számláinak kivonatához az általános rendőrségi feladatokat ellátó szerv központi szerve részére.
+
+(2f) Az általános szabálysértési hatóság az általános rendőrségi feladatokat ellátó szerv központi szerve részére a (2d) bekezdésben meghatározott feladat ellátása érdekében a 157. § (3a) bekezdése szerinti adatkörből rendelkezésére álló adatokat továbbítja. Az általános rendőrségi feladatokat ellátó szerv központi szerve a (2g) bekezdés szerinti feladatok ellátását követően ezeket az adatokat törli.
+
+(2g) Az általános rendőrségi feladatokat ellátó szerv központi szerve a (2d) bekezdésben meghatározott feladat ellátása során összeveti a feladatellátásával összefüggésben rendelkezésre álló adatokat, és az összevetés eredményeképpen elvégzi a 153. § (3) bekezdés h) pontja szerinti feladatokat.
+
 (3) A bíróság által kiszabott pénzbírság, szabálysértési költség, rendbírság befizetésének ellenőrzéséről és végrehajtásáról, a 39. § (2) bekezdés c)–i) pontjában meghatározottak által kiszabott helyszíni bírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
 (4) A bíróság az alkalmazott joghátrányokról, a jogerős határozat kiadmányának megküldésével értesíti a (3) bekezdésben meghatározott általános szabálysértési hatóságot.
