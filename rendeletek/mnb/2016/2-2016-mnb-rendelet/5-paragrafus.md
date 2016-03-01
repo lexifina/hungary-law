@@ -1,1 +1,3 @@
-## „(4) E § rendelkezéseit az elektronikus úton kezdeményezett eljárások tekintetében is alkalmazni kell.”
+## 1–4. §[^1]
+
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

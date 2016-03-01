@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-2-20-2C
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-02-29 | 2016-2-20-2C.1 | 2/2016. (I. 29.) MNB rendelet |
+| 2016-03-01 | 2016-2-20-2C.2 | 2010: CXXX. törvény |
