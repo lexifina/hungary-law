@@ -1,3 +1,5 @@
-## 4. §[^2]
+## 4. § A szabálysértési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés formájáról, módjáról és rendjéről, a szabálysértési nyilvántartó szerv által teljesített adatközlés rendjéről, valamint az egyes szabálysértési nyilvántartásokban kezelt adatokra tekintettel kiállított hatósági bizonyítvány kiadásának eljárási rendjéről szóló 21/2012. (IV. 13.) BM rendelet (a továbbiakban: 21/2012. BM rendelet) a következő 6/B. alcímmel egészül ki:
 
-[^2]: A 4. § a 28. § (2) bekezdése alapján 2016. március 1-jén lép hatályba.
+## „6/B. Az általános rendőrségi feladatokat ellátó szerv központi szerve adatközlési kötelezettsége
+
+## 11/B. § A pénzbírság vagy a helyszíni bírság befizetésének a Szabs. tv. 141. § (2d) bekezdése szerinti ellenőrzését követően a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában az általános rendőrségi feladatokat ellátó szerv központi szerve a Szabs. tv. 153. § (2) bekezdés f) pontjában és (2) bekezdés o) pont od) alpontjában meghatározott adatokat a befizetés azonosítását követően automatizált informatikai megoldással, az általános szabálysértési hatóság által használt informatikai rendszer közreműködésével rögzíti.”
