@@ -1,3 +1,5 @@
+## 2/A. §
+
 ## 3. A támogatás igénylése és mértéke
 
 3. § (1)[^6] Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató az Eütev. 30. §-a szerinti támogatás iránti igényét a 3. melléklet szerinti tartalommal elektronikus úton nyújtja be az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) részére.

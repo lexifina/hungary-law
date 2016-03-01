@@ -12,7 +12,7 @@ b) az adott év szeptember 1-je és az adott évet követő év február 28-a k�
 
 (4)[^13] A (3) bekezdés alapján megállapított vagy az 5. § (2) bekezdésében foglalt bejelentés figyelembe vételével módosított támogatási összeget az OEP havonta utalványozza a munkáltatónak.
 
-(5)[^14] Az e rendeletben foglalt támogatás fedezetéül a FinR. 5. számú melléklete szerinti Célelőirányzatok jogcímen belül az illetmény- és bérnövelés fedezeteként nevesített előirányzat szolgál.
+(5)[^14] Az e rendeletben foglalt támogatás fedezetéül az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5. számú melléklete szerinti Célelőirányzatok jogcímen belül az illetmény- és bérnövelés fedezeteként nevesített előirányzat szolgál.
 
 (6)[^15] A munkáltató a ténylegesen kifizetett összegekkel a 6. melléklet szerinti tartalommal számol el az OEP felé.
 
@@ -22,6 +22,6 @@ b) az adott év szeptember 1-je és az adott évet követő év február 28-a k�
 [^11]: A 4. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
 [^12]: A 4. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
 [^13]: A 4. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
-[^14]: A 4. § (5) bekezdése a 173/2015. (VII. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^14]: A 4. § (5) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 62. § b) pontja szerint módosított szöveg.
 [^15]: A 4. § (6) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (2) bekezdésével megállapított szöveg.
 [^16]: A 4. § (7) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (2) bekezdésével megállapított szöveg.
