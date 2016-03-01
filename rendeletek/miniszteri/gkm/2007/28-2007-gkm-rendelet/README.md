@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-28-20-0
 | 2010-05-01 | 2007-28-20-0L.5 | 16/2010. (IV. 28.) NFGM rendelet |
 | 2011-11-04 | 2007-28-20-0L.6 | 38/2011. (X. 5.) NGM rendelet |
 | 2012-05-04 | 2007-28-20-0L.7 | 9/2012. (V. 3.) NGM rendelet |
+| 2016-03-01 | 2007-28-20-0L.8 | 7/2016. (II. 22.) NGM rendelet |

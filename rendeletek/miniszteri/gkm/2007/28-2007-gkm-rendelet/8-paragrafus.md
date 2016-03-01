@@ -18,7 +18,13 @@ e)[^15] a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosít
 
 f)[^16] a Bizottság 2011/176/EU határozata (2011. március 21.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról;
 
-g)[^17] a Bizottság 2012/53/EU határozata (2012. január 27.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról.
+g)[^17] a Bizottság 2012/53/EU határozata (2012. január 27.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról;
+
+h)[^18] a Bizottság 2013/113/EU határozata (2013. március 1.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról;
+
+i)[^19] a Bizottság 2014/61/EU határozata (2014. február 5.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról;
+
+j)[^20] a Bizottság 2015/249/EU határozata (2014. február 10.) a kizárólag gyermekbiztos öngyújtók forgalomba hozatalát biztosító és az újszerű öngyújtók forgalomba hozatalát tiltó, tagállamok által meghozandó intézkedések előírásáról szóló 2006/502/EK határozat érvényességének meghosszabbításáról.
 
 [^11]: A 8. § (2) bekezdését a 27/2008. (XII. 20.) NFGM rendelet 20. § b) pontja hatályon kívül helyezte.
 [^12]: A 8. § (3) bekezdését a 69/2007. (VII. 23.) GKM rendelet 2. §-a iktatta be.
@@ -27,3 +33,6 @@ g)[^17] a Bizottság 2012/53/EU határozata (2012. január 27.) a kizárólag gy
 [^15]: A 8. § (3) bekezdés e) pontját a 16/2010. (IV. 28.) NFGM rendelet 24. §-a iktatta be.
 [^16]: A 8. § (3) bekezdés f) pontját a 38/2011. (X. 5.) NGM rendelet 26. §-a iktatta be.
 [^17]: A 8. § (3) bekezdés g) pontját a 9/2012. (V. 3.) NGM rendelet 1. §-a iktatta be.
+[^18]: A 8. § (3) bekezdés h) pontját a 7/2016. (II. 22.) NGM rendelet 6. §-a iktatta be.
+[^19]: A 8. § (3) bekezdés i) pontját a 7/2016. (II. 22.) NGM rendelet 6. §-a iktatta be.
+[^20]: A 8. § (3) bekezdés j) pontját a 7/2016. (II. 22.) NGM rendelet 6. §-a iktatta be.
