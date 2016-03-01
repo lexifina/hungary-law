@@ -2,23 +2,23 @@
 
 | a) Nagyvadfajok |  |
 
-| gímszarvasbika – bika, golyóra érett – tehén, -ünő – borjú | szeptember 1–január 31. szeptember 1–október 31. szeptember 1–január 31. szeptember 1–január 31. április 1–június 30. |
+| gímszarvasbika – érett bika – tehén, -ünő – borjú | szeptember 1–január 31. szeptember 1–október 31. szeptember 1–január 31. szeptember 1–február utolsó napja |
 
-| dámbika – tehén, -ünő – borjú | október 1–január 31. október 1–február utolsó napja október 1–február utolsó napja |
+| dámbika – érett bika – tehén, -ünő – borjú | október 1–február utolsó napja október 1–november 30. október 1–január 31. október 1–február utolsó napja |
 
 | őzbak – suta, gida | április 15–szeptember 30. október 1–február utolsó napja |
 
-| muflonkos - juh, -jerke, -bárány | egész évben szeptember 1–február utolsó napja |
+| muflonkos – juh, -jerke – bárány | szeptember 1–február utolsó napja szeptember 1–január 31. szeptember 1–február utolsó napja |
 
 | vaddisznó | egész évben |
 
-| szikaszarvasbika, tehén, -ünő, -borjú | szeptember 1–december 31. |
+| szikaszarvas | egész évben |
 
 | b) Apróvadfajok |  |
 
 | mezei nyúl | október 1–december 31. |
 
-| üregi nyúl | szeptember 1–január 31. |
+| üregi nyúl | egész évben |
 
 | fácánkakas | október 1–február utolsó napja |
 
@@ -34,7 +34,7 @@
 
 | szárcsa | szeptember 1–január 31. |
 
-| erdei szalonka | vadászati idény nélkül. |
+| erdei szalonka | vadászati idény nélkül |
 
 | örvös galamb, balkáni gerle | augusztus 15–január 31. |
 
