@@ -1,1 +1,0 @@
-## 1. A pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átvételére, illetve átadására jogosult központi hatóság kijelöléséről és a formanyomtatvány tanúsítványról szóló 36/2007. (VII. 4.) IRM rendelet módosítása
