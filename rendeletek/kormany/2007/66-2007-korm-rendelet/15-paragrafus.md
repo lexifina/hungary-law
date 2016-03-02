@@ -1,4 +1,4 @@
-15. § (1)[^17] Az ellenőrző szervek az általuk végzett ellenőrzésekről nyilvántartást vezetnek, és azt a honlapjukon közzéteszik. A nyilvántartás legalább a (2)–(6) bekezdésekben meghatározott adatokat tartalmazza.
+15. § (1)[^19] Az ellenőrző szervek az általuk végzett ellenőrzésekről nyilvántartást vezetnek, és azt a honlapjukon közzéteszik. A nyilvántartás legalább a (2)–(6) bekezdésekben meghatározott adatokat tartalmazza.
 
 (2) A közúti ellenőrzésről vezetett nyilvántartás tartalmazza:
 
@@ -42,15 +42,15 @@ c) a tachográf kivitele szerint (analóg vagy digitális).
 
 (7) A (2)–(6) bekezdésben meghatározott ellenőrzési nyilvántartások elkülönítetten tartalmazzák az adatokat az áru- és személyszállítási tevékenységre.
 
-(8)[^18] Az ellenőrző szervek – a közúti szállításra vonatkozó közösségi szociális előírás alapján végzett közlekedési hatósági ellenőrzés részletes szabályairól szóló rendeletben meghatározott tartalommal és részletezéssel – minden naptári negyedévet követő hónap 15. napjáig megküldik az NKH Központja részére az előző negyedév összesített ellenőrzési adatait.
+(8)[^20] Az ellenőrző szervek – a közúti szállításra vonatkozó közösségi szociális előírás alapján végzett közlekedési hatósági ellenőrzés részletes szabályairól szóló rendeletben meghatározott tartalommal és részletezéssel – minden naptári negyedévet követő hónap 15. napjáig megküldik az NKH Központja részére az előző negyedév összesített ellenőrzési adatait.
 
-(9)[^19] Az NKH Központja az ellenőrző szervektől kapott adatok alapján országos összesített ellenőrzési adatnyilvántartást készít, amelyből az 561/2006/EK európai parlamenti és tanácsi rendelet 17. cikkében meghatározott adatszolgáltatást – a közúti szállításra vonatkozó egyes szociális jogszabályok alapján végzett közlekedési hatósági ellenőrzés részletes szabályairól szóló külön jogszabályban meghatározott módon – kétévente megküldi az Európai Bizottságnak.
+(9)[^21] Az NKH Központja az ellenőrző szervektől kapott adatok alapján országos összesített ellenőrzési adatnyilvántartást készít, amelyből az 561/2006/EK európai parlamenti és tanácsi rendelet 17. cikkében meghatározott adatszolgáltatást – a közúti szállításra vonatkozó egyes szociális jogszabályok alapján végzett közlekedési hatósági ellenőrzés részletes szabályairól szóló külön jogszabályban meghatározott módon – kétévente megküldi az Európai Bizottságnak.
 
-(10)[^20] Amennyiben a közúti ellenőrzés során gyanú merül fel arra, hogy a más tagállamban nyilvántartásba vett járművel megsértették az 561/2006/EK európai parlamenti és tanácsi rendeletben, illetve az AETR Megállapodásban meghatározott előírásokat, azonban a megfelelő adatok hiányában ennek ténye nem állapítható meg, az ellenőrző szerv a nyilvántartó tagállamot – az NKH Központja útján – adatszolgáltatás céljából megkeresi. Az NKH Központja a más tagállam e célból küldött adatkérését – az adatvédelemmel kapcsolatos külön jogszabályokban foglaltak megtartásával – haladéktalanul teljesíti.
+(10)[^22] Amennyiben a közúti ellenőrzés során gyanú merül fel arra, hogy a más tagállamban nyilvántartásba vett járművel megsértették az 561/2006/EK európai parlamenti és tanácsi rendeletben, illetve az AETR Megállapodásban meghatározott előírásokat, azonban a megfelelő adatok hiányában ennek ténye nem állapítható meg, az ellenőrző szerv a nyilvántartó tagállamot – az NKH Központja útján – adatszolgáltatás céljából megkeresi. Az NKH Központja a más tagállam e célból küldött adatkérését – az adatvédelemmel kapcsolatos külön jogszabályokban foglaltak megtartásával – haladéktalanul teljesíti.
 
 (11) Az ellenőrző szervek az általuk kezelt adatokat csak az adatvédelemmel kapcsolatos külön jogszabályokban foglaltak szerint használhatják fel.
 
-[^17]: A 15. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 529. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^18]: A 15. § (8) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontja szerint módosított szöveg.
-[^19]: A 15. § (9) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontja szerint módosított szöveg.
-[^20]: A 15. § (10) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontja szerint módosított szöveg.
+[^19]: A 15. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 529. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 15. § (8) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontja szerint módosított szöveg.
+[^21]: A 15. § (9) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontja szerint módosított szöveg.
+[^22]: A 15. § (10) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontja szerint módosított szöveg.
