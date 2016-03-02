@@ -4151,3 +4151,7 @@ a) Az alapképzési szakon végzettek rendelkeznek:
 - magabiztos angol katonai szaknyelvi kommunikációs készséggel;
 
 - korszerű teljesítményértékelési és a beosztottakat motiváló képességgel.
+
+b) Az alapképzési szakon végzettek ismerik és képesek:
+
+- helyesen értelmezni a modern hadsereg funkcióit, helyét és szerepét a demokratikus társadalmakban;

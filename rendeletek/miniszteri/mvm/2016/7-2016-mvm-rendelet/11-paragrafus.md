@@ -1,8 +1,9 @@
-## 8–10. §[^1]
+## 8–10. §[^2]
 
-11. § (1) Hatályát veszti a közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás alap- és mesterképzési szakjainak meghatározásáról, e szakok képzési és kimeneti követelményeiről, valamint az alapképzés képzési ágairól szóló 1/2015. (I. 14.) MvM rendelet.
+11. § (1)[^3]
 
-(2)[^2]
+(2)[^4]
 
-[^1]: A 8–10. § a 6. § (3) bekezdése alapján 2017. november 1-jén lép hatályba.
-[^2]: A 11. § (2) bekezdése a 6. § (2) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
+[^2]: A 8–10. § a 6. § (3) bekezdése alapján 2017. november 1-jén lép hatályba.
+[^3]: A 11. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 11. § (2) bekezdése a 6. § (2) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
