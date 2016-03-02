@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-1
 | 2011-08-26 | 2005-24-20-15.7 | 8/2011. (VIII. 18.) HM rendelet |
 | 2012-12-26 | 2005-24-20-15.8 | 23/2012. (XII. 18.) HM rendelet |
 | 2015-07-01 | 2005-24-20-15.9 | 7/2015. (VI. 22.) HM rendelet |
+| 2016-03-02 | 2005-24-20-15.10 | 5/2016. (III. 1.) HM rendelet |

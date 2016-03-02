@@ -260,7 +260,7 @@ w) ha egyben állományilletékes parancsnok is, döntsön a hatáskörébe tart
 
 x) ha egyben a laktanyaparancsnok is, a laktanyában elhelyezett – eltérő alárendeltségbe tartozó – katonai szervezetek tekintetében hangolja össze és szabályozza a készenlét fenntartása és fokozása, a terror elleni védelem, a napirend, a szolgálat ellátás, az őrzés-védelem, a kiképzési bázisok és laktanyai objektumok igénybevétele, a tűz-, a munka- és a környezetvédelem, híradó-informatikai, valamint az elöljárói intézkedésekben meghatározott mértékben a logisztikai ügyeket;
 
-y) ha egyben helyőrségparancsnok is, a helyőrségben állandóan vagy ideiglenesen elhelyezett, valamint a rendészeti alkalmazási körzetben ideiglenesen tartózkodó valamennyi katonai szervezet tekintetében végezze a XI. fejezetben rögzített helyőrség-parancsnoki feladatokat.
+y)[^5] ha egyben helyőrségparancsnok is, a helyőrségben állandóan vagy ideiglenesen elhelyezett katonai szervezetek tekintetében végzi a helyőrség-parancsnoki feladatokat;
 
 23. A parancsnok feleljen meg a beosztásával szemben támasztott követelményeknek. Ennek érdekében:
 
@@ -294,7 +294,7 @@ A parancsnokság megléte nem érinti a parancsnok egyszemélyi szolgálati hata
 
 26.2. A különböző vezetési szinteken lévő törzsek megegyező funkcionális feladataik teljesítése érdekében megközelítőleg azonos elemekből épülnek fel. A törzsfőnök szervezi a törzs munkáját és koordinálja a parancsnokság többi szervével való együttműködését.
 
-27.[^5] A parancsnok vezetői tevékenységének segítése, a zászlósi, tiszthelyettesi, tisztesi és rendfokozat nélküli állomány végrehajtói tevékenységének hatékonyabb megszervezése és felügyelete érdekében a parancsnok közvetlen alárendeltségében a csapatoknál és egyéb katonai szervezeteknél vezénylő zászlós teljesít szolgálatot. A vezénylő zászlós szolgálati elöljárója az adott katonai szervezet zászlós, tiszthelyettes, tisztes és rendfokozat nélküli személyi állományának.
+27.[^6] A parancsnok vezetői tevékenységének segítése, a zászlósi, tiszthelyettesi, tisztesi és rendfokozat nélküli állomány végrehajtói tevékenységének hatékonyabb megszervezése és felügyelete érdekében a parancsnok közvetlen alárendeltségében a csapatoknál és egyéb katonai szervezeteknél vezénylő zászlós teljesít szolgálatot. A vezénylő zászlós szolgálati elöljárója az adott katonai szervezet zászlós, tiszthelyettes, tisztes és rendfokozat nélküli személyi állományának.
 
 28. Minden szintű vezénylő zászlós az adott katonai szervezetnél felelős a parancsnok vezetési tevékenységének támogatásáért, a katonai rend, szervezettség és az egészséges katonai szellem kialakításáért és fenntartásáért, a zászlósi és tiszthelyettesi állomány pályántartásának eredményességéért, a szolgálati alárendeltségébe tartozó katonák felkészültségéért, a tiszthelyettesi támogató lánc működtetéséért és az elöljáróktól kapott feladatok végrehajtásáért.
 
@@ -426,7 +426,7 @@ g) katonai temetési menetnek.
 
 a) a köztársasági elnöknek, az Országgyűlés elnökének és a Kormány tagjainak;
 
-b)[^6] a Honvédelmi Minisztérium államtitkárának, közigazgatási államtitkárának és helyettes államtitkárainak;
+b)[^7] a Honvédelmi Minisztérium államtitkárának, közigazgatási államtitkárának és helyettes államtitkárainak;
 
 c) a Honvédség tábornokainak;
 
@@ -620,7 +620,7 @@ A katonák és a rendvédelmi szervek tagjainak viszonya
 
 75.1. A katona rendfokozatra való tekintet nélkül köteles igazolni magát a rendvédelmi szervek intézkedésre jogosult tagjának.
 
-75.2.[^7] Közlekedésrendészeti feladat ellátása, valamint jövedéki termékek ellenőrzése során a katonai gépjárművezető a rendőrség, továbbá vám- és pénzügyőrség tagjának felszólítására igazolja magát.
+75.2.[^8] Közlekedésrendészeti feladat ellátása, valamint jövedéki termékek ellenőrzése során a katonai gépjárművezető a rendőrség, továbbá vám- és pénzügyőrség tagjának felszólítására igazolja magát.
 
 75.3. Sürgős készenléti vagy egyéb halasztást nem tűrő feladat esetén a gépjárműparancsnok (ha az nincs, a gépjárművezető) a feladatra való hivatkozással közúti gépjármű-ellenőrzés esetén megtagadhatja a gépjármű-ellenőrzés végrehajtását. Ha ezt teszi, köteles bevonulás után azonnal jelenteni elöljárójának, egyben viseli a vele járó felelősséget.
 
@@ -720,7 +720,7 @@ q) kísérje figyelemmel az alárendeltek egészségi, pszichikai és fizikai á
 
 r) végezze a jogszabályokban a munkáltatóra vonatkozó munkavédelmi és a tűzvédelmi feladatokat;
 
-s)[^8] a helyi szakhatóságokkal egyeztetve készíttesse el és hagyja jóvá a katonai objektum Tűzvédelmi Szabályzatát;
+s)[^9] a helyi szakhatóságokkal egyeztetve készíttesse el és hagyja jóvá a katonai objektum Tűzvédelmi Szabályzatát;
 
 sz) gyakorolja mindazon munkáltatói jogokat és teljesíti azon kötelezettségeket, amelyeket jogszabály részére előír;
 
@@ -796,7 +796,7 @@ h) szervezze meg és irányítsa az egységnek az elektronikai hadviselés kör�
 
 i) szervezze meg az egység ügymenetét, hangolja össze az egységszintű szabályozások kidolgozását, állítsa össze az egységen belüli jelentések, tájékoztatások rendszerét, és gondoskodjék a határidők megtartásáról;
 
-j)[^9] foganatosítson minősített adat védelmére vonatkozó rendszabályokat, szervezze meg a rejtett vezetést, és gondoskodjon naprakész állapotáról, irányítsa az egység ügyvitelét, követelje meg a minősített adat védelmére vonatkozó és ügyviteli szabályok megtartását, lássa el a biztonsági vezetői feladatokat;
+j)[^10] foganatosítson minősített adat védelmére vonatkozó rendszabályokat, szervezze meg a rejtett vezetést, és gondoskodjon naprakész állapotáról, irányítsa az egység ügyvitelét, követelje meg a minősített adat védelmére vonatkozó és ügyviteli szabályok megtartását, lássa el a biztonsági vezetői feladatokat;
 
 k) a parancsnok rendelkezései alapján tervezze és szervezze meg az egység objektumainak, javainak őrzését, védelmét, szervezze és irányítsa az ügyeleti szolgálatot, idejében intézkedjen a naprakészséget biztosító változtatások végrehajtására;
 
@@ -1140,7 +1140,7 @@ n) a zászlóalj fő feladataihoz kapcsolódva legalább háromhavonta tartson �
 
 o) havonta tartson fogadóórát az erre igényt tartó katonák számára;
 
-p)[^10] követelje meg a munkavédelem, a tűzvédelem, a környezetvédelem és a minősített adatvédelem szabályainak megtartását;
+p)[^11] követelje meg a munkavédelem, a tűzvédelem, a környezetvédelem és a minősített adatvédelem szabályainak megtartását;
 
 r) ellenőrizze és ellenőriztesse a zászlóaljon belül az elöljárók és a saját parancsainak végrehajtását, a szabályzatok előírásainak betartását.
 
@@ -1450,11 +1450,11 @@ A vezető pénzügyi referens
 
 127. A pénzügyi referatúrára beosztottak kötelességei:
 
-a)[^11] a szakterületét érintően képviselje a honvédelmi szervezetnél a HM Közgazdasági és Pénzügyi Ügynökséget;
+a)[^12] a szakterületét érintően képviselje a honvédelmi szervezetnél a HM Közgazdasági és Pénzügyi Ügynökséget;
 
 b) a pénzügyi-számviteli alrendszer működtetésének keretében végezze a kimenő, bejövő számlák adatainak rögzítését; a beszerzéshez, értékesítéshez nem kapcsolódó készpénzes kifizetések és bevételek, valamint a kötelezettségvállalások főkönyvi naplóba történő rögzítését; a házipénztári számítógépes analitika vezetését; a szállítók és vevők adatainak felvitelét; az előirányzat-felhasználási keretszámláról a helyi készpénzes kifizetésekhez szükséges készpénz felvételét, valamint a házipénztárból a befolyt készpénz meghatározott összeghatár feletti részének az előirányzat-felhasználási keretszámlára való befizetését;
 
-c)[^12] a jogszabályokban és belső szabályzókban foglaltak, valamint a parancsnok rendelkezései alapján teljesítse a személyi állomány egyes illetményelemei, egyéb pénzbeli járandóságai központi utalásával, vagy helyi kifizetésével kapcsolatos hatáskörébe utalt feladatokat, a kapcsolódó adózási és társadalombiztosítási adatszolgáltatási kötelezettségeket, együttműködve a HM Közgazdasági és Pénzügyi Ügynökség illetékes igazgatóságával;
+c)[^13] a jogszabályokban és belső szabályzókban foglaltak, valamint a parancsnok rendelkezései alapján teljesítse a személyi állomány egyes illetményelemei, egyéb pénzbeli járandóságai központi utalásával, vagy helyi kifizetésével kapcsolatos hatáskörébe utalt feladatokat, a kapcsolódó adózási és társadalombiztosítási adatszolgáltatási kötelezettségeket, együttműködve a HM Közgazdasági és Pénzügyi Ügynökség illetékes igazgatóságával;
 
 d) átutalási megbízások, készpénz kifizetések előtt az eredeti bizonylatok alapján ellenőrizze (érvényesítse) a teljesítés szakmai igazolásának meglétét; az átutalásra kerülő összeg számszerű helyességét, jogosságát és a fedezet meglétét; az alaki és tartalmi követelmények betartását;
 
@@ -1588,7 +1588,7 @@ Ezenkívül tükröt kell kifüggeszteni a ruházat, a külső megjelenés ellen
 
 137.2. Az illetékes szervek engedélye nélkül tilos új épületek (építmények) létesítése, a meglevők eredeti rendeltetésének módosítása, szerkezeti átalakítása, áthelyezése, lebontása, illetve használatba vétele.
 
-137.3.[^13] A laktanyában elhelyezett katonai szervezet körleteit, a hozzájuk tartozó utcarészekkel együtt állandóan rendben kell tartani. A takarítási körleteket a laktanyaparancsnok határozza meg, a laktanyánál érvényben lévő szolgáltatási szerződés figyelembevételével. A körlet rendben tartását – beleértve a szolgáltatási szerződésben nem rögzített takarítást is – a katonák idejének és erejének ésszerű felhasználásával kell tervezni és szervezetten végrehajtani.
+137.3.[^14] A laktanyában elhelyezett katonai szervezet körleteit, a hozzájuk tartozó utcarészekkel együtt állandóan rendben kell tartani. A takarítási körleteket a laktanyaparancsnok határozza meg, a laktanyánál érvényben lévő szolgáltatási szerződés figyelembevételével. A körlet rendben tartását – beleértve a szolgáltatási szerződésben nem rögzített takarítást is – a katonák idejének és erejének ésszerű felhasználásával kell tervezni és szervezetten végrehajtani.
 
 137.4. A laktanya egyes épületeinek, létesítményeinek rendben tartása érdekében a laktanya parancsnoka minden épülethez és létesítményhez parancsban jelöljön ki felelős személyt, s az követelje meg az előírt szabályok megtartását, a helyiségek kulcsainak őrzését, a használaton kívüli ajtók lezárását, az építmény balesetmentes, biztonságos használatát.
 
@@ -2028,7 +2028,7 @@ c) heti pihenőnapok (általában a vasárnapok);
 
 d) katonai szünnap (május 21.);
 
-e)[^14] kiképzési szünnap;
+e)[^15] kiképzési szünnap;
 
 f) az eskütétel napja (a kiképző központban, illetve a tanintézeteknél).
 
@@ -2206,7 +2206,7 @@ c) a szállítás ezen módja nem kérhető szolgálati úton.
 
 224.1. A távollevő katona szolgálatteljesítési helyére pontosan vonuljon be. Ha a katona távolléte alatt megbetegszik, és emiatt nem tud a meghatározott időre bevonulni, az ápolás helyének megjelölésével együtt ezt jelentse távbeszélőn, táviratban vagy más módon (üzenet, levél stb.) a távollétet engedélyező elöljárónak, ha pedig külön engedély nélkül távozhatott, a közvetlen szolgálati elöljárójának. Bevonulásakor jelentkezzen elöljárójánál, majd az egészségügyi központban mutassa be a hivatalos orvosi dokumentációját. Hasonlóképpen jelentse akadályoztatását, ha más körülmény gátolná bevonulásában.
 
-224.2.[^15] A katona külföldre távozásának szabályait külön rendelkezés állapítja meg. A katona külföldi tartózkodása alkalmával, tartsa be Magyarország törvényeit, a katonai magatartás szabályait, valamint tartsa tiszteletben az adott ország törvényeit.
+224.2.[^16] A katona külföldre távozásának szabályait külön rendelkezés állapítja meg. A katona külföldi tartózkodása alkalmával, tartsa be Magyarország törvényeit, a katonai magatartás szabályait, valamint tartsa tiszteletben az adott ország törvényeit.
 
 Megjelenés a szolgálatteljesítési helyen
 
@@ -2216,7 +2216,7 @@ Az alegységparancsnok vagy ügyeleti szolgálati személy az ittas, kábult kat
 
 Hírközlés
 
-226.1.[^16] A katonák magán hírközlésére a magyar állampolgárok számára érvényes jogszabályok – a minősített adat védelmére vonatkozó előírások figyelembevételével – vonatkoznak.
+226.1.[^17] A katonák magán hírközlésére a magyar állampolgárok számára érvényes jogszabályok – a minősített adat védelmére vonatkozó előírások figyelembevételével – vonatkoznak.
 
 226.2. A katonák a szolgálatteljesítési helyen honvédségi tulajdonú elektronikus eszközzel magán küldeményt (szöveget, beszélgetést, üzenetet, rajzot, képet stb.) csak a katonai szervezet parancsnokának külön engedélye alapján készíthetnek (állíthatnak elő), illetve továbbíthatnak.
 
@@ -2224,7 +2224,7 @@ Hírközlés
 
 Postai küldemények
 
-227.1.[^17] A katonák magáncélú postai küldeményei továbbítására a magyar állampolgárok számára érvényes jogszabályok vonatkoznak, azonban a küldemények címzésében és tartalmában kötelesek a minősített adat védelmére vonatkozó előírásokat betartani.
+227.1.[^18] A katonák magáncélú postai küldeményei továbbítására a magyar állampolgárok számára érvényes jogszabályok vonatkoznak, azonban a küldemények címzésében és tartalmában kötelesek a minősített adat védelmére vonatkozó előírásokat betartani.
 
 227.2. A szolgálatteljesítési helyről küldött és az odaérkező postai küldemények postahivatalban történő átvételét, átadását és szállítását a nyílt küldeménykezelő részleg, a csapatpostás vagy a parancsnok által erre a feladatra kijelölt, felkészített személy végzi. A nyílt küldeménykezelő részleg, a csapatpostás feladatait, kötelmeit külön intézkedés szabályozza.
 
@@ -2234,25 +2234,25 @@ Postai küldemények
 
 228.2. Rendkívüli állapotban, megelőző védelmi helyzetben a szolgálati helyen tartózkodó katonák által feladható és a részükre érkező magán postai, tábori posta küldemények továbbításának és kezelésének rendjét külön jogszabály tartalmazza.
 
-A minősített adat védelme[^18]
+A minősített adat védelme[^19]
 
-229.1.[^19] A minősített adat védelme azon rendszabályok és eljárások összessége, amelyek érvényesülésével biztosítható, hogy a szervezetek vagy objektumok rendeltetésével, működésével kapcsolatos minősített adat illetéktelen szervek vagy személyek birtokába ne kerülhessen.
+229.1.[^20] A minősített adat védelme azon rendszabályok és eljárások összessége, amelyek érvényesülésével biztosítható, hogy a szervezetek vagy objektumok rendeltetésével, működésével kapcsolatos minősített adat illetéktelen szervek vagy személyek birtokába ne kerülhessen.
 
 229.2. A minősített információt annak megjelenési formájától függetlenül minden esetben védeni kell.
 
-229.3.[^20] A minősített adat védelmére vonatkozó rendszabályokat meg kell ismertetni az érintettekkel és azt követően rendszeresen oktatni kell, ahol fel kell hívni a figyelmüket a titoktartás fontosságára, és az ezzel kapcsolatos magatartásra.
+229.3.[^21] A minősített adat védelmére vonatkozó rendszabályokat meg kell ismertetni az érintettekkel és azt követően rendszeresen oktatni kell, ahol fel kell hívni a figyelmüket a titoktartás fontosságára, és az ezzel kapcsolatos magatartásra.
 
-230.[^21] A szerződéses katonákat a szerződéskötésük után közvetlenül és a szerződésük lejártát megelőzően, a katonai tanintézetek hallgatóit a tanulmányaik megkezdése után közvetlenül, a hivatásos katonákat az első és minden további új beosztásba helyezés után közvetlenül és ezeken kívül valamennyi katonát minden kiképzési időszak elején, illetve évente legalább egy alkalommal minősített adat védelmére vonatkozó oktatásban kell részesíteni.
+230.[^22] A szerződéses katonákat a szerződéskötésük után közvetlenül és a szerződésük lejártát megelőzően, a katonai tanintézetek hallgatóit a tanulmányaik megkezdése után közvetlenül, a hivatásos katonákat az első és minden további új beosztásba helyezés után közvetlenül és ezeken kívül valamennyi katonát minden kiképzési időszak elején, illetve évente legalább egy alkalommal minősített adat védelmére vonatkozó oktatásban kell részesíteni.
 
-231.1.[^22] A katonák csak külön rendelkezések szerint és a minősített adat védelmére vonatkozó szabályok betartásával adhatnak katonai jellegű tájékoztatást, szerepelhetnek nyilvánosság előtt, és szolgáltathatnak ilyen adatokat kül- és belföldi sajtó- és hírközlő szerveknek, illetve adhatnak át (a nyílt terjesztésűek kivételével) katonai vonatkozású sajtótermékeket.
+231.1.[^23] A katonák csak külön rendelkezések szerint és a minősített adat védelmére vonatkozó szabályok betartásával adhatnak katonai jellegű tájékoztatást, szerepelhetnek nyilvánosság előtt, és szolgáltathatnak ilyen adatokat kül- és belföldi sajtó- és hírközlő szerveknek, illetve adhatnak át (a nyílt terjesztésűek kivételével) katonai vonatkozású sajtótermékeket.
 
-231.2.[^23] A katonák minősített adatot érintő kérdésekről – hatósági eljárás során is, kivéve a katonai büntetőeljárást – csak akkor nyilatkozhatnak, ha a titoktartási kötelezettség alól illetékes előjárójuktól az arra vonatkozó jogszabályok alapján felmentést kaptak.
+231.2.[^24] A katonák minősített adatot érintő kérdésekről – hatósági eljárás során is, kivéve a katonai büntetőeljárást – csak akkor nyilatkozhatnak, ha a titoktartási kötelezettség alól illetékes előjárójuktól az arra vonatkozó jogszabályok alapján felmentést kaptak.
 
 232.1. A katonai objektum területén újságírói tevékenység, valamint videó- és filmfelvétel, rádiós és televíziós riport készítése csak az objektum-, illetve az elöljáró parancsnok engedélyével az erre vonatkozó rendelkezések figyelembevételével folytatható.
 
-232.2.[^24] A kulturális és kiképzési célú hang-, kép-, videó- és egyéb adatrögzítő eszköz használatát az objektumparancsnok az érvényben lévő minősített adat védelmére vonatkozó előírások alapján szabályozza.
+232.2.[^25] A kulturális és kiképzési célú hang-, kép-, videó- és egyéb adatrögzítő eszköz használatát az objektumparancsnok az érvényben lévő minősített adat védelmére vonatkozó előírások alapján szabályozza.
 
-232.3.[^25] A minősített adat védelmének részletes szabályait külön rendelkezés tartalmazza.
+232.3.[^26] A minősített adat védelmének részletes szabályait külön rendelkezés tartalmazza.
 
 A katonák ellátásának alapelvei
 
@@ -2354,7 +2354,7 @@ Fegyver, lőszer, robbanóanyag tárolása, megóvása
 
 246. Fegyvert, lőszert, robbanóanyagot az érvényben levő előírások betartásával úgy kell tárolni, hogy illetéktelen személyek semmiképpen se férjenek hozzá. A külföldi műveleti területen a tárolás és megóvás szabályait a műveletre vonatkozó Egységes Műveleti Szabályok (SOP-k) határozzák meg.
 
-247.[^26] A katonák személyi felszerelésébe tartozó szolgálati fegyvereket vasrácsos ajtóval, biztonsági zárral, illetve lakattal ellátott és lepecsételt külön helyiségben (fegyverszobában) kell tárolni. A fegyverszobák minden ablakára, függetlenül az épületen belüli elhelyezkedésétől, rácsot kell szerelni. A fegyverszoba ajtaja a körlet belsejébe nyíljon úgy, hogy lehetőleg a szolgálatnak közvetlen rálátása legyen. Amennyiben épület-(alegység-)ügyeletes szolgálat van szervezve, akkor az ügyeletes felügyeletére bízott valamennyi fegyverszobát behatolásjelzővel kell ellátni, amelynek kezelő és riasztó egységei az épület-(alegység-)ügyeletes szolgálati helyén legyenek telepítve.
+247.[^27] A katonák személyi felszerelésébe tartozó szolgálati fegyvereket vasrácsos ajtóval, biztonsági zárral, illetve lakattal ellátott és lepecsételt külön helyiségben (fegyverszobában) kell tárolni. A fegyverszobák minden ablakára, függetlenül az épületen belüli elhelyezkedésétől, rácsot kell szerelni. A fegyverszoba ajtaja a körlet belsejébe nyíljon úgy, hogy lehetőleg a szolgálatnak közvetlen rálátása legyen. Amennyiben épület-(alegység-)ügyeletes szolgálat van szervezve, akkor az ügyeletes felügyeletére bízott valamennyi fegyverszobát behatolásjelzővel kell ellátni, amelynek kezelő és riasztó egységei az épület-(alegység-)ügyeletes szolgálati helyén legyenek telepítve.
 
 248. Csapatnál századonként, illetve kis létszámú zászlóaljanként kell fegyverszobát berendezni, ahol a század teljes állományának fegyvereit kell őrizni. Parancsnokságokon, valamint csapatoktól eltérő katonai szervezeteknél ugyanezeknek az elveknek a figyelembevételével a parancsnok döntése szerint kell a fegyverszobát berendezni. A fegyverszobák rendjét, a bennük levő fegyverek átadásának-átvételének szabályait szakutasítás határozza meg. A fegyverszoba rendjéért, az ott elhelyezett fegyverekért századnál a század ellátó tiszthelyettes (ahol ilyen nincs, a századparancsnok által kijelölt katona) felelős.
 
@@ -2494,7 +2494,7 @@ b) A vezető ügyeleti szolgálat alárendeltségében létrehozható ügyeleti 
 
 268.2. A laktanya- (objektum-) ügyeleti szolgálatok alárendeltségében létrehozható ügyeleti szolgálatok szolgálatteljesítési ideje 24 óránál kevesebb is lehet.
 
-268.3.[^27] A 268.1. pontban meghatározott ügyeleti szolgálatokon túl az állományilletékes parancsnokok és azok elöljáró parancsnokai (felettesei) a Honvéd Vezérkar főnöke vagy a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatójának rendelkezései alapján más ügyeleti szolgálatok működtetését is elrendelhetik. Az állományilletékes parancsnokok az azonos vezetési szintű ügyeleti szolgálatokat és feladataikat összevonhatják.
+268.3.[^28] A 268.1. pontban meghatározott ügyeleti szolgálatokon túl az állományilletékes parancsnokok és azok elöljáró parancsnokai (felettesei) a Honvéd Vezérkar főnöke vagy a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatójának rendelkezései alapján más ügyeleti szolgálatok működtetését is elrendelhetik. Az állományilletékes parancsnokok az azonos vezetési szintű ügyeleti szolgálatokat és feladataikat összevonhatják.
 
 269.1. A légierő ügyeletes tábornoki-, az ügyeletes parancsnoki-, a hadműveleti ügyeletes szolgálatok és a Magyar Honvédség Központi Ügyelet működését külön rendelkezések határozzák meg.
 
@@ -2610,9 +2610,7 @@ A laktanya- (objektum-) ügyeletes
 
 285.3. Az összevont laktanya- (objektum-) ügyeleti szolgálatot a laktanya- (objektum-) parancsnok szervezi a laktanyában (objektumban) elhelyezett szervezetek kijelölt állományából. Az összevont laktanya- (objektum-) ügyeletes a laktanya- (objektum-) parancsnoknak, helyettesének, valamint a vezető ügyeleti szolgálatnak van alárendelve. Az összevont laktanya- (objektum-) ügyeleti szolgálat részére a vezető ügyeleti szolgálatot a laktanyában (objektumban) elhelyezett szervezetek közös elöljárója jelöli ki.
 
-286. A laktanya- (objektum-) ügyeletes, az összevont laktanya- (objektum-) ügyeletes szolgálati elöljárója a laktanyában (objektumban) szervezett őr- és ügyeleti szolgálatoknak.
-
-Az elöljáró parancsnok rendelkezése alapján a laktanya-, az összevont laktanya- (objektum-) ügyeletes egyben a helyőrség-ügyeletesi feladatokat is elláthatja. Ebben az esetben hatásköre a helyőrségben szervezett rendészeti szolgálatra is kiterjed.
+286.[^29] A laktanya- vagy objektum ügyeletes szolgálati elöljárója a laktanyában, objektumban szervezett őr- és ügyeleti szolgálatoknak.
 
 287. A laktanya-, az összevont laktanya- (objektum-) ügyeletes az elöljáró parancsnokok távollétében az adott katonai szervezet mindennapi tevékenységével, rendjével kapcsolatos részletekben önállóan intézkedik. Intézkedéseit utólag jelentse a parancsnoknak.
 
@@ -2632,7 +2630,7 @@ d) elkerülhetetlen esetben, bűncselekmény elkövetése esetén a tiszt-, tisz
 
 288.4. Ha valamelyik őrparancsnok (váltásparancsnok) polgári személyt tartóztatott fel, értesítse az illetékes rendőri szervet.
 
-289.1.[^28] A laktanya-, az összevont laktanya-(objektum) ügyeletest, illetve helyettest a laktanyában (objektumban) elhelyezett szervezetek főtisztjei, tisztjei, illetve zászlósai, tiszthelyettesei közül kell vezényelni.
+289.1.[^30] A laktanya-, az összevont laktanya-(objektum) ügyeletest, illetve helyettest a laktanyában (objektumban) elhelyezett szervezetek főtisztjei, tisztjei, illetve zászlósai, tiszthelyettesei közül kell vezényelni.
 
 289.2. A laktanya-, az összevont laktanya- (objektum-) ügyeletes és helyettesei a szolgálati intézkedésben meghatározott időben pihenhetnek, az Öltözködési Szabályzatban előírt könnyítésekkel.
 
@@ -2680,7 +2678,7 @@ c) ellenőrizze az étkezés rendjét.
 
 a) tegyen jelentést a parancsnoknak, távolléte esetén a parancsnokhelyettesnek, törzsfőnöknek, vagy az ügyeletes parancsnoknak;
 
-b)[^29] ha az egységhez a köztársasági elnök, az Országgyűlés elnöke, a Kormány tagja, a honvédelmi minisztériumi államtitkár, közigazgatási államtitkár, a Honvéd Vezérkar főnöke érkezik, a fogadásukra előkészített rendezvény keretében meghatározottak szerint járjon el; ha a felsoroltak közül valaki váratlanul érkezik, a kapuügyeletestől kapott jelzés alapján fogadja, jelentkezzék nála, és kísérje a parancsnokhoz (laktanyaparancsnokhoz);
+b)[^31] ha az egységhez a köztársasági elnök, az Országgyűlés elnöke, a Kormány tagja, a honvédelmi minisztériumi államtitkár, közigazgatási államtitkár, a Honvéd Vezérkar főnöke érkezik, a fogadásukra előkészített rendezvény keretében meghatározottak szerint járjon el; ha a felsoroltak közül valaki váratlanul érkezik, a kapuügyeletestől kapott jelzés alapján fogadja, jelentkezzék nála, és kísérje a parancsnokhoz (laktanyaparancsnokhoz);
 
 c) ha a parancsnok elöljáró parancsnokai vagy azok helyettesei, a Honvédség tábornokai vagy szemle- (ellenőrző-) bizottság vezetője érkeznek, a kapuügyeletestől kapott jelzés alapján fogadja őket, jelentkezzen náluk és kísérje őket a parancsnokhoz (laktanyaparancsnokhoz). Amennyiben a felsorolt személyek munkaidőn túl, vagy szünnapon érkeznek, jelentse az ügyeletes parancsnoknak. A szolgálati elöljáró személyazonosságának tisztázása után teljesítse parancsait;
 
@@ -2744,7 +2742,7 @@ A szolgálat átvételét jelentse (távbeszélőn) a laktanya- (objektum-) ügy
 
 a) első beérkezésük alkalmával jelentkezzen az objektum parancsnoknál, a saját parancsnokánál (ha nem ő az objektum parancsnok) és azok helyetteseinél; jelentse érkezésüket a laktanya- (objektum-) ügyeletesnek, valamint azt, ha bármikor elhagyják az objektumot, vagy ha visszaérkeznek;
 
-b)[^30] ha az objektumba előzetes bejelentés nélkül érkezik a köztársasági elnök, az Országgyűlés elnöke, a Kormány tagja, a honvédelmi minisztériumi államtitkár, közigazgatási államtitkár, a Honvéd Vezérkar főnöke, jelentkezzék nála, és érkezését jelentse a laktanya- (objektum-) ügyeletesnek;
+b)[^32] ha az objektumba előzetes bejelentés nélkül érkezik a köztársasági elnök, az Országgyűlés elnöke, a Kormány tagja, a honvédelmi minisztériumi államtitkár, közigazgatási államtitkár, a Honvéd Vezérkar főnöke, jelentkezzék nála, és érkezését jelentse a laktanya- (objektum-) ügyeletesnek;
 
 c) ha az objektum parancsnok elöljáró parancsnokai vagy azok helyettesei, a Honvédség tábornokai vagy szemle- (ellenőrző-) bizottság vezetője érkeznek, jelentkezzék náluk, és érkezésüket jelentse a laktanya- (objektum-) ügyeletesnek;
 
@@ -3064,9 +3062,9 @@ f) átadásának-átvételének rendjét;
 
 g) egyéb olyan részleteket, amelyeket a jelen Szabályzat előírásai szerint szabályozni szükséges.
 
-322.5.[^31] A készenléti szolgálatot központilag, alárendeltségtől függően a honvédelmi miniszter, a Honvéd Vezérkar főnöke vagy a KNBSZ főigazgatójának rendelkezései alapján az állományilletékes parancsnok szervezi és működteti.
+322.5.[^33] A készenléti szolgálatot központilag, alárendeltségtől függően a honvédelmi miniszter, a Honvéd Vezérkar főnöke vagy a KNBSZ főigazgatójának rendelkezései alapján az állományilletékes parancsnok szervezi és működteti.
 
-322.6.[^32] A készenléti szolgálat tartama alatt szabadságot nem lehet igénybe venni. Szabadság tartama alatt nem lehet készenléti szolgálatba vezényelni.
+322.6.[^34] A készenléti szolgálat tartama alatt szabadságot nem lehet igénybe venni. Szabadság tartama alatt nem lehet készenléti szolgálatba vezényelni.
 
 Fegyveres készenléti szolgálat
 
@@ -3080,7 +3078,7 @@ Egyéb készenléti szolgálat
 
 324.1. Az egyéb készenléti szolgálat rendeltetése a riasztást (értesítést) követően, a meghatározott helyen, felszereléssel, feladattal és normaidőn belül rendelkezésre állás.
 
-324.2.[^33]
+324.2.[^35]
 
 324.3. Az egyéb készenléti szolgálatba vezényelt tényleges szolgálatot teljesítő katona, köztisztviselő, közalkalmazott és a munka törvénykönyve szerinti munkavállaló munkaidőben a szolgálati helyén, munkaidőn túl olyan kiértesíthető helyen köteles tartózkodni, ahonnan a szolgálati intézkedésben meghatározott normaidőn belül képes szolgálati feladatai megkezdésére.
 
@@ -3098,7 +3096,7 @@ A) AZ ŐRSZOLGÁLAT
 
 326.2. Az őrszolgálat ellátásában e Szabályzat és az őrszolgálati okmányok előírásaitól semmiféle eltérés nem engedhető meg.
 
-326.2.1.[^34] Szolgálati Intézkedés határozza meg a Honvéd Koronaőrség és a Honvéd Palotaőrség szolgálati személyei speciális kötelmeit és feladatait.
+326.2.1.[^36] Szolgálati Intézkedés határozza meg a Honvéd Koronaőrség és a Honvéd Palotaőrség szolgálati személyei speciális kötelmeit és feladatait.
 
 326.3. Az őrséget vagy egyes tagjait más feladattal megbízni vagy feladatától bármivel elvonni tilos!
 
@@ -3740,7 +3738,7 @@ A szállítmányok őrzésének közös szabályai
 
 444.1. Csapat- és szükség esetén ellátási (anyag-) szállítmányok őrzésére és védelmére szállítmányőrséget kell vezényelni. Csapatszállítmányon őrzés szempontjából haditechnikai eszközeivel együtt szállított alegységet, egységet kell érteni.
 
-444.2.[^35] Ha a belföldi csapatszállítás ideje nem haladja meg a 24 órát, egy őrséget kell vezényelni, s az a berakóhelytől a kirakóhelyig (indulástól érkezésig) váltás nélkül látja el feladatát. Ha ennél hosszabb a szállítás ideje, két őrség szükséges, s ezek 24 óránkénti váltással őrködnek.
+444.2.[^37] Ha a belföldi csapatszállítás ideje nem haladja meg a 24 órát, egy őrséget kell vezényelni, s az a berakóhelytől a kirakóhelyig (indulástól érkezésig) váltás nélkül látja el feladatát. Ha ennél hosszabb a szállítás ideje, két őrség szükséges, s ezek 24 óránkénti váltással őrködnek.
 
 Belföldi ellátási (anyag-)szállítmányok kísérése esetén az őrséget őrszolgálat ellátására legfeljebb négy nap időtartamra lehet vezényelni a készenléti szolgálattal együtt.
 
@@ -3778,7 +3776,7 @@ Ha a vonat hosszabb ideig áll, az őrség megerősítésére be lehet vonni az 
 
 A légijármű fedélzetén tartózkodó őrség köteles a repülőgép parancsnokának a repülés biztonságára vonatkozó parancsait végrehajtani.
 
-449.2.[^36] Külföldre vagy külföldről történő szállítás esetén az őrzést az erre vonatkozó rendelkezések alapján kell végrehajtani. Ezen szállítások végrehajtásakor
+449.2.[^38] Külföldre vagy külföldről történő szállítás esetén az őrzést az erre vonatkozó rendelkezések alapján kell végrehajtani. Ezen szállítások végrehajtásakor
 
 a) központi őrség (járőr) vezénylése esetén a szolgálat időtartama a szállítmány átvételétől a szállítmány átadásáig tart,
 
@@ -3926,7 +3924,7 @@ B) A BIZTOSÍTÓ RENDÉSZ SZOLGÁLAT
 
 468. A biztosító rendész szolgálat az őr-, ügyeleti és katonai rendészi szolgálat integrált formája, melyet – külön intézkedésre – békeállapotban a kiemelten fontos katonai objektumok őrzésére kell szervezni. A szolgálat rendeltetése az objektumok biztonságos őrzése, az objektumba való be- és kiléptetés, az anyag be- és kiszállítás szabályainak és az előírt parkolási rendnek a megtartatása, valamint az objektum rendjének biztosítása.
 
-469.1.[^37] A biztosító rendész szolgálat fegyveres szolgálat. A szolgálatot pisztollyal és gépkarabéllyal kell ellátni. A gépkarabélyokat – a fegyverek kiosztására vonatkozó külön parancsig – a szolgálat részére biztosított fegyverszekrényben (fegyverszobában) kell tárolni.
+469.1.[^39] A biztosító rendész szolgálat fegyveres szolgálat. A szolgálatot pisztollyal és gépkarabéllyal kell ellátni. A gépkarabélyokat – a fegyverek kiosztására vonatkozó külön parancsig – a szolgálat részére biztosított fegyverszekrényben (fegyverszobában) kell tárolni.
 
 469.2. A biztosító rendész szolgálatot vagy annak egyes tagjait más feladattal megbízni, vagy feladatától bármivel elvonni tilos!
 
@@ -3992,15 +3990,15 @@ A biztosító rendész szolgálat felszerelése, fegyverzete
 
 478. A biztosító rendész szolgálat az évszaknak és az időjárásnak megfelelő gyakorló öltözetet viseljen és a katonai rendészeknek előírt felszereléssel (fehér derékszíj, fehér jelsípzsinór, rendészjelvény, könnygázszóró palack, bilincs, gumibot) vonuljon szolgálati helyére. Az összeköttetés biztosítása érdekében a szolgálatot teljesítő állományt kézi rádió-adóvevővel kell ellátni.
 
-479.1.[^38] A biztosító rendész szolgálat állománya – a pihenő váltás kivételével – pisztolyt köteles viselni két töltött tárral, az egyik tárat a pisztolyba köteles helyezni, a másikat a pisztolytáskába. A pisztolynak töltetlen és biztosított állapotban kell lennie. A pihenő váltástól a szolgálatparancsnok – pihenő idejében a szolgálatparancsnok-helyettes – köteles elvenni, és pihenő idejük végén visszaadni részükre a pisztolyokat.
+479.1.[^40] A biztosító rendész szolgálat állománya – a pihenő váltás kivételével – pisztolyt köteles viselni két töltött tárral, az egyik tárat a pisztolyba köteles helyezni, a másikat a pisztolytáskába. A pisztolynak töltetlen és biztosított állapotban kell lennie. A pihenő váltástól a szolgálatparancsnok – pihenő idejében a szolgálatparancsnok-helyettes – köteles elvenni, és pihenő idejük végén visszaadni részükre a pisztolyokat.
 
 479.2. Az objektumban kialakított fegyverszobában kell tárolni azokat a fegyvereket és lőszereket, amelyekkel a katonák a biztosító rendész szolgálatot ellátják.
 
-479.3.[^39] A pihenő váltás pisztolyait, valamint a gépkarabélyokat (és más fegyvereket) tár nélkül, ürített, fesztelenített és biztosított helyzetben kell a pihenőhelytől elkülönített fegyverszekrényben (fegyverszobában levő fegyverállványra) elhelyezni. A fegyverszekrény (fegyverszoba) kulcsának a szolgálatparancsnoknál – pihenő idejében a szolgálatparancsnok-helyettesnél – kell lennie.
+479.3.[^41] A pihenő váltás pisztolyait, valamint a gépkarabélyokat (és más fegyvereket) tár nélkül, ürített, fesztelenített és biztosított helyzetben kell a pihenőhelytől elkülönített fegyverszekrényben (fegyverszobában levő fegyverállványra) elhelyezni. A fegyverszekrény (fegyverszoba) kulcsának a szolgálatparancsnoknál – pihenő idejében a szolgálatparancsnok-helyettesnél – kell lennie.
 
-479.4.[^40] A készenléti és reagáló lőszereket tárazva (gépkarabélyonként 90 lőszer), lepecsételt ládában kell elhelyezni. A szolgálat gépkarabéllyal való ellátására és a lőszer kiosztására csak azok a katonák intézkedhetnek, akiknek a szolgálat alá van rendelve.
+479.4.[^42] A készenléti és reagáló lőszereket tárazva (gépkarabélyonként 90 lőszer), lepecsételt ládában kell elhelyezni. A szolgálat gépkarabéllyal való ellátására és a lőszer kiosztására csak azok a katonák intézkedhetnek, akiknek a szolgálat alá van rendelve.
 
-479.5.[^41] A szolgálatparancsnok saját elhatározásból csak abban az esetben intézkedhet a gépkarabélyok és a lőszerek kiadására, ha az őrzött (védett) objektumot vagy a biztosító rendész szolgálat tagját (tagjait) támadás éri vagy annak közvetlen veszélye fenyegeti. A gépkarabélyok és a lőszerek kiadását köteles jelenteni azon katonáknak, akiknek alá van rendelve.
+479.5.[^43] A szolgálatparancsnok saját elhatározásból csak abban az esetben intézkedhet a gépkarabélyok és a lőszerek kiadására, ha az őrzött (védett) objektumot vagy a biztosító rendész szolgálat tagját (tagjait) támadás éri vagy annak közvetlen veszélye fenyegeti. A gépkarabélyok és a lőszerek kiadását köteles jelenteni azon katonáknak, akiknek alá van rendelve.
 
 480. A szolgálat részére az objektumban kialakított fegyverszobában tartalék lőszert kell tárolni, s ezt a szolgálat létszámának megfelelően külön-külön csomagban készletezve és vasalt faládában vagy vas iratládában kell tartani. A tartalék lőszer mennyisége: pisztolyonként 14, gépkarabélyonként 150, géppuskánként 1200 db lőszer és a létszám szerinti 2 db kézigránát személyenként. A kézigránátokat és égőgyújtójukat eredeti, felbontatlan csomagolásban kell tárolni. A tartalék lőszer-, kézigránát- és égőgyújtó-nyilvántartó könyvet a tároló ládákban kell elhelyezni. A ládákon legyen lakat, pecsét, rájuk ragasztott papíron legyen feltüntetve a tartalom, a felnyitásra jogosult személyek neve és a lezárásukra használandó pecsét rajza.
 
@@ -4070,7 +4068,7 @@ A biztosító rendész szolgálat vezénylése és pihenése
 
 485.3. Biztosító rendész szolgálatba csak egészséges, a szolgálat ellátására kiképzett, felkészített katonákat szabad vezényelni.
 
-486.[^42] Tilos szolgálatba vezényelni olyan katonát, aki nem hajtotta végre eredményesen az alaplőgyakorlatot és a pisztoly szakalap lőgyakorlatot, nem ismeri a biztosító rendész szolgálat ellátásának rá vonatkozó követelményeit, aki pszichológiai, pszichiátriai, valamint egyéb olyan orvosi kezelés alatt áll, ami a lőkészség biztonságát veszélyezteti, vagy a parancsnok tudomása szerint öngyilkosságot kísérelt meg, továbbá azt, aki ellen büntető vagy fegyelmi eljárás folyik.
+486.[^44] Tilos szolgálatba vezényelni olyan katonát, aki nem hajtotta végre eredményesen az alaplőgyakorlatot és a pisztoly szakalap lőgyakorlatot, nem ismeri a biztosító rendész szolgálat ellátásának rá vonatkozó követelményeit, aki pszichológiai, pszichiátriai, valamint egyéb olyan orvosi kezelés alatt áll, ami a lőkészség biztonságát veszélyezteti, vagy a parancsnok tudomása szerint öngyilkosságot kísérelt meg, továbbá azt, aki ellen büntető vagy fegyelmi eljárás folyik.
 
 487. A biztosító rendész szolgálat tagjait legfeljebb 24 órára lehet vezényelni.
 
@@ -4134,11 +4132,11 @@ Az okmányok alapján vegye át a fegyvereket, lőszereket és a lepecsételt l�
 
 A biztosító rendészek váltása
 
-498.1.[^43] A biztosító rendészeket a szolgálati intézkedésben meghatározott időközönként, maximum négyóránként kell váltani. Kivételes esetben, a biztosító rendészek éberségét károsan befolyásoló körülmények között a váltási idő az elöljáró szolgálat parancsa alapján rövidebb is lehet.
+498.1.[^45] A biztosító rendészeket a szolgálati intézkedésben meghatározott időközönként, maximum négyóránként kell váltani. Kivételes esetben, a biztosító rendészek éberségét károsan befolyásoló körülmények között a váltási idő az elöljáró szolgálat parancsa alapján rövidebb is lehet.
 
-498.2.[^44] Ha a szolgálat gépkarabéllyal történő ellátására intézkedett az arra jogosult elöljáró, a fegyverek töltése, ürítése, a biztosító rendészek szolgálati helyre való felvezetésének és váltásának a szolgálatparancsnok vagy helyettese felvezetésével kell történnie.
+498.2.[^46] Ha a szolgálat gépkarabéllyal történő ellátására intézkedett az arra jogosult elöljáró, a fegyverek töltése, ürítése, a biztosító rendészek szolgálati helyre való felvezetésének és váltásának a szolgálatparancsnok vagy helyettese felvezetésével kell történnie.
 
-499.[^45] Pisztollyal történő szolgálatellátás esetében a szolgálati intézkedésben meghatározott időközönként a szolgálatparancsnoknak intézkednie kell a biztosító rendészek váltására, és azok felvezetés nélkül kötelesek végrehajtani a váltást. A váltás megtörténtét rádió adó-vevőn (telefonon) vagy személyesen jelenteni kötelesek a szolgálatparancsnoknak.
+499.[^47] Pisztollyal történő szolgálatellátás esetében a szolgálati intézkedésben meghatározott időközönként a szolgálatparancsnoknak intézkednie kell a biztosító rendészek váltására, és azok felvezetés nélkül kötelesek végrehajtani a váltást. A váltás megtörténtét rádió adó-vevőn (telefonon) vagy személyesen jelenteni kötelesek a szolgálatparancsnoknak.
 
 Magatartás a szolgálat elhelyezési körletében
 
@@ -4172,7 +4170,7 @@ g) ha a technikai (híradó-, jelző-) eszközök meghibásodnak, jelentse az es
 
 h) technikai eszközök útján szabálytalan időközökben többször, személyesen pedig rendszeresen ellenőrizze alárendeltjeit, az őrzött (védett) objektumot, a híradó-, a jelző-, a technikai és a világítóeszközök állapotát, az ellenőrzést írja be a szolgálati naplóba;
 
-i)[^46] pisztollyal történő szolgálatellátás esetében köteles ellenőrizni a töltés-ürítés, gépkarabéllyal történő szolgálatellátás esetében köteles ellenőrizni a töltés-ürítés, a felvezetés és a váltás végrehajtását.
+i)[^48] pisztollyal történő szolgálatellátás esetében köteles ellenőrizni a töltés-ürítés, gépkarabéllyal történő szolgálatellátás esetében köteles ellenőrizni a töltés-ürítés, a felvezetés és a váltás végrehajtását.
 
 j) ha a szolgálat ellátására képtelenné válik, jelentse az elöljáró szolgálatnak, a továbbiakban az ő parancsuk szerint járjon el.
 
@@ -4364,7 +4362,7 @@ b) a laktanya- (objektum-) ügyeleti szolgálat;
 
 c) a laktanyaparancsnok szolgálati elöljárója és az általa megbízott személy az alárendeltjeik vonatkozásában;
 
-d)[^47] a HM illetékes szervének vezetője és az általa megbízott személy;
+d)[^49] a HM illetékes szervének vezetője és az általa megbízott személy;
 
 e) a vállalkozó és az általa megbízott személy;
 
@@ -4380,7 +4378,7 @@ c) a középszintű vezető szerveknek évente;
 
 d) a felsőszintű szerveknek évente az őrségek 20%-át.
 
-532.[^48] Az őrzés-védelem ellenőrzésbe a vállalkozó, illetve fővállalkozó szükség szerint bevonható, a HM illetékes szerve ellenőrzései egy részét a fővállalkozóval együtt hajtja végre.
+532.[^50] Az őrzés-védelem ellenőrzésbe a vállalkozó, illetve fővállalkozó szükség szerint bevonható, a HM illetékes szerve ellenőrzései egy részét a fővállalkozóval együtt hajtja végre.
 
 533. Az ellenőrzés során vizsgálni kell:
 
@@ -4398,489 +4396,498 @@ f) a katonai szervezetre háruló, szerződésben rögzített kötelezettségek 
 
 534. Az ellenőrzés tényét és főbb megállapításait az integrált biztonsági szolgálat okmányában és a katonai szervezet ellenőrzési füzetében írásban rögzíteni kell. Az elöljárói intézkedésben meghatározottaknak megfelelően később ellenőri jelentést vagy jegyzőkönyvet kell készíteni
 
-VII. Fejezet
+VII. Fejezet[^51]
 
-A KATONAI RENDÉSZETI SZOLGÁLAT
+A KATONAI RENDÉSZET
 
-Általános rendelkezések
+Általános szabályok
 
-535.1.[^49] Magyarország területén működtetett katonai rendészeti szolgálatok rendeltetése a katonai rend és fegyelem fenntartása. A rendészeti szolgálatok hatásköre a Magyar Honvédség, valamint a honvédelmi miniszter közvetlen irányítása, felügyelete alá tartozó szervezetek katonái, gép- és harcjárművei rendészeti ellenőrzésére és ezen fejezetben meghatározott egyéb feladatok végrehajtására terjed ki.
+535. A katonai rendészeti tevékenység kiterjed:
 
-535.2. A katonai rendészeti járőr olyan speciális hatáskörrel felruházott fegyveres csoport, amely katonai rendészeti feladatokat lát el.
+a) a katonai rendészeti alkalmazási körzetekre, beleértve a honvédségi objektumok területét is;
 
-A katonai rendészeti szolgálat feladata, hatásköre
+b) a gyakorlatok körzeteire;
 
-536.1. A rendészeti szolgálat feladata:
+c) a műveleti területekre.
 
-a) a katonák és a honvédségi gépjárművek ellenőrzése;
+536. Katonai rendészeti feladatok ellátása történhet:
 
-b)[^50] részvétel:
+a) 24 órás katonai rendész járőr szolgálat keretében;
 
-– a katonák által okozott vagy elszenvedett balesetek, bűncselekmények, szabálysértések és fegyelemsértések esetén a helyszín biztosításában, baleseti helyszínelésében;
+b) eseti jelleggel az elrendelt szakfeladat függvényében.
 
-– a forgalomirányításban a honvédségi gépjárműoszlopok mozgása, valamint a honvédséget érintő rendezvények esetén;
+537. Az eseti jelleggel elrendelt szakfeladatokat ellátó katonai rendészek feladat- és hatásköre megegyezik a katonai rendészeti szolgálat feladat- és hatáskörével a kirendelő parancsnok utasításainak megfelelően.
 
-– a közúti, a vasúti (vízi) szállítások biztosításában;
+538. A feladatát ellátó katonai rendész állomány (a továbbiakban: járőr) parancsnoka legalább altiszti állományba tartozó személy.
 
-– a HM rendezvényeinek biztosításában, illetve az ezeken résztvevő személyek, valamint vendégeik védelmében;
+539. Ha a feladat jellege megkívánja, a katonai rendész járőrtársként osztható be a rendőrrel együtt történő járőrözésre. A vegyes összetételű járőrök tagjainak intézkedési jogára – jogszabály, az Európai Unió jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában – a vezénylő szervre vonatkozó jogszabályok irányadók.
 
-– a csapatok tábori elhelyezése, gyakorlatok, lövészetek alkalmával a terület zárásában;
+540. A személyi állomány tagja által elkövetett normasértést e rendeletben meghatározott esetekben a katonai rendész írásban az érintett személy állományilletékes parancsnokának, illetve hivatali felettesének tudomására hozza (a fejezet alkalmazásában a továbbiakban: feljelentés).
 
-– hazánkban megrendezett nemzetközi gyakorlatokon a műveleti területeken együttműködésben más országok katonai rendész (rendőr) állományával;
+541. A katonai rendésznek a gyakorlatokon, műveleti területen, nemzetközi erőkkel közösen végrehajtott feladatok során, vagy ilyen jellegű rendezvények biztosítási feladatainak végrehajtásakor a gyakorlatvezető vagy parancsnok által meghatározott jelzést is viselni kell.
 
-– a katonákkal szemben eljáró szervek segítésében.
+542. A katonai rendészeti szervek gépjárműveit megkülönböztető fény- és hangjelzéssel, továbbá „KATONAI RENDÉSZET” felirattal kell ellátni.
 
-536.2. A katonai rendészeti szervek feladataikat önállóan vagy a rendőrséggel együttműködésben, illetve nyomozótiszt, katonai ügyész utasítása alapján teljesítik.
+A katonai rendészet feladata, hatásköre
 
-537. A katonai rendészeti tevékenység kiterjed:
+543. A katonai rendészet – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényben meghatározott feladatokon túl – a következő feladatokat látja el:
 
-a) a helyőrségekre, a helyőrség határán kívüli alkalmazási körletekre;
+a) a közúti, a vasúti, vízi és légi szállítások biztosítása, közúti katonai rendészeti ellenőrző áteresztő pontok működtetése, azok forgalmának szabályozása;
 
-b) gyakorlatok körzeteire;
+b) a Honvédség rendezvényeinek biztosítása, az ezeken résztvevő személyek kísérésének biztosítása;
 
-c) hadműveleti területekre;
+c) a HM állami vezetőinek, a Honvéd Vezérkar főnöke és Honvéd Vezérkar főnökének helyettese személyi kísérésének biztosítása;
 
-d) a járőrútvonalakra, a közhasználatú járművekre és azok állomásaira, a nyilvános szórakozóhelyekre.
+d) a Honvédséget érintő érték-, pénzszállítások kísérésének biztosítása;
 
-A katonai rendészeti szolgálat irányító szervei
+e) a csapatok tábori elhelyezése, gyakorlatok, lövészetek alkalmával azok rendészeti biztosítása;
 
-538. A Honvéd Vezérkar illetékes szerve a Magyar Honvédségre kiterjedő hatáskörrel irányítja a katonai rendészeti szolgálatot ezen Szabályzat és a szolgálatra vonatkozó egyéb rendelkezések szerint. Ennek megfelelően:
+f) a Honvédség személyi állományával szemben eljáró szervekkel való együttműködés;
 
-a) tervezi, szervezi, irányítja és végzi ezen fejezet és a vonatkozó egyéb rendelkezések szerint a katonai rendészeti tevékenységet;
+g) a Honvédség kiemelt objektumainak őrzés-védelmében való részvétel;
 
-b) ellenőrzi a rendészeti szerveket és a járőröket;
+h) a hazánkban megrendezett nemzetközi gyakorlatokon, illetve a műveleti területeken együttműködés más országok katonai rendész, katonai rendőr állományával.
 
-c) együttműködést szervez a katonai szervezetekkel, a rendőrség illetékes szerveivel, közös tevékenység esetén részt vesz ennek koordinálásában;
+Forgalomirányítás
 
-d) tervezi az MH szintű katonai rendészeti szolgálatot ellátó állomány szakkiképzését, továbbképzését, gondoskodik a logisztikai biztosításról;
+544. A katonai rendészet a Honvédség személyi állományába nem tartozó személyekre is kiterjedő hatállyal a közúti, a vasúti, vízi forgalmat irányíthatja
 
-e) ellátja a katonai rendészeti tevékenység szakmai felügyeletét.
+a) katonai szállítmány zavartalan haladásának biztosítása érdekében,
 
-539.[^51] Az MH szintű katonai rendészeti ellenőrzést a Honvéd Vezérkar főnöke által jóváhagyott terv alapján az általa kijelölt katonai szervezet végzi.
+b) helyszíni szemle és helyszín biztosításának végrehajtása során,
 
-540. Az MH középszintű parancsnokságai és a helyőrségparancsnokok alkalmazási körleteikben, illetve helyőrségükre vonatkozóan:
+c) területzárás végrehajtása során, vagy
 
-a) tervezik, szervezik, koordinálják és ellenőrzik a járőrök tevékenységét;
+d) a HM állami vezetőinek, a Honvéd Vezérkar főnöke és Honvéd Vezérkar főnökének helyettese személyi kísérése során.
 
-b) együttműködést szerveznek a helyőrség és a kijelölt alkalmazási körlet katonai szervezeteivel, a rendőrséggel, közös tevékenység esetén részt vesznek ennek koordinálásban;
+545. A katonai rendészet a forgalom irányítása során jogosult a forgalomban résztvevő járművet az 544. pontban meghatározott feladatok végrehajtásáig megállítani, haladási irányát meghatározni.
 
-c) gondoskodnak a katonai rendészeti szolgálatot ellátók szakkiképzéséről, biztosítják a szolgálat ellátásának személyi, anyagi-technikai feltételeit;
+A helyszín biztosítása, helyszíni szemle
 
-d) a helyőrségkomendánsok közvetlenül irányítják a helyőrségi járőröket.
+546. A katonai rendészet a Honvédség személyi állományába nem tartozó személyekre is kiterjedő hatállyal helyszín biztosítást és helyszíni szemlét végezhet
 
-A katonai rendészeti szolgálat tagozódása
+a) a katonák által elkövetett szabálysértés vagy fegyelemsértés esetén,
 
-541. A katonai rendészeti szolgálat elemei alárendeltségük (szintjük), rendfokozatuk és rendeltetésük szerint tagozódnak.
+b) a Honvédség tulajdonában lévő vagy általa üzemeltetett gépjárművek személyi állománya által okozott balesetek esetén, vagy
 
-542. Alárendeltségük (szintjük) szerint:
+c) a Honvédség tulajdonában lévő vagy általa üzemeltetett gépjárművek személyi állománya sérelmére bekövetkezett balesetek esetén.
 
-a)[^52] a vezérkari katonai rendészeti járőrök a Honvéd Vezérkar illetékes szerve vezetőjének alárendeltségében, Magyarország területére kiterjedő illetékességgel;
+547. A katonák által elkövetett vagy a katona sérelmére elkövetett bűncselekmény esetén a katonai rendészet a nyomozó hatóság kiérkezéséig a helyszínt biztosítja, a katonát a helyszínen visszatartja, más személyt felhív a helyszínen történő ottmaradásra.
 
-b) a parancsnoksági katonai rendészeti járőrök az MH középszintű parancsnokai alárendeltségében, a parancsnokság alárendeltségében lévő helyőrségek és azok alkalmazási körleteire kiterjedő illetékességgel;
+548. A helyszínt biztosító katonai rendész
 
-c) a helyőrségi katonai rendészeti járőrök a helyőrségparancsnok alárendeltségében, a helyőrség és a meghatározott alkalmazási körletre kiterjedő illetékességgel;
+a) elsősegélyben részesíti vagy részesítteti azokat, akik az esemény során megsérültek, valamint más ok miatt segítségre szorulnak,
 
-d) a nemzetközi gyakorlatokon katonai rendészeti járőrei a gyakorlatvezető parancsnok alárendeltségében, a meghatározott alkalmazási körletre, vagy hadműveleti körletre kiterjedő illetékességgel végzik feladataikat.
+b) a helyszínt körülkeríti, eredeti állapotában megőrzi,
 
-543. Rendfokozat szerint a járőrök lehetnek:
+c) megállapítja és megfigyeli, hogy megváltoztatták-e a helyszínt, ha igen, ki és miért, miben változtatta meg,
 
-a) a tiszti járőrök, amelyeknek parancsnoka tiszt, ezredesig bezárólag;
+d) az eseményt szolgálati elöljárójának azonnal jelenti,
 
-b) zászlósi járőrök, amelyeknek parancsnoka zászlós, főtörzszászlósig bezárólag;
+e) feljegyzi, hogy a sérültet milyen rendszámú mentő gépkocsival, hova szállították el, valamint
 
-c) tiszthelyettesi járőrök, amelyeknek parancsnoka tiszthelyettes, főtörzsőrmesterig bezárólag;
+f) a helyszínre megérkező szemlebizottság vezetőjének jelentést tesz.
 
-d) tisztesi járőrökre, amelyeknek parancsnoka tisztes, szakaszvezetőig bezárólag jogosult intézkedni.
+549. A helyszínről való bevonulása után a katonai rendész írásban jelenti, hogy
 
-544.1. Rendeltetés szerint a járőrök lehetnek:
+a) kinek a felhívására vagy utasítására, mikor érkezett a helyszínre,
 
-a) katonai rendészeti járőrök (közúton, közhasználatú járműveken, közterületeken, gyakorlatokon, rendezvények biztosításakor);
+b) kiket talált a helyszínen,
 
-b) pályaudvari, valamint közúti katonai rendészeti őrsök lehetnek.
+c) milyen nyomokat és anyagmaradványokat biztosított,
 
-544.2. A járőrök és az őrsök megnevezése a továbbiakban együtt: járőr.
+d) milyen intézkedéseket tett, valamint
 
-A járőr alárendeltsége
-
-545. A vezérkari katonai rendészeti járőr a Honvéd Vezérkar illetékes szerve vezetőjének, közvetlenül a rendészeti alegységparancsnoknak, a parancsnoksági járőr a parancsnokság parancsnokának és a rendészeti alegység parancsnokának, a helyőrségi járőr helyőrségparancsnoknak, közvetlenül a helyőrség-komendánsnak (helyőrség-ügyeletesnek), valamint helyőrség-támogató alegység parancsnoknak van alárendelve.
-
-A járőr feladata
-
-546.1. A katonai rendészeti járőr az ország területén, a helyőrségben (helyőrségi), az alkalmazási körletben (parancsnoksági), valamint a járőrútvonalon, a tömegközlekedési járműveken (vonat, hajó, távolsági és helyi autóbusz, metró, villamos, trolibusz stb.), azok állomásain, a nyilvános szórakozóhelyeken (vendéglő, művelődési intézmények előterei, sportpálya, szabadtéri rendezvények területe stb.) hajtja végre a következő feladatokat:
-
-a) ellenőrzi e Szabályzat, a helyőrségparancsnok rendelkezéseinek, valamint a közúti forgalomban részt vevő katonai gép- és harcjárművekre vonatkozó szabályoknak a katonák részéről történő betartását;
-
-b) intézkedéseket foganatosít az alaki magatartás és a katonai udvariasság szabályait, öltözködés előírásait megsértő, a közrendet megzavaró, fegyelemsértést, szabálysértést vagy bűncselekményt elkövető, a gépjárművek igénybevételére, a forgalomban való részvételre vonatkozó szabályokat be nem tartó katonákkal szemben;
-
-c) tettenérés esetén – ha ez halaszthatatlan – intézkedést foganatosíthat, amennyiben hivatalból üldözendő bűncselekményt követtek el, és az intézkedésre egyébként jogosult szerv, vagy hatósági személy (pl. illetékes parancsnok, rendőr) nincs jelen, vagy eljárásban akadályozott;
-
-d) polgári ruhában lévő katonával szemben a járőr csak akkor járhat el, ha a katonai mivoltát előzetesen (rendőri igazoltatás után) megállapította;
-
-e) diplomáciai mentességet élvező személyekkel és azok családtagjaival, valamint a személyes mentességet élvező személyekkel (országgyűlési képviselő, bíró stb.) szemben a járőr intézkedésre nem jogosult. Ha a járőr intézkedése során a személyi okmányokból megállapítja a diplomáciai, valamint a személyes mentességet, a további intézkedéstől köteles elállni.
-
-546.2. A járőr tagjait szolgálatuk alatt a katonai rendészeti tevékenységekkel összefüggésben büntetőjogi védelem illeti meg. Ez vonatkozik a járőr védelmére kelt személyekre is.
+e) változásokat eszközöltek-e a helyszínen, ha igen, kik és milyen okból.
 
 A járőr összetétele
 
-547. A járőr a parancsnokból és egy vagy több járőrtársból áll. A járőrhöz beosztott gépjármű vezetője a járőr állományába tartozik. A járőr állományát a feladat jellegének megfelelően kell meghatározni úgy, hogy az ellenőrzésre kerülő rendfokozati állománycsoportokkal szemben intézkedő képes legyen. A járőr feladatát – külön parancsra – polgári ruhában is végrehajthatja.
+550. A járőr járőrparancsnokból és egy vagy több járőrtársból áll. A járőrhöz beosztott gépjárművezető is a járőr állományába tartozik.
 
-548. A katonai rendészeti szolgálatba olyan katona személy vezényelhető, aki megfelelő szakkiképzést kapott, fegyelmi fenyítés hatálya alatt nem áll, határozott fellépésű, lehetőleg 175 cm-nél magasabb.
+A járőr által végrehajtott ellenőrzések
 
-A közúti katonai rendészeti őrsök és a gépjárművel szolgálatot ellátó katonai rendészeti járőrök parancsnokai csak tisztek, zászlósok vagy tiszthelyettesek lehetnek.
+551. A katonai rendész a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 54/B. § (1) bekezdés b)–d) pontja szerinti ellenőrzést ezen alcímben foglaltak szerint hajtja végre.
 
-A járőr fegyverzete, felszerelése, öltözete, okmányai
+552. Az ellenőrzés során a Honvédség személyi állományába tartozó személy személyazonosságát megállapíthatja, és megállapíthatja a közterületen, járművön, műveleti területen, alkalmazási körletben, őrzött, zárt területen tartózkodásának jogszerűségét.
 
-549. A járőr tagjainak fegyverzete pisztoly, két töltött tárral. A járőr fegyverzete külön parancsra gépkarabély (géppisztoly) is lehet 1 töltött tárral.
+553. Az ellenőrzés alá vont személy személyazonosságának a megállapítása a járőrparancsnok kötelessége. Az érintett személyt fel kell szólítani az okmányai átadására. Pl. „Őrnagy úr jelentem, okmány ellenőrzés! Kérem a személyi okmányait!” A járőrparancsnok és az ellenőrzés alá vont katona között – ha erre lehetőség van – 3 lépés távolság legyen.
 
-550. A járőr tagjainak felszerelése: bilincs, gumibot, könnygázszóró berendezés, egyéni sebkötöző csomag, alkoholszonda és zseblámpa, külön parancsra katonai rendész sisak. A gépjárművek technikai állapotának ellenőrzésére szakfelszerelést kell használni.
+554. A járőrparancsnok megállapítja az ellenőrzött személy okmányainak érvényességét, s utána felszólítja a személyazonosság megállapításához szükséges adatainak közlésére és ezeket az okmányokból ellenőrzi. Ha az ellenőrzés során megállapítható, hogy nincs helye további intézkedésnek, az okmányokat az igazoltatott személynek visszaadja és „Köszönöm! Távozhat!” szavakkal elbocsátja. Ellenkező esetben a járőr köteles intézkedni.
 
-551. A járőr öltözete az időjárási viszonyoknak megfelelő rendszeresített gyakorló öltözet. Alárendeltség szerinti rendész embléma. Fehér derékszíj, fehér sípzsinór, fehér pisztolytáska. Közúti ellenőrzés esetén fényvisszaverő mellény, tárcsa. A feladat függvényében a járőr ellátható mobil telefonnal, rádiókészülékkel, illetve távcsővel.
+555. A járőrparancsnok – a gépjárműparancsnok rendfokozatától függően – jelenti vagy közli a gépjármű ellenőrzés tényét. Ha a személyi okmányokból az állapítható meg, hogy a gépjármű vezetője honvédségi kormánytisztviselő vagy közalkalmazott, a gépjármű ellenőrzést a katonákra vonatkozó szabályok szerint hajtja végre, azonban kormánytisztviselővel vagy közalkalmazottal szemben személyi szabadságot korlátozó intézkedést nem alkalmazhat.
 
-A járőr öltözete és felszerelése csak kifogástalanul karbantartott lehet.
+556. Az ellenőrzés után – ha a gépjárművezetőt előállítani nem kell – az okmányokat a járőrparancsnok visszaadja, az ellenőrzés tényét és eredményét a menetlevél megjegyzés rovatába bevezeti, és a járművet útjára bocsátja. Ellenkező esetben a járőr köteles intézkedni.
 
-552.1. A vezérkari, a parancsnoksági, a helyőrségi járőrök megkülönböztetésére szolgáló jelzéseket e Szabályzat 3. számú melléklete, a járőr okmányait 2. és 6. számú melléklete tartalmazza. A járőr tagjainak személyi azonosságát külön okmány igazolja.
+557. A katonai rendésznek a megkezdett intézkedést minden esetben, szükség esetén akár kényszerítő eszközök alkalmazásával is be kell fejeznie.
 
-552.2. Hadgyakorlatokon, műveleti területen, nemzetközi erőkkel közösen végrehajtott feladatok során, vagy ilyen jellegű rendezvények biztosítási feladatainak végrehajtásakor a gyakorlatvezető (illetékes parancsnok) által meghatározott jelzést is viselni kell.)
-
-552.3. A katonai rendészeti szervek gépjárműveit megkülönböztető fény- és hangjelzéssel, illetve „KATONAI RENDÉSZET” felirattal kell ellátni. A járőrök szolgálatukat a rendőrség gépjárművein is elláthatják.
-
-552.4. A rendezvények biztosítására kirendelt és a polgári ruhás járőr felszerelését és okmányait esetenként külön kell meghatározni.
-
-A járőr vezénylése
-
-553.1. A vezérkari katonai rendészeti járőrt az ország területére a Honvéd Vezérkar illetékes szervének vezetője rendeli ki.
-
-553.2. Parancsnoksági járőrt a parancsnokság és alárendeltjei alkalmazási körletei területére a parancsnokság parancsnoka vezényli.
-
-553.3. Helyőrségi járőrt a helyőrség és az alkalmazási körlet területére a helyőrségparancsnok vezényli. A helyőrségi járőröket havonta, helyőrségparancsnoki parancsban név szerint kell vezényelni.
-
-A járőr felkészítése
-
-554.1. A járőr állománya részére szolgálatba lépés előtt – a munkaidő terhére – 3 órát a felkészítésre kell biztosítani. Ebből egy órát egyéni felkészülésre (öltözet, felszerelés rendbehozatalára, fegyver felvételére), két órát elméleti-gyakorlati felkészítésre (kötelmek tanulmányozására, az intézkedések gyakorlására) kell felhasználni. A rendész beosztású, rendszeresen járőrszolgálatot ellátó tiszt, tiszthelyettes állomány szolgálatba lépésénél ettől el lehet térni, azonban a felkészülésre biztosított idő 1 óránál kevesebb nem lehet.
-
-554.2. Az elméleti-gyakorlati felkészítés a rendészeti alegységparancsnok, illetve a helyőrségkomendáns, vagy az ezzel a feladattal megbízott személy irányításával a járőrparancsnok kötelessége. A felkészítéshez nyújtson szakmai segítséget a katonai szervezet logisztikai főnökség illetékes szakembere.
-
-554.3. A vezérkari rendészeti járőröket a rendészeti alegységeknél, a parancsnoksági járőröket az egységüknél, a helyőrségi járőröket pedig a helyőrségkomendáns, helyőrség támogató alegység parancsnok által meghatározott helyen kell felkészíteni.
-
-A járőr eligazítása, a szolgálat időtartama
-
-555.1. A szolgálatba lépő járőrnek az eligazítást tartó parancsnok által meghatározott időpontban meg kell jelennie az eligazítás helyén.
-
-555.2. A vezérkari rendészeti járőr eligazítását a rendészeti alegységparancsnok, átfogó rendészeti ellenőrzéseknél az ellenőrzést vezető parancsnok köteles megtartatni.
-
-555.3. Az eligazításon ellenőrizni kell a járőr fegyverzetét, felszerelését, öltözetét, elméleti-gyakorlati felkészültségét. Részletesen meg kell határozni a járőr feladatát és részére ki kell adni a szolgálati okmányokat.
-
-555.4. Felkészületlen járőr nem láthat el szolgálatot.
-
-556. A járőrt úgy kell útba indítani, hogy a szolgálatát a meghatározott helyen és időben megkezdhesse.
-
-557. A szolgálat időtartama 24 óra vagy ennél rövidebb. A 24 órából a ténylegesen járőrözésre fordított idő 16 óránál több nem lehet. Kettő–négy órás járőrözés után 1-2 óra pihenő jár. A pihenők időpontját a járőrlapon kell feltüntetni. Ezt – a katonai mozgások tényleges alakulásához igazodva – a járőrparancsnok megváltoztathatja. A pihenő ideje alatt – a kijelölt, illetve az erre alkalmas helyeken – a járőr tagjai öltözetükön, felszerelésükön könnyíthetnek és felváltva alhatnak.
-
-558. A katonai rendészeti szolgálat ellátását végrehajtó állomány járandóságait a külön jogszabályban meghatározottak szerint kell biztosítani.
-
-A járőr szolgálata ellátásának általános szabályai
-
-559. A járőr szolgálatának ellátása közben legyen határozott és körültekintő. Mutasson példát a fegyelem, a szolgálati érintkezés, az alaki magatartás és a katonai udvariasság, az öltözködés szabályai betartásában. Intézkedése közben ne használjon sértő hangot és kerülje a feltűnést.
-
-560.1. A járőr a szolgálata idején szeszesitalt nem fogyaszthat. Járőrözés közben öltözetén, felszerelésén nem könnyíthet, magánbeszélgetést nem folytathat, nem étkezhet, és nem dohányozhat. Köteles kerülni mindazt, ami figyelmét a szolgálat ellátásától elvonhatja. Útvonaláról – kivéve, ha ezt az intézkedés szükségessé teszi – nem térhet le. A járőr intézkedés és előállított személy kísérése közben tiszteletadást nem köteles teljesíteni.
-
-560.2. Járőrök találkozása esetén az alacsonyabb rendfokozatú járőrparancsnok jelentkezzen, azonos rendfokozat esetén kölcsönösen mutatkozzanak be és a szolgálat ellátásával kapcsolatos tapasztalataikról egymást tájékoztassák.
-
-560.3. Ha a járőr rendfokozata miatt nem intézkedhet – kivéve a bűncselekmény elkövetésén tettenérés tényállását – kérjen fel erre egy intézkedésre jogosult feljebbvalót.
-
-560.4. Egyenruhás járőr művelődési intézmények nézőterére, előadótermébe csak azonnali intézkedést igénylő esetben léphet be.
-
-A rendészeti járőrparancsnok kötelességei
-
-561.1. A járőrparancsnok a járőrt kiküldő parancsnoknak, a helyőrség-komendánsnak (helyőrség-ügyeletesnek) van alárendelve. A járőrparancsnok szolgálati elöljárója a járőr állományának.
-
-561.2. A járőr állománya a szolgálatra való felkészülés megkezdésekor kerül a járőrparancsnok alárendeltségébe, ami a járőrlapon a járőrszolgálat befejezéséig meghatározott időpontig tart.
-
-561.3. A járőrparancsnok felelős a járőrszolgálat előírások szerinti ellátásáért.
-
-562. A járőrparancsnok kötelességei:
-
-a) szolgálatba lépés előtt ellenőrizze a járőr állománya egyéni felkészültségét, a járőr gépjárművét, fegyverzetét, a rádió, a megkülönböztető jelzőberendezések üzemképességét, felszerelését, személyesen vezesse az elméleti és a gyakorlati felkészülést;
-
-b) ismerje a járőr feladatát, az összeköttetés rendjét;
-
-c) intézkedjen a rend helyreállítására, ha a fegyelmet, a közrendet a katonák megsértik;
-
-d) nyújtson segítséget a rend helyreállításában és fenntartásában az intézkedő katonának, rendőrnek;
-
-e) az intézkedések során – ha az indokolt – adjon parancsot a járőrtársnak a kényszerítő eszközök alkalmazására;
-
-f) folyamatosan vezesse a járőr szolgálati okmányait;
-
-g) szabályozza a járőr pihenését, a járőrlapon meghatározott időpontoktól való eltérést a járőrlapra az indoklásokkal együtt vezesse rá;
-
-h) rögzítse a járőrlapon az útvonaltól való eltérés idejét és okát;
-
-i) ha a járőrtárs súlyosan megsérti szolgálati kötelességét, fegyverét vegye el és állítsa elő;
-
-j) ha a járőrtárs valamilyen oknál fogva szolgálatképtelenné válik, jelentse a kiküldő parancsnoknak (helyőrség-ügyeletesnek) és a továbbiakban annak utasításai szerint járjon el;
-
-k) ha valamilyen oknál fogva szolgálatképtelenné válik, adja át a járőrparancsnokságot a rangidős járőrtársnak, az a megkezdett intézkedést fejezze be és tegyen jelentést a kiküldő parancsnoknak (helyőrség-ügyeletesnek), és a továbbiakban annak utasításai szerint járjon el;
-
-l) a járőrparancsnok a szolgálatból senkit nem engedhet el, a szolgálatot saját elhatározásából nem szakíthatja meg, a szolgálattal össze nem függő kérdésekben nem járhat el, illetve nem teljesíthet attól eltérő megbízatásokat;
-
-m) a szolgálat befejezése után ellenőrizze a fegyverek töltetlenségét, intézkedjen a fegyverek és lőszerek, felszerelések leadására, fejezze be a járőrlapok kitöltését, tegyen jelentést a kiküldő parancsnoknak – az általa kijelölt személynek – a szolgálatban történtekről és adja le a szolgálati okmányokat.
-
-A járőrtárs kötelességei
-
-563. A járőrtárs a járőrparancsnoknak van alárendelve.
-
-564. A járőrtárs kötelességei:
-
-a) szolgálatba lépés előtt helyezze kifogástalan állapotba fegyverét, öltözetét, felszerelését, a gépjárművét és a megkülönböztető jelzőberendezéseket. Ellenőrizze a híradástechnikai eszközök üzemképességét, az igénybevételhez szükséges okmányokat, a gépjármű-ellenőrzés végrehajtására szolgáló technikai eszközök meglétét és használhatóságát (a gépjármű ellenőrzés technikai eszközeit szakintézkedés szabályozza);
-
-b) ismerje a járőr feladatát, az összekötetés rendjét a járőr szolgálati elöljáróival, a területileg illetékes rendőri szervekkel, az MH szintű és a parancsnoksági járőr tagja ezen kívül az útvonalán lévő helyőrség-ügyeletesekkel és a rendőri szervekkel is;
-
-c) szolgálat közben éberen figyeljen, a tapasztalt rendellenességeket azonnal jelentse a járőrparancsnoknak;
-
-d) biztosítsa az intézkedő járőrparancsnokot, legyen kész a járőrparancsnok ellen irányuló támadás és az intézkedés alá vont személyek esetleges szökésének megakadályozására;
-
-e) működjön közre az előállításra kerülő személyek ruházatának, csomagjának és a gépjárművek átvizsgálásában, a forgalomban részt vevő gépjárművek ellenőrzésében;
-
-f) védelmezze a járőrparancsnokot és a járőr tagjait, ismerje a kényszerítő eszközök alkalmazásának feltételeit, szakszerű fogásait, a járőrparancsnok parancsára, vagy ha ilyen parancs kiadására nincs idő, de az alkalmazás esetei fennállnak, önállóan, kényszerítő eszközökkel biztosítsa az intézkedés eredményességét;
-
-g) gumibotját – külön parancs nélkül – helyezze készenlétbe, ha az intézkedés alá vont katona, vagy a társaságába tartozó személyek ittasak;
-
-h) ismerje a forgalomirányító jelzéseket, azokat szakszerűen, határozottan alkalmazza;
-
-i) ismerje az elsősegélynyújtás szabályait, működjön közre a balesetek, a kényszerítő eszközök alkalmazása vagy más következtében megsérült személyek első ellátásában;
-
-j) megbetegedését, vagy bármilyen más, a szolgálat ellátását gátló eseményt azonnal jelentse a járőrparancsnoknak;
-
-k) ha a szolgálat ellátását gépkarabéllyal (géppisztollyal) rendelik el, fegyverét „hátra”, közhasználatú járműveken, nyilvános szórakozóhelyeken és tömegben „mellre”, üldözéskor „súlyba”, intézkedés közben, ha fegyverhasználatra előreláthatóan sor kerülhet, „tüzeléshez kész” helyzetben hordja, illetve tartsa.
-
-A járőr ellenőrzési tevékenysége
-
-565. A személyek ellenőrzése a járőr alapvető tevékenysége, melynek során igazoltatással állapítja meg az ellenőrzött személy kilétét, közterületen (járművön), műveleti területen, alkalmazási körletben, őrzött, zárt területen tartózkodásának jogszerűségét. A járőr a szabályokat megsértő és a szolgálati feladatában meghatározott katonákat ellenőrzi.
-
-566. Az ellenőrzés alá vont személy igazoltatása a járőrparancsnok kötelessége. Ennek módja a katona felszólítása az okmányai átadására. Pl.: „Őrnagy úr jelentem okmány ellenőrzés! Kérem a személyi okmányait!” A járőrparancsnok és az ellenőrzés alá vont katona között – ha erre lehetőség van – 3 lépés távolság legyen. A járőrtárs az ellenőrzött személy jobb oldalához, arccal feléje fordulva fél kartávolságra álljon úgy, hogy szükség esetén azonnal beavatkozhasson az esetleges szökés megakadályozására, vagy a támadás elhárítására. A másik járőrtárs az ellenőrzött személy háta mögött tartózkodjon.
-
-567.1. A járőrparancsnok állapítsa meg a katona okmányainak érvényességét, s utána szólítsa fel az adatainak közlésére (neve, anyja neve stb.), és ezeket az okmányokból ellenőrizze. Ha az okmányokat rendben találta, az ellenőrzött személy tartózkodása az ellenőrzés helyén jogos, adja vissza az okmányokat és „Köszönöm! Távozhat!” szavakkal bocsássa el. Rendellenesség esetén e Szabályzat 587–610. pontjaiban foglaltak szerint köteles intézkedni.
-
-567.2. Több katona ellenőrzése esetén a járőrparancsnok az igazoltatást egyenként, a járőrtárs(ak) biztosítása mellett végezze.
-
-568. A gépjármű ellenőrzés a közúti katonai rendészeti őrs és a katonai gépjárművel szolgálatot ellátó járőr alapvető feladata, melynek során a járőr a gépjárművek igénybevételének jogszerűségét, a közúti közlekedés szabályainak betartását, a biztonságos közlekedés műszaki feltételeinek meglétét köteles ellenőrizni.
-
-569.1. A járőr az ellenőrzés helyét úgy válassza meg, hogy a járművek leállítása balesetveszélyt ne okozzon és a forgalmat ne akadályozza.
-
-569.2. A járőrtársat a járművek érkezésének irányába olyan távolságra kell kiküldeni, hogy a szolgálati járművek érkezését a járőrnek – rádión – időben jelezhesse (csak minimum 3 fős járőr esetén).
-
-569.3. Lakott területen belül kb. 60–70 méter, lakott területen kívül kb. 90–100 méter távolságból a rendészeti járőr az „ÁLLJ” jelzést határozottan, félre nem érthető módon adja. A jelzést ismételje meg, illetve jelezze a leállás irányát és helyét. A járőr általában az úttest jobb szélén, az útpadka közelében tartózkodjon és arccal a forgalom felé fordulva adja jelzéseit. Az úttest közepén tartózkodni csak abban az esetben szabad, ha egyébként a jó láthatóság és a baleset elkerülése biztosított.
-
-570.1 Menet közben történő ellenőrzés esetén a gépkocsizó járőr az úttest jobb szélső sávjában, a forgalom ritmusához alkalmazkodó sebesség megválasztásával közlekedjen. A leállítás a mögöttes gépjárművek vezetőjét, vagy a forgalom más résztvevőjét nem kényszerítheti haladási irányának vagy sebességének hirtelen megváltoztatására, illetve a közlekedésben résztvevőket nem akadályozhatja, és nem zavarhatja.
-
-570.2. A megállítást úgy hajtsák végre a megkülönböztető fény- és hangjelzéssel, valamint a fénykürt használatával, hogy a megállítandó gépjármű mindvégig a járőr gépjárműve előtt maradjon.
-
-570.3. Amint az ellenőrizendő gépjármű vezetője észlelte, hogy a fény- és hangjelzések rá vonatkoznak, a járőrtárs jelzőtárcsával, karját vállmagasságban vízszintesen kinyújtva, azt többször le-föl mozgatva adjon jelzést, egyben jelezze a jobbra leállás irányát. A jelzés adásával egy időben a rendészeti gépjármű vezetője enyhén, fokozatosan fékezzen, az irányjelzőt működtesse és jobbra, az útpadka felé haladjon. A járművek az úttest menetirány szerinti jobb oldalára, szorosan az útpadkára álljanak és egymástól körülbelül 6–8 méter távolságra legyenek. A megkülönböztető fényjelzést az ellenőrzés befejezéséig bekapcsolva kell hagyni.
-
-570.4. A járőr mozgásirányával szemben haladó gépjárművet csak mindkét gépjármű viszonylag alacsony sebessége, gyér forgalmi viszonyok esetén, és olyan egyenes úton szabad leállítani, ahol a kétirányú forgalom számára csupán egy-egy forgalmi sáv áll rendelkezésre.
-
-570.5. A járőr mérlegelje, hogy a szemben haladó gépjármű vezetője (gépjárműparancsnoka) valamely oknál fogva nem észlelte, vagy félreértette a megállításra adott jelzést, ezért nem áll meg, vagy csak hosszabb távolság megtétele után képes a szabályos leállásra.
-
-570.6. Az addig vele szemben haladó gépjármű leállását követően a járőr kanyarodjon a leállított gépjármű mögé és az 570.3. pontban leírt pozíciót vegye fel.
-
-570.7. A gépjárművet és utasait folyamatosan és mindaddig figyelemmel kell kísérni, amíg meg nem áll. A gépjármű forgalmi rendszámát az ellenőrzés megkezdése előtt fel kell jegyezni. A jelzésre a megállást elmulasztó gépjárművet – bűncselekmény alapos gyanúja esetén, ha erre az összes személyi, biztonsági és műszaki feltétel adott – csak különleges esetekben szabad üldözőbe venni a biztonság betartása mellett. Ilyen esetben a járőr minden lehetséges veszélyre készüljön fel.
-
-571.1. A járőrparancsnok – a gépjárműparancsnok rendfokozatától függően – jelentse vagy közölje a gépjármű ellenőrzés tényét. Ha a járőr a személyi okmányokból megállapította, hogy a gépjármű vezetője honvédségi köztisztviselő vagy közalkalmazott, a gépjármű-ellenőrzést ugyanúgy hajtsa végre, mint katonák esetében, azonban vele szemben személyi szabadságot korlátozó intézkedés nem alkalmazható.
-
-571.2. Gondosan ellenőrizze a gépjármű vezetőjét, az utasokat, a menetokmányokat és a szállított anyagot. Ellenőrizni kell a felépítményt, annak sérüléseit. Minden balesetre utaló nyomot, sérülést fel kell jegyezni. A fegyver és a gumibot készenléti helyzetben legyen a támadás elhárítása és a további szökés megakadályozása céljából.
-
-571.3. A járőr ellenőrizze:
-
-a) a vonatkozó szakutasítás szerinti igénybevételi, személy- és anyagszállítási okmányok meglétét, érvényességét és vezetettségét;
-
-b) a gépjárművezetésre való alkalmasság személyi feltételeinek meglétét (pl. pihentség, alkohol- és kábító hatású gyógyszermentesség stb.);
-
-c) a személy- és anyagszállításra vonatkozó biztonsági előírások betartását;
-
-d) a közúti közlekedés szabályainak betartását;
-
-e) a biztonságos közlekedés műszaki feltételeinek meglétét;
-
-f) a gépjármű karbantartottságát, műszaki állapotát, a környezetvédelmi előírások betartását;
-
-g) tűz- és robbanásveszélyes, mérgező és sugárzó anyagot szállító járműnél az előzőeken kívül a különleges jelzések és figyelmeztető feliratok meglétét.
-
-571.4. A magángépjárművet vezető katona ellenőrzésekor az 570. és 571. pontokban foglaltakat értelemszerűen kell alkalmazni.
-
-571.5. Az ellenőrzés után – ha a gépjárművezetőt vagy a gépjárművet előállítani nem kell – az okmányokat a járőrparancsnok adja vissza, az ellenőrzés tényét és eredményét a menetlevél megjegyzés rovatába vezesse be, és a járművet bocsássa útjára. Rendellenesség esetén a járőr köteles intézkedni.
-
-572.1. Közhasznú járműveken (vonaton, távolsági autóbuszon, hajón) és állomásokon az ellenőrzés megkezdése előtt a járőrparancsnok a jármű szolgálati személyeinek (vonatvezető, jegyvizsgáló stb.) mutatkozzon be, közölje a járőr feladatát és célállomását.
-
-572.2. A végállomásról kiinduló járművet még az indulás előtt ellenőrizni kell. Azokat a katonákat, akik erre okot adtak, a jármű indulása előtt elő kell állítani.
-
-572.3. A vonaton az ellenőrzést kocsinként úgy kell végrehajtani, hogy az ellenőrzés alól a katonák ne vonhassák ki magukat.
-
-572.4. A járművön a korábban már ellenőrzött katonát – ha intézkedésre nem szolgáltatott okot – az ellenőrzés ismétlésével zaklatni tilos!
-
-573.1. A járőr fokozott határozottsággal lépjen fel és intézkedjen az ittas, a hangoskodó, az utasokat megbotránkoztató magatartást tanúsító katonákkal szemben. Törekedjen a polgári személyekkel való súrlódások megelőzésére.
-
-573.2. Az utasok kérésére, vagy jelzésére a járőr köteles ellenőrizni a katonát, meggyőződni arról, hogy történt-e fegyelemsértés és a továbbiakban ennek megfelelően eljárni. Az utas bejelentését udvariasan meg kell köszönni.
-
-573.3. A kényszerítő eszközök közül, ha lehet, mellőzni kell a könnygázszóró berendezés alkalmazását.
-
-574.1. Az előállításra kerülő katonákat elkülönítve (pl. külön fülkében) biztonságosan kell őrizni. Meg kell akadályozni szökésüket, illetve azt, hogy magukban, másokban vagy a berendezésekben kárt okozzanak.
-
-574.2. A járőr a katonát a legközelebbi pályaudvari katonai rendészeti őrshöz, helyőrség-ügyeleteshez, illetve az eligazításkor meghatározott helyre állítsa elő.
-
-574.3. A pályaudvarok és állomások környékén a járőr ellenőrizze a várakozó szolgálati gépjárműveket is.
-
-Átfogó rendészeti ellenőrzés
-
-575. Az átfogó rendészeti ellenőrzés egy meghatározott terület katonai rendészeti szervekkel való lezárása, e területen az elhelyezési körleten kívül tartózkodó, az oda belépő, illetve az azt elhagyó katonák és a katonai gépjárművek ellenőrzése, a fegyelemsértőkkel szemben intézkedések foganatosítása. Elrendelhető:
-
-a) általános megelőzés;
-
-b) egyes fegyelemsértések elszaporodása esetén azok visszaszorítása;
-
-c) meghatározott katona személyek elfogása céljából.
-
-576.1. Az átfogó rendészeti ellenőrzést a Honvéd Vezérkar illetékes szervének vezetője rendeli el, bevonásra kerülhetnek a parancsnoksági és helyőrségi rendészeti, illetve rendvédelmi szervek.
-
-576.2. Az átfogó ellenőrzés tervét a végrehajtóknak és az együttműködőknek a rájuk vonatkozó mértékben meg kell küldeni.
-
-576.3. A végrehajtásba bevont erőkből járőrcsoportokat kell képezni. Egy járőrcsoportba 10–20 járőr tartozhat. A járőrcsoportok parancsnokainak a vezérkari katonai rendészeti szervek tisztjeit, a rendészeti századparancsnokokat, a helyőrségi rendészeti komendáns hivatalvezetőket kell kijelölni. A járőrcsoport-parancsnokokat az átfogó ellenőrzés parancsnoka, a járőröket a járőrcsoport-parancsnok igazítja el.
-
-576.4. A járőrcsoport-parancsnok olyan helyen települjön, hogy összeköttetése minden irányban biztosított legyen.
-
-A pályaudvari katonai rendészeti őrs
-
-577.1. Vasúti pályaudvarokra ideiglenes jelleggel – a szervezet feladatának, illetve a kialakult helyzetnek megfelelően – pályaudvari katonai rendészeti őrsöket lehet vezényelni. Az őrs rendeltetése a katonai fegyelem biztosítása a pályaudvarok területén.
-
-Az őrs feladata ellenőrizni a pályaudvaron és az induló vonatokon tartózkodó katonákat, valamint a pályaudvar környékén várakozó szolgálati gépjárműveket. Az őrs 3–8 fős állományából 1–4 járőrt kell kialakítani.
-
-Az őrs a szolgálatát a részére készített szolgálati intézkedés alapján látja el.
-
-577.2. Az őrs átveszi az előállított katonákat a vonatokon ellenőrző járőröktől, akiket az őrs szolgálati helyiségében kell őrizni. Az előállított katonákat és gépjárműveket innen kíséri a helyőrség ügyeleteshez.
-
-577.3. Az őrsparancsnok a vonatok indulásának, érkezésének megfelelően szabályozza az őrs szolgálatának ellátását.
-
-A közúti katonai rendészeti őrs
-
-578. A közúti katonai rendészeti őrs rendeltetése a katonai fegyelem biztosítása, a közlekedési szabályokat megsértő, fegyelmezetlen, hiányos személyi okmányokkal rendelkező katonák, illetve a hiányos menetokmányokkal közlekedő honvédségi gépjárművek kiszűrése.
-
-Az őrs feladata a részére meghatározott helyen a honvédségi gépjárművek és katona személyek ellenőrzése.
-
-579.1. Az őrs állománya 4–8 fő és 1–2 gépjármű. Az őrs a szolgálatát a részére készített szolgálati intézkedés alapján látja el. Az őrs települését úgy kell meghatározni, hogy egyszerre több – legalább 3 db – gépjármű egyidejű ellenőrzését tegye lehetővé.
-
-579.2. A kétirányú forgalom ellenőrzésére mind a két irányban, egymástól 100–200 méter távolságra egy-egy ellenőrzési pontot kell kijelölni úgy, hogy a járművek a másik irányt ellenőrző pont előtt az ellenőrzés után haladjanak el. Mindkét ellenőrzési pont tevékenységét az őrsparancsnok irányítja.
-
-580.1.A forgalom előre jelzésére kijelölt járőrtársat az ellenőrzési ponttól olyan távolságra kell kiküldeni, hogy annak jelzése tegye lehetővé a gépjármű biztonságos megállítását. Az ellenőrző pont és az előrejelző járőrtárs között rádió-összeköttetést kell biztosítani.
-
-580.2. Ellenőrzési pontonként az előállított gépjárművek részére arra alkalmas helyet kell kijelölni úgy, hogy a forgalmat ne zavarják. A gyűjtőhelyen a járműveket és katonákat őrizni kell. Az előállított katonákat és gépjárműveket együtt kell a helyőrség-ügyeleteshez kísérni.
-
-580.3. Gépjárműoszlopot az őrs ellenőrzés céljából nem állíthat le.
-
-A helyszín biztosítása
-
-581. A helyszínbiztosítás olyan tevékenység, amelyet a járőr bűncselekmény, baleset vagy egyéb cselekmény helyszínén a helyszíni szemle előtt, alatt és utána a helyszín őrzésére, lezárására foganatosít.
-
-582. A helyszínen a járőr köteles:
-
-a) elsősegélynyújtásban részesíteni vagy részesíttetni a sérülteket;
-
-b) a bűncselekmény tetten ért elkövetőjét elfogni;
-
-c) a balesetben érintettek adatait feljegyezni;
-
-d) nyomon üldözés lehetősége esetén az üldözést azonnal megkezdeni;
-
-e) a tanúk adatait feljegyezni, illetéktelen személyeket a helyszíntől távol tartani;
-
-f) a helyszínt körülhatárolni és eredeti állapotban megőrizni;
-
-g) a közrendet zavaró cselekményeket, a forgalmi torlódásokat megszüntetni;
-
-h) a bűncselekményt, balesetet azonnal jelenteni a helyőrség-ügyeletesnek, polgári személyek esetében a legközelebbi rendőrnek;
-
-i) a helyszínre érkező katonai ügyésznek, nyomozótisztnek jelentést tenni a helyszín állapotáról, a tett intézkedéseiről, a személyek adatairól.
-
-583. Ha a bűncselekmény elkövetője, sértettje katona, a járőr a továbbiakban a katonai ügyész vagy nyomozótiszt utasításai szerint járjon el. Ha rendőri szerv intézkedik, a járőr – annak kérésére – az intézkedés befejezésig köteles azt támogatni.
-
-Forgalomirányítás, szállítások biztosítása
-
-584.1. A csapatok közúti menete esetén (közúti szállítások biztosításakor) a katonai rendészeti járőr – ha ilyen feladatra került kiküldésre – álló és mozgó forgalomszabályzó feladatokat is elláthat.
-
-584.2. A katonai rendészeti járőrök – külön parancsra – részt vehetnek közúti, vasúti, vízi szállítások biztosításában is.
-
-584.3. A járőrök a menetvonalat, a be- és kirakó állomások, körletek, illetve azok közvetlen környékét tartják ellenőrzés alatt. Részt vesznek a rend és a fegyelem fenntartásában, az illetéktelen személyek távoltartásában, ellenőrzik a szállítmányokkal kapcsolatos rendelkezések betartását, tevékenységüket a szállítmány őr- és ügyeleti szolgálatával, valamint a vasútállomás katonai parancsnokával együttműködve végzik.
-
-584.4. A szállítmányhoz tartozó, előállított katonákat a szállítmányparancsnoknak adják át. A szállítmányról lemaradt katonákat – ha velük szemben más okból eljárni nem kell – a szállítmány célállomására kell irányítani.
-
-Területzárás
-
-585. A járőrök – külön parancsra – részt vesznek a gyakorlatok, a katonai rendezvények meghatározott területének zárásában.
-
-A területzárásban részt vevő járőrök tevékenységének rendjét a gyakorlatot vezető parancsnok szabályozza.
-
-586. A területzárásban részt vevő járőr:
-
-a) akadályozza meg, hogy a zárt területre illetéktelenek bejussanak, a katonák a területet engedély nélkül elhagyják;
-
-b) ellenőrizze a lezárt területre való be- és kilépésre jogosító okmányokat és a korlátozó rendszabályok betartását;
-
-c) a lemaradt, eltévedt katonákat és gépjárműveket irányítsa a szervezetükhöz.
-
-A katonai rendészeti járőr intézkedései
-
-587. A járőr a megkezdett intézkedést minden esetben, szükség esetén akár kényszerítő eszközök alkalmazásával is fejezze be.
+558. A járőr diplomáciai mentességet élvező személyekkel és azok családtagjaival, valamint az egyéb személyes mentességet élvező személyekkel szemben nem intézkedhet. Ha a járőr intézkedése során a mentesség tényét észleli, az intézkedést abbahagyja és az azt élvező személyt elbocsátja. Erről haladéktalanul jelentést tesz közvetlen szolgálati elöljárójának.
 
 A személyi szabadságot nem korlátozó intézkedések
+
+559. A figyelmeztetés olyan intézkedés, amit a katonai rendésznek a személyi állomány tagjával szemben olyan fegyelemsértések elkövetése esetén kell alkalmaznia, melynek során a szabálytalanságot a helyszínen azonnal meg lehet szüntetni. Így különösen figyelmeztetni kell azt a személyt, aki
+
+a) az alaki magatartás és a katonai udvariasság szabályait, öltözködési szabályokat megsérti, de azt a helyszínen kijavítja, vagy
+
+b) olyan szabálytalanságot követett el, ami miatt feljelenteni vagy előállítani nem kell.
+
+560. Ha a figyelmeztetés eredménytelen marad, a járőr köteles a személyi állomány tagját feljelenteni, szükség esetén előállítani.
+
+561. Fel kell jelenteni azt a személyt, aki
+
+a) szolgálati viszonyát igazoló okmánnyal nem rendelkezik, az hiányos vagy az adattartalma nem a valóságnak megfelelő és szolgálati viszonyát más módon igazolni a helyszínen nem tudja, de személyazonosságát igazoló okmánnyal rendelkezik, vagy
+
+b) az alaki magatartás, az öltözködés szabályait megsérti, de személyi szabadságában korlátozni nem indokolt.
+
+562. Fel kell jelenteni a szolgálati gépjármű vezetőjét, és indokolt esetben a szolgálati gépjármű parancsnokát is az 561. pontban felsoroltakon túl, ha
+
+a) az igénybevételhez szükséges, illetve a személy- és anyagszállítási okmányok pontatlanok, hiányosan vannak kitöltve, vagy vezetve;
+
+b) a szolgálati gépjárművet nem a használati jellege szerint, vagy nem a menetlevélen feltüntetett feladatokra veszi igénybe;
+
+c) a közúti közlekedés szabályait megsértette, de előállítani nem kell;
+
+d) a megkülönböztető és figyelmeztető jelzésekre, a veszélyes anyag szállítására, az útvonalengedélyekre és környezetvédelemre vonatkozó előírásokat megsértette;
+
+e) a szolgálati gépjárművek műszaki állapota, karbantartottsága, forgalombiztonsági állapota, felszereltsége kifogásolható, illetve mindezekre vonatkozó előírások megsértése, be nem tartása;
+
+f) a személy- és anyagszállítás szabályait megsértette, de a járőr felszólítására azt a helyszínen megszüntette;
+
+g) túlsúlyos (túlméretes) szolgálati gépjárművel útvonalengedély nélkül közlekedik; a járőr ez esetben intézkedik a szolgálati gépjármű továbbhaladásához szükséges engedélyek megszerzéséről, ha ez nem lehetséges, megakadályozza a szolgálati gépjármű továbbhaladását; vagy
+
+h) a szolgálati gépjármű balesettel kapcsolatos bejelentési kötelezettségének nem tesz eleget.
+
+A személyi szabadságot korlátozó intézkedések
+
+563. Az előállítás olyan intézkedés, amikor a katonai rendész a katonát a fegyelem, a közrend vagy a közbiztonság érdekében a törvényben meghatározott esetekben – szükség esetén kényszerítő eszköz alkalmazásával – személyi szabadságában korlátozza, és további eljárásra átadja az erre jogosult szervnek. Ha a fegyelemsértés vagy bűncselekmény azonnali beavatkozást igényel, a személy ellenőrzését a személyi szabadságában való korlátozás után kell végrehajtani.
+
+564. A honvédek jogállásáról szóló 2012. évi CCV. törvényben meghatározott feltételek esetén különösen azt a katonát kell előállítani, aki
+
+a) nem tudja sem személyazonosságát, sem állományviszonyát hitelt érdemlően igazolni, az igazolást megtagadja;
+
+b) a fegyelemsértő magatartását többszöri figyelmeztetésre sem szünteti meg;
+
+c) szemmel láthatóan ittas, vagy vélhetően tudatmódosító szerek hatása alatt áll;
+
+d) garázda magatartást tanúsít;
+
+e) a járőrt sértegeti, megtámadja, intézkedés közben bármilyen módon akadályozza, szolgálati parancsa iránt engedetlen;
+
+f) jogtalanul viselt rendfokozattal visszaél; vagy
+
+g) jogtalanul tart magánál fegyvert, közbiztonságra különösen veszélyes eszközt.
+
+565. Elő kell állítani a szolgálati gépjármű vezetőjét, és indokolt esetben a szolgálati gépjármű parancsnokát is az e rendeletben említett esetkörökön túl, ha
+
+a) a KRESZ-ben és a vonatkozó szabályozókban meghatározott érvényes igénybevételi okmányok nélkül közlekedik;
+
+b) nem rendelkezik a biztonságos gépjárművezetés személyi feltételeivel;
+
+c) a közlekedés biztonságát durván veszélyeztető magatartást tanúsít;
+
+d) a szolgálati gépjárművet jogtalanul veszi igénybe;
+
+e) a szolgálati gépjármű vezetését jogtalanul adta, illetve vette át;
+
+f) a szolgálati gépjármű műszaki állapota a forgalombiztonsági követelményeknek nem felel meg, kivéve, ha a hibát a helyszínen megszüntetik;
+
+g) a személy- és anyagszállítás biztonsági előírásait megszegték, kivéve, ha ezt a helyszínen megszüntetik; vagy
+
+h) a szolgálati gépjárművet lezáratlanul hagyták.
+
+566. Az előállított katonát a helyőrség-ügyeletesnek át kell adni.
+
+567. Az előállításról a helyőrség-ügyeletes haladéktalanul értesíti a katona állományilletékes parancsnokát. Ha az intézkedés során vérvétel szükséges, a helyőrség-ügyeletes intézkedik erre vonatkozóan.
+
+568. Ha olyan polgári személlyel szemben kell intézkednie a katonai rendésznek, akit bűncselekmény elkövetésén ért tetten, és a rendőri intézkedés bevárása nem lehetséges, a tetten ért személyt el kell fogni, és át kell adni a tettenérés helye szerint illetékes általános rendőrségi feladatok ellátásra létrehozott szervnek, vagy ha ez nem lehetséges a legközelebbi általános rendőrségi feladatok ellátásra létrehozott szervnek.
+
+569. Az elfogás az az intézkedés, amikor a járőr a katonát elfogató parancs, illetve törvény rendelkezése szerinti esetekben foglyul ejti, valamint az 568. pontja szerinti esetben a katonai rendész eljár.
+
+VIII. Fejezet
+
+A KÉNYSZERÍTŐ ESZKÖZÖK HASZNÁLATA
+
+614. A katonai szervezetek és a katonák fegyver- és más kényszerítő eszköz használatának alapvető szabályait a Hvt. 117–132. §-ában foglaltak rögzítik. A kényszerítő eszközök alkalmazásának, illetve az alkalmazás kivizsgálásának részletes szabályait a jelen fejezet rögzíti.
+
+A katonai szervezetek fegyverhasználata
+
+615. A katonai szervezetek törvényben meghatározott esetekben, az arra jogosult parancsnok parancsára, a műveleti tervekben, műveleti utasításokban meghatározott célok teljesítése érdekében, a szabályzatok és a lőutasítások előírásai szerint használhatják egyéni és kollektív fegyvereiket.
+
+A katonák fegyverhasználata
+
+616. A fegyverhasználati jog – annak törvényes feltételei fennállása esetén – a szolgálatát fegyveresen ellátó katonát attól függetlenül megilleti, hogy egyenruhát vagy polgári öltözetet visel.
+
+617.1. A fegyverhasználat a fegyver személy elleni alkalmazását jelenti. Személyre, szándékosan leadott lövés akkor is fegyverhasználatnak minősül, ha az nem okozott sérülést.
+
+617.2. Nem minősül fegyverhasználatnak az állatra vagy tárgyra leadott, illetőleg a figyelmeztető lövés és a nem szándékosan leadott lövés. A figyelmeztető lövést olyan irányba kell leadni, hogy az személyt ne veszélyeztessen és lehetőleg anyagi kárt ne okozzon.
+
+617.3. A tettleges ellenállásig el nem jutó, puszta nem tevésben megnyilvánuló ellenszegülés a jogos fegyverhasználatot nem alapozza meg.
+
+A kényszerítő eszközök használatának részletes szabályai
+
+618.1. A fegyverhasználatot megelőző felszólítást és figyelmeztetést érthetően, hangosan és határozottan kell megtenni. A polgári ruhában eljáró katona a felszólítás alkalmával azt is közölje, hogy a Magyar Honvédség szolgálati feladatot ellátó tagjaként intézkedik.
+
+618.2. Fegyverhasználat során a lövést lehetőleg lábra, ha pedig a fegyverhasználattal érintett személy kezében támadásra távolról is felhasználható eszköz van, a kézre kell irányítani.
+
+619. Fegyverhasználat esetén a helyszínt biztosítania kell.
+
+620. Ha a fegyverhasználat törvényes feltételei nem állnak fenn, pusztán kényszerítés céljából a katona fegyverhasználatot nem helyezhet kilátásba.
+
+621. Az őrszolgálatban lévő katona az őrség elhelyezési körletében az őrparancsnok, járőrben a járőrparancsnok parancsára, felállítási helyén pedig saját elhatározásából használhat fegyvert. Ez vonatkozik a készenléti alegységre is, ha az őrség feladatát látja el.
+
+622. A felállított őr a fegyverhasználatot megelőzően:
+
+– erélyes „Állj!” kiáltással állítsa meg a közeledő, illetve az objektumba behatolni vagy onnan menekülni szándékozó, illetve a támadó személyt;
+
+– ha ez eredménytelen marad, az „Állj, vagy lövök!” figyelmeztetést adja, egyidejűleg töltse csőre a fegyverét;
+
+– ennek eredménytelensége esetén adjon figyelmeztető lövést.
+
+Ha a figyelmeztető lövés sem jár eredménnyel, használja fegyverét.
+
+623. A fegyveres figyelő vagy a járőr a felállított őrrel azonos esetekben és módon használja a fegyverét.
+
+624.1. A katonai rendészeti járőr (biztosító rendész szolgálat tagja) a kényszerítő eszközt saját elhatározásából, vagy elöljárója parancsára használhatja. Az utóbbi esetben a kényszerítő eszköz használatának jogszerűségéért a parancsot adó elöljáró a felelős.
+
+624.2. A járőr (biztosító rendész) az intézkedés eredményességére való törekvés mellett lehetőleg ügyeljen az intézkedés alá vont személy életének, testi épségének megóvására. Ha bármely kényszerítő eszköz alkalmazása testi sérülést okozott, a járőr köteles a sérültnek elsősegélyt nyújtani, gondoskodni a sérült orvosi vizsgálatáról és ellátásáról.
+
+624.3. A rendészeti járőr (biztosító rendész) fegyvere és egyéb kényszerítő eszközei alkalmazását minden esetben előzze meg az eszköz alkalmazására vonatkozó figyelmeztetés.
+
+625.1. A polgári ruhás járőrnek a felszólítás alkalmával közölni kell azt is, hogy a katonai rendészet tagja és katonai rendészeti járőrként intézkedik.
+
+625.2. Ha a körülmények a figyelmeztetést nem teszik lehetővé, illetőleg a figyelmeztetéssel járó késedelem veszéllyel járna, a szükséges kényszerítő eszközök előzetes figyelmeztetés nélkül is alkalmazhatók.
+
+626. A kényszerítő eszközök közül a járőr (biztosító rendész) mindig azt alkalmazza, amely általában arányban áll a fegyelem- vagy törvénysértés súlyával, az elkövető fizikai erejével, magatartásával és feltétlenül biztosítja az intézkedés eredményességét.
+
+627. A könnygázszóró berendezés tartalmát kartávolságból az intézkedés alá vont személy szemébe kell fúvatni úgy, hogy az más személyeket (járőrtársat) ne érjen. Ezt követően az intézkedés alá vontat le kell fogni. Az ellenszegülés megszüntetése után intézkedni kell a lefújt személy arcának (szemének) megmosására.
+
+628. A járőr tagjai (biztosító rendészek) a rendszeresített gumibotot a derékszíjra akasztva vagy a járőrparancsnok parancsára a csuklóra fűzve viseljék. A gumibot használatánál lehetőleg kerülni kell, hogy az ütés a fejre, derékra, gyomorra, hasra irányuljon.
+
+629.1. Ha bilincs használata válik szükségessé, a járőrparancsnok állapítsa meg, hogy az intézkedés alá vont személy karján vagy csuklóján nincs-e sérülés. Sérülés esetén a bilincs alkalmazását mellőzni kell, ha az súlyos egészségromlással járna. Ebben az esetben is helye van a bilincselésnek addig, amíg más személyek segítségül hívásával nem biztosítható az intézkedés eredményes befejezése.
+
+629.2. A bilincselés általában a rendszeresített patent, vagy szíjbilinccsel, szükség esetén más, erre alkalmas eszközzel is végrehajtható. Ügyelni kell arra, hogy az alkalmazása testi sérülést ne okozzon. A megbilincselt kezét a fagytól óvni kell.
+
+629.3. Elfogott, őrizetbe vett személyt a kíséréskor meg kell bilincselni. A járőr több személyt is összebilincselhet, ha szökéstől vagy támadástól lehet tartani. Indokolt esetben a személy keze hátravetve is megbilincselhető.
+
+630.1. Az egység- (laktanya-, helyőrség-) ügyeleteshez a rendészeti szolgálat által előállított katona ideiglenes őrzésének szükségességét az ügyeletes állapítja meg.
+
+630.2. Az őrzést az ügyeleti szolgálathoz tartozó vagy annak közelében kijelölt más alkalmas helyiségben, a katonai rendészek vagy erre a feladatra esetileg kijelölt, felszerelt és felkészített katonák végzik.
+
+630.3. Indokolt esetben gondoskodni kell az őrzött személy orvosi ellátásáról, illetve vérvételről.
+
+630.4. Az őrzött személy számára biztosítani kell az ivóvizet, a mosdó, valamint saját telefonja felügyelet melletti használatát. Élelmiszerrel való ellátás az őrző katonai szervezetet nem terheli.
+
+630.5. Az őrzött személlyel szemben az ügyeletes, a jelentéséhez szükséges adatok rögzítését követően, az előállítás okának megfelelően az illetékes katonai ügyész utasítása szerint jár el vagy átadja őt katonai szervezete képviselőjének vagy a szükséges eligazítás után szabadon bocsátja.
+
+630.6. Az őrzött személy az előállítás és az őrzés során az általa okozott kárt, illetve a miatta szükségessé vált rendkívüli takarítás költségeit köteles megtéríteni. A kárfelvételi jegyzőkönyvet az egység- (laktanya-, helyőrség-) ügyeletes készíttesse el.
+
+631.1. A bűncselekményt elkövetett katona felügyelet alatt tartásához a szolgálati elöljáró, illetve a helyőrség- (egység-) ügyeletes elkülönített helyiséget és a felügyelet megvalósítására az elkülönítettel azonos vagy magasabb rendfokozatú katonát (katonákat) jelöl ki.
+
+631.2. Az elkülönítésnek való ellenszegülés, a kijelölt hely önkényes elhagyása esetén a katonai rendész járőr az elkövetőt – szükség esetén kényszerítő eszköz alkalmazásával – a helyőrség- (egység-) ügyeleteshez előállítja, aki a továbbiakban ideiglenes őrzéséről gondoskodik.
+
+632.1. Foglyok őrzésénél és kísérésénél a fogva tartottal szemben, illetőleg a fogva tartott őrzését vagy biztonságát fenyegető veszély elhárítása érdekében egyéb kényszerítő eszköz alkalmazható.
+
+632.2. A katonai büntetés-végrehajtási intézetben fogva tartottak szállítása, előállítása során a fogva tartottal szemben mozgáskorlátozó eszközöket (bilincs, vezetőszár stb.) biztonsági intézkedésként, nem pedig kényszerítő eszközként kell alkalmazni.
+
+632.3. Előállítás esetén a bilincselést patent- vagy szíjbilinccsel kell végrehajtani. A fogva tartott veszélyességi fokára figyelemmel vezetőbilincs alkalmazható, vagy a patentbilincs átalakítható vezetőbilinccsé. A vezetőbilincs alkalmazása nem minősül bilincselésnek. A fogva tartott keze hátra is bilincselhető. Szükség esetén több fogva tartott is összebilincselhető.
+
+633.1. A feladatra kirendelt készenléti szolgálatot ellátó katona az őt ért támadás, illetve a közveszélyt okozó tevékenység elhárítása érdekében a támadással vagy a közveszély okozással arányban fegyvert és egyéb kényszerítő eszközt alkalmazhat saját védelme és a törvényes rend helyreállítása érdekében.
+
+633.2. A kényszerítő eszközök használatának részletes szabályai megegyeznek a katonai rendész szolgálatéval.
+
+Segítségnyújtás
+
+634. A sérült őrzése, illetőleg a támadás megelőzése végett szükséges biztonsági szabályokat az elsősegélynyújtásnál és a sérült orvosi ellátásánál is meg kell tartani.
+
+A kényszerítő eszközök alkalmazásának kivizsgálása
+
+635. A kényszerítő eszköz alkalmazásáról szóló jelentésben rögzíteni kell:
+
+a) kivel szemben, hol, mikor, miért, milyen kényszerítő eszközt alkalmaztak;
+
+b) a támadó által használt eszközök leírását;
+
+c) történt-e felhívás a cselekmény abbahagyására és figyelmeztetés a kényszerítő eszköz használatára, ha nem, ennek mi volt az oka;
+
+d) gumibot alkalmazása esetén az ütések száma;
+
+e) történt-e sérülés és milyen fokú;
+
+f) mi történt a sérülttel;
+
+g) ezen jelentést megelőzően kinek, mikor, mit jelentettek vagy tájékoztattak;
+
+h) a tanúk adatait.
+
+636.1. A fegyverhasználat esetén a vizsgálat lefolytatására a lövést leadó katona állományilletékes parancsnoka jogosult.
+
+636.2. Fegyverhasználatnak nem minősülő lövés leadása esetén a körülmények tisztázása, valamint a lőfegyver tűzkész állapotba helyezésének és a lövés leadásának jogszerűségével kapcsolatban az egység jogi és igazgatási főnöke állásfoglalásának figyelembevételével kell eljárni.
+
+636.3. A személyi sérülést vagy halált okozó lőfegyverhasználat esetén – a helyszín biztosítása mellett – haladéktalanul értesíteni kell a katonai ügyészséget és a továbbiakban annak utasításai szerint kell eljárni.
+
+IX. Fejezet
+
+CSAPATMOZGÁSOK, KATONAI SZÁLLÍTÁSOK
+
+Általános szabályok
+
+637. Személyi állomány és hadfelszerelés, (haditechnikai eszközök és anyagok) szállítása (mozgatása) történhet terepen, úton, vasúton, vízen, légi úton, vagy ezek kombinációjával. A szállítások végrehajtására katonai szállítmányokat kell létrehozni, amelyek lehetnek:
+
+a) csapatszállítmányok;
+
+b) ellátási- (utánpótlási-) szállítmányok.
+
+638.1. A katonai szállításokat a katonai közlekedési szervek szervezzék és ellenőrizzék a katonai szállítási szakutasítások és egyéb rendelkezések alapján.
+
+638.2. A katonai közlekedési szervek minden katonai szállítmányt lássanak el szállítmányszámmal, s azt a berakóhelytől a kirakóhelyig a szállítmány fedőszámaként kell alkalmazni. A szállítmányszámot a szállítmány minden tagjával ismertetni kell.
+
+638.3. A katonai szállítmányokat e Szabályzat VI. fejezetében rögzítettek szerint őrizni kell.
+
+Csapatmozgás és közúti szállítás
+
+639.1. Csapatmozgás a csapatok menete, vagy közúti szállítása.
+
+639.2. A menet a csapat úton vagy terepen saját gépjárművel, illetve gyalog végrehajtott mozgása. Menet a csapatok napi foglalkozásra, igénybevételére történő kivonulása, bevonulása és a mindennapi tevékenységükkel kapcsolatos mozgása is.
+
+639.3. A közúti szállítás a személyi állomány és hadfelszerelés szállítása gépjárművön, függetlenül a gépjárművek szervezeti hovatartozásától. A közúti szállításba polgári szállító gépjárművek is bevonhatók.
+
+639.4. Ahol ez a fejezet a „gépjármű” kifejezést alkalmazza, az értelemszerűen vonatkozik harcjárműre és más önjáró haditechnikai eszközre is.
+
+640.1. Menet vagy közúti szállítás végrehajtása az egy időben, azonos céllal kirendelt egység vagy alegység(ek), gyalog vagy gépjárműoszlop(ok) mozgása egy vagy több kijelölt menetvonalon vagy sávban.
+
+640.2. Menetben az oszlopparancsnok a szervezetszerű parancsnok vagy a külön kijelölt személy. Közúti szállítás alkalmával a kirendelő parancsnok köteles kijelölni oszlop-, illetve szállítmányparancsnokot. A szállítmányparancsnok kötelessége értelemszerűen megegyezik az oszlopparancsnok kötelességével.
+
+Menetek és közúti szállítások során az elrendelő parancsnok, az oszlopparancsnok a gépjárműparancsnokok tartassák be a közúti közlekedés szabályait.
+
+640.3. Személyeket csak a szabályzatok, szakutasítások és intézkedések, illetve a közlekedésrendészeti előírások szerint szabad szállítani. Ha tehergépjárműveket alkalmaznak személyszállításra, mind az oszlop- és gépjárműparancsnokok, mind pedig a gépjárművezető köteles ellenőrizni, hogy az ülések megfelelően rögzítve vannak-e, és biztonságosan zárnak-e az oldalfalak. Anyagszállítás esetén kötelesek végrehajtani a rakomány megbízható rögzítését.
+
+640.4. Menet és közúti szállítás során az oszlop-, illetve a gépjárműparancsnokok vegyék figyelembe a súlykorlátozásra, terhelésre, a magasságra, szélességre, hosszúságra, sebességre, valamint a veszélyes anyag szállítására vonatkozó előírásokat és korlátozásokat.
+
+A menetet vagy közúti szállítást elrendelő parancsnok túlsúlyos, illetve túlméretes haditechnikai eszközök mozgatásakor előzetesen kérjen útvonalengedélyt az illetékes katonai közlekedési szervektől.
+
+640.5. Az oszlop- és a gépjárműparancsnokok kötelesek betartani az ellenőrzést végrehajtó szervek intézkedéseit.
+
+640.6. Különösen fontos vagy külön rendelkezésekben meghatározott hadfelszerelést a mozgások és megállások alatt fegyveres őrséggel, járőrrel kell őrizni.
+
+641. Önállóan közlekedő szállító gépjárműre a kirendelő parancsnok jelöljön ki gépjárműparancsnokot. Ettől el lehet térni rövid igénybevétel esetén, valamint parancsnokságnál, intézeteknél, továbbá olyankor, amikor a kirendelő és a felhasználó különböző katonai szervezethez tartozik. Ekkor, amíg a felhasználó igénybe nem veszi a gépjárművet, a gépjárművezető egyben a gépjárműparancsnok. Csoportos személyszállítás esetén mindenkor ki kell jelölni gépjárműparancsnokot. Ha az elöljáró nem jelöl ki gépjárműparancsnokot, akkor a rangidős köteles a gépjárműparancsnokságot átvenni.
+
+642. Az oszlop- és gépjárműparancsnok a gépjárművezetők és a gépjárművön szállított katonák számára az Öltözködési Szabályzat előírásai szerint könnyítéseket engedélyezhet.
+
+643.1. Az oszlopparancsnok a kirendelő (útbaindítást végrehajtó) parancsnoknak van alárendelve. Szolgálati elöljárója az oszlop teljes személyi állományának, a kijelölt szállítmányőrségnek, az oszlopkísérő-, felvezető-, és biztosító erőknek, a fegyver nélküli biztosító rendész szolgálatnak, a szállításba bevont polgári szállító gépjárművek vezetőinek. Mindenki köteles betartani a szállítással kapcsolatos parancsait (intézkedéseit).
+
+643.2. Az oszlopparancsnok felelős azért, hogy az oszlop a meghatározott időre, biztonságosan a kijelölt helyre érjen.
+
+Az oszlopparancsnok megfelelő híradó- vagy elektronikus adatátviteli berendezéssel felszerelt, vagy ellátott eszközzel lehetőleg az oszlop élén haladjon, ahonnan az oszlop vezetését végre tudja hajtani.
+
+643.3. Az oszlopparancsnok kötelességei:
+
+a) indulás előtt a gépjárműparancsnokok jelentései alapján győződjön meg, hogy a gépjárművek (azaz a kormány, fék, gumiabroncsok, valamint a kötelezően előírt világító- és jelzőberendezések) megfelelnek-e a közlekedésbiztonsági követelményeknek; ha nincsenek gépjárműparancsnokok, hajtsa végre az azok számára előírt feladatokat is;
+
+b) határozza meg a menetcélt, a menetvonalat, a menetsebességet, valamint a távközöket és a menet alatti összeköttetés rendjét;
+
+c) határozza meg az öltözetet (könnyítéseket);
+
+d) menet alatt követelje meg a menetfegyelmet, az adott járművekre előírt sebességkorlátozások és a közlekedési szabályok megtartását;
+
+e) ha a forgalomszabályozás nincs megszervezve, a forgalmi csomópontokon ideiglenes forgalomszabályzókkal gondoskodjon a veszélytelen áthaladásról, vasúti átjárón való áthaladás előtt győződjön meg a biztonságos áthaladás feltételeiről;
+
+f) az oszlopban haladó gépjárművek technikai követelményeinek megfelelően tartasson pihenőket, személyesen, illetve a gépjárműparancsnokok jelentése alapján győződjön meg a gépjárművek megbízható rögzítettségéről; veszélyes anyagok szállítása esetén pihenő csak lakott helytől távol tartható;
+
+g) műszaki hiba esetén intézkedjen annak elhárítására, a rakomány esetleges átcsoportosítására és az eredeti feladat teljesítésére;
+
+h) ha az oszlop valamely gépjárművével baleset történt, tegyen meg mindent a további vészhelyzet elhárítására, csökkentésére, intézkedjen a segítségnyújtásra, a helyszín biztosítására, esetleges tűzoltási feladatok végrehajtására, a rakomány (szállítmány) őrzésére, védelmére. Szükség esetén hagyjon hátra olyan intézkedőképes (híradó- vagy jelzőeszközzel ellátott) személyt, aki a rakomány (szállítmány) őrzés-védelmi, vagy biztosítási feladatait ellátja. Veszélyes (ADR) áruküldemény szállítása esetén gondoskodjon a kijelölt hatóság értesítéséről.
+
+643.4. A megtett intézkedések után (az útbaindító parancsnok engedélyével) folytassa eredeti feladatainak teljesítését.
+
+644.1. A gépjárműparancsnok oszlopmenetek esetén az oszlopparancsnoknak, egyéb esetekben az őt kirendelő parancsnoknak van alárendelve. A szállítás (utazás) idején az azzal összefüggő mértékben elöljárója a gépjárművön tartózkodóknak.
+
+A gépjárműparancsnok felelős azért, hogy a gépjármű meghatározott időre biztonságosan a kijelölt célba érjen.
+
+644.2. A gépjárműparancsnok fő kötelességei:
+
+a) indulás előtt ellenőrizze, hogy a gépjármű (azaz a kormány, fék, gumiabroncsok, valamint a kötelezően előírt világító- és jelzőberendezések) megfelel-e a közlekedésbiztonsági követelményeknek, kérdezéssel ellenőrizze a gépjárművezető egészségi állapotát, frissességét, továbbá ellenőrizze, hogy megvannak-e a szükséges személyi és menetokmányok, van-e üzemanyag a tervezett útra, és hogyan van megszervezve a gépjárművezető ellátása;
+
+b) csoportos személyszállításra alkalmazott tehergépjármű esetén jelöljön ki rakfelület-parancsnokot, aki a rend és a biztonság fenntartásáért felelős;
+
+c) határozza meg az öltözetet (könnyítéseket);
+
+d) a menet alatt követelje meg az adott járműre meghatározott sebességkorlátozások és a közúti közlekedési szabályok megtartását;
+
+e) megálláskor kiszállás előtt győződjön meg a gépjármű megbízható rögzítettségéről;
+
+f) ne vonja el a gépjárművezető figyelmét a vezetéstől, és ezt mások részéről se tűrje el; kísérje figyelemmel a gépjárművezető éberségét, fizikai és idegállapotát, és ha a vezetés biztonsága megköveteli, az oszlopparancsnok engedélyével rendeljen el pihenőt;
+
+g) a Honvédség állományába nem tartozó polgári személyt a járműre nem vehet fel, kivéve, ha súlyos esetben segítséget kell nyújtani; ezt a körülményt vezettesse rá a menetlevélre és az igénybevétel befejezése után jelentse közvetlen elöljárójának;
+
+h) követelje meg a menetlevél folyamatos vezetését, és az igénybevétel végén ellenőrizze, majd a megfelelő rovatokat kitöltve írja alá az elbocsátást;
+
+i) ha műszaki hiba vagy baleset következik be, jelentse az oszlopparancsnoknak, illetve értelemszerűen az oszlopparancsnoknál leírtak szerint járjon el.
+
+645.1. A gépjárművezető a gépjármű igénybevételének időtartamára szervezeti hovatartozástól függetlenül a gépjárműparancsnoknak van alárendelve.
+
+A gépjárművezető a gépjármű igénybevételekor felelős a menetfeladat biztonságos végrehajtásáért, a gépjármű általa ellenőrizhető technikai állapotáért, továbbá azért, hogy fizikailag, idegileg képes legyen a feladat végrehajtására, és hogy meglegyenek a tervezett úthoz szükséges anyagi feltételek (üzemanyag, pótalkatrész stb.).
+
+645.2. A gépjárművezető fő kötelességei a gépjármű igénybevétele során:
+
+a) az indulás előtt győződjön meg arról, hogy megfelel-e a gépjármű a közlekedésbiztonsági követelményeknek; anyagszállítás esetén még rakodás közben ellenőrizze, hogy a rakomány tömege ne haladja meg a gépjármű teherbírását, és megfelelően rögzítve legyen;
+
+b) jelentkezzen a gépjárműparancsnoknál, és mutassa be a személyi és menetokmányait;
+
+c) a gépjárművet a rá vonatkozó sebességkorlátozás és a közlekedési szabályok betartásával körültekintően vezesse, semmi olyat ne tegyen, ami a vezetéstől elvonná a figyelmét; ha rosszul érzi magát, vagy úgy érzi, hogy ébersége csökken, jelentse a gépjárműparancsnoknak;
+
+d) megálláskor, különösen lejtőn, megbízhatóan rögzítse a gépjárművet;
+
+e) ha katonai szervek, hatóságok (országos rendőri és közlekedési felügyeleti szervek) ellenőrzés céljából megállítják a gépjárművet, adja át a törvényben meghatározott és előírt okmányokat és teljesítse a kapott utasításokat;
+
+f) ha műszaki hibát észlel, jelentse a gépjárműparancsnoknak, ha pedig nincs gépjárműparancsnok, és a hibát nem tudja elhárítani, a rakományt kellően biztosítva, az adott körülmények között lehetséges módon kérjen segítséget kirendelő parancsnokától, a legközelebbi helyőrség ügyeletesétől vagy a rendőrségtől;
 
 [^1]: A 18. pont a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
 [^2]: A melléklet 18. pont k) alpontja a 11/2010. (V. 12.) HM rendelet 3. § a) pontja szerint módosított szöveg.
 [^3]: A melléklet 19. pont i) alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
 [^4]: A melléklet 22. pont q) alpontja a 11/2010. (V. 12.) HM rendelet 3. § c) pontja szerint módosított szöveg.
-[^5]: A melléklet 27. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^6]: A melléklet 50. pontjának b) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított, a 19/2010. (XII. 27.) HM rendelet 5. § a) pontja szerint módosított szöveg.
-[^7]: A melléklet 75.2. pontja a 16/2008. (VI. 25.) HM rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^8]: A melléklet 81. pontjának s) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^9]: A melléklet 86. pont j) alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) és d) pontja szerint módosított szöveg.
-[^10]: A melléklet 106. pont p) alpontja a 11/2010. (V. 12.) HM rendelet 3. § e) pontja szerint módosított szöveg.
-[^11]: A melléklet 127. pont a) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § b) pontja szerint módosított szöveg.
-[^12]: A melléklet 127. pont c) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
-[^13]: A melléklet 137.3. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^14]: A melléklet 198.2. pontjának e) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^15]: A melléklet 224.2. pontja a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
-[^16]: A melléklet 226. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
-[^17]: A melléklet 227. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
-[^18]: A melléklet 229. pont 1. alpontját megelőző alcím a 11/2010. (V. 12.) HM rendelet 3. § f) pontjával megállapított szöveg.
-[^19]: A melléklet 229. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § g) és h) pontja szerint módosított szöveg.
-[^20]: A melléklet 229. pont 3. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
-[^21]: A melléklet 230. pontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
-[^22]: A melléklet 231. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
-[^23]: A melléklet 231. pont 2. alpontja a 11/2010. (V. 12.) HM rendelet 3. § i) pontja szerint módosított szöveg.
-[^24]: A melléklet 232. pont 2. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
-[^25]: A melléklet 232. pont 3. alpontja a 11/2010. (V. 12.) HM rendelet 3. § a) pontja szerint módosított szöveg.
-[^26]: A melléklet 247. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^27]: A melléklet 268.3. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított, a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
-[^28]: A melléklet 289.1. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^29]: A melléklet 290.4 pont b) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § d) pontja szerint módosított szöveg.
-[^30]: A melléklet 295. pont b) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § d) pontja szerint módosított szöveg.
-[^31]: A melléklet 322.5. pontját a 8/2011. (VIII. 18.) HM rendelet 1. §-a iktatta be, szövege a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
-[^32]: A melléklet 322. 6. pontját a 23/2012. (XII. 18.) HM rendelet 53. §-a iktatta be.
-[^33]: A melléklet 324.2. pontját a 8/2011. (VIII. 18.) HM rendelet 2. §-a hatályon kívül helyezte.
-[^34]: A melléklet 326.2.1. pontját a 3/2011. (V. 12.) HM rendelet 1. §-a iktatta be.
-[^35]: A melléklet 444.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^36]: A melléklet 449.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^37]: A melléklet 469.1. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^38]: A melléklet 479.1. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^39]: A melléklet 479.3. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^40]: A melléklet 479.4. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^41]: A melléklet 479.5. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^42]: A melléklet 486. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^43]: A melléklet 498.1. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^44]: A melléklet 498.2. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^45]: A melléklet 499. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^46]: A melléklet 502. pont i) alpontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
-[^47]: A melléklet 530. pontjának d) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^48]: A melléklet 532. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^49]: A melléklet 535.1. pontja a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
-[^50]: A melléklet 536.1. pontjának b) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^51]: A melléklet 539. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^52]: A melléklet 542. pont a) alpontja a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
+[^5]: A melléklet 22. pont y) alpontja az 5/2016. (III. 1.) HM rendelet 1. §-ával megállapított szöveg.
+[^6]: A melléklet 27. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^7]: A melléklet 50. pontjának b) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított, a 19/2010. (XII. 27.) HM rendelet 5. § a) pontja szerint módosított szöveg.
+[^8]: A melléklet 75.2. pontja a 16/2008. (VI. 25.) HM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^9]: A melléklet 81. pontjának s) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^10]: A melléklet 86. pont j) alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) és d) pontja szerint módosított szöveg.
+[^11]: A melléklet 106. pont p) alpontja a 11/2010. (V. 12.) HM rendelet 3. § e) pontja szerint módosított szöveg.
+[^12]: A melléklet 127. pont a) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § b) pontja szerint módosított szöveg.
+[^13]: A melléklet 127. pont c) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
+[^14]: A melléklet 137.3. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^15]: A melléklet 198.2. pontjának e) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^16]: A melléklet 224.2. pontja a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
+[^17]: A melléklet 226. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^18]: A melléklet 227. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^19]: A melléklet 229. pont 1. alpontját megelőző alcím a 11/2010. (V. 12.) HM rendelet 3. § f) pontjával megállapított szöveg.
+[^20]: A melléklet 229. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § g) és h) pontja szerint módosított szöveg.
+[^21]: A melléklet 229. pont 3. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^22]: A melléklet 230. pontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^23]: A melléklet 231. pont 1. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^24]: A melléklet 231. pont 2. alpontja a 11/2010. (V. 12.) HM rendelet 3. § i) pontja szerint módosított szöveg.
+[^25]: A melléklet 232. pont 2. alpontja a 11/2010. (V. 12.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^26]: A melléklet 232. pont 3. alpontja a 11/2010. (V. 12.) HM rendelet 3. § a) pontja szerint módosított szöveg.
+[^27]: A melléklet 247. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^28]: A melléklet 268.3. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított, a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
+[^29]: A melléklet 286. pontja az 5/2016. (III. 1.) HM rendelet 1. §-ával megállapított szöveg.
+[^30]: A melléklet 289.1. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^31]: A melléklet 290.4 pont b) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § d) pontja szerint módosított szöveg.
+[^32]: A melléklet 295. pont b) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § d) pontja szerint módosított szöveg.
+[^33]: A melléklet 322.5. pontját a 8/2011. (VIII. 18.) HM rendelet 1. §-a iktatta be, szövege a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
+[^34]: A melléklet 322. 6. pontját a 23/2012. (XII. 18.) HM rendelet 53. §-a iktatta be.
+[^35]: A melléklet 324.2. pontját a 8/2011. (VIII. 18.) HM rendelet 2. §-a hatályon kívül helyezte.
+[^36]: A melléklet 326.2.1. pontját a 3/2011. (V. 12.) HM rendelet 1. §-a iktatta be.
+[^37]: A melléklet 444.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^38]: A melléklet 449.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^39]: A melléklet 469.1. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^40]: A melléklet 479.1. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^41]: A melléklet 479.3. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^42]: A melléklet 479.4. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^43]: A melléklet 479.5. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^44]: A melléklet 486. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^45]: A melléklet 498.1. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^46]: A melléklet 498.2. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^47]: A melléklet 499. pontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^48]: A melléklet 502. pont i) alpontja a 8/2011. (VIII. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^49]: A melléklet 530. pontjának d) alpontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^50]: A melléklet 532. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^51]: A melléklet VII. fejezete (535–569. pont) az 5/2016. (III. 1.) HM rendelet 1. §-ával megállapított szöveg.
