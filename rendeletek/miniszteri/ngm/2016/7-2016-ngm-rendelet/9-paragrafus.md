@@ -1,1 +1,0 @@
-## 9. Az iparügyekért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésének, valamint a kijelölt szervezetek tevékenységének különös szabályairól szóló 5/2010. (I. 14.) NFGM rendelet módosítása
