@@ -1,5 +1,0 @@
-## 4. Záró rendelkezések
-
-59. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2016. január 1-jén lép hatályba.
-
-(2) A 39. § (3) bekezdése, 44. § (2) bekezdése és a 45. § (5) bekezdése 2016. március 1-jén lép hatályba.
