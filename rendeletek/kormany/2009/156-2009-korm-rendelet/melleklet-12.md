@@ -12,6 +12,6 @@
 
 | 4. | ED törvény 14. § c) pontja | 140 000 | 150 000 | 165 000 |
 
-12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^61]
+12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^65]
 
-[^61]: A 12. melléklet a 171/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^65]: A 12. melléklet a 171/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.

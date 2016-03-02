@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-156-20-
 | 2014-08-18 | 2009-156-20-22.24 | 171/2014. (VII. 18.) Korm. rendelet |
 | 2015-04-10 | 2009-156-20-22.25 | 138/2013. (V. 10.) Korm. rendelet |
 | 2015-08-07 | 2009-156-20-22.26 | 176/2015. (VII. 7.) Korm. rendelet |
+| 2016-03-02 | 2009-156-20-22.27 | 8/2016. (II. 9.) Korm. rendelet |
