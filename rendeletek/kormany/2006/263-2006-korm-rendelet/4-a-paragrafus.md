@@ -1,9 +1,9 @@
-## A közúti jármű előzetes eredetiségvizsgálata során közreműködő szervezeteket engedélyező hatóság kijelölése[^71]
+## A közúti jármű előzetes eredetiségvizsgálata során közreműködő szervezeteket engedélyező hatóság kijelölése[^74]
 
-4/A. §[^72] (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 33/A. § (1) bekezdése szerinti engedélyező hatóságként a Kormány a 4. § (1) bekezdés a) és c) pontjában meghatározott közlekedési hatóságot jelöli ki.
+4/A. §[^75] (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 33/A. § (1) bekezdése szerinti engedélyező hatóságként a Kormány a 4. § (1) bekezdés a) és c) pontjában meghatározott közlekedési hatóságot jelöli ki.
 
-(2)[^73] Az (1) bekezdés szerinti ügyekben első fokon a közlekedési hatáskörében eljáró fővárosi és megyei kormányhivatalok, másodfokon a Központ jár el.
+(2)[^76] Az (1) bekezdés szerinti ügyekben első fokon a közlekedési hatáskörében eljáró fővárosi és megyei kormányhivatalok, másodfokon a Központ jár el.
 
-[^71]: A 4/A. §-t megelőző alcímet a 326/2010. (XII. 27.) Korm. rendelet 5. §-a iktatta be.
-[^72]: A 4/A. §-t a 326/2010. (XII. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 175/2011. (VIII. 31.) Korm. rendelet 10. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^73]: A 4/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 9. pontja szerint módosított szöveg.
+[^74]: A 4/A. §-t megelőző alcímet a 326/2010. (XII. 27.) Korm. rendelet 5. §-a iktatta be.
+[^75]: A 4/A. §-t a 326/2010. (XII. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 175/2011. (VIII. 31.) Korm. rendelet 10. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^76]: A 4/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 9. pontja szerint módosított szöveg.

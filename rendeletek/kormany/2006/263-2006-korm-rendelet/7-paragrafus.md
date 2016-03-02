@@ -1,12 +1,12 @@
-## 6/B. §[^149] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vasúti közlekedési hatóság jár el a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók alapképzése és időszakos oktatása és az ezzel összefüggő vizsgabiztosi tevékenység, továbbá a Vtv. 80/B. §-a szerinti szakértői tevékenység tekintetében.
+## 6/B. §[^152] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vasúti közlekedési hatóság jár el a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók alapképzése és időszakos oktatása és az ezzel összefüggő vizsgabiztosi tevékenység, továbbá a Vtv. 80/B. §-a szerinti szakértői tevékenység tekintetében.
 
 ## A hajózási hatóságok kijelölése
 
-7. §[^150] (1) Hajózási hatóságként a Kormány
+7. §[^153] (1) Hajózási hatóságként a Kormány
 
 a) a (2)–(3) bekezdés szerinti ügyekben a Hatóságot,
 
-b)[^151] a Vkt. 4. § (4) bekezdésében foglalt feladat tekintetében Magyarország konzuli tisztviselőjét,
+b)[^154] a Vkt. 4. § (4) bekezdésében foglalt feladat tekintetében Magyarország konzuli tisztviselőjét,
 
 c) a nemzeti víziút használatának idegen állam lobogója alatt közlekedő úszólétesítmény részére való engedélyezésével kapcsolatos ügyekben a közlekedésért felelős minisztert
 
@@ -22,7 +22,7 @@ c) a nemzeti víziút használatának idegen állam lobogója alatt közlekedő 
 
 4. a vizsgabiztosok névjegyzékének vezetésével,
 
-5.[^152] az úszólétesítménnyel folytatott hajózási tevékenység, az úszólétesítmények hajózásra alkalmasságának, biztonságának, élet- és munkakörülményeinek ellenőrzésével, a hajózási tevékenységet, valamint az úszólétesítmények élet- és munkakörülményeit érintő panaszok kivizsgálásával, a tengeri hajók munkavédelmi követelményeit tartalmazó szabályzat jóváhagyásával és a tengerészeti munkaügyi bizonyítvány kiállításával,,
+5.[^155] az úszólétesítménnyel folytatott hajózási tevékenység, az úszólétesítmények hajózásra alkalmasságának, biztonságának, élet- és munkakörülményeinek ellenőrzésével, a hajózási tevékenységet, valamint az úszólétesítmények élet- és munkakörülményeit érintő panaszok kivizsgálásával, a tengeri hajók munkavédelmi követelményeit tartalmazó szabályzat jóváhagyásával és a tengerészeti munkaügyi bizonyítvány kiállításával,,
 
 6. a víziutat érintő munkavégzés engedélyezésével,
 
@@ -72,13 +72,13 @@ c) a nemzeti víziút használatának idegen állam lobogója alatt közlekedő 
 
 29. a radioaktív anyagok szállításának engedélyezésével
 
-30.[^153] a magyar lobogójú tengeri hajók tengeri kikötő szerinti állam hatósága által folytatott ellenőrzése adatainak (ellenőrző hatóság, ellenőrzés ideje, eredménye) nyilvántartásával, a hajó feltartóztatása esetén az üzemképesség helyreállításának ellenőrzésével
+30.[^156] a magyar lobogójú tengeri hajók tengeri kikötő szerinti állam hatósága által folytatott ellenőrzése adatainak (ellenőrző hatóság, ellenőrzés ideje, eredménye) nyilvántartásával, a hajó feltartóztatása esetén az üzemképesség helyreállításának ellenőrzésével
 
-31.[^154] a tengerész munkaközvetítők, a tengerész kölcsönbeadók nyilvántartásával és tevékenységének ellenőrzésével, valamint a tevékenységét érintő panaszokkal
+31.[^157] a tengerész munkaközvetítők, a tengerész kölcsönbeadók nyilvántartásával és tevékenységének ellenőrzésével, valamint a tevékenységét érintő panaszokkal
 
 kapcsolatos ügyekben.
 
-(2a)[^155] Az Útügyi, Vasúti és Hajózási Hivatal a (2) bekezdés 12., 14., 19–20. pontjában foglalt feladataival összefüggésben, valamint az általa kiadott tengerészeti munkaügyi bizonyítványokról nyilvántartást vezet, mely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(2a)[^158] Az Útügyi, Vasúti és Hajózási Hivatal a (2) bekezdés 12., 14., 19–20. pontjában foglalt feladataival összefüggésben, valamint az általa kiadott tengerészeti munkaügyi bizonyítványokról nyilvántartást vezet, mely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Hajózási igazgatási feladatkörében az Útügyi, Vasúti és Hajózási Hivatal ellátja
 
@@ -98,11 +98,11 @@ g) a hajós és tengerész szolgálati könyv kiállításával, vezetésével, 
 
 h) a tengeri kedvtelési célú kishajók jachtnaplójának és személyzeti jegyzékének kiadásával és hitelesítésével,
 
-i)[^156] a hajózási szolgálatot teljesítő személy egészségi alkalmasságát vizsgáló orvos nyilvántartásba vételével és az egészségi alkalmasság másodfokú vizsgálatában az orvosszakértő kijelölésével,
+i)[^159] a hajózási szolgálatot teljesítő személy egészségi alkalmasságát vizsgáló orvos nyilvántartásba vételével és az egészségi alkalmasság másodfokú vizsgálatában az orvosszakértő kijelölésével,
 
 j) elemi csapás vagy egyéb veszély esetén az úszólétesítmények ideiglenes igénybevételével,
 
-k)[^157] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
+k)[^160] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
 
 l) az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító elismert szervezetek elismerését megalapozó javaslathoz az elismerést kérelmező szervezet auditálásával, továbbá az elismerést elnyert szervezet tevékenységének ellenőrzésével,
 
@@ -120,7 +120,7 @@ r) a hajózási képesítések nyilvántartásával, ideértve az elektronikus n
 
 ## kapcsolatos feladatokat.
 
-(3a)[^158] A (3) bekezdés d) pontja szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(3a)[^161] A (3) bekezdés d) pontja szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A Vkt. 48/B. §-ának (1) bekezdésében meghatározott folyami információs szolgáltatás működtetéséhez, ellenőrzéséhez kapcsolódó feladatokat az Útügyi, Vasúti és Hajózási Hivatal végzi.
 
@@ -128,21 +128,21 @@ r) a hajózási képesítések nyilvántartásával, ideértve az elektronikus n
 
 a) a Vkt. 6/A. §-a szerinti szakértői tevékenység,
 
-b)[^159] a révkalauzi tevékenység,
+b)[^162] a révkalauzi tevékenység,
 
 c) a Vkt.-ben előírt képesítési követelményekkel összefüggő képzési és vizsgáztatási tevékenységek.
 
-d)[^160] tengerész munkaközvetítői tevékenység.
+d)[^163] tengerész munkaközvetítői tevékenység.
 
-[^149]: A 6/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^150]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^151]: A 7. § (1) bekezdés b. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^152]: A 7. § (2) bekezdés 5. pontja a 349/2015. (XI. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^153]: A 7. § (2) bekezdés 30. pontját a 122/2012. (VI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^154]: A 7. § (2) bekezdés 31. pontját a 383/2014. (XII. 31.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^155]: A 7. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 349/2015. (XI. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^156]: A 7. § (3) bekezdés i) pontja a 383/2014. (XII. 31.) Korm. rendelet 10. § (2) bekezdésével megállapított, ugyanezen módosító rendelet 10. § (4) bekezdése szerint módosított szöveg.
-[^157]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^158]: A 7. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^159]: A 7. § (5) bekezdés b) pontja a 383/2014. (XII. 31.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
-[^160]: A 7. § (5) bekezdés d) pontját a 383/2014. (XII. 31.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^152]: A 6/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 486. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^153]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^154]: A 7. § (1) bekezdés b. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^155]: A 7. § (2) bekezdés 5. pontja a 349/2015. (XI. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^156]: A 7. § (2) bekezdés 30. pontját a 122/2012. (VI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^157]: A 7. § (2) bekezdés 31. pontját a 383/2014. (XII. 31.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^158]: A 7. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 349/2015. (XI. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^159]: A 7. § (3) bekezdés i) pontja a 383/2014. (XII. 31.) Korm. rendelet 10. § (2) bekezdésével megállapított, ugyanezen módosító rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^160]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^161]: A 7. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^162]: A 7. § (5) bekezdés b) pontja a 383/2014. (XII. 31.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^163]: A 7. § (5) bekezdés d) pontját a 383/2014. (XII. 31.) Korm. rendelet 10. § (3) bekezdése iktatta be.
