@@ -32,7 +32,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Környezeti és Energiahatékonysági Operatív Program 2015. évre szóló éves fejlesztési keretének megállapításáról szóló 1318/2015. (V. 21.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1084/2016. (II. 29.) Korm. határozathoz
 
@@ -157,3 +157,5 @@ A Környezeti és Energiahatékonysági Operatív Program 2016. évre szóló é
 | 18. | KEHOP- 5.4.1. | Szemléletformálási programok | 1,00 | standard | 2016. január |
 
 | 19. | KEHOP- 5.4.2. | Zöldkarikás Játékok – Komplex szemléletformálási program | 1,00 | kiemelt | Meghirdetve 2015. december 1-jén |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
