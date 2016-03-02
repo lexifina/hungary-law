@@ -1,4 +1,6 @@
-1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^17]
+## 10. §[^18] Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^19]
 
 I. FEJEZET
 
@@ -148,4 +150,5 @@ III. FEJEZET
 
 IV. FEJEZET
 
-[^17]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (5) bekezdése alapján az 1. számú melléklet I. Fejezet 6. pontjában foglaltakat a 2010. február 19-én folyamatban lévő eljárásokban is alkalmazni kell. Az 1. számú melléklet a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
+[^18]: A 10. §-t a 75/2015. (XII. 29.) NFM rendelet 10. §-a iktatta be.
+[^19]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (5) bekezdése alapján az 1. számú melléklet I. Fejezet 6. pontjában foglaltakat a 2010. február 19-én folyamatban lévő eljárásokban is alkalmazni kell. Az 1. számú melléklet a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja, 11. § c) pontja szerint módosított szöveg.

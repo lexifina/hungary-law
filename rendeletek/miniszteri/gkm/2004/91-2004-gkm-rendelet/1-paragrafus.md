@@ -6,7 +6,7 @@ b) II. fejezete a közúti járművek környezetvédelmi felülvizsgálatának s
 
 c) III. fejezete a gépjárműfenntartó szervezetek személyi és dologi feltételeiről szóló miniszteri rendeletben, valamint a közúti járművek bontásának feltételeiről szóló miniszteri rendeletben meghatározott hatósági tevékenységek,
 
-d) IV. fejezete a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásáról szóló miniszteri rendeletben meghatározott tachográf kártya kiadás hatósági eljárásának
+d)[^2] IV. fejezete a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásáról szóló miniszteri rendeletben meghatározott tachográf-kártya kiadásával összefüggő hatósági eljárásának
 
 igazgatási szolgáltatási díjait tartalmazza.
 
@@ -14,7 +14,8 @@ igazgatási szolgáltatási díjait tartalmazza.
 
 (3) Ha a másodfokon eljáró hatóság megállapítja, hogy az első fokú határozat jogszabálysértő volt, a fellebbezési eljárás díját vissza kell téríteni. Erről a másodfokú hatóság határozatában rendelkezik.
 
-(4)[^2] Az újrafelvételi eljárás díja megegyezik az első fokú eljárás díjával.
+(4)[^3] Az újrafelvételi eljárás díja megegyezik az első fokú eljárás díjával.
 
 [^1]: Az 1. § (1) bekezdése a 81/2009. (XII. 29.) KHEM rendelet 1. §-ával megállapított szöveg; e módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2010. január 1-jét követően indult hatósági eljárásokban kell alkalmazni.
-[^2]: Az 1. § (4) bekezdését a 86/2005. (X. 21.) GKM rendelet 27. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdés d) pontja a 75/2015. (XII. 29.) NFM rendelet 9. §-ával megállapított szöveg.
+[^3]: Az 1. § (4) bekezdését a 86/2005. (X. 21.) GKM rendelet 27. §-a iktatta be.
