@@ -2,10 +2,9 @@
 
 ## 63. § Hatályát veszti a 256/2013. Korm. rendelet
 
-a) 2/A. alcíme,
+a)–b)[^21]
 
-b) 4/A. §-a,
+c)–d)[^22]
 
-c)–d)[^20]
-
-[^20]: A 63. § c)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 63. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 63. § c)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
