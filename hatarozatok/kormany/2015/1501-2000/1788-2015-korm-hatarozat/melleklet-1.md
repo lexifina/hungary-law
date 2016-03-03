@@ -48,11 +48,7 @@
 
 ## Határidő: azonnal
 
-## h) felhívja a belügyminisztert, hogy vizsgálja meg az a) alpont szerinti projekt második szakaszának megvalósításához szükséges BM EU Önerő Alap támogatás nyújtása feltételeinek fennállását, és a második szakaszra vonatkozóan az uniós támogatási szerződés megkötését követően gondoskodjon a BM EU Önerő Alap támogatási szerződés megkötéséről.
-
-## Felelős: belügyminiszter
-
-## Határidő: a második szakaszra vonatkozó uniós támogatási szerződés megkötését követően azonnal
+## h)[^2]
 
 ## 3. A Kormány
 
@@ -79,3 +75,5 @@
 ## Határidő: folyamatos
 
 1. melléklet az 1788/2015. (X. 30.) Korm. határozathoz
+
+[^2]: A 2. pont h) alpontját az 1103/2016. (III. 3.) Korm. határozat 2. pont b) alpontja visszavonta.
