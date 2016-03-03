@@ -1,9 +1,9 @@
-33. § (1)[^49] Hivatásos vadásznak minősül a jogosultnál a 32. § (1)–(2) bekezdésekben foglaltak szerint vadgazdálkodási szakfeladatokat ellátó személy, aki e rendelet szerint legalább középfokú szakirányú képesítéssel rendelkezik vagy megfelel a (2) bekezdésben foglalt feltételeknek, továbbá e minőségében hatósági esküt tett és a vadászati hatóság hivatásos vadászként nyilvántartásba veszi.
+33. § (1)[^50] Hivatásos vadásznak minősül a jogosultnál a 32. § (1)–(2) bekezdésekben foglaltak szerint vadgazdálkodási szakfeladatokat ellátó személy, aki e rendelet szerint legalább középfokú szakirányú képesítéssel rendelkezik vagy megfelel a (2) bekezdésben foglalt feltételeknek, továbbá e minőségében hatósági esküt tett és a vadászati hatóság hivatásos vadászként nyilvántartásba veszi.
 
-(2)[^50] Hivatásos vadászként alkalmazható – a vadászati hatóság engedélye alapján – az a személy is, aki 2002. szeptember 1. napjáig a középfokú szakirányú képesítést megszerezte vagy ugyanezen időpontig igazolta, hogy megszakítás nélküli, legalább ötéves hivatásos vadászi munkaviszonnyal rendelkezik.
+(2)[^51] Hivatásos vadászként alkalmazható – a vadászati hatóság engedélye alapján – az a személy is, aki 2002. szeptember 1. napjáig a középfokú szakirányú képesítést megszerezte vagy ugyanezen időpontig igazolta, hogy megszakítás nélküli, legalább ötéves hivatásos vadászi munkaviszonnyal rendelkezik.
 
-(3)[^51] A hivatásos vadászokra előírt feltételek megléte esetén hivatásos vadászként foglalkoztatható az őrzés feladatát ellátó halőr, mezőőr, a természetvédelmi őr, valamint az erdő őrzésével megbízott erdészeti szakszemélyzet tagja, amennyiben a munkaköreikre megadott működési területek fekvése összefügg.
+(3)[^52] A hivatásos vadászokra előírt feltételek megléte esetén hivatásos vadászként foglalkoztatható az őrzés feladatát ellátó halőr, mezőőr, a természetvédelmi őr, valamint az erdő őrzésével megbízott erdészeti szakszemélyzet tagja, amennyiben a munkaköreikre megadott működési területek fekvése összefügg.
 
-[^49]: A Vhr. 33. § (1) bekezdése a 45/2013. (VI. 3.) VM rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^50]: A Vhr. 33. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 47. § (5) bekezdése szerint módosított szöveg.
-[^51]: A Vhr. 33. § (3) bekezdése a 30/2013. (IV. 30.) VM rendelet 1. §-a szerint módosított szöveg.
+[^50]: A Vhr. 33. § (1) bekezdése a 45/2013. (VI. 3.) VM rendelet 4. § (5) bekezdése szerint módosított szöveg.
+[^51]: A Vhr. 33. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 47. § (5) bekezdése szerint módosított szöveg.
+[^52]: A Vhr. 33. § (3) bekezdése a 30/2013. (IV. 30.) VM rendelet 1. §-a szerint módosított szöveg.

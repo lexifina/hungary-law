@@ -1,4 +1,4 @@
-27/A. §[^40] (1) Az 5. számú melléklet II. részében felsorolt vízivad fészkelése és vonulása szempontjából nemzetközi jelentőségű és hazai kiemelt jelentőségű vízi élőhelyeken a vadászati hatóság szabályozza a vízivad vadászat rendjét. Ebben szabályozza a vízivad vadászatának helyét, módját, idejét, gyakoriságát.
+27/A. §[^41] (1) Az 5. számú melléklet II. részében felsorolt vízivad fészkelése és vonulása szempontjából nemzetközi jelentőségű és hazai kiemelt jelentőségű vízi élőhelyeken a vadászati hatóság szabályozza a vízivad vadászat rendjét. Ebben szabályozza a vízivad vadászatának helyét, módját, idejét, gyakoriságát.
 
 (2) Nyári lúdból, vetési lúdból és nagy lilikből naponta, személyenként összesen legfeljebb hat darab ejthető el, melyből a nyári ludak száma nem lehet több kettőnél. A vetési lúd és a nagy lilik vadászati idénye Hajdú-Bihar, Békés és Csongrád megye teljes közigazgatási területén, valamint Jász-Nagykun-Szolnok megye tiszántúli területén december 1-jén kezdődik és január 31-ig tart. A nyári lúd vadászati idénye Hajdú-Bihar megye teljes közigazgatási területén, valamint Jász-Nagykun-Szolnok megye tiszántúli területén szintén december 1-jén kezdődik és december 31-éig tart.
 
@@ -8,4 +8,4 @@
 
 (5) A vadállomány védelme és a vad kímélete miatt vadászati idényre való tekintet nélkül haladéktalanul el kell ejteni a súlyosan beteg és mozgásképtelen, illetve a súlyosan sérült és életképtelen vadat. Az elejtést a vadász, illetve a kísérő köteles a vadászati naplóban „beteg” megjelöléssel rögzíteni, és haladéktalanul bejelenteni a jogosultnak. A jogosult köteles az állat-egészségügyi okból elejtett vadat vizsgálatra alkalmas módon az elejtés helye szerint illetékes hatósági állatorvosnak bemutatni. A hatósági állatorvos az elejtés indokoltságáról külön jogszabály szerinti igazolást állít ki.
 
-[^40]: A Vhr. 27/A. §-át a 61/2007. (VII. 13.) FVM rendelet 1. §-a iktatta be, szövege a 72/2012. (VII. 24.) VM rendelet 12. §-ával megállapított szöveg.
+[^41]: A Vhr. 27/A. §-át a 61/2007. (VII. 13.) FVM rendelet 1. §-a iktatta be, szövege a 72/2012. (VII. 24.) VM rendelet 12. §-ával megállapított szöveg.

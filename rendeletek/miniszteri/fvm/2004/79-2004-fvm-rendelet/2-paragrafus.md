@@ -1,30 +1,29 @@
 ## (A Vtv. 6. §-ához)
 
-2. §[^5] (1)[^6] A vadászterület határának megállapítására irányuló kérelem esetén, amelyet a Vtv. 12. § (1) bekezdés b) pontja alapján hozott határozat alapján terjesztenek elő, a (3) bekezdésben meghatározott dokumentumokat csak a vadászterület határának megállapítását követően, attól számított 60 napon belül kell a vadászati hatósághoz benyújtani.
+2. §[^5] (1) A vadászterület határának megállapításával egyidejűleg a vadászati hatóság a tulajdonosi közösséget a hozzá tartozó vadászterület azonosító kódszámának megjelölésével nyilvántartásba veszi. A tulajdonosi közösség nyilvántartásba vételekor a vadászterület azonosító kódszáma a vadászterület sorszámát és a vadászterület fekvése szerinti megye kódját tartalmazza.
 
-(2) A vadászatra jogosultak (a továbbiakban: jogosult) hatósági nyilvántartásába társult vadászati jog gyakorlása esetén a földtulajdonosok vadászati közösségét a vadászterület 4. számú melléklet szerinti kódszámának megjelölésével kell bejegyezni. A jogosult székhelyeként a földtulajdonosok vadászati közössége képviselője által megjelölt székhelyet, ennek hiányában a képviselő lakóhelyét kell bejegyezni.
+(2) Megválasztását követően a tulajdonosi közösség képviselője az 1. számú mellékletben meghatározott adattartalmú és a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) honlapján közzétett formanyomtatványon nyilvántartásba vétel iránti kérelmet nyújt be a vadászati hatósághoz. A vadászati hatóság a tulajdonosi közösség képviselőjét az 1. számú melléklet A. pontja szerinti adattartalommal nyilvántartásba veszi.
 
-(3)[^7] A jogosultak hatósági nyilvántartásba vétele iránti kérelmet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: országos hatáskörű vadászati hatóság) által rendszeresített és honlapján közzétett, az 1. számú mellékletben meghatározott adattartalmú formanyomtatványon kell benyújtani. A kérelemhez mellékelni kell:
+(3) A kérelemhez mellékelni kell:
 
-a) a Vtv. 12. § (1) bekezdés a) és c) pontjaiban foglaltakról hozott hatályos határozatok példányát;
+a) a Vtv. 12. § (1) bekezdés a) és c) pontjában foglaltakról hozott határozatok másolati példányát, valamint
 
-b) a 6. §-ban meghatározott, a földtulajdonosok vadászati közössége működésére vonatkozó szabályzat két tanúval hitelesített példányát;
+b) a Vtv. 12. § (12) bekezdésében meghatározott és az e rendeletben megállapított szabályok alapján elkészített, a tulajdonosi közösség működésére vonatkozó szabályzat teljes bizonyító erejű magánokiratba foglalt példányát.
 
-c) a jogosult által elfogadott, a 44. § (1)–(2) bekezdésében, valamint a 65. § (1)–(2) bekezdésében meghatározottakat magába foglaló, a vadászat helyi részletes rendjét tartalmazó szabályzat (a továbbiakban: helyi szabályzat) két tanúval hitelesített példányát;
+(4) A vadászati hatóság a tulajdonosi közösség képviselőjének nyilvántartásba vétel iránti kérelmét elutasítja, ha
 
-d) a vadászati jog haszonbérbe adása esetén a haszonbérleti szerződést;
+a) a Vtv. 14. § (1) bekezdése szerinti hirdetmény
 
-e) a jogosult által a vadászterület meghatározott részére kötött bérvadászati szerződést;
+aa) nem felelt meg a Vtv. 14. § (2) bekezdésében meghatározott követelményeknek,
 
-f) a vadászterületen a teljes vadászati évben vadászni jogosult vadászok névsorát, lakóhelyét és vadászjegyük vagy – legalább egy teljes vadászati évre szóló bérvadászati szerződés esetén – a vadászati engedélyük számát.
+ab) kifüggesztése nem a Vtv. 14. § (1) és (2) bekezdésében előírtak szerint történt, vagy
 
-(4) A hatósági nyilvántartásban a (2)–(3) bekezdésben foglalt adatokat érintő változást az őt érintő részek vonatkozásában a jogosult, a földtulajdonosi közösséget érintő változást pedig a földtulajdonosok vadászati közössége képviselője köteles a vadászati hatóságnak harminc napon belül írásban bejelenteni.
+ac) nem tartalmazta, hogy a tulajdonosi gyűlés összehívását a vadászterület összes tulajdonosának a tulajdoni hányada arányában számított legalább egyötöde kezdeményezte, vagy
 
-(5) Ha a vadászati jog haszonbérlője vagy a földtulajdonosi közösség képviselője jogi személy, a vadászati hatóságnak a nyilvántartásba vételt megelőzően vizsgálnia kell a bírósági nyilvántartásba vétel, illetve a cégbírósági bejegyzés meglétét.
+b) a képviselő személyével szemben a Vtv. 12. § (5) vagy (7) bekezdésében meghatározott kizárási ok áll fenn.
 
-(6)[^8]
+(5) A vadászati hatóság a tulajdonosi közösség képviselőjét a nyilvántartásból törli, ha annak megbízatása a Vtv. 12. § (8) bekezdés b)–g) pontja alapján megszűnik, vagy a Vtv. 12. § (8) bekezdés a) pontjában meghatározott esetben a tulajdonosi közösség az új képviselőt megválasztotta.
 
-[^5]: A Vhr. 2. §-a a 42/2006. (V. 31.) FVM rendelet 1. §-ával megállapított szöveg.
-[^6]: A Vhr. 2. § (1) bekezdése a 7/2010. (II. 2.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: A Vhr. 2. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 2. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 40. § a) pontja szerint módosított szöveg.
-[^8]: A Vhr. 2. § (6) bekezdését a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés a) pontja hatályon kívül helyezte.
+(6) A tulajdonosi közösség képviselője a (2)–(5) bekezdésben meghatározott adatokban, tényekben bekövetkezett változást a változás bekövetkezésének napjától számított tizenöt napon belül a vadászati hatóságnak írásban bejelenti.
+
+[^5]: A Vhr. 2. §-a a 14/2016. (III. 2.) FM rendelet 1. §-ával megállapított szöveg.

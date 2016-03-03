@@ -1,17 +1,17 @@
 52. § (1) A vadászati engedélyt a bérvadászati szerződés vagy a meghívólevél alapján a tervezett első vadászat helye szerint illetékes vadászati hatóság állítja ki.
 
-(2)[^80] A vadászati engedéllyel rendelkező vadász vadászatának megkezdése előtt – a vadászati engedély kérelemben fel nem sorolt vadászterület esetében – a jogosult köteles a bérvadászati szerződés, vagy vendégvadászat esetén a meghívólevél másolatát a vadászati hatóságnak benyújtani, valamint a vadászterület kódszámát bejegyezni a vadászati engedéllyel rendelkező vadász egyéni lőjegyzékébe.
+(2)[^81] A vadászati engedéllyel rendelkező vadász vadászatának megkezdése előtt – a vadászati engedély kérelemben fel nem sorolt vadászterület esetében – a jogosult köteles a bérvadászati szerződés, vagy vendégvadászat esetén a meghívólevél másolatát a vadászati hatóságnak benyújtani, valamint a vadászterület kódszámát bejegyezni a vadászati engedéllyel rendelkező vadász egyéni lőjegyzékébe.
 
-(3)[^81] A vadászati engedéllyel rendelkező vadász vadászatát – a vadászat megkezdése előtt legalább huszonnégy órával – a jogosultnak kell bejelentenie az érintett vadászterület szerint illetékes vadászati, valamint védett természeti terület esetében a természetvédelmi hatósághoz.
+(3)[^82] A vadászati engedéllyel rendelkező vadász vadászatát – a vadászat megkezdése előtt legalább huszonnégy órával – a jogosultnak kell bejelentenie az érintett vadászterület szerint illetékes vadászati, valamint védett természeti terület esetében a természetvédelmi hatósághoz.
 
-(4)[^82]
+(4)[^83]
 
-(5)[^83] Ha a vadászati engedéllyel rendelkező vadász ragadozó madárral folytat vadászatot, a kérelemhez mellékelni kell az illető ország hatósága által a ragadozó madár tartására kiadott engedélyt, továbbá a behozatalára külön jogszabály által kiadott engedélyt.
+(5)[^84] Ha a vadászati engedéllyel rendelkező vadász ragadozó madárral folytat vadászatot, a kérelemhez mellékelni kell az illető ország hatósága által a ragadozó madár tartására kiadott engedélyt, továbbá a behozatalára külön jogszabály által kiadott engedélyt.
 
-(6)[^84]
+(6)[^85]
 
-[^80]: A Vhr. 52. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (6) bekezdése szerint módosított szöveg.
-[^81]: A Vhr. 52. §-ának (3) bekezdése a 61/2007. (VII. 13.) FVM rendelet 3. §-ával megállapított szöveg.
-[^82]: A Vhr. 52. § (4) bekezdését a 45/2013. (VI. 3.) VM rendelet 4. § (6) bekezdése hatályon kívül helyezte.
-[^83]: A Vhr. 52. §-ának (5) bekezdése a 61/2007. (VII. 13.) FVM rendelet 3. §-ával megállapított szöveg.
-[^84]: A Vhr. 52. §-ának (6) bekezdését a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.
+[^81]: A Vhr. 52. § (2) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (6) bekezdése szerint módosított szöveg.
+[^82]: A Vhr. 52. §-ának (3) bekezdése a 61/2007. (VII. 13.) FVM rendelet 3. §-ával megállapított szöveg.
+[^83]: A Vhr. 52. § (4) bekezdését a 45/2013. (VI. 3.) VM rendelet 4. § (6) bekezdése hatályon kívül helyezte.
+[^84]: A Vhr. 52. §-ának (5) bekezdése a 61/2007. (VII. 13.) FVM rendelet 3. §-ával megállapított szöveg.
+[^85]: A Vhr. 52. §-ának (6) bekezdését a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.

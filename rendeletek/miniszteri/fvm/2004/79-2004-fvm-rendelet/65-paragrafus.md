@@ -4,6 +4,6 @@
 
 (2) A jogosult a vadászat részletes rendjét a vadászterületnek megfelelően, a helyi viszonyok szerint köteles megállapítani és a helyi szabályzatot a vadászati napló és teríték-nyilvántartás mellé is bejegyezni, illetve csatolni.
 
-(3)[^110] A vadász köteles a helyi szabályzatban foglaltakat megtartani, valamint a jogosult által felhatalmazott vadászatvezetőnek, illetve kísérő vadásznak a vadászat rendjére vonatkozó utasításait követni. A vadászatra vonatkozó szabályok, illetve utasítások megszegőjét a vadászatvezető, egyéni vadászat esetén a jogosult vagy a hivatásos vadász figyelmezteti, súlyosabb esetben az érintett vadászatból kizárja.
+(3)[^111] A vadász köteles a helyi szabályzatban foglaltakat megtartani, valamint a jogosult által felhatalmazott vadászatvezetőnek, illetve kísérő vadásznak a vadászat rendjére vonatkozó utasításait követni. A vadászatra vonatkozó szabályok, illetve utasítások megszegőjét a vadászatvezető, egyéni vadászat esetén a jogosult vagy a hivatásos vadász figyelmezteti, súlyosabb esetben az érintett vadászatból kizárja.
 
-[^110]: A Vhr. 65. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 31. §-ával megállapított szöveg.
+[^111]: A Vhr. 65. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 31. §-ával megállapított szöveg.

@@ -1,14 +1,19 @@
-9. § (1) A Vtv. 12. §-ában foglaltak szerinti határozatképesség megállapításához a vadászterület tulajdonosi közösségének jegyzőkönyveznie kell, hogy tulajdonosként, továbbá a tulajdonos képviselőjeként
+9. §[^20] (1) Társult vadászati jog esetén a tulajdonosi közösség a működési szabályait maga állapítja meg. A tulajdonosi közösség működési szabályzatának kötelező minimális adattartalmát a 2. számú melléklet tartalmazza.
 
-a) ki, és – településenkénti megoszlásban – mekkora területtel vesz részt,
+(2) Ha a tulajdonosi gyűlés összehívása, illetve a határozathozatal alkalmával a föld tulajdonosa nem személyesen tesz jognyilatkozatot, képviseletéről a 7. § (2) bekezdésében meghatározottak szerint gondoskodhat.
 
-b) a kialakítandó vadászterület egészéhez – és ezen belül is településenként – viszonyítottan e tulajdonosok vagy képviselők milyen arányt képviselnek.
+(3) A vadászterületnek minősülő ingatlan tulajdonjoga igazolásaként el kell fogadni:
 
-(2)[^15] A határozathozatal során a települési önkormányzat jegyzőjének szavazati hányadát úgy kell megállapítani, hogy az adott önkormányzat közigazgatási területén belül található, a vadászterület részének minősülő földterületből le kell vonni azokat a földterületeket, amelyek képviseletéről a földtulajdonos személyesen vagy képviselőjén keresztül gondoskodott.
+a) az ingatlan tulajdoni lapjának hiteles másolatát;
 
-(3)[^16] A földtulajdonosi közösség képviselőjének és a földtulajdonosi gyűlésen megválasztott tulajdonosi képviselőnek lehetővé kell tennie azt, hogy a vadászterület földtulajdonosai az őket érintő kérdésekben felvilágosítást kapjanak, továbbá az iratokba betekinthessenek.
+b) az ingatlan tulajdonjogának földhivatali bejegyzéséről szóló határozat eredeti vagy közjegyző által hitelesített másolati példányát;
 
-(4) A földtulajdonosok gyűlésén megállapított képviseleti jogosultság vagy tulajdoni arány vitatása esetén a Vtv. 14. § (4) bekezdésének b) pontja szerint kell eljárni.
+c) az ingatlanügyi hatóság által papíralapon vagy elektronikus adathordozón kiadott földkönyvet vagy tulajdonosi adatokkal kiegészített földkönyv kivonatot;
 
-[^15]: A Vhr. 9. §-ának (2) bekezdése a 42/2006. (V. 31.) FVM rendelet 5. §-ával megállapított szöveg.
-[^16]: A Vhr. 9. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 6. §-ával megállapított szöveg.
+d) az ingatlanügyi hatóság által papíralapon vagy elektronikus adathordozón kiadott, a tulajdonosok nevét, tulajdoni hányadát, a földrészletek helyrajzi számait, valamint azok területét hektárban tartalmazó összesítőt;
+
+e) az ingatlan-nyilvántartási adatbázishoz adatátviteli vonalon való csatlakozással számítógépes hálózaton történő adatlekéréssel történő helyszíni adatbemutatást, vagy a tulajdoni lapról elektronikus formában szolgáltatott nem hiteles másolat helyszíni bemutatását.
+
+(4) A tulajdonosi közösség tagjának tulajdonában álló föld tulajdonjogának első alkalommal történő igazolását mindaddig el kell fogadni, amíg a változást a (3) bekezdés szerinti okirattal igazolva be nem jelentették.
+
+[^20]: A Vhr. 9. §-a a 14/2016. (III. 2.) FM rendelet 5. §-ával megállapított szöveg.

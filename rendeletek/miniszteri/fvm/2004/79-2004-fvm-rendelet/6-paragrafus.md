@@ -1,27 +1,15 @@
 ## (A Vtv. 12. §-ához)
 
-6. §[^11] (1) Társult vadászati jog esetén a földtulajdonosok vadászati közössége a Vtv. 12. §-ában foglaltak szerinti határozathozatal részletes eljárási szabályait, valamint a tulajdonosi közösség működési szabályait – a (2)–(5) bekezdésben, valamint a 7. § (1)–(3) bekezdésében foglaltakra is figyelemmel – saját maga állapítja meg. Amennyiben a földtulajdonosi közösség vadászati jogát maga gyakorolja, a működési szabályzat rendelkezéseinek tartalmaznia kell a földtulajdonosok vadászati lehetőségének meghatározását, továbbá a többlethasználati díj megfizetésének rendjét, feltételeit. A határozathozatal részletes eljárási szabályai, valamint a tulajdonosi közösség működési szabályai nem lehetnek ellentétesek a Vtv. és e rendelet rendelkezéseivel. A tulajdonosi közösség működési szabályzatának adattartalmát a 2. számú melléklet tartalmazza.
+6. §[^12] (1) Az ajánlást áttekintő és részletes térképen is meg kell jeleníteni. A részletes térképen legalább 1:50000 méretarányban fel kell tüntetni és jelölni kell
 
-(2) A vadászterülethez tartozó föld tulajdonosa, amennyiben a földtulajdonosi gyűlés összehívása, illetve a határozathozatal alkalmával nem személyesen tesz jognyilatkozatot, képviseletéről a Polgári Törvénykönyv képviseleti jogra vonatkozó rendelkezéseiben foglaltaknak megfelelően kiállított olyan írásbeli meghatalmazás útján gondoskodhat, amelyből megállapítható a tulajdonos neve, tulajdoni hányada, a képviselő személye, a földingatlannal érintett település neve, a külterületi földingatlan helyrajzi száma, valamint annak területe hektárban. E rendelkezést a Magyar Állam földtulajdona esetén a tulajdonosi jogokat gyakorló szerv nevében eljáró személyre is alkalmazni kell. A meghatalmazás a (3) bekezdés a)–g) pontjaiban meghatározott tulajdonjog igazolására vonatkozó dokumentumokkal együtt érvényes. Nem tekinthető érvényesnek az olyan jognyilatkozat, amelyben ugyanazon földterületre több meghatalmazás került kiállításra és azok érvényességét a 9. § (1) bekezdésében előírt jegyzőkönyv felvétele során nem lehet egyértelműen meghatározni.
+a) az ajánlással érintett vadászterületet és a szomszédos, egy éven belül lejáró üzemtervű vadászterületek határvonalának az ajánlással érintett vadászterülethez csatlakozó határvonalát és kódszámait, valamint
 
-(3) A Vtv. alkalmazásában a vadászterületnek minősülő ingatlan tulajdonjoga igazolásaként el kell fogadni:
+b) az ajánlás azon határvonalát, amely egyben a vadászati hatóság illetékességi területének határa is.
 
-a) az ingatlan tulajdoni lapjának hiteles másolatát;
+(2) Az ajánlásban fel kell tüntetni az ajánlással érintett vadászterület kódszámát, határleírását és hektárban kifejezett becsült méretét.
 
-b) az ingatlan széljegyzettel ellátott tulajdoni lapja esetén a tulajdon bejegyzése alapjául szolgáló okirat eredeti vagy közjegyzővel hitelesített másolatát, melyen a benyújtást a földhivatal igazolta;
+(3) Az ajánlás térképi megjelenítése és határleírása közötti eltérés esetén a határleírás tekintendő irányadónak.
 
-c) az ingatlan tulajdonjogának földhivatali bejegyzéséről szóló határozat eredeti vagy közjegyző által hitelesített példányát;
+(4) A Vtv. 11/A. § (4) bekezdése szerinti hirdetmény kifüggesztésének időtartamába a kifüggesztés, illetve a levétel napja nem számítható be.
 
-d) a kárpótlási árverés során készült árverési jegyzőkönyvet vagy közjegyző által hitelesített példányát;
-
-e) a földhivatal vagy Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI) által (papíralapú vagy elektronikus adathordozón) kiadott földkönyvet vagy tulajdonosi adatokkal kiegészített földkönyv kivonatot;
-
-f) a földhivatal vagy a FÖMI által papíralapú vagy elektronikus adathordozón kiadott, a tulajdonosok nevét, tulajdoni hányadát, a termőföldek helyrajzi számait, valamint azok területét hektárban tartalmazó területi összesítőt;
-
-g) az ingatlan-nyilvántartási adatbázishoz adatátviteli vonalon való csatlakozással számítógépes hálózaton történő adatlekéréssel történő helyszíni adatbemutatást, vagy a tulajdonilap-másolat ügyfélkapun keresztül lekért elektronikus dokumentumának helyszíni bemutatását.
-
-(4) A települési önkormányzat jegyzőjére – amennyiben a tulajdonosok törvényes képviselőjeként jár el – a (3) bekezdésben foglaltakat nem kell alkalmazni.
-
-(5) A vadászati közösséghez tartozó föld tulajdonjogának első alkalommal történő igazolását mindaddig el kell fogadni, amíg a változást a (3) bekezdésben felsorolt igazolások bármelyikével be nem jelentették.
-
-[^11]: A Vhr. 6. §-a a 7/2010. (II. 2.) FVM rendelet 4. §-ával megállapított szöveg.
+[^12]: A Vhr. 6. §-a a 14/2016. (III. 2.) FM rendelet 4. §-ával megállapított szöveg.

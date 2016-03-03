@@ -1,7 +1,13 @@
-7. § (1)[^12] Társult vadászati jog gyakorlása esetén a vadászati közösség döntése alapján a közösség nem vadászó földtulajdonos tagjait többlethasználati díj illeti meg, ami a vadászterületen vadászatot gyakorló vadászó tulajdonostársak terhére állapítható meg. A használati viszonyok részletes szabályait a 6. § (1) bekezdésében meghatározott működési szabályzatban kell rögzíteni.
+7. §[^13] (1) A Vtv. 11/A. § (5) bekezdésében meghatározott módosító javaslatot ahhoz a vadászati hatósághoz kell benyújtani, amelyik az ajánlást tette.
 
-(2) A vadászati közösség –, illetve a képviselője – működése során felhasználható közös költség mértékét a vadászati jog gyakorlása vagy hasznosítása feltételei között, az éves költségvetésben előzetesen rögzíteni kell.
+(2) Ha a módosító javaslatot benyújtó tulajdonos nem személyesen tesz jognyilatkozatot, képviseletéről a Polgári Törvénykönyv képviseleti jogra vonatkozó rendelkezéseinek megfelelő és a 15. számú mellékletben meghatározott adattartalommal kiállított írásbeli meghatalmazás útján gondoskodhat.
 
-(3) A földtulajdonosok által nem igényelt haszonbérleti vagy többlethasználati díj részének felhasználásáról a tulajdonosi közösség – az igény érvényesítésére vonatkozó elévülés szabályaira is figyelemmel – határozatban rendelkezhet. A vadászati közösség megszűnésekor a tulajdonosoknak dönteniük kell a működésük során közös tulajdonukba került javak teljes körű felhasználásáról, illetve a közösséggel szemben esetlegesen fennálló követelés megosztásáról is.
+(3) A meghatalmazás a 9. § (3) bekezdésében meghatározott, a tulajdonjog igazolására elfogadható dokumentumok valamelyikével együtt érvényes.
 
-[^12]: A Vhr. 7. §-a (1) bekezdésének második mondata a 42/2006. (V. 31.) FVM rendelet 4. §-ával megállapított szöveg.
+(4) Állami tulajdonú földterület esetén a vadászati joggal kapcsolatos eljárásokban meghatalmazásnak minősül a vagyonkezelési szerződésbe foglalt, vadászati joggal összefüggő képviseletre vonatkozó meghatalmazás, amely a meghatalmazott által bemutatott, a képviselettel érintett állami földterületek listájával együtt érvényes.
+
+(5) A módosító javaslattal érintett ingatlan esetében, ha az ingatlannak több tulajdonosa van, érvényes jognyilatkozatot csak egy személy tehet. A tulajdonostársak képviseletükről tulajdoni hányaduk arányában számított szótöbbséggel határoznak.
+
+(6) Ha a földtulajdonos más földtulajdonossal együtt nyújt be módosító javaslatot a vadászati hatósághoz, a módosító javaslatban meg kell nevezni a módosító javaslat kapcsolattartóját (a továbbiakban: meghatalmazott kapcsolattartó).
+
+[^13]: A Vhr. 7. §-a a 14/2016. (III. 2.) FM rendelet 4. §-ával megállapított szöveg.
