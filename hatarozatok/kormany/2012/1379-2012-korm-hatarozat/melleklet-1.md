@@ -98,9 +98,15 @@
 
 ## 2.3. A Kormány egyetért azzal, hogy a 2.1. pont b) alpont szerinti átmeneti ivóvízellátáshoz szükséges berendezések üzemeltetésének önköltségi áron számított kiadásait a víziközmű tulajdonosa viselje.
 
-## 2.4. A Kormány felhívja a belügyminisztert, hogy az érintett önkormányzatok polgármestereinek közreműködésével az Európai Bizottság 2012. május 30-án kelt a Magyarország által az emberi fogyasztásra szánt víz minőségéről szóló 98/83/EK tanácsi irányelv alapján kért eltérésről szóló határozatában előírt éves jelentési és a derogációval érintett lakosság tekintetében meghatározott tájékoztatási kötelezettségnek tegyen eleget.
+## 2.4.[^1] A Kormány felhívja a nemzeti fejlesztési minisztert, hogy az emberi erőforrások minisztere bevonásával, valamint – az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvíz-elvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet hatálya alá nem tartozó ivóvízminőség-javító beruházások tekintetében – a belügyminiszterrel együttműködve, az Európai Bizottság 2012. május 30-án kelt, a Magyarország által az emberi fogyasztásra szánt víz minőségéről szóló 98/83/EK tanácsi irányelv alapján kért eltérésről szóló határozatában előírt éves jelentési kötelezettségnek – az igazságügyi miniszter útján – tegyen eleget.
 
-## Felelős: belügyminiszter
+## Felelős: nemzeti fejlesztési miniszter
+
+## belügyminiszter
+
+## emberi erőforrások minisztere
+
+## igazságügyi miniszter
 
 ## Határidő: az Európai Bizottság határozatának megfelelően
 
@@ -797,3 +803,5 @@ ezer forintban
 |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |
 
 |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások | -20 |
+
+[^1]: A 2.4. pont az 1103/2016. (III. 3.) Korm. határozat 1. pontjával megállapított szöveg.
