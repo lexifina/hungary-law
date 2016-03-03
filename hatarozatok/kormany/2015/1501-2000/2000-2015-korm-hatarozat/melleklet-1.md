@@ -62,7 +62,9 @@
 
 ## Határidő: azonnal
 
-1. melléklet a 2000/2015. (XII. 28.) Korm. határozathoz
+1. melléklet a 2000/2015. (XII. 28.) Korm. határozathoz[^2]
+
+6K03441M_0
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L |
 
@@ -90,7 +92,7 @@
 
 | 12. | KÖZOP-2.5.0-09-11-2013- 0003 | Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program 25 helyszínen (kormányablakok) | MÁV Zrt. | 4 077 556 421 | 0 | 6 700 097 430 | 0 | 4 527 556 421 | 0 | 6 250 097 430 | 0 | A projekt célja MÁV állomások épületeinek komplex felújítása, az utasforgalmi kiszolgáláshoz kapcsolódó infrastruktúra-elemek fejlesztése 25 helyszínen, továbbá integrált ügyfélszolgálati fejlesztések (kormányablakok) 17 helyszínen. |
 
-| 13. | KÖZOP-2.5.0-09-11-2015- 0004 | Szolgáltatási színvonal javítás a 80as számú vasútvonalon | MÁV Zrt. | 14 531 135 250 | 0 | 293 994 048 | 0 | 14 825 129 298 | 0 | 0 | 0 | A projekt keretében a 80. számú, Budapest–Miskolc–Sátoraljaújhely/Nyíregyháza vasútvonal Nagyút és Mezőkeresztes-Mezőnyárád vasútállomások közötti szakaszának fejlesztése, a szelvényezés szerinti jobb oldali vágány felújítása valósul meg. A projekt célja a vonalszakaszon a sebességkorlátozások megszüntetése és az eredeti pályaparaméterek helyreállítása. A projekt közvetett célja a vasúti szolgáltatási színvonal növelése. |
+| 13. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 14. | KÖZOP-2.5.0-09-11-2013- 0006 | GYSEV üzemirányító központ létrehozása a szükséges biztosítóberendezési felülvezérlések kialakításával | Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: GYSEV Zrt.) | 4 907 344 353 | 0 | 2 135 376 817 | 0 | 5 507 344 353 | 0 | 1 535 376 817 | 0 | A projekt keretében a GYSEV Zrt. által üzemeltetett vonalhálózaton központi forgalomellenőrzési (a továbbiakban: KÖFE) és központi forgalomirányító (a továbbiakban: KÖFI) rendszerek kialakításának előkészítését, tervezését és megvalósítását kívánják elvégezni 2 db KÖFI és 1 db KÖFE központ kiépítésével, beleértve az ezekhez szükséges építészeti munkákat is. A projekt további célja más európai uniós forrásból megvalósult projekt keretében létesített hat új építésű és egy átépülő sorompónak a KÖFE és KÖFI rendszerbe történő integrálása. |
 
@@ -103,3 +105,5 @@
 | 18. | KÖZOP-2.5.0-09-2009- 0001 | Budapest- Ferencváros „C” elágazás – Székesfehérvár vasútvonal ETCS 2 telepítés kivitelezése | NIF Zrt. | 4 699 915 991 | 961 340 484 | 2 581 669 298 | 990 968 880 | 6 099 915 991 | 1 501 340 484 | 1 181 669 298 | 450 968 880 | A projekt célja Budapest és Székesfehérvár között az Egységes Európai Vonatbefolyásoló Rendszer (ETCS) 2 pályamenti berendezéseinek telepítése, melynek eredményeként megvalósul az interoperabilitás. |
 
 | 19. | KÖZOP-2.5.0-09-11-2012- 0014 | GSM-R rendszer beszerzése és kapcsolódó szolgáltatások | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | 17 189 927 724 | 4 357 877 130 | 6 453 159 284 | 1 742 353 008 | 18 503 927 724 | 4 843 877 130 | 5 139 159 284 | 1 256 353 008 | A GSM-R rendszer egységes európai szabványokon alapuló, a vasúti forgalom biztosításához szükséges vezeték nélküli kommunikációt biztosító rendszer, az európai vonatbefolyásoló rendszer (ETCS L2) alapinfrastruktúrája. A GSM-R projekt első fázisában mintegy 935 km hosszon kerül fejlesztésre a hazai vasúthálózat. |
+
+[^2]: Az 1. melléklet az 1113/2016. (III. 3.) Korm. határozat 4. pontja szerint módosított szöveg.
