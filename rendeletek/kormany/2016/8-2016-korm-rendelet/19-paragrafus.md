@@ -1,4 +1,4 @@
-## 14–18. §[^3]
+## 14–18. §[^6]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1–10. § 2016. március 2-án lép hatályba.
 
-[^3]: A 14–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 14–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
