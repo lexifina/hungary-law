@@ -1,5 +1,0 @@
-2. § (1) A pénztárak és a foglalkoztatói nyugdíjszolgáltató intézmény által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 52/2015. (XII. 11.) MNB rendelet [a továbbiakban: 52/2015. (XII. 11.) MNB rendelet] a következő 12. §-sal egészül ki:
-
-## „12. § Az önkéntes nyugdíjpénztár és a végelszámolás alatt álló önkéntes nyugdíjpénztár a „Portfólió állomány a választható portfóliós rendszert nem működtető önkéntes nyugdíjpénztárnál” (táblakód: 72OA), illetve a „Portfólió állomány a választható portfóliós rendszert működtető önkéntes nyugdíjpénztárnál” (táblakód: 72OB) megnevezésű felügyeleti jelentést e rendeletnek az egyes adatszolgáltatási tárgyú MNB rendeletek módosításáról szóló 5/2016. (III. 1.) MNB rendelet 3. melléklet 1., illetve 2. pontjával megállapított rendelkezései szerint első alkalommal 2016 első negyedévére mint tárgyidőszakra vonatkozóan teljesíti.”
-
-(2) Az 52/2015. (XII. 11.) MNB rendelet. 2. melléklete a 3. melléklet szerint módosul.
