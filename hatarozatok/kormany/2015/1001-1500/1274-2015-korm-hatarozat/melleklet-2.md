@@ -8,6 +8,6 @@
 
 | 4. | KEOP- 1.2.0/09-11- 2012-0025 | Buják szennyvíztisztító telep és csatornahálózat fejlesztése | Buják Község Önkormányzata | 1 133 469 334 | 82 882 149 | 1 216 351 483 | A projektjavaslat által érintett településen nem áll rendelkezésre szennyvízcsatorna hálózat és tisztító telep. A települési szennyvízelvezetés és tisztítás nem megoldott. Buják agglomeráció lakosegyenértéke (LE) 2 192. A projekt keretében szennyvízcsatorna hálózat és telep kialakítása történik. A telep kapacitása 200 m3/d, a bekötések száma 908 db, a gravitációs gerinc vezeték 14 925 fm. | nem releváns |
 
-2. melléklet az 1274/2015. (IV. 30.) Korm. határozathoz[^1]
+2. melléklet az 1274/2015. (IV. 30.) Korm. határozathoz[^3]
 
-[^1]: A 2. melléklet az 1362/2015. (VI. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1362/2015. (VI. 3.) Korm. határozat 2. pontja szerint módosított szöveg.

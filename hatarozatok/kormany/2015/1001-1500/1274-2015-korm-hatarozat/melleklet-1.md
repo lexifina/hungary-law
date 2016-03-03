@@ -34,11 +34,7 @@
 
 ## Határidő: azonnal
 
-## 9. felhívja a belügyminisztert, hogy vizsgálja meg a 8. pont szerinti projekt második szakaszának megvalósításához szükséges BM EU Önerő Alap támogatás nyújtása feltételeinek fennállását, és a második szakaszra vonatkozóan az uniós támogatási szerződés megkötését követően gondoskodjon a BM EU Önerő Alap támogatási szerződés megkötéséről,
-
-## Felelős: belügyminiszter
-
-## Határidő: a második szakaszra vonatkozó uniós támogatási szerződés megkötését követően azonnal
+## 9.[^2]
 
 ## 10. egyetért a KEOP-1.2.0/09-11-2012-0014 azonosító számú, „A siófoki szennyvízelvezetési agglomeráció szennyvízgyűjtése és szennyvíztisztítása” című projekt (a továbbiakban: projekt) támogatási összegének 291 009 213 forinttal történő csökkentésével,
 
@@ -57,3 +53,5 @@
 ## Határidő: azonnal
 
 1. melléklet az 1274/2015. (IV. 30.) Korm. határozathoz
+
+[^2]: A 9. pontot az 1103/2016. (III. 3.) Korm. határozat 2. pont a) alpontja visszavonta.
