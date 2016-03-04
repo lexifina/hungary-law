@@ -2,8 +2,12 @@
 
 a) építésügyi hatósági ügyekben építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
 
-b) építésügyi hatósági ügyekben településképi véleményezési eljárást nem kell lefolytatni,
+b)[^1] építésügyi hatósági ügyekben településképi véleményezési eljárást nem kell lefolytatni, valamint
 
-c) Beruházással összefüggésben településképi bejelentési eljárásnak nincs helye, valamint
+c)[^2] Beruházással összefüggésben településképi bejelentési eljárásnak nincs helye.
 
-d) építési engedélyezési eljárásokban az építésügyi hatóság az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 14/A. §-a szerint kikéri a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ Műemléki Tanácsadó Testületének szakértői véleményét.
+d)[^3]
+
+[^1]: A 4. § b) pontja a 40/2016. (III. 3.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § c) pontja a 40/2016. (III. 3.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § d) pontját a 40/2016. (III. 3.) Korm. rendelet 4. §-a hatályon kívül helyezte.
