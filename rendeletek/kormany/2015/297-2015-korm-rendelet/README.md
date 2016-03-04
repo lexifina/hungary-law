@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-297-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-10-21 | 2015-297-20-22.1 | 297/2015. (X. 13.) Korm. rendelet |
+| 2016-03-04 | 2015-297-20-22.2 | 25/2016. (II. 25.) Korm. rendelet |

@@ -14,7 +14,7 @@ d) az a)–c) pont hatálya alá nem tartozó egyéb ok
 
 (3) A munkaerő-piaci relevanciával nem rendelkező művészeti, kulturális, kézműves, hagyományőrző szakképesítések és az ezeket megalapozó szakközépiskolai ágazatok esetén az (1) bekezdés szerinti keretszám ötven százalékára az állami intézményfenntartó központ jogosult.
 
-(4) A fenntartók között keretszám-átadásra nincs lehetőség.
+(4)[^1] A fenntartók között – a 6/B. §-ban és a 6/C. §-ban foglalt kivétellel – keretszám-átadásra nincs lehetőség.
 
 (5) Az állami fenntartó az (1)–(3) bekezdés szerinti jogosultságát a nem állami fenntartó legkésőbb 2016. augusztus 31-ig – a 2. § (1) bekezdése szerinti képzések esetén 2017. január 15-ig – az állami szakképzési és felnőttképzési szerv felé teljesített, a szakképesítésekre és a szakközépiskolai ágazatokra vonatkozó adatszolgáltatási kötelezettsége alapján gyakorolja. Az adatszolgáltatás tartalmazza munkarend szerinti, valamint megyénkénti és fővárosi bontásban a támogatott és a korlátozottan támogatott szakképesítésre és szakközépiskolai ágazatra e rendelet alapján beiskolázott tanulók számát.
 
@@ -23,3 +23,5 @@ d) az a)–c) pont hatálya alá nem tartozó egyéb ok
 (7) Az állami szakképzési és felnőttképzési szerv a (6) bekezdésben szereplő határidőt követő 5 napon belül tájékoztatja az Szt. 4/A. § (2) bekezdése szerinti minisztert, illetve az állami intézményfenntartó központot a (2) bekezdés, illetve a (3) bekezdés alapján a hatáskörükbe tartozó szakképesítések és az ezeket megalapozó szakközépiskolai ágazatok fel nem használt keretszámairól.
 
 (8) Az (5) bekezdés szerinti adatszolgáltatás elmulasztása vagy a ténylegesen beiskolázott létszámmal meg nem egyező adatok szolgáltatása esetén a nem állami fenntartó a mulasztással vagy a nem egyező adatszolgáltatással érintett megye vagy a főváros és azon belül az érintett szakképesítés vagy szakközépiskolai ágazat esetén a következő két tanévben a korlátozottan támogatott keretszámok elosztásakor nem vehető figyelembe. Az adatszolgáltatás hitelességét az állami szakképzési és felnőttképzési szerv – a költségvetést folyósító szerv adatai alapján – ellenőrzi.
+
+[^1]: A 4. § (4) bekezdése a 25/2016. (II. 25.) Korm. rendelet 8. §-ával megállapított szöveg.

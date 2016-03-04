@@ -1,1 +1,0 @@
-## 6. § A 6. melléklet az adott megyében és a fővárosban iskolai rendszerű szakképzést folytató intézmények fenntartóira lebontva – az oktatás munkarendjére tekintet nélkül megyénként és a fővárosra külön – tartalmazza a rendészetért felelős miniszter hatáskörébe tartozó, korlátozottan támogatott ágazatok keretszámait.
