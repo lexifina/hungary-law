@@ -1,10 +1,10 @@
 ## megfelelően a támogatást nyújtó által kitöltött elektronikus, webalapú formanyomtatvány SANI rendszeren keresztül történő továbbításával értesíti az Európai Bizottságot.
 
-## 5. [^84] A miniszter eljárása az Európai Bizottság részére történő bejelentést igénylő támogatási tervezetek esetén
+## 5. [^95] A miniszter eljárása az Európai Bizottság részére történő bejelentést igénylő támogatási tervezetek esetén
 
-14. §[^85] (1)[^86] A bejelentett támogatási tervezetet a miniszter a bejelentés kézhezvételétől számított harminc napon belül az Európai Bizottság részére történő prenotifikációra vagy hivatalos bejelentésre való alkalmasság szempontjából megvizsgálja.
+14. §[^96] (1)[^97] A bejelentett támogatási tervezetet a miniszter a bejelentés kézhezvételétől számított harminc napon belül az Európai Bizottság részére történő prenotifikációra vagy hivatalos bejelentésre való alkalmasság szempontjából megvizsgálja.
 
-(2)[^87] Ha
+(2)[^98] Ha
 
 a) a bejelentett támogatási tervezet prenotifikációra alkalmas, vagy
 
@@ -12,18 +12,18 @@ b) a támogatást nyújtó a prenotifikációra alkalmas támogatási tervezet h
 
 c) az uniós állami támogatási szabályok értelmében prenotifikáció nem szükséges, és a támogatási tervezet hivatalos bejelentésre alkalmas,
 
-a miniszter a támogatási tervezetet és annak a támogatást nyújtó által – a miniszter kérésére angol nyelven – készített összefoglalóját a SANI rendszerben kitöltött formanyomtatványokon keresztül megküldi az Európai Bizottságnak, és ezzel egyidejűleg bejelentési értesítőt ad ki, amelyet megküld a támogatást nyújtó számára.
+## a miniszter a támogatási tervezetet és annak a támogatást nyújtó által – a miniszter kérésére angol nyelven – készített összefoglalóját a SANI rendszerben kitöltött formanyomtatványokon keresztül megküldi az Európai Bizottságnak.
 
-(3)[^88] Ha a prenotifikáció keretében az Európai Bizottság nem emel kifogást a támogatási tervezettel kapcsolatban, a miniszter a támogatást nyújtó kérésére a SANI rendszerben kitöltött formanyomtatványokon keresztül hivatalos bejelentést tesz, és ezzel egyidejűleg bejelentési értesítőt ad ki, amelyet megküld a támogatást nyújtó számára.
+(3)[^99] Ha a prenotifikáció keretében az Európai Bizottság nem emel kifogást a támogatási tervezettel kapcsolatban, a miniszter a támogatást nyújtó kérésére a SANI rendszerben kitöltött formanyomtatványokon keresztül hivatalos bejelentést tesz.
 
-(4)[^89] Ha a prenotifikáció vagy hivatalos bejelentés keretében az Európai Bizottság a támogatási tervezettel kapcsolatban további adatot, információt, nyilatkozatot vagy egyéb kiegészítést (a továbbiakban együtt: kiegészítés) kér, a miniszter – ésszerű határidő megjelölésével – felhívja a támogatást nyújtót, hogy a támogatási tervezetet egészítse ki.
+(4)[^100] Ha a prenotifikáció vagy hivatalos bejelentés keretében az Európai Bizottság a támogatási tervezettel kapcsolatban további adatot, információt, nyilatkozatot vagy egyéb kiegészítést (a továbbiakban együtt: kiegészítés) kér, a miniszter – ésszerű határidő megjelölésével – felhívja a támogatást nyújtót, hogy a támogatási tervezetet egészítse ki.
 
-(5)[^90] A miniszter a támogatást nyújtótól kapott kiegészítés alapján az Európai Bizottság által is bejelentésre alkalmasnak minősített támogatási tervezetről – a kiegészítés kézhezvételétől számított harminc napon belül – a SANI rendszerben kitöltött formanyomtatványokon keresztül hivatalos bejelentést tesz az Európai Bizottságnak, és ezzel egyidejűleg bejelentési értesítőt ad ki, amelyet megküld a támogatást nyújtó számára.
+(5)[^101] A miniszter a támogatást nyújtótól kapott kiegészítés alapján az Európai Bizottság által is bejelentésre alkalmasnak minősített támogatási tervezetről – a kiegészítés kézhezvételétől számított harminc napon belül – a SANI rendszerben kitöltött formanyomtatványokon keresztül hivatalos bejelentést tesz az Európai Bizottságnak.
 
-[^84]: Az 5. alcím címe az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés j) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 18. pontja szerint módosított szöveg.
-[^85]: A 14. § a 381/2012. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^86]: A 14. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
-[^87]: A 14. § (2) bekezdése az 507/2013. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított, záró szövegrésze az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 19. pontja szerint módosított szöveg.
-[^88]: A 14. § (3) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
-[^89]: A 14. § (4) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
-[^90]: A 14. § (5) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés b) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^95]: Az 5. alcím címe az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés j) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 18. pontja szerint módosított szöveg.
+[^96]: A 14. § a 381/2012. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^97]: A 14. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^98]: A 14. § (2) bekezdése az 507/2013. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított, záró szövegrésze az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 19. pontja, a 38/2016. (III. 3.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^99]: A 14. § (3) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja, a 38/2016. (III. 3.) Korm. rendelet 13. § h) pontja szerint módosított szöveg.
+[^100]: A 14. § (4) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^101]: A 14. § (5) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés b) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja, a 38/2016. (III. 3.) Korm. rendelet 13. § i) pontja szerint módosított szöveg.

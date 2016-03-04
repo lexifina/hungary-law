@@ -26,22 +26,23 @@ bh) a támogatási program esetében az abból történő támogatásnyújtást 
 
 bi) az egyedi támogatás, a támogatási program, vagy az az alapján megkötött támogatási szerződés megsértésének szankcióit,
 
-bj) az uniós állami támogatási szabályok által előírt egyéb információkat,
+bj)[^33] az adott támogatási kategóriára vonatkozó uniós állami támogatási szabályokat és a szabályok által előírt egyéb információkat,
 
-bk)[^28] mely ágazatokra (TEAOR) terjed ki.
+bk)[^34] mely ágazatokra (TEAOR) terjed ki.
 
-c)[^29] tartalmaz-e a tervezet működési támogatást,
+c)[^35] tartalmaz-e a tervezet működési támogatást,
 
-d)[^30] illetékes kapcsolattartó elérhetőségeit,
+d)[^36] illetékes kapcsolattartó elérhetőségeit,
 
 (2) A támogatási tervezetben az állami támogatás formája különösen vissza nem térítendő és visszatérítendő pénzeszközök nyújtásaként, kamatmentes hitelként, kedvezményes kamatozású hitelként, kamattámogatásként, kedvezményes feltételű kezességvállalásként, állami tőkejuttatásként, adókedvezményként, adóalap- kedvezményként, ingyenesen és kedvezményes feltételek mellett nyújtott szolgáltatásként, ingatlanjuttatásként, követelésről való lemondásként, tartozásátvállalásként, kedvezményes bérletként vagy kedvezményes lízingként határozható meg.
 
-(3)[^31] Nem fizethető ki támogatás azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget.
+(3)[^37] Nem fizethető ki támogatás azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget.
 
-(4)[^32] Az 1857/2006/EK bizottsági rendelet, a 702/2014/EU bizottsági rendelet és a 736/2008/EK bizottsági rendelet hatálya alá tartozó állami támogatások esetében a támogatási tervezet nem léphet hatályba a támogatási programról, illetve egyedi támogatásról készült információs összefoglaló adatlapnak az Európai Unió Hivatalos Lapjában való közzétételéig.
+(4)[^38]
 
-[^28]: A 3. § (1) bekezdés b) pont bk) alpontját a 221/2014. (IX. 4.) Korm. rendelet 544. § (1) bekezdése iktatta be.
-[^29]: A 3. § (1) bekezdés c) pontját a 221/2014. (IX. 4.) Korm. rendelet 544. § (2) bekezdése iktatta be.
-[^30]: A 3. § (1) bekezdés d) pontját a 221/2014. (IX. 4.) Korm. rendelet 544. § (2) bekezdése iktatta be.
-[^31]: A 3. § (3) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (5) bekezdése iktatta be.
-[^32]: A 3. § (4) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 544. § (3) bekezdése iktatta be.
+[^33]: A 3. § (1) bekezdés b) pont bj) alpontja a 38/2016. (III. 3.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^34]: A 3. § (1) bekezdés b) pont bk) alpontját a 221/2014. (IX. 4.) Korm. rendelet 544. § (1) bekezdése iktatta be.
+[^35]: A 3. § (1) bekezdés c) pontját a 221/2014. (IX. 4.) Korm. rendelet 544. § (2) bekezdése iktatta be.
+[^36]: A 3. § (1) bekezdés d) pontját a 221/2014. (IX. 4.) Korm. rendelet 544. § (2) bekezdése iktatta be.
+[^37]: A 3. § (3) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (5) bekezdése iktatta be.
+[^38]: A 3. § (4) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 544. § (3) bekezdése iktatta be, hatályon kívül helyezte a 38/2016. (III. 3.) Korm. rendelet 13. § d) pontja.
