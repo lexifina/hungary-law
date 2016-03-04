@@ -86,4 +86,6 @@ nemzetgazdasági miniszter
 
 Határidő: a 2017. évi központi költségvetés tervezésével kezdődően folyamatos
 
-10. a „Nemzeti Tengelysúly- és kapcsolódó ellenőrzéseket támogató hálózat kialakítása (1. prioritás)” és a „Nemzeti Tengelysúly- és kapcsolódó ellenőrzéseket támogató hálózat kialakítása (3. prioritás)” című, egymilliárd forintot meghaladó támogatási igényű projektjavaslatok akciótervi nevesítéséről és támogatásának jóváhagyásáról szóló 1208/2015. (IV. 9.) Korm. határozatot visszavonja. A kormányhatározat visszavonása nem érinti a kormányhatározat által a visszavonást megelőzően keletkeztetett, megszüntetett vagy módosított jogokat és kötelezettségeket.
+10.[^1] A kormányhatározat visszavonása nem érinti a kormányhatározat által a visszavonást megelőzően keletkeztetett, megszüntetett vagy módosított jogokat és kötelezettségeket.
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
