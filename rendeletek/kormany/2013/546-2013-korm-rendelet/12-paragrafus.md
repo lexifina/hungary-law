@@ -1,0 +1,4 @@
+## 11. §[^17] E rendeletnek a Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet módosításáról, valamint az új nemzeti közgyűjteményi épületegyüttes megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 563/2013. (XII. 31.) Korm. rendelet hatályon kívül helyezéséről szóló 373/2015. (XII. 2.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^18] folyamatban lévő ügyekben is alkalmazni kell.
+
+[^17]: A 11. §-t a 373/2015. (XII. 2.) Korm. rendelet 4. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2015. december 3.

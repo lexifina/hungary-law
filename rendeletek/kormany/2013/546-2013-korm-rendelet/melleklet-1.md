@@ -1,6 +1,6 @@
-## 11. §[^16] E rendeletnek a Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet módosításáról, valamint az új nemzeti közgyűjteményi épületegyüttes megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 563/2013. (XII. 31.) Korm. rendelet hatályon kívül helyezéséről szóló 373/2015. (XII. 2.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^17] folyamatban lévő ügyekben is alkalmazni kell.
+## 12. §[^19] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 40/2016. (III. 3.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6. § (2) bekezdését a Módr2. hatálybalépésekor[^20] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^18]
+1. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^21]
 
 ## A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő kiemelt jelentőségű ügyek
 
@@ -50,6 +50,6 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^16]: A 11. §-t a 373/2015. (XII. 2.) Korm. rendelet 4. §-a iktatta be.
-[^17]: A hatálybalépés időpontja 2015. december 3.
-[^18]: Az 1. melléklet a 373/2015. (XII. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^19]: A 12. §-t a 40/2016. (III. 3.) Korm. rendelet 2. §-a iktatta be.
+[^20]: A hatálybalépés időpontja 2016. március 4.
+[^21]: Az 1. melléklet a 373/2015. (XII. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

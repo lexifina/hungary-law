@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-546-20-
 | 2015-03-13 | 2013-546-20-22.3 | 50/2015. (III. 12.) Korm. rendelet |
 | 2015-04-01 | 2013-546-20-22.4 | 72/2015. (III. 30.) Korm. rendelet |
 | 2015-12-03 | 2013-546-20-22.5 | 373/2015. (XII. 2.) Korm. rendelet |
+| 2016-03-04 | 2013-546-20-22.6 | 72/2015. (III. 30.) Korm. rendelet |

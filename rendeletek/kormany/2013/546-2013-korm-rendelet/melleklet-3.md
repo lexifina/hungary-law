@@ -30,7 +30,7 @@
 
 | 14 |  |  | azok a 2–13. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdés b) pontja szerinti beruházások megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
 
-3. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^20]
+3. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^23]
 
 Az 1. § (1) bekezdés b) pontja szerinti kiemelt jelentőségű ügyekben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -72,4 +72,4 @@ Az 1. § (1) bekezdés b) pontja szerinti kiemelt jelentőségű ügyekben eljá
 
 | 18 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^20]: A 3. mellékletet a 373/2015. (XII. 2.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^23]: A 3. mellékletet a 373/2015. (XII. 2.) Korm. rendelet 5. § (3) bekezdése iktatta be.
