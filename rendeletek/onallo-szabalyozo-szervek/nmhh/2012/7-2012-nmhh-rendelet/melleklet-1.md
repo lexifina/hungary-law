@@ -22,4 +22,6 @@
 
 2. A frekvenciakiosztási tervvel nem rendelkező rádióalkalmazások
 
-2.1. A földfelszíni műsorszóró szolgálatok frekvenciasávjaiban üzemeltetett a frekvenciasávok felhasználási szabályait megállapító jogszabályban megjelölt nem műsorszóró alkalmazások.
+2.1.[^57] A földfelszíni műsorszóró szolgálatok frekvenciasávjaiban üzemeltetett az NFFF-ben megjelölt nem műsorszóró alkalmazások.
+
+[^57]: Az 1. melléklet 2.1. pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 16. pontja szerint módosított szöveg.

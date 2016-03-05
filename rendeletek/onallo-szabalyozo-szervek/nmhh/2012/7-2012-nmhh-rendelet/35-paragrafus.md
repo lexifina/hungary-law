@@ -2,9 +2,9 @@
 
 35. § (1) Ez a rendelet 2012. február 1-jén lép hatályba.
 
-(2)[^11]
+(2)[^52]
 
-(3)[^12]
+(3)[^53]
 
-[^11]: A 35. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 35. § (3) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 7. §-a hatályon kívül helyezte.
+[^52]: A 35. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 35. § (3) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 7. §-a hatályon kívül helyezte.

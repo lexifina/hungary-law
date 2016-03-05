@@ -1,6 +1,6 @@
-## 22. § A nemzetközi forgalomban részt vevő légi, tengeri – beleértve: belvízi – földi mozgószolgálatok vagy rádiónavigációs szolgálat rádiórendszere részére külföldi távközlési igazgatás által kiállított rádióengedélyt a Hatóság a frekvenciasávok felhasználási szabályainak megállapításáról szóló jogszabályban felsorolt nemzetközi megállapodások alapján fogadja el.
+## 22. §[^45] A nemzetközi forgalomban részt vevő légi, tengeri – beleértve: belvízi – földi mozgószolgálatok vagy rádiónavigációs szolgálat rádiórendszere részére külföldi távközlési igazgatás által kiállított rádióengedélyt a Hatóság az NFFF-ben meghatározottak alapján fogadja el.
 
-23. § (1)[^7] A Hatóság a frekvenciakijelölést vagy rádióengedélyt új, önálló elsőfokú hatósági ügyként és eljárásban – anyagi jogi alapon – visszavonja vagy módosítja
+23. § (1)[^46] A Hatóság a frekvenciakijelölést vagy rádióengedélyt hatósági eljárásban hivatalból visszavonja vagy módosítja,
 
 a) ha azt jogszabály írja elő;
 
@@ -8,16 +8,19 @@ b) ha jogszabállyal kihirdetett nemzetközi kötelezettségvállalás módosul�
 
 c) ha a frekvenciahasználati jogosultság megszűnt;
 
-d) ha a frekvenciakijelölés a 9. § (2) bekezdése alapján vagy a rádióengedély a 17. § (3) bekezdése alapján került kiadásra, és a frekvencia koordináció során a rádióállomás frekvenciahasználatát az érintett igazgatás – külön megállapodás vagy a Nemzetközi Rádiószabályzat szerint – elutasítja;
+d) ha a frekvenciakijelölés a 9. § (2) bekezdése alapján vagy a rádióengedély a 17. § (3) bekezdése alapján került kiadásra, és a frekvenciakoordináció során a rádióállomás frekvenciahasználatát az érintett igazgatás – külön megállapodás vagy a Nemzetközi Rádiószabályzat szerint – elutasítja;
 
 e) bírósági döntés alapján;
 
-f) építésügyi hatóság jogerős döntése alapján, ha építési engedélyköteles antennatartót vagy antennát használatba vételi engedély nélkül használnak;
+f) az építésügyi hatóság jogerős döntése alapján, ha építésiengedély-köteles antennatartót vagy antennát használatba vételi engedély nélkül használnak;
 
-g) a sugáregészségügyi követelmények megsértése esetén, az OSSKI mérési jegyzőkönyve alapján; vagy
+g) a népegészségügyért felelős szakigazgatási szerv közegészségügyi követelmények megsértéséről szóló jogerős döntése alapján;
 
-h) ha a kérelem a valóságnak nem megfelelő vagy megtévesztő adatokat tartalmazott.
+h) ha a kérelem a valóságnak nem megfelelő vagy megtévesztő adatokat tartalmazott; vagy
+
+i) ha a légiközlekedési hatóság vagy a katonai légügyi hatóság a légi jármű légialkalmasságának megszűnését, vagy a hajózási hatóság az úszólétesítmény hajózásra alkalmasságának megszűnését jogerősen megállapította.
 
 (2) A Hatóság a pályázati vagy árverési eljárás során szerzett frekvenciahasználati jogosultságot megállapító határozatot a frekvenciahasználati jogosultsággal rendelkező vállalkozás kérelmére köteles visszavonni.
 
-[^7]: A 23. § (1) bekezdés nyitó szövegrésze a 9/2013. (IX. 19.) NMHH rendelet 6. §-a szerint módosított szöveg.
+[^45]: A 22. § a 2/2016. (II. 26.) NMHH rendelet 31. § 14. pontja szerint módosított szöveg.
+[^46]: A 23. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 29. §-ával megállapított szöveg.

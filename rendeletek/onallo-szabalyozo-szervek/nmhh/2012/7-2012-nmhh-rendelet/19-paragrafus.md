@@ -2,7 +2,7 @@
 
 19. § (1) A Hatóság rádióberendezés, rádiórendszer kísérleti célú üzemeltetéshez vagy próbaüzemeltetéséhez kísérleti célú rádióengedélyt adhat.
 
-(2) Kísérleti célú rádióengedély akkor is kiadható, ha a frekvencia felhasználási igény nem felel meg a nemzeti frekvenciafelosztást, illetve a frekvenciasávok felhasználási szabályait megállapító jogszabályoknak.
+(2)[^44] Kísérleti célú rádióengedély akkor is kiadható, ha a frekvencia felhasználási igény nem felel meg az NFFF-nek.
 
 (3) A kísérleti célú frekvenciakijelölés és rádióengedély – kérelemre – összevontan is kiadható.
 
@@ -23,3 +23,5 @@ b) a frekvenciahasználat bármelyik feltétele úgy változik meg, hogy az a to
 c) a frekvenciát nem a kérelem szerinti célra használják.
 
 (7) A kísérleti rádióengedélyben a Hatóság a kísérlet lefolytatásáról és a kísérlet során elért eredményekről, tapasztalatokról beszámolási kötelezettséget írhat elő, amelyet az engedélyes a kísérlet bejezését követő kilencven – próbaüzem esetében tíz – napon belül írásban köteles teljesíteni.
+
+[^44]: A 19. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 31. § 13. pontja szerint módosított szöveg.

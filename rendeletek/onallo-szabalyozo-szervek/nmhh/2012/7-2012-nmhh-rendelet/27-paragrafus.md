@@ -1,5 +1,3 @@
-## 26. § A rádióengedélyben megállapított hívójelet vagy azonosító jelet minden rádióforgalmazás megkezdésekor és befejezésekor vagy egyéb – jogszabályban meghatározott – gyakorisággal, valamint a Hatóság felszólítására közölni kell.
-
 27. § (1) Tilos a rádióállomással
 
 a) más rádióállomás üzemét szándékosan zavarni;
