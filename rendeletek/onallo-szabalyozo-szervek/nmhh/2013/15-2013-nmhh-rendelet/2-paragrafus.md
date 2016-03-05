@@ -6,7 +6,7 @@
 
 2. Forgalmazás: szabályszerű összeköttetés létesítése, kettő vagy több amatőrállomás vagy rádióállomás között, információcsere céljából;
 
-3.[^1] Irányító kezelő: az a nagykorú, cselekvőképességet érintő gondnokság alatt nem álló személy, aki Magyarországon kiállított CEPT fokozatú egyéni amatőr engedéllyel rendelkezik, és az amatőrállomásnak a mindenkor hatályos jogszabályok szerinti rendeltetésszerű üzemben tartásáért, használatáért és az amatőrállomásról történő forgalmazásért felelős természetes személy által üzemeltetett különleges amatőrállomás esetén az engedélyes is irányító kezelőnek minősül az amatőr engedély érvényessége szempontjából;
+3.[^2] Irányító kezelő: az a nagykorú, cselekvőképességet érintő gondnokság alatt nem álló személy, aki Magyarországon kiállított CEPT fokozatú egyéni amatőr engedéllyel rendelkezik, és az amatőrállomásnak a mindenkor hatályos jogszabályok szerinti rendeltetésszerű üzemben tartásáért, használatáért és az amatőrállomásról történő forgalmazásért felelős természetes személy által üzemeltetett különleges amatőrállomás esetén az engedélyes is irányító kezelőnek minősül az amatőr engedély érvényessége szempontjából;
 
 4. Rádióamatőr: az a természetes személy vagy szervezet, aki vagy amely megfelel a rádióamatőr tevékenység folytatásához szükséges feltételeknek,
 
@@ -14,4 +14,4 @@
 
 6. Rádióamatőr tevékenység: az amatőrszolgálatban személyes érdeklődésből, anyagi érdek nélkül, önképzésre, műszaki fejlődésre és a szakmai információcserére irányuló részvétel rádióamatőr állomás (a továbbiakban: amatőrállomás) üzemeltetése vagy amatőrállomáson való rádióforgalmazás (a továbbiakban: forgalmazás) révén.
 
-[^1]: A 2. § 3. pontja a 3/2014. (III. 13.) NMHH rendelet 7. §-a szerint módosított szöveg.
+[^2]: A 2. § 3. pontja a 3/2014. (III. 13.) NMHH rendelet 7. §-a szerint módosított szöveg.

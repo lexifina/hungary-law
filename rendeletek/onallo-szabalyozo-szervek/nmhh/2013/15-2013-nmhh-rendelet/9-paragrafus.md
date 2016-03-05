@@ -34,8 +34,8 @@ cd) rádióamatőr közösség által üzemben tartott amatőrállomás esetén 
 
 (5) A nem angol nyelven kiállított „CEPT Novice Licence” és „CEPT Licence” fokozatú amatőr engedélyt hiteles fordítással kell a hatósághoz benyújtani.
 
-(6)[^2] Korlátozottan cselekvőképes kiskorú és cselekvőképességében bármely ügycsoportban korlátozott nagykorú személy kérelméhez csatolni kell a törvényes képviselő írásbeli hozzájárulását.
+(6)[^4] Korlátozottan cselekvőképes kiskorú és cselekvőképességében bármely ügycsoportban korlátozott nagykorú személy kérelméhez csatolni kell a törvényes képviselő írásbeli hozzájárulását.
 
 (7) Az amatőr engedély kiadása iránti kérelmet a hatóság elutasítja, ha a kérelem teljesítése a 20. § (4) vagy (5) bekezdésében meghatározott okból nem lehetséges.
 
-[^2]: A 9. § (6) bekezdése a 3/2014. (III. 13.) NMHH rendelet 7. §-a szerint módosított szöveg.
+[^4]: A 9. § (6) bekezdése a 3/2014. (III. 13.) NMHH rendelet 7. §-a szerint módosított szöveg.
