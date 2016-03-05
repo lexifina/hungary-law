@@ -4,7 +4,7 @@
 
 a) a jóváhagyás iránti kérelem nem tartalmazza átruházás esetén a 7. § (2) bekezdésében, haszonbérlet esetén a 7. § (3) bekezdésében foglaltakat, vagy
 
-b) a megállapodás nem felel meg a polgári frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendeletben foglaltaknak, vagy
+b)[^4] a megállapodás nem felel meg az NFFF-ben foglaltaknak, vagy
 
 c) a megállapodás tartalma ellentmond az eredeti frekvenciahasználati jogosultságot, jogot megállapító hatósági határozat vagy hatósági szerződés tartalmának vagy túlterjeszkedik azon.
 
@@ -13,3 +13,5 @@ c) a megállapodás tartalma ellentmond az eredeti frekvenciahasználati jogosul
 (4) A Hatóság a frekvenciahasználati jogosultság, jog átruházását, valamint haszonbérbe adását jóváhagyó határozatát internetes oldalán közzéteszi.
 
 (5) Az átruházási és haszonbérleti megállapodásban foglalt adatokban bekövetkezett változásokat a felek 15 napon belül kötelesek bejelenteni a Hatóságnak.
+
+[^4]: A 8. § (2) bekezdés b) pontja a 2/2016. (II. 26.) NMHH rendelet 33. § d) pontja szerint módosított szöveg.

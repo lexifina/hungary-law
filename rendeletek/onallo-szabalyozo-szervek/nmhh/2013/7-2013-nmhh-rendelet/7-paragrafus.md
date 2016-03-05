@@ -36,6 +36,8 @@ e) a haszonbérleti megállapodás egyéb feltételeit, beleértve az ellenért�
 
 f) a haszonbérbe adandó frekvenciahasználati jogosultságra, jogra vonatkozó hatósági döntések ügyiratszámát.
 
-(4) A kérelemben az eredeti jogosulttal szerződő fél vagy az alhaszonbérlő köteles nyilatkozni arról, hogy a szerződés tárgyát képező frekvenciahasználati jogosultságra, jogra vonatkozó valamennyi jogszabályban, valamint hatósági határozatban foglalt rendelkezést magára nézve kötelezőnek ismer el.
+(4)[^3] A kérelemben az eredeti jogosulttal szerződő fél vagy az alhaszonbérlő köteles nyilatkozni arról, hogy a szerződés tárgyát képező frekvenciahasználati jogosultságra, jogra vonatkozó valamennyi jogszabályban, valamint hatósági határozatban, hatósági szerződésben foglalt rendelkezést magára nézve kötelezőnek ismer el.
 
 (5) A kérelemhez csatolni kell az átruházási vagy haszonbérleti megállapodás egy eredeti példányát.
+
+[^3]: A 7. § (4) bekezdése a 2/2016. (II. 26.) NMHH rendelet 33. § c) pontja szerint módosított szöveg.
