@@ -1,6 +1,6 @@
-## 4. [^8] A Hivatal nem polgári célú frekvenciagazdálkodási feladatai
+## 4. [^10] A Hivatal nem polgári célú frekvenciagazdálkodási feladatai
 
-## 5. §[^9] A Hivatal
+## 5. §[^11] A Hivatal
 
 a) lefolytatja a nem polgári célú frekvenciakijelölési és rádióengedélyezési eljárásokat,
 
@@ -16,5 +16,5 @@ f) nyilvántartja – felhasználónként, rendeltetés és műszaki jellemzők 
 
 g) adatszolgáltatást végez a felhasználók, továbbá az érintett államigazgatási szervek részére.
 
-[^8]: A 4. alcím címe az 1/2015. (III. 17.) NMHH rendelet 22. § c) pontja szerint módosított szöveg.
-[^9]: Az 5. § nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 22. § d) pontjával megállapított szöveg.
+[^10]: A 4. alcím címe az 1/2015. (III. 17.) NMHH rendelet 22. § c) pontja szerint módosított szöveg.
+[^11]: Az 5. § nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 22. § d) pontjával megállapított szöveg.
