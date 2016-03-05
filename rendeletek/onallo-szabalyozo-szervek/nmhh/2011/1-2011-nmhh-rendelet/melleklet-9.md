@@ -1,4 +1,4 @@
-9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^22]
+9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^63]
 
 1. Az értékesített, megszerzett frekvenciasávok esetében az egységdíj 7500 Ft/kHz/hó.
 
@@ -8,7 +8,7 @@
 
 4. A jogosítottnak minden olyan hónapra a teljes havi sávdíjat kell megfizetnie, amely hónapban a frekvenciahasználati jogosultsága, joga keletkezett, fennállt, vagy megszűnt.
 
-5. A sávszorzókat az alábbi táblázat tartalmazza:
+5. Országos frekvenciahasználati jogosultság esetén a sávszorzókat az alábbi táblázat tartalmazza:
 
 |  | Frekvencia tartomány | Sávszorzó értéke |
 
@@ -22,10 +22,10 @@
 
 |  | 2500–2690 MHz | 0,4 |
 
-|  | 3400–3800 MHz frekvenciatartományban 2014. január 1. napján használatban lévő sávok esetén | 0,004 |
+|  | 3400–3800 MHz frekvenciatartományban 2014. január 1. napját megelőzően megszerzett frekvenciahasználati jogosultság esetén | 0,004 |
 
-|  | 3400–3800 MHz frekvenciatartományban 2014. január 1. napján használatban nem lévő sávok esetén | 0,0067 |
+|  | 3400–3800 MHz frekvenciatartományban 2014. január 1. napját követően megszerzett frekvenciahasználati jogosultság esetén | 0,12 |
 
 |  | 24500–26500 MHz | 0,002 |
 
-[^22]: A 9. számú melléklet a 12/2013. (IX. 19.) NMHH rendelet 7. §-ával megállapított szöveg.
+[^63]: A 9. számú melléklet a 12/2013. (IX. 19.) NMHH rendelet 7. §-ával megállapított, a 2/2016. (II. 26.) NMHH rendelet 11. § 19. pontja szerint módosított szöveg.

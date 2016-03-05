@@ -2,4 +2,6 @@
 
 4. § (1) A rádiómeghatározó szolgálat keretében működő rádiónavigációs és rádiólokációs állomások után a jogosítottnak frekvencialekötési díjat nem kell fizetnie, a frekvenciahasználat díja minden állomásért 1000 Ft/hó.
 
-(2) Az egy hónapnál rövidebb időre engedélyezett állomások után a jogosítottnak frekvencialekötési díjat nem kell fizetnie, a frekvenciahasználat díjának mértéke – a rádió és televízió műsorszóró állomásokat kivéve – az adott szolgálatra vonatkozó díj egy havi összege.
+(2)[^14] Az egy hónapnál rövidebb időre engedélyezett állomások után a jogosítottnak frekvencialekötési díjat nem kell fizetnie, a frekvenciahasználat díjának mértéke – a rádió és televízió műsorszóró állomásokat, valamint a 960 MHz-nél nagyobb frekvenciájú rádió- és televízióhíranyag-, továbbá rádió- és televízióműsor-átviteli rendszerek állomásait kivéve – az adott szolgálatra vonatkozó díj egy havi összege.
+
+[^14]: A 4. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 3. pontja szerint módosított szöveg.

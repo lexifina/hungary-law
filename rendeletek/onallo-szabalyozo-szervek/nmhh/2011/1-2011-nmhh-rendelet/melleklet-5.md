@@ -1,3 +1,3 @@
-5. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^20]
+5. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^59]
 
-[^20]: Az 5. számú melléklet a 8/2011. (XI. 3.) NMHH rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^59]: Az 5. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 10. § (3) bekezdéseével megállapított szöveg.

@@ -1,55 +1,27 @@
-## Rádiótelefon típusú állandóhelyű szolgálatok állomásainak és berendezéseinek frekvenciahasználati díjai
+## A 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálat állomásainak és berendezéseinek frekvenciahasználati díjai
 
-## Rádiótelefon típusú állandóhelyű szolgálatok állomásainak és berendezéseinek frekvenciahasználati díjai (Ft/db/hó)
+## 1. A 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálat állomásainak és berendezéseinek frekvenciahasználati díjai (Ft/db/hó)
 
-| Frekvenciahasználati díj (Ft/db/hó) |
+|  | A | B | C | D |
 
-| Állomás és berendezés kategória | Frekvenciasáv (F) (MHz) |
+| 1 | Frekvenciahasználati díj (Ft/db/hó) |
 
-| 26<F≤440 | 440<F≤450 | F>450 |
+| 2 | Állomás- és berendezéskategória | Frekvenciasáv (MHz) |
 
-| Állandóhelyű és változó telephelyű állomások, kivéve a központi és gyűjtőállomásokat | 5000 | 100 | 5000 |
+| 3 | 30 < F ≤ 440 | 440 < F ≤ 450 | 450 < F < 960 |
 
-| Központi és gyűjtőállomások | 5000 | 1000 | 5000 |
+| 4 | Állandó és változó telephelyű állomások, kivéve a csillagponti állomásokat | 5000 | 100 | 5000 |
 
-| Tartalék berendezések | 100 | 100 | 100 |
+| 5 | Csillagponti állomások (beleértve a gyűjtőállomásokat is) | 5000 | 1000 | 5000 |
 
-## 1. táblázat
+| 6 | Tartalék berendezések | 100 | 100 | 100 |
 
-## Rádiótelefon típusú állandóhelyű szolgálatok állomásai és berendezései frekvenciahasználati díjának megállapítási módja
+## 2. A 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálat állomásai és berendezései frekvenciahasználati díjának megállapítási módja
 
-## 1. a) Telephely nélküli állandóhelyű szolgálatok állomásai, illetőleg berendezései esetében azok kategóriája és az engedélyezett frekvenciát tartalmazó frekvenciasáv által együttesen meghatározott frekvenciahasználati díjat (Ft/db/hó) kell kiválasztani az 1. táblázatból,
+## 2.1. Területre szóló, telephely nélküli frekvenciakijelölésű állandóhelyű szolgálati hálózatok állomásai és berendezései esetében azok kategóriája és az engedélyezett frekvenciát (F) tartalmazó frekvenciasáv által együttesen meghatározott frekvenciahasználati díjat (Ft/db/hó) kell kiválasztani az 1. pontban foglalt táblázatból.
 
-## b) az a) alatti frekvenciahasználati díjat több engedélyezett állomás, illetőleg berendezés esetében az azonos kategóriába tartozó állomások, illetve berendezések számával meg kell szorozni és az eredményül kapott frekvenciahasználati díjakat össze kell adni.
+## 2.2. A 2.1. pont alapján meghatározott frekvenciahasználati díjat több engedélyezett állomás vagy berendezés esetében az azonos kategóriába tartozó állomások vagy berendezések számával meg kell szorozni és az eredményül kapott frekvenciahasználati díjakat össze kell adni.
 
-6. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez
+6. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^60]
 
-## Modulációs célú, változó telephelyű televízió- és URH-FM rádióállomások frekvenciahasználati díjai
-
-Modulációs célú, változó telephelyű televízióállomások frekvenciahasználati díjai (Ft/állomás/hó)
-
-|  | Felhasználási körzet | Mikro | Helyi | Nagy | Regionális | Országos |
-
-|  | Terület (km2) | <1 | <300 | <4000 | <75 000 | >75 000 |
-
-|  | Díj (Ft/állomás/hó) | 500 | 1000 | 3500 | 10 000 | 40 000 |
-
-| 1. táblázat |
-
-Modulációs célú, változó telephelyű URH-FM rádióállomások frekvenciahasználati díjai (Ft/állomás/hó)
-
-|  | Felhasználási körzet | Mikro | Helyi | Nagy | Regionális | Országos |
-
-|  | Terület (km2) | <1 | <300 | <4000 | <75 000 | >75 000 |
-
-|  | Díj (Ft/állomás/hó) | 250 | 500 | 1800 | 5000 | 20 000 |
-
-| 2. táblázat |
-
-Modulációs célú, változó telephelyű televízió- és URH-FM rádióállomások frekvencia
-
-használati díjának megállapítási módja
-
-1. a) Modulációs célú, változó telephelyű televízió- és URH-FM rádióállomások esetében az engedélyezett felhasználási körzetnek megfelelő frekvenciahasználati díjat (Ft/állomás/hó) kell kiválasztani az 1–2. táblázatokból,
-
-b) egy állomásra engedélyezett több frekvencia esetében az a) alatti frekvenciahasználati díjat a frekvenciák darabszámával meg kell szorozni.
+[^60]: A 6. számú mellékletet a 2/2016. (II. 26.) NMHH rendelet 12. § f) pontja hatályon kívül helyezte.

@@ -1,75 +1,75 @@
-2. § (1) A jogosítottnak az 1. § (1) bekezdésében meghatározott egyik díjat sem kell megfizetnie,
+## 1/C. §[^7] Versenyeztetési eljárás során megszerzett frekvenciahasználati jogosultság esetében, a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló NMHH rendelet és a versenyeztetési eljárás kiírási dokumentációja alapján megkötött hatósági szerződésben a felek a sávdíj mértékére és megfizetésére vonatkozó, e rendeletben foglalt rendelkezésektől eltérhetnek.
 
-a) ha diplomáciai mentességet élvező külképviseletként vagy kormányzati szervként az 1961. április 18-án diplomáciai kapcsolatokról, Bécsben aláírt nemzetközi szerződés 27. Cikkelyében foglaltaknak megfelelően nemzetközi célból, saját távközlési igényeinek kielégítése érdekében működtetett állomásaihoz használ frekvenciát,
+2. § (1)[^8] A jogosítottnak nem kell frekvenciadíjat fizetnie,
 
-b) ha hírközlési hatóságként használ frekvenciát,
+a) ha diplomáciai mentességet élvező külképviseletként vagy kormányzati szervként az 1961. április 18-án diplomáciai kapcsolatokról, Bécsben aláírt nemzetközi szerződés 27. Cikkelyében foglaltaknak megfelelően nemzetközi célból, saját, az akkreditáló országgal való kapcsolattartást biztosító hírközlési igényeinek kielégítése érdekében működtetett állomásaihoz használ frekvenciát,
 
-c) az után a frekvencia után, amelyen a műsorszóró kizárólag a nem nyereségérdekelt műsorszolgáltató vagy közműsorszolgáltató műsorait sugározza,
+b) ha a hatóság használ frekvenciát,
 
-d) a kiegészítő (többlet-) szolgáltatások frekvenciahasználata után, ha azok már az engedélyezett frekvencián működnek és nem igényelnek külön frekvenciát,
+c) azon frekvencia után, amelyen a műsorszóró kizárólag a nem nyereségérdekelt műsorszolgáltató vagy közműsorszolgáltató műsorait sugározza,
 
-e) az amatőr szolgálat, a meteorológiai segédszolgálat, a hiteles frekvenciák és órajelek szolgálata – beleértve azok műholdas változatait is –, valamint a rádiócsillagászati szolgálat, az űrbeli üzemeltetés, az űrkutatás, a műholdak közötti és a műholdas Föld-kutató szolgálat állomásai, továbbá a műholdas légi mozgószolgálat légijármű végberendezései, illetőleg a műholdas műsorszóró és rádiómeghatározó szolgálatok vételéhez szükséges végberendezések által használt frekvenciák után,
+d) az amatőrszolgálat, a műholdas amatőrszolgálat, a meteorológiát segítő szolgálat, a műholdas meteorológiai szolgálat, a hiteles frekvenciák és órajelek szolgálata, a műholdas hiteles frekvenciák és órajelek szolgálata, a rádiócsillagászati szolgálat, az űrbeli üzemeltetési szolgálat, az űrkutatási szolgálat, a műholdak közötti szolgálat és a műholdas Föld-kutató szolgálat állomásai, továbbá a műholdas légi mozgószolgálat légijármű földi állomásai, valamint a műholdas műsorszóró szolgálat és a műholdas rádiómeghatározó szolgálat vételéhez szükséges felhasználói állomások által használt frekvenciák után,
 
-f) a kísérleti céllal vagy bemutatás céljára engedélyezett és egy hónapnál rövidebb ideig üzemeltetett berendezések frekvenciái után,
+e) a kísérleti céllal vagy bemutatás céljára engedélyezett és egy hónapnál rövidebb ideig üzemeltetett berendezések frekvenciái után,
 
-g)[^3]
+f) a Nemzetközi Rádiószabályzat szerinti segélykérő frekvenciák után,
 
-h) a Nemzetközi Rádiószabályzat szerinti segélykérő frekvenciák után,
+g) azon rádióállomások és hálózatok frekvenciahasználata után, amelyek az NFFF alapján az egyedi engedélyezési kötelezettség alól mentesülnek,
 
-i) ha a külföldön engedélyezett CB és amatőr berendezéseket külföldiként üzemelteti,
+h) különleges jogrend esetén, valamint az azt kiváltó körülmények okozta következmények elhárítása érdekében az elektronikus hírközlésért felelős miniszter által átmenetileg korlátozott vagy szüneteltetett rádiótávközlési szolgálatok frekvenciái után, a korlátozás vagy szüneteltetés mértékéhez igazodóan,
 
-j) a nemzetközi megállapodás alapján Magyarországra szabadon behozható állomások frekvenciahasználata után,
+i) az űr-Föld irányú sugárzásra és vételre engedélyezett frekvenciák után,
 
-k)[^4] azon rádióállomások, hálózatok frekvenciahasználata után, amelyek a frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendelet alapján az egyedi engedélyezési kötelezettség alól mentesülnek,
+j) a külön frekvenciát nem használó, azonos rendszerű melegtartalékok után,
 
-l) rendkívüli állapot és szükségállapot, továbbá az élet- és vagyonbiztonságot veszélyeztető elemi csapás, illetőleg ezek következményeinek elhárítása érdekében a miniszter által átmenetileg korlátozott vagy szüneteltetett rádiótávközlési szolgálatok frekvenciái után, a korlátozás vagy szüneteltetés mértékéhez igazodóan,
+k) ha törvényben vagy nemzetközi szerződésben meghatározott díjmentesség illeti meg,
 
-m) az űr-Föld irányú sugárzásra és vételre engedélyezett frekvenciák után,
+l) a kizárólag hullámterjedési jelenség vizsgálata és bemutatása céljából használt frekvenciák után,
 
-n) a külön frekvenciát nem használó, azonos rendszerű melegtartalékok után,
+m) az NFFF alapján harmadlagos jelleggel használt frekvenciák után, vagy
 
-o) ha törvényi felhatalmazás vagy nemzetközi szerződés alapján felmentést kapott, illetőleg egyéb, törvényben vagy nemzetközi szerződésben meghatározott díjmentesség illeti meg,
-
-p) a kizárólag hullámterjedési jelenség vizsgálata és bemutatása céljából használt frekvenciák után,
-
-q)[^5] a frekvenciasávok nemzeti felosztásának megállapításáról szóló kormányrendelet alapján harmadlagos jelleggel használt frekvenciák után.
+n) földfelszín alatt kisugárzott olyan rádiófrekvenciás jel után, amelyet ugyanabban az időben, ugyanabban a térségben, a föld felszínén, nyitott térben felületi besugárzásra használnak.
 
 (2) Az állomások és berendezések rádióengedélyben rögzített szüneteltetésének időtartama alatt a jogosítottnak a frekvenciahasználati díj 50%-át kell megfizetnie.
 
-(3) A rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetniük – kizárólag e tevékenységükkel összefüggésben használt frekvenciáért – az élet- és vagyonbiztonság közvetlen megóvásával foglalkozó
+(3)[^9] Az e rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetniük – kizárólag e tevékenységükkel összefüggésben kijelölt és engedélyezett frekvenciáért – az élet mentésével, megóvásával vagy baleset megelőzésével vagy elhárításával közvetlenül kapcsolatos tevékenységet végző, alábbi szervezeteknek:
 
-a) mentőszolgálatoknak,
+a) Országos Mentőszolgálat, valamint jogszabályban meghatározott működési engedély alapján mentési tevékenység végzésére feljogosított szervezet,
 
-b) házi- és üzemorvosi szolgálatoknak,
+b) háziorvosi és foglalkozás-egészségügyi szolgálat,
 
-c) karitatív szolgálatoknak,
+c) közérdekű önkéntes tevékenységet végző közhasznú szervezetek,
 
-d) kórházaknak, klinikáknak, gyógy- és rendelőintézeteknek,
+d) kórházak, klinikák, gyógy- és rendelőintézetek,
 
-e) az Állami Népegészségügyi és Tisztiorvosi Szolgálatnak,
+e) Állami Népegészségügyi és Tisztiorvosi Szolgálat,
 
-f) bányamentő szolgálatoknak,
+f) bányamentő szolgálatok,
 
-g) árvíz- és belvízvédelmi készenléti szerveknek,
+g) a katasztrófavédelemről szóló törvény hatálya alá tartozó katasztrófaelhárítási feladatot ellátó szervezet,
 
-h) meteorológiai szolgálatoknak, ideértve a vízirendészeti szervek által üzemeltetett balatoni, velence-tavi és tisza-tavi viharjelző rendszereket,
+h) meteorológiai szolgálatok, belvízi viharjelző rendszert működtető és üzemeltető szervezet,
 
-i) hivatásos állami, hivatásos önkormányzati, illetőleg önkéntes és létesítményi tűzoltóságoknak, rendőrségi és polgári védelmi készenléti szervezeteknek, amelyek nem kormányzati célú frekvenciasávot használnak,
+i) olyan önkéntes és létesítményi tűzoltóság, valamint polgári védelmi készenléti szervezet, amely polgári vagy polgári és nem polgári célra együttesen használt frekvenciasávot használ,
 
-j) segélykérő szolgálatoknak, amelyek nem a Nemzetközi Rádiószabályzatban meghatározott frekvenciasávokban működnek,
+j) a belvízi hajózás forgalom- és közlekedésirányítását támogató, harmonizált folyami információs szolgáltatást működtető, üzemeltető szervezet és
 
-k) a Nautikai Információs Szolgálatnak,
+k) polgárőr szervezet.
 
-l) közös frekvenciahasználatú polgárőr szervezeteknek és közgyűjteményi intézményeknek.
+(3a)[^10] A (3) bekezdés szerinti kedvezményre az élet mentésével, megóvásával vagy baleset megelőzésével vagy elhárításával közvetlenül kapcsolatos tevékenységet végző szervezettel kötött megállapodás alapján berendezéseket üzemeltető szervezet is jogosult. A kedvezmény érvényesítéséhez a kérelmezőnek csatolnia kell a jogosultság alapjául szolgáló megállapodást.
 
 (4) A rendelet alapján megállapított frekvenciadíj 25%-át kell megfizetni a közoktatási és felsőoktatási intézményekben az oktatással közvetlen összefüggésben használt frekvenciák után, amelyek nem tartoznak az (1) bekezdés p) pontja alá.
 
-(5)[^6] A rendelet alapján megállapított frekvenciadíj 50%-át kell megfizetni azon sávok után, amelyekben elsődlegesen kormányzati célú szolgáltatás megvalósítását támogató rádiórendszerek üzemelnek.
+(5)[^11] A rendelet alapján megállapított frekvenciadíj 50%-át kell megfizetni azon sávok után, amelyekben elsődlegesen kormányzati célú szolgáltatás megvalósítását támogató rádiótávközlő rendszer – amely igazoltan legalább az alapszintű kiépítettséget elérte, azaz a központi vezérlő rendszer elemei és legalább egy hozzáférési eszköz a szükséges átviteli összeköttetésekkel üzembe helyezésre került – üzemel.
 
-(6)[^7] A rendelet alapján megállapított frekvenciadíj 10%-át kell megfizetni GSM-R rendszer frekvenciahasználatáért.
+(6)[^12] A rendelet alapján megállapított frekvenciadíj 10%-át kell megfizetni GSM-R rendszer frekvenciahasználatáért.
 
-[^3]: A 2. § (1) bekezdés g) pontját a 12/2013. (IX. 19.) NMHH rendelet 10. §-a hatályon kívül helyezte.
-[^4]: A 2. § (1) bekezdés k) pontja a 7/2011. (X. 6.) NMHH rendelet 10. §-a szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdés q) pontja a 8/2011. (XI. 3.) NMHH rendelet 1. § (1) bekezdése szerint módosított szöveg.
-[^6]: A 2. § (5) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be.
-[^7]: A 2. § (6) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be.
+(7)[^13] Az egyszerűsített rádióengedélyezési eljárásban engedélyezett állomások frekvenciahasználati díjára díjkedvezmény nem állapítható meg.
+
+[^7]: Az 1/C. §-t a 2/2016. (II. 26.) NMHH rendelet 2. §-a iktatta be.
+[^8]: A 2. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § (3a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 3. § (3) bekezdése iktatta be.
+[^11]: A 2. § (5) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be, szövege a 2/2016. (II. 26.) NMHH rendelet 11. § 2. pontja szerint módosított szöveg.
+[^12]: A 2. § (6) bekezdését a 12/2013. (IX. 19.) NMHH rendelet 2. §-a iktatta be.
+[^13]: A 2. § (7) bekezdését a 2/2016. (II. 26.) NMHH rendelet 3. § (4) bekezdése iktatta be.

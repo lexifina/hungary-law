@@ -1,12 +1,20 @@
-1. § (1) A rendelet hatálya azokra a díjakra terjed ki, amelyeket a polgári célú rádió-távközlési tevékenységet vagy szolgáltatást végzőknek (a továbbiakban együttesen: jogosítottak) a polgári célú rádiófrekvenciák használati jogáért a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: hatóság) határozata szerint frekvenciakijelöléskor (frekvencialekötési díj), a frekvenciák használata során, a rádióengedély érvényességi ideje alatt (frekvenciahasználati díj) kell fizetni. A rendelet kiterjed továbbá azokra a díjakra, amelyeket a rendelet hatálybalépését megelőzően vagy azt követően árverés vagy pályázat útján értékesített frekvenciasáv esetén a jogosítottnak a rendelet hatálybalépését követő naptól a frekvenciahasználati jogosultság érvényességi ideje alatt kell fizetni (sávdíj).
+1. § (1)[^1] E rendelet hatálya kiterjed:
 
-(2) Az adott földrajzi helyen vagy körzetben engedélyezett rádiótávközlő hálózatok, rádióállomások és -berendezések (a továbbiakban: hálózatok, állomások és berendezések) frekvencialekötéséért és frekvenciahasználatáért az e rendeletben meghatározott díjat kell fizetni.
+a) a rádiótávközlési tevékenységet vagy rádiótávközlési szolgáltatást végzőkre (a továbbiakban együtt: jogosítottak) és
 
-(3)[^1] Nem terjed ki a rendelet hatálya arra a frekvenciadíjra, amelyet a frekvenciahasználati jogosultsággal rendelkező vállalkozás a hatósági szerződésben rögzített módon és mértékben fizet meg.
+b) a frekvenciadíjra.
 
-(4) A frekvenciadíj a frekvenciakijelölésről, illetőleg a rádióengedélyről szóló határozatban, illetőleg annak módosításával is megállapítható.
+(2)[^2] Az adott földrajzi helyen vagy körzetben a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: hatóság) által engedélyezett rádiótávközlő hálózatok, rádióállomások és -berendezések (a továbbiakban: hálózatok, állomások és berendezések) frekvencialekötéséért és frekvenciahasználatáért az e rendeletben meghatározott díjat kell fizetni.
 
-(5)[^2] A rendelet alkalmazásában a frekvenciadíjak megállapításához szükséges fogalmak jegyzékét a frekvenciasávok nemzeti felosztásának megállapításáról szóló kormányrendeletben és a frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendeletben meghatározottakon túlmenően a 10. számú melléklet tartalmazza.
+(3)[^3] Nem terjed ki e rendelet hatálya
 
-[^1]: Az 1. § (3) bekezdése a 12/2013. (IX. 19.) NMHH rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (5) bekezdése a 8/2011. (XI. 3.) NMHH rendelet 1. § (1) bekezdése szerint módosított szöveg.
+a) a nem polgári célú frekvenciagazdálkodás rendjéről, valamint a nem polgári célú frekvenciagazdálkodás körébe tartozó szervezetekről szóló rendeletben felsorolt, nem polgári célú frekvenciagazdálkodás körébe tartozó szervezetekre és
+
+b) a nem polgári célú frekvenciagazdálkodás rendjéről, valamint a nem polgári célú frekvenciagazdálkodás körébe tartozó szervezetekről szóló rendeletben meghatározott NATO felhasználók katonai tevékenységgel kapcsolatos frekvenciahasználatára.
+
+(4)–(5)[^4]
+
+[^1]: Az 1. § (1) bekezdése a 2/2016. (II. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (4)–(5) bekezdését a 2/2016. (II. 26.) NMHH rendelet 12. § a) pontja hatályon kívül helyezte.

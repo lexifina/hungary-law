@@ -1,6 +1,6 @@
-4. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez
+4. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^58]
 
-Földi, belvízi és légiforgalmi mozgószolgálatok, valamint a rádiótelefon típusú állandóhelyű szolgálatok frekvenciahasználati díjai
+Földi, belvízi és légiforgalmi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok frekvenciahasználati díjai
 
 Területre szóló, telephely nélküli frekvenciakijelölésű hálózatok 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjai (Ft/kHz/hó)
 
@@ -42,7 +42,7 @@ A mozgószolgálati hálózatok állomásainak és berendezéseinek kategória s
 
 A 26-47 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
 
-|  | Átlagos kisugárzott effektív teljesítmény (ERP) | Átlagos effektív antennamagasság |
+|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
 |  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
 
@@ -62,7 +62,7 @@ A 26-47 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekv
 
 A 47-108 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
 
-|  | Átlagos kisugárzott effektív teljesítmény (ERP) | Átlagos effektív antennamagasság |
+|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
 |  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
 
@@ -82,7 +82,7 @@ A 47-108 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frek
 
 A 108-240 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
 
-|  | Átlagos kisugárzott effektív teljesítmény (ERP) | Átlagos effektív antennamagasság |
+|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
 |  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
 
@@ -102,7 +102,7 @@ A 108-240 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott fre
 
 A 240-380 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
 
-|  | Átlagos kisugárzott effektív teljesítmény (ERP) | Átlagos effektív antennamagasság |
+|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
 |  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
 
@@ -122,7 +122,7 @@ A 240-380 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott fre
 
 A 380-790 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
 
-|  | Átlagos kisugárzott effektív teljesítmény (ERP) | Átlagos effektív antennamagasság |
+|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
 |  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
 
@@ -142,7 +142,7 @@ A 380-790 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott fre
 
 A 790-960 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
 
-|  | Átlagos kisugárzott effektív teljesítmény (ERP) | Átlagos effektív antennamagasság |
+|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
 |  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
 
@@ -162,7 +162,7 @@ A 790-960 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott fre
 
 A 960-10 000 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott frekvenciahasználati egységdíjak (Ft/kHz/hó)
 
-|  | Átlagos kisugárzott effektív teljesítmény (ERP) | Átlagos effektív antennamagasság |
+|  | Átlagos effektív kisugárzott teljesítmény (ERP) | Átlagos effektív antennamagasság |
 
 |  | h<10 m | 10 m<h< 30 m | 30 m<h< 50 m | 50 m<h< 100 m | 100 m<h< 250 m | 250 m<h< 350 m | 350 m<h< 500 m | 500 m<h |
 
@@ -180,28 +180,28 @@ A 960-10 000 MHz-es frekvenciasávban az 1 kHz sávszélességre vonatkoztatott 
 
 | 10. táblázat |
 
-Földi, belvízi és légiforgalmi mozgószolgálatok, valamint a rádiótelefon típusú állandóhelyű szolgálatok frekvenciahasználati díjának megállapítási módja
+Földi, belvízi és légiforgalmi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok frekvenciahasználati díjának megállapítási módja
 
 1. a) Telephely nélküli frekvenciakijelölésű mozgó és állandóhelyű hálózatok esetében az engedélyezett frekvenciát tartalmazó frekvenciasáv és a felhasználási körzet által együttesen meghatározott frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani az 1. táblázatból,
 
 b) az a) alatti frekvenciahasználati egységdíjat a hálózatra engedélyezett frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
 
-2. a) Telephely nélküli frekvenciakijelölésű mozgó és állandóhelyű hálózatok állomásai esetében az engedélyezett frekvenciát tartalmazó frekvenciasáv és a maximális kisugárzott effektív teljesítmény (maximális ERP) által együttesen meghatározott frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani a 2. táblázatból,
-
-b) az a) alatti frekvenciahasználati egységdíjat az állomásra engedélyezett és egyidejűleg felhasználható frekvenciák csatornatávolságának kHz-ban kifejezett összegével meg kell szorozni.
+2.
 
 3. a) Telephely nélküli, illetőleg telephelyre szóló frekvenciakijelölésű mozgó szolgálati hálózatok állomásai, illetőleg berendezései esetében azok kategóriájának megfelelő frekvenciahasználati díjat (Ft/db/hó) kell kiválasztani a 3. táblázatból,
 
 b) az a) alatti frekvenciahasználati díjat több engedélyezett állomás, illetőleg berendezés esetében az azonos kategóriába tartozó állomások, illetve berendezések számával meg kell szorozni, és az eredményül kapott frekvenciahasználati díjakat össze kell adni.
 
-4. a) Telephelyre szóló frekvenciakijelölésű mozgó és állandóhelyű állomások esetében az engedélyezett frekvenciát tartalmazó táblázatot kell kiválasztani a 4–10. táblázatok közül,
+4. a) Telephelyre szóló frekvenciakijelölésű mozgószolgálati hálózatok helyhez kötött állomásai és telephelyre szóló frekvenciakijelölésű állandóhelyű szolgálati hálózatok állandóhelyű állomásai esetében az engedélyezett frekvenciát tartalmazó táblázatot kell kiválasztani a 4–10. táblázatok közül,
 
-b) a kiválasztott táblázatban az átlagos kisugárzott effektív teljesítmény (átlagos ERP) és az átlagos effektív antennamagasság (átlagos heff) által együttesen meghatározott frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani,
+b) a kiválasztott táblázatban az átlagos effektív kisugárzott teljesítmény (átlagos ERP) és az átlagos effektív antennamagasság (átlagos heff) által együttesen meghatározott frekvenciahasználati egységdíjat (Ft/kHz/hó) kell kiválasztani,
 
 c) a b) alatti frekvenciahasználati egységdíjat az állomásra engedélyezett és egyidejűleg felhasználható frekvenciák csatornatávolságának kHz-ben kifejezett összegével meg kell szorozni.
 
-5. A helyhez kötött állomásokon a vételi frekvenciák díjmegállapításához is a helyhez kötött állomás maximális vagy átlagos kisugárzott effektív teljesítményét kell figyelembe venni.
+5. A helyhez kötött és az állandóhelyű állomásokon a vételi frekvenciák díjmegállapításához is az állomás átlagos effektív kisugárzott teljesítményét kell figyelembe venni.
 
-6. A csak vételre szolgáló központi állomás (gyűjtőállomás) ERP-jeként a hozzá kapcsolódó állandóhelyű állomások ERP-je közül a legnagyobbat kell figyelembe venni a frekvenciadíj megállapításához.
+6. A csak vételre szolgáló csillagponti állomás ERP-jeként a hozzá kapcsolódó állandóhelyű állomások ERP-je közül a legnagyobbat kell figyelembe venni a frekvenciadíj megállapításához.
 
 7. A helyhez kötött és az állandóhelyű állomások átlagos effektív antenna magasságának kiszámításánál a heff legkisebb figyelembe vehető értéke az antenna földfelszín feletti magassága.
+
+[^58]: A 4. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 10. § (2) bekezdése, a 11. § 17. pontja, a 12. § e) pontja szerint módosított szöveg.

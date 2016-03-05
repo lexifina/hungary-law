@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1-20-3H
 | 2013-04-15 | 2011-1-20-3H.5 | 6/2013. (IV. 3.) NMHH rendelet |
 | 2013-09-20 | 2011-1-20-3H.6 | 12/2013. (IX. 19.) NMHH rendelet |
 | 2014-01-01 | 2011-1-20-3H.7 | 12/2013. (IX. 19.) NMHH rendelet |
+| 2016-03-05 | 2011-1-20-3H.8 | 2/2016. (II. 26.) NMHH rendelet |
