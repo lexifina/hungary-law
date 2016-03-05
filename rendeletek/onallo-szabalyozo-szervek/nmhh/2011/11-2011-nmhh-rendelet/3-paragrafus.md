@@ -1,30 +1,47 @@
 ## 3. Rádiófrekvenciák használatának közös szabályai
 
-3. § (1)[^14] A nem polgári és a polgári frekvenciagazdálkodási szempontok összehangolására irányuló tevékenység műszaki vizsgálatnak minősül.
+3. § (1)[^15] A nem polgári és a polgári frekvenciagazdálkodási szempontok összehangolására irányuló tevékenység műszaki vizsgálatnak minősül.
 
-(2) A harminc napnál rövidebb frekvenciahasználat esetén, amennyiben a felhasználási terület, a foglaltság és a sugárzási paraméterek lehetővé teszik, a frekvenciakijelölés és a rádióengedély összevontan is kiadható.
+(2)[^16] Egyedi engedély iránti kérelmet a felhasználó vagy a 17. § (3) bekezdés b) pontja szerinti vállalkozó nyújthat be.
 
-(3)[^15] NATO eljárás keretében engedélyezett frekvenciahasználat esetén e rendelet szerinti egyedi engedélyt a Hivatal nem ad ki.
+(2a)[^17] Egyedi engedély iránti kérelem ügyében a kérelmező képviselőjének meghatalmazása a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl tartalmazza a felhasználó megnevezését, valamint a képviselő által elvégzendő – a rádiórendszer kiépítésével és az egyedi engedélyek megszerzésével összefüggő – feladatokat.
 
-(4) Nem szükséges egyedi engedély a frekvenciasávok felhasználási szabályairól szóló NMHH rendeletek által egyedi engedélyezési kötelezettség alól mentesített rádiórendszer telepítéséhez, üzemben tartásához, azzal a feltétellel, hogy az alkalmazott rádióberendezés teljesíti a forgalomba hozatalra vonatkozó, jogszabályban meghatározott követelményeket.
+(2b)[^18] Az egyedi engedély jogosítottja (a továbbiakban: engedélyes) – a frekvenciakijelölés és a kísérleti rádióengedély kivételével – kizárólag a felhasználó lehet.
 
-(5)[^16] A Hivatal visszavonja az egyedi engedélyt, ha
+(3)[^19] NATO eljárás keretében engedélyezett frekvenciahasználat esetén e rendelet szerinti egyedi engedélyt a Hivatal nem ad ki.
 
-a)[^17] az egyedi engedélyre vonatkozó határozat meghozatalát követően a Hivatal tudomására jut, hogy a kérelem, illetve az eljárás során a felhasználó által benyújtott adatok, iratok, nyilatkozatok a valóságnak nem megfelelő, vagy megtévesztő adatokat tartalmaztak,
+(4)[^20] Nem szükséges egyedi engedély az NFFF által egyedi engedélyezési kötelezettség alól mentesített rádiórendszer telepítéséhez, üzemben tartásához, azzal a feltétellel, hogy az alkalmazott rádióberendezés teljesíti a forgalomba hozatalra vonatkozó, jogszabályban meghatározott követelményeket.
 
-b)[^18] az Fr., a nem polgári célra használható frekvenciasávok felhasználási szabályainak megállapításáról szóló NMHH rendelet (a továbbiakban: Sr.), vagy jogszabállyal kihirdetett nemzetközi kötelezettségvállalás módosulása ezt megköveteli,
+(5)[^21] A Hivatal az egyedi engedélyt hatósági eljárásban hivatalból visszavonja vagy módosítja,
 
-c)[^19] a frekvenciahasználati jog megszűnik az engedélyes jogutód nélküli megszűnésével.
+a) ha azt jogszabály írja elő,
 
-(6)[^20] Jogutódlás esetén az egyedi engedély jogosítottja (a továbbiakban: engedélyes) bejelenti a jogutódlás alapját és az azonosításához szükséges adatokat. A bejelentett jogutód a Hivatal döntése alapján az engedélyes helyébe lép.
+b) ha jogszabállyal kihirdetett nemzetközi kötelezettségvállalás módosulása ezt szükségessé teszi,
 
-(7)[^21] A nemzetközi koordináció befejezése előtt, kérelemre, a Hivatal egyedi engedélyt feltételesen adhat ki. A feltételes egyedi engedély nemzetközi koordináció eredményén alapuló módosításáért vagy visszavonásáért a Hivatalt felelősség nem terheli.
+c) ha a frekvenciahasználati jog megszűnt,
 
-[^14]: A 3. § (1) bekezdése az 1/2015. (III. 17.) NMHH rendelet 8. §-ával megállapított szöveg. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^15]: A 3. § (3) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^16]: A 3. § (5) bekezdés nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^17]: A 3. § (5) bekezdés a) pontja az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^18]: A 3. § (5) bekezdés b) pontja az 1/2013. (I. 7.) NMHH rendelet 11. § (8) bekezdésével megállapított szöveg.
-[^19]: A 3. § (5) bekezdés c) pontját az 1/2013. (I. 7.) NMHH rendelet 11. § (9) bekezdése iktatta be.
-[^20]: A 3. § (6) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^21]: A 3. § (7) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés c) pontja és (3) bekezdése szerint módosított szöveg.
+d) ha a Hivatal az egyedi engedélyt a (7) bekezdés alapján adta ki, és a nemzetközi koordináció során a rádióállomás frekvenciahasználatát az érintett igazgatás – külön megállapodás vagy a Nemzetközi Rádiószabályzat szerint – elutasítja,
+
+e) bírósági döntés alapján,
+
+f) az építésügyi hatóság jogerős döntése alapján, ha építésiengedély-köteles antennatartót vagy antennát használatba vételi engedély nélkül használnak,
+
+g) a népegészségügyért felelős szakigazgatási szerv közegészségügyi követelmények megsértéséről szóló jogerős döntése alapján,
+
+h) ha a kérelem vagy az eljárás során a kérelmező által benyújtott adatok, iratok, nyilatkozatok a valóságnak nem megfelelő vagy megtévesztő adatokat tartalmaztak, vagy
+
+i) ha a légiközlekedési hatóság vagy a katonai légügyi hatóság a légi jármű légialkalmasságának megszűnését, vagy a hajózási hatóság az úszólétesítmény hajózásra alkalmasságának megszűnését jogerősen megállapította.
+
+(6)[^22] Jogutódlás esetén az engedélyes bejelenti a jogutódlás alapját és az azonosításához szükséges adatokat. A bejelentett jogutód a Hivatal döntése alapján az engedélyes helyébe lép.
+
+(7)[^23] A nemzetközi koordináció befejezése előtt, kérelemre, a Hivatal egyedi engedélyt feltételesen adhat ki. A feltételes egyedi engedély nemzetközi koordináció eredményén alapuló módosításáért vagy visszavonásáért a Hivatalt felelősség nem terheli.
+
+[^15]: A 3. § (1) bekezdése az 1/2015. (III. 17.) NMHH rendelet 8. §-ával megállapított szöveg. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^16]: A 3. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^17]: A 3. § (2a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 14. § (1) bekezdése iktatta be.
+[^18]: A 3. § (2b) bekezdését a 2/2016. (II. 26.) NMHH rendelet 14. § (1) bekezdése iktatta be.
+[^19]: A 3. § (3) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 3. § (4) bekezdése a 2/2016. (II. 26.) NMHH rendelet 18. § b) pontja szerint módosított szöveg.
+[^21]: A 3. § (5) bekezdése a 2/2016. (II. 26.) NMHH rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^22]: A 3. § (6) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés c) pontja, a 2/2016. (II. 26.) NMHH rendelet 18. § c) pontja szerint módosított szöveg.
+[^23]: A 3. § (7) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés c) pontja és (3) bekezdése szerint módosított szöveg.

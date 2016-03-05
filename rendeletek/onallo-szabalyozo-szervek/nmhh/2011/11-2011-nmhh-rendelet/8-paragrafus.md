@@ -1,4 +1,4 @@
-## 7. §[^26] A frekvenciakijelölés érvényességi ideje legfeljebb három év, melyet jogszabályi feltételek fennállása esetén az engedélyes – a frekvenciakijelölés érvényességi idejének lejárta előtt legalább két hónappal korábban benyújtott – írásbeli kérelmére a Hivatal egy alkalommal, legfeljebb egy évvel meghosszabbít.
+## 7. §[^28] A frekvenciakijelölés érvényességi ideje legfeljebb három év, melyet jogszabályi feltételek fennállása esetén az engedélyes – a frekvenciakijelölés érvényességi idejének lejárta előtt legalább két hónappal korábban benyújtott – írásbeli kérelmére a Hivatal egy alkalommal, legfeljebb egy évvel meghosszabbít.
 
 ## 8. § A frekvenciakijelölés tartalmazza
 
@@ -14,7 +14,7 @@ e) a telepítési, sugárzási jellemzőket, feltételeket és korlátokat, mozg
 
 f) felhasználói gazdálkodás esetén az arra való feljogosítást,
 
-g)[^27] tájékoztatást arra vonatkozóan, hogy a Hivatal a frekvenciakijelölést visszavonja a jogszabályban meghatározott esetekben,
+g)[^29] tájékoztatást arra vonatkozóan, hogy a Hivatal a frekvenciakijelölést visszavonja a jogszabályban meghatározott esetekben,
 
 h) tájékoztatást arra vonatkozóan, hogy a frekvenciakijelölés csak olyan rádióberendezés alkalmazásával érvényes, amelyet az arra illetékes hatóság nyilvántartásba vett, megfelelőségét igazolták,
 
@@ -24,5 +24,5 @@ j) a frekvenciakijelölés érvényességi idejét,
 
 k) tájékoztatást arra vonatkozóan, hogy a telepítésről mérési jegyzőkönyv felvétele szükséges.
 
-[^26]: A 7. § az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^27]: A 8. § g) pontja az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^28]: A 7. § az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^29]: A 8. § g) pontja az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.
