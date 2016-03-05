@@ -1,6 +1,6 @@
 ## 12. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-## 13. § Ez a rendelet
+13. §[^11] (1) Ez a rendelet
 
 1. a nyilvános páneurópai digitális cellás földi mobil rádiótávközlés összehangolt közösségi bevezetése számára fenntartandó frekvenciasávokról szóló 1987. június 25-i 87/372/EGK tanácsi irányelvnek és az azt módosító 2009/114/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -22,15 +22,11 @@
 
 10. a nyilvános páneurópai digitális cellás földi mobil rádiótávközlés telefonalkalmazásainak követelményeire vonatkozó közös műszaki szabályokról (II. fázis) (2. kiadás) szóló 1998. szeptember 4-i 98/542/EK bizottsági határozatnak,
 
-11. a DCS 1800-as sávban üzemelő nyilvános digitális cellás távközlő hálózatokkal (II. fázis) használható mobil állomásokra vonatkozó telefonalkalmazások követelményeire vonatkozó közös műszaki szabályokról
-
-(2. kiadás) szóló 1998. szeptember 4-i 98/543/EK bizottsági határozatnak,
+11. a DCS 1800-as sávban üzemelő nyilvános digitális cellás távközlő hálózatokkal (II. fázis) használható mobil állomásokra vonatkozó telefonalkalmazások követelményeire vonatkozó közös műszaki szabályokról (2. kiadás) szóló 1998. szeptember 4-i 98/543/EK bizottsági határozatnak,
 
 12. a nyilvános páneurópai digitális cellás földi mobil rádiótávközlés (II. fázis) csatlakoztatásának általános követelményeire vonatkozó közös műszaki szabályokról (2. kiadás) szóló 1998. szeptember 16-i 98/574/EK bizottság határozatnak,
 
-13. a GSM 1800-as sávban működő nyilvános digitális cellás távközlő hálózatokkal (II. fázis) használható mobil állomások csatlakoztatására vonatkozó általános követelményekre irányadó közös műszaki szabályokról
-
-(2. kiadás) szóló 1998. szeptember 16-i 98/575/EK bizottsági határozatnak,
+13. a GSM 1800-as sávban működő nyilvános digitális cellás távközlő hálózatokkal (II. fázis) használható mobil állomások csatlakoztatására vonatkozó általános követelményekre irányadó közös műszaki szabályokról (2. kiadás) szóló 1998. szeptember 16-i 98/575/EK bizottsági határozatnak,
 
 14. az 1,5/1,6 GHz frekvenciasávban üzemelő kis adatsebességű műholdas mobil földi állomásokra (LMES) vonatkozó közös műszaki szabályokról szóló 1998. szeptember 16-i 98/578/EK bizottsági határozatnak,
 
@@ -42,9 +38,9 @@
 
 18. a nagysebességű vonalkapcsolt adatátvitel (HSCSD) több időréses mobil állomásainak csatlakoztatási követelményeire vonatkozó közös műszaki szabályokról szóló 1999. július 7-i 1999/511/EK bizottsági határozatnak,
 
-19. az 1999/5/EK irányelv 3. cikk (3) bekezdés e) pontjának a belvízi rádiótelefon-szolgáltatásra vonatkozó regionális megállapodás hatálya alá tartozó rádiós berendezésekre történő alkalmazásáról szóló 2000. szeptember 22-i 2000/637/EK bizottsági határozatnak,
+19. az 1999/5/EK irányelv 3. cikke (3) bekezdése e) pontjának a belvízi rádiótelefon-szolgáltatásra vonatkozó regionális megállapodás hatálya alá tartozó rádiós berendezésekre történő alkalmazásáról szóló 2000. szeptember 22-i 2000/637/EK bizottsági határozatnak,
 
-20. az 1999/5/EK irányelv 3. cikk (3) bekezdés e) pontjának lavinajeladókra történő alkalmazásáról szóló 2001. február 21-i 2001/148/EK bizottsági határozatnak,
+20. az 1999/5/EK irányelv 3. cikke (3) bekezdése e) pontjának lavinajeladókra történő alkalmazásáról szóló 2001. február 21-i 2001/148/EK bizottsági határozatnak,
 
 21. az Európai Közösség rádióspektrum-politikájának keretszabályozásáról szóló 2002. március 7-i 676/2002/EK európai parlamenti és tanácsi határozatnak,
 
@@ -52,7 +48,7 @@
 
 23. a 24 GHz-es frekvenciasávban alkalmazott, kis hatótávolságú gépjárműradarok időben korlátozott használatára vonatkozó közösségi harmonizálásáról szóló 2005. január 17-i 2005/50/EK bizottsági határozatnak és az azt módosító 2011/485/EU bizottsági végrehajtási határozatnak,
 
-24. az 1999/5/EK európai parlamenti és tanácsi irányelv 3. cikk (3) bekezdés e) pontjának az automatikus hajóazonosítási rendszerben (AIS) történő felhasználásra szánt rádióberendezésekre való alkalmazásáról szóló 2005. január 25-i 2005/53/EK bizottsági határozatnak,
+24. az 1999/5/EK európai parlamenti és tanácsi irányelv 3. cikke (3) bekezdése e) pontjának az automatikus hajóazonosítási rendszerben (AIS) történő felhasználásra szánt rádióberendezésekre való alkalmazásáról szóló 2005. január 25-i 2005/53/EK bizottsági határozatnak,
 
 25. a rádióspektrum 5 GHz-es frekvenciasávjának a vezeték nélküli hozzáférési rendszerek, beleértve a rádiós helyi hálózatokat is (WAS/RLAN), megvalósítására történő harmonizált felhasználásáról szóló 2005. július 11-i 2005/513/EK bizottsági határozatnak és az azt módosító 2007/90/EK bizottsági határozatnak,
 
@@ -68,7 +64,7 @@
 
 31. a Közösség területén a légi járműveken hozzáférhető mobilhírközlési szolgáltatások (MCA-szolgáltatások) spektrumhasználatának harmonizált feltételeiről szóló 2008. április 7-i 2008/294/EK bizottsági határozatnak és az azt módosító 2013/654/EU bizottsági végrehajtási határozatnak,
 
-32. a 3400–3800 MHz-es frekvenciasávnak a Közösségen belül elektronikus hírközlési szolgáltatások nyújtására alkalmas földi rendszerek javára történő harmonizálásáról szóló 2008. május 21-i 2008/411/EK bizottsági határozatnak,
+32. a 3400–3800 MHz-es frekvenciasávnak a Közösségen belül elektronikus hírközlési szolgáltatások nyújtására alkalmas földi rendszerek javára történő harmonizálásáról szóló 2008. május 21-i 2008/411/EK bizottsági határozatnak és az azt módosító 2014/276/EU bizottsági végrehajtási határozatnak,
 
 33. a 2500–2690 MHz-es frekvenciasávnak a Közösségen belül elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek érdekében történő harmonizálásáról szóló 2008. június 13-i 2008/477/EK bizottsági határozatnak,
 
@@ -88,10 +84,18 @@
 
 41. az 1920–1980 MHz-es és a 2110–2170 MHz-es frekvenciasávnak az Unióban elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek érdekében történő harmonizálásáról szóló 2012. november 5-i 2012/688/EU bizottsági végrehajtási határozatnak,
 
-42. a nem-SOLAS hajókba való beszerelésre szánt, az általános tengeri vészjelző és biztonsági rendszerben (GMDSS) szerepeltetni kívánt tengeri rádiókommunikációs berendezésekre vonatkozó alapvető előírásokról szóló 2013. augusztus 12-i 2013/638/EU bizottsági határozatnak,
+42. a nem SOLAS hajókba való beszerelésre szánt, az általános tengeri vészjelző és biztonsági rendszerben (GMDSS) szerepeltetni kívánt tengeri rádiókommunikációs berendezésekre vonatkozó alapvető előírásokról szóló 2013. augusztus 12-i 2013/638/EU bizottsági határozatnak,
 
 43. a kis hatótávolságú eszközök által használt rádióspektrum harmonizációjáról szóló 2006/771/EK határozat módosításáról és a 2005/928/EK határozat hatályon kívül helyezéséről szóló 2013. december 11-i 2013/752/EU bizottsági végrehajtási határozatnak,
 
 44. az Unión belül a műsorgyártáshoz és különleges eseményekhez használt vezeték nélküli hangfrekvenciás berendezések általi rádióspektrum-használat harmonizált műszaki feltételeiről szóló 2014. szeptember 1-jei 2014/641/EU bizottsági végrehajtási határozatnak,
 
-45. a légi járműveken hozzáférhető mobilhírközlési szolgáltatásoknak (MCA-szolgáltatások) az Európai Közösségben való engedélyezéséről szóló 2008. április 7 i 2008/295/EK bizottsági ajánlás 2. és 8. pontjának
+45. az 1 452–1 492 MHz frekvenciasávnak az Unión belül elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek érdekében történő harmonizálásáról szóló 2015. május 8-i 2015/750 bizottsági (EU) végrehajtási határozatnak,
+
+46. a légi járműveken hozzáférhető mobilhírközlési szolgáltatásoknak (MCA-szolgáltatások) az Európai Közösségben való engedélyezéséről szóló 2008. április 7-i 2008/295/EK bizottsági ajánlás 2. és 8. pontjának
+
+## való megfelelést szolgálja.
+
+(2) Ez a rendelet az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságára vonatkozó követelmények megállapításáról szóló 2012. november 16-i 1079/2012/EU bizottsági végrehajtási rendeletnek és az azt módosító 657/2013/EU bizottsági végrehajtási rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^11]: A 13. § a 2/2016. (II. 26.) NMHH rendelet 35. §-ával megállapított szöveg.
