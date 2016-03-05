@@ -1,4 +1,4 @@
-## 7. §[^3]
+## 7. §[^6]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2. §, a 4. § és a 7. § 2016. július 1-jén lép hatályba.
 
-[^3]: A 7. § a 8. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^6]: A 7. § a 8. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
