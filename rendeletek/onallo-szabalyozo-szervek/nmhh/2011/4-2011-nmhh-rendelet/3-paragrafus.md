@@ -1,6 +1,6 @@
 ## Az árverés és a pályázat közös szabályai
 
-3. §[^8] (1) Az 1. § b) pontja szerinti árverés és pályázati eljárás hatósági ügy és hatósági eljárás, amely a Nemzeti Média- és Hírközlési Hatóság Hivatalának hatósági hatáskörébe tartozik. Az eljárásra az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.), valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szabályai megfelelően alkalmazandók.
+3. §[^9] (1) Az 1. § b) pontja szerinti árverés és pályázati eljárás hatósági ügy és hatósági eljárás, amely a Nemzeti Média- és Hírközlési Hatóság Hivatalának hatósági hatáskörébe tartozik. Az eljárásra az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.), valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szabályai megfelelően alkalmazandók.
 
 (2) Az 1. § c) pontja szerinti pályázati eljárás hatósági ügy és hatósági eljárás, amely a Nemzeti Média- és Hírközlési Hatóság Elnökének hatósági hatáskörébe tartozik. Az eljárásra az Eht., a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (a továbbiakban: Dtv.), illetve a Ket. szabályai megfelelően alkalmazandók.
 
@@ -12,4 +12,4 @@ a) árverés esetén a megajánlott ár;
 
 b) pályázat esetén az ajánlatok értékelésére a pályázati kiírásban előzetesen meghatározott elvek, szempontrendszer alapján kerül sor a döntésre.
 
-[^8]: A 3. § a 9/2013. (IX. 19.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § a 9/2013. (IX. 19.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.

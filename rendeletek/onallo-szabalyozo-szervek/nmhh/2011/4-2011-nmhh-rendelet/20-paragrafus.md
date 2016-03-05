@@ -6,7 +6,7 @@
 
 a) a hirdetményre nem érkezik jelentkezés,
 
-b)[^25] az eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a hirdetményt követően a hazai vagy a nemzetközi gazdasági környezet nagymértékben megváltozik, illetve a kiíráskor fennálló – gazdasági, jogi, frekvenciagazdálkodási, hírközlési, illetve médiaszolgáltatási piaci – körülmények, feltételek lényegesen megváltoznak,
+b)[^26] az eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a hirdetményt követően a hazai vagy a nemzetközi gazdasági környezet nagymértékben megváltozik, illetve a kiíráskor fennálló – gazdasági, jogi, frekvenciagazdálkodási, hírközlési, illetve médiaszolgáltatási piaci – körülmények, feltételek lényegesen megváltoznak,
 
 c) a Hatóság mérlegelése szerinti hírközléspolitikai, frekvenciagazdálkodási szempontok, illetve az irányadó jogszabályokban vagy a kiírási dokumentációban rögzített alapelvek, célok az eljárás lefolytatásával nem biztosíthatóak, vagy
 
@@ -14,4 +14,4 @@ d) a Hatóság a jelentkezések, ajánlatok és a rendelkezésre álló informá
 
 (2) A Hatóság az (1) bekezdés szerinti végzését a hirdetménnyel azonos helyen és módon közzéteszi.
 
-[^25]: A 20. § (1) bekezdés b) pontja a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.
+[^26]: A 20. § (1) bekezdés b) pontja a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.
