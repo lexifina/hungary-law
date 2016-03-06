@@ -1,1 +1,0 @@
-## „(5) Médiaszolgáltatási vagy frekvenciahasználati jogosultság alapján műsorszórás céljára benyújtott frekvenciakijelölési kérelemnek az (1) bekezdés a), b), d), f), h), k)–o) és p) pontjában foglaltakat kell tartalmaznia.”
