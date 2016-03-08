@@ -1,0 +1,9 @@
+# 70/2016. (III. 8.) KE határozat
+
+dandártábornoki kinevezésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-70-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-03-08 | 2016-70-30-76.1 | 70/2016. (III. 8.) KE határozat |
