@@ -8,6 +8,10 @@ a) akkumulált ózon szennyezettség 40 ppb koncentráció felett (a továbbiakb
 
 b) illékony szerves vegyületek (VOC): a metántól eltérő, antropogén vagy biogén forrásból származó szerves vegyületek, amelyek napfény jelenlétében a nitrogén-oxidokkal történő reakciók során fotokémiai oxidálószerek létrehozására képesek;
 
-c) termikus technológia: technológiai célú hőenergia-előállí tás, ahol a füstgáz közvetlenül érintkezik a technológia céltermékével.
+c) termikus technológia: technológiai célú hőenergia-előállí tás, ahol a füstgáz közvetlenül érintkezik a technológia céltermékével;
+
+d)[^1] integrált kibocsátás-kezelés az ásványolaj és gázfinomító tevékenységeknél: az egységes környezethasználati engedéllyel működő az ipari kibocsátásokról szóló európai parlamenti és tanácsi irányelv szerinti elérhető legjobb technikákkal (BAT) kapcsolatos következtetéseknek az ásványolaj- és gázfinomítás tekintetében történő meghatározásáról szóló bizottsági végrehajtási határozat hatálya alá tartozó létesítményben működő több vagy az összes tüzelőberendezés, fluid katalitikus krakkoló egység, valamint kénkinyerő egység nitrogén-oxid és kén-dioxid kibocsátásának integrált kezelése a végrehajtási határozatban meghatározott részletes szabályok szerint.
 
 (2) E rendeletben a levegő védelméről szóló jogszabály (a továbbiakban: Lvr.) értelmező rendelkezései alkalmazandóak.
+
+[^1]: A 2. § (1) bekezdés d) pontját a 12/2016. (II. 29.) FM rendelet 1. §-a iktatta be.

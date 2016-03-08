@@ -142,7 +142,7 @@
 
 | 5 | Naptári év | 20 µg/m3 |  | 2020. január 1. |
 
-2. melléklet a 4/2011. (I. 14.) VM rendelethez[^7]
+2. melléklet a 4/2011. (I. 14.) VM rendelethez[^13]
 
 1. Egyes légszennyező anyagok tervezési irányértékei
 
@@ -504,4 +504,4 @@
 
 |  | 6. | Vízoldható fluoridok F-ként (F: [7782-41-4]) | 50 mg/m2 x 30 nap |  | I. |
 
-[^7]: A 2. melléklet a 71/2012. (VII. 16.) VM rendelet 4. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet a 71/2012. (VII. 16.) VM rendelet 4. §-a szerint módosított szöveg.

@@ -576,7 +576,7 @@
 
 | 3 | Azbeszt | 0,0005 vagy ennél nagyobb | 1000 |
 
-7. melléklet a 4/2011. (I. 14.) VM rendelethez[^10]
+7. melléklet a 4/2011. (I. 14.) VM rendelethez[^16]
 
 Eljárásspecifikus technológiai kibocsátási határértékek és egyéb előírások
 
@@ -1220,7 +1220,9 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 | 4 | Nitrogén-oxidok (NO2-ben megadva) | 500 |
 
-| 5 | Szén-monoxid | 1500 |
+| 5 | Szén-monoxid (porozitás-növelő adalékanyag bekeverése nélkül gyártott termék) | 1500 |
+
+| 5a | Szén-monoxid (porozitás-növelő adalékanyag bekeverésével gyártott termék) | 2000 |
 
 | 6 | Klór és vegyületei (cián-klorid kivételével) | 100 |
 
@@ -1358,4 +1360,4 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.56.2. A kibocsátási határérték 11 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkozik.
 
-[^10]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a szerint módosított szöveg.
+[^16]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a szerint módosított szöveg.
