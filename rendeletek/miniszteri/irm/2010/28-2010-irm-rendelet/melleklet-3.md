@@ -1,3 +1,3 @@
-3. melléklet a 28/2010. (V. 12.) IRM rendelethez[^13]
+3. melléklet a 28/2010. (V. 12.) IRM rendelethez[^15]
 
-[^13]: A 3. mellékletet a 43. § (1) bekezdése hatályon kívül helyezte.
+[^15]: A 3. mellékletet a 43. § (1) bekezdése hatályon kívül helyezte.

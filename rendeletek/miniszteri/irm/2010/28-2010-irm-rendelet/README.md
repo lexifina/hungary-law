@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-28-20-1
 | 2011-01-02 | 2010-28-20-1U.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-01-08 | 2010-28-20-1U.5 | 28/2010. (XII. 31.) KIM rendelet |
 | 2012-01-01 | 2010-28-20-1U.6 | 40/2011. (XII. 30.) KIM rendelet |
+| 2016-03-09 | 2010-28-20-1U.7 | 5/2016. (III. 8.) IM rendelet |
