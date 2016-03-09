@@ -4,6 +4,6 @@
 
 (3) Ha a fél az R. 1. § (6) bekezdése szerinti nyomtatványon terjeszti elő a kérelmét, a közjegyző az R. 7. § (3) bekezdés szerint ad ki felhívást további tájékoztatásra vagy kiegészítésre.
 
-(4)[^3] A közjegyző az engedélyezésről történő döntéshozatalt megelőzően ellenőrzi a MOKK rendszerében és a közjegyzői kamara által vezetett nyilvántartásokban, hogy a félnek fennáll-e díjfizetési kötelezettsége a közjegyzői kamarával szemben.
+(4)[^5] A közjegyző az engedélyezésről történő döntéshozatalt megelőzően ellenőrzi a MOKK rendszerében és a közjegyzői kamara által vezetett nyilvántartásokban, hogy a félnek fennáll-e díjfizetési kötelezettsége a közjegyzői kamarával szemben.
 
-[^3]: A 15. § (4) bekezdése a 16. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.
+[^5]: A 15. § (4) bekezdése a 16. § (2) bekezdése alapján 2011. január 1-jén lépett hatályba.

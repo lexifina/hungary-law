@@ -4,6 +4,6 @@
 
 (2) Ha a közjegyző az eljárása folyamán megállapítja, hogy az Fmhtv. 49. §-a szerinti költségkedvezmény nem áll fenn, felhívja a felet, hogy a végzés kézhezvételétől számított 8 napon belül a meg nem fizetett díjat fizesse meg.
 
-(3)[^1] A fél fellebbezéssel egyidejűleg előterjesztett illetékfeljegyzési jog vagy költségmentesség engedélyezése iránti kérelmét a fellebbezés elbírálására illetékes törvényszék bírálja el.
+(3)[^2] A fél fellebbezéssel egyidejűleg előterjesztett illetékfeljegyzési jog vagy költségmentesség engedélyezése iránti kérelmét a fellebbezés elbírálására illetékes törvényszék bírálja el.
 
-[^1]: A 4. § (3) bekezdése a 40/2011. (XII. 30.) KIM rendelet 34. §-a szerint módosított szöveg.
+[^2]: A 4. § (3) bekezdése a 40/2011. (XII. 30.) KIM rendelet 34. §-a szerint módosított szöveg.
