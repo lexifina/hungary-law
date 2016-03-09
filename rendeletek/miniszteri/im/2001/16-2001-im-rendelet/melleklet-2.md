@@ -6,19 +6,19 @@
 
 ## Fővárosi Törvényszék
 
-| Pesti Központi Kerületi Bíróság | 13 |
+| Pesti Központi Kerületi Bíróság | 16 |
 
-| Budai Központi Kerületi Bíróság | 3 |
+| Budai Központi Kerületi Bíróság | 4 |
 
-| Budapesti II. és III. Kerületi Bíróság | 4 |
+| Budapesti II. és III. Kerületi Bíróság | 5 |
 
-| Budapesti IV. és XV. Kerületi Bíróság | 3 |
+| Budapesti IV. és XV. Kerületi Bíróság | 4 |
 
 | Budapesti XVIII. és XIX. Kerületi Bíróság | 3 |
 
-| Budapesti XX., XXI. és XXIII. Kerületi Bíróság | 3 |
+| Budapesti XX., XXI. és XXIII. Kerületi Bíróság | 4 |
 
-| Összesen: | 29 |
+| Összesen: | 36 |
 
 ## II.
 
@@ -148,7 +148,7 @@
 
 | Berettyóújfalui Járásbíróság | 1 |
 
-| Debreceni Járásbíróság | 4 |
+| Debreceni Járásbíróság | 5 |
 
 | Hajdúböszörményi Járásbíróság | 1 |
 
@@ -156,7 +156,7 @@
 
 | Püspökladányi Járásbíróság | 1 |
 
-| Összesen: | 8 |
+| Összesen: | 9 |
 
 ## X.
 
@@ -232,21 +232,21 @@
 
 | Dunakeszi Járásbíróság | 2 |
 
-| Gödöllői Járásbíróság | 2 |
+| Gödöllői Járásbíróság | 3 |
 
-| Monori Járásbíróság | 1 |
+| Monori Járásbíróság | 2 |
 
 | Nagykátai Járásbíróság | 1 |
 
 | Nagykőrösi Járásbíróság | 1 |
 
-| Ráckevei Járásbíróság | 2 |
+| Ráckevei Járásbíróság | 3 |
 
 | Szentendrei Járásbíróság | 1 |
 
 | Váci Járásbíróság | 1 |
 
-| Összesen: | 17 |
+| Összesen: | 20 |
 
 ## XV.
 
@@ -344,6 +344,6 @@
 
 | Összesen: | 9 |
 
-2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^117]
+2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^138]
 
-[^117]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet az 57/2012. (XII. 28.) KIM rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^138]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet az 5/2016. (III. 8.) IM rendelet 13. § (15) bekezdésével megállapított szöveg.

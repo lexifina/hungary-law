@@ -8,8 +8,8 @@ b) a Vht.-ban kapott felhatalmazás alapján kibocsátott igazságügy-miniszter
 
 c) a bírósági ügyviteli és pénzkezelési szabályok,
 
-d)[^79] az Alaptörvény főbb rendelkezései, továbbá az igazságügyi szervezetre és az igazságügyi dolgozók szolgálati viszonyára vonatkozó főbb szabályok,
+d)[^94] az Alaptörvény főbb rendelkezései, továbbá az igazságügyi szervezetre és az igazságügyi dolgozók szolgálati viszonyára vonatkozó főbb szabályok,
 
 e) a felsorolt szabályokhoz kapcsolódó polgári jogi, polgári eljárásjogi, büntetőjogi, büntető eljárásjogi, közigazgatási jogi és pénzügyi jogi rendelkezések.
 
-[^79]: A 44. § d) pontja a 43/2015. (XII. 30.) IM rendelet 2. § (9) bekezdés h) pontja szerint módosított szöveg.
+[^94]: A 44. § d) pontja a 43/2015. (XII. 30.) IM rendelet 2. § (9) bekezdés h) pontja szerint módosított szöveg.

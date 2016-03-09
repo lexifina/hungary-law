@@ -1,9 +1,0 @@
-10/A. §[^27] (1) A pályamunka a választott tárgykör szakmai szempontok szerinti írásbeli kidolgozása, amely a pályázónak a tárgykörre vonatkozó elméleti felkészültségéről és a gyakorlatban való alkalmazásának ismereteiről tanúskodik.
-
-(2)[^28] A miniszter az általa vezetett minisztérium (a továbbiakban: minisztérium) honlapján – az Országos Bírósági Hivatal elnökének és a kamarának a javaslatait beszerezve – közzéteszi azoknak a témaköröknek a felsorolását, amelyek tárgyában pályamunka készíthető a pályázatra.
-
-(3)[^29] A pályamunka terjedelme legalább 48 000 karakter, amelybe nem számít bele a fedlap, a tartalomjegyzék, a felhasznált irodalom jegyzéke, valamint azon jogszabályhelyek, valamint azon mellékletek, amelyek nem a szakdolgozat szerzőjének szellemi termékei. A pályamunka egyéb tartalmi és formai követelményeit a miniszter a minisztérium honlapján közzéteszi.
-
-[^27]: A 10/A. §-t a 6/2010. (III. 12.) IRM rendelet 5. § (3) bekezdése iktatta be.
-[^28]: A 10/A. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^29]: A 10/A. § (3) bekezdése a 2/2011. (II. 3.) KIM rendelet 10. § b) pontja, a 26/2011. (VIII. 31.) KIM rendelet 5. § (2) bekezdése szerint módosított szöveg.
