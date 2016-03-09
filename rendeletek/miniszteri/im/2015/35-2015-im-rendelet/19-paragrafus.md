@@ -12,7 +12,7 @@ c) a végrehajtási ügyértéket és a végrehajtónak járó végrehajtási k�
 
 d) tájékoztatást arról, hogy
 
-da) az eljárás kezdetén megfizetendő, 18. § (1) és (2) bekezdés szerinti költséget a végrehajtást kérőnek vagy költségmentesség esetén a Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) hivatali szervének e rendelet rendelkezései szerint, a jegyzőkönyv kézhezvételétől számított, az abban megállapított határidőben kell megfizetni a végrehajtó részére,
+da)[^1] az eljárás kezdetén megfizetendő, 18. § (1) és (2) bekezdés szerinti költséget a végrehajtást kérőnek vagy költségmentesség esetén a költségmentesség alkalmazásáról a bírósági eljárásban című 6/1986. (VI. 26.) IM rendelet (a továbbiakban: Kmr.) 15/E. §-ában meghatározott szervnek e rendelet rendelkezései szerint, a jegyzőkönyv kézhezvételétől számított, az abban megállapított határidőben kell megfizetni a végrehajtó részére,
 
 db) a végrehajtó intézkedése ellen a Vht. 217. §-a szerinti végrehajtási kifogást lehet előterjeszteni,
 
@@ -23,3 +23,5 @@ dd) ha a befizetés a jegyzőkönyvben megjelölt határidőben nem történik m
 e) az eljárás kezdetén megfizetendő költség összegét a munkadíj, a költségátalány és az előlegként bekérhető készkiadás szerinti bontásban,
 
 f) az eljárás kezdetén megfizetendő költség megfizetésének módját, átutalás esetén az arra szolgáló számla számát és a számlavezető hitelintézet nevét, továbbá az átutalási megbízáson feltüntetendő közlemény tartalmi elemeit.
+
+[^1]: A 19. § (3) bekezdés d) pont da) alpontja az 5/2016. (III. 8.) IM rendelet 23. § a) pontja szerint módosított szöveg.

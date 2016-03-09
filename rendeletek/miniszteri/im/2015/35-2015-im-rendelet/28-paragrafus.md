@@ -26,6 +26,8 @@ f) a felszámított végrehajtási költségek és díjak összegét (munkadíj,
 
 g) a végrehajtás során befolyt összeggel nem fedezett költségek és díjak összegét (munkadíj és meg nem előlegezett készkiadás szerinti részletezésben),
 
-h) tájékoztatást arról, hogy a g) pont szerinti költséget a végrehajtást kérőnek – költségmentesség, költségfeljegyzési jog esetén a bírósági gazdasági hivatalnak – a díjjegyzék kézhezvételétől számított, az abban megállapított határidőben kell megfizetni a végrehajtó részére, valamint tájékoztatást a megfizetés módjáról (átutalás esetén az arra szolgáló fizetési számla száma, számlavezető pénzforgalmi szolgáltató neve, az átutalási megbízáson feltüntetendő közlemény tartalmi elemei),
+h)[^2] tájékoztatást arról, hogy a g) pont szerinti költséget a végrehajtást kérőnek – költségmentesség, költségfeljegyzési jog esetén a Kmr. 15/E. §-ában meghatározott szervnek – a díjjegyzék kézhezvételétől számított, az abban megállapított határidőben kell megfizetni a végrehajtó részére, valamint tájékoztatást a megfizetés módjáról (átutalás esetén az arra szolgáló fizetési számla száma, számlavezető pénzforgalmi szolgáltató neve, az átutalási megbízáson feltüntetendő közlemény tartalmi elemei),
 
 i) tájékoztatást a díjjegyzékben foglalt díjfelszámítással szembeni végrehajtási kifogás előterjesztésének lehetőségéről és módjáról.
+
+[^2]: A 28. § (5) bekezdés h) pontja az 5/2016. (III. 8.) IM rendelet 23. § b) pontja szerint módosított szöveg.
