@@ -40,7 +40,7 @@ c) a végrehajtás felfüggesztéséért, és
 
 d) a biztosítási intézkedés felfüggesztéséért.
 
-(5)[^1] A közjegyző az írásban vagy szóban előterjesztett
+(5)[^3] A közjegyző az írásban vagy szóban előterjesztett
 
 a) fizetési meghagyás kibocsátása iránti kérelem,
 
@@ -54,4 +54,4 @@ e) a jogosult Fmhtv. 30. § (2) bekezdése és 31. § (2) bekezdése szerinti ny
 
 adattartalmának a MOKK rendszerében erre szolgáló elektronikus formanyomtatványon vagy iraton történő rögzítéséért 1 pontot kap.
 
-[^1]: A 9. § (5) bekezdése a 24/2015. (IX. 21.) IM rendelet 4. §-ával megállapított szöveg.
+[^3]: A 9. § (5) bekezdése a 24/2015. (IX. 21.) IM rendelet 4. §-ával megállapított szöveg.
