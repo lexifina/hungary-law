@@ -1,1 +1,3 @@
-## 4. § Ha a meghatározott cselekmény végrehajtása során a kötelezettől pénzkövetelés is behajtásra kerül, az általános költségátalány számításának alapját a behajtandó pénzkövetelésnek és járulékainak összege jelenti.
+## 4/A. §[^3] Az általános költségátalányt az egyetemlegesen felelős adósok ellen egyidejűleg elrendelt, ugyanazon végrehajtó által foganatosított végrehajtási ügyekben egyszer kell felszámítani.
+
+[^3]: A 4/A. §-t az 5/2016. (III. 8.) IM rendelet 11. § (1) bekezdése iktatta be.

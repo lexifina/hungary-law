@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-8-20-06
 | 2009-11-01 | 2001-8-20-06.3 | 8/2001. (IV. 27.) IM rendelet |
 | 2012-07-07 | 2001-8-20-06.4 | 31/2012. (VI. 29.) KIM rendelet |
 | 2014-12-24 | 2001-8-20-06.5 | 20/2014. (XII. 23.) IM rendelet |
+| 2016-03-09 | 2001-8-20-06.6 | 5/2016. (III. 8.) IM rendelet |
