@@ -14,8 +14,11 @@
 
 4. fél: a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 35/C. § (1) bekezdésében meghatározott fél;
 
-5. kamara: Magyar Bírósági Végrehajtói Kamara;
+5.[^1] Kar: Magyar Bírósági Végrehajtói Kar;
 
-6. kézbesítési rendszer: a kamarának a végrehajtási ügyben történő iratkézbesítés biztosítása érdekében a felek részére rendelkezésre álló, az interneten elérhető, országosan egységes számítástechnikai rendszere;
+6.[^2] kézbesítési rendszer: a Karnak a végrehajtási ügyben történő iratkézbesítés biztosítása érdekében a felek részére rendelkezésre álló, az interneten elérhető, országosan egységes számítástechnikai rendszere;
 
 7. végrehajtási ügy: az önálló bírósági végrehajtó hatáskörébe tartozó végrehajtási ügy.
+
+[^1]: Az 1. § 5. pontja az 5/2016. (III. 8.) IM rendelet 21. § (1) bekezdés a)–b) pontja szerint módosított szöveg.
+[^2]: Az 1. § 6. pontja az 5/2016. (III. 8.) IM rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.

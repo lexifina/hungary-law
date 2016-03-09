@@ -1,6 +1,6 @@
 ## 10. Végrehajtók regisztrálása
 
-18. § (1) A végrehajtók regisztrációját a kamara önálló bírósági végrehajtónként végzi el a következő adatok kézbesítési rendszerben történő rögzítésével:
+18. § (1)[^30] A végrehajtók regisztrációját a Kar önálló bírósági végrehajtónként végzi el a következő adatok kézbesítési rendszerben történő rögzítésével:
 
 a) önálló bírósági végrehajtó adatai:
 
@@ -28,6 +28,10 @@ ed) elektronikus levelezési cím.
 
 (2) A végrehajtó nevében eljáró felhasználóként kerülnek regisztrálásra az önálló bírósági végrehajtó és az általa (vagy a végrehajtói iroda által) foglalkoztatott önálló bírósági végrehajtó-helyettesek.
 
-(3) A regisztráció során a kamarának a kézbesítési rendszerbe fel kell tölteni az önálló bírósági végrehajtó nevében eljáró felhasználók hivatali elektronikus aláírói tanúsítványát, titkosító tanúsítványát és hitelesítési tanúsítványát.
+(3)[^31] A regisztráció során a Karnak a kézbesítési rendszerbe fel kell tölteni az önálló bírósági végrehajtó nevében eljáró felhasználók hivatali elektronikus aláírói tanúsítványát, titkosító tanúsítványát és hitelesítési tanúsítványát.
 
-(4) A végrehajtói szolgálatot, végrehajtó-helyettesi szolgálatot érintő változások esetén (kinevezés, szolgálat megszűnése, felfüggesztés) a kamara e § szerint gondoskodik az adatok változásának átvezetéséről.
+(4)[^32] A végrehajtói szolgálatot, végrehajtó-helyettesi szolgálatot érintő változások esetén (kinevezés, szolgálat megszűnése, felfüggesztés) a Kar e § szerint gondoskodik az adatok változásának átvezetéséről.
+
+[^30]: A 18. § (1) bekezdés nyitó szövegrésze az 5/2016. (III. 8.) IM rendelet 21. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^31]: A 18. § (3) bekezdése az 5/2016. (III. 8.) IM rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^32]: A 18. § (4) bekezdése az 5/2016. (III. 8.) IM rendelet 21. § (1) bekezdés a) pontja szerint módosított szöveg.

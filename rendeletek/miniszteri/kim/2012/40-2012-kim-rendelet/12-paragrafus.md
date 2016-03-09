@@ -1,6 +1,6 @@
 ## 5. Felhasználási szabályzat
 
-12. § (1) A kamara a kézbesítési rendszer félként és felhasználóként történő használatának feltételeit szabályzatban (a továbbiakban: felhasználási szabályzat) állapítja meg.
+12. § (1)[^19] A Kar a kézbesítési rendszer félként és felhasználóként történő használatának feltételeit szabályzatban (a továbbiakban: felhasználási szabályzat) állapítja meg.
 
 (2) A felhasználási szabályzat kötelező tartalmi elemei a következők:
 
@@ -23,3 +23,5 @@ e) tájékoztatás a fél és a felhasználó adatainak kezeléséről (adatok k
 f) a küldemények kézbesítési rendszerbe történő továbbításához és onnan történő fogadásához szükséges műszaki és adminisztratív feltételek,
 
 g) a kézbesítési rendszerhez tartozó, a felhasználók rendelkezésére álló szakmai és technikai segítségnyújtó szolgáltatás tartalma és elérhetősége.
+
+[^19]: A 12. § (1) bekezdése az 5/2016. (III. 8.) IM rendelet 21. § (1) bekezdés a) pontja szerint módosított szöveg.
