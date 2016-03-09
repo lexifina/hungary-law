@@ -1,16 +1,11 @@
 ## 6. § Az informatikai alkalmazásnak lehetővé kell tennie az adatkeresési eredmények találati listájának, valamint a rendszerüzeneteknek a megtekintését és kinyomtatását.
 
-## Az informatikai alkalmazás működtetésének bejelentése és felügyelete[^5]
+## Az informatikai alkalmazás működtetésének bejelentése és felügyelete[^8]
 
-6/A. §[^6] (1) Az igazságügyért felelős miniszter az informatikai alkalmazás működtetésével kapcsolatban ellátja a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló 83/2012. (IV. 21.) Korm. rendelet (a továbbiakban: kormányrendelet) 12. § (2) bekezdés a)–e) és g)–i) pontjában meghatározott feladatokat.
+6/A. §[^9] (1) Az igazságügyért felelős miniszter az informatikai alkalmazás működtetésével kapcsolatban ellátja a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló 83/2012. (IV. 21.) Korm. rendelet (a továbbiakban: kormányrendelet) 12. § (2) bekezdés a)–e) és g)–i) pontjában meghatározott feladatokat.
 
-(2) A kamara
+(2)[^10]
 
-a)[^7] 2014. január 1-jéig köteles bejelenteni – a kormányrendelet 18. §-ában foglaltak szerint – az igazságügyért felelős miniszternek az informatikai alkalmazás működtetésével kapcsolatos szolgáltatásnyújtást,
-
-b)[^8] legkésőbb 2014. július 1-jéig köteles biztosítani az informatikai alkalmazás működtetésével kapcsolatban – a Vht.-ban és e rendeletben foglalt eltérésekkel – a kormányrendeletben foglaltaknak való megfelelést.
-
-[^5]: A 6/A. §-t megelőző alcímet a 38/2012. (VIII. 23.) KIM rendelet 2. §-a iktatta be.
-[^6]: A 6. §-t a 38/2012. (VIII. 23.) KIM rendelet 2. §-a iktatta be.
-[^7]: A 6/A. § (2) bekezdés a) pontja az 57/2012. (XII. 28.) KIM rendelet 19. § (2) bekezdése szerint módosított szöveg.
-[^8]: A 6/A. § (2) bekezdés b) pontja az 57/2012. (XII. 28.) KIM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 6/A. §-t megelőző alcímet a 38/2012. (VIII. 23.) KIM rendelet 2. §-a iktatta be.
+[^9]: A 6. §-t a 38/2012. (VIII. 23.) KIM rendelet 2. §-a iktatta be
+[^10]: A 6/A. § (2) bekezdését az 5/2016. (III. 8.) IM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
