@@ -1,0 +1,5 @@
+## 4. Betétokiratok átadása iránti felhívásról szóló hirdetmények közzététele
+
+9. § (1) A Kar Hivatali szerve az elektronikus árverési rendszer informatikai alkalmazása útján gondoskodik a betétek és takarékbetétek végrehajtásáról szóló 180/2001. (X. 4.) Korm. rendelet 10. § (1) bekezdése szerinti hirdetmény (a továbbiakban: hirdetmény) közzétételéről, a hirdetmény közzétételére szolgáló művelet elvégzésének lehetővé tételével, és tájékoztatást tesz közzé a honlapján a hirdetmények elérhetőségéről.
+
+(2) A hirdetmény közzétételére szolgáló művelet elvégzésére az elektronikus árverési rendszer informatikai alkalmazásának működtetésére vonatkozó részletes szabályokról szóló miniszteri rendeletnek az árverési hirdetmény közzétételére vonatkozó rendelkezéseit kell alkalmazni azzal, hogy az informatikai alkalmazást úgy kell kialakítani, hogy a hirdetményt a közzétételét követő tizenhatodik napon automatikusan vagy azt megelőzően a végrehajtó intézkedésére törölje a hirdetményeket tartalmazó felületről.
