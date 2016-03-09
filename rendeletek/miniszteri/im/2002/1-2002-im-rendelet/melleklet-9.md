@@ -1,4 +1,4 @@
-9. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^155]
+9. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^161]
 
 ## A végrehajtási lap kiállítása helyetti, gyermektartásdíj és szüléssel járó költség behajtására szolgáló bírósági letiltó végzés kibocsátása iránti kérelem nyomtatványának adattartalma
 
@@ -266,4 +266,4 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, a cím és a kamatkövetelés adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^155]: A 9. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^161]: A 9. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.

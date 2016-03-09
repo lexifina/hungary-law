@@ -18,7 +18,7 @@ f) a kiadmányokon a végrehajtó bélyegzőjének lenyomatát.
 
 (2) A végrehajtó írásbeli intézkedésében – az intézkedés jellegétől függően, szükség esetén – a következő adatokat is fel kell tüntetni:
 
-a)[^60] a végrehajtható okiratot kiállító bíróság, közjegyző (a továbbiakban együtt: bíróság), központi hatóság vagy zár alá vételt elrendelő ügyészség, illetve nyomozó hatóság elnevezését, valamint a végrehajtható okirat számát,
+a)[^61] a végrehajtható okiratot kiállító bíróság, közjegyző (a továbbiakban együtt: bíróság), központi hatóság vagy zár alá vételt elrendelő ügyészség, illetve nyomozó hatóság elnevezését, valamint a végrehajtható okirat számát,
 
 b) a felek nevét és a hivatkozási számukat,
 
@@ -28,4 +28,4 @@ d) a címzett hatóság, egyéb szervezet ügyszámát (hivatkozási számát).
 
 (3) A végrehajtó intézkedésén (a továbbiakban: intézkedés) – ha ez nem lehetséges, külön íven – fel kell tüntetni annak elintézését rövid feljegyzéssel vagy irodai utasítással, valamint az elintézés határidejével és időpontjával.
 
-[^60]: A 28. § (2) bekezdés a) pontja a 35/2013. (XII. 23.) KIM rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^61]: A 28. § (2) bekezdés a) pontja a 35/2013. (XII. 23.) KIM rendelet 3. § (6) bekezdésével megállapított szöveg.
