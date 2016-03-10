@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1046-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-02-15 | 2016-1046-30-22.1 | 1046/2016. (II. 15.) Korm. határozat |
+| 2016-03-10 | 2016-1046-30-22.2 | 1124/2016. (III. 10.) Korm. határozat |
