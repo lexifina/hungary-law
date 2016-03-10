@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-435-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-29 | 2015-435-20-22.1 | 435/2015. (XII. 28.) Korm. rendelet |
+| 2016-03-10 | 2015-435-20-22.2 | 43/2016. (III. 9.) Korm. rendelet |
