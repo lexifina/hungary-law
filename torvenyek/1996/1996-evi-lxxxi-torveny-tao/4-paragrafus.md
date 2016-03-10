@@ -270,4 +270,8 @@ Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakos
 
 45. termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld;
 
-46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető, közvetlen és kizárólagos rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják.
+46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető, közvetlen és kizárólagos rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják;
+
+47. olimpiai pályázat: a sportról szóló 2004. évi I. törvény 77. § v) pontjában meghatározott olimpiai pályázat;
+
+48. olimpiai pályázat lebonyolításáért felelős nonprofit társaság: a sportról szóló 2004. évi I. törvény 77. § w) pontjában meghatározott zártkörűen működő nonprofit részvénytársaság.
