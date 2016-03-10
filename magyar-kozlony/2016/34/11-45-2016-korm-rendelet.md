@@ -1,0 +1,298 @@
+# A Kormány 45/2016. (III. 10.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 34. szám, 2016. március 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7cde353c10f8add15ad42adaadfa773cff31bbfe/dokumentumok/4ab3bc74097fa8f1852eb16d3566c9c72fac73e0/letoltes)
+
+---
+
+A Kormány 45/2016. (III. 10.) Korm. rendelete
+egyes mezőgazdasági tárgyú kormányrendeletek módosításáról
+A Kormány
+a mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás
+egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (1) bekezdés a) pontjában,
+a 2. alcím tekintetében a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes
+rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 104. § (1) bekezdés b) pontjában,
+a 3. alcím tekintetében a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 72. § c) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. Az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból, valamint
+az Európai Mezőgazdasági Garancia Alapból támogatott programok és intézkedések pénzügyi,
+számviteli és ellenőrzési rendszerek kialakításáról, lebonyolításának rendjéről szóló 82/2007. (IV. 25.)
+Korm. rendelet módosítása
+1. §
+Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból, valamint az Európai
+Mezőgazdasági Garancia Alapból támogatott programok és intézkedések pénzügyi, számviteli és ellenőrzési
+rendszerek kialakításáról, lebonyolításának rendjéről szóló 82/2007. (IV. 25.) Korm. rendelet 1. § (2) bekezdés
+b) pontja.
+2. A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet
+módosítása
+2. §
+A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet (a továbbiakban: Fönyr.)
+2. § (1) bekezdése a következő f) és g) ponttal egészül ki:
+[E rendelet alkalmazásában földhasználó: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel
+összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben (a továbbiakban: Fétv.)
+előírása alapján földhasználati bejelentésre kötelezett olyan természetes személy, vagy gazdálkodó szervezet, akinek,
+vagy amelynek a földhasználata]
+„f) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló
+törvényben meghatározott közfoglalkoztatási célú hasznosítási szerződésen,
+g) a Nemzeti Földalapról szóló törvényben meghatározott megbízási szerződésen”
+(alapul.)
+3. §
+A Fönyr. 5. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A Fétv. 94. § (1) bekezdés d) pontja szerinti használat jogcímeként a következő jogcímek jegyezhetők be
+a nyilvántartásba:
+a) tulajdonjogon alapuló földhasználat esetében (ideértve a tulajdonosi joggyakorláson alapuló földhasználatot is):
+aa) tulajdonosi földhasználat (ha a földrészletnek egyetlen tulajdonosa van),
+ab) tulajdonosi földhasználat használati megosztásról szóló megállapodás alapján (ha a földrészlet közös
+tulajdonban áll),
+ac) tulajdonosi földhasználat sorsolás alapján (ha a földrészlet közös tulajdonban áll),
+b) haszonélvezeti jogon alapuló földhasználat,
+c) vagyonkezelői jogon alapuló földhasználat,
+d) szívességi földhasználat,
+e) haszonbérlet,
+f) a Fétv. 65. §-a szerinti alhaszonbérlet (a továbbiakban: alhaszonbérlet),
+g) felesbérlet,
+h) részesművelés,
+i) rekreációs célú földhasználat,
+j) kényszerhasznosítás,
+k) szociális földprogram,
+
+l) közfoglalkoztatási program,
+m) közfoglalkoztatási célú hasznosítási szerződésen alapuló földhasznosítás,
+n) a Nemzeti Földalapról szóló törvényben meghatározott megbízási szerződésen alapuló földhasznosítás.”
+4. §
+A Fönyr. 6. §-a helyébe a következő rendelkezés lép:
+„6. § (1) A földhasználati nyilvántartásba-vétel iránti eljárás (a továbbiakban: eljárás) a Fétv.-ben előírt bejelentéssel
+indul, kivéve a (2) bekezdésben meghatározott esetet. A bejelentést az eljárás megindítására irányuló kérelemnek
+kell tekinteni.
+(2) Ha a járási hivatal önálló eljárás keretében a föld kényszerhasznosításba adásáról jogerősen határozott,
+a föld kényszerhasznosításának elvégzésére kijelölt földművesnek vagy mezőgazdasági termelőszervezetnek
+(a továbbiakban együtt: kényszerhasznosító) a határozaton alapuló földhasználatát a határozat jogerőre
+emelkedésétől számított 8 napon belül hivatalból jegyzi be a nyilvántartásba.
+(3) A kérelemre induló eljárás megindításához az adatlap, és az ahhoz csatolt, a Fétv. 95. § (3) bekezdésében
+meghatározott okiratok benyújtásán túl, a 6/A–6/D. §-ban és a 6/F. és 6/G. §-ban meghatározott okiratokat is
+csatolni kell, kivéve a (4) bekezdésben meghatározott esetet.
+(4) Az adatlaphoz nem kell csatolni a (3) bekezdésben meghatározott okiratokat, ha a bejelentő földhasználó a Fétv.
+95. § (2) bekezdése szerinti jogosult, és a föld használatának a bejelentése az 5. § (1a) bekezdés a) pont aa) alpontja,
+vagy az 5. § (1a) bekezdés b) vagy c) pontja szerinti jogcímeken alapul, feltéve, hogy a bejelentőnek e jogcímeken
+fennálló jogosultságát az ingatlan-nyilvántartás tartalmazza és az adatlapon bejelentett földhasználat a teljes
+földrészleten vagy annak az ingatlan-nyilvántartási térképen azonosítható alrészletén áll fenn. Ez esetben a járási
+hivatal a fennálló jogosultságot az ingatlan-nyilvántartásból ellenőrzi.
+(5) A föld használatát az adatlap, illetve az adatlap és az ahhoz csatolt okirat alapján kell nyilvántartásba venni
+a 9/A. §-ban meghatározott eltéréssel.”
+5. §
+A Fönyr. a következő 6/A–6/G. §-sal egészül ki:
+„6/A. § Ha a bejelentő földhasználó a Fétv. 95. § (2) bekezdése szerinti jogosult, és a föld használatának a bejelentése
+az 5. § (1a) bekezdés a) pont aa) alpontja, vagy az 5. § (1a) bekezdés b) vagy c) pontja szerinti jogcímeken alapul,
+azonban e jogcímeken fennálló jogosultsága az ingatlan-nyilvántartásba való bejegyzés nélkül létrejött, és
+e jogosultságát az ingatlan-nyilvántartás még nem tartalmazza,
+a) az adatlaphoz csatolni kell e jogok ingatlan-nyilvántartáson kívüli keletkezését igazoló érvényes okirat eredeti
+példányát vagy annak a közjegyző által hitelesített másolatát, vagy
+b) a jogszabály alapján létrejött jogosultság esetében a bejelentésben meg kell jelölni a jogszabályt.
+6/B. § (1) Ha a föld használatának a bejelentése hatósági jóváhagyáshoz nem kötött haszonbérleti szerződésen
+alapul, és harmadik személynek előhaszonbérleti joga áll fenn, a Fétv. 95. § (3) bekezdés b) pontjának alkalmazása
+során az adatlaphoz – az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti
+szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról szóló 474/2013. (XII. 12.) Korm.
+rendelet (a továbbiakban: Előkr.) szerint – a jegyző részére megküldött, és a jegyző által a haszonbérbeadó részére
+visszaküldött haszonbérleti szerződés két eredeti példányát vagy azoknak a közjegyző által hitelesített másolatát
+kell csatolni azzal, hogy a szerződés egyik példányának a Földforgalmi tv. és az Előkr. szerint kifüggesztett
+szerződésnek kell lennie.
+(2) Ha a föld használatának a bejelentése hatósági jóváhagyáshoz nem kötött haszonbérleti szerződésen alapul,
+és harmadik személynek előhaszonbérleti joga áll fenn, az (1) bekezdésben meghatározottakon túl az adatlaphoz
+csatolni kell az előhaszonbérletre jogosultak jognyilatkozatainak és az Előkr. szerinti iratjegyzéknek a jegyző által
+a haszonbérbeadó részére megküldött eredeti példányait vagy azoknak a jegyző által hitelesített másolatait is.
+(3) Ha az osztatlan közös tulajdonban álló föld használatának a bejelentése olyan hatósági jóváhagyáshoz
+nem kötött haszonbérleti szerződésen alapul, amelyet a felek a Fétv. 74. § (4) bekezdése szerint kötöttek meg,
+az adatlaphoz az (1) és (2) bekezdésben foglaltakon túl csatolni kell az Előkr. szerinti kifüggesztett közzétételi
+közleménynek a jegyző által a közzétételi kérelmet benyújtó haszonbérbeadó részére megküldött eredeti példányát
+vagy annak a közjegyző által hitelesített másolatát is.
+6/C. § A 2. § (1a) bekezdésében meghatározott esetben a jegyzőnek az adatlaphoz csatolnia kell a földprogram
+megvalósítását igazoló okiratokat.
+6/D. § (1) Ha a bejelentő gazdálkodó szervezet – kivéve a (3) bekezdés szerinti feltételek fennállása esetén
+a cégnyilvántartásban nyilvántartott céget –, az adatlaphoz csatolni kell
+
+a) a keletkezést tanúsító, illetve konstituáló bejegyzési határozat eredeti vagy közjegyző által hitelesített példányát
+vagy a regisztráló hatóság (cégbíróság, törvényszék) által vezetett közhiteles nyilvántartás tartalmáról kiállított
+hiteles másolatot vagy a közjegyzőkről szóló 1991. évi XLI. törvény 136. § (1) bekezdés i) pontjában meghatározottak
+szerint kiállított, 30 napnál nem régebbi közjegyzői tanúsítványt és
+b) az eredeti vagy közjegyző által hitelesített aláírási címpéldányt.
+(2) Ha a gazdálkodó szervezet nem csatolja az (1) bekezdés a) pontja szerinti iratokat, a járási hivatal megkereséssel
+fordul az adatot nyilvántartó szervhez.
+(3) Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott
+címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt
+a cégjegyzék tartalmazza, a járási hivatal az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus
+úton, közvetlen lekérdezéssel szerzi be.
+6/E. § Ha a 6/C. § vagy a 6/D. § (1) bekezdése szerinti iratok valamelyike a járási hivatalhoz már korábbi ügyben
+benyújtásra került, vagy a cégnyilvántartásban nyilvántartott cégre vonatkozó adatokat a járási hivatal a 6/D. §
+(3) bekezdése alapján korábban már beszerezte, az újabb bejelentés során elegendő – az iktatószámra való
+hivatkozással – a korábbi benyújtásra, beszerzésre és arra utalni, hogy a járási hivatalnál lévő okiratokban szereplő
+adatok a bejelentés időpontjáig nem változtak meg.
+6/F. § (1) Ha a földrészletnek egyetlen tulajdonosa van, és a bejelentő által benyújtott adatlap, illetve az ahhoz
+csatolt okiratok szerint a föld használata nem a teljes földrészleten vagy nem a földrészletnek az ingatlan-
+nyilvántartási térképen azonosítható alrészletén áll fenn, az adatlaphoz csatolni kell a (2) bekezdésben
+meghatározott térképi kimutatást.
+(2) A térképi kimutatást az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott – 30 napnál nem
+régebbi – hiteles szemle másolaton kell elkészíteni, amely a használt terület egyértelmű beazonosíthatóságát
+szolgálja. A térképi kimutatáson a használattal érintett terület nagyságát és a földrészleten belüli elhelyezkedését
+egyértelmű jelzéssel, az adatlapnak, illetve a benyújtott okiratnak megfelelően, azzal azonosítható módon kell
+megjelölni. A térképi kimutatást a földhasználónak és a használatba adónak is alá kell írni.
+6/G. § (1) Ha földrészlet közös tulajdonban áll, és a Fétv. 72. §-a szerinti harmadik személy földhasználati szerződés
+alapján kéri a használat nyilvántartásba-vételét, az adatlaphoz csatolni kell a Fétv. 95. § (3) bekezdés c) pontja
+szerinti iratokat is, kivéve a (2) bekezdésben meghatározott esetet.
+(2) Ha a Fétv. 95. § (3) bekezdés c) pontja szerinti iratok valamelyike az adott földrészlet használatának
+a nyilvántartásba vételével összefüggő korábbi ügyben más földhasználó által a járási hivatalhoz benyújtásra került,
+a bejelentés során elegendő – az iktatószámra való hivatkozással – a korábbi benyújtásra és arra utalni, hogy a járási
+hivatalnál lévő okiratokban szereplő adatok a bejelentés időpontjáig nem változtak meg.”
+6. §
+A Fönyr. 9. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[A (2) bekezdésben foglaltakon túl hiánypótlási felhívás kibocsátása nélkül el kell utasítani a kérelmet akkor is, ha]
+„a) az adatlaphoz csatolt földhasználati szerződés hatósági jóváhagyáshoz kötött, de azon nem szerepel a hatóság
+jóváhagyó záradéka;”
+7. §
+A Fönyr. a következő 9/A. §-sal egészül ki:
+„9/A. § (1) Ha a földhasználati szerződésben a felek a használat kezdő időpontját a szerződés létrejöttének napját
+megelőző időpontban állapították meg, ez esetben a szerződésre a nyilvánvaló érvénytelenség esetére irányadó
+szabályokat kell alkalmazni.
+(2) Ha a hatósági jóváhagyáshoz kötött haszonbérleti szerződést a mezőgazdasági igazgatási szerv
+az előhaszonbérletre jogosulttal hagyja jóvá, és ezáltal a szerződés a jóváhagyás napján válik hatályossá,
+a nyilvántartásba a használat kezdő időpontjaként a haszonbérleti szerződés hatósági jóváhagyásának napját kell
+bejegyezni, ha a felek a szerződésben a használat kezdő időpontjaként ennél korábbi időpontot jelöltek meg.”
+8. § (1) A Fönyr. 14. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő f) ponttal
+egészül ki:
+[Az (1) bekezdés a) pontja alapján a járási hivatal akkor törölheti hivatalból a föld használatának nyilvántartását, ha
+a használat megszűnése kétségtelenül megállapítható. A használat megszűnése akkor állapítható meg kétségtelenül, ha]
+„e) a bejegyzett használat olyan földhasználati szerződésen alapul, amely szerződés szerinti jogosultság jogszabály
+alapján megszűnt, vagy
+
+f) a bejegyzett használat olyan földrészleten vagy a földrészlet olyan alrészletén áll fenn, amelynek a művelési ága
+az ingatlan-nyilvántartásban művelés alól kivett területként került átvezetésre.”
+(2) A Fönyr. 14. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Ha a nyilvántartásba bejegyzett szívességi földhasználat a Fétv. 68. § (2) bekezdés d) pontja alapján szűnik
+meg, a földhasználó vagy a használatba adó által benyújtott törlés-bejelentési adatlaphoz csatolni kell a közeli
+hozzátartozói viszony megszűnését igazoló okiratot.”
+9. §
+A Fönyr. 14/A. §-a helyébe a következő rendelkezés lép:
+„14/A. § (1) A járási hivatal az alhaszonbérleti szerződés alapján történő földhasználat bejegyzésével egyidejűleg
+a haszonbérlő földhasználati lapján hivatalból törli annak a földterületnek a használatát, amelyre az alhaszonbérleti
+szerződés alapján más földhasználó alhaszonbérlet jogcímén a földhasználatát bejelentette.
+(2) Az alhaszonbérlet jogcímén alapuló földhasználat megszűnése esetén – feltéve, hogy a törlés időpontjában
+a haszonbérleti jogviszony még fennáll –, az alhaszonbérlet jogcímén alapuló földhasználat törlésével egyidejűleg
+a földterület használatát a haszonbérlő földhasználati lapjára hivatalból jegyzi vissza a járási hivatal.”
+10. §
+A Fönyr. a következő 14/B. §-sal egészül ki:
+„14/B. § (1) A járási hivatal a kényszerhasznosító földhasználatának bejegyzésével egyidejűleg a földhasználó
+földhasználati lapján hivatalból törli annak a földterületnek a használatát, amelyre a föld kényszerhasznosításának
+elrendeléséről szóló jogerős határozat alapján a kényszerhasznosító földhasználatát nyilvántartásba vette.
+(2) A kényszerhasznosítás megszűnését követően új földhasználat nyilvántartásba vételére a 6. §-ban foglaltakat kell
+alkalmazni.”
+11. §
+A Fönyr. a következő 15/A. §-sal egészül ki:
+„15/A. § A járási hivatal a törlés átvezetéséről szóló döntését a földhasználati lapnak a változással érintett
+adatokat tartalmazó részleges másolata megküldésével közli a nyilvántartásból törölt földhasználóval, illetve
+a használatba adóval, valamint a 14/A. §-ban és 14/B. §-ban meghatározott esetben az alhaszonbérlővel, illetve
+a kényszerhasznosítóval.”
+12. §
+A Fönyr. 16/A. §-a helyébe a következő rendelkezés lép:
+„16/A. § A földhasználati nyilvántartási eljárásban a belföldi jogsegély, valamint az integrált ügyfélszolgálatnál
+(kormányablak) is intézhető ügykörök kivételével az elektronikus kapcsolattartás kizárt.”
+13. § (1) A Fönyr. 17. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A (2) bekezdés a) pontjában meghatározott földhasználati lap másolatot a járási hivatal, illetve az integrált
+ügyfélszolgálat (kormányablak) szolgáltatja.”
+(2) A Fönyr. 17. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A (2) bekezdés b) pontjában meghatározott földhasználati lap másolatot kizárólag a járási hivatal
+szolgáltathatja.”
+14. §
+A Fönyr. 18. §-a helyébe a következő rendelkezés lép:
+„18. § (1) A papír alapú földhasználati lap másolat a földhasználati nyilvántartásba az érintett földrészlet használatára
+vonatkozóan bejegyzett adatokat hitelesen tanúsítja. A papír alapú földhasználati lap másolatot a következő
+szöveget tartalmazó hitelesítési záradékkal kell ellátni: „A másolat a kiadást megelőző napig az eredetivel
+megegyezik, és a használatra vonatkozóan bejegyzett fennálló adatokat hitelesen tanúsítja”.
+(2) Papír alapú földhasználati lap másolat kérelemre, illetve a 19/A. § (2) bekezdés a) pontjában felsorolt szervek
+megkeresésére szolgáltatható. A földhasználati lap másolat kiadása iránti kérelmet a földügyért felelős miniszter
+által rendszeresített, az általa vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett
+formanyomtatványon kell benyújtani. A kérelem adattartalmát a 2. számú melléklet határozza meg.”
+15. §
+A Fönyr. a következő 24. §-sal egészül ki:
+„24. § (1) E rendeletnek az egyes mezőgazdasági tárgyú kormányrendeletek módosításáról szóló 45/2016. (III. 10.)
+Korm. rendelettel (a továbbiakban: Mr.4.) megállapított
+a) 5. § (1a) bekezdését,
+b) 9. § (3) bekezdés a) és c) pontját,
+
+c) 9/A. §-át,
+d) 14. § (2) bekezdés f) pontját,
+e) 14/A. §-át,
+f) 15/A. §-át
+az Mr.4. hatálybalépésekor folyamatban lévő ügyekben, és a megismételt eljárásokban is alkalmazni kell.
+(2) E rendeletnek az Mr.4. által megállapított
+a) 6. §-át,
+b) 6/A–6/G. §-át,
+c) 14. § (5) bekezdését,
+d) 14/B. §-át
+az Mr.4. hatálybalépését követően indult eljárásokban kell alkalmazni.”
+16. §
+A Fönyr.
+a) 2. § (1) bekezdés c) pontjában a „haszonélvezeti jogon” szövegrész helyébe a „haszonélvezeti jogon és
+a használat jogán (a továbbiakban együtt: haszonélvezeti jog)”,
+b) 2. § (1a) bekezdésében a„céljából kijelölt földön”szövegrész helyébe a„céljából, a termőföld védelméről szóló
+2007. évi CXXIX. törvény 5/A. §-ában meghatározott földön”,
+c) 9. § (3) bekezdés c) pontjában a „szerződés értelmezhetetlen” szövegrész helyébe a „szerződés vagy
+a tulajdonostársak közötti használati megosztásról szóló megállapodás értelmezhetetlen”,
+d) 9. § (3) bekezdés e) pont ec) alpontjában az „az elővásárlási és előhaszonbérleti jog gyakorlása
+érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó
+eljárási szabályokról szóló jogszabályban meghatározott, a jegyző” szövegrész helyébe az „az Előkr.-ben
+meghatározott, a jegyző”,
+e) 13. § (4) bekezdésében
+ea) a„8. § szerinti”szövegrész helyébe a„6/F. § szerinti”,
+eb) a„8. §-ban”szövegrész helyébe a„6/F. §-ban”,
+f) 1. számú melléklet I. pont 1.1. alpontjában, 3. számú melléklet I. pont 1.1. alpontjában, valamint 4. számú
+melléklet I. pont 1.1. alpontjában a „természetes személy kérelmező” szövegrész helyébe a „természetes
+személy bejelentő”,
+g) 1. számú melléklet I. pont 1.2. alpontjában, 3. számú melléklet I. pont 1.2. alpontjában, valamint 4. számú
+melléklet I. pont 1.2. alpontjában a „gazdálkodó szervezet kérelmező” szövegrész helyébe a „gazdálkodó
+szervezet bejelentő”,
+h) 4. számú melléklet I. pont 4. alpontjában a„földhasználó”szövegrészek helyébe a„kérelmező”
+szöveg lép.
+17. §
+Hatályát veszti a Fönyr.
+a) 8. §-a,
+b) 14. § (2) bekezdés c) pontjában a„vagy”szövegrész.
+3. A föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet
+tartalmazó papír alapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló 47/2014.
+(II. 26.) Korm. rendelet módosítása
+18. §
+A föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó
+papír alapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló 47/2014. (II. 26.) Korm rendelet
+(a továbbiakban: Bokr.) 2. §-a helyébe a következő rendelkezés lép:
+„2. § (1) A biztonsági okmány védelmi elemekkel (vízjellel, pelyhezőkkel és vegyi védelemmel) ellátott, zöld
+színű papírlap, amely a jobb oldalán hosszanti irányban 10 mm széles irizáló nyomatot tartalmaz, amelyen
+a „földátruházási biztonsági okmány” felirat látható. A nyomat olyan nyomdatechnikai eljárással készül, amely
+a felirat másolását kizárja. A biztonsági okmány tartalmazza ezen felül a következő feliratot nyomtatott formában:
+„Kizárólag földtulajdont érintő jogügylet írásba foglalására használható”.
+(2) A Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI) felelős a biztonsági okmányok beszerzéséért,
+a fővárosi és megyei kormányhivatal járási hivatala, a fővárosban a XI. Kerületi Hivatal és a XIV. Kerületi Hivatal
+(a továbbiakban együtt: járási hivatal) részére történő elosztásáért, szállításáért.”
+
+19. §
+A Bokr. a következő 10. §-sal egészül ki:
+„10. § (1) A 2015. január 31-e előtt kiadott biztonsági okmány olyan védelmi elemekkel (vízjellel, pelyhezőkkel és
+vegyi védelemmel) ellátott, hiteles tulajdoni lap másolat kiadására szolgáló fehér színű íven nyomott papírlap, amely
+a jobb oldalán hosszanti irányban 10 mm széles irizáló nyomatot tartalmaz, amelyen a „földátruházási biztonsági
+okmány” felirat látható. A nyomat olyan nyomdatechnikai eljárással készült, amely a felirat másolását kizárja.
+A biztonsági okmány tartalmazza ezen felül a következő feliratot nyomtatott formában: „Kizárólag földtulajdont
+érintő jogügylet írásba foglalására használható”.
+(2) Az (1) bekezdés szerinti biztonsági okmány csak a 2016. július 31-ét megelőzően készített és aláírt okiratokhoz
+használható fel, ezt követően okirat készítésére nem használható. A 2016. július 31-én vagy azt követően készített és
+aláírt, az (1) bekezdés szerinti biztonsági okmányon szerkesztett okirat nem minősül biztonsági okmányon készült
+okiratnak. A 2016. július 31-ét megelőzően készített és aláírt, azonban ezen időpontot követően a föld fekvése
+szerinti települési önkormányzat jegyzőjéhez vagy az ingatlanügyi hatósághoz benyújtott, (1) bekezdés szerinti
+biztonsági okmányon szerkesztett okirat biztonsági okmányon készült okiratnak minősül.
+(3) Az (1) bekezdés szerinti biztonsági okmányt 2016. július 31-ét követően a jogi képviselő áthúzással, a „lejárt
+biztonsági okmány” szöveg feltüntetésével és aláírásával érvényteleníti. A jogi képviselőnek az érvénytelenített
+biztonsági okmányt legkésőbb 2017. február 28-áig, átvételi elismervény ellenében át kell adnia a járási hivatal
+részére. A járási hivatal az átvett, érvénytelenített biztonsági okmányt köteles megsemmisíteni.
+(4) A jogi képviselő 2017. február 28-ig nyilvántartást vezet a 2016. július 31-ét követően a birtokában lévő,
+(1) bekezdés szerinti és a (3) bekezdés szerint érvénytelenített biztonsági okmányok számáról.”
+4. Záró rendelkezés
+20. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
