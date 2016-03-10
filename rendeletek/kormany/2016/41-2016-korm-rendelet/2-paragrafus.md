@@ -1,0 +1,1 @@
+## 1. § A Kormány a menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Met.) 80/A. § (1) bekezdés c) pontja szerinti tömeges bevándorlás okozta válsághelyzetet (a továbbiakban: válsághelyzet) rendel el.
