@@ -50,4 +50,8 @@ s) sportlétesítmény: sportrendezvény megrendezésének helyszínéül szolg�
 
 t) utánpótlás-nevelés fejlesztését végző alapítvány: alapító okiratában meghatározott tartós közérdekű cél szerinti tevékenysége – elsősorban utánpótláskorú versenyzőkkel kapcsolatos – sporttevékenység elősegítése, feltételeinek biztosítása, felkészítő (edzéssel összefüggő) és versenyeztetési feladatok szervezése.
 
-u) sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés. A sportesemény sportrendezvénynek minősül.
+u) sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés. A sportesemény sportrendezvénynek minősül,
+
+v) olimpiai pályázat: a 2024. évi XXXIII. Nyári Olimpiai és XVII. Paralimpiai Játékok budapesti rendezésére vonatkozó pályázat,
+
+w) olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság: Budapest Főváros Önkormányzata és a Magyar Olimpiai Bizottság közös és kizárólagos tulajdonában álló, az olimpiai pályázat lebonyolításáért felelős zártkörűen működő nonprofit részvénytársaság.
