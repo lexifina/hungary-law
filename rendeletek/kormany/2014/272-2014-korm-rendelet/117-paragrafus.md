@@ -14,15 +14,16 @@ b)[^436] kedvezményezett egy összegben igényli a támogatási előleget, de a
 
 (6) Ha a kedvezményezett a támogatási előlegigénylési kérelmét a támogatási szerződés hatálybalépése előtt benyújtja, az előlegigénylés beérkezési dátumának a támogatási szerződés hatálybalépése minősül.
 
-(7) A kedvezményezett a XXIII. fejezet szerint köteles visszafizetni a támogatási előleget, ha nem nyújt be igénylést időközi kifizetésre a támogatási előleg – vagy több részletben történő előlegfolyósítás esetén annak első részlete – kifizetésétől számított hat hónapon belül, illetve a benyújtott kifizetési igénylés vagy más körülmény – így különösen a helyszíni ellenőrzés tapasztalatai – a támogatás nem rendeltetésszerű felhasználását bizonyítja.
+(7)[^438] A kedvezményezett a XXIII. fejezet szerint köteles visszafizetni a támogatási előleget, ha nem nyújt be igénylést időközi kifizetésre a támogatási előleg – vagy több részletben történő előlegfolyósítás esetén annak első részlete – kifizetésétől számított nyolc hónapon belül, illetve a benyújtott kifizetési igénylés vagy más körülmény – így különösen a helyszíni ellenőrzés tapasztalatai – a támogatás nem rendeltetésszerű felhasználását bizonyítja.
 
-(7a)[^438] A támogatási előleggel való teljes elszámolást követően az előleg a még el nem számolt támogatásnak a 116. § (2) és (3) bekezdése szerinti mértékéig, illetve összegéig újra igényelhető, ha erre a felhívás, illetve a támogatási szerződés lehetőséget biztosít.
+(7a)[^439] A támogatási előleggel való teljes elszámolást követően az előleg a még el nem számolt támogatásnak a 116. § (2) és (3) bekezdése szerinti mértékéig, illetve összegéig újra igényelhető, ha erre a felhívás, illetve a támogatási szerződés lehetőséget biztosít.
 
-(8)[^439] A támogatási előleggel legkésőbb a záró kifizetési igénylésben el kell számolni oly módon, hogy a támogatási előleg teljes összege erejéig rendelkezésre álljon a kedvezményezett által kifizetési igénylés keretében benyújtott, alátámasztó dokumentumokkal igazolt és az irányító hatóság vagy a kifizető ügynökség által elfogadott költség.
+(8)[^440] A támogatási előleggel legkésőbb a záró kifizetési igénylésben el kell számolni oly módon, hogy a támogatási előleg teljes összege erejéig rendelkezésre álljon a kedvezményezett által kifizetési igénylés keretében benyújtott, alátámasztó dokumentumokkal igazolt és az irányító hatóság vagy a kifizető ügynökség által elfogadott költség.
 
 [^434]: A 117. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
 [^435]: A 117. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
 [^436]: A 117. § (3) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 24. pontja szerint módosított szöveg.
 [^437]: A 117. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 25. pontja hatályon kívül helyezte.
-[^438]: A 117. § (7a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 68. § (2) bekezdése iktatta be.
-[^439]: A 117. § (8) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
+[^438]: A 117. § (7) bekezdése a 42/2016. (III. 9.) Korm. rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^439]: A 117. § (7a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 68. § (2) bekezdése iktatta be.
+[^440]: A 117. § (8) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-## 175/A. §[^620] Ha a kedvezményezett visszafizetési kötelezettségének feltételei bekövetkeznek, EMVA esetén a kifizető ügynökség a kedvezményezett tartozását meghatározott agrártámogatások jövőbeni kifizetéseiből visszatartja.
+## 175/A. §[^621] Ha a kedvezményezett visszafizetési kötelezettségének feltételei bekövetkeznek, EMVA esetén a kifizető ügynökség a kedvezményezett tartozását meghatározott agrártámogatások jövőbeni kifizetéseiből visszatartja.
 
-[^620]: A 175/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 91. § (3) bekezdése iktatta be.
+[^621]: A 175/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 91. § (3) bekezdése iktatta be.

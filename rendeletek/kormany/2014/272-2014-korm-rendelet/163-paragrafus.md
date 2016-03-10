@@ -2,7 +2,7 @@
 
 (2) A szabálytalanság-eljárási jegyzőkönyvnek tartalmaznia kell
 
-a)[^581] az érintett projekt megnevezését, a kedvezményezett és az eljárással érintett más személy adatait,
+a)[^582] az érintett projekt megnevezését, a kedvezményezett és az eljárással érintett más személy adatait,
 
 b) az érintett összeg nagyságát finanszírozási forrásonként,
 
@@ -20,11 +20,11 @@ h) a meghallgatott, illetve a helyszíni vizsgálat során jelenlévő személyn
 
 i) az eljárás során megállapított következtetéseket, és az azt alátámasztó dokumentumoknak a felsorolását,
 
-j)[^582] bűncselekmény gyanúja esetén az erre való utalást,
+j)[^583] bűncselekmény gyanúja esetén az erre való utalást,
 
 k) az alkalmazandó intézkedésekre, jogkövetkezményekre tett javaslatot.
 
-(3)[^583] A szabálytalanság tényének megállapítása esetén a szabálytalanság-eljárási jegyzőkönyvnek tartalmaznia kell továbbá
+(3)[^584] A szabálytalanság tényének megállapítása esetén a szabálytalanság-eljárási jegyzőkönyvnek tartalmaznia kell továbbá
 
 a) a megsértett rendelkezések pontos hivatkozását,
 
@@ -40,6 +40,6 @@ f) rendszerszintű szabálytalanság megállapítása esetén az arra való utal
 
 g) az alkalmazandó jogkövetkezményeket, illetve egyéb intézkedésekre tett javaslatot.
 
-[^581]: A 163. § (2) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 189. pontja szerint módosított szöveg.
-[^582]: A 163. § (2) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 88. §-ával megállapított szöveg.
-[^583]: [A 144/2015. (VI. 12.) Korm. rendelet 100. § 190. pontjával elrendelt módosítás, amely szerint a 163. § (3) bekezdésében az „5” szövegrész helyébe az „öt” szöveg lép, nem vezethető át.]
+[^582]: A 163. § (2) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 189. pontja szerint módosított szöveg.
+[^583]: A 163. § (2) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 88. §-ával megállapított szöveg.
+[^584]: [A 144/2015. (VI. 12.) Korm. rendelet 100. § 190. pontjával elrendelt módosítás, amely szerint a 163. § (3) bekezdésében az „5” szövegrész helyébe az „öt” szöveg lép, nem vezethető át.]

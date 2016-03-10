@@ -6,6 +6,6 @@
 
 (4) Ha a projekthez nyújtott támogatás meghaladja az ötszázmillió forintot, az irányító hatóság a projektet évente legalább egyszer, és a projekt pénzügyi befejezését megelőzően a helyszínen ellenőrzi.
 
-(5)[^525] EMVA forrásból támogatott intézkedések esetén először a helyszíni ellenőrzésnek alávetendő kedvezményezettek minimális számának 20–25%-át kell véletlenszerűen kiválasztani. A helyszíni ellenőrzésnek alávetendő kedvezményezettek fennmaradó részét kockázatelemzés alapján kell kiválasztani.
+(5)[^526] EMVA forrásból támogatott intézkedések esetén először a helyszíni ellenőrzésnek alávetendő kedvezményezettek minimális számának 20–25%-át kell véletlenszerűen kiválasztani. A helyszíni ellenőrzésnek alávetendő kedvezményezettek fennmaradó részét kockázatelemzés alapján kell kiválasztani.
 
-[^525]: A 145. § (5) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 38. §-a iktatta be.
+[^526]: A 145. § (5) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 38. §-a iktatta be.

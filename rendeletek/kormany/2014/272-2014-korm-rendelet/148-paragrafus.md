@@ -14,6 +14,6 @@ b) az alapok alapját végrehajtó szervezet bankszámláján a költségeinek f
 
 c) az alapok alapját végrehajtó szervezettel szemben fennálló követelési ügyeiből befolyt összeg az igazoló hatóság bankszámlájára visszautalásra kerüljön. A fejezetet irányító szerv vezetője a programszámla felett az alapok alapját végrehajtó szervezetnek rendelkezési jogot biztosít. A programszámla feletti rendelkezési jogosultságot két bejelentett személy együttes aláírásával lehet gyakorolni.
 
-(3)[^532] A programszámlának az év végén is maradhat egyenlege. A programszámla forgalmáról a kincstár a bankszámlakivonatot két eredeti, sorszámozott példányban állítja ki, amelynek első példányát az irányító hatóság részére, második példányát pedig az alapok alapját végrehajtó szervezet részére, a jóváírást vagy terhelést követő öt napon belül küldi meg.
+(3)[^533] A programszámlának az év végén is maradhat egyenlege. A programszámla forgalmáról a kincstár a bankszámlakivonatot két eredeti, sorszámozott példányban állítja ki, amelynek első példányát az irányító hatóság részére, második példányát pedig az alapok alapját végrehajtó szervezet részére, a jóváírást vagy terhelést követő öt napon belül küldi meg.
 
-[^532]: A 148. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 173. pontja szerint módosított szöveg.
+[^533]: A 148. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 173. pontja szerint módosított szöveg.
