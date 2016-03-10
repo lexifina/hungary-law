@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. egyetért azzal, hogy a Beruházás építtetője Újfehértó Város Önkormányzata.
+## 3.[^1] egyetért azzal, hogy a Beruházás építtetője a Nemzeti Sportközpontok.
 
 1. melléklet az 1072/2016. (II. 25.) Korm. határozathoz
 
@@ -87,3 +87,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1130/2016. (III. 10.) Korm. határozattal megállapított szöveg.
