@@ -46,11 +46,7 @@
 
 ## 7.2. általános (környezetvédelmi) sebességkorlátozás ideiglenes bevezetése;
 
-## 7.3. a gépjárműforgalom korlátozása a megkülönböztető jelzést használó egészségügyi és rendvédelmi szervek gépjárművei, továbbá az ügyeletet ellátó orvosok, háziorvosok, házigyermekorvosok, a betegszállítók és a bentlakásos szociális intézmények működésének érdekében sürgős szállítási fe1adatokat ellat6k gépjárművei kivételével;
-
-## 7.3.1. a gépjárműforgalom korlátozása a gépjárművek környezetvédelmi besorolása alapján, figyelembe véve, hogy szálló por szennyezettség esetén a dízel, ózonszennyezettség esetén a benzin üzemű gépjárművek fokozottabb korlátozása indokolt, illetve a legszennyezőbb gépjárművek használatának megtiltása;
-
-## 7.3.2. a gépjárműhasználat további korlátozása például a rendszám páros-páratlan besorolása szerint, a 22 órától 6 óráig tartó időszak kivételével;
+## 7.3. a gépjárműforgalom korlátozása a megkülönböztető jelzést használó egészségügyi és rendvédelmi szervek gépjárművei, továbbá az ügyeletet ellátó orvosok, háziorvosok, házigyermekorvosok, sürgősségi vérkészítmény-szállítók, sürgősségi gyógyszerszállítók, a betegszállítók és a bentlakásos szociális intézmények működésének érdekében sürgős szállítási feladatokat ellátók gépjárművei és a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV.12.) KÖHÉM rendelet szerinti környezetkímélő gépkocsik kivételével;
 
 ## 7.5. a tömegközlekedés és a nem motorizált közlekedés használatának előnyben részesítésére történő felszólítás;
 
@@ -58,7 +54,7 @@
 
 ## 7.7. a gépjárművek indokolatlan – álló helyzetben történő – alapjárati üzemeltetésének lehetőség szerinti mérséklésére történő felszólítás.
 
-4. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^83]
+4. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^84]
 
 ## A levegőtisztaság-védelmi alapbejelentés adattartalma (LAL lap)
 
@@ -198,4 +194,4 @@
 
 9.7. Mérőberendezés típusjóváhagyási száma
 
-[^83]: A 4. melléklet a 310/2014. (XII. 11.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^84]: A 4. melléklet a 310/2014. (XII. 11.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
