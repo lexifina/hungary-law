@@ -1,0 +1,3 @@
+43. § (1) A klaszter irodaterületéhez, létesítményeihez és tevékenységeihez való hozzáférést több felhasználó számára átlátható és megkülönböztetés-mentes módon kell biztosítani. Az innovációs klaszter beruházási költségeit legalább 10%-ban finanszírozó vállalkozás kedvezményes hozzáférési lehetőséget kaphat. A túlkompenzáció elkerülése érdekében a hozzáférési lehetőségnek arányban kell állnia a beruházási költséghez való hozzájárulás mértékével és a hozzáférés feltételeit közzé kell tenni.
+
+(2) A klaszter létesítményeinek használatáért és a klasztertevékenységben való részvételért fizetendő díj megállapítása piaci vagy költségalapon történik.

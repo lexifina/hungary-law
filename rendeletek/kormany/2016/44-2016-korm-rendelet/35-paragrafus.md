@@ -1,0 +1,5 @@
+## 14. A kkv-k vásárokon való részvételéhez nyújtott támogatás
+
+35. § (1) A kkv-k vásárokon való részvételéhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+
+(2) A támogatás keretében a vállalkozásnak valamely kiállításon vagy vásáron való részvételekor felmerülő, a kiállító helyiség bérletével, felállításával és működtetésével kapcsolatos költség számolható el.
