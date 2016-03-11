@@ -36,7 +36,7 @@
 
 ## Határidő: 2016. március 31.
 
-## 7. visszavonja a KÖZOP-2.5.0-09-11 jelű („Az ország és a régióközpontok nemzetközi vasúti és vízi úti elérhetőségének javítása” című) konstrukció keretében a „MÁV Zrt. vasúti közlekedéssel összefüggő projektje” című, egymilliárd forintot meghaladó támogatási igényű projektjavaslat támogatásának jóváhagyásáról, valamint akciótervi nevesítéséről szóló 1952/2015. (XII. 16.) Korm. határozatot.
+## 7.[^2]
 
 1. melléklet az 1132/2016. (III. 10.) Korm. határozathoz
 
@@ -47,3 +47,5 @@
 | 2. | Közlekedés Operatív Program (a továbbiakban: KÖZOP) (nettó, Ft) | IKOP (nettó, Ft) | KÖZOP (nettó, Ft) | IKOP (nettó, Ft) |
 
 | 3. | KÖZOP-2.5.0- 09-11-2013- 0003 | Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program (kormányablakok) | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság | 4 077 556 421 | 6 700 097 430 | 3 401 192 736 | 6 564 251 030 | A projekt több állomás fő utasforgalmi (felvételi) épületének és létesítményeinek megújítására, átépítésére irányul. A projekt célja az állomási szolgáltatások részeként a kormányablakok hálózatának kialakítása, amelyek azonos szakmai standardok és arculati elemek mentén működnek. A projekt az állomási rekonstrukciós program és az integrált ügyfélszolgálati program részeként a közösségi közlekedés résztvevői számára lehetővé teszi az egyablakos ügyintézés elterjedését. |
+
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
