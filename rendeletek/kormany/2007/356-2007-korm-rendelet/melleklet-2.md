@@ -4,7 +4,7 @@
 
 ## 1. A földhasználó adatai:
 
-## 1.1. a természetes személy kérelmező
+## 1.1. a természetes személy bejelentő
 
 ## a) természetes személyazonosító adatai,
 
@@ -14,7 +14,7 @@
 
 ## d) lakcíme.
 
-## 1.2. a gazdálkodó szervezet kérelmező
+## 1.2. a gazdálkodó szervezet bejelentő
 
 ## a) megnevezése,
 
@@ -92,6 +92,6 @@
 
 ## 7. Az ügyintéző aláírása.
 
-2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^90]
+2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^100]
 
-[^90]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^100]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
