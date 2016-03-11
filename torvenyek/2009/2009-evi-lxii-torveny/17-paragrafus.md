@@ -6,4 +6,10 @@
 
 (4) A biztosító a biztosítási időszak utolsó napját megelőző ötvenedik napig elküldött írásos értesítőben tájékoztatja a szerződő felet a biztosítási évfordulóról és a következő biztosítási időszakra – az értesítés időpontjában rendelkezésre álló adatok alapján – a díjtarifa szerint várható díjról.
 
+(4a) Az írásos értesítőben a biztosító figyelemfelhívásra alkalmas módon tájékoztatja a szerződő felet, hogy
+
+a) a díjtarifája – a 23. § (3a) bekezdése alapján – csak a javára tartalmazhat különbségtételt abból a szempontból, hogy a szerződés a 24. § (1) bekezdés szerint módosuló szerződésnek minősül, továbbá
+
+b) a 24. § (1) bekezdés szerint módosuló szerződés a szerződő javára a 23. § (3a) bekezdése szempontjából hogyan módosul.
+
 (5) A (4) bekezdésben meghatározott értesítés – a szerződő hozzájáruló nyilatkozata alapján – elektronikus úton is megtehető.

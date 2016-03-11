@@ -6,6 +6,10 @@
 
 (3) A biztosító köteles minden egyedi szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Magyar Nemzeti Bank elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa alkalmazandó.
 
+(3a) A biztosító (3) bekezdésben meghatározott díjtarifája csak a 24. § (1) bekezdése szerint módosuló szerződéssel rendelkező javára tartalmazhat különbségtételt abból a szempontból, hogy a szerződés új szerződésnek vagy pedig a 24. § (1) bekezdés szerint módosuló szerződésnek minősül.
+
 (4) A biztosító köteles a biztosítási feltételeit és az alkalmazandó díjtarifáját az ügyfélfogadásra rendelkezésre álló helyiségeiben és a honlapján folyamatosan hozzáférhetővé tenni.
+
+(4a) A biztosító a (4) bekezdésben meghatározott hozzáférhetővé tétel során köteles figyelemfelhívásra alkalmas módon – a díjtarifájával kapcsolatban – azt is feltüntetni, hogy a (3) bekezdésben meghatározottak szerint alkalmazandó díjtarifája csak a 24. § (1) bekezdése szerint módosuló szerződéssel rendelkező javára tartalmazhat különbségtételt abból a szempontból, hogy a szerződés új szerződésnek vagy pedig a 24. § (1) bekezdés szerint módosuló szerződésnek minősül.
 
 (5) Ha a biztosító a gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében nyújtja és Magyarország területén szervezeti egységgel nem rendelkezik, köteles gondoskodni arról, hogy a (4) bekezdésben említett információk a kárképviselő székhelyén vagy lakóhelyén betekintés céljából kifüggesztésre kerüljenek.
