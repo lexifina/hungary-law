@@ -6,13 +6,17 @@
 
 | 3. | Közúti árutovábbítási engedély–kivonat nélkül végzett árutovábbítás, illetve autóbusszal közúti személyszállító engedélykivonat nélkül díj ellenében végzett személyszállítás | 100 000 | szállító gépjárművezető |
 
-| 4. | A taxi-engedély, személygépkocsis a) személyszállító engedély, b) taxis igazolvány vagy azonosító lap nincs a járművön | 50 000 30 000 | szállító gépjárművezető gépjárművezető |
+| 4. | a) Személyszállító vezetői igazolvány vagy azonosító lap nincs a járművön | 200 000 | gépjárművezető |
+
+|  | b) Személyszállító engedély kivonat nincs a járművön | 50 000 | gépjárművezető |
+
+|  | c) Diszpécserszolgálati engedély hiánya | 300 000 | diszpécserszolgálat |
 
 | 5. | Nemzetközi közúti áruszállítási engedély, CEMT engedély és a hozzá szükséges igazolás, autóbuszos járati engedély |  |  |
 
-|  | a) hiánya, érvénytelensége, | 300 000 | szállító |
+|  | a) hiánya, érvénytelensége | 800 000 | szállító |
 
-|  | b) szabálytalan használata, illetve eltérés az engedélyben foglaltaktól, | 150 000 | gépjárművezető |
+|  | b) nincs a járművön, szabálytalan használata, illetve eltérés az engedélyben foglaltaktól | 500 000 | gépjárművezető |
 
 |  | c) a KR. 4/A. §-ában meghatározott engedélykezelési, bemutatási, ellenőrzési, fénymásolat-készítési, bejelentési és megőrzési kötelezettség teljesítésének elmulasztása vagy megakadályozása | 300 000 | feladó, címzett, gépjárművezető |
 
