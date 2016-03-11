@@ -1,0 +1,5 @@
+## 18. § A föld tulajdonjogának átruházását, vagy a föld tulajdonjogát érintő más írásba foglalt jogügyletet tartalmazó papír alapú okmány biztonsági kellékeiről és kibocsátásainak szabályairól szóló 47/2014. (II. 26.) Korm rendelet (a továbbiakban: Bokr.) 2. §-a helyébe a következő rendelkezés lép:
+
+## „2. § (1) A biztonsági okmány védelmi elemekkel (vízjellel, pelyhezőkkel és vegyi védelemmel) ellátott, zöld színű papírlap, amely a jobb oldalán hosszanti irányban 10 mm széles irizáló nyomatot tartalmaz, amelyen a „földátruházási biztonsági okmány” felirat látható. A nyomat olyan nyomdatechnikai eljárással készül, amely a felirat másolását kizárja. A biztonsági okmány tartalmazza ezen felül a következő feliratot nyomtatott formában: „Kizárólag földtulajdont érintő jogügylet írásba foglalására használható”.
+
+## (2) A Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI) felelős a biztonsági okmányok beszerzéséért, a fővárosi és megyei kormányhivatal járási hivatala, a fővárosban a XI. Kerületi Hivatal és a XIV. Kerületi Hivatal (a továbbiakban együtt: járási hivatal) részére történő elosztásáért, szállításáért.”
