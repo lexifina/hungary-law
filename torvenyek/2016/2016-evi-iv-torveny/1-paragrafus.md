@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Iráni Iszlám Köztársaság Kormánya között a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
