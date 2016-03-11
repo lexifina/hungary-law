@@ -1,4 +1,4 @@
-## 27. §[^70] Ez a rendelet
+## 27. §[^71] Ez a rendelet
 
 1. az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. december 18-i 2988/95/EK, Euratom tanácsi rendeletnek,
 
@@ -26,4 +26,4 @@
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^70]: A 27. § a 138/2010. (IV. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^71]: A 27. § a 138/2010. (IV. 28.) Korm. rendelet 17. §-ával megállapított szöveg.

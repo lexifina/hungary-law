@@ -1,4 +1,4 @@
-6/A. §[^25] (1) Az igazoló hatóság EHA esetén igazolja az Európai Bizottság számára, hogy az ügyfeleknél felmerült, megbízható számviteli rendszerekben nyilvántartott támogatott kiadások megfelelnek a közösségi, nemzeti jogszabályoknak és az EHA-ból finanszírozott programnak, valamint azt ellenőrizhető bizonylatok támasztják alá.
+6/A. §[^26] (1) Az igazoló hatóság EHA esetén igazolja az Európai Bizottság számára, hogy az ügyfeleknél felmerült, megbízható számviteli rendszerekben nyilvántartott támogatott kiadások megfelelnek a közösségi, nemzeti jogszabályoknak és az EHA-ból finanszírozott programnak, valamint azt ellenőrizhető bizonylatok támasztják alá.
 
 (2) Az igazoló hatóság igazolási tevékenysége során
 
@@ -10,4 +10,4 @@ c) a kiadások megfelelő igazolása érdekében a pénzügyi lebonyolítás tek
 
 d) ellenőrzi a jogszabályokban meghatározott támogatásra jogosult költségeket.
 
-[^25]: A 6/A. §-t a 138/2010. (IV. 28.) Korm. rendelet 6. §-a iktatta be.
+[^26]: A 6/A. §-t a 138/2010. (IV. 28.) Korm. rendelet 6. §-a iktatta be.

@@ -30,7 +30,7 @@ g)[^4] a törvény 10. §-ának (1)–(2) bekezdésében meghatározott ügyfele
 
 a) az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegéből finanszírozott Nemzeti Vidékfejlesztési Terv egyes intézkedései keretében támogatott kérelmek azon kifizetéseire, amelyek az 1320/2006/EK bizottsági rendelet rendelkezéseivel összhangban EMVA terhére áthúzódó tételek,
 
-b) az EMGA-ból finanszírozott egységes területalapú támogatásokhoz kapcsolódó kiegészítő nemzeti támogatásokra,
+b)[^5]
 
 c) az (1) bekezdésben meghatározott alapok és az a) pontban meghatározott intézkedések finanszírozásához kapcsolódó további, kizárólag a fejezeti költségvetést terhelő kiadásokra, amely tételekre a fejezeti költségvetésben céltartalékot kell képezni, úgy mint:
 
@@ -58,3 +58,4 @@ db) a központi intervenciós intézkedések költségei és az EU átalány kö
 [^2]: Az 1. § (1) bekezdés d) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés e) pontja a 273/2010. (XII. 9.) Korm. rendelet 119. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés g) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdés b) pontját a 45/2016. (III. 10.) Korm. rendelet 1. §-a hatályon kívül helyezte.
