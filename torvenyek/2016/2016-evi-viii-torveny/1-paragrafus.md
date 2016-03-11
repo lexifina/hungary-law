@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Vegyifegyver Tilalmi Szervezet és Magyarország között az OPCW (Organisation for the Prohibition of Chemical Weapons – Vegyifegyver Tilalmi Szervezet, a továbbiakban: Szervezet) kiváltságairól és mentességeiről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
