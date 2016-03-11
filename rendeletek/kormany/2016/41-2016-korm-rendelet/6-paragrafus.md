@@ -1,5 +1,3 @@
-## 6. § Hatályát veszti
+6. §[^2]
 
-a) a tömeges bevándorlás okozta válsághelyzet kihirdetéséről, valamint a válsághelyzet elrendelésével, fennállásával és megszüntetésével összefüggő szabályokról szóló 269/2015. (IX. 15.) Korm. rendelet,
-
-b) a tömeges bevándorlás okozta válsághelyzet Baranya megye, Somogy megye, Zala megye és Vas megye területére történő kihirdetéséről, valamint a válsághelyzet elrendelésével, fennállásával és megszüntetésével összefüggő szabályokról szóló 270/2015. (IX. 18.) Korm. rendelet.
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette 2016. március 11. napjával.
