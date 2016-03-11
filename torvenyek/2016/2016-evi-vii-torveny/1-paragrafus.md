@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Globális Zöld Növekedési Intézet között a Globális Zöld Növekedési Intézet kiváltságairól és mentességeiről szóló jogállási megállapodás (a továbbiakban: Jogállási Megállapodás) kötelező hatályának elismerésére.
