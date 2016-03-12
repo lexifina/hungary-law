@@ -1,0 +1,9 @@
+# 50/2016. (III. 11.) Korm. rendelet
+
+a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-50-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-03-12 | 2016-50-20-22.1 | 50/2016. (III. 11.) Korm. rendelet |
