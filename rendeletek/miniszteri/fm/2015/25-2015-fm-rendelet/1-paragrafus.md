@@ -48,7 +48,9 @@ b) Emlékplakettek:
 
 3. Pro Meteorológia Emlékplakett,
 
-4. Életfa Emlékplakett.
+4. Életfa Emlékplakett,
+
+5.[^1] Pro Silva Hungariae Emlékplakett.
 
 c) Oklevél:
 
@@ -59,3 +61,5 @@ c) Oklevél:
 d) Különdíj:
 
 OTDK Agrártudományi Különdíj.
+
+[^1]: Az 1. § (3) bekezdés b) pont 5. alpontját a 17/2016. (III. 11.) FM rendelet 1. §-a iktatta be.
