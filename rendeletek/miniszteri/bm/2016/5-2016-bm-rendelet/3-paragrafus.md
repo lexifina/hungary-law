@@ -1,0 +1,1 @@
+## 2. § Az 1. § (1) és (4) bekezdése szerinti díjfizetési kötelezettséget POS terminálon keresztül történő bankkártyás fizetés vagy postai készpénz-átutalási megbízás igénybevételével, fizetési számlára történő készpénzfizetés útján kell teljesíteni.
