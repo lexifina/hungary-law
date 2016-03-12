@@ -1,1 +1,0 @@
-## „(5) Ha a nyilvántartásba bejegyzett szívességi földhasználat a Fétv. 68. § (2) bekezdés d) pontja alapján szűnik meg, a földhasználó vagy a használatba adó által benyújtott törlés-bejelentési adatlaphoz csatolni kell a közeli hozzátartozói viszony megszűnését igazoló okiratot.”
