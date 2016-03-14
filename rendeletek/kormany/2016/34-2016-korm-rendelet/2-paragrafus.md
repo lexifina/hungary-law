@@ -1,0 +1,1 @@
+## 1. § A Kormány a sportbeli dopping elleni nemzetközi egyezmény kihirdetéséről szóló 99/2007. (V. 8.) Korm. rendelettel kihirdetett, a sportbeli dopping elleni nemzetközi egyezmény (a továbbiakban: Egyezmény) II. melléklete módosítását e rendelettel kihirdeti.
