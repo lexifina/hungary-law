@@ -32,16 +32,6 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. január 31.
 
-5. egyetért azzal, hogy – a Károlyi-Csekonics Palotaegyüttes átfogó felújítására irányuló beruházáshoz hasonlóan – a kormányzati építésügyi beruházások műszaki szolgáltatásainak elvégzésére az ÉMI Nonprofit Kft. mint 100%-ban állami tulajdonban levő gazdasági társaság kerüljön kijelölésre, különös tekintettel
+5–6.[^2]
 
-a) a tervellenőri tevékenység elvégzésére az összes tervezési szakágra kiterjedően,
-
-b) a teljes körű műszaki ellenőri tevékenység ellátására,
-
-c) a kivitelezés ellenőrzése és felügyelete feladatok ellátására;
-
-6. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a kormányzati építésügyi beruházások műszaki szolgáltatási feladatok elvégzése érdekében az ÉMI Nonprofit Kft. kijelöléséről szóló előterjesztés Kormány részére történő benyújtásáról.
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: 2016. március 31.
+[^2]: Az 5–6. pontot az 1136/2016. (III. 17.) Korm. határozat visszavonta.
