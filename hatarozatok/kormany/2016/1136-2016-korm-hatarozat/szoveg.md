@@ -1,0 +1,1 @@
+A Kormány visszavonja a megújuló Károlyi-Csekonics Palotaegyüttesnek a Magyarországi Református Egyház tulajdonába adásáról, valamint az átfogó felújításához kapcsolódó műszaki ellenőri feladatok és egyéb műszaki szolgáltatások meghatározásáról, továbbá az ezek elvégzéséhez szükséges forrás biztosításáról szóló 2033/2015. (XII. 30.) Korm. határozat 5. és 6. pontját.
