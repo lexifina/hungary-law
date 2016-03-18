@@ -1,0 +1,3 @@
+## 1. § A belügyminiszter irányítása alá tartozó rendvédelmi szervek által üzemben tartott szolgálati járművekre, azok forgalomba helyezésére, időszakos vizsgálatára vonatkozó különös szabályokról szóló 58/2015. (X. 27.) BM rendelet (a továbbiakban: R.) 4. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) A hivatásos katasztrófavédelmi szerv által üzemben tartott, Dízel-motoros, tűzoltásra vagy műszaki mentésre alkalmazott gépjármű akkor helyezhető forgalomba, ha megfelel az MR. rendelet 5. számú melléklet „II. A gépjárművek környezetvédelmi osztályba sorolása” pont táblázatában foglalt, legalább a 12. környezetvédelmi osztály jelzés (kód) alapján meghatározott követelményeknek.”
