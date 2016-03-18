@@ -2,7 +2,7 @@
 
 130. § (1) A nyilvános nyílt végű befektetési alapok esetében a kiemelt befektetői információ a befektetési alap alapvető jellemzőit tartalmazza oly módon, hogy a befektetők megismerhessék a befektetési termék jellegét, kockázatait, elősegítve a megalapozott befektetési döntéseik meghozatalát. A kiemelt befektetői információ közzététele során kifejezetten utalni kell arra, hogy az információ kiemelt befektetői információnak minősül. A kiemelt befektetői információ tömören és közérthetően tartalmazza
 
-a) a befektetési alap meghatározását,
+a) a befektetési alapnak, valamint a befektetési alap illetékes felügyeleti hatóságának a megnevezését,
 
 b) a befektetési alap befektetési célkitűzéseinek és befektetési politikájának rövid leírását,
 
@@ -13,6 +13,8 @@ d) a befektetési alap terhére elszámolható költségeket és kapcsolódó d�
 e) a befektetési alap kockázat- és nyereségprofilját, beleértve a megfelelő iránymutatást, illetve figyelmeztetést az adott befektetési alapba történő befektetésekkel kapcsolatos kockázatokra.
 
 (2) A kiemelt befektetői információ hivatkozást nem tartalmazhat, azzal a kivétellel, hogy a kiemelt befektetői információban egyértelműen meg kell határozni, hol lehet további információt kapni a befektetési alapról, hol lehet térítésmentesen hozzájutni a tájékoztatóhoz, az éves és féléves jelentéshez, és ezek milyen nyelven állnak a befektetők rendelkezésére.
+
+(2a) A kiemelt befektetői információhoz ÁÉKBV esetén csatolni kell az 5. melléklet 7.15. pontja szerinti nyilatkozatot is.
 
 (3) A kiemelt befektetői információnak egyértelmű figyelmeztetést kell tartalmaznia arra, hogy kizárólag a kiemelt befektetői információ alapján igény nem érvényesíthető, kivéve, ha az információ félrevezető, pontatlan, vagy nincs összhangban a tájékoztató más részeivel.
 

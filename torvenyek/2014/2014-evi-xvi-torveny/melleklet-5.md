@@ -138,6 +138,12 @@ III. A közreműködő szervezetekre vonatkozó részletes információk
 
 7.12. A befektetéskezelésre igénybe vett vállalkozások megjelölése
 
+7.13. Az ÁÉKBV-alapkezelő javadalmazási politikájának részletes bemutatása (így pl. a javadalmazás és a juttatások kiszámításának módja, a javadalmazás és a juttatások megállapításáért felelős személyek – amennyiben javadalmazási bizottság létezik –, a javadalmazási bizottság tagjainak megnevezése)
+
+7.14. Az ÁÉKBV-alapkezelő javadalmazási politikájának összefoglalása
+
+7.15. Az ÁÉKBV-alapkezelő nyilatkozata, hogy a 7.13. pontban jelzett javadalmazási politika részletes bemutatása egy webhelyen keresztül hozzáférhető (megadva egyúttal a webhelyre mutató hivatkozást), és hogy kérésre nyomtatott formában is rendelkezésre áll.
+
 8. A letétkezelőre vonatkozó információk
 
 8.1. A letétkezelő neve, cégformája

@@ -252,6 +252,8 @@ XI. Közreműködő szervezetekre vonatkozó alapinformációk
 
 A fenti tagolást összevont kezelési szabályzat esetében a 138. §-ban írtakra is tekintettel, értelemszerűen kell alkalmazni.
 
+60. ÁÉKBV esetén a letétkezelő kötelezettségeinek leírása, az esetleges összeférhetetlenségek ismertetése, a letétkezelő által kiszervezett feladatok leírása, valamint nyilatkozat arra vonatkozóan, hogy kérelemre az ÁÉKBV-alapkezelő a befektetők rendelkezésre bocsátja az 53. pontban valamint az e pontban részletezett információkat.
+
 II. FEJEZET
 
 A ZÁRTKÖRŰ BEFEKTETÉSI ALAP KEZELÉSI SZABÁLYZATA

@@ -38,6 +38,8 @@
 
 ## A fentiek elemzése a befektetési alap befektetési politikájának tükrében a legmegfelelőbb szempontok alapján a nettó eszközök százalékos arányában; a fenti befektetések mindegyikénél jelezni kell, hogy milyen részarányt képvisel a befektetési alap összes eszközei viszonylatában. A portfolió összetételében a tárgyidőszakban bekövetkezett változások leírása.
 
+## Az éves jelentésre vonatkozó további információk
+
 ## V. A befektetési alap eszközeinek alakulása a tárgyidőszakban, ideértve az alábbiakat:
 
 ## a) befektetésekből származó jövedelem,
@@ -81,6 +83,18 @@
 ## c) az ABA aktuális kockázati profilja és az ABAK által e kockázatok kezelése érdekében alkalmazott kockázatkezelési rendszerek.
 
 ## XI. A tőkeáttételt alkalmazó uniós ABA-t kezelő, vagy a tőkeáttételt alkalmazó ABA-t az EGT-államokban forgalmazó ABAK által az ABA nevében alkalmazható tőkeáttétel mértékében bekövetkező változások, valamint a biztosíték vagy a tőkeáttételi megállapodás értelmében nyújtott garanciák újbóli felhasználási joga, és az adott ABA által alkalmazott tőkeáttétel teljes összege.
+
+## XII. Az ÁÉKBV-alapkezelő
+
+## a) adott évre vonatkozó javadalmazásának teljes összegét, az alkalmazottak számára kifizetett rögzített és változó javadalmazás szerinti bontásban, a kedvezményezettek számát, és adott esetben a közvetlenül az ÁÉKBV által kifizetett bármely összeget, beleértve a jutalékokat,
+
+## b) adott évre vonatkozó javadalmazásának teljes összegét munkavállalói kategóriánkénti vagy a 13. melléklet 2. pontjában felsorolt egyéb alkalmazotti kategóriánkénti bontásban,
+
+## c) adott évre vonatkozó javadalmazásainak és juttatásainak kiszámítási módját,
+
+## d) javadalmazási politikája – 13. melléklet 1. pont c) és d) alpontja szerinti – felülvizsgálatának eredményét, az előfordult szabálytalanságokat is beleértve,
+
+## e) javadalmazási politikájának érdemi változásait.
 
 7. melléklet a 2014. évi XVI. törvényhez
 

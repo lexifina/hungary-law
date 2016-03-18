@@ -192,7 +192,7 @@ e) természetes személy jogi képviselő esetén, aki lakóhellyel rendelkezik;
 
 a) az ÁÉKBV vonatkozásában:
 
-aa) a Bszt. 5. § (2) bekezdés b) pontjában meghatározott letétkezelési szolgáltatásra vonatkozó engedéllyel rendelkező magyarországi székhelyű befektetési vállalkozás vagy hitelintézet,
+aa) a Bszt. 5. § (2) bekezdés b) pontjában meghatározott letétkezelési szolgáltatásra vonatkozó engedéllyel rendelkező magyarországi székhelyű befektetési vállalkozás vagy hitelintézet, vagy e tevékenység végzésére jogosult más tagállamban székhellyel rendelkező befektetési vállalkozás vagy hitelintézet magyarországi fióktelepe,
 
 ab) olyan vállalkozás, amely az ÁÉKBV-irányelv letétkezelőre vonatkozó szabályainak más EGT-állam jogrendszerébe történő átvétele alapján jogosult letétkezelői feladatokat ellátni,
 
