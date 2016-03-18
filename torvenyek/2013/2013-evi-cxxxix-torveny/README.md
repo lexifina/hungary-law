@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2015-07-07 | 2015. évi LXXXV. törvény | 2013-139-00-00.14 |
 | 2015-11-26 | 2015. évi CLXII. törvény | 2013-139-00-00.15 |
 | 2016-01-01 | 2015. évi CCXV. törvény | 2013-139-00-00.16 |
+| 2016-03-18 | 2015. évi CCXV. törvény | 2013-139-00-00.17 |
