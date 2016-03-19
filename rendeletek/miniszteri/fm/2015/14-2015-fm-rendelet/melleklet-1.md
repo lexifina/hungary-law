@@ -2,4 +2,4 @@
 
 1. melléklet a 14/2015. (III. 31.) FM rendelethez[^3]
 
-[^3]: Az 1. melléklet a 75/2015. (XI. 24.) FM rendelet 5. §-a, 6. § (2) bekezdése, 7. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 75/2015. (XI. 24.) FM rendelet 5. §-a, 6. § (2) bekezdése, 7. §-a, a 10/2016. (II. 17.) FM rendelet 1. §-a szerint módosított szöveg.

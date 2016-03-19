@@ -342,4 +342,6 @@
 
 | 44. |  | A természetes környezet megőrzésére szánt takarmánynövény-vetőmagkeverékek kereskedelmi célú begyűjtésére vonatkozó engedélyezési eljárás. [86/2012. (VIII. 15.) VM rendelet a természetes környezet megőrzésére szánt takarmánynövény-vetőmagkeverékek kereskedelmi célú begyűjtéséről és forgalmazásáról] | 10 000 |
 
+| 45. |  | A genetikai erőforrás vagy genetikai erőforrásokhoz kapcsolódó hagyományos tudáshoz kapcsolódó eljárás [a genetikai erőforrásokhoz való hozzáféréssel és a hasznosításukból származó hasznok igazságos és méltányos megosztásával kapcsolatos nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 3/2016. (I. 20.) Korm. rendelet 6. § (1) bekezdés] | 8000/nyilatkozat |
+
 2. melléklet a 14/2015. (III. 31.) FM rendelethez
