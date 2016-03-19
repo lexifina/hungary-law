@@ -1,0 +1,13 @@
+## 9. § Az R. 11. §-a helyébe a következő rendelkezés lép:
+
+## „11. § (1) Mentes nagylétszámú állományba és mesterséges termékenyítő állomásra létszámtól függetlenül sertést beállítani csak előzetesen elvégzett, hatvan napig tartó karanténozást követően lehetséges. A karanténozás ideje alatt tenyészállatok esetében minden kanból, tenyészkocából és tenyészkocasüldőből szerológiai vizsgálat céljára vért kell venni. Tenyészkanokból az ondó egyedi PCR vizsgálatát is el kell végezni. Ondóvételre még alkalmatlan, fiatal kanok esetében az NRL ajánlása alapján kell megerősítő vizsgálatot végezni a karantén feloldása előtt, az ondó vizsgálatát pedig a kan tenyésztésbe való beállítása előtt kell végezni. Hízóállatok esetében a hatvan napos elkülönítés ideje alatt az állományból szerológiai vizsgálat céljára légterenként 95%-os biztonság és 10%-os előfordulás figyelembevételével kell vért venni.
+
+## (2) Az állatokat az állományba beállítani csak az (1) bekezdés szerinti vizsgálatok negatív eredménye esetén szabad. Amennyiben a vizsgálatok a célállománytól különböző központi karantén telepen kerülnek elvégzésre, vagy az állattartó mentes állományából saját másik mentes állományába szállítja az állatokat, a megyei kormányhivatal erre irányuló kérelem alapján a célállományban a karanténozás és diagnosztikai vizsgálatok elvégzése alól mind tenyész-, mind hízóállatok esetében felmentést adhat.
+
+## (3) A karanténozás ideje alatt elvégzett vizsgálatokkal szeropozitívnak bizonyuló állatok vérvizsgálatát tizennégy nap múlva más típusú szerológiai módszer alkalmazásával meg kell ismételni. Amennyiben az ismétlő vizsgálatok akár csak egy egyed esetében pozitív eredményre vezetnek, a teljes karanténban tartott állomány 30 napon belül kizárólag vágásra értékesítendő és az állattartó állami kártalanításra nem jogosult. A tartó kérésére a megyei kormányhivatal vágás helyett engedélyezheti az állatok fertőzött telepre véghizlalási céllal történő elszállítását.
+
+## (4) Mentes területen lévő piacra, vásárra, valamint mentes területre továbbtartási célra csak mentes településekről vagy mentes nagylétszámú állományból származó sertéseket szabad beszállítani.
+
+## (5) Fertőzött állományból sertés csak az állomány felszámolása keretében, azonnali vágásra szállítható ki, kivéve, ha a szállítás véghízlalási céllal történik a tulajdonos saját telepére vagy a tenyészteleppel szerződésben álló partner telepére. Ezeket a sertéseket a telepről kizárólag vágóhídra lehet továbbszállítani. Fertőzött telepről ettől eltérő céllal sertéseket kihelyezni tilos.
+
+## (6) Gyűjtőállomásra egyidőben csak azonos PRRS-státuszú állományok szállíthatók be.”
