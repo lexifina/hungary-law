@@ -1,11 +1,6 @@
-## 13. §[^3] A mentes, illetve a mentesítés alatt álló terület földrajzi határától számított 15 km-es sávon belülre, valamint mentes nagylétszámú állomány köré vont 15 km-es sugarú körön belülre fertőzött vagy ismeretlen státuszú állományból származó sertés nem szállítható be.
+## 12–13. §[^38]
 
-## 9. Sertés beszállítása harmadik országokból
+## 9. [^39] Az állattartó feladatai
 
-14. § (1) Tenyészsertés és továbbtartásra szánt hízósertés harmadik országokból kizárólag hivatalosan mentes állományból, tizennégy napnál nem régebbi egyedi mentes vizsgálati eredmény birtokában szállítható be Magyarországra.
-
-(2) Az (1) bekezdésben foglaltak szerint Magyarországra szállított állatok esetében a karanténba érkezést követő negyvennyolc órán belül, valamint a karanténozás utolsó hét napja alatt minden egyedből vért kell venni szerológiai vizsgálat céljára. A karantén utolsó hetében a kanoktól egyedi ondómintát is kell venni.
-
-(3) Karanténból sertést kiszállítani csak a karantén leteltét követően, az állományra vonatkozó negatív szerológiai eredmény birtokában lehet. Az esetlegesen szeropozitív állatokat teljeskörű diagnosztikai vizsgálat céljából állami kártalanítás mellett le kell ölni. A diagnosztikai vizsgálatok kedvező eredménye esetén a karantén lejárta után a korlátozások feloldhatók. Amennyiben a diagnosztikai vizsgálatok igazolják a PRRS vírus vagy genomjának jelenlétét, akkor a teljes, karanténban tartott állományt haladéktalanul vágásra kell bocsátani és az állattartó állami kártalanításra nem jogosult.
-
-[^3]: A 13. § a 32/2014. (XII. 9.) FM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^38]: A 12–13. §-át a 16/2016. (III. 11.) FM rendelet 16. § b) pontja hatályon kívül helyezte.
+[^39]: A 9. alcím (14. §) a 16/2016. (III. 11.) FM rendelet 10. §-ával megállapított szöveg.

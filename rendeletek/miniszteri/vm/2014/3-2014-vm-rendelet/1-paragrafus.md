@@ -4,7 +4,7 @@
 
 a) kislétszámú állomány: legfeljebb száz sertésből álló állomány;
 
-b) mentesítés alá vont terület: a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által meghatározott kiterjedésű terület, amelyen a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) rendelkezései alapján mentesítés zajlik;
+b)[^1] mentesítés alá vont terület: a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által meghatározott kiterjedésű terület, amelyen az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) rendelkezései alapján mentesítés zajlik;
 
 c) nagylétszámú állomány: több mint száz sertésből álló állomány;
 
@@ -14,6 +14,12 @@ e) sertés-tenyészállomány: az a sertésállomány, amelyben szaporítás cé
 
 f) tenyészkan: hat hónaposnál idősebb, az állattenyésztési jogszabályok szerint tenyésztési célra kiválasztott, hímivarú sertés;
 
-g) tenyészkoca: hat hónaposnál idősebb, az állattenyésztési jogszabályok szerint tenyésztési célra kiválasztott, már legalább egyszer fialt nőivarú sertés;
+g)[^2] tenyészkoca: az állattenyésztési jogszabályok szerint tenyésztési célra kiválasztott, már legalább egyszer fialt nőivarú sertés;
 
-h) tenyészkocasüldő: hat hónaposnál idősebb, az állattenyésztési jogszabályok szerint tenyésztési célra kiválasztott, még egyszer sem fialt, nőivarú sertés.
+h) tenyészkocasüldő: hat hónaposnál idősebb, az állattenyésztési jogszabályok szerint tenyésztési célra kiválasztott, még egyszer sem fialt, nőivarú sertés;
+
+i)[^3] mentes terület: a NÉBIH határozatával mentesnek minősített egy vagy több járás vagy megye.
+
+[^1]: Az 1. § b) pontja a 16/2016. (III. 11.) FM rendelet 15. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § g) pontja a 16/2016. (III. 11.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § i) pontját a 16/2016. (III. 11.) FM rendelet 1. § (2) bekezdése iktatta be.

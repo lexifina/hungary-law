@@ -1,6 +1,6 @@
-## 12. A járási állategészségügyi hivatal feladatai
+## 12. [^40] A járási hivatal feladatai
 
-## 17. § A járási állategészségügyi hivatal köteles:
+## 17. §[^41] A járási hivatal köteles:
 
 a) az állományok minősítését határozatban kiadni;
 
@@ -20,4 +20,8 @@ cb) az állomány mentesítését vagy felszámolását elrendelni és az állam
 
 cc) a hatósági állatorvos útján intézkedni annak érdekében, hogy mindazon sertéstartó helyek, amelyek a helyi zárlat alatt álló állománnyal élőállat, sertéstermék vagy ragályfogó tárgyak útján kapcsolatba kerültek, megfigyelési zárlat alá kerüljenek;
 
-cd) az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot a megtett intézkedésekről tájékoztatni.
+cd)[^42] a megyei kormányhivatalt a megtett intézkedésekről tájékoztatni.
+
+[^40]: A 12. alcím címe a 16/2016. (III. 11.) FM rendelet 15. § 3. pontja szerint módosított szöveg.
+[^41]: A 17. § nyitó szövegrésze a 16/2016. (III. 11.) FM rendelet 15. § 3. pontja szerint módosított szöveg.
+[^42]: A 17. § c) pont cd) alpontja a 16/2016. (III. 11.) FM rendelet 15. § 10. pontja szerint módosított szöveg.

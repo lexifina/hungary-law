@@ -6,12 +6,17 @@ b) amelyből a PRRS vírusa vagy annak genomja kimutatható;
 
 c) amely a betegségre gyanút keltő tüneteket mutat, és olyan sertés-tenyészállományban vagy önálló árutermelő hízóállományban (a továbbiakban együtt: állomány) tartják, amelyben a fertőzöttséget hatóságilag megállapították;
 
-d) amely szeropozitív, nem vakcinázott és a szeropozitivitást más szerológiai módszerrel is megerősítették.
+d)[^4] amely két különböző szerológiai vizsgálattal pozitívnak bizonyult.
 
-(2) PRRS fertőzöttségére nézve gyanús az a sertés,
+(2)[^5] PRRS fertőzöttségére nézve gyanús az a sertés,
 
-a) amelynek klinikai tünetei vagy kórbonctani elváltozásai a PRRS-re utalnak és a laboratóriumi vizsgálatok a betegség jelenlétét még nem igazolták;
+a) amelynek klinikai tünetei vagy kórbonctani elváltozásai a PRRS-re utalnak és a laboratóriumi vizsgálatok a betegség jelenlétét még nem igazolták vagy zárták ki;
 
-b) amelyet a megelőző hatvan napon belül fertőzött sertéssel együtt tartottak, vagy fertőzött sertéstől származó ondóval termékenyítettek.
+b) amely a szerológiai vizsgálat során pozitív vagy kétes eredményt ad és a további vizsgálatok a fertőzöttséget még nem erősítették meg, illetve zárták ki;
+
+c) amelyet a megelőző hatvan napon belül fertőzött sertéssel együtt tartottak, vagy fertőzött sertéstől származó ondóval termékenyítettek.
 
 (3) A PRRS bejelentési kötelezettség alá tartozó állatbetegség. A betegség vagy annak gyanújának észlelése esetén az állatbetegségek bejelentésének rendjéről szóló miniszteri rendelet előírásait is alkalmazni kell.
+
+[^4]: A 2. § (1) bekezdés d) pontja a 16/2016. (III. 11.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdése a 16/2016. (III. 11.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
