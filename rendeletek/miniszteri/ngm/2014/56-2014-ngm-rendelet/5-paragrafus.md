@@ -1,4 +1,4 @@
-5. § (1) A hitelező és a hitelközvetítő szóbeli tájékoztatásának arra is ki kell térnie, hogy a fogyasztónak a hitelszerződés megkötésekor felelősen kell eljárnia, felelős döntést kell hoznia.
+5. § (1)[^7] A hitelező és a hitelközvetítő szóbeli vagy elektronikus úton történő tájékoztatásnak arra is ki kell térnie, hogy a fogyasztónak a hitelszerződés megkötésekor felelősen kell eljárnia, felelős döntést kell hoznia.
 
 (2) Az (1) bekezdésben meghatározottak érdekében a hitelezőnek és a hitelközvetítőnek fel kell hívnia a figyelmet arra, hogy
 
@@ -13,3 +13,5 @@ d) a lejárt tartozás esetén a szerződésben meghatározott késedelmi kamat 
 e) a nem szerződésszerű teljesítés esetén a hitelező a hitelszerződést azonnali hatállyal felmondhatja, amellyel a teljes tartozás lejárttá és egy összegben esedékessé válik, valamint a hitelező a tartozás meg nem fizetése esetén a biztosítékok érvényesítésére jogosult,
 
 f) a hitelező által felmondott hitelszerződésből eredő tartozások érvényesítésének költségei is a fogyasztót terhelik, valamint – ha a biztosíték nem elegendő a tartozás rendezésére – a fogyasztó jövedelmére, más vagyontárgyára is végrehajtás foganatosítható.
+
+[^7]: Az 5. § (1) bekezdése a 4/2016. (I. 7.) NGM rendelet 6. § c) pontja szerint módosított szöveg.
