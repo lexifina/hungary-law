@@ -1,12 +1,12 @@
 ## 4. A kereskedelmi kommunikációra vonatkozó szabályok
 
-9. § (1) Ha a kereskedelmi kommunikációban szerepel a THM, annak értékét az alábbi feltételekkel nyújtott, egyenletes törlesztésű hitelre kell meghatározni:
+9. § (1)[^30] A kereskedelmi kommunikációban a THM-et legalább olyan feltűnően kell szerepeltetni, mint a kamatot és értékét az alábbi feltételekkel nyújtott, egyenletes törlesztésű hitelre kell meghatározni:
 
 a) a lakás-takarékpénztár által nyújtott hitelnél a hitel összege 1 millió forint, futamideje 5 év,
 
 b) más hitelező által nyújtott jelzáloghitelnél a hitel összege 5 millió forint, futamideje 20 év,
 
-c)[^17] hitelkártya és fizetési számlához kapcsolódó hitel esetén a hitel összege 375 000 forint,
+c) hitelkártya és fizetési számlához kapcsolódó hitel esetén a hitel összege 375 000 forint,
 
 d) 1 millió forintos összeghatárig nyújtott – az a)–c) pontba nem tartozó – hitelnél a hitel összege 500 000 forint, futamideje 3 év,
 
@@ -18,4 +18,4 @@ e) 1 millió forint feletti – az a)–c) pontba nem tartozó – hitelnél a h
 
 (4) Az (1) bekezdés alkalmazásában egyenletes törlesztésű hitel az a legfeljebb 6 hónapos türelmi idejű hitel, amelynek visszafizetése havonta, azonos összegű törlesztéssel történik. Azonos összegű törlesztés alatt értendő minden olyan kölcsöntörlesztés, amely esetében a tőketörlesztési időszakban a tőketörlesztés és a kamat forintban vagy devizában meghatározott együttes összege állandó.
 
-[^17]: A 9. § (1) bekezdés c) pontja a 337/2012. (XII. 4.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^30]: A 9. § (1) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

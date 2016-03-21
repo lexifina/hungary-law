@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 83/2010. (III. 25.) Korm. rendelethez
+1. melléklet a 83/2010. (III. 25.) Korm. rendelethez[^34]
 
 A THM kiszámítására vonatkozóan a következő képletet kell alkalmazni:
 
@@ -23,3 +23,9 @@ sl: az első hitelfolyósítás időpontja és minden egyes törlesztőrészlet 
 években és töredékévekben kifejezve,
 
 X: a THM értéke.
+
+2. Az egyenlet átírható egy egységes összeg és a pénzáramlás fogalmának felhasználásával (Ak), amely lehet pozitív vagy negatív, más szóval megfizetett vagy megkapott az 1 és n közötti, években kifejezett időszak során, azaz:
+
+ahol „S” a pénzáramlás jelenlegi egyenlege. A kétirányú pénzáramlás egyenlősége esetén ennek értéke nulla.
+
+[^34]: Az 1. melléklet a 468/2015. (XII. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.
