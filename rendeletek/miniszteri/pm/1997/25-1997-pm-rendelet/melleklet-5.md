@@ -66,6 +66,6 @@
 
 ## 5. az ingatlant bemutató külső és belső fotók.
 
-5. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^12]
+5. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^20]
 
-[^12]: Az 5. számú mellékletet a 26/2005. (VIII. 11.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte.
+[^20]: Az 5. számú mellékletet a 26/2005. (VIII. 11.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte.
