@@ -9,3 +9,9 @@
 (5) Az egyes pénzügyi tárgyú törvényeknek a betétbiztosítást, valamint a pénzügyi közvetítőrendszert érintő módosításáról szóló 2014. évi CIV. törvény 75. §-ával megállapított 214. § (9)–(10) bekezdését a hitelintézetek hatálybalépését követő egyesülése vagy fiókteleppé alakulása, valamint a hatálybalépését követő betétállomány átruházás esetén kell alkalmazni.
 
 (6) Az egyes pénzügyi tárgyú törvényeknek a betétbiztosítást, valamint a pénzügyi közvetítőrendszert érintő módosításáról szóló 2014. évi CIV. törvény 87. § (2) bekezdésében megállapított 272. § (3) bekezdésében foglaltaknak a 2015. július 3-án már fennálló betétszerződés, betét elhelyezését lehetővé tevő szerződés vagy keretszerződés esetén a hitelintézet a 275. § (6) bekezdésben meghatározott, 2015. július 3-át követő első éves tájékoztatási kötelezettsége teljesítésével tesz eleget azzal, hogy ebben az esetben nem szükséges, hogy a betétes a 6. melléklet szerinti tájékoztatás megtörténtét aláírásával igazolja.
+
+(7) A jelzáloghitel közvetítői tevékenységet 2016. március 21-én
+
+a) a Felügyelet felé történő bejelentéssel végző közvetítő ezen tevékenységét a Felügyelet engedélye nélkül 2017. március 21-ig folytathatja,
+
+b) a Felügyelet engedélyével végző közvetítő legkésőbb 2017. március 21-ig végezheti ezen tevékenységét a 2016. március 20. napján hatályos engedélyezési feltételekkel.

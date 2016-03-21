@@ -6,7 +6,7 @@
 
 (3) A pénzügyi intézmény, ha törvény másként nem rendelkezik, pénzügyi szolgáltatáson kívül üzletszerűen kizárólag:
 
-a) a 3. § (2) bekezdés a)–d) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységet,
+a) a 3. § (2) bekezdés a)–d) és f) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységet,
 
 b) a biztosítási tevékenységről szóló törvényben foglalt feltételekkel biztosításközvetítői tevékenységet,
 

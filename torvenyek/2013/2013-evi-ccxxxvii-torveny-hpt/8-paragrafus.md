@@ -20,6 +20,6 @@ b) pénzváltási tevékenység végzésére.
 
 (8) A hitelszövetkezet a (6) bekezdésben meghatározott tevékenységeket – a pénzváltás kivételével – csak saját tagjai körében végezheti.
 
-(9) Harmadik országbeli hitelintézet fióktelepe útján a 3. § (1) bekezdésében, illetve a 3. § (2) bekezdés a)–d) pontjában meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti illetékes felügyeleti hatóságtól engedéllyel rendelkezik.
+(9) Harmadik országbeli hitelintézet fióktelepe útján a 3. § (1) bekezdésében, illetve a 3. § (2) bekezdés a)–d) és f) pontjában meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti illetékes felügyeleti hatóságtól engedéllyel rendelkezik.
 
 (10) Hitelintézet nyilvános forrásgyűjtés céljából – betét elfogadásán kívül – kizárólag kötvényt és letéti jegyet bocsáthat ki.

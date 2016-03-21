@@ -70,7 +70,7 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 30. forgatható utalvány kibocsátására irányuló tevékenység: pénzeszköz ellenében a forgatható utalványnak az utalványkibocsátó által közvetlenül vagy utalványforgalmazó útján az utalványbirtokos rendelkezésére bocsátása;
 
-31. főiroda: az a hely, ahol a pénzügyi intézmény főtevékenységét végzi, és ahol a központi döntéshozatal történik;
+31. főiroda: az a hely, ahol a pénzügyi intézmény, illetve a közvetítő főtevékenységét végzi, és ahol a központi döntéshozatal történik;
 
 32. globálisan rendszerszinten jelentős hitelintézet: olyan rendszerszinten jelentős hitelintézet, amelynek fizetésképtelenné válása vagy nem prudens működése globális szintű rendszerkockázathoz vezethet és amelynek nincs
 
@@ -90,7 +90,7 @@ c) EU-szintű vegyes pénzügyi holding társaság anyavállalata;
 
 37. harmadik országbeli pénzügyi vállalkozás: az a pénzügyi vállalkozás, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik egy vagy több olyan tevékenység végzésére, amelyek megfeleltethetők a 3. § (1) bekezdés b)–c) és g)–l) pontjában, valamint a (2) bekezdés a)–d) pontjában foglaltaknak, és amelynek székhelye harmadik országban van;
 
-38. határon átnyúló szolgáltatás: olyan pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása, amikor a szolgáltatás nyújtása nem a szolgáltatást nyújtó pénzügyi intézmény székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, lakóhelye (lakcíme) sem abban az országban van, amelyben a szolgáltatást nyújtó pénzügyi intézmény székhelye, telephelye, főirodája, fióktelepe;
+38. határon átnyúló szolgáltatás: olyan pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása, amikor a szolgáltatás nyújtása nem a szolgáltatást nyújtó székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, lakóhelye (lakcíme) sem abban az országban van, amelyben a szolgáltatást nyújtó székhelye, telephelye, főirodája, fióktelepe;
 
 39. helyreállítási terv: olyan terv, amelyben foglalt a hitelintézet által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a hitelintézet pénzügyi helyzetének stabilizálódását;
 
@@ -120,6 +120,8 @@ a) banktitkot nem sértő bankinformáció díjazás ellenében történő nyúj
 
 b) a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszert kezelő pénzügyi vállalkozás által történő adatkezelés;
 
+42a. hiteltanácsadás: a jelzáloghitelhez vagy a fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízinghez kapcsolódó – a hitel és pénzkölcsön, valamint pénzügyi lízing nyújtásától, továbbá a pénzügyi szolgáltatás közvetítésétől elkülönülő – személyre szabott ajánlások adása;
+
 43. illetékes felügyeleti hatóság: az 575/2013/EU rendeletben illetékes hatóságként meghatározott fogalom;
 
 44. induló tőke: a jegyzett tőke – ide nem értve az osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító jegyzett és befizetett részvények névértékét –, a tőketartalék és az eredménytartalék összege; az alapítványi formában működő pénzügyi vállalkozás esetén az alapítvány létesítéséhez az alapító által tartósan, korlátlanul, tehermentesen az alapítványi cél megvalósítása érdekében az alapítvány rendelkezésére bocsátott tőke;
@@ -136,7 +138,7 @@ b) a központi hitelinformációs rendszerről szóló törvényben meghatározo
 
 50. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön;
 
-51. jó üzleti hírnév: a pénzügyi intézmény és a vegyes pénzügyi holding társaság vezetőinek, befolyásoló részesedéssel rendelkező tagjainak a pénzügyi intézmény és a vegyes pénzügyi holding társaság irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
+51. jó üzleti hírnév: a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő vezetőinek, befolyásoló részesedéssel rendelkező tagjainak a pénzügyi intézmény, a vegyes pénzügyi holding társaság, illetve a közvetítő irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte;
 
 52. kamat: az adós által a kölcsönnyújtónak (betételhelyezőnek) az elfogadott betét vagy az igénybe vett kölcsön használatáért, kockázatáért fizetendő, a betét- vagy kölcsönösszeg százalékában meghatározott, időarányosan térítendő (elszámolandó) pénzösszeg vagy egyéb hozadék;
 
@@ -189,6 +191,8 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 65. központi szerződő fél: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 66. közvetett tulajdon: egy vállalkozás tulajdoni hányadának, vagy szavazati jogának a vállalkozásban tulajdoni részesedéssel vagy szavazati joggal rendelkező más vállalkozás (a 3. melléklet alkalmazásában: köztes vállalkozás) tulajdoni hányadán vagy szavazati jogán keresztül történő birtoklása vagy gyakorlása;
+
+66a. közvetítői alvállalkozó: közvetítővel pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, egyéni cég és egyéni vállalkozó;
 
 67. közvetítői díj: minden olyan pénzben vagy természetben juttatott térítés, amelyet a közvetítő akár az ügyféltől, akár a pénzügyi szolgáltatást nyújtó személytől az ügyfél és a pénzügyi szolgáltatást nyújtó személy között létrejött pénzügyi szolgáltatásra vonatkozó megállapodás érvényes létrejöttéért és meghatározott esetekben annak teljesítéséért, illetve meghatározott időtartamig történő fennállásáért kap;
 
@@ -271,6 +275,8 @@ b) ügynöki tevékenység: pénzügyi intézménnyel kötött megbízási szerz
 c) pénzforgalmi közvetítői tevékenység: az egyes fizetési szolgáltatókról szóló törvényben meghatározott tevékenység;
 
 d) alkuszi tevékenység: pénzügyi szolgáltatást igénybe venni szándékozó ügyféllel kötött megbízási szerződés alapján és nevében pénzügyi intézménnyel történő pénzügyi szolgáltatási szerződés kiválasztására, megkötésének elősegítésére irányuló tevékenység, amely nem terjed ki az ügyfél nevében, javára történő kockázatvállalásra;
+
+e) jelzáloghitel közvetítői tevékenység: az a), b) vagy d) pontban foglalt tevékenységnek a jelzáloghitelhez vagy a fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízinghez kapcsolódó végzése;
 
 91. pénzügyi ügynöki tevékenység bankközi piacon: bankközi piaci résztvevők közötti forint-, illetve devizahitel- és betétügylet, deviza-adásvétel közvetítése annak érdekében, hogy a hitelintézetek, továbbá más bankközi piaci résztvevők az erre irányuló jogügyleteket egymással közvetlenül megkössék;
 
@@ -362,7 +368,9 @@ d) fióktelep esetén a fióktelep vezetésére a külföldi pénzügyi intézm�
 
 e) az alapítványi formában működő pénzügyi vállalkozás esetén a kuratórium tagja, a felügyelő bizottság elnöke, valamint az ügyvezető, valamint
 
-f) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese;
+f) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese,
+
+g) jelzáloghitel közvetítői tevékenységet végző közvetítő esetén az irányítási jogkörrel rendelkező vezető testület tagja, a pénzügyi szolgáltatás közvetítésének irányítását végző személy és valamennyi helyettese,
 
 123. vezető testület: a pénzügyi intézmény igazgatósága és felügyelő bizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő pénzügyi intézmény vezető állású személyeit is.
 

@@ -6,22 +6,24 @@ b) a tevékenység végzésének helye,
 
 c) a tevékenység engedélyezésének, bejelentéshez kötött tevékenység esetén a bejelentés időpontja,
 
-d) az az adat, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, többes kiemelt közvetítő, többes ügynök, alkusz vagy közvetítői alvállalkozó,
+d) az az adat, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, többes kiemelt közvetítő, többes ügynök, alkusz vagy közvetítői alvállalkozó, illetve az az adat, hogy a közvetítő jelzáloghitel közvetítői tevékenységet végez, a közvetítői alvállalkozó jelzáloghitel közvetítői tevékenységet végző közvetítő alvállalkozója;
 
-e) a közvetítőt megbízó pénzügyi intézmény neve,
+e) a közvetítőt megbízó pénzügyi intézmény, illetve a közvetítői alvállalkozót megbízó közvetítő neve,
 
 f) a közvetített szolgáltatás típusa,
 
 g) a közvetítői alvállalkozó esetén a közvetítő neve,
 
-h) a független közvetítőnél vezető állású személynek
+h) a független közvetítőnél, jelzáloghitel közvetítői tevékenységet végző függő közvetítőnél vezető állású személynek
 
 ha) a tisztsége,
 
 hb) a 2. mellékletben meghatározott azonosító adatai közül a vezető állású személy neve, születési helye, ideje és anyja neve,
 
-i) a 288. § (15) bekezdésben meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó azonosító adatai közül a neve, postai és elektronikus elérhetősége.
+i) a 288. § (15) bekezdésben meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó azonosító adatai közül a neve, postai és elektronikus elérhetősége,
+
+j) azon EGT-államok, amelyben a jelzáloghitel közvetítői tevékenységet végző fióktelepet létesített vagy határon átnyúló szolgáltatást végez.
 
 (2) A Felügyelet az (1) bekezdésben meghatározott adatok változását az adatváltozás bejelentését követően haladéktalanul átvezeti a nyilvántartáson.
 
-(3) Az (1) bekezdés a)–g) pontja szerinti adatot, továbbá a vezető állású személy (1) bekezdés h) pont ha) alpontja szerinti adatait a Felügyelet a honlapján bárki számára elérhetően, napra készen közzéteszi.
+(3) Az (1) bekezdés a)–g) és j) pontja szerinti adatot, továbbá a vezető állású személy (1) bekezdés h) pont ha) alpontja szerinti adatait és hb) alpontban foglalt adatok közül a nevét a Felügyelet a honlapján bárki számára elérhetően, napra készen közzéteszi.

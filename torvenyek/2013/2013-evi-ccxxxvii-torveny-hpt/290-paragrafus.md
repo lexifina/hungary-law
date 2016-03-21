@@ -10,7 +10,7 @@ c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározot
 
 d) a hitelintézet nyilvánosságra hozatali követelményeinek teljesítésére,
 
-e) a független közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
+e) a független közvetítők, valamint a jelzáloghitel közvetítői tevékenységet végző függő közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
 
 f) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
 
@@ -37,6 +37,8 @@ f) a deviza nyitott pozícióra,
 g) a banki értékesítői, az értékpapír értékesítői, a szakképesített banktisztviselői és a befektetési tanácsadói képesítés szakmai és vizsgakövetelményeire
 
 vonatkozó részletes szabályokat.
+
+(2a) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg a termőföld hitelbiztosítéki értéke meghatározásának módszertani elveit.
 
 (3) Felhatalmazást kap az MNB elnöke arra, hogy rendeletben állapítsa meg a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.
 

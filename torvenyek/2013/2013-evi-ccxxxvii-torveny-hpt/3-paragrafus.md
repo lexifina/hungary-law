@@ -36,7 +36,9 @@ c) pénzfeldolgozási tevékenység;
 
 d) pénzügyi ügynöki tevékenység a bankközi piacon;
 
-e) forgatható utalvány kibocsátására irányuló tevékenység.
+e) forgatható utalvány kibocsátására irányuló tevékenység;
+
+f) hitel-tanácsadási tevékenység.
 
 (3) Ha törvény másként nem rendelkezik, kizárólag a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB-nek (a továbbiakban: Felügyelet) az e törvény alapján kiadott engedélyével végezhető az (1) és (2) bekezdésben meghatározott pénzügyi szolgáltatás, valamint kiegészítő pénzügyi szolgáltatás.
 
