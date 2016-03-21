@@ -1,5 +1,5 @@
-## 5–7. §
+## 7. § Az R1. 3. § (3) bekezdésében a „kézhez kapják” szövegrész helyébe az „írásban vagy elektronikus úton kézhez kapják” szöveg lép.
 
-## 5.[^5]
+## 5. A teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló
 
-[^5]: Az 5. alcím a 28. § (3) bekezdése alapján 2016. március 21-én lép hatályba.
+## 83/2010. (III. 25.) Korm. rendelet módosítása
