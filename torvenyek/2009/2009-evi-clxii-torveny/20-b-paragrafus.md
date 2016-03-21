@@ -3,3 +3,5 @@
 (2) A hitelező a hitelszerződés felmondását a fogyasztónak, a kezesnek és a személyes adósnak nem minősülő zálogkötelezettnek megküldi, ennek igazolása a hitelezőt terheli.
 
 (3) Jelzáloghitel-szerződés felmondását megelőzően a hitelező az (1) bekezdésben meghatározott írásbeli fizetési felszólítással és tájékoztatással egyidejűleg köteles a fogyasztónak bemutatni a fogyasztó által a szerződés megkötésétől kezdődően – egyes évekre összesítve, de a fogyasztó külön kérésére havi bontásban is – teljesített törlesztő részletek, a visszafizetett tőkeösszeg, az elszámolt kamat, késedelmi kamat és egyéb költségek, továbbá a tőkésített kamat és a fennálló tartozás alakulását.
+
+(4) Jelzáloghitel fedezetéül szolgáló ingatlanra történő végrehajtás elkerülése érdekében a hitelező belső szabályzatában rögzíti a szükséges intézkedéseket, így különösen a fogyasztó megkeresését és a késedelmes tartozás kiegyenlítésének végrehajtási eljáráson kívüli rendezésének megkísérlését.

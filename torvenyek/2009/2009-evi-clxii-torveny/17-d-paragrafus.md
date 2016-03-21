@@ -15,3 +15,5 @@ alkalmazásával számított mértékig módosíthatja.
 (5) A kamatváltoztatási, kamatfelár-változtatási mutatót vagy referencia-kamatlábat az alkalmazásának feltételeivel együtt, közérthető magyarázattal ellátva kell bejelenteni, és annak közzétételéről is ilyen módon kell gondoskodni.
 
 (6) Az alkalmazni kívánt kamatváltoztatási, kamatfelár-változtatási mutatót vagy referencia-kamatlábat a hitelszerződésben kell meghatározni és az – ideértve annak bármely összetevőjét is – a kamatperiódust követően sem módosítható egyoldalúan. Abban az esetben azonban, ha a kamatváltoztatási, kamatfelár-változtatási mutató vagy referencia-kamatláb a kialakítását meghatározó körülményekben bekövetkezett lényeges változás miatt a rendeltetésére alkalmatlanná vált, a Magyar Nemzeti Bank azt a honlapjáról törli és egyidejűleg megjelöli az azt helyettesítő kamatváltoztatási, kamatfelár-változtatási mutatót vagy referencia-kamatlábat.
+
+(7) A hitelező nyilvántartja és honlapján elérhetővé teszi a kamat kiszámításához általa felhasznált referencia-kamatláb, kamatváltoztatási és kamatfelár-változtatási mutatók korábbi adatait, valamint alkalmazásának időszakát.

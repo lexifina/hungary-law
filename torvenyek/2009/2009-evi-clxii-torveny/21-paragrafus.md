@@ -10,4 +10,4 @@
 
 (5) A fogyasztó elállása esetén a hitelező a (4) bekezdés szerinti összegen kívül kizárólag arra az összegre jogosult, amelyet az államnak vagy önkormányzatnak a hitellel kapcsolatosan megfizetett, ha annak visszatérítésére nincs mód.
 
-(6) A fogyasztó elállási jogának gyakorlása azt a hitelhez kapcsolódó járulékos szolgáltatásra vonatkozó szerződést is felbontja, amely a hitelező által vagy egy harmadik fél és a hitelező előzetes megállapodása alapján a harmadik fél által nyújtott szolgáltatásra vonatkozik.
+(6) A fogyasztó elállási jogának gyakorlása azt a hitelhez kapcsolódó szolgáltatásra vonatkozó szerződést is felbontja, amely a hitelező által vagy egy harmadik fél és a hitelező előzetes megállapodása alapján a harmadik fél által nyújtott szolgáltatásra vonatkozik.

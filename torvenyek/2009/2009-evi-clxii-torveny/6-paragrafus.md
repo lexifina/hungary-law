@@ -26,7 +26,7 @@
 
 13. adott esetben a közjegyzői díjról,
 
-14. a hitelhez kapcsolódó olyan járulékos szolgáltatásokról (például biztosítás), amely a hitelszerződés megkötéséhez vagy a hitelező ajánlata szerinti megkötéséhez szükséges,
+14. a hitelhez kapcsolódó olyan szolgáltatásokról (például biztosítás), amely a hitelszerződés megkötéséhez vagy a hitelező ajánlata szerinti megkötéséhez szükséges,
 
 15. a késedelmi kamatról vagy az egyéb olyan fizetési kötelezettségről, amely a szerződésben vállalt kötelezettség nem teljesítéséből származik,
 

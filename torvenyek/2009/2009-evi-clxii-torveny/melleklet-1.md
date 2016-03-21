@@ -4,7 +4,7 @@
 
 |
 
-1. Hitelező/hitelközvetítő adatai
+1. Hitelező/hitelközvetítő adatai
 
 |
 
@@ -104,7 +104,7 @@ internet címe*
 
 |
 
-* jelölt mezők kitöltése nem kötelező
+* jelölt mezők kitöltése nem kötelező
 
 |
 
@@ -118,7 +118,7 @@ A [...]-ban található szöveg helyébe a vonatkozó adatokat szükséges beír
 
 |
 
-2. A hitel lényeges jellemzőinek ismertetése
+2. A hitel lényeges jellemzőinek ismertetése
 
 |
 
@@ -236,9 +236,9 @@ a hitel teljes díjának aránya a hitel teljes összegéhez éves százalékáb
 
 hitelszerződés megkötéséhez szükséges
 
-– biztosítási vagy
+– biztosítási vagy
 
-– egyéb járulékos szolgáltatási szerződés fennállása ha a hitelező e szolgáltatások ellenszolgáltatását nem ismeri, azok a THM-ben nem szerepelnek
+– egyéb kapcsolódó szolgáltatási szerződés fennállása ha a hitelező e szolgáltatások ellenszolgáltatását nem ismeri, azok a THM-ben nem szerepelnek
 
 |
 

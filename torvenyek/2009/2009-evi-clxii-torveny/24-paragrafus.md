@@ -1,4 +1,4 @@
-24. § (1) A hitelező jogosult az előtörlesztéshez közvetlenül kapcsolódó, esetleges, méltányos és objektíve indokolt költségeinek megtérítésére, ha az előtörlesztés olyan időszakra esik, amikor a hitelkamat rögzített.
+24. § (1) A hitelező jogosult az előtörlesztéshez közvetlenül kapcsolódó, esetlegesen felmerült méltányos és objektíven indokolható költségeinek megtérítésére, ha az előtörlesztés olyan időszakra esik, amikor a hitelkamat rögzített.
 
 (2) Az (1) bekezdésben meghatározott költségek mértéke nem haladhatja meg az előtörlesztett összeg egy százalékát, ha az előtörlesztés időpontja és a hitel hitelszerződés szerinti lejáratának időpontja közötti időtartam meghaladja az egy évet.
 

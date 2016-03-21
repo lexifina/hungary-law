@@ -1,8 +1,8 @@
 ## A hitel költségeinek módosítására vonatkozó tájékoztatási kötelezettség
 
-18. § (1) A hitel kamatfeltételeinek módosítása esetén a hitelező – a (3) és (4) bekezdés szerinti kivétellel – a kamatperiódus lejártát megelőző legalább 90 nappal köteles tájékoztatni a fogyasztót
+18. § (1) A hitel kamatfeltételeinek módosítása esetén a hitelező – a (3) és (4) bekezdésben meghatározott kivétellel – a kamatperiódus lejártát megelőző legalább 90 nappal köteles papíron vagy más tartós adathordozón tájékoztatni a fogyasztót
 
-a) az új kamatperiódusban alkalmazott kamat vagy kamatfelár mértékéről,
+a) az új kamatperiódusban alkalmazott kamat vagy kamatfelár mértékéről, valamint
 
 b) a módosítást követően fizetendő törlesztőrészletek várható összegéről, és ha ennek kapcsán a törlesztőrészletek száma vagy a törlesztés gyakorisága változik, ennek tényéről.
 
@@ -11,6 +11,8 @@ b) a módosítást követően fizetendő törlesztőrészletek várható összeg
 (3) Állami kamattámogatással nyújtott hitel esetén a hitelkamatot, díjat vagy költséget érintő módosítást a módosítás hatálybalépését megelőzően legalább 15 nappal hirdetményben kell közzétenni.
 
 (4) A referencia-kamatlábhoz kötött hitelkamat esetén a felek az (1) bekezdéstől eltérően a hitelszerződésben megállapodhatnak arról, hogy a hitelező a fogyasztót rendszeresen a honlapján és az ügyfelek számára nyitva álló helyiségében kifüggesztve tájékoztatja a referencia-kamatláb változásáról.
+
+(4a) Jelzáloghitel és ingatlanra vonatkozó pénzügyi lízing esetén a hitelező a referencia-kamatláb változásakor az új törlesztőrészlet összegéről a fogyasztó részére papíron vagy más tartós adathordozón tájékoztatást ad.
 
 (5) Ha a hitelszerződés elektronikus okirati formában kerül megkötésre, akkor
 

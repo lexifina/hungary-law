@@ -46,7 +46,9 @@
 
 23. rendelkezésre áll-e a fogyasztó számára a szerződésből eredő jogviták peren kívüli rendezésére olyan lehetőség, amelynek a hitelező aláveti magát, valamint
 
-24. a felügyeleti hatóság nevét és székhelyét.
+24. a felügyeleti hatóság nevét és székhelyét, valamint
+
+25. ha a jelzáloghitel-szerződés alapján fennálló tartozás idegen pénznemben áll fenn, az átváltás lehetőségét vagy az árfolyamkockázatot korlátozó eszközöket.
 
 (2) Ha az (1) bekezdés 7. pontja szerinti egyes hitelkamatok alkalmazásának feltételei eltérnek egymástól, a hitelkamat módosításának gyakoriságára, feltételeire és eljárási szabályaira vonatkozó tájékoztatást valamennyi hitelkamat tekintetében meg kell adni.
 
