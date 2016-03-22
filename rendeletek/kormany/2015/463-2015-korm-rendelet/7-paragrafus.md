@@ -2,4 +2,6 @@
 
 7. § (1) Ez a rendelet 2016. március 21-én lép hatályba.
 
-(2) Hatályát veszti a független pénzügyi szolgáltatás közvetítői felelősségbiztosítási szerződés tartalmi követelményeiről szóló 81/2010. (III. 25.) Korm. rendelet.
+(2)[^1]
+
+[^1]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
