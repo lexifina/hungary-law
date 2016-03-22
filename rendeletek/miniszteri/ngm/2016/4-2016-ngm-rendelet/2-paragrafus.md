@@ -1,3 +1,0 @@
-## 1. § A termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló 25/1997. (VIII. 1.) PM rendelet (a továbbiakban: PM rendelet) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § A hitelezőnek a jelzáloghitel, az ingatlanra vonatkozó pénzügyi lízing, illetve a kezesség és bankgarancia, valamint az egyéb bankári kötelezettségvállalás fedezetéül felajánlott, termőföldnek nem minősülő ingatlanok értékét az e rendeletben, illetőleg e rendelet alapján készített hitelbiztosítéki érték-megállapítási szabályzatban (a továbbiakban: Szabályzat) meghatározottak szerint kell megállapítania.”
