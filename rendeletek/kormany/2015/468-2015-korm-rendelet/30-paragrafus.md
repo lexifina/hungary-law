@@ -6,6 +6,6 @@ a) az „e rendeletben meghatározott” szövegrész helyett az „e rendeletbe
 
 b) a „szerződésekre is alkalmazni kell” szövegrész helyett a „szerződések esetén az e rendelet hatálybalépését követő legkésőbb egy éven belül kell alkalmazni” szöveggel
 
-## lép hatályba.
+lép hatályba.
 
 (2) Nem lép hatályba a többes ügynöki és az alkuszi felelősségbiztosítási szerződés minimális tartalmi követelményeiről szóló 44/2015. (III. 12.) Korm. rendelet 10. § (2) és (3) bekezdése.
