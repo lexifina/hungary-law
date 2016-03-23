@@ -40,7 +40,7 @@
 
 ## ad) egyéb kötelezettség
 
-7. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^318]
+7. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^319]
 
 ## Egyes kintlévőségek, befektetések, követelés fejében kapott készletek és mérlegen kívüli kötelezettségek értékelésének sajátos szabályai
 
@@ -64,9 +64,9 @@ d) függő és biztos (jövőbeni) kötelezettségek (a továbbiakban: mérlegen
 
 a) az MNB-vel szembeni, valamint egyéb EGT-állam jegybankjával szembeni követelésekre,
 
-b)[^319] az állammal, valamint egyéb EGT-állammal szembeni, hitelnyújtásból eredő követelésekre,
+b)[^320] az állammal, valamint egyéb EGT-állammal szembeni, hitelnyújtásból eredő követelésekre,
 
-c)[^320] az állam, valamint egyéb EGT-állam, továbbá az MNB és egyéb EGT-állam jegybankja által kibocsátott értékpapírra,
+c)[^321] az állam, valamint egyéb EGT-állam, továbbá az MNB és egyéb EGT-állam jegybankja által kibocsátott értékpapírra,
 
 d) a jegybanki kötelező tartalék előírást a levelező bankon keresztül teljesítő hitelintézetek levelező banknál vezetett elszámolási betétszámlájára,
 
@@ -76,7 +76,7 @@ f) a visszavásárolt saját kibocsátású értékpapírokra,
 
 g) a kamatfüggővé tételi szabály alá tartozó kamat-, és kamatjellegű bevételekre irányuló – követelésjellegű – aktív időbeli elhatárolásokra.
 
-h)[^321] a nyújtott fedezetek értékében kimutatott függő kötelezettségekre.
+h)[^322] a nyújtott fedezetek értékében kimutatott függő kötelezettségekre.
 
 (4) Az e mellékletben előírt értékelési szabályok az (1) bekezdés szerinti tételek mérlegbe állítandó könyv szerinti értékének, valamint értékvesztésének és kockázati céltartalékának meghatározására vonatkoznak.
 
@@ -150,9 +150,9 @@ e) rossz 71–100%
 
 (12) A csoportos értékelés alá vont követeléseket nem az (1) bekezdés szerint meghatározott eszközminősítési kategóriákba, hanem a számviteli politikában kialakított értékelési csoportokba kell besorolni. Legalább három értékelési csoportot kell felállítani, amelybe a tételeket egyszerűsített minősítési eljárással is be lehet sorolni.
 
-(13)[^322] Az egyszerűsített minősítési eljárás során – az egyszerűsítésnek a számviteli politikában meghatározott jellegétől függően – az adott tételek minősítéséhez nem kötelező a (4) bekezdésben felsorolt szempontok mindegyikét együttesen figyelembe venni, vagy az adott szempont szerinti vizsgálatot nem kell a vonatkozó, általánosan leírt teljes követelményrendszer szerint elvégezni. A minősített tételhez kapcsolódó fedezettől, mint minősítési szemponttól csak a kisösszegű követelések esetében lehet eltekinteni.
+(13)[^323] Az egyszerűsített minősítési eljárás során – az egyszerűsítésnek a számviteli politikában meghatározott jellegétől függően – az adott tételek minősítéséhez nem kötelező a (4) bekezdésben felsorolt szempontok mindegyikét együttesen figyelembe venni, vagy az adott szempont szerinti vizsgálatot nem kell a vonatkozó, általánosan leírt teljes követelményrendszer szerint elvégezni. A minősített tételhez kapcsolódó fedezettől, mint minősítési szemponttól csak a kisösszegű követelések esetében lehet eltekinteni.
 
-(14)[^323] Az értékelési csoporthoz egy konkrét százalékos mértéket (arányt) kell rendelni és ez alapján kell az adott csoportba sorolt valamennyi követelés után értékvesztést elszámolni. A százalékos arány lehet nulla vagy száz is.
+(14)[^324] Az értékelési csoporthoz egy konkrét százalékos mértéket (arányt) kell rendelni és ez alapján kell az adott csoportba sorolt valamennyi követelés után értékvesztést elszámolni. A százalékos arány lehet nulla vagy száz is.
 
 (15) A lakossági ügyféllel szembeni, a fogyasztási hitelből adódó, a jelzáloghitelből eredő követeléseknél, valamint a (11) bekezdés szerinti kisösszegű követeléseknél – az egyedi értékelés, illetve a csoportos értékelés esetében egyaránt – alkalmazható egyszerűsített minősítési eljárás is a számviteli politika e melléklet szerint kialakított részében leírt módon.
 
@@ -160,7 +160,7 @@ e) rossz 71–100%
 
 (17) Az egyedi értékelés nem épülhet – kizárólag – statisztikai sokaság megfigyelésén alapuló tapasztalati adatokra.
 
-(18)[^324] A tételek minősítését és értékelését bizonylatokkal kell alátámasztani. Ilyen bizonylatnak minősülnek többek között az értékelésnél alkalmazott módszertan, eljárás szerint az új könyv szerinti érték levezetésének folyamatát, egyes részeredményeit (beleértve a fedezet figyelembevétele nélküli egyéb szempontok alapján meghatározott, az adott tételhez kapcsolódó várható veszteség összegét is) – a pénzügyi intézményen belül arra illetékes személyek, testületek általi jóváhagyással, hitelt érdemlően – dokumentáló bizonylatok, az ügyfél, partner (adós) minősítéséhez felhasznált adatokat, információkat tartalmazó bizonylatok, a fedezetek meglétét, az abban bekövetkező változásokat, a fedezetek értékelését, értékének levezetését, az értékelésének alapjául szolgáló adatokat tartalmazó bizonylatok, a tételek piaci értékének figyelembevétele esetén annak meghatározásául alapul vett értékadatokat, az alkalmazott értékelési eljárás szerint levezetett piaci értéket, azok tartós alakulását bemutató adatokat tartalmazó dokumentumok, a késedelmes teljesítést igazoló bizonylatok, és a behajtással kapcsolatos intézkedéseket, azok tényleges vagy várható költségeit rögzítő, alátámasztó bizonylatok.
+(18)[^325] A tételek minősítését és értékelését bizonylatokkal kell alátámasztani. Ilyen bizonylatnak minősülnek többek között az értékelésnél alkalmazott módszertan, eljárás szerint az új könyv szerinti érték levezetésének folyamatát, egyes részeredményeit (beleértve a fedezet figyelembevétele nélküli egyéb szempontok alapján meghatározott, az adott tételhez kapcsolódó várható veszteség összegét is) – a pénzügyi intézményen belül arra illetékes személyek, testületek általi jóváhagyással, hitelt érdemlően – dokumentáló bizonylatok, az ügyfél, partner (adós) minősítéséhez felhasznált adatokat, információkat tartalmazó bizonylatok, a fedezetek meglétét, az abban bekövetkező változásokat, a fedezetek értékelését, értékének levezetését, az értékelésének alapjául szolgáló adatokat tartalmazó bizonylatok, a tételek piaci értékének figyelembevétele esetén annak meghatározásául alapul vett értékadatokat, az alkalmazott értékelési eljárás szerint levezetett piaci értéket, azok tartós alakulását bemutató adatokat tartalmazó dokumentumok, a késedelmes teljesítést igazoló bizonylatok, és a behajtással kapcsolatos intézkedéseket, azok tényleges vagy várható költségeit rögzítő, alátámasztó bizonylatok.
 
 (19) Gondoskodni kell róla, hogy a számviteli politika Eszközök és források értékelési szabályzatának Sajátos értékelési előírások részében foglalt szabályokat könyvvizsgáló felülvizsgálja és legalább évente egy alkalommal megvizsgálja annak betartását.
 
@@ -176,7 +176,7 @@ III. fejezet
 
 (4) Az ügyfél-, illetve partnerminősítés számviteli követelményeinek kialakításakor figyelembe kell venni a következőket:
 
-a)[^325] Az ügyfél vagy partner számviteli értékelés szempontjából történő minősítését a szerződés futamideje alatt, legalább évente egyszer –, illetve a hitelintézet számviteli politikájában rögzített döntésétől függően, a negyedéves értékelések alkalmával, indokolt esetben ennél nagyobb gyakorisággal – el kell végezni minden olyan személyre, illetve vállalkozásra, amellyel szemben a hitelintézet – a Hpt. szerinti – kockázatvállalással járó szerződést köt, azzal, hogy amennyiben a teljes összeget, illetve annak egy részét garanciával vagy készfizető kezességgel harmadik személy biztosítja, akkor a minősítést a kötelezettségvállalóra is el kell elvégezni. Az ilyen kötelezettségvállalást a fedezet értékelése során kell figyelembe venni.
+a)[^326] Az ügyfél vagy partner számviteli értékelés szempontjából történő minősítését a szerződés futamideje alatt, legalább évente egyszer –, illetve a hitelintézet számviteli politikájában rögzített döntésétől függően, a negyedéves értékelések alkalmával, indokolt esetben ennél nagyobb gyakorisággal – el kell végezni minden olyan személyre, illetve vállalkozásra, amellyel szemben a hitelintézet – a Hpt. szerinti – kockázatvállalással járó szerződést köt, azzal, hogy amennyiben a teljes összeget, illetve annak egy részét garanciával vagy készfizető kezességgel harmadik személy biztosítja, akkor a minősítést a kötelezettségvállalóra is el kell elvégezni. Az ilyen kötelezettségvállalást a fedezet értékelése során kell figyelembe venni.
 
 b) Az ügyfél-, illetve partnerminősítés során az egyes ügyfeleket vagy partnereket be lehet sorolni ügyfél-, illetve partnerminősítési kategóriákba. Az intézmény a rövid, közép- és hosszú távú hitelképesség jelölésére – idősávonként – eltérő kategorizálást alkalmazhat.
 
@@ -196,7 +196,7 @@ e) Az ügyfél-minősítési szempontok közé be kell építeni a hitelintézet
 
 (9) A minősítéssel szembeni számviteli követelmények között rögzíteni kell a számviteli szempontból végrehajtott minősítési eljárás hitelintézeten belüli szabályait, a minősítést végzők megjelölését, illetve annak esetleges magasabb szintű felülbírálási lehetőségét.
 
-(10)[^326] Külföldi ügyfelek, partnerek esetében a minősítés az elismert külső hitelminősítő szervezet minősítésén is alapulhat, ha azt a számviteli politikában rögzítik azzal, hogy az ügyfél- és partnerminősítés során a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 138. cikke szerint kell eljárni.
+(10)[^327] Külföldi ügyfelek, partnerek esetében a minősítés az elismert külső hitelminősítő szervezet minősítésén is alapulhat, ha azt a számviteli politikában rögzítik azzal, hogy az ügyfél- és partnerminősítés során a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 138. cikke szerint kell eljárni.
 
 (11) Külföldi ügyfelek, partnerek esetében a hitelintézet külföldi anyavállalata minősítési rendszerét is alapul veheti számviteli politikájának az ügyfél-, illetve partnerminősítésre vonatkozó számviteli követelményei kialakításakor, feltéve, hogy a külföldi anyavállalat minősítési rendszere alapjában megfelel a Tv.-ben, illetve e rendeletben foglalt szempontoknak, és magyar nyelven dokumentált.
 
@@ -224,13 +224,13 @@ d) a fedezetek meglétében, értékében és érvényesíthetőségében beköv
 
 (4) A tételek számviteli szempontból való minősítése során a (2) bekezdés szerinti fedezetként figyelembe vehető biztosítékok (ingó és ingatlan vagyontárgyak, immateriális javak), valamint jogi kikötések és szerződések nem feltétlenül felelnek meg a hitelezési kockázat kezeléséről és tőkekövetelményéről szóló kormányrendeletben meghatározott, hitelkockázat-mérséklés során figyelembe vehető hitelkockázati fedezeteknek.
 
-(5)[^327] A fedezet értékelésekor alapul vett érték (2) bekezdés c) pontja szerinti meghatározása során kiindulási alapul szolgál a fedezet
+(5)[^328] A fedezet értékelésekor alapul vett érték (2) bekezdés c) pontja szerinti meghatározása során kiindulási alapul szolgál a fedezet
 
 a) piaci értéke, ha van megbízható értékítéletet tükröző piaci ára,
 
 b) értékbecslő szakértő, vagyonértékelő vagy könyvvizsgáló által felülvizsgált általános értékelési eljárással, módszerrel meghatározott értéke, ha a fedezetnek nincs piaca vagy nincs megbízható értékítéletet tükröző piaci ára.
 
-(6)[^328] Az (5) bekezdés szerinti érték meghatározásakor a következő szempontokat is figyelembe kell venni:
+(6)[^329] Az (5) bekezdés szerinti érték meghatározásakor a következő szempontokat is figyelembe kell venni:
 
 a) ingatlan fejlesztéshez kapcsolódó kintlévőségek esetében a(z) – ingatlan fejlesztésben megtestesülő – biztosíték piaci értékét vagy az általános értékelési eljárással meghatározott értékét ingatlanszakértővel (vagyonértékelővel) vagy könyvvizsgálóval kell felülvizsgáltatni,
 
@@ -270,7 +270,7 @@ Eszközminősítés számviteli követelményei
 
 (6) Rögzíteni kell, hogy milyen tételek esetében, milyen feltételek mellett és milyen szinten alkalmaz a hitelintézet egyszerűsített minősítési eljárást.
 
-(7)[^329] A tételek eszközminősítési kategóriába, illetve értékelési csoportba való besorolásakor – a tétel jellegétől, valamint attól függően, hogy az a teljes körű szempontrendszeren alapuló vagy az egyszerűsített minősítési eljárás alá tartozik – a II. fejezet (4) bekezdésében szereplő, figyelembe vett szempontokat együttesen kell mérlegelni, oly módon, hogy először a (4) bekezdés a)–c), valamint az e)–f) pontjai alapján kell megvizsgálni, mekkora a tétellel összefüggésben várható jövőbeni veszteség, a megtérülés hiánya, illetve a veszteségjellegű jövőbeni fizetési kötelezettség, valamint a fedezet érvényesítésének várható költségei miatt. Ezt követőn a valószínűsíthető jövőbeni veszteségből le kell vonni az adott tételhez kapcsolódó fedezetek értékét, azok érvényesítésének sorrendjét követve, és a fennmaradó, valószínűsíthető veszteségnek a tétel bekerülési értékéhez (törlesztésekkel csökkentett bekerülési értékéhez) való viszonya alapján határozódik meg alapvetően, hogy az melyik súlysávhoz tartozó eszközminősítési kategóriába, illetve melyik százalékos mértékhez tartozó értékelési csoportba sorolható. Az így meghatározott súlysávon belül az egyedi értékelés alá vont tételhez kapcsolódó értékvesztés, illetve kockázati céltartalék szükséges szintje a számviteli politika Eszközök és források értékelési szabályzatának Sajátos értékelési előírásaiban meghatározott egyéb szempontok, tényezők és körülmények figyelembevételével kerül meghatározásra.
+(7)[^330] A tételek eszközminősítési kategóriába, illetve értékelési csoportba való besorolásakor – a tétel jellegétől, valamint attól függően, hogy az a teljes körű szempontrendszeren alapuló vagy az egyszerűsített minősítési eljárás alá tartozik – a II. fejezet (4) bekezdésében szereplő, figyelembe vett szempontokat együttesen kell mérlegelni, oly módon, hogy először a (4) bekezdés a)–c), valamint az e)–f) pontjai alapján kell megvizsgálni, mekkora a tétellel összefüggésben várható jövőbeni veszteség, a megtérülés hiánya, illetve a veszteségjellegű jövőbeni fizetési kötelezettség, valamint a fedezet érvényesítésének várható költségei miatt. Ezt követőn a valószínűsíthető jövőbeni veszteségből le kell vonni az adott tételhez kapcsolódó fedezetek értékét, azok érvényesítésének sorrendjét követve, és a fennmaradó, valószínűsíthető veszteségnek a tétel bekerülési értékéhez (törlesztésekkel csökkentett bekerülési értékéhez) való viszonya alapján határozódik meg alapvetően, hogy az melyik súlysávhoz tartozó eszközminősítési kategóriába, illetve melyik százalékos mértékhez tartozó értékelési csoportba sorolható. Az így meghatározott súlysávon belül az egyedi értékelés alá vont tételhez kapcsolódó értékvesztés, illetve kockázati céltartalék szükséges szintje a számviteli politika Eszközök és források értékelési szabályzatának Sajátos értékelési előírásaiban meghatározott egyéb szempontok, tényezők és körülmények figyelembevételével kerül meghatározásra.
 
 (8) Az adott tétel minősítése során a biztosítékokat, fedezeteket a fedezetértékelés számviteli követelményeiben meghatározott elvek és módszerek alapján kell vizsgálni.
 
@@ -290,7 +290,7 @@ a) a hitelintézetnek tudomása van arról, hogy az ügyfél vagy a partner vagy
 
 b) a hitelintézetnek az ügyféllel, a kereskedési partnerrel, illetve az értékpapír kibocsátójával szemben több jogcímen is van követelése, valamint az adós valamely törlesztési kötelezettségének nem képes eleget tenni és ezen körülmények miatt várhatóan bekövetkező veszteséget a rendelkezésre álló fedezet értéke nem fedezi, vagy
 
-c)[^330] az ügyfél, illetve a partner pénzügyi problémáinak, hitelképességének romlása miatt olyan jelleggel módosítani kellett a kockázatvállalásra vonatkozó szerződést, hogy annak következtében a követelés kimeríti az e rendelet szerinti átstrukturált hitel (követelés) fogalmát. Kivételt képez ez alól a VII. fejezet (5) bekezdése szerinti átstrukturált hitel (követelés).
+c)[^331] az ügyfél, illetve a partner pénzügyi problémáinak, hitelképességének romlása miatt olyan jelleggel módosítani kellett a kockázatvállalásra vonatkozó szerződést, hogy annak következtében a követelés kimeríti az e rendelet szerinti átstrukturált hitel (követelés) fogalmát. Kivételt képez ez alól a VII. fejezet (5) bekezdése szerinti átstrukturált hitel (követelés).
 
 (13) Külön figyelendő kategóriába sorolandók alapvetően azok a kintlévőségek, befektetések és mérlegen kívüli kötelezettségek, amelyekkel kapcsolatosan – a hitelintézet birtokába került információ alapján – a minősítés időpontjában minimális mértékű veszteség (legfeljebb a tétel bekerülési értékének, illetve törlesztésekkel csökkentett bekerülési értékének, a mérlegen kívüli kötelezettség nyilvántartási értékének 10%-ban) valószínűsíthető, amely miatt az adott tétel az általánostól eltérő kezelést igényel, feltéve, hogy a rendelkezésre álló fedezet értéke a veszteségre nem nyújt fedezetet.
 
@@ -324,7 +324,7 @@ b) az ügyfél, partner ellen felszámolási eljárás indult meg (kivéve azoka
 
 (24) A 20. § (2) bekezdésének 16. és 17. pontja szerinti függő kötelezettségvállalások esetében a veszteségjellegű jövőbeni kifizetési kötelezettség felmérésekor alapvetően a kötelezettségvállalás – hivatkozott jogszabályhely szerinti – értékének – a kötelezettségvállalás jellegétől függően – a kezelt portfolió, illetve a befektetési alap értékelés időpontjában érvényes piaci értékét, illetve nettó eszközértékét meghaladó összegéből kell kiindulni, fedezet-jellegű veszteségmérséklő tényezőként figyelembe véve a tőke, illetve hozamgarancia tekintetében a más bank által vállalt garanciát.
 
-(25)[^331] A biztos (jövőbeli) kötelezettségek között kimutatott határidős, opciós, illetve swap ügyletből adódó mérlegen kívüli kötelezettségek – alapvetően piaci kockázatra visszavezethető – várható veszteségét, amennyiben az ügylet nem fedezeti célú, e rendelet 23. §-ának (2), (4)–(5) bekezdése és 24. §-ának (5) bekezdése szerinti céltartalékok fedezik, amennyiben az ügylet fedezeti célú, akkor az ilyen ügyletek várható veszteségét passzív időbeli elhatárolásként kell elszámolni. Az ilyen ügyletekből eredő biztos (jövőbeni) kötelezettségek után kockázati céltartalékot csak abban az esetben és olyan mértékben lehet képezni – a minősítés alapján –, amennyiben a hivatkozott céltartalék, illetve passzív időbeli elhatárolás a várható veszteség egyéb kockázati tényezők miatt fennálló – számszerűsíthető – összegét nem fedi.
+(25)[^332] A biztos (jövőbeli) kötelezettségek között kimutatott határidős, opciós, illetve swap ügyletből adódó mérlegen kívüli kötelezettségek – alapvetően piaci kockázatra visszavezethető – várható veszteségét, amennyiben az ügylet nem fedezeti célú, e rendelet 23. §-ának (2), (4)–(5) bekezdése és 24. §-ának (5) bekezdése szerinti céltartalékok fedezik, amennyiben az ügylet fedezeti célú, akkor az ilyen ügyletek várható veszteségét passzív időbeli elhatárolásként kell elszámolni. Az ilyen ügyletekből eredő biztos (jövőbeni) kötelezettségek után kockázati céltartalékot csak abban az esetben és olyan mértékben lehet képezni – a minősítés alapján –, amennyiben a hivatkozott céltartalék, illetve passzív időbeli elhatárolás a várható veszteség egyéb kockázati tényezők miatt fennálló – számszerűsíthető – összegét nem fedi.
 
 (26) Nem valódi penziós ügylet esetén a visszavásárlási kötelezettséggel eladott eredeti követelés kockázatának megfelelően a visszavásárlási árral arányban a kockázati céltartalékot meg kell képezni a visszavásárlási kötelezettség után. Ha az ügylethez halasztott fizetés is kapcsolódik, és a halasztott fizetés miatt értékvesztés elszámolására kerül sor, akkor a halasztott fizetésből származó követelésre elszámolt értékvesztés és a visszavásárlási kötelezettségre képzett kockázati céltartalék összege nem haladhatja meg az eredeti követelés törlesztésekkel csökkentett bekerülési értékének száz százalékát.
 
@@ -384,7 +384,7 @@ e) a lakástakarékpénztárak kiegyenlítési céltartaléka.
 
 (17) Eszközeladásnál vagy halasztott fizetéssel eladott eszközök esetében a vevő által érvényesíthető visszkereseti jog miatt a visszkereseti jogból eredően fennálló függő kötelezettséget az értékelés során minősíteni kell, és indokolt esetben kockázati céltartalékot kell utána képezni. Kockázati céltartalék képzésére legfeljebb az eladási ár mértékéig kerülhet sor. Ha a visszkereseti jog érvényesítéséről a vevő lemond, de az eszközértékesítéshez bármilyen mérlegbeli vagy mérlegen kívüli tételt keletkeztető hitelintézeti kockázatvállalás tartozik (halasztott fizetés stb.), akkor az így keletkező tételt szintén értékelés alá kell vonni.
 
-VII. fejezet[^332]
+VII. fejezet[^333]
 
 Átstrukturált hitelek (követelések)
 
@@ -426,21 +426,21 @@ c) az adósnak a felülvizsgált, új törlesztési feltételek melletti jövőb
 
 (8) Az átstrukturált hitelek (követelések) meghatározására, besorolására és értékelésére vonatkozó további részletes szabályokról a számviteli politika Eszközök és források értékelési szabályzatának Sajátos értékelési előírásai között kell rendelkezni. Ennek keretében kell kitérni többek között arra is, hogy a 2. § 48. pontjának a) és b) pontjában említett, „az adós pénzügyi pozíciójának, fizetőképességének jelentős romlása”, valamint „az ügyfél számára lényegesen kedvezőbb módon”, továbbá „az eredeti szerződés szerinti feltételeket jelentősen megváltoztatja” meghatározásokat hogyan értelmezi a pénzügyi intézmény, e tekintetben a jelentős és lényeges mértéket hogyan állapítja meg.
 
-(9)[^333] Amennyiben az átstrukturálás türelmi időt is tartalmaz, a (4) és (5) bekezdésben foglalt határidőket a türelmi időszak leteltét követően kell számítani.
+(9)[^334] Amennyiben az átstrukturálás türelmi időt is tartalmaz, a (4) és (5) bekezdésben foglalt határidőket a türelmi időszak leteltét követően kell számítani.
 
-[^318]: A 7. számú mellékletet a 397/2007. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 342/2011. (XII. 29.) Korm. rendelet 46. §-a, az 5181/2013. (XII. 30.) Korm. rendelet 33. § (3) bekezdése szerint módosított szöveg.
-[^319]: A 7. számú melléklet I. fejezet (3) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 214. § d) pontja szerint módosított szöveg.
-[^320]: A 7. számú melléklet I. fejezet (3) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 214. § a) pontja szerint módosított szöveg.
-[^321]: A 7. számú melléklet I. fejezet (3) bekezdés h) pontját a 331/2008. (XII. 30.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^322]: A 7. számú melléklet II. fejezet (13) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^323]: A 7. számú melléklet II. fejezet (14) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^324]: A 7. számú melléklet II. fejezetének (18) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^325]: A 7. számú melléklet III. fejezet (4) bekezdés a) pontja a 80/2014. (III. 14.) Korm. rendelet 3. § c) pontja szetrint módosított szöveg.
-[^326]: A 7. számú melléklet III. fejezet (10) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 70. § (5) bekezdésével megállapított szöveg.
-[^327]: A 7. számú melléklet IV. fejezetének (5) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^328]: A 7. számú melléklet IV. fejezetének (6) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^329]: A 7. számú melléklet V. fejezet (7) bekezdés első mondata a 331/2008. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^330]: A 7. számú melléklet V. fejezet (12) bekezdésének c) pontja a 325/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (4) bekezdését.
-[^331]: A 7. számú melléklet V. fejezet (25) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 8. §-a szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^332]: A 7. számú melléklet VII. fejezetét a 325/2009. (XII. 29.) Korm. rendelet 9. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (4) bekezdését.
-[^333]: A 7. számú melléklet VII. Fejezet (9) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 24. §-a iktatta be.
+[^319]: A 7. számú mellékletet a 397/2007. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 342/2011. (XII. 29.) Korm. rendelet 46. §-a, az 5181/2013. (XII. 30.) Korm. rendelet 33. § (3) bekezdése szerint módosított szöveg.
+[^320]: A 7. számú melléklet I. fejezet (3) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 214. § d) pontja szerint módosított szöveg.
+[^321]: A 7. számú melléklet I. fejezet (3) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 214. § a) pontja szerint módosított szöveg.
+[^322]: A 7. számú melléklet I. fejezet (3) bekezdés h) pontját a 331/2008. (XII. 30.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^323]: A 7. számú melléklet II. fejezet (13) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^324]: A 7. számú melléklet II. fejezet (14) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^325]: A 7. számú melléklet II. fejezetének (18) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^326]: A 7. számú melléklet III. fejezet (4) bekezdés a) pontja a 80/2014. (III. 14.) Korm. rendelet 3. § c) pontja szetrint módosított szöveg.
+[^327]: A 7. számú melléklet III. fejezet (10) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 70. § (5) bekezdésével megállapított szöveg.
+[^328]: A 7. számú melléklet IV. fejezetének (5) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^329]: A 7. számú melléklet IV. fejezetének (6) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^330]: A 7. számú melléklet V. fejezet (7) bekezdés első mondata a 331/2008. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^331]: A 7. számú melléklet V. fejezet (12) bekezdésének c) pontja a 325/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (4) bekezdését.
+[^332]: A 7. számú melléklet V. fejezet (25) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 8. §-a szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^333]: A 7. számú melléklet VII. fejezetét a 325/2009. (XII. 29.) Korm. rendelet 9. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (4) bekezdését.
+[^334]: A 7. számú melléklet VII. Fejezet (9) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 24. §-a iktatta be.
