@@ -1,0 +1,5 @@
+## 1. § A hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 250/2000. (XII. 24.) Korm. rendelet 13. §-a a következő (12) bekezdéssel egészül ki:
+
+## „(12) Az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság a hazai pénznemben denominált, uniós forrásokból alapok alapját végrehajtó szervezetként finanszírozott támogatási kölcsönöket, garanciákat és tőkebefektetéseket, mindezek fedezeteit és forrásait elkülönítetten, a 0. Nyilvántartási számlák számlaosztályban, a mérlegen kívüli tételek között tartja nyilván, és azok nem képezik részét a függő és jövőbeni kötelezettségeknek, követeléseknek. A kölcsönök, garanciák és tőkebefektetések megtérülése, illetve behajthatatlanná válása esetén az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság a 0. Nyilvántartási számlák számlaosztályban kimutatott támogatási kölcsönöket, garanciákat és tőkebefektetéseket, mindezek fedezeteit és forrásait mérlegen kívüli tételként, a 0. Nyilvántartási számlák számlaosztályból vezeti ki.”
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
