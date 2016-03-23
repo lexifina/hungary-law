@@ -28,6 +28,8 @@ belügyminiszter
 
 Határidő: 2017. július 1.
 
-4. Hatályát veszti az egységes központi elektronikus irat- és dokumentumkezelési rendszer megvalósításával kapcsolatos feladatokról a fővárosi és megyei kormányhivatalokban szóló 1430/2015. (VI. 30.) Korm. határozat.
+4.[^1]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

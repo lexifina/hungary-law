@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1137-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-03-22 | 2016-1137-30-22.1 | 1137/2016. (III. 21.) Korm. határozat |
+| 2016-03-23 | 2016-1137-30-22.2 | 2010: CXXX. törvény |
