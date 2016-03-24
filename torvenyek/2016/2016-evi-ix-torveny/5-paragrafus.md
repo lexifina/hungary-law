@@ -1,0 +1,1 @@
+5. § E törvény rendelkezéseit a hatálybalépését megelőzően kötött kereskedelmi ügyletből eredő fizetési kötelezettség teljesítésének késedelme esetén is alkalmazni kell azzal, hogy a törvény hatálybalépésekor fennálló késedelem esetén a behajtási költségátalány érvényesítésére megszabott jogvesztő határidőt e törvény hatálybalépésétől kell számítani.
