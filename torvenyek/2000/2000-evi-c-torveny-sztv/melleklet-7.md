@@ -93,5 +93,3 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 5. A ,,7. Egyéb rövid lejáratú kötelezettség változása'' sorban a vevőktől kapott előlegek, a váltótartozások és az egyéb rövid lejáratú kötelezettségek állomány növekedését pozitív előjellel, állomány csökkenését negatív előjellel kell figyelembe venni.
 
 6. Az egyéb sorokon kimutatott eszköz állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) növekedés esetén negatív előjellel, csökkenés esetén pozitív előjellel kell figyelembe venni, a forrás állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) pedig növekedés esetén pozitív előjellel, csökkenés esetén negatív előjellel kell beállítani.
-
-7. A ,,13. Fizetett (fizetendő) osztalék, részesedés'' sorban az adott időszak után fizetett (fizetendő) osztalék, részesedés és a kamatozó részvények után fizetett (fizetendő) kamat összegét kell kimutatni.

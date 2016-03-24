@@ -115,3 +115,5 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 (52) E törvénynek a nemzetközi pénzügyi beszámolási standardok egyedi beszámolási célokra történő hazai alkalmazásának bevezetéséhez kapcsolódó, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CLXXVIII. törvénnyel megállapított 77. § (3) bekezdés e) pontját és a 97. § (1) és (2) bekezdését a 2015. évben induló üzleti évről készített éves beszámolóra is alkalmazni lehet.
 
 (53) Annak a vállalkozónak, amely az IFRS-eket a 2016. évben induló üzleti évről készített éves beszámolóra alkalmazza először, a 114/C. § (4) bekezdése szerinti bejelentést az áttérés napját követő 15 napon belül kell megtennie.
+
+(56) A behajtási költségátalányról szóló 2016. évi IX. törvény hatálybalépésével egyidejűleg a vállalkozó a könyvviteli nyilvántartásában (mérlegében) kimutatott, behajtási költségátalányból származó kötelezettséget – ha azt ezen időpontig tőle a jogosult nem követelte – az egyéb bevételekkel szemben megszünteti.
