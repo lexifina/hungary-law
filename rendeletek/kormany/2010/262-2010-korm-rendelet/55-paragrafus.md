@@ -1,3 +1,3 @@
-## 53–54. §[^133]
+## 53–54. §[^134]
 
-[^133]: Az 53–54. §-t a 153/2013. (V. 24.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte.
+[^134]: Az 53–54. §-t a 153/2013. (V. 24.) Korm. rendelet 20. § g) pontja hatályon kívül helyezte.

@@ -4,7 +4,7 @@ a) az ellenőrzés tárgyához kapcsolódó iratokba és más dokumentumokba, el
 
 b) a használótól írásban vagy szóban felvilágosítást, tájékoztatást, információt, nyilatkozatot kérni,
 
-c)[^122] az ellenőrzés során, az ellenőrzéshez kapcsolódóan fényképfelvételt készíteni.
+c)[^123] az ellenőrzés során, az ellenőrzéshez kapcsolódóan fényképfelvételt készíteni.
 
 (2) Az NFA megbízásából tulajdonosi ellenőrzést végző személy köteles:
 
@@ -12,7 +12,7 @@ a) jogait oly módon gyakorolni, hogy a használó tevékenységét a lehető le
 
 b) tevékenységének megkezdéséről a használót az ellenőrzés megkezdése előtt legalább nyolc nappal tájékoztatni, és megbízólevelét az ellenőrzés megkezdésekor bemutatni,
 
-c)[^123] megállapításait tárgyszerűen, a valóságnak megfelelően ellenőrzési jelentésbe foglalni és a jelentést a használónak megküldeni.
+c)[^124] megállapításait tárgyszerűen, a valóságnak megfelelően ellenőrzési jelentésbe foglalni és a jelentést a használónak megküldeni.
 
-[^122]: A 48. § (1) bekezdés c) pontját a 285/2015. (X. 5.) Korm. rendelet 13. §-a iktatta be.
-[^123]: A 48. § (2) bekezdés c) pontja a 285/2015. (X. 5.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^123]: A 48. § (1) bekezdés c) pontját a 285/2015. (X. 5.) Korm. rendelet 13. §-a iktatta be.
+[^124]: A 48. § (2) bekezdés c) pontja a 285/2015. (X. 5.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
