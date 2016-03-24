@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-177-00-00
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 2013-177-00-00.6 |
 | 2016-01-06 | 2015. évi CCXX. törvény | 2013-177-00-00.7 |
 | 2016-03-10 | 2016. évi I. törvény | 2013-177-00-00.8 |
+| 2016-03-24 | 2016. évi IX. törvény | 2013-177-00-00.9 |
