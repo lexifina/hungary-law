@@ -1,19 +1,15 @@
-3. § (1)[^3] Engedély iránti kérelmet szénhidrogén, külszíni, vagy külszíni és mélyműveléses bányászati tevékenység szakterületre (a továbbiakban: szakterület) az MBFH-hoz kell benyújtani. A szénhidrogén szakterületbe tartozik – a földgáz szállítás kivételével – a szénhidrogén csővezetékes szállítás.
+3. §[^3] (1) A hites bányamérői tevékenység végzésére vonatkozó bejelentést szénhidrogén, külszíni, vagy külszíni és mélyműveléses bányászati tevékenység szakterületre (a továbbiakban: szakterület) a Magyar Bányászati és Földtani Hivatalhoz (a továbbiakban: MBFH) kell megtenni. A szénhidrogén szakterülethez tartozik – a földgáz szállítás kivételével – a szénhidrogén csővezetékes szállítás.
 
-(2) A kérelemnek tartalmaznia kell:
+(2) A bejelentésnek tartalmaznia kell:
 
-a) a kérelmező természetes személyazonosító adatait, és
+a) a bejelentő természetes személyazonosító adatait és
 
 b) a szakterület megnevezését.
 
-(3) A kérelemhez mellékelni kell:
+(3) A bejelentéshez mellékelni kell:
 
-a) a felsőfokú iskolai végzettséget igazoló oklevél másolatát,
+a) a felsőfokú iskolai végzettséget igazoló oklevél másolatát és
 
-b) szakmai önéletrajzot,
+b) a szakmai gyakorlati időt igazoló okiratot.
 
-c) a szakmai gyakorlati időt igazoló okiratot, és
-
-d) a hatósági igazgatási szolgáltatási díj befizetését igazoló bizonylatot.
-
-[^3]: A 3. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 20. §-ával megállapított szöveg.
+[^3]: A 3. § az 5/2016. (III. 17.) NFM rendelet 2. §-ával megállapított szöveg.

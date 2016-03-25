@@ -1,15 +1,25 @@
-7. § (1) A hites bányamérők nyilvántartásának tartalmaznia kell:
+7. §[^6] (1) A hites bányamérők nyilvántartásának – a bányászatról szóló törvényben foglaltakon túl – tartalmaznia kell:
 
-a) az engedély iránti kérelem iktatási számát,
+a) a bejelentés iktatási számát és időpontját,
 
-b) a hites bányamérő részére kiadott engedély sorszámát,
+b) a hites bányamérő lakcímét,
 
-c) a szakterület megnevezését,
+c) a hites bányamérő nyilvántartásba vételének sorszámát,
 
-d) a nyilvántartásból törlés időpontját és iktatószámát.
+d) a hites bányamérő szakterületének megnevezését,
 
-(2) A hites bányamérők jegyzékét a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az MBFH honlapján évenként közzé kell tenni.
+e) a tevékenység befejezésének időpontját.
 
-(3)[^9] A hites bányamérő köteles a nyilvántartási adatokban bekövetkezett változásokat az MBFH-nak 30 napon belül, írásban bejelenteni.
+(2) A nyilvántartásból törölni kell a hites bányamérőt, ha
 
-[^9]: A 7. § (3) bekezdése a 28/2010. (XII. 22.) NFM rendelet 2. § (11) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+a) a hites bányamérői tevékenység folytatásától a bíróság vagy a bányafelügyelet jogerősen eltiltotta,
+
+b) cselekvőképességet érintő gondnokság alá helyezték,
+
+c) meghalt,
+
+d) bejelentette a tevékenység befejezését.
+
+(3) A hites bányamérők jegyzékét az MBFH honlapján folyamatosan közzé kell tenni. A közzétett jegyzék tartalmazza a hites bányamérő nevét, valamint az (1) bekezdés b)–d) pontja szerinti adatokat.
+
+[^6]: A 7. § az 5/2016. (III. 17.) NFM rendelet 3. §-ával megállapított szöveg.
