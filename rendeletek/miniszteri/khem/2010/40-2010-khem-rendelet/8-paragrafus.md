@@ -4,4 +4,6 @@ a) a szakértő iskolai végzettségét, és
 
 b) a szakterület megnevezését.
 
-(2) A földtani szakértő köteles az MBFH-nak 8 napon belül bejelenteni, ha a nyilvántartott adataiban változás állt be.
+(2)[^10]
+
+[^10]: A 8. § (2) bekezdését az 5/2016. (III. 17.) NFM rendelet 14. §-a hatályon kívül helyezte.

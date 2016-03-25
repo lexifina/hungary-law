@@ -1,7 +1,5 @@
-6. § (1) Az engedély – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl – tartalmazza a szakterületet, amelyre a szakértői jogosultság kiterjed.
+6. §[^8] (1) A földtani szakértő a szakterületén az 1. melléklet szerinti tevékenységet folytathat.
 
-(2) Az engedély mindazon szakterületekre kiadható, amelyre vonatkozóan a kérelmező megfelel az e rendeletben foglaltaknak.
+(2) A földtani szakértőnek a bejelentést követő 5 évente a szakterületének – több szakterület esetén ezek egyikének – megfelelő, a 2. melléklet szerinti 20 szakmai minősítő pont összegyűjtését kell igazolnia. Az igazolás elmaradása esetén a földtani szakértő nem felel meg a tevékenység végzésére előírt feltételeknek.
 
-(3) A földtani szakértő a szakterületén a rendelet 1. melléklete szerinti tevékenységet folytathat.
-
-(4) A földtani szakértőnek az engedély kiadását és a nyilvántartásba vételt követő 5 évente a szakterületének – több szakterület esetén ezek egyikének – megfelelő, 2. melléklet szerinti 20 szakmai minősítő pont összegyűjtését kell igazolnia.
+[^8]: A 6. § az 5/2016. (III. 17.) NFM rendelet 10. §-ával megállapított szöveg.

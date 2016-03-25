@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-40-20-2
 | --- | --- | --- |
 | 2010-06-11 | 2010-40-20-2M.1 | 40/2010. (V. 12.) KHEM rendelet |
 | 2013-01-01 | 2010-40-20-2M.2 | 76/2012. (XII. 22.) NFM rendelet |
+| 2016-03-25 | 2010-40-20-2M.3 | 5/2016. (III. 17.) NFM rendelet |

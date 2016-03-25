@@ -1,18 +1,16 @@
-3. § (1) Az engedély iránti kérelemnek – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl – tartalmaznia kell 2. § szerinti szakterület megnevezését.
+## szakterületre lehet megtenni.
 
-(2) Az kérelemhez mellékelni kell:
+3. § (1)[^3] A bejelentésnek tartalmaznia kell a 2. § szerinti szakterület megnevezését is.
 
-a) a végzettséget, illetve a tudományos fokozatot igazoló oklevél másolatát,
+(2)[^4] A bejelentéshez mellékelni kell:
 
-b) a részletes szakmai önéletrajzot,
+a) a végzettséget, illetve a tudományos fokozatot igazoló oklevél másolatát és
 
-c) a szakmai gyakorlat teljesítéséről szóló igazolást, és
-
-d) a kérelemben szereplő szakterület témakörében való jártasságot alátámasztó szakmai publikációk felsorolását, megjelölve megjelenésük helyét és idejét.
+b) a szakmai gyakorlat teljesítéséről szóló igazolást.
 
 (3) A szakmai gyakorlati időt közokirattal vagy teljes bizonyító erejű magánokirattal kell igazolni.
 
-(4) A (2) bekezdés c) pont szerinti igazolásnak tartalmaznia kell:
+(4)[^5] A (2) bekezdés b) pontja szerinti igazolásnak tartalmaznia kell:
 
 a) az igazolást kérő személy
 
@@ -28,4 +26,9 @@ c) a munkáltató vagy foglalkoztató megnevezését, címét, és cégszerű al
 
 (5) Ha a munkáltató vagy foglalkoztató jogutód nélkül szűnt meg, a gyakorlati időt és az igazolást kérő személy természetes személyazonosító adatait tartalmazó szerződés vagy a munkavégzés igazolására alkalmas dokumentum is elfogadható a szakmai gyakorlati idő igazolására.
 
-(6) Az engedély iránti kérelem benyújtásával egyidejűleg a földtani szakértő írásban nyilatkozik arról, hogy hozzájárul-e a nyilvántartásban szereplő adatainak az MBFH nyilvános földtani szakértői adatbázisában történő közzétételéhez.
+(6)[^6] A bejelentés megtételével egyidejűleg a földtani szakértő írásban nyilatkozik arról, hogy hozzájárul-e a nyilvántartásban szereplő adatainak az MBFH nyilvános földtani szakértői adatbázisában történő közzétételéhez.
+
+[^3]: A 3. § (1) bekezdése az 5/2016. (III. 17.) NFM rendelet 9. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdése az 5/2016. (III. 17.) NFM rendelet 9. §-ával megállapított szöveg.
+[^5]: A 3. § (4) bekezdés nyitó szövegrésze az 5/2016. (III. 17.) NFM rendelet 13. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (6) bekezdése az 5/2016. (III. 17.) NFM rendelet 13. § b) pontja szerint módosított szöveg.
