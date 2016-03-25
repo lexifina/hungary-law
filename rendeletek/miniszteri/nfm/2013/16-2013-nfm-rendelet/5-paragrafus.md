@@ -1,6 +1,6 @@
 ## végzettség.
 
-5. § (1) Bányaüzemi felelős műszaki vezetői tevékenység folytatására jogosító engedélyt
+5. § (1)[^5] Bányaüzemi felelős műszaki vezetői tevékenység folytatására vonatkozó bejelentést
 
 a) sújtólégveszélyes föld alatti bányaüzemre
 
@@ -30,6 +30,8 @@ dc) a 4. § (2) bekezdés a)–k) pontja szerinti végzettséggel és legalább 
 
 e) szénhidrogén bányaüzemre a 4. § (1) bekezdés b) pont bc) alpontja szerinti végzettséggel és legalább 3 éves szakmai gyakorlattal
 
-## rendelkező személy kaphat.
+## rendelkező személy tehet.
 
 (2) Sújtólégveszélyes vagy gázkitörés-veszélyes bánya esetében szakmai gyakorlatként csak sújtólégveszélyes vagy gázkitörés-veszélyes bányában szerzett gyakorlati idő vehető figyelembe.
+
+[^5]: Az 5. § (1) bekezdés nyitó szövegrésze az 5/2016. (III. 17.) NFM rendelet 20. § c) pontja, záró szövegrésze a d) pontja szerint módosított szöveg.
