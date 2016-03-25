@@ -1,0 +1,9 @@
+5. § Hatályát veszti a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a minősített katonai információk és eszközök védelméről szóló, Misefán, 1998. október 5-én aláírt Egyezmény megerősítéséről és kihirdetéséről szóló 1999. évi XXV. törvény.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Lezsák Sándor s. k.,
+
+az Országgyűlés alelnöke
