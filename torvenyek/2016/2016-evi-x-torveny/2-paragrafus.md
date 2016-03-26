@@ -16,11 +16,7 @@
 
 „12. § A magas genetikai értéket képviselő, veszélyeztetett helyzetbe került fajták és a magyar ebfajták állományait védeni kell, amihez az állam támogatást adhat.”
 
-(5) Az Átv. 45/A. § (1) bekezdése a következő l) ponttal egészül ki:
-
-(Állattenyésztési bírságot kell kiszabni arra, aki vagy amely)
-
-„l) határidőben nem tesz eleget a 48/A. § (2) bekezdésében foglalt kötelezettségének.”
+(5)
 
 (6) Az Átv. Átmeneti rendelkezések alcíme a következő 48/A. §-sal egészül ki:
 
@@ -46,10 +42,12 @@ rendeletben szabályozza)
 
 (9) Az Átv.
 
-a) 2. §-ában az „eb” szövegrész helyébe a „magyar ebfajták” szöveg,
+a)
 
 b) 45/A. § (4) bekezdésében a „védett őshonos vagy veszélyeztetett mezőgazdasági állatfajtával kapcsolatban” szövegrész helyébe a „védett őshonos vagy veszélyeztetett mezőgazdasági állatfajtával vagy magyar ebfajtával kapcsolatban” szöveg
 
 lép.
 
 (10) Hatályát veszti az Átv. 45/A. § (1a) bekezdése és 49. § (1) bekezdés b) pontja.
+
+3. Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény módosítása
