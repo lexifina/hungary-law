@@ -22,13 +22,13 @@ j) tenyészállatot, szaporítóanyagot jogosulatlanul forgalmaz;
 
 k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
 
-(1a) Nem szabható ki állattenyésztési bírság, ha az (1) bekezdés g) pontja szerinti jogsértést ebfajta vonatkozásában követték el.
+(1a)
 
 (2) Az állattenyésztési bírság összege 100 000 Ft-tól 20 000 000 Ft-ig, természetes személy esetében 300 000 Ft-ig terjedhet. A késedelmes teljesítést késedelmi kamat terheli.
 
 (3) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg az adott jogsértés esetén kiszabható bírság legmagasabb mértékét.
 
-(4) Amennyiben az állattenyésztési bírsággal sújtandó jogsértést védett őshonos vagy veszélyeztetett mezőgazdasági állatfajtával kapcsolatban követik el, az állattenyésztési bírság összege 500 000 Ft-nál, természetes személy esetében 300 000 Ft-nál alacsonyabb nem lehet.
+(4) Amennyiben az állattenyésztési bírsággal sújtandó jogsértést védett őshonos vagy veszélyeztetett mezőgazdasági állatfajtával vagy magyar ebfajtával kapcsolatban követik el, az állattenyésztési bírság összege 500 000 Ft-nál, természetes személy esetében 300 000 Ft-nál alacsonyabb nem lehet.
 
 (5) Az állattenyésztési bírságot a cselekmény folytatása vagy újbóli elkövetése esetén ismételten ki lehet szabni.
 

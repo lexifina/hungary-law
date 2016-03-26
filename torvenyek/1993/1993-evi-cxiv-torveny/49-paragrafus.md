@@ -36,11 +36,13 @@ a) rendeletben szabályozza
 
 16. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, az igazgatási szolgáltatási díjfizetés ellenében végzett feladatokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait;
 
-17.
+17. a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták, valamint a magyar ebfajták körét és kijelölésük rendjét;
 
 18. a mesterséges termékenyítési szolgáltatást nyújtó inszeminátori, embrióátültetői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az inszeminátorok, embrióátültetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az inszeminátori, embrióátültetői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 
-b) a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták körét, valamint a kijelölésük rendjét;
+19. a magyar ebfajták genetikai fenntartásának rendjét;
+
+b)
 
 c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét.
 
