@@ -1,4 +1,4 @@
-16. §[^86] (1) A telephelyi szolgáltató köteles:
+16. §[^87] (1) A telephelyi szolgáltató köteles:
 
 a) a telephelyi vezetéket a GET, e rendelet, valamint a külön jogszabályok rendelkezései szerint folyamatosan üzemeltetni, továbbá azt olyan módon fenntartani, karbantartani és fejleszteni, hogy az megbízhatóan és üzembiztosan működjön,
 
@@ -12,4 +12,4 @@ e) a felhasználónak nyújtott vezetékes szolgáltatás után kiállított sz�
 
 (2) A telephelyi szolgáltatás biztosítása során a telephelyi felhasználókat egyenlő bánásmódban kell részesíteni, közöttük indokolatlan megkülönböztetés nem tehető.
 
-[^86]: A Vhr. 16. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^87]: A Vhr. 16. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

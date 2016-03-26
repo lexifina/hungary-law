@@ -1,14 +1,14 @@
-4. §[^34] (1) A kérelmezőnek rendelkeznie kell
+4. §[^35] (1) A kérelmezőnek rendelkeznie kell
 
 a) 3 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza a földgázszállítási tevékenységet a hozzá kapcsolódó költségeket, pénzforgalmat,
 
 b) 3 évre szóló kapacitásigény felméréssel, és az ez alapján elkészített tervezett fejlesztési leírásokkal,
 
-c)[^35] a GET 4–10. §-ában foglaltak szerinti a földgázszállítási tevékenység végzéséhez szükséges pénzügyi és tárgyi eszközökkel, személyi állománnyal, módszerekkel, eljárásokkal, technológiákkal, ezen belül különösen,
+c)[^36] a GET 4–10. §-ában foglaltak szerinti a földgázszállítási tevékenység végzéséhez szükséges pénzügyi és tárgyi eszközökkel, személyi állománnyal, módszerekkel, eljárásokkal, technológiákkal, ezen belül különösen,
 
-ca)[^36] a GET 10. §-ában meghatározott tevékenységek ellátására alkalmas, a rendszerüzemeltetők informatikai rendszerével is együttműködő, az ÜKSZ vonatkozó rendelkezéseit kielégítő adatforgalmi és informatikai rendszerrel,
+ca)[^37] a GET 10. §-ában meghatározott tevékenységek ellátására alkalmas, a rendszerüzemeltetők informatikai rendszerével is együttműködő, az ÜKSZ vonatkozó rendelkezéseit kielégítő adatforgalmi és informatikai rendszerrel,
 
-cb)[^37] olyan saját szervezettel, amely alkalmas a GET 4. § (2) bekezdés b) pontja és a 86. § (1) bekezdésében előírt tevékenységek ellátására, biztosítani tudja az engedélyköteles tevékenység végzését, vagy ezen tevékenység azon elemének felügyeletét, amelynek mással történő végeztetéséhez a Hivatal hozzájárult, az önálló gazdálkodást, a rendszerhasználók megkülönböztetés-mentes kiszolgálását, valamint saját műszaki rendszerének a Hivatal erre vonatkozó határozatában előírt szolgáltatási minőségi előírásoknak megfelelő üzemeltetését,
+cb)[^38] olyan saját szervezettel, amely alkalmas a GET 4. § (2) bekezdés b) pontja és a 86. § (1) bekezdésében előírt tevékenységek ellátására, biztosítani tudja az engedélyköteles tevékenység végzését, vagy ezen tevékenység azon elemének felügyeletét, amelynek mással történő végeztetéséhez a Hivatal hozzájárult, az önálló gazdálkodást, a rendszerhasználók megkülönböztetés-mentes kiszolgálását, valamint saját műszaki rendszerének a Hivatal erre vonatkozó határozatában előírt szolgáltatási minőségi előírásoknak megfelelő üzemeltetését,
 
 cc) saját szervezetén belül foglalkoztatott megfelelő létszámú és képzettségű szakemberállománnyal, amely alkalmas a hidraulikai egyensúlytartási, a napi egyensúlyozási, a nominálási és elszámolási tevékenységek végzésére,
 
@@ -16,15 +16,15 @@ cd) olyan szervezeti egységgel és ahhoz tartozó szakszemélyzettel, amely ké
 
 ce) a saját szervezetén belül a szállítóvezeték üzemvitelét folyamatosan felügyelő, a rendszeregyensúlyozás irányítását végző folyamatosan működő műszaki irányító (diszpécser) szolgálattal és készenléti szolgálattal,
 
-cf)[^38] saját szervezetén belül a 10 éves rendszerfejlesztési igények megfogalmazására és a teljes fejlesztési folyamat ellenőrzésére alkalmas szakemberállománnyal,
+cf)[^39] saját szervezetén belül a 10 éves rendszerfejlesztési igények megfogalmazására és a teljes fejlesztési folyamat ellenőrzésére alkalmas szakemberállománnyal,
 
 cg) olyan módszerekkel, eljárásokkal, technológiákkal, amelyek alkalmasak a vezetékek kapacitásának rendszeres felülvizsgálatára és fejlesztésének tervezésére, az üzemeltetett vezeték működtetésére és megfelelő műszaki színvonalon való tartására.
 
-(2)[^39] A szállítási rendszerüzemeltetésre vonatkozó engedély iránti kérelemhez az e rendelet 5. számú mellékletének II. fejezetében meghatározott iratokat kell benyújtani.
+(2)[^40] A szállítási rendszerüzemeltetésre vonatkozó engedély iránti kérelemhez az e rendelet 5. számú mellékletének II. fejezetében meghatározott iratokat kell benyújtani.
 
-(3)[^40] A versenysemlegesség, az átláthatóság, az üzembiztonság, az ellátás biztonsága, a felhasználók védelme, valamint a legkisebb költség elvének érvényesülése érdekében a szállítási rendszerüzemeltető a földgázszállítási tevékenysége körében köteles biztosítani, hogy
+(3)[^41] A versenysemlegesség, az átláthatóság, az üzembiztonság, az ellátás biztonsága, a felhasználók védelme, valamint a legkisebb költség elvének érvényesülése érdekében a szállítási rendszerüzemeltető a földgázszállítási tevékenysége körében köteles biztosítani, hogy
 
-a)[^41] a rendszerüzemeltetők és a rendszerhasználók a szállítási rendszerüzemeltető részéről megkülönböztetés-mentes bánásmódban részesüljenek,
+a)[^42] a rendszerüzemeltetők és a rendszerhasználók a szállítási rendszerüzemeltető részéről megkülönböztetés-mentes bánásmódban részesüljenek,
 
 b) a rendszerüzemeltetők és a rendszerhasználók hozzáférhessenek a saját adataikhoz, valamint a közérdekű információkhoz,
 
@@ -32,17 +32,17 @@ c) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön el
 
 d) a földgázipari vállalkozások és a felhasználók egyenlő bánásmódban részesüljenek tekintet nélkül arra, hogy azok az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, földgáz kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók, vagy más, önálló vállalkozások, illetve felhasználók.
 
-(4)[^42] A szállítási rendszerüzemeltető a (3) bekezdés szerinti megkülönböztetés-mentes bánásmód keretében köteles biztosítani különösen az információhoz egyenlő feltételekkel történő hozzáférést, tekintet nélkül arra, hogy a felhasználók és vállalkozások az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, földgáz kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók vagy más, önálló vállalkozások, illetve felhasználók.
+(4)[^43] A szállítási rendszerüzemeltető a (3) bekezdés szerinti megkülönböztetés-mentes bánásmód keretében köteles biztosítani különösen az információhoz egyenlő feltételekkel történő hozzáférést, tekintet nélkül arra, hogy a felhasználók és vállalkozások az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, földgáz kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók vagy más, önálló vállalkozások, illetve felhasználók.
 
-(5)[^43] A szállítási rendszerüzemeltető működése során folyamatosan köteles megfelelni a 3. és e § szerinti engedélyezési feltételeknek.
+(5)[^44] A szállítási rendszerüzemeltető működése során folyamatosan köteles megfelelni a 3. és e § szerinti engedélyezési feltételeknek.
 
-[^34]: A Vhr. 4. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^35]: A Vhr. 4. § (1) bekezdés c) pont nyitó szövegrésze a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^36]: A Vhr. 4. § (1) bekezdés c) pont ca) alpontja a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^37]: A Vhr. 4. § (1) bekezdés c) pont cb) alpontja a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^38]: A Vhr. 4. § (1) bekezdés c) pont cf) alpontja a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^39]: A Vhr. 4. § (2) bekezdése a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^40]: A Vhr. 4. § (3) bekezdés nyitó szövegrésze a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^41]: A Vhr. 4. § (3) bekezdés a) pontja a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^42]: A Vhr. 4. § (4) bekezdése a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^43]: A Vhr. 4. § (5) bekezdését a 75/2011. (V. 2.) Korm. rendelet 16. §-a iktatta be.
+[^35]: A Vhr. 4. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^36]: A Vhr. 4. § (1) bekezdés c) pont nyitó szövegrésze a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^37]: A Vhr. 4. § (1) bekezdés c) pont ca) alpontja a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^38]: A Vhr. 4. § (1) bekezdés c) pont cb) alpontja a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^39]: A Vhr. 4. § (1) bekezdés c) pont cf) alpontja a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^40]: A Vhr. 4. § (2) bekezdése a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^41]: A Vhr. 4. § (3) bekezdés nyitó szövegrésze a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^42]: A Vhr. 4. § (3) bekezdés a) pontja a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^43]: A Vhr. 4. § (4) bekezdése a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^44]: A Vhr. 4. § (5) bekezdését a 75/2011. (V. 2.) Korm. rendelet 16. §-a iktatta be.

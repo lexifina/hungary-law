@@ -2,7 +2,7 @@
 
 ## Egyetemes szolgáltatás
 
-27. §[^136] (1) Az egyetemes szolgáltatási működési engedélyt kérelmezőnek rendelkeznie kell:
+27. §[^137] (1) Az egyetemes szolgáltatási működési engedélyt kérelmezőnek rendelkeznie kell:
 
 a) 3 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza az egyetemes szolgáltatói tevékenységet, a hozzá kapcsolódó költségeket, a pénzforgalmat,
 
@@ -12,13 +12,13 @@ c) az engedélyköteles tevékenység földgázellátási üzemzavar, válsághe
 
 d) az ÜKSZ vonatkozó rendelkezéseit kielégítő adatforgalmi és informatikai rendszerrel,
 
-e)[^137] a szállítási rendszerüzemeltetővel való folyamatos kapcsolattartásra alkalmas személyi és tárgyi feltételekkel,
+e)[^138] a szállítási rendszerüzemeltetővel való folyamatos kapcsolattartásra alkalmas személyi és tárgyi feltételekkel,
 
-f)[^138]
+f)[^139]
 
 g) a GET 39. §-ában és e rendelet 30. §-ában meghatározott mértékű földgázforrással,
 
-h)[^139] az ellátásában lévő egyetemes szolgáltatásra jogosult felhasználók ellátására közvetlenül vagy közvetve megkötött forrás és rendszerhasználati szerződésekkel, vagy egy földgázkereskedő által az adott egyetemes szolgáltató részére lekötött, az egyetemes szolgáltatásra jogosult felhasználók ellátásához megfelelő mértékű szállítási és tárolási kapacitásokkal.
+h)[^140] az ellátásában lévő egyetemes szolgáltatásra jogosult felhasználók ellátására közvetlenül vagy közvetve megkötött forrás és rendszerhasználati szerződésekkel, vagy egy földgázkereskedő által az adott egyetemes szolgáltató részére lekötött, az egyetemes szolgáltatásra jogosult felhasználók ellátásához megfelelő mértékű szállítási és tárolási kapacitásokkal.
 
 (2) Az egyetemes szolgáltatásra vonatkozó engedély iránti kérelemhez az e rendelet 5. számú mellékletének VII. fejezetében meghatározott iratokat kell benyújtani.
 
@@ -30,7 +30,7 @@ b) az egyetemes szolgáltatásra jogosult felhasználók hozzáférhessenek a sa
 
 c) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön előnyben.
 
-[^136]: A Vhr. 27. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^137]: A Vhr. 27. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (4) bekezdése szerint módosított szöveg.
-[^138]: A Vhr. 27. § (1) bekezdés f) pontját a 254/2015. (IX. 10.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
-[^139]: A Vhr. 27. § (1) bekezdés h) pontja a 91/2015. (IV. 9.) Korm. rendelet 21. § 5. pontja szerint módosított szöveg.
+[^137]: A Vhr. 27. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^138]: A Vhr. 27. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (4) bekezdése szerint módosított szöveg.
+[^139]: A Vhr. 27. § (1) bekezdés f) pontját a 254/2015. (IX. 10.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^140]: A Vhr. 27. § (1) bekezdés h) pontja a 91/2015. (IV. 9.) Korm. rendelet 21. § 5. pontja szerint módosított szöveg.

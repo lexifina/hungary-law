@@ -1,3 +1,3 @@
-92/C. §[^311] Az összekapcsolási pontra vonatkozó kapacitásallokációs-eljárási szabályokat, az összekapcsolási pontra vonatkozó nominálási szabályokat, valamint a szállítói felelősség részletes szabályait az ÜKSZ tartalmazza.
+92/C. §[^309] Az összekapcsolási pontra vonatkozó kapacitásallokációs-eljárási szabályokat, az összekapcsolási pontra vonatkozó nominálási szabályokat, valamint a szállítói felelősség részletes szabályait az ÜKSZ tartalmazza.
 
-[^311]: A Vhr. 92/C. §-át a 212/2014. (VIII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^309]: A Vhr. 92/C. §-át a 212/2014. (VIII. 27.) Korm. rendelet 3. §-a iktatta be.

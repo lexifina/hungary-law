@@ -1,18 +1,21 @@
 ## (A GET 39. §-ához)
 
-30. §[^143] (1) Egyetemes szolgáltatónak biztosítania kell a szolgáltatási területén vele szerződést kötő egyetemes szolgáltatásra jogosult felhasználók folyamatos gázellátását
+30. §[^144] (1) Az egyetemes szolgáltatónak biztosítania kell a szolgáltatási területén vele szerződést kötő egyetemes szolgáltatásra jogosult felhasználók folyamatos gázellátását legalább
 
-a) a szolgáltatási területre jellemző, de legalább egy gázévre összesen 2600 napfok számig, és
+a) az elmúlt százhúsz hónap téli időszakai közül a szolgáltatási terület vonatkozásában a legmagasabb napfok számúnak megfelelő mértékig, és
 
-b) legalább –12 °C közép-hőmérsékletéhez tartozó fogyasztási értékig.
+b) –12 °C közép-hőmérsékletéhez tartozó fogyasztási értékig.
 
-(2)[^144] Az egyetemes szolgáltatónak az (1) bekezdés szerinti ellátás biztonsági szint biztosítása érdekében rendelkeznie kell minden év március 31-én az általa ellátott felhasználók következő gázévi fogyasztásának megfelelő földgáz-kereskedelmi szerződésben lekötött földgázforrással vagy forrásopcióval, valamint minden év október 1-jén a 31. § (1) bekezdés szerinti téli felkészülési tervben meghatározott várható téli fogyasztás legalább 60%-ának megfelelő, hazai földgáztárolóban elhelyezett földgázkészlettel.
+(2) Az egyetemes szolgáltatónak az (1) bekezdés szerinti ellátás biztonsági szint biztosítása érdekében rendelkeznie kell minden év március 31-én az általa ellátott felhasználók következő gázévi fogyasztásának megfelelő földgáz-kereskedelmi szerződésben lekötött földgázforrással vagy forrásopcióval. Az egyetemes szolgáltatónak közvetlenül vagy közvetve rendelkeznie kell minden év október 1-jén a szolgáltatási terület elmúlt százhúsz hónap legmagasabb téli időszaki fogyasztása legalább 60%-ának megfelelő, hazai földgáztárolóban elhelyezett földgázkészlettel.
 
-(3)[^145] Az egyetemes szolgáltató az (1) és (2) bekezdésben meghatározott kötelezettségeinek nem vagy nem megfelelő teljesítéséért a felhasználók felé kártérítési felelősséggel tartozik.
+(3) Az egyetemes szolgáltató az (1) és (2) bekezdésben meghatározott kötelezettségeinek nem vagy nem megfelelő teljesítéséért a felhasználók felé kártérítési felelősséggel tartozik.
 
-(4)[^146]
+(4) A megelőző százhúsz hónap (1) és (2) bekezdés szerinti legmagasabb téli fogyasztásait a Hivatal minden év május 1-jéig a honlapján közzéteszi.
 
-[^143]: A Vhr. 30. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^144]: A Vhr. 30. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^145]: A Vhr. 30. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^146]: A Vhr. 30. § (4) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+(5) Az egyetemes szolgáltató a (2) bekezdés szerint földgázforrásokhoz kapcsolódóan köteles a Hivatal számára bemutatni:
+
+a) március 31-ig a lekötött tárolói és szállítói kapacitásokat,
+
+b) október 1-jéig a betárolt mobilkészlet mértékét.
+
+[^144]: A Vhr. 30. §-a az 56/2016. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

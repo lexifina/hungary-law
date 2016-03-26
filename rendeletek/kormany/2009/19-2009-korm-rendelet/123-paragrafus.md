@@ -1,4 +1,4 @@
-123. §[^412] (1) Az engedélyes üzletszabályzata tervezetét az érintett engedélyesekkel történő egyeztetés céljából a honlapján közzéteszi.
+123. §[^410] (1) Az engedélyes üzletszabályzata tervezetét az érintett engedélyesekkel történő egyeztetés céljából a honlapján közzéteszi.
 
 (2) Az üzletszabályzat tervezetét az engedélyes az érintett felhasználói érdekképviseletekkel, továbbá a rendszerüzemeltetői üzletszabályzatot a földgázkereskedők érdekképviseleteivel egyeztetve, a beérkezett észrevételekkel együtt nyújtja be a Hivatal részére jóváhagyásra.
 
@@ -6,4 +6,4 @@
 
 (4) A Hivatal a jóváhagyási eljárás keretében a (3) bekezdés szerinti, fennmaradt vitás kérdésekben dönt, és az üzletszabályzatot jóváhagyja, a jóváhagyást feltételekhez köti, vagy a jóváhagyást megtagadja.
 
-[^412]: A Vhr. 123. §-a a 254/2015. (IX. 10.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^410]: A Vhr. 123. §-a a 254/2015. (IX. 10.) Korm. rendelet 19. §-ával megállapított szöveg.
