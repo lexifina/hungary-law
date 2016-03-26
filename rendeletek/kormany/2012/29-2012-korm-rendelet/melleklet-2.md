@@ -4,7 +4,7 @@
 
 ## Az I. besorolási osztályban:
 
-## Felsőoktatásban szerzett gazdaságtudományi, jogi, közszolgálati, a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló kormányrendelet szerinti szakképzettség; vagy felsőoktatásban szerzett szakképzettség és okleveles pénzügyi revizori, pénzügyi-számviteli szakellenőri, ellenőrzési szakelőadó, okleveles könyvvizsgálói, költségvetési ellenőri, mérlegképes könyvelői, a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri, az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA), közigazgatási gazdálkodási és ellenőrzési szakértői, költségvetési ellenőri, államháztartási felsőfokú szakképesítés.
+## Felsőoktatásban szerzett gazdaságtudományi, jogi, közszolgálati, gazdasági mérnöki, a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló kormányrendelet szerinti szakképzettség; vagy felsőoktatásban szerzett szakképzettség és okleveles pénzügyi revizori, pénzügyi-számviteli szakellenőri, ellenőrzési szakelőadó, okleveles könyvvizsgálói, költségvetési ellenőri, mérlegképes könyvelői, a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri, az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA), közigazgatási gazdálkodási és ellenőrzési szakértői, költségvetési ellenőri, felsőfokú államháztartási, államháztartási gazdálkodási és ellenőrzési, elektronikus információbiztonsági vezetői, integritás tanácsadói szakképesítés.
 
 ## 2. Védelmi igazgatási, honvédelmi feladatkör
 
@@ -132,11 +132,11 @@
 
 ## Az I. besorolási osztályban:
 
-## Felsőoktatásban szerzett közszolgálati, gazdaságtudományi, természettudományi, bölcsészettudományi, társadalomtudományi, hittudományi, jogi, műszaki szakképzettség; vagy felsőoktatásban szerzett szakképzettség és informatikai, ügyviteli, közgazdasági, közszolgálati, jogi szakképesítés, vagy kormányablak ügyintézői szakképesítés.
+## Felsőoktatásban szerzett közszolgálati, gazdaságtudományi, természettudományi, bölcsészettudományi, társadalomtudományi, hittudományi, jogi, műszaki szakképzettség; vagy felsőoktatásban szerzett szakképzettség és informatikai, ügyviteli, közgazdasági, közszolgálati, jogi szakképesítés, vagy kormányablak ügyintézői vizsga.
 
 ## A II. besorolási osztályban:
 
-## Közgazdasági, közszolgálati rendészeti, műszaki középiskolai végzettség; vagy középiskolai végzettség és informatikai, ügyviteli, közgazdasági, üzleti, közszolgálati szakmacsoportba tartozó szakképesítés, vagy kormányablak ügyintézői szakképesítés.
+## Közgazdasági, közszolgálati rendészeti, műszaki középiskolai végzettség; vagy középiskolai végzettség és informatikai, ügyviteli, közgazdasági, üzleti, közszolgálati szakmacsoportba tartozó szakképesítés, vagy kormányablak ügyintézői vizsga.
 
 ## 15. Építésügyi igazgatási területen
 

@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-29-20-2
 | 2015-01-01 | 2012-29-20-22.11 | 373/2014. (XII. 31.) Korm. rendelet |
 | 2015-04-01 | 2012-29-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-09-01 | 2012-29-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-03-26 | 2012-29-20-22.14 | 58/2016. (III. 25.) Korm. rendelet |
