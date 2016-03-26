@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2015-12-12 | 2015. évi CXCII. törvény | 1991-34-00-00.68 |
 | 2016-01-01 | 2015. évi CXCII. törvény | 1991-34-00-00.69 |
 | 2016-01-11 | 2015. évi CXCII. törvény | 1991-34-00-00.70 |
+| 2016-03-26 | 2016. évi X. törvény | 1991-34-00-00.71 |

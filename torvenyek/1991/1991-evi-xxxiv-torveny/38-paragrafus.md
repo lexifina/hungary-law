@@ -44,8 +44,6 @@ j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj f
 
 kapcsolatos részletes szabályokat rendeletben határozza meg.
 
-Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
-
-(3)
+(3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
 (4)
