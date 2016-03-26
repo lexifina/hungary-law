@@ -1,6 +1,6 @@
-11. § (1) Az oktató, kutató kiválósága elismeréseként nemzeti felsőoktatási kiválóság ösztöndíj adományozható annak a doktorjelöltnek, aki kiemelkedő színvonalú, önállóan vagy kutatócsoportban végzett kutatási eredménnyel rendelkezik, és az ösztöndíjas időszakban felsőoktatási intézmény keretében kutatási tevékenységet folytatni tervez, vagy aki felsőoktatási intézmény kutatási projektjében aktívan részt vesz.
+11. § (1)[^5] Kutatói kiválósága támogatásaként nemzeti felsőoktatási kiválóság ösztöndíj adományozható annak a doktorjelöltnek, aki kiemelkedő színvonalú, önállóan vagy kutatócsoportban végzett kutatási eredménnyel rendelkezik, és az ösztöndíjas jogviszony alatt felsőoktatási intézmény keretében kutatási tevékenységet végez.
 
-(2)[^6] Nemzeti felsőoktatási kiválóság ösztöndíjban részesíthető az az oktató, kutató, aki kiemelkedő színvonalú, önállóan vagy kutatócsoportban végzett kutatási eredménnyel rendelkezik, és az ösztöndíjas időszakban felsőoktatási intézmény keretében tervez kutatási tevékenységet folytatni, vagy aki felsőoktatási intézmény kutatási projektjében aktívan részt vesz.
+(2)[^6] Nemzeti felsőoktatási kiválóság ösztöndíjban részesíthető az az oktató, kutató, aki kiemelkedő színvonalú, önállóan vagy kutatócsoportban végzett kutatási eredménnyel rendelkezik, és az ösztöndíjas jogviszony alatt felsőoktatási intézmény keretében kutatási tevékenységet végez.
 
 (3) Az ösztöndíjas jogviszony feltétele doktorjelölt esetén az, hogy az ösztöndíjas jogviszony létesítésekor igazolni tudja a doktorjelölti jogviszonyát. A pályázat benyújtásának nem feltétele a doktorjelölti jogviszony megléte.
 
@@ -8,4 +8,5 @@
 
 (5) Az ösztöndíj feltételeként meghatározott kutatási eredmény – vagy egyéb teljesítés – más állami ösztöndíj-támogatás eredményeként nem számolható el.
 
-[^6]: A 11. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 52. § 1. pontja szerint módosított szöveg.
+[^5]: A 11. § (1) bekezdése az 59/2016. (III. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^6]: A 11. § (2) bekezdése az 59/2016. (III. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
