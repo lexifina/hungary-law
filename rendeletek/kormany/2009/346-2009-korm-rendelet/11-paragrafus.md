@@ -16,9 +16,9 @@
 
 6. a beruházások kiemelt előirányzatot a K64. Egyéb tárgyi eszközök beszerzése, létesítése,
 
-7. a felújítások kiemelt előirányzatot a K71. Ingatlanok felújítása,
+7.[^28] a felújítások kiemelt előirányzatot a K73. Egyéb tárgyi eszközök felújítása,
 
-8. az egyéb felhalmozási célú kiadások kiemelt előirányzatot a K84. Egyéb felhalmozási célú támogatások államháztartáson belülre és a K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre,
+8.[^29] az egyéb felhalmozási célú kiadások kiemelt előirányzatot a K84. Egyéb felhalmozási célú támogatások államháztartáson belülre, a K86. Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre és a K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre,
 
 9. a működési célú támogatások államháztartáson belülről kiemelt előirányzatot a B16. Egyéb működési célú támogatások bevételei államháztartáson belülről,
 
@@ -43,3 +43,5 @@ rovat összesítéssel küldi meg a Kincstár részére.
 (5) A KNBSZ az elemi költségvetésében a speciális működési kiadásai fedezetére elkülönített előirányzatot a dologi kiadások kiemelt előirányzaton belül a K337. Egyéb szolgáltatások rovaton, egy összegben, speciális működési kiadásként tervezi és számolja el.
 
 [^27]: A 11. §-t a 89/2012. (IV. 26.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte, újonnan a 26/2015. (II. 25.) Korm. rendelet 11. §-a iktatta be.
+[^28]: A 11. § (3) bekezdés 7. pontja az 57/2016. (III. 25.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^29]: A 11. § (3) bekezdés 8. pontja az 57/2016. (III. 25.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
