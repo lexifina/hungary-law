@@ -1,4 +1,4 @@
-## 44. § Hatályát veszti a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 20/2015. (IV. 13.) MvM rendelet.
+## 44. §[^1]
 
 1. melléklet a 8/2016. (III. 25.) MvM rendelethez
 
@@ -193,3 +193,5 @@
 | 79 | 350895 |  |  | 35/2/2/3. Az MFB Zrt. rábízott vagyonába tartozó részesedés-szerzés | Az MFB Zrt. rábízott vagyonába tartozó részesedés-szerzés | jogi személy | - | - | törvény, egyedi döntés alapján vagy alapítói határozattal egyösszegű vagy részletekben történő kifizetés útján | - | - | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság | - | - |
 
 | 80 | 351784 |  |  | 35/2/2/4. Az Erste Bank Hungary Zrt. tulajdonosi részesedésé- nek megszerzése | részesedésszerzés biztosítása | jogi személy | - | - | törvény, egyedi döntés alapján vagy alapítói határozattal egyösszegű vagy részletekben történő kifizetés útján | - | - | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság | - | - |
+
+[^1]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
