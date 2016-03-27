@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-59-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-03-26 | 2016-59-20-22.1 | 59/2016. (III. 25.) Korm. rendelet |
+| 2016-03-27 | 2016-59-20-22.2 | 2010: CXXX. törvény |

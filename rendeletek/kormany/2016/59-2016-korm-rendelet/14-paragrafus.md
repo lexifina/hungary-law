@@ -1,4 +1,4 @@
-## 13. § Az R2. 12. § (2) bekezdésében a „felét” szövegrész helyébe a „harminc százalékát” szöveg lép.
+## 11–13. §[^5]
 
 ## 3. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) Az 1–8. §, a 9. § a) pontja, a 10. § és az 1. melléklet 2016. október 1-jén lép hatályba.
 
 (3) A 9. § b) pontja és a 2. melléklet 2016. október 2-án lép hatályba.
+
+[^5]: A 11–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
