@@ -1792,7 +1792,7 @@
 
 | Közelkörzeti és műszeres megközelítési eljárások töréspontjainak távolsága | 1/100 km számított | fontos 1 x 10-5 |
 
-2. számú melléklet a 16/2000. (XI. 22.) KöViM rendelethez[^7]
+2. számú melléklet a 16/2000. (XI. 22.) KöViM rendelethez[^8]
 
 A LÉGIFORGALMI SZOLGÁLATOK ELJÁRÁSAI
 
@@ -2908,6 +2908,14 @@ b) az érkező légijármű megközelítési irányának reciprokától legaláb
 
 ba) ha a felszállás legalább 3 perccel azon időpont előtt megtörténik, amikorra az érkező légijármű a műszeres futópálya küszöbe fölé várható (5–38 ábra), vagy
 
+bb) addig, amíg az érkező légijármű át nem repüli azt a végső megközelítési nyomvonalon lévő pontot, amelyet az adott repülőtéren az illetékes légiforgalmi szolgáltató határoz meg. 5.7.1.2 Ha az érkező légijármű közvetlen megközelítést hajt végre, az induló légijármű felszállhat:
+
+a) bármely irányba, feltéve, hogy a felszállás 5 perccel azon időpont előtt megtörténik, amikorra az érkező légijármű a műszeres futópálya küszöbe fölé várható,
+
+b) az érkező légijármű megközelítési irányának reciprokától legalább 45 fokkal eltérő irányba:
+
+ba) ha a felszállás legalább 3 perccel azon időpont előtt megtörténik, amikorra az érkező légijármű a műszeres futópálya küszöbe fölé várható (5–38 ábra), vagy
+
 bb) addig, amíg az érkező légijármű át nem repüli azt a végső megközelítési nyomvonalon lévő pontot, amelyet az adott repülőtéren az illetékes légiforgalmi szolgáltató határoz meg.
 
 a) a légijárműveket VOR/DME berendezéssel kijelölt ATS útvonalakon kell vezetni, vagy
@@ -3058,7 +3066,7 @@ Megjegyzés: A repülési terv 9. rovatában a turbulencia kategóriák kitölt�
 
 4.10.1.1 A légijárművek függőleges helyzetét, a 4.10.1.2 pontban foglaltak kivételével, tengerszint feletti magasságokban kell kifejezni az átváltási magasságon vagy ez alatt, és repülési szintekben, az átváltási szinten vagy felette. Az átváltási rétegen keresztül történő repüléseknél a függőleges helyzetet emelkedés közben repülési szintekben, süllyedés közben pedig tengerszint feletti magasságokban kell kifejezni.
 
-4.10.1.1.1 Budapest FIR-ben átváltási magasságként 9000 láb (2750 m) AMSL-t kell használni.
+4.10.1.1.1 Budapest FIR-ben átváltási magasságként 10 000 láb (3050 m) AMSL-t kell használni.
 
 4.10.1.1.2 A műszer szerinti megközelítést végrehajtó érkező légijárművek számára a rendeltetési repülőtér tényleges QNH értékét az ATS egységeknek továbbítaniuk kell a légijárművezetők számára.
 
@@ -3068,7 +3076,7 @@ a) olyan műszerezett futópályáknál, ahol a küszöb 7 lábbal (2 méterrel)
 
 b) olyan futópályáknál, amelyekre precíziós megközelítéseket végeznek.
 
-4.10.1.3 Budapest FIR-ben az átváltási magasságon (9000 láb AMSL), vagy ez alatt végrehajtott útvonalrepülések során a légijárművek függőleges helyzetét a budapesti QNH értékhez (területi QNH) viszonyítva kell kifejezni.
+4.10.1.3 Budapest FIR-ben az átváltási magasságon (10 000 láb AMSL), vagy ez alatt végrehajtott útvonalrepülések során a légijárművek függőleges helyzetét a budapesti QNH értékhez (területi QNH) viszonyítva kell kifejezni.
 
 4.10.1.4 Budapest FIR-ben az ellenőrzött repülőtereken, és közelkörzetekben külön átváltási szintet kell meghatározni az érintett légtérben működő légijárművek számára.
 
@@ -3080,13 +3088,15 @@ b) olyan futópályáknál, amelyekre precíziós megközelítéseket végeznek.
 
 4.10.2.3 Budapest FIR-ben a tényleges átváltási szint meghatározásához az alábbi táblázat használatos:
 
-| Átváltási magasság | QNH (hPa) | Átváltási szint Budapest FIR-ben |
+|  | A | B | C |
 
-| 9000 láb (2750 m) | 1013,3 és felette | FL 100 |
+| 1. | Átváltási magasság | QNH (hPa) | Átváltási szint Budapest FIR-ben |
 
-|  | 1013,2 - 977,2 | FL 110 |
+| 2. | 10 000 láb (3050 m) | 1013,3 és felette | FL110 |
 
-|  | 977,1 és alatta | FL 120 |
+| 3. | 1013,2–977,2 | FL120 |
+
+| 4. | 977,1 és alatta | FL130 |
 
 4.10.3 IFR repülések legalacsonyabb utazómagassága
 
@@ -4412,7 +4422,7 @@ Megjegyzés: Lásd az 5-43 ábrát.
 
 D és E osztályú légterekben történő üzemelés esetén, ha a légijármű kéri, a másik légijármű vezető beleegyezésével egy ATC egység engedélyt adhat nappal, látási meteorológiai körülmények között működő ellenőrzött repülésnek, beleértve az induló és érkező repüléseket is arra, hogy VMC-ben maradva, saját elkülönítést tartson a másik légijárműtől. Amikor valamely ellenőrzött repülésnek ilyen engedélyt adnak, a következőket kell alkalmazni:
 
-a) az engedély a repülés egy meghatározott szakaszára vonatkoztatva csak FL100 (3050 m STD), vagy 10 000 láb (3050 m), amelyik a megfelelő alatti, emelkedő, vagy süllyedő légijárműnek adható;
+a) az engedély a repülés egy meghatározott szakaszára vonatkoztatva csak 10 000 láb (3050 m) AMSL alatti, amelyik a megfelelő alatti, emelkedő, vagy süllyedő légijárműnek adható;
 
 b) ha fennáll annak lehetősége, hogy a repülés látási meteorológiai körülmények között nem hajtható végre, akkor az IFR repülésnek alternatív utasításokat kell adni, amelyeket abban az esetben kell végrehajtani, ha a VMC-ben való repülés nem tartható az engedély érvényességi ideje alatt;
 
@@ -4918,18 +4928,4 @@ Megjegyzés: Lásd a 8.5.4.1.4 b) alpontját is.
 
 8.5.3.4 Légijármű azonosító jel adására képes „S” módú válaszjeladóval felszerelt légijármű, az ICAO repülési terv 7. rovatában megadottak szerinti azonosító jelét kell, hogy továbbítsa, vagy ha repülési tervet nem nyújtott be, akkor a légijármű lajstromjelét.
 
-8.5.3.5 Minden esetben, amikor a helyzetképernyőn azt látják, hogy az „S” módú válaszjeladóval felszerelt légijármű által továbbított légijármű azonosító más, mint amire számítanak, a légijármű vezetőjét fel kell kérni a beállított kód ellenőrzésére és a megfelelő légijármű azonosító újbóli beállítására.
-
-8.5.3.6 Ha ezt követően a légijármű vezetője megerősíti az „S” módú azonosító helyes beállítását és az eltérés továbbra is fennáll, a légiforgalmi irányítónak az alábbiakat kell végrehajtania:
-
-a) tájékoztatnia kell a légijármű vezetőjét a fennálló eltérésről,
-
-b) amikor lehetséges, helyesbítenie kell a légijármű azonosító jelét tartalmazó címkét a helyzetképernyőn, és
-
-c) értesítenie kell az „S” módot azonosítási célra felhasználó következő irányító munkahelyet és egyéb más érdekelt egységet a téves légijármű azonosító jelet továbbító légijárműről.
-
-8.5.4 „C” mód alkalmazásán alapuló magassági tájékoztatás
-
-8.5.4.1 „C” módtól származó magasság tájékoztatás pontosságának ellenőrzése
-
-[^7]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a, a 15/2014. (IV. 3.) NFM rendelet 2. §-a, a 4/2015. (II. 3.) NFM rendelet 2. § b) pontja, a 65/2015. (XI. 13.) NFM rendelet 4. § a) pontja szerint módosított szöveg.
+[^8]: A 2. számú melléklet a 115/2005. (XII. 27.) GKM rendelet 2. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (3) bekezdése, a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 25. § (3) bekezdésének a) pontja, a 46/2008. (XII. 31.) KHEM rendelet 1. §-a, az 56/2011. (XI. 8.) NFM rendelet 8. § (2) bekezdése és 10. § (2) bekezdés b)–e) pontja, a 91/2011. (XII. 30.) NFM rendelet 9. § c)–d) pontja, a 6/2013. (II. 22.) NFM rendelet 2. §-a, a 15/2014. (IV. 3.) NFM rendelet 2. §-a, a 4/2015. (II. 3.) NFM rendelet 2. § b) pontja, a 65/2015. (XI. 13.) NFM rendelet 4. § a) pontja és 3. §-a szerint módosított szöveg.
