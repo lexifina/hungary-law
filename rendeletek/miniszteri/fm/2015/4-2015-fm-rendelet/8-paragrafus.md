@@ -2,7 +2,7 @@
 
 (2) Az MVH a kifizetési kérelmeket beérkezési sorrendben bírálja el. Ha a kérelmező a kérelmét módosítja, a kifizetési kérelemnek a sorrendben elfoglalt helyét a módosítás beérkezésének napja határozza meg. Ha az MVH a kérelmezőt hiánypótlásra szólítja fel, a kifizetési kérelem beérkezési napjának a határidőben teljesített hiánypótlás beérkezésének napját, ennek elmaradása esetén a hiánypótlási határidő utolsó napját követő ötödik munkanapot kell tekinteni. Az MVH a beérkezési sorrendben azonos helyen szereplő kérelmeket a támogatási igények összegének növekvő sorrendjében bírálja el.
 
-(3) Az MVH az egyes borpiaci évekre vonatkozó támogatást a borpiaci évre az 1. § (5) bekezdésében megállapított keretösszeg erejéig a borpiaci év kezdetét követő év október 15-ig, az azt meghaladó részében a borpiaci év kezdetét követő év október 15. napja után fizeti ki.
+(3)[^12] Az MVH az egyes borpiaci évekre vonatkozó támogatást az adott borpiaci évre az 1. § (6) bekezdésében megállapított keretösszeg erejéig a borpiaci év kezdetét követő év október 15-ig, az azt meghaladó részében a borpiaci év kezdetét követő év október 15. napja után fizeti ki.
 
 (4) A kérelmező a program utolsó negyedévére vonatkozó kifizetési kérelem benyújtására nyitva álló határidőt követő hatvan napon belül egy eredeti és egy másolati példányban köteles a program megvalósításának – a program mérhető célkitűzései szerinti – értékelését az MVH-hoz benyújtani. A kérelmező e kötelezettségét a kifizetési kérelem benyújtásának esetleges elmaradása nem érinti.
 
@@ -15,3 +15,5 @@ b) a kérelmező által képviselt borászati termékek célországba irányuló
 c) a kérelmező által képviselt borászati termékek piaci helyzetének elemzése és összehasonlítása a célországban a program elindulását megelőző állapottal.
 
 (6) Az értékelés eredeti példányát az MVH tizenöt napon belül továbbítja a minisztérium részére, a program utólagos értékelése céljából.
+
+[^12]: A 8. § (3) bekezdése a 21/2016. (III. 31.) FM rendelet 9. §-ával megállapított szöveg.

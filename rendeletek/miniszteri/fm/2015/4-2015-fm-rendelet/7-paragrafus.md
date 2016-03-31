@@ -34,6 +34,8 @@ j) az idegen nyelven kiállított bizonylatok hiteles magyar fordítását.
 
 (7) A kérelmezőnél felmerülő, az 5. § (1) bekezdés m) pontjában meghatározott általános költségek esetében a (4) bekezdés a)–g) pontja szerinti dokumentumokat a kifizetési kérelemhez nem kell csatolni.
 
-(8) Ha a kérelmező a program egészének vagy egy-egy akció egészének a megvalósítására szerződést köt, a (4) bekezdés a)–g) pontja szerinti dokumentumok alatt a kérelmezővel szerződő másik fél részére kiállított bizonylatokat és a másik fél által kötött szerződéseket is érteni kell.
+(8)[^11] Ha a kérelmező a program egészének vagy részének a megvalósítására szerződést köt, a (4) bekezdés a)–g) pontja szerinti dokumentumok alatt a kérelmezővel szerződő másik fél részére kiállított bizonylatokat és a másik fél által kötött szerződéseket is érteni kell.
 
 (9) A támogatás alapjául szolgáló számlának az egyes gazdasági eseményeket és értéküket tételesen tartalmaznia kell.
+
+[^11]: A 7. § (8) bekezdése a 21/2016. (III. 31.) FM rendelet 8. §-ával megállapított szöveg.

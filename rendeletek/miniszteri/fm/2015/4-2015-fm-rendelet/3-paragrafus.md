@@ -36,6 +36,8 @@ f) a 3. melléklet szerinti ütemtervet.
 
 (4) Egy kérelmező egy programjavaslatot nyújthat be.
 
-(5) A program megvalósítása során a promóciós anyagokon a Magyar Bor arculati kézikönyv elemeinek alkalmazása szükséges, amely a Magyar Turizmus Zrt. honlapján érhető el.
+(5)[^2] A program megvalósítása során az 5. § (1) bekezdés g) pontjában foglaltak szerinti promóciós anyagokon a Magyar Bor arculati kézikönyvben meghatározott védjegy (logó) alkalmazása szükséges. A Magyar Bor arculati kézikönyv a Magyar Turizmus Zrt. honlapján érhető el.
 
 (6) A (2) bekezdés b) pontja szerinti célkitűzéseket a program keretében elvégzett tevékenységek mérőszámaként meghatározott kimeneti mutatók, az elvégzett tevékenységek közvetlen hatásait kifejező eredménymutatók és az egyes akciók távlati, a kereskedelem alakulásában ténylegesen megmutatkozó hatásait kifejező hatásmutatók alkalmazásával kell meghatározni.
+
+[^2]: A 3. § (5) bekezdése a 21/2016. (III. 31.) FM rendelet 5. §-ával megállapított szöveg.

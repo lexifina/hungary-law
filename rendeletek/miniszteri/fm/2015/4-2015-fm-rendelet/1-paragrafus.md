@@ -16,7 +16,7 @@ d) legalább 10 akcióból áll.
 
 a) egy borpiaci éven belül valósul meg, valamint
 
-b) megfelel a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 45. cikk (2) bekezdése szerinti intézkedések (a továbbiakban: intézkedéstípus) valamelyikének.
+b)[^1] megfelel a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU európai parlamenti és tanácsi rendelet) 45. cikk (2) bekezdése szerinti intézkedések (a továbbiakban: intézkedéstípus) valamelyikének.
 
 (4) A program időtartama nem lehet rövidebb, mint egy év, vagy amennyiben a program időtartama egy évnél kevesebb, akkor a programnak legalább három különböző intézkedéstípust meg kell valósítania.
 
@@ -33,3 +33,5 @@ c) a 2016/2017. borpiaci évben 1 millió euró.
 (7) A támogatás mértéke a támogatásra jogosult költségek 50%-a.
 
 (8) Az egy program megvalósításához igényelhető támogatás összege legalább 25 ezer euró, legfeljebb 250 ezer euró.
+
+[^1]: Az 1. § (3) bekezdés b) pontja a 21/2016. (III. 31.) FM rendelet 4. §-ával megállapított szöveg.

@@ -1,8 +1,6 @@
-## 12. §[^1]
-
 1. melléklet a 4/2015. (II. 19.) FM rendelethez
 
-## Célországok
+Célországok
 
 1. Amerikai Egyesült Államok
 
@@ -21,5 +19,3 @@
 8. Oroszországi Föderáció
 
 9. Svájc
-
-[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
