@@ -6,5 +6,8 @@
 
 (4)[^215] Az (1)–(3) bekezdésben foglaltak alkalmazása a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 20. § b) pontja alapján akkor mellőzhető, ha a jogügylet eredményeként az érintett ingatlan egyetlen személy tulajdonába kerül.
 
+(5)[^216] A mező- és erdőgazdasági földek forgalmáról szóló törvény szerint földnek minősülő ingatlanok esetében az (1)–(3) bekezdésben foglalt iratok, illetve nyilatkozatok helyett a szerződésnek az elővásárlásra jogosultakkal hirdetményi úton történő közlést igazoló, az eladó részére a jegyző által – az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról szóló kormányrendelet szerint – megküldött jognyilatkozatokat és iratjegyzéket kell csatolni.
+
 [^214]: A 75. § (1) bekezdése a 48/2010. (IV. 27.) FVM rendelet 95. §-a szerint módosított szöveg.
 [^215]: A 75. § (4) bekezdését a 67/2015. (X. 30.) FM rendelet 4. §-a iktatta be.
+[^216]: A 75. § (5) bekezdését a 19/2016. (III. 30.) FM rendelet 1. §-a iktatta be.

@@ -1,3 +1,3 @@
-## 113/D. §[^285] Bírósági végrehajtó számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevételére vonatkozó kérelméhez mellékelni kell az önálló bírósági végrehajtók tekintetében a Magyar Bírósági Végrehajtói Kamara igazolását a bírósági végrehajtói kamarai tagság fennállásáról, a törvényszéki végrehajtók tekintetében pedig az illetékes törvényszék 30 napnál nem régebben kiállított igazolását a törvényszéki végrehajtói szolgálat fennállásáról.
+## 113/D. §[^286] Bírósági végrehajtó számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevételére vonatkozó kérelméhez mellékelni kell az önálló bírósági végrehajtók tekintetében a Magyar Bírósági Végrehajtói Kamara igazolását a bírósági végrehajtói kamarai tagság fennállásáról, a törvényszéki végrehajtók tekintetében pedig az illetékes törvényszék 30 napnál nem régebben kiállított igazolását a törvényszéki végrehajtói szolgálat fennállásáról.
 
-[^285]: A 113/D. §-t a 148/2012. (XII. 28.) VM rendelet 17. §-a iktatta be.
+[^286]: A 113/D. §-t a 148/2012. (XII. 28.) VM rendelet 17. §-a iktatta be.
