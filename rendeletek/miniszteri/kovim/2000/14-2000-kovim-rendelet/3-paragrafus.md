@@ -1,8 +1,8 @@
 ## 2. § Ez a rendelet a kihirdetését követő 60. napon lép hatályba.
 
-3. §[^3] Ez a rendelet a levegő-föld beszédüzemű kommunikáció csatornatávolságára vonatkozó követelményeknek az egységes európai égbolt keretében történő megállapításáról szóló, 2007. október 26-ai 1265/2007/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+3. §[^4] Ez a rendelet a levegő-föld beszédüzemű kommunikáció csatornatávolságára vonatkozó követelményeknek az egységes európai égbolt keretében történő megállapításáról szóló, 2007. október 26-ai 1265/2007/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-Melléklet a 14/2000. (XI. 14.) KöViM rendelethez[^4]
+Melléklet a 14/2000. (XI. 14.) KöViM rendelethez[^5]
 
 REPÜLÉSI SZABÁLYOK
 
@@ -4182,6 +4182,10 @@ A szaggatott vörös fényjelek, vagy vörös rakéta valamilyen veszélyről t�
 
 Az ilyen jelzések egyike sem jelent irányítói engedélyt vagy utasítást.
 
+12. Ellenőrzött légtérrel határos TIZ-ben történő üzemelés
+
+Ha a TIZ felső határa egybeesik a fölötte lévő irányítói körzet alsó határával, a TIZ-ben üzemelő vagy a TIZ légterét átrepülő légijármű a TIZ felső határát legfeljebb 500 láb (150 m) távolságra közelítheti meg, kivéve, ha az AFIS egység és a TIZ légterével határos légtérben illetékes ATC egység ettől eltérően megállapodik.
+
 „L” Függelék
 
 VFR ELJÁRÁSOK BUDAPEST REPÜLŐTÉRI IRÁNYÍTÓ KÖRZETBEN ÉS BUDAPEST TMA-BAN
@@ -5206,13 +5210,5 @@ A repülés biztonságos és hatékony vezetéséhez hasznos tájékoztatások a
 
 171. Repüléstájékoztató körzet (FIR) – Flight information region (FIR)
 
-Meghatározott kiterjedésű légtér, amelyben repüléstájékoztató és riasztószolgálatot nyújtanak.
-
-172. Repüléstájékoztató központ (FIC) – Flight information centre (FIC)
-
-Repüléstájékoztató, légiforgalmi tanácsadó és riasztószolgálat ellátására létesített egység.
-
-173. Repüléstájékoztató szolgálat (FIS) – Flight information service (FIS)
-
-[^3]: A 3. §-t a 29/2008. (X. 30.) KHEM rendelet 1. §-a iktatta be.
-[^4]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja, a 6/2013. (II. 22.) NFM rendelet 1. §-a, a 15/2014. (IV. 3.) NFM rendelet 1. §-a, a 4/2015. (II. 3.) NFM rendelet 1. §-a, a 65/2015. (XI. 13.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 3. §-t a 29/2008. (X. 30.) KHEM rendelet 1. §-a iktatta be.
+[^5]: A melléklet a 115/2005. (XII. 27.) GKM rendelet 1. §-ával megállapított, a 83/2006. (XII. 13.) GKM rendelet 5. § (1) bekezdése, a 95/2006. (XII. 27.) GKM rendelet 24. §-a, a 87/2007. (XI. 6.) GKM rendelet 1. §-a, a 118/2007. (XII. 29.) GKM rendelet 2. § (5) bekezdése, a 29/2008. (X. 30.) KHEM rendelet 2. §-a, az 56/2011. (XI. 8.) NFM rendelet 9. §-a, 10. § (3) bekezdése és 11. § (2) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 8. § a)–b) pontja, a 6/2013. (II. 22.) NFM rendelet 1. §-a, a 15/2014. (IV. 3.) NFM rendelet 1. §-a, a 4/2015. (II. 3.) NFM rendelet 1. §-a, a 65/2015. (XI. 13.) NFM rendelet 1. §-a szerint módosított szöveg.
