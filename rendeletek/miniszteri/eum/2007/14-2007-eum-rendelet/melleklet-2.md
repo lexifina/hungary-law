@@ -144,7 +144,7 @@
 
 ## 11. Szakorvosi vélemény
 
-## 11.1. Nyilatkozat arról, hogy klinika vagy megyei kórház által kiállított vagy korábban országos intézettől beszerzett, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 11.1. Nyilatkozat arról, hogy országos gyógyintézet, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdése szerinti klinika (a továbbiakban: klinika) vagy korábbi megyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
 
 ## 11.2. Az eszköz pontos megnevezése, meghatározása
 
@@ -172,4 +172,4 @@
 
 2. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^182]
 
-[^182]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja szerint módosított szöveg.
+[^182]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (2) bekezdése szerint módosított szöveg.

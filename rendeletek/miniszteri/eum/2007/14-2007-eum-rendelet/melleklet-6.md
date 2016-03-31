@@ -94,7 +94,7 @@
 
 ## 10. Szakorvosi vélemény
 
-## 10.1. Nyilatkozat arról, hogy klinika vagy megyei kórház által kiállított vagy korábban országos intézettől beszerzett, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 10.1. Nyilatkozat arról, hogy országos gyógyintézet, klinika vagy korábbi megyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
 
 ## 10.2. Az eszköz pontos megnevezése, meghatározása
 
@@ -120,7 +120,7 @@
 
 ## 10.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez
+6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^186]
 
 A járóbeteg gyógyászati segédeszköz költségvetési keretből az OEP nem támogatja:
 
@@ -130,7 +130,7 @@ A járóbeteg gyógyászati segédeszköz költségvetési keretből az OEP nem 
 
 3. a diagnosztikai eszközöket és anyagokat a vércukorszintmérő és légzési csúcsáramlásmérő kivételével,
 
-4. a kompressziós harisnyák, tumoros mellműtétek utáni protézis viselésére szolgáló melltartók, deformált láb estén a gyógycipők kivételével a ruházati eszközöket,
+4. a kompressziós textíliák, tumoros mellműtétek utáni protézis viselésére szolgáló melltartók, deformált láb esetén a gyógycipők kivételével a ruházati eszközöket,
 
 5. a tumoros betegségeket követő műtét utáni és balesetből származó, valamint életmentő műtétek következményeképpen előállt hiányok korrekciója kivételével az esztétikai protéziseket,
 
@@ -147,3 +147,5 @@ A járóbeteg gyógyászati segédeszköz költségvetési keretből az OEP nem 
 11. azon, a támogatott gyógyászati segédeszköztől eltérő kivitelű gyógyászati segédeszközöket, amelyek kizárólag esztétikai, illetve kényelmi célokat szolgálnak,
 
 12. a kizárólag kozmetikai célt szolgáló gyógyászati segédeszközöket.
+
+[^186]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése szerint módosított szöveg.

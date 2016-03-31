@@ -4,4 +4,4 @@
 
 [^179]: A 18/C. §-t a 47/2015. (X. 19.) EMMI rendelet 29. §-a iktatta be.
 [^180]: A hatálybalépés időpontja 2015. október 20.
-[^181]: Az 1. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^181]: Az 1. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (1) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (1) bekezdése szerint módosított szöveg.

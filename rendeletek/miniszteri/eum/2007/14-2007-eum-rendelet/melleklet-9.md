@@ -42,7 +42,13 @@
 
 | 20. | T | 04 19 21 | Fecskendőkkel kapcsolatos adagoló eszközök |
 
-| 21. | T | 04 19 24 | Infúziós pumpák |
+| 21. |  | 04 19 24 | Infúziós pumpák |
+
+| 21/a. | T | 04 19 24 03 03 | Inzulinpumpák |
+
+| 21/b. | NT | 04 19 24 03 06 | Inzulinpumpa tartozékok: infúziós szerelék |
+
+| 21/c. | NT | 04 19 24 03 09 | Inzulinpumpa tartozékok: patron, adapter |
 
 | 22. |  | 04 24 | FIZIKAI, ÉLETTANI ÉS BIOKÉMIAI VIZSGÁLÓ KÉSZÜLÉKEK ÉS ANYAGOK |
 
@@ -346,6 +352,6 @@
 
 |  | RT – ruházati jellegű tartós használatra szánt eszközök |
 
-9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^188]
+9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^189]
 
-[^188]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^189]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte.
