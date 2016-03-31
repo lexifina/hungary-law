@@ -1,10 +1,10 @@
 ## 2. Az Értékesítő menetrendadási és adatszolgáltatási kötelezettségei
 
-2. § (1)[^7] Az Értékesítő köteles minden naptári hónap 7. munkanapjáig villamosenergia-termelési tervet adni a Befogadó részére a következő 12 hónapra vonatkozóan havi és zónaidőnkénti bontásban.
+2. § (1)[^8] Az Értékesítő köteles minden naptári hónap 7. munkanapjáig villamosenergia-termelési tervet adni a Befogadó részére a következő 12 hónapra vonatkozóan havi és zónaidőnkénti bontásban.
 
 (2) Amennyiben az Értékesítő az (1) bekezdésben meghatározott kötelezettségét határidőre nem teljesíti, a Befogadó a villamosenergia-termelési tervet a korábbi időszakok statisztikai elemzésén alapuló adatokkal pótolja.
 
-(3)[^8]
+(3)[^9]
 
 (4) Az Értékesítő jogosult a havi termelési menetrend adott részeinek módosítása céljából
 
@@ -16,5 +16,5 @@ termelési menetrendet adni a Befogadó részére.
 
 (5) A Befogadó minden hónap 8. munkanapjáig megállapítja az Értékesítőkre vonatkozó előző havi mérési-elszámolási tényadatokat, majd kiszámítja a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló kormányrendeletben meghatározott szabályozási pótdíj és módosítási pótdíj értékeket.
 
-[^7]: A 2. § (1) bekezdése a 2/2016. (I. 27.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
-[^8]: A 2. § (3) bekezdését a 2/2016. (I. 27.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^8]: A 2. § (1) bekezdése a 2/2016. (I. 27.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
+[^9]: A 2. § (3) bekezdését a 2/2016. (I. 27.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.

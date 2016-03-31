@@ -1,4 +1,4 @@
-## 5. [^16] A korrekciós hozzájárulás meghatározása
+## 5. [^17] A korrekciós hozzájárulás meghatározása
 
 8. § (1) A korrekciós hozzájárulás meghatározása során a Befogadó figyelembe veszi:
 
@@ -24,4 +24,4 @@ f) a 2016. február tárgyhót megelőző termelési időszakra vonatkozó, a) �
 
 g) 2016. február tárgyhóra a szervezett villamosenergia-piacon történő, tervezett és tényleges értékesítésből származó összegek különbözetét, valamint a szervezett villamosenergia-piacon történő értékesítéshez kapcsolódó tervezett és tény technikai költségek összegének különbözetét a Befogadó által a konverziós ügyletek megkötésekor elért tényleges árfolyamon.
 
-[^16]: Az 5. alcím (8. §) a 2/2016. (I. 27.) NFM rendelet 7. §-ával megállapított szöveg.
+[^17]: Az 5. alcím (8. §) a 2/2016. (I. 27.) NFM rendelet 7. §-ával megállapított szöveg.
