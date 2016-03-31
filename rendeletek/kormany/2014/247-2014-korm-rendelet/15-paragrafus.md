@@ -10,17 +10,17 @@ a) keretében történő megrendelések tekintetében a Hivatal a kormányzati k
 
 b) teljesítése tekintetében az érintett szervezet az e rendelet 13. §-a szerint köteles eljárni.
 
-(4)[^33] Ha a Hivatal az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek beszerzésére már keretmegállapodást kötött, az érintett szervezet a kommunikációs szolgáltatások és termékek beszerzését a keret kimerüléséig a Kbt. 105. § (1) bekezdés a) pontja vagy 105. § (2) bekezdés a) pontja szerint közvetlen megrendeléssel a Hivatal által az e rendelet 11. §-a szerint kötött keretmegállapodás útján valósítja meg.
+(4)[^34] Ha a Hivatal az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek beszerzésére már keretmegállapodást kötött, az érintett szervezet a kommunikációs szolgáltatások és termékek beszerzését a keret kimerüléséig a Kbt. 105. § (1) bekezdés a) pontja vagy 105. § (2) bekezdés a) pontja szerint közvetlen megrendeléssel a Hivatal által az e rendelet 11. §-a szerint kötött keretmegállapodás útján valósítja meg.
 
-(5)[^34] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a módosító rendelet hatálybalépését[^35] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+(5)[^35] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a módosító rendelet hatálybalépését[^36] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
 
-(6)[^36] A Hivatal által megkötött és 2015. november 1-jén hatályban lévő olyan keret-megállapodások terhére igénybe vett beszerzések esetében, amelyekben az 1. mellékletben meghatározott kommunikációs szolgáltatások és azokhoz kapcsolódó termékek kerültek beszerzésre, a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet rendelkezéseit, míg a 2015. november 1. napját követően megkötött keretmegállapodások terhére igénybe vett beszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet rendelkezéseit nem kell alkalmazni.
+(6)[^37] A Hivatal által megkötött és 2015. november 1-jén hatályban lévő olyan keret-megállapodások terhére igénybe vett beszerzések esetében, amelyekben az 1. mellékletben meghatározott kommunikációs szolgáltatások és azokhoz kapcsolódó termékek kerültek beszerzésre, a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet rendelkezéseit, míg a 2015. november 1. napját követően megkötött keretmegállapodások terhére igénybe vett beszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet rendelkezéseit nem kell alkalmazni.
 
-(6)[^37] A Kormány felhatalmazza a minisztert, hogy az e-közigazgatásért felelős miniszter egyetértésével rendeletben határozza meg az érintett szervezetek által használandó akkreditált informatikai rendszerrel szembeni kritériumokat.[^38]
+(6)[^38] A Kormány felhatalmazza a minisztert, hogy az e-közigazgatásért felelős miniszter egyetértésével rendeletben határozza meg az érintett szervezetek által használandó akkreditált informatikai rendszerrel szembeni kritériumokat.[^39]
 
-[^33]: A 15. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^34]: A 15. § (5) bekezdését a 323/2015. (X. 30.) Korm. rendelet 12. § (6) bekezdése iktatta be.
-[^35]: A hatálybalépés időpontja 2015. november 1.
-[^36]: A 15. § (6) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
-[^37]: A 15. § újabb (6) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
-[^38]: Lásd az 1/2016. (II. 1.) MK rendeletet.
+[^34]: A 15. § (4) bekezdése a 323/2015. (X. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^35]: A 15. § (5) bekezdését a 323/2015. (X. 30.) Korm. rendelet 12. § (6) bekezdése iktatta be.
+[^36]: A hatálybalépés időpontja 2015. november 1.
+[^37]: A 15. § (6) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^38]: A 15. § újabb (6) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
+[^39]: Lásd az 1/2016. (II. 1.) MK rendeletet.

@@ -10,4 +10,7 @@
 
 (6) A Hivatal jogosult ellenőrizni az e rendeletben foglaltak betartását.
 
+(7)[^23] A Hivatal által a központosított közbeszerzés lefolytatása során ellátott feladatokért az 5. § (1) bekezdés c) pontjában meghatározott érintett szervezet a Hivatal részére közbeszerzési díjat köteles fizetni. A közbeszerzési díj kizárólag a Hivatal által ellátott feladatokkal kapcsolatban ténylegesen felmerült költségek mértékéig terjedhet. A központosított közbeszerzési díj mértéke a központosított közbeszerzések keretében megvalósított közbeszerzések áfa nélkül számított értékének 2%-a, de legalább kétszázezer és legfeljebb kétmillió forint.
+
 [^22]: A 11. § (2) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 22. § f) pontja hatályon kívül helyezte.
+[^23]: A 11. § (7) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
