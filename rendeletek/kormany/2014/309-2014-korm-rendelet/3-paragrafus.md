@@ -24,4 +24,12 @@ meghatározott hulladékfajtára vonatkozó adatot is tartalmaznia kell.
 
 (5) Ha a hulladékot Magyarország területére külföldről hozzák be, a hulladékról a hulladék első belföldi átvevője vezet nyilvántartást.
 
-(6) A Ht. 12. § (2a) bekezdése szerinti nevelési-oktatási intézménynek nem kell nyilvántartást vezetnie a területén kialakított átvételi helyen átvett papírhulladékról.
+(6)[^1] Nem kell nyilvántartást vezetnie:
+
+a) a Ht. 12. § (2a) bekezdése szerinti nevelési-oktatási intézménynek a területén kialakított átvételi helyen átvett papírhulladékról;
+
+b) a hulladéktermelőnek – a Ht. 66. § (1) bekezdésében foglaltakra tekintettel – a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékról;
+
+c) a hulladéktermelőnek, illetve a speciális gyűjtőhely üzemeltetőjének a gyűjtőhelyen átadott vagy gyűjtőedényben elhelyezett települési hulladékról.
+
+[^1]: A 3. § (6) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 3. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-## A hulladékkal kapcsolatos éves adatszolgáltatás teljesítéséhez szükséges adatlap adattartalma
+A hulladékkal kapcsolatos éves adatszolgáltatás teljesítéséhez szükséges adatlap adattartalma
 
 1. A főlap adattartalma (HIR főlap):
 

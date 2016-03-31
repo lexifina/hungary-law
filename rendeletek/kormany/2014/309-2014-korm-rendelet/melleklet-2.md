@@ -1,6 +1,6 @@
 2. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-## A hulladékkal kapcsolatos adatszolgáltatási kötelezettség keletkezése és megszűnése bejelentésének teljesítésére vonatkozó adatlap adattartalma (HIR-KÖT lap)
+A hulladékkal kapcsolatos adatszolgáltatási kötelezettség keletkezése és megszűnése bejelentésének teljesítésére vonatkozó adatlap adattartalma (HIR-KÖT lap)
 
 1. Az adatszolgáltatóra vonatkozó adatok:
 

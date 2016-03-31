@@ -8,12 +8,14 @@ b) nem veszélyes hulladék esetén – a c) pont kivételével – a 2000 kg-ot
 
 c) nem veszélyes építési-bontási hulladék esetén az 5000 kg-ot
 
-## meghaladja.
+meghaladja.
 
-(3) A nevelési-oktatási intézménynek a területén kialakított átvételi helyen átvett papírhulladék után nem kell adatszolgáltatást teljesítenie.
+(3)[^3] Nem kell adatszolgáltatást teljesíteni a 3. § (6) bekezdésében meghatározott esetekben.
 
 (4) Ha a tárgyévben a képződött hulladék mennyisége a hulladéktermelő telephelyén nem éri el a (2) bekezdésben meghatározott mennyiséget, az adatszolgáltatásra kötelezett hulladéktermelőnek csak a 3. melléklet 1. pontja szerinti adattartalommal kell teljesítenie az adatszolgáltatási kötelezettségét.
 
 (5) Az adatszolgáltatásra kötelezett hulladéktermelő a képződött hulladékról évente a tárgyévet követő év március 1. napjáig szolgáltat adatot.
 
 (6) Az adatszolgáltatásra nem kötelezett hulladéktermelő a miniszter által elrendelt, statisztikai kiválasztási módszerekkel történő adatfelméréskor eseti adatszolgáltatást teljesít.
+
+[^3]: A 11. § (3) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

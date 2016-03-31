@@ -1,8 +1,6 @@
-## 20. §[^8]
-
 1. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-## A nyilvántartás tartalma
+A nyilvántartás tartalma
 
 1. A hulladéktermelő a nyilvántartásában a következő adatokat vezeti nem veszélyes hulladék esetén:
 
@@ -72,7 +70,7 @@ e) a veszélyes hulladék csomagolási módja;
 
 f) a veszélyes hulladék fizikai megjelenési formája;
 
-g) a veszélyes hulladék veszélyességi jellemzője (H kódja) a Ht. 1. melléklete alapján;
+g)[^14] a veszélyes hulladék veszélyességi jellemzője (HP kódja) a Ht. 1. melléklete alapján;
 
 h) a képződő hulladékra jellemző veszélyes reakciók: hőre, savra, nyomásra, lúgra, vízre, oxidálószerre, levegőre, redukáló szerre, más termékre, továbbá, hogy milyen egyéb anyagok esetén van veszélyes reakció;
 
@@ -138,7 +136,7 @@ b) a közvetített veszélyes hulladék mennyisége;
 
 c) a veszélyes hulladék fizikai megjelenési formája;
 
-d) a veszélyes hulladék veszélyességi jellemzője (H kódja) a Ht. 1. melléklete alapján;
+d)[^15] a veszélyes hulladék veszélyességi jellemzője (HP kódja) a Ht. 1. melléklete alapján;
 
 e) veszélyes reakciók: hőre, savra, nyomásra, lúgra, vízre, oxidálószerre, levegőre, redukáló szerre, más termékre, továbbá, hogy milyen egyéb anyagok esetén van veszélyes reakció;
 
@@ -206,7 +204,7 @@ c) a veszélyes hulladék csomagolási módja;
 
 d) a veszélyes hulladék fizikai megjelenési formája;
 
-e) a veszélyes hulladék veszélyességi jellemzője (H kódja) a Ht. 1. melléklete alapján;
+e)[^16] a veszélyes hulladék veszélyességi jellemzője (HP kódja) a Ht. 1. melléklete alapján;
 
 f) veszélyes reakciók: hőre, savra, nyomásra, lúgra, vízre, oxidálószerre, levegőre, redukáló szerre, más termékre, továbbá, hogy milyen egyéb anyagok esetén van veszélyes reakció;
 
@@ -252,4 +250,6 @@ d) az adatmeghatározás módja (M = mért, SZ = számított, B = becsült) és 
 
 e) a hasznosító vagy ártalmatlanító létesítmény neve, címe és a szállítmányt befogadó tényleges hasznosító vagy ártalmatlanító telephely címe (megjelölve az országkódot).
 
-[^8]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 1. melléklet 2. pont 2.2. alpont g) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet 4. pont 4.2.1. alpont d) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^16]: Az 1. melléklet 6. pont 6.2. alpont e) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.

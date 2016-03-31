@@ -1,6 +1,6 @@
 4. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-## A veszélyes hulladékkal kapcsolatos negyedéves adatszolgáltatás teljesítéséhez szükséges adatlap adattartalma
+A veszélyes hulladékkal kapcsolatos negyedéves adatszolgáltatás teljesítéséhez szükséges adatlap adattartalma
 
 1. A főlap adattartalma (HIR-NÉ-főlap):
 
