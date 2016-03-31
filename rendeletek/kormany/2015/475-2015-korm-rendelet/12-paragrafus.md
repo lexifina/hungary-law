@@ -1,3 +1,3 @@
-## 11. §[^4]
+## 11. § A Korm. rendelet 11. §-a a következő (7) bekezdéssel egészül ki:
 
-[^4]: A 11. § a 23. § (3) bekezdése alapján 2016. március 31-én lép hatályba.
+## „(7) A Hivatal által a központosított közbeszerzés lefolytatása során ellátott feladatokért az 5. § (1) bekezdés c) pontjában meghatározott érintett szervezet a Hivatal részére közbeszerzési díjat köteles fizetni. A közbeszerzési díj kizárólag a Hivatal által ellátott feladatokkal kapcsolatban ténylegesen felmerült költségek mértékéig terjedhet. A központosított közbeszerzési díj mértéke a központosított közbeszerzések keretében megvalósított közbeszerzések áfa nélkül számított értékének 2%-a, de legalább kétszázezer és legfeljebb kétmillió forint.”
