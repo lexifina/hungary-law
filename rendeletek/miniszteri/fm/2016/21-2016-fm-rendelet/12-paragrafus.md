@@ -1,0 +1,1 @@
+12. § Nem lép hatályba a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet módosításáról szóló 60/2015. (X. 8.) FM rendelet 3. §-a, 5. §-a és 6. §-a.
