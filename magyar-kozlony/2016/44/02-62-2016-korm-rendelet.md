@@ -1,0 +1,111 @@
+# A Kormány 62/2016. (III. 31.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 44. szám, 2016. március 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/44a130b731dd57b5b176dbd71242f7982fd0e11a/dokumentumok/7e11691d1761bf8b847abc6bfaadc68e9de2983f/letoltes)
+
+---
+
+A Kormány 62/2016. (III. 31.) Korm. rendelete
+az egyes migrációs és menekültügyi tárgyú kormányrendeletek módosításáról
+A Kormány a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 111. § (1) bekezdés
+a)–c), valamint e) és s) pontjában kapott felhatalmazás alapján,
+a 2. alcím tekintetében a menedékjogról szóló 2007. évi LXXX. törvény 93. § (1) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet módosítása
+1. §
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról
+szóló 114/2007. (V. 24.) Korm. rendelet (a továbbiakban: R1.) 74. § (1) bekezdése helyébe a következő rendelkezés
+lép:
+„(1) Megilletik
+a) a befogadottat a személyes gondoskodás körébe tartozó ellátások,
+b) az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt a személyes gondoskodás körébe
+tartozó ellátások és a pénzbeli támogatás.”
+2. §
+Az R1. X. Fejezete a 182. §-t követően a következő alcímmel és 182/A. §-sal egészül ki:
+„Átmeneti rendelkezések
+182/A. § (1) E rendeletnek az egyes migrációs és menekültügyi tárgyú kormányrendeletek módosításáról
+szóló 62/2016. (III. 31.) Korm. rendelettel (a továbbiakban: Módkr1.) megállapított rendelkezéseit a Módkr1.
+hatálybalépése után indult ügyekben kell alkalmazni.
+(2) A Módkr1. hatálybalépését megelőzően az e rendelet alapján biztosított támogatásokat a támogatás
+megítélése idején hatályos jogszabályok szerint kell továbbfolyósítani, e rendeletnek a Módkr1.-gyel megállapított
+rendelkezései azokat nem érintik.”
+3. §
+Az R1.
+a) 74. § (3) bekezdésében, 75. § (1) bekezdésében, 76. § (4)–(7) bekezdésében az „a befogadott, illetve
+az emberkereskedelem áldozatává vált harmadik országbeli állampolgár” szövegrész helyébe az „az
+emberkereskedelem áldozatává vált harmadik országbeli állampolgár”,
+b) 76. § (1) és (2) bekezdésében, a VI. melléklet címében az „A befogadott, illetve az emberkereskedelem
+áldozatává vált harmadik országbeli állampolgár” szövegrész helyébe az „Az emberkereskedelem áldozatává
+vált harmadik országbeli állampolgár”,
+c) 76. § (5) bekezdésében az „a befogadottat, illetve az emberkereskedelem áldozatává vált harmadik
+országbeli állampolgárt” szövegrész helyébe az „az emberkereskedelem áldozatává vált harmadik országbeli
+állampolgárt”,
+d) 76. § (7) bekezdésében a „részesülő befogadott, illetve az emberkereskedelem áldozatává vált harmadik
+országbeli állampolgár” szövegrész helyébe a „részesülő emberkereskedelem áldozatává vált harmadik
+országbeli állampolgár”,
+e) VI. melléklet Nyilatkozat címében az „a befogadott, illetve az emberkereskedelem áldozatává vált harmadik
+országbeli”szövegrész helyébe az„az emberkereskedelem áldozatává vált harmadik országbeli”
+szöveg lép.
+
+2. A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.)
+Korm. rendelet módosítása
+4. §
+A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet
+(a továbbiakban: R2.) 29. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A menekültügyi hatóság – kérelemre – az óvodai nevelésben, valamint a nemzeti köznevelésről szóló törvény
+hatálya alá tartozó iskolai oktatásban való részvétel elősegítése érdekében – az elismerését kérő 21. életéve
+betöltéséig – a befogadó állomáson való tartózkodás ideje alatt az elismerését kérő óvodai nevelésével, általános
+iskolai, középfokú iskolai, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményi (a továbbiakban
+együtt: nevelési-oktatási intézmény) nevelésével-oktatásával összefüggésben felmerült költségeket, így különösen
+a nevelési-oktatási intézménybe irányuló helyi vagy helyközi utazáshoz igénybe vett menetjegy vagy bérlet
+költségét, továbbá a nevelési-oktatási intézményben igénybe vett étkezés költségét és a kollégiumi elhelyezés díját
+megtéríti.”
+5. § (1) Az R2. 39. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A menekült, az oltalmazott és a menedékes – a menedékes tekintetében a 37/A. § (4) bekezdés a) pontjában
+meghatározott ingyenes magyar nyelvoktatás kivételével – az ellátásokra és támogatásokra akkor tekinthető
+rászorultnak, ha a menekült, az oltalmazott és a menedékes, vagy vele közös háztartásban élő házastársa és egyenes
+ági rokona nem rendelkezik Magyarországon rendelkezésre álló, megélhetését biztosító vagyonnal, továbbá
+a saját és vele közös háztartásban élő házastársa és egyenes ági rokona összes jövedelmének figyelembevételével
+számított egy főre jutó havi jövedelme nem haladja meg
+a) egyedülálló személy esetében az öregségi teljes nyugdíj legkisebb összegének 150%-át,
+b) családos személy esetében az öregségi teljes nyugdíj legkisebb összegét.”
+(2) Az R2. 39. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A menekültügyi hatóság a jogosultsági feltételek hiányában felvett támogatást utólag határozattal
+visszakövetelheti. A menekültügyi hatóság az ügyfél kérelmére részletfizetést engedélyezhet.”
+6. §
+Az R2.„Átmeneti rendelkezések”alcíme a következő 113. §-sal egészül ki:
+„113. § (1) E rendeletnek az egyes migrációs és menekültügyi tárgyú kormányrendeletek módosításáról
+szóló 62/2016. (III. 31.) Korm. rendelettel (a továbbiakban: Módkr1.) megállapított rendelkezéseit a Módkr1.
+hatálybalépése után indult ügyekben kell alkalmazni.
+(2) A Módkr1. hatálybalépését megelőzően az e rendelet alapján biztosított támogatásokat a támogatás
+megítélése idején hatályos jogszabályok szerint kell továbbfolyósítani, e rendeletnek a Módkr1.-gyel megállapított
+rendelkezései azokat nem érintik.”
+7. § (1) Az R2. 14. § (3) bekezdésében a „feladatokra – a közbeszerzésekről szóló 2003. évi CXXIX. törvény előírásaira”
+szövegrész helyébe a„feladatokra – a közbeszerzésekről szóló törvény előírásaira”szöveg lép.
+(2) Az R2. 16. § (4) bekezdésében az „a részletes vizsgálati eljárásra utaló végzés meghozatalával egyidejűleg”
+szövegrész helyébe az „a menedékjog iránti kérelem menekültügyi hatóság által történő regisztrálásától számított
+30 napon belül”szöveg lép.
+(3) Az R2. 21. § (3) bekezdésében a„részletes vizsgálati eljárás”szövegrész helyébe a„menekültügyi eljárás”szöveg lép.
+8. §
+Hatályát veszti az R2.
+a) 15. §
+aa) (2) bekezdés b) pontja,
+ab) (3) bekezdés a) pontja,
+b) 16. § (1) és (2) bekezdése,
+c) 21. § (4) bekezdése,
+d) 22. §-a és az azt megelőző alcím,
+e) 30. §-a és az azt megelőző alcím,
+f) 37. §
+fa) (1) bekezdés d) pontja,
+fb) (2) bekezdés b) pontja,
+fc) (3) bekezdés d) pontja,
+
+g) 38. § (4) bekezdése,
+h) 42. §-a és az azt megelőző alcím,
+i) 46. §-a és az azt megelőző alcím,
+j) 55–58. §-a és az 55. §-t megelőző alcím.
+3. Záró rendelkezés
+9. §
+Ez a rendelet 2016. április 1-jén lép hatályba.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes

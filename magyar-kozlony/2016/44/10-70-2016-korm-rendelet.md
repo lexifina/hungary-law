@@ -1,0 +1,140 @@
+# A Kormány 70/2016. (III. 31.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 44. szám, 2016. március 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/44a130b731dd57b5b176dbd71242f7982fd0e11a/dokumentumok/7e11691d1761bf8b847abc6bfaadc68e9de2983f/letoltes)
+
+---
+
+A Kormány 70/2016. (III. 31.) Korm. rendelete
+a hulladékgazdálkodással összefüggő egyes kormányrendeletek módosításáról
+A Kormány
+a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 17. pontjában,
+a 2. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 6. pontjában,
+a 3. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 18. pontjában,
+kapott felhatalmazás alapján, valamint
+a 4. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A települési hulladékkezelési közszolgáltatási díj megállapításának részletes szakmai szabályairól
+szóló 64/2008. (III. 28.) Korm. rendelet módosítása
+1. §
+A települési hulladékkezelési közszolgáltatási díj megállapításának részletes szakmai szabályairól szóló 64/2008.
+(III. 28.) Korm. rendelet 3. § (5) bekezdésében a „felmerülő költségeket a közszolgáltató” szövegrész helyébe
+a „hulladékgazdálkodási közszolgáltatási díj ezáltal meg nem fizetett összegét az állami hulladékgazdálkodási
+közfeladat ellátására létrehozott szervezet”szöveg lép.
+2. A hulladékgazdálkodási tervekre és a megelőzési programokra vonatkozó részletes szabályokról
+szóló 310/2013. (VIII. 16.) Korm. rendelet módosítása
+2. §
+A hulladékgazdálkodási tervekre és a megelőzési programokra vonatkozó részletes szabályokról szóló 310/2013.
+(VIII. 16.) Korm. rendelet (a továbbiakban: R1.) 1. §-a a következő (4a)–(4d) bekezdéssel egészül ki:
+„(4a) A Koordináló szerv a hulladékgazdálkodási tervben, valamint a megelőzési programban foglaltakra
+a közszolgáltatási díj megállapításáért felelős miniszter útján észrevételt és javaslatot tehet.
+(4b) Az OKTF NHI véleményezheti a Koordináló szerv közszolgáltatási díj megállapításáért felelős miniszter útján
+megküldött észrevételeit és javaslatait, amelyről a Koordináló szervet a beérkezést követően haladéktalanul, de
+legkésőbb 5 napon belül tájékoztatja.
+(4c) A (4b) bekezdésben meghatározott véleményre a Koordináló szerv a beérkezést követően 10 napon belül
+észrevételeket és javaslatokat tehet, amelyekről a közszolgáltatási díj megállapításáért felelős miniszter útján
+tájékoztatja az OKTF NHI-t.
+(4d) Az OKTF NHI a hulladékgazdálkodási tervben, valamint a megelőzési programban a (4a) és (4c) szerinti
+javaslatokat és észrevételeket átvezeti.”
+
+3. §
+Az R1.
+1. 1. § (1) bekezdésében a „civil szervezetek, továbbá” szövegrész helyébe a „civil szervezetek, a hulladékról
+szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 32/A. § (2) bekezdésében meghatározott állami
+hulladékgazdálkodási közfeladat ellátásra létrehozott szervezet (a továbbiakban: Koordináló szerv), továbbá”
+szöveg,
+2. 1. § (3) bekezdésében az„önkormányzatok és” szövegrész helyébe az„önkormányzatok, a közszolgáltatási díj
+megállapításáért felelős miniszter, a Koordináló szerv és”szöveg,
+3. 2. §-ában a„környezetvédelemért felelős miniszternek megküldi”szövegrész helyébe a„környezetvédelemért
+felelős miniszternek a Koordináló szerv közszolgáltatási díj megállapításáért felelős miniszter útján megadott
+egyetértésével együtt megküldi”szöveg,
+4. 1. melléklet 1. pontjában a „vízügyi hatóságot” szövegrész helyébe a „vízügyi hatóságot és a működési
+területével érintett vízügyi igazgatóságot”szöveg
+lép.
+3. A közszolgáltató kiválasztásáról és a hulladékgazdálkodási közszolgáltatási szerződésről szóló
+317/2013. (VIII. 28.) Korm. rendelet módosítása
+4. §
+A közszolgáltató kiválasztásáról és a hulladékgazdálkodási közszolgáltatási szerződésről szóló 317/2013. (VIII. 28.)
+Korm. rendelet (a továbbiakban: R2.) 1. § (5) bekezdése helyébe a következő rendelkezés lép, és a § a következő
+(6)–(12) bekezdéssel egészül ki:
+„(5) A felhívásban az ajánlatkérő előírja, hogy a közös ajánlattevők jelöljék meg maguk közül, akit – nyertességük
+esetén – az ajánlatkérő közszolgáltatónak tekint.
+(6) A felhívásban hivatkozni kell arra, hogy az Országos Hulladékgazdálkodási Közszolgáltatási Tervben
+(a továbbiakban: OHKT) foglaltaknak megfelelően kell a közszolgáltatást ellátni.
+(7) Az ajánlatkérő a közszolgáltató kiválasztása során szakmai ajánlatot kér be, amelyet a legjobb ár-érték arányt
+megjelenítő szempont vagy a legalacsonyabb költség értékelésére alkalmas részszempontok szerint vizsgál.
+(8) A szakmai minőség értékelésére alkalmas részszempontnak minősül minden olyan értékelési részszempont,
+amely alkalmas arra, hogy a hulladékgazdálkodási közszolgáltatás ellátásának szakmai színvonalát javítsa.
+Az ajánlatkérő értékelési résszempontként veheti figyelembe különösen
+a) a szerződés teljesítésében részt vevő személyi állomány szakmai szervezettségének mértékét (például
+a teljesítésbe bevont szakemberek átlagos létszáma, vezető szakemberek létszáma, állandó munkatársak létszáma,
+feladatkiosztás rendje, munkaszervezés, belső ellenőr, külső ellenőr alkalmazása),
+b) az ajánlattevő személyi állományának képzettségét és tapasztalatát,
+c) a munkavégzés értékelésére vonatkozó részszempontokat, ezen belül
+ca) a hulladékgazdálkodási közszolgáltatás ellátására vonatkozó módszer bemutatását,
+cb) a hulladékgazdálkodási közszolgáltatás nyújtásához kapcsolódó környezetvédelmi, fenntarthatósági
+megoldásokat,
+cc) az OHKT-ben az adott közszolgáltatási területre előírt minimumfeltételeken felüli plusz szolgáltatások nyújtását.
+(9) Az ajánlati ár az értékelés során nem vehető nagyobb mértékben figyelembe, mint a többi értékelési szempont
+együttesen.
+(10) Az ajánlati ár értékelési szempont keretében a szolgáltatási díjon felüli, az ajánlatkérő által a nyertes
+ajánlattevőnek fizetendő díjak értékelhetők.
+(11) Az ajánlatkérő nem értékelheti a közszolgáltatási díj, valamint a szolgáltatási díj mértékét.
+(12) A Kbt. 135. § (1) bekezdése szerinti teljesítésigazolás alatt az ajánlatkérő által a nyertes ajánlattevő részére
+kiadásra kerülő teljesítésigazolás értendő.”
+5. §
+Az R2. 2. § (3)–(5) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az ajánlatban meg kell jelölni a közszolgáltatás azon részét, amelyre vonatkozólag az ajánlattevő vagy
+a részvételre jelentkező harmadik személlyel kíván szerződést kötni, és meg kell jelölni ezen szerződésnek
+a közbeszerzési eljárás eredményeként megkötésre kerülő szerződés értékéhez viszonyított mértékét, arányát, ha
+az meghaladja a közbeszerzési eljárás eredményeként megkötésre kerülő szerződés nettó értékének 10 százalékát.
+(4) Az ajánlatkérő a szakmai ajánlat keretében nem értékelhet olyan körülményt, amelyet a közbeszerzési eljárásban
+az alkalmasság körében feltételül szabott.
+
+(5) Az ajánlatkérő az alkalmassági követelmények, vagy az értékelési szempontok között köteles legalább
+az (1) bekezdés b)–e) pontjában meghatározott feltételekre kiterjedő előírást megfogalmazni.”
+6. §
+Az R2. 3. §-a a következő e) ponttal egészül ki:
+(A nyertes ajánlattevőnek legkésőbb a közszolgáltatási szerződés hatálybalépésekor a következő feltételekkel kell
+rendelkeznie:)
+„e) a Ht. 32/A. § (1) bekezdés f) pontja szerinti megfelelőségi véleménnyel.”
+7. §
+Az R2. 4. § (1) bekezdése a következő f) ponttal egészül ki:
+[A hulladékgazdálkodási közszolgáltatási szerződés a Ht. 34. § (5) bekezdésében foglaltakon túlmenően a következőket
+tartalmazza:]
+„f) az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről, feladatköréről,
+az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes szabályairól szóló 69/2016. (III. 31.)
+Korm. rendelet 4. § (1)–(3) bekezdéseiben és 11–12. §-ában foglalt feltételeket.”
+8. §
+Az R2.
+1. 1. § (1) bekezdésében a „programokkal, valamint” szövegrész helyébe a „programokkal, az Országos
+Hulladékgazdálkodási Közszolgáltatási Tervvel (a továbbiakban: OHKT), valamint”szöveg,
+2. 1. § (2) bekezdésében a „2011. évi CVIII. törvényben” szövegrész helyébe a „2015. évi CXLIII. törvényben”
+szöveg,
+3. 1. § (2) bekezdés a) pontjában az „és közlekedési” szövegrész helyébe az „és az OHKT-ben meghatározott
+közlekedési”szöveg,
+4. 1. § (2) bekezdés g) pontjában a „tervben, továbbá” szövegrész helyébe a „tervben, az OHKT-ben, továbbá”,
+a„célokat és követelményeket”szövegrész helyébe a„célokat, előírt feltételeket és követelményeket”szöveg,
+5. 4. § (1) bekezdés e) pontjában a„Kbt. 128. §-ában”szövegrész helyébe a„Kbt. 138–140. §-ában”szöveg
+lép.
+9. §
+Hatályát veszti az R2. 4. § (1) bekezdés d) pontja.
+4. Az online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgép beszerzéséhez
+kapcsolódó követelések engedményezéséről és az engedményezéshez kapcsolódó egyéb kérdésekről
+szóló 109/2014. (IV. 1.) Korm. rendelet módosítása
+10. §
+Az online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgép beszerzéséhez kapcsolódó
+követelések engedményezéséről és az engedményezéshez kapcsolódó egyéb kérdésekről szóló 109/2014. (IV. 1.)
+Korm. rendelet 3. §-a a következő (4) és (5) bekezdéssel egészül ki:
+„(4) Az állam nevében az állami vagyon felügyeletéért felelős miniszter a 2. § szerinti, a pénztárgépek beszerzésére
+irányuló szerződések módosulását vagy megszűnését eredményező jogokat azon engedményezők szerződései
+tekintetében gyakorolja, akik nem tesznek az (5) bekezdésben meghatározott nyilatkozatot.
+(5) Az engedményező – az állami vagyon felügyeletéért felelős miniszternek a hulladékgazdálkodással összefüggő
+egyes kormányrendeletek módosításáról szóló 70/2016. (III. 31.) Korm. rendelet hatálybalépését követő 15. napig
+az általa vezetett minisztérium honlapján közzétett hirdetményében megjelölt címre, a hirdetmény közzétételét
+követő 30. napig postára adott – írásbeli nyilatkozatot tehet az állam részére arról, hogy nem kívánja a pénztárgép
+beszerzésére irányuló szerződésének módosulását vagy megszűnését eredményező jog állam általi gyakorlását.”
+5. Záró rendelkezések
+11. §
+Ez a rendelet 2016. április 1-jén lép hatályba.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes

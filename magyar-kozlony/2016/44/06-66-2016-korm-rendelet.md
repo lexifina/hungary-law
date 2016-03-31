@@ -1,0 +1,73 @@
+# A Kormány 66/2016. (III. 31.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 44. szám, 2016. március 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/44a130b731dd57b5b176dbd71242f7982fd0e11a/dokumentumok/7e11691d1761bf8b847abc6bfaadc68e9de2983f/letoltes)
+
+---
+
+A Kormány 66/2016. (III. 31.) Korm. rendelete
+a mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet
+és a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.)
+Korm. rendelet módosításáról
+A Kormány
+a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 40. §-ában kapott felhatalmazás alapján,
+a 2. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva, a következőket rendeli el:
+1. A mozgásában korlátozott személy parkolási igazolványáról szóló
+218/2003. (XII. 11.) Korm. rendelet módosítása
+1. §
+A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet 2. §
+d) pontjában a „(K.1.)” szövegrész helyébe a „(K betűjel, 1 számjel)”, az „(L.1–5.)” szövegrész helyébe az „(„L” betűjel)”
+szöveg, az „(M.1–2.)” szövegrész helyébe az „(„M” betűjel)” szöveg, valamint az „(N.1.)” szövegrész helyébe
+az„(N betűjel, 1 számjel)”szöveg lép.
+2. A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló
+102/2011. (VI. 29.) Korm. rendelet módosítása
+2. § (1) A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet
+(a továbbiakban: R.) 2. § a) pont ab) alpontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában
+súlyos mozgáskorlátozott személy:)
+„ab) az a személy, aki a 18. életévét nem töltötte be és a magasabb összegű családi pótlékra jogosító betegségekről
+és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet (a továbbiakban: Mr.) 1. mellékletében meghatározott,
+az „L” betűjel szerinti mozgásszervi fogyatékosságban szenved, vagy a „P” betűjel szerinti többszörös és
+összetett betegségben szenved és a többszörös és összetett betegségei közül legalább az egyik mozgásszervi
+fogyatékosságot okoz,”
+(2) Az R. 2. § h) pont hb) alpontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában
+egyéb fogyatékossággal élő személy: az a személy, aki)
+„hb) a 18. életévét nem töltötte be, és magasabb összegű családi pótlékra az Mr. 1. mellékletében meghatározottak
+szerint a „K” vagy az „M” betűjel alapján, vagy az „N” betűjel „1” számjel alapján jogosult, továbbá, aki az Mr.
+1. mellékletében meghatározott, a„P”betűjel szerinti többszörös és összetett betegségben szenved, és a többszörös
+
+és összetett betegségei közül legalább az egyik az Mr. 1. mellékletében meghatározottak szerint a „K” vagy
+az„M”betűjel szerinti, vagy az„N”betűjel„1”számjel szerinti betegség, illetve fogyatékosság.”
+3. §
+Az R. 4. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A szerzési támogatás mértéke)
+„a) az (1) bekezdés a) pontja szerinti esetben 1 000 000 forint,”
+4. § (1) Az R. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A kölcsönszerződést – a megállapított szerzési támogatás összegének, valamint a szerzési támogatás jogosultja
+által befizetett önerő levonásával a vételárból fennmaradó összegre – három éves futamidővel kell megkötni.
+A szerzési támogatás jogosultjának és a finanszírozó szervezetnek a megállapodása alapján a kölcsönszerződés
+futamideje egy alkalommal, legfeljebb további három évvel meghosszabbítható.”
+(2) Az R. 10. §-a a következő (6) bekezdéssel egészül ki:
+„(6) A 4. § (1) bekezdés b) pontja szerinti személygépkocsi esetében a (2) bekezdés szerinti kölcsönszerződés
+megkötésére abban az esetben van lehetőség, ha a személygépkocsit a belföldi kereskedelmi forgalomban
+személygépkocsik értékesítésével foglalkozó, adószámmal rendelkező szervezettől vagy személytől vásárolják meg.”
+5. §
+Az R. 11/B. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A hivatal az elidegenítési tilalom törlését abban az esetben is elrendeli, ha a személygépkocsinak a műszaki
+állapota miatt a közúti forgalomból történő végleges kivonására még nem került sor, de a szerzési támogatás
+jogosultja, illetve örököse igazolja, hogy rendelkezik regisztrált bontó-hulladékkezelő által kiállított bontási átvételi
+igazolással, valamint azt, hogy a személygépkocsi közúti forgalomból történő végleges kivonására irányuló kérelmét
+a közlekedési igazgatási hatósághoz benyújtotta.”
+6. §
+Az R. 10. § (1) bekezdésében a„tizenöt”szövegrész helyébe a„harminc”szöveg lép.
+7. §
+Hatályát veszti az R.
+a) 10. § (5) bekezdésében az„a szerződés másolatának megküldésével”szövegrész,
+b) 13. § (3)–(5) és (7) bekezdése, és
+c) 14–14/B. §-a.
+3. Záró rendelkezések
+8. §
+Ez a rendelet 2016. április 1-jén lép hatályba.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
