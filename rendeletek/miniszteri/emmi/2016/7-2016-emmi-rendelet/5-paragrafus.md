@@ -1,0 +1,3 @@
+## 4. § Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet (a továbbiakban: 60/2003. ESZCSM rendelet) a következő 13/C. §-sal egészül ki:
+
+## „13/C. § A közép-magyarországi térség szakellátásának e rendeletben foglalt feltételek szerinti fejlesztése érdekében, az annak előkészítését végző Emberi Erőforrások Minisztériuma és Állami Egészségügyi Ellátó Központ állományába tartozó személyekkel és szolgáltatásvásárlással kapcsolatos tervezési feladatok ellátása, fejlesztések előkészítése, kivitelezés lebonyolítása, intézményi létesítéssel és működéssel összefüggő szabályozó eszközök előkészítése szükséges.”
