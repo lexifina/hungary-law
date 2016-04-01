@@ -1,4 +1,4 @@
-61/B. §[^138] (1) Az integrációs szerződés – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl – tartalmazza:
+61/B. §[^128] (1) Az integrációs szerződés – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túl – tartalmazza:
 
 a) az integrációs szerződéssel érintett Tv. 82. § a)–c), e), g) és i) pontjában meghatározott adatait, valamint az integrációs szerződéssel érintett családtagok személyét és természetes személyazonosító adataikat,
 
@@ -24,4 +24,4 @@ j) az integrációs szerződés módosítására vonatkozó szabályokat.
 
 (3) Az integrációs szerződés szerinti feladatokat a családsegítő szolgálat a Tv. 32/C. §-a, továbbá e rendelet rendelkezései alapján köteles ellátni. A családsegítő szolgálat fenntartója a Tv. 32/C. §-a alapján a feladat ellátására a jogszabályban meghatározott feladatellátási megállapodás keretében a Tv. 32/C. § (1) bekezdése alapján közreműködő civil szervezet (a továbbiakban: közreműködő civil szervezet) is bevonhat.
 
-[^138]: A 61/B. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
+[^128]: A 61/B. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.

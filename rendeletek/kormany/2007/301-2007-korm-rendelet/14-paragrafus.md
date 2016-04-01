@@ -14,7 +14,7 @@ d) az elismerését kérő, a menekült, az oltalmazott és a menedékes jogaira
 
 e) a menedékes magyar nyelvoktatására.
 
-(3) A (2) bekezdésben meghatározott feladatokra – a közbeszerzésekről szóló 2003. évi CXXIX. törvény előírásaira is figyelemmel – pályázat útján kell kiválasztani a szolgáltatót. A pályázati felhívást a menekültügyi hatóság teszi közzé. A pályázati felhívásnak tartalmaznia kell az ellátásban részesítendők körét és tervezett számát, valamint a nyújtandó ellátás megnevezését és biztosításának időtartamát.
+(3)[^29] A (2) bekezdésben meghatározott feladatokra – a közbeszerzésekről szóló törvény előírásaira is figyelemmel – pályázat útján kell kiválasztani a szolgáltatót. A pályázati felhívást a menekültügyi hatóság teszi közzé. A pályázati felhívásnak tartalmaznia kell az ellátásban részesítendők körét és tervezett számát, valamint a nyújtandó ellátás megnevezését és biztosításának időtartamát.
 
 (4) A szerződést írásban kell megkötni. A szerződésnek tartalmaznia kell:
 
@@ -33,3 +33,4 @@ e) a szerződés érvényességi idejét, felmondásának módját, valamint az 
 [^26]: A 14. §-át megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^27]: A 14. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^28]: A 14. § (2) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^29]: A 14. § (3) bekezdése a 62/2016. (III. 31.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.

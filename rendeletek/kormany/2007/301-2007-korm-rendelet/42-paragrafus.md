@@ -1,1 +1,0 @@
-## Szabad felhasználású havi költőpénz

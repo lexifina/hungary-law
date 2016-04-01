@@ -54,7 +54,7 @@
 
 ## 6 Úti vagy személyi okmányokon kívüli más okmányok alapján.
 
-5. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^224]
+5. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^217]
 
 HÁZASTÁRSI HOZZÁJÁRULÓ NYILATKOZAT
 
@@ -70,4 +70,4 @@ Kelt: …………………………………….
 
 * A menekült vagy az oltalmazott magyar állampolgár családtagjára az integrációs szerződés hatálya nem terjedhet ki.
 
-[^224]: Az 5. mellékletet a 446/2013. (XI. 28.) Korm. rendelet 37. § c) pontja iktatta be.
+[^217]: Az 5. mellékletet a 446/2013. (XI. 28.) Korm. rendelet 37. § c) pontja iktatta be.

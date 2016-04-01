@@ -1,4 +1,4 @@
-61/D. §[^140] (1) A menekültügyi hatóság köteles
+61/D. §[^130] (1) A menekültügyi hatóság köteles
 
 a) az integrációs szerződésről, az annak keretében igényelhető integrációs támogatás és támogató szolgáltatások köréről, az igénylés és az integrációs szerződés felmondásának, a támogatás folyósítása, a támogató szolgáltatások biztosítása felfüggesztésének, megszüntetésének feltételeiről, a jogorvoslati lehetőségekről a menekült, oltalmazott számára közérthető módon tájékoztatást nyújtani,
 
@@ -10,4 +10,4 @@ c) valamint a 61/C. § (2) bekezdése szerinti észrevételt 15 napon belül kiv
 
 (3) Az ellenőrzés megállapításainak, vagy az (1) bekezdés c) pontja szerinti vizsgálat eredményének megfelelően a menekültügyi hatóság a családsegítő szolgálat vagy civil szervezet felé jelzéssel élhet, ennek eredménytelensége esetén a családsegítő szolgálat felügyeleti szervénél intézkedést kezdeményezhet.
 
-[^140]: A 61/D. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
+[^130]: A 61/D. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.

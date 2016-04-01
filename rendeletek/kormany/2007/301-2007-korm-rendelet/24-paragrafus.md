@@ -1,4 +1,4 @@
-## 23. §[^56]
+## 23. §[^53]
 
 ## Utazási kedvezmények igénybevétele
 
@@ -14,4 +14,4 @@ c) állami feladatot átvállaló civil szervezet által működtetett programba
 
 (3) Az utazási kedvezmény mértékére és igénybevételének módjára egyebekben a közforgalmú személyszállítási utazási kedvezményekről szóló jogszabály rendelkezései az irányadók.
 
-[^56]: A 23. §-t és az azt megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^53]: A 23. §-t és az azt megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés b) pontja hatályon kívül helyezte.

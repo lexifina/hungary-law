@@ -6,6 +6,6 @@
 
 (3) Ha az elismerését kérő arra hivatkozik, hogy az elismerés iránti kérelmét megalapozó üldöztetése során nemi hovatartozásával összefüggő sérelem vagy megaláztatás érte, kérelmére az ügyben azonos nemű ügyintéző kijelölése kötelező.
 
-(4)[^165] A menekültügyi eljárás során az elismerését kérő részére kézbesítendő iratokat egyidejűleg törvényes képviselője, gyermekvédelmi gyámja, ügygondnoka vagy meghatalmazottja részére is kézbesíteni kell.
+(4)[^155] A menekültügyi eljárás során az elismerését kérő részére kézbesítendő iratokat egyidejűleg törvényes képviselője, gyermekvédelmi gyámja, ügygondnoka vagy meghatalmazottja részére is kézbesíteni kell.
 
-[^165]: A 66. § (4) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^155]: A 66. § (4) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.

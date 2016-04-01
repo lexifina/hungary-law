@@ -1,4 +1,4 @@
-61/H. §[^144] (1) Egyéni körülményeire tekintettel a menekült vagy az oltalmazott egy alkalommal kérelmezheti az integrációs támogatás első évre eső összege folyósításának 61/G. § (3) bekezdésétől eltérő ütemezését. Az így folyósított támogatás havi összege azonban nem lehet kevesebb, mint a 61/G. § (3) bekezdésében a második hat hónapra megállapított havi támogatási összeg 90%-a. A 112. § (1) bekezdés b)–d) pontja alapján integrációs támogatásra jogosult személy vagy család esetében az átütemezés nem alkalmazható.
+61/H. §[^134] (1) Egyéni körülményeire tekintettel a menekült vagy az oltalmazott egy alkalommal kérelmezheti az integrációs támogatás első évre eső összege folyósításának 61/G. § (3) bekezdésétől eltérő ütemezését. Az így folyósított támogatás havi összege azonban nem lehet kevesebb, mint a 61/G. § (3) bekezdésében a második hat hónapra megállapított havi támogatási összeg 90%-a. A 112. § (1) bekezdés b)–d) pontja alapján integrációs támogatásra jogosult személy vagy család esetében az átütemezés nem alkalmazható.
 
 (2) Az átütemezés iránti igényt az integrációs szerződés megkötése iránti kérelemben kell jelezni, amelyről a menekültügyi hatóság az integrációs támogatás megítéléséről hozott határozatában dönt.
 
@@ -8,4 +8,4 @@
 
 (5) A támogatás folyósítását a menekültügyi hatóság megszünteti, ha az integrációs szerződés felmondására okot adó körülmény áll fenn. A támogatás folyósítását ebben az esetben a integrációs szerződés egyidejű felmondásával lehet megszüntetni.
 
-[^144]: A 61/H. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
+[^134]: A 61/H. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.

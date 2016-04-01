@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-301-20-
 | 2015-04-01 | 2007-301-20-22.23 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-08-01 | 2007-301-20-22.24 | 204/2015. (VII. 23.) Korm. rendelet |
 | 2015-09-15 | 2007-301-20-22.25 | 260/2015. (IX. 14.) Korm. rendelet |
+| 2016-04-01 | 2007-301-20-22.26 | 62/2016. (III. 31.) Korm. rendelet |

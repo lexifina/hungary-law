@@ -1,5 +1,5 @@
-61/M. §[^150] (1) A családsegítő szolgálat a 61/K. § szerinti feladatokat részben vagy egészben közreműködő civil szervezet útján is biztosíthatja. A feladatátadás kereteit meghatározó megállapodást a családsegítő szolgálat köteles a menekültügyi hatóság számára bemutatni.
+61/M. §[^140] (1) A családsegítő szolgálat a 61/K. § szerinti feladatokat részben vagy egészben közreműködő civil szervezet útján is biztosíthatja. A feladatátadás kereteit meghatározó megállapodást a családsegítő szolgálat köteles a menekültügyi hatóság számára bemutatni.
 
 (2) A családsegítő szolgálat a 61/L. § szerinti kötelezettségeinek – a közreműködő civil szervezettől beszerzett dokumentumok és adatok alapján – abban az esetben is köteles eleget tenni, ha a 61/K. § szerinti feladatokat közreműködő civil szervezet útján látja el.
 
-[^150]: A 61/M. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
+[^140]: A 61/M. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.

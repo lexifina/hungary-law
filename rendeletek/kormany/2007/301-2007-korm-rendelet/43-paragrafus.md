@@ -1,1 +1,3 @@
-## 42. § A menekült, az oltalmazott és a menedékes a 22. §-ban meghatározott feltételek szerint jogosult szabad felhasználású havi költőpénzre.
+## 42. §[^98]
+
+[^98]: A 42. §-t és az azt megelőző alcímet a 62/2016. (III. 31.) Korm. rendelet 8. § h) pontja hatályon kívül helyezte.
