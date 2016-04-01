@@ -30,8 +30,12 @@ vonatkozó szakmai ajánlatot kell tartalmaznia.
 
 (2) A szakmai ajánlatot adatokkal és leírásokkal kell alátámasztani.
 
-(3) Az ajánlatban meg kell jelölni a közszolgáltatás azon részét, amelyre vonatkozólag az ajánlattevő vagy a részvételre jelentkező harmadik személlyel kíván szerződést kötni.
+(3)[^13] Az ajánlatban meg kell jelölni a közszolgáltatás azon részét, amelyre vonatkozólag az ajánlattevő vagy a részvételre jelentkező harmadik személlyel kíván szerződést kötni, és meg kell jelölni ezen szerződésnek a közbeszerzési eljárás eredményeként megkötésre kerülő szerződés értékéhez viszonyított mértékét, arányát, ha az meghaladja a közbeszerzési eljárás eredményeként megkötésre kerülő szerződés nettó értékének 10 százalékát.
 
-(4) Az ajánlatkérő nem kérhet olyan körülményekre vonatkozó szakmai ajánlatot, amelyet a közbeszerzési eljárásban az alkalmasság körében vizsgál.
+(4)[^14] Az ajánlatkérő a szakmai ajánlat keretében nem értékelhet olyan körülményt, amelyet a közbeszerzési eljárásban az alkalmasság körében feltételül szabott.
 
-(5) Az alkalmassági követelményekre vonatkozó vizsgálatnak legalább az (1) bekezdés b)–e) pontjában meghatározott feltételekre kell kiterjednie, a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 310/2011. (XII. 23.) Korm. rendelet 15. § (3) bekezdésében meghatározottakkal összhangban.
+(5)[^15] Az ajánlatkérő az alkalmassági követelmények, vagy az értékelési szempontok között köteles legalább az (1) bekezdés b)–e) pontjában meghatározott feltételekre kiterjedő előírást megfogalmazni.
+
+[^13]: A 2. § (3) bekezdése a 70/2016. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^14]: A 2. § (4) bekezdése a 70/2016. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^15]: A 2. § (5) bekezdése a 70/2016. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
