@@ -2,11 +2,11 @@
 
 ## I. Általános szabályok
 
-## 1. A fizetések a Befogadó és az Értékesítő viszonylatában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, a tárgyhót követő hónap 7. munkanapján az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla, a Befogadó és a VET 13. § (1) bekezdése szerint az átvételi kötelezettség alá eső villamos energia átvételére kötelezett viszonylatában az átvételi kötelezettség alá eső villamos energiának az átviteli rendszerirányító által történő szétosztásáról és a szétosztás során alkalmazható árak meghatározásának módjáról szóló miniszteri rendelet szerint meghatározott menetrend szerinti villamosenergia-mennyiségen alapuló számla, továbbá a 9. § (1) bekezdésén alapuló módosító számla és a szabályozási pótdíj esetében számviteli bizonylat alapján történnek.
+## 1.[^104] A fizetések a Befogadó és az Értékesítő viszonylatában a 3. § (10) bekezdése szerinti villamos energia vonatkozásában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla, továbbá a 9. § (1) bekezdésén alapuló módosító számla és a szabályozási pótdíj esetében számviteli bizonylat alapján történnek.
 
-## 2. A jogosult köteles eredeti számláját, számviteli bizonylatát a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában, számviteli bizonylatban feltüntetett esedékesség időpontját legalább öt munkanappal megelőzően kézhez vehesse.
+## 2.[^105] A jogosult köteles eredeti számláját, számviteli bizonylatát a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában, számviteli bizonylatban feltüntetett esedékesség időpontját legalább hat munkanappal megelőzően kézhez vehesse.
 
-## 3. A fizetési kötelezettségekkel kapcsolatos számlára, számviteli bizonylatra vonatkozó kifogást a számla, számviteli bizonylat kézhezvételétől számított négy munkanapon belül lehet a jogosulttal közölni. A helytelen mérési adatokkal összefüggő kifogásokat a kereskedelmi szabályzatban foglaltaknak megfelelő elszámolási mennyiségi adatok reklamációját követően, de legkésőbb a kereskedelmi szabályzatban rögzített elszámolási adatokra vonatkozó reklamációs határidőig lehet a Befogadó részére benyújtani. A számlára, számviteli bizonylatra vonatkozó kifogás esetében a nem vitatott részek esedékessége nem változik.
+## 3.[^106] A fizetési kötelezettségekkel kapcsolatos számlára, számviteli bizonylatra vonatkozó kifogást a számla, számviteli bizonylat kézhezvételétől számított öt munkanapon belül lehet a jogosulttal közölni. A helytelen mérési adatokkal összefüggő kifogásokat a kereskedelmi szabályzatban foglaltaknak megfelelő elszámolási mennyiségi adatok reklamációját követően, de legkésőbb a kereskedelmi szabályzatban rögzített elszámolási adatokra vonatkozó reklamációs határidőig lehet a Befogadó részére benyújtani. A számlára, számviteli bizonylatra vonatkozó kifogás esetében a nem vitatott részek esedékessége nem változik.
 
 ## 4. A fizetési kötelezettségek késedelmes teljesítése esetén a késedelmesen teljesítő fél a késedelembe esés napjától a kifizetés napjáig terjedő időszakra a polgári törvénykönyvről szóló törvényben foglaltak szerinti késedelmi kamatot, valamint behajtási költségátalányt köteles fizetni a másik fél részére.
 
@@ -26,9 +26,9 @@
 
 ## 5. Hóközi árváltozás esetén az Értékesítőnek az árváltozással érintett időszakoknak megfelelően megbontva kell a számlát kiállítania.
 
-## 6. A Befogadó az Értékesítő részére havonta egy számviteli bizonylatot állít ki a szabályozási pótdíjról.
+## 6.[^107] A Befogadó az Értékesítő részére havonta a tárgyhónapot követő hónap hatodik munkanapjától egy számviteli bizonylatot állít ki a szabályozási pótdíjról.
 
-## 7. Ha a számviteli bizonylat vonatkozásában az Értékesítő az esedékesség napjáig az ellenértéket nem fizeti meg, akkor a Befogadó a nem vitatott ellenértéket és az I. Általános szabályok 4. pontja szerinti – a számviteli bizonylat esedékességének napjától a beszámítás napjáig terjedő időszakra meghatározott – késedelmi kamatot az 1. pont szerinti, következő számla értékébe beszámítja.
+## 7.[^108] Ha a számviteli bizonylat vonatkozásában az Értékesítő az esedékesség napjáig az ellenértéket nem fizeti meg, akkor a Befogadó a nem vitatott ellenértéket és az I. Általános szabályok 4. pontja szerinti – a számviteli bizonylat esedékességének napjától a beszámítás napjáig terjedő időszakra meghatározott – késedelmi kamatot és behajtási költségátalányt az 1. pont szerinti számla értékébe beszámítja.
 
 5. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez
 
@@ -39,3 +39,9 @@
 2. A 4. § (2)–(6) bekezdése szerinti villamos energia tárgyévre vonatkozó, január 1-jétől érvényes – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos kötelező átvételi árát a tárgyévet megelőző év – a zónaidőnként termelt villamos energia mennyiségek alapján számított, súlyozott – átlagos átvételi ára és a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, az előző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex 1% pontos hatékonyságjavítási tényezővel csökkentett értékének szorzata alapján kell meghatározni.
 
 3. E rendelet alkalmazásában, az 1. és 2. pontban hivatkozott „a Központi Statisztikai Hivatal által a tárgyévet megelőzően utoljára közzétett, a megelőző év azonos időszakához viszonyított aktuális (utolsó) éves fogyasztói árindex” a Központi Statisztikai Hivatal által a tárgyévet megelőző évre vonatkozóan, a tárgyévet megelőző évben havonta közzétett, az előző év azonos hónapjaihoz viszonyított fogyasztói árindexeinek átlagát jelenti.
+
+[^104]: A 4. számú melléklet I. pont 1. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^105]: A 4. számú melléklet I. pont 2. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^106]: A 4. számú melléklet I. pont 3. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.
+[^107]: A 4. számú melléklet II. pont 6. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^108]: A 4. számú melléklet II. pont 7. alpontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (7) bekezdése szerint módosított szöveg.

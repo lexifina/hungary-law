@@ -30,7 +30,7 @@ m) Minősített Értékesítő: a 3 MW-ot meghaladó telephelyi névleges villam
 
 n)[^12] önfogyasztás: az erőműegység telephelyének teljes villamosenergia-fogyasztása, beleértve az erőműegység villamosenergia- és hőenergia-termelésének, a termelőeszközök üzemének és üzemeltetésének fenntartására a saját termelésből vagy a hálózatból felhasznált villamos energiát, valamint az erőműegységet tulajdonló gazdasági társaságnak és az erőműegység üzemeltetőjének a telephelyen történő minden egyéb célú villamosenergia-fogyasztását is (ha az erőműegységben termelt villamos energiát csak részben értékesítik a kötelező átvételi rendszerben, akkor az önfogyasztást az értékesített mennyiségek arányában, ha a telephelyen több erőműegység üzemel, akkor az önfogyasztást az erőműegységek tényleges technológiai célú felhasználását is figyelembe véve kell megosztani);
 
-o)[^13] szabályozási pótdíj: a havi menetrend hiánya vagy a menetrendtől való eltérés esetén az Értékesítő által a Befogadó számára fizetendő díj;
+o)[^13] szabályozási pótdíj: a napi menetrend hiánya vagy az érvényes menetrendtől való eltérés esetén az Értékesítő által a Befogadó számára fizetendő díj;
 
 p) tárgyév: a kötelező átvételi rendszerben történő értékesítés árai érvényességének éves időszaka minden év január 1-jétől december 31-ig.
 
@@ -46,5 +46,5 @@ r)[^14]
 [^10]: A 2. § (1) bekezdés e) pontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 4. pontja szerint módosított szöveg.
 [^11]: A 2. § (1) bekezdés k) pontját a 166/2011. (VIII. 24.) Korm. rendelet 3. § 5. pontja hatályon kívül helyezte.
 [^12]: A 2. § (1) bekezdés n) pontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 6. pontja szerint módosított szöveg.
-[^13]: A 2. § (1) bekezdés o) pontja a 123/2015. (V. 26.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^13]: A 2. § (1) bekezdés o) pontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^14]: A 2. § (1) bekezdés r) pontját a 270/2010. (XII. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 123/2015. (V. 26.) Korm. rendelet 28. § (1) bekezdés a) pontja.
