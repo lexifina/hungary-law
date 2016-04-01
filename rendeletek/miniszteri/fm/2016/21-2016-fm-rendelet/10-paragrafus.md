@@ -1,3 +1,3 @@
-## 9. § A 4/2015. (II. 19.) FM rendelet 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+10. §[^11]
 
-## „(3) Az MVH az egyes borpiaci évekre vonatkozó támogatást az adott borpiaci évre az 1. § (6) bekezdésében megállapított keretösszeg erejéig a borpiaci év kezdetét követő év október 15-ig, az azt meghaladó részében a borpiaci év kezdetét követő év október 15. napja után fizeti ki.”
+[^11]: A 4–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

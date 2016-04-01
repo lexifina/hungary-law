@@ -1,3 +1,3 @@
-## 8. § A 4/2015. (II. 19.) FM rendelet 7. § (8) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-## „(8) Ha a kérelmező a program egészének vagy részének a megvalósítására szerződést köt, a (4) bekezdés a)–g) pontja szerinti dokumentumok alatt a kérelmezővel szerződő másik fél részére kiállított bizonylatokat és a másik fél által kötött szerződéseket is érteni kell.”
+[^10]: A 4–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,10 +2,11 @@
 
 1. § (1)[^1]
 
-(2)[^2]
+(2) A 127/2009. (IX. 29.) FVM rendelet 13. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-(3)–(4)[^3]
+## „(2) A szőlő származási bizonyítvány iránti kérelemhez mellékelni kell a mérlegjegyet, a felvásárlási jegyet vagy átvételi elismervényt vagy ezek másolatát, vagy a kérelem aláírásával nyilatkozni kell a saját feldolgozásról.”
+
+(3)–(4)[^2]
 
 [^1]: Az 1. § (1) bekezdése a 11. § (3) bekezdése alapján 2017. február 1-jén lép hatályba.
-[^2]: Az 1. § (2) bekezdése a 11. § (2) bekezdése alapján 2016. április 1-jén lép hatályba.
-[^3]: Az 1. § (3)–(4) bekezdése a 11. § (3) bekezdése alapján 2017. február 1-jén lép hatályba.
+[^2]: Az 1. § (3)–(4) bekezdése a 11. § (3) bekezdése alapján 2017. február 1-jén lép hatályba.
