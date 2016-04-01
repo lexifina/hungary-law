@@ -24,18 +24,18 @@ d) az elhalt személy születési idejét,
 
 e) az elhalt személy születési családi és utónevét.
 
-(3)[^39] Ha a születés vagy a haláleset bejelentése az (1) vagy a (2) bekezdésben foglalt adatokat nem tartalmazza, vagy azokat – az anyakönyvvezető által beszerzendő adatok, okiratok kivételével – nem igazolták, az anyakönyvvezető az anyakönyvezést a hiányzó adatok beszerzéséig, de legfeljebb a bejelentéstől számított harminc napra elhalasztja. A születés anyakönyvezésének elhalasztásáról az anyakönyvvezető a bejelentőnek kérelemre igazolást ad.
+(3)[^40] Ha a születés vagy a haláleset bejelentése az (1) vagy a (2) bekezdésben foglalt adatokat nem tartalmazza, vagy azokat – az anyakönyvvezető által beszerzendő adatok, okiratok kivételével – nem igazolták, az anyakönyvvezető az anyakönyvezést a hiányzó adatok beszerzéséig, de legfeljebb a bejelentéstől számított harminc napra elhalasztja. A születés anyakönyvezésének elhalasztásáról az anyakönyvvezető a bejelentőnek kérelemre igazolást ad.
 
 (4) Ha a gyermek születését azért nem lehet anyakönyvezni, mert sem születési családi, sem utóneve nem ismert, az anyakönyvvezető haladéktalanul értesíti a gyámhivatalt. Az anyakönyvvezető a gyámhivatal határozata alapján jegyzi be az anyakönyvbe a gyermek születésével összefüggő adatokat.
 
-(5)[^40]
+(5)[^41]
 
 (6) Ha a haláleset bejelentésével összefüggésben a (2) bekezdés c)–e) pontjában foglalt adatok az anyakönyvezés elhalasztását követően sem válnak ismertté, a rendőrség feladat- és hatáskörrel rendelkező szervének értesítése alapján az ismeretlen holttest anyakönyvezésének szabályait kell alkalmazni.
 
-(7)[^41] Ha a haláleset pontos éve, hónapja és napja nem volt megállapítható, az anyakönyvben és az anyakönyvi okiraton a halottvizsgálati bizonyítványon szereplő vagy egyébként megállapított időpontot vagy időintervallumot kell feltüntetni.
+(7)[^42] Ha a haláleset pontos éve, hónapja és napja nem volt megállapítható, az anyakönyvben és az anyakönyvi okiraton a halottvizsgálati bizonyítványon szereplő vagy egyébként megállapított időpontot vagy időintervallumot kell feltüntetni.
 
 (8) Mindkét házastárs vagy mindkét bejegyzett élettárs halála esetén, ha a halottvizsgálati bizonyítványból az elhalálozás sorrendje nem állapítható meg, az anyakönyvvezető a családi állapotra vonatkozó adatot nem jegyzi be.
 
-[^39]: A 29. § (3) bekezdése a 75/2015. (XII. 22.) BM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^40]: A 29. § (5) bekezdését a 75/2015. (XII. 22.) BM rendelet 7. § (4) bekezdése hatályon kívül helyezte.
-[^41]: A 29. § (7) bekezdése a 43/2015. (VII. 15.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^40]: A 29. § (3) bekezdése a 75/2015. (XII. 22.) BM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^41]: A 29. § (5) bekezdését a 75/2015. (XII. 22.) BM rendelet 7. § (4) bekezdése hatályon kívül helyezte.
+[^42]: A 29. § (7) bekezdése a 43/2015. (VII. 15.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.

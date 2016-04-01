@@ -1,4 +1,4 @@
-68. §[^85] (1) Az anyakönyvi eljárás befejezése után az anyakönyvi alapiratot az anyakönyvi irattárban kell elhelyezni.
+68. §[^88] (1) Az anyakönyvi eljárás befejezése után az anyakönyvi alapiratot az anyakönyvi irattárban kell elhelyezni.
 
 (2) Az anyakönyvi irattárban a 2014. július 1-je után anyakönyvezett események alapiratait az érintett anyakönyvi esemény típusa szerint, évek szerint és a képzett eseményazonosítók sorrendjében kell elhelyezni.
 
@@ -10,4 +10,4 @@
 
 (6) Ha az alapirat egyidejűleg több, eltérő anyakönyvi eseményhez kapcsolódó bejegyzésnek is alapirata, az anyakönyvvezető az eredeti alapiratot az elsőként bejegyzett anyakönyvi esemény alapiratai között helyezi el, és a további anyakönyvi események alapiratai között az eredeti alapirat fellelhetőségére utaló feljegyzést helyez el.
 
-[^85]: A 68. § a 43/2015. (VII. 15.) BM rendelet 32. §-ával megállapított szöveg.
+[^88]: A 68. § a 43/2015. (VII. 15.) BM rendelet 32. §-ával megállapított szöveg.

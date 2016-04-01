@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-32-20-2
 | 2015-04-01 | 2014-32-20-2T.5 | 11/2015. (III. 31.) BM rendelet |
 | 2015-08-01 | 2014-32-20-2T.6 | 43/2015. (VII. 15.) BM rendelet |
 | 2016-01-01 | 2014-32-20-2T.7 | 75/2015. (XII. 22.) BM rendelet |
+| 2016-04-01 | 2014-32-20-2T.8 | 8/2016. (III. 8.) BM rendelet |

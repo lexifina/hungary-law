@@ -1,4 +1,4 @@
-## 14/A. [^49] A családi név korrekciója
+## 14/A. [^50] A családi név korrekciója
 
 34/A. § (1) Az At. 44. §-a, és 55–55/A. §-a szerinti családi név korrekciójára irányuló kérelmet annyi példányban kell felvenni, ahány anyakönyvi bejegyzést az eljárás érint.
 
@@ -54,4 +54,4 @@ ce) a korlátozottan cselekvőképes kiskorú hozzájáruló nyilatkozatát.
 
 (5) A családi név korrekciójára irányuló kérelemben meg kell jelölni azt a családi nevet, amelyet a kérelmező új névként kíván viselni.
 
-[^49]: A 14/A. alcímet (34/A. §) a 43/2015. (VII. 15.) BM rendelet 17. §-a iktatta be.
+[^50]: A 14/A. alcímet (34/A. §) a 43/2015. (VII. 15.) BM rendelet 17. §-a iktatta be.
