@@ -777,3 +777,5 @@ A kérelmező társaságot (a továbbiakban: társaság) azonosító adatok
 2. Székhely (postai irányítószám, település, közterület neve, közterület jellege, házszám, emelet, ajtó):
 
 3. Adószám első 8 számjegye (törzsszám):
+
+4. Kapcsolattartó

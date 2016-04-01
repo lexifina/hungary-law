@@ -1,3 +1,5 @@
-## 11. § Hatályát veszti a Magyar Nemzeti Bank előtti egyes engedélyezési, jóváhagyási és nyilvántartásba vételi eljárásokban, valamint bejelentéseknél alkalmazandó formanyomtatványokról szóló 40/2014. (X. 29.) MNB rendelet.
+## 11. §[^2]
 
 1. melléklet a 4/2016. (III. 1.) MNB rendelethez
+
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
