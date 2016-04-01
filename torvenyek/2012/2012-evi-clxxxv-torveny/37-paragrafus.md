@@ -4,9 +4,9 @@ a) a hulladékgazdálkodási közszolgáltatás ellátása során a környezet v
 
 b) a szerződésben megállapított kötelezettségét neki felróható módon súlyosan megsértette.
 
-(1a) A hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat felmondja, ha a közszolgáltató nem rendelkezik minősítési engedéllyel.
+(1a) A 2016. április 1-jét követően megkötött hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat legfeljebb egy hónapos felmondási idővel felmondja, ha a közszolgáltató nem rendelkezik minősítési engedéllyel vagy megfelelőségi véleménnyel.
 
-(2) A felmondási idő legfeljebb 6 hónap. A felmondási idő alatt a közszolgáltató a hulladékgazdálkodási közszolgáltatást változatlanul ellátja.
+(2) Az (1) bekezdés szerinti felmondási idő legfeljebb 6 hónap. A felmondási idő alatt a közszolgáltató a hulladékgazdálkodási közszolgáltatást változatlanul ellátja.
 
 (3) A hulladékgazdálkodási közszolgáltatási szerződés felmondása esetén a települési önkormányzat képviselő-testületének haladéktalanul intézkednie kell a hulladékgazdálkodási közszolgáltatás ellátásának biztosításáról.
 

@@ -16,7 +16,15 @@ d) elkészíti az Országos Hulladékgazdálkodási Közszolgáltatási Tervet, 
 
 e) megállapítja, hogy a hulladékgazdálkodási közszolgáltatási rendszerelem fejlesztése megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek,
 
-f) megállapítja, hogy a közszolgáltató tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról véleményt állít ki (a továbbiakban: megfelelőségi vélemény).
+f) megállapítja, hogy a közszolgáltató tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról véleményt állít ki (a továbbiakban: megfelelőségi vélemény),
+
+g) a hulladékgazdálkodás országos szintű céljainak és fejlesztési irányainak teljesülése érdekében kialakítja az infrastrukturális erőforrások optimális használatának rendszerét,
+
+h) kezeli az önkormányzatok, önkormányzati társulások által önkéntesen vagyonkezelés körében rábízott vagyont,
+
+i) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) által meghatározott szolgáltatási díjat,
+
+j) kezeli a közszolgáltatás keretében keletkező kintlévőségeket.
 
 (2) Az állam az (1) bekezdés szerinti feladatainak ellátására koordináló szervezetet (a továbbiakban: Koordináló szerv) hoz létre.
 

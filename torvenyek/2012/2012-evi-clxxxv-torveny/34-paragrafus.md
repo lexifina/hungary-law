@@ -1,10 +1,10 @@
-34. § (1) A települési önkormányzat a hulladékgazdálkodási közszolgáltatás ellátására a közszolgáltatóval írásbeli szerződést köt.
+34. § (1) A települési önkormányzat az önkormányzati hulladékgazdálkodási közfeladat ellátására a közszolgáltatóval írásbeli szerződést köt.
 
-(2) A települési önkormányzat hulladékgazdálkodási közszolgáltatás ellátására csak 1 hulladékgazdálkodási közszolgáltatási szerződést köthet.
+(2) A települési önkormányzat az önkormányzati hulladékgazdálkodási közfeladat ellátására csak 1 hulladékgazdálkodási közszolgáltatási szerződést köthet.
 
-(3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítési engedéllyel (a továbbiakban: minősítési engedély) rendelkező gazdasági szereplővel köthet.
+(3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítési engedéllyel (a továbbiakban: minősítési engedély) és a 32/A. § (1) bekezdés f) pontja szerinti megfelelőségi véleménnyel rendelkező gazdasági szereplővel köthet.
 
-(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a minősítési engedéllyel nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – az államot és a települési önkormányzatot kivéve – valamennyien rendelkeznek minősítési engedéllyel.
+(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a 32/A. § (1) bekezdés f) pontja szerinti megfelelőségi véleménnyel rendelkező, de minősítési engedéllyel nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – az államot és a települési önkormányzatot kivéve – valamennyien rendelkeznek minősítési engedéllyel.
 
 (5) A hulladékgazdálkodási közszolgáltatási szerződésnek legalább az alábbiakat kell tartalmaznia:
 

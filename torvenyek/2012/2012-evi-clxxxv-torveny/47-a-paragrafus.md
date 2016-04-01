@@ -1,4 +1,4 @@
-47/A. § (1) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg.
+47/A. § (1) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg és a Koordináló szerv szedi be.
 
 (2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a 88. § (3) bekezdés b) pont be) alpontjában kapott felhatalmazás alapján megalkotott rendeletben foglaltak szerint küldi meg a miniszter részére.
 

@@ -2,9 +2,9 @@
 
 (2) A természetes személy ingatlanhasználó részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) nem haladhatja meg a 2012. április 14. napján alkalmazott díj legfeljebb 4,2 százalékkal megemelt összegének 90 százalékát.
 
-(2a) A közszolgáltató a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak a (2), (2b), (5) és az (5a) bekezdésben foglalt előírások teljesülését.
+(2a) A Koordináló szerv a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak a (2), (2b), (5) és az (5a) bekezdésben foglalt előírások teljesülését.
 
-(2b) A közszolgáltató részéről a hulladékgazdálkodási közszolgáltatási szerződés megszegésének minősül, ha a (2), (5) és (5a) bekezdésben meghatározott kötelezettségét nem teljesíti.
+(2b)
 
 (2c) A (2) bekezdés szempontjából alkalmazott díjnak
 
@@ -14,13 +14,13 @@ b) ha a települési önkormányzati rendelet díjat nem állapított meg, akkor
 
 (2d) Ha a szolgáltatási, illetve műszaki tartalom változása vagy a közszolgáltató döntése folytán a 2012. április 14-ét követően 2013. június 30-ig alkalmazott díj a 2012. április 14-én alkalmazott díjnál alacsonyabb, a (2) bekezdés szerinti díj számításánál ezt – több alacsonyabb alkalmazott díj esetén a legalacsonyabbat – kell a számítás alapjául venni.
 
-(3) A társasházat a (2) bekezdésben meghatározott díjcsökkentés a társasházat alkotó azon albetétek vonatkozásában illeti meg, amelyeket természetes személy ingatlanhasználó használ. A társasház évente írásban tájékoztatja a közszolgáltatót a természetes személy és nem természetes személy ingatlanhasználók társasházon belüli megoszlásáról. A közszolgáltató a tájékoztatás kézhezvételét követően kiállított, esedékes számlájában érvényesíti a természetes személy ingatlanhasználók után a társasházat e rendelkezés alapján megillető díjcsökkenést. E rendelkezés megfelelően alkalmazandó a lakásszövetkezetre is. A díjcsökkenést vita esetén a közhiteles nyilvántartásból megismerhető, természetes és nem természetes személy tulajdonosok tulajdoni hányadainak egymáshoz viszonyított aránya alapján kell elszámolni.
+(3) A társasházat a (2) bekezdésben meghatározott díjcsökkentés a társasházat alkotó azon albetétek vonatkozásában illeti meg, amelyeket természetes személy ingatlanhasználó használ. A társasház évente írásban tájékoztatja a Koordináló szervet a természetes személy és nem természetes személy ingatlanhasználók társasházon belüli megoszlásáról. A Koordináló szerv a tájékoztatás kézhezvételét követően kiállított, esedékes számlájában érvényesíti a természetes személy ingatlanhasználók után a társasházat e rendelkezés alapján megillető díjcsökkenést. E rendelkezés megfelelően alkalmazandó a lakásszövetkezetre is. A díjcsökkenést vita esetén a közhiteles nyilvántartásból megismerhető, természetes és nem természetes személy tulajdonosok tulajdoni hányadainak egymáshoz viszonyított aránya alapján kell elszámolni.
 
 (4) A közszolgáltatást igénybe vevő társasház vagy lakásszövetkezet a társasházban, illetve lakásszövetkezetben lakó természetes személy ingatlanhasználót a (2) bekezdésben meghatározott díjtétel alapján a díjcsökkentés összegéről tájékoztatja.
 
-(5) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével köteles tájékoztatást nyújtani a természetes személy ingatlanhasználók, illetve társasházak és lakásszövetkezetek részére a (2), a (2d), a (3) és a (10) bekezdésben foglaltak teljesüléséről. A tájékoztatásnak összegszerűen tartalmaznia kell, hogy a rezsicsökkentés nélkül milyen fizetési kötelezettség terhelte volna a természetes személy ingatlanhasználókat, illetve társasházakat és lakásszövetkezeteket.
+(5) A Koordináló szerv a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével köteles tájékoztatást nyújtani a természetes személy ingatlanhasználók, illetve társasházak és lakásszövetkezetek részére a (2), a (2d), a (3) és a (10) bekezdésben foglaltak teljesüléséről. A tájékoztatásnak összegszerűen tartalmaznia kell, hogy a rezsicsökkentés nélkül milyen fizetési kötelezettség terhelte volna a természetes személy ingatlanhasználókat, illetve társasházakat és lakásszövetkezeteket.
 
-(5a) A közszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban. A közszolgáltató személyében bekövetkező változás esetében a korábbi közszolgáltató rezsicsökkentéssel kapcsolatos adatait a 37. § rendelkezéseinek megfelelő alkalmazásával kell biztosítani az új közszolgáltató részére.
+(5a) A Koordináló szerv a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban. A Koordináló szerv személyében bekövetkező változás esetében a korábbi Koordináló szerv rezsicsökkentéssel kapcsolatos adatait a 37. § rendelkezéseinek megfelelő alkalmazásával kell biztosítani az új Koordináló szerv részére.
 
 (5b) Az (5) bekezdésben foglalt rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
 
@@ -38,9 +38,9 @@ közszolgáltatási díjat kell tekinteni.
 
 (9) 2013. évre vonatkozóan a közszolgáltató a felügyeleti díjat a Hivatal részére díjfelügyeleti tevékenységéért szeptember 1. napjáig fizeti meg.
 
-(10) Ha a (2) vagy a (2d) bekezdés szerint megállapított díj 2013. július 1-jét követően legalább 10%-kal nem alacsonyabb a 2013. június 30-án alkalmazott díjnál, akkor a közszolgáltató köteles azt legalább annyival csökkenteni, hogy a fizetendő díj a 2013. június 30-án alkalmazott díjnál legalább 10%-kal alacsonyabb legyen.
+(10) Ha a (2) vagy a (2d) bekezdés szerint megállapított díj 2013. július 1-jét követően legalább 10%-kal nem alacsonyabb a 2013. június 30-án alkalmazott díjnál, akkor a Koordináló szerv köteles azt legalább annyival csökkenteni, hogy a fizetendő díj a 2013. június 30-án alkalmazott díjnál legalább 10%-kal alacsonyabb legyen.
 
-(11) A (2) és (10) bekezdés szerinti, a közszolgáltatási díj legmagasabb mértékére vonatkozó rendelkezéseket a közszolgáltatónak akkor is érvényesítenie kell, ha 2013. június 30-át követően a műszaki tartalom megváltozott, az azonban nem a természetes személy ingatlanhasználó kifejezett kérésére történt.
+(11) A (2) és (10) bekezdés szerinti, a közszolgáltatási díj legmagasabb mértékére vonatkozó rendelkezéseket a Koordináló szervnek akkor is érvényesítenie kell, ha 2013. június 30-át követően a műszaki tartalom megváltozott, az azonban nem a természetes személy ingatlanhasználó kifejezett kérésére történt.
 
 (12) Ha a közszolgáltató a (2), a (2d) és a (10) bekezdésben meghatározott díjak alapjául szolgáló gyűjtőedényhez képest eltérő űrmértékű gyűjtőedényt (a továbbiakban: új gyűjtőedény) rendszeresít vagy ajánl fel, az új gyűjtőedény vonatkozásában alkalmazható legmagasabb ürítési díjat – egytényezős közszolgáltatási díj esetén közszolgáltatási díjat – a (13)–(16) bekezdés szerint számítja ki a közszolgáltató.
 

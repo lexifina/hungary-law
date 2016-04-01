@@ -56,7 +56,7 @@
 
 26. hulladékgazdálkodás: a hulladék gyűjtése, szállítása, kezelése, az ilyen műveletek felügyelete, a kereskedőként, közvetítőként vagy közvetítő szervezetként végzett tevékenység, a hulladékgazdálkodási létesítmények és berendezések üzemeltetése, valamint a hulladékkezelő létesítmények utógondozása;
 
-27. hulladékgazdálkodási közszolgáltatás: a közszolgáltatás körébe tartozó hulladék átvételét, gyűjtését, elszállítását, kezelését, valamint a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását, üzemeltetését biztosító, kötelező jelleggel igénybe veendő szolgáltatás;
+27. hulladékgazdálkodási közszolgáltatás: a közszolgáltatás körébe tartozó hulladék átvételét, gyűjtését, elszállítását, kezelését, valamint a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását, üzemeltetését, vagyonkezelését és a hulladékgazdálkodási közszolgáltatás országos szintű megszervezését biztosító, kötelező jelleggel igénybe veendő szolgáltatás;
 
 27a. önkormányzati hulladékgazdálkodási közfeladat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezdés 19. pontja szerinti közfeladat az önkormányzat közigazgatási területén a hulladékgazdálkodási közszolgáltatás helyi szintű részletszabályainak meghatározása, valamint a hulladékgazdálkodási közszolgáltató kiválasztása, a közszolgáltatási szerződés megkötése;
 

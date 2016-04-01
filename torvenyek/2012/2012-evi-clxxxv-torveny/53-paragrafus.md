@@ -1,6 +1,6 @@
 ## 22. Ügyfélszolgálat
 
-53. § (1) A közszolgáltató az ingatlanhasználó hulladékgazdálkodási közszolgáltatással kapcsolatos bejelentéseinek intézése, panaszainak kivizsgálása, orvoslása és a közszolgáltatással kapcsolatos általános tájékoztatásnyújtás biztosítása érdekében a székhelyén ügyfélszolgálatot működtet.
+53. § (1) A közszolgáltató az ingatlanhasználó önkormányzati hulladékgazdálkodási közfeladattal kapcsolatos bejelentéseinek intézése, panaszainak kivizsgálása, orvoslása és az önkormányzati hulladékgazdálkodási közfeladattal kapcsolatos általános tájékoztatásnyújtás biztosítása érdekében a székhelyén ügyfélszolgálatot működtet.
 
 (2) A közszolgáltató az ügyfélszolgálat keretében az Fgytv.-ben meghatározottakon túlmenően
 
