@@ -1,0 +1,9 @@
+# 1/2016. (I. 27.) NFM rendelet
+
+a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-04-01 | 2016-1-20-2W.1 | 1/2016. (I. 27.) NFM rendelet |
