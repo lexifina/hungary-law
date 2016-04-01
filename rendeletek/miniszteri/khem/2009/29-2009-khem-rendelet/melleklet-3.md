@@ -50,7 +50,7 @@ Egyetemes szolgáltatói árrések mértéke
 
 | 1. |  | <20 m3/h | >20 m3/h |
 
-| 2. | Egyetemes szolgáltatói árrés (Ft/MWh) (felső hőértéken) | 515,65 | 244,77 |
+| 2. | Egyetemes szolgáltatói árrés (Ft/MWh) (felső hőértéken) | 792,1 | 376,0 |
 
 [^35]: A 2. melléklet 1. pont c) alpontja a 43/2013. (VII. 25.) NFM rendelet 12. § (5) bekezdése szerint módosított szöveg.
-[^36]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege az 54/2015. (IX. 30.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^36]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 6/2016. (III. 30.) NFM rendelet 4. §-ával megállapított szöveg.

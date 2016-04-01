@@ -1,4 +1,4 @@
-6. § (1)[^14] A 3. § (1) bekezdés a) pontja szerinti földgázár meghatározása az 1. melléklet 1. pontja, valamint az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 19/2010. (XII. 3.) NFM rendelet szerint történik.
+6. § (1)[^14] A 3. § (1) bekezdés a) pontja szerinti földgázár meghatározása az 1. melléklet 1. pontja, valamint a GET 141/A. § és a GET 141/J. § szerinti földgázforrások esetében az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 19/2010. (XII. 3.) NFM rendelet szerint történik.
 
 (2)[^15]
 
@@ -20,7 +20,7 @@
 
 (11)[^24]
 
-[^14]: A 6. § (1) bekezdése a 39/2014. (IX. 30.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^14]: A 6. § (1) bekezdése a 39/2014. (IX. 30.) NFM rendelet 1. § (1) bekezdésével megállapított, a 6/2016. (III. 30.) NFM rendelet 3. §-a szerint módosított szöveg.
 [^15]: A 6. § (2) bekezdését a 18/2010. (XII. 3.) NFM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
 [^16]: A 6. § (3) bekezdése a 18/2010. (XII. 3.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^17]: A 6. § (4) bekezdése a 43/2013. (VII. 25.) NFM rendelet 12. § (1) bekezdésével megállapított, az 58/2013. (IX. 27.) NFM rendelet 1. §-a, a 64/2013. (X. 30.) NFM rendelet 9. § a) pontja szerint módosított szöveg.

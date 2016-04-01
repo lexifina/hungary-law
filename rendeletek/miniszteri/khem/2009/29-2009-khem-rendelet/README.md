@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-29-20-2
 | 2015-04-01 | 2009-29-20-2M.23 | 72/2009. (XII. 7.) KHEM rendelet |
 | 2015-07-01 | 2009-29-20-2M.24 | 72/2009. (XII. 7.) KHEM rendelet |
 | 2015-10-01 | 2009-29-20-2M.25 | 72/2009. (XII. 7.) KHEM rendelet |
+| 2016-04-01 | 2009-29-20-2M.26 | 39/2014. (IX. 30.) NFM rendelet |
