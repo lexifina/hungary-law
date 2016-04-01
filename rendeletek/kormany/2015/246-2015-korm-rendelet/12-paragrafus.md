@@ -2,7 +2,7 @@
 
 12. § (1) Az egészségügyi ágazatban a létfontosságú rendszerelemek azonosítási eljárása során a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendeletet (a továbbiakban: Vhr.) a (2)–(7) bekezdésben meghatározott kiegészítésekkel kell alkalmazni.
 
-(2) A Vhr. 2. §-át azzal a kiegészítéssel kell alkalmazni, hogy az azonosítási jelentés elkészítésére kötelezettek a következők:
+(2)[^3] A Vhr. 2. §-át azzal a kiegészítéssel kell alkalmazni, hogy az azonosítási jelentés elkészítésére kötelezettek a következők:
 
 a) a kórházak,
 
@@ -12,9 +12,11 @@ c) az ÁEüT kezelője,
 
 d) az állami vérkészletek kezelője,
 
-e) a bakteriológiai (biológiai) és toxin-fegyverek kifejlesztésének, előállításának és tárolásának megtiltásáról és e fegyverek megsemmisítéséről szóló egyezményből eredő nyilatkozattételi kötelezettségek végrehajtásáról és az ellenőrzés rendjéről szóló 21/2013. (I. 30.) Korm. rendelet 3. §-a alapján bejelentésre kötelezett laboratórium (a továbbiakban: laboratórium), valamint
+e) a bakteriológiai (biológiai) és toxin-fegyverek kifejlesztésének, előállításának és tárolásának megtiltásáról és e fegyverek megsemmisítéséről szóló egyezményből eredő nyilatkozattételi kötelezettségek végrehajtásáról és az ellenőrzés rendjéről szóló 21/2013. (I. 30.) Korm. rendelet 3. §-a alapján bejelentésre kötelezett laboratórium (a továbbiakban: laboratórium),
 
-f) az egészségbiztosítás informatikai rendszerei üzemeltetője, azon gyógyszer-nagykereskedelmi tevékenységet végző, amely a 10. §-ban meghatározott követelményeknek megfelel.
+f) az egészségbiztosítás informatikai rendszerei üzemeltetője, valamint
+
+g) azon gyógyszer-nagykereskedelmi tevékenységet végző, amely a 10. §-ban meghatározott követelményeknek megfelel.
 
 (3) Az azonosítási jelentést a miniszter a kézhezvételtől számított 10 évig köteles megőrizni.
 
@@ -22,6 +24,9 @@ f) az egészségbiztosítás informatikai rendszerei üzemeltetője, azon gyógy
 
 (5) A laboratóriumok esetében az azonosítási jelentésben – a Vhr. által előírtakon túl – fel kell tüntetni a bejelentési kötelezettség alapjául szolgáló anyagok nevét, mennyiségét, helyét, továbbá az ezekkel kapcsolatos műszaki-technológiai támogatási szolgáltatást, a laboratórium méretét, a dolgozók számát és végzettségét.
 
-(6) A (2) bekezdés a) és f) pontja szerinti kijelölt létfontosságú rendszerelem üzemeltetője a kijelölés alapjául szolgáló tevékenységváltozás esetén köteles azonosítási eljárást lefolytatni és az azonosítási jelentést a működési engedély módosítását elrendelő határozat jogerőre emelkedésétől számított 90 napon belül a javaslattevő hatóság részére benyújtani.
+(6)[^4] A (2) bekezdés a) és g) pontja szerinti kijelölt létfontosságú rendszerelem üzemeltetője a kijelölés alapjául szolgáló tevékenységváltozás esetén köteles azonosítási eljárást lefolytatni és az azonosítási jelentést a működési engedély módosítását elrendelő határozat jogerőre emelkedésétől számított 90 napon belül a javaslattevő hatóság részére benyújtani.
 
 (7) Nem kell új azonosítási jelentést készítenie a (2) bekezdés szerinti szervezet üzemeltetőjének, ha a jelentés elkészítése alól az előző azonosítási eljárás során a miniszter felmentést adott és a szervezet tevékenységében nem történt lényeges változás, kivéve, ha a miniszter az azonosítási jelentés benyújtására határidő tűzésével a szervezetet felszólítja.
+
+[^3]: A 12. § (2) bekezdése a 64/2016. (III. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 12. § (6) bekezdése a 64/2016. (III. 31.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

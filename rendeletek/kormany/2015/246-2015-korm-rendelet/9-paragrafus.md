@@ -1,5 +1,9 @@
-## 9. § Nemzeti létfontosságú rendszerelemnek kell nyilvánítani az egészségbiztosítás azon informatikai rendszereit, amelyek
+9. §[^1] (1) Nemzeti létfontosságú rendszerelemnek kell nyilvánítani az egészségbiztosítás azon informatikai rendszereit, amelyek kiesése során a rendszer egészének bizalmassága, sértetlensége vagy rendelkezésre állása sérül és ez olyan mértékű üzemzavart eredményez,
 
-a) kiesése a normál működési rendet legalább 48 óráig lehetetlenné teszi vagy
+a) amelynek az elhárítása legalább 48 órát vesz igénybe, vagy
 
-b) központi szolgáltatást biztosító rendszerelemeinek helyreállítása legalább 72 óráig tart.
+b) amely következményeinek az elhárítása és az üzemszerű működés helyreállítása legalább 48 órát vesz igénybe, függetlenül attól, hogy az üzemzavar mennyi ideig állt fenn.
+
+(2) Az (1) bekezdésben foglaltakon túl nemzeti létfontosságú rendszerelemnek kell nyilvánítani az egészségbiztosítás azon informatikai rendszereit is, amelyek központi szolgáltatást biztosító rendszerelemeinek és az üzemszerű működésnek a helyreállítása legalább 72 óráig tart.
+
+[^1]: A 9. § a 64/2016. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

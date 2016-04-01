@@ -1,0 +1,1 @@
+## 17. § Azon kórház és laboratórium, amely e rendelet hatálybalépését követően kap működési engedélyt, az azonosítási jelentést – a Vhr. 15. §-ában foglaltaktól eltérően – első alkalommal a működési engedélyének jogerőre emelkedését követő 180 napon belül köteles benyújtani a feladat- és hatáskörrel rendelkező javaslattevő hatóság részére.
