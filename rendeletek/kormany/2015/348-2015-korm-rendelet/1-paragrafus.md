@@ -2,7 +2,6 @@
 
 1. § (1)[^1]
 
-(2)[^2]
+(2) Az R. 1/A. §-a a következő (4) bekezdéssel egészül ki:
 
 [^1]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § (2) bekezdése a 4. § (3) bekezdése alapján 2016. április 1-jén lép hatályba.

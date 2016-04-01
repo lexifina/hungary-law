@@ -1,0 +1,1 @@
+## „(4) Az ügysegéd a járási hivatal vezetőjének döntése alapján egyes ügykörök intézését előzetes időpontfoglaláshoz kötheti. Az erre vonatkozó információkat az ügyintézéssel kapcsolatos (2) bekezdés szerinti tájékoztatásnak tartalmaznia kell.”
