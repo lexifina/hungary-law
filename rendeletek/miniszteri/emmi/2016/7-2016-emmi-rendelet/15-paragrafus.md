@@ -1,20 +1,15 @@
-## 12–14. §[^5]
+## 14. § A 14/2007. EüM rendelet a következő 18/D. §-sal egészül ki:
 
-15. § (1) A 14/2007. EüM rendelet 1. számú melléklete a 3. melléklet szerint módosul.
+## „18/D. § (1) Az egyes egészségügyi, gyógyszerészeti tárgyú, valamint gyógyászati segédeszközökkel kapcsolatos miniszteri rendeletek módosításáról szóló 7/2016. (III. 30.) EMMI rendelettel megállapított 9. számú mellékletben foglaltakat a gyógyászati segédeszközök rendelése tekintetében 2016. május 1-jétől kell alkalmazni.
 
-(2) A 14/2007. EüM rendelet 2. számú melléklete a 4. melléklet szerint módosul.
+## (2) A 10. számú mellékletben foglalt táblázatnak az egyes egészségügyi, gyógyszerészeti tárgyú, valamint gyógyászati segédeszközökkel kapcsolatos miniszteri rendeletek módosításáról szóló 7/2016. (III. 30.) EMMI rendelettel megállapított 697/a. sora szerinti gyógyászati segédeszköz normatív támogatással leghamarabb 2016. május 1-jétől rendelhető.
 
-(3) A 14/2007. EüM rendelet 3. számú melléklete az 5. melléklet szerint módosul.
+## (3) A 10. számú mellékletben foglalt táblázatnak az egyes egészségügyi, gyógyszerészeti tárgyú, valamint gyógyászati segédeszközökkel kapcsolatos miniszteri rendeletek módosításáról szóló 7/2016. (III. 30.) EMMI rendelettel hatályon kívül helyezett 206. sora szerinti gyógyászati segédeszköz kölcsönzés normatív támogatással 2016. május 1-je előtt a 2016. március 31-én hatályos szabályok szerint rendelhető.”
 
-(4) A 14/2007. EüM rendelet 4. számú melléklete a 6. melléklet szerint módosul.
+15. § (1)–(7)[^4]
 
-(5) A 14/2007. EüM rendelet 5. számú melléklete a 7. melléklet szerint módosul.
+(8) A 14/2007. EüM rendelet a 10. melléklet szerinti 9. számú melléklettel egészül ki.
 
-(6) A 14/2007. EüM rendelet 6. számú melléklete a 8. melléklet szerint módosul.
+(9) A 14/2007. EüM rendelet 10. számú melléklete a 11. melléklet szerint módosul.
 
-(7) A 14/2007. EüM rendelet 8. számú melléklete a 9. melléklet szerint módosul.
-
-(8)–(9)[^6]
-
-[^5]: A 12–14. § a 30. § (2) bekezdése alapján 2016. április 1-jén lép hatályba.
-[^6]: A 15. § (8)–(9) bekezdése a 30. § (2) bekezdése alapján 2016. április 1-jén lép hatályba.
+[^4]: A 15. § (1)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
