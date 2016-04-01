@@ -10,9 +10,9 @@
 
 a) a saját maga által termelt villamos energiát,
 
-b) az átviteli rendszerirányítótól rendszerszintű szolgáltatások keretében átvett villamos energiát,
+b) az átviteli rendszerirányítótól rendszerszintű szolgáltatások keretében átvett villamos energiát
 
-c) a kötelező átvételi rendszer keretében a 13. § (1) bekezdése szerint átvett villamos energiát értékesítheti.
+értékesítheti.
 
 (3) A felhasználók részére közvetlenül értékesítő termelőt – a villamosenergia-kereskedelemre vonatkozó működési engedély kérelmezésére vonatkozó kötelezettség kivételével – úgy kell tekinteni, mint a felhasználók részére közvetlenül értékesítő villamosenergia-kereskedőt.
 

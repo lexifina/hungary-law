@@ -130,7 +130,7 @@ rendeletben állapítsa meg.
 
 12.
 
-13. az átvételi kötelezettség alá eső villamos energiának az átviteli rendszerirányító által történő szétosztási szabályait és a szétosztás során alkalmazható árak meghatározásának módját,
+13. a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokat,
 
 14.
 

@@ -6,9 +6,9 @@
 
 a) a felhasználó, az átviteli hálózati veszteség pótlásához szükséges beszerzések tekintetében az átviteli rendszerirányító, valamint az elosztó hálózati veszteség pótlásához szükséges beszerzések tekintetében az elosztó vételre irányuló,
 
-b) a termelő, a 13. § (5) bekezdés b) pontja szerinti villamos energia vonatkozásában az átviteli rendszerirányító, valamint a 32. § (3) bekezdésében foglaltak esetén az elosztó eladásra irányuló, és
+b) a termelő, valamint a 32. § (3) bekezdésében foglaltak esetén az elosztó eladásra irányuló, és
 
-c) a villamosenergia-kereskedő, valamint a rendszerszintű szolgáltatások és az átvételi kötelezettség alá eső villamos energia mérlegköre kiegyenlítésének biztosítása vonatkozásában, valamint a szűkületkezelési eljárásokban történő együttműködés keretében az átviteli rendszerirányító vételre és eladásra irányuló
+c) a villamosenergia-kereskedő, valamint a rendszerszintű szolgáltatások és az átvételi kötelezettség alá eső villamos energia mérlegköre kiegyenlítésének biztosítása vonatkozásában, a 13. § (6) bekezdés b) pontja szerinti villamos energia vonatkozásában, valamint a szűkületkezelési eljárásokban történő együttműködés keretében az átviteli rendszerirányító vételre és eladásra irányuló
 
 ügyleteket köthet, amennyiben megfelel a szervezett villamosenergia-piaci szabályzatban előírt feltételeknek, továbbá a szervezett villamosenergia-piaci engedélyessel a kereskedésben történő részvételre, az ügyletek elszámolására pedig szükség esetén az elszámolást végző szervezettel szerződést kötött.
 

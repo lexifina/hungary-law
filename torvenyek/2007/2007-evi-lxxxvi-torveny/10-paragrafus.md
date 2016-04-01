@@ -18,4 +18,4 @@ c) az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény (a 
 
 (3) A szélerőművek, szélerőműparkok által termelt villamos energia kötelező átvételének szabályait az (1) bekezdés sérelme nélkül, elkülönítetten, a rendszerszintű szolgáltatások korlátozott technikai lehetőségeinek figyelembevételével kell meghatározni.
 
-(4) Az átvételi kötelezettség alá eső villamos energia termelői kötelesek az átviteli rendszerirányító üzletszabályzata szerinti mérlegköri szerződést megkötni, és az átviteli rendszerirányító által az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörhöz csatlakozni. Ezt a mérlegkört az átviteli rendszerirányító egyenlíti ki.
+(4) Az átvételi kötelezettség alá eső villamos energia termelői kötelesek az átviteli rendszerirányító üzletszabályzata szerinti mérlegkör-tagsági szerződést megkötni, és az átviteli rendszerirányító által az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörhöz csatlakozni. Ezt a mérlegkört az átviteli rendszerirányító egyenlíti ki.
