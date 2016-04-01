@@ -1,6 +1,6 @@
-## 55. §[^151] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 287/2015. (X. 6.) Korm. rendelettel [a továbbiakban: 287/2015. (X. 6.) Korm. rendelet] megállapított rendelkezéseit a 287/2015. (X. 6.) Korm. rendelet hatálybalépésekor[^152] folyamatban lévő ügyekben is alkalmazni kell.
+## 55. §[^164] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 287/2015. (X. 6.) Korm. rendelettel [a továbbiakban: 287/2015. (X. 6.) Korm. rendelet] megállapított rendelkezéseit a 287/2015. (X. 6.) Korm. rendelet hatálybalépésekor[^165] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^153]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^166]
 
 Kezelő szervi kijelölés
 
@@ -96,6 +96,6 @@ Kezelő szervi kijelölés
 
 | 45. | ISPA/KA Kohéziós Alap támogatásból megvalósuló környezetvédelmi projektek | energiapolitikáért felelős miniszter |
 
-[^151]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 287/2015. (X. 6.) Korm. rendelet 28. §-a iktatta be.
-[^152]: A hatálybalépés napja 2015. október 7.
-[^153]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^164]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 287/2015. (X. 6.) Korm. rendelet 28. §-a iktatta be.
+[^165]: A hatálybalépés napja 2015. október 7.
+[^166]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított szöveg.

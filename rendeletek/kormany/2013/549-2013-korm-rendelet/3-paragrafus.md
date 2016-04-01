@@ -4,13 +4,13 @@
 
 (2) A kötelezettségvállalónak a kötelezettségvállalásokat és azok szakmai teljesítését figyelemmel kell kísérnie, valamint a kötelezettségvállalással terhelt, de felhasználásra nem kerülő maradvány összegéről írásban tájékoztatnia kell a fejezetet irányító szerv gazdasági vezetőjét.
 
-(3)[^15] Az előirányzat kezelő szerve – a 12/A. alcím szerinti előirányzatok esetén a mezőgazdasági és vidékfejlesztési támogatási szerv az irányító hatóság közreműködésével – az éves beszámoló, valamint a zárszámadás keretében köteles a fejezetet irányító szerv részére szöveges értékelést adni az előirányzat felhasználásáról, a megvalósított szakmai célokról és a nevesített feladatok végrehajtásáról.
+(3)[^16] Az előirányzat kezelő szerve – a 12/A. alcím szerinti előirányzatok esetén a mezőgazdasági és vidékfejlesztési támogatási szerv az irányító hatóság közreműködésével – az éves beszámoló, valamint a zárszámadás keretében köteles a fejezetet irányító szerv részére szöveges értékelést adni az előirányzat felhasználásáról, a megvalósított szakmai célokról és a nevesített feladatok végrehajtásáról.
 
-(4)[^16] A követelés behajthatatlanná történő minősítéséről a kötelezettségvállaló, a közreműködő szervezet, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv gondoskodik.
+(4)[^17] A követelés behajthatatlanná történő minősítéséről a kötelezettségvállaló, a közreműködő szervezet, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv gondoskodik.
 
-(5)[^17] Országos kihatású projekt esetén a vonatkozó előirányzat felhasználásának folyamatát, ellenőrzését és a kapcsolattartás módját a Versenyképes Közép-Magyarország Operatív Program irányító hatósága és a projekt szakmai tartalmáért felelős irányító hatóság között létrejövő megállapodásban kell rögzíteni.
+(5)[^18] Országos kihatású projekt esetén a vonatkozó előirányzat felhasználásának folyamatát, ellenőrzését és a kapcsolattartás módját a Versenyképes Közép-Magyarország Operatív Program irányító hatósága és a projekt szakmai tartalmáért felelős irányító hatóság között létrejövő megállapodásban kell rögzíteni.
 
-(6)[^18] Az előirányzat-módosítási jogköröket
+(6)[^19] Az előirányzat-módosítási jogköröket
 
 a) a fejezeten belüli átcsoportosítás,
 
@@ -20,13 +20,13 @@ c) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban:
 
 ## vonatkozásában a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy gyakorolja.
 
-(7)[^19] Az Áht. 33. § (3) bekezdés b) pont bc) alpontja szerinti átcsoportosítást a 10. § szerint kell végrehajtani.
+(7)[^20] Az Áht. 33. § (3) bekezdés b) pont bc) alpontja szerinti átcsoportosítást a 10. § szerint kell végrehajtani.
 
-(8)[^20] Az Áht. 33. § (3) bekezdés b) pont be) alpontja szerinti – a fejezeti likviditást biztosító – átcsoportosítás a kezelő szervek adatszolgáltatása alapján történik.
+(8)[^21] Az Áht. 33. § (3) bekezdés b) pont be) alpontja szerinti – a fejezeti likviditást biztosító – átcsoportosítás a kezelő szervek adatszolgáltatása alapján történik.
 
-[^15]: A 3. § (3) bekezdése a 287/2015. (X. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^16]: A 3. § (4) bekezdése a 287/2015. (X. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^17]: A 3. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^18]: A 3. § (6) bekezdése a 287/2015. (X. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^19]: A 3. § (7) bekezdését a 287/2015. (X. 6.) Korm. rendelet 3. §-a iktatta be.
-[^20]: A 3. § (8) bekezdését a 287/2015. (X. 6.) Korm. rendelet 3. §-a iktatta be.
+[^16]: A 3. § (3) bekezdése a 287/2015. (X. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^17]: A 3. § (4) bekezdése a 287/2015. (X. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^18]: A 3. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^19]: A 3. § (6) bekezdése a 287/2015. (X. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^20]: A 3. § (7) bekezdését a 287/2015. (X. 6.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 3. § (8) bekezdését a 287/2015. (X. 6.) Korm. rendelet 3. §-a iktatta be.

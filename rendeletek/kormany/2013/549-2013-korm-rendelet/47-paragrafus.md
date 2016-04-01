@@ -1,4 +1,4 @@
-47. § (1)[^125] Az EU Önerő Alap előirányzat célja a Korm. rendelet szerint a közszféra szervezetek által megvalósított projektek önerejéhez támogatás biztosítása.
+47. § (1)[^138] Az EU Önerő Alap előirányzat célja a Korm. rendelet szerint a közszféra szervezetek által megvalósított projektek önerejéhez támogatás biztosítása.
 
 (2) Az EU Önerő Alap előirányzat (XIX. fejezet 2. cím 7. alcím 13. jogcímcsoport) vonatkozásában
 
@@ -8,9 +8,9 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője v
 
 c) teljesítés igazoló: az érintett, európai uniós forrással rendelkező program irányító hatóságának vezetője vagy az általa írásban kijelölt személy, vagy a kijelölt közreműködő szervezet vezetője vagy az általa írásban kijelölt személy,
 
-d)[^126] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^139] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^125]: A 47. § (1) bekezdése a 287/2015. (X. 6.) Korm. rendelet 30. § 28. pontja szerint módosított szöveg.
-[^126]: A 47. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § o) pontja szerint módosított szöveg.
+[^138]: A 47. § (1) bekezdése a 287/2015. (X. 6.) Korm. rendelet 30. § 28. pontja szerint módosított szöveg.
+[^139]: A 47. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § o) pontja szerint módosított szöveg.

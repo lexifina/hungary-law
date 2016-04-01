@@ -1,4 +1,4 @@
-## 49/B. §[^132] Az Uniós programok árfolyam-különbözete előirányzat (XIX. fejezet 2. cím 14. alcím 1. jogcímcsoport) vonatkozásában
+## 49/B. §[^145] Az Uniós programok árfolyam-különbözete előirányzat (XIX. fejezet 2. cím 14. alcím 1. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője vagy az általa írásban kijelölt személy,
 
@@ -10,4 +10,4 @@ d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az �
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^132]: A 49/B. § a 287/2015. (X. 6.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^145]: A 49/B. § a 287/2015. (X. 6.) Korm. rendelet 25. §-ával megállapított szöveg.

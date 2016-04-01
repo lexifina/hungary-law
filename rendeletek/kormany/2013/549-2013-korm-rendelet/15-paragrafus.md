@@ -1,6 +1,6 @@
 ## 7. Az Állami költségvetési kedvezményezettek sajáterő támogatása előirányzat felhasználási szabályai
 
-15. §[^39] (1) Az Állami költségvetési kedvezményezettek sajáterő támogatása előirányzat célja a közszféra szervezetek részére
+15. §[^44] (1)[^45] Az Állami költségvetési kedvezményezettek sajáterő támogatása előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja a közszféra szervezetek részére
 
 a) az európai uniós forrásból finanszírozott jövedelemtermelő projektek esetén a megtérülő részre jutó központi költségvetési kiadások,
 
@@ -12,6 +12,11 @@ d) az európai uniós forrásból finanszírozott egészségügyi és közleked�
 
 ## biztosítása.
 
-(2) Az (1) bekezdés szerinti előirányzat a III. és IV. Fejezet szerint használható fel.
+(1a)[^46] Az előirányzat célja a 2014–2020 programozási időszakban a megyei önkormányzatok részére a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.8.2.3. és 3.12.1. pontja szerinti tevékenység ellátása érdekében megelőlegezési szerződés keretében megelőlegezés biztosítása.
 
-[^39]: A 15. § a 287/2015. (X. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
+(2)[^47] Az előirányzat a III. és IV. Fejezet szerint használható fel.
+
+[^44]: A 15. § a 287/2015. (X. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^45]: A 15. § (1) bekezdés nyitó szövegrésze a 72/2016. (III. 31.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^46]: A 15. § (1a) bekezdését a 72/2016. (III. 31.) Korm. rendelet 6. §-a iktatta be.
+[^47]: A 15. § (2) bekezdése a 72/2016. (III. 31.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
