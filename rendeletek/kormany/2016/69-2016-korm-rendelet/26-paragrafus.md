@@ -1,0 +1,3 @@
+26. § (1) A Koordináló szerv 2016. december 31-ig a közszolgáltatási díjat olyan gyakorisággal számlázza ki, amilyen gyakorisággal az adott közszolgáltató az adott közszolgáltatási területen 2016. április 1-jéig teljesített közszolgáltatási tevékenységgel kapcsolatban számlázott az egyes ingatlanhasználóknak.
+
+(2) A közszolgáltatók 2016. december 31-ig a 20. § (1) bekezdése szerinti adatszolgáltatást az egyes ingatlanhasználók tekintetében azon időszakra vonatkozóan kötelesek teljesíteni – az időszak utolsó napját követő 5 napon belül –, amely időszakra az (1) bekezdés szerint az adott ingatlanhasználó tekintetében a közszolgáltatási díj számlázása történik.
