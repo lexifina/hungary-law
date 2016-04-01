@@ -6,6 +6,6 @@
 
 (4) Az e rendeletben foglaltakat az e rendelet hatálybalépését követően kiváltott gyógyászati segédeszköz esetében kell alkalmazni.
 
-(5)–(8)[^163]
+(5)–(8)[^164]
 
-[^163]: A 17. § (5)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 22. pontja hatályon kívül helyezte.
+[^164]: A 17. § (5)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 22. pontja hatályon kívül helyezte.

@@ -26,7 +26,7 @@ b) az Egészségbiztosítási Alap kiadásaiban az eszköz támogatásával vár
 
 c) azt, hogy csak bizonyított hatásosságú és költséghatékonyságú eszköz fogadható be;
 
-d)[^47] a 8. számú melléklet szerinti, T-jelű, tartós használatra szánt, valamint a 10. számú melléklet szerinti kölcsönzés keretében kiszolgáltatható eszközök esetében az üzemeltetési vagy szolgáltatási költségeket;
+d)[^47] a 8. számú melléklet szerinti, T-jelű, tartós használatra szánt, valamint a 9. számú melléklet szerinti kölcsönzés keretében kiszolgáltatható eszközök esetében az üzemeltetési vagy szolgáltatási költségeket;
 
 e) a 2. § (4) bekezdés kd)–ke) alpontja szerinti nyilatkozatban foglaltakat;
 
@@ -51,7 +51,7 @@ d) a tartós használatra szánt, valamint egyedi méretvétel alapján készít
 [^44]: A 4. § (1) bekezdésének i) pontját a 8/2008. (III. 4.) EüM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte az 56/2008. (XII. 31.) EüM rendelet 23. § (12) bekezdése.
 [^45]: A 4. § (2) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
 [^46]: A 4. § (2) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 84. § d) pontja szerint módosított szöveg.
-[^47]: A 4. § (2) bekezdésének d) pontja a 25/2009. (VIII. 3.) EüM rendelet 1. §-ával megállapított szöveg.
+[^47]: A 4. § (2) bekezdésének d) pontja a 25/2009. (VIII. 3.) EüM rendelet 1. §-ával megállapított, a 7/2016. (III. 30.) EMMI rendelet 17. § a) pontja szerint módosított szöveg.
 [^48]: A 4. § (2) bekezdés g) pontját az 57/2012. (XII. 29.) EMMI rendelet 4. §-a iktatta be.
 [^49]: A 4. § (3) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
 [^50]: A 4. § (4) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.

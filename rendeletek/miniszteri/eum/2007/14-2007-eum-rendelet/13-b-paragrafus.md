@@ -1,4 +1,4 @@
-13/B. §[^144] (1) Amennyiben a 10. számú mellékletben foglaltak szerint kötszer támogatással történő rendelésének feltétele a kezelés egészségbiztosító általi ellenjegyzése, a 13/A. §-ban foglaltakat a (2)–(11) bekezdés szerinti eltérésekkel kell alkalmazni.
+13/B. §[^145] (1) Amennyiben a 10. számú mellékletben foglaltak szerint kötszer támogatással történő rendelésének feltétele a kezelés egészségbiztosító általi ellenjegyzése, a 13/A. §-ban foglaltakat a (2)–(11) bekezdés szerinti eltérésekkel kell alkalmazni.
 
 (2) A beteg kezelőorvosa az ellenjegyzést – a 13/A. § (2) bekezdésében foglaltak helyett –
 
@@ -50,4 +50,4 @@ azt indokolttá teszi.
 
 (11) Amennyiben az ellenjegyzés elutasítására kerül sor, az elutasítást követő 5 napon belül írásbeli indokolással együtt tájékoztatni kell a beteget és a beteg kezelőorvosát. A tájékoztatásnak tartalmaznia kell a 13/A. § (10) bekezdése szerinti jogorvoslati lehetőség ismertetését.
 
-[^144]: A 13/B. §-t a 74/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be.
+[^145]: A 13/B. §-t a 74/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be.

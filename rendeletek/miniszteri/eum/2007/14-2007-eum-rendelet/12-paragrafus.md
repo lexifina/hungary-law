@@ -6,7 +6,7 @@
 
 (3a)[^113] A forgalmazó a 24. számú mellékletben meghatározott, támogatással rendelt gyógyászati segédeszközök házhoz szállítása esetén közreműködőt vehet igénybe.
 
-(4)[^114] Az e rendelet 10. számú mellékletében meghatározott, azonos funkcionális csoportba tartozó eszközök közül a kihordási időn belül – az (5) és (6) bekezdésben foglaltak kivételével – társadalombiztosítási támogatással csak egyféle gyógyászati segédeszköz rendelhető. Az azonos funkcionális csoportba tartozó termékek kizárólag a 10. számú mellékletben foglalt kombinációban írhatók fel.
+(4)[^114] Az e rendelet 9. és 10. számú mellékletében meghatározott, azonos funkcionális csoportba tartozó eszközök közül a kihordási időn belül – az (5) és (6) bekezdésben foglaltak kivételével – társadalombiztosítási támogatással csak egyféle gyógyászati segédeszköz rendelhető. Az azonos funkcionális csoportba tartozó termékek kizárólag a 10. számú mellékletben foglalt kombinációban írhatók fel.
 
 (5) Kihordási időn belül azonos rendeltetésű gyógyászati segédeszköz csoportba tartozó eszközök társadalombiztosítási támogatással egyidejűleg akkor rendelhetők, ha ezek különböző testrészek egy időben történő azonos kezelésére szolgálnak. A vényen a felíró orvosnak jelölnie kell az adott testrészt vagy oldalt.
 
@@ -20,13 +20,7 @@ b)[^116]
 
 (6b)[^118] A (6) bekezdés a) pontjában foglaltaktól eltérően nem rendelhető a gyógyászati segédeszköz kihordási idejének letelte előtt társadalombiztosítási támogatással ismét az azonos rendeltetésű gyógyászati segédeszköz csoportba tartozó gyógyászati segédeszköz, ha az állapot változásának megfelelően az egyedi méretvétel alapján gyártott eszköz eredeti funkciója alkatrész cserével helyreállítható és ahhoz a biztosított az Ebtv. 26. § (1) bekezdés e) pontja alapján méltányosságból támogatásban részesült vagy méltányossági kérelmet nem nyújtott be.
 
-(7)[^119] A gyógyászati segédeszköz társadalombiztosítási támogatással történő javítását, karbantartását, selejtezését az OEP-pel
-
-a) az Ebtv. 30. § (3a) bekezdése alapján szerződést kötött gyártó vagy annak meghatalmazott képviselője, illetve gyógyászati segédeszköz javítását végző és a gyártó meghatalmazásával rendelkező egyéb szervezet, továbbá
-
-b) az Ebtv. 30. § (2) bekezdése alapján szerződést kötött és a gyártó meghatalmazásával rendelkező egészségügyi szolgáltató
-
-## végezheti.
+(7)[^119]
 
 (8)[^120]
 
@@ -38,12 +32,12 @@ b) az Ebtv. 30. § (2) bekezdése alapján szerződést kötött és a gyártó 
 
 [^112]: A 12. § (1) bekezdése az 52/2009. (XII. 30.) EüM rendelet 2. §-ával megállapított szöveg.
 [^113]: A 12. § (3a) bekezdését a 3/2014. (I. 16.) EMMI rendelet 23. §-a iktatta be.
-[^114]: A 12. § (4) bekezdése a 25/2009. (VIII. 3.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^114]: A 12. § (4) bekezdése a 25/2009. (VIII. 3.) EüM rendelet 3. § (2) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 17. § b) pontja szerint módosított szöveg.
 [^115]: A 12. § (6) bekezdése a 74/2011. (XII. 29.) NEFMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^116]: A 12. § (6) bekezdés b) pontját a 31/2012. (X. 8.) EMMI rendelet 10. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^117]: A 12. § (6a) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 1. § (2) bekezdése iktatta be.
 [^118]: A 12. § (6b) bekezdését az 57/2012. (XII. 29.) EMMI rendelet 7. § (1) bekezdése iktatta be, szövege az 53/2013. (VII. 19.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^119]: A 12. § (7) bekezdése a 31/2012. (X. 8.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^119]: A 12. § (7) bekezdését a 7/2016. (III. 30.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte.
 [^120]: A 12. § (8) bekezdését a 47/2015. (X. 19.) EMMI rendelet 32. § c) pontja hatályon kívül helyezte.
 [^121]: A 12. § (9) bekezdését az 57/2012. (XII. 29.) EMMI rendelet 7. § (2) bekezdése iktatta be, szövege az 53/2013. (VII. 19.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^122]: A 12. § (10) bekezdését az 57/2012. (XII. 29.) EMMI rendelet 7. § (2) bekezdése iktatta be.
