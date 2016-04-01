@@ -1,3 +1,0 @@
-## 1. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet (a továbbiakban: Inyvhr.) 75. §-a a következő (5) bekezdéssel egészül ki:
-
-## „(5) A mező- és erdőgazdasági földek forgalmáról szóló törvény szerint földnek minősülő ingatlanok esetében az (1)–(3) bekezdésben foglalt iratok, illetve nyilatkozatok helyett a szerződésnek az elővásárlásra jogosultakkal hirdetményi úton történő közlést igazoló, az eladó részére a jegyző által – az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról szóló kormányrendelet szerint – megküldött jognyilatkozatokat és iratjegyzéket kell csatolni.”
