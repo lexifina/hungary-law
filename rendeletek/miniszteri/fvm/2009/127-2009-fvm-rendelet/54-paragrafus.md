@@ -1,8 +1,8 @@
-## 53. §[^163] Amennyiben a címkén több szőlőfajta nevét tüntetik fel, úgy azokat azonos betűnagysággal, betűtípussal és betűszínnel kell felsorolni.
+## 53. §[^166] Amennyiben a címkén több szőlőfajta nevét tüntetik fel, úgy azokat azonos betűnagysággal, betűtípussal és betűszínnel kell felsorolni.
 
-## FN borászati termékek címkéjén fel nem tüntethető fajtanevek[^164]
+## FN borászati termékek címkéjén fel nem tüntethető fajtanevek[^167]
 
-54. §[^165] (1)[^166] Az 1308/2013/EU európai parlamenti és tanácsi rendelet 120. cikk (2) bekezdés b) pont (i) alpontja alapján a Magyarország területén termelt FN-borászati termékek címkéjén az alábbi szőlőfajták nevét tilos feltüntetni:
+54. §[^168] (1)[^169] Az 1308/2013/EU európai parlamenti és tanácsi rendelet 120. cikk (2) bekezdés b) pont (i) alpontja alapján a Magyarország területén termelt FN-borászati termékek címkéjén az alábbi szőlőfajták nevét tilos feltüntetni:
 
 a) arany sárfehér,
 
@@ -22,10 +22,10 @@ h) kövérszőlő,
 
 i) zéta.
 
-(2)[^167] Az (1) bekezdésben felsorolt fajtáknak a borkészítésre alkalmas szőlőfajták osztályba sorolásáról szóló 98/2009. (VII. 30.) FVM rendelet 1. számú mellékletében meghatározott szinonim nevei a 607/2009/EK rendelet 62. cikk (3) és (4) bekezdésének figyelembevételével feltüntethetőek az FN-borászati termékek címkéin is.
+(2)[^170] Az (1) bekezdésben felsorolt fajtáknak a borkészítésre alkalmas szőlőfajták osztályba sorolásáról szóló 98/2009. (VII. 30.) FVM rendelet 1. számú mellékletében meghatározott szinonim nevei a 607/2009/EK rendelet 62. cikk (3) és (4) bekezdésének figyelembevételével feltüntethetőek az FN-borászati termékek címkéin is.
 
-[^163]: Az 53. §-t és az azt megelőző alcímet a 64/2010. (V. 12.) FVM rendelet 28. § d) és e) pontja hatályon kívül helyezte, újonnan a 128/2012. (XII. 14.) VM rendelet 25. §-a iktatta be.
-[^164]: Az 54. §-t megelőző alcím a 128/2012. (XII. 14.) VM rendelet 30. § (13) bekezdése szerint módosított szöveg.
-[^165]: Az 54. § a 64/2010. (V. 12.) FVM rendelet 16. §-ával megállapított szöveg.
-[^166]: Az 54. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 29. §-ával megállapított szöveg.
-[^167]: Az 54. § (2) bekezdése a 128/2012. (XII. 14.) VM rendelet 26. §-ával megállapított szöveg.
+[^166]: Az 53. §-t és az azt megelőző alcímet a 64/2010. (V. 12.) FVM rendelet 28. § d) és e) pontja hatályon kívül helyezte, újonnan a 128/2012. (XII. 14.) VM rendelet 25. §-a iktatta be.
+[^167]: Az 54. §-t megelőző alcím a 128/2012. (XII. 14.) VM rendelet 30. § (13) bekezdése szerint módosított szöveg.
+[^168]: Az 54. § a 64/2010. (V. 12.) FVM rendelet 16. §-ával megállapított szöveg.
+[^169]: Az 54. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 29. §-ával megállapított szöveg.
+[^170]: Az 54. § (2) bekezdése a 128/2012. (XII. 14.) VM rendelet 26. §-ával megállapított szöveg.

@@ -1,59 +1,91 @@
-## Szőlő származási bizonyítvány kérelem
+## Összevont szőlő és első borászati termék származási bizonyítvány iránti kérelem
 
-## (benyújtandó a termelő vagy meghatalmazottja által a szőlőültetvény helye szerint illetékes hegybíró részére)
+## (benyújtandó a termelő vagy meghatalmazottja által az ültetvény helye szerint illetékes hegybíró részére)
 
-| Hegyközségi Tanács: |  |  | Hegyközség neve: |  |
+| Hegyközségi Tanács: |  |
 
-| Évjárat: |  |  |  |  |
+| Évjárat: |  |
 
-| Termelő neve: |  |  | Nem feldolgozó felvásárló neve: |  |
+| Hegyközség neve: |  |
 
-| Címe: |  |  | Címe: |  |
+| Termelő neve: |  |
 
-| GA száma: |  |  | GA száma: |  |
+| Címe: |  |
 
-| Feldolgozó szövetkezet neve: |  |  | Feldolgozó borkészítő neve (amennyiben nem azonos a szőlőtermelővel): |  |
+| GA száma: |  |
 
-| Címe |  |  | Címe: |  |
+## 1. A borászati termék jellemzői
 
-| Nyilvántartási száma: |  |  | Nyilvántartási száma: |  |
+|  | A | B | C |
 
-| GA száma: |  |  | GA száma: |  |
+| 1. | A borászati termék | termékkategóriája (kóddal)1 |  |
 
-|  | A | B | C | D | E | F | G | J | K | L | M | N |
+| 2. | tárolási helye (adóraktár száma): | □a termelő címével azonos |
+
+| 3. | □egyéb: |
+
+| 4. | színe: | □fehér |
+
+| 5. | □rozé |
+
+| 6. | □vörös |
+
+| 7. | alkoholtartalmát növelték | □igen |
+
+| 8. | □nem |
+
+| 9. | édesítése megtörtént | □igen |
+
+| 10. | □nem |
+
+| 11. | savtartalmát növelték | □igen |
+
+| 12. | □nem |
+
+| 13. | savtartalmát csökkentették | □igen |
+
+| 14. | □nem |
+
+| 15. | mennyisége (hl – a borászati termék nyilvántartás szerint) |  |
+
+## 2. A felhasznált szőlő jellemzői
+
+|  | A | B | C | D | E | F | G | H | I | J |
 
 | 1. | Tételszám | Termőterület | Szüretelt szőlő |
 
-| Származási ország (amennyiben nem Magyarország) | Település irányítószáma | Dűlő | Terület (ha) | Hrsz.1 | Fajta (kód) | A szüret módja K: kézi G: gépi | Potenciális alkoholtartalom (%vol) | A szüretelt szőlőből készíthető borászati termék legmagasabb eredetvédelmi kategóriája2 | Szőlő felhasználása3 | Mennyiség [q]4 |
+| Település irányítószáma | Dűlő | Terület (ha) | Hrsz.2 | Fajta (kód) | A szüret módja K: kézi G: gépi | Potenciális alko-holtartalom (%vol) | Legmagasabb eredetvédelmi kategória3 | Mennyiség [q]4 |
 
-| 2. |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. |  |  |  |  |  |  |  |  |  |  |
 
-| 3. |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. |  |  |  |  |  |  |  |  |  |  |
 
-| 4. |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. |  |  |  |  |  |  |  |  |  |  |
 
 | 5. | ÖSSZESEN |  |
 
-| 1: Amennyiben a szüretelt szőlő: - szüreti időpontja, - származási helye (országa, település, dűlő) - fajtája - potenciális alkoholtartalma - felhasználása, valamint az abból készíthető borászati termék eredetvédelmi kategóriája megegyezik, abban az esetben több helyrajzi szám is feltüntethető egy sorban |
+| 1 termékkategória-kódok: 1 bor 2 még erjedésben lévő újbor 3 likőrbor 4 pezsgő 5 minőségi pezsgő 6 illatos minőségi pezsgő 7 szén-dioxid hozzáadásával készült habzóbor 8 gyöngyözőbor | 9 szén-dioxid hozzáadásával készült gyöngyözőbor 10 szőlőmust 11 részben erjedt szőlőmust 12 töppedt szőlőből nyert részben erjedt szőlőmust 13 sűrített szőlőmust 14 finomított szőlőmustsűrítmény 15 szárított szőlőből készült bor 16 túlérett szőlőből készült bor 17 borecet |
 
-| 2: a legmagasabb eredetvédelmi kategória megadása OEM: oltalom alatt álló eredetmegjelölés OFJ: oltalom alatt álló földrajzi jelzés FNF: földrajzi jelzés nélkül, fajtanév feltüntetésével E: egyéb |
+| 2 Amennyiben a szüretelt szőlő: 1. szüreti időpontja, 2. származási helye (országa, település, dűlő), 3. fajtája, 4. potenciális alkoholtartalma, 5. felhasználása, valamint az abból készíthető borászati termék eredetvédelmi kategóriája megegyezik, abban az esetben több helyrajzi szám is feltüntethető egy sorban |
 
-| 3: kódok: 1. Feldolgozás adóköteles borrá a nyilatkozattevő által; 2. Feldolgozás adómentes borrá a nyilatkozattevő által; 3. Nem feldolgozó felvásárlónak értékesítve; 4. Feldolgozó szövetkezetnek szállítva; 5. Feldolgozó borkészítőnek szállítva; 6. Egyéb rendeltetés, éspedig: ………………………… |
+| 3 a legmagasabb eredetvédelmi kategória megadása |
 
-| 4: Borászati termék nyilvántartás/felvásárlási jegy/szállítólevél/átvételi elismervény alapján. |
+| OEM: olta lom alatt álló eredetmegjelölés OFJ: oltalom alatt álló földrajzi jelzés | FNF: földrajzi jelzés nélkül, fajtanév feltüntetésével E: egyéb |
 
-| A kérelem aláírásával a termelő igazolja, hogy a saját feldolgozású/nem feldolgozó felvásárlónak értékesített/feldolgozó szövetkezetbe szállított/feldolgozó borkészítőnek felkínált termés (a megfelelő rész aláhúzandó) a kérelemben feltüntetett ültetvény(ek)ről származik és a feltüntetett eredetvédelmi kategóriának megfelel. |
+| 4 Borászati termék nyilvántartás alapján |
 
-| Kelt: | _________________________________ |  |  |  |
+| A kérelem aláírásával a termelő igazolja, hogy a saját feldolgozású termés a kérelemben feltüntetett ültetvényről származik és a feltüntetett eredetvédelmi kategóriának megfelel. Jelen kérelem egyben a 436/2009/EK bizottsági rendeletben meghatározott szüreti és termelési jelentés. A kérelem aláírásával a kérelmező igazolja, hogy a kérelemben feltüntetett tételre vonatkozó adatok a valóságnak megfelelnek. |
 
-|  |  |  |  |  | Bizonyítványt kérelmező aláírása |
-
-| A szőlő származási bizonyítvány nyomtatását kérem. A szőlő származási bizonyítvány ....., ....., ......, számú példányát átvettem |
-
-| Kelt: | _________________________________ |  |  |  |
+| Kelt: | ________________________ |  |  |  |
 
 |  |  |  |  |  | Bizonyítványt kérelmező aláírása |
 
-9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^221]
+| Az összevont szőlő és első borászati termék származási bizonyítvány nyomtatását kérem. A származási bizonyítvány ....., ....., ......, számú példányát átvettem. |
 
-[^221]: A 9. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (5) bekezdésével megállapított, a 20/2014. (X. 31.) FM rendelet 32. § n) pontja, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés g) pontja szerint módosított szöveg.
+| Kelt: | ________________________ |  |  |  |
+
+|  |  |  |  |  | Bizonyítványt kérelmező aláírása |
+
+9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^225]
+
+[^225]: A 9. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (5) bekezdésével megállapított, a 20/2014. (X. 31.) FM rendelet 32. § n) pontja, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés g) pontja szerint módosított szöveg.

@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-127-20-
 | 2014-11-05 | 2009-127-20-82.14 | 20/2014. (X. 31.) FM rendelet |
 | 2015-06-28 | 2009-127-20-82.15 | 34/2015. (VI. 25.) FM rendelet |
 | 2015-10-11 | 2009-127-20-82.16 | 60/2015. (X. 8.) FM rendelet |
+| 2016-04-01 | 2009-127-20-82.17 | 60/2015. (X. 8.) FM rendelet |

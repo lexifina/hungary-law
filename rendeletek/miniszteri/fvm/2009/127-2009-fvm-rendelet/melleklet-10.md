@@ -1,48 +1,58 @@
-## Szőlő származási bizonyítvány
+## Összevont szőlő és első borászati termék származási bizonyítvány
 
-## Hegyközségi Tanács:
+|  | Példányszám: |  |  | Sorszám: |  |
 
-## Hegyközség neve:
+|  | Hegyközségi Tanács: |  |  | Hegyközség: |  |
 
-## Sorszám:
+|  | Termelő neve: |  |  | Termelő GA száma: |  |
 
-| Termelő neve: |  |  | Nem feldolgozó felvásárló neve: |  |
+|  | Termelő címe: |  |  |  |
 
-| Címe: |  |  | Címe: |  |
+## 1. A borászati termék adatai
 
-| GA száma: |  |  | GA száma: |  |
+|  |  | A | B | C |
 
-| Termelő/meghatalmazott aláírása |  |  | Felvásárló/meghatalmazott aláírása |  |
+|  | 1. | A borászati termék | megnevezése: |  |
 
-| Feldolgozó szövetkezet neve: |  |  | Feldolgozó borkészítő neve: |  |
+|  | 2. | tárolási helye: |  |
 
-| Címe |  |  | Címe: |  |
+|  | 3. | termékkategóriája: |  |
 
-| GA száma: |  |  | GA száma: |  |
+|  | 4. | színe: |  |
 
-| Képviselő/meghatalmazott aláírása |  |  | Borkészítő/meghatalmazott aláírása |  |
+|  | 5. | származási országa: |  |
 
-## Évjárat:
+|  | 6. | évjárata: |  |
 
-## A szüretelt szőlőből készült borászati terméken potenciálisan jelölhető:
+|  | 7. | szőlőfajtája vagy fajtái: |  |
 
-## - oltalom alatt álló eredetmegjelölés (és bortípus):
+|  | 8. | alkoholtartalmát növelték: | igen/nem |
 
-## - oltalom alatt álló földrajzi jelzés (és bortípus):
+|  | 9. | édesítése megtörtént: | igen/nem |
 
-## A szőlő felhasználása a nyilatkozattevő általi feldolgozás esetén:
+|  | 10. | savtartalmát növelték: | igen/nem |
 
-## - Feldolgozás adóköteles borrá;
+|  | 11. | savtartalmát csökkentették: | igen/nem |
 
-## - Feldolgozás adómentes borrá;
+|  | 12. | összes alkoholtartalma (%vol) |  |
 
-## - Egyéb rendeltetés, éspedig: _____________________
+|  | 13. | teljes mennyisége (hl) |  |
 
-|  | A | B | C | D | E | F | G | J | L |
+|  | 14. | Potenciáli-san jelölhető | eredetmegjelölés és bortípus |  |
+
+|  | 15. | földrajzi jelzés és bortípus |  |
+
+|  | 16. | évjárat |  |
+
+|  | 17. | borszőlőfajta neve |  |
+
+## 2. A borászati termék készítéséhez felhasznált szőlő adatai
+
+|  | A | B | C | D | E | F | G | H | I |
 
 |  | Tételszám | Termőterület | Szüretelt szőlő |
 
-| 1. | Származási ország | Település | Dűlő | Terület (ha) | Hrsz.* | Fajta | Potenciális alkoholtartalom (%vol)/Magyar mustfok | Mennyiség [q] ** |
+| 1. | Szárma- zási ország | Település | Dűlő | Terület (ha) | Hrsz. | Fajta | Potenciális alkoholtartalom (%vol) | Mennyiség [q]* |
 
 | 2. |  |  |  |  |  |  |  |  |  |
 
@@ -52,24 +62,18 @@
 
 | 5. | ÖSSZES MENNYISÉG |  |
 
-| 6. | ÁTLAGOS POTENCIÁLIS ALKOHOLTARTALOM (%vol)/mustfok |  |  |
+| 6. | ÁTLAGOS POTENCIÁLIS ALKOHOLTARTALOM (%vol) |  |  |
 
-| * Amennyiben a szüretelt szőlő: - szüreti időpontja, - származási helye (országa, település, dűlő) - fajtája - potenciális alkoholtartalma - felhasználása, valamint az a jelölni kívánt kifejezések megegyeznek, abban az esetben több helyrajzi szám is feltüntethető egy sorban |
+| * Borászati termék nyilvántartás/felvásárlási jegy/szállítólevél/átvételi elismervény alapján. |
 
-| ** Borászati termék nyilvántartás/felvásárlási jegy/szállítólevél/átvételi elismervény alapján. |
+## Megjegyzés:
 
-## A fenti tételekre a kérelem alapján a szőlő származási bizonyítványt kiadtam és nyilvántartásba vettem.
+## A fenti tételre a ____________ sorszámú borászati termék származási bizonyítványt készletigazolás céljából kiadtam és nyilvántartásba vettem.
 
-## (Megjegyzés: ................................)
+| Kelt.: | _________________________________ |  |  |  |
 
-## Kelt: ...............................................................
+|  |  |  |  |  | P.H. | Hegybíró aláírása |
 
-## P. H.
+10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^227]
 
-## ..........................................................................
-
-## A hegybíró aláírása
-
-10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^222]
-
-[^222]: A 10. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § c) pontjával megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) és g) pontja, és (5) bekezdés a) és b) pontja szerint módosított szöveg.
+[^227]: A 10. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § c) pontjával megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) és g) pontja, és (5) bekezdés a) és b) pontja szerint módosított szöveg.
