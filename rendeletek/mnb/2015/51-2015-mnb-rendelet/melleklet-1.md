@@ -1,5 +1,5 @@
-## 16. §[^6]
+## 16. §[^5]
 
 1. melléklet az 51/2015. (XII. 9.) MNB rendelethez
 
-[^6]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
