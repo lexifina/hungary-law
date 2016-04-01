@@ -1,6 +1,6 @@
 ## és ezt az 1. számú mellékletben meghatározott szakvélemények vagy szakhatósági állásfoglalások valamelyikével igazolja.
 
-2/A. §[^4] (1) A 2. §-ban meghatározott mozgásában korlátozott személyen kívül igazolványra az a működési engedéllyel rendelkező intézmény jogosult, amely
+2/A. §[^5] (1) A 2. §-ban meghatározott mozgásában korlátozott személyen kívül igazolványra az a működési engedéllyel rendelkező intézmény jogosult, amely
 
 a) a nemzeti köznevelésről szóló törvényben meghatározott óvoda, alap- vagy középfokú oktatási intézmény, ha működési engedélye, alapító okirata, főtevékenysége szerint a 2. § d) pontjában meghatározott személyek oktatását-nevelését végzi; továbbá
 
@@ -28,4 +28,4 @@ db) támogató szolgáltatást nyújtó szociális szolgáltató
 
 (4) Az intézményi igazolvánnyal kapcsolatos eljárás során a 3–12. §-ban meghatározottakat a 12/A. §-ban meghatározott eltéréssel kell alkalmazni.
 
-[^4]: A 2/A. §-t a 204/2013. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2/A. §-t a 204/2013. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
