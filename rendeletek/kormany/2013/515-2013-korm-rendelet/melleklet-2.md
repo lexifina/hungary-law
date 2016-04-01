@@ -76,17 +76,17 @@
 
 ## 38. Ingatlan-nyilvántartási térképi adatbázisból kiadott hiteles térképmásolat iránti kérelem
 
-## 39.[^24] az állandó személyazonosító igazolvány tároló eleme adattartalmának ellenőrzése
+## 39.[^25] az állandó személyazonosító igazolvány tároló eleme adattartalmának ellenőrzése
 
-## 40.[^25] a személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás felvételezés szabályairól szóló kormányrendelet (a továbbiakban: Szig. R.) szerinti állandó személyazonosító igazolványhoz tartozó PIN kód, az elektronikus aláíráshoz tartozó PIN kód létrehozása és cseréje, a visszavonási jelszó cseréje, valamint a blokkolódott PUK kód feloldása
+## 40.[^26] a személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás felvételezés szabályairól szóló kormányrendelet (a továbbiakban: Szig. R.) szerinti állandó személyazonosító igazolványhoz tartozó PIN kód, az elektronikus aláíráshoz tartozó PIN kód létrehozása és cseréje, a visszavonási jelszó cseréje, valamint a blokkolódott PUK kód feloldása
 
-## 41.[^26] a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/C. § (3) bekezdése szerinti e-aláírási funkcióhoz tartozó szolgáltatási szerződés megkötésével, új tanúsítvány igényléssel és tanúsítvány visszavonással kapcsolatos, a Szig. R.-ben előírt feladatok
+## 41.[^27] a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/C. § (3) bekezdése szerinti e-aláírási funkcióhoz tartozó szolgáltatási szerződés megkötésével, új tanúsítvány igényléssel és tanúsítvány visszavonással kapcsolatos, a Szig. R.-ben előírt feladatok
 
-## 42.[^27] Papír alapú hiteles földhasználati lap másolat kiadása iránti kérelem
+## 42.[^28] Papír alapú hiteles földhasználati lap másolat kiadása iránti kérelem
 
 2. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^24]: Az 1. melléklet 39. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
-[^25]: Az 1. melléklet 40. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
-[^26]: Az 1. melléklet 41. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
-[^27]: Az 1. melléklet 42. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^25]: Az 1. melléklet 39. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
+[^26]: Az 1. melléklet 40. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
+[^27]: Az 1. melléklet 41. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
+[^28]: Az 1. melléklet 42. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.

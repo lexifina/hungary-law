@@ -4,4 +4,7 @@
 
 (3) Az ügysegéd a 3–5. és 8. mellékletben felsorolt ügykörök, illetve szolgáltatások közül a (2) bekezdés szerinti tájékoztatásban közzétett ügyintézési, illetve kapcsolódó szolgáltatásokat biztosítja. A szolgáltatás kiterjed a kormányhivatalok irányításáért felelős miniszter által utasításban meghatározott ügykörökre.
 
+(4)[^2] Az ügysegéd a járási hivatal vezetőjének döntése alapján egyes ügykörök intézését előzetes időpontfoglaláshoz kötheti. Az erre vonatkozó információkat az ügyintézéssel kapcsolatos (2) bekezdés szerinti tájékoztatásnak tartalmaznia kell.
+
 [^1]: Az 1/A. §-t a 348/2015. (XI. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^2]: Az 1/A. § (4) bekezdését a 348/2015. (XI. 24.) Korm. rendelet 1. § (2) bekezdése iktatta be.
