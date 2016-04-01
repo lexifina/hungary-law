@@ -18,9 +18,9 @@ d) a határon túli magyar gyülekezetben magyar nyelven szolgálatot teljesít�
 
 (3)[^7] Az (1) bekezdés b) pontja szerinti támogatásra az egyházi jogi személy az általa szervezett fakultatív hitoktatás támogatásához a fakultatív hitoktatásban résztvevő tanulók száma alapján az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény (a továbbiakban: Eftv.) 7. §-a szerint jogosult. A támogatás mértéke az egyházi jogi személy jogszabályban meghatározott tartalmú adatszolgáltatása alapján úgy kerül meghatározásra, hogy a fejezeti kezelésű előirányzat 50%-a csoportszám, 50%-a létszám szerint, arányosan kerül felosztásra azzal, hogy egy csoport minimális létszáma a keretszámok kiszámítása szempontjából nem lehet kevesebb, mint 7 fő.
 
-(4)[^8] Az (1) bekezdés c) pontja szerinti támogatást a 2. mellékletben, az (1) bekezdés d) pontja szerinti támogatást a 3. mellékletben meghatározottak szerint kell felosztani.
+(4)[^8] Az (1) bekezdés c) pontja szerinti támogatást a 2. mellékletben meghatározottak szerint kell felosztani.
 
 [^5]: A 16. § a 24/2014. (II. 6.) Korm. rendelet 1. §-ával megállapított, a 20/2015. (II. 17.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^6]: A 17. § (1) bekezdése a 24/2014. (II. 6.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 17. § (3) bekezdése a 24/2014. (II. 6.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^8]: A 17. § (4) bekezdése a 24/2014. (II. 6.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 17. § (4) bekezdése a 73/2016. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
