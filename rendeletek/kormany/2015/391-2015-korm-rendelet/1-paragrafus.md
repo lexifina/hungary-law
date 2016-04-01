@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1. § ) a 7. § (3) bekezdése alapján 2016. április 1-jén lép hatályba.
+## 1.. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
