@@ -1,9 +1,14 @@
-## 7–8. §[^3]
+## 7–8. §[^5]
 
-9. § (1)[^4]
+9. § (1) A 127/2009. (IX. 29.) FVM rendelet
 
-(2)[^5]
+a) az 1. melléklet szerinti 8/A. számú melléklettel,
 
-[^3]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 9. § (1) bekezdése a 11. § (2) bekezdése alapján 2016. április 1-jén lép hatályba.
-[^5]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+b) a 2. melléklet szerinti 9/A. számú melléklettel
+
+## egészül ki.
+
+(2)[^6]
+
+[^5]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
