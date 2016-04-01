@@ -52,7 +52,7 @@
 
 ## A befogadást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni!
 
-5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^517]
+5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^518]
 
 ÉRTESÍTÉS A SZAKELLÁTÁSBAN ELLÁTOTTAKRÓL – TÁVOZÁS
 
@@ -116,4 +116,4 @@
 
 A távozást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni!
 
-[^517]: Az 5. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a, a 26/2013. (III. 29.) EMMI rendelet 37. § 35. pontja szerint módosított szöveg.
+[^518]: Az 5. számú melléklet a 77/2011. (XII. 30.) NEFMI rendelet 14. §-a, a 26/2013. (III. 29.) EMMI rendelet 37. § 35. pontja szerint módosított szöveg.

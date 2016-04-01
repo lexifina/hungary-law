@@ -6,7 +6,7 @@
 
 ## 2.2 Születési helye, ideje:
 
-## 2.3 Lakóhelye[^521]:
+## 2.3 Lakóhelye[^522]:
 
 ## 2.4 Tartózkodási helye, ott-tartózkodás minősége:
 
@@ -14,13 +14,13 @@
 
 ## 2.6 Állampolgársága, külföldi állampolgár esetén Magyarországon való tartózkodásának jogcíme:
 
-## 2.7 Családi állapota[^522]:
+## 2.7 Családi állapota[^523]:
 
 ## 2.8 Legmagasabb iskolai végzettsége:
 
-## 2.9 Gazdasági aktivitása[^523]:
+## 2.9 Gazdasági aktivitása[^524]:
 
-## 2.10 Gyermekeinek neve, születési helye, ideje[^524]:
+## 2.10 Gyermekeinek neve, születési helye, ideje[^525]:
 
 ## 2.11 Az együttműködési megállapodás megkötésének időpontja:
 
@@ -32,7 +32,7 @@
 
 ## 1. A probléma definíciója:
 
-## 1.1 Elsődleges (hozott) probléma típusa[^525]:
+## 1.1 Elsődleges (hozott) probléma típusa[^526]:
 
 ## – Életvitel
 
@@ -58,7 +58,7 @@
 
 ## – Egyéb, éspedig:
 
-## 2. Cselekvési terv[^526]:
+## 2. Cselekvési terv[^527]:
 
 ## …………………………………………
 
@@ -194,14 +194,14 @@
 
 ## Amennyiben hatósági intézkedésre tesz javaslatot a szolgálat, a betétlapot a külön jogszabály szerinti Gyermekeink védelmében elnevezésű adatlapokkal együtt továbbítja a család- és gyermekjóléti központ felé.
 
-8. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^527]
+8. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^528]
 
 KAPCSOLATTARTÁSI NAPLÓ
 
-[^521]: Az ellátást igénybe vevő állandó bejelentett lakása.
-[^522]: Meg kell jelölni, hogy az ellátást igénybe vevő házastársi/élettársi kapcsolatban él, vagy egyedülálló.
-[^523]: Itt kell megjelölni az ellátást igénybe vevő munkahelyét, illetve inaktív kereső vagy nyugdíjas státuszát.
-[^524]: Amennyiben a gyermek/gyermekek veszélyeztetettsége a szociális segítés során felmerül, az Esetnapló betétlap is töltendő gyermekenként.
-[^525]: A statisztikai adatszolgáltatással megegyező problématípusonként kell regisztrálni. A megfelelő aláhúzandó.
-[^526]: A cselekvési tervet félévente felül kell vizsgálni, és indokolt esetben módosítani kell.
-[^527]: A 8. számú mellékletet a 28/2010. (XII. 30.) NEFMI rendelet 26. (2) bekezdése iktatta be.
+[^522]: Az ellátást igénybe vevő állandó bejelentett lakása.
+[^523]: Meg kell jelölni, hogy az ellátást igénybe vevő házastársi/élettársi kapcsolatban él, vagy egyedülálló.
+[^524]: Itt kell megjelölni az ellátást igénybe vevő munkahelyét, illetve inaktív kereső vagy nyugdíjas státuszát.
+[^525]: Amennyiben a gyermek/gyermekek veszélyeztetettsége a szociális segítés során felmerül, az Esetnapló betétlap is töltendő gyermekenként.
+[^526]: A statisztikai adatszolgáltatással megegyező problématípusonként kell regisztrálni. A megfelelő aláhúzandó.
+[^527]: A cselekvési tervet félévente felül kell vizsgálni, és indokolt esetben módosítani kell.
+[^528]: A 8. számú mellékletet a 28/2010. (XII. 30.) NEFMI rendelet 26. (2) bekezdése iktatta be.
