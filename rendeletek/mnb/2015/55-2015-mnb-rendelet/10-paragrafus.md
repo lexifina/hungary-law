@@ -10,6 +10,4 @@
 
 (5) A biztosító az 1. § (3) és (4) bekezdése szerint módosított TKM értékeket 15 napon belül köteles korrigálni internetes honlapján.
 
-(6)[^3]
-
-[^3]: A 10. § (6) bekezdése az 55/2015. (XII. 22.) MNB rendelet 12. § (2) bekezdése alapján 2016. április 1. napján lép hatályba.
+(6) A biztosító az internetes honlapján a saját termékeire, eszközalapjaira vonatkozó, TKM értékeket tartalmazó tájékoztatás helyén feltünteti, hogy az összes biztosító termékeire vonatkozó információk elérhetők az MNB honlapján is.
