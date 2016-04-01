@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | 2015-06-07 | 2007-273-20-22.39 | 123/2015. (V. 26.) Korm. rendelet |
 | 2015-09-11 | 2007-273-20-22.40 | 254/2015. (IX. 10.) Korm. rendelet |
 | 2015-09-25 | 2007-273-20-22.41 | 254/2015. (IX. 10.) Korm. rendelet |
+| 2016-04-01 | 2007-273-20-22.42 | 100/2011. (VI. 29.) Korm. rendelet |
