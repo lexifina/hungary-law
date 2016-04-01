@@ -8,6 +8,6 @@
 
 (4) Az emberi vérből vagy vérplazmából előállított gyógyszerek forgalomba hozatala iránti kérelemben be kell mutatni azokat a módszereket, amelyek a kórokozó vírusok mennyiségét csökkentik, illetve amelyek azokat teljesen eltávolítják a készítményekből.
 
-(5)[^46] Az emberi vérből vagy vérplazmából készült gyógyszerek gyártóitól az OGYÉI megkövetelheti a készítmények minőségi bizonylatának folyamatos megküldését.
+(5)[^48] Az emberi vérből vagy vérplazmából készült gyógyszerek gyártóitól az OGYÉI megkövetelheti a készítmények minőségi bizonylatának folyamatos megküldését.
 
-[^46]: A 14. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
+[^48]: A 14. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
