@@ -1,4 +1,4 @@
-11/B. §[^58] (1) A (3) bekezdés szerinti esetben, valamint ha a személygépkocsit műszaki állapota miatt a közúti forgalomból véglegesen kivonták vagy a személygépkocsit eltulajdonították, az elidegenítési tilalomra vonatkozó bejegyzést törölni kell a járműnyilvántartásból.
+11/B. §[^60] (1) A (3) bekezdés szerinti esetben, valamint ha a személygépkocsit műszaki állapota miatt a közúti forgalomból véglegesen kivonták vagy a személygépkocsit eltulajdonították, az elidegenítési tilalomra vonatkozó bejegyzést törölni kell a járműnyilvántartásból.
 
 (2) Ha az elidegenítési tilalom ideje lejárt és az (1) bekezdés szerinti törlésre nem került sor, az elidegenítési tilalom megszűnik. Az elidegenítési tilalom megszűnésekor a törzskönyvet a szerzési támogatás jogosultjának, illetve örökösének kérelmére ki kell adni.
 
@@ -6,4 +6,7 @@
 
 (4) Ha a személygépkocsit műszaki állapota miatt a közúti forgalomból véglegesen kivonták vagy a személygépkocsit eltulajdonították, a hivatal az elidegenítési tilalom törlését a szerzési támogatás jogosultjának, illetve örökösének kérelmére rendeli el. A kérelemhez mellékelni kell a törlésre okot adó körülmények igazolására szolgáló okiratok másolatát; ennek hiányában – a forgalmi korlátozásra vonatkozó okirat esetében – a hivatal adatszolgáltatási kérelemmel fordul a közlekedési igazgatási hatósághoz. A hivatal a határozatot közli a közlekedési igazgatási hatósággal és a finanszírozó szervezettel, valamint kezdeményezi az elidegenítési tilalom törlését.
 
-[^58]: A 11/B. §-t a 189/2011. (IX. 19.) Korm. rendelet 6. §-a iktatta be.
+(5)[^61] A hivatal az elidegenítési tilalom törlését abban az esetben is elrendeli, ha a személygépkocsinak a műszaki állapota miatt a közúti forgalomból történő végleges kivonására még nem került sor, de a szerzési támogatás jogosultja, illetve örököse igazolja, hogy rendelkezik regisztrált bontó-hulladékkezelő által kiállított bontási átvételi igazolással, valamint azt, hogy a személygépkocsi közúti forgalomból történő végleges kivonására irányuló kérelmét a közlekedési igazgatási hatósághoz benyújtotta.
+
+[^60]: A 11/B. §-t a 189/2011. (IX. 19.) Korm. rendelet 6. §-a iktatta be.
+[^61]: A 11/B. § (5) bekezdését a 66/2016. (III. 31.) Korm. rendelet 5. §-a iktatta be.

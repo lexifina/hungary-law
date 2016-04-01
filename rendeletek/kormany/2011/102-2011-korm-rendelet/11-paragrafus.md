@@ -6,10 +6,10 @@
 
 (4) Az utalvány a belföldi kereskedelmi forgalomban járművek, illetve gyógyászati segédeszközök értékesítésével foglalkozó, adószámmal rendelkező kereskedőnél, illetve belföldi, adószámmal rendelkező, személygépkocsi szervizelését és karbantartását végző szolgáltatónál (a továbbiakban együtt: kereskedő) használható fel. A kereskedő az utalvány értékét a vételárba, illetve az átalakítás költségébe beszámítja.
 
-(5)[^55] A kereskedő az utalványt a közlekedési kedvezmény összegének kiegyenlítése céljából – legkésőbb az utalvány lejártát követő 15 napon belül – a miniszterhez nyújtja be, és mellékeli az általa kiállított számla egy példányát.
+(5)[^57] A kereskedő az utalványt a közlekedési kedvezmény összegének kiegyenlítése céljából – legkésőbb az utalvány lejártát követő 15 napon belül – a miniszterhez nyújtja be, és mellékeli az általa kiállított számla egy példányát.
 
 (6) A miniszter az utalvány ellenértékét 15 napon belül kiegyenlíti.
 
 (7) A miniszter az utalvány felhasználásáról az utalvány ellenértékének kiegyenlítését követő nyolc napon belül értesíti a hivatalt az (5) bekezdés szerinti, számlán feltüntetett adatok megjelölésével.
 
-[^55]: A 11. § (5) bekezdése a 61/2012. (III. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^57]: A 11. § (5) bekezdése a 61/2012. (III. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
