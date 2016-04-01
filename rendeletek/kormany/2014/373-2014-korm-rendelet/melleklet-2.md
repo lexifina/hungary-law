@@ -1,8 +1,8 @@
-## A földügyi igazgatási feladatokat ellátó járási hivatalok illetékességi területe[^107]
+## A földügyi igazgatási feladatokat ellátó járási hivatalok illetékességi területe[^108]
 
-## 1.[^108] BUDAPEST FŐVÁROS KORMÁNYHIVATALA (székhelye: Budapest)
+## 1.[^109] BUDAPEST FŐVÁROS KORMÁNYHIVATALA (székhelye: Budapest)
 
-## 1.1.[^109] XI. Kerületi Hivatal (székhelye: Budapest, XI. ker.)
+## 1.1.[^110] XI. Kerületi Hivatal (székhelye: Budapest, XI. ker.)
 
 ## Budapest I. kerület
 
@@ -32,7 +32,7 @@
 
 ## Budapest XXIII. kerület
 
-## 1.2.[^110] XIV. Kerületi Hivatal (székhelye: Budapest, XIV. ker.)
+## 1.2.[^111] XIV. Kerületi Hivatal (székhelye: Budapest, XIV. ker.)
 
 ## Budapest IV. kerület
 
@@ -52,9 +52,9 @@
 
 ## Budapest XVII. kerület
 
-## 2.[^111] BARANYA MEGYEI KORMÁNYHIVATAL (székhelye: Pécs)
+## 2.[^112] BARANYA MEGYEI KORMÁNYHIVATAL (székhelye: Pécs)
 
-## 2.1.[^112] Komlói Járási Hivatal (székhelye: Komló)
+## 2.1.[^113] Komlói Járási Hivatal (székhelye: Komló)
 
 ## Ág
 
@@ -180,7 +180,7 @@
 
 ## Zengővárkony
 
-## 2.2.[^113] Mohácsi Járási Hivatal (székhelye: Mohács)
+## 2.2.[^114] Mohácsi Járási Hivatal (székhelye: Mohács)
 
 ## Babarc
 
@@ -266,7 +266,7 @@
 
 ## Versend
 
-## 2.3.[^114] Pécsi Járási Hivatal (székhelye: Pécs)
+## 2.3.[^115] Pécsi Járási Hivatal (székhelye: Pécs)
 
 ## Abaliget
 
@@ -348,7 +348,7 @@
 
 ## Szőkéd
 
-## 2.4.[^115] Siklósi Járási Hivatal (székhelye: Siklós)
+## 2.4.[^116] Siklósi Járási Hivatal (székhelye: Siklós)
 
 ## Adorjás
 
@@ -532,7 +532,7 @@
 
 ## Zaláta
 
-## 2.5.[^116] Szigetvári Járási Hivatal (székhelye: Szigetvár)
+## 2.5.[^117] Szigetvári Járási Hivatal (székhelye: Szigetvár)
 
 ## Almamellék
 
@@ -666,9 +666,9 @@
 
 ## Zók
 
-## 3.[^117] BÁCS-KISKUN MEGYEI KORMÁNYHIVATAL (székhelye: Kecskemét)
+## 3.[^118] BÁCS-KISKUN MEGYEI KORMÁNYHIVATAL (székhelye: Kecskemét)
 
-## 3.1.[^118] Bajai Járási Hivatal (székhelye: Baja)
+## 3.1.[^119] Bajai Járási Hivatal (székhelye: Baja)
 
 ## Baja
 
@@ -704,7 +704,7 @@
 
 ## Vaskút
 
-## 3.2.[^119] Bácsalmási Járási Hivatal (székhelye: Bácsalmás)
+## 3.2.[^120] Bácsalmási Járási Hivatal (székhelye: Bácsalmás)
 
 ## Bácsalmás
 
@@ -736,7 +736,7 @@
 
 ## Tataháza
 
-## 3.3.[^120] Kalocsai Járási Hivatal (székhelye: Kalocsa)
+## 3.3.[^121] Kalocsai Járási Hivatal (székhelye: Kalocsa)
 
 ## Bátya
 
@@ -780,7 +780,7 @@
 
 ## Uszód
 
-## 3.4.[^121] Kecskeméti Járási Hivatal (székhelye: Kecskemét)
+## 3.4.[^122] Kecskeméti Járási Hivatal (székhelye: Kecskemét)
 
 ## Ágasegyháza
 
@@ -824,7 +824,7 @@
 
 ## Városföld
 
-## 3.5.[^122] Kiskőrösi Járási Hivatal (székhelye: Kiskőrös)
+## 3.5.[^123] Kiskőrösi Járási Hivatal (székhelye: Kiskőrös)
 
 ## Akasztó
 
@@ -856,7 +856,7 @@
 
 ## Tázlár
 
-## 3.6.[^123] Kiskunfélegyházi Járási Hivatal (székhelye: Kiskunfélegyháza)
+## 3.6.[^124] Kiskunfélegyházi Járási Hivatal (székhelye: Kiskunfélegyháza)
 
 ## Bugac
 
@@ -870,7 +870,7 @@
 
 ## Petőfiszállás
 
-## 3.7.[^124] Kiskunhalasi Járási Hivatal (székhelye: Kiskunhalas)
+## 3.7.[^125] Kiskunhalasi Járási Hivatal (székhelye: Kiskunhalas)
 
 ## Balotaszállás
 
@@ -902,7 +902,7 @@
 
 ## Zsana
 
-## 3.8.[^125] Kunszentmiklósi Járási Hivatal (székhelye: Kunszentmiklós)
+## 3.8.[^126] Kunszentmiklósi Járási Hivatal (székhelye: Kunszentmiklós)
 
 ## Apostag
 
@@ -922,9 +922,9 @@
 
 ## Tass
 
-## 4.[^126] BÉKÉS MEGYEI KORMÁNYHIVATAL (székhelye: Békéscsaba)
+## 4.[^127] BÉKÉS MEGYEI KORMÁNYHIVATAL (székhelye: Békéscsaba)
 
-## 4.1.[^127] Békéscsabai Járási Hivatal (székhelye: Békéscsaba)
+## 4.1.[^128] Békéscsabai Járási Hivatal (székhelye: Békéscsaba)
 
 ## Békéscsaba
 
@@ -944,7 +944,7 @@
 
 ## Újkígyós
 
-## 4.2.[^128] Gyulai Járási Hivatal (székhelye: Gyula)
+## 4.2.[^129] Gyulai Járási Hivatal (székhelye: Gyula)
 
 ## Elek
 
@@ -954,7 +954,7 @@
 
 ## Lőkösháza
 
-## 4.3.[^129] Békési Járási Hivatal (székhelye: Békés)
+## 4.3.[^130] Békési Járási Hivatal (székhelye: Békés)
 
 ## Békés
 
@@ -970,7 +970,7 @@
 
 ## Tarhos
 
-## 4.4.[^130] Orosházi Járási Hivatal (székhelye: Orosháza)
+## 4.4.[^131] Orosházi Járási Hivatal (székhelye: Orosháza)
 
 ## Békéssámson
 
@@ -988,7 +988,7 @@
 
 ## Tótkomlós
 
-## 4.5.[^131] Mezőkovácsházai Járási Hivatal (székhelye: Mezőkovácsháza)
+## 4.5.[^132] Mezőkovácsházai Járási Hivatal (székhelye: Mezőkovácsháza)
 
 ## Almáskamarás
 
@@ -1026,7 +1026,7 @@
 
 ## Végegyháza
 
-## 4.6.[^132] Szarvasi Járási Hivatal (székhelye: Szarvas)
+## 4.6.[^133] Szarvasi Járási Hivatal (székhelye: Szarvas)
 
 ## Békésszentandrás
 
@@ -1040,7 +1040,7 @@
 
 ## Szarvas
 
-## 4.7.[^133] Gyomaendrődi Járási Hivatal (székhelye: Gyomaendrőd)
+## 4.7.[^134] Gyomaendrődi Járási Hivatal (székhelye: Gyomaendrőd)
 
 ## Csárdaszállás
 
@@ -1052,7 +1052,7 @@
 
 ## Hunya
 
-## 4.8.[^134] Szeghalmi Járási Hivatal (székhelye: Szeghalom)
+## 4.8.[^135] Szeghalmi Járási Hivatal (székhelye: Szeghalom)
 
 ## Bucsa
 
@@ -1068,7 +1068,7 @@
 
 ## Vésztő
 
-## 4.9.[^135] Sarkadi Járási Hivatal (székhelye: Sarkad)
+## 4.9.[^136] Sarkadi Járási Hivatal (székhelye: Sarkad)
 
 ## Biharugra
 
@@ -1092,9 +1092,9 @@
 
 ## Zsadány
 
-## 5.[^136] BORSOD-ABAÚJ-ZEMPLÉN MEGYEI KORMÁNYHIVATAL (székhelye: Miskolc)
+## 5.[^137] BORSOD-ABAÚJ-ZEMPLÉN MEGYEI KORMÁNYHIVATAL (székhelye: Miskolc)
 
-## 5.1.[^137] Edelényi Járási Hivatal (székhelye: Edelény)
+## 5.1.[^138] Edelényi Járási Hivatal (székhelye: Edelény)
 
 ## Abod
 
@@ -1230,7 +1230,7 @@
 
 ## Ziliz
 
-## 5.2.[^138] Encsi Járási Hivatal (székhelye: Encs)
+## 5.2.[^139] Encsi Járási Hivatal (székhelye: Encs)
 
 ## Abaújalpár
 
@@ -1398,7 +1398,7 @@
 
 ## Zsujta
 
-## 5.3.[^139] Mezőkövesdi Járási Hivatal (székhelye: Mezőkövesd)
+## 5.3.[^140] Mezőkövesdi Járási Hivatal (székhelye: Mezőkövesd)
 
 ## Bogács
 
@@ -1446,7 +1446,7 @@
 
 ## Vatta
 
-## 5.4.[^140] Miskolci Járási Hivatal (székhelye: Miskolc)
+## 5.4.[^141] Miskolci Járási Hivatal (székhelye: Miskolc)
 
 ## Alsózsolca
 
@@ -1526,7 +1526,7 @@
 
 ## Varbó
 
-## 5.5.[^141] Ózdi Járási Hivatal (székhelye: Ózd)
+## 5.5.[^142] Ózdi Járási Hivatal (székhelye: Ózd)
 
 ## Arló
 
@@ -1614,7 +1614,7 @@
 
 ## Zubogy
 
-## 5.6.[^142] Sátoraljaújhelyi Járási Hivatal (székhelye: Sátoraljaújhely)
+## 5.6.[^143] Sátoraljaújhelyi Járási Hivatal (székhelye: Sátoraljaújhely)
 
 ## Alsóberecki
 
@@ -1720,7 +1720,7 @@
 
 ## Zemplénagárd
 
-## 5.7.[^143] Szerencsi Járási Hivatal (székhelye: Szerencs)
+## 5.7.[^144] Szerencsi Járási Hivatal (székhelye: Szerencs)
 
 ## Alsódobsza
 
@@ -1776,7 +1776,7 @@
 
 ## Tokaj
 
-## 5.8.[^144] Tiszaújvárosi Járási Hivatal (székhelye: Tiszaújváros)
+## 5.8.[^145] Tiszaújvárosi Járási Hivatal (székhelye: Tiszaújváros)
 
 ## Ároktő
 
@@ -1826,9 +1826,9 @@
 
 ## Tiszaújváros
 
-## 6.[^145] CSONGRÁD MEGYEI KORMÁNYHIVATAL (székhelye: Szeged)
+## 6.[^146] CSONGRÁD MEGYEI KORMÁNYHIVATAL (székhelye: Szeged)
 
-## 6.1.[^146] Hódmezővásárhelyi Járási Hivatal (székhelye: Hódmezővásárhely)
+## 6.1.[^147] Hódmezővásárhelyi Járási Hivatal (székhelye: Hódmezővásárhely)
 
 ## Hódmezővásárhely
 
@@ -1838,7 +1838,7 @@
 
 ## Székkutas
 
-## 6.2.[^147] Makói Járási Hivatal (székhelye: Makó)
+## 6.2.[^148] Makói Járási Hivatal (székhelye: Makó)
 
 ## Ambrózfalva
 
@@ -1870,7 +1870,7 @@
 
 ## Pitvaros
 
-## 6.3.[^148] Szegedi Járási Hivatal (székhelye: Szeged)
+## 6.3.[^149] Szegedi Járási Hivatal (székhelye: Szeged)
 
 ## Algyő
 
@@ -1910,7 +1910,7 @@
 
 ## Újszentiván
 
-## 6.4.[^149] Mórahalmi Járási Hivatal (székhelye: Mórahalom)
+## 6.4.[^150] Mórahalmi Járási Hivatal (székhelye: Mórahalom)
 
 ## Ásotthalom
 
@@ -1932,7 +1932,7 @@
 
 ## Zsombó
 
-## 6.5.[^150] Szentesi Járási Hivatal (székhelye: Szentes)
+## 6.5.[^151] Szentesi Járási Hivatal (székhelye: Szentes)
 
 ## Árpádhalom
 
@@ -1950,7 +1950,7 @@
 
 ## Szentes
 
-## 6.6.[^151] Csongrádi Járási Hivatal (székhelye: Csongrád)
+## 6.6.[^152] Csongrádi Járási Hivatal (székhelye: Csongrád)
 
 ## Csanytelek
 
@@ -1960,9 +1960,9 @@
 
 ## Tömörkény
 
-## 7.[^152] FEJÉR MEGYEI KORMÁNYHIVATAL (székhelye: Székesfehérvár)
+## 7.[^153] FEJÉR MEGYEI KORMÁNYHIVATAL (székhelye: Székesfehérvár)
 
-## 7.1.[^153] Bicskei Járási Hivatal (székhelye: Bicske)
+## 7.1.[^154] Bicskei Járási Hivatal (székhelye: Bicske)
 
 ## Alcsútdoboz
 
@@ -1994,7 +1994,7 @@
 
 ## Vértesboglár
 
-## 7.2.[^154] Dunaújvárosi Járási Hivatal (székhelye: Dunaújváros)
+## 7.2.[^155] Dunaújvárosi Járási Hivatal (székhelye: Dunaújváros)
 
 ## Adony
 
@@ -2028,7 +2028,7 @@
 
 ## Rácalmás
 
-## 7.3.[^155] Móri Járási Hivatal (székhelye: Mór)
+## 7.3.[^156] Móri Járási Hivatal (székhelye: Mór)
 
 ## Bakonycsernye
 
@@ -2056,7 +2056,7 @@
 
 ## Söréd
 
-## 7.4.[^156] Sárbogárdi Járási Hivatal (székhelye: Sárbogárd)
+## 7.4.[^157] Sárbogárdi Járási Hivatal (székhelye: Sárbogárd)
 
 ## Alap
 
@@ -2100,7 +2100,7 @@
 
 ## Vajta
 
-## 7.5.[^157] Székesfehérvári Járási Hivatal (székhelye: Székesfehérvár)
+## 7.5.[^158] Székesfehérvári Járási Hivatal (székhelye: Székesfehérvár)
 
 ## Aba
 
@@ -2188,9 +2188,9 @@
 
 ## Zichyújfalu
 
-## 8.[^158] GYŐR-MOSON-SOPRON MEGYEI KORMÁNYHIVATAL (székhelye: Győr)
+## 8.[^159] GYŐR-MOSON-SOPRON MEGYEI KORMÁNYHIVATAL (székhelye: Győr)
 
-## 8.1.[^159] Csornai Járási Hivatal (székhelye: Csorna)
+## 8.1.[^160] Csornai Járási Hivatal (székhelye: Csorna)
 
 ## Acsalag
 
@@ -2258,7 +2258,7 @@
 
 ## Zsebeháza
 
-## 8.2.[^160] Győri Járási Hivatal (székhelye: Győr)
+## 8.2.[^161] Győri Járási Hivatal (székhelye: Győr)
 
 ## Abda
 
@@ -2364,7 +2364,7 @@
 
 ## Vének
 
-## 8.3.[^161] Győri Járási Hivatal Téti Földügyi Kirendeltsége (székhelye: Tét)
+## 8.3.[^162] Győri Járási Hivatal Téti Földügyi Kirendeltsége (székhelye: Tét)
 
 ## Árpás
 
@@ -2394,7 +2394,7 @@
 
 ## Tét
 
-## 8.4.[^162] Kapuvári Járási Hivatal (székhelye: Kapuvár)
+## 8.4.[^163] Kapuvári Járási Hivatal (székhelye: Kapuvár)
 
 ## Agyagosszergény
 
@@ -2436,7 +2436,7 @@
 
 ## Vitnyéd
 
-## 8.5.[^163] Mosonmagyaróvári Járási Hivatal (székhelye: Mosonmagyaróvár)
+## 8.5.[^164] Mosonmagyaróvári Járási Hivatal (székhelye: Mosonmagyaróvár)
 
 ## Ásványráró
 
@@ -2490,7 +2490,7 @@
 
 ## Várbalog
 
-## 8.6.[^164] Soproni Járási Hivatal (székhelye: Sopron)
+## 8.6.[^165] Soproni Járási Hivatal (székhelye: Sopron)
 
 ## Ágfalva
 
@@ -2568,9 +2568,9 @@
 
 ## Zsira
 
-## 9.[^165] HAJDÚ-BIHAR MEGYEI KORMÁNYHIVATAL (székhelye: Debrecen)
+## 9.[^166] HAJDÚ-BIHAR MEGYEI KORMÁNYHIVATAL (székhelye: Debrecen)
 
-## 9.1.[^166] Berettyóújfalui Járási Hivatal (székhelye: Berettyóújfalu)
+## 9.1.[^167] Berettyóújfalui Járási Hivatal (székhelye: Berettyóújfalu)
 
 ## Ártánd
 
@@ -2622,7 +2622,7 @@
 
 ## Zsáka
 
-## 9.2.[^167] Debreceni Járási Hivatal (székhelye: Debrecen)
+## 9.2.[^168] Debreceni Járási Hivatal (székhelye: Debrecen)
 
 ## Álmosd
 
@@ -2688,7 +2688,7 @@
 
 ## Vámospércs
 
-## 9.3.[^168] Hajdúböszörményi Járási Hivatal (székhelye: Hajdúböszörmény)
+## 9.3.[^169] Hajdúböszörményi Járási Hivatal (székhelye: Hajdúböszörmény)
 
 ## Folyás
 
@@ -2706,7 +2706,7 @@
 
 ## Újtikos
 
-## 9.4.[^169] Hajdúszoboszlói Járási Hivatal (székhelye: Hajdúszoboszló)
+## 9.4.[^170] Hajdúszoboszlói Járási Hivatal (székhelye: Hajdúszoboszló)
 
 ## Ebes
 
@@ -2718,7 +2718,7 @@
 
 ## Nagyhegyes
 
-## 9.5.[^170] Püspökladányi Járási Hivatal (székhelye: Püspökladány)
+## 9.5.[^171] Püspökladányi Járási Hivatal (székhelye: Püspökladány)
 
 ## Báránd
 
@@ -2744,9 +2744,9 @@
 
 ## Tetétlen
 
-## 10.[^171] HEVES MEGYEI KORMÁNYHIVATAL (székhelye: Eger)
+## 10.[^172] HEVES MEGYEI KORMÁNYHIVATAL (székhelye: Eger)
 
-## 10.1.[^172] Egri Járási Hivatal (székhelye: Eger)
+## 10.1.[^173] Egri Járási Hivatal (székhelye: Eger)
 
 ## Andornaktálya
 
@@ -2848,7 +2848,7 @@
 
 ## Verpelét
 
-## 10.2.[^173] Füzesabonyi Járási Hivatal (székhelye: Füzesabony)
+## 10.2.[^174] Füzesabonyi Járási Hivatal (székhelye: Füzesabony)
 
 ## Aldebrő
 
@@ -2882,7 +2882,7 @@
 
 ## Újlőrincfalva
 
-## 10.3.[^174] Gyöngyösi Járási Hivatal (székhelye: Gyöngyös)
+## 10.3.[^175] Gyöngyösi Járási Hivatal (székhelye: Gyöngyös)
 
 ## Abasár
 
@@ -2934,7 +2934,7 @@
 
 ## Visznek
 
-## 10.4.[^175] Hatvani Járási Hivatal (székhelye: Hatvan)
+## 10.4.[^176] Hatvani Járási Hivatal (székhelye: Hatvan)
 
 ## Apc
 
@@ -2962,7 +2962,7 @@
 
 ## Zagyvaszántó
 
-## 10.5.[^176] Hevesi Járási Hivatal (székhelye: Heves)
+## 10.5.[^177] Hevesi Járási Hivatal (székhelye: Heves)
 
 ## Átány
 
@@ -2998,9 +2998,9 @@
 
 ## Zaránk
 
-## 11.[^177] JÁSZ-NAGYKUN-SZOLNOK MEGYEI KORMÁNYHIVATAL (székhelye: Szolnok)
+## 11.[^178] JÁSZ-NAGYKUN-SZOLNOK MEGYEI KORMÁNYHIVATAL (székhelye: Szolnok)
 
-## 11.1.[^178] Jászberényi Járási Hivatal (székhelye: Jászberény)
+## 11.1.[^179] Jászberényi Járási Hivatal (székhelye: Jászberény)
 
 ## Alattyán
 
@@ -3038,7 +3038,7 @@
 
 ## Pusztamonostor
 
-## 11.2.[^179] Kunszentmártoni Járási Hivatal (székhelye: Kunszentmárton)
+## 11.2.[^180] Kunszentmártoni Járási Hivatal (székhelye: Kunszentmárton)
 
 ## Cibakháza
 
@@ -3062,7 +3062,7 @@
 
 ## Tiszasas
 
-## 11.3.[^180] Szolnoki Járási Hivatal (székhelye: Szolnok)
+## 11.3.[^181] Szolnoki Járási Hivatal (székhelye: Szolnok)
 
 ## Besenyszög
 
@@ -3100,7 +3100,7 @@
 
 ## Zagyvarékas
 
-## 11.4.[^181] Szolnoki Járási Hivatal Mezőtúri Földügyi Kirendeltsége (székhelye: Mezőtúr)
+## 11.4.[^182] Szolnoki Járási Hivatal Mezőtúri Földügyi Kirendeltsége (székhelye: Mezőtúr)
 
 ## Kétpó
 
@@ -3112,7 +3112,7 @@
 
 ## Túrkeve
 
-## 11.5.[^182] Tiszafüredi Járási Hivatal (székhelye: Tiszafüred)
+## 11.5.[^183] Tiszafüredi Járási Hivatal (székhelye: Tiszafüred)
 
 ## Nagyiván
 
@@ -3128,7 +3128,7 @@
 
 ## Tiszaszőlős
 
-## 11.6.[^183] Törökszentmiklósi Járási Hivatal (székhelye: Törökszentmiklós)
+## 11.6.[^184] Törökszentmiklósi Járási Hivatal (székhelye: Törökszentmiklós)
 
 ## Abádszalók
 
@@ -3158,7 +3158,7 @@
 
 ## Törökszentmiklós
 
-## 11.7.[^184] Karcagi Járási Hivatal (székhelye: Karcag)
+## 11.7.[^185] Karcagi Járási Hivatal (székhelye: Karcag)
 
 ## Berekfürdő
 
@@ -3170,9 +3170,9 @@
 
 ## Kunmadaras
 
-## 12.[^185] KOMÁROM-ESZTERGOM MEGYEI KORMÁNYHIVATAL (székhelye: Esztergom)
+## 12.[^186] KOMÁROM-ESZTERGOM MEGYEI KORMÁNYHIVATAL (székhelye: Esztergom)
 
-## 12.1.[^186] Esztergomi Járási Hivatal (székhelye: Esztergom)
+## 12.1.[^187] Esztergomi Járási Hivatal (székhelye: Esztergom)
 
 ## Annavölgy
 
@@ -3222,7 +3222,7 @@
 
 ## Úny
 
-## 12.2.[^187] Komáromi Járási Hivatal (székhelye: Komárom)
+## 12.2.[^188] Komáromi Járási Hivatal (székhelye: Komárom)
 
 ## Aka
 
@@ -3276,7 +3276,7 @@
 
 ## Vérteskethely
 
-## 12.3.[^188] Tatai Járási Hivatal (székhelye: Tata)
+## 12.3.[^189] Tatai Járási Hivatal (székhelye: Tata)
 
 ## Baj
 
@@ -3298,7 +3298,7 @@
 
 ## Vértestolna
 
-## 12.4.[^189] Tatabányai Járási Hivatal (székhelye: Tatabánya)
+## 12.4.[^190] Tatabányai Járási Hivatal (székhelye: Tatabánya)
 
 ## Bokod
 
@@ -3332,9 +3332,9 @@
 
 ## Vértesszőlős
 
-## 13.[^190] NÓGRÁD MEGYEI KORMÁNYHIVATAL (székhelye: Salgótarján)
+## 13.[^191] NÓGRÁD MEGYEI KORMÁNYHIVATAL (székhelye: Salgótarján)
 
-## 13.1.[^191] Balassagyarmati Járási Hivatal (székhelye: Balassagyarmat)
+## 13.1.[^192] Balassagyarmati Járási Hivatal (székhelye: Balassagyarmat)
 
 ## Balassagyarmat
 
@@ -3422,7 +3422,7 @@
 
 ## Varsány
 
-## 13.2.[^192] Pásztói Járási Hivatal (székhelye: Pásztó)
+## 13.2.[^193] Pásztói Járási Hivatal (székhelye: Pásztó)
 
 ## Alsótold
 
@@ -3476,7 +3476,7 @@
 
 ## Vanyarc
 
-## 13.3.[^193] Rétsági Járási Hivatal (székhelye: Rétság)
+## 13.3.[^194] Rétsági Járási Hivatal (székhelye: Rétság)
 
 ## Alsópetény
 
@@ -3528,7 +3528,7 @@
 
 ## Tolmács
 
-## 13.4.[^194] Salgótarjáni Járási Hivatal (székhelye: Salgótarján)
+## 13.4.[^195] Salgótarjáni Járási Hivatal (székhelye: Salgótarján)
 
 ## Bárna
 
@@ -3604,9 +3604,9 @@
 
 ## Zabar
 
-## 14.[^195] PEST MEGYEI KORMÁNYHIVATAL (székhelye: Budapest)
+## 14.[^196] PEST MEGYEI KORMÁNYHIVATAL (székhelye: Budapest)
 
-## 14.1.[^196] Budakeszi Járási Hivatal (székhelye: Budapest)
+## 14.1.[^197] Budakeszi Járási Hivatal (székhelye: Budapest)
 
 ## Biatorbágy
 
@@ -3650,7 +3650,7 @@
 
 ## Zsámbék
 
-## 14.2.[^197] Érdi Járási Hivatal (székhelye: Érd)
+## 14.2.[^198] Érdi Járási Hivatal (székhelye: Érd)
 
 ## Diósd
 
@@ -3666,7 +3666,7 @@
 
 ## Törökbálint
 
-## 14.3.[^198] Ceglédi Járási Hivatal (székhelye: Cegléd)
+## 14.3.[^199] Ceglédi Járási Hivatal (székhelye: Cegléd)
 
 ## Abony
 
@@ -3692,7 +3692,7 @@
 
 ## Újszilvás
 
-## 14.4.[^199] Nagykőrösi Járási Hivatal (székhelye: Nagykőrös)
+## 14.4.[^200] Nagykőrösi Járási Hivatal (székhelye: Nagykőrös)
 
 ## Kocsér
 
@@ -3700,7 +3700,7 @@
 
 ## Nyársapát
 
-## 14.5.[^200] Dabasi Járási Hivatal (székhelye: Dabas)
+## 14.5.[^201] Dabasi Járási Hivatal (székhelye: Dabas)
 
 ## Alsónémedi
 
@@ -3732,7 +3732,7 @@
 
 ## Újlengyel
 
-## 14.6.[^201] Gödöllői Járási Hivatal (székhelye: Gödöllő)
+## 14.6.[^202] Gödöllői Járási Hivatal (székhelye: Gödöllő)
 
 ## Aszód
 
@@ -3786,7 +3786,7 @@
 
 ## Zsámbok
 
-## 14.7.[^202] Monori Járási Hivatal (székhelye: Monor)
+## 14.7.[^203] Monori Járási Hivatal (székhelye: Monor)
 
 ## Bénye
 
@@ -3820,7 +3820,7 @@
 
 ## Vecsés
 
-## 14.8.[^203] Nagykátai Járási Hivatal (székhelye: Nagykáta)
+## 14.8.[^204] Nagykátai Járási Hivatal (székhelye: Nagykáta)
 
 ## Farmos
 
@@ -3852,7 +3852,7 @@
 
 ## Úri
 
-## 14.9.[^204] Ráckevei Járási Hivata (székhelye: Ráckeve)
+## 14.9.[^205] Ráckevei Járási Hivata (székhelye: Ráckeve)
 
 ## Apaj
 
@@ -3894,7 +3894,7 @@
 
 ## Tököl
 
-## 14.10.[^205] Szentendrei Járási Hivatal (székhelye: Szentendre)
+## 14.10.[^206] Szentendrei Járási Hivatal (székhelye: Szentendre)
 
 ## Budakalász
 
@@ -3922,7 +3922,7 @@
 
 ## Visegrád
 
-## 14.11.[^206] Váci Járási Hivatal (székhelye: Vác)
+## 14.11.[^207] Váci Járási Hivatal (székhelye: Vác)
 
 ## Acsa
 
@@ -3994,7 +3994,7 @@
 
 ## Zebegény
 
-## 14.12.[^207] Dunakeszi Járási Hivatal (székhelye: Dunakeszi)
+## 14.12.[^208] Dunakeszi Járási Hivatal (székhelye: Dunakeszi)
 
 ## Csomád
 
@@ -4004,9 +4004,9 @@
 
 ## Göd
 
-## 15.[^208] SOMOGY MEGYEI KORMÁNYHIVATAL (székhelye: Kaposvár)
+## 15.[^209] SOMOGY MEGYEI KORMÁNYHIVATAL (székhelye: Kaposvár)
 
-## 15.1.[^209] Fonyódi Járási Hivatal (székhelye: Balatonboglár)
+## 15.1.[^210] Fonyódi Járási Hivatal (székhelye: Balatonboglár)
 
 ## Balatonboglár
 
@@ -4050,7 +4050,7 @@
 
 ## Visz
 
-## 15.2.[^210] Barcsi Járási Hivatal (székhelye: Barcs)
+## 15.2.[^211] Barcsi Járási Hivatal (székhelye: Barcs)
 
 ## Babócsa
 
@@ -4104,7 +4104,7 @@
 
 ## Vízvár
 
-## 15.3.[^211] Kaposvári Járási Hivatal (székhelye: Kaposvár)
+## 15.3.[^212] Kaposvári Járási Hivatal (székhelye: Kaposvár)
 
 ## Alsóbogát
 
@@ -4262,7 +4262,7 @@
 
 ## Zselicszentpál
 
-## 15.4.[^212] Marcali Járási Hivatal (székhelye: Marcali)
+## 15.4.[^213] Marcali Járási Hivatal (székhelye: Marcali)
 
 ## Balatonberény
 
@@ -4338,7 +4338,7 @@
 
 ## Vörs
 
-## 15.5.[^213] Nagyatádi Járási Hivatal (székhelye: Nagyatád)
+## 15.5.[^214] Nagyatádi Járási Hivatal (székhelye: Nagyatád)
 
 ## Bakháza
 
@@ -4412,7 +4412,7 @@
 
 ## Zákányfalu
 
-## 15.6.[^214] Siófoki Járási Hivatal (székhelye: Siófok)
+## 15.6.[^215] Siófoki Járási Hivatal (székhelye: Siófok)
 
 ## Andocs
 
@@ -4510,9 +4510,9 @@
 
 ## Zics
 
-## 16.[^215] SZABOLCS-SZATMÁR-BEREG MEGYEI KORMÁNYHIVATAL (székhelye: Nyíregyháza)
+## 16.[^216] SZABOLCS-SZATMÁR-BEREG MEGYEI KORMÁNYHIVATAL (székhelye: Nyíregyháza)
 
-## 16.1.[^216] Fehérgyarmati Járási Hivatal (székhelye: Fehérgyarmat)
+## 16.1.[^217] Fehérgyarmati Járási Hivatal (székhelye: Fehérgyarmat)
 
 ## Botpalád
 
@@ -4614,7 +4614,7 @@
 
 ## Zsarolyán
 
-## 16.2.[^217] Kisvárdai Járási Hivatal (székhelye: Kisvárda)
+## 16.2.[^218] Kisvárdai Járási Hivatal (székhelye: Kisvárda)
 
 ## Ajak
 
@@ -4684,7 +4684,7 @@
 
 ## Zsurk
 
-## 16.3.[^218] Mátészalkai Járási Hivatal (székhelye: Mátészalka)
+## 16.3.[^219] Mátészalkai Járási Hivatal (székhelye: Mátészalka)
 
 ## Csenger
 
@@ -4760,7 +4760,7 @@
 
 ## Vállaj
 
-## 16.4.[^219] Nyírbátori Járási Hivatal (székhelye: Nyírbátor)
+## 16.4.[^220] Nyírbátori Járási Hivatal (székhelye: Nyírbátor)
 
 ## Bátorliget
 
@@ -4802,7 +4802,7 @@
 
 ## Terem
 
-## 16.5.[^220] Nyíregyházi Járási Hivatal (székhelye: Nyíregyháza)
+## 16.5.[^221] Nyíregyházi Járási Hivatal (székhelye: Nyíregyháza)
 
 ## Apagy
 
@@ -4924,7 +4924,7 @@
 
 ## Vasmegyer
 
-## 16.6.[^221] Vásárosnaményi Járási Hivatal (székhelye: Vásárosnamény)
+## 16.6.[^222] Vásárosnaményi Járási Hivatal (székhelye: Vásárosnamény)
 
 ## Aranyosapáti
 
@@ -4982,9 +4982,9 @@
 
 ## Vásárosnamény
 
-## 17.[^222] TOLNA MEGYEI KORMÁNYHIVATAL (székhelye: Szekszárd)
+## 17.[^223] TOLNA MEGYEI KORMÁNYHIVATAL (székhelye: Szekszárd)
 
-## 17.1.[^223] Bonyhádi Járási Hivatal (székhelye: Bonyhád)
+## 17.1.[^224] Bonyhádi Járási Hivatal (székhelye: Bonyhád)
 
 ## Aparhant
 
@@ -5036,7 +5036,7 @@
 
 ## Zomba
 
-## 17.2.[^224] Dombóvári Járási Hivatal (székhelye: Dombóvár)
+## 17.2.[^225] Dombóvári Járási Hivatal (székhelye: Dombóvár)
 
 ## Attala
 
@@ -5070,7 +5070,7 @@
 
 ## Várong
 
-## 17.3.[^225] Paksi Járási Hivatal (székhelye: Paks)
+## 17.3.[^226] Paksi Járási Hivatal (székhelye: Paks)
 
 ## Bikács
 
@@ -5102,7 +5102,7 @@
 
 ## Tengelic
 
-## 17.4.[^226] Szekszárdi Járási Hivatal (székhelye: Szekszárd)
+## 17.4.[^227] Szekszárdi Járási Hivatal (székhelye: Szekszárd)
 
 ## Alsónána
 
@@ -5146,7 +5146,7 @@
 
 ## Várdomb
 
-## 17.5.[^227] Tamási Járási Hivatal (székhelye: Tamási)
+## 17.5.[^228] Tamási Járási Hivatal (székhelye: Tamási)
 
 ## Belecska
 
@@ -5212,9 +5212,9 @@
 
 ## Varsád
 
-## 18.[^228] VAS MEGYEI KORMÁNYHIVATAL (székhelye: Szombathely)
+## 18.[^229] VAS MEGYEI KORMÁNYHIVATAL (székhelye: Szombathely)
 
-## 18.1.[^229] Celldömölki Járási Hivatal (székhelye: Celldömölk)
+## 18.1.[^230] Celldömölki Járási Hivatal (székhelye: Celldömölk)
 
 ## Boba
 
@@ -5272,7 +5272,7 @@
 
 ## Vönöck
 
-## 18.2.[^230] Körmendi Járási Hivatal (székhelye: Körmend)
+## 18.2.[^231] Körmendi Járási Hivatal (székhelye: Körmend)
 
 ## Alsószölnök
 
@@ -5398,7 +5398,7 @@
 
 ## Viszák
 
-## 18.3.[^231] Sárvári Járási Hivatal (székhelye: Sárvár)
+## 18.3.[^232] Sárvári Járási Hivatal (székhelye: Sárvár)
 
 ## Bejcgyertyános
 
@@ -5484,7 +5484,7 @@
 
 ## Zsédeny
 
-## 18.4.[^232] Szombathelyi Járási Hivatal (székhelye: Szombathely)
+## 18.4.[^233] Szombathelyi Járási Hivatal (székhelye: Szombathely)
 
 ## Acsád
 
@@ -5608,7 +5608,7 @@
 
 ## Zsennye
 
-## 18.5.[^233] Vasvári Járási Hivatal (székhelye: Vasvár)
+## 18.5.[^234] Vasvári Járási Hivatal (székhelye: Vasvár)
 
 ## Alsóújlak
 
@@ -5656,9 +5656,9 @@
 
 ## Vasvár
 
-## 19.[^234] VESZPRÉM MEGYEI KORMÁNYHIVATAL (székhelye: Veszprém)
+## 19.[^235] VESZPRÉM MEGYEI KORMÁNYHIVATAL (székhelye: Veszprém)
 
-## 19.1.[^235] Ajkai Járási Hivatal (székhelye: Ajka)
+## 19.1.[^236] Ajkai Járási Hivatal (székhelye: Ajka)
 
 ## Adorjánháza
 
@@ -5738,7 +5738,7 @@
 
 ## Vid
 
-## 19.2.[^236] Balatonfüredi Járási Hivatal (székhelye: Balatonfüred)
+## 19.2.[^237] Balatonfüredi Járási Hivatal (székhelye: Balatonfüred)
 
 ## Alsóörs
 
@@ -5784,7 +5784,7 @@
 
 ## Zánka
 
-## 19.3.[^237] Pápai Járási Hivatal (székhelye: Pápa)
+## 19.3.[^238] Pápai Járási Hivatal (székhelye: Pápa)
 
 ## Adásztevel
 
@@ -5884,7 +5884,7 @@
 
 ## Vinár
 
-## 19.4.[^238] Tapolcai Járási Hivatal (székhelye: Tapolca)
+## 19.4.[^239] Tapolcai Járási Hivatal (székhelye: Tapolca)
 
 ## Ábrahámhegy
 
@@ -5994,7 +5994,7 @@
 
 ## Zalaszegvár
 
-## 19.5.[^239] Veszprémi Járási Hivatal (székhelye: Veszprém)
+## 19.5.[^240] Veszprémi Járási Hivatal (székhelye: Veszprém)
 
 ## Bakonybél
 
@@ -6102,9 +6102,9 @@
 
 ## Zirc
 
-## 20.[^240] ZALA MEGYEI KORMÁNYHIVATAL (székhelye: Zalaegerszeg)
+## 20.[^241] ZALA MEGYEI KORMÁNYHIVATAL (székhelye: Zalaegerszeg)
 
-## 20.1.[^241] Keszthelyi Járási Hivatal (székhelye: Keszthely)
+## 20.1.[^242] Keszthelyi Járási Hivatal (székhelye: Keszthely)
 
 ## Alsópáhok
 
@@ -6166,7 +6166,7 @@
 
 ## Zalavár
 
-## 20.2.[^242] Lenti Járási Hivatal (székhelye: Lenti)
+## 20.2.[^243] Lenti Járási Hivatal (székhelye: Lenti)
 
 ## Alsószenterzsébet
 
@@ -6264,7 +6264,7 @@
 
 ## Zebecke
 
-## 20.3.[^243] Letenyei Járási Hivatal (székhelye: Letenye)
+## 20.3.[^244] Letenyei Járási Hivatal (székhelye: Letenye)
 
 ## Bánokszentgyörgy
 
@@ -6320,7 +6320,7 @@
 
 ## Zajk
 
-## 20.4.[^244] Nagykanizsai Járási Hivatal (székhelye: Nagykanizsa)
+## 20.4.[^245] Nagykanizsai Járási Hivatal (székhelye: Nagykanizsa)
 
 ## Alsórajk
 
@@ -6420,7 +6420,7 @@
 
 ## Zalaújlak
 
-## 20.5.[^245] Zalaegerszegi Járási Hivatal (székhelye: Zalaegerszeg)
+## 20.5.[^246] Zalaegerszegi Járási Hivatal (székhelye: Zalaegerszeg)
 
 ## Alibánfa
 
@@ -6590,7 +6590,7 @@
 
 ## Zalatárnok
 
-## 20.6.[^246] Zalaszentgróti Járási Hivatal (székhelye: Zalaszentgrót)
+## 20.6.[^247] Zalaszentgróti Járási Hivatal (székhelye: Zalaszentgrót)
 
 ## Batyk
 
@@ -6632,146 +6632,146 @@
 
 ## Zalavég
 
-2. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^247]
+2. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^248]
 
-[^107]: Az 1. melléklet címe a 70/2015. (III. 30.) Korm. rendelet 260. § (18) bekezdése szerint módosított szöveg.
-[^108]: Az 1. melléklet 1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés a) pontja szerint módosított szöveg.
-[^109]: Az 1. melléklet 1.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés b) pontja szerint módosított szöveg.
-[^110]: Az 1. melléklet 1.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés c) pontja szerint módosított szöveg.
-[^111]: Az 1. melléklet 2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés b) pontja szerint módosított szöveg.
-[^112]: Az 1. melléklet 2. pont 2.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^113]: Az 1. melléklet 2. pont 2.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^114]: Az 1. melléklet 2. pont 2.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^115]: Az 1. melléklet 2. pont 2.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^116]: Az 1. melléklet 2. pont 2.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^117]: Az 1. melléklet 3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^118]: Az 1. melléklet 3. pont 3.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^119]: Az 1. melléklet 3. pont 3.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^120]: Az 1. melléklet 3. pont 3.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^121]: Az 1. melléklet 3. pont 3.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^122]: Az 1. melléklet 3. pont 3.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^123]: Az 1. melléklet 3. pont 3.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^124]: Az 1. melléklet 3. pont 3.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^125]: Az 1. melléklet 3. pont 3.8. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^126]: Az 1. melléklet 4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^127]: Az 1. melléklet 4. pont 4.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^128]: Az 1. melléklet 4. pont 4.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^129]: Az 1. melléklet 4. pont 4.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^130]: Az 1. melléklet 4. pont 4.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^131]: Az 1. melléklet 4. pont 4.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^132]: Az 1. melléklet 4. pont 4.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^133]: Az 1. melléklet 4. pont 4.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^134]: Az 1. melléklet 4. pont 4.8. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^135]: Az 1. melléklet 4. pont 4.9. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^136]: Az 1. melléklet 5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^137]: Az 1. melléklet 5. pont 5.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^138]: Az 1. melléklet 5. pont 5.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^139]: Az 1. melléklet 5. pont 5.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^140]: Az 1. melléklet 5. pont 5.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^141]: Az 1. melléklet 5. pont 5.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^142]: Az 1. melléklet 5. pont 5.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^143]: Az 1. melléklet 5. pont 5.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^144]: Az 1. melléklet 5. pont 5.8. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^145]: Az 1. melléklet 6. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^146]: Az 1. melléklet 6. pont 6.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^147]: Az 1. melléklet 6. pont 6.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^148]: Az 1. melléklet 6. pont 6.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^149]: Az 1. melléklet 6. pont 6.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^150]: Az 1. melléklet 6. pont 6.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^151]: Az 1. melléklet 6. pont 6.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^152]: Az 1. melléklet 7. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^153]: Az 1. melléklet 7. pont 7.1. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^154]: Az 1. melléklet 7. pont 7.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^155]: Az 1. melléklet 7. pont 7.3. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^156]: Az 1. melléklet 7. pont 7.4. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^157]: Az 1. melléklet 7. pont 7.5. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^158]: Az 1. melléklet 8. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^159]: Az 1. melléklet 8. pont 8.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^160]: Az 1. melléklet 8. pont 8.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^161]: Az 1. melléklet 8. pont 8.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés f) pontja szerint módosított szöveg.
-[^162]: Az 1. melléklet 8. pont 8.4. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^163]: Az 1. melléklet 8. pont 8.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^164]: Az 1. melléklet 8. pont 8.6. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^165]: Az 1. melléklet 9. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^166]: Az 1. melléklet 9. pont 9.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^167]: Az 1. melléklet 9. pont 9.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^168]: Az 1. melléklet 9. pont 9.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^169]: Az 1. melléklet 9. pont 9.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^170]: Az 1. melléklet 9. pont 9.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^171]: Az 1. melléklet 10. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^172]: Az 1. melléklet 10. pont 10.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^173]: Az 1. melléklet 10. pont 10.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^174]: Az 1. melléklet 10. pont 10.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^175]: Az 1. melléklet 10. pont 10.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^176]: Az 1. melléklet 10. pont 10.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^177]: Az 1. melléklet 11. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^178]: Az 1. melléklet 11. pont 11.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^179]: Az 1. melléklet 11. pont 11.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^180]: Az 1. melléklet 11. pont 11.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^181]: Az 1. melléklet 11. pont 11.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés g) pontja szerint módosított szöveg.
-[^182]: Az 1. melléklet 11. pont 11.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^183]: Az 1. melléklet 11. pont 11.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^184]: Az 1. melléklet 11. pont 11.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^185]: Az 1. melléklet 12. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^186]: Az 1. melléklet 12. pont 12.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^187]: Az 1. melléklet 12. pont 12.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^188]: Az 1. melléklet 12. pont 12.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^189]: Az 1. melléklet 12. pont 12.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^190]: Az 1. melléklet 13. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^191]: Az 1. melléklet 13. pont 13.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^192]: Az 1. melléklet 13. pont 13.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^193]: Az 1. melléklet 13. pont 13.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^194]: Az 1. melléklet 13. pont 13.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^195]: Az 1. melléklet 14. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^196]: Az 1. melléklet 14. pont 14.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (24) bekezdés b) pontja szerint módosított szöveg.
-[^197]: Az 1. melléklet 14. pont 14.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^198]: Az 1. melléklet 14. pont 14.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^199]: Az 1. melléklet 14. pont 14.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^200]: Az 1. melléklet 14. pont 14.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^201]: Az 1. melléklet 14. pont 14.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^202]: Az 1. melléklet 14. pont 14.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^203]: Az 1. melléklet 14. pont 14.8. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^204]: Az 1. melléklet 14. pont 14.9. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^205]: Az 1. melléklet 14. pont 14.10. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^206]: Az 1. melléklet 14. pont 14.11. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^207]: Az 1. melléklet 14. pont 14.12. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^208]: Az 1. melléklet 15. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^209]: Az 1. melléklet 15. pont 15.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^210]: Az 1. melléklet 15. pont 15.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^211]: Az 1. melléklet 15. pont 15.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^212]: Az 1. melléklet 15. pont 15.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^213]: Az 1. melléklet 15. pont 15.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^214]: Az 1. melléklet 15. pont 15.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^215]: Az 1. melléklet 16. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^216]: Az 1. melléklet 16. pont 16.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^217]: Az 1. melléklet 16. pont 16.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^218]: Az 1. melléklet 16. pont 16.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^219]: Az 1. melléklet 16. pont 16.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^220]: Az 1. melléklet 16. pont 16.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^221]: Az 1. melléklet 16. pont 16.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^222]: Az 1. melléklet 17. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^223]: Az 1. melléklet 17. pont 17.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^224]: Az 1. melléklet 17. pont 17.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^225]: Az 1. melléklet 17. pont 17.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^226]: Az 1. melléklet 17. pont 17.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^227]: Az 1. melléklet 17. pont 17.5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^228]: Az 1. melléklet 18. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^229]: Az 1. melléklet 18. pont 18.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^230]: Az 1. melléklet 18. pont 18.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^231]: Az 1. melléklet 18. pont 18.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^232]: Az 1. melléklet 18. pont 18.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^233]: Az 1. melléklet 18. pont 18.5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^234]: Az 1. melléklet 19. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^235]: Az 1. melléklet 19. pont 19.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^236]: Az 1. melléklet 19. pont 19.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^237]: Az 1. melléklet 19. pont 19.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^238]: Az 1. melléklet 19. pont 19.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^239]: Az 1. melléklet 19. pont 19.5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^240]: Az 1. melléklet 20. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
-[^241]: Az 1. melléklet 20. pont 20.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^242]: Az 1. melléklet 20. pont 20.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^243]: Az 1. melléklet 20. pont 20.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^244]: Az 1. melléklet 20. pont 20.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^245]: Az 1. melléklet 20. pont 20.5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^246]: Az 1. melléklet 20. pont 20.6. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
-[^247]: A 2. melléklet a 70/2015. (III. 30.) Korm. rendelet 260. § (20) bekezdésével megállapított szöveg.
+[^108]: Az 1. melléklet címe a 70/2015. (III. 30.) Korm. rendelet 260. § (18) bekezdése szerint módosított szöveg.
+[^109]: Az 1. melléklet 1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés a) pontja szerint módosított szöveg.
+[^110]: Az 1. melléklet 1.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés b) pontja szerint módosított szöveg.
+[^111]: Az 1. melléklet 1.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés c) pontja szerint módosított szöveg.
+[^112]: Az 1. melléklet 2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés b) pontja szerint módosított szöveg.
+[^113]: Az 1. melléklet 2. pont 2.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^114]: Az 1. melléklet 2. pont 2.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^115]: Az 1. melléklet 2. pont 2.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^116]: Az 1. melléklet 2. pont 2.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^117]: Az 1. melléklet 2. pont 2.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^118]: Az 1. melléklet 3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^119]: Az 1. melléklet 3. pont 3.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^120]: Az 1. melléklet 3. pont 3.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^121]: Az 1. melléklet 3. pont 3.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^122]: Az 1. melléklet 3. pont 3.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^123]: Az 1. melléklet 3. pont 3.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^124]: Az 1. melléklet 3. pont 3.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^125]: Az 1. melléklet 3. pont 3.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^126]: Az 1. melléklet 3. pont 3.8. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^127]: Az 1. melléklet 4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^128]: Az 1. melléklet 4. pont 4.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^129]: Az 1. melléklet 4. pont 4.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^130]: Az 1. melléklet 4. pont 4.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^131]: Az 1. melléklet 4. pont 4.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^132]: Az 1. melléklet 4. pont 4.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^133]: Az 1. melléklet 4. pont 4.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^134]: Az 1. melléklet 4. pont 4.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^135]: Az 1. melléklet 4. pont 4.8. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^136]: Az 1. melléklet 4. pont 4.9. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^137]: Az 1. melléklet 5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^138]: Az 1. melléklet 5. pont 5.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^139]: Az 1. melléklet 5. pont 5.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^140]: Az 1. melléklet 5. pont 5.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^141]: Az 1. melléklet 5. pont 5.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^142]: Az 1. melléklet 5. pont 5.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^143]: Az 1. melléklet 5. pont 5.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^144]: Az 1. melléklet 5. pont 5.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^145]: Az 1. melléklet 5. pont 5.8. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^146]: Az 1. melléklet 6. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^147]: Az 1. melléklet 6. pont 6.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^148]: Az 1. melléklet 6. pont 6.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^149]: Az 1. melléklet 6. pont 6.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^150]: Az 1. melléklet 6. pont 6.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^151]: Az 1. melléklet 6. pont 6.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^152]: Az 1. melléklet 6. pont 6.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^153]: Az 1. melléklet 7. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^154]: Az 1. melléklet 7. pont 7.1. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^155]: Az 1. melléklet 7. pont 7.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^156]: Az 1. melléklet 7. pont 7.3. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^157]: Az 1. melléklet 7. pont 7.4. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^158]: Az 1. melléklet 7. pont 7.5. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^159]: Az 1. melléklet 8. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^160]: Az 1. melléklet 8. pont 8.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^161]: Az 1. melléklet 8. pont 8.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^162]: Az 1. melléklet 8. pont 8.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés f) pontja szerint módosított szöveg.
+[^163]: Az 1. melléklet 8. pont 8.4. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^164]: Az 1. melléklet 8. pont 8.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^165]: Az 1. melléklet 8. pont 8.6. alpontja az 56. §-sal megállapított, a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^166]: Az 1. melléklet 9. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^167]: Az 1. melléklet 9. pont 9.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^168]: Az 1. melléklet 9. pont 9.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^169]: Az 1. melléklet 9. pont 9.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^170]: Az 1. melléklet 9. pont 9.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^171]: Az 1. melléklet 9. pont 9.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^172]: Az 1. melléklet 10. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^173]: Az 1. melléklet 10. pont 10.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^174]: Az 1. melléklet 10. pont 10.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^175]: Az 1. melléklet 10. pont 10.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^176]: Az 1. melléklet 10. pont 10.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^177]: Az 1. melléklet 10. pont 10.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^178]: Az 1. melléklet 11. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^179]: Az 1. melléklet 11. pont 11.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^180]: Az 1. melléklet 11. pont 11.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^181]: Az 1. melléklet 11. pont 11.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^182]: Az 1. melléklet 11. pont 11.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés g) pontja szerint módosított szöveg.
+[^183]: Az 1. melléklet 11. pont 11.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^184]: Az 1. melléklet 11. pont 11.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^185]: Az 1. melléklet 11. pont 11.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^186]: Az 1. melléklet 12. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^187]: Az 1. melléklet 12. pont 12.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^188]: Az 1. melléklet 12. pont 12.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^189]: Az 1. melléklet 12. pont 12.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^190]: Az 1. melléklet 12. pont 12.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^191]: Az 1. melléklet 13. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^192]: Az 1. melléklet 13. pont 13.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^193]: Az 1. melléklet 13. pont 13.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^194]: Az 1. melléklet 13. pont 13.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^195]: Az 1. melléklet 13. pont 13.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^196]: Az 1. melléklet 14. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^197]: Az 1. melléklet 14. pont 14.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (24) bekezdés b) pontja szerint módosított szöveg.
+[^198]: Az 1. melléklet 14. pont 14.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^199]: Az 1. melléklet 14. pont 14.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^200]: Az 1. melléklet 14. pont 14.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^201]: Az 1. melléklet 14. pont 14.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^202]: Az 1. melléklet 14. pont 14.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^203]: Az 1. melléklet 14. pont 14.7. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^204]: Az 1. melléklet 14. pont 14.8. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^205]: Az 1. melléklet 14. pont 14.9. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^206]: Az 1. melléklet 14. pont 14.10. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^207]: Az 1. melléklet 14. pont 14.11. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^208]: Az 1. melléklet 14. pont 14.12. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^209]: Az 1. melléklet 15. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^210]: Az 1. melléklet 15. pont 15.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^211]: Az 1. melléklet 15. pont 15.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^212]: Az 1. melléklet 15. pont 15.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^213]: Az 1. melléklet 15. pont 15.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^214]: Az 1. melléklet 15. pont 15.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^215]: Az 1. melléklet 15. pont 15.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^216]: Az 1. melléklet 16. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^217]: Az 1. melléklet 16. pont 16.1. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^218]: Az 1. melléklet 16. pont 16.2. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^219]: Az 1. melléklet 16. pont 16.3. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^220]: Az 1. melléklet 16. pont 16.4. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^221]: Az 1. melléklet 16. pont 16.5. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^222]: Az 1. melléklet 16. pont 16.6. alpontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^223]: Az 1. melléklet 17. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^224]: Az 1. melléklet 17. pont 17.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^225]: Az 1. melléklet 17. pont 17.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^226]: Az 1. melléklet 17. pont 17.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^227]: Az 1. melléklet 17. pont 17.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^228]: Az 1. melléklet 17. pont 17.5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^229]: Az 1. melléklet 18. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^230]: Az 1. melléklet 18. pont 18.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^231]: Az 1. melléklet 18. pont 18.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^232]: Az 1. melléklet 18. pont 18.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^233]: Az 1. melléklet 18. pont 18.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^234]: Az 1. melléklet 18. pont 18.5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^235]: Az 1. melléklet 19. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^236]: Az 1. melléklet 19. pont 19.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^237]: Az 1. melléklet 19. pont 19.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^238]: Az 1. melléklet 19. pont 19.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^239]: Az 1. melléklet 19. pont 19.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^240]: Az 1. melléklet 19. pont 19.5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^241]: Az 1. melléklet 20. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés d) pontja szerint módosított szöveg.
+[^242]: Az 1. melléklet 20. pont 20.1. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^243]: Az 1. melléklet 20. pont 20.2. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^244]: Az 1. melléklet 20. pont 20.3. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^245]: Az 1. melléklet 20. pont 20.4. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^246]: Az 1. melléklet 20. pont 20.5. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^247]: Az 1. melléklet 20. pont 20.6. pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (19) bekezdés e) pontja szerint módosított szöveg.
+[^248]: A 2. melléklet a 70/2015. (III. 30.) Korm. rendelet 260. § (20) bekezdésével megállapított szöveg.
