@@ -1,3 +1,3 @@
-2. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^48]
+2. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^55]
 
-[^48]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^55]: A 2. melléklet a 6/2016. (III. 30.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.

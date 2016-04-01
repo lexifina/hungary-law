@@ -1,4 +1,4 @@
-## A 2/B. § szerinti földgázforrás ára és mennyisége 2016. első negyedévre
+## A 2/B. § szerinti földgázforrás ára és mennyisége 2016. második negyedévre
 
 ## 1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a GET 141/C. § (2) bekezdése szerinti földgázkereskedő részére értékesítendő, nem földgáztárolóból beszerzett földgázforrás mennyisége és ára:
 
@@ -16,6 +16,6 @@
 
 | 2. | – | – |
 
-11. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^57]
+11. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^64]
 
-[^57]: A 11. mellékletet a 37/2015. (VI. 30.) NFM rendelet 16. § (5) bekezdése iktatta be, szövege a 76/2015. (XII. 29.) NFM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^64]: A 11. mellékletet a 37/2015. (VI. 30.) NFM rendelet 16. § (5) bekezdése iktatta be, szövege a 6/2016. (III. 30.) NFM rendelet 7. § (4) bekezdésével megállapított szöveg.
