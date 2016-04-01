@@ -1,0 +1,3 @@
+## 3. § Az 549/2013. (XII. 30.) Korm. rendelet 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft. uniós feladatainak támogatása előirányzat célja a Nemzeti Fejlesztési Terv, az Új Széchenyi Terv, az INTERREG Közösségi Kezdeményezés programok, az EGT, Norvég Alap támogatásból megvalósuló projektek, a Svájci Alap támogatásból megvalósuló projektek, valamint az Európai Területi Együttműködés lebonyolításához kapcsolódó, közreműködő szervezetek által ellátott tevékenységek finanszírozása lebonyolítási vagy támogatási szerződés útján.”
