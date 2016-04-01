@@ -2,7 +2,7 @@
 
 (2) E rendelet alkalmazásában
 
-a)[^4] eladható készletbe helyezés: a beérkezett gyógyszer nagykereskedelmi eladható készletbe helyezése, azaz az a tevékenység, amely során a raktárba beérkezett gyógyszer minőségét gyógyszer gyártási engedéllyel rendelkező szervezet minőségbiztosítás érdekében meghatalmazott személye által kibocsátott eladható készletbe helyezési – gyógyszeranyag esetén minőségi – bizonylat és a szállítási lánc megfelelőségét igazoló dokumentumok alapján az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által kiadott gyógyszer-nagykereskedelmi tevékenység folytatására jogosító engedély jogosultjának (a továbbiakban: nagykereskedő) minőségbiztosításért felelős személye (a továbbiakban: felelős személy) értékelte és megállapította, hogy a termék
+a)[^4] eladható készletbe helyezés: a beérkezett gyógyszer nagykereskedelmi eladható készletbe helyezése, azaz az a tevékenység, amely során a raktárba beérkezett gyógyszer minőségét gyógyszer gyártási engedéllyel rendelkező szervezet minőségbiztosítás érdekében meghatalmazott személye által kibocsátott felszabadítási – gyógyszeranyag esetén minőségi – bizonylat és a szállítási lánc megfelelőségét igazoló dokumentumok alapján az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által kiadott gyógyszer-nagykereskedelmi tevékenység folytatására jogosító engedély jogosultjának (a továbbiakban: nagykereskedő) minőségbiztosításért felelős személye (a továbbiakban: felelős személy) értékelte és megállapította, hogy a termék
 
 aa) az előírt minőségnek és az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló, 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet értelmében vagy
 
@@ -41,7 +41,7 @@ o)[^17] meghatalmazott személy: a gyógyszerek minőségbiztosítása érdekéb
 p)[^18] felelős személy: a gyógyszerek minőségbiztosítása érdekében meghatalmazott személy képesítési feltételeiről szóló rendeletben meghatározott személy.
 
 [^3]: A 2. § (1) bekezdése a 10/2009. (IV. 10.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (2) bekezdés a) pontja a 47/2015. (X. 19.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdés a) pontja a 47/2015. (X. 19.) EMMI rendelet 11. § (1) bekezdésével megállapított, nyitó szövegrésze a 7/2016. (III. 30.) EMMI rendelet 8. §-a szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés b) pontja a 47/2015. (X. 19.) EMMI rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (2) bekezdés d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított, a 10/2012. (VII. 19.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés e) pontja a 41/2011. (VII. 5.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
