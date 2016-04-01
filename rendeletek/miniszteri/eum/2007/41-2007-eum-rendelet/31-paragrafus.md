@@ -1,4 +1,4 @@
-31. § (1)[^119] A fekvőbeteg ellátást végző intézményben – a 27. § (2) bekezdésében foglaltakat figyelembe véve – csak az intézeti gyógyszertárban nyilvántartott gyógyszer tartható és alkalmazható. Az osztály szakszerű gyógyszerrendeléséért, felhasználásáért és tárolásáért felelős munkakör(ök) megjelölését a működési szabályzat tartalmazza.
+31. § (1)[^123] A fekvőbeteg ellátást végző intézményben – a 27. § (2) bekezdésében foglaltakat figyelembe véve – csak az intézeti gyógyszertárban nyilvántartott gyógyszer tartható és alkalmazható. Az osztály szakszerű gyógyszerrendeléséért, felhasználásáért és tárolásáért felelős munkakör(ök) megjelölését a működési szabályzat tartalmazza.
 
 (2) Az intézeti gyógyszertárból intézeti felhasználásra gyógyszer
 
@@ -38,11 +38,11 @@ a) biztosítani kell
 
 aa) a külön jogszabály szerint forgalomba hozatalra engedélyezett gyógyszereknek a forgalomba hozatali engedélyben meghatározott,
 
-ab)[^120] a magisztrális gyógyszereknek a Gyógyszerkönyvben, a Szabványos Vényminták gyűjteményében, illetve az egyedi előiratban meghatározott,
+ab)[^124] a magisztrális gyógyszereknek a Gyógyszerkönyvben, a Szabványos Vényminták gyűjteményében, illetve az egyedi előiratban meghatározott,
 
 ac) a forgalomból kivont, valamint a lejárt felhasználhatósági határidejű gyógyszer – további intézkedésig (selejtezésig) történő – elkülönített,
 
-ad)[^121] a tételes elszámolásba besorolt hatóanyagot tartalmazó gyógyszerek elkülönített és szakszerű
+ad)[^125] a tételes elszámolásba besorolt hatóanyagot tartalmazó gyógyszerek elkülönített és szakszerű
 
 ## tárolását;
 
@@ -56,6 +56,6 @@ bc) a tárolás körülményeit, így különösen a hőmérsékletet, fénytől
 
 (6) A fokozottan ellenőrzött szernek minősülő gyógyszerek kórházi rendelésére, tárolására, kiadására és nyilvántartására vonatkozó szabályokat külön jogszabály állapítja meg.
 
-[^119]: A 31. § (1) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § c) pontja szerint módosított szöveg.
-[^120]: A 31. § (5) bekezdés a) pont ab) alpontja az 56/2009. (XII. 30.) EüM rendelet 19. §-ával megállapított szöveg.
-[^121]: A 31. § (5) bekezdés a) pont ad) alpontját az 52/2012. (XII. 27.) EMMI rendelet 28. §-a iktatta be.
+[^123]: A 31. § (1) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § c) pontja szerint módosított szöveg.
+[^124]: A 31. § (5) bekezdés a) pont ab) alpontja az 56/2009. (XII. 30.) EüM rendelet 19. §-ával megállapított szöveg.
+[^125]: A 31. § (5) bekezdés a) pont ad) alpontját az 52/2012. (XII. 27.) EMMI rendelet 28. §-a iktatta be.

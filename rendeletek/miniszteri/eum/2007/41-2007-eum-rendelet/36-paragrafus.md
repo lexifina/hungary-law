@@ -4,9 +4,11 @@
 
 (2) Fekvőbeteg-gyógyintézet – a (3) bekezdésben foglalt kivétellel – az intézeti gyógyszertárral megegyező telephelyen végezhet közvetlen lakossági gyógyszerellátást.
 
-(3) Ha a fekvőbeteg-gyógyintézetnek több bejegyzett telephelye is van – az intézeti gyógyszertár telephelyén kívül – a többi telephelyen közvetlen lakossági gyógyszerellátást e rendelet 25. § (1) bekezdés c) pontja, valamint a (4) bekezdés szerinti feltételek biztosítása mellett végezhet. Ez esetben az ellátó gyógyszertár a fekvőbeteg- gyógyintézet intézeti gyógyszertára.
+(3)[^132] Ha a fekvőbeteg-gyógyintézetnek több bejegyzett telephelye is van – az intézeti gyógyszertár telephelyén kívül – a többi telephelyen közvetlen lakossági gyógyszerellátást a 25. § (1a) bekezdése, valamint a (4) bekezdés szerinti feltételek biztosítása mellett végezhet. Ez esetben az ellátó gyógyszertár a fekvőbeteg- gyógyintézet intézeti gyógyszertára.
 
-(4) A 25. § (1) bekezdés c) pontjában foglalt feltételek mellett a telephelyen végzett közvetlen lakossági gyógyszerellátás akkor folytatható, ha a telephelyen működő
+(3a)[^133] A fekvőbeteg-gyógyintézet valamennyi telephelyén telephelyenként egy közvetlen lakossági gyógyszerellátást végző egység működtethető.
+
+(4)[^134] A 25. § (1a) bekezdésében foglalt feltételek mellett a telephelyen végzett közvetlen lakossági gyógyszerellátás akkor folytatható, ha a telephelyen működő
 
 a) fekvőbeteg-gyógyintézetben legalább háromszáz ágy,
 
@@ -14,6 +16,9 @@ b) rendelőintézeti járóbeteg-szakellátást nyújtó szolgáltatónál legal
 
 ## biztosítva van.
 
-(5)[^128] A közvetlen lakossági gyógyszerellátási tevékenység helyén biztosítani kell a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendszert, valamint a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
+(5)[^135] A közvetlen lakossági gyógyszerellátási tevékenység helyén biztosítani kell a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendszert, valamint a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
 
-[^128]: A 36. § (5) bekezdését az 56/2009. (XII. 30.) EüM rendelet 20. §-a iktatta be.
+[^132]: A 36. § (3) bekezdése a 7/2016. (III. 30.) EMMI rendelet 26. § f) pontja szerint módosított szöveg.
+[^133]: A 36. § (3a) bekezdését a 7/2016. (III. 30.) EMMI rendelet 23. §-a iktatta be.
+[^134]: A 36. § (4) bekezdés nyitó szövegrésze a 7/2016. (III. 30.) EMMI rendelet 26. § g) pontja szerint módosított szöveg.
+[^135]: A 36. § (5) bekezdését az 56/2009. (XII. 30.) EüM rendelet 20. §-a iktatta be.

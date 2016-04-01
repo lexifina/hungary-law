@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-41-20-0
 | 2015-02-01 | 2007-41-20-0B.16 | 3/2015. (I. 14.) EMMI rendelet |
 | 2015-04-29 | 2007-41-20-0B.17 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2015-10-20 | 2007-41-20-0B.18 | 47/2015. (X. 19.) EMMI rendelet |
+| 2016-04-01 | 2007-41-20-0B.19 | 7/2016. (III. 30.) EMMI rendelet |

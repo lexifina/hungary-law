@@ -24,6 +24,8 @@ k)[^73] „Hőmérséklet ellenőrzési napló”
 
 ## vezetése kötelező.
 
+(1a)[^74] A közforgalmú gyógyszertárnak a gyógyszer- és gyógyászati segédeszköz beszerzésről és készletről elektronikus nyilvántartást kell vezetnie, amelyből a gyógyszerek és gyógyászati segédeszközök aktuális készlet- és forgalmi adatai bármikor megállapíthatóak.
+
 (2) A „Vizsgálati napló” a gyógyszertárban végzett gyógyszervizsgálatok nyilvántartására szolgál. A „Vizsgálati napló” tartalmazza:
 
 a) a gyógyszerszállító nevét,
@@ -56,7 +58,7 @@ e) az előállító gyógyszerész, illetve a közreműködő asszisztens aláí
 
 f) a gyógyszer felhasználhatósági idejét.
 
-(5)[^74] A „Gyógyszertári manuális”-ban fel kell tüntetni azon gyógyszerkészítmények összetételét, eltartási körülményeit, csomagolását, készítési módját és felhasználhatósági idejét, amelyek a Gyógyszerkönyvben vagy a FoNo-ban nem szerepelnek, azonban azokat a gyógyszertár rendszeresen készíti.
+(5)[^75] A „Gyógyszertári manuális”-ban fel kell tüntetni azon gyógyszerkészítmények összetételét, eltartási körülményeit, csomagolását, készítési módját és felhasználhatósági idejét, amelyek a Gyógyszerkönyvben vagy a FoNo-ban nem szerepelnek, azonban azokat a gyógyszertár rendszeresen készíti.
 
 (6) A „Kiszerelési napló” azoknak a gyógyszereknek a nyilvántartására szolgál, amelyeknek csak a kiszerelése történik a gyógyszertárban kiadásra alkalmas formában, ideértve egyes forgalomba hozatali engedéllyel rendelkező gyógyszerek külön jogszabály szerinti bontását is. A nyilvántartás tartalmazza:
 
@@ -86,11 +88,11 @@ a) a sorszámot,
 
 b) a sterilezés dátumát,
 
-c)[^75] a sterilezett anyag, eszköz megnevezését,
+c)[^76] a sterilezett anyag, eszköz megnevezését,
 
-d)[^76] a sterilezett anyag gyártási vagy vizsgálati számát,
+d)[^77] a sterilezett anyag gyártási vagy vizsgálati számát,
 
-e)[^77] a sterilezett anyag mennyiségét, a sterilezett eszköz darabszámát,
+e)[^78] a sterilezett anyag mennyiségét, a sterilezett eszköz darabszámát,
 
 f) a sterilezés kezdetét és végét rögzítő időpontokat (óra, perc),
 
@@ -100,19 +102,19 @@ h) a sterilezést végző aláírását, valamint
 
 i) a sterilizáló készülék(ek) azonosítóját.
 
-(9)[^78]
+(9)[^79]
 
 (10) A „Belső minőségellenőrzési napló” a gyógyszertári szakmai munka ellenőrzésére szolgáló nyilvántartás, mely tartalmazza:
 
-a)[^79] az ellenőrzött szakszemély nevét,
+a)[^80] az ellenőrzött szakszemély nevét,
 
-b)[^80]
+b)[^81]
 
 c) a vizsgálat megnevezését, idejét, eredményét, valamint
 
 d) a vizsgáló gyógyszerész aláírását.
 
-(11)[^81] A forgalmazás megszüntetéséről, felfüggesztéséről szóló nyilvántartás az OGYÉI honlapján közzétett döntések végrehajtásának dokumentumait foglalja magában, mely tartalmazza:
+(11)[^82] A forgalmazás megszüntetéséről, felfüggesztéséről szóló nyilvántartás az OGYÉI honlapján közzétett döntések végrehajtásának dokumentumait foglalja magában, mely tartalmazza:
 
 a) a forgalomból való kivonás napját,
 
@@ -132,7 +134,7 @@ h) a fiókgyógyszertárban, kézigyógyszertárban történő forgalomból val�
 
 (12) Fokozottan ellenőrzött szerek nyilvántartásánál az e szerek gyógyszertárba történő beérkezésének és kiadásának eljárásrendjét, valamint a szükséges nyilvántartások vezetését meghatározó külön jogszabályban foglaltak szerint kell eljárni.
 
-(13)[^82] A „Hőmérséklet ellenőrzési napló” a hideg vagy hűvös helyen, továbbá a mélyhűtőben tartandó gyógyszerkészítmények eltartását biztosító hűtőszekrények és/vagy helyiségek hőmérsékletének ellenőrzésére szolgáló nyilvántartás, amely tartalmazza
+(13)[^83] A „Hőmérséklet ellenőrzési napló” a hideg vagy hűvös helyen, továbbá a mélyhűtőben tartandó gyógyszerkészítmények eltartását biztosító hűtőszekrények és/vagy helyiségek hőmérsékletének ellenőrzésére szolgáló nyilvántartás, amely tartalmazza
 
 a) a hűtőszekrény vagy helyiség elnevezését, azonosítóját,
 
@@ -144,25 +146,29 @@ d) a leolvasott hőmérsékletet, valamint
 
 e) az ellenőrzést végző aláírását.
 
-(14)[^83] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti vényköteles gyógyszer vény nélküli kiadásáról nyilvántartást vezet, mely tartalmazza a kiadott gyógyszer nevét, a kiadás időpontját, az átvevő végzettségét vagy jogosultságát hitelt érdemlően tanúsító okirat számát, orvos esetén orvosi bélyegzőjének számát vagy lenyomatát, valamint a kiadó és az átvevő aláírását.
+(14)[^84] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti vényköteles gyógyszer vény nélküli kiadásáról nyilvántartást vezet, mely tartalmazza a kiadott gyógyszer nevét, a kiadás időpontját, az átvevő végzettségét vagy jogosultságát hitelt érdemlően tanúsító okirat számát, orvos esetén orvosi bélyegzőjének számát vagy lenyomatát, valamint a kiadó és az átvevő aláírását.
 
-(15)[^84] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendeletnek megfelelően rendelt, Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a gyógyszertár által kiszolgáltatott gyógyszerekről nyilvántartást vezet.
+(15)[^85] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendeletnek megfelelően rendelt, Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a gyógyszertár által kiszolgáltatott gyógyszerekről nyilvántartást vezet.
 
-(16)[^85] A működési nyilvántartásban nem szereplő, de valamely államban gyógyszer rendelésére jogosult személy által rendelt vényköteles gyógyszer kiadásának alapjául szolgáló külföldi vényt (e bekezdés alkalmazásában a továbbiakban: vény), vagy ha az eredeti vény visszaadására kerül sor, a vény másolatát a gyógyszertár elkülönítetten gyűjti és tárolja. A visszaadott vényen a kiadás tényét rögzíteni kell.
+(16)[^86] A működési nyilvántartásban nem szereplő, de valamely államban gyógyszer rendelésére jogosult személy által rendelt vényköteles gyógyszer kiadásának alapjául szolgáló külföldi vényt (e bekezdés alkalmazásában a továbbiakban: vény), vagy ha az eredeti vény visszaadására kerül sor, a vény másolatát a gyógyszertár elkülönítetten gyűjti és tárolja. A visszaadott vényen a kiadás tényét rögzíteni kell.
+
+(17)[^87] A fiókgyógyszertárban az ott folytatott tevékenységnek megfelelő nyilvántartást kell vezetni.
 
 [^70]: A 18. § (1) bekezdés nyitó szövegrésze a 3/2015. (I. 14.) EMMI rendelet 21. § g) pontja szerint módosított szöveg.
 [^71]: A 18. § (1) bekezdés g) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
 [^72]: A 18. § (1) bekezdés j) pontja a 31/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^73]: A 18. § (1) bekezdés k) pontját az 56/2009. (XII. 30.) EüM rendelet 11. § (1) bekezdése iktatta be.
-[^74]: A 18. § (5) bekezdése a 3/2014. (I. 16.) EMMI rendelet 27. §-ával megállapított szöveg.
-[^75]: A 18. § (8) bekezdés c) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^76]: A 18. § (8) bekezdés d) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^77]: A 18. § (8) bekezdés e) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^78]: A 18. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^79]: A 18. § (10) bekezdés a) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^80]: A 18. § (10) bekezdés b) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^81]: A 18. § (11) bekezdése a 3/2015. (I. 14.) EMMI rendelet 18. § (1) bekezdésével megállapított, nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 92. § e) pontja szerint módosított szöveg.
-[^82]: A 18. § (13) bekezdését az 56/2009. (XII. 30.) EüM rendelet 11. § (4) bekezdése iktatta be.
-[^83]: A 18. § (14) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a, újonnan a 3/2015. (I. 14.) EMMI rendelet 18. § (2) bekezdése iktatta be.
-[^84]: A 18. § (15) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be.
-[^85]: A 18. § (16) bekezdését a 3/2015. (I. 14.) EMMI rendelet 18. § (3) bekezdése iktatta be.
+[^74]: A 18. § (1a) bekezdését a 7/2016. (III. 30.) EMMI rendelet 20. § (1) bekezdése iktatta be.
+[^75]: A 18. § (5) bekezdése a 3/2014. (I. 16.) EMMI rendelet 27. §-ával megállapított szöveg.
+[^76]: A 18. § (8) bekezdés c) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^77]: A 18. § (8) bekezdés d) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^78]: A 18. § (8) bekezdés e) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^79]: A 18. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^80]: A 18. § (10) bekezdés a) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^81]: A 18. § (10) bekezdés b) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^82]: A 18. § (11) bekezdése a 3/2015. (I. 14.) EMMI rendelet 18. § (1) bekezdésével megállapított, nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 92. § e) pontja szerint módosított szöveg.
+[^83]: A 18. § (13) bekezdését az 56/2009. (XII. 30.) EüM rendelet 11. § (4) bekezdése iktatta be.
+[^84]: A 18. § (14) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a, újonnan a 3/2015. (I. 14.) EMMI rendelet 18. § (2) bekezdése iktatta be.
+[^85]: A 18. § (15) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be.
+[^86]: A 18. § (16) bekezdését a 3/2015. (I. 14.) EMMI rendelet 18. § (3) bekezdése iktatta be.
+[^87]: A 18. § (17) bekezdését a 7/2016. (III. 30.) EMMI rendelet 20. § (2) bekezdése iktatta be.
