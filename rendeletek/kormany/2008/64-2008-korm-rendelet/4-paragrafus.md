@@ -4,6 +4,6 @@
 
 a) a települési szilárd hulladék esetében a hulladék begyűjtésének, szállításának, szelektív gyűjtésének és az utógondozásra, illetve monitorozásra is kiterjedő ártalmatlanításának,
 
-b)[^3]
+b)[^4]
 
-[^3]: A 4. § (2) bekezdés b) pontját a 441/2012. (XII. 29.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 4. § (2) bekezdés b) pontját a 441/2012. (XII. 29.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
