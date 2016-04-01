@@ -1,12 +1,12 @@
-## 4–5. §[^6]
+## 4–5. §[^10]
 
-1. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^7]
+1. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^11]
 
 ## A hulladékgazdálkodási terv és a megelőzési program előkészítésébe bevonandó területileg illetékes hatóságok
 
 A hulladékgazdálkodási terv és a megelőzési program előkészítése során az OKTF NHI a következő hatóságokat vonja be:
 
-1. a területileg illetékes vízügyi hatóságot a vízügyre vonatkozó szakkérdések vonatkozásában,
+1. a területileg illetékes vízügyi hatóságot és a működési területével érintett vízügyi igazgatóságot a vízügyre vonatkozó szakkérdések vonatkozásában,
 
 2. a bányafelügyeleti hatáskörében eljáró kormányhivatalt a földtani és az ásványvagyon védelmére kiterjedő, valamint a bányászati szakkérdések vonatkozásában,
 
@@ -44,5 +44,5 @@ g) fogyasztóvédelmi hatáskörében eljárva a fogyasztóvédelmi szakkérdés
 
 h) népegészségügyi hatáskörében eljárva a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában.
 
-[^6]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. mellékelt a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított szöveg.
+[^10]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. mellékelt a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított, a 70/2016. (III. 31.) Korm. rendelet 3. § 4. pontja szerint módosított szöveg.
