@@ -1,3 +1,3 @@
-2. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^91]
+2. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^92]
 
-[^91]: A 2. melléklet a 12/2015. (III. 31.) NFM rendelet 2. §-ával megállapított szöveg.
+[^92]: A 2. melléklet a 6/2016. (III. 30.) NFM rendelet 1. §-ával megállapított szöveg.

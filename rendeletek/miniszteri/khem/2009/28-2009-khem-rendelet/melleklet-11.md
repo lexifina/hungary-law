@@ -10,7 +10,7 @@
 
 | Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság: | 1058 | 1587 |
 
-| A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság: | 1054 | 1581 |
+| A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság: | 1054 | 1581 |
 
 | A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság: | 1085 | 1627 |
 
@@ -24,10 +24,10 @@
 
 | Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság: | 886 | 1329 |
 
-| A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság: | 871 | 1306 |
+| A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság: | 871 | 1306 |
 
 | A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság: | 830 | 1245 |
 
-11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^98]
+11. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^99]
 
-[^98]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 10. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 12. §-a, a 15/2015. (III. 31.) NFM rendelet 15. § l) pontja és 16. §-a szerint módosított szöveg.
+[^99]: A 11. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 10. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 12. §-a, a 15/2015. (III. 31.) NFM rendelet 15. § l) pontja és 16. §-a szerint módosított szöveg.

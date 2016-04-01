@@ -20,7 +20,7 @@
 
 | 3. | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 3,009 |
 
-## 1.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+## 1.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
 |  | A | B | C |
 
@@ -82,7 +82,7 @@
 
 | 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,510 |
 
-## 2.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+## 2.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, a Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
 |  | A | B | C | D | E |
 

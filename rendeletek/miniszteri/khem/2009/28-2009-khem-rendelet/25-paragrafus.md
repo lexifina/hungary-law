@@ -1,3 +1,3 @@
-## 24. §[^87]
+## 24. §[^88]
 
-[^87]: A 24. §-t a 22/2011. (V. 20.) NFM rendelet 4. §-a iktatta be, hatályon kívül helyezte az 51/2012. (VIII. 31.) NFM rendelet 12. § d) pontja.
+[^88]: A 24. §-t a 22/2011. (V. 20.) NFM rendelet 4. §-a iktatta be, hatályon kívül helyezte az 51/2012. (VIII. 31.) NFM rendelet 12. § d) pontja.

@@ -18,9 +18,9 @@ c) a vásárlás időpontjában az egységnyi hőmennyiségre vonatkozó díjnak
 
 ## a szorzataként kell meghatározni. Az alapdíj fizetése a következő vásárlás alkalmával utólag történik, az előző vásárlás óta eltelt időszakban érvényes alapdíjak összegzésével. A megkezdett hónap egész hónapnak számít.
 
-(6)[^78] A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabályozás során alkalmazott árfolyamok mértékét a 2. melléklet tartalmazza. A 2. melléklet szerinti árfolyamok mértékét negyedévente felül kell vizsgálni.
+(6)[^79] A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabályozás során alkalmazott árfolyamok mértékét a 2. melléklet tartalmazza. A 2. melléklet szerinti árfolyamok mértékét negyedévente felül kell vizsgálni.
 
-(7)[^79] Az egyetemes szolgáltató által alkalmazandó díjak változása esetén az egyetemes szolgáltató köteles az új díjak hatálybalépését követő időszakra előzetesen kibocsátott számlákat a díjak hatálybalépését követő 30 napon belül helyesbíteni az új díjak alkalmazásával.
+(7)[^80] Az egyetemes szolgáltató által alkalmazandó díjak változása esetén az egyetemes szolgáltató köteles az új díjak hatálybalépését követő időszakra előzetesen kibocsátott számlákat a díjak hatálybalépését követő 30 napon belül helyesbíteni az új díjak alkalmazásával.
 
-[^78]: A 17. § (6) bekezdését a 18/2010. (XII. 3.) NFM rendelet 1. §-a iktatta be, szövege a 12/2015. (III. 31.) NFM rendelet 1. §-ával megállapított szöveg.
-[^79]: A 17. § (7) bekezdését a 78/2012. (XII. 22.) NFM rendelet 10. §-a iktatta be.
+[^79]: A 17. § (6) bekezdését a 18/2010. (XII. 3.) NFM rendelet 1. §-a iktatta be, szövege a 12/2015. (III. 31.) NFM rendelet 1. §-ával megállapított szöveg.
+[^80]: A 17. § (7) bekezdését a 78/2012. (XII. 22.) NFM rendelet 10. §-a iktatta be.
