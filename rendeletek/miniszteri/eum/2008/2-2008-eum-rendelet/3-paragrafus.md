@@ -10,7 +10,7 @@ d)[^5] a gyógyászati célra engedélyezett, a hatályos Magyar Gyógyszerköny
 
 e)[^6] a Gyógyszerkönyvben, a hatályos Szabványos Vényminták Gyűjteményében (Formulae Normales, a továbbiakban: Fo-No) és az Állatgyógyászati Szabványos Vénymintákban szereplő magisztrális gyógyszerek;
 
-f)[^7] az orvosi vényen rendelt egyedi összetételű (magisztrális) gyógyszerek és a gyógyszertár labornaplójának „Gyógyszertári manuális” mellékletében szereplő saját előállítású magisztrális készítmények;
+f)[^7] az orvosi vényen és megrendelőlapon rendelt egyedi összetételű (magisztrális) gyógyszerek és a gyógyszertár labornaplójának „Gyógyszertári manuális” mellékletében szereplő saját előállítású magisztrális készítmények;
 
 g)[^8] a speciális gyógyászati célra szánt tápszerekről szóló 24/2003. (V. 9.) ESZCSM rendelet 2. § (2) bekezdés a) és b) pontja szerinti tápszerek;
 
@@ -26,7 +26,7 @@ g)[^8] a speciális gyógyászati célra szánt tápszerekről szóló 24/2003. 
 [^4]: A 3. § (1) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 95. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (2) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés e) pontja a 3/2015. (I. 14.) EMMI rendelet 22. §-ával megállapított szöveg.
-[^7]: A 3. § (1) bekezdés f) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdés f) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 28. §-a szerint módosított szöveg.
 [^8]: A 3. § (1) bekezdés g) pontja a 48/2011. (VII. 27.) NEFMI rendelet 4. §-ával megállapított szöveg.
 [^9]: A 3. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 31. § (5) bekezdésével megállapított, az 56/2013. (VII. 31.) EMMI rendelet 39. §-a szerint módosított szöveg.
 [^10]: A 3. § (3) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 34. § (2) bekezdése hatályon kívül helyezte.
