@@ -6,4 +6,6 @@
 
 (3) Amennyiben a típusvizsgálattal érintett pénztárgép sajátosságaiból adódóan külső helyszínen történő vizsgálat lefolytatása indokolt, a vizsgálat lebonyolításához szükséges feltételeket – ideértve a vizsgálat lebonyolításához szükséges helyszínt – a forgalmazónak kell biztosítania. A külső helyszínen történő vizsgálattal összefüggésben felmerülő valamennyi költséget a forgalmazó viseli.
 
-(4) A típusvizsgálat lefolytatásához szükséges szerviz- és programozó kulcsot a forgalmazó köteles az engedélyező hatóság rendelkezésére bocsátani.
+(4)[^17] A típusvizsgálat lefolytatásához a forgalmazó köteles minden olyan feltételt az engedélyező hatóság számára biztosítani, amely a vizsgált pénztárgép e rendelet szerinti működésének ellenőrzéséhez szükséges.
+
+[^17]: A 13. § (4) bekezdése a 9/2016. (III. 25.) NGM rendelet 7. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 63. §[^3] Az Art. 176/F. § (4) bekezdése szerinti esetben az állami adó- és vámhatóság a pénztárgép bevonásáig a pénztárgépet – az 5. melléklet 9. pontjában foglaltak szerint – blokkolhatja. A pénztárgép blokkolt állapotba helyezése a pénztárgép bevonásának idejébe beleszámít.
+## 63. §[^91] Az Art. 176/F. § (4) bekezdése szerinti esetben az állami adó- és vámhatóság a pénztárgép bevonásáig a pénztárgépet – az 5. melléklet 9. pontjában foglaltak szerint – blokkolhatja. A pénztárgép blokkolt állapotba helyezése a pénztárgép bevonásának idejébe beleszámít.
 
 ## 17. A pénztárgép engedélyeztetésével összefüggő díjfizetés részletszabályai
 
@@ -20,4 +20,4 @@ bc) módosítás sorszáma.
 
 (4) A Hatóság döntése ellen benyújtott fellebbezés díja a 2. mellékletben meghatározott igazgatási szolgáltatási díj 50%-a, amelyet a fellebbezés benyújtásával egyidejűleg kell a (2) bekezdésben meghatározott módon befizetni.
 
-[^3]: A 63. § a 24/2014. (VII. 31.) NGM rendelet 4. §-a szerint módosított szöveg.
+[^91]: A 63. § a 24/2014. (VII. 31.) NGM rendelet 4. §-a szerint módosított szöveg.

@@ -1,11 +1,25 @@
-## 22. § Az engedélyező hatóság a forgalmazási engedélyt visszavonja, ha a forgalmazó
+22. §[^20] (1) Ha a forgalmazó
 
-a) meg nem engedett funkcióval rendelkező pénztárgépet forgalmaz vagy meg nem engedett funkció kialakításában közreműködik,
+a) az engedélyezettől eltérő pénztárgépet hoz forgalomba,
 
-b) egyébként az engedélyezettől eltérő pénztárgépet hoz forgalomba,
+b) a jogszabályi előírásoknak nem megfelelő pénztárgépet hoz forgalomba,
 
-c) nem tesz eleget a 24. § (3) bekezdésében foglaltaknak,
+c) nem felel meg az 5. § (3) bekezdésében foglaltaknak,
 
-d) a pénztárgépet nem vagy nem az e rendeletnek megfelelő AP-számmal látja el,
+## az engedélyező hatóság legfeljebb 30 napos határidő tűzésével felhívja a jogellenes állapot megszüntetésére.
 
-e) nem tesz eleget az etalon példány megőrzésére vonatkozó kötelezettségének.
+(2) Az (1) bekezdés szerinti határidő egy alkalommal, legfeljebb 30 nappal meghosszabbítható.
+
+(3) Ha
+
+a) az (1) bekezdés szerinti jogellenes állapot nem szüntethető meg,
+
+b) a forgalmazó nem gondoskodik a 24. § (3) bekezdésében foglaltak teljesítéséről,
+
+## az engedélyező hatóság a pénztárgéptípus forgalmazási engedélyét visszavonja.
+
+(4) A visszavont forgalmazási engedélyű pénztárgép a forgalmazási engedély visszavonásáról szóló határozat jogerőre emelkedésétől számított 5 évig üzemeltethető.
+
+(5) A (4) bekezdéstől eltérően a visszavont forgalmazási engedélyű pénztárgép a forgalmazási engedély visszavonásáról szóló határozat jogerőre emelkedésének napjától nem üzemeltethető, ha a jogellenes állapot befolyásolja az online pénztárgép adózással összefüggő funkcióinak működését.
+
+[^20]: A 22. § a 9/2016. (III. 25.) NGM rendelet 10. §-ával megállapított szöveg.

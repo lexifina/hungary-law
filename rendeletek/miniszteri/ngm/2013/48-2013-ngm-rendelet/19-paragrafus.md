@@ -2,12 +2,18 @@
 
 19. § (1) A típusvizsgálat megállapításai alapján az engedélyező hatóság határozattal dönt a forgalmazási engedély megadásáról vagy az engedély iránti kérelem elutasításáról.
 
-(2) A forgalmazást engedélyező határozat a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon kívül a következőket tartalmazza:
+(2)[^18] A forgalmazást engedélyező határozat a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon kívül a következőket tartalmazza:
 
-a) a forgalmazó neve, székhelye, adószáma,
+a) a forgalmazó, illetve az AEE gyártó neve, székhelye, adószáma,
 
 b) a forgalmazható pénztárgép típusának pontos megnevezése,
 
 c) a forgalmazási engedély száma,
 
-d) forgalmazási engedély módosítása, kiterjesztése esetén a módosítás, kiterjesztés száma, a módosítás, kiterjesztés mibenlétének egyértelmű megnevezése, valamint az az időtartam, amely alatt a korábban üzembe helyezett és a módosításkor is üzemelő pénztárgépek szoftverét le kell cserélni az újonnan engedélyezettre.
+d) forgalmazási engedély módosítása, kiterjesztése esetén a módosítás, kiterjesztés száma, a módosítás, kiterjesztés mibenlétének egyértelmű megnevezése, valamint az az időtartam, amely alatt a korábban üzembe helyezett és a módosításkor is üzemelő pénztárgépek szoftverét le kell cserélni az újonnan engedélyezettre,
+
+e) amennyiben a forgalmazható pénztárgép a 3. melléklet G) alcíme szerinti speciális pénztárgép, az erre való utalást és a jellemző kategória vagy kategóriák megnevezését,
+
+f) az AEE gyártója által a forgalmazó részére kiadott igazolásában szereplő, az AEE szervizelését végző székhely, telephely vagy fióktelep adatait.
+
+[^18]: A 19. § (2) bekezdése a 9/2016. (III. 25.) NGM rendelet 8. §-ával megállapított szöveg.

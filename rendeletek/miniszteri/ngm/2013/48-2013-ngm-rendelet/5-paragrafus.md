@@ -9,3 +9,7 @@ a) aki (amely) nem áll végrehajtási, csőd-, felszámolási vagy kényszertö
 b) aki (amely) nem áll adószám-felfüggesztés, -törlés, vagy fokozott adóhatósági felügyelet hatálya alatt,
 
 c) akinek (amelynek) nincs az állami adó- és vámhatóság felé fennálló adó-, illetve vámtartozása, társadalombiztosítási járulék tartozása, ide nem értve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek.
+
+(4)[^11] A pénztárgép forgalmazása csak abban az esetben engedélyezhető, ha a pénztárgéppel rögzített és tárolt bizonylatok megfelelnek a jogszabályi követelményeknek.
+
+[^11]: Az 5. § (4) bekezdését a 9/2016. (III. 25.) NGM rendelet 4. §-a iktatta be.

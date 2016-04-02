@@ -1,12 +1,10 @@
-## 7. § A központi kommunikációs egységgel kiszolgált adóügyi ellenőrző egység rendszerek engedélyezésének jelen alcímben foglaltaktól eltérő szabályait a 11. melléklet tartalmazza.
-
 ## 2. Forgalmazási engedély megadására irányuló eljárás kezdeményezése
 
 8. § (1) A pénztárgép forgalmazási engedélyének megadására irányuló eljárás a Hatósághoz benyújtott írásbeli kérelemmel kezdeményezhető.
 
-(2) A kérelemnek tartalmaznia kell:
+(2)[^13] A kérelemnek tartalmaznia kell:
 
-a) a forgalmazó nevét, székhelyét, adószámát,
+a) a forgalmazó és az AEE gyártó nevét, székhelyét, adószámát,
 
 b) az engedélyeztetni kívánt pénztárgép, pénztárgéprendszer
 
@@ -14,17 +12,19 @@ ba) egyértelmű megnevezését (25 karakter terjedelemben), amely a már érvé
 
 bb) gyártójának nevét és székhelyét,
 
-bc) adóügyi ellenőrző egysége felhasználói programjának megnevezését, verziószámát, ellenőrző számát,
+bc) AEE felhasználói programjának megnevezését, verziószámát, ellenőrző számát,
 
-c) számítógép alapú pénztárgép esetén a felhasználói program megnevezését, gyártójának nevét és székhelyét, a program által használt adatbázis kezelő megnevezését, verziószámát,
+c) számítógép alapú pénztárgép esetén a felhasználói program megnevezését, gyártójának nevét és székhelyét, a program által használt adatbázis-kezelő megnevezését, verziószámát,
 
-d) cégszerű aláírást, elérhetőséget (kapcsolattartó telefonos elérhetősége).
+d) a forgalmazó, az AEE gyártó és az AEE magyarországi szervizelését ellátó székhely, telephely vagy fióktelep (a továbbiakban: kijelölt szerviz) közös nyilatkozatát a hatósági kiolvasás végzésére jogosult szerviz kijelöléséről és a hatósági kiolvasás helyszínéről,
+
+e) cégszerű aláírást, elérhetőséget (kapcsolattartó telefonos elérhetősége).
 
 (3) A kérelemhez csatolni kell az igazgatási szolgáltatási díj megfizetésére vonatkozó készpénzátutalási megbízás (csekk) tőpéldányát, vagy az átutalás megindításának megtörténtét tanúsító hitelintézeti igazolást.
 
 (4) A kérelemhez mellékelni kell az alábbi eszközöket és magyar nyelvű dokumentációkat:
 
-a) 1 db adóügyi ellenőrző egység és nyilatkozat arról, hogy a berendezés megfelel az e rendeletben előírt feltételeknek,
+a)[^14] 1 db AEE és AEE gyártói nyilatkozat arról, hogy a berendezés megfelel az e rendeletben előírt feltételeknek, a kijelölt szerviz adatait, elérhetőségét,
 
 b) a pénztárgép és perifériái (kijelzők, billentyűzet, nyomtató, vonalkód olvasó, bankkártya olvasó, stb.) azonosításához szükséges adatok külön-külön feltüntetve (típus vagy rendszer megnevezése, gyártó neve és székhelye), és nyilatkozat arról, hogy a berendezések megfelelnek az e rendeletben előírt feltételeknek,
 
@@ -44,7 +44,9 @@ fc) az átadott ellenőrző médiák vírusmentesek,
 
 g) nyilatkozat a felhasználó részére a számlanyomtatás funkció megléte esetén arról, hogy a számlakészítés megfelel az adójogszabályokban előírt követelményeknek,
 
-h) gyártói nyilatkozat, amely szerint az adóügyi ellenőrző egység adattároló egysége legalább 16 milliárd karaktert képes tárolni, 100 millió karakternél kevesebb memóriahely esetén a berendezés rendszeresen figyelmeztet a tároló megtelésére.
+h) gyártói nyilatkozat, amely szerint az adóügyi ellenőrző egység adattároló egysége legalább 16 milliárd karaktert képes tárolni, 100 millió karakternél kevesebb memóriahely esetén a berendezés rendszeresen figyelmeztet a tároló megtelésére,
+
+i)[^15] az AEE gyártó igazolása a kijelölt szerviz adatairól.
 
 (5) A gyógyszertárakban használható gyógyszerellátási áruforgalmi és társadalombiztosítási elszámolási számítógépes rendszerek (felhasználói programok) esetében a (4) bekezdésben meghatározottakon túl a kérelemhez mellékelni kell az Országos Egészségbiztosítási Pénztár által kiadott, külön jogszabályban meghatározott hitelesítési jegyzőkönyvet is.
 
@@ -89,3 +91,7 @@ f) a nyitott napló fájl megjelenítésére szolgáló szerviz eszközöket,
 g) az elektronikus naplófájlok archiválási folyamatának leírását, az archivált fájlok megjelenítésére szolgáló eszközöket.
 
 (9) A (4)–(8) bekezdésben meghatározott dokumentációt, valamint a 9. §-ban meghatározott kezelői leírást és technikai funkció leírást valamennyi pénztárgép esetén elektronikus adathordozón, elektronikusan szövegszerűen kereshető – nem képi – formátumban (Portable Document Format) kell benyújtani.
+
+[^13]: A 8. § (2) bekezdése a 9/2016. (III. 25.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^14]: A 8. § (4) bekezdés a) pontja a 9/2016. (III. 25.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^15]: A 8. § (4) bekezdés i) pontját a 9/2016. (III. 25.) NGM rendelet 6. § (3) bekezdése iktatta be.
