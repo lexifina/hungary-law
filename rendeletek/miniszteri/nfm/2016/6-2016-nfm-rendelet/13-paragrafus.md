@@ -1,4 +1,4 @@
-## 12. § Az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló 53/2014. (XII. 13.) NFM rendelet 2. § 10. pontjában az „a műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló jogszabály” szövegrész helyébe az „a miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelöléséről szóló jogszabály” szöveg lép.
+## 12. §[^11]
 
 ## 7. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) Az 5. alcím 2016. április 7-én lép hatályba.
 
 (3) A 6. § a)–b) és e) pontjai 2016. október 1-jén lépnek hatályba.
+
+[^11]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

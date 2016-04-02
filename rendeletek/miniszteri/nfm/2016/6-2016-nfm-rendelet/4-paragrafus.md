@@ -1,1 +1,0 @@
-## 3. § A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet (a továbbiakban: R2.) 6. § (1) bekezdésében az „az egyetemes szolgáltatók részére” szövegrész helyébe az „a GET 141/A. § és a GET 141/J. § szerinti földgázforrások esetében az egyetemes szolgáltatók részére” szöveg lép.
