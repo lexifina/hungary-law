@@ -1,1 +1,0 @@
-## „(6) A 4. § (1) bekezdés b) pontja szerinti személygépkocsi esetében a (2) bekezdés szerinti kölcsönszerződés megkötésére abban az esetben van lehetőség, ha a személygépkocsit a belföldi kereskedelmi forgalomban személygépkocsik értékesítésével foglalkozó, adószámmal rendelkező szervezettől vagy személytől vásárolják meg.”
