@@ -1,0 +1,7 @@
+## 16. § A Rendelet 35. §-a helyébe a következő rendelkezés lép:
+
+## „35. § (1) A műszerészi igazolványra vonatkozó rendelkezéseket – a 32. § és a 34. § (1) bekezdés a)–c) és i) pontja, valamint (7) bekezdése kivételével – a plombanyomóra is megfelelően alkalmazni kell azzal, hogy ahol a rendelkezés műszerészi igazolványt említ, azon plombanyomót kell érteni.
+
+## (2) Ha a műszerész 30 napig nem rendelkezik érvényes műszerészi igazolvánnyal, illetve ez alatt az idő alatt új igazolvány kiállítása iránti kérelmet a szerviz nem nyújtott be, akkor a műszerész a plombanyomót legkésőbb
+
+## a 30. nap lejártát követő munkanapon köteles leadni az állami adóhatóság bármelyik ügyfélszolgálatán.”
