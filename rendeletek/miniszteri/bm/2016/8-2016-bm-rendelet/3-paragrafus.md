@@ -1,1 +1,0 @@
-## „(5) Ha a hivatásos konzuli szolgálatnál az EAK rendszer használatához szükséges infrastruktúra átmenetileg nem áll rendelkezésre, a hivatásos konzuli tisztviselő a hazai anyakönyvezésre irányuló kérelmeket és azok mellékleteit diplomáciai postával továbbítja a hazai anyakönyvezést végző hatóságnak.”
