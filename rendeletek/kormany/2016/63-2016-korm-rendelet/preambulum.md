@@ -1,1 +1,0 @@
-A Kormány a menedékjogról szóló 2007. évi LXXX. törvény 93. § (2) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva a következőket rendeli el:
