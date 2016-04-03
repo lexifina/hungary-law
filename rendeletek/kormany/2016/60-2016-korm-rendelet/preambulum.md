@@ -1,1 +1,0 @@
-A Kormány a statisztikáról szóló 1993. évi XLVI. törvény 26. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
