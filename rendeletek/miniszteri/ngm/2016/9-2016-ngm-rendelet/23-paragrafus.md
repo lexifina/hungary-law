@@ -1,1 +1,0 @@
-## „(10) A változó telephelyen, mozgóboltban vagy mozgó szolgáltató helyen működő pénztárgépként csak hordozható pénztárgép helyezhető üzembe, illetve már működő pénztárgép üzemeltetési módja csak hordozható pénztárgép esetén változtatható meg ezen módokra.”

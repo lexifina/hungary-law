@@ -1,1 +1,0 @@
-## „(4) A forgalmazó és az AEE gyártó akkor állítja ki a tanúsítványt, ha meggyőződött arról, hogy a műszerész elsajátította az általa forgalmazott pénztárgéptípus aktuális verziószámának szervizeléséhez szükséges speciális ismereteket.”

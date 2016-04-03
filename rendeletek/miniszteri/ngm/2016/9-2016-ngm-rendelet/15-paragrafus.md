@@ -1,3 +1,0 @@
-## 14. § A Rendelet 34. §-a a következő (7) bekezdéssel egészül ki:
-
-## „(7) Érvénytelenné vált műszerészi igazolvány újbóli kiállítására vonatkozóan a műszerészi igazolvány első alkalommal történő kiállítása iránti kérelemre vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy az Art. 176/E. § (2) bekezdés a) pontjában meghatározott feltételnek való megfelelést igazoló hatósági bizonyítványt nem kell mellékelni, amennyiben az érvénytelenség oka az (1) bekezdés b) pontja szerinti adatváltozás, és az új műszerészi igazolvány kiállítása iránti kérelmet a változás határidőben történt bejelentését követő 5 napon belül terjesztik elő.”

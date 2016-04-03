@@ -1,3 +1,0 @@
-## „18a. szolgáltatóhely: szolgáltatási tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség vagy terület, ahol szolgáltatási tevékenységet folytatnak, ideértve a szolgáltatási tevékenység folytatására kialakított járművet, illetve járműre szerelt vagy általa vontatott eszközt, illetve amennyiben a szolgáltatás jellege nem igényel külön helyiséget, akkor a pénzátvétel helye,
-
-## 18b. tartalék pénztárgép: az üzemeltető nevére üzembe helyezett, de csak más, nem tartalék pénztárgépének meghibásodása esetén vagy egyéb rendkívüli esetben működtetett pénztárgép.”
