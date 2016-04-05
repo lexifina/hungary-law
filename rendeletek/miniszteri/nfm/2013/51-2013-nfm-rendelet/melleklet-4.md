@@ -1,33 +1,3 @@
-## Az OAH-nak fizetendő igazgatási szolgáltatási díjak
-
-| A | B |
-
-|  |  | ezer forint |
-
-| 1. | Hasadó-engedményes szintet meghaladó maximális hasadóanyag- mennyiség szállítására tervezett küldeménydarab mintája: |  |
-
-| 1.1. | új engedélyokirat kiadása | 1638 |
-
-| 1.2. | érvényes engedélyokirat meghosszabbítása, valamint érvényességi záradék kiadása | 975 |
-
-| 2. | Nem hasadó, valamint legfeljebb a hasadó-engedményes szintnek megfelelő maximális hasadóanyag-mennyiség szállítására tervezett B(U), B(M) és C típusú, továbbá a legalább 0,1 kg nem hasadó, vagy hasadó-engedményes urán-hexafluoridot tartalmazó küldeménydarab mintája: |  |
-
-| 2.1. | új engedélyokirat kiadása | 1371 |
-
-| 2.2. | érvényes engedélyokirat meghosszabbítása, valamint érvényességi záradék kiadása | 819 |
-
-| 3. | Kis mértékben diszpergálódó radioaktív anyag mintája: új engedélyokirat kiadása, valamint érvényes engedélyokirat meghosszabbítása | 773 |
-
-| 4. | Különleges formájú radioaktív anyag mintája: új engedélyokirat kiadása, valamint érvényes engedélyokirat meghosszabbítása | 506 |
-
-| 5. | Hasadó-engedményes szintet meghaladó maximális hasadóanyag- mennyiség külön megegyezés szerinti szállítás engedélyezése | 883 |
-
-| 6. | Nem hasadó, valamint legfeljebb a hasadó-engedményes szintnek megfelelő maximális hasadóanyag-mennyiség külön megegyezés szerinti szállítás engedélyezése | 506 |
-
-| 7. | A1 és A2 értékek számításának jóváhagyása | 303 |
-
-| 8. | Ha a veszélyes áruk szállításáról szóló jogszabályok a szállítást külön engedélyhez kötik, a szállítás engedélyezése | 506 |
-
 4. melléklet az 51/2013. (IX. 6.) NFM rendelethez
 
 Radioaktív anyagok szállítása során bekövetkező baleset vagy a radioaktív anyag szállításával kapcsolatos rendkívüli esemény bejelentése az Országos Atomenergia Hivatal számára (az eseményt követő 10 órán belül)
