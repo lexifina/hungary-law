@@ -1,0 +1,3 @@
+3. § (1) Ha a bírósági jogorvoslati eljárás során megállapítják, hogy, az OAH által hozott határozat az ügyfél hátrányára részben vagy egészben jogszabálysértő, a megfizetett díjat az ügyfélnek teljes mértékben vissza kell téríteni.
+
+(2) Ha a kérelmező eljárás megindítása nélkül fizetett díjat, vagy az eljárásért fizetendő összegnél magasabb díjat fizetett, akkor a befizetési bizonylattal vagy annak másolatával kérheti a befizetett díj vagy a díjtöbblet visszatérítését. Az eljáró hatóság a visszatérítési igényt ellenőrzi, és az eljárás megindítása nélkül befizetett díjat vagy a díjtöbbletet visszatéríti.

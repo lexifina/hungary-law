@@ -1,0 +1,7 @@
+## 1. § E rendelet hatálya az Országos Atomenergia Hivatalnak (a továbbiakban: OAH) az atomenergia alkalmazásával összefüggő eljárásaira, a radioaktív anyagok szállításával, fuvarozásával és csomagolásával, radioaktív anyagok közúti szállításának engedélyezésére, az ionizáló sugárzást létrehozó létesítményekkel, berendezésekkel, tevékenységekkel, eszköz, berendezés vagy az ionizáló sugárzás elleni védőeszköz sugárvédelmi minősítésével, sugárvédelmi képzéssel, személyi dozimetriai ellenőrzéssel és a belső sugárterhelés meghatározásával kapcsolatos, kérelemre lefolytatott eljárásaira terjed ki.
+
+2. § (1) Az atomenergia alkalmazója az 1. és 2. mellékletben szereplő igazgatási szolgáltatási díjat (a továbbiakban: igazgatási szolgáltatási díj) köteles megfizetni az OAH-nak. A 2. mellékletben szereplő igazgatási szolgáltatási díjak magukba foglalják az OAH által az eljárásba bevont szakértők díját is. Az 1. melléklet szerinti igazgatási szolgáltatási díjak tartalmazzák a tényállás tisztázásához szükséges, az OAH által végzett műszeres (laboratóriumi vagy más speciális eszköz használatát igénylő) vizsgálat költségét.
+
+(2) Az igazgatási szolgáltatási díjat az eljárást kezdeményező fél az eljárás megindításakor köteles az OAH 10032000-01409268-00000000 számú fizetési számlájára átutalással megfizetni. Az igazgatási szolgáltatási díj megfizetését a kérelem benyújtásakor igazolni kell.
+
+(3) Az OAH a bevételeket a nyilvántartásában elkülönítetten vezeti.
