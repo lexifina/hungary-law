@@ -1,12 +1,12 @@
-## 12. §[^22]
+## 12. §[^23]
 
-13. §[^23] (1) Az ellenőrzött szerv vezetője az intézkedési tervek teljesüléséről félévente, minden év március 31-éig és szeptember 30-áig tájékoztatást ad a főigazgató részére a Főigazgatóság ellenőrzési jelentése alapján készített intézkedési tervben foglaltak időarányos teljesítéséről a megvalósítást alátámasztó dokumentumok mellékelésével.
+13. §[^24] (1) Az ellenőrzött szerv vezetője az intézkedési tervek teljesüléséről félévente, minden év március 31-éig és szeptember 30-áig tájékoztatást ad a főigazgató részére a Főigazgatóság ellenőrzési jelentése alapján készített intézkedési tervben foglaltak időarányos teljesítéséről a megvalósítást alátámasztó dokumentumok mellékelésével.
 
-(2)[^24] A Főigazgatóság minden év december 15-ig az államháztartásért felelős miniszter útján beszámol a Kormány számára a tárgyévet megelőző év július 1-je és a tárgyév június 30-a között elvégzett ellenőrzésekről.
+(2)[^25] A Főigazgatóság minden év december 15-ig az államháztartásért felelős miniszter útján beszámol a Kormány számára a tárgyévet megelőző év július 1-je és a tárgyév június 30-a között elvégzett ellenőrzésekről.
 
-(3)[^25] A Főigazgatóság az éves ellenőrzési tervét és annak módosításait azok jóváhagyását követő 5 napon belül megküldi az európai uniós források felhasználásáért felelős miniszter, az irányító hatóság, a Széchenyi Programiroda Nonprofit Kft. és a kincstár részére.
+(3)[^26] A Főigazgatóság az éves ellenőrzési tervét és annak módosításait azok jóváhagyását követő 5 napon belül megküldi az európai uniós források felhasználásáért felelős miniszter, az irányító hatóság, a Széchenyi Programiroda Nonprofit Kft. és a kincstár részére.
 
-[^22]: A 12. §-t a 206/2012. (VII. 27.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^23]: A 13. § a 113/2011. (VII. 7.) Korm. rendelet 53. §-ával megállapított szöveg.
-[^24]: A 13. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 477. § b) pontja szerint módosított szöveg.
-[^25]: A 13. § (3) bekezdését a 206/2012. (VII. 27.) Korm. rendelet 3. §-a iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 59. §-a, a 221/2014. (IX. 4.) Korm. rendelet 477. § c) pontja szerint módosított szöveg.
+[^23]: A 12. §-t a 206/2012. (VII. 27.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^24]: A 13. § a 113/2011. (VII. 7.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^25]: A 13. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 477. § b) pontja szerint módosított szöveg.
+[^26]: A 13. § (3) bekezdését a 206/2012. (VII. 27.) Korm. rendelet 3. §-a iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 59. §-a, a 221/2014. (IX. 4.) Korm. rendelet 477. § c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Az európai uniós és nemzetközi támogatások ellenőrzésének eljárásrendje
 
-6. §[^11] (1) A Főigazgatóság az európai uniós és a nemzetközi támogatásokkal kapcsolatos ellenőrzési tevékenységét a vonatkozó uniós és nemzeti jogszabályok, valamint a nemzetközi ellenőrzési standardok szerint elkészített, a Főigazgatóság főigazgatója által jóváhagyott ellenőrzési kézikönyv szerint végzi.
+6. §[^12] (1) A Főigazgatóság az európai uniós és a nemzetközi támogatásokkal kapcsolatos ellenőrzési tevékenységét a vonatkozó uniós és nemzeti jogszabályok, valamint a nemzetközi ellenőrzési standardok szerint elkészített, a Főigazgatóság főigazgatója által jóváhagyott ellenőrzési kézikönyv szerint végzi.
 
 (2) Az ellenőrzési tevékenysége kapcsán a Főigazgatóság funkcionális függetlenséggel rendelkezik, különösen az alábbiak tekintetében:
 
@@ -18,10 +18,10 @@ f) az ellenőrzési jelentések, az éves ellenőrzési jelentések és a záró
 
 g) az éves vélemények, valamint a zárónyilatkozatok kiadása,
 
-h)[^12] humánpolitikai döntések (ide nem értve létszámkeret meghatározását), valamint
+h)[^13] humánpolitikai döntések (ide nem értve létszámkeret meghatározását), valamint
 
-i)[^13] az informatikai alkalmazások kiválasztása.
+i)[^14] az informatikai alkalmazások kiválasztása.
 
-[^11]: A 6. § a 113/2011. (VII. 7.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^12]: A 6. § (2) bekezdés h) pontját az 545/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
-[^13]: A 6. § (2) bekezdés i) pontját az 545/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A 6. § a 113/2011. (VII. 7.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^13]: A 6. § (2) bekezdés h) pontját az 545/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 6. § (2) bekezdés i) pontját az 545/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.

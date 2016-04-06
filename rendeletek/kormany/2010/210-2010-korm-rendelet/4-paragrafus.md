@@ -30,6 +30,9 @@ d) a transznacionális Duna Programmal
 
 (3) Az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről szóló 1605/2002/EK (2002. június 25.) Rendelet 53b cikkének (3) bekezdésében, valamint az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről szóló 1605/2002/EK Rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2342/2002/EK Rendelet 42a cikkében foglaltak teljesítése érdekében a Főigazgatóság minden év február 15-ig – az Európai Bizottság módszertani iránymutatásainak megfelelően – összegzi a rendelkezésére álló ellenőrzési jelentéseket, véleményeket, igazolásokat és nyilatkozatokat. A feladat végrehajtása érdekében az államháztartásért felelős miniszter megküldi a Főigazgatóság részére az egyéb jogszabályok alapján számára megküldött jelentéseket, véleményeket, igazolásokat, és nyilatkozatokat, melyek a Főigazgatóságnak nem állnak rendelkezésére.
 
+(4)[^9] A Főigazgatóság ellátja az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló kormányrendeletben meghatározott ellenőrzési hatósági feladatokat.
+
 [^6]: A 3/A. §-t a 113/2011. (VII. 7.) Korm. rendelet 48. §-a iktatta be, szövege a 206/2012. (VII. 27.) Korm. rendelet 1. §-ával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 65. §-a szerint módosított szöveg.
 [^7]: A 4. § (2a) bekezdését a 545/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^8]: A 4. § (2a) bekezdés a) pontja a 214/2014. (VIII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 4. § (4) bekezdését a 75/2016. (IV. 5.) Korm. rendelet 53. §-a iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
