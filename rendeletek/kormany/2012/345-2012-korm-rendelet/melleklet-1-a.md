@@ -1,4 +1,4 @@
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^141]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^142]
 
 ## A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások listája
 
@@ -127,6 +127,8 @@
 1.61. Nagykanizsa délkeleti elkerülő megvalósítása.
 
 1.62. Sopron északnyugati elkerülő megvalósítása.
+
+1.63.[^143] Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
 
 2. Vasúti közlekedési projektek
 
@@ -286,4 +288,5 @@
 
 4.5. Vízi úti információs rendszer kiépítése.
 
-[^141]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be.
+[^142]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be.
+[^143]: Az 1/a. melléklet 1. pont 1.63. alpontját a 76/2016. (IV. 5.) Korm. rendelet 2. §-a iktatta be.

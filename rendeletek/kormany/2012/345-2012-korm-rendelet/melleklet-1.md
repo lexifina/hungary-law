@@ -418,6 +418,8 @@
 
 1.207.[^78] Sopron északnyugati elkerülő megvalósítása.
 
+1.208.[^79] Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
+
 2. Egyes országos vasúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
@@ -444,7 +446,7 @@
 
 2.12. A 25. számú vasútvonal, Zalalövő–Zalaegerszeg–Boba szakasz rekonstrukciója.
 
-2.13.[^79] A 25. számú vasútvonal, Bajánsenye–Boba ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.13.[^80] A 25. számú vasútvonal, Bajánsenye–Boba ETCS2 vonatbefolyásoló rendszer kiépítése.
 
 2.14. A 10. és 20. számú vasútvonalak Győr–Pápa–Celldömölk–Boba szakaszainak rekonstrukciója.
 
@@ -476,9 +478,9 @@
 
 2.28. A 142. számú vasútvonal, Kőbánya-Kispest–Lajosmizse–Kecskemét szakasz rekonstrukciója.
 
-2.29.[^80] Az 1. számú vasútvonal, Biatorbágy-Tata szakasz korszerűsítése és Budapest–Hegyeshalom ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.29.[^81] Az 1. számú vasútvonal, Biatorbágy-Tata szakasz korszerűsítése és Budapest–Hegyeshalom ETCS2 vonatbefolyásoló rendszer kiépítése.
 
-2.30.[^81] A 20. számú vasútvonal, Székesfehérvár–Veszprém–Boba vasútvonal korszerűsítése és ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.30.[^82] A 20. számú vasútvonal, Székesfehérvár–Veszprém–Boba vasútvonal korszerűsítése és ETCS2 vonatbefolyásoló rendszer kiépítése.
 
 2.31. Szolnok vasúti csomópont fejlesztése.
 
@@ -494,7 +496,7 @@
 
 2.37. Székesfehérvár vasúti csomópont fejlesztése.
 
-2.38.[^82] A 120. számú vasútvonal, Gyoma–Békéscsaba biztosítóberendezés korszerűsítése és Békéscsaba vasútállomás, Ferencváros–Lökösháza ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.38.[^83] A 120. számú vasútvonal, Gyoma–Békéscsaba biztosítóberendezés korszerűsítése és Békéscsaba vasútállomás, Ferencváros–Lökösháza ETCS2 vonatbefolyásoló rendszer kiépítése.
 
 2.39. Békéscsaba vasúti csomópont fejlesztése.
 
@@ -522,55 +524,55 @@
 
 2.51. A 120a számú vasútvonal, Nagykáta–Újszász szakasz, a 691+37 szelvényben lévő Ilike érhíd átépítése.
 
-2.52.[^83] Vác vasútállomás korszerűsítése.
+2.52.[^84] Vác vasútállomás korszerűsítése.
 
-2.53.[^84] A Budapest Liszt Ferenc nemzetközi repülőtér kötöttpályás kapcsolatának kialakítása.
+2.53.[^85] A Budapest Liszt Ferenc nemzetközi repülőtér kötöttpályás kapcsolatának kialakítása.
 
-2.54.[^85] A Déli Duna-híd korszerűsítése.
+2.54.[^86] A Déli Duna-híd korszerűsítése.
 
-2.55.[^86] Ferencváros–Székesfehérvár ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.55.[^87] Ferencváros–Székesfehérvár ETCS2 vonatbefolyásoló rendszer kiépítése.
 
-2.56.[^87] GSM-R távközlési hálózat kiépítése.
+2.56.[^88] GSM-R távközlési hálózat kiépítése.
 
-2.57.[^88] Érd közúti felüljáró építése
+2.57.[^89] Érd közúti felüljáró építése
 
-2.58.[^89] Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program 25 helyszínen (kormányablakok).
+2.58.[^90] Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program 25 helyszínen (kormányablakok).
 
-2.59.[^90] Infrastruktúra és gördülőállomány karbantartó szoftver és IT alkalmazás konszolidáció.
+2.59.[^91] Infrastruktúra és gördülőállomány karbantartó szoftver és IT alkalmazás konszolidáció.
 
-2.60.[^91] MÁV Zrt. közlekedésbiztonsági projektjei.
+2.60.[^92] MÁV Zrt. közlekedésbiztonsági projektjei.
 
-2.61.[^92] Sopron-Szombathely–Szentgotthárd ETCS2 vonatbefolyásoló rendszer kiépítése.
+2.61.[^93] Sopron-Szombathely–Szentgotthárd ETCS2 vonatbefolyásoló rendszer kiépítése.
 
-2.62.[^93] MÁV 200 férőhelyes motorvonatok beszerzése.
+2.62.[^94] MÁV 200 férőhelyes motorvonatok beszerzése.
 
-2.63.[^94] Szűk keresztmetszet kiváltás a MÁV hálózatán.
+2.63.[^95] Szűk keresztmetszet kiváltás a MÁV hálózatán.
 
-2.64.[^95] Vámosgyörk–Nagyút–Mezőkeresztes–Mezőnyárád szűk keresztmetszet kiváltás (állomások).
+2.64.[^96] Vámosgyörk–Nagyút–Mezőkeresztes–Mezőnyárád szűk keresztmetszet kiváltás (állomások).
 
-2.65.[^96] A 17. számú vasútvonal, Zalaszentiván–Nagykanizsa szűk keresztmetszet kiváltás és villamosítás.
+2.65.[^97] A 17. számú vasútvonal, Zalaszentiván–Nagykanizsa szűk keresztmetszet kiváltás és villamosítás.
 
-2.66.[^97] Vasúti vontatási energiaellátás fejlesztése a MÁV hálózatán.
+2.66.[^98] Vasúti vontatási energiaellátás fejlesztése a MÁV hálózatán.
 
-2.67.[^98] MÁV 300 férőhelyes motorvonatok beszerzése.
+2.67.[^99] MÁV 300 férőhelyes motorvonatok beszerzése.
 
-2.68.[^99] GYSEV motorvonat beszerzés.
+2.68.[^100] GYSEV motorvonat beszerzés.
 
-2.69.[^100] Keleti–Kőbánya-felső szűk keresztmetszet kiváltás.
+2.69.[^101] Keleti–Kőbánya-felső szűk keresztmetszet kiváltás.
 
-2.70.[^101] Közlekedésbiztonság javítási program a MÁV hálózatán II. ütem–Közlekedésbiztonságot és pályakapacitást növelő technológiai fejlesztések és eszközök.
+2.70.[^102] Közlekedésbiztonság javítási program a MÁV hálózatán II. ütem–Közlekedésbiztonságot és pályakapacitást növelő technológiai fejlesztések és eszközök.
 
-2.71.[^102] Hídrekonstrukciós program a MÁV hálózatán.
+2.71.[^103] Hídrekonstrukciós program a MÁV hálózatán.
 
-2.72.[^103] Elővárosi állomások, megállóhelyek fejlesztése és felújítása (TEN-T vonalak).
+2.72.[^104] Elővárosi állomások, megállóhelyek fejlesztése és felújítása (TEN-T vonalak).
 
-2.73.[^104] Budapest-Keleti pályaudvar épület-felújítás.
+2.73.[^105] Budapest-Keleti pályaudvar épület-felújítás.
 
-2.74.[^105] Budapest-Nyugati pályaudvar épület-felújítás.
+2.74.[^106] Budapest-Nyugati pályaudvar épület-felújítás.
 
-2.75.[^106] A 40. számú vasútvonal, Kelenföld-Pusztaszabolcs szakasz korszerűsítése és ETCS 2 vonatbefolyásoló rendszer kiépítése.
+2.75.[^107] A 40. számú vasútvonal, Kelenföld-Pusztaszabolcs szakasz korszerűsítése és ETCS 2 vonatbefolyásoló rendszer kiépítése.
 
-2.76.[^107] ETCS L2 fedélzeti berendezés felszerelése 59 db FLIRT típusú motorvonatra.
+2.76.[^108] ETCS L2 fedélzeti berendezés felszerelése 59 db FLIRT típusú motorvonatra.
 
 3. Egyes városi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
@@ -590,7 +592,7 @@
 
 3.8. A miskolci déli tehermentesítő út fejlesztése (visszakötés az Andrássy úthoz).
 
-3.9.[^108] A Budapest, 1-es villamosvonal rekonstrukciója és fejlesztése (meghosszabbítása az Etele térig; Fehérvári út–Kelenföld vasútállomás).
+3.9.[^109] A Budapest, 1-es villamosvonal rekonstrukciója és fejlesztése (meghosszabbítása az Etele térig; Fehérvári út–Kelenföld vasútállomás).
 
 3.10. A Budapest, 3-es villamosvonal rekonstrukciója és fejlesztése.
 
@@ -616,73 +618,73 @@
 
 3.21. Kaposvár Megyei Jogú Város intermodális pályaudvar és közösségi közlekedés fejlesztése.
 
-3.22.[^109] Nyíregyháza, 36. sz. főúttal párhuzamos kerékpárút építése.
+3.22.[^110] Nyíregyháza, 36. sz. főúttal párhuzamos kerékpárút építése.
 
-3.23.[^110] A jászfényszarui északi feltáró út megépítése.
+3.23.[^111] A jászfényszarui északi feltáró út megépítése.
 
-3.24.[^111] Budapest villamos- és trolibusz járműprojekt (kapcsolódó kocsiszín infrastruktúrával).
+3.24.[^112] Budapest villamos- és trolibusz járműprojekt (kapcsolódó kocsiszín infrastruktúrával).
 
-3.25.[^112] Budapest–Esztergom vasútvonal kiegészítő fejlesztések
+3.25.[^113] Budapest–Esztergom vasútvonal kiegészítő fejlesztések
 
-3.26.[^113] Rákosrendező–Esztergom vasútvonal villamosítása, biztosítóberendezés korszerűsítése
+3.26.[^114] Rákosrendező–Esztergom vasútvonal villamosítása, biztosítóberendezés korszerűsítése
 
-3.27.[^114] Kelenföld vasútállomás 8 vágány helyén P+R.
+3.27.[^115] Kelenföld vasútállomás 8 vágány helyén P+R.
 
-3.28.[^115] M4 metró, M1–M7 autópálya Kelenföldi pályaudvar átszállási csomópont.
+3.28.[^116] M4 metró, M1–M7 autópálya Kelenföldi pályaudvar átszállási csomópont.
 
-3.29.[^116] Helyi személyszállítás gördülőállományának fejlesztése.
+3.29.[^117] Helyi személyszállítás gördülőállományának fejlesztése.
 
-3.30.[^117] Elővárosi állomások, megállóhelyek fejlesztése és felújítása (nem TEN-T vonalak).
+3.30.[^118] Elővárosi állomások, megállóhelyek fejlesztése és felújítása (nem TEN-T vonalak).
 
-3.31.[^118] Külső Bécsi úti villamosvonal (Vörösvári út–Aranyvölgy).
+3.31.[^119] Külső Bécsi úti villamosvonal (Vörösvári út–Aranyvölgy).
 
-3.32.[^119] Újpalotai villamosvonal.
+3.32.[^120] Újpalotai villamosvonal.
 
-3.33.[^120] Kelenföld intermodális központ (Őrmező).
+3.33.[^121] Kelenföld intermodális központ (Őrmező).
 
-3.34.[^121] A Szeged–Hódmezővásárhely-Békéscsaba–Gyula szakasz rekonstrukciója és villamosítása.
+3.34.[^122] A Szeged–Hódmezővásárhely-Békéscsaba–Gyula szakasz rekonstrukciója és villamosítása.
 
-3.35.[^122] A Debrecen–Nyíradony szakasz korszerűsítése.
+3.35.[^123] A Debrecen–Nyíradony szakasz korszerűsítése.
 
-3.36.[^123] A Nyíradony–Mátészalka szakasz korszerűsítése.
+3.36.[^124] A Nyíradony–Mátészalka szakasz korszerűsítése.
 
-3.37.[^124] A Debrecen–Nyírábrány szakasz korszerűsítése.
+3.37.[^125] A Debrecen–Nyírábrány szakasz korszerűsítése.
 
-3.38.[^125] A Szeged–Hódmezővásárhely vasútvonal városi-elővárosi tram-train rendszer megvalósítása.
+3.38.[^126] A Szeged–Hódmezővásárhely vasútvonal városi-elővárosi tram-train rendszer megvalósítása.
 
-3.39.[^126] A városi közlekedési eszközváltási pontokhoz kapcsolódó P+R parkolók építése Budapesten.
+3.39.[^127] A városi közlekedési eszközváltási pontokhoz kapcsolódó P+R parkolók építése Budapesten.
 
-3.40.[^127] A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése.
+3.40.[^128] A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése.
 
-3.41.[^128] Megyei jogú városok vasútállomásai intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása megyeszékhelyek vasúti elővárosi körzetében.
+3.41.[^129] Megyei jogú városok vasútállomásai intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása megyeszékhelyek vasúti elővárosi körzetében.
 
-3.42.[^129] Rákospalota-Újpest–Veresegyház–Vác vasútvonal korszerűsítése.
+3.42.[^130] Rákospalota-Újpest–Veresegyház–Vác vasútvonal korszerűsítése.
 
-3.43.[^130] Hungária körút–Rákospalota-Újpest vasútvonal korszerűsítése.
+3.43.[^131] Hungária körút–Rákospalota-Újpest vasútvonal korszerűsítése.
 
-3.44.[^131] Kőbánya-Kispest–Lajosmizse–Kecskemét vasútvonal szűk keresztmetszet kiváltás és villamosítás.
+3.44.[^132] Kőbánya-Kispest–Lajosmizse–Kecskemét vasútvonal szűk keresztmetszet kiváltás és villamosítás.
 
-3.45.[^132] Szeged–Makó vasúti elővárosi közlekedés fejlesztése, vegyesforgalmú Tisza-híd építése.
+3.45.[^133] Szeged–Makó vasúti elővárosi közlekedés fejlesztése, vegyesforgalmú Tisza-híd építése.
 
-4.[^133] Egyes országos vízi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
+4.[^134] Egyes országos vízi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
 4.1. Győr–Gönyű Országos Közforgalmú Kikötő fejlesztése.
 
 4.2. Csepeli Országos Közforgalmú Kikötő fejlesztése.
 
-4.3.[^134] Baja Országos Közforgalmú Kikötő fejlesztése.
+4.3.[^135] Baja Országos Közforgalmú Kikötő fejlesztése.
 
-4.4.[^135] Budapesti Szabadkikötő mobil árvízvédelmi rendszerének kiépítése.
+4.4.[^136] Budapesti Szabadkikötő mobil árvízvédelmi rendszerének kiépítése.
 
-4.5.[^136] A magyarországi TEN-T belvízi út- és kikötői infrastruktúra fejlesztése.
+4.5.[^137] A magyarországi TEN-T belvízi út- és kikötői infrastruktúra fejlesztése.
 
-4.6.[^137] Dunai hajóút kitűzési rendszerének fejlesztése.
+4.6.[^138] Dunai hajóút kitűzési rendszerének fejlesztése.
 
-4.7.[^138] Új komáromi híd, Komárom–Komárno (Révkomárom) között.
+4.7.[^139] Új komáromi híd, Komárom–Komárno (Révkomárom) között.
 
-4.8.[^139] Hajóút fenntartási főterv.
+4.8.[^140] Hajóút fenntartási főterv.
 
-4.9.[^140] Vízi úti információs rendszer kiépítése.
+4.9.[^141] Vízi úti információs rendszer kiépítése.
 
 [^24]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^25]: Az 1. melléklet a 376/2013. (X. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -739,65 +741,66 @@
 [^76]: Az 1. melléklet 1. pont 1.205. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
 [^77]: Az 1. melléklet 1. pont 1.206. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
 [^78]: Az 1. melléklet 1. pont 1.207. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^79]: Az 1. melléklet 2. pont 2.13. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^80]: Az 1. melléklet 2. pont 2.29. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^81]: Az 1. melléklet 2. pont 2.30. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^82]: Az 1. melléklet 2. pont 2.38. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^83]: Az 1. melléklet 2. pont 2.52. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^84]: Az 1. melléklet 2. pont 2.53. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^85]: Az 1. melléklet 2. pont 2.54. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^86]: Az 1. melléklet 2. pont 2.55. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^87]: Az 1. melléklet 2. pont 2.56. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^88]: Az 1. melléklet 2. pont 2.57. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^89]: Az 1. melléklet 2. pont 2.58. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^90]: Az 1. melléklet 2. pont 2.59. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^91]: Az 1. melléklet 2. pont 2.60. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^92]: Az 1. melléklet 2. pont 2.61. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^93]: Az 1. melléklet 2. pont 2.62. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^94]: Az 1. melléklet 2. pont 2.63. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^95]: Az 1. melléklet 2. pont 2.64. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^96]: Az 1. melléklet 2. pont 2.65. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^97]: Az 1. melléklet 2. pont 2.66. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^98]: Az 1. melléklet 2. pont 2.67. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^79]: Az 1. melléklet 1. pont 1.208. alpontját a 76/2016. (IV. 5.) Korm. rendelet 1. §-a iktatta be.
+[^80]: Az 1. melléklet 2. pont 2.13. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^81]: Az 1. melléklet 2. pont 2.29. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^82]: Az 1. melléklet 2. pont 2.30. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^83]: Az 1. melléklet 2. pont 2.38. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^84]: Az 1. melléklet 2. pont 2.52. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^85]: Az 1. melléklet 2. pont 2.53. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^86]: Az 1. melléklet 2. pont 2.54. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^87]: Az 1. melléklet 2. pont 2.55. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^88]: Az 1. melléklet 2. pont 2.56. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^89]: Az 1. melléklet 2. pont 2.57. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^90]: Az 1. melléklet 2. pont 2.58. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^91]: Az 1. melléklet 2. pont 2.59. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^92]: Az 1. melléklet 2. pont 2.60. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^93]: Az 1. melléklet 2. pont 2.61. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^94]: Az 1. melléklet 2. pont 2.62. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^95]: Az 1. melléklet 2. pont 2.63. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^96]: Az 1. melléklet 2. pont 2.64. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^97]: Az 1. melléklet 2. pont 2.65. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^98]: Az 1. melléklet 2. pont 2.66. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
 [^99]: Az 1. melléklet 2. pont 2.67. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^100]: Az 1. melléklet 2. pont 2.69. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^101]: Az 1. melléklet 2. pont 2.70. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^102]: Az 1. melléklet 2. pont 2.71. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^103]: Az 1. melléklet 2. pont 2.72. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^104]: Az 1. melléklet 2. pont 2.73. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^105]: Az 1. melléklet 2. pont 2.74. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^106]: Az 1. melléklet 2. pont 2.75. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^107]: Az 1. melléklet 2. pont 2.76. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^108]: Az 1. melléklet 3. pont 3.9. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^109]: Az 1. melléklet 3. cím 3.22. pontját a 37/2014. (II. 19.) Korm. rendelet 2. §-a iktatta be.
-[^110]: Az 1. melléklet 3. cím 3.23. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^111]: Az 1. melléklet 3. pont 3.24. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^112]: Az 1. melléklet 3. pont 3.25. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^113]: Az 1. melléklet 3. pont 3.26. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^114]: Az 1. melléklet 3. pont 3.27. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^115]: Az 1. melléklet 3. pont 3.28. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^116]: Az 1. melléklet 3. pont 3.29. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^117]: Az 1. melléklet 3. pont 3.30. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^118]: Az 1. melléklet 3. pont 3.31. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^119]: Az 1. melléklet 3. pont 3.32. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^120]: Az 1. melléklet 3. pont 3.24. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^121]: Az 1. melléklet 3. pont 3.34. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^122]: Az 1. melléklet 3. pont 3.35. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^123]: Az 1. melléklet 3. pont 3.36. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^124]: Az 1. melléklet 3. pont 3.37. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^125]: Az 1. melléklet 3. pont 3.38. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^126]: Az 1. melléklet 3. pont 3.39. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^127]: Az 1. melléklet 3. pont 3.40. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^128]: Az 1. melléklet 3. pont 3.41. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^129]: Az 1. melléklet 3. pont 3.42. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^130]: Az 1. melléklet 3. pont 3.43. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^131]: Az 1. melléklet 3. pont 3.44. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^132]: Az 1. melléklet 3. pont 3.45. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^133]: Az 1. melléklet 4. címét (4.1–4.2. pont) a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^134]: Az 1. melléklet 4. cím 4.3. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^135]: Az 1. melléklet 4. pont 4.4. alpontját a 37/2015. (III. 6.) Korm. rendelet 6. §-a iktatta be.
-[^136]: Az 1. melléklet 4. pont 4.5. alpontját az 51/2015. (III. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ável megállapított szöveg.
-[^137]: Az 1. melléklet 4. pont 4.6. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^138]: Az 1. melléklet 4. pont 4.7. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^139]: Az 1. melléklet 4. pont 4.8. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^140]: Az 1. melléklet 4. pont 4.9. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^100]: Az 1. melléklet 2. pont 2.67. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^101]: Az 1. melléklet 2. pont 2.69. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^102]: Az 1. melléklet 2. pont 2.70. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^103]: Az 1. melléklet 2. pont 2.71. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^104]: Az 1. melléklet 2. pont 2.72. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^105]: Az 1. melléklet 2. pont 2.73. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^106]: Az 1. melléklet 2. pont 2.74. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^107]: Az 1. melléklet 2. pont 2.75. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^108]: Az 1. melléklet 2. pont 2.76. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^109]: Az 1. melléklet 3. pont 3.9. alpontja a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^110]: Az 1. melléklet 3. cím 3.22. pontját a 37/2014. (II. 19.) Korm. rendelet 2. §-a iktatta be.
+[^111]: Az 1. melléklet 3. cím 3.23. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^112]: Az 1. melléklet 3. pont 3.24. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^113]: Az 1. melléklet 3. pont 3.25. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^114]: Az 1. melléklet 3. pont 3.26. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^115]: Az 1. melléklet 3. pont 3.27. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^116]: Az 1. melléklet 3. pont 3.28. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^117]: Az 1. melléklet 3. pont 3.29. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^118]: Az 1. melléklet 3. pont 3.30. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^119]: Az 1. melléklet 3. pont 3.31. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^120]: Az 1. melléklet 3. pont 3.32. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^121]: Az 1. melléklet 3. pont 3.24. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^122]: Az 1. melléklet 3. pont 3.34. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^123]: Az 1. melléklet 3. pont 3.35. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^124]: Az 1. melléklet 3. pont 3.36. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^125]: Az 1. melléklet 3. pont 3.37. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^126]: Az 1. melléklet 3. pont 3.38. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^127]: Az 1. melléklet 3. pont 3.39. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^128]: Az 1. melléklet 3. pont 3.40. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^129]: Az 1. melléklet 3. pont 3.41. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^130]: Az 1. melléklet 3. pont 3.42. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^131]: Az 1. melléklet 3. pont 3.43. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^132]: Az 1. melléklet 3. pont 3.44. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^133]: Az 1. melléklet 3. pont 3.45. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^134]: Az 1. melléklet 4. címét (4.1–4.2. pont) a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^135]: Az 1. melléklet 4. cím 4.3. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^136]: Az 1. melléklet 4. pont 4.4. alpontját a 37/2015. (III. 6.) Korm. rendelet 6. §-a iktatta be.
+[^137]: Az 1. melléklet 4. pont 4.5. alpontját az 51/2015. (III. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 226/2015. (VIII. 7.) Korm. rendelet 2. §-ável megállapított szöveg.
+[^138]: Az 1. melléklet 4. pont 4.6. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^139]: Az 1. melléklet 4. pont 4.7. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^140]: Az 1. melléklet 4. pont 4.8. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^141]: Az 1. melléklet 4. pont 4.9. alpontját a 226/2015. (VIII. 7.) Korm. rendelet 2. §-a iktatta be.
