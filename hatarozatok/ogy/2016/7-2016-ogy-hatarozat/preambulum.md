@@ -1,0 +1,3 @@
+1. Gróf Széchenyi István születésének 225. évfordulója alkalmából az Országgyűlés tiszteleg és megemlékezik a legnagyobb magyarról, továbbá kinyilatkoztatja, hogy érvényesnek tartja, egyetért és szellemi értelemben követendőnek tartja a gróf Széchenyi István, a legnagyobb magyar emlékének törvénybeiktatásáról szóló 1925. évi XLV. törvénycikkben foglaltakat, miszerint:
+
+„A magyar nemzet századik évfordulóját ünnepelvén annak az eseménynek, hogy Széchenyi István gróf a pozsonyi országgyűlésen közéleti munkásságát megkezdte és 1825. november 3-án példát adó nagy tettével lehetővé tette a Magyar Tudományos Akadémia megalapítását, a nemzetgyűlés elhatározta:
