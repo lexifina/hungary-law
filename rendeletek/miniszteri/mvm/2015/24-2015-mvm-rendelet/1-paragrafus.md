@@ -18,7 +18,7 @@
 
 8. mezőgazdasági termelő: a Vhr. 3. § 12. pontjától eltérően az a természetes személy, aki mezőgazdasági tevékenységet folytat;
 
-9. mezőgazdasági termelő tevékenység: a Vhr. 3. § 11. pontja szerinti tevékenységek közül a 01.11–01.50 és 01.70 szakágazatba tartozó tevékenység;
+9.[^1] mezőgazdasági termelő tevékenység: a Vhr. 3. § 11. pontja szerinti tevékenységek;
 
 10. mezőgazdasági termelő tevékenységből származó árbevétel: a mezőgazdasági termelő tevékenységet folytató mezőgazdasági termelő gazdaságából – a növénytermesztés, kertészet, és állattenyésztés ágazataiból – származó termékek értékesítéséből befolyó bevételek összege;
 
@@ -29,3 +29,5 @@
 13. ügyfél: az a természetes személy, aki megfelel a 3. § (1) bekezdésében foglalt feltételeknek;
 
 14. mezőgazdasági szakmai gyakorlat: munkaszerződéssel, munkaviszony igazolással, vagy a gazdaság vezetőjének igazolásával alátámasztott mezőgazdasági termelő tevékenység, az önfoglalkoztatást ide nem értve.
+
+[^1]: Az 1. § 9. pontja a 9/2016. (IV. 5.) MvM rendelet 9. §-ával megállapított szöveg.

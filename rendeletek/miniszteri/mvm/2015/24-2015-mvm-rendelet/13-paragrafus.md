@@ -1,4 +1,4 @@
-## 12/B. §[^6] Az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2015. évben igényelhető támogatások részletes feltételeiről szóló 24/2015. (IV. 28.) MvM rendelet módosításáról szóló 41/2015. (IX. 29.) MvM rendelettel [a továbbiakban: 41/2015. (IX. 29.) MvM rendelet] megállapított 9. § (3) bekezdést és 10. § (1) bekezdést a 41/2015. (IX. 29.) MvM rendelet hatálybalépésekor[^7] folyamatban lévő eljárásokban is alkalmazni kell.
+## 12/C. §[^9] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások 2016. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 9/2016. (IV. 5.) MvM rendelettel [a továbbiakban: 9/2016. (IV. 5.) MvM rendelet] megállapított 1. § 9. pontját a 9/2016. (IV. 5.) MvM rendelet hatálybalépésekor[^10] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^6]: A 12/B. §-t a 41/2015. (IX. 29.) MvM rendelet 2. §-a iktatta be.
-[^7]: A hatálybalépés időpontja 2015. szeptember 30.
+[^9]: A 12/C. §-t a 9/2016. (IV. 5.) MvM rendelet 10. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2016. április 6.
