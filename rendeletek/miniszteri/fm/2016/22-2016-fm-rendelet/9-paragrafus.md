@@ -1,0 +1,1 @@
+## 8. § Az állandó sport- és rekreációs területet, ingatlanvállalatot, repülőteret, vasúttársaságot, illetve vízművet üzemeltető ügyfélnek az egységes kérelemben kell nyilatkoznia ezen – a 8/2015. (III. 13.) FM rendelet 1. § 1., 11., 12., és 13. pontjában meghatározott – tevékenysége folytatásáról.
