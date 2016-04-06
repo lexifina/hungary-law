@@ -1,0 +1,3 @@
+30. § (1) A tagállami kedvezményezett a hazai költségvetés végrehajtása céljából minden év április 5-éig megküldi az államháztartásért felelős miniszter részére a Magyarország központi költségvetéséről szóló törvényben meghatározott Európai Hálózatfinanszírozási Eszköz (CEF) projektek fejezeti kezelésű előirányzatot terhelő, tárgyévet megelőző évben felmerült elszámolható uniós és hazai, illetve nem elszámolható hazai költségekhez kapcsolódó kiadásokat.
+
+(2) A tagállami kedvezményezett évente legkésőbb a tárgyév augusztus 31-éig elszámolja az Európai Bizottsággal a projektek tárgyévet megelőző évben kifizetett költségeit, ha az egyes projektek kapcsán felmerült kiadások meghaladják az 500 millió forintot.

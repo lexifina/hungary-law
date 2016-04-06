@@ -1,0 +1,1 @@
+## 39. § A projektekkel kapcsolatos ellenőrzési tevékenység magában foglalja a támogatási kérelmek műszaki-szakmai, ágazati-stratégiai és támogatás-stratégiai ellenőrzését, a projektmegvalósításnak az 1316/2013/EU európai parlamenti és tanácsi rendelet által tagállami feladatkörbe utalt szempontok szerinti ellenőrzését, továbbá a projektek intézményrendszerének ellenőrzését.
