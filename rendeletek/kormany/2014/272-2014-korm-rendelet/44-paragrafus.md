@@ -4,14 +4,14 @@
 
 (2) A folyó évre szóló éves fejlesztési keret módosítását az irányító hatóság az európai uniós források felhasználásáért felelős miniszternél kezdeményezi, annak indokoltsága bemutatásával.
 
-(3)[^177] Az adott évre szóló éves fejlesztési keretet negyedévente egy alkalommal lehet módosítani.
+(3)[^184] Az adott évre szóló éves fejlesztési keretet negyedévente egy alkalommal lehet módosítani.
 
-(4)[^178] Az irányító hatóság minden negyedévben a 43/A. § (2) bekezdésben foglaltak által meg nem engedett eltérés engedélyezése céljából az éves fejlesztési keret módosítását kezdeményezi.
+(4)[^185] Az irányító hatóság minden negyedévben a 43/A. § (2) bekezdésben foglaltak által meg nem engedett eltérés engedélyezése céljából az éves fejlesztési keret módosítását kezdeményezi.
 
 (5) Ha az irányító hatóság által érvényesített eltérés előreláthatóan nem haladja meg a 43/A. § (2) bekezdésében meghatározott kereteket, az éves fejlesztési keretet nem szükséges módosítani.
 
-(6)[^179] Ha a Kormány az éves fejlesztési keretet az erre irányuló szabályszerű javaslat nyomán módosítja, akkor a felhívás módosított meghirdetési időpontjára és módosított keretére kell alkalmazni a 43/A. § rendelkezéseit.
+(6)[^186] Ha a Kormány az éves fejlesztési keretet az erre irányuló szabályszerű javaslat nyomán módosítja, akkor a felhívás módosított meghirdetési időpontjára és módosított keretére kell alkalmazni a 43/A. § rendelkezéseit.
 
-[^177]: A 44. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^178]: A 44. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^179]: A 44. § (6) bekezdése a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^184]: A 44. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^185]: A 44. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^186]: A 44. § (6) bekezdése a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 10. pontja szerint módosított szöveg.

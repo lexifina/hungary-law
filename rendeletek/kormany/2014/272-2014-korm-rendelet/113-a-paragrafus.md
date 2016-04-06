@@ -1,4 +1,4 @@
-113/A. §[^412] (1) A kifizető ügynökség euróban számol el az Európai Bizottsággal.
+113/A. §[^421] (1) A kifizető ügynökség euróban számol el az Európai Bizottsággal.
 
 (2) A Vidékfejlesztési Program tekintetében a kiadásigazoló nyilatkozatok kiállításakor minden fizetési vagy visszafizettetési műveletre vonatkozóan az Európai Központi Bank által azon hónapot megelőzően megállapított utolsó előtti átváltási árfolyamot kell alkalmazni, amely hónap folyamán a műveleteket a kifizető ügynökség számláin lekönyvelték.
 
@@ -8,4 +8,4 @@
 
 (5) A kifizető ügynökség által alkalmazott információs rendszer biztonságának a 907/2014/EU bizottsági rendelet I. mellékletének 3. B. i. és ii. pontjában meghatározott feltételeknek kell megfelelnie.
 
-[^412]: A 113/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 63. §-a iktatta be.
+[^421]: A 113/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 63. §-a iktatta be.

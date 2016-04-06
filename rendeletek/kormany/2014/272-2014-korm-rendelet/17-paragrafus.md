@@ -1,8 +1,8 @@
-## 16/A. §[^70] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) látja el.
+## 16/A. §[^73] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) látja el.
 
 ## 9. Az igazoló hatóság feladatai
 
-17. § (1)[^71] Az Alapok igazoló hatósága
+17. § (1)[^74] Az Alapok igazoló hatósága
 
 a) az Alapokból származó támogatások folyósítása érdekében összeállítja az operatív programokra vonatkozó átutalás igénylési dokumentációt, igazolja a költségnyilatkozatok számszaki pontosságának és megbízhatóságának, valamint a költségek alátámasztottságának ellenőrzésére irányuló eljárások európai uniós és nemzeti jogszabályoknak való megfelelőségét, és benyújtja az igazolt átutalás igénylési dokumentációt az Európai Bizottság részére,
 
@@ -16,9 +16,9 @@ e) a monitoring és információs rendszerben vezeti az igazoló hatóság pénz
 
 f) végrehajtja az adminisztratív hibák, valamint az operatív program megvalósítása során bekövetkezett szabálytalanságok következtében szükségessé váló pénzügyi korrekciókat, és elszámol az alapokból származó visszafizetett támogatásokról az Európai Bizottsággal,
 
-g)[^72] elkészíti a 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 59. cikke (5) bekezdés a) pontjában említett beszámolókat és igazolja e beszámolók teljességét, pontosságát, hitelességét és megfelelőségét,
+g)[^75] elkészíti a 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 59. cikke (5) bekezdés a) pontjában említett beszámolókat és igazolja e beszámolók teljességét, pontosságát, hitelességét és megfelelőségét,
 
-h)[^73] biztosítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 126. cikk g) pontjában meghatározott számviteli nyilvántartási feladatok ellátását, amelynek keretében a támogatásokról a monitoring és információs rendszer alkalmazásával központosított, valamennyi operatív programra teljes körűen kiterjedő, a számviteli törvény szerinti eredményszemléletű számviteli nyilvántartásokat vezet, és összeállítja az éves beszámolót.
+h)[^76] biztosítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 126. cikk g) pontjában meghatározott számviteli nyilvántartási feladatok ellátását, amelynek keretében a támogatásokról a monitoring és információs rendszer alkalmazásával központosított, valamennyi operatív programra teljes körűen kiterjedő, a számviteli törvény szerinti eredményszemléletű számviteli nyilvántartásokat vezet, és összeállítja az éves beszámolót.
 
 (2) A kincstár köteles a támogatások számviteli elszámolását szabályozó számviteli kézikönyvet a hozzá kapcsolódó ellenőrzési nyomvonalakkal elkészíteni, amelynek részei
 
@@ -28,7 +28,7 @@ h)[^73] biztosítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 12
 
 3. bizonylati album.
 
-[^70]: A 16/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 6. §-a iktatta be.
-[^71]: A 17. § (1) bekezdés nyitó bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 28. pontjával megállapított szöveg.
-[^72]: A 17. § (1) bekezdés g) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 29. pontja szerint módosított szöveg.
-[^73]: A 17. § (1) bekezdés h) pontja a 347/2015. (XI. 20.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^73]: A 16/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 6. §-a iktatta be.
+[^74]: A 17. § (1) bekezdés nyitó bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 28. pontjával megállapított szöveg.
+[^75]: A 17. § (1) bekezdés g) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 29. pontja szerint módosított szöveg.
+[^76]: A 17. § (1) bekezdés h) pontja a 347/2015. (XI. 20.) Korm. rendelet 7. §-ával megállapított szöveg.

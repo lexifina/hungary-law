@@ -8,9 +8,9 @@
 
 (2) A támogatási kérelmet a felhívásban meghatározott elektronikus alkalmazással kell elkészíteni és benyújtani. A támogatási kérelem akkor minősül benyújtottnak, ha a támogatást igénylő a felhívás részeként közzétett nyomtatványon a támogatási kérelem elektronikus benyújtásáról nyilatkozott és a nyilatkozatot az egységes működési kézikönyvben és a felhívásban meghatározott módon az irányító hatósághoz benyújtotta.
 
-(2a)[^230] Az 57/B. § (4) bekezdése szerinti benyújtás esetén a (2) bekezdést nem kell alkalmazni.
+(2a)[^237] Az 57/B. § (4) bekezdése szerinti benyújtás esetén a (2) bekezdést nem kell alkalmazni.
 
-(3)[^231] A támogatást igénylő a támogatás igénylésével egyidejűleg hozzájárulását adja ahhoz, hogy a támogató
+(3)[^238] A támogatást igénylő a támogatás igénylésével egyidejűleg hozzájárulását adja ahhoz, hogy a támogató
 
 a) EMVA forrás esetén a 908/2014/EU bizottsági rendelet 57. cikk szerinti adatokat,
 
@@ -28,11 +28,11 @@ bd) a döntés évét és a hónapját
 
 (4) A támogatási kérelem monitoring és információs rendszerbe történő beérkezéséről a támogatást igénylő értesítést kap.
 
-(5)[^232] A támogatási kérelem benyújtása, valamint a felhívásban meghatározott jogosultsági feltételek teljesítése nem jelent alanyi jogosultságot a támogatásra, arról csak a kiválasztási szempontokra és forrásra tekintettel hozható döntés.
+(5)[^239] A támogatási kérelem benyújtása, valamint a felhívásban meghatározott jogosultsági feltételek teljesítése nem jelent alanyi jogosultságot a támogatásra, arról csak a kiválasztási szempontokra és forrásra tekintettel hozható döntés.
 
-(6)[^233] Ha a felhívás úgy rendelkezik, idegen nyelven kiállított dokumentum benyújtása esetében a támogatást igénylőnek csatolnia kell a dokumentum szakfordító vagy szakfordító-lektor által készített magyar nyelvű fordítását is.
+(6)[^240] Ha a felhívás úgy rendelkezik, idegen nyelven kiállított dokumentum benyújtása esetében a támogatást igénylőnek csatolnia kell a dokumentum szakfordító vagy szakfordító-lektor által készített magyar nyelvű fordítását is.
 
-[^230]: Az 58. § (2a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^231]: Az 58. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^232]: Az 58. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
-[^233]: Az 58. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^237]: Az 58. § (2a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^238]: Az 58. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^239]: Az 58. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^240]: Az 58. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.

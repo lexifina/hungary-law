@@ -1,8 +1,8 @@
-56/A. §[^203] (1)[^204] Az 56. § (3) bekezdése szerinti esetben a támogatási szerződés megkötésével egyidejűleg az irányító hatóság projektfejlesztést kezdeményezhet a támogatást igénylővel. A projektfejlesztés célja a felhívásban meghatározott feltételeknek megfelelő projektdokumentáció ütemezett kidolgozásának elősegítése.
+56/A. §[^210] (1)[^211] Az 56. § (3) bekezdése szerinti esetben a támogatási szerződés megkötésével egyidejűleg az irányító hatóság projektfejlesztést kezdeményezhet a támogatást igénylővel. A projektfejlesztés célja a felhívásban meghatározott feltételeknek megfelelő projektdokumentáció ütemezett kidolgozásának elősegítése.
 
 (2) Az (1) bekezdés szerinti szerződés a XV. Fejezetben foglaltakon túl tartalmazza legalább:
 
-a)[^205] a támogatást igénylő jogait és kötelezettségeit a projektfejlesztés során,
+a)[^212] a támogatást igénylő jogait és kötelezettségeit a projektfejlesztés során,
 
 b) a közfeladatot érintő fejlesztés előkészítésének ütemezését, az előkészítés főbb mérföldköveit,
 
@@ -18,6 +18,6 @@ g) az irányító hatóság által meghatározott egyéb feltételeket.
 
 (3) Ha a kedvezményezett a (2) bekezdés b) és c) pontja szerinti határidőket elmulasztja, az irányító hatóság a támogatási szerződéstől eláll.
 
-[^203]: Az 56/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be.
-[^204]: Az 56/A. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^205]: Az 56/A. § (2) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^210]: Az 56/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be.
+[^211]: Az 56/A. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^212]: Az 56/A. § (2) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 7. pontja szerint módosított szöveg.

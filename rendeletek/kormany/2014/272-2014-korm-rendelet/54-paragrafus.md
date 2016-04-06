@@ -1,4 +1,4 @@
-## IX. Fejezet[^197]
+## IX. Fejezet[^204]
 
 ## KIVÁLASZTÁSI ELJÁRÁSOK
 
@@ -14,4 +14,4 @@ d) területi, vagy
 
 e) közösségvezérelt helyi fejlesztés (CLLD)
 
-[^197]: A IX. Fejezet (54–55. §) a 144/2015. (VI. 12.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^204]: A IX. Fejezet (54–55. §) a 144/2015. (VI. 12.) Korm. rendelet 26. §-ával megállapított szöveg.
