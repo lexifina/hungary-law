@@ -16,7 +16,9 @@ f) figyelemmel kíséri és összehangolja a Világbajnokság előkészítésév
 
 g) megszervezi és koordinálja a 2017-ben Budapesten és Balatonfüreden megrendezendő XVII. Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság Szervező Bizottságának működését;
 
-h) a Kormány elé terjeszti a Világbajnokság előkészítésével és megrendezésével kapcsolatos feladatok végrehajtása érdekében szükséges, az Emberi Erőforrások Minisztériumának sportért felelős államtitkára által irányított szervezeti egységek szakmai bevonásával előkészített előterjesztéseket.
+h) a Kormány elé terjeszti a Világbajnokság előkészítésével és megrendezésével kapcsolatos feladatok végrehajtása érdekében szükséges, az Emberi Erőforrások Minisztériumának sportért felelős államtitkára által irányított szervezeti egységek szakmai bevonásával előkészített előterjesztéseket;
+
+i)[^1] koordinálja a 2017-ben Győrben megrendezésre kerülő XIV. Nyári Európai Ifjúsági Olimpiai Fesztivál szervezésével összefüggő feladatok végrehajtását.
 
 3. A kormánybiztost tevékenységének ellátásában titkárság nem segíti.
 
@@ -31,3 +33,5 @@ Felelős: miniszterek
 Határidő: folyamatosan
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont i) alpontját az 1169/2016. (IV. 6.) Korm. határozat 1. pontja iktatta be.
