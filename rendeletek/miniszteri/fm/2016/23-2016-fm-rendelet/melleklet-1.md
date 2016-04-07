@@ -1,3 +1,5 @@
+## 9. §[^1]
+
 1. melléklet a 23/2016. (IV. 5.) FM rendelethez
 
 ## A támogatási kérelem adattartalma
@@ -21,3 +23,5 @@ Tenyészetkód:
 4. Nyilatkozatok
 
 5. Keltezés és aláírás
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
