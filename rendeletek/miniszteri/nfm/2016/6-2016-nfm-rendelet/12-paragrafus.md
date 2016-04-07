@@ -1,3 +1,3 @@
-## 9–11. §
+## 11. § Hatályát veszti az R5. 1. melléklete.
 
 ## 6. Az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló 53/2014. (XII.13.) NFM rendelet módosítása
