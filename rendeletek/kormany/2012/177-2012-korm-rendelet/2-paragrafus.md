@@ -1,4 +1,4 @@
-## 1/A. §[^2]
+## 1/A. §[^3]
 
 ## 2. A Közigazgatási és Igazságügyi Hivatal vezetői
 
@@ -8,4 +8,4 @@
 
 (3) Az igazgató minisztériumi főosztályvezetői besorolású és illetményű kormánytisztviselő.
 
-[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 678. §-a iktatta be, hatályon kívül helyezte a 233/2014. (IX. 18.) Korm. rendelet 12. §-a.
+[^3]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 678. §-a iktatta be, hatályon kívül helyezte a 233/2014. (IX. 18.) Korm. rendelet 12. §-a.
