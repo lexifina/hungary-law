@@ -26,6 +26,6 @@
 
 ## 13. Az elhunyt személyek okmányaival kapcsolatos intézkedések megtétele
 
-7. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^433]
+7. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^942]
 
-[^433]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 240. § (6) bekezdése iktatta be, szövege a 348/2015. (XI. 24.) Korm. rendelet 2. § (3) bekezdése, a 417/2015. (XII. 23.) Korm. rendelet 48. §-a, a 441/2015. (XII. 28.) Korm. rendelet 222. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^942]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 240. § (6) bekezdése iktatta be, szövege a 348/2015. (XI. 24.) Korm. rendelet 2. § (3) bekezdése, a 417/2015. (XII. 23.) Korm. rendelet 48. §-a, a 441/2015. (XII. 28.) Korm. rendelet 222. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
