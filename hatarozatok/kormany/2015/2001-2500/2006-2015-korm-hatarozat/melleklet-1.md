@@ -12,7 +12,7 @@
 
 ## b) 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére 7354,3 millió forint,
 
-## c) 4. A költségvetési szerveknél foglalkoztatottak 2015. évi kompenzációja cím terhére 1400,0 millió forint
+## c)[^1] 4. A költségvetési szerveknél foglalkoztatottak 2015. évi kompenzációja cím terhére 1400,0 millió forint
 
 ## egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 30. Egyes önkormányzatok feladatainak támogatása I. cím alábbi alcímei javára, az 1. melléklet szerint:
 
@@ -24,11 +24,11 @@
 
 | 2. | Abaújvár község feladatainak támogatása | hídépítés | 23,0 |
 
-| 3. | Alcsútdoboz község feladatainak támogatása | működési célú támogatás | 10,0 |
+| 3. | Alcsútdoboz község feladatainak támogatása | útfelújítás | 10,0 |
 
-| 4. | Ambrózfalva község feladatainak támogatása | önkormányzati intézmény fejlesztése | 20,0 |
+| 4. | Ambrózfalva község feladatainak támogatása | útfelújítás, önkormányzati intézmény felújítása, közösségi közlekedéshez kapcsolódó infrastruktúrafejlesztés | 20,0 |
 
-| 5. | Apátfalva község feladatainak támogatása | sportcsarnok építés | 200,0 |
+| 5. | Apátfalva község feladatainak támogatása | sportcsarnoképítés megvalósítása érdekében támogatás nyújtása | 200,0 |
 
 | 6. | Balatonfőkajár község feladatainak támogatása | sportot kiszolgáló infrastruktúra beruházás | 20,0 |
 
@@ -48,19 +48,19 @@
 
 | 14. | Bázakerettye község feladatainak támogatása | záportározó javítás, helyreállítás | 20,0 |
 
-| 15. | Bicske város feladatainak támogatása | sportfejlesztés, épületrekonstrukció, közterület felújítás | 300,0 |
+| 15. | Bicske város feladatainak támogatása | sportfejlesztés megvalósítása érdekében támogatás nyújtása, épületrekonstrukció, közterület felújítás | 300,0 |
 
 | 16. | Boconád község feladatainak támogatása | közbiztonság fejlesztés, térfigyelő kamera | 4,0 |
 
 | 17. | Budakalász város feladatainak támogatása | Települési fejlesztések | 500,0 |
 
-| 18. | Budapest III. kerület feladatainak támogatása | Heltai Jenő téri piac fejlesztés, Váradi utca meghosszabbítása, sportcélú beruházás megvalósítás, Árpád Gimnázium nyílászárócsere | 1 595,0 |
+| 18. | Budapest III. kerület feladatainak támogatása | Heltai Jenő téri piac fejlesztés, Váradi utca meghosszabbítása, sportcélú beruházás megvalósítása érdekében támogatás nyújtása, Árpád Gimnázium nyílászárócsere | 1 595,0 |
 
-| 19. | Cegléd város feladatainak támogatása | útépítés, fürdőfelújítás, hulladék közszolgáltatás ellátása feltételeinek biztosítása | 500,0 |
+| 19. | Cegléd város feladatainak támogatása | útépítés, fürdőfelújítás, hulladék közszolgáltatás ellátása feltételeinek biztosítása érdekében támogatás nyújtása | 500,0 |
 
 | 20. | Csabdi község feladatainak támogatása | út- és járdafelújítás | 15,0 |
 
-| 21. | Csaholc község feladatainak támogatása | út- és járdaépítés | 10,0 |
+| 21. | Csaholc község feladatainak támogatása | ravatalozó felújítása, állattartó befejezése | 10,0 |
 
 | 22. | Csákvár város feladatainak támogatása | út- és járdafelújítás | 50,0 |
 
@@ -80,7 +80,7 @@
 
 | 30. | Drávagárdony község feladatainak támogatása | község temetőjéhez vezető földút murvakövessé tétele | 25,0 |
 
-| 31. | Ecséd község feladatainak támogatása | iskola tetőfelújítás, orvosi rendelő felújítás | 40,0 |
+| 31. | Ecséd község feladatainak támogatása | központi konyha és orvosi rendelő felújítás | 40,0 |
 
 | 32. | Erdőtelek község feladatainak támogatása | közbiztonság fejlesztés, térfigyelő kamera | 5,0 |
 
@@ -90,9 +90,9 @@
 
 | 35. | Felsőörs község feladatainak támogatása | óvoda felújítás | 28,0 |
 
-| 36. | Földeák község feladatainak támogatása | belterületi útfelújítás | 80,0 |
+| 36. | Földeák község feladatainak támogatása | útfelújítás | 80,0 |
 
-| 37. | Füzér község feladatainak támogatása | vár rekonstrukció | 29,0 |
+| 37. | Füzér község feladatainak támogatása | vár rekonstrukcióhoz kapcsolódó hitelkiváltás | 29,0 |
 
 | 38. | Gárdony város feladatainak támogatása | út- és járdaépítés | 100,0 |
 
@@ -102,13 +102,13 @@
 
 | 41. | Harkány város feladatainak támogatása | turisztikai célú beruházás | 300,0 |
 
-| 42. | Hárskút község feladatainak támogatása | orvosi rendelő felújítás, polgármesteri hivatal felújítás, járdafelújítás, óvoda felújítás | 150,0 |
+| 42. | Hárskút község feladatainak támogatása | Faluház megvalósítása (hivatal, rendelő, óvoda, posta elhelyezése) | 150,0 |
 
-| 43. | Heréd község feladatainak támogatása | tornaterem felújítása (tetőszerkezet) | 20,0 |
+| 43. | Heréd község feladatainak támogatása | tornaterem és óvoda felújítás | 20,0 |
 
 | 44. | Herend város feladatainak támogatása | hitelkiváltás (8-as út fejlesztéséhez kapcsolódó önkormányzati útfelújításhoz) | 80,0 |
 
-| 45. | Heves város feladatainak támogatása | óvoda tetőfelújítás, belső felújítás | 40,0 |
+| 45. | Heves város feladatainak támogatása | önkormányzati hivatal és kollégium felújítás | 40,0 |
 
 | 46. | Hevesvezekény község feladatainak támogatása | közbiztonság fejlesztés, térfigyelő kamera | 5,0 |
 
@@ -120,7 +120,7 @@
 
 | 50. | Kajászó község feladatainak támogatása | óvodafejlesztés, vízelvezetés, útburkolatcsere | 30,0 |
 
-| 51. | Káloz község feladatainak támogatása | szennyvízcsatorna hálózat fejlesztése | 32,0 |
+| 51. | Káloz község feladatainak támogatása | útfelújítás | 32,0 |
 
 | 52. | Kápolnásnyék község feladatainak támogatása | településközpont rehabilitációja | 200,0 |
 
@@ -138,19 +138,19 @@
 
 | 59. | Kiskunmajsa város feladatainak támogatása | belterületi útfejlesztés és parkoló kialakítás | 20,0 |
 
-| 60. | Kisvárda város feladatainak támogatása | önkormányzati fejlesztések | 500,0 |
+| 60. | Kisvárda város feladatainak támogatása | önkormányzati fejlesztések megvalósítása részben támogatás nyújtásával | 500,0 |
 
 | 61. | Kőszeg város feladatainak támogatása | kerékpárút, Temető utca felújítás, iskolai sportpálya felújítás, szennyvízelvezetés | 100,0 |
 
-| 62. | Kötegyán község feladatainak támogatása | templom felújítás | 2,0 |
+| 62. | Kötegyán község feladatainak támogatása | községháza felújítása | 2,0 |
 
 | 63. | Kunhegyes város feladatainak támogatása | útfelújítás, tornaterem tetőfelújítás és fűtéskorszerűsítés | 30,0 |
 
 | 64. | Kunmadaras nagyközség feladatainak támogatása | művelődési ház nyílászáróinak cseréje | 30,0 |
 
-| 65. | Kunszentmiklós város feladatainak támogatása | csapadékvíz elvezetése, kastély átalakítása, iskola más épületben való elhelyezése, útfelújítás | 200,0 |
+| 65. | Kunszentmiklós város feladatainak támogatása | csapadékvíz-elvezetés, iskola más épületben való elhelyezése, útfelújítás | 200,0 |
 
-| 66. | Lenti város feladatainak támogatása | turisztikai célú beruházás | 700,0 |
+| 66. | Lenti város feladatainak támogatása | turisztikai célú beruházás, az önkormányzat tulajdonában lévő gazdasági társaság eszközbeszerzése | 700,0 |
 
 | 67. | Lovasberény község feladatainak támogatása | Lenke Galéria és Tájház nádtető cseréje | 10,0 |
 
@@ -160,25 +160,25 @@
 
 | 70. | Makó város feladatainak támogatása | fejlesztések előkészítése, tervezése (Makovecz épületek) | 300,0 |
 
-| 71. | Mány község feladatainak támogatása | Háromrózsa településrészen szociális bérlakás vásárlás | 10,0 |
+| 71. | Mány község feladatainak támogatása | Háromrózsa településrészen szociális bérlakás vásárlás, önkormányzati ingatlan felújítás | 10,0 |
 
 | 72. | Maroslele község feladatainak támogatása | önkormányzati ingatlanfejlesztés | 140,0 |
 
-| 73. | Mártély község feladatainak támogatása | kerékpárút építés, sportpálya és egészségház fejlesztés | 100,0 |
+| 73. | Mártély község feladatainak támogatása | egészségház kialakítás, óvoda felújítás | 100,0 |
 
 | 74. | Mecsér község feladatainak támogatása | híd helyreállítása | 3,0 |
 
 | 75. | Mezőcsát város feladatainak támogatása | közösségi ház építése, fürdő visszavásárlás | 450,0 |
 
-| 76. | Mezőhegyes város feladatainak támogatása | önkormányzati feladatellátáshoz kapcsolódó távhőszolgáltatás fejlesztése | 51,0 |
+| 76. | Mezőhegyes város feladatainak támogatása | egyedi gázfűtésre történő áttéréshez kapcsolódó kiadások | 51,0 |
 
-| 77. | Mezőzombor község feladatainak támogatása | belterületi utak, járdák rekonstrukciója, csapadékvíz elvezetés | 20,0 |
+| 77. | Mezőzombor község feladatainak támogatása | Alkotóház és Közösségi ház kültéri munkálatai | 20,0 |
 
 | 78. | Monok község feladatainak támogatása | csapadékvíz elvezetés, közösségi tér kialakítása, járdák térkövezése | 20,0 |
 
-| 79. | Monor város feladatainak támogatása I. | sportcsarnok előkészítése | 250,0 |
+| 79. | Monor város feladatainak támogatása I. | sportcsarnok előkészítése érdekében támogatás nyújtása | 250,0 |
 
-| 80. | Monor város feladatainak támogatása II. | sportcsarnok kivitelezése | 1 250,0 |
+| 80. | Monor város feladatainak támogatása II. | sportcsarnok kivitelezése érdekében támogatás nyújtása | 1 250,0 |
 
 | 81. | Monostorpályi község feladatainak támogatása | fogorvosi rendelő fejlesztése | 5,0 |
 
@@ -192,7 +192,7 @@
 
 ## Határidő: azonnal
 
-## 3. a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – 5575,5 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 31. Egyes önkormányzatok feladatainak támogatása II. cím alábbi alcímei javára, az 1. melléklet szerint:
+## 3.[^2] a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – 5575,5 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 31. Egyes önkormányzatok feladatainak támogatása II. cím alábbi alcímei javára, az 1. melléklet szerint:
 
 ## a város feladatainak támogatása
 
@@ -204,21 +204,21 @@
 
 | 2. | Nagyrozvágy község feladatainak támogatása | iskolabusz vásárlás | 5,0 |
 
-| 3. | Nagyvenyim község feladatainak támogatása | könyvtár-közösségi ház felújítása | 40,0 |
+| 3. | Nagyvenyim község feladatainak támogatása | könyvtárépítés | 40,0 |
 
 | 4. | Nemesnádudvar község feladatainak támogatása | községháza rekonstrukciója | 28,0 |
 
-| 5. | Nyíradony város feladatainak támogatása | tűzoltóállomás fejlesztése, településfejlesztési beruházások finanszírozása | 150,0 |
+| 5. | Nyíradony város feladatainak támogatása | településfejlesztési beruházások finanszírozása, fejlesztések önereje, sportfejlesztés megvalósítása érdekében támogatás nyújtása | 150,0 |
 
-| 6. | Óföldeák község feladatainak támogatása | községháza és orvosi rendelő felújítás | 8,0 |
+| 6. | Óföldeák község feladatainak támogatása | útfelújítás | 8,0 |
 
 | 7. | Olaszfalu község feladatainak támogatása | belterületi út- és járdafejlesztés | 5,0 |
 
-| 8. | Pápa város feladatainak támogatása | Pápai Termálvízhasznosító Zrt. hitelkiváltás | 482,0 |
+| 8. | Pápa város feladatainak támogatása | Pápai Termálvízhasznosító Zrt. hitelkiváltás és a társaság tevékenységéhez kapcsolódó beruházások | 482,0 |
 
-| 9. | Pilis város feladatainak támogatása | csarnok tervezés | 10,0 |
+| 9. | Pilis város feladatainak támogatása | csarnoktervezés megvalósítása érdekében támogatás nyújtása | 10,0 |
 
-| 10. | Pitvaros község feladatainak támogatása | orvosi rendelő fejlesztése | 100,0 |
+| 10. | Pitvaros község feladatainak támogatása | többfunkciós közösségi épület fejlesztése | 100,0 |
 
 | 11. | Pomáz város feladatainak támogatása | új óvoda építés | 400,0 |
 
@@ -232,7 +232,7 @@
 
 | 16. | Sárazsadány község feladatainak támogatása | önkormányzati fejlesztések | 10,0 |
 
-| 17. | Sárospatak város feladatainak támogatása | önkormányzati lakóingatlanok vásárlása | 300,0 |
+| 17. | Sárospatak város feladatainak támogatása | ingatlanvásárlás részben építési telkek kialakítása céljából | 300,0 |
 
 | 18. | Szabadszállás város feladatainak támogatása | önkormányzati intézmény fejlesztés (közétkeztetés) | 150,0 |
 
@@ -242,9 +242,9 @@
 
 | 21. | Székkutas község feladatainak támogatása | belterületi útfelújítás, csatornafejlesztés | 100,0 |
 
-| 22. | Szentantalfa község feladatainak támogatása | csatornázás | 300,0 |
+| 22. | Szentantalfa község feladatainak támogatása | egyedi szennyvízkezelési rendszerek kiépítése | 300,0 |
 
-| 23. | Szentjakabfa község feladatainak támogatása | belterületi út- és járdafelújítás | 2,5 |
+| 23. | Szentjakabfa község feladatainak támogatása | járdafelújítás | 2,5 |
 
 | 24. | Szerencs város feladatainak támogatása | Turisztikai épület befejező munkálatai, Simai Ifjúsági tábor szennyvíztisztítója, Szerencsi Szakképző Centrum kialakítása, ingatlan kisajátítás, ingatlanvásárlás | 200,0 |
 
@@ -264,7 +264,7 @@
 
 | 32. | Tiszagyenda község feladatainak támogatása | orvosi rendelő felújítás | 30,0 |
 
-| 33. | Tiszaigar község feladatainak támogatása | polgármesteri hivatal felújítás | 40,0 |
+| 33. | Tiszaigar község feladatainak támogatása | polgármesteri hivatal építés | 40,0 |
 
 | 34. | Tiszaladány község feladatainak támogatása | csapadékvíz elvezetés és járda építés | 10,0 |
 
@@ -274,7 +274,7 @@
 
 | 37. | Tokaj város feladatainak támogatása | hitelkiváltás | 150,0 |
 
-| 38. | Tordas község feladatainak támogatása | sporttelep fejlesztés | 10,0 |
+| 38. | Tordas község feladatainak támogatása | sporttelep fejlesztése érdekében támogatás nyújtása | 10,0 |
 
 | 39. | Tornyiszentmiklós község feladatainak támogatása | művelődési ház felújítása | 2,0 |
 
@@ -286,7 +286,7 @@
 
 | 43. | Vaja város feladatainak támogatása | bentlakásos intézmény korszerűsítése | 37,0 |
 
-| 44. | Vál község feladatainak támogatása | ingatlanvásárlás, viharkár helyreállítás | 40,0 |
+| 44. | Vál község feladatainak támogatása | út- és járdafelújítás, önkormányzati ingatlan felújítása, ingatlanvásárlás, tervezési feladatok | 40,0 |
 
 | 45. | Vásárosnamény város feladatainak támogatása | belterületi csapadékvíz elvezetés, járda- és útépítés | 112,0 |
 
@@ -320,10 +320,14 @@
 
 ## Határidő: azonnal
 
-## 5. egyetért azzal, hogy a belügyminiszter a 2. és 3. pont szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, pályázat és támogatási kérelem benyújtása nélkül, támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés alapján az érintett települési önkormányzatok részére költségvetési támogatást nyújtson,
+## 5.[^3] egyetért azzal, hogy a belügyminiszter a 2. és 3. pont szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, pályázat és támogatási kérelem benyújtása nélkül, támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó egy vagy több támogatási szerződés alapján az érintett települési önkormányzatok részére költségvetési támogatást nyújtson,
 
 ## 6. egyetért azzal, hogy a belügyminiszter az 5. pont szerinti költségvetési támogatást a támogatási szerződés megkötését követően folyósítsa az érintett települési önkormányzatok számára,
 
 ## 7. egyetért azzal, hogy ha az 5. pont szerinti költségvetési támogatás az érintett települési önkormányzatok számára a 2015. évben nem vagy nem teljes összegben kerül folyósításra, a 2016. évben a IX. Helyi önkormányzatok támogatásai fejezetben azonos néven létrehozott címekre, alcímekre e határozatot kell alkalmazni.
 
 1. melléklet a 2006/2015. (XII. 29.) Korm. határozathoz
+
+[^1]: A 2. pont c) alpontja az 1185/2016. (IV. 11.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1185/2016. (IV. 11.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: Az 5. pont az 1185/2016. (IV. 11.) Korm. határozat 3. pontja szerint módosított szöveg.
