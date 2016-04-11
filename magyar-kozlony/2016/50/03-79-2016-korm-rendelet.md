@@ -1,0 +1,67 @@
+# A Kormány 79/2016. (IV. 11.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 50. szám, 2016. április 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/25726cae0867e6d6abce19614a720cbc7d7a65dd/dokumentumok/47f7d3665348ec29e8106580186b0c284f30d7c3/letoltes)
+
+---
+
+A Kormány 79/2016. (IV. 11.) Korm. rendelete
+a Budapesti Vendéglátóipari és Humán Szakképzési Centrum Raoul Wallenberg Szakközépiskolája és
+Szakiskolája Budapest Rippl-Rónai utca 22. szám alatti ingatlanban történő elhelyezésével összefüggő
+közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+A Kormány
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló
+2006. évi LIII. törvény 12. § (5) bekezdés a), d) és e) pontjában,
+a 4. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16.2., 17. és
+24. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben
+felsorolt közigazgatási hatósági ügyeket, amelyek az ingatlan-nyilvántartás szerinti Budapest belterület 28296
+helyrajzi számú, természetben a Budapest VI. kerület, Rippl-Rónai utca 22. szám alatt elhelyezkedő ingatlanon
+megvalósítandó, a Budapesti Vendéglátóipari és Humán Szakképzési Centrum Raoul Wallenberg Szakközépiskolája
+és Szakiskolája elhelyezését biztosító beruházással függenek össze.
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági
+ügyeket, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez szükségesek.
+2. §
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó
+kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
+3. § (1) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére az 1. § (1) bekezdése szerinti közigazgatási
+hatósági ügyekben a szakhatóság – a hatóság határozatának meghozataláig felhasználható – előzetes
+szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság
+a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése
+szerint használja fel.
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül
+végrehajtható.
+4. §
+Az 1. § (1) bekezdése szerinti beruházással összefüggésben
+a) építésügyi hatósági ügyekben építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+b) építésügyi hatósági ügyekben településképi véleményezési eljárást nem kell lefolytatni, és
+c) településképi bejelentési eljárásnak nincs helye.
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+6. §
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 79/2016. (IV. 11.) Korm. rendelethez
+A Budapesti Vendéglátóipari és Humán Szakképzési Centrum Raoul Wallenberg Szakközépiskolája és
+Szakiskolája Budapest Rippl-Rónai utca 22. szám alatti ingatlanban történő elhelyezésével összefüggő,
+nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+ 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+ 2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+ 3. környezetvédelmi hatósági eljárások,
+ 4. vasúti és szalagpálya hatósági engedélyezési eljárás,
+ 5. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági
+engedélyezési eljárások,
+ 6. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+ 7. hírközlési hatósági eljárások,
+ 8. tűzvédelmi hatósági eljárások,
+ 9. műszaki biztonsági hatósági engedélyezési eljárások,
+10. élelmiszerlánc-felügyeleti eljárás,
+11. közegészségügyi hatósági eljárások,
+12. azok az 1–11. pontban nem szereplő hatósági engedélyezési eljárások, melyek az 1. § (1) bekezdése szerinti
+beruházás megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek,
+13. az 1–12. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+V. A Kormány tagjainak rendeletei
