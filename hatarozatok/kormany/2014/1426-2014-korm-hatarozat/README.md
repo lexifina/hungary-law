@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1426-30
 | 2015-07-27 | 2014-1426-30-22.8 | 1298/2015. (V. 13.) Korm. határozat |
 | 2015-09-24 | 2014-1426-30-22.9 | 1681/2015. (IX. 24.) Korm. határozat |
 | 2016-02-15 | 2014-1426-30-22.10 | 1681/2015. (IX. 24.) Korm. határozat |
+| 2016-04-11 | 2014-1426-30-22.11 | 1182/2016. (IV. 11.) Korm. határozat |
