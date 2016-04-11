@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1741-30
 | 2015-10-13 | 2015-1741-30-22.1 | 1741/2015. (X. 13.) Korm. határozat |
 | 2015-10-14 | 2015-1741-30-22.2 | 2010: CXXX. törvény |
 | 2015-10-27 | 2015-1741-30-22.3 | 1779/2015. (X. 27.) Korm. határozat |
+| 2016-04-11 | 2015-1741-30-22.4 | 1182/2016. (IV. 11.) Korm. határozat |

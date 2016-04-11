@@ -1,4 +1,4 @@
-## 1. A Kormány a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 19. § (3) bekezdésében és az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 25 800,9 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 33. Országvédelmi Alap cím terhére, az 1. melléklet szerint.
+## 1.[^1] A Kormány a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 19. § (3) bekezdésében és az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 25 800,9 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 33. Országvédelmi Alap cím terhére, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,17 +10,17 @@
 
 ## Felelős: érintett miniszterek
 
-## Határidő: 2016. június 30.
+## Határidő: 2016. június 30., az Egyéb felújítási, fejlesztési támogatások jogcímcsoport javára átcsoportosított 200,0 millió forint tekintetében 2016. október 31.
 
-## 2–4.[^1]
+## 2–4.[^2]
 
 ## 5. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a kormányzati infokommunikációs szolgáltatások finanszírozásához a Belügyminisztérium és a Helyi önkormányzatok támogatásai fejezetek közötti előirányzat-átcsoportosításról, továbbá egyes kormányhatározatok módosításáról és egyes kormányhatározatok végrehajtása során alkalmazandó eltérő intézkedésekről szóló 1721/2014. (XII. 5.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára a K7. Felújítások kiemelt előirányzaton biztosított 58,0 millió forintból 8,0 millió forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 6–8.[^2]
+## 6–8.[^3]
 
-## 9.[^3] A Kormány egyetért azzal, hogy a természetes személyek adósságrendezésével kapcsolatos feladatok végrehajtásához szükséges feltételek biztosításáról szóló 1450/2015. (VII. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a X. Igazságügyi Minisztérium fejezet, 3. Igazságügyi Hivatal cím javára a K6. Beruházások kiemelt előirányzaton biztosított 190 000 ezer forintból 140 000 ezer forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
+## 9.[^4] A Kormány egyetért azzal, hogy a természetes személyek adósságrendezésével kapcsolatos feladatok végrehajtásához szükséges feltételek biztosításáról szóló 1450/2015. (VII. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a X. Igazságügyi Minisztérium fejezet, 3. Igazságügyi Hivatal cím javára a K6. Beruházások kiemelt előirányzaton biztosított 190 000 ezer forintból 140 000 ezer forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 10.[^4]
+## 10.[^5]
 
 1. melléklet az 1741/2015. (X. 13.) Korm. határozathoz
 
@@ -380,7 +380,8 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 6–8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 9. pont az 1779/2015. (X. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6–8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. pont az 1779/2015. (X. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^5]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
