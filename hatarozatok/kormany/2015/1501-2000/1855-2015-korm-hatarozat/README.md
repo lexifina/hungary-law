@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1855-30
 | --- | --- | --- |
 | 2015-11-24 | 2015-1855-30-22.1 | 1855/2015. (XI. 24.) Korm. határozat |
 | 2015-11-25 | 2015-1855-30-22.2 | 2010: CXXX. törvény |
+| 2016-04-11 | 2015-1855-30-22.3 | 1182/2016. (IV. 11.) Korm. határozat |

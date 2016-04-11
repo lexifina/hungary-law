@@ -1,6 +1,6 @@
 ## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet címrendjét a 18. Felsőbbfokú Tanulmányok Intézete címmel egészíti ki.
 
-## 2. A Kormány az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 2553,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
+## 2.[^1] A Kormány az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 2553,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,9 +12,9 @@
 
 ## Felelős: Nemzeti Emlékezet Bizottságának Hivatala elnöke, Miniszterelnökséget vezető miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2016. június 30.
+## Határidő: 2016. június 30., az Emberi Erőforrás Támogatáskezelő cím javára átcsoportosított 196,6 millió forint és a Szovjetunióba hurcolt politikai foglyok és kényszermunkások emlékéve programjainak támogatása jogcímcsoport javára átcsoportosított 733,4 millió forint tekintetében 2017. június 30.
 
-## 3–6.[^1]
+## 3–6.[^2]
 
 ## 7. A Kormány a nemzeti ünnepek, valamint a kiemelt fontosságú rendezvények lebonyolításához szükséges források biztosításáról szóló 1343/2015. (V. 27.) Korm. határozatban meghatározottaktól eltérően úgy dönt, hogy az egyszeri jelleggel biztosítandó, legfeljebb 1159,1 millió forint költségvetési forrást 2016-ban kell biztosítani.
 
@@ -24,13 +24,13 @@
 
 ## Határidő: 2016. évben a felmerülés ütemében
 
-## 8.[^2]
+## 8.[^3]
 
 ## 9. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1520/2015. (VII. 27.) Korm. határozat (a továbbiakban: Határozat) 2. pontja szerint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 8. Szociális humánszolgáltatók részére biztosított szociális- és gyermekvédelmi ágazati pótlék jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat terhére a szociális kiegészítő pótlékon kívül a szociális ágazati pótlék jogcímen is felhasználható.
 
 ## 10. A Kormány egyetért azzal, hogy a Határozat alapján a IX. Helyi önkormányzatok támogatásai fejezet részére biztosított támogatás (a továbbiakban: Támogatás) az önkormányzati feladatok ellátásához is felhasználható, valamint a Támogatásra nem vonatkozik visszatérítési kötelezettség.
 
-## 11.[^3]
+## 11.[^4]
 
 1. melléklet az 1855/2015. (XI. 24.) Korm. határozathoz
 
@@ -208,6 +208,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1182/2016. (IV. 11.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 3–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
