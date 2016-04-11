@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján elrendeli az erdélyi oktatási és kulturális célú programok, beruházások megvalósításának finanszírozásához szükséges 1470,4 millió forint, 1. melléklet szerinti egyszeri átcsoportosítását elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet 32. Rendkívüli kormányzati intézkedések cím terhére;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján elrendeli az erdélyi oktatási és kulturális célú programok, beruházások megvalósításának finanszírozásához szükséges 1470,4 millió forint, 1. melléklet szerinti egyszeri átcsoportosítását elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet 32. Rendkívüli kormányzati intézkedések cím terhére;
 
 ## Az átcsoportosítás tekintetében:
 
@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelő miniszterelnök-helyettes
 
-## Határidő: 2016. június 30.
+## Határidő: 2016. június 30., a kolozsvári Bornemissza–Szilvássy Ház felújítása céljából biztosított 942,4 millió forint tekintetében 2017. június 30.
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy 2016. évben 130 millió forintot biztosítson a célok megvalósítására;
 
@@ -93,3 +93,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 7. pontja szerint módosított szöveg.
