@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1526-30
 | 2013-08-12 | 2013-1526-30-22.1 | 1526/2013. (VIII. 12.) Korm. határozat |
 | 2014-09-29 | 2013-1526-30-22.2 | 1547/2014. (IX. 29.) Korm. határozat |
 | 2015-07-27 | 2013-1526-30-22.3 | 1547/2014. (IX. 29.) Korm. határozat |
+| 2016-04-11 | 2013-1526-30-22.4 | 1182/2016. (IV. 11.) Korm. határozat |
