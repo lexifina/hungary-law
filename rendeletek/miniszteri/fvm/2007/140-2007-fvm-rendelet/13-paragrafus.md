@@ -1,0 +1,8 @@
+## 12. §[^80] E rendeletnek a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet, valamint a sertés ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 140/2007. (XI. 28.) FVM rendelet módosításáról szóló 80/2015. (XII. 4.) FM rendelettel [a továbbiakban: 80/2015. (XII. 4.) FM rendelet] megállapított 1. § (1) bekezdés e) pontját, (5), (6) és (6b) bekezdését, 1/A. §-át, 2. § (2) bekezdés a) és d) pontját, 2. § (4), (5), (6) bekezdés e) pontját, (7) bekezdés d) pontját és (9a) bekezdését, 3. § (4) bekezdését, 4. § (4) bekezdését, 5. § (3) bekezdését, 6. § (6) és (7) bekezdését, 7. § (4) bekezdését, 8. § (4) bekezdését, 9. § (3) bekezdését, valamint 1. és 3. számú mellékletét a 2015. IV. negyedévre benyújtott támogatási kérelmekre nem kell alkalmazni.
+
+13. §[^81] (1) E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 25/2016. (IV. 11.) FM rendelettel [a továbbiakban: 25/2016. (IV. 11.) FM rendelet] megállapított 1. § (7) bekezdését, 1/A. § (5) bekezdését, 2. § (4) és (4a) bekezdését, valamint 2. § (8) bekezdését a 2016. támogatási évre vonatkozóan benyújtott támogatási kérelemre indult eljárásokban is alkalmazni kell.
+
+(2) E rendeletnek a 25/2016. (IV. 11.) FM rendelettel hatályon kívül helyezett 1. § (6b) bekezdését és 2. § (11) bekezdését a 2016. támogatási évre benyújtott támogatási kérelemre indult eljárásokban sem kell alkalmazni.
+
+[^80]: A 12. §-t a 80/2015. (XII. 4.) FM rendelet 17. §-a iktatta be.
+[^81]: A 13. §-t a 25/2016. (IV. 11.) FM rendelet 10. §-a iktatta be.

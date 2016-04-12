@@ -40,9 +40,9 @@ g) a megfelelő mikroklíma
 
 (6a)[^8] A 2015. támogatási évben rendelkezésre álló éves keretösszeg 9,1 milliárd forint.
 
-(6b)[^9] Ha az adott támogatási évre vonatkozóan benyújtott támogatási kérelmekben foglalt összes jogos támogatási igény összege meghaladja az adott támogatási évre rendelkezésre álló támogatási keret összegét, akkor az adott támogatási évre az ügyfél részére legfeljebb megállapítható támogatás összege a túllépés mértékével arányosan csökken.
+(6b)[^9]
 
-(7)[^10] Amennyiben az adott támogatási évre vonatkozóan a jogos igény a (6) bekezdés szerinti összeget meghaladja, úgy a támogatás összege a túligénylés által érintett negyedévre vonatkozóan benyújtott kérelmek között a túllépés mértékével arányosan csökken.
+(7)[^10] Amennyiben az adott támogatási évre vonatkozóan a jogos igény a (6) bekezdés szerinti összeget meghaladja, úgy a támogatás összege a túligénylés által érintett negyedévre vonatkozóan benyújtott kifizetési kérelmek között a túllépés mértékével arányosan csökken.
 
 (8)[^11] A támogatás folyósítását a Földművelésügyi Minisztérium fejezeti kezelésű, 10032000-01220191-51200002 számú Folyó kiadások és jövedelemtámogatások előirányzat-felhasználási keretszámláról kell teljesíteni.
 
@@ -54,6 +54,6 @@ g) a megfelelő mikroklíma
 [^6]: Az 1. § (5) bekezedése a 80/2015. (XII. 4.) FM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (6) bekezdése a 33/2014. (IV. 4.) VM rendelet 11. § (2) bekezdésével megállapított, a 80/2015. (XII. 4.) FM rendelet 19. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (6a) bekezdését újonnan a 80/2015. (XII. 4.) FM rendelet 12. § (3) bekezdése iktatta be.
-[^9]: Az 1. § (6b) bekezedését a 80/2015. (XII. 4.) FM rendelet 12. § (3) bekezdése iktatta be.
-[^10]: Az 1. § (7) bekezdése a 33/2014. (IV. 4.) VM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (6b) bekezdését a 80/2015. (XII. 4.) FM rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 25/2016. (IV. 11.) FM rendelet 12. §-a.
+[^10]: Az 1. § (7) bekezdése a 33/2014. (IV. 4.) VM rendelet 11. § (3) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 11. § a) pontja szerint módosított szöveg.
 [^11]: Az 1. § (8) bekezdése az 58/2015. (IX. 24.) FM rendelet 10. § b) pontja szerint módosított szöveg.

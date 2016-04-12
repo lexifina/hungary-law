@@ -38,6 +38,6 @@
 
 |  | 5. | a) minőségi adatok aa) férőhely mértéke; ab) természetes tartási feltételek javulása (%-ban); ac) természetes és mesterséges fény biztosítása (óra); ad) verekedés, kimarás gyakorisága (%-ban); ae) takarmányozáshoz felhasznált ivóvíz minősége; af) almozás gyakorisága; ag) gázkoncentráció szintje b) elhullások száma (ÁE) c) csökkent értékű értékesítés száma (ÁE) |  |  |  |
 
-2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^66]
+2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^83]
 
-[^66]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított, nyitó szövegrésze a 80/2015. (XII. 4.) FM rendelet 19. § b) pontja szerint módosított szöveg.
+[^83]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított, nyitó szövegrésze a 80/2015. (XII. 4.) FM rendelet 19. § b) pontja szerint módosított szöveg.

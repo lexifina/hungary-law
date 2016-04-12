@@ -8,13 +8,16 @@
 
 (4) A támogatási kérelemhez csatolni kell
 
-a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet I. mellékletében meghatározott kritériumokat nem teljesítő vállalkozásnak (a továbbiakban: nagyvállalkozás) minősülő ügyfél esetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal által a nagyvállalkozás támogatás igénybevételével előálló és a támogatás igénybevétele nélkül várható helyzetére vonatkozó, az 1. számú melléklet II. pontjában meghatározott adattartalmú elemzés alapján kiállított igazolást arról, hogy részvétele a támogatási programban indokolt;
+a)[^14] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet I. mellékletében meghatározott kritériumokat nem teljesítő vállalkozásnak (a továbbiakban: nagyvállalkozás) minősülő ügyfél esetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal által a nagyvállalkozás támogatás igénybevételével előálló és a támogatás igénybevétele nélkül várható helyzetére vonatkozó, az 1. számú melléklet II. pontjában meghatározott adattartalmú elemzés alapján kiállított igazolás eredeti példányát arról, hogy részvétele a támogatási programban indokolt;
 
-b) az állattartó telep fekvése szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal igazolását az ENAR nyilvántartásba bejelentett vágósertés férőhely kapacitása alapján megállapított maximálisan tarható vágósertés létszámról darabszámban kifejezve.
+b)[^15] az állattartó telep fekvése szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal igazolásának eredeti példányát az ENAR nyilvántartásba bejelentett vágósertés férőhely kapacitása alapján megállapított maximálisan tarható vágósertés létszámról darabszámban kifejezve.
 
-(5) A támogatási kérelmet az MVH a kérelem benyújtására nyitva álló határidő utolsó napját követő hatvan napon belül bírálja el.
+(5)[^16] Az MVH a támogatási kérelemről az ott megjelölt, tervezett állatlétszám alapján jóváhagyott állatlétszámra vonatkozóan hoz döntést.
 
 (6) A támogatási évben az (1) bekezdés szerinti támogatási kérelemben megjelölt vágósertések vonatkozásában a támogatási kérelem benyújtása előtt megkezdett tevékenység nem támogatható.
 
 [^12]: Az 1/A. §-t megelőző alcímet a 80/2015. (XII. 4.) FM rendelet 13. §-a iktatta be.
 [^13]: Az 1/A. §-t a 80/2015. (XII. 4.) FM rendelet 13. §-a iktatta be.
+[^14]: Az 1/A. § (4) bekezdés a) pontja a 25/2016. (IV. 11.) FM rendelet 11. § b) pontja szerint módosított szöveg.
+[^15]: Az 1/A. § (4) bekezdés b) pontja a 25/2016. (IV. 11.) FM rendelet 11. § c) pontja szerint módosított szöveg.
+[^16]: Az 1/A. § (5) bekezdése a 25/2016. (IV. 11.) FM rendelet 8. §-ával megállapított szöveg.
