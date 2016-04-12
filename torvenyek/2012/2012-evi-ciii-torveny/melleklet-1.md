@@ -6,18 +6,6 @@ Az Erzsébet Vagyonkezelő Korlátolt Felelősségű Társaság vagyonkezelésé
 
 |
 
-A
-
-|
-
-B
-
-|
-
-1
-
-|
-
 Helyrajzi szám
 
 |
@@ -26,295 +14,7 @@ Megnevezés
 
 |
 
-2
-
-|
-
-Zánka, Külterület 017/5 hrsz.
-
-|
-
-kivett gyermekváros
-
-|
-
-3
-
-|
-
-Zánka, Külterület 017/6 hrsz.
-
-|
-
-kivett gyermekváros
-
-|
-
-4
-
-|
-
-Zánka, Külterület 017/7 hrsz.
-
-|
-
-kivett gyermekváros
-
-|
-
-5
-
-|
-
-Zánka, Külterület 018/3 hrsz.
-
-|
-
-kivett gyermekváros és „Kikötő szárazföldi terület”
-
-|
-
-6
-
-|
-
-Zánka, Külterület 018/7 hrsz.
-
-|
-
-kivett gyermekváros
-
-|
-
-7
-
-|
-
-Zánka, Külterület 018/8 hrsz.
-
-|
-
-kivett gyermekváros
-
-|
-
-8
-
-|
-
-Zánka, Külterület 022/17 hrsz.
-
-|
-
-kivett móló
-
-|
-
-9
-
-|
-
-Zánka, Külterület 022/19 hrsz.
-
-|
-
-kivett móló
-
-|
-
-10
-
-|
-
-Zánka, Külterület 026/2 hrsz.
-
-|
-
-kivett úttörőváros
-
-|
-
-11
-
-|
-
-Zánka, Külterület 028 hrsz.
-
-|
-
-kivett úttörőváros
-
-|
-
-12
-
-|
-
-Zánka, Külterület 029 hrsz.
-
-|
-
-kivett úttörőváros
-
-|
-
-13
-
-|
-
-Zánka, Külterület 030/10 hrsz.
-
-|
-
-kivett gyermekváros
-
-|
-
-14
-
-|
-
-Zánka, Külterület 030/11 hrsz.
-
-|
-
-kivett gyermekváros
-
-|
-
-15
-
-|
-
-Zánka, Külterület 030/13 hrsz.
-
-|
-
-kivett gyermekváros
-
-|
-
-16
-
-|
-
-Zánka, Külterület 038/1 hrsz.
-
-|
-
-legelő
-
-|
-
-17
-
-|
-
-Zánka, Külterület 039 hrsz.
-
-|
-
-kivett patak (Csorsza-patak)
-
-|
-
-18
-
-|
-
-Zánka, Külterület 041 hrsz.
-
-|
-
-kivett, saját használatú út
-
-|
-
-19
-
-|
-
-Zánka, Külterület 042 hrsz.
-
-|
-
-rét
-
-|
-
-20
-
-|
-
-Zánka, Külterület 043 hrsz.
-
-|
-
-rét
-
-|
-
-21
-
-|
-
-Fonyód, 10232/9 hrsz.
-
-|
-
-kivett transzformátorház
-
-|
-
-22
-
-|
-
-Fonyód, 10232/14 hrsz.
-
-|
-
-kivett út
-
-|
-
-23
-
-|
-
-Fonyód, 10232/16 hrsz.
-
-|
-
-kivett táborhely
-
-|
-
-24
-
-|
-
-Fonyód, 10232/17 hrsz.
-
-|
-
-kivett út
-
-|
-
-25
-
-|
-
-Fonyód, 10232/18 hrsz.
-
-|
-
-kivett táborhely
-
-|
-
-26
+1.
 
 |
 
@@ -326,7 +26,7 @@ kivett üdülőépület 2 db és udvar
 
 |
 
-27
+2.
 
 |
 
@@ -338,7 +38,7 @@ kivett üdülőépület, udvar
 
 |
 
-28
+3.
 
 |
 
@@ -350,7 +50,7 @@ kivett úttörőtábor
 
 |
 
-29
+4.
 
 |
 
@@ -362,19 +62,7 @@ kivett üdülőépület és napközi otthon és udvar
 
 |
 
-30
-
-|
-
-Balatonberény, 657/20 hrsz.
-
-|
-
-kivett üdülőépület
-
-|
-
-31
+5.
 
 |
 
@@ -386,7 +74,7 @@ kivett továbbképző intézet és szálloda
 
 |
 
-32
+6.
 
 |
 
@@ -398,7 +86,7 @@ kivett út
 
 |
 
-33
+7.
 
 |
 
@@ -410,7 +98,7 @@ kivett szálloda, táborhely
 
 |
 
-34
+8.
 
 |
 
@@ -422,7 +110,7 @@ kivett beépítetlen terület
 
 |
 
-35
+9.
 
 |
 
@@ -434,7 +122,7 @@ kivett beépítetlen terület
 
 |
 
-36
+10.
 
 |
 
@@ -446,7 +134,7 @@ kivett melléképület, udvar
 
 |
 
-37
+11.
 
 |
 
@@ -458,7 +146,7 @@ kivett transzformátorház
 
 |
 
-38
+12.
 
 |
 
@@ -470,7 +158,7 @@ kivett üdülőépület, udvar (27 db üdülőépület) és gazdasági épület 
 
 |
 
-39
+13.
 
 |
 
@@ -482,7 +170,7 @@ kivett gazdasági épület, udvar
 
 |
 
-40
+14.
 
 |
 
@@ -494,7 +182,7 @@ kivett üdülőépület, udvar
 
 |
 
-41
+15.
 
 |
 
@@ -503,3 +191,255 @@ Balatonszemes, 1430 hrsz.
 |
 
 kivett transzformátorház
+
+|
+
+16.
+
+|
+
+Zánka, Külterület 017/5 hrsz.
+
+|
+
+kivett gyermekváros
+
+|
+
+17.
+
+|
+
+Zánka, Külterület 017/6 hrsz.
+
+|
+
+kivett gyermekváros
+
+|
+
+18.
+
+|
+
+Zánka, Külterület 017/7 hrsz.
+
+|
+
+kivett gyermekváros
+
+|
+
+19.
+
+|
+
+Zánka, Külterület 018/3 km
+
+|
+
+kivett gyermekváros és „Kikötő szárazföldi terület”
+
+|
+
+20.
+
+|
+
+Zánka, Külterület 018/7 hrsz.
+
+|
+
+kivett gyermekváros
+
+|
+
+21.
+
+|
+
+Zánka, Külterület 018/8 hrsz.
+
+|
+
+kivett gyermekváros
+
+|
+
+22.
+
+|
+
+Zánka, Külterület 022/17 hrsz.
+
+|
+
+kivett móló
+
+|
+
+23.
+
+|
+
+Zánka, Külterület 022/19 hrsz.
+
+|
+
+kivett móló
+
+|
+
+24.
+
+|
+
+Zánka, Külterület 026/2 hrsz.
+
+|
+
+kivett úttörőváros
+
+|
+
+25.
+
+|
+
+Zánka, Külterület 028 hrsz.
+
+|
+
+kivett úttörőváros
+
+|
+
+26.
+
+|
+
+Zánka, Külterület 029 hrsz.
+
+|
+
+kivett úttörőváros
+
+|
+
+27.
+
+|
+
+Zánka, Külterület 030/10 hrsz.
+
+|
+
+kivett gyermekváros
+
+|
+
+28.
+
+|
+
+Zánka, Külterület 030/11 hrsz.
+
+|
+
+kivett gyermekváros
+
+|
+
+29.
+
+|
+
+Zánka, Külterület 030/13 hrsz.
+
+|
+
+kivett gyermekváros
+
+|
+
+30.
+
+|
+
+Zánka, Külterület 038/1 hrsz.
+
+|
+
+legelő
+
+|
+
+31.
+
+|
+
+Zánka, Külterület 039 hrsz.
+
+|
+
+kivett patak (Csorsza-patak)
+
+|
+
+32.
+
+|
+
+Fonyód, 10232/9 hrsz.
+
+|
+
+kivett transzformátorház
+
+|
+
+33.
+
+|
+
+Fonyód, 10232/14 hrsz.
+
+|
+
+kivett út
+
+|
+
+34.
+
+|
+
+Fonyód, 10232/16 hrsz.
+
+|
+
+kivett táborhely
+
+|
+
+35.
+
+|
+
+Fonyód, 10232/17 hrsz.
+
+|
+
+kivett út
+
+|
+
+36.
+
+|
+
+Fonyód, 10232/18 hrsz.
+
+|
+
+kivett táborhely

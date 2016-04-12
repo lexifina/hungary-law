@@ -1,13 +1,13 @@
 8. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) az Erzsébet-program keretében megvalósuló szociális üdültetésre,
+a) az Erzsébet-program keretében megvalósuló szociális üdültetésre, valamint ezen feladatok támogatására,
 
-b) az Erzsébet-program keretében megvalósuló szociális étkeztetésre,
+b) az Erzsébet-program keretében megvalósuló szociális étkeztetésre, valamint ezen feladatok támogatására,
 
-c) az Erzsébet-programmal összefüggő egyéb ifjúsági és gyermekvédelmi programokra,
+c) az Erzsébet-programmal összefüggő ifjúsági és gyermekprogramokra, gyermek- és ifjúsági táborok szervezésére, valamint ezen feladatok támogatására,
 
-d) külön törvény szerinti szociális és gyermekvédelmi támogatások Erzsébet-utalványban történő folyósítására
+d) szociális és gyermekvédelmi támogatások Erzsébet-utalványban történő folyósítására
 
 vonatkozó részletes szabályokat.
 
-(2) Felhatalmazást kap a társadalompolitika összehangolásáért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg az Erzsébet-utalvány kibocsátásának részletes szabályait.
+(2) Felhatalmazást kap a gyermek- és ifjúságpolitikáért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg az Erzsébet-utalvány kibocsátásának részletes szabályait.

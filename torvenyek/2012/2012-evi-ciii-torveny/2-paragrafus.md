@@ -14,4 +14,6 @@ bd) szociális célból, törvényben meghatározott termékek vásárlására, 
 
 felhasználható utalvány.
 
-(2) Az Erzsébet-program végrehajtásáról az MNÜA gondoskodik.
+(2) Az Erzsébet-program végrehajtásáról az MNÜA és az Erzsébet a Kárpát-medencei Gyermekekért Alapítvány (a továbbiakban: Alapítvány) gondoskodik.
+
+(3) Az Alapítvány közhasznú civil szervezet.

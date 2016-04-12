@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-103-00-00
 | 2013-06-28 | 2013. évi CXV. törvény | 2012-103-00-00.3 |
 | 2014-01-01 | 2013. évi CCXIV. törvény | 2012-103-00-00.4 |
 | 2015-01-01 | 2013. évi CCXIV. törvény | 2012-103-00-00.5 |
+| 2016-04-12 | 2016. évi XXI. törvény | 2012-103-00-00.6 |
