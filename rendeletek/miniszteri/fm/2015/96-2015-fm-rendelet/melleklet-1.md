@@ -1,5 +1,3 @@
-## 6. § Ez a rendelet az állattenyésztési ágazatok mezőgazdasági termelőinek nyújtott ideiglenes rendkívüli támogatásról szóló, 2015. október 15-i 1853/2015/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
 1. melléklet a 96/2015. (XII. 23.) FM rendelethez
 
 Támogatási kérelem

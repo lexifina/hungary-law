@@ -1,5 +1,8 @@
 1. § (1) A tejtermelők az állattenyésztési ágazatok mezőgazdasági termelőinek nyújtott ideiglenes rendkívüli támogatásról szóló, 2015. október 15-i 1853/2015/EU bizottsági rendelet (a továbbiakban: bizottsági rendelet) alapján egyszeri, 9 505 286 euró összegű támogatásban részesülnek.
 
-(2) Az (1) bekezdésben meghatározott támogatási keretösszeg további 2 973 253 000 forint támogatással kiegészítésre kerül, amelynek forrása a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. cím, 5. alcím, 8. Folyó kiadások és jövedelemtámogatások fejezeti kezelésű jogcímcsoport átmeneti nemzeti támogatások 2016. évi tejtámogatásra fordítható összege.
+(2)[^1] Az (1) bekezdésben meghatározott támogatási keretösszeg további 2 979 431 000 forint támogatással kiegészítésre kerül, amelynek forrása a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. cím, 5. alcím, 8. Folyó kiadások és jövedelemtámogatások fejezeti kezelésű jogcímcsoport átmeneti nemzeti támogatások 2016. évi tejtámogatásra fordítható összege.
 
-(3) A közösségi támogatás forintban meghatározott értékének kiszámításakor a bizottsági rendelet hatálybalépése időpontjának napján érvényes, az Európai Központi Bank által hivatalosan közzétett forint/euró középárfolyamot kell alapul venni.
+(3)[^2] Az átváltási árfolyam az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, a biztosítékok és az euró használata tekintetében történő kiegészítéséről szóló, 2014. március 11-i 907/2014/EU bizottsági rendelet 40. cikkében rögzítettek alapján kerül meghatározásra.
+
+[^1]: Az 1. § (2) bekezdése a 25/2016. (IV. 11.) FM rendelet 76. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 76. §-ával megállapított szöveg.
