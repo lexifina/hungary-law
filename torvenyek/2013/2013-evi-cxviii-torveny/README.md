@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-118-00-00
 | 2013-06-28 | 2013. évi CXVIII. törvény | 2013-118-00-00.0 (közlönyállapot) |
 | 2013-06-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-118-00-00.1 |
 | 2013-06-29 | 2010. évi CXXX. törvény | 2013-118-00-00.2 |
+| 2016-04-12 | 2016. évi XXI. törvény | 2013-118-00-00.3 |
