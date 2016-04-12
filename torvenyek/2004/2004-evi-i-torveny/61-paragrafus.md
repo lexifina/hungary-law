@@ -1,6 +1,6 @@
 61. § (1) A járadékra jogosultságot és a járadékot a MOB a jogosult kérelmére közigazgatási hatósági eljárás keretében állapítja meg és gondoskodik annak havonta történő folyósításáról. A járadék fedezetét és a végrehajtás költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
 
-(2) A járadékra való jogosultság megszűnéséről és a már folyósított járadék visszafizetéséről, továbbá a járadék folyósításának felfüggesztéséről a MOB a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint dönt.
+(2) A járadékra való jogosultság megszűnéséről és a már folyósított járadék visszafizetéséről, továbbá a járadék folyósításának felfüggesztéséről a MOB a Ket. rendelkezései szerint dönt.
 
 (3) A MOB a járadék visszafizetésére vonatkozó igényét a járadék jogosulatlan felvételétől számított öt éven belül érvényesítheti.
 

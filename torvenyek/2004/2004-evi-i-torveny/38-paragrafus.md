@@ -24,7 +24,7 @@ f) kizárólagos jogokat gyakorol – a NOB előírásaival összhangban – az 
 
 fa) a sportágak és a sportolók nevezése és sportszakemberek akkreditálása a nyári és téli olimpiai játékokra, a nyári és téli ifjúsági olimpiai játékokra, valamint az európai ifjúsági olimpiai fesztiválra, a NOB és az Európai Olimpiai Bizottság által elismert sporteseményekre, játékokra, továbbá a nyári és a téli európai ifjúsági olimpiai fesztiválokra,
 
-fb) az olimpiai jelkép, zászló, jelvény, jelmondat, himnusz, valamint az „olimpia” és az „olimpiai” elnevezés kereskedelmi vagy egyéb célú felhasználása, illetve ezek mások általi használatának, hasznosításának engedélyezése, valamint az ezzel kapcsolatos vagyoni jogok gyakorlása, illetve az ezekkel való rendelkezés.
+fb) a NOB szabályzataiban – különösen az olimpiai szimbólumnak, zászlónak, jelmondatnak, lángnak, fáklyának az „olimpia” és „olimpiai” elnevezésnek –, valamint azok bármely nyelvű fordításának bármilyen módon és formában történő megjelenítése, felhasználása, illetve ezek mások általi bármilyen módon és formában történő megjelenítésének, felhasználásának engedélyezése, valamint az ezzel kapcsolatos vagyoni jogok gyakorlása, illetve az ezekkel való rendelkezés. Az olimpiai tulajdonelemek megjelenítésének tekintendők az olimpiai tulajdonelemekhez hasonló, azokkal összevethető, azokra közvetett, de egyértelműen azonosítható formában utaló megjelenítések.
 
 (4) A MOB feladatai a fogyatékosok sportja területén – az (5) bekezdésben foglaltakra is figyelemmel – elsősorban:
 

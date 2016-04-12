@@ -46,13 +46,15 @@ fe) a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás 
 
 ff) az fe) alpontban meghatározott feladata ellátása során összesítő elszámolást készít az ellenőrzés eredményéről az ellenőrzést követő 8 napon belül a sportpolitikáért felelős miniszter részére,
 
-fg) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez.
+fg) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez,
+
+fh) ellátja a Tao. 24/A. § (20) bekezdésében meghatározott igazolás kiállításával összefüggő feladatokat,
 
 g) sportágában elláthatja a sportág fogyatékosok sportjával összefüggő feladatait, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
 
 h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni.
 
-(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatóság eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései alapján.
+(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései alapján.
 
 (3a) A szakszövetség gazdálkodásával összefüggő, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti közérdekű vagy közérdekből nyilvános adatok megismerésére vonatkozó igények a nem állami, nem önkormányzati támogatások tekintetében összesített adattartalom szolgáltatásával is teljesíthetőek.
 
@@ -61,3 +63,7 @@ h) sportágában elláthat szabadidős sporttevékenységgel összefüggő felad
 (5) A (2) bekezdés f) pont fa) és fb) alpontja alapján végzett közigazgatási hatósági eljárásokért és igazgatási jellegű szolgáltatások igénybevételéért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 (6) A sportág céljainak elérése érdekében – összhangban a sportág stratégiai fejlesztési koncepciójában foglaltakkal – a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a versenyrendszer (bajnokság) kiírásával, szervezésével, lebonyolításával, valamint a versenyrendszerben (bajnokságban) szervezett sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.
+
+(7) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) alpontjában meghatározott feladat ellátása során a kérelem beérkezésétől számított 120 napon belül hoz döntést. A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendeletben (a továbbiakban: a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendelet) meghatározott sportfejlesztési program módosítására, illetve meghosszabbítására irányuló kérelem elbírálására nyitva álló ügyintézési határidő 60 nap.
+
+(8) A Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezetet nem illeti meg a Ket. 71. § (2) bekezdés a) pontjában meghatározott kérelmezett jog gyakorlása, ha a látvány-csapatsportban működő szakszövetség a (7) bekezdésben előírt határidőben nem hoz döntést.
