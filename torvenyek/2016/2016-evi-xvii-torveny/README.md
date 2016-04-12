@@ -1,0 +1,7 @@
+# 2016. évi XVII. törvény az államháztartásról szóló 2011. évi CXCV. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-17-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2016-04-12 | 2016. évi XVII. törvény | 2016-17-00-00.0 (közlönyállapot) |
