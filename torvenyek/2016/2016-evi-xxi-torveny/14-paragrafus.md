@@ -7,11 +7,3 @@
 (3) A 10. § a) és b) pontja 2016. december 1. napján lép hatályba.
 
 (4) A 10. § c) és d) pontja 2017. június 30. napján lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
