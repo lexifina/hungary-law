@@ -1,0 +1,1 @@
+105/A. § (1) E törvénynek a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosításáról szóló 2016. évi XVI. törvénnyel módosított 104/A. §-át a folyamatban lévő ügyekben is alkalmazni kell.
