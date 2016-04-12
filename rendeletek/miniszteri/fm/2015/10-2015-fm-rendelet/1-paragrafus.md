@@ -54,9 +54,12 @@
 
 24. víz alatt álló kultúra: rizs, indiánrizs;
 
-25. vizesárok: öntözés vagy vízelvezetés céljára szolgáló mesterséges létesítmény és a hozzá tartozó legfeljebb két méter széles part menti földterület, amelynek együttes szélessége legfeljebb hat méter, kivéve a betonnal vagy egyéb mesterséges szilárd burkolattal ellátott csatornákat, műtárgyakat.
+25. vizesárok: öntözés vagy vízelvezetés céljára szolgáló mesterséges létesítmény és a hozzá tartozó legfeljebb két méter széles part menti földterület, amelynek együttes szélessége legfeljebb hat méter, kivéve a betonnal vagy egyéb mesterséges szilárd burkolattal ellátott csatornákat, műtárgyakat;
+
+26.[^3] minősített szaporítóanyag: a szántóföldi növényfajok vetőmagjainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet 1., 3., és 4. számú mellékletében meghatározott paramétereknek teljes körűen megfelelő szaporítóanyag.
 
 (2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az 50/2008. (IV. 24.) FVM rendelet szerinti fogalom-meghatározásokat kell figyelembe venni.
 
 [^1]: Az 1. § (1) bekezdés 4. pontja a 40/2015. (VII. 13.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 15. pontja az 52/2015. (IX. 7.) FM rendelet 28. §-ával megállapított szöveg.
+[^3]: Az 1. § 26. pontját a 25/2016. (IV. 11.) FM rendelet 54. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 a) aki a szántóterülete egészén és a növénytermesztési ciklus jelentős részében víz alatt álló kultúrát termel;
 
-b)[^12] akinek szántóterületének mérete tíz hektárnál kisebb;
+b)[^16] akinek szántóterületének mérete tíz hektárnál kisebb;
 
 c) akinek a szántóterülete több mint 75%-a
 
@@ -30,4 +30,4 @@ dd) a da)–dc) alpontban meghatározott területek kombinációja
 
 e) akinek a tárgyévi egységes kérelemben bejelentett szántóterülete több mint 50%-át az előző évi egységes kérelmében nem jelentette be, vagy nem ugyanazon mezőgazdasági termelő jelentette be, és a szántóterület egészén az előző naptári évben termesztettől növényektől eltérő növényeket termeszt.
 
-[^12]: A 9. § b) pontja a 40/2015. (VII. 13.) FM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^16]: A 9. § b) pontja a 40/2015. (VII. 13.) FM rendelet 11. § (4) bekezdésével megállapított szöveg.

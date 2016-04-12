@@ -46,7 +46,7 @@
 
 | 12. Nitrogénmegkötő növényekkel bevetett terület | szántón | poligon | nem lineáris | nincs | 0,7 | 0,25 ha | nincs |
 
-6. melléklet a 10/2015. (III. 13.) FM rendelethez
+6. melléklet a 10/2015. (III. 13.) FM rendelethez[^42]
 
 ## A terménydiverzifikáció esetében a nemzetségek meghatározása, a növénykultúrák megkülönböztetése
 
@@ -246,13 +246,13 @@ I. A 8. § (1) bekezdés a) pontja szerinti, különböző nemzetségbe tartozó
 
 | 95. | Szójabab | Glycine |
 
-| 96. | Szezámmag | Sesamum |
+| 96. | Szezám | Sesamum |
 
 | 97. | Földimogyoró | Arachis |
 
-| 98. | Sáfránymag | Crocus |
+| 98. | Sáfrányos szeklice | Crocus |
 
-| 99. | Ricinusmag | Ricinus |
+| 99. | Ricinus | Ricinus |
 
 | 100. | Mák | Papaver |
 
@@ -363,3 +363,5 @@ II. A 8. § (1) bekezdés b) pontja szerinti, a káposztafélék, a burgonyafél
 |  | 5. | Citrullus lanatus | Tökre oltott dinnye |
 
 III. A 8. § (1) bekezdés e) pontja szerinti, ugyanazon nemzetség őszi és tavaszi vetésű növényfajainak listája
+
+[^42]: A 6. melléklet a 25/2016. (IV. 11.) FM rendelet 60. § c) pontja szerint módosított szöveg.
