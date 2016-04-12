@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Mongólia Kormánya között a diplomata és szolgálati/hivatalos útlevéllel rendelkező állampolgáraik vízummentességéről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.

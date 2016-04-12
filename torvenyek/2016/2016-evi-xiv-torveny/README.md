@@ -1,0 +1,7 @@
+# 2016. évi XIV. törvény a Magyarország Kormánya és Mongólia Kormánya között a diplomata és szolgálati/hivatalos útlevéllel rendelkező állampolgáraik vízummentességéről szóló megállapodás kihirdetéséről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-14-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2016-04-12 | 2016. évi XIV. törvény | 2016-14-00-00.0 (közlönyállapot) |
