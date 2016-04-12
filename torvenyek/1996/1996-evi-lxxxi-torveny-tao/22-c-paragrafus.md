@@ -118,7 +118,7 @@ ec) (6) bekezdés bc) alpontjában foglaltak teljesülése esetén 30
 
 százalékát, kivéve, ha a beruházás, felújítás sportcélú ingatlanra irányul és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint utófinanszírozás keretében kerül a támogatott szerv részére kifizetésre. Ilyen esetben a jóváhagyott sportfejlesztési program alapján a támogatási időszakban a sportcélú ingatlanfejlesztés készültségével arányos elszámolás benyújtását és annak elfogadását követően nyújtható támogatás.
 
-(4a) A látvány-csapatsportban működő hivatásos sportszervezet támogatása esetén a (4) bekezdés e) pontja szerinti mértékeket a támogatási igazolások összértékének támogatási szerződés keretében megfizetett kiegészítő sportfejlesztési támogatással összevont értékére kell alkalmazni.
+(4a) A látvány-csapatsportban működő hivatásos sportszervezet támogatása esetén a (4) bekezdés e) pontja szerinti mértékeket a támogatási igazolások összértékének támogatási szerződés keretében az (1) bekezdés c) pont cb) alpontjában meghatározott jogcímre nyújtott támogatáshoz kapcsolódó, a támogatott hivatásos sportszervezet részére megfizetett kiegészítő sportfejlesztési támogatással összevont értékére kell alkalmazni.
 
 (5) Támogatási igazolás a támogatás igénybevételére jogosult szervezettel kapcsolatban csak akkor állítható ki, ha
 
@@ -184,7 +184,11 @@ e) a jelenértékén legalább 10 millió forint értékű tárgyi eszköz beruh
 
 (6a)
 
-(6a) A (6) bekezdés a) és d) pontjában a Magyar Állam javára szóló jelzálogjog bejegyzésre vonatkozó rendelkezést nem kell alkalmazni, ha a (6) bekezdés a) vagy d) pontja szerinti, építési engedélyhez kötött tárgyi eszköz beruházás, felújítás állami tulajdonban álló sportcélú ingatlanra irányul.
+(6a) A (6) bekezdés a) és d) pontjában a magyar állam javára szóló jelzálogjog-bejegyzésre vonatkozó rendelkezést nem kell alkalmazni, ha a (6) bekezdés a) vagy d) pontja szerinti, építési engedélyhez kötött tárgyi eszköz beruházás, felújítás
+
+a) állami tulajdonban álló sportcélú ingatlanra irányul, vagy
+
+b) a helyi önkormányzat törzsvagyonának részét képező ingatlanon valósul meg és a beruházás üzembe helyezését követő 30 napon belül a beruházás értékéről szóló megállapodás megkötése mellett a helyi önkormányzat tulajdonába kerül.
 
 (6b) A (6) bekezdés e) pontját a támogatásból megvalósuló, építési beruházással járó, sportcélú ingatlanra irányuló tárgyi eszköz beruházás, felújítás esetén nem kell alkalmazni, ha a támogatási kérelem tárgya sportcélú ingatlanra irányuló, nem a támogatásból finanszírozott, már megkezdett építési beruházással járó tárgyi eszköz beruházás, felújítás, és ezen sportcélú ingatlanfejlesztést közbeszerzési eljárás eredményeként nyertes ajánlattevő végzi.
 
