@@ -1,6 +1,6 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 8/2015. (III. 13.) FM rendelethez
+1. melléklet a 8/2015. (III. 13.) FM rendelethez[^9]
 
 ## TEÁOR 08 kódok
 
@@ -28,11 +28,27 @@ II. Ingatlanvállalat üzemeltetése:
 
 ## 4110 épületépítési projekt szervezése
 
+## 4120 lakó- és nem lakó épület építése
+
+## 4299 egyéb máshová nem sorolt építés
+
+## 4222 elektromos, híradás-technikai célú közmű építése
+
+## 4213 híd, alagút építése
+
+## 4211 út, autópálya építése
+
+## 6820 saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése
+
 ## 6831 ingatlanügynöki tevékenység
 
 ## 6832 ingatlankezelés
 
-III. Vasúttársaság üzemeltetése:
+III. Repülőtér üzemeltetése:
+
+## 5223 légi szállítást kiegészítő szolgáltatás
+
+IV. Vasúttársaság üzemeltetése:
 
 ## 4212 vasút építése
 
@@ -40,4 +56,6 @@ III. Vasúttársaság üzemeltetése:
 
 ## 4920 vasúti áruszállítás
 
-IV. Vízmű üzemeltetése:
+V. Vízmű üzemeltetése:
+
+[^9]: Az 1. melléklet a 25/2016. (IV. 11.) FM rendelet 41. § a) pontjával megállapított szöveg.

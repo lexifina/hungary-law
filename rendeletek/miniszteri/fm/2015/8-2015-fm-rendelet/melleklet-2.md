@@ -6,7 +6,17 @@
 
 ## 4291 vízi létesítmény építése
 
-2. melléklet a 8/2015. (III. 13.) FM rendelethez
+## 4950 csővezetékes szállítás
+
+## 8110 építményüzemeltetés
+
+## 9321 vidámparki, szórakoztatóparki tevékenység
+
+## 9329 máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység
+
+## 9603 temetkezés, temetkezést kiegészítő szolgáltatás
+
+2. melléklet a 8/2015. (III. 13.) FM rendelethez[^10]
 
 ## ÖVTJ kódok
 
@@ -32,7 +42,7 @@ I. Állandó sport- és rekreációs terület üzemeltetése:
 
 ## 931905 sport és szabadidős lovagoltatás
 
-## 931907 lovasterápia
+## 869010 lovasterápia
 
 ## 932903 strandfürdő szolgáltatás
 
@@ -62,10 +72,14 @@ IV. Vasúttársaság üzemeltetése:
 
 V. Vízmű üzemeltetése:
 
-3600 víztermelés, kezelés, ellátás
+360001 vízóra hitelesítése
 
-3700 szennyvíz gyűjtése, kezelése
+370001 szennyvíz- és csapadékvíz-csatorna tisztítása, dugulás megszüntetése
+
+370002 szennyvízszippantás
 
 422102 vízi csatorna, közműépítés
 
 429101 vízi létesítmény építése
+
+[^10]: A 2. melléklet a 25/2016. (IV. 11.) FM rendelet 41. § b) pontjával megállapított szöveg.

@@ -8,6 +8,8 @@ b) az Európai Mezőgazdasági Garancia Alapból, valamint a központi költség
 
 c) elsődleges üzleti tevékenysége mezőgazdasági tevékenység.
 
-(3) A mezőgazdasági termelőnek nyújtott, a (2) bekezdés a) pontja szerinti közvetlen támogatás éves összege a közvetlen támogatásoknak az a teljes, támogatás csökkentések és levonások nélkül számított összege, amelyre a mezőgazdasági termelő az 1307/2013/EU rendeletnek – a 2015. évnél korábbi utolsó pénzügyi év esetén a 73/2009/EK rendeletnek – megfelelően jogosult volt abban a legutolsó lezárt pénzügyi évben, amelyre vonatkozóan a nem mezőgazdasági tevékenységből származó bevétel igazolható.
+(3)[^4] A mezőgazdasági termelőnek nyújtott, a (2) bekezdés a) pontja szerinti közvetlen támogatás éves összege a közvetlen támogatásoknak az a teljes, csökkentések és levonások nélkül számított összege, amelyre a mezőgazdasági termelő az 1307/2013/EU rendeletnek megfelelően jogosult volt abban az utolsó lezárt pénzügyi évben, amelyre vonatkozóan a nem mezőgazdasági tevékenységből származó bevétel igazolható.
 
 (4) Az (1) bekezdésben foglaltakat nem kell alkalmazni arra a mezőgazdasági termelőre, aki, vagy amely az igénylést megelőző évben benyújtott kérelme alapján ötezer eurót meg nem haladó közvetlen támogatásban részesült.
+
+[^4]: A 3. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 40. §-ával megállapított szöveg.
