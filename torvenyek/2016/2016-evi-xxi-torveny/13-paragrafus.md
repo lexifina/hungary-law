@@ -1,0 +1,7 @@
+## 4. Az egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, valamint a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosításáról szóló 2013. évi CXVIII. törvény módosítása
+
+13. § Az egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, valamint a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosításáról szóló 2013. évi CXVIII. törvény 10. §-a helyébe az alábbi rendelkezés lép:
+
+„10. § (1) Az Országgyűlés az Nvtv. 14. § (1) bekezdése alapján úgy rendelkezik, hogy a Budapest Főváros Önkormányzata tulajdonában álló, Budapest 24447/2 helyrajzi számú és Budapest 24456/3 helyrajzi számú ingatlanok, 2013. augusztus 1-jével ingyenesen az állam tulajdonába kerülnek az aktív kikapcsolódás lehetőségeit ötvöző közösségi tér megteremtése és működtetése, valamint törvényben meghatározott egyéb közfeladatok ellátása érdekében. Az Erzsébet tér, mint közpark üzemeltetése állami feladat.
+
+(2) Az Erzsébet tér, mint közpark üzemeltetése körében 2016. szeptember 1-jétől a zöldfelületek fejlesztését és karbantartását az állam a Belváros-Lipótvárosi Budapest Főváros V. kerület Önkormányzata útján, az erre a célra nevesített támogatás biztosítása mellett látja el. A zöldfelületek fejlesztésére és karbantartására vonatkozó üzemeltetési szerződést az állam nevében az MNV Zrt. köti meg.”
