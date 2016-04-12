@@ -68,9 +68,12 @@ c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b)
 
 17. tőszámbeállottság: a tárgyévben az adott támogatási jogcím vonatkozásában igényelt területen a termés hozatalára képes egyedek és a telepítési engedélyben meghatározott tőszám szerinti egyedek – telepítési engedély hiányában a területen meghatározó térállásra jellemző tőszám alapján számított egyedek – aránya.
 
+18.[^7] homogén ültetvény: legalább 95%-ban egy faj azonos vagy különböző korú egyedeiből álló ültetvény.
+
 [^1]: Az 1. § 2. pont b) alpontja a 40/2015. (VII. 13.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § 2a. pontját az 52/2015. (IX. 7.) FM rendelet 24. § (1) bekezdése iktatta be.
 [^3]: Az 1. § 2b. pontját az 52/2015. (IX. 7.) FM rendelet 24. § (1) bekezdése iktatta be.
 [^4]: Az 1. § 2c. pontját az 52/2015. (IX. 7.) FM rendelet 24. § (1) bekezdése iktatta be.
 [^5]: Az 1. § 8. pontja a 40/2015. (VII. 13.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § 9. pontja az 52/2015. (IX. 7.) FM rendelet 24. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. § 18. pontját a 25/2016. (IV. 11.) FM rendelet 44. §-a iktatta be.

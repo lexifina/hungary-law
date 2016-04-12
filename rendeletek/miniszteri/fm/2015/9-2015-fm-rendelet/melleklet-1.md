@@ -1,6 +1,6 @@
-## 24–26. §[^49]
+## 24–26. §[^60]
 
-1. melléklet a 9/2015. (III. 13.) FM rendelethez[^50]
+1. melléklet a 9/2015. (III. 13.) FM rendelethez[^61]
 
-[^49]: A 24–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^50]: Az 1. melléklet a 62/2015. (X. 12.) FM rendelet 8. §-ával megállapított szöveg.
+[^60]: A 24–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: Az 1. melléklet a 25/2016. (IV. 11.) FM rendelet 52. §-ával megállapított szöveg.

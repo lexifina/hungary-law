@@ -1,4 +1,4 @@
-## 10/A. §[^14] A 9. § (1) bekezdésében foglaltaktól eltérően az anyajuhtartás támogatása 2016. évi igénybevétele során az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2015. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 12/2015. (III. 30.) FM rendelet előírásait – az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-i 640/2014/EU bizottsági rendelet 13. cikkében foglaltakra figyelemmel – kell alkalmazni, valamint adatváltozás bejelentésére március 20-át követően van lehetőség.
+## 10/A. §[^19] A 9. § (1) bekezdésében foglaltaktól eltérően az anyajuhtartás támogatása 2016. évi igénybevétele során az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2015. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 12/2015. (III. 30.) FM rendelet előírásait – az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-i 640/2014/EU bizottsági rendelet 13. cikkében foglaltakra figyelemmel – kell alkalmazni, valamint adatváltozás bejelentésére március 20-át követően van lehetőség.
 
 ## 8. Az anyatehéntartás támogatása
 
@@ -6,7 +6,7 @@
 
 a) a támogatási kérelem benyújtásának napján a tenyészetben lévő olyan anyatehenet tart, amely nem tartozik a 2. mellékletben felsorolt fajtákhoz, és a Szarvasmarha ENAR rendelet szerinti nyilvántartásban 99-es kódon „egyéb tejhasznú”, 88-as kódon Brown Swiss, 03-as kódon Borzderes, vagy 15-ös kódon Kosztromai fajtával bejelentett fajtához, vagy olyan állományhoz tartozik, amelyben 50%-ot meghaladó mértékben hústermelés céljából nevelnek borjakat,
 
-b)[^15] gondoskodik a tenyészetében lévő állatállománynak a Szarvasmarha ENAR rendelet szerinti, de legkésőbb tárgyév május 22-éig megvalósuló jelöléséről, folyamatos nyilvántartásáról és az adatok bejelentéséről,
+b)[^20] gondoskodik a tenyészetében lévő állatállománynak a Szarvasmarha ENAR rendelet szerinti, de legkésőbb tárgyév május 22-éig megvalósuló jelöléséről, folyamatos nyilvántartásáról és az adatok bejelentéséről,
 
 c) a tenyészet vonatkozásban igazolja, hogy az a támogatási kérelem benyújtásának időpontjában gümőkor-, brucellózis- és leukózismentes,
 
@@ -20,7 +20,7 @@ g) vállalja, hogy a támogatási kérelemben bejelentett állatokat folyamatosa
 
 (2) Az (1) bekezdés c) pontja szerinti mentességnek már a támogatási kérelem benyújtásakor fenn kell állnia, amelyet a hatósági állatorvos vagy a járási főállatorvos igazol.
 
-(3)[^16] A támogatási kérelem tárgyévente az egységes kérelem benyújtásának kezdő napja és május 22. között nyújtható be.
+(3)[^21] A támogatási kérelem tárgyévente – az egységes kérelem rendeletben foglalt időpontig – nyújtható be.
 
 (4) A támogatási kérelemhez mellékelni kell a hatósági állatorvos vagy a járási főállatorvos által kiállított, (2) bekezdés szerinti igazolás másolatát.
 
@@ -46,6 +46,6 @@ e) a mezőgazdasági termelő a b) pont szerinti bejelentéshez a (2) bekezdésb
 
 (10) Ha a mezőgazdasági termelő a SAPS-ÁNT rendelet szerinti anyatehéntartás támogatáshoz kapcsolódó átmeneti nemzeti támogatással érintett állat után kíván anyatehén tartásához kapcsolódó termeléshez kötött közvetlen támogatást igénybe venni, és benyújtotta a SAPS-ÁNT rendelet szerinti, az anyatehéntartás támogatásához kapcsolódó átmeneti nemzeti támogatás igénybevételéhez szükséges igazolásokat, akkor ezen igazolásokat az MVH a (2) bekezdésben és a (6) bekezdés b) pontjában meghatározott igazolásként fogadja el.
 
-[^14]: A 10/A. §-t a 4/2016. (I. 20.) FM rendelet 24. §-a iktatta be.
-[^15]: A 11. § (1) bekezdés b) pontja a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § b) pontja szerint módosított szöveg.
-[^16]: A 11. § (3) bekezdése a 17/2015. (IV. 9.) FM rendelet 16. § b) pontja, a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § c) pontja szerint módosított szöveg.
+[^19]: A 10/A. §-t a 4/2016. (I. 20.) FM rendelet 24. §-a iktatta be.
+[^20]: A 11. § (1) bekezdés b) pontja a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § b) pontja szerint módosított szöveg.
+[^21]: A 11. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 48. §-ával megállapított szöveg.
