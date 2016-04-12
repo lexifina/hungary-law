@@ -4,7 +4,7 @@
 
 (2) Az elnyert támogatás előleg feletti része csak az előleggel történő teljes, elfogadott elszámolás és a fejlesztés megvalósulását követően benyújtott elszámolás elfogadása után folyósítható.
 
-(3) Részletekben kell folyósítani azt a támogatási előleget, amely az ötmillió forintot meghaladja. E rendelkezést nem kell alkalmazni abban az esetben, amikor a támogatott tevékenység időtartama a hatvan napot nem haladja meg, valamint a Magyar Államkincstárnál vezetett fizetési számlára folyósított költségvetési támogatások esetében.
+(3)[^3]
 
 (4) Ha a támogatásra jogosult ügyfél a támogatási előleg felhasználásával egyidejűleg a teljes támogatási tartalmat megvalósította, akkor lehetősége van a támogatási előleggel történő elszámolás során a teljes támogatási összeggel is egyidejűleg elszámolni.
 
@@ -29,3 +29,5 @@ h) a megállapított támogatásból támogatási célonként kifizetendő elől
 (6) Az MVH – a Tv. 60. §-ában foglaltakra is figyelemmel – az 1–4. célterület esetében a kifizetési utasítás kézhezvételétől számított tizenöt naptári napon belül, de legkésőbb a forrás rendelkezésre állását követő tizenöt naptári napon belül gondoskodik az előleg – nyertes pályázó Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett fizetési számlaszámára történő – átutalásáról.
 
 (7) Az 5. célterület esetében a miniszter – a Tv. 60. §-ában foglaltakra is figyelemmel – a kifizetési utasítás kézhezvételétől számított tizenöt naptári napon belül, de legkésőbb a forrás rendelkezésre állását követő tizenöt naptári napon belül gondoskodik az előleg – támogatott támogatási szerződésében szereplő fizetési számlaszámára történő – átutalásáról.
+
+[^3]: A 10. § (3) bekezdését a 25/2016. (IV. 11.) FM rendelet 64. §-a hatályon kívül helyezte.

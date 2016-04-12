@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-35-20-1
 | --- | --- | --- |
 | 2015-07-01 | 2015-35-20-11.1 | 35/2015. (VI. 30.) FM rendelet |
 | 2015-09-25 | 2015-35-20-11.2 | 58/2015. (IX. 24.) FM rendelet |
+| 2016-04-12 | 2015-35-20-11.3 | 25/2016. (IV. 11.) FM rendelet |
