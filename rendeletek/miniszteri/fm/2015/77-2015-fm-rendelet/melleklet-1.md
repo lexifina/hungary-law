@@ -1,10 +1,48 @@
-## 13–16. §[^1]
+## 13–16. §[^4]
 
-1. melléklet a 77/2015. (XII. 1.) FM rendelethez
+1. melléklet a 77/2015. (XII. 1.) FM rendelethez[^5]
 
-## Kamat-, kezességi díj-, és költségmentességben részesülő települések listája
+1. Baranya megye (18)
 
-1. Bács-Kiskun megye
+Borjád
+
+Bóly
+
+Gödre
+
+Hetvehely
+
+Kisbudmér
+
+Kisharsány
+
+Kökény
+
+Merenye
+
+Mindszentgodisa
+
+Nagybudmér
+
+Nagyharsány
+
+Nagytótfalu
+
+Pécs
+
+Pogány
+
+Szederkény
+
+Tótszentgyörgy
+
+Vásárosbéc
+
+Zádor
+
+2. Bács-Kiskun megye (39)
+
+Akasztó
 
 Bátya
 
@@ -40,6 +78,8 @@ Kaskantyú
 
 Kecel
 
+Kecskemét
+
 Kiskőrös
 
 Kiskunfélegyháza
@@ -64,43 +104,23 @@ Pirtó
 
 Soltvadkert
 
+Szabadszállás
+
 Szakmár
 
 Szank
 
 Tázlár
 
-Újtelek
+Tiszaalpár
 
 Uszód
 
+Újtelek
+
 Városföld
 
-2. Baranya megye
-
-Gödre
-
-Kisharsány
-
-Kökény
-
-Merenye
-
-Mindszentgodisa
-
-Nagyharsány
-
-Nagytótfalu
-
-Pécs
-
-Pogány
-
-Tótszentgyörgy
-
-Zádor
-
-3. Békés megye
+3. Békés megye (12)
 
 Békéssámson
 
@@ -110,7 +130,13 @@ Csabaszabadi
 
 Ecsegfalva
 
+Gyomaendrőd
+
+Kertészsziget
+
 Körösladány
+
+Körösnagyharsány
 
 Medgyesbodzás
 
@@ -118,7 +144,15 @@ Medgyesbodzás
 
 Újkígyós
 
-4. Borsod-Abaúj-Zemplén megye
+Zsadány
+
+4. Borsod-Abaúj-Zemplén megye (14)
+
+Alsóvadász
+
+Bekecs
+
+Bózsva
 
 Cserépfalu
 
@@ -128,19 +162,29 @@ Mályi
 
 Megyaszó
 
+Miskolc
+
 Nyékládháza
+
+Nyíri
+
+Sárazsadány
 
 Tállya
 
+Tokaj
+
 Zemplénagárd
 
-5. Budapest
+5. Budapest (1)
 
 Budapest XVII. kerület
 
-6. Csongrád megye
+6. Csongrád megye (23)
 
 Algyő
+
+Ásotthalom
 
 Baks
 
@@ -166,25 +210,107 @@ Nagymágocs
 
 Ópusztaszer
 
+Pusztamérges
+
 Pusztaszer
+
+Ruzsa
+
+Szeged
 
 Szegvár
 
-Székkutas
-
 Szentes
+
+Székkutas
 
 Tömörkény
 
-7. Fejér megye
+Újszentiván
+
+7. Fejér megye (22)
+
+Bicske
+
+Csákvár
+
+Gyúró
+
+Hantos
+
+Isztimér
+
+Kajászó
+
+Lovasberény
+
+Magyaralmás
 
 Mány
 
+Mezőfalva
+
+Mór
+
+Pátka
+
+Sárkeresztes
+
+Sárszentágota
+
 Székesfehérvár
+
+Tabajd
+
+Tordas
+
+Vál
+
+Vereb
+
+Vértesacsa
+
+Zámoly
 
 Zichyújfalu
 
-8. Hajdú-Bihar megye
+8. Győr-Moson-Sopron megye (16)
+
+Abda
+
+Csáfordjánosfa
+
+Csér
+
+Dénesfa
+
+Fertőhomok
+
+Győr
+
+Hegykő
+
+Iván
+
+Mihályi
+
+Nagylózs
+
+Pinnye
+
+Rábakecöl
+
+Répceszemere
+
+Szilsárkány
+
+Újkér
+
+Vadosfa
+
+9. Hajdú-Bihar megye (11)
+
+Berettyóújfalu
 
 Debrecen
 
@@ -194,27 +320,41 @@ Hajdúböszörmény
 
 Hajdúszoboszló
 
+Konyár
+
+Körösszakál
+
 Létavértes
 
 Nagyhegyes
 
-9. Heves megye
+Püspökladány
+
+Szentpéterszeg
+
+10. Heves megye (10)
 
 Ecséd
+
+Eger
 
 Egerszólát
 
 Feldebrő
 
+Felsőtárkány
+
 Heves
 
 Kerecsend
+
+Nagyréde
 
 Recsk
 
 Verpelét
 
-10. Jász-Nagykun-Szolnok megye
+11. Jász-Nagykun-Szolnok megye (12)
 
 Berekfürdő
 
@@ -240,27 +380,49 @@ Szászberek
 
 Túrkeve
 
-11. Komárom-Esztergom megye
+12. Komárom-Esztergom megye (6)
+
+Baj
 
 Bakonyszombathely
 
-12. Nógrád megye
+Dunaalmás
+
+Dunaszentmiklós
+
+Neszmély
+
+Szomód
+
+13. Nógrád megye (3)
+
+Bátonyterenye
 
 Hugyag
 
 Szécsény
 
-13. Pest megye
+14. Pest megye (21)
 
 Abony
 
+Bénye
+
 Cegléd
 
+Galgamácsa
+
 Inárcs
+
+Ipolydamásd
 
 Kőröstetétlen
 
 Majosháza
+
+Monor
+
+Monorierdő
 
 Nagykőrös
 
@@ -268,13 +430,25 @@ Nagykőrös
 
 Pécel
 
+Pusztazámor
+
+Sóskút
+
 Szob
+
+Tök
+
+Törökbálint
 
 Törtel
 
+Vasad
+
 Zsámbék
 
-14. Somogy megye
+15. Somogy megye (19)
+
+Balatonboglár
 
 Balatonlelle
 
@@ -312,9 +486,15 @@ Szőlősgyörök
 
 Zimány
 
-15. Szabolcs-Szatmár-Bereg megye
+16. Szabolcs-Szatmár-Bereg megye (73)
+
+Baktalórántháza
 
 Balkány
+
+Balsa
+
+Barabás
 
 Botpalád
 
@@ -352,9 +532,9 @@ Kisnamény
 
 Kispalád
 
-Kisvarsány
-
 Kisszekeres
+
+Kisvarsány
 
 Kocsord
 
@@ -380,27 +560,45 @@ Nagyhódos
 
 Nemesborzova
 
+Nyírbátor
+
 Nyírbéltek
 
 Nyírcsaholy
 
+Nyírkarász
+
+Nyírmada
+
+Nyírmihálydi
+
 Ópályi
+
+Pusztadobos
+
+Rakamaz
 
 Rozsály
 
 Sonkád
 
+Szabolcs
+
 Szamosbecs
 
 Szamossályi
 
-Szamostatárfalva
-
 Szamosszeg
+
+Szamostatárfalva
 
 Szatmárcseke
 
+Tákos
+
 Terem
+
+Timár
 
 Tiszabecs
 
@@ -408,23 +606,37 @@ Tiszabezdéd
 
 Tiszacsécse
 
+Tiszaeszlár
+
 Tiszakóród
+
+Tiszanagyfalu
+
+Tiszarád
 
 Tisztaberek
 
-Túrricse
+Tornyospálca
 
 Tuzsér
+
+Túrricse
 
 Tyukod
 
 Ura
 
+Vasmegyer
+
 Vámosoroszi
+
+Vásárosnamény
 
 Zajta
 
-16. Tolna megye
+17. Tolna megye (17)
+
+Báta
 
 Dunaföldvár
 
@@ -458,22 +670,135 @@ Udvari
 
 Újireg
 
-17. Vas megye
+18. Vas megye (53)
+
+Acsád
+
+Bozsok
+
+Bő
 
 Bük
 
+Cák
+
+Csánig
+
 Csepreg
+
+Chernelházadamonya
+
+Gencsapáti
+
+Gór
+
+Gyöngyösfalu
+
+Hegyfalu
+
+Iklanberény
+
+Jákfa
+
+Kőszeg
+
+Kőszegdoroszló
+
+Kőszegpaty
+
+Kőszegszerdahely
+
+Lócs
+
+Lukácsháza
+
+Mesterháza
 
 Meszlen
 
+Nagygeresd
+
 Narda
+
+Nemesbőd
+
+Nemescsó
+
+Nemesládony
+
+Nick
+
+Pápoc
+
+Perenye
 
 Pornóapáti
 
+Pósfa
+
+Pusztacsó
+
+Rábapaty
+
+Répcelak
+
+Répceszentgyörgy
+
 Sajtoskál
 
-18. Zala megye
+Salköveskút
+
+Simaság
+
+Söpte
+
+Szeleste
+
+Tompaládony
+
+Tormásliget
+
+Tömörd
+
+Uraiújfalu
+
+Vámoscsalád
+
+Vasasszonyfa
+
+Vasegerszeg
+
+Vassurány
+
+Vasszilvágy
+
+Velem
+
+Vép
+
+Zsédeny
+
+19. Veszprém megye (6)
+
+Badacsonytomaj
+
+Farkasgyepű
+
+Lókút
+
+Olaszfalu
+
+Somlóvásárhely
+
+Zirc
+
+20. Zala megye (3)
+
+Lovászi
 
 Nagypáli
 
-[^1]: A 13–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+Tornyiszentmiklós
+
+[^4]: A 13–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 25/2016. (IV. 11.) FM rendelet 74. §-ával megállapított szöveg.
