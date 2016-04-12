@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek az ingatlan-nyilvántartás szerinti Budapest belterület 28296 helyrajzi számú, természetben a Budapest VI. kerület, Rippl-Rónai utca 22. szám alatt elhelyezkedő ingatlanon megvalósítandó, a Budapesti Vendéglátóipari és Humán Szakképzési Centrum Raoul Wallenberg Szakközépiskolája és Szakiskolája elhelyezését biztosító beruházással függenek össze.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez szükségesek.
