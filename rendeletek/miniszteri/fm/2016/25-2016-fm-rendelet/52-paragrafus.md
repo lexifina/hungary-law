@@ -1,0 +1,3 @@
+## „cd) a termeltető vagy termelői csoport nevére szóló érvényes számla másolatával – amelyen a feltüntetett vételár kitakarható – és a minősített szaporítóanyag címkéjével, vagy a vetőmagtétel azonosító adatait tartalmazó csomagolással, vagy a vetőmagtétel azonosító adatait tartalmazó szállítólevéllel, vagy vetőmagtétel azonosító adatait tartalmazó minőségi bizonyítvánnyal, vagy a számla kiállítója által kiállított olyan cégszerűen aláírt dokumentum másolatával, amely tartalmazza a számla számát, kiállításának dátumát, az eladó és a vevő azonosításához szükséges adatokat, valamint a számlán szereplő tételekhez kapcsolódóan a fajra, a fajtára, a mennyiségre és a fémzárszámra vonatkozó adatokat.”
+
+## (igazolja.)

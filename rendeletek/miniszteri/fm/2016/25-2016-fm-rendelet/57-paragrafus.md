@@ -1,0 +1,3 @@
+## 56. § A 10/2015. (III. 13.) FM rendelet 16. §-a a következő (8) bekezdéssel egészül ki:
+
+## „(8) Ha a mezőgazdasági termelő az 50/2008. (IV. 24.) FVM rendelet 1. számú melléklet 1. pontja szerinti vízvédelmi előírást bármely parcellája vonatkozásában megsérti, és az MVH-nak tárgyév június 30-ig birtokába kerül az adott időszakban vízügyi igazgatósági vagyonkezelésben álló ingatlanok „shape” formátumú adatállománya, akkor abban az évben számára az adott parcella vonatkozásában nem vehető figyelembe ökológiai jelentőségű területként vízvédelmi sáv és vizesárok, feltéve, hogy az az illetékes vízügyi igazgatóság vagyonkezelésében áll.”

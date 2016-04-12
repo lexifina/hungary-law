@@ -1,0 +1,1 @@
+## „(5) A támogatási kérelem mellékleteit és a mellékletekre vonatkozó adatváltozás bejelentését – kivéve a hasznosító személyében bekövetkezett változást – az ügyfélnek elektronikus úton, átruházás esetén a (7) bekezdés a) pontjában meghatározottak szerint kell benyújtania az MVH-nak.”
