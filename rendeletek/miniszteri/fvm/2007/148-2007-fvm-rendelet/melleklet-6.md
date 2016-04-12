@@ -1,4 +1,4 @@
-6. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^87]
+6. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^88]
 
 ## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján vágóhídra szállított szarvasmarha létszámra vonatkozóan
 
@@ -30,4 +30,4 @@ Ebből korcsoportként:
 
 7. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-[^87]: A 6. számú mellékletet a 24/2014. (XI. 6.) FM rendelet 9. § (2) bekezdése iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés e) pontjável megállapított szöveg.
+[^88]: A 6. számú mellékletet a 24/2014. (XI. 6.) FM rendelet 9. § (2) bekezdése iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés e) pontjável megállapított szöveg.
