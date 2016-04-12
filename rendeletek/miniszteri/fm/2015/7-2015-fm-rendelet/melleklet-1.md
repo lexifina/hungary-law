@@ -1,4 +1,4 @@
-## 14. §[^28]
+## 15. §[^33] E rendeletnek a 25/2016. (IV. 11.) FM rendelettel megállapított 4. § (3) és (6) bekezdését, valamint 5. § (1) bekezdését a 2016. és az azt követő támogatási évekre vonatkozóan benyújtott támogatási kérelemre indult eljárásokban kell alkalmazni.
 
 1. melléklet a 7/2015. (III. 11.) FM rendelethez
 
@@ -22,12 +22,12 @@
 
 9. Mellékletek
 
-9.1[^29] a megyei kormányhivatal igazolása az ügyfél által a támogatási kérelem benyújtásának időpontjáig a TIR-be bejelentett kocaférőhely kapacitásról, darabszámban kifejezve,
+9.1[^34] a megyei kormányhivatal igazolásának eredeti példánya az ügyfél által a támogatási kérelem benyújtásának időpontjáig a TIR-be bejelentett kocaférőhely kapacitásról, darabszámban kifejezve,
 
 9.2 a 2. § (5) bekezdés b) pont bd) alpontja szerinti tagságról szóló igazolás eredeti példánya,
 
-9.3[^30] nagyvállalkozásnak minősülő ügyfél esetén a megyei kormányhivatal álláspontja arról, hogy részvétele a támogatási programban indokolt.
+9.3[^35] nagyvállalkozásnak minősülő ügyfél esetén a megyei kormányhivatal álláspontja arról, hogy részvétele a támogatási programban indokolt.
 
-[^28]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: Az 1. melléklet 9. pont 9.1. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja szerint módosított szöveg.
-[^30]: Az 1. melléklet 9. pont 9.3. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja szerint módosított szöveg.
+[^33]: A 15. §-t a 25/2016. (IV. 11.) FM rendelet 37. §-a iktatta be.
+[^34]: Az 1. melléklet 9. pont 9.1. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja, a 25/2016. (IV. 11.) FM rendelet 39. § e) pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet 9. pont 9.3. alpontja a 92/2015. (XII. 23.) FM rendelet 7. § e) pontja szerint módosított szöveg.

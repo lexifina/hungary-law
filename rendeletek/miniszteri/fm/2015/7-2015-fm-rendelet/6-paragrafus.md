@@ -4,13 +4,14 @@
 
 (2) A támogatás mértéke állategységenként, tárgynegyedévente tizenkétezer forint.
 
-(3)[^20] Az (1) bekezdés szerinti feltétel teljesítését a sertéságazati területi felelős támogatási évente legalább egy alkalommal, az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény alapján vezetett állomány-nyilvántartás szerinti állatlétszám és az engedélyezett építési engedély szerinti istálló méret alapján, vagy az istálló méretére vonatkozó alaprajz alapján, vagy az állattartó telep fekvése szerint illetékes általános építésügyi hatóságnak az istálló méretre vonatkozó hatósági bizonyítványa alapján vizsgálja.
+(3)[^23] Az (1) bekezdés szerinti feltétel teljesítését a sertéságazati területi felelős támogatási évente legalább egy alkalommal, az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény alapján vezetett állomány-nyilvántartás szerinti állatlétszám és az engedélyezett építési engedély szerinti istálló méret alapján, vagy az istálló méretére vonatkozó alaprajz alapján, vagy az állattartó telep fekvése szerint illetékes általános építésügyi hatóságnak az istálló méretre vonatkozó hatósági bizonyítványa alapján vizsgálja.
 
 (4) A kifizetési kérelemhez csatolni kell:
 
-a) az adott támogatási évre vonatkozó – ezen tevékenység tekintetében – első tárgynegyedévi kifizetési kérelemhez a Magyar Építész Kamara Tervezői Névjegyzékében szereplő kamarai tag által készített, az istállók méretét is tartalmazó alaprajz másolati példányát, vagy az állattartó telep fekvése szerint illetékes általános építésügyi hatóságnak az istálló méretre vonatkozó hatósági bizonyítványát.
+a)[^24] az adott támogatási évre vonatkozó – ezen tevékenység tekintetében – első tárgynegyedévi kifizetési kérelemhez a Magyar Építész Kamara Tervezői Névjegyzékében szereplő kamarai tag által készített, az istállók méretét is tartalmazó alaprajz másolati példányát, vagy az állattartó telep fekvése szerint illetékes általános építésügyi hatóságnak az istálló méretre vonatkozó hatósági bizonyítványa eredeti példányát.
 
-b)[^21] a sertéságazati területi felelős által kiállított dokumentumot az (1) bekezdésben meghatározott feltétel teljesítéséről, valamint a (3) bekezdés szerinti vizsgálatokról. Az adott támogatási év első tárgynegyedévére vonatkozó dokumentum kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
+b)[^25] a sertéságazati területi felelős által kiállított dokumentum eredeti példányát az (1) bekezdésben meghatározott feltétel teljesítéséről, valamint a (3) bekezdés szerinti vizsgálatokról. Az adott támogatási év első tárgynegyedévére vonatkozó dokumentum kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
 
-[^20]: A 6. § (3) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § g) pontja szerint módosított szöveg.
-[^21]: A 6. § (4) bekezdés b) pontja a 92/2015. (XII. 23.) FM rendelet 7. § h) pontja és 8. §-a szerint módosított szöveg.
+[^23]: A 6. § (3) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § g) pontja szerint módosított szöveg.
+[^24]: A 6. § (4) bekezdés a) pontja a 25/2016. (IV. 11.) FM rendelet 39. § d) pontja szerint módosított szöveg.
+[^25]: A 6. § (4) bekezdés b) pontja a 92/2015. (XII. 23.) FM rendelet 7. § h) pontja és 8. §-a, a 25/2016. (IV. 11.) FM rendelet 39. § c) pontja szerint módosított szöveg.
