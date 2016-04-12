@@ -18,7 +18,7 @@
 
 ## 9. Mellékletek
 
-## 9.1. A Baromfi Termék Tanács igazolása az igénylő által – a támogatási kérelem benyújtásának időpontjáig – az adott tartási hely férőhely kapacitása alapján megállapított, maximálisan tartható baromfi létszámról darabszámban kifejezve.
+## 9.1. A BTT igazolásának eredeti példánya az igénylő által – a támogatási kérelem benyújtásának időpontjáig – az adott tartási hely férőhely kapacitása alapján megállapított, maximálisan tartható baromfi létszámról darabszámban kifejezve.
 
 ## 9.2. A 2. § (2) bekezdés b) pontja szerinti tagságról szóló igazolás egy eredeti példánya.
 
@@ -52,6 +52,6 @@
 
 |  | e) csökkent értékű értékesítés száma (ÁE) |
 
-3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^88]
+3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^93]
 
-[^88]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^93]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
