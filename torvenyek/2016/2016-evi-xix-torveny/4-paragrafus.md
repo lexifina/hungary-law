@@ -7,11 +7,3 @@ b) a nukleáris létesítmények nukleáris biztonsági közösségi keretrendsz
 c) a környezeti információkhoz való nyilvános hozzáférésről és a 90/313/EGK irányelv hatályon kívül helyezéséről szóló, 2003. január 28-i 2003/4/EK európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
