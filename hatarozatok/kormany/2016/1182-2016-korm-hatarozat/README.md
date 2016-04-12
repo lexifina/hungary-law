@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1182-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-04-11 | 2016-1182-30-22.1 | 1182/2016. (IV. 11.) Korm. határozat |
+| 2016-04-12 | 2016-1182-30-22.2 | 2010: CXXX. törvény |
