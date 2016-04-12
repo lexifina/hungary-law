@@ -16,7 +16,7 @@
 
 4.[^2] kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.;
 
-4a.[^3] kedvezőtlen időjárással érintett termelői szerveződés: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1. mellékletében meghatározott település valamelyikén mint székhelyen, telephelyen vagy fióktelepen, ugyanezen rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében 2016. március 31-ig hatályba lépett hitelszerződéssel rendelkezik;
+4a.[^3] kedvezőtlen időjárással érintett termelői szerveződés: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1. mellékletében meghatározott település valamelyikén mint székhelyen, telephelyen vagy fióktelepen, ugyanezen rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében 2016. június 30-ig hatályba lépett hitelszerződéssel rendelkezik;
 
 5. pénzügyi intézmény: az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) honlapján közzétett, a hitelprogramhoz csatlakozott hitelintézet, valamint az MFB Zrt.;
 
@@ -28,4 +28,4 @@
 
 [^1]: Az 1. § 2a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (2) bekezdése iktatta be.
 [^2]: Az 1. § 4. pontja a 77/2015. (XII. 1.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be.
+[^3]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be, szövege a 25/2016. (IV. 11.) FM rendelet 66. § a) pontja szerint módosított szöveg.
