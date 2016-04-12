@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-64-20-8
 | 2014-10-30 | 2008-64-20-82.9 | 18/2014. (X. 29.) FM rendelet |
 | 2014-12-10 | 2008-64-20-82.10 | 18/2014. (X. 29.) FM rendelet |
 | 2015-05-28 | 2008-64-20-82.11 | 18/2014. (X. 29.) FM rendelet |
+| 2016-04-12 | 2008-64-20-82.12 | 25/2016. (IV. 11.) FM rendelet |

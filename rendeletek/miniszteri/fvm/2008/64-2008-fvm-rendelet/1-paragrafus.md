@@ -20,10 +20,13 @@ h) tárgyév: az a naptári év, amely évben a pályázó az e rendelet szerint
 
 i)[^4] halgazdálkodási hatóság: a megyei kormányhivatal földművelésügyi igazgatósága;
 
-j)[^5] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+j)[^5] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
+k)[^6] egy és ugyanazon vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 5a. pontja szerinti vállalkozás.
 
 [^1]: Az 1. § e) pontja a 18/2014. (X. 29.) FM rendelet 5. §-ával megállapított szöveg.
 [^2]: Az 1. § f) pontja a 132/2013. (XII. 23.) VM rendelet 37. § c) pontja szerint módosított szöveg.
 [^3]: Az 1. § g) pontját a 18/2014. (X. 29.) FM rendelet 11. § a) pontja hatályon kívül helyezte.
 [^4]: Az 1. § i) pontja a 44/2014. (IV. 14.) VM rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. § j) pontját a 22/2014. (III. 14.) VM rendelet 63. § (1) bekezdése iktatta be.
+[^5]: Az 1. § j) pontját a 22/2014. (III. 14.) VM rendelet 63. § (1) bekezdése iktatta be, szövege a 25/2016. (IV. 11.) FM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § k) pontját a 25/2016. (IV. 11.) FM rendelet 17. § (1) bekezdése iktatta be.
