@@ -1,0 +1,1 @@
+135. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 74. § (3) bekezdésében az „a Közösségi Vámkódex létrehozásáról szóló 1992. október 12-i 2913/92/EGK tanácsi rendeletben” szövegrész helyébe az „az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU parlamenti és tanácsi rendeletben” szöveg lép.

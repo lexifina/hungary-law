@@ -1,0 +1,5 @@
+19. § (1) Magyarországon a Vámkódex 18. cikk (3) bekezdés alapján a Vámkódex 5. cikk 6. pontja szerinti, Magyarországon letelepedett vámjogi képviselőként – a (2) és (3) bekezdés kivételével – a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá vámtanácsadó vagy vámügynökség járhat el. E §-t a Vámkódex 18. § (4) bekezdése alapján az Európai Unió vámterületén nem letelepedett vámjogi képviselőre is alkalmazni kell.
+
+(2) A vámhatóság előtt a Vámkódex 22. cikk (1) bekezdése szerinti kérelem benyújtása során a megbízó érdekében vámjogi képviselőként a Vámkódex 18. cikk (3) bekezdése alapján a 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá vámtanácsadó járhat el.
+
+(3) A vámügyekben biztosított jogorvoslati jog gyakorlása során az ügyfelet a Vámkódex 18. cikk (3) bekezdése alapján a 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá vámtanácsadó, valamint ügyvéd, jogtanácsos, ügyvédi iroda, európai közösségi jogász is képviselheti.

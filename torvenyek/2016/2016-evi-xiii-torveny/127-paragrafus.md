@@ -1,0 +1,1 @@
+127. § A regisztrációs adóról szóló 2003. évi CX. törvény 9. § (9) bekezdésében az „az adózás rendjéről szóló törvény” szövegrész helyébe az „az uniós vámjog végrehajtásáról szóló törvény” szöveg lép.
