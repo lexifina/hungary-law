@@ -1,5 +1,0 @@
-## 76. § A tejtermelőknek nyújtható ideiglenes rendkívüli támogatásról szóló 96/2015. (XII. 23.) FM rendelet [a továbbiakban: 96/2015. (XII. 23.) FM rendelet] 1. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(2) Az (1) bekezdésben meghatározott támogatási keretösszeg további 2 979 431 000 forint támogatással kiegészítésre kerül, amelynek forrása a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. cím, 5. alcím, 8. Folyó kiadások és jövedelemtámogatások fejezeti kezelésű jogcímcsoport átmeneti nemzeti támogatások 2016. évi tejtámogatásra fordítható összege.
-
-## (3) Az átváltási árfolyam az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, a biztosítékok és az euró használata tekintetében történő kiegészítéséről szóló, 2014. március 11-i 907/2014/EU bizottsági rendelet 40. cikkében rögzítettek alapján kerül meghatározásra.”

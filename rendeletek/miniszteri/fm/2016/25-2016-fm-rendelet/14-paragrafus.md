@@ -1,3 +1,0 @@
-## 13. § Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet [a továbbiakban: 148/2007. (XII. 8.) FVM rendelet] 7. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) A 2015. évben rendelkezésre álló keret összege 9000 millió forint, amelyből 2500 millió forint a baromfi ágazatban, 6500 millió forint pedig az egyéb állattenyésztési ágazatban kerülhet felhasználásra. E keretek terhére a 2015. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények és a 2014. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt, de még ki nem fizetett jogos igények teljesíthetők.”

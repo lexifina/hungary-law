@@ -1,3 +1,0 @@
-## 69. § Az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti támogatások igénybevételével kapcsolatos egyes kérdésekről szóló 5/2015. (II. 19.) FM rendelet alapján nyújtható átmeneti nemzeti támogatás jogcímeihez kapcsolódó támogatások összegének megállapításáról szóló 61/2015. (X. 12.) FM rendelet [a továbbiakban: 61/2015. (X. 12.) FM rendelet] a következő 9. §-sal egészül ki:
-
-## „9. § E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 25/2016. (IV. 11.) FM rendelettel megállapított 2. § (1) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.”

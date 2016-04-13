@@ -1,1 +1,0 @@
-## „d) a támogatási évben az első kifizetési kérelem benyújtásakor a 2. § (2) bekezdés b) pontja szerinti termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, terméktanács vagy szakmai szervezet eredeti igazolását arról, hogy az igénylő a tárgyévre vonatkozóan érvényes tagsággal rendelkezik,”
