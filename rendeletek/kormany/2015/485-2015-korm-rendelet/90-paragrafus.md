@@ -32,7 +32,7 @@ k) kizárólagos hatáskörrel végzi a nyomozó hatóság felkérése alapján 
 
 l) ellátja a NAV nyomozó szervei által elrendelt személyi védelmet;
 
-m) őrzésvédelmi – így különösen egyes objektumok védelmével kapcsolatos – feladatokat végez;
+m)[^1] őrzésvédelmi – így különösen a Nemzetgazdasági Minisztériumnak a miniszter elhelyezését biztosító épülete és a NAV feladatellátása szempontjából kiemelkedően fontos objektum védelmével kapcsolatos – feladatokat végez;
 
 n) végzi a NAV saját hatáskörében lefoglalt dolgok élő erős őrzésével, kísérésével összefüggő feladatokat, valamint anyagi javak őrzését, kísérését és szállítását, továbbá a NAV más szervének felkérése alapján a lefoglalt dolgok megsemmisítése során a helyszín biztosítását; valamint
 
@@ -51,3 +51,5 @@ p) egyéb művelet-támogató tevékenységet végez, ideértve a szolgálati fe
 (6) A Bevetési Igazgatóság folytatja le a közúti közlekedésről szóló 1988. évi I. törvény alapján végzett ellenőrzése során felderített jogsértéssel kapcsolatos hatósági eljárást.
 
 (7) A Bevetési Igazgatóság által felderített szabálysértések tekintetében a szabálysértési eljárás lefolytatására – ha az eljárás gyorsabb és eredményesebb lefolytatása indokolja – a Bevetési Igazgatóság is jogosult.
+
+[^1]: A 90. § (1) bekezdés m) pontja a 85/2016. (IV. 13.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -16,6 +16,8 @@ d) a regionális vám- és pénzügyőri főigazgatóságnál
 
 ## mint elsőfokú hatóságnál folyamatban lévő eljárásokat az e rendelet szerint hatáskörrel és illetékességgel rendelkező megyei igazgatóságok folytatják le azzal, hogy a vám- és pénzügyőri főigazgató kijelölése alapján a megyei vám- és pénzügyőri igazgatóság illetékességi területén kívül végzett, folyamatban lévő EMGA utólagos ellenőrzéseket a kijelölt megyei vám- és pénzügyőri igazgatóság székhelye szerinti megyei igazgatóság folytatja le.
 
+(2a)[^2] A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet módosításáról szóló 85/2016. (IV. 13.) Korm. rendelet hatálybalépésekor[^3] folyamatban lévő (2) bekezdés szerinti eljárásokat a (2) bekezdés a)–d) pontja szerinti szerv székhelye szerinti megyei igazgatóságok folytatják le azzal, hogy a vám- és pénzügyőri főigazgató kijelölése alapján a megyei vám- és pénzügyőri igazgatóság illetékességi területén kívül végzett, folyamatban lévő EMGA utólagos ellenőrzéseket a kijelölt megyei vám- és pénzügyőri igazgatóság székhelye szerinti megyei igazgatóság folytatja le.
+
 (3) Az e rendelet hatálybalépésekor
 
 a) a Kiemelt Adózók Adóigazgatóságánál,
@@ -73,3 +75,6 @@ d) a Repülőtéri Főigazgatóságnál
 (10) E rendelet hatálybalépésekor a Központi Hivatal által felülellenőrzési ügyekben, valamint a Pénzmosás Elleni Információs Iroda által hozott döntések ellen benyújtott jogorvoslati kérelmek alapján folyamatban lévő másodfokú eljárásokban a NAV-ot irányító miniszter jár el. A felülellenőrzési ügyek kapcsán folyamatban lévő, és a Pmt. szerinti feladatok ellátása során hozott másodfokú döntésekkel szemben folyamatban lévő közigazgatási peres eljárásokban a perbeli képviseletet – perbeli jogutódként – a NAV-ot irányító miniszter látja el.
 
 (11) E rendelet hatálybalépését követően azokban az ügyekben, amelyekben az elsőfokú eljárást a Kiemelt Ügyek és Adózók Adóigazgatósága központosított ellenőrzés keretében folytatott le, a bíróság az adóhatóságot új eljárásra utasítja, az új eljárást az adózó tekintetében illetékes megyei igazgatóság folytatja le, kivéve, ha az alapeljárást a (3) bekezdés a) pontjában hivatkozott szerv folytatta le.
+
+[^2]: A 95. § (2a) bekezdését a 85/2016. (IV. 13.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2016. április 14.
