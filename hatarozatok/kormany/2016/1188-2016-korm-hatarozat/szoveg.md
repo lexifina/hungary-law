@@ -80,4 +80,6 @@ Határidő: azonnal
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. Hatályát veszti a Nemzetközi Víz Konferencia (Budapesti Víz Világtalálkozó – Budapest Water Summit) szakmai koncepciójáról és költségvetéséről, valamint az azzal összefüggő feladatokról szóló 1673/2012. (XII. 28.) Korm. határozat.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
