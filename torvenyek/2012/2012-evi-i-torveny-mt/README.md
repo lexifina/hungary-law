@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-1-00-00
 | 2015-03-15 | 2014. évi CII. törvény | 2012-1-00-00.10 |
 | 2015-03-27 | 2015. évi XVII. törvény | 2012-1-00-00.11 |
 | 2016-01-01 | 2015. évi CCXXIII. törvény | 2012-1-00-00.12 |
+| 2016-04-16 | 2016. évi XXIII. törvény | 2012-1-00-00.13 |
