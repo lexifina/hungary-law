@@ -1,1 +1,0 @@
-A Kormány a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló 2014. évi CII. törvény 8. §-ában és a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
