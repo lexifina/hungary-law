@@ -56,7 +56,7 @@ d)–f)
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitva tartásával összefüggő többletfeladatokhoz igazodó összegű felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
+(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, a felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
 
 (6) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy – a kereskedelemért felelős miniszterrel egyetértésben – rendeletben szabályozza a vendéglátás szakmai feltételeit.
 
