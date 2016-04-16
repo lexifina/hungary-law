@@ -1,4 +1,4 @@
-## 29. §[^141] Átmeneti és az Európai Unión belül ki nem küszöbölhető palánta ellátási nehézség elhárítása céljából a NÉBIH engedélyt adhat egy adott kategóriához tartozó, az e rendeletben foglaltaknál kevésbé szigorú követelményeknek megfelelő palánta meghatározott ideig való forgalomba hozatalára az Európai Bizottság felhatalmazása alapján, ha az a növény-egészségügyi jogszabályok előírásainak egyébként megfelel.
+## 29. §[^153] Átmeneti és az Európai Unión belül ki nem küszöbölhető palánta ellátási nehézség elhárítása céljából a NÉBIH engedélyt adhat egy adott kategóriához tartozó, az e rendeletben foglaltaknál kevésbé szigorú követelményeknek megfelelő palánta meghatározott ideig való forgalomba hozatalára az Európai Bizottság felhatalmazása alapján, ha az a növény-egészségügyi jogszabályok előírásainak egyébként megfelel.
 
 ## A zöldségpalántát kísérő okmányok és jelölések
 
@@ -8,17 +8,17 @@
 
 (3) Az árut kísérő okmánynak olyan, a célnak megfelelő anyagból kell készülnie, amelyet korábban nem használtak és az Európai Unió valamely hivatalos nyelvén állítottak ki.
 
-(4)[^142] Az árut kísérő okmány lehet a NÉBIH által rendszeresített okmány vagy az üzem által kiállított bármely olyan okmány, amelyet általában kereskedelmi célra használnak.
+(4)[^154] Az árut kísérő okmány lehet a NÉBIH által rendszeresített okmány vagy az üzem által kiállított bármely olyan okmány, amelyet általában kereskedelmi célra használnak.
 
 (5) Az okmányon jól látható és el nem távolítható módon szerepelnie kell
 
 a) az ,,EK minőség'' megjelölésnek, ha annak a (6) bekezdésben foglalt feltételei fennállnak,
 
-b)[^143] Magyarország európai uniós tagállam kódjának,
+b)[^155] Magyarország európai uniós tagállam kódjának,
 
-c)[^144] a NÉBIH nevének vagy azonosító kódjának,
+c)[^156] a NÉBIH nevének vagy azonosító kódjának,
 
-d)[^145] az üzem a NÉBIH-től kapott engedélyszámának,
+d)[^157] az üzem a NÉBIH-től kapott engedélyszámának,
 
 e) az üzem nevének,
 
@@ -36,15 +36,15 @@ k) ha a szaporítóanyag harmadik országból származik, az előállító orsz�
 
 (6) Az ,,EK minőség'' megjelölést kizárólag a 2. számú mellékletben felsorolt növénynemzetségek és fajok Közösségi Fajtajegyzéken szereplő fajtáinak palántája esetén szabad szerepeltetni.
 
-(7)[^146] Ha a palántát növényútlevél kíséri – az üzem döntése alapján – a növényútlevél helyettesítheti a palántát kísérő, a (2) bekezdés szerinti okmányt, ez esetben azonban
+(7)[^158] Ha a palántát növényútlevél kíséri – az üzem döntése alapján – a növényútlevél helyettesítheti a palántát kísérő, a (2) bekezdés szerinti okmányt, ez esetben azonban
 
 a) az „EK minőség” megjelölésnek,
 
-b)[^147] a NÉBIH nevének vagy kódjának,
+b)[^159] a NÉBIH nevének vagy kódjának,
 
 c) a faj és fajtanévnek,
 
-d)[^148] az üzem a NÉBIH-től kapott engedélyszámának, valamint
+d)[^160] az üzem a NÉBIH-től kapott engedélyszámának, valamint
 
 e) harmadik országból való származás esetén az előállító ország nevének is,
 
@@ -54,16 +54,16 @@ e) harmadik országból való származás esetén az előállító ország nevé
 
 (9) Az okmány csak az adott tételre érvényes, annak újbóli felhasználása tilos.
 
-(10)[^149] Az e rendeletben meghatározott adatokat tartalmazó okmány kiállítására valamennyi olyan engedéllyel rendelkező üzem jogosult, amely a törvény és e rendelet előírásait megtartja. Amennyiben az ellenőrzés során ennek ellenkezője bizonyosodik be, a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága a forgalomba hozatalt határozott időre megtilthatja. Ebben az esetben a forgalmazó árut kísérő okmányt sem adhat ki.
+(10)[^161] Az e rendeletben meghatározott adatokat tartalmazó okmány kiállítására valamennyi olyan engedéllyel rendelkező üzem jogosult, amely a törvény és e rendelet előírásait megtartja. Amennyiben az ellenőrzés során ennek ellenkezője bizonyosodik be, a NÉBIH, illetve a növénytermesztési hatáskörében eljáró megyei kormányhivatal a forgalomba hozatalt határozott időre megtilthatja. Ebben az esetben a forgalmazó árut kísérő okmányt sem adhat ki.
 
 (11) Ha különböző helyekről származó palántákat összekevernek a csomagolás, tárolás vagy a szállítás alatt, az üzem köteles feljegyzést készíteni az összetevőkről és az összetevő tételek származásáról.
 
-[^141]: A 29. § a 124/2007. (X. 20.) FVM rendelet 12. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^142]: A 30. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^143]: A 30. § (5) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
-[^144]: A 30. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^145]: A 30. § (5) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 32. § f) pontja szerint módosított szöveg.
-[^146]: A 30. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 13. §-ával megállapított szöveg.
-[^147]: A 30. § (7) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^148]: A 30. § (7) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 32. § f) pontja szerint módosított szöveg.
-[^149]: A 30. § (10) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^153]: A 29. § a 124/2007. (X. 20.) FVM rendelet 12. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^154]: A 30. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^155]: A 30. § (5) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
+[^156]: A 30. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^157]: A 30. § (5) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 32. § f) pontja szerint módosított szöveg.
+[^158]: A 30. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 13. §-ával megállapított szöveg.
+[^159]: A 30. § (7) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^160]: A 30. § (7) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 32. § f) pontja szerint módosított szöveg.
+[^161]: A 30. § (10) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 24/2016. (IV. 8.) FM rendelet 33. § g) pontja szerint módosított szöveg.

@@ -38,7 +38,7 @@
 
 ## Szaporítóanyag szemle időpontja: .................................... Ellenőrző felügyelő neve: ...........................................
 
-11. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^213]
+11. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^225]
 
 A fajtaazonosító vizsgálat elvégzéséhez szükséges magminták
 
@@ -300,4 +300,4 @@ A fajtaazonosító vizsgálat elvégzéséhez szükséges magminták
 
 | MACSKAGYÖKÉR (VALERIANA OFFICINALIS L.) | 5 | 08.01 |
 
-[^213]: A 11. számú mellékletet a 14/2011. (II. 24.) VM rendelet 16. § (3) bekezdése iktatta be, szövege a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^225]: A 11. számú mellékletet a 14/2011. (II. 24.) VM rendelet 16. § (3) bekezdése iktatta be, szövege a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.

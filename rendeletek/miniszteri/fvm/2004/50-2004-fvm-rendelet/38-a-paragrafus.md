@@ -1,6 +1,6 @@
-## Géntechnológiával módosított szervezettel szennyezett vetőmagra vonatkozó rendelkezések[^191]
+## Géntechnológiával módosított szervezettel szennyezett vetőmagra vonatkozó rendelkezések[^203]
 
-38/A. §[^192] (1) Géntechnológiával módosított szervezettel szennyezett vetőmagot vagy szaporítóanyagot (a továbbiakban együtt: szennyezett vetőmag) Magyarország területén tilos
+38/A. §[^204] (1) Géntechnológiával módosított szervezettel szennyezett vetőmagot vagy szaporítóanyagot (a továbbiakban együtt: szennyezett vetőmag) Magyarország területén tilos
 
 a) forgalomba hozni, vagy
 
@@ -8,5 +8,5 @@ b) termesztésbe bocsátani.
 
 (2) A magyarországi előállítású vetőmag esetén annak előállítója, más esetben az első magyarországi forgalomba hozó felel a vetőmag géntechnológiával módosított szervezettel történő szennyezéstől való mentességéért.
 
-[^191]: A 38/A. §-t megelőző alcímet a 81/2013. (IX. 13.) VM rendelet 4. §-a iktatta be.
-[^192]: A 38/A. §-t a 81/2013. (IX. 13.) VM rendelet 4. §-a iktatta be.
+[^203]: A 38/A. §-t megelőző alcímet a 81/2013. (IX. 13.) VM rendelet 4. §-a iktatta be.
+[^204]: A 38/A. §-t a 81/2013. (IX. 13.) VM rendelet 4. §-a iktatta be.
