@@ -94,7 +94,7 @@ Közterület felügyelők egyenruhája
 
 | 1. | Téli sapka (usanka) | 1 db | 24 |
 
-| 2. | Nyári sapka (baseball vagy barett) | 2 db | 24 |
+| 2. | Nyári sapka (baseball, barett vagy pilotka) | 2 db | 24 |
 
 | 3. | Téli kabát ¾-es | 1 db | 24 |
 
@@ -164,7 +164,7 @@ Közterület felügyelők egyenruhája
 
 | Sorszám | Felszerelési eszközök megnevezés | Mennyiség/ Mennyiségi egység | Tervezett viselési idő (hónap) |
 
-| 1. | Névkitűző* | 1 db |  |
+| 1. | Névkitűző | 1 db |  |
 
 | 2. | Okmánytartó övtáska | 1 db |  |
 
@@ -182,4 +182,4 @@ Közterület felügyelők egyenruhája
 
 | A *-gal jelölt tételek nem kötelezőek, vagy a kerékpáros és motoros öltözet részei. |
 
-[^6]: A 6. melléklet a 27/2014. (III. 31.) BM rendelet 7. § b) pontjával megállapított szöveg.
+[^6]: A 6. melléklet a 27/2014. (III. 31.) BM rendelet 7. § b) pontjával megállapított, a 11/2016. (IV. 8.) BM rendelet 1. §-a szerint módosított szöveg.
