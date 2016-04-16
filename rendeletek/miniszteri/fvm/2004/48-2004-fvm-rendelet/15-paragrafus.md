@@ -1,14 +1,19 @@
 ## 15. § A vetőmag-szaporítás bejelentése akkor fogadható el, ha
 
-a)[^49] azt a vetőmag-előállító a NÉBIH által erre rendszeresített nyomtatványon,
+a)[^50] azt a vetőmag-előállító a NÉBIH által erre rendszeresített nyomtatványon,
 
-b)[^50] a 14. §-ban előírt bejelentési határidőn belül, valamint
+b)[^51] a 14. §-ban előírt bejelentési határidőn belül, valamint
 
 c) a vetőmag származását igazolva nyújtja be, a 19. § szerint,
 
-d) az elit szaporítási foknál alacsonyabb szaporítási fokú vetőmag-előállítása esetén a vetőmag-előállító tábla nagysága – a dohány kivételével – legalább 1 ha, továbbá
+d)[^52] az elit szaporítási foknál alacsonyabb szaporítási fokú vetőmag-előállítás esetén a vetőmag-előállító tábla nagysága – a dohány kivételével – legalább 1 hektár,
 
-e) a vetőmag-előállító 3 évre, de legalább a növényfaj elővetemény korlátozási követelményének megfelelő időtartamra visszamenőleg rendelkezik a vetőmag-előállító tábla nyilvántartásával.
+e)[^53] a vetőmag-előállító 3 évre, de legalább a növényfaj elővetemény korlátozási követelményének megfelelő időtartamra visszamenőleg rendelkezik a vetőmag-előállító tábla nyilvántartásával, továbbá
 
-[^49]: A 15. § a) pontja a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^50]: A 15. § b) pontja a 16/2011. (III. 2.) VM rendelet 9. §-ával megállapított szöveg.
+f)[^54] támasztónövényes vetőmag-szaporítás esetén a vetésbejelentő ív megjegyzés rovata tartalmazza a támasztónövény faját és annak arányát a szaporításban.
+
+[^50]: A 15. § a) pontja a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^51]: A 15. § b) pontja a 16/2011. (III. 2.) VM rendelet 9. §-ával megállapított szöveg.
+[^52]: A 15. § d) pontja a 24/2016. (IV. 8.) FM rendelet 14. §-ával megállapított szöveg.
+[^53]: A 15. § e) pontja a 24/2016. (IV. 8.) FM rendelet 14. §-ával megállapított szöveg.
+[^54]: A 15. § f) pontját a 24/2016. (IV. 8.) FM rendelet 14. §-a iktatta be.

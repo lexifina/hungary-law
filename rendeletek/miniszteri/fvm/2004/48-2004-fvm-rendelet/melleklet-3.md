@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^174]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^194]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -458,27 +458,37 @@ Lóbab (Vicia faba L. /partim/)
 
 | Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább az elit (E) fokú szaporítás határértékeivel kell megegyezniük. |
 
-| A vizsgálat tárgya | Egység | Elit | I. | II. |
+|  | A | B | C | D | E |
 
-| szaporítási fok |
+| 1. | A vizsgálat tárgya | Egység | Elit szaporítási fok | I. szaporítási fok | II. szaporítási fok |
 
-| 1 | 2 | 3 | 4 | 5 |
+| 2. | 1. Elválasztó sáv, legalább | Méter | 2 | 2 | 2 |
 
-| Elválasztó sáv, legalább |  | 2 |
+| 3. | 2. Izolációs távolság, legalább | Méter | 200 | 100 | 100 |
 
-| Izolációs távolság, legalább | méter | 200 | 100 | 100 |
+| 4. | 3. Gyomosság, legfeljebb | minősítő szám | 2 | 2 | 2 |
 
-| Gyomosság, legfeljebb | minősítő szám | 2 |
+| 5. | 4. Fejlettség, legalább | Értékszám | 4 | 4 | 4 |
 
-| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 4 |
+| 6. | 5. Kiegyenlítettség, legalább | Értékszám | 4 | 4 |  |
 
-| Idegen fajta a mintaterek átlagában, legfeljebb | db | 0 | 1 | 3 |
+| 7. | 6. Kultúrállapot, legalább | Értékszám | 4 | 4 | 4 |
 
-| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb idegen fajú csillagfürt csattanó maszlag (Datura stramonium) galaj fajok (Galium spp.) szerbtövis (Xanthium spp.) | 0 0 1 1 | 1 0 3 3 | 4 0 5 5 |
+| 8. | 7. Idegen fajta a mintaterek átlagában, legfeljebb | Db | 0 | 1 | 3 |
 
-| Vírusos megbetegedés, a mintaterek átlagában, legfeljebb | % | 10 |
+| 9. | 8. Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb | Db |  |  |  |
 
-| Gombabetegségek, a mintaterek átlagában, együttesen legfeljebb fuzáriumos tőhervadás (Fusarium oxysporum f. lupini) fuzáriumos gyökérrothadás (Fusarium spp.) lisztharmat (Erysiphe spp.) | minősítő szám | 2 |
+| 10. | 8.1. idegen fajú csillagfürt | 0 | 1 | 4 |
+
+| 11. | 8.2. csattanó maszlag (Datura stramonium) | 0 | 0 | 0 |
+
+| 12. | 8.3. galaj fajok (Galium spp.) | 1 | 3 | 5 |
+
+| 13. | 8.4. szerbtövis (Xanthium spp.) | 1 | 3 | 5 |
+
+| 14. | 9. Vírusos megbetegedés, a mintaterek átlagában, legfeljebb | % | 10 | 10 | 10 |
+
+| 15. | 10. Gombabetegségek, a mintaterek átlagában, együttesen legfeljebb fuzáriumos tőhervadás (Fusarium oxysporum f. lupini), fuzáriumos gyökérrothadás (Fusarium spp.), lisztharmat (Erysiphe spp.), görbüléses szárelhalás (Colletotrichum ssp) | minősítő szám | 2 | 2 | 2 |
 
 6. Karórépa (Brassica napus var. napobrassica L.)
 
@@ -1332,25 +1342,51 @@ Szegletes lednek (Lathyrus sativus L.)
 
 | Egyéb követelmények: | Szuperelit (SE) szaporítás esetén a határértékeknek legalább meg kell egyezniük az elit (E) fokú szaporítás határértékeivel. |
 
-| A vizsgálat tárgya | Egység | Elit | I. |
+|  | A | B | C | D |
 
-| szaporítási fok |
+| 1. | A vizsgálat tárgya | Egység | Elit szaporítási fok | I. szaporítási fok |
 
-| 1 | 2 | 3 | 4 |
+| 2. | 1. Elválasztó sáv, legalább | méter | 2 | 2 |
 
-| Elválasztó sáv, legalább | méter | 2 |  |
+| 3. | 2. Gyomosság, legfeljebb | minősítő szám | 2 | 2 |
 
-| Gyomosság, legfeljebb | minősítő szám | 3 |  |
+| 4. | 3. Fejlettség, legalább | értékszám | 3 | 3 |
 
-| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |  |
+| 5. | 4. Kiegyenlítettség, legalább | értékszám | 3 | 3 |
 
-| Idegen fajta a mintaterek átlagában, legfeljebb sárgamagvú pirosmagvú | növény db | 1 0,3 | 3 3 |
+| 6. | 5. Kultúrállapot, legalább | értékszám | 3 | 3 |
 
-| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb Fenyércirok (Sorghum halepense) Vadzab fajok (Avena spp.) Galaj fajok (Galium spp.) Köles (Panicum miliaceum) Óriás muhar (Setaria italica maxima) Útszéli zsázsa (Lepidium draba) Juhsóska (Rumex acetosella) Vadmuhar fajok (Setaria spp.) Kakaslábfű (Echinochloa crus-galli) Egyéb vadsóska fajok (Rumex spp.) | 0,3 0,3 0,3 2 2 5 3 10 10 0,3 | 3 3 3 10 10 10 6 25 25 4 |
+| 7. | 6. Idegen fajta a mintaterek átlagában, legfeljebb | növény db |  |  |
 
-| Gombabetegségek a mintaterek átlagában, legfeljebb Mohar porüszög (Ustilago crameri) | buga db | 20 | 40 |
+| 8. | 6.1. sárgamagvú | 1 | 3 |
 
-| Rozsda (Puccinia spp.) | minősítő szám | 2 |
+| 9. | 6.2. pirosmagvú | 0,3 | 3 |
+
+| 10. | 7. Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb | növény db |  |  |
+
+| 11. | 7.1. Fenyércirok (Sorghum halepense) |  | 0,3 | 3 |
+
+| 12. | 7.2. Vadzab fajok (Avena spp.) | 0,3 | 3 |
+
+| 13. | 7.3. Galaj fajok (Galium spp.) | 0,3 | 3 |
+
+| 14. | 7.4. Köles (Panicum miliaceum) | 2 | 10 |
+
+| 15. | 7.5. Óriás muhar (Setaria italica maxima) | 2 | 10 |
+
+| 16. | 7.6. Útszéli zsázsa (Lepidium draba) | 5 | 10 |
+
+| 17. | 7.7. Juhsóska (Rumex acetosella) | 3 | 6 |
+
+| 18. | 7.8. Vadmuhar fajok (Setaria spp.) | 10 | 25 |
+
+| 19. | 7.9. Kakaslábfű (Echinochloa crus-galli) | 10 | 25 |
+
+| 20. | 7.10. Egyéb vadsóska fajok (Rumex spp.) | 0,3 | 4 |
+
+| 21. | 8. Gombabetegségek, a mintaterek átlagában, legfeljebb Mohar porüszög (Ustilago crameri) | buga db | 20 | 40 |
+
+| 22. | 9. Rozsda (Puccinia spp.) | minősítőszám | 2 | 2 |
 
 6. Amaránt
 
@@ -1482,70 +1518,4 @@ A mintavételt az egységes nemzetközi előírások – az ISTA szabályzata �
 
 A csírázóképességi mintát a tiszta anyagból kell képezni és annak legalább 400 szemet kell tartalmaznia.
 
-| Faj | Egy tétel legnagyobb tömege (tonna) | Kiszerelt csomagolási egységek tömege legfeljebb (kg) | Alapminta (kg) | Laboratóriumi minta (g) | Vizsgálati minta (g) | Idegen- mag vizsgálati minta (g) |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-
-| Fűfélék |  |  |  |  |  |  |
-
-| Barázdált csenkesz (Festuca rupicola) | 5 | 5 | 2 | 30 | 3 | 30 |
-
-| Felemáslevelű csenkesz (Festuca heterophylla) | 10 | 5 | 2 | 60 | 6 | 60 |
-
-| Magas tarackbúza (Elytrigia elongata) | 10 | 5 | 5 | 200 | 20 | 200 |
-
-| Magyar rozsnok (Bromus inermis) | 10 | 5 | 5 | 90 | 9 | 90 |
-
-| Sudár rozsnok (Bromus erectus) | 10 | 5 | 5 | 100 | 10 | 100 |
-
-| Taréjos búzafű (Agropyron cristatum) | 10 | 5 | 5 | 40 | 4 | 40 |
-
-| Taréjos cincor (Cynosurus cristatus) | 10 | 5 | 2 | 25 | 2 | 20 |
-
-| Veresnadrág csenkesz (Festuca pseudovina) | 5 | 5 | 2 | 25 | 2 | 30 |
-
-| Zöld pántlikafű (Phalaris arundinacea) | 10 | 5 | 2 | 30 | 3 | 30 |
-
-| Pillangósok |  |  |  |  |  |  |
-
-| Csicseriborsó (Cicer arietinum) | 20 | 10 | 10 | 1000 | 1000 | 1000 |
-
-| Fehérvirágú somkóró (Melilotus albus) | 10 | 5 | 10 | 50 | 5 | 50 |
-
-| Lencse (Lens culinaris) | 10 | 10 | 5 | 600 | 60 | 600 |
-
-| Orvosi somkóró (Melilotus officinalis) | 10 | 5 | 10 | 50 | 5 | 50 |
-
-| Szegletes lednek (Lathyrus sativus) | 20 | 10 | 10 | 1000 | 450 | 1000 |
-
-| Tarka koronafürt (Securigera varia) | 10 | 5 | 10 | 100 | 10 | 100 |
-
-| Egyéb fajok |  |  |  |  |  |  |
-
-| Amaránt (Amaranthus spp.) | 5 | 5 | 2 | 10 | 2 | 10 |
-
-| Átnőttlevelű szilfium (Sylphium perfoliatum) | 5 | 5 | 2 | 10 | 2 | 10 |
-
-| Mohar (Setaria italica) | 10 | 5 | 5 | 90 | 9 | 90 |
-
-| Szümcső (Bunias orientalis) | 10 | 5 | 5 | 700 | 70 | 700 |
-
-| Évelő rozs (Secale cereanum) | 10 | 5 | 5 | 500 | 50 | 250 |
-
-Megjegyzés: A maximális tételsúlyt 5%-nál nagyobb mértékben nem szabad túllépni.
-
-2. Vetőmag-vizsgálati és minősítési határértékek
-
-| Növényfaj | Szaporítási fok | Csírázó- képesség % legalább | Kemény mag % legfeljebb | Tisztaság % legalább | Idegen mag % legfeljebb | Idegen mag db/minta legfeljebb | Nedvesség- tartalom % legfeljebb |
-
-| Összes | Egy faj | Egy faj | Avena spp. Cuscuta spp. | Rumex spp. | Plantago lanceolata Rumex acetosella |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-
-| Tarka koronafürt (Securigera varia) | SE-E I. fok, ker. | 80 | 60 | 98,0 | 0,3 1,0 | – 0,4 | 20 – | 0 0 | 3 5 | 0 15 | 13,0 |
-
-| Somkóró (Melilotus albus Melilotus officinalis) | SE-E I. fok, ker. | 80 | 40 | 98,0 | 0,3 1,0 | – 0,4 | 20 – | 0 0 | 3 5 | 0 12 | 13,0 |
-
-Megjegyzés: Melilotus spp. megengedett mennyisége SE-E: 0 db/minta; I–II. fok: 0,3%. Rumex spp.: Rumex spp. (Vadsóska fajok) a Rumex acetosella (Juhsóska) kivételével. A herefélék vetőmagjának arankatartalmát mintavételkor a teljes alapmintából külön is meg kell vizsgálni. A nagymagvú hereféléknél (alexandriai here, bíborhere, lucerna, vöröshere, nyúlszapuka, somkóró és tarka koronafürt) az arankavizsgálathoz az 1,12 mm (20-as) rostaalj összes mennyiségét a rosta fölével 400 g-ra kell kiegészíteni. Ha a rostaalj mennyisége 400 g-nál több, akkor is kell a rostaaljhoz még 100 g rostafölet keverni. Az így elkészített mintát finom vasporral összekeverve mágnesgépen kell átereszteni és a mágnesgépről lekerülő aljat arankára megvizsgálni. Arankavizsgálat alkalmával az első életképes arankamag megtalálásakor a vetőmagot arankafertőzöttnek kell nyilvánítani. A csírázóképesség vizsgálat és a biokémiai életképesség vizsgálat alkalmával megállapított keményhéjú és duzzadt magvak mennyiségét (db/100 db) a vetőmag-minősítő bizonyítványon külön is fel kell tüntetni.
-
-[^174]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^194]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
