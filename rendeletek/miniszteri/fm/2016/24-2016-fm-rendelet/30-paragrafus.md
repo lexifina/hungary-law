@@ -1,0 +1,1 @@
+## „(3a) Amennyiben a kiszerelő a (3) bekezdés h) pontja szerinti ellenőrzés során megállapítja, hogy a kiszerelésnél vett minta nem felel meg az e rendeletben előírt minőségi feltételeknek, a forgalmazókat erről 3 napon belül értesítenie kell.”

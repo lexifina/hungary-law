@@ -1,0 +1,3 @@
+## 1. § A növényfajták állami elismeréséről szóló 40/2004. (IV. 7.) FVM rendelet [a továbbiakban: 40/2004. (IV. 7.) FVM rendelet] 4. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+## „(9) A szántóföldi növényfajok hibridjeit (kukorica, kalászos gabonák, napraforgó, repce, cirokfélék és kender) csak a kialakító vonalak (így különösen törzsek, fajták) (a továbbiakban: vonalak) és a keresztezési képlet egyidejű közlésével lehet bejelenteni. Külföldön vagy belföldön már regisztrált vonalak esetében az eredeti megnevezést kell alkalmazni. A bejelentett hibrid keresztezési képletét (összetételét) a bejelentés után nem lehet megváltoztatni.”
