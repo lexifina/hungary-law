@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^96]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^105]
 
 I. RÉSZ
 
@@ -48,21 +48,21 @@ I. RÉSZ
 
 | 18. | Capsicum annuum L. | Csili vagy paprika | TP 76/2 2007. 3. 21. |
 
-| 19. | Cichorium endivia L. | Borzaslevelű és széleslevelű endívia | TP 118/2 2005. 12. 1. |
+| 19. | Cichorium endivia L. | Borzaslevelű és széleslevelű endívia | TP 118/3, 2014.3.19. |
 
-| 20. | Cichorium intybus L. | Ipari cikória | TP 172/2 2005. 12. . |
+| 20. | Cichorium intybus L. | Ipari cikória | TP 172/2, 2005.12.1. |
 
 | 21. | Cichorium intybus L. | Cikóriasaláta | TP 173/1 2004. 3. 25. |
 
-| 22. | Citrullus lanatus (Thumb.) Matsum. et Nakai | Görögdinnye | TP 142/1 2007. 3. 21. |
+| 22. | Citrullus lanatus (Thumb.) Matsum. et Nakai | Görögdinnye | TP 142/2, 2014.3.19. |
 
 | 23. | Cucumis melo L. | Sárgadinnye | TP 104/2 2007. 3. 21. |
 
 | 24. | Cucumis sativus L. | Salátauborka és fürtös uborka | TP 61/2 2008. 3. 13. |
 
-| 25. | Cucurbita pepo L. | Cukkini | TP 119/1 2004. 3. 25. |
+| 25. | Cucurbita pepo L. | Cukkini | TP 119/1 rev., 2014.3.19. |
 
-| 26. | Cynara cardunculus L. | Articsóka és kardi | b) TP 184/2 2013. 2. 27. |
+| 26. | Cynara cardunculus L. | Articsóka és kardi | TP 184/2, 2013.2.27. |
 
 | 27. | Daucus carota L. | Sárgarépa és takarmány sárgarépa | TP 49/3 2008. 3. 13. |
 
@@ -70,7 +70,7 @@ I. RÉSZ
 
 | 29. | Lactuca sativa L. | Saláta | TP 13/5 2011. 2. 16. |
 
-| 30. | Solanum Lycopersicum L. | Paradicsom | b) TP 44/4. rev. 2013. 2. 27. |
+| 30. | Solanum Lycopersicum L. | Paradicsom | TP 44/4 rev., 2013.2.27. |
 
 | 31. | Petroselinum crispum (Mill.) Nyman ex A.W. Hill | Petrezselyem | TP 136/1 2007. 3. 21. |
 
@@ -80,17 +80,19 @@ I. RÉSZ
 
 | 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 2010. 3. 11. |
 
-| 35. | Raphanus sativus L. | Retek, fekete retek | b) TP 64/2 2013. 2. 27. |
+| 35. | Raphanus sativus L. | Retek, fekete retek | TP 64/2, 2013.2.27. |
 
 | 36. | Solanum melongena L. | Padlizsán vagy tojásgyümölcs | TP 117/1 2008. 3. 13. |
 
-| 37. | Spinacia oleracea L. | Spenót/paraj | b) TP 55/5 2013. 2. 27. |
+| 37. | Spinacia oleracea L. | Spenót/paraj | TP 55/5, 2013.2.27. |
 
 | 38. | Valerianella locusta (L.) Laterr. | Galambbegysaláta | TP 75/2 2007. 3. 21. |
 
 | 39. | Vicia faba L. (partim) | Lóbab | TP Broadbean/1 2004. 3. 25. |
 
 | 40. | Zea mays L. (partim) | Csemege kukorica és pattogatni való kukorica | TP 2/3 2010. 3. 11. |
+
+| 41. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TG 294/1, 2014.3.19. |
 
 II. RÉSZ
 
@@ -112,10 +114,10 @@ II. RÉSZ
 
 | 6. | Scorzonera hispanica L. | Feketegyökér | TG/116/4 2010. 3. 24. |
 
-| 7. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanyvesszők | TG/294/1 2013. 3. 20. |
+| 7. |  |  |  |
 
 III. RÉSZ
 
 Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-[^96]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^105]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § g) pontja szerint módosított szöveg.

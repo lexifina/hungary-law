@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^95]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^104]
 
 I. RÉSZ
 
@@ -32,7 +32,7 @@ I. RÉSZ
 
 | 11. | Helianthus annuus L. | Napraforgó | TP 81/1 2002. 10. 31. |
 
-| 12. | Linum usitatissimum L. | Len/olajlen | TP 57/1 2007. 3. 21. |
+| 12. | Linum usitatissimum L. | Len/olajlen | TP 57/2, 2014.3.19. |
 
 | 13. | Avena nuda L. | Csupasz zab | TP 20/1 2003. 11. 6. |
 
@@ -48,7 +48,7 @@ I. RÉSZ
 
 | 19. | Triticum aestivum L. | Búza | TP 3/4rev.2. 2011. 2. 16. |
 
-| 20. | Triticum durum Desf. | Durumbúza | TP 120/2 2003. 11. 6. |
+| 20. | Triticum durum Desf. | Durumbúza | TP 120/3, 2014.3.19. |
 
 | 21. | Zea mays L. | Kukorica | TP 2/3 2010. 3. 11. |
 
@@ -62,7 +62,7 @@ II. RÉSZ
 
 |  | Tudományos név | Közismert elnevezés | UPOV előírás |
 
-| 1. | Beat vulgaris L. | Takarmányrépa | TG/150/3 1994. 11. 4. |
+| 1. | Beta vulgaris L. | Takarmányrépa | TG/150/3 1994. 11. 4. |
 
 | 2. | Agrostis canina L. | Ebtippan | TG/30/6 1990. 10. 12. |
 
@@ -88,7 +88,7 @@ II. RÉSZ
 
 | 13. | Phleum pratense L. | Gumós komócsin | TG/34/6 1984. 11. 7. |
 
-| 14. | Poa pratensis L. | Réti perje | TG/33/6 1990. 10. 12. |
+| 14. | Poa pratensis L. | Réti perje | TG 33/7, 2014.4.9. |
 
 | 15. | Lotus corniculatus L. | Szarvaskerep | TG/193/1 2008. 4. 9. |
 
@@ -108,13 +108,13 @@ II. RÉSZ
 
 | 23. | Vicia faba L. | Lóbab | TG/8/6 2002. 4. 17. |
 
-| 24. | Vicia sativa L. | Tavaszi bükköny | b) TG/32/7 2013. 3. 20. |
+| 24. | Vicia sativa L. | Tavaszi bükköny | TG 32/7, 2013.3.20. |
 
 | 25. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TG/89/6rev. 2001. 4. 4. + 2009. 4. 1. |
 
 | 26. | Raphanus sativus L. var. oleiformis Pers. | Takarmányretek | TG/178/3 2001. 4. 4. |
 
-| 27. | Arachis hypogea L. | Földimogyoró | TG/93/3 1985. 11. 13. |
+| 27. | Arachis hypogea L. | Földimogyoró | TG 93/4, 2014.4.9. |
 
 | 28. | Brassica rapa L. var. silvestris (Lam.) Briggs | Réparepce | TG/185/3 2002. 4. 17. |
 
@@ -122,7 +122,7 @@ II. RÉSZ
 
 | 30. | Gossypium spp. | Gyapot | TG/88/6 2001. 4. 4. |
 
-| 31. | Papaver somniferum L. | Mák | TG/166/3 1999. 3. 24. |
+| 31. | Papaver somniferum L. | Mák | TG 166/4, 2014.4.9. |
 
 | 32. | Sinapis alba L. | Fehér mustár | TG/179/3 2001. 4. 4. |
 
@@ -132,4 +132,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^95]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^104]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése szerint módosított szöveg.

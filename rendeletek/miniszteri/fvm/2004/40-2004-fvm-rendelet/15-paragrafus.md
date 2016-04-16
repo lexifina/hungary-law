@@ -2,16 +2,18 @@
 
 ## Egyedi szaporítási engedély
 
-15. § (1) Az állami elismerésre bejelentett fajok fajtáira egyedi szaporítási engedély adható.
+15. § (1)[^51] Az állami elismerésre bejelentett fajok fajtáira a fajtabejelentő, annak képviselője vagy a fajtabejelentő hozzájárulásával rendelkező szaporítóanyag termelő részére adható egyedi szaporítási engedély.
 
-(2) A szántóföldi és zöldség fajok fajtáira engedély egyéves eredményes DUS-vizsgálat alapján kérelmezhető. Az egyedi szaporítási engedély a szántóföldi fajok szaporítóanyagának forgalmazására nem jogosít.
+(2)[^52] A szántóföldi fajok fajtáira engedély egyéves eredményes DUS-vizsgálat alapján kérelmezhető. Az egyedi szaporítási engedély a szántóföldi növényfajták (fajok) esetén a fajta szaporítóanyagának forgalmazására nem jogosít.
 
-(3)[^49] A szőlő, gyümölcs és erdészeti fajtákra vonatkozó engedély egyben a forgalomba hozatalra is kiterjed.
+(3)[^53] A szőlő-, gyümölcs-, zöldség, erdészeti és fás szárú energetikai fajták esetén az egyedi szaporítási engedély a fajta szaporítóanyagának forgalomba hozatalára is kiterjed.
 
-(4)[^50] Az (1) bekezdés szerinti engedély iránti kérelmet a vetést vagy telepítést megelőzően a NÉBIH-hez kell benyújtani.
+(4)[^54] Az (1) bekezdés szerinti engedély iránti kérelmet a vetést vagy telepítést megelőzően a NÉBIH-hez kell benyújtani.
 
-(5)[^51] Az egyedi szaporítási engedély a fajtajelölt állami elismeréséig, illetve a vizsgálat megszüntetéséig hatályos.
+(5)[^55] Az egyedi szaporítási engedély a fajtajelölt állami elismeréséig, illetve a vizsgálat megszüntetéséig hatályos.
 
-[^49]: A 15. § (3) bekezdése a 22/2005. (III. 22.) FVM rendelet 2. §-ával megállapított szöveg.
-[^50]: A 15. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (6) bekezdésével megállapított, a 105/2012. (X. 11.) VM rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^51]: A 15. § (5) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^51]: A 15. § (1) bekezdése a 24/2016. (IV. 8.) FM rendelet 5. §-ával megállapított szöveg.
+[^52]: A 15. § (2) bekezdése a 24/2016. (IV. 8.) FM rendelet 5. §-ával megállapított szöveg.
+[^53]: A 15. § (3) bekezdése a 24/2016. (IV. 8.) FM rendelet 5. §-ával megállapított szöveg.
+[^54]: A 15. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (6) bekezdésével megállapított, a 105/2012. (X. 11.) VM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^55]: A 15. § (5) bekezdése a 183/2009. (XII. 30.) FVM rendelet 1. § (6) bekezdésével megállapított szöveg.
