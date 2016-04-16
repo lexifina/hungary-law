@@ -2,13 +2,15 @@
 
 ## a) megállapítja a Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keretét az 1. melléklet szerint,
 
-## b) elfogadja a 2. melléklet szerint az ott felsorolt projektek kiemelt projektként történő nevesítését.
+## b) elfogadja a 2. melléklet szerint az ott felsorolt projektek kiemelt projektként történő nevesítését,
+
+## c)[^1] egyetért azzal, hogy a Versenyképes Közép-Magyarország Operatív Program prioritásain kizárólag az európai uniós támogatás és a hazai társfinanszírozás összegének önerővel csökkentett mértékéig vállalható kötelezettség.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^2]
 
-1. melléklet az 1011/2016. (I. 20.) Korm. határozathoz
+1. melléklet az 1011/2016. (I. 20.) Korm. határozathoz[^3]
 
 ## A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési kerete
 
@@ -18,17 +20,17 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-1.2.1-15 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása Pest megyében | 3,58 | egyszerűsített | 2016. január |
+| 2. | VEKOP-1.2.1-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása Pest megyében | 3,58 | egyszerűsített | 2016. április |
 
-| 3. | VEKOP-1.2.2-15 | Az üzleti infrastruktúra fejlesztésének támogatása Pest megyében | 1,000 | területi | 2016. január |
+| 3. | VEKOP-1.2.2-15 | Az üzleti infrastruktúra fejlesztésének támogatása Pest megyében | 2,865 | területi | Meghirdetve 2016. áprilisban |
 
-| 4. | VEKOP-1.2.2-16 | Az üzleti infrastruktúra fejlesztésének támogatása Pest megyében | 1,865 | területi | 2016. július |
+| 4. |  |  |  |  |  |
 
-| 5. | VEKOP-1.2.3-16 | Mikro-, kis- és középvállalkozások versenyképességének növelése Pest megyében (hitelprogram) | 3,67 | pénzügyi eszköz | 2016. március |
+| 5. | VEKOP-1.2.3-16 | Mikro-, kis- és középvállalkozások versenyképességének növelése Pest megyében (hitelprogram) | 3,67 | pénzügyi eszköz | 2016. május |
 
-| 6. | VEKOP-1.3.1-15 | Mikro-, kis- és középvállalkozások piaci megjelenésének támogatása | 1,23 | egyszerűsített | 2016. január |
+| 6. | VEKOP-1.3.1-16 | Mikro-, kis- és középvállalkozások piaci megjelenésének támogatása | 1,23 | egyszerűsített | 2016. április |
 
-| 7. | VEKOP-1.3.2-15 | Turisztikai szervezetek (TDM) fejlesztése | 0,20 | standard | 2016. január |
+| 7. | VEKOP-1.3.2-15 | Turisztikai szervezetek (TDM) fejlesztése | 0,20 | standard | Meghirdetve 2016. márciusban |
 
 2. Kutatás, fejlesztés és technológiai innovációról szóló 2. prioritás
 
@@ -36,15 +38,17 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-2.1.1-15 | Vállalatok K+F+I tevékenységének támogatása | 5,00 | standard | 2016. január |
+| 2. | VEKOP-2.1.1-15 | Vállalatok K+F+I tevékenységének támogatása | 15,00 | standard | Meghirdetve 2016. januárban |
 
-| 3. | VEKOP-2.1.7-15 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 2,00 | standard | 2016. január |
+| 2a. | VEKOP-2.1.2-16 | Intelligens szakosodási kockázati tőkeprogram | 5,49 | pénzügyi eszköz | 2016. szeptember |
+
+| 3. | VEKOP-2.1.7-16 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 6,00 | standard | 2016. április |
 
 | 4. | VEKOP-2.2.1-16 | Versenyképességi és Kiválósági Együttműködések | 2,64 | standard | 2016. október |
 
-| 5. | VEKOP-2.3.2-15 | Stratégiai K+F műhelyek kiválósága | 4,00 | standard | 2016. január |
+| 5. | VEKOP-2.3.2-16 | Stratégiai K+F műhelyek kiválósága | 4,00 | standard | 2016. május |
 
-| 6. | VEKOP-2.3.3-15 | K+I infrastruktúra megerősítése – nemzetköziesedés, hálózatosodás | 2,00 | standard | 2016. január |
+| 6. | VEKOP-2.3.3-15 | K+I infrastruktúra megerősítése – nemzetköziesedés, hálózatosodás | 6,00 | standard | Meghirdetve 2016. januárban |
 
 3. Infokommunikációs fejlesztésekről szóló 3. prioritás: a 2016. évben a 3. prioritás keretében kizárólag országos kihatású felhívások kerülnek meghirdetésre.
 
@@ -54,11 +58,11 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-4.1.1-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 3,20 | kiemelt | 2016. január |
+| 2. | VEKOP-4.1.1-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 6,17 | kiemelt | Meghirdetve 2016. márciusban |
 
 | 3. | VEKOP-4.1.2-16 | Tematikus hálózatok fejlesztése | 1,00 | standard | 2016. augusztus |
 
-| 4. | VEKOP-4.2.1-15 | Élőhelyek és fajok természetvédelmi helyzetének javítása, a természetvédelmi bemutatás infrastruktúrájának javítása | 2,70 | kiemelt | 2016. január |
+| 4. | VEKOP-4.2.1-15 | Élőhelyek és fajok természetvédelmi helyzetének javítása, a természetvédelmi bemutatás infrastruktúrájának javítása | 2,70 | kiemelt | Meghirdetve 2016. márciusban |
 
 5. Az energiahatékonyság, az intelligens energiahasználat és a megújuló energiák felhasználásának támogatásáról szóló 5. prioritás
 
@@ -66,15 +70,15 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-5.1.1-16 | Vállalkozások épületenergetikai fejlesztései, valamint helyi hő- és villamosenergia-igény kielégítése megújuló energiaforrásokkal a közép-magyarországi régióban | 5,88 | standard/egyszerűsített | 2016. június |
+| 2. | VEKOP-5.1.1-16 | Vállalkozások épületenergetikai fejlesztései, valamint helyi hő- és villamosenergia-igény kielégítése megújuló energiaforrásokkal a közép-magyarországi régióban | 5,88 | standard/egyszerűsített | 2016. július |
 
-| 3. | VEKOP-5.1.2-16 | Vállalkozások épületenergetikai fejlesztései, valamint helyi hő- és villamosenergia-igény kielégítése megújuló energiaforrásokkal a közép-magyarországi régióban | 5,88 | pénzügyi eszköz | 2016. június |
+| 3. | VEKOP-5.1.2-16 | Vállalkozások épületenergetikai fejlesztései, valamint helyi hő- és villamosenergia-igény kielégítése megújuló energiaforrásokkal a közép-magyarországi régióban | 5,88 | pénzügyi eszköz | 2016. július |
 
-| 4. | VEKOP-5.2.1-16 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó pénzügyi eszközök | 9,41 | pénzügyi eszköz | 2016. szeptember |
+| 4. | VEKOP-5.2.1-16 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó pénzügyi eszközök | 9,41 | pénzügyi eszköz | 2016. augusztus |
 
-| 5. | VEKOP-5.3.1-15 | Fenntartható közlekedésfejlesztés Budapesten | 8,390 | területi | 2016. január |
+| 5. | VEKOP-5.3.1-15 | Fenntartható közlekedésfejlesztés Budapesten | 8,390 | területi | Meghirdetve 2016. márciusban |
 
-| 6. | VEKOP-5.3.2-15 | Fenntartható közlekedésfejlesztés Pest megyében | 1,800 | területi | 2016. január |
+| 6. | VEKOP-5.3.2-15 | Fenntartható közlekedésfejlesztés Pest megyében | 1,800 | területi | Meghirdetve 2016. márciusban |
 
 6. Települési környezet- és közszolgáltatás-fejlesztéséről szóló 6. prioritás
 
@@ -82,13 +86,13 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-6.1.1-15 | Kisgyermeket nevelő szülők munkavállalási aktivitásának növelése | 7,932 | területi | 2016. január |
+| 2. | VEKOP-6.1.1-15 | Kisgyermeket nevelő szülők munkavállalási aktivitásának növelése | 7,932 | területi | Meghirdetve 2016. márciusban |
 
-| 3. | VEKOP-6.2.1-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Budapesten | 11,455 | területi | 2016. január |
+| 3. | VEKOP-6.2.1-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Budapesten | 11,455 | területi | Meghirdetve 2016. márciusban |
 
-| 4. | VEKOP-6.2.2-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Pest megyében | 1,300 | területi | 2016. január |
+| 4. | VEKOP-6.2.2-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Pest megyében | 1,897 | területi | Meghirdetve 2016. márciusban |
 
-| 5. | VEKOP-6.3.1-16 | Gyermekotthonok kiváltása, korszerűsítése, hiányzó gyermekotthoni kapacitások létrehozása | 1,26 | standard | 2016. január |
+| 5. | VEKOP-6.3.1-16 | Gyermekotthonok kiváltása, korszerűsítése, hiányzó gyermekotthoni kapacitások létrehozása | 1,26 | standard | 2016. május |
 
 | 6. | VEKOP-6.3.5-16 | Egészségügyi szakellátók nővérszállóinak fejlesztése | 1,49 | kiemelt | 2016. június |
 
@@ -98,9 +102,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-7.1.1-15 | Nő az esély – képzés és foglalkoztatás | 0,25 | kiemelt | 2016. január |
+| 2. | VEKOP-7.1.1-16 | Nő az esély – képzés és foglalkoztatás | 0,25 | kiemelt | 2016. május |
 
-| 3. | VEKOP-7.1.3-15 | Megváltozott munkaképességű emberek támogatása | 2,00 | kiemelt | meghirdetve 2015-ben |
+| 3. | VEKOP-7.1.3-15 | Megváltozott munkaképességű emberek támogatása | 2,00 | kiemelt | Meghirdetve 2015. decemberben |
 
 | 4. | VEKOP-7.1.4-16 | Szegregált élethelyzetek felszámolása komplex programokkal (ESZA) | 0,45 | standard | 2016. június |
 
@@ -108,13 +112,13 @@
 
 | 6. | VEKOP-7.2.2-16 | Népegészségügyi intézményrendszer helyi kapacitásainak fejlesztése | 1,70 | standard | 2016. június |
 
-| 7. | VEKOP-7.3.2-16 | Tanoda programok támogatása | 0,35 | standard | 2016. január |
+| 7. | VEKOP-7.3.2-16 | Tanoda programok támogatása | 0,35 | standard | Meghirdetve 2016. márciusban |
 
-| 8. | VEKOP-7.4.1-16 | Roma szakkollégiumok támogatása | 0,30 | standard | 2016. január |
+| 8. | VEKOP-7.4.1-16 | Roma szakkollégiumok támogatása | 0,30 | standard | Meghirdetve 2016. márciusban |
 
 | 9. | VEKOP-7.4.2-16 | Felsőoktatási hallgatók tudományos műhelyeinek és programjainak támogatása | 2,22 | standard | 2016. szeptember |
 
-| 10. | VEKOP-7.5.1-16 | Szociális humánerőforrás fejlesztése | 1,68 | kiemelt | 2016. január |
+| 10. | VEKOP-7.5.1-16 | Szociális humánerőforrás fejlesztése | 1,68 | kiemelt | 2016. május |
 
 8. A foglalkoztathatóságot szolgáló programokról szóló 8. prioritás
 
@@ -122,21 +126,21 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-8.1.1-15 | Út a munkaerőpiacra | 17,80 | kiemelt | meghirdetve 2015-ben |
+| 2. | VEKOP-8.1.1-15 | Út a munkaerőpiacra | 17,80 | kiemelt | Meghirdetve 2015. októberben |
 
-| 3. | VEKOP-8.1.2-16 | Nem állami szervezetek és társadalmi partnerek munkaerőpiaci szolgáltatásainak támogatása | 1,00 | standard | 2016. március |
+| 3. | VEKOP-8.1.2-16 | Nem állami szervezetek és társadalmi partnerek munkaerőpiaci szolgáltatásainak támogatása | 1,00 | standard | 2016. május |
 
-| 4. | VEKOP-8.2.1-15 | Ifjúsági Garancia a közép-magyarországi régióban | 4,20 | kiemelt | meghirdetve 2015-ben |
+| 4. | VEKOP-8.2.1-15 | Ifjúsági Garancia a közép-magyarországi régióban | 4,20 | kiemelt | Meghirdetve 2015. augusztusban |
 
-| 5. | VEKOP-8.3.1-16 | Fiatalok vállalkozóvá válásának támogatása | 1,04 | egyszerűsített | 2016. március |
+| 5. | VEKOP-8.3.1-16 | Fiatalok vállalkozóvá válásának támogatása | 1,04 | egyszerűsített | 2016. május |
 
-| 6. | VEKOP-8.5.1-16 | Idegen nyelvi készségek fejlesztése | 2,50 | kiemelt | 2016. október |
+| 6. | VEKOP-8.5.1-16 | Idegen nyelvi készségek fejlesztése | 2,50 | kiemelt | 2016. augusztus |
 
-| 7. | VEKOP-8.5.2-16 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 1,30 | standard | 2016. szeptember |
+| 7. | VEKOP-8.5.2-16 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 1,30 | standard | 2016. augusztus |
 
-| 8. | VEKOP-8.5.3-16 | Munkahelyi képzések támogatása kis és középvállalatok munkavállalói számára | 2,60 | kiemelt | 2016. szeptember |
+| 8. | VEKOP-8.5.3-16 | Munkahelyi képzések támogatása kis és középvállalatok munkavállalói számára | 2,60 | kiemelt | 2016. augusztus |
 
-| 9. | VEKOP-8.6.3-16 | A végzettség nélküli iskolaelhagyás csökkentése a szakképzésben tanulók körében | 1,30 | egyszerűsített | 2016. április |
+| 9. | VEKOP-8.6.3-16 | A szakképzési intézményrendszer átfogó fejlesztése | 1,30 | egyszerűsített | 2016. május |
 
 9. A Gazdaságfejlesztési és Innovációs Operatív Program országos kihatású projektjeinek részben a Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozása
 
@@ -150,17 +154,17 @@
 
 | 4. | GINOP-3.4.2-VEKOP-15 | Intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése | 0,86 |
 
-| 5. | GINOP-3.4.3-VEKOP-15 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 1,29 |
+| 5. | GINOP-3.4.3-VEKOP-15 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 2,58 |
 
 | 6. | GINOP-6.2.1-VEKOP-15 | Részvétel az OECD Felnőttek Képesség- és Kompetenciamérése programjában (PIAAC) | 0,30 |
 
 | 7. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 0,49 |
 
-| 8. | GINOP-5.3.7-VEKOP-16 | Jogszerű foglalkoztatás fejlesztése | 1,00 |
+| 8. | GINOP-5.3.6-VEKOP-16 | Jogszerű foglalkoztatás ösztönzése, valamint a kevésbé fejlett régiókban vállalati felelősségvállalás ösztönzése és állásfeltárás | 1,00 |
 
-| 9. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének és tartalmának fejlesztése | 1,92 |
+| 9. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 1,92 |
 
-| 10. | GINOP-3.4.3-VEKOP-16 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 1,29 |
+| 10. |  |  |  |
 
 10. A Környezeti és Energiahatékonysági Operatív Program országos kihatású projektjének részben a Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozása
 
@@ -322,10 +326,12 @@
 
 | 46. | KÖFOP-2.3.2.-VEKOP-15 | Hálózatfejlesztés Támogató Monitoring Rendszer (HTMR) létrehozása | 0,49 |
 
-| 47. | KÖFOP-2.3.2.-VEKOP-16 | Helyi versenyképesség-fejlesztési kutatási program | 0,19 |
+| 47. | KÖFOP-2.3.3.-VEKOP-16 | Helyi versenyképesség-fejlesztési kutatási program | 0,19 |
 
 | 48. | KÖFOP-2.3.4.-VEKOP-15 | Önkormányzati fejlesztések figyelemmel kísérése II. | 0,23 |
 
 | 49. | KÖFOP-2.3.5.-VEKOP-16 | A vállalati szektorhoz kapcsolódó közigazgatási bürokrácia csökkentési program kidolgozása | 0,25 |
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpontját az 1202/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja szerint módosított szöveg.
