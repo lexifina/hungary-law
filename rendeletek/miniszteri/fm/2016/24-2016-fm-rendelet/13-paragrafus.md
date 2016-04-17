@@ -1,1 +1,0 @@
-## „58a. támasztónövény: pillangós virágúak vetőmag-szaporításához használt, általában kalászos gabonafaj, amelynek magja könnyen tisztítható a fémzárolásra szánt pillangós virágú faj vetőmagjától és amelynek funkciója az, hogy a vetőmag-szaporítás céljából termesztett állománynak vertikális felületet biztosítson a növekedéshez,”
