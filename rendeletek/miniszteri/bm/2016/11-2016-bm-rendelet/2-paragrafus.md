@@ -1,1 +1,0 @@
-## 1. § A rendészeti feladatokat ellátó személyek, valamint a fegyveres biztonsági őrök ruházati ellátására vonatkozó részletes szabályokról szóló 70/2012. (XII. 14.) BM rendelet (a továbbiakban: R.) 6. melléklete az 1. melléklet szerint módosul.
