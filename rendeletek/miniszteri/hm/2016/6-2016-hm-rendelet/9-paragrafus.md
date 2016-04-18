@@ -1,0 +1,1 @@
+## „(6) Az MH Bánkon működő regenerálódást és kiképzést segítő szervezetében a hétközi és a hétvégi pihenés térítési díjának meghatározására az 1. melléklet 3a. pontját kell alkalmazni. A térítési díjat legkésőbb a 16. § (3) bekezdése szerint kell megfizetni.”
