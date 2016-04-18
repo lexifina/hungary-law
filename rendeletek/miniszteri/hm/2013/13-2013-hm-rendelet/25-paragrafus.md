@@ -1,3 +1,5 @@
-## 24. § Az igényjogosult által visszamondott szolgáltatás megüresedett férőhelyeinek elosztására az MH regenerálódást és kiképzést segítő szervezetét üzemeltető honvédelmi szervezet, és az MH szolgáltatásokat koordináló szervezetének parancsnoka tesz javaslatot.
+## 24/A. §[^50] A 2., 5., 6. és 7. alcím szerinti pihenési formák igénybevételéhez kiállított beutalót az MH regenerálódást és kiképzést segítő szervezete, az MH rekreációt végző szervezete és az MH szolgáltatásokat koordináló szervezete a szolgáltatási időpont előtt legkésőbb három héttel küldi meg az igényjogosult részére.
 
 ## 13. Záró rendelkezések
+
+[^50]: A 24/A. §-t a 6/2016. (IV. 15.) HM rendelet 14. §-a iktatta be.

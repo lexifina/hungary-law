@@ -2,15 +2,15 @@
 
 1. § (1) E rendelet alkalmazásában
 
-1. családtag: az igényjogosult közös háztartásban élő házastársa, valamint vérszerinti, nevelt és örökbefogadott gyermeke 18. életévének betöltéséig, vagy ha közép- vagy felsőfokú oktatási intézményben nappali oktatás keretében tanulmányokat folytat, tanulmányainak befejezéséig, de legfeljebb 23. életéve betöltéséig, vagy életkorától függetlenül, ha az egészségi állapota miatt munkaképtelen, feltéve, hogy tartásáról az igényjogosult gondoskodik, vagy akiknek tartásához az igényjogosult igazoltan hozzájárul,
+1.[^1] családtag: az igényjogosult közös háztartásban élő házastársa, valamint vér szerinti, nevelt és örökbefogadott gyermeke 18. életévének betöltéséig, vagy ha közép- vagy felsőfokú oktatási intézményben igazoltan nappali oktatás keretében tanulmányokat folytat, tanulmányainak befejezéséig, de legfeljebb 25. életéve betöltéséig, vagy életkorától függetlenül, ha az egészségi állapota miatt munkaképtelen, feltéve, hogy tartásáról az igényjogosult gondoskodik, vagy akiknek tartásához az igényjogosult igazoltan hozzájárul,
 
 2. előszezon: a naptári év kezdetétől az iskolai tanév befejezését követő első turnusváltásig terjedő, naptári napban meghatározott időszak,
 
 3. főszezon: az iskolai tanév befejezését követő első turnus első napjától az iskolai tanév kezdetét megelőző utolsó turnus utolsó napjáig terjedő, naptári napban meghatározott időszak,
 
-4. honvédelmi szervezet: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet, a Katonai Nemzetbiztonsági Szolgálat, illetve jogelődje,
+4.[^2] honvédelmi szervezet: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet, a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó köznevelési intézmény, a Katonai Nemzetbiztonsági Szolgálat, illetve jogelődje,
 
-5. honvédségi nyugdíjas: a honvédelmi szervezettől nyugállományba vonult korábbi kormánytisztviselő, köztisztviselő, közalkalmazott, munkavállaló, vagy polgári alkalmazott, kinevezett polgári alkalmazott,
+5.[^3] honvédségi nyugdíjas: a honvédelmi szervezettől nyugállományba vonult korábbi kormánytisztviselő, kormányzati ügykezelő (a továbbiakban együtt: kormánytisztviselő), köztisztviselő, közalkalmazott, munkavállaló, vagy polgári alkalmazott, kinevezett polgári alkalmazott,
 
 6. pótágy: 90x190 cm-nél kisebb vagy több fekvőfelületi elemből álló ágy,
 
@@ -20,6 +20,9 @@
 
 9. vendégéjszaka: a helyi adókról szóló 1990. évi C. törvény 52. § 30. pontja szerinti időtartam.
 
-(2)[^1] Ahol e rendelet családtagot említ, azon érteni kell az igényjogosult élettársát is, ha élettársi viszonyát a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 18/A. §-a szerint igazolja.
+(2)[^4] Ahol e rendelet családtagot említ, azon érteni kell az igényjogosult élettársát is, ha élettársi viszonyát a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 18/A. §-a szerint igazolja.
 
-[^1]: Az 1. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 18. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés 1. pontja a 6/2016. (IV. 15.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés 4. pontja a 6/2016. (IV. 15.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés 5. pontja a 6/2016. (IV. 15.) HM rendelet 16. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 18. §-ával megállapított szöveg.

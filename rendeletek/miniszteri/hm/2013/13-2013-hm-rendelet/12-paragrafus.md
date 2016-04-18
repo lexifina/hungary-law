@@ -26,6 +26,8 @@ k) az állomány volt tagja, akit a miniszter rehabilitált, és erre külön ha
 
 (2) A rekreációs szolgáltatáson az (1) bekezdés szerinti igényjogosult és családtagja, valamint unokája a 16. életévének betöltéséig az 1. melléklet 1. pontja szerinti térítési díj ellenében vehet részt.
 
-(3) A rekreációs szolgáltatás az MH rekreációt végző szervezetében elő-, utó- és főszezonban vehető igénybe, időtartama az igényjogosult kérelme alapján 6 vagy 13 vendégéjszaka.
+(3)[^16] A rekreációs szolgáltatás az MH rekreációt végző szervezetében, elő-, utó- és főszezonban vehető igénybe, időtartama 6 vendégéjszaka, vagy az igényjogosult kérelme alapján és a rendelkezésre álló szabad férőhelyek függvényében évente legfeljebb 13 vendégéjszaka. Az MH rekreációt végző szervezete által üzemeltetett Honvéd Kempingben a rekreációs szolgáltatás elő-, utó- és főszezonban a szervezet által közzétett tájékoztató szerint vehető igénybe.
 
 (4) A (3) bekezdést az (1) bekezdés g)–k) pontjai szerinti igényjogosultak esetén azzal az eltéréssel kell alkalmazni, hogy főszezonban csak a szabad férőhely terhére jogosultak rekreációs szolgáltatás igénybe vételére.
+
+[^16]: A 12. § (3) bekezdése a 6/2016. (IV. 15.) HM rendelet 5. §-ával megállapított szöveg.

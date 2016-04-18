@@ -1,6 +1,6 @@
 ## 3. A kondicionáló-kiképzési rendezvény
 
-4. § (1)[^2] Egészségi állapotának megóvása, pszichikai és fizikai képességeinek, erőnlétének, mozgáskultúrájának fenntartása, fokozása érdekében kondicionáló-kiképzési rendezvényen vesz részt az állomány
+4. § (1)[^5] Egészségi állapotának megóvása, pszichikai és fizikai képességeinek, erőnlétének, mozgáskultúrájának fenntartása, fokozása érdekében kondicionáló-kiképzési rendezvényen vesz részt az állomány
 
 a) harcászati repülőhajózó,
 
@@ -22,4 +22,4 @@ g) búvár
 
 (3) A kiképzést az MH kiképzésért felelős szerv vezetője által jóváhagyott kiképzési terv alapján kell végrehajtani.
 
-[^2]: A 4. § (1) bekezdés záró szövegrésze a 24/2013. (XII. 20.) HM rendelet 21. §-a szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdés záró szövegrésze a 24/2013. (XII. 20.) HM rendelet 21. §-a szerint módosított szöveg.

@@ -4,4 +4,6 @@
 
 (3) Amennyiben az igényjogosult a férőhelyek közzétételét követő időpontban válik jogosulttá a 8. § (3) bekezdése szerinti regeneráló pihenés igénybe vételére, az erre vonatkozó igényét az (1) bekezdés szerint, a jogosultság megszerzését követő bármely időpontban benyújthatja.
 
-(4) Az igényjogosult részére a beutalót az MH szolgáltatásokat koordináló szervezete küldi meg.
+(4)[^14]
+
+[^14]: A 11. § (4) bekezdését a 6/2016. (IV. 15.) HM rendelet 17. § b) pontja hatályon kívül helyezte.

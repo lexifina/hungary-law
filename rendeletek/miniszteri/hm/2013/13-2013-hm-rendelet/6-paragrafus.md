@@ -12,7 +12,7 @@ d) a honvéd altiszt-jelölt,
 
 e) a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, közalkalmazott, munkavállaló, és
 
-f) azon gazdálkodó szervezet munkavállalója, amely állami tulajdonú részesedése felett az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
+f)[^7] azon gazdálkodó szervezet munkavállalója, amely állami tulajdonú részesedése felett az államot megillető tulajdonosi jogokat és kötelezettségeket a miniszter gyakorolja.
 
 (2) A katonai kiképzési és oktatási célú rendezvényen részt vevő igényjogosult a szolgálat-teljesítési helyén vagy a munkahelyén mentesül a szolgálatteljesítési és a munkavégzési kötelezettség alól.
 
@@ -21,3 +21,5 @@ f) azon gazdálkodó szervezet munkavállalója, amely állami tulajdonú része
 (4) A Honvéd Vezérkar főnöke az (1) bekezdés szerinti katonai kiképzési és oktatási célú rendezvény megtartását térítési díj nélkül, a (3) bekezdés szerinti katonai kiképzési és oktatási célú rendezvény megtartását az 1. melléklet 1. pontja szerinti térítési díj ellenében, elő- vagy utószezonban az MH rekreációt végző szervezetében is engedélyezheti.
 
 (5) A (3) bekezdés szerinti katonai kiképzési és oktatási célú rendezvények térítési díjára a 3. § (2) és (3) bekezdését is alkalmazni kell.
+
+[^7]: A 6. § (1) bekezdés f) pontja a 6/2016. (IV. 15.) HM rendelet 16. § b) pontja szerint módosított szöveg.
