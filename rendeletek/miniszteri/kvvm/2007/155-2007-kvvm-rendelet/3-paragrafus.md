@@ -1,1 +1,3 @@
-## 2. § A Siroki Nyírjes-tó természetvédelmi terület a Sirok 0135/2 ingatlan-nyilvántartási helyrajzi szám 0135/2d alrészletén és 0135/2a alrészletének 16A, 16B, 16C erdőrészletein fekszik, kiterjedése 21 ha.
+## 2. §[^1] A Siroki Nyírjes-tó természetvédelmi terület kiterjedése 20,4825 ha, lehatárolását az 1. melléklet tartalmazza.
+
+[^1]: A 2. § a 28/2016. (IV. 11.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
