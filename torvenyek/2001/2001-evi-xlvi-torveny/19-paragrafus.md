@@ -10,7 +10,9 @@ a) az 5. § (2) bekezdés a) pontja szerinti úti okmányok kiállítása,
 
 b) hazatérési kölcsön nyújtása,
 
-c) halottszállítási engedély kiállítása.
+c) halottszállítási engedély kiállítása,
+
+d) okirat, pénz és egyéb érték megőrzésre való átvétele (konzuli letét).
 
 (4) A (3) bekezdésben felsorolt közigazgatási hatósági feladatokon túl a konzuli tisztviselő a konzuli védelem ellátása érdekében hatósági bizonyítványt állíthat ki.
 

@@ -9,3 +9,5 @@
 (4) A konzuli szolgálat az eset összes körülményeinek mérlegelésével, a helyi viszonyokra is tekintettel határozza meg a védelemnyújtás legmegfelelőbb módját. A konzuli védelem ellátását az egyéb konzuli feladatok nem akadályozhatják vagy hátráltathatják.
 
 (5) Az e törvényben meghatározott, a konzuli védelem körén kívül eső konzuli feladatokat a konzuli tisztviselő csak akkor látja el, ha magyar állampolgár jogát vagy jogos érdekét az ügy érinti.
+
+(6) Az ügyfél köteles jóhiszeműen eljárni és a konzuli szolgálattal együttműködni az e törvényben szabályozott eljárások során.

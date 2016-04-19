@@ -1,4 +1,4 @@
-## Segítségnyújtás baleset vagy erőszakos bűncselekmény áldozatainak, illetőleg súlyos, sürgős ellátást igénylő betegnek
+## Segítségnyújtás baleset vagy bűncselekmény áldozatainak, illetve súlyos, sürgős ellátást igénylő betegnek
 
 6. § (1) Amennyiben a konzuli szolgálat tudomást szerez arról, hogy magyar állampolgár súlyos sérüléssel járó balesetet szenvedett vagy ilyen sérülést okozó bűncselekmény sértettjévé vált, illetőleg súlyos, sürgős ellátást igénylő betegségben szenved, haladéktalanul tájékozódik arról, hogy az érintett megfelelő egészségügyi ellátásban részesül-e, értesíti a sérült vagy beteg által megjelölt személyt, valamint gondoskodik az érintett vagy legközelebbi ismert hozzátartozója felvilágosításáról a gyógykezelés, illetve, szükség esetén, a feljelentés megtételének és a kárigény érvényesítésének feltételeiről a fogadó államban.
 
