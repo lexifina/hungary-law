@@ -1,0 +1,1 @@
+## „(3) A kártalanítási összeg kifizetése érdekében a járási hivatal vagy a megyei kormányhivatal (a továbbiakban együtt: eljáró hatóság) – a kártalanítási határozat jogerőre emelkedése után haladéktalanul – megküldi a NÉBIH-nek”
