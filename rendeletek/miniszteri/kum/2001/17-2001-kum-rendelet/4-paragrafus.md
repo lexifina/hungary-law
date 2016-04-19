@@ -1,5 +1,8 @@
 ## 3. § Abban az esetben, ha a védelmet kérő vagy védelemre szoruló személy nem tudja igazolni magyar állampolgárságát, a konzuli tisztviselő haladéktalanul intézkedik az állampolgárság fennállásának tisztázására. Ha a magyar állampolgárság fennállása valószínűsíthető, az állampolgárság igazolásának megtörténtéig is megteszi az érintett személy érdekének védelmében szükséges halaszthatatlan intézkedéseket.
 
-4. § (1) A Tv. 3. § (3) bekezdése szerinti viszonosság fennállásának kérdésében a külügyminiszter nyilatkozata irányadó. A viszonossági gyakorlat létrejöttéről és fennállásáról a külügyminiszter e rendelet 2. § (2) bekezdésében meghatározott módon ad tájékoztatást. Ugyanilyen módon ad tájékoztatást arról, hogy nemzetközi szerződés alapján mely államok képviseletei látják el a magyar állampolgárok konzuli védelmét harmadik országokban.
+4. § (1)[^7] A Tv. 3. § (3) bekezdése szerinti viszonosság fennállásának kérdésében a miniszter nyilatkozata irányadó. A viszonossági gyakorlat létrejöttéről és fennállásáról a miniszter a 2. § (2) bekezdésében meghatározott módon ad tájékoztatást. Ugyanilyen módon ad tájékoztatást arról, hogy nemzetközi szerződés alapján mely államok képviseletei látják el a magyar állampolgárok konzuli védelmét harmadik országokban.
 
-(2) A magyar állampolgárok konzuli védelmét ellátó államok képviseletei és a magyar konzuli szolgálat közötti kapcsolattartás módját a nemzetközi szerződés vagy a viszonosság fennállására vonatkozó nyilatkozat határozza meg.
+(2)[^8] A magyar állampolgárok konzuli védelmét ellátó államok képviseletei és a konzuli szolgálat közötti kapcsolattartás módját a nemzetközi szerződés vagy a viszonosság fennállására vonatkozó nyilatkozat határozza meg.
+
+[^7]: A 4. § (1) bekezdése a 2/2016. (IV. 15.) KKM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. § (2) bekezdése a 2/2016. (IV. 15.) KKM rendelet 16. §-a szerint módosított szöveg.
