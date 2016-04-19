@@ -2,7 +2,7 @@
 
 5. § (1) Az Éltv. 55. § (1) bekezdés a) és b) pontja szerinti kártalanítási eljárást a (2)–(11) bekezdésekben foglaltak szerint kell lefolytatni.
 
-(2) A kártalanítás összegéről a járási állategészségügyi hivatal
+(2)[^11] A kártalanítás összegéről a járási hivatal
 
 a) az általa lefolytatott becslési eljárás,
 
@@ -14,7 +14,7 @@ c) a 7. § (4) bekezdése szerinti számlák adatai
 
 (3) A becslési eljárást a járványügyi intézkedések elrendeléséről szóló határozat végrehajtásával párhuzamosan meg kell kezdeni, de legkésőbb a végrehajtás befejezését követő tizenöt napon belül be kell fejezni.
 
-(4) A járási állategészségügyi hivatal a kártalanítás alapjául szolgáló összeg megállapítása céljából lefolytatott becslési eljárásról becslési jegyzőkönyvet készít.
+(4)[^12] A járási hivatal a kártalanítás alapjául szolgáló összeg megállapítása céljából lefolytatott becslési eljárásról becslési jegyzőkönyvet készít.
 
 (5) A becslési jegyzőkönyv tartalmazza
 
@@ -106,6 +106,17 @@ n) fertőzésközvetítő anyagok, eszközök, tárgyak esetén szakértő álta
 
 (9) Az Éltv. 51. § (3) bekezdés p) pontja szerinti intézkedés elrendelése esetén kártalanítási összeget úgy kell megállapítani, mintha az adott földterületet, járművet, épületet, berendezést vagy eszközt bérbe adták volna a káresemény időszakában az adott területen kialakult bérleti díjak figyelembevételével.
 
-(10) A felhasznált anyagok esetében a kártalanítási összeget az adott anyag forgalmi értéke alapján kell megállapítani. A becslési eljárás során a járási állategészségügyi hivatal szakértőt is igénybe vehet.
+(10)[^13] A felhasznált anyagok esetében a kártalanítási összeget az adott anyag forgalmi értéke alapján kell megállapítani. A becslési eljárás során a járási hivatal szakértőt is igénybe vehet.
 
 (11) Ha a földterület, jármű, épület, berendezés, eszköz igénybevételét követően felmerül, hogy az már nem használható a rendeltetésének megfelelően, akkor a kártalanítási összeget független szakértő bevonásával kell megállapítani.
+
+(12)[^14] A rendelet hatálya alá tartozó eljárásokban elsősorban olyan szakértőt lehet igénybe venni, aki vagy amely
+
+a) az érintett állatfaj – illetve azon belül állatfajta – vonatkozásában elismert tenyésztő szervezet vagy annak hiányában tenyésztő szövetség vagy egyesület, mezőgazdasági és élelmiszeripari termékek tekintetében az adott ágazatban elismert szakmaközi szervezet, vagy
+
+b) meghatározott anyagok, eszközök és tárgyak esetében az adott anyag, eszköz, tárgy értékesítésével, illetve értékbecslésével foglalkozó vagy az ilyen tevékenységgel kapcsolatosan megfelelő szakértelemmel rendelkező természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
+
+[^11]: Az 5. § (2) bekezdés nyitó szövegrésze a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
+[^13]: Az 5. § (10) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
+[^14]: Az 5. § (12) bekezdését a 29/2016. (IV. 11.) FM rendelet 5. §-a iktatta be.
