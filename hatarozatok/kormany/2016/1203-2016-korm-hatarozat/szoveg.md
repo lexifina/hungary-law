@@ -46,6 +46,6 @@ Határidő: azonnal
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. Az MFB Földvásárlási Hitelprogram bevezetéséről szóló 1765/2015. (X. 16.) Korm. határozat 1. pont 1.1. alpontjának záró szövegrészében az „a „Földet a gazdáknak!” Program keretében az állami tulajdonú földek földművesek részére történő értékesítéséhez szükséges intézkedésekről szóló 1666/2015. (IX. 21.) Korm. határozat, vagy a „Földet a gazdáknak!” Program keretében az állami tulajdonú földek földművesek részére történő értékesítésének folytatásához szükséges intézkedésekről szóló 1062/2016. (II. 25.) Korm. határozat” szövegrész helyébe az „a „Földet a gazdáknak!” Program keretében az állami tulajdonú földek földművesek részére történő értékesítéséhez szükséges intézkedésekről szóló 1666/2015. (IX. 21.) Korm. határozat, vagy a „Földet a gazdáknak!” Program keretében az állami tulajdonú földek földművesek részére történő értékesítésének folytatásához szükséges intézkedésekről szóló 1062/2016. (II. 25.) Korm. határozat, vagy a „Földet a gazdáknak!” Program keretében az állami tulajdonú földek földművesek részére történő értékesítésének folytatásához szükséges intézkedésekről szóló 1203/2016. (IV. 18.) Korm. határozat” szöveg lép.
+4–5.[^1]
 
-5. Hatályát veszti a „Földet a gazdáknak!” Program keretében az állami tulajdonú földek földművesek részére történő értékesítésének folytatásához szükséges intézkedésekről szóló 1062/2016. (II. 25.) Korm. határozat.
+[^1]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
