@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Kínai Népköztársaság Kormánya között a Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztése, kivitelezése és finanszírozása kapcsán született Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
