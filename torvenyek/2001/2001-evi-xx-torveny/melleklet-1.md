@@ -10,7 +10,7 @@ Az MFB Zrt. a 3. § (5) bekezdése alapján az állam nevében a következő gaz
 
 4. Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság
 
-5. Hungarofest Nemzeti Rendezvényszervező Nonprofit Korlátolt Felelősségű Társaság
+5.
 
 6. Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
 

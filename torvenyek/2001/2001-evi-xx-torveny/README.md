@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-20-00-00
 | 2015-06-30 | 2015. évi LXXXVIII. törvény | 2001-20-00-00.45 |
 | 2015-07-14 | 2015. évi CXXVIII. törvény | 2001-20-00-00.46 |
 | 2015-11-14 | 2015. évi CLXIX. törvény | 2001-20-00-00.47 |
+| 2016-04-20 | 2016. évi XXV. törvény | 2001-20-00-00.48 |
