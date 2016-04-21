@@ -1,10 +1,10 @@
 A Kormány
 
-1. felhívja a nemzeti fejlesztési minisztert, hogy – a Belügyminisztérium és a Nemzetgazdasági Minisztérium budai Várnegyedben történő elhelyezésével kapcsolatos intézkedésekről szóló 1837/2015. (XI. 24.) Korm. határozat 2. pont b) alpontjában foglaltak szerint – tegye meg a szükséges intézkedéseket annak érdekében, hogy az MTA tulajdonában álló, a Budapest I. kerület, Országház utca 28–32., illetve Úri utca 49–51. szám alatti ingatlan-együttes tulajdonjogát az állam – az MTA erre irányuló ajánlattétele esetén – adásvétel útján megszerezze, majd az ingatlan-együttes a Közbeszerzési és Ellátási Főigazgatóság vagyonkezelésébe kerüljön;
+1.[^1] felhívja a nemzeti fejlesztési minisztert, hogy – a Belügyminisztérium és a Nemzetgazdasági Minisztérium budai Várnegyedben történő elhelyezésével kapcsolatos intézkedésekről szóló 1837/2015. (XI. 24.) Korm. határozat 2. pont b) alpontjában foglaltak szerint – tegye meg a szükséges intézkedéseket annak érdekében, hogy a Magyar Tudományos Akadémia (a továbbiakban: MTA) tulajdonában álló, a Budapest I. kerület, Országház utca 28–32., illetve Úri utca 49–51. szám alatti ingatlan-együttes tulajdonjogát az állam – az MTA erre irányuló ajánlattétele esetén – megszerezze, majd az ingatlan-együttes a Közbeszerzési és Ellátási Főigazgatóság vagyonkezelésébe kerüljön;
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: az MTA adásvételre irányuló ajánlattételét követően azonnal
+Határidő: az MTA ajánlattételét követően azonnal
 
 2. felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzetgazdasági miniszterrel együtt a 2014–2020-as tervezési ciklus során intézkedjen a „Martonvásári agrár-innovációs centrum, kutatás-fejlesztési beruházási célterület és egyes agrárturisztikai fejlesztések” kiemelt projektként történő előterjesztéséről, valamint a program ütemezett pénzügyi támogatásának biztosításáról;
 
@@ -14,23 +14,53 @@ nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-3. felhívja a nemzetgazdasági minisztert, hogy a 2016. évi központi költségvetés terhére gondoskodjon a Magyar Tudományos Akadémia (a továbbiakban: MTA) Agrártudományi Kutatóközpont kutatási infrastruktúra fejlesztésének folytatásához szükséges 1000 millió forint biztosításáról a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal fejezetben;
+3.[^2] felhívja a nemzetgazdasági minisztert, hogy
+
+a) a 2016. évi központi költségvetés terhére gondoskodjon a Magyar Tudományos Akadémia Agrártudományi Kutatóközpont kutatási infrastruktúra fejlesztésének folytatásához szükséges 1000 millió forint biztosításáról a központi költségvetés Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal fejezetében,
 
 Felelős: nemzetgazdasági miniszter
 
 Határidő: 2016. február 28.
 
-4. felhívja a nemzetgazdasági minisztert, hogy a 2016. évi központi költségvetés terhére biztosítson az új agrár-innovációs kutatótömb megvalósításához szükséges 3000 millió forintot, valamint a látogatóközpont megvalósításhoz 800 millió forintot az MTA részére a Miniszterelnökség fejezetben;
+b) a 2017. évi központi költségvetés terhére az a) alpontban meghatározott célra gondoskodjon további 2000 millió forint biztosításáról a központi költségvetés Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal fejezetében;
 
 Felelős: nemzetgazdasági miniszter
 
-Határidő: 2016. február 28.
+Határidő: 2017. évi központi költségvetés tervezése során
 
-5. felhívja a nemzetgazdasági minisztert, hogy a 2017. évi központi költségvetés tervezése során gondoskodjon az új agrár-innovációs kutatótömb megvalósításához szükséges további 3000 millió forint biztosításáról az MTA részére a Miniszterelnökség fejezetben;
+4.[^3] a martonvásári agrár-innovációs centrum (a Magyar Tudományos Akadémia Agrártudományi Kutatóközpont új kutatási tömbje) kialakításával és egyes agrárturisztikai fejlesztések megvalósításával összefüggésben
+
+a) felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az új agrár-innovációs kutatótömb megvalósításához szükséges 3000 millió forint biztosításáról a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XXXIII. Magyar Tudományos Akadémia fejezetben,
 
 Felelős: nemzetgazdasági miniszter
 
-Határidő: 2017. évi központi költségvetés tervezésével egyidejűleg
+Határidő: azonnal
+
+b) felhívja a nemzetgazdasági minisztert, hogy Martonvásár Város Önkormányzatával (a továbbiakban: Önkormányzat) együttműködve – a látogatóközpont kialakítása céljából létrehozott projektcég létrehozására vonatkozó megállapodás aláírását követően – gondoskodjon a látogatóközpont megvalósításához 800 millió forint biztosításáról a Kvtv. 1. melléklet XXXIII. Magyar Tudományos Akadémia fejezetben,
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: a projektcég létrehozására vonatkozó megállapodás aláírását követően
+
+c) felhívja a Miniszterelnökséget vezető minisztert, hogy az Etyek, valamint a Szent László- és Váli-völgy területfejlesztéséért felelős miniszterelnöki biztos (a továbbiakban: miniszterelnöki biztos) útján az a) alpont szerinti feladat megvalósításában konzultációs és javaslattételi joggal működjön közre, valamint a b) alpont szerinti feladat végrehajtása során koordinálja a tárgyalásokat az érintett szervezetekkel és beruházói partnerekkel,
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: folyamatos
+
+d) felkéri az MTA elnökét és felhívja a Miniszterelnökséget vezető minisztert, hogy az érintett miniszterek, továbbá a miniszterelnöki biztos bevonásával gondoskodjanak a b) alpont szerinti látogatóközpont 2018. március 31-ig történő megvalósításáról és átadásáról;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+érintett miniszterek
+
+Határidő: 2018. március 31.
+
+5.[^4] felhívja a nemzetgazdasági minisztert, hogy a 2017. évi központi költségvetés tervezése során gondoskodjon az új agrár-innovációs kutatótömb megvalósításához szükséges további 3000 millió forint biztosításáról a központi költségvetés Magyar Tudományos Akadémia fejezetében;
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: a 2017. évi központi költségvetés tervezése során
 
 6. felhívja a földművelésügyi minisztert, hogy a Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) útján tegye meg a szükséges intézkedéseket annak érdekében, hogy az MTA tulajdonában álló, Martonvásár 0143, 0149/2, 0137/2, 0138, 0139, 0140, 0161/2, 0126, 0120/2 és 0101/2 helyrajzi számú, mező- és erdőgazdasági hasznosítású földnek minősülő ingatlanok (a továbbiakban: Ingatlan) tulajdonjogát – az MTA erre irányuló ajánlattétele esetén – az állam adásvétel útján megszerezze;
 
@@ -46,7 +76,7 @@ Felelős: földművelésügyi miniszter
 
 Határidő: az Ingatlan állami tulajdonba kerülését követően azonnal
 
-9. felhívja a nemzeti fejlesztési minisztert, hogy a 8. pontban foglaltak végrehajtását követően a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján tegye meg a szükséges intézkedéseket annak érdekében, hogy Martonvásár Város Önkormányzatának (a továbbiakban: Önkormányzat) erre irányuló kezdeményezése esetén az Ingatlan az Önkormányzat részére értékesítésre kerüljön;
+9.[^5] felhívja a nemzeti fejlesztési minisztert, hogy a 8. pontban foglaltak végrehajtását követően a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján tegye meg a szükséges intézkedéseket annak érdekében, hogy az Önkormányzat erre irányuló kezdeményezése esetén az Ingatlan az Önkormányzat részére értékesítésre kerüljön;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -63,3 +93,9 @@ Határidő: azonnal
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: Önkormányzat átvételre irányuló kezdeményezését követően azonnal
+
+[^1]: Az 1. pont az 1208/2016. (IV. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont az 1208/2016. (IV. 21.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 4. pont az 1208/2016. (IV. 21.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: Az 5. pont az 1208/2016. (IV. 21.) Korm. határozat 4. pontjával megállapított szöveg.
+[^5]: A 9. pont az 1208/2016. (IV. 21.) Korm. határozat 5. pontja szerint módosított szöveg.
