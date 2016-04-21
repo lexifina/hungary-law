@@ -16,13 +16,13 @@ Határidő: 2017. december 31.
 
 2. a Belügyminisztérium budai Várnegyedben történő 1. pont a) alpontja szerinti elhelyezésének biztosításával összefüggésben
 
-a) felhívja a Miniszterelnökséget vezető minisztert, hogy folytassa le a szükséges egyeztetéseket a Magyar Tudományos Akadémia elnökével az érintett ingatlanok tulajdoni helyzetének rendezése és a d) alpont szerinti beruházás megvalósítását lehetővé tevő rendelkezésre állása érdekében,
+a)[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy folytassa le a szükséges egyeztetéseket a Magyar Tudományos Akadémia elnökével az érintett ingatlanok tulajdoni helyzetének rendezése és a d) alpont szerinti beruházás megvalósítását lehetővé tevő rendelkezésre állása érdekében,
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: az egyeztetések lefolytatása tekintetében azonnal,
 
-az ingatlanok kiürítése tekintetében 2016. szeptember 30.
+az ingatlanok kiürítése tekintetében 2017. január 31.
 
 b) felhívja a nemzeti fejlesztési minisztert, hogy az a) alpont szerinti egyeztetések eredményétől függően tegye meg a szükséges intézkedéseket az érintett ingatlanok állam tulajdonába és a Közbeszerzési és Ellátási Főigazgatóság vagyonkezelésébe kerülése érdekében,
 
@@ -75,3 +75,5 @@ Felelős: Miniszterelnökséget vezető miniszter
 emberi erőforrások minisztere
 
 Határidő: az a) és a b) alpont végrehajtásához igazodva
+
+[^1]: A 2. pont a) alpontja az 1208/2016. (IV. 21.) Korm. határozat 6. pontja szerint módosított szöveg.
