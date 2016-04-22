@@ -1,0 +1,1 @@
+Az Alkotmánybíróság teljes ülése az Alkotmánybíróságról szóló 2011. évi CLI. törvény 70. § (1) bekezdésében foglalt felhatalmazás alapján – tekintettel az Alkotmánybíróságról szóló 2011. évi CLI. törvény 49. § (7) bekezdésére is – az Alkotmánybíróság Ügyrendjéről szóló 1001/2013. (II. 27.) AB Tü. határozat módosításáról az alábbi határozatot hozza:
