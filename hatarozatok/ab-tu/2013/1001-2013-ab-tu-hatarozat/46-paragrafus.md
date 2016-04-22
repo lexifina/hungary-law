@@ -1,16 +1,14 @@
-## 45. § Az Alkotmánybíróság az eljárását az Abtv. 60. §-a alapján végzéssel felfüggesztheti. A felfüggesztő végzést az Alkotmánybíróság hivatalos honlapján és hivatalos lapjában közzé kell tenni.
+46. §[^30] (1) Amennyiben az alkotmányjogi panasz eljárással egyidejűleg a Kúria előtt felülvizsgálati eljárás is folyamatban van, az előadó alkotmánybíró, vagy az Alkotmánybíróság tanácsa vagy teljes ülése
 
-46. § (1) Az Alkotmánybíróság az alkotmányjogi panasszal összefüggő eljárását kivételesen szüneteltetheti, ha az adott üggyel közvetlenül összefüggő, bíróság előtt folyamatban lévő eljárásban hozott döntés nélkül az indítvány megalapozottan nem bírálható el.
+a) az Abtv. 26. § (1) bekezdése szerinti alkotmányjogi panasz esetében az eljárását lefolytathatja vagy felfüggesztheti,
 
-(2) Amennyiben a befogadott alkotmányjogi panasszal egyidejűleg a Kúria előtt felülvizsgálati eljárás is folyamatban van, az Alkotmánybíróság
+b) az Abtv. 27. §-a szerinti alkotmányjogi panasz esetében felfüggeszti,
 
-a) az Abtv. 26. § (1) bekezdése szerinti alkotmányjogi panasz esetében az eljárását lefolytatja, illetve kivételesen szüneteltetheti,
+ha az előadó alkotmánybíró mérlegelése alapján nincs helye visszautasító végzés meghozatalának.
 
-b) az Abtv. 27. §-a szerinti alkotmányjogi panasz esetében szünetelteti,
+(2) A felfüggesztésről szóló végzést a Kúriának meg kell küldeni azzal, hogy a felülvizsgálati eljárás befejezését követően a meghozott határozat egy kiadmányát az Alkotmánybíróságnak küldje meg.
 
-## ha az előadó bíró mérlegelése alapján a felülvizsgálati eljárásban várható döntés az Alkotmánybíróság érdemi döntését befolyásolhatja.
-
-(3) Az eljárás szüneteltetésére az eljárási határidők meghosszabbításával, külön végzés hozatala nélkül kerül sor.
+(3) A felfüggesztés időtartama alatt az ügyintézési határidők nyugszanak.
 
 (4) Az előadó alkotmánybíró a Kúria eljárását figyelemmel kíséri és az Abtv. 57. § (2) bekezdése alapján a Kúriától tájékoztatást kér, annak érdekében, hogy az Alkotmánybíróság a felülvizsgálati határozatról tudomást szerezzen.
 
@@ -18,7 +16,7 @@ b) az Abtv. 27. §-a szerinti alkotmányjogi panasz esetében szünetelteti,
 
 a) a megtámadott határozatot hatályon kívül helyezi és az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, az Alkotmánybíróság az alkotmányjogi panasz alapján indult eljárását az Abtv. 59. §-a alapján megszünteti,
 
-b) a megtámadott határozatot hatályában fenntartja, az Alkotmánybíróság az eljárását lefolytatja, és mind a jogerős, mind az azt hatályban tartó döntésről rendelkezhet.
+b) a megtámadott határozatot hatályában fenntartja, az Alkotmánybíróság az eljárását lefolytatja.
 
 (6) Ha az Alkotmánybíróság eljárásával párhuzamosan folyó felülvizsgálati eljárásban a Kúria
 
@@ -28,8 +26,10 @@ b) a jogerős határozatot megváltoztatja és a törvénynek megfelelő új hat
 
 c) a megtámadott határozatot hatályon kívül helyezi és az eljárást megszünteti,
 
-## az Alkotmánybíróság beszerzi az indítványozó nyilatkozatát arról, hogy az alkotmányjogi panaszát a Kúria döntésére kiterjesztve fenntartja-e.
+az Alkotmánybíróság beszerzi az indítványozó nyilatkozatát arról, hogy az alkotmányjogi panaszát a Kúria döntésére kiterjesztve fenntartja-e.
 
 (7) Ha az Alkotmánybíróság eljárásával párhuzamosan folyó felülvizsgálati eljárásban a Kúria a felülvizsgálati indítványt vagy kérelmet elutasítja, akkor az Alkotmánybíróság az eljárását lefolytatja.
 
 (8) Ha a Kúria határozata a felülvizsgált jogerős döntést csak részben érintette (részbeni megváltoztatás, részbeni hatályon kívül helyezés, részbeni új eljárásra utasítás), akkor az alkotmánybírósági eljárásra okot adó részekben az Alkotmánybíróság az (5), illetve a (6) bekezdés megfelelő alkalmazásával jár el.
+
+[^30]: A 46. § az 1002/2016. (IV. 21.) AB Tü. határozat 4. §-ával megállapított szöveg.
