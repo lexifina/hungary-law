@@ -2,16 +2,16 @@
 
 2. § (1) A miniszter által alapított elismerés a miniszter feladat- és hatáskörébe tartozó, illetve az azt támogató területeken végzett kiemelkedő, illetve tartósan magas színvonalú szakmai tevékenység elismeréseként adományozható.
 
-(2) Miniszteri elismerésként
+(2)[^1] Miniszteri elismerésként
 
 a) id. Gróf Andrássy Gyula-díj,
 
-b)[^1] Bakócz Tamás-díj,
+b) Bakócz Tamás-díj,
 
-c)[^2] Miniszteri Elismerő Oklevél, valamint
+c) Pálfi István-díj,
 
-d)[^3] Károly Róbert Elismerő Oklevél
+d) Miniszteri Elismerő Oklevél, valamint
 
-[^1]: A 2. § (2) bekezdés b) pontja a 4/2015. (X. 30.) KKM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (2) bekezdés c) pontja a 4/2015. (X. 30.) KKM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § (2) bekezdés d) pontját a 4/2015. (X. 30.) KKM rendelet 1. §-a iktatta be.
+e) Károly Róbert Elismerő Oklevél
+
+[^1]: A 2. § (2) bekezdése a 3/2016. (IV. 21.) KKM rendelet 1. §-ával megállapított szöveg.
