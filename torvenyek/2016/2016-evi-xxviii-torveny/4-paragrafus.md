@@ -7,11 +7,3 @@
 (4) Az e törvény végrehajtásához szükséges intézkedésekről a határrendészetért és az ingatlan-nyilvántartásért felelős miniszter gondoskodik.
 
 (5) A 2009. évi XII. törvénnyel kihirdetett, a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Képviselőházának Végrehajtó Tanácsa között a magyar–jugoszláv államhatáron a határvonal és a határjelek felújítására, megjelölésére és karbantartására Belgrádban, 1983. október 20. napján létrejött Egyezmény – a Szerződés 4. Cikk (3) bekezdésében foglalt – a Szlovén Köztársaság viszonylatában hatályos egységes szerkezetbe foglalt hiteles magyar nyelvű szövegének a Nemzeti Jogszabálytárban történő közzétételéről a határrendészetért felelős miniszter a Szerződés hatálybalépését követően haladéktalanul gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
