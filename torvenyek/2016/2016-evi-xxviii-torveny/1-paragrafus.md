@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Szlovén Köztársaság között a Lendva-patak vízgazdálkodási szabályozása következtében az államhatár megváltoztatásáról szóló Szerződés (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
