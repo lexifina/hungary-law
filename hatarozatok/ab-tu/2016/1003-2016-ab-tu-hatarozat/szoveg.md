@@ -10,6 +10,8 @@ Dr. Varga Zs. András alkotmánybíró.
 
 2. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
-3. Ez a határozat 2016. április 22-én lép hatályba, ezzel egyidejűleg az Alkotmánybíróság teljes ülésének a háromtagú tanács összetételéről és a tanácsvezető személyéről szóló 1001/2016. (III. 2.) AB Tü. határozata hatályát veszti.
+3.[^2] Ez a határozat 2016. április 22-én lép hatályba,
 
 Alkotmánybírósági ügyszám: XVIII/754/2016.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
