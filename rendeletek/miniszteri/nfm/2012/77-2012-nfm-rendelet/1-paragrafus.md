@@ -32,7 +32,7 @@ o) a Nemzeti Reorganizációs Nonprofit Korlátolt Felelősségű Társaság;
 
 p)[^2] a Nemzeti Fejlesztési és Stratégiai Intézet Korlátolt Felelősségű Társaság;
 
-q)[^3]
+q)[^3] a Magyar Turizmus Zártkörűen Működő Részvénytársaság;
 
 r)[^4] az MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság
 
@@ -40,5 +40,5 @@ felett az államot megillető tulajdonosi jogok és kötelezettségek összessé
 
 [^1]: Az 1. § a 46/2014. (XI. 19.) NFM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § p) pontját a 9/2015. (III. 5.) NFM rendelet 1. §-a iktatta be.
-[^3]: Az 1. § q) pontját a 9/2015. (III. 5.) NFM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 19/2015. (IV. 17.) NFM rendelet 1. §-a.
+[^3]: Az 1. § q) pontját újonnan a 9/2016. (IV. 25.) NFM rendelet 1. §-a iktatta be.
 [^4]: Az 1. § r) pontját a 9/2015. (III. 5.) NFM rendelet 1. §-a iktatta be.
