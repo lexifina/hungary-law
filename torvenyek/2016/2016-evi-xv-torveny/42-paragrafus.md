@@ -1,0 +1,1 @@
+42. § A szervező a szervezőként való elismerésére vonatkozó engedélyét nem adhatja vissza, kivéve, ha egyidejűleg e törvény követelményeinek megfelelő új szervező szervezőként való elismerési kérelmet nyújt be, melyben vállalja az érintett közösséggel összefüggő feladatok átvételét. Ebben az esetben a 11. § e) pontja szerinti korlátozás nem alkalmazható.

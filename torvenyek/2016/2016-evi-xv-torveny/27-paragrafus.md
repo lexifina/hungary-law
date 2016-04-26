@@ -1,0 +1,1 @@
+27. § A tag tagsági jogait és kötelezettségeit a szervező engedélyével más – a jogszabályban és a közösség belső szabályzatában meghatározott követelményeknek megfelelő – természetes személyre átruházhatja.
