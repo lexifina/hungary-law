@@ -33,3 +33,5 @@ A társasági adóalanynak nem minősülő szervezetek
 15. az az adózó, aki az adóévben a kisadózó vállalkozások tételes adójának alanya vagy a kisvállalati adó alanya.
 
 16. az Országos Betétbiztosítási Alap, a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvényben meghatározott Szanálási Alap, a Befektető-védelmi Alap és a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alap.
+
+17. a nemzeti otthonteremtési közösségek.
