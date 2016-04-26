@@ -1,3 +1,3 @@
-108. § (1) A miniszter a vendéglátásért való felelőssége keretében előkészíti a vendéglátásra vonatkozó jogszabályokat.
+108. §[^88]
 
-(2) A miniszter a vendéglátásért való felelőssége keretében meghatározza a vendéglátás irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját.
+[^88]: A 107–108. §-t a 87/2016. (IV. 25.) Korm. rendelet 3. §-a hatályon kívül helyezte.

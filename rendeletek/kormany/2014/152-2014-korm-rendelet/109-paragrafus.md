@@ -24,21 +24,27 @@
 
 11. informatikáért,
 
-12.[^87]
+12.[^89]
 
 13. közlekedésért,
 
 14. nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért,
 
-15.[^88]
+15.[^90]
 
 16. területfejlesztésért,
 
 17. űrkutatásért,
 
-18. víziközmű-szolgáltatásért
+18. víziközmű-szolgáltatásért,
+
+19.[^91] turizmusért,
+
+20.[^92] vendéglátásért
 
 felelős tagja.
 
-[^87]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^88]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^89]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^90]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^91]: A 109. § 19. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
+[^92]: A 109. § 20. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
