@@ -1,0 +1,3 @@
+1. § A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 141/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az egyetemes szolgáltató köteles az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, a volt közüzemi nagykereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.”
