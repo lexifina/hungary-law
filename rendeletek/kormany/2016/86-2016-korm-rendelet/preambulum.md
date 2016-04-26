@@ -1,0 +1,1 @@
+A Kormány a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 206. § (3a) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
