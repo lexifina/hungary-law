@@ -10,16 +10,20 @@ b) tartalmazza a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak k
 
 c) a Felajánlási rendeletben szabályozott lényeges szerződési feltételeket, különösen az árat, a b) pont szerinti árelemek mértékét, a mennyiséget és az ezen mennyiségtől való eltérés jogkövetkezményeit a Felajánlási rendelet mindenkori tartalmának megfelelően határozza meg,
 
-d) a Felajánlási rendeletben nem szabályozott szerződéses feltételeket az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő üzletszabályzatának megfelelően határozza meg.
+d) a Felajánlási rendeletben nem szabályozott szerződéses feltételeket a felek megállapodásának hiányában az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő üzletszabályzatának megfelelően határozza meg.
 
 (4) Az egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő az ajánlati kiírás mellékletét képező szerződéstervezetet a (3) bekezdés figyelembevételével készíti el.
 
 (5) Az (1) bekezdés alapján megkötött szerződés a szerződés lejártának napjáig nem szüntethető meg.
 
-(6) Az (1) bekezdés szerinti szerződést a megkötést követő egy munkanapon belül meg kell küldeni a Hivatalnak.
+(6) A (2) bekezdés szerinti szerződést a megkötést vagy módosítást követő egy munkanapon belül meg kell küldeni a Hivatalnak.
 
-(7) A Hivatal ellenőrzi, hogy az egyetemes szolgáltató kizárólag egyetemes szolgáltatásra jogosult felhasználók ellátására fordította az (1) bekezdés szerinti szerződés alapján átvett földgázt.
+(7) A Hivatal ellenőrzi, hogy az egyetemes szolgáltató kizárólag egyetemes szolgáltatásra jogosult felhasználók ellátására fordította a (2) bekezdés szerinti szerződés alapján átvett földgázt.
 
-(8) A miniszter a Hivatal javaslata alapján a Felajánlási rendeletben állapítja meg az (1) bekezdés szerint vételre felajánlott földgázforrás – a (3) bekezdés b) pontja szerinti árelemeket is tartalmazó – árát és mennyiségét. Az ármegállapítás során figyelembe kell venni az egyetemes szolgáltatás keretében vételező felhasználók költséghatékony ellátásának követelményét. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban már új szabályozási időszak kezdődött, akkor a Felajánlási rendeletben vagy annak módosításában meghatározott földgázmennyiségbe be kell számítani a megkezdődött új szabályozási időszakban a szerződő félnek már átadott mennyiséget.
+(8) A miniszter a Hivatal javaslata alapján a Felajánlási rendeletben állapítja meg a (2) bekezdés alapján megkötött szerződés – a (3) bekezdés b) pontja szerinti árelemeket is tartalmazó – árát és mennyiségét. Az ármegállapítás során figyelembe kell venni az egyetemes szolgáltatás keretében vételező felhasználók költséghatékony ellátásának követelményét. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban már új szabályozási időszak kezdődött, akkor a Felajánlási rendeletben vagy annak módosításában meghatározott földgázmennyiségbe be kell számítani a megkezdődött új szabályozási időszakban a szerződő félnek már átadott mennyiséget.
 
 (9) A volt közüzemi nagykereskedő köteles az e § szerinti felajánlás forrásait biztosító szerződéseit a felajánlást követő 5 munkanapon belül a Hivatal részére megküldeni.
+
+(10) A (3) bekezdés szerinti szerződés 2018. szeptember 30-áig meghosszabbodik.
+
+(11) Az egyetemes szolgáltató köteles az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, a volt közüzemi nagykereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.

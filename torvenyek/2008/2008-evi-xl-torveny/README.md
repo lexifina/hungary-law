@@ -56,3 +56,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2015-11-28 | 2015. évi CLXVII. törvény | 2008-40-00-00.54 |
 | 2015-12-12 | 2015. évi CXCVI. törvény | 2008-40-00-00.55 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2008-40-00-00.56 |
+| 2016-04-26 | 2016. évi XX. törvény | 2008-40-00-00.57 |

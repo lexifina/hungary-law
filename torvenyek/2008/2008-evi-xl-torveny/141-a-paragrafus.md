@@ -8,7 +8,7 @@
 
 (5) Az (1)–(3) bekezdés szerinti szerződések kötelező tartalmi eleme, hogy a 133. § (1) bekezdésének a Mód. törvénnyel megállapított 3. pontja szerinti felhatalmazás alapján kiadott rendeletben szabályozott lényeges szerződési feltételek a 133. § (1) bekezdésének a Mód. törvénnyel megállapított 3. pontja szerinti felhatalmazás alapján kiadott rendelet mindenkori tartalmának megfelelően kerülnek meghatározásra.
 
-(6) A korábban megkötött szerződések (1) és (2) bekezdés szerinti módosításából eredően át nem vett földgázmennyiség ellenértéke nem követelhető, ezen át nem vett földgázmennyiség tekintetében a feleket egymással szemben semmilyen követelés nem terheli. A szerződésben meghatározott minimum mennyiség átvétele kötelezettségének elmulasztása esetén kikötött szerződéses szankciók azonban a szerződésben foglalt feltételeknek megfelelően alkalmazandók.
+(6) Az egyetemes szolgáltató köteles az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, a volt közüzemi nagykereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.
 
 (7) Az újratárgyalt és módosított, vagy újonnan kötött szerződéseket a Hivatalnak tájékoztatás céljából az aláírást követő egy munkanapon belül meg kell küldeni.
 
@@ -30,7 +30,7 @@ c) a 133. § (1) bekezdésének a Mód. törvénnyel megállapított 3. pontja s
 
 (13) A Felajánlási rendeletben meghatározott mennyiséget a Felajánlási rendelet hatálybalépését követően át kell adni a szerződő félnek. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban a szabályozási időszak már elkezdődött, a Felajánlási rendeletben vagy annak módosításában meghatározott mennyiségbe a Felajánlási rendelet hatálybalépését megelőzően az azonos szabályozási időszakban a szerződő félnek már átadott mennyiséget be kell számítani.
 
-(14) A Felajánlási rendeletben meghatározott mennyiség a rendelet szerinti felek közötti szerződésekben meghatározott teljes éves egyetemes szolgáltatási célra értékesített mennyiséget csökkenti. Ebben az esetben a szerződésben megállapított földgázmennyiségnél kevesebb földgáz átvételének esetére a szerződés szerint meghatározott jogkövetkezmények nem alkalmazhatók.
+(14)
 
 (15) A hatósági ár vonatkozásában a szerződésben a szerződéses árak felülvizsgálatára vagy módosítására irányadó rendelkezések nem alkalmazhatók.
 
