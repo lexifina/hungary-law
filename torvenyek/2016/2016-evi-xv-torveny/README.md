@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-15-00-00
 | --- | --- | --- |
 | 2016-04-26 | 2016. évi XV. törvény | 2016-15-00-00.0 (közlönyállapot) |
 | 2016-04-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-15-00-00.1 |
+| 2016-04-27 | 2010. évi CXXX. törvény | 2016-15-00-00.2 |
