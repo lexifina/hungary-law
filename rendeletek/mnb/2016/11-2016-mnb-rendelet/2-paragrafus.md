@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 999 ezrelék finomságú aranyból készült, súlya 0,5 gramm, átmérője 11 mm, széle sima.
+
+(2) Az emlékérme előlapján, a középmezőben a Magyar Olimpiai Bizottság „Magyar Csapat” logójának ábrázolása látható. Az emlékérme szélén, felső köriratban a „MAGYARORSZÁG”, alsó köriratban az „5000” értékjelzés és a „FORINT” felirat, a felső és az alsó körirat között, bal oldalon a „BP.” verdejel, jobb oldalon a „2016” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a jobb oldali érmemezőben egy homorító női tornász alak, balra a Magyar Olimpiai Bizottság – modernkori nyári olimpiák során szerzett magyar aranyérmek számára utaló – „168” logójának ábrázolása látható. Az emlékérme bal oldali szélén, félköriratban a „MAGYAR OLIMPIAI CSAPAT ⋅ RIO 2016” felirat olvasható. A félkörirat és az ábrázolások között, lent Horváth Andrea tervezőművész mesterjegye található. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
