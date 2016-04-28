@@ -1,0 +1,65 @@
+A Kormány
+
+1. felhívja a 2014–2020 programozási időszak operatív programjainak 2016. évi éves fejlesztési keretében nevesített Támogatást igénylőket, hogy a projektek megvalósítására vonatkozó közbeszerzési eljárást, illetve eljárásokat 2016. június 1-ig, de legkésőbb a támogatási szerződésük hatálybalépését követő 30 napon belül indítsák el;
+
+Felelős: kiemelt projektek támogatást igénylői
+
+Határidő: folyamatos
+
+2. felhívja a 2014–2020 programozási időszak operatív programjainak 2016. évi éves fejlesztési keretében nevesített Támogatást igénylőket, hogy a szállítói előlegre vonatkozó kérelmüket a megvalósításra vonatkozó vállalkozási szerződés hatálybalépését követő 5 munkanapon belül, de legkésőbb 2016. december 16-ig nyújtsák be a projekt támogatását menedzselő Irányító Hatósághoz;
+
+Felelős: kiemelt projektek támogatást igénylői
+
+Határidő: 2016. december 16.
+
+3. felhívja a 2014–2020 programozási időszak operatív programjainak végrehajtásáért felelős minisztereket, hogy az 1. és 2. pontban foglaltak elmulasztása esetén nyújtsák be a Kormány részére a mulasztással érintett kiemelt projekt(ek) éves fejlesztési keretből való törlését;
+
+Felelős: emberi erőforrások minisztere
+
+nemzetgazdasági miniszter
+
+nemzeti fejlesztési miniszter
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: folyamatos
+
+4. egyetért azzal, hogy a 2014–2020 programozási időszak uniós forrásaiból támogatott projektek esetében a közvetett költségekre meghatározott felső forráskorláton belül a forrás rugalmasan felhasználható legyen a szükséges intézkedésekre (különösen: területszerzés, régészet), a munkák elszámolható költségeire vonatkozó további megkötés nélkül;
+
+5. egyetért azzal, hogy a 2014–2020 programozási időszak operatív programjainak éves fejlesztési keretében nevesített kiemelt projektek indikatív támogatási összege módosításának megkönnyítése vagy az éves fejlesztési keret kormányhatározat részéből való törlésének lehetősége kerüljön megteremtésre;
+
+6. felhívja a Miniszterelnökséget vezető minisztert, hogy nyújtson be javaslatot a Kormány részére a 4. és 5. pontok alkalmazása jogszabályi feltételeinek megteremtése érdekében;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet soron következő módosításával egyidejűleg
+
+7. felhívja az emberi erőforrások miniszterét, a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert a háttérintézményi átalakítások olyan módon történő lefolytatására, hogy az érintett jogutód szervezetek a lehető legkorábban kerüljenek a projektekben nevesítésre legalább konzorciumi tagként annak érdekében, hogy azok az átalakuláshoz kapcsolódó változások ne befolyásolják hátrányosan a 2014–2020 programozási időszakban európai uniós forrásra pályázó kiemelt projektek megvalósítását;
+
+Felelős: emberi erőforrások minisztere
+
+nemzetgazdasági miniszter
+
+nemzeti fejlesztési miniszter
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: 2016. május 30.
+
+8. felhívja a Miniszterelnökséget vezető minisztert, hogy régészeti munkák elvégzése során az egy megyében párhuzamosan több projektet érintő feladatok esetén tegye lehetővé más megyék erőforrásainak bevonását;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: azonnal
+
+9. felhívja a földművelésügyi minisztert, hogy biztosítsa a közlekedési projektek engedélyezéséhez szükséges klíma nyilatkozatok ütemes kiadását;
+
+Felelős: földművelésügyi miniszter
+
+Határidő: azonnal
+
+10. felhívja a nemzeti fejlesztési minisztert, hogy a közlekedési projektek műszaki tartalmát a projektek várható megtérülése alapján határozza meg és szükség esetén terjessze Kormány elé az esetleges változásokat.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: azonnal
