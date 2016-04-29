@@ -1,0 +1,549 @@
+## A katasztrófavédelmi koordinációs tárcaközi bizottság
+
+## Ügyrendje
+
+## A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban: KKB) az Ügyrendjét – a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) 7. §-ában, valamint a Kat. végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet (a továbbiakban: R.) 8. §-ában, valamint a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság létrehozásáról, valamint szervezeti és működési rendjének meghatározásáról szóló 1150/2012. (V. 15.) Korm. határozat (a továbbiakban: Korm. hat.) 1. melléklet 30. pontjában foglaltak alapján – az alábbiak szerint állapítja meg:
+
+## Általános rendelkezések
+
+## 1. A KKB a védekezés időszakában ellátja a Kormány részére történő szakmai döntés-előkészítő feladatokat, amelyeket a KKB Nemzeti Veszélyhelyzet-kezelési Központ (a továbbiakban: KKB NVK) javaslatai alapján végez.
+
+## 2. A KKB testületként működik. Összetételét, a tagok helyettesítésének rendjét a Korm. hat. 1. melléklet 2–8. pontja határozza meg.
+
+## 3. A KKB tevékenységét a KKB elnöke irányítja. Az elnök akadályoztatása esetén – általános helyettesítési jogkörrel – az elnökhelyettes jár el a Korm. hat. 1. melléklet 3. pontjában foglaltak szerint. Az elnökhelyettes a helyettesítési jogkörében végzett tevékenységéről tájékoztatást ad a KKB elnökének.
+
+## 4. Katasztrófaveszély idején és veszélyhelyzetben a KKB üléseit a KKB elnöke a kialakult helyzet által megkövetelt rendben hívja össze. A tevékenység súlypontját a Kormány rendkívüli intézkedéseinek előkészítése, a védekezési feladatok összehangolása, a nemzetközi együttműködési kötelezettségből adódó feladatok végrehajtása, valamint a lakosság gyors és hiteles tájékoztatásának megvalósítása képezi.
+
+## 5. A KKB és a KKB munkaszervek tagjai riasztásának megszervezését és elrendelése esetén azok riasztását a BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) végzi. A riasztás végrehajtása érdekében a KKB NVK tagjait delegáló központi államigazgatási szervek állandó kapcsolattartási pontot működtetnek. Kapcsolattartó pontnak a székhelyén, vagy azon kívül olyan már működő munkaszervezet jelölhető ki, mely más jogszabály alapján hasonló tevékenységet végez és a feladat ellátására alkalmas, vagy az állandó kapcsolattartás telefonos ügyelettel is megszervezhető.
+
+## 6. A KKB határozathozatalának fóruma az évenként legalább két alkalommal megtartott rendes és a szükség szerinti rendkívüli ülés.
+
+## 7. A rendes ülést a KKB elnöke minden év március 31-ig és november 30-ig hívja össze. A rendes ülés időpontját az ülést megelőző legalább 40 nappal, a 11. pont szerinti határozathozatal esetén 15 nappal korábban ki kell hirdetni.
+
+## 8. A KKB ülései nem nyilvánosak. A KKB üléseiről a tömegtájékoztatási eszközök képviselői számára tájékoztatást a KKB elnöke vagy az általa felhatalmazott személy adhat.
+
+## 9. A KKB határozatképes, ha az ülésen a tagok több, mint fele jelen van.
+
+## 10. A KKB a döntéseit nyílt szavazással és egyszerű szavazattöbbséggel – a 12. pont szerinti esetben kétharmados többséggel – hozza. Az elnök tagként szavaz. Szavazategyenlőség esetén a KKB elnökének szavazata dönt.
+
+## 11. A KKB írásbeli nyilatkozattétel útján is hozhat határozatot, az egyébként irányadó szabályoknak megfelelően.
+
+## 12. A KKB Ügyrend elfogadásához, illetve módosításához az összes tag legalább kétharmadának egyetértése szükséges.
+
+## 13. A KKB Tudományos Tanács és a KKB NVK Ügyrendjét a BM OKF főigazgatója terjeszti elő a KKB számára.
+
+## 14. A KKB rendes és rendkívüli üléseiről hangfelvétel és az alapján emlékeztető készül, amelyről a Korm. hat.-ban meghatározott adminisztratív feladatokat ellátó szerv (a továbbiakban: adminisztratív szerv) gondoskodik.
+
+## A KKB működése, az ülések előkészítése és megtartása
+
+## 15. A védekezésre való felkészülés időszakában a KKB éves munkaterv alapján működik, melyet a KKB elnökének előterjesztése alapján a KKB fogad el. A KKB munkaterve – többek között – tartalmazza:
+
+## a) a megelőzés és a katasztrófák elleni védekezésre történő felkészülés érdekében tervezett és elvégzendő feladatokat,
+
+## b) az adott év rendezvényeit, gyakorlatokat, rendszergyakorlatokat.
+
+## 16. Az ülést a KKB elnöke vezeti. Megállapítja a határozatképességet és az előterjesztéseket döntésre előterjeszti a következők figyelembe vételével:
+
+## a) a napirendi pont előterjesztője szóbeli kiegészítést tehet,
+
+## b) az ülésen a tagok, a tanácskozási joggal résztvevők és a meghívottak:
+
+## ba) az előterjesztőhöz kérdést intézhetnek,
+
+## bb) az előterjesztéshez észrevételt és javaslatot tehetnek.
+
+## 17. Az előterjesztés tartalmazza legalább:
+
+## a) az előterjesztésben szereplő javaslat hátterét, indokait és összefüggéseit,
+
+## b) az esetleges költségkihatásokat,
+
+## c) a fennmaradt vitás kérdéseket,
+
+## d) a kommunikációra vonatkozó javaslatokat, valamint
+
+## e) a határozati javaslatot (feladat címzettje és végrehajtási határidő megjelölésével).
+
+## 18. A KKB sorszámozott határozata tartalmazza a végrehajtandó feladatokat, a feladat címzettjét és a végrehajtás határidejét.
+
+## 19. A feladat végrehajtásáról, vagy annak esetleges akadályairól a feladat végrehajtásáért felelős az adminisztratív szerv útján értesíti a KKB elnökét.
+
+## 20. A KKB ülésének előkészítésével kapcsolatos iratok megőrzési határideje – jogszabály eltérő rendelkezésének hiányában – öt év. Az előterjesztések, a határozatok, az emlékeztetők és a KKB elnöke által jóváhagyott iratok nem semmisíthetők meg.
+
+## 21. A Kormány döntését igénylő kérdésekre vonatkozó javaslatok, előterjesztések határidőre történő benyújtásáért az adminisztratív szerv felelős.
+
+## A rendes ülés összehívásának, előkészítésének és levezetésének eljárási rendje
+
+## 22. A rendes ülést legalább 15 nappal megelőzően előkészítő szakértői értekezlet megtartására kerül sor, a KKB tagok, a KKB ülésen állandó jelleggel, a KKB elnökének döntése és meghívása alapján résztvevők által – az ülésre tervezett napirendekben való érintettségnek megfelelően – kijelölt szakértők részvételével (továbbiakban: szakértői értekezlet). A szakértői értekezlet a KKB elnökének döntése alapján írásbeli vélemény nyilvánítással, nyilatkozat tétellel is megtartható.
+
+## 23. A KKB ülésére készített előterjesztés tervezetet az előterjesztő a szakértői értekezletet legalább 10 nappal megelőzően megküldi az adminisztratív szerv részére.
+
+## 24. Az adminisztratív szerv az előterjesztések beérkezését követő 3 munkanapon belül a KKB tagok, a KKB ülésen állandó jelleggel és – szükség szerint – a KKB elnökének döntése és meghívása alapján részt vevők számára megküldi a tervezetet, amelynek véleményezését és észrevételeit a címzettek 5 munkanapon belül visszaküldik az előterjesztő és az adminisztratív szerv részére.
+
+## 25. Az előterjesztő a tervezettel kapcsolatos véleményeket és észrevételeket 3 munkanapon belül feldolgozza és a tervezet végleges formáját megküldi az adminisztratív szerv részére.
+
+## 26. A szakértői értekezleten az előterjesztés tervezeteket áttekintik, szükség esetén pontosítják és javaslatot tesznek a KKB ülésére meghívandók körére.
+
+## 27. Az adminisztratív szerv a meghívókat és a napirendekhez kapcsolódó – a szakértői értekezleten elhangzottak alapján véglegesített – írásos előterjesztéseket a rendes ülést megelőzően legalább 8 nappal megküldi a KKB tagok és meghívottak részére.
+
+## 28. Kivételes esetben az előterjesztés előzetes egyeztetés nélkül, az Ügyrend 22. pontjában meghatározottak figyelmen kívül hagyásával is felvehető az ülés napirendjére, erről a KKB elnöke az ülés megkezdése előtt határoz.
+
+## 29. A KKB II. félévi rendes ülésén tevékenységéről írásos és szóbeli beszámolót tart:
+
+## a) a KKB NVK vezetője,
+
+## b) a KKB elnöke által kijelölt védekezési munkabizottságok vezetője.
+
+## A rendkívüli ülés összehívásának, előkészítésének és levezetésének eljárási rendje
+
+## 30. A KKB rendkívüli ülésének összehívására és annak kezdeményezésére a Korm. határozat 1. melléklet 27. pontban foglaltak az irányadók.
+
+## 31. A rendkívüli ülés kezdeményezése esetén a kezdeményező javaslatot tesz a napirendre, és csatolja az ahhoz kapcsolódó előterjesztést.
+
+## 32. Rendkívüli ülés a KKB elnöke, vagy az őt helyettesítő tag kezdeményezésére infokommunikációs eszközök (például: telefon-, videó-konferencia, e-mail) alkalmazásával is megtartható, a döntéshozatalra ebben az esetben az Ügyrend 9–12. és 14. pontjában meghatározott szabályok irányadók.
+
+## 33. A rendkívüli ülésre egyebekben a rendes ülésre vonatkozó rendelkezéseket megfelelően kell alkalmazni, azzal a kivétellel, hogy szakértői értekezlet összehívására abban az esetben kerül sor, amennyiben a rendelkezésre álló idő és egyéb körülmények ezt lehetővé teszik.
+
+## A KKB tag KKB NVK-val kapcsolatos feladatai
+
+## 34. A KKB tag a KKB NVK működőképességének biztosítása érdekében:
+
+## a) kijelöli és működteti a szervezet kapcsolattartó pontját,
+
+## b) a szervezet részéről ágazati összekötőket (szakértőket) jelöl ki,
+
+## c) biztosítja a kijelölt szakértők felkészítését és gyakorlatokon történő részvételét, folyamatos rendelkezésre állását,
+
+## d) elhúzódó veszélyhelyzet esetén biztosítja az állomány váltását,
+
+## e) működteti a Korm. hat. 1. melléklet 21. a)–n) pontok szerinti védekezési munkabizottságot,
+
+## f) biztosítja a védekezési munkabizottság és a KKB NVK általános munkacsoport, valamint a KKB NVK vezető közötti folyamatos kapcsolattartást,
+
+## g) figyelemmel kíséri a védekezési munkabizottságon belüli szakmai döntéseket.
+
+## Az adminisztratív szerv feladatai
+
+## 35. A KKB ügyviteli feladatait, adminisztratív és az ülésekhez kapcsolódó koordinációs feladatait a BM OKF Szervezeti és Működési Szabályzatában erre kijelölt szervezeti egysége látja el.
+
+## 36. Az adminisztratív szerv:
+
+## a) előkészíti a KKB munkatervét a Kormány által elfogadott munkaterv, valamint a KKB tagok és a tanácskozási joggal rendelkezők javaslatai alapján,
+
+## b) figyelemmel kíséri a jogszabályokban és a KKB éves munkatervében meghatározott feladatok végrehajtásának helyzetét, melyről jelentést készít, döntést kezdeményez,
+
+## c) összeállítja a KKB elnökének a Kormány részére szóló éves beszámolóját,
+
+## d) összefoglalót készít a KKB és szervei által a rendes ülések közötti időszakban végzett tevékenységről, valamint a lejárt határidejű feladatok végrehajtásáról a KKB soron következő ülésére,
+
+## e) döntéshozatalra előkészíti a KKB, a KKB Tudományos Tanács és a KKB NVK ügyrendjét,
+
+## f) gondoskodik a KKB ülését megelőző szakértői értekezletek megszervezéséről, és a meghívók az értekezletet legalább 8 nappal megelőző kiküldéséről,
+
+## g) megállapítja az előterjesztés tervezetek egyeztetésére vonatkozó, az Ügyrendben nem szereplő határidőket,
+
+## h) gondoskodik az ülések előkészítéséről, a napirend összeállításáról és a napirenden szereplő előterjesztéseknek a KKB tagjai és a meghívottak részére történő megküldéséről,
+
+## i) gondoskodik a KKB ülésén elfogadott határozatok és emlékeztetők érintettek részére történő megküldéséről 5 napon belül,
+
+## j) a KKB elnökének döntése alapján gondoskodik a határozatok Hivatalos Értesítőben történő megjelentetéséről,
+
+## k) figyelemmel kíséri a KKB feladataival kapcsolatos jogszabályokat, azokról tájékoztatja a KKB tagjait és a tanácskozási joggal rendelkezőket, ezen feladat ellátására külön e-mail címet működtet (kkb.adminisztracio@katved.gov.hu),
+
+## l) koordinálja a KKB két ülése között a jóváhagyott munkatervben előirányzott feladatok végrehajtását,
+
+## m) részt vesz a KKB által tervezett hazai és nemzetközi védelmi igazgatási rendszergyakorlatok előkészítésében,
+
+## n) vezeti és az érintettek adatszolgáltatása alapján naprakészen tartja a KKB, a KKB Tudományos Tanács, a KKB NVK tagjainak névsorát, elérhetőségét,
+
+## o) a Belügyminisztériummal együttműködve ellenőrzi a KKB NVK vezetési pont folyamatos működőképességét és gondoskodik annak fenntartásáról,
+
+## p) intézkedik a védelmi igazgatás katasztrófavédelmi célú infokommunikációs rendszerei működésének karbantartására és üzemeltetésére,
+
+## q) kapcsolatot tart a tárcák szakértőivel, a KKB Tudományos Tanáccsal, a KKB munkabizottságaival, koordinálja együttműködésüket, biztosítja az információáramlást,
+
+## r) kapcsolatot tart a fővárosi és megyei védelmi bizottságokkal, biztosítja részükre a működésükhöz szükséges okmány mintákat (pl. szervezeti és működési szabályzat, ügyrend, munkaterv).
+
+## 37. A KKB ügyrend elfogadásával egyidejűleg hatályát veszti a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság Ügyrendjének elfogadásáról szóló 1/2012. (VIII. 7.) KKB határozat.
+
+## Dr. Pintér Sándor s. k.,
+
+## KKB elnök
+
+2. melléklet az 1/2016. (IV. 29.) KKB határozathoz
+
+A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság
+
+Nemzeti Veszélyhelyzet-kezelési Központ
+
+Ügyrendje
+
+1. JOGSZABÁLYI ÉS EGYÉB SZABÁLYOZÁSI ALAPOK
+
+1.1. a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.);
+
+1.2. a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet;
+
+1.3. a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet;
+
+1.4. az országos nukleárisbaleset-elhárítási rendszerről szóló 167/2010. (V. 11.) Korm. rendelet,
+
+1.5. a nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló 165/2003. (X. 18.) Korm. rendelet;
+
+1.6. a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság létrehozásáról, valamint szervezeti és működési rendjének meghatározásáról szóló 1150/2012. (V. 15.) Korm. határozat;
+
+1.7. a Polgári Veszélyhelyzeti Információs Rendszer és a Marathon Terra védelmi igazgatási célú infokommunikációs alkalmazás létrehozásáról és üzemeltetéséről szóló 32/2011. (XII. 2.) BM utasítás;
+
+1.8. a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság Ügyrendje;
+
+1.9. a BM Országos Katasztrófavédelmi Főigazgatóság Központi Veszélyelhárítási Terve;
+
+1.10. az Országos Nukleárisbaleset-elhárítási Intézkedési Terv;
+
+1.11. a Belügyminisztérium központi épületébe történő be- és kilépés, a benntartózkodás, a csomag- és áruszállítás, a küldemények átvételének és a gépjárművek parkolásának rendjéről szóló 16/2014. (X. 10.) BM utasítás.
+
+2. A KKB NVK RENDELTETÉSE ÉS MŰKÖDÉSE
+
+2.1. A Katasztrófavédelmi Koordinációs Tárcaközi Bizottság létrehozásáról, valamint szervezeti és működési rendjének meghatározásáról szóló 1150/2012. (V. 15.) Korm. határozat (a továbbiakban: Korm. hat.) 1. melléklet 12. pontja alapján a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban: KKB) operatív tevékenységének támogatása érdekében Nemzeti Veszélyhelyzet-kezelési Központot (a továbbiakban: KKB NVK) működtet.
+
+2.2. A KKB NVK intézményén belül általános és szakmai munkacsoport különül el, amelynek megfelelően KKB NVK vezető tevékenységét általános és szakmai helyettes támogatja. A szakmai munkacsoport a Korm. hat. 1. melléklet 21. pontjában meghatározott, a tárcák által működtetett védekezési munkabizottság.
+
+2.3. A KKB NVK a Korm. hat. 1. melléklet 13. pontjában meghatározott résztvevői körrel látja el feladatát.
+
+2.4. A KKB NVK vezetője a KKB elnöke által kinevezett személy.
+
+2.5. A KKB NVK vezető általános helyettese a Korm. hat. 1. melléklet 19. pontja alapján a BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) állományából kijelölt, katasztrófaveszély, valamint veszélyhelyzet kezelésére felkészített vezető beosztású személy. A KKB NVK vezető szakmai helyettese a katasztrófa jellegének megfelelő védekezési munkabizottság vezetője.
+
+2.6. A KKB NVK állománya készenlétbe helyezésének szabályai
+
+2.6.1. A KKB és a KKB munkaszervek tagjai riasztásának megszervezését és elrendelés esetén történő riasztását a BM OKF Főügyelete végzi.
+
+2.6.2. A KKB NVK részleges vagy teljes alkalmazási készenléte rendelhető el a Korm. hat. 1. melléklet 15. pontja alapján, a következők szerint:
+
+a) a BM OKF Főügyelete az elrendelt alkalmazási készenlétnek megfelelően riasztja az ágazati kapcsolattartó pontokat, amelyek felelősek a kijelölt ágazati összekötők (szakértők) azonnali, közvetlen riasztásáért,
+
+b) a KKB NVK vezető katasztrófaveszély vagy veszélyhelyzet időszakában az értesítést vagy tudomásulvételt követően haladéktalanul, de legkésőbb egy órán belül javaslatot tesz a végrehajtandó intézkedésekre,
+
+c) a készenlét elérésének normaideje munkaidőben: 2 óra,
+
+d) a készenlét elérésének normaideje munkaidőn túl: 4 óra.
+
+2.6.3. A KKB NVK általános munkacsoport tagjai a működési helyre történő beérkezésüket követően:
+
+a) elfoglalják előzetesen kijelölt munkaállomásukat, ellenőrzik a munkaállomás eszközeinek (számítógép, telefon, Marathon Terra, internet kapcsolat) működését,
+
+b) kapcsolatba lépnek saját ágazatuk védekezési munkabizottságával,
+
+c) megkezdik a kialakult helyzettel kapcsolatos adatgyűjtést és elemzést,
+
+d vezetik az Iktatólapot és Szakértői Tevékenységi Naplójukat.
+
+2.6.4. A KKB NVK általános munkacsoport készenlétének elérését követően a KKB NVK vezetője megtartja az első tájékoztatót, amelyen:
+
+a) intézkedik az ügyrendi kérdésekre, a Műveleti Napló vezetésére,
+
+b) elemzi, értékeli a kialakult helyzettel kapcsolatban rendelkezésre álló információkat,
+
+c) meghatározza a haladéktalanul elvégzendő feladatokat,
+
+d) meghatározza a KKB NVK általános munkacsoport tagjai számára az elvégzendő feladatokat,
+
+e) a KKB elnöke számára jelentést készít a kialakult helyzetről,
+
+f) intézkedik az információgyűjtés és a jelentések bekérésének rendjére,
+
+g) intézkedik a KKB NVK-val közvetlen kapcsolatban álló szervek tájékoztatására a KKB NVK általános munkacsoport készenlétéről.
+
+2.7. A KKB NVK általános munkacsoport
+
+2.7.1. A KKB NVK általános munkacsoport felépítése és tagjainak kijelölése:
+
+a) Az általános munkacsoportot a 2.5. pont szerinti kijelölt személy vezeti, akinek helyettesítésére irányadók a 2.5. pont szerinti követelmények.
+
+b) Az általános munkacsoport részeként működnek:
+
+– Ágazati összekötők (szakértők),
+
+– Lakossági Tájékoztatási Összekötő,
+
+– Jogi Támogató Csoport.
+
+c) A KKB tagok – a KKB adminisztratív tevékenységet ellátó szerv vezetőjének kezdeményezésére – minden egyes minisztérium részéről, a felelősségi körükbe tartozó valamennyi szakágazat vonatkozásában 1-1 fő szakértőt jelölnek ki (a továbbiakban: ágazati összekötők). Az elhúzódó idejű működésre való tekintettel a kijelölések során a szakértők váltásáról gondoskodni szükséges.
+
+d) A Korm. hat. 1. melléklet 14. pontjának megfelelően létrehozott Lakossági Tájékoztatási Összekötő a BM OKF főigazgatója által kijelölt személy.
+
+e) A Jogi Támogató Csoport az Igazságügyi Minisztérium bázisán működik, tagjait az IM felelősségi körben érintett állami vezető – a váltásokra is figyelemmel – jelöli ki, továbbá gondoskodik működési feltételeiről.
+
+f) A b) pontban felsoroltak mellett a KKB elnök vagy az elnök felhatalmazása alapján a BM OKF főigazgatója a kialakult helyzet kezeléséhez szükség esetén további szakértőket kérhet fel.
+
+g) A Médiaszolgáltatás-támogató és Vagyonkezelő Alap ágazati összekötők (szakértők) kijelölésével és szakértői munkavégzésük biztosításával, valamint kapcsolattartó pont kijelölésével és működtetésével vesz részt a KKB NVK munkájában.
+
+2.7.2. Ágazati szakértőnek az a felsőfokú képesítéssel bíró személy jelölhető, aki a delegáló szervezet vonatkozásában legalább egy éves szakmai tapasztalattal és legalább felhasználói szintű számítástechnikai ismeretekkel rendelkezik.
+
+2.7.3. A KKB NVK általános munkacsoport adatbázisát a KKB NVK működésében érintett ágazatok és szervezetek által biztosított adatok alapján az adminisztratív feladatokat ellátó szerv tartja naprakészen. A delegáló szervezet a bekövetkezett változásokról – azonnali hatállyal – írásban tájékoztatja az adminisztratív feladatokat ellátó szerv vezetőjét.
+
+2.8. A védekezési munkabizottságok
+
+2.8.1. A különböző típusú katasztrófák kezelése során hozott döntések kellő szakmai előkészítése érdekében a KKB NVK részeként az ágazati államigazgatási szervek saját székhelyükön védekezési munkabizottságokat működtetnek a Korm. hat. 1. melléklet 21–22. pontjában foglaltaknak megfelelően, amelynek működését ügyrendben szabályozzák.
+
+2.8.2. A KKB NVK védekezési munkabizottságok összehangolt működése érdekében az ügyrendjeik egységességét biztosítani kell, melyről a védekezési munkabizottságért felelős KKB tag gondoskodik. Az ügyrenden a Korm. hat. 1. melléklet 22. pontja értelmében a KKB elnökének egyetértését kifejező aláírási helyet fel kell tüntetni.
+
+2.8.3. A KKB NVK vezetője kezdeményezi a védekezési munkabizottságok működtetésének megkezdését a védekezési munkabizottság működtetéséért felelős szerv vezetőjénél.
+
+2.9. Felelősségek
+
+2.9.1. A KKB NVK általános munkacsoport tagja felelős:
+
+a) felkészülten, legjobb képességei szerint közreműködni a KKB NVK munkájában,
+
+b) az elérhetőségét biztosító kommunikációs eszközeinek folyamatos üzemképes állapotban tartásáért,
+
+c) az általa képviselt szervezeti, ágazati sajátosságok és érdekek KKB NVK munkájában történő érvényesítéséért,
+
+d) riasztás esetén, normaidőn belül a szolgálatteljesítés helyére való beérkezésért, és fizikai-pszichikai állapotának feladatai ellátására való alkalmasságáért,
+
+e) a kapcsolattartó pontjával való folyamatos összeköttetésért,
+
+f) váratlan akadályoztatása esetén kapcsolattartási pontjának haladéktalan értesítéséért.
+
+2.9.2. A KKB NVK vezetője felelős:
+
+a) a KKB NVK riasztásáért, értesítéséért, készenlétbe helyezéséért,
+
+b) katasztrófaveszély időszakában (Kat. 3. § 9. pont és 43. §), veszélyhelyzetben (Magyarország Alaptörvénye 53. cikk és Kat. 44–51. §), vagy gyakorlat esetén a KKB NVK tevékenységének irányításáért,
+
+c) a működést szabályozó dokumentumok kidolgozásáért, felülvizsgálatáért.
+
+2.9.3. A KKB NVK vezető általános helyettese felelős:
+
+a) a működési szükségletek, személyi feltételek felméréséért és biztosításuk kezdeményezéséért,
+
+b) a bevont állomány szakmai felkészültségének naprakészen tartásáért,
+
+c) a szolgálat átadás-átvétel rendjéért és felügyeletéért,
+
+d) a műveleti napló vezetésének szakszerűségéért, tényszerűségéért.
+
+2.9.4. A KKB NVK állásfoglalásait, döntési javaslatait, feladat meghatározásait a jelenlévő tagok szakmai álláspontjának figyelembevételével a KKB NVK vezető hozza meg.
+
+2.9.5. A KKB elnök vagy az elnök felhatalmazása alapján a BM OKF főigazgatója ellenőrzi a KKB NVK vezető tevékenységét.
+
+2.10. Hatáskör
+
+2.10.1. A KKB NVK – működése esetén – a 2.10.2. pontban meghatározottak részére feladatot szabhat és tőlük információt, elemzéseket, értékeléseket és jelentéseket kérhet.
+
+2.10.2. Hatásköre kiterjed:
+
+a) a központi államigazgatási szervektől delegált KKB NVK szakértőkre,
+
+b) a BM OKF kijelölt állományára,
+
+c) az adott katasztrófatípusnak megfelelő védekezési munkabizottság aktivizálására.
+
+3. A KKB NVK FŐ FELADATAI
+
+3.1. A katasztrófaveszélyen kívüli és különleges jogrendbe nem sorolható időszakban a KKB NVK a védekezésre való felkészülés és jelen ügyrendben meghatározott feladatainak teljesítése érdekében elméleti és gyakorlati felkészítést tart:
+
+a) elméleti felkészítést évente legalább 1 alkalommal,
+
+b) teljes törzsgyakorlatot legalább évente 2 alkalommal,
+
+c) rendszergyakorlatot legalább 5 évente.
+
+3.2. A katasztrófaveszély, a veszélyhelyzet, valamint a katasztrófa károsító hatása által érintett területen kihirdetett veszélyhelyzet időszakában a KKB NVK feladatai:
+
+a) eléri a részleges vagy teljes működési készenlétet,
+
+b) gyűjti a központi, területi szintű intézkedések bevezetésével kapcsolatos információkat,
+
+c) végzi a fővárosi, megyei védelmi bizottságok és a szervezetei által írásban közölt információk elemzését, értékelését,
+
+d) előkészíti és jóváhagyást követően végrehajtja az operatív kormányzati döntéseket, valamint koordinálja azok ágazati végrehajtását,
+
+e) koordinálja a bevont erők és a közreműködő szervezetek tevékenységét,
+
+f) figyelemmel kíséri az elrendelt intézkedések végrehajtását, értékeli az intézkedések hatékonyságát, szükség szerint felülvizsgálja az elrendelt intézkedéseket és újabbakra tesz javaslatot,
+
+g) a védekezési munkabizottság vezetője útján irányítja a védekezési munkabizottságok tevékenységét,
+
+h) együttműködik a fővárosi, megyei védelmi bizottságokkal, a központi és területi államigazgatási szervek operatív munkaszerveivel,
+
+i) a BM OKF főigazgatója útján tájékoztatja a KKB elnökét a kialakult helyzetről, a megtett intézkedésekről, a bevont erőkről, eszközökről, valamint az elhárítással kapcsolatos további javaslatokról,
+
+j) a Kormány döntésének megfelelően a KKB elnökének iránymutatása mellett végrehajtja, valamint koordinálja a KKB által meghatározott egyéb feladatokat,
+
+k) a Lakossági Tájékoztatási Összekötő bevonásával koordinálja a lakosságtájékoztatási feladatokat.
+
+4. A KKB NVK MŰKÖDÉSI HELYE
+
+4.1. A KKB NVK a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium bázisán működik, melyhez a szükséges személyi és tárgyi feltételeket a vonatkozó belügyminiszteri utasítás szerint kell biztosítani.
+
+4.2. Különleges jogrendbe nem sorolható időszaki működés esetén a KKB NVK vezető elrendelheti, hogy a KKB NVK általános munkacsoport tagjai saját ágazati szolgálati helyeiken lássák el feladataikat. A KKB NVK vezetővel a kapcsolatot a rendelkezésre álló kommunikációs csatornákon és eszközökkel tartják fenn.
+
+5. KOMMUNIKÁCIÓ
+
+5.1. A KKB NVK bázisán kívül működő szakértőkkel történő szóbeli kapcsolattartás elsődleges eszközei az adott kapcsolattartási ponthoz rendelt vezetékes (szükség esetén és a lehetőségek mértékében vezeték nélküli) távbeszélő eszközök. Az írásos formában történő információ továbbítás elsődleges kommunikációs eszköze a Marathon Terra védelmi igazgatási célú infokommunikációs rendszer.
+
+5.2. A KKB NVK kommunikációja során alkalmazott eszközök:
+
+a) Marathon Terra,
+
+b) Kormányzati Távközlési és Informatikai Rendszer (KTIR),
+
+c) számítógépes rendszer,
+
+d) videokonferencia,
+
+e) vezetékes telefon és telefax,
+
+f) mobiltelefon,
+
+g) Egységes Digitális Rádió-távközlő Rendszer (EDR),
+
+h) futárszolgálat.
+
+5.3. A Műveleti és a Szakértői Tevékenységi Naplók
+
+5.3.1. A KKB NVK általános munkacsoport működése során a KKB NVK vezető által kijelölt személy Műveleti Naplóban rögzíti:
+
+a) a KKB NVK általános munkacsoport működésével kapcsolatos fontosabb eseményeket:
+
+– működés kezdete, szolgálatváltások időpontjai, katasztrófaveszély, valamint a veszélyhelyzeti szint visszaállítása,
+
+– összegző megbeszélések időpontjai és fontosabb megállapításai,
+
+b) a megtett intézkedéseket, tájékoztatókat, jelentéseket,
+
+c) a KKB számára készített jelentések, javaslatok, egyéb dokumentumok felterjesztésének időpontját,
+
+d) a KKB döntéseket,
+
+e) az összegző megbeszélésen meghatározott feladatokat és felelősöket.
+
+5.3.2. A KKB NVK általános munkacsoport tagja munkája során Szakértői Tevékenységi Naplót vezet, amelyben rögzíti:
+
+a) a munkájával kapcsolatos fontosabb eseményeket:
+
+– működésének kezdete, a szolgálatváltás időpontja, működésének befejezése,
+
+– összegző megbeszélések időpontjai és fontosabb megállapításai,
+
+b) a veszélyhelyzettel kapcsolatban tudomására jutott fontosabb eseményeket és azonosítási idejüket,
+
+c) az ágazati jelentések, információk fogadásának idejét,
+
+d) a fontosabb telefonbeszélgetések, Marathon Terra üzenetek érdemi elemeit,
+
+e) az összegző megbeszélésekre készített jelentéseket, intézkedéseket, egyéb dokumentumokat, felterjesztésük időpontját,
+
+f) az összegző megbeszélésen meghatározott, felelősségébe utalt feladatokat.
+
+5.3.3. A Szakértői Tevékenységi Napló mintáját az adminisztratív szerv készíti.
+
+5.4. A dokumentumok kezelése, kiadmányozás
+
+5.4.1. A beérkező, elkészült és elküldött dokumentumok kezelésére a közfeladatot ellátó szervezetek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet előírásai az irányadóak. A tevékenység során törekedni kell az elektronikus ügyintézésre, a papíralapú dokumentumok mennyiségének minimalizálására. Az elfogadott elektronikus dokumentum formátumok: az MS Office rendszer dokumentumai, kép, audio- és videó-fájlformátumok.
+
+5.4.2. A beérkező dokumentum adatait a kijelölt személy iktatólapon rögzíti:
+
+a) iktatószám, iktatás dátuma, ideje,
+
+b) a dokumentum tárgya,
+
+c) a dokumentum beküldője,
+
+d) a dokumentum felelőse.
+
+5.4.3. A beérkező dokumentumot a KKB NVK vezető szignálja a felelős tagra.
+
+5.4.4. A felelős értelmezi a dokumentumot és a benne foglaltak szerint jár el:
+
+a) felhasználja munkája során,
+
+b) választ készít a dokumentumra.
+
+5.4.5. Az elkészült új dokumentumot a KKB NVK vezető aláírásával hagyja jóvá.
+
+5.4.6. A kimenő dokumentum adatait a kijelölt személy iktatólapon rögzíti:
+
+a) iktatószám, iktatás dátuma, ideje,
+
+b) a dokumentum tárgya,
+
+c) a dokumentum munkacsoporti, munkabizottsági készítője,
+
+d) a dokumentum címzettje.
+
+5.4.7. A jóváhagyott, iktatott dokumentumot a felelős személy továbbítja a címzettnek.
+
+6. SZOLGÁLAT ÁTADÁS-ÁTVÉTEL
+
+6.1. A KKB NVK általános munkacsoport folyamatos működése esetén a KKB NVK vezető, illetve a delegáló szerv vezetője 8/24, 12/24, vagy 24/48 órás váltások biztosításával gondoskodik az állomány pihentetéséről.
+
+6.2. A szolgálat átadás-átvételt megelőzően a KKB NVK vezető általános helyettese áttekinti a szolgálat átadás-átvételre beérkezett szakértők létszámát, és egyezteti a soron következő váltás időpontját.
+
+6.3. Szolgálat átadás-átvétel során
+
+a) a KKB NVK általános munkacsoport távozó tagjai egyeztetik az áthúzódó feladatokat, áttekintik a Műveleti Napló bejegyzéseit,
+
+b) a váltásra felkészülve a KKB NVK általános munkacsoport távozó tagja:
+
+– távozásáról tájékozatja a saját és az együttműködő ágazati központokat,
+
+– áttekinti és véglegesíti saját Tevékenységi Naplóját,
+
+– összefoglalja a legfontosabb információkat, és ezekről tájékoztatja az őt leváltó KKB NVK általános munkacsoport tagot,
+
+c) a működésbe lépő KKB NVK általános munkacsoport tag:
+
+– a távozó KKB NVK taggal együttműködve részletesen áttekintik annak Tevékenységi Naplóját, a legfontosabb információkat és az áthúzódó feladatokat,
+
+– megnyitja és vezeti saját Tevékenységi Naplóját,
+
+– kapcsolatba lép saját és az együttműködő ágazati központokkal,
+
+– megkezdi működését,
+
+d) az állományváltás időpontját és körülményeit a kijelölt személy rögzíti a Műveleti Naplóban.
+
+6.4. A szolgálat átadás-átvételt követően a KKB NVK vezető megbeszélést hív össze, amelyen helyzetbeállítás céljából tájékoztatja az új állományt a kialakult helyzetről, a folyamatban lévő legfontosabb intézkedésekről és szükség szerint feladatokat határoz meg.
+
+7. A KATASZTRÓFAVESZÉLYT, VALAMINT A VESZÉLYHELYZETI SZINTET EL NEM ÉRŐ SZINT VISSZAÁLLÍTÁSA
+
+7.1. Katasztrófaveszélybe, valamint veszélyhelyzetbe nem sorolható időszaki működési állapot visszaállításának elrendelése után a KKB NVK a következők szerint fejezi be a folyamatos működését:
+
+a) a KKB NVK vezető megtartja a záró megbeszélést, amelyen:
+
+– értékelik a rendelkezésre álló információkat,
+
+– áttekintik és véglegesítik a Műveleti Naplót,
+
+b) értesítik a kapcsolati szerveket a KKB NVK folyamatos működési állapotának befejezéséről, a katasztrófaveszélyt, különleges jogrendet el nem érő szint visszaállításáról,
+
+c) munkaállomásukon a KKB NVK általános munkacsoport tagjai:
+
+– lezárják kapcsolataikat saját és az egyéb ágazati központokkal,
+
+– áttekintik és véglegesítik saját Tevékenységi Naplójukat,
+
+– archiválják az előállított dokumentumokat, és lezárják a munkaállomás eszközeit,
+
+d) a KKB NVK vezető általános helyettese intézkedik:
+
+– az informatikai rendszerben tárolt dokumentumok archiválására,
+
+– a fizikai dokumentumok irattárba helyezésére az adminisztratív tevékenységet ellátó szerv bázisán,
+
+– az informatikai eszközök kikapcsolására.
+
+7.2. A KKB NVK vezető összefoglaló értékelő jelentést készít az adott veszélyhelyzet kezeléséről a KKB elnöke részére.
+
+8. HATÁLYBALÉPÉS
+
+8.1. Jelen ügyrend az elfogadása napján lép hatályba.
+
+8.2. A KKB NVK ügyrend elfogadásával egyidejűleg hatályát veszti a KKB határozat a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság Nemzeti Veszélyhelyzet-kezelési Központ Ügyrendjének elfogadásáról szóló 3/2012. (VIII. 7.) KKB határozat.
+
+Dr. Pintér Sándor s. k.,
+
+KKB elnök
