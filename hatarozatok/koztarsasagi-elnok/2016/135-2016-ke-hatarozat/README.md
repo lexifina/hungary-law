@@ -1,0 +1,9 @@
+# 135/2016. (IV. 29.) KE határozat
+
+a 216/2013. (V. 2.) KE határozat módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-135-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-04-29 | 2016-135-30-76.1 | 135/2016. (IV. 29.) KE határozat |
