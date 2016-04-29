@@ -16,15 +16,7 @@
 
 ## Határidő: 2016. február 15.
 
-## 3. felhívja a Miniszterelnökséget vezető minisztert, hogy a 2016. évi kifizetési célszámok elérése érdekében a 2. pont szerint beterjesztett fejlesztéspolitikai munkaterv alapján dolgozza ki és terjessze a Kormány elé az 1. és 2. pont szerinti célkitűzések teljesítéséhez kapcsolódó ösztönző rendszert tartalmazó előterjesztést a következőknek megfelelően:
-
-## a) a fejlesztéspolitikai munkatervben rögzített célszámok 100%-os teljesítése esetén az ösztönző kifizetés összege félévente legfeljebb hathavi juttatásnak felelhet meg,
-
-## b) a fejlesztéspolitikai munkatervben rögzített célszámok 75%-os teljesítése esetén az ösztönző kifizetés összege félévente legfeljebb kéthavi juttatásnak felelhet meg;
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## Határidő: 2016. február 15.
+## 3.[^1]
 
 ## 4. egyetért azzal, hogy a projektek értékelését a közigazgatáson belüli szakértők bevonásával kell lefolytatni;
 
@@ -127,3 +119,5 @@
 | Vidékfejlesztés | 288 |
 
 | Összesen | 2048 |
+
+[^1]: A 3. pontot az 1214/2016. (IV. 29.) Korm. határozat 7. pontja visszavonta.
