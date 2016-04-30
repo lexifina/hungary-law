@@ -1,4 +1,4 @@
-27/A. §[^89] (1) A megyei önkormányzat a megelőlegezést kérelemmel igényelheti.
+27/A. §[^93] (1) A megyei önkormányzat a megelőlegezést kérelemmel igényelheti.
 
 (2) Az (1) bekezdés szerinti kérelemnek tartalmaznia kell
 
@@ -38,4 +38,4 @@ f) a megelőlegezés igénylése indokainak részletes, számszerűsített bemut
 
 (10) Szabálytalansággal érintett összeg visszafizetésére és el nem számolható költségek finanszírozására a megelőlegezés nem használható fel.
 
-[^89]: A 27/A. §-t a 72/2016. (III. 31.) Korm. rendelet 7. §-a iktatta be.
+[^93]: A 27/A. §-t a 72/2016. (III. 31.) Korm. rendelet 7. §-a iktatta be.

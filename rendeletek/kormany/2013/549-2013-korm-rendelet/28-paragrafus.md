@@ -1,4 +1,4 @@
-## IV. Fejezet[^90]
+## IV. Fejezet[^94]
 
 ## AZ EURÓPAI UNIÓS FORRÁSBÓL EL NEM SZÁMOLHATÓ KIADÁSOK TÁMOGATÁSA A KÖZSZFÉRA SZERVEZET KEDVEZMÉNYEZETT RÉSZÉRE
 
@@ -6,4 +6,4 @@
 
 (2) A támogatás forrása az Állami költségvetési kedvezményezettek sajáterő támogatása előirányzat.
 
-[^90]: A IV. fejezet címe a 287/2015. (X. 6.) Korm. rendelet 30. § 23. pontja szerint módosított szöveg.
+[^94]: A IV. fejezet címe a 287/2015. (X. 6.) Korm. rendelet 30. § 23. pontja szerint módosított szöveg.
