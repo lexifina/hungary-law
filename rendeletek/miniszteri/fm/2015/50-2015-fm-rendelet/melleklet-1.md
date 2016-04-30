@@ -1,5 +1,3 @@
-## 16. §[^3]
+## 16. § Hatályát veszti az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok 2014. évi finanszírozásának szabályairól szóló 50/2014. (IV. 29.) VM rendelet.
 
 1. melléklet az 50/2015. (VIII. 17.) FM rendelethez
-
-[^3]: A 16. § a 13. § (2) bekezdése alapján 2016. április 30-án lép hatályba.
