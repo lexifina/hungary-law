@@ -66,7 +66,7 @@
 
 ## Határidő: folyamatos
 
-## 7. visszavonja a 2014–2020 közötti programozási időszak uniós forrásainak teljes körű felhasználása érdekében szükséges intézkedésekről szóló 1018/2016. (I. 22.) Korm. határozat 3. pontját.
+## 7.[^1]
 
 1. melléklet az 1214/2016. (IV. 29.) Korm. határozathoz
 
@@ -125,3 +125,5 @@
 | 11. | Vidékfejlesztés | 89,69 | 65,21 | 133,10 | 288,00 | Miniszterelnökséget vezető miniszter |
 
 | 12. | Összesen | 430,26 | 540,97 | 1076,77 | 2048,00 | Miniszterelnökséget vezető miniszter a központi koordinációért való felelőssége körében |
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
