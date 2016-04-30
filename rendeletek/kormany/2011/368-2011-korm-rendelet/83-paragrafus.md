@@ -1,4 +1,4 @@
-83. §[^272] (1) A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezet költségvetési kiadási előirányzatai terhére nyújtott költségvetési támogatások esetén a helyi önkormányzat a támogatóval szembeni kötelezettségeit a Kincstár útján teljesíti.
+83. §[^277] (1) A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezet költségvetési kiadási előirányzatai terhére nyújtott költségvetési támogatások esetén a helyi önkormányzat a támogatóval szembeni kötelezettségeit a Kincstár útján teljesíti.
 
 (2) A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokkal kapcsolatban a támogató megbízása alapján a támogató 70. §-ban meghatározott feladatait, a 75. § szerinti nyilatkozatok meglétének, a 81. §-ban és a 82. §-ban meghatározott feltételek ellenőrzését, a 93. § (1) bekezdése szerinti részbeszámoló, beszámoló pénzügyi felülvizsgálatát, a 94. §-ban és 97–99. §-ban meghatározott feladatokat – a döntés-előkészítés, a támogatási szerződés módosításának, felmondásának vagy az attól való elállás kivételével – a Kincstár látja el.
 
@@ -10,4 +10,4 @@ b) a 97. § (1) bekezdése szerinti bejelentést a kedvezményezett – a nem ne
 
 (4) A nem nettó finanszírozás keretében folyósított költségvetési támogatásról való lemondást legkésőbb a költségvetési év november 30-áig lehet benyújtani. A lemondás hibáinak, hiányosságainak pótlására a 70. § (3) bekezdését kell alkalmazni. A hibátlan, hiánytalan lemondást a benyújtást vagy a hiánypótlás teljesítését követő öt napon belül a Kincstár a helyi önkormányzatokért felelős miniszternek megküldi.
 
-[^272]: Az Ávr. 83. §-a a 465/2015. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^277]: Az Ávr. 83. §-a a 465/2015. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

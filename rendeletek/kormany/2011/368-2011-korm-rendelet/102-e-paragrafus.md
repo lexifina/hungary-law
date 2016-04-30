@@ -1,6 +1,6 @@
-## [Az Áht. 56/B. §-ához és 56/C. §-ához][^296]
+## [Az Áht. 56/B. §-ához és 56/C. §-ához][^301]
 
-102/E. §[^297] (1) A támogató
+102/E. §[^302] (1) A támogató
 
 a) – pályázati úton nyújtott támogatás esetén – a pályázati kiírás adatait a pályázati kiírás közzétételét megelőzően,
 
@@ -10,5 +10,5 @@ a Kincstár által rendszeresített adatlapon a Kincstár részére bejelenti. H
 
 (2) Az (1) bekezdés szerinti adatok változását a támogatási döntés meghozatalát megelőzően a támogató a Kincstárnak bejelenti. A bejelentésre az (1) bekezdést kell alkalmazni.
 
-[^296]: Az Ávr. 102/E. §-t megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^297]: Az Ávr. 102/E. §-át a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^301]: Az Ávr. 102/E. §-t megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^302]: Az Ávr. 102/E. §-át a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.

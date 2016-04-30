@@ -1,4 +1,4 @@
-115/F. §[^336] (1) A Kincstár a kincstári ellenőrzésről jelentést (a továbbiakban: ellenőrzési jelentés) készít.
+115/F. §[^341] (1) A Kincstár a kincstári ellenőrzésről jelentést (a továbbiakban: ellenőrzési jelentés) készít.
 
 (2) Az ellenőrzési jelentés tartalmazza
 
@@ -10,7 +10,7 @@ c) a kincstári ellenőrzésre vonatkozó jogszabályi felhatalmazás megjelöl�
 
 d) a kincstári ellenőrzés során alkalmazott ellenőrzési módszereket és eljárásokat,
 
-e)[^337] az ellenőrzési megállapításokat és javaslatokat,
+e)[^342] az ellenőrzési megállapításokat és javaslatokat,
 
 f) az ellenőrzési jelentés elkészítésének dátumát és a Kincstár elnökének aláírását.
 
@@ -20,13 +20,13 @@ f) az ellenőrzési jelentés elkészítésének dátumát és a Kincstár elnö
 
 (5) Ha az egyeztetéssel érintett ellenőrzött szerv vagy az, akire az ellenőrzési jelentés vagy annak kivonatának tervezete megállapításokat vagy javaslatokat tartalmaz, az ellenőrzési jelentés vagy annak kivonatának tervezetében szereplő megállapításokat vagy javaslatokat vitatja, az azokkal kapcsolatos észrevételeit az ellenőrzési jelentés vagy annak kivonata tervezetének kézhezvételétől számított 8 napon belül a Kincstárnak írásban nyújthatja be. Az észrevételben meg kell jelölni azokat a jogszabályhelyeket vagy mellékelni kell azokat a dokumentumokat, amelyek az észrevételben foglaltakat alátámasztják. Ha az e bekezdésben meghatározott határidőben az ellenőrzött szerv részéről nem érkezik az ellenőrzési jelentésre észrevétel, azt akként kell tekintetni, hogy az ellenőrzött szerv az ellenőrzési jelentés vagy annak kivonatának tervezetében szereplő megállapításokkal és javaslatokkal egyetért.
 
-(6)[^338] Az észrevétel elfogadása esetén a Kincstár az ellenőrzési jelentés vagy annak kivonatának tervezetét az elfogadott észrevételnek megfelelően, az észrevétel benyújtásától számított 8 napon belül módosítja, és erről vagy az észrevétel elutasításáról az ellenőrzött szervet haladéktalanul tájékoztatja.
+(6)[^343] Az észrevétel elfogadása esetén a Kincstár az ellenőrzési jelentés vagy annak kivonatának tervezetét az elfogadott észrevételnek megfelelően, az észrevétel benyújtásától számított 8 napon belül módosítja, és erről vagy az észrevétel elutasításáról az ellenőrzött szervet haladéktalanul tájékoztatja.
 
 (7) A Kincstár a lezárt ellenőrzési jelentést a kincstári ellenőrzés befejezésétől számított három munkanapon belül megküldi az ellenőrzött szerv vezetőjének, az államháztartásért felelős miniszternek és az Állami Számvevőszéknek.
 
-(8)[^339] Az ellenőrzési jelentés alapján az ellenőrzött szerv vezetője a végrehajtásért felelős személyeket kijelölő és a végrehajtás határidejét feltüntető intézkedési tervet készít. Az ellenőrzött szerv vezetője az intézkedési terv szerinti intézkedéseket köteles az abban meghatározott határidőre végrehajtani és arról a vizsgálatvezetőt írásban tájékoztatni.
+(8)[^344] Az ellenőrzési jelentés alapján az ellenőrzött szerv vezetője a végrehajtásért felelős személyeket kijelölő és a végrehajtás határidejét feltüntető intézkedési tervet készít. Az ellenőrzött szerv vezetője az intézkedési terv szerinti intézkedéseket köteles az abban meghatározott határidőre végrehajtani és arról a vizsgálatvezetőt írásban tájékoztatni.
 
-[^336]: Az Ávr. 115/F. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.
-[^337]: Az Ávr. 115/F. § (2) bekezdés e) pontja a 243/2015. (IX. 8.) Korm. rendelet 12. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^338]: Az Ávr. 115/F. § (6) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 21. pontja szerint módosított szöveg.
-[^339]: Az Ávr. 115/F. § (8) bekezdését a 243/2015. (IX. 8.) Korm. rendelet 8. §-a iktatta be.
+[^341]: Az Ávr. 115/F. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.
+[^342]: Az Ávr. 115/F. § (2) bekezdés e) pontja a 243/2015. (IX. 8.) Korm. rendelet 12. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^343]: Az Ávr. 115/F. § (6) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 21. pontja szerint módosított szöveg.
+[^344]: Az Ávr. 115/F. § (8) bekezdését a 243/2015. (IX. 8.) Korm. rendelet 8. §-a iktatta be.
