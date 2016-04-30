@@ -1,0 +1,5 @@
+## 6. § A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 92. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+## (Az alapok alapját végrehajtó szervezettel megkötött finanszírozási megállapodásnak az 1303/2013/EU európai parlamenti és tanácsi rendelet IV. mellékletében meghatározottakon túl tartalmaznia kell)
+
+## „a) az alapok alapját végrehajtó szervezetnek a programszámla, a követelések és a kötelezettségek állományának változására vonatkozó – az államháztartási számvitelről szóló 4/2013. (I. 11.) Korm. rendeletben (a továbbiakban: Áhsz.) meghatározott rendelkezések szerint a pénzeszközök változását eredményező gazdasági eseményeket, azoknak a követelésekre és a kötelezettségekre gyakorolt hatását a valóságnak megfelelően, folyamatosan, zárt rendszerben, áttekinthetően tartalmazó – nyilvántartási és adatszolgáltatási kötelezettségét, a követelések értékelését, valamint a kapcsolódó részletező nyilvántartások Áhsz. szerinti vezetésére vonatkozó kötelezettségét,”
