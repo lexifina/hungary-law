@@ -1,17 +1,18 @@
 ## 4. § Hatályát veszti az R. A) melléklet
 
-a)–b)[^10]
+a)–b)[^8]
 
-c)–d)[^11]
+c) A.1. rész 4. táblázat 8. és 9. sora,
 
-e)[^12]
+d) A.2. rész 3. táblázat 4. sora,
 
-f)[^13]
+e)[^9]
 
-g)[^14]
+f)[^10]
 
-[^10]: A 4. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 4. § c)–d) pontja az 5. § (3) bekezdése alapján 2016. április 30-án lép hatályba.
-[^12]: A 4. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 4. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 4. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+g)[^11]
+
+[^8]: A 4. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 4. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 4. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 4. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
