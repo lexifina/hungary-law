@@ -8,6 +8,6 @@
 
 (3) Ha a kedvezményezett (1)–(2) bekezdésben foglalt kötelezettsége nem teljesül, haladéktalanul értesíti az irányító hatóságot.
 
-(4)[^639] Az (1) és (2) bekezdés rendelkezéseit a Rászoruló Személyeket Támogató Operatív Program terhére nyújtott támogatások esetén nem kell alkalmazni.
+(4)[^641] Az (1) és (2) bekezdés rendelkezéseit a Rászoruló Személyeket Támogató Operatív Program terhére nyújtott támogatások esetén nem kell alkalmazni.
 
-[^639]: A 178. § (4) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 51. §-a iktatta be.
+[^641]: A 178. § (4) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 51. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 ## 3. A Kormány feladatai
 
-4. §[^43] (1) A Kormány
+4. §[^44] (1) A Kormány
 
 a) kialakítja a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerét,
 
@@ -24,7 +24,7 @@ h) nyomon követi a kijelölt szervek tevékenységét, dönt a 34. és 35. § s
 
 i) előzetesen állást foglal a pénzügyi közvetítői felhívás tervezete tekintetében, valamint ha a pénzügyi közvetítő kiválasztására közbeszerzési eljárásban kerül sor, az alapok alapját végrehajtó szervezet javaslata alapján – a XVI. Fejezet szerinti ellenőrzést követően – állást foglalt az ajánlati, ajánlattételi, illetve a részvételi felhívás és az ezekhez kapcsolódó dokumentáció tekintetében,
 
-j)[^44] jóváhagyja az Európai Bizottság számára benyújtandó nagyprojekt-javaslatokat.
+j)[^45] jóváhagyja az Európai Bizottság számára benyújtandó nagyprojekt-javaslatokat.
 
 (2) Az (1) bekezdés e) pontja szerinti határozat tartalmazza
 
@@ -46,5 +46,5 @@ b) a többlettámogatás jóváhagyott összegét és
 
 c) a támogatás b) pontban megjelölt összeggel megnövelt összegét.
 
-[^43]: A 4. § a 4/2016. (I. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^44]: A 4. § (1) bekezdés j) pontja a 75/2016. (IV. 5.) Korm. rendelet 58. § b) pontja szerint módosított szöveg. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
+[^44]: A 4. § a 4/2016. (I. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^45]: A 4. § (1) bekezdés j) pontja a 75/2016. (IV. 5.) Korm. rendelet 58. § b) pontja szerint módosított szöveg. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.

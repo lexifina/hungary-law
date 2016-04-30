@@ -2,7 +2,7 @@
 
 ## SZABÁLYTALANSÁGKEZELÉS
 
-156. § (1)[^571] Szabálytalansági eljárás megindítására, szabálytalanság megállapítására kizárólag
+156. § (1)[^573] Szabálytalansági eljárás megindítására, szabálytalanság megállapítására kizárólag
 
 a) a támogatási szerződés megkötését,
 
@@ -18,7 +18,7 @@ e) kezességvállalás esetén a kezességvállalási nyilatkozat kiadását
 
 (2) A szabálytalansági eljárást az irányító hatóság folytatja le, abban az esetben is, ha közreműködő szervezet kerül kijelölésre.
 
-(2a)[^572] Pénzügyi eszköz esetén ahol e Fejezet és – az 57. alcím kivételével – a XXII. Fejezet
+(2a)[^574] Pénzügyi eszköz esetén ahol e Fejezet és – az 57. alcím kivételével – a XXII. Fejezet
 
 a) kedvezményezettet említ, azon végső kedvezményezettet vagy pénzügyi közvetítőt is,
 
@@ -30,7 +30,7 @@ d) irányító hatóság vezetőjét említ, azon a pénzügyi közvetítő és 
 
 kell érteni.
 
-(2b)[^573] Vidékfejlesztési program esetén, ha a szabálytalansági eljárás megindítására okot adó körülmény a támogatási szerződés megkötését megelőzően következett be, de a támogatási szerződés megkötését követően jut a kifizető ügynökség tudomására, a szabálytalansági eljárást az irányító hatóság folytatja le.
+(2b)[^575] Vidékfejlesztési program esetén, ha a szabálytalansági eljárás megindítására okot adó körülmény a támogatási szerződés megkötését megelőzően következett be, de a támogatási szerződés megkötését követően jut a kifizető ügynökség tudomására, a szabálytalansági eljárást az irányító hatóság folytatja le.
 
 (3) A szabálytalansági ügy elintézésében nem vehet részt
 
@@ -40,11 +40,11 @@ b) az a) pont alá tartozó személy vagy szervezet képviselője, vagy olyan vo
 
 c) az a) vagy a b) pont alá tartozó személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa,
 
-d)[^574] aki az érintett projekt-kiválasztási eljárásában, illetve a támogatási döntés előkészítésében részt vett,
+d)[^576] aki az érintett projekt-kiválasztási eljárásában, illetve a támogatási döntés előkészítésében részt vett,
 
 e) a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa.
 
-(4)[^575] A jogorvoslati eljárásban nem járhat el, aki a szabálytalansági ügy elintézésében részt vett. Ez nem vonatkozik a 169. § (2) bekezdés és 170. § szerinti eljárásra.
+(4)[^577] A jogorvoslati eljárásban nem járhat el, aki a szabálytalansági ügy elintézésében részt vett. Ez nem vonatkozik a 169. § (2) bekezdés és 170. § szerinti eljárásra.
 
 (5) Az irányító hatóság az eljárásában köteles törekedni arra, hogy a szabálytalansággal érintett projekt célja megvalósuljon, és lehetőség szerint a cél indokolatlanul ne sérüljön.
 
@@ -58,8 +58,8 @@ e) a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontj
 
 (10) A szabálytalansági eljárás az irányító hatóság, a jogorvoslati eljárás a jogorvoslati eljárást lefolytató szervezet vezetőjének döntésével zárul.
 
-[^571]: A 156. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^572]: A 156. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 86. § (2) bekezdése iktatta be.
-[^573]: A 156. § (2b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 86. § (2) bekezdése iktatta be.
-[^574]: A 156. § (3) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 181. pontja szerint módosított szöveg.
-[^575]: A 156. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 86. § (3) bekezdésével megállapított szöveg.
+[^573]: A 156. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^574]: A 156. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 86. § (2) bekezdése iktatta be.
+[^575]: A 156. § (2b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 86. § (2) bekezdése iktatta be.
+[^576]: A 156. § (3) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 181. pontja szerint módosított szöveg.
+[^577]: A 156. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 86. § (3) bekezdésével megállapított szöveg.

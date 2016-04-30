@@ -1,39 +1,39 @@
-## 17/A. §[^77] Az igazoló hatóság feladatait a kincstár látja el.
+## 17/A. §[^78] Az igazoló hatóság feladatait a kincstár látja el.
 
 ## 10. A szakpolitikai felelős feladatai
 
 18. § (1) A szakpolitikai felelős a programok tervezése és végrehajtása során a szakpolitikai szempontok érvényesítése érdekében ellátja a következő feladatokat:
 
-a)[^78] az éves fejlesztési keret készítése során a 41. § (2) bekezdésben szereplő információk megadásával elkészíti a felhívások szakmai koncepcióját az érintett irányító hatósággal és – szükség esetén – más szakpolitikai felelőssel egyeztetve, figyelembe véve az összefüggő fejlesztéseket,
+a)[^79] az éves fejlesztési keret készítése során a 41. § (2) bekezdésben szereplő információk megadásával elkészíti a felhívások szakmai koncepcióját az érintett irányító hatósággal és – szükség esetén – más szakpolitikai felelőssel egyeztetve, figyelembe véve az összefüggő fejlesztéseket,
 
-b)[^79] a kiemelt projektek tekintetében nyomon követi a projekt szinten rögzített szakmai elvárások teljesülését,
+b)[^80] a kiemelt projektek tekintetében nyomon követi a projekt szinten rögzített szakmai elvárások teljesülését,
 
-c)[^80]
+c)[^81]
 
-d)[^81] együttműködik a programok megvalósításában érintett minisztériumi felelősökkel a forráselosztási elvek, a szakpolitikai elvárások és horizontális követelmények meghatározása során,
+d)[^82] együttműködik a programok megvalósításában érintett minisztériumi felelősökkel a forráselosztási elvek, a szakpolitikai elvárások és horizontális követelmények meghatározása során,
 
-e)[^82]
+e)[^83]
 
-f)[^83]
+f)[^84]
 
-g)[^84]
+g)[^85]
 
-h)[^85] elkészíti az irányító hatóságnak megküldendő, felelősségi körébe tartozó éves fejlesztési keret alapját jelentő szakmai koncepciót, és a meghirdetendő felhívások szakmai tartalmának meghatározása során biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégiai céljaihoz,
+h)[^86] elkészíti az irányító hatóságnak megküldendő, felelősségi körébe tartozó éves fejlesztési keret alapját jelentő szakmai koncepciót, és a meghirdetendő felhívások szakmai tartalmának meghatározása során biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégiai céljaihoz,
 
 i) a szakpolitikai elvárások és szakmai tartalmak kialakítása során a területfejlesztés stratégiai tervezéséért felelős miniszterrel együttműködve biztosítja a területi kohézió horizontális szempontjainak érvényesítését.
 
-(2)[^86] Ahol e rendelet bármely dokumentum, javaslat, előterjesztés tervezet tekintetében benyújtási kötelezettséget ír elő az irányító hatóságnak az e rendeletben meghatározott más szerv részére, az abban foglalt javaslat a szakpolitikai felelőssel közös álláspontnak tekintendő, ha a szakpolitikai felelőst a 2. melléklet a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) szerint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban jelölte ki.
+(2)[^87] Ahol e rendelet bármely dokumentum, javaslat, előterjesztés tervezet tekintetében benyújtási kötelezettséget ír elő az irányító hatóságnak az e rendeletben meghatározott más szerv részére, az abban foglalt javaslat a szakpolitikai felelőssel közös álláspontnak tekintendő, ha a szakpolitikai felelőst a 2. melléklet a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) szerint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban jelölte ki.
 
-(3)[^87]
+(3)[^88]
 
-[^77]: A 17/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 8. §-a iktatta be.
-[^78]: A 18. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^79]: A 18. § (1) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 31. pontja szerint módosított szöveg.
-[^80]: A 18. § (1) bekezdés c) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
-[^81]: A 18. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 32. pontja szerint módosított szöveg.
-[^82]: A 18. § (1) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
-[^83]: A 18. § (1) bekezdés f) pontját a 347/2015. (XI. 20.) Korm. rendelet 50. § 6. pontja hatályon kívül helyezte.
-[^84]: A 18. § (1) bekezdés g) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
-[^85]: A 18. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^86]: A 18. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 33. pontja, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^87]: A 18. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 4. pontja hatályon kívül helyezte.
+[^78]: A 17/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 8. §-a iktatta be.
+[^79]: A 18. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^80]: A 18. § (1) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 31. pontja szerint módosított szöveg.
+[^81]: A 18. § (1) bekezdés c) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
+[^82]: A 18. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 32. pontja szerint módosított szöveg.
+[^83]: A 18. § (1) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
+[^84]: A 18. § (1) bekezdés f) pontját a 347/2015. (XI. 20.) Korm. rendelet 50. § 6. pontja hatályon kívül helyezte.
+[^85]: A 18. § (1) bekezdés g) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
+[^86]: A 18. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^87]: A 18. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 33. pontja, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^88]: A 18. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 4. pontja hatályon kívül helyezte.

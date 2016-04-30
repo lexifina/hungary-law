@@ -8,12 +8,12 @@
 
 (5) Ha terület-, illetve állatlétszám alapú támogatási kérelem kiválasztása során tisztázó kérdés alkalmazására kerül sor, annak eredménye nem vezethet a támogatási összeg növelésére. Terület-, illetve állatlétszám alapú támogatások kiválasztási eljárása során szóbeli egyeztetésre nem kerülhet sor.
 
-(6)[^232] EMVA forrásból nyújtott támogatás esetén a támogatási, illetve kifizetési kérelemmel érintett terület, illetve állatlétszám megállapítása és a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges adategyeztetés nem minősül hiánypótlásnak, tisztázó kérdésnek azzal, hogy az adategyeztetés időtartama nem számít bele az eljárás időtartamába.
+(6)[^233] EMVA forrásból nyújtott támogatás esetén a támogatási, illetve kifizetési kérelemmel érintett terület, illetve állatlétszám megállapítása és a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges adategyeztetés nem minősül hiánypótlásnak, tisztázó kérdésnek azzal, hogy az adategyeztetés időtartama nem számít bele az eljárás időtartamába.
 
-(7)[^233] A felhívás rendelkezhet úgy, hogy a terület-, illetve állatlétszám alapú támogatás igénybevételére benyújtott támogatási kérelem magában foglalja a kifizetési igénylést is.
+(7)[^234] A felhívás rendelkezhet úgy, hogy a terület-, illetve állatlétszám alapú támogatás igénybevételére benyújtott támogatási kérelem magában foglalja a kifizetési igénylést is.
 
-(8)[^234] EMVA forrásból támogatott intézkedés esetén az irányító hatóság és a kedvezményezett között létrejött támogatási jogviszony alanya lesz a kifizető ügynökség a KAP rendelet 7. cikke és az 55. § alapján az előleg-, illetve a kifizetési igénylés benyújtását követően.
+(8)[^235] EMVA forrásból támogatott intézkedés esetén az irányító hatóság és a kedvezményezett között létrejött támogatási jogviszony alanya lesz a kifizető ügynökség a KAP rendelet 7. cikke és az 55. § alapján az előleg-, illetve a kifizetési igénylés benyújtását követően.
 
-[^232]: Az 57/C. § (6) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 21. §-a iktatta be.
-[^233]: Az 57/C. § (7) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^234]: Az 57/C. § (8) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^233]: Az 57/C. § (6) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 21. §-a iktatta be.
+[^234]: Az 57/C. § (7) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^235]: Az 57/C. § (8) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.

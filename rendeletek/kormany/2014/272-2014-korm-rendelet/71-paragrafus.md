@@ -2,7 +2,7 @@
 
 ## KÖZÖSSÉGVEZÉRELT HELYI FEJLESZTÉS (CLLD) ESZKÖZ HASZNÁLATÁRA VONATKOZÓ SZABÁLYOK
 
-71. §[^278] (1) A közösségvezérelt helyi fejlesztés:
+71. §[^279] (1) A közösségvezérelt helyi fejlesztés:
 
 a) konkrét, szubregionális területekre összpontosít,
 
@@ -64,4 +64,4 @@ f) azt, hogy a működési költség a (6) bekezdés szerinti megállapodásban 
 
 (12) A (9) bekezdés b) pontja szerinti támogatási szerződés alapján folyósított támogatás felhasználható a munkaszervezetnél felmerült előkészítési költségekre, a közösségvezérelt helyi fejlesztési stratégia végrehajtásának irányításához kapcsolódó működési költségekre, valamint az érdekeltek közötti információcsere megkönnyítése, a közösségvezérelt HFS megvalósítás előmozdítása és HFS-monitoring költségeire (együtt: működési költségek).
 
-[^278]: A 71. § a 466/2015. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^279]: A 71. § a 466/2015. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
