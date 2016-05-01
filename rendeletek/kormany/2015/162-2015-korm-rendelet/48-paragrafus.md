@@ -1,3 +1,3 @@
-## 36–47. §[^22]
+## 36–47. §[^30]
 
-[^22]: A 36–47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 36–47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

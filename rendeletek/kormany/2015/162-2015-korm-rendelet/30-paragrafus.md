@@ -14,9 +14,9 @@ b) az RTP ösztöndíjaiban részesülő és 2015. augusztus 31-éig első szako
 
 ## az (1) bekezdés szerinti feltételeknek a támogatási időszak alatti folyamatos fennállása esetén.
 
-(3)[^15] A (2) bekezdésben foglalt ötéves jogosultsági időtartam szüneteltethető a szülési szabadság, a csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás időtartamára, ha a jogosult nem végez ezen időtartam alatt egészségügyi tevékenységet, valamint a betegség miatt 30 napot meghaladó keresőképtelenség időtartamára.
+(3)[^20] A (2) bekezdésben foglalt ötéves jogosultsági időtartam szüneteltethető a szülési szabadság, a csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás időtartamára, ha a jogosult nem végez ezen időtartam alatt egészségügyi tevékenységet, valamint a betegség miatt 30 napot meghaladó keresőképtelenség időtartamára.
 
-(4)[^16] Az (1) bekezdésben foglaltaktól eltérően a gyermekgondozási díjban vagy a gyermekgondozást segítő ellátásban részesülő és egészségügyi tevékenységet részmunkaidős foglalkoztatás keretében végző fiatal szakorvosok és kórházi, klinikai szakgyógyszerészek is jogosultak a fiatal szakorvosok támogatására.
+(4)[^21] Az (1) bekezdésben foglaltaktól eltérően a gyermekgondozási díjban vagy a gyermekgondozást segítő ellátásban részesülő és egészségügyi tevékenységet részmunkaidős foglalkoztatás keretében végző fiatal szakorvosok és kórházi, klinikai szakgyógyszerészek is jogosultak a fiatal szakorvosok támogatására.
 
 (5) A támogatás összege szakorvosonként havi bruttó 151 000 forint. A támogatás biztosítása érdekében igényelhető költségvetési forrás kifizetésére a számított munkáltatói járulékot és szociális hozzájárulási adót is magába foglalva kerül sor.
 
@@ -26,5 +26,5 @@ b) az RTP ösztöndíjaiban részesülő és 2015. augusztus 31-éig első szako
 
 (8) Az (1) bekezdés szerinti támogatást a támogatásban részesülőt foglalkoztató egészségügyi szolgáltató részére folyósítja az OEP, a szolgáltatónak az OEP-pel fennálló finanszírozási szerződése alapján.
 
-[^15]: A 30. § (3) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
-[^16]: A 30. § (4) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
+[^20]: A 30. § (3) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
+[^21]: A 30. § (4) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
