@@ -1,3 +1,3 @@
-## III. Fejezet[^156]
+## III. Fejezet[^160]
 
-[^156]: A 75. §-t megelőző fejezetcímet és alcímet a 191/2011. (IX. 20.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^160]: A 75. §-t megelőző fejezetcímet és alcímet a 191/2011. (IX. 20.) Korm. rendelet 32. §-a hatályon kívül helyezte.

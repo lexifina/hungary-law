@@ -14,6 +14,6 @@
 
 | 26. | Egyéb szolgáltatások |  |
 
-10. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^182]
+10. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^186]
 
-[^182]: A 10. számú mellékletet a 191/2011. (IX. 20.) Korm. rendelet 29. § (3) bekezdése iktatta be, hatályon kívül helyezte a 295/2011. Korm. rendelet 23. § (3) bekezdése.
+[^186]: A 10. számú mellékletet a 191/2011. (IX. 20.) Korm. rendelet 29. § (3) bekezdése iktatta be, hatályon kívül helyezte a 295/2011. Korm. rendelet 23. § (3) bekezdése.

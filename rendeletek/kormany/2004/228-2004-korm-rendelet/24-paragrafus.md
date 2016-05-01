@@ -1,8 +1,8 @@
-## 24. §[^60] Az ajánlatkérő az ajánlattételi felhívásban előírhatja, hogy az eljárásban nem lehet ajánlattevő vagy a beszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozó, illetőleg a d)–e), valamint g) pont tekintetében alvállalkozó, aki
+## 24. §[^63] Az ajánlatkérő az ajánlattételi felhívásban előírhatja, hogy az eljárásban nem lehet ajánlattevő vagy a beszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozó, illetőleg a d)–e), valamint g) pont tekintetében alvállalkozó, aki
 
 a) gazdasági, illetőleg szakmai tevékenységével kapcsolatban – öt évnél nem régebben meghozott – jogerős bírósági ítéletben megállapított jogszabálysértést követett el,
 
-b)[^61] a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-sal kapcsolatban – öt évnél nem régebben meghozott – jogerős és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható határozatában megállapított jogszabálysértést követett el; illetőleg ha az ajánlattevő ilyen jogszabálysértését más versenyhatóság vagy bíróság – öt évnél nem régebben – jogerősen megállapította,
+b)[^64] a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-sal kapcsolatban – öt évnél nem régebben meghozott – jogerős és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható határozatában megállapított jogszabálysértést követett el; illetőleg ha az ajánlattevő ilyen jogszabálysértését más versenyhatóság vagy bíróság – öt évnél nem régebben – jogerősen megállapította,
 
 c) korábbi – öt évnél nem régebben lezárult – közbeszerzési, illetve e rendelet hatálya alá tartozó beszerzési eljárás alapján vállalt szerződéses kötelezettségének megszegését jogerős közigazgatási, illetőleg bírósági határozat megállapította,
 
@@ -14,5 +14,5 @@ f) három évnél nem régebben súlyos, jogszabályban meghatározott szakmai k
 
 g) törlésre került a NATO beszállítói névjegyzékből.
 
-[^60]: A 24. § nyitó szövegrésze a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.
-[^61]: A 24. § b) pontja a 295/2011. (XII. 22.) Korm. rendelet 22. § (6) bekezdése szerint módosított szöveg.
+[^63]: A 24. § nyitó szövegrésze a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.
+[^64]: A 24. § b) pontja a 295/2011. (XII. 22.) Korm. rendelet 22. § (6) bekezdése szerint módosított szöveg.

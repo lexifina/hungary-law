@@ -1,4 +1,4 @@
-74/D. §[^148] (1) Amennyiben a keretmegállapodás megkötésére egyetlen ajánlattevővel kerül sor, a megállapodáson alapuló szerződéseket a keretmegállapodásban megállapított feltételek keretei között kell odaítélni. E szerződések odaítélése érdekében az ajánlatkérő írásban konzultálhat a keretmegállapodásban részt vevő ajánlattevővel, szükség szerint ajánlatának kiegészítését kérve.
+74/D. §[^152] (1) Amennyiben a keretmegállapodás megkötésére egyetlen ajánlattevővel kerül sor, a megállapodáson alapuló szerződéseket a keretmegállapodásban megállapított feltételek keretei között kell odaítélni. E szerződések odaítélése érdekében az ajánlatkérő írásban konzultálhat a keretmegállapodásban részt vevő ajánlattevővel, szükség szerint ajánlatának kiegészítését kérve.
 
 (2) Az ajánlatkérő nem élhet vissza a keretmegállapodással, és nem alkalmazhatja azt oly módon, hogy az a verseny akadályozásához, korlátozásához vagy torzításához vezetne.
 
@@ -14,4 +14,4 @@ c) az ajánlatokat írásban kell benyújtani, és tartalmuk az ajánlattételi 
 
 d) az ajánlatkérő minden egyes szerződést annak az ajánlattevőnek ítél oda, aki, illetve amely a keretmegállapodás ajánlati dokumentációjában megállapított bírálati szempontok alapján a legjobb ajánlatot nyújtotta be.
 
-[^148]: A 74/D. §-t a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.
+[^152]: A 74/D. §-t a 191/2011. (IX. 20.) Korm. rendelet 26. §-a iktatta be.

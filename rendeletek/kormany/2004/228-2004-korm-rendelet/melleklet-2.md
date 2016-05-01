@@ -1,6 +1,6 @@
-## 78. §[^168] Ez a rendelet a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 78. §[^172] Ez a rendelet a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-## 1. számú mellélet a 228/2004. (VII. 30) Korm. rendelethez[^169]
+## 1. számú mellélet a 228/2004. (VII. 30) Korm. rendelethez[^173]
 
 ## Általános megjegyzések:
 
@@ -1504,8 +1504,8 @@
 
 ## 9. Nyomrögzítő berendezések és anyagok.
 
-2. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^170]
+2. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez[^174]
 
-[^168]: A 78. §-t a 191/2011. (IX. 20.) Korm. rendelet 28. §-a iktatta be.
-[^169]: Az 1. számú melléklet a 95/2014. (III. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^170]: A 2. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^172]: A 78. §-t a 191/2011. (IX. 20.) Korm. rendelet 28. §-a iktatta be.
+[^173]: Az 1. számú melléklet a 95/2014. (III. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^174]: A 2. számú melléklet a 191/2011. (IX. 20.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.

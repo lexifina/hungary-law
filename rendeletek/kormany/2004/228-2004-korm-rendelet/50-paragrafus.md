@@ -1,14 +1,14 @@
-## 49. §[^109] Az ajánlatkérő a részvételi jelentkezések, illetve az ajánlatok elbírálásának befejezésekor a 6. számú melléklet szerint írásbeli összegezést köteles készíteni a részvételi jelentkezésekről, illetve az ajánlatokról.
+## 49. §[^113] Az ajánlatkérő a részvételi jelentkezések, illetve az ajánlatok elbírálásának befejezésekor a 6. számú melléklet szerint írásbeli összegezést köteles készíteni a részvételi jelentkezésekről, illetve az ajánlatokról.
 
-50. § (1)[^110] A részvételi jelentkezéseket, illetve az ajánlatokat a lehető legrövidebb időn belül kell az ajánlatkérőnek elbírálnia és azt követően a részvételi szakasz, illetve az eljárás eredményéről vagy eredménytelenségéről szóló írásbeli összegezést megküldenie.
+50. § (1)[^114] A részvételi jelentkezéseket, illetve az ajánlatokat a lehető legrövidebb időn belül kell az ajánlatkérőnek elbírálnia és azt követően a részvételi szakasz, illetve az eljárás eredményéről vagy eredménytelenségéről szóló írásbeli összegezést megküldenie.
 
-(2)[^111]
+(2)[^115]
 
 (3) A (2) bekezdés szerinti esetben – ha szükséges – az ajánlatkérő felkérheti az ajánlattevőket ajánlataiknak a szerződéskötés új időpontjának lejártáig történő fenntartására. Az ajánlattevő ajánlati kötöttsége – eltérő nyilatkozat hiányában – a szerződéskötés új időpontjának lejártáig tart.
 
-(4)[^112] Az ajánlatkérő az eredményhirdetést az ajánlattételi felhívásban meghatározott időponthoz képest korábbi időpontban is megtarthatja. Az ajánlatkérő a korábbi eredményhirdetési időpont előtt legalább két munkanappal korábban köteles az új időpontról, valamint a szerződéskötés új korábbi időpontjáról az összes ajánlattevőt egyidejűleg, közvetlenül, írásban tájékoztatni.
+(4)[^116] Az ajánlatkérő az eredményhirdetést az ajánlattételi felhívásban meghatározott időponthoz képest korábbi időpontban is megtarthatja. Az ajánlatkérő a korábbi eredményhirdetési időpont előtt legalább két munkanappal korábban köteles az új időpontról, valamint a szerződéskötés új korábbi időpontjáról az összes ajánlattevőt egyidejűleg, közvetlenül, írásban tájékoztatni.
 
-[^109]: A 49. § a 295/2011. Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^110]: Az 50. § (1) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^111]: Az 50. § (2) bekezdését a 295/2011. (XII. 22.) Korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
-[^112]: Az 50. § (4) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.
+[^113]: A 49. § a 295/2011. Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^114]: Az 50. § (1) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^115]: Az 50. § (2) bekezdését a 295/2011. (XII. 22.) Korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
+[^116]: Az 50. § (4) bekezdése a 295/2011. (XII. 22.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 28/A. §[^73] Az ajánlatkérő az ellátás és az információ biztonsága érdekében kötelezettségként előírhatja:
+## 28/A. §[^76] Az ajánlatkérő az ellátás és az információ biztonsága érdekében kötelezettségként előírhatja:
 
 a) az ajánlatkérőre vonatkozó minden olyan korlátozás feltüntetését, amely a beszerzés tárgyának nyilvánosságra hozatalára, átadására vagy használatára vonatkozik, és amely exportkorlátozással vagy biztonsági intézkedésekkel járhat;
 
@@ -16,4 +16,4 @@ g) az ajánlattevő kötelezettségvállalását a tekintetben, hogy a közösen
 
 h) az ajánlattevő kötelezettségvállalását arra vonatkozóan, hogy megfelelően biztosítja az összes birtokában lévő, illetve a szerződés időtartama alatt vagy annak lezárása után tudomására jutó minősített információ védelmét. A kötelezettségvállalásnak az ajánlattevőre és az összes alvállalkozóra ki kell terjednie.
 
-[^73]: A 28/A. §-t a 191/2011. (IX. 20.) Korm. rendelet 12. §-a iktatta be.
+[^76]: A 28/A. §-t a 191/2011. (IX. 20.) Korm. rendelet 12. §-a iktatta be.
