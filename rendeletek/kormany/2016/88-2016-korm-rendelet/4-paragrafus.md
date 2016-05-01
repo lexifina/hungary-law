@@ -1,0 +1,3 @@
+## 3. § A NAV Korm.r. 19. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A megyei igazgatóság, valamint a Repülőtéri Igazgatóság illetékességi területén kívül az állami adó- és vámhatóság vezetője adott ügyre vonatkozó engedélyével végezhet – a mélységi ellenőrzés és az EMGA utólagos ellenőrzés kivételével – ellenőrzést. Ilyen esetben az ellenőrzést követő elsőfokú hatósági eljárást is ez a megyei igazgatóság folytatja le. Az EMGA utólagos ellenőrzés esetén a Különleges Szolgálat vezetője jelöli ki az EMGA utólagos ellenőrzést, valamint az ehhez kötődő Vtv. 108. § szerinti kapcsolódó vizsgálatot lefolytató megyei igazgatóságot.”

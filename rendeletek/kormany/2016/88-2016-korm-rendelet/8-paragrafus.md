@@ -1,0 +1,5 @@
+## 7. § A NAV Korm.r. 37. §-a helyébe a következő rendelkezés lép:
+
+## „37. § (1) A helyhez kötött szállítóberendezéssel szállított áru tekintetében a behozatali és kiviteli irányú forgalom esetén egyaránt a helyhez kötött szállítóberendezést üzemeltető gazdálkodónak a szállított áru mennyiségének hiteles mérési adatait nyilvántartó székhelye, telephelye szerinti megyei igazgatóság jár el.
+
+## (2) A helyhez kötött szállítóberendezéssel szállított áruk árutovábbítás keretében történő vámfelügyeletének módszereiről szóló megállapodás megkötésében az eljárás jogosultjának a szállított áru mennyiségének hiteles mérési adatait nyilvántartó székhelye, telephelye szerinti megyei igazgatóság illetékes.”

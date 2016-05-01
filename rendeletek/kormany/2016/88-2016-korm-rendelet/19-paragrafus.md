@@ -1,0 +1,1 @@
+## „(4) A Bevetési Igazgatóság hivatalból ellátja – a megyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.”
