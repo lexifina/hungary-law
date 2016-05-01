@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-435-20-
 | 2014-12-23 | 2012-435-20-22.6 | 327/2014. (XII. 15.) Korm. rendelet |
 | 2015-04-01 | 2012-435-20-22.7 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-08-31 | 2012-435-20-22.8 | 215/2015. (VII. 31.) Korm. rendelet |
+| 2016-05-01 | 2012-435-20-22.9 | 88/2016. (IV. 29.) Korm. rendelet |
