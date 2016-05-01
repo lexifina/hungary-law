@@ -1,4 +1,4 @@
-2. melléklet a 236/2013. (VI. 30.) Korm. rendelethez
+2. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^13]
 
 ## Teljesítésigazolási Szakértői Szerv véleménye
 
@@ -96,7 +96,7 @@ II. Helyszíni szemle és vizsgálatok
 
 □ igen
 
-□ nem.
+□ nem
 
 2. Amennyiben helyszíni szemle megtartására sor került:
 
@@ -108,27 +108,35 @@ c) Helyszíni szemlén jelenlévők:
 
 d) Helyszíni szemle célja:
 
-e) Esetleges műszeres vizsgálat leírása, módszere, eredménye:
+e) Esetleges eltakart munkarész kibontásának leírása, költsége:
 
-f) Esetleges eltakart munkarész kibontásának leírása, költsége:
+f) Esetleges rendőri intézkedés szükségességének leírása:
 
-g) Esetleges rendőri intézkedés szükségességének leírása:
+g) Megállapítások:
 
-h) Megállapítások:
-
-3. Laboratóriumi vizsgálatra sor került-e
+3. Helyszíni műszeres vizsgálatra sor került-e
 
 □ igen
 
-□ nem.
+□ nem
 
-4. Amennyiben laboratóriumi vizsgálatra sor került:
+4/A. Amennyiben helyszíni műszeres vizsgálatra sor került:
 
-a) Laboratóriumi vizsgálat időpontja:
+a) Műszeres vizsgálat időpontja:
 
-b) Laboratóriumi vizsgálat helye:
+b) Műszeres vizsgálat helye:
 
-c) Laboratóriumi vizsgálat célja:
+c) Műszeres vizsgálat célja:
+
+d) Eredmények, megállapítások:
+
+4/B. Amennyiben laboratóriumi műszeres vizsgálatra sor került:
+
+a) Laboratóriumi műszeres vizsgálat időpontja:
+
+b) Laboratóriumi műszeres vizsgálat helye:
+
+c) Laboratóriumi műszeres vizsgálat célja:
 
 d) Eredmények, megállapítások:
 
@@ -146,15 +154,15 @@ III/A. Elemzés, értékelés
 
 a) Szerződésből megállapítható, kivitelezőt, vagy alvállalkozót terhelő munkák:
 
-b) Teljes bizonyossággal megállapíthatóan teljesített tervezési és kivitelezési munkák:
+b) Teljes bizonyossággal megállapíthatóan teljesített munkák:
 
-c) Kivitelezési munkák elvégzéséhez felhasznált anyagok:
+c) Munkák elvégzéséhez felhasznált anyagok:
 
-d) Szerződésben rögzített állapothoz mért teljes bizonyossággal megállapíthatóan teljesített tervezési és kivitelezési munkák minőségi, mennyiségi mutatói:
+d) Szerződésben rögzített állapothoz mért teljes bizonyossággal megállapíthatóan teljesített munkák minőségi, mennyiségi mutatói:
 
-e) Elvégzett tervezési és kivitelezési munkák értéke:
+e) Elvégzett munkák értéke:
 
-f) El nem végzett tervezési és kivitelezési munkák és azok értéke:
+f) El nem végzett munkák és azok értéke:
 
 III/B. Szakmai ténymegállapítás
 
@@ -166,7 +174,7 @@ a) Szerződés másolata
 
 b) Helyszíni szemle jegyzőkönyve
 
-Jelen szakértői vélemény ……… példányban készült.
+Jelen szakértői vélemény ......... példányban készült.
 
 Kelt: ........................... , ........ év .............................. hó .......... nap
 
@@ -187,3 +195,5 @@ neve
 aláírása
 
 P. H.
+
+[^13]: A 2. melléklet a 426/2015. (XII. 23.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 3. A Szerv tagjainak kinevezése és képesítése
 
-3. § (1) A Szerv tagja az az igazságügyi szakértő, aki a Tszszt. 3. § (2) bekezdés b) pontjában meghatározott szervezetek bevonásával kialakított véleményező bizottság (a továbbiakban: bizottság) által meghirdetett pályázati kiírásnak megfelelt és akit – a bizottság véleményének meghallgatása mellett – az építésgazdaságért felelős miniszter az igazságügyért felelős miniszter egyetértésével kinevezett.
+3. § (1)[^2] A Szerv tagja az az igazságügyi szakértő és az az építési műszaki ellenőr, aki a Tszszt. 3. § (2) bekezdés b) pontjában meghatározott szervezetek bevonásával kialakított véleményező bizottság (a továbbiakban: bizottság) által meghirdetett pályázati kiírásnak megfelelt, és akit – a bizottság véleményének meghallgatása mellett – az építésgazdaságért felelős miniszter az igazságügyért felelős miniszter egyetértésével kinevezett.
 
 (2) A bizottság az alábbi tizenegy főből áll:
 
@@ -14,11 +14,11 @@ d) a vezető.
 
 (3) A bizottsági ülés elnöke a vezető.
 
-(4) A Szerv vezetője, vezetőhelyettese, tagja az a személy lehet, aki az igazságügyi szakértői névjegyzékbe való felvételi eljárás során szükséges szakhatósági állásfoglalás kiadásának eljárási szabályairól szóló 208/2009. (IX. 29.) Korm. rendelet 1. mellékletének alábbi területeinek valamelyikén került bejegyzésre:
+(4)[^3] A Szerv vezetője, vezetőhelyettese, tagja az a személy lehet, aki vagy építési műszaki ellenőri jogosultsággal rendelkezik, vagy az igazságügyi szakértői névjegyzékbe való felvételi eljárás során szükséges szakhatósági állásfoglalás kiadásának eljárási szabályairól szóló 208/2009. (IX. 29.) Korm. rendelet 1. mellékletében szereplő alábbi területeinek valamelyikén került bejegyzésre:
 
-a) tűzvédelmi, vagy ipari baleset-megelőzési terület,
+a) tűzvédelmi-, vagy ipari baleset-megelőzési terület,
 
-b) közlekedéssel kapcsolatos sajátos építményfajtákra vonatkozó terület,
+b) közlekedési és közlekedéssel kapcsolatos sajátos építményfajtákra vonatkozó terület,
 
 c) környezetvédelem és természetvédelem területei,
 
@@ -41,3 +41,6 @@ c) lemondással,
 d) halállal.
 
 (7) A tagsági jogviszony visszavonása indokolással és a szakértői tevékenységre vonatkozó jogszabályok vétkes megszegésére való hivatkozással történhet, mely döntés ellen bírósághoz lehet fordulni. A határozat felülvizsgálatáról a bíróság nemperes eljárásban határoz. Ha az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló 1953. évi III. törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+
+[^2]: A 3. § (1) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (4) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

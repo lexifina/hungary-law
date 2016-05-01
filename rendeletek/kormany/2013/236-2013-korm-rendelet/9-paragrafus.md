@@ -2,7 +2,7 @@
 
 9. § (1) A szakértői vélemény elkészítése díjazás ellenében történik.
 
-(2) A szakértői díj a kérelmező által megjelölt vitatott nettó érték 1%-a, de legkevesebb 60 000 Ft és nem haladhatja meg a 450 000 Ft-ot. A szakértői díj a Szervet illeti, mely a szakértői tanács tagjai között a következők szerint oszlik meg: elnök 40%, tagok 30-30%.
+(2)[^11] A szakértői díj a kérelmező által megjelölt vitatott bruttó érték 1%-a, de legkevesebb bruttó 60 000 forint és nem haladhatja meg a bruttó 450 000 forintot. A szakértői díj a Szervet illeti, mely a szakértői tanács tagjai között a következők szerint oszlik meg: elnök 40%, tagok 30-30%. A Tszszt. 2. § (4) bekezdése által meghatározott eljárás esetében a szakértői díj az eljáró szakértői tanács tagját illeti.
 
 (3) A szakértői díjat a kérelmező a kérelem beadásakor fizeti meg a Magyar Kereskedelmi és Iparkamara elkülönített 10300002-20373432-71003285 számú alszámlájára. A szakértői tanács tagjai, elnöke a szakértői vélemény megküldésével egyidejűleg benyújthatják számláikat a vezetőnek, aki az ellenjegyzett példány másolatával együtt továbbítja azokat a kifizetést biztosító Magyar Kereskedelmi és Iparkamara részére. A 4. § (6) bekezdését ebben az esetben nem kell alkalmazni.
 
@@ -15,3 +15,5 @@
 (7) Az eljárás során felmerülő költségeket a szakértők számla ellenében utólag számolják el a Magyar Kereskedelmi és Iparkamarával.
 
 (8) A Szerv vezetője és vezetőhelyettese a Magyar Kereskedelmi és Iparkamarával áll megbízási jogviszonyban, a megbízási szerződést az építésgazdaságért felelős miniszter és az igazságügyért felelős miniszter jóváhagyja.
+
+[^11]: A 9. § (2) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.

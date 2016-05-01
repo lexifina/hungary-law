@@ -1,4 +1,4 @@
-1. melléklet a 236/2013. (VI. 30.) Korm. rendelethez
+1. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^12]
 
 ## Teljesítésigazolási Szakértői Szerv véleménye iránti kérelem
 
@@ -26,7 +26,7 @@ b) Helyszín birtokosának neve:
 
 c) Helyszín birtokosának elérhetősége:
 
-4. Biztosítékot (pl. bankgaranciát, kezességet) nyújtó személy adatai:
+4. Biztosítékot (pl. garanciát, kezességet) nyújtó személy adatai:
 
 a) Neve:
 
@@ -54,19 +54,19 @@ e) Mellékkötelezettséget biztosító szerződés száma:
 
 8. Csatolandó melléklet:
 
-a) Szerződés másolata ….. oldal
+a) Szerződés másolata ..... oldal
 
 b) Egyéb a szakértői döntést elősegítő dokumentum
 
-……………………………………… ….. oldal
+............................................. ..... oldal
 
-……………………………………… ….. oldal
+............................................. ..... oldal
 
-……………………………………… ….. oldal
+............................................. ..... oldal
 
-……………………………………..… ….. oldal
+............................................. ..... oldal
 
-c) Szerződést biztosító mellékkötelezettség másolata .…. oldal
+c) Szerződést biztosító mellékkötelezettség másolata ..... oldal
 
 d) Szerződést biztosító mellékkötelezettséget keletkeztető jogviszony időbeli hatályának meghosszabbításáról szóló dokumentum másolata
 
@@ -74,4 +74,8 @@ e) Szakértői díj megfizetésére vonatkozó igazolás
 
 Kelt: ........................... , ........ év .............................. hó .......... nap
 
-| ........................................... kérelmező aláírása |
+...........................................
+
+kérelmező aláírása
+
+[^12]: Az 1. melléklet a 426/2015. (XII. 23.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

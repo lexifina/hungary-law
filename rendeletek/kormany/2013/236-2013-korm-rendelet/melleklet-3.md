@@ -1,4 +1,4 @@
-3. melléklet a 236/2013. (VI. 30.) Korm. rendelethez
+3. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^14]
 
 ## Teljesítésigazolási Szakértői Szerv véleményének kivonata
 
@@ -92,6 +92,14 @@ e) Elvégzett tervezési és kivitelezési munkák értéke:
 
 f) El nem végzett tervezési és kivitelezési munkák és azok értéke:
 
+g) A szakértői tanács véleménye szerint a rendelkezésre álló dokumentumok és a helyszíni szemle szemrevételezése alapján a mellékkötelezettség érvényesítése
+
+□ indokolt,
+
+□ részben indokolt,
+
+□ nem indokolt.
+
 II/B. Szakmai ténymegállapítás
 
 III. Vélemény
@@ -117,3 +125,5 @@ neve
 aláírása
 
 P. H.
+
+[^14]: A 3. melléklet a 426/2015. (XII. 23.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

@@ -2,10 +2,18 @@
 
 7. § (1) A szakértői tanács tagjai független szakértőként járnak el. A szakértői vélemény tartalmát illetően nem kérhetnek és nem fogadhatnak el utasításokat sem a Szerv vezetőjétől, vezetőhelyettesétől, sem más személytől.
 
-(2)–(3)[^1]
+(2)[^8] A szakértői tanács a szakértői vélemény elkészítéséhez szükséges vizsgálatot – a kivitelezési szerződés vizsgálata esetén – nem köteles a kivitelezés helyszínén elvégezni, ha az eljárásban a felek írásban egybehangzóan nyilatkoznak arról, hogy
 
-(4) A Szerv szakvéleményének kialakítása érdekében a laboratóriumi vizsgálat szükségességét a vezető állapítja meg aki végzésben rendeli el a szükséges laboratóriumi vizsgálat részleteit. A felmerülő költségeket a minőségi kifogással élő fél előlegezi meg. A költségek viseléséről bíróság dönt a szakértői vélemény alapján.
+a) a kérelemmel érintett teljesítés elbontásra került, vagy
+
+b) a teljesítés szerződésszerűen megtörtént.
+
+(3)[^9]
+
+(4)[^10] A Szerv szakvéleményének kialakítása érdekében a helyszíni műszeres vizsgálat vagy a laboratóriumi műszeres vizsgálat szükségességét az eljáró szakértői tanács elnökének javaslata alapján a vezető állapítja meg, aki írásban rendeli el a szükséges helyszíni műszeres vizsgálat vagy a laboratóriumi műszeres vizsgálat részleteit. A felmerülő költségeket a minőségi kifogással élő fél előlegezi meg. A költségek viseléséről bíróság dönt.
 
 (5) Az eljáró tanács ügyintézési határidejébe a laboratóriumi vizsgálat időtartama nem számít bele.
 
-[^1]: A 7. § (2)–(3) bekezdését a 80/2014. (III. 14.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^8]: A 7. § (2) bekezdését a 80/2014. (III. 14.) Korm. rendelet 34. §-a hatályon kívül helyezte, újonnan a 426/2015. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^9]: A 7. § (3) bekezdését a 80/2014. (III. 14.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^10]: A 7. § (4) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
