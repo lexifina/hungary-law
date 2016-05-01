@@ -2,7 +2,7 @@
 
 (2) Adóraktározási eljárás hatálya alá nem vonható az a termék,
 
-a) amely a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet 4. cikkének 7. pontja értelmében nem minősül közösségi árunak, illetőleg
+a) amely az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Vámkódex) 5. cikk 23. pontja értelmében nem minősül uniós árunak, illetve
 
 b) amelyet közvetlenül kiskereskedelmi forgalomba helyezés céljára szánnak.
 

@@ -4,7 +4,7 @@
 
 a) a termék importja abban az esetben, ha a termék 2. § a) pontja szerinti értékesítése szintén mentes az adó alól;
 
-b) a termék 24. § (1) bekezdése szerinti importja abban az esetben, ha az a vámmentességek közösségi rendszerének létrehozásáról szóló 1186/2009/EK tanácsi rendeletben (a továbbiakban: Vámmentességi-rendelet) szabályozott vámmentességi jogcímek valamelyikének alkalmazása alá tartozik az abban, valamint a közösségi vámjog végrehajtásáról szóló törvényben (a továbbiakban: Vám tv.) meghatározottak szerint, feltéve, hogy e törvény másként nem rendelkezik;
+b) a termék 24. § (1) bekezdése szerinti importja abban az esetben, ha az a vámmentességek közösségi rendszerének létrehozásáról szóló 1186/2009/EK tanácsi rendeletben (a továbbiakban: Vámmentességi-rendelet) szabályozott vámmentességi jogcímek valamelyikének alkalmazása alá tartozik az abban, valamint az uniós vámjog végrehajtásáról szóló törvényben (a továbbiakban: Vám tv.) meghatározottak szerint, feltéve, hogy e törvény másként nem rendelkezik;
 
 c) a termék 24. § (2) bekezdése szerinti importja, feltéve, hogy arra a b) pont szerinti adómentesség vonatkozna akkor, ha a termék importja a 24. § (1) bekezdése szerint teljesülne;
 

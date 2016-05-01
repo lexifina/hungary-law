@@ -6,7 +6,7 @@ Adóraktározási eljárás
 
 2. Adóraktár:
 
-a) a jövedéki termékek kivételével az a vámhatóság által adóraktározási eljárás céljára engedélyezett raktár, amelynek engedélyezési és működtetési feltételei megegyeznek a Vámvégrehajtási-rendelet 525. cikkében meghatározott, A-típusú vámraktár engedélyezési és működtetési feltételeivel;
+a) a jövedéki termékek kivételével az a vámhatóság által adóraktározási eljárás céljára engedélyezett raktár, amelynek engedélyezési és működtetési feltételei – a biztosítéknyújtástól eltekintve – megegyeznek a vámjogszabályokban meghatározott, I. típusú közvámraktár engedélyezési és működtetési feltételeivel,
 
 b) a jövedéki termékek esetében a Jöt.-ben meghatározott adóraktár, feltéve, hogy azt – az adóraktár üzemeltetőjének, engedélyesének (a továbbiakban együtt: adóraktár üzemeltetője) kérelmére – a vámhatóság adóraktározási eljárás céljára is engedélyezte. Az engedély megszerzéséhez az szükséges, hogy az adóraktár maga és az adóraktár üzemeltetőjének nyilvántartása egyaránt alkalmas legyen az adóraktározási eljárás hatálya alá vonható jövedéki termékek és az ezen eljárás hatálya alá nem vonható jövedéki termékek egyértelmű, megbízható és maradéktalan elkülönítésére.
 
@@ -46,7 +46,7 @@ e) az adóraktár nyilvántartási száma és címe.
 
 13. Abban az esetben, ha a beraktározást nem maga a beraktározó indítványozza, a nevében és képviseletében eljárónak a beraktározási okmányhoz csatolnia kell nevére szóló írásos meghatalmazást is.
 
-14. A beraktározás indítványozásával egyidejűleg a vámhatóság áruvizsgálatot tart, amely tételes, szúrópróbaszerű vagy adminisztratív egyaránt lehet.
+14. A beraktározás indítványozásával egyidejűleg a vámhatóság áruvizsgálatot tart, amely teljes, részleges vagy az okmányokra irányuló egyaránt lehet.
 
 15. Az áruvizsgálat eredményét, valamint a beraktározás tényét és időpontját a vámhatóság a beraktározási okmány záradékolásával közli.
 
@@ -98,7 +98,7 @@ eredeti példányát vagy annak hiteles másolatát kell a vámhatóságnak bemu
 
 27. Abban az esetben, ha a kiraktározást nem maga a kiraktározó indítványozza, a nevében és képviseletében eljárónak a kiraktározási okmányhoz csatolnia kell a nevére szóló írásos meghatalmazást is.
 
-28. A kiraktározás indítványozásával egyidejűleg a vámhatóság áruvizsgálatot tart, amely tételes, szúrópróbaszerű vagy adminisztratív egyaránt lehet.
+28. A kiraktározás indítványozásával egyidejűleg a vámhatóság áruvizsgálatot tart, amely teljes, részleges vagy az okmányokra irányuló egyaránt lehet.
 
 29. Az áruvizsgálat eredményét, valamint a kiraktározás tényét és időpontját a vámhatóság a kiraktározási okmány záradékolásával közli.
 
@@ -148,7 +148,7 @@ b) a termék Közösségen belüli beszerzése után megállapított fizetendő 
 
 40. Mentesül a 39. a) alpontban meghatározott okirat-bemutatási kötelezettség alól a kiraktározó abban az esetben, ha a termék Közösség területéről való kiléptetésének tényéről a vámhatóság – az elektronikus kiviteli eljárás részeként, a kiviteli adatok vámhatóságok közötti informatikai adatcsere keretében – elektronikus üzenet formájában igazolást kapott.
 
-41. Az üzemeltető kérelmére a vámhatóság a raktár adóraktározási eljárás céljára történő engedélyezése során vagy azt követően engedélyezheti az adóraktározási eljárás egyszerűsített végrehajtását is (a továbbiakban: egyszerűsített adóraktározási eljárás), amelynek engedélyezési és működtetési feltételei megegyeznek a Vámvégrehajtási-rendelet 272–274. cikkeiben meghatározott, a helyi vámkezelési eljárás keretében történő vámraktározás engedélyezési és működtetési feltételeivel.
+41. Az üzemeltető kérelmére a vámhatóság a raktár adóraktározási eljárás céljára történő engedélyezése során vagy azt követően engedélyezheti az adóraktározási eljárás egyszerűsített végrehajtását is (a továbbiakban: egyszerűsített adóraktározási eljárás), amelynek engedélyezési és működtetési feltételei megegyeznek a vámjogszabályok által, a vámraktározásra meghatározott, a nyilatkozattevő nyilvántartásába való bejegyzés engedélyezésére megállapított feltételeknek.
 
 42. Egyszerűsített adóraktározási eljárás alkalmazásának esetében e melléklet hivatkozott rendelkezéseit a következő eltérésekkel kell alkalmazni:
 
@@ -190,4 +190,4 @@ c) az adóraktár üzemeltetője köteles a beraktározás [a) pont], illetőleg
 
 d) az adóraktár üzemeltetője köteles az értékesítésről szóló számla hiteles másolatának kézhezvételével egyidejűleg az adóraktár felügyeletét ellátó vámszervet értesíteni, ha az adóraktárban tárolt terméket értékesítették [17. pont];
 
-e) a vámhatóság engedélye alapján a Vámvégrehajtási-rendelet 14a. cikk (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkező beraktározó, illetve kiraktározó a 18/b alpont szerinti esetben okirat-bemutatási kötelezettségének legkésőbb a termék adójogi helyzete rendezésének igazolására megállapított határidőn (38. pont) belül, pótlólag is eleget tehet, feltéve, hogy a beraktározási okmány a beraktározás jogcíméül szolgáló ügylet teljesülését tanúsító okirat sorszáma helyett az ügylet beazonosítását szolgáló adatokat tartalmazza. A pótlásra rendelkezésre álló határidőt az egyszerűsített adóraktározási eljárás engedélyében rögzíteni kell.
+e) a vámhatóság engedélye alapján a Vámvégrehajtási-rendelet 14a. cikk (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal vagy a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedélyezett gazdálkodó engedéllyel rendelkező beraktározó, illetve kiraktározó a 18/b alpont szerinti esetben okirat-bemutatási kötelezettségének legkésőbb a termék adójogi helyzete rendezésének igazolására megállapított határidőn (38. pont) belül, pótlólag is eleget tehet, feltéve, hogy a beraktározási okmány a beraktározás jogcíméül szolgáló ügylet teljesülését tanúsító okirat sorszáma helyett az ügylet beazonosítását szolgáló adatokat tartalmazza. A pótlásra rendelkezésre álló határidőt az egyszerűsített adóraktározási eljárás engedélyében rögzíteni kell.

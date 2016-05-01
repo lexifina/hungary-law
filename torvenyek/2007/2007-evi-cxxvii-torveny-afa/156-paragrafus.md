@@ -1,18 +1,18 @@
-156. § (1) A 155. § (1) bekezdésétől eltérően – ide nem értve azokat az eseteket, amikor a vámtartozás a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet (a továbbiakban: Vámkódex) 201. cikkében meghatározottaktól eltérően keletkezik – az adót önadózással állapítja meg az az adófizetésre kötelezett, akinek (amelynek) azt kérelmére a vámhatóság engedélyezi.
+156. § (1) A 155. § (1) bekezdésétől eltérően – ide nem értve azokat az eseteket, amikor a vámtartozás a Vámkódex 79. cikkében meghatározottak alapján keletkezik – az adót önadózással állapítja meg az az adófizetésre kötelezett, akinek (amelynek) azt kérelmére a vámhatóság engedélyezi.
 
 (2) Az (1) bekezdésben említett engedély megszerzéséhez a következő feltételek teljesülése szükséges:
 
 a) a kérelmező belföldön nyilvántartásba vett adóalany, akinek (amelynek) nincs olyan, e törvényben szabályozott jogállása, amelynek alapján tőle adó fizetése ne lenne követelhető; továbbá
 
-b) a kérelmező a Vámtv. rendelkezései szerint megbízható vámadós, akire (amelyre) egyúttal teljesül, hogy a kérelem benyújtását megelőző naptári évben a 89., 98–109. és 111–112. §-ok szerint adómentes termékértékesítése, szolgáltatásnyújtása ellenértékeként megtérített vagy megtérítendő – éves szinten göngyölített – összeg eléri vagy meghaladja:
+b) a kérelmező a Vámkódex 39. cikk a) és c) pontjában meghatározott feltételt teljesíti, és egyúttal teljesül, hogy a kérelem benyújtását megelőző naptári évben a 89., 98–109. és 111–112. §-ok szerint adómentes termékértékesítése, szolgáltatásnyújtása ellenértékeként megtérített vagy megtérítendő – éves szinten göngyölített – összeg eléri vagy meghaladja:
 
 ba) az ugyanezen időszakban a 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása ellenértékeként megtérített vagy megtérítendő – adó nélkül számított és éves szinten göngyölített – összeghez viszonyítottan a 67 százalékos hányadot, de legalább a 10 milliárd forintot vagy
 
 bb) a 20 milliárd forintot; vagy
 
-c) a kérelmező a Vámkódex végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK bizottsági rendelet (a továbbiakban: Vámvégrehajtási-rendelet) 14a. cikke (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal rendelkezik; vagy
+c) a kérelmező a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló, 1993. július 2-i 2454/93/EGK bizottsági rendelet (a továbbiakban: Vámvégrehajtási-rendelet) 14a. cikk (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal vagy a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedélyezett gazdálkodó engedéllyel rendelkezik, vagy
 
-d) a kérelmező a Vámkódex 76. cikke (1) bekezdésének c) pontja szerinti egyszerűsített eljárásra vonatkozó, szabad forgalomba bocsátáshoz kiadott engedéllyel rendelkezik.
+d) a kérelmező a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-i 2913/92/EGK tanácsi rendelet 76. cikk (1) bekezdés c) pontja szerinti egyszerűsített eljárásra vonatkozó, szabad forgalomba bocsátáshoz kiadott engedéllyel vagy a Vámkódex 182. cikke szerinti „Bejegyzés a nyilatkozattevő nyilvántartásába” vagy a Vámkódex 185. cikke szerinti önértékelésre vonatkozó engedéllyel rendelkezik.
 
 (3) Abban az esetben, ha a kérelmező csoportos adóalany [8. §], vagy ha az engedélyes jogutódlással úgy szűnik meg, hogy jogutódja csoportos adóalany, a (2) bekezdésben meghatározott feltételek közül
 
@@ -20,7 +20,7 @@ a) az a) pontot a csoportos adóalanyiságban részt vevő valamennyi tagra egy�
 
 b) a b) pontot
 
-ba) a megbízható vámadósi státusz tekintetében a csoportos adóalanyiságban részt vevő valamennyi tagra külön-külön,
+ba) a Vámkódex 39. cikk a) és c) pontjában meghatározott feltétel tekintetében a csoportos adóalanyiságban részt vevő valamennyi tagra külön-külön,
 
 bb) egyéb, a ba) alpontban nem említett rendelkezései tekintetében a csoportos adóalanyiságban részt vevő valamennyi tagra összesítetten,
 
@@ -46,7 +46,7 @@ b) a (2) bekezdésben meghatározott feltételek közül az engedély megadásá
 
 ba) az a), c) vagy d) pontok bármelyike, illetőleg
 
-bb) a b) pont tekintetében a megbízható vámadósi státusz a (6) bekezdés a) pontjában említett esetben az ott meghatározott időtartamon belül
+bb) a b) pont tekintetében a Vámkódex 39. cikk a) vagy c) pontja a (6) bekezdés a) pontjában említett esetben az ott meghatározott időtartamon belül
 
 nem teljesül;
 

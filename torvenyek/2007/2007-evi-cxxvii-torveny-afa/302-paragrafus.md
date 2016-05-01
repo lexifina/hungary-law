@@ -1,0 +1,1 @@
+302. § E törvénynek az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvénnyel megállapított 4. számú melléklet 2. pont a) alpontját a 2016. április 30-át követően benyújtott kérelmek esetén kell alkalmazni.
