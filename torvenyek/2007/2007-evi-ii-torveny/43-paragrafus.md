@@ -12,7 +12,7 @@ d) aki a magyar állam által számára megtérítési kötelezettséggel megel�
 
 e) aki a kiszabott helyszíni bírságot, szabálysértési bírságot az előírt határidőig nem fizette meg, illetve annak végrehajtására nincs lehetőség;
 
-f) aki a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 61/A. § (6b)–(6c) bekezdése szerinti, jogerősen kiszabott vámigazgatási bírságot nem fizette meg, illetve annak végrehajtására nincs lehetőség.
+f) aki az uniós vámjog végrehajtásáról szóló törvény szerinti, jogerősen kiszabott vámigazgatási bírságot nem fizette meg, illetve annak végrehajtására nincs lehetőség.
 
 (2) Az idegenrendészeti hatóság – az e törvényben meghatározott kivétellel – idegenrendészeti kiutasítást rendel el azzal a harmadik országbeli állampolgárral szemben,
 
