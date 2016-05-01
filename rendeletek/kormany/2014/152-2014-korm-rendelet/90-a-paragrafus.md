@@ -4,8 +4,11 @@ a) a számvitelről szóló törvény szerinti könyvviteli szolgáltatást vég
 
 b) az adózás rendjéről szóló törvény szerinti adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezetként,
 
-c) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó szervezetként
+c) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény szerinti könyvvizsgálói közfelügyeleti feladatokat ellátó szervezetként,
+
+d)[^83] az uniós vámjog végrehajtásáról szóló törvény szerinti, a vámjogi szakértői hatósági képzést lebonyolító képző szervek, a vámjogi szakértői hatósági vizsgán közreműködő vizsgabiztosok, valamint a vámtanácsadók és a vámügynökök nyilvántartását végző szervezetként
 
 a minisztert jelöli ki.
 
 [^82]: A 90/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 829. §-a iktatta be.
+[^83]: A 90/A. § d) pontját a 88/2016. (IV. 29.) Korm. rendelet 32. § (1) bekezdése iktatta be.
