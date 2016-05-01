@@ -97,3 +97,29 @@ Távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó kül
 5.1.1.6. az IBAN bankszámlaszámot,
 
 5.1.1.7. a BIC kódot,
+
+5.1.1.8. az adóhatósággal történő kapcsolattartásra feljogosított személy (ún. kapcsolattartó) nevét, telefonszámát,
+
+5.1.1.9. az adózó állandó telephelye szerinti az Európai Közösség más tagállamában megállapított HÉA azonosító számot, vagy ennek hiányában adónyilvántartási számot,
+
+5.1.1.10. az Európai Közösség más olyan tagállama által az adózó részére megállapított HÉA azonosító számot, ahol az adózó nem telepedett le,
+
+5.1.1.11. a különös szabályozás hatálya alá eső tevékenység megkezdésének időpontját.
+
+5.1.2. Az adózó a különös szabályozás hatálya alá eső adókötelezettségét érintő változást – elektronikus úton, az Európai Unió vonatkozó, kötelező jogi aktusaiban meghatározott határidőben – bejelenti az állami adó- és vámhatóságnak. Ilyen változásnak minősül különösen valamely, a különös szabályozás hatálya alá tartozó tevékenység megszűntetése, vagy ha az adózó a továbbiakban már nem felel meg a különös szabályozás alkalmazásához szükséges feltételeknek.
+
+5.1.3. Az állami adó- és vámhatóság a bejelentés alapján az adózót a különös szabályozás hatálya alatt álló adózókra vonatkozó nyilvántartásába felveszi, amelyről elektronikus úton értesíti az adózót.
+
+5.1.4. Az adózó a különös szabályozás alkalmazásának időpontjától valamennyi, e különös szabályozás hatálya alá tartozó adókötelezettségét elektronikus úton a központi elektronikus szolgáltató rendszeren keresztül köteles teljesíteni az állami adó- és vámhatósághoz.
+
+5.1.5. A bejelentkezés kivételével az adókötelezettség ezen alcím alapján történő teljesítése során egyebekben az adóügyek állami adó- és vámhatóság előtt történő elektronikus intézésének szabályairól külön jogszabály előírásait kell megfelelően alkalmazni.
+
+5.1.6. Az állami adó- és vámhatóság kizárja a különös szabályozás alkalmazhatóságából
+
+5.1.6.1. az adózót, ha különös szabályozás hatálya alá tartozó szolgáltatás nyújtását befejezte,
+
+5.1.6.2. azt, akinél feltételezhető, hogy a különös szabályozás hatálya alá tartozó szolgáltatás-nyújtási tevékenysége befejeződött,
+
+5.1.6.3. az adózót, ha nem felel meg a különös szabályozás alkalmazására vonatkozó feltételeknek, és
+
+5.1.6.4. az adózót, ha rendszeresen nem tartja be a különös szabályozás alkalmazására vonatkozó előírásokat.

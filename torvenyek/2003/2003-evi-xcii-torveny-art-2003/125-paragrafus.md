@@ -2,9 +2,7 @@
 
 125. § (1) Az állami adó- és vámhatóság határozattal állapítja meg (kivetéses adózás)
 
-a) az általános forgalmi adó kivételével a termékimportot terhelő adót,
-
-b) a termékimportot terhelő általános forgalmi adót, ha az adózó az általános forgalmi adóról szóló törvény szerint nem általános forgalmiadó-alany, alanyi adómentességet választó adóalany, kizárólag közérdekű vagy egyéb speciális jellegére tekintettel adómentes tevékenységet végző adóalany, mezőgazdasági tevékenységet folytató, különleges jogállást választó adóalany, az állami adó- és vámhatóság engedélyével nem rendelkező általános forgalmiadó-alany, vagy az egyszerűsített vállalkozói adó alanya,
+a)–b)
 
 c) a regisztrációs adót,
 

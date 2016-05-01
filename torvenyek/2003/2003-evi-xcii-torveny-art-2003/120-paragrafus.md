@@ -14,7 +14,7 @@ d) törvényben előírt fizetési kötelezettségtől való eltérés engedély
 
 (3) Kérelemre indul különösen:
 
-a) a nyilvántartás vezetésével (ideértve a VPID szám megállapítását is) kapcsolatos,
+a) a nyilvántartás vezetésével kapcsolatos,
 
 b) a fizetési halasztás, részletfizetés engedélyezése iránti,
 
@@ -28,7 +28,7 @@ hatósági eljárás.
 
 (4) Hivatalból indul különösen:
 
-a) a nyilvántartás vezetésével (ideértve a VPID szám megállapítását is) kapcsolatos,
+a) a nyilvántartás vezetésével kapcsolatos,
 
 b) a hatósági adómegállapítás, adatszolgáltatás, bejelentés, bevallás alapján (adókivetés, illetékkiszabás),
 
