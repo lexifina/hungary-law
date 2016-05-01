@@ -1,0 +1,1 @@
+65. § Az egyéb terhek és a hitelkamat, továbbá a késedelmi kamat végrehajtásához, a túlfizetés, illetve a tartozatlanul megfizetett vám és egyéb terhek, valamint a hitelkamat, továbbá a késedelmi kamat visszaigényléséhez való jog elévülésére az Art. rendelkezéseit kell alkalmazni.

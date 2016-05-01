@@ -4,4 +4,4 @@
 
 ## 2. A Vámkódex 6. cikkéhez
 
-5. §
+5. § A gazdálkodó a számítógépesített rendszerének működési zavarát köteles a vámhatóságnak haladéktalanul bejelenteni.
