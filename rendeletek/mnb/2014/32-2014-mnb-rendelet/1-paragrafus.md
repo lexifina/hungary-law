@@ -4,11 +4,15 @@ a) a hitelnyújtó Magyarország területén hitel és pénzkölcsön nyújtási
 
 b) a fogyasztónak nyújtott pénzügyi lízingre azzal, hogy ahol e rendelet hitelt említ, ott pénzügyi lízinget, ahol törlesztőrészletet említ, ott lízingdíjat, ahol hiteltartozást említ, ott pénzügyi lízingszerződés alapján fennálló tartozást, ahol pedig adóstársat említ, ott a lízingbe vevőt és a lízingbe vevővel közeli hozzátartozói, élettársi kapcsolatban álló kezesként szereplő fogyasztót is érteni kell, kivéve, ha e rendelet ettől eltérően rendelkezik.
 
-(2) E rendeletet nem kell alkalmazni az értékpapír vagy betét teljes fedezete mellett nyújtott hitelre.
+(2)[^1] E rendeletet nem kell alkalmazni
+
+a) az értékpapír vagy betét teljes fedezete mellett nyújtott hitelre,
+
+b) az olyan, ingatlanra alapított jelzálogjog fedezete mellett nyújtott hitelre, amelynél a szerződés alapján fennálló hitel tőkeösszege folyamatosan növekszik, és a hitel visszafizetése a fogyasztó halálát, illetve a fedezetként szolgáló ingatlan életvitelszerű használatának felhagyását vagy értékesítését követően esedékes.
 
 (3) E rendeletet – a havi adósságszolgálatnak az 5. §-ban foglaltak szerinti megállapítása során történő beszámítás kivételével – nem kell alkalmazni
 
-a) a kétszázezer forintot meg nem haladó összegű hitelre, amennyiben az ügyfél a hitelkérelem elbírálásakor nem rendelkezik hiteltartozással olyan, a rendelet hatálybalépését követően igényelt hitelből eredően, amelynek eredeti hitelösszege nem haladta meg a kétszázezer forintot;
+a)[^2] a háromszázezer forintot meg nem haladó összegű hitelre – a hitelkeret emelésének kivételével –, amennyiben az ügyfél a hitelkérelem elbírálásakor nem rendelkezik hiteltartozással olyan, a rendelet hatálybalépését követően igényelt hitelből eredően, amelynek eredeti hitelösszege nem haladta meg a háromszázezer forintot;
 
 b) a fogyasztó fizetési nehézsége és késedelme miatt a meglévő hitelei módosítására, átütemezésére, amennyiben ezáltal a hiteltartozás fennálló összege nem növekszik, és az új hitel
 
@@ -30,9 +34,19 @@ g) a hallgatói hitelrendszerről szóló Korm. rendelet szerinti hallgatói hit
 
 h) azon hitelre, amely esetében az ügyfél helyébe – annak halálát követően – örököse lép;
 
-i) azon hitelre, amely esetében a hitelszerződés az ügyfelek személyében a h) ponton kívüli okból beálló változás miatt módosul, amennyiben az eredeti ügyfelek közül legalább egy továbbra is ügyfél marad, és a hiteltartozás összege nem növekszik.
+i) azon hitelre, amely esetében a hitelszerződés az ügyfelek személyében a h) ponton kívüli okból beálló változás miatt módosul, amennyiben az eredeti ügyfelek közül legalább egy továbbra is ügyfél marad, és a hiteltartozás összege nem növekszik;
 
-(4) E rendeletet – a havi adósságszolgálatnak az 5. §-ban foglaltak szerinti megállapítása során történő beszámítás kivételével – nem kell alkalmazni a fennálló hitelek más hitellel vagy pénzügyi lízinggel történő kiváltására, ha
+j)[^3] azon, az ügyfél által kezdeményezett, a rendelet legutolsó alkalmazásától számított három éven belüli, naptári évenként első alkalommal megvalósuló hitelkeret-emelésre, amely esetében:
+
+ja) a hitelkeret emelésének mértéke alkalmanként nem haladja meg a hitelkeret emelés előtti értékének 20%-a és háromszázezer forint közül az alacsonyabb összeget, és
+
+jb) az 5. § (1) bekezdésében meghatározott mutató nem haladja meg a 6. § (2) bekezdés a)–c) pontja szerinti értéket a hitelnyújtó számára elérhető, e rendeletben foglalt követelményeknek megfelelően igazolt, legutolsó információk alapján;
+
+k)[^4] a kizárólag a futamidő meghosszabbítására irányuló hitelszerződés-módosítás esetén;
+
+l)[^5] a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló Korm. rendelet alapján nyújtott hitelre.
+
+(4)[^6] E rendeletet – a havi adósságszolgálatnak az 5. §-ban foglaltak szerinti megállapítása során történő beszámítás kivételével – nem kell alkalmazni a hitelszerződésből vagy közüzemi szolgáltatóval szembeni tartozásból eredő követelés hitellel vagy pénzügyi lízinggel történő kiváltására, ha
 
 a) ezáltal a hiteltartozás összege nem növekszik a kiváltott hitel, illetve hitelek együttes összegéhez viszonyítva és
 
@@ -44,7 +58,13 @@ bb) kizárólag euróhitel, euró alapú hitel, ha valamennyi eredeti hitel eur�
 
 bc) kizárólag svájci frank hitel vagy svájci frank alapú hitel, ha valamennyi eredeti hitel svájci frank hitel vagy svájci frank alapú hitel.
 
-(5) E rendeletet – a 3. §-ban foglalt kivétellel – nem kell alkalmazni az olyan, ingatlanra alapított jelzálogjog fedezete mellett nyújtott hitelre, amelynél a szerződés alapján fennálló hitel tőkeösszege folyamatosan növekszik, és a hitel visszafizetésének esedékessége a fogyasztó halálát, illetve a fedezetként szolgáló ingatlan életvitelszerű használatának felhagyását vagy értékesítését követően áll be.
+(5)[^7] E rendelet
+
+a) 3. és 4. §-át a hitelszerződés kizárólag az adós személyének megváltoztatására irányuló módosításakor,
+
+b) 5. és 6. §-át – a havi adósságszolgálatnak az 5. §-ban foglaltak szerinti megállapítása során történő beszámítás kivételével – a hitelszerződés kizárólag fedezetcsere vagy fedezetkiengedés céljából történő módosításakor
+
+## nem kell alkalmazni.
 
 (6) E § alkalmazásában
 
@@ -53,3 +73,11 @@ a) a fizetőképesség helyreállításával indokolt mértékű hitelnyújtásn
 b) a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori összege a hitelnyújtók közötti árfolyamkülönbség és az eredeti hiteltartozás lezárásához vagy az új hitel folyósításához kapcsolódó igazolt díjak, költségek miatt haladja meg az eredeti hiteltartozás kiváltáskor fennálló összegét, és az új hitelnyújtó a hiteltartozás összegét haladéktalanul csökkenti az eredeti hitelnyújtó által hiteljóváírásra fel nem használt, visszautalt összeggel.
 
 (7) A hitelnyújtó a (3) bekezdés a) pontjában foglaltak fennállásáról az ügyfél írásbeli nyilatkozata vagy azon hitelinformációs rendszer lekérdezése alapján győződik meg, amelyhez a hitelnyújtó csatlakozott vagy amelynek tagja.
+
+[^1]: Az 1. § (2) bekezdése a 8/2016. (IV. 6.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdés a) pontja a 8/2016. (IV. 6.) MNB rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés j) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be.
+[^4]: Az 1. § (3) bekezdés k) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be.
+[^5]: Az 1. § (3) bekezdés l) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be.
+[^6]: Az 1. § (4) bekezdés nyitó szövegrésze a 8/2016. (IV. 6.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (5) bekezdése a 8/2016. (IV. 6.) MNB rendelet 1. § (4) bekezdésével megállapított szöveg.

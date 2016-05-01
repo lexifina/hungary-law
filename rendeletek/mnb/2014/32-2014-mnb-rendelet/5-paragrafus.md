@@ -6,7 +6,7 @@
 
 (4) Lakás-előtakarékossági szerződéssel vagy életbiztosítási szerződéssel kombinált hitel esetén a kapcsolódó befizetési kötelezettséget a hitelnyújtó havi törlesztőrészletként csak olyan mértékben számítja be, amilyen mértékben ezen kötelezettségeket az ügyfél nem mondhatja vissza egyoldalúan a hitelügylettől függetlenül.
 
-(5) Életbiztosítási szerződéssel kombinált hitel esetén, ha a kölcsön teljes vagy részleges törlesztése a kölcsönszerződés szerint életbiztosítási szerződésben meghatározott biztosítási összegből történik, a hitelnyújtó az ügyfél által fizetendő biztosítási díj havi – nem havi esedékességű díjfizetés esetén a biztosítási díj egy hónapra eső – összegét hozzáadja a havi adósságszolgálathoz. Ha a biztosítási szerződésben meghatározott biztosítási összeg magasabb a jövőbeni időpontban törlesztendő összegnél, a hitelnyújtó a havi adósságszolgálatba beszámítandó biztosítási díjat a törlesztendő összeg és a szerződésben meghatározott biztosítási összeg arányában csökkenti.
+(5)[^13] Életbiztosítási szerződéssel kombinált hitel esetén, ha a kölcsön teljes vagy részleges törlesztése a hitelszerződés szerint életbiztosítási szerződésben meghatározott biztosítási összegből történik, a hitelnyújtó az ügyfél által fizetendő biztosítási díj havi – nem havi esedékességű díjfizetés esetén a biztosítási díj egy hónapra eső – összegét hozzáadja a havi adósságszolgálathoz. Ha a biztosítási szerződésben meghatározott biztosítási összeg magasabb a jövőbeni időpontban törlesztendő összegnél, a hitelnyújtó a havi adósságszolgálatba beszámítandó biztosítási díjat a törlesztendő összeg és a szerződésben meghatározott biztosítási összeg arányában csökkenti.
 
 (6) A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény alapján rögzített árfolyamon törlesztett hitel esetén a hitelnyújtó a havi adósságszolgálatba az adósságszolgálat megállapítását megelőző hónapra vonatkozó havi törlesztőrészlet rögzített árfolyamon meghatározott részét számítja be.
 
@@ -15,3 +15,5 @@
 (8) Amennyiben a hitelnyújtó egy korlátozott időtartamra vagy összegre eltérő, kedvezményes kamatot és díjat számít fel vagy a tőketörlesztés megkezdésére haladékot nyújt, a havi adósságszolgálatba az adósságszolgálat megállapításakor érvényes, nem kedvezményes kamat, díj és tőketörlesztési feltétel alapján számított havi törlesztőrészletet számítja be.
 
 (9) A fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló Korm. rendelet és az otthonteremtési kamattámogatásról szóló Korm. rendelet alapján nyújtott hitel esetén a hitelnyújtó a havi adósságszolgálatba az adósságszolgálat megállapításakori havi törlesztőrészletet számítja be.
+
+[^13]: Az 5. § (5) bekezdése a 8/2016. (IV. 6.) MNB rendelet 3. § d) pontja szerint módosított szöveg.
