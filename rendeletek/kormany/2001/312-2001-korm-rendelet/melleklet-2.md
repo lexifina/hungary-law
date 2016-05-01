@@ -48,10 +48,11 @@ b) Minden év elején legkésőbb január 31-ig minden biztosító jelentést k�
 
 5.2. Értesítés döntés céljából
 
-a) Közösségi exportőrök vagy bankok egymással versengő ajánlata esetén bármely közreműködő biztosító azonnal válaszol egy másik közreműködő biztosító arra irányuló információkérésére, hogy milyen a szóban forgó ügyletbeli adósnak e rendelet 2 § (1) bekezdésének a) és b) alpontjában meghatározottak szerinti státusa.
+a)[^153] Uniós exportőrök vagy bankok egymással versengő ajánlata esetén bármely közreműködő biztosító azonnal válaszol egy másik közreműködő biztosító arra irányuló információkérésére, hogy milyen a szóban forgó ügyletbeli adósnak e rendelet 2 § (1) bekezdésének a) és b) alpontjában meghatározottak szerinti státusa.
 
 b) Az adós státusát illető vita esetén a közreműködő biztosítók a rendelkezésre álló információkat a többi biztosító számára hozzáférhetővé teszik, hogy megállapodjanak egy kölcsönösen elfogadott státusban.
 
 c) Amennyiben a biztosítók az információkéréstől számított 10 munkanapon belül nem tudnak megállapodni az adós státusáról, a közreműködő biztosítók az ügyet a vonatkozó információval együtt a Bizottság tudomására hozzák, amely a reá vonatkozó eljárásnak megfelelően határozatot hoz.
 
 [^152]: A 2. számú mellékletet a 303/2005. (XII. 25.) Korm. rendelet 18. §-a iktatta be, egyidejűleg a rendelet eredeti mellékletének számozását 1. számú mellékletre változtatva.
+[^153]: A 2. számú melléklet 5.2. pont a) alpontja a 88/2016. (IV. 29.) Korm. rendelet 23. § (2) bekezdés c) pontja szerint módosított szöveg.
