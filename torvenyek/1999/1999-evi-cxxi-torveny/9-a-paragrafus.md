@@ -2,7 +2,7 @@
 
 a) a külgazdaság feltételrendszerének javítása érdekében közreműködjenek a kereskedelemfejlesztéssel, a külföldön végzett vagy külföldre irányuló, továbbá a külföldiek számára belföldön végzett gazdasági tájékoztató és propagandamunkában, a gazdálkodó szervezetek ez irányú tevékenységét összehangolják, ennek keretében vásárokat, kiállításokat, konferenciákat és más rendezvényeket szervezzenek;
 
-b) közreműködjenek az európai uniós csatlakozásból, illetve tagságból eredő, a gazdálkodó szervezeteket és az egyes szakmákat érintő tájékoztatási és képzési feladatok ellátásában – kivéve azokat a képzési területeket, ahol a kamarák ellenőrzési jogkörrel rendelkeznek – ennek részeként pályázati módszertani útmutatót állítsanak össze, tájékoztatást adjanak az európai uniós pályázati lehetőségekről és feltételekről és az egyes szakmákat érintő közösségi jogszabályokról, a közösségi intézmények egyéb aktusairól és az Európai Bizottság döntéseiről;
+b) közreműködjenek az európai uniós csatlakozásból, illetve tagságból eredő, a gazdálkodó szervezeteket és az egyes szakmákat érintő tájékoztatási és képzési feladatok ellátásában – kivéve azokat a képzési területeket, ahol a kamarák ellenőrzési jogkörrel rendelkeznek – ennek részeként pályázati módszertani útmutatót állítsanak össze, tájékoztatást adjanak az európai uniós pályázati lehetőségekről és feltételekről és az egyes szakmákat érintő uniós jogszabályokról, a uniós intézmények egyéb aktusairól és az Európai Bizottság döntéseiről;
 
 c) előmozdítsák a gazdálkodó szervezeteknek a szabványosítással, minőségüggyel és az iparjogvédelemmel összefüggő tevékenységét, ezekhez módszertani segítséget nyújtsanak és támogassák e területeken a képzést és a továbbképzést;
 

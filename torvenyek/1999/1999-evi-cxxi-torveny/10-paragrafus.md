@@ -2,7 +2,7 @@
 
 10. § (1) A gazdasági kamarák az üzleti forgalom biztonságának és a piaci magatartás tisztességének megteremtése, megőrzése, illetve fokozása érdekében
 
-a) árukra vonatkozó származási igazolásokat, bizonyítványokat és kereskedelmi forgalomban szükséges más okmányokat állítanak ki, illetve hitelesítenek;
+a) árukra vonatkozó, az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet szerinti származási igazolásokat, bizonyítványokat és kereskedelmi forgalomban szükséges más okmányokat állítanak ki, illetve hitelesítenek,
 
 b) összeállítják és közreadják a kereskedelmi szokványokat;
 
