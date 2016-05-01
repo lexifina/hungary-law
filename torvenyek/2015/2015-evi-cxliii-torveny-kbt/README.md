@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2015-12-12 | 2015. évi CXCI. törvény | 2015-143-00-00.3 |
 | 2015-12-24 | 2015. évi CCXXVI. törvény | 2015-143-00-00.4 |
 | 2016-01-01 | 2015. évi CCXXIII. törvény | 2015-143-00-00.5 |
+| 2016-05-01 | 2016. évi XIII. törvény | 2015-143-00-00.6 |
