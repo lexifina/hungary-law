@@ -1,4 +1,4 @@
-## 9. [^21] Uniós Általános Exportengedély
+## 9. [^23] Uniós Általános Exportengedély
 
 13. § (1) Az Uniós Általános Exportengedély kiadására jogosult szervezet az Európai Unió.
 
@@ -26,4 +26,4 @@ h) a kivitel végleges vagy ideiglenes jellegét; és
 
 i) ideiglenes kivitel esetében a visszaszállítás dátumát.
 
-[^21]: A 9. alcím (13. §) a 209/2012. (VII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^23]: A 9. alcím (13. §) a 209/2012. (VII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.

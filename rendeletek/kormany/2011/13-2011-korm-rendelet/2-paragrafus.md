@@ -4,11 +4,11 @@
 
 1. Behozatal:
 
-a)[^3] olyan kereskedelmi ügylet, amelynek során az Európai Unió vámterületén kívüli területről nem közösségi árut hoznak be Magyarország területére, ideértve a vámszabad területre, a tranzitterületre történő behozatalt is;
+a)[^3] olyan kereskedelmi ügylet, amelynek során az Európai Unió vámterületén kívüli területről nem uniós árut hoznak be Magyarország területére, ideértve a vámszabad területre, a tranzitterületre történő behozatalt is;
 
-b) az Európai Unió vámterületén kívüli területről a Közösségi Vámkódex létrehozásáról szóló 2913/1992/EGK tanácsi rendelet (a továbbiakban: Közösségi Vámkódex) 114. cikkében foglalt aktív feldolgozásra beérkező áru, a 137. cikkében meghatározott ideiglenes behozatalra kerülő áru, a 145. cikkében foglaltak szerint passzív feldolgozásra kivitt áru visszahozatala, valamint a 185. cikkében meghatározott tértiáru behozatala, vagy
+b)[^4] az Európai Unió vámterületén kívüli területről az Uniós Vámkódex létrehozásáról szóló 952/2013/EU rendelet 201. cikk c) pontjában foglalt ideiglenes behozatalra kerülő áru, valamint a 210. cikk d) pontjában foglalt aktív feldolgozásra kerülő áru, a 210. cikk d) pontjában foglaltak szerint passzív feldolgozásra kivitt áru visszahozatala, valamint a 203. cikkében meghatározott tértiáru behozatala, vagy
 
-c)[^4] szoftver vagy technológia átvétele elektronikus eszközök, telefax vagy telefon útján az Európai Unió vámterületén kívülről Magyarország területére.
+c)[^5] szoftver vagy technológia átvétele elektronikus eszközök, telefax vagy telefon útján az Európai Unió vámterületén kívülről Magyarország területére.
 
 2. Behozatali nyilatkozat: az okirat, amelyben egy személy meghatározott formában és módon kinyilvánítja szándékát, hogy kettős felhasználású terméket kíván behozatali eljárás alá vonni.
 
@@ -20,9 +20,9 @@ c)[^4] szoftver vagy technológia átvétele elektronikus eszközök, telefax va
 
 a) akinek nevében a behozatali nyilatkozatot teszik;
 
-b)[^5] aki a nyilatkozat elfogadásakor az Európai Unión kívüli harmadik országbeli fél szerződő partnere, és jogosult a termék Európai Unió vámterületén kívülről Magyarország területére történő beszállításának végrehajtására, továbbá amennyiben nem kötöttek behozatali szerződést vagy a szerződő fél nem saját nevében tevékenykedik, akkor a terméknek Magyarország területére történő beszállítására szóló jogosultság a meghatározó, vagy
+b)[^6] aki a nyilatkozat elfogadásakor az Európai Unión kívüli harmadik országbeli fél szerződő partnere, és jogosult a termék Európai Unió vámterületén kívülről Magyarország területére történő beszállításának végrehajtására, továbbá amennyiben nem kötöttek behozatali szerződést vagy a szerződő fél nem saját nevében tevékenykedik, akkor a terméknek Magyarország területére történő beszállítására szóló jogosultság a meghatározó, vagy
 
-c)[^6] aki úgy dönt, hogy elektronikus úton, telefaxon vagy telefonon szoftvert vagy technológiát hoz be Magyarország területére.
+c)[^7] aki úgy dönt, hogy elektronikus úton, telefaxon vagy telefonon szoftvert vagy technológiát hoz be Magyarország területére.
 
 6. Külkereskedelmi forgalom: a vállalkozás külkereskedelmi ügyletének eredménye.
 
@@ -30,17 +30,17 @@ c)[^6] aki úgy dönt, hogy elektronikus úton, telefaxon vagy telefonon szoftve
 
 8. Nemzeti Általános Exportengedély: a 428/2009/EK rendelet 2. cikk 11. bekezdése szerint, meghatározott termékre és meghatározott célországra (célországokra) kiadott exportengedély, mely alapján az exportőr az abban foglaltak szerint, külön engedélyezési eljárás lefolytatása nélkül folytathat külkereskedelmi tevékenységet.
 
-9.[^7] Nemzetközi non-proliferációs kötelezettség: az Ausztrália Csoport, a Rakétatechnológia Ellenőrzési Rendszer, a Nukleáris Szállítók Csoportja, a Wassenaari Megállapodás, a Zangger-bizottság, valamint az 1997. évi CIV. törvénnyel kihirdetett, a vegyi fegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény (a továbbiakban: Vegyifegyver Tilalmi Egyezmény), az 1970. évi 12. törvényerejű rendelettel kihirdetett, az Egyesült Nemzetek Szervezete Közgyűlésének XXII. ülésszakán, 1968. június 12-én elhatározott, a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés, az 1975. évi 11. törvényerejű rendelettel kihirdetett, a bakteriológiai (biológiai) és toxin-fegyverek kifejlesztésének, előállításának és tárolásának megtiltásáról és e fegyverek megsemmisítéséről szóló, az Egyesült Nemzetek Szervezete XXVI. ülésszakán, 1971. december 10-én elfogadott egyezmény (a továbbiakban: Biológiai- és Toxin-fegyver Tilalmi Egyezmény).
+9.[^8] Nemzetközi non-proliferációs kötelezettség: az Ausztrália Csoport, a Rakétatechnológia Ellenőrzési Rendszer, a Nukleáris Szállítók Csoportja, a Wassenaari Megállapodás, a Zangger-bizottság, valamint az 1997. évi CIV. törvénnyel kihirdetett, a vegyi fegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény (a továbbiakban: Vegyifegyver Tilalmi Egyezmény), az 1970. évi 12. törvényerejű rendelettel kihirdetett, az Egyesült Nemzetek Szervezete Közgyűlésének XXII. ülésszakán, 1968. június 12-én elhatározott, a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés, az 1975. évi 11. törvényerejű rendelettel kihirdetett, a bakteriológiai (biológiai) és toxin-fegyverek kifejlesztésének, előállításának és tárolásának megtiltásáról és e fegyverek megsemmisítéséről szóló, az Egyesült Nemzetek Szervezete XXVI. ülésszakán, 1971. december 10-én elfogadott egyezmény (a továbbiakban: Biológiai- és Toxin-fegyver Tilalmi Egyezmény).
 
-9a.[^8] Nemzetközi szankció: az Európai Unió, az ENSZ Biztonsági Tanácsa és az Európai Biztonsági és Együttműködési Szervezet által elfogadott kereskedelmi szankció.
+9a.[^9] Nemzetközi szankció: az Európai Unió, az ENSZ Biztonsági Tanácsa és az Európai Biztonsági és Együttműködési Szervezet által elfogadott kereskedelmi szankció.
 
-9b.[^9] Nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék: az Európai Unió, az ENSZ Biztonsági Tanácsa és az Európai Biztonsági és Együttműködési Szervezet által elfogadott nemzetközi szankcióban elrendelt kiviteli korlátozás alá eső kettős felhasználású és nem kettős felhasználású termék.
+9b.[^10] Nemzetközi szankcióban elrendelt külkereskedelmi korlátozás alá eső termék: az Európai Unió, az ENSZ Biztonsági Tanácsa és az Európai Biztonsági és Együttműködési Szervezet által elfogadott nemzetközi szankcióban elrendelt kiviteli korlátozás alá eső kettős felhasználású és nem kettős felhasználású termék.
 
 10. Nukleáris kettős felhasználású termék: a 428/2009/EK tanácsi rendelet I. melléklete „0 kategóriájában” és az „1–9 kategóriáiban” felsorolt a ..200-..299 végződésű sorszámok alatt szereplő termék.
 
 11. Szolgáltatás: minden olyan műszaki támogató tevékenység, amely a kettős felhasználású termék javításával, fejlesztésével, gyártásával, összeszerelésével, minőségi vizsgálatával, üzemeltetésével, karbantartásával vagy bármely más műszaki szolgáltatással kapcsolatos.
 
-12.[^10] Transzfer: a 428/2009/EK tanácsi rendelet IV. mellékletében felsorolt kettős felhasználású terméknek az Európai Unió vámterületén belüli átadása.
+12.[^11] Transzfer: a 428/2009/EK tanácsi rendelet IV. mellékletében felsorolt kettős felhasználású terméknek az Európai Unió vámterületén belüli átadása.
 
 13. Vállalkozás: az olyan jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági tevékenység folytatása céljából jött létre, továbbá az egyéni vállalkozó; az állam, a helyi önkormányzat, a költségvetési szerv, az egyesület, a köztestület, valamint az alapítvány.
 
@@ -48,11 +48,12 @@ c)[^6] aki úgy dönt, hogy elektronikus úton, telefaxon vagy telefonon szoftve
 
 15. Végfelhasználói Nyilatkozat: az a nyilatkozat, amelyet a végfelhasználó, címzett tesz, és amelyben vállalja, hogy a kettős felhasználású terméket kizárólag a nyilatkozatban megjelölt feltételekkel és módon fogja felhasználni.
 
-[^3]: A 2. § 1. pont a) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § 1. pont c) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § 5. pont b) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^6]: A 2. § 5. pont c) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^7]: A 2. § 9. pontja a 209/2012. (VII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § 9a. pontját a 209/2012. (VII. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^9]: A 2. § 9b. pontját a 209/2012. (VII. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^10]: A 2. § 12. pontja a 209/2012. (VII. 27.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^3]: A 2. § 1. pont a) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja, a 88/2016. (IV. 29.) Korm. rendelet 27. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § 1. pont b) alpontja a 88/2016. (IV. 29.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 1. pont c) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 5. pont b) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § 5. pont c) alpontja a 209/2012. (VII. 27.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § 9. pontja a 209/2012. (VII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § 9a. pontját a 209/2012. (VII. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 2. § 9b. pontját a 209/2012. (VII. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^11]: A 2. § 12. pontja a 209/2012. (VII. 27.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
