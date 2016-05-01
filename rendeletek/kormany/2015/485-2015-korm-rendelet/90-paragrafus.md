@@ -12,7 +12,7 @@ a) ellátja a pénzügyi jogszabálysértések megelőzése és felderítése é
 
 b) végzi – kizárólag helyszíni eljárás keretében – az Art. 88. § (6) és (7) bekezdése, valamint az Art. 119. §-a szerinti ellenőrzéseket, továbbá ellenőrzi – a megyei igazgatóságok mellett – a pénztárgépek üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek teljesítését;
 
-c) eljárása során végzi az ellenőrzött személy NAV-val szemben fennálló tartozásának vizsgálatát;
+c)[^33] végzi a NAV tv. 36/M. §-a szerinti feladatokat,
 
 d) a NAV tv. 13. § (8) bekezdés e) pontja szerinti mélységi ellenőrzéseket végez;
 
@@ -20,7 +20,7 @@ e) az állami adó- és vámhatóság vezetőjének vámszakmai és nemzetközi 
 
 f) megteszi a vám- és jövedéki jogszabályok és a NAV vámszerveinek feladatait meghatározó egyéb jogszabályok megsértésének észlelése, gyanúja esetén a jogsértés megszüntetése, mértékének felderítése és a bizonyítékok biztosítása érdekében a szükséges intézkedéseket;
 
-g) lefolytatja a Jöt. 114. § (6) bekezdésében meghatározott gyorsított eljárást;
+g)[^34] lefolytatja a Jöt. 114. § (6) bekezdésében meghatározott, általa felderített jogsértések esetén a gyorsított eljárást,
 
 h) végrehajtja a szabálysértési eljárásban elrendelt elővezetést;
 
@@ -32,7 +32,7 @@ k) kizárólagos hatáskörrel végzi a nyomozó hatóság felkérése alapján 
 
 l) ellátja a NAV nyomozó szervei által elrendelt személyi védelmet;
 
-m)[^1] őrzésvédelmi – így különösen a Nemzetgazdasági Minisztériumnak a miniszter elhelyezését biztosító épülete és a NAV feladatellátása szempontjából kiemelkedően fontos objektum védelmével kapcsolatos – feladatokat végez;
+m)[^35] őrzésvédelmi – így különösen a Nemzetgazdasági Minisztériumnak a miniszter elhelyezését biztosító épülete és a NAV feladatellátása szempontjából kiemelkedően fontos objektum védelmével kapcsolatos – feladatokat végez;
 
 n) végzi a NAV saját hatáskörében lefoglalt dolgok élő erős őrzésével, kísérésével összefüggő feladatokat, valamint anyagi javak őrzését, kísérését és szállítását, továbbá a NAV más szervének felkérése alapján a lefoglalt dolgok megsemmisítése során a helyszín biztosítását; valamint
 
@@ -44,7 +44,7 @@ p) egyéb művelet-támogató tevékenységet végez, ideértve a szolgálati fe
 
 (3) A NAV tv. 36/E. § (3) bekezdése alapján kizárólag a Bevetési Igazgatóság járhat el.
 
-(4) A Bevetési Igazgatóság hivatalból ellátja – a megyei igazgatóságok, a Repülőtéri Igazgatóság valamint a KAVIG mellett – a vámazonosító szám megállapításával és nyilvántartásával kapcsolatos feladatokat.
+(4)[^36] A Bevetési Igazgatóság hivatalból ellátja – a megyei igazgatóságok, a Repülőtéri Igazgatóság, valamint a KAVIG mellett – a vámazonosító szám megállapításával, nyilvántartásával és érvénytelenítésével kapcsolatos feladatokat.
 
 (5) A Bevetési Igazgatóság folytatja le az ismeretlen személy jövedéki ügyével kapcsolatos eljárást, ha az első intézkedést a Bevetési Igazgatóság tette.
 
@@ -52,4 +52,7 @@ p) egyéb művelet-támogató tevékenységet végez, ideértve a szolgálati fe
 
 (7) A Bevetési Igazgatóság által felderített szabálysértések tekintetében a szabálysértési eljárás lefolytatására – ha az eljárás gyorsabb és eredményesebb lefolytatása indokolja – a Bevetési Igazgatóság is jogosult.
 
-[^1]: A 90. § (1) bekezdés m) pontja a 85/2016. (IV. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^33]: A 90. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^34]: A 90. § (1) bekezdés g) pontja a 88/2016. (IV. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^35]: A 90. § (1) bekezdés m) pontja a 85/2016. (IV. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^36]: A 90. § (4) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.

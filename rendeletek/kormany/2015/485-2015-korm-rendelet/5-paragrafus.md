@@ -28,4 +28,11 @@ k) szakhatóságként jár el a kábítószer-prekurzorokról szóló, 2004. feb
 
 l) szakhatóságként jár el a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 14/A. § (1) és (2) bekezdésében meghatározott másodfokú eljárásban, valamint
 
-m) képviseli a NAV-ot a Határellenőrzési Munkacsoportban.
+m) képviseli a NAV-ot a Határellenőrzési Munkacsoportban,
+
+n)[^1] ellátja a vámjogszabályok alkalmazása tekintetében az Európai Bizottság felé teljesítendő tagállami feladatokat;
+
+o)[^2] ellátja a több tagállamot érintő engedélyek másik tagállam vámhatósága részére történő továbbításával kapcsolatos feladatokat.
+
+[^1]: Az 5. § n) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 5. § o) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.

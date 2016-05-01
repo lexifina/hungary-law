@@ -1,4 +1,4 @@
-## 62. § A KAVIG végzi a 61. § a)–c), e)–i), l), n) és q) pontja szerinti feladatok ellátásával összefüggő, a Vtv. 7/C. § (1) bekezdés a), b), d) és e) pontja szerinti utólagos ellenőrzést.
+## 62. §[^27] A KAVIG végzi a 61. § a)–b), l) és n) pontja szerinti feladatok ellátásával összefüggő vámellenőrzést, ideértve az áruátengedést követő ellenőrzést is.
 
 ## 24. A KAVIG különös hatásköri szabályai egyes adózók vonatkozásában
 
@@ -41,3 +41,5 @@ i) az Art. 4. és 10. számú mellékletében meghatározott külföldi illetős
 (4) A KAVIG az állami adó- és vámhatóság vezetőjének utasítására, honvédelmi vagy nemzetbiztonsági érdekek által indokolt esetben a hatáskörébe nem tartozó, a Magyar Honvédséggel, illetve a nemzetbiztonsági szolgálatokkal szerződéses kapcsolatban állt vagy álló adózónál is végezhet az állami adó- és vámhatóság hatáskörébe tartozó eljárásokban ellenőrzést. Ebben az esetben az ellenőrzés eredménye alapján megindítandó hatósági eljárást is a KAVIG folytatja le.
 
 (5) Ha a KAVIG által folytatott ellenőrzés megalapozott lefolytatásához az Art. 87. § (1) bekezdés c) és d) pontja szerinti ellenőrzés kapcsolódó vizsgálatként való lefolytatására van szükség olyan adózónál, amely (aki) nem tartozik a KAVIG különös hatáskörébe, a kapcsolódó vizsgálatot, valamint az azt követő hatósági eljárást a KAVIG folytatja le, vagy – ha célszerűségi, szakmai szempontból indokolt – a KAVIG az ellenőrzés és szükség szerint a hatósági eljárás lefolytatása céljából megkeresi az általános szabályok szerint hatáskörrel és illetékességgel rendelkező megyei igazgatóságot.
+
+[^27]: A 62. § a 88/2016. (IV. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

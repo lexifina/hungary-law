@@ -18,4 +18,6 @@ c) 8. §-a és a 14. § a) pontja az adókból, vámokból, illetékekből és e
 
 (4) Az 35. § (9) bekezdése a szellemi tulajdonjogok vámhatósági érvényesítéséről és az 1383/2003/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. június 12-ei 608/2013/EU európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.
 
-(5) A 15. §, a 35. § (1)–(8) bekezdései, a 36–43. §, a 45. §, a 61–62. § és a 67. § az EK Vámkódex 4. cikk 4. pontjának való megfelelést szolgálja.
+(5)[^39] A 15. §, a 35. §, a 36–42. §, a 61–62. § és a 67. § a Vámkódex 159. cikkének való megfelelést szolgálja.
+
+[^39]: A 98. § (5) bekezdése a 88/2016. (IV. 29.) Korm. rendelet 19. §-ával megállapított szöveg.

@@ -2,40 +2,40 @@
 
 ## 18. Vám- és jövedéki eljárásokkal kapcsolatos különös illetékesség
 
-35. § (1) Az áruk vámeljárás alá vonását – eltérő rendelkezés hiányában – az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi, amelynek az illetékességi területén az árukat vámeljárás alá bejelentik.
+35. §[^9] (1) Az áruk vámeljárás alá vonása, az áruk uniós státuszának igazolása és az exportszállításokhoz igényelt származási igazolás kiadása és utólagos megerősítése – a nem preferenciális származás és a közös agrárpolitika hatálya alá tartozó termékek kivételével – tekintetében, ha jogszabály eltérően nem rendelkezik, az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság illetékes, amelynek illetékességi területén az árukat vám elé állítják.
 
-(2) A Vtv. 7/C. § (1) bekezdés b) pontja szerinti utólagos ellenőrzést az a megyei igazgatóság vagy a Repülőtéri Igazgatóság folytatja le, amely a vámeljárást lefolytatta, vagy indokolt esetben – ha az nem azonos a vámeljárást lefolytató szervvel – az ellenőrzés lefolytatása céljából megkeresi az arra az általános szabályok szerint hatáskörrel és illetékességgel rendelkező területi szervet.
+(2) Vámellenőrzés – ideértve az áruátengedést követő ellenőrzést is – lefolytatására – a (3) bekezdés kivételével – az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság az illetékes, amelynél az ellenőrzéssel érintett árunyilatkozatot vagy az értesítést benyújtották.
 
-(3) Vámügyekben az engedélyezési eljárás lefolytatását – ha jogszabály eltérően nem rendelkezik – az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi, amelynek az illetékességi területén a kérelmezett tevékenységet gyakorolni kívánják.
+(3) Ha az érintett személy árunyilatkozatait vagy az értesítéseit több területi vámszervnél nyújtják be, az a területi szerv az illetékes, ahol a gazdálkodó vámügyi tevékenységével kapcsolatos főkönyveit vezetik, vagy azok hozzáférhetőek.
 
-(4) A (3) bekezdéstől eltérően a kérelmező székhelye (lakóhelye) szerinti megyei igazgatóság, vagy ha a kérelmező székhelye (lakóhelye) a Repülőtéri Igazgatóság illetékességi területén van, a Repülőtéri Igazgatóság végzi
+(4) Ha vámellenőrzés a vámügyi engedélyekkel folytatott tevékenységek jogszerűségének ellenőrzésére irányul, a vámellenőrzést az érintett személy állandó üzleti telephelye szerint illetékes területi szerv is lefolytathatja.
 
-a) az összkezesség és biztosítéknyújtás alóli mentesség engedélyezését;
+(5) Vámügyekben az engedélyezési eljárás lefolytatását – ha jogszabály eltérően nem rendelkezik – az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi, amelynek az illetékességi területén a kérelmező vámügyi tevékenységekkel kapcsolatos főkönyveit vezetik, vagy ahol ezek hozzáférhetőek, és ahol a határozat hatálya alá eső tevékenységeknek legalább egy részét végezni fogják.
 
-b) a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló, 1993. július 2-ai 2454/93/EGK bizottsági rendelet (a továbbiakban: EK végrehajtási rendelet) 398. cikke szerinti engedélyezett feladói státusz engedélyezését;
+(6) Az (5) bekezdéstől eltérően a kérelmező székhelye (lakóhelye) szerinti megyei igazgatóság, vagy ha a kérelmező székhelye a Repülőtéri Igazgatóság illetékességi területén van, a Repülőtéri Igazgatóság végzi
 
-c) az EK végrehajtási rendelet 912g. cikke szerinti engedélyezett feladói státusz engedélyezését;
+a) a vámtanácsadói vagy vámügynöki tevékenységre irányuló kérelem előzetes vizsgálatát,
 
-d) az EK végrehajtási rendelet 406. cikke szerinti engedélyezett címzett státusz, valamint az EK végrehajtási rendelet 454a. cikke szerinti TIR eljáráshoz kapcsolódó engedélyezett címzett státusz engedélyezését;
+b) a könyvelés szerinti elkülönülés engedélyezését,
 
-e) az áruk uniós jellegére vonatkozóan engedélyezett feladó által adott igazolás engedélyezését;
+c) az A.TR. engedélyezett exportőri tevékenység engedélyezését,
 
-f) a preferenciális származó helyzet igazolására feljogosító elfogadott exportőri tevékenység engedélyezését;
+d) az INF 4 adatlap hitelesítését,
 
-g) a könyvelés szerinti elkülönülés engedélyezését;
+e) a preferenciális származó helyzet igazolására feljogosító elfogadott exportőri tevékenység engedélyezését, valamint a regisztrált exportőri nyilvántartásba vételét,
 
-h) a vámügynöki tevékenység engedélyezését;
+f) az Európai Parlament és a Tanács az Uniós Vámkódex létrehozásáról szóló 952/2013/EU rendelete (a továbbiakban: Vámkódex) 73. cikke szerinti egyszerűsítés engedélyezését, kivéve kapcsolatban álló személyek közötti ügyletekkel kapcsolatos engedélyezését.
 
-i) az A.TR. engedélyezett exportőri tevékenység engedélyezését, valamint
+(7) A Vámkódex 230. cikke alapján a TIR-műveletek engedélyezett címzetti státusa, illetve az áruk uniós árutovábbítási eljárás alá vonására jogosító, a Vámkódex 233. cikk (4) bekezdés b) pontja szerinti engedélyezett címzetti státus kapcsán az engedélyezési feladatokat az érkeztetés helye szerint illetékes megyei igazgatóság, illetve a Repülőtéri Igazgatóság látja el. Abban az esetben, ha több igazgatóság is illetékes – mivel több érkeztetési helyszín van – az engedélyezési feladatokat az az igazgatóság látja el, ahová a kérelmet először benyújtják.
 
-j) az INF 4 adatlap hitelesítését.
+(8) A Vámkódex 233. cikk (4) bekezdés a) pontja szerinti engedélyezett feladói státus kapcsán az engedélyezési feladatokat az indítás helye szerint illetékes megyei igazgatóság, illetve a Repülőtéri Igazgatóság látja el. Abban az esetben, ha több igazgatóság is illetékes – mivel több indítási helyszín van – az engedélyezési feladatokat az az igazgatóság látja el, ahová a kérelmet először benyújtják.
 
-(5) Az Áfa törvény 4. számú mellékletében meghatározott engedélyezési feladatokat az adóraktár működési helye szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság látja el. Az adóraktár felügyeletét az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság látja el, amelynek illetékességi területén az adóraktár található.
+(9) Az Áfa törvény 4. számú mellékletében meghatározott engedélyezési feladatokat az adóraktár működési helye szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság látja el. Az adóraktár felügyeletét az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság látja el, amelynek illetékességi területén az adóraktár található.
 
-(6) A vámszabad területen történő ellenőrzéseket, valamint az ilyen területen történő építkezésre vonatkozó előzetes jóváhagyást az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi, amelynek az illetékességi területén a vámszabad terület található.
+(10) A vámszabad területen történő ellenőrzéseket, valamint az ilyen területen történő építkezésre vonatkozó előzetes jóváhagyást az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi, amelynek az illetékességi területén a vámszabad terület található.
 
-(7) A Vtv. 7/Q. §-a szerinti kapcsolódó vizsgálatot az utólagos ellenőrzést végző területi szerv folytatja le, vagy indokolt esetben az ellenőrzés lefolytatása céljából megkeresi az arra az általános szabályok szerint hatáskörrel és illetékességgel rendelkező területi szervet.
+(11) A Magyar Honvédség és a Magyarországon állomásozó fegyveres erők valamely egysége érdekében vagy által, NATO 302. formanyomtatvány használatával végzett árumozgások esetén a vámellenőrzések és vámalakiságok lefolytatására valamennyi megyei igazgatóság, a Kiemelt Adó- és Vámigazgatóság és a Repülőtéri Igazgatóság jogosult.
 
-(8) A (7) bekezdés szerinti esetben az utólagos ellenőrzést végző területi szerv a Vtv. 7/Q. §-a szerinti kapcsolódó vizsgálatot illetékességi területén kívül is végezhet.
+(12) A NATO 302. formanyomtatványoknak az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. november 24-i 2447/2015/EU bizottsági rendelet (a továbbiakban: VA) 286. cikk a) pontja szerinti előzetes hitelesítésére a Kiemelt Adó- és Vámigazgatóság jogosult.
 
-(9) Az egyes szellemi tulajdonjogokat sértő áruk elleni vámhatósági intézkedésekről szóló 556/2013. (XII. 31.) Korm. rendelet 1. § (2) bekezdésében és 2. § (2) bekezdésében meghatározott vámhatósági feladatokat országos illetékességgel az Észak-budapesti Adó- és Vámigazgatóság látja el.
+[^9]: A 35. § a 88/2016. (IV. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

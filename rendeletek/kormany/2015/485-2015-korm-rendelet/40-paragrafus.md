@@ -1,4 +1,4 @@
-## 40. § Az AEO tanúsítvány kiadását, felügyeletét, újbóli értékelését, illetve az egyszerűsített engedélyezési eljárás során az AEO tanúsítvány feltételek vizsgálatát
+## 40. §[^16] Az AEO feltételek vizsgálatát, az AEO engedély kiadását, az AEO státus nyomon követését, újraértékelését
 
 a) ha a kérelmező székhelye vagy lakóhelye Budapest, illetve Pest megye közigazgatási területén található, és a kérelmező nem kiemelt adózó, az Észak-budapesti Adó- és Vámigazgatóság;
 
@@ -15,3 +15,5 @@ f) ha a kérelmező székhelye vagy lakóhelye Bács-Kiskun megye, Békés megye
 g) ha a kérelmező székhelye vagy lakóhelye Baranya megye, Somogy megye, Tolna megye területén található, a Baranya Megyei Adó- és Vámigazgatóság
 
 végzi.
+
+[^16]: A 40. § nyitó szövegrésze a 88/2016. (IV. 29.) Korm. rendelet 20. §-ával megállapított szöveg.

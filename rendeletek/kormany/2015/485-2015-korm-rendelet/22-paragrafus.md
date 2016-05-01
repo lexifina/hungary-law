@@ -6,9 +6,9 @@
 
 a) az Art. 85/A. §-a szerinti adóhatósági igazolásokkal kapcsolatos ügyintézés;
 
-b) a magánszemély részére az adóazonosító jel kiadása, a vámazonosító szám kiadása, valamint az adóigazolvánnyal kapcsolatos ügyintézés;
+b)[^7] a magánszemély részére az adóazonosító jel kiadása, a vámazonosító szám kiadása és érvénytelenítése, valamint az adóigazolvánnyal kapcsolatos ügyintézés;
 
-c) az adószám kiadása, vámazonosító szám kiadása közvetlenül az állami adó- és vámhatóságnál bejelentésre kötelezett személyek, illetve szervezetek részére;
+c)[^8] az adószám kiadása, vámazonosító szám kiadása és érvénytelenítése közvetlenül az állami adó- és vámhatóságnál bejelentésre kötelezett személyek, illetve szervezetek részére;
 
 d) az egészségügyi szolgáltatási járulék fizetési kötelezettség bejelentéssel kapcsolatos ügyintézés;
 
@@ -35,3 +35,6 @@ n) a felelős játékszervezés részletes szabályairól szóló 329/2015. (XI.
 o) az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 73. § (7) bekezdése, valamint az Itv. 74. § (1) bekezdése szerinti, a 10 000 forintot meghaladó eljárási illetékkiszabás alapján történő megfizetése és az illetékköteles irat illetékkiszabásra történő bemutatása tényének igazolása.
 
 (2) Az (1) bekezdésben meghatározott ügyekben a 63. § (1) bekezdés e) és h) pontjában megjelölt adózó – az állami adó- és vámhatóság vezetője által kijelölt ügyfélszolgálatokon személyesen benyújtott – beadványa alapján bármelyik megyei igazgatóság eljárhat.
+
+[^7]: A 22. § (1) bekezdés b) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: A 22. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

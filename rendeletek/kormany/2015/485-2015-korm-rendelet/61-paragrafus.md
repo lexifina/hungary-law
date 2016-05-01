@@ -6,7 +6,7 @@ a) az elektromos vezetéken szállított energia tekintetében valamennyi vámel
 
 b) a biztonsági papírok szabad forgalomba bocsátása és az ahhoz kapcsolódó szállítási engedélyek ellenőrzése;
 
-c) a Vtv. 54. § (1) bekezdésében meghatározott halasztott vámfizetés engedélyezése;
+c)[^21] a Vtv. 70. §-ában meghatározott halasztott vámfizetés engedélyezése;
 
 d) a különleges zárak jóváhagyása;
 
@@ -14,7 +14,7 @@ e) az egységes árutovábbítási eljárások szerinti TC32 Egyedi garanciajegy
 
 f) a kezességvállalás engedélyezése;
 
-g) a vámszabad terület és vámszabad raktár engedélyezésével összefüggő feladatok ellátása;
+g)[^22]
 
 h) a vámmentes vámkezelésre jogosultak körét szabályozó NGM rendelet szerinti engedélyek kiadása;
 
@@ -36,10 +36,21 @@ n) a légi forgalom kivételével a Magyarország területén működő diplomá
 
 o) a párlat adójegy kivételével az adójegyekkel, zárjegyekkel kapcsolatos első fokú feladatok ellátása az adójegy és a zárjegy felhasználásának helyszíni ellenőrzése és elszámolása, valamint az azt követő hatósági eljárás kivételével;
 
-p) a Vtv. 1. § (3) bekezdés 3. pontjában meghatározott – megbízható vámadós jogálláshoz kapcsolódó – feltételek fennállásának megállapítása és ellenőrzése, ha a kérelmező székhelye, telephelye, számviteli nyilvántartásának helye, lakóhelye, tartózkodási helye nem Magyarországon van;
+p)[^23]
 
-q) az EK végrehajtási rendelet 372. cikk (1) bekezdés f) pont i. alpontja szerinti vasúton vagy konténerben szállított áruk egyszerűsített árutovábbítására vonatkozó engedélyezés, illetve az EK végrehajtási rendelet 415. cikke és 429. cikk (1) bekezdése szerinti ellenőrzési feladatok elvégzése;
+q)[^24] a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó, a szükséges elektronikus rendszerek működésbe lépéséig alkalmazandó átmeneti szabályok tekintetében történő kiegészítéséről, valamint az 2015/2446/EU bizottsági felhatalmazáson alapuló rendelet módosításáról szóló, felhatalmazáson alapuló 2016/341/EU bizottsági rendelet 25. cikk (1) bekezdése szerinti engedélyezés, illetve a 41. cikke szerinti ellenőrzési feladatok elvégzése.
 
 r) az államháztartási bevételi számlára előírás nélküli téves befizetés magyarországi székhellyel nem rendelkezők részére kérelemre történő visszautalással kapcsolatos feladatok ellátása;
 
-s) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 5. § (1) bekezdés c) pontjában foglalt forgalmi érték meghatározása.
+s) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 5. § (1) bekezdés c) pontjában foglalt forgalmi érték meghatározása;
+
+t)[^25] a Vámkódex 35. cikke szerinti kötelező érvényű felvilágosítás határozatok kiadása;
+
+u)[^26] a kapcsolatban álló személyek közötti ügyletek esetén a Vámkódex 73. cikke szerinti egyszerűsítés engedélyezése.
+
+[^21]: A 61. § c) pontja a 88/2016. (IV. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^22]: A 61. § g) pontját a 88/2016. (IV. 29.) Korm. rendelet 21. § 3. pontja hatályon kívül helyezte.
+[^23]: A 61. § p) pontját a 88/2016. (IV. 29.) Korm. rendelet 21. § 4. pontja hatályon kívül helyezte.
+[^24]: A 61. § q) pontja a 88/2016. (IV. 29.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^25]: A 61. § t) pontját a 88/2016. (IV. 29.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^26]: A 61. § u) pontját a 88/2016. (IV. 29.) Korm. rendelet 12. § (3) bekezdése iktatta be.

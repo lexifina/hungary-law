@@ -1,1 +1,5 @@
-## 36. § A vámösszegek megállapítása, valamint azok beszedése, könyvelése annak a megyei igazgatóságnak, illetve a Repülőtéri Igazgatóságnak a feladata, amelynek illetékességi területén a vámtartozás keletkezett vagy a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-ei 2913/92/EGK tanácsi rendelet (a továbbiakban: EK Vámkódex) 215. cikke alapján keletkezettnek kell tekinteni.
+37. §[^11] (1) A helyhez kötött szállítóberendezéssel szállított áru tekintetében a behozatali és kiviteli irányú forgalom esetén egyaránt a helyhez kötött szállítóberendezést üzemeltető gazdálkodónak a szállított áru mennyiségének hiteles mérési adatait nyilvántartó székhelye, telephelye szerinti megyei igazgatóság jár el.
+
+(2) A helyhez kötött szállítóberendezéssel szállított áruk árutovábbítás keretében történő vámfelügyeletének módszereiről szóló megállapodás megkötésében az eljárás jogosultjának a szállított áru mennyiségének hiteles mérési adatait nyilvántartó székhelye, telephelye szerinti megyei igazgatóság illetékes.
+
+[^11]: A 37. § a 88/2016. (IV. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
