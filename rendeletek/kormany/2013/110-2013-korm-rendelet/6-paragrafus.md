@@ -46,7 +46,7 @@ ob) a lóféle tenyésztőjének nevét, címét.
 
 (4) Az 504/2008/EK bizottsági rendelet I. melléklete szerinti lóútlevél
 
-a)[^1] I. szakasza A. és B. részébe, II. és III. szakaszába a kibocsátó szerv vagy megbízottja,
+a)[^2] I. szakasza A. és B. részébe, II. és III. szakaszába a kibocsátó szerv vagy megbízottja,
 
 b) IV. szakaszába az ellenőrzést végző hatóság, a NÉBIH, és az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatal (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatóság), a kezelő állatorvos, valamint az ellenőrzés helyéül szolgáló rendezvény rendezéséért felelős szakmai szervezet,
 
@@ -54,12 +54,12 @@ c) V. és VI. szakaszába a kezelést végző állatorvos,
 
 d) VII. szakaszába a laboratóriumi vizsgálatot megrendelő állatorvos,
 
-e)[^2] VIII. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatóság,
+e)[^3] VIII. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatóság,
 
 f) IX. szakaszába a tulajdonos, illetve a tulajdonos megbízásából az állat tartója és az eljáró állatorvos,
 
-g)[^3] X. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatóság
+g)[^4] X. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatóság
 
-[^1]: A 6. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § a) pontja szerint módosított szöveg.
-[^2]: A 6. § (4) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § b) pontja szerint módosított szöveg.
-[^3]: A 6. § (4) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § b) pontja szerint módosított szöveg.
+[^2]: A 6. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § a) pontja szerint módosított szöveg.
+[^3]: A 6. § (4) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § b) pontja szerint módosított szöveg.
+[^4]: A 6. § (4) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § b) pontja szerint módosított szöveg.

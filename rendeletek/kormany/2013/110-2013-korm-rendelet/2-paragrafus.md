@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya a Magyarország területén született vagy a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-i 2913/92/EGK tanácsi rendelet szerint Magyarország területén szabad forgalomba bocsátott lófélék azonosítására, a Magyarország területére behozott lófélék bejelentésére, az azonosító okmány használatára, valamint a lófélék tenyésztési és tartási adatainak nyilvántartására terjed ki.
+## 1. §[^1] E rendelet hatálya a Magyarország területén született vagy az Uniós Vámkódex létrehozásáról szóló 952/2013/EU rendelet szerint Magyarország területén szabad forgalomba bocsátott lófélék azonosítására, a Magyarország területére behozott lófélék bejelentésére, az azonosító okmány használatára, valamint a lófélék tenyésztési és tartási adatainak nyilvántartására terjed ki.
 
 2. § (1) E rendelet alkalmazásában:
 
@@ -41,3 +41,5 @@
 19. transzponder: olyan elektronikus azonosító eszköz, amely megfelel az 504/2008/EK bizottsági rendelet 2. cikk (2) bekezdés b) pontja szerinti követelményeknek.
 
 (2) E rendelet alkalmazásában az 504/2008/EK bizottsági rendelet fogalom-meghatározásait is alkalmazni kell.
+
+[^1]: Az 1. § a 88/2016. (IV. 29.) Korm. rendelet 30. §-a szerint módosított szöveg.

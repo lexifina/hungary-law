@@ -10,6 +10,6 @@
 
 (5) Ez a rendelet a 90/426/EGK és a 90/427/EGK tanácsi irányelvnek a lófélék azonosítási módszereinek tekintetében történő végrehajtásáról szóló, 2008. június 6-i 504/2008/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(6)[^12]
+(6)[^13]
 
-[^12]: A 15. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 15. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
