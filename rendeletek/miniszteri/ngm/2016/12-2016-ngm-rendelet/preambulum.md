@@ -1,0 +1,1 @@
+Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 119. § (1) bekezdés 24. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
