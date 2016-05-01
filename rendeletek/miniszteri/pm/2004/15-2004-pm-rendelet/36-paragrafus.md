@@ -1,1 +1,0 @@
-## 35. § Az EK végrehajtási rendelet 527. cikke (2) bekezdésének a) pontjában meghatározott kiskereskedelmi értékesítés csak abban az esetben folytatható, ha az értékesítési hely kizárólag az EK végrehajtási rendelet 236. cikke szerinti utasok számára hozzáférhető.
