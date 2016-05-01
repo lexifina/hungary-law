@@ -26,7 +26,9 @@ d) az ápolást végző vagy az ápolt személy tartózkodási joga megszűnt va
 
 e) az (1) bekezdésben megjelölt jogosultságot kizáró körülmény következik be,
 
-f) azt az ápolást végző személy kérte.
+f) azt az ápolást végző személy kérte,
+
+g) az ápolást végző személy az ápolási díjra való jogosultság feltételeinek felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza.
 
 (3) Az ápolt személy halála esetén az ápolási díj folyósítását a halál időpontját követő második hónap utolsó napjával kell megszüntetni.
 

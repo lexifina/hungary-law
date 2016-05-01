@@ -26,7 +26,7 @@ b) a foglalkoztatást helyettesítő támogatásra való jogosultság feltétele
 
 legalább egyszer felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
 
-(5) Ha az öregségi nyugdíj legkisebb összege változik, a havi rendszeres szociális ellátás összegét a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
+(5) Ha az öregségi nyugdíj legkisebb összege változik, a havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultságot a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
 
 a) emelkedett, akkor az új összeget az öregségi nyugdíj legkisebb összege emelkedésének időpontjára visszamenőlegesen,
 
@@ -64,7 +64,9 @@ b) csökkent, akkor az új összeget az ellátásra való jogosultság feltétel
 
 kell folyósítani.
 
-(10) Ha a (4)–(6) bekezdés szerinti felülvizsgálat eredményeként a havi rendszeres szociális ellátásra vagy a foglalkoztatást helyettesítő támogatásra való jogosultság megszűnik, akkor az ellátás folyósítását a határozat meghozatala hónapjának utolsó napjával meg kell szüntetni.
+(10) A szociális rászorultságtól függő pénzbeli ellátásra való jogosultság megszűnik, ha a jogosultság megállapításának alapjául szolgáló feltételek már nem állnak fenn.
+
+(10a) A havi rendszeres szociális ellátásra vagy foglalkoztatást helyettesítő támogatásra való jogosultság megszűnése esetén a jogosultat a megszűnés napja szerinti hónapra jutó ellátás teljes havi összege megilleti.
 
 (11) A (7) bekezdés b)–c) pontja alkalmazásában nem minősül keresőtevékenységnek az aktív korúak ellátására jogosult személy közfoglalkoztatásban való részvétele.
 

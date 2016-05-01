@@ -8,7 +8,7 @@ c) gyermekgondozási segélyben, gyermekgondozást segítő ellátásban, illetv
 
 d) gyermekgondozást segítő ellátásra jogosult, a gyermek fél éves korának betöltéséig,
 
-e) az Flt. szerint az álláskeresési támogatás megállapításához szükséges munkaviszonnyal rendelkezik,
+e) az Flt. szerint az álláskeresési támogatásban részesül,
 
 f) katonai szolgálatot teljesít,
 

@@ -1,6 +1,6 @@
 24. § (1) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat természetes személyazonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
 
-(2)
+(2) A szociális igazgatási eljárás során a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, illetve ellenőrzése céljából adatot kérhet a kérelmező által megjelölt pénzforgalmi szolgáltatótól. A szociális hatáskört gyakorló szerv a pénzforgalmi szolgáltató által az adatigénylés keretében rendelkezésére bocsátott, a pénzforgalmi számla számára és a pénzforgalmi számlán az adatigényléskor szereplő összegre vonatkozó adat kezelésére jogosult.
 
 (3) A szociális igazgatási eljárás során a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, illetve ellenőrzése céljából adatot kérhet a polgárok személyi adatait és lakcímét nyilvántartó szervtől, a közúti közlekedési nyilvántartást vezető, valamint az ingatlanügyi hatóságtól.
 

@@ -10,4 +10,6 @@ nem haladja meg, és családjának vagyona nincs.
 
 (2) A szociális rászorultság igazolásáról a járási hivatal hatósági bizonyítványt (a továbbiakban: bizonyítvány) állít ki. A bizonyítvány hatályossága 1 év. A bizonyítvány tartalmazza a rászoruló személy nevét, lakcímét – tartózkodási engedéllyel rendelkező hontalan személy esetén szálláshelyét –, társadalombiztosítási azonosító jelét, a rászorultság tényét, valamint az igazolás hatályosságát. A bizonyítvány az (1) bekezdésben megjelölt feltételek fennállta esetén ismételten kiállítható.
 
+(2a) A bizonyítvány a szociális rászorultságot a kérelem benyújtásának napjától igazolja.
+
 (3) A szociálisan rászorult személyekről a járási hivatal nyilvántartást vezet és a külön jogszabály szerint bejelentési kötelezettséget teljesít az egészségbiztosítási szerv felé.

@@ -25,3 +25,5 @@ g) a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt tel
 (5)
 
 (6) Családsegítés a gyermekjóléti szolgáltatással egy szolgáltató – a család- és gyermekjóléti szolgálat – keretében működtethető. A család- és gyermekjóléti szolgálat ellátja a családsegítés (4) bekezdés szerinti feladatait, valamint a Gyvt. 39. és 40. §-a szerinti gyermekjóléti szolgáltatási feladatokat.
+
+(7) A család- és gyermekjóléti szolgálat az ellátási területén – felkérésre – közreműködik a kormányrendeletben meghatározott európai uniós forrásból megvalósuló program keretében természetben biztosítható eseti vagy rendszeres juttatás célzott és ellenőrzött elosztásában.

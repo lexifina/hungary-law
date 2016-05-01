@@ -8,6 +8,8 @@ b) a nem havi rendszerességgel szerzett, illetve vállalkozásból származó j
 
 kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hónapoknál, amelyek adóbevallással már lezárt időszakra esnek, a jövedelmet a bevallott éves jövedelemnek e hónapokkal arányos összegében kell beszámítani.
 
+(2a) A (2) bekezdésben foglaltaktól eltérően az életvitelszerűen lakott ingatlan eladása, valamint az életvitelszerűen lakott ingatlanon fennálló vagyoni értékű jog átruházása esetén az eladott ingatlan, illetve átruházott vagyoni értékű jog ellenértékének azon részét, amelyen egy éven belül nem kerül sor életvitelszerű, tényleges lakhatás célját szolgáló ingatlan vagy vagyoni értékű jog vásárlására, az eladást vagy átruházást követő egy naptári év leteltét követő napon megszerzett jövedelemnek kell tekinteni.
+
 (3) Ha a vállalkozási tevékenység megkezdésétől eltelt időtartam nem éri el a 12 hónapot, akkor az egyhavi átlagos jövedelmet a vállalkozási tevékenység időtartama alapján kell kiszámítani.
 
 (4) A jövedelemszámításnál figyelmen kívül kell hagyni

@@ -1,14 +1,14 @@
 4. § (1) E törvény alkalmazásában
 
-a) jövedelem: – az (1a) bekezdésben foglalt kivétellel, valamint figyelemmel az (1b)–(1c) bekezdésekben foglaltakra – az elismert költségekkel és a befizetési kötelezettséggel csökkentett
+a) jövedelem: – az (1a) bekezdésben foglalt kivétellel, valamint figyelemmel az (1b) és (1c) bekezdésben foglaltakra – az elismert költségekkel és a befizetési kötelezettséggel csökkentett
 
-aa) a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, és
+aa) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szjatv.) szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a Szjatv. 27. § (1) bekezdés b) pontjában meghatározott bevételt, valamint a Szjatv. 1. számú melléklete szerinti adómentes bevételt, és
 
-ab) azon bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni;
+ab) azon bevétel, amely után az egyszerűsített vállalkozói adóról szóló törvény, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni;
 
-b) vagyon: ha e törvény másként nem rendelkezik, az a hasznosítható ingatlan, jármű, továbbá vagyoni értékű jog, amelynek
+b) vagyon: ha e törvény másként nem rendelkezik, az a hasznosítható ingatlan, jármű, vagyoni értékű jog, továbbá pénzforgalmi szolgáltatónál kezelt – jövedelemként figyelembe nem vett – összeg, amelynek
 
-ba) külön-külön számított forgalmi értéke, illetőleg összege az öregségi nyugdíj mindenkori legkisebb összegének a harmincszorosát, vagy
+ba) külön-külön számított forgalmi értéke, illetve összege az öregségi nyugdíj mindenkori legkisebb összegének a harmincszorosát, vagy
 
 bb) együttes forgalmi értéke az öregségi nyugdíj mindenkori legkisebb összegének a nyolcvanszorosát
 
@@ -56,7 +56,11 @@ me) az Európai Gazdasági Térségről szóló megállapodásban részes valame
 
 ha az e törvényben és más jogszabályokban meghatározott feltételek szerint szociális szolgáltatót, illetve szociális intézményt létesít és működtet.
 
-n)
+n) pénzforgalmi szolgáltatónál kezelt összeg:
+
+na) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési számla szerződés alapján nyitott fizetési számlán szereplő összeg, valamint a betétszerződés és a takarékbetét-szerződés alapján, vagy egyéb szerződés alapján a hitelintézetnél elhelyezett, a vagyonvizsgálat során figyelembe vett személy rendelkezése alatt álló összeg, ha azt a hitelintézet a bankszámlaszerződés szabályainak megfelelően kezeli,
+
+nb) a betétszerződés és takarékbetét-szerződés alapján takarékbetétkönyv, egyéb betéti okirat ellenében a hitelintézetnél elhelyezett, a vagyonvizsgálat során figyelembe vett személy rendelkezése alatt álló összeg, továbbá az egyéb, a hitelintézet által visszafizetendő, a vagyonvizsgálat során figyelembe vett személy rendelkezése alatt álló pénzösszeg.
 
 (1a) Az (1) bekezdés a) pontjában foglaltaktól eltérően e törvény alkalmazásában nem minősül jövedelemnek
 
@@ -78,7 +82,11 @@ n)
 
 9. az energiafelhasználáshoz nyújtott támogatás,
 
-10. a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel.
+10. a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel,
+
+11. az életvitelszerűen lakott ingatlan eladása, valamint az életvitelszerűen lakott ingatlanon fennálló vagyoni értékű jog átruházása esetén az eladott ingatlan, illetve átruházott vagyoni értékű jog ellenértékének azon része, amelyből az eladást vagy átruházást követő egy éven belül az eladó vagy átruházó saját, vagy közeli hozzátartozója életvitelszerű, tényleges lakhatásának célját szolgáló ingatlan vagy vagyoni értékű jog vásárlására kerül sor,
+
+12. az elengedett tartozás, illetve a megszűnt kötelezettség, ha a tartozás elengedésére vagy a kötelezettség megszűnésére a természetes személyek adósságrendezési eljárásában, továbbá közüzemi szolgáltatás szolgáltatója, illetve pénzügyi intézmény által, az adós megélhetését veszélyeztető szociális helyzete miatt került sor.
 
 (1b) Az (1) bekezdés a) pontjának alkalmazásában elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 

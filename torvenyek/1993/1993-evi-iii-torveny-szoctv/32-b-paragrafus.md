@@ -12,12 +12,14 @@ c) az egyedülálló, 75. életévét betöltött személyt, akinek havi jövede
 
 (3) A járási hivatal időskorúak járadékában részesíti a 3. § (3) bekezdés b) pontjában, valamint (4) bekezdésében meghatározott személyt, amennyiben az e törvényben foglalt feltételeknek megfelel.
 
-(4) Nem állapítható meg az időskorúak járadéka, illetve a folyósítást meg kell szüntetni, ha a személy
+(4) Nem állapítható meg az időskorúak járadéka, illetve az ellátásra való jogosultságot meg kell szüntetni, ha a személy
 
-a) előzetes letartóztatásban van, elzárás, illetőleg szabadságvesztés büntetését tölti;
+a) előzetes letartóztatásban van, elzárás büntetését vagy szabadságvesztés büntetését tölti,
 
-b) 3 hónapot meghaladó időtartamban külföldön tartózkodik.
+b) 3 hónapot meghaladó időtartamban külföldön tartózkodik,
 
-c) a 3. § (3) vagy (4) bekezdése alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott.
+c) a 3. § (3) vagy (4) bekezdésének hatálya alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott, vagy
+
+d) az időskorúak járadékára való jogosultság feltételeinek felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza.
 
 (5) Az időskorúak járadékára való jogosultságot a (4) bekezdésben meghatározottakon túl – a kérelemben megjelölt időponttól vagy időpont megjelölésének hiányában a kérelem benyújtását követő hónap utolsó napjával – meg kell szüntetni, ha azt az időskorúak járadékában részesülő személy kéri.

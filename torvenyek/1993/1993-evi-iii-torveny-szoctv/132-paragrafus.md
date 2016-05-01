@@ -8,7 +8,7 @@ a) a pénzbeli szociális ellátások elszámolásának szabályait;
 
 b) a közgyógyellátásra való jogosultság, valamint az igazolványok kiadásának, visszavonásának, az igazolvány alapján járó kedvezmények igénybevételének részletes szabályait, valamint az igazolvány tartalmát;
 
-c) a Szociálpolitikai Tanács összetételére, megalakítására és működésére vonatkozó részletes szabályokat;
+c)
 
 d) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályait;
 
@@ -52,7 +52,7 @@ x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását
 
 y) a 32/D. § (1) bekezdése és 37/C. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését;
 
-z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait, valamint a nyilvántartást vezető szerv kijelölését.
+z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait, valamint a nyilvántartást vezető szociális hatóság kijelölését.
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
