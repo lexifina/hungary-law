@@ -1,1 +1,0 @@
-3. § A nem közösségi adókra és díjakra a vámigazgatási eljárásra vonatkozó rendelkezéseket kell alkalmazni, ha azoknak kiszabását és/vagy beszedését a külön jogszabályok a vámhatóság hatáskörébe utalják.

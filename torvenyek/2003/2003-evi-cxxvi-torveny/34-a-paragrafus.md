@@ -1,1 +1,0 @@
-34/A. § A vámkódex 78. cikk (2) bekezdése szerinti ellenőrzés az erről szóló előzetes értesítés kézbesítésétől kezdődik. Ha az előzetes értesítés az ellenőrzés eredményességét veszélyeztetné, az ügyfelet az ellenőrzésről annak megkezdésekor szóban kell tájékoztatni.

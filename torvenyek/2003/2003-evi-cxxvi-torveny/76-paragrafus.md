@@ -1,1 +1,0 @@
-76. § A Csatlakozási Szerződés X. Mellékletének 9. pontjában foglaltak alapján Magyarország részére biztosított kedvezményes vámkontingens igénybevételéhez engedély szükséges. A kedvezmény igénybevételére jogosító engedélyt a nemzeti külkereskedelmi államigazgatási szerv adja ki.

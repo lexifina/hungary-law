@@ -1,3 +1,0 @@
-7/N. § (1) Az utólagos ellenőrzés megkezdésétől az utólagos ellenőrzést követő hatósági eljárás jogerős befejezéséig az ellenőrzött ügyfél által az utólagos ellenőrzés tárgykörével és időszakával összefüggésben előterjesztett kérelem érdemi elbírálását az arra illetékes vámszerv az utólagos ellenőrzést követő hatósági eljárás befejezéséig felfüggeszti, egyidejűleg a kérelem benyújtásáról az utólagos ellenőrzést lefolytató vámszervet – a kérelem megküldésével – értesíti.
-
-(2) Ha az (1) bekezdés szerinti kérelmet a vámhatóság elbírálja, annak eredményét az utólagos ellenőrzés megállapításainál nem lehet figyelembe venni.
