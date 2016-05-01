@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-110-00-00
 | 2014-01-01 | 2013. évi CC. törvény | 2003-110-00-00.19 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2003-110-00-00.20 |
 | 2016-01-01 | 2015. évi CLXXXVII. törvény | 2003-110-00-00.21 |
+| 2016-05-01 | 2016. évi XIII. törvény | 2003-110-00-00.22 |
