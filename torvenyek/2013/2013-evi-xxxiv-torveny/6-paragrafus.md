@@ -2,13 +2,13 @@
 
 6. § (1) A Teljesítésigazolási Szakértői Szerv a szerződés teljesítését vizsgálja, szakvéleményt vagy kivonatot ad ki, amely alapján megállapítható, hogy a szerződés teljesítése megtörtént-e, vagy nem a szerződésnek megfelelő módon történt meg, és a teljesítésért járó ellenérték megfizetése – adott esetben a szerződést biztosító mellékkötelezettség érvényesítése – milyen összegben indokolt.
 
-(2) A szakvélemény – a külön jogszabályban a szakértői vélemény tartalmára vonatkozó előírások szerint – a következő kérdések tárgyában készül:
+(2) A szakvélemény – a jogszabályban a szakértői vélemény tartalmára vonatkozó előírások szerint – a következő kérdések tárgyában készül:
 
-a) a szerződés műszaki tartalma szerint a vállalkozót (alvállalkozót) terhelő tervezési és kivitelezési munkák leírása,
+a) a szerződés műszaki tartalma szerint a vállalkozót (alvállalkozót) terhelő munkák leírása,
 
-b) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan teljesített tervezési és kivitelezési munkák mennyiségének és minőségének meghatározása,
+b) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan teljesített munkák mennyiségének és minőségének meghatározása,
 
-c) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan el nem végzett tervezési és kivitelezési munkák meghatározása, és
+c) az a) pont szerinti munkák közül a teljes bizonyossággal megállapíthatóan el nem végzett munkák meghatározása, és
 
 d) a b) és c) pont szerinti munkáknak a szerződés szerinti költségvetési tételek, vagy az átalánydíj arányos részének alapulvételével meghatározott értéke.
 

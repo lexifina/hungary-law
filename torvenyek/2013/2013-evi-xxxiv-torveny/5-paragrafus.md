@@ -1,4 +1,4 @@
-5. § (1) A szakértői tanács tagjaként nem járhat el, aki a Polgári perrendtartásról szóló törvény szerint, mint szakértő sem járhatna el.
+5. § (1) Az adott ügy kapcsán a szakértői tanács tagjaként nem járhat el, aki a polgári perrendtartásról szóló törvény szerint mint szakértő sem járhatna el. Az elfogultságát kell vélelmezni különösen annak, aki bármely fél megbízásából az adott ügy tárgyát képező építési beruházásnál korábban szakértőként járt el.
 
 (2) A Teljesítésigazolási Szakértői Szerv vezetője hivatalból gondoskodik arról, hogy kizárt tag ne vegyen részt a szakértői vélemény kialakításában.
 

@@ -1,4 +1,4 @@
-7. § (1) A szakértői tanács a szakértői vélemény elkészítéséhez szükséges vizsgálatot – az építési, kivitelezési szerződés vizsgálata esetén – a kivitelezés helyszínén végzi el; a szakértői vizsgálatról jegyzőkönyvet kell készíteni.
+7. § (1) A szakértői tanács a szakértői vélemény elkészítéséhez szükséges vizsgálatot kivitelezési szerződés vizsgálata esetén – az e törvény végrehajtására kiadott rendeletben meghatározott kivétellel – a kivitelezés helyszínén végzi el. A szakértői vizsgálatról jegyzőkönyvet kell készíteni.
 
 (2) A szakértői tanács tagja a szakértői vizsgálat keretében jogosult a kivitelezés helyszínéül szolgáló ingatlanba belépni. A szakértői vizsgálaton a szerződő felek és a kivitelezés helyszínéül szolgáló ingatlan birtokosa jelen lehetnek.
 

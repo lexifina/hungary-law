@@ -4,11 +4,11 @@
 
 (3) Ha a fél a Teljesítésigazolási Szakértői Szerv véleményét a szerződést biztosító mellékkötelezettség érvényesítésének vizsgálatához kapcsolódóan kéri, a Teljesítésigazolási Szakértői Szerv a biztosítékot nyújtó személy részére megküldi a szakértői vélemény kivonatát. Ha az eljárást kezdeményező felet a Teljesítésigazolási Szakértői Szerv hiánypótlásra szólítja fel, erről a biztosítékot nyújtó személyt értesíti.
 
-(4) A Teljesítésigazolási Szakértői Szerv olyan véleménye alapján, amely szerint a szerződést biztosító mellékkötelezettség érvényesítése nem indokolt,
+(4) Amennyiben a Teljesítésigazolási Szakértői Szerv véleménye alapján a szerződést biztosító mellékkötelezettség érvényesítése nem indokolt,
 
-a) a bankgaranciát vállaló pénzügyi intézmény a bankgaranciaszerződésben foglalt fizetési kötelezettségét nem teljesíti,
+a) a garanciát vállaló pénzügyi intézmény vagy biztosító a garanciaszerződésben foglalt fizetési kötelezettségét nem teljesíti,
 
-b) a zálogjog a Ptk.-ban írt egyik módon sem érvényesíthető, vagy
+b) a zálogjog a Ptk.-ban írt egyik módon sem érvényesíthető,
 
 c) a kezes a kötelezett helyett való teljesítésre vállalt kötelezettségét nem teljesíti.
 

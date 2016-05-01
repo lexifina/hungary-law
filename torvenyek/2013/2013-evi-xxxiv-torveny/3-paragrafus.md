@@ -6,7 +6,7 @@
 
 a) vezetőjét, vezető helyettesét az igazságügyi szakértők közül az építésgazdaságért felelős miniszter az építésügyért felelős miniszter és az igazságügyért felelős miniszter,
 
-b) tagjait az igazságügyi szakértők közül az építésgazdaságért felelős miniszter – a Magyar Kereskedelmi és Iparkamara, a Magyar Mérnöki Kamara, a Magyar Építész Kamara, a Magyar Igazságügyi Szakértői Kamara és építőipari szakmai szervezetek véleményezése mellett – az igazságügyért felelős miniszter
+b) tagjait az igazságügyi szakértők és az építési műszaki ellenőrök közül az építésgazdaságért felelős miniszter – a Magyar Kereskedelmi és Iparkamara, a Magyar Mérnöki Kamara, a Magyar Építész Kamara, a Magyar Igazságügyi Szakértői Kamara és építőipari szakmai szervezetek véleményezése mellett – az igazságügyért felelős miniszter
 
 egyetértésével nevezi ki.
 

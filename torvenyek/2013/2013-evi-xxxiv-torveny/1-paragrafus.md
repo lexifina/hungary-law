@@ -1,6 +1,6 @@
 ## 1. A törvény hatálya
 
-1. § (1) A Teljesítésigazolási Szakértői Szerv az építészeti-műszaki tervezési, építési, kivitelezési szerződés (a továbbiakban együtt: szerződés) teljesítéséből eredő, e törvényben meghatározott kérdésekben a megrendelő, a tervező, a kivitelező vagy az alvállalkozó (a továbbiakban együtt: fél) megbízására, szakértői véleményt ad, ha a teljesítésigazolás kiadása nem történt meg, a kiadása vitás, vagy a teljesítésigazolás kiadásra került, de a kifizetés nem történt meg.
+1. § (1) A Teljesítésigazolási Szakértői Szerv az építészeti-műszaki tervezési, kivitelezési szerződés (a továbbiakban együtt: szerződés) építőipari teljesítéséből eredő, e törvényben meghatározott kérdésekben a megrendelő, a tervező, a kivitelező vagy az alvállalkozó (a továbbiakban együtt: fél) megbízására szakértői véleményt ad, ha a teljesítésigazolás kiadása nem történt meg, a kiadása vitás, vagy a teljesítésigazolás kiadásra került, de a kifizetés nem történt meg.
 
 (1a) A Teljesítésigazolási Szakértői Szerv a Közbeszerzési Hatóság kijelölése alapján szakhatóságként működik közre a közbeszerzési szerződések teljesítésének és módosításának ellenőrzésére irányuló eljárásban.
 
@@ -12,9 +12,9 @@
 
 (4) E törvény alkalmazásában
 
-a) szerződést biztosító mellékkötelezettség a bankgarancia, zálogjog és kezesség,
+a) szerződést biztosító mellékkötelezettség a garancia, zálogjog és kezesség,
 
-b) biztosítékot nyújtó személy: a bankgaranciát vállaló pénzügyi intézmény, a zálogkötelezett és a kezes.
+b) biztosítékot nyújtó személy: a garanciát vállaló pénzügyi intézmény vagy biztosító, a zálogkötelezett és a kezes.
 
 (5) A szakértői vélemény jogszabályban meghatározott díjazás ellenében kérhető.
 
