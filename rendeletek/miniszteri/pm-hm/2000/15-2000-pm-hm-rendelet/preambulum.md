@@ -1,1 +1,0 @@
-Az Észak-atlanti Szerződés tagállamai közötti fegyveres erőik jogállásáról szóló Megállapodáshoz történő csatlakozásról, a Megállapodás kihirdetéséről, valamint a Megállapodáshoz kapcsolódó egyes jogszabályok módosításáról szóló 1999. évi CXVII. törvény 14. § a) pontjában kapott felhatalmazás alapján a következőket rendeljük el:
