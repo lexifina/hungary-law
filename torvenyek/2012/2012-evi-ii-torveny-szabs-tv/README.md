@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-2-00-00
 | 2015-07-01 | 2015. évi LXXVI. törvény | 2012-2-00-00.25 |
 | 2016-01-01 | 2015. évi CCII. törvény | 2012-2-00-00.26 |
 | 2016-03-01 | 2015. évi CCII. törvény | 2012-2-00-00.27 |
+| 2016-05-01 | 2016. évi XIII. törvény | 2012-2-00-00.28 |
