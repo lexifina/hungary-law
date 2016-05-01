@@ -27,5 +27,3 @@ g) 16. §-ának l) pontja, 23/B. §-a, 31/C. §-a, 37/B. § (4) bekezdése, 48. 
 h) 14/A. §-a, 16. § n) pontja, 23/B. § (1) bekezdés d) pontja, 31/C. § (1) bekezdés g) pontja, 31/C. § (2) bekezdés e) pontja, 31/C. § (5) bekezdése, 37/B. § (4) bekezdése, 48. § (8) bekezdése, 186. § (3) bekezdése, 187. § (3) bekezdése, és 211. § (3) bekezdés c) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
 
 i) 23/B. § (1) bekezdés e) pontja, 31/C. § (1) bekezdés h) és i) pontja, 31/C. § (2) bekezdés f) és g) pontja, 210/A. § (1) bekezdés c) pontja az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet
-
-végrehajtásához szükséges rendelkezéseket állapít meg.
