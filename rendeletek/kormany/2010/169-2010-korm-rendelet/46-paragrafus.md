@@ -10,13 +10,13 @@ d) a 300/2008/EK európai parlamenti és tanácsi rendeletnek a polgári légik�
 
 e) a légiközlekedés védelmével kapcsolatos bizottsági ellenőrzések eljárásainak megállapításáról szóló, 2010. január 26-i 72/2010/EU bizottsági rendelet,
 
-f)[^134] a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2010. március 4-i 185/2010/EU bizottsági rendelet és az azt módosító 1082/2012/EU bizottsági rendelet,
+f)[^137] a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2010. március 4-i 185/2010/EU bizottsági rendelet és az azt módosító 1082/2012/EU bizottsági rendelet,
 
 g) a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2010/774/EU bizottsági határozat és az azt módosító 2010/2604/EU bizottsági határozat,
 
-h)[^135] a 185/2010/EU rendeletnek egyes légiközlekedés-védelmi intézkedések egyértelműsítése, összehangolása és egyszerűsítése, egyes légiközlekedés-védelmi követelmények egyenértékűsége, valamint az árura és a postai küldeményekre vonatkozó védelmi intézkedések tekintetében történő módosításáról szóló 2014. június 20-i 687/2014/EU bizottsági végrehajtási rendelet
+h)[^138] a 185/2010/EU rendeletnek egyes légiközlekedés-védelmi intézkedések egyértelműsítése, összehangolása és egyszerűsítése, egyes légiközlekedés-védelmi követelmények egyenértékűsége, valamint az árura és a postai küldeményekre vonatkozó védelmi intézkedések tekintetében történő módosításáról szóló 2014. június 20-i 687/2014/EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg,
 
-[^134]: A 46. § f) pontja a 389/2014. (XII. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^135]: A 46. § h) pontját a 389/2014. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^137]: A 46. § f) pontja a 389/2014. (XII. 31.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^138]: A 46. § h) pontját a 389/2014. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## 27. Védelmi személyzet
 
-41. §[^131] (1) A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet alapján I. vagy II. osztályúnak minősített repülőtér üzemben tartója, a légitársaság, a földi kiszolgáló, karbantartó és javító szervezet, a légiforgalmi irányító szolgálat, a meghatalmazott ügynök, fedélzeti ellátmány meghatalmazott beszállítója, az ismert szállító a légiközlekedés védelmi intézkedési rendszer irányítása érdekében védelmi tisztet jelöl ki.
+41. §[^134] (1) A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet alapján I. vagy II. osztályúnak minősített repülőtér üzemben tartója, a légitársaság, a földi kiszolgáló, karbantartó és javító szervezet, a légiforgalmi irányító szolgálat, a meghatalmazott ügynök, fedélzeti ellátmány meghatalmazott beszállítója, az ismert szállító a légiközlekedés védelmi intézkedési rendszer irányítása érdekében védelmi tisztet jelöl ki.
 
 (2) A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet alapján III–VI. osztályúnak minősített repülőtér üzemben tartója, a repülőtéri készletek ismert beszállítója, a listás szállító, a fedélzeti ellátmány ismert beszállítója a légiközlekedés védelmi intézkedési rendszer biztosítása érdekében védelmi felelőst jelöl ki.
 
@@ -10,4 +10,4 @@
 
 (5) Több telephellyel rendelkező szervezet esetén minden telephelyre védelemért felelős személyt kell kijelölni, aki a védelmi tiszt szakmai irányítása alá tartozik.
 
-[^131]: A 41. § a 389/2014. (XII. 31.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^134]: A 41. § a 389/2014. (XII. 31.) Korm. rendelet 18. §-ával megállapított szöveg.

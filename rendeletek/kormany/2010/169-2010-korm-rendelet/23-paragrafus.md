@@ -1,6 +1,6 @@
-## 17. [^88] Belépés a repülőtér területére, továbbá a repülőtér légi-oldalára, valamint szigorított védelmi területére
+## 17. [^91] Belépés a repülőtér területére, továbbá a repülőtér légi-oldalára, valamint szigorított védelmi területére
 
-23. §[^89] (1) A légiközlekedésről szóló 1995. évi XCVII. törvény 67. § (12) bekezdésében megjelölt SRA-ra
+23. §[^92] (1) A légiközlekedésről szóló 1995. évi XCVII. törvény 67. § (12) bekezdésében megjelölt SRA-ra
 
 a) az üzemben tartó által – a hatáskörrel rendelkező hatóságok hozzájárulásával, korlátozás nélkül vagy korlátozással – kiállított
 
@@ -28,8 +28,8 @@ lehet belépni.
 
 (6) A repülőtér védelmi programjában ki kell jelölni a belépés során ellenőrzést végző szervezetet, szabályozni kell a személyazonosság ellenőrzését, a személy, csomag és gépjármű átvizsgálását. A tevékenységet részletesen leíró technológiai utasításokat a védelmi program tartalmazza.
 
-(7)[^90]
+(7)[^93]
 
-[^88]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított, a 389/2014. (XII. 31.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
-[^89]: A 23. § a 389/2014. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^90]: A 23. § (7) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 133. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^91]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított, a 389/2014. (XII. 31.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^92]: A 23. § a 389/2014. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^93]: A 23. § (7) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 133. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
