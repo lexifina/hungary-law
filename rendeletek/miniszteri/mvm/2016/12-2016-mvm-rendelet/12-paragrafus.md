@@ -1,1 +1,3 @@
-## 11. § Hatályát veszti az előzetes és utólagos hatásvizsgálatról szóló 24/2011. (VIII. 9.) KIM rendelet.
+## 11. §[^1]
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
