@@ -14,6 +14,8 @@ feltéve, hogy a gyermeket gondozó családban az egy főre jutó havi átlagjö
 
 (3) A gyámhatóság a gyermektartásdíj behajthatatlanságát a gyermektartásdíj fizetésére kötelezett személy rendszeres jövedelmére, illetve egyéb vagyonára vezetett eredménytelen végrehajtást követően állapítja meg. Az eredménytelen végrehajtást a végrehajtás szünetelését kimondó, hat hónapnál nem régebbi foglalási jegyzőkönyv igazolja.
 
+(3a) Ha a kérelem benyújtásakor igazolják, hogy a bíróságon a gyermektartásdíj behajtása iránti eljárás a kérelem benyújtását megelőzően megindításra került, de az annak eredményét igazoló jegyzőkönyv még nem áll rendelkezésre, a gyámhatóság a gyermektartásdíj megelőlegezése iránti eljárást a jegyzőkönyv megérkezéséig felfüggeszti.
+
 (4) Az (1) bekezdésben meghatározott összeg számításánál a kérelem benyújtása időpontjában közös háztartásban élő közeli hozzátartozóként kell figyelembe venni a 19. § (4) bekezdésében meghatározott személyeket.
 
 (5) Nincs helye a gyermektartásdíj megelőlegezésének, ha a kötelezett

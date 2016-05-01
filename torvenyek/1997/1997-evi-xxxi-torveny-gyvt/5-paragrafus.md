@@ -78,7 +78,7 @@ v) működtető: az a természetes személy, jogi személy, illetve ezek jogi sz
 
 w) szolgáltató: gyermekjóléti, illetve gyermekvédelmi szolgáltató tevékenységet végző személy vagy szervezet, amely nem minősül intézménynek vagy helyettes szülői, nevelőszülői hálózatnak,
 
-x) államilag támogatott lakás-előtakarékossági programban való részvétel: a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény szerinti lakás-előtakarékossági szerződés megkötése és teljesítése,
+x) államilag támogatott lakás-előtakarékossági programban való részvétel: a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltv.) szerinti lakás-előtakarékossági szerződés megkötése és teljesítése,
 
 y) családi pótlék: a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 5. §-ának a) pontja szerinti nevelési ellátás és iskoláztatási támogatás,
 

@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2015-11-01 | 2015. évi CLI. törvény | 1997-31-00-00.82 |
 | 2015-12-31 | 2015. évi CCXXIII. törvény | 1997-31-00-00.83 |
 | 2016-01-01 | 2015. évi CCXXIII. törvény | 1997-31-00-00.84 |
+| 2016-05-01 | 2016. évi XXVI. törvény | 1997-31-00-00.85 |

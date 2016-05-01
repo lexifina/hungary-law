@@ -10,7 +10,7 @@ a) folyamatosan figyelemmel kíséri a településen élő gyermekek szociális 
 
 b) meghallgatja a gyermek panaszát, és annak orvoslása érdekében megteszi a szükséges intézkedést,
 
-c)
+c) az ellátási területén közreműködik a kormányrendeletben meghatározott európai uniós forrásból megvalósuló program keretében természetben biztosítható eseti vagy rendszeres juttatás célzott és ellenőrzött elosztásában,
 
 d) szervezi a – legalább három helyettes szülőt foglalkoztató – helyettes szülői hálózatot, illetve működtetheti azt, vagy önálló helyettes szülőket foglalkoztathat,
 
