@@ -78,6 +78,8 @@ a) a Kormány, hogy
 
 36. a 33/A. § szerinti használati díj és pótdíj központi költségvetésbe történő befizetésének rendjét, részletes szabályait, továbbá az elszámolás számviteli szabályait;
 
+37. a közúti hírközlő hálózatok kapacitásainak hasznosítására vonatkozó részletes szabályokat;
+
 38. a tájékozódást segítő jelzést megjelenítő reklámcélú eszközök közvilágítási-, villany- és telefonoszlopon történő elhelyezésére és eltávolítására, az azok elhelyezéséért fizetendő elhelyezési díj mértékére és megfizetésére vonatkozó részletes szabályokat
 
 b) a miniszter, hogy
