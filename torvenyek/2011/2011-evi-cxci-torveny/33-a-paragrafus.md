@@ -4,9 +4,9 @@ a) rokkantsági ellátásra jogosult, az ellátás összegét a 12. § (1) bekez
 
 b) rehabilitációs ellátásra jogosult, az ellátás összege megegyezik
 
-ba) a közfoglalkoztatási bér 40 százalékával, ha a jogosult foglalkoztathatósága rehabilitációval helyreállítható,
+ba) a döntés időpontjában érvényes közfoglalkoztatási bér 40 százalékával, ha a jogosult foglalkoztathatósága rehabilitációval helyreállítható,
 
-bb) a közfoglalkoztatási bér 80 százalékával, ha a jogosult tartós foglalkozási rehabilitációt igényel.
+bb) a döntés időpontjában érvényes közfoglalkoztatási bér 80 százalékával, ha a jogosult tartós foglalkozási rehabilitációt igényel.
 
 (2) Az (1) bekezdés a) pontjának alkalmazása során havi átlagjövedelemként a 2011. december 31-én
 
@@ -21,6 +21,8 @@ d) II. csoportos rokkantsági, baleseti rokkantsági nyugdíjban részesülő sz
 e) I. csoportos rokkantsági, baleseti rokkantsági nyugdíjban részesülő személy esetén a felülvizsgálatot megelőző hónapra járó ellátás összegének 145 százalékát
 
 kell figyelembe venni.
+
+(2a) Az (1) bekezdés b) pontja szerint megállapított rehabilitációs ellátás felülvizsgálata során havi átlagjövedelemként a minimálbért kell figyelembe venni.
 
 (3) Az (1) bekezdés alapján megállapított ellátást a Tny. nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező arányban emelni kell.
 

@@ -18,8 +18,8 @@ g) a felülvizsgálat során neki felróható okból nem működik együtt.
 
 (2a) A (2) bekezdés d) pontjának alkalmazása során, a biztosított egyéni és társas vállalkozó esetén minimálbér alatt a Tbj. 4. § s) pont 2. alpontjában foglaltakat kell érteni.
 
-(3) A rokkantsági ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés b) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés c)–g) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával kell megszüntetni.
+(3) A rokkantsági ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés b) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés c) és e)–g) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával, a (2) bekezdés d) pontja szerinti esetben a megszüntetési ok bekövetkezését követő hónap első napjával kell megszüntetni.
 
 (4) A (2) bekezdés c) pontjában foglaltak fennállását a rehabilitációs hatóság által végzett komplex minősítés alapján kell megállapítani.
 
-(5) Ha a rokkantsági ellátás megszüntetésére az (1) bekezdés e) pontja alapján került sor, a megszüntetés időpontját megelőző 12 hónapra – az ennél rövidebb időtartamban fennálló jogosultság esetén a jogosultság valamennyi hónapjára – tekintettel folyósított ellátás jogalap nélkül felvett ellátásnak minősül, azt vissza kell fizetni.
+(5) Ha a rokkantsági ellátás megszüntetésére a (2) bekezdés e) pontja alapján került sor, a megszüntetés időpontját megelőző 12 hónapra – az ennél rövidebb időtartamban fennálló jogosultság esetén a jogosultság valamennyi hónapjára – tekintettel folyósított ellátás jogalap nélkül felvett ellátásnak minősül, azt vissza kell fizetni.

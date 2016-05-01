@@ -10,7 +10,7 @@ megszűnik.
 
 a) kérte,
 
-b)
+b) keresőtevékenységet folytat, és jövedelme 3 egymást követő hónapon keresztül meghaladja a minimálbér 150 százalékát,
 
 c) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt, valamint az Ebtv. 42/C. § (1) bekezdés b) pontjában foglaltakra tekintettel megállapított gyermekgondozási díjat,
 
@@ -18,13 +18,15 @@ d) egészségi állapotában olyan tartós rosszabbodás következett be, amely 
 
 e) egészségi állapotában olyan tartós javulás következett be, amely alapján már nem minősül megváltozott munkaképességű személynek,
 
-f) az együttműködési, értesítési vagy a rehabilitációs tervben foglalt kötelezettségét neki felróható okból nem teljesíti,
+f) az együttműködési, értesítési vagy a rehabilitációs tervben foglalt kötelezettségét neki felróható okból ismételten nem teljesíti,
 
 g) a felülvizsgálat során neki felróható okból nem működik együtt, vagy
 
 h) foglalkoztatására a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor.
 
-(3) A rehabilitációs ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés c) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés d)–h) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával kell megszüntetni.
+(2a) A (2) bekezdés b) pontjának alkalmazása során, biztosított egyéni és társas vállalkozó esetén minimálbér alatt a Tbj. 4. § s) pont 2. alpontjában foglaltakat kell érteni.
+
+(3) A rehabilitációs ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés b) pontja szerinti esetben a megszüntetési ok bekövetkezését követő hónap első napjával, a (2) bekezdés c) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés d)–h) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával kell megszüntetni.
 
 (4) A (2) bekezdés d) és e) pontjában foglaltak fennállását a rehabilitációs hatóság által végzett komplex minősítés alapján kell megállapítani.
 

@@ -2,7 +2,7 @@
 
 22. § A 23–24. § alkalmazásában megváltozott munkaképességű személynek kell tekinteni azt a személyt,
 
-a) aki a 2. § (1) bekezdése alapján megváltozott munkaképességűnek minősül,
+a) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű,
 
 b) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány, minősítés időbeli hatálya alatt,
 

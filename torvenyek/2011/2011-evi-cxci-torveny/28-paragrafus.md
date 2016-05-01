@@ -6,13 +6,19 @@ a) a megváltozott munkaképességű személyek ellátásai megállapításával
 
 b) a rehabilitációs hatóság által végzett komplex minősítésre, rehabilitációs és orvosszakértői feladatok ellátására vonatkozó részletes eljárási szabályokat,
 
-c) a rehabilitációs szolgáltatásokra, a rehabilitációval kapcsolatos eljárási szabályokra, az együttműködésre, továbbá a rehabilitációs tervre vonatkozó szabályokat,
+c) a rehabilitációs szolgáltatásokra, azok támogatására, a rehabilitációval kapcsolatos eljárási szabályokra, a rehabilitációs ellátásban részesülő, valamint a nyilvántartásba vételét önként kérő megváltozott munkaképességű személyek együttműködésére, továbbá a rehabilitációs tervre vonatkozó szabályokat,
 
 d) a megváltozott munkaképességű személyeket foglalkoztató munkaadók akkreditációjának és ellenőrzésének szabályait,
 
-e) a megváltozott munkaképességű személyek foglalkoztatásához nyújtható bér- és költségtámogatás feltételeit, mértékét, a támogatás megállapításával, folyósításával, nyilvántartásával, megszüntetésével, visszakövetelésével és ellenőrzésével kapcsolatos szabályokat, valamint az európai uniós források felhasználásával nyújtható foglalkoztatást elősegítő támogatások szabályait,
+e) a megváltozott munkaképességű személyek foglalkoztatásához nyújtható bér-, többletköltség- és képzési támogatás feltételeit, mértékét, a támogatás megállapításával, folyósításával, nyilvántartásával, megszüntetésével, visszakövetelésével és ellenőrzésével kapcsolatos szabályokat, valamint az európai uniós források felhasználásával nyújtható foglalkoztatást elősegítő támogatások szabályait,
 
-f)
+f) az alapösszeg évenkénti mértékét,
+
+g) a foglalkozási rehabilitációs szolgáltatást nyújtó szervezetek akkreditációjának és ellenőrzésének szabályait,
+
+h) a foglalkozási rehabilitációs szolgáltatások igénybevétele érdekében a munkaadó számára nyújtható szolgáltatásokat,
+
+i) a megváltozott munkaképességű személyek foglalkoztatását elősegítő képzéshez nyújtható támogatásra vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 

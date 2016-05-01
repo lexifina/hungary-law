@@ -2,7 +2,7 @@
 
 (1a)
 
-(2) Az (1) bekezdés szerinti rehabilitációs ellátásra a 6. § (2) és (3) bekezdésében, a 7–9. §-ban és a 10. § (2) bekezdés b) és f) pontjában foglalt rendelkezéseket nem kell alkalmazni, az ellátott a (7) bekezdésben meghatározott időpontig keresőtevékenységet a Tny., illetve az egészségkárosodott személyek szociális járadékairól szóló 387/2007. (XII. 23.) Korm. rendelet 2011. december 31-én hatályos rendelkezései szerint végezhet.
+(2) Az (1) bekezdés szerinti rehabilitációs ellátásra a 6. § (2) és (3) bekezdésében, a 7–9. §-ban és a 10. § (1) bekezdés a) pontjában, valamint a 10. § (2) bekezdés f) pontjában foglalt rendelkezéseket nem kell alkalmazni, az ellátott a (7) bekezdésben meghatározott időpontig keresőtevékenységet a Tny., illetve az egészségkárosodott személyek szociális járadékairól szóló 387/2007. (XII. 23.) Korm. rendelet 2011. december 31-én hatályos rendelkezései szerint végezhet.
 
 (3) A nyugdíjfolyósító szerv 2012. január 31-éig tájékoztatja az (1) bekezdés szerinti személyt arról, hogy
 
@@ -28,7 +28,7 @@ c) az egészségkárosodás mértéke,
 
 azonban a felülvizsgálat időpontja nem lehet későbbi a soros felülvizsgálat időpontjánál.
 
-(7) A felülvizsgálatot követően a jogosultsági feltételek fennállása esetén az e törvényben meghatározott ellátást az erről szóló döntést követő harmadik hónap első napjával kell megállapítani, rehabilitációs ellátásra való jogosultság esetén az ellátás határozott időtartama ezzel a nappal kezdődik. A jogosultsági feltételek közül nem kell vizsgálni az előzetesen biztosításban töltött időt.
+(7) A felülvizsgálatot követően a megváltozott munkaképességű személy részére az e törvényben meghatározott ellátást – ha a bíróság által elrendelt megismételt eljárás esetén az ítélet másként nem rendelkezik – az erről szóló döntést követő naptól kell megállapítani, rehabilitációs ellátásra való jogosultság esetén az ellátás határozott időtartama ezzel a nappal kezdődik. Ha a megállapított ellátás összege csökken, azt a döntést követő második hónap első napjától kell a csökkentett összegben folyósítani.
 
 (8) A rokkantsági ellátás és a rehabilitációs ellátás – a 32. § (1a) bekezdésének és az (1a) bekezdésnek a 2012. szeptember 1-jén hatályos szabályai szerinti – emelése, valamint az özvegyi nyugdíj – a Tny. 102/F. §-ának a 2012. szeptember 1-jén hatályos szabályai szerinti – csökkentése nem hajtható végre, az erről szóló határozatokat vissza kell vonni.
 
