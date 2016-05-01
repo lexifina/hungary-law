@@ -4,7 +4,7 @@ a) a részben vagy egészben a központi költségvetés, a Nyugdíjbiztosítás
 
 b) a központi költségvetés, az elkülönített állami pénzalap terhére juttatott támogatás, adó-visszaigénylés vagy adó-visszatérítés,
 
-c) a közösségi vámjog végrehajtásáról szóló törvény hatálya alá tartozó kötelező befizetések
+c) az uniós vámjog végrehajtásáról szóló törvény hatálya alá tartozó kötelező befizetések
 
 megállapítása, beszedése, nyilvántartása, végrehajtása, visszatérítése, kiutalása és ellenőrzése, feltéve, ha törvény vagy kormányrendelet eltérően nem rendelkezik.
 
@@ -20,7 +20,7 @@ d) Központi Irányítása és a feladat- és hatáskörrel rendelkező terület
 
 e) előterjeszti a hatáskörébe tartozó kötelező befizetésekkel vagy költségvetési támogatással kapcsolatban elkövetett bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igényt,
 
-f) lefolytatja az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti központosított ellenőrzést, valamint a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény (a továbbiakban: Vtv.) szerinti központosított utólagos ellenőrzést,
+f) lefolytatja az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti központosított ellenőrzést, valamint az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vtv.) szerinti központosított utólagos ellenőrzést,
 
 g) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai és munkavállalói részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
 
@@ -34,9 +34,9 @@ k) együttműködik a Magyar Szénhidrogén Készletező Szövetséggel a behozo
 
 (3) A NAV
 
-a) végzi a közösségi és a külön jogszabályok alapján a feladatkörébe tartozó ügyekben az informatikai rendszerek működtetéséből, alkalmazásából adódó tagállami feladatokat,
+a) végzi az európai uniós és a külön jogszabályok alapján a feladatkörébe tartozó ügyekben az informatikai rendszerek működtetéséből, alkalmazásából adódó tagállami feladatokat,
 
-b) végzi a közösségi és nemzeti jogszabályokban meghatározott nemzetközi együttműködésből adódó feladatokat, – ideértve a hatóságok közötti kölcsönös adminisztratív segítségnyújtást is – valamint részt vesz további két-, illetve többoldalú megállapodások előkészítésében, jogszabályi felhatalmazás alapján ellátja Magyarország képviseletét a NAV szakterületét érintő ügyekkel foglalkozó uniós és nemzetközi szervezetekben,
+b) végzi az európai uniós és nemzeti jogszabályokban meghatározott nemzetközi együttműködésből adódó feladatokat, – ideértve a hatóságok közötti kölcsönös adminisztratív segítségnyújtást is – valamint részt vesz további két-, illetve többoldalú megállapodások előkészítésében, jogszabályi felhatalmazás alapján ellátja Magyarország képviseletét a NAV szakterületét érintő ügyekkel foglalkozó uniós és nemzetközi szervezetekben,
 
 c) végzi a hatáskörébe tartozó uniós, illetve más nemzetközi forrásból finanszírozott projektek szervezését, irányítását, lebonyolítását,
 
@@ -64,9 +64,9 @@ i) ellátja a csődeljárásban, a felszámolási eljárásban, a végelszámol�
 
 (5) A NAV vámigazgatási jogkörében végzi
 
-a) a közösségi vámjog alapján az áruk vámeljárás alá vonását,
+a) az európai uniós vámjog alapján az áruk vámeljárás alá vonását,
 
-b) a vámhatáron át lebonyolódó áru- és utasforgalom vámellenőrzését, a vámtartozások és a vámeljáráshoz kapcsolódó nem közösségi adók és díjak kiszabását és beszedését,
+b) a vámhatáron át lebonyolódó áru- és utasforgalom vámellenőrzését, a vámtartozások és a vámeljáráshoz kapcsolódó egyéb terhek kiszabását és beszedését,
 
 c) közvetlenül vagy közvetve – meghatározott körben – az áruk azonosságának (adózási szempontból történő besorolásának és egyéb jogszabály által meghatározott követelményeknek) a vizsgálatát, illetve a vizsgálat megtörténtének ellenőrzését,
 

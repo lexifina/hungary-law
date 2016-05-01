@@ -29,5 +29,3 @@
 4. Az Art. 3. számú mellékletének K/2. pontja a következő új e) alponttal egészül ki:
 
 [2. Az adatszolgáltatás tartalmazza:]
-
-## „e) a vevőt a vásárlás során képviselő magánszemély nevét és adóazonosító számát.”
