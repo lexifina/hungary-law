@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján 5507,9 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján 5507,9 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2016. január 31.
+## Határidő: 2016. január 31., az Országos Atomenergia Hivatal cím javára biztosított 1256,4 millió forint tekintetében 2016. december 31.
 
 ## 2. felhívja a nemzeti fejlesztési minisztert, hogy az 1. pont szerint a Magyar Nemzeti Filmalap Zártkörűen Működő Részvénytársaság támogatása céljából átcsoportosított 3961,5 millió forint támogatással kapcsolatban a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság útján intézkedjen arról, hogy a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság letétkezelési szabályzata, mint támogatási program a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet rendelkezéseinek megfelelően kiegészítésre kerüljön, továbbá arról, hogy a támogatás felhasználása a mozgóképről szóló 2004. évi II. törvény 31/D. § (8)–(12) bekezdésének rendelkezéseivel összhangban történjen meg;
 
@@ -29,6 +29,8 @@
 ## Határidő: 2015. december 15.
 
 1. melléklet az 1078/2015. (II. 25.) Korm. határozathoz
+
+5K01742_0
 
 | XI. Miniszterelnökség XVII. Nemzeti Fejlesztési Minisztérium XX. Emberi Erőforrások Minisztériuma XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2015. Millió forintban, egy tizedessel |
 
@@ -129,3 +131,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1225/2016. (V. 2.) Korm. határozat 7. pontja szerint módosított szöveg.
