@@ -1,1 +1,0 @@
-52. § Hatályát veszti az Mmtv. 1. § (2) bekezdés 3. pontjában a „ha a jogosult ebben az időszakban, valamint a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel vagy egyáltalán nem rendelkezik jövedelemmel, a minimálbér összege;” szövegrész.

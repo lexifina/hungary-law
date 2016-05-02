@@ -1,3 +1,0 @@
-6. § Az Szt. a következő 24/B. §-sal egészül ki:
-
-„24/B. § A szociális hatóság az általa vezetett, a 18/B. §, a 20/C. §, a Gyvt. 139. § (2) bekezdése, továbbá – a program célcsoportjára tekintettel lefolytatott adatigénylés alapján – a nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (1) bekezdése szerinti, valamint a Tny. 96. § (1) bekezdése szerinti nyilvántartásából átadja a kormányrendeletben meghatározott, a 64. § (7) bekezdése szerinti program jogosultjainak természetes személyazonosító adatait és társadalombiztosítási azonosító jelét a jogosult lakcíme szerinti család- és gyermekjóléti szolgálatnak.”
