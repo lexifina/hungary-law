@@ -10,7 +10,7 @@
 
 ## Felelős: igazságügyi miniszter, belügyminiszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2016. június 30., a Liget Budapest projekt előkészítése és megvalósítása előirányzat javára biztosított 2200,0 millió forint tekintetében 2016. november 30.
+## Határidő: 2016. június 30., a Liget Budapest projekt előkészítése és megvalósítása előirányzat javára biztosított 2220,0 millió forint és a Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok előirányzat javára biztosított 1401,5 millió forint tekintetében 2016. november 30.
 
 ## 2. A Kormány egyetért azzal, hogy a Liget Budapest projekt megvalósításához a 2015. évben legfeljebb további 11 700,0 millió forint forrás biztosítása szükséges és felhívja a nemzetgazdasági minisztert, hogy gondoskodjon – az emberi erőforrások minisztere bevonásával – a szükséges források ütemezett rendelkezésre állásáról.
 
@@ -174,7 +174,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 5. pontja, az 1225/2016. (V. 2.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 3–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
