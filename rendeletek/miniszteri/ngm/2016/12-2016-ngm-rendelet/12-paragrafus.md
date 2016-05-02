@@ -1,3 +1,5 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-12. § Hatályát veszti a vámmentes vámkezelésre jogosultak köréről szóló 18/2011. (IV. 19.) NGM rendelet.
+12. §[^1]
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
