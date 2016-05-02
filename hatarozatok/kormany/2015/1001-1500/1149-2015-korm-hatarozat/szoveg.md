@@ -38,7 +38,7 @@ di) a gyakorlathoz kapcsolódó, konszenzusos állásfoglalások kialakításán
 
 dj) a gyakorlattal kapcsolatos rész- és összegző értékelés összeállítása, szükség szerint javaslattétel a nemzeti eljárási rend ésszerűsítésére, javítására;
 
-dk) a gyakorlat jellegétől függően a NATO vagy az EU szervezetén belül kialakított összegzett értékelés elfogadását követő egy hónapon belül a lefolytatott gyakorlatról átfogó jelentés összeállítása a Kormány részére;
+dk)[^1]
 
 Felelős: honvédelemért felelős miniszter
 
@@ -57,3 +57,5 @@ f) felhívja a honvédelemért felelős minisztert, hogy a központi költségve
 Felelős: honvédelemért felelős miniszter
 
 Határidő: első alkalommal a 2016. évi költségvetés tervezés folyamatában, ezt követően évente
+
+[^1]: A d) pont dk) alpontját az 1222/2016. (V. 2.) Korm. határozat 2. pontja visszavonta.
