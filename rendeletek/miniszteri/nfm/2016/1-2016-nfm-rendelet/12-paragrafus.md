@@ -1,5 +1,6 @@
-12. § (1)[^2]
+12. § (1)[^3]
 
-(2) Hatályát veszti a 11. § (13) és (14) bekezdése.
+(2)[^4]
 
-[^2]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

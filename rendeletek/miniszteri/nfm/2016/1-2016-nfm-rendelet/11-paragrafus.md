@@ -64,7 +64,7 @@ c) a kereskedelmi szabályzatban meghatározottak szerint a korrekciós hozzáj�
 
 (12) A Befogadó a (11) bekezdés szerinti adatok honlapon történő elérhetőségét 5 évig köteles biztosítani.
 
-(13)–(14)[^1]
+(13)–(14)[^2]
 
 (15) A Befogadó vagy a KÁT pénzeszköz fizetésére kötelezett a (10) bekezdés szerint meghatározott korrekciós hozzájárulás ráeső összegéről egy számlát állít ki.
 
@@ -90,4 +90,4 @@ c) a kereskedelmi szabályzatban meghatározottak szerint a korrekciós hozzáj�
 
 5. tervezett értékesítési adat: a KÁT pénzeszköz fizetésére kötelezett által megadott, a mérlegkörére vonatkozó, a következő hónapra prognosztizált fogyasztási adat, amely a VET 13. §-a szerinti mennyiségeket és a hálózati engedélyesek hálózati veszteségét nem tartalmazza.
 
-[^1]: A 11. § (13)–(14) bekezdése a 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 11. § (13)–(14) bekezdése a 12. § (2) bekezdése alapján hatályát vesztette.
