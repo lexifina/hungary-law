@@ -1,4 +1,4 @@
-## 55. § Hatályát veszti a közösségi vámjog végrehajtásának részletes szabályairól szóló 15/2004. (IV. 5.) PM rendelet.
+## 55. §[^3]
 
 1. melléklet a 11/2016. (IV. 29.) NGM rendelethez
 
@@ -137,3 +137,5 @@ Hivatkozási szám (választható): ha van Önnek nyilvántartási száma, itt a
 A KSZF-határozat iránti kérelem vagy azzal egyező adattartalmú és formátumú, a nyilatkozattevő által – fénymásolás útján, nyomdailag vagy más módon szabadon – előállított dokumentum.
 
 A KSZF-határozat iránti kérelmet egy példányban kiállítva kell benyújtani a NAV Szakértői Intézetéhez.
+
+[^3]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
