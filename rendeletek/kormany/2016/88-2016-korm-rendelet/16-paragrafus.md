@@ -1,1 +1,0 @@
-## „c) a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben a vámhatóság részére meghatározott kötelező bioüzemanyag-részarány teljesítésével kapcsolatos helyszíni ellenőrzést.”
