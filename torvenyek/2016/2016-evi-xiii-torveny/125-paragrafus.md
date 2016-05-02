@@ -1,1 +1,0 @@
-125. § Az energiaadóról szóló 2003. évi LXXXVIII. törvény 7. § (1a) bekezdésében az „az adózás rendjéről szóló törvény” szövegrész helyébe az „az uniós vámjog végrehajtásáról szóló törvény” szöveg lép.
