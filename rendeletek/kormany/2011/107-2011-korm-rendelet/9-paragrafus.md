@@ -1,10 +1,10 @@
 ## 4. A támogatások felhasználásának alapvető szabályai
 
-9. § (1)[^45] A támogatási igazolásban foglalt jogcímek alapján nyújtott támogatás előfinanszírozással is történhet. Ha a támogatás előfinanszírozással kerül biztosításra, a támogatott az 5–6. §-ban foglaltaknak megfelelően kiállított támogatási igazolásokban szereplő támogatás, valamint a sportfejlesztési program megvalósítását biztosító saját forrás összegével utólagos elszámolás mellett, az e rendeletben foglaltak szerint számol el.
+9. § (1)[^61] Az igazolásban és a támogatási igazolásban foglalt jogcímek alapján nyújtott támogatás előfinanszírozással is történhet. Ha a támogatás előfinanszírozással kerül biztosításra, a támogatott az 5–6. §-ban foglaltaknak megfelelően kiállított igazolásokban és támogatási igazolásokban szereplő támogatás, valamint a sportfejlesztési program megvalósítását biztosító saját forrás összegével utólagos elszámolás mellett, az e rendeletben foglaltak szerint számol el.
 
 (2) Az országos sportági szakszövetség a támogatást szerződéssel – az ellenőrző szervezet által jóváhagyott sportfejlesztési programban meghatározott céllal egyezően és azonos feltételekkel – a tagszervezeteként működő sportszervezet, továbbá képzési támogatás esetén a szakszövetség képzési programjának megvalósítását végző más, a támogatás igénybevételére jogosult szervezet (a továbbiakban: a támogatás végső kedvezményezettje) részére továbbadhatja, ha
 
-a) a támogatási igazolásban foglalt jogcím építési beruházásra irányuló tárgyi eszköz beruházás, felújítás, vagy egyébként ingatlanfejlesztést érintő tárgyi eszköz beruházás, felújítás, az edzésen, versenyen, mérkőzésen használt sportfelszerelést, sporteszközt érintő tárgyi eszköz beruházás, képzési támogatás, vagy versenyeztetéssel összefüggő feladatok támogatása, és
+a)[^62] az igazolásban vagy a támogatási igazolásban foglalt jogcím építési beruházásra irányuló tárgyi eszköz beruházás, felújítás, vagy egyébként ingatlanfejlesztést érintő tárgyi eszköz beruházás, felújítás, az edzésen, versenyen, mérkőzésen használt sportfelszerelést, sporteszközt érintő tárgyi eszköz beruházás, képzési támogatás, vagy versenyeztetéssel összefüggő feladatok támogatása, és
 
 b) a támogatás továbbadását – a (3) bekezdésben foglaltakra is figyelemmel – a támogató nem zárta ki, és
 
@@ -12,31 +12,33 @@ c) az a) pontban felsorolt támogatási jogcímek igénybevételére a támogat�
 
 d) a támogatás végső kedvezményezettje a Tao. tv. 22/C. § (5) bekezdésében meghatározott feltételeknek megfelel.
 
-(3)[^46] A versenyeztetéssel összefüggő feladatok támogatása – az országos sportági szakszövetség díjfizetési rendjében rögzített díjak csökkentésén keresztül – a szakszövetségen keresztül is történhet. Ilyen esetben a szakszövetség készíti el és nyújtja be a sportfejlesztési programot jóváhagyásra és kérelmezi a támogatási igazolás kiállítását. A díjcsökkentés nem minősül továbbadott támogatásnak.
+(3)[^63] A versenyeztetéssel összefüggő feladatok támogatása – az országos sportági szakszövetség díjfizetési rendjében rögzített díjak csökkentésén keresztül – a szakszövetségen keresztül is történhet. Ilyen esetben a szakszövetség készíti el és nyújtja be a sportfejlesztési programot jóváhagyásra és kérelmezi az igazolás és a támogatási igazolás kiállítását. A díjcsökkentés nem minősül továbbadott támogatásnak.
 
-(4)[^47] A támogatás továbbadására vonatkozó igényt a sportfejlesztési programban külön fel kell tüntetni. A továbbadott támogatás felhasználására az e rendeletben foglaltakat kell alkalmazni.
+(4)[^64] A támogatás továbbadására vonatkozó igényt a sportfejlesztési programban külön fel kell tüntetni. A továbbadott támogatás felhasználására az e rendeletben foglaltakat kell alkalmazni.
 
-(5)[^48] Ha a támogatás végső felhasználója nem az országos sportági szakszövetség, a továbbadott támogatásról és a sportfejlesztési program megvalósítását biztosító saját forrás összegének felhasználásáról a támogatás végső kedvezményezettje az 1. melléklet szerinti nyomtatványon (a továbbiakban: összesített elszámolási táblázat) számol el, és azt az országos sportági szakszövetségen keresztül küldi meg az ellenőrző szervezetnek.
+(5)[^65] Ha a támogatás végső felhasználója nem az országos sportági szakszövetség, a továbbadott támogatásról és a sportfejlesztési program megvalósítását biztosító saját forrás összegének felhasználásáról a támogatás végső kedvezményezettje az 1. melléklet szerinti nyomtatványon (a továbbiakban: összesített elszámolási táblázat) számol el, és azt az országos sportági szakszövetségen keresztül küldi meg az ellenőrző szervezetnek.
 
-(6)[^49] Amennyiben a támogatási igazolásban foglalt jogcím építési engedélyhez kötött beruházásra, felújításra irányuló tárgyi eszköz beruházás, felújítás, és összege meghaladja a 10 millió forintot, úgy annak megvalósítását szolgáló támogatás csak utófinanszírozás formájában nyújtható.
+(6)[^66] Amennyiben az igazolásban vagy a támogatási igazolásban foglalt jogcím építési engedélyhez kötött beruházásra, felújításra irányuló tárgyi eszköz beruházás, felújítás, és összege meghaladja a 10 millió forintot, úgy annak megvalósítását szolgáló támogatás csak utófinanszírozás formájában nyújtható.
 
-(7) A támogatási igazolásban foglalt jogcímek alapján nyújtott támogatásból végrehajtott fejlesztés szakmai és pénzügyi megvalósulásáért kizárólag a támogatott szervezet felelős, a támogatót semmilyen felelősség nem terheli.
+(7)[^67] Az igazolásban és a támogatási igazolásban foglalt jogcímek alapján nyújtott támogatásból végrehajtott fejlesztés szakmai és pénzügyi megvalósulásáért kizárólag a támogatott szervezet felelős, a támogatót semmilyen felelősség nem terheli.
 
 (8) A támogatott szervezet a támogatást támogatási jogcímenként külön-külön önálló pénzforgalmi számlán tartja nyilván és kezeli.
 
 (9) A támogatott szervezet a támogatás felhasználását elkülönítetten és naprakészen, az ellenőrző szervezet vagy más ellenőrző hatóság által bármikor ellenőrizhető módon tartja nyilván.
 
-(10)[^50] A támogatott szervezet a támogatást kizárólag a jóváhagyó szervezet által kiállított támogatási igazolásban meghatározottak szerinti jogcímre, az abban meghatározott mértékben használhatja fel. A támogatott szervezet az önrészt a sportfejlesztési program megvalósításával összhangban, a szükséges mértékben úgy köteles rendelkezésre bocsátani, hogy annak teljes összege a támogatási időszakban felhasználásra kerüljön.
+(10)[^68] A támogatott szervezet a támogatást kizárólag a jóváhagyó szervezet által kiállított igazolásban vagy támogatási igazolásban meghatározottak szerinti jogcímre, az abban meghatározott mértékben használhatja fel. A támogatott szervezet az önrészt a sportfejlesztési program megvalósításával összhangban, a szükséges mértékben úgy köteles rendelkezésre bocsátani, hogy annak teljes összege a támogatási időszakban felhasználásra kerüljön.
 
-(11)[^51] A támogató a támogatás juttatásáért a támogatott szervezet részéről semmilyen ellenszolgáltatásra nem jogosult, az ezzel ellentétes megállapodás semmis. Ilyen megállapodás esetén a támogató nem jogosult a Tao. tv. 22/C. § (2) bekezdése szerinti adókedvezmény igénybevételére sem.
+(11)[^69] A támogató a támogatás juttatásáért a támogatott szervezet részéről semmilyen ellenszolgáltatásra nem jogosult, az ezzel ellentétes megállapodás semmis. Ilyen megállapodás esetén a támogató nem jogosult a Tao. tv. 22/C. § (2) bekezdése szerinti adókedvezmény igénybevételére sem.
 
-(12)[^52] A támogató a szponzori szerződés keretében történő kiegészítő sportfejlesztési támogatás juttatásáért a támogatott szervezet részéről ellenszolgáltatásra jogosult. Az erre vonatkozó szerződés a támogató Tao. tv. 22/C. § (2) bekezdésében meghatározott adókedvezmény igénybevételére való jogosultságát nem érinti.
+(12)[^70] A támogató a szponzori szerződés keretében történő kiegészítő sportfejlesztési támogatás juttatásáért a támogatott szervezet részéről ellenszolgáltatásra jogosult. Az erre vonatkozó szerződés a támogató Tao. tv. 22/C. § (2) bekezdésében meghatározott adókedvezmény igénybevételére való jogosultságát nem érinti.
 
-[^45]: A 9. § (1) bekezdése a 134/2013. (V. 9.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^46]: A 9. § (3) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^47]: A 9. § (4) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^48]: A 9. § (5) bekezdése a 134/2013. (V. 9.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^49]: A 9. § (6) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^50]: A 9. § (10) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^51]: A 9. § (11) bekezdése a 134/2013. (V. 9.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^52]: A 9. § (12) bekezdését a 134/2013. (V. 9.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^61]: A 9. § (1) bekezdése a 134/2013. (V. 9.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 96/2016. (V. 2.) Korm. rendelet 12. § j) pontja szerint módosított szöveg.
+[^62]: A 9. § (2) bekezdés a) pontja a 96/2016. (V. 2.) Korm. rendelet 12. § k) pontja szerint módosított szöveg.
+[^63]: A 9. § (3) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 96/2016. (V. 2.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^64]: A 9. § (4) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^65]: A 9. § (5) bekezdése a 134/2013. (V. 9.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^66]: A 9. § (6) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 96/2016. (V. 2.) Korm. rendelet 12. § k) pontja szerint módosított szöveg.
+[^67]: A 9. § (7) bekezdése a 96/2016. (V. 2.) Korm. rendelet 12. § l) pontja szerint módosított szöveg.
+[^68]: A 9. § (10) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 96/2016. (V. 2.) Korm. rendelet 12. § m) pontja szerint módosított szöveg.
+[^69]: A 9. § (11) bekezdése a 134/2013. (V. 9.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^70]: A 9. § (12) bekezdését a 134/2013. (V. 9.) Korm. rendelet 4. § (4) bekezdése iktatta be.

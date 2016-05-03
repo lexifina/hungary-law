@@ -1,65 +1,77 @@
-## Összesített elszámolási táblázat
+| Elszámolásért felelős személy neve és telefonszáma:……………………………………………………. |  |  |  |
 
-| Támogatott szervezet neve: |  |
+| Összesített elszámolási táblázat |
 
-| Végső felhasználó kedvezményezett neve: |  |
+| Támogatott szervezet neve |  |
 
-| Jóváhagyott támogatási igazolás iktatási száma: |  |
+| Végső felhasználó kedvezményezett neve |  |
 
-| Támogatási jogcím megnevezése: |  |
+| Jóváhagyott sportfejlesztési program száma |  |
 
-| Jóváhagyott támogatási igazolás szerinti támogatási összeg: |  |
+| Támogatási jogcím megnevezése |  |
 
-| Sorszám | Bizonylatszám | Számla kibocsátója | Megnevezés/ felhasználás | Teljesítés időpontja | Számla bruttó értéke | Elszámolt költség (támogatás és saját forrás) |
+| A jogcímen jóváhagyott közvetlen támogatási összeg |  |
 
-| 1. |  |  |  |  |  |  |
+| A jogcímen jóváhagyott közvetlen támogatási összeghez kapcsolódó önrész |  |
 
-| 2. |  |  |  |  |  |  |
+| A jogcímen lehívott közvetlen támogatási összeg |  |
 
-| 3. |  |  |  |  |  |  |
+| Az elszámolás módja (az ÁFA-levonási nyilatkozatnak megfelelően, aláhúzandó) | 1.) Bruttó /nincs ÁFA levonás/, 2.) Nettó /ÁFA levonás/, 2.A) Bruttó /elkülönítetten kezelt támogatott tevékenység/ |
 
-| 4. |  |  |  |  |  |  |
+| Sor- szám | Számla száma | Számla kibocsátója | Konkrét esemény, feladat, tevékenység, eszköz megnevezése | Számla kelte | Számla teljesítésének időpontja | A számla kifizetésének időpontja | Számla bruttó értéke | A számlából elszámolni kívánt érték | A számlából elszámolni kívánt közvetlen támogatási összeg |
 
-| 5. |  |  |  |  |  |  |
+| 1. |  |  |  |  |  |  |  |  |  |
 
-| 6. |  |  |  |  |  |  |
+| 2. |  |  |  |  |  |  |  |  |  |
 
-| 7. |  |  |  |  |  |  |
+| 3. |  |  |  |  |  |  |  |  |  |
 
-| 8. |  |  |  |  |  |  |
+| 4. |  |  |  |  |  |  |  |  |  |
 
-| 9. |  |  |  |  |  |  |
+| 5. |  |  |  |  |  |  |  |  |  |
 
-| 10. |  |  |  |  |  |  |
+| 6. |  |  |  |  |  |  |  |  |  |
 
-|  |  |  | ÖSSZESEN: |  |  |  |
+| 7. |  |  |  |  |  |  |  |  |  |
 
-## Büntetőjogi felelősségem tudatában kijelentem, hogy az alább felsorolt számlák hitelesek, és csak a sportpolitikáért felelős miniszter felé, a ......................................... iktatószámú támogatási igazolással kapcsolatban lettek elszámolva.
+| 8. |  |  |  |  |  |  |  |  |  |
 
-## Igazolom, hogy az elszámolásban foglaltak a hatályos pénzügyi és számviteli előírások szerint kerültek felhasználásra, kifizetésre és könyvelésre.
+| 9. |  |  |  |  |  |  |  |  |  |
 
-## Az elszámolás kelte: .......................................................
+| 10. |  |  |  |  |  |  |  |  |  |
 
-## P. H.
+| ÖSSZESEN: |  |  | 0 |  | 0 |
 
-## .........................................................................................
+| Büntetőjogi felelősségem tudatában kijelentem, hogy az alább felsorolt számlák hitelesek és csak a sportigazgatási szerv felé, a(z)......................................................... iktatószámú sportfejlesztési programmal kapcsolatban lettek elszámolva. Igazolom, hogy az elszámolásban foglaltak a hatályos pénzügyi és számviteli előírások szerint kerültek felhasználásra, kifizetésre és könyvelésre. |
 
-## a képviseletre jogosult személy aláírása
+| Az elszámolás kelte: .............................................. |  |  |  |  | P. H. |  |  |
 
-2. melléklet a 107/2011. (VI. 30.) Korm. rendelethez
+|  |  |  |  |  |  |  | ..................................................................... |
 
-Könyvvizsgáló által hitelesítendő adatok
+|  |  |  |  |  |  |  | a képviseletre jogosult személy neve és aláírása |
 
-Elszámolási időszak:
+2. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^150]
 
-| Sor- szám | Számla Bizonylat száma1 | Szállító neve | Termék/szolgáltatás megnevezése | Számviteli teljesítés időpontja (számviteli- leg)2 | Támogatási jogcím (SZJ, TE, UP) | Jóváhagyott sport- fejlesztési programnak megfelel (igen/nem) | Teljesítettség3(igen/nem) | Piaci értéknek megfelel (igen/nem) | Elszámolt költség | Megfizetés napja pénzügyi rendezés időpontja | Lehívható támogatás4 | Ténylegesen igénybe vett támogatás |
+| Könyvvizsgálói összesített adatlap |
 
-_____________________
+| Sor- szám | Számla Bizonylat száma1 | Szállító neve | Termék/szolgáltatás megnevezése | Számviteli teljesítés időpontja (számvitelileg)² | Támogatási jogcím (SZ, T, UP, K, V) | Jóváhagyott sportfejlesztési programnak megfelel | Teljesítettség3 | Piaci értéknek megfelel | Elszámolt költség | Megfizetés napja pénzügyi rendezés időpontja | Lehívható közvetlen4 támogatás5 | Ténylegesen igénybe vett közvetlen támogatás |
 
-1 Számlaszám, illetve amennyiben a költség nem számlával alátámasztott (pl. bérköltség), akkor az egyéb számviteli bizonylat száma (pl. bérfeladási jegyzék száma)
+| (igen/nem) | (igen/nem) | (igen/nem) |
 
-2 Több elszámolási időszakot érintő költség (pl. június – augusztus) esetén az elszámolható költségeket arányosan meg kell osztani. Ezt külön be kell mutatni.
+|  | 1 Számlaszám, illetve amennyiben a költség nem számlával alátámasztott (pl. bérköltség), akkor az egyéb számviteli bizonylat száma (pl. bérfeladási jegyzék száma) |  |  |
 
-3 Szolgáltatások esetében a rendelkezésre álló dokumentáció alapján kell ellenőrizni. Termékek/beruházások esetén leltárral és helyszíni szemlével is alá kell támasztani.
+|  | 2 Több elszámolási időszakot érintő költség (pl. június – augusztus) esetén az elszámolható költségeket arányosan meg kell osztani. Ezt külön be kell mutatni. |  |  |
 
-4 Amennyiben bármelyik mező esetében a válasz nemleges, akkor ennek összege nulla, vagy a rendelkezésre álló dokumentáció alapján arányosan csökkentendő (pl. részleges teljesítettség, piaci árat meghaladó költség, részleges kifizetettség stb. ) Arányos elszámolhatóság esetén az eredményt számszakilag külön be kell mutatni.
+|  | 3 Szolgáltatások esetében a rendelkezésre álló dokumentáció alapján kell ellenőrizni. Termékek/beruházások esetén leltárral és helyszíni szemlével is alá kell támasztani. |  |  |
+
+|  | 4 A közvetlen támogatás nem tartalmazza a közreműködői költséget és az ellenőrző szervezetnek fizetendő hatósági díjat. |  |  |  |
+
+|  | 5 Amennyiben bármelyik mező esetében a válasz nemleges, akkor ennek összege nulla, vagy a rendelkezésre álló dokumentáció alapján arányosan csökkentendő (pl. részleges teljesítettség, piaci árat meghaladó költség, részleges kifizetettség stb. ) Arányos elszámolhatóság esetén az eredményt számszakilag külön be kell mutatni. |  |  |
+
+|  |  |  |  |  |  |  |  |  | P. H. |  |  |  |
+
+| A könyvvizsgálói ellenőrzés kelte: | ………………………………………….. |  |  |  |  | ............................................ |  |
+
+|  |  |  |  |  |  |  |  |  |  | a könyvvizsgáló aláírása |  |
+
+[^150]: A 2. melléklet a 96/2016. (V. 2.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
