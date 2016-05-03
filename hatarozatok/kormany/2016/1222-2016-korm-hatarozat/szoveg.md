@@ -8,4 +8,6 @@ részt vevő központi államigazgatási szervek vezetői
 
 Határidő: folyamatos
 
-2. visszavonja a H. d) pont dk) alpontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
