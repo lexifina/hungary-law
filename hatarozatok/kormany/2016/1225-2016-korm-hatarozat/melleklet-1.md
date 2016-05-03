@@ -6,29 +6,13 @@
 
 ## Határidő: azonnal
 
-## 2. Az MNKH Magyar Nemzeti Kereskedőház Zártkörűen Működő Részvénytársaság költségvetésének biztosításával összefüggő feladatokról szóló 1039/2016. (II. 10.) Korm. határozat
-
-## a) 1. pontjában az „a Magyar Kereskedelem-fejlesztési és Promóciós Kft., illetve az MNKH Közép-európai Kereskedelemfejlesztési Hálózat Kft. közfeladatainak” szövegrész helyébe az „a közfeladatainak” szöveg;
-
-## b) 2. pontjában
-
-## ba) a „feladat” szövegrész helyébe a „cél” szöveg,
-
-## bb) az „a Magyar Kereskedelem-fejlesztési és Promóciós Kft., valamint az MNKH Közép-európai Kereskedelemfejlesztési Hálózat Kft.” szövegrész helyébe az „az MNKH Magyar Nemzeti Kereskedőház Zártkörűen Működő Részvénytársaság” szöveg,
-
-## bc) az „azonnal” szövegrész helyébe a „felmerülés ütemében” szöveg
-
-## lép.
-
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1035/2015. (I. 30.) Korm. határozat 1. pontjában a „2200,0 millió forint tekintetében” szövegrész helyébe a „2220,0 millió forint és a Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok előirányzat javára biztosított 1401,5 millió forint tekintetében” szöveg lép.
+## 2–3.[^1]
 
 ## 4. A Kormány egyetért azzal, hogy a Miniszterelnökség költségvetési fejezetből történő előirányzat-átcsoportosításról szóló 1790/2015. (X. 30.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 2. Kormányzati kommunikációval kapcsolatos feladatok jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 1 000 000 ezer forint a K3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra, valamint a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 3. Konzultációk kiadásai jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 1 000 000 ezer forintból 524 000 ezer forint a K3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
 ## 5. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő forrásbiztosításról és egyéb előirányzat-átcsoportosításokról, valamint egyes kormányhatározatok módosításáról, továbbá a 2014. évi költségvetési maradványok egy részének felhasználásáról szóló 1980/2015. (XII. 23.) Korm. határozat 2. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 2. Kormányzati kommunikációval kapcsolatos feladatok jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 1800,0 millió forint a K3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra, valamint a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 3. Konzultációk kiadásai jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 1200,0 millió forintból 983,5 millió forint a K3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra.
 
-## 6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, kormányhatározatok módosításáról, továbbá a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1049/2016. (II. 15.) Korm. határozat 1. pont 1.2. alpontjában a „2016. december 31.” szövegrész helyébe a „2016. december 31., az Agrármarketing célelőirányzat jogcímcsoport javára átcsoportosított 150,0 millió forint tekintetében 2017. június 30.” szöveg lép.
-
-## 7. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és az egyes kormányhatározatok módosításáról szóló 1035/2015. (I. 30.) Korm. határozat végrehajtása során alkalmazandó eltérő rendelkezésekről szóló 1078/2015. (II. 25.) Korm. határozat 1. pontjában a „2016. január 31.” szövegrész helyébe a „2016. január 31., az Országos Atomenergia Hivatal cím javára biztosított 1256,4 millió forint tekintetében 2016. december 31.” szöveg lép.
+## 6–7.[^2]
 
 1. melléklet az 1225/2016. (V. 2.) Korm. határozathoz
 
@@ -245,3 +229,6 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
