@@ -1,1 +1,0 @@
-## 46. § Valamennyi emelési műveletet körültekintően kell megtervezni, és oly módon megvalósítani, illetve felügyelni, hogy a munkavállalók és a munkavégzés hatókörében tartózkodók egészségének és biztonságának védelme biztosítva legyen.

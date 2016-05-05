@@ -1,5 +1,0 @@
-19. § (1) A munkaeszközt jól látható, azonosítható és megfelelő jelzéssel rendelkező kezelőelemmel kell ellátni. A kezelőelemeket lehetőleg a veszélyes téren kívül és olyan módon kell elhelyezni, hogy működésük (ideértve a kezelő akaratától független vagy váratlan működtetést is) ne jelentsen veszélyt.
-
-(2)[^9] A munkaeszköz kezelője a fő kezelőhelyről egyértelműen meggyőződik arról, hogy senki sem tartózkodik a veszélyes térben. Ha ez nem lehetséges, automatikusan működő biztonsági jelzést – hangjelzés vagy világító jelzés formájában – ad a munkaeszköz elindítása előtt. A vezérlőberendezésnek, amely a munkaeszköz kezelője részére biztosítja a szükséges jelzést, biztonságosnak kell lennie, meghibásodása vagy megrongálódása nem idézhet elő veszélyes helyzetet. A vezérlőberendezésnek biztonságosnak kell lenniük és kiválasztásukkor kellően figyelembe kell venni azokat a meghibásodásokat, zavarokat és korlátokat, amelyekre a tervezett használat során számítani lehet.
-
-[^9]: A 19. § (2) bekezdése az 50/2011. (XII. 22.) NGM rendelet 9. §-ával megállapított szöveg.

@@ -1,1 +1,0 @@
-## 42. § Ha két vagy több, nem kézzel vezetett teher emelésére állítanak fel, illetve szerelnek össze helyhez kötött emelőgépeket úgy, hogy azoknak a hatósugara egymásba ér, megfelelő intézkedéseket kell tenni annak érdekében, hogy a terhek és a munkaeszközök szerkezeti elemeinek összeütközése ne következhessen be.

@@ -1,1 +1,0 @@
-## 14. § Ha az egészséget nem veszélyeztető és biztonságos munkavégzés körülményeit a munkaeszközök használata során nem lehet a munkavállalók számára teljes mértékben biztosítani, a munkáltató biztonsági berendezések, egyéni védőeszközök és szervezési intézkedések szükség szerinti alkalmazásával a kockázatokat minimálisra csökkenti.

@@ -1,1 +1,0 @@
-## 49. § A terhek mozgatására szabadban használt emelőgépekkel végzett tevékenységet le kell állítani, ha a munkaeszköz működésének biztonságát és biztonságos használatát az időjárási körülmények veszélyeztetik. Ilyen esetben a munkaeszköz használati tájékoztatója által meghatározott intézkedéseket kell megtenni, különös tekintettel a munkaeszköz felborulásának megelőzésére.

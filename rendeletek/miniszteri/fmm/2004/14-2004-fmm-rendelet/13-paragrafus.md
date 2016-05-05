@@ -1,1 +1,0 @@
-## 12. § A munkáltató köteles a munkavállalók munkavégzéséhez olyan munkaeszközt rendelkezésükre bocsátani, amely kialakításában, felépítésében és az alkalmazott védelmi megoldások tekintetében megfelel a munkavédelemre vonatkozó szabályoknak, és alkalmas az adott munkahelyi körülmények közötti – a biztonságot és egészséget nem veszélyeztető – használatra.
