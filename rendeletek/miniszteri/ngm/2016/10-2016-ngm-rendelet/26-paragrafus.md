@@ -1,0 +1,1 @@
+## 25. § A munkáltatónak az Mvt. VI. fejezetében meghatározott, az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében folytatott tanácskozáson, valamint a munkáltatói intézkedések előzetes megvitatása során konzultálnia kell a munkavállalókkal, illetve munkavédelmi képviselőikkel a munkaeszközökkel kapcsolatos kérdésekről.

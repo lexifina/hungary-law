@@ -1,0 +1,1 @@
+## 12. § A munkavállaló biztonsága érdekében alkalmazott jelölésnek, figyelmeztető jelzésnek, illetve berendezésnek egyértelműnek, könnyen észrevehetőnek és a munkavállaló által érthetőnek kell lennie.

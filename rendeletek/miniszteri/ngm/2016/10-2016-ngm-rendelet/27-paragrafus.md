@@ -1,0 +1,1 @@
+## 26. § A munkaeszköz kiválasztásánál figyelembe kell venni a munkakörülmények sajátosságait, a munkavégzés jellemzőit, lehetséges veszélyeit, valamint a munkakörülményekből adódó kockázatok mellett a munkaeszköz használatából származó további kockázatokat.

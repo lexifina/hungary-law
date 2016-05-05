@@ -1,0 +1,1 @@
+## 49. § A teheremelés munkafolyamatát úgy kell megszervezni, hogy a tehernek a teherfelvevő eszközre kézzel történő felfüggesztése vagy levétele az e feladatot ellátó munkavállaló által biztonságosan legyen elvégezhető.

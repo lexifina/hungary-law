@@ -1,0 +1,1 @@
+## 13. § Karbantartási műveletet csak a munkaeszköz leállított állapotában szabad végezni, ha ez nem lehetséges, megfelelő védőintézkedést kell tenni, vagy biztosítani kell, hogy az ilyen művelet a veszélyes téren kívül elvégezhető legyen.

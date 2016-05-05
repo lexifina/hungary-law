@@ -1,0 +1,1 @@
+## 39. § A tartósan helyhez kötött, teher emelésére használt munkaeszközt úgy kell telepíteni, hogy a teher munkavállalóval történő ütközésének, lezuhanásának, az emelő horogból és a teherfelvevő eszközből véletlenül történő kiakadásának, illetve a nem kívánt egyéb veszélyek kialakulásának a kockázata csökkenjen.
