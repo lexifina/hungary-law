@@ -4,7 +4,7 @@
 
 ## c) fejlesztési célú hitel esetében a hitelt csak az 1. mellékletben szereplő fejlesztésekre lehet fordítani.
 
-1. melléklet az 1974/2015. (XII. 23.) Korm. határozathoz
+1. melléklet az 1974/2015. (XII. 23.) Korm. határozathoz[^1]
 
 | Sorszám | Önkormányzat neve | Ügylet adatai | Fejlesztés adatai | Kormány által engedélyezett fejlesztéshez kapcsolódó ügyletérték (Ft) | Kormány az ügylethez/ fejlesztéshez hozzájárul (Igen, Nem, Részben) | Jóváhagyott ügylet adatai |
 
@@ -24,7 +24,7 @@
 
 | 1.5 |  |  |  |  |  |  |  | 5 | 7.1. Közutak, hidak építése, felújítása | 2 108 200 | 2 108 200 | Igen |  |  |  |  |
 
-| 2. | BUDAPEST FŐVÁROS ÖNKORMÁNYZATA | 1 | EUR | fejlesztés | Hitel | 30 | 62 664 000 000 | 1 | 7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 62 664 000 000 | 62 664 000 000 | Igen | 0 | 22 664 000 000 | 20 000 000 000 | 20 000 000 000 |
+| 2. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 3. | BUDAPEST FŐVÁROS ÖNKORMÁNYZATA | 2 | EUR | fejlesztés | Hitel | 25 | 31 332 000 000 | 2 | 7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 31 332 000 000 | 31 332 000 000 | Igen | 0 | 11 332 000 000 | 10 000 000 000 | 10 000 000 000 |
 
@@ -41,3 +41,5 @@
 | 9. | ZALAKAROS VÁROS ÖNKORMÁNYZATA | 1 | HUF | fejlesztés | Hitel | 11 | 100 000 000 | 1 | 7.6. Egyéb rendezési tervekhez kapcsolódó infrastrukturális beruházások | 100 000 000 | 100 000 000 | Igen | 100 000 000 | 0 | 0 | 0 |
 
 | 10. | ZSADÁNY KÖZSÉGI ÖNKORMÁNYZAT | 1 | HUF | fejlesztés | Hitel | 3 | 3 186 125 | 1 | 7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 3 186 125 | 3 186 125 | Igen | 3 186 125 | 0 | 0 | 0 |
+
+[^1]: Az 1. melléklet az 1229/2016. (V. 6.) Korm. határozat 2. pontja szerint módosított szöveg.

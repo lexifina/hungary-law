@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1974-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-23 | 2015-1974-30-22.1 | 1974/2015. (XII. 23.) Korm. határozat |
+| 2016-05-06 | 2015-1974-30-22.2 | 1229/2016. (V. 6.) Korm. határozat |
