@@ -1,0 +1,1 @@
+13. § A 8. § (1) bekezdésében meghatározott feladat elrendelésekor az értékelő feladatellátási kötelezettsége az e törvény hatálybalépésekor már folyamatban lévő projektek értékelésére is kiterjedhet.

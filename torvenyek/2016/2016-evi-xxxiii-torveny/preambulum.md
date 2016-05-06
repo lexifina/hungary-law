@@ -1,0 +1,1 @@
+Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társadalmi és gazdaságpolitikai célok megvalósítása, az európai uniós források felhasználásával megvalósuló egyes projektek objektív, átlátható és a piaci szereplők érdekeitől független értékelése céljából a következő törvényt alkotja:
