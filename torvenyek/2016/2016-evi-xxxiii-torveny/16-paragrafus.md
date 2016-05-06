@@ -7,11 +7,3 @@ a) 6. § 4. pontjában a „nevelőszülői foglalkoztatási jogviszony és a k�
 b) a 85. § (2) bekezdésében a „tevékenység és a nevelőszülői foglalkoztatási jogviszony” szövegrész helyébe a „tevékenység, a nevelőszülői foglalkoztatási jogviszony és az állami projektértékelői jogviszony”
 
 szöveg lép.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
