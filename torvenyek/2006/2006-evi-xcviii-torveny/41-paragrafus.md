@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti működési célú támogatás igényléséhez a közforgalmú gyógyszertárat működtető vállalkozás beszerzi az egészségügyi államigazgatási szervtől a kormányrendeletben meghatározott jogosultsági feltételeket igazoló hatósági bizonyítványt.
 
-(3) A hatósági bizonyítvány iránti kérelmet a közforgalmú gyógyszertárat működtető vállalkozás a tárgynegyedévet követő harmadik hónap 20. napjáig nyújthatja be az egészségügyi államigazgatási szervhez, mely határidő jogvesztő. A kérelem önellenőrzéssel a későbbiekben sem korrigálható.
+(3) A hatósági bizonyítvány iránti kérelmet a közforgalmú gyógyszertárat működtető vállalkozás a tárgynegyedévet követő második hónap első napjától a harmadik hónap 20. napjáig nyújthatja be az egészségügyi államigazgatási szervhez, amely határidő jogvesztő. A kérelem önellenőrzéssel a későbbiekben sem korrigálható.
 
 (4) Az egészségügyi államigazgatási szerv a (3) bekezdés szerinti hatósági bizonyítványt tíz napon belül kiállítja.
 
