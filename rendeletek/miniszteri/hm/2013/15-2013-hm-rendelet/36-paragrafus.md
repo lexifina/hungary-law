@@ -12,6 +12,8 @@ b) a személyi állomány tagjának nem minősülő személy esetén a Honvéds�
 
 részére kell megküldeni, a kormány határozatában meghatározott beküldési határidő előtt 30 nappal.
 
-(2) Állami kitüntetésre olyan személy javasolható, aki érdemeinek elismeréseként korábban már részesült a miniszter által alapított elismerésben, és kiemelkedő teljesítményértékeléssel, minősítéssel rendelkezik.
+(2)[^16] Állami kitüntetésre olyan személy javasolható, aki érdemeinek elismeréseként korábban már részesült a Kormány tagja által alapított elismerésben, és kiemelkedő teljesítményértékeléssel, minősítéssel rendelkezik.
 
 (3) A KNBSZ állománya tagja esetében az elismerések felterjesztésére vonatkozó szabályoktól a KNBSZ főigazgatójának javaslatára el kell tekinteni.
+
+[^16]: A 36. § (2) bekezdése a 7/2016. (V. 5.) HM rendelet 3. §-a szerint módosított szöveg.

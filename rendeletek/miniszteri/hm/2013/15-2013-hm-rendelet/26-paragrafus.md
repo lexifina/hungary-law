@@ -18,13 +18,13 @@ c) a Katasztrófa-elhárításért Szolgálati Jel,
 
 d) a Sebesülési Emlékérem,
 
-e)[^4] a Migrációs Válsághelyzet Kezeléséért Szolgálati Jel
+e)[^5] a Migrációs Válsághelyzet Kezeléséért Szolgálati Jel
 
 ## adományozására vonatkozó javaslatot.
 
 (3) Kivételes esetben a Szolgálati Érdemjel adományozására vonatkozó javaslatokat Honvédség központi személyügyi szervéhez úgy kell felterjeszteni, hogy az adományozás tervezett időpontját megelőzően legalább 30 nappal megérkezzen.
 
-(4)[^5] A 11. melléklet szerinti névjegyzéken vagy elektronikusan kell felterjeszteni
+(4)[^6] A 11. melléklet szerinti névjegyzéken vagy elektronikusan kell felterjeszteni
 
 a) a Katasztrófa-elhárításért Szolgálati Jel,
 
@@ -42,5 +42,5 @@ f) a Honvédségért Oklevél
 
 (5) A Honvédségért Emlékplakett és a Honvédségért Emléklap adományozására vonatkozó javaslatot hivatásos katona esetében a szolgálati viszony megszüntetési javaslattal együtt, személyi javaslati lapon, vagy elektronikusan, szerződéses katona esetében névjegyzéken kell felterjeszteni az esedékesség előtt 30 nappal a Honvédség központi személyügyi szervéhez.
 
-[^4]: A 26. § (2) bekezdés e) pontját a 14/2015. (XII. 17.) HM rendelet 2. § (1) bekezdése iktatta be.
-[^5]: A 26. § (4) bekezdése a 14/2015. (XII. 17.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 26. § (2) bekezdés e) pontját a 14/2015. (XII. 17.) HM rendelet 2. § (1) bekezdése iktatta be.
+[^6]: A 26. § (4) bekezdése a 14/2015. (XII. 17.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.

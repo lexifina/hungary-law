@@ -1,4 +1,4 @@
-## 48. §[^23] A honvédelmi miniszter és a Honvéd Vezérkar főnöke által alapítható és adományozható elismerésekről szóló 15/2013. (VIII. 22.) HM rendelet módosításáról szóló 14/2015. (XII. 17.) HM rendelettel megállapított 7a. alcím, 26. § (2) bekezdés e) pontja és (4) bekezdés b) pontja, 34. § (1) bekezdése valamint a 2. melléklet 2/A. pontja első alkalommal a 2015. augusztus 3-át követően tanúsított helytállás elismerésére alkalmazható.
+## 49. §[^26] E rendeletnek a honvédelmi miniszter és a Honvéd Vezérkar főnöke által alapítható és adományozható elismerésekről szóló 15/2013. (VIII. 22.) HM rendelet módosításáról szóló 7/2016. (V. 5.) HM rendelettel megállapított 25/A. § (3) bekezdését, valamint 36. § (2) bekezdését 2016. március 1-jétől kell alkalmazni.
 
 1. melléklet a 15/2013. (VIII. 22.) HM rendelethez
 
@@ -12,4 +12,4 @@ Az állomány tagja részére szalagsáv, más személyek esetén miniatűr ker�
 
 3. Szolgálati Érdemjel leírása: az előlapján szalaggal átfont, zöld zománcozott babérkoszorúval határolt, fehér zománcozott ovális mezőben Magyarország aranyszínű címerét ábrázoló rátét nemzeti zászlókkal határolva. A babérkoszorú belső ívén, a fokozatoknak megfelelően arany, ezüst, bronz sáv látható, amely azonos a babérkoszorút átfonó szalag színével. Hátlapjának sima fémfelülete a fokozatnak megfelelő színű. A szalag háromszög alakúra hajtott, színe fokozatonként piros, fehér, illetve zöld, széleit nemzeti színű farkasfog minta díszíti. Az érem mérete 43Ű35 mm, anyaga tombak, zománcozott, aranyozott rátéttel kivitelezve. A Babérkoszorúval ékesített Szolgálati Érdemjel szalagján zöld zománcos, stilizált babérkoszorú ékítmény van.
 
-[^23]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 14/2015. (XII. 17.) HM rendelet 10. §-a iktatta be.
+[^26]: A 49. §-t a a 7/2016. (V. 5.) HM rendelet 2. §-a iktatta be.
