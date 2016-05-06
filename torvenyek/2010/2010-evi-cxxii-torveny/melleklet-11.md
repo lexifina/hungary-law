@@ -103,7 +103,3 @@ Minősítési lap
 ## Dátum, és a minősített aláírása:
 
 ## Az érdekképviseleti szerv észrevételei:
-
-## Dátum, és az érdekképviseleti szerv tisztségviselőjének neve, aláírása:
-
-## Tisztsége:
