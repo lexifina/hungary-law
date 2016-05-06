@@ -1,0 +1,3 @@
+## 1. § A honvédelmi miniszter és a Honvéd Vezérkar főnöke által alapítható és adományozható elismerésekről szóló 15/2013. (VIII. 22.) HM rendelet (a továbbiakban: rendelet) 25/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A (2) bekezdésen túl az Életműdíjas az adományozást követő hónap első napjától havonta pénzbeli juttatásban részesül. A pénzbeli juttatás összege havonta az érintettre irányadó adó- és járulékszabályok figyelembevételével nettó 100 000 Ft-nak megfelelő bruttó összeg. A havi pénzbeli juttatás – a 37. § (1) bekezdése kivételével – az Életműdíjas haláláig szól.”
