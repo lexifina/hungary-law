@@ -18,7 +18,7 @@
 
 ## cf) egyéb (ITS, P+R, hajók, logisztikai és intermodális központok).
 
-## 2. A Kormány visszavonja az önkormányzatok adósságot keletkeztető, valamint kezesség-, illetve garanciavállalásra vonatkozó ügyleteihez történő 2015. októberi előzetes kormányzati hozzájárulásról szóló 1974/2015. (XII. 23.) Korm. határozat 1. melléklet 2. pontjában Budapest Főváros Önkormányzata számára jóváhagyott kormányzati hozzájárulást.
+## 2.[^1]
 
 1. melléklet az 1229/2016. (V. 6.) Korm. határozathoz
 
@@ -31,3 +31,5 @@
 | 2016. | 2017. | 2018. | 2019-től összesen |
 
 | 1. | BUDAPEST FŐVÁROS ÖNKORMÁNYZATA | 1 | EUR | fejlesztés | Hitel | 30 | 62 664 000 000 | 1 | 7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok teljesítéséhez szükséges infrastrukturális beruházások | 62 664 000 000 | 62 664 000 000 | Igen | 22 664 000 000 | 20 000 000 000 | 20 000 000 000 | 0 |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
