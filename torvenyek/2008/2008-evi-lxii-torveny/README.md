@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-62-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2008-12-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-62-00-00.3 |
+| 2016-05-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-62-00-00.4 |
