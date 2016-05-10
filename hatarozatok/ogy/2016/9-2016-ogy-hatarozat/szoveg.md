@@ -1,0 +1,3 @@
+1. Az Országgyűlés elfogadja az Európai ügyek bizottságának a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv módosításáról szóló európai parlamenti és tanácsi irányelvtervezet [COM (2016) 128; 2016/0070 (COD)] vonatkozásában az indokolt vélemény elfogadása feltételeinek fennállásáról szóló jelentését (a továbbiakban: Jelentés) és annak alapján megállapítja, hogy az irányelvtervezet sérti a szubszidiaritás elvét.
+
+2. Az Országgyűlés felkéri az Országgyűlés elnökét, hogy a Jelentésben foglalt indokolt véleményt haladéktalanul továbbítsa az Európai Parlament, a Tanács, illetve az Európai Bizottság elnökének, és egyidejűleg arról a Kormányt is tájékoztassa.
