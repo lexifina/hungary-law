@@ -1,0 +1,1 @@
+A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 3. pont c) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 4., 10., 21. és 22. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
