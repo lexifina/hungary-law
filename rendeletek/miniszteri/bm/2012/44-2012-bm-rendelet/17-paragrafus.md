@@ -32,20 +32,21 @@ e) szolgálati jogviszonya létszámcsökkentés miatt szűnt meg,
 
 f) szolgálati jogviszonya a dolgozónak fel nem róható egészségi, pszichikai, fizikai állapot miatti alkalmatlanság miatt szűnt meg,
 
-g)[^8] az e rendelet hatálya alá tartozó szervhez, vagy az Országgyűlési Őrséghez kerül át, vagy
+g)[^16] az e rendelet hatálya alá tartozó szervhez, vagy az Országgyűlési Őrséghez kerül át, vagy
 
-h)[^9] a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés visszavonását követően a munkáltató a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 59. § (2) bekezdése szerinti munkakört nem tud felajánlani.
+h)[^17] a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés visszavonását követően a munkáltató a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 59. § (2) bekezdése szerinti munkakört nem tud felajánlani.
 
-(4) A támogatási megállapodás felmondása esetén a tartozást meg kell terhelni a korábban már jóváírt kedvezmény, valamint a pénzintézet által felszámított és a korábbi jogszabályok alapján a munkáltatói kölcsön nyújtásakor átvállalt kezelési költség összegével. Az így megállapított tartozás a felmondással egy összegben esedékessé válik.
+(4)[^18] A támogatási megállapodás felmondása esetén a tartozást meg kell terhelni a korábban már jóváírt kedvezmény, valamint a pénzintézet által felszámított és a korábbi jogszabályok alapján a munkáltató által átvállalt kezelési költség összegével. Az így megállapított tartozás a felmondással egy összegben esedékessé válik.
 
 (5) A támogatási megállapodás felmondására a helyi lakásügyi szerv a szerződésszegés tudomására jutásakor, az (1) bekezdés c) és g) pontjában foglalt esetekben a felszólításban kitűzött határidő eredménytelen lejártakor, az (1) bekezdés e) pontjában foglalt esetben a szolgálati jogviszony megszűnése napján haladéktalanul intézkedik, a felmondásról a kölcsönt kezelő pénzintézetet írásban értesíti.
 
-(6)[^10] A támogatási megállapodás felmondásával egy összegben esedékessé vált tartozást az adós
+(6)[^19] A támogatási megállapodás felmondásával egy összegben esedékessé vált tartozást az adós
 
 a) az (1) bekezdés a), c), f), g) és h) pontjában meghatározott esetekben a szerződésszegés időpontjától,
 
 b) az (1) bekezdés b), d) és e) pontjában meghatározott esetben a felmondásban meghatározott időponttól
 
-[^8]: A 17. § (3) bekezdés g) pontja a 75/2013. (XII. 18.) BM rendelet 30. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
-[^9]: A 17. § (3) bekezdés h) pontja a 37/2015. (VI. 16.) BM rendelet 63. §-a szerint módosított szöveg.
-[^10]: A 17. § (6) bekezdés záró szövegrésze a 22/2014. (III. 12.) BM rendelet 6. §-a szerint módosított szöveg.
+[^16]: A 17. § (3) bekezdés g) pontja a 75/2013. (XII. 18.) BM rendelet 30. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
+[^17]: A 17. § (3) bekezdés h) pontja a 37/2015. (VI. 16.) BM rendelet 63. §-a szerint módosított szöveg.
+[^18]: A 17. § (4) bekezdése a 15/2016. (V. 11.) BM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^19]: A 17. § (6) bekezdés záró szövegrésze a 22/2014. (III. 12.) BM rendelet 6. §-a szerint módosított szöveg.

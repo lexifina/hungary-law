@@ -8,11 +8,13 @@ a) a fennálló tartozás teljesítése a munkáltatói kölcsönben részesült
 
 b) a munkáltatói kölcsönben részesült dolgozó szolgálati jogviszonyának megszűnése esetén a fennálló tartozásnak az új munkáltató általi teljesítése,
 
+c)[^2] korábbi, nem belügyi munkáltató által lakáscélra nyújtott munkáltatói kölcsönnek az új, e rendelet hatálya alá tartozó munkáltató általi teljesítése.
+
 2. családtag: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbe fogadó, a mostoha- és nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa,
 
 3. lakásbővítés: a lakás alapterületének olyan növelése, amely legalább eggyel több lakószoba kialakítását eredményezi,
 
-4. lakáskorszerűsítés: a lakás komfortfokozatának növelése céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, továbbá belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, központosított fűtés kialakítása vagy cseréje, beleértve a megújítható energiaforrások alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos cseréje, tető cseréje, felújítása, szigetelése,
+4.[^3] lakáskorszerűsítés: a lakás komfortfokozatának növelése céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, továbbá belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, központosított fűtés kialakítása vagy cseréje, beleértve a megújítható energiaforrások alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos cseréje, tető cseréje, felújítása, szigetelése, lakásüzemeltetés céljára szolgáló alternatív energia (nap-, szél-, víz-, geotermikus-, bioenergia) hasznosítási rendszer kiépítése,
 
 5. lakásépítés: a dolgozó tulajdonába kerülő lakás építése, ideértve az önálló lakást eredményező emeletráépítést, tetőtér-beépítést, lakás műszaki megosztását, valamint a nem lakás céljára szolgáló helyiségek lakássá történő átalakítását,
 
@@ -23,3 +25,5 @@ b) a munkáltatói kölcsönben részesült dolgozó szolgálati jogviszonyának
 8. tiszta vételár: a lakás vételárának, tulajdonjogot keletkeztető lakáscsere esetén a lakások értékkülönbözetének – a készpénzben megjelenő lakásépítési kedvezménnyel, a vissza nem térítendő önkormányzati támogatással, a dolgozó és a vele együttköltöző családtag által bérelt lakás bérletének megszüntetéséért kapott pénzbeli térítéssel, valamint az e személyek tulajdonát képező lakás vagy ingatlan elidegenítéséből származó bevétellel csökkentett – összege.
 
 [^1]: Az 1. § a 16/2014. (II. 28.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 1. pont c) alpontját a 15/2016. (V. 11.) BM rendelet 5. § (1) bekezdése iktatta be. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^3]: A 2. § 4. pontja a 15/2016. (V. 11.) BM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
