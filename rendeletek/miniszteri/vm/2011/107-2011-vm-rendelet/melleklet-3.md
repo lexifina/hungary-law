@@ -118,7 +118,7 @@
 
 | 57. | Nagyspórás szarvasgomba Tuber macrosporum Vittad. | Szeptember 1-től január 7-ig hozható forgalomba |
 
-| 58. | Nyári szarvasgomba Tuber aestivum Vittad. | Június 15-től január 7-ig hozható forgalomba |
+| 58. | Nyári szarvasgomba Tuber aestivum Vittad (beleértve Tuber uncinatum Chatin, burgundi szarvasgomba) | Május 15-től január 7-ig hozható forgalomba |
 
 | 59. | Téli szarvasgomba Tuber brumale Vittad. | November 15-től március 22-ig hozható forgalomba |
 

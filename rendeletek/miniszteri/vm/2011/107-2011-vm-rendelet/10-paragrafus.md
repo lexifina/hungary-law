@@ -6,4 +6,7 @@
 
 (3) A gomba-szakellenőr a gombavizsgálati igazolást a forgalomba hozatal befejezését követően bevonja a forgalomba hozó élelmiszer-vállalkozótól.
 
+(4)[^9] A 2. mellékletben meghatározott gombafajok csak a 2. mellékletben az adott gombafajra meghatározott időpontig hozhatók forgalomba.
+
 [^8]: A 10. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 136. § b) pontja szerint módosított szöveg.
+[^9]: A 10. § (4) bekezdését a 34/2016. (V. 4.) FM rendelet 7. § (1) bekezdése iktatta be.
