@@ -1,6 +1,6 @@
-## 29–33. §[^94]
+## 29–33. §[^91]
 
-1. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^95]
+1. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^92]
 
 Eljáró hatóság megnevezése:
 
@@ -118,5 +118,5 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 | Nyilvántartási ideje: |
 
-[^94]: A 29–33. § a 33. § (2) bekezdése alapján hatályát vesztette.
-[^95]: Az 1. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^91]: A 29–33. § a 33. § (2) bekezdése alapján hatályát vesztette.
+[^92]: Az 1. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.

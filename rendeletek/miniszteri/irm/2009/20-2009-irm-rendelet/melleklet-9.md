@@ -1,4 +1,4 @@
-9. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^103]
+9. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^100]
 
 Eljáró hatóság megnevezése:
 
@@ -148,4 +148,4 @@ ADATKÖZLÉS KÉNYSZERINTÉZKEDÉS TÁRGYÁBAN HOZOTT DÖNTÉSEKRŐL
 
 | Az eljáró szerv képviselője |
 
-[^103]: A 9. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^100]: A 9. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.

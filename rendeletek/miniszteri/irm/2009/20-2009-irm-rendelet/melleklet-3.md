@@ -1,4 +1,4 @@
-3. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^97]
+3. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^94]
 
 Eljáró hatóság megnevezése:
 
@@ -58,4 +58,4 @@ ADATKÖZLÉS ÜGYÉSZI MEGROVÁS ALKALMAZÁSÁRÓL
 
 | Nyilvántartási ideje: |
 
-[^97]: A 3. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^94]: A 3. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.

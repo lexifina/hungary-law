@@ -1,4 +1,4 @@
-2. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^96]
+2. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^93]
 
 Eljáró hatóság megnevezése:
 
@@ -90,4 +90,4 @@ ADATKÖZLÉS VÁDEMELÉSRŐL, VÁDMÓDOSÍTÁSRÓL VAGY VÁDEMELÉS ELHALASZTÁS
 
 | Az eljáró szerv képviselője |
 
-[^96]: A 2. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^93]: A 2. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.

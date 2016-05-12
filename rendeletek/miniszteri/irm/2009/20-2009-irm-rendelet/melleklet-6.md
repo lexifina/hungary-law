@@ -1,4 +1,4 @@
-6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^100]
+6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^97]
 
 6. adatlap
 
@@ -124,4 +124,4 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSÉRŐL
 
 | Intézkedés nyilvántartási ideje: |  |
 
-[^100]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 37/2015. (XII. 21.) IM rendelet 3. §-ával megállapított szöveg.
+[^97]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 37/2015. (XII. 21.) IM rendelet 3. §-ával megállapított szöveg.
