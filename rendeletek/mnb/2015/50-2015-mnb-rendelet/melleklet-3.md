@@ -772,9 +772,9 @@
 
 ## II. A SZOLGÁLTATANDÓ INFORMÁCIÓKHOZ KAPCSOLÓDÓ TÁBLÁK ÉS AZ AZOK KITÖLTÉSÉRE VONATKOZÓ RENDELKEZÉSEK
 
-## 20152C20000050_3
+## 20152C20000050_9
 
-3. melléklet a 50/2015. (XII. 9.) MNB rendelethez[^5]
+3. melléklet a 50/2015. (XII. 9.) MNB rendelethez[^6]
 
 Az információk szolgáltatásához szükséges technikai segédletek
 
@@ -832,4 +832,4 @@ Az információk szolgáltatásához szükséges technikai segédletek
 
 15. A D24 és a D25 azonosító kódú adatszolgáltatás összeállításához a BIS által kiadott tájékoztató anyagok és módszertani segédletek
 
-[^5]: A 3. melléklet 3. pontja a 3. § (3) bekezedése alapján 2016. július 4-én lép hatályba.
+[^6]: A 3. melléklet 3. pontja a 3. § (3) bekezedése alapján 2016. július 4-én lép hatályba.
