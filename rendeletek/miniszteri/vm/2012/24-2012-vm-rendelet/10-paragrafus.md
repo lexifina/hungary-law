@@ -6,7 +6,7 @@ Trifla fajok gyűjtési ideje[^25]
 
 1. valódi szarvasgombák:
 
-1.1. Tuber aestivum Vittad., nyári szarvasgomba (beleértve Tuber uncinatum Chatin, burgundi szarvasgomba) – június 15-től december 31-ig,
+1.1.[^26] Tuber aestivum Vittad., nyári szarvasgomba (beleértve Tuber uncinatum Chatin, burgundi szarvasgomba) – május 15-től december 31-ig,
 
 1.2. Tuber mesentericum Vittad., kátrányszagú szarvasgomba – augusztus 1-től december 31-ig,
 
@@ -24,8 +24,9 @@ Trifla fajok gyűjtési ideje[^25]
 
 2.2. Mattirolomyces terfezioides (Matt.) Ed. Fischer, homoki szarvasgomba – augusztus 20-tól november 15-ig,
 
-2.3.–2.5.[^26]
+2.3.–2.5.[^27]
 
 [^24]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^25]: A melléklet címe a 25/2014. (III. 25.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^26]: A melléklet 2. pont 2.3.–2.5. alpontját a 25/2014. (III. 25.) VM rendelet 7. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^26]: A Melléklet 1. pont 1.1. alpontja a 34/2016. (V. 4.) FM rendelet 8. §-ával megállapított szöveg.
+[^27]: A melléklet 2. pont 2.3.–2.5. alpontját a 25/2014. (III. 25.) VM rendelet 7. § (3) bekezdés d) pontja hatályon kívül helyezte.
