@@ -1,1 +1,0 @@
-## 16. § Ez a rendelet a laboratóriumi tevékenységet végző igazságügyi szakértők akkreditálásáról szóló, 2009. november 30-i, 2009/905/IB tanácsi kerethatározat 2. cikkely a) pontjának, valamint a 4. cikkelynek való megfelelést szolgálja.
