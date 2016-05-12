@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-40-20-0
 | 2013-01-01 | 2000-40-20-0A.10 | 42/2012. (VIII. 23.) BM rendelet |
 | 2014-01-01 | 2000-40-20-0A.11 | 75/2013. (XII. 18.) BM rendelet |
 | 2014-03-01 | 2000-40-20-0A.12 | 7/2002. (II. 28.) AB határozat |
+| 2016-05-12 | 2000-40-20-0A.13 | 15/2016. (V. 11.) BM rendelet |

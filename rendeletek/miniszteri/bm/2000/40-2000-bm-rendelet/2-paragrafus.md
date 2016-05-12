@@ -18,7 +18,7 @@ b) a kérelmezőt – szállóférőhely hiányában – a nyilvántartásba vé
 
 (9)[^9] A központi lakásügyi szerv vezetője a helyi lakásügyi szerv javaslata alapján, szolgálati érdekből – a beosztásra, az ellátandó feladatra, a szolgálati tevékenységre, a szolgálatszervezési szempontokra, valamint a használati jogviszonyra jogosult személyi, családi körülményeire figyelemmel – felmentést adhat a (8) bekezdésben foglalt, a megállapodás meghosszabbításának gyakoriságára és időtartamára vonatkozó korlátozás alkalmazása alól.
 
-(10)[^10] A szabad férőhelyek hasznosításáról – a férőhellyel rendelkező szerv hozzájárulásával – a helyi lakásügyi szerv vagy az üzemeltető dönt.
+(10)[^10] A szabad szállóférőhelyek hasznosításáról – a férőhellyel rendelkező szerv hozzájárulásával – az üzemeltető dönt. Kivételesen, egyedi esetekben a szabad szállóférőhelyek hasznosíthatók a szolgálati jogviszonyban álló személy Polgári Törvénykönyv szerinti közeli hozzátartozója számára, az üzemeltető döntése alapján, legfeljebb 30 napra, a használati díj előzetes megfizetésével.
 
 [^3]: A 2. § eredeti (1) bekezdését az Alkotmánybíróság 7/2002. (II. 28.) AB határozatával megsemmisítette, szövegét újonnan a 42/2012. (VIII. 23.) BM rendelet 2. § (1) bekezdése állapította meg. A 2. § (1) bekezdése a 16/2014. (II. 28.) BM rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^4]: A 2. § (2)–(3) bekezdését a 42/2012. (VIII. 23.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
@@ -27,4 +27,4 @@ b) a kérelmezőt – szállóférőhely hiányában – a nyilvántartásba vé
 [^7]: A 2. § (6) bekezdése a 42/2012. (VIII. 23.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § (8) bekezdését a 42/2012. (VIII. 23.) BM rendelet 2. § (3) bekezdése iktatta be.
 [^9]: A 2. § (9) bekezdését a 42/2012. (VIII. 23.) BM rendelet 2. § (3) bekezdése iktatta be.
-[^10]: A 2. § (10) bekezdését a 42/2012. (VIII. 23.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^10]: A 2. § (10) bekezdését a 42/2012. (VIII. 23.) BM rendelet 2. § (3) bekezdése iktatta be, szövege a 15/2016. (V. 11.) BM rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.

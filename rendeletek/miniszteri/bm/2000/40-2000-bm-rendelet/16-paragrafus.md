@@ -1,6 +1,6 @@
-## 15. §[^24] A közigazgatási államtitkár vagy a belügyminiszter előzetes engedélyének beszerzéséhez a dolgozó írásbeli kérelmét a munka- vagy szolgálati helye szerinti közvetlen vezetőjének részletes indokolásával ellátva, a szolgálati út betartásával a központi lakásügyi szervhez kell benyújtani.
+## 15. §[^26] A közigazgatási államtitkár vagy a belügyminiszter előzetes engedélyének beszerzéséhez a dolgozó írásbeli kérelmét a munka- vagy szolgálati helye szerinti közvetlen vezetőjének részletes indokolásával ellátva, a szolgálati út betartásával a központi lakásügyi szervhez kell benyújtani.
 
-16. §[^25] (1) A kérelem felterjesztésének együttes feltételei:
+16. §[^27] (1) A kérelem felterjesztésének együttes feltételei:
 
 a) a kérelmet a dolgozó munka-, illetőleg szolgálati helye szerinti döntésre jogosult vezető záradékolja, amellyel igazolja a kivételes szolgálati érdek, illetőleg rendkívüli, méltányolható egyéni körülmények fennállását;
 
@@ -12,5 +12,5 @@ d) a dolgozó munka-, illetőleg szolgálati helye szerint illetékes gazdasági
 
 (2) A központi lakásügyi szerv az (1) bekezdésben felsorolt bármelyik feltétel hiányában a kérelmet vizsgálat nélkül elutasítja.
 
-[^24]: A 15. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta be, szövege újonnan a 42/2012. (VIII. 23.) BM rendelet 6. §-ával megállapított szöveg.
-[^25]: A 16. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^26]: A 15. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta be, szövege újonnan a 42/2012. (VIII. 23.) BM rendelet 6. §-ával megállapított szöveg.
+[^27]: A 16. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
