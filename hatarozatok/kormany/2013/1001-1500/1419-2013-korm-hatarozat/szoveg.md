@@ -1,10 +1,6 @@
 A Kormány
 
-1. felhívja a honvédelmért felelős minisztert, hogy a 10 éves stratégiai tervek fő irányairól készítsen jelentést a Kormány részére, amelyben térjen ki a biztosítható NATO és EU haderő-hozzájárulásokra is;
-
-Felelős: honvédelemért felelős miniszter
-
-Határidő: első alkalommal 2016. március 31-ig, ezt követően minden negyedik év március 31-ig.
+1.[^1]
 
 2. a NATO és EU képesség-hozzájárulási-, valamint eredmény-áttekintési eljárás és az annak részét képező tárgyalások tekintetében
 
@@ -35,3 +31,5 @@ b) a NATO védelmi áttekintési folyamat lezárultával a magyar képesség-fej
 Felelős: honvédelemért felelős miniszter
 
 Határidő: NATO áttekintési folyamat lezárultát követő 60 napon belül
+
+[^1]: Az 1. pontot az 1233/2016. (V. 13.) Korm. határozat 2. pontja visszavonta.
