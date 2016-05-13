@@ -12,7 +12,7 @@ e) 33. § (1) bekezdés a) pontjában a „tervek” szövegrész helyébe a „
 
 f) 33. § (1) bekezdés c) pontjában az „a tervdokumentáció” szövegrész helyébe az „az építészeti-műszaki dokumentáció” szöveg,
 
-g) 33/A. § (1) bekezdés a) pontjában a „bejelenti” szövegrész helyébe a „ , kizárólag elektronikus úton bejelenti” szöveg,
+g)
 
 h) 33/A. § (1) bekezdés c) pontjában az „egyszerű bejelentési” szövegrész helyébe a „kivitelezési” szöveg,
 
