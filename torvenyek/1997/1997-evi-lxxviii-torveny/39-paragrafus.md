@@ -10,6 +10,6 @@
 
 (5) a vállalkozó kivitelezői tevékenység folytatásához kormányrendelet felelősségbiztosítást, referenciát vagy a vállalkozó kivitelező teljesítésre való alkalmasságát igazoló vállalkozásminősítést írhat elő.
 
-(6) Aki vállalkozó kivitelezői tevékenység végzésére nem jogosult, de a tevékenység jellegének megfelelő szakképesítéssel rendelkezik, kormányrendeletben meghatározott építőipari kivitelezési tevékenységet csak saját vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó céljára végezhet.
+(6) Aki vállalkozó kivitelezői tevékenység végzésére nem jogosult, kormányrendeletben meghatározott építőipari kivitelezési tevékenységet csak az ott meghatározott feltételekkel, saját vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó céljára végezhet.
 
 (7) A Magyar Kereskedelmi és Iparkamara vezeti a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét, és a szolgáltatási tevékenység megkezdésének és folytatásának általános feltételeiről szóló törvény szerint ellenőrzi a vállalkozói építőipari tevékenység folytatására való jogosultságot. A Magyar Kereskedelmi és Iparkamara határozata ellen a fellebbezés kizárt.

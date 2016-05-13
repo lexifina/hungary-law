@@ -8,7 +8,7 @@ c) az engedélyezési és kivitelezési terv tervezőjének, az építési műsz
 
 d) az építésügyi hatósági engedély, építésügyi vagy építésfelügyeleti, tudomásulvétel megszerzéséért,
 
-e) a jogerős és végrehajtható építésügyi hatósági engedélyben és a hozzá tartozó, jóváhagyott, engedélyezési záradékkal ellátott tervdokumentációban, valamint a kivitelezési tervekben foglaltak betartásáért,
+e) a hatósági eljárásban záradékolt építészeti-műszaki dokumentációban, valamint a kivitelezési dokumentációban foglaltak betartásáért,
 
 f) az építőipari kivitelezési tevékenység megkezdéséhez szükséges jogszabályban előírt dokumentumok (tervek) meglétéért, az elektronikus építési napló vezetése esetén az építési napló készenlétbe helyezéséért,
 

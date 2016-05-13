@@ -10,15 +10,25 @@ c) szakszerűtlenül
 
 megkezdett és végzett tevékenység.
 
-(2) Jogszerűtlen az építési vagy bontási tevékenység, ha a jogszabály alapján engedélyhez vagy tudomásul vételhez kötött építési vagy bontási tevékenységet vagy a 33/A. § szerinti tevékenységet
+(2) Jogszerűtlen az építési tevékenység, ha
 
-a) engedély, a 33/A. § szerinti bejelentés vagy tudomásul vétel nélkül,
+a) a jogszabály alapján hatósági engedélyhez vagy tudomásulvételhez kötött építési vagy bontási tevékenységet
 
-b) az engedélytől vagy tudomásul vételtől vagy a 33/A. § szerinti bejelentéstől eltérően,
+aa) engedély vagy tudomásulvétel nélkül,
 
-c) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –,
+ab) az engedélytől vagy tudomásulvételtől eltérően,
 
-d) a jogerős engedély végrehajthatóságának felfüggesztése ellenére
+ac) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –, vagy
+
+ad) a jogerős engedély végrehajthatóságának felfüggesztése ellenére;
+
+b) a 33/A. § szerinti egyszerű bejelentéshez kötött építési tevékenységet
+
+ba) bejelentés nélkül, vagy
+
+bb) a bejelentett és a kormányrendeletben meghatározott mértékű változás bejelentésétől eltérően;
+
+c) ahhoz jogszabály alapján építési napló vezetése szükséges és a tevékenységet építési napló hiányában
 
 végzik.
 
@@ -26,4 +36,12 @@ végzik.
 
 (4) Jogosulatlan a 16. §, a 32. §, a 38/A. § és a 38/D. § szerinti tevékenység, továbbá a vállalkozó kivitelezői tevékenység, ha az építési folyamat e törvényben és kormányrendeletben meghatározott résztvevője az általa folytatott tevékenység végzéséhez nem rendelkezik megfelelő jogosultsággal vagy szakképesítéssel, vagy a vállalkozó nem rendelkezik kivitelezői névjegyzéki nyilvántartási számmal, vagy kivitelezési tevékenység végzéséhez szükséges jogosultság felfüggesztésének időtartama alatt folytat kivitelezési tevékenységet.
 
-(5) Szakszerűtlen a 16. §, a 32. §, a 38/A. §, a 38/C. § és a 38/D. § szerinti tevékenység, valamint a kivitelezői tevékenység, ha azt a helyi építési szabályzat és az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy a tevékenység végzése az életet, az egészséget, a köz- és vagyonbiztonságot veszélyeztető állapotot vagy használatot eredményez.
+(5) Szakszerűtlen a 16. §, a 32. §, a 38/A. §, a 38/C. § és a 38/D. § szerinti tevékenység, valamint a kivitelezői tevékenység, ha
+
+a) azt – a 33/A. § szerinti építési tevékenység kivételével – a helyi építési szabályzat rendelkezéseitől eltérően végzik,
+
+b) a 33/A. § szerinti építési tevékenység esetén a 13. § (2) bekezdésében foglaltaktól eltérően végzik,
+
+c) az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy
+
+d) a tevékenység végzése az életet, az egészséget, a köz- és vagyonbiztonságot veszélyeztető állapotot vagy használatot eredményez.

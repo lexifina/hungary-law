@@ -22,7 +22,7 @@ bb) a természet-, illetve a környezet védelméről szóló törvényekben fog
 
 (7) A tilalom nem terjed ki:
 
-a) a tilalom hatálybalépésekor hatályos építésügyi hatósági engedéllyel megvalósuló építési, javítási-karbantartási és a jogszabályokban megengedett más építési munkákra,
+a) a tilalom hatálybalépésekor hatályos építésügyi hatósági engedéllyel megvalósuló építési, javítási-karbantartási és a jogszabályokban megengedett más építési munkákra, valamint a 33/A. § szerinti egyszerű bejelentés alapján megkezdett tevékenységre,
 
 b) a korábban gyakorolt használat folytatására,
 

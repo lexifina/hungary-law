@@ -2,7 +2,7 @@
 
 a) az építőipari kivitelezési tevékenység jogszerű megkezdéséért és folytatásáért, az építési napló vezetéséért, kivitelezői jogosultságának meglétéért,
 
-b) az építtető által rendelkezésére bocsátott jogerős és végrehajtható építési engedélyben és a hozzá tartozó jóváhagyott engedélyezési tervekben, az ezek alapján készült kivitelezési tervekben előírtak betartásáért és betartatásáért, valamint
+b) az építtető által rendelkezésére bocsátott, hatósági eljárásban záradékolt építészeti-műszaki dokumentációban, valamint a kivitelezési dokumentációban előírtak betartásáért és betartatásáért, és
 
 c) az elvégzett szakmunkák eredményeként létesült szerkezetek, berendezések, építmény, építményrész rendeltetésszerű és biztonságos használhatóságáért.
 
@@ -12,7 +12,7 @@ a) az építményfajtának, építési tevékenységnek megfelelő jogosultság�
 
 b) a szakmunka irányításáért,
 
-c) – kormányrendeletben meghatározott feladatai körében – az építmény, építményrész jogerős és végrehajtható építési engedélynek és a hozzá tartozó jóváhagyott engedélyezési terveknek, illetve a jogszabályban meghatározott kivitelezési terveknek megfelelő megvalósításáért, továbbá
+c) – kormányrendeletben meghatározott feladatai körében – az építmény, építményrész jogerős és végrehajtható építési engedélynek és a hozzá tartozó jóváhagyott engedélyezési terveknek, illetve a jogszabályban meghatározott kivitelezési dokumentációnak megfelelő megvalósításáért, továbbá
 
 d) az építési tevékenységre vonatkozó szakmai, minőségi és biztonsági előírások megtartásáért és
 

@@ -14,7 +14,7 @@ ca) ha azt rendeltetésszerű és biztonságos használatra nem alkalmas módon 
 
 cb)–cc)
 
-d) jogszerűtlen építési tevékenység esetében az építési tevékenység végzésének megszüntetését vagy a jogerős és végrehajtható építési engedélynek és a hozzá tartozó, jóváhagyott engedélyezési terveknek megfelelő állapot kialakítását,
+d) jogszerűtlen építési tevékenység esetében az építési tevékenység végzésének megszüntetését, valamint a hatósági eljárásban záradékolt építészeti-műszaki dokumentációnak vagy a 33/A. § szerinti egyszerű bejelentésnek megfelelő állapot kialakítását,
 
 e) az építmény környezetéből az építési tevékenység során keletkezett építési hulladék, maradék építőanyag és építési segédeszközök elszállítását, a környezetnek és a terep felszínének az eredeti vagy az engedélyezett állapotban történő kialakítását, a környezetben okozott károk megszüntetését, valamint
 

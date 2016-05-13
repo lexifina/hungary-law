@@ -8,7 +8,7 @@
 
 3. Beépítésre szánt terület: a település közigazgatási területének a beépített, illetve a további beépítés céljára szolgáló területrésze.
 
-4. Építtető: az építésügyi hatósági engedély kérelmezője, az építési beruházás megvalósításához szükséges hatósági engedélyek jogosultja, illetve az építési-bontási tevékenység megrendelője vagy folytatója.
+4. Építtető: a hatósági engedély vagy tudomásulvétel kérelmezője, a 33/A. § szerinti építési tevékenység bejelentője az építési beruházás megvalósításához szükséges hatósági engedélyek jogosultja, illetve az építési-bontási tevékenység megrendelője vagy folytatója.
 
 5. Épített környezet: a környezet tudatos építési munka eredményeként létrehozott, illetve elhatárolt épített (mesterséges) része, amely elsődlegesen az egyéni és a közösségi lét feltételeinek megteremtését szolgálja.
 

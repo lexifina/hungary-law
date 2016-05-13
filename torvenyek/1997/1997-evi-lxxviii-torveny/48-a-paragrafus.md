@@ -1,12 +1,10 @@
-48/A. § (1) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg, az építésügyi hatóság arra az építtető vagy a tulajdonos kérelme alapján fennmaradási engedélyt ad, ha
+48/A. § (1) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg, az építésügyi hatóság arra az építtető vagy a tulajdonos kérelme alapján – amennyiben az építmény, építményrész fennmaradása nem eredményez az életet, egészséget veszélyeztető használatot vagy állapotot – fennmaradási engedélyt ad, ha
 
-a) egyébként az építési engedélyezéshez előírt, a 36. §-ban és az egyéb jogszabályban meghatározott műszaki és egyéb feltételek teljesülnek,
+a) az e törvényben, az egyéb jogszabályban meghatározott műszaki és egyéb feltételek teljesülnek, vagy az építményt, építményrészt építési vagy más tevékenységgel szabályossá teszi, vagy
 
-b) az építmény, építményrész átalakítással, visszabontással vagy egyéb módon szabályossá tehető,
+b) az műemlékvédelmi érdeket nem sért.
 
-c) azt a műemléki védett érték megőrzése megkívánja, vagy
-
-d) a szabálytalanság közérdeket nem sért, vagy az érdeksérelem a hatóság által meghatározott határidőn belül elhárítható.
+(1a) Az (1) bekezdés szerint kiadott fennmaradási engedély nem mentesít a 33/A. § (2) és (3) bekezdése rendelkezéseinek alkalmazása alól.
 
 (2) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg az építésügyi hatóság vagy jogszabályban meghatározott esetekben az építésfelügyeleti hatóság elrendeli:
 

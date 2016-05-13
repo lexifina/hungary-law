@@ -1,6 +1,6 @@
 33. § (1) A tervező felelős:
 
-a) az általa készített építészeti-műszaki tervek (ideértve a kivitelezési terveket is)
+a) az általa készített építészeti-műszaki dokumentáció (ideértve a kivitelezési dokumentációt is)
 
 aa) műszaki tartalmának szakszerűségéért,
 
@@ -10,7 +10,7 @@ ac) építészeti minőségéért, a tervezéssel érintett védett építészet
 
 b)
 
-c) a tervdokumentáció készítésében (részben vagy folyamatosan) részt vevő, a tervezői feladat szakmai tartalmának megfelelő szakismerettel és jogosultsággal rendelkező szakági tervezők kiválasztásáért,
+c) az építészeti-műszaki dokumentáció készítésében (részben vagy folyamatosan) részt vevő, a tervezői feladat szakmai tartalmának megfelelő szakismerettel és jogosultsággal rendelkező szakági tervezők kiválasztásáért,
 
 d) a szakági tervezők közötti egyeztetések koordinálásáért, terveik összehangolásáért.
 

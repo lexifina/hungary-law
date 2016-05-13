@@ -12,7 +12,7 @@ ba) végzésének szakszerűségét, jogszerűségét,
 
 bb) résztvevőinek jogosultságát,
 
-bc) végzéséhez előírt építési napló vezetésének módját és tartalmát,
+bc) végzéséhez előírt építési napló meglétének, vezetésének módját és tartalmát,
 
 bd) folytatásához előírt kivitelezési dokumentáció(rész) meglétét,
 
@@ -39,6 +39,8 @@ b) a (2) bekezdés b) pont ba), bc), bd) alpontja, és a (2) bekezdés e) pontja
 ba) megtilthatja és építésfelügyeleti bírságot szabhat ki, ha ellenőrzése során azt állapítja meg, hogy az építőipari kivitelezési tevékenység szakszerűségére, az építési napló vezetésére vagy a kivitelezési tevékenység folytatásához szükséges kivitelezési dokumentációra vonatkozó szabályokat súlyosan megsértették,
 
 bb) megtiltja és a szabálytalan állapot megszüntetését elrendeli, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
+
+bc) építési napló hiányában megtiltja,
 
 c) a (2) bekezdés b) pont bb) alpontja és a (2) bekezdés e) pontja szerinti feladatkörében hatósági eljárást folytat le, építésfelügyeleti bírságot szabhat ki, vagy a szükséges intézkedések megtétele érdekében megkeresi az eljárásra hatáskörrel rendelkező hatóságot vagy szervet, ha az ellenőrzése során azt állapítja meg, hogy a résztvevők nem rendelkeznek az előírt jogosultsággal, nem megfelelő a jogosultságuk, nem rendelkeznek az előírt regisztrációval vagy nem a regisztrációjuknak megfelelő tevékenységet végeznek,
 

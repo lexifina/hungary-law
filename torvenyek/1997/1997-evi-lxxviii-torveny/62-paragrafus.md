@@ -158,6 +158,8 @@ b) az 57/D. § (1) bekezdésében meghatározott Bizottság működésének rend
 
 rendeletben állapítsa meg.
 
+(1e) Felhatalmazást kap a Kormány arra, hogy a kötelező tervezői művezetés részletes szabályait, ennek keretében a tevékenységre vonatkozó szerződés egyes kötelező tartalmi elemeit (különös tekintettel a szerződés ellenértékére) rendeletben állapítsa meg.
+
 (2) Felhatalmazást kap a miniszter arra, hogy
 
 1. a telekalakítás, a telekalakítási és építési tilalom elrendelése, továbbá a cseretelekadás részletes szakmai szabályait,

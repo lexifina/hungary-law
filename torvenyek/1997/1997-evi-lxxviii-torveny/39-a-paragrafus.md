@@ -2,7 +2,7 @@
 
 (2) Kormányrendeletben meghatározott építési tevékenységet az ott előírt feltételek megléte esetén a tevékenység jellegének megfelelő szakképesítéssel rendelkező szakmunkás felelős műszaki vezető irányítása nélkül is végezhet. E tevékenység végzése során felel a 40. § (2) bekezdés b)–e) pontjában foglaltak betartásáért.
 
-(3) Építési szakmunkát csak az végezhet, aki az adott tevékenység végzésének megfelelő, jogszabályban meghatározott szakképesítéssel, részszakképesítéssel rendelkezik.
+(3)
 
 (4) Az építtető köteles az építőipari kivitelezési tevékenység megkezdését e törvény végrehajtására kiadott kormányrendeletben meghatározott esetekben és módon bejelenteni.
 
