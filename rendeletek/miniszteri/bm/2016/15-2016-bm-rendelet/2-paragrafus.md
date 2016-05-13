@@ -1,3 +1,0 @@
-## 1. § A belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet (a továbbiakban: R1.) 2. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-## „(10) A szabad szállóférőhelyek hasznosításáról – a férőhellyel rendelkező szerv hozzájárulásával – az üzemeltető dönt. Kivételesen, egyedi esetekben a szabad szállóférőhelyek hasznosíthatók a szolgálati jogviszonyban álló személy Polgári Törvénykönyv szerinti közeli hozzátartozója számára, az üzemeltető döntése alapján, legfeljebb 30 napra, a használati díj előzetes megfizetésével.”

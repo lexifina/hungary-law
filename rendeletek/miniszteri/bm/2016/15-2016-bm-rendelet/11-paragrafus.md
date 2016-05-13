@@ -1,1 +1,0 @@
-## „(5) Abban az esetben, ha a munkáltatói kölcsön úgy kerül teljes összegben visszafizetésre, hogy a hitelcél megvalósulása nem kerül igazolásra a 11. §-ban felsoroltak szerint, a már jóváírt kedvezmény, valamint az átvállalt kezelési költség egy összegben esedékessé válik.”
