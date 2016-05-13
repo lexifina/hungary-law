@@ -1,4 +1,4 @@
-## 8. § A földalatti gombák gyűjtéséről szóló 24/2012. (III. 19.) VM rendelet [a továbbiakban: 24/2012. (III. 19.) VM rendelet] Melléklete a 3. melléklet szerint módosul.
+## 7–8. §[^1]
 
 1. melléklet a 34/2016. (V. 4.) FM rendelethez
 
@@ -133,3 +133,5 @@
 6.3.4. a burgonya főzési típusát a 6.2. pont alapján.
 
 6.4. Ömlesztve szállítás esetén a raktérben elhelyezett címkén jól olvashatóan, letörölhetetlenül és könnyen láthatóan fel kell tüntetni a 6.1. pont szerinti információkat.
+
+[^1]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
