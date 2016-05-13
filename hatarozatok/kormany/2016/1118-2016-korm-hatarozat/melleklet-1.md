@@ -30,7 +30,7 @@
 
 ## Határidő: azonnal
 
-## 6. az 1. melléklet 1–6. pontja szerinti fejlesztések ütemezett megvalósítása érdekében felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak legfeljebb 1054,0 millió forint összegű forrásnak a 2017. évi központi költségvetés tervezése során a XVII. Nemzeti Fejlesztési Minisztérium fejezetben történő biztosításáról;
+## 6.[^1] az 1. melléklet 1–5. pontja szerinti fejlesztések ütemezett megvalósítása érdekében felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak legfeljebb 655,0 millió forint összegű forrásnak a 2017. évi központi költségvetés tervezése során a XVII. Nemzeti Fejlesztési Minisztérium fejezetben történő biztosításáról;
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -38,15 +38,15 @@
 
 ## Határidő: a 2017. évi központi költségvetés tervezése során
 
-## 7. felhívja a nemzeti fejlesztési minisztert, hogy – összhangban a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges egyes létesítmények építtetőjének kijelöléséről, valamint a toronyugrás céljából létesítendő óriás ugrótorony létesítését szolgáló ingatlanok meghatározásáról szóló 451/2015. (XII. 28.) Korm. rendelet rendelkezéseivel – az 5. pont a) alpontja szerinti forrás rendelkezésre bocsátása érdekében kössön támogatási szerződést – az 1. melléklet 1. pontja szerinti beruházás vonatkozásában Budapest Főváros XIII. Kerületi Önkormányzattal, az 1. melléklet 2–6. pontja szerinti beruházások vonatkozásában Budapest Főváros Önkormányzatával – elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében pedig visszafizetési kötelezettség rögzítésével;
+## 7.[^2] felhívja a nemzeti fejlesztési minisztert, hogy – összhangban a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges egyes létesítmények építtetőjének kijelöléséről, valamint a toronyugrás céljából létesítendő óriás ugrótorony létesítését szolgáló ingatlanok meghatározásáról szóló 451/2015. (XII. 28.) Korm. rendelet rendelkezéseivel – az 5. pont a) alpontja szerinti forrás rendelkezésre bocsátása érdekében kössön támogatási szerződést – az 1. melléklet 1. pontja szerinti beruházás vonatkozásában Budapest Főváros XIII. Kerületi Önkormányzattal, az 1. melléklet 2–5. pontja szerinti beruházások vonatkozásában Budapest Főváros Önkormányzatával – elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében pedig visszafizetési kötelezettség rögzítésével;
 
 ## Felelős: nemzeti fejlesztési miniszter
 
 ## Határidő: azonnal
 
-## 8. az 1. melléklet 1–6. pontja szerinti beruházások vonatkozásában
+## 8.[^3] az 1. melléklet 1–5. pontja szerinti beruházások vonatkozásában
 
-## a) az Áht. 36. § (4a) bekezdésében biztosított jogkörében eljárva előzetes jóváhagyását adja a nemzeti fejlesztési miniszter számára a bruttó 9532,0 millió forint értékű, többéves fizetési kötelezettséggel járó szerződések megkötéséhez,
+## a)[^4] az Áht. 36. § (4a) bekezdésében biztosított jogkörében eljárva előzetes jóváhagyását adja a nemzeti fejlesztési miniszter számára a bruttó 8733,0 millió forint értékű, többéves fizetési kötelezettséggel járó szerződések megkötéséhez,
 
 ## b) az Áht. 36. § (4b) bekezdés b) pontja alapján az a) alpont szerinti szerződések esetében felhatalmazást ad éven túli kötelezettségvállalásra a 6. pontban meghatározott, 2017. évi részösszeg tekintetében;
 
@@ -97,3 +97,8 @@
 ## Határidő: 2016. július 31.
 
 1. melléklet az 1118/2016. (III. 10.) Korm. határozathoz
+
+[^1]: A 6. pont az 1238/2016. (V. 13.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^2]: A 7. pont az 1238/2016. (V. 13.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^3]: A 8. pont nyitó szövegrésze az 1238/2016. (V. 13.) Korm. határozat c) alpontja szerint módosított szöveg.
+[^4]: A 8. pont a) alpontja az 1238/2016. (V. 13.) Korm. határozat d) alpontja szerint módosított szöveg.
