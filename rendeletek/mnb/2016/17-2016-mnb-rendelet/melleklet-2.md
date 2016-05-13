@@ -1,12 +1,4 @@
-## 1. Az R. 1. melléklet II. pontjában foglalt táblázat a következő 7 sorral egészül ki:
-
-|  | (MNB azonosító kód | Megnevezés | Az adatszolgáltatók köre | Az adatszolgáltatás |
-
-| gyakorisága | teljesítésének módja | határideje | címzettje) |
-
-| 7 | Z07 | Természetes személyek anonimizált jövedelmi és munkatörténet adatai | ONYF | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint | MNB Statisztikai igazgatóság |
-
-2. melléklet a 17/2016. (V. 11.) MNB rendelethez[^2]
+2. melléklet a 17/2016. (V. 11.) MNB rendelethez[^5]
 
 1. Az R. 2. melléklet II. pontjában az L11 MNB azonosító kódú adatszolgáltatás 03. táblája helyébe a következő 03. tábla lép:
 
@@ -46,4 +38,4 @@ Természetes személyek anonimizált jövedelmi és munkatörténet adatai
 
 Az ONYF az általa kezelt, egyedi szintű, a természetes személyek jövedelmét leíró, valamint a munkahelyükre és foglalkoztatottságukra vonatkozó, anonimizált adatokat az MNB-vel megkötött, mindenkor hatályos adatátadási szerződésnek megfelelően, az adatokat személyes jellegüktől megfosztva és anonim kapcsolati kóddal ellátva köteles megküldeni az MNB részére.”
 
-[^2]: A 2. melléklet 1–3. pontja a 6. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^5]: A 2. melléklet 1–3. pontja a 6. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
