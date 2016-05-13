@@ -1,3 +1,5 @@
+## 27. §[^1]
+
 1. melléklet a 12/2016. (V. 4.) BM rendelethez
 
 ## Az arcképmás-rögzítés módja
@@ -21,3 +23,5 @@
 9. Az arcképmás-rögzítéskor a fényképezőgép objektív tengelyének a szemeket összekötő tengely magasságával kell megegyeznie. Fényképfelvételeket a fényképezőgép függőlegesre állított képsíkjával kell végrehajtani.
 
 10. A rögzített arcképmásnak a képmező közepében kell elhelyezkedni, a képen a fej és az azonosító tábla töltse ki az egész képmezőt úgy, hogy a fejtető a kép felső szélére, az azonosító tábla alsó széle a képmező alsó szélére illesztve helyezkedjen el.
+
+[^1]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
