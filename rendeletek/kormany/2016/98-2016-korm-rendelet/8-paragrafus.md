@@ -1,0 +1,1 @@
+## „30. megküldi az európai uniós források felhasználásáért felelős miniszter részére az 1303/2013/EU európai parlamenti és tanácsi rendelet 112. cikke szerinti pénzügyi adatokat legkésőbb az ott meghatározott határidőket megelőző 21 nappal.”

@@ -1,0 +1,13 @@
+## 48. § Ez a rendelet
+
+1. az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi rendelet,
+
+2. az Európai Regionális Fejlesztési Alapról és a „Beruházás a növekedésbe és munkahelyteremtésbe” célkitűzésről szóló egyedi rendelkezésekről, valamint az 1080/2006/EK rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1301/2013/EU európai parlamenti és tanácsi rendelet,
+
+3. az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendelet,
+
+4. az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, az ellenőrzési szabályok, a biztosítékok és az átláthatóság tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2014. augusztus 6-i 908/2014/EU bizottsági végrehajtási rendelet,
+
+5. az 1303/2013/EU európai parlamenti és tanácsi rendeletnek meghatározott információk Bizottsághoz való benyújtására használt minták tekintetében való végrehajtására, valamint a kedvezményezettek és az irányító hatóságok, az igazoló hatóságok, az audithatóságok és a közreműködő szervezetek közötti információcserére vonatkozó részletes szabályok megállapításáról szóló, 2014. szeptember 22-i 1011/2014/EU bizottsági végrehajtási rendelet,
+
+6. az előrehaladási jelentések mintája, a nagyprojektekre vonatkozó információk benyújtásának formátuma, a közös cselekvési terv mintája, a „Beruházás a növekedésbe és munkahelyteremtésbe” célkitűzésre vonatkozó végrehajtási jelentések mintája, a vezetői nyilatkozat, az auditstratégia, az auditvélemény és az éves kontrolljelentés mintája, a költség-haszon elemzés módszertana, valamint az 1299/2013/EU európai parlamenti és tanácsi rendelet alkalmazásában az európai területi együttműködési célkitűzésre vonatkozó végrehajtási jelentések mintája tekintetében az 1303/2013/EU európai parlamenti és tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. január 20-i (EU) 2015/207 bizottsági végrehajtási rendelet

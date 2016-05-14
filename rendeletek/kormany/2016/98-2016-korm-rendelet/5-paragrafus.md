@@ -1,0 +1,1 @@
+## „e) a monitoring és információs rendszerben pénzügyi nyilvántartást vezet, amelynek keretében nyilvántartja az Alapokból származó támogatás részben vagy egészben történő törlése következtében visszafizetendő, visszafizetett, visszavont, valamint a behajthatatlan összegeket,”
