@@ -4,4 +4,6 @@ Felelős: honvédelmi miniszter
 
 Határidő: a határozat közzétételét követő egy éven belül
 
-2. A Kormány visszavonja a honvédelmi tárca 10 éves stratégiai terve jóváhagyásának rendjéről, valamint a NATO és EU tervezési dokumentumokkal kapcsolatos feladatokról szóló 1419/2013. (VII. 10.) Korm. határozat 1. pontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
