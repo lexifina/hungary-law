@@ -20,7 +20,7 @@ Az országos főhálózati elemek fővárosi szakaszai:
 
 7. A 7. sz. főút vonatkozásában a Balatoni út.
 
-8. A 10. sz. főút vonatkozásában a Bécsi út a városhatár és a Vörösvári út között.
+8.[^1] A 10. sz. főút vonatkozásában a 10. sz. főút bevezető szakasza az ürömi körforgalmú csomópont (körpálya nélkül) és a Kocsis Sándor utca között, valamint a Bécsi út a Kocsis Sándor utca és a Vörösvári út között.
 
 9. A 11. sz. főút vonatkozásában a 11. sz. főút fővárosi bevezető szakasza – Batthyány utca – Rákóczi utca – Szentendrei út.
 
@@ -45,3 +45,5 @@ Az országos főhálózati elemek fővárosi szakaszai:
 19. Az Üllői út a Határ út és a Könyves Kálmán körút között.
 
 20. Az M0 autóút újpesti felhajtója az M0 és a Váci út között.
+
+[^1]: Az 1. melléklet 8. pontja a 104/2016. (V. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

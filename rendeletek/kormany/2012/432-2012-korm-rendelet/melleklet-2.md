@@ -1,4 +1,4 @@
-2. melléklet a 432/2012. (XII. 29.) Korm. rendelethez
+2. melléklet a 432/2012. (XII. 29.) Korm. rendelethez[^2]
 
 A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet játszó főútvonalak
 
@@ -154,6 +154,8 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 
 | 71 | Bem rakpart | Margit híd – Csalogány utca |
 
+| 71a | Bécsi út | Frankel Leó utca – Szépvölgyi út |
+
 | 72 | Bimbó út | Fenyves utca – Fillér utca |
 
 | 73 | Bimbó út | Keleti Károly utca – Alsó Törökvész út |
@@ -290,7 +292,9 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 
 | 137 | 11. sz. főút fővárosi bevezető szakasza | Batthyány utca – Budapest közigazgatási határa |
 
-| 138 | Aranyhegyi út | Keled út – Pusztakúti út |
+| 138 | Aranyhegyi út | Aranyvölgy utca, valamint a vasút feletti felüljáró és annak feljárója – Pusztakúti út |
+
+| 138a | Aranyvölgy utca | Bécsi út – Aranyhegyi út |
 
 | 139 | Árpád fejedelem útja | Szépvölgyi út – Tavasz utca |
 
@@ -302,7 +306,7 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 
 | 143 | Batthyány utca | Mátyás király út – Batthyány utca 11. sz. |
 
-| 144 | Bécsi út | Frankel Leó utca – Budapest közigazgatási határa |
+| 144 | Bécsi út | Szépvölgyi út – Kocsis Sándor utca, valamint Aranyvölgy utca – ürömi körforgalmú csomópont körpálya nélkül |
 
 | 145 | Bécsi út-szervizút | Fehéregyházi út – Bécsi út 291. sz. |
 
@@ -404,7 +408,7 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 
 | 194 | Pók utca | Nánási út – Szentendrei út |
 
-| 195 | Pomázi út | Bécsi út – Keled út |
+| 195 | Pomázi út | Keled út, valamint a vasút feletti felüljáró és annak feljárója |
 
 | 196 | Pusztadombi utca | Égető utca – Ország út |
 
@@ -2641,3 +2645,5 @@ A kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet ját
 | 1272 | Vecsés út | Arany János utca – Túri István út |
 
 | 1273 | Zománc utca | Wekerle Sándor utca – Könyves utca |
+
+[^2]: A 2. melléklet a 104/2016. (V. 13.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
