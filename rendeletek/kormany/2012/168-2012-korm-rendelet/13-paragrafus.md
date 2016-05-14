@@ -1,9 +1,11 @@
-13. § (1) A Döntőbizottsághoz beérkezett véleményt kérő ügyiratot (a továbbiakban: ügyirat) a titkárságvezető nyilvántartásba veszi és kijelöli a Titkárság kormánytisztviselőjét az ügyirat befogadhatóságának vizsgálatára. Az ügyirat befogadhatóságának vizsgálata során a Titkárság kormánytisztviselője a véleményt kérőtől felvilágosítást, iratokat kérhet, az ügyirat kiegészítésére hívhatja fel a véleményt kérőt a titkárságvezető döntése alapján. Az ügyirat befogadhatóságának vizsgálata során a 9. § (3) bekezdését is megfelelően alkalmazni kell.
+13. §[^30] (1) A Döntőbizottsághoz beérkezett véleménykérő ügyiratot a Titkárság nyilvántartásba veszi. A titkárságvezető kijelöli a Titkárság kormánytisztviselőjét a véleménykérő ügyirat befogadhatóságának vizsgálatára. E vizsgálat során a Titkárság a véleménykérőtől felvilágosítást, iratokat kérhet, továbbá felhívhatja őt a véleménykérő ügyirat kiegészítésére. A kérelem befogadhatóságának vizsgálata során megfelelően alkalmazni kell a 9. § (3) bekezdését.
 
-(2) Ha az ügyirat nem befogadható, a titkárságvezető javaslatot tesz a Döntőbizottság elnökének az ügyirat elutasítására. A Döntőbizottság elnökének döntése alapján a titkárságvezető értesíti a véleményt kérőt az ügyirat elutasításáról.
+(2) Ha a véleménykérő ügyirat nem befogadható, a titkárságvezető javaslatot tesz annak elutasítására a Döntőbizottság elnöke számára. A Döntőbizottság elnökének a véleménykérő ügyirat elutasításáról szóló döntését a Titkárság küldi meg a véleménykérő részére.
 
-(3) Ha az ügyirat befogadható, a titkárságvezető az ügyiratot felterjeszti a Döntőbizottság elnökéhez, aki kijelöli a véleményezési eljárást lefolytató közszolgálati biztost.
+(3) Ha a véleménykérő ügyirat befogadható, a titkárságvezető azt felterjeszti a Döntőbizottság elnökéhez, aki kijelöli a véleményt kiadmányozó közszolgálati biztost.
 
-(4) A közszolgálati biztos számára a Titkárság kormánytisztviselője vélemény tervezetet készít.
+(4) A befogadást és a közszolgálati biztos kijelölését követően a Titkárság a véleménykérőtől további adatokat, iratokat kérhet be, őt nyilatkozattételre hívhatja fel.
 
-(5) A közszolgálati biztos véleményt ad ki, amelyet a titkárságvezető küld meg a véleményt kérőnek.
+(5) A közszolgálati biztos az ügyirat tárgyában véleményt ad ki, amelyet a Titkárság küld meg a véleménykérő részére. A kiadott vélemény nem terjedhet túl a véleménykérő ügyiratban foglaltakon.
+
+[^30]: A 13. § a 103/2016. (V. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
