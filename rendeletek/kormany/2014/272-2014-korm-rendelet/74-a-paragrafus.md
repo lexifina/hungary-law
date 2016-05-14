@@ -1,7 +1,7 @@
-## 28/A. [^288] Vissza nem térítendő támogatással kombinált pénzügyi eszköz esetén alkalmazandó kiválasztási szabályok
+## 28/A. [^327] Pénzügyi eszközzel kombinált vissza nem térítendő támogatás esetén alkalmazandó benyújtási és kiválasztási szabályok
 
-74/A. § (1) Vissza nem térítendő támogatással kombinált pénzügyi eszköz esetében (a továbbiakban: kombinált projekt) mindkét támogatási formára vonatkozóan csak abban az esetben köthető szerződés a támogatást igénylővel, ha mindkét támogatási forma vonatkozásában támogatást megítélő támogatói döntéssel rendelkezik.
+74/A. § (1) Pénzügyi eszközzel kombinált vissza nem térítendő támogatás esetén a támogatást igénylőnek a mindkét támogatási formára vonatkozó támogatási kérelmet a monitoring és információs rendszeren keresztül kell elkészítenie és benyújtania.
 
-(2) A kombinált projektről a 68. § (1) bekezdése szerinti határidőben kell döntést hozni, és a 81. § (3) bekezdése szerinti határidőben szerződést kötni.
+(2) A pénzügyi eszközzel kombinált vissza nem térítendő támogatásra vonatkozó felhívásnak a 46. §-ban foglaltakon felül tartalmaznia kell a támogatás részét képező pénzügyi termék részletes leírását is.
 
-[^288]: A 28/A. alcímet (74/A. §) a 144/2015. (VI. 12.) Korm. rendelet 41. §-a iktatta be.
+[^327]: A 28/A. alcímet a 144/2015. (VI. 12.) Korm. rendelet 41. §-a iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 25. §-ával megállapított szöveg.

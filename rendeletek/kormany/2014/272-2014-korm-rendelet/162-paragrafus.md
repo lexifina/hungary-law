@@ -14,6 +14,6 @@ e) ugyanazon kedvezményezettel szemben más szabálytalansági eljárás van fo
 
 f) a kifizetést követően az eredeti pénzügyi állapot nem állítható helyre.
 
-(3)[^592] A (2) bekezdés c) és f) pontja szerinti esetben a kifizetést fel kell függeszteni.
+(3)[^666] A (2) bekezdés c) és f) pontja szerinti esetben a kifizetést fel kell függeszteni.
 
-[^592]: A 162. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 36. pontja hatályon kívül helyezte, újonnan a 347/2015. (XI. 20.) Korm. rendelet 44. §-a iktatta be.
+[^666]: A 162. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 36. pontja hatályon kívül helyezte, újonnan a 347/2015. (XI. 20.) Korm. rendelet 44. §-a iktatta be.

@@ -1,14 +1,18 @@
-## 57/K. §[^236] A 2007. évi XVII. törvény 22–25. §-ában, 26. § (3)–(5) és (7) bekezdésében, 26/A. §-ában, valamint 29/A. § (1) és (2) bekezdésében nevesített mezőgazdasági és vidékfejlesztési támogatási szerven a 2014–2020 programozási időszakban a Vidékfejlesztési Program irányító hatóságot és a 27. § szerinti szervezetet is érteni kell.
+## 57/K. §[^266] A 2007. évi XVII. törvény 22–25. §-ában, 26. § (3)–(5) és (7) bekezdésében, 26/A. §-ában, valamint 29/A. § (1) és (2) bekezdésében nevesített mezőgazdasági és vidékfejlesztési támogatási szerven a 2014–2020 programozási időszakban a Vidékfejlesztési Program irányító hatóságot és a 27. § szerinti szervezetet is érteni kell.
 
-57/L. §[^237] (1) EMVA terület-, illetve állatlétszám alapú támogatás esetén, ha a támogatást igénylő, illetve a kedvezményezett helyett és nevében az egyes eljárási cselekmények elektronikus ügyintézése során kamarai meghatalmazott jár el, a kamarai meghatalmazott a saját ügyfélkapuját használja az eljárási cselekmények elektronikus elvégzéséhez.
+57/L. §[^267] (1)[^268] Ha a támogatást igénylő, illetve a kedvezményezett helyett és nevében az egyes eljárási cselekmények elektronikus ügyintézése során az ügyfél-nyilvántartási rendszerben kérelemre nyilvántartásba vett besorolású ügyfélként szereplő kamarai meghatalmazott jár el, a kamarai meghatalmazott a saját ügyfélkapuját használja az eljárási cselekmények elektronikus elvégzéséhez.
 
-(2) Az eljárási cselekmények elektronikus elvégzését megelőzően a kamarai meghatalmazottnak kérelmeznie kell a kifizető ügynökség által vezetett ügyfél-nyilvántartási rendszerben történő nyilvántartásba vételét, és az eljárására vonatkozó kamarai meghatalmazást az erre a célra rendszeresített nyomtatványon, elektronikus úton, ügyfélkapun keresztül be kell nyújtania a kifizető ügynökséghez.
+(2)[^269] A kamarai meghatalmazás nyilvántartásba vételének és megszüntetése bejelentésének szabályait az 1. melléklet 8/A.8–8/A.11. pontja tartalmazza.
 
-(3) A kamarai meghatalmazott által a saját ügyfélkapuján keresztül benyújtott kamarai meghatalmazás a beérkezése időpontjában hatályossá válik az irányító hatóságnál és a kifizető ügynökségnél folytatott eljárások során.
+(3)[^270]
 
-(4) A kamarai meghatalmazott eljárása esetén az irányító hatóság, illetve a kifizető ügynökség az adott kérelemmel kapcsolatos minden közlést a támogatást igénylő, illetve a kedvezményezett részére küld meg.
+(4)[^271] A kamarai meghatalmazott eljárása esetén az irányító hatóság, illetve a kifizető ügynökség az adott kérelemmel kapcsolatos minden közlést a támogatást igénylő, illetve a kedvezményezett részére küld meg, kivéve az 57/B. § (6) bekezdése szerinti esetet.
 
 (5) A kamarai meghatalmazott eljárása esetén, ha a természetes személy támogatást igénylő, illetve a természetes személy kedvezményezett ügyfélkapuval nem rendelkezik, továbbá, ha ügyfélkapuval rendelkezik, de úgy nyilatkozik, hogy postai úton történő közlést kér, akkor az irányító hatóságtól, illetve a kifizető ügynökségtől a támogatást igénylő, illetve a kedvezményezett felé irányuló közléseket postai úton kell megküldeni. A kézbesítésre a XXIX. Fejezetben foglaltakat kell alkalmazni.
 
-[^236]: Az 57/K. §-t a 466/2015. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
-[^237]: Az 57/L. §-t a 466/2015. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^266]: Az 57/K. §-t a 466/2015. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^267]: Az 57/L. §-t a 466/2015. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^268]: Az 57/L. § (1) bekezdése a 98/2016. (V. 13.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^269]: Az 57/L. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^270]: Az 57/L. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 46. § 6. pontja hatályon kívül helyezte.
+[^271]: Az 57/L. § (4) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 17. pontja szerint módosított szöveg.

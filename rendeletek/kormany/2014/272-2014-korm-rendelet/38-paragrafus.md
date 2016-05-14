@@ -1,6 +1,6 @@
 ## 37. § Az e rendelet hatálya alá tartozó szervek a támogatást igénylő vagy a kedvezményezett által benyújtott bármely dokumentum tekintetében a nyilvánvaló hibát a dokumentummal kapcsolatos eljárás során bármikor kijavíthatják, amelyről a támogatást igénylőt – indokolt esetben – értesítik.
 
-38. §[^163] (1) Az igazoló hatóság, az irányító hatóság, a kifizető ügynökség, – kijelölésük esetén – a közreműködő szervezet és a finanszírozási megállapodás szerint az alapok alapját végrehajtó szervezet köteles
+38. §[^184] (1) Az igazoló hatóság, az irányító hatóság, a kifizető ügynökség, – kijelölésük esetén – a közreműködő szervezet és a finanszírozási megállapodás szerint az alapok alapját végrehajtó szervezet köteles
 
 a) olyan pénzügyi irányítási és kontroll rendszert kialakítani és működtetni, amely biztosítja, hogy a szervezet tevékenysége szabályszerű és megfelelően szabályozott, gazdaságos, hatékony és eredményes legyen, az információk, beszámolók, jelentések és nyilatkozatok pontosak, megalapozottak és dokumentáltak legyenek és a megfelelő időben rendelkezésre álljanak,
 
@@ -16,4 +16,4 @@ e) az e rendeletben foglalt feladataik ellátására kizárólagosan a monitorin
 
 (3) Az irányító hatóság a közreműködő szervezet és – a finanszírozási megállapodásnak megfelelően – az alapok alapját végrehajtó szervezet vonatkozásában a közreműködő szervezeti és az alapok alapját végrehajtó szervezeti tevékenység bevételei és kiadásai tekintetében programonként elkülönülő nyilvántartás vezetését köteles biztosítani.
 
-[^163]: A 38. § a 144/2015. (VI. 12.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^184]: A 38. § a 144/2015. (VI. 12.) Korm. rendelet 21. §-ával megállapított szöveg.

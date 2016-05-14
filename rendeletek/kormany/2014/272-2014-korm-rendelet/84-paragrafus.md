@@ -1,4 +1,4 @@
-84. § (1)[^327] Mentes a 83. § (1) bekezdése szerinti biztosítéknyújtási kötelezettség alól:
+84. § (1)[^368] Mentes a 83. § (1) bekezdése szerinti biztosítéknyújtási kötelezettség alól:
 
 a) a költségvetési szerv,
 
@@ -30,7 +30,7 @@ k) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifize
 
 l) társasház és lakásszövetkezet a szociális célú városrehabilitációra vonatkozó felhívás keretében,
 
-m)[^328] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (tizenkét naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint közzétett köztartozásmentes adózói adatbázisban.
+m)[^369] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (tizenkét naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint közzétett köztartozásmentes adózói adatbázisban.
 
 (2) A felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
 
@@ -38,11 +38,11 @@ a) nem beruházási célú, vagy
 
 b) kutatás-fejlesztésre vagy innovációra irányul.
 
-(3)[^329] Ha a kedvezményezett a köztartozásmentes adózói adatbázisban nem szerepel, a köztartozás-mentességét harminc napnál nem régebbi együttes adóigazolással is igazolhatja.
+(3)[^370] Ha a kedvezményezett a köztartozásmentes adózói adatbázisban nem szerepel, a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással is igazolhatja.
 
-(4)[^330] Az EMVA-ból származó forrásból nyújtott támogatás esetén a kifizető ügynökség a felhívás eltérő rendelkezése hiányában a 907/2014/EU bizottsági rendelet 18. cikk alapján adhat felmentést a biztosíték nyújtása alól.
+(4)[^371] Az EMVA-ból származó forrásból nyújtott támogatás esetén a kifizető ügynökség a felhívás eltérő rendelkezése hiányában a 907/2014/EU bizottsági rendelet 18. cikk alapján adhat felmentést a biztosíték nyújtása alól.
 
-[^327]: A 84. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 91. pontjával megállapított szöveg.
-[^328]: A 84. § (1) bekezdés m) pontját a 358/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 92. pontja szerint módosított szöveg.
-[^329]: A 84. § (3) bekezdését a 358/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 93. pontja szerint módosított szöveg.
-[^330]: A 84. § (4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 49. §-a iktatta be.
+[^368]: A 84. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 91. pontjával megállapított szöveg.
+[^369]: A 84. § (1) bekezdés m) pontját a 358/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 92. pontja szerint módosított szöveg.
+[^370]: A 84. § (3) bekezdését a 358/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 93. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 29. pontja szerint módosított szöveg.
+[^371]: A 84. § (4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 49. §-a iktatta be.

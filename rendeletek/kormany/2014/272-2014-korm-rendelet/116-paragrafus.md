@@ -1,8 +1,8 @@
 ## 42. Támogatási előleg további szabályai
 
-116. § (1)[^439] Támogatási előleg indokolt esetben, a támogatott tevékenység elindításához és likviditásának biztosításához szükséges legkisebb összegben a támogatási szerződésben meghatározott összegben és mértékben nyújtható a kedvezményezett részére. Az előleget hazai és európai uniós forrásból, az ESB-alapokból támogatott adott intézkedés, illetve projekt szerinti finanszírozási arányban kell nyújtani.
+116. § (1)[^494] Támogatási előleg indokolt esetben, a támogatott tevékenység elindításához és likviditásának biztosításához szükséges legkisebb összegben a támogatási szerződésben meghatározott összegben és mértékben nyújtható a kedvezményezett részére. Az előleget hazai és európai uniós forrásból, az ESB-alapokból támogatott adott intézkedés, illetve projekt szerinti finanszírozási arányban kell nyújtani.
 
-(2)[^440] A támogatási előleg mértéke és összege nem haladhatja meg a megítélt támogatás összegének
+(2)[^495] A támogatási előleg mértéke és összege nem haladhatja meg a megítélt támogatás összegének
 
 a) 25%-át, de legfeljebb egymilliárd forintot,
 
@@ -12,14 +12,14 @@ c) kutatás, műszaki fejlesztés esetén 75%-át, de legfeljebb egymilliárd fo
 
 d) EMVA forrás esetén 50%-át.
 
-(3)[^441] A (2) bekezdésben meghatározott összeghatárt és százalékos mértéket a támogatói döntést követően a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja kezdeményezésére az államháztartásért felelős miniszter egyetértésével az európai uniós források felhasználásáért felelős miniszter megemelheti, ha a kedvezményezett – vagy technikai segítségnyújtási projektek esetén az irányító hatóság – a támogatási előlegnyújtás ütemezését alátámasztó likviditási tervet készít, és a magasabb támogatási előleg mértékének szükségességét megalapozottan indokolja.
+(3)[^496] A (2) bekezdésben meghatározott összeghatárt és százalékos mértéket a támogatói döntést követően a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja kezdeményezésére az államháztartásért felelős miniszter egyetértésével az európai uniós források felhasználásáért felelős miniszter megemelheti, ha a kedvezményezett – vagy technikai segítségnyújtási projektek esetén az irányító hatóság – a támogatási előlegnyújtás ütemezését alátámasztó likviditási tervet készít, és a magasabb támogatási előleg mértékének szükségességét megalapozottan indokolja.
 
-(4)[^442] Egyszeri elszámolás esetén támogatási előleg nem igényelhető.
+(4)[^497] Egyszeri elszámolás esetén támogatási előleg nem igényelhető.
 
-(5)[^443] Támogatási előleg kizárólag a támogatási szerződésben utófinanszírozásúként rögzített elszámolható költség vonatkozásában igényelhető.
+(5)[^498] Támogatási előleg kizárólag a támogatási szerződésben utófinanszírozásúként rögzített elszámolható költség vonatkozásában igényelhető.
 
-[^439]: A 116. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 50. § 19. pontja szerint módosított szöveg.
-[^440]: A 116. § (2) bekezdése a 42/2016. (III. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^441]: A 116. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 67. § (2) bekezdésével megállapított, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 18. pontja szerint módosított szöveg.
-[^442]: A 116. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^443]: A 116. § (5) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^494]: A 116. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 50. § 19. pontja szerint módosított szöveg.
+[^495]: A 116. § (2) bekezdése a 42/2016. (III. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^496]: A 116. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 67. § (2) bekezdésével megállapított, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 18. pontja szerint módosított szöveg.
+[^497]: A 116. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^498]: A 116. § (5) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 30. §-ával megállapított szöveg.

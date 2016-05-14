@@ -1,3 +1,3 @@
-## 56/C. §[^220] Az 56/A. § (2) bekezdés c) pontja szerinti határidőben benyújtott projektdokumentációt az irányító hatóság a felhívásban előírt értékelési szempontok szerint megvizsgálja. Ha a projektdokumentáció az értékelési szempontoknak megfelel, az irányító hatóság az 56/A. § (1) bekezdése szerinti szerződést módosítja a projekt megvalósításának érdekében.
+## 56/C. §[^245] A kedvezményezett az 56/A. § (2) bekezdés c) pontja szerinti határidőig szerződésmódosítási bejelentés keretében benyújtja a projektdokumentációt, amelyet az irányító hatóság a felhívásban előírt értékelési szempontok szerint megvizsgál. Ha a projektdokumentáció az irányító hatóság által a felhívásban meghatározott értékelési szempontoknak megfelel, az irányító hatóság az 56. § (3) bekezdése szerinti szerződést módosítja a projekt megvalósítása érdekében.
 
-[^220]: Az 56/C. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be.
+[^245]: Az 56/C. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 13. §-ával megállapított szöveg.
