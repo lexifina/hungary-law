@@ -26,17 +26,7 @@
 
 ## Határidő: 2016. június 30.
 
-## 4. Az 1118/2016. (III. 10.) Korm. határozat
-
-## a) 6. pontjában az „1–6. pontja” szövegrész helyébe az „1–5. pontja” szöveg, az „1054,0” szövegrész helyébe a „655,0” szöveg,
-
-## b) 7. pontjában a „2–6. pontja” szövegrész helyébe a „2–5. pontja” szöveg,
-
-## c) 8. pontjában az „1–6. pontja” szövegrész helyébe az „1–5. pontja” szöveg,
-
-## d) 8. pont a) alpontjában a „9532,0” szövegrész helyébe a „8733,0” szöveg
-
-## lép.
+## 4.[^1]
 
 1. melléklet az 1238/2016. (V. 13.) Korm. határozathoz
 
@@ -113,3 +103,5 @@ Költségvetési év: 2016.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

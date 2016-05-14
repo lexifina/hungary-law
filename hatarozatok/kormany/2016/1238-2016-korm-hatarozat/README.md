@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1238-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-05-13 | 2016-1238-30-22.1 | 1238/2016. (V. 13.) Korm. határozat |
+| 2016-05-14 | 2016-1238-30-22.2 | 2010: CXXX. törvény |
