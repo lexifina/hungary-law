@@ -1,0 +1,3 @@
+## 1. § A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet [a továbbiakban: 27/2014. (XI. 25.) FM rendelet] 4. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Ha a mezőgazdasági káresemény tárgyév április 1-je után következik be és a kárbejelentésre nyitva álló, (1) bekezdés szerinti határidő az egységes kérelem szankciómentes benyújtására nyitva álló időszakban telik le, akkor – az (1) bekezdésben foglaltaktól eltérően – a kárbejelentés az egységes kérelem szankciómentes benyújtására előírt határidő utolsó napjáig tehető meg.”

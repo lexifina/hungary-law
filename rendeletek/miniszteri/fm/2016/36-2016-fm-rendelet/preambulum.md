@@ -1,0 +1,1 @@
+A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 24. § (2) bekezdés b) pontjában kapott felhatalmazás alapján – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
