@@ -1,4 +1,4 @@
-## 5. § Hatályát veszti a fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 19/2015. (V. 29.) BM rendelet.
+## 5. §[^1]
 
 1. melléklet a 17/2016. (V. 13.) BM rendelethez
 
@@ -173,3 +173,5 @@ A XIV. Belügyminisztérium fejezet 2016. évi költségvetési kiadási előir�
 |  |  |  |  |  | Azok a Belügyminisztérium tulajdonosi joggyakorlása alá tartozó gazdasági társaságok, amelyek vállalják, hogy az előirányzat kezelőjével közszolgáltatási szerződést vagy szolgáltatási szerződést vagy egyéb polgári jogi szerződést kötnek. |  |  |  |  |  |  |  |  |
 
 | 43 | 352128 |  | Fejezeti stabilitási tartalék | A Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 19. § (7) bekezdése szerinti kormányhatározat által meghatározott cél. | A Kormány által hozott határozatban megjelölt kedvezményezettek. | Az előirányzat felhasználása a Kvtv., valamint a Kormány által hozott határozat alapján történik. |  | A Kormány által hozott határozat alapján előirányzat-átcsoportosítással. |  |  |  |  |  |
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
