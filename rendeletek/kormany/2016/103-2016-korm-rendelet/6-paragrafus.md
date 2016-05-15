@@ -1,1 +1,0 @@
-## „(7) A közszolgálati biztos a Döntőbizottság elnökének köteles haladéktalanul bejelenteni, ha vele szemben a (6) bekezdés a)–c) pontja szerinti kizárási ok áll fenn. A kizárás tárgyában az elnök soron kívül dönt.”
