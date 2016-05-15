@@ -1,4 +1,4 @@
-## 7/C. § A Kormány a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/C. § (2) bekezdés b) pontja szerinti szolgáltatóként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t jelöli ki.
+## 7/C. § A Kormány a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti, a személyazonosító igazolványhoz tartozó elektronikus aláírás hitelesítési és az ehhez kapcsolódóan nyújtott időbélyegzés szolgáltatás szolgáltatójaként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t jelöli ki.
 
 ## 6. Záró rendelkezések
 
