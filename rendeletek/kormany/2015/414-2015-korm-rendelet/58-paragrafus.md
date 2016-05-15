@@ -7,3 +7,7 @@
 (4) Ha a szolgáltatást igénybe vevő érvényes állandó személyazonosító igazolványán érvénytelen tanúsítvány szerepel, azt a kapcsolódó kulcspárral együtt a központi szerv törli.
 
 (5) A szolgáltatást igénybe vevő az állandó személyazonosító igazolványon elhelyezett tanúsítvány felfüggesztését nem kezdeményezheti.
+
+(6)[^18] A tanúsítvány visszavonása egyben az időbélyegzés szolgáltatás igénybevételi jogosultságának megszűntetését jelenti.
+
+[^18]: Az 58. § (6) bekezdését a 93/2016. (V. 2.) Korm. rendelet 3. § (5) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-53. § (1) A járási hivatal és a központi szerv rögzíti a szolgáltatást igénybe vevő e-aláírás funkció igényléséhez és az e-aláírás funkcióval kapcsolatos szolgáltatási szerződés megkötéséhez szükséges adatait.
+53. § (1)[^11] A járási hivatal és a központi szerv rögzíti a szolgáltatást igénybe vevő e-aláírás funkció igényléséhez és a szolgáltatási szerződés megkötéséhez szükséges adatait.
 
 (2) A járási hivatal és a központi szerv a szerződéskötést megelőzően köteles tájékoztatni a szolgáltatást igénybe vevőt a szolgáltatás igénybevételének jogszabályi feltételeiről és követelményeiről.
 
@@ -8,4 +8,7 @@
 
 (5) A szolgáltatást igénybe vevő az elektronikus aláíráshoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kód, az elektronikus aláíráshoz tartozó PIN kód és a visszavonási jelszó használatát más személynek nem engedheti át, azokat más személynek nem hozhatja tudomására.
 
-(6) Az e-aláírási funkcióval kapcsolatos szolgáltatási szerződés egy aláírt eredeti példányát át kell adni a szolgáltatást igénybe vevőnek. Az e-aláírási funkcióval kapcsolatos szolgáltatási szerződés másik aláírt eredeti példányát a járási hivatal és a központi szerv továbbítja a kijelölt hitelesítés-szolgáltatónak.
+(6)[^12] Az e-aláírási funkcióval és időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés egy aláírt eredeti példányát át kell adni az igénybe vevőnek. A szolgáltatási szerződés másik aláírt eredeti példányát a járási hivatal és a központi szerv továbbítja a kijelölt hitelesítés-szolgáltatónak.
+
+[^11]: Az 53. § (1) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^12]: Az 53. § (6) bekezdése a 93/2016. (V. 2.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
