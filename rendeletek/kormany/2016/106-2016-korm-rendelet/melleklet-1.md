@@ -1,4 +1,4 @@
-## 7. § Hatályát veszti a Homatech Recycling Zrt. Százhalombattán megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 393/2015. (XII. 11.) Korm. rendelet.
+## 7. §[^1]
 
 1. melléklet a 106/2016. (V. 13.) Korm. rendelethez
 
@@ -47,3 +47,5 @@ A Homatech Recycling Zrt. Kaposváron megvalósuló beruházásának megvalósí
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
