@@ -140,6 +140,11 @@
 
 ## 17.8. értékpapír jegyzők köre
 
-## 18. Egyéb információ
+## 18.[^8] 18. A forgalomba hozatal zártkörű jellegét megalapozó körülmény
+
+## 19.[^9] Egyéb információ
 
 3. melléklet a 18/2014. (VI. 3.) MNB rendelethez
+
+[^8]: A 2. melléklet II. 18. pontja a 16/2016. (V. 11.) MNB rendelet 2. §-ával megállapított szöveg.
+[^9]: A 2. melléklet II. 19. pontját a 16/2016. (V. 11.) MNB rendelet 2. §-a iktatta be.

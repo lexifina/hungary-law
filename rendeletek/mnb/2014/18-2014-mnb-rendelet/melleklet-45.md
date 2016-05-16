@@ -18,4 +18,6 @@
 
 ## 5. az egyesülést jóváhagyó felügyeleti határozat száma
 
-45. melléklet a 18/2014. (VI. 3.) MNB rendelethez
+45. melléklet a 18/2014. (VI. 3.) MNB rendelethez[^12]
+
+[^12]: A 45. melléklet a 16/2016. (V. 11.) MNB rendelet 4. §-ával megállapított szöveg.

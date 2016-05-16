@@ -8,7 +8,7 @@
 
 3. a Tpt. 27. § (3) bekezdésében foglalt – a kibocsátott értékpapír végleges ajánlati árával, illetőleg a felajánlott értékpapír mennyiségével kapcsolatos információkra vonatkozó – bejelentési kötelezettségét az 5. mellékletben,
 
-4. a Tpt. 27. § (6) bekezdésében foglalt – a forgalomba hozatal végleges feltételeivel kapcsolatos információkra vonatkozó – bejelentési kötelezettségét a 6. mellékletben,
+4.[^1] a Tpt. 27. § (6) bekezdésében foglalt – a forgalomba hozatal végleges feltételeivel kapcsolatos információkra vonatkozó – bejelentési kötelezettségét – a végleges feltételek és az ahhoz kapcsolódó összefoglaló, valamint amennyiben szükséges, az összefoglaló fordításának egyidejű mellékelésével – a 6. mellékletben,
 
 5. a Tpt. 34. § (3) bekezdés c) pontjában foglalt – a tájékoztatóban szereplő egyes adatokat tartalmazó – bejelentésére vonatkozó kötelezettségét a 7. mellékletben,
 
@@ -47,3 +47,5 @@
 (3) A nyilvánosan forgalomba hozott értékpapír kibocsátója a Tpt.-ben előírt, a (2) bekezdésben nem megjelölt bejelentési kötelezettségét az MNB által működtetett hivatalosan kijelölt információtárolási rendszeren keresztül történő közzététellel teljesíti.
 
 (4) A nyilvánosan forgalomba hozott értékpapír kibocsátója tekintetében, ha legalább a 12–18., 21–22. mellékletben megjelölt adattartalommal, a Tpt.-ben megjelölt határidőben a pénzügyi közvetítőrendszer felügyelete alá tartozó személyek és szervezetek törzsadat-bejelentési kötelezettségéről szóló 39/2013. (XII. 29.) MNB rendelet szerint bejelentést teljesített az MNB részére, az e rendelet szerinti bejelentési kötelezettsége is teljesítettnek tekintendő.
+
+[^1]: A 4. § (2) bekezdés 4. pontja a 16/2016. (V. 11.) MNB rendelet 6. § a) pontja szerint módosított szöveg.
