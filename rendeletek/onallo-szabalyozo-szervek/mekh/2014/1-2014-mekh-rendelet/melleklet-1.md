@@ -6,183 +6,189 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 |  | A | B |
 
-| 1 | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
+| 1. | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
 
-| 2 | Engedély kiadása iránti kérelem elbírálása |  |
+| 2. | Engedély kiadása iránti kérelem elbírálása |  |
 
-| 3 | a) | szállítási rendszerüzemeltetésre | 6 000 |
+| 3. | a) szállítási rendszerüzemeltetésre | 6 000 |
 
-| 4 | b) | földgázelosztásra |  |
+| 4. | b) földgázelosztásra |  |
 
-| 5 | ba) | 100 000-nél kevesebb felhasználó esetében | 1 000 |
+| 5. | ba) 100 000-nél kevesebb felhasználó esetében | 1 000 |
 
-| 6 | bb) | 100 000 vagy annál több felhasználó esetében | 5 000 |
+| 6. | bb) 100 000 vagy annál több felhasználó esetében | 5 000 |
 
-| 7 | c) | földgáztárolásra | 6 000 |
+| 7. | c) földgáztárolásra | 6 000 |
 
-| 8 | d) | földgáz-kereskedelemre | 4 000 |
+| 8. | d) földgáz-kereskedelemre | 4 000 |
 
-| 9 | e) | korlátozott földgáz-kereskedelemre | 2 000 |
+| 9. | e) korlátozott földgáz-kereskedelemre | 2 000 |
 
-| 10 | f) | egyetemes szolgáltatásra |  |
+| 10. | f) egyetemes szolgáltatásra |  |
 
-| 11 | fa) | 100 000-nél kevesebb felhasználó esetében | 1 000 |
+| 11. | fa) 100 000-nél kevesebb felhasználó esetében | 1 000 |
 
-| 12 | fb) | 100 000 vagy annál több felhasználó esetében | 5 000 |
+| 12. | fb) 100 000 vagy annál több felhasználó esetében | 5 000 |
 
-| 13 | g) | szervezett földgázpiac működtetésére | 15 000 |
+| 13. | g) szervezett földgázpiac működtetésére | 15 000 |
 
-| 14 | h) | vezetékes PB-gáz szolgáltatásra | 1 000 |
+| 14. | h) vezetékes PB-gáz szolgáltatásra | 1 000 |
 
-| 15 | i) | egyablakos kapacitásértékesítésre | 6 000 |
+| 15. | i) egyablakos kapacitásértékesítésre | 6 000 |
 
-| 16 | j) | telephelyi szolgáltatásra | 1 000 |
+| 16. | j) telephelyi szolgáltatásra | 1 000 |
 
-| 17 | Engedély módosítása iránti kérelem elbírálása |  |
+| 17. | k) központi adatgyűjtő és feldolgozó rendszer működtetésére | 6000 |
 
-| 18 | a) | ha a módosítás tárgya település kijelölése | 100 |
+| 18. | Engedély módosítása iránti kérelem elbírálása |  |
 
-| 19 | b) | ha a módosítás tárgya településrész vagy terület kijelölése | 10 |
+| 19. | a) ha a módosítás tárgya település kijelölése | 100 |
 
-| 20 | c) | ha a módosítás tárgya település, településrész vagy terület törlése vagy bekapcsolási időpontjának módosítása | 10 |
+| 20. | b) ha a módosítás tárgya településrész vagy terület kijelölése | 10 |
 
-| 21 | d) | ha módosítás tárgya névváltozás vagy székhelyváltozás, illetve ezekből következő adatváltozás | 10 |
+| 21. | c) ha a módosítás tárgya település, településrész vagy terület törlése vagy bekapcsolási időpontjának módosítása | 10 |
 
-| 22 | e) | egyéb esetben | az adott engedély kiadása díjának 10%-a |
+| 22. | d) ha módosítás tárgya névváltozás vagy székhelyváltozás, kézbesítési megbízott személyében beállt változás, illetve ezekből következő adatváltozás | 10 |
 
-| 23 | Üzemi és Kereskedelmi Szabályzat |  |
+| 23. | e) egyéb esetben | az adott engedély kiadása díjának 10%-a |
 
-| 24 | a) | jóváhagyása iránti kérelem elbírálása | 10 000 |
+| 24. | Üzemi és Kereskedelmi Szabályzat |  |
 
-| 25 | b) | módosítása iránti kérelem elbírálása | 5 000 |
+| 25. | a) jóváhagyása iránti kérelem elbírálása | 10 000 |
 
-| 26 | Üzletszabályzat |  |
+| 26. | b) módosítása iránti kérelem elbírálása | 5 000 |
 
-| 27 | a) | jóváhagyása iránti kérelem elbírálása | 1 000 |
+| 27. | Üzletszabályzat |  |
 
-| 28 | b) | módosítása iránti kérelem elbírálása | 300 |
+| 28. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 29 | Egyensúlyozó Platform Szabályzat |  |
+| 29. | b) módosítása iránti kérelem elbírálása | 300 |
 
-| 30 | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
+| 30. | Kereskedési Platform Szabályzat |  |
 
-| 31 | b) módosítása iránti kérelem elbírálása | 500 |
+| 31. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 32 | Szervezett földgázpiaci szabályzat |  |
+| 32. | b) módosítása iránti kérelem elbírálása | 500 |
 
-| 33 | a) | jóváhagyása iránti kérelem elbírálása | 1 000 |
+| 33. | Kapacitás Lekötési Platform Szabályzat |  |
 
-| 34 | b) | módosítása iránti kérelem elbírálása | 500 |
+| 34. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 35 | Belső kiválasztási szabályzat |  |
+| 35. | b) módosítása iránti kérelem elbírálása | 500 |
 
-| 36 | a) | jóváhagyása iránti kérelem elbírálása | 1 000 |
+| 36. | Szervezett földgázpiaci szabályzat |  |
 
-| 37 | b) | módosítása iránti kérelem elbírálása | 200 |
+| 37. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 38 | Engedélyes szétválásához, egyesüléséhez, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő hozzájárulás iránti kérelem elbírálása |  |
+| 38. | b) módosítása iránti kérelem elbírálása | 500 |
 
-| 39 | a) | földgázszállító, szállítási rendszerüzemeltető esetében | 5 000 |
+| 39. | Központi adatgyűjtő és feldolgozó rendszert üzemeltető engedélyes szabályzata |  |
 
-| 40 | b) | földgáztároló esetében | 5 000 |
+| 40. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 41 | c) | földgázelosztó esetében |  |
+| 41. | b) módosítása iránti kérelem elbírálása | 500 |
 
-| 42 | ca) | 100 000-nél kevesebb felhasználóval rendelkező | 100 |
+| 42. | Belső kiválasztási szabályzat |  |
 
-| 43 | cb) | 100 000 vagy annál több felhasználóval rendelkező | 5 000 |
+| 43. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 44 | d) | földgázkereskedő esetében | 1 000 |
+| 44. | b) módosítása iránti kérelem elbírálása | 200 |
 
-| 45 | e) | egyetemes szolgáltató esetében |  |
+| 45. | Engedélyes szétválásához, egyesüléséhez, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő hozzájárulás iránti kérelem elbírálása |  |
 
-| 46 | ea) | 100 000-nél kevesebb felhasználóval rendelkező | 100 |
+| 46. | a) földgázszállító, szállítási rendszerüzemeltető esetében | 5 000 |
 
-| 47 | eb) | 100 000 vagy annál több felhasználóval rendelkező | 5 000 |
+| 47. | b) földgáztároló esetében | 5 000 |
 
-| 48 | f) | szervezett földgázpiaci engedélyes esetében | 1 000 |
+| 48. | c) földgázelosztó esetében |  |
 
-| 49 | g) | vezetékes PB-gáz szolgáltató esetében | 100 |
+| 49. | ca) 100 000-nél kevesebb felhasználóval rendelkező | 100 |
 
-| 50 | Engedélyesben történő befolyásszerzés bejelentésének tudomásulvétele iránti kérelem elbírálása | 10 |
+| 50. | cb) 100 000 vagy annál több felhasználóval rendelkező | 5 000 |
 
-| 51 | Szállítási rendszerüzemeltetőben vagy annak irányító részvényesében irányítást biztosító részesedésszerzéshez vagy ezt eredményező jogügylet létrejöttéhez történő hozzájárulás iránti kérelem elbírálása | 5 000 |
+| 51. | d) földgázkereskedő esetében | 1 000 |
 
-| 52 | Engedélyhez kötött tevékenység egyes elemeinek más személy általi végzéséhez (kiszervezéshez) történő hozzájárulás iránti kérelem elbírálása, és hozzájárulás esetében ennek engedélyben történő rögzítése | 2 000 |
+| 52. | e) egyetemes szolgáltató esetében |  |
 
-| 53 | Működési engedélyben meghatározott alapvető eszközök és vagyoni értékű jogok más személy részére történő átruházásához, átengedéséhez, lízingbe adásához, egyéb módon tartós használatba adásához, megterheléséhez vagy biztosítékul való lekötéséhez (alapvető eszközökkel való rendelkezéshez) történő hozzájárulás iránti kérelem, és hozzájárulás esetében ennek engedélyben történő rögzítése |  |
+| 53. | ea) 100 000-nél kevesebb felhasználóval rendelkező | 100 |
 
-| 54 | a) | földgázszállító, szállítási rendszerüzemeltető, földgáztároló, 100 000 vagy annál több felhasználóval rendelkező földgázelosztó esetében | 5 000 |
+| 54. | eb) 100 000 vagy annál több felhasználóval rendelkező | 5 000 |
 
-| 55 | b) | egyéb engedélyes esetében | 1 000 |
+| 55. | f) szervezett földgázpiaci engedélyes esetében | 1 000 |
 
-| 56 | Fogyasztói korlátozási sorrend |  |
+| 56. | g) vezetékes PB-gáz szolgáltató esetében | 100 |
 
-| 57 | a) | jóváhagyása iránti kérelem elbírálása | 1 000 |
+| 57. | Engedélyesben történő befolyásszerzés bejelentésének tudomásulvétele iránti kérelem elbírálása | 10 |
 
-| 58 | b) | besorolások módosítása iránti kérelem elbírálása | 100 |
+| 58. | Szállítási rendszerüzemeltetőben vagy annak irányító részvényesében irányítást biztosító részesedésszerzéshez vagy ezt eredményező jogügylet létrejöttéhez történő hozzájárulás iránti kérelem elbírálása | 5 000 |
 
-| 59 | A kapacitás-felülvizsgálat eredményének és az infrastruktúra-fejlesztési javaslat (10 éves fejlesztési terv) jóváhagyása iránti kérelem elbírálása | 10 000 |
+| 59. | Engedélyhez kötött tevékenység egyes elemeinek más személy általi végzéséhez (kiszervezéshez) történő hozzájárulás iránti kérelem elbírálása, és hozzájárulás esetében ennek engedélyben történő rögzítése | 2 000 |
 
-| 60 | Rendszerüzemeltetői fejlesztések elvégzésére vagy új földgáztároló létrehozására irányuló pályázat eredményeképpen történő beruházás megvalósításához szükséges pénzügyi megállapodás jóváhagyása iránti kérelem elbírálása | 500 |
+| 60. | Működési engedélyben meghatározott alapvető eszközök és vagyoni értékű jogok más személy részére történő átruházásához, átengedéséhez, lízingbe adásához, egyéb módon tartós használatba adásához, megterheléséhez vagy biztosítékul való lekötéséhez (alapvető eszközökkel való rendelkezéshez) történő hozzájárulás iránti kérelem, és hozzájárulás esetében ennek engedélyben történő rögzítése |  |
 
-| 61 | Célvezeték létesítéséhez, vezeték célvezetékké minősítéséhez történő hozzájárulás iránti kérelem elbírálása | 1 000 |
+| 61. | a) földgázszállító, szállítási rendszerüzemeltető, földgáztároló, 100 000 vagy annál több felhasználóval rendelkező földgázelosztó esetében | 5 000 |
 
-| 62 | Új határkeresztező földgázvezetékre, cseppfolyós földgáz tárolására szolgáló létesítményre vagy földgáztárolóra vonatkozóan a) az együttműködő földgázrendszerben alkalmazott díj-megállapítási szabályok, b) a hozzáférési kötelezettségek vagy c) a szétválasztási követelmények |  |
+| 62. | b) egyéb engedélyes esetében | 1 000 |
 
-| 63 | a) | teljesítése alóli felmentés iránti kérelem elbírálása | 5 000 |
+| 63. | Fogyasztói korlátozási sorrend |  |
 
-| 64 | b) | teljesítése alóli felmentés módosítása iránti kérelem elbírálása | 2 000 |
+| 64. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 65 | Pénzügyi biztosíték módosítása iránti kérelem elbírálása |  |
+| 65. | b) besorolások módosítása iránti kérelem elbírálása | 100 |
 
-| 66 | a) | a pénzügyi biztosíték időbeli hatálya vagy összege esetében | 100 |
+| 66. | A kapacitás-felülvizsgálat eredményének és az infrastruktúra-fejlesztési javaslat (10 éves fejlesztési terv) jóváhagyása iránti kérelem elbírálása | 10 000 |
 
-| 67 | b) | egyéb esetben | 500 |
+| 67. | Rendszerüzemeltetői fejlesztések elvégzésére vagy új földgáztároló létrehozására irányuló pályázat eredményeképpen történő beruházás megvalósításához szükséges pénzügyi megállapodás jóváhagyása iránti kérelem elbírálása | 500 |
 
-| 68 | Szállítási rendszerüzemeltető tanúsítása iránti kérelem elbírálása | 6 000 |
+| 68. | Célvezeték létesítéséhez, vezeték célvezetékké minősítéséhez történő hozzájárulás iránti kérelem elbírálása | 1 000 |
 
-| 69 | A szállítási rendszerüzemeltető által a vertikálisan integrált földgázipari vállalkozás részére nyújtott szolgáltatás feltételeinek jóváhagyása iránti kérelem elbírálása, ha nem más igazgatási szolgáltatási díj-köteles eljárás keretében kerül elbírálásra | 200 |
+| 69. | Új határkeresztező földgázvezetékre, cseppfolyós földgáz tárolására szolgáló létesítményre vagy földgáztárolóra vonatkozóan a) az együttműködő földgázrendszerben alkalmazott díj-megállapítási szabályok, b) a hozzáférési kötelezettségek vagy c) a szétválasztási követelmények |  |
 
-| 70 | A szállítási rendszerüzemeltető és a vertikálisan integrált földgázipari vállalkozás közötti pénzügyi, kereskedelmi megállapodás |  |
+| 70. | a) teljesítése alóli felmentés iránti kérelem elbírálása | 5 000 |
 
-| 71 | a) | jóváhagyása iránti kérelem elbírálása | 200 |
+| 71. | b) teljesítése alóli felmentés módosítása iránti kérelem elbírálása | 2 000 |
 
-| 72 | b) | módosítása iránti kérelem elbírálása | 100 |
+| 72. | Szállítási rendszerüzemeltető tanúsítása iránti kérelem elbírálása | 6 000 |
 
-| 73 | ha a 71. és 72. sor szerinti kérelem nem más igazgatási szolgáltatási díj-köteles eljárás keretében kerül elbírálásra |  |
+| 73. | A szállítási rendszerüzemeltető által a vertikálisan integrált földgázipari vállalkozás részére nyújtott szolgáltatás feltételeinek jóváhagyása iránti kérelem elbírálása, ha nem más igazgatási szolgáltatási díj-köteles eljárás keretében kerül elbírálásra | 200 |
 
-| 74 | A szállítási rendszerüzemeltetői megfelelési ellenőr megbízatásának, alkalmazása feltételeinek, megbízatása vagy alkalmazása időtartamának, valamint kinevezésének jóváhagyása, kinevezésének megszüntetése iránti kérelem elbírálása | 200 |
+| 74. | A szállítási rendszerüzemeltető és a vertikálisan integrált földgázipari vállalkozás közötti pénzügyi, kereskedelmi megállapodás, amennyiben nem más igazgatási szolgáltatási díj-köteles eljárás keretében kerül elbírálásra |  |
 
-| 75 | Megfelelési program |  |
+| 75. | a) a jóváhagyása iránti kérelem elbírálása | 200 |
 
-| 76 | a) | jóváhagyása iránti kérelem elbírálása | 2 000 |
+| 76. | b) a módosítása iránti kérelem elbírálása | 100 |
 
-| 77 | b) | módosítása iránti kérelem elbírálása | 1 000 |
+| 77. | A szállítási rendszerüzemeltetői megfelelési ellenőr megbízatásának, alkalmazása feltételeinek, megbízatása vagy alkalmazása időtartamának, valamint kinevezésének jóváhagyása, kinevezésének megszüntetése iránti kérelem elbírálása | 200 |
 
-| 78 | Megfelelési jelentés jóváhagyása iránti kérelem elbírálása | 1 000 |
+| 78. | Megfelelési program |  |
 
-| 79 | Munkaviszony, munkavégzésre irányuló egyéb jogviszony vagy kinevezés megszűnését követő egy éven belül más engedélyesnél történő munkaviszony, munkavégzésre irányuló egyéb jogviszony vagy kinevezés létesítéséhez történő hozzájárulás iránti kérelem elbírálása a GET 120/A. § (3) bekezdés f) pontja alapján | 50 |
+| 79. | a) jóváhagyása iránti kérelem elbírálása | 2 000 |
 
-| 80 | Jelentős piaci erővel rendelkező engedélyes számára előírt értékesítési kötelezettség alapján az értékesítésre kerülő földgáz mennyiségének, az értékesítés feltételeinek és az aukciós szabályzatnak a jóváhagyása iránti kérelem elbírálása | 100 |
+| 80. | b) módosítása iránti kérelem elbírálása | 1 000 |
 
-| 81 | Egyetemes szolgáltatóként és földgázkereskedőként vásárolni kívánt földgáz elkülönített elszámolására és nyilvántartására kidolgozott részletes szabályok |  |
+| 81. | Megfelelési jelentés jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 82 | a) | jóváhagyása iránti kérelem elbírálása | 1 000 |
+| 82. | Munkaviszony, munkavégzésre irányuló egyéb jogviszony vagy kinevezés megszűnését követő egy éven belül más engedélyesnél történő munkaviszony, munkavégzésre irányuló egyéb jogviszony vagy kinevezés létesítéséhez történő hozzájárulás iránti kérelem elbírálása a GET 120/A. § (3) bekezdés f) pontja alapján | 50 |
 
-| 83 | b) | módosításának jóváhagyása iránti kérelem elbírálása | 500 |
+| 83. | Jelentős piaci erővel rendelkező engedélyes számára előírt értékesítési kötelezettség alapján az értékesítésre kerülő földgáz mennyiségének, az értékesítés feltételeinek és az aukciós szabályzatnak a jóváhagyása iránti kérelem elbírálása | 100 |
 
-| 84 | Hatósági ár alkalmazásának ellenőrzésére benyújtott kérelem elbírálása | 100 |
+| 84. | Egyetemes szolgáltatóként és földgázkereskedőként vásárolni kívánt földgáz elkülönített elszámolására és nyilvántartására kidolgozott részletes szabályok |  |
 
-| 85 | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
+| 85. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
 
-| 86 | Engedély visszavonása iránti kérelem elbírálása: |  |
+| 86. | b) módosításának jóváhagyása iránti kérelem elbírálása | 500 |
 
-| 87 | a) | földgáz-kereskedelemi engedély esetén | 50 |
+| 87. | Hatósági ár alkalmazásának ellenőrzésére benyújtott kérelem elbírálása | 100 |
 
-| 88 | b) | korlátozott földgáz-kereskedelemi engedély esetén | 50 |
+| 88. | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
 
-| 89 | Elvi engedély kiadása iránti kérelem korlátozott földgáz-kereskedelmi engedélyezési eljárásban | 2000 |
+| 89. | Engedély visszavonása iránti kérelem elbírálása: |  |
+
+| 90. | a) földgáz-kereskedelemi engedély esetén | 50 |
+
+| 91. | b) korlátozott földgáz-kereskedelemi engedély esetén | 50 |
+
+| 92. | Rendszeres információszolgáltatási kötelezettség alóli mentesség kérelem benyújtása | 10 |
 
 B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -474,6 +480,8 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 142 | Rendszeres információszolgáltatási kötelezettség alóli mentesség kérelem benyújtása | 10 |
 
+| 143. | A VET. 143. § (3a) bekezdése szerinti egyetemes szolgáltatási árszabások árának és áralkalmazási feltételeinek módosítására és visszavonására vonatkozó kérelem elbírálása | 100 |
+
 C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
 |  | A | B |
@@ -556,6 +564,8 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 39 | Nyereségkorlát feletti eredmény visszafizetése alóli mentesítés iránti kérelem elbírálása | 200 |
 
+| 40. | Rendszeres információszolgáltatási kötelezettség alóli mentesség kérelem benyújtása | 10 |
+
 D) Megfelelőségértékelő szervezetek kijelölésével kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
 |  | A | B |
@@ -604,9 +614,9 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 | 7 | a) | jóváhagyás iránti kérelem elbírálása pályázat esetén | 50 |
 
-| 8 | b) | jóváhagyás iránti kérelem elbírálása pályázat hiányában | 150 |
+| 8. | b) | jóváhagyás iránti kérelem elbírálása pályázat hiányában | 120 |
 
-| 9 | c) | módosítás jóváhagyása iránti kérelem elbírálása | 90 |
+| 9. | c) | módosítás jóváhagyása iránti kérelem elbírálása | 60 |
 
 | 10 | Működési engedélyezési eljárás |  |
 
@@ -684,4 +694,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^12]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a szerint módosított szöveg.
