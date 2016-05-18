@@ -10,7 +10,7 @@
 
 ## Felelős: földművelésügyi miniszter
 
-## Határidő: 2016. június 30.
+## Határidő: 2017. június 30.[^1]
 
 1. melléklet az 1943/2015. (XII. 15.) Korm. határozathoz
 
@@ -73,3 +73,5 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1245/2016. (V. 18.) Korm. határozat 8. pontja szerint módosított szöveg.
