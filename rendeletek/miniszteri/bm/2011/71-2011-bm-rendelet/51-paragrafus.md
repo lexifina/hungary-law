@@ -1,1 +1,0 @@
-## 50. § A szolgálati elöljáró felelős beosztottai öltözködéséért. A szolgálati elöljáró ellenőrzi, hogy beosztottai ruházata megfelel-e az adott szolgálati követelményeknek és a szervezeti egység jellegének. A szolgálati elöljáró megköveteli, hogy a ruházat mindig jó állapotú, tiszta és kulturált legyen.
