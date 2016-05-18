@@ -1,0 +1,51 @@
+6. melléklet a 14/2016. (V. 10.) BM rendelethez
+
+## Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Nemzeti Védelmi Szolgálat hivatásos állományára, valamint a Közszolgálati Személyzetfejlesztési Főigazgatósághoz és a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt hivatásos állományra vonatkozó ruházati ellátási normák
+
+1. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Nemzeti Védelmi Szolgálat tábornoki állományának, valamint a Közszolgálati Személyzetfejlesztési Főigazgatósághoz és a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt tábornoki állomány ruházati ellátási normája:
+
+|  | A | B | C | D |
+
+| 1 | termék megnevezése | menny. egység | T1 | T2 |
+
+| 2 | Társasági tányérsapka/női kalap, sötétkék, szerelve | db | 1 | 1 |
+
+| 3 | Társasági felöltő férfi/női, sötétkék, szerelve | db | 1 | 1 |
+
+| 4 | Ballonkabát, 4/4-es, sötétkék | db | 1 | 1 |
+
+| 5 | Társasági zubbony/kosztümkabát, sötétkék, szerelve | db | 2 | 2 |
+
+| 6 | Társasági pantalló férfi/szoknya női, sötétkék | db | 2 | 2 |
+
+| 7 | Nyaksál, sötétkék | db | 1 | 1 |
+
+| 8 | Szolgálati nyakkendő, biztonsági, sötétkék | db | 1 | 1 |
+
+| 9 | Bőrkesztyű, fekete | pár | 1 | 1 |
+
+| 10 | Társasági férfi félcipő/női cipő, fekete | pár | 1 | 1 |
+
+| 11 | Társasági nadrágszíj, fekete | db | 1 |  |
+
+| 12 | 12M e. r. szolgálati ing/blúz, hosszú ujjú, fehér | db | 2 | 2 |
+
+| 13 | Váll-lap, tábornoki, szerelve | pár | 2 | 2 |
+
+| 14 | Karjelvény | db | 2 | 2 |
+
+| 15 | Ingblúz, hosszú ujjú, világoskék | db | 1 | 1 |
+
+| 16 | Ingblúz, rövid ujjú, világoskék | db | 1 | 1 |
+
+a) Rövidítések:
+
+aa) T1: Tábornoki alapellátási norma (férfi)
+
+ab) T2: Tábornoki alapellátási norma (női)
+
+2. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat és a Nemzeti Védelmi Szolgálat hivatásos állományának főtiszti, tiszti, zászlósi és tiszthelyettesi rendfokozati állománycsoportba tartozó tagjának ruházati normabesorolása minden esetben polgári ruhás alapellátási norma, amely norma kizárólag polgári ruhapénzt tartalmaz.
+
+3. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állománya az objektumőri feladatok ellátása esetén a szolgálati feladatokat formaruhában látja el.
+
+4. A Közszolgálati Személyzetfejlesztési Főigazgatósághoz és a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt főtiszti, tiszti, zászlósi és tiszthelyettesi rendfokozati állománycsoportba tartozó hivatásos állomány tagjának ruházati normabesorolása minden esetben polgári ruhás alapellátási norma, amelynek tartalma megegyezik a vezénylő rendvédelmi feladatokat ellátó szerv részére meghatározott polgári ruhás alapellátási normában szereplő ruházati termékekkel és felszerelési cikkekkel.

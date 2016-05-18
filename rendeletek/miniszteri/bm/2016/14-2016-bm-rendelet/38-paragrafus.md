@@ -1,0 +1,5 @@
+38. § (1) A hallgatói jogviszony megszűnésekor, ennek okától függetlenül a hallgató – a pólók, továbbá a hat hónapnál hosszabb jogviszony megszűnése esetén a lábbeli kivételével – köteles elszámolni a 7. melléklet alapján biztosított ruházati termékekkel és felszerelési cikkekkel. A visszavételezett ruházati termékek és felszerelési cikkek a rendvédelmi feladatokat ellátó szerv tulajdonát képezik, amelyek – a megfelelő higiéniai tisztítást követően – a következő évfolyamok hallgatóinak ruházati ellátására felhasználhatók.
+
+(2) A hallgatói jogviszony megszűnését követően az igényjogosult részére a ruházati ellátási normában szereplő cikkeket – a kinevezési állományparancs alapján – a szolgálati beosztásba történő kinevezéskor a rendvédelmi feladatokat ellátó szerv biztosítja.
+
+(3) Az egyenruhás alapellátási normába és a vegyes ruhás alapellátási normába sorolt igényjogosult a ruházati utánpótlási ellátmányra a hallgatói jogviszony megszűnését és a szolgálati beosztásba történő kinevezést követő tizenharmadik hónap első napjától jogosult.

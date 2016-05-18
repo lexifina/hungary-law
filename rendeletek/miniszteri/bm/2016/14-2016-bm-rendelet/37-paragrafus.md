@@ -1,0 +1,3 @@
+37. § (1) A hivatásos állománynak az NKE-RTK-ra hallgatóként vezényelt vagy átrendelt tagját a ruházati ellátási normák között átsorolni nem kell. Abban az esetben, ha a hivatásos állományú hallgató a 7. mellékletben előírt cikkekkel nem rendelkezik, egységesen, a küldő rendvédelmi feladatokat ellátó szervnél rendszerben lévő ruházatot kell viselnie. A ruházat pótlása, cseréje a ruházati utánpótlási ellátmány terhére történik.
+
+(2) A hivatásos állományú hallgató hivatásos szolgálati jogviszonyának az egyetemi képzés ideje alatt történő megszűnésekor a ruházati elszámolás tekintetében e rendelet előírásait kell alkalmazni.
