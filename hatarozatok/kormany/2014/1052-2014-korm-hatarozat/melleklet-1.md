@@ -34,7 +34,7 @@
 
 ## a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15., az Egyetemek, főiskolák cím javára átcsoportosított 152,8 millió forint tekintetében 2016. június 30., a Miniszterelnökség fejezet javára átcsoportosított 1303,8 millió forint és a Magyar Bányászati és Földtani Hivatal cím részére átcsoportosított 636,9 millió forint tekintetében 2015. június 30.
+## Határidő: 2014. december 15., az Egyetemek, főiskolák cím javára átcsoportosított 152,8 millió forint tekintetében 2017. június 30., a Miniszterelnökség fejezet javára átcsoportosított 1303,8 millió forint és a Magyar Bányászati és Földtani Hivatal cím részére átcsoportosított 636,9 millió forint tekintetében 2015. június 30.
 
 ## c) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Rubik kocka motívuma és gondolatisága által ihletett kiállítási központ létrehozása érdekében 190,0 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 2. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 9. A Rubik kocka motívuma és gondolatisága által ihletett kiállítási központ létrehozásával kapcsolatos kiadások jogcímcsoport javára a 2. melléklet szerint;
 
@@ -56,5 +56,5 @@
 
 1. melléklet az 1052/2014. (II. 11.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1298/2015. (V. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1298/2015. (V. 13.) Korm. határozat 2. pontja, az 1245/2016. (V. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
