@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 10 368,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint,
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 10 368,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint,
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, honvédelmi miniszter, belügyminiszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2016. június 30.
+## Határidő: 2016. június 30., a XX. Emberi Erőforrások Minisztériuma Fejezet, 12. Művészeti intézmények cím javára átcsoportosított 779,9 millió forintból a Bogányi-zongorák magyar és külföldi közintézményekben történő elhelyezése és megvásárlása céljából átcsoportosított 764,5 millió forint tekintetében 2017. június 30.
 
 ## 2. egyetért a Molnár János-barlang természetvédelmi célokkal összeegyeztethető hasznosítása érdekében szükséges beruházások megvalósításával és felhívja a nemzetgazdasági minisztert, hogy a beruházások megvalósítása érdekében 169,2 millió forint biztosításáról gondoskodjon.
 
@@ -257,3 +257,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1245/2016. (V. 18.) Korm. határozat 6. pontja szerint módosított szöveg.
