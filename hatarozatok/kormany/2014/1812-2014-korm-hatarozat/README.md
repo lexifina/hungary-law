@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1812-30
 | 2015-10-27 | 2014-1812-30-22.9 | 1779/2015. (X. 27.) Korm. határozat |
 | 2016-02-15 | 2014-1812-30-22.10 | 1779/2015. (X. 27.) Korm. határozat |
 | 2016-04-11 | 2014-1812-30-22.11 | 1182/2016. (IV. 11.) Korm. határozat |
+| 2016-05-18 | 2014-1812-30-22.12 | 1182/2016. (IV. 11.) Korm. határozat |
