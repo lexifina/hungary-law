@@ -1,3 +1,5 @@
-## 56. § Hatályát veszti a belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati-, fegyverzeti-, kényszerítőeszköz és világítástechnikai felszereléséről szóló 71/2011. (XII. 31.) BM rendelet.
+## 56. §[^1]
 
 1. melléklet a 14/2016. (V. 10.) BM rendelethez
+
+[^1]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
