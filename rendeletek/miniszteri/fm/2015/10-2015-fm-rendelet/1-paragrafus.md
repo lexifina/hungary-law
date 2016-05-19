@@ -24,7 +24,7 @@
 
 9. hüvelyes növény: a 2. melléklet szerinti nitrogénmegkötő növény;
 
-10. ideiglenes gyepterület: olyan gyep vagy egyéb, az 1. mellékletben felsorolt fajokból álló takarmánynövény vetés nélküli vagy vetéssel történő termesztésére használt földterület, amely a telepítéstől számítva öt évnél fiatalabb és nem az állandó gyepterület visszaállítási kötelezettség okán került telepítésre;
+10.[^2] ideiglenes gyepterület: olyan gyep vagy egyéb – a Herefélék (Trifolium) és a Lucernafélék (Medicago) nemzetségébe tartozó fajok és ezek kizárólagos keverékei alkotta növényállományok kivételével –, az 1. mellékletben felsorolt fajokból álló takarmánynövény vetés nélküli vagy vetéssel történő termesztésére használt földterület, amely a telepítéstől számítva öt évnél fiatalabb, és nem az állandó gyepterület visszaállítási kötelezettség okán került telepítésre;
 
 11. környezeti szempontból érzékeny állandó gyepterület: az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló 275/2004. (X. 8.) Korm. rendelet hatálya alá tartozó, Natura 2000 területnek minősülő és a Mezőgazdasági Parcella Azonosító Rendszerben (a továbbiakban: MePAR) lehatárolt tematikus fedvény szerinti földterület;
 
@@ -34,7 +34,7 @@
 
 14. Mezőgazdasági Parcella Azonosító Rendszer: a Mezőgazdasági Parcella Azonosító Rendszerről szóló miniszteri rendelet szerinti adatbázis;
 
-15.[^2] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
+15.[^3] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
 
 16. nitrogénmegkötő növényekkel bevetett terület: a 2. mellékletben felsorolt, vagy a 21. § (2) bekezdésében meghatározott bármely nitrogénmegkötő növénnyel vagy azok keverékével hasznosított földterület;
 
@@ -56,10 +56,11 @@
 
 25. vizesárok: öntözés vagy vízelvezetés céljára szolgáló mesterséges létesítmény és a hozzá tartozó legfeljebb két méter széles part menti földterület, amelynek együttes szélessége legfeljebb hat méter, kivéve a betonnal vagy egyéb mesterséges szilárd burkolattal ellátott csatornákat, műtárgyakat;
 
-26.[^3] minősített szaporítóanyag: a szántóföldi növényfajok vetőmagjainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet 1., 3., és 4. számú mellékletében meghatározott paramétereknek teljes körűen megfelelő szaporítóanyag.
+26.[^4] minősített szaporítóanyag: a szántóföldi növényfajok vetőmagjainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet 1., 3., és 4. számú mellékletében meghatározott paramétereknek teljes körűen megfelelő szaporítóanyag.
 
 (2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az 50/2008. (IV. 24.) FVM rendelet szerinti fogalom-meghatározásokat kell figyelembe venni.
 
 [^1]: Az 1. § (1) bekezdés 4. pontja a 40/2015. (VII. 13.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés 15. pontja az 52/2015. (IX. 7.) FM rendelet 28. §-ával megállapított szöveg.
-[^3]: Az 1. § 26. pontját a 25/2016. (IV. 11.) FM rendelet 54. §-a iktatta be.
+[^2]: Az 1. § 10. pontja a 37/2016. (V. 18.) FM rendelet 15. §-ával megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés 15. pontja az 52/2015. (IX. 7.) FM rendelet 28. §-ával megállapított szöveg.
+[^4]: Az 1. § 26. pontját a 25/2016. (IV. 11.) FM rendelet 54. §-a iktatta be.

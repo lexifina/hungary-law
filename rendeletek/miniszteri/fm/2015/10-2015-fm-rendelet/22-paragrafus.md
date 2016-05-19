@@ -6,6 +6,14 @@
 
 (3) Az ökológiai jelentőségű másodvetés területének legalább 0,25 hektár nagyságúnak kell lennie.
 
-(4)[^34] Az ökológiai jelentőségű másodvetésként figyelembe vett területen a mezőgazdasági termelőnek a 3. melléklet szerinti növényfajok keverékéből álló vetőmagok felhasználását a 9/2015. (III. 13.) FM rendelet 8. melléklete szerinti gazdálkodási napló GN01, GN06, GN17, GN18 és GN19 betétlapjaival, a minősített szaporítóanyag címkéjének másolatával vagy a minősítést igazoló bizonyítvány másolatával kell igazolnia. A vetőmagok felhasználását igazoló dokumentumokat a mezőgazdasági termelőnek öt évig meg kell őriznie.
+(4)[^35] Az ökológiai jelentőségű másodvetésként figyelembe vett területen a mezőgazdasági termelőnek a 3. melléklet szerinti növényfajok keverékéből álló vetőmagok felhasználását
 
-[^34]: A 22. § (4) bekezdése a 25/2016. (IV. 11.) FM rendelet 59. §-ával megállapított szöveg.
+a) a 9/2015. (III. 13.) FM rendelet 8. melléklete szerinti gazdálkodási napló GN01, GN06, GN17, GN18 és GN19 betétlapjaival,
+
+b) a minősített szaporítóanyag címkéjének másolatával, vagy
+
+c) a minősítést igazoló bizonyítvány másolatával
+
+kell igazolnia, és a vetőmagok felhasználását igazoló dokumentumokat öt évig meg kell őriznie.
+
+[^35]: A 22. § (4) bekezdése a 37/2016. (V. 18.) FM rendelet 17. §-ával megállapított szöveg.
