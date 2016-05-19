@@ -2,7 +2,7 @@
 
 (2) Az eljárási cselekmények elektronikus elvégzéséhez a kamarai meghatalmazottnak „kérelemre nyilvántartásba vett” besorolású ügyfélként ügyfél-azonosítóval kell rendelkeznie az ügyfél-nyilvántartási rendszerben, és az eljárására vonatkozó kamarai meghatalmazást az erre a célra rendszeresített elektronikus űrlapon, elektronikus úton, ügyfélkapun keresztül be kell nyújtania az MVH-hoz.
 
-(3) A kamarai meghatalmazott a saját ügyfélkapuján keresztül benyújtott kamarai meghatalmazást az elektronikus benyújtást követő nyolc napon belül papír alapon, postai úton vagy személyesen is köteles benyújtani az MVH-hoz. Az ügyfél és a kamarai meghatalmazott aláírásával ellátott papír alapú kamarai meghatalmazást mindkét fél köteles megőrizni. Az elektronikusan benyújtott kamarai meghatalmazás papír alapú benyújtásáig a kamarai meghatalmazott az ügyfél helyett és nevében eljárhat, de amennyiben a kamarai meghatalmazott a meghatalmazást a jelen bekezdés szerinti határidőn belül nem nyújtja be az MVH-hoz, a meghatalmazott által elvégzett eljárási cselekmények nem hatályosak. A kamarai meghatalmazott meghatalmazása az elektronikus benyújtás időpontjától hatályos. A kamarai meghatalmazást az ügyfél a kamarai meghatalmazott általi elektronikus benyújtást követő nyolc napon belül jóváhagyhatja elektronikusan is, ha rendelkezik ügyfélkapu-hozzáféréssel. Ebben az esetben a kamarai meghatalmazást nem kell papír alapon benyújtani.
+(3)[^4] A kamarai meghatalmazott a saját ügyfélkapuján keresztül benyújtott kamarai meghatalmazást az elektronikus benyújtást követő tizenkét napon belül papír alapon, postai úton vagy személyesen is köteles benyújtani az MVH-hoz. Az ügyfél és a kamarai meghatalmazott aláírásával ellátott papír alapú kamarai meghatalmazást mindkét fél köteles megőrizni. Az elektronikusan benyújtott kamarai meghatalmazás papír alapú benyújtásáig a kamarai meghatalmazott az ügyfél helyett és nevében eljárhat, de amennyiben a kamarai meghatalmazott a meghatalmazást a jelen bekezdés szerinti határidőn belül nem nyújtja be az MVH-hoz, a meghatalmazott által elvégzett eljárási cselekmények nem hatályosak. A kamarai meghatalmazott meghatalmazása az elektronikus benyújtás időpontjától hatályos. A kamarai meghatalmazást az ügyfél a kamarai meghatalmazott általi elektronikus benyújtást követő tizenkét napon belül jóváhagyhatja elektronikusan is, ha rendelkezik ügyfélkapu-hozzáféréssel. Ebben az esetben a kamarai meghatalmazást nem kell papír alapon benyújtani.
 
 (4) A kamarai meghatalmazás benyújtására a 11. § (5) bekezdése nem alkalmazható.
 
@@ -10,4 +10,7 @@
 
 (6) A kamarai meghatalmazás megszűnik a kamarai meghatalmazott NAK-nál fennálló munkaviszonya megszűnésének időpontjában. A kamarai meghatalmazottnak a tartós távollétéről vagy munkaviszonyának megszűnéséről – a távollét időtartamának vagy a megszűnés időpontjának pontos megjelölésével – az MVH-t és az ügyfelet egyidejűleg értesítenie kell. A kamarai meghatalmazott tartós távolléte esetén – ha az ügyfél ehhez a kamarai meghatalmazásban hozzájárult – a NAK helyettesítő kamarai meghatalmazottat jelöl ki.
 
-(7) A 2016. március 31-e előtt vissza nem vont kamarai meghatalmazást az MVH 2016. március 31-ével visszavontnak tekinti.
+(7)[^5] A 2016. április 6-a előtt vissza nem vont kamarai meghatalmazást az MVH 2016. április 6-ával visszavontnak tekinti.
+
+[^4]: A 12. § (3) bekezdése a 37/2016. (V. 18.) FM rendelet 26. § b) pontja szerint módosított szöveg.
+[^5]: A 12. § (7) bekezdése a 37/2016. (V. 18.) FM rendelet 26. § c) pontja szerint módosított szöveg.
