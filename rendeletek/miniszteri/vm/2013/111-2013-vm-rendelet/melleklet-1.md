@@ -1,4 +1,4 @@
-## 15. §[^4]
+## 15. §[^4] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 37/2016. (V. 18.) FM rendelettel [a továbbiakban: 37/2016. (V. 18.) FM rendelet] megállapított 3. § (2) bekezdését és 3. § (4) bekezdését a 37/2016. (V. 18.) FM rendelet hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 111/2013. (XII. 7.) VM rendelethez
 
@@ -28,4 +28,5 @@ A 2013. évi támogatások számítása során alkalmazandó maximális fajlagos
 
 | 11. Tej – termeléstől elválasztott átmeneti nemzeti támogatás | 27,23 EUR/1000 történelmi bázisjogosultság |
 
-[^4]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 37/2016. (V. 18.) FM rendelet 3. §-a iktatta be.
+[^5]: A hatálybalépés napja 2016. május 19.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-111-20-
 | 2014-01-28 | 2013-111-20-2Y.4 | 4/2014. (I. 27.) VM rendelet |
 | 2015-07-14 | 2013-111-20-2Y.5 | 40/2015. (VII. 13.) FM rendelet |
 | 2016-04-12 | 2013-111-20-2Y.6 | 25/2016. (IV. 11.) FM rendelet |
+| 2016-05-19 | 2013-111-20-2Y.7 | 25/2016. (IV. 11.) FM rendelet |
