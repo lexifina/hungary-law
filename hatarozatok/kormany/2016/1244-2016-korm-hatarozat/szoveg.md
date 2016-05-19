@@ -26,4 +26,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2016. május 31.
 
-6. visszavonja a START-hitel Garancia Alapjáról szóló 3283/1991. Korm. határozat 3. pontját.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
