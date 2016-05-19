@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-95-20-2
 | 2014-04-05 | 2012-95-20-2Y.6 | 36/2014. (IV. 4.) VM rendelet |
 | 2015-05-30 | 2012-95-20-2Y.7 | 27/2015. (V. 27.) FM rendelet |
 | 2015-11-25 | 2012-95-20-2Y.8 | 2010: CXXX. törvény |
+| 2016-05-19 | 2012-95-20-2Y.9 | 37/2016. (V. 18.) FM rendelet |

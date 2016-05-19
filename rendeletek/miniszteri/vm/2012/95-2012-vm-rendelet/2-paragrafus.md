@@ -12,14 +12,18 @@ d)[^7] az általános de minimis rendelet 3. cikk (8) és (9) bekezdése és 5. 
 
 e)[^8] megfelel a Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
-(2) A támogatás igénylésének további feltétele, hogy a pályázó
+(2)[^9] A támogatás igénylésének további feltétele, hogy a pályázó
 
-a) a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 2. § (5) bekezdés 19. pontja szerinti turistavasút működtetése kapcsán a Vtv. 6. § (9) bekezdése szerint a tevékenysége megkezdésére vonatkozóan a vasúti igazgatási szerv és a közlekedési hatóság részére a bejelentést megtette, vagy rendelkezik jogszabály alapján megszerzett működési engedéllyel, valamint
+a) a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 2. § 5. pont 5.3. alpont a) alpontja szerinti kisvasút fogalmának megfelelő vasúti szervezet,
 
-b)[^9] a földművelésügyi miniszter által vezetett minisztériumhoz (a továbbiakban: minisztérium) – e rendelet szerinti pályázata benyújtásával egyidejűleg – bejelentett menetrend alapján történő üzemeltetést biztosít.
+b) eleget tett a Vtv. 85/F. § (3) bekezdésében foglalt kötelezettségének vagy rendelkezik a Vtv. 2. § 1. pont 1.5. alpontja szerinti működési engedéllyel,
+
+c) az agrárpolitikáért felelős miniszter által vezetett minisztériumhoz (a továbbiakban: minisztérium) – e rendelet szerinti pályázata benyújtásával egyidejűleg – bejelentett menetrend alapján történő üzemeltetést biztosít, valamint
+
+d) eleget tett az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatában foglalt feltételeknek.
 
 [^5]: A 2. § (1) bekezdés nyitó szövegrésze a 17/2013. (III. 18.) VM rendelet 5. § (3) bekezdése szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés b) pontja a 27/2015. (V. 27.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (1) bekezdés d) pontja a 27/2015. (V. 27.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § (1) bekezdés e) pontja a 27/2015. (V. 27.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^9]: A 2. § (2) bekezdés b) pontja a 27/2015. (V. 27.) FM rendelet 6. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (2) bekezdése a 37/2016. (V. 18.) FM rendelet 1. §-ával megállapított szöveg.
