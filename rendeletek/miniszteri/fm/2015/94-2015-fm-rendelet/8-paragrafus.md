@@ -2,4 +2,6 @@
 
 8. § (1) E rendeletet a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell azzal, hogy ha ugyanazon esemény vis maiorként való elismerése tárgyában több eljárás van folyamatban, akkor az esemény bekövetkezésének igazolása tekintetében az ügyfélre nézve kedvezőbb döntést kell alkalmazni a vis maiorral érintett intézkedések tekintetében.
 
-(2) Az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2016. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló miniszteri rendelet hatálybalépésének időpontjáig a 12/2015. (III. 30.) FM rendelet hatálya alá tartozó intézkedések tekintetében a vis maior bejelentés a 12/2015. (III. 30.) FM rendelet szerint is benyújtható.
+(2)[^3]
+
+[^3]: A 8. § (2) bekezdését a 37/2016. (V. 18.) FM rendelet 22. §-a hatályon kívül helyezte.
