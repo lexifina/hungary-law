@@ -1,0 +1,1 @@
+## 2. § Nem részesíthető teljesítményjuttatásban a Hivatal hivatásos állományának tagja (a továbbiakban: hivatásos állomány tagja), ha a tárgyévet megelőző évre vonatkozó egyéni teljesítményértékelésének eredménye nem érte el a 70%-ot.
