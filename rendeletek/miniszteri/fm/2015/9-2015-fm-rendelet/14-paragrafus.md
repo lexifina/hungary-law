@@ -72,13 +72,15 @@ dc) a termeltető vagy termelői csoport által a mezőgazdasági termelő rész
 
 (7)[^37] Az (1) bekezdés c) és d) pontja szerinti támogatási jogcímek vonatkozásában, ha a (6) bekezdés alapján csatolt számla, vetőmagcímke, csomagolás, szállítólevél, a termeltető vagy a termelői csoport által kiállított dokumentum, vagy minősítő bizonyítvány másolatában csak a felhasznált vetőmag tömege szerepel, a felhasznált vetőmagszám megállapításához a 3. és a 4. melléklet „C” oszlopában található átváltási tényezőt kell alkalmazni.
 
+(7a)[^38] Ha az (1) bekezdés c) pontja szerinti támogatási jogcímek közül a csemegehagyma, a vöröshagyma, a lilahagyma, vagy a fokhagyma esetében a (6) bekezdés alapján csatolt számla, vetőmagcímke, csomagolás, szállítólevél, a számla kiállítója, a termeltető vagy a termelői csoport által kiállított dokumentum, vagy minősítő bizonyítvány másolatában csak a felhasznált dughagyma vagy vetőgerezd tömege szerepel, akkor a csemegehagyma, vöröshagyma, lilahagyma esetében 2,0 gr/dughagyma, a fokhagyma esetében 2,0 gr/vetőgerezd átváltási tényezőt kell alkalmazni.
+
 (8) Az (5) és (6) bekezdésben foglaltakat nem kell alkalmazni a torma- és spárga dugvány, valamint a mezei borsó szaporítóanyag felhasználásának igazolása esetén.
 
 (9) Az (1) bekezdés szerinti támogatási jogcímek vonatkozásában az az egy növénykultúra támogatható, amely esetében az adott terület hasznosítása megegyezik azzal a növénykultúrával, amely után a mezőgazdasági termelő az egységes kérelemben az (1) bekezdés szerinti támogatást igényli.
 
 (10) Ha a mezőgazdasági termelő adott tárgyévben egyidejűleg egy parcella vonatkozásában több típusú termeléshez kötött közvetlen támogatást kíván igénybe venni, akkor a támogatási kérelmei elutasításra kerülnek.
 
-(11)[^38] Ha a (2) bekezdés d) pontjában meghatározott gazdálkodási napló vonatkozó betétlapján rögzített adatai nem támasztják alá az adott támogatás igénybevételére vonatkozó feltételek teljesülését, akkor az adott terület vonatkozásában a mezőgazdasági termelő támogatási jogosultsága nem állapítható meg.
+(11)[^39] Ha a (2) bekezdés d) pontjában meghatározott gazdálkodási napló vonatkozó betétlapján rögzített adatai nem támasztják alá az adott támogatás igénybevételére vonatkozó feltételek teljesülését, akkor az adott terület vonatkozásában a mezőgazdasági termelő támogatási jogosultsága nem állapítható meg.
 
 (12) Ha a mezőgazdasági termelő az adott támogatás igénybevételéhez szükséges minimális minősített szaporítóanyagnál kisebb mennyiség felhasználását a 14. § (5)–(6) bekezdése, torma- és spárga dugvány termesztése esetén a 17. § (1) bekezdés c) pontja, mezei borsó termesztése esetén a 20. § (1) bekezdés d) pontja szerint igazolja, úgy az egyéb feltételek teljesülése esetén, az adott támogatási jogcím vonatkozásában igényelt terület azon részére állapítható meg támogatás, amelyen az előírt mennyiségű minősített szaporítóanyag felhasználása igazolt.
 
@@ -89,4 +91,5 @@ dc) a termeltető vagy termelői csoport által a mezőgazdasági termelő rész
 [^35]: A 14. § (6) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^36]: A 14. § (6) bekezdését a 40/2015. (VII. 13.) FM rendelet 10. § (3) bekezdése iktatta be.
 [^37]: A 14. § (7) bekezdése a 40/2015. (VII. 13.) FM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^38]: A 14. § (11) bekezdése a 97/2015. (XII. 23.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^38]: A 14. § (7a) bekezdését a 37/2016. (V. 18.) FM rendelet 11. §-a iktatta be.
+[^39]: A 14. § (11) bekezdése a 97/2015. (XII. 23.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.

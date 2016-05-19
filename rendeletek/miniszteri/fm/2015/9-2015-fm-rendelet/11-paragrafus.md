@@ -6,7 +6,7 @@
 
 a) a támogatási kérelem benyújtásának napján a tenyészetben lévő olyan anyatehenet tart, amely nem tartozik a 2. mellékletben felsorolt fajtákhoz, és a Szarvasmarha ENAR rendelet szerinti nyilvántartásban 99-es kódon „egyéb tejhasznú”, 88-as kódon Brown Swiss, 03-as kódon Borzderes, vagy 15-ös kódon Kosztromai fajtával bejelentett fajtához, vagy olyan állományhoz tartozik, amelyben 50%-ot meghaladó mértékben hústermelés céljából nevelnek borjakat,
 
-b)[^20] gondoskodik a tenyészetében lévő állatállománynak a Szarvasmarha ENAR rendelet szerinti, de legkésőbb tárgyév május 22-éig megvalósuló jelöléséről, folyamatos nyilvántartásáról és az adatok bejelentéséről,
+b)[^20] gondoskodik a tenyészetében lévő állatállománynak a Szarvasmarha ENAR rendelet szerinti, de legkésőbb tárgyévi egységes kérelem szankciómentes benyújtására nyitva álló határidő utolsó napjáig megvalósuló jelöléséről, folyamatos nyilvántartásáról és az adatok bejelentéséről,
 
 c) a tenyészet vonatkozásban igazolja, hogy az a támogatási kérelem benyújtásának időpontjában gümőkor-, brucellózis- és leukózismentes,
 
@@ -47,5 +47,5 @@ e) a mezőgazdasági termelő a b) pont szerinti bejelentéshez a (2) bekezdésb
 (10) Ha a mezőgazdasági termelő a SAPS-ÁNT rendelet szerinti anyatehéntartás támogatáshoz kapcsolódó átmeneti nemzeti támogatással érintett állat után kíván anyatehén tartásához kapcsolódó termeléshez kötött közvetlen támogatást igénybe venni, és benyújtotta a SAPS-ÁNT rendelet szerinti, az anyatehéntartás támogatásához kapcsolódó átmeneti nemzeti támogatás igénybevételéhez szükséges igazolásokat, akkor ezen igazolásokat az MVH a (2) bekezdésben és a (6) bekezdés b) pontjában meghatározott igazolásként fogadja el.
 
 [^19]: A 10/A. §-t a 4/2016. (I. 20.) FM rendelet 24. §-a iktatta be.
-[^20]: A 11. § (1) bekezdés b) pontja a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § b) pontja szerint módosított szöveg.
+[^20]: A 11. § (1) bekezdés b) pontja a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § b) pontja, a 37/2016. (V. 18.) FM rendelet 14. § a) pontja szerint módosított szöveg.
 [^21]: A 11. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 48. §-ával megállapított szöveg.
