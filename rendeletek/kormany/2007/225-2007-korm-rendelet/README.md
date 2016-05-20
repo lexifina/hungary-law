@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-225-20-
 | 2015-01-01 | 2007-225-20-22.22 | 336/2014. (XII. 18.) Korm. rendelet |
 | 2015-03-01 | 2007-225-20-22.23 | 30/2015. (II. 25.) Korm. rendelet |
 | 2015-04-01 | 2007-225-20-22.24 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-05-20 | 2007-225-20-22.25 | 101/2016. (V. 13.) Korm. rendelet |
