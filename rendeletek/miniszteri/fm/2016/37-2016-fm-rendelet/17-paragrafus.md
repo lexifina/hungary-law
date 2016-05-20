@@ -1,3 +1,0 @@
-## 16. § A 10/2015. (III. 13.) FM rendelet 21. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) A nitrogénmegkötő növényekkel bevetett, ökológiai jelentőségű területként figyelembe vett földterületen a mezőgazdasági termelőnek – évelő növénykultúra vetése esetén az e rendelet hatálybalépését követően vetett földterületen, egynyári növénykultúra vetése esetén a (7) bekezdésben foglalt kivétellel – minősített szaporítóanyagot vagy saját előállítás esetén a Nemzeti Élelmiszerlánc-biztonsági Hivatal által elvégzett szántóföldi ellenőrzés és szemle alapján kiállított igazolásban alkalmasnak minősített szaporítóanyagot kell használnia.”

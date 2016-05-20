@@ -1,3 +1,0 @@
-## 23. § Az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet [a továbbiakban: 22/2016. (IV. 5.) FM rendelet] 10. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az egységes kérelemre vonatkozó adatváltozás 2016. május 23-áig a 16. § (2) bekezdésében meghatározott jogkövetkezmény nélkül bejelenthető. Adatváltozás bejelentése esetén az egységes kérelem benyújtása időpontjának az utolsó, 2016. május 23-án vagy azt megelőzően történő adatváltozás bejelentésének napja minősül.”

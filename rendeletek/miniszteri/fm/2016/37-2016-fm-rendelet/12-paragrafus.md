@@ -1,3 +1,0 @@
-## 11. § A termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 9/2015. (III. 13.) FM rendelet [a továbbiakban: 9/2015. (III. 13.) FM rendelet] 14. §-a a következő (7a) bekezdéssel egészül ki:
-
-## „(7a) Ha az (1) bekezdés c) pontja szerinti támogatási jogcímek közül a csemegehagyma, a vöröshagyma, a lilahagyma, vagy a fokhagyma esetében a (6) bekezdés alapján csatolt számla, vetőmagcímke, csomagolás, szállítólevél, a számla kiállítója, a termeltető vagy a termelői csoport által kiállított dokumentum, vagy minősítő bizonyítvány másolatában csak a felhasznált dughagyma vagy vetőgerezd tömege szerepel, akkor a csemegehagyma, vöröshagyma, lilahagyma esetében 2,0 gr/dughagyma, a fokhagyma esetében 2,0 gr/vetőgerezd átváltási tényezőt kell alkalmazni.”
