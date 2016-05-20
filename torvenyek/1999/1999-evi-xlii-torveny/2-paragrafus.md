@@ -1,6 +1,6 @@
 ## A dohánytermékek fogyasztásának alapvető szabályai
 
-2. § (1) A dohányzás számára kijelölt helyek kivételével – a (3) bekezdésben foglalt eltéréssel – nem szabad dohányozni
+2. § (1) A dohányzás számára kijelölt helyek kivételével – a (3) bekezdésben foglalt eltéréssel – nem szabad dohányozni, elektronikus cigarettát vagy dohányzást imitáló elektronikus eszközt használni
 
 a) közforgalmú intézménynek a nyilvánosság számára nyitva álló helyiségeiben,
 
@@ -12,7 +12,9 @@ d) közterületnek minősülő
 
 da) a gyalogosforgalom számára nyitva álló aluljárókban és egyéb, zárt légterű közforgalmú közlekedő összekötő terekben, valamint közterületi játszótereken, továbbá a játszóterek külső határvonalától számított 5 méteres távolságon belül,
 
-db) a közforgalmú vasúti szolgáltatás nyújtására szolgáló vasúti üzemi létesítmények és a vasúti pálya tartozékainak személyforgalom számára megnyitott területein, közösségi közlekedési eszköz igénybevételének céljából létesített, illetve erre kijelölt megállóban, várakozó helyen, illetőleg helyiségben, valamint nyílt légterű megálló, várakozó hely esetén annak külső határvonalától számított 5 méteres távolságon belül, azzal, hogy ha a dohányzási korlátozás alá tartozó terület külső határvonala nem állapítható meg egyértelműen, akkor a dohányzás a megállót vagy várakozó helyet kijelölő táblától vagy más jelzéstől számított 5 méteres sugarú körnek megfelelő körzetben tilos.
+db) a közforgalmú vasúti szolgáltatás nyújtására szolgáló vasúti üzemi létesítmények és a vasúti pálya tartozékainak személyforgalom számára megnyitott területein, közösségi közlekedési eszköz igénybevételének céljából létesített, illetve erre kijelölt megállóban, várakozóhelyen, illetve helyiségben, valamint nyílt légterű megálló, várakozóhely esetén annak külső határvonalától számított 5 méteres távolságon belül, azzal, hogy ha a dohányzási korlátozás alá tartozó terület külső határvonala nem állapítható meg egyértelműen, akkor a dohányzás a megállót vagy várakozóhelyet kijelölő táblától vagy más jelzéstől számított 5 méteres sugarú körnek megfelelő körzetben tilos,
+
+e) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltató közforgalom számára nyitva álló bejáratától számított 10 méteren belül.
 
 (2) Az (5) bekezdésben foglalt eltéréssel nem jelölhető ki dohányzóhely
 
@@ -62,7 +64,7 @@ ec) a folytatott tevékenység jellegével
 
 (6) A kijelölt dohányzóhelyek e törvényben előírt rendelkezéseknek való megfelelőségét az egészségügyi államigazgatási szerv, tűzvédelmi szempontoknak való megfelelőségét a tűzvédelmi hatóság ellenőrzi.
 
-(7) A dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeket, helyiségeket, valamint közterületeket felirat vagy más egyértelmű jelzés alkalmazásával – tűzvédelmi szempontú tilalom esetén szabványos tiltó táblával, illetve piktogrammal – szembetűnő módon meg kell jelölni.
+(7) A dohányzási korlátozással és az elektronikus cigaretta, valamint a dohányzást imitáló elektronikus eszköz használatának korlátozásával érintett, valamint a dohányzásra, elektronikus cigaretta és dohányzást imitáló elektronikus cigaretta használatára kijelölt helyeket, helyiségeket, valamint közterületeket felirat vagy más egyértelmű jelzés alkalmazásával – tűzvédelmi szempontú tilalom esetén szabványos tiltó táblával, illetve piktogrammal – szembetűnő módon meg kell jelölni.
 
 (8) Ha e törvény alapján zárt légterű dohányzóhely kerül kijelölésre, a dohányzóhely nemdohányzó helyiséggel azonos helyiségben nem jelölhető ki. Zárt légterű dohányzóhely esetén a megfelelő légcsere feltételeit nyílászáró szerkezetekkel vagy egyéb műszaki berendezés felszerelésével biztosítani kell úgy, hogy dohányfüst a nemdohányzó helyiségekbe ne juthasson be. E bekezdés alkalmazásában a légcsere abban az esetben megfelelő, ha a helyiségben legalább
 

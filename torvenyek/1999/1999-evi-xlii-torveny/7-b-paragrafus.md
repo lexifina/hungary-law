@@ -8,6 +8,6 @@
 
 a) az egészségügyi államigazgatási szervnek a 2–4/A. §-ban, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 38. §-ában foglalt rendelkezések megsértése miatt,
 
-b) a fogyasztóvédelmi hatóságnak az 5. és 6. §-ban foglalt rendelkezések megsértése miatt
+b) a fogyasztóvédelmi hatóságnak az 5. és 6. és 6/A. §-ban foglalt rendelkezések megsértése miatt
 
 indult eljárásában.
