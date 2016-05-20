@@ -2,6 +2,6 @@
 
 a) a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló, 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek,
 
-b)–c)[^27]
+b) a tagállamoknak a dohánytermékek és kapcsolódó termékek gyártására, kiszerelésére és értékesítésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezései közelítéséről és a 2001/37/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/40/EU európai parlamenti és tanácsi irányelvnek,
 
-[^27]: A 77. § b)–c) pontja a 76. § (3) bekezdése alapján 2016. május 20-án lép hatályba.
+c) a dohányzásra szánt dohánytermékeken a kombinált egészségvédő figyelmeztetések elrendezésére, kialakítására és alakjára vonatkozó műszaki előírásokról szóló, 2015. október 9-i 2015/1842 EU bizottsági végrehajtási határozatnak

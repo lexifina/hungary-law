@@ -1,4 +1,4 @@
-## 75. §[^26]
+## 75. §[^25]
 
 ## 18. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 21. §, a 22. §, a 24. § és a 26. § b) pontja 2016. július 1-jén lép hatályba.
 
-[^26]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
