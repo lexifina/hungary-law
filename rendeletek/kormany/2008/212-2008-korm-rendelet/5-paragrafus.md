@@ -586,15 +586,15 @@ Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^8]
 
 | 6.3. | Fogyasztási dohányok vágatszélességének meghatározása | 4 850 |
 
-| 6.4. | Főfüst kátrány- és nikotintartalmának együttes meghatározása (GC-vel) | 20 170 |
+| 6.4. |  |  |
 
-| 6.5. | Főfüst kátrány- és nikotintartalmának meghatározása (GC-vel és Karl Fischer-módszerrel) | 20 220 |
+| 6.5. |  |  |
 
-| 6.6. | Főfüst kátrány-, nikotin-, és szén-monoxid-tartalmának együttes meghatározása (GC-vel és CO-analizátorral) | 23 740 |
+| 6.6. |  |  |
 
-| 6.7. | Főfüst kátrány-, nikotin-, és szén-monoxid-tartalmának együttes meghatározása (GC-vel, Karl Fischer-módszerrel és CO-analizátorral) | 23 460 |
+| 6.7. |  |  |
 
-| 6.8. | Főfüst szén-monoxid tartalmának meghatározása | 10 320 |
+| 6.8. |  |  |
 
 | 6.9. | Cigaretta gyújtási-képességének meghatározása | 35 710 |
 
@@ -1233,4 +1233,4 @@ Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^8]
 | 35.1. | Az 1–34. fejezetekben nem szereplő vizsgálatok esetében a díjszámítás a vizsgálatra fordított idő, az itt meghatározott mérnöki óradíj szorzata, hozzáadva a felhasznált anyagköltséget. | 3 000 |
 
 [^7]: A 4. §-t a 306/2012. (X. 29.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
-[^8]: A melléklet a 306/2012. (X. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^8]: A melléklet a 306/2012. (X. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 101/2016. (V. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
