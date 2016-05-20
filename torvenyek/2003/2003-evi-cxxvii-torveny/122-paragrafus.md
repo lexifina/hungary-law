@@ -28,4 +28,6 @@ m) a Tanács 2011/64/EU irányelve (2011. június 21.) a dohánygyártmányra al
 
 n) a Bizottság 2012/209/EU számú végrehajtási határozata (2012. április 20.) a 2008/118/EK tanácsi irányelv ellenőrzési és szállítási rendelkezéseinek a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével egyes adalékokra történő alkalmazásáról,
 
-o) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról.
+o) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról,
+
+p) az Európai Parlament és a Tanács 2014/40/EU irányelve (2014. április 3.) a tagállamoknak a dohánytermékek és kapcsolódó termékek gyártására, kiszerelésére és értékesítésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezései közelítéséről és a 2001/37/EK irányelv hatályon kívül helyezéséről.

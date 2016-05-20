@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-127-00-00
 | 2015-11-01 | 2014. évi XCV. törvény | 2003-127-00-00.77 |
 | 2016-01-01 | 2015. évi CLXXXVII. törvény | 2003-127-00-00.78 |
 | 2016-05-01 | 2016. évi XIII. törvény | 2003-127-00-00.79 |
+| 2016-05-20 | 2015. évi LXXVII. törvény | 2003-127-00-00.80 |
