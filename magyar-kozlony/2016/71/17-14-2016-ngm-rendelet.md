@@ -1,0 +1,377 @@
+# A nemzetgazdasági miniszter 14/2016. (V. 20.) NGM rendelete
+
+Magyar Közlöny 2016. évi 71. szám, 2016. május 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/fffd46d5e0eb836dacf679cf8e4d15920c8a4f5f/dokumentumok/96f35d11f752a3eb97ed5d1900a496c2b9953541/letoltes)
+
+---
+
+A nemzetgazdasági miniszter 14/2016. (V. 20.) NGM rendelete
+a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 16/2015. (V. 29.) NGM rendelet
+módosításáról
+Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról
+szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 14. alpontjában és a Kormány tagjainak
+feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 2. pontjában meghatározott feladatkörömben eljárva
+a következőket rendelem el:
+1. § (1) A fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 16/2015. (V. 29.) NGM rendelet
+(a továbbiakban: Rendelet) 3. § o) pontja helyébe a következő rendelkezés lép:
+[Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatások esetében]
+„o) az 1. mellékletben foglalt táblázat 22. sor a) és b) pontja és a 28. sor b) pontja alapján a 651/2014/EU bizottsági
+rendelet I. és II. fejezete, valamint 38. cikke szerinti energiahatékonysági intézkedéshez nyújtott beruházási
+támogatás, továbbá a 22. sor a) és b) pontja, valamint a 28. sor c) pontja alapján a 651/2014/EU bizottsági rendelet
+I. és II. fejezete, valamint 41. cikke szerinti megújuló energia támogatására irányuló beruházási támogatás,”
+(nyújtható.)
+(2) A Rendelet 3. §-a a következő w) ponttal egészül ki:
+[Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatások esetében]
+„w) az 1. mellékletben foglalt táblázat 22. sor a) és b) pontja alapján a 651/2014/EU bizottsági rendelet I. és
+II. fejezete, valamint 37. cikke szerinti jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott
+beruházási támogatás”
+(nyújtható.)
+2. §
+A Rendelet 3/A. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az 1. mellékletben foglalt táblázat 40. sora alapján nyújtható állami támogatásnak minősülő jogcímek:
+a) a kutatási és innovációs struktúrák és kapacitások fejlesztése, különösen az intelligens szakosodási stratégiák
+keretében,
+b) a regionális innovációs láncban található szereplők innovációs teljesítményének javítása az „intelligens
+specializáció”és az innovációs lehetőségek területén,
+c) a közép- és kisvállalkozások növekedési és innovációs kapacitásainak fejlesztése,
+d) az alacsony széndioxid-kibocsátású gazdaság felé történő elmozdulás támogatása különösen az intelligens
+szakosodási stratégiák keretében,
+e) a természeti és kulturális örökség védelme és fejlesztése,
+f) az erőforrás-hatékonyság növelése, a zöld növekedés és az ökoinnováció elősegítése.”
+3. § A Rendelet 1. melléklete az 1. melléklet szerint módosul.
+4. § (1) A Rendelet
+a) 3. § i) pontjában a„pont a) és b) alpontja”szövegrész helyébe a„pontja”szöveg,
+b) 3. § j) és k) pontjában és 43. § c) pontjában az„a)–c)”szövegrész helyébe az„a)–c), e)–i)”szöveg,
+c) 3. § j) pontjában és 43. § c) pontjában a„38–39.”szövegrész helyébe a„38–40.”szöveg,
+d) 3. § l) pontjában, 43. § g) pontjában a„c)”szövegrész helyébe a„c) és f)”szöveg,
+e) 43. § f) pontjában az„a)–c)”szövegrész helyébe az„a)–c), e)–i)”szöveg,
+f) 1. mellékletében foglalt táblázat G:38., G:39. és G:40. mezőjében a„szerv az államháztartásért felelős miniszter
+előzetes egyetértésével akkor”szövegrész helyébe a„szerv vagy nem megyei önkormányzat akkor”szöveg,
+g) 1. mellékletében foglalt táblázat K:38., K:39. és K:40. mezőjében az„5”szövegrész helyébe a„30”szöveg
+lép.
+
+(2) Hatályát veszti a Rendelet 1. mellékletében foglalt táblázat G:12a. mezőjében a„ , civil szervezet”szövegrész.
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+6. §
+Ez a rendelet
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való
+alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
+b) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal
+összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet,
+c) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű
+szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában
+nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat
+hatálya alá tartozó támogatást tartalmaz.
+ Varga Mihály s. k.,
+ nemzetgazdasági miniszter
+
+1. melléklet a 14/2016. (V. 20.) NGM rendelethez
+2. Hatályát veszti a Rendelet 1. mellékletében foglalt táblázat 12., 29. sora.
+(Áht. Azonosító Címnév Alcímnév
+Jogcím-
+csoport
+név
+Jogcímnév Előirányzat célja Kifizetésben részesülők köre
+Támogatás biztosításának
+módja
+Támogatási előleg
+Rendelkezésre bocsátás
+módja
+Visszafizetés határideje Biztosíték Kezelő szerv
+Lebonyolító
+szerv
+Európai uniós
+forrásból
+finanszírozott
+költségvetési
+támogatás
+közreműködő
+egyedi döntés alapján
+előleg biztosítható -
+Biztosíték lehet:
+a) a kedvezményezett valamennyi
+- jogszabály alapján beszedési
+megbízással megterhelhető -
+fizetési számlájára vonatkozó, a
+támogató javára szóló beszedési
+megbízás benyújtására vonatkozó
+felhatalmazó nyilatkozata,
+b) zálogjog,
+c) garancia,
+d) kezesség,
+e) óvadék.
+visszterhes polgári jogi
+szerződés alapján
+- - -
+természetes személy, gazdasági társaság, egyéni vállalkozó, civil szervezet, helyi önkormányzat, köztestület, társasház, lakásszövetkezet pályázati úton
+egyedi döntés, előirányzat-
+átcsoportosítás alapján
+visszterhes polgári jogi
+szerződés alapján
+26. 281234
+Az előirányzat támogatást biztosít a nemzeti szabványosításról szóló
+1995. évi XXVIII. törvény alapján a Magyar Szabványügyi Testület
+nemzetközi feladatainak ellátásához.
+Magyar Szabványügyi Testület egyedi döntés alapján előleg biztosítható
+egyösszegű kifizetéssel,
+részletekben történő
+kifizetéssel -
+időarányosan vagy
+teljesítésarányosan
+-
+A kedvezményezett valamennyi -
+jogszabály alapján beszedési
+megbízással megterhelhető -
+fizetési számlájára vonatkozó, a
+támogató javára szóló beszedési
+megbízás benyújtására vonatkozó
+felhatalmazó nyilatkozata.
+- - -
+igénybe
+vehető
+-
+igénybe
+vehető
+5. A Rendelet 1. mellékletében foglalt táblázat 26. sora helyébe a következő rendelkezés lép:
+Nemzetgazdasági támogatások
+Az előirányzat célja a nagyvállalkozások minimum 100 millió forint
+elszámolható összköltségű, munkahelyteremetési célú
+a) induló vagy új gazdasági tevékenység végzésére irányuló induló
+beruházásainak,
+b) az a) ponthoz kapcsolódó energiahatékonysági beruházásainak,
+c) az a) ponthoz kapcsolódó megújuló energia használatát célzó
+beruházásainak
+a támogatása.
+Az előirányzat tartalmazza a kezelésével és működtetésével járó
+költségeket is.
+1. Magyarországon legalább 250 főt foglalkoztató ( a foglalkoztatási adatok meghatározásánál a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal
+összeegyeztethetővé nyilvánításáról szóló 651/2014/EU bizottsági rendelet 1. mellékletében rögzített módszertan szerint a kapcsolt- és partnervállalkozások adatait, továbbá kizárólag a támogatást
+igénylő esetében a kölcsönzött munkaerőnek a támogatási kérelem benyújtását megelőző 12 havi átlagállományát is figyelembe kell venni) nagyvállalatnak minősülő gazdasági társaság, európai
+részvénytársaság, valamint európai szövetkezet, amelynek fejlesztendő tevékenysége a Központi Statisztikai Hivatal által a feldolgozóipari ágak (TEÁOR 10-33) körébe sorolt ágazatok valamelyikébe
+esik, amennyiben:
+a) a támogatást igénylő vagy kapcsolt vállalkozása Magyarországon rendelkezik saját tulajdonú székhellyel, telephellyel vagy fiókteleppel,
+b) a támogatást igénylő vagy kapcsolt vállalkozása rendelkezik legalább három lezárt (beszámolóval alátámasztott), teljes (365 napot jelentő) üzleti évvel, melybe az előtársaságként való működés
+időszak nem számít bele,
+c) a támogatást igénylőnek vagy kapcsolt vállalkozásának a támogatási igény benyújtását megelőző jóváhagyott (közgyűlés, taggyűlés, illetve a tulajdonosok által jóváhagyott), legutolsó lezárt, teljes
+üzleti év éves beszámoló szerinti árbevétele meghaladja a projekt elszámolható összköltségét,
+d) a támogatást igénylőnek vagy kapcsolt vállalkozásának a támogatási igény benyújtását megelőző jóváhagyott (közgyűlés, taggyűlés, illetve a tulajdonosok által jóváhagyott), legutolsó lezárt, teljes
+üzleti év éves beszámoló szerinti mérlegfőösszege meghaladja a projekt elszámolható összköltségét,
+e) a beruházás a támogatást igénylőnél az átlagos éves nettó árbevétel növekedését eredményezi a beruházás megkezdését megelőző üzleti év éves nettó árbevételéhez képest,
+f) a támogatást igénylő vállalja, hogy a beruházásban érintett székhelyén, telephelyén, fióktelepén vagy kapcsolt vállalkozásánál új munkahelyet létesít legkésőbb a projekt fizikai befejezését követő 60
+napon belül, azzal, hogy az újonnan felvételre kerülő munkavállaló nem lehet a támogatási kérelem benyújtását megelőző 12 hónapban a támogatást igénylőnél kölcsönzött munkaerőként dolgozó
+munkavállaló és az újonnan felvételre kerülő munkavállaló legutolsó bejelentett munkahelye nem lehet a támogatást igénylő kapcsolódó vállalkozásának, partnervállalkozásának, vagy a támogatást
+igénylő természetes személy többségi tulajdonosa közeli hozzátartozójának többségi tulajdonában álló vállalkozásnak a megvalósítás helyszíne szerinti megyében működő telephelye. Az újonnan
+létesített munkahelyek számába csak azon munkavállalók számítanak bele, akikkel a támogatást igénylő a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti munkaviszonyt létesít,
+g) a támogatást igénylő vállalja, hogy a beruházást a támogatási szerződésben vállalt feltételek mellett az érintett régióban legalább a projekt befejezését követő 5 évig fenntartja és a támogatott
+fejlesztéseket a megvalósítás helyszínén üzemelteti,
+h) a támogatást igénylő - illetve amennyiben az f) pontban foglaltak teljesítésénél a kapcsolt vállalkozásnál létrehozott munkahelyek is figyelembe vételre kerülnek, úgy a kapcsolt vállalkozás is -
+vállalja, hogy a támogatási kérelem benyújtását megelőző 12 hónapban meglévő vagy ha az magasabb, a támogatást igénylő más támogatási szerződésben rögzített létszámvállalásban szereplő
+foglalkoztatottak átlagos statisztikai állományi létszámát és ennek a beruházás során létrejött tényleges növekményt, illetve a kölcsönzött munkaerőnek a támogatási kérelem benyújtását megelőző 12
+havi átlagállományát a kötelező üzemeltetési időszak alatt fenntartja,
+i) a támogatást igénylő az elszámolható költségek legalább 25%-át saját forrásból biztosítsa és a teljes beruházás megvalósításához szükséges költségek forrását a támogató számára bemutatja,
+j) támogatás ösztönző hatásokkal bír.
+2. Nem nyújtható támogatás, ha a támogatási igény:
+a) olyan beruházás megvalósításához kapcsolódik, amelyekhez a támogatást igénylő jogosult a 2014-2020 programozási időszakban az egyes európai uniós alapokból származó támogatás igénylésére,
+b) vállalkozásban történő részesedés szerzésére irányul,
+c) benyújtójának lejárt esedékességű, 60 napot meghaladó nyilvántartott adó- vagy egyéb köztartozása van, kivéve, ha a tartozás szerint illetékes hatóság számára fizetési halasztást vagy részletfizetést
+engedélyezett,
+d) a benyújtója esetében a közigazgatási hatóság határozatával vagy annak bírósági felülvizsgálata esetén a bíróság munkavállalók bejelentés nélküli vagy munkavállalási engedély nélküli
+foglalkoztatását a támogatási kérelem benyújtását megelőző 2 naptári éven belül jogerősen megállapította vagy annak megállapítására irányuló eljárás a támogatási kérelem benyújtásakor folyamatban
+van,
+e) a benyújtójának a kapcsolt vállalkozásaival egybeszámított foglalkoztatotti létszáma eléri a 12 ezer főt,
+f) kutatási infrastruktúra kiépítéséhez kapcsolódik,
+g) benyújtója a beruházást, vagy a fejlesztést olyan ingatlanon kívánja megvalósítani, amely a támogatás odaítélésének időpontjában nem per- és igénymentes, kivéve, ha a támogatást kérelmező az
+igényjogosultja, vagy az igény a beruházás érdekében jött létre, továbbá kivéve, ha az ingatlant a helyi önkormányzat javára bejegyzett vételi jog vagy visszavásárlási jog terheli, ha azok gyakorlására a
+helyi önkormányzat csak azzal a feltétellel jogosult, ha a beruházás meghiúsult,
+h) benyújtója a beruházást vagy a fejlesztést olyan bérelt vagy lízingelt ingatlanon kívánja megvalósítani, amely esetében a bérleti, illetve a lízing szerződés kizárólagos joggal nem biztosítja a
+támogatással megvalósuló létesítmény üzemeltetésének lehetőségét legalább a kötelező üzemeltetési időszak idejére, vagy a befektető nem vállalja, hogy bérleti, illetve a lízing szerződés lejárta előtt a
+fenti feltételeknek megfelelő helyszín rendelkezésre állását igazolja,
+i) benyújtója vagy kapcsolt vállalkozása az Európai Bizottság korábbi döntése alapján jogellenes és a közös piaccal összeegyeztethetetlen támogatásban részesült, és ezért a támogatás visszafizetésére
+kötelezték és ezen visszafizetési kötelezettségének nem tett eleget,
+j) benyújtójában a szavazati jogok legalább 25%-át közvetlenül vagy közvetve, egyénileg vagy közösen, egy vagy több állami szerv irányítja, kivéve az alábbi szakágazati kódú fejlesztendő
+tevékenységek esetén:
+16.21 Falemezgyártás, 16.22 Parkettagyártás, 16.23 Épületasztalos-ipari termék gyártása, 29.10 Közúti gépjármű gyártása, 29.31 Járművillamossági-, elektronikai készülékek gyártása, 29.32. Közúti
+jármű alkatrészeinek gyártása,
+k) a benyújtóval szemben a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU bizottsági rendelet
+1. cikk (4) bekezdés c) pontja szerinti támogatási rendszerből való kizárás hatálya áll fenn.
+pályázati úton, egyedi döntés
+alapján
+-
+1. 1. mellékletének címe helyébe a következő cím lép:
+„XV. Nemzetgazdasági Minisztérium 2016. évi költségvetési kiadási előirányzatainak feladatterve”
+-
+Gazdasági Zöldítési Rendszer
+4. A Rendelet 1. mellékletében foglalt táblázat 22. sora helyébe a következő rendelkezés lép:
+gazdasági társaság, egyéni vállalkozó, civil szervezet, helyi önkormányzat, köztestület, költségvetési szerv
+előleg biztosítható -
+Biztosíték lehet:
+a) a kedvezményezett valamennyi
+- jogszabály alapján beszedési
+megbízással megterhelhető -
+fizetési számlájára vonatkozó, a
+támogató javára szóló beszedési
+megbízás benyújtására vonatkozó
+felhatalmazó nyilatkozata,
+b) zálogjog,
+c) garancia,
+d) kezesség,
+e) óvadék.
+Az előirányzat fedezetet biztosíthat
+a) a kibocsátás-csökkentést és az éghajlatváltozáshoz való alkalmazkodást
+célzó kutatás és fejlesztés, valamint demonstrációs projektek
+finanszírozására,
+b) a megújuló energiaforrásból megvalósuló energiatermelés fejlesztésére
+és energiahatékonyság növelésére,
+c) az alacsony kibocsátású közlekedésre és tömegközlekedési eszközökre
+történő átállás ösztönzésére,
+d) a Zöld Klíma Alap részére tett nemzeti felajánlás 50%-ának
+teljesítésére,
+e) az elektromos töltőinfrastruktúra-telepítés megvalósítási helyszíneit
+feltüntető adatbázis és térkép elkészítésére és működtetésére;
+f) az elektromos töltőinfrastruktúrához kapcsolódó fizetési, elszámolási
+és kontrollrendszer kiépítésére és működtetésére;
+g) az elektromos töltőinfrastuktúrához kapcsolódó működési költségekre;
+h) az elektromobolitáshoz,energiahatékonysághoz kapcsolódó marketing
+és promóciós tevékenység kiadásaira;
+i) az elektromobolitáshoz,energiahatékonysághoz kapcsolódó
+tanulmányok, tervek, koncepciók kidolgozásának a finanszírozására;
+Az előirányzat tartalmazza a kezelésével és működtetésével járó
+költségeket is.
+egyösszegű kifizetéssel,
+részletekben történő
+kifizetéssel -
+időarányosan vagy
+teljesítésarányosan
+22. 347995
+3. A Rendelet 1. mellékletében foglalt táblázat 18. sora helyébe a következő rendelkezés lép:
+18. 346706
+Területfejlesztéssel összefüggő
+feladatok
+Az előirányzat fedezetet biztosíthat
+a) a területfejlesztési intézményrendszeri feladatokra
+aa) a területi önkormányzatok,
+ab) a regionális fejlesztési ügynökségek,
+ac) a térségi fejlesztési tanácsok részére
+a területfejlesztésről és a területrendezésről szóló 1996. évi XXI.
+törvényben meghatározott feladatokhoz kapcsolódó tevékenységeikhez és
+egyes szakmai projektjeik végrehajtásához;
+b) területfejlesztési szakmai háttérfeladatokra
+ba) a Nemzeti Programokkal kapcsolatos feladatok ellátásához,
+bb) az Országos Területfejlesztési és Területrendezési Információs
+Rendszer működéséhez és szakmai feladatai ellátásához,
+c) a Kincstár területfejlesztéssel kapcsolatos tevékenységének
+finanszírozásához, valamint
+d) egyéb területfejlesztéshez, fejlesztéspolitikához kapcsolódó feladatok
+ellátásához.
+Az előirányzat tartalmazza a kezelésével és működtetésével járó
+költségeket is.
+helyi önkormányzat, gazdasági társaság, térségi fejlesztési tanács, Balaton Fejlesztési Tanács, Tokaj Borvidék Fejlesztési Tanács, költségvetési szerv
+egyösszegű kifizetéssel,
+részletekben történő
+kifizetéssel -
+időarányosan vagy
+teljesítésarányosan
+- - -
+Nemzetközi szabványosítási és
+akkreditálási feladatok
+28. 349562
+6. A Rendelet 1. mellékletében foglalt táblázat 28. sora helyébe a következő rendelkezés lép:
+-
+egyösszegű kifizetéssel,
+részletekben történő
+kifizetéssel -
+időarányosan vagy
+teljesítésarányosan
+-
+Biztosíték lehet:
+a) a kedvezményezett valamennyi
+- jogszabály alapján beszedési
+megbízással megterhelhető -
+fizetési számlájára vonatkozó, a
+támogató javára szóló beszedési
+megbízás benyújtására vonatkozó
+felhatalmazó nyilatkozata,
+b) garancia,
+c) óvadék.
+-
+
+nemzetközi szervezet - - -
+gazdasági társaság, szövetség, civil szervezet egyedi döntés alapján előleg biztosítható
+A kedvezményezett valamennyi -
+jogszabály alapján beszedési
+megbízással megterhelhető -
+fizetési számlájára vonatkozó, a
+támogató javára szóló beszedési
+megbízás benyújtására vonatkozó
+felhatalmazó nyilatkozata.
+"
+pályázati úton, egyedi döntés
+alapján előleg biztosítható
+Biztosíték lehet:
+a) a kedvezményezett valamennyi
+- jogszabály alapján beszedési
+megbízással megterhelhető -
+fizetési számlájára vonatkozó, a
+támogató javára szóló beszedési
+megbízás benyújtására vonatkozó
+felhatalmazó nyilatkozata,
+b) zálogjog,
+c) garancia,
+d) kezesség,
+e) óvadék.
+visszterhes polgári jogi
+szerződés alapján
+41a. 352139
+Az előirányzat a Kvtv. 19. § (6) és (7) bekezdése alapján a Kormány
+engedélyével, az általa meghatározott célra, ütezemzés szerint használható
+fel.
+költségvetési szerv, fejezeti kezelésű előirányzat, központi kezelésű előirányzat - -
+időarányosan,
+teljesítésarányosan,
+előirányzat-
+átcsoportosítás alapján
+- - - - -
+7. A Rendelet 1. mellékletében foglalt táblázat 33. sora helyébe a következő rendelkezés lép:
+Fejezeti stablitási tartalék
+8. A Rendelet 1. mellékletében foglalt táblázat 35. sora helyébe a következő rendelkezés lép:
+9. A Rendelet 1. mellékletében foglalt táblázat a következő 41a. sorral egészül ki:
+35. 296880 Nemzetgazdasági programok
+Az előirányzat a miniszter felelősségi körébe tartozó feladat ellátásához,
+szakmai program támogatásához használható fel, így különösen:
+a) turisztikai és vendéglátási ágazati feladatok teljesítéséhez;
+b) belgazdasági szakágazati feladatok, programok támogatásához;
+c) nemzetgazdasági és szakmai programokkal összefüggő média
+megjelenések támogatásához;
+d) gazdaságtervezéssel összefüggő feladatok finanszírozásához;
+e) a 2017. évi Asztanai szakvilágkiállításhoz kapcsolódó kiadások és
+feladatok finanszírozásához;
+f) egyéb gazdaságpolitikai szakmai célok és feladatok támogatásához.
+Az előirányzat tartalmazza a kezelésével és működtetésével járó
+költségeket is.
+-
+természetes személy, gazdasági társaság, egyéni vállalkozó, civil szervezet,szövetkezet, helyi önkormányzat, köztestület, költségvetési szerv
+egyösszegű kifizetéssel,
+részletekben történő
+kifizetéssel -
+időarányosan vagy
+teljesítésarányosan
+- -
+igénybe
+vehető
+33. 244190
+Nemzetközi tagdíjak, nemzetközi
+kapcsolattal összefüggő feladatok
+Az előirányzat a miniszter és az irányítása alá tartozó intézmények
+nemzetközi szervezetekben betöltött tagságához kapcsolódó tagdíjfizetési,
+hozzájárulási kötelezettségeinek finanszírozásául, továbbá egyes
+nemzetközi szervezetekban való tagdíjfizetési kötelezettségek,
+nemzetközi szervezetekben, szakmai rendezvényeken való részvétel
+támogatására szolgál. Az előirányzat tartalmazza a kezelésével járó
+költségeket is.
+egyösszegű kifizetéssel,
+részletekben történő
+kifizetéssel -
+időarányosan vagy
+teljesítésarányosan
+- - -
+-
