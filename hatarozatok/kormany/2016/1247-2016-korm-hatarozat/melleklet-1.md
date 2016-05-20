@@ -22,7 +22,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti az Integrált Közlekedésfejlesztési Operatív Program 2015. évre szóló éves fejlesztési keretének megállapításáról szóló 1844/2015. (XI. 24.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz
 
@@ -61,3 +61,5 @@
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
 | 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 110,71 | kiemelt | Meghirdetve: 2016. március 1. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
