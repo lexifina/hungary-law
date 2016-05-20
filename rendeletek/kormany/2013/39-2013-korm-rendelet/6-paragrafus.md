@@ -1,5 +1,3 @@
-## figyelembe véve az MSZ ISO 8243 szabvány szerinti konfidencia intervallumokat.
-
 ## 4. Jelölés
 
 6. § (1) A fogyasztói csomagolási egységen jelölni kell – a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 6. §-ában meghatározottakon túl –

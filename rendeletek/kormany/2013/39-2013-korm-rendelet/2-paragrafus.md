@@ -90,4 +90,8 @@ c) szájon át fogyasztott dohánytermék: a dohányzásra, illetve rágásra sz
 
 22. szopóka: a cigarettához, szivarhoz, szivarkához rögzített rész, amely közvetlenül a szájjal érintkezik,
 
-23. tároló adóraktár engedélyese: a Jöt. 100. § (1) bekezdés d) pontja szerinti dohánytároló adóraktár engedélyese.
+23. tároló adóraktár engedélyese: a Jöt. 100. § (1) bekezdés d) pontja szerinti dohánytároló adóraktár engedélyese,
+
+24.[^1] nikotin tartalmú folyadék: az elektronikus cigaretta használata során felhasznált, illetve annak utántöltésére szolgáló folyadék, amely bármilyen kis mennyiségben nikotint tartalmaz.
+
+[^1]: A 2. § 24. pontját a 413/2015. (XII. 23.) Korm. rendelet 48. §-a iktatta be.

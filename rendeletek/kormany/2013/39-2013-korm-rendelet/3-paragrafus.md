@@ -1,3 +1,5 @@
+## 2/A. §[^2] A 2. §-ban foglaltakon túl e rendelet alkalmazásában a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 1. §-ában foglalt fogalom meghatározásokat kell figyelembe venni.
+
 ## 2. A dohánytermékek gyártásának, importálásának és az Európai Unió más tagállamából való behozatalának feltételei
 
 3. § (1) A dohányterméket előállítónak (a továbbiakban: gyártó) a dohánytermék gyártásának megkezdése előtt, az importálónak, a bejegyzett kereskedőnek, valamint a tároló adóraktár engedélyesének a dohánytermék szabad forgalomba bocsátása előtt valamennyi dohánytermékről az 1. mellékletben szereplő adatokat tartalmazó regisztrációs lapot kell kiállítania.
@@ -7,3 +9,5 @@
 (3) A gyártó, az importáló, a bejegyzett kereskedő és a tároló adóraktár engedélyese köteles a szabadforgalomba bocsátás előtt a regisztrációs lap egy további példányát nyilvántartásba vétel céljából a Nemzeti Fogyasztóvédelmi Hatóságnak (a továbbiakban: NFH) megküldeni. Az NFH a nyilvántartásba vett regisztrációs lap másolati példányát elektronikus úton továbbítja az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatal (a továbbiakban: ÁNTSZ–OTH) részére.
 
 (4) Az 1. melléklet szerinti regisztrációs lap adattartalmáról, valamint a 4. § (2) bekezdése szerinti dokumentumok adattartalmáról az NFH hatósági nyilvántartást vezet.
+
+[^2]: A 2/A. §-t a 413/2015. (XII. 23.) Korm. rendelet 49. §-a iktatta be.

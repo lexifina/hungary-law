@@ -1,8 +1,6 @@
-## 24. §[^9]
-
 1. melléklet a 39/2013. (II. 14.) Korm. rendelethez
 
-## Regisztrációs lap tartalmi elemei
+Regisztrációs lap tartalmi elemei
 
 1. A dohánytermék gyártó, importáló, bejegyzett kereskedő vagy a tároló adóraktár engedélyesének neve, címe.
 
@@ -57,5 +55,3 @@ a dohányterméket előállító üzem vezetője,
 importáló, bejegyzett kereskedő
 
 vagy tároló adóraktár engedélyes neve
-
-[^9]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

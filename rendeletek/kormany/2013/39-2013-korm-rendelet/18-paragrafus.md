@@ -1,6 +1,6 @@
 ## 9. Adatszolgáltatás
 
-18. § (1)[^7] A dohánytermék gyártójának, az importálónak, a bejegyzett kereskedőnek és a tároló adóraktár engedélyesének évente november 30-áig be kell nyújtania az agrárpolitikáért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter és az egészségügyért felelős miniszter számára – elektronikus formában – a (2)–(4) bekezdés szerinti listákat (a továbbiakban: listák), amelyek a tárgyévre vonatkozóan tartalmazzák a dohánytermékekben található, valamint a gyártás során felhasznált összes összetevőt és azok mennyiségét. A tárgyév a megelőző év október 1-jétől a listák benyújtási évének szeptember 30. napjáig tart.
+18. § (1)[^10] A dohánytermék gyártójának, az importálónak, a bejegyzett kereskedőnek és a tároló adóraktár engedélyesének évente november 30-áig be kell nyújtania az agrárpolitikáért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter és az egészségügyért felelős miniszter számára – elektronikus formában – a (2)–(4) bekezdés szerinti listákat (a továbbiakban: listák), amelyek a tárgyévre vonatkozóan tartalmazzák a dohánytermékekben található, valamint a gyártás során felhasznált összes összetevőt és azok mennyiségét. A tárgyév a megelőző év október 1-jétől a listák benyújtási évének szeptember 30. napjáig tart.
 
 (2) A dohánytermék gyártójának, az importálónak, a bejegyzett kereskedőnek és a tároló adóraktár engedélyesének az általa gyártott, forgalomba hozott összes dohánytermék vonatkozásában összesített listát kell készítenie a dohánytermékben és a dohányterméken található dohány-adalékanyagokról. A lista a dohány-adalékanyagokat ábécé sorrendben tartalmazza, azok maximális mennyiségét (a termékben előforduló legmagasabb szintet alapul véve) és a funkcióit is meghatározva, a 10. melléklet szerinti formában.
 
@@ -12,4 +12,4 @@
 
 (6) A listák benyújtása mellett meg kell indokolni, hogy miért kell az egyes összetevőket az adott dohánytermékekbe elegyíteni, továbbá meg kell adni az összetevők rendeltetését és típusát. A felsoroláshoz mellékelni kell az összetevőknek az elégetett vagy el nem égetett formáira vonatkozó mindazon toxikológiai adatokat is, amelyek a gyártó, az importáló, a bejegyzett kereskedő és a tároló adóraktár engedélyese rendelkezésére állnak, különös tekintettel azoknak az emberi egészségre gyakorolt hatására, figyelemmel többek között a függőség kialakulásának veszélyére.
 
-[^7]: A 18. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 715. §-ával megállapított szöveg.
+[^10]: A 18. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 715. §-ával megállapított szöveg.

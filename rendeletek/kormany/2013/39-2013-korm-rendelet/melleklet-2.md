@@ -1,6 +1,6 @@
 2. melléklet a 39/2013. (II. 14.) Korm. rendelethez
 
-## Engedélyezett dohány-adalékanyagok
+Engedélyezett dohány-adalékanyagok
 
 1. A dohánytermékek gyártásához általánosan engedélyezett adalékanyagok
 
@@ -162,15 +162,15 @@ Természetes vagy természetazonos aromák (például dohánykivonat és a dohá
 
 | Szacharóz-okta-acetát | 3038 | 11819 | 126-14-7 |
 
-A táblázatban szereplő azonosító számok az alábbi szervezetek aromalistáinak sorszámát jelentik:
+## A táblázatban szereplő azonosító számok az alábbi szervezetek aromalistáinak sorszámát jelentik:
 
-FEMA GRAS: Flavor and Extract Manufacturers Association (Aroma és Extrakt Gyártók Egyesülése)
+## FEMA GRAS: Flavor and Extract Manufacturers Association (Aroma és Extrakt Gyártók Egyesülése)
 
-GRAS = általában biztonságosnak elismert anyagok
+## GRAS = általában biztonságosnak elismert anyagok
 
-CoE: Council of Europe: Flavouring substances and natural sources flavourings (Európa Tanács: Ízesítő anyagok és természetes eredetű ízesítők) (Maisonneuve S.A. France 1981)
+## CoE: Council of Europe: Flavouring substances and natural sources flavourings (Európa Tanács: Ízesítő anyagok és természetes eredetű ízesítők) (Maisonneuve S.A. France 1981)
 
-CAS: Chemical Abstracts Service (Kémiai Referáló Szolgálat)
+## CAS: Chemical Abstracts Service (Kémiai Referáló Szolgálat)
 
 1.3. Oldószerek és vivőanyagok
 
@@ -228,7 +228,7 @@ Zsírsavészterek
 
 | Folyékony paraffin | - | - | - | max. 25% |
 
-A megengedett mennyiség a termék száraz tömegére vonatkozik.
+## A megengedett mennyiség a termék száraz tömegére vonatkozik.
 
 3. Ragasztó- és sűrítőanyagok
 
@@ -296,7 +296,7 @@ A megengedett mennyiség a termék száraz tömegére vonatkozik.
 
 | Melamin-formaldehid gyanta | max. 2% | max. 2% | - | - |
 
-A megengedett mennyiség a termék száraz tömegére vonatkozik.
+## A megengedett mennyiség a termék száraz tömegére vonatkozik.
 
 4. Égést módosító szerek
 
@@ -478,27 +478,29 @@ valamint ezek alumínium-, kalcium- és magnéziumvegyületei
 
 A 10.1. pontban felsorolt anyagok, valamint
 
+## 3K01760_5
+
 | Alumíniumfólia-védőborításhoz legfeljebb 150 mg/m2 összmennyiségben -(3-nitro-5-szulfo-6-hidroxi-fenilazo)-acetanilid |
 
-1:1krómkomplexaminsó és 4-(3-nitro-5-szulfo-6-hidroxi-fenilazo)-1-fenil-3-metil-5-pirazolon 1:1krómkomplexaminsó
+## 1:1krómkomplexaminsó és 4-(3-nitro-5-szulfo-6-hidroxi-fenilazo)-1-fenil-3-metil-5-pirazolon 1:1krómkomplexaminsó
 
-Alumínium (E 173)
+## Alumínium (E 173)
 
-Aranybronz (legfeljebb 15% cinktartalmú réz-cinkötvözet)
+## Aranybronz (legfeljebb 15% cinktartalmú réz-cinkötvözet)
 
-Arany (E 175)
+## Arany (E 175)
 
-Ezüst (E 174)
+## Ezüst (E 174)
 
-Kalcium-karbonát (E 170)
+## Kalcium-karbonát (E 170)
 
-Kalcium-szulfát
+## Kalcium-szulfát
 
-Kókuszdióhéjliszt (idegen anyagoktól, szalmonellától mentes)
+## Kókuszdióhéjliszt (idegen anyagoktól, szalmonellától mentes)
 
-Titán-dioxid (E 171), csillámkővel (mika) keverve is; az utóbbi esetben a csillámkőtartalom nem haladhatja meg a 75%-ot és a festékanyagot kötőanyag-bevonatnak kell körülvennie
+## Titán-dioxid (E 171), csillámkővel (mika) keverve is; az utóbbi esetben a csillámkőtartalom nem haladhatja meg a 75%-ot és a festékanyagot kötőanyag-bevonatnak kell körülvennie
 
-Vas-oxidok és vas-hidroxidok, sárga, vörös, barna és fekete (E 172)
+## Vas-oxidok és vas-hidroxidok, sárga, vörös, barna és fekete (E 172)
 
 10.3. Szivarok és fogyasztási dohányok ragasztó- és kötőanyagaihoz
 

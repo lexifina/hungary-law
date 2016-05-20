@@ -1,6 +1,6 @@
 3. melléklet a 39/2013. (II. 14.) Korm. rendelethez
 
-## Új adalékanyag dohánytermék-gyártásban való felhasználása iránti engedélykérelem tartalma
+Új adalékanyag dohánytermék-gyártásban való felhasználása iránti engedélykérelem tartalma
 
 1. Általános adatok
 
