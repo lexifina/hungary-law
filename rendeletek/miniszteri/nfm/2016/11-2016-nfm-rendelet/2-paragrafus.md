@@ -1,0 +1,1 @@
+## 1. § A fogyasztóvédelmi hatóság eljárása során felmerülő, a cigaretta kátrány-, nikotin- és szén-monoxid-kibocsátásának mérésére vonatkozó mintavételi díj, továbbá laboratóriumi és egyéb vizsgálati díj (a továbbiakban együtt: díj) mértékét az 1. melléklet határozza meg.
