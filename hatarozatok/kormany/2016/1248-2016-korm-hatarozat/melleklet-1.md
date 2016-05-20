@@ -8,6 +8,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Vidékfejlesztési Program éves fejlesztési keretének megállapításáról szóló 1012/2016. (I. 20.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1248/2016. (V. 18.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
