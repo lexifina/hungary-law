@@ -4,4 +4,6 @@ a) amelynek létesítő okiratában a segítő kutyák kiképzése és a fogyat�
 
 b) amely biztosítja, hogy a kiképzést olyan személy (a továbbiakban: kiképző) végzi, aki az Országos Képzési Jegyzékben szereplő habilitációs kutyakiképző szakképesítéssel rendelkezik.
 
-(2) Terápiás kutyát az a szervezet alkalmazhat, amelynek létesítő okiratában a terápiás kutya alkalmazása feltüntetésre került.
+(2)[^5] Terápiás kutyát alkalmazó szervezet az a kutyát kiképző szervezet, amely az általa vagy egy másik kutyát kiképző szervezet által kiképzett és levizsgáztatott terápiás kutyát és gazdáját alkalmazza.
+
+[^5]: A 3. § (2) bekezdése a 9/2016. (V. 12.) EMMI rendelet 3. §-ával megállapított szöveg.
