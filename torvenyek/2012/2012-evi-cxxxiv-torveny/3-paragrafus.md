@@ -40,11 +40,13 @@ k) tömegközlekedési eszközök vonaljegye (gyűjtőjegye),
 
 l) a dohányboltban forgalmazható termékek fogyasztók általi átvételére, szállítására szolgáló csomagolóeszköz, hordtasak vagy hordtáska,
 
-m) jogszabály által meghatározott más termék
+m) a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvényben meghatározott elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz,
 
-forgalmazható továbbá,
+n) jogszabály által meghatározott más termék
 
-n) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások egyenlegének feltöltésére irányuló szolgáltatás nyújtható;
+forgalmazható, továbbá,
+
+o) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások egyenlegének feltöltésére irányuló szolgáltatás nyújtható;
 
 9. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 
