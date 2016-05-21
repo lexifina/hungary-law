@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-42-00-00
 | 2016-01-01 | 2015. évi CCXXIV. törvény | 1999-42-00-00.22 |
 | 2016-01-23 | 2015. évi CCXXIV. törvény | 1999-42-00-00.23 |
 | 2016-05-20 | 2015. évi CCXXIV. törvény | 1999-42-00-00.24 |
+| 2016-05-21 | 2016. évi XXXIV. törvény | 1999-42-00-00.25 |

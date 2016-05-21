@@ -18,7 +18,7 @@ rendeletben határozza meg.
 
 (4b) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a cigaretta kátránykibocsátásának, nikotinkibocsátásának, szén-monoxid-kibocsátásának mérésére vonatkozó díjakat és a mérés szabályait rendeletben határozza meg.
 
-(4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az elektronikus cigaretta és az utántöltő flakon forgalomba hozatalának és az ezzel kapcsolatos változások bejelentésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+(4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalának és az ezzel kapcsolatos változások bejelentésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 

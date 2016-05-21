@@ -4,7 +4,7 @@
 
 a) dohánytermék: fogyasztható termék, amely akár csak részben is – géntechnológiával módosított vagy módosítatlan formában – dohányt tartalmaz;
 
-b) dohányzás: a dohánytermék, illetve dohányzási célú gyógynövénytermék füstképződéssel járó elégetése;
+b) dohányzás: a dohánytermék, illetve dohányzási célú gyógynövénytermék elégetése, valamint hevítése
 
 c) közforgalmú intézmény: az érintettek számára közfeladatot, illetőleg közérdekű vagy egyéb szolgáltatást, ellátást (a továbbiakban együtt: szolgáltatás) végző természetes vagy jogi személynek, illetőleg jogi személyiség nélküli szervezetnek a szolgáltatás, illetve az azzal összefüggő tevékenység biztosítására szolgáló létesítménye vagy egyéb eszköze, függetlenül attól, hogy az oda történő belépés a nyilvánosság számára teljesen szabad vagy valamely feltétel teljesítéséhez kötött;
 

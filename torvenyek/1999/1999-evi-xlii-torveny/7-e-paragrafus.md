@@ -4,7 +4,7 @@
 
 (3) Tilos a rádiós médiaszolgáltatásokhoz nyújtott, a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Reklám tv.) szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése.
 
-(4) Tilos a rendezvényekhez és tevékenységekhez, valamint az egyes személyek részére nyújtott a Reklám tv. szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése, ha a rendezvény vagy a tevékenység több tagállamot érint, több tagállamban zajlik vagy határokon átnyúló hatással bír.
+(4) Tilos a rendezvényekhez és tevékenységekhez, valamint az egyes személyek részére nyújtott a Reklám tv. szerinti szponzorálás, amelynek célja, illetve közvetlen vagy közvetett hatása az elektronikus cigaretták és az utántöltő flakonok népszerűsítése.
 
 (5) Az elektronikus cigaretták és az utántöltő flakonok tekintetében tilos az Mttv. hatálya alá tartozó audiovizuális kereskedelmi közlemény közzététele.
 
