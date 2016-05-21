@@ -1,4 +1,4 @@
-## 25. [^49] A mezőgazdasági termékek termelőinek a minőségrendszerekben való részvételéhez nyújtott támogatás
+## 25. [^51] A mezőgazdasági termékek termelőinek a minőségrendszerekben való részvételéhez nyújtott támogatás
 
 40/C. § (1) A mezőgazdasági termékek termelőinek a minőségrendszerekben való részvételéhez nyújtott támogatást (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag elsődleges mezőgazdasági termelést végző kedvezményezettek vehetnek igénybe.
 
@@ -50,4 +50,4 @@ d) a minőségrendszer átlátható és teljes mértékben biztosítja a mezőga
 
 (9) A (2) bekezdés a) pontjában említett támogatás legfeljebb ötéves időszakon át nyújtható, és az összege kedvezményezettenként és évente legfeljebb 3000 euró lehet. A támogatás évente nyújtott ösztönző kifizetés formájában valósul meg, amelynek a szintjét a minőségrendszerekben való részvételből eredő állandó költségek szintje alapján kell megállapítani. A (2) bekezdés b) és c) pontjában említett támogatások mértéke nem haladhatja meg a ténylegesen felmerülő költségek 100%-át.
 
-[^49]: A 25. alcímet (40/C. §) a 43/2015. (XII. 30.) NGM rendelet 8. §-a iktatta be.
+[^51]: A 25. alcímet (40/C. §) a 43/2015. (XII. 30.) NGM rendelet 8. §-a iktatta be.

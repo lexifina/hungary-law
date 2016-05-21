@@ -1,4 +1,4 @@
-## 26. [^50] Mezőgazdasági termékkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás
+## 26. [^52] Mezőgazdasági termékkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás
 
 40/D. § (1) A mezőgazdasági termékkel kapcsolatos promóciós intézkedésekhez nyújtott támogatást (ezen alcím alkalmazásában a továbbiakban: támogatás) a mezőgazdasági ágazatban tevékenykedő kedvezményezettek vehetik igénybe.
 
@@ -58,4 +58,4 @@ b) a gazdasági szereplőket vagy fogyasztókat promóciós kampányok keretébe
 
 (14) Promóciós intézkedéseket termelői csoportok vagy más szervezetek is végrehajthatnak, méretüktől függetlenül. Ha a promóciós intézkedést termelői csoportok vagy más szervezetek hajtják végre, a részvételnek nem szabható feltételéül az e csoportokban vagy szervezetekben való tagság, és az érintett csoport vagy szervezet adminisztrációs költségeihez történő hozzájárulás mértékének a promóciós intézkedés végrehajtásának költségeire kell korlátozódnia.
 
-[^50]: A 26. alcímet (40/D. §) a 43/2015. (XII. 30.) NGM rendelet 8. §-a iktatta be.
+[^52]: A 26. alcímet (40/D. §) a 43/2015. (XII. 30.) NGM rendelet 8. §-a iktatta be.
