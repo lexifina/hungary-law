@@ -12,8 +12,9 @@ c) hány köznevelési intézmény fenntartói jogát adta át, a köznevelési 
 
 (3) A köznevelési intézmény képviselője a köznevelési intézmény október 1-jei állapot szerinti közérdekű adatairól minden év október 15-ig – a KIR-en keresztül és az ott meghatározott formában – statisztikai céllal az OSAP keretében adatokat közöl.
 
-(4) A jogutóddal megszűnt vagy átalakult köznevelési intézményről a jogutód köznevelési intézmény, a jogutód nélkül megszűnt köznevelési intézményről a volt fenntartó záró statisztikát készít. A köznevelési intézmény képviselője – fenntartójának egyidejű értesítése mellett – október 15–31. között egy alkalommal kérheti a minisztertől a lezárt statisztikájának módosítását.
+(4)[^37] A jogutóddal megszűnt vagy átalakult köznevelési intézményről a jogutód köznevelési intézmény, a jogutód nélkül megszűnt köznevelési intézményről a volt fenntartó záró statisztikát készít. A köznevelési intézmény képviselője – fenntartójának egyidejű értesítése mellett – október 15. és november 15. között egy alkalommal kérheti a minisztertől az adott tanévi lezárt statisztikájának módosítását.
 
 (5) A Hivatal a KIR-ben tárolt adatok megadásával segíti a köznevelési intézmény (3) és (4) bekezdésben meghatározott kötelezettségének teljesítését.
 
 [^36]: A 25. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § l) pont la–lb) alpontja szerint módosított szöveg.
+[^37]: A 25. § (4) bekezdése a 102/2016. (V. 13.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.

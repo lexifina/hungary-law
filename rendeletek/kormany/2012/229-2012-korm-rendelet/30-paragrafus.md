@@ -8,6 +8,6 @@
 
 (3) Az állami intézményfenntartó központ fővárosi, megyei bontásban nyilvántartja a helyettesítési rendszerben részt vevő személyeket (a továbbiakban: helyettesítő pedagógus), és munkáltatói megkeresésre tájékoztatást ad a helyettesítő pedagógus foglalkoztatásának lehetőségeiről.
 
-(4)[^41] A helyettesítési rendszerhez az állami intézményfenntartó központtal kötött megállapodás alapján csatlakozhatnak az önkormányzatok, valamint az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartói is.
+(4)[^43] A helyettesítési rendszerhez az állami intézményfenntartó központtal kötött megállapodás alapján csatlakozhatnak az önkormányzatok, valamint az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartói is.
 
-[^41]: A 30. § (4) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § c) pontja szerint módosított szöveg.
+[^43]: A 30. § (4) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § c) pontja szerint módosított szöveg.

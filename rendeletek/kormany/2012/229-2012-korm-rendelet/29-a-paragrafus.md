@@ -1,4 +1,4 @@
-## I/A. Fejezet[^40]
+## I/A. Fejezet[^42]
 
 ## A KÖZNEVELÉSI SZERZŐDÉS TARTALMA, ÉRVÉNYESSÉGI IDEJE ÉS MEGKÖTÉSÉNEK SZABÁLYAI
 
@@ -18,4 +18,4 @@ e) pedagógiai-szakmai szolgáltatás esetén az állami közfeladat-ellátásba
 
 (3) Az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartói esetében a köznevelési szerződés megkötéséhez ki kell kérni az intézmény székhelye, telephelye szerint illetékes kormányhivatal, települési önkormányzat véleményét, továbbá a nemzetiségi nevelés, nevelés-oktatás esetében az érintett országos nemzetiségi önkormányzat véleményét is.
 
-[^40]: Az I/A. fejezetet (29/A. §) a 143/2015. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
+[^42]: Az I/A. fejezetet (29/A. §) a 143/2015. (VI. 12.) Korm. rendelet 1. §-a iktatta be.

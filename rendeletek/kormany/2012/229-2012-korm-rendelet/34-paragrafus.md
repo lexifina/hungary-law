@@ -1,3 +1,5 @@
+## 33/A. §[^54] A köznevelési intézmény fenntartójától függetlenül térítésmentes az érettségi vizsga a tanulói jogviszony ideje alatt az érettségi bizonyítvány megszerzéséig és az adott vizsgatárgyból az érettségi bizonyítvány megszerzése előtti, tanulói jogviszonyban tett sikertelen érettségi vizsga első javító- és pótló vizsgája.
+
 ## 14. Térítési díj ellenében igénybe vehető szolgáltatások
 
 34. § (1) Az állami szerv, az állami intézményfenntartó központ, az állami felsőoktatás intézmény, az önkormányzat, az önkormányzati társulás által fenntartott köznevelési intézményekben térítési díj ellenében igénybe vehető szolgáltatások:
@@ -12,12 +14,15 @@ d) a független vizsga,
 
 e) az érettségi bizonyítvány megszerzése vagy a tanulói jogviszony megszűnése után az érettségi vizsga, továbbá az adott vizsgatárgyból a tanulói jogviszony fennállása alatt az érettségi bizonyítvány megszerzése előtti sikertelen érettségi vizsga második vagy további javító- és pótló vizsgája,
 
-f) a tanulói jogviszony megszűnése után megkezdett szakmai vizsga (ideértve a javító- és pótló vizsgát is), továbbá a tanulói jogviszony fennállása alatt megkezdett, de be nem fejezett szakmai vizsga esetén a második vagy további javítóvizsga.
+f)[^55]
 
-(2) A gyermek, a tanuló a nevelési-oktatási intézményben igénybe vett étkezésért a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvényben meghatározottak szerint térítési díjat fizet.
+(2)[^56]
 
 (3) Az iskolaszék, az óvodaszék, a kollégiumi szék – annak hiányában a szülői szervezet (közösség) az intézményi tanács és iskolában az iskolai diákönkormányzat véleményének kikérésével – meghatározhatja azt a legmagasabb összeget, amelyet a nevelési-oktatási intézmény által szervezett, nem ingyenes szolgáltatások körébe tartozó program megvalósításánál nem lehet túllépni.
 
-(4)[^45] A kollégiumi szolgáltatás igénybevételéért a tanuló térítési díjat fizet, ha az iskolai alapszolgáltatást térítési díj fizetése mellett veszi vagy venné igénybe. A térítési díj mértéke azonos az iskolai térítési díj mértékével.
+(4)[^57] A kollégiumi szolgáltatás igénybevételéért a tanuló térítési díjat fizet, ha az iskolai közszolgáltatási feladatellátást térítési díj fizetése mellett veszi vagy venné igénybe. A térítési díj mértéke azonos az iskolai térítési díj mértékével.
 
-[^45]: A 34. § (4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 25. §-a iktatta be.
+[^54]: A 33/A. §-t a 102/2016. (V. 13.) Korm. rendelet 2. §-a iktatta be.
+[^55]: A 34. § (1) bekezdés f) pontját a 102/2016. (V. 13.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.
+[^56]: A 34. § (2) bekezdését a 102/2016. (V. 13.) Korm. rendelet 8. § g) pontja hatályon kívül helyezte.
+[^57]: A 34. § (4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 25. §-a iktatta be, szövege a 102/2016. (V. 13.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
