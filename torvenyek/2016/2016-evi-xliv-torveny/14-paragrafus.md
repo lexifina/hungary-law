@@ -1,0 +1,3 @@
+14. § A Kkt. 38. §-a helyébe a következő rendelkezés lép:
+
+„38. § A könyvvizsgáló cég – közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó könyvvizsgáló cégek esetében a Rendelet 5. cikkével összhangban – jogosult jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység körébe tartozó és a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységen kívüli egyéb szakmai szolgáltatásokat nyújtani. A könyvvizsgáló cég folytathat minden olyan egyéb tevékenységet is, amely nem ütközik e törvény, a kamara alapszabálya, valamint etikai szabályzata rendelkezéseibe.”

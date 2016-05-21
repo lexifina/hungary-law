@@ -1,0 +1,3 @@
+9. § A Kkt. 18. §-a helyébe a következő rendelkezés lép:
+
+„18. § A kamarai tag könyvvizsgáló – közérdeklődésre számot tartó gazdálkodónál, jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló esetében a Rendelet 5. cikkével összhangban – jogosult a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység körébe tartozó és a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységen kívüli egyéb szakmai szolgáltatásokat nyújtani. A kamarai tag könyvvizsgáló folytathat minden olyan egyéb tevékenységet is, amely nem ütközik a törvény, a kamara alapszabálya, valamint etikai szabályzata rendelkezéseibe.”
