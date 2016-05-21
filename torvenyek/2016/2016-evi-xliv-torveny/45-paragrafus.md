@@ -1,3 +1,0 @@
-45. § A Kkt. 189. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A kamarai tag könyvvizsgáló, könyvvizsgáló cég július 15-ig tájékoztatja a kamarát az előző év július 1-től a tárgyév június 30-ig az éves beszámolóról, egyszerűsített éves beszámolóról, továbbá az összevont (konszolidált) éves beszámolóról kiadott független könyvvizsgálói jelentésekről. A tájékoztatás a megbízó nevét és az adott független könyvvizsgálói jelentésben szereplő záradék fajtáját (hitelesítő, korlátozott, elutasító), illetve a záradék megadása elutasításának a tényét, továbbá, amennyiben a könyvvizsgáló figyelemfelhívással élt, annak tényét tartalmazza. A kamara az adatokat továbbítja a közfelügyeleti hatóságnak.”
