@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-413-20-
 | 2016-03-01 | 2015-413-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-03-02 | 2015-413-20-22.4 | 2010: CXXX. törvény |
 | 2016-05-20 | 2015-413-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2016-05-21 | 2015-413-20-22.6 | 2010: CXXX. törvény |
