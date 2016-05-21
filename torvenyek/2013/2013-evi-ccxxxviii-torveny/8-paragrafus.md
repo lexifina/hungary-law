@@ -1,25 +1,41 @@
-8. § (1) A kérdés benyújtását követően nem nyújtható be azonos tárgyú kérdés
+8. § (1) Nem nyújtható be azonos tárgyú kérdés azt követően, ha
+
+a) a Nemzeti Választási Bizottság 22. § (3) bekezdése szerinti jogerős határozata megállapítja, hogy az érvényes aláírások száma legalább kétszázezer,
+
+aa) a népszavazás elrendelésének elutasításáról szóló határozat jogerőre emelkedéséig,
+
+ab) a népszavazás megtartásáig, vagy
+
+ac) a 31. § (2) bekezdése szerinti időszak lejártáig,
+
+b) az Országgyűlés az Alaptörvény 8. cikk (1) bekezdés második mondata alapján a népszavazást jogerősen elrendelte,
+
+ba) a népszavazás megtartásáig, vagy
+
+bb) a 31. § (2) bekezdése szerinti időszak lejártáig.
+
+(2) A szervező által népszavazásra javasolt kérdés benyújtását követően a köztársasági elnök és a Kormány nem nyújthat be azonos tárgyú kérdést
 
 a) a Nemzeti Választási Iroda elnökének a 10. § (1) bekezdése szerinti elutasító döntését követő tizenhat napon belül, ha az ismételt benyújtásra nem kerül sor,
 
-b) a kérdés hitelesítését megtagadó döntés jogerőre emelkedéséig,
+b) a kérdés hitelesítésével kapcsolatos döntéssel szembeni felülvizsgálati kérelem benyújtási határidejének 29. § (1) bekezdésében meghatározott lejártáig, ha a kérdés hitelesítését megtagadó döntéssel szemben felülvizsgálati kérelmet nem nyújtottak be,
 
-c) a népszavazási kezdeményezés visszavonásáig,
+c) a Kúria
 
-d) az aláírásgyűjtő ívek benyújtására rendelkezésre álló határidő eredménytelen elteltéig,
+ca) a Nemzeti Választási Bizottság hitelesítést megtagadó döntését helybenhagyó, vagy az ellene benyújtott felülvizsgálati kérelmet érdemi vizsgálat nélkül elutasító, vagy
 
-e) a népszavazás elrendelésének elutasításáról szóló határozat jogerőre emelkedéséig,
+cb) a Nemzeti Választási Bizottság hitelesítő döntését megváltoztató
 
-f) a népszavazás megtartásáig, vagy
+határozatának a 30. § (3) bekezdésében foglaltak szerint a Magyar Közlönyben való közzétételt követő nap 0 óráig, ha a kérdés hitelesítésével kapcsolatos döntéssel szemben felülvizsgálati kérelmet nyújtottak be,
 
-g) a 31. § (2) bekezdése szerinti időszak lejártáig.
+d) a népszavazási kezdeményezés visszavonásáig,
 
-(2) Az (1) bekezdés a)–e) pontja szerinti esetben az ott megjelölt időpontot követő harminc napon belül újabb, azonos tárgyú kérdést
+e) az aláírásgyűjtő ívek benyújtására rendelkezésre álló határidő eredménytelen elteltéig,
 
-a) nem nyújthat be ugyanazon szervező vagy ugyanazon – az 5. § szerinti – kezdeményező,
+f) a népszavazás elrendelésének elutasításáról szóló határozat jogerőre emelkedéséig,
 
-b) a 4. § szerint támogató választópolgár nem támogathat, és annak nem lehet szervezője,
+g) a népszavazás megtartásáig, vagy
 
-c) a 4. § szerint nem támogathat az, aki a megelőző, azonos tárgyú kezdeményezés magánszemély szervezője volt.
+h) a 31. § (2) bekezdése szerinti időszak lejártáig.
 
 (3) Két kérdés abban az esetben tekintendő azonos tárgyúnak, ha azok – akár részben – azonos vagy egymást kizáró kötelezettséget rónának az Országgyűlésre.

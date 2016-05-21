@@ -1,6 +1,6 @@
 ## 2. A népszavazásra javasolt kérdés benyújtása
 
-3. § (1) A szervezőnek a népszavazásra javasolt kérdést az aláírásgyűjtő ív mintapéldányán, az aláírásgyűjtés megkezdése előtt – a kérdés hitelesítése céljából – be kell nyújtania a Nemzeti Választási Bizottsághoz.
+3. § (1) A szervezőnek a népszavazásra javasolt kérdést, az aláírásgyűjtés megkezdése előtt – a kérdés hitelesítése céljából – be kell nyújtania a Nemzeti Választási Bizottsághoz.
 
 (2) Egy aláírásgyűjtő íven egy kérdés szerepelhet.
 
