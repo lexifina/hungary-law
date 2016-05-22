@@ -1,7 +1,0 @@
-11. § Az Nsztv. 23. §-a helyébe a következő rendelkezés lép:
-
-„23. § (1) Ha az érvényes aláírások száma legalább kétszázezer, az aláírások ellenőrzésének eredményéről – az azt megállapító határozat jogerőre emelkedését követő munkanapon – a Nemzeti Választási Bizottság elnöke tájékoztatja az Országgyűlés elnökét.
-
-(2) Ha az érvényes aláírások száma a kétszázezret nem éri el, de legalább százezer, és a 8. § (3) bekezdésében meghatározott körülmény nem áll fenn, az aláírások ellenőrzésének eredményéről – az azt megállapító határozat jogerőre emelkedését követő munkanapon – a Nemzeti Választási Bizottság elnöke tájékoztatja az Országgyűlés elnökét.
-
-(3) Ha az érvényes aláírások száma a kétszázezret nem éri el, de legalább százezer, és a 8. § (3) bekezdésében meghatározott körülmény fennáll, a felfüggesztő benyújtási határidőig a 19/B. § (2) bekezdés b) pontja alapján benyújtott és ellenőrizni kért további azonos tárgyú kérdést tartalmazó aláírásgyűjtő íveken szereplő aláírások ellenőrzése eredményének jogerőssé válását követő munkanapon a Nemzeti Választási Bizottság tájékoztatja az Országgyűlés elnökét. E tájékoztatás tartalmazza a felfüggesztő benyújtási határidőig a 19/B. § (2) bekezdés b) pontja alapján benyújtott és ellenőrizni kért további azonos tárgyú kérdést tartalmazó aláírásgyűjtő íveken szereplő aláírások ellenőrzésének jogerős eredményét és a benyújtási sorrendet is.”
