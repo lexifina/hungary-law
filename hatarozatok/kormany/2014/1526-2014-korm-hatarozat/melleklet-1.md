@@ -14,7 +14,9 @@
 
 ## Határidő: 2014. szeptember 30.
 
-## 3.[^1] egyetért azzal, hogy a Program megvalósítására a 2014. és 2017. években összesen 3071,4 millió forint összegben kerüljön sor, és felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak a források ütemezett rendelkezésre állásáról az egyes költségvetési években;
+## 2a.[^1] a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra figyelemmel beruházási célterületté nyilvánítja a Szombathely megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerint 0975/5 helyrajzi számú földrészletet;
+
+## 3.[^2] egyetért azzal, hogy a Program megvalósítására a 2014. és 2017. években összesen 3071,4 millió forint összegben kerüljön sor, és felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak a források ütemezett rendelkezésre állásáról az egyes költségvetési években;
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -22,7 +24,7 @@
 
 ## Határidő: 2016. évben a felmerülés ütemében, illetve a 2017. évben a központi költségvetés tervezése keretében
 
-## 4.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Programhoz kapcsolódó 2014. évben szükséges 135,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 4.[^3] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Programhoz kapcsolódó 2014. évben szükséges 135,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -36,7 +38,7 @@
 
 ## Határidő: 2016. június 30.
 
-## 5.[^3]
+## 5.[^4]
 
 1. melléklet az 1526/2014. (IX. 18.) Korm. határozathoz
 
@@ -104,6 +106,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3. pont az 1071/2016. (II. 25.) Korm. határozat 8. pontjával megállapított szöveg.
-[^2]: A 4. pont az 1071/2016. (II. 25.) Korm. határozat 9. pontja szerint módosított szöveg.
-[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2a. pontot az 1249/216. (V. 25.) Korm. határozat 4. pontja iktatta be.
+[^2]: A 3. pont az 1071/2016. (II. 25.) Korm. határozat 8. pontjával megállapított szöveg.
+[^3]: A 4. pont az 1071/2016. (II. 25.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
