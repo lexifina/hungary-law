@@ -186,6 +186,22 @@ C) Központi hivatal
 
 5.28. a Nemzeti Adó- és Vámhivatal azon foglalkoztatottja, akinek a munkaköri feladatainak ellátásához Személyi Biztonsági Tanúsítvány megléte szükséges.
 
+6.[^3] A Nemzeti Akkreditáló Hatóságnál
+
+6.1. a főosztályvezető, a főosztályvezető-helyettes, az osztályvezető,
+
+6.2. az akkreditálási eljárással kapcsolatos feladatot ellátó személy munkaköre,
+
+6.3. a személyügyi feladatot ellátó személy munkaköre,
+
+6.4. az integritás tanácsadó,
+
+6.5. a nemzetbiztonsági ellenőrzéssel kapcsolatos feladatot ellátó személy munkaköre,
+
+6.6. az elektronikus információs rendszer biztonságáért felelős munkakör,
+
+6.7. a belső ellenőr.
+
 D) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 
 1. A Közbeszerzési és Ellátási Főigazgatóságnál
@@ -216,3 +232,4 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 
 [^1]: Az 1. melléklet B) részét a 47/2015. (XII. 30.) NGM rendelet 27. §-a hatályon kívül helyezte.
 [^2]: Az 1. melléklet C) rész 5. pontját a 47/2015. (XII. 30.) NGM rendelet 27. §-a iktatta be.
+[^3]: Az 1. melléklet C) Központi hivatal rész 6. pontját a 15/2016. (V. 24.) NGM rendelet 1. §-a iktatta be.
