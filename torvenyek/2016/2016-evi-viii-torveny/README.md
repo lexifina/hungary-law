@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-8-00-00
 | --- | --- | --- |
 | 2016-03-11 | 2016. évi VIII. törvény | 2016-8-00-00.0 (közlönyállapot) |
 | 2016-03-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-8-00-00.1 |
+| 2016-05-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-8-00-00.2 |
