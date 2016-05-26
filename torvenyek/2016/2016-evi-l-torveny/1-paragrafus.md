@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az ENSZ Éghajlatváltozási Keretegyezményben Részes Feleinek 21. Konferenciáján létrehozott Párizsi Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
