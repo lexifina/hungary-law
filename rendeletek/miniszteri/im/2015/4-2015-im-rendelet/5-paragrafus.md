@@ -1,3 +1,5 @@
-5. § (1) A miniszteri elismerésekre vonatkozó kezdeményezéseket a miniszter által felkért személyekből álló három fős bizottság rangsorolja.
+5. §[^7] (1) A miniszteri elismerő oklevélre és a díjra vonatkozó kezdeményezéseket a miniszter által felkért személyekből álló három fős bizottság rangsorolja.
 
-(2) A miniszter az elismerés adományozásáról a bizottság javaslatának figyelembevételével dönt.
+(2) A miniszter a miniszteri elismerő oklevél és a díj adományozásáról a bizottság javaslatának figyelembevételével dönt.
+
+[^7]: Az 5. § a 7/2016. (V. 25.) IM rendelet 4. §-ával megállapított szöveg.

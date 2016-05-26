@@ -1,1 +1,3 @@
-## 14. § A 2015. évben március 15-e alkalmából adományozható miniszteri elismerésekre – a 3. § (1) bekezdésében foglaltaktól eltérően – 2015. március 10. napjáig lehet kezdeményezést tenni.
+## 14. §[^14]
+
+[^14]: A 14. §-t a 7/2016. (V. 25.) IM rendelet 9. § b) pontja hatályon kívül helyezte.

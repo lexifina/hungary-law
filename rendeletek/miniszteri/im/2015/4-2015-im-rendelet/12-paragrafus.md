@@ -2,6 +2,9 @@
 
 (2) Az oklevél átadására a március 15-i nemzeti ünnep és az augusztus 20-i állami ünnep alkalmából, illetve kiemelkedő szakmai eseményekhez kötötten kerül sor.
 
-(3) Az oklevél adományozásával a mindenkori kormánytisztviselői illetményalap tízszeresének megfelelő összegű pénzjutalom jár.
+(3)[^11] Az oklevél adományozásával a díjazott másfél havi illetményének, de legalább a mindenkori kormánytisztviselői illetményalap tizenötszörösének megfelelő összegű pénzjutalom jár.
 
-(4) Ugyanannak a személynek oklevél legfeljebb kétévente egy alkalommal adományozható.
+(4)[^12]
+
+[^11]: A 12. § (3) bekezdése a 7/2016. (V. 25.) IM rendelet 6. §-ával megállapított szöveg.
+[^12]: A 12. § (4) bekezdését a 7/2016. (V. 25.) IM rendelet 9. § a) pontja hatályon kívül helyezte.
