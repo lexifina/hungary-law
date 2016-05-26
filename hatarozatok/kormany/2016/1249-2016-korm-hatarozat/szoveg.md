@@ -24,8 +24,6 @@ Határidő: 2017-re vonatkozóan: 2016. december 31.
 
 3. A Kormány egyetért azzal, hogy a Program során megvalósuló beruházások építtetője a Nemzeti Sportközpontok központi költségvetési szerv.
 
-4. A nyugat-magyarországi utánpótlás-nevelési centrum megvalósítási koncepciójáról és a szükséges pénzügyi fedezet biztosításáról, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1526/2014. (IX. 18.) Korm. határozat a következő 2a. ponttal egészül ki:
+4.[^1]
 
-(A Kormány)
-
-„2a. a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra figyelemmel beruházási célterületté nyilvánítja a Szombathely megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerint 0975/5 helyrajzi számú földrészletet;”.
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
