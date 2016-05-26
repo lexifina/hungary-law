@@ -1,4 +1,4 @@
-1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló, az 1. mellékletben felsorolt beruházásokkal összefüggő, a 2. mellékletben meghatározott közigazgatási hatósági ügyeket.
+1. § (1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló, az 1. mellékletben felsorolt, az 1. mellékletben megjelölt földrészleteken, illetve ezen földrészletekből telekalakítási eljárás jogerős befejezését követően kialakított földrészleteken megvalósuló beruházásokkal összefüggő, a 2. mellékletben meghatározott közigazgatási hatósági ügyeket.
 
 (2) Az (1) bekezdés alkalmazásában a beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek az 1. mellékletben felsorolt beruházások megvalósításához és használatbavételéhez szükségesek.
 
@@ -15,3 +15,5 @@ a) másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyf
 b) másodfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú szakhatóságként jár el.
 
 (5) A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló kormányrendelet (a továbbiakban: R.) hatálya alá tartozó közigazgatási hatósági eljárásokban az R.-ben a nemzetgazdasági szempontból kiemelt jelentőségű beruházások esetében kijelölt hatóságok járnak el.
+
+[^1]: Az 1. § (1) bekezdése a 111/2016. (V. 25.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 3. §-át.

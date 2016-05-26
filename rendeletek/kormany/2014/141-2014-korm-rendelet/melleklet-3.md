@@ -1,4 +1,4 @@
-3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^6]
+3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^7]
 
 A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósításra kerülő beruházások
 
@@ -152,4 +152,8 @@ A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvaló
 
 | 74. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Vajszló |
 
-[^6]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja, az 57/2015. (III. 17.) Korm. rendelet 1. § b) pontja, a 96/2015. (IV. 9.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+| 75. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló iskola-fejlesztés | Budakeszi |
+
+| 76. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló óvoda-fejlesztés | Szárföld |
+
+[^7]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja, az 57/2015. (III. 17.) Korm. rendelet 1. § b) pontja, a 96/2015. (IV. 9.) Korm. rendelet 5. § b) pontja, a 111/2016. (V. 25.) Korm. rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd az utoljára feltüntetett módosító rendelet 3. §-át.

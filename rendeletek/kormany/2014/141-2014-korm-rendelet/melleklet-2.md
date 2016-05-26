@@ -152,6 +152,10 @@
 
 | 75. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Vajszló közigazgatási területén fekvő, 37/2 helyrajzi számú ingatlan |
 
+| 76. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló iskola-fejlesztés | Budakeszi közigazgatási területén fekvő, 2306/65 helyrajzi számú ingatlan |
+
+| 77. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló óvoda-fejlesztés | Szárföld közigazgatási területén fekvő, 477 helyrajzi számú ingatlan |
+
 2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez
 
 Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
@@ -174,7 +178,7 @@ Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőség�
 
 9. útügyi hatósági eljárások,
 
-10.[^5] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+10.[^6] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 11. műszaki biztonsági engedélyezési eljárások,
 
@@ -196,4 +200,4 @@ Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőség�
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^5]: A 2. melléklet 10. pontja a 72/2015. (III. 30.) Korm. rendelet 81. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^6]: A 2. melléklet 10. pontja a 72/2015. (III. 30.) Korm. rendelet 81. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
