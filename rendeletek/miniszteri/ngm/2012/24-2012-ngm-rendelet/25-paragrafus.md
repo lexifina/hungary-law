@@ -1,7 +1,0 @@
-25. § (1) A gyakorlati képzést végző egyéb szervezet által a 24. § (3) bekezdése szerint benyújtott, a támogatás feltételeinek megfelelő támogatási igényeket – a támogatás éves előirányzata mértékéig – akként kell kielégíteni, hogy a naptári évet megelőző tanévben, tanévekben támogatásban részesített és a naptári évre is áthúzódó gyakorlati képzésekre vonatkozó igényeket kell először teljesíteni. Új igények befogadására ezt követően kerülhet sor.
-
-(2) Amennyiben az igényelt támogatások összege meghaladja a naptári évre meghatározott támogatási előirányzat mértékét, a nyújtható támogatásokról – az (1) bekezdésben meghatározott sorrend figyelembevételével – a miniszter dönt.
-
-(3)[^36] Amennyiben az alaprészből e célra nyújtható támogatásra szóló keretösszeg éves előirányzata a gyakorlati képzést végző egyéb szervezettel megkötött támogatási szerződés alapján teljes mértékben kötelezettségvállalással leterhelésre került, az NSZFH a további támogatási szerződések megkötését felfüggeszti, és az erről szóló közleményét a hivatalos honlapján haladéktalanul közzéteszi. A közlemény közzétételét követően a gyakorlati képzést végző egyéb szervezeteknek a 24. § (3) bekezdése alapján igénybejelentés benyújtására csak akkor van lehetősége, ha az NSZFH a támogatási szerződések ismételt megkötésének lehetőségéről újabb közleményt jelentet meg.
-
-[^36]: A 25. § (3) bekezdése az 55/2014. (XII. 31.) NGM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
