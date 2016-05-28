@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-41-00-00
 | 2015-07-13 | 2015. évi CXIV. törvény | 2012-41-00-00.12 |
 | 2015-07-18 | 2015. évi CIII. törvény | 2012-41-00-00.13 |
 | 2015-08-01 | 2015. évi CXIV. törvény | 2012-41-00-00.14 |
+| 2016-05-28 | 2016. évi XLVI. törvény | 2012-41-00-00.15 |

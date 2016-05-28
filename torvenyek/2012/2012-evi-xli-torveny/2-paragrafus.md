@@ -40,7 +40,9 @@ b) trolibusz: a közszolgáltatási szerződések odaítélése szempontjából 
 
 c) közúti jármű: az autóbusz, az iskolabusz, a közösségi busz, a személytaxi és a személygépkocsis személyszállító szolgáltatás eszköze,
 
-d) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra szolgáló gépi hajtású vízi jármű, valamint a komp;
+d) különleges személyszállító szolgáltatást nyújtó jármű: személyszállító szolgáltatáshoz használt – a c) pontban meghatározott közúti járműkörbe nem tartozó – a közúti közlekedésről szóló törvény szerinti közúti jármű, kivéve a személygépkocsit, amellyel különleges személyszállító szolgáltatás nem végezhető,
+
+e) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra szolgáló gépi hajtású vízi jármű, valamint a komp;
 
 13. kabotázs: a vasúti személyszállítás területén a közösségi vasutak fejlesztéséről szóló 91/440/EGK tanácsi irányelv, valamint a vasúti infrastruktúra-kapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról szóló 2001/14/EK irányelv módosításáról szóló 2007/58/EK irányelv 1.1. cikk. 8. pontja, a közúti személyszállítás területén a 1073/2009/EK rendelet 2. cikk 7. pontja szerinti tevékenység;
 
