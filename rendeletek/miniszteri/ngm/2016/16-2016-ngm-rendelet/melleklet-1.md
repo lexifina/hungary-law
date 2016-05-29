@@ -1,3 +1,5 @@
+## 40. §[^2]
+
 1. melléklet a 16/2016. (V. 27.) NGM rendelethez
 
 Az NFA képzési alaprészből egyedi döntési eljárás alapján nyújtható támogatásra irányuló kérelem tartalmi és formai elemei
@@ -119,3 +121,5 @@ Az NFA képzési alaprészből egyedi döntési eljárás alapján nyújtható t
 7.12. A bírálóbizottság tagjainak tervezett összetétele, vezetője, a tagok esetleges díjazása
 
 7.13. A végső kedvezményezettre vonatkozóan az elszámoltatás és ellenőrzés bemutatása
+
+[^2]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
