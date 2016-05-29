@@ -1,1 +1,0 @@
-## 1. § A fejezeti és az egyes központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 7/2016. (IV. 8.) NFM rendelet (a továbbiakban: NFM rendelet) 1. melléklete az 1. melléklet szerint módosul.
