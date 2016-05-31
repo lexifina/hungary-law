@@ -24,6 +24,8 @@ d) a betét tulajdonosa helyi önkormányzat vagy
 
 e) a kártalanítást a fióktelep létesítésének helye szerinti ország betétbiztosítási rendszere fizeti ki a 209. § (9)–(10) bekezdése alapján.
 
+(1c) Ha az OBA nem fizeti ki a kártalanítást a betétesek részére hét munkanapon belül, a természetes személy betétes írásban kérelmet nyújthat be az OBA-hoz a betét sürgős kifizetése érdekében. Az OBA a hitelintézet által a 228. § (8) bekezdésében meghatározottak szerint rendelkezésre bocsátott betétnyilvántartásban szereplő betétes részére a betétnyilvántartásban szereplő betét alapján a sürgős kifizetésre vonatkozó kérelem benyújtásától számított öt munkanapon belül részkifizetést teljesít, amely nem haladhatja meg a mindenkori öregségi nyugdíjminimum négyszeresét. A sürgős kifizetés keretében teljesített kártalanítás összege a teljes kártalanítás összegét csökkenti.
+
 (2) Az OBA legalább két országos napilapban, valamint honlapján közzéteszi a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az OBA által közzétett információkat a kártalanítással érintett hitelintézet a honlapján is közzéteszi.
 
 (3) A betétet gyűjtő hitelintézet a névre szóló betét esetén köteles a betétes nevén kívül – a 2. mellékletben felsoroltak közül az OBA előírásai szerint – két további azonosító adatot nyilvántartani, a kártalanításra való jogosultság egyértelmű megállapítása érdekében.
