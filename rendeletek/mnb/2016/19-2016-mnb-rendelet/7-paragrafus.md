@@ -1,0 +1,1 @@
+## 6. § Az éves hozzájárulási arány mértékét az MNB javaslatát alapul véve az OBA igazgatótanácsa határozza meg, figyelembe véve az üzleti ciklus alakulását és a befizetések esetleges prociklikus hatását a tagintézetek pénzügyi helyzetére vonatkozóan.
