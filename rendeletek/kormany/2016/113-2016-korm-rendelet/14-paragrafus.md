@@ -1,0 +1,1 @@
+## „(7) Az eljáró hatóság az (1) bekezdésben foglaltak szerint a visszaküldés akadályának fennállását folyamatosan, de legalább évente felülvizsgálja. A visszaküldés akadályának megszűnése esetén az eljáró hatóság a határozat végrehajtását folytatja.”

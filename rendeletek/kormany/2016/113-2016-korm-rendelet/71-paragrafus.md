@@ -1,0 +1,1 @@
+## „(3) Az ellátás, illetve a támogatás iránti kérelem benyújtása során a menekült és az oltalmazott személyazonosító igazolványával, illetve annak kiállításáig az elismerésről szóló jogerős határozattal, a menedékes és a befogadott érvényes tartózkodási engedélyével igazolhatja az ellátásra, illetve a támogatásra való jogosultságát.”
