@@ -320,15 +320,13 @@
 
 | 21 | LHB18 | Fertő | 1500’ (450 m) AGL | Egész évben | természetvédelem |
 
-| 473831N | 0165158E |
+| a 474052N 0164600E középpont körüli 7,6 km sugarú kör és az országhatár által bezárt terület |
 
-| 473630N | 0164330E |
+| 22 | LHB19A | Gerecse | 1500’ (450 m) AGL | Egész évben | természetvédelem |
 
-| 473315N | 0164313E |
+| 474419N | 0181530E |
 
-| majd ez egy 7,6 km sugarú, 473641N 0164632E középpontú ÉNY irányú körívvel lezárva. |
-
-| 22 | LHB19 | Gerecse | 1500’ (450 m) AGL | Egész évben | természetvédelem |
+| 474338N | 0181731E |
 
 | 474358N | 0183115E |
 
@@ -336,27 +334,51 @@
 
 | 473409N | 0182237E |
 
-| 474338N | 0181731E |
+| 474000N | 0181920E |
 
-| 474358N | 0183115E |
+| 474000N | 0181703E |
 
-| 23 | LHB20 | Nyirkai-hany | 1500’ (450 m) AGL | Egész évben | természetvédelem |
+| 474146N | 0181530E |
 
-| 474236N | 0170534E |
+| 474419N | 0181530E |
 
-| 474308N | 0171347E |
+| LHB19B | Tatai Öreg-tó | 1500’ (450 m) AGL | október 1.– március 31. között | természetvédelem |
 
-| 474211N | 0171346E |
+| 473647N | 0182109E |
 
-| 474007N | 0170956E |
+| 473727N | 0181857E |
 
-| 473929N | 0170145E |
+| 474000N | 0181703E |
 
-| 474209N | 0170115E |
+| 474000N | 0181920E |
 
-| Országhatár |
+| 473647N | 0182109E |
 
-| 474241N | 0170527E |
+| 23 | LHB20 | Dél-Hanság | 1500’ (450 m) AGL | Egész évben | természetvédelem |
+
+| 474235N | 0170529E |
+
+| 474235N | 0170530E |
+
+| 474307N | 0171343E |
+
+| 474210N | 0171342E |
+
+| 474006N | 0170952E |
+
+| 473933N | 0170818E |
+
+| 473847N | 0170555E |
+
+| 473849N | 0170149E |
+
+| 474204N | 0170112E |
+
+| 474216N | 0170226E |
+
+| 474230N | 0170535E |
+
+| 474235N | 0170529E |
 
 | 24 | LHB21 | Fehér-tó, Barbacsi-tó | 1500’ (450 m) AGL | Egész évben | természetvédelem |
 

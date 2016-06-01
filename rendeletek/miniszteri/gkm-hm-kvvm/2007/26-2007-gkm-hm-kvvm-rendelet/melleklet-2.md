@@ -1042,6 +1042,34 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 42 | LHBC Drop Zone 7 km sugarú kör a 464036N 0210938E középpont körül | FL155 (4750 m STD) / 4000’ (1200 m) | (ICAO „G”) Közzétett üzemidő szerint |
 
+| 43 | LHHO Drop Zone | FL145 (4400 m STD) / GND | (ICAO „G”) Közzétett üzemidő szerint |
+
+| 472810N | 0212450E |
+
+| 472228N | 0211500E |
+
+| 472733N | 0211500E |
+
+| 472942N | 0211839E |
+
+| 472810N | 0212450E |
+
+| 44 | LHKI Drop Zone | 3500’ (1050 m) AMSL / GND | (ICAO „G”) Közzétett üzemidő szerint csak műrepülés |
+
+| 463939N | 0191442E |
+
+| 463914N | 0191511E |
+
+| 463854N | 0191434E |
+
+| 463919N | 0191403E |
+
+| 463939N | 0191442E |
+
+| 45 | LHSZ Drop Zone | FL115 (3500 m STD) / GND | (ICAO „G”) Közzétett üzemidő szerint |
+
+| 2 km (1 NM) sugarú kör a 463642N 0201700E középpont körül |
+
 III. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
-[^53]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(3) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § a) pontja, a 31/2015. (VI. 19.) NFM rendelet 1. § (1) bekezdése, a 35/2015. (VI. 29.) NFM rendelet 1. §-a, a 65/2015. (XI. 13.) NFM rendelet 8. §-a szerint módosított szöveg.
+[^53]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(3) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § a) pontja, a 31/2015. (VI. 19.) NFM rendelet 1. § (1) bekezdése, a 35/2015. (VI. 29.) NFM rendelet 1. §-a, a 65/2015. (XI. 13.) NFM rendelet 8. §-a, a 14/2016. (V. 27.) NFM rendelet 1. § (1) bekezdése szerint módosított szöveg.

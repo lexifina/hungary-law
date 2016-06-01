@@ -512,4 +512,4 @@
 
 együttes rendelethez[^54]
 
-[^54]: A 3. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 11. § (1) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § b) pontja, a 31/2015. (VI. 19.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^54]: A 3. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 11. § (1) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § b) pontja, a 31/2015. (VI. 19.) NFM rendelet 1. § (2) bekezdése, a 14/2016. (V. 27.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
