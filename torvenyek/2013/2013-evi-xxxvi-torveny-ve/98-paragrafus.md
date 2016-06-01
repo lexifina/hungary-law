@@ -10,12 +10,16 @@ c) a közügyektől eltiltott,
 
 d) a szabadságvesztés-büntetését tölti.
 
-(2) A Nemzeti Választási Iroda elektronikus úton, egyedi informatikai alkalmazás igénybevételével, közvetlen adathozzáféréssel átveszi a polgárok törvényben meghatározott adatait
+(1a) A választójoggal nem rendelkező polgárok nyilvántartása az (1) bekezdésben meghatározott személyek 2/A. melléklet szerinti adatait tartalmazza.
 
-a) a gondnokoltak nyilvántartásából,
+(2) A választójoggal nem rendelkező polgárok nyilvántartásába történő felvétel, valamint az onnan való törlés céljából
 
-b) a bűntettesek nyilvántartásából.
+a) a gondnokoltak nyilvántartását vezető szerv a gondnokoltak nyilvántartásának törvényben meghatározott adatait az (1) bekezdés a) pontjában foglaltakra tekintettel,
 
-(3) A Nemzeti Választási Iroda a választójoggal nem rendelkező polgárok nyilvántartásának karbantartását a személyazonosító és lakcímadatok tekintetében a polgárok személyi és lakcím adatait tartalmazó nyilvántartásból való rendszeres adatátvétellel biztosítja.
+b) a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszer törvényben meghatározott adatait az (1) bekezdés b)–d) pontjában foglaltakra tekintettel
+
+automatikus adattovábbítás útján továbbítja a Nemzeti Választási Iroda számára.
+
+(3) A Nemzeti Választási Iroda az adatok változásának a nyilvántartásban történő feltüntetése céljából a választójoggal nem rendelkező polgárok nyilvántartásának karbantartását a személyiadat- és lakcímnyilvántartás hatálya alá tartozó polgárok személyazonosító és lakcímadatai tekintetében a személyiadat- és lakcímnyilvántartásból való rendszeres adatátvétellel biztosítja.
 
 (4) Ha a polgár választójogosultságát visszanyerte, adatait a választójoggal nem rendelkező polgárok nyilvántartásából törölni kell. A választójoggal nem rendelkező polgárok nyilvántartásából törölt polgár adatait a törléstől számított hat hónapig meg kell őrizni.

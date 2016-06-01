@@ -1,45 +1,23 @@
-## A központi névjegyzék adattartalma
+## A választójoggal nem rendelkező polgárok nyilvántartásának adattartalma
 
-## A központi névjegyzék tartalmazza
+## A választójoggal nem rendelkező polgárok nyilvántartása tartalmazza a polgár
 
-## a) a választópolgár nevét, születési nevét,
+## a) nevét,
 
-## b) a választópolgár személyi azonosítóját,
+## b) születési nevét,
 
-## c) a választópolgár magyarországi lakóhelyének és tartózkodási helyének címét,
+## c) személyi azonosítóját, ha azzal a polgár rendelkezik,
 
-## d) a választópolgár anyja nevét,
+## d) magyarországi lakcímét,
 
-## e) a választópolgár születési helyét és idejét,
+## e) anyja nevét,
 
-## f) a magyarországi lakcímmel nem rendelkező választópolgár esetében továbbá a magyar állampolgárságát igazoló okiratának típusát és számát, ha nem rendelkezik személyi azonosítóval,
+## f) születési helyét,
 
-## g) annak megjelölését, hogy a választópolgár mely választáson, mely választókerületben rendelkezik a szavazás jogával, mely választáson választható,
+## g) születési idejét,
 
-## h) annak megjelölését, hogy melyik településen és egyéni választókerületben szerepelt a választópolgár a szavazóköri névjegyzékben a helyi önkormányzati képviselők és polgármesterek legutóbbi választásának napján,
+## h) aktív, illetve passzív választójoga hiányának tényét és
 
-## i) az Európai Unió más tagállamának állampolgáraként az Európai Parlament tagjainak választására névjegyzékbe vett választópolgár esetében továbbá
-
-## ia) állampolgárságát,
-
-## ib) ha rendelkezésre áll, annak a településnek vagy választókerületnek a megjelölését, amelynek névjegyzékébe az állampolgársága szerinti tagállamban legutóbb felvették,
-
-## j) a nemzetiségi választópolgárként névjegyzékbe vett választópolgár esetében annak megjelölését, hogy a választópolgár
-
-## ja) mely nemzetiséghez tartozóként szerepel a névjegyzékben,
-
-## jb) nemzetiségi választópolgárként történt névjegyzékbe vétele az országgyűlési képviselők választására is kiterjed-e,
-
-## k) annak megjelölését, hogy a fogyatékossággal élő választópolgár milyen, a 88. § szerinti segítséget igényel,
-
-## l) a 89. § szerinti nyilatkozat tartalmát,
-
-## m) a választópolgárnak a 92. § (2) bekezdése szerint bejelentett postacímét, email címét vagy telefax számát, ezek hiányában a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba bejelentett értesítési címét,
-
-## n) a választókerület és a szavazókör megjelölését,
-
-## o) a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár központi névjegyzékbe vételének, illetve a 97. § (1) bekezdés b) pontjában meghatározott cselekmény központi névjegyzékben történt rögzítésének dátumát,
-
-## p) ha a magyarországi lakcímmel nem rendelkező választópolgár a szavazási levélcsomag személyes átvételét kérte, az átvételre megjelölt település megjelölését.
+## i) a 98. § (2) bekezdése szerint továbbított adatai adatforrásának megjelölését.
 
 3. melléklet a 2013. évi XXXVI. törvényhez
