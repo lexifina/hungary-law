@@ -54,20 +54,6 @@
 
 ## 6 Úti vagy személyi okmányokon kívüli más okmányok alapján.
 
-5. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^217]
+5. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^228]
 
-HÁZASTÁRSI HOZZÁJÁRULÓ NYILATKOZAT
-
-integrációs szerződés megkötésére irányuló kérelemhez
-
-Alulírott, …………………………………… (szül. hely: ……………………………, szül. idő: …………………………, anyja neve: ………………………………) kijelentem, hogy amennyiben házastársam, …………………… (név) (szül hely: ………………………… szül. idő: ………………………, anyja neve: …………………………………) által benyújtott integrációs szerződés megkötésére irányuló kérelemre a Bevándorlási és Állampolgársági Hivatal a házastársammal szerződést köt, a szerződés rendelkezéseit magamra nézve kötelezőnek ismerem el.*
-
-Kelt: …………………………………….
-
-…………………………….
-
-ügyfél aláírása
-
-* A menekült vagy az oltalmazott magyar állampolgár családtagjára az integrációs szerződés hatálya nem terjedhet ki.
-
-[^217]: Az 5. mellékletet a 446/2013. (XI. 28.) Korm. rendelet 37. § c) pontja iktatta be.
+[^228]: Az 5. mellékletet a 446/2013. (XI. 28.) Korm. rendelet 37. § c) pontja iktatta be, a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés h) pontja hatályon kívül helyezte.

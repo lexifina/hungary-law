@@ -2,7 +2,7 @@
 
 26. § (1) Ha az elismerését kérő nem áll társadalombiztosítási jogviszonyban, betegsége esetén az egészségügyi szolgáltatások közül térítésmentesen jogosult
 
-a) a háziorvosi ellátás körébe tartozó vizsgálatokra és gyógykezelésre;
+a)[^64] külön jogszabály szerinti egészségügyi alapellátásra, a háziorvosi ellátás körébe tartozó vizsgálatokra és gyógykezelésre;
 
 b) a sürgős szükség esetén igénybe vett járóbeteg-szakellátás keretében történő vizsgálatra, gyógykezelésre, továbbá az ellátás során felhasznált gyógyszerre és kötszerre;
 
@@ -27,3 +27,5 @@ i) a b) és c) pont, a d) pont da) alpontja és a g) pont szerinti ellátások e
 j) az életkorához kötött kötelező védőoltásra.
 
 (2) E rendelet alkalmazásában sürgős szükség az egészségi állapotban bekövetkezett olyan változás, amelynek következtében azonnali egészségügyi ellátás hiányában a beteg közvetlen életveszélybe kerülne, illetve súlyos vagy maradandó egészségkárosodást szenvedne.
+
+[^64]: A 26. § (1) bekezdés a) pontja a 113/2016. (V. 30.) Korm. rendelet 64. §-ával megállapított szöveg.

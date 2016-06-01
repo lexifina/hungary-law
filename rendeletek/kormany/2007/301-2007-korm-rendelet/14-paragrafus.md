@@ -1,20 +1,20 @@
-## Szerződés alapján vagy adomány felhasználása útján teljesített ellátások[^26]
+## Szerződés alapján vagy adomány felhasználása útján teljesített ellátások[^28]
 
-14. § (1)[^27] A befogadással összefüggő feladatok hatékonyabb végrehajtása érdekében a menekültügyi hatóság az egyes ellátást és támogatást célzó feladatok teljesítésére a (2) bekezdésben felsorolt szervezetekkel szerződést köthet.
+14. § (1)[^29] A befogadással összefüggő feladatok hatékonyabb végrehajtása érdekében a menekültügyi hatóság az egyes ellátást és támogatást célzó feladatok teljesítésére a (2) bekezdésben felsorolt szervezetekkel szerződést köthet.
 
-(2)[^28] A menekültügyi hatóság különösen civil szervezettel, helyi önkormányzattal, egyházi jogi személlyel, alapítvánnyal, ezek intézményével, gazdálkodó szervezettel, valamint egyéb jogi személlyel (a továbbiakban: szolgáltató) szerződést köthet
+(2)[^30] A menekültügyi hatóság különösen civil szervezettel, helyi önkormányzattal, egyházi jogi személlyel, alapítvánnyal, ezek intézményével, gazdálkodó szervezettel, valamint egyéb jogi személlyel (a továbbiakban: szolgáltató) szerződést köthet
 
 a) az elismerését kérő számára a befogadás anyagi feltételeinek biztosítására;
 
-b) a menekültet, az oltalmazottat és a menedékest megillető ellátások biztosítására;
+b)[^31] a menekültet, az oltalmazottat, a befogadottat és a menedékest megillető, a befogadás anyagi feltételei körébe tartozó ellátások biztosítására;
 
-c) az elismerését kérő, a menekült, az oltalmazott és a menedékes szociális és mentálhigiénés gondozására;
+c)[^32] az elismerését kérő, a menekült, az oltalmazott, a befogadott és a menedékes szociális és mentálhigiénés gondozására;
 
-d) az elismerését kérő, a menekült, az oltalmazott és a menedékes jogaira és kötelezettségeire irányuló tájékoztatására; valamint
+d)[^33] az elismerését kérő, a menekült, az oltalmazott, a befogadott és a menedékes jogaira és kötelezettségeire irányuló tájékoztatására; valamint
 
 e) a menedékes magyar nyelvoktatására.
 
-(3)[^29] A (2) bekezdésben meghatározott feladatokra – a közbeszerzésekről szóló törvény előírásaira is figyelemmel – pályázat útján kell kiválasztani a szolgáltatót. A pályázati felhívást a menekültügyi hatóság teszi közzé. A pályázati felhívásnak tartalmaznia kell az ellátásban részesítendők körét és tervezett számát, valamint a nyújtandó ellátás megnevezését és biztosításának időtartamát.
+(3)[^34] A (2) bekezdésben meghatározott feladatokra – a közbeszerzésekről szóló törvény előírásaira is figyelemmel – pályázat útján kell kiválasztani a szolgáltatót. A pályázati felhívást a menekültügyi hatóság teszi közzé. A pályázati felhívásnak tartalmaznia kell az ellátásban részesítendők körét és tervezett számát, valamint a nyújtandó ellátás megnevezését és biztosításának időtartamát.
 
 (4) A szerződést írásban kell megkötni. A szerződésnek tartalmaznia kell:
 
@@ -30,7 +30,10 @@ e) a szerződés érvényességi idejét, felmondásának módját, valamint az 
 
 (5) A szerződéshez – szükség esetén – mellékelni kell a szolgáltató jogállására vonatkozó bírósági határozat, illetve a szerződésben vállalt feladatok ellátásához szükséges hatósági engedély másolatát.
 
-[^26]: A 14. §-át megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^27]: A 14. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^28]: A 14. § (2) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^29]: A 14. § (3) bekezdése a 62/2016. (III. 31.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^28]: A 14. §-át megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^29]: A 14. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^30]: A 14. § (2) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^31]: A 14. § (2) bekezdés b) pontja a 113/2016. (V. 30.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^32]: A 14. § (2) bekezdés c) pontja a 113/2016. (V. 30.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^33]: A 14. § (2) bekezdés d) pontja a 113/2016. (V. 30.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^34]: A 14. § (3) bekezdése a 62/2016. (III. 31.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.

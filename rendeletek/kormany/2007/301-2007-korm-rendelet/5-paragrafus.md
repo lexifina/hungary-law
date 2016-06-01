@@ -1,7 +1,7 @@
 ## II. Fejezet
 
-## AZ ELISMERÉSÉT KÉRŐRE, A MENEKÜLTRE, AZ OLTALMAZOTTRA ÉS A MENEDÉKESRE VONATKOZÓ SZABÁLYOK[^7]
+## AZ ELISMERÉSÉT KÉRŐRE, A MENEKÜLTRE, AZ OLTALMAZOTTRA, A BEFOGADOTTRA ÉS A MENEDÉKESRE VONATKOZÓ SZABÁLYOK[^7]
 
 ## Az elismerését kérő okmánya
 
-[^7]: A II. Fejezet címe a 409/2012. (XII. 28.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^7]: A II. fejezet címe a 113/2016. (V. 30.) Korm. rendelet 58. §-ával megállapított szöveg.

@@ -26,7 +26,7 @@ d) az ENSZ Menekültügyi Főbiztossága
 
 (6) Az országinformációs központ nem foglalhat állást jogkérdésben, valamint az elismerés iránti kérelemre vonatkozó döntés vagy az elismerés visszavonása kérdésében.
 
-(7)[^159] Az országinformációs központ az országinformációs jelentés iránti megkeresésnek legkésőbb tizenöt napon belül tesz eleget.
+(7)[^165] Az országinformációs központ az országinformációs jelentés iránti megkeresésnek legkésőbb tizenöt napon belül tesz eleget.
 
 (8) Az országinformációs központ az információgyűjtést, valamint a jelentés készítését objektíven, pártatlanul és pontosan végzi. Ennek érdekében
 
@@ -42,4 +42,4 @@ b) a valós helyzetet már nem tükröző, elavult információk helyesbítésé
 
 (10) Az országinformációs központ együttműködési megállapodást köthet külföldi állam országinformációs szolgáltatást nyújtó hatóságával vagy szervével.
 
-[^159]: A 70. § (7) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 114. §-ával megállapított szöveg.
+[^165]: A 70. § (7) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 114. §-ával megállapított szöveg.
