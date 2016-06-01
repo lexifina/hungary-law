@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2015-08-01 | 2015. évi CXXXIII. törvény | 1993-3-00-00.97 |
 | 2016-01-01 | 2015. évi CCXXIII. törvény | 1993-3-00-00.98 |
 | 2016-05-01 | 2016. évi XXVI. törvény | 1993-3-00-00.99 |
+| 2016-06-01 | 2016. évi XXXIX. törvény | 1993-3-00-00.100 |

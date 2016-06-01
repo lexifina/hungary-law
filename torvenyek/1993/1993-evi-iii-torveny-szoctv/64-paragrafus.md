@@ -20,7 +20,7 @@ e) a tartós munkanélküliek, a fiatal munkanélküliek, az adósságterhekkel 
 
 f) a kríziskezelést, valamint a nehéz élethelyzetben élő családokat segítő szolgáltatásokat,
 
-g) a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt településen és fővárosi kerületben működő családsegítést ellátó szolgáltatónak a menedékjogról szóló törvényben meghatározott integrációs szerződésbe foglalt társadalmi beilleszkedés elősegítését.
+g)
 
 (5)
 

@@ -1,1 +1,1 @@
-140/V. §
+140/V. § Az egyes migrációs tárgyú és ezekkel összefüggésben más törvények módosításáról szóló 2016. évi XXXIX. törvénnyel hatályon kívül helyezett 64. § (4) bekezdés g) pontjában meghatározottakat a 2016. június 1-jét megelőzően előterjesztett kérelem alapján megkötött integrációs szerződések tekintetében továbbra is biztosítani kell.
