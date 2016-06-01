@@ -1,3 +1,5 @@
+## 29. §[^85] Az eredményes közigazgatási vagy ügykezelői alapvizsgáról az egyes közszolgálati tárgyú kormányrendeletek módosításáról szóló 108/2016. (V. 18.) Korm. rendelet hatálybalépését[^86] megelőzően kiállított, de elveszett vagy megsemmisült bizonyítvány pótlására – a vizsgajegyzőkönyv alapján – a vizsgaszervező kérelemre hiteles bizonyítvány másodlatot állít ki. A hiteles bizonyítvány másodlat tartalma megegyezik a bizonyítványéval.
+
 1. melléklet a 174/2011. (VIII. 31.) Korm. rendelethez
 
 Közigazgatási alapvizsga vizsgaszabályzata
@@ -14,7 +16,7 @@ Közigazgatási alapvizsga vizsgaszabályzata
 
 6. A vizsgabiztos feladatainak ellátásához szükséges felkészítéséről a vizsgaszervező gondoskodik.
 
-7. A vizsgabiztos feladatai különösen: a vizsgán tájékoztatja a vizsgázót a vizsga menetéről és a vizsgáztatás rendjéről; felel a vizsgarend fenntartásáért; ellenőrzi a vizsgázó személyazonosságát; tájékoztatja a vizsgázót a vizsga eredményéről; gondoskodik a vizsgajegyzőkönyvek és bizonyítványok kiállításáról, ellenőrzi az adatok pontosságát és valódiságát; dönt a vizsgázó vizsgájának a felfüggesztéséről.
+7.[^87] A vizsgabiztos feladatai különösen: a vizsgán tájékoztatja a vizsgázót a vizsga menetéről és a vizsgáztatás rendjéről; felel a vizsgarend fenntartásáért; ellenőrzi a vizsgázó személyazonosságát; tájékoztatja a vizsgázót a vizsga eredményéről; gondoskodik a vizsgajegyzőkönyvek kiállításáról, ellenőrzi az adatok pontosságát és valódiságát; dönt a vizsgázó vizsgájának a felfüggesztéséről.
 
 8. A vizsgabiztost vizsgázónként a közigazgatási alapvizsga díj 3%-a illeti meg, amely magában foglalja a munkáltató által fizetendő járulékokat is.
 
@@ -62,58 +64,6 @@ P. H.
 
 vizsgabiztos
 
-## 1. függelék
-
-JELENTKEZÉSI LAP
-
-ügykezelői alapvizsgára
-
-1. Az ügykezelő családi és utóneve:
-
-születési családi és utóneve:
-
-anyja születési családi és utóneve:
-
-szül. helye, időpontja:
-
-besorolása:
-
-2. Az ügykezelő munkáltatójának neve, címe (a munkáltatón belül annak a szervezeti egységnek a megnevezése, ahol a jelentkező dolgozik):
-
-3. Az ügykezelő közszolgálati jogviszonyának kezdete: ....... év ............... hó ........ nap
-
-4. Az ügykezelői alapvizsga letételének határideje, ha az alól nem mentesült:
-
-......... év ................... hó ....... nap
-
-5. Vizsgára jelentkezem: ......... év .................. hónapra
-
-6. Titkos ügykezelői vizsgát tett nem tett
-
-7. Egyszerűsített vizsgát kíván tenni nem kíván tenni (Választását aláhúzással jelölje!)
-
-Indoka: ...............................................
-
-...............................................................
-
-8. Felkészítő tanfolyamon
-
-részt kíván venni nem kíván részt venni (Választását aláhúzással jelölje!)
-
-Kelt: ...................., ......... év ................. hó ....... nap
-
-...........................................
-
-ügykezelő
-
-Igazolom, hogy a jelentkezési lap adatai a valóságnak megfelelnek, a vizsgaidőpont kiválasztása a munkáltató hivatali szervezete vezetőjével egyetértésben történt, valamint, hogy a vizsgázó az ügykezelői alapvizsga letételéhez szükséges törvényi feltételekkel rendelkezik.
-
-A jelentkező felkészítő tanfolyamon való részvételéhez: hozzájárulok nem járulok hozzá
-
-Kelt: ......................., .......... év .................... hó ........ nap
-
-P. H.
-
-.......................................................
-
-hivatali szervezet vezetője
+[^85]: A 29. §-t a 108/2016. (V. 18.) Korm. rendelet 19. §-a iktatta be.
+[^86]: A hatálybalépés időpontja 2016. június 1.
+[^87]: Az 1. melléklet 7. pontja a 108/2016. (V. 18.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.

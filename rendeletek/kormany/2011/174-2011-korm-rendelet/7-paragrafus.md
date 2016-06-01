@@ -4,7 +4,7 @@
 
 ## 6. Vizsgakövetelmények
 
-7. § (1)[^29] A közigazgatási alapvizsga tárgykörei:
+7. § (1)[^35] A közigazgatási alapvizsga tárgykörei:
 
 a) alkotmányos és jogi alapismeretek,
 
@@ -22,4 +22,4 @@ g) nemzetpolitika.
 
 (2) A vizsgázónak a közigazgatási alapvizsga időpontjában közzétett vizsgakövetelmények által meghatározott tárgykörökben kell számot adnia tudásáról.
 
-[^29]: A 7. § (1) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^35]: A 7. § (1) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

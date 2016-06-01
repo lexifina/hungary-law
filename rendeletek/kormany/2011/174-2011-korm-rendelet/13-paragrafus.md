@@ -1,17 +1,18 @@
 ## 12. Adatvédelem és adatkezelés
 
-13. § (1)[^38] Az NKE működteti a Vizsgaportált, amelynek segítségével a vizsgaszervező számára biztosítja a közigazgatási alapvizsga szervezéséhez, lebonyolításához szükséges feltételeket.
+13. § (1)[^48] Az NKE működteti a központi oktatás-informatikai rendszert, amelynek segítségével a vizsgaszervező számára biztosítja a közigazgatási alapvizsga szervezéséhez, lebonyolításához szükséges feltételeket.
 
-(2)[^39] A Vizsgaportálba a vizsgázó és a munkáltató regisztrál. A vizsgázó regisztrációja során rögzített személyes adatainak, valamint a munkáltató által rögzített adatoknak a jogszerű kezelését az NKE biztosítja.
+(2)[^49] A központi oktatás-informatikai rendszerbe a vizsgázó és a munkáltató regisztrál. A vizsgázó regisztrációja során rögzített személyes adatainak, valamint a munkáltató által rögzített adatoknak a jogszerű kezelését az NKE biztosítja.
 
-(3) A vizsga során egyedileg generált, a vizsgázó által kitöltött feladatlapokat a 17. §-ban meghatározott jogorvoslati határidő lejártáig (három hónap) őrzik a nyilvántartásban.
+(3)[^50] A vizsga során egyedileg generált, a vizsgázó által kitöltött feladatlapokat a 17. §-ban meghatározott jogorvoslati határidő lejártáig őrzik a nyilvántartásban.
 
 (4) A közigazgatási alapvizsga nyilvántartás kizárólag a vizsgajegyzőkönyvekben foglalt adatokat tartalmazza.
 
-(5)[^40] A közigazgatási alapvizsga nyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért az NKE vezetője felelős. Az NKE vezetője adatvédelmi szabályzatban határozza meg az iratok, adatok kezelésének adatvédelmi, adatbiztonsági szabályait.
+(5)[^51] A közigazgatási alapvizsga nyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért az NKE vezetője felelős. Az NKE vezetője adatvédelmi szabályzatban határozza meg az iratok, adatok kezelésének adatvédelmi, adatbiztonsági szabályait.
 
 (6) A (2) bekezdésben meghatározott személyes adatok kizárólag a közigazgatási alapvizsgáról készített vizsgajegyzőkönyv és vizsgabizonyítvány előállítására használhatóak fel.
 
-[^38]: A 13. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés d) pontja, a 273/2012. (IX. 28.) Korm. rendelet 31. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^39]: A 13. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés b) pontja szerint módosított szöveg.
-[^40]: A 13. § (5) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés b) pontja szerint módosított szöveg.
+[^48]: A 13. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés d) pontja, a 273/2012. (IX. 28.) Korm. rendelet 31. § (5) bekezdés b) pontja, a 108/2016. (V. 18.) Korm. rendelet 21. § m) pontja szerint módosított szöveg.
+[^49]: A 13. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés b) pontja, a 108/2016. (V. 18.) Korm. rendelet 21. § n) pontja szerint módosított szöveg.
+[^50]: A 13. § (3) bekezdése a 108/2016. (V. 18.) Korm. rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^51]: A 13. § (5) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés b) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 ## 18. Vizsgakövetelmények
 
-19. § (1)[^47] Az ügykezelői alapvizsga tárgykörei:
+19. § (1)[^65] Az ügykezelői alapvizsga tárgykörei:
 
 a) a közigazgatás felépítése és működése,
 
@@ -20,4 +20,4 @@ f) adatvédelmi és titkos ügykezelési ismeretek.
 
 (2) A vizsgázónak a gyakorlati és szóbeli részvizsgán a vizsga időpontjában közzétett vizsgakövetelmények által meghatározott tárgykörökben kell számot adnia tudásáról.
 
-[^47]: A 19. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (13) bekezdésével megállapított szöveg.
+[^65]: A 19. § (1) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (13) bekezdésével megállapított szöveg.
