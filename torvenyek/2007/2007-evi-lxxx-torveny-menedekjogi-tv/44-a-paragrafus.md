@@ -1,0 +1,1 @@
+44/A. § Ha az ezen törvény alapján indult eljárásban az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amely eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül magalapozottan nem dönthető el, a menekültügyi hatóság az eljárást felfüggesztheti.

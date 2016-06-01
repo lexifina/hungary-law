@@ -1,6 +1,6 @@
 ## VI. Fejezet
 
-## A BEFOGADÁSI FELTÉTELEK, A MENEKÜLTÜGYI ŐRIZET; A MENEKÜLT, AZ OLTALMAZOTT, VALAMINT A MENEDÉKES ELLÁTÁSA ÉS TÁMOGATÁSA
+## A BEFOGADÁSI FELTÉTELEK, A MENEKÜLTÜGYI ŐRIZET; A MENEKÜLT, AZ OLTALMAZOTT, A BEFOGADOTT, VALAMINT A MENEDÉKES ELLÁTÁSA ÉS TÁMOGATÁSA
 
 ## A befogadási feltételek
 
@@ -11,3 +11,5 @@
 (3) Ha az elismerését kérő – különösen tartós munkavállalása esetén – nem minősül rászorultnak, a menekültügyi hatóság megkövetelheti a befogadás anyagi feltételeinek, illetve az egészségügyi ellátás költségeinek részben vagy egészben történő megtérítését.
 
 (4) Ha bebizonyosodik, hogy az elismerését kérő rendelkezett a befogadás anyagi feltételei, illetve az egészségügyi ellátás fedezetével, miközben ezeket számára a (2) bekezdés alapján a menekültügyi hatóság biztosította, a menekültügyi hatóság elrendelheti az elismerését kérő számára a költségek visszatérítését.
+
+(5) Az e törvény alapján jogtalanul felvett ellátások és szolgáltatások összege adók módjára behajtható köztartozásnak minősül. Az e törvény alapján biztosított, jogtalanul felvett ellátások és szolgáltatások összegének visszafizetése érdekében, az önkéntes visszafizetés elmaradása esetén a menekültügyi hatóság elrendeli a visszafizetendő összeg behajtását.

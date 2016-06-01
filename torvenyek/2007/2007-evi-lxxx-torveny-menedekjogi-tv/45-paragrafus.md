@@ -6,7 +6,7 @@
 
 (3) A menekültügyi hatóság az elismerés iránti kérelem elutasítására, valamint az elismerés visszavonására vonatkozó döntésében megállapítja a visszaküldés tilalmának fennállását vagy fenn nem állását.
 
-(4) Az (1) vagy a (2) bekezdés szerinti tilalom fennállása esetén a menekültügyi hatóság javaslatára az idegenrendészeti hatóság a külföldit befogadottként ismeri el.
+(4) Az (1) vagy a (2) bekezdés szerinti tilalom fennállása esetén a menekültügyi hatóság a külföldit befogadottként ismeri el.
 
 (5) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és – ha a külföldi más jogcímen nem jogosult Magyarország területén tartózkodni – a külföldi a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról és kitoloncolásáról, valamint megállapítja a beutazási és tartózkodási tilalom időtartamát.
 
@@ -16,6 +16,6 @@
 
 (8) A menekültügyi hatóság által elrendelt kiutasítást és kitoloncolást az idegenrendészeti hatóság hajtja végre.
 
-(9)
+(9) Az (5) és (6) bekezdésben foglaltaktól eltérően a menekültügyi hatóság nem dönt a kiutasításról, ha az elismerést kérővel szemben jogerős kiutasítás elrendelésére korábban már sor került.
 
 (10) A (3) bekezdésben foglaltak nem alkalmazhatók, ha a kérelmező származási országa nem igazolt, vagy valószínűsített.

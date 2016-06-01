@@ -12,7 +12,7 @@ e) ha az elismerését kérő dublini eljárás alapján került átvételre, az
 
 f) a menekültkénti vagy oltalmazottkénti, valamint a menedékeskénti elismerés iránti kérelem benyújtásának, valamint a benyújtott kérelem visszavonásának tényét és időpontját;
 
-g) a menekültkénti, oltalmazottkénti vagy menedékeskénti elismerés tényét és időpontját, a határozatot hozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a határozat hatálya hány személyre terjed ki;
+g) a menekültkénti, oltalmazottkénti, befogadottkénti vagy menedékeskénti elismerés tényét és időpontját, a határozatot hozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a határozat hatálya hány személyre terjed ki;
 
 h) az elismerés iránti kérelem elutasításának, a menekültügyi eljárás megszüntetésének, valamint az elismerés visszavonásának tényét, okát és időpontját, a döntéshozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a döntés hatálya hány személyre terjed ki;
 
@@ -65,6 +65,16 @@ b) a tizenkettedik életévét betöltött elismerését kérő esetében a víz
 (6) A menekültügyi hatóság a (3) bekezdés b) pontjában meghatározott célból rögzített ujjnyomat-adatot kizárólag a VIS rendelet 21. és 22. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.
 
 (7) Az e törvény alapján kiadott okmányok a menekültügyi nyilvántartásban szereplő adatok közül azokat tartalmazzák, amelyek a jogosult személyazonosságának megállapításához, valamint az okmány által biztosított jogosultság fennállásának igazolásához szükségesek.
+
+(7a) A menekültügyi hatóság kezeli:
+
+a) az e törvény alapján kiadott, elveszettként, eltulajdonítottként vagy megsemmisültként bejelentett okmány típusát, azonosító adatait, valamint a Schengeni Információs Rendszerbe elhelyezett figyelmeztető jelzés tényét;
+
+b) a bejelentés időpontját; valamint
+
+c) a bejelentést felvevő szerv megnevezését.
+
+(7b) A menekültügyi hatóság a (7a) bekezdésben meghatározott adatokat az e törvény alapján kiadott okmány megtalálásáig, ennek hiányában a bejelentéstől számított 10 évig kezeli.
 
 (8) A menekültügyi hatóság a menedékesként elismert harmadik országbeli állampolgárnak a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatait kezeli.
 

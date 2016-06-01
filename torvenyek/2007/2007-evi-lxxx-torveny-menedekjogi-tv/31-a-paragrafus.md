@@ -12,7 +12,7 @@ d) az elismerését kérő őrizetbe vétele a nemzetbiztonság vagy a közrend 
 
 e) a kérelem előterjesztésére repülőtéri eljárásban került sor, vagy
 
-f) dublini átadás végrehajtása érdekében szükséges és komoly veszély áll fenn a szökésre.
+f) a dublini átadási eljárások biztosítása érdekében szükséges, és komoly veszély áll fenn a szökésre.
 
 (1a) A dublini átadás végrehajtása érdekében a menekültügyi hatóság menekültügyi őrizetbe veheti azt a külföldit, aki Magyarországon menedékjog iránti kérelmet nem terjesztett elő, és esetében dublini átadásnak van helye.
 

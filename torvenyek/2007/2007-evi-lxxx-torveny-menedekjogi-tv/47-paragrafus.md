@@ -8,4 +8,4 @@
 
 (3) Amennyiben a (2) bekezdésben foglaltak alapján rövidebb időtartamú eljárásnak nincs helye, azt a kérelem benyújtásától számított hatvan napon belül kell lefolytatni.
 
-(4) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(4)

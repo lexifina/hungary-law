@@ -1,4 +1,4 @@
-32/A. § (1) A menekült, az oltalmazott, továbbá a menedékes számára biztosított befogadás anyagi feltételei, valamint a jogszabályban meghatározott ellátások és támogatások korlátozhatók vagy megvonhatók, ha a menekült, az oltalmazott, továbbá a menedékes
+32/A. § (1) A menedékes számára biztosított befogadás anyagi feltételei, valamint a jogszabályban meghatározott ellátások és támogatások korlátozhatók vagy megvonhatók, ha a menedékes
 
 a) a befogadó állomáson irányadó magatartási szabályokat ismételten vagy súlyosan megszegi,
 
