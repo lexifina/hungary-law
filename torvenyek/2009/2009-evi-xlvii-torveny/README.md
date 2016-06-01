@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-47-00-00
 | 2015-07-01 | 2014. évi LXXII. törvény | 2009-47-00-00.26 |
 | 2015-12-01 | 2015. évi XCII. törvény | 2009-47-00-00.27 |
 | 2016-01-01 | 2015. évi CLII. törvény | 2009-47-00-00.28 |
+| 2016-06-01 | 2015. évi CCXIX. törvény | 2009-47-00-00.29 |

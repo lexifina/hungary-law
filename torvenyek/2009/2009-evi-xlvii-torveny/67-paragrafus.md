@@ -12,6 +12,10 @@ b) az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 
 c) az arra jogosult kérelmére adatot igazol, vagy
 
-d) az útlevélhatóságnak a külföldre utazási korlátozás törlése céljából automatikus adattovábbítás alapján adatot továbbít.
+d) automatikus adattovábbítás útján adatot továbbít
+
+da) az útlevélhatóság részére a külföldre utazási korlátozás törlése céljából,
+
+db) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére a nyilvántartásba történő felvétel, az abban történő módosítás, valamint az onnan való törlés céljából.
 
 (2) A bűnügyi nyilvántartási rendszerben kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.

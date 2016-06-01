@@ -92,11 +92,7 @@ k) befogadás során a terhelt személyazonosságának ellenőrzése céljából
 
 l) határ-ellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
-(3) A választójoggal nem rendelkező polgárok nyilvántartását vezető szerv közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
-
-a) a 11. § (1) bekezdés e), f), h) és i) pontjában, a 11. § (2) bekezdés a), d) és e) pontjában meghatározott adatok, továbbá
-
-b) a 16. § (1) bekezdés f) és i) pontjában, a 16. § (2) bekezdés a), d) és k) pontjában meghatározott adatok.
+(3)
 
 (4) A köztársasági elnök döntésének előkészítése céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
