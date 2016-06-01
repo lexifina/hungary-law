@@ -15,11 +15,3 @@ f) a harmadik országbeli állampolgárok idénymunkásként való munkavállal�
 g) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-i 2014/66/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
