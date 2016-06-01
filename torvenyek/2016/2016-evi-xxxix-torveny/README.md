@@ -1,0 +1,7 @@
+# 2016. évi XXXIX. törvény egyes migrációs tárgyú és ezekkel összefüggésben más törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-39-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2016-06-01 | 2016. évi XXXIX. törvény | 2016-39-00-00.0 (közlönyállapot) |
