@@ -8,11 +8,11 @@
 
 (4) A visszaküldési tilalom vizsgálata az EGT-állampolgárral, illetve a családtaggal szemben elrendelt kitoloncolási őrizet végrehajtását, illetve a kijelölt helyen való tartózkodás kötelezettségét nem érinti.
 
-(5)[^106] Az eljáró hatóság a határozat végrehajtását felfüggeszti és kezdeményezi a humanitárius tartózkodási engedély kiállítását, ha eljárásában megállapítja a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását.
+(5)[^106] Az eljáró hatóság a határozat végrehajtását felfüggeszti és kezdeményezi a humanitárius tartózkodási engedély kiállítását, ha a menekültügyi hatóság véleménye alapján az eljárásában megállapítja a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását.
 
 (6) A Tv. 34. § (1) bekezdése szerinti tilalom fennállását nem alapozhatja meg az a körülmény, hogy az EGT-állampolgár vagy a családtag részére a származási államának külképviselete nem állítja ki a hazatérésre szolgáló úti okmányt.
 
-(7)[^107] A regionális igazgatóság a visszaküldés akadályának fennállását folyamatosan, de a központi idegenrendészeti nyilvántartó szerv megkeresése alapján legalább évente felülvizsgálja. A visszaküldés akadályának megszűnése esetén az eljáró hatóság a határozat végrehajtását folytatja.
+(7)[^107] Az eljáró hatóság az (1) bekezdésben foglaltak szerint a visszaküldés akadályának fennállását folyamatosan, de legalább évente felülvizsgálja. A visszaküldés akadályának megszűnése esetén az eljáró hatóság a határozat végrehajtását folytatja.
 
-[^106]: A 45. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 89. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^107]: A 45. § (7) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 89. § (2) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^106]: A 45. § (5) bekezdése a 113/2016. (V. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^107]: A 45. § (7) bekezdése a 113/2016. (V. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
