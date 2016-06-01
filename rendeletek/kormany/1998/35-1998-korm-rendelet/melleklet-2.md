@@ -1,4 +1,6 @@
-## 2. függelék[^74]
+## 1. függelék[^78]
+
+## 2. függelék[^79]
 
 ## JEGYZŐKÖNYV
 
@@ -6,9 +8,9 @@
 
 ## 1. A vizsgázó neve (születési neve):
 
-## anyja neve:
+## anyja születési neve:
 
-## szül. helye, időpontja:
+## születési helye, időpontja:
 
 ## munkáltatójának neve, címe:
 
@@ -20,25 +22,17 @@
 
 ## A kötelező vizsgatárgy minősítése:
 
-## 4. A választott vizsgatárgy minősítése:
+## 4. Megjegyzés:
 
-## 5. Megjegyzés:
-
-| A vizsgázó |  | szám alatt |
-
-|  | minősítéssel |
-
-## bizonyítványt kapott.
-
-## Kelt: ......................., .......... év .................... hó ........ nap
+## Kelt: ...................., ......... év ................. hó ....... nap
 
 ## P. H.
 
-| ................................................................ | ................................................................ |
+|  | ......................................................... | ......................................................... |
 
-| vizsgáztató bizottság tagja | vizsgáztató bizottság tagja |
+|  | vizsgáztató bizottság tagja | vizsgáztató bizottság tagja |
 
-## ................................................................
+## .........................................................
 
 ## vizsgáztató bizottság elnöke
 
@@ -48,9 +42,9 @@
 
 ## 1. A vizsgázó neve (születési neve):
 
-## anyja neve:
+## anyja születési neve:
 
-## szül. helye, időpontja:
+## születési helye, időpontja:
 
 ## munkáltatójának neve, címe:
 
@@ -62,40 +56,25 @@
 
 ## A választott vizsgatárgy minősítése:
 
-## 4. A kötelező vizsgatárgy minősítése:
+## 4. Megjegyzés:
 
-## 5. Megjegyzés:
-
-| A vizsgázó |  | szám alatt |
-
-|  | minősítéssel |
-
-## bizonyítványt kapott.
-
-## Kelt: ......................., .......... év .................... hó ........ nap
+## Kelt: ...................., ......... év ................. hó ....... nap
 
 ## P. H.
 
-| ................................................................ | ................................................................ |
+|  | ......................................................... | ......................................................... |
 
-| vizsgáztató bizottság tagja | vizsgáztató bizottság tagja |
+|  | vizsgáztató bizottság tagja | vizsgáztató bizottság tagja |
 
-## ................................................................
+## .........................................................
 
 ## vizsgáztató bizottság elnöke
 
-## 3. függelék[^75]
+## 3. függelék[^80]
 
-## VIZSGANYILVÁNTARTÓ KÖNYV
+2. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^81]
 
-| VIZSGANYILVÁNTARTÓ KÖNYV |
-
-| Sor- szám | Vizsgázó neve, szül. helye, ideje, anyja neve | Munkáltató neve, címe | A bizonyítvány | Vizsgabizottság tagjainak megnevezés |
-
-| minősítése | kelte |
-
-2. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^76]
-
-[^74]: Az 1. számú melléklet 2. számú függeléke a 126/2011. (VII. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg, a 43/2014. (II. 25.) Korm. rendelet 1. § (5) bekezdése szerint módosított szöveg.
-[^75]: Az 1. számú melléklet 3. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés j) pontja szerint módosított szöveg.
-[^76]: A 2. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés k) pontja, a 415/2012. (XII. 29.) Korm. rendelet 5. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^78]: Az 1. számú melléklet 1. függelékét a 108/2016. (V. 18.) Korm. rendelet 8. § (1) bekezdése hatályon kívül helyezte.
+[^79]: Az 1. számú melléklet 2. függeléke a 108/2016. (V. 18.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^80]: Az 1. számú melléklet 3. függelékét a 108/2016. (V. 18.) Korm. rendelet 8. § (1) bekezdése hatályon kívül helyezte.
+[^81]: A 2. számú melléklet a 108/2016. (V. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
