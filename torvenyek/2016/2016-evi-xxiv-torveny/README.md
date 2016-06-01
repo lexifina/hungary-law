@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-24-00-00
 | --- | --- | --- |
 | 2016-04-20 | 2016. évi XXIV. törvény | 2016-24-00-00.0 (közlönyállapot) |
 | 2016-04-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-24-00-00.1 |
+| 2016-06-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-24-00-00.2 |
