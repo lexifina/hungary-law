@@ -1,6 +1,6 @@
-## 3/C. §[^39]
+## 3/C. §[^40]
 
-4. § (1)[^40] A Hivatal az egyetemes szolgáltatásra jogosult felhasználók ellátásának érdekében történő földgáz éves tárolói kapacitás-lekötés mértékét évente egyszer, május 1-jétől április 30-ig terjedő időszak vonatkozásában állapítja meg. A kapacitás-lekötés mértékének megállapításakor a Hivatal az adott év április 1. napján lekötött kapacitásokat veszi figyelembe a földgáztárolói engedélyessel egyeztetve.
+4. § (1)[^41] A Hivatal az egyetemes szolgáltatásra jogosult felhasználók ellátásának érdekében történő földgáz éves tárolói kapacitás-lekötés mértékét évente egyszer, május 1-jétől április 30-ig terjedő időszak vonatkozásában állapítja meg. A kapacitás-lekötés mértékének megállapításakor a Hivatal az adott év április 1. napján lekötött kapacitásokat veszi figyelembe a földgáztárolói engedélyessel egyeztetve.
 
 (2) Az (1) bekezdés szerinti mérték megállapítása érdekében
 
@@ -16,12 +16,12 @@ b) a rendszerhasználóként eljáró felhasználók
 
 (5) Ha a kereskedelmi engedélyesek a határozat meghozatalát követően a (4) bekezdésben foglalttól eltérő esetben többletkapacitást kívánnak lekötni, a többletkapacitásért az egyetemes szolgáltatásra nem jogosultak ellátására tekintettel megállapított kapacitásdíjat kötelesek megfizetni.
 
-(6)[^41] A (4)–(5) bekezdésben foglaltaktól eltérően, az átminősített párnagáz külön jogszabály szerinti egyetemes szolgáltatási célra történő megvásárlása és tárolása esetén az egyetemes szolgáltatásra jogosultak ellátására tekintettel megállapított kapacitásdíjat kell megfizetni.
+(6)[^42] A (4)–(5) bekezdésben foglaltaktól eltérően, az átminősített párnagáz külön jogszabály szerinti egyetemes szolgáltatási célra történő megvásárlása és tárolása esetén az egyetemes szolgáltatásra jogosultak ellátására tekintettel megállapított kapacitásdíjat kell megfizetni.
 
 (7) Ha olyan kereskedelmi engedélyes köt le egyetemes szolgáltatásra jogosult felhasználók ellátásának érdekében tárolói kapacitást, amely a Hivatal határozatának kiadásakor nem látott el egyetemes szolgáltatásra jogosult felhasználót, vagy nem rendelkezett földgáz kereskedelmi engedéllyel, a földgáz tárolói és a kereskedelmi engedélyesnek közösen kell kérelmet benyújtaniuk az (1) bekezdés szerinti mérték Hivatal által történő megállapítására. A felek kérelmükben kötelesek megjelölni, hogy mely időponttól kérik a tárolói kapacitás-lekötés mértékének megállapítását, amely nem lehet korábbi, mint a kérelem benyújtásának napja. A kérelmezőknek a (2) bekezdés szerinti adatokat kérelmük mellékleteként be kell nyújtaniuk a Hivatalhoz.
 
 (8) Amennyiben a (3) bekezdés szerinti mérték (tárgyidőszaki mérték) eltér a megelőző időszakra megállapított mértéktől, úgy a megelőző időszak április 1–30. napjaira vonatkozó tárolói kapacitás díjat a tárgyidőszaki mérték szerint korrigálni kell. A korrekció miatti elszámolást a földgáz tárolói engedélyeseknek legkésőbb június 15-ig kell megtenniük.
 
-[^39]: A 3/C. §-t a 6/2013. (XII. 16.) MEKH rendelet 3. §-a iktatta be, hatályon kívül helyezte a 3/2015. (VI. 12.) MEKH rendelet 13. §-a.
-[^40]: A 4. § (1) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § d) pontja szerint módosított szöveg.
-[^41]: A 4. § (6) bekezdése a 13/2015. (XII. 11.) MEKH rendelet 11. § a) pontja szerint módosított szöveg.
+[^40]: A 3/C. §-t a 6/2013. (XII. 16.) MEKH rendelet 3. §-a iktatta be, hatályon kívül helyezte a 3/2015. (VI. 12.) MEKH rendelet 13. §-a.
+[^41]: A 4. § (1) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § d) pontja szerint módosított szöveg.
+[^42]: A 4. § (6) bekezdése a 13/2015. (XII. 11.) MEKH rendelet 11. § a) pontja szerint módosított szöveg.

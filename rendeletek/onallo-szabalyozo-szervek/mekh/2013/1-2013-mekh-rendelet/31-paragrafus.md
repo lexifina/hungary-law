@@ -1,4 +1,4 @@
-## 14. [^131] Az elosztási kapacitásdíj fizetésének szabályai az átadási-átvételi pontokon történő havi elosztási kapacitás-lekötés esetén
+## 14. [^139] Az elosztási kapacitásdíj fizetésének szabályai az átadási-átvételi pontokon történő havi elosztási kapacitás-lekötés esetén
 
 31. § (1) Az átadási-átvételi pontonként lekötött legnagyobb órai kapacitások bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
 
@@ -6,4 +6,4 @@
 
 (3) Azon átadási-átvételi pont esetében, amelyen a nem téli fogyasztási időszakban földgázt vételeznek, a nem téli fogyasztási időszakban a szerződési időszakra, a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 5%-át köteles a rendszerhasználó megfizetni.
 
-[^131]: A 14. alcím (31. §) a 6/2015. (IX. 14.) MEKH rendelet 17. §-ával megállapított szöveg.
+[^139]: A 14. alcím (31. §) a 6/2015. (IX. 14.) MEKH rendelet 17. §-ával megállapított szöveg.

@@ -22,6 +22,6 @@
 
 ## Az ebédlő az átalánydíj-fizetés szempontjából fél szobának minősül.
 
-2. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^199]
+2. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^208]
 
-[^199]: A 2. melléklet a 3/2015. (VI. 12.) MEKH rendelet 12. § (1) bekezdésével megállapított, a 6/2015. (IX. 14.) MEKH rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^208]: A 2. melléklet a 3/2015. (VI. 12.) MEKH rendelet 12. § (1) bekezdésével megállapított, a 6/2015. (IX. 14.) MEKH rendelet 22. § (1) bekezdése szerint módosított szöveg.
