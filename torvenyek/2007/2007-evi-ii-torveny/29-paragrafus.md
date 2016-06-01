@@ -44,6 +44,6 @@ c) a visszavonást a kiadást indítványozó hatóság vagy szerv az a) pontban
 
 (5) Az (1) bekezdés d) pontjának hatálya alá tartozó harmadik országbeli állampolgár tartózkodási engedélye csak akkor vonható vissza, illetve a tartózkodási engedélyben meghatározott tartózkodási idő meghosszabbítása csak akkor tagadható meg, ha származási országában, illetve az őt befogadó más államban a család egyesítése, illetve az állami vagy más intézményi gondoskodás biztosított.
 
-(6) A befogadottat megilletik a tartózkodási engedéllyel rendelkezőknek, illetve a befogadottaknak külön törvényben biztosított jogok. A befogadott köteles személyazonosságának megállapítását elősegíteni, de a személyazonosság bizonyításának hiánya miatt a tartózkodási engedély kiadása nem tagadható meg.
+(6)
 
-(7) A befogadott, illetve az (1) bekezdés e) pontja alapján tartózkodási engedéllyel ellátott harmadik országbeli állampolgár, aki emberkereskedelem áldozata, külön jogszabályban meghatározott ellátásra és támogatásra jogosult.
+(7) Az (1) bekezdés e) pontja alapján tartózkodási engedéllyel ellátott harmadik országbeli állampolgár, aki emberkereskedelem áldozata, a jogszabályban meghatározott ellátásra és támogatásra jogosult.

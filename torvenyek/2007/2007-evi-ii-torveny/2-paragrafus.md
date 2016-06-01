@@ -18,7 +18,7 @@ dd) házastársának eltartott kiskorú gyermeke (ideértve az örökbefogadott 
 
 e) kísérő nélküli kiskorú: az a tizennyolcadik életévet be nem töltött harmadik országbeli állampolgár, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett Magyarország területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
 
-f) befogadott: aki az állampolgársága – hontalan esetén a szokásos tartózkodási helye – szerinti országba átmenetileg azért nem küldhető vissza, mert ott az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja, de nem jogosult sem menekültkénti vagy hontalankénti elismerésre, sem ideiglenes vagy kiegészítő védelemre;
+f) befogadott: aki a menedékjogról szóló 2007. évi LXXX. törvényben meghatározottak szerinti védelemben részesül;
 
 g) úti okmány: Magyarország által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
 

@@ -24,7 +24,7 @@ j) a kijelölt helyen tartózkodásra kötelezett személyre vonatkozó kötelez
 
 k) a repülőtéri tranzitterületen tartózkodásra kötelezett harmadik országbeli állampolgárok ellátásának szabályait;
 
-l) a befogadottak, a közösségi szálláson, illetve befogadó állomáson tartózkodók és az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok ellátásának, támogatásának szabályait;
+l) a közösségi szálláson, illetve befogadó állomáson tartózkodók és az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok ellátásának, támogatásának szabályait;
 
 m) a közösségi szállás létesítésének követelményeit, a közösségi szállás házirendjét;
 
