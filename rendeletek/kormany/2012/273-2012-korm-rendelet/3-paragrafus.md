@@ -22,8 +22,9 @@ f) jóváhagyja a megvalósított közszolgálati továbbképzésekről és az �
 
 g) kiadja a továbbképzés minőségirányítási szabályzatát az NKE – Közigazgatási Továbbképzési Kollégium (a továbbiakban: KTK) által véleményezett – javaslata alapján, és az NKE bevonásával ellenőrzi a továbbképzési programok minőségét;
 
-h) 15 munkanapon belül elbírálja a programminősítési, illetve nyilvántartásba vételi eljárással kapcsolatban benyújtott panaszt.
+h)[^7] 15 munkanapon belül elbírálja a programminősítési eljárással kapcsolatban benyújtott panaszt.
 
 [^4]: A 3. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 691. §-a szerint módosított szöveg.
 [^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 690. §-ával megállapított szöveg.
 [^6]: A 3. § (3) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (3) bekezdés h) pontja a 108/2016. (V. 18.) Korm. rendelet 30. § (1) bekezdés a) pontja szerint módosított szöveg.

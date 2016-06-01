@@ -1,6 +1,6 @@
 ## A Nemzeti Közszolgálati Egyetem
 
-## 6. §[^13] Az NKE a közszolgálati továbbképzési rendszer működtetése során az alábbi feladatokat látja el:
+## 6. §[^18] Az NKE a közszolgálati továbbképzési rendszer működtetése során az alábbi feladatokat látja el:
 
 a) a továbbképzési programok fejlesztésével összefüggő feladata körében kifejleszti, minősítésre benyújtja és fenntartja a KTK által meghatározott követelményrendszer szerinti közszolgálati továbbképzési programokat;
 
@@ -36,6 +36,9 @@ dd) a továbbképzési programok minőségügyi követelményeinek biztosítása
 
 e) tervszerűen és rendszeresen gondoskodik a továbbképzések során közreműködő oktatók és vizsgáztatók szakmai, oktatás-módszertani és felnőtt-oktatói továbbképzéséről;
 
-f) közreműködik a továbbképzési programok minősítésében.
+f) közreműködik a továbbképzési programok minősítésében;
 
-[^13]: A 6. § a 378/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+g)[^19] gondoskodik a belső továbbképzési programok egyszerűsített nyilvántartásba vételéről és a továbbképzési programjegyzék kezeléséről.
+
+[^18]: A 6. § a 378/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^19]: A 6. § g) pontját a 108/2016. (V. 18.) Korm. rendelet 24. §-a iktatta be.

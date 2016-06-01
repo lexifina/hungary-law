@@ -1,3 +1,3 @@
-3. melléklet a 273/2012. (IX. 28.) Korm. rendelethez[^54]
+3. melléklet a 273/2012. (IX. 28.) Korm. rendelethez[^71]
 
-[^54]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

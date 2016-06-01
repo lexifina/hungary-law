@@ -1,3 +1,6 @@
-29. §[^46]
+## 28. §[^62] Az egyes közszolgálati tárgyú kormányrendeletek módosításáról szóló 108/2016. (V. 18.) Korm. rendelettel megállapított 9/A. §-ban előírt továbbképzés a 2018. január 1-jén vagy azután indult továbbképzési időszak tekintetében alkalmazandó, azzal, hogy az a 2017. december 31-én foglalkoztatott kormánytisztviselő vagy köztisztviselő, aki a 2014. január 1. és 2017. december 31. közötti továbbképzési időszakban korrupció-megelőzés témakörét érintő közszolgálati továbbképzést nem teljesített, a 9/A. §-ban meghatározott továbbképzést 2019. december 31. napjáig köteles teljesíteni.
 
-[^46]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+29. §[^63]
+
+[^62]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 108/2016. (V. 18.) Korm. rendelet 28. §-a iktatta be.
+[^63]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
