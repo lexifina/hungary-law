@@ -8,4 +8,6 @@
 
 | 3. | Az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló 53/2014. (XII.13.) NFM rendelet | 50 000 000 |
 
+| 4. | A motorhajtó anyagok és egyes kőolajtermékek belföldi forgalmazásáról szóló 71/1995. (XII. 26.) IKM rendelet | 50 000 000 |
+
 2. melléklet a 45/2012. (VIII. 2.) NFM rendelethez
