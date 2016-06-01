@@ -12,7 +12,7 @@ d) a közjegyző polgári nemperes eljárás lefolytatása céljából a 3. § (
 
 e) az önálló bírósági végrehajtó a bírósági végrehajtási cselekmények ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 
-f) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv a 3. § (1) bekezdés a), c) és g) pontjában szereplő adatokat,
+f)
 
 g) a gyámhatóság
 
