@@ -1,6 +1,6 @@
 ## A kijelölt helyen való tartózkodás elrendelése
 
-130. § (1)[^340] A idegenrendészeti hatóság a harmadik országbeli állampolgár számára – a (4)–(6) bekezdésben meghatározott kivétellel – kötelező tartózkodási helyként
+130. § (1)[^350] A idegenrendészeti hatóság a harmadik országbeli állampolgár számára – a (4)–(6) bekezdésben meghatározott kivétellel – kötelező tartózkodási helyként
 
 a) a harmadik országbeli állampolgár bejelentett szálláshelyét,
 
@@ -20,7 +20,7 @@ f) az igénybevétel egyéb jogszabályi feltételeinek megfelelő harmadik orsz
 
 (3) Befogadó állomáson kizárólag
 
-a) befogadott,
+a)[^351]
 
 b) kiskorú harmadik országbeli állampolgár és a felügyeletét gyakorló szülő
 
@@ -30,7 +30,8 @@ b) kiskorú harmadik országbeli állampolgár és a felügyeletét gyakorló sz
 
 (5) Ha harmadik országbeli állampolgár az emberkereskedelem áldozata, részére az emberkereskedelem áldozatai elhelyezését szolgáló befogadó állomást vagy szerződés alapján fenntartott más szálláshelyet lehet kijelölni.
 
-(6)[^341] Az (1)–(2) bekezdésben meghatározott lehetőségek hiányában az idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyként meghatározott megye közigazgatási területét jelölheti ki.
+(6)[^352] Az (1)–(2) bekezdésben meghatározott lehetőségek hiányában az idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyként meghatározott megye közigazgatási területét jelölheti ki.
 
-[^340]: A 130. § (1) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^341]: A 130. § (6) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^350]: A 130. § (1) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^351]: A 130. § (3) bekezdés a) pontját a 113/2016. (V. 30.) Korm. rendelet 56. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^352]: A 130. § (6) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 25. §-ával megállapított szöveg.

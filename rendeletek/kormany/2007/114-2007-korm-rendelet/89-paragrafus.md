@@ -1,4 +1,4 @@
-## 80–88. §[^209]
+## 80–88. §[^219]
 
 ## Ideiglenes tartózkodásra jogosító igazolás
 
@@ -12,20 +12,20 @@ c) a Tv. 30. § (1) bekezdés d) pontjában meghatározott esetben a szülő mag
 
 d) a Tv. 30. § (1) bekezdés e) pontjában meghatározott esetben az emberkereskedelem áldozatává vált harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság,
 
-e)[^210] a Tv. 30. § (1) bekezdés f) pontjában meghatározott esetben a Rendőrség,
+e)[^220] a Tv. 30. § (1) bekezdés f) pontjában meghatározott esetben a Rendőrség,
 
 f) a Tv. 30. § (1) bekezdés g) pontjában meghatározott esetben az úti okmányt visszatartó, illetve visszavonó regionális igazgatóság,
 
-g)[^211] a Tv. 30. § (1) bekezdés j) pontjában meghatározott esetben a kijelölt tartózkodási hely szerint illetékes regionális igazgatóság vagy a Rendőrség,
+g)[^221] a Tv. 30. § (1) bekezdés j) pontjában meghatározott esetben a kijelölt tartózkodási hely szerint illetékes regionális igazgatóság vagy a Rendőrség,
 
-h)[^212] a Tv. 30. § (1) bekezdés k) pontjában meghatározott esetben a szálláshely szerint illetékes regionális igazgatóság
+h)[^222] a Tv. 30. § (1) bekezdés k) pontjában meghatározott esetben a szálláshely szerint illetékes regionális igazgatóság
 
 ## hatáskörébe tartozik.
 
-(2)[^213] Az ideiglenes tartózkodásra jogosító igazolás érvényét veszti, ha a harmadik országbeli állampolgár az ideiglenes tartózkodásra jogosító igazolás kiállítására alapul szolgáló eljárás eredményeként tartózkodási engedély átvételére jogosító vízumot, tartózkodási engedélyt vagy ideiglenes letelepedési engedélyt kap.
+(2)[^223] Az ideiglenes tartózkodásra jogosító igazolás érvényét veszti, ha a harmadik országbeli állampolgár az ideiglenes tartózkodásra jogosító igazolás kiállítására alapul szolgáló eljárás eredményeként tartózkodási engedély átvételére jogosító vízumot, tartózkodási engedélyt vagy ideiglenes letelepedési engedélyt kap.
 
-[^209]: A 80–88. §-t a 221/2013. (VI. 24.) Korm. rendelet 28. § c) pontja hatályon kívül helyezte.
-[^210]: A 89. § (1) bekezdésének e) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^211]: A 89. § (1) bekezdés g) pontja a 168/2011. (VIII. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^212]: A 89. § (1) bekezdés h) pontját a 168/2011. (VIII. 24.) Korm. rendelet 12. §-a iktatta be.
-[^213]: A 89. § (2) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^219]: A 80–88. §-t a 221/2013. (VI. 24.) Korm. rendelet 28. § c) pontja hatályon kívül helyezte.
+[^220]: A 89. § (1) bekezdésének e) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^221]: A 89. § (1) bekezdés g) pontja a 168/2011. (VIII. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^222]: A 89. § (1) bekezdés h) pontját a 168/2011. (VIII. 24.) Korm. rendelet 12. §-a iktatta be.
+[^223]: A 89. § (2) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.

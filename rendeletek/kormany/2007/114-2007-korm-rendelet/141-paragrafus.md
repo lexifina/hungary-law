@@ -1,24 +1,24 @@
 ## A kitoloncolás
 
-141. § (1)[^352] A Tv. 65. § (7) bekezdésében foglalt közreműködés alatt a 2003. november 25-i 2003/110/EK tanácsi irányelv rendelkezéseinek alkalmazására köteles állam (a továbbiakban: kérelmező állam) által kiutasított harmadik országbeli állampolgárnak, illetve a kíséretnek – ideértve a hatósági kísérőket, továbbá minden olyan személyt is, aki a harmadik országbeli állampolgár elkísérésért felelős, például az orvosi ellátásért felelős személyt és a tolmácsot – a Magyarország területén légi úton történő kitoloncolás végrehajtása céljából történő áthaladásának engedélyezését és az abban történő segítségnyújtást kell érteni.
+141. § (1)[^363] A Tv. 65. § (7) bekezdésében foglalt közreműködés alatt a 2003. november 25-i 2003/110/EK tanácsi irányelv rendelkezéseinek alkalmazására köteles állam (a továbbiakban: kérelmező állam) által kiutasított harmadik országbeli állampolgárnak, illetve a kíséretnek – ideértve a hatósági kísérőket, továbbá minden olyan személyt is, aki a harmadik országbeli állampolgár elkísérésért felelős, például az orvosi ellátásért felelős személyt és a tolmácsot – a Magyarország területén légi úton történő kitoloncolás végrehajtása céljából történő áthaladásának engedélyezését és az abban történő segítségnyújtást kell érteni.
 
 (2) A Hivatal a kérelmező állam külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmének kézhezvételét követően hozzájárulásáról haladéktalanul, de legkésőbb két napon belül tájékoztatja a kérelmező állam kijelölt hatóságát. E határidő kellően indokolt esetben – a kérelmező állam kijelölt hatóságának egyidejű értesítésével – legfeljebb 48 órával meghosszabbítható.
 
-(3)[^353] A légi átszállításhoz történő hozzájárulás megadásáról a Hivatal – a külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmet mellékelve – haladéktalanul értesíti a Rendőrséget.
+(3)[^364] A légi átszállításhoz történő hozzájárulás megadásáról a Hivatal – a külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmet mellékelve – haladéktalanul értesíti a Rendőrséget.
 
-(3a)[^354] Az idegenrendészeti hatóság a Tv. 65. § (10) bekezdésének alkalmazása során a kitoloncolás foganatosítása előtt vizsgálni köteles, hogy a különleges bánásmódot igénylő személyre vonatkozó szabályok alkalmazásának van-e helye.
+(3a)[^365] Az idegenrendészeti hatóság a Tv. 65. § (10) bekezdésének alkalmazása során a kitoloncolás foganatosítása előtt vizsgálni köteles, hogy a különleges bánásmódot igénylő személyre vonatkozó szabályok alkalmazásának van-e helye.
 
-(3b)[^355] Kétség esetén az idegenrendészeti hatóság orvos- vagy pszichológus szakértő segítségét veheti igénybe annak megállapítása érdekében, hogy a kiutasított különleges bánásmódot igényel-e. Szakértői vizsgálat csak az érintett személy hozzájárulásával végezhető.
+(3b)[^366] Kétség esetén az idegenrendészeti hatóság orvos- vagy pszichológus szakértő segítségét veheti igénybe annak megállapítása érdekében, hogy a kiutasított különleges bánásmódot igényel-e. Szakértői vizsgálat csak az érintett személy hozzájárulásával végezhető.
 
-(3c)[^356] Az idegenrendészeti hatóság köteles a kiutasítottat – az anyanyelvén vagy az általa értett más nyelven – közérthető módon tájékoztatni a szakértő által elvégzendő vizsgálatról, a szakértői vizsgálat eredményének jelentőségéről, továbbá a vizsgálat elvégzéséhez való hozzájárulás megtagadásának – a (3d) bekezdésben meghatározott – következményeiről.
+(3c)[^367] Az idegenrendészeti hatóság köteles a kiutasítottat – az anyanyelvén vagy az általa értett más nyelven – közérthető módon tájékoztatni a szakértő által elvégzendő vizsgálatról, a szakértői vizsgálat eredményének jelentőségéről, továbbá a vizsgálat elvégzéséhez való hozzájárulás megtagadásának – a (3d) bekezdésben meghatározott – következményeiről.
 
-(3d)[^357] Ha a kiutasított a vizsgálathoz nem járul hozzá, rá nézve a különleges bánásmódot igénylő személyre vonatkozó rendelkezések nem alkalmazhatók.
+(3d)[^368] Ha a kiutasított a vizsgálathoz nem járul hozzá, rá nézve a különleges bánásmódot igénylő személyre vonatkozó rendelkezések nem alkalmazhatók.
 
-(3e)[^358] Különleges bánásmódot igénylő személy esetén a kitoloncolás foganatosítása során az egyéni körülményeknek megfelelő asszisztenciát kell biztosítani.
+(3e)[^369] Különleges bánásmódot igénylő személy esetén a kitoloncolás foganatosítása során az egyéni körülményeknek megfelelő asszisztenciát kell biztosítani.
 
-(4)[^359] A Magyarország területén történő légi átszállításhoz történő hozzájárulását a Hivatal megtagadja, illetve visszavonja, amennyiben az érintett harmadik országbeli állampolgár vonatkozásában a Tv. 51. §-ban meghatározott visszaküldési tilalom áll fenn.
+(4)[^370] A Magyarország területén történő légi átszállításhoz történő hozzájárulását a Hivatal megtagadja, illetve visszavonja, amennyiben az érintett harmadik országbeli állampolgár vonatkozásában a Tv. 51. §-ban meghatározott visszaküldési tilalom áll fenn.
 
-(5)[^360] A Magyarország területén történő légi átszállításhoz történő hozzájárulását a Hivatal megtagadhatja, illetve visszavonhatja, ha:
+(5)[^371] A Magyarország területén történő légi átszállításhoz történő hozzájárulását a Hivatal megtagadhatja, illetve visszavonhatja, ha:
 
 a) a harmadik országbeli állampolgárt a magyar jogszabályok alapján bűncselekmény elkövetésével vádolják vagy büntetés végrehajtása céljából kiadatását kérik;
 
@@ -28,20 +28,20 @@ c) a légi átszállítás végrehajtásához több repülőtér közötti szár
 
 d) a külön jogszabályban meghatározott segítségnyújtás személyi vagy tárgyi feltételei a kért időpontban nem állnak rendelkezésre, illetve a légi átszállítás más gyakorlati okból nem lehetséges;
 
-e)[^361] a harmadik országbeli állampolgár átszállítása veszélyezteti Magyarország nemzetbiztonságát vagy közbiztonságát, közegészségügyi érdekeit vagy nemzetközi kapcsolatait.
+e)[^372] a harmadik országbeli állampolgár átszállítása veszélyezteti Magyarország nemzetbiztonságát vagy közbiztonságát, közegészségügyi érdekeit vagy nemzetközi kapcsolatait.
 
 (6) A légi átszállításhoz való hozzájárulás visszavonásáról – a visszavonás okának megjelölésével –, illetve az átszállítást lehetetlenné tevő egyéb okokról a kérelmező állam kijelölt hatóságát haladéktalanul tájékoztatni kell.
 
-(7)[^362] A légi átszállításhoz történő hozzájárulás esetén a Rendőrség a légi átszállításhoz külön jogszabályban meghatározott segítséget nyújt.
+(7)[^373] A légi átszállításhoz történő hozzájárulás esetén a Rendőrség a légi átszállításhoz külön jogszabályban meghatározott segítséget nyújt.
 
-[^352]: A 141. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet szerint módosított szöveg.
-[^353]: A 141. § (3) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^354]: A 141. § (3a) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
-[^355]: A 141. § (3b) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
-[^356]: A 141. § (3c) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
-[^357]: A 141. § (3d) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
-[^358]: A 141. § (3e) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
-[^359]: A 141. § (4) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^360]: A 141. § (5) bekezdés nyitó szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^361]: A 141. § (5) bekezdés e) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^362]: A 141. § (7) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^363]: A 141. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet szerint módosított szöveg.
+[^364]: A 141. § (3) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^365]: A 141. § (3a) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^366]: A 141. § (3b) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^367]: A 141. § (3c) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^368]: A 141. § (3d) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^369]: A 141. § (3e) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^370]: A 141. § (4) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^371]: A 141. § (5) bekezdés nyitó szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^372]: A 141. § (5) bekezdés e) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^373]: A 141. § (7) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.

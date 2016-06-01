@@ -1,14 +1,14 @@
-## 72/G. §[^187] A 72/D–72/F. §-ban meghatározottakon túl az ideiglenes tartózkodási engedély kiállítására a 47. és 48. §-t, a 49. § (1) bekezdését, az 50. §-t és az 53–55. §-t kell megfelelően alkalmazni.
+## 72/G. §[^189] A 72/D–72/F. §-ban meghatározottakon túl az ideiglenes tartózkodási engedély kiállítására a 47. és 48. §-t, a 49. § (1) bekezdését, az 50. §-t és az 53–55. §-t kell megfelelően alkalmazni.
 
-## Az összevont kérelmezési eljárásra vonatkozó szabályok[^188]
+## Az összevont kérelmezési eljárásra vonatkozó szabályok[^190]
 
-72/H. §[^189] (1) Az összevont kérelmezési eljárásban a kérelem benyújtására és elbírálására a 31. §-ban, a 32. § a) pontjában, a 33. §-ban, a 36. §-ban, a 41–48. §-ban, a 49. § (1) bekezdésében, valamint az 50–55. §-ban foglalt rendelkezéseket kell alkalmazni.
+72/H. §[^191] (1) Az összevont kérelmezési eljárásban a kérelem benyújtására és elbírálására a 31. §-ban, a 32. § a) pontjában, a 33. §-ban, a 36. §-ban, a 41–48. §-ban, a 49. § (1) bekezdésében, valamint az 50–55. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(2)[^190] A Kormány az összevont kérelmezési eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár magyarországi munkavállalását támogatja-e – elsőfokú eljárásban a munkavégzés helye szerint illetékes kormányhivatalt, másodfokú eljárásban a foglalkoztatáspolitikáért felelős minisztert szakhatóságként jelöli ki.
+(2)[^192] A Kormány az összevont kérelmezési eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár magyarországi munkavállalását támogatja-e – elsőfokú eljárásban a munkavégzés helye szerint illetékes kormányhivatalt, másodfokú eljárásban a foglalkoztatáspolitikáért felelős minisztert szakhatóságként jelöli ki.
 
-(3)[^191]
+(3)[^193]
 
-(4)[^192] Amennyiben a harmadik országbeli állampolgár Magyarország területén foglalkoztatásra irányuló jogviszony keretében történő foglalkoztatása engedélyezési kötelezettség alól mentes, vagy a foglalkoztatásához nem kerül sor munkaerőpiaci helyzet vizsgálatára, a kormányhivatal a szakhatósági állásfoglalását tíz napon belül adja meg a regionális igazgatóságnak.
+(4)[^194] Amennyiben a harmadik országbeli állampolgár Magyarország területén foglalkoztatásra irányuló jogviszony keretében történő foglalkoztatása engedélyezési kötelezettség alól mentes, vagy a foglalkoztatásához nem kerül sor munkaerőpiaci helyzet vizsgálatára, a kormányhivatal a szakhatósági állásfoglalását tíz napon belül adja meg a regionális igazgatóságnak.
 
 (5) Ha a szakhatósági állásfoglalás megküldését követően az eljárás során a harmadik országbeli állampolgár foglalkoztatására vonatkozóan a szakhatóság tudomására jutott olyan adat merül fel, amely a korábbi szakhatósági hozzájárulás visszavonását indokolja, a szakhatóság új szakhatósági állásfoglalását a regionális igazgatóságnak haladéktalanul megküldi.
 
@@ -20,9 +20,9 @@
 
 (9) A (6)–(8) bekezdésben foglalt eljárás során a harmadik országbeli állampolgár köteles mellékelni az 59. § (1) bekezdésében meghatározott okiratot. A harmadik országbeli állampolgár a (7) bekezdésben meghatározott eljárás során, ha az érvényes tartózkodási engedély kiadásának alapjául szolgáló, a Tv. 13. § (1) bekezdés a)–c) és e)–g) pontjában foglalt feltételek nem változtak meg, a kérelmezőnek a változatlan feltételekre vonatkozó dokumentumokat nem kell ismételten csatolnia.
 
-[^187]: A 72/G. §-t a 130/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be.
-[^188]: A 72/H. §-t megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^189]: A 72/H. §-t a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^190]: A 72/H. § (2) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 7. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 101. § e) pontja szerint módosított szöveg.
-[^191]: A 72/H. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^192]: A 72/H. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 101. § d) pontja szerint módosított szöveg.
+[^189]: A 72/G. §-t a 130/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be.
+[^190]: A 72/H. §-t megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^191]: A 72/H. §-t a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^192]: A 72/H. § (2) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 7. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 101. § e) pontja szerint módosított szöveg.
+[^193]: A 72/H. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^194]: A 72/H. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 101. § d) pontja szerint módosított szöveg.

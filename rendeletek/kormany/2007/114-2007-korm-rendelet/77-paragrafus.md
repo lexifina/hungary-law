@@ -1,12 +1,15 @@
-77. § (1) A befogadottat közösségi szálláson vagy menekülteket befogadó állomáson, az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok elkülönített elhelyezését szolgáló befogadó állomáson vagy szerződés alapján fenntartott más szálláshelyen (a továbbiakban ezen alcím alkalmazásában együtt: közösségi szállás) lehet elhelyezni.
+77. § (1)[^210] Az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok elkülönített elhelyezését szolgáló befogadó állomáson vagy szerződés alapján fenntartott más szálláshelyen (a továbbiakban ezen alcím alkalmazásában együtt: közösségi szállás) lehet elhelyezni.
 
-(2)[^206] A befogadottnak, valamint az emberkereskedelem áldozatává vált harmadik országbeli állampolgárnak a közösségi szálláson történő elhelyezése esetén nem kell térítési díjat fizetnie, amennyiben jövedelme a 75. § (1) bekezdésében meghatározott mértéket nem haladja meg.
+(2)[^211] Az emberkereskedelem áldozatává vált harmadik országbeli állampolgárnak a közösségi szálláson történő elhelyezése esetén nem kell térítési díjat fizetnie, amennyiben jövedelme a 75. § (1) bekezdésében meghatározott mértéket nem haladja meg.
 
-(3) A befogadottra, valamint az emberkereskedelem áldozatává vált harmadik országbeli állampolgárra a közösségi szálláson történő tartózkodása során a 130–133. §-ban foglalt rendelkezéseket kell alkalmazni.
+(3)[^212] Az emberkereskedelem áldozatává vált harmadik országbeli állampolgárra a közösségi szálláson történő tartózkodása során a 130–133. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(4)[^207]
+(4)[^213]
 
-(5) Ha a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár jövedelme a 75. § (1) bekezdésében foglalt mértéket meghaladja, köteles az általa igénybe vett szolgáltatások önköltségét utólag, minden hónap 5. napjáig megtéríteni. A megtérítés összegét a közösségi szállás vezetője állapítja meg.
+(5)[^214] Ha az emberkereskedelem áldozatává vált harmadik országbeli állampolgár jövedelme a 75. § (1) bekezdésében foglalt mértéket meghaladja, köteles az általa igénybe vett szolgáltatások önköltségét utólag, minden hónap 5. napjáig megtéríteni. A megtérítés összegét a közösségi szállás vezetője állapítja meg.
 
-[^206]: A 77. § (2) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^207]: A 77. § (4) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 28. § a) pontja hatályon kívül helyezte.
+[^210]: A 77. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^211]: A 77. § (2) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 18. §-ával megállapított, a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^212]: A 77. § (3) bekezdése a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^213]: A 77. § (4) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 28. § a) pontja hatályon kívül helyezte.
+[^214]: A 77. § (5) bekezdése a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés e) pontja szerint módosított szöveg.
