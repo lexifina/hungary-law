@@ -1,3 +1,0 @@
-## „(5) A vizsgázó – munkáltatója egyetértésével – elhalaszthatja a szakvizsgarészt, az érintett szakvizsgarész vizsganapját megelőző napig. A halasztásért halasztási díjat kell fizetni. A halasztás díja elhalasztott szakvizsgarészenként a szakvizsga díjának tíz százaléka. A halasztási díj a munkáltatót terheli.
-
-## (6) Az (5) bekezdésben foglaltaktól eltérően a vizsgázó első alkalommal egy szakvizsgarész vizsgáját díjmentesen elhalaszthatja, feltéve, hogy a halasztásra a vizsgázó önhibáján kívüli okból kerül sor. A vizsgázó a vizsgahalasztás bejelentésével egyidejűleg tájékoztatja munkáltatóját is.”

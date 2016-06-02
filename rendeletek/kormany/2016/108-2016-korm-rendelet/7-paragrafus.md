@@ -1,3 +1,0 @@
-## 6. § Az R1. 7. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A felsőfokú iskolai végzettségű polgármester önkéntes jelentkezés alapján a 6/C. § (1) bekezdésében meghatározottak szerint, saját költségére tehet szakvizsgát – polgármesteri tisztségének megszűnéséig – a munkahelye szerint illetékes szakvizsgaszervezőnél, ha legalább három év közigazgatási gyakorlattal és közigazgatási alapvizsgával rendelkezik, vagy az alól mentesül. A vizsgára bocsátás feltételeinek meglétét a polgármesternek igazolnia kell. E rendelkezés alkalmazásában közigazgatási gyakorlatnak minősül a Kttv. 6. § 16. pontja szerinti időtartam, valamint a polgármesteri jogviszonyban töltött idő is.”
