@@ -10,7 +10,7 @@ c) – a 2. § (1) bekezdés szerinti elismerések esetében – az egészségü
 
 (3) A Kultúra Magyar Városa cím az 1. mellékletben foglalt feltételekkel ismételten is adományozható.
 
-(4) Az elismerésre jelölt az elismerés kezdeményezője részére
+(4)[^7] A miniszteri döntést követően az elismerésben részesítendő jelölt
 
 a) a személyes adatai kezeléséhez hozzájáruló,
 
@@ -18,8 +18,11 @@ b) az (1) bekezdés szerinti kizáró körülményekkel kapcsolatos,
 
 c) a korábbi elismeréseivel összefüggő, és
 
-d) az adományozás esetén az elismerés elfogadásáról szóló
+d) az elismerés elfogadásáról szóló
 
-nyilatkozatot tesz az elismerési kezdeményezés miniszteri döntésre való felterjesztését megelőzően.
+## nyilatkozatot tesz.
 
-(5) A (4) bekezdés szerinti nyilatkozat hiányában, a nyilatkozat hiányos megtétele esetén, valamint a nyilatkozat alapján személyes adatai kezeléséhez hozzájárulását nem adó, továbbá kizáró okot megjelölő, vagy az adományozás esetén az elismerés el nem fogadásáról nyilatkozó jelölt elismerésben nem részesíthető. A nyilatkozat formanyomtatványát a 4. melléklet tartalmazza.
+(5)[^8] A (4) bekezdés szerinti nyilatkozat hiányában, a nyilatkozat hiányos megtétele esetén, valamint a nyilatkozat alapján személyes adatai kezeléséhez hozzájárulását nem adó, továbbá kizáró okot megjelölő, vagy az elismerés el nem fogadásáról nyilatkozó jelölt elismerésben nem részesíthető. A nyilatkozat formanyomtatványát a 4. melléklet tartalmazza.
+
+[^7]: Az 5. § (4) bekezdése a 10/2016. (VI. 1.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^8]: Az 5. § (5) bekezdése a 10/2016. (VI. 1.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.

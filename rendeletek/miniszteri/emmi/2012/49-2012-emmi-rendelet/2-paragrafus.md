@@ -10,7 +10,7 @@
 
 5. Pro Vita díj,
 
-6.[^2] Védőnői Szolgálatért díj.
+6.[^3] Védőnői Szolgálatért díj.
 
 (2) A miniszter által adományozandó művészeti díjak a kulturális ágazatban a következők:
 
@@ -136,7 +136,7 @@
 
 4. Lukács Móric-díj.
 
-(10)[^3] A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a miniszter által vezetett minisztériumban (a továbbiakban: minisztérium) végzett közszolgálati tevékenységért: Közösség Szolgálatáért díj.
+(10)[^4] A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a miniszter által vezetett minisztériumban (a továbbiakban: minisztérium) végzett közszolgálati tevékenységért: Közösség Szolgálatáért díj.
 
-[^2]: A 2. § (1) bekezdés 6. pontját a 25/2015. (V. 22.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^3]: A 2. § (10) bekezdését a 25/2015. (V. 22.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^3]: A 2. § (1) bekezdés 6. pontját a 25/2015. (V. 22.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § (10) bekezdését a 25/2015. (V. 22.) EMMI rendelet 1. § (2) bekezdése iktatta be.

@@ -4,4 +4,6 @@
 
 ## 2. Az oklevél átadására minden évben nemzeti ünnepeink alkalmából, illetve kiemelkedő szakmai eseményekhez kötötten kerülhet sor.
 
-3. melléklet a 49/2012. (XII. 15.) EMMI rendelethez
+3. melléklet a 49/2012. (XII. 15.) EMMI rendelethez[^16]
+
+[^16]: A 3. melléklet a 10/2016. (VI. 1.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.

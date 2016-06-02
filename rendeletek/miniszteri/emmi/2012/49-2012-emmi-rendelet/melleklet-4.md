@@ -1,6 +1,6 @@
 ## Kezdeményezés
 
-## ............................................. (az elismerés megnevezése)*
+## ............................................................................ (az elismerés megnevezése)*
 
 ## miniszteri elismerésre
 
@@ -12,19 +12,9 @@
 
 ## Születési név*:
 
-## Születési hely, idő*:
-
-## Anyja neve*:
-
-## Munkahelye és annak címe:
-
-## Beosztása:
-
-## Lakcíme*:
-
 ## Elérhetőségei (telefon és e-mail):
 
-## Korábbi állami / szakmai elismerés megnevezése és időpontja:
+## Korábbi állami/szakmai elismerés megnevezése és időpontja:
 
 ## Az elismerés átadásának javasolt időpontja*:
 
@@ -32,13 +22,13 @@
 
 ## Név*:
 
-## Székhely / telephely vagy bejegyzett cím*:
+## Székhely/telephely vagy bejegyzett cím*:
 
 ## Elérhetőségei (telefon és e-mail):
 
 ## Képviselő:
 
-## Korábbi állami / szakmai elismerés megnevezése és időpontja:
+## Korábbi állami/szakmai elismerés megnevezése és időpontja:
 
 ## Az elismerés átadásának javasolt időpontja*:
 
@@ -52,7 +42,7 @@
 
 ## Elérhetőségei (telefon és e-mail):
 
-## Korábbi állami / szakmai elismerés megnevezése és időpontja:
+## Korábbi állami/szakmai elismerés megnevezése és időpontja:
 
 ## Az elismerés átadásának javasolt időpontja*:
 
@@ -60,9 +50,9 @@
 
 ## A szakmai tevékenységet, életutat bemutató részletes indokolás* külön lapon csatolandó (legalább fél, de legfeljebb három oldal terjedelemben)!
 
-## Dátum
+## Dátum:
 
-## ................................................
+## ...................................................................................
 
 ## kezdeményező aláírása*
 
@@ -76,21 +66,29 @@
 
 ## A *-gal jelölt részek kitöltése kötelező, elmaradás esetén a kezdeményezés nem fogadható be.
 
-4. melléklet a 49/2012. (XII. 15.) EMMI rendelethez
+4. melléklet a 49/2012. (XII. 15.) EMMI rendelethez[^17]
 
 Nyilatkozat
 
 (természetes személy vagy munkacsoport, közösség tagja** esetén)
 
-Alulírott,
+Alulírott
 
-1.
+név:
 
-□ hozzájárulok ahhoz*
+születési név:
+
+születési hely és idő:
+
+anyja neve:
+
+1. □ hozzájárulok ahhoz*
 
 □ nem járulok hozzá ahhoz*,
 
-hogy a ....................................................... miniszteri elismerés adományozását előkészítő eljárásban az Emberi Erőforrások Minisztériuma természetes személyazonosító adataimat (név, születési hely, születés dátuma, anyja neve), lakcím adataimat, valamint az adományozásra irányuló javaslat megalapozásához szükséges személyes adataimat, továbbá a már megkapott elismeréseimre vonatkozó adataimat nyilvántartsa.
+hogy a ....................................................... miniszteri elismerésről szóló miniszteri döntést követően, az adományozást megelőző eljárásban az Emberi Erőforrások Minisztériuma természetes személyazonosító adataimat
+
+(név, születési hely, születés hely és idő, anyja neve), lakcím adataimat, telefonszámomat, e-mail címemet, valamint az adományozásra irányuló javaslat megalapozásához szükséges személyes adataimat, továbbá a már megkapott elismeréseimre vonatkozó adataimat nyilvántartsa.
 
 2. Kijelentem, hogy velem szemben az emberi erőforrások minisztere által adományozható elismerésekről szóló 49/2012. (XII. 15.) EMMI rendelet 5. §-ában meghatározott kizáró ok
 
@@ -112,7 +110,7 @@ az adományozás időpontja:
 
 □ elfogadom*
 
-□ nem fogadom el.
+□ nem fogadom el*.
 
 5. Elismerésben részesítésem esetére, valamint az elismerés esetleges későbbi visszavonása esetére nevemnek a Hivatalos Értesítőben, valamint a minisztérium hivatalos lapjában és honlapján való közzétételéhez
 
@@ -120,9 +118,9 @@ az adományozás időpontja:
 
 □ nem járulok hozzá*.
 
-Kelt:
+Dátum:
 
-................................................
+...................................................................................
 
 elismerésre jelölt aláírása
 
@@ -134,15 +132,13 @@ Nyilatkozat
 
 (nem természetes személy, munkacsoport, közösség esetén)
 
-Alulírott, mint a …………………………… képviselője/vezetője
+Alulírott, mint a ................................. képviselője/vezetője
 
-1.
-
-□ hozzájárulok ahhoz*
+1. □ hozzájárulok ahhoz*
 
 □ nem járulok hozzá ahhoz*,
 
-hogy a ....................................................... miniszteri elismerés adományozását előkészítő eljárásban az Emberi Erőforrások Minisztériuma az általam képviselt …………………………… (nem természetes személy, munkacsoport, közösség) azonosító adatait (név, székhely, telephely vagy bejegyzett cím, elérhetőségek, képviselő neve, a munkacsoport, közösség működésének helye, intézménye vagy működési területe, a munkacsoport, közösség vezetője, tagjai neve), valamint az adományozásra irányuló javaslat megalapozásához szükséges adatait, továbbá a már megkapott elismeréseire vonatkozó adatait nyilvántartsa.
+hogy a ....................................................... miniszteri elismerésről szóló miniszteri döntést követően, az adományozást megelőző eljárásban az Emberi Erőforrások Minisztériuma az általam képviselt ................................. (nem természetes személy, munkacsoport, közösség) azonosító adatait (név, székhely, telephely vagy bejegyzett cím, elérhetőségek, képviselő neve, a munkacsoport, közösség működésének helye, intézménye vagy működési területe, a munkacsoport, közösség vezetője, tagjai neve), valamint az adományozásra irányuló javaslat megalapozásához szükséges adatait, továbbá a már megkapott elismeréseire vonatkozó adatait nyilvántartsa.
 
 2. Kijelentem, hogy az általam képviselt szervezettel (munkacsoport, közösség esetén a tagokat is ide értve) szemben az emberi erőforrások minisztere által adományozható elismerésekről szóló 49/2012. (XII. 15.) EMMI rendelet 5. §-ában meghatározott kizáró ok
 
@@ -174,12 +170,14 @@ az adományozás időpontja:
 
 6. Képviseleti jogköröm alapja**:
 
-Dátum
+Dátum:
 
-................................................
+...................................................................................
 
-elismerésre jelölt aláírása
+elismerésre jelölt aláírása**
 
 * A megfelelőt kérjük X-szel megjelölni!
 
-** Hivatalos/jogi képviselő, ügyvezető, meghatalmazott, stb., munkacsoport, munkaközösség esetén elfogadható a tagok felkérése vagy munkáltatói igazolás is.
+** Hivatalos/jogi képviselő, ügyvezető, meghatalmazott stb., munkacsoport, munkaközösség esetén elfogadható a tagok felkérése vagy munkáltatói igazolás is.
+
+[^17]: A 4. melléklet a 10/2016. (VI. 1.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.

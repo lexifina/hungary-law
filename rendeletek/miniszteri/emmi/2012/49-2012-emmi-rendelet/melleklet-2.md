@@ -72,7 +72,7 @@
 
 ## 5.5. A díjazott az adományozást igazoló oklevelet kap.
 
-## 5a.[^6] Védőnői Szolgálatért díj
+## 5a.[^11] Védőnői Szolgálatért díj
 
 ## 5a.1. A díj annak adományozható, aki a területi védőnői munkában és védőnők oktatásában egyaránt kivételesen magas színvonalú, példaértékű eredményt ért el, és tevékenységével jelentősen hozzájárult ilyen eredmény eléréséhez.
 
@@ -494,7 +494,7 @@
 
 ## 32.3. A címet a miniszter az előadó-művészeti szervezetek támogatásáról szóló törvényben meghatározott zeneművészeti véleményező bizottság javaslata alapján adományozza.
 
-## 32.4.[^7] A cím viselésének ideje alatt a zenekar működését a minisztérium külön szerződés szerint támogatja.
+## 32.4.[^12] A cím viselésének ideje alatt a zenekar működését a minisztérium külön szerződés szerint támogatja.
 
 ## 33. Pro Cultura Hungarica emlékplakett
 
@@ -684,7 +684,7 @@
 
 ## 48. Pro Caritate-díj
 
-## 48.1.[^8] A díj a szociális ellátás fejlesztéséhez való hozzájárulásért, a gyermekvédelem, a fogyatékos és megváltozott munkaképességű emberek rehabilitációja érdekében, illetve az ezzel foglalkozó intézményekben kifejtett, továbbá a miniszter feladatkörébe tartozóan az esélyegyenlőség előmozdítása területén végzett kiemelkedő szakmai, közszolgálati, karitatív tevékenység, valamint a nyugdíjbiztosítás terén a nyugdíjasokért végzett munkáért adományozható.
+## 48.1.[^13] A díj a szociális ellátás fejlesztéséhez való hozzájárulásért, a gyermekvédelem, a fogyatékos és megváltozott munkaképességű emberek rehabilitációja érdekében, illetve az ezzel foglalkozó intézményekben kifejtett, továbbá a miniszter feladatkörébe tartozóan az esélyegyenlőség előmozdítása területén végzett kiemelkedő szakmai, közszolgálati, karitatív tevékenység, valamint a nyugdíjbiztosítás terén a nyugdíjasokért végzett munkáért adományozható.
 
 ## 48.2. A díj átadására a Szociális Munka Napja (november 12.), a Fogyatékos Emberek Világnapja (december 3.), vagy az Esélyegyenlőség Napja (május 5.) alkalmából, valamint és egyéb kiemelkedő szakmai esemény alkalmából kerül sor.
 
@@ -832,7 +832,7 @@
 
 ## 59.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
 
-## VII. FEJEZET[^9]
+## VII. FEJEZET[^14]
 
 ## A MINISZTÉRIUMBAN VÉGZETT KIEMELKEDŐ KÖZSZOLGÁLATI TEVÉKENYSÉG ELISMERÉSE
 
@@ -846,11 +846,12 @@
 
 ## 60.4. A díjazott az adományozást igazoló oklevelet kap.
 
-## 60.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hatszorosának megfelelő összeg.
+## 60.5.[^15] A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
 2. melléklet a 49/2012. (XII. 15.) EMMI rendelethez
 
-[^6]: Az 1. melléklet 5a. pontját a 25/2015. (V. 22.) EMMI rendelet 3. §-a iktatta be.
-[^7]: Az 1. melléklet 32.4. pontja a 25/2015. (V. 22.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
-[^8]: Az 1. melléklet 48.1. pontja a 25/2015. (V. 22.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
-[^9]: Az 1. melléklet VII. fejezetét (60. pont) a 25/2015. (V. 22.) EMMI rendelet 3. §-a iktatta be.
+[^11]: Az 1. melléklet 5a. pontját a 25/2015. (V. 22.) EMMI rendelet 3. §-a iktatta be.
+[^12]: Az 1. melléklet 32.4. pontja a 25/2015. (V. 22.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet 48.1. pontja a 25/2015. (V. 22.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet VII. fejezetét (60. pont) a 25/2015. (V. 22.) EMMI rendelet 3. §-a iktatta be.
+[^15]: Az 1. melléklet 60. pont 65. alpontja a 10/2016. (VI. 1.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
