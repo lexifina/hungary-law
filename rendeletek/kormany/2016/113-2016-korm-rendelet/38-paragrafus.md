@@ -1,3 +1,3 @@
-## 37. § Az R3. 77. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 37. §[^18]
 
-## „(1) Az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok elkülönített elhelyezését szolgáló befogadó állomáson vagy szerződés alapján fenntartott más szálláshelyen (a továbbiakban ezen alcím alkalmazásában együtt: közösségi szállás) lehet elhelyezni.”
+[^18]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

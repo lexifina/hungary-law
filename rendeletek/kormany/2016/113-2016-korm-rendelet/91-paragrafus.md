@@ -1,9 +1,9 @@
-## 89–90. §[^32]
+## 89–90. §[^41]
 
-91. § (1)[^33]
+91. § (1)[^42]
 
-(2)[^34]
+(2)[^43]
 
-[^32]: A 89–90. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
-[^33]: A 91. § (1) bekezdése a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
-[^34]: A 91. § (2) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+[^41]: A 89–90. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+[^42]: A 91. § (1) bekezdése a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^43]: A 91. § (2) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.

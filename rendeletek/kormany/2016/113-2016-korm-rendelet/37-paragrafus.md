@@ -1,3 +1,3 @@
-## 36. §[^14]
+## 36. §[^17]
 
-[^14]: A 36. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+[^17]: A 36. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.

@@ -1,1 +1,3 @@
-## „(7) Az eljáró hatóság az (1) bekezdésben foglaltak szerint a visszaküldés akadályának fennállását folyamatosan, de legalább évente felülvizsgálja. A visszaküldés akadályának megszűnése esetén az eljáró hatóság a határozat végrehajtását folytatja.”
+## 13. §[^3]
+
+[^3]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,22 +1,15 @@
-## 34. § Az R3. 70. § (1) bekezdés a) és b) pontja helyébe a következő rendelkezés lép:
+## 34. §[^12]
 
-## (A humanitárius célú tartózkodási engedélyt)
+35. § (1)–(3)[^13]
 
-## „a) a Tv. 29. § (1) bekezdés a) pontjában foglalt esetben a hontalanként történő elismerésről rendelkező regionális igazgatóság,
+(4)[^14]
 
-## b) a Tv. 29. § (1) bekezdés b) és c) pontjában foglalt esetekben a menekültügyi hatóság,”
+(5)–(8)[^15]
 
-## (hivatalból állítja ki, illetve hosszabbítja meg.)
+(9)[^16]
 
-35. § (1)–(3)[^10]
-
-(4)[^11]
-
-(5)–(8)[^12]
-
-(9)[^13]
-
-[^10]: A 35. § (1)–(3) bekezdése a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
-[^11]: A 35. § (4) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
-[^12]: A 35. § (5)–(8) bekezdése a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
-[^13]: A 35. § (9) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+[^12]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 35. § (1)–(3) bekezdése a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^14]: A 35. § (4) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+[^15]: A 35. § (5)–(8) bekezdése a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^16]: A 35. § (9) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.

@@ -1,3 +1,3 @@
-## 31. §[^8]
+## 31. §[^10]
 
-[^8]: A 31. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+[^10]: A 31. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.

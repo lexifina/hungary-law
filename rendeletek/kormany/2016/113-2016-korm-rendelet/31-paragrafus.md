@@ -1,3 +1,3 @@
-## 28–30. §[^7]
+## 28–30. §[^9]
 
-[^7]: A 28–30. § a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^9]: A 28–30. § a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
