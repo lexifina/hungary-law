@@ -11,3 +11,5 @@ c) települési önkormányzatra,
 d) a települési önkormányzatok társulására,
 
 e) a hulladékgazdálkodási létesítmény tulajdonosára
+
+terjed ki.
