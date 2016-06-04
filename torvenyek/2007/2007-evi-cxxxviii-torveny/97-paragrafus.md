@@ -2,7 +2,7 @@
 
 97. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a könyvvizsgálói feladatok ellátására annak az érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgálónak, illetve könyvvizsgáló cégnek ad megbízást, aki, illetve amely a Ptk. könyvvizsgálóra vonatkozó rendelkezéseinek megfelel és rendelkezik befektetési vállalkozási minősítéssel.
 
-(2) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató természetes személy könyvvizsgálójának megbízatása legfeljebb 5 évig tarthat és a megbízatás lejártát követő harmadik év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgáló cég nevében könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló legfeljebb 5 évig láthat el könyvvizsgálói feladatokat ugyanannál a befektetési vállalkozásnál, illetőleg árutőzsdei szolgáltatónál, és a megbízatás lejártát követő 2 üzleti éven belül nem láthat el újra – ugyanannál a befektetési vállalkozásnál, illetőleg árutőzsdei szolgáltatónál – könyvvizsgálói feladatot.
+(2)
 
 (3) A könyvvizsgáló egyidejűleg legfeljebb öt befektetési vállalkozásnál, illetőleg öt árutőzsdei szolgáltatónál láthat el könyvvizsgálói feladatot, és az egy befektetési vállalkozástól, illetőleg árutőzsdei szolgáltatótól származó jövedelme vagy árbevétele nem haladhatja meg az éves jövedelmének vagy árbevételének harminc százalékát azzal, hogy ha a könyvvizsgáló egy könyvvizsgáló társaság alkalmazottja vagy megbízottja, akkor ennek a könyvvizsgálói társaságnak az éves árbevételének legfeljebb tíz százaléka származhat egy befektetési vállalkozástól, illetőleg árutőzsdei szolgáltatótól.
 

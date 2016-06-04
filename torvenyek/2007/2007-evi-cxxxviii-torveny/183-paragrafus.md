@@ -16,7 +16,9 @@ f) az Európai Parlament és a Tanács 2013/36/EU irányelve (2013. június 26.)
 
 g) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról,
 
-h) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról.
+h) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról,
+
+i) az Európai Parlament és Tanács 2016. április 16-i 2014/56/EU irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról.
 
 (2) Ez a törvény
 
