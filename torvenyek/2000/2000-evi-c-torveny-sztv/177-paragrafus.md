@@ -117,3 +117,5 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 (53) Annak a vállalkozónak, amely az IFRS-eket a 2016. évben induló üzleti évről készített éves beszámolóra alkalmazza először, a 114/C. § (4) bekezdése szerinti bejelentést az áttérés napját követő 15 napon belül kell megtennie.
 
 (56) A behajtási költségátalányról szóló 2016. évi IX. törvény hatálybalépésével egyidejűleg a vállalkozó a könyvviteli nyilvántartásában (mérlegében) kimutatott, behajtási költségátalányból származó kötelezettséget – ha azt ezen időpontig tőle a jogosult nem követelte – az egyéb bevételekkel szemben megszünteti.
+
+(57) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvény 53. §-ával megállapított 156. § (1a) bekezdését, (2) bekezdését, (5a) bekezdését, az 54. §-ával megállapított 157. § (2a) bekezdését a 2016. június 16-át követően induló üzleti évről készített beszámolóra vonatkozó független könyvvizsgálói jelentésre kell először alkalmazni.

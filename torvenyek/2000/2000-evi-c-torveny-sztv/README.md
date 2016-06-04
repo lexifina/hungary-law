@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2015-07-04 | 2015. évi CI. törvény | 2000-100-00-00.52 |
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 2000-100-00-00.53 |
 | 2016-03-24 | 2016. évi IX. törvény | 2000-100-00-00.54 |
+| 2016-06-04 | 2016. évi XLIV. törvény | 2000-100-00-00.55 |

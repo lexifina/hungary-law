@@ -2,7 +2,9 @@
 
 156. § (1) A vállalkozótól független könyvvizsgáló feladata az éves beszámoló, az egyszerűsített éves beszámoló valódiságának és szabályszerűségének (a mérleg, az eredménykimutatás, a kiegészítő melléklet) felülvizsgálata, e törvény és a létesítő okirat előírásai betartásának ellenőrzése, és ennek alapján az éves beszámolóról, az egyszerűsített éves beszámolóról a könyvvizsgáló állásfoglalását tükröző vélemény kialakítása, a független könyvvizsgálói jelentés elkészítése.
 
-(2) Az összevont (konszolidált) éves beszámoló könyvvizsgálója köteles együttműködni a konszolidálásba bevont vállalkozás könyvvizsgálójával annak érdekében, hogy az összevont (konszolidált) éves beszámolóba összefoglalt beszámolók adatai megfeleljenek az összevont (konszolidált) éves beszámolókészítés követelményeinek, és a konszolidálásba bevont vállalkozások figyelembe vegyék az összevont (konszolidált) éves beszámoló készítésének a rájuk vonatkozó előírásait. Ez azonban az összevont (konszolidált) éves beszámoló könyvvizsgálójának a felelősségét nem korlátozza.
+(1a) A könyvvizsgálat hatóköre nem terjedhet ki a vállalkozó jövőbeli életképességére és a legfőbb irányító (vezető) szerv, ügyvezető szerv tevékenységének hatékonyságára és eredményességére vonatkozó bizonyosság nyújtására.
+
+(2) Az összevont (konszolidált) éves beszámoló könyvvizsgálója köteles együttműködni a konszolidálásba bevont vállalkozás könyvvizsgálójával annak érdekében, hogy az összevont (konszolidált) éves beszámolóba összefoglalt beszámolók adatai megfeleljenek az összevont (konszolidált) éves beszámolókészítés követelményeinek, és a konszolidálásba bevont vállalkozások figyelembe vegyék az összevont (konszolidált) éves beszámoló készítésének a rájuk vonatkozó előírásait. Az összevont (konszolidált) éves beszámoló könyvvizsgálója viseli a felelősséget az összevont (konszolidált) éves beszámolóról kibocsátott könyvvizsgálói jelentésért, továbbá az 537/2014/EU Rendelet 11. cikk szerinti audit bizottsághoz címzett kiegészítő jelentésért.
 
 (3) A konszolidálásba bevont vállalkozás könyvvizsgálója köteles az összevont (konszolidált) éves beszámoló felülvizsgálatát végző könyvvizsgálóval együttműködni annak érdekében, hogy az összevont (konszolidált) éves beszámoló megbízható és valós képet adjon a konszolidálásba bevont vállalkozások együttes vagyoni, pénzügyi és jövedelmi helyzetéről.
 
@@ -35,5 +37,7 @@ k) a könyvvizsgálói jelentés keltezését;
 l) a könyvvizsgálatért személyében felelős könyvvizsgáló nevét, aláírását, kamarai bejegyzési (nyilvántartási) számát;
 
 m) könyvvizsgáló cég esetén – az l) pontban foglaltak mellett – a társaság képviseletére jogosult személy nevét, aláírását, a társaság megnevezését, székhelyét, kamarai nyilvántartási számát is.
+
+(5a) A közérdeklődésre számot tartó gazdálkodók éves beszámolójára, egyszerűsített éves beszámolójára, továbbá összevont (konszolidált) éves beszámolójára vonatkozó független könyvvizsgálói jelentés tekintetében az (5) bekezdésen túl az 537/2014/EU Rendelet 10. cikkében foglaltakat kell alkalmazni.
 
 (6) Ha a kiegészítő mellékletben a vállalkozó [az összevont (konszolidált) éves beszámoló kiegészítő mellékletében az anyavállalat] nem, vagy nem a valóságnak megfelelően értékel, akkor a könyvvizsgáló az írásbeli könyvvizsgálói jelentésben köteles bemutatni az általa feltárt tényeket és megállapításokat, kitérve az előző üzleti évre, továbbá az éves beszámoló, az egyszerűsített éves beszámoló, az összevont (konszolidált) éves beszámoló mérlegfordulónapja után bekövetkezett jelentősebb eseményekre és főleg hátrányos változásokra, az éves eredményt befolyásoló kedvezőtlen tényezők bemutatására.

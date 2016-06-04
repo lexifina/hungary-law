@@ -85,11 +85,3 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 1. Az ,,1. Adózás előtti eredmény'' sorban a tulajdoni részesedések után kapott osztalékkal, részesedéssel az adózás előtti eredményt csökkenteni kell.
 
 2. A ,,3. Elszámolt értékvesztés'' sorban az adott időszakban elszámolt értékvesztéseket, terven felüli értékcsökkenési leírásokat pozitív előjellel, azok visszaírását negatív előjellel kell figyelembe venni.
-
-3. A ,,4. Céltartalék képzés és felhasználás különbözete'' soron az adott időszaki céltartalék képzés többletét pozitív előjellel, a céltartalék felhasználás többletét negatív előjellel kell figyelembe venni.
-
-4. Az ,,5. Befektetett eszközök értékesítésének eredménye'' sorban a befektetett eszközök eladási ára (kamatozó értékpapír esetén a felhalmozott kamattal csökkentett eladási ára) és könyv szerinti értéke közötti nyereséget negatív előjellel, a veszteséget pedig pozitív előjellel kell figyelembe venni.
-
-5. A ,,7. Egyéb rövid lejáratú kötelezettség változása'' sorban a vevőktől kapott előlegek, a váltótartozások és az egyéb rövid lejáratú kötelezettségek állomány növekedését pozitív előjellel, állomány csökkenését negatív előjellel kell figyelembe venni.
-
-6. Az egyéb sorokon kimutatott eszköz állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) növekedés esetén negatív előjellel, csökkenés esetén pozitív előjellel kell figyelembe venni, a forrás állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) pedig növekedés esetén pozitív előjellel, csökkenés esetén negatív előjellel kell beállítani.
