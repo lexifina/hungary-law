@@ -10,7 +10,7 @@ c) a vakok írását tartalmazó, belföldi vagy nemzetközi viszonylatú külde
 
 d) a hivatalos iratok.
 
-(3) Az egyetemes postai szolgáltatás keretében a szolgáltatónak biztosítania kell a feladó rendelkezése alapján a (2) bekezdés a) és c) pontjában meghatározott postai küldeményekhez az ajánlott, továbbá a (2) bekezdés a)–c) pontjában meghatározott postai küldeményekhez a tértivevény, illetve értéknyilvánítás-szolgáltatás igénybevételét. Az egyetemes postai szolgáltató a 19. § szerinti Egyetemes Postai Közszolgáltatási Szerződésben közérdekből egyéb többletszolgáltatások nyújtására kötelezhető.
+(3) Az egyetemes postai szolgáltatás keretében a szolgáltatónak biztosítania kell a feladó rendelkezése alapján a (2) bekezdés a) és c) pontjában meghatározott postai küldeményekhez az ajánlott, továbbá a (2) bekezdés a)–c) pontjában meghatározott postai küldeményekhez a tértivevény, illetve értéknyilvánítás-szolgáltatás igénybevételét, valamint a 19. § szerinti Egyetemes Postai Közszolgáltatási Szerződésben meghatározottak szerint az ott meghatározott fajtájú könyvelt küldeményekhez a nyomon követhető kezelést. Az egyetemes postai szolgáltató az Egyetemes Postai Közszolgáltatási Szerződésben közérdekből egyéb többletszolgáltatások nyújtására is kötelezhető.
 
 (4) Az egyetemes postai szolgáltató az egyetemes postai szolgáltatás általános szerződési feltételében az egyetemes postai szolgáltatáshoz a (3) bekezdésben foglaltakon túli többletszolgáltatást is meghirdethet.
 

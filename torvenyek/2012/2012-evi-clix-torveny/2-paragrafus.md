@@ -98,10 +98,12 @@ b) a küldeményen „címzett”-ként feltüntetett, gazdálkodó szervezetnek
 
 39. szolgáltatói hozzáférési pont: postai küldemények hálózati átvételére az átvevő postai szolgáltató által erre a célra kijelölt hely;
 
+39a. szoros kapcsolat: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
+
 40. tértivevény-szolgáltatás: járulékos szolgáltatásnak minősülő – könyvelt küldeményekhez igénybe vehető – postai többletszolgáltatás, amely alapján a postai szolgáltató a kézbesítés napját, valamint a jogosult átvevő nevét és aláírását rögzítő okiratot vagy erre irányuló szerződés esetén annak digitalizált változatát a feladónak visszajuttatja, vagy az aláírást rögzítő technikai eszközzel készített adatokat a feladó rendelkezésére bocsátja;
 
 41. többletszolgáltatás: a postai küldemény felvételéhez, gyűjtéséhez, feldolgozásához, szállításához vagy kézbesítéséhez kapcsolódó, a postai szolgáltatási szerződésben vállalt olyan további szolgáltatás, amelyet a postai szolgáltató a postai szolgáltatás részeként a feladó külön rendelkezése alapján vagy postai szolgáltatáscsomagba foglaltan nyújt;
 
 42. utánvétel-szolgáltatás: az a – könyvelt küldeményekhez igénybe vehető – többletszolgáltatás, amelynek teljesítése során a postai szolgáltató a postai küldeményt a feladó által meghatározott összeg készpénzben vagy egyéb módon történő beszedését követően kézbesíti, és az így beszedett összeget a címzett megbízásából a feladó részére a a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott valamely pénzforgalmi szolgáltatás keretében juttatja el;
 
-43. vakok írását tartalmazó küldemény: kizárólag a vakok és gyengén látók által használt dombornyomású írásokat, véseteket, hangfelvételeket, különleges papírokat vagy mágneslemezeket és egyéb információhordozókat tartalmazó, legfeljebb 7 kilogramm tömegű postai küldemény, amelynek feladója vagy címzettje vak személy vagy a vakok hivatalosan elismert intézete.
+43. vakok írását tartalmazó küldemény: kizárólag a vakok és gyengénlátók által használt dombornyomású írásokat, véseteket, hangfelvételeket, különleges papírokat vagy mágneslemezeket és egyéb információhordozókat, továbbá a vak vagy gyengénlátó személyek látásának sérültségéből eredő problémák leküzdésének céljából készített vagy átalakított berendezést, illetve felszerelést tartalmazó, legfeljebb 7 kilogramm tömegű postai küldemény, amelynek feladója vagy címzettje vak, illetve gyengénlátó személy vagy a vakok hivatalosan elismert intézménye.

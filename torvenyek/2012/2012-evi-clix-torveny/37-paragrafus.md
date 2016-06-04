@@ -1,10 +1,10 @@
-37. § (1) Az egyetemes és az egyetemes postai szolgáltatást helyettesítő postai szolgáltatásokat nyújtó szolgáltató az 5. § a)–b) pontja szerinti szolgáltatás keretében feladott postai küldemények kézbesítését kizárólag a vele munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló természetes személyekkel, vagy – az e postai küldemények kézbesítését végző természetes személyek létszámának egyharmadáig –
+37. § (1) Az egyetemes és az egyetemes postai szolgáltatást helyettesítő postai szolgáltatásokat nyújtó szolgáltató az 5. § a) és b) pontja szerinti szolgáltatás keretében feladott postai küldemények kézbesítési pontnak nem minősülő címhelyen való kézbesítését kizárólag a vele munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló természetes személyekkel, vagy – az e postai küldemények kézbesítését végző természetes személyek létszámának egyharmadáig –
 
-a) személyesen eljáró postai közreműködővel, vagy
+a) személyesen eljáró postai közreműködő vagy
 
-b) a közreműködővel munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló kézbesítést végző természetes személyek igénybevételével
+b) a postai közreműködővel munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló kézbesítést végző természetes személy
 
-végezheti. A postai küldemények kézbesítését végző természetes személyek létszámának megállapításakor egy fő létszámnak az általános teljes napi munkaidőben foglalkoztatott munkavállaló, vagy személyesen eljáró postai közreműködő feleltethető meg. A részmunkaidőben foglalkoztatottakat e rendelkezés alkalmazása szempontjából napi részmunkaidejük időtartama és az általános teljes napi munkaidő arányában kell figyelembe venni.
+igénybevétele útján végezheti. A postai küldemények kézbesítését végző természetes személyek létszámának megállapításakor egy főnek minősül az általános teljes napi munkaidőben foglalkoztatott munkavállaló, tag, személyesen eljáró postai közreműködő. A részmunkaidőben foglalkoztatottakat e rendelkezés alkalmazása szempontjából napi részmunkaidejük időtartama és az általános teljes napi munkaidő arányában kell figyelembe venni.
 
 (2) Amennyiben az engedélyes szolgáltató hálózati hozzáférési szerződést kötött, úgy a hálózati hozzáférést biztosító postai szolgáltató munkaviszonyban alkalmazott vagy közreműködőként igénybe vett kézbesítést végző természetes személyek létszáma az (1) bekezdés szerinti arányszám viszonyítási alapjának számításakor nem vehető figyelembe.
 

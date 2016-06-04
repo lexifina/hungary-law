@@ -4,4 +4,4 @@
 
 (2) Az éves postabélyeg-kibocsátási tématerv összeállítása érdekében az egyetemes postai szolgáltató köteles témakijelölő bizottságot működtetni, amelybe a miniszter és a Hatóság elnöke egy-egy tagot delegál. A témakijelölő bizottság javaslata alapján az éves postabélyeg-kibocsátási tématervet a miniszter hagyja jóvá.
 
-(3) A levélküldeményekkel kapcsolatos postai szolgáltatások díjának megfizetésére az egyetemes postai szolgáltató köteles elfogadni a Magyarországon kibocsátott, érvényben lévő postabélyeget és az Egyetemes Postaegyezmény alapján kibocsátott válaszdíjszelvényeket.
+(3) Az egyetemes postai szolgáltatás keretében feladható levélküldeményekkel kapcsolatos postai szolgáltatások díjának megfizetésére az egyetemes postai szolgáltató köteles elfogadni a Magyarországon kibocsátott, érvényben lévő postabélyeget és az Egyetemes Postaegyezmény alapján kibocsátott válaszdíjszelvényeket.

@@ -12,7 +12,7 @@
 
 (6) A postai szolgáltatónak minden postai szolgáltatóhelyen lehetőséget kell biztosítani a felhasználói bejelentések, panaszok megtételére szóban vagy írásban.
 
-(7) Panasz a postai küldeményhez kapcsolódóan a feladás napjától hat hónapos jogvesztő határidőn belül, sérelmezett tevékenység vagy magatartás esetén az erről való tudomásszerzéstől számított harminc napon belül, de legkésőbb a tevékenység vagy a magatartás megvalósítását követő hat hónapon belül tehető.
+(7) Panasz a postai küldeményhez kapcsolódóan a feladás napjától 6 hónapos jogvesztő határidőn belül, sérelmezett tevékenység esetén az erről való tudomásszerzéstől számított 30 napon belül, de legkésőbb a tevékenység megvalósítását követő 6 hónapon belül tehető.
 
 (8) A postai szolgáltató köteles a beérkező panaszokat ingyenes, egyszerű, átlátható és megkülönböztetéstől mentes eljárás keretében megvizsgálni és a panaszokról, kezelésük módjáról nyilvántartást vezetni. A panaszkezelés felhasználókat érintő szabályait a szolgáltató általános szerződési feltételeiben köteles közzétenni.
 

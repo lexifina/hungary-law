@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-159-00-00
 | 2015-12-24 | 2015. évi CCXXVI. törvény | 2012-159-00-00.9 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2012-159-00-00.10 |
 | 2016-04-02 | 2016. évi XII. törvény | 2012-159-00-00.11 |
+| 2016-06-04 | 2016. évi XXXV. törvény | 2012-159-00-00.12 |

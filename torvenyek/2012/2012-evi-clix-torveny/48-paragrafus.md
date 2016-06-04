@@ -4,7 +4,7 @@
 
 (2) Az időgarantált postai küldemény késedelmes kézbesítéséért vagy a kézbesítés késedelmes megkísérléséért a postai szolgáltató kártérítési átalányt köteles fizetni. A kártérítési átalány összege az időgarantált postai szolgáltatásért fizetett díj kétszerese.
 
-(3) Nem terheli a postai szolgáltatót az időgarantált postai küldemény késedelmes kézbesítéséért, ha
+(3) Nem terheli a postai szolgáltatót kártérítési felelősség az időgarantált postai küldemény késedelmes kézbesítéséért, ha
 
 a) a késedelmet a működési körén kívül eső elháríthatatlan ok idézte elő,
 
